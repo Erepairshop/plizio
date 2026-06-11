@@ -3,7 +3,232 @@ import { POI } from './poi';
 export const kuwaitReliefV2: POI[] = [
 
   {
-    id: "kuwait-jal-al-zor-relief-v2",
+    id: "kuwait-jal-al-zor-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "ROAD-U",
+                  "text": "Ein erhöhter Standort am Jal Al-Zor-Kamm, der einen weiten Blick über die Wüstenlandschaft nach Norden bietet.",
+                  "category": "natural",
+                  "coords": [
+                        47.644767,
+                        29.522055
+                  ]
+            },
+            {
+                  "name": "ROAD-G",
+                  "text": "Dieser Beobachtungspunkt an der Straße bietet eine klare Sicht auf die geologischen Formationen des Jal Al-Zor-Steilhangs.",
+                  "category": "natural",
+                  "coords": [
+                        47.641865,
+                        29.517703
+                  ]
+            },
+            {
+                  "name": "ROAD-T",
+                  "text": "Ein hoher Aussichtspunkt, von dem aus man bei klarer Sicht die Silhouette der Stadt Kuwait am Horizont erahnen kann.",
+                  "category": "natural",
+                  "coords": [
+                        47.63577,
+                        29.519445
+                  ]
+            },
+            {
+                  "name": "ROAD-B",
+                  "text": "Diese Stelle am Straßenrand bietet einen dramatischen Blick auf die Klippen, die abrupt in die Wüstenebene abfallen.",
+                  "category": "natural",
+                  "coords": [
+                        47.636048,
+                        29.498318
+                  ]
+            },
+            {
+                  "name": "ROAD-H",
+                  "text": "Von diesem Standort am Jal Al-Zor genießt man die Aussicht auf die markante geologische Schwelle der Region.",
+                  "category": "natural",
+                  "coords": [
+                        47.634323,
+                        29.475412
+                  ]
+            },
+            {
+                  "name": "Road-T concrete",
+                  "text": "Dieser betonierte Aussichtspunkt bietet eine stabile Plattform für den Blick über den Jal Al-Zor-Hang.",
+                  "category": "natural",
+                  "coords": [
+                        47.63477,
+                        29.49693
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ROAD-U",
+                  "text": "Magaslati pont a Dzsal al-Zor gerincen, ahonnan széles kilátás nyílik észak felé a sivatagi tájra.",
+                  "category": "natural",
+                  "coords": [
+                        47.644767,
+                        29.522055
+                  ]
+            },
+            {
+                  "name": "ROAD-G",
+                  "text": "Ez az út menti megfigyelőpont tiszta rálátást biztosít a Dzsal al-Zor meredek szikláinak geológiai formációira.",
+                  "category": "natural",
+                  "coords": [
+                        47.641865,
+                        29.517703
+                  ]
+            },
+            {
+                  "name": "ROAD-T",
+                  "text": "Magas kilátópont, ahonnan tiszta időben felsejlik Kuvaitváros sziluettje a horizonton.",
+                  "category": "natural",
+                  "coords": [
+                        47.63577,
+                        29.519445
+                  ]
+            },
+            {
+                  "name": "ROAD-B",
+                  "text": "Ez az útmenti hely drámai kilátást nyújt a sivatagi síkságba hirtelen alábukó sziklákra.",
+                  "category": "natural",
+                  "coords": [
+                        47.636048,
+                        29.498318
+                  ]
+            },
+            {
+                  "name": "ROAD-H",
+                  "text": "Erről a Jal Al-Zor-i pontról remek kilátás nyílik a régió jellegzetes geológiai peremére.",
+                  "category": "natural",
+                  "coords": [
+                        47.634323,
+                        29.475412
+                  ]
+            },
+            {
+                  "name": "Road-T concrete",
+                  "text": "Ez a betonozott kilátópont stabil platformot kínál a Jal Al-Zor lankáira való rálátáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        47.63477,
+                        29.49693
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ROAD-U",
+                  "text": "O locație înaltă pe creasta Jal Al-Zor, care oferă o vedere panoramică spre nord peste peisajul deșertic.",
+                  "category": "natural",
+                  "coords": [
+                        47.644767,
+                        29.522055
+                  ]
+            },
+            {
+                  "name": "ROAD-G",
+                  "text": "Acest punct de observație de la drum oferă o vedere clară asupra formațiunilor geologice ale falezei Jal Al-Zor.",
+                  "category": "natural",
+                  "coords": [
+                        47.641865,
+                        29.517703
+                  ]
+            },
+            {
+                  "name": "ROAD-T",
+                  "text": "Un punct de observație înalt de unde, în zilele senine, se poate zări silueta orașului Kuweit la orizont.",
+                  "category": "natural",
+                  "coords": [
+                        47.63577,
+                        29.519445
+                  ]
+            },
+            {
+                  "name": "ROAD-B",
+                  "text": "Acest loc de la marginea drumului oferă o vedere dramatică asupra stâncilor care coboară brusc în câmpia deșertului.",
+                  "category": "natural",
+                  "coords": [
+                        47.636048,
+                        29.498318
+                  ]
+            },
+            {
+                  "name": "ROAD-H",
+                  "text": "Din acest punct de pe Jal Al-Zor se poate admira pragul geologic distinctiv al regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        47.634323,
+                        29.475412
+                  ]
+            },
+            {
+                  "name": "Road-T concrete",
+                  "text": "Acest punct de observație betonat oferă o platformă stabilă pentru a admira pantele de la Jal Al-Zor.",
+                  "category": "natural",
+                  "coords": [
+                        47.63477,
+                        29.49693
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ROAD-U",
+                  "text": "An elevated spot on the Jal Al-Zor ridge providing a wide view across the desert landscape to the north.",
+                  "category": "natural",
+                  "coords": [
+                        47.644767,
+                        29.522055
+                  ]
+            },
+            {
+                  "name": "ROAD-G",
+                  "text": "This roadside observation point offers a clear view of the geological formations of the Jal Al-Zor escarpment.",
+                  "category": "natural",
+                  "coords": [
+                        47.641865,
+                        29.517703
+                  ]
+            },
+            {
+                  "name": "ROAD-T",
+                  "text": "A high vantage point from which, on clear days, one can glimpse the silhouette of Kuwait City on the horizon.",
+                  "category": "natural",
+                  "coords": [
+                        47.63577,
+                        29.519445
+                  ]
+            },
+            {
+                  "name": "ROAD-B",
+                  "text": "This roadside spot offers a dramatic view of the cliffs dropping abruptly into the desert plain.",
+                  "category": "natural",
+                  "coords": [
+                        47.636048,
+                        29.498318
+                  ]
+            },
+            {
+                  "name": "ROAD-H",
+                  "text": "From this spot at Jal Al-Zor, one can enjoy views of the region's distinctive geological escarpment.",
+                  "category": "natural",
+                  "coords": [
+                        47.634323,
+                        29.475412
+                  ]
+            },
+            {
+                  "name": "Road-T concrete",
+                  "text": "This concrete viewpoint provides a stable platform for looking out over the Jal Al-Zor escarpment.",
+                  "category": "natural",
+                  "coords": [
+                        47.63477,
+                        29.49693
+                  ]
+            }
+      ]
+},
     parent: "KW",
     type: "mountain",
     name: { de: "Jal al-Zor Böschung", hu: "Dzsal az-Zaur-párkány", ro: "Abruptul Jal al-Zor", en: "Jal Al-Zor Escarpment" },
@@ -498,7 +723,412 @@ export const kuwaitReliefV2: POI[] = [
     image: "/poi-images/kuwait-ad-dira-relief-v2.webp",
   },
   {
-    id: "kuwait-jabal-al-maseilah-relief-v2",
+    id: "kuwait-jabal-al-maseilah-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Noor Mosque",
+                  "text": "Die Noor-Moschee in der Nähe von Jabal Al-Maseilah fungiert als wichtige islamische religiöse Stätte.",
+                  "category": "landmark",
+                  "coords": [
+                        48.074472,
+                        29.205632
+                  ]
+            },
+            {
+                  "name": "Oqba Bin wahab Mosque",
+                  "text": "Die Oqba-Bin-Wahab-Moschee bietet muslimischen Gläubigen, die im Gebiet von Jabal Al-Maseilah leben, Platz.",
+                  "category": "landmark",
+                  "coords": [
+                        48.08311,
+                        29.206732
+                  ]
+            },
+            {
+                  "name": "Al-Hafed Bin Shehab Al-Zehri",
+                  "text": "Die Al-Hafed-Bin-Shehab-Al-Zehri-Moschee ist ein spezielles Zentrum für islamische Gebete im Jabal Al-Maseilah.",
+                  "category": "landmark",
+                  "coords": [
+                        48.08282,
+                        29.203483
+                  ]
+            },
+            {
+                  "name": "Mohammed Mosque",
+                  "text": "Diese Mohammed-Moschee in Jabal Al-Maseilah bietet der lokalen muslimischen Gemeinde einen ruhigen Raum.",
+                  "category": "landmark",
+                  "coords": [
+                        48.08265,
+                        29.200269
+                  ]
+            },
+            {
+                  "name": "Khuzaymah ibn Aws Mosque",
+                  "text": "Die Khuzaymah ibn Aws Moschee ist eine aktive islamische Gebetsstätte im Jabal Al-Maseilah.",
+                  "category": "landmark",
+                  "coords": [
+                        48.086822,
+                        29.196616
+                  ]
+            },
+            {
+                  "name": "Abdulrhman Mosque",
+                  "text": "Die Abdulrhman-Moschee bietet der muslimischen Gemeinde von Jabal Al-Maseilah religiöse Dienste an.",
+                  "category": "landmark",
+                  "coords": [
+                        48.083907,
+                        29.192379
+                  ]
+            },
+            {
+                  "name": "Buraidah Mosque",
+                  "text": "Die Buraidah-Moschee im Jabal Al-Maseilah fungiert als alltäglicher islamischer Gebetssaal.",
+                  "category": "landmark",
+                  "coords": [
+                        48.082245,
+                        29.196457
+                  ]
+            },
+            {
+                  "name": "Al-Hafed Bin Kather Mosque",
+                  "text": "Die Al-Hafed-Bin-Kather-Moschee ist ein Treffpunkt für islamische Gläubige im Viertel Jabal Al-Maseilah.",
+                  "category": "landmark",
+                  "coords": [
+                        48.071707,
+                        29.214912
+                  ]
+            },
+            {
+                  "name": "Haram Bin Mulhan Mosque",
+                  "text": "Die Haram-Bin-Mulhan-Moschee bietet lokalen Muslimen in Jabal Al-Maseilah Platz für Gebete und religiöse Studien.",
+                  "category": "landmark",
+                  "coords": [
+                        48.071301,
+                        29.219007
+                  ]
+            },
+            {
+                  "name": "Al-Hareth Bin Omar Al-Ansari Mosque",
+                  "text": "Die Al-Hareth-Bin-Omar-Al-Ansari-Moschee ist ein integraler Bestandteil der islamischen Gemeindeinfrastruktur in Jabal Al-Maseilah.",
+                  "category": "landmark",
+                  "coords": [
+                        48.067497,
+                        29.219615
+                  ]
+            },
+            {
+                  "name": "Rafie Bin Amro Al-Gafari Mosque",
+                  "text": "Die Rafie-Bin-Amro-Al-Gafari-Moschee ist eine eigene muslimische Gebetsstätte im Bezirk Jabal Al-Maseilah.",
+                  "category": "landmark",
+                  "coords": [
+                        48.086641,
+                        29.184154
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Noor Mosque",
+                  "text": "A Jabal Al-Maseilah közelében található Noor mecset alapvető iszlám vallási helyszínként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        48.074472,
+                        29.205632
+                  ]
+            },
+            {
+                  "name": "Oqba Bin wahab Mosque",
+                  "text": "Az Oqba Bin Wahab mecset a Jabal Al-Maseilah térségében élő muszlim hívőket fogadja.",
+                  "category": "landmark",
+                  "coords": [
+                        48.08311,
+                        29.206732
+                  ]
+            },
+            {
+                  "name": "Al-Hafed Bin Shehab Al-Zehri",
+                  "text": "Az Al-Hafed Bin Shehab Al-Zehri mecset egy dedikált központ iszlám imákra Jabal Al-Maseilah területén.",
+                  "category": "landmark",
+                  "coords": [
+                        48.08282,
+                        29.203483
+                  ]
+            },
+            {
+                  "name": "Mohammed Mosque",
+                  "text": "Ez a Jabal Al-Maseilah-i Mohammed mecset nyugodt teret kínál a helyi muszlim gyülekezet számára.",
+                  "category": "landmark",
+                  "coords": [
+                        48.08265,
+                        29.200269
+                  ]
+            },
+            {
+                  "name": "Khuzaymah ibn Aws Mosque",
+                  "text": "A Khuzaymah ibn Aws mecset egy aktív iszlám istentiszteleti hely Jabal Al-Maseilah területén.",
+                  "category": "landmark",
+                  "coords": [
+                        48.086822,
+                        29.196616
+                  ]
+            },
+            {
+                  "name": "Abdulrhman Mosque",
+                  "text": "Az Abdulrhman mecset vallási szolgáltatásokat nyújt a Jabal Al-Maseilah muszlim közössége számára.",
+                  "category": "landmark",
+                  "coords": [
+                        48.083907,
+                        29.192379
+                  ]
+            },
+            {
+                  "name": "Buraidah Mosque",
+                  "text": "A Jabal Al-Maseilah területén álló Buraidah mecset mindennapi iszlám imateremként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        48.082245,
+                        29.196457
+                  ]
+            },
+            {
+                  "name": "Al-Hafed Bin Kather Mosque",
+                  "text": "Az Al-Hafed Bin Kather mecset egy gyülekezési pont az iszlám hívők számára Jabal Al-Maseilah negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.071707,
+                        29.214912
+                  ]
+            },
+            {
+                  "name": "Haram Bin Mulhan Mosque",
+                  "text": "A Haram Bin Mulhan mecset a helyi muszlimokat fogadja imákra és vallási tanulmányokra Jabal Al-Maseilah területén.",
+                  "category": "landmark",
+                  "coords": [
+                        48.071301,
+                        29.219007
+                  ]
+            },
+            {
+                  "name": "Al-Hareth Bin Omar Al-Ansari Mosque",
+                  "text": "Az Al-Hareth Bin Omar Al-Ansari mecset a Jabal Al-Maseilah-i iszlám közösségi infrastruktúra szerves része.",
+                  "category": "landmark",
+                  "coords": [
+                        48.067497,
+                        29.219615
+                  ]
+            },
+            {
+                  "name": "Rafie Bin Amro Al-Gafari Mosque",
+                  "text": "A Rafie Bin Amro Al-Gafari mecset egy dedikált muszlim istentiszteleti hely Jabal Al-Maseilah körzetében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.086641,
+                        29.184154
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Noor Mosque",
+                  "text": "Situată lângă Jabal Al-Maseilah, Moscheea Noor funcționează ca un sit religios islamic esențial.",
+                  "category": "landmark",
+                  "coords": [
+                        48.074472,
+                        29.205632
+                  ]
+            },
+            {
+                  "name": "Oqba Bin wahab Mosque",
+                  "text": "Moscheea Oqba Bin Wahab găzduiește închinătorii musulmani care locuiesc în zona Jabal Al-Maseilah.",
+                  "category": "landmark",
+                  "coords": [
+                        48.08311,
+                        29.206732
+                  ]
+            },
+            {
+                  "name": "Al-Hafed Bin Shehab Al-Zehri",
+                  "text": "Moscheea Al-Hafed Bin Shehab Al-Zehri este un centru dedicat pentru rugăciunile islamice în Jabal Al-Maseilah.",
+                  "category": "landmark",
+                  "coords": [
+                        48.08282,
+                        29.203483
+                  ]
+            },
+            {
+                  "name": "Mohammed Mosque",
+                  "text": "Această moschee Mohammed din Jabal Al-Maseilah oferă un spațiu liniștit pentru congregația musulmană locală.",
+                  "category": "landmark",
+                  "coords": [
+                        48.08265,
+                        29.200269
+                  ]
+            },
+            {
+                  "name": "Khuzaymah ibn Aws Mosque",
+                  "text": "Moscheea Khuzaymah ibn Aws este un loc de cult islamic activ care operează în Jabal Al-Maseilah.",
+                  "category": "landmark",
+                  "coords": [
+                        48.086822,
+                        29.196616
+                  ]
+            },
+            {
+                  "name": "Abdulrhman Mosque",
+                  "text": "Moscheea Abdulrhman oferă servicii religioase comunității musulmane din Jabal Al-Maseilah.",
+                  "category": "landmark",
+                  "coords": [
+                        48.083907,
+                        29.192379
+                  ]
+            },
+            {
+                  "name": "Buraidah Mosque",
+                  "text": "Moscheea Buraidah se află în Jabal Al-Maseilah, funcționând ca o sală de rugăciune islamică de zi cu zi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.082245,
+                        29.196457
+                  ]
+            },
+            {
+                  "name": "Al-Hafed Bin Kather Mosque",
+                  "text": "Moscheea Al-Hafed Bin Kather este un punct de adunare pentru închinătorii islamici în cartierul Jabal Al-Maseilah.",
+                  "category": "landmark",
+                  "coords": [
+                        48.071707,
+                        29.214912
+                  ]
+            },
+            {
+                  "name": "Haram Bin Mulhan Mosque",
+                  "text": "Moscheea Haram Bin Mulhan găzduiește musulmanii locali pentru rugăciuni și studii religioase în Jabal Al-Maseilah.",
+                  "category": "landmark",
+                  "coords": [
+                        48.071301,
+                        29.219007
+                  ]
+            },
+            {
+                  "name": "Al-Hareth Bin Omar Al-Ansari Mosque",
+                  "text": "Moscheea Al-Hareth Bin Omar Al-Ansari este o parte integrantă a infrastructurii comunității islamice din Jabal Al-Maseilah.",
+                  "category": "landmark",
+                  "coords": [
+                        48.067497,
+                        29.219615
+                  ]
+            },
+            {
+                  "name": "Rafie Bin Amro Al-Gafari Mosque",
+                  "text": "Moscheea Rafie Bin Amro Al-Gafari este un loc de cult musulman dedicat în districtul Jabal Al-Maseilah.",
+                  "category": "landmark",
+                  "coords": [
+                        48.086641,
+                        29.184154
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Noor Mosque",
+                  "text": "Located near Jabal Al-Maseilah, the Noor Mosque functions as an essential Islamic religious site.",
+                  "category": "landmark",
+                  "coords": [
+                        48.074472,
+                        29.205632
+                  ]
+            },
+            {
+                  "name": "Oqba Bin wahab Mosque",
+                  "text": "Oqba Bin Wahab Mosque accommodates Muslim worshippers living in the Jabal Al-Maseilah area.",
+                  "category": "landmark",
+                  "coords": [
+                        48.08311,
+                        29.206732
+                  ]
+            },
+            {
+                  "name": "Al-Hafed Bin Shehab Al-Zehri",
+                  "text": "The Al-Hafed Bin Shehab Al-Zehri Mosque is a dedicated center for Islamic prayers in Jabal Al-Maseilah.",
+                  "category": "landmark",
+                  "coords": [
+                        48.08282,
+                        29.203483
+                  ]
+            },
+            {
+                  "name": "Mohammed Mosque",
+                  "text": "This Mohammed Mosque in Jabal Al-Maseilah offers a tranquil space for the local Muslim congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        48.08265,
+                        29.200269
+                  ]
+            },
+            {
+                  "name": "Khuzaymah ibn Aws Mosque",
+                  "text": "Khuzaymah ibn Aws Mosque is an active Islamic worship site operating within Jabal Al-Maseilah.",
+                  "category": "landmark",
+                  "coords": [
+                        48.086822,
+                        29.196616
+                  ]
+            },
+            {
+                  "name": "Abdulrhman Mosque",
+                  "text": "Abdulrhman Mosque provides religious services to the Muslim community of Jabal Al-Maseilah.",
+                  "category": "landmark",
+                  "coords": [
+                        48.083907,
+                        29.192379
+                  ]
+            },
+            {
+                  "name": "Buraidah Mosque",
+                  "text": "Buraidah Mosque stands in Jabal Al-Maseilah, functioning as an everyday Islamic prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        48.082245,
+                        29.196457
+                  ]
+            },
+            {
+                  "name": "Al-Hafed Bin Kather Mosque",
+                  "text": "The Al-Hafed Bin Kather Mosque is a gathering point for Islamic worshippers in the Jabal Al-Maseilah neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        48.071707,
+                        29.214912
+                  ]
+            },
+            {
+                  "name": "Haram Bin Mulhan Mosque",
+                  "text": "Haram Bin Mulhan Mosque accommodates local Muslims for prayers and religious study in Jabal Al-Maseilah.",
+                  "category": "landmark",
+                  "coords": [
+                        48.071301,
+                        29.219007
+                  ]
+            },
+            {
+                  "name": "Al-Hareth Bin Omar Al-Ansari Mosque",
+                  "text": "Al-Hareth Bin Omar Al-Ansari Mosque is an integral part of the Islamic community infrastructure in Jabal Al-Maseilah.",
+                  "category": "landmark",
+                  "coords": [
+                        48.067497,
+                        29.219615
+                  ]
+            },
+            {
+                  "name": "Rafie Bin Amro Al-Gafari Mosque",
+                  "text": "Rafie Bin Amro Al-Gafari Mosque is a dedicated Muslim worship site in the district of Jabal Al-Maseilah.",
+                  "category": "landmark",
+                  "coords": [
+                        48.086641,
+                        29.184154
+                  ]
+            }
+      ]
+},
     parent: "KW",
     type: "peak",
     name: { de: "Jabal al-Maseilah Hügel", hu: "Dzsebel al-Maszejla", ro: "Dealul Jabal al-Maseilah", en: "Jabal Al-Maseilah" },
@@ -588,7 +1218,52 @@ export const kuwaitReliefV2: POI[] = [
     image: "/poi-images/kuwait-al-hujayjah-relief-v2.webp",
   },
   {
-    id: "kuwait-wadi-al-shagaya-relief-v2",
+    id: "kuwait-wadi-al-shagaya-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "old mosque",
+                  "text": "Die alte Moschee besteht aus historischen architektonischen Ruinen, die einst als lokale islamische Kultstätte dienten.",
+                  "category": "historical",
+                  "coords": [
+                        46.637946,
+                        29.075955
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "old mosque",
+                  "text": "A régi mecset történelmi építészeti romokból áll, amelyek egykor helyi iszlám imahelyként szolgáltak.",
+                  "category": "historical",
+                  "coords": [
+                        46.637946,
+                        29.075955
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "old mosque",
+                  "text": "Vechea moschee constă din ruine arhitecturale istorice care au servit cândva ca lăcaș de cult islamic local.",
+                  "category": "historical",
+                  "coords": [
+                        46.637946,
+                        29.075955
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "old mosque",
+                  "text": "The old mosque consists of historic architectural ruins that once served as a local Islamic place of worship.",
+                  "category": "historical",
+                  "coords": [
+                        46.637946,
+                        29.075955
+                  ]
+            }
+      ]
+},
     parent: "KW",
     type: "valley",
     name: { de: "Wadi al-Shagaya Tal", hu: "Vádí as-Sagája", ro: "Valea Wadi al-Shagaya", en: "Wadi Al-Shagaya" },
@@ -993,7 +1668,52 @@ export const kuwaitReliefV2: POI[] = [
     image: "/poi-images/kuwait-khabrat-al-malha-relief-v2.webp",
   },
   {
-    id: "kuwait-al-kabrit-plain-relief-v2",
+    id: "kuwait-al-kabrit-plain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Saad Abdullah Al Eaban",
+                  "text": "Die Saad Abdullah Al Eaban Moschee ist ein islamischer Gebetsort in der weiten Landschaft der Al-Kabrit Ebene in Kuwait.",
+                  "category": "landmark",
+                  "coords": [
+                        48.28397,
+                        28.74474
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saad Abdullah Al Eaban",
+                  "text": "A Saad Abdullah Al Eaban Mecset egy iszlám imahely a kuvaiti Al-Kabrit síkság tágas vidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        48.28397,
+                        28.74474
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saad Abdullah Al Eaban",
+                  "text": "Moscheea Saad Abdullah Al Eaban este un loc de rugăciune islamic situat în peisajul vast al Câmpiei Al-Kabrit din Kuweit.",
+                  "category": "landmark",
+                  "coords": [
+                        48.28397,
+                        28.74474
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saad Abdullah Al Eaban",
+                  "text": "The Saad Abdullah Al Eaban Mosque is an Islamic prayer site located in the vast landscape of the Al-Kabrit Plain in Kuwait.",
+                  "category": "landmark",
+                  "coords": [
+                        48.28397,
+                        28.74474
+                  ]
+            }
+      ]
+},
     parent: "KW",
     type: "landmark",
     name: { de: "Al-Kabrit Ebene", hu: "Al-Kabrit-síkság", ro: "Câmpia Al-Kabrit", en: "Al-Kabrit Plain" },
@@ -1083,7 +1803,124 @@ export const kuwaitReliefV2: POI[] = [
     image: "/poi-images/kuwait-umm-ruaba-relief-v2.webp",
   },
   {
-    id: "kuwait-wadi-umm-al-hayman-relief-v2",
+    id: "kuwait-wadi-umm-al-hayman-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Shaikh Abdullah Al Mubark",
+                  "text": "Al Shaikh Abdullah Al Mubark ist eine herausragende Moschee, die die täglichen islamischen Praktiken im Gebiet des Wadi Umm Al Hayman ermöglicht.",
+                  "category": "landmark",
+                  "coords": [
+                        48.2071,
+                        28.922529
+                  ]
+            },
+            {
+                  "name": "Hajj Ibrahim Abdullatif Al-Awadi",
+                  "text": "Die Moschee Hajj Ibrahim Abdullatif Al-Awadi bietet der Gemeinde in der Region Wadi Umm Al Hayman Raum und spirituelle Führung.",
+                  "category": "landmark",
+                  "coords": [
+                        48.124801,
+                        28.944342
+                  ]
+            },
+            {
+                  "name": "Faisal Matrouk Al-Enezi",
+                  "text": "Faisal Matrouk Al-Enezi dient als muslimische Stätte der Nachbarschaft für regelmäßige Gebete im Wadi Umm Al Hayman.",
+                  "category": "landmark",
+                  "coords": [
+                        48.115348,
+                        28.949166
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Shaikh Abdullah Al Mubark",
+                  "text": "Az Al Shaikh Abdullah Al Mubark egy kiemelkedő mecset, amely megkönnyíti a mindennapi iszlám gyakorlatokat a Wadi Umm Al Hayman területén.",
+                  "category": "landmark",
+                  "coords": [
+                        48.2071,
+                        28.922529
+                  ]
+            },
+            {
+                  "name": "Hajj Ibrahim Abdullatif Al-Awadi",
+                  "text": "A Hajj Ibrahim Abdullatif Al-Awadi mecset közösségi teret és spirituális útmutatást biztosít a Wadi Umm Al Hayman régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        48.124801,
+                        28.944342
+                  ]
+            },
+            {
+                  "name": "Faisal Matrouk Al-Enezi",
+                  "text": "A Faisal Matrouk Al-Enezi egy szomszédsági muszlim vallási helyként szolgál a rendszeres imádságokhoz Wadi Umm Al Haymanban.",
+                  "category": "landmark",
+                  "coords": [
+                        48.115348,
+                        28.949166
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Shaikh Abdullah Al Mubark",
+                  "text": "Al Shaikh Abdullah Al Mubark este o moschee proeminentă care facilitează practicile islamice zilnice în zona Wadi Umm Al Hayman.",
+                  "category": "landmark",
+                  "coords": [
+                        48.2071,
+                        28.922529
+                  ]
+            },
+            {
+                  "name": "Hajj Ibrahim Abdullatif Al-Awadi",
+                  "text": "Moscheea Hajj Ibrahim Abdullatif Al-Awadi oferă spațiu comunitar și îndrumare spirituală în regiunea Wadi Umm Al Hayman.",
+                  "category": "landmark",
+                  "coords": [
+                        48.124801,
+                        28.944342
+                  ]
+            },
+            {
+                  "name": "Faisal Matrouk Al-Enezi",
+                  "text": "Faisal Matrouk Al-Enezi servește ca loc musulman de cartier pentru rugăciuni regulate în Wadi Umm Al Hayman.",
+                  "category": "landmark",
+                  "coords": [
+                        48.115348,
+                        28.949166
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Shaikh Abdullah Al Mubark",
+                  "text": "Al Shaikh Abdullah Al Mubark is a prominent mosque facilitating daily Islamic practices in the Wadi Umm Al Hayman area.",
+                  "category": "landmark",
+                  "coords": [
+                        48.2071,
+                        28.922529
+                  ]
+            },
+            {
+                  "name": "Hajj Ibrahim Abdullatif Al-Awadi",
+                  "text": "The Hajj Ibrahim Abdullatif Al-Awadi mosque provides community space and spiritual guidance within the Wadi Umm Al Hayman region.",
+                  "category": "landmark",
+                  "coords": [
+                        48.124801,
+                        28.944342
+                  ]
+            },
+            {
+                  "name": "Faisal Matrouk Al-Enezi",
+                  "text": "Faisal Matrouk Al-Enezi serves as a neighborhood Muslim site for regular prayers in Wadi Umm Al Hayman.",
+                  "category": "landmark",
+                  "coords": [
+                        48.115348,
+                        28.949166
+                  ]
+            }
+      ]
+},
     parent: "KW",
     type: "valley",
     name: { de: "Wadi Umm al-Hayman", hu: "Vádí Umm al-Hajmán", ro: "Valea Wadi Umm al-Hayman", en: "Wadi Umm Al-Hayman" },

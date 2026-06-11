@@ -205,7 +205,7 @@ export const romaniaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Păpușa",
-                  "text": "Ein markanter Berggipfel in den rumänischen Karpaten.",
+                  "text": "Felsformation Păpușa auf dem Gipfel Vârful Păpușa.",
                   "category": "landmark",
                   "coords": [
                         25.061188,
@@ -214,7 +214,7 @@ export const romaniaReliefV2: POI[] = [
             },
             {
                   "name": "Cascue",
-                  "text": "Ein Gipfel im Gebirgsmassiv des Păpușa.",
+                  "text": "Gipfel Cascue im Papusa-Gebirge.",
                   "category": "landmark",
                   "coords": [
                         25.064793,
@@ -223,7 +223,7 @@ export const romaniaReliefV2: POI[] = [
             },
             {
                   "name": "Piscul Dracsin",
-                  "text": "Ein Berggipfel im Păpușa-Massiv.",
+                  "text": "Gipfel Piscul Dracsin im Papusa-Gebirge.",
                   "category": "landmark",
                   "coords": [
                         25.086468,
@@ -234,7 +234,7 @@ export const romaniaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Păpușa",
-                  "text": "Jelentős hegycsúcs a romániai Kárpátokban.",
+                  "text": "Păpușa sziklaformáció a Vârful Păpușa csúcsán.",
                   "category": "landmark",
                   "coords": [
                         25.061188,
@@ -243,7 +243,7 @@ export const romaniaReliefV2: POI[] = [
             },
             {
                   "name": "Cascue",
-                  "text": "Hegycsúcs a Păpușa-hegység területén.",
+                  "text": "Cascue csúcs a Papusa-hegységben.",
                   "category": "landmark",
                   "coords": [
                         25.064793,
@@ -252,7 +252,7 @@ export const romaniaReliefV2: POI[] = [
             },
             {
                   "name": "Piscul Dracsin",
-                  "text": "Hegyi csúcs a Păpușa-hegy közelében.",
+                  "text": "Piscul Dracsin csúcs a Papusa-hegységben.",
                   "category": "landmark",
                   "coords": [
                         25.086468,
@@ -263,7 +263,7 @@ export const romaniaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Păpușa",
-                  "text": "Un vârf muntos proeminent din Carpații Meridionali.",
+                  "text": "Formațiune stâncoasă Păpușa pe Vârful Păpușa.",
                   "category": "landmark",
                   "coords": [
                         25.061188,
@@ -272,7 +272,7 @@ export const romaniaReliefV2: POI[] = [
             },
             {
                   "name": "Cascue",
-                  "text": "Un vârf muntos situat în masivul Păpușa.",
+                  "text": "Vârful Cascue în Munții Papusa.",
                   "category": "landmark",
                   "coords": [
                         25.064793,
@@ -281,7 +281,7 @@ export const romaniaReliefV2: POI[] = [
             },
             {
                   "name": "Piscul Dracsin",
-                  "text": "Un vârf muntos în masivul Păpușa.",
+                  "text": "Vârful Piscul Dracsin în Munții Papusa.",
                   "category": "landmark",
                   "coords": [
                         25.086468,
@@ -292,7 +292,7 @@ export const romaniaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Păpușa",
-                  "text": "A prominent mountain peak in the Romanian Carpathians.",
+                  "text": "Rock formation Păpușa on Vârful Păpușa.",
                   "category": "landmark",
                   "coords": [
                         25.061188,
@@ -301,7 +301,7 @@ export const romaniaReliefV2: POI[] = [
             },
             {
                   "name": "Cascue",
-                  "text": "A mountain peak located in the Păpușa massif.",
+                  "text": "Summit Cascue in the Papusa Mountains.",
                   "category": "landmark",
                   "coords": [
                         25.064793,
@@ -310,7 +310,7 @@ export const romaniaReliefV2: POI[] = [
             },
             {
                   "name": "Piscul Dracsin",
-                  "text": "A mountain peak in the Păpușa massif.",
+                  "text": "Peak Piscul Dracsin in the Papusa Mountains.",
                   "category": "landmark",
                   "coords": [
                         25.086468,
@@ -1141,7 +1141,7 @@ export const romaniaReliefV2: POI[] = [
             },
             {
                   "name": "Chica Popii",
-                  "text": "Ein Berggipfel im Căpățânii-Gebirge.",
+                  "text": "Felsgipfel Chica Popii in den Căpățâni-Bergen.",
                   "category": "landmark",
                   "coords": [
                         23.991422,
@@ -1161,7 +1161,7 @@ export const romaniaReliefV2: POI[] = [
             },
             {
                   "name": "Chica Popii",
-                  "text": "Egy hegycsúcs a Căpățânii-hegységben.",
+                  "text": "Chica Popii sziklacsúcs a Căpățâni-hegységben.",
                   "category": "landmark",
                   "coords": [
                         23.991422,
@@ -1181,7 +1181,7 @@ export const romaniaReliefV2: POI[] = [
             },
             {
                   "name": "Chica Popii",
-                  "text": "Un vârf montan în munții Căpățânii.",
+                  "text": "Vârf stâncos Chica Popii în Munții Căpățânii.",
                   "category": "landmark",
                   "coords": [
                         23.991422,
@@ -1201,7 +1201,7 @@ export const romaniaReliefV2: POI[] = [
             },
             {
                   "name": "Chica Popii",
-                  "text": "A mountain peak in the Căpățânii Mountains.",
+                  "text": "Rocky peak Chica Popii in the Căpățânii Mountains.",
                   "category": "landmark",
                   "coords": [
                         23.991422,
@@ -2509,7 +2509,7 @@ export const romaniaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Igniș",
-                  "text": "Ein markanter Vulkanpeak im Gutâi-Gebirge.",
+                  "text": "Der Igniș ist ein Berggipfel im Gutâi-Gebirge mit Panoramablick.",
                   "category": "landmark",
                   "coords": [
                         23.672899,
@@ -2520,7 +2520,7 @@ export const romaniaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Rozsály tető",
-                  "text": "Jellegzetes vulkáni csúcs a Gutin-hegységben.",
+                  "text": "Az Igniș egy hegycsúcs a Gutâi-hegységben, panorámás kilátással.",
                   "category": "landmark",
                   "coords": [
                         23.672899,
@@ -2531,7 +2531,7 @@ export const romaniaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Igniș",
-                  "text": "Un vârf vulcanic proeminent situat în Munții Gutâi.",
+                  "text": "Vârful Igniș este un vârf muntos în Munții Gutâi, cu vedere panoramică.",
                   "category": "landmark",
                   "coords": [
                         23.672899,
@@ -2542,7 +2542,7 @@ export const romaniaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Igniș",
-                  "text": "A prominent volcanic peak in the Gutâi Mountains.",
+                  "text": "Igniș is a mountain peak in the Gutâi Mountains with panoramic views.",
                   "category": "landmark",
                   "coords": [
                         23.672899,
@@ -2779,7 +2779,7 @@ export const romaniaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Pietrosul Călimani",
-                  "text": "Der Pietrosul Călimani ist der höchste Gipfel des Călimani-Gebirges in Rumänien.",
+                  "text": "Der Pietrosul Călimani ist mit 2.102 m der höchste Gipfel des Călimani-Gebirges.",
                   "category": "landmark",
                   "coords": [
                         25.18558,
@@ -2790,7 +2790,7 @@ export const romaniaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Pietrosz, Nagy-Köves",
-                  "text": "A Pietrosul Călimani a romániai Kelemen-havasok legmagasabb csúcsa.",
+                  "text": "A Pietrosul Călimani a Călimani-hegység legmagasabb csúcsa, 2102 m magas.",
                   "category": "landmark",
                   "coords": [
                         25.18558,
@@ -2801,7 +2801,7 @@ export const romaniaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Pietrosul Călimani",
-                  "text": "Pietrosul Călimani este cel mai înalt vârf din munții Călimani, România.",
+                  "text": "Pietrosul Călimani este cel mai înalt vârf al Munților Călimani, cu 2102 m.",
                   "category": "landmark",
                   "coords": [
                         25.18558,
@@ -2812,7 +2812,7 @@ export const romaniaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Pietrosul Călimani",
-                  "text": "Pietrosul Călimani is the highest peak in the Călimani Mountains of Romania.",
+                  "text": "Pietrosul Călimani is the highest peak of the Călimani Mountains at 2,102 m.",
                   "category": "landmark",
                   "coords": [
                         25.18558,
@@ -4183,7 +4183,7 @@ export const romaniaReliefV2: POI[] = [
             },
             {
                   "name": "Muzeul Etnografic",
-                  "text": "Ein Museum für Volkskunde auf dem Bedeleu-Gipfel.",
+                  "text": "1952 eröffnetes ethnographisches Museum auf dem Gipfel Bedeleu (Vârful Bedeleu).",
                   "category": "museum",
                   "coords": [
                         23.568235,
@@ -4192,7 +4192,7 @@ export const romaniaReliefV2: POI[] = [
             },
             {
                   "name": "Castelul Torockószentgyörgy",
-                  "text": "Eine historische Burganlage in der Nähe des Bedeleu-Gipfels.",
+                  "text": "Eine Burgruine auf dem Gipfel des Bedeleu-Berges in den Trascău-Bergen.",
                   "category": "castle",
                   "coords": [
                         23.560426,
@@ -4230,7 +4230,7 @@ export const romaniaReliefV2: POI[] = [
             },
             {
                   "name": "Néprajzi Múzeum",
-                  "text": "Néprajzi múzeum a Bedellő-tetőnél.",
+                  "text": "1952-ben megnyílt Néprajzi Múzeum a Bedeleu csúcson (Vârful Bedeleu).",
                   "category": "museum",
                   "coords": [
                         23.568235,
@@ -4239,7 +4239,7 @@ export const romaniaReliefV2: POI[] = [
             },
             {
                   "name": "Castelul Torockószentgyörgy",
-                  "text": "Történelmi várkastély a Bedellő-tetőnél.",
+                  "text": "Egy várrom a Bedeleu-hegy csúcsán a Torockói-hegységben.",
                   "category": "castle",
                   "coords": [
                         23.560426,
@@ -4277,7 +4277,7 @@ export const romaniaReliefV2: POI[] = [
             },
             {
                   "name": "Muzeul Etnografic",
-                  "text": "Un muzeu etnografic situat pe culmea Bedeleu.",
+                  "text": "Muzeul Etnografic de pe Vârful Bedeleu, deschis în 1952.",
                   "category": "museum",
                   "coords": [
                         23.568235,
@@ -4286,7 +4286,7 @@ export const romaniaReliefV2: POI[] = [
             },
             {
                   "name": "Castelul Torockószentgyörgy",
-                  "text": "Un castel istoric situat în apropierea culmii Bedeleu.",
+                  "text": "O ruină de castel pe vârful muntelui Bedeleu în Munții Trascău.",
                   "category": "castle",
                   "coords": [
                         23.560426,
@@ -4324,7 +4324,7 @@ export const romaniaReliefV2: POI[] = [
             },
             {
                   "name": "Ethnographic Museum",
-                  "text": "An ethnographic museum located on the Bedeleu Peak.",
+                  "text": "Ethnographic Museum on Bedeleu Peak, opened in 1952.",
                   "category": "museum",
                   "coords": [
                         23.568235,
@@ -4333,7 +4333,7 @@ export const romaniaReliefV2: POI[] = [
             },
             {
                   "name": "Castelul Torockószentgyörgy",
-                  "text": "A historic castle situated near the Bedeleu Peak.",
+                  "text": "A castle ruin on the peak of Bedeleu Mountain in the Trascău Mountains.",
                   "category": "castle",
                   "coords": [
                         23.560426,

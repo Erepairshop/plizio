@@ -3,7 +3,304 @@ import type { POI } from "./poi";
 
 export const poiExtraTurkmenistanEconomicV2: POI[] = [
   {
-    id: "turkmenbashi-seaport-economic-v2",
+    id: "turkmenbashi-seaport-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Front 339.4",
+                  "text": "Ein markanter Leuchtturm im Seehafen von Turkmenbaschi, der den internationalen Schiffsverkehr leitet.",
+                  "category": "landmark",
+                  "coords": [
+                        52.989525,
+                        40.014906
+                  ]
+            },
+            {
+                  "name": "100 let Krasnovodsku",
+                  "text": "Dieses Denkmal erinnert an das 100-jährige Bestehen der Stadt, die ursprünglich als Krasnowodsk gegründet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        52.9918,
+                        40.000339
+                  ]
+            },
+            {
+                  "name": "Nebitçi Medeniýet Köşgi",
+                  "text": "Dieser neoklassizistische Kulturpalast wurde 1951 für die Arbeiter der Ölindustrie in Turkmenbaschi erbaut.",
+                  "category": "cultural",
+                  "coords": [
+                        52.993966,
+                        40.005069
+                  ]
+            },
+            {
+                  "name": "Baş perişde Sent-Maýkl buthanasy",
+                  "text": "Diese russisch-orthodoxe Kirche in Turkmenbaschi ist für ihre traditionellen blauen Kuppeln bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        52.999297,
+                        40.008451
+                  ]
+            },
+            {
+                  "name": "Türkmen Metjidi",
+                  "text": "Eine zentrale Moschee in Turkmenbaschi, die als wichtiges geistliches Zentrum für die muslimische Bevölkerung dient.",
+                  "category": "landmark",
+                  "coords": [
+                        52.998397,
+                        40.011147
+                  ]
+            },
+            {
+                  "name": "Armenian Church",
+                  "text": "Diese historische Steinkirche aus dem 19. Jahrhundert zeugt von der armenischen Gemeinde in der Geschichte Turkmenbaschis.",
+                  "category": "landmark",
+                  "coords": [
+                        52.987831,
+                        40.000832
+                  ]
+            },
+            {
+                  "name": "Kenar Bazary",
+                  "text": "Ein lokaler Basar an der Küste, der besonders für sein Angebot an frischem Fisch aus dem Kaspischen Meer bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        52.969164,
+                        39.998425
+                  ]
+            },
+            {
+                  "name": "Şagadam",
+                  "text": "Dieser lebhafte Marktplatz in Turkmenbaschi ist ein idealer Ort, um lokale Textilien und Gewürze zu finden.",
+                  "category": "cultural",
+                  "coords": [
+                        52.989655,
+                        39.998674
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Front 339.4",
+                  "text": "Türkmenbashy tengeri kikötőjének jellegzetes világítótornya, amely a nemzetközi hajóforgalmat irányítja.",
+                  "category": "landmark",
+                  "coords": [
+                        52.989525,
+                        40.014906
+                  ]
+            },
+            {
+                  "name": "100 let Krasnovodsku",
+                  "text": "Ez az emlékmű a város alapításának 100. évfordulójára emlékeztet, amelyet eredetileg Krasznovodszk néven alapítottak.",
+                  "category": "historical",
+                  "coords": [
+                        52.9918,
+                        40.000339
+                  ]
+            },
+            {
+                  "name": "Nebitçi Medeniýet Köşgi",
+                  "text": "Ezt a neoklasszicista kulturális palotát 1951-ben építették a Türkmenbashy olajipari dolgozói számára.",
+                  "category": "cultural",
+                  "coords": [
+                        52.993966,
+                        40.005069
+                  ]
+            },
+            {
+                  "name": "Baş perişde Sent-Maýkl buthanasy",
+                  "text": "Ez a Türkmenbashyban található orosz ortodox templom hagyományos kék kupoláiról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        52.999297,
+                        40.008451
+                  ]
+            },
+            {
+                  "name": "Türkmen Metjidi",
+                  "text": "Türkmenbashy központi mecsetje, amely a muszlim lakosság fontos szellemi központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        52.998397,
+                        40.011147
+                  ]
+            },
+            {
+                  "name": "Armenian Church",
+                  "text": "Ez a 19. századi történelmi kőtemplom a Türkmenbashy történelmében jelen lévő örmény közösségről tanúskodik.",
+                  "category": "landmark",
+                  "coords": [
+                        52.987831,
+                        40.000832
+                  ]
+            },
+            {
+                  "name": "Kenar Bazary",
+                  "text": "Helyi tengerparti bazár, amely különösen a Kaszpi-tengerből származó friss halkínálatáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        52.969164,
+                        39.998425
+                  ]
+            },
+            {
+                  "name": "Şagadam",
+                  "text": "Ez a nyüzsgő Türkmenbashy-i piactér ideális hely a helyi textíliák és fűszerek beszerzésére.",
+                  "category": "cultural",
+                  "coords": [
+                        52.989655,
+                        39.998674
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Front 339.4",
+                  "text": "Un far proeminent în portul maritim Turkmenbași, care ghidează traficul maritim internațional.",
+                  "category": "landmark",
+                  "coords": [
+                        52.989525,
+                        40.014906
+                  ]
+            },
+            {
+                  "name": "100 let Krasnovodsku",
+                  "text": "Acest monument comemorează cea de-a 100-a aniversare a orașului, care a fost fondat inițial sub numele de Krasnovodsk.",
+                  "category": "historical",
+                  "coords": [
+                        52.9918,
+                        40.000339
+                  ]
+            },
+            {
+                  "name": "Nebitçi Medeniýet Köşgi",
+                  "text": "Acest palat cultural neoclasic a fost construit în 1951 pentru muncitorii din industria petrolieră din Turkmenbași.",
+                  "category": "cultural",
+                  "coords": [
+                        52.993966,
+                        40.005069
+                  ]
+            },
+            {
+                  "name": "Baş perişde Sent-Maýkl buthanasy",
+                  "text": "Această biserică ortodoxă rusă din Turkmenbași este cunoscută pentru cupolele sale albastre tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        52.999297,
+                        40.008451
+                  ]
+            },
+            {
+                  "name": "Türkmen Metjidi",
+                  "text": "O moschee centrală din Turkmenbași, care servește ca un important centru spiritual pentru populația musulmană.",
+                  "category": "landmark",
+                  "coords": [
+                        52.998397,
+                        40.011147
+                  ]
+            },
+            {
+                  "name": "Armenian Church",
+                  "text": "Această biserică istorică din piatră din secolul al XIX-lea atestă existența comunității armene în istoria orașului Turkmenbași.",
+                  "category": "landmark",
+                  "coords": [
+                        52.987831,
+                        40.000832
+                  ]
+            },
+            {
+                  "name": "Kenar Bazary",
+                  "text": "Un bazar local de coastă, cunoscut în special pentru oferta sa de pește proaspăt din Marea Caspică.",
+                  "category": "cultural",
+                  "coords": [
+                        52.969164,
+                        39.998425
+                  ]
+            },
+            {
+                  "name": "Şagadam",
+                  "text": "Această piață plină de viață din Turkmenbași este un loc ideal pentru a găsi textile și condimente locale.",
+                  "category": "cultural",
+                  "coords": [
+                        52.989655,
+                        39.998674
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Front 339.4",
+                  "text": "A prominent lighthouse in the Turkmenbashi seaport, guiding international maritime traffic.",
+                  "category": "landmark",
+                  "coords": [
+                        52.989525,
+                        40.014906
+                  ]
+            },
+            {
+                  "name": "100 let Krasnovodsku",
+                  "text": "This monument commemorates the 100th anniversary of the city, which was originally founded as Krasnovodsk.",
+                  "category": "historical",
+                  "coords": [
+                        52.9918,
+                        40.000339
+                  ]
+            },
+            {
+                  "name": "Oilworkers' Palace of Culture",
+                  "text": "This Neoclassical palace of culture was built in 1951 for the oil industry workers in Turkmenbashi.",
+                  "category": "cultural",
+                  "coords": [
+                        52.993966,
+                        40.005069
+                  ]
+            },
+            {
+                  "name": "Church of the Archangel Michael",
+                  "text": "This Russian Orthodox church in Turkmenbashi is known for its traditional blue domes.",
+                  "category": "landmark",
+                  "coords": [
+                        52.999297,
+                        40.008451
+                  ]
+            },
+            {
+                  "name": "Türkmen Metjidi",
+                  "text": "A central mosque in Turkmenbashi serving as a key spiritual hub for the Muslim population.",
+                  "category": "landmark",
+                  "coords": [
+                        52.998397,
+                        40.011147
+                  ]
+            },
+            {
+                  "name": "Armenian Church",
+                  "text": "This historic 19th-century stone church testifies to the Armenian community in Turkmenbashi's history.",
+                  "category": "landmark",
+                  "coords": [
+                        52.987831,
+                        40.000832
+                  ]
+            },
+            {
+                  "name": "Kenar Bazary",
+                  "text": "A local coastal bazaar especially known for its selection of fresh fish from the Caspian Sea.",
+                  "category": "cultural",
+                  "coords": [
+                        52.969164,
+                        39.998425
+                  ]
+            },
+            {
+                  "name": "Shagadam",
+                  "text": "This bustling marketplace in Turkmenbashi is an ideal spot to find local textiles and spices.",
+                  "category": "cultural",
+                  "coords": [
+                        52.989655,
+                        39.998674
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "TM-B",
     coords: [52.98, 40.01],
@@ -91,7 +388,124 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     },
   },
   {
-    id: "turkmenbashi-oil-refinery-economic-v2",
+    id: "turkmenbashi-oil-refinery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rear 339.4",
+                  "text": "Dieser Leuchtturm dient als wichtiges Navigationszeichen für die Schifffahrt auf dem Kaspischen Meer nahe Turkmenbaschi.",
+                  "category": "landmark",
+                  "coords": [
+                        52.986681,
+                        40.02071
+                  ]
+            },
+            {
+                  "name": "Rear LL 2B",
+                  "text": "Ein Küstenfeuer bei Turkmenbaschi, das Schiffen bei der sicheren Einfahrt in die Bucht des Kaspischen Meeres hilft.",
+                  "category": "landmark",
+                  "coords": [
+                        53.088274,
+                        40.005568
+                  ]
+            },
+            {
+                  "name": "Front LL 2A",
+                  "text": "Dieses Navigationslicht an der Küste markiert den sicheren Kurs für Schiffe, die den Hafen von Turkmenbaschi anlaufen.",
+                  "category": "landmark",
+                  "coords": [
+                        53.077785,
+                        40.000565
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rear 339.4",
+                  "text": "Ez a világítótorony fontos navigációs jelzésként szolgál a Kaszpi-tengeren Türkmenbashy közelében közlekedő hajók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        52.986681,
+                        40.02071
+                  ]
+            },
+            {
+                  "name": "Rear LL 2B",
+                  "text": "Türkmenbashy melletti parti fény, amely segíti a hajók biztonságos bejutását a Kaszpi-tenger öblébe.",
+                  "category": "landmark",
+                  "coords": [
+                        53.088274,
+                        40.005568
+                  ]
+            },
+            {
+                  "name": "Front LL 2A",
+                  "text": "Ez a parti navigációs fény a biztonságos útvonalat jelzi a Türkmenbashy kikötőjébe érkező hajóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        53.077785,
+                        40.000565
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rear 339.4",
+                  "text": "Acest far servește ca un semn de navigație important pentru navele de pe Marea Caspică, în apropiere de Turkmenbași.",
+                  "category": "landmark",
+                  "coords": [
+                        52.986681,
+                        40.02071
+                  ]
+            },
+            {
+                  "name": "Rear LL 2B",
+                  "text": "Un far de coastă lângă Turkmenbași, care ajută navele să intre în siguranță în golful Marii Caspice.",
+                  "category": "landmark",
+                  "coords": [
+                        53.088274,
+                        40.005568
+                  ]
+            },
+            {
+                  "name": "Front LL 2A",
+                  "text": "Această lumină de navigație de pe coastă marchează cursul sigur pentru navele care sosesc în portul Turkmenbași.",
+                  "category": "landmark",
+                  "coords": [
+                        53.077785,
+                        40.000565
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rear 339.4",
+                  "text": "This lighthouse serves as an important navigation aid for ships on the Caspian Sea near Turkmenbashi.",
+                  "category": "landmark",
+                  "coords": [
+                        52.986681,
+                        40.02071
+                  ]
+            },
+            {
+                  "name": "Rear LL 2B",
+                  "text": "A coastal light near Turkmenbashi that helps ships navigate safely into the Caspian Sea bay.",
+                  "category": "landmark",
+                  "coords": [
+                        53.088274,
+                        40.005568
+                  ]
+            },
+            {
+                  "name": "Front LL 2A",
+                  "text": "This coastal navigation light marks the safe course for vessels arriving at the Turkmenbashi port.",
+                  "category": "landmark",
+                  "coords": [
+                        53.077785,
+                        40.000565
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TM-B",
     coords: [52.99, 40.03],
@@ -135,7 +549,160 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     },
   },
   {
-    id: "kiyanly-polymer-plant-economic-v2",
+    id: "kiyanly-polymer-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ýelken binasy",
+                  "text": "Dieses moderne Denkmal in Kiyanly hat die Form eines Segels und symbolisiert die maritime Bedeutung der Region.",
+                  "category": "historical",
+                  "coords": [
+                        52.856755,
+                        40.036026
+                  ]
+            },
+            {
+                  "name": "Tarta",
+                  "text": "Dieser Leuchtturm an der kaspischen Küste dient als wichtiges Navigationszeichen für die Schifffahrt nahe dem Industriekomplex.",
+                  "category": "landmark",
+                  "coords": [
+                        52.770051,
+                        40.006695
+                  ]
+            },
+            {
+                  "name": "Dikii pliazh",
+                  "text": "Ein unberührter, wilder Küstenabschnitt am Kaspischen Meer, der ideal für Naturliebhaber abseits der erschlossenen Resorts ist.",
+                  "category": "recreational",
+                  "coords": [
+                        52.762023,
+                        40.13701
+                  ]
+            },
+            {
+                  "name": "Älemgoşar Dynç-Alyş Merkezi",
+                  "text": "Dieser moderne Freizeitpark bietet verschiedene Fahrgeschäfte und bunte Unterhaltung für Familien in der Industrieregion.",
+                  "category": "recreational",
+                  "coords": [
+                        52.826091,
+                        39.977
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ýelken binasy",
+                  "text": "Ez a modern kiyanly-i emlékmű vitorla alakú, és a régió tengerészeti jelentőségét jelképezi.",
+                  "category": "historical",
+                  "coords": [
+                        52.856755,
+                        40.036026
+                  ]
+            },
+            {
+                  "name": "Tarta",
+                  "text": "Ez a Kaszpi-tenger partján álló világítótorony fontos navigációs pont az ipari komplexum közelében elhaladó hajók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        52.770051,
+                        40.006695
+                  ]
+            },
+            {
+                  "name": "Dikii pliazh",
+                  "text": "A Kaszpi-tenger érintetlen, vadregényes tengerparti szakasza, amely ideális a kiépített üdülőhelyektől távol vágyóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        52.762023,
+                        40.13701
+                  ]
+            },
+            {
+                  "name": "Älemgoşar Dynç-Alyş Merkezi",
+                  "text": "Ez a modern vidámpark különféle játékokkal és színes szórakozási lehetőségekkel várja a családokat az ipari régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        52.826091,
+                        39.977
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ýelken binasy",
+                  "text": "Acest monument modern din Kiyanly are forma unei vele și simbolizează importanța maritimă a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        52.856755,
+                        40.036026
+                  ]
+            },
+            {
+                  "name": "Tarta",
+                  "text": "Acest far de pe coasta Mării Caspice servește ca punct vital de navigație pentru navele din apropierea complexului industrial.",
+                  "category": "landmark",
+                  "coords": [
+                        52.770051,
+                        40.006695
+                  ]
+            },
+            {
+                  "name": "Dikii pliazh",
+                  "text": "O porțiune de coastă sălbatică și neatinsă de la Marea Caspică, ideală pentru cei care caută liniște departe de stațiunile amenajate.",
+                  "category": "recreational",
+                  "coords": [
+                        52.762023,
+                        40.13701
+                  ]
+            },
+            {
+                  "name": "Älemgoşar Dynç-Alyş Merkezi",
+                  "text": "Acest parc de distracții modern oferă diverse atracții și divertisment colorat pentru familiile din regiunea industrială.",
+                  "category": "recreational",
+                  "coords": [
+                        52.826091,
+                        39.977
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yelken binasy",
+                  "text": "This modern monument in Kiyanly is shaped like a sail, symbolizing the region's maritime significance.",
+                  "category": "historical",
+                  "coords": [
+                        52.856755,
+                        40.036026
+                  ]
+            },
+            {
+                  "name": "Tarta",
+                  "text": "This lighthouse on the Caspian coast serves as a vital navigation aid for shipping near the industrial complex.",
+                  "category": "landmark",
+                  "coords": [
+                        52.770051,
+                        40.006695
+                  ]
+            },
+            {
+                  "name": "Dikii pliazh",
+                  "text": "An untouched, wild stretch of the Caspian Sea coast, ideal for nature lovers seeking a spot away from developed resorts.",
+                  "category": "recreational",
+                  "coords": [
+                        52.762023,
+                        40.13701
+                  ]
+            },
+            {
+                  "name": "Alemgosar Amusement Park",
+                  "text": "This modern amusement park offers various rides and colorful entertainment for families in the industrial region.",
+                  "category": "recreational",
+                  "coords": [
+                        52.826091,
+                        39.977
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TM-B",
     coords: [52.79, 40.05],
@@ -179,7 +746,340 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     },
   },
   {
-    id: "mary-state-power-plant-economic-v2",
+    id: "mary-state-power-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mollanepes Monument",
+                  "text": "Das Denkmal erinnert an Mollanepes, einen klassischen turkmenischen Dichter des 19. Jahrhunderts.",
+                  "category": "historical",
+                  "coords": [
+                        61.844241,
+                        37.591287
+                  ]
+            },
+            {
+                  "name": "Mukaddes Töwellaçylyk buthanasy",
+                  "text": "Diese russisch-orthodoxe Kirche aus dem 19. Jahrhundert ist ein markantes weiß-blaues Bauwerk in Mary.",
+                  "category": "religious",
+                  "coords": [
+                        61.854784,
+                        37.597474
+                  ]
+            },
+            {
+                  "name": "Kemine adyndaky Döwlet Drama Teatry",
+                  "text": "Ein bedeutendes Kulturzentrum in Mary, das Aufführungen klassischer und moderner Stücke in turkmenischer Sprache zeigt.",
+                  "category": "cultural",
+                  "coords": [
+                        61.848926,
+                        37.58979
+                  ]
+            },
+            {
+                  "name": "Mary Welaýat Taryhy we Ülkäni Öwreniş Muzeýi",
+                  "text": "Das Museum beherbergt eine umfangreiche Sammlung von Artefakten aus der Geschichte von Merw und der Region Mary.",
+                  "category": "museum",
+                  "coords": [
+                        61.854564,
+                        37.585453
+                  ]
+            },
+            {
+                  "name": "Gurbanguly Hajy Metjidi",
+                  "text": "Diese prächtige Moschee aus weißem Marmor mit blauen Kuppeln wurde zu Ehren von Präsident Gurbanguly Berdimuhamedow errichtet.",
+                  "category": "religious",
+                  "coords": [
+                        61.852681,
+                        37.589219
+                  ]
+            },
+            {
+                  "name": "Seyrana",
+                  "text": "Ein beliebter Freizeitpark in Mary, der Unterhaltung und Fahrgeschäfte für Familien und Kinder bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        61.873572,
+                        37.591519
+                  ]
+            },
+            {
+                  "name": "Bagt Köşgi",
+                  "text": "Der turkmenische 'Hochzeitspalast', ein modernes Bauwerk für festliche Zeremonien und standesamtliche Trauungen.",
+                  "category": "religious",
+                  "coords": [
+                        61.847667,
+                        37.588557
+                  ]
+            },
+            {
+                  "name": "Gundogar Bazary",
+                  "text": "Ein traditioneller orientalischer Basar, auf dem man alles von lokalem Handwerk bis hin zu frischen Lebensmitteln findet.",
+                  "category": "cultural",
+                  "coords": [
+                        61.875979,
+                        37.594898
+                  ]
+            },
+            {
+                  "name": "Gök Bazar",
+                  "text": "Dieser 'Grüne Basar' ist das Herz des Lebensmittelhandels in Mary und berühmt für seine landwirtschaftlichen Produkte.",
+                  "category": "cultural",
+                  "coords": [
+                        61.845626,
+                        37.593074
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mollanepes Monument",
+                  "text": "Az emlékmű Mollanepesnek, a 19. századi klasszikus türkmén költőnek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        61.844241,
+                        37.591287
+                  ]
+            },
+            {
+                  "name": "Mukaddes Töwellaçylyk buthanasy",
+                  "text": "Ez a 19. századi orosz ortodox templom Mary városának egyik jellegzetes fehér-kék épülete.",
+                  "category": "religious",
+                  "coords": [
+                        61.854784,
+                        37.597474
+                  ]
+            },
+            {
+                  "name": "Kemine adyndaky Döwlet Drama Teatry",
+                  "text": "Mary jelentős kulturális központja, amely klasszikus és modern darabok előadásait mutatja be türkmén nyelven.",
+                  "category": "cultural",
+                  "coords": [
+                        61.848926,
+                        37.58979
+                  ]
+            },
+            {
+                  "name": "Mary Welaýat Taryhy we Ülkäni Öwreniş Muzeýi",
+                  "text": "A múzeum Merw és a Mary régió történetéből származó műtárgyak gazdag gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        61.854564,
+                        37.585453
+                  ]
+            },
+            {
+                  "name": "Gurbanguly Hajy Metjidi",
+                  "text": "Ez a pompás fehér márványból készült, kék kupolás mecset Gurbanguly Berdimuhamedow elnök tiszteletére épült.",
+                  "category": "religious",
+                  "coords": [
+                        61.852681,
+                        37.589219
+                  ]
+            },
+            {
+                  "name": "Seyrana",
+                  "text": "Népszerű szabadidőpark Mary városában, amely szórakozást és játékokat kínál családoknak és gyerekeknek.",
+                  "category": "recreational",
+                  "coords": [
+                        61.873572,
+                        37.591519
+                  ]
+            },
+            {
+                  "name": "Bagt Köşgi",
+                  "text": "A türkmén 'Nászpalota', egy modern épület ünnepi ceremóniák és polgári esküvők lebonyolítására.",
+                  "category": "religious",
+                  "coords": [
+                        61.847667,
+                        37.588557
+                  ]
+            },
+            {
+                  "name": "Gundogar Bazary",
+                  "text": "Hagyományos keleti bazár, ahol a helyi kézműves termékektől a friss élelmiszerekig minden megtalálható.",
+                  "category": "cultural",
+                  "coords": [
+                        61.875979,
+                        37.594898
+                  ]
+            },
+            {
+                  "name": "Gök Bazar",
+                  "text": "Ez a 'Zöld Bazár' Mary élelmiszer-kereskedelmének szíve, amely mezőgazdasági termékeiről híres.",
+                  "category": "cultural",
+                  "coords": [
+                        61.845626,
+                        37.593074
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mollanepes Monument",
+                  "text": "Monumentul îl comemorează pe Mollanepes, un poet clasic turkmen din secolul al XIX-lea.",
+                  "category": "historical",
+                  "coords": [
+                        61.844241,
+                        37.591287
+                  ]
+            },
+            {
+                  "name": "Mukaddes Töwellaçylyk buthanasy",
+                  "text": "Această biserică ortodoxă rusă din secolul al XIX-lea este o structură distinctivă alb-albastră din Mary.",
+                  "category": "religious",
+                  "coords": [
+                        61.854784,
+                        37.597474
+                  ]
+            },
+            {
+                  "name": "Kemine adyndaky Döwlet Drama Teatry",
+                  "text": "Un centru cultural important din Mary, care prezintă spectacole de piese clasice și moderne în limba turkmenă.",
+                  "category": "cultural",
+                  "coords": [
+                        61.848926,
+                        37.58979
+                  ]
+            },
+            {
+                  "name": "Mary Welaýat Taryhy we Ülkäni Öwreniş Muzeýi",
+                  "text": "Muzeul găzduiește o colecție vastă de artefacte din istoria Mervului și a regiunii Mary.",
+                  "category": "museum",
+                  "coords": [
+                        61.854564,
+                        37.585453
+                  ]
+            },
+            {
+                  "name": "Gurbanguly Hajy Metjidi",
+                  "text": "Această moschee magnifică din marmură albă cu cupole albastre a fost construită în onoarea președintelui Gurbanguly Berdimuhamedow.",
+                  "category": "religious",
+                  "coords": [
+                        61.852681,
+                        37.589219
+                  ]
+            },
+            {
+                  "name": "Seyrana",
+                  "text": "Un parc de distracții popular în Mary, care oferă divertisment și atracții pentru familii și copii.",
+                  "category": "recreational",
+                  "coords": [
+                        61.873572,
+                        37.591519
+                  ]
+            },
+            {
+                  "name": "Bagt Köşgi",
+                  "text": "„Palatul Nunților” din Turkmenistan, o clădire modernă destinată ceremoniilor festive și căsătoriilor civile.",
+                  "category": "religious",
+                  "coords": [
+                        61.847667,
+                        37.588557
+                  ]
+            },
+            {
+                  "name": "Gundogar Bazary",
+                  "text": "Un bazar oriental tradițional, unde se pot găsi de toate, de la meșteșuguri locale la alimente proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        61.875979,
+                        37.594898
+                  ]
+            },
+            {
+                  "name": "Gök Bazar",
+                  "text": "Acest 'Bazar Verde' este inima comerțului cu alimente din Mary, fiind renumit pentru produsele sale agricole.",
+                  "category": "cultural",
+                  "coords": [
+                        61.845626,
+                        37.593074
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mollanepes Monument",
+                  "text": "The monument commemorates Mollanepes, a classic 19th-century Turkmen poet.",
+                  "category": "historical",
+                  "coords": [
+                        61.844241,
+                        37.591287
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Intercession",
+                  "text": "This 19th-century Russian Orthodox church is a distinctive white-and-blue structure in Mary.",
+                  "category": "religious",
+                  "coords": [
+                        61.854784,
+                        37.597474
+                  ]
+            },
+            {
+                  "name": "Kemine State Drama Theater",
+                  "text": "A major cultural center in Mary showcasing performances of classical and modern plays in the Turkmen language.",
+                  "category": "cultural",
+                  "coords": [
+                        61.848926,
+                        37.58979
+                  ]
+            },
+            {
+                  "name": "Mary Provincial Regional and History Museum",
+                  "text": "The museum houses an extensive collection of artifacts from the history of Merv and the Mary region.",
+                  "category": "museum",
+                  "coords": [
+                        61.854564,
+                        37.585453
+                  ]
+            },
+            {
+                  "name": "Gurbanguly Hajy Mosque",
+                  "text": "This magnificent white marble mosque with blue domes was built in honor of President Gurbanguly Berdimuhamedow.",
+                  "category": "religious",
+                  "coords": [
+                        61.852681,
+                        37.589219
+                  ]
+            },
+            {
+                  "name": "Seyrana",
+                  "text": "A popular leisure park in Mary offering entertainment and rides for families and children.",
+                  "category": "recreational",
+                  "coords": [
+                        61.873572,
+                        37.591519
+                  ]
+            },
+            {
+                  "name": "Bagt Köşgi",
+                  "text": "The Turkmen 'Wedding Palace,' a modern structure used for festive ceremonies and civil marriages.",
+                  "category": "religious",
+                  "coords": [
+                        61.847667,
+                        37.588557
+                  ]
+            },
+            {
+                  "name": "Gundogar Bazaar",
+                  "text": "A traditional Oriental bazaar where you can find everything from local crafts to fresh food.",
+                  "category": "cultural",
+                  "coords": [
+                        61.875979,
+                        37.594898
+                  ]
+            },
+            {
+                  "name": "Gök Bazar",
+                  "text": "This 'Green Bazaar' is the heart of Mary's food trade, famous for its agricultural products.",
+                  "category": "cultural",
+                  "coords": [
+                        61.845626,
+                        37.593074
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "TM-M",
     coords: [61.85, 37.60],
@@ -267,7 +1167,52 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     },
   },
   {
-    id: "garlyk-potash-mine-economic-v2",
+    id: "garlyk-potash-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gaýnar Baba",
+                  "text": "Eine lokale religiöse Stätte, die oft mit einer heiligen Quelle verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        66.405947,
+                        37.537522
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gaýnar Baba",
+                  "text": "Szent forrásáról és spirituális jelentőségéről ismert helyi kegyhely.",
+                  "category": "landmark",
+                  "coords": [
+                        66.405947,
+                        37.537522
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gaýnar Baba",
+                  "text": "Un sit religios local, asociat adesea cu un izvor sfânt sau un mormânt venerat.",
+                  "category": "landmark",
+                  "coords": [
+                        66.405947,
+                        37.537522
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kaynar Baba",
+                  "text": "A local religious site often associated with a sacred spring or venerated tomb.",
+                  "category": "landmark",
+                  "coords": [
+                        66.405947,
+                        37.537522
+                  ]
+            }
+      ]
+},
     type: "mine",
     parent: "TM-L",
     coords: [66.33, 37.53],
@@ -311,7 +1256,196 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     },
   },
   {
-    id: "ovadandepe-glass-factory-economic-v2",
+    id: "ovadandepe-glass-factory-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "MiG-15",
+                  "text": "Ein sowjetisches MiG-15-Jagdflugzeug, das als Denkmal in Ovadandepe aufgestellt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        58.188981,
+                        38.041493
+                  ]
+            },
+            {
+                  "name": "Ýasmansalyk Medeniýet Öýi",
+                  "text": "Ein regionales Kulturhaus in Ovadandepe, das als Zentrum für Theater und lokale Veranstaltungen dient.",
+                  "category": "cultural",
+                  "coords": [
+                        58.192244,
+                        38.05193
+                  ]
+            },
+            {
+                  "name": "Mukaddes Kiril we Methodius buthanasy",
+                  "text": "Eine christliche Kirche in Ovadandepe, die den Heiligen Kyrill und Method gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        58.185342,
+                        38.034985
+                  ]
+            },
+            {
+                  "name": "\"Tomatnyý\" Bazar 1",
+                  "text": "Ein spezialisierter Marktplatz in Ovadandepe, der für sein Angebot an lokalen Tomaten bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        58.186894,
+                        38.054628
+                  ]
+            },
+            {
+                  "name": "Abadan Bazary",
+                  "text": "Ein belebter lokaler Basar im Abadan-Distrikt, der Waren des täglichen Bedarfs anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        58.187198,
+                        38.034593
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "MiG-15",
+                  "text": "Emlékműként felállított szovjet MiG–15-ös vadászgép Ovadandepében.",
+                  "category": "historical",
+                  "coords": [
+                        58.188981,
+                        38.041493
+                  ]
+            },
+            {
+                  "name": "Ýasmansalyk Medeniýet Öýi",
+                  "text": "Regionális művelődési ház Ovadandepében, amely színházi előadásoknak és közösségi eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        58.192244,
+                        38.05193
+                  ]
+            },
+            {
+                  "name": "Mukaddes Kiril we Methodius buthanasy",
+                  "text": "Szent Cirillnek és Metódnak szentelt keresztény templom Ovadandepében.",
+                  "category": "landmark",
+                  "coords": [
+                        58.185342,
+                        38.034985
+                  ]
+            },
+            {
+                  "name": "\"Tomatnyý\" Bazar 1",
+                  "text": "Specializált piactér Ovadandepében, amely a helyi paradicsomkínálatáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        58.186894,
+                        38.054628
+                  ]
+            },
+            {
+                  "name": "Abadan Bazary",
+                  "text": "Forgalmas helyi bazár az Abadan negyedben, amely napi szükségleti cikkeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        58.187198,
+                        38.034593
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "MiG-15",
+                  "text": "Un avion de vânătoare sovietic MiG-15, expus ca monument în Ovadandepe.",
+                  "category": "historical",
+                  "coords": [
+                        58.188981,
+                        38.041493
+                  ]
+            },
+            {
+                  "name": "Ýasmansalyk Medeniýet Öýi",
+                  "text": "O casă de cultură regională în Ovadandepe, servind drept centru pentru teatru și evenimente locale.",
+                  "category": "cultural",
+                  "coords": [
+                        58.192244,
+                        38.05193
+                  ]
+            },
+            {
+                  "name": "Mukaddes Kiril we Methodius buthanasy",
+                  "text": "O biserică creștină în Ovadandepe, dedicată Sfinților Chiril și Metodiu.",
+                  "category": "landmark",
+                  "coords": [
+                        58.185342,
+                        38.034985
+                  ]
+            },
+            {
+                  "name": "\"Tomatnyý\" Bazar 1",
+                  "text": "O piață specializată în Ovadandepe, cunoscută pentru oferta sa de tomate locale.",
+                  "category": "cultural",
+                  "coords": [
+                        58.186894,
+                        38.054628
+                  ]
+            },
+            {
+                  "name": "Abadan Bazary",
+                  "text": "Un bazar local plin de viață în districtul Abadan, oferind mărfuri de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        58.187198,
+                        38.034593
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "MiG-15",
+                  "text": "A Soviet MiG-15 jet fighter mounted as a monument in Ovadandepe.",
+                  "category": "historical",
+                  "coords": [
+                        58.188981,
+                        38.041493
+                  ]
+            },
+            {
+                  "name": "Yasmansalyk House of Culture",
+                  "text": "A regional culture house in Ovadandepe, serving as a hub for theater and local events.",
+                  "category": "cultural",
+                  "coords": [
+                        58.192244,
+                        38.05193
+                  ]
+            },
+            {
+                  "name": "SS. Cyril and Methodius Church",
+                  "text": "A Christian church in Ovadandepe, dedicated to Saints Cyril and Methodius.",
+                  "category": "landmark",
+                  "coords": [
+                        58.185342,
+                        38.034985
+                  ]
+            },
+            {
+                  "name": "\"Tomatnyý\" Bazar 1",
+                  "text": "A specialized marketplace in Ovadandepe known for its selection of local tomatoes.",
+                  "category": "cultural",
+                  "coords": [
+                        58.186894,
+                        38.054628
+                  ]
+            },
+            {
+                  "name": "Abadan Bazary",
+                  "text": "A bustling local bazaar in the Abadan district, offering everyday goods.",
+                  "category": "cultural",
+                  "coords": [
+                        58.187198,
+                        38.034593
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TM-A",
     coords: [58.21, 38.08],
@@ -355,7 +1489,232 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     },
   },
   {
-    id: "ovadandepe-gtg-plant-economic-v2",
+    id: "ovadandepe-gtg-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jeitun",
+                  "text": "Eine bedeutende neolithische Ausgrabungsstätte, die zu den ältesten bäuerlichen Siedlungen Zentralasiens zählt.",
+                  "category": "historical",
+                  "coords": [
+                        58.206497,
+                        38.103519
+                  ]
+            },
+            {
+                  "name": "Babarap Medeniýet Öýi",
+                  "text": "Dieses Kulturhaus ist das Zentrum für lokale Theateraufführungen und festliche Veranstaltungen in Babarap.",
+                  "category": "cultural",
+                  "coords": [
+                        58.113741,
+                        38.091779
+                  ]
+            },
+            {
+                  "name": "Büzmeýin Medeniýet Merkezi",
+                  "text": "Das Kulturzentrum bietet eine Bühne für traditionelle turkmenische Musik und darstellende Künste in Büzmeýin.",
+                  "category": "cultural",
+                  "coords": [
+                        58.147224,
+                        38.054664
+                  ]
+            },
+            {
+                  "name": "Ymam Agzam Ebu Hanife Mesjidi",
+                  "text": "Eine elegante Moschee, die nach dem Begründer der hanafitischen Rechtsschule im Islam benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        58.157107,
+                        38.076759
+                  ]
+            },
+            {
+                  "name": "Şeýh Ahmet Aliýar metjidi",
+                  "text": "Diese Moschee ist ein religiöser Bezugspunkt in der Gemeinde und zeichnet sich durch ihre lokale Architektur aus.",
+                  "category": "landmark",
+                  "coords": [
+                        58.157532,
+                        38.069762
+                  ]
+            },
+            {
+                  "name": "Abadan Bazary",
+                  "text": "Ein lebhafter Basar, auf dem frische lokale Produkte, Textilien und traditionelle turkmenische Waren angeboten werden.",
+                  "category": "cultural",
+                  "coords": [
+                        58.152152,
+                        38.057479
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jeytun",
+                  "text": "Jelentős neolitikus régészeti lelőhely, Közép-Ázsia egyik legrégebbi földművelő közösségének otthona.",
+                  "category": "historical",
+                  "coords": [
+                        58.206497,
+                        38.103519
+                  ]
+            },
+            {
+                  "name": "Babarap Medeniýet Öýi",
+                  "text": "Ez a művelődési ház a helyi színházi előadások és ünnepi rendezvények központja Babarapban.",
+                  "category": "cultural",
+                  "coords": [
+                        58.113741,
+                        38.091779
+                  ]
+            },
+            {
+                  "name": "Büzmeýin Medeniýet Merkezi",
+                  "text": "A kulturális központ színpadot biztosít a hagyományos türkmén zene és az előadóművészet számára Büzmeýinben.",
+                  "category": "cultural",
+                  "coords": [
+                        58.147224,
+                        38.054664
+                  ]
+            },
+            {
+                  "name": "Ymam Agzam Ebu Hanife Mesjidi",
+                  "text": "Elegáns mecset, amelyet az iszlám hanafita jogi iskolájának alapítójáról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        58.157107,
+                        38.076759
+                  ]
+            },
+            {
+                  "name": "Şeýh Ahmet Aliýar metjidi",
+                  "text": "Ez a mecset a közösség vallási tájékozódási pontja, amelyet a helyi építészeti stílus jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        58.157532,
+                        38.069762
+                  ]
+            },
+            {
+                  "name": "Abadan Bazary",
+                  "text": "Nyüzsgő bazár, ahol friss helyi termékeket, textileket és hagyományos türkmén árukat kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        58.152152,
+                        38.057479
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jeytun",
+                  "text": "Un sit arheologic neolitic important, reprezentând una dintre cele mai vechi comunități agricole din Asia Centrală.",
+                  "category": "historical",
+                  "coords": [
+                        58.206497,
+                        38.103519
+                  ]
+            },
+            {
+                  "name": "Babarap Medeniýet Öýi",
+                  "text": "Această casă de cultură este centrul pentru spectacole de teatru locale și evenimente festive din Babarap.",
+                  "category": "cultural",
+                  "coords": [
+                        58.113741,
+                        38.091779
+                  ]
+            },
+            {
+                  "name": "Büzmeýin Medeniýet Merkezi",
+                  "text": "Centrul cultural oferă o scenă pentru muzica tradițională turkmenă și artele spectacolului în Büzmeýin.",
+                  "category": "cultural",
+                  "coords": [
+                        58.147224,
+                        38.054664
+                  ]
+            },
+            {
+                  "name": "Ymam Agzam Ebu Hanife Mesjidi",
+                  "text": "O moschee elegantă numită după fondatorul școlii hanafite de jurisprudență islamică.",
+                  "category": "landmark",
+                  "coords": [
+                        58.157107,
+                        38.076759
+                  ]
+            },
+            {
+                  "name": "Şeýh Ahmet Aliýar metjidi",
+                  "text": "Această moschee este un punct de reper religios în comunitate, caracterizată prin arhitectura sa locală.",
+                  "category": "landmark",
+                  "coords": [
+                        58.157532,
+                        38.069762
+                  ]
+            },
+            {
+                  "name": "Abadan Bazary",
+                  "text": "Un bazar plin de viață unde se vând produse locale proaspete, textile și mărfuri tradiționale turkmene.",
+                  "category": "cultural",
+                  "coords": [
+                        58.152152,
+                        38.057479
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jeytun",
+                  "text": "An important Neolithic archaeological site representing one of the oldest farming communities in Central Asia.",
+                  "category": "historical",
+                  "coords": [
+                        58.206497,
+                        38.103519
+                  ]
+            },
+            {
+                  "name": "Babarap House of Culture",
+                  "text": "This house of culture is the hub for local theater performances and festive events in Babarap.",
+                  "category": "cultural",
+                  "coords": [
+                        58.113741,
+                        38.091779
+                  ]
+            },
+            {
+                  "name": "Buzmeyin Cultural Center",
+                  "text": "The cultural center provides a stage for traditional Turkmen music and performing arts in Büzmeýin.",
+                  "category": "cultural",
+                  "coords": [
+                        58.147224,
+                        38.054664
+                  ]
+            },
+            {
+                  "name": "Ymam Agzam Ebu Hanife Mesjidi",
+                  "text": "An elegant mosque named after the founder of the Hanafi school of Islamic jurisprudence.",
+                  "category": "landmark",
+                  "coords": [
+                        58.157107,
+                        38.076759
+                  ]
+            },
+            {
+                  "name": "Şeýh Ahmet Aliýar metjidi",
+                  "text": "This mosque is a religious landmark in the community, characterized by its local architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        58.157532,
+                        38.069762
+                  ]
+            },
+            {
+                  "name": "Abadan Bazary",
+                  "text": "A vibrant bazaar offering fresh local produce, textiles, and traditional Turkmen goods.",
+                  "category": "cultural",
+                  "coords": [
+                        58.152152,
+                        38.057479
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TM-A",
     coords: [58.20, 38.09],
@@ -399,7 +1758,52 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     },
   },
   {
-    id: "ahal-state-power-plant-economic-v2",
+    id: "ahal-state-power-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Täze Zaman Medeniýet Köşgi",
+                  "text": "Ein Theaterort für kulturelle Künste und Aufführungen in der Region Ahal.",
+                  "category": "cultural",
+                  "coords": [
+                        58.281382,
+                        38.07767
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Täze Zaman Medeniýet Köşgi",
+                  "text": "Kulturális művészeteknek és előadásoknak otthont adó színházi helyszín Ahal régiójában.",
+                  "category": "cultural",
+                  "coords": [
+                        58.281382,
+                        38.07767
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Täze Zaman Medeniýet Köşgi",
+                  "text": "Un spațiu teatral care găzduiește arte culturale și spectacole în regiunea Ahal.",
+                  "category": "cultural",
+                  "coords": [
+                        58.281382,
+                        38.07767
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Taze Zaman Palace of Culture",
+                  "text": "A theatrical venue providing cultural arts and performances in the Ahal region.",
+                  "category": "cultural",
+                  "coords": [
+                        58.281382,
+                        38.07767
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "TM-A",
     coords: [58.25, 38.10],
@@ -443,7 +1847,556 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     },
   },
   {
-    id: "dashoguz-cotton-mill-economic-v2",
+    id: "dashoguz-cotton-mill-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Eternal Flame",
+                  "text": "Eine Gedenkstätte im Industrieviertel zu Ehren der regionalen Soldaten, die im Zweiten Weltkrieg dienten.",
+                  "category": "historical",
+                  "coords": [
+                        60.076137,
+                        41.852589
+                  ]
+            },
+            {
+                  "name": "Medeniýet Öýi",
+                  "text": "Ein Gemeinschafts-Kulturzentrum, das eine Bühne für Theaterstücke und Musikveranstaltungen für lokale Fabrikarbeiter bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        59.953884,
+                        41.766706
+                  ]
+            },
+            {
+                  "name": "Bagtyýar Zaman Medeniýet Öýi",
+                  "text": "Ein moderner Kulturstandort in Daşoguz, an dem professionelle Theateraufführungen und turkmenische Volkskonzerte stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        59.958126,
+                        41.8149
+                  ]
+            },
+            {
+                  "name": "Andalyp adyndaky Sazly Drama Teatry",
+                  "text": "Ein renommiertes Regionaltheater, benannt nach dem klassischen turkmenischen Dichter und Musiker Nurmuhammet Andalyp.",
+                  "category": "cultural",
+                  "coords": [
+                        59.963343,
+                        41.82561
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Eine große Freiluftarena in Daşoguz, die für bedeutende staatliche Feiern und öffentliche Musikdarbietungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        59.927345,
+                        41.829073
+                  ]
+            },
+            {
+                  "name": "Daşoguz Ak Öýi",
+                  "text": "Ein einzigartiges Gebäude in Form einer riesigen traditionellen Jurte, das als prachtvolle Konzerthalle genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        59.929648,
+                        41.821612
+                  ]
+            },
+            {
+                  "name": "1941-1945",
+                  "text": "Ein Siegesdenkmal in Daşoguz zum Gedenken an die Geschichte und Teilnehmer des Großen Vaterländischen Krieges.",
+                  "category": "historical",
+                  "coords": [
+                        59.911582,
+                        41.821122
+                  ]
+            },
+            {
+                  "name": "Baş Metjit",
+                  "text": "Die Hauptmoschee der Stadt, die sich durch ihre vier hoch aufragenden Minarette und eine große türkisfarbene Kuppel auszeichnet.",
+                  "category": "religious",
+                  "coords": [
+                        59.910819,
+                        41.840406
+                  ]
+            },
+            {
+                  "name": "Mukaddes Merýemiň buthanasy",
+                  "text": "Eine russisch-orthodoxe Kirche in Daşoguz, die sich durch traditionelle Sakralarchitektur auszeichnet und der örtlichen christlichen Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        59.965833,
+                        41.822357
+                  ]
+            },
+            {
+                  "name": "Dostluk Metjidi",
+                  "text": "Eine lokale Moschee im \"Freundschafts\"-Viertel, die als Zentrum für tägliche Gebete und Gemeindetreffen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        59.985894,
+                        41.832818
+                  ]
+            },
+            {
+                  "name": "Nygmat",
+                  "text": "Ein geschäftiger Marktplatz in Daşoguz, der eine große Auswahl an lokalen Lebensmitteln und Haushaltsartikeln bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        59.97035,
+                        41.827458
+                  ]
+            },
+            {
+                  "name": "Miras Söwda Merkezi",
+                  "text": "Ein modernes Handelszentrum in Daşoguz mit zahlreichen Geschäften für Elektronik, Kleidung und Waren des täglichen Bedarfs.",
+                  "category": "cultural",
+                  "coords": [
+                        59.955688,
+                        41.808832
+                  ]
+            },
+            {
+                  "name": "Ak Bazar",
+                  "text": "Ein zentraler Handelsplatz in Daşoguz, bekannt für seine organisierten Stände und die vielfältige Auswahl an regionalen Waren.",
+                  "category": "cultural",
+                  "coords": [
+                        59.930971,
+                        41.845047
+                  ]
+            },
+            {
+                  "name": "New Bazaar",
+                  "text": "Dieser belebte neue Marktplatz in Dashoguz bietet eine große Auswahl an Textilien und lokalen Waren.",
+                  "category": "cultural",
+                  "coords": [
+                        59.948001,
+                        41.870725
+                  ]
+            },
+            {
+                  "name": "Daşoguz Köpugurly Söwda Bazary",
+                  "text": "Der zentrale Basar von Dashoguz ist ein wichtiger Handelsknotenpunkt für Alltagswaren und Kleidung.",
+                  "category": "cultural",
+                  "coords": [
+                        59.950687,
+                        41.87739
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eternal Flame",
+                  "text": "Emlékhely az ipari negyedben a második világháborúban szolgált helyi katonák tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        60.076137,
+                        41.852589
+                  ]
+            },
+            {
+                  "name": "Medeniýet Öýi",
+                  "text": "Közösségi kulturális központ, amely színházi előadásoknak és zenei eseményeknek ad helyet a helyi gyári munkások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        59.953884,
+                        41.766706
+                  ]
+            },
+            {
+                  "name": "Bagtyýar Zaman Medeniýet Öýi",
+                  "text": "Kortárs kulturális helyszín Daşoguzban, amely professzionális színházi produkcióknak és türkmén népzenei koncerteknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        59.958126,
+                        41.8149
+                  ]
+            },
+            {
+                  "name": "Andalyp adyndaky Sazly Drama Teatry",
+                  "text": "Nurmuhammet Andalyp klasszikus türkmén költőről és zenészről elnevezett neves regionális színház.",
+                  "category": "cultural",
+                  "coords": [
+                        59.963343,
+                        41.82561
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Hatalmas szabadtéri aréna Daşoguzban, amelyet állami ünnepségek és nyilvános zenei előadások helyszíneként használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        59.927345,
+                        41.829073
+                  ]
+            },
+            {
+                  "name": "Daşoguz Ak Öýi",
+                  "text": "Hatalmas hagyományos jurta alakúra épült egyedi épület, amely pompás koncertteremként működik.",
+                  "category": "cultural",
+                  "coords": [
+                        59.929648,
+                        41.821612
+                  ]
+            },
+            {
+                  "name": "1941-1945",
+                  "text": "Győzelmi emlékmű Daşoguzban, amely a Nagy Honvédő Háború történetének és résztvevőinek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        59.911582,
+                        41.821122
+                  ]
+            },
+            {
+                  "name": "Baş Metjit",
+                  "text": "A város fő mecsetje, amelyet négy magas minaretje és egy hatalmas türkizkék kupolája tesz jellegzetessé.",
+                  "category": "religious",
+                  "coords": [
+                        59.910819,
+                        41.840406
+                  ]
+            },
+            {
+                  "name": "Mukaddes Merýemiň buthanasy",
+                  "text": "Orosz ortodox templom Daşoguzban, amely hagyományos vallási építészetével a helyi keresztény közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        59.965833,
+                        41.822357
+                  ]
+            },
+            {
+                  "name": "Dostluk Metjidi",
+                  "text": "Helyi mecset a \"Barátság\" negyedben, amely a napi imák és a közösségi összejövetelek központjaként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        59.985894,
+                        41.832818
+                  ]
+            },
+            {
+                  "name": "Nygmat",
+                  "text": "Forgalmas piac Daşoguzban, ahol helyi élelmiszerek és háztartási cikkek széles választékát kínálják.",
+                  "category": "cultural",
+                  "coords": [
+                        59.97035,
+                        41.827458
+                  ]
+            },
+            {
+                  "name": "Miras Söwda Merkezi",
+                  "text": "Modern kereskedelmi központ Daşoguzban, számos elektronikai, ruházati és napi cikkeket árusító üzlettel.",
+                  "category": "cultural",
+                  "coords": [
+                        59.955688,
+                        41.808832
+                  ]
+            },
+            {
+                  "name": "Ak Bazar",
+                  "text": "Daşoguz központi kereskedelmi csomópontja, amely rendezett standjairól és a regionális áruk változatos választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        59.930971,
+                        41.845047
+                  ]
+            },
+            {
+                  "name": "New Bazaar",
+                  "text": "Ez a nyüzsgő új piac Dashoguzban textíliák és helyi áruk széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        59.948001,
+                        41.870725
+                  ]
+            },
+            {
+                  "name": "Daşoguz Köpugurly Söwda Bazary",
+                  "text": "Dashoguz központi bazárja a mindennapi cikkek és ruházati termékek fontos kereskedelmi csomópontja.",
+                  "category": "cultural",
+                  "coords": [
+                        59.950687,
+                        41.87739
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Eternal Flame",
+                  "text": "Un sit memorial în districtul industrial, onorând soldații regionali care au servit în Al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        60.076137,
+                        41.852589
+                  ]
+            },
+            {
+                  "name": "Medeniýet Öýi",
+                  "text": "Un centru cultural comunitar care oferă o scenă pentru piese de teatru și evenimente muzicale pentru muncitorii locali.",
+                  "category": "cultural",
+                  "coords": [
+                        59.953884,
+                        41.766706
+                  ]
+            },
+            {
+                  "name": "Bagtyýar Zaman Medeniýet Öýi",
+                  "text": "O locație culturală contemporană din Daşoguz care găzduiește producții teatrale profesionale și concerte de folclor turkmen.",
+                  "category": "cultural",
+                  "coords": [
+                        59.958126,
+                        41.8149
+                  ]
+            },
+            {
+                  "name": "Andalyp adyndaky Sazly Drama Teatry",
+                  "text": "Un teatru regional renumit, numit după poetul și muzicianul clasic turkmen Nurmuhammet Andalyp.",
+                  "category": "cultural",
+                  "coords": [
+                        59.963343,
+                        41.82561
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "O arenă mare în aer liber din Daşoguz, utilizată pentru celebrări statale majore și spectacole muzicale publice.",
+                  "category": "cultural",
+                  "coords": [
+                        59.927345,
+                        41.829073
+                  ]
+            },
+            {
+                  "name": "Daşoguz Ak Öýi",
+                  "text": "O clădire unică construită sub forma unei iurte tradiționale masive, utilizată ca o mare sală de concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        59.929648,
+                        41.821612
+                  ]
+            },
+            {
+                  "name": "1941-1945",
+                  "text": "Un monument al victoriei din Daşoguz care comemorează istoria și participanții Marelui Război pentru Apărarea Patriei.",
+                  "category": "historical",
+                  "coords": [
+                        59.911582,
+                        41.821122
+                  ]
+            },
+            {
+                  "name": "Baş Metjit",
+                  "text": "Moscheea principală a orașului, care se distinge prin cele patru minarete înalte și o cupolă mare turcoaz.",
+                  "category": "religious",
+                  "coords": [
+                        59.910819,
+                        41.840406
+                  ]
+            },
+            {
+                  "name": "Mukaddes Merýemiň buthanasy",
+                  "text": "O biserică ortodoxă rusă din Daşoguz, cu arhitectură religioasă tradițională, care deservește comunitatea creștină locală.",
+                  "category": "landmark",
+                  "coords": [
+                        59.965833,
+                        41.822357
+                  ]
+            },
+            {
+                  "name": "Dostluk Metjidi",
+                  "text": "O moschee locală în cartierul \"Prietenia\", care servește ca centru pentru rugăciunile zilnice și adunările comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        59.985894,
+                        41.832818
+                  ]
+            },
+            {
+                  "name": "Nygmat",
+                  "text": "O piață aglomerată din Daşoguz care oferă o mare varietate de produse alimentare locale și articole esențiale pentru casă.",
+                  "category": "cultural",
+                  "coords": [
+                        59.97035,
+                        41.827458
+                  ]
+            },
+            {
+                  "name": "Miras Söwda Merkezi",
+                  "text": "Un centru comercial modern din Daşoguz care cuprinde numeroase magazine de electronice, vestimentație și bunuri de larg consum.",
+                  "category": "cultural",
+                  "coords": [
+                        59.955688,
+                        41.808832
+                  ]
+            },
+            {
+                  "name": "Ak Bazar",
+                  "text": "Un centru comercial central din Daşoguz, cunoscut pentru standurile sale organizate și selecția diversă de mărfuri regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        59.930971,
+                        41.845047
+                  ]
+            },
+            {
+                  "name": "New Bazaar",
+                  "text": "Această piață nouă și plină de viață din Dashoguz oferă o selecție largă de textile și mărfuri locale.",
+                  "category": "cultural",
+                  "coords": [
+                        59.948001,
+                        41.870725
+                  ]
+            },
+            {
+                  "name": "Daşoguz Köpugurly Söwda Bazary",
+                  "text": "Bazarul central din Dashoguz este un nod comercial important pentru articole de zi cu zi și îmbrăcăminte.",
+                  "category": "cultural",
+                  "coords": [
+                        59.950687,
+                        41.87739
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Eternal Flame",
+                  "text": "A memorial site in the industrial district honoring the regional soldiers who served in World War II.",
+                  "category": "historical",
+                  "coords": [
+                        60.076137,
+                        41.852589
+                  ]
+            },
+            {
+                  "name": "Medeniýet Öýi",
+                  "text": "A community cultural center providing a stage for theatrical plays and musical events for local factory workers.",
+                  "category": "cultural",
+                  "coords": [
+                        59.953884,
+                        41.766706
+                  ]
+            },
+            {
+                  "name": "Bagtyyar Zaman House of Culture",
+                  "text": "A contemporary cultural venue in Daşoguz hosting professional theater productions and Turkmen folk concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        59.958126,
+                        41.8149
+                  ]
+            },
+            {
+                  "name": "Andalyp Music and Drama Theater",
+                  "text": "A renowned regional theater named after the classical Turkmen poet and musician Nurmuhammet Andalyp.",
+                  "category": "cultural",
+                  "coords": [
+                        59.963343,
+                        41.82561
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "A large open-air arena in Daşoguz used for major state celebrations and public musical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        59.927345,
+                        41.829073
+                  ]
+            },
+            {
+                  "name": "Dashoguz Yurt",
+                  "text": "A unique building constructed in the shape of a massive traditional yurt, used as a grand concert hall.",
+                  "category": "cultural",
+                  "coords": [
+                        59.929648,
+                        41.821612
+                  ]
+            },
+            {
+                  "name": "1941-1945",
+                  "text": "A victory monument in Daşoguz commemorating the history and participants of the Great Patriotic War.",
+                  "category": "historical",
+                  "coords": [
+                        59.911582,
+                        41.821122
+                  ]
+            },
+            {
+                  "name": "Baş Metjit",
+                  "text": "The city's main mosque, distinguished by its four towering minarets and a large turquoise dome.",
+                  "category": "religious",
+                  "coords": [
+                        59.910819,
+                        41.840406
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Virgin",
+                  "text": "A Russian Orthodox church in Daşoguz, featuring traditional religious architecture and serving the local Christian community.",
+                  "category": "landmark",
+                  "coords": [
+                        59.965833,
+                        41.822357
+                  ]
+            },
+            {
+                  "name": "Dostluk Metjidi",
+                  "text": "A local mosque in the \"Friendship\" district, serving as a center for daily prayers and community gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        59.985894,
+                        41.832818
+                  ]
+            },
+            {
+                  "name": "Nygmat",
+                  "text": "A busy marketplace in Daşoguz offering a wide variety of local food products and household essentials.",
+                  "category": "cultural",
+                  "coords": [
+                        59.97035,
+                        41.827458
+                  ]
+            },
+            {
+                  "name": "Miras Söwda Merkezi",
+                  "text": "A modern commercial center in Daşoguz featuring numerous shops for electronics, apparel, and daily goods.",
+                  "category": "cultural",
+                  "coords": [
+                        59.955688,
+                        41.808832
+                  ]
+            },
+            {
+                  "name": "Ak Bazar",
+                  "text": "A central trade hub in Daşoguz known for its organized stalls and diverse selection of regional merchandise.",
+                  "category": "cultural",
+                  "coords": [
+                        59.930971,
+                        41.845047
+                  ]
+            },
+            {
+                  "name": "New Bazaar",
+                  "text": "This bustling new marketplace in Dashoguz offers a wide selection of textiles and local goods.",
+                  "category": "cultural",
+                  "coords": [
+                        59.948001,
+                        41.870725
+                  ]
+            },
+            {
+                  "name": "Dashoguz General Shopping Bazaar",
+                  "text": "Dashoguz's central bazaar is a key commercial hub for everyday goods and clothing.",
+                  "category": "cultural",
+                  "coords": [
+                        59.950687,
+                        41.87739
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TM-D",
     coords: [59.97, 41.83],
@@ -487,7 +2440,376 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     },
   },
   {
-    id: "balkanabat-iodine-plant-economic-v2",
+    id: "balkanabat-iodine-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Saparmyrat Turkmenbashy",
+                  "text": "Dieses Denkmal in Balkanabat ehrt den ersten Präsidenten des unabhängigen Turkmenistans, Saparmyrat Nyýazow.",
+                  "category": "historical",
+                  "coords": [
+                        54.364583,
+                        39.506405
+                  ]
+            },
+            {
+                  "name": "Balkanabat Ak Öýi",
+                  "text": "Ein einzigartiges Theatergebäude in Balkanabat, das in der traditionellen kreisförmigen Form einer nomadischen Jurte errichtet wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        54.332004,
+                        39.538154
+                  ]
+            },
+            {
+                  "name": "Balkan Welaýat Taryhy we Ülkäni Öwreniş Muzeýi",
+                  "text": "Das Provinzmuseum zeigt archäologische Funde der Region und die berühmten handgeknüpften turkmenischen Teppiche.",
+                  "category": "museum",
+                  "coords": [
+                        54.354823,
+                        39.516843
+                  ]
+            },
+            {
+                  "name": "Beýik Saparmyrat Türkmenbaşy adyndaky Döwlet Drama Teatry",
+                  "text": "Das staatliche Dramentheater von Balkanabat ist die wichtigste Bühne der Stadt für professionelle Theateraufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        54.356291,
+                        39.515997
+                  ]
+            },
+            {
+                  "name": "Nebitçileriň Medeniýet Köşgi",
+                  "text": "Ein imposantes Gebäude aus der Sowjetzeit in Balkanabat, das den Arbeitern der lokalen Erdölindustrie gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        54.367599,
+                        39.502805
+                  ]
+            },
+            {
+                  "name": "Khram Rozhdestva Presviatoi Bogoroditsy",
+                  "text": "Diese russisch-orthodoxe Kirche in Balkanabat ist ein markantes religiöses Bauwerk für die christliche Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        54.342733,
+                        39.522167
+                  ]
+            },
+            {
+                  "name": "Bakaleia",
+                  "text": "Ein lokaler Marktplatz in Balkanabat, der auf den Verkauf von Lebensmitteln und Haushaltswaren spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        54.375774,
+                        39.494185
+                  ]
+            },
+            {
+                  "name": "Balkan Köpugurly Söwda Bazary",
+                  "text": "Ein großes, multifunktionales Handelszentrum in Balkanabat, in dem eine Vielfalt an Konsumgütern angeboten wird.",
+                  "category": "cultural",
+                  "coords": [
+                        54.30186,
+                        39.559891
+                  ]
+            },
+            {
+                  "name": "5-nji Bazar",
+                  "text": "Ein lebhafter Nachbarschaftsmarkt in Balkanabat, der für seine Auswahl an Waren des täglichen Bedarfs bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        54.339416,
+                        39.518284
+                  ]
+            },
+            {
+                  "name": "Zelionnyi bazar",
+                  "text": "Der „Grüne Markt“ von Balkanabat ist berühmt für sein frisches Obst, Gemüse und regionale Gewürze.",
+                  "category": "cultural",
+                  "coords": [
+                        54.361055,
+                        39.504472
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saparmyrat Turkmenbashy",
+                  "text": "Ez a balkanabati emlékmű a független Türkmenisztán első elnöke, Saparmyrat Nyýazow előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        54.364583,
+                        39.506405
+                  ]
+            },
+            {
+                  "name": "Balkanabat Ak Öýi",
+                  "text": "Különleges balkanabati színházépület, amelyet a nomád jurták hagyományos kör alakjában építettek fel.",
+                  "category": "cultural",
+                  "coords": [
+                        54.332004,
+                        39.538154
+                  ]
+            },
+            {
+                  "name": "Balkan Welaýat Taryhy we Ülkäni Öwreniş Muzeýi",
+                  "text": "A tartományi múzeum a régió régészeti leleteit és a híres, kézzel csomózott türkmén szőnyegeket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        54.354823,
+                        39.516843
+                  ]
+            },
+            {
+                  "name": "Beýik Saparmyrat Türkmenbaşy adyndaky Döwlet Drama Teatry",
+                  "text": "A Balkanabati Állami Drámai Színház a város legfontosabb színpada a hivatásos színházi előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        54.356291,
+                        39.515997
+                  ]
+            },
+            {
+                  "name": "Nebitçileriň Medeniýet Köşgi",
+                  "text": "Impozáns szovjet korszakbeli épület Balkanabatban, amelyet a helyi kőolajipar dolgozóinak szenteltek.",
+                  "category": "cultural",
+                  "coords": [
+                        54.367599,
+                        39.502805
+                  ]
+            },
+            {
+                  "name": "Khram Rozhdestva Presviatoi Bogoroditsy",
+                  "text": "Ez a balkanabati orosz ortodox templom a keresztény közösség kiemelkedő vallási építménye.",
+                  "category": "landmark",
+                  "coords": [
+                        54.342733,
+                        39.522167
+                  ]
+            },
+            {
+                  "name": "Bakaleia",
+                  "text": "Helyi piac Balkanabatban, amely élelmiszerek és háztartási cikkek árusítására szakosodott.",
+                  "category": "cultural",
+                  "coords": [
+                        54.375774,
+                        39.494185
+                  ]
+            },
+            {
+                  "name": "Balkan Köpugurly Söwda Bazary",
+                  "text": "Nagy, többfunkciós kereskedelmi központ Balkanabatban, ahol fogyasztási cikkek széles választékát kínálják.",
+                  "category": "cultural",
+                  "coords": [
+                        54.30186,
+                        39.559891
+                  ]
+            },
+            {
+                  "name": "5-nji Bazar",
+                  "text": "Nyüzsgő szomszédsági piac Balkanabatban, amely a napi szükségleti cikkek választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        54.339416,
+                        39.518284
+                  ]
+            },
+            {
+                  "name": "Zelionnyi bazar",
+                  "text": "Balkanabat „Zöld piaca” friss gyümölcseiről, zöldségeiről és helyi fűszereiről híres.",
+                  "category": "cultural",
+                  "coords": [
+                        54.361055,
+                        39.504472
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saparmyrat Turkmenbashy",
+                  "text": "Acest monument din Balkanabat îl onorează pe primul președinte al Turkmenistanului independent, Saparmurat Niiazov.",
+                  "category": "historical",
+                  "coords": [
+                        54.364583,
+                        39.506405
+                  ]
+            },
+            {
+                  "name": "Balkanabat Ak Öýi",
+                  "text": "O clădire de teatru unică în Balkanabat, construită în forma circulară tradițională a unei iurte nomade.",
+                  "category": "cultural",
+                  "coords": [
+                        54.332004,
+                        39.538154
+                  ]
+            },
+            {
+                  "name": "Balkan Welaýat Taryhy we Ülkäni Öwreniş Muzeýi",
+                  "text": "Muzeul provincial expune descoperiri arheologice din regiune și celebrele covoare turkmene înnodate manual.",
+                  "category": "museum",
+                  "coords": [
+                        54.354823,
+                        39.516843
+                  ]
+            },
+            {
+                  "name": "Beýik Saparmyrat Türkmenbaşy adyndaky Döwlet Drama Teatry",
+                  "text": "Teatrul de Stat de Dramă din Balkanabat este principala scenă a orașului pentru spectacole de teatru profesioniste.",
+                  "category": "cultural",
+                  "coords": [
+                        54.356291,
+                        39.515997
+                  ]
+            },
+            {
+                  "name": "Nebitçileriň Medeniýet Köşgi",
+                  "text": "O clădire impunătoare din epoca sovietică în Balkanabat, dedicată muncitorilor din industria locală a petrolului.",
+                  "category": "cultural",
+                  "coords": [
+                        54.367599,
+                        39.502805
+                  ]
+            },
+            {
+                  "name": "Khram Rozhdestva Presviatoi Bogoroditsy",
+                  "text": "Această biserică ortodoxă rusă din Balkanabat este un edificiu religios proeminent pentru comunitatea creștină.",
+                  "category": "landmark",
+                  "coords": [
+                        54.342733,
+                        39.522167
+                  ]
+            },
+            {
+                  "name": "Bakaleia",
+                  "text": "O piață locală din Balkanabat specializată în vânzarea de produse alimentare și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        54.375774,
+                        39.494185
+                  ]
+            },
+            {
+                  "name": "Balkan Köpugurly Söwda Bazary",
+                  "text": "Un centru comercial mare și multifuncțional din Balkanabat, unde este oferită o varietate de bunuri de larg consum.",
+                  "category": "cultural",
+                  "coords": [
+                        54.30186,
+                        39.559891
+                  ]
+            },
+            {
+                  "name": "5-nji Bazar",
+                  "text": "O piață de cartier plină de viață în Balkanabat, cunoscută pentru selecția sa de produse de strictă necesitate.",
+                  "category": "cultural",
+                  "coords": [
+                        54.339416,
+                        39.518284
+                  ]
+            },
+            {
+                  "name": "Zelionnyi bazar",
+                  "text": "„Piața Verde” din Balkanabat este faimoasă pentru fructele, legumele proaspete și condimentele locale.",
+                  "category": "cultural",
+                  "coords": [
+                        54.361055,
+                        39.504472
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saparmyrat Turkmenbashy",
+                  "text": "This monument in Balkanabat honors the first president of independent Turkmenistan, Saparmyrat Niyazov.",
+                  "category": "historical",
+                  "coords": [
+                        54.364583,
+                        39.506405
+                  ]
+            },
+            {
+                  "name": "Balkanabat Yurt",
+                  "text": "A unique theater building in Balkanabat constructed in the traditional circular shape of a nomadic yurt.",
+                  "category": "cultural",
+                  "coords": [
+                        54.332004,
+                        39.538154
+                  ]
+            },
+            {
+                  "name": "Balkan Province Museum",
+                  "text": "The provincial museum displays regional archaeological finds and the famous hand-knotted Turkmen carpets.",
+                  "category": "museum",
+                  "coords": [
+                        54.354823,
+                        39.516843
+                  ]
+            },
+            {
+                  "name": "Balkan Province State Drama Theater",
+                  "text": "The Balkan Province State Drama Theater is the city's primary stage for professional theatrical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        54.356291,
+                        39.515997
+                  ]
+            },
+            {
+                  "name": "Oilworkers' Palace of Culture",
+                  "text": "An imposing Soviet-era building in Balkanabat dedicated to the workers of the local petroleum industry.",
+                  "category": "cultural",
+                  "coords": [
+                        54.367599,
+                        39.502805
+                  ]
+            },
+            {
+                  "name": "Church of the Nativity of the Holy Virgin",
+                  "text": "This Russian Orthodox church in Balkanabat is a prominent religious structure for the Christian community.",
+                  "category": "landmark",
+                  "coords": [
+                        54.342733,
+                        39.522167
+                  ]
+            },
+            {
+                  "name": "Bakaleia",
+                  "text": "A local marketplace in Balkanabat specialized in selling groceries and essential household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        54.375774,
+                        39.494185
+                  ]
+            },
+            {
+                  "name": "Balkan Köpugurly Söwda Bazary",
+                  "text": "A large, multi-functional trading hub in Balkanabat offering a wide variety of consumer goods.",
+                  "category": "cultural",
+                  "coords": [
+                        54.30186,
+                        39.559891
+                  ]
+            },
+            {
+                  "name": "5-nji Bazar",
+                  "text": "A busy neighborhood marketplace in Balkanabat known for its selection of daily essential goods.",
+                  "category": "cultural",
+                  "coords": [
+                        54.339416,
+                        39.518284
+                  ]
+            },
+            {
+                  "name": "Zelionnyi bazar",
+                  "text": "The 'Green Market' of Balkanabat is famous for its fresh fruits, vegetables, and regional spices.",
+                  "category": "cultural",
+                  "coords": [
+                        54.361055,
+                        39.504472
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TM-B",
     coords: [54.36, 39.51],
@@ -531,7 +2853,196 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     },
   },
   {
-    id: "hazar-chemical-plant-economic-v2",
+    id: "hazar-chemical-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument to the Discoverers of Oil",
+                  "text": "Dieses Denkmal in Hazar ehrt die Pioniere, die zuerst Öl auf der Tscheleken-Halbinsel entdeckten.",
+                  "category": "historical",
+                  "coords": [
+                        53.134997,
+                        39.40232
+                  ]
+            },
+            {
+                  "name": "Chelekenskiy",
+                  "text": "Ein wichtiger Leuchtturm an der Westspitze der Tscheleken-Halbinsel, der die Schifffahrt am Kaspischen Meer leitet.",
+                  "category": "landmark",
+                  "coords": [
+                        53.101087,
+                        39.435576
+                  ]
+            },
+            {
+                  "name": "Hazar Medeniýet Öýi",
+                  "text": "Das Kulturhaus von Hazar ist das gesellschaftliche Zentrum der Stadt für lokale Konzerte und Festlichkeiten.",
+                  "category": "cultural",
+                  "coords": [
+                        53.123791,
+                        39.402501
+                  ]
+            },
+            {
+                  "name": "Muzeý",
+                  "text": "Ein kleines Museum in Hazar, das die Industriegeschichte und die Entwicklung der Chemieanlagen der Region dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        53.126913,
+                        39.404015
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "Der zentrale Basar von Hazar ist der wichtigste Ort für den Kauf von frischen Lebensmitteln und Haushaltswaren.",
+                  "category": "cultural",
+                  "coords": [
+                        53.130998,
+                        39.409014
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument to the Discoverers of Oil",
+                  "text": "Ez a hazari emlékmű azok előtt a pionírok előtt tiszteleg, akik először fedeztek fel olajat a Celeken-félszigeten.",
+                  "category": "historical",
+                  "coords": [
+                        53.134997,
+                        39.40232
+                  ]
+            },
+            {
+                  "name": "Chelekenskiy",
+                  "text": "Fontos világítótorony a Celeken-félsziget nyugati csücskén, amely a Kaszpi-tengeri hajózást segíti.",
+                  "category": "landmark",
+                  "coords": [
+                        53.101087,
+                        39.435576
+                  ]
+            },
+            {
+                  "name": "Hazar Medeniýet Öýi",
+                  "text": "A hazari művelődési ház a város társasági központja, ahol helyi koncerteket és ünnepségeket tartanak.",
+                  "category": "cultural",
+                  "coords": [
+                        53.123791,
+                        39.402501
+                  ]
+            },
+            {
+                  "name": "Muzeý",
+                  "text": "Kis múzeum Hazarban, amely a régió ipartörténetét és vegyi üzemeinek fejlődését dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        53.126913,
+                        39.404015
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "Hazar központi bazárja a legfontosabb hely a friss élelmiszerek és háztartási cikkek beszerzésére.",
+                  "category": "cultural",
+                  "coords": [
+                        53.130998,
+                        39.409014
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument to the Discoverers of Oil",
+                  "text": "Acest monument din Hazar îi onorează pe pionierii care au descoperit pentru prima dată petrol pe peninsula Celeken.",
+                  "category": "historical",
+                  "coords": [
+                        53.134997,
+                        39.40232
+                  ]
+            },
+            {
+                  "name": "Chelekenskiy",
+                  "text": "Un far important în vârful vestic al peninsulei Celeken, care ghidează navigația pe Marea Caspică.",
+                  "category": "landmark",
+                  "coords": [
+                        53.101087,
+                        39.435576
+                  ]
+            },
+            {
+                  "name": "Hazar Medeniýet Öýi",
+                  "text": "Casa de cultură din Hazar este centrul social al orașului pentru concerte locale și festivități.",
+                  "category": "cultural",
+                  "coords": [
+                        53.123791,
+                        39.402501
+                  ]
+            },
+            {
+                  "name": "Muzeý",
+                  "text": "Un mic muzeu din Hazar care documentează istoria industrială și dezvoltarea combinatelor chimice din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        53.126913,
+                        39.404015
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "Bazarul central din Hazar este cel mai important loc pentru cumpărarea alimentelor proaspete și a articolelor de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        53.130998,
+                        39.409014
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument to the Discoverers of Oil",
+                  "text": "This monument in Hazar honors the pioneers who first discovered oil on the Cheleken Peninsula.",
+                  "category": "historical",
+                  "coords": [
+                        53.134997,
+                        39.40232
+                  ]
+            },
+            {
+                  "name": "Chelekenskiy",
+                  "text": "An important lighthouse at the western tip of the Cheleken Peninsula, guiding Caspian Sea navigation.",
+                  "category": "landmark",
+                  "coords": [
+                        53.101087,
+                        39.435576
+                  ]
+            },
+            {
+                  "name": "Hazar House of Culture",
+                  "text": "The Hazar House of Culture is the city's social hub for local concerts and festivities.",
+                  "category": "cultural",
+                  "coords": [
+                        53.123791,
+                        39.402501
+                  ]
+            },
+            {
+                  "name": "Muzeý",
+                  "text": "A small museum in Hazar documenting the industrial history and the development of the region's chemical plants.",
+                  "category": "museum",
+                  "coords": [
+                        53.126913,
+                        39.404015
+                  ]
+            },
+            {
+                  "name": "Bazaar",
+                  "text": "The central bazaar of Hazar is the primary spot for buying fresh produce and household essentials.",
+                  "category": "cultural",
+                  "coords": [
+                        53.130998,
+                        39.409014
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TM-B",
     coords: [53.07, 39.43],
@@ -575,7 +3086,412 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     },
   },
   {
-    id: "ashgabat-textile-complex-economic-v2",
+    id: "ashgabat-textile-complex-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Türkmen Alabaý binasy",
+                  "text": "Ein markantes Denkmal, das der traditionellen turkmenischen Hunderasse Alabai in Aschgabat gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        58.339712,
+                        37.958376
+                  ]
+            },
+            {
+                  "name": "Keramatly Aleksandr Newskiý buthanasy",
+                  "text": "Eine bemerkenswerte christliche Kultstätte in Aschgabat, die dem heiligen Alexander Newski gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        58.344187,
+                        37.959734
+                  ]
+            },
+            {
+                  "name": "Central Botanical Garden",
+                  "text": "Dieser im Oktober 1929 gegründete, bemerkenswerte botanische Park in Aschgabat bewahrt die regionale Pflanzenwelt.",
+                  "category": "park",
+                  "coords": [
+                        58.347126,
+                        37.952693
+                  ]
+            },
+            {
+                  "name": "Suratkeşler birleşiginiň ussahanalary",
+                  "text": "Eine Kunstgalerie und Werkstatt, die die kreativen Arbeiten der lokalen Künstlervereinigung in Aschgabat präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        58.362834,
+                        37.954514
+                  ]
+            },
+            {
+                  "name": "Türkmenistanyň Döwlet Sirki",
+                  "text": "Eine bemerkenswerte staatliche Zirkusarena, in der akrobatische und theatralische Aufführungen in Aschgabat stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        58.366307,
+                        37.954365
+                  ]
+            },
+            {
+                  "name": "Pushkin Russian Drama Theater",
+                  "text": "Ein bekanntes dramatisches Theater, das sich auf russischsprachige Bühnenproduktionen in Aschgabat konzentriert.",
+                  "category": "cultural",
+                  "coords": [
+                        58.359329,
+                        37.957717
+                  ]
+            },
+            {
+                  "name": "Iranian Mosque",
+                  "text": "Ein islamisches Gotteshaus, das iranische architektonische Einflüsse in Aschgabat widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        58.344648,
+                        37.957479
+                  ]
+            },
+            {
+                  "name": "3-nji Bazar",
+                  "text": "Ein nummerierter Handelsmarkt, der den Einwohnern von Aschgabat eine Vielzahl lokaler Waren anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        58.348762,
+                        37.957359
+                  ]
+            },
+            {
+                  "name": "Teke Bazaar",
+                  "text": "Ein geschäftiger Marktplatz im Herzen von Aschgabat, der für seine traditionellen Handelsstände bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        58.370566,
+                        37.943447
+                  ]
+            },
+            {
+                  "name": "Bath No. 6",
+                  "text": "Eine nummerierte öffentliche Badeanlage, die den persönlichen Hygienebedürfnissen der Gemeinde in Aschgabat dient.",
+                  "category": "recreational",
+                  "coords": [
+                        58.367692,
+                        37.950804
+                  ]
+            },
+            {
+                  "name": "Bath N3",
+                  "text": "Ein ausgewiesenes öffentliches Badehaus, das wesentliche Wascheinrichtungen in Aschgabat bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        58.359423,
+                        37.953078
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Türkmen Alabaý binasy",
+                  "text": "A hagyományos türkmén alabai kutyafajtának szentelt feltűnő emlékmű Aşgabatban.",
+                  "category": "historical",
+                  "coords": [
+                        58.339712,
+                        37.958376
+                  ]
+            },
+            {
+                  "name": "Keramatly Aleksandr Newskiý buthanasy",
+                  "text": "Egy figyelemre méltó keresztény imahely Aşgabatban, amelyet Szent Alekszandr Nyevszkijnek szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        58.344187,
+                        37.959734
+                  ]
+            },
+            {
+                  "name": "Central Botanical Garden",
+                  "text": "Az 1929 októberében alapított jelentős botanikus kert Aşgabat regionális növényvilágát őrzi.",
+                  "category": "park",
+                  "coords": [
+                        58.347126,
+                        37.952693
+                  ]
+            },
+            {
+                  "name": "Suratkeşler birleşiginiň ussahanalary",
+                  "text": "Művészeti galéria és műhely, amely a helyi művészszövetség alkotásait mutatja be Aşgabatban.",
+                  "category": "museum",
+                  "coords": [
+                        58.362834,
+                        37.954514
+                  ]
+            },
+            {
+                  "name": "Türkmenistanyň Döwlet Sirki",
+                  "text": "Neves állami cirkuszaréna, amely akrobatikus és színházi előadásoknak ad otthont Aşgabatban.",
+                  "category": "cultural",
+                  "coords": [
+                        58.366307,
+                        37.954365
+                  ]
+            },
+            {
+                  "name": "Pushkin Russian Drama Theater",
+                  "text": "Orosz nyelvű színpadi produkciókra fókuszáló, figyelemre méltó drámai színház Aşgabatban.",
+                  "category": "cultural",
+                  "coords": [
+                        58.359329,
+                        37.957717
+                  ]
+            },
+            {
+                  "name": "Iranian Mosque",
+                  "text": "Egy iszlám imahely, amely iráni építészeti hatásokat tükröz Aşgabatban.",
+                  "category": "landmark",
+                  "coords": [
+                        58.344648,
+                        37.957479
+                  ]
+            },
+            {
+                  "name": "3-nji Bazar",
+                  "text": "Számozott kereskedelmi piac, amely különféle helyi árukat kínál Aşgabat lakosainak.",
+                  "category": "cultural",
+                  "coords": [
+                        58.348762,
+                        37.957359
+                  ]
+            },
+            {
+                  "name": "Teke Bazaar",
+                  "text": "Hagyományos kereskedelmi standjairól ismert forgalmas piac Aşgabat szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        58.370566,
+                        37.943447
+                  ]
+            },
+            {
+                  "name": "Bath No. 6",
+                  "text": "A helyi közösség higiéniai igényeit szolgáló, számozott nyilvános fürdőlétesítmény Aşgabatban.",
+                  "category": "recreational",
+                  "coords": [
+                        58.367692,
+                        37.950804
+                  ]
+            },
+            {
+                  "name": "Bath N3",
+                  "text": "Kijelölt nyilvános fürdőház, amely alapvető mosakodási lehetőségeket biztosít Aşgabatban.",
+                  "category": "recreational",
+                  "coords": [
+                        58.359423,
+                        37.953078
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Türkmen Alabaý binasy",
+                  "text": "Un monument impresionant dedicat rasei tradiționale de câini turkmeni Alabay din Așgabat.",
+                  "category": "historical",
+                  "coords": [
+                        58.339712,
+                        37.958376
+                  ]
+            },
+            {
+                  "name": "Keramatly Aleksandr Newskiý buthanasy",
+                  "text": "Un loc de cult creștin notabil, dedicat Sfântului Alexandru Nevski din Așgabat.",
+                  "category": "religious",
+                  "coords": [
+                        58.344187,
+                        37.959734
+                  ]
+            },
+            {
+                  "name": "Central Botanical Garden",
+                  "text": "Înființat în octombrie 1929, acest parc botanic notabil conservă viața vegetală regională din Așgabat.",
+                  "category": "park",
+                  "coords": [
+                        58.347126,
+                        37.952693
+                  ]
+            },
+            {
+                  "name": "Suratkeşler birleşiginiň ussahanalary",
+                  "text": "O galerie de artă și un atelier care prezintă lucrările creative ale Uniunii Artiștilor locali din Așgabat.",
+                  "category": "museum",
+                  "coords": [
+                        58.362834,
+                        37.954514
+                  ]
+            },
+            {
+                  "name": "Türkmenistanyň Döwlet Sirki",
+                  "text": "O arenă de circ de stat notabilă care găzduiește spectacole acrobatice și teatrale în Așgabat.",
+                  "category": "cultural",
+                  "coords": [
+                        58.366307,
+                        37.954365
+                  ]
+            },
+            {
+                  "name": "Pushkin Russian Drama Theater",
+                  "text": "Un teatru dramatic notabil, axat pe producții de scenă în limba rusă în Așgabat.",
+                  "category": "cultural",
+                  "coords": [
+                        58.359329,
+                        37.957717
+                  ]
+            },
+            {
+                  "name": "Iranian Mosque",
+                  "text": "Un centru de cult islamic care reflectă influențele arhitecturale iraniene din Așgabat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.344648,
+                        37.957479
+                  ]
+            },
+            {
+                  "name": "3-nji Bazar",
+                  "text": "O piață comercială numerotată care oferă o varietate de bunuri locale locuitorilor din Așgabat.",
+                  "category": "cultural",
+                  "coords": [
+                        58.348762,
+                        37.957359
+                  ]
+            },
+            {
+                  "name": "Teke Bazaar",
+                  "text": "O piață aglomerată din inima Așgabatului, cunoscută pentru tarabele sale tradiționale.",
+                  "category": "cultural",
+                  "coords": [
+                        58.370566,
+                        37.943447
+                  ]
+            },
+            {
+                  "name": "Bath No. 6",
+                  "text": "O baie publică numerotată care deservește nevoile de igienă ale comunității din Așgabat.",
+                  "category": "recreational",
+                  "coords": [
+                        58.367692,
+                        37.950804
+                  ]
+            },
+            {
+                  "name": "Bath N3",
+                  "text": "O baie publică desemnată care oferă facilități esențiale de spălare în Așgabat.",
+                  "category": "recreational",
+                  "coords": [
+                        58.359423,
+                        37.953078
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Turkmen Alabay Monument",
+                  "text": "A striking monument dedicated to the traditional Turkmen Alabay dog breed in Ashgabat.",
+                  "category": "historical",
+                  "coords": [
+                        58.339712,
+                        37.958376
+                  ]
+            },
+            {
+                  "name": "Church of St. Alexander Nevsky",
+                  "text": "A notable Christian place of worship dedicated to Saint Alexander Nevsky in Ashgabat.",
+                  "category": "religious",
+                  "coords": [
+                        58.344187,
+                        37.959734
+                  ]
+            },
+            {
+                  "name": "Central Botanical Garden",
+                  "text": "Established in October 1929, this notable botanical park preserves diverse regional plant life in Ashgabat.",
+                  "category": "park",
+                  "coords": [
+                        58.347126,
+                        37.952693
+                  ]
+            },
+            {
+                  "name": "Suratkeşler birleşiginiň ussahanalary",
+                  "text": "An art gallery and workshop space showcasing the creative works of the local Artists' Union in Ashgabat.",
+                  "category": "museum",
+                  "coords": [
+                        58.362834,
+                        37.954514
+                  ]
+            },
+            {
+                  "name": "Turkmenistan State Circus",
+                  "text": "A notable state-run circus arena hosting acrobatic and theatrical performances in Ashgabat.",
+                  "category": "cultural",
+                  "coords": [
+                        58.366307,
+                        37.954365
+                  ]
+            },
+            {
+                  "name": "Pushkin Russian Dramatic Theater",
+                  "text": "A notable dramatic theater focusing on Russian-language stage productions in Ashgabat.",
+                  "category": "cultural",
+                  "coords": [
+                        58.359329,
+                        37.957717
+                  ]
+            },
+            {
+                  "name": "Iranian Mosque",
+                  "text": "An Islamic worship center reflecting Iranian architectural influences in Ashgabat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.344648,
+                        37.957479
+                  ]
+            },
+            {
+                  "name": "3-nji Bazar",
+                  "text": "A numbered trading market offering a variety of local goods to Ashgabat residents.",
+                  "category": "cultural",
+                  "coords": [
+                        58.348762,
+                        37.957359
+                  ]
+            },
+            {
+                  "name": "Teke Bazaar",
+                  "text": "A busy marketplace known for its traditional trading stalls in the heart of Ashgabat.",
+                  "category": "cultural",
+                  "coords": [
+                        58.370566,
+                        37.943447
+                  ]
+            },
+            {
+                  "name": "Bath No. 6",
+                  "text": "A numbered public bathing facility serving the personal hygiene needs of the Ashgabat community.",
+                  "category": "recreational",
+                  "coords": [
+                        58.367692,
+                        37.950804
+                  ]
+            },
+            {
+                  "name": "Bath N3",
+                  "text": "A designated public bathhouse providing essential washing amenities in Ashgabat.",
+                  "category": "recreational",
+                  "coords": [
+                        58.359423,
+                        37.953078
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TM-S",
     coords: [58.37, 37.95],
@@ -707,7 +3623,520 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     },
   },
   {
-    id: "turkmenabat-silk-factory-economic-v2",
+    id: "turkmenabat-silk-factory-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Razvaliny kreposti pravitelia Amulia",
+                  "text": "Diese archäologische Stätte an der Seidenstraße bewahrt die Überreste einer Festung aus der Kuschan-Ära.",
+                  "category": "historical",
+                  "coords": [
+                        63.594167,
+                        39.015777
+                  ]
+            },
+            {
+                  "name": "Medeniýet Öýi",
+                  "text": "Ein Kulturzentrum im sowjetischen Stil, das heute Aufführungen und Gemeinschaftsveranstaltungen in Türkmenabat beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        63.548299,
+                        39.038595
+                  ]
+            },
+            {
+                  "name": "Medeniýet Öýi",
+                  "text": "Dieses regionale Theater ist ein Zentrum für turkmenische Musik- und Schauspielkunst in der Region Lebap.",
+                  "category": "cultural",
+                  "coords": [
+                        63.573893,
+                        39.051773
+                  ]
+            },
+            {
+                  "name": "Türkmenabat Ak Öýi",
+                  "text": "Dieses riesige Gebäude in Form einer weißen Jurte wurde 2021 für große kulturelle Festivals eröffnet.",
+                  "category": "cultural",
+                  "coords": [
+                        63.591964,
+                        39.057281
+                  ]
+            },
+            {
+                  "name": "Krepost'",
+                  "text": "Verwitterte Lehmwände markieren den Standort einer antiken Verteidigungsanlage nahe der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        63.592008,
+                        39.018768
+                  ]
+            },
+            {
+                  "name": "Ewejen Hoja",
+                  "text": "Ein lokaler islamischer Schrein, der einer verehrten religiösen Persönlichkeit der Region gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        63.526883,
+                        39.094338
+                  ]
+            },
+            {
+                  "name": "Abu-Ýusup Metjidi",
+                  "text": "Eine moderne Gebetsstätte für die muslimische Gemeinschaft im Herzen von Türkmenabat.",
+                  "category": "landmark",
+                  "coords": [
+                        63.590664,
+                        39.050203
+                  ]
+            },
+            {
+                  "name": "Metjit",
+                  "text": "Diese Stadtviertel-Moschee zeigt klassische zentralasiatische Architekturelemente wie Spitzbögen.",
+                  "category": "landmark",
+                  "coords": [
+                        63.59257,
+                        39.035999
+                  ]
+            },
+            {
+                  "name": "Baş Metjit",
+                  "text": "Die zentrale Hauptmoschee von Türkmenabat zeichnet sich durch ihre markanten, hohen Minarette aus.",
+                  "category": "landmark",
+                  "coords": [
+                        63.591423,
+                        39.028074
+                  ]
+            },
+            {
+                  "name": "Miras Bazary",
+                  "text": "Ein lebhafter Basar, der besonders für seine traditionellen turkmenischen Textilien und Webwaren bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        63.58723,
+                        39.04898
+                  ]
+            },
+            {
+                  "name": "Himik Bazary",
+                  "text": "Dieser große Marktplatz ist bei Einheimischen für Haushaltswaren und regionale Lebensmittelspezialitäten beliebt.",
+                  "category": "cultural",
+                  "coords": [
+                        63.580564,
+                        39.037112
+                  ]
+            },
+            {
+                  "name": "Lomaý Söwda Toplumy",
+                  "text": "Ein weitläufiger Handelskomplex, der auf den Großhandel mit Konsumgütern in der Region spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        63.57438,
+                        39.04372
+                  ]
+            },
+            {
+                  "name": "Optowyý Bazary",
+                  "text": "Ein geschäftiges Handelszentrum, in dem lokale Händler Waren in großen Mengen einkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        63.574239,
+                        39.045484
+                  ]
+            },
+            {
+                  "name": "5-nji Gurluşyk Harytlary Bazary",
+                  "text": "Ein spezialisierter Markt, der eine große Auswahl an Baumaterialien für lokale Bauprojekte bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        63.60197,
+                        39.014622
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Razvaliny kreposti pravitelia Amulia",
+                  "text": "Ez a selyemút menti régészeti lelőhely egy kusán-kori erőd maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        63.594167,
+                        39.015777
+                  ]
+            },
+            {
+                  "name": "Medeniýet Öýi",
+                  "text": "Szovjet stílusú kulturális központ, amely ma előadásoknak és közösségi eseményeknek ad otthont Türkmenabatban.",
+                  "category": "cultural",
+                  "coords": [
+                        63.548299,
+                        39.038595
+                  ]
+            },
+            {
+                  "name": "Medeniýet Öýi",
+                  "text": "Ez a regionális színház a türkmén zene- és színművészet központja a Lebap régióban.",
+                  "category": "cultural",
+                  "coords": [
+                        63.573893,
+                        39.051773
+                  ]
+            },
+            {
+                  "name": "Türkmenabat Ak Öýi",
+                  "text": "Ezt a hatalmas, fehér jurta alakú épületet 2021-ben nyitották meg a nagy kulturális fesztiválok számára.",
+                  "category": "cultural",
+                  "coords": [
+                        63.591964,
+                        39.057281
+                  ]
+            },
+            {
+                  "name": "Krepost'",
+                  "text": "Kiszáradt agyagfalak jelzik egy ősi védelmi létesítmény helyét a város közelében.",
+                  "category": "historical",
+                  "coords": [
+                        63.592008,
+                        39.018768
+                  ]
+            },
+            {
+                  "name": "Ewejen Hoja",
+                  "text": "Helyi iszlám kegyhely, amelyet a régió egyik tisztelt vallási alakjának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        63.526883,
+                        39.094338
+                  ]
+            },
+            {
+                  "name": "Abu-Ýusup Metjidi",
+                  "text": "Modern imaház a muszlim közösség számára Türkmenabat szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        63.590664,
+                        39.050203
+                  ]
+            },
+            {
+                  "name": "Metjit",
+                  "text": "Ez a környékbeli mecset olyan klasszikus közép-ázsiai építészeti elemeket mutat be, mint a csúcsívek.",
+                  "category": "landmark",
+                  "coords": [
+                        63.59257,
+                        39.035999
+                  ]
+            },
+            {
+                  "name": "Baş Metjit",
+                  "text": "Türkmenabat központi főmecsetje jellegzetes, magas minaretjeivel tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        63.591423,
+                        39.028074
+                  ]
+            },
+            {
+                  "name": "Miras Bazary",
+                  "text": "Nyüzsgő bazár, amely különösen a hagyományos türkmén textíliákról és szőtteseiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        63.58723,
+                        39.04898
+                  ]
+            },
+            {
+                  "name": "Himik Bazary",
+                  "text": "Ez a nagy piactér a helyiek körében népszerű háztartási cikkek és regionális ételkülönlegességek miatt.",
+                  "category": "cultural",
+                  "coords": [
+                        63.580564,
+                        39.037112
+                  ]
+            },
+            {
+                  "name": "Lomaý Söwda Toplumy",
+                  "text": "Kiterjedt kereskedelmi komplexum, amely a fogyasztási cikkek regionális nagykereskedelmére szakosodott.",
+                  "category": "cultural",
+                  "coords": [
+                        63.57438,
+                        39.04372
+                  ]
+            },
+            {
+                  "name": "Optowyý Bazary",
+                  "text": "Forgalmas kereskedelmi központ, ahol a helyi kereskedők nagy tételben vásárolják az árukat.",
+                  "category": "cultural",
+                  "coords": [
+                        63.574239,
+                        39.045484
+                  ]
+            },
+            {
+                  "name": "5-nji Gurluşyk Harytlary Bazary",
+                  "text": "Speciális piac, amely építőanyagok széles választékát kínálja a helyi építkezésekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        63.60197,
+                        39.014622
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Razvaliny kreposti pravitelia Amulia",
+                  "text": "Acest sit arheologic de pe Drumul Mătăsii păstrează resturile unei cetăți din epoca Kushan.",
+                  "category": "historical",
+                  "coords": [
+                        63.594167,
+                        39.015777
+                  ]
+            },
+            {
+                  "name": "Medeniýet Öýi",
+                  "text": "Un centru cultural în stil sovietic care găzduiește astăzi spectacole și evenimente comunitare în Türkmenabat.",
+                  "category": "cultural",
+                  "coords": [
+                        63.548299,
+                        39.038595
+                  ]
+            },
+            {
+                  "name": "Medeniýet Öýi",
+                  "text": "Acest teatru regional este un centru pentru arta muzicală și dramatică turkmenă din regiunea Lebap.",
+                  "category": "cultural",
+                  "coords": [
+                        63.573893,
+                        39.051773
+                  ]
+            },
+            {
+                  "name": "Türkmenabat Ak Öýi",
+                  "text": "Această clădire masivă în formă de iurtă albă a fost deschisă în 2021 pentru mari festivaluri culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        63.591964,
+                        39.057281
+                  ]
+            },
+            {
+                  "name": "Krepost'",
+                  "text": "Ziduri de lut erodate marchează locul unei vechi fortificații defensive din apropierea orașului.",
+                  "category": "historical",
+                  "coords": [
+                        63.592008,
+                        39.018768
+                  ]
+            },
+            {
+                  "name": "Ewejen Hoja",
+                  "text": "Un altar islamic local dedicat unei figuri religioase venerate din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        63.526883,
+                        39.094338
+                  ]
+            },
+            {
+                  "name": "Abu-Ýusup Metjidi",
+                  "text": "Un lăcaș de cult modern pentru comunitatea musulmană din inima orașului Türkmenabat.",
+                  "category": "landmark",
+                  "coords": [
+                        63.590664,
+                        39.050203
+                  ]
+            },
+            {
+                  "name": "Metjit",
+                  "text": "Această moschee de cartier prezintă elemente arhitecturale clasice din Asia Centrală, cum ar fi arcurile ascuțite.",
+                  "category": "landmark",
+                  "coords": [
+                        63.59257,
+                        39.035999
+                  ]
+            },
+            {
+                  "name": "Baş Metjit",
+                  "text": "Principala moschee catedrală din Türkmenabat se remarcă prin minaretele sale înalte și distincte.",
+                  "category": "landmark",
+                  "coords": [
+                        63.591423,
+                        39.028074
+                  ]
+            },
+            {
+                  "name": "Miras Bazary",
+                  "text": "Un bazar plin de viață, cunoscut în special pentru textilele și țesăturile tradiționale turkmene.",
+                  "category": "cultural",
+                  "coords": [
+                        63.58723,
+                        39.04898
+                  ]
+            },
+            {
+                  "name": "Himik Bazary",
+                  "text": "Această piață mare este populară printre localnici pentru articole de uz casnic și specialități alimentare regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        63.580564,
+                        39.037112
+                  ]
+            },
+            {
+                  "name": "Lomaý Söwda Toplumy",
+                  "text": "Un complex comercial extins, specializat în comerțul cu ridicata al bunurilor de larg consum din regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        63.57438,
+                        39.04372
+                  ]
+            },
+            {
+                  "name": "Optowyý Bazary",
+                  "text": "Un centru comercial aglomerat unde comercianții locali cumpără mărfuri în cantități mari.",
+                  "category": "cultural",
+                  "coords": [
+                        63.574239,
+                        39.045484
+                  ]
+            },
+            {
+                  "name": "5-nji Gurluşyk Harytlary Bazary",
+                  "text": "O piață specializată care oferü o gamă largă de materiale de construcții pentru proiectele locale.",
+                  "category": "cultural",
+                  "coords": [
+                        63.60197,
+                        39.014622
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Amül fortress",
+                  "text": "An archaeological site on the Silk Road preserving the ruins of a fortress from the Kushan era.",
+                  "category": "historical",
+                  "coords": [
+                        63.594167,
+                        39.015777
+                  ]
+            },
+            {
+                  "name": "House of Culture",
+                  "text": "A Soviet-style cultural center that hosts theatrical performances and community events in Turkmenabat.",
+                  "category": "cultural",
+                  "coords": [
+                        63.548299,
+                        39.038595
+                  ]
+            },
+            {
+                  "name": "Medeniýet Öýi",
+                  "text": "A regional theater serving as a hub for Turkmen music and dramatic arts in the Lebap province.",
+                  "category": "cultural",
+                  "coords": [
+                        63.573893,
+                        39.051773
+                  ]
+            },
+            {
+                  "name": "Turkmenabat Yurt",
+                  "text": "A massive white yurt-shaped building opened in 2021 to host major cultural festivals.",
+                  "category": "cultural",
+                  "coords": [
+                        63.591964,
+                        39.057281
+                  ]
+            },
+            {
+                  "name": "Fortress",
+                  "text": "Weathered clay walls mark the site of an ancient defensive fortification near the city.",
+                  "category": "historical",
+                  "coords": [
+                        63.592008,
+                        39.018768
+                  ]
+            },
+            {
+                  "name": "Ewejen Hoja",
+                  "text": "A local Islamic shrine dedicated to a revered religious figure in the Turkmenabat area.",
+                  "category": "landmark",
+                  "coords": [
+                        63.526883,
+                        39.094338
+                  ]
+            },
+            {
+                  "name": "Abu Yusup Mosque",
+                  "text": "A modern place of worship serving the Muslim community in central Turkmenabat.",
+                  "category": "landmark",
+                  "coords": [
+                        63.590664,
+                        39.050203
+                  ]
+            },
+            {
+                  "name": "Metjit",
+                  "text": "A neighborhood mosque featuring classic Central Asian architectural elements like pointed arches.",
+                  "category": "landmark",
+                  "coords": [
+                        63.59257,
+                        39.035999
+                  ]
+            },
+            {
+                  "name": "Baş Metjit",
+                  "text": "The central main mosque of Turkmenabat, distinguished by its prominent and tall minarets.",
+                  "category": "landmark",
+                  "coords": [
+                        63.591423,
+                        39.028074
+                  ]
+            },
+            {
+                  "name": "Miras Bazary",
+                  "text": "A bustling local bazaar known for its traditional Turkmen textiles and hand-woven goods.",
+                  "category": "cultural",
+                  "coords": [
+                        63.58723,
+                        39.04898
+                  ]
+            },
+            {
+                  "name": "Himik Bazary",
+                  "text": "A large marketplace popular among locals for household goods and regional food specialties.",
+                  "category": "cultural",
+                  "coords": [
+                        63.580564,
+                        39.037112
+                  ]
+            },
+            {
+                  "name": "Lomaý Söwda Toplumy",
+                  "text": "An extensive commercial complex dedicated to the wholesale trade of consumer goods in the region.",
+                  "category": "cultural",
+                  "coords": [
+                        63.57438,
+                        39.04372
+                  ]
+            },
+            {
+                  "name": "Optowyý Bazary",
+                  "text": "A busy trading hub where local merchants and residents purchase goods in bulk.",
+                  "category": "cultural",
+                  "coords": [
+                        63.574239,
+                        39.045484
+                  ]
+            },
+            {
+                  "name": "Construction Materials Bazaar No. 5",
+                  "text": "A specialized market catering to local needs for construction and building materials.",
+                  "category": "cultural",
+                  "coords": [
+                        63.60197,
+                        39.014622
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TM-L",
     coords: [63.56, 39.08],
@@ -751,7 +4180,52 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     },
   },
   {
-    id: "farap-trade-hub-economic-v2",
+    id: "farap-trade-hub-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Saglyk ýoly",
+                  "text": "Der Ausgangspunkt für einen Wanderweg, der zur Förderung der Gesundheit in der Nähe des Handelszentrums angelegt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        63.673078,
+                        39.081263
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saglyk ýoly",
+                  "text": "Egy gyalogút kezdőpontja, amelyet az egészség megőrzése érdekében alakítottak ki a kereskedelmi központ közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        63.673078,
+                        39.081263
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saglyk ýoly",
+                  "text": "Punctul de plecare al unei poteci de drumeție amenajate pentru sănătate în apropierea centrului comercial.",
+                  "category": "landmark",
+                  "coords": [
+                        63.673078,
+                        39.081263
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Trailhead of Health Walk",
+                  "text": "The starting point of a designated walking path for health and recreation near the trade hub.",
+                  "category": "landmark",
+                  "coords": [
+                        63.673078,
+                        39.081263
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "TM-L",
     coords: [63.60, 39.14],

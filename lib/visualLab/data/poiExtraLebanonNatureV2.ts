@@ -3,7 +3,304 @@ import { POI } from './poi';
 export const lebanonNatureV2: POI[] = [
 
   {
-    id: "lebanon-qaraoun-lake-nature-v2",
+    id: "lebanon-qaraoun-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dolina bakaa",
+                  "text": "Ein Aussichtspunkt mit Blick auf das weite Bekaa-Tal in der Nähe des Qaraoun-Sees.",
+                  "category": "landmark",
+                  "coords": [
+                        35.89532,
+                        33.617464
+                  ]
+            },
+            {
+                  "name": "Kamid el-Loz (Kumidi)",
+                  "text": "Eine bedeutende archäologische Ausgrabungsstätte einer bronzezeitlichen Stadt im Bekaa-Tal.",
+                  "category": "historical",
+                  "coords": [
+                        35.821166,
+                        33.624089
+                  ]
+            },
+            {
+                  "name": "Mosquée Ar-Rahmân",
+                  "text": "Eine moderne Moschee in der Nähe des Ufers des Qaraoun-Stausees.",
+                  "category": "landmark",
+                  "coords": [
+                        35.876228,
+                        33.642358
+                  ]
+            },
+            {
+                  "name": "Omar Bin Al-Khatab Mosque",
+                  "text": "Ein muslimisches Gotteshaus in der Ortschaft am Qaraoun-See.",
+                  "category": "landmark",
+                  "coords": [
+                        35.781719,
+                        33.626416
+                  ]
+            },
+            {
+                  "name": "St Georges Catholic Church",
+                  "text": "Eine katholische Kirche, die der christlichen Gemeinde in der West-Bekaa-Region dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.784291,
+                        33.627585
+                  ]
+            },
+            {
+                  "name": "St Nicholas Orthodox Church",
+                  "text": "Eine orthodoxe Kirche in der ländlichen Umgebung des Qaraoun-Sees.",
+                  "category": "landmark",
+                  "coords": [
+                        35.78649,
+                        33.626963
+                  ]
+            },
+            {
+                  "name": "minimarket",
+                  "text": "Ein kleiner lokaler Markt für den täglichen Bedarf in der Nähe des Sees.",
+                  "category": "cultural",
+                  "coords": [
+                        35.791736,
+                        33.629591
+                  ]
+            },
+            {
+                  "name": "COOP",
+                  "text": "Ein genossenschaftlicher Marktplatz, der lokale Produkte in der Bekaa-Region anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        35.792705,
+                        33.629903
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dolina bakaa",
+                  "text": "Kilátóhely a tágas Bekaa-völgyre a Qaraoun-tó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.89532,
+                        33.617464
+                  ]
+            },
+            {
+                  "name": "Kamid el-Loz (Kumidi)",
+                  "text": "Egy bronzkori város jelentős régészeti lelőhelye a Bekaa-völgyben.",
+                  "category": "historical",
+                  "coords": [
+                        35.821166,
+                        33.624089
+                  ]
+            },
+            {
+                  "name": "Mosquée Ar-Rahmân",
+                  "text": "Modern mecset a Qaraoun-víztározó partjának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.876228,
+                        33.642358
+                  ]
+            },
+            {
+                  "name": "Omar Bin Al-Khatab Mosque",
+                  "text": "Muszlim imaház a Qaraoun-tó menti településen.",
+                  "category": "landmark",
+                  "coords": [
+                        35.781719,
+                        33.626416
+                  ]
+            },
+            {
+                  "name": "St Georges Catholic Church",
+                  "text": "A nyugat-bekaa-i keresztény közösséget kiszolgáló katolikus templom.",
+                  "category": "landmark",
+                  "coords": [
+                        35.784291,
+                        33.627585
+                  ]
+            },
+            {
+                  "name": "St Nicholas Orthodox Church",
+                  "text": "Ortodox templom a Qaraoun-tó vidéki környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.78649,
+                        33.626963
+                  ]
+            },
+            {
+                  "name": "minimarket",
+                  "text": "Kisméretű helyi piac a tó közeli napi szükségletekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        35.791736,
+                        33.629591
+                  ]
+            },
+            {
+                  "name": "COOP",
+                  "text": "Helyi termékeket kínáló szövetkezeti piac a Bekaa-régióban.",
+                  "category": "cultural",
+                  "coords": [
+                        35.792705,
+                        33.629903
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dolina bakaa",
+                  "text": "Un punct de observație asupra vastei Văi Bekaa, lângă lacul Qaraoun.",
+                  "category": "landmark",
+                  "coords": [
+                        35.89532,
+                        33.617464
+                  ]
+            },
+            {
+                  "name": "Kamid el-Loz (Kumidi)",
+                  "text": "Un sit arheologic important al unui oraș din Epoca Bronzului în Valea Bekaa.",
+                  "category": "historical",
+                  "coords": [
+                        35.821166,
+                        33.624089
+                  ]
+            },
+            {
+                  "name": "Mosquée Ar-Rahmân",
+                  "text": "O moschee modernă situată în apropierea malului lacului de acumulare Qaraoun.",
+                  "category": "landmark",
+                  "coords": [
+                        35.876228,
+                        33.642358
+                  ]
+            },
+            {
+                  "name": "Omar Bin Al-Khatab Mosque",
+                  "text": "Un lăcaș de cult musulman în așezarea de lângă lacul Qaraoun.",
+                  "category": "landmark",
+                  "coords": [
+                        35.781719,
+                        33.626416
+                  ]
+            },
+            {
+                  "name": "St Georges Catholic Church",
+                  "text": "O biserică catolică ce deservește comunitatea creștină din regiunea West Bekaa.",
+                  "category": "landmark",
+                  "coords": [
+                        35.784291,
+                        33.627585
+                  ]
+            },
+            {
+                  "name": "St Nicholas Orthodox Church",
+                  "text": "O biserică ortodoxă în cadrul rural de lângă lacul Qaraoun.",
+                  "category": "landmark",
+                  "coords": [
+                        35.78649,
+                        33.626963
+                  ]
+            },
+            {
+                  "name": "minimarket",
+                  "text": "O mică piață locală pentru necesitățile zilnice de lângă lac.",
+                  "category": "cultural",
+                  "coords": [
+                        35.791736,
+                        33.629591
+                  ]
+            },
+            {
+                  "name": "COOP",
+                  "text": "O piață cooperatistă care oferă produse locale în regiunea Bekaa.",
+                  "category": "cultural",
+                  "coords": [
+                        35.792705,
+                        33.629903
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dolina bakaa",
+                  "text": "A viewpoint overlooking the broad Bekaa Valley near Lake Qaraoun.",
+                  "category": "landmark",
+                  "coords": [
+                        35.89532,
+                        33.617464
+                  ]
+            },
+            {
+                  "name": "Kamid el-Loz (Kumidi)",
+                  "text": "An important archaeological site of a Bronze Age city in the Bekaa Valley.",
+                  "category": "historical",
+                  "coords": [
+                        35.821166,
+                        33.624089
+                  ]
+            },
+            {
+                  "name": "Mosquée Ar-Rahmân",
+                  "text": "A modern mosque located near the shores of the Qaraoun reservoir.",
+                  "category": "landmark",
+                  "coords": [
+                        35.876228,
+                        33.642358
+                  ]
+            },
+            {
+                  "name": "Omar Bin Al-Khatab Mosque",
+                  "text": "A Muslim place of worship in the settlement by Lake Qaraoun.",
+                  "category": "landmark",
+                  "coords": [
+                        35.781719,
+                        33.626416
+                  ]
+            },
+            {
+                  "name": "St Georges Catholic Church",
+                  "text": "A Catholic church serving the Christian community in the West Bekaa region.",
+                  "category": "landmark",
+                  "coords": [
+                        35.784291,
+                        33.627585
+                  ]
+            },
+            {
+                  "name": "St Nicholas Orthodox Church",
+                  "text": "An Orthodox church in the rural setting of Lake Qaraoun.",
+                  "category": "landmark",
+                  "coords": [
+                        35.78649,
+                        33.626963
+                  ]
+            },
+            {
+                  "name": "minimarket",
+                  "text": "A small local market for daily needs near the lake.",
+                  "category": "cultural",
+                  "coords": [
+                        35.791736,
+                        33.629591
+                  ]
+            },
+            {
+                  "name": "COOP",
+                  "text": "A cooperative marketplace offering local products in the Bekaa region.",
+                  "category": "cultural",
+                  "coords": [
+                        35.792705,
+                        33.629903
+                  ]
+            }
+      ]
+},
     parent: "LB",
     type: "lake",
     name: { de: "Qaraoun-See", hu: "Qaraoun-tó", ro: "Lacul Qaraoun", en: "Lake Qaraoun" },
@@ -48,7 +345,376 @@ export const lebanonNatureV2: POI[] = [
     image: "/poi-images/lebanon-qaraoun-lake-nature-v2.webp",
   },
   {
-    id: "lebanon-nahr-ibrahim-nature-v2",
+    id: "lebanon-nahr-ibrahim-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "MACAM",
+                  "text": "Das Museum für moderne und zeitgenössische Kunst in einer ehemaligen Fabrik in Alita.",
+                  "category": "museum",
+                  "coords": [
+                        35.688075,
+                        34.090669
+                  ]
+            },
+            {
+                  "name": "Sam Sur Mer",
+                  "text": "Ein Strandresort in der Nähe der Mündung des geschichtsträchtigen Ibrahim-Flusses.",
+                  "category": "recreational",
+                  "coords": [
+                        35.642845,
+                        34.059634
+                  ]
+            },
+            {
+                  "name": "Aquadream Beach Resort",
+                  "text": "Ein weitläufiges Freizeitzentrum am Meer mit mehreren Wasserbecken für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        35.643351,
+                        34.063618
+                  ]
+            },
+            {
+                  "name": "Zeitoun Mosque",
+                  "text": "Eine lokale Moschee mit einem markanten Minarett, die die Gemeinde von Nahr Ibrahim bedient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.685163,
+                        34.060567
+                  ]
+            },
+            {
+                  "name": "St. Joseph Church",
+                  "text": "Eine katholische Pfarrkirche im Herzen des Dorfes am Ufer des Ibrahim-Flusses.",
+                  "category": "landmark",
+                  "coords": [
+                        35.687384,
+                        34.062132
+                  ]
+            },
+            {
+                  "name": "Saint Edna Nammoura",
+                  "text": "Ein maronitisches Kloster in der bergigen Landschaft von Nammoura.",
+                  "category": "religious",
+                  "coords": [
+                        35.669232,
+                        34.052276
+                  ]
+            },
+            {
+                  "name": "Mar Doumit",
+                  "text": "Eine christliche Kirche, die dem Heiligen Doumit gewidmet ist und in der Nähe der Küstenstraße liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.63726,
+                        34.052645
+                  ]
+            },
+            {
+                  "name": "St. Elias Church",
+                  "text": "Eine traditionelle christliche Kirche, die dem Propheten Elias geweiht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.642404,
+                        34.056184
+                  ]
+            },
+            {
+                  "name": "Saint Mary the Virgin",
+                  "text": "Eine der Jungfrau Maria gewidmete Kirche in einer malerischen Umgebung am Fluss.",
+                  "category": "landmark",
+                  "coords": [
+                        35.643757,
+                        34.052975
+                  ]
+            },
+            {
+                  "name": "Mar Geryes Church",
+                  "text": "Eine dem Heiligen Georg gewidmete Kirche, ein religiöser Mittelpunkt für die lokale Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        35.693908,
+                        34.035321
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "MACAM",
+                  "text": "Modern és Kortárs Művészeti Múzeum egy egykori gyárépületben, Alita faluban.",
+                  "category": "museum",
+                  "coords": [
+                        35.688075,
+                        34.090669
+                  ]
+            },
+            {
+                  "name": "Sam Sur Mer",
+                  "text": "Tengerparti üdülőhely a történelmi Ibrahim-folyó torkolatának közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        35.642845,
+                        34.059634
+                  ]
+            },
+            {
+                  "name": "Aquadream Beach Resort",
+                  "text": "Kiterjedt tengerparti szabadidőközpont több medencével a családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        35.643351,
+                        34.063618
+                  ]
+            },
+            {
+                  "name": "Zeitoun Mosque",
+                  "text": "Helyi mecset jellegzetes minarettel, amely Nahr Ibrahim közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.685163,
+                        34.060567
+                  ]
+            },
+            {
+                  "name": "St. Joseph Church",
+                  "text": "Katolikus plébániatemplom az Ibrahim-folyó partján fekvő falu szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.687384,
+                        34.062132
+                  ]
+            },
+            {
+                  "name": "Saint Edna Nammoura",
+                  "text": "Maronita kolostor Nammoura hegyvidéki táján.",
+                  "category": "religious",
+                  "coords": [
+                        35.669232,
+                        34.052276
+                  ]
+            },
+            {
+                  "name": "Mar Doumit",
+                  "text": "Szent Doumitnak szentelt keresztény templom a parti út közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.63726,
+                        34.052645
+                  ]
+            },
+            {
+                  "name": "St. Elias Church",
+                  "text": "Hagyományos keresztény templom, amelyet Illés prófétának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        35.642404,
+                        34.056184
+                  ]
+            },
+            {
+                  "name": "Saint Mary the Virgin",
+                  "text": "Szűz Máriának szentelt templom festői környezetben a folyó mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        35.643757,
+                        34.052975
+                  ]
+            },
+            {
+                  "name": "Mar Geryes Church",
+                  "text": "Szent Györgynek szentelt templom, amely a helyi közösség vallási központja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.693908,
+                        34.035321
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "MACAM",
+                  "text": "Muzeul de artă modernă și contemporană găzduit într-o fostă fabrică din Alita.",
+                  "category": "museum",
+                  "coords": [
+                        35.688075,
+                        34.090669
+                  ]
+            },
+            {
+                  "name": "Sam Sur Mer",
+                  "text": "O stațiune de plajă situată în apropierea gurii de vărsare a râului istoric Ibrahim.",
+                  "category": "recreational",
+                  "coords": [
+                        35.642845,
+                        34.059634
+                  ]
+            },
+            {
+                  "name": "Aquadream Beach Resort",
+                  "text": "Un centru de recreere spațios la malul mării, cu mai multe bazine pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        35.643351,
+                        34.063618
+                  ]
+            },
+            {
+                  "name": "Zeitoun Mosque",
+                  "text": "O moschee locală cu un minaret distinctiv, care deservește comunitatea din Nahr Ibrahim.",
+                  "category": "landmark",
+                  "coords": [
+                        35.685163,
+                        34.060567
+                  ]
+            },
+            {
+                  "name": "St. Joseph Church",
+                  "text": "O biserică parohială catolică situată în inima satului de pe malul râului Ibrahim.",
+                  "category": "landmark",
+                  "coords": [
+                        35.687384,
+                        34.062132
+                  ]
+            },
+            {
+                  "name": "Saint Edna Nammoura",
+                  "text": "O mănăstire maronită situată în peisajul montan din Nammoura.",
+                  "category": "religious",
+                  "coords": [
+                        35.669232,
+                        34.052276
+                  ]
+            },
+            {
+                  "name": "Mar Doumit",
+                  "text": "O biserică creștină dedicată Sfântului Doumit, situată în apropierea drumului de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        35.63726,
+                        34.052645
+                  ]
+            },
+            {
+                  "name": "St. Elias Church",
+                  "text": "O biserică creștină tradițională închinată Sfântului Prooroc Ilie.",
+                  "category": "landmark",
+                  "coords": [
+                        35.642404,
+                        34.056184
+                  ]
+            },
+            {
+                  "name": "Saint Mary the Virgin",
+                  "text": "O biserică dedicată Fecioarei Maria, într-un cadru pitoresc lângă râu.",
+                  "category": "landmark",
+                  "coords": [
+                        35.643757,
+                        34.052975
+                  ]
+            },
+            {
+                  "name": "Mar Geryes Church",
+                  "text": "O biserică dedicată Sfântului Gheorghe, un centru religios pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        35.693908,
+                        34.035321
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "MACAM",
+                  "text": "Modern and Contemporary Art Museum located in a former factory building in Alita.",
+                  "category": "museum",
+                  "coords": [
+                        35.688075,
+                        34.090669
+                  ]
+            },
+            {
+                  "name": "Sam Sur Mer",
+                  "text": "A beach resort located near the mouth of the historic Ibrahim River.",
+                  "category": "recreational",
+                  "coords": [
+                        35.642845,
+                        34.059634
+                  ]
+            },
+            {
+                  "name": "Aquadream Beach Resort",
+                  "text": "An expansive seaside leisure center with multiple pools for families.",
+                  "category": "recreational",
+                  "coords": [
+                        35.643351,
+                        34.063618
+                  ]
+            },
+            {
+                  "name": "Zeitoun Mosque",
+                  "text": "A local mosque with a distinctive minaret serving the community of Nahr Ibrahim.",
+                  "category": "landmark",
+                  "coords": [
+                        35.685163,
+                        34.060567
+                  ]
+            },
+            {
+                  "name": "St. Joseph Church",
+                  "text": "A Catholic parish church in the heart of the village on the banks of the Ibrahim River.",
+                  "category": "landmark",
+                  "coords": [
+                        35.687384,
+                        34.062132
+                  ]
+            },
+            {
+                  "name": "Saint Edna Nammoura",
+                  "text": "A Maronite monastery situated in the mountainous landscape of Nammoura.",
+                  "category": "religious",
+                  "coords": [
+                        35.669232,
+                        34.052276
+                  ]
+            },
+            {
+                  "name": "Mar Doumit",
+                  "text": "A Christian church dedicated to Saint Doumit, located near the coastal road.",
+                  "category": "landmark",
+                  "coords": [
+                        35.63726,
+                        34.052645
+                  ]
+            },
+            {
+                  "name": "St. Elias Church",
+                  "text": "A traditional Christian church consecrated to the Prophet Elias.",
+                  "category": "landmark",
+                  "coords": [
+                        35.642404,
+                        34.056184
+                  ]
+            },
+            {
+                  "name": "Saint Mary the Virgin",
+                  "text": "A church dedicated to the Virgin Mary in a picturesque setting by the river.",
+                  "category": "landmark",
+                  "coords": [
+                        35.643757,
+                        34.052975
+                  ]
+            },
+            {
+                  "name": "Mar Geryes Church",
+                  "text": "A church dedicated to Saint George, a religious focal point for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        35.693908,
+                        34.035321
+                  ]
+            }
+      ]
+},
     parent: "LB",
     type: "river",
     name: { de: "Nahr Ibrahim", hu: "Nahr Ibrahim", ro: "Râul Nahr Ibrahim", en: "Nahr Ibrahim River" },
@@ -93,7 +759,772 @@ export const lebanonNatureV2: POI[] = [
     image: "/poi-images/lebanon-nahr-ibrahim-nature-v2.webp",
   },
   {
-    id: "lebanon-afqa-grotto-nature-v2",
+    id: "lebanon-afqa-grotto-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Afqa Grotto",
+                  "text": "Eine spektakuläre Kalksteinhöhle, aus der die Quelle des Adonis-Flusses entspringt.",
+                  "category": "natural",
+                  "coords": [
+                        35.893539,
+                        34.067898
+                  ]
+            },
+            {
+                  "name": "Adonis Temple",
+                  "text": "Die antiken Ruinen eines römischen Tempels, der Adonis gewidmet war und in der Nähe der Afqa-Grotte liegt.",
+                  "category": "historical",
+                  "coords": [
+                        35.892037,
+                        34.067129
+                  ]
+            },
+            {
+                  "name": "Tell Yanouh",
+                  "text": "Eine bedeutende archäologische Stätte mit phönizischen und römischen Überresten im Adonis-Tal.",
+                  "category": "historical",
+                  "coords": [
+                        35.884687,
+                        34.103389
+                  ]
+            },
+            {
+                  "name": "St. Elias Church",
+                  "text": "Eine Steinkirche in den Bergen, die dem Propheten Elias gewidmet ist und die umliegende Landschaft überblickt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.845026,
+                        34.103899
+                  ]
+            },
+            {
+                  "name": "Saydet El Habes",
+                  "text": "Eine kleine Maroniten-Kapelle, die in eine steile Felswand über dem Tal gebaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        35.90724,
+                        34.114872
+                  ]
+            },
+            {
+                  "name": "St. Sarkis & Bakhos Monastery",
+                  "text": "Ein antikes Kloster, das auf einem Vorsprung im Adonis-Tal liegt und den frühen christlichen Heiligen gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.85276,
+                        34.095573
+                  ]
+            },
+            {
+                  "name": "St. Teddy Church",
+                  "text": "Eine traditionelle christliche Kirche in der Bergregion, bekannt für ihre ruhige Lage.",
+                  "category": "landmark",
+                  "coords": [
+                        35.848999,
+                        34.092696
+                  ]
+            },
+            {
+                  "name": "Our Lady of Herezmaniye Church",
+                  "text": "Eine historische Maroniten-Kirche, die der Jungfrau Maria gewidmet ist und lokales Steinmetzhandwerk zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.847317,
+                        34.093344
+                  ]
+            },
+            {
+                  "name": "St. George Church",
+                  "text": "Eine dem Heiligen Georg gewidmete Kirche, die ein wichtiges spirituelles Zentrum für die lokale Gemeinschaft ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.846471,
+                        34.091599
+                  ]
+            },
+            {
+                  "name": "St. Simeon Stylites Church",
+                  "text": "Eine Kirche, die dem heiligen Simeon Stylites gewidmet ist, dem berühmten christlichen Asketen.",
+                  "category": "landmark",
+                  "coords": [
+                        35.836711,
+                        34.101412
+                  ]
+            },
+            {
+                  "name": "St. Charbel Church",
+                  "text": "Eine dem Heiligen Charbel geweihte Kapelle, die einen Panoramablick auf die schroffen libanesischen Berge bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.847434,
+                        34.086076
+                  ]
+            },
+            {
+                  "name": "St. Joseph Church",
+                  "text": "Eine traditionelle Maroniten-Kirche, die aus lokalem Kalkstein in der charakteristischen Architektur der Region gebaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        35.844702,
+                        34.094051
+                  ]
+            },
+            {
+                  "name": "St. Georges Church",
+                  "text": "Eine traditionelle steinerne maronitische Kirche in den zerklüfteten Bergen nahe der Afqa-Grotte.",
+                  "category": "landmark",
+                  "coords": [
+                        35.903202,
+                        34.121603
+                  ]
+            },
+            {
+                  "name": "Mar Zakhia Church",
+                  "text": "Eine bescheidene Steinkapelle, die dem Heiligen Zakhia gewidmet ist und den typischen Stil des Hochgebirges im Libanon widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.876091,
+                        34.098448
+                  ]
+            },
+            {
+                  "name": "Saydet al-Najat Church",
+                  "text": "Eine maronitische Steinkirche, die Unserer Lieben Frau der Erlösung gewidmet ist und im malerischen Hochland der Afqa-Region liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.877911,
+                        34.094081
+                  ]
+            },
+            {
+                  "name": "St. Elie Church",
+                  "text": "Eine historische Steinkirche, die dem Propheten Elia gewidmet ist und die tiefen Täler des Afqa-Gebirges überblickt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.907462,
+                        34.117945
+                  ]
+            },
+            {
+                  "name": "St. Abda Church",
+                  "text": "Eine kleine, alte Steinkirche, die dem Heiligen Abda gewidmet ist und inmitten der schroffen Kalksteinhänge des Afqa-Distrikts liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.857611,
+                        34.10258
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Annunciation Church",
+                  "text": "Ein ruhiger maronitischer Andachtsort, der für seinen traditionellen Glockenturm und den Panoramablick auf die umliegenden Berggipfel bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.848051,
+                        34.096764
+                  ]
+            },
+            {
+                  "name": "St. Elias Cathedral",
+                  "text": "Eine imposante Steinkathedrale mit Rundbogenfenstern und roten Ziegeldächern, die als Wahrzeichen des Bergdorfes dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.847354,
+                        34.094787
+                  ]
+            },
+            {
+                  "name": "St. Mansour Church",
+                  "text": "Eine idyllische Dorfkirche mit rustikaler Steinarchitektur und Gewölbedecken, wie sie für die Region Libanon-Gebirge typisch sind.",
+                  "category": "landmark",
+                  "coords": [
+                        35.892171,
+                        34.105804
+                  ]
+            },
+            {
+                  "name": "Al Saydeh Church",
+                  "text": "Ein traditionelles maronitisches Heiligtum, das der Jungfrau Maria gewidmet ist und auf einem Kalksteinkamm über dem Afqa-Tal thront.",
+                  "category": "landmark",
+                  "coords": [
+                        35.902067,
+                        34.120568
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Afqa Grotto",
+                  "text": "Látványos mészkőbarlang, amely az Adonis-folyó forrásaként szolgál.",
+                  "category": "natural",
+                  "coords": [
+                        35.893539,
+                        34.067898
+                  ]
+            },
+            {
+                  "name": "Adonis Temple",
+                  "text": "Az Afqa-barlang közelében fekvő, Adonis tiszteletére emelt római templom ókori romjai.",
+                  "category": "historical",
+                  "coords": [
+                        35.892037,
+                        34.067129
+                  ]
+            },
+            {
+                  "name": "Tell Yanouh",
+                  "text": "Jelentős régészeti lelőhely föníciai és római maradványokkal az Adonis-völgyben.",
+                  "category": "historical",
+                  "coords": [
+                        35.884687,
+                        34.103389
+                  ]
+            },
+            {
+                  "name": "St. Elias Church",
+                  "text": "Illés prófétának szentelt hegyi kőtemplom, amely a környező tájra néz.",
+                  "category": "landmark",
+                  "coords": [
+                        35.845026,
+                        34.103899
+                  ]
+            },
+            {
+                  "name": "Saydet El Habes",
+                  "text": "A völgy feletti meredek sziklafalba épített apró maronita kápolna.",
+                  "category": "landmark",
+                  "coords": [
+                        35.90724,
+                        34.114872
+                  ]
+            },
+            {
+                  "name": "St. Sarkis & Bakhos Monastery",
+                  "text": "Az Adonis-völgy egyik kiszögellésén fekvő ősi kolostor, amelyet korai keresztény szenteknek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        35.85276,
+                        34.095573
+                  ]
+            },
+            {
+                  "name": "St. Teddy Church",
+                  "text": "A hegyvidéki régió hagyományos keresztény temploma, amely nyugodt környezetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.848999,
+                        34.092696
+                  ]
+            },
+            {
+                  "name": "Our Lady of Herezmaniye Church",
+                  "text": "Szűz Máriának szentelt történelmi maronita templom, amely a helyi kőfaragó művészetet mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        35.847317,
+                        34.093344
+                  ]
+            },
+            {
+                  "name": "St. George Church",
+                  "text": "Szent Györgynek szentelt templom, amely a helyi közösség fontos lelki központja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.846471,
+                        34.091599
+                  ]
+            },
+            {
+                  "name": "St. Simeon Stylites Church",
+                  "text": "Oszlopos Szent Simeonnak, a híres keresztény aszkétának szentelt templom.",
+                  "category": "landmark",
+                  "coords": [
+                        35.836711,
+                        34.101412
+                  ]
+            },
+            {
+                  "name": "St. Charbel Church",
+                  "text": "Szent Charbelnek szentelt kápolna, amely panorámás kilátást nyújt a zord libanoni hegyekre.",
+                  "category": "landmark",
+                  "coords": [
+                        35.847434,
+                        34.086076
+                  ]
+            },
+            {
+                  "name": "St. Joseph Church",
+                  "text": "A régió jellegzetes építészeti stílusában, helyi mészkőből épült hagyományos maronita templom.",
+                  "category": "landmark",
+                  "coords": [
+                        35.844702,
+                        34.094051
+                  ]
+            },
+            {
+                  "name": "St. Georges Church",
+                  "text": "Egy hagyományos kőből épült maronita templom az Afqa-barlang melletti zord hegyekben.",
+                  "category": "landmark",
+                  "coords": [
+                        35.903202,
+                        34.121603
+                  ]
+            },
+            {
+                  "name": "Mar Zakhia Church",
+                  "text": "Egy Szent Zakhiának szentelt szerény kőkápolna, amely a Libanon-hegység jellegzetes építészeti stílusát képviseli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.876091,
+                        34.098448
+                  ]
+            },
+            {
+                  "name": "Saydet al-Najat Church",
+                  "text": "A Szabadító Miasszonyunknak szentelt maronita kőtemplom az Afqa-régió festői felföldjén.",
+                  "category": "landmark",
+                  "coords": [
+                        35.877911,
+                        34.094081
+                  ]
+            },
+            {
+                  "name": "St. Elie Church",
+                  "text": "Illés prófétának szentelt történelmi kőtemplom, amely az Afqa-hegység mély völgyeire néz.",
+                  "category": "landmark",
+                  "coords": [
+                        35.907462,
+                        34.117945
+                  ]
+            },
+            {
+                  "name": "St. Abda Church",
+                  "text": "Egy Szent Abdának szentelt kicsi, ősi kőtemplom az Afqa-körzet zord mészkőlejtői között.",
+                  "category": "landmark",
+                  "coords": [
+                        35.857611,
+                        34.10258
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Annunciation Church",
+                  "text": "Egy békés maronita templom, amely hagyományos harangtornyáról és a környező hegycsúcsokra nyíló panorámájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.848051,
+                        34.096764
+                  ]
+            },
+            {
+                  "name": "St. Elias Cathedral",
+                  "text": "Egy impozáns kőből épült székesegyház boltíves ablakokkal és vörös cseréptetővel, amely a hegyi falu egyik jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        35.847354,
+                        34.094787
+                  ]
+            },
+            {
+                  "name": "St. Mansour Church",
+                  "text": "Egy hangulatos falusi templom rusztikus kőépítészettel és boltíves mennyezettel, amely a Libanon-hegység vidékére jellemző.",
+                  "category": "landmark",
+                  "coords": [
+                        35.892171,
+                        34.105804
+                  ]
+            },
+            {
+                  "name": "Al Saydeh Church",
+                  "text": "Szűz Máriának szentelt hagyományos maronita szentély, amely egy mészkőgerincen ül az Afqa-völgy felett.",
+                  "category": "landmark",
+                  "coords": [
+                        35.902067,
+                        34.120568
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Afqa Grotto",
+                  "text": "O peșteră de calcar spectaculoasă care servește drept izvor pentru râul Adonis.",
+                  "category": "natural",
+                  "coords": [
+                        35.893539,
+                        34.067898
+                  ]
+            },
+            {
+                  "name": "Adonis Temple",
+                  "text": "Ruinele antice ale unui templu roman dedicat lui Adonis, situat în apropierea grotei Afqa.",
+                  "category": "historical",
+                  "coords": [
+                        35.892037,
+                        34.067129
+                  ]
+            },
+            {
+                  "name": "Tell Yanouh",
+                  "text": "Un sit arheologic important cu vestigii feniciene și romane în Valea Adonis.",
+                  "category": "historical",
+                  "coords": [
+                        35.884687,
+                        34.103389
+                  ]
+            },
+            {
+                  "name": "St. Elias Church",
+                  "text": "O biserică de piatră în munți, dedicată Sfântului Ilie, ce domină peisajul înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        35.845026,
+                        34.103899
+                  ]
+            },
+            {
+                  "name": "Saydet El Habes",
+                  "text": "O mică capelă maronită construită într-un perete abrupt de stâncă deasupra văii.",
+                  "category": "landmark",
+                  "coords": [
+                        35.90724,
+                        34.114872
+                  ]
+            },
+            {
+                  "name": "St. Sarkis & Bakhos Monastery",
+                  "text": "O mănăstire antică situată pe o proeminență din Valea Adonis, dedicată sfinților creștini timpurii.",
+                  "category": "landmark",
+                  "coords": [
+                        35.85276,
+                        34.095573
+                  ]
+            },
+            {
+                  "name": "St. Teddy Church",
+                  "text": "O biserică creștină tradițională din regiunea montană, cunoscută pentru amplasarea sa liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        35.848999,
+                        34.092696
+                  ]
+            },
+            {
+                  "name": "Our Lady of Herezmaniye Church",
+                  "text": "O biserică maronită istorică dedicată Fecioarei Maria, ce prezintă măiestria locală în cioplirea pietrei.",
+                  "category": "landmark",
+                  "coords": [
+                        35.847317,
+                        34.093344
+                  ]
+            },
+            {
+                  "name": "St. George Church",
+                  "text": "O biserică dedicată Sfântului Gheorghe, reprezentând un centru spiritual important pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        35.846471,
+                        34.091599
+                  ]
+            },
+            {
+                  "name": "St. Simeon Stylites Church",
+                  "text": "O biserică dedicată Sfântului Simeon Stâlpnicul, faimosul ascet creștin.",
+                  "category": "landmark",
+                  "coords": [
+                        35.836711,
+                        34.101412
+                  ]
+            },
+            {
+                  "name": "St. Charbel Church",
+                  "text": "O capelă închinată Sfântului Charbel, oferind o vedere panoramică asupra munților libanezi accidentați.",
+                  "category": "landmark",
+                  "coords": [
+                        35.847434,
+                        34.086076
+                  ]
+            },
+            {
+                  "name": "St. Joseph Church",
+                  "text": "O biserică maronită tradițională construită din calcar local în arhitectura caracteristică a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        35.844702,
+                        34.094051
+                  ]
+            },
+            {
+                  "name": "St. Georges Church",
+                  "text": "O biserică maronită tradițională din piatră, cuibărită în munții accidentați de lângă Grotă Afqa.",
+                  "category": "landmark",
+                  "coords": [
+                        35.903202,
+                        34.121603
+                  ]
+            },
+            {
+                  "name": "Mar Zakhia Church",
+                  "text": "O capelă modestă din piatră dedicată Sfântului Zaharia, tipică stilului arhitectural din Munții Liban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.876091,
+                        34.098448
+                  ]
+            },
+            {
+                  "name": "Saydet al-Najat Church",
+                  "text": "O biserică maronită din piatră dedicată Maicii Domnului a Izbăvirii, situată în zonele montane pitorești din regiunea Afqa.",
+                  "category": "landmark",
+                  "coords": [
+                        35.877911,
+                        34.094081
+                  ]
+            },
+            {
+                  "name": "St. Elie Church",
+                  "text": "O biserică istorică din piatră dedicată Sfântului Ilie, ce oferă vedere spre văile adânci ale munților Afqa.",
+                  "category": "landmark",
+                  "coords": [
+                        35.907462,
+                        34.117945
+                  ]
+            },
+            {
+                  "name": "St. Abda Church",
+                  "text": "O mică biserică veche din piatră dedicată Sfântului Abda, situată printre versanții calcaroși ai districtului Afqa.",
+                  "category": "landmark",
+                  "coords": [
+                        35.857611,
+                        34.10258
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Annunciation Church",
+                  "text": "Un lăcaș de cult maronit liniștit, cunoscut pentru clopotnița sa tradițională și vederea panoramică asupra vârfurilor muntoase din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        35.848051,
+                        34.096764
+                  ]
+            },
+            {
+                  "name": "St. Elias Cathedral",
+                  "text": "O catedrală impunătoare din piatră, cu ferestre boltite și acoperișuri din țiglă roșie, servind drept punct de reper în satul montan.",
+                  "category": "landmark",
+                  "coords": [
+                        35.847354,
+                        34.094787
+                  ]
+            },
+            {
+                  "name": "St. Mansour Church",
+                  "text": "O biserică pitorească de sat, cu arhitectură rustică din piatră și tavane boltite, tipice regiunii Munților Liban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.892171,
+                        34.105804
+                  ]
+            },
+            {
+                  "name": "Al Saydeh Church",
+                  "text": "Un sanctuar maronit tradițional dedicat Fecioarei Maria, cocoțat pe o creastă de calcar cu vedere la Valea Afqa.",
+                  "category": "landmark",
+                  "coords": [
+                        35.902067,
+                        34.120568
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Afqa Grotto",
+                  "text": "A spectacular limestone cave serving as the source of the Adonis River.",
+                  "category": "natural",
+                  "coords": [
+                        35.893539,
+                        34.067898
+                  ]
+            },
+            {
+                  "name": "Adonis Temple",
+                  "text": "The ancient ruins of a Roman temple dedicated to Adonis, located near the Afqa Grotto.",
+                  "category": "historical",
+                  "coords": [
+                        35.892037,
+                        34.067129
+                  ]
+            },
+            {
+                  "name": "Tell Yanouh",
+                  "text": "A significant archaeological site featuring Phoenician and Roman remains in the Adonis Valley.",
+                  "category": "historical",
+                  "coords": [
+                        35.884687,
+                        34.103389
+                  ]
+            },
+            {
+                  "name": "St. Elias Church",
+                  "text": "A stone church in the mountains dedicated to the Prophet Elias, overlooking the surrounding landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        35.845026,
+                        34.103899
+                  ]
+            },
+            {
+                  "name": "Saydet El Habes",
+                  "text": "A small Maronite chapel built into a steep rock face overlooking the valley.",
+                  "category": "landmark",
+                  "coords": [
+                        35.90724,
+                        34.114872
+                  ]
+            },
+            {
+                  "name": "St. Sarkis & Bakhos Monastery",
+                  "text": "An ancient monastery situated on a ledge in the Adonis Valley, dedicated to early Christian saints.",
+                  "category": "landmark",
+                  "coords": [
+                        35.85276,
+                        34.095573
+                  ]
+            },
+            {
+                  "name": "St. Teddy Church",
+                  "text": "A traditional Christian church in the mountain region, known for its serene setting.",
+                  "category": "landmark",
+                  "coords": [
+                        35.848999,
+                        34.092696
+                  ]
+            },
+            {
+                  "name": "Our Lady of Herezmaniye Church",
+                  "text": "A historical Maronite church dedicated to the Virgin Mary, showcasing local stonework craftsmanship.",
+                  "category": "landmark",
+                  "coords": [
+                        35.847317,
+                        34.093344
+                  ]
+            },
+            {
+                  "name": "St. George Church",
+                  "text": "A church dedicated to Saint George, serving as an important spiritual center for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        35.846471,
+                        34.091599
+                  ]
+            },
+            {
+                  "name": "St. Simeon Stylites Church",
+                  "text": "A church dedicated to Saint Simeon Stylites, the famous Christian ascetic.",
+                  "category": "landmark",
+                  "coords": [
+                        35.836711,
+                        34.101412
+                  ]
+            },
+            {
+                  "name": "St. Charbel Church",
+                  "text": "A chapel dedicated to Saint Charbel, offering panoramic views of the rugged Lebanese mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        35.847434,
+                        34.086076
+                  ]
+            },
+            {
+                  "name": "St. Joseph Church",
+                  "text": "A traditional Maronite church built from local limestone in the region's architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        35.844702,
+                        34.094051
+                  ]
+            },
+            {
+                  "name": "St. Georges Church",
+                  "text": "A traditional stone Maronite church nestled in the rugged mountains near the Afqa Grotto.",
+                  "category": "landmark",
+                  "coords": [
+                        35.903202,
+                        34.121603
+                  ]
+            },
+            {
+                  "name": "Mar Zakhia Church",
+                  "text": "A modest stone chapel dedicated to Saint Zakhia, typical of the high Mount Lebanon architectural style.",
+                  "category": "landmark",
+                  "coords": [
+                        35.876091,
+                        34.098448
+                  ]
+            },
+            {
+                  "name": "Saydet al-Najat Church",
+                  "text": "A stone Maronite church dedicated to Our Lady of Deliverance, situated in the scenic highlands of the Afqa region.",
+                  "category": "landmark",
+                  "coords": [
+                        35.877911,
+                        34.094081
+                  ]
+            },
+            {
+                  "name": "St. Elie Church",
+                  "text": "A historic stone church dedicated to the Prophet Elijah, overlooking the deep valleys of the Afqa mountain range.",
+                  "category": "landmark",
+                  "coords": [
+                        35.907462,
+                        34.117945
+                  ]
+            },
+            {
+                  "name": "St. Abda Church",
+                  "text": "A small, ancient stone church dedicated to Saint Abda, located amidst the rugged limestone slopes of the Afqa district.",
+                  "category": "landmark",
+                  "coords": [
+                        35.857611,
+                        34.10258
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Annunciation Church",
+                  "text": "A serene Maronite place of worship known for its traditional belfry and panoramic views of the surrounding mountain peaks.",
+                  "category": "landmark",
+                  "coords": [
+                        35.848051,
+                        34.096764
+                  ]
+            },
+            {
+                  "name": "St. Elias Cathedral",
+                  "text": "An imposing stone cathedral with arched windows and red-tiled roofs, serving as a landmark in the highland village.",
+                  "category": "landmark",
+                  "coords": [
+                        35.847354,
+                        34.094787
+                  ]
+            },
+            {
+                  "name": "St. Mansour Church",
+                  "text": "A quaint village church featuring the rustic stone architecture and vaulted ceilings typical of the Mount Lebanon region.",
+                  "category": "landmark",
+                  "coords": [
+                        35.892171,
+                        34.105804
+                  ]
+            },
+            {
+                  "name": "Al Saydeh Church",
+                  "text": "A traditional Maronite sanctuary dedicated to the Virgin Mary, perched on a limestone ridge overlooking the Afqa valley.",
+                  "category": "landmark",
+                  "coords": [
+                        35.902067,
+                        34.120568
+                  ]
+            }
+      ]
+},
     parent: "LB",
     type: "landmark",
     name: { de: "Afqa-Grotte", hu: "Afqa-barlang", ro: "Grota Afqa", en: "Afqa Grotto" },
@@ -138,7 +1569,232 @@ export const lebanonNatureV2: POI[] = [
     image: "/poi-images/lebanon-afqa-grotto-nature-v2.webp",
   },
   {
-    id: "lebanon-jezzine-waterfall-nature-v2",
+    id: "lebanon-jezzine-waterfall-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Saint-Joseph",
+                  "text": "Eine ruhige christliche Kirche inmitten der malerischen, bewaldeten Landschaften um Jezzine.",
+                  "category": "landmark",
+                  "coords": [
+                        35.58338,
+                        33.543339
+                  ]
+            },
+            {
+                  "name": "The Holy Family",
+                  "text": "Eine der Heiligen Familie geweihte Pfarrkirche, die der Berggemeinde nahe Jezzine dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.558992,
+                        33.560604
+                  ]
+            },
+            {
+                  "name": "St. Maroun Church",
+                  "text": "Eine traditionelle maronitische Kultstätte, die tief in den libanesischen Bergen nahe Jezzine verwurzelt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.587342,
+                        33.540906
+                  ]
+            },
+            {
+                  "name": "holy mary of bisri church",
+                  "text": "Ein ländliches christliches Heiligtum in der üppigen Bisri-Talregion bei Jezzine.",
+                  "category": "landmark",
+                  "coords": [
+                        35.540006,
+                        33.578838
+                  ]
+            },
+            {
+                  "name": "st john baptist church",
+                  "text": "Eine einladende, aus Stein gebaute Pfarrkirche in der Gegend von Jezzine, die Johannes dem Täufer geweiht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.544784,
+                        33.574024
+                  ]
+            },
+            {
+                  "name": "St. Joseph Church",
+                  "text": "Eine malerische Bergkirche in Jezzine, die dem Heiligen Josef geweiht ist und das zerklüftete Gelände überblickt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.557456,
+                        33.569122
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saint-Joseph",
+                  "text": "Egy nyugodt keresztény templom a Jezzine körüli festői, erdős tájak közepette.",
+                  "category": "landmark",
+                  "coords": [
+                        35.58338,
+                        33.543339
+                  ]
+            },
+            {
+                  "name": "The Holy Family",
+                  "text": "A Szent Családnak szentelt plébániatemplom, amely a Jezzine melletti hegyi közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.558992,
+                        33.560604
+                  ]
+            },
+            {
+                  "name": "St. Maroun Church",
+                  "text": "Egy hagyományos maronita istentiszteleti hely, amely mélyen gyökerezik a Jezzine melletti libanoni hegyekben.",
+                  "category": "landmark",
+                  "coords": [
+                        35.587342,
+                        33.540906
+                  ]
+            },
+            {
+                  "name": "holy mary of bisri church",
+                  "text": "Egy vidéki keresztény szentély a Jezzine melletti buja Bisri-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        35.540006,
+                        33.578838
+                  ]
+            },
+            {
+                  "name": "st john baptist church",
+                  "text": "Egy hívogató, kőből épült plébániatemplom a Jezzine térségben, amelyet Keresztelő Szent Jánosnak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        35.544784,
+                        33.574024
+                  ]
+            },
+            {
+                  "name": "St. Joseph Church",
+                  "text": "A festői Szent József-hegyi templom, amely a Jezzine zord terepére néz.",
+                  "category": "landmark",
+                  "coords": [
+                        35.557456,
+                        33.569122
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saint-Joseph",
+                  "text": "O biserică creștină liniștită, situată printre peisajele pitorești și împădurite din jurul orașului Jezzine.",
+                  "category": "landmark",
+                  "coords": [
+                        35.58338,
+                        33.543339
+                  ]
+            },
+            {
+                  "name": "The Holy Family",
+                  "text": "O biserică parohială dedicată Sfintei Familii, care deservește comunitatea montană din apropiere de Jezzine.",
+                  "category": "landmark",
+                  "coords": [
+                        35.558992,
+                        33.560604
+                  ]
+            },
+            {
+                  "name": "St. Maroun Church",
+                  "text": "Un lăcaș de cult maronit tradițional, adânc înrădăcinat în munții libanezi de lângă Jezzine.",
+                  "category": "landmark",
+                  "coords": [
+                        35.587342,
+                        33.540906
+                  ]
+            },
+            {
+                  "name": "holy mary of bisri church",
+                  "text": "Un sanctuar creștin rural situat în regiunea luxuriantă a văii Bisri, lângă Jezzine.",
+                  "category": "landmark",
+                  "coords": [
+                        35.540006,
+                        33.578838
+                  ]
+            },
+            {
+                  "name": "st john baptist church",
+                  "text": "O biserică parohială primitoare din piatră, dedicată Sfântului Ioan Botezătorul, în zona Jezzine.",
+                  "category": "landmark",
+                  "coords": [
+                        35.544784,
+                        33.574024
+                  ]
+            },
+            {
+                  "name": "St. Joseph Church",
+                  "text": "O biserică montană pitorească dedicată Sfântului Iosif, cu vedere la terenul accidentat din Jezzine.",
+                  "category": "landmark",
+                  "coords": [
+                        35.557456,
+                        33.569122
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saint-Joseph",
+                  "text": "A tranquil Christian church set amidst the scenic, forested landscapes around Jezzine.",
+                  "category": "landmark",
+                  "coords": [
+                        35.58338,
+                        33.543339
+                  ]
+            },
+            {
+                  "name": "The Holy Family",
+                  "text": "A parish church dedicated to the Holy Family, serving the mountain community near Jezzine.",
+                  "category": "landmark",
+                  "coords": [
+                        35.558992,
+                        33.560604
+                  ]
+            },
+            {
+                  "name": "St. Maroun Church",
+                  "text": "A traditional Maronite place of worship deeply rooted in the Lebanese mountains near Jezzine.",
+                  "category": "landmark",
+                  "coords": [
+                        35.587342,
+                        33.540906
+                  ]
+            },
+            {
+                  "name": "holy mary of bisri church",
+                  "text": "A rural Christian sanctuary located in the lush Bisri valley region near Jezzine.",
+                  "category": "landmark",
+                  "coords": [
+                        35.540006,
+                        33.578838
+                  ]
+            },
+            {
+                  "name": "st john baptist church",
+                  "text": "An inviting stone-built parish church dedicated to St. John the Baptist in the Jezzine area.",
+                  "category": "landmark",
+                  "coords": [
+                        35.544784,
+                        33.574024
+                  ]
+            },
+            {
+                  "name": "St. Joseph Church",
+                  "text": "A picturesque mountain church dedicated to St. Joseph overlooking the rugged terrain of Jezzine.",
+                  "category": "landmark",
+                  "coords": [
+                        35.557456,
+                        33.569122
+                  ]
+            }
+      ]
+},
     parent: "LB",
     type: "landmark",
     name: { de: "Jezzine-Wasserfall", hu: "Jezzine-vízesés", ro: "Cascada Jezzine", en: "Jezzine Waterfall" },
@@ -183,7 +1839,124 @@ export const lebanonNatureV2: POI[] = [
     image: "/poi-images/lebanon-jezzine-waterfall-nature-v2.webp",
   },
   {
-    id: "lebanon-nahr-el-assi-nature-v2",
+    id: "lebanon-nahr-el-assi-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kamouh el Hermel",
+                  "text": "Das archäologische Gelände Kamouh el Hermel verfügt über eine antike Pyramide, die auf einem Hügel mit Blick auf den Fluss Orontes steht.",
+                  "category": "historical",
+                  "coords": [
+                        36.415839,
+                        34.364343
+                  ]
+            },
+            {
+                  "name": "Église Saint-Thomas",
+                  "text": "Die christliche Église Saint-Thomas ist eine traditionelle Kirche nahe den Ufern des Flusses Orontes.",
+                  "category": "landmark",
+                  "coords": [
+                        36.421264,
+                        34.262005
+                  ]
+            },
+            {
+                  "name": "St. George's Church",
+                  "text": "Die St. George's Church ist ein lokales christliches Gotteshaus in der Nähe der Wasserläufe des Orontes.",
+                  "category": "landmark",
+                  "coords": [
+                        36.475885,
+                        34.34677
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kamouh el Hermel",
+                  "text": "A Kamouh el Hermel régészeti lelőhely egy ókori piramist foglal magában, amely az Orontész folyóra néző dombon áll.",
+                  "category": "historical",
+                  "coords": [
+                        36.415839,
+                        34.364343
+                  ]
+            },
+            {
+                  "name": "Église Saint-Thomas",
+                  "text": "A keresztény Église Saint-Thomas egy hagyományos templom az Orontész folyó partjának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        36.421264,
+                        34.262005
+                  ]
+            },
+            {
+                  "name": "St. George's Church",
+                  "text": "A St. George's Church egy helyi keresztény istentiszteleti hely az Orontész folyó vízfolyásainak közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        36.475885,
+                        34.34677
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kamouh el Hermel",
+                  "text": "Situl arheologic Kamouh el Hermel prezintă o piramidă antică situată pe un deal cu vedere la râul Oronte.",
+                  "category": "historical",
+                  "coords": [
+                        36.415839,
+                        34.364343
+                  ]
+            },
+            {
+                  "name": "Église Saint-Thomas",
+                  "text": "Lăcașul creștin Église Saint-Thomas este o biserică tradițională situată în apropierea malurilor râului Oronte.",
+                  "category": "landmark",
+                  "coords": [
+                        36.421264,
+                        34.262005
+                  ]
+            },
+            {
+                  "name": "St. George's Church",
+                  "text": "St. George's Church este un lăcaș de cult creștin local aflat în proximitatea cursurilor de apă ale râului Oronte.",
+                  "category": "landmark",
+                  "coords": [
+                        36.475885,
+                        34.34677
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kamouh el Hermel",
+                  "text": "The Kamouh el Hermel archaeological site features an ancient pyramid standing on a hill overlooking the Orontes River.",
+                  "category": "historical",
+                  "coords": [
+                        36.415839,
+                        34.364343
+                  ]
+            },
+            {
+                  "name": "Église Saint-Thomas",
+                  "text": "The Christian site of Église Saint-Thomas is a traditional church located near the banks of the Orontes River.",
+                  "category": "landmark",
+                  "coords": [
+                        36.421264,
+                        34.262005
+                  ]
+            },
+            {
+                  "name": "St. George's Church",
+                  "text": "St. George's Church is a local Christian place of worship situated near the waterways of the Orontes River.",
+                  "category": "landmark",
+                  "coords": [
+                        36.475885,
+                        34.34677
+                  ]
+            }
+      ]
+},
     parent: "LB",
     type: "river",
     name: { de: "Nahr el-Assi", hu: "Nahr el-Assi", ro: "Râul Orontes", en: "Orontes River" },
@@ -228,7 +2001,88 @@ export const lebanonNatureV2: POI[] = [
     image: "/poi-images/lebanon-nahr-el-assi-nature-v2.webp",
   },
   {
-    id: "lebanon-kammouha-forest-nature-v2",
+    id: "lebanon-kammouha-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Karm Chbat Quoubaiyat",
+                  "text": "Ein Naturschutzgebiet im Norden Libanons, das für seine jahrhundertealten Zedern- und Wacholderwälder bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        36.282192,
+                        34.508218
+                  ]
+            },
+            {
+                  "name": "Jabal Braïssé",
+                  "text": "Ein markanter Berggipfel in der Kammouha-Region, umgeben von dichten Nadelwäldern.",
+                  "category": "natural",
+                  "coords": [
+                        36.310711,
+                        34.451626
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Karm Chbat Quoubaiyat",
+                  "text": "Észak-libanoni természetvédelmi terület, amely évszázados cédrus- és borókafenyőiről nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        36.282192,
+                        34.508218
+                  ]
+            },
+            {
+                  "name": "Jabal Braïssé",
+                  "text": "Jellegzetes hegycsúcs a Kammouha-régióban, sűrű fenyőerdőkkel övezve.",
+                  "category": "natural",
+                  "coords": [
+                        36.310711,
+                        34.451626
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Karm Chbat Quoubaiyat",
+                  "text": "O rezervație naturală din nordul Libanului, renumită pentru pădurile sale seculare de cedri și ienuperi.",
+                  "category": "landmark",
+                  "coords": [
+                        36.282192,
+                        34.508218
+                  ]
+            },
+            {
+                  "name": "Jabal Braïssé",
+                  "text": "Un vârf montan proeminent în regiunea Kammouha, înconjurat de păduri dese de conifere.",
+                  "category": "natural",
+                  "coords": [
+                        36.310711,
+                        34.451626
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Karm Chbat Quoubaiyat",
+                  "text": "A nature reserve in North Lebanon known for its centuries-old cedar and juniper forests.",
+                  "category": "landmark",
+                  "coords": [
+                        36.282192,
+                        34.508218
+                  ]
+            },
+            {
+                  "name": "Jabal Braïssé",
+                  "text": "A prominent mountain peak in the Kammouha region, surrounded by dense coniferous forests.",
+                  "category": "natural",
+                  "coords": [
+                        36.310711,
+                        34.451626
+                  ]
+            }
+      ]
+},
     parent: "LB",
     type: "forest",
     name: { de: "Kammouha-Wald", hu: "Kammouha-erdő", ro: "Pădurea Kammouha", en: "Kammouha Forest" },
@@ -273,7 +2127,160 @@ export const lebanonNatureV2: POI[] = [
     image: "/poi-images/lebanon-kammouha-forest-nature-v2.webp",
   },
   {
-    id: "lebanon-wadi-jahannam-nature-v2",
+    id: "lebanon-wadi-jahannam-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sfireh Roman Temple",
+                  "text": "Diese beeindruckenden Ruinen eines römischen Tempelkomplexes liegen hoch in den Bergen von Dannieh.",
+                  "category": "landmark",
+                  "coords": [
+                        36.059416,
+                        34.401421
+                  ]
+            },
+            {
+                  "name": "Lazzab Dannieh Nature Reserve",
+                  "text": "Ein Naturschutzgebiet, das für seine uralten Wacholderwälder (Lazzab) in den libanesischen Hochgebirgen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        36.113527,
+                        34.398108
+                  ]
+            },
+            {
+                  "name": "Arbess Family Mosque",
+                  "text": "Eine lokale Moschee im Familienbesitz, die durch ihre traditionelle Architektur den dörflichen Charakter unterstreicht.",
+                  "category": "landmark",
+                  "coords": [
+                        36.048752,
+                        34.383866
+                  ]
+            },
+            {
+                  "name": "Nemrine Grand Mosque",
+                  "text": "Die Hauptmoschee von Nemrine, ein zentrales religiöses Bauwerk in der Bergregion mit einer markanten Fassade.",
+                  "category": "landmark",
+                  "coords": [
+                        36.050501,
+                        34.385057
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sfireh Roman Temple",
+                  "text": "A római templomkomplexum lenyűgöző romjai magasan a Dannieh-hegységben találhatók.",
+                  "category": "landmark",
+                  "coords": [
+                        36.059416,
+                        34.401421
+                  ]
+            },
+            {
+                  "name": "Lazzab Dannieh Nature Reserve",
+                  "text": "Természetvédelmi terület, amely az ősi borókásairól (Lazzab) ismert a libanoni magashegységben.",
+                  "category": "natural",
+                  "coords": [
+                        36.113527,
+                        34.398108
+                  ]
+            },
+            {
+                  "name": "Arbess Family Mosque",
+                  "text": "Helyi családi mecset, amely hagyományos építészetével a falusi jelleget hangsúlyozza.",
+                  "category": "landmark",
+                  "coords": [
+                        36.048752,
+                        34.383866
+                  ]
+            },
+            {
+                  "name": "Nemrine Grand Mosque",
+                  "text": "Nemrine főmecsetje, a hegyvidéki régió központi vallási épülete, jellegzetes homlokzattal.",
+                  "category": "landmark",
+                  "coords": [
+                        36.050501,
+                        34.385057
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sfireh Roman Temple",
+                  "text": "Aceste ruine impresionante ale unui complex de temple romane sunt situate sus în munții Dannieh.",
+                  "category": "landmark",
+                  "coords": [
+                        36.059416,
+                        34.401421
+                  ]
+            },
+            {
+                  "name": "Lazzab Dannieh Nature Reserve",
+                  "text": "O rezervație naturală cunoscută pentru pădurile sale antice de ienupăr (Lazzab) din munții Libanului.",
+                  "category": "natural",
+                  "coords": [
+                        36.113527,
+                        34.398108
+                  ]
+            },
+            {
+                  "name": "Arbess Family Mosque",
+                  "text": "O moschee locală de familie, care subliniază caracterul rural prin arhitectura sa tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        36.048752,
+                        34.383866
+                  ]
+            },
+            {
+                  "name": "Nemrine Grand Mosque",
+                  "text": "Marea Moschee din Nemrine, o structură religioasă centrală în regiunea montană, cu o fațadă distinctivă.",
+                  "category": "landmark",
+                  "coords": [
+                        36.050501,
+                        34.385057
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sfireh Roman Temple",
+                  "text": "These impressive ruins of a Roman temple complex are situated high in the mountains of Dannieh.",
+                  "category": "landmark",
+                  "coords": [
+                        36.059416,
+                        34.401421
+                  ]
+            },
+            {
+                  "name": "Lazzab Dannieh Nature Reserve",
+                  "text": "A nature reserve famous for its ancient juniper forests (Lazzab) in the high Lebanese mountains.",
+                  "category": "natural",
+                  "coords": [
+                        36.113527,
+                        34.398108
+                  ]
+            },
+            {
+                  "name": "Arbess Family Mosque",
+                  "text": "A local family-owned mosque that highlights the village character through its traditional architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        36.048752,
+                        34.383866
+                  ]
+            },
+            {
+                  "name": "Nemrine Grand Mosque",
+                  "text": "The Grand Mosque of Nemrine, a central religious structure in the mountain region with a prominent facade.",
+                  "category": "landmark",
+                  "coords": [
+                        36.050501,
+                        34.385057
+                  ]
+            }
+      ]
+},
     parent: "LB",
     type: "valley",
     name: { de: "Wadi Jahannam", hu: "Wadi Jahannam", ro: "Wadi Jahannam", en: "Wadi Jahannam" },
@@ -318,7 +2325,88 @@ export const lebanonNatureV2: POI[] = [
     image: "/poi-images/lebanon-wadi-jahannam-nature-v2.webp",
   },
   {
-    id: "lebanon-nahr-el-barid-nature-v2",
+    id: "lebanon-nahr-el-barid-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mathanet Aadoui",
+                  "text": "Eine historische Mühle am Flusslauf, die einst die Wasserkraft der Region zur Getreideverarbeitung nutzte.",
+                  "category": "landmark",
+                  "coords": [
+                        35.988889,
+                        34.447778
+                  ]
+            },
+            {
+                  "name": "St. Mary Church",
+                  "text": "Eine christliche Kirche in der Region Nahr el-Barid, die der Jungfrau Maria gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.928131,
+                        34.454178
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mathanet Aadoui",
+                  "text": "Történelmi malom a folyó mentén, amely egykor a régió vízi energiáját használta gabonafeldolgozásra.",
+                  "category": "landmark",
+                  "coords": [
+                        35.988889,
+                        34.447778
+                  ]
+            },
+            {
+                  "name": "St. Mary Church",
+                  "text": "Keresztény templom a Nahr el-Barid régióban, amelyet Szűz Máriának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        35.928131,
+                        34.454178
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mathanet Aadoui",
+                  "text": "O moară istorică pe cursul râului, care folosea odinioară energia apei pentru procesarea cerealelor.",
+                  "category": "landmark",
+                  "coords": [
+                        35.988889,
+                        34.447778
+                  ]
+            },
+            {
+                  "name": "St. Mary Church",
+                  "text": "O biserică creștină din regiunea Nahr el-Barid, dedicată Fecioarei Maria.",
+                  "category": "landmark",
+                  "coords": [
+                        35.928131,
+                        34.454178
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mathanet Aadoui",
+                  "text": "A historic mill along the river course that once utilized the region's water power for processing grain.",
+                  "category": "landmark",
+                  "coords": [
+                        35.988889,
+                        34.447778
+                  ]
+            },
+            {
+                  "name": "St. Mary Church",
+                  "text": "A Christian church in the Nahr el-Barid region dedicated to the Virgin Mary.",
+                  "category": "landmark",
+                  "coords": [
+                        35.928131,
+                        34.454178
+                  ]
+            }
+      ]
+},
     parent: "LB",
     type: "river",
     name: { de: "Nahr el-Barid", hu: "Nahr el-Barid", ro: "Nahr el-Barid", en: "Nahr el-Barid River" },
@@ -363,7 +2451,268 @@ export const lebanonNatureV2: POI[] = [
     image: "/poi-images/lebanon-nahr-el-barid-nature-v2.webp",
   },
   {
-    id: "lebanon-mount-rihan-nature-v2",
+    id: "lebanon-mount-rihan-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée de la résistance",
+                  "text": "Ein Widerstandsmuseum in der Region Rihan, das militärische Ausrüstung und die Geschichte der lokalen Konflikte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        35.525514,
+                        33.457294
+                  ]
+            },
+            {
+                  "name": "Jabal Al Rihane Biosphere Reserve",
+                  "text": "Dieses Biosphärenreservat schützt die dichten Eichen- und Kiefernwälder auf den Hängen des Mount Rihan.",
+                  "category": "natural",
+                  "coords": [
+                        35.558823,
+                        33.454007
+                  ]
+            },
+            {
+                  "name": "St. Maroun Church",
+                  "text": "Eine maronitische Kirche im Bergdorf Rihan, die dem Schutzpatron des Libanon, dem Heiligen Maron, geweiht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.519558,
+                        33.450408
+                  ]
+            },
+            {
+                  "name": "Sejod Mosque",
+                  "text": "Eine Moschee in der Bergregion Sejod, die als lokales religiöses Wahrzeichen in der zerklüfteten Landschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.534647,
+                        33.433666
+                  ]
+            },
+            {
+                  "name": "antonios",
+                  "text": "Ein kleines christliches Heiligtum in der Region Mount Rihan, das nach dem Heiligen Antonius benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.554867,
+                        33.407307
+                  ]
+            },
+            {
+                  "name": "Kanisat as-Sayyida",
+                  "text": "Diese Marienkirche befindet sich in der ruhigen Berglandschaft von Mount Rihan.",
+                  "category": "landmark",
+                  "coords": [
+                        35.556882,
+                        33.409939
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "Eine Moschee im Bezirk Rihan, die nach Imam Ali benannt ist und den Gläubigen der Bergdörfer dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.586014,
+                        33.493616
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée de la résistance",
+                  "text": "Ellenállási múzeum a Rihan-régióban, amely katonai felszereléseket és a helyi konfliktusok történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        35.525514,
+                        33.457294
+                  ]
+            },
+            {
+                  "name": "Jabal Al Rihane Biosphere Reserve",
+                  "text": "Ez a bioszféra-rezervátum a Mount Rihan lejtőinek sűrű tölgy- és fenyőerdőit védi.",
+                  "category": "natural",
+                  "coords": [
+                        35.558823,
+                        33.454007
+                  ]
+            },
+            {
+                  "name": "St. Maroun Church",
+                  "text": "Maronita templom Rihan hegyi falujában, amelyet Libanon védőszentjének, Szent Maronnak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        35.519558,
+                        33.450408
+                  ]
+            },
+            {
+                  "name": "Sejod Mosque",
+                  "text": "Mecset Sejod hegyvidéki területén, amely helyi vallási jelképként szolgál a sziklás tájban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.534647,
+                        33.433666
+                  ]
+            },
+            {
+                  "name": "antonios",
+                  "text": "Szent Antalról elnevezett kis keresztény szentély a Mount Rihan régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.554867,
+                        33.407307
+                  ]
+            },
+            {
+                  "name": "Kanisat as-Sayyida",
+                  "text": "Ez a Szűz Mária-templom a Mount Rihan csendes hegyi környezetében található.",
+                  "category": "landmark",
+                  "coords": [
+                        35.556882,
+                        33.409939
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "Imám Aliról elnevezett mecset a Rihan körzetben, amely a hegyi falvak hívőit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.586014,
+                        33.493616
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée de la résistance",
+                  "text": "Un muzeu al rezistenței în regiunea Rihan, care expune echipamente militare și istoria conflictelor locale.",
+                  "category": "museum",
+                  "coords": [
+                        35.525514,
+                        33.457294
+                  ]
+            },
+            {
+                  "name": "Jabal Al Rihane Biosphere Reserve",
+                  "text": "Această rezervație a biosferei protejează pădurile dese de stejar și pin de pe versanții muntelui Rihan.",
+                  "category": "natural",
+                  "coords": [
+                        35.558823,
+                        33.454007
+                  ]
+            },
+            {
+                  "name": "St. Maroun Church",
+                  "text": "O biserică maronită din satul montan Rihan, dedicată Sfântului Maron, patronul Libanului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.519558,
+                        33.450408
+                  ]
+            },
+            {
+                  "name": "Sejod Mosque",
+                  "text": "O moschee din zona montană Sejod, care servește ca punct de reper religios local în peisajul accidentat.",
+                  "category": "landmark",
+                  "coords": [
+                        35.534647,
+                        33.433666
+                  ]
+            },
+            {
+                  "name": "antonios",
+                  "text": "Un mic sanctuar creștin în regiunea Muntelui Rihan, numit după Sfântul Antonie.",
+                  "category": "landmark",
+                  "coords": [
+                        35.554867,
+                        33.407307
+                  ]
+            },
+            {
+                  "name": "Kanisat as-Sayyida",
+                  "text": "Această biserică a Maicii Domnului este situată în cadrul montan liniștit de pe Muntele Rihan.",
+                  "category": "landmark",
+                  "coords": [
+                        35.556882,
+                        33.409939
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "O moschee din districtul Rihan, numită după Imam Ali, care deservește credincioșii din satele de munte.",
+                  "category": "landmark",
+                  "coords": [
+                        35.586014,
+                        33.493616
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée de la résistance",
+                  "text": "A resistance museum in the Rihan region, displaying military equipment and the history of local conflicts.",
+                  "category": "museum",
+                  "coords": [
+                        35.525514,
+                        33.457294
+                  ]
+            },
+            {
+                  "name": "Jabal Al Rihane Biosphere Reserve",
+                  "text": "This biosphere reserve protects the dense oak and pine forests on the slopes of Mount Rihan.",
+                  "category": "natural",
+                  "coords": [
+                        35.558823,
+                        33.454007
+                  ]
+            },
+            {
+                  "name": "St. Maroun Church",
+                  "text": "A Maronite church in the mountain village of Rihan, dedicated to Saint Maroun, the patron saint of Lebanon.",
+                  "category": "landmark",
+                  "coords": [
+                        35.519558,
+                        33.450408
+                  ]
+            },
+            {
+                  "name": "Sejod Mosque",
+                  "text": "A mosque in the mountainous Sejod area, serving as a local religious landmark in the rugged landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        35.534647,
+                        33.433666
+                  ]
+            },
+            {
+                  "name": "antonios",
+                  "text": "A small Christian shrine in the Mount Rihan region, named after Saint Anthony.",
+                  "category": "landmark",
+                  "coords": [
+                        35.554867,
+                        33.407307
+                  ]
+            },
+            {
+                  "name": "Kanisat as-Sayyida",
+                  "text": "This Church of Our Lady is located within the quiet mountain setting of Mount Rihan.",
+                  "category": "landmark",
+                  "coords": [
+                        35.556882,
+                        33.409939
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "A mosque in the Rihan district named after Imam Ali, serving the faithful of the mountain villages.",
+                  "category": "landmark",
+                  "coords": [
+                        35.586014,
+                        33.493616
+                  ]
+            }
+      ]
+},
     parent: "LB",
     type: "mountain",
     name: { de: "Jabal Rihan", hu: "Rihan-hegy", ro: "Muntele Rihan", en: "Mount Rihan" },
@@ -408,7 +2757,412 @@ export const lebanonNatureV2: POI[] = [
     image: "/poi-images/lebanon-mount-rihan-nature-v2.webp",
   },
   {
-    id: "lebanon-chawan-lake-nature-v2",
+    id: "lebanon-chawan-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tomb of Saint Charbel",
+                  "text": "Eine bedeutende Pilgerstätte in Annaya, in der die Überreste des heiligen Charbel ruhen.",
+                  "category": "landmark",
+                  "coords": [
+                        35.75379,
+                        34.120901
+                  ]
+            },
+            {
+                  "name": "chouwan entry",
+                  "text": "Ein Aussichtspunkt, der einen weiten Blick über das türkisfarbene Wasser des künstlichen Chowan-Sees bietet.",
+                  "category": "natural",
+                  "coords": [
+                        35.778424,
+                        34.080624
+                  ]
+            },
+            {
+                  "name": "St. Challita Shrine",
+                  "text": "Ein dem heiligen Challita gewidmeter Schrein in der grünen Bergregion nahe dem Ibrahim-Fluss.",
+                  "category": "historical",
+                  "coords": [
+                        35.835865,
+                        34.100398
+                  ]
+            },
+            {
+                  "name": "St. Anthony of Padua Shrine",
+                  "text": "Ein religiöses Denkmal für den heiligen Antonius von Padua in den waldreichen Höhenlagen.",
+                  "category": "historical",
+                  "coords": [
+                        35.827499,
+                        34.098333
+                  ]
+            },
+            {
+                  "name": "Hermitage of St. Charbel",
+                  "text": "Die abgelegene Einsiedelei in Annaya, in der der heilige Charbel seine letzten Jahre in Gebet verbrachte.",
+                  "category": "landmark",
+                  "coords": [
+                        35.760434,
+                        34.115963
+                  ]
+            },
+            {
+                  "name": "Jabal Moussa Biosphere Reserve",
+                  "text": "Ein UNESCO-Biosphärenreservat, das für seine reiche Artenvielfalt und antiken römischen Ruinen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        35.775045,
+                        34.06607
+                  ]
+            },
+            {
+                  "name": "Mashnaqa Archaeological Site",
+                  "text": "Eine archäologische Stätte aus dem 1. bis 3. Jahrhundert mit Tempelresten über dem Adonis-Tal.",
+                  "category": "historical",
+                  "coords": [
+                        35.770499,
+                        34.089998
+                  ]
+            },
+            {
+                  "name": "St. Challita Church",
+                  "text": "Eine steinerne Dorfkirche in der ländlichen Berglandschaft des Jbeil-Distrikts.",
+                  "category": "landmark",
+                  "coords": [
+                        35.834953,
+                        34.098463
+                  ]
+            },
+            {
+                  "name": "St. Therese Church",
+                  "text": "Eine lokale Pfarrkirche, die der heiligen Therese gewidmet ist und die Berggemeinde betreut.",
+                  "category": "landmark",
+                  "coords": [
+                        35.828836,
+                        34.095055
+                  ]
+            },
+            {
+                  "name": "Saydet El Chir",
+                  "text": "Eine traditionell gestaltete Kirche, die inmitten der felsigen Hügel der Region Jbeil liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.789493,
+                        34.122636
+                  ]
+            },
+            {
+                  "name": "Saint Georges Church",
+                  "text": "Ein Zentrum des christlichen Gemeindelebens in den historischen Dörfern nahe der Chowan-Schlucht.",
+                  "category": "landmark",
+                  "coords": [
+                        35.801057,
+                        34.129359
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tomb of Saint Charbel",
+                  "text": "Fontos zarándokhely Annayában, ahol Szent Sarbel földi maradványait őrzik.",
+                  "category": "landmark",
+                  "coords": [
+                        35.75379,
+                        34.120901
+                  ]
+            },
+            {
+                  "name": "chouwan entry",
+                  "text": "Kilátópont, ahonnan pazar kilátás nyílik a mesterséges Chouwan-tó türkizkék vizére.",
+                  "category": "natural",
+                  "coords": [
+                        35.778424,
+                        34.080624
+                  ]
+            },
+            {
+                  "name": "St. Challita Shrine",
+                  "text": "Szent Challitának szentelt kegyhely az Ibrahim-folyó közeli zöldellő hegyvidéken.",
+                  "category": "historical",
+                  "coords": [
+                        35.835865,
+                        34.100398
+                  ]
+            },
+            {
+                  "name": "St. Anthony of Padua Shrine",
+                  "text": "Páduai Szent Antalnak szentelt vallási emlékmű az erdős magaslatokon.",
+                  "category": "historical",
+                  "coords": [
+                        35.827499,
+                        34.098333
+                  ]
+            },
+            {
+                  "name": "Hermitage of St. Charbel",
+                  "text": "Az elszigetelt remetelak Annayában, ahol Szent Sarbel imádságban töltötte utolsó éveit.",
+                  "category": "landmark",
+                  "coords": [
+                        35.760434,
+                        34.115963
+                  ]
+            },
+            {
+                  "name": "Jabal Moussa Biosphere Reserve",
+                  "text": "UNESCO bioszféra-rezervátum, amely gazdag élővilágáról és ókori római romjairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        35.775045,
+                        34.06607
+                  ]
+            },
+            {
+                  "name": "Mashnaqa Archaeological Site",
+                  "text": "1–3. századi régészeti lelőhely templommaradványokkal az Adonisz-völgy felett.",
+                  "category": "historical",
+                  "coords": [
+                        35.770499,
+                        34.089998
+                  ]
+            },
+            {
+                  "name": "St. Challita Church",
+                  "text": "Kőből épült falusi templom a Jbeil körzet vidéki hegyi táján.",
+                  "category": "landmark",
+                  "coords": [
+                        35.834953,
+                        34.098463
+                  ]
+            },
+            {
+                  "name": "St. Therese Church",
+                  "text": "Helyi plébániatemplom, amelyet Szent Teréznek szenteltek a hegyi közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        35.828836,
+                        34.095055
+                  ]
+            },
+            {
+                  "name": "Saydet El Chir",
+                  "text": "Hagyományos stílusú templom Jbeil körzetének sziklás dombjai között.",
+                  "category": "landmark",
+                  "coords": [
+                        35.789493,
+                        34.122636
+                  ]
+            },
+            {
+                  "name": "Saint Georges Church",
+                  "text": "A keresztény közösségi élet egyik központja a Chouwan-szoros közeli történelmi falvakban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.801057,
+                        34.129359
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tomb of Saint Charbel",
+                  "text": "Un important loc de pelerinaj în Annaya, care adăpostește rămășițele Sfântului Charbel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.75379,
+                        34.120901
+                  ]
+            },
+            {
+                  "name": "chouwan entry",
+                  "text": "Un punct de observație care oferă vederi panoramice asupra apelor turcoaz ale lacului artificial Chowan.",
+                  "category": "natural",
+                  "coords": [
+                        35.778424,
+                        34.080624
+                  ]
+            },
+            {
+                  "name": "St. Challita Shrine",
+                  "text": "Un altar dedicat Sfântului Challita, situat în regiunea montană înverzită de lângă râul Ibrahim.",
+                  "category": "historical",
+                  "coords": [
+                        35.835865,
+                        34.100398
+                  ]
+            },
+            {
+                  "name": "St. Anthony of Padua Shrine",
+                  "text": "Un monument religios dedicat Sfântului Anton de Padova, situat pe înălțimile împădurite.",
+                  "category": "historical",
+                  "coords": [
+                        35.827499,
+                        34.098333
+                  ]
+            },
+            {
+                  "name": "Hermitage of St. Charbel",
+                  "text": "Chilia izolată din Annaya, unde Sfântul Charbel și-a petrecut ultimii ani de viață în rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        35.760434,
+                        34.115963
+                  ]
+            },
+            {
+                  "name": "Jabal Moussa Biosphere Reserve",
+                  "text": "O rezervație a biosferei UNESCO, cunoscută pentru biodiversitatea sa bogată și ruinele romane antice.",
+                  "category": "natural",
+                  "coords": [
+                        35.775045,
+                        34.06607
+                  ]
+            },
+            {
+                  "name": "Mashnaqa Archaeological Site",
+                  "text": "Un sit arheologic din secolele I-III, cu rămășițe de templu ce domină Valea Adonis.",
+                  "category": "historical",
+                  "coords": [
+                        35.770499,
+                        34.089998
+                  ]
+            },
+            {
+                  "name": "St. Challita Church",
+                  "text": "O biserică de piatră din sat, situată în peisajul montan rural al districtului Jbeil.",
+                  "category": "landmark",
+                  "coords": [
+                        35.834953,
+                        34.098463
+                  ]
+            },
+            {
+                  "name": "St. Therese Church",
+                  "text": "O biserică parohială locală dedicată Sfintei Tereza, care deservește comunitatea montană.",
+                  "category": "landmark",
+                  "coords": [
+                        35.828836,
+                        34.095055
+                  ]
+            },
+            {
+                  "name": "Saydet El Chir",
+                  "text": "O biserică în stil tradițional cuibărită printre dealurile stâncoase din regiunea Jbeil.",
+                  "category": "landmark",
+                  "coords": [
+                        35.789493,
+                        34.122636
+                  ]
+            },
+            {
+                  "name": "Saint Georges Church",
+                  "text": "Un centru al vieții comunitare creștine în satele istorice de lângă defileul Chowan.",
+                  "category": "landmark",
+                  "coords": [
+                        35.801057,
+                        34.129359
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tomb of Saint Charbel",
+                  "text": "A major pilgrimage site in Annaya, housing the remains of the revered Saint Charbel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.75379,
+                        34.120901
+                  ]
+            },
+            {
+                  "name": "chouwan entry",
+                  "text": "A viewpoint offering panoramic vistas over the turquoise waters of the artificial Chowan Lake.",
+                  "category": "natural",
+                  "coords": [
+                        35.778424,
+                        34.080624
+                  ]
+            },
+            {
+                  "name": "St. Challita Shrine",
+                  "text": "A shrine dedicated to Saint Challita, located in the lush mountain region near the Ibrahim River.",
+                  "category": "historical",
+                  "coords": [
+                        35.835865,
+                        34.100398
+                  ]
+            },
+            {
+                  "name": "St. Anthony of Padua Shrine",
+                  "text": "A religious monument dedicated to Saint Anthony of Padua, set in the forested highlands.",
+                  "category": "historical",
+                  "coords": [
+                        35.827499,
+                        34.098333
+                  ]
+            },
+            {
+                  "name": "Hermitage of St. Charbel",
+                  "text": "The secluded hermitage in Annaya where Saint Charbel spent his final years in prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        35.760434,
+                        34.115963
+                  ]
+            },
+            {
+                  "name": "Jabal Moussa Biosphere Reserve",
+                  "text": "A UNESCO Biosphere Reserve known for its rich biodiversity and ancient Roman ruins.",
+                  "category": "natural",
+                  "coords": [
+                        35.775045,
+                        34.06607
+                  ]
+            },
+            {
+                  "name": "Mashnaqa Archaeological Site",
+                  "text": "A 1st-3rd century archaeological site featuring temple remains overlooking the Adonis Valley.",
+                  "category": "historical",
+                  "coords": [
+                        35.770499,
+                        34.089998
+                  ]
+            },
+            {
+                  "name": "St. Challita Church",
+                  "text": "A stone-built village church located in the rural mountain landscape of the Jbeil district.",
+                  "category": "landmark",
+                  "coords": [
+                        35.834953,
+                        34.098463
+                  ]
+            },
+            {
+                  "name": "St. Therese Church",
+                  "text": "A local parish church dedicated to Saint Therese, serving the mountain community.",
+                  "category": "landmark",
+                  "coords": [
+                        35.828836,
+                        34.095055
+                  ]
+            },
+            {
+                  "name": "The Church of Our Lady of the Rock",
+                  "text": "A traditionally styled church nestled among the rocky hills of the Jbeil region.",
+                  "category": "landmark",
+                  "coords": [
+                        35.789493,
+                        34.122636
+                  ]
+            },
+            {
+                  "name": "Saint Georges Church",
+                  "text": "A center of Christian community life in the historic villages near the Chowan gorge.",
+                  "category": "landmark",
+                  "coords": [
+                        35.801057,
+                        34.129359
+                  ]
+            }
+      ]
+},
     parent: "LB",
     type: "lake",
     name: { de: "Chawan-See", hu: "Chawan-tó", ro: "Lacul Chawan", en: "Chawan Lake" },
@@ -453,7 +3207,124 @@ export const lebanonNatureV2: POI[] = [
     image: "/poi-images/lebanon-chawan-lake-nature-v2.webp",
   },
   {
-    id: "lebanon-nahr-abou-ali-nature-v2",
+    id: "lebanon-nahr-abou-ali-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "El Fouar Church",
+                  "text": "Eine lokale christliche Kirche in der Nähe des fließenden Wassers des Flusses Nahr Abou Ali.",
+                  "category": "landmark",
+                  "coords": [
+                        35.888452,
+                        34.435438
+                  ]
+            },
+            {
+                  "name": "Al Nasiri Mosque",
+                  "text": "Ein historischer islamischer Gebetsort nahe der Ufer des Nahr Abou Ali.",
+                  "category": "landmark",
+                  "coords": [
+                        35.849333,
+                        34.441212
+                  ]
+            },
+            {
+                  "name": "fatima al zahraa mosque",
+                  "text": "Eine Gemeindemoschee, die der lokalen muslimischen Bevölkerung im Tal des Nahr Abou Ali dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.858218,
+                        34.444207
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "El Fouar Church",
+                  "text": "Egy helyi keresztény templom a Nahr Abou Ali folyó áramló vizeinek közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.888452,
+                        34.435438
+                  ]
+            },
+            {
+                  "name": "Al Nasiri Mosque",
+                  "text": "Egy történelmi iszlám imahely a Nahr Abou Ali partjának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.849333,
+                        34.441212
+                  ]
+            },
+            {
+                  "name": "fatima al zahraa mosque",
+                  "text": "Egy közösségi mecset, amely a helyi muszlim lakosságot szolgálja a Nahr Abou Ali völgyében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.858218,
+                        34.444207
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "El Fouar Church",
+                  "text": "O biserică creștină locală situată în apropierea apelor curgătoare ale râului Nahr Abou Ali.",
+                  "category": "landmark",
+                  "coords": [
+                        35.888452,
+                        34.435438
+                  ]
+            },
+            {
+                  "name": "Al Nasiri Mosque",
+                  "text": "Un lăcaș istoric de rugăciune islamică, aflat aproape de malurile râului Nahr Abou Ali.",
+                  "category": "landmark",
+                  "coords": [
+                        35.849333,
+                        34.441212
+                  ]
+            },
+            {
+                  "name": "fatima al zahraa mosque",
+                  "text": "O moschee comunitară care deservește populația musulmană locală din valea Nahr Abou Ali.",
+                  "category": "landmark",
+                  "coords": [
+                        35.858218,
+                        34.444207
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "El Fouar Church",
+                  "text": "A local Christian church located near the flowing waters of the Nahr Abou Ali river.",
+                  "category": "landmark",
+                  "coords": [
+                        35.888452,
+                        34.435438
+                  ]
+            },
+            {
+                  "name": "Al Nasiri Mosque",
+                  "text": "A historic Islamic place of prayer standing close to the banks of the Nahr Abou Ali.",
+                  "category": "landmark",
+                  "coords": [
+                        35.849333,
+                        34.441212
+                  ]
+            },
+            {
+                  "name": "fatima al zahraa mosque",
+                  "text": "A community mosque serving the local Muslim population along the Nahr Abou Ali valley.",
+                  "category": "landmark",
+                  "coords": [
+                        35.858218,
+                        34.444207
+                  ]
+            }
+      ]
+},
     parent: "LB",
     type: "river",
     name: { de: "Nahr Abou Ali", hu: "Nahr Abou Ali", ro: "Nahr Abou Ali", en: "Nahr Abou Ali River" },
@@ -498,7 +3369,556 @@ export const lebanonNatureV2: POI[] = [
     image: "/poi-images/lebanon-nahr-abou-ali-nature-v2.webp",
   },
   {
-    id: "lebanon-nahr-damour-nature-v2",
+    id: "lebanon-nahr-damour-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Family Beach",
+                  "text": "Ein familienfreundlicher Strandabschnitt in Damour mit goldenem Sand und flachem Wasser am Mittelmeer.",
+                  "category": "recreational",
+                  "coords": [
+                        35.458827,
+                        33.763169
+                  ]
+            },
+            {
+                  "name": "Janna Sur Mer",
+                  "text": "Ein luxuriöses Strandresort in Damour mit tropischen Gärten, mehreren Pools und direktem Zugang zur Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        35.446204,
+                        33.728706
+                  ]
+            },
+            {
+                  "name": "Oceana Beach",
+                  "text": "Ein weitläufiger Strandclub in Damour, bekannt für seine große Uferpromenade und lebhafte Sommeratmosphäre.",
+                  "category": "recreational",
+                  "coords": [
+                        35.445166,
+                        33.723348
+                  ]
+            },
+            {
+                  "name": "Bridge Beach",
+                  "text": "Ein Entspannungsort an der Küste von Damour, gelegen nahe der Mündung des Flusses Nahr el Damour.",
+                  "category": "recreational",
+                  "coords": [
+                        35.439615,
+                        33.702778
+                  ]
+            },
+            {
+                  "name": "White Laguna - Ladies Beach",
+                  "text": "Ein exklusiver Strandabschnitt in Damour, der speziell für Frauen reserviert ist und Privatsphäre am Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        35.458025,
+                        33.760545
+                  ]
+            },
+            {
+                  "name": "Bar D'amour Beach",
+                  "text": "Ein trendiger Strandclub an der Küste von Damour mit modernem Design und Panoramablick auf das Mittelmeer.",
+                  "category": "recreational",
+                  "coords": [
+                        35.438542,
+                        33.701275
+                  ]
+            },
+            {
+                  "name": "Aya Napa Beach",
+                  "text": "Ein Sandstrand in Damour mit Sonnenliegen und Blick auf das Mittelmeer.",
+                  "category": "recreational",
+                  "coords": [
+                        35.451523,
+                        33.749141
+                  ]
+            },
+            {
+                  "name": "Splash Aqua Park",
+                  "text": "Ein familienfreundlicher Wasserpark in Damour mit Rutschen und großen Außenbecken.",
+                  "category": "recreational",
+                  "coords": [
+                        35.447783,
+                        33.734874
+                  ]
+            },
+            {
+                  "name": "Damour Beach Resort",
+                  "text": "Eine Hotelanlage am Meer in Damour mit palmengesäumten Pools und direktem Strandzugang.",
+                  "category": "recreational",
+                  "coords": [
+                        35.447056,
+                        33.731223
+                  ]
+            },
+            {
+                  "name": "Guanabana Resort",
+                  "text": "Ein Beachclub in Damour, bekannt für seine tropisch inspirierten Bars und Sandflächen.",
+                  "category": "recreational",
+                  "coords": [
+                        35.449509,
+                        33.71895
+                  ]
+            },
+            {
+                  "name": "Mosala",
+                  "text": "Ein kleiner muslimischer Gebetsraum für die lokale Gemeinschaft in Damour.",
+                  "category": "landmark",
+                  "coords": [
+                        35.455519,
+                        33.744471
+                  ]
+            },
+            {
+                  "name": "Mar Elias",
+                  "text": "Eine christliche Kapelle in Damour, die dem Heiligen Elias gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.455065,
+                        33.746296
+                  ]
+            },
+            {
+                  "name": "Saint Maroun Church",
+                  "text": "Eine maronitische Kirche in Damour, ein zentraler Ort für christliche Gottesdienste.",
+                  "category": "landmark",
+                  "coords": [
+                        35.455324,
+                        33.733977
+                  ]
+            },
+            {
+                  "name": "Mosque Nour",
+                  "text": "Eine lokale Moschee in Damour mit einem charakteristischen Minarett.",
+                  "category": "landmark",
+                  "coords": [
+                        35.443374,
+                        33.691122
+                  ]
+            },
+            {
+                  "name": "Saint Maron Church",
+                  "text": "Eine traditionelle christliche Steinkirche in der Nähe der Küste von Damour.",
+                  "category": "landmark",
+                  "coords": [
+                        35.475915,
+                        33.682923
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Family Beach",
+                  "text": "Családbarát tengerparti szakasz Damourban, aranyló homokkal és sekély vízzel a Földközi-tenger partján.",
+                  "category": "recreational",
+                  "coords": [
+                        35.458827,
+                        33.763169
+                  ]
+            },
+            {
+                  "name": "Janna Sur Mer",
+                  "text": "Luxus tengerparti üdülőhely Damourban, trópusi kertekkel, több medencével és közvetlen kijárattal a partra.",
+                  "category": "recreational",
+                  "coords": [
+                        35.446204,
+                        33.728706
+                  ]
+            },
+            {
+                  "name": "Oceana Beach",
+                  "text": "Kiterjedt tengerparti klub Damourban, amely nagy vízparti sétányáról és nyüzsgő nyári hangulatáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        35.445166,
+                        33.723348
+                  ]
+            },
+            {
+                  "name": "Bridge Beach",
+                  "text": "Tengerparti pihenőhely Damourban, a Nahr el Damour folyó torkolatának közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        35.439615,
+                        33.702778
+                  ]
+            },
+            {
+                  "name": "White Laguna - Ladies Beach",
+                  "text": "Exkluzív tengerparti szakasz Damourban, amelyet kifejezetten nők számára tartanak fenn, magánszférát biztosítva a tengerparton.",
+                  "category": "recreational",
+                  "coords": [
+                        35.458025,
+                        33.760545
+                  ]
+            },
+            {
+                  "name": "Bar D'amour Beach",
+                  "text": "Trendi tengerparti klub Damour partján, modern dizájnnal és panorámás kilátással a Földközi-tengerre.",
+                  "category": "recreational",
+                  "coords": [
+                        35.438542,
+                        33.701275
+                  ]
+            },
+            {
+                  "name": "Aya Napa Beach",
+                  "text": "Homokos tengerparti üdülőhely Damourban, napozóágyakkal és földközi-tengeri kilátással.",
+                  "category": "recreational",
+                  "coords": [
+                        35.451523,
+                        33.749141
+                  ]
+            },
+            {
+                  "name": "Splash Aqua Park",
+                  "text": "Családbarát aquapark Damourban, csúszdákkal és nagy szabadtéri medencékkel.",
+                  "category": "recreational",
+                  "coords": [
+                        35.447783,
+                        33.734874
+                  ]
+            },
+            {
+                  "name": "Damour Beach Resort",
+                  "text": "Tengerparti üdülőhely Damourban, pálmákkal övezett medencékkel és közvetlen strandkapcsolattal.",
+                  "category": "recreational",
+                  "coords": [
+                        35.447056,
+                        33.731223
+                  ]
+            },
+            {
+                  "name": "Guanabana Resort",
+                  "text": "Strandklub Damourban, amely trópusi hangulatú bárjairól és homokos területeiről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        35.449509,
+                        33.71895
+                  ]
+            },
+            {
+                  "name": "Mosala",
+                  "text": "Kisméretű muszlim imaház a helyi közösség számára Damourban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.455519,
+                        33.744471
+                  ]
+            },
+            {
+                  "name": "Mar Elias",
+                  "text": "Szent Illésnek szentelt keresztény kápolna Damour területén.",
+                  "category": "landmark",
+                  "coords": [
+                        35.455065,
+                        33.746296
+                  ]
+            },
+            {
+                  "name": "Saint Maroun Church",
+                  "text": "Maronita templom Damourban, a keresztény istentiszteletek központi helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        35.455324,
+                        33.733977
+                  ]
+            },
+            {
+                  "name": "Mosque Nour",
+                  "text": "Helyi mecset Damourban, jellegzetes minarettel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.443374,
+                        33.691122
+                  ]
+            },
+            {
+                  "name": "Saint Maron Church",
+                  "text": "Hagyományos keresztény kőtemplom Damour tengerpartjának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.475915,
+                        33.682923
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Family Beach",
+                  "text": "O secțiune de plajă potrivită pentru familii în Damour, cu nisip auriu și ape puțin adânci la Marea Mediterană.",
+                  "category": "recreational",
+                  "coords": [
+                        35.458827,
+                        33.763169
+                  ]
+            },
+            {
+                  "name": "Janna Sur Mer",
+                  "text": "O stațiune de plajă luxoasă în Damour, cu grădini tropicale, mai multe piscine și acces direct la coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        35.446204,
+                        33.728706
+                  ]
+            },
+            {
+                  "name": "Oceana Beach",
+                  "text": "Un club de plajă întins în Damour, cunoscut pentru promenada sa largă și atmosfera plină de viață de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        35.445166,
+                        33.723348
+                  ]
+            },
+            {
+                  "name": "Bridge Beach",
+                  "text": "Un loc de relaxare pe coasta din Damour, situat lângă gura de vărsare a râului Nahr el Damour.",
+                  "category": "recreational",
+                  "coords": [
+                        35.439615,
+                        33.702778
+                  ]
+            },
+            {
+                  "name": "White Laguna - Ladies Beach",
+                  "text": "O secțiune de plajă exclusivistă în Damour, rezervată special pentru femei, oferind intimitate la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        35.458025,
+                        33.760545
+                  ]
+            },
+            {
+                  "name": "Bar D'amour Beach",
+                  "text": "Un club de plajă modern pe coasta Damour, cu un design contemporan și vedere panoramică la Marea Mediterană.",
+                  "category": "recreational",
+                  "coords": [
+                        35.438542,
+                        33.701275
+                  ]
+            },
+            {
+                  "name": "Aya Napa Beach",
+                  "text": "O stațiune de coastă cu nisip în Damour, dotată cu șezlonguri și vedere la Mediterană.",
+                  "category": "recreational",
+                  "coords": [
+                        35.451523,
+                        33.749141
+                  ]
+            },
+            {
+                  "name": "Splash Aqua Park",
+                  "text": "Un parc acvatic pentru familii în Damour, cu tobogane și piscine exterioare mari.",
+                  "category": "recreational",
+                  "coords": [
+                        35.447783,
+                        33.734874
+                  ]
+            },
+            {
+                  "name": "Damour Beach Resort",
+                  "text": "Un complex la malul mării în Damour, cu piscine mărginite de palmieri și acces direct la plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        35.447056,
+                        33.731223
+                  ]
+            },
+            {
+                  "name": "Guanabana Resort",
+                  "text": "Un club de plajă în Damour, cunoscut pentru barurile sale cu tematică tropicală și zonele cu nisip.",
+                  "category": "recreational",
+                  "coords": [
+                        35.449509,
+                        33.71895
+                  ]
+            },
+            {
+                  "name": "Mosala",
+                  "text": "Un mic spațiu de rugăciune musulman pentru comunitatea locală din Damour.",
+                  "category": "landmark",
+                  "coords": [
+                        35.455519,
+                        33.744471
+                  ]
+            },
+            {
+                  "name": "Mar Elias",
+                  "text": "O capelă creștină în Damour, dedicată Sfântului Ilie.",
+                  "category": "landmark",
+                  "coords": [
+                        35.455065,
+                        33.746296
+                  ]
+            },
+            {
+                  "name": "Saint Maroun Church",
+                  "text": "O biserică maronită din Damour, un loc central pentru serviciile religioase creștine.",
+                  "category": "landmark",
+                  "coords": [
+                        35.455324,
+                        33.733977
+                  ]
+            },
+            {
+                  "name": "Mosque Nour",
+                  "text": "O moschee locală în Damour, cu un minaret caracteristic.",
+                  "category": "landmark",
+                  "coords": [
+                        35.443374,
+                        33.691122
+                  ]
+            },
+            {
+                  "name": "Saint Maron Church",
+                  "text": "O biserică creștină tradițională din piatră, situată lângă coasta din Damour.",
+                  "category": "landmark",
+                  "coords": [
+                        35.475915,
+                        33.682923
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Family Beach",
+                  "text": "A family-friendly beach section in Damour featuring golden sand and shallow waters on the Mediterranean.",
+                  "category": "recreational",
+                  "coords": [
+                        35.458827,
+                        33.763169
+                  ]
+            },
+            {
+                  "name": "Janna Sur Mer",
+                  "text": "A luxury beach resort in Damour featuring tropical gardens, multiple pools, and direct coastal access.",
+                  "category": "recreational",
+                  "coords": [
+                        35.446204,
+                        33.728706
+                  ]
+            },
+            {
+                  "name": "Oceana Beach",
+                  "text": "An extensive beach club in Damour known for its large waterfront promenade and vibrant summer atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        35.445166,
+                        33.723348
+                  ]
+            },
+            {
+                  "name": "Bridge Beach",
+                  "text": "A coastal relaxation spot in Damour located near the mouth of the Nahr el Damour river.",
+                  "category": "recreational",
+                  "coords": [
+                        35.439615,
+                        33.702778
+                  ]
+            },
+            {
+                  "name": "White Laguna - Ladies Beach",
+                  "text": "An exclusive beach section in Damour reserved specifically for women, providing privacy by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        35.458025,
+                        33.760545
+                  ]
+            },
+            {
+                  "name": "Bar D'amour Beach",
+                  "text": "A trendy beach club on the Damour coast featuring modern design and panoramic views of the Mediterranean.",
+                  "category": "recreational",
+                  "coords": [
+                        35.438542,
+                        33.701275
+                  ]
+            },
+            {
+                  "name": "Aya Napa Beach",
+                  "text": "A sandy coastal resort in Damour featuring sun loungers and views of the Mediterranean.",
+                  "category": "recreational",
+                  "coords": [
+                        35.451523,
+                        33.749141
+                  ]
+            },
+            {
+                  "name": "Splash Aqua Park",
+                  "text": "A family-friendly water park in Damour featuring slides and large outdoor pools.",
+                  "category": "recreational",
+                  "coords": [
+                        35.447783,
+                        33.734874
+                  ]
+            },
+            {
+                  "name": "Damour Beach Resort",
+                  "text": "A seaside resort in Damour with palm-lined pools and direct beach access.",
+                  "category": "recreational",
+                  "coords": [
+                        35.447056,
+                        33.731223
+                  ]
+            },
+            {
+                  "name": "Guanabana Resort",
+                  "text": "A beach club in Damour known for its tropical-inspired bars and sandy areas.",
+                  "category": "recreational",
+                  "coords": [
+                        35.449509,
+                        33.71895
+                  ]
+            },
+            {
+                  "name": "Mosala",
+                  "text": "A small Muslim prayer space serving the local community in Damour.",
+                  "category": "landmark",
+                  "coords": [
+                        35.455519,
+                        33.744471
+                  ]
+            },
+            {
+                  "name": "Mar Elias",
+                  "text": "A Christian chapel in Damour dedicated to Saint Elias.",
+                  "category": "landmark",
+                  "coords": [
+                        35.455065,
+                        33.746296
+                  ]
+            },
+            {
+                  "name": "Saint Maroun Church",
+                  "text": "A Maronite church in Damour, serving as a central site for Christian worship.",
+                  "category": "landmark",
+                  "coords": [
+                        35.455324,
+                        33.733977
+                  ]
+            },
+            {
+                  "name": "Mosque Nour",
+                  "text": "A local mosque in Damour featuring a characteristic minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        35.443374,
+                        33.691122
+                  ]
+            },
+            {
+                  "name": "Saint Maron Church",
+                  "text": "A traditional Christian stone church located near the Damour coast.",
+                  "category": "landmark",
+                  "coords": [
+                        35.475915,
+                        33.682923
+                  ]
+            }
+      ]
+},
     parent: "LB",
     type: "river",
     name: { de: "Nahr Damour", hu: "Damour-folyó", ro: "Râul Damour", en: "Damour River" },

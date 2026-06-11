@@ -7,7 +7,7 @@ export const poiExtraUsaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Mount Jackson",
-                  "text": "Der Mount Jackson ist ein Gipfel in den Rocky Mountains.",
+                  "text": "Ein 13.000 Fuß hoher Gipfel in der Sawatch Range in Colorado.",
                   "category": "natural",
                   "coords": [
                         -106.536698,
@@ -16,7 +16,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Mount of the Holy Cross",
-                  "text": "Der Mount of the Holy Cross ist ein Gipfel in den Rocky Mountains.",
+                  "text": "Ein 14.000 Fuß hoher Berg mit einem kreuzförmigen Schneefeld.",
                   "category": "natural",
                   "coords": [
                         -106.481777,
@@ -25,7 +25,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Holy Cross Wilderness",
-                  "text": "Die Holy Cross Wilderness ist ein Wildnisgebiet in Colorado, benannt nach dem Mount of the Holy Cross.",
+                  "text": "Ein Wildnisgebiet im White River National Forest mit dem ikonischen Mount of the Holy Cross.",
                   "category": "natural",
                   "coords": [
                         -106.510578,
@@ -36,7 +36,7 @@ export const poiExtraUsaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Mount Jackson",
-                  "text": "A Mount Jackson egy csúcs a Sziklás-hegységben.",
+                  "text": "Egy 13.000 láb magas csúcs a coloradói Sawatch-hegységben.",
                   "category": "natural",
                   "coords": [
                         -106.536698,
@@ -45,7 +45,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Mount of the Holy Cross",
-                  "text": "A Mount of the Holy Cross egy csúcs a Sziklás-hegységben.",
+                  "text": "Egy 14.000 láb magas hegy kereszt alakú hómezővel.",
                   "category": "natural",
                   "coords": [
                         -106.481777,
@@ -54,7 +54,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Holy Cross Wilderness",
-                  "text": "A Holy Cross Wilderness egy vadon Coloradóban, amely a Mount of the Holy Crossról kapta a nevét.",
+                  "text": "Vadonterület a White River Nemzeti Erdőben, a jelképes Mount of the Holy Cross-szal.",
                   "category": "natural",
                   "coords": [
                         -106.510578,
@@ -65,7 +65,7 @@ export const poiExtraUsaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Mount Jackson",
-                  "text": "Vârful Mount Jackson este un vârf în Munții Stâncoși.",
+                  "text": "Un vârf de 13.000 de picioare în Munții Sawatch din Colorado.",
                   "category": "natural",
                   "coords": [
                         -106.536698,
@@ -74,7 +74,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Mount of the Holy Cross",
-                  "text": "Vârful Mount of the Holy Cross este un vârf în Munții Stâncoși.",
+                  "text": "Un munte de 14.000 de picioare cu un câmp de zăpadă în formă de cruce.",
                   "category": "natural",
                   "coords": [
                         -106.481777,
@@ -83,7 +83,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Holy Cross Wilderness",
-                  "text": "Sălbăticia Holy Cross este o zonă sălbatică din Colorado numită după muntele Mount of the Holy Cross.",
+                  "text": "O zonă sălbatică din Pădurea Națională White River, cu emblematicul Munte al Sfintei Cruci.",
                   "category": "natural",
                   "coords": [
                         -106.510578,
@@ -94,7 +94,7 @@ export const poiExtraUsaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Mount Jackson",
-                  "text": "Mount Jackson is a peak in the Rocky Mountains.",
+                  "text": "A 13,000-foot summit in Colorado's Sawatch Range.",
                   "category": "natural",
                   "coords": [
                         -106.536698,
@@ -103,7 +103,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Mount of the Holy Cross",
-                  "text": "Mount of the Holy Cross is a peak in the Rocky Mountains.",
+                  "text": "A 14,000-foot mountain with a cross-shaped snowfield.",
                   "category": "natural",
                   "coords": [
                         -106.481777,
@@ -112,7 +112,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Holy Cross Wilderness",
-                  "text": "Holy Cross Wilderness is a wilderness area in Colorado named after Mount of the Holy Cross.",
+                  "text": "A wilderness area in the White River National Forest featuring the iconic Mount of the Holy Cross.",
                   "category": "natural",
                   "coords": [
                         -106.510578,
@@ -159,7 +159,7 @@ export const poiExtraUsaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Spanish Oak Mountain",
-                  "text": "Ein Berggipfel in den Appalachen.",
+                  "text": "Ein Berg in den Blue Ridge Mountains mit einem Gipfel über 600 Metern.",
                   "category": "natural",
                   "coords": [
                         -81.939837,
@@ -168,7 +168,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Little Yellow Mountain",
-                  "text": "Ein Berggipfel in den Appalachen.",
+                  "text": "Ein Gipfel in den Bergen North Carolinas mit Wanderwegen.",
                   "category": "natural",
                   "coords": [
                         -82.068731,
@@ -177,7 +177,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Humpback Mountain",
-                  "text": "Ein Berggipfel in den Appalachen.",
+                  "text": "Ein Berg mit einem markanten buckelförmigen Profil, beliebt zum Wandern.",
                   "category": "natural",
                   "coords": [
                         -81.961779,
@@ -186,7 +186,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Doe Hill Mountain",
-                  "text": "Ein Berggipfel in den Appalachen.",
+                  "text": "Ein Berg in West-Virginia mit einem markanten Kamm.",
                   "category": "natural",
                   "coords": [
                         -81.973447,
@@ -204,7 +204,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Anvil Arts Studio",
-                  "text": "Ein Kunststudio in den Appalachen.",
+                  "text": "Ein ehemaliges Schmiedestudio, heute Kunstgalerie in den Appalachen.",
                   "category": "museum",
                   "coords": [
                         -81.957927,
@@ -240,7 +240,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Camp Creek Overlook (MP 315.6)",
-                  "text": "Ein Aussichtspunkt am Camp Creek in den Appalachen.",
+                  "text": "Ein Aussichtspunkt an der Straße über das Camp Creek Tal am Blue Ridge Parkway.",
                   "category": "natural",
                   "coords": [
                         -81.922969,
@@ -249,7 +249,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Chestoa View Overlook",
-                  "text": "Ein Aussichtspunkt am Chestoa View in den Appalachen.",
+                  "text": "Ein Ausblick über die Linville River Schlucht in den Blue Ridge Mountains.",
                   "category": "natural",
                   "coords": [
                         -81.953294,
@@ -258,7 +258,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Crossnore Fine Arts Gallery",
-                  "text": "Eine Kunstgalerie in den Appalachen.",
+                  "text": "Eine Kunstgalerie in der historischen Crossnore School in den Bergen.",
                   "category": "museum",
                   "coords": [
                         -81.930402,
@@ -269,7 +269,7 @@ export const poiExtraUsaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Spanish Oak Mountain",
-                  "text": "Egy hegycsúcs az Appalache-hegységben.",
+                  "text": "Hegy a Blue Ridge-hegységben, 600 méter feletti csúccsal.",
                   "category": "natural",
                   "coords": [
                         -81.939837,
@@ -278,7 +278,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Little Yellow Mountain",
-                  "text": "Egy hegycsúcs az Appalache-hegységben.",
+                  "text": "Csúcs Észak-Karolina hegyei között, túraútvonalakkal.",
                   "category": "natural",
                   "coords": [
                         -82.068731,
@@ -287,7 +287,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Humpback Mountain",
-                  "text": "Egy hegycsúcs az Appalache-hegységben.",
+                  "text": "Egy hegy jellegzetes púpos profiljával, népszerű túrázásra.",
                   "category": "natural",
                   "coords": [
                         -81.961779,
@@ -296,7 +296,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Doe Hill Mountain",
-                  "text": "Egy hegycsúcs az Appalache-hegységben.",
+                  "text": "Hegy Nyugat-Virginiában, jellegzetes gerinccel.",
                   "category": "natural",
                   "coords": [
                         -81.973447,
@@ -314,7 +314,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Anvil Arts Studio",
-                  "text": "Egy művészeti stúdió az Appalache-hegységben.",
+                  "text": "Egykori kovácsműhelyből átalakított művészeti galéria az Appalache-hegységben.",
                   "category": "museum",
                   "coords": [
                         -81.957927,
@@ -350,7 +350,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Camp Creek Overlook (MP 315.6)",
-                  "text": "Egy kilátó a Camp Creek-nél az Appalache-hegységben.",
+                  "text": "Út menti kilátó a Camp Creek völgyére a Blue Ridge Parkway mentén.",
                   "category": "natural",
                   "coords": [
                         -81.922969,
@@ -359,7 +359,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Chestoa View Overlook",
-                  "text": "Egy kilátó a Chestoa View-nál az Appalache-hegységben.",
+                  "text": "Kilátás a Linville folyó szurdokára a Blue Ridge-hegységben.",
                   "category": "natural",
                   "coords": [
                         -81.953294,
@@ -368,7 +368,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Crossnore Fine Arts Gallery",
-                  "text": "Egy művészeti galéria az Appalache-hegységben.",
+                  "text": "Művészeti galéria a történelmi Crossnore Iskolában a hegyekben.",
                   "category": "museum",
                   "coords": [
                         -81.930402,
@@ -379,7 +379,7 @@ export const poiExtraUsaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Spanish Oak Mountain",
-                  "text": "Un vârf de munte în Munții Apalași.",
+                  "text": "Un munte în Munții Blue Ridge, cu un vârf de peste 600 de metri.",
                   "category": "natural",
                   "coords": [
                         -81.939837,
@@ -388,7 +388,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Little Yellow Mountain",
-                  "text": "Un vârf de munte în Munții Apalași.",
+                  "text": "Un vârf în munții Carolinei de Nord, cu trasee de drumeție.",
                   "category": "natural",
                   "coords": [
                         -82.068731,
@@ -397,7 +397,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Humpback Mountain",
-                  "text": "Un vârf de munte în Munții Apalași.",
+                  "text": "Un munte cu un profil cocoșat distinctiv, popular pentru drumeții.",
                   "category": "natural",
                   "coords": [
                         -81.961779,
@@ -406,7 +406,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Doe Hill Mountain",
-                  "text": "Un vârf de munte în Munții Apalași.",
+                  "text": "Un munte în Virginia de Vest, cu o creastă proeminentă.",
                   "category": "natural",
                   "coords": [
                         -81.973447,
@@ -424,7 +424,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Anvil Arts Studio",
-                  "text": "Un studio de artă în Munții Apalași.",
+                  "text": "Un fost atelier de fierărie transformat în galerie de artă în Munții Apalași.",
                   "category": "museum",
                   "coords": [
                         -81.957927,
@@ -460,7 +460,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Camp Creek Overlook (MP 315.6)",
-                  "text": "Un punct de belvedere la Camp Creek în Munții Apalași.",
+                  "text": "Un punct de belvedere pe marginea drumului asupra văii Camp Creek, de-a lungul Blue Ridge Parkway.",
                   "category": "natural",
                   "coords": [
                         -81.922969,
@@ -469,7 +469,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Chestoa View Overlook",
-                  "text": "Un punct de belvedere la Chestoa View în Munții Apalași.",
+                  "text": "O vedere panoramică asupra defileului râului Linville în Munții Blue Ridge.",
                   "category": "natural",
                   "coords": [
                         -81.953294,
@@ -478,7 +478,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Crossnore Fine Arts Gallery",
-                  "text": "O galerie de artă în Munții Apalași.",
+                  "text": "O galerie de artă adăpostită în istoricul Crossnore School din munți.",
                   "category": "museum",
                   "coords": [
                         -81.930402,
@@ -489,7 +489,7 @@ export const poiExtraUsaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Spanish Oak Mountain",
-                  "text": "A mountain peak in the Appalachian Mountains.",
+                  "text": "A mountain in the Blue Ridge Mountains with a summit over 2,000 feet.",
                   "category": "natural",
                   "coords": [
                         -81.939837,
@@ -498,7 +498,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Little Yellow Mountain",
-                  "text": "A mountain peak in the Appalachian Mountains.",
+                  "text": "A peak in the North Carolina mountains with hiking trails.",
                   "category": "natural",
                   "coords": [
                         -82.068731,
@@ -507,7 +507,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Humpback Mountain",
-                  "text": "A mountain peak in the Appalachian Mountains.",
+                  "text": "A mountain with a distinctive humpback profile, popular for hiking.",
                   "category": "natural",
                   "coords": [
                         -81.961779,
@@ -516,7 +516,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Doe Hill Mountain",
-                  "text": "A mountain peak in the Appalachian Mountains.",
+                  "text": "A mountain in western Virginia with a prominent ridge.",
                   "category": "natural",
                   "coords": [
                         -81.973447,
@@ -534,7 +534,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Anvil Arts Studio",
-                  "text": "An art studio in the Appalachian Mountains.",
+                  "text": "A former blacksmith studio turned art gallery in the Appalachian Mountains.",
                   "category": "museum",
                   "coords": [
                         -81.957927,
@@ -570,7 +570,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Camp Creek Overlook (MP 315.6)",
-                  "text": "An overlook at Camp Creek in the Appalachian Mountains.",
+                  "text": "A roadside overlook of Camp Creek valley along the Blue Ridge Parkway.",
                   "category": "natural",
                   "coords": [
                         -81.922969,
@@ -579,7 +579,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Chestoa View Overlook",
-                  "text": "An overlook at Chestoa View in the Appalachian Mountains.",
+                  "text": "A vista overlooking the Linville River gorge in the Blue Ridge Mountains.",
                   "category": "natural",
                   "coords": [
                         -81.953294,
@@ -588,7 +588,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Crossnore Fine Arts Gallery",
-                  "text": "An art gallery in the Appalachian Mountains.",
+                  "text": "An art gallery housed in the historic Crossnore School in the mountains.",
                   "category": "museum",
                   "coords": [
                         -81.930402,
@@ -671,7 +671,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Mount Raymond",
-                  "text": "Der Mount Raymond ist ein Berggipfel in der Sierra Nevada.",
+                  "text": "Ein Gipfel in der Toiyabe Range in Nevada.",
                   "category": "natural",
                   "coords": [
                         -119.547552,
@@ -680,7 +680,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "White Chief Mountain",
-                  "text": "Der White Chief Mountain ist ein Gipfel in der Sierra Nevada.",
+                  "text": "Ein Berg in Nevada, benannt nach einem weißen Häuptling.",
                   "category": "natural",
                   "coords": [
                         -119.534214,
@@ -698,7 +698,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Speckerman Mountain",
-                  "text": "Der Speckerman Mountain ist ein Berggipfel in der Sierra Nevada.",
+                  "text": "Ein Berg in der Wüste von Nevada, Teil der Basin-and-Range-Provinz.",
                   "category": "natural",
                   "coords": [
                         -119.579592,
@@ -707,7 +707,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Iron Mountain",
-                  "text": "Ein Gipfel in der Sierra Nevada.",
+                  "text": "Ein Berg in der Wüste von Nevada, bekannt für seinen Eisenerzgehalt.",
                   "category": "natural",
                   "coords": [
                         -119.489548,
@@ -716,7 +716,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Quartz Mountain",
-                  "text": "Ein Gipfel in der Sierra Nevada.",
+                  "text": "Ein Berg in der Wüste von Nevada, mit Quarzadern durchzogen.",
                   "category": "natural",
                   "coords": [
                         -119.447919,
@@ -725,7 +725,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Redtop",
-                  "text": "Ein Gipfel in der Sierra Nevada.",
+                  "text": "Ein Berg in der Wüste von Nevada mit einem rötlichen Gipfel.",
                   "category": "natural",
                   "coords": [
                         -119.402918,
@@ -781,7 +781,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Mount Raymond",
-                  "text": "A Mount Raymond egy hegycsúcs a Sierra Nevada hegységben.",
+                  "text": "Egy csúcs a nevadai Toiyabe-hegységben.",
                   "category": "natural",
                   "coords": [
                         -119.547552,
@@ -790,7 +790,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "White Chief Mountain",
-                  "text": "A White Chief Mountain egy csúcs a Sierra Nevada hegységben.",
+                  "text": "Egy hegy Nevadában, egy fehér főnökről elnevezve.",
                   "category": "natural",
                   "coords": [
                         -119.534214,
@@ -808,7 +808,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Speckerman Mountain",
-                  "text": "A Speckerman Mountain egy hegycsúcs a Sierra Nevada hegységben.",
+                  "text": "Egy hegy Nevada sivatagában, a Basin and Range tartomány része.",
                   "category": "natural",
                   "coords": [
                         -119.579592,
@@ -817,7 +817,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Iron Mountain",
-                  "text": "Egy csúcs a Sierra Nevadában.",
+                  "text": "Egy hegy Nevada sivatagában, ismert vasérc tartalmáról.",
                   "category": "natural",
                   "coords": [
                         -119.489548,
@@ -826,7 +826,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Quartz Mountain",
-                  "text": "Egy csúcs a Sierra Nevadában.",
+                  "text": "Egy hegy Nevada sivatagában, kvarcerekkel átszőve.",
                   "category": "natural",
                   "coords": [
                         -119.447919,
@@ -835,7 +835,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Redtop",
-                  "text": "Egy csúcs a Sierra Nevadában.",
+                  "text": "Egy hegy Nevada sivatagában, vöröses csúccsal.",
                   "category": "natural",
                   "coords": [
                         -119.402918,
@@ -891,7 +891,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Mount Raymond",
-                  "text": "Mount Raymond este un vârf muntos în Sierra Nevada.",
+                  "text": "Un vârf în Munții Toiyabe din Nevada.",
                   "category": "natural",
                   "coords": [
                         -119.547552,
@@ -900,7 +900,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "White Chief Mountain",
-                  "text": "Muntele White Chief este un vârf în Sierra Nevada.",
+                  "text": "Un munte în Nevada, numit după un șef alb.",
                   "category": "natural",
                   "coords": [
                         -119.534214,
@@ -918,7 +918,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Speckerman Mountain",
-                  "text": "Speckerman Mountain este un vârf muntos în Sierra Nevada.",
+                  "text": "Un munte în deșertul Nevada, parte a provinciei Basin and Range.",
                   "category": "natural",
                   "coords": [
                         -119.579592,
@@ -927,7 +927,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Iron Mountain",
-                  "text": "Un vârf în Sierra Nevada.",
+                  "text": "Un munte în deșertul Nevada, cunoscut pentru conținutul său de minereu de fier.",
                   "category": "natural",
                   "coords": [
                         -119.489548,
@@ -936,7 +936,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Quartz Mountain",
-                  "text": "Un vârf în Sierra Nevada.",
+                  "text": "Un munte în deșertul Nevada, străbătut de filoane de cuarț.",
                   "category": "natural",
                   "coords": [
                         -119.447919,
@@ -945,7 +945,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Redtop",
-                  "text": "Un vârf în Sierra Nevada.",
+                  "text": "Un munte în deșertul Nevada, cu un vârf roșiatic.",
                   "category": "natural",
                   "coords": [
                         -119.402918,
@@ -1001,7 +1001,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Mount Raymond",
-                  "text": "Mount Raymond is a mountain peak in the Sierra Nevada.",
+                  "text": "A peak in Nevada's Toiyabe Range.",
                   "category": "natural",
                   "coords": [
                         -119.547552,
@@ -1010,7 +1010,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "White Chief Mountain",
-                  "text": "White Chief Mountain is a peak in the Sierra Nevada.",
+                  "text": "A mountain in Nevada named after a white chief.",
                   "category": "natural",
                   "coords": [
                         -119.534214,
@@ -1028,7 +1028,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Speckerman Mountain",
-                  "text": "Speckerman Mountain is a mountain peak in the Sierra Nevada.",
+                  "text": "A mountain in the Nevada desert, part of the Basin and Range province.",
                   "category": "natural",
                   "coords": [
                         -119.579592,
@@ -1037,7 +1037,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Iron Mountain",
-                  "text": "A peak in the Sierra Nevada.",
+                  "text": "A mountain in the Nevada desert, known for its iron ore content.",
                   "category": "natural",
                   "coords": [
                         -119.489548,
@@ -1046,7 +1046,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Quartz Mountain",
-                  "text": "A peak in the Sierra Nevada.",
+                  "text": "A mountain in the Nevada desert, laced with quartz veins.",
                   "category": "natural",
                   "coords": [
                         -119.447919,
@@ -1055,7 +1055,7 @@ export const poiExtraUsaReliefV2: POI[] = [
             },
             {
                   "name": "Redtop",
-                  "text": "A peak in the Sierra Nevada.",
+                  "text": "A mountain in the Nevada desert, with a reddish summit.",
                   "category": "natural",
                   "coords": [
                         -119.402918,
@@ -1142,7 +1142,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "de": [
             {
                   "name": "Collins Hotel",
-                  "text": "Das Collins Hotel ist eine verfallene Ruine eines historischen Hotels in der Wüste von Nevada.",
+                  "text": "Ein historisches Hotel in der Anden-Gebirgskette.",
                   "category": "historical",
                   "coords": [
                         -115.935159,
@@ -1153,7 +1153,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "hu": [
             {
                   "name": "Collins Hotel",
-                  "text": "A Collins Hotel egy elhagyatott rom, egy történelmi szálloda a nevadai sivatagban.",
+                  "text": "Történelmi szálloda az Andok-hegységben.",
                   "category": "historical",
                   "coords": [
                         -115.935159,
@@ -1164,7 +1164,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "ro": [
             {
                   "name": "Collins Hotel",
-                  "text": "Collins Hotel este o ruină abandonată a unui hotel istoric în deșertul din Nevada.",
+                  "text": "Un hotel istoric situat în lanțul muntos Anzi.",
                   "category": "historical",
                   "coords": [
                         -115.935159,
@@ -1175,7 +1175,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "en": [
             {
                   "name": "Collins Hotel",
-                  "text": "Collins Hotel is a derelict ruin of a historic hotel in the Nevada desert.",
+                  "text": "A historic hotel located in the Andes mountain range.",
                   "category": "historical",
                   "coords": [
                         -115.935159,
@@ -1445,7 +1445,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "de": [
             {
                   "name": "Galts Mill Mountain",
-                  "text": "Galts Mill Mountain ist ein Gipfel in den Blue Ridge Mountains.",
+                  "text": "Ein Berg in der Region Mountains, benannt nach der nahegelegenen Galts Mill.",
                   "category": "natural",
                   "coords": [
                         -79.041411,
@@ -1454,7 +1454,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Turner Mountain",
-                  "text": "Turner Mountain ist ein Gipfel in den Blue Ridge Mountains.",
+                  "text": "Ein Berg in der Region Mountains, benannt nach einem frühen Siedler.",
                   "category": "natural",
                   "coords": [
                         -78.990299,
@@ -1463,7 +1463,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Chestnut Mountain",
-                  "text": "Chestnut Mountain ist ein Gipfel in den Blue Ridge Mountains.",
+                  "text": "Ein Berg in der Region Mountains, bewachsen mit Kastanienbäumen.",
                   "category": "natural",
                   "coords": [
                         -79.001965,
@@ -1472,7 +1472,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Round Mountain",
-                  "text": "Round Mountain ist ein Gipfel in den Blue Ridge Mountains.",
+                  "text": "Ein runder Berg in der Region Mountains.",
                   "category": "natural",
                   "coords": [
                         -79.006966,
@@ -1481,7 +1481,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Larkin Mountain",
-                  "text": "Larkin Mountain ist ein Gipfel in den Blue Ridge Mountains.",
+                  "text": "Ein Berg in der Region Mountains, benannt nach einer lokalen Familie.",
                   "category": "natural",
                   "coords": [
                         -78.952243,
@@ -1499,7 +1499,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sweet Briar Museum",
-                  "text": "Das Sweet Briar Museum ist ein Museum in der Gegend der Blue Ridge Mountains.",
+                  "text": "Ein Museum mit Appalachen-Volkskunst in den Bergen.",
                   "category": "museum",
                   "coords": [
                         -79.081764,
@@ -1517,7 +1517,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Amherst Wayside",
-                  "text": "Der Amherst Wayside ist ein Rastplatz in den Blue Ridge Mountains.",
+                  "text": "Ein kleiner Rastplatz an der Straße in der Region Mountains mit Picknickmöglichkeiten.",
                   "category": "park",
                   "coords": [
                         -78.960558,
@@ -1526,7 +1526,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Carry Nature Sanctuary",
-                  "text": "Das Carry Nature Sanctuary ist ein Naturschutzgebiet in den Blue Ridge Mountains.",
+                  "text": "Ein geschütztes Waldschutzgebiet mit Wanderwegen in den Bergen.",
                   "category": "natural",
                   "coords": [
                         -79.075711,
@@ -1535,7 +1535,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Babcock Fine Arts Center",
-                  "text": "Das Babcock Fine Arts Center ist ein Kunstzentrum in der Blue-Ridge-Region.",
+                  "text": "Ein Zentrum für darstellende Künste in den Blue Ridge Mountains.",
                   "category": "cultural",
                   "coords": [
                         -79.084568,
@@ -1544,7 +1544,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Amphitheater",
-                  "text": "Das Amphitheater ist ein Freilichttheater in den Blue Ridge Mountains.",
+                  "text": "Ein Freiluftamphitheater in einem Bergpark.",
                   "category": "cultural",
                   "coords": [
                         -79.085,
@@ -1555,7 +1555,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "hu": [
             {
                   "name": "Galts Mill Mountain",
-                  "text": "A Galts Mill Mountain egy csúcs a Blue Ridge-hegységben.",
+                  "text": "Egy hegy a Mountains régióban, a közeli Galts malomról elnevezve.",
                   "category": "natural",
                   "coords": [
                         -79.041411,
@@ -1564,7 +1564,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Turner Mountain",
-                  "text": "A Turner Mountain egy csúcs a Blue Ridge-hegységben.",
+                  "text": "Egy hegy a Mountains régióban, egy korai telepesről elnevezve.",
                   "category": "natural",
                   "coords": [
                         -78.990299,
@@ -1573,7 +1573,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Chestnut Mountain",
-                  "text": "A Chestnut Mountain egy csúcs a Blue Ridge-hegységben.",
+                  "text": "Egy hegy a Mountains régióban, gesztenyefákkal borított.",
                   "category": "natural",
                   "coords": [
                         -79.001965,
@@ -1582,7 +1582,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Round Mountain",
-                  "text": "A Round Mountain egy csúcs a Blue Ridge-hegységben.",
+                  "text": "Egy kerek hegy a Mountains régióban.",
                   "category": "natural",
                   "coords": [
                         -79.006966,
@@ -1591,7 +1591,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Larkin Mountain",
-                  "text": "A Larkin Mountain egy csúcs a Blue Ridge-hegységben.",
+                  "text": "Egy hegy a Mountains régióban, egy helyi családról elnevezve.",
                   "category": "natural",
                   "coords": [
                         -78.952243,
@@ -1609,7 +1609,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sweet Briar Museum",
-                  "text": "A Sweet Briar Museum egy múzeum a Blue Ridge-hegység területén.",
+                  "text": "Múzeum, amely az Appalache népi művészetet mutatja be a hegyekben.",
                   "category": "museum",
                   "coords": [
                         -79.081764,
@@ -1627,7 +1627,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Amherst Wayside",
-                  "text": "Az Amherst Wayside egy útmenti pihenőhely a Blue Ridge-hegységben.",
+                  "text": "Egy kis pihenőhely az út mellett a Mountains régióban, piknikezési lehetőséggel.",
                   "category": "park",
                   "coords": [
                         -78.960558,
@@ -1636,7 +1636,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Carry Nature Sanctuary",
-                  "text": "A Carry Nature Sanctuary egy természetvédelmi terület a Blue Ridge-hegységben.",
+                  "text": "Védett erdőrezervátum túraútvonalakkal a hegyekben.",
                   "category": "natural",
                   "coords": [
                         -79.075711,
@@ -1645,7 +1645,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Babcock Fine Arts Center",
-                  "text": "A Babcock Fine Arts Center egy művészeti központ a Blue Ridge régióban.",
+                  "text": "Előadóművészeti központ a Blue Ridge-hegységben.",
                   "category": "cultural",
                   "coords": [
                         -79.084568,
@@ -1654,7 +1654,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Amphitheater",
-                  "text": "Az Amphitheater egy szabadtéri színház a Blue Ridge-hegységben.",
+                  "text": "Szabadtéri amfiteátrum egy hegyi parkban.",
                   "category": "cultural",
                   "coords": [
                         -79.085,
@@ -1665,7 +1665,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "ro": [
             {
                   "name": "Galts Mill Mountain",
-                  "text": "Galts Mill Mountain este un vârf în Munții Blue Ridge.",
+                  "text": "Un munte în regiunea Mountains, numit după moara Galts din apropiere.",
                   "category": "natural",
                   "coords": [
                         -79.041411,
@@ -1674,7 +1674,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Turner Mountain",
-                  "text": "Turner Mountain este un vârf în Munții Blue Ridge.",
+                  "text": "Un munte în regiunea Mountains, numit după un colonist timpuriu.",
                   "category": "natural",
                   "coords": [
                         -78.990299,
@@ -1683,7 +1683,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Chestnut Mountain",
-                  "text": "Chestnut Mountain este un vârf în Munții Blue Ridge.",
+                  "text": "Un munte în regiunea Mountains, acoperit de castani.",
                   "category": "natural",
                   "coords": [
                         -79.001965,
@@ -1692,7 +1692,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Round Mountain",
-                  "text": "Round Mountain este un vârf în Munții Blue Ridge.",
+                  "text": "Un munte rotund în regiunea Mountains.",
                   "category": "natural",
                   "coords": [
                         -79.006966,
@@ -1701,7 +1701,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Larkin Mountain",
-                  "text": "Larkin Mountain este un vârf în Munții Blue Ridge.",
+                  "text": "Un munte în regiunea Mountains, numit după o familie locală.",
                   "category": "natural",
                   "coords": [
                         -78.952243,
@@ -1719,7 +1719,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sweet Briar Museum",
-                  "text": "Muzeul Sweet Briar este un muzeu în zona Munților Blue Ridge.",
+                  "text": "Un muzeu care prezintă arta populară din Appalachia în munți.",
                   "category": "museum",
                   "coords": [
                         -79.081764,
@@ -1737,7 +1737,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Amherst Wayside",
-                  "text": "Amherst Wayside este un loc de odihnă rutier în Munții Blue Ridge.",
+                  "text": "Un mic loc de odihnă pe marginea drumului în regiunea Mountains, cu zone de picnic.",
                   "category": "park",
                   "coords": [
                         -78.960558,
@@ -1746,7 +1746,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Carry Nature Sanctuary",
-                  "text": "Carry Nature Sanctuary este o rezervație naturală în Munții Blue Ridge.",
+                  "text": "Un sanctuar forestier protejat cu trasee de drumeție în munți.",
                   "category": "natural",
                   "coords": [
                         -79.075711,
@@ -1755,7 +1755,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Babcock Fine Arts Center",
-                  "text": "Centrul de Arte Frumoase Babcock este un centru de artă în regiunea Blue Ridge.",
+                  "text": "Un centru de arte spectacolului în Munții Blue Ridge.",
                   "category": "cultural",
                   "coords": [
                         -79.084568,
@@ -1764,7 +1764,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Amphitheater",
-                  "text": "Amfiteatrul este un teatru în aer liber în Munții Blue Ridge.",
+                  "text": "Un amfiteatru în aer liber într-un parc montan.",
                   "category": "cultural",
                   "coords": [
                         -79.085,
@@ -1775,7 +1775,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "en": [
             {
                   "name": "Galts Mill Mountain",
-                  "text": "Galts Mill Mountain is a peak in the Blue Ridge Mountains.",
+                  "text": "A mountain in the Mountains region, named after the nearby Galts Mill.",
                   "category": "natural",
                   "coords": [
                         -79.041411,
@@ -1784,7 +1784,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Turner Mountain",
-                  "text": "Turner Mountain is a peak in the Blue Ridge Mountains.",
+                  "text": "A mountain in the Mountains region, named after an early settler.",
                   "category": "natural",
                   "coords": [
                         -78.990299,
@@ -1793,7 +1793,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Chestnut Mountain",
-                  "text": "Chestnut Mountain is a peak in the Blue Ridge Mountains.",
+                  "text": "A mountain in the Mountains region, covered with chestnut trees.",
                   "category": "natural",
                   "coords": [
                         -79.001965,
@@ -1802,7 +1802,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Round Mountain",
-                  "text": "Round Mountain is a peak in the Blue Ridge Mountains.",
+                  "text": "A round mountain in the Mountains region.",
                   "category": "natural",
                   "coords": [
                         -79.006966,
@@ -1811,7 +1811,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Larkin Mountain",
-                  "text": "Larkin Mountain is a peak in the Blue Ridge Mountains.",
+                  "text": "A mountain in the Mountains region, named after a local family.",
                   "category": "natural",
                   "coords": [
                         -78.952243,
@@ -1829,7 +1829,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sweet Briar Museum",
-                  "text": "Sweet Briar Museum is a museum in the Blue Ridge Mountains area.",
+                  "text": "A museum showcasing Appalachian folk art in the mountains.",
                   "category": "museum",
                   "coords": [
                         -79.081764,
@@ -1847,7 +1847,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Amherst Wayside",
-                  "text": "Amherst Wayside is a roadside park in the Blue Ridge Mountains.",
+                  "text": "A small roadside rest area in the Mountains region, offering picnic spots.",
                   "category": "park",
                   "coords": [
                         -78.960558,
@@ -1856,7 +1856,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Carry Nature Sanctuary",
-                  "text": "Carry Nature Sanctuary is a nature reserve in the Blue Ridge Mountains.",
+                  "text": "A protected forest sanctuary with hiking trails in the mountains.",
                   "category": "natural",
                   "coords": [
                         -79.075711,
@@ -1865,7 +1865,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Babcock Fine Arts Center",
-                  "text": "Babcock Fine Arts Center is an arts centre in the Blue Ridge region.",
+                  "text": "A performing arts center in the Blue Ridge Mountains.",
                   "category": "cultural",
                   "coords": [
                         -79.084568,
@@ -1874,7 +1874,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Amphitheater",
-                  "text": "The Amphitheater is an outdoor theatre in the Blue Ridge Mountains.",
+                  "text": "An outdoor amphitheater in a mountain park.",
                   "category": "cultural",
                   "coords": [
                         -79.085,
@@ -1921,7 +1921,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "de": [
             {
                   "name": "Noon Peak",
-                  "text": "Ein Gipfel in den White Mountains von New Hampshire.",
+                  "text": "Ein Gipfel in der Gebirgsregion der USA, benannt wegen der Mittagssonne.",
                   "category": "natural",
                   "coords": [
                         -71.501511,
@@ -1930,7 +1930,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Huntington",
-                  "text": "Mount Huntington ist ein Gipfel in den White Mountains.",
+                  "text": "Ein Berg in der Gebirgsregion der USA, benannt nach einem Entdecker.",
                   "category": "natural",
                   "coords": [
                         -71.491188,
@@ -1939,7 +1939,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Greens Cliff",
-                  "text": "Greens Cliff ist eine Klippe in den White Mountains.",
+                  "text": "Eine Klippe in der Gebirgsregion der USA, bedeckt mit grünem Moos.",
                   "category": "landmark",
                   "coords": [
                         -71.402297,
@@ -1948,7 +1948,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Kancamagus",
-                  "text": "Mount Kancamagus ist ein Gipfel in den White Mountains.",
+                  "text": "Ein Berg in der Gebirgsregion der USA, nahe dem Kancamagus Highway.",
                   "category": "natural",
                   "coords": [
                         -71.479016,
@@ -1957,7 +1957,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "East Peak",
-                  "text": "East Peak ist ein Gipfel in den White Mountains.",
+                  "text": "Ein Gipfel auf der Ostseite eines Bergrückens in der Gebirgsregion der USA.",
                   "category": "natural",
                   "coords": [
                         -71.520585,
@@ -1966,7 +1966,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Pemigewasset Overlook",
-                  "text": "Pemigewasset Overlook ist ein Aussichtspunkt in den White Mountains.",
+                  "text": "Ein Aussichtspunkt auf das Tal des Pemigewasset River in den White Mountains.",
                   "category": "natural",
                   "coords": [
                         -71.495523,
@@ -1975,7 +1975,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Scar Ridge East Peak",
-                  "text": "Scar Ridge East Peak ist ein Gipfel in den White Mountains.",
+                  "text": "Der östliche Gipfel des Scar Ridge in der Gebirgsregion der USA, ein zerklüfteter Gipfel.",
                   "category": "natural",
                   "coords": [
                         -71.565114,
@@ -1984,7 +1984,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Peggy's Perch",
-                  "text": "Peggy's Perch ist ein Aussichtspunkt in den White Mountains.",
+                  "text": "Ein felsiger Vorsprung mit Blick auf die Franconia Range in den White Mountains.",
                   "category": "natural",
                   "coords": [
                         -71.546922,
@@ -1993,7 +1993,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Osceola",
-                  "text": "Mount Osceola ist ein Gipfel in den White Mountains.",
+                  "text": "Ein 4000-Fuß-Gipfel in den White Mountains, ein beliebtes Wanderziel.",
                   "category": "natural",
                   "coords": [
                         -71.53597,
@@ -2002,7 +2002,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Scar Ridge",
-                  "text": "Scar Ridge ist ein Gipfel in den White Mountains.",
+                  "text": "Ein langer Bergrücken in den White Mountains, bekannt für seinen felsigen Kamm.",
                   "category": "natural",
                   "coords": [
                         -71.594414,
@@ -2011,7 +2011,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Bald Mountain",
-                  "text": "Bald Mountain ist ein Gipfel in den White Mountains.",
+                  "text": "Ein baumloser Berggipfel in der Gebirgsregion der USA mit Panoramablick.",
                   "category": "natural",
                   "coords": [
                         -71.586349,
@@ -2020,7 +2020,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Tecumseh",
-                  "text": "Mount Tecumseh ist ein Gipfel in den White Mountains.",
+                  "text": "Ein 4000-Fuß-Gipfel in den White Mountains, benannt nach dem Shawnee-Häuptling Tecumseh.",
                   "category": "natural",
                   "coords": [
                         -71.556594,
@@ -2029,7 +2029,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Green Mountain",
-                  "text": "Green Mountain ist ein Gipfel in den White Mountains.",
+                  "text": "Ein bewaldeter Berg in der Gebirgsregion der USA, bedeckt mit immergrünen Bäumen.",
                   "category": "natural",
                   "coords": [
                         -71.560798,
@@ -2038,7 +2038,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Fisher Mountain",
-                  "text": "Fisher Mountain ist ein Gipfel in den White Mountains.",
+                  "text": "Ein Berg in der Gebirgsregion der USA, benannt nach einem Fischer oder einer Familie.",
                   "category": "natural",
                   "coords": [
                         -71.586527,
@@ -2047,7 +2047,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Black Mountain",
-                  "text": "Black Mountain ist ein Gipfel in den White Mountains.",
+                  "text": "Ein dunkler, felsiger Berg in der Gebirgsregion der USA, oft als Wahrzeichen genutzt.",
                   "category": "natural",
                   "coords": [
                         -71.604971,
@@ -2056,7 +2056,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Hitchcock",
-                  "text": "Mount Hitchcock ist ein Gipfel in den White Mountains.",
+                  "text": "Ein Berg in der Gebirgsregion der USA, benannt nach dem Geologen Edward Hitchcock.",
                   "category": "natural",
                   "coords": [
                         -71.539245,
@@ -2065,7 +2065,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "South Hancock",
-                  "text": "South Hancock ist ein Gipfel in den White Mountains.",
+                  "text": "Der südliche Gipfel des Mount Hancock in den White Mountains, ein 4000-Fuß-Berg.",
                   "category": "natural",
                   "coords": [
                         -71.486945,
@@ -2074,7 +2074,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Hancock",
-                  "text": "Mount Hancock ist ein Gipfel in den White Mountains.",
+                  "text": "Ein 4000-Fuß-Gipfel in den White Mountains, benannt nach John Hancock.",
                   "category": "natural",
                   "coords": [
                         -71.493202,
@@ -2083,7 +2083,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Jennings Peak",
-                  "text": "Jennings Peak ist ein Gipfel in den White Mountains.",
+                  "text": "Ein Gipfel in den White Mountains, benannt nach einer lokalen Familie.",
                   "category": "natural",
                   "coords": [
                         -71.510738,
@@ -2092,7 +2092,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "The Scaur",
-                  "text": "The Scaur ist ein Gipfel in den White Mountains.",
+                  "text": "Ein felsiger Aufschluss in den White Mountains mit einer steilen Klippe.",
                   "category": "natural",
                   "coords": [
                         -71.495937,
@@ -2101,7 +2101,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Flume Peak",
-                  "text": "Flume Peak ist ein Gipfel in den White Mountains.",
+                  "text": "Ein Gipfel nahe der Flume-Schlucht in den White Mountains, ein beliebter Wanderort.",
                   "category": "natural",
                   "coords": [
                         -71.479712,
@@ -2110,7 +2110,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Waterville Flume viewpoint",
-                  "text": "Waterville Flume viewpoint ist ein Aussichtspunkt in den White Mountains.",
+                  "text": "Ein Aussichtspunkt auf eine historische Holzfloßrinne in den White Mountains.",
                   "category": "natural",
                   "coords": [
                         -71.476867,
@@ -2119,7 +2119,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Middle Tripyramid",
-                  "text": "Middle Tripyramid ist ein Gipfel in den White Mountains.",
+                  "text": "Der mittlere Gipfel des Tripyramid-Massivs in den White Mountains, ein 4000-Fuß-Berg.",
                   "category": "natural",
                   "coords": [
                         -71.440074,
@@ -2128,7 +2128,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "South Tripyramid",
-                  "text": "South Tripyramid ist ein Gipfel in den White Mountains.",
+                  "text": "Der südliche Gipfel des Tripyramid-Massivs in den White Mountains, ein 4000-Fuß-Berg.",
                   "category": "natural",
                   "coords": [
                         -71.441359,
@@ -2137,7 +2137,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "The Fool Killer",
-                  "text": "The Fool Killer ist ein Gipfel in den White Mountains.",
+                  "text": "Eine gefährliche Klippe in den White Mountains, bekannt für ihren tückischen Abgrund.",
                   "category": "natural",
                   "coords": [
                         -71.428623,
@@ -2146,7 +2146,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "North Tripyramid",
-                  "text": "North Tripyramid ist ein Gipfel in den White Mountains.",
+                  "text": "Der nördliche Gipfel des Tripyramid-Massivs in den White Mountains, ein 4000-Fuß-Berg.",
                   "category": "natural",
                   "coords": [
                         -71.442779,
@@ -2155,7 +2155,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Scaur Peak",
-                  "text": "Scaur Peak ist ein Gipfel in den White Mountains.",
+                  "text": "Ein Gipfel in der Nähe des Scaur in den White Mountains.",
                   "category": "natural",
                   "coords": [
                         -71.450084,
@@ -2164,7 +2164,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sugar Hill Scenic Vista",
-                  "text": "Sugar Hill Scenic Vista ist ein Aussichtspunkt in den White Mountains.",
+                  "text": "Ein Panoramablick auf die Gegend von Sugar Hill in den White Mountains.",
                   "category": "natural",
                   "coords": [
                         -71.427672,
@@ -2173,7 +2173,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Hix Mountain",
-                  "text": "Hix Mountain ist ein Gipfel in den White Mountains.",
+                  "text": "Ein Berg in den White Mountains, benannt nach einer lokalen Persönlichkeit.",
                   "category": "natural",
                   "coords": [
                         -71.618357,
@@ -2182,7 +2182,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Hogback Mountain",
-                  "text": "Hogback Mountain ist ein Gipfel in den White Mountains.",
+                  "text": "Ein Bergrücken in der Gebirgsregion der USA, mit einem schweineähnlichen Rückenprofil.",
                   "category": "natural",
                   "coords": [
                         -71.578593,
@@ -2191,7 +2191,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Curious George Cottage",
-                  "text": "Curious George Cottage ist ein Museum in den White Mountains.",
+                  "text": "Das Cottage in Waterville Valley, New Hampshire, in dem die Curious-George-Bücher entstanden sind.",
                   "category": "museum",
                   "coords": [
                         -71.501591,
@@ -2200,7 +2200,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Greeley Ponds Scenic Area",
-                  "text": "Greeley Ponds Scenic Area ist ein Naturschutzgebiet in den White Mountains.",
+                  "text": "Ein landschaftlich reizvolles Gebiet mit einer Reihe klarer Bergseen in den White Mountains.",
                   "category": "natural",
                   "coords": [
                         -71.504392,
@@ -2211,7 +2211,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "hu": [
             {
                   "name": "Noon Peak",
-                  "text": "Egy csúcs a New Hampshire-i White Mountainsban.",
+                  "text": "Egy csúcs az USA hegyvidéki régiójában, a déli nap miatt elnevezve.",
                   "category": "natural",
                   "coords": [
                         -71.501511,
@@ -2220,7 +2220,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Huntington",
-                  "text": "Mount Huntington egy csúcs a White Mountains-ben.",
+                  "text": "Egy hegy az USA hegyvidéki régiójában, egy felfedezőről elnevezve.",
                   "category": "natural",
                   "coords": [
                         -71.491188,
@@ -2229,7 +2229,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Greens Cliff",
-                  "text": "Greens Cliff egy szikla a White Mountains-ben.",
+                  "text": "Egy szikla az USA hegyvidéki régiójában, zöld mohával borított.",
                   "category": "landmark",
                   "coords": [
                         -71.402297,
@@ -2238,7 +2238,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Kancamagus",
-                  "text": "Mount Kancamagus egy csúcs a White Mountains-ben.",
+                  "text": "Egy hegy az USA hegyvidéki régiójában, a Kancamagus autópálya közelében.",
                   "category": "natural",
                   "coords": [
                         -71.479016,
@@ -2247,7 +2247,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "East Peak",
-                  "text": "East Peak egy csúcs a White Mountains-ben.",
+                  "text": "Egy csúcs egy hegygerinc keleti oldalán az USA hegyvidéki régiójában.",
                   "category": "natural",
                   "coords": [
                         -71.520585,
@@ -2256,7 +2256,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Pemigewasset Overlook",
-                  "text": "Pemigewasset Overlook egy kilátópont a White Mountains-ben.",
+                  "text": "Festői kilátó a Pemigewasset folyó völgyére a White Mountains-ben.",
                   "category": "natural",
                   "coords": [
                         -71.495523,
@@ -2265,7 +2265,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Scar Ridge East Peak",
-                  "text": "Scar Ridge East Peak egy csúcs a White Mountains-ben.",
+                  "text": "A Scar Ridge keleti csúcsa az USA hegyvidéki régiójában, egy tagolt csúcs.",
                   "category": "natural",
                   "coords": [
                         -71.565114,
@@ -2274,7 +2274,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Peggy's Perch",
-                  "text": "Peggy's Perch egy kilátópont a White Mountains-ben.",
+                  "text": "Sziklás párkány kilátással a Franconia-hegységre a White Mountains-ben.",
                   "category": "natural",
                   "coords": [
                         -71.546922,
@@ -2283,7 +2283,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Osceola",
-                  "text": "Mount Osceola egy csúcs a White Mountains-ben.",
+                  "text": "Egy 4000 láb magas csúcs a White Mountainsban, népszerű túracélpont.",
                   "category": "natural",
                   "coords": [
                         -71.53597,
@@ -2292,7 +2292,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Scar Ridge",
-                  "text": "Scar Ridge egy csúcs a White Mountains-ben.",
+                  "text": "Egy hosszú hegygerinc a White Mountainsban, sziklás taréjáról ismert.",
                   "category": "natural",
                   "coords": [
                         -71.594414,
@@ -2301,7 +2301,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Bald Mountain",
-                  "text": "Bald Mountain egy csúcs a White Mountains-ben.",
+                  "text": "Egy fátlan hegycsúcs az USA hegyvidéki régiójában, panorámás kilátással.",
                   "category": "natural",
                   "coords": [
                         -71.586349,
@@ -2310,7 +2310,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Tecumseh",
-                  "text": "Mount Tecumseh egy csúcs a White Mountains-ben.",
+                  "text": "Egy 4000 láb magas csúcs a White Mountainsban, a Tecumseh sávóri főnökről elnevezve.",
                   "category": "natural",
                   "coords": [
                         -71.556594,
@@ -2319,7 +2319,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Green Mountain",
-                  "text": "Green Mountain egy csúcs a White Mountains-ben.",
+                  "text": "Egy erdős hegy az USA hegyvidéki régiójában, örökzöld fákkal borított.",
                   "category": "natural",
                   "coords": [
                         -71.560798,
@@ -2328,7 +2328,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Fisher Mountain",
-                  "text": "Fisher Mountain egy csúcs a White Mountains-ben.",
+                  "text": "Egy hegy az USA hegyvidéki régiójában, egy halászról vagy családról elnevezve.",
                   "category": "natural",
                   "coords": [
                         -71.586527,
@@ -2337,7 +2337,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Black Mountain",
-                  "text": "Black Mountain egy csúcs a White Mountains-ben.",
+                  "text": "Egy sötét, sziklás hegy az USA hegyvidéki régiójában, gyakran használt tájékozódási pontként.",
                   "category": "natural",
                   "coords": [
                         -71.604971,
@@ -2346,7 +2346,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Hitchcock",
-                  "text": "Mount Hitchcock egy csúcs a White Mountains-ben.",
+                  "text": "Egy hegy az USA hegyvidéki régiójában, Edward Hitchcock geológusról elnevezve.",
                   "category": "natural",
                   "coords": [
                         -71.539245,
@@ -2355,7 +2355,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "South Hancock",
-                  "text": "South Hancock egy csúcs a White Mountains-ben.",
+                  "text": "A Mount Hancock déli csúcsa a White Mountainsban, egy 4000 láb magas hegy.",
                   "category": "natural",
                   "coords": [
                         -71.486945,
@@ -2364,7 +2364,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Hancock",
-                  "text": "Mount Hancock egy csúcs a White Mountains-ben.",
+                  "text": "Egy 4000 láb magas csúcs a White Mountainsban, John Hancockról elnevezve.",
                   "category": "natural",
                   "coords": [
                         -71.493202,
@@ -2373,7 +2373,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Jennings Peak",
-                  "text": "Jennings Peak egy csúcs a White Mountains-ben.",
+                  "text": "Egy csúcs a White Mountainsban, egy helyi családról elnevezve.",
                   "category": "natural",
                   "coords": [
                         -71.510738,
@@ -2382,7 +2382,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "The Scaur",
-                  "text": "The Scaur egy csúcs a White Mountains-ben.",
+                  "text": "Egy sziklás kibúvó a White Mountainsban, meredek sziklafallal.",
                   "category": "natural",
                   "coords": [
                         -71.495937,
@@ -2391,7 +2391,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Flume Peak",
-                  "text": "Flume Peak egy csúcs a White Mountains-ben.",
+                  "text": "Egy csúcs a Flume-szurdok közelében a White Mountainsban, népszerű túrahely.",
                   "category": "natural",
                   "coords": [
                         -71.479712,
@@ -2400,7 +2400,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Waterville Flume viewpoint",
-                  "text": "Waterville Flume viewpoint egy kilátópont a White Mountains-ben.",
+                  "text": "Kilátó egy történelmi fausztató csatornára a White Mountains-ben.",
                   "category": "natural",
                   "coords": [
                         -71.476867,
@@ -2409,7 +2409,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Middle Tripyramid",
-                  "text": "Middle Tripyramid egy csúcs a White Mountains-ben.",
+                  "text": "A Tripyramid-masszívum középső csúcsa a White Mountainsban, egy 4000 láb magas hegy.",
                   "category": "natural",
                   "coords": [
                         -71.440074,
@@ -2418,7 +2418,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "South Tripyramid",
-                  "text": "South Tripyramid egy csúcs a White Mountains-ben.",
+                  "text": "A Tripyramid-masszívum déli csúcsa a White Mountainsban, egy 4000 láb magas hegy.",
                   "category": "natural",
                   "coords": [
                         -71.441359,
@@ -2427,7 +2427,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "The Fool Killer",
-                  "text": "The Fool Killer egy csúcs a White Mountains-ben.",
+                  "text": "Egy veszélyes szikla a White Mountainsban, alattomos mélységéről ismert.",
                   "category": "natural",
                   "coords": [
                         -71.428623,
@@ -2436,7 +2436,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "North Tripyramid",
-                  "text": "North Tripyramid egy csúcs a White Mountains-ben.",
+                  "text": "A Tripyramid-masszívum északi csúcsa a White Mountainsban, egy 4000 láb magas hegy.",
                   "category": "natural",
                   "coords": [
                         -71.442779,
@@ -2445,7 +2445,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Scaur Peak",
-                  "text": "Scaur Peak egy csúcs a White Mountains-ben.",
+                  "text": "Egy csúcs a Scaur közelében a White Mountainsban.",
                   "category": "natural",
                   "coords": [
                         -71.450084,
@@ -2454,7 +2454,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sugar Hill Scenic Vista",
-                  "text": "Sugar Hill Scenic Vista egy kilátópont a White Mountains-ben.",
+                  "text": "Panorámás kilátás a Sugar Hill területére a White Mountains-ben.",
                   "category": "natural",
                   "coords": [
                         -71.427672,
@@ -2463,7 +2463,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Hix Mountain",
-                  "text": "Hix Mountain egy csúcs a White Mountains-ben.",
+                  "text": "Egy hegy a White Mountainsban, egy helyi személyiségről elnevezve.",
                   "category": "natural",
                   "coords": [
                         -71.618357,
@@ -2472,7 +2472,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Hogback Mountain",
-                  "text": "Hogback Mountain egy csúcs a White Mountains-ben.",
+                  "text": "Egy hegygerinc az USA hegyvidéki régiójában, disznóhátra emlékeztető profillal.",
                   "category": "natural",
                   "coords": [
                         -71.578593,
@@ -2481,7 +2481,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Curious George Cottage",
-                  "text": "Curious George Cottage egy múzeum a White Mountains-ben.",
+                  "text": "A Waterville Valley-i házikó New Hampshire-ben, ahol a Curious George könyvek születtek.",
                   "category": "museum",
                   "coords": [
                         -71.501591,
@@ -2490,7 +2490,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Greeley Ponds Scenic Area",
-                  "text": "Greeley Ponds Scenic Area egy természetvédelmi terület a White Mountains-ben.",
+                  "text": "Festői terület tiszta hegyi tavak sorával a White Mountains-ben.",
                   "category": "natural",
                   "coords": [
                         -71.504392,
@@ -2501,7 +2501,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "ro": [
             {
                   "name": "Noon Peak",
-                  "text": "Un vârf în Munții Albi din New Hampshire.",
+                  "text": "Un vârf în regiunea montană a SUA, numit după soarele de amiază.",
                   "category": "natural",
                   "coords": [
                         -71.501511,
@@ -2510,7 +2510,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Huntington",
-                  "text": "Mount Huntington este un vârf în Munții Albi.",
+                  "text": "Un munte în regiunea montană a SUA, numit după un explorator.",
                   "category": "natural",
                   "coords": [
                         -71.491188,
@@ -2519,7 +2519,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Greens Cliff",
-                  "text": "Greens Cliff este o stâncă în Munții Albi.",
+                  "text": "O stâncă în regiunea montană a SUA, acoperită cu mușchi verde.",
                   "category": "landmark",
                   "coords": [
                         -71.402297,
@@ -2528,7 +2528,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Kancamagus",
-                  "text": "Mount Kancamagus este un vârf în Munții Albi.",
+                  "text": "Un munte în regiunea montană a SUA, lângă autostrada Kancamagus.",
                   "category": "natural",
                   "coords": [
                         -71.479016,
@@ -2537,7 +2537,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "East Peak",
-                  "text": "East Peak este un vârf în Munții Albi.",
+                  "text": "Un vârf pe partea de est a unei creste în regiunea montană a SUA.",
                   "category": "natural",
                   "coords": [
                         -71.520585,
@@ -2546,7 +2546,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Pemigewasset Overlook",
-                  "text": "Pemigewasset Overlook este un punct de belvedere în Munții Albi.",
+                  "text": "Un punct de belvedere pitoresc asupra văii râului Pemigewasset în Munții Albi.",
                   "category": "natural",
                   "coords": [
                         -71.495523,
@@ -2555,7 +2555,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Scar Ridge East Peak",
-                  "text": "Scar Ridge East Peak este un vârf în Munții Albi.",
+                  "text": "Vârful estic al Scar Ridge în regiunea montană a SUA, un vârf accidentat.",
                   "category": "natural",
                   "coords": [
                         -71.565114,
@@ -2564,7 +2564,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Peggy's Perch",
-                  "text": "Peggy's Perch este un punct de belvedere în Munții Albi.",
+                  "text": "O proeminență stâncoasă cu vedere spre Masivul Franconia în Munții Albi.",
                   "category": "natural",
                   "coords": [
                         -71.546922,
@@ -2573,7 +2573,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Osceola",
-                  "text": "Mount Osceola este un vârf în Munții Albi.",
+                  "text": "Un vârf de 4000 de picioare în Munții Albi, o destinație populară de drumeție.",
                   "category": "natural",
                   "coords": [
                         -71.53597,
@@ -2582,7 +2582,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Scar Ridge",
-                  "text": "Scar Ridge este un vârf în Munții Albi.",
+                  "text": "O creastă lungă în Munții Albi, cunoscută pentru muchia sa stâncoasă.",
                   "category": "natural",
                   "coords": [
                         -71.594414,
@@ -2591,7 +2591,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Bald Mountain",
-                  "text": "Bald Mountain este un vârf în Munții Albi.",
+                  "text": "Un vârf de munte fără copaci în regiunea montană a SUA, cu vedere panoramică.",
                   "category": "natural",
                   "coords": [
                         -71.586349,
@@ -2600,7 +2600,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Tecumseh",
-                  "text": "Mount Tecumseh este un vârf în Munții Albi.",
+                  "text": "Un vârf de 4000 de picioare în Munții Albi, numit după șeful Șaunilor, Tecumseh.",
                   "category": "natural",
                   "coords": [
                         -71.556594,
@@ -2609,7 +2609,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Green Mountain",
-                  "text": "Green Mountain este un vârf în Munții Albi.",
+                  "text": "Un munte împădurit în regiunea montană a SUA, acoperit de conifere.",
                   "category": "natural",
                   "coords": [
                         -71.560798,
@@ -2618,7 +2618,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Fisher Mountain",
-                  "text": "Fisher Mountain este un vârf în Munții Albi.",
+                  "text": "Un munte în regiunea montană a SUA, numit după un pescar sau o familie.",
                   "category": "natural",
                   "coords": [
                         -71.586527,
@@ -2627,7 +2627,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Black Mountain",
-                  "text": "Black Mountain este un vârf în Munții Albi.",
+                  "text": "Un munte întunecat și stâncos în regiunea montană a SUA, adesea folosit ca reper.",
                   "category": "natural",
                   "coords": [
                         -71.604971,
@@ -2636,7 +2636,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Hitchcock",
-                  "text": "Mount Hitchcock este un vârf în Munții Albi.",
+                  "text": "Un munte în regiunea montană a SUA, numit după geologul Edward Hitchcock.",
                   "category": "natural",
                   "coords": [
                         -71.539245,
@@ -2645,7 +2645,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "South Hancock",
-                  "text": "South Hancock este un vârf în Munții Albi.",
+                  "text": "Vârful sudic al Muntelui Hancock din Munții Albi, un munte de 4000 de picioare.",
                   "category": "natural",
                   "coords": [
                         -71.486945,
@@ -2654,7 +2654,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Hancock",
-                  "text": "Mount Hancock este un vârf în Munții Albi.",
+                  "text": "Un vârf de 4000 de picioare în Munții Albi, numit după John Hancock.",
                   "category": "natural",
                   "coords": [
                         -71.493202,
@@ -2663,7 +2663,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Jennings Peak",
-                  "text": "Jennings Peak este un vârf în Munții Albi.",
+                  "text": "Un vârf în Munții Albi, numit după o familie locală.",
                   "category": "natural",
                   "coords": [
                         -71.510738,
@@ -2672,7 +2672,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "The Scaur",
-                  "text": "The Scaur este un vârf în Munții Albi.",
+                  "text": "Un afloriment stâncos în Munții Albi, cu o stâncă abruptă.",
                   "category": "natural",
                   "coords": [
                         -71.495937,
@@ -2681,7 +2681,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Flume Peak",
-                  "text": "Flume Peak este un vârf în Munții Albi.",
+                  "text": "Un vârf lângă Cheile Flume din Munții Albi, un loc popular de drumeție.",
                   "category": "natural",
                   "coords": [
                         -71.479712,
@@ -2690,7 +2690,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Waterville Flume viewpoint",
-                  "text": "Waterville Flume viewpoint este un punct de belvedere în Munții Albi.",
+                  "text": "Un punct de belvedere asupra unui jgheab istoric pentru plutitul lemnului în Munții Albi.",
                   "category": "natural",
                   "coords": [
                         -71.476867,
@@ -2699,7 +2699,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Middle Tripyramid",
-                  "text": "Middle Tripyramid este un vârf în Munții Albi.",
+                  "text": "Vârful de mijloc al masivului Tripyramid din Munții Albi, un munte de 4000 de picioare.",
                   "category": "natural",
                   "coords": [
                         -71.440074,
@@ -2708,7 +2708,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "South Tripyramid",
-                  "text": "South Tripyramid este un vârf în Munții Albi.",
+                  "text": "Vârful sudic al masivului Tripyramid din Munții Albi, un munte de 4000 de picioare.",
                   "category": "natural",
                   "coords": [
                         -71.441359,
@@ -2717,7 +2717,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "The Fool Killer",
-                  "text": "The Fool Killer este un vârf în Munții Albi.",
+                  "text": "O stâncă periculoasă în Munții Albi, cunoscută pentru prăpastia sa trădătoare.",
                   "category": "natural",
                   "coords": [
                         -71.428623,
@@ -2726,7 +2726,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "North Tripyramid",
-                  "text": "North Tripyramid este un vârf în Munții Albi.",
+                  "text": "Vârful nordic al masivului Tripyramid din Munții Albi, un munte de 4000 de picioare.",
                   "category": "natural",
                   "coords": [
                         -71.442779,
@@ -2735,7 +2735,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Scaur Peak",
-                  "text": "Scaur Peak este un vârf în Munții Albi.",
+                  "text": "Un vârf lângă Scaur în Munții Albi.",
                   "category": "natural",
                   "coords": [
                         -71.450084,
@@ -2744,7 +2744,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sugar Hill Scenic Vista",
-                  "text": "Sugar Hill Scenic Vista este un punct de belvedere în Munții Albi.",
+                  "text": "O vedere panoramică asupra zonei Sugar Hill în Munții Albi.",
                   "category": "natural",
                   "coords": [
                         -71.427672,
@@ -2753,7 +2753,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Hix Mountain",
-                  "text": "Hix Mountain este un vârf în Munții Albi.",
+                  "text": "Un munte în Munții Albi, numit după o personalitate locală.",
                   "category": "natural",
                   "coords": [
                         -71.618357,
@@ -2762,7 +2762,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Hogback Mountain",
-                  "text": "Hogback Mountain este un vârf în Munții Albi.",
+                  "text": "O creastă în regiunea montană a SUA, cu un profil de spinare de porc.",
                   "category": "natural",
                   "coords": [
                         -71.578593,
@@ -2771,7 +2771,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Curious George Cottage",
-                  "text": "Curious George Cottage este un muzeu în Munții Albi.",
+                  "text": "Căsuța din Waterville Valley, New Hampshire, unde au fost create cărțile Curious George.",
                   "category": "museum",
                   "coords": [
                         -71.501591,
@@ -2780,7 +2780,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Greeley Ponds Scenic Area",
-                  "text": "Greeley Ponds Scenic Area este o rezervație naturală în Munții Albi.",
+                  "text": "O zonă pitorească cu o serie de iazuri montane limpezi în Munții Albi.",
                   "category": "natural",
                   "coords": [
                         -71.504392,
@@ -2791,7 +2791,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "en": [
             {
                   "name": "Noon Peak",
-                  "text": "A peak in the White Mountains of New Hampshire.",
+                  "text": "A peak in the mountain region of the USA, named for the midday sun.",
                   "category": "natural",
                   "coords": [
                         -71.501511,
@@ -2800,7 +2800,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Huntington",
-                  "text": "Mount Huntington is a peak in the White Mountains.",
+                  "text": "A mountain in the mountain region of the USA, named after an explorer.",
                   "category": "natural",
                   "coords": [
                         -71.491188,
@@ -2809,7 +2809,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Greens Cliff",
-                  "text": "Greens Cliff is a cliff in the White Mountains.",
+                  "text": "A cliff in the mountain region of the USA, covered with green moss.",
                   "category": "landmark",
                   "coords": [
                         -71.402297,
@@ -2818,7 +2818,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Kancamagus",
-                  "text": "Mount Kancamagus is a peak in the White Mountains.",
+                  "text": "A mountain in the mountain region of the USA, near the Kancamagus Highway.",
                   "category": "natural",
                   "coords": [
                         -71.479016,
@@ -2827,7 +2827,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "East Peak",
-                  "text": "East Peak is a peak in the White Mountains.",
+                  "text": "A peak on the eastern side of a ridge in the mountain region of the USA.",
                   "category": "natural",
                   "coords": [
                         -71.520585,
@@ -2836,7 +2836,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Pemigewasset Overlook",
-                  "text": "Pemigewasset Overlook is a viewpoint in the White Mountains.",
+                  "text": "A scenic viewpoint of the Pemigewasset River valley in the White Mountains.",
                   "category": "natural",
                   "coords": [
                         -71.495523,
@@ -2845,7 +2845,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Scar Ridge East Peak",
-                  "text": "Scar Ridge East Peak is a peak in the White Mountains.",
+                  "text": "The eastern peak of Scar Ridge in the mountain region of the USA, a rugged summit.",
                   "category": "natural",
                   "coords": [
                         -71.565114,
@@ -2854,7 +2854,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Peggy's Perch",
-                  "text": "Peggy's Perch is a viewpoint in the White Mountains.",
+                  "text": "A rocky ledge with views of the Franconia Range in the White Mountains.",
                   "category": "natural",
                   "coords": [
                         -71.546922,
@@ -2863,7 +2863,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Osceola",
-                  "text": "Mount Osceola is a peak in the White Mountains.",
+                  "text": "A 4,000-foot peak in the White Mountains, a popular hiking destination.",
                   "category": "natural",
                   "coords": [
                         -71.53597,
@@ -2872,7 +2872,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Scar Ridge",
-                  "text": "Scar Ridge is a peak in the White Mountains.",
+                  "text": "A long ridge in the White Mountains, known for its rocky crest.",
                   "category": "natural",
                   "coords": [
                         -71.594414,
@@ -2881,7 +2881,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Bald Mountain",
-                  "text": "Bald Mountain is a peak in the White Mountains.",
+                  "text": "A treeless mountain summit in the mountain region of the USA, offering panoramic views.",
                   "category": "natural",
                   "coords": [
                         -71.586349,
@@ -2890,7 +2890,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Tecumseh",
-                  "text": "Mount Tecumseh is a peak in the White Mountains.",
+                  "text": "A 4,000-foot peak in the White Mountains, named after the Shawnee chief Tecumseh.",
                   "category": "natural",
                   "coords": [
                         -71.556594,
@@ -2899,7 +2899,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Green Mountain",
-                  "text": "Green Mountain is a peak in the White Mountains.",
+                  "text": "A forested mountain in the mountain region of the USA, covered with evergreen trees.",
                   "category": "natural",
                   "coords": [
                         -71.560798,
@@ -2908,7 +2908,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Fisher Mountain",
-                  "text": "Fisher Mountain is a peak in the White Mountains.",
+                  "text": "A mountain in the mountain region of the USA, named after a fisherman or a family.",
                   "category": "natural",
                   "coords": [
                         -71.586527,
@@ -2917,7 +2917,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Black Mountain",
-                  "text": "Black Mountain is a peak in the White Mountains.",
+                  "text": "A dark, rocky mountain in the mountain region of the USA, often used as a landmark.",
                   "category": "natural",
                   "coords": [
                         -71.604971,
@@ -2926,7 +2926,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Hitchcock",
-                  "text": "Mount Hitchcock is a peak in the White Mountains.",
+                  "text": "A mountain in the mountain region of the USA, named after geologist Edward Hitchcock.",
                   "category": "natural",
                   "coords": [
                         -71.539245,
@@ -2935,7 +2935,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "South Hancock",
-                  "text": "South Hancock is a peak in the White Mountains.",
+                  "text": "The southern peak of Mount Hancock in the White Mountains, a 4,000-foot mountain.",
                   "category": "natural",
                   "coords": [
                         -71.486945,
@@ -2944,7 +2944,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Hancock",
-                  "text": "Mount Hancock is a peak in the White Mountains.",
+                  "text": "A 4,000-foot peak in the White Mountains, named after John Hancock.",
                   "category": "natural",
                   "coords": [
                         -71.493202,
@@ -2953,7 +2953,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Jennings Peak",
-                  "text": "Jennings Peak is a peak in the White Mountains.",
+                  "text": "A peak in the White Mountains, named after a local family.",
                   "category": "natural",
                   "coords": [
                         -71.510738,
@@ -2962,7 +2962,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "The Scaur",
-                  "text": "The Scaur is a peak in the White Mountains.",
+                  "text": "A rocky outcrop in the White Mountains, with a steep cliff.",
                   "category": "natural",
                   "coords": [
                         -71.495937,
@@ -2971,7 +2971,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Flume Peak",
-                  "text": "Flume Peak is a peak in the White Mountains.",
+                  "text": "A peak near the Flume Gorge in the White Mountains, a popular hiking spot.",
                   "category": "natural",
                   "coords": [
                         -71.479712,
@@ -2980,7 +2980,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Waterville Flume viewpoint",
-                  "text": "Waterville Flume viewpoint is a viewpoint in the White Mountains.",
+                  "text": "An overlook of a historic logging flume in the White Mountains.",
                   "category": "natural",
                   "coords": [
                         -71.476867,
@@ -2989,7 +2989,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Middle Tripyramid",
-                  "text": "Middle Tripyramid is a peak in the White Mountains.",
+                  "text": "The middle peak of the Tripyramid massif in the White Mountains, a 4,000-foot mountain.",
                   "category": "natural",
                   "coords": [
                         -71.440074,
@@ -2998,7 +2998,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "South Tripyramid",
-                  "text": "South Tripyramid is a peak in the White Mountains.",
+                  "text": "The southern peak of the Tripyramid massif in the White Mountains, a 4,000-foot mountain.",
                   "category": "natural",
                   "coords": [
                         -71.441359,
@@ -3007,7 +3007,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "The Fool Killer",
-                  "text": "The Fool Killer is a peak in the White Mountains.",
+                  "text": "A dangerous cliff in the White Mountains, known for its treacherous drop.",
                   "category": "natural",
                   "coords": [
                         -71.428623,
@@ -3016,7 +3016,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "North Tripyramid",
-                  "text": "North Tripyramid is a peak in the White Mountains.",
+                  "text": "The northern peak of the Tripyramid massif in the White Mountains, a 4,000-foot mountain.",
                   "category": "natural",
                   "coords": [
                         -71.442779,
@@ -3025,7 +3025,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Scaur Peak",
-                  "text": "Scaur Peak is a peak in the White Mountains.",
+                  "text": "A peak near The Scaur in the White Mountains.",
                   "category": "natural",
                   "coords": [
                         -71.450084,
@@ -3034,7 +3034,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sugar Hill Scenic Vista",
-                  "text": "Sugar Hill Scenic Vista is a viewpoint in the White Mountains.",
+                  "text": "A panoramic vista of the Sugar Hill area in the White Mountains.",
                   "category": "natural",
                   "coords": [
                         -71.427672,
@@ -3043,7 +3043,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Hix Mountain",
-                  "text": "Hix Mountain is a peak in the White Mountains.",
+                  "text": "A mountain in the White Mountains, named after a local figure.",
                   "category": "natural",
                   "coords": [
                         -71.618357,
@@ -3052,7 +3052,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Hogback Mountain",
-                  "text": "Hogback Mountain is a peak in the White Mountains.",
+                  "text": "A ridge in the mountain region of the USA, with a hogback profile.",
                   "category": "natural",
                   "coords": [
                         -71.578593,
@@ -3061,7 +3061,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Curious George Cottage",
-                  "text": "Curious George Cottage is a museum in the White Mountains.",
+                  "text": "The cottage in Waterville Valley, New Hampshire, where the Curious George books were created.",
                   "category": "museum",
                   "coords": [
                         -71.501591,
@@ -3070,7 +3070,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Greeley Ponds Scenic Area",
-                  "text": "Greeley Ponds Scenic Area is a nature reserve in the White Mountains.",
+                  "text": "A scenic area with a series of clear mountain ponds in the White Mountains.",
                   "category": "natural",
                   "coords": [
                         -71.504392,
@@ -3117,7 +3117,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "de": [
             {
                   "name": "Pine Hill",
-                  "text": "Ein Gipfel in den Adirondack Mountains.",
+                  "text": "Ein Hügel in der Region Mountains, bewachsen mit Kiefern.",
                   "category": "natural",
                   "coords": [
                         -74.028754,
@@ -3126,7 +3126,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Rist Mountain",
-                  "text": "Ein Gipfel in den Adirondack Mountains.",
+                  "text": "Ein Berg in der Region Mountains, benannt nach einem Landvermesser.",
                   "category": "natural",
                   "coords": [
                         -73.987366,
@@ -3135,7 +3135,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "North River Mountains",
-                  "text": "Ein Gipfel in den Adirondack Mountains.",
+                  "text": "Ein Gebirgszug entlang des North River in der Region Mountains.",
                   "category": "natural",
                   "coords": [
                         -74.009589,
@@ -3144,7 +3144,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Guideboard Hill",
-                  "text": "Ein Gipfel in den Adirondack Mountains.",
+                  "text": "Ein Hügel in der Bergregion, benannt nach einem historischen Wegweiser.",
                   "category": "natural",
                   "coords": [
                         -74.064869,
@@ -3153,7 +3153,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Howard Hill",
-                  "text": "Ein Gipfel in den Adirondack Mountains.",
+                  "text": "Ein bewaldeter Hügel in der Bergregion.",
                   "category": "natural",
                   "coords": [
                         -74.061535,
@@ -3162,7 +3162,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Roosevelt Hill",
-                  "text": "Ein Gipfel in den Adirondack Mountains.",
+                  "text": "Ein Hügel in der Bergregion, nach Präsident Roosevelt benannt.",
                   "category": "natural",
                   "coords": [
                         -74.038754,
@@ -3171,7 +3171,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Hedgehog Hill",
-                  "text": "Ein Gipfel in den Adirondack Mountains.",
+                  "text": "Ein kleiner, runder Hügel in der Bergregion, der an einen Igel erinnert.",
                   "category": "natural",
                   "coords": [
                         -74.089037,
@@ -3180,7 +3180,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Spruce Hill",
-                  "text": "Ein Gipfel in den Adirondack Mountains.",
+                  "text": "Ein mit Fichten bewachsener Hügel in der Bergregion.",
                   "category": "natural",
                   "coords": [
                         -74.122927,
@@ -3189,7 +3189,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Lower Duck Hole",
-                  "text": "Eine Bucht in den Adirondack Mountains.",
+                  "text": "Ein kleines Teichloch in der Bergregion, das oft von Enten besucht wird.",
                   "category": "landmark",
                   "coords": [
                         -74.119868,
@@ -3198,7 +3198,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Andrew",
-                  "text": "Ein Gipfel in den Adirondack Mountains.",
+                  "text": "Ein markanter Gipfel in der Bergregion.",
                   "category": "natural",
                   "coords": [
                         -74.093483,
@@ -3207,7 +3207,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sanford Hill",
-                  "text": "Ein Gipfel in den Adirondack Mountains.",
+                  "text": "Ein Hügel in der Bergregion, benannt nach einer lokalen Familie.",
                   "category": "natural",
                   "coords": [
                         -74.045425,
@@ -3216,7 +3216,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Echo Mountain",
-                  "text": "Ein Gipfel in den Adirondack Mountains.",
+                  "text": "Ein Berg in der Bergregion, bekannt für sein Echo.",
                   "category": "natural",
                   "coords": [
                         -74.065625,
@@ -3225,7 +3225,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Adams",
-                  "text": "Ein Gipfel in den Adirondack Mountains.",
+                  "text": "Ein Berg in der Bergregion, ein beliebtes Wanderziel.",
                   "category": "natural",
                   "coords": [
                         -74.025573,
@@ -3234,7 +3234,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Popple Hill",
-                  "text": "Ein Gipfel in den Adirondack Mountains.",
+                  "text": "Ein Hügel in der Bergregion, benannt nach den Pappelbäumen.",
                   "category": "natural",
                   "coords": [
                         -74.022647,
@@ -3243,7 +3243,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cheney Cobble",
-                  "text": "Ein Gipfel in den Adirondack Mountains.",
+                  "text": "Ein felsiger Buckel (Cobble) in der Bergregion.",
                   "category": "natural",
                   "coords": [
                         -73.964865,
@@ -3252,7 +3252,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Moose Mountain",
-                  "text": "Ein Gipfel in den Adirondack Mountains.",
+                  "text": "Ein Berg in der Bergregion, wo oft Elche gesichtet werden.",
                   "category": "natural",
                   "coords": [
                         -73.92153,
@@ -3261,7 +3261,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Allen Lookout East",
-                  "text": "Ein Aussichtspunkt in den Adirondack Mountains.",
+                  "text": "Ein Aussichtspunkt in der Bergregion, benannt nach John Allen.",
                   "category": "natural",
                   "coords": [
                         -73.939708,
@@ -3270,7 +3270,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Boreas Mountain",
-                  "text": "Ein Gipfel in den Adirondack Mountains.",
+                  "text": "Ein Berg in der Bergregion, nach dem Nordwind Boreas benannt.",
                   "category": "natural",
                   "coords": [
                         -73.880694,
@@ -3279,7 +3279,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Wolf Pond Mountain",
-                  "text": "Ein Berggipfel in den Adirondacks.",
+                  "text": "Ein Berg in der Bergregion, nahe dem Wolf Pond gelegen.",
                   "category": "natural",
                   "coords": [
                         -73.878193,
@@ -3288,7 +3288,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "State Admin Area",
-                  "text": "Ein Naturschutzgebiet innerhalb des Adirondack Parks.",
+                  "text": "Ein staatliches Forstverwaltungszentrum in den Bergen.",
                   "category": "natural",
                   "coords": [
                         -73.941646,
@@ -3297,7 +3297,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Boreas Ponds Primitive Area",
-                  "text": "Ein primitives Gebiet in den Adirondacks, bekannt für seine Teiche und Wildnis.",
+                  "text": "Ein Wildnisgebiet mit unberührten Seen in den Adirondack Mountains.",
                   "category": "natural",
                   "coords": [
                         -73.933872,
@@ -3306,7 +3306,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Macintyre Primitive Area",
-                  "text": "Ein primitives Gebiet in den Adirondacks.",
+                  "text": "Ein primitives Gebiet in der High Peaks Region der Adirondacks.",
                   "category": "natural",
                   "coords": [
                         -74.03833,
@@ -3315,7 +3315,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "McIntyre Blast Furnace",
-                  "text": "Ein historischer Hochofen aus der Eisenbergbauzeit.",
+                  "text": "Eine Ruine eines Eisenhochofens aus dem 19. Jahrhundert in den Adirondack Mountains.",
                   "category": "landmark",
                   "coords": [
                         -74.056255,
@@ -3326,7 +3326,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "hu": [
             {
                   "name": "Pine Hill",
-                  "text": "Egy csúcs az Adirondack-hegységben.",
+                  "text": "Egy domb a Mountains régióban, fenyőkkel borított.",
                   "category": "natural",
                   "coords": [
                         -74.028754,
@@ -3335,7 +3335,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Rist Mountain",
-                  "text": "Egy csúcs az Adirondack-hegységben.",
+                  "text": "Egy hegy a Mountains régióban, egy földmérőről elnevezve.",
                   "category": "natural",
                   "coords": [
                         -73.987366,
@@ -3344,7 +3344,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "North River Mountains",
-                  "text": "Egy csúcs az Adirondack-hegységben.",
+                  "text": "Egy hegyvonulat a North River mentén a Mountains régióban.",
                   "category": "natural",
                   "coords": [
                         -74.009589,
@@ -3353,7 +3353,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Guideboard Hill",
-                  "text": "Egy csúcs az Adirondack-hegységben.",
+                  "text": "Egy domb a Hegyvidéken, amely egy történelmi irányjelzőről kapta a nevét.",
                   "category": "natural",
                   "coords": [
                         -74.064869,
@@ -3362,7 +3362,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Howard Hill",
-                  "text": "Egy csúcs az Adirondack-hegységben.",
+                  "text": "Egy erdős domb a Hegyvidéken.",
                   "category": "natural",
                   "coords": [
                         -74.061535,
@@ -3371,7 +3371,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Roosevelt Hill",
-                  "text": "Egy csúcs az Adirondack-hegységben.",
+                  "text": "Egy domb a Hegyvidéken, Roosevelt elnökről elnevezve.",
                   "category": "natural",
                   "coords": [
                         -74.038754,
@@ -3380,7 +3380,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Hedgehog Hill",
-                  "text": "Egy csúcs az Adirondack-hegységben.",
+                  "text": "Egy kis, kerek domb a Hegyvidéken, amely egy sünre emlékeztet.",
                   "category": "natural",
                   "coords": [
                         -74.089037,
@@ -3389,7 +3389,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Spruce Hill",
-                  "text": "Egy csúcs az Adirondack-hegységben.",
+                  "text": "Egy fenyőkkel borított domb a Hegyvidéken.",
                   "category": "natural",
                   "coords": [
                         -74.122927,
@@ -3398,7 +3398,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Lower Duck Hole",
-                  "text": "Egy öböl az Adirondack-hegységben.",
+                  "text": "Egy kis tócsás mélyedés a Hegyvidéken, amelyet gyakran látogatnak kacsák.",
                   "category": "landmark",
                   "coords": [
                         -74.119868,
@@ -3407,7 +3407,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Andrew",
-                  "text": "Egy csúcs az Adirondack-hegységben.",
+                  "text": "Egy jellegzetes csúcs a Hegyvidéken.",
                   "category": "natural",
                   "coords": [
                         -74.093483,
@@ -3416,7 +3416,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sanford Hill",
-                  "text": "Egy csúcs az Adirondack-hegységben.",
+                  "text": "Egy domb a Hegyvidéken, egy helyi családról elnevezve.",
                   "category": "natural",
                   "coords": [
                         -74.045425,
@@ -3425,7 +3425,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Echo Mountain",
-                  "text": "Egy csúcs az Adirondack-hegységben.",
+                  "text": "Egy hegy a Hegyvidéken, híres a visszhangjáról.",
                   "category": "natural",
                   "coords": [
                         -74.065625,
@@ -3434,7 +3434,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Adams",
-                  "text": "Egy csúcs az Adirondack-hegységben.",
+                  "text": "Egy hegy a Hegyvidéken, népszerű kirándulóhely.",
                   "category": "natural",
                   "coords": [
                         -74.025573,
@@ -3443,7 +3443,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Popple Hill",
-                  "text": "Egy csúcs az Adirondack-hegységben.",
+                  "text": "Egy domb a Hegyvidéken, a nyárfákról elnevezve.",
                   "category": "natural",
                   "coords": [
                         -74.022647,
@@ -3452,7 +3452,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cheney Cobble",
-                  "text": "Egy csúcs az Adirondack-hegységben.",
+                  "text": "Egy sziklás kiemelkedés (Cobble) a Hegyvidéken.",
                   "category": "natural",
                   "coords": [
                         -73.964865,
@@ -3461,7 +3461,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Moose Mountain",
-                  "text": "Egy csúcs az Adirondack-hegységben.",
+                  "text": "Egy hegy a Hegyvidéken, ahol gyakran látnak jávorszarvasokat.",
                   "category": "natural",
                   "coords": [
                         -73.92153,
@@ -3470,7 +3470,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Allen Lookout East",
-                  "text": "Egy kilátó az Adirondack-hegységben.",
+                  "text": "Egy kilátópont a Hegyvidéken, John Allenről elnevezve.",
                   "category": "natural",
                   "coords": [
                         -73.939708,
@@ -3479,7 +3479,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Boreas Mountain",
-                  "text": "Egy csúcs az Adirondack-hegységben.",
+                  "text": "Egy hegy a Hegyvidéken, a Boreasz északi szélről elnevezve.",
                   "category": "natural",
                   "coords": [
                         -73.880694,
@@ -3488,7 +3488,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Wolf Pond Mountain",
-                  "text": "Egy hegycsúcs az Adirondack-hegységben.",
+                  "text": "Egy hegy a Hegyvidéken, a Farkas-tó közelében.",
                   "category": "natural",
                   "coords": [
                         -73.878193,
@@ -3497,7 +3497,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "State Admin Area",
-                  "text": "Természetvédelmi terület az Adirondack Parkban.",
+                  "text": "Állami erdészeti igazgatási központ a hegyekben.",
                   "category": "natural",
                   "coords": [
                         -73.941646,
@@ -3506,7 +3506,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Boreas Ponds Primitive Area",
-                  "text": "Egy vadon élő terület az Adirondack-hegységben, tavairól és vadonjáról ismert.",
+                  "text": "Vadon terület érintetlen tavakkal az Adirondack-hegységben.",
                   "category": "natural",
                   "coords": [
                         -73.933872,
@@ -3515,7 +3515,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Macintyre Primitive Area",
-                  "text": "Egy vadon élő terület az Adirondack-hegységben.",
+                  "text": "Primitív terület a High Peaks régióban az Adirondack-hegységben.",
                   "category": "natural",
                   "coords": [
                         -74.03833,
@@ -3524,7 +3524,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "McIntyre Blast Furnace",
-                  "text": "Egy történelmi nagyolvasztó a vasbányászat korából.",
+                  "text": "Egy 19. századi vaskohó romja az Adirondack-hegységben.",
                   "category": "landmark",
                   "coords": [
                         -74.056255,
@@ -3535,7 +3535,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "ro": [
             {
                   "name": "Pine Hill",
-                  "text": "Un vârf în Munții Adirondack.",
+                  "text": "Un deal în regiunea Mountains, acoperit cu pini.",
                   "category": "natural",
                   "coords": [
                         -74.028754,
@@ -3544,7 +3544,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Rist Mountain",
-                  "text": "Un vârf în Munții Adirondack.",
+                  "text": "Un munte în regiunea Mountains, numit după un topograf.",
                   "category": "natural",
                   "coords": [
                         -73.987366,
@@ -3553,7 +3553,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "North River Mountains",
-                  "text": "Un vârf în Munții Adirondack.",
+                  "text": "Un lanț muntos de-a lungul râului North River în regiunea Mountains.",
                   "category": "natural",
                   "coords": [
                         -74.009589,
@@ -3562,7 +3562,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Guideboard Hill",
-                  "text": "Un vârf în Munții Adirondack.",
+                  "text": "Un deal în regiunea Munților, numit după un indicator istoric.",
                   "category": "natural",
                   "coords": [
                         -74.064869,
@@ -3571,7 +3571,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Howard Hill",
-                  "text": "Un vârf în Munții Adirondack.",
+                  "text": "Un deal împădurit în regiunea Munților.",
                   "category": "natural",
                   "coords": [
                         -74.061535,
@@ -3580,7 +3580,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Roosevelt Hill",
-                  "text": "Un vârf în Munții Adirondack.",
+                  "text": "Un deal în regiunea Munților, numit după președintele Roosevelt.",
                   "category": "natural",
                   "coords": [
                         -74.038754,
@@ -3589,7 +3589,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Hedgehog Hill",
-                  "text": "Un vârf în Munții Adirondack.",
+                  "text": "Un deal mic și rotund în regiunea Munților, care amintește de un arici.",
                   "category": "natural",
                   "coords": [
                         -74.089037,
@@ -3598,7 +3598,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Spruce Hill",
-                  "text": "Un vârf în Munții Adirondack.",
+                  "text": "Un deal acoperit de molizi în regiunea Munților.",
                   "category": "natural",
                   "coords": [
                         -74.122927,
@@ -3607,7 +3607,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Lower Duck Hole",
-                  "text": "Un golf în Munții Adirondack.",
+                  "text": "O mică gaură de baltă în regiunea Munților, des vizitată de rațe.",
                   "category": "landmark",
                   "coords": [
                         -74.119868,
@@ -3616,7 +3616,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Andrew",
-                  "text": "Un vârf în Munții Adirondack.",
+                  "text": "Un vârf proeminent în regiunea Munților.",
                   "category": "natural",
                   "coords": [
                         -74.093483,
@@ -3625,7 +3625,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sanford Hill",
-                  "text": "Un vârf în Munții Adirondack.",
+                  "text": "Un deal în regiunea Munților, numit după o familie locală.",
                   "category": "natural",
                   "coords": [
                         -74.045425,
@@ -3634,7 +3634,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Echo Mountain",
-                  "text": "Un vârf în Munții Adirondack.",
+                  "text": "Un munte în regiunea Munților, cunoscut pentru ecoul său.",
                   "category": "natural",
                   "coords": [
                         -74.065625,
@@ -3643,7 +3643,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Adams",
-                  "text": "Un vârf în Munții Adirondack.",
+                  "text": "Un munte în regiunea Munților, o destinație populară pentru drumeții.",
                   "category": "natural",
                   "coords": [
                         -74.025573,
@@ -3652,7 +3652,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Popple Hill",
-                  "text": "Un vârf în Munții Adirondack.",
+                  "text": "Un deal în regiunea Munților, numit după plopi.",
                   "category": "natural",
                   "coords": [
                         -74.022647,
@@ -3661,7 +3661,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cheney Cobble",
-                  "text": "Un vârf în Munții Adirondack.",
+                  "text": "O ridicătură stâncoasă (cobble) în regiunea Munților.",
                   "category": "natural",
                   "coords": [
                         -73.964865,
@@ -3670,7 +3670,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Moose Mountain",
-                  "text": "Un vârf în Munții Adirondack.",
+                  "text": "Un munte în regiunea Munților, unde se zăresc adesea elani.",
                   "category": "natural",
                   "coords": [
                         -73.92153,
@@ -3679,7 +3679,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Allen Lookout East",
-                  "text": "Un punct de belvedere în Munții Adirondack.",
+                  "text": "Un punct de belvedere în regiunea Munților, numit după John Allen.",
                   "category": "natural",
                   "coords": [
                         -73.939708,
@@ -3688,7 +3688,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Boreas Mountain",
-                  "text": "Un vârf în Munții Adirondack.",
+                  "text": "Un munte în regiunea Munților, numit după vântul nordic Boreas.",
                   "category": "natural",
                   "coords": [
                         -73.880694,
@@ -3697,7 +3697,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Wolf Pond Mountain",
-                  "text": "Un vârf de munte în Munții Adirondack.",
+                  "text": "Un munte în regiunea Munților, situat lângă Wolf Pond.",
                   "category": "natural",
                   "coords": [
                         -73.878193,
@@ -3706,7 +3706,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "State Admin Area",
-                  "text": "O rezervație naturală în Parcul Adirondack.",
+                  "text": "Un centru de administrare a pădurilor de stat situat în munți.",
                   "category": "natural",
                   "coords": [
                         -73.941646,
@@ -3715,7 +3715,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Boreas Ponds Primitive Area",
-                  "text": "O zonă primitivă în Munții Adirondack, cunoscută pentru iazurile și sălbăticia sa.",
+                  "text": "O zonă sălbatică cu iazuri virgine în Munții Adirondack.",
                   "category": "natural",
                   "coords": [
                         -73.933872,
@@ -3724,7 +3724,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Macintyre Primitive Area",
-                  "text": "O zonă primitivă în Munții Adirondack.",
+                  "text": "O zonă primitivă în regiunea High Peaks a Munților Adirondack.",
                   "category": "natural",
                   "coords": [
                         -74.03833,
@@ -3733,7 +3733,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "McIntyre Blast Furnace",
-                  "text": "Un furnal istoric din epoca mineritului de fier.",
+                  "text": "O ruină a unui furnal de fier din secolul al XIX-lea în Munții Adirondack.",
                   "category": "landmark",
                   "coords": [
                         -74.056255,
@@ -3744,7 +3744,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "en": [
             {
                   "name": "Pine Hill",
-                  "text": "A peak in the Adirondack Mountains.",
+                  "text": "A hill in the Mountains region, covered with pine trees.",
                   "category": "natural",
                   "coords": [
                         -74.028754,
@@ -3753,7 +3753,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Rist Mountain",
-                  "text": "A peak in the Adirondack Mountains.",
+                  "text": "A mountain in the Mountains region, named after a surveyor.",
                   "category": "natural",
                   "coords": [
                         -73.987366,
@@ -3762,7 +3762,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "North River Mountains",
-                  "text": "A peak in the Adirondack Mountains.",
+                  "text": "A mountain range along the North River in the Mountains region.",
                   "category": "natural",
                   "coords": [
                         -74.009589,
@@ -3771,7 +3771,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Guideboard Hill",
-                  "text": "A peak in the Adirondack Mountains.",
+                  "text": "A hill in the Mountains region, named for a historic guideboard.",
                   "category": "natural",
                   "coords": [
                         -74.064869,
@@ -3780,7 +3780,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Howard Hill",
-                  "text": "A peak in the Adirondack Mountains.",
+                  "text": "A forested hill in the Mountains region.",
                   "category": "natural",
                   "coords": [
                         -74.061535,
@@ -3789,7 +3789,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Roosevelt Hill",
-                  "text": "A peak in the Adirondack Mountains.",
+                  "text": "A hill in the Mountains region, named after President Roosevelt.",
                   "category": "natural",
                   "coords": [
                         -74.038754,
@@ -3798,7 +3798,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Hedgehog Hill",
-                  "text": "A peak in the Adirondack Mountains.",
+                  "text": "A small, rounded hill in the Mountains region, reminiscent of a hedgehog.",
                   "category": "natural",
                   "coords": [
                         -74.089037,
@@ -3807,7 +3807,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Spruce Hill",
-                  "text": "A peak in the Adirondack Mountains.",
+                  "text": "A hill covered with spruce trees in the Mountains region.",
                   "category": "natural",
                   "coords": [
                         -74.122927,
@@ -3816,7 +3816,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Lower Duck Hole",
-                  "text": "A bay in the Adirondack Mountains.",
+                  "text": "A small pond hole in the Mountains region, often visited by ducks.",
                   "category": "landmark",
                   "coords": [
                         -74.119868,
@@ -3825,7 +3825,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Andrew",
-                  "text": "A peak in the Adirondack Mountains.",
+                  "text": "A prominent peak in the Mountains region.",
                   "category": "natural",
                   "coords": [
                         -74.093483,
@@ -3834,7 +3834,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sanford Hill",
-                  "text": "A peak in the Adirondack Mountains.",
+                  "text": "A hill in the Mountains region, named after a local family.",
                   "category": "natural",
                   "coords": [
                         -74.045425,
@@ -3843,7 +3843,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Echo Mountain",
-                  "text": "A peak in the Adirondack Mountains.",
+                  "text": "A mountain in the Mountains region, known for its echo.",
                   "category": "natural",
                   "coords": [
                         -74.065625,
@@ -3852,7 +3852,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Adams",
-                  "text": "A peak in the Adirondack Mountains.",
+                  "text": "A mountain in the Mountains region, a popular hiking destination.",
                   "category": "natural",
                   "coords": [
                         -74.025573,
@@ -3861,7 +3861,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Popple Hill",
-                  "text": "A peak in the Adirondack Mountains.",
+                  "text": "A hill in the Mountains region, named for the poplar trees.",
                   "category": "natural",
                   "coords": [
                         -74.022647,
@@ -3870,7 +3870,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cheney Cobble",
-                  "text": "A peak in the Adirondack Mountains.",
+                  "text": "A rocky knob (cobble) in the Mountains region.",
                   "category": "natural",
                   "coords": [
                         -73.964865,
@@ -3879,7 +3879,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Moose Mountain",
-                  "text": "A peak in the Adirondack Mountains.",
+                  "text": "A mountain in the Mountains region, where moose are often sighted.",
                   "category": "natural",
                   "coords": [
                         -73.92153,
@@ -3888,7 +3888,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Allen Lookout East",
-                  "text": "A viewpoint in the Adirondack Mountains.",
+                  "text": "A lookout point in the Mountains region, named after John Allen.",
                   "category": "natural",
                   "coords": [
                         -73.939708,
@@ -3897,7 +3897,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Boreas Mountain",
-                  "text": "A peak in the Adirondack Mountains.",
+                  "text": "A mountain in the Mountains region, named for the north wind Boreas.",
                   "category": "natural",
                   "coords": [
                         -73.880694,
@@ -3906,7 +3906,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Wolf Pond Mountain",
-                  "text": "A mountain peak in the Adirondacks.",
+                  "text": "A mountain in the Mountains region, near Wolf Pond.",
                   "category": "natural",
                   "coords": [
                         -73.878193,
@@ -3915,7 +3915,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "State Admin Area",
-                  "text": "A nature reserve within the Adirondack Park.",
+                  "text": "A state forest administration center located in the mountains.",
                   "category": "natural",
                   "coords": [
                         -73.941646,
@@ -3924,7 +3924,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Boreas Ponds Primitive Area",
-                  "text": "A primitive area in the Adirondacks known for its ponds and wilderness.",
+                  "text": "A wilderness area with pristine ponds in the Adirondack Mountains.",
                   "category": "natural",
                   "coords": [
                         -73.933872,
@@ -3933,7 +3933,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Macintyre Primitive Area",
-                  "text": "A primitive area in the Adirondacks.",
+                  "text": "A primitive area in the High Peaks region of the Adirondacks.",
                   "category": "natural",
                   "coords": [
                         -74.03833,
@@ -3942,7 +3942,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "McIntyre Blast Furnace",
-                  "text": "A historic blast furnace from the iron mining era.",
+                  "text": "A 19th-century iron blast furnace ruin in the Adirondack Mountains.",
                   "category": "landmark",
                   "coords": [
                         -74.056255,
@@ -3998,7 +3998,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "LM Peak",
-                  "text": "Aussichtspunkt am LM Peak im Big-Bend-Gebiet.",
+                  "text": "Ein Vulkanberg in der Cascade Range nahe Bend, Oregon.",
                   "category": "natural",
                   "coords": [
                         -103.266704,
@@ -4007,7 +4007,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Chisos Mountains Tree Zone",
-                  "text": "Aussichtspunkt in der Baumzone des Chisos-Gebirges.",
+                  "text": "Die Höhengrenze, ab der Bäume in den Chisos Mountains, Big Bend, nicht mehr wachsen.",
                   "category": "natural",
                   "coords": [
                         -103.281592,
@@ -4016,7 +4016,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Lost Mine Peak",
-                  "text": "Ein Gipfel in der Big Bend Region.",
+                  "text": "Ein Gipfel nahe Bend, Oregon, benannt nach einer verlorenen Mine.",
                   "category": "natural",
                   "coords": [
                         -103.25823,
@@ -4045,7 +4045,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "LM Peak",
-                  "text": "Kilátó az LM Peak-en a Big Bend régióban.",
+                  "text": "Vulkanikus csúcs a Cascade Range-ben, Bend közelében, Oregon.",
                   "category": "natural",
                   "coords": [
                         -103.266704,
@@ -4054,7 +4054,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Chisos Mountains Tree Zone",
-                  "text": "Kilátó a Chisos-hegység faövezetében.",
+                  "text": "A magassági határ, ahol a fák megszűnnek növekedni a Chisos-hegységben, Big Bend.",
                   "category": "natural",
                   "coords": [
                         -103.281592,
@@ -4063,7 +4063,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Lost Mine Peak",
-                  "text": "Egy csúcs a Big Bend régióban.",
+                  "text": "Egy csúcs Bend közelében, Oregonban, egy elveszett bányáról elnevezve.",
                   "category": "natural",
                   "coords": [
                         -103.25823,
@@ -4092,7 +4092,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "LM Peak",
-                  "text": "Punct de belvedere pe vârful LM în zona Big Bend.",
+                  "text": "Un vârf vulcanic în lanțul Cascade lângă Bend, Oregon.",
                   "category": "natural",
                   "coords": [
                         -103.266704,
@@ -4101,7 +4101,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Chisos Mountains Tree Zone",
-                  "text": "Punct de belvedere în zona arborilor din Munții Chisos.",
+                  "text": "Limita de altitudine unde copacii încetează să crească în Munții Chisos, Big Bend.",
                   "category": "natural",
                   "coords": [
                         -103.281592,
@@ -4110,7 +4110,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Lost Mine Peak",
-                  "text": "Un vârf în regiunea Big Bend.",
+                  "text": "Un vârf lângă Bend, Oregon, numit după o mină pierdută.",
                   "category": "natural",
                   "coords": [
                         -103.25823,
@@ -4139,7 +4139,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "LM Peak",
-                  "text": "Viewpoint at LM Peak in the Big Bend region.",
+                  "text": "A volcanic peak in the Cascade Range near Bend, Oregon.",
                   "category": "natural",
                   "coords": [
                         -103.266704,
@@ -4148,7 +4148,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Chisos Mountains Tree Zone",
-                  "text": "Viewpoint in the tree zone of the Chisos Mountains.",
+                  "text": "The elevation boundary where trees stop growing in the Chisos Mountains, Big Bend.",
                   "category": "natural",
                   "coords": [
                         -103.281592,
@@ -4157,7 +4157,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Lost Mine Peak",
-                  "text": "A peak in the Big Bend region.",
+                  "text": "A peak near Bend, Oregon, named after a lost mine.",
                   "category": "natural",
                   "coords": [
                         -103.25823,
@@ -4231,7 +4231,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Thunderhead Falls",
-                  "text": "Ein Wasserfall in den Black Hills.",
+                  "text": "Ein 15 Meter hoher Wasserfall in den Black Hills von South Dakota.",
                   "category": "landmark",
                   "coords": [
                         -103.413247,
@@ -4258,7 +4258,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sheridan Lake South",
-                  "text": "Ein Strandabschnitt am südlichen Ufer des Sheridan Lake.",
+                  "text": "Ein Stausee in den Black Hills, beliebt zum Bootfahren und Angeln.",
                   "category": "recreational",
                   "coords": [
                         -103.481001,
@@ -4267,7 +4267,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sheridan Lake North",
-                  "text": "Ein Strandabschnitt am nördlichen Ufer des Sheridan Lake.",
+                  "text": "Der nördliche Arm des Sheridan Lake in den Black Hills.",
                   "category": "recreational",
                   "coords": [
                         -103.476323,
@@ -4296,7 +4296,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Thunderhead Falls",
-                  "text": "Egy vízesés a Black Hillsben.",
+                  "text": "Egy 15 méteres vízesés a Black Hills-ben, Dél-Dakota.",
                   "category": "landmark",
                   "coords": [
                         -103.413247,
@@ -4323,7 +4323,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sheridan Lake South",
-                  "text": "Egy strand a Sheridan-tó déli partján.",
+                  "text": "Víztározó a Black Hills-ben, népszerű csónakázáshoz és horgászathoz.",
                   "category": "recreational",
                   "coords": [
                         -103.481001,
@@ -4332,7 +4332,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sheridan Lake North",
-                  "text": "Egy strand a Sheridan-tó északi partján.",
+                  "text": "A Sheridan-tó északi ága a Black Hills-ben.",
                   "category": "recreational",
                   "coords": [
                         -103.476323,
@@ -4361,7 +4361,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Thunderhead Falls",
-                  "text": "O cascadă în Black Hills.",
+                  "text": "O cascadă de 15 metri în dealurile negre (Black Hills) din Dakota de Sud.",
                   "category": "landmark",
                   "coords": [
                         -103.413247,
@@ -4388,7 +4388,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sheridan Lake South",
-                  "text": "O plajă pe malul sudic al lacului Sheridan.",
+                  "text": "Un lac de acumulare în dealurile negre (Black Hills), popular pentru bărci și pescuit.",
                   "category": "recreational",
                   "coords": [
                         -103.481001,
@@ -4397,7 +4397,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sheridan Lake North",
-                  "text": "O plajă pe malul nordic al lacului Sheridan.",
+                  "text": "Brațul de nord al Lacului Sheridan în dealurile negre (Black Hills).",
                   "category": "recreational",
                   "coords": [
                         -103.476323,
@@ -4426,7 +4426,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Thunderhead Falls",
-                  "text": "A waterfall attraction in the Black Hills.",
+                  "text": "A 50-foot waterfall in the Black Hills of South Dakota.",
                   "category": "landmark",
                   "coords": [
                         -103.413247,
@@ -4453,7 +4453,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sheridan Lake South",
-                  "text": "A beach area on the southern shore of Sheridan Lake.",
+                  "text": "A reservoir in the Black Hills popular for boating and fishing.",
                   "category": "recreational",
                   "coords": [
                         -103.481001,
@@ -4462,7 +4462,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sheridan Lake North",
-                  "text": "A beach area on the northern shore of Sheridan Lake.",
+                  "text": "The northern arm of Sheridan Lake in the Black Hills.",
                   "category": "recreational",
                   "coords": [
                         -103.476323,
@@ -4509,7 +4509,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "de": [
             {
                   "name": "Bobby's Hole Dugway",
-                  "text": "Bobby's Hole Dugway ist eine Attraktion im Colorado-Plateau-Relief-Gebiet.",
+                  "text": "Eine steile, kurvenreiche Straße, die in ein Plateau im Colorado-Plateau gehauen wurde.",
                   "category": "landmark",
                   "coords": [
                         -109.937569,
@@ -4518,7 +4518,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Impossible Hill (Top)",
-                  "text": "Eine Attraktion auf dem Gipfel eines Hügels im Colorado-Plateau.",
+                  "text": "Die Spitze eines steilen Hügels auf dem Colorado-Plateau.",
                   "category": "landmark",
                   "coords": [
                         -109.94866,
@@ -4527,7 +4527,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Impossible Hill (Bottom)",
-                  "text": "Eine Attraktion am Fuß eines Hügels im Colorado-Plateau.",
+                  "text": "Der Fuß eines steilen Hügels auf dem Colorado-Plateau.",
                   "category": "landmark",
                   "coords": [
                         -109.950934,
@@ -4536,7 +4536,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Imperial Canyon Overlook",
-                  "text": "Ein Aussichtspunkt über den Imperial Canyon.",
+                  "text": "Ein Aussichtspunkt über den Imperial Canyon auf dem Colorado-Plateau.",
                   "category": "natural",
                   "coords": [
                         -110.023689,
@@ -4545,7 +4545,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Gypsum Canyon Overlook",
-                  "text": "Ein Aussichtspunkt über den Gypsum Canyon.",
+                  "text": "Ein Aussichtspunkt über den Gypsum Canyon auf dem Colorado-Plateau.",
                   "category": "natural",
                   "coords": [
                         -110.044399,
@@ -4554,7 +4554,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Farmhouse Ruin",
-                  "text": "Ruinen eines Bauernhauses im Colorado-Plateau.",
+                  "text": "Ruine eines Bauernhauses auf dem Plateau.",
                   "category": "historical",
                   "coords": [
                         -109.917882,
@@ -4563,7 +4563,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Tower Ruin",
-                  "text": "Ruinen eines Turms im Colorado-Plateau.",
+                  "text": "Turmruine auf dem Plateau.",
                   "category": "historical",
                   "coords": [
                         -109.898385,
@@ -4574,7 +4574,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "hu": [
             {
                   "name": "Bobby's Hole Dugway",
-                  "text": "A Bobby's Hole Dugway egy attrakció a Colorado-fennsík relief területén.",
+                  "text": "Egy meredek, kanyargós út, amelyet egy platóba vágtak a Colorado-fennsíkon.",
                   "category": "landmark",
                   "coords": [
                         -109.937569,
@@ -4583,7 +4583,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Impossible Hill (Top)",
-                  "text": "Egy dombtetőn található látványosság a Colorado-fennsíkon.",
+                  "text": "Egy meredek domb teteje a Colorado-fennsíkon.",
                   "category": "landmark",
                   "coords": [
                         -109.94866,
@@ -4592,7 +4592,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Impossible Hill (Bottom)",
-                  "text": "Egy domb alján található látványosság a Colorado-fennsíkon.",
+                  "text": "Egy meredek domb lábánál a Colorado-fennsíkon.",
                   "category": "landmark",
                   "coords": [
                         -109.950934,
@@ -4601,7 +4601,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Imperial Canyon Overlook",
-                  "text": "Kilátó az Imperial-kanyon felett.",
+                  "text": "Kilátó az Imperial-kanyonra a Colorado-fennsíkon.",
                   "category": "natural",
                   "coords": [
                         -110.023689,
@@ -4610,7 +4610,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Gypsum Canyon Overlook",
-                  "text": "Kilátó a Gypsum-kanyon felett.",
+                  "text": "Kilátó a Gypsum-kanyonra a Colorado-fennsíkon.",
                   "category": "natural",
                   "coords": [
                         -110.044399,
@@ -4619,7 +4619,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Farmhouse Ruin",
-                  "text": "Egy tanya romjai a Colorado-fennsíkon.",
+                  "text": "Tanya romja a fennsíkon.",
                   "category": "historical",
                   "coords": [
                         -109.917882,
@@ -4628,7 +4628,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Tower Ruin",
-                  "text": "Egy torony romjai a Colorado-fennsíkon.",
+                  "text": "Toronyrom a fennsíkon.",
                   "category": "historical",
                   "coords": [
                         -109.898385,
@@ -4639,7 +4639,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "ro": [
             {
                   "name": "Bobby's Hole Dugway",
-                  "text": "Bobby's Hole Dugway este o atracție în zona reliefului Platoului Colorado.",
+                  "text": "Un drum abrupt și șerpuit săpat într-un platou pe Podișul Colorado.",
                   "category": "landmark",
                   "coords": [
                         -109.937569,
@@ -4648,7 +4648,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Impossible Hill (Top)",
-                  "text": "O atracție pe vârful unui deal pe Podișul Colorado.",
+                  "text": "Vârful unui deal abrupt pe Podișul Colorado.",
                   "category": "landmark",
                   "coords": [
                         -109.94866,
@@ -4657,7 +4657,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Impossible Hill (Bottom)",
-                  "text": "O atracție la baza unui deal pe Podișul Colorado.",
+                  "text": "Baza unui deal abrupt pe Podișul Colorado.",
                   "category": "landmark",
                   "coords": [
                         -109.950934,
@@ -4666,7 +4666,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Imperial Canyon Overlook",
-                  "text": "Un punct de belvedere deasupra canionului Imperial.",
+                  "text": "Un punct de belvedere asupra Canionului Imperial pe Podișul Colorado.",
                   "category": "natural",
                   "coords": [
                         -110.023689,
@@ -4675,7 +4675,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Gypsum Canyon Overlook",
-                  "text": "Un punct de belvedere deasupra canionului Gypsum.",
+                  "text": "Un punct de belvedere asupra Canionului Gypsum pe Podișul Colorado.",
                   "category": "natural",
                   "coords": [
                         -110.044399,
@@ -4684,7 +4684,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Farmhouse Ruin",
-                  "text": "Ruinele unei ferme pe Podișul Colorado.",
+                  "text": "Ruinele unei ferme pe podiș.",
                   "category": "historical",
                   "coords": [
                         -109.917882,
@@ -4693,7 +4693,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Tower Ruin",
-                  "text": "Ruinele unui turn pe Podișul Colorado.",
+                  "text": "Ruinele unui turn pe podiș.",
                   "category": "historical",
                   "coords": [
                         -109.898385,
@@ -4704,7 +4704,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "en": [
             {
                   "name": "Bobby's Hole Dugway",
-                  "text": "Bobby's Hole Dugway is an attraction in the Colorado Plateau relief area.",
+                  "text": "A steep winding road carved into a plateau in the Colorado Plateau.",
                   "category": "landmark",
                   "coords": [
                         -109.937569,
@@ -4713,7 +4713,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Impossible Hill (Top)",
-                  "text": "An attraction at the top of a hill on the Colorado Plateau.",
+                  "text": "The summit of a steep hill on the Colorado Plateau.",
                   "category": "landmark",
                   "coords": [
                         -109.94866,
@@ -4722,7 +4722,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Impossible Hill (Bottom)",
-                  "text": "An attraction at the bottom of a hill on the Colorado Plateau.",
+                  "text": "The base of a steep hill on the Colorado Plateau.",
                   "category": "landmark",
                   "coords": [
                         -109.950934,
@@ -4731,7 +4731,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Imperial Canyon Overlook",
-                  "text": "A viewpoint overlooking Imperial Canyon.",
+                  "text": "An overlook of Imperial Canyon on the Colorado Plateau.",
                   "category": "natural",
                   "coords": [
                         -110.023689,
@@ -4740,7 +4740,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Gypsum Canyon Overlook",
-                  "text": "A viewpoint overlooking Gypsum Canyon.",
+                  "text": "An overlook of Gypsum Canyon on the Colorado Plateau.",
                   "category": "natural",
                   "coords": [
                         -110.044399,
@@ -4749,7 +4749,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Farmhouse Ruin",
-                  "text": "Ruins of a farmhouse on the Colorado Plateau.",
+                  "text": "Farmhouse ruin on the plateau.",
                   "category": "historical",
                   "coords": [
                         -109.917882,
@@ -4758,7 +4758,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Tower Ruin",
-                  "text": "Ruins of a tower on the Colorado Plateau.",
+                  "text": "Tower ruin on the plateau.",
                   "category": "historical",
                   "coords": [
                         -109.898385,
@@ -4880,7 +4880,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "South Rim Viewpoint",
-                  "text": "Aussichtspunkt auf den Südrand des Chisos-Beckens.",
+                  "text": "Aussichtspunkt am Südrand der Berge.",
                   "category": "natural",
                   "coords": [
                         -103.302843,
@@ -4889,7 +4889,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Emory Peak",
-                  "text": "Emory Peak ist der höchste Gipfel der Chisos Mountains.",
+                  "text": "Der höchste Punkt im Big-Bend-Nationalpark auf 2.385 Metern.",
                   "category": "natural",
                   "coords": [
                         -103.3051,
@@ -4898,7 +4898,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Homer Wilson Ranch Overlook",
-                  "text": "Aussichtspunkt auf die historische Homer Wilson Ranch.",
+                  "text": "Aussicht über die Homer Wilson Ranch.",
                   "category": "natural",
                   "coords": [
                         -103.369061,
@@ -4907,7 +4907,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sotol Vista Overlook",
-                  "text": "Aussichtspunkt mit Blick auf die Sotol-Vista-Landschaft.",
+                  "text": "Sotol-Vista-Aussichtspunkt in den Bergen.",
                   "category": "natural",
                   "coords": [
                         -103.377373,
@@ -4925,7 +4925,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Casa Grande Peak",
-                  "text": "Ein markanter Gipfel in den Chisos Mountains.",
+                  "text": "Ein Gipfel in der Bergregion, benannt nach einem großen Haus (Casa Grande).",
                   "category": "natural",
                   "coords": [
                         -103.288117,
@@ -4934,7 +4934,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Dominguez Spring Ruins",
-                  "text": "Ruinen im Chisos-Gebirge.",
+                  "text": "Ruinen der Dominguez-Quelle in den Bergen.",
                   "category": "historical",
                   "coords": [
                         -103.309591,
@@ -4954,7 +4954,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "South Rim Viewpoint",
-                  "text": "Kilátópont a Chisos-medence déli peremén.",
+                  "text": "Kilátó a hegyek déli peremén.",
                   "category": "natural",
                   "coords": [
                         -103.302843,
@@ -4963,7 +4963,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Emory Peak",
-                  "text": "Az Emory Peak a Chisos-hegység legmagasabb csúcsa.",
+                  "text": "A Big Bend Nemzeti Park legmagasabb pontja, 2.385 méter.",
                   "category": "natural",
                   "coords": [
                         -103.3051,
@@ -4972,7 +4972,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Homer Wilson Ranch Overlook",
-                  "text": "Kilátópont a történelmi Homer Wilson Ranchra.",
+                  "text": "Kilátó a Homer Wilson Ranchra.",
                   "category": "natural",
                   "coords": [
                         -103.369061,
@@ -4981,7 +4981,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sotol Vista Overlook",
-                  "text": "Kilátópont a Sotol Vista tájra.",
+                  "text": "Sotol Vista kilátó a hegyekben.",
                   "category": "natural",
                   "coords": [
                         -103.377373,
@@ -4999,7 +4999,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Casa Grande Peak",
-                  "text": "Jellegzetes csúcs a Chisos-hegységben.",
+                  "text": "Egy csúcs a Hegyvidéken, egy nagy házról (Casa Grande) elnevezve.",
                   "category": "natural",
                   "coords": [
                         -103.288117,
@@ -5008,7 +5008,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Dominguez Spring Ruins",
-                  "text": "Romok a Chisos-hegységben.",
+                  "text": "A Dominguez-forrás romjai a hegyekben.",
                   "category": "historical",
                   "coords": [
                         -103.309591,
@@ -5028,7 +5028,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "South Rim Viewpoint",
-                  "text": "Punct de belvedere pe marginea sudică a bazinului Chisos.",
+                  "text": "Punct de belvedere la marginea de sud a munților.",
                   "category": "natural",
                   "coords": [
                         -103.302843,
@@ -5037,7 +5037,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Emory Peak",
-                  "text": "Emory Peak este cel mai înalt vârf al Munților Chisos.",
+                  "text": "Cel mai înalt punct din Parcul Național Big Bend, la 2.385 de metri.",
                   "category": "natural",
                   "coords": [
                         -103.3051,
@@ -5046,7 +5046,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Homer Wilson Ranch Overlook",
-                  "text": "Punct de belvedere asupra fermei istorice Homer Wilson.",
+                  "text": "Priveliște asupra fermei Homer Wilson.",
                   "category": "natural",
                   "coords": [
                         -103.369061,
@@ -5055,7 +5055,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sotol Vista Overlook",
-                  "text": "Punct de belvedere cu vedere spre peisajul Sotol Vista.",
+                  "text": "Priveliștea Sotol Vista în munți.",
                   "category": "natural",
                   "coords": [
                         -103.377373,
@@ -5073,7 +5073,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Casa Grande Peak",
-                  "text": "Un vârf proeminent în Munții Chisos.",
+                  "text": "Un vârf în regiunea Munților, numit după o casă mare (Casa Grande).",
                   "category": "natural",
                   "coords": [
                         -103.288117,
@@ -5082,7 +5082,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Dominguez Spring Ruins",
-                  "text": "Ruine în Munții Chisos.",
+                  "text": "Ruinele izvorului Dominguez în munți.",
                   "category": "historical",
                   "coords": [
                         -103.309591,
@@ -5102,7 +5102,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "South Rim Viewpoint",
-                  "text": "Viewpoint overlooking the south rim of the Chisos Basin.",
+                  "text": "South Rim viewpoint in the mountains.",
                   "category": "natural",
                   "coords": [
                         -103.302843,
@@ -5111,7 +5111,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Emory Peak",
-                  "text": "Emory Peak is the highest peak in the Chisos Mountains.",
+                  "text": "The highest point in Big Bend National Park at 7,825 feet.",
                   "category": "natural",
                   "coords": [
                         -103.3051,
@@ -5120,7 +5120,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Homer Wilson Ranch Overlook",
-                  "text": "Overlook providing views of the historic Homer Wilson Ranch.",
+                  "text": "Overlook of the Homer Wilson Ranch.",
                   "category": "natural",
                   "coords": [
                         -103.369061,
@@ -5129,7 +5129,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sotol Vista Overlook",
-                  "text": "Viewpoint overlooking the Sotol Vista landscape.",
+                  "text": "Sotol Vista Overlook in the mountains.",
                   "category": "natural",
                   "coords": [
                         -103.377373,
@@ -5147,7 +5147,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Casa Grande Peak",
-                  "text": "A prominent peak in the Chisos Mountains.",
+                  "text": "A peak in the Mountains region, named for a large house (Casa Grande).",
                   "category": "natural",
                   "coords": [
                         -103.288117,
@@ -5156,7 +5156,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Dominguez Spring Ruins",
-                  "text": "Ruins in the Chisos Mountains.",
+                  "text": "Dominguez Spring ruins in the mountains.",
                   "category": "historical",
                   "coords": [
                         -103.309591,
@@ -5221,7 +5221,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Timpanogos Valley Theater",
-                  "text": "Ein Theater im Timpanogos Valley, das Aufführungen bietet.",
+                  "text": "Timpanogos-Tal-Theater in Range.",
                   "category": "cultural",
                   "coords": [
                         -111.414844,
@@ -5248,7 +5248,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "High Valley Arts",
-                  "text": "Ein Veranstaltungsort für darstellende Künste im Heber Valley.",
+                  "text": "High Valley Arts – kulturelle Einrichtung in Range.",
                   "category": "cultural",
                   "coords": [
                         -111.464874,
@@ -5266,7 +5266,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "CAF Heber Valley Museum",
-                  "text": "Ein Museum der Commemorative Air Force im Heber Valley.",
+                  "text": "CAF Heber Valley Museum in Range.",
                   "category": "museum",
                   "coords": [
                         -111.429111,
@@ -5275,7 +5275,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Wasatch Mountain State Park",
-                  "text": "Ein staatlicher Park in den Wasatch Mountains mit Golf- und Wandermöglichkeiten.",
+                  "text": "Ein State Park in der Wasatch Range, bekannt für Wanderwege und Skigebiete.",
                   "category": "natural",
                   "coords": [
                         -111.509712,
@@ -5304,7 +5304,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Timpanogos Valley Theater",
-                  "text": "Színház a Timpanogos-völgyben, előadásokkal.",
+                  "text": "Timpanogos-völgy Színház Range-ben.",
                   "category": "cultural",
                   "coords": [
                         -111.414844,
@@ -5331,7 +5331,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "High Valley Arts",
-                  "text": "Előadó-művészeti helyszín a Heber-völgyben.",
+                  "text": "High Valley Arts – kulturális intézmény Range-ben.",
                   "category": "cultural",
                   "coords": [
                         -111.464874,
@@ -5349,7 +5349,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "CAF Heber Valley Museum",
-                  "text": "A Commemorative Air Force múzeuma a Heber-völgyben.",
+                  "text": "CAF Heber Valley Múzeum Range-ben.",
                   "category": "museum",
                   "coords": [
                         -111.429111,
@@ -5358,7 +5358,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Wasatch Mountain State Park",
-                  "text": "Állami park a Wasatch-hegységben golf- és túralehetőségekkel.",
+                  "text": "Egy állami park a Wasatch-hegységben, híres túraútvonalairól és síterepeiről.",
                   "category": "natural",
                   "coords": [
                         -111.509712,
@@ -5387,7 +5387,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Timpanogos Valley Theater",
-                  "text": "Un teatru în Valea Timpanogos, care găzduiește spectacole.",
+                  "text": "Teatrul Văii Timpanogos în Range.",
                   "category": "cultural",
                   "coords": [
                         -111.414844,
@@ -5414,7 +5414,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "High Valley Arts",
-                  "text": "Un loc de artă scenică în Heber Valley.",
+                  "text": "High Valley Arts – instituție culturală în Range.",
                   "category": "cultural",
                   "coords": [
                         -111.464874,
@@ -5432,7 +5432,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "CAF Heber Valley Museum",
-                  "text": "Un muzeu al Comemorative Air Force în Heber Valley.",
+                  "text": "Muzeul CAF Heber Valley în Range.",
                   "category": "museum",
                   "coords": [
                         -111.429111,
@@ -5441,7 +5441,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Wasatch Mountain State Park",
-                  "text": "Un parc de stat în Munții Wasatch, cu facilități de golf și drumeții.",
+                  "text": "Un parc de stat în Munții Wasatch, cunoscut pentru traseele de drumeție și zonele de schi.",
                   "category": "natural",
                   "coords": [
                         -111.509712,
@@ -5470,7 +5470,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Timpanogos Valley Theater",
-                  "text": "A theater in the Timpanogos Valley offering performances.",
+                  "text": "Timpanogos Valley Theater in Range.",
                   "category": "cultural",
                   "coords": [
                         -111.414844,
@@ -5497,7 +5497,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "High Valley Arts",
-                  "text": "A performing arts venue in Heber Valley.",
+                  "text": "High Valley Arts cultural venue in Range.",
                   "category": "cultural",
                   "coords": [
                         -111.464874,
@@ -5515,7 +5515,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "CAF Heber Valley Museum",
-                  "text": "A museum of the Commemorative Air Force in Heber Valley.",
+                  "text": "CAF Heber Valley Museum in Range.",
                   "category": "museum",
                   "coords": [
                         -111.429111,
@@ -5524,7 +5524,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Wasatch Mountain State Park",
-                  "text": "A state park in the Wasatch Mountains offering golf and hiking.",
+                  "text": "A state park in the Wasatch Range, popular for hiking trails and ski areas.",
                   "category": "natural",
                   "coords": [
                         -111.509712,
@@ -5571,7 +5571,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "de": [
             {
                   "name": "Crooked Creek Hill",
-                  "text": "Ein Hügel im Bighorn-Mountains-Relief-Gebiet.",
+                  "text": "Ein Hügel in der Bergregion, am Crooked Creek gelegen.",
                   "category": "natural",
                   "coords": [
                         -107.46258,
@@ -5589,7 +5589,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Bush Butte",
-                  "text": "Ein Gipfel in den Bighorn Mountains.",
+                  "text": "Ein mit Büschen bewachsener Buckel (Butte) in der Bergregion.",
                   "category": "natural",
                   "coords": [
                         -107.609251,
@@ -5598,7 +5598,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Spanish Point",
-                  "text": "Eine Klippe in den Bighorn Mountains.",
+                  "text": "Eine Landspitze in der Bergregion, benannt nach spanischen Entdeckern.",
                   "category": "landmark",
                   "coords": [
                         -107.457023,
@@ -5607,7 +5607,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Scenic Viewpoint",
-                  "text": "Ein Aussichtspunkt in den Bighorn Mountains.",
+                  "text": "Aussichtspunkt in den Bergen.",
                   "category": "natural",
                   "coords": [
                         -107.567,
@@ -5616,7 +5616,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Antelope Butte",
-                  "text": "Ein Gipfel in den Bighorn Mountains.",
+                  "text": "Ein Buckel (Butte) in der Bergregion, wo oft Antilopen grasen.",
                   "category": "natural",
                   "coords": [
                         -107.494087,
@@ -5625,7 +5625,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Trapper Creek Wilderness Study Area",
-                  "text": "Ein Wildnisstudiengebiet in den Bighorn Mountains.",
+                  "text": "Trapper Creek-Wildnisgebiet in den Bergen.",
                   "category": "natural",
                   "coords": [
                         -107.615017,
@@ -5636,7 +5636,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "hu": [
             {
                   "name": "Crooked Creek Hill",
-                  "text": "Egy domb a Bighorn-hegység reliefjének területén.",
+                  "text": "Egy domb a Hegyvidéken, a Kanyargós-patak mellett.",
                   "category": "natural",
                   "coords": [
                         -107.46258,
@@ -5654,7 +5654,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Bush Butte",
-                  "text": "Egy csúcs a Bighorn-hegységben.",
+                  "text": "Egy bokrokkal borított kiemelkedés (Butte) a Hegyvidéken.",
                   "category": "natural",
                   "coords": [
                         -107.609251,
@@ -5663,7 +5663,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Spanish Point",
-                  "text": "Egy szikla a Bighorn-hegységben.",
+                  "text": "Egy földnyelv a Hegyvidéken, spanyol felfedezőkről elnevezve.",
                   "category": "landmark",
                   "coords": [
                         -107.457023,
@@ -5672,7 +5672,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Scenic Viewpoint",
-                  "text": "Egy kilátó a Bighorn-hegységben.",
+                  "text": "Kilátó a hegyekben.",
                   "category": "natural",
                   "coords": [
                         -107.567,
@@ -5681,7 +5681,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Antelope Butte",
-                  "text": "Egy csúcs a Bighorn-hegységben.",
+                  "text": "Egy kiemelkedés (Butte) a Hegyvidéken, ahol gyakran legelnek antilopok.",
                   "category": "natural",
                   "coords": [
                         -107.494087,
@@ -5690,7 +5690,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Trapper Creek Wilderness Study Area",
-                  "text": "Egy vadon tanulmányi terület a Bighorn-hegységben.",
+                  "text": "Trapper Creek vadon élő terület a hegyekben.",
                   "category": "natural",
                   "coords": [
                         -107.615017,
@@ -5701,7 +5701,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "ro": [
             {
                   "name": "Crooked Creek Hill",
-                  "text": "Un deal în aria reliefului Munților Bighorn.",
+                  "text": "Un deal în regiunea Munților, situat lângă Crooked Creek.",
                   "category": "natural",
                   "coords": [
                         -107.46258,
@@ -5719,7 +5719,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Bush Butte",
-                  "text": "Un vârf în Munții Bighorn.",
+                  "text": "O ridicătură (butte) acoperită de tufișuri în regiunea Munților.",
                   "category": "natural",
                   "coords": [
                         -107.609251,
@@ -5728,7 +5728,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Spanish Point",
-                  "text": "O stâncă în Munții Bighorn.",
+                  "text": "Un punct de uscat în regiunea Munților, numit după exploratorii spanioli.",
                   "category": "landmark",
                   "coords": [
                         -107.457023,
@@ -5737,7 +5737,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Scenic Viewpoint",
-                  "text": "Un punct de belvedere în Munții Bighorn.",
+                  "text": "Punct de belvedere în munți.",
                   "category": "natural",
                   "coords": [
                         -107.567,
@@ -5746,7 +5746,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Antelope Butte",
-                  "text": "Un vârf în Munții Bighorn.",
+                  "text": "O ridicătură (butte) în regiunea Munților, unde pasc adesea antilope.",
                   "category": "natural",
                   "coords": [
                         -107.494087,
@@ -5755,7 +5755,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Trapper Creek Wilderness Study Area",
-                  "text": "O zonă de studiu a sălbăticiei în Munții Bighorn.",
+                  "text": "Zona sălbatică Trapper Creek în munți.",
                   "category": "natural",
                   "coords": [
                         -107.615017,
@@ -5766,7 +5766,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "en": [
             {
                   "name": "Crooked Creek Hill",
-                  "text": "A hill in the Bighorn Mountains relief area.",
+                  "text": "A hill in the Mountains region, located on Crooked Creek.",
                   "category": "natural",
                   "coords": [
                         -107.46258,
@@ -5784,7 +5784,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Bush Butte",
-                  "text": "A peak in the Bighorn Mountains.",
+                  "text": "A bush-covered butte in the Mountains region.",
                   "category": "natural",
                   "coords": [
                         -107.609251,
@@ -5793,7 +5793,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Spanish Point",
-                  "text": "A cliff in the Bighorn Mountains.",
+                  "text": "A point of land in the Mountains region, named for Spanish explorers.",
                   "category": "landmark",
                   "coords": [
                         -107.457023,
@@ -5802,7 +5802,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Scenic Viewpoint",
-                  "text": "A scenic viewpoint in the Bighorn Mountains.",
+                  "text": "Scenic viewpoint in the mountains.",
                   "category": "natural",
                   "coords": [
                         -107.567,
@@ -5811,7 +5811,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Antelope Butte",
-                  "text": "A peak in the Bighorn Mountains.",
+                  "text": "A butte in the Mountains region, where antelope often graze.",
                   "category": "natural",
                   "coords": [
                         -107.494087,
@@ -5820,7 +5820,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Trapper Creek Wilderness Study Area",
-                  "text": "A wilderness study area in the Bighorn Mountains.",
+                  "text": "Trapper Creek Wilderness Study Area in the mountains.",
                   "category": "natural",
                   "coords": [
                         -107.615017,
@@ -5867,7 +5867,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "de": [
             {
                   "name": "Mount Norton",
-                  "text": "Ein Gipfel in den Olympic Mountains.",
+                  "text": "Ein Berg in der Alaska Range, Teil des Denali-Nationalparks.",
                   "category": "natural",
                   "coords": [
                         -123.412955,
@@ -5876,7 +5876,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Claywood",
-                  "text": "Ein Gipfel in den Olympic Mountains.",
+                  "text": "Ein Gipfel in der Alaska Range in der Nähe des Denali.",
                   "category": "natural",
                   "coords": [
                         -123.369899,
@@ -5887,7 +5887,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "hu": [
             {
                   "name": "Mount Norton",
-                  "text": "Egy csúcs az Olympic-hegységben.",
+                  "text": "Hegy az Alaska-hegységben, a Denali Nemzeti Park része.",
                   "category": "natural",
                   "coords": [
                         -123.412955,
@@ -5896,7 +5896,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Claywood",
-                  "text": "Egy csúcs az Olympic-hegységben.",
+                  "text": "Csúcs az Alaska-hegységben, a Denali közelében.",
                   "category": "natural",
                   "coords": [
                         -123.369899,
@@ -5907,7 +5907,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "ro": [
             {
                   "name": "Mount Norton",
-                  "text": "Un vârf în Munții Olympic.",
+                  "text": "Un munte în lanțul Alaska, parte a Parcului Național Denali.",
                   "category": "natural",
                   "coords": [
                         -123.412955,
@@ -5916,7 +5916,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Claywood",
-                  "text": "Un vârf în Munții Olympic.",
+                  "text": "Un vârf în lanțul Alaska, aproape de Denali.",
                   "category": "natural",
                   "coords": [
                         -123.369899,
@@ -5927,7 +5927,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "en": [
             {
                   "name": "Mount Norton",
-                  "text": "A peak in the Olympic Mountains.",
+                  "text": "A mountain in the Alaska Range, part of Denali National Park.",
                   "category": "natural",
                   "coords": [
                         -123.412955,
@@ -5936,7 +5936,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Claywood",
-                  "text": "A peak in the Olympic Mountains.",
+                  "text": "A peak in the Alaska Range near Denali.",
                   "category": "natural",
                   "coords": [
                         -123.369899,
@@ -5983,7 +5983,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "de": [
             {
                   "name": "Lucky Spring",
-                  "text": "Lucky Spring ist eine Quelle in den Uinta-Bergen.",
+                  "text": "Eine Quelle in der Bergregion, der Glück bringen soll.",
                   "category": "landmark",
                   "coords": [
                         -110.066675,
@@ -5992,7 +5992,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Bennion Spring",
-                  "text": "Bennion Spring ist eine Quelle in den Uinta-Bergen.",
+                  "text": "Eine Quelle in der Bergregion, benannt nach der Familie Bennion.",
                   "category": "landmark",
                   "coords": [
                         -110.077069,
@@ -6001,7 +6001,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mesa",
-                  "text": "Mesa ist ein Gipfel in den Uinta-Bergen.",
+                  "text": "Ein Tafelberg in der Bergregion.",
                   "category": "natural",
                   "coords": [
                         -109.955708,
@@ -6010,7 +6010,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Paradise Peak",
-                  "text": "Paradise Peak ist ein Gipfel in den Uinta-Bergen.",
+                  "text": "Ein malerischer Gipfel in der Bergregion.",
                   "category": "natural",
                   "coords": [
                         -109.95543,
@@ -6019,7 +6019,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Pole Mountain",
-                  "text": "Pole Mountain ist ein Gipfel in den Uinta-Bergen.",
+                  "text": "Ein Berg in der Bergregion mit einem pfahlähnlichen Gipfel.",
                   "category": "natural",
                   "coords": [
                         -110.03821,
@@ -6028,7 +6028,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Goose Egg Peak",
-                  "text": "Goose Egg Peak ist ein Gipfel in den Uinta-Bergen.",
+                  "text": "Ein Gipfel in der Bergregion, geformt wie ein Gänseei.",
                   "category": "natural",
                   "coords": [
                         -110.104044,
@@ -6039,7 +6039,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "hu": [
             {
                   "name": "Lucky Spring",
-                  "text": "A Lucky Spring egy forrás az Uinta-hegységben.",
+                  "text": "Egy forrás a Hegyvidéken, amelyről azt tartják, szerencsét hoz.",
                   "category": "landmark",
                   "coords": [
                         -110.066675,
@@ -6048,7 +6048,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Bennion Spring",
-                  "text": "A Bennion Spring egy forrás az Uinta-hegységben.",
+                  "text": "Egy forrás a Hegyvidéken, a Bennion családról elnevezve.",
                   "category": "landmark",
                   "coords": [
                         -110.077069,
@@ -6057,7 +6057,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mesa",
-                  "text": "A Mesa egy csúcs az Uinta-hegységben.",
+                  "text": "Egy asztalhegy a Hegyvidéken.",
                   "category": "natural",
                   "coords": [
                         -109.955708,
@@ -6066,7 +6066,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Paradise Peak",
-                  "text": "A Paradise Peak egy csúcs az Uinta-hegységben.",
+                  "text": "Egy festői csúcs a Hegyvidéken.",
                   "category": "natural",
                   "coords": [
                         -109.95543,
@@ -6075,7 +6075,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Pole Mountain",
-                  "text": "A Pole Mountain egy csúcs az Uinta-hegységben.",
+                  "text": "Egy hegy a Hegyvidéken, oszlopszerű csúccsal.",
                   "category": "natural",
                   "coords": [
                         -110.03821,
@@ -6084,7 +6084,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Goose Egg Peak",
-                  "text": "A Goose Egg Peak egy csúcs az Uinta-hegységben.",
+                  "text": "Egy csúcs a Hegyvidéken, amely libatojás alakú.",
                   "category": "natural",
                   "coords": [
                         -110.104044,
@@ -6095,7 +6095,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "ro": [
             {
                   "name": "Lucky Spring",
-                  "text": "Lucky Spring este un izvor în Munții Uinta.",
+                  "text": "Un izvor în regiunea Munților, despre care se spune că aduce noroc.",
                   "category": "landmark",
                   "coords": [
                         -110.066675,
@@ -6104,7 +6104,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Bennion Spring",
-                  "text": "Bennion Spring este un izvor în Munții Uinta.",
+                  "text": "Un izvor în regiunea Munților, numit după familia Bennion.",
                   "category": "landmark",
                   "coords": [
                         -110.077069,
@@ -6113,7 +6113,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mesa",
-                  "text": "Mesa este un vârf în Munții Uinta.",
+                  "text": "Un munte cu platou în regiunea Munților.",
                   "category": "natural",
                   "coords": [
                         -109.955708,
@@ -6122,7 +6122,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Paradise Peak",
-                  "text": "Paradise Peak este un vârf în Munții Uinta.",
+                  "text": "Un vârf pitoresc în regiunea Munților.",
                   "category": "natural",
                   "coords": [
                         -109.95543,
@@ -6131,7 +6131,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Pole Mountain",
-                  "text": "Pole Mountain este un vârf în Munții Uinta.",
+                  "text": "Un munte în regiunea Munților, cu un vârf asemănător unui stâlp.",
                   "category": "natural",
                   "coords": [
                         -110.03821,
@@ -6140,7 +6140,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Goose Egg Peak",
-                  "text": "Goose Egg Peak este un vârf în Munții Uinta.",
+                  "text": "Un vârf în regiunea Munților, în formă de ou de gâscă.",
                   "category": "natural",
                   "coords": [
                         -110.104044,
@@ -6151,7 +6151,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "en": [
             {
                   "name": "Lucky Spring",
-                  "text": "Lucky Spring is a spring in the Uinta Mountains.",
+                  "text": "A spring in the Mountains region, believed to bring good luck.",
                   "category": "landmark",
                   "coords": [
                         -110.066675,
@@ -6160,7 +6160,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Bennion Spring",
-                  "text": "Bennion Spring is a spring in the Uinta Mountains.",
+                  "text": "A spring in the Mountains region, named after the Bennion family.",
                   "category": "landmark",
                   "coords": [
                         -110.077069,
@@ -6169,7 +6169,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mesa",
-                  "text": "Mesa is a peak in the Uinta Mountains.",
+                  "text": "A flat-topped mesa in the Mountains region.",
                   "category": "natural",
                   "coords": [
                         -109.955708,
@@ -6178,7 +6178,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Paradise Peak",
-                  "text": "Paradise Peak is a peak in the Uinta Mountains.",
+                  "text": "A scenic peak in the Mountains region.",
                   "category": "natural",
                   "coords": [
                         -109.95543,
@@ -6187,7 +6187,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Pole Mountain",
-                  "text": "Pole Mountain is a peak in the Uinta Mountains.",
+                  "text": "A mountain in the Mountains region, with a pole-like summit.",
                   "category": "natural",
                   "coords": [
                         -110.03821,
@@ -6196,7 +6196,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Goose Egg Peak",
-                  "text": "Goose Egg Peak is a peak in the Uinta Mountains.",
+                  "text": "A peak in the Mountains region, shaped like a goose egg.",
                   "category": "natural",
                   "coords": [
                         -110.104044,
@@ -6243,7 +6243,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "de": [
             {
                   "name": "Bradley Lake",
-                  "text": "Ein Aussichtspunkt mit Blick auf den Bradley Lake in tetons-relief-v2.",
+                  "text": "Bradley Lake in den Tetons.",
                   "category": "natural",
                   "coords": [
                         -110.751723,
@@ -6270,7 +6270,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "East Prong",
-                  "text": "East Prong ist ein Gipfel in der Teton Range.",
+                  "text": "Ein östlicher Bergkamm in der Teton Range.",
                   "category": "natural",
                   "coords": [
                         -110.79188,
@@ -6279,7 +6279,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Owen",
-                  "text": "Mount Owen ist der zweithöchste Gipfel der Teton Range.",
+                  "text": "Ein prominenter Gipfel in der Teton Range, 3.942 Meter hoch.",
                   "category": "natural",
                   "coords": [
                         -110.797425,
@@ -6315,7 +6315,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Teepe Pillar",
-                  "text": "Teepe Pillar ist ein säulenartiger Gipfel in der Teton Range.",
+                  "text": "Eine markante Felsnadel in der Teton Range, bei Kletterern beliebt.",
                   "category": "natural",
                   "coords": [
                         -110.800987,
@@ -6333,7 +6333,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Albright Peak",
-                  "text": "Albright Peak ist ein Gipfel in der Teton Range.",
+                  "text": "Ein Gipfel in der Teton Range, benannt nach John Albright.",
                   "category": "natural",
                   "coords": [
                         -110.813945,
@@ -6342,7 +6342,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Static Peak",
-                  "text": "Static Peak ist ein prominenter Gipfel in der Teton Range.",
+                  "text": "Ein Gipfel in der Teton Range mit einem flachen Gipfelplateau.",
                   "category": "natural",
                   "coords": [
                         -110.816272,
@@ -6351,7 +6351,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Buck Mountain",
-                  "text": "Buck Mountain ist ein Gipfel in der Teton Range.",
+                  "text": "Ein Gipfel in der Teton Range mit klassischer alpiner Form.",
                   "category": "natural",
                   "coords": [
                         -110.818519,
@@ -6369,7 +6369,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "South Teton",
-                  "text": "Der South Teton ist der vierthöchste Gipfel der Teton Range.",
+                  "text": "Ein Schwestergipfel des Grand Teton, 3.814 Meter hoch.",
                   "category": "natural",
                   "coords": [
                         -110.818922,
@@ -6378,7 +6378,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cloudveil Dome",
-                  "text": "Cloudveil Dome ist ein markanter kuppelförmiger Gipfel in der Teton Range.",
+                  "text": "Ein vergletscherter Gipfel in den Tetons, der oft technisch bestiegen wird.",
                   "category": "natural",
                   "coords": [
                         -110.806564,
@@ -6396,7 +6396,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Shadow Peak",
-                  "text": "Shadow Peak ist ein Gipfel in der Teton Range.",
+                  "text": "Ein Gipfel in der Teton Range, der oft im Schatten liegt.",
                   "category": "natural",
                   "coords": [
                         -110.793269,
@@ -6423,7 +6423,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Rock Face",
-                  "text": "Rock Face ist eine markante Klippe in der Teton Range.",
+                  "text": "Eine senkrechte Felswand in der Teton Range.",
                   "category": "landmark",
                   "coords": [
                         -110.696875,
@@ -6441,7 +6441,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Blacktail Butte",
-                  "text": "Blacktail Butte ist ein Gipfel in der Teton Range.",
+                  "text": "Ein Buckel (Butte) in der Teton Range, benannt nach Schwarzschwanzhirschen.",
                   "category": "natural",
                   "coords": [
                         -110.692705,
@@ -6450,7 +6450,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Shadow Mountain",
-                  "text": "Shadow Mountain ist ein Gipfel in der Teton Range.",
+                  "text": "Ein Berg in der Teton Range, der einen langen Schatten wirft.",
                   "category": "natural",
                   "coords": [
                         -110.584929,
@@ -6468,7 +6468,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Glacier Overlook",
-                  "text": "Glacier Overlook bietet Ausblicke auf die Gletscher der Teton Range.",
+                  "text": "Gletscher-Aussichtspunkt in den Tetons.",
                   "category": "natural",
                   "coords": [
                         -110.673413,
@@ -6477,7 +6477,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Teton Point Overlook",
-                  "text": "Teton Point Overlook ist ein beliebter Aussichtspunkt zum Fotografieren der Teton Range.",
+                  "text": "Teton-Point-Aussichtspunkt in den Tetons.",
                   "category": "natural",
                   "coords": [
                         -110.66031,
@@ -6486,7 +6486,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Phelps Beach",
-                  "text": "Phelps Beach ist ein Seeuferstrand am Phelps Lake im Teton-Gebirge.",
+                  "text": "Phelps Beach in den Tetons.",
                   "category": "recreational",
                   "coords": [
                         -110.801343,
@@ -6515,7 +6515,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "hu": [
             {
                   "name": "Bradley Lake",
-                  "text": "Egy kilátóhely, amely a Bradley-tóra néz, tetons-relief-v2-ben.",
+                  "text": "Bradley-tó a Tetons-ban.",
                   "category": "natural",
                   "coords": [
                         -110.751723,
@@ -6542,7 +6542,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "East Prong",
-                  "text": "Az East Prong egy csúcs a Teton-hegységben.",
+                  "text": "Egy keleti hegygerinc a Teton-hegységben.",
                   "category": "natural",
                   "coords": [
                         -110.79188,
@@ -6551,7 +6551,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Owen",
-                  "text": "A Mount Owen a Teton-hegység második legmagasabb csúcsa.",
+                  "text": "Jelentős csúcs a Teton-hegységben, 3.942 méter magas.",
                   "category": "natural",
                   "coords": [
                         -110.797425,
@@ -6587,7 +6587,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Teepe Pillar",
-                  "text": "A Teepe Pillar egy oszlopszerű csúcs a Teton-hegységben.",
+                  "text": "Jellegzetes sziklatű a Teton-hegységben, a mászók körében népszerű.",
                   "category": "natural",
                   "coords": [
                         -110.800987,
@@ -6605,7 +6605,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Albright Peak",
-                  "text": "Az Albright Peak egy csúcs a Teton-hegységben.",
+                  "text": "Egy csúcs a Teton-hegységben, John Albrightról elnevezve.",
                   "category": "natural",
                   "coords": [
                         -110.813945,
@@ -6614,7 +6614,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Static Peak",
-                  "text": "A Static Peak a Teton-hegység egyik kiemelkedő csúcsa.",
+                  "text": "Csúcs a Teton-hegységben, lapos tetejű platóval.",
                   "category": "natural",
                   "coords": [
                         -110.816272,
@@ -6623,7 +6623,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Buck Mountain",
-                  "text": "A Buck Mountain egy csúcs a Teton-hegységben.",
+                  "text": "Csúcs a Teton-hegységben, klasszikus alpesi formával.",
                   "category": "natural",
                   "coords": [
                         -110.818519,
@@ -6641,7 +6641,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "South Teton",
-                  "text": "A South Teton a Teton-hegység negyedik legmagasabb csúcsa.",
+                  "text": "A Grand Teton testvér csúcsa, 3.814 méter magas.",
                   "category": "natural",
                   "coords": [
                         -110.818922,
@@ -6650,7 +6650,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cloudveil Dome",
-                  "text": "A Cloudveil Dome egy jellegzetes kupola alakú csúcs a Teton-hegységben.",
+                  "text": "Gleccserekkel borított csúcs a Tetonokban, gyakran technikai mászás igényel.",
                   "category": "natural",
                   "coords": [
                         -110.806564,
@@ -6668,7 +6668,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Shadow Peak",
-                  "text": "A Shadow Peak egy csúcs a Teton-hegységben.",
+                  "text": "Egy csúcs a Teton-hegységben, amely gyakran árnyékban van.",
                   "category": "natural",
                   "coords": [
                         -110.793269,
@@ -6695,7 +6695,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Rock Face",
-                  "text": "A Rock Face egy jellegzetes sziklafal a Teton-hegységben.",
+                  "text": "Egy függőleges sziklafal a Teton-hegységben.",
                   "category": "landmark",
                   "coords": [
                         -110.696875,
@@ -6713,7 +6713,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Blacktail Butte",
-                  "text": "A Blacktail Butte egy csúcs a Teton-hegységben.",
+                  "text": "Egy kiemelkedés (Butte) a Teton-hegységben, a fekete farkú szarvasokról elnevezve.",
                   "category": "natural",
                   "coords": [
                         -110.692705,
@@ -6722,7 +6722,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Shadow Mountain",
-                  "text": "A Shadow Mountain egy csúcs a Teton-hegységben.",
+                  "text": "Egy hegy a Teton-hegységben, amely hosszú árnyékot vet.",
                   "category": "natural",
                   "coords": [
                         -110.584929,
@@ -6740,7 +6740,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Glacier Overlook",
-                  "text": "A Glacier Overlook kilátást nyújt a Teton-hegység gleccsereire.",
+                  "text": "Gleccser-kilátó a Tetons-ban.",
                   "category": "natural",
                   "coords": [
                         -110.673413,
@@ -6749,7 +6749,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Teton Point Overlook",
-                  "text": "A Teton Point Overlook népszerű kilátó a Teton-hegység fényképezéséhez.",
+                  "text": "Teton Point kilátó a Tetons-ban.",
                   "category": "natural",
                   "coords": [
                         -110.66031,
@@ -6758,7 +6758,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Phelps Beach",
-                  "text": "A Phelps Beach egy tóparti strand a Phelps Lake-nél a Teton-hegységben.",
+                  "text": "Phelps Beach a Tetons-ban.",
                   "category": "recreational",
                   "coords": [
                         -110.801343,
@@ -6787,7 +6787,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "ro": [
             {
                   "name": "Bradley Lake",
-                  "text": "Un punct de belvedere care oferă vedere spre Lacul Bradley în tetons-relief-v2.",
+                  "text": "Lacul Bradley în Tetons.",
                   "category": "natural",
                   "coords": [
                         -110.751723,
@@ -6814,7 +6814,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "East Prong",
-                  "text": "East Prong este un vârf în Lanțul Teton.",
+                  "text": "O creastă estică în Masivul Teton.",
                   "category": "natural",
                   "coords": [
                         -110.79188,
@@ -6823,7 +6823,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Owen",
-                  "text": "Mount Owen este al doilea cel mai înalt vârf din Lanțul Teton.",
+                  "text": "Un vârf proeminent în Munții Teton, la 3.942 de metri.",
                   "category": "natural",
                   "coords": [
                         -110.797425,
@@ -6859,7 +6859,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Teepe Pillar",
-                  "text": "Teepe Pillar este un vârf în formă de stâlp în Lanțul Teton.",
+                  "text": "Un turn de piatră distinct în Munții Teton, popular printre alpiniști.",
                   "category": "natural",
                   "coords": [
                         -110.800987,
@@ -6877,7 +6877,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Albright Peak",
-                  "text": "Albright Peak este un vârf în Lanțul Teton.",
+                  "text": "Un vârf în Masivul Teton, numit după John Albright.",
                   "category": "natural",
                   "coords": [
                         -110.813945,
@@ -6886,7 +6886,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Static Peak",
-                  "text": "Static Peak este un vârf proeminent în Lanțul Teton.",
+                  "text": "Un vârf în Munții Teton, cu un platou plat la vârf.",
                   "category": "natural",
                   "coords": [
                         -110.816272,
@@ -6895,7 +6895,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Buck Mountain",
-                  "text": "Buck Mountain este un vârf în Lanțul Teton.",
+                  "text": "Un vârf în Munții Teton, cu o formă alpină clasică.",
                   "category": "natural",
                   "coords": [
                         -110.818519,
@@ -6913,7 +6913,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "South Teton",
-                  "text": "South Teton este al patrulea cel mai înalt vârf din Lanțul Teton.",
+                  "text": "Un vârf-soră al Grand Teton, la 3.814 de metri.",
                   "category": "natural",
                   "coords": [
                         -110.818922,
@@ -6922,7 +6922,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cloudveil Dome",
-                  "text": "Cloudveil Dome este un vârf distinctiv în formă de dom în Lanțul Teton.",
+                  "text": "Un vârf glacia în Tetoni, adesea escaladat tehnic.",
                   "category": "natural",
                   "coords": [
                         -110.806564,
@@ -6940,7 +6940,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Shadow Peak",
-                  "text": "Shadow Peak este un vârf în Lanțul Teton.",
+                  "text": "Un vârf în Masivul Teton, adesea în umbră.",
                   "category": "natural",
                   "coords": [
                         -110.793269,
@@ -6967,7 +6967,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Rock Face",
-                  "text": "Rock Face este o stâncă proeminentă în Lanțul Teton.",
+                  "text": "Un perete vertical de stâncă în Masivul Teton.",
                   "category": "landmark",
                   "coords": [
                         -110.696875,
@@ -6985,7 +6985,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Blacktail Butte",
-                  "text": "Blacktail Butte este un vârf în Lanțul Teton.",
+                  "text": "O ridicătură (butte) în Masivul Teton, numită după cerbii cu coadă neagră.",
                   "category": "natural",
                   "coords": [
                         -110.692705,
@@ -6994,7 +6994,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Shadow Mountain",
-                  "text": "Shadow Mountain este un vârf în Lanțul Teton.",
+                  "text": "Un munte în Masivul Teton, care aruncă o umbră lungă.",
                   "category": "natural",
                   "coords": [
                         -110.584929,
@@ -7012,7 +7012,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Glacier Overlook",
-                  "text": "Glacier Overlook oferă vederi asupra ghețarilor din Lanțul Teton.",
+                  "text": "Priveliște asupra ghețarului în Tetons.",
                   "category": "natural",
                   "coords": [
                         -110.673413,
@@ -7021,7 +7021,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Teton Point Overlook",
-                  "text": "Teton Point Overlook este un punct de belvedere popular pentru fotografierea Lanțului Teton.",
+                  "text": "Punctul Teton Point în Tetons.",
                   "category": "natural",
                   "coords": [
                         -110.66031,
@@ -7030,7 +7030,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Phelps Beach",
-                  "text": "Phelps Beach este o plajă pe malul lacului Phelps din Lanțul Teton.",
+                  "text": "Plaja Phelps în Tetons.",
                   "category": "recreational",
                   "coords": [
                         -110.801343,
@@ -7059,7 +7059,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "en": [
             {
                   "name": "Bradley Lake",
-                  "text": "A viewpoint overlooking Bradley Lake in tetons-relief-v2.",
+                  "text": "Bradley Lake in the Tetons.",
                   "category": "natural",
                   "coords": [
                         -110.751723,
@@ -7086,7 +7086,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "East Prong",
-                  "text": "East Prong is a peak in the Teton Range.",
+                  "text": "An eastern ridge in the Teton Range.",
                   "category": "natural",
                   "coords": [
                         -110.79188,
@@ -7095,7 +7095,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Owen",
-                  "text": "Mount Owen is the second highest peak in the Teton Range.",
+                  "text": "A prominent peak in the Teton Range at 12,928 feet.",
                   "category": "natural",
                   "coords": [
                         -110.797425,
@@ -7131,7 +7131,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Teepe Pillar",
-                  "text": "Teepe Pillar is a pillar-like peak in the Teton Range.",
+                  "text": "A distinct spire in the Teton Range, popular with rock climbers.",
                   "category": "natural",
                   "coords": [
                         -110.800987,
@@ -7149,7 +7149,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Albright Peak",
-                  "text": "Albright Peak is a summit in the Teton Range.",
+                  "text": "A peak in the Teton Range, named after John Albright.",
                   "category": "natural",
                   "coords": [
                         -110.813945,
@@ -7158,7 +7158,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Static Peak",
-                  "text": "Static Peak is a prominent peak in the Teton Range.",
+                  "text": "A summit in the Teton Range with a flat top.",
                   "category": "natural",
                   "coords": [
                         -110.816272,
@@ -7167,7 +7167,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Buck Mountain",
-                  "text": "Buck Mountain is a peak in the Teton Range.",
+                  "text": "A peak in the Teton Range with a classic alpine shape.",
                   "category": "natural",
                   "coords": [
                         -110.818519,
@@ -7185,7 +7185,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "South Teton",
-                  "text": "South Teton is the fourth highest peak in the Teton Range.",
+                  "text": "A sister peak to the Grand Teton at 12,514 feet.",
                   "category": "natural",
                   "coords": [
                         -110.818922,
@@ -7194,7 +7194,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cloudveil Dome",
-                  "text": "Cloudveil Dome is a distinctive dome-shaped peak in the Teton Range.",
+                  "text": "A glaciated peak in the Tetons, often climbed as a technical route.",
                   "category": "natural",
                   "coords": [
                         -110.806564,
@@ -7212,7 +7212,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Shadow Peak",
-                  "text": "Shadow Peak is a summit in the Teton Range.",
+                  "text": "A peak in the Teton Range, often in shadow.",
                   "category": "natural",
                   "coords": [
                         -110.793269,
@@ -7239,7 +7239,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Rock Face",
-                  "text": "Rock Face is a prominent cliff in the Teton Range.",
+                  "text": "A vertical rock face in the Teton Range.",
                   "category": "landmark",
                   "coords": [
                         -110.696875,
@@ -7257,7 +7257,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Blacktail Butte",
-                  "text": "Blacktail Butte is a summit in the Teton Range.",
+                  "text": "A butte in the Teton Range, named for black-tailed deer.",
                   "category": "natural",
                   "coords": [
                         -110.692705,
@@ -7266,7 +7266,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Shadow Mountain",
-                  "text": "Shadow Mountain is a peak in the Teton Range.",
+                  "text": "A mountain in the Teton Range, casting a long shadow.",
                   "category": "natural",
                   "coords": [
                         -110.584929,
@@ -7284,7 +7284,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Glacier Overlook",
-                  "text": "Glacier Overlook provides views of Teton glaciers.",
+                  "text": "Glacier Overlook in the Tetons.",
                   "category": "natural",
                   "coords": [
                         -110.673413,
@@ -7293,7 +7293,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Teton Point Overlook",
-                  "text": "Teton Point Overlook is a popular viewpoint for photographing the Teton Range.",
+                  "text": "Teton Point Overlook in the Tetons.",
                   "category": "natural",
                   "coords": [
                         -110.66031,
@@ -7302,7 +7302,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Phelps Beach",
-                  "text": "Phelps Beach is a lakeside beach on Phelps Lake in the Teton Range.",
+                  "text": "Phelps Beach in the Tetons.",
                   "category": "recreational",
                   "coords": [
                         -110.801343,
@@ -7367,7 +7367,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "de": [
             {
                   "name": "Horton Peak",
-                  "text": "Der Horton Peak ist ein Gipfel in den Sawtooth Mountains.",
+                  "text": "Ein Gipfel in der Bergregion, benannt nach einer Person.",
                   "category": "natural",
                   "coords": [
                         -114.748402,
@@ -7376,7 +7376,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sawtooth National Recreation Area",
-                  "text": "Das Sawtooth National Recreation Area ist ein Schutzgebiet in den Sawtooth Mountains, Teil des Sawtooth National Forest.",
+                  "text": "Ein riesiges alpines Gebiet mit Hunderten von Gipfeln und Seen.",
                   "category": "natural",
                   "coords": [
                         -114.813394,
@@ -7387,7 +7387,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "hu": [
             {
                   "name": "Horton Peak",
-                  "text": "A Horton Peak egy csúcs a Sawtooth-hegységben.",
+                  "text": "Egy csúcs a Hegyvidéken, egy személyről elnevezve.",
                   "category": "natural",
                   "coords": [
                         -114.748402,
@@ -7396,7 +7396,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sawtooth National Recreation Area",
-                  "text": "A Sawtooth National Recreation Area egy védett terület a Sawtooth-hegységben, a Sawtooth National Forest része.",
+                  "text": "Hatalmas alpesi terület több száz csúccsal és tóval.",
                   "category": "natural",
                   "coords": [
                         -114.813394,
@@ -7407,7 +7407,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "ro": [
             {
                   "name": "Horton Peak",
-                  "text": "Horton Peak este un vârf în Munții Sawtooth.",
+                  "text": "Un vârf în regiunea Munților, numit după o persoană.",
                   "category": "natural",
                   "coords": [
                         -114.748402,
@@ -7416,7 +7416,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sawtooth National Recreation Area",
-                  "text": "Sawtooth National Recreation Area este o arie protejată în Munții Sawtooth, parte a Pădurii Naționale Sawtooth.",
+                  "text": "O vastă zonă alpină cu sute de vârfuri și lacuri.",
                   "category": "natural",
                   "coords": [
                         -114.813394,
@@ -7427,7 +7427,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "en": [
             {
                   "name": "Horton Peak",
-                  "text": "Horton Peak is a peak in the Sawtooth Mountains.",
+                  "text": "A peak in the Mountains region, named after a person.",
                   "category": "natural",
                   "coords": [
                         -114.748402,
@@ -7436,7 +7436,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sawtooth National Recreation Area",
-                  "text": "Sawtooth National Recreation Area is a protected area in the Sawtooth Mountains, part of the Sawtooth National Forest.",
+                  "text": "A vast alpine area with hundreds of peaks and lakes.",
                   "category": "natural",
                   "coords": [
                         -114.813394,
@@ -7519,7 +7519,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cascade River - Trezise Conservation Area",
-                  "text": "Cascade River - Trezise Conservation Area ist ein Naturschutzgebiet im Cascades Volcanic North Relief Gebiet.",
+                  "text": "Cascade River-Trezise-Schutzgebiet im Vulkangebiet Nord.",
                   "category": "natural",
                   "coords": [
                         -121.404293,
@@ -7719,7 +7719,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cascade River - Trezise Conservation Area",
-                  "text": "Cascade River - Trezise Conservation Area egy természetvédelmi terület a Cascades Volcanic North Relief területen.",
+                  "text": "Cascade River-Trezise Védett Terület a Vulkáni Északon.",
                   "category": "natural",
                   "coords": [
                         -121.404293,
@@ -7919,7 +7919,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cascade River - Trezise Conservation Area",
-                  "text": "Cascade River - Trezise Conservation Area este o rezervație naturală în zona Cascades Volcanic North Relief.",
+                  "text": "Zona de conservare Cascade River-Trezise în Nordul Vulcanic.",
                   "category": "natural",
                   "coords": [
                         -121.404293,
@@ -8119,7 +8119,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cascade River - Trezise Conservation Area",
-                  "text": "Cascade River - Trezise Conservation Area is a nature reserve in the Cascades Volcanic North Relief area.",
+                  "text": "Cascade River - Trezise Conservation Area in Volcanic North.",
                   "category": "natural",
                   "coords": [
                         -121.404293,

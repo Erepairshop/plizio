@@ -39,7 +39,88 @@ export const poiExtraArmeniaNatureV2: POI[] = [
       fr: [],
     }, image: "/poi-images/lake-sevan-nature-v2.webp"},
   {
-    id: "mount-aragats-nature-v2",
+    id: "mount-aragats-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vid na Malyi vodopad",
+                  "text": "Aussichtspunkt auf einen kleinen Gebirgswasserfall am Hang des Aragats.",
+                  "category": "natural",
+                  "coords": [
+                        44.19623,
+                        40.508811
+                  ]
+            },
+            {
+                  "name": "Բաշբրիյայլա",
+                  "text": "Überreste einer alten Bergsiedlung an den hohen Hängen des Vulkans Aragats.",
+                  "category": "historical",
+                  "coords": [
+                        44.299443,
+                        40.485509
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vid na Malyi vodopad",
+                  "text": "Kilátópont egy kis hegyi vízesésre az Aragac-hegy lejtőjén.",
+                  "category": "natural",
+                  "coords": [
+                        44.19623,
+                        40.508811
+                  ]
+            },
+            {
+                  "name": "Բաշբրիյայլա",
+                  "text": "Egy régi hegyi település maradványai az Aragac magas lejtőin.",
+                  "category": "historical",
+                  "coords": [
+                        44.299443,
+                        40.485509
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vid na Malyi vodopad",
+                  "text": "Punct de observație spre o mică cascadă montană de pe muntele Aragats.",
+                  "category": "natural",
+                  "coords": [
+                        44.19623,
+                        40.508811
+                  ]
+            },
+            {
+                  "name": "Բաշբրիյայլա",
+                  "text": "Rămășițele unei vechi așezări montane pe versanții înalți ai muntelui Aragats.",
+                  "category": "historical",
+                  "coords": [
+                        44.299443,
+                        40.485509
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vid na Malyi vodopad",
+                  "text": "Natural viewpoint overlooking a small mountain waterfall on Mount Aragats.",
+                  "category": "natural",
+                  "coords": [
+                        44.19623,
+                        40.508811
+                  ]
+            },
+            {
+                  "name": "Բաշբրիյայլա",
+                  "text": "Remains of an old mountain settlement on the high slopes of Aragats.",
+                  "category": "historical",
+                  "coords": [
+                        44.299443,
+                        40.485509
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AM-AG",
     coords: [44.1963, 40.5230],
@@ -75,7 +156,340 @@ export const poiExtraArmeniaNatureV2: POI[] = [
       fr: [],
     }, image: "/poi-images/mount-aragats-nature-v2.webp"},
   {
-    id: "dilijan-national-park-nature-v2",
+    id: "dilijan-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Թաղիքասար",
+                  "text": "Ein markanter Berggipfel im Pambak-Gebirge, der weite Ausblicke über den Dilidschan-Nationalpark bietet.",
+                  "category": "natural",
+                  "coords": [
+                        45.054415,
+                        40.692987
+                  ]
+            },
+            {
+                  "name": "Թփի ղաշ",
+                  "text": "Eine antike archäologische Stätte im Dilidschan-Park, die Überreste früher Siedlungen in der Region bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        45.088996,
+                        40.731781
+                  ]
+            },
+            {
+                  "name": "Եղջերվասար",
+                  "text": "Dieser Gipfel im Miapor-Gebirge ist ein beliebtes Ziel für Wanderer im waldreichen Norden Armeniens.",
+                  "category": "natural",
+                  "coords": [
+                        44.920376,
+                        40.716789
+                  ]
+            },
+            {
+                  "name": "Մեծ Մայմեխ",
+                  "text": "Mit etwa 3100 Metern ist dieser Berg eine der höchsten Erhebungen im Pambak-Gebirge bei Dilidschan.",
+                  "category": "natural",
+                  "coords": [
+                        44.905842,
+                        40.699013
+                  ]
+            },
+            {
+                  "name": "Vid na Gosh",
+                  "text": "Ein Aussichtspunkt, der einen Panoramablick auf das mittelalterliche Kloster Goschawank und das Dorf bietet.",
+                  "category": "natural",
+                  "coords": [
+                        44.990834,
+                        40.703979
+                  ]
+            },
+            {
+                  "name": "Եկեղեցի Սբ. Գրիգոր Լուսավորիչ",
+                  "text": "Diese Kirche ist Teil des Goschawank-Komplexes und dem Heiligen Gregor dem Erleuchter gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        44.997387,
+                        40.729834
+                  ]
+            },
+            {
+                  "name": "Ճերմակավան",
+                  "text": "Die verlassenen Überreste einer mittelalterlichen Siedlung in den dichten Wäldern des Dilidschan-Nationalparks.",
+                  "category": "historical",
+                  "coords": [
+                        45.029504,
+                        40.708919
+                  ]
+            },
+            {
+                  "name": "Սպիտակ Եղցի",
+                  "text": "Die „Weiße Kirche“ ist eine heute in Ruinen liegende mittelalterliche Kapelle, die versteckt im Wald bei Dilidschan steht.",
+                  "category": "religious",
+                  "coords": [
+                        45.030786,
+                        40.706962
+                  ]
+            },
+            {
+                  "name": "Սբ Համբարձման",
+                  "text": "Ein abgelegener armenischer Gebetsort im Wald, der dem Fest der Himmelfahrt gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.996048,
+                        40.728415
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Թաղիքասար",
+                  "text": "A Pambak-hegység egyik csúcsa, ahonnan tágas kilátás nyílik a Dilidzsani Nemzeti Parkra.",
+                  "category": "natural",
+                  "coords": [
+                        45.054415,
+                        40.692987
+                  ]
+            },
+            {
+                  "name": "Թփի ղաշ",
+                  "text": "Ősi régészeti lelőhely a Dilidzsani Parkban, amely a régió korai településeinek maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        45.088996,
+                        40.731781
+                  ]
+            },
+            {
+                  "name": "Եղջերվասար",
+                  "text": "A Miapor-hegység ezen csúcsa a túrázók kedvelt célpontja Örményország erdős északi részén.",
+                  "category": "natural",
+                  "coords": [
+                        44.920376,
+                        40.716789
+                  ]
+            },
+            {
+                  "name": "Մեծ Մայմեխ",
+                  "text": "Körülbelül 3100 méteres magasságával ez a hegy a Pambak-hegység egyik legmagasabb pontja Dilidzsannál.",
+                  "category": "natural",
+                  "coords": [
+                        44.905842,
+                        40.699013
+                  ]
+            },
+            {
+                  "name": "Vid na Gosh",
+                  "text": "Kilátópont, ahonnan panorámás kilátás nyílik a középkori Gosavank kolostorra és a falura.",
+                  "category": "natural",
+                  "coords": [
+                        44.990834,
+                        40.703979
+                  ]
+            },
+            {
+                  "name": "Եկեղեցի Սբ. Գրիգոր Լուսավորիչ",
+                  "text": "Ez a templom a Gosavank-komplexum része, és Világosító Szent Gergely tiszteletére szentelték.",
+                  "category": "religious",
+                  "coords": [
+                        44.997387,
+                        40.729834
+                  ]
+            },
+            {
+                  "name": "Ճերմակավան",
+                  "text": "Egy középkori település elhagyatott maradványai a Dilidzsani Nemzeti Park sűrű erdőiben.",
+                  "category": "historical",
+                  "coords": [
+                        45.029504,
+                        40.708919
+                  ]
+            },
+            {
+                  "name": "Սպիտակ Եղցի",
+                  "text": "A „Fehér templom” egy romos középkori kápolna, amely a Dilidzsán melletti erdőben rejtőzik.",
+                  "category": "religious",
+                  "coords": [
+                        45.030786,
+                        40.706962
+                  ]
+            },
+            {
+                  "name": "Սբ Համբարձման",
+                  "text": "Egy eldugott erdei örmény imáhely, amelyet az Áldozócsütörtök ünnepének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        44.996048,
+                        40.728415
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Թաղիքասար",
+                  "text": "Un vârf montan proeminent din Munții Pambak, oferind vederi largi asupra Parcului Național Dilijan.",
+                  "category": "natural",
+                  "coords": [
+                        45.054415,
+                        40.692987
+                  ]
+            },
+            {
+                  "name": "Թփի ղաշ",
+                  "text": "Un sit arheologic antic în Parcul Dilijan, care păstrează resturile unor așezări timpurii din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        45.088996,
+                        40.731781
+                  ]
+            },
+            {
+                  "name": "Եղջերվասար",
+                  "text": "Acest vârf din Munții Miapor este o destinație populară pentru drumeții în nordul împădurit al Armeniei.",
+                  "category": "natural",
+                  "coords": [
+                        44.920376,
+                        40.716789
+                  ]
+            },
+            {
+                  "name": "Մեծ Մայմեխ",
+                  "text": "Cu o înălțime de aproximativ 3100 de metri, acest munte este una dintre cele mai mari cote din Munții Pambak de lângă Dilijan.",
+                  "category": "natural",
+                  "coords": [
+                        44.905842,
+                        40.699013
+                  ]
+            },
+            {
+                  "name": "Vid na Gosh",
+                  "text": "Un punct de observație care oferü o vedere panoramică asupra mănăstirii medievale Goshavank și a satului.",
+                  "category": "natural",
+                  "coords": [
+                        44.990834,
+                        40.703979
+                  ]
+            },
+            {
+                  "name": "Եկեղեցի Սբ. Գրիգոր Լուսավորիչ",
+                  "text": "Această biserică face parte din complexul Goshavank și este dedicată Sfântului Grigore Luminătorul.",
+                  "category": "religious",
+                  "coords": [
+                        44.997387,
+                        40.729834
+                  ]
+            },
+            {
+                  "name": "Ճերմակավան",
+                  "text": "Rămășițele abandonate ale unei așezări medievale în pădurile dese ale Parcului Național Dilijan.",
+                  "category": "historical",
+                  "coords": [
+                        45.029504,
+                        40.708919
+                  ]
+            },
+            {
+                  "name": "Սպիտակ Եղցի",
+                  "text": "„Biserica Albă” este o capelă medievală în ruine, ascunsă în pădurea de lângă Dilijan.",
+                  "category": "religious",
+                  "coords": [
+                        45.030786,
+                        40.706962
+                  ]
+            },
+            {
+                  "name": "Սբ Համբարձման",
+                  "text": "Un loc de rugăniune armenesc izolat în pădure, dedicat sărbătorii Înălțării Domnului.",
+                  "category": "landmark",
+                  "coords": [
+                        44.996048,
+                        40.728415
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Taghikasar",
+                  "text": "A prominent mountain peak in the Pambak range, offering expansive views over Dilijan National Park.",
+                  "category": "natural",
+                  "coords": [
+                        45.054415,
+                        40.692987
+                  ]
+            },
+            {
+                  "name": "Tpi ghash",
+                  "text": "An ancient archaeological site in Dilijan Park, preserving the remains of early settlements in the region.",
+                  "category": "historical",
+                  "coords": [
+                        45.088996,
+                        40.731781
+                  ]
+            },
+            {
+                  "name": "Yeghjervasar",
+                  "text": "This peak in the Miapor Mountains is a popular destination for hikers in the forested north of Armenia.",
+                  "category": "natural",
+                  "coords": [
+                        44.920376,
+                        40.716789
+                  ]
+            },
+            {
+                  "name": "Mets Maymekh",
+                  "text": "Standing at approximately 3100 meters, this mountain is one of the highest points in the Pambak range near Dilijan.",
+                  "category": "natural",
+                  "coords": [
+                        44.905842,
+                        40.699013
+                  ]
+            },
+            {
+                  "name": "Vid na Gosh",
+                  "text": "A viewpoint offering a panoramic vista of the medieval Goshavank monastery and the village.",
+                  "category": "natural",
+                  "coords": [
+                        44.990834,
+                        40.703979
+                  ]
+            },
+            {
+                  "name": "S. Grigor Lusavorich",
+                  "text": "This church is part of the Goshavank complex and is dedicated to Saint Gregory the Illuminator.",
+                  "category": "religious",
+                  "coords": [
+                        44.997387,
+                        40.729834
+                  ]
+            },
+            {
+                  "name": "Chermakavan",
+                  "text": "The abandoned remains of a medieval settlement in the dense forests of Dilijan National Park.",
+                  "category": "historical",
+                  "coords": [
+                        45.029504,
+                        40.708919
+                  ]
+            },
+            {
+                  "name": "Spitak Yeghtsi",
+                  "text": "The 'White Church' is a ruined medieval chapel hidden in the forest near Dilijan.",
+                  "category": "religious",
+                  "coords": [
+                        45.030786,
+                        40.706962
+                  ]
+            },
+            {
+                  "name": "S Hambardzman",
+                  "text": "A secluded Armenian forest shrine dedicated to the feast of the Ascension.",
+                  "category": "landmark",
+                  "coords": [
+                        44.996048,
+                        40.728415
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "AM-TV",
     coords: [44.9786, 40.7291],
@@ -111,7 +525,556 @@ export const poiExtraArmeniaNatureV2: POI[] = [
       fr: [],
     }, image: "/poi-images/dilijan-national-park-nature-v2.webp"},
   {
-    id: "khosrov-forest-nature-v2",
+    id: "khosrov-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Վիշապաքար",
+                  "text": "Eine prähistorische Basaltstele in Form eines Fisches, die als Drachenstein im Khosrov-Wald-Reservat steht.",
+                  "category": "natural",
+                  "coords": [
+                        44.968649,
+                        40.080864
+                  ]
+            },
+            {
+                  "name": "Գելդժիգին",
+                  "text": "Die verborgenen Steinruinen einer historischen Siedlung innerhalb des Naturschutzgebiets Khosrov-Wald.",
+                  "category": "historical",
+                  "coords": [
+                        45.000713,
+                        39.985694
+                  ]
+            },
+            {
+                  "name": "Խոսրովասար",
+                  "text": "Ein prominenter Berggipfel im Khosrov-Wald, der weite Ausblicke über die geschützte Wildnis Armeniens bietet.",
+                  "category": "natural",
+                  "coords": [
+                        44.901702,
+                        39.963488
+                  ]
+            },
+            {
+                  "name": "Կոծկասար",
+                  "text": "Kotskasar ist ein 2197 Meter hoher Gipfel im vulkanischen Geghama-Gebirge.",
+                  "category": "natural",
+                  "coords": [
+                        44.941602,
+                        39.979179
+                  ]
+            },
+            {
+                  "name": "Կոտուց",
+                  "text": "Kotuts ist ein 2061 Meter hoher Berggipfel im staatlichen Khosrow-Reservat.",
+                  "category": "natural",
+                  "coords": [
+                        44.842506,
+                        39.975854
+                  ]
+            },
+            {
+                  "name": "Ուրցի բերդ",
+                  "text": "Urtsaberd ist eine mittelalterliche Festungsruine an den Hängen des Urts-Gebirges.",
+                  "category": "castle",
+                  "coords": [
+                        44.887748,
+                        39.956818
+                  ]
+            },
+            {
+                  "name": "Թարում-Բուրում",
+                  "text": "Tarum-Burum umfasst die Überreste einer mittelalterlichen Siedlung mit steinernen Hausfundamenten.",
+                  "category": "historical",
+                  "coords": [
+                        44.903154,
+                        40.054992
+                  ]
+            },
+            {
+                  "name": "Խոսրով",
+                  "text": "Khosrow ist die Ruine eines mittelalterlichen Klosters im Herzen des Naturschutzgebiets.",
+                  "category": "historical",
+                  "coords": [
+                        44.913765,
+                        40.017245
+                  ]
+            },
+            {
+                  "name": "Գոխթ",
+                  "text": "Gokhth sind die Ruinen eines verlassenen mittelalterlichen Dorfes nahe der Straße nach Geghard.",
+                  "category": "historical",
+                  "coords": [
+                        44.891985,
+                        40.016442
+                  ]
+            },
+            {
+                  "name": "Մանկուք",
+                  "text": "Mankuk ist eine mittelalterliche Siedlungsruine mit mehreren Kreuzsteinen aus dem 13. Jahrhundert.",
+                  "category": "historical",
+                  "coords": [
+                        45.005338,
+                        40.006655
+                  ]
+            },
+            {
+                  "name": "Կետույա",
+                  "text": "Ketuya besteht aus verstreuten Steinruinen einer alten Hochlandsiedlung.",
+                  "category": "historical",
+                  "coords": [
+                        44.83449,
+                        39.987618
+                  ]
+            },
+            {
+                  "name": "Տափի բերդ",
+                  "text": "Tapi Berd ist eine Burg aus dem 10. Jahrhundert mit einer gut erhaltenen Kirche.",
+                  "category": "landmark",
+                  "coords": [
+                        44.862426,
+                        39.962492
+                  ]
+            },
+            {
+                  "name": "Չանքլի",
+                  "text": "Changli sind die Ruinen einer mittelalterlichen Siedlung und einer kleinen Steinkirche.",
+                  "category": "historical",
+                  "coords": [
+                        44.836459,
+                        40.0205
+                  ]
+            },
+            {
+                  "name": "Chosrow-Reservat",
+                  "text": "Das Khosrow-Reservat ist ein antikes Waldgebiet, das im 4. Jahrhundert von König Khosrow III. gegründet wurde.",
+                  "category": "natural",
+                  "coords": [
+                        44.882243,
+                        40.034042
+                  ]
+            },
+            {
+                  "name": "Սպիտակ Վանք",
+                  "text": "Spitak Vank ist die Ruine des „Weißen Klosters“, das aus hellem Basalt errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        45.014682,
+                        40.021898
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Վիշապաքար",
+                  "text": "Hal alakú, őskori bazalt sztélé, amely „sárkánykőként” (visapakar) áll a Hoszrov-erdő természetvédelmi területén.",
+                  "category": "natural",
+                  "coords": [
+                        44.968649,
+                        40.080864
+                  ]
+            },
+            {
+                  "name": "Գելդժիգին",
+                  "text": "Egy történelmi település rejtett kőmaradványai a Hoszrov-erdő természetvédelmi területén belül.",
+                  "category": "historical",
+                  "coords": [
+                        45.000713,
+                        39.985694
+                  ]
+            },
+            {
+                  "name": "Խոսրովասար",
+                  "text": "A Hoszrov-erdő egyik kiemelkedő csúcsa, ahonnan pazar kilátás nyílik Örményország védett vadonjára.",
+                  "category": "natural",
+                  "coords": [
+                        44.901702,
+                        39.963488
+                  ]
+            },
+            {
+                  "name": "Կոծկասար",
+                  "text": "A Kotskasar egy 2197 méter magas hegycsúcs a vulkanikus Geghama-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        44.941602,
+                        39.979179
+                  ]
+            },
+            {
+                  "name": "Կոտուց",
+                  "text": "A Kotuts egy 2061 méter magas hegycsúcs a Khosrov-erdő természetvédelmi területen.",
+                  "category": "natural",
+                  "coords": [
+                        44.842506,
+                        39.975854
+                  ]
+            },
+            {
+                  "name": "Ուրցի բերդ",
+                  "text": "Az Urciberd egy középkori vár romja az Urc-hegység lejtőin.",
+                  "category": "castle",
+                  "coords": [
+                        44.887748,
+                        39.956818
+                  ]
+            },
+            {
+                  "name": "Թարում-Բուրում",
+                  "text": "A Tarum-Burum egy középkori település maradványa kőházak alapjaival.",
+                  "category": "historical",
+                  "coords": [
+                        44.903154,
+                        40.054992
+                  ]
+            },
+            {
+                  "name": "Խոսրով",
+                  "text": "Khosrov egy középkori kolostor romja a természetvédelmi terület szívében.",
+                  "category": "historical",
+                  "coords": [
+                        44.913765,
+                        40.017245
+                  ]
+            },
+            {
+                  "name": "Գոխթ",
+                  "text": "Gokhth egy elhagyatott középkori falu romja a Geghard felé vezető út közelében.",
+                  "category": "historical",
+                  "coords": [
+                        44.891985,
+                        40.016442
+                  ]
+            },
+            {
+                  "name": "Մանկուք",
+                  "text": "Mankuk egy középkori település romja több 13. századi hacskárral.",
+                  "category": "historical",
+                  "coords": [
+                        45.005338,
+                        40.006655
+                  ]
+            },
+            {
+                  "name": "Կետույա",
+                  "text": "Ketuya egy ősi felföldi település elszórt kőromjaiból áll.",
+                  "category": "historical",
+                  "coords": [
+                        44.83449,
+                        39.987618
+                  ]
+            },
+            {
+                  "name": "Տափի բերդ",
+                  "text": "A Tapi-vár egy 10. századi erődítmény egy jól megőrzött templommal.",
+                  "category": "landmark",
+                  "coords": [
+                        44.862426,
+                        39.962492
+                  ]
+            },
+            {
+                  "name": "Չանքլի",
+                  "text": "Changli egy középkori település és egy kis kőtemplom romja.",
+                  "category": "historical",
+                  "coords": [
+                        44.836459,
+                        40.0205
+                  ]
+            },
+            {
+                  "name": "Խոսրովի անտառ պետական արգելոց",
+                  "text": "A Khosrov-erdő egy ősi királyi erdő, amelyet a 4. században III. Khosrov király alapított.",
+                  "category": "natural",
+                  "coords": [
+                        44.882243,
+                        40.034042
+                  ]
+            },
+            {
+                  "name": "Սպիտակ Վանք",
+                  "text": "A Spitak Vank a világos bazaltból épült „Fehér kolostor” romja.",
+                  "category": "landmark",
+                  "coords": [
+                        45.014682,
+                        40.021898
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Վիշապաքար",
+                  "text": "O stelă preistorică de bazalt în formă de pește, cunoscută sub numele de „piatra balaurului”, situată în rezervația Pădurea Khosrov.",
+                  "category": "natural",
+                  "coords": [
+                        44.968649,
+                        40.080864
+                  ]
+            },
+            {
+                  "name": "Գելդժիգին",
+                  "text": "Ruinele ascunse din piatră ale unei așezări istorice din cadrul rezervației naturale Pădurea Khosrov.",
+                  "category": "historical",
+                  "coords": [
+                        45.000713,
+                        39.985694
+                  ]
+            },
+            {
+                  "name": "Խոսրովասար",
+                  "text": "Un vârf montan proeminent din Pădurea Khosrov, care oferă vederi ample asupra sălbăticiei protejate a Armeniei.",
+                  "category": "natural",
+                  "coords": [
+                        44.901702,
+                        39.963488
+                  ]
+            },
+            {
+                  "name": "Կոծկասար",
+                  "text": "Kotskasar este un vârf de 2197 de metri situat în Munții vulcanici Geghama.",
+                  "category": "natural",
+                  "coords": [
+                        44.941602,
+                        39.979179
+                  ]
+            },
+            {
+                  "name": "Կոտուց",
+                  "text": "Kotuts este un vârf montan de 2061 de metri din Rezervația de Stat Pădurea Khosrov.",
+                  "category": "natural",
+                  "coords": [
+                        44.842506,
+                        39.975854
+                  ]
+            },
+            {
+                  "name": "Ուրցի բերդ",
+                  "text": "Urtsaberd este ruina unei cetăți medievale situată pe versanții Munților Urts.",
+                  "category": "castle",
+                  "coords": [
+                        44.887748,
+                        39.956818
+                  ]
+            },
+            {
+                  "name": "Թարում-Բուրում",
+                  "text": "Tarum-Burum cuprinde rămășițele unei așezări medievale cu fundații de case din piatră.",
+                  "category": "historical",
+                  "coords": [
+                        44.903154,
+                        40.054992
+                  ]
+            },
+            {
+                  "name": "Խոսրով",
+                  "text": "Khosrov reprezintă ruinele unei mănăstiri medievale din inima rezervației naturale.",
+                  "category": "historical",
+                  "coords": [
+                        44.913765,
+                        40.017245
+                  ]
+            },
+            {
+                  "name": "Գոխթ",
+                  "text": "Gokhth sunt ruinele unui sat medieval abandonat, situat lângă drumul spre Geghard.",
+                  "category": "historical",
+                  "coords": [
+                        44.891985,
+                        40.016442
+                  ]
+            },
+            {
+                  "name": "Մանկուք",
+                  "text": "Mankuk este o ruină de așezare medievală care include mai multe hacikaruri din secolul al XIII-lea.",
+                  "category": "historical",
+                  "coords": [
+                        45.005338,
+                        40.006655
+                  ]
+            },
+            {
+                  "name": "Կետույա",
+                  "text": "Ketuya constă în ruinele de piatră ale unei vechi așezări montane.",
+                  "category": "historical",
+                  "coords": [
+                        44.83449,
+                        39.987618
+                  ]
+            },
+            {
+                  "name": "Տափի բերդ",
+                  "text": "Castelul Tapi este o fortificație din secolul al X-lea, cu o biserică bine conservată.",
+                  "category": "landmark",
+                  "coords": [
+                        44.862426,
+                        39.962492
+                  ]
+            },
+            {
+                  "name": "Չանքլի",
+                  "text": "Changli sunt ruinele unei așezări medievale și ale unei mici biserici din piatră.",
+                  "category": "historical",
+                  "coords": [
+                        44.836459,
+                        40.0205
+                  ]
+            },
+            {
+                  "name": "Խոսրովի անտառ պետական արգելոց",
+                  "text": "Rezervația Pădurea Khosrov este o pădure regală antică, fondată în secolul al IV-lea de regele Khosrov al III-lea.",
+                  "category": "natural",
+                  "coords": [
+                        44.882243,
+                        40.034042
+                  ]
+            },
+            {
+                  "name": "Սպիտակ Վանք",
+                  "text": "Spitak Vank este ruina „Mănăstirii Albe”, construită din bazalt de culoare deschisă.",
+                  "category": "landmark",
+                  "coords": [
+                        45.014682,
+                        40.021898
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Վիշապաքար",
+                  "text": "A prehistoric basalt stela shaped like a fish, standing as a dragon stone in the Khosrov Forest reserve.",
+                  "category": "natural",
+                  "coords": [
+                        44.968649,
+                        40.080864
+                  ]
+            },
+            {
+                  "name": "Գելդժիգին",
+                  "text": "The hidden stone ruins of a historical settlement within the Khosrov Forest nature reserve.",
+                  "category": "historical",
+                  "coords": [
+                        45.000713,
+                        39.985694
+                  ]
+            },
+            {
+                  "name": "Khosrovasar",
+                  "text": "A prominent mountain summit in the Khosrov Forest, offering expansive views over Armenia's protected wilderness.",
+                  "category": "natural",
+                  "coords": [
+                        44.901702,
+                        39.963488
+                  ]
+            },
+            {
+                  "name": "Kotskasar",
+                  "text": "Kotskasar is a 2,197-meter peak located in the volcanic Geghama Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        44.941602,
+                        39.979179
+                  ]
+            },
+            {
+                  "name": "Kotuts",
+                  "text": "Kotuts is a 2,061-meter mountain peak within the Khosrov Forest State Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        44.842506,
+                        39.975854
+                  ]
+            },
+            {
+                  "name": "Ուրցի բերդ",
+                  "text": "Urtsaberd is the ruin of a medieval fortress perched on the slopes of the Urts Mountains.",
+                  "category": "castle",
+                  "coords": [
+                        44.887748,
+                        39.956818
+                  ]
+            },
+            {
+                  "name": "Թարում-Բուրում",
+                  "text": "Tarum-Burum features the remnants of a medieval settlement with stone house foundations.",
+                  "category": "historical",
+                  "coords": [
+                        44.903154,
+                        40.054992
+                  ]
+            },
+            {
+                  "name": "Khosrov",
+                  "text": "Khosrov is the ruin of a medieval monastery located in the heart of the nature reserve.",
+                  "category": "historical",
+                  "coords": [
+                        44.913765,
+                        40.017245
+                  ]
+            },
+            {
+                  "name": "Gokhth",
+                  "text": "Gokhth is an abandoned medieval village site situated near the road to Geghard.",
+                  "category": "historical",
+                  "coords": [
+                        44.891985,
+                        40.016442
+                  ]
+            },
+            {
+                  "name": "Մանկուք",
+                  "text": "Mankuk is a medieval settlement ruin featuring several 13th-century khachkars.",
+                  "category": "historical",
+                  "coords": [
+                        45.005338,
+                        40.006655
+                  ]
+            },
+            {
+                  "name": "Կետույա",
+                  "text": "Ketuya consists of the scattered stone ruins of an ancient highland settlement.",
+                  "category": "historical",
+                  "coords": [
+                        44.83449,
+                        39.987618
+                  ]
+            },
+            {
+                  "name": "Gevorg Marzpetuni/Tapi Castle",
+                  "text": "Tapi Castle is a 10th-century fortified complex with a well-preserved church.",
+                  "category": "landmark",
+                  "coords": [
+                        44.862426,
+                        39.962492
+                  ]
+            },
+            {
+                  "name": "Changli",
+                  "text": "Changli are the ruins of a medieval settlement and a small stone church.",
+                  "category": "historical",
+                  "coords": [
+                        44.836459,
+                        40.0205
+                  ]
+            },
+            {
+                  "name": "Khosrov Forest State Reserve",
+                  "text": "Khosrov Forest is an ancient forest established in the 4th century by King Khosrov III.",
+                  "category": "natural",
+                  "coords": [
+                        44.882243,
+                        40.034042
+                  ]
+            },
+            {
+                  "name": "Սպիտակ Վանք",
+                  "text": "Spitak Vank is the ruin of the \"White Monastery,\" built from light-colored basalt.",
+                  "category": "landmark",
+                  "coords": [
+                        45.014682,
+                        40.021898
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "AM-AR",
     coords: [44.8988, 40.0166],
@@ -147,7 +1110,196 @@ export const poiExtraArmeniaNatureV2: POI[] = [
       fr: [],
     }, image: "/poi-images/khosrov-forest-nature-v2.webp"},
   {
-    id: "shikahogh-reserve-nature-v2",
+    id: "shikahogh-reserve-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Շարուքար",
+                  "text": "Ein Berggipfel im Schikahogh-Naturreservat, umgeben von dichten Urwäldern.",
+                  "category": "natural",
+                  "coords": [
+                        46.490114,
+                        39.113752
+                  ]
+            },
+            {
+                  "name": "Սալաքար",
+                  "text": "Ein hoher Gipfel im Sjunik-Gebirge, gelegen innerhalb des geschützten Schikahogh-Reservats.",
+                  "category": "natural",
+                  "coords": [
+                        46.452637,
+                        39.134332
+                  ]
+            },
+            {
+                  "name": "Qızıldaş",
+                  "text": "Ein Berggipfel am Rande des Schikahogh-Reservats, bekannt für sein zerklüftetes Gelände und weite Aussichten.",
+                  "category": "natural",
+                  "coords": [
+                        46.539321,
+                        39.01929
+                  ]
+            },
+            {
+                  "name": "Սուրբ Հռիփսիմե եկեղեցի",
+                  "text": "Die Steinruinen einer alten, der Heiligen Hripsime gewidmeten Kirche tief im Schikahogh-Reservat.",
+                  "category": "historical",
+                  "coords": [
+                        46.501338,
+                        39.079667
+                  ]
+            },
+            {
+                  "name": "Շիկահողի արգելոց",
+                  "text": "Armeniens zweitgrößtes Waldreservat, Heimat seltener Wildtiere und alter Eichen- und Hainbuchenwälder.",
+                  "category": "natural",
+                  "coords": [
+                        46.457897,
+                        39.032558
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Շարուքար",
+                  "text": "Hegycsúcs a Shikahogh Állami Rezervátumban, sűrű őserdőkkel körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        46.490114,
+                        39.113752
+                  ]
+            },
+            {
+                  "name": "Սալաքար",
+                  "text": "Magas csúcs a Szjunik-hegységben, a védett Shikahogh természetvédelmi területen belül.",
+                  "category": "natural",
+                  "coords": [
+                        46.452637,
+                        39.134332
+                  ]
+            },
+            {
+                  "name": "Qızıldaş",
+                  "text": "Hegycsúcs a Shikahogh rezervátum szélén, amely zord terepéről és panorámás kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        46.539321,
+                        39.01929
+                  ]
+            },
+            {
+                  "name": "Սուրբ Հռիփսիմե եկեղեցի",
+                  "text": "Szent Hripszimének szentelt ősi templom kőromjai a Shikahogh rezervátum mélyén.",
+                  "category": "historical",
+                  "coords": [
+                        46.501338,
+                        39.079667
+                  ]
+            },
+            {
+                  "name": "Շիկահողի արգելոց",
+                  "text": "Örményország második legnagyobb erdőrezervátuma, ritka állatfajok, valamint ősi tölgy- és gyertyánerdők otthona.",
+                  "category": "natural",
+                  "coords": [
+                        46.457897,
+                        39.032558
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Շարուքար",
+                  "text": "Un vârf muntos în rezervația de stat Shikahogh, înconjurat de păduri virgine dese.",
+                  "category": "natural",
+                  "coords": [
+                        46.490114,
+                        39.113752
+                  ]
+            },
+            {
+                  "name": "Սալաքար",
+                  "text": "Un vârf înalt din munții Syunik, situat în rezervația naturală protejată Shikahogh.",
+                  "category": "natural",
+                  "coords": [
+                        46.452637,
+                        39.134332
+                  ]
+            },
+            {
+                  "name": "Qızıldaş",
+                  "text": "Un vârf de munte la marginea rezervației Shikahogh, cunoscut pentru terenul său accidentat și vederile panoramice.",
+                  "category": "natural",
+                  "coords": [
+                        46.539321,
+                        39.01929
+                  ]
+            },
+            {
+                  "name": "Սուրբ Հռիփսիմե եկեղեցի",
+                  "text": "Ruinele de piatră ale unei biserici antice dedicate Sfintei Hripsime, situate în adâncul rezervației Shikahogh.",
+                  "category": "historical",
+                  "coords": [
+                        46.501338,
+                        39.079667
+                  ]
+            },
+            {
+                  "name": "Շիկահողի արգելոց",
+                  "text": "A doua cea mai mare rezervație forestieră din Armenia, care adăpostește specii rare și păduri de stejar și carpen.",
+                  "category": "natural",
+                  "coords": [
+                        46.457897,
+                        39.032558
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sharuqar",
+                  "text": "A mountain peak within the Shikahogh State Reserve, surrounded by dense virgin forests.",
+                  "category": "natural",
+                  "coords": [
+                        46.490114,
+                        39.113752
+                  ]
+            },
+            {
+                  "name": "Salaqar",
+                  "text": "A high peak in the Syunik mountains, located within the protected Shikahogh nature reserve.",
+                  "category": "natural",
+                  "coords": [
+                        46.452637,
+                        39.134332
+                  ]
+            },
+            {
+                  "name": "Qızıldaş",
+                  "text": "A mountain peak on the edge of the Shikahogh reserve, known for its rugged terrain and panoramic views.",
+                  "category": "natural",
+                  "coords": [
+                        46.539321,
+                        39.01929
+                  ]
+            },
+            {
+                  "name": "St. Hripsime Church",
+                  "text": "The stone ruins of an ancient church dedicated to St. Hripsime, located deep within the Shikahogh reserve.",
+                  "category": "historical",
+                  "coords": [
+                        46.501338,
+                        39.079667
+                  ]
+            },
+            {
+                  "name": "Shikahogh State Reserve",
+                  "text": "Armenia's second-largest forest reserve, home to rare wildlife and ancient oak and hornbeam forests.",
+                  "category": "natural",
+                  "coords": [
+                        46.457897,
+                        39.032558
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "AM-SU",
     coords: [46.4667, 39.0500],
@@ -219,7 +1371,304 @@ export const poiExtraArmeniaNatureV2: POI[] = [
       fr: [],
     }, image: "/poi-images/mount-kaputjugh-nature-v2.webp"},
   {
-    id: "hrazdan-river-nature-v2",
+    id: "hrazdan-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Եղիշե Չարենցի արձան",
+                  "text": "Ein großes Denkmal, das dem berühmten armenischen Dichter Jegische Tscharenz gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        44.524609,
+                        40.179792
+                  ]
+            },
+            {
+                  "name": "Երևանի հեռուստաաշտարակ",
+                  "text": "Ein 311 Meter hoher Fernsehturm aus Stahl, der das Stadtbild weithin dominiert.",
+                  "category": "tower",
+                  "coords": [
+                        44.53655,
+                        40.171285
+                  ]
+            },
+            {
+                  "name": "Alexander Spendiaryan House Museum",
+                  "text": "Das ehemalige Wohnhaus des Komponisten Alexander Spendiaryan, das heute seine persönlichen Gegenstände und Partituren ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        44.518766,
+                        40.180957
+                  ]
+            },
+            {
+                  "name": "Կոմիտասի անվան Կամերային երաժշտության տուն",
+                  "text": "Ein architektonisch markantes Konzerthaus, das nach dem armenischen Priester und Komponisten Komitas benannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        44.523242,
+                        40.1854
+                  ]
+            },
+            {
+                  "name": "Երևանի պատանի հանդիսատեսի թատրոն",
+                  "text": "Ein professionelles Theater im Stadtzentrum, das sich auf Aufführungen für Kinder und Jugendliche spezialisiert hat.",
+                  "category": "cultural",
+                  "coords": [
+                        44.522747,
+                        40.184344
+                  ]
+            },
+            {
+                  "name": "Օղակաձև զբոսայգի",
+                  "text": "Ein Abschnitt des Grüngürtels, der mit zahlreichen modernen Statuen und Denkmälern geschmückt ist.",
+                  "category": "park",
+                  "coords": [
+                        44.524219,
+                        40.183208
+                  ]
+            },
+            {
+                  "name": "Sankt-Anna-Kirche",
+                  "text": "Eine moderne armenisch-apostolische Kirche, die direkt neben der winzigen historischen Katoghike-Kirche errichtet wurde.",
+                  "category": "religious",
+                  "coords": [
+                        44.519136,
+                        40.184407
+                  ]
+            },
+            {
+                  "name": "Մարկարտտի",
+                  "text": "Ein lokaler Marktplatz im Herzen der Stadt, auf dem traditionelle armenische Waren angeboten werden.",
+                  "category": "cultural",
+                  "coords": [
+                        44.52072,
+                        40.182467
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Եղիշե Չարենցի արձան",
+                  "text": "Hatalmas emlékmű, amelyet a neves örmény költőnek, Jegise Csarencnek szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        44.524609,
+                        40.179792
+                  ]
+            },
+            {
+                  "name": "Երևանի հեռուստաաշտարակ",
+                  "text": "311 méter magas acél televíziótorony, amely meghatározza a város látképét.",
+                  "category": "tower",
+                  "coords": [
+                        44.53655,
+                        40.171285
+                  ]
+            },
+            {
+                  "name": "Alexander Spendiaryan House Museum",
+                  "text": "Alekszandr Szpendarjan zeneszerző egykori lakóháza, ahol ma személyes tárgyait és kottáit őrzik.",
+                  "category": "museum",
+                  "coords": [
+                        44.518766,
+                        40.180957
+                  ]
+            },
+            {
+                  "name": "Կոմիտասի անվան Կամերային երաժշտության տուն",
+                  "text": "Építészetileg egyedi hangversenyterem, amelyet Komitasz örmény pap-zeneszerzőről neveztek el.",
+                  "category": "cultural",
+                  "coords": [
+                        44.523242,
+                        40.1854
+                  ]
+            },
+            {
+                  "name": "Երևանի պատանի հանդիսատեսի թատրոն",
+                  "text": "Belvárosi hivatásos színház, amely gyermek- és ifjúsági előadásokra szakosodott.",
+                  "category": "cultural",
+                  "coords": [
+                        44.522747,
+                        40.184344
+                  ]
+            },
+            {
+                  "name": "Օղակաձև զբոսայգի",
+                  "text": "A zöldövezet számos modern szoborral és emlékművel díszített szakasza.",
+                  "category": "park",
+                  "coords": [
+                        44.524219,
+                        40.183208
+                  ]
+            },
+            {
+                  "name": "Սուրբ Աննա եկեղեցի",
+                  "text": "Modern örmény apostoli templom, amely közvetlenül az apró, történelmi Katoghike-templom mellett épült.",
+                  "category": "religious",
+                  "coords": [
+                        44.519136,
+                        40.184407
+                  ]
+            },
+            {
+                  "name": "Մարկարտտի",
+                  "text": "Helyi piactér a város szívében, ahol hagyományos örmény árukat kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        44.52072,
+                        40.182467
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Եղիշե Չարենցի արձան",
+                  "text": "Un monument de mari dimensiuni dedicat celebrului poet armean Yeghishe Charents.",
+                  "category": "historical",
+                  "coords": [
+                        44.524609,
+                        40.179792
+                  ]
+            },
+            {
+                  "name": "Երևանի հեռուստաաշտարակ",
+                  "text": "Un turn de televiziune din oțel înalt de 311 metri, care domină silueta orașului.",
+                  "category": "tower",
+                  "coords": [
+                        44.53655,
+                        40.171285
+                  ]
+            },
+            {
+                  "name": "Alexander Spendiaryan House Museum",
+                  "text": "Fosta casă a compozitorului Alexander Spendiaryan, care expune acum obiectele sale personale și partiturile.",
+                  "category": "museum",
+                  "coords": [
+                        44.518766,
+                        40.180957
+                  ]
+            },
+            {
+                  "name": "Կոմիտասի անվան Կամերային երաժշտության տուն",
+                  "text": "O sală de concerte cu o arhitectură distinctivă, numită după preotul și compozitorul armean Komitas.",
+                  "category": "cultural",
+                  "coords": [
+                        44.523242,
+                        40.1854
+                  ]
+            },
+            {
+                  "name": "Երևանի պատանի հանդիսատեսի թատրոն",
+                  "text": "Un teatru profesionist din centrul orașului, specializat în spectacole pentru copii și tineri.",
+                  "category": "cultural",
+                  "coords": [
+                        44.522747,
+                        40.184344
+                  ]
+            },
+            {
+                  "name": "Օղակաձև զբոսայգի",
+                  "text": "O secțiune a centurii verzi decorată cu numeroase statui și monumente moderne.",
+                  "category": "park",
+                  "coords": [
+                        44.524219,
+                        40.183208
+                  ]
+            },
+            {
+                  "name": "Սուրբ Աննա եկեղեցի",
+                  "text": "O biserică apostolică armeană modernă, construită chiar lângă mica biserică istorică Katoghike.",
+                  "category": "religious",
+                  "coords": [
+                        44.519136,
+                        40.184407
+                  ]
+            },
+            {
+                  "name": "Մարկարտտի",
+                  "text": "O piață locală în inima orașului, unde se vând produse tradiționale armenești.",
+                  "category": "cultural",
+                  "coords": [
+                        44.52072,
+                        40.182467
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yeghishe Charents Monument",
+                  "text": "A large monument dedicated to the prominent Armenian poet Yeghishe Charents.",
+                  "category": "historical",
+                  "coords": [
+                        44.524609,
+                        40.179792
+                  ]
+            },
+            {
+                  "name": "Yerevan television tower",
+                  "text": "A 311-meter tall steel television tower that dominates the city skyline.",
+                  "category": "tower",
+                  "coords": [
+                        44.53655,
+                        40.171285
+                  ]
+            },
+            {
+                  "name": "Alexander Spendiaryan House Museum",
+                  "text": "The former residence of composer Alexander Spendiaryan, now exhibiting his personal belongings and musical scores.",
+                  "category": "museum",
+                  "coords": [
+                        44.518766,
+                        40.180957
+                  ]
+            },
+            {
+                  "name": "Komitas Chamber Music House",
+                  "text": "An architecturally unique concert hall named after the Armenian priest-composer Komitas.",
+                  "category": "cultural",
+                  "coords": [
+                        44.523242,
+                        40.1854
+                  ]
+            },
+            {
+                  "name": "Երևանի պատանի հանդիսատեսի թատրոն",
+                  "text": "A professional theater in the city center specializing in performances for children and youth.",
+                  "category": "cultural",
+                  "coords": [
+                        44.522747,
+                        40.184344
+                  ]
+            },
+            {
+                  "name": "Circular Park",
+                  "text": "A segment of the green belt decorated with numerous modern statues and monuments.",
+                  "category": "park",
+                  "coords": [
+                        44.524219,
+                        40.183208
+                  ]
+            },
+            {
+                  "name": "Saint Anna Church",
+                  "text": "A modern Armenian Apostolic church built right next to the tiny historic Katoghike Church.",
+                  "category": "religious",
+                  "coords": [
+                        44.519136,
+                        40.184407
+                  ]
+            },
+            {
+                  "name": "Marcartti",
+                  "text": "A local marketplace in the heart of the city offering traditional Armenian goods.",
+                  "category": "cultural",
+                  "coords": [
+                        44.52072,
+                        40.182467
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "AM-KT",
     coords: [44.5208, 40.1792],
@@ -265,6 +1714,33 @@ export const poiExtraArmeniaNatureV2: POI[] = [
                         44.705555,
                         39.82227
                   ]
+            },
+            {
+                  "name": "Արմաշի ձկնաբուծարաններ",
+                  "text": "Ein bedeutendes Vogelschutzgebiet auf dem Gelände ehemaliger Fischteiche.",
+                  "category": "natural",
+                  "coords": [
+                        44.77036,
+                        39.760305
+                  ]
+            },
+            {
+                  "name": "Չոբանդարա",
+                  "text": "Verlassene Ruinen einer alten Siedlung in der zerklüfteten Grenzlandschaft.",
+                  "category": "historical",
+                  "coords": [
+                        44.839183,
+                        39.864118
+                  ]
+            },
+            {
+                  "name": "Դյուգիդաշ",
+                  "text": "Historische Steinstrukturen, die von der langen Besiedlung des Arastals zeugen.",
+                  "category": "historical",
+                  "coords": [
+                        44.816188,
+                        39.87054
+                  ]
             }
       ],
       "hu": [
@@ -275,6 +1751,33 @@ export const poiExtraArmeniaNatureV2: POI[] = [
                   "coords": [
                         44.705555,
                         39.82227
+                  ]
+            },
+            {
+                  "name": "Արմաշի ձկնաբուծարաններ",
+                  "text": "Fontos madárvédelmi terület egykori halastavak területén.",
+                  "category": "natural",
+                  "coords": [
+                        44.77036,
+                        39.760305
+                  ]
+            },
+            {
+                  "name": "Չոբանդարա",
+                  "text": "Egy régi település elhagyatott romjai a zord határvidéken.",
+                  "category": "historical",
+                  "coords": [
+                        44.839183,
+                        39.864118
+                  ]
+            },
+            {
+                  "name": "Դյուգիդաշ",
+                  "text": "Történelmi kőszerkezetek, amelyek az Arasz-völgy hosszú lakottságáról tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        44.816188,
+                        39.87054
                   ]
             }
       ],
@@ -287,6 +1790,33 @@ export const poiExtraArmeniaNatureV2: POI[] = [
                         44.705555,
                         39.82227
                   ]
+            },
+            {
+                  "name": "Արմաշի ձկնաբուծարաններ",
+                  "text": "O arie importantă de protecție a păsărilor situată pe locul unor foste heleștee.",
+                  "category": "natural",
+                  "coords": [
+                        44.77036,
+                        39.760305
+                  ]
+            },
+            {
+                  "name": "Չոբանդարա",
+                  "text": "Ruinele părăsite ale unei vechi așezări în peisajul accidentat de frontieră.",
+                  "category": "historical",
+                  "coords": [
+                        44.839183,
+                        39.864118
+                  ]
+            },
+            {
+                  "name": "Դյուգիդաշ",
+                  "text": "Structuri istorice din piatră care atestă locuirea îndelungată a văii Aras.",
+                  "category": "historical",
+                  "coords": [
+                        44.816188,
+                        39.87054
+                  ]
             }
       ],
       "en": [
@@ -297,6 +1827,33 @@ export const poiExtraArmeniaNatureV2: POI[] = [
                   "coords": [
                         44.705555,
                         39.82227
+                  ]
+            },
+            {
+                  "name": "Armash Important Bird Area",
+                  "text": "An important bird area situated on the grounds of former fish ponds.",
+                  "category": "natural",
+                  "coords": [
+                        44.77036,
+                        39.760305
+                  ]
+            },
+            {
+                  "name": "Չոբանդարա",
+                  "text": "The abandoned ruins of an ancient settlement in the rugged border landscape.",
+                  "category": "historical",
+                  "coords": [
+                        44.839183,
+                        39.864118
+                  ]
+            },
+            {
+                  "name": "Դյուգիդաշ",
+                  "text": "Historical stone structures testifying to the long habitation of the Aras valley.",
+                  "category": "historical",
+                  "coords": [
+                        44.816188,
+                        39.87054
                   ]
             }
       ]
@@ -336,7 +1893,124 @@ export const poiExtraArmeniaNatureV2: POI[] = [
       fr: [],
     }, image: "/poi-images/aras-river-nature-v2.webp"},
   {
-    id: "lake-arpi-nature-v2",
+    id: "lake-arpi-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Եղնաջուր գյուղի եկեղեցի",
+                  "text": "Eine historische Kirche im abgelegenen Dorf Jegnadschur, nahe der Grenze zu Georgien.",
+                  "category": "religious",
+                  "coords": [
+                        43.578232,
+                        41.091851
+                  ]
+            },
+            {
+                  "name": "Nationalpark Arpi-See",
+                  "text": "Dieser Nationalpark schützt ein Hochland-Feuchtgebiet, das als Brutstätte für den seltenen Krauskopfpelikan dient.",
+                  "category": "natural",
+                  "coords": [
+                        43.701851,
+                        41.073644
+                  ]
+            },
+            {
+                  "name": "Ոսկե ժամ եկեղեցի",
+                  "text": "Eine kleine ländliche Kirche in der Nähe des Arpi-Sees, die die spirituelle Tradition der Region verkörpert.",
+                  "category": "landmark",
+                  "coords": [
+                        43.584567,
+                        41.051143
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Եղնաջուր գյուղի եկեղեցի",
+                  "text": "Történelmi templom a távoli Jegnadzsur faluban, a grúz határ közelében.",
+                  "category": "religious",
+                  "coords": [
+                        43.578232,
+                        41.091851
+                  ]
+            },
+            {
+                  "name": "Արփի լճի ազգային պարկ",
+                  "text": "Ez a nemzeti park egy magashegyi vizes élőhelyet véd, amely a ritka borzas gödény fészkelőhelye.",
+                  "category": "natural",
+                  "coords": [
+                        43.701851,
+                        41.073644
+                  ]
+            },
+            {
+                  "name": "Ոսկե ժամ եկեղեցի",
+                  "text": "Egy kis vidéki templom az Arpi-tó közelében, amely a régió spirituális hagyományait testesíti meg.",
+                  "category": "landmark",
+                  "coords": [
+                        43.584567,
+                        41.051143
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Եղնաջուր գյուղի եկեղեցի",
+                  "text": "O biserică istorică în satul izolat Yeghnajur, situat aproape de granița cu Georgia.",
+                  "category": "religious",
+                  "coords": [
+                        43.578232,
+                        41.091851
+                  ]
+            },
+            {
+                  "name": "Արփի լճի ազգային պարկ",
+                  "text": "Acest parc național protejează o zonă umedă montană, servind drept loc de cuibărit pentru pelicanul creț.",
+                  "category": "natural",
+                  "coords": [
+                        43.701851,
+                        41.073644
+                  ]
+            },
+            {
+                  "name": "Ոսկե ժամ եկեղեցի",
+                  "text": "O mică biserică rurală lângă lacul Arpi, care întruchipează tradiția spirituală a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        43.584567,
+                        41.051143
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yeghnajur Church",
+                  "text": "A historical church in the remote village of Yeghnajur, located near the border with Georgia.",
+                  "category": "religious",
+                  "coords": [
+                        43.578232,
+                        41.091851
+                  ]
+            },
+            {
+                  "name": "Lake Arpi National Park",
+                  "text": "This national park protects a highland wetland that serves as a breeding ground for the rare Dalmatian pelican.",
+                  "category": "natural",
+                  "coords": [
+                        43.701851,
+                        41.073644
+                  ]
+            },
+            {
+                  "name": "Voske Zham church",
+                  "text": "A small rural church near Lake Arpi that embodies the spiritual tradition of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        43.584567,
+                        41.051143
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "AM-SH",
     coords: [43.6167, 41.0500],
@@ -372,7 +2046,340 @@ export const poiExtraArmeniaNatureV2: POI[] = [
       fr: [],
     }, image: "/poi-images/lake-arpi-nature-v2.webp"},
   {
-    id: "arevik-national-park-nature-v2",
+    id: "arevik-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ծակքար",
+                  "text": "Ein beeindruckender Berggipfel im Arevik-Nationalpark mit Blick auf das Araks-Tal.",
+                  "category": "natural",
+                  "coords": [
+                        46.148826,
+                        38.978556
+                  ]
+            },
+            {
+                  "name": "Կուջերտ",
+                  "text": "Die Steinruinen eines alten Hochlanddorfes liegen verlassen in der Gebirgslandschaft.",
+                  "category": "historical",
+                  "coords": [
+                        46.295056,
+                        38.976724
+                  ]
+            },
+            {
+                  "name": "Աբկես",
+                  "text": "Hier finden sich die Fundamente und Mauern einer längst verlassenen historischen Siedlung.",
+                  "category": "historical",
+                  "coords": [
+                        46.293226,
+                        39.011096
+                  ]
+            },
+            {
+                  "name": "Arevik-Nationalpark",
+                  "text": "Dieser Nationalpark im Süden Armeniens dient als wichtiges Schutzgebiet für den seltenen Kaukasus-Leoparden.",
+                  "category": "natural",
+                  "coords": [
+                        46.265106,
+                        38.981045
+                  ]
+            },
+            {
+                  "name": "Եկեղեցի Սբ. Հակոբ",
+                  "text": "Eine kleine Steinkapelle, die dem Heiligen Jakob gewidmet ist und in der Bergregion liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        46.299143,
+                        38.999215
+                  ]
+            },
+            {
+                  "name": "Սուրբ Աստվածածին եկեղեցի",
+                  "text": "Eine traditionelle armenische Kirche, die aus lokalem Stein erbaut wurde und der Gottesmutter gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        46.177552,
+                        38.939694
+                  ]
+            },
+            {
+                  "name": "Սուրբ Ամենափրկիչ եկեղեցի",
+                  "text": "Diese historische Kirche ist ein bedeutendes christliches Heiligtum mit alten Kreuzsteinen in der Nähe.",
+                  "category": "landmark",
+                  "coords": [
+                        46.185992,
+                        38.926075
+                  ]
+            },
+            {
+                  "name": "Սուրբ Սարգիս եկեղեցի",
+                  "text": "Eine schlichte Bergkirche, die dem Heiligen Sargis gewidmet ist und oft von lokalen Pilgern besucht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        46.179657,
+                        38.932521
+                  ]
+            },
+            {
+                  "name": "Կարմիր վանք",
+                  "text": "Dieser als 'Rotes Kloster' bekannte historische Komplex besticht durch seine charakteristische Steinfarbe.",
+                  "category": "landmark",
+                  "coords": [
+                        46.176841,
+                        38.950956
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ծակքար",
+                  "text": "Az Arevik Nemzeti Park egyik lenyűgöző hegycsúcsa, kilátással az Araksz-völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        46.148826,
+                        38.978556
+                  ]
+            },
+            {
+                  "name": "Կուջերտ",
+                  "text": "Egy régi felföldi falu kőromjai magányosan állnak a hegyi tájban.",
+                  "category": "historical",
+                  "coords": [
+                        46.295056,
+                        38.976724
+                  ]
+            },
+            {
+                  "name": "Աբկես",
+                  "text": "Itt egy régóta elhagyatott történelmi település alapjai és falai találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        46.293226,
+                        39.011096
+                  ]
+            },
+            {
+                  "name": "Արևիք ազգային պարկ",
+                  "text": "Ez a dél-örményországi nemzeti park a ritka kaukázusi leopárd egyik fontos védett élőhelye.",
+                  "category": "natural",
+                  "coords": [
+                        46.265106,
+                        38.981045
+                  ]
+            },
+            {
+                  "name": "Եկեղեցի Սբ. Հակոբ",
+                  "text": "Egy kicsiny, Szent Jakabnak szentelt kőkápolna a hegyvidéki régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        46.299143,
+                        38.999215
+                  ]
+            },
+            {
+                  "name": "Սուրբ Աստվածածին եկեղեցի",
+                  "text": "Helyi kőből épült, az Istenanyának szentelt hagyományos örmény templom.",
+                  "category": "landmark",
+                  "coords": [
+                        46.177552,
+                        38.939694
+                  ]
+            },
+            {
+                  "name": "Սուրբ Ամենափրկիչ եկեղեցի",
+                  "text": "Ez a történelmi templom jelentős keresztény szentély, amelynek közelében régi hacskarok találhatók.",
+                  "category": "landmark",
+                  "coords": [
+                        46.185992,
+                        38.926075
+                  ]
+            },
+            {
+                  "name": "Սուրբ Սարգիս եկեղեցի",
+                  "text": "Egy egyszerű, Szent Szarkisznak szentelt hegyi templom, amelyet gyakran látogatnak a helyi zarándokok.",
+                  "category": "landmark",
+                  "coords": [
+                        46.179657,
+                        38.932521
+                  ]
+            },
+            {
+                  "name": "Կարմիր վանք",
+                  "text": "A 'Vörös kolostorként' ismert történelmi együttes jellegzetes kőszínével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        46.176841,
+                        38.950956
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ծակքար",
+                  "text": "Un vârf muntos impresionant din Parcul Național Arevik, cu vedere spre valea Araks.",
+                  "category": "natural",
+                  "coords": [
+                        46.148826,
+                        38.978556
+                  ]
+            },
+            {
+                  "name": "Կուջերտ",
+                  "text": "Ruinele din piatră ale unui vechi sat montan zac abandonate în peisajul alpin.",
+                  "category": "historical",
+                  "coords": [
+                        46.295056,
+                        38.976724
+                  ]
+            },
+            {
+                  "name": "Աբկես",
+                  "text": "Aici se află fundațiile și zidurile unei așezări istorice părăsite de mult timp.",
+                  "category": "historical",
+                  "coords": [
+                        46.293226,
+                        39.011096
+                  ]
+            },
+            {
+                  "name": "Արևիք ազգային պարկ",
+                  "text": "Acest parc național din sudul Armeniei servește ca un habitat protejat important pentru leopardul caucazian.",
+                  "category": "natural",
+                  "coords": [
+                        46.265106,
+                        38.981045
+                  ]
+            },
+            {
+                  "name": "Եկեղեցի Սբ. Հակոբ",
+                  "text": "O mică capelă din piatră dedicată Sfântului Iacob, situată în regiunea muntoasă.",
+                  "category": "landmark",
+                  "coords": [
+                        46.299143,
+                        38.999215
+                  ]
+            },
+            {
+                  "name": "Սուրբ Աստվածածին եկեղեցի",
+                  "text": "O biserică armenească tradițională construită din piatră locală, dedicată Maicii Domnului.",
+                  "category": "landmark",
+                  "coords": [
+                        46.177552,
+                        38.939694
+                  ]
+            },
+            {
+                  "name": "Սուրբ Ամենափրկիչ եկեղեցի",
+                  "text": "Această biserică istorică este un sanctuar creștin important, cu vechi khachkar-uri în apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        46.185992,
+                        38.926075
+                  ]
+            },
+            {
+                  "name": "Սուրբ Սարգիս եկեղեցի",
+                  "text": "O biserică montană simplă dedicată Sfântului Sargis, vizitată adesea de pelerinii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        46.179657,
+                        38.932521
+                  ]
+            },
+            {
+                  "name": "Կարմիր վանք",
+                  "text": "Acest complex istoric, cunoscut sub numele de „Mănăstirea Roșie”, impresionează prin culoarea sa specifică.",
+                  "category": "landmark",
+                  "coords": [
+                        46.176841,
+                        38.950956
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tsakqar",
+                  "text": "An impressive mountain peak in the Arevik National Park overlooking the Araks valley.",
+                  "category": "natural",
+                  "coords": [
+                        46.148826,
+                        38.978556
+                  ]
+            },
+            {
+                  "name": "Kujert",
+                  "text": "The stone ruins of an old highland village lie abandoned in the mountain landscape.",
+                  "category": "historical",
+                  "coords": [
+                        46.295056,
+                        38.976724
+                  ]
+            },
+            {
+                  "name": "Abkes",
+                  "text": "Foundations and walls of a long-deserted historical settlement can be found here.",
+                  "category": "historical",
+                  "coords": [
+                        46.293226,
+                        39.011096
+                  ]
+            },
+            {
+                  "name": "Arevik National Park",
+                  "text": "This national park in southern Armenia serves as a vital protected habitat for the rare Caucasian leopard.",
+                  "category": "natural",
+                  "coords": [
+                        46.265106,
+                        38.981045
+                  ]
+            },
+            {
+                  "name": "Church of St. Jacob",
+                  "text": "A small stone chapel dedicated to St. Jacob located in the mountainous region.",
+                  "category": "landmark",
+                  "coords": [
+                        46.299143,
+                        38.999215
+                  ]
+            },
+            {
+                  "name": "Holy Mother of God Church",
+                  "text": "A traditional Armenian church built of local stone and dedicated to the Holy Mother of God.",
+                  "category": "landmark",
+                  "coords": [
+                        46.177552,
+                        38.939694
+                  ]
+            },
+            {
+                  "name": "Holy Savior Church",
+                  "text": "This historical church is a significant Christian sanctuary with ancient khachkars located nearby.",
+                  "category": "landmark",
+                  "coords": [
+                        46.185992,
+                        38.926075
+                  ]
+            },
+            {
+                  "name": "Surb Sargis Church",
+                  "text": "A simple mountain church dedicated to Surb Sargis, frequently visited by local pilgrims.",
+                  "category": "landmark",
+                  "coords": [
+                        46.179657,
+                        38.932521
+                  ]
+            },
+            {
+                  "name": "Karmir Monastery",
+                  "text": "Known as the 'Red Monastery', this historical complex is noted for its distinctive stone coloration.",
+                  "category": "landmark",
+                  "coords": [
+                        46.176841,
+                        38.950956
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "AM-SU",
     coords: [46.2000, 38.9667],
@@ -408,7 +2415,160 @@ export const poiExtraArmeniaNatureV2: POI[] = [
       fr: [],
     }, image: "/poi-images/arevik-national-park-nature-v2.webp"},
   {
-    id: "mount-azhdahak-nature-v2",
+    id: "mount-azhdahak-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Աժդահակ",
+                  "text": "Der höchste Gipfel des Geghama-Gebirges beherbergt einen klaren Kratersee in seinem erloschenen Vulkankegel.",
+                  "category": "natural",
+                  "coords": [
+                        44.950039,
+                        40.22477
+                  ]
+            },
+            {
+                  "name": "Արևելյան Աղուսար",
+                  "text": "Dieser markante Gipfel der Geghama-Kette ist durch seine rötlichen vulkanischen Schlacken und Gesteine geprägt.",
+                  "category": "natural",
+                  "coords": [
+                        44.945485,
+                        40.253929
+                  ]
+            },
+            {
+                  "name": "Արևմտյան Աղուսար",
+                  "text": "Der westliche Gipfel des Aghusar erhebt sich als erloschener Vulkan über die umliegenden Hochweiden.",
+                  "category": "natural",
+                  "coords": [
+                        44.93034,
+                        40.249303
+                  ]
+            },
+            {
+                  "name": "Գռասար",
+                  "text": "Dieser felsige Gipfel ist Teil der vulkanischen Kette, die das Sewan-Becken vom Ararat-Tal trennt.",
+                  "category": "natural",
+                  "coords": [
+                        45.032595,
+                        40.228012
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Աժդահակ",
+                  "text": "A Geghama-hegység legmagasabb csúcsának kialudt vulkáni kúpjában egy tiszta krátertó található.",
+                  "category": "natural",
+                  "coords": [
+                        44.950039,
+                        40.22477
+                  ]
+            },
+            {
+                  "name": "Արևելյան Աղուսար",
+                  "text": "A Geghama-lánc ezen jellegzetes csúcsát vöröses vulkáni salak és kőzet jellemzi.",
+                  "category": "natural",
+                  "coords": [
+                        44.945485,
+                        40.253929
+                  ]
+            },
+            {
+                  "name": "Արևմտյան Աղուսար",
+                  "text": "Az Aguszar nyugati csúcsa kialudt vulkánként magasodik a környező alpesi legelők fölé.",
+                  "category": "natural",
+                  "coords": [
+                        44.93034,
+                        40.249303
+                  ]
+            },
+            {
+                  "name": "Գռասար",
+                  "text": "Ez a sziklás csúcs annak a vulkáni láncnak a része, amely elválasztja a Szeván-medencét az Ararát-völgytől.",
+                  "category": "natural",
+                  "coords": [
+                        45.032595,
+                        40.228012
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Աժդահակ",
+                  "text": "Cel mai înalt vârf din munții Geghama adăpostește un lac de crater limpede în conul său vulcanic stins.",
+                  "category": "natural",
+                  "coords": [
+                        44.950039,
+                        40.22477
+                  ]
+            },
+            {
+                  "name": "Արևելյան Աղուսար",
+                  "text": "Acest vârf proeminent al lanțului Geghama este caracterizat de zgura și roci vulcanice roșiatice.",
+                  "category": "natural",
+                  "coords": [
+                        44.945485,
+                        40.253929
+                  ]
+            },
+            {
+                  "name": "Արևմտյան Աղուսար",
+                  "text": "Vârful vestic al Aghusar se ridică ca un vulcan stins deasupra pășunilor alpine înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        44.93034,
+                        40.249303
+                  ]
+            },
+            {
+                  "name": "Գռասար",
+                  "text": "Acest vârf stâncos face parte din lanțul vulcanic care separă bazinul Sevan de valea Ararat.",
+                  "category": "natural",
+                  "coords": [
+                        45.032595,
+                        40.228012
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Azhdahak",
+                  "text": "The highest peak of the Geghama Mountains features a clear crater lake within its extinct volcanic cone.",
+                  "category": "natural",
+                  "coords": [
+                        44.950039,
+                        40.22477
+                  ]
+            },
+            {
+                  "name": "Eastern Aghusar",
+                  "text": "This prominent peak of the Geghama range is characterized by its reddish volcanic scoria and rocks.",
+                  "category": "natural",
+                  "coords": [
+                        44.945485,
+                        40.253929
+                  ]
+            },
+            {
+                  "name": "Western Aghusar",
+                  "text": "The western peak of Aghusar rises as an extinct volcano above the surrounding alpine pastures.",
+                  "category": "natural",
+                  "coords": [
+                        44.93034,
+                        40.249303
+                  ]
+            },
+            {
+                  "name": "Grasar",
+                  "text": "This rocky peak is part of the volcanic chain separating the Sevan basin from the Ararat valley.",
+                  "category": "natural",
+                  "coords": [
+                        45.032595,
+                        40.228012
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AM-GR",
     coords: [44.9458, 40.2264],
@@ -444,7 +2604,592 @@ export const poiExtraArmeniaNatureV2: POI[] = [
       fr: [],
     }, image: "/poi-images/mount-azhdahak-nature-v2.webp"},
   {
-    id: "vorotan-river-nature-v2",
+    id: "vorotan-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Հին Բարձրավան",
+                  "text": "Diese atmosphärischen Ruinen zeugen von der alten Siedlung Bardzravan am malerischen Worotan-Fluss.",
+                  "category": "historical",
+                  "coords": [
+                        46.324461,
+                        39.401597
+                  ]
+            },
+            {
+                  "name": "Ճաղատ",
+                  "text": "Ein markanter Berggipfel, der weite Ausblicke über das zerklüftete Tal des Worotan bietet.",
+                  "category": "natural",
+                  "coords": [
+                        46.335174,
+                        39.423745
+                  ]
+            },
+            {
+                  "name": "Բղենո-Նորավանք",
+                  "text": "Ein armenisches Kloster aus dem 10. Jahrhundert, bekannt für seine einzigartige einschiffige Bauweise.",
+                  "category": "landmark",
+                  "coords": [
+                        46.36048,
+                        39.388128
+                  ]
+            },
+            {
+                  "name": "Նավիկ",
+                  "text": "Ein hoher Berggipfel in der Provinz Sjunik, der das wilde Worotan-Tal überragt.",
+                  "category": "natural",
+                  "coords": [
+                        46.302921,
+                        39.372377
+                  ]
+            },
+            {
+                  "name": "Մահտեսասար",
+                  "text": "Ein schroffer Gipfel, der sich über der unberührten Natur des Worotan-Beckens erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        46.339833,
+                        39.329144
+                  ]
+            },
+            {
+                  "name": "Սբ. Հռիփսիմե",
+                  "text": "Eine historische armenische Kirche aus dem Jahr 1705, die als geistliches Wahrzeichen am Worotan steht.",
+                  "category": "religious",
+                  "coords": [
+                        46.329059,
+                        39.348214
+                  ]
+            },
+            {
+                  "name": "Անդոկաբերդ",
+                  "text": "Eine mittelalterliche Gipfelfestung, die strategisch günstig zur Überwachung des Hochlands von Sjunik errichtet wurde.",
+                  "category": "fortress",
+                  "coords": [
+                        46.384369,
+                        39.338675
+                  ]
+            },
+            {
+                  "name": "Հին Խոտ",
+                  "text": "Diese Hangruinen eines alten Dorfes über der Worotan-Schlucht werden oft als „armenisches Machu Picchu“ bezeichnet.",
+                  "category": "historical",
+                  "coords": [
+                        46.333317,
+                        39.430607
+                  ]
+            },
+            {
+                  "name": "Աղբուլաղ",
+                  "text": "Diese Steinruinen bezeichnen den Standort einer ehemaligen Siedlung in der abgelegenen Worotan-Region.",
+                  "category": "historical",
+                  "coords": [
+                        46.388543,
+                        39.355776
+                  ]
+            },
+            {
+                  "name": "Հին Հալիձոր",
+                  "text": "Die Überreste eines historischen Dorfes an den steilen, bewaldeten Hängen oberhalb des Worotan-Flusses.",
+                  "category": "historical",
+                  "coords": [
+                        46.29249,
+                        39.406412
+                  ]
+            },
+            {
+                  "name": "Հին Շինուhայր",
+                  "text": "Umfangreiche Ruinen einer antiken Siedlung mit Resten traditioneller Steinhäuser und Sakralbauten.",
+                  "category": "historical",
+                  "coords": [
+                        46.320985,
+                        39.426858
+                  ]
+            },
+            {
+                  "name": "Հարանց անապատ",
+                  "text": "Ein abgelegener Klosterkomplex aus dem 17. Jahrhundert, der am Grund der Worotan-Schlucht liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        46.308391,
+                        39.397907
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գրիգոր Տաթևացի",
+                  "text": "Eine dem Heiligen Gregor gewidmete Stätte in der historisch bedeutsamen Umgebung von Tatev.",
+                  "category": "landmark",
+                  "coords": [
+                        46.317275,
+                        39.434586
+                  ]
+            },
+            {
+                  "name": "Սուրբ Աստվածամայր",
+                  "text": "Eine armenisch-apostolische Kirche aus dem Jahr 1676 in der rauen Landschaft von Worotan.",
+                  "category": "landmark",
+                  "coords": [
+                        46.320925,
+                        39.425437
+                  ]
+            },
+            {
+                  "name": "Կարմիր",
+                  "text": "Eine historische christliche Stätte in der Worotan-Region, die für ihr altes Mauerwerk bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        46.335385,
+                        39.427746
+                  ]
+            },
+            {
+                  "name": "Մրգաձորի խաչ",
+                  "text": "Ein christliches Denkmal oder Kreuzstein (Chatschkar) aus dem 17. Jahrhundert in der malerischen Gegend von Mrgadsor.",
+                  "category": "landmark",
+                  "coords": [
+                        46.328124,
+                        39.436271
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Հին Բարձրավան",
+                  "text": "Hangulatos romtelepülés, amely a festői Vorotan-folyó menti egykori lakott területet jelzi.",
+                  "category": "historical",
+                  "coords": [
+                        46.324461,
+                        39.401597
+                  ]
+            },
+            {
+                  "name": "Ճաղատ",
+                  "text": "Meredek hegycsúcs, amelyről pazar kilátás nyílik a Vorotan-folyó vadregényes völgyére.",
+                  "category": "natural",
+                  "coords": [
+                        46.335174,
+                        39.423745
+                  ]
+            },
+            {
+                  "name": "Բղենո-Նորավանք",
+                  "text": "10-11. századi örmény kolostor, amely egyedülálló egyhajós szerkezetéről és kőfaragványairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        46.36048,
+                        39.388128
+                  ]
+            },
+            {
+                  "name": "Նավիկ",
+                  "text": "Magas hegycsúcs Szjunik tartományban, amely a Vorotan-völgy természetvédelmi területei fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        46.302921,
+                        39.372377
+                  ]
+            },
+            {
+                  "name": "Մահտեսասար",
+                  "text": "Zord hegycsúcs, amely a Vorotan-folyó vízgyűjtőjének érintetlen tájai fölé emelkedik.",
+                  "category": "natural",
+                  "coords": [
+                        46.339833,
+                        39.329144
+                  ]
+            },
+            {
+                  "name": "Սբ. Հռիփսիմե",
+                  "text": "1705-ben épült történelmi örmény templom, amely spirituális jelképként áll a Vorotan-folyó közelében.",
+                  "category": "religious",
+                  "coords": [
+                        46.329059,
+                        39.348214
+                  ]
+            },
+            {
+                  "name": "Անդոկաբերդ",
+                  "text": "Középkori hegyi erőd, amely stratégiai ponton épült a szjuniki felföld ellenőrzésére.",
+                  "category": "fortress",
+                  "coords": [
+                        46.384369,
+                        39.338675
+                  ]
+            },
+            {
+                  "name": "Հին Խոտ",
+                  "text": "A Vorotan-szurdok feletti hegyoldalban fekvő romfalu, amelyet gyakran „örmény Machu Picchuként” emlegetnek.",
+                  "category": "historical",
+                  "coords": [
+                        46.333317,
+                        39.430607
+                  ]
+            },
+            {
+                  "name": "Աղբուլաղ",
+                  "text": "Kőromok, amelyek egy egykori település helyét jelzik a távoli Vorotan-folyó mentén.",
+                  "category": "historical",
+                  "coords": [
+                        46.388543,
+                        39.355776
+                  ]
+            },
+            {
+                  "name": "Հին Հալիձոր",
+                  "text": "Egy történelmi falu maradványai a Vorotan-folyó feletti meredek, erdős hegyoldalon.",
+                  "category": "historical",
+                  "coords": [
+                        46.29249,
+                        39.406412
+                  ]
+            },
+            {
+                  "name": "Հին Շինուhայր",
+                  "text": "Egy ősi település kiterjedt romjai hagyományos kőházak és egyházi épületek maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        46.320985,
+                        39.426858
+                  ]
+            },
+            {
+                  "name": "Հարանց անապատ",
+                  "text": "Elszigetelt, 17. századi kolostorkomplexum a Vorotan-szurdok mélyén.",
+                  "category": "landmark",
+                  "coords": [
+                        46.308391,
+                        39.397907
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գրիգոր Տաթևացի",
+                  "text": "Szent Gergelynek szentelt keresztény emlékhely Tatev történelmileg jelentős környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        46.317275,
+                        39.434586
+                  ]
+            },
+            {
+                  "name": "Սուրբ Աստվածամայր",
+                  "text": "1676-ból származó örmény apostoli templom a zord Vorotan-vidéken.",
+                  "category": "landmark",
+                  "coords": [
+                        46.320925,
+                        39.425437
+                  ]
+            },
+            {
+                  "name": "Կարմիր",
+                  "text": "Történelmi keresztény emlékhely, amely régi kőfalairól ismert a Vorotan-régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        46.335385,
+                        39.427746
+                  ]
+            },
+            {
+                  "name": "Մրգաձորի խաչ",
+                  "text": "17. századi keresztény emlékmű vagy hacskar a festői Mrgadzor területén.",
+                  "category": "landmark",
+                  "coords": [
+                        46.328124,
+                        39.436271
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Հին Բարձրավան",
+                  "text": "Aceste ruine atmosferice reprezintă vechea așezare abandonată situată lângă pitorescul râu Vorotan.",
+                  "category": "historical",
+                  "coords": [
+                        46.324461,
+                        39.401597
+                  ]
+            },
+            {
+                  "name": "Ճաղատ",
+                  "text": "Un vârf muntos proeminent care oferă vederi largi asupra văii accidentate a râului Vorotan.",
+                  "category": "natural",
+                  "coords": [
+                        46.335174,
+                        39.423745
+                  ]
+            },
+            {
+                  "name": "Բղենո-Նորավանք",
+                  "text": "O mănăstire armenească din secolul al XI-lea, cunoscută pentru structura sa unică cu o singură navă.",
+                  "category": "landmark",
+                  "coords": [
+                        46.36048,
+                        39.388128
+                  ]
+            },
+            {
+                  "name": "Նավիկ",
+                  "text": "Un vârf de munte înalt din regiunea Syunik, care domină valea sălbatică a râului Vorotan.",
+                  "category": "natural",
+                  "coords": [
+                        46.302921,
+                        39.372377
+                  ]
+            },
+            {
+                  "name": "Մահտեսասար",
+                  "text": "Un vârf muntos accidentat care se înalță deasupra naturii sălbatice din bazinul râului Vorotan.",
+                  "category": "natural",
+                  "coords": [
+                        46.339833,
+                        39.329144
+                  ]
+            },
+            {
+                  "name": "Սբ. Հռիփսիմե",
+                  "text": "O biserică armenească istorică finalizată în 1705, un punct de reper spiritual lângă râul Vorotan.",
+                  "category": "religious",
+                  "coords": [
+                        46.329059,
+                        39.348214
+                  ]
+            },
+            {
+                  "name": "Անդոկաբերդ",
+                  "text": "O fortăreață medievală situată pe un deal, poziționată strategic pentru a supraveghea regiunea muntoasă Syunik.",
+                  "category": "fortress",
+                  "coords": [
+                        46.384369,
+                        39.338675
+                  ]
+            },
+            {
+                  "name": "Հին Խոտ",
+                  "text": "Adesea comparate cu Machu Picchu, aceste ruine de pe versant marchează un sat antic cocoțat deasupra cheilor Vorotan.",
+                  "category": "historical",
+                  "coords": [
+                        46.333317,
+                        39.430607
+                  ]
+            },
+            {
+                  "name": "Աղբուլաղ",
+                  "text": "Aceste ruine de piatră marchează locul unei foste așezări în regiunea izolată a râului Vorotan.",
+                  "category": "historical",
+                  "coords": [
+                        46.388543,
+                        39.355776
+                  ]
+            },
+            {
+                  "name": "Հին Հալիձոր",
+                  "text": "Rămășițele unui sat istoric situat pe versanții abrupți și împăduriți de deasupra râului Vorotan.",
+                  "category": "historical",
+                  "coords": [
+                        46.29249,
+                        39.406412
+                  ]
+            },
+            {
+                  "name": "Հին Շինուhայր",
+                  "text": "Ruine extinse ale unei așezări antice, cu rămășițe de locuințe tradiționale din piatră și structuri religioase.",
+                  "category": "historical",
+                  "coords": [
+                        46.320985,
+                        39.426858
+                  ]
+            },
+            {
+                  "name": "Հարանց անապատ",
+                  "text": "Un complex monastic izolat din secolul al XVII-lea, situat în partea de jos a cheilor Vorotan.",
+                  "category": "landmark",
+                  "coords": [
+                        46.308391,
+                        39.397907
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գրիգոր Տաթևացի",
+                  "text": "Un sit spiritual dedicat Sfântului Grigore, situat în vecinătatea semnificativă din punct de vedere istoric a mănăstirii Tatev.",
+                  "category": "landmark",
+                  "coords": [
+                        46.317275,
+                        39.434586
+                  ]
+            },
+            {
+                  "name": "Սուրբ Աստվածամայր",
+                  "text": "O biserică apostolică armenească datând din 1676, situată în peisajul accidentat din Vorotan.",
+                  "category": "landmark",
+                  "coords": [
+                        46.320925,
+                        39.425437
+                  ]
+            },
+            {
+                  "name": "Կարմիր",
+                  "text": "Un sit creștin istoric cunoscut local pentru construcția sa veche din piatră în regiunea Vorotan.",
+                  "category": "landmark",
+                  "coords": [
+                        46.335385,
+                        39.427746
+                  ]
+            },
+            {
+                  "name": "Մրգաձորի խաչ",
+                  "text": "Un monument creștin sau un khachkar din secolul al XVII-lea situat în zona pitorească Mrgadzor.",
+                  "category": "landmark",
+                  "coords": [
+                        46.328124,
+                        39.436271
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Bardzravan",
+                  "text": "These atmospheric ruins represent the abandoned old settlement located near the scenic Vorotan River.",
+                  "category": "historical",
+                  "coords": [
+                        46.324461,
+                        39.401597
+                  ]
+            },
+            {
+                  "name": "Chaghat",
+                  "text": "A prominent mountain peak offering rugged views over the jagged Vorotan River valley.",
+                  "category": "natural",
+                  "coords": [
+                        46.335174,
+                        39.423745
+                  ]
+            },
+            {
+                  "name": "Bgheno-Noravank Monastery",
+                  "text": "A 10th-century Armenian monastery known for its unique single-nave structure and intricate stone carvings.",
+                  "category": "landmark",
+                  "coords": [
+                        46.36048,
+                        39.388128
+                  ]
+            },
+            {
+                  "name": "Navik",
+                  "text": "A high mountain peak in the Syunik region overlooking the wilderness of the Vorotan valley.",
+                  "category": "natural",
+                  "coords": [
+                        46.302921,
+                        39.372377
+                  ]
+            },
+            {
+                  "name": "Mahtesasar",
+                  "text": "A rugged peak rising above the untouched nature of the Vorotan River basin.",
+                  "category": "natural",
+                  "coords": [
+                        46.339833,
+                        39.329144
+                  ]
+            },
+            {
+                  "name": "St. Hripsime",
+                  "text": "A historic Armenian church completed in 1705, standing as a spiritual landmark near the Vorotan River.",
+                  "category": "religious",
+                  "coords": [
+                        46.329059,
+                        39.348214
+                  ]
+            },
+            {
+                  "name": "Andokaberd",
+                  "text": "A medieval hilltop fortress strategically positioned to overlook the surrounding Syunik highlands.",
+                  "category": "fortress",
+                  "coords": [
+                        46.384369,
+                        39.338675
+                  ]
+            },
+            {
+                  "name": "Old Khot",
+                  "text": "Often likened to Machu Picchu, these hillside ruins mark an ancient village perched above the Vorotan Gorge.",
+                  "category": "historical",
+                  "coords": [
+                        46.333317,
+                        39.430607
+                  ]
+            },
+            {
+                  "name": "Aghbullagh",
+                  "text": "These stone ruins mark the site of a former settlement in the remote Vorotan River region.",
+                  "category": "historical",
+                  "coords": [
+                        46.388543,
+                        39.355776
+                  ]
+            },
+            {
+                  "name": "Old Halidzor",
+                  "text": "The remains of a historic village situated on the steep, wooded slopes above the Vorotan River.",
+                  "category": "historical",
+                  "coords": [
+                        46.29249,
+                        39.406412
+                  ]
+            },
+            {
+                  "name": "Old Shinuhayr",
+                  "text": "Extensive ruins of an ancient settlement featuring the remnants of traditional stone dwellings and religious structures.",
+                  "category": "historical",
+                  "coords": [
+                        46.320985,
+                        39.426858
+                  ]
+            },
+            {
+                  "name": "Harants Hermitage",
+                  "text": "A secluded 17th-century monastic complex located at the bottom of the Vorotan Gorge.",
+                  "category": "landmark",
+                  "coords": [
+                        46.308391,
+                        39.397907
+                  ]
+            },
+            {
+                  "name": "St. Gregory of Tatev",
+                  "text": "A spiritual site dedicated to St. Gregory, located in the historically significant vicinity of Tatev.",
+                  "category": "landmark",
+                  "coords": [
+                        46.317275,
+                        39.434586
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Mother of God",
+                  "text": "An Armenian Apostolic church dating back to 1676, located in the rugged Vorotan landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        46.320925,
+                        39.425437
+                  ]
+            },
+            {
+                  "name": "Karmir",
+                  "text": "A historic Christian site known locally for its ancient stone construction in the Vorotan region.",
+                  "category": "landmark",
+                  "coords": [
+                        46.335385,
+                        39.427746
+                  ]
+            },
+            {
+                  "name": "Mrgadzori Khach",
+                  "text": "A 17th-century Christian monument or cross-stone located in the scenic Mrgadzor area.",
+                  "category": "landmark",
+                  "coords": [
+                        46.328124,
+                        39.436271
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "AM-SU",
     coords: [46.3333, 39.4000],
@@ -480,7 +3225,232 @@ export const poiExtraArmeniaNatureV2: POI[] = [
       fr: [],
     }, image: "/poi-images/vorotan-river-nature-v2.webp"},
   {
-    id: "lake-kari-nature-v2",
+    id: "lake-kari-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sangyar",
+                  "text": "Diese antiken Ruinen befinden sich in einer abgeschiedenen Hochgebirgslandschaft am Fuße des Berges Aragats.",
+                  "category": "historical",
+                  "coords": [
+                        44.103424,
+                        40.484662
+                  ]
+            },
+            {
+                  "name": "Ագռավաքար",
+                  "text": "Dieser markante Gipfel des Aragats-Massivs bietet einen weiten Ausblick über das armenische Hochland.",
+                  "category": "natural",
+                  "coords": [
+                        44.11283,
+                        40.432673
+                  ]
+            },
+            {
+                  "name": "Քարակարկառ",
+                  "text": "Ein Ziel für Bergsteiger im Aragats-Gebirge, bekannt für seine schroffen Felsformationen und alpine Vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        44.143994,
+                        40.444004
+                  ]
+            },
+            {
+                  "name": "Գրավիտացիոն Անոմալիա",
+                  "text": "An diesem mysteriösen Ort auf dem Weg zum Aragats scheinen Autos und Wasser bergauf zu rollen bzw. zu fließen.",
+                  "category": "landmark",
+                  "coords": [
+                        44.204802,
+                        40.450381
+                  ]
+            },
+            {
+                  "name": "Վիշապաքար",
+                  "text": "Dieser antike Drachenstein ist mit mystischen Fisch- und Schlangenmotiven verziert und steht nahe dem Kari-See.",
+                  "category": "natural",
+                  "coords": [
+                        44.181884,
+                        40.47244
+                  ]
+            },
+            {
+                  "name": "Արագածի ալպյան արգելավայր",
+                  "text": "Dieses Schutzgebiet am Aragats bewahrt die empfindliche alpine Flora und die seltene Tierwelt der Hochgebirgsregion.",
+                  "category": "natural",
+                  "coords": [
+                        44.179072,
+                        40.479245
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sangyar",
+                  "text": "Ezek az ókori romok egy elszigetelt magashegyi tájon találhatók az Aragac-hegy lábánál.",
+                  "category": "historical",
+                  "coords": [
+                        44.103424,
+                        40.484662
+                  ]
+            },
+            {
+                  "name": "Ագռավաքար",
+                  "text": "Az Aragac-masszívumnak ez a jellegzetes csúcsa széles kilátást nyújt az örmény felföldre.",
+                  "category": "natural",
+                  "coords": [
+                        44.11283,
+                        40.432673
+                  ]
+            },
+            {
+                  "name": "Քարակարկառ",
+                  "text": "A hegymászók célpontja az Aragac-hegységben, amely zord sziklaalakzatairól és alpesi növényzetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        44.143994,
+                        40.444004
+                  ]
+            },
+            {
+                  "name": "Գրավիտացիոն Անոմալիա",
+                  "text": "Ezen a rejtélyes helyen az Aragac felé vezető úton az autók és a víz úgy tűnik, mintha felfelé gurulnának, illetve folynának.",
+                  "category": "landmark",
+                  "coords": [
+                        44.204802,
+                        40.450381
+                  ]
+            },
+            {
+                  "name": "Վիշապաքար",
+                  "text": "Ez az ókori sárkánykő misztikus hal- és kígyómotívumokkal van díszítve, és a Kari-tó közelében áll.",
+                  "category": "natural",
+                  "coords": [
+                        44.181884,
+                        40.47244
+                  ]
+            },
+            {
+                  "name": "Արագածի ալպյան արգելավայր",
+                  "text": "Ez az Aragacnál található védett terület megőrzi a magashegyi régió érzékeny alpesi flóráját és ritka állatvilágát.",
+                  "category": "natural",
+                  "coords": [
+                        44.179072,
+                        40.479245
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sangyar",
+                  "text": "Aceste ruine antice se află într-un peisaj montan izolat, la poalele muntelui Aragats.",
+                  "category": "historical",
+                  "coords": [
+                        44.103424,
+                        40.484662
+                  ]
+            },
+            {
+                  "name": "Ագռավաքար",
+                  "text": "Acest vârf proeminent al masivului Aragats oferă o vedere panoramică asupra podișului armean.",
+                  "category": "natural",
+                  "coords": [
+                        44.11283,
+                        40.432673
+                  ]
+            },
+            {
+                  "name": "Քարակարկառ",
+                  "text": "O destinație pentru alpiniști în munții Aragats, cunoscută pentru formațiunile sale stâncoase abrupte și vegetația alpină.",
+                  "category": "natural",
+                  "coords": [
+                        44.143994,
+                        40.444004
+                  ]
+            },
+            {
+                  "name": "Գրավիտացիոն Անոմալիա",
+                  "text": "În acest loc misterios de pe drumul spre Aragats, mașinile și apa par să se rostogolească, respectiv să curgă la deal.",
+                  "category": "landmark",
+                  "coords": [
+                        44.204802,
+                        40.450381
+                  ]
+            },
+            {
+                  "name": "Վիշապաքար",
+                  "text": "Această piatră antică a dragonului este decorată cu motive mistice de pești și șerpi și se află lângă lacul Kari.",
+                  "category": "natural",
+                  "coords": [
+                        44.181884,
+                        40.47244
+                  ]
+            },
+            {
+                  "name": "Արագածի ալպյան արգելավայր",
+                  "text": "Această arie protejată de pe Aragats conservă flora alpină fragilă și fauna rară din regiunea montană înaltă.",
+                  "category": "natural",
+                  "coords": [
+                        44.179072,
+                        40.479245
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sangyar",
+                  "text": "These ancient ruins are located in a secluded high-mountain landscape at the foot of Mount Aragats.",
+                  "category": "historical",
+                  "coords": [
+                        44.103424,
+                        40.484662
+                  ]
+            },
+            {
+                  "name": "Agravaqar",
+                  "text": "This prominent peak of the Aragats massif offers a broad view over the Armenian highlands.",
+                  "category": "natural",
+                  "coords": [
+                        44.11283,
+                        40.432673
+                  ]
+            },
+            {
+                  "name": "Qarakarkar",
+                  "text": "A destination for climbers in the Aragats mountains, known for its rugged rock formations and alpine vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        44.143994,
+                        40.444004
+                  ]
+            },
+            {
+                  "name": "Gravity Anomaly",
+                  "text": "At this mysterious spot on the road to Mt. Aragats, cars and water appear to roll or flow uphill.",
+                  "category": "landmark",
+                  "coords": [
+                        44.204802,
+                        40.450381
+                  ]
+            },
+            {
+                  "name": "Վիշապաքար",
+                  "text": "This ancient dragon stone is decorated with mystical fish and serpent motifs and stands near Lake Kari.",
+                  "category": "natural",
+                  "coords": [
+                        44.181884,
+                        40.47244
+                  ]
+            },
+            {
+                  "name": "Aragats Alpine Sanctuary",
+                  "text": "This protected area on Mt. Aragats preserves the delicate alpine flora and rare wildlife of the high-mountain region.",
+                  "category": "natural",
+                  "coords": [
+                        44.179072,
+                        40.479245
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "AM-AG",
     coords: [44.1814, 40.4725],
@@ -552,7 +3522,268 @@ export const poiExtraArmeniaNatureV2: POI[] = [
       fr: [],
     }, image: "/poi-images/kasagh-river-nature-v2.webp"},
   {
-    id: "lake-akna-nature-v2",
+    id: "lake-akna-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Գեղմաղան",
+                  "text": "Der Gipfel überragt den Akna-See und ist im Frühling oft noch von Schneefeldern bedeckt.",
+                  "category": "natural",
+                  "coords": [
+                        44.895797,
+                        40.268616
+                  ]
+            },
+            {
+                  "name": "Ակնասար",
+                  "text": "Dieser Berg liegt direkt am Ufer des Akna-Sees und spiegelt sich in dessen klarem Gebirgswasser.",
+                  "category": "natural",
+                  "coords": [
+                        44.936266,
+                        40.290659
+                  ]
+            },
+            {
+                  "name": "Նարինե",
+                  "text": "Ein schmaler Gipfel in der Nähe des Akna-Sees, der ein beliebtes Ziel für Wanderungen im Geghama-Gebirge ist.",
+                  "category": "natural",
+                  "coords": [
+                        44.931775,
+                        40.302952
+                  ]
+            },
+            {
+                  "name": "Շամփրասար",
+                  "text": "Von diesem Gipfel aus hat man eine weite Sicht auf die glitzernde Fläche des Akna-Sees im Vulkankrater.",
+                  "category": "natural",
+                  "coords": [
+                        44.91139,
+                        40.304189
+                  ]
+            },
+            {
+                  "name": "Շուշան",
+                  "text": "Ein sanfter Gebirgskamm im Hochland, der für seine Wildblumenwiesen im kurzen armenischen Bergsommer bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        44.921807,
+                        40.29198
+                  ]
+            },
+            {
+                  "name": "Սևկատար",
+                  "text": "Sevkatar verdankt seinen Namen dem dunklen, fast schwarzen Vulkangestein, das seine Flanken bedeckt.",
+                  "category": "natural",
+                  "coords": [
+                        44.911141,
+                        40.343084
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գևորգ մատուռ ( Զիարատ)",
+                  "text": "Diese kleine christliche Kapelle ist eine hochgelegene Pilgerstätte inmitten der einsamen Bergwelt.",
+                  "category": "landmark",
+                  "coords": [
+                        45.031596,
+                        40.302807
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Գեղմաղան",
+                  "text": "A csúcs az Akna-tó fölé magasodik, és tavasszal gyakran még hótakaró borítja.",
+                  "category": "natural",
+                  "coords": [
+                        44.895797,
+                        40.268616
+                  ]
+            },
+            {
+                  "name": "Ակնասար",
+                  "text": "Ez a hegy közvetlenül az Akna-tó partján fekszik, és tükröződik annak tiszta hegyi vizében.",
+                  "category": "natural",
+                  "coords": [
+                        44.936266,
+                        40.290659
+                  ]
+            },
+            {
+                  "name": "Նարինե",
+                  "text": "Egy keskeny csúcs az Akna-tó közelében, amely népszerű túracélpont a Geghama-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        44.931775,
+                        40.302952
+                  ]
+            },
+            {
+                  "name": "Շամփրասար",
+                  "text": "Erről a csúcsról pazar kilátás nyílik a vulkáni kráterben csillogó Akna-tóra.",
+                  "category": "natural",
+                  "coords": [
+                        44.91139,
+                        40.304189
+                  ]
+            },
+            {
+                  "name": "Շուշան",
+                  "text": "Egy szelíd hegygerinc a fennsíkon, amely a rövid örmény hegyi nyár vadvirágos rétjeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        44.921807,
+                        40.29198
+                  ]
+            },
+            {
+                  "name": "Սևկատար",
+                  "text": "Szevkatar a nevét a sötét, szinte fekete vulkáni kőzetről kapta, amely az oldalait borítja.",
+                  "category": "natural",
+                  "coords": [
+                        44.911141,
+                        40.343084
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գևորգ մատուռ ( Զիարատ)",
+                  "text": "Ez a kis keresztény kápolna egy magashegyi zarándokhely a magányos hegyi világ közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        45.031596,
+                        40.302807
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Գեղմաղան",
+                  "text": "Vârful domină lacul Akna și este adesea acoperit de petice de zăpadă în timpul primăverii.",
+                  "category": "natural",
+                  "coords": [
+                        44.895797,
+                        40.268616
+                  ]
+            },
+            {
+                  "name": "Ակնասար",
+                  "text": "Acest munte se află chiar pe malul lacului Akna, oglindindu-se în apele sale limpezi de munte.",
+                  "category": "natural",
+                  "coords": [
+                        44.936266,
+                        40.290659
+                  ]
+            },
+            {
+                  "name": "Նարինե",
+                  "text": "Un vârf îngust lângă lacul Akna, fiind o destinație populară pentru drumeții în munții Geghama.",
+                  "category": "natural",
+                  "coords": [
+                        44.931775,
+                        40.302952
+                  ]
+            },
+            {
+                  "name": "Շամփրասար",
+                  "text": "De pe acest vârf se deschide o vedere largă asupra suprafeței sclipitoare a lacului Akna din craterul vulcanic.",
+                  "category": "natural",
+                  "coords": [
+                        44.91139,
+                        40.304189
+                  ]
+            },
+            {
+                  "name": "Շուշան",
+                  "text": "O creastă montană blândă din podiș, cunoscută pentru pajiștile sale cu flori sălbatice în scurta vară armeană.",
+                  "category": "natural",
+                  "coords": [
+                        44.921807,
+                        40.29198
+                  ]
+            },
+            {
+                  "name": "Սևկատար",
+                  "text": "Sevkatar își datorează numele rocii vulcanice întunecate, aproape negre, care îi acoperă versanții.",
+                  "category": "natural",
+                  "coords": [
+                        44.911141,
+                        40.343084
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գևորգ մատուռ ( Զիարատ)",
+                  "text": "Această mică chapelă creștină este un loc de pelerinaj la mare altitudine, în mijlocul munților izolați.",
+                  "category": "landmark",
+                  "coords": [
+                        45.031596,
+                        40.302807
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gekhmagan",
+                  "text": "The peak towers over Lake Akna and is often still covered by snow patches in early spring.",
+                  "category": "natural",
+                  "coords": [
+                        44.895797,
+                        40.268616
+                  ]
+            },
+            {
+                  "name": "Aknasar",
+                  "text": "This mountain sits right on the shore of Lake Akna, reflecting in its clear alpine waters.",
+                  "category": "natural",
+                  "coords": [
+                        44.936266,
+                        40.290659
+                  ]
+            },
+            {
+                  "name": "Narine",
+                  "text": "A narrow peak near Lake Akna that is a popular destination for trekking in the Geghama Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        44.931775,
+                        40.302952
+                  ]
+            },
+            {
+                  "name": "Shamprasar",
+                  "text": "From this summit, there is a wide view of the glittering surface of Lake Akna within the volcanic crater.",
+                  "category": "natural",
+                  "coords": [
+                        44.91139,
+                        40.304189
+                  ]
+            },
+            {
+                  "name": "Shushan",
+                  "text": "A gentle mountain ridge in the highlands known for its wildflower meadows during the short Armenian mountain summer.",
+                  "category": "natural",
+                  "coords": [
+                        44.921807,
+                        40.29198
+                  ]
+            },
+            {
+                  "name": "Black Ridge",
+                  "text": "Sevkatar owes its name to the dark, almost black volcanic rock that covers its flanks.",
+                  "category": "natural",
+                  "coords": [
+                        44.911141,
+                        40.343084
+                  ]
+            },
+            {
+                  "name": "St. Gevorg chapel (Ziarath)",
+                  "text": "This small Christian chapel serves as a high-altitude pilgrimage site amidst the lonely mountain world.",
+                  "category": "landmark",
+                  "coords": [
+                        45.031596,
+                        40.302807
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "AM-KT",
     coords: [44.9222, 40.2800],
@@ -741,7 +3972,1096 @@ export const poiExtraArmeniaNatureV2: POI[] = [
       fr: [],
     }, image: "/poi-images/debed-river-nature-v2.webp"},
   {
-    id: "lake-parz-nature-v2",
+    id: "lake-parz-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Շրջված տուն",
+                  "text": "Ein modernes Kuriosum in der Nähe des Parz-Sees, bei dem das gesamte Gebäude samt Einrichtung auf dem Kopf steht.",
+                  "category": "landmark",
+                  "coords": [
+                        44.93483,
+                        40.761257
+                  ]
+            },
+            {
+                  "name": "Ռեդկինի ճամբար",
+                  "text": "Eine archäologische Fundstätte mit antiken Grabstätten und Festungsresten aus der Eisenzeit.",
+                  "category": "historical",
+                  "coords": [
+                        44.922302,
+                        40.768127
+                  ]
+            },
+            {
+                  "name": "Blue RAF-2203",
+                  "text": "Ein blauer sowjetischer Oldtimer-Minibus, der am Parz-See als beliebtes Fotomotiv aufgestellt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        44.894266,
+                        40.753233
+                  ]
+            },
+            {
+                  "name": "Պեպուզ քար",
+                  "text": "Ein natürlicher Felsvorsprung, der einen weiten Blick über die bewaldeten Täler bei Dilidschan bietet.",
+                  "category": "natural",
+                  "coords": [
+                        44.844516,
+                        40.75205
+                  ]
+            },
+            {
+                  "name": "Avetiq Harutyunyan Art Gallery",
+                  "text": "Diese Galerie präsentiert Werke des lokalen Künstlers Avetiq Harutyunyan, inspiriert von der Natur Armeniens.",
+                  "category": "museum",
+                  "coords": [
+                        44.852448,
+                        40.740052
+                  ]
+            },
+            {
+                  "name": "Չօգտագործված սովետական ​​Ferris անիվ",
+                  "text": "Ein rostiges Überbleibsel aus der Sowjetzeit, das heute als nostalgisches Objekt im Park steht.",
+                  "category": "landmark",
+                  "coords": [
+                        44.857347,
+                        40.738107
+                  ]
+            },
+            {
+                  "name": "Հայկական տեքստիլի թանգարան",
+                  "text": "Dieses 1979 gegründete Museum in einem traditionellen Holzhaus zeigt die reiche Textilkunst und Volkskunst Armeniens.",
+                  "category": "museum",
+                  "coords": [
+                        44.863711,
+                        40.740372
+                  ]
+            },
+            {
+                  "name": "Մատնանց Աղբյուր",
+                  "text": "Ein historischer Trinkbrunnen aus den 1880er Jahren, der im alten Viertel von Dilidschan frisches Quellwasser spendet.",
+                  "category": "landmark",
+                  "coords": [
+                        44.871133,
+                        40.740486
+                  ]
+            },
+            {
+                  "name": "Հայկական դրամի թանգարան",
+                  "text": "Dieses Museum ist der Geschichte und Entwicklung der armenischen Nationalwährung Dram gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        44.865787,
+                        40.743625
+                  ]
+            },
+            {
+                  "name": "Լքված ավտոբուս",
+                  "text": "Ein verlassener sowjetischer Bus, der im Wald bei Dilidschan als skurriles Objekt in die Natur eingewachsen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.853691,
+                        40.744965
+                  ]
+            },
+            {
+                  "name": "Սառցապատ",
+                  "text": "Ein schroffer Gipfel im Idschewan-Gebirge, der für seine Kalksteinfelsen und Wanderpfade bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        44.955864,
+                        40.836585
+                  ]
+            },
+            {
+                  "name": "Դիմաց",
+                  "text": "Dieser markante Tafelberg bietet spektakuläre Steilwände und weite Ausblicke auf die umliegende Berglandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        44.943457,
+                        40.825623
+                  ]
+            },
+            {
+                  "name": "Տկլորսար",
+                  "text": "Ein abgelegener Gipfel im Dilidschan-Nationalpark, umgeben von dichten Buchen- und Eichenwäldern.",
+                  "category": "natural",
+                  "coords": [
+                        44.891845,
+                        40.78679
+                  ]
+            },
+            {
+                  "name": "Հովք-1",
+                  "text": "Der Eingang zu einer prähistorischen Höhle im Idschewan-Gebirge, die archäologische Funde aus der Steinzeit barg.",
+                  "category": "natural",
+                  "coords": [
+                        45.003671,
+                        40.82238
+                  ]
+            },
+            {
+                  "name": "Սուրբ",
+                  "text": "Die malerischen Ruinen einer kleinen mittelalterlichen Steinkirche, die versteckt im dichten Wald liegen.",
+                  "category": "historical",
+                  "coords": [
+                        45.020683,
+                        40.789605
+                  ]
+            },
+            {
+                  "name": "Nationalpark Dilijan",
+                  "text": "Dieses oft als „Armenische Schweiz“ bezeichnete Schutzgebiet bewahrt weite Bergwälder und klare Bergseen wie den Parz-See.",
+                  "category": "natural",
+                  "coords": [
+                        44.931166,
+                        40.741744
+                  ]
+            },
+            {
+                  "name": "Ազնիվ եղջերուների բուծման կենտրոն",
+                  "text": "Ein Zuchtzentrum im Nationalpark Dilidschan, das sich dem Erhalt des Kaukasischen Rothirschs widmet.",
+                  "category": "landmark",
+                  "coords": [
+                        44.931252,
+                        40.750691
+                  ]
+            },
+            {
+                  "name": "Khanjian Villa",
+                  "text": "Die Ruinen einer kreisförmigen modernistischen Villa, die 1936 für den sowjetarmenischen Führer Aghasi Khanjian erbaut wurde.",
+                  "category": "historical",
+                  "coords": [
+                        44.861842,
+                        40.736969
+                  ]
+            },
+            {
+                  "name": "Կարմիր կամուրջ",
+                  "text": "Eine historische Steinbrücke aus der Zeit um 1900, die ein wichtiges Zeugnis der regionalen Baukunst darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        44.86528,
+                        40.740358
+                  ]
+            },
+            {
+                  "name": "Դիլիջանի հուշարձան",
+                  "text": "Ein markantes Denkmal aus dem Jahr 1970, das an das 50-jährige Jubiläum der Sowjetisierung Armeniens erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        44.867057,
+                        40.740969
+                  ]
+            },
+            {
+                  "name": "Դիլիջանի երկրագիտական թանգարան-պատկերասրահ",
+                  "text": "Dieses Museum zeigt eine reiche Sammlung armenischer Malerei und Exponate zur lokalen Geschichte von Dilidschan.",
+                  "category": "museum",
+                  "coords": [
+                        44.866948,
+                        40.738399
+                  ]
+            },
+            {
+                  "name": "Հարբած անտառ",
+                  "text": "Ein Waldgebiet, in dem die Bäume aufgrund von Bodenbewegungen in bizarren, schrägen Winkeln wachsen.",
+                  "category": "landmark",
+                  "coords": [
+                        44.873222,
+                        40.738052
+                  ]
+            },
+            {
+                  "name": "ბլյուը ცისფერი",
+                  "text": "Ein malerisches Sumpfgebiet, das für seine charakteristische Färbung und die reiche lokale Artenvielfalt bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.889759,
+                        40.810581
+                  ]
+            },
+            {
+                  "name": "Եկեղեցի Սբ. Գրիգոր Լուսավորիչ",
+                  "text": "Eine armenisch-apostolische Kirche, die dem Schutzpatron Armeniens, dem Heiligen Gregor dem Erleuchter, gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        44.890847,
+                        40.801702
+                  ]
+            },
+            {
+                  "name": "Սուրբ Խաչ",
+                  "text": "Ein im Jahr 2010 errichteter moderner armenischer Kreuzstein-Schrein zur religiösen Andacht.",
+                  "category": "landmark",
+                  "coords": [
+                        44.869147,
+                        40.739403
+                  ]
+            },
+            {
+                  "name": "Եհովայի վկաներ. Թագավորության սրահ",
+                  "text": "Ein zeitgenössischer Versammlungsort der örtlichen Gemeinde der Zeugen Jehovas.",
+                  "category": "landmark",
+                  "coords": [
+                        44.892261,
+                        40.752237
+                  ]
+            },
+            {
+                  "name": "Ավետարանական եկեղեցի",
+                  "text": "Ein Gotteshaus, das der örtlichen armenisch-evangelischen Kirchengemeinde als geistliches Zentrum dient.",
+                  "category": "landmark",
+                  "coords": [
+                        44.845271,
+                        40.740134
+                  ]
+            },
+            {
+                  "name": "Սուրբ Հակոբ եկեղեցի",
+                  "text": "Eine schlichte armenische Kirche, die 1990 zur Versorgung der lokalen Gemeinde erbaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        44.863133,
+                        40.739281
+                  ]
+            },
+            {
+                  "name": "Հանրախանութ",
+                  "text": "Ein historisches Kaufhausgebäude, das die sowjetische Handelsarchitektur in der Region repräsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        44.872497,
+                        40.742088
+                  ]
+            },
+            {
+                  "name": "Eco Cottages",
+                  "text": "Eine Wellness-Einrichtung, die traditionelle Bäder in einer natürlichen Gebirgslandschaft anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        44.878559,
+                        40.747396
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Շրջված տուն",
+                  "text": "Modern különlegesség a Parz-tó közelében, ahol az egész épület és a berendezés is fejjel lefelé áll.",
+                  "category": "landmark",
+                  "coords": [
+                        44.93483,
+                        40.761257
+                  ]
+            },
+            {
+                  "name": "Ռեդկինի ճամբար",
+                  "text": "Régészeti lelőhely vaskori sírokkal és egy erődítmény maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        44.922302,
+                        40.768127
+                  ]
+            },
+            {
+                  "name": "Blue RAF-2203",
+                  "text": "Egy kék szovjet veterán minibusz, amely a Parz-tónál népszerű fotópontként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        44.894266,
+                        40.753233
+                  ]
+            },
+            {
+                  "name": "Պեպուզ քար",
+                  "text": "Természetes sziklakiszögellés, ahonnan tágas kilátás nyílik a Dilidzsán környéki erdős völgyekre.",
+                  "category": "natural",
+                  "coords": [
+                        44.844516,
+                        40.75205
+                  ]
+            },
+            {
+                  "name": "Avetiq Harutyunyan Art Gallery",
+                  "text": "A galéria Avetiq Harutyunyan helyi művész alkotásait mutatja be, amelyeket Örményország természete ihletett.",
+                  "category": "museum",
+                  "coords": [
+                        44.852448,
+                        40.740052
+                  ]
+            },
+            {
+                  "name": "Չօգտագործված սովետական ​​Ferris անիվ",
+                  "text": "Rozsdás szovjet korszakbeli maradvány, amely ma nosztalgikus látványosságként áll a parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        44.857347,
+                        40.738107
+                  ]
+            },
+            {
+                  "name": "Հայկական տեքստիլի թանգարան",
+                  "text": "Ez az 1979-ben alapított, hagyományos faházban működő múzeum Örményország gazdag textil- és népművészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        44.863711,
+                        40.740372
+                  ]
+            },
+            {
+                  "name": "Մատնանց Աղբյուր",
+                  "text": "Történelmi ivókút az 1880-as évekből, amely friss forrásvizet ad Dilidzsán óvárosi negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        44.871133,
+                        40.740486
+                  ]
+            },
+            {
+                  "name": "Հայկական դրամի թանգարան",
+                  "text": "Ez a múzeum az örmény nemzeti valuta, a dram történetének és fejlődésének szentelt hely.",
+                  "category": "museum",
+                  "coords": [
+                        44.865787,
+                        40.743625
+                  ]
+            },
+            {
+                  "name": "Լքված ավտոբուս",
+                  "text": "Elhagyatott szovjet busz, amely a Dilidzsán melletti erdőben különös módon vált a természet részévé.",
+                  "category": "landmark",
+                  "coords": [
+                        44.853691,
+                        40.744965
+                  ]
+            },
+            {
+                  "name": "Սառցապատ",
+                  "text": "Az Idzseván-hegység egyik sziklás csúcsa, amely mészkőszikláiról és túraútvonalairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        44.955864,
+                        40.836585
+                  ]
+            },
+            {
+                  "name": "Դիմաց",
+                  "text": "Ez a jellegzetes táblahegy látványos sziklafalaival és a környező hegyvidékre nyíló kilátásával nyűgöz le.",
+                  "category": "natural",
+                  "coords": [
+                        44.943457,
+                        40.825623
+                  ]
+            },
+            {
+                  "name": "Տկլորսար",
+                  "text": "A Dilidzsani Nemzeti Park egyik eldugott csúcsa, amelyet sűrű bükk- és tölgyerdők vesznek körül.",
+                  "category": "natural",
+                  "coords": [
+                        44.891845,
+                        40.78679
+                  ]
+            },
+            {
+                  "name": "Հովք-1",
+                  "text": "Egy őskori barlang bejárata az Idzseván-hegységben, amely kőkorszaki régészeti leleteket rejtett.",
+                  "category": "natural",
+                  "coords": [
+                        45.003671,
+                        40.82238
+                  ]
+            },
+            {
+                  "name": "Սուրբ",
+                  "text": "Egy kis középkori kőtemplom festői romjai, amelyek a sűrű erdő mélyén rejtőznek.",
+                  "category": "historical",
+                  "coords": [
+                        45.020683,
+                        40.789605
+                  ]
+            },
+            {
+                  "name": "Դիլիջան ազգային պարկ",
+                  "text": "Az „Örmény Svájcként” is emlegetett természetvédelmi terület hegyi erdőket és tiszta tavakat, például a Parz-tavat őrzi.",
+                  "category": "natural",
+                  "coords": [
+                        44.931166,
+                        40.741744
+                  ]
+            },
+            {
+                  "name": "Ազնիվ եղջերուների բուծման կենտրոն",
+                  "text": "A Dilidzsáni Nemzeti Parkban található tenyésztőközpont, amely a kaukázusi gímszarvasok védelmével foglalkozik.",
+                  "category": "landmark",
+                  "coords": [
+                        44.931252,
+                        40.750691
+                  ]
+            },
+            {
+                  "name": "Khanjian Villa",
+                  "text": "Egy 1936-ban épült, kör alaprajzú modernista villa romjai, amely egykori szovjet-örmény vezető nyaralója volt.",
+                  "category": "historical",
+                  "coords": [
+                        44.861842,
+                        40.736969
+                  ]
+            },
+            {
+                  "name": "Կարմիր կամուրջ",
+                  "text": "Egy 1900 körül épült történelmi kőhíd, amely a régió építészeti örökségének fontos emléke.",
+                  "category": "landmark",
+                  "coords": [
+                        44.86528,
+                        40.740358
+                  ]
+            },
+            {
+                  "name": "Դիլիջանի հուշարձան",
+                  "text": "Egy 1970-ben emelt monumentális emlékmű, amely Szovjet-Örményország fennállásának 50. évfordulóját jelzi.",
+                  "category": "historical",
+                  "coords": [
+                        44.867057,
+                        40.740969
+                  ]
+            },
+            {
+                  "name": "Դիլիջանի երկրագիտական թանգարան-պատկերասրահ",
+                  "text": "A múzeum gazdag örmény festészeti gyűjteményt és Dilidzsán helytörténeti emlékeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        44.866948,
+                        40.738399
+                  ]
+            },
+            {
+                  "name": "Հարբած անտառ",
+                  "text": "Egy különleges erdőfolt, ahol a fák a talajmozgások miatt furcsa, dőlt szögben növekednek.",
+                  "category": "landmark",
+                  "coords": [
+                        44.873222,
+                        40.738052
+                  ]
+            },
+            {
+                  "name": "ბլյուը ცისფერი",
+                  "text": "Gleccser eredetű, festői mocsaras terület, amely jellegzetes színéről és gazdag élővilágáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        44.889759,
+                        40.810581
+                  ]
+            },
+            {
+                  "name": "Եկեղեցի Սբ. Գրիգոր Լուսավորիչ",
+                  "text": "Örmény apostoli templom, amelyet Örményország védőszentjének, Világosító Szent Gergelynek szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        44.890847,
+                        40.801702
+                  ]
+            },
+            {
+                  "name": "Սուրբ Խաչ",
+                  "text": "2010-ben emelt modern örmény kereszteskő-szentély, amely vallási emlékhelyként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        44.869147,
+                        40.739403
+                  ]
+            },
+            {
+                  "name": "Եհովայի վկաներ. Թագավորության սրահ",
+                  "text": "A Jehova Tanúi helyi közösségének modern gyülekezeti terme és találkozóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        44.892261,
+                        40.752237
+                  ]
+            },
+            {
+                  "name": "Ավետարանական եկեղեցի",
+                  "text": "Imaház, amely a helyi örmény evangélikus hívők szellemi központjaként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        44.845271,
+                        40.740134
+                  ]
+            },
+            {
+                  "name": "Սուրբ Հակոբ եկեղեցի",
+                  "text": "1990-ben épült egyszerű örmény templom, amely a helyi hívőket szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        44.863133,
+                        40.739281
+                  ]
+            },
+            {
+                  "name": "Հանրախանութ",
+                  "text": "Egykori állami áruház épülete, amely a régió szovjet kori kereskedelmi építészetének emléke.",
+                  "category": "cultural",
+                  "coords": [
+                        44.872497,
+                        40.742088
+                  ]
+            },
+            {
+                  "name": "Eco Cottages",
+                  "text": "Természetes hegyvidéki környezetben fekvő wellness-központ, amely hagyományos fürdőket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        44.878559,
+                        40.747396
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Շրջված տուն",
+                  "text": "O curiozitate modernă lângă lacul Parz, unde întreaga clădire și mobilierul sunt răsturnate cu susul în jos.",
+                  "category": "landmark",
+                  "coords": [
+                        44.93483,
+                        40.761257
+                  ]
+            },
+            {
+                  "name": "Ռեդկինի ճամբար",
+                  "text": "Un sit arheologic cu morminte antice și resturi de fortificații din epoca fierului.",
+                  "category": "historical",
+                  "coords": [
+                        44.922302,
+                        40.768127
+                  ]
+            },
+            {
+                  "name": "Blue RAF-2203",
+                  "text": "Un microbuz sovietic vintage de culoare albastră, amplasat la lacul Parz ca punct de fotografiere popular.",
+                  "category": "landmark",
+                  "coords": [
+                        44.894266,
+                        40.753233
+                  ]
+            },
+            {
+                  "name": "Պեպուզ քար",
+                  "text": "O proeminență stâncoasă naturală care oferă vederi largi asupra văilor împădurite de lângă Dilijan.",
+                  "category": "natural",
+                  "coords": [
+                        44.844516,
+                        40.75205
+                  ]
+            },
+            {
+                  "name": "Avetiq Harutyunyan Art Gallery",
+                  "text": "Această galerie prezintă lucrările artistului local Avetiq Harutyunyan, inspirate de natura Armeniei.",
+                  "category": "museum",
+                  "coords": [
+                        44.852448,
+                        40.740052
+                  ]
+            },
+            {
+                  "name": "Չօգտագործված սովետական ​​Ferris անիվ",
+                  "text": "O relicvă ruginită din epoca sovietică, care se află astăzi în parc ca un obiect nostalgic.",
+                  "category": "landmark",
+                  "coords": [
+                        44.857347,
+                        40.738107
+                  ]
+            },
+            {
+                  "name": "Հայկական տեքստիլի թանգարան",
+                  "text": "Fondat în 1979 într-o casă tradițională de lemn, acest muzeu expune bogata artă textilă și populară a Armeniei.",
+                  "category": "museum",
+                  "coords": [
+                        44.863711,
+                        40.740372
+                  ]
+            },
+            {
+                  "name": "Մատնանց Աղբյուր",
+                  "text": "O fântână istorică din anii 1880 care oferă apă proaspătă de izvor în cartierul vechi din Dilijan.",
+                  "category": "landmark",
+                  "coords": [
+                        44.871133,
+                        40.740486
+                  ]
+            },
+            {
+                  "name": "Հայկական դրամի թանգարան",
+                  "text": "Acest muzeu este dedicat istoriei și evoluției monedei naționale armenești, dramul.",
+                  "category": "museum",
+                  "coords": [
+                        44.865787,
+                        40.743625
+                  ]
+            },
+            {
+                  "name": "Լքված ավտոբուս",
+                  "text": "Un autobuz sovietic abandonat care, în pădurea de lângă Dilijan, a devenit un obiect bizar integrat în natură.",
+                  "category": "landmark",
+                  "coords": [
+                        44.853691,
+                        40.744965
+                  ]
+            },
+            {
+                  "name": "Սառցապատ",
+                  "text": "Un vârf stâncos din Munții Ijevan, cunoscut pentru stâncile sale calcaroase și traseele de drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        44.955864,
+                        40.836585
+                  ]
+            },
+            {
+                  "name": "Դիմաց",
+                  "text": "Acest munte tabular proeminent oferă pereți abrupți spectaculoși și vederi largi asupra peisajului montan din jur.",
+                  "category": "natural",
+                  "coords": [
+                        44.943457,
+                        40.825623
+                  ]
+            },
+            {
+                  "name": "Տկլորսար",
+                  "text": "Un vârf izolat din Parcul Național Dilijan, înconjurat de păduri dese de fag și stejar.",
+                  "category": "natural",
+                  "coords": [
+                        44.891845,
+                        40.78679
+                  ]
+            },
+            {
+                  "name": "Հովք-1",
+                  "text": "Intrarea într-o peșteră preistorică din Munții Ijevan, care a adăpostit descoperiri arheologice din epoca pietrei.",
+                  "category": "natural",
+                  "coords": [
+                        45.003671,
+                        40.82238
+                  ]
+            },
+            {
+                  "name": "Սուրբ",
+                  "text": "Ruinele pitorești ale unei mici biserici medievale din piatră, ascunse în pădurea deasă.",
+                  "category": "historical",
+                  "coords": [
+                        45.020683,
+                        40.789605
+                  ]
+            },
+            {
+                  "name": "Դիլիջան ազգային պարկ",
+                  "text": "Această arie protejată, numită adesea „Elveția Armeană”, conservă păduri montane întinse și lacuri alpine limpezi, precum Lacul Parz.",
+                  "category": "natural",
+                  "coords": [
+                        44.931166,
+                        40.741744
+                  ]
+            },
+            {
+                  "name": "Ազնիվ եղջերուների բուծման կենտրոն",
+                  "text": "Un centru de reproducere din Parcul Național Dilijan, dedicat conservării cerbului carpatin caucazian.",
+                  "category": "landmark",
+                  "coords": [
+                        44.931252,
+                        40.750691
+                  ]
+            },
+            {
+                  "name": "Khanjian Villa",
+                  "text": "Ruinele unei vile moderniste circulare, construită în 1936 pentru liderul sovietic armean Aghasi Khanjian.",
+                  "category": "historical",
+                  "coords": [
+                        44.861842,
+                        40.736969
+                  ]
+            },
+            {
+                  "name": "Կարմիր կամուրջ",
+                  "text": "Un pod istoric de piatră datând din jurul anului 1900, reprezentând un vestigiu al arhitecturii locale.",
+                  "category": "landmark",
+                  "coords": [
+                        44.86528,
+                        40.740358
+                  ]
+            },
+            {
+                  "name": "Դիլիջանի հուշարձան",
+                  "text": "Un monument proeminent din 1970, ridicat pentru a marca a 50-a aniversare a sovietizării Armeniei.",
+                  "category": "historical",
+                  "coords": [
+                        44.867057,
+                        40.740969
+                  ]
+            },
+            {
+                  "name": "Դիլիջանի երկրագիտական թանգարան-պատկերասրահ",
+                  "text": "Muzeul expune o colecție bogată de pictură armeană și vestigii ale istoriei locale din Dilijan.",
+                  "category": "museum",
+                  "coords": [
+                        44.866948,
+                        40.738399
+                  ]
+            },
+            {
+                  "name": "Հարբած անտառ",
+                  "text": "O zonă forestieră unică unde copacii cresc în unghiuri înclinate bizare din cauza mișcărilor solului.",
+                  "category": "landmark",
+                  "coords": [
+                        44.873222,
+                        40.738052
+                  ]
+            },
+            {
+                  "name": "ბլյուը ცისფერი",
+                  "text": "O zonă de mlaștină pitorească, cunoscută pentru culoarea sa distinctă și biodiversitatea locală bogată.",
+                  "category": "landmark",
+                  "coords": [
+                        44.889759,
+                        40.810581
+                  ]
+            },
+            {
+                  "name": "Եկեղեցի Սբ. Գրիգոր Լուսավորիչ",
+                  "text": "O biserică apostolică armeană dedicată sfântului patron al Armeniei, Sfântul Grigore Luminătorul.",
+                  "category": "religious",
+                  "coords": [
+                        44.890847,
+                        40.801702
+                  ]
+            },
+            {
+                  "name": "Սուրբ Խաչ",
+                  "text": "Un altar modern cu un khachkar (cruce sculptată în piatră), ridicat în 2010 pentru devoțiune religioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        44.869147,
+                        40.739403
+                  ]
+            },
+            {
+                  "name": "Եհովայի վկաներ. Թագավորության սրահ",
+                  "text": "O sală de întruniri modernă pentru comunitatea locală a Martorilor lui Iehova.",
+                  "category": "landmark",
+                  "coords": [
+                        44.892261,
+                        40.752237
+                  ]
+            },
+            {
+                  "name": "Ավետարանական եկեղեցի",
+                  "text": "Un lăcaș de cult care servește drept centru spiritual pentru congregația evanghelică armeană locală.",
+                  "category": "landmark",
+                  "coords": [
+                        44.845271,
+                        40.740134
+                  ]
+            },
+            {
+                  "name": "Սուրբ Հակոբ եկեղեցի",
+                  "text": "O biserică armeană simplă, construită în 1990 pentru a deservi comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        44.863133,
+                        40.739281
+                  ]
+            },
+            {
+                  "name": "Հանրախանութ",
+                  "text": "O clădire de magazin universal care reflectă arhitectura comercială din era sovietică.",
+                  "category": "cultural",
+                  "coords": [
+                        44.872497,
+                        40.742088
+                  ]
+            },
+            {
+                  "name": "Eco Cottages",
+                  "text": "O facilitate de wellness care oferă băi tradiționale într-un cadru montan natural.",
+                  "category": "recreational",
+                  "coords": [
+                        44.878559,
+                        40.747396
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Upside Down House",
+                  "text": "A modern novelty near Lake Parz where the entire building and its furnishings are inverted.",
+                  "category": "landmark",
+                  "coords": [
+                        44.93483,
+                        40.761257
+                  ]
+            },
+            {
+                  "name": "Redkini Tchambar",
+                  "text": "An archaeological site featuring ancient burial grounds and fortress remains from the Iron Age.",
+                  "category": "historical",
+                  "coords": [
+                        44.922302,
+                        40.768127
+                  ]
+            },
+            {
+                  "name": "Blue RAF-2203",
+                  "text": "A blue vintage Soviet minibus placed at Lake Parz as a popular photo spot.",
+                  "category": "landmark",
+                  "coords": [
+                        44.894266,
+                        40.753233
+                  ]
+            },
+            {
+                  "name": "Pupuz kar",
+                  "text": "A natural rocky outcrop offering wide views over the forested valleys near Dilijan.",
+                  "category": "natural",
+                  "coords": [
+                        44.844516,
+                        40.75205
+                  ]
+            },
+            {
+                  "name": "Avetiq Harutyunyan Art Gallery",
+                  "text": "This gallery showcases works by local artist Avetiq Harutyunyan, inspired by the nature of Armenia.",
+                  "category": "museum",
+                  "coords": [
+                        44.852448,
+                        40.740052
+                  ]
+            },
+            {
+                  "name": "Disused soviet Ferris wheel",
+                  "text": "A rusty relic from the Soviet era that now stands as a nostalgic object in the park.",
+                  "category": "landmark",
+                  "coords": [
+                        44.857347,
+                        40.738107
+                  ]
+            },
+            {
+                  "name": "Museum of Armenian Textile",
+                  "text": "Founded in 1979 in a traditional wooden house, this museum showcases Armenia's rich textile and folk art.",
+                  "category": "museum",
+                  "coords": [
+                        44.863711,
+                        40.740372
+                  ]
+            },
+            {
+                  "name": "Matnants Spring",
+                  "text": "A historical drinking fountain from the 1880s providing fresh spring water in Dilijan's old quarter.",
+                  "category": "landmark",
+                  "coords": [
+                        44.871133,
+                        40.740486
+                  ]
+            },
+            {
+                  "name": "Museum of Armenian dram",
+                  "text": "This museum is dedicated to the history and evolution of the Armenian national currency, the dram.",
+                  "category": "museum",
+                  "coords": [
+                        44.865787,
+                        40.743625
+                  ]
+            },
+            {
+                  "name": "Abandoned bus",
+                  "text": "An abandoned Soviet bus that has become a quirky fixture in the forest nature near Dilijan.",
+                  "category": "landmark",
+                  "coords": [
+                        44.853691,
+                        40.744965
+                  ]
+            },
+            {
+                  "name": "Sartsapat",
+                  "text": "A rugged peak in the Ijevan Mountains known for its limestone cliffs and hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        44.955864,
+                        40.836585
+                  ]
+            },
+            {
+                  "name": "Dimats",
+                  "text": "This prominent table mountain features spectacular cliffs and wide views of the surrounding highland landscape.",
+                  "category": "natural",
+                  "coords": [
+                        44.943457,
+                        40.825623
+                  ]
+            },
+            {
+                  "name": "Tklorsar",
+                  "text": "A remote peak in the Dilijan National Park, surrounded by dense beech and oak forests.",
+                  "category": "natural",
+                  "coords": [
+                        44.891845,
+                        40.78679
+                  ]
+            },
+            {
+                  "name": "Hovk-1",
+                  "text": "The entrance to a prehistoric cave in the Ijevan Mountains which held archaeological finds from the Stone Age.",
+                  "category": "natural",
+                  "coords": [
+                        45.003671,
+                        40.82238
+                  ]
+            },
+            {
+                  "name": "Surb",
+                  "text": "The picturesque ruins of a small medieval stone church hidden in the dense forest.",
+                  "category": "historical",
+                  "coords": [
+                        45.020683,
+                        40.789605
+                  ]
+            },
+            {
+                  "name": "Dilijan National Park",
+                  "text": "Often called 'Armenian Switzerland', this protected area preserves vast mountain forests and clear alpine lakes like Lake Parz.",
+                  "category": "natural",
+                  "coords": [
+                        44.931166,
+                        40.741744
+                  ]
+            },
+            {
+                  "name": "Red deer breeding center",
+                  "text": "A breeding center in Dilijan National Park dedicated to the conservation of the Caucasian red deer.",
+                  "category": "landmark",
+                  "coords": [
+                        44.931252,
+                        40.750691
+                  ]
+            },
+            {
+                  "name": "Villa of Aghasi Khanjian",
+                  "text": "The ruins of a circular modernist villa built in 1936 for the Soviet Armenian leader Aghasi Khanjian.",
+                  "category": "historical",
+                  "coords": [
+                        44.861842,
+                        40.736969
+                  ]
+            },
+            {
+                  "name": "Red Bridge",
+                  "text": "A historic stone bridge dating back to approximately 1900, serving as a landmark of regional engineering.",
+                  "category": "landmark",
+                  "coords": [
+                        44.86528,
+                        40.740358
+                  ]
+            },
+            {
+                  "name": "Dilijan Monument",
+                  "text": "A prominent 1970 monument commemorating the 50th anniversary of the Sovietization of Armenia.",
+                  "category": "historical",
+                  "coords": [
+                        44.867057,
+                        40.740969
+                  ]
+            },
+            {
+                  "name": "Dilijan Local Lore Museum & Picture Gallery",
+                  "text": "A local museum showcasing a rich collection of Armenian paintings and regional historical artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        44.866948,
+                        40.738399
+                  ]
+            },
+            {
+                  "name": "Drunken forest",
+                  "text": "A unique woodland area where the trees grow at slanted angles due to geological soil movement.",
+                  "category": "landmark",
+                  "coords": [
+                        44.873222,
+                        40.738052
+                  ]
+            },
+            {
+                  "name": "Blue swamp",
+                  "text": "A scenic wetland area known for its distinct coloration and rich local biodiversity.",
+                  "category": "landmark",
+                  "coords": [
+                        44.889759,
+                        40.810581
+                  ]
+            },
+            {
+                  "name": "Church of St. Gregory the Illuminator",
+                  "text": "An Armenian Apostolic church dedicated to the patron saint of Armenia, Saint Gregory the Illuminator.",
+                  "category": "religious",
+                  "coords": [
+                        44.890847,
+                        40.801702
+                  ]
+            },
+            {
+                  "name": "Surb Khach",
+                  "text": "A modern Armenian cross-stone shrine established in 2010 for religious devotion.",
+                  "category": "landmark",
+                  "coords": [
+                        44.869147,
+                        40.739403
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah’s Witnesses",
+                  "text": "A modern meeting hall for the local community of Jehovah’s Witnesses.",
+                  "category": "landmark",
+                  "coords": [
+                        44.892261,
+                        40.752237
+                  ]
+            },
+            {
+                  "name": "Evangelical Church",
+                  "text": "A place of worship serving as the spiritual center for the local Armenian Evangelical congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        44.845271,
+                        40.740134
+                  ]
+            },
+            {
+                  "name": "Church of St. Hakob",
+                  "text": "A modest Armenian church built in 1990 to serve the local community.",
+                  "category": "religious",
+                  "coords": [
+                        44.863133,
+                        40.739281
+                  ]
+            },
+            {
+                  "name": "Univermag",
+                  "text": "A local department store building reflecting the Soviet-era commercial architecture.",
+                  "category": "cultural",
+                  "coords": [
+                        44.872497,
+                        40.742088
+                  ]
+            },
+            {
+                  "name": "Eco Cottages",
+                  "text": "A wellness facility offering traditional baths set within a scenic mountain landscape.",
+                  "category": "recreational",
+                  "coords": [
+                        44.878559,
+                        40.747396
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "AM-TV",
     coords: [44.9625, 40.7516],
@@ -777,7 +5097,376 @@ export const poiExtraArmeniaNatureV2: POI[] = [
       fr: [],
     }, image: "/poi-images/lake-parz-nature-v2.webp"},
   {
-    id: "mount-khustup-nature-v2",
+    id: "mount-khustup-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Բաղաբերդ",
+                  "text": "Diese mittelalterliche armenische Festung thront auf einem Felsen über dem Fluss Voghji bei Kapan.",
+                  "category": "landmark",
+                  "coords": [
+                        46.277944,
+                        39.21406
+                  ]
+            },
+            {
+                  "name": "Հալիձորի բերդ",
+                  "text": "Eine Verteidigungsanlage aus dem 17. Jahrhundert, die als wichtiges militärisches Zentrum in der Region Syunik diente.",
+                  "category": "landmark",
+                  "coords": [
+                        46.35188,
+                        39.218212
+                  ]
+            },
+            {
+                  "name": "Պատմական թանգարան",
+                  "text": "Dieses Museum zeigt archäologische Funde und ethnografische Artefakte aus der Geschichte der Region Kapan.",
+                  "category": "museum",
+                  "coords": [
+                        46.399653,
+                        39.202816
+                  ]
+            },
+            {
+                  "name": "Kapan Theater",
+                  "text": "Das regionale dramatische Theater in Kapan bietet kulturelle Aufführungen im Schatten des Berges Khustup.",
+                  "category": "cultural",
+                  "coords": [
+                        46.401977,
+                        39.206922
+                  ]
+            },
+            {
+                  "name": "Գարեգին Նժդեհ հուշարձան",
+                  "text": "Ein monumentales Denkmal, das dem armenischen Nationalhelden Garegin Nzhdeh gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        46.394802,
+                        39.195715
+                  ]
+            },
+            {
+                  "name": "Բեխի անապատ",
+                  "text": "Ein einsames Kloster aus dem 10. bis 11. Jahrhundert, das tief in den Wäldern an den Hängen des Berges Khustup liegt.",
+                  "category": "religious",
+                  "coords": [
+                        46.351524,
+                        39.194065
+                  ]
+            },
+            {
+                  "name": "Կամբախ",
+                  "text": "Ein schroffer Berggipfel in der Provinz Syunik, der Wanderern weite Ausblicke über die armenischen Highlands bietet.",
+                  "category": "natural",
+                  "coords": [
+                        46.314416,
+                        39.176592
+                  ]
+            },
+            {
+                  "name": "Խուստուփ",
+                  "text": "Dieser heilige 3201 Meter hohe Gipfel ist ein prominentes Wahrzeichen und Ziel für Bergsteiger bei Kapan.",
+                  "category": "natural",
+                  "coords": [
+                        46.331941,
+                        39.13668
+                  ]
+            },
+            {
+                  "name": "Վահանավանք",
+                  "text": "Ein bedeutendes religiöses Zentrum aus dem 10. Jahrhundert, das im malerischen Tal des Flusses Voghji liegt.",
+                  "category": "religious",
+                  "coords": [
+                        46.332527,
+                        39.217628
+                  ]
+            },
+            {
+                  "name": "Սբ. Գևորգ",
+                  "text": "Diese im 17. Jahrhundert erbaute Kirche ist dem Heiligen Georg gewidmet und steht in der Berglandschaft von Syunik.",
+                  "category": "landmark",
+                  "coords": [
+                        46.371149,
+                        39.203889
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Բաղաբերդ",
+                  "text": "Ez a középkori örmény erőd egy sziklán magasodik a Voghji-folyó felett Kapan közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        46.277944,
+                        39.21406
+                  ]
+            },
+            {
+                  "name": "Հալիձորի բերդ",
+                  "text": "17. századi védelmi erődítmény, amely a Syunik régió fontos katonai központjaként szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        46.35188,
+                        39.218212
+                  ]
+            },
+            {
+                  "name": "Պատմական թանգարան",
+                  "text": "Ez a múzeum a Kapan régió történelméből származó régészeti leleteket és néprajzi tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        46.399653,
+                        39.202816
+                  ]
+            },
+            {
+                  "name": "Kapan Theater",
+                  "text": "A kapani regionális drámai színház kulturális előadásoknak ad otthont a Khustup-hegy árnyékában.",
+                  "category": "cultural",
+                  "coords": [
+                        46.401977,
+                        39.206922
+                  ]
+            },
+            {
+                  "name": "Գարեգին Նժդեհ հուշարձան",
+                  "text": "Monumentális emlékmű, amelyet Garegin Nzhdeh örmény nemzeti hősnek szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        46.394802,
+                        39.195715
+                  ]
+            },
+            {
+                  "name": "Բեխի անապատ",
+                  "text": "10-11. századi kolostor, amely elszigetelten fekszik a Khustup-hegy lejtőinek erdeiben.",
+                  "category": "religious",
+                  "coords": [
+                        46.351524,
+                        39.194065
+                  ]
+            },
+            {
+                  "name": "Կամբախ",
+                  "text": "Syunik tartomány egyik hegycsúcsa, amely tágas kilátást nyújt a túrázóknak az örmény-felföldre.",
+                  "category": "natural",
+                  "coords": [
+                        46.314416,
+                        39.176592
+                  ]
+            },
+            {
+                  "name": "Խուստուփ",
+                  "text": "Ez a szentnek tartott, 3201 méter magas csúcs Kapan jellegzetes hegye és a hegymászók kedvelt célpontja.",
+                  "category": "natural",
+                  "coords": [
+                        46.331941,
+                        39.13668
+                  ]
+            },
+            {
+                  "name": "Վահանավանք",
+                  "text": "Jelentős 10. századi vallási központ, amely a Voghji-folyó festői völgyében található.",
+                  "category": "religious",
+                  "coords": [
+                        46.332527,
+                        39.217628
+                  ]
+            },
+            {
+                  "name": "Սբ. Գևորգ",
+                  "text": "Ez a 17. században épült templom Szent Györgynek van szentelve Syunik hegyvidéki táján.",
+                  "category": "landmark",
+                  "coords": [
+                        46.371149,
+                        39.203889
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Բաղաբերդ",
+                  "text": "Această fortăreață armeană medievală este cocoțată pe o stâncă deasupra râului Voghji, lângă Kapan.",
+                  "category": "landmark",
+                  "coords": [
+                        46.277944,
+                        39.21406
+                  ]
+            },
+            {
+                  "name": "Հալիձորի բերդ",
+                  "text": "O fortificație defensivă din secolul al XVII-lea care a servit drept centru militar important în regiunea Syunik.",
+                  "category": "landmark",
+                  "coords": [
+                        46.35188,
+                        39.218212
+                  ]
+            },
+            {
+                  "name": "Պատմական թանգարան",
+                  "text": "Acest muzeu expune descoperiri arheologice și artefacte etnografice din istoria regiunii Kapan.",
+                  "category": "museum",
+                  "coords": [
+                        46.399653,
+                        39.202816
+                  ]
+            },
+            {
+                  "name": "Kapan Theater",
+                  "text": "Teatrul dramatic regional din Kapan găzduiește spectacole culturale la umbra muntelui Khustup.",
+                  "category": "cultural",
+                  "coords": [
+                        46.401977,
+                        39.206922
+                  ]
+            },
+            {
+                  "name": "Գարեգին Նժդեհ հուշարձան",
+                  "text": "Un monument monumental dedicat eroului național armean Garegin Nzhdeh.",
+                  "category": "historical",
+                  "coords": [
+                        46.394802,
+                        39.195715
+                  ]
+            },
+            {
+                  "name": "Բեխի անապատ",
+                  "text": "O mănăstire izolată din secolele X-XI, situată adânc în pădurile de pe versanții muntelui Khustup.",
+                  "category": "religious",
+                  "coords": [
+                        46.351524,
+                        39.194065
+                  ]
+            },
+            {
+                  "name": "Կամբախ",
+                  "text": "Un vârf muntos accidentat din provincia Syunik, oferind drumeților vederi panoramice asupra podișului armean.",
+                  "category": "natural",
+                  "coords": [
+                        46.314416,
+                        39.176592
+                  ]
+            },
+            {
+                  "name": "Խուստուփ",
+                  "text": "Acest vârf sacru de 3201 metri este un punct de reper proeminent și o destinație pentru alpiniști lângă Kapan.",
+                  "category": "natural",
+                  "coords": [
+                        46.331941,
+                        39.13668
+                  ]
+            },
+            {
+                  "name": "Վահանավանք",
+                  "text": "Un important centru religios din secolul al X-lea, situat în valea pitorească a râului Voghji.",
+                  "category": "religious",
+                  "coords": [
+                        46.332527,
+                        39.217628
+                  ]
+            },
+            {
+                  "name": "Սբ. Գևորգ",
+                  "text": "Această biserică construită în secolul al XVII-lea este dedicată Sfântului Gheorghe și se află în peisajul montan din Syunik.",
+                  "category": "landmark",
+                  "coords": [
+                        46.371149,
+                        39.203889
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Baghaberd Fortress",
+                  "text": "This medieval Armenian fortress is perched on a rocky ridge overlooking the Voghji River near Kapan.",
+                  "category": "landmark",
+                  "coords": [
+                        46.277944,
+                        39.21406
+                  ]
+            },
+            {
+                  "name": "Halidzor Fortress",
+                  "text": "A 17th-century defensive fortification that served as an important military center in the Syunik region.",
+                  "category": "landmark",
+                  "coords": [
+                        46.35188,
+                        39.218212
+                  ]
+            },
+            {
+                  "name": "Historical Museum Sh. Movsisyan",
+                  "text": "This museum displays archaeological finds and ethnographic artifacts from the history of the Kapan region.",
+                  "category": "museum",
+                  "coords": [
+                        46.399653,
+                        39.202816
+                  ]
+            },
+            {
+                  "name": "Kapan Theater",
+                  "text": "The regional dramatic theater in Kapan hosts cultural performances in the shadow of Mount Khustup.",
+                  "category": "cultural",
+                  "coords": [
+                        46.401977,
+                        39.206922
+                  ]
+            },
+            {
+                  "name": "Garegin Nzhdeh Monument",
+                  "text": "A monumental memorial dedicated to the Armenian national hero Garegin Nzhdeh.",
+                  "category": "historical",
+                  "coords": [
+                        46.394802,
+                        39.195715
+                  ]
+            },
+            {
+                  "name": "Bekh Hermitage",
+                  "text": "A 10th-11th century monastery complex isolated deep within the forests on the slopes of Mount Khustup.",
+                  "category": "religious",
+                  "coords": [
+                        46.351524,
+                        39.194065
+                  ]
+            },
+            {
+                  "name": "Kambakh",
+                  "text": "A rugged mountain peak in the Syunik province, offering hikers vast views over the Armenian highlands.",
+                  "category": "natural",
+                  "coords": [
+                        46.314416,
+                        39.176592
+                  ]
+            },
+            {
+                  "name": "Khustup",
+                  "text": "This sacred 3201-meter peak is a prominent landmark and a top destination for mountaineers near Kapan.",
+                  "category": "natural",
+                  "coords": [
+                        46.331941,
+                        39.13668
+                  ]
+            },
+            {
+                  "name": "Vahanavank Monastery",
+                  "text": "A significant 10th-century religious center located in the picturesque valley of the Voghji River.",
+                  "category": "religious",
+                  "coords": [
+                        46.332527,
+                        39.217628
+                  ]
+            },
+            {
+                  "name": "St. Gevorg",
+                  "text": "Built in the 17th century, this church is dedicated to Saint George and stands within the mountainous landscape of Syunik.",
+                  "category": "landmark",
+                  "coords": [
+                        46.371149,
+                        39.203889
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AM-SU",
     coords: [46.3314, 39.1361],
@@ -813,7 +5502,52 @@ export const poiExtraArmeniaNatureV2: POI[] = [
       fr: [],
     }, image: "/poi-images/mount-khustup-nature-v2.webp"},
   {
-    id: "sevan-national-park-nature-v2",
+    id: "sevan-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nationalpark Sewan",
+                  "text": "Der Sewan-Nationalpark umfasst den hochgelegenen Süßwassersee Sewan und seine umliegenden bergigen Ufer. Dieses Schutzgebiet ist für die Erhaltung endemischer Fischarten wie der Sewan-Forelle und verschiedener Zugvögel von entscheidender Bedeutung.",
+                  "category": "natural",
+                  "coords": [
+                        45.320564,
+                        40.357495
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Սևան ազգային պարկ",
+                  "text": "A Szeván Nemzeti Park magában foglalja a magaslati, édesvizű Szeván-tavat és a környező hegyvidéki partokat. Ez a védett terület kulcsfontosságú az endemikus halfajok, például a szeváni pisztráng és a különböző vándormadarak védelmében.",
+                  "category": "natural",
+                  "coords": [
+                        45.320564,
+                        40.357495
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Սևան ազգային պարկ",
+                  "text": "Parcul Național Sevan cuprinde lacul cu apă dulce de mare altitudine Sevan și țărmurile sale muntoase înconjurătoare. Această arie protejată este crucială pentru conservarea speciilor de pești endemici, precum păstrăvul de Sevan, și a diverselor păsări migratoare.",
+                  "category": "natural",
+                  "coords": [
+                        45.320564,
+                        40.357495
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sevan National Park",
+                  "text": "Sevan National Park encompasses the high-altitude, freshwater Lake Sevan and its surrounding mountainous shores. This protected area is crucial for the conservation of endemic fish species like the Sevan trout and various migratory birds.",
+                  "category": "natural",
+                  "coords": [
+                        45.320564,
+                        40.357495
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "AM-GR",
     coords: [45.3000, 40.3500],
@@ -849,7 +5583,736 @@ export const poiExtraArmeniaNatureV2: POI[] = [
       fr: [],
     }, image: "/poi-images/sevan-national-park-nature-v2.webp"},
   {
-    id: "pambak-river-nature-v2",
+    id: "pambak-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Վանաձորի Կոմիտասի անվան արվեստի դպրոց",
+                  "text": "Diese Kunstschule in Wanadsor ist nach dem Komponisten Komitas benannt und fördert die kreative Ausbildung der lokalen Jugend.",
+                  "category": "cultural",
+                  "coords": [
+                        44.443062,
+                        40.830843
+                  ]
+            },
+            {
+                  "name": "Վանաձորի Տիկնիկային Թատրոն",
+                  "text": "Das Puppentheater von Wanadsor ist eine wichtige kulturelle Einrichtung, die regelmäßige Aufführungen für Kinder veranstaltet.",
+                  "category": "cultural",
+                  "coords": [
+                        44.492312,
+                        40.806381
+                  ]
+            },
+            {
+                  "name": "Ռուս ուղղափառ եկեղեցի",
+                  "text": "Diese russisch-orthodoxe Mariä-Geburt-Kirche in Wanadsor fällt durch ihre charakteristischen goldenen Zwiebeltürme auf.",
+                  "category": "religious",
+                  "coords": [
+                        44.486124,
+                        40.814858
+                  ]
+            },
+            {
+                  "name": "սբ. Աստվածածին եկեղեցի",
+                  "text": "Diese im 19. Jahrhundert erbaute armenische Muttergotteskirche ist für ihre kunstvollen Steinreliefs im Stadtzentrum von Wanadsor bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        44.495723,
+                        40.814883
+                  ]
+            },
+            {
+                  "name": "Թագավորանիստ",
+                  "text": "Tagaworanist ist eine archäologische Stätte auf einem Hügel, die Spuren einer antiken Festung in der Nähe von Wanadsor bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        44.500422,
+                        40.81346
+                  ]
+            },
+            {
+                  "name": "Երկրորդ Աշխարհամարտում Զոհվածների Հուշարձան",
+                  "text": "Dieses Denkmal in Wanadsor erinnert mit einer feierlichen Struktur an die im Zweiten Weltkrieg gefallenen Soldaten der Region.",
+                  "category": "historical",
+                  "coords": [
+                        44.506171,
+                        40.791269
+                  ]
+            },
+            {
+                  "name": "Արտեկ մանկական ճամբար",
+                  "text": "Das Artek-Ferienlager in Wanadsor ist ein bekannter Erholungsort für Kinder, der in der waldreichen Umgebung des Pambak-Tals liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        44.486041,
+                        40.790466
+                  ]
+            },
+            {
+                  "name": "Բուսաբանական այգի",
+                  "text": "Der 1935 gegründete Botanische Garten von Wanadsor beherbergt eine umfangreiche Sammlung kaukasischer Pflanzen am Ufer des Pambak-Flusses.",
+                  "category": "park",
+                  "coords": [
+                        44.48688,
+                        40.794466
+                  ]
+            },
+            {
+                  "name": "Կերպարվեստի Թանգարան",
+                  "text": "Dieses Museum in Wanadsor präsentiert eine bedeutende Sammlung moderner armenischer Kunst, darunter Werke lokaler Maler und Bildhauer.",
+                  "category": "museum",
+                  "coords": [
+                        44.496374,
+                        40.807047
+                  ]
+            },
+            {
+                  "name": "Հովհաննես Աբելյանի անվան պետական դրամատիկական թատրոն",
+                  "text": "Das 1931 gegründete dramatische Theater ist nach Howhannes Abelyan benannt und bildet den kulturellen Mittelpunkt von Wanadsor.",
+                  "category": "cultural",
+                  "coords": [
+                        44.494169,
+                        40.809802
+                  ]
+            },
+            {
+                  "name": "Ստեփան Զորյանի տուն թանգարան",
+                  "text": "Das Hausmuseum des Schriftstellers Stepan Zorjan zeigt persönliche Gegenstände und Manuskripte, die sein literarisches Erbe dokumentieren.",
+                  "category": "museum",
+                  "coords": [
+                        44.488235,
+                        40.806445
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գրիգոր Նարեկացի եկեղեցի",
+                  "text": "Die St.-Grigor-Narekatsi-Kirche ist eine imposante moderne Kathedrale in Wanadsor, die traditionelle Motive zeitgenössisch interpretiert.",
+                  "category": "landmark",
+                  "coords": [
+                        44.490305,
+                        40.805256
+                  ]
+            },
+            {
+                  "name": "Բողոքական եկեղեցի",
+                  "text": "Diese protestantische Kirche in Wanadsor bietet der lokalen Gemeinde einen schlichten Raum für Gottesdienste und Gemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        44.523864,
+                        40.79703
+                  ]
+            },
+            {
+                  "name": "Բողոքական եկեղեցի",
+                  "text": "Dieses Gebäude dient der protestantischen Gemeinde in Wanadsor als Zentrum für Gebet und religiöse Unterweisung.",
+                  "category": "landmark",
+                  "coords": [
+                        44.516754,
+                        40.801602
+                  ]
+            },
+            {
+                  "name": "Սրբոց Մանկանց մատուռ",
+                  "text": "Die Kapelle Srbots Mankants ist ein kleines armenisches Gotteshaus in Wanadsor, das den 'Heiligen Kindern' geweiht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.48626,
+                        40.785487
+                  ]
+            },
+            {
+                  "name": "Սուրբ Սարգիս Եկեղեցիnam",
+                  "text": "Die dem Heiligen Sarkis geweihte Kirche ist ein traditionelles Steingebäude, das ein wichtiger Ort für religiöse Feiern in Wanadsor ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.494107,
+                        40.801169
+                  ]
+            },
+            {
+                  "name": "Հայ Ավետարանական Մկրտական Քրիստոնյաների Եկեղեցի-Աղոթքի Տուն",
+                  "text": "Dieses Gebetshaus dient der Gemeinschaft der Evangeliumschristen-Baptisten in Wanadsor für ihre regelmäßigen Versammlungen.",
+                  "category": "landmark",
+                  "coords": [
+                        44.50251,
+                        40.802027
+                  ]
+            },
+            {
+                  "name": "Kamakater",
+                  "text": "Die Kamakater-Kirche ist als Ort bekannt, an dem Gläubige traditionell um die Erfüllung ihrer Herzenswünsche bitten.",
+                  "category": "landmark",
+                  "coords": [
+                        44.444416,
+                        40.846929
+                  ]
+            },
+            {
+                  "name": "Բանջարեղենի շուկա",
+                  "text": "Auf diesem lebhaften Gemüsemarkt in Wanadsor bieten lokale Händler täglich frische Erzeugnisse aus der Region Lori an.",
+                  "category": "cultural",
+                  "coords": [
+                        44.490925,
+                        40.812974
+                  ]
+            },
+            {
+                  "name": "Ծածկած շուկա",
+                  "text": "Der Markt von Wanadsor ist ein zentraler Handelsplatz, auf dem man traditionelle armenische Lebensmittel und hausgemachte Waren findet.",
+                  "category": "cultural",
+                  "coords": [
+                        44.490496,
+                        40.811638
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Վանաձորի Կոմիտասի անվան արվեստի դպրոց",
+                  "text": "Ez a vanadzori művészeti iskola Komitasz zeneszerzőről kapta a nevét, és a helyi fiatalok kreatív képzését segíti.",
+                  "category": "cultural",
+                  "coords": [
+                        44.443062,
+                        40.830843
+                  ]
+            },
+            {
+                  "name": "Վանաձորի Տիկնիկային Թատրոն",
+                  "text": "A Vanadzori Bábszínház fontos kulturális intézmény, amely rendszeresen tart előadásokat gyermekek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        44.492312,
+                        40.806381
+                  ]
+            },
+            {
+                  "name": "Ռուս ուղղափառ եկեղեցի",
+                  "text": "Ez a vanadzori orosz ortodox Mária születése templom jellegzetes arany hagymakupoláival tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        44.486124,
+                        40.814858
+                  ]
+            },
+            {
+                  "name": "սբ. Աստվածածին եկեղեցի",
+                  "text": "Ez a 19. században épült örmény Istenanya-templom díszes kőreliefjeiről ismert Vanadzor városközpontjában.",
+                  "category": "religious",
+                  "coords": [
+                        44.495723,
+                        40.814883
+                  ]
+            },
+            {
+                  "name": "Թագավորանիստ",
+                  "text": "Tagavoraniszt egy dombtetőn található régészeti lelőhely, amely egy ősi erődítmény nyomait őrzi Vanadzor közelében.",
+                  "category": "historical",
+                  "coords": [
+                        44.500422,
+                        40.81346
+                  ]
+            },
+            {
+                  "name": "Երկրորդ Աշխարհամարտում Զոհվածների Հուշարձան",
+                  "text": "Ez a vanadzori emlékmű ünnepélyes szerkezetével a második világháborúban elesett helyi katonáknak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        44.506171,
+                        40.791269
+                  ]
+            },
+            {
+                  "name": "Արտեկ մանկական ճամբար",
+                  "text": "A vanadzori Artek gyermektábor egy jól ismert üdülőhely, amely a Pambak-völgy erdős környezetében fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        44.486041,
+                        40.790466
+                  ]
+            },
+            {
+                  "name": "Բուսաբանական այգի",
+                  "text": "Az 1935-ben alapított vanadzori botanikus kert a kaukázusi növényvilág kiterjedt gyűjteményének ad otthont a Pambak-folyó partján.",
+                  "category": "park",
+                  "coords": [
+                        44.48688,
+                        40.794466
+                  ]
+            },
+            {
+                  "name": "Կերպարվեստի Թանգարան",
+                  "text": "Ez a vanadzori múzeum a modern örmény művészet jelentős gyűjteményét mutatja be, beleértve helyi festők és szobrászok alkotásait.",
+                  "category": "museum",
+                  "coords": [
+                        44.496374,
+                        40.807047
+                  ]
+            },
+            {
+                  "name": "Հովհաննես Աբելյանի անվան պետական դրամատիկական թատրոն",
+                  "text": "Az 1931-ben alapított drámai színház Hovhannesz Abeljanról kapta a nevét, és Vanadzor kulturális központja.",
+                  "category": "cultural",
+                  "coords": [
+                        44.494169,
+                        40.809802
+                  ]
+            },
+            {
+                  "name": "Ստեփան Զորյանի տուն թանգարան",
+                  "text": "Sztepan Zorjan író emlékmúzeuma személyes tárgyakat és kéziratokat mutat be, amelyek irodalmi örökségét dokumentálják.",
+                  "category": "museum",
+                  "coords": [
+                        44.488235,
+                        40.806445
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գրիգոր Նարեկացի եկեղեցի",
+                  "text": "A Szent Grigor Narekaci-templom egy impozáns modern székesegyház Vanadzorban, amely a hagyományos motívumokat kortárs módon értelmezi.",
+                  "category": "landmark",
+                  "coords": [
+                        44.490305,
+                        40.805256
+                  ]
+            },
+            {
+                  "name": "Բողոքական եկեղեցի",
+                  "text": "Ez a vanadzori protestáns templom egyszerű teret biztosít a helyi közösségnek az istentiszteletekhez és a közösségi élethez.",
+                  "category": "landmark",
+                  "coords": [
+                        44.523864,
+                        40.79703
+                  ]
+            },
+            {
+                  "name": "Բողոքական եկեղեցի",
+                  "text": "Ez az épület a vanadzori protestáns közösség számára szolgál az imádság és a vallási oktatás központjaként.",
+                  "category": "landmark",
+                  "coords": [
+                        44.516754,
+                        40.801602
+                  ]
+            },
+            {
+                  "name": "Սրբոց Մանկանց մատուռ",
+                  "text": "A Szrboc Mankanc-kápolna egy kis örmény istentiszteleti hely Vanadzorban, amelyet a „Szent Gyermekeknek” szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        44.48626,
+                        40.785487
+                  ]
+            },
+            {
+                  "name": "Սուրբ Սարգիս Եկեղեցիnam",
+                  "text": "A Szent Sarkisznak szentelt templom egy hagyományos kőépület, amely a vallási ünnepek fontos helyszíne Vanadzorban.",
+                  "category": "landmark",
+                  "coords": [
+                        44.494107,
+                        40.801169
+                  ]
+            },
+            {
+                  "name": "Հայ Ավետարանական Մկրտական Քրիստոնյաների Եկեղեցի-Աղոթքի Տուն",
+                  "text": "Ez az imaház a vanadzori evangéliumi keresztény baptista közösséget szolgálja rendszeres összejöveteleikhez.",
+                  "category": "landmark",
+                  "coords": [
+                        44.50251,
+                        40.802027
+                  ]
+            },
+            {
+                  "name": "Kamakater",
+                  "text": "A Kamakater-templom olyan helyként ismert, ahol a hívők hagyományosan szívbéli kívánságaik teljesüléséért imádkoznak.",
+                  "category": "landmark",
+                  "coords": [
+                        44.444416,
+                        40.846929
+                  ]
+            },
+            {
+                  "name": "Բանջարեղենի շուկա",
+                  "text": "Ezen a nyüzsgő vanadzori zöldségpiacon a helyi árusok naponta kínálnak friss termékeket a Lori régióból.",
+                  "category": "cultural",
+                  "coords": [
+                        44.490925,
+                        40.812974
+                  ]
+            },
+            {
+                  "name": "Ծածկած շուկա",
+                  "text": "A vanadzori piac egy központi kereskedelmi hely, ahol hagyományos örmény élelmiszereket és házi készítésű árukat találhatunk.",
+                  "category": "cultural",
+                  "coords": [
+                        44.490496,
+                        40.811638
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Վանաձորի Կոմիտասի անվան արվեստի դպրոց",
+                  "text": "Această școală de artă din Vanadzor poartă numele compozitorului Komitas și promovează educația creativă a tineretului local.",
+                  "category": "cultural",
+                  "coords": [
+                        44.443062,
+                        40.830843
+                  ]
+            },
+            {
+                  "name": "Վանաձորի Տիկնիկային Թատրոն",
+                  "text": "Teatrul de păpuși din Vanadzor este o instituție culturală importantă care găzduiește spectacole regulate pentru copii.",
+                  "category": "cultural",
+                  "coords": [
+                        44.492312,
+                        40.806381
+                  ]
+            },
+            {
+                  "name": "Ռուս ուղղափառ եկեղեցի",
+                  "text": "Această biserică ortodoxă rusă Nașterea Maicii Domnului din Vanadzor se remarcă prin cupolele sale aurii caracteristice.",
+                  "category": "religious",
+                  "coords": [
+                        44.486124,
+                        40.814858
+                  ]
+            },
+            {
+                  "name": "սբ. Աստվածածին եկեղեցի",
+                  "text": "Această biserică armeană a Maicii Domnului, construită în secolul al XIX-lea, este cunoscută pentru reliefurile sale în piatră din centrul orașului Vanadzor.",
+                  "category": "religious",
+                  "coords": [
+                        44.495723,
+                        40.814883
+                  ]
+            },
+            {
+                  "name": "Թագավորանիստ",
+                  "text": "Tagavoranist este un sit arheologic pe un deal, care păstrează urmele unei vechi cetăți în apropiere de Vanadzor.",
+                  "category": "historical",
+                  "coords": [
+                        44.500422,
+                        40.81346
+                  ]
+            },
+            {
+                  "name": "Երկրորդ Աշխարհամարտում Զոհվածների Հուշարձան",
+                  "text": "Acest monument din Vanadzor onorează soldații locali căzuți în al Doilea Război Mondial printr-o structură solemnă.",
+                  "category": "historical",
+                  "coords": [
+                        44.506171,
+                        40.791269
+                  ]
+            },
+            {
+                  "name": "Արտեկ մանկական ճամբար",
+                  "text": "Tabăra pentru copii Artek din Vanadzor este un loc de recreere cunoscut, situat în mediul împădurit al văii Pambak.",
+                  "category": "landmark",
+                  "coords": [
+                        44.486041,
+                        40.790466
+                  ]
+            },
+            {
+                  "name": "Բուսաբանական այգի",
+                  "text": "Grădina Botanică din Vanadzor, fondată în 1935, găzduiește o colecție extinsă de plante caucaziene pe malul râului Pambak.",
+                  "category": "park",
+                  "coords": [
+                        44.48688,
+                        40.794466
+                  ]
+            },
+            {
+                  "name": "Կերպարվեստի Թանգարան",
+                  "text": "Acest muzeu din Vanadzor prezintă o colecție importantă de artă armeană modernă, inclusiv lucrări ale pictorilor și sculptorilor locali.",
+                  "category": "museum",
+                  "coords": [
+                        44.496374,
+                        40.807047
+                  ]
+            },
+            {
+                  "name": "Հովհաննես Աբելյանի անվան պետական դրամատիկական թատրոն",
+                  "text": "Teatrul dramatic fondat în 1931 poartă numele lui Hovhannes Abelyan și constituie centrul cultural al orașului Vanadzor.",
+                  "category": "cultural",
+                  "coords": [
+                        44.494169,
+                        40.809802
+                  ]
+            },
+            {
+                  "name": "Ստեփան Զորյանի տուն թանգարան",
+                  "text": "Casa-muzeu a scriitorului Stepan Zoryan expune obiecte personale și manuscrise care documentează moștenirea sa literară.",
+                  "category": "museum",
+                  "coords": [
+                        44.488235,
+                        40.806445
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գրիգոր Նարեկացի եկեղեցի",
+                  "text": "Biserica Sfântul Grigor Narekatsi este o catedrală modernă impunătoare din Vanadzor, care interpretează motivele tradiționale într-un mod contemporan.",
+                  "category": "landmark",
+                  "coords": [
+                        44.490305,
+                        40.805256
+                  ]
+            },
+            {
+                  "name": "Բողոքական եկեղեցի",
+                  "text": "Această biserică protestantă din Vanadzor oferă comunității locale un spațiu simplu pentru slujbe și viață comunitară.",
+                  "category": "landmark",
+                  "coords": [
+                        44.523864,
+                        40.79703
+                  ]
+            },
+            {
+                  "name": "Բողոքական եկեղեցի",
+                  "text": "Această clădire servește comunității protestante din Vanadzor ca centru pentru rugăciune și instruire religioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        44.516754,
+                        40.801602
+                  ]
+            },
+            {
+                  "name": "Սրբոց Մանկանց մատուռ",
+                  "text": "Capela Srbots Mankants este un mic lăcaș de cult armean din Vanadzor, dedicat „Sfinților Copii”.",
+                  "category": "landmark",
+                  "coords": [
+                        44.48626,
+                        40.785487
+                  ]
+            },
+            {
+                  "name": "Սուրբ Սարգիս Եկեղեցիnam",
+                  "text": "Biserica dedicată Sfântului Sarkis este o clădire tradițională din piatră, fiind un loc important pentru celebrările religioase din Vanadzor.",
+                  "category": "landmark",
+                  "coords": [
+                        44.494107,
+                        40.801169
+                  ]
+            },
+            {
+                  "name": "Հայ Ավետարանական Մկրտական Քրիստոնյաների Եկեղեցի-Աղոթքի Տուն",
+                  "text": "Această casă de rugăciune deservește comunitatea creștinilor evanghelici baptiști din Vanadzor pentru adunările lor regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        44.50251,
+                        40.802027
+                  ]
+            },
+            {
+                  "name": "Kamakater",
+                  "text": "Biserica Kamakater este cunoscută ca un loc unde credincioșii se roagă tradițional pentru împlinirea dorințelor inimii.",
+                  "category": "landmark",
+                  "coords": [
+                        44.444416,
+                        40.846929
+                  ]
+            },
+            {
+                  "name": "Բանջարեղենի շուկա",
+                  "text": "În această piață de legume plină de viață din Vanadzor, vânzătorii locali oferă zilnic produse proaspete din regiunea Lori.",
+                  "category": "cultural",
+                  "coords": [
+                        44.490925,
+                        40.812974
+                  ]
+            },
+            {
+                  "name": "Ծածկած շուկա",
+                  "text": "Piața din Vanadzor este un loc comercial central, unde se pot găsi alimente tradiționale armenești și produse de casă.",
+                  "category": "cultural",
+                  "coords": [
+                        44.490496,
+                        40.811638
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vanadzor Art School AFT Komitas",
+                  "text": "This art school in Vanadzor is named after the composer Komitas and promotes the creative education of local youth.",
+                  "category": "cultural",
+                  "coords": [
+                        44.443062,
+                        40.830843
+                  ]
+            },
+            {
+                  "name": "Vanadzor Puppet Theater",
+                  "text": "The Vanadzor Puppet Theater is an important cultural institution that hosts regular performances for children.",
+                  "category": "cultural",
+                  "coords": [
+                        44.492312,
+                        40.806381
+                  ]
+            },
+            {
+                  "name": "Nativity church of the Blessed Virgin Mary",
+                  "text": "This Russian Orthodox Nativity church in Vanadzor stands out with its characteristic golden onion domes.",
+                  "category": "religious",
+                  "coords": [
+                        44.486124,
+                        40.814858
+                  ]
+            },
+            {
+                  "name": "Holy Mother of God Church",
+                  "text": "Built in the 19th century, this Armenian Mother of God church is known for its ornate stone reliefs in Vanadzor city center.",
+                  "category": "religious",
+                  "coords": [
+                        44.495723,
+                        40.814883
+                  ]
+            },
+            {
+                  "name": "Tagavoranist",
+                  "text": "Tagavoranist is an archaeological site on a hill, preserving the traces of an ancient fortress near Vanadzor.",
+                  "category": "historical",
+                  "coords": [
+                        44.500422,
+                        40.81346
+                  ]
+            },
+            {
+                  "name": "Երկրորդ Աշխարհամարտում Զոհվածների Հուշարձան",
+                  "text": "This monument in Vanadzor honors the local soldiers fallen in World War II with a solemn structure.",
+                  "category": "historical",
+                  "coords": [
+                        44.506171,
+                        40.791269
+                  ]
+            },
+            {
+                  "name": "Artek Children's Camp",
+                  "text": "The Artek children's camp in Vanadzor is a well-known recreational site nestled in the forested environment of the Pambak valley.",
+                  "category": "landmark",
+                  "coords": [
+                        44.486041,
+                        40.790466
+                  ]
+            },
+            {
+                  "name": "Botanical garden",
+                  "text": "Founded in 1935, the Vanadzor Botanical Garden houses an extensive collection of Caucasian plants on the banks of the Pambak River.",
+                  "category": "park",
+                  "coords": [
+                        44.48688,
+                        40.794466
+                  ]
+            },
+            {
+                  "name": "Vanadzor Museum of Fine Arts",
+                  "text": "This museum in Vanadzor presents a significant collection of modern Armenian art, including works by local painters and sculptors.",
+                  "category": "museum",
+                  "coords": [
+                        44.496374,
+                        40.807047
+                  ]
+            },
+            {
+                  "name": "Theatre Named After H. Abelyan",
+                  "text": "Founded in 1931, this dramatic theater is named after Hovhannes Abelyan and forms the cultural centerpiece of Vanadzor.",
+                  "category": "cultural",
+                  "coords": [
+                        44.494169,
+                        40.809802
+                  ]
+            },
+            {
+                  "name": "Stepan Zoryan's House Museum",
+                  "text": "The house-museum of writer Stepan Zoryan displays personal items and manuscripts documenting his literary legacy.",
+                  "category": "museum",
+                  "coords": [
+                        44.488235,
+                        40.806445
+                  ]
+            },
+            {
+                  "name": "St. Grigor Narekatsi Church",
+                  "text": "St. Grigor Narekatsi Church is an imposing modern cathedral in Vanadzor that interprets traditional motifs in a contemporary way.",
+                  "category": "landmark",
+                  "coords": [
+                        44.490305,
+                        40.805256
+                  ]
+            },
+            {
+                  "name": "Բողոքական եկեղեցի",
+                  "text": "This Protestant church in Vanadzor provides a simple space for the local community for worship and community life.",
+                  "category": "landmark",
+                  "coords": [
+                        44.523864,
+                        40.79703
+                  ]
+            },
+            {
+                  "name": "Բողոքական եկեղեցի",
+                  "text": "This building serves the Protestant community in Vanadzor as a center for prayer and religious instruction.",
+                  "category": "landmark",
+                  "coords": [
+                        44.516754,
+                        40.801602
+                  ]
+            },
+            {
+                  "name": "Srbots Mankants Chapel",
+                  "text": "The Srbots Mankants Chapel is a small Armenian place of worship in Vanadzor dedicated to the 'Holy Children'.",
+                  "category": "landmark",
+                  "coords": [
+                        44.48626,
+                        40.785487
+                  ]
+            },
+            {
+                  "name": "St. Sarkis",
+                  "text": "The church dedicated to Saint Sarkis is a traditional stone building and an important site for religious celebrations in Vanadzor.",
+                  "category": "landmark",
+                  "coords": [
+                        44.494107,
+                        40.801169
+                  ]
+            },
+            {
+                  "name": "Evangelical Christians Baptists",
+                  "text": "This house of prayer serves the Evangelical Christian Baptist community in Vanadzor for their regular gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        44.50251,
+                        40.802027
+                  ]
+            },
+            {
+                  "name": "Kamakater",
+                  "text": "The Kamakater church is known as a place where believers traditionally pray for the fulfillment of their heart's desires.",
+                  "category": "landmark",
+                  "coords": [
+                        44.444416,
+                        40.846929
+                  ]
+            },
+            {
+                  "name": "Բանջարեղենի շուկա",
+                  "text": "At this lively vegetable market in Vanadzor, local vendors offer fresh produce from the Lori region daily.",
+                  "category": "cultural",
+                  "coords": [
+                        44.490925,
+                        40.812974
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "The Vanadzor market is a central trading spot where one can find traditional Armenian foods and homemade goods.",
+                  "category": "cultural",
+                  "coords": [
+                        44.490496,
+                        40.811638
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "AM-LO",
     coords: [44.4750, 40.8250],

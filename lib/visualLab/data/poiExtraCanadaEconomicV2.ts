@@ -42,7 +42,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Oil Sands Discovery Centre",
-                  "text": "Oil Sands Discovery Centre ist ein Museum über Ölsande in suncor-fort-mcmurray-economic-v2.",
+                  "text": "Wissenschaftszentrum, das die Gewinnung von Öl aus Ölsanden erklärt.",
                   "category": "museum",
                   "coords": [
                         -111.346051,
@@ -53,7 +53,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Oil Sands Discovery Centre",
-                  "text": "Oil Sands Discovery Centre egy olajhomokkal foglalkozó múzeum suncor-fort-mcmurray-economic-v2-ben.",
+                  "text": "Tudományos központ, amely bemutatja az olaj kinyerését az olajhomokból.",
                   "category": "museum",
                   "coords": [
                         -111.346051,
@@ -64,7 +64,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Oil Sands Discovery Centre",
-                  "text": "Oil Sands Discovery Centre este un muzeu despre nisipurile petrolifere în suncor-fort-mcmurray-economic-v2.",
+                  "text": "Centru științific care explică extracția petrolului din nisipuri bituminoase.",
                   "category": "museum",
                   "coords": [
                         -111.346051,
@@ -75,7 +75,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Oil Sands Discovery Centre",
-                  "text": "Oil Sands Discovery Centre is a museum about oil sands in suncor-fort-mcmurray-economic-v2.",
+                  "text": "A science centre explaining oil sands extraction and processing.",
                   "category": "museum",
                   "coords": [
                         -111.346051,
@@ -122,7 +122,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "The Big Nickel",
-                  "text": "Eine große Nachbildung einer kanadischen Nickel-Münze in Sudbury.",
+                  "text": "Eine neun Meter hohe Nachbildung einer kanadischen 5-Cent-Münze von 1951, ein Wahrzeichen des Bergbaus in Sudbury.",
                   "category": "landmark",
                   "coords": [
                         -81.033818,
@@ -131,7 +131,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Labyrinth",
-                  "text": "Ein Labyrinth im Sudbury-Gebiet.",
+                  "text": "Ein Labyrinth aus Hecken in einem Park in Nickel Mines.",
                   "category": "landmark",
                   "coords": [
                         -80.985884,
@@ -140,7 +140,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Mont Rouleau",
-                  "text": "Ein Gipfel in der Region Sudbury.",
+                  "text": "Ein etwa 300 Meter hoher felsiger Hügel mit Aussicht auf das Sudbury-Becken und die Skyline der Stadt.",
                   "category": "natural",
                   "coords": [
                         -81.084523,
@@ -149,7 +149,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "South Bay",
-                  "text": "Eine Bucht im Sudbury-Gebiet.",
+                  "text": "Eine geschützte Bucht am Ramsey Lake, beliebt zum Bootfahren und Angeln, mit einem öffentlichen Strand und einer Bootsanlegestelle.",
                   "category": "landmark",
                   "coords": [
                         -80.94648,
@@ -167,7 +167,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Laurentian Beach",
-                  "text": "Ein Strand in Sudbury am Lake Laurentian.",
+                  "text": "Sandstrand am Laurentian Lake mit Picknicktischen und Spielplatz.",
                   "category": "recreational",
                   "coords": [
                         -80.975325,
@@ -176,7 +176,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bell Park",
-                  "text": "Ein Park in Sudbury am Ramsey Lake.",
+                  "text": "Ein Park am Ufer des Ramsey Lake mit einer Promenade, einem Spielplatz und dem Bell-Park-Strand.",
                   "category": "park",
                   "coords": [
                         -80.99023,
@@ -185,7 +185,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Grace Hartman Amphitheatre",
-                  "text": "Ein Amphitheater in Sudbury für Aufführungen.",
+                  "text": "Ein Amphitheater am Ufer des Ramsey Lake, das im Sommer Konzerte und Festivals veranstaltet.",
                   "category": "cultural",
                   "coords": [
                         -80.992076,
@@ -194,7 +194,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Nepahwin Beach",
-                  "text": "Ein Strand in Sudbury am Lake Nepahwin.",
+                  "text": "Strand am Nepahwin-See mit flachem Wasser und Bootsverleih.",
                   "category": "recreational",
                   "coords": [
                         -80.999126,
@@ -212,7 +212,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Glad Tidings Church",
-                  "text": "Eine Kirche in Sudbury.",
+                  "text": "Eine moderne Pfingstkirche mit einem großen Kreuz und einem geräumigen Auditorium für den Gottesdienst.",
                   "category": "religious",
                   "coords": [
                         -81.008489,
@@ -221,7 +221,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Theatre Cambrian",
-                  "text": "Ein Theater in Sudbury, das lokale Produktionen zeigt.",
+                  "text": "Ein Gemeinschaftstheater in Sudbury, das lokale Produktionen und Musicals in einem 300-sitzigen Saal präsentiert.",
                   "category": "cultural",
                   "coords": [
                         -81.008008,
@@ -239,7 +239,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Knox Hall",
-                  "text": "Eine Kunststätte in Sudbury, die als Veranstaltungsort dient.",
+                  "text": "Gemeindesaal in Nickel Mines, der für Versammlungen und Veranstaltungen genutzt wird.",
                   "category": "cultural",
                   "coords": [
                         -80.993866,
@@ -248,7 +248,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Sudbury Theatre Centre",
-                  "text": "Ein professionelles Theater in Sudbury mit verschiedenen Aufführungen.",
+                  "text": "Ein professionelles Theater in der Innenstadt von Sudbury, das Schauspiele und Musicals in einem modernen Gebäude inszeniert.",
                   "category": "cultural",
                   "coords": [
                         -80.990005,
@@ -257,7 +257,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Tom Davies Square",
-                  "text": "Ein Park in der Innenstadt von Sudbury.",
+                  "text": "Ein öffentlicher Platz vor dem Rathaus von Sudbury mit einem Brunnen und Bronzeskulpturen.",
                   "category": "park",
                   "coords": [
                         -80.990359,
@@ -266,7 +266,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Memorial Park",
-                  "text": "Ein Gedenkpark in Sudbury.",
+                  "text": "Ein Park in der Innenstadt mit einem Kriegerdenkmal und gepflegten Gärten, Schauplatz der Gedenkfeiern zum Waffenstillstandstag.",
                   "category": "park",
                   "coords": [
                         -80.992578,
@@ -275,7 +275,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Art Gallery of Sudbury",
-                  "text": "Eine Kunstgalerie in Sudbury mit wechselnden Ausstellungen.",
+                  "text": "Eine Galerie, die Künstler aus Nordontario ausstellt und in einem historischen Wohnhaus in der Nähe des Bell Parks untergebracht ist.",
                   "category": "museum",
                   "coords": [
                         -80.987523,
@@ -284,7 +284,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "CPR Bay",
-                  "text": "Eine Bucht am Ramsey Lake in Sudbury.",
+                  "text": "Eine Bucht am Ramsey Lake neben der CPR-Bahnlinie mit einem kleinen Steg und landschaftlich reizvoller Küste.",
                   "category": "landmark",
                   "coords": [
                         -80.965045,
@@ -293,7 +293,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Minnow Lake Conservation Area",
-                  "text": "Ein Naturschutzgebiet in Sudbury rund um den Minnow Lake.",
+                  "text": "Naturschutzgebiet um den Minnow Lake mit Wanderwegen und Vogelbeobachtung.",
                   "category": "natural",
                   "coords": [
                         -80.952083,
@@ -302,7 +302,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Sudbury Water Tower",
-                  "text": "Ein markanter Wasserturm in Sudbury, ein lokales Wahrzeichen.",
+                  "text": "Wahrzeichen: historischer Wasserturm in der Innenstadt von Sudbury.",
                   "category": "landmark",
                   "coords": [
                         -80.982867,
@@ -311,7 +311,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "New Sudbury Conservation Area",
-                  "text": "Ein Naturschutzgebiet im Stadtteil New Sudbury.",
+                  "text": "Naturschutzgebiet im Norden Sudburys mit einem See und Waldwegen.",
                   "category": "natural",
                   "coords": [
                         -80.964345,
@@ -320,7 +320,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Flour Mill Museum",
-                  "text": "Ein Museum in Sudbury, untergebracht in einer ehemaligen Getreidemühle.",
+                  "text": "Eine historische Mühle aus dem Jahr 1900 in Greater Sudbury, die heute ein Museum beherbergt.",
                   "category": "museum",
                   "coords": [
                         -80.987715,
@@ -329,7 +329,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Frenchman's Bay",
-                  "text": "Eine Bucht im Sudbury-Gebiet.",
+                  "text": "Eine schmale Bucht am Südufer des Ramsey Lake, beliebt zum Kajakfahren und für die Tierbeobachtung.",
                   "category": "landmark",
                   "coords": [
                         -80.916644,
@@ -338,7 +338,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Moonlight Beach",
-                  "text": "Ein Strand in Sudbury am Ramsey Lake.",
+                  "text": "Sandstrand am Moonlight Lake mit Volleyballfeld und Grillplätzen.",
                   "category": "recreational",
                   "coords": [
                         -80.909855,
@@ -358,7 +358,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "The Big Nickel",
-                  "text": "Egy nagy kanadai nikkelérme másolat Sudburyben.",
+                  "text": "Egy kilencméteres másolata az 1951-es kanadai ötcentesnek, Sudbury bányászatának szimbóluma.",
                   "category": "landmark",
                   "coords": [
                         -81.033818,
@@ -367,7 +367,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Labyrinth",
-                  "text": "Egy labirintus a Sudbury régióban.",
+                  "text": "Sövénylabirintus egy parkban a Nickel Mines területén.",
                   "category": "landmark",
                   "coords": [
                         -80.985884,
@@ -376,7 +376,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Mont Rouleau",
-                  "text": "Egy csúcs a Sudbury régióban.",
+                  "text": "Egy körülbelül 300 méter magas sziklás domb, kilátással a Sudbury-medencére és a város látképére.",
                   "category": "natural",
                   "coords": [
                         -81.084523,
@@ -385,7 +385,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "South Bay",
-                  "text": "Egy öböl a Sudbury régióban.",
+                  "text": "Egy védett öböl a Ramsey-tavon, népszerű csónakázásra és horgászatra, nyilvános stranddal és csónakbeállóval.",
                   "category": "landmark",
                   "coords": [
                         -80.94648,
@@ -403,7 +403,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Laurentian Beach",
-                  "text": "Egy strand Sudburyben a Laurentian-tónál.",
+                  "text": "Homokos strand a Laurentian-tónál, piknikasztalokkal és játszótérrel.",
                   "category": "recreational",
                   "coords": [
                         -80.975325,
@@ -412,7 +412,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bell Park",
-                  "text": "Egy park Sudburyben a Ramsey-tó mellett.",
+                  "text": "Egy park a Ramsey-tó partján, sétánnyal, játszótérrel és a Bell Park stranddal.",
                   "category": "park",
                   "coords": [
                         -80.99023,
@@ -421,7 +421,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Grace Hartman Amphitheatre",
-                  "text": "Egy amfiteátrum Sudburyben előadások számára.",
+                  "text": "Egy amfiteátrum a Ramsey-tó partján, amely nyári koncerteknek és fesztiváloknak ad otthont.",
                   "category": "cultural",
                   "coords": [
                         -80.992076,
@@ -430,7 +430,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Nepahwin Beach",
-                  "text": "Egy strand Sudburyben a Nepahwin-tónál.",
+                  "text": "Strand a Nepahwin-tónál, sekély vízzel és csónakkölcsönzéssel.",
                   "category": "recreational",
                   "coords": [
                         -80.999126,
@@ -448,7 +448,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Glad Tidings Church",
-                  "text": "Egy templom Sudburyben.",
+                  "text": "Egy modern pünkösdi templom nagy kereszttel és tágas előadóteremmel a istentiszteletekhez.",
                   "category": "religious",
                   "coords": [
                         -81.008489,
@@ -457,7 +457,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Theatre Cambrian",
-                  "text": "Egy színház Sudburyben, amely helyi produkciókat mutat be.",
+                  "text": "Egy közösségi színház Sudburyben, helyi produkciókkal és musicalekkel egy 300 férőhelyes teremben.",
                   "category": "cultural",
                   "coords": [
                         -81.008008,
@@ -475,7 +475,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Knox Hall",
-                  "text": "Egy művészeti helyszín Sudburyben, rendezvények helyszíne.",
+                  "text": "Közösségi terem a Nickel Minesben, gyűlések és rendezvények számára.",
                   "category": "cultural",
                   "coords": [
                         -80.993866,
@@ -484,7 +484,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Sudbury Theatre Centre",
-                  "text": "Egy professzionális színház Sudburyben, változatos előadásokkal.",
+                  "text": "Egy professzionális színház Sudbury belvárosában, amely színdarabokat és musicaleket mutat be egy modern épületben.",
                   "category": "cultural",
                   "coords": [
                         -80.990005,
@@ -493,7 +493,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Tom Davies Square",
-                  "text": "Egy park Sudbury belvárosában.",
+                  "text": "Egy nyilvános tér a Sudbury-i városháza előtt, szökőkúttal és bronzszobrokkal.",
                   "category": "park",
                   "coords": [
                         -80.990359,
@@ -502,7 +502,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Memorial Park",
-                  "text": "Egy emlékpark Sudburyben.",
+                  "text": "Egy belvárosi park háborús emlékművel és gondozott kertekkel, a fegyverszünet napi megemlékezések helyszíne.",
                   "category": "park",
                   "coords": [
                         -80.992578,
@@ -511,7 +511,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Art Gallery of Sudbury",
-                  "text": "Egy művészeti galéria Sudburyben, változó kiállításokkal.",
+                  "text": "Egy galéria, amely Észak-Ontario művészeinek alkotásait mutatja be, egy történelmi lakóházban a Bell Park közelében.",
                   "category": "museum",
                   "coords": [
                         -80.987523,
@@ -520,7 +520,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "CPR Bay",
-                  "text": "Egy öböl a Ramsey-tónál Sudburyben.",
+                  "text": "Egy öböl a Ramsey-tavon a CPR vasútvonal mellett, kis mólóval és festői partvonallal.",
                   "category": "landmark",
                   "coords": [
                         -80.965045,
@@ -529,7 +529,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Minnow Lake Conservation Area",
-                  "text": "Egy természetvédelmi terület Sudburyben a Minnow-tó körül.",
+                  "text": "Természetvédelmi terület a Minnow-tó körül, túraútvonalakkal és madármegfigyeléssel.",
                   "category": "natural",
                   "coords": [
                         -80.952083,
@@ -538,7 +538,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Sudbury Water Tower",
-                  "text": "Egy jellegzetes víztorony Sudburyben, helyi nevezetesség.",
+                  "text": "Nevezetesség: történelmi víztorony Sudbury belvárosában.",
                   "category": "landmark",
                   "coords": [
                         -80.982867,
@@ -547,7 +547,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "New Sudbury Conservation Area",
-                  "text": "Egy természetvédelmi terület New Sudbury városrészben.",
+                  "text": "Természetvédelmi terület Sudbury északi részén, tóval és erdei ösvényekkel.",
                   "category": "natural",
                   "coords": [
                         -80.964345,
@@ -556,7 +556,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Flour Mill Museum",
-                  "text": "Egy múzeum Sudburyben, egy egykori malom épületében.",
+                  "text": "Történelmi malom 1900-ból Greater Sudburyben, ma múzeum.",
                   "category": "museum",
                   "coords": [
                         -80.987715,
@@ -565,7 +565,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Frenchman's Bay",
-                  "text": "Egy öböl a Sudbury régióban.",
+                  "text": "Egy keskeny öböl a Ramsey-tó déli partján, népszerű kajakozásra és vadmegfigyelésre.",
                   "category": "landmark",
                   "coords": [
                         -80.916644,
@@ -574,7 +574,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Moonlight Beach",
-                  "text": "Egy strand Sudburyben a Ramsey-tónál.",
+                  "text": "Homokos strand a Moonlight-tónál, röplabdapályával és grillezőhelyekkel.",
                   "category": "recreational",
                   "coords": [
                         -80.909855,
@@ -594,7 +594,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "The Big Nickel",
-                  "text": "O replică mare a unei monede canadiene de nichel în Sudbury.",
+                  "text": "O replică înaltă de nouă metri a monedei canadiene de 5 cenți din 1951, simbol al mineritului din Sudbury.",
                   "category": "landmark",
                   "coords": [
                         -81.033818,
@@ -603,7 +603,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Labyrinth",
-                  "text": "Un labirint în zona Sudbury.",
+                  "text": "Labirint din garduri vii într-un parc din Nickel Mines.",
                   "category": "landmark",
                   "coords": [
                         -80.985884,
@@ -612,7 +612,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Mont Rouleau",
-                  "text": "Un vârf în regiunea Sudbury.",
+                  "text": "Un deal stâncos de aproximativ 300 de metri înălțime, cu vedere asupra bazinului Sudbury și a orizontului orașului.",
                   "category": "natural",
                   "coords": [
                         -81.084523,
@@ -621,7 +621,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "South Bay",
-                  "text": "Un golf în zona Sudbury.",
+                  "text": "Un golf adăpostit pe lacul Ramsey, popular pentru plimbări cu barca și pescuit, cu o plajă publică și un debarcader.",
                   "category": "landmark",
                   "coords": [
                         -80.94648,
@@ -639,7 +639,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Laurentian Beach",
-                  "text": "O plajă în Sudbury pe lacul Laurentian.",
+                  "text": "Plajă nisipoasă pe lacul Laurentian, cu mese de picnic și loc de joacă.",
                   "category": "recreational",
                   "coords": [
                         -80.975325,
@@ -648,7 +648,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bell Park",
-                  "text": "Un parc în Sudbury pe lacul Ramsey.",
+                  "text": "Un parc pe malul lacului Ramsey, cu o promenadă, un loc de joacă și plaja Bell Park.",
                   "category": "park",
                   "coords": [
                         -80.99023,
@@ -657,7 +657,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Grace Hartman Amphitheatre",
-                  "text": "Un amfiteatru în Sudbury pentru spectacole.",
+                  "text": "Un amfiteatru pe malul lacului Ramsey care găzduiește concerte și festivaluri de vară.",
                   "category": "cultural",
                   "coords": [
                         -80.992076,
@@ -666,7 +666,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Nepahwin Beach",
-                  "text": "O plajă în Sudbury pe lacul Nepahwin.",
+                  "text": "Plajă pe lacul Nepahwin, cu apă puțin adâncă și închiriere de bărci.",
                   "category": "recreational",
                   "coords": [
                         -80.999126,
@@ -684,7 +684,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Glad Tidings Church",
-                  "text": "O biserică în Sudbury.",
+                  "text": "O biserică penticostală modernă, cu o cruce mare și un auditoriu spațios pentru slujbe.",
                   "category": "religious",
                   "coords": [
                         -81.008489,
@@ -693,7 +693,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Theatre Cambrian",
-                  "text": "Un teatru în Sudbury care prezintă producții locale.",
+                  "text": "Un teatru comunitar în Sudbury, care prezintă producții locale și musicaluri într-o sală de 300 de locuri.",
                   "category": "cultural",
                   "coords": [
                         -81.008008,
@@ -711,7 +711,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Knox Hall",
-                  "text": "Un spațiu artistic în Sudbury care servește ca loc pentru evenimente.",
+                  "text": "Sală comunitară în Nickel Mines, folosită pentru adunări și evenimente.",
                   "category": "cultural",
                   "coords": [
                         -80.993866,
@@ -720,7 +720,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Sudbury Theatre Centre",
-                  "text": "Un teatru profesionist în Sudbury cu diverse spectacole.",
+                  "text": "Un teatru profesionist în centrul orașului Sudbury, care pune în scenă piese de teatru și musicaluri într-o clădire modernă.",
                   "category": "cultural",
                   "coords": [
                         -80.990005,
@@ -729,7 +729,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Tom Davies Square",
-                  "text": "Un parc în centrul orașului Sudbury.",
+                  "text": "O piață publică în fața primăriei din Sudbury, cu o fântână și sculpturi din bronz.",
                   "category": "park",
                   "coords": [
                         -80.990359,
@@ -738,7 +738,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Memorial Park",
-                  "text": "Un parc memorial în Sudbury.",
+                  "text": "Un parc din centrul orașului cu un monument al eroilor și grădini îngrijite, locul ceremoniilor de Ziua Armistițiului.",
                   "category": "park",
                   "coords": [
                         -80.992578,
@@ -747,7 +747,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Art Gallery of Sudbury",
-                  "text": "O galerie de artă în Sudbury cu expoziții temporare.",
+                  "text": "O galerie care expune artiști din nordul Ontario, găzduită într-o fostă locuință istorică lângă Bell Park.",
                   "category": "museum",
                   "coords": [
                         -80.987523,
@@ -756,7 +756,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "CPR Bay",
-                  "text": "Un golf pe lacul Ramsey în Sudbury.",
+                  "text": "Un golf pe lacul Ramsey, adiacent liniei de cale ferată CPR, cu un mic debarcader și țărm pitoresc.",
                   "category": "landmark",
                   "coords": [
                         -80.965045,
@@ -765,7 +765,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Minnow Lake Conservation Area",
-                  "text": "O rezervație naturală în Sudbury în jurul lacului Minnow.",
+                  "text": "Arie protejată în jurul lacului Minnow, cu trasee de drumeție și observare a păsărilor.",
                   "category": "natural",
                   "coords": [
                         -80.952083,
@@ -774,7 +774,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Sudbury Water Tower",
-                  "text": "Un turn de apă proeminent în Sudbury, un reper local.",
+                  "text": "Reper: turn de apă istoric în centrul orașului Sudbury.",
                   "category": "landmark",
                   "coords": [
                         -80.982867,
@@ -783,7 +783,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "New Sudbury Conservation Area",
-                  "text": "O rezervație naturală în cartierul New Sudbury.",
+                  "text": "Arie protejată în nordul Sudbury, cu un lac și poteci forestiere.",
                   "category": "natural",
                   "coords": [
                         -80.964345,
@@ -792,7 +792,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Flour Mill Museum",
-                  "text": "Un muzeu în Sudbury, găzduit într-o fostă moară de cereale.",
+                  "text": "O moară istorică din 1900 în Greater Sudbury, acum muzeu.",
                   "category": "museum",
                   "coords": [
                         -80.987715,
@@ -801,7 +801,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Frenchman's Bay",
-                  "text": "Un golf în zona Sudbury.",
+                  "text": "Un golf îngust pe malul sudic al lacului Ramsey, popular pentru caiac și observarea faunei sălbatice.",
                   "category": "landmark",
                   "coords": [
                         -80.916644,
@@ -810,7 +810,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Moonlight Beach",
-                  "text": "O plajă în Sudbury pe lacul Ramsey.",
+                  "text": "Plajă nisipoasă pe lacul Moonlight, cu teren de volei și zone de grătar.",
                   "category": "recreational",
                   "coords": [
                         -80.909855,
@@ -830,7 +830,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "The Big Nickel",
-                  "text": "A large replica of a Canadian nickel coin in Sudbury.",
+                  "text": "A giant nine-metre-tall replica of a 1951 Canadian 5-cent coin, a symbol of Sudbury's mining heritage.",
                   "category": "landmark",
                   "coords": [
                         -81.033818,
@@ -839,7 +839,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Labyrinth",
-                  "text": "A labyrinth in the Sudbury area.",
+                  "text": "A hedge maze in a park in Nickel Mines.",
                   "category": "landmark",
                   "coords": [
                         -80.985884,
@@ -848,7 +848,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Mont Rouleau",
-                  "text": "A peak in the Sudbury region.",
+                  "text": "A rocky hill about 300 metres high offering views of the Sudbury basin and the city skyline.",
                   "category": "natural",
                   "coords": [
                         -81.084523,
@@ -857,7 +857,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "South Bay",
-                  "text": "A bay in the Sudbury area.",
+                  "text": "A sheltered bay on Ramsey Lake, popular for boating and fishing, with a public beach and boat launch.",
                   "category": "landmark",
                   "coords": [
                         -80.94648,
@@ -875,7 +875,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Laurentian Beach",
-                  "text": "A beach in Sudbury on Lake Laurentian.",
+                  "text": "A sandy beach on Laurentian Lake with picnic tables and a playground.",
                   "category": "recreational",
                   "coords": [
                         -80.975325,
@@ -884,7 +884,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bell Park",
-                  "text": "A park in Sudbury on Ramsey Lake.",
+                  "text": "A lakeside park on Ramsey Lake featuring a boardwalk, a playground, and Bell Park beach.",
                   "category": "park",
                   "coords": [
                         -80.99023,
@@ -893,7 +893,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Grace Hartman Amphitheatre",
-                  "text": "An amphitheatre in Sudbury for performances.",
+                  "text": "An outdoor amphitheatre on the shores of Ramsey Lake, hosting summer concerts and festivals.",
                   "category": "cultural",
                   "coords": [
                         -80.992076,
@@ -902,7 +902,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Nepahwin Beach",
-                  "text": "A beach in Sudbury on Lake Nepahwin.",
+                  "text": "A beach on Nepahwin Lake with shallow water and boat rentals.",
                   "category": "recreational",
                   "coords": [
                         -80.999126,
@@ -920,7 +920,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Glad Tidings Church",
-                  "text": "A church in Sudbury.",
+                  "text": "A modern Pentecostal church with a large cross and a spacious auditorium for services.",
                   "category": "religious",
                   "coords": [
                         -81.008489,
@@ -929,7 +929,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Theatre Cambrian",
-                  "text": "A theatre in Sudbury showcasing local productions.",
+                  "text": "A community theatre in Sudbury, presenting local productions and musicals in a 300-seat venue.",
                   "category": "cultural",
                   "coords": [
                         -81.008008,
@@ -947,7 +947,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Knox Hall",
-                  "text": "An arts venue in Sudbury serving as an event space.",
+                  "text": "A community hall in Nickel Mines used for meetings and events.",
                   "category": "cultural",
                   "coords": [
                         -80.993866,
@@ -956,7 +956,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Sudbury Theatre Centre",
-                  "text": "A professional theatre in Sudbury with various performances.",
+                  "text": "A professional theatre in downtown Sudbury, producing plays and musicals in a modern building.",
                   "category": "cultural",
                   "coords": [
                         -80.990005,
@@ -965,7 +965,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Tom Davies Square",
-                  "text": "A park in downtown Sudbury.",
+                  "text": "A public square in front of Sudbury City Hall, featuring a fountain and bronze sculptures.",
                   "category": "park",
                   "coords": [
                         -80.990359,
@@ -974,7 +974,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Memorial Park",
-                  "text": "A memorial park in Sudbury.",
+                  "text": "A downtown park with a war memorial cenotaph and manicured gardens, a site for Remembrance Day ceremonies.",
                   "category": "park",
                   "coords": [
                         -80.992578,
@@ -983,7 +983,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Art Gallery of Sudbury",
-                  "text": "An art gallery in Sudbury with rotating exhibitions.",
+                  "text": "A gallery showcasing Northern Ontario artists, located in a historic former residence near Bell Park.",
                   "category": "museum",
                   "coords": [
                         -80.987523,
@@ -992,7 +992,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "CPR Bay",
-                  "text": "A bay on Ramsey Lake in Sudbury.",
+                  "text": "A bay on Ramsey Lake adjacent to the CPR rail line, with a small dock and scenic shoreline.",
                   "category": "landmark",
                   "coords": [
                         -80.965045,
@@ -1001,7 +1001,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Minnow Lake Conservation Area",
-                  "text": "A nature reserve in Sudbury around Minnow Lake.",
+                  "text": "A conservation area around Minnow Lake with hiking trails and birdwatching.",
                   "category": "natural",
                   "coords": [
                         -80.952083,
@@ -1010,7 +1010,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Sudbury Water Tower",
-                  "text": "A prominent water tower in Sudbury, a local landmark.",
+                  "text": "A landmark: a historic water tower in downtown Sudbury.",
                   "category": "landmark",
                   "coords": [
                         -80.982867,
@@ -1019,7 +1019,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "New Sudbury Conservation Area",
-                  "text": "A nature reserve in the New Sudbury neighbourhood.",
+                  "text": "A conservation area in New Sudbury with a lake and forest trails.",
                   "category": "natural",
                   "coords": [
                         -80.964345,
@@ -1028,7 +1028,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Flour Mill Museum",
-                  "text": "A museum in Sudbury housed in a former flour mill.",
+                  "text": "A historic flour mill built in 1900 in Greater Sudbury, now a museum.",
                   "category": "museum",
                   "coords": [
                         -80.987715,
@@ -1037,7 +1037,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Frenchman's Bay",
-                  "text": "A bay in the Sudbury area.",
+                  "text": "A narrow bay on the south shore of Ramsey Lake, popular for kayaking and wildlife viewing.",
                   "category": "landmark",
                   "coords": [
                         -80.916644,
@@ -1046,7 +1046,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Moonlight Beach",
-                  "text": "A beach in Sudbury on Ramsey Lake.",
+                  "text": "A sandy beach on Moonlight Lake with a volleyball court and BBQ pits.",
                   "category": "recreational",
                   "coords": [
                         -80.909855,
@@ -1102,7 +1102,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Saskatchewan MADD Monument",
-                  "text": "Das Saskatchewan MADD Monument ist ein Denkmal in Saskatoon, Saskatchewan.",
+                  "text": "Ein Mahnmal in Saskatoon, das den Opfern von Trunkenheit am Steuer gewidmet ist, mit einer Bronzeskulptur und reflektierenden Gedenktafeln.",
                   "category": "historical",
                   "coords": [
                         -106.659373,
@@ -1111,7 +1111,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Historical plaque for Zion Evangelical Lutheran Church",
-                  "text": "Die historische Gedenktafel für die Zion Evangelical Lutheran Church ist ein Denkmal in Saskatoon, Saskatchewan.",
+                  "text": "Historische Gedenktafel am Standort der ehemaligen Zion Evangelical Lutheran Church.",
                   "category": "historical",
                   "coords": [
                         -106.659168,
@@ -1120,7 +1120,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Memorial Library and Art Gallery",
-                  "text": "Die Memorial Library and Art Gallery ist eine Galerie in Saskatoon, Saskatchewan.",
+                  "text": "Bibliothek und Kunstgalerie in einem denkmalgeschützten Gebäude mit Wechselausstellungen.",
                   "category": "museum",
                   "coords": [
                         -106.66132,
@@ -1129,7 +1129,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Greystone Theatre",
-                  "text": "Das Greystone Theatre ist ein Theater in Saskatoon, Saskatchewan.",
+                  "text": "Ein Theater auf dem Campus der University of Saskatchewan, benannt nach dem grauen Steingebäude, das es beherbergt, mit studentischen und professionellen Produktionen.",
                   "category": "cultural",
                   "coords": [
                         -106.631606,
@@ -1138,7 +1138,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Anchor for the Saskatchewan Sailor",
-                  "text": "Der Anchor for the Saskatchewan Sailor ist ein Denkmal in Saskatoon, Saskatchewan.",
+                  "text": "Bronzeanker als Denkmal für die Seefahrtsgeschichte Saskatchewan.",
                   "category": "historical",
                   "coords": [
                         -106.6531,
@@ -1147,7 +1147,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Museum of Antiquities",
-                  "text": "Das Museum of Antiquities ist ein Museum in Saskatoon, Saskatchewan.",
+                  "text": "Ein Museum an der University of Saskatchewan mit Gipsabdrücken klassischer Skulpturen und antiken Artefakten aus Griechenland und Rom.",
                   "category": "museum",
                   "coords": [
                         -106.632771,
@@ -1156,7 +1156,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Gordon Snelgrove Gallery",
-                  "text": "Die Gordon Snelgrove Gallery ist eine Galerie in Saskatoon, Saskatchewan.",
+                  "text": "Kunstgalerie, die Werke von Gordon Snelgrove und anderen lokalen Künstlern zeigt.",
                   "category": "museum",
                   "coords": [
                         -106.637185,
@@ -1165,7 +1165,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "The Studio At Midtown",
-                  "text": "Das Studio At Midtown ist ein Kunstzentrum in Saskatoon, Saskatchewan.",
+                  "text": "Kreativstudio in der Innenstadt mit Kursen in Malerei und Töpferei.",
                   "category": "cultural",
                   "coords": [
                         -106.667712,
@@ -1174,7 +1174,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Coors Event Centre",
-                  "text": "Das Coors Event Centre ist ein Kunstzentrum in Saskatoon, Saskatchewan.",
+                  "text": "Veranstaltungszentrum mit Bar und Tanzfläche für Konzerte und Feiern.",
                   "category": "cultural",
                   "coords": [
                         -106.665165,
@@ -1183,7 +1183,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Art Placement: The Gallery",
-                  "text": "Art Placement: The Gallery ist eine Galerie in Saskatoon, Saskatchewan.",
+                  "text": "Kommerzielle Kunstgalerie mit Werken zeitgenössischer kanadischer Künstler.",
                   "category": "museum",
                   "coords": [
                         -106.662821,
@@ -1192,7 +1192,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Five Corners",
-                  "text": "Five Corners ist ein Denkmal in Saskatoon, Saskatchewan.",
+                  "text": "Five Corners ist eine historische Fünf-Wege-Kreuzung in Corp Saskatchewan, die den Treffpunkt mehrerer alter Handelswege markiert.",
                   "category": "historical",
                   "coords": [
                         -106.656403,
@@ -1201,7 +1201,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Pioneer Memorial Cairn",
-                  "text": "Der Pioneer Memorial Cairn ist ein Denkmal in Saskatoon, Saskatchewan.",
+                  "text": "Ein steinernes Denkmal am Ufer des South Saskatchewan River in Saskatoon, das an die frühen Siedler der Region erinnert.",
                   "category": "historical",
                   "coords": [
                         -106.657513,
@@ -1210,7 +1210,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "All In The Wild Gallery",
-                  "text": "Die All In The Wild Gallery ist eine Galerie in Saskatoon, Saskatchewan.",
+                  "text": "Das All In The Wild Gallery ist ein Museum in Corp Saskatchewan, das sich auf Kunst und Exponate über die heimische Tierwelt konzentriert.",
                   "category": "museum",
                   "coords": [
                         -106.656491,
@@ -1219,7 +1219,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Spirit of Alliance",
-                  "text": "Spirit of Alliance ist ein Denkmal in Saskatoon, Saskatchewan.",
+                  "text": "Eine Bronzeskulptur, die die Versöhnung zwischen indigenen und nicht-indigenen Völkern darstellt und in der Nähe der Universität steht.",
                   "category": "historical",
                   "coords": [
                         -106.670259,
@@ -1228,7 +1228,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Shakespeare on the Saskatchewan",
-                  "text": "Shakespeare on the Saskatchewan ist ein Theater in Saskatoon, Saskatchewan.",
+                  "text": "Shakespeare on the Saskatchewan ist ein sommerliches Open-Air-Theaterfestival am Ufer des South Saskatchewan River, das Stücke von Shakespeare aufführt.",
                   "category": "cultural",
                   "coords": [
                         -106.649355,
@@ -1237,7 +1237,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Museum of Natural Sciences University of Saskatchewan",
-                  "text": "Das Museum of Natural Sciences der University of Saskatchewan ist ein Museum in Saskatoon, Saskatchewan.",
+                  "text": "Das Museum of Natural Sciences der University of Saskatchewan beherbergt Dinosaurierfossilien und regionale naturgeschichtliche Sammlungen.",
                   "category": "museum",
                   "coords": [
                         -106.634631,
@@ -1246,7 +1246,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "River Landing",
-                  "text": "River Landing ist ein Park in Saskatoon, Saskatchewan.",
+                  "text": "Ein Park am South Saskatchewan River mit Spazierwegen, einem Spielplatz und dem River Landing Amphitheater.",
                   "category": "park",
                   "coords": [
                         -106.666479,
@@ -1255,7 +1255,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Knox United Church",
-                  "text": "Die Knox United Church ist ein Gotteshaus in Saskatoon, Saskatchewan.",
+                  "text": "Eine historische United Church in Saskatoon, erbaut 1910, mit einem hohen gotischen Turm und kunstvollen Glasmalereien.",
                   "category": "religious",
                   "coords": [
                         -106.654466,
@@ -1264,7 +1264,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Kiwanis Memorial Park",
-                  "text": "Der Kiwanis Memorial Park ist ein Park in Saskatoon, Saskatchewan.",
+                  "text": "Ein Park am Ufer des South Saskatchewan River mit einem Ehrenmal für Veteranen und einem Picknickunterstand.",
                   "category": "park",
                   "coords": [
                         -106.657078,
@@ -1273,7 +1273,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Saint Paul Co-Cathedral",
-                  "text": "Die Saint Paul Co-Cathedral ist ein Gotteshaus in Saskatoon, Saskatchewan.",
+                  "text": "Katholische Konkathedrale, dem heiligen Paulus geweiht, in Corp Saskatchewan.",
                   "category": "religious",
                   "coords": [
                         -106.658145,
@@ -1282,7 +1282,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "St. Andrew's Presbyterian Church",
-                  "text": "Die St. Andrew's Presbyterian Church ist ein Gotteshaus in Saskatoon, Saskatchewan.",
+                  "text": "Presbyterianische Kirche, dem heiligen Andreas geweiht, in Corp Saskatchewan.",
                   "category": "religious",
                   "coords": [
                         -106.660666,
@@ -1291,7 +1291,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "The Refinery Arts & Spirit Center",
-                  "text": "Das Refinery Arts & Spirit Center ist ein Kunstzentrum in Saskatoon, Saskatchewan.",
+                  "text": "Das Refinery Arts & Spirit Center ist ein Kulturzentrum in einer ehemaligen Raffinerie in Corp Saskatchewan mit Kunstgalerien und einer Kleinbrennerei.",
                   "category": "cultural",
                   "coords": [
                         -106.65358,
@@ -1309,7 +1309,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "K.W. Nasser Plaza",
-                  "text": "Der K.W. Nasser Plaza ist ein Park in Saskatoon, Saskatchewan.",
+                  "text": "Platz benannt nach K.W. Nasser in Corp Saskatchewan.",
                   "category": "park",
                   "coords": [
                         -106.665267,
@@ -1318,7 +1318,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Rotary Park",
-                  "text": "Der Rotary Park ist ein Park in Saskatoon, Saskatchewan.",
+                  "text": "Rotary-Club-Park in Corp Saskatchewan.",
                   "category": "park",
                   "coords": [
                         -106.664152,
@@ -1354,7 +1354,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Kinsmen Park",
-                  "text": "Der Kinsmen Park ist ein Park in potash-corp-saskatchewan-economic-v2, der der Gemeinschaft dient.",
+                  "text": "Kinsmen-Club-Park in Corp Saskatchewan.",
                   "category": "park",
                   "coords": [
                         -106.652053,
@@ -1383,7 +1383,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Saskatchewan MADD Monument",
-                  "text": "A Saskatchewan MADD Monument egy emlékmű Saskatoonban, Saskatchewanban.",
+                  "text": "Egy emlékmű Saskatoonban, amely az ittas vezetés áldozatainak állít emléket, bronzszoborral és tükröződő emléktáblákkal.",
                   "category": "historical",
                   "coords": [
                         -106.659373,
@@ -1392,7 +1392,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Historical plaque for Zion Evangelical Lutheran Church",
-                  "text": "A Zion Evangélikus Lutheránus Templom történelmi emléktáblája egy emlékmű Saskatoonban, Saskatchewanban.",
+                  "text": "Történelmi emléktábla a volt Zion Evangélikus Lutheránus Templom helyén.",
                   "category": "historical",
                   "coords": [
                         -106.659168,
@@ -1401,7 +1401,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Memorial Library and Art Gallery",
-                  "text": "A Memorial Library and Art Gallery egy galéria Saskatoonban, Saskatchewanban.",
+                  "text": "Könyvtár és művészeti galéria egy műemlék épületben, időszakos kiállításokkal.",
                   "category": "museum",
                   "coords": [
                         -106.66132,
@@ -1410,7 +1410,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Greystone Theatre",
-                  "text": "A Greystone Theatre egy színház Saskatoonban, Saskatchewanban.",
+                  "text": "Egy színház a University of Saskatchewan campusán, amely a benne elhelyezkedő szürke kőépületről kapta a nevét, egyetemi és professzionális produkciókkal.",
                   "category": "cultural",
                   "coords": [
                         -106.631606,
@@ -1419,7 +1419,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Anchor for the Saskatchewan Sailor",
-                  "text": "Az Anchor for the Saskatchewan Sailor egy emlékmű Saskatoonban, Saskatchewanban.",
+                  "text": "Bronzhorgony-emlékmű Saskatchewan tengerészeti történelmének tiszteletére.",
                   "category": "historical",
                   "coords": [
                         -106.6531,
@@ -1428,7 +1428,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Museum of Antiquities",
-                  "text": "A Museum of Antiquities egy múzeum Saskatoonban, Saskatchewanban.",
+                  "text": "Egy múzeum a University of Saskatchewanon, klasszikus szobrok gipszmásolataival és ókori görög-római tárgyakkal.",
                   "category": "museum",
                   "coords": [
                         -106.632771,
@@ -1437,7 +1437,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Gordon Snelgrove Gallery",
-                  "text": "A Gordon Snelgrove Gallery egy galéria Saskatoonban, Saskatchewanban.",
+                  "text": "Művészeti galéria, amely Gordon Snelgrove és más helyi művészek munkáit mutatja be.",
                   "category": "museum",
                   "coords": [
                         -106.637185,
@@ -1446,7 +1446,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "The Studio At Midtown",
-                  "text": "A The Studio At Midtown egy művészeti központ Saskatoonban, Saskatchewanban.",
+                  "text": "Kreatív stúdió a belvárosban festő- és fazekastanfolyamokkal.",
                   "category": "cultural",
                   "coords": [
                         -106.667712,
@@ -1455,7 +1455,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Coors Event Centre",
-                  "text": "A Coors Event Centre egy művészeti központ Saskatoonban, Saskatchewanban.",
+                  "text": "Rendezvényközpont bárral és táncparkettel koncertekhez és ünnepségekhez.",
                   "category": "cultural",
                   "coords": [
                         -106.665165,
@@ -1464,7 +1464,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Art Placement: The Gallery",
-                  "text": "Az Art Placement: The Gallery egy galéria Saskatoonban, Saskatchewanban.",
+                  "text": "Kereskedelmi művészeti galéria kortárs kanadai művészek munkáival.",
                   "category": "museum",
                   "coords": [
                         -106.662821,
@@ -1473,7 +1473,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Five Corners",
-                  "text": "A Five Corners egy emlékmű Saskatoonban, Saskatchewanban.",
+                  "text": "A Five Corners egy történelmi öt úti kereszteződés Corp Saskatchewanban, amely régi kereskedelmi utak találkozását jelzi.",
                   "category": "historical",
                   "coords": [
                         -106.656403,
@@ -1482,7 +1482,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Pioneer Memorial Cairn",
-                  "text": "A Pioneer Memorial Cairn egy emlékmű Saskatoonban, Saskatchewanban.",
+                  "text": "Egy kő emlékmű a South Saskatchewan folyó partján Saskatoonban, amely a régió első telepesének állít emléket.",
                   "category": "historical",
                   "coords": [
                         -106.657513,
@@ -1491,7 +1491,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "All In The Wild Gallery",
-                  "text": "Az All In The Wild Gallery egy galéria Saskatoonban, Saskatchewanban.",
+                  "text": "Az All In The Wild Gallery egy múzeum Corp Saskatchewanban, amely a helyi vadon élő állatok művészetét és kiállításait mutatja be.",
                   "category": "museum",
                   "coords": [
                         -106.656491,
@@ -1500,7 +1500,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Spirit of Alliance",
-                  "text": "A Spirit of Alliance egy emlékmű Saskatoonban, Saskatchewanban.",
+                  "text": "Egy bronzszobor, amely az őslakosok és a nem őslakosok közötti megbékélést szimbolizálja, az egyetem közelében.",
                   "category": "historical",
                   "coords": [
                         -106.670259,
@@ -1509,7 +1509,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Shakespeare on the Saskatchewan",
-                  "text": "A Shakespeare on the Saskatchewan egy színház Saskatoonban, Saskatchewanban.",
+                  "text": "A Shakespeare on the Saskatchewan egy nyári szabadtéri színházi fesztivál a South Saskatchewan folyó partján, Shakespeare-darabokkal.",
                   "category": "cultural",
                   "coords": [
                         -106.649355,
@@ -1518,7 +1518,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Museum of Natural Sciences University of Saskatchewan",
-                  "text": "A University of Saskatchewan Museum of Natural Sciences egy múzeum Saskatoonban, Saskatchewanban.",
+                  "text": "A Saskatchewan Egyetem Természettudományi Múzeuma dinoszaurusz kövületeket és regionális természetrajzi gyűjteményeket őriz.",
                   "category": "museum",
                   "coords": [
                         -106.634631,
@@ -1527,7 +1527,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "River Landing",
-                  "text": "A River Landing egy park Saskatoonban, Saskatchewanban.",
+                  "text": "Egy park a South Saskatchewan folyó mentén, sétányokkal, játszótérrel és a River Landing amfiteátrummal.",
                   "category": "park",
                   "coords": [
                         -106.666479,
@@ -1536,7 +1536,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Knox United Church",
-                  "text": "A Knox United Church egy istentiszteleti hely Saskatoonban, Saskatchewanban.",
+                  "text": "Egy történelmi united templom Saskatoonban, 1910-ben épült, magas gótikus toronnyal és díszes üvegablakokkal.",
                   "category": "religious",
                   "coords": [
                         -106.654466,
@@ -1545,7 +1545,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Kiwanis Memorial Park",
-                  "text": "A Kiwanis Memorial Park egy park Saskatoonban, Saskatchewanban.",
+                  "text": "Egy park a South Saskatchewan folyó partján, veteránemlékművel és piknikkalapáccsal.",
                   "category": "park",
                   "coords": [
                         -106.657078,
@@ -1554,7 +1554,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Saint Paul Co-Cathedral",
-                  "text": "A Saint Paul társszékesegyház egy istentiszteleti hely Saskatoonban, Saskatchewanban.",
+                  "text": "Szent Pálnak szentelt katolikus társszékesegyház a Corp Saskatchewanban.",
                   "category": "religious",
                   "coords": [
                         -106.658145,
@@ -1563,7 +1563,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "St. Andrew's Presbyterian Church",
-                  "text": "A St. Andrew's Presbyterian Church egy istentiszteleti hely Saskatoonban, Saskatchewanban.",
+                  "text": "Szent Andrásnak szentelt presbiteriánus templom a Corp Saskatchewanban.",
                   "category": "religious",
                   "coords": [
                         -106.660666,
@@ -1572,7 +1572,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "The Refinery Arts & Spirit Center",
-                  "text": "A The Refinery Arts & Spirit Center egy művészeti központ Saskatoonban, Saskatchewanban.",
+                  "text": "A Refinery Arts & Spirit Center egy egykori olajfinomítóban kialakított kulturális központ Corp Saskatchewanban, művészeti galériákkal és egy kis szeszfőzdével.",
                   "category": "cultural",
                   "coords": [
                         -106.65358,
@@ -1590,7 +1590,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "K.W. Nasser Plaza",
-                  "text": "A K.W. Nasser Plaza egy park Saskatoonban, Saskatchewanban.",
+                  "text": "K.W. Nasser nevű tér a Corp Saskatchewanban.",
                   "category": "park",
                   "coords": [
                         -106.665267,
@@ -1599,7 +1599,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Rotary Park",
-                  "text": "A Rotary Park egy park Saskatoonban, Saskatchewanban.",
+                  "text": "Rotary Club parkja a Corp Saskatchewanban.",
                   "category": "park",
                   "coords": [
                         -106.664152,
@@ -1635,7 +1635,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Kinsmen Park",
-                  "text": "A Kinsmen Park egy park a potash-corp-saskatchewan-economic-v2-ben, amely a közösséget szolgálja.",
+                  "text": "Kinsmen Club parkja a Corp Saskatchewanban.",
                   "category": "park",
                   "coords": [
                         -106.652053,
@@ -1664,7 +1664,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Saskatchewan MADD Monument",
-                  "text": "Monumentul Saskatchewan MADD este un monument în Saskatoon, Saskatchewan.",
+                  "text": "Un monument memorial în Saskatoon dedicat victimelor conducerii sub influența alcoolului, cu o sculptură din bronz și plăci comemorative reflectorizante.",
                   "category": "historical",
                   "coords": [
                         -106.659373,
@@ -1673,7 +1673,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Historical plaque for Zion Evangelical Lutheran Church",
-                  "text": "Placa istorică pentru Biserica Evanghelică Luterană Zion este un monument în Saskatoon, Saskatchewan.",
+                  "text": "Plașă istorică la locul fostei Biserici Evanghelice Luterane Zion.",
                   "category": "historical",
                   "coords": [
                         -106.659168,
@@ -1682,7 +1682,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Memorial Library and Art Gallery",
-                  "text": "Memorial Library and Art Gallery este o galerie în Saskatoon, Saskatchewan.",
+                  "text": "Bibliotecă și galerie de artă într-o clădire istorică, cu expoziții temporare.",
                   "category": "museum",
                   "coords": [
                         -106.66132,
@@ -1691,7 +1691,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Greystone Theatre",
-                  "text": "Greystone Theatre este un teatru în Saskatoon, Saskatchewan.",
+                  "text": "Un teatru pe campusul Universității din Saskatchewan, numit după clădirea de piatră cenușie care îl adăpostește, cu producții studențești și profesioniste.",
                   "category": "cultural",
                   "coords": [
                         -106.631606,
@@ -1700,7 +1700,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Anchor for the Saskatchewan Sailor",
-                  "text": "Anchor for the Saskatchewan Sailor este un monument în Saskatoon, Saskatchewan.",
+                  "text": "Monument ancoră de bronz care comemorează istoria navală a Saskatchewanului.",
                   "category": "historical",
                   "coords": [
                         -106.6531,
@@ -1709,7 +1709,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Museum of Antiquities",
-                  "text": "Muzeul de Antichități este un muzeu în Saskatoon, Saskatchewan.",
+                  "text": "Un muzeu la Universitatea din Saskatchewan care prezintă mulaje ale sculpturilor clasice și artefacte antice din Grecia și Roma.",
                   "category": "museum",
                   "coords": [
                         -106.632771,
@@ -1718,7 +1718,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Gordon Snelgrove Gallery",
-                  "text": "Gordon Snelgrove Gallery este o galerie în Saskatoon, Saskatchewan.",
+                  "text": "Galerie de artă care prezintă lucrări de Gordon Snelgrove și alți artiști locali.",
                   "category": "museum",
                   "coords": [
                         -106.637185,
@@ -1727,7 +1727,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "The Studio At Midtown",
-                  "text": "The Studio At Midtown este un centru de artă în Saskatoon, Saskatchewan.",
+                  "text": "Studio creativ în centrul orașului, cu cursuri de pictură și ceramică.",
                   "category": "cultural",
                   "coords": [
                         -106.667712,
@@ -1736,7 +1736,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Coors Event Centre",
-                  "text": "Coors Event Centre este un centru de artă în Saskatoon, Saskatchewan.",
+                  "text": "Centru de evenimente cu bar și ring de dans pentru concerte și petreceri.",
                   "category": "cultural",
                   "coords": [
                         -106.665165,
@@ -1745,7 +1745,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Art Placement: The Gallery",
-                  "text": "Art Placement: The Gallery este o galerie în Saskatoon, Saskatchewan.",
+                  "text": "Galerie de artă comercială cu lucrări ale artiștilor canadieni contemporani.",
                   "category": "museum",
                   "coords": [
                         -106.662821,
@@ -1754,7 +1754,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Five Corners",
-                  "text": "Five Corners este un monument în Saskatoon, Saskatchewan.",
+                  "text": "Five Corners este o intersecție istorică cu cinci drumuri în Corp Saskatchewan, marcând punctul de întâlnire al mai multor rute comerciale vechi.",
                   "category": "historical",
                   "coords": [
                         -106.656403,
@@ -1763,7 +1763,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Pioneer Memorial Cairn",
-                  "text": "Pioneer Memorial Cairn este un monument în Saskatoon, Saskatchewan.",
+                  "text": "Un monument de piatră pe malul râului South Saskatchewan în Saskatoon, care marchează locul primei așezări.",
                   "category": "historical",
                   "coords": [
                         -106.657513,
@@ -1772,7 +1772,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "All In The Wild Gallery",
-                  "text": "All In The Wild Gallery este o galerie în Saskatoon, Saskatchewan.",
+                  "text": "All In The Wild Gallery este un muzeu din Corp Saskatchewan, dedicat artei și exponatelor despre fauna locală.",
                   "category": "museum",
                   "coords": [
                         -106.656491,
@@ -1781,7 +1781,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Spirit of Alliance",
-                  "text": "Spirit of Alliance este un monument în Saskatoon, Saskatchewan.",
+                  "text": "O sculptură din bronz care reprezintă reconcilierea dintre popoarele indigene și non-indigene, situată lângă universitate.",
                   "category": "historical",
                   "coords": [
                         -106.670259,
@@ -1790,7 +1790,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Shakespeare on the Saskatchewan",
-                  "text": "Shakespeare on the Saskatchewan este un teatru în Saskatoon, Saskatchewan.",
+                  "text": "Shakespeare on the Saskatchewan este un festival de teatru în aer liber de vară pe malul râului South Saskatchewan, care prezintă piese de Shakespeare.",
                   "category": "cultural",
                   "coords": [
                         -106.649355,
@@ -1799,7 +1799,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Museum of Natural Sciences University of Saskatchewan",
-                  "text": "Muzeul de Științe Naturale al Universității din Saskatchewan este un muzeu în Saskatoon, Saskatchewan.",
+                  "text": "Muzeul de Științe Naturale al Universității din Saskatchewan găzduiește fosile de dinozauri și colecții regionale de istorie naturală.",
                   "category": "museum",
                   "coords": [
                         -106.634631,
@@ -1808,7 +1808,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "River Landing",
-                  "text": "River Landing este un parc în Saskatoon, Saskatchewan.",
+                  "text": "Un parc pe malul râului South Saskatchewan, cu alei de plimbare, un loc de joacă și amfiteatrul River Landing.",
                   "category": "park",
                   "coords": [
                         -106.666479,
@@ -1817,7 +1817,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Knox United Church",
-                  "text": "Knox United Church este un loc de cult în Saskatoon, Saskatchewan.",
+                  "text": "O biserică istorică United Church în Saskatoon, construită în 1910, cu un turn gotic înalt și vitralii complicate.",
                   "category": "religious",
                   "coords": [
                         -106.654466,
@@ -1826,7 +1826,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Kiwanis Memorial Park",
-                  "text": "Parcul Memorial Kiwanis este un parc în Saskatoon, Saskatchewan.",
+                  "text": "Un parc pe malul râului South Saskatchewan, cu un memorial al veteranilor și un adăpost pentru picnic.",
                   "category": "park",
                   "coords": [
                         -106.657078,
@@ -1835,7 +1835,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Saint Paul Co-Cathedral",
-                  "text": "Catedrala Co-Catedrală Sfântul Paul este un loc de cult în Saskatoon, Saskatchewan.",
+                  "text": "Cocatedrala catolică dedicată Sfântului Paul din Corp Saskatchewan.",
                   "category": "religious",
                   "coords": [
                         -106.658145,
@@ -1844,7 +1844,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "St. Andrew's Presbyterian Church",
-                  "text": "Biserica Prezbiteriană Sf. Andrei este un loc de cult în Saskatoon, Saskatchewan.",
+                  "text": "Biserica prezbiteriană dedicată Sfântului Andrei din Corp Saskatchewan.",
                   "category": "religious",
                   "coords": [
                         -106.660666,
@@ -1853,7 +1853,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "The Refinery Arts & Spirit Center",
-                  "text": "The Refinery Arts & Spirit Center este un centru de artă în Saskatoon, Saskatchewan.",
+                  "text": "Refinery Arts & Spirit Center este un centru cultural într-o fostă rafinărie din Corp Saskatchewan, cu galerii de artă și o mică distilerie.",
                   "category": "cultural",
                   "coords": [
                         -106.65358,
@@ -1871,7 +1871,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "K.W. Nasser Plaza",
-                  "text": "Piața K.W. Nasser este un parc în Saskatoon, Saskatchewan.",
+                  "text": "Piața numită după K.W. Nasser din Corp Saskatchewan.",
                   "category": "park",
                   "coords": [
                         -106.665267,
@@ -1880,7 +1880,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Rotary Park",
-                  "text": "Parcul Rotary este un parc în Saskatoon, Saskatchewan.",
+                  "text": "Parcul Rotary Club din Corp Saskatchewan.",
                   "category": "park",
                   "coords": [
                         -106.664152,
@@ -1916,7 +1916,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Kinsmen Park",
-                  "text": "Parcul Kinsmen este un parc în potash-corp-saskatchewan-economic-v2 care deservește comunitatea.",
+                  "text": "Parcul Kinsmen Club din Corp Saskatchewan.",
                   "category": "park",
                   "coords": [
                         -106.652053,
@@ -1945,7 +1945,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Saskatchewan MADD Monument",
-                  "text": "The Saskatchewan MADD Monument is a monument in Saskatoon, Saskatchewan.",
+                  "text": "A memorial monument in Saskatoon dedicated to victims of impaired driving, featuring a bronze sculpture and reflective plaques.",
                   "category": "historical",
                   "coords": [
                         -106.659373,
@@ -1954,7 +1954,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Historical plaque for Zion Evangelical Lutheran Church",
-                  "text": "The historical plaque for Zion Evangelical Lutheran Church is a monument in Saskatoon, Saskatchewan.",
+                  "text": "A historical plaque marking the site of the former Zion Evangelical Lutheran Church.",
                   "category": "historical",
                   "coords": [
                         -106.659168,
@@ -1963,7 +1963,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Memorial Library and Art Gallery",
-                  "text": "The Memorial Library and Art Gallery is a gallery in Saskatoon, Saskatchewan.",
+                  "text": "A library and art gallery in a heritage building with rotating exhibits.",
                   "category": "museum",
                   "coords": [
                         -106.66132,
@@ -1972,7 +1972,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Greystone Theatre",
-                  "text": "Greystone Theatre is a theatre in Saskatoon, Saskatchewan.",
+                  "text": "A theatre on the University of Saskatchewan campus, named after the grey stone building that houses it, presenting student and professional productions.",
                   "category": "cultural",
                   "coords": [
                         -106.631606,
@@ -1981,7 +1981,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Anchor for the Saskatchewan Sailor",
-                  "text": "The Anchor for the Saskatchewan Sailor is a monument in Saskatoon, Saskatchewan.",
+                  "text": "A bronze anchor monument memorializing Saskatchewan's naval history.",
                   "category": "historical",
                   "coords": [
                         -106.6531,
@@ -1990,7 +1990,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Museum of Antiquities",
-                  "text": "The Museum of Antiquities is a museum in Saskatoon, Saskatchewan.",
+                  "text": "A museum at the University of Saskatchewan displaying casts of classical sculptures and genuine ancient artifacts from Greece and Rome.",
                   "category": "museum",
                   "coords": [
                         -106.632771,
@@ -1999,7 +1999,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Gordon Snelgrove Gallery",
-                  "text": "Gordon Snelgrove Gallery is a gallery in Saskatoon, Saskatchewan.",
+                  "text": "An art gallery showcasing works by Gordon Snelgrove and other local artists.",
                   "category": "museum",
                   "coords": [
                         -106.637185,
@@ -2008,7 +2008,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "The Studio At Midtown",
-                  "text": "The Studio At Midtown is an arts centre in Saskatoon, Saskatchewan.",
+                  "text": "A creative studio downtown offering classes in painting and pottery.",
                   "category": "cultural",
                   "coords": [
                         -106.667712,
@@ -2017,7 +2017,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Coors Event Centre",
-                  "text": "Coors Event Centre is an arts centre in Saskatoon, Saskatchewan.",
+                  "text": "An event centre with a bar and dance floor for concerts and parties.",
                   "category": "cultural",
                   "coords": [
                         -106.665165,
@@ -2026,7 +2026,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Art Placement: The Gallery",
-                  "text": "Art Placement: The Gallery is a gallery in Saskatoon, Saskatchewan.",
+                  "text": "A commercial art gallery featuring works by contemporary Canadian artists.",
                   "category": "museum",
                   "coords": [
                         -106.662821,
@@ -2035,7 +2035,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Five Corners",
-                  "text": "Five Corners is a monument in Saskatoon, Saskatchewan.",
+                  "text": "Five Corners is a historic five-road junction in Corp Saskatchewan, marking the meeting point of several old trade routes.",
                   "category": "historical",
                   "coords": [
                         -106.656403,
@@ -2044,7 +2044,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Pioneer Memorial Cairn",
-                  "text": "The Pioneer Memorial Cairn is a monument in Saskatoon, Saskatchewan.",
+                  "text": "A stone cairn on the bank of the South Saskatchewan River in Saskatoon, marking the spot of the first settlement.",
                   "category": "historical",
                   "coords": [
                         -106.657513,
@@ -2053,7 +2053,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "All In The Wild Gallery",
-                  "text": "All In The Wild Gallery is a gallery in Saskatoon, Saskatchewan.",
+                  "text": "All In The Wild Gallery is a museum in Corp Saskatchewan focusing on art and exhibits about local wildlife.",
                   "category": "museum",
                   "coords": [
                         -106.656491,
@@ -2062,7 +2062,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Spirit of Alliance",
-                  "text": "Spirit of Alliance is a monument in Saskatoon, Saskatchewan.",
+                  "text": "A bronze sculpture representing reconciliation between Indigenous and non-Indigenous peoples, located near the university.",
                   "category": "historical",
                   "coords": [
                         -106.670259,
@@ -2071,7 +2071,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Shakespeare on the Saskatchewan",
-                  "text": "Shakespeare on the Saskatchewan is a theatre in Saskatoon, Saskatchewan.",
+                  "text": "Shakespeare on the Saskatchewan is a summer outdoor theatre festival on the banks of the South Saskatchewan River, staging plays by Shakespeare.",
                   "category": "cultural",
                   "coords": [
                         -106.649355,
@@ -2080,7 +2080,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Museum of Natural Sciences University of Saskatchewan",
-                  "text": "The Museum of Natural Sciences at the University of Saskatchewan is a museum in Saskatoon, Saskatchewan.",
+                  "text": "The Museum of Natural Sciences of the University of Saskatchewan houses dinosaur fossils and regional natural history collections.",
                   "category": "museum",
                   "coords": [
                         -106.634631,
@@ -2089,7 +2089,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "River Landing",
-                  "text": "River Landing is a park in Saskatoon, Saskatchewan.",
+                  "text": "A waterfront park along the South Saskatchewan River with walking paths, a playground, and the River Landing amphitheatre.",
                   "category": "park",
                   "coords": [
                         -106.666479,
@@ -2098,7 +2098,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Knox United Church",
-                  "text": "Knox United Church is a place of worship in Saskatoon, Saskatchewan.",
+                  "text": "A historic United Church in Saskatoon, built in 1910, with a towering Gothic spire and intricate stained glass.",
                   "category": "religious",
                   "coords": [
                         -106.654466,
@@ -2107,7 +2107,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Kiwanis Memorial Park",
-                  "text": "Kiwanis Memorial Park is a park in Saskatoon, Saskatchewan.",
+                  "text": "A park on the banks of the South Saskatchewan River, featuring a veterans' memorial and a picnic shelter.",
                   "category": "park",
                   "coords": [
                         -106.657078,
@@ -2116,7 +2116,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Saint Paul Co-Cathedral",
-                  "text": "Saint Paul Co-Cathedral is a place of worship in Saskatoon, Saskatchewan.",
+                  "text": "Catholic co-cathedral dedicated to Saint Paul in Corp Saskatchewan.",
                   "category": "religious",
                   "coords": [
                         -106.658145,
@@ -2125,7 +2125,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "St. Andrew's Presbyterian Church",
-                  "text": "St. Andrew's Presbyterian Church is a place of worship in Saskatoon, Saskatchewan.",
+                  "text": "Presbyterian church dedicated to Saint Andrew in Corp Saskatchewan.",
                   "category": "religious",
                   "coords": [
                         -106.660666,
@@ -2134,7 +2134,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "The Refinery Arts & Spirit Center",
-                  "text": "The Refinery Arts & Spirit Center is an arts centre in Saskatoon, Saskatchewan.",
+                  "text": "The Refinery Arts & Spirit Center is a cultural hub in a former refinery in Corp Saskatchewan, featuring art galleries and a craft distillery.",
                   "category": "cultural",
                   "coords": [
                         -106.65358,
@@ -2152,7 +2152,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "K.W. Nasser Plaza",
-                  "text": "K.W. Nasser Plaza is a park in Saskatoon, Saskatchewan.",
+                  "text": "Plaza named after K.W. Nasser in Corp Saskatchewan.",
                   "category": "park",
                   "coords": [
                         -106.665267,
@@ -2161,7 +2161,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Rotary Park",
-                  "text": "Rotary Park is a park in Saskatoon, Saskatchewan.",
+                  "text": "Rotary Club park in Corp Saskatchewan.",
                   "category": "park",
                   "coords": [
                         -106.664152,
@@ -2197,7 +2197,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Kinsmen Park",
-                  "text": "Kinsmen Park is a park in potash-corp-saskatchewan-economic-v2 serving the community.",
+                  "text": "Park operated by the Kinsmen Club in Corp Saskatchewan.",
                   "category": "park",
                   "coords": [
                         -106.652053,
@@ -2263,7 +2263,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Joseph R. Smallwood Arts and Culture Centre",
-                  "text": "Joseph R. Smallwood Arts and Culture Centre ist ein Kunst- und Kulturzentrum in gander-international-port-economic-v2.",
+                  "text": "Kunst- und Kulturzentrum benannt nach Joseph R. Smallwood, erstem Premierminister von Neufundland, in International Port.",
                   "category": "cultural",
                   "coords": [
                         -54.61184,
@@ -2272,7 +2272,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "North Atlantic Aviation Museum",
-                  "text": "North Atlantic Aviation Museum ist ein Luftfahrtmuseum in gander-international-port-economic-v2.",
+                  "text": "Das North Atlantic Aviation Museum in International Port zeigt Flugzeuge und Exponate zur Geschichte der Transatlantikflüge.",
                   "category": "museum",
                   "coords": [
                         -54.622647,
@@ -2281,7 +2281,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Thomas Howe Demonstration Forest",
-                  "text": "Thomas Howe Demonstration Forest ist ein Demonstrationswald-Naturschutzgebiet in gander-international-port-economic-v2.",
+                  "text": "Der Thomas Howe Demonstration Forest ist ein bewirtschaftetes Waldgebiet bei International Port mit Lehrpfaden zur Forstwirtschaft.",
                   "category": "natural",
                   "coords": [
                         -54.584799,
@@ -2290,7 +2290,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Gander Old Town Site",
-                  "text": "Gander Old Town Site ist eine Ruinenstätte in gander-international-port-economic-v2.",
+                  "text": "Die Gander Old Town Site ist die ursprüngliche Siedlung von Gander mit Überresten historischer Gebäude.",
                   "category": "historical",
                   "coords": [
                         -54.573834,
@@ -2301,7 +2301,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Joseph R. Smallwood Arts and Culture Centre",
-                  "text": "Joseph R. Smallwood Arts and Culture Centre egy művészeti és kulturális központ gander-international-port-economic-v2-ben.",
+                  "text": "Joseph R. Smallwoodról, Új-Fundland első miniszterelnökéről elnevezett művészeti és kulturális központ International Portban.",
                   "category": "cultural",
                   "coords": [
                         -54.61184,
@@ -2310,7 +2310,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "North Atlantic Aviation Museum",
-                  "text": "North Atlantic Aviation Museum egy repülési múzeum gander-international-port-economic-v2-ben.",
+                  "text": "A North Atlantic Aviation Museum az International Portban repülőgépeket és a transzatlanti repülés történetével kapcsolatos kiállításokat mutat be.",
                   "category": "museum",
                   "coords": [
                         -54.622647,
@@ -2319,7 +2319,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Thomas Howe Demonstration Forest",
-                  "text": "Thomas Howe Demonstration Forest egy bemutató erdő természetvédelmi terület gander-international-port-economic-v2-ben.",
+                  "text": "A Thomas Howe Demonstration Forest egy kezelt erdőterület az International Port közelében, tanösvényekkel az erdőgazdálkodásról.",
                   "category": "natural",
                   "coords": [
                         -54.584799,
@@ -2328,7 +2328,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Gander Old Town Site",
-                  "text": "Gander Old Town Site egy romterület gander-international-port-economic-v2-ben.",
+                  "text": "A Gander Old Town Site Gander eredeti településének helye, történelmi épületek maradványaival.",
                   "category": "historical",
                   "coords": [
                         -54.573834,
@@ -2339,7 +2339,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Joseph R. Smallwood Arts and Culture Centre",
-                  "text": "Joseph R. Smallwood Arts and Culture Centre este un centru de arte și cultură în gander-international-port-economic-v2.",
+                  "text": "Centrul de arte și cultură numit după Joseph R. Smallwood, primul premier al Newfoundlandului, în International Port.",
                   "category": "cultural",
                   "coords": [
                         -54.61184,
@@ -2348,7 +2348,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "North Atlantic Aviation Museum",
-                  "text": "North Atlantic Aviation Museum este un muzeu al aviației în gander-international-port-economic-v2.",
+                  "text": "Muzeul Aviației Atlanticului de Nord din International Port expune avioane și artefacte legate de istoria zborurilor transatlantice.",
                   "category": "museum",
                   "coords": [
                         -54.622647,
@@ -2357,7 +2357,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Thomas Howe Demonstration Forest",
-                  "text": "Thomas Howe Demonstration Forest este o rezervație naturală de pădure demonstrativă în gander-international-port-economic-v2.",
+                  "text": "Pădurea Demonstrativă Thomas Howe este o zonă forestieră gestionată lângă International Port, cu trasee didactice despre silvicultură.",
                   "category": "natural",
                   "coords": [
                         -54.584799,
@@ -2366,7 +2366,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Gander Old Town Site",
-                  "text": "Gander Old Town Site este un sit de ruine în gander-international-port-economic-v2.",
+                  "text": "Gander Old Town Site este așezarea originală a orașului Gander, cu rămășițe ale clădirilor istorice.",
                   "category": "historical",
                   "coords": [
                         -54.573834,
@@ -2377,7 +2377,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Joseph R. Smallwood Arts and Culture Centre",
-                  "text": "Joseph R. Smallwood Arts and Culture Centre is an arts centre in gander-international-port-economic-v2.",
+                  "text": "Arts and culture centre named after Joseph R. Smallwood, first premier of Newfoundland, in International Port.",
                   "category": "cultural",
                   "coords": [
                         -54.61184,
@@ -2386,7 +2386,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "North Atlantic Aviation Museum",
-                  "text": "North Atlantic Aviation Museum is an aviation museum in gander-international-port-economic-v2.",
+                  "text": "The North Atlantic Aviation Museum in International Port displays aircraft and artifacts related to transatlantic flight history.",
                   "category": "museum",
                   "coords": [
                         -54.622647,
@@ -2395,7 +2395,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Thomas Howe Demonstration Forest",
-                  "text": "Thomas Howe Demonstration Forest is a demonstration forest nature reserve in gander-international-port-economic-v2.",
+                  "text": "Thomas Howe Demonstration Forest is a managed woodland near International Port with interpretive trails on forestry.",
                   "category": "natural",
                   "coords": [
                         -54.584799,
@@ -2404,7 +2404,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Gander Old Town Site",
-                  "text": "Gander Old Town Site is a ruins site in gander-international-port-economic-v2.",
+                  "text": "Gander Old Town Site is the original settlement of Gander, with remnants of historic buildings.",
                   "category": "historical",
                   "coords": [
                         -54.573834,
@@ -2451,7 +2451,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Battures aux Loups Marins",
-                  "text": "Ein Strand in quebec-aluminum-smelter-economic-v2, bekannt für seine Seehunde.",
+                  "text": "Die Battures aux Loups Marins sind ein felsiger Küstenabschnitt bei Aluminum Smelter, der zur Robbenbeobachtung und für Spaziergänge genutzt wird.",
                   "category": "recreational",
                   "coords": [
                         -70.947524,
@@ -2460,7 +2460,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "monument Price",
-                  "text": "Ein Denkmal in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Historisches Denkmal namens Price in Aluminum Smelter.",
                   "category": "historical",
                   "coords": [
                         -71.048584,
@@ -2469,7 +2469,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "bang",
-                  "text": "Eine Kunstgalerie in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Das Museum „Bang“ in Aluminum Smelter zeigt die Geschichte des Sprengstoffs und des Bergbaus in der Region.",
                   "category": "museum",
                   "coords": [
                         -71.064388,
@@ -2487,7 +2487,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "parois d’escalade",
-                  "text": "Ein Aussichtspunkt mit Kletterwänden in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Die Parois d’Escalade sind natürliche Felswände bei Aluminum Smelter, die zum Klettern genutzt werden.",
                   "category": "natural",
                   "coords": [
                         -71.082992,
@@ -2496,7 +2496,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Croix Sainte-Anne",
-                  "text": "Ein Kreuzdenkmal in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Das Croix Sainte-Anne ist ein historisches Kreuzmonument auf einem Hügel mit Blick über Aluminum Smelter.",
                   "category": "historical",
                   "coords": [
                         -71.082957,
@@ -2505,7 +2505,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Réserve naturelle du Boisé-Verdone",
-                  "text": "Ein Naturschutzgebiet in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Die Réserve naturelle du Boisé-Verdone ist ein geschütztes Waldgebiet bei Aluminum Smelter mit Wanderwegen und vielfältiger Tierwelt.",
                   "category": "natural",
                   "coords": [
                         -71.130359,
@@ -2514,7 +2514,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc Bon-Air",
-                  "text": "Ein Park in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Park namens Bon-Air in Aluminum Smelter.",
                   "category": "park",
                   "coords": [
                         -71.055484,
@@ -2523,7 +2523,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc Saint-Antoine",
-                  "text": "Ein Park in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Park, dem heiligen Antonius geweiht, in Aluminum Smelter.",
                   "category": "park",
                   "coords": [
                         -71.093878,
@@ -2532,7 +2532,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc Saint-Jean-Baptiste",
-                  "text": "Ein Park in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Park, dem heiligen Johannes dem Täufer geweiht, in Aluminum Smelter.",
                   "category": "park",
                   "coords": [
                         -70.983961,
@@ -2541,7 +2541,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Musée de la Défense Aérienne",
-                  "text": "Ein Museum zur Luftverteidigung in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Luftverteidigungsmuseum in Aluminum Smelter.",
                   "category": "museum",
                   "coords": [
                         -70.990285,
@@ -2550,7 +2550,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc Sainte-Claire",
-                  "text": "Ein Park in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Park, der heiligen Klara geweiht, in Aluminum Smelter.",
                   "category": "park",
                   "coords": [
                         -71.101764,
@@ -2559,7 +2559,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc Hamel-Fradette-et-Gobeil",
-                  "text": "Ein Park in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Park benannt nach den Familien Hamel, Fradette und Gobeil in Aluminum Smelter.",
                   "category": "park",
                   "coords": [
                         -71.027603,
@@ -2568,7 +2568,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Pont de Sainte-Anne",
-                  "text": "Eine Brücke in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Sankt-Anna-Brücke in Aluminum Smelter.",
                   "category": "landmark",
                   "coords": [
                         -71.067812,
@@ -2577,7 +2577,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Église-du-Christ-Roi",
-                  "text": "Eine Kirche in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Katholische Kirche, Christus dem König geweiht, in Aluminum Smelter.",
                   "category": "religious",
                   "coords": [
                         -71.069322,
@@ -2586,7 +2586,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Conservatoire de musique et d'art dramatique",
-                  "text": "Ein Konservatorium für Musik und Schauspiel in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Das Conservatoire de musique et d'art dramatique in Aluminum Smelter bietet Konzerte und Theateraufführungen an.",
                   "category": "cultural",
                   "coords": [
                         -71.061425,
@@ -2595,7 +2595,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Plage de la zone portuaire de Chicoutimi",
-                  "text": "Ein Strand im Hafenbereich von Chicoutimi in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Die Plage de la zone portuaire de Chicoutimi ist ein Sandstrand im Hafenbereich von Chicoutimi, in der Nähe von Aluminum Smelter.",
                   "category": "recreational",
                   "coords": [
                         -71.064933,
@@ -2604,7 +2604,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc du Bassin",
-                  "text": "Ein Park in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Park mit einem Becken/Teich in Aluminum Smelter.",
                   "category": "park",
                   "coords": [
                         -71.075598,
@@ -2613,7 +2613,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Église Saint-Joachim",
-                  "text": "Eine Kirche in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Katholische Kirche, dem heiligen Joachim geweiht, in Aluminum Smelter.",
                   "category": "religious",
                   "coords": [
                         -71.070688,
@@ -2622,7 +2622,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Église du Sacré-Cœur",
-                  "text": "Eine Kirche in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Katholische Kirche, dem Heiligsten Herzen Jesu geweiht, in Aluminum Smelter.",
                   "category": "religious",
                   "coords": [
                         -71.076951,
@@ -2631,7 +2631,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "La Pulperie de Chicoutimi",
-                  "text": "Ein Museum in einer historischen Zellstofffabrik in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Ein Museum in einer ehemaligen Papierstofffabrik am Chicoutimi River, das die Industriegeschichte der Region erzählt.",
                   "category": "museum",
                   "coords": [
                         -71.08385,
@@ -2640,7 +2640,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Jardin des Vestiges",
-                  "text": "Ein Garten mit Ruinen in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Der Jardin des Vestiges ist ein Garten mit archäologischen Überresten aus der Industriegeschichte von Aluminum Smelter.",
                   "category": "historical",
                   "coords": [
                         -71.083496,
@@ -2649,7 +2649,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Église Sainte-Anne",
-                  "text": "Eine Kirche in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Katholische Kirche, der heiligen Anna geweiht, in Aluminum Smelter.",
                   "category": "religious",
                   "coords": [
                         -71.078585,
@@ -2658,7 +2658,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc de la Colline",
-                  "text": "Ein Park in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Park auf einem Hügel in Aluminum Smelter.",
                   "category": "park",
                   "coords": [
                         -71.070763,
@@ -2667,7 +2667,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Église Sainte-Claire",
-                  "text": "Eine Kirche in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Katholische Kirche, der heiligen Klara geweiht, in Aluminum Smelter.",
                   "category": "religious",
                   "coords": [
                         -71.090628,
@@ -2676,7 +2676,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc Victor-Guimond",
-                  "text": "Ein Park in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Park benannt nach Victor Guimond in Aluminum Smelter.",
                   "category": "park",
                   "coords": [
                         -71.088538,
@@ -2685,7 +2685,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc Saint-Joachim",
-                  "text": "Ein Park in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Park, dem heiligen Joachim geweiht, in Aluminum Smelter.",
                   "category": "park",
                   "coords": [
                         -71.076885,
@@ -2703,7 +2703,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "La Maison Coupée En Deux",
-                  "text": "Ein Theater namens La Maison Coupée En Deux in quebec-aluminum-smelter-economic-v2.",
+                  "text": "La Maison Coupée En Deux ist ein markantes, in zwei Hälften geteiltes Gebäude, das heute eine Kunstgalerie und einen Kultureinrichtung beherbergt.",
                   "category": "cultural",
                   "coords": [
                         -70.903238,
@@ -2712,7 +2712,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc municipal",
-                  "text": "Ein Gemeindepark in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Stadtpark in Aluminum Smelter.",
                   "category": "park",
                   "coords": [
                         -70.900245,
@@ -2723,7 +2723,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Battures aux Loups Marins",
-                  "text": "Egy strand a quebec-aluminum-smelter-economic-v2-ben, amely fókákról ismert.",
+                  "text": "A Battures aux Loups Marins egy sziklás partszakasz Aluminum Smelter közelében, fókák megfigyelésére és sétákra használják.",
                   "category": "recreational",
                   "coords": [
                         -70.947524,
@@ -2732,7 +2732,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "monument Price",
-                  "text": "Egy emlékmű a quebec-aluminum-smelter-economic-v2-ben.",
+                  "text": "Price nevű történelmi emlékmű az Aluminum Smelterben.",
                   "category": "historical",
                   "coords": [
                         -71.048584,
@@ -2741,7 +2741,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "bang",
-                  "text": "Egy művészeti galéria a quebec-aluminum-smelter-economic-v2-ben.",
+                  "text": "A „Bang” múzeum Aluminum Smelterben a robbanóanyagok és a bányászat helyi történetét mutatja be.",
                   "category": "museum",
                   "coords": [
                         -71.064388,
@@ -2759,7 +2759,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "parois d’escalade",
-                  "text": "Egy kilátó mászófalakkal a quebec-aluminum-smelter-economic-v2-ben.",
+                  "text": "A Parois d’Escalade természetes sziklafalak Aluminum Smelter közelében, mászásra használva.",
                   "category": "natural",
                   "coords": [
                         -71.082992,
@@ -2768,7 +2768,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Croix Sainte-Anne",
-                  "text": "Egy kereszt emlékmű a quebec-aluminum-smelter-economic-v2-ben.",
+                  "text": "A Croix Sainte-Anne egy történelmi keresztenlék egy dombon, amely Aluminum Smelterre néz.",
                   "category": "historical",
                   "coords": [
                         -71.082957,
@@ -2777,7 +2777,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Réserve naturelle du Boisé-Verdone",
-                  "text": "Egy természetvédelmi terület a quebec-aluminum-smelter-economic-v2-ben.",
+                  "text": "A Réserve naturelle du Boisé-Verdone egy védett erdőterület Aluminum Smelter közelében, túraútvonalakkal és változatos állatvilággal.",
                   "category": "natural",
                   "coords": [
                         -71.130359,
@@ -2786,7 +2786,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc Bon-Air",
-                  "text": "Egy park a quebec-aluminum-smelter-economic-v2-ben.",
+                  "text": "Bon-Air nevű park az Aluminum Smelterben.",
                   "category": "park",
                   "coords": [
                         -71.055484,
@@ -2795,7 +2795,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc Saint-Antoine",
-                  "text": "Egy park a quebec-aluminum-smelter-economic-v2-ben.",
+                  "text": "Szent Antalnak szentelt park az Aluminum Smelterben.",
                   "category": "park",
                   "coords": [
                         -71.093878,
@@ -2804,7 +2804,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc Saint-Jean-Baptiste",
-                  "text": "Egy park a quebec-aluminum-smelter-economic-v2-ben.",
+                  "text": "Keresztelő Szent Jánosnak szentelt park az Aluminum Smelterben.",
                   "category": "park",
                   "coords": [
                         -70.983961,
@@ -2813,7 +2813,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Musée de la Défense Aérienne",
-                  "text": "Egy légvédelmi múzeum a quebec-aluminum-smelter-economic-v2-ben.",
+                  "text": "Légvédelmi Múzeum az Aluminum Smelterben.",
                   "category": "museum",
                   "coords": [
                         -70.990285,
@@ -2822,7 +2822,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc Sainte-Claire",
-                  "text": "Egy park a quebec-aluminum-smelter-economic-v2-ben.",
+                  "text": "Szent Klárának szentelt park az Aluminum Smelterben.",
                   "category": "park",
                   "coords": [
                         -71.101764,
@@ -2831,7 +2831,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc Hamel-Fradette-et-Gobeil",
-                  "text": "Egy park a quebec-aluminum-smelter-economic-v2-ben.",
+                  "text": "Hamel, Fradette és Gobeil családokról elnevezett park az Aluminum Smelterben.",
                   "category": "park",
                   "coords": [
                         -71.027603,
@@ -2840,7 +2840,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Pont de Sainte-Anne",
-                  "text": "Egy híd a quebec-aluminum-smelter-economic-v2-ben.",
+                  "text": "Szent Anna híd az Aluminum Smelterben.",
                   "category": "landmark",
                   "coords": [
                         -71.067812,
@@ -2849,7 +2849,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Église-du-Christ-Roi",
-                  "text": "Egy templom a quebec-aluminum-smelter-economic-v2-ben.",
+                  "text": "Krisztus Királynak szentelt katolikus templom az Aluminum Smelterben.",
                   "category": "religious",
                   "coords": [
                         -71.069322,
@@ -2858,7 +2858,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Conservatoire de musique et d'art dramatique",
-                  "text": "Egy konzervatórium zenére és drámára a quebec-aluminum-smelter-economic-v2-ben.",
+                  "text": "Az Aluminum Smelter-i Conservatoire de musique et d'art dramatique hangversenyeket és színházi előadásokat kínál.",
                   "category": "cultural",
                   "coords": [
                         -71.061425,
@@ -2867,7 +2867,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Plage de la zone portuaire de Chicoutimi",
-                  "text": "Egy strand a Chicoutimi kikötői területén a quebec-aluminum-smelter-economic-v2-ben.",
+                  "text": "A Plage de la zone portuaire de Chicoutimi egy homokos strand Chicoutimi kikötői övezetében, Aluminum Smelter közelében.",
                   "category": "recreational",
                   "coords": [
                         -71.064933,
@@ -2876,7 +2876,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc du Bassin",
-                  "text": "Egy park a quebec-aluminum-smelter-economic-v2-ben.",
+                  "text": "Medencével/tóval rendelkező park az Aluminum Smelterben.",
                   "category": "park",
                   "coords": [
                         -71.075598,
@@ -2885,7 +2885,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Église Saint-Joachim",
-                  "text": "Egy templom a quebec-aluminum-smelter-economic-v2-ben.",
+                  "text": "Szent Joachimnak szentelt katolikus templom az Aluminum Smelterben.",
                   "category": "religious",
                   "coords": [
                         -71.070688,
@@ -2894,7 +2894,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Église du Sacré-Cœur",
-                  "text": "Egy templom a quebec-aluminum-smelter-economic-v2-ben.",
+                  "text": "Jézus Szent Szívének szentelt katolikus templom az Aluminum Smelterben.",
                   "category": "religious",
                   "coords": [
                         -71.076951,
@@ -2903,7 +2903,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "La Pulperie de Chicoutimi",
-                  "text": "Egy múzeum egy történelmi papírgyárban a quebec-aluminum-smelter-economic-v2-ben.",
+                  "text": "Múzeum egy volt papírgyárban a Chicoutimi folyó mellett, a régió ipari történetét bemutatva.",
                   "category": "museum",
                   "coords": [
                         -71.08385,
@@ -2912,7 +2912,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Jardin des Vestiges",
-                  "text": "Egy kert romokkal a quebec-aluminum-smelter-economic-v2-ben.",
+                  "text": "A Jardin des Vestiges egy kert Aluminum Smelter ipari múltjának régészeti maradványaival.",
                   "category": "historical",
                   "coords": [
                         -71.083496,
@@ -2921,7 +2921,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Église Sainte-Anne",
-                  "text": "Egy templom a quebec-aluminum-smelter-economic-v2-ben.",
+                  "text": "Szent Annának szentelt katolikus templom az Aluminum Smelterben.",
                   "category": "religious",
                   "coords": [
                         -71.078585,
@@ -2930,7 +2930,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc de la Colline",
-                  "text": "Egy park a quebec-aluminum-smelter-economic-v2-ben.",
+                  "text": "Park egy dombon az Aluminum Smelterben.",
                   "category": "park",
                   "coords": [
                         -71.070763,
@@ -2939,7 +2939,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Église Sainte-Claire",
-                  "text": "Egy templom a quebec-aluminum-smelter-economic-v2-ben.",
+                  "text": "Szent Klárának szentelt katolikus templom az Aluminum Smelterben.",
                   "category": "religious",
                   "coords": [
                         -71.090628,
@@ -2948,7 +2948,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc Victor-Guimond",
-                  "text": "Egy park a quebec-aluminum-smelter-economic-v2-ben.",
+                  "text": "Victor Guimond nevű park az Aluminum Smelterben.",
                   "category": "park",
                   "coords": [
                         -71.088538,
@@ -2957,7 +2957,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc Saint-Joachim",
-                  "text": "Egy park a quebec-aluminum-smelter-economic-v2-ben.",
+                  "text": "Szent Joachimnak szentelt park az Aluminum Smelterben.",
                   "category": "park",
                   "coords": [
                         -71.076885,
@@ -2975,7 +2975,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "La Maison Coupée En Deux",
-                  "text": "Egy La Maison Coupée En Deux nevű színház a quebec-aluminum-smelter-economic-v2-ben.",
+                  "text": "A La Maison Coupée En Deux egy jellegzetes, két részre osztott épület, ma művészeti galériának és kulturális helyszínnek ad otthont.",
                   "category": "cultural",
                   "coords": [
                         -70.903238,
@@ -2984,7 +2984,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc municipal",
-                  "text": "Egy önkormányzati park a quebec-aluminum-smelter-economic-v2-ben.",
+                  "text": "Városi park az Aluminum Smelterben.",
                   "category": "park",
                   "coords": [
                         -70.900245,
@@ -2995,7 +2995,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Battures aux Loups Marins",
-                  "text": "O plajă în quebec-aluminum-smelter-economic-v2, cunoscută pentru foci.",
+                  "text": "Battures aux Loups Marins este o porțiune stâncoasă de coastă lângă Aluminum Smelter, populară pentru observarea focilor și plimbări.",
                   "category": "recreational",
                   "coords": [
                         -70.947524,
@@ -3004,7 +3004,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "monument Price",
-                  "text": "Un monument în quebec-aluminum-smelter-economic-v2.",
+                  "text": "Monumentul istoric numit Price din Aluminum Smelter.",
                   "category": "historical",
                   "coords": [
                         -71.048584,
@@ -3013,7 +3013,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "bang",
-                  "text": "O galerie de artă în quebec-aluminum-smelter-economic-v2.",
+                  "text": "Muzeul „Bang” din Aluminum Smelter prezintă istoria explozivilor și mineritului în regiune.",
                   "category": "museum",
                   "coords": [
                         -71.064388,
@@ -3031,7 +3031,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "parois d’escalade",
-                  "text": "Un punct de belvedere cu pereți de cățărare în quebec-aluminum-smelter-economic-v2.",
+                  "text": "Parois d’Escalade sunt pereți naturali de stâncă lângă Aluminum Smelter, folosiți pentru alpinism.",
                   "category": "natural",
                   "coords": [
                         -71.082992,
@@ -3040,7 +3040,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Croix Sainte-Anne",
-                  "text": "Un monument cu cruce în quebec-aluminum-smelter-economic-v2.",
+                  "text": "Croix Sainte-Anne este un monument istoric de cruce pe un deal cu vedere spre Aluminum Smelter.",
                   "category": "historical",
                   "coords": [
                         -71.082957,
@@ -3049,7 +3049,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Réserve naturelle du Boisé-Verdone",
-                  "text": "O rezervație naturală în quebec-aluminum-smelter-economic-v2.",
+                  "text": "Réserve naturelle du Boisé-Verdone este o arie forestieră protejată lângă Aluminum Smelter, cu trasee de drumeție și faună diversă.",
                   "category": "natural",
                   "coords": [
                         -71.130359,
@@ -3058,7 +3058,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc Bon-Air",
-                  "text": "Un parc în quebec-aluminum-smelter-economic-v2.",
+                  "text": "Parcul numit Bon-Air din Aluminum Smelter.",
                   "category": "park",
                   "coords": [
                         -71.055484,
@@ -3067,7 +3067,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc Saint-Antoine",
-                  "text": "Un parc în quebec-aluminum-smelter-economic-v2.",
+                  "text": "Parcul dedicat Sfântului Antonie din Aluminum Smelter.",
                   "category": "park",
                   "coords": [
                         -71.093878,
@@ -3076,7 +3076,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc Saint-Jean-Baptiste",
-                  "text": "Un parc în quebec-aluminum-smelter-economic-v2.",
+                  "text": "Parcul dedicat Sfântului Ioan Botezătorul din Aluminum Smelter.",
                   "category": "park",
                   "coords": [
                         -70.983961,
@@ -3085,7 +3085,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Musée de la Défense Aérienne",
-                  "text": "Un muzeu despre apărarea aeriană în quebec-aluminum-smelter-economic-v2.",
+                  "text": "Muzeul Apărării Aeriene din Aluminum Smelter.",
                   "category": "museum",
                   "coords": [
                         -70.990285,
@@ -3094,7 +3094,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc Sainte-Claire",
-                  "text": "Un parc în quebec-aluminum-smelter-economic-v2.",
+                  "text": "Parcul dedicat Sfintei Clara din Aluminum Smelter.",
                   "category": "park",
                   "coords": [
                         -71.101764,
@@ -3103,7 +3103,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc Hamel-Fradette-et-Gobeil",
-                  "text": "Un parc în quebec-aluminum-smelter-economic-v2.",
+                  "text": "Parcul numit după familiile Hamel, Fradette și Gobeil din Aluminum Smelter.",
                   "category": "park",
                   "coords": [
                         -71.027603,
@@ -3112,7 +3112,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Pont de Sainte-Anne",
-                  "text": "Un pod în quebec-aluminum-smelter-economic-v2.",
+                  "text": "Podul Sfintei Ana din Aluminum Smelter.",
                   "category": "landmark",
                   "coords": [
                         -71.067812,
@@ -3121,7 +3121,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Église-du-Christ-Roi",
-                  "text": "O biserică în quebec-aluminum-smelter-economic-v2.",
+                  "text": "Biserica catolică dedicată lui Cristos Rege din Aluminum Smelter.",
                   "category": "religious",
                   "coords": [
                         -71.069322,
@@ -3130,7 +3130,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Conservatoire de musique et d'art dramatique",
-                  "text": "Un conservator de muzică și teatru în quebec-aluminum-smelter-economic-v2.",
+                  "text": "Conservatoire de musique et d'art dramatique din Aluminum Smelter oferă concerte și spectacole de teatru.",
                   "category": "cultural",
                   "coords": [
                         -71.061425,
@@ -3139,7 +3139,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Plage de la zone portuaire de Chicoutimi",
-                  "text": "O plajă în zona portuară a orașului Chicoutimi din quebec-aluminum-smelter-economic-v2.",
+                  "text": "Plage de la zone portuaire de Chicoutimi este o plajă nisipoasă în zona portuară a orașului Chicoutimi, lângă Aluminum Smelter.",
                   "category": "recreational",
                   "coords": [
                         -71.064933,
@@ -3148,7 +3148,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc du Bassin",
-                  "text": "Un parc în quebec-aluminum-smelter-economic-v2.",
+                  "text": "Parcul cu un bazin/iaz în Aluminum Smelter.",
                   "category": "park",
                   "coords": [
                         -71.075598,
@@ -3157,7 +3157,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Église Saint-Joachim",
-                  "text": "O biserică în quebec-aluminum-smelter-economic-v2.",
+                  "text": "Biserica catolică dedicată Sfântului Ioachim din Aluminum Smelter.",
                   "category": "religious",
                   "coords": [
                         -71.070688,
@@ -3166,7 +3166,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Église du Sacré-Cœur",
-                  "text": "O biserică în quebec-aluminum-smelter-economic-v2.",
+                  "text": "Biserica catolică dedicată Inimii Sacre a lui Isus din Aluminum Smelter.",
                   "category": "religious",
                   "coords": [
                         -71.076951,
@@ -3175,7 +3175,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "La Pulperie de Chicoutimi",
-                  "text": "Un muzeu într-o fostă fabrică de celuloză istorică în quebec-aluminum-smelter-economic-v2.",
+                  "text": "Un muzeu într-o fostă fabrică de celuloză pe râul Chicoutimi, care prezintă istoria industrială a regiunii.",
                   "category": "museum",
                   "coords": [
                         -71.08385,
@@ -3184,7 +3184,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Jardin des Vestiges",
-                  "text": "O grădină cu ruine în quebec-aluminum-smelter-economic-v2.",
+                  "text": "Jardin des Vestiges este o grădină cu vestigii arheologice din trecutul industrial al Aluminum Smelter.",
                   "category": "historical",
                   "coords": [
                         -71.083496,
@@ -3193,7 +3193,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Église Sainte-Anne",
-                  "text": "O biserică în quebec-aluminum-smelter-economic-v2.",
+                  "text": "Biserica catolică dedicată Sfintei Ana din Aluminum Smelter.",
                   "category": "religious",
                   "coords": [
                         -71.078585,
@@ -3202,7 +3202,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc de la Colline",
-                  "text": "Un parc în quebec-aluminum-smelter-economic-v2.",
+                  "text": "Parcul pe o colină din Aluminum Smelter.",
                   "category": "park",
                   "coords": [
                         -71.070763,
@@ -3211,7 +3211,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Église Sainte-Claire",
-                  "text": "O biserică în quebec-aluminum-smelter-economic-v2.",
+                  "text": "Biserica catolică dedicată Sfintei Clara din Aluminum Smelter.",
                   "category": "religious",
                   "coords": [
                         -71.090628,
@@ -3220,7 +3220,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc Victor-Guimond",
-                  "text": "Un parc în quebec-aluminum-smelter-economic-v2.",
+                  "text": "Parcul numit Victor Guimond din Aluminum Smelter.",
                   "category": "park",
                   "coords": [
                         -71.088538,
@@ -3229,7 +3229,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc Saint-Joachim",
-                  "text": "Un parc în quebec-aluminum-smelter-economic-v2.",
+                  "text": "Parcul dedicat Sfântului Ioachim din Aluminum Smelter.",
                   "category": "park",
                   "coords": [
                         -71.076885,
@@ -3247,7 +3247,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "La Maison Coupée En Deux",
-                  "text": "Un teatru numit La Maison Coupée En Deux în quebec-aluminum-smelter-economic-v2.",
+                  "text": "La Maison Coupée En Deux este o clădire distinctivă, tăiată în două jumătăți, acum o galerie de artă și un spațiu cultural.",
                   "category": "cultural",
                   "coords": [
                         -70.903238,
@@ -3256,7 +3256,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc municipal",
-                  "text": "Un parc municipal în quebec-aluminum-smelter-economic-v2.",
+                  "text": "Parcul municipal din Aluminum Smelter.",
                   "category": "park",
                   "coords": [
                         -70.900245,
@@ -3267,7 +3267,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Battures aux Loups Marins",
-                  "text": "A beach in quebec-aluminum-smelter-economic-v2 known for its seals.",
+                  "text": "Battures aux Loups Marins is a rocky shoreline near Aluminum Smelter, used for seal watching and coastal walks.",
                   "category": "recreational",
                   "coords": [
                         -70.947524,
@@ -3276,7 +3276,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "monument Price",
-                  "text": "A monument in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Historical monument named Price in Aluminum Smelter.",
                   "category": "historical",
                   "coords": [
                         -71.048584,
@@ -3285,7 +3285,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "bang",
-                  "text": "An art gallery in quebec-aluminum-smelter-economic-v2.",
+                  "text": "The “Bang” museum in Aluminum Smelter displays the history of explosives and mining in the region.",
                   "category": "museum",
                   "coords": [
                         -71.064388,
@@ -3303,7 +3303,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "parois d’escalade",
-                  "text": "A viewpoint with climbing walls in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Parois d’Escalade are natural rock faces near Aluminum Smelter, used for climbing.",
                   "category": "natural",
                   "coords": [
                         -71.082992,
@@ -3312,7 +3312,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Croix Sainte-Anne",
-                  "text": "A cross monument in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Croix Sainte-Anne is a historic cross monument on a hill overlooking Aluminum Smelter.",
                   "category": "historical",
                   "coords": [
                         -71.082957,
@@ -3321,7 +3321,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Réserve naturelle du Boisé-Verdone",
-                  "text": "A nature reserve in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Réserve naturelle du Boisé-Verdone is a protected forest area near Aluminum Smelter with hiking trails and diverse wildlife.",
                   "category": "natural",
                   "coords": [
                         -71.130359,
@@ -3330,7 +3330,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc Bon-Air",
-                  "text": "A park in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Park named Bon-Air in Aluminum Smelter.",
                   "category": "park",
                   "coords": [
                         -71.055484,
@@ -3339,7 +3339,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc Saint-Antoine",
-                  "text": "A park in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Park dedicated to Saint Anthony in Aluminum Smelter.",
                   "category": "park",
                   "coords": [
                         -71.093878,
@@ -3348,7 +3348,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc Saint-Jean-Baptiste",
-                  "text": "A park in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Park dedicated to Saint John the Baptist in Aluminum Smelter.",
                   "category": "park",
                   "coords": [
                         -70.983961,
@@ -3357,7 +3357,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Musée de la Défense Aérienne",
-                  "text": "A museum about air defense in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Air Defence Museum in Aluminum Smelter.",
                   "category": "museum",
                   "coords": [
                         -70.990285,
@@ -3366,7 +3366,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc Sainte-Claire",
-                  "text": "A park in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Park dedicated to Saint Clare in Aluminum Smelter.",
                   "category": "park",
                   "coords": [
                         -71.101764,
@@ -3375,7 +3375,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc Hamel-Fradette-et-Gobeil",
-                  "text": "A park in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Park named after the Hamel, Fradette, and Gobeil families in Aluminum Smelter.",
                   "category": "park",
                   "coords": [
                         -71.027603,
@@ -3384,7 +3384,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Pont de Sainte-Anne",
-                  "text": "A bridge in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Saint Anne Bridge in Aluminum Smelter.",
                   "category": "landmark",
                   "coords": [
                         -71.067812,
@@ -3393,7 +3393,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Église-du-Christ-Roi",
-                  "text": "A church in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Catholic church dedicated to Christ the King in Aluminum Smelter.",
                   "category": "religious",
                   "coords": [
                         -71.069322,
@@ -3402,7 +3402,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Conservatoire de musique et d'art dramatique",
-                  "text": "A conservatory for music and drama in quebec-aluminum-smelter-economic-v2.",
+                  "text": "The Conservatoire de musique et d'art dramatique in Aluminum Smelter offers concerts and theatre performances.",
                   "category": "cultural",
                   "coords": [
                         -71.061425,
@@ -3411,7 +3411,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Plage de la zone portuaire de Chicoutimi",
-                  "text": "A beach in the port area of Chicoutimi in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Plage de la zone portuaire de Chicoutimi is a sandy beach in the port area of Chicoutimi, near Aluminum Smelter.",
                   "category": "recreational",
                   "coords": [
                         -71.064933,
@@ -3420,7 +3420,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc du Bassin",
-                  "text": "A park in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Park featuring a basin/pond in Aluminum Smelter.",
                   "category": "park",
                   "coords": [
                         -71.075598,
@@ -3429,7 +3429,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Église Saint-Joachim",
-                  "text": "A church in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Catholic church dedicated to Saint Joachim in Aluminum Smelter.",
                   "category": "religious",
                   "coords": [
                         -71.070688,
@@ -3438,7 +3438,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Église du Sacré-Cœur",
-                  "text": "A church in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Catholic church dedicated to the Sacred Heart in Aluminum Smelter.",
                   "category": "religious",
                   "coords": [
                         -71.076951,
@@ -3447,7 +3447,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "La Pulperie de Chicoutimi",
-                  "text": "A museum in a historic pulp mill in quebec-aluminum-smelter-economic-v2.",
+                  "text": "A museum in a former pulp mill on the Chicoutimi River, telling the region's industrial history.",
                   "category": "museum",
                   "coords": [
                         -71.08385,
@@ -3456,7 +3456,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Jardin des Vestiges",
-                  "text": "A garden with ruins in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Jardin des Vestiges is a garden with archaeological remains from Aluminum Smelter's industrial past.",
                   "category": "historical",
                   "coords": [
                         -71.083496,
@@ -3465,7 +3465,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Église Sainte-Anne",
-                  "text": "A church in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Catholic church dedicated to Saint Anne in Aluminum Smelter.",
                   "category": "religious",
                   "coords": [
                         -71.078585,
@@ -3474,7 +3474,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc de la Colline",
-                  "text": "A park in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Park on a hill in Aluminum Smelter.",
                   "category": "park",
                   "coords": [
                         -71.070763,
@@ -3483,7 +3483,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Église Sainte-Claire",
-                  "text": "A church in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Catholic church dedicated to Saint Clare in Aluminum Smelter.",
                   "category": "religious",
                   "coords": [
                         -71.090628,
@@ -3492,7 +3492,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc Victor-Guimond",
-                  "text": "A park in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Park named after Victor Guimond in Aluminum Smelter.",
                   "category": "park",
                   "coords": [
                         -71.088538,
@@ -3501,7 +3501,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc Saint-Joachim",
-                  "text": "A park in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Park dedicated to Saint Joachim in Aluminum Smelter.",
                   "category": "park",
                   "coords": [
                         -71.076885,
@@ -3519,7 +3519,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "La Maison Coupée En Deux",
-                  "text": "A theatre named La Maison Coupée En Deux in quebec-aluminum-smelter-economic-v2.",
+                  "text": "La Maison Coupée En Deux is a distinctive building split into two halves, now an art gallery and cultural venue.",
                   "category": "cultural",
                   "coords": [
                         -70.903238,
@@ -3528,7 +3528,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc municipal",
-                  "text": "A municipal park in quebec-aluminum-smelter-economic-v2.",
+                  "text": "Municipal park in Aluminum Smelter.",
                   "category": "park",
                   "coords": [
                         -70.900245,
@@ -3576,7 +3576,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Mispec Battery",
-                  "text": "Die Mispec Battery ist eine Ruine in Saint John.",
+                  "text": "Die Mispec Battery ist eine historische Küstenbatterie aus dem Zweiten Weltkrieg in John Port.",
                   "category": "historical",
                   "coords": [
                         -65.984006,
@@ -3585,7 +3585,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Red Head Mountain",
-                  "text": "Der Red Head Mountain ist ein Berggipfel in Saint John.",
+                  "text": "Berg namens Red Head in der Nähe von John Port.",
                   "category": "natural",
                   "coords": [
                         -65.983715,
@@ -3594,7 +3594,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Tin Can Beach",
-                  "text": "Der Tin Can Beach ist ein Strand in Saint John.",
+                  "text": "Tin Can Beach ist ein beliebter Sandstrand in John Port mit feinem Sand und malerischer Buchtaussicht.",
                   "category": "recreational",
                   "coords": [
                         -66.053884,
@@ -3603,7 +3603,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Little River Beach",
-                  "text": "Der Little River Beach ist ein Strand am Little River in Saint John.",
+                  "text": "Strand am Little River in John Port.",
                   "category": "recreational",
                   "coords": [
                         -66.025654,
@@ -3612,7 +3612,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Seely Point Viewpoint",
-                  "text": "Ein Aussichtspunkt in Saint John mit Panoramablick.",
+                  "text": "Der Seely Point Viewpoint bietet einen Panoramablick auf die Küste und die umliegende Landschaft bei John Port.",
                   "category": "natural",
                   "coords": [
                         -66.138468,
@@ -3621,7 +3621,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Fort Dufferin",
-                  "text": "Ein historisches Fort in Saint John.",
+                  "text": "Fort Dufferin ist eine Festung aus dem 19. Jahrhundert in John Port, die zum Schutz des Hafens erbaut wurde.",
                   "category": "fortress",
                   "coords": [
                         -66.062785,
@@ -3630,7 +3630,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Carleton Martello Tower",
-                  "text": "Der Carleton Martello Tower ist ein National Historic Site in Saint John.",
+                  "text": "Ein runder Stein-Martello-Turm aus dem Jahr 1812 mit Blick auf den Hafen von John Port.",
                   "category": "landmark",
                   "coords": [
                         -66.076293,
@@ -3639,7 +3639,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Mispec Bay",
-                  "text": "Eine Bucht in der Nähe von Saint John.",
+                  "text": "Mispec Bay in der Nähe von John Port.",
                   "category": "landmark",
                   "coords": [
                         -65.956295,
@@ -3648,7 +3648,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Saints Rest Beach",
-                  "text": "Ein Strand in Saint John.",
+                  "text": "Strand namens Saints Rest in John Port.",
                   "category": "recreational",
                   "coords": [
                         -66.114424,
@@ -3657,7 +3657,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "McLarens Beach",
-                  "text": "Ein Strand in Saint John.",
+                  "text": "Strand namens McLarens in John Port.",
                   "category": "recreational",
                   "coords": [
                         -66.098808,
@@ -3666,7 +3666,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Irving Nature Park",
-                  "text": "Ein Naturpark in Saint John.",
+                  "text": "Naturpark namens Irving in John Port.",
                   "category": "park",
                   "coords": [
                         -66.121327,
@@ -3675,7 +3675,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Manawagonish Island Nature Preserve",
-                  "text": "Ein Naturreservat in Saint John.",
+                  "text": "Das 1991 eingerichtete Manawagonish Island Nature Preserve in John Port schützt die Natur.",
                   "category": "natural",
                   "coords": [
                         -66.108247,
@@ -3686,7 +3686,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Mispec Battery",
-                  "text": "A Mispec Battery egy rom Saint Johnban.",
+                  "text": "A Mispec Battery egy második világháborús történelmi parti üteg John Portban.",
                   "category": "historical",
                   "coords": [
                         -65.984006,
@@ -3695,7 +3695,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Red Head Mountain",
-                  "text": "A Red Head Mountain egy hegycsúcs Saint Johnban.",
+                  "text": "Red Head nevű hegy John Port közelében.",
                   "category": "natural",
                   "coords": [
                         -65.983715,
@@ -3704,7 +3704,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Tin Can Beach",
-                  "text": "A Tin Can Beach egy strand Saint Johnban.",
+                  "text": "A Tin Can Beach egy népszerű homokos strand John Portban, finom homokkal és festői öbölkilátással.",
                   "category": "recreational",
                   "coords": [
                         -66.053884,
@@ -3713,7 +3713,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Little River Beach",
-                  "text": "A Little River Beach egy strand a Little Rivernél Saint Johnban.",
+                  "text": "Strand a Little River partján John Portban.",
                   "category": "recreational",
                   "coords": [
                         -66.025654,
@@ -3722,7 +3722,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Seely Point Viewpoint",
-                  "text": "Kilátóhely Saint Johnban, panorámás kilátással.",
+                  "text": "A Seely Point Viewpoint panorámakilátást nyújt a tengerpartra és a környező tájra John Port közelében.",
                   "category": "natural",
                   "coords": [
                         -66.138468,
@@ -3731,7 +3731,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Fort Dufferin",
-                  "text": "Egy történelmi erőd Saint Johnban.",
+                  "text": "A Fort Dufferin egy 19. századi erőd John Portban, amely a kikötő védelmére épült.",
                   "category": "fortress",
                   "coords": [
                         -66.062785,
@@ -3740,7 +3740,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Carleton Martello Tower",
-                  "text": "A Carleton Martello Tower egy nemzeti történelmi helyszín Saint Johnban.",
+                  "text": "Egy 1812-ben épült kerek kő Martello-torony, amely a John Port kikötőjére néz.",
                   "category": "landmark",
                   "coords": [
                         -66.076293,
@@ -3749,7 +3749,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Mispec Bay",
-                  "text": "Egy öböl Saint John közelében.",
+                  "text": "Mispec-öböl John Port közelében.",
                   "category": "landmark",
                   "coords": [
                         -65.956295,
@@ -3758,7 +3758,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Saints Rest Beach",
-                  "text": "Egy strand Saint Johnban.",
+                  "text": "Saints Rest nevű strand John Portban.",
                   "category": "recreational",
                   "coords": [
                         -66.114424,
@@ -3767,7 +3767,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "McLarens Beach",
-                  "text": "Egy strand Saint Johnban.",
+                  "text": "McLarens nevű strand John Portban.",
                   "category": "recreational",
                   "coords": [
                         -66.098808,
@@ -3776,7 +3776,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Irving Nature Park",
-                  "text": "Egy természeti park Saint Johnban.",
+                  "text": "Irving nevű természeti park John Portban.",
                   "category": "park",
                   "coords": [
                         -66.121327,
@@ -3785,7 +3785,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Manawagonish Island Nature Preserve",
-                  "text": "Egy természetvédelmi terület Saint Johnban.",
+                  "text": "Az 1991-ben létrehozott Manawagonish-szigeti Természetvédelmi Terület John Port-ban védett természeti terület.",
                   "category": "natural",
                   "coords": [
                         -66.108247,
@@ -3796,7 +3796,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Mispec Battery",
-                  "text": "Mispec Battery este o ruină în Saint John.",
+                  "text": "Mispec Battery este o baterie istorică de coastă din al Doilea Război Mondial în John Port.",
                   "category": "historical",
                   "coords": [
                         -65.984006,
@@ -3805,7 +3805,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Red Head Mountain",
-                  "text": "Red Head Mountain este un vârf de munte în Saint John.",
+                  "text": "Muntele numit Red Head lângă John Port.",
                   "category": "natural",
                   "coords": [
                         -65.983715,
@@ -3814,7 +3814,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Tin Can Beach",
-                  "text": "Tin Can Beach este o plajă în Saint John.",
+                  "text": "Tin Can Beach este o plajă nisipoasă populară în John Port, cu nisip fin și vedere pitorească asupra golfului.",
                   "category": "recreational",
                   "coords": [
                         -66.053884,
@@ -3823,7 +3823,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Little River Beach",
-                  "text": "Little River Beach este o plajă la Little River în Saint John.",
+                  "text": "Plaja pe râul Little River din John Port.",
                   "category": "recreational",
                   "coords": [
                         -66.025654,
@@ -3832,7 +3832,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Seely Point Viewpoint",
-                  "text": "Un punct de belvedere în Saint John, cu vedere panoramică.",
+                  "text": "Seely Point Viewpoint oferă o vedere panoramică asupra coastei și peisajului din jur în John Port.",
                   "category": "natural",
                   "coords": [
                         -66.138468,
@@ -3841,7 +3841,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Fort Dufferin",
-                  "text": "Un fort istoric în Saint John.",
+                  "text": "Fort Dufferin este o fortăreață din secolul al XIX-lea în John Port, construită pentru apărarea portului.",
                   "category": "fortress",
                   "coords": [
                         -66.062785,
@@ -3850,7 +3850,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Carleton Martello Tower",
-                  "text": "Turnul Carleton Martello este un sit istoric național în Saint John.",
+                  "text": "Un turn Martello circular de piatră construit în 1812, cu vedere spre portul John Port.",
                   "category": "landmark",
                   "coords": [
                         -66.076293,
@@ -3859,7 +3859,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Mispec Bay",
-                  "text": "Un golf lângă Saint John.",
+                  "text": "Golful Mispec lângă John Port.",
                   "category": "landmark",
                   "coords": [
                         -65.956295,
@@ -3868,7 +3868,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Saints Rest Beach",
-                  "text": "O plajă în Saint John.",
+                  "text": "Plaja numită Saints Rest din John Port.",
                   "category": "recreational",
                   "coords": [
                         -66.114424,
@@ -3877,7 +3877,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "McLarens Beach",
-                  "text": "O plajă în Saint John.",
+                  "text": "Plaja numită McLarens din John Port.",
                   "category": "recreational",
                   "coords": [
                         -66.098808,
@@ -3886,7 +3886,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Irving Nature Park",
-                  "text": "Un parc natural în Saint John.",
+                  "text": "Parcul natural numit Irving din John Port.",
                   "category": "park",
                   "coords": [
                         -66.121327,
@@ -3895,7 +3895,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Manawagonish Island Nature Preserve",
-                  "text": "O rezervație naturală în Saint John.",
+                  "text": "Rezervația naturală Insula Manawagonish din John Port, înființată în 1991, protejează natura.",
                   "category": "natural",
                   "coords": [
                         -66.108247,
@@ -3906,7 +3906,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Mispec Battery",
-                  "text": "Mispec Battery is a ruin in Saint John.",
+                  "text": "Mispec Battery is a historic coastal artillery battery from World War II in John Port.",
                   "category": "historical",
                   "coords": [
                         -65.984006,
@@ -3915,7 +3915,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Red Head Mountain",
-                  "text": "Red Head Mountain is a mountain peak in Saint John.",
+                  "text": "Mountain called Red Head near John Port.",
                   "category": "natural",
                   "coords": [
                         -65.983715,
@@ -3924,7 +3924,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Tin Can Beach",
-                  "text": "Tin Can Beach is a beach in Saint John.",
+                  "text": "Tin Can Beach is a popular sandy beach in John Port with fine sand and scenic bay views.",
                   "category": "recreational",
                   "coords": [
                         -66.053884,
@@ -3933,7 +3933,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Little River Beach",
-                  "text": "Little River Beach is a beach at Little River in Saint John.",
+                  "text": "Beach on the Little River in John Port.",
                   "category": "recreational",
                   "coords": [
                         -66.025654,
@@ -3942,7 +3942,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Seely Point Viewpoint",
-                  "text": "A viewpoint in Saint John offering panoramic views.",
+                  "text": "Seely Point Viewpoint offers panoramic views of the coastline and surrounding landscape in John Port.",
                   "category": "natural",
                   "coords": [
                         -66.138468,
@@ -3951,7 +3951,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Fort Dufferin",
-                  "text": "A historic fort in Saint John.",
+                  "text": "Fort Dufferin is a 19th-century fortress in John Port built to defend the harbor.",
                   "category": "fortress",
                   "coords": [
                         -66.062785,
@@ -3960,7 +3960,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Carleton Martello Tower",
-                  "text": "Carleton Martello Tower is a National Historic Site in Saint John.",
+                  "text": "A circular stone Martello tower built in 1812 overlooks the harbour of John Port.",
                   "category": "landmark",
                   "coords": [
                         -66.076293,
@@ -3969,7 +3969,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Mispec Bay",
-                  "text": "A bay near Saint John.",
+                  "text": "Mispec Bay near John Port.",
                   "category": "landmark",
                   "coords": [
                         -65.956295,
@@ -3978,7 +3978,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Saints Rest Beach",
-                  "text": "A beach in Saint John.",
+                  "text": "Beach named Saints Rest in John Port.",
                   "category": "recreational",
                   "coords": [
                         -66.114424,
@@ -3987,7 +3987,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "McLarens Beach",
-                  "text": "A beach in Saint John.",
+                  "text": "Beach named McLarens in John Port.",
                   "category": "recreational",
                   "coords": [
                         -66.098808,
@@ -3996,7 +3996,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Irving Nature Park",
-                  "text": "A nature park in Saint John.",
+                  "text": "Nature park named Irving in John Port.",
                   "category": "park",
                   "coords": [
                         -66.121327,
@@ -4005,7 +4005,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Manawagonish Island Nature Preserve",
-                  "text": "A nature reserve in Saint John.",
+                  "text": "Manawagonish Island Nature Preserve, established in 1991 in John Port, is a protected natural area.",
                   "category": "natural",
                   "coords": [
                         -66.108247,
@@ -4053,7 +4053,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Mission Bay",
-                  "text": "Eine Bucht in Thunder Bay.",
+                  "text": "Mission Bay in der Nähe von Bay Port.",
                   "category": "landmark",
                   "coords": [
                         -89.204137,
@@ -4062,7 +4062,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Rabbit Mountain Lookout",
-                  "text": "Ein Aussichtspunkt in Thunder Bay.",
+                  "text": "Der Rabbit Mountain Lookout ist ein Aussichtspunkt auf dem Rabbit Mountain mit Blick auf Bay Port und den umliegenden Wald.",
                   "category": "natural",
                   "coords": [
                         -89.300264,
@@ -4071,7 +4071,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Cascades Conservation Area",
-                  "text": "Ein Naturschutzgebiet in Thunder Bay.",
+                  "text": "Das Cascades Conservation Area ist ein Schutzgebiet mit Wasserfällen und Wanderwegen entlang des Cascade River in Bay Port.",
                   "category": "natural",
                   "coords": [
                         -89.225238,
@@ -4080,7 +4080,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "The Bluffs",
-                  "text": "Ein Aussichtspunkt in Thunder Bay.",
+                  "text": "The Bluffs sind malerische Klippen mit Panoramablick über den Lake Superior (oder die Bucht) in Bay Port.",
                   "category": "natural",
                   "coords": [
                         -89.202213,
@@ -4098,7 +4098,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "St. Andrews Roman Catholic Church",
-                  "text": "Eine katholische Kirche in Thunder Bay.",
+                  "text": "Römisch-katholische Kirche, dem heiligen Andreas geweiht, in Bay Port.",
                   "category": "religious",
                   "coords": [
                         -89.223593,
@@ -4107,7 +4107,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Port of Thunder Bay",
-                  "text": "Eine Bucht in Thunder Bay.",
+                  "text": "Hafen von Thunder Bay in Bay Port.",
                   "category": "landmark",
                   "coords": [
                         -89.207843,
@@ -4116,7 +4116,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Mission Island Marsh",
-                  "text": "Ein Naturschutzgebiet in Thunder Bay.",
+                  "text": "Das Mission Island Marsh ist ein Feuchtgebiet auf Mission Island in Bay Port, Lebensraum für Wasservögel und Pflanzen.",
                   "category": "natural",
                   "coords": [
                         -89.212057,
@@ -4125,7 +4125,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Thunder Bay Museum",
-                  "text": "Ein Museum in Thunder Bay.",
+                  "text": "Thunder Bay Museum in Bay Port.",
                   "category": "museum",
                   "coords": [
                         -89.244659,
@@ -4134,7 +4134,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Centennial conservatory and botanical garden",
-                  "text": "Ein botanischer Garten und ein Wintergarten in Thunder Bay.",
+                  "text": "Das Centennial conservatory and botanical garden ist ein historisches Gewächshaus mit tropischen Pflanzen und Themengärten, das zu Kanadas 100. Jahrestag erbaut wurde.",
                   "category": "historical",
                   "coords": [
                         -89.261465,
@@ -4143,7 +4143,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "The First Railroad Spike",
-                  "text": "Eine Attraktion in Thunder Bay.",
+                  "text": "The First Railroad Spike ist ein Denkmal in Bay Port, das an den ersten in der Region eingeschlagenen Eisenbahnspike erinnert.",
                   "category": "landmark",
                   "coords": [
                         -89.281741,
@@ -4170,7 +4170,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Hillcrest Park",
-                  "text": "Ein Park in Thunder Bay.",
+                  "text": "Park namens Hillcrest in Bay Port.",
                   "category": "park",
                   "coords": [
                         -89.234352,
@@ -4188,7 +4188,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Waverley Park",
-                  "text": "Ein Park in Thunder Bay.",
+                  "text": "Park namens Waverley in Bay Port.",
                   "category": "park",
                   "coords": [
                         -89.226102,
@@ -4197,7 +4197,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Magnus Theatre",
-                  "text": "Ein Theater in Thunder Bay.",
+                  "text": "Theater namens Magnus in Bay Port.",
                   "category": "cultural",
                   "coords": [
                         -89.224925,
@@ -4206,7 +4206,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Northwestern Ontario Aviation Heritage Centre",
-                  "text": "Ein Luftfahrtmuseum in Thunder Bay.",
+                  "text": "Das Northwestern Ontario Aviation Heritage Centre in Bay Port zeigt Flugzeuge und Artefakte aus der Luftfahrtgeschichte Nordwest-Ontarios.",
                   "category": "museum",
                   "coords": [
                         -89.250446,
@@ -4215,7 +4215,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Sand Trap",
-                  "text": "Ein Strand in Thunder Bay.",
+                  "text": "Sand Trap ist ein Sandbereich in Bay Port, der für Freizeitaktivitäten wie Volleyball und Sonnenbaden genutzt wird.",
                   "category": "recreational",
                   "coords": [
                         -89.264759,
@@ -4224,7 +4224,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Chapples Park",
-                  "text": "Ein Park in Thunder Bay.",
+                  "text": "Park namens Chapples in Bay Port.",
                   "category": "park",
                   "coords": [
                         -89.26824,
@@ -4235,7 +4235,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Mission Bay",
-                  "text": "Egy öböl Thunder Bayben.",
+                  "text": "Mission-öböl Bay Port közelében.",
                   "category": "landmark",
                   "coords": [
                         -89.204137,
@@ -4244,7 +4244,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Rabbit Mountain Lookout",
-                  "text": "Egy kilátó Thunder Bayben.",
+                  "text": "A Rabbit Mountain Lookout egy kilátó a Rabbit Mountain tetején, ahonnan Bay Port és a környező erdő látható.",
                   "category": "natural",
                   "coords": [
                         -89.300264,
@@ -4253,7 +4253,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Cascades Conservation Area",
-                  "text": "Egy természetvédelmi terület Thunder Bayben.",
+                  "text": "A Cascades Conservation Area egy védett terület vízesésekkel és túraútvonalakkal a Cascade folyó mentén Bay Portban.",
                   "category": "natural",
                   "coords": [
                         -89.225238,
@@ -4262,7 +4262,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "The Bluffs",
-                  "text": "Egy kilátó Thunder Bayben.",
+                  "text": "A The Bluffs festői sziklafalak panorámás kilátással a Superior-tóra (vagy az öbölre) Bay Portban.",
                   "category": "natural",
                   "coords": [
                         -89.202213,
@@ -4280,7 +4280,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "St. Andrews Roman Catholic Church",
-                  "text": "Egy katolikus templom Thunder Bayben.",
+                  "text": "Szent Andrásnak szentelt római katolikus templom Bay Portban.",
                   "category": "religious",
                   "coords": [
                         -89.223593,
@@ -4289,7 +4289,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Port of Thunder Bay",
-                  "text": "Egy öböl Thunder Bayben.",
+                  "text": "Thunder Bay kikötője Bay Portban.",
                   "category": "landmark",
                   "coords": [
                         -89.207843,
@@ -4298,7 +4298,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Mission Island Marsh",
-                  "text": "Egy természetvédelmi terület Thunder Bayben.",
+                  "text": "A Mission Island Marsh egy vizes élőhely a Mission Island-en Bay Portban, vízimadarak és növények élőhelye.",
                   "category": "natural",
                   "coords": [
                         -89.212057,
@@ -4307,7 +4307,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Thunder Bay Museum",
-                  "text": "Egy múzeum Thunder Bayben.",
+                  "text": "Thunder Bay Múzeum Bay Portban.",
                   "category": "museum",
                   "coords": [
                         -89.244659,
@@ -4316,7 +4316,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Centennial conservatory and botanical garden",
-                  "text": "Egy botanikus kert és üvegház Thunder Bayben.",
+                  "text": "A Centennial conservatory and botanical garden egy történelmi üvegház trópusi növényekkel és tematikus kertekkel, Kanada százéves évfordulójára épült.",
                   "category": "historical",
                   "coords": [
                         -89.261465,
@@ -4325,7 +4325,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "The First Railroad Spike",
-                  "text": "Egy látványosság Thunder Bayben.",
+                  "text": "A The First Railroad Spike egy emlékmű Bay Portban, amely a régió első vasúti sínszegének beverésére emlékeztet.",
                   "category": "landmark",
                   "coords": [
                         -89.281741,
@@ -4352,7 +4352,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Hillcrest Park",
-                  "text": "Egy park Thunder Bayben.",
+                  "text": "Hillcrest nevű park Bay Portban.",
                   "category": "park",
                   "coords": [
                         -89.234352,
@@ -4370,7 +4370,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Waverley Park",
-                  "text": "Egy park Thunder Bayben.",
+                  "text": "Waverley nevű park Bay Portban.",
                   "category": "park",
                   "coords": [
                         -89.226102,
@@ -4379,7 +4379,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Magnus Theatre",
-                  "text": "Egy színház Thunder Bayben.",
+                  "text": "Magnus nevű színház Bay Portban.",
                   "category": "cultural",
                   "coords": [
                         -89.224925,
@@ -4388,7 +4388,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Northwestern Ontario Aviation Heritage Centre",
-                  "text": "Egy repülési múzeum Thunder Bayben.",
+                  "text": "A Northwestern Ontario Aviation Heritage Centre Bay Portban repülőgépeket és tárgyakat mutat be Északnyugat-Ontario repüléstörténetéből.",
                   "category": "museum",
                   "coords": [
                         -89.250446,
@@ -4397,7 +4397,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Sand Trap",
-                  "text": "Egy strand Thunder Bayben.",
+                  "text": "A Sand Trap egy homokos terület Bay Portban, szabadidős tevékenységekre, például röplabdázásra és napozásra használják.",
                   "category": "recreational",
                   "coords": [
                         -89.264759,
@@ -4406,7 +4406,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Chapples Park",
-                  "text": "Egy park Thunder Bayben.",
+                  "text": "Chapples nevű park Bay Portban.",
                   "category": "park",
                   "coords": [
                         -89.26824,
@@ -4417,7 +4417,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Mission Bay",
-                  "text": "Un golf în Thunder Bay.",
+                  "text": "Golful Mission lângă Bay Port.",
                   "category": "landmark",
                   "coords": [
                         -89.204137,
@@ -4426,7 +4426,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Rabbit Mountain Lookout",
-                  "text": "Un punct de belvedere în Thunder Bay.",
+                  "text": "Rabbit Mountain Lookout este un punct de belvedere pe Muntele Iepurelui, cu vedere spre Bay Port și pădurea din jur.",
                   "category": "natural",
                   "coords": [
                         -89.300264,
@@ -4435,7 +4435,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Cascades Conservation Area",
-                  "text": "O rezervație naturală în Thunder Bay.",
+                  "text": "Cascades Conservation Area este o arie protejată cu cascade și trasee de drumeție de-a lungul râului Cascade din Bay Port.",
                   "category": "natural",
                   "coords": [
                         -89.225238,
@@ -4444,7 +4444,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "The Bluffs",
-                  "text": "Un punct de belvedere în Thunder Bay.",
+                  "text": "The Bluffs sunt stânci pitorești cu vedere panoramică asupra Lacului Superior (sau a golfului) din Bay Port.",
                   "category": "natural",
                   "coords": [
                         -89.202213,
@@ -4462,7 +4462,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "St. Andrews Roman Catholic Church",
-                  "text": "O biserică catolică în Thunder Bay.",
+                  "text": "Biserica romano-catolică dedicată Sfântului Andrei din Bay Port.",
                   "category": "religious",
                   "coords": [
                         -89.223593,
@@ -4471,7 +4471,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Port of Thunder Bay",
-                  "text": "Un golf în Thunder Bay.",
+                  "text": "Portul Thunder Bay din Bay Port.",
                   "category": "landmark",
                   "coords": [
                         -89.207843,
@@ -4480,7 +4480,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Mission Island Marsh",
-                  "text": "O rezervație naturală în Thunder Bay.",
+                  "text": "Mission Island Marsh este o zonă umedă pe Insula Mission din Bay Port, habitat pentru păsări de apă și plante acvatice.",
                   "category": "natural",
                   "coords": [
                         -89.212057,
@@ -4489,7 +4489,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Thunder Bay Museum",
-                  "text": "Un muzeu în Thunder Bay.",
+                  "text": "Muzeul Thunder Bay din Bay Port.",
                   "category": "museum",
                   "coords": [
                         -89.244659,
@@ -4498,7 +4498,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Centennial conservatory and botanical garden",
-                  "text": "O grădină botanică și o conservă în Thunder Bay.",
+                  "text": "Centennial conservatory and botanical garden este o seră istorică cu plante tropicale și grădini tematice, construită pentru centenarul Canadei.",
                   "category": "historical",
                   "coords": [
                         -89.261465,
@@ -4507,7 +4507,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "The First Railroad Spike",
-                  "text": "O atracție în Thunder Bay.",
+                  "text": "The First Railroad Spike este un monument în Bay Port care comemorează primul șină de cale ferată bătută în regiune.",
                   "category": "landmark",
                   "coords": [
                         -89.281741,
@@ -4534,7 +4534,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Hillcrest Park",
-                  "text": "Un parc în Thunder Bay.",
+                  "text": "Parcul numit Hillcrest din Bay Port.",
                   "category": "park",
                   "coords": [
                         -89.234352,
@@ -4552,7 +4552,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Waverley Park",
-                  "text": "Un parc în Thunder Bay.",
+                  "text": "Parcul numit Waverley din Bay Port.",
                   "category": "park",
                   "coords": [
                         -89.226102,
@@ -4561,7 +4561,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Magnus Theatre",
-                  "text": "Un teatru în Thunder Bay.",
+                  "text": "Teatrul numit Magnus din Bay Port.",
                   "category": "cultural",
                   "coords": [
                         -89.224925,
@@ -4570,7 +4570,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Northwestern Ontario Aviation Heritage Centre",
-                  "text": "Un muzeu de aviație în Thunder Bay.",
+                  "text": "Centrul de Patrimoniu al Aviației din Nord-Vestul Ontario (Northwestern Ontario Aviation Heritage Centre) din Bay Port expune avioane și artefacte din istoria aviației din nord-vestul Ontario.",
                   "category": "museum",
                   "coords": [
                         -89.250446,
@@ -4579,7 +4579,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Sand Trap",
-                  "text": "O plajă în Thunder Bay.",
+                  "text": "Sand Trap este o zonă nisipoasă în Bay Port, folosită pentru activități recreative precum volei și plajă.",
                   "category": "recreational",
                   "coords": [
                         -89.264759,
@@ -4588,7 +4588,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Chapples Park",
-                  "text": "Un parc în Thunder Bay.",
+                  "text": "Parcul numit Chapples din Bay Port.",
                   "category": "park",
                   "coords": [
                         -89.26824,
@@ -4599,7 +4599,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Mission Bay",
-                  "text": "A bay in Thunder Bay.",
+                  "text": "Mission Bay near Bay Port.",
                   "category": "landmark",
                   "coords": [
                         -89.204137,
@@ -4608,7 +4608,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Rabbit Mountain Lookout",
-                  "text": "A viewpoint in Thunder Bay.",
+                  "text": "Rabbit Mountain Lookout is a viewpoint on Rabbit Mountain overlooking Bay Port and the surrounding forest.",
                   "category": "natural",
                   "coords": [
                         -89.300264,
@@ -4617,7 +4617,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Cascades Conservation Area",
-                  "text": "A nature reserve in Thunder Bay.",
+                  "text": "Cascades Conservation Area is a protected area with waterfalls and hiking trails along the Cascade River in Bay Port.",
                   "category": "natural",
                   "coords": [
                         -89.225238,
@@ -4626,7 +4626,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "The Bluffs",
-                  "text": "A viewpoint in Thunder Bay.",
+                  "text": "The Bluffs are scenic cliffs with panoramic views over Lake Superior (or the bay) in Bay Port.",
                   "category": "natural",
                   "coords": [
                         -89.202213,
@@ -4644,7 +4644,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "St. Andrews Roman Catholic Church",
-                  "text": "A Catholic church in Thunder Bay.",
+                  "text": "Roman Catholic church dedicated to Saint Andrew in Bay Port.",
                   "category": "religious",
                   "coords": [
                         -89.223593,
@@ -4653,7 +4653,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Port of Thunder Bay",
-                  "text": "A bay in Thunder Bay.",
+                  "text": "Port of Thunder Bay in Bay Port.",
                   "category": "landmark",
                   "coords": [
                         -89.207843,
@@ -4662,7 +4662,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Mission Island Marsh",
-                  "text": "A nature reserve in Thunder Bay.",
+                  "text": "Mission Island Marsh is a wetland on Mission Island in Bay Port, home to waterfowl and aquatic plants.",
                   "category": "natural",
                   "coords": [
                         -89.212057,
@@ -4671,7 +4671,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Thunder Bay Museum",
-                  "text": "A museum in Thunder Bay.",
+                  "text": "Thunder Bay Museum in Bay Port.",
                   "category": "museum",
                   "coords": [
                         -89.244659,
@@ -4680,7 +4680,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Centennial conservatory and botanical garden",
-                  "text": "A botanical garden and conservatory in Thunder Bay.",
+                  "text": "Centennial conservatory and botanical garden is a historic greenhouse with tropical plants and themed gardens, built for Canada's centennial.",
                   "category": "historical",
                   "coords": [
                         -89.261465,
@@ -4689,7 +4689,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "The First Railroad Spike",
-                  "text": "An attraction in Thunder Bay.",
+                  "text": "The First Railroad Spike is a monument in Bay Port commemorating the first railroad spike driven in the region.",
                   "category": "landmark",
                   "coords": [
                         -89.281741,
@@ -4716,7 +4716,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Hillcrest Park",
-                  "text": "A park in Thunder Bay.",
+                  "text": "Park named Hillcrest in Bay Port.",
                   "category": "park",
                   "coords": [
                         -89.234352,
@@ -4734,7 +4734,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Waverley Park",
-                  "text": "A park in Thunder Bay.",
+                  "text": "Park named Waverley in Bay Port.",
                   "category": "park",
                   "coords": [
                         -89.226102,
@@ -4743,7 +4743,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Magnus Theatre",
-                  "text": "A theatre in Thunder Bay.",
+                  "text": "Theatre named Magnus in Bay Port.",
                   "category": "cultural",
                   "coords": [
                         -89.224925,
@@ -4752,7 +4752,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Northwestern Ontario Aviation Heritage Centre",
-                  "text": "An aviation museum in Thunder Bay.",
+                  "text": "Northwestern Ontario Aviation Heritage Centre in Bay Port displays aircraft and artifacts from northwestern Ontario's aviation history.",
                   "category": "museum",
                   "coords": [
                         -89.250446,
@@ -4761,7 +4761,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Sand Trap",
-                  "text": "A beach in Thunder Bay.",
+                  "text": "Sand Trap is a sandy area in Bay Port used for recreational activities like volleyball and sunbathing.",
                   "category": "recreational",
                   "coords": [
                         -89.264759,
@@ -4770,7 +4770,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Chapples Park",
-                  "text": "A park in Thunder Bay.",
+                  "text": "Park named Chapples in Bay Port.",
                   "category": "park",
                   "coords": [
                         -89.26824,
@@ -4818,7 +4818,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "South Viewpoint",
-                  "text": "Ein Aussichtspunkt mit Blick nach Süden in Delta.",
+                  "text": "South Viewpoint ist ein Aussichtspunkt in Port mit Blick auf die südliche Landschaft und den Hafen.",
                   "category": "natural",
                   "coords": [
                         -123.025656,
@@ -4827,7 +4827,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "North Viewpoint",
-                  "text": "Ein Aussichtspunkt mit Blick nach Norden in Delta.",
+                  "text": "North Viewpoint ist ein Aussichtspunkt in Port mit Blick auf den nördlichen Teil von Port und die Küste.",
                   "category": "natural",
                   "coords": [
                         -123.026164,
@@ -4845,7 +4845,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Smart Frames and Accents",
-                  "text": "Eine Galerie für Rahmen und Akzente in Delta.",
+                  "text": "Smart Frames and Accents ist eine Galerie und ein Rahmenstudio in Port, das Werke lokaler Künstler ausstellt.",
                   "category": "museum",
                   "coords": [
                         -123.087152,
@@ -4854,7 +4854,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "The Art Department",
-                  "text": "Ein Kunstzentrum in Delta.",
+                  "text": "The Art Department ist ein Kulturzentrum in Port, das Kunstkurse, Ausstellungen und Gemeinschaftsveranstaltungen anbietet.",
                   "category": "cultural",
                   "coords": [
                         -123.068243,
@@ -4863,7 +4863,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "South Delta Artists Guild Art Gallery",
-                  "text": "Eine Kunstgalerie der South Delta Artists Guild in Delta.",
+                  "text": "Die South Delta Artists Guild Art Gallery in Port zeigt wechselnde Ausstellungen lokaler Künstler der Gilde.",
                   "category": "museum",
                   "coords": [
                         -123.067721,
@@ -4872,7 +4872,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Tsawwassen Arts Centre",
-                  "text": "Ein Kunstzentrum in Tsawwassen, Delta.",
+                  "text": "Das Tsawwassen Arts Centre in Port ist ein Gemeinschaftskunstzentrum mit Workshops, Aufführungen und Galerieräumen.",
                   "category": "cultural",
                   "coords": [
                         -123.068055,
@@ -4881,7 +4881,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Equinox Theatre",
-                  "text": "Ein Theater in Delta.",
+                  "text": "Das Equinox Theatre in Port präsentiert eine Spielzeit mit Theaterstücken und Musicals.",
                   "category": "cultural",
                   "coords": [
                         -123.076471,
@@ -4890,7 +4890,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bebe Home",
-                  "text": "Eine Attraktion in Delta.",
+                  "text": "Bebe Home ist ein historisches Wohnhaus in Port, bekannt für seine markante Architektur und als lokales Wahrzeichen.",
                   "category": "landmark",
                   "coords": [
                         -123.055938,
@@ -4899,7 +4899,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Tsawwassen Causeway Beach",
-                  "text": "Ein Strand entlang des Tsawwassen Causeway in Delta.",
+                  "text": "Tsawwassen Causeway Beach ist ein Sandstrand entlang der Tsawwassen-Hauptstraße in Port, beliebt zum Schwimmen und für Picknicks.",
                   "category": "recreational",
                   "coords": [
                         -123.114456,
@@ -4908,7 +4908,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Big Splash Waterpark",
-                  "text": "Ein Wasserpark in Delta.",
+                  "text": "Big Splash Waterpark in Port ist ein Wasserpark mit Rutschen, Pools und familienfreundlichen Attraktionen.",
                   "category": "recreational",
                   "coords": [
                         -123.092155,
@@ -4917,7 +4917,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Wildlife Reserve",
-                  "text": "Ein Wildtierreservat in Delta.",
+                  "text": "Das Wildlife Reserve in Port ist ein Schutzgebiet für heimische Tiere mit Wanderwegen zur Beobachtung.",
                   "category": "natural",
                   "coords": [
                         -123.054407,
@@ -4926,7 +4926,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Boundary Bay Regional Park",
-                  "text": "Ein Regionalpark an der Boundary Bay in Delta.",
+                  "text": "Regionalpark an der Boundary Bay nahe Port.",
                   "category": "park",
                   "coords": [
                         -123.048756,
@@ -4935,7 +4935,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Dr. Brink Wildlife Reserve",
-                  "text": "Ein nach Dr. Brink benanntes Wildtierreservat in Delta.",
+                  "text": "Ein geschütztes Wald- und Feuchtgebiet, benannt nach dem Naturforscher Dr. Brink.",
                   "category": "natural",
                   "coords": [
                         -123.05029,
@@ -4944,7 +4944,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Centennial Beach",
-                  "text": "Centennial Beach ist ein Strand in delta-port-economic-v2.",
+                  "text": "Ein sandiger Strand in Port mit flachem Wasser, benannt zum hundertjährigen Jubiläum.",
                   "category": "recreational",
                   "coords": [
                         -123.042582,
@@ -4955,7 +4955,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "South Viewpoint",
-                  "text": "Egy kilátópont déli kilátással Delta városában.",
+                  "text": "A South Viewpoint egy kilátó Portban, ahonnan a déli táj és a kikötő látható.",
                   "category": "natural",
                   "coords": [
                         -123.025656,
@@ -4964,7 +4964,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "North Viewpoint",
-                  "text": "Egy kilátópont északi kilátással Delta városában.",
+                  "text": "A North Viewpoint egy kilátó Portban, ahonnan Port északi része és a tengerpart látható.",
                   "category": "natural",
                   "coords": [
                         -123.026164,
@@ -4982,7 +4982,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Smart Frames and Accents",
-                  "text": "Egy galéria keretek és díszítések számára Delta városában.",
+                  "text": "A Smart Frames and Accents egy galéria és keretező műterem Portban, amely helyi művészek munkáit állítja ki.",
                   "category": "museum",
                   "coords": [
                         -123.087152,
@@ -4991,7 +4991,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "The Art Department",
-                  "text": "Egy művészeti központ Delta városában.",
+                  "text": "A The Art Department egy kulturális központ Portban, amely művészeti tanfolyamokat, kiállításokat és közösségi eseményeket kínál.",
                   "category": "cultural",
                   "coords": [
                         -123.068243,
@@ -5000,7 +5000,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "South Delta Artists Guild Art Gallery",
-                  "text": "A South Delta Artists Guild által működtetett művészeti galéria Delta városában.",
+                  "text": "A South Delta Artists Guild Art Gallery Portban a helyi művészek változó kiállításait mutatja be a céh tagjaitól.",
                   "category": "museum",
                   "coords": [
                         -123.067721,
@@ -5009,7 +5009,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Tsawwassen Arts Centre",
-                  "text": "Egy művészeti központ Tsawwassenben, Delta városában.",
+                  "text": "A Tsawwassen Arts Centre Portban egy közösségi művészeti központ, amely workshopokat, előadásokat és galériatermeket kínál.",
                   "category": "cultural",
                   "coords": [
                         -123.068055,
@@ -5018,7 +5018,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Equinox Theatre",
-                  "text": "Egy színház Delta városában.",
+                  "text": "Az Equinox Theatre Portban színdarabok és musicalek évadát mutatja be.",
                   "category": "cultural",
                   "coords": [
                         -123.076471,
@@ -5027,7 +5027,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bebe Home",
-                  "text": "Egy látványosság Delta városában.",
+                  "text": "A Bebe Home egy történelmi lakóház Portban, amely jellegzetes építészetéről és helyi nevezetességként ismert.",
                   "category": "landmark",
                   "coords": [
                         -123.055938,
@@ -5036,7 +5036,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Tsawwassen Causeway Beach",
-                  "text": "Egy strand a Tsawwassen Causeway mentén Delta városában.",
+                  "text": "A Tsawwassen Causeway Beach egy homokos strand a Tsawwassen gát mentén Portban, népszerű úszásra és piknikezésre.",
                   "category": "recreational",
                   "coords": [
                         -123.114456,
@@ -5045,7 +5045,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Big Splash Waterpark",
-                  "text": "Egy vízipark Delta városában.",
+                  "text": "A Big Splash Waterpark Portban egy vízipark csúszdákkal, medencékkel és családi attrakciókkal.",
                   "category": "recreational",
                   "coords": [
                         -123.092155,
@@ -5054,7 +5054,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Wildlife Reserve",
-                  "text": "Egy vadvédelmi terület Delta városában.",
+                  "text": "A Wildlife Reserve Portban egy védett terület a helyi vadon élő állatok számára, túraösvényekkel a megfigyeléshez.",
                   "category": "natural",
                   "coords": [
                         -123.054407,
@@ -5063,7 +5063,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Boundary Bay Regional Park",
-                  "text": "Egy regionális park a Boundary Bay-nél Delta városában.",
+                  "text": "Regionális park a Boundary Bay-nél Port közelében.",
                   "category": "park",
                   "coords": [
                         -123.048756,
@@ -5072,7 +5072,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Dr. Brink Wildlife Reserve",
-                  "text": "Egy Dr. Brinkről elnevezett vadvédelmi terület Delta városában.",
+                  "text": "Dr. Brink védett erdős és mocsaras rezervátuma, amely a természetkutatóról kapta a nevét.",
                   "category": "natural",
                   "coords": [
                         -123.05029,
@@ -5081,7 +5081,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Centennial Beach",
-                  "text": "Centennial Beach egy strand delta-port-economic-v2-ben.",
+                  "text": "Homokos strand Portban, sekély vízzel, a százéves évfordulóra elnevezve.",
                   "category": "recreational",
                   "coords": [
                         -123.042582,
@@ -5092,7 +5092,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "South Viewpoint",
-                  "text": "Un punct de belvedere cu vedere spre sud în Delta.",
+                  "text": "South Viewpoint este un punct de belvedere în Port, cu vedere spre peisajul sudic și port.",
                   "category": "natural",
                   "coords": [
                         -123.025656,
@@ -5101,7 +5101,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "North Viewpoint",
-                  "text": "Un punct de belvedere cu vedere spre nord în Delta.",
+                  "text": "North Viewpoint este un punct de belvedere în Port, cu vedere spre partea de nord a Portului și coastă.",
                   "category": "natural",
                   "coords": [
                         -123.026164,
@@ -5119,7 +5119,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Smart Frames and Accents",
-                  "text": "O galerie pentru rame și accente în Delta.",
+                  "text": "Smart Frames and Accents este o galerie și un atelier de rame în Port, care expune lucrări ale artiștilor locali.",
                   "category": "museum",
                   "coords": [
                         -123.087152,
@@ -5128,7 +5128,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "The Art Department",
-                  "text": "Un centru de artă în Delta.",
+                  "text": "The Art Department este un centru cultural în Port care oferă cursuri de artă, expoziții și evenimente comunitare.",
                   "category": "cultural",
                   "coords": [
                         -123.068243,
@@ -5137,7 +5137,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "South Delta Artists Guild Art Gallery",
-                  "text": "O galerie de artă condusă de South Delta Artists Guild în Delta.",
+                  "text": "South Delta Artists Guild Art Gallery din Port prezintă expoziții rotative ale artiștilor locali din breaslă.",
                   "category": "museum",
                   "coords": [
                         -123.067721,
@@ -5146,7 +5146,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Tsawwassen Arts Centre",
-                  "text": "Un centru de artă în Tsawwassen, Delta.",
+                  "text": "Tsawwassen Arts Centre din Port este un centru de artă comunitară care oferă ateliere, spectacole și spații de galerie.",
                   "category": "cultural",
                   "coords": [
                         -123.068055,
@@ -5155,7 +5155,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Equinox Theatre",
-                  "text": "Un teatru în Delta.",
+                  "text": "Equinox Theatre din Port prezintă un sezon de piese de teatru și musicaluri.",
                   "category": "cultural",
                   "coords": [
                         -123.076471,
@@ -5164,7 +5164,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bebe Home",
-                  "text": "O atracție în Delta.",
+                  "text": "Bebe Home este o casă istorică în Port, cunoscută pentru arhitectura sa distinctivă și ca reper local.",
                   "category": "landmark",
                   "coords": [
                         -123.055938,
@@ -5173,7 +5173,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Tsawwassen Causeway Beach",
-                  "text": "O plajă de-a lungul digului Tsawwassen în Delta.",
+                  "text": "Tsawwassen Causeway Beach este o plajă nisipoasă de-a lungul Digului Tsawwassen din Port, populară pentru înot și picnicuri.",
                   "category": "recreational",
                   "coords": [
                         -123.114456,
@@ -5182,7 +5182,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Big Splash Waterpark",
-                  "text": "Un parc acvatic în Delta.",
+                  "text": "Big Splash Waterpark din Port este un parc acvatic cu tobogane, piscine și atracții pentru familii.",
                   "category": "recreational",
                   "coords": [
                         -123.092155,
@@ -5191,7 +5191,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Wildlife Reserve",
-                  "text": "O rezervație de animale sălbatice în Delta.",
+                  "text": "Wildlife Reserve din Port este o arie protejată pentru animale sălbatice locale, cu trasee de drumeție pentru observație.",
                   "category": "natural",
                   "coords": [
                         -123.054407,
@@ -5200,7 +5200,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Boundary Bay Regional Park",
-                  "text": "Un parc regional pe Boundary Bay în Delta.",
+                  "text": "Parcul regional la Boundary Bay lângă Port.",
                   "category": "park",
                   "coords": [
                         -123.048756,
@@ -5209,7 +5209,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Dr. Brink Wildlife Reserve",
-                  "text": "O rezervație de animale sălbatice numită după Dr. Brink în Delta.",
+                  "text": "O rezervație naturală protejată de pădure și zone umede, numită după naturalistul Dr. Brink.",
                   "category": "natural",
                   "coords": [
                         -123.05029,
@@ -5218,7 +5218,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Centennial Beach",
-                  "text": "Centennial Beach este o plajă în delta-port-economic-v2.",
+                  "text": "O plajă nisipoasă în Port, cu ape puțin adânci, numită cu ocazia centenarului.",
                   "category": "recreational",
                   "coords": [
                         -123.042582,
@@ -5229,7 +5229,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "South Viewpoint",
-                  "text": "A viewpoint offering southern views in Delta.",
+                  "text": "South Viewpoint is a scenic overlook in Port with views of the southern landscape and harbor.",
                   "category": "natural",
                   "coords": [
                         -123.025656,
@@ -5238,7 +5238,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "North Viewpoint",
-                  "text": "A viewpoint offering northern views in Delta.",
+                  "text": "North Viewpoint is a scenic overlook in Port with views of the northern part of Port and the coastline.",
                   "category": "natural",
                   "coords": [
                         -123.026164,
@@ -5256,7 +5256,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Smart Frames and Accents",
-                  "text": "A gallery for frames and accents in Delta.",
+                  "text": "Smart Frames and Accents is a gallery and framing studio in Port showcasing works by local artists.",
                   "category": "museum",
                   "coords": [
                         -123.087152,
@@ -5265,7 +5265,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "The Art Department",
-                  "text": "An arts centre in Delta.",
+                  "text": "The Art Department is a cultural hub in Port offering art classes, exhibitions, and community events.",
                   "category": "cultural",
                   "coords": [
                         -123.068243,
@@ -5274,7 +5274,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "South Delta Artists Guild Art Gallery",
-                  "text": "An art gallery run by the South Delta Artists Guild in Delta.",
+                  "text": "South Delta Artists Guild Art Gallery in Port features rotating exhibitions of local guild artists.",
                   "category": "museum",
                   "coords": [
                         -123.067721,
@@ -5283,7 +5283,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Tsawwassen Arts Centre",
-                  "text": "An arts centre in Tsawwassen, Delta.",
+                  "text": "Tsawwassen Arts Centre in Port is a community arts centre offering workshops, performances, and gallery space.",
                   "category": "cultural",
                   "coords": [
                         -123.068055,
@@ -5292,7 +5292,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Equinox Theatre",
-                  "text": "A theatre in Delta.",
+                  "text": "Equinox Theatre in Port presents a season of plays and musicals.",
                   "category": "cultural",
                   "coords": [
                         -123.076471,
@@ -5301,7 +5301,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bebe Home",
-                  "text": "An attraction in Delta.",
+                  "text": "Bebe Home is a historic residence in Port known for its distinctive architecture and as a local landmark.",
                   "category": "landmark",
                   "coords": [
                         -123.055938,
@@ -5310,7 +5310,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Tsawwassen Causeway Beach",
-                  "text": "A beach along the Tsawwassen Causeway in Delta.",
+                  "text": "Tsawwassen Causeway Beach is a sandy beach along the Tsawwassen Causeway in Port, popular for swimming and picnics.",
                   "category": "recreational",
                   "coords": [
                         -123.114456,
@@ -5319,7 +5319,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Big Splash Waterpark",
-                  "text": "A water park in Delta.",
+                  "text": "Big Splash Waterpark in Port is a water park with slides, pools, and family attractions.",
                   "category": "recreational",
                   "coords": [
                         -123.092155,
@@ -5328,7 +5328,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Wildlife Reserve",
-                  "text": "A wildlife reserve in Delta.",
+                  "text": "Wildlife Reserve in Port is a protected area for native wildlife with walking trails for observation.",
                   "category": "natural",
                   "coords": [
                         -123.054407,
@@ -5337,7 +5337,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Boundary Bay Regional Park",
-                  "text": "A regional park on Boundary Bay in Delta.",
+                  "text": "Regional park at Boundary Bay near Port.",
                   "category": "park",
                   "coords": [
                         -123.048756,
@@ -5346,7 +5346,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Dr. Brink Wildlife Reserve",
-                  "text": "A wildlife reserve named after Dr. Brink in Delta.",
+                  "text": "A protected woodland and wetland reserve named after naturalist Dr. Brink.",
                   "category": "natural",
                   "coords": [
                         -123.05029,
@@ -5355,7 +5355,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Centennial Beach",
-                  "text": "Centennial Beach is a beach in delta-port-economic-v2.",
+                  "text": "A sandy beach in Port with shallow water, named for the centennial.",
                   "category": "recreational",
                   "coords": [
                         -123.042582,
@@ -5403,7 +5403,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Belvédère du Lac d'Aigle",
-                  "text": "Belvédère du Lac d'Aigle ist ein Aussichtspunkt am Lac d'Aigle.",
+                  "text": "Ein Aussichtspunkt über dem Lac d’Aigle, umgeben von Klippen und Kiefernwäldern.",
                   "category": "natural",
                   "coords": [
                         -66.323158,
@@ -5412,7 +5412,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "belevédère",
-                  "text": "Belevédère ist ein Aussichtspunkt in Sept-Îles.",
+                  "text": "Eine hölzerne Aussichtsplattform auf den Dünen der Küste von Îles Port.",
                   "category": "natural",
                   "coords": [
                         -66.44894,
@@ -5421,7 +5421,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "belvédère",
-                  "text": "Belvédère ist ein Aussichtspunkt in Sept-Îles.",
+                  "text": "Ein steinerner Aussichtspunkt auf dem höchsten Punkt der Insel mit Blick auf das Meer.",
                   "category": "natural",
                   "coords": [
                         -66.453024,
@@ -5430,7 +5430,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "La Tente Jaune",
-                  "text": "La Tente Jaune ist ein Theater in Sept-Îles.",
+                  "text": "Ein leuchtend gelbes Zelt, das als Gemeinschaftskunstraum in Îles Port dient.",
                   "category": "cultural",
                   "coords": [
                         -66.390284,
@@ -5439,7 +5439,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "petit théâtre",
-                  "text": "Petit théâtre ist ein kleines Theater in Sept-Îles.",
+                  "text": "Ein kleines Theater mit 50 Plätzen, in dem lokale Theaterstücke und Konzerte stattfinden.",
                   "category": "cultural",
                   "coords": [
                         -66.377148,
@@ -5448,7 +5448,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Salle de spectacle Jean-Marc Dion",
-                  "text": "Die Salle de spectacle Jean-Marc Dion ist ein Aufführungssaal in Sept-Îles.",
+                  "text": "Ein Veranstaltungssaal, benannt nach Jean-Marc Dion, mit Bühne und Soundsystem.",
                   "category": "cultural",
                   "coords": [
                         -66.376375,
@@ -5457,7 +5457,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Plage Monaghan",
-                  "text": "Plage Monaghan ist ein Strand in Sept-Îles.",
+                  "text": "Ein sandiger Strand mit roten Sandsteinklippen an der Nordküste von Îles Port.",
                   "category": "recreational",
                   "coords": [
                         -66.302627,
@@ -5466,7 +5466,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Belvédère Routhier",
-                  "text": "Belvédère Routhier ist ein Aussichtspunkt in Sept-Îles.",
+                  "text": "Ein nach Routhier benannter Aussichtspunkt mit Panoramablick auf den Hafen.",
                   "category": "natural",
                   "coords": [
                         -66.270947,
@@ -5475,7 +5475,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Vieux-Poste de Traite",
-                  "text": "Der Vieux-Poste de Traite ist ein Museum, das einen alten Handelsposten zeigt.",
+                  "text": "Ein restaurierter Pelzhandelsposten aus dem 19. Jahrhundert mit originalen Blockwänden.",
                   "category": "museum",
                   "coords": [
                         -66.403049,
@@ -5484,7 +5484,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Shaputuan",
-                  "text": "Shaputuan ist ein Museum, das die Kultur der Innu zeigt.",
+                  "text": "Ein Museum in Îles Port, das die Kultur der Innu mit traditionellen Artefakten und einem Langhaus zeigt.",
                   "category": "museum",
                   "coords": [
                         -66.39248,
@@ -5493,7 +5493,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc Holliday",
-                  "text": "Der Parc Holliday ist ein Park in Sept-Îles.",
+                  "text": "Park namens Holliday in Iles Port.",
                   "category": "park",
                   "coords": [
                         -66.362684,
@@ -5504,7 +5504,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Belvédère du Lac d'Aigle",
-                  "text": "A Belvédère du Lac d'Aigle egy kilátó a Lac d'Aigle-nél.",
+                  "text": "Kilátó a Lac d’Aigle felett, sziklákkal és fenyvesekkel körülvéve.",
                   "category": "natural",
                   "coords": [
                         -66.323158,
@@ -5513,7 +5513,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "belevédère",
-                  "text": "A Belevédère egy kilátóhely Sept-Îles-ben.",
+                  "text": "Fából készült kilátó platform az Îles Port part menti dűnéin.",
                   "category": "natural",
                   "coords": [
                         -66.44894,
@@ -5522,7 +5522,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "belvédère",
-                  "text": "A Belvédère egy kilátóhely Sept-Îles-ben.",
+                  "text": "Kőből készült kilátó a sziget legmagasabb pontján, a tengerre néző kilátással.",
                   "category": "natural",
                   "coords": [
                         -66.453024,
@@ -5531,7 +5531,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "La Tente Jaune",
-                  "text": "A La Tente Jaune egy színház Sept-Îles-ben.",
+                  "text": "Egy élénksárga sátor, amely közösségi művészeti térként szolgál Îles Portban.",
                   "category": "cultural",
                   "coords": [
                         -66.390284,
@@ -5540,7 +5540,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "petit théâtre",
-                  "text": "A Petit théâtre egy kicsi színház Sept-Îles-ben.",
+                  "text": "Egy 50 férőhelyes kis színház, amely helyi előadásoknak és koncerteknek ad otthont.",
                   "category": "cultural",
                   "coords": [
                         -66.377148,
@@ -5549,7 +5549,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Salle de spectacle Jean-Marc Dion",
-                  "text": "A Salle de spectacle Jean-Marc Dion egy előadóterem Sept-Îles-ben.",
+                  "text": "Jean-Marc Dionról elnevezett előadóterem színpaddal és hangrendszerrel.",
                   "category": "cultural",
                   "coords": [
                         -66.376375,
@@ -5558,7 +5558,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Plage Monaghan",
-                  "text": "A Plage Monaghan egy strand Sept-Îles-ben.",
+                  "text": "Homokos strand vörös homokkő sziklákkal Îles Port északi partján.",
                   "category": "recreational",
                   "coords": [
                         -66.302627,
@@ -5567,7 +5567,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Belvédère Routhier",
-                  "text": "A Belvédère Routhier egy kilátóhely Sept-Îles-ben.",
+                  "text": "Routhierről elnevezett kilátó, panorámás kilátással a kikötőre.",
                   "category": "natural",
                   "coords": [
                         -66.270947,
@@ -5576,7 +5576,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Vieux-Poste de Traite",
-                  "text": "A Vieux-Poste de Traite egy múzeum, amely egy régi kereskedelmi állomást mutat be.",
+                  "text": "Egy 19. századi, helyreállított szőrme-kereskedő állomás, eredeti rönkfalakkal.",
                   "category": "museum",
                   "coords": [
                         -66.403049,
@@ -5585,7 +5585,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Shaputuan",
-                  "text": "A Shaputuan egy múzeum, amely az innu kultúrát mutatja be.",
+                  "text": "Egy múzeum Îles Portban, amely az Innu kultúrát mutatja be hagyományos tárgyakkal és egy hosszúházzal.",
                   "category": "museum",
                   "coords": [
                         -66.39248,
@@ -5594,7 +5594,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc Holliday",
-                  "text": "A Parc Holliday egy park Sept-Îles-ben.",
+                  "text": "Holliday nevű park az Iles Portban.",
                   "category": "park",
                   "coords": [
                         -66.362684,
@@ -5605,7 +5605,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Belvédère du Lac d'Aigle",
-                  "text": "Belvédère du Lac d'Aigle este un punct de belvedere lângă Lac d'Aigle.",
+                  "text": "Un punct de belvedere deasupra Lac d’Aigle, înconjurat de stânci și păduri de pini.",
                   "category": "natural",
                   "coords": [
                         -66.323158,
@@ -5614,7 +5614,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "belevédère",
-                  "text": "Belevédère este un punct de belvedere în Sept-Îles.",
+                  "text": "O platformă de observație din lemn pe dunele de coastă din Îles Port.",
                   "category": "natural",
                   "coords": [
                         -66.44894,
@@ -5623,7 +5623,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "belvédère",
-                  "text": "Belvédère este un punct de belvedere în Sept-Îles.",
+                  "text": "Un punct de belvedere din piatră pe cel mai înalt punct al insulei, privind spre mare.",
                   "category": "natural",
                   "coords": [
                         -66.453024,
@@ -5632,7 +5632,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "La Tente Jaune",
-                  "text": "La Tente Jaune este un teatru în Sept-Îles.",
+                  "text": "Un cort galben strălucitor, folosit ca spațiu artistic comunitar în Îles Port.",
                   "category": "cultural",
                   "coords": [
                         -66.390284,
@@ -5641,7 +5641,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "petit théâtre",
-                  "text": "Petit théâtre este un teatru mic în Sept-Îles.",
+                  "text": "Un mic teatru cu 50 de locuri, care găzduiește piese de teatru locale și concerte.",
                   "category": "cultural",
                   "coords": [
                         -66.377148,
@@ -5650,7 +5650,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Salle de spectacle Jean-Marc Dion",
-                  "text": "Sala de spectacole Jean-Marc Dion este o sală de spectacole în Sept-Îles.",
+                  "text": "O sală de spectacole numită după Jean-Marc Dion, cu scenă și sistem audio.",
                   "category": "cultural",
                   "coords": [
                         -66.376375,
@@ -5659,7 +5659,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Plage Monaghan",
-                  "text": "Plage Monaghan este o plajă în Sept-Îles.",
+                  "text": "O plajă nisipoasă cu stânci de gresie roșie pe coasta de nord a Îles Port.",
                   "category": "recreational",
                   "coords": [
                         -66.302627,
@@ -5668,7 +5668,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Belvédère Routhier",
-                  "text": "Belvédère Routhier este un punct de belvedere în Sept-Îles.",
+                  "text": "Un punct de belvedere numit după Routhier, oferind o panoramă a portului.",
                   "category": "natural",
                   "coords": [
                         -66.270947,
@@ -5677,7 +5677,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Vieux-Poste de Traite",
-                  "text": "Vieux-Poste de Traite este un muzeu care prezintă un vechi post de comerț.",
+                  "text": "Un post de comerț cu blănuri restaurat din secolul al XIX-lea, cu pereți din bușteni originali.",
                   "category": "museum",
                   "coords": [
                         -66.403049,
@@ -5686,7 +5686,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Shaputuan",
-                  "text": "Shaputuan este un muzeu care prezintă cultura Innu.",
+                  "text": "Un muzeu în Îles Port care prezintă cultura Innu cu artefacte tradiționale și o casă lungă.",
                   "category": "museum",
                   "coords": [
                         -66.39248,
@@ -5695,7 +5695,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc Holliday",
-                  "text": "Parc Holliday este un parc din Sept-Îles.",
+                  "text": "Parcul numit Holliday din Iles Port.",
                   "category": "park",
                   "coords": [
                         -66.362684,
@@ -5706,7 +5706,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Belvédère du Lac d'Aigle",
-                  "text": "Belvédère du Lac d'Aigle is a viewpoint at Eagle Lake.",
+                  "text": "A scenic overlook of Lac d’Aigle, surrounded by cliffs and pine forests.",
                   "category": "natural",
                   "coords": [
                         -66.323158,
@@ -5715,7 +5715,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "belevédère",
-                  "text": "Belevédère is a viewpoint in Sept-Îles.",
+                  "text": "A wooden viewing platform on the coastal dunes of Îles Port.",
                   "category": "natural",
                   "coords": [
                         -66.44894,
@@ -5724,7 +5724,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "belvédère",
-                  "text": "Belvédère is a viewpoint in Sept-Îles.",
+                  "text": "A stone lookout at the island’s highest point, offering sea views.",
                   "category": "natural",
                   "coords": [
                         -66.453024,
@@ -5733,7 +5733,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "La Tente Jaune",
-                  "text": "La Tente Jaune is a theatre in Sept-Îles.",
+                  "text": "A bright yellow tent used as a community art space in Îles Port.",
                   "category": "cultural",
                   "coords": [
                         -66.390284,
@@ -5742,7 +5742,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "petit théâtre",
-                  "text": "Petit théâtre is a small theatre in Sept-Îles.",
+                  "text": "A small theater with 50 seats, hosting local plays and concerts.",
                   "category": "cultural",
                   "coords": [
                         -66.377148,
@@ -5751,7 +5751,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Salle de spectacle Jean-Marc Dion",
-                  "text": "Salle de spectacle Jean-Marc Dion is a performance hall in Sept-Îles.",
+                  "text": "A performance hall named after Jean-Marc Dion, featuring a stage and sound system.",
                   "category": "cultural",
                   "coords": [
                         -66.376375,
@@ -5760,7 +5760,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Plage Monaghan",
-                  "text": "Plage Monaghan is a beach in Sept-Îles.",
+                  "text": "A sandy beach with red sandstone cliffs on the north coast of Îles Port.",
                   "category": "recreational",
                   "coords": [
                         -66.302627,
@@ -5769,7 +5769,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Belvédère Routhier",
-                  "text": "Belvédère Routhier is a viewpoint in Sept-Îles.",
+                  "text": "A viewpoint named after Routhier, offering a panorama of the harbor.",
                   "category": "natural",
                   "coords": [
                         -66.270947,
@@ -5778,7 +5778,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Vieux-Poste de Traite",
-                  "text": "Vieux-Poste de Traite is a museum depicting an old trading post.",
+                  "text": "A restored 19th-century fur trading post with original log walls.",
                   "category": "museum",
                   "coords": [
                         -66.403049,
@@ -5787,7 +5787,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Shaputuan",
-                  "text": "Shaputuan is a museum showcasing Innu culture.",
+                  "text": "A museum in Îles Port showcasing Innu culture with traditional artifacts and a longhouse.",
                   "category": "museum",
                   "coords": [
                         -66.39248,
@@ -5796,7 +5796,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Parc Holliday",
-                  "text": "Parc Holliday is a park in Sept-Îles.",
+                  "text": "Park named Holliday in Iles Port.",
                   "category": "park",
                   "coords": [
                         -66.362684,
@@ -5844,7 +5844,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Hospital Beach",
-                  "text": "Ein Strand in der Nähe des Krankenhauses in Kitimat.",
+                  "text": "Ein Strand neben dem ehemaligen Krankenhaus, heute ein öffentliches Schwimmbad in Lng.",
                   "category": "recreational",
                   "coords": [
                         -128.696464,
@@ -5853,7 +5853,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Sunset view",
-                  "text": "Ein Aussichtspunkt zum Sonnenuntergang in Kitimat.",
+                  "text": "Ein felsiger Aussichtspunkt über dem Tal in Lng, beliebt für Sonnenuntergänge.",
                   "category": "natural",
                   "coords": [
                         -128.628255,
@@ -5862,7 +5862,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Fire Mountain Hiking Trail",
-                  "text": "Ein Wanderweg in Kitimat.",
+                  "text": "Ein steiler Wanderweg auf den Fire Mountain, vorbei an altem Wald und einem Wasserfall.",
                   "category": "landmark",
                   "coords": [
                         -128.602953,
@@ -5871,7 +5871,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Giant Sitka Spruce",
-                  "text": "Eine große alte Sitka-Fichte in Kitimat.",
+                  "text": "Eine uralte Sitka-Fichte, einer der größten Bäume dieser Art in der Region Lng.",
                   "category": "landmark",
                   "coords": [
                         -128.680593,
@@ -5880,7 +5880,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Kitimat Centennial Museum",
-                  "text": "Ein Museum, das die Geschichte und Kultur von Kitimat zeigt.",
+                  "text": "Ein Museum in Lng, das die Industrie- und indigene Geschichte des Kitimat-Gebiets dokumentiert.",
                   "category": "museum",
                   "coords": [
                         -128.653171,
@@ -5889,7 +5889,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Wading Pool",
-                  "text": "Ein flaches Planschbecken für Kinder in Kitimat.",
+                  "text": "Ein flaches Betonbecken in Lng mit einem Springbrunnen für Kleinkinder.",
                   "category": "recreational",
                   "coords": [
                         -128.663785,
@@ -5898,7 +5898,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Kitimat River Provincial Park",
-                  "text": "Ein Provinzpark, der den Kitimat River und den umliegenden Wald schützt.",
+                  "text": "Ein Schutzgebiet entlang des Kitimat River mit Lachsfeldern und Regenwald.",
                   "category": "natural",
                   "coords": [
                         -128.606419,
@@ -5909,7 +5909,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Hospital Beach",
-                  "text": "Egy strand a kórház közelében Kitimatban.",
+                  "text": "Strand a volt kórház mellett, ma nyilvános fürdőhely Lngben.",
                   "category": "recreational",
                   "coords": [
                         -128.696464,
@@ -5918,7 +5918,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Sunset view",
-                  "text": "Egy naplemente megfigyelőpont Kitimatban.",
+                  "text": "Egy sziklás kilátó a völgy felett Lngben, népszerű naplementékhez.",
                   "category": "natural",
                   "coords": [
                         -128.628255,
@@ -5927,7 +5927,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Fire Mountain Hiking Trail",
-                  "text": "Egy túraútvonal Kitimatban.",
+                  "text": "Egy meredek túraút a Fire Mountainre, idős erdőn és egy vízesés mellett.",
                   "category": "landmark",
                   "coords": [
                         -128.602953,
@@ -5936,7 +5936,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Giant Sitka Spruce",
-                  "text": "Egy hatalmas őserdei sitka lucfenyő Kitimatban.",
+                  "text": "Egy ősi sitka lucfenyő, a legnagyobb ilyen fajok egyike Lng régiójában.",
                   "category": "landmark",
                   "coords": [
                         -128.680593,
@@ -5945,7 +5945,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Kitimat Centennial Museum",
-                  "text": "A Kitimat történelmét és kultúráját bemutató múzeum.",
+                  "text": "Egy múzeum Lngben, amely a Kitimat régió ipari és bennszülött történelmét mutatja be.",
                   "category": "museum",
                   "coords": [
                         -128.653171,
@@ -5954,7 +5954,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Wading Pool",
-                  "text": "Egy sekély gyermekmedence Kitimatban.",
+                  "text": "Egy sekély betonmedence Lngben szökőkúttal kisgyermekek számára.",
                   "category": "recreational",
                   "coords": [
                         -128.663785,
@@ -5963,7 +5963,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Kitimat River Provincial Park",
-                  "text": "Egy tartományi park, amely védi a Kitimat folyót és a környező erdőt.",
+                  "text": "Védett terület a Kitimat folyó mentén, lazacívóhelyekkel és esőerdővel.",
                   "category": "natural",
                   "coords": [
                         -128.606419,
@@ -5974,7 +5974,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Hospital Beach",
-                  "text": "O plajă lângă spitalul din Kitimat.",
+                  "text": "O plajă adiacentă fostului spital, acum o zonă publică de înot în Lng.",
                   "category": "recreational",
                   "coords": [
                         -128.696464,
@@ -5983,7 +5983,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Sunset view",
-                  "text": "Un punct de belvedere pentru apus în Kitimat.",
+                  "text": "Un punct de belvedere stâncos deasupra văii din Lng, popular pentru apusuri.",
                   "category": "natural",
                   "coords": [
                         -128.628255,
@@ -5992,7 +5992,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Fire Mountain Hiking Trail",
-                  "text": "Un traseu de drumeție în Kitimat.",
+                  "text": "Un traseu abrupt pe Muntele Fire, traversând păduri bătrâne și o cascadă.",
                   "category": "landmark",
                   "coords": [
                         -128.602953,
@@ -6001,7 +6001,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Giant Sitka Spruce",
-                  "text": "Un brad Sitka bătrân și uriaș în Kitimat.",
+                  "text": "Un brad Sitka străvechi, unul dintre cei mai mari copaci de acest fel din regiunea Lng.",
                   "category": "landmark",
                   "coords": [
                         -128.680593,
@@ -6010,7 +6010,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Kitimat Centennial Museum",
-                  "text": "Un muzeu care prezintă istoria și cultura din Kitimat.",
+                  "text": "Un muzeu în Lng care documentează istoria industrială și indigenă a zonei Kitimat.",
                   "category": "museum",
                   "coords": [
                         -128.653171,
@@ -6019,7 +6019,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Wading Pool",
-                  "text": "O piscină mică pentru copii în Kitimat.",
+                  "text": "Un bazin de beton puțin adânc în Lng, cu o fântână arteziană pentru copii mici.",
                   "category": "recreational",
                   "coords": [
                         -128.663785,
@@ -6028,7 +6028,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Kitimat River Provincial Park",
-                  "text": "Un parc provincial care protejează râul Kitimat și pădurea înconjurătoare.",
+                  "text": "O arie protejată de-a lungul râului Kitimat, cu zone de depunere a icrelor de somon și pădure tropicală.",
                   "category": "natural",
                   "coords": [
                         -128.606419,
@@ -6039,7 +6039,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Hospital Beach",
-                  "text": "A beach located near the hospital in Kitimat.",
+                  "text": "A beach adjacent to the former hospital, now a public swimming area in Lng.",
                   "category": "recreational",
                   "coords": [
                         -128.696464,
@@ -6048,7 +6048,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Sunset view",
-                  "text": "A viewpoint for watching the sunset in Kitimat.",
+                  "text": "A rocky overlook above the valley in Lng, popular for sunset views.",
                   "category": "natural",
                   "coords": [
                         -128.628255,
@@ -6057,7 +6057,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Fire Mountain Hiking Trail",
-                  "text": "A hiking trail in Kitimat.",
+                  "text": "A steep hiking trail up Fire Mountain, passing old-growth forest and a waterfall.",
                   "category": "landmark",
                   "coords": [
                         -128.602953,
@@ -6066,7 +6066,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Giant Sitka Spruce",
-                  "text": "A large old-growth Sitka spruce tree in Kitimat.",
+                  "text": "A giant Sitka spruce, one of the largest of its kind in the Lng region.",
                   "category": "landmark",
                   "coords": [
                         -128.680593,
@@ -6075,7 +6075,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Kitimat Centennial Museum",
-                  "text": "A museum showcasing the history and culture of Kitimat.",
+                  "text": "A museum in Lng chronicling the industrial and indigenous history of the Kitimat area.",
                   "category": "museum",
                   "coords": [
                         -128.653171,
@@ -6084,7 +6084,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Wading Pool",
-                  "text": "A shallow wading pool for children in Kitimat.",
+                  "text": "A shallow concrete wading pool in Lng with a fountain for young children.",
                   "category": "recreational",
                   "coords": [
                         -128.663785,
@@ -6093,7 +6093,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Kitimat River Provincial Park",
-                  "text": "A provincial park protecting the Kitimat River and surrounding forest.",
+                  "text": "A protected area along the Kitimat River featuring salmon spawning grounds and rainforest.",
                   "category": "natural",
                   "coords": [
                         -128.606419,
@@ -6159,7 +6159,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Michigan Science Center",
-                  "text": "Ein Wissenschaftsmuseum in windsor-assembly-plant-economic-v2 mit interaktiven Ausstellungen.",
+                  "text": "Ein interaktives Wissenschaftsmuseum mit Planetarium im ehemaligen Assembly Plant.",
                   "category": "museum",
                   "coords": [
                         -83.061984,
@@ -6195,7 +6195,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Detroit Historical Museum",
-                  "text": "Ein Museum in windsor-assembly-plant-economic-v2, das die Geschichte von Detroit darstellt.",
+                  "text": "Ein Museum, das Detroits Geschichte von der Pelzhandelszeit bis zur Autoindustrie zeigt.",
                   "category": "museum",
                   "coords": [
                         -83.067235,
@@ -6231,7 +6231,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "City Theatre",
-                  "text": "Ein kleines Theater in windsor-assembly-plant-economic-v2.",
+                  "text": "2004 eröffnet, befindet sich dieses Veranstaltungszentrum im Assembly Plant Viertel von Detroit.",
                   "category": "cultural",
                   "coords": [
                         -83.052771,
@@ -6240,7 +6240,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Century Theatre",
-                  "text": "Ein historisches Theater in windsor-assembly-plant-economic-v2.",
+                  "text": "Ein historisches Theater aus dem Jahr 1907 mit einer opulenten Innenausstattung im Assembly Plant.",
                   "category": "cultural",
                   "coords": [
                         -83.046264,
@@ -6249,7 +6249,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Gem Theatre",
-                  "text": "Ein historisches Theater in windsor-assembly-plant-economic-v2.",
+                  "text": "Ein ehemaliges Kino aus den 1920er Jahren, heute ein Veranstaltungsort im Assembly Plant.",
                   "category": "cultural",
                   "coords": [
                         -83.04627,
@@ -6258,7 +6258,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "St. Charles Borromeo Roman Catholic Church",
-                  "text": "Eine historische katholische Kirche in windsor-assembly-plant-economic-v2.",
+                  "text": "Eine römisch-katholische Kirche mit neugotischer Architektur im Assembly Plant.",
                   "category": "religious",
                   "coords": [
                         -83.002007,
@@ -6267,7 +6267,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Spiritual Israel Church and Its Army",
-                  "text": "Ein historisches Kirchengebäude in windsor-assembly-plant-economic-v2.",
+                  "text": "Ein Tempel der Spiritual Israel Church and Its Army mit markanter Fassade im Assembly Plant.",
                   "category": "religious",
                   "coords": [
                         -82.986931,
@@ -6285,7 +6285,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Spirit of Hope",
-                  "text": "Eine historische Episkopalkirche in windsor-assembly-plant-economic-v2.",
+                  "text": "Eine ehemalige Trinity Episcopal Church, heute als Spirit of Hope bekannt, im Assembly Plant.",
                   "category": "religious",
                   "coords": [
                         -83.073021,
@@ -6294,7 +6294,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bonstelle Theater (Temple Beth El)",
-                  "text": "Ein Theater in windsor-assembly-plant-economic-v2, ursprünglich eine Synagoge.",
+                  "text": "Ein Theater, das ursprünglich als Synagoge (Temple Beth El) erbaut wurde, im Assembly Plant.",
                   "category": "cultural",
                   "coords": [
                         -83.056516,
@@ -6303,7 +6303,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Cass Community United Methodist Church",
-                  "text": "Eine historische methodistische Kirche in windsor-assembly-plant-economic-v2.",
+                  "text": "Eine methodistische Kirche mit romanischen Bögen im Assembly Plant.",
                   "category": "religious",
                   "coords": [
                         -83.062702,
@@ -6312,7 +6312,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Majestic Theatre",
-                  "text": "Das älteste bestehende Theater in windsor-assembly-plant-economic-v2.",
+                  "text": "Ein historisches Theater aus dem Jahr 1914 mit viktorianischem Dekor im Assembly Plant.",
                   "category": "cultural",
                   "coords": [
                         -83.060111,
@@ -6321,7 +6321,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "First Presbyterian Church",
-                  "text": "Die First Presbyterian Church ist ein Gotteshaus in Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "Eine presbyterianische Kirche mit einem beeindruckenden Rosettenfenster im Assembly Plant.",
                   "category": "religious",
                   "coords": [
                         -83.05514,
@@ -6330,7 +6330,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Central United Methodist Church",
-                  "text": "Die Central United Methodist Church ist eine Kirche in Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "Eine methodistische Kirche im gotischen Stil mit einer großen Orgel im Assembly Plant.",
                   "category": "religious",
                   "coords": [
                         -83.050474,
@@ -6339,7 +6339,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Isaac Agree Downtown Synagogue",
-                  "text": "Die Isaac Agree Downtown Synagoge ist eine Synagoge in Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "Die einzige Synagoge im Stadtzentrum, ein historisches Gebäude im Assembly Plant.",
                   "category": "religious",
                   "coords": [
                         -83.050143,
@@ -6348,7 +6348,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Detroit Opera House",
-                  "text": "Das Detroit Opera House ist ein Theater in Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "Ein prachtvolles Opernhaus im Stil der italienischen Renaissance aus dem Jahr 1922.",
                   "category": "cultural",
                   "coords": [
                         -83.048816,
@@ -6357,7 +6357,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Fort Street Presbyterian Church",
-                  "text": "Die Fort Street Presbyterian Church ist ein Gotteshaus in Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "Eine presbyterianische Kirche mit neugotischem Turm im Assembly Plant.",
                   "category": "religious",
                   "coords": [
                         -83.053749,
@@ -6366,7 +6366,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Saints Peter & Paul Jesuit Church",
-                  "text": "Die Saints Peter & Paul Jesuit Church ist eine katholische Kirche in Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "Eine Jesuitenkirche aus dem 19. Jahrhundert im Assembly Plant.",
                   "category": "religious",
                   "coords": [
                         -83.038261,
@@ -6375,7 +6375,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Saint Andrew's Hall",
-                  "text": "Die Saint Andrew's Hall ist ein Veranstaltungsort in Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "Ein ehemaliges schottisches Gesellschaftshaus, heute Konzertlocation im Assembly Plant.",
                   "category": "cultural",
                   "coords": [
                         -83.041597,
@@ -6384,7 +6384,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Christ Church, Detroit",
-                  "text": "Christ Church, Detroit ist eine Kirche in Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "Eine episkopale Kirche mit einer markanten Kuppel im Assembly Plant.",
                   "category": "religious",
                   "coords": [
                         -83.034918,
@@ -6393,7 +6393,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Saint John and Saint Luke United Church of Christ",
-                  "text": "Die Saint John and Saint Luke United Church of Christ ist eine Kirche in Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "Eine vereinte Kirche mit neugotischen Elementen im Assembly Plant.",
                   "category": "religious",
                   "coords": [
                         -83.038032,
@@ -6402,7 +6402,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "The Cathedral Church of Saint Paul",
-                  "text": "Die Cathedral Church of Saint Paul ist eine Kathedrale in Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "Die episkopale Kathedrale von Detroit mit einer großen Rosette im Assembly Plant.",
                   "category": "religious",
                   "coords": [
                         -83.063274,
@@ -6411,7 +6411,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Our Lady of the Rosary Catholic Church",
-                  "text": "Die Our Lady of the Rosary Catholic Church ist eine katholische Kirche in Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "Eine katholische Kirche mit einer Marienstatue vor dem Altar im Assembly Plant.",
                   "category": "religious",
                   "coords": [
                         -83.068863,
@@ -6420,7 +6420,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "WDET-FM (Detroit)",
-                  "text": "WDET-FM ist ein Radiosendemast in Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "Der Sendemast des öffentlichen Radiosenders WDET im Assembly Plant.",
                   "category": "tower",
                   "coords": [
                         -83.063089,
@@ -6429,7 +6429,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Heidelberg Project",
-                  "text": "Das Heidelberg Project ist eine Kunstinstallation in Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "Eine Open-Air-Kunstinstallation aus bunten Häusern und Skulpturen im Assembly Plant.",
                   "category": "landmark",
                   "coords": [
                         -83.021502,
@@ -6438,7 +6438,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "WGPR-FM (Detroit)",
-                  "text": "WGPR-FM ist ein Fernsehsendemast in Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "Der Sendemast des historischen WGPR-Radiosenders im Assembly Plant.",
                   "category": "tower",
                   "coords": [
                         -83.065318,
@@ -6456,7 +6456,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Anna Scripps Whitcomb Conservatory",
-                  "text": "Der Anna Scripps Whitcomb Conservatory ist ein Gewächshaus auf Belle Isle in Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "Ein botanischer Garten mit einer Glaskuppel auf Belle Isle im Assembly Plant.",
                   "category": "landmark",
                   "coords": [
                         -82.985551,
@@ -6465,7 +6465,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Willistead Manor",
-                  "text": "Willistead Manor ist ein historisches Herrenhaus in Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "Ein Herrenhaus im Tudor-Stil aus dem Jahr 1906 mit umfangreichem Grundstück im Assembly Plant.",
                   "category": "landmark",
                   "coords": [
                         -83.010511,
@@ -6474,7 +6474,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Ambassador International Bridge",
-                  "text": "Die Ambassador International Bridge verbindet Detroit und Windsor in Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "1929 eröffnet, verbindet diese internationale Brücke Detroit mit Windsor und ist der meistbefahrene Grenzübergang Nordamerikas.",
                   "category": "landmark",
                   "coords": [
                         -83.074381,
@@ -6503,7 +6503,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Michigan Science Center",
-                  "text": "Egy tudományos múzeum windsor-assembly-plant-economic-v2-ben interaktív kiállításokkal.",
+                  "text": "Interaktív tudományos múzeum planetáriummal az egykori Assembly Plant területén.",
                   "category": "museum",
                   "coords": [
                         -83.061984,
@@ -6539,7 +6539,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Detroit Historical Museum",
-                  "text": "Egy múzeum windsor-assembly-plant-economic-v2-ben, amely Detroit történetét mutatja be.",
+                  "text": "Múzeum, amely Detroit történetét mutatja be a szőrmekereskedelmi időszaktól az autóiparig.",
                   "category": "museum",
                   "coords": [
                         -83.067235,
@@ -6575,7 +6575,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "City Theatre",
-                  "text": "Egy kis színház windsor-assembly-plant-economic-v2-ben.",
+                  "text": "2004-ben nyitották meg, ez az előadóművészeti helyszín Detroit Assembly Plant negyedében található.",
                   "category": "cultural",
                   "coords": [
                         -83.052771,
@@ -6584,7 +6584,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Century Theatre",
-                  "text": "Egy történelmi színház windsor-assembly-plant-economic-v2-ben.",
+                  "text": "Egy 1907-ben épült történelmi színház gazdag belső térrel az Assembly Plant területén.",
                   "category": "cultural",
                   "coords": [
                         -83.046264,
@@ -6593,7 +6593,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Gem Theatre",
-                  "text": "Egy történelmi színház windsor-assembly-plant-economic-v2-ben.",
+                  "text": "Egy 1920-as évekbeli mozi, ma rendezvényhelyszín az Assembly Plant területén.",
                   "category": "cultural",
                   "coords": [
                         -83.04627,
@@ -6602,7 +6602,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "St. Charles Borromeo Roman Catholic Church",
-                  "text": "Egy történelmi katolikus templom windsor-assembly-plant-economic-v2-ben.",
+                  "text": "Neogótikus építészetű római katolikus templom az Assembly Plant területén.",
                   "category": "religious",
                   "coords": [
                         -83.002007,
@@ -6611,7 +6611,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Spiritual Israel Church and Its Army",
-                  "text": "Egy történelmi templomépület windsor-assembly-plant-economic-v2-ben.",
+                  "text": "A Spiritual Israel Church and Its Army temploma jellegzetes homlokzattal az Assembly Plant területén.",
                   "category": "religious",
                   "coords": [
                         -82.986931,
@@ -6629,7 +6629,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Spirit of Hope",
-                  "text": "Egy történelmi episzkopális templom windsor-assembly-plant-economic-v2-ben.",
+                  "text": "Egykori Trinity Episcopal Church, ma Spirit of Hope néven ismert, az Assembly Plant területén.",
                   "category": "religious",
                   "coords": [
                         -83.073021,
@@ -6638,7 +6638,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bonstelle Theater (Temple Beth El)",
-                  "text": "Egy színház windsor-assembly-plant-economic-v2-ben, eredetileg zsinagóga.",
+                  "text": "Egy színház, amely eredetileg zsinagógaként (Temple Beth El) épült, az Assembly Plant területén.",
                   "category": "cultural",
                   "coords": [
                         -83.056516,
@@ -6647,7 +6647,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Cass Community United Methodist Church",
-                  "text": "Egy történelmi metodista templom windsor-assembly-plant-economic-v2-ben.",
+                  "text": "Metodista templom román ívekkel az Assembly Plant területén.",
                   "category": "religious",
                   "coords": [
                         -83.062702,
@@ -6656,7 +6656,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Majestic Theatre",
-                  "text": "A legrégebbi fennálló színház windsor-assembly-plant-economic-v2-ben.",
+                  "text": "Egy 1914-ben épült történelmi színház viktoriánus díszítéssel az Assembly Plant területén.",
                   "category": "cultural",
                   "coords": [
                         -83.060111,
@@ -6665,7 +6665,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "First Presbyterian Church",
-                  "text": "A First Presbyterian Church egy istentiszteleti hely Windsor-Assembly-Plant-Economic-v2-ben.",
+                  "text": "Presbiteriánus templom lenyűgöző rózsaablakkal az Assembly Plant területén.",
                   "category": "religious",
                   "coords": [
                         -83.05514,
@@ -6674,7 +6674,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Central United Methodist Church",
-                  "text": "A Central United Methodist Church egy templom Windsor-Assembly-Plant-Economic-v2-ben.",
+                  "text": "Gótikus stílusú metodista templom nagy orgonával az Assembly Plant területén.",
                   "category": "religious",
                   "coords": [
                         -83.050474,
@@ -6683,7 +6683,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Isaac Agree Downtown Synagogue",
-                  "text": "Az Isaac Agree Downtown Synagogue egy zsinagóga Windsor-Assembly-Plant-Economic-v2-ben.",
+                  "text": "Az egyetlen zsinagóga a belvárosban, egy történelmi épület az Assembly Plant területén.",
                   "category": "religious",
                   "coords": [
                         -83.050143,
@@ -6692,7 +6692,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Detroit Opera House",
-                  "text": "A Detroit Opera House egy színház Windsor-Assembly-Plant-Economic-v2-ben.",
+                  "text": "Egy 1922-ből származó díszes operaház olasz reneszánsz stílusban.",
                   "category": "cultural",
                   "coords": [
                         -83.048816,
@@ -6701,7 +6701,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Fort Street Presbyterian Church",
-                  "text": "A Fort Street Presbyterian Church egy istentiszteleti hely Windsor-Assembly-Plant-Economic-v2-ben.",
+                  "text": "Presbiteriánus templom neogótikus toronnyal az Assembly Plant területén.",
                   "category": "religious",
                   "coords": [
                         -83.053749,
@@ -6710,7 +6710,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Saints Peter & Paul Jesuit Church",
-                  "text": "A Saints Peter & Paul Jesuit Church egy katolikus templom Windsor-Assembly-Plant-Economic-v2-ben.",
+                  "text": "Egy 19. századi jezsuita templom az Assembly Plant területén.",
                   "category": "religious",
                   "coords": [
                         -83.038261,
@@ -6719,7 +6719,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Saint Andrew's Hall",
-                  "text": "A Saint Andrew's Hall egy rendezvényhelyszín Windsor-Assembly-Plant-Economic-v2-ben.",
+                  "text": "Egykori skót társasági ház, ma koncerthelyszín az Assembly Plant területén.",
                   "category": "cultural",
                   "coords": [
                         -83.041597,
@@ -6728,7 +6728,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Christ Church, Detroit",
-                  "text": "A Christ Church, Detroit egy templom Windsor-Assembly-Plant-Economic-v2-ben.",
+                  "text": "Episzkopális templom jellegzetes kupolával az Assembly Plant területén.",
                   "category": "religious",
                   "coords": [
                         -83.034918,
@@ -6737,7 +6737,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Saint John and Saint Luke United Church of Christ",
-                  "text": "A Saint John and Saint Luke United Church of Christ egy templom Windsor-Assembly-Plant-Economic-v2-ben.",
+                  "text": "Egyesült templom neogótikus elemekkel az Assembly Plant területén.",
                   "category": "religious",
                   "coords": [
                         -83.038032,
@@ -6746,7 +6746,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "The Cathedral Church of Saint Paul",
-                  "text": "A Cathedral Church of Saint Paul egy székesegyház Windsor-Assembly-Plant-Economic-v2-ben.",
+                  "text": "Detroit episzkopális székesegyháza nagy rózsaablakkal az Assembly Plant területén.",
                   "category": "religious",
                   "coords": [
                         -83.063274,
@@ -6755,7 +6755,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Our Lady of the Rosary Catholic Church",
-                  "text": "A Our Lady of the Rosary Catholic Church egy katolikus templom Windsor-Assembly-Plant-Economic-v2-ben.",
+                  "text": "Katolikus templom Szűz Mária-szoborral az oltár előtt az Assembly Plant területén.",
                   "category": "religious",
                   "coords": [
                         -83.068863,
@@ -6764,7 +6764,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "WDET-FM (Detroit)",
-                  "text": "A WDET-FM egy rádióadó-torony Windsor-Assembly-Plant-Economic-v2-ben.",
+                  "text": "A WDET közszolgálati rádió adótornya az Assembly Plant területén.",
                   "category": "tower",
                   "coords": [
                         -83.063089,
@@ -6773,7 +6773,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Heidelberg Project",
-                  "text": "A Heidelberg Project egy művészeti installáció Windsor-Assembly-Plant-Economic-v2-ben.",
+                  "text": "Színes házakból és szobrokból álló szabadtéri művészeti installáció az Assembly Plant területén.",
                   "category": "landmark",
                   "coords": [
                         -83.021502,
@@ -6782,7 +6782,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "WGPR-FM (Detroit)",
-                  "text": "A WGPR-FM egy televíziós adótorony Windsor-Assembly-Plant-Economic-v2-ben.",
+                  "text": "A történelmi WGPR rádió adótornya az Assembly Plant területén.",
                   "category": "tower",
                   "coords": [
                         -83.065318,
@@ -6800,7 +6800,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Anna Scripps Whitcomb Conservatory",
-                  "text": "Az Anna Scripps Whitcomb Conservatory egy üvegház a Belle Isle-on Windsor-Assembly-Plant-Economic-v2-ben.",
+                  "text": "Botanikus kert üvegkupolával a Belle Isle szigeten, Assembly Plant területén.",
                   "category": "landmark",
                   "coords": [
                         -82.985551,
@@ -6809,7 +6809,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Willistead Manor",
-                  "text": "A Willistead Manor egy történelmi kúria Windsor-Assembly-Plant-Economic-v2-ben.",
+                  "text": "Egy 1906-ban épült Tudor-stílusú kúria nagy birtokkal az Assembly Plant területén.",
                   "category": "landmark",
                   "coords": [
                         -83.010511,
@@ -6818,7 +6818,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Ambassador International Bridge",
-                  "text": "Az Ambassador International Bridge összeköti Detroitot és Windsort Windsor-Assembly-Plant-Economic-v2-ben.",
+                  "text": "1929-ben nyitották meg, ez a nemzetközi híd összeköti Detroitot Windsorral, és a legforgalmasabb határátkelő Észak-Amerikában.",
                   "category": "landmark",
                   "coords": [
                         -83.074381,
@@ -6847,7 +6847,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Michigan Science Center",
-                  "text": "Un muzeu de știință în windsor-assembly-plant-economic-v2 cu exponate interactive.",
+                  "text": "Un muzeu interactiv de știință cu planetariu în fosta Fabrică de Asamblare.",
                   "category": "museum",
                   "coords": [
                         -83.061984,
@@ -6883,7 +6883,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Detroit Historical Museum",
-                  "text": "Un muzeu în windsor-assembly-plant-economic-v2 care prezintă istoria orașului Detroit.",
+                  "text": "Un muzeu care prezintă istoria orașului Detroit de la epoca comerțului cu blănuri până la industria auto.",
                   "category": "museum",
                   "coords": [
                         -83.067235,
@@ -6919,7 +6919,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "City Theatre",
-                  "text": "Un teatru mic în windsor-assembly-plant-economic-v2.",
+                  "text": "Deschis în 2004, această sală de spectacole este situată în cartierul Assembly Plant din Detroit.",
                   "category": "cultural",
                   "coords": [
                         -83.052771,
@@ -6928,7 +6928,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Century Theatre",
-                  "text": "Un teatru istoric în windsor-assembly-plant-economic-v2.",
+                  "text": "Un teatru istoric din 1907 cu interioare opulente în Assembly Plant.",
                   "category": "cultural",
                   "coords": [
                         -83.046264,
@@ -6937,7 +6937,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Gem Theatre",
-                  "text": "Un teatru istoric în windsor-assembly-plant-economic-v2.",
+                  "text": "Un fost cinematograf din anii 1920, acum loc de evenimente în Assembly Plant.",
                   "category": "cultural",
                   "coords": [
                         -83.04627,
@@ -6946,7 +6946,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "St. Charles Borromeo Roman Catholic Church",
-                  "text": "O biserică catolică istorică în windsor-assembly-plant-economic-v2.",
+                  "text": "O biserică romano-catolică cu arhitectură neogotică în Assembly Plant.",
                   "category": "religious",
                   "coords": [
                         -83.002007,
@@ -6955,7 +6955,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Spiritual Israel Church and Its Army",
-                  "text": "O clădire istorică de biserică în windsor-assembly-plant-economic-v2.",
+                  "text": "Un templu al Spiritual Israel Church and Its Army cu fațadă distinctivă în Assembly Plant.",
                   "category": "religious",
                   "coords": [
                         -82.986931,
@@ -6973,7 +6973,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Spirit of Hope",
-                  "text": "O biserică episcopală istorică în windsor-assembly-plant-economic-v2.",
+                  "text": "Fosta biserică Trinity Episcopal, acum cunoscută ca Spirit of Hope, în Assembly Plant.",
                   "category": "religious",
                   "coords": [
                         -83.073021,
@@ -6982,7 +6982,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bonstelle Theater (Temple Beth El)",
-                  "text": "Un teatru în windsor-assembly-plant-economic-v2, inițial o sinagogă.",
+                  "text": "Un teatru construit inițial ca sinagogă (Temple Beth El) în Assembly Plant.",
                   "category": "cultural",
                   "coords": [
                         -83.056516,
@@ -6991,7 +6991,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Cass Community United Methodist Church",
-                  "text": "O biserică metodistă istorică în windsor-assembly-plant-economic-v2.",
+                  "text": "O biserică metodistă cu arcade romanice în Assembly Plant.",
                   "category": "religious",
                   "coords": [
                         -83.062702,
@@ -7000,7 +7000,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Majestic Theatre",
-                  "text": "Cel mai vechi teatru existent în windsor-assembly-plant-economic-v2.",
+                  "text": "Un teatru istoric din 1914 cu decorațiuni victoriene în Assembly Plant.",
                   "category": "cultural",
                   "coords": [
                         -83.060111,
@@ -7009,7 +7009,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "First Presbyterian Church",
-                  "text": "Biserica First Presbyterian este un lăcaș de cult în Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "O biserică prezbiteriană cu o impresionantă rozetă în Assembly Plant.",
                   "category": "religious",
                   "coords": [
                         -83.05514,
@@ -7018,7 +7018,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Central United Methodist Church",
-                  "text": "Biserica Central United Methodist este un lăcaș de cult în Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "O biserică metodistă în stil gotic cu o orgă mare în Assembly Plant.",
                   "category": "religious",
                   "coords": [
                         -83.050474,
@@ -7027,7 +7027,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Isaac Agree Downtown Synagogue",
-                  "text": "Sinagoga Isaac Agree Downtown este o sinagogă în Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "Singura sinagogă din centrul orașului, o clădire istorică în Assembly Plant.",
                   "category": "religious",
                   "coords": [
                         -83.050143,
@@ -7036,7 +7036,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Detroit Opera House",
-                  "text": "Detroit Opera House este un teatru în Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "O casă de operă somptuoasă în stil renascentist italian din 1922.",
                   "category": "cultural",
                   "coords": [
                         -83.048816,
@@ -7045,7 +7045,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Fort Street Presbyterian Church",
-                  "text": "Biserica Fort Street Presbyterian este un lăcaș de cult în Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "O biserică prezbiteriană cu un turn neogotic în Assembly Plant.",
                   "category": "religious",
                   "coords": [
                         -83.053749,
@@ -7054,7 +7054,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Saints Peter & Paul Jesuit Church",
-                  "text": "Biserica Saints Peter & Paul Jesuit este o biserică catolică în Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "O biserică iezuită din secolul al XIX-lea în Assembly Plant.",
                   "category": "religious",
                   "coords": [
                         -83.038261,
@@ -7063,7 +7063,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Saint Andrew's Hall",
-                  "text": "Sala Saint Andrew's este un loc de evenimente în Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "Fostă casă de întâlnire scoțiană, acum sală de concerte în Assembly Plant.",
                   "category": "cultural",
                   "coords": [
                         -83.041597,
@@ -7072,7 +7072,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Christ Church, Detroit",
-                  "text": "Christ Church, Detroit este o biserică în Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "O biserică episcopală cu o cupolă distinctivă în Assembly Plant.",
                   "category": "religious",
                   "coords": [
                         -83.034918,
@@ -7081,7 +7081,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Saint John and Saint Luke United Church of Christ",
-                  "text": "Biserica Saint John and Saint Luke United Church of Christ este un lăcaș de cult în Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "O biserică unită cu elemente neogotice în Assembly Plant.",
                   "category": "religious",
                   "coords": [
                         -83.038032,
@@ -7090,7 +7090,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "The Cathedral Church of Saint Paul",
-                  "text": "Catedrala Saint Paul este o catedrală în Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "Catedrala Episcopală din Detroit cu o rozetă mare în Assembly Plant.",
                   "category": "religious",
                   "coords": [
                         -83.063274,
@@ -7099,7 +7099,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Our Lady of the Rosary Catholic Church",
-                  "text": "Biserica Our Lady of the Rosary este o biserică catolică în Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "O biserică catolică cu o statute a Fecioarei Maria în fața altarului în Assembly Plant.",
                   "category": "religious",
                   "coords": [
                         -83.068863,
@@ -7108,7 +7108,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "WDET-FM (Detroit)",
-                  "text": "WDET-FM este un turn de emisie radio în Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "Turnul de transmisie al postului de radio public WDET în Assembly Plant.",
                   "category": "tower",
                   "coords": [
                         -83.063089,
@@ -7117,7 +7117,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Heidelberg Project",
-                  "text": "Heidelberg Project este o instalație artistică în Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "O instalație de artă în aer liber formată din case viu colorate și sculpturi în Assembly Plant.",
                   "category": "landmark",
                   "coords": [
                         -83.021502,
@@ -7126,7 +7126,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "WGPR-FM (Detroit)",
-                  "text": "WGPR-FM este un turn de emisie TV în Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "Turnul de transmisie al postului de radio istoric WGPR în Assembly Plant.",
                   "category": "tower",
                   "coords": [
                         -83.065318,
@@ -7144,7 +7144,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Anna Scripps Whitcomb Conservatory",
-                  "text": "Conservatorul Anna Scripps Whitcomb este o seră pe insula Belle Isle în Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "O grădină botanică cu o cupolă de sticlă pe Insula Belle Isle în Assembly Plant.",
                   "category": "landmark",
                   "coords": [
                         -82.985551,
@@ -7153,7 +7153,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Willistead Manor",
-                  "text": "Conacul Willistead este un conac istoric în Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "Un conac în stil Tudor din 1906 cu o proprietate vastă în Assembly Plant.",
                   "category": "landmark",
                   "coords": [
                         -83.010511,
@@ -7162,7 +7162,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Ambassador International Bridge",
-                  "text": "Podul Internațional Ambassador leagă Detroit de Windsor în Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "Deschis în 1929, acest pod internațional leagă Detroit de Windsor și este cea mai aglomerată trecere de frontieră din America de Nord.",
                   "category": "landmark",
                   "coords": [
                         -83.074381,
@@ -7191,7 +7191,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Michigan Science Center",
-                  "text": "A science museum in windsor-assembly-plant-economic-v2 featuring interactive exhibits.",
+                  "text": "An interactive science museum with a planetarium in the former Assembly Plant.",
                   "category": "museum",
                   "coords": [
                         -83.061984,
@@ -7227,7 +7227,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Detroit Historical Museum",
-                  "text": "A museum in windsor-assembly-plant-economic-v2 presenting the history of Detroit.",
+                  "text": "A museum tracing Detroit's history from the fur trade era to the auto industry.",
                   "category": "museum",
                   "coords": [
                         -83.067235,
@@ -7263,7 +7263,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "City Theatre",
-                  "text": "A small theatre in windsor-assembly-plant-economic-v2.",
+                  "text": "Opened in 2004, this performing arts venue is located in the Assembly Plant district of Detroit.",
                   "category": "cultural",
                   "coords": [
                         -83.052771,
@@ -7272,7 +7272,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Century Theatre",
-                  "text": "A historic theatre in windsor-assembly-plant-economic-v2.",
+                  "text": "A historic 1907 theatre with opulent interiors in the Assembly Plant.",
                   "category": "cultural",
                   "coords": [
                         -83.046264,
@@ -7281,7 +7281,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Gem Theatre",
-                  "text": "A historic theatre in windsor-assembly-plant-economic-v2.",
+                  "text": "A former 1920s cinema, now a performance venue in the Assembly Plant.",
                   "category": "cultural",
                   "coords": [
                         -83.04627,
@@ -7290,7 +7290,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "St. Charles Borromeo Roman Catholic Church",
-                  "text": "A historic Catholic church in windsor-assembly-plant-economic-v2.",
+                  "text": "A Roman Catholic church with Gothic Revival architecture in the Assembly Plant.",
                   "category": "religious",
                   "coords": [
                         -83.002007,
@@ -7299,7 +7299,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Spiritual Israel Church and Its Army",
-                  "text": "A historic church building in windsor-assembly-plant-economic-v2.",
+                  "text": "A temple of the Spiritual Israel Church and Its Army with a distinctive facade in the Assembly Plant.",
                   "category": "religious",
                   "coords": [
                         -82.986931,
@@ -7317,7 +7317,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Spirit of Hope",
-                  "text": "A historic Episcopal church in windsor-assembly-plant-economic-v2.",
+                  "text": "A former Trinity Episcopal church, now known as Spirit of Hope, in the Assembly Plant.",
                   "category": "religious",
                   "coords": [
                         -83.073021,
@@ -7326,7 +7326,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bonstelle Theater (Temple Beth El)",
-                  "text": "A theatre in windsor-assembly-plant-economic-v2, originally a synagogue.",
+                  "text": "A theatre originally built as a synagogue (Temple Beth El) in the Assembly Plant.",
                   "category": "cultural",
                   "coords": [
                         -83.056516,
@@ -7335,7 +7335,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Cass Community United Methodist Church",
-                  "text": "A historic Methodist church in windsor-assembly-plant-economic-v2.",
+                  "text": "A Methodist church with Romanesque arches in the Assembly Plant.",
                   "category": "religious",
                   "coords": [
                         -83.062702,
@@ -7344,7 +7344,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Majestic Theatre",
-                  "text": "The oldest existing theatre in windsor-assembly-plant-economic-v2.",
+                  "text": "A historic 1914 theatre with Victorian decor in the Assembly Plant.",
                   "category": "cultural",
                   "coords": [
                         -83.060111,
@@ -7353,7 +7353,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "First Presbyterian Church",
-                  "text": "The First Presbyterian Church is a place of worship in Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "A Presbyterian church with a stunning rose window in the Assembly Plant.",
                   "category": "religious",
                   "coords": [
                         -83.05514,
@@ -7362,7 +7362,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Central United Methodist Church",
-                  "text": "Central United Methodist Church is a church in Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "A Methodist church in Gothic style with a large organ in the Assembly Plant.",
                   "category": "religious",
                   "coords": [
                         -83.050474,
@@ -7371,7 +7371,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Isaac Agree Downtown Synagogue",
-                  "text": "Isaac Agree Downtown Synagogue is a synagogue in Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "The only downtown synagogue, a historic building in the Assembly Plant.",
                   "category": "religious",
                   "coords": [
                         -83.050143,
@@ -7380,7 +7380,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Detroit Opera House",
-                  "text": "Detroit Opera House is a theatre in Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "A lavish 1922 Italian Renaissance-style opera house in Assembly Plant.",
                   "category": "cultural",
                   "coords": [
                         -83.048816,
@@ -7389,7 +7389,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Fort Street Presbyterian Church",
-                  "text": "Fort Street Presbyterian Church is a place of worship in Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "A Presbyterian church with a Gothic Revival tower in the Assembly Plant.",
                   "category": "religious",
                   "coords": [
                         -83.053749,
@@ -7398,7 +7398,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Saints Peter & Paul Jesuit Church",
-                  "text": "Saints Peter & Paul Jesuit Church is a Catholic church in Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "A 19th-century Jesuit church in the Assembly Plant.",
                   "category": "religious",
                   "coords": [
                         -83.038261,
@@ -7407,7 +7407,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Saint Andrew's Hall",
-                  "text": "Saint Andrew's Hall is a theatre in Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "A former Scottish society hall, now a concert venue in the Assembly Plant.",
                   "category": "cultural",
                   "coords": [
                         -83.041597,
@@ -7416,7 +7416,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Christ Church, Detroit",
-                  "text": "Christ Church, Detroit is a church in Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "An Episcopal church with a distinctive dome in the Assembly Plant.",
                   "category": "religious",
                   "coords": [
                         -83.034918,
@@ -7425,7 +7425,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Saint John and Saint Luke United Church of Christ",
-                  "text": "Saint John and Saint Luke United Church of Christ is a church in Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "A united church with Gothic Revival elements in the Assembly Plant.",
                   "category": "religious",
                   "coords": [
                         -83.038032,
@@ -7434,7 +7434,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "The Cathedral Church of Saint Paul",
-                  "text": "The Cathedral Church of Saint Paul is a cathedral in Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "The Episcopal Cathedral of Detroit, featuring a large rose window, in Assembly Plant.",
                   "category": "religious",
                   "coords": [
                         -83.063274,
@@ -7443,7 +7443,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Our Lady of the Rosary Catholic Church",
-                  "text": "Our Lady of the Rosary Catholic Church is a Catholic church in Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "A Catholic church with a Marian statue before the altar in the Assembly Plant.",
                   "category": "religious",
                   "coords": [
                         -83.068863,
@@ -7452,7 +7452,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "WDET-FM (Detroit)",
-                  "text": "WDET-FM is a radio tower in Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "The broadcast tower of public radio station WDET in Assembly Plant.",
                   "category": "tower",
                   "coords": [
                         -83.063089,
@@ -7461,7 +7461,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Heidelberg Project",
-                  "text": "The Heidelberg Project is an outdoor art installation in Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "An outdoor art installation of brightly painted houses and sculptures in Assembly Plant.",
                   "category": "landmark",
                   "coords": [
                         -83.021502,
@@ -7470,7 +7470,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "WGPR-FM (Detroit)",
-                  "text": "WGPR-FM is a TV tower in Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "The broadcast tower of historic radio station WGPR in Assembly Plant.",
                   "category": "tower",
                   "coords": [
                         -83.065318,
@@ -7488,7 +7488,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Anna Scripps Whitcomb Conservatory",
-                  "text": "Anna Scripps Whitcomb Conservatory is a botanical conservatory on Belle Isle in Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "A botanical garden with a glass dome on Belle Isle in Assembly Plant.",
                   "category": "landmark",
                   "coords": [
                         -82.985551,
@@ -7497,7 +7497,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Willistead Manor",
-                  "text": "Willistead Manor is a historic mansion in Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "A 1906 Tudor-style manor house with extensive grounds in Assembly Plant.",
                   "category": "landmark",
                   "coords": [
                         -83.010511,
@@ -7506,7 +7506,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Ambassador International Bridge",
-                  "text": "Ambassador International Bridge connects Detroit and Windsor in Windsor-Assembly-Plant-Economic-v2.",
+                  "text": "Opened in 1929, this international bridge connects Detroit to Windsor and is the busiest border crossing in North America.",
                   "category": "landmark",
                   "coords": [
                         -83.074381,
@@ -7590,7 +7590,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "BC9",
-                  "text": "Ein Aussichtspunkt in winnipeg-logistics-hub-economic-v2.",
+                  "text": "Ein bewaldetes Naturschutzgebiet im Logistics Hub mit einem kleinen Bach.",
                   "category": "natural",
                   "coords": [
                         -97.056467,
@@ -7599,7 +7599,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "BC10",
-                  "text": "Ein Aussichtspunkt in winnipeg-logistics-hub-economic-v2.",
+                  "text": "Ein Naturschutzgebiet im Logistics Hub mit einem Teich und Feuchtgebiet.",
                   "category": "natural",
                   "coords": [
                         -97.056485,
@@ -7608,7 +7608,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "BC11",
-                  "text": "Ein Aussichtspunkt in winnipeg-logistics-hub-economic-v2.",
+                  "text": "Ein offenes Wiesengebiet im Logistics Hub, ideal für Vogelbeobachtung.",
                   "category": "natural",
                   "coords": [
                         -97.054891,
@@ -7617,7 +7617,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Transcona Aquatic Park",
-                  "text": "Ein Wasserpark im Transcona-Gebiet von winnipeg-logistics-hub-economic-v2.",
+                  "text": "Ein Wasserpark im Logistics Hub mit drei Rutschen und einem Lazy River.",
                   "category": "recreational",
                   "coords": [
                         -96.998734,
@@ -7626,7 +7626,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Canadian Pacific Holiday Train",
-                  "text": "Eine Attraktion in winnipeg-logistics-hub-economic-v2 mit dem Canadian Pacific Holiday Train.",
+                  "text": "Ein geschmückter CP-Eisenbahnzug, der während der Weihnachtstour im Logistics Hub hält.",
                   "category": "landmark",
                   "coords": [
                         -97.06696,
@@ -7635,7 +7635,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Maison Gabrielle Roy House",
-                  "text": "Ein Museum in winnipeg-logistics-hub-economic-v2, das ehemalige Haus der Schriftstellerin Gabrielle Roy.",
+                  "text": "Das Gabrielle-Roy-Haus in Logistics Hub war die Kindheitswohnung der kanadischen Schriftstellerin.",
                   "category": "museum",
                   "coords": [
                         -97.111025,
@@ -7644,7 +7644,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bishop Velychkovsky Martyr’s Shrine",
-                  "text": "Ein Museum in winnipeg-logistics-hub-economic-v2, das dem Märtyrer Bischof Velychkovsky gewidmet ist.",
+                  "text": "Ein Schrein und Museum im Logistics Hub, gewidmet dem ukrainisch-katholischen Bischof und Märtyrer.",
                   "category": "museum",
                   "coords": [
                         -97.122052,
@@ -7653,7 +7653,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Indoor Soccer",
-                  "text": "Eine Hallenfußball-Attraktion in winnipeg-logistics-hub-economic-v2.",
+                  "text": "Eine Indoor-Fußballanlage im Logistics Hub mit zwei spielfeldgroßen Hallen.",
                   "category": "landmark",
                   "coords": [
                         -97.018588,
@@ -7662,7 +7662,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Kildonan Presbyterian Church",
-                  "text": "Eine presbyterianische Kirche in winnipeg-logistics-hub-economic-v2.",
+                  "text": "Die Kildonan Presbyterian Church in Logistics Hub ist eine historische presbyterianische Kirche im Kildonan-Viertel.",
                   "category": "religious",
                   "coords": [
                         -97.09879,
@@ -7671,7 +7671,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "St. John’s Anglican Cathedral",
-                  "text": "Die St. John's Anglican Cathedral ist die Kathedrale der anglikanischen Diözese Rupert's Land in winnipeg-logistics-hub-economic-v2.",
+                  "text": "Die älteste anglikanische Kathedrale von Winnipeg mit einem historischen Friedhof im Logistics Hub.",
                   "category": "religious",
                   "coords": [
                         -97.124366,
@@ -7680,7 +7680,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Battle of Seven Oaks National Historic Site",
-                  "text": "Eine nationale historische Stätte, die den Ort der Schlacht von Seven Oaks in Winnipeg bewahrt.",
+                  "text": "Die Battle of Seven Oaks National Historic Site in Logistics Hub gedenkt der Schlacht von 1816.",
                   "category": "landmark",
                   "coords": [
                         -97.12098,
@@ -7698,7 +7698,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bleak House",
-                  "text": "Ein Museum in einem historischen Gebäude in Winnipeg.",
+                  "text": "Das Museum Bleak House in Logistics Hub befindet sich in einem Gebäude von 1874.",
                   "category": "museum",
                   "coords": [
                         -97.119984,
@@ -7707,7 +7707,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Rainbow Stage",
-                  "text": "Ein Freilufttheater in Winnipeg.",
+                  "text": "Die Rainbow Stage in Logistics Hub ist ein Freilufttheater im Kildonan Park.",
                   "category": "cultural",
                   "coords": [
                         -97.100687,
@@ -7716,7 +7716,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Witch's Hut",
-                  "text": "Eine skurrile Attraktion in Winnipeg.",
+                  "text": "Eine thematische Hexenhütte im Logistics Hub, dekoriert für Halloween-Veranstaltungen.",
                   "category": "landmark",
                   "coords": [
                         -97.099928,
@@ -7725,7 +7725,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Kildonan Park",
-                  "text": "Ein großer öffentlicher Park in Winnipeg.",
+                  "text": "Der Kildonan Park in Logistics Hub ist ein 102 Hektar großer Park mit Planschbecken und Ententeich.",
                   "category": "park",
                   "coords": [
                         -97.102969,
@@ -7734,7 +7734,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Grand Prix Amusements",
-                  "text": "Eine Vergnügungsattraktion in Winnipeg.",
+                  "text": "Ein Vergnügungszentrum im Logistics Hub mit Go-Karts, Autoscootern und Spielautomaten.",
                   "category": "landmark",
                   "coords": [
                         -97.006056,
@@ -7745,7 +7745,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "BC9",
-                  "text": "Egy kilátóhely a winnipeg-logistics-hub-economic-v2-ben.",
+                  "text": "Egy erdős természeti terület a Logistics Hubban, egy kis patakkal.",
                   "category": "natural",
                   "coords": [
                         -97.056467,
@@ -7754,7 +7754,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "BC10",
-                  "text": "Egy kilátóhely a winnipeg-logistics-hub-economic-v2-ben.",
+                  "text": "Egy természeti terület a Logistics Hubban, tóval és vizes élőhellyel.",
                   "category": "natural",
                   "coords": [
                         -97.056485,
@@ -7763,7 +7763,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "BC11",
-                  "text": "Egy kilátóhely a winnipeg-logistics-hub-economic-v2-ben.",
+                  "text": "Egy nyílt réti terület a Logistics Hubban, ideális madármegfigyelésre.",
                   "category": "natural",
                   "coords": [
                         -97.054891,
@@ -7772,7 +7772,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Transcona Aquatic Park",
-                  "text": "Egy vízipark a winnipeg-logistics-hub-economic-v2 Transcona negyedében.",
+                  "text": "Egy vízipark a Logistics Hubban, három csúszdával és egy lassú folyóval.",
                   "category": "recreational",
                   "coords": [
                         -96.998734,
@@ -7781,7 +7781,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Canadian Pacific Holiday Train",
-                  "text": "Egy látnivaló a winnipeg-logistics-hub-economic-v2-ben, ahol a Canadian Pacific Holiday Train látható.",
+                  "text": "Egy feldíszített CP vonat, amely karácsonyi turnéja során megáll a Logistics Hubban.",
                   "category": "landmark",
                   "coords": [
                         -97.06696,
@@ -7790,7 +7790,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Maison Gabrielle Roy House",
-                  "text": "Egy múzeum a winnipeg-logistics-hub-economic-v2-ben, Gabrielle Roy író egykori otthona.",
+                  "text": "A Gabrielle Roy-ház Logistics Hubban a kanadai írónő gyermekkori otthona.",
                   "category": "museum",
                   "coords": [
                         -97.111025,
@@ -7799,7 +7799,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bishop Velychkovsky Martyr’s Shrine",
-                  "text": "Egy múzeum a winnipeg-logistics-hub-economic-v2-ben, amely Velychkovsky vértanú püspöknek szentelt.",
+                  "text": "Egy szentély és múzeum a Logistics Hubban, az ukrán katolikus püspöknek és vértanúnak szentelve.",
                   "category": "museum",
                   "coords": [
                         -97.122052,
@@ -7808,7 +7808,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Indoor Soccer",
-                  "text": "Egy fedett pályás futball-látnivaló a winnipeg-logistics-hub-economic-v2-ben.",
+                  "text": "Egy fedett futballpálya a Logistics Hubban, két teljes méretű pályával.",
                   "category": "landmark",
                   "coords": [
                         -97.018588,
@@ -7817,7 +7817,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Kildonan Presbyterian Church",
-                  "text": "Egy presbiteriánus templom a winnipeg-logistics-hub-economic-v2-ben.",
+                  "text": "A Kildonan Presbyterian Church Logistics Hubban egy történelmi presbiteriánus templom a Kildonan negyedben.",
                   "category": "religious",
                   "coords": [
                         -97.09879,
@@ -7826,7 +7826,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "St. John’s Anglican Cathedral",
-                  "text": "A Szent János Anglikán Székesegyház a Rupert's Land-i Anglikán Egyházmegye székesegyháza a winnipeg-logistics-hub-economic-v2-ben.",
+                  "text": "Winnipeg legrégebbi anglikán székesegyháza történelmi temetővel a Logistics Hub területén.",
                   "category": "religious",
                   "coords": [
                         -97.124366,
@@ -7835,7 +7835,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Battle of Seven Oaks National Historic Site",
-                  "text": "Nemzeti történelmi helyszín, amely a Seven Oaks-i csata helyét őrzi Winnipegben.",
+                  "text": "A Battle of Seven Oaks National Historic Site Logistics Hubban az 1816-os csatára emlékezik.",
                   "category": "landmark",
                   "coords": [
                         -97.12098,
@@ -7853,7 +7853,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bleak House",
-                  "text": "Egy történelmi épületben található múzeum Winnipegben.",
+                  "text": "A Bleak House múzeum a Logistics Hub-ban egy 1874-ben épült épületben található.",
                   "category": "museum",
                   "coords": [
                         -97.119984,
@@ -7862,7 +7862,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Rainbow Stage",
-                  "text": "Egy szabadtéri színház Winnipegben.",
+                  "text": "A Rainbow Stage Logistics Hubban egy szabadtéri színház a Kildonan Parkban.",
                   "category": "cultural",
                   "coords": [
                         -97.100687,
@@ -7871,7 +7871,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Witch's Hut",
-                  "text": "Egy furcsa látványosság Winnipegben.",
+                  "text": "Egy tematikus boszorkánykunyhó a Logistics Hubban, Halloween-eseményekre díszítve.",
                   "category": "landmark",
                   "coords": [
                         -97.099928,
@@ -7880,7 +7880,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Kildonan Park",
-                  "text": "Egy nagy nyilvános park Winnipegben.",
+                  "text": "A Kildonan Park Logistics Hubban egy 102 hektáros park medencével és kacsatóval.",
                   "category": "park",
                   "coords": [
                         -97.102969,
@@ -7889,7 +7889,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Grand Prix Amusements",
-                  "text": "Egy szórakoztató látnivaló Winnipegben.",
+                  "text": "Egy szórakoztató központ a Logistics Hubban, gokartokkal, dodzsemekkel és játékautomatákkal.",
                   "category": "landmark",
                   "coords": [
                         -97.006056,
@@ -7900,7 +7900,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "BC9",
-                  "text": "Un punct de belvedere în winnipeg-logistics-hub-economic-v2.",
+                  "text": "O arie naturală împădurită în Logistics Hub, cu un pârâu mic.",
                   "category": "natural",
                   "coords": [
                         -97.056467,
@@ -7909,7 +7909,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "BC10",
-                  "text": "Un punct de belvedere în winnipeg-logistics-hub-economic-v2.",
+                  "text": "O arie naturală în Logistics Hub, cu un iaz și zonă umedă.",
                   "category": "natural",
                   "coords": [
                         -97.056485,
@@ -7918,7 +7918,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "BC11",
-                  "text": "Un punct de belvedere în winnipeg-logistics-hub-economic-v2.",
+                  "text": "O zonă naturală de pajiște în Logistics Hub, ideală pentru observarea păsărilor.",
                   "category": "natural",
                   "coords": [
                         -97.054891,
@@ -7927,7 +7927,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Transcona Aquatic Park",
-                  "text": "Un parc acvatic în zona Transcona din winnipeg-logistics-hub-economic-v2.",
+                  "text": "Un parc acvatic în Logistics Hub, cu trei tobogane și un râu leneș.",
                   "category": "recreational",
                   "coords": [
                         -96.998734,
@@ -7936,7 +7936,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Canadian Pacific Holiday Train",
-                  "text": "O atracție în winnipeg-logistics-hub-economic-v2 care prezintă trenul de sărbători Canadian Pacific.",
+                  "text": "Un tren CP decorat care oprește în Logistics Hub în timpul turneului său de Crăciun.",
                   "category": "landmark",
                   "coords": [
                         -97.06696,
@@ -7945,7 +7945,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Maison Gabrielle Roy House",
-                  "text": "Un muzeu în winnipeg-logistics-hub-economic-v2, fosta casă a scriitoarei Gabrielle Roy.",
+                  "text": "Casa Gabrielle Roy din Logistics Hub a fost locuința copilăriei scriitoarei canadiene.",
                   "category": "museum",
                   "coords": [
                         -97.111025,
@@ -7954,7 +7954,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bishop Velychkovsky Martyr’s Shrine",
-                  "text": "Un muzeu în winnipeg-logistics-hub-economic-v2 dedicat episcopului martir Velychkovsky.",
+                  "text": "Un altar și muzeu în Logistics Hub, dedicat episcopului și martirului ucrainean catolic.",
                   "category": "museum",
                   "coords": [
                         -97.122052,
@@ -7963,7 +7963,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Indoor Soccer",
-                  "text": "O atracție de fotbal în sală în winnipeg-logistics-hub-economic-v2.",
+                  "text": "O instalație de fotbal indoor în Logistics Hub, cu două terenuri de dimensiuni complete.",
                   "category": "landmark",
                   "coords": [
                         -97.018588,
@@ -7972,7 +7972,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Kildonan Presbyterian Church",
-                  "text": "O biserică prezbiteriană în winnipeg-logistics-hub-economic-v2.",
+                  "text": "Biserica Presbyteriană Kildonan din Logistics Hub este o biserică istorică presbiteriană în cartierul Kildonan.",
                   "category": "religious",
                   "coords": [
                         -97.09879,
@@ -7981,7 +7981,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "St. John’s Anglican Cathedral",
-                  "text": "Catedrala Anglicană Sf. Ioan este catedrala Diecezei Anglicane a lui Rupert's Land în winnipeg-logistics-hub-economic-v2.",
+                  "text": "Cea mai veche catedrală anglicană din Winnipeg, cu un cimitir istoric, în Logistics Hub.",
                   "category": "religious",
                   "coords": [
                         -97.124366,
@@ -7990,7 +7990,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Battle of Seven Oaks National Historic Site",
-                  "text": "Un sit istoric național care păstrează locul Bătăliei de la Seven Oaks din Winnipeg.",
+                  "text": "Situl istoric național Battle of Seven Oaks din Logistics Hub comemorează bătălia din 1816.",
                   "category": "landmark",
                   "coords": [
                         -97.12098,
@@ -8008,7 +8008,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bleak House",
-                  "text": "Un muzeu situat într-o clădire istorică din Winnipeg.",
+                  "text": "Muzeul Bleak House din Logistics Hub este găzduit într-o clădire din 1874.",
                   "category": "museum",
                   "coords": [
                         -97.119984,
@@ -8017,7 +8017,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Rainbow Stage",
-                  "text": "Un teatru în aer liber în Winnipeg.",
+                  "text": "Rainbow Stage din Logistics Hub este un teatru în aer liber în Kildonan Park.",
                   "category": "cultural",
                   "coords": [
                         -97.100687,
@@ -8026,7 +8026,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Witch's Hut",
-                  "text": "O atracție ciudată în Winnipeg.",
+                  "text": "O colibă tematică de vrăjitoare în Logistics Hub, decorată pentru evenimente de Halloween.",
                   "category": "landmark",
                   "coords": [
                         -97.099928,
@@ -8035,7 +8035,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Kildonan Park",
-                  "text": "Un parc public mare în Winnipeg.",
+                  "text": "Parcul Kildonan din Logistics Hub este un parc de 102 hectare cu o piscină pentru copii și un iaz cu rațe.",
                   "category": "park",
                   "coords": [
                         -97.102969,
@@ -8044,7 +8044,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Grand Prix Amusements",
-                  "text": "O atracție de agrement în Winnipeg.",
+                  "text": "Un centru de distracții în Logistics Hub, cu go-kart, mașini de ciocnit și jocuri arcade.",
                   "category": "landmark",
                   "coords": [
                         -97.006056,
@@ -8055,7 +8055,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "BC9",
-                  "text": "A viewpoint in winnipeg-logistics-hub-economic-v2.",
+                  "text": "A forested natural area in the Logistics Hub with a small creek.",
                   "category": "natural",
                   "coords": [
                         -97.056467,
@@ -8064,7 +8064,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "BC10",
-                  "text": "A viewpoint in winnipeg-logistics-hub-economic-v2.",
+                  "text": "A natural area in the Logistics Hub with a pond and wetland.",
                   "category": "natural",
                   "coords": [
                         -97.056485,
@@ -8073,7 +8073,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "BC11",
-                  "text": "A viewpoint in winnipeg-logistics-hub-economic-v2.",
+                  "text": "A meadow natural area in the Logistics Hub, ideal for birdwatching.",
                   "category": "natural",
                   "coords": [
                         -97.054891,
@@ -8082,7 +8082,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Transcona Aquatic Park",
-                  "text": "A water park in the Transcona area of winnipeg-logistics-hub-economic-v2.",
+                  "text": "A water park in the Logistics Hub with three slides and a lazy river.",
                   "category": "recreational",
                   "coords": [
                         -96.998734,
@@ -8091,7 +8091,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Canadian Pacific Holiday Train",
-                  "text": "An attraction in winnipeg-logistics-hub-economic-v2 featuring the Canadian Pacific Holiday Train.",
+                  "text": "A decorated CP Rail train that stops in the Logistics Hub during its Christmas tour.",
                   "category": "landmark",
                   "coords": [
                         -97.06696,
@@ -8100,7 +8100,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Gabrielle Roy House",
-                  "text": "A museum in winnipeg-logistics-hub-economic-v2, the former home of writer Gabrielle Roy.",
+                  "text": "Gabrielle Roy House in Logistics Hub is the childhood home of the Canadian novelist.",
                   "category": "museum",
                   "coords": [
                         -97.111025,
@@ -8109,7 +8109,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bishop Velychkovsky Martyr’s Shrine",
-                  "text": "A museum in winnipeg-logistics-hub-economic-v2 dedicated to Bishop Velychkovsky, a martyr.",
+                  "text": "A shrine and museum in the Logistics Hub dedicated to the Ukrainian Catholic bishop and martyr.",
                   "category": "museum",
                   "coords": [
                         -97.122052,
@@ -8118,7 +8118,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Indoor Soccer",
-                  "text": "An indoor soccer attraction in winnipeg-logistics-hub-economic-v2.",
+                  "text": "An indoor soccer facility in the Logistics Hub with two full-sized fields.",
                   "category": "landmark",
                   "coords": [
                         -97.018588,
@@ -8127,7 +8127,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Kildonan Presbyterian Church",
-                  "text": "A Presbyterian church in winnipeg-logistics-hub-economic-v2.",
+                  "text": "Kildonan Presbyterian Church in Logistics Hub is a historic Presbyterian church in the Kildonan area.",
                   "category": "religious",
                   "coords": [
                         -97.09879,
@@ -8136,7 +8136,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "St. John’s Anglican Cathedral",
-                  "text": "St. John's Anglican Cathedral is the cathedral of the Anglican Diocese of Rupert's Land in winnipeg-logistics-hub-economic-v2.",
+                  "text": "The oldest Anglican cathedral in Winnipeg, with a historic cemetery, in Logistics Hub.",
                   "category": "religious",
                   "coords": [
                         -97.124366,
@@ -8145,7 +8145,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Battle of Seven Oaks National Historic Site",
-                  "text": "A national historic site preserving the location of the Battle of Seven Oaks in Winnipeg.",
+                  "text": "Battle of Seven Oaks National Historic Site in Logistics Hub commemorates the 1816 battle.",
                   "category": "landmark",
                   "coords": [
                         -97.12098,
@@ -8163,7 +8163,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bleak House",
-                  "text": "A museum located in a historic building in Winnipeg.",
+                  "text": "Bleak House is a museum in Logistics Hub housed in an 1874 building.",
                   "category": "museum",
                   "coords": [
                         -97.119984,
@@ -8172,7 +8172,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Rainbow Stage",
-                  "text": "An outdoor theatre in Winnipeg.",
+                  "text": "Rainbow Stage in Logistics Hub is an outdoor amphitheatre in Kildonan Park.",
                   "category": "cultural",
                   "coords": [
                         -97.100687,
@@ -8181,7 +8181,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Witch's Hut",
-                  "text": "A whimsical attraction in Winnipeg.",
+                  "text": "A themed witch’s hut in the Logistics Hub, decorated for Halloween events.",
                   "category": "landmark",
                   "coords": [
                         -97.099928,
@@ -8190,7 +8190,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Kildonan Park",
-                  "text": "A large public park in Winnipeg.",
+                  "text": "Kildonan Park in Logistics Hub is a 102-hectare park with a wading pool and duck pond.",
                   "category": "park",
                   "coords": [
                         -97.102969,
@@ -8199,7 +8199,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Grand Prix Amusements",
-                  "text": "An amusement attraction in Winnipeg.",
+                  "text": "An amusement center in the Logistics Hub with go-karts, bumper cars, and arcades.",
                   "category": "landmark",
                   "coords": [
                         -97.006056,
@@ -8256,7 +8256,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Burnaby Art Gallery",
-                  "text": "Die Burnaby Art Gallery ist eine Kunstgalerie in Burnaby, untergebracht in einem historischen Gebäude, dem ehemaligen Rathaus.",
+                  "text": "Eine Kunstgalerie, untergebracht in einer 1911 erbauten Tudor-Villa (Ceperley Mansion) im Oil Refinery.",
                   "category": "museum",
                   "coords": [
                         -122.971313,
@@ -8301,7 +8301,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Holy Trinity Cathedral",
-                  "text": "Die Holy Trinity Cathedral in Burnaby ist eine anglikanische Kathedrale.",
+                  "text": "Eine moderne anglikanische Kathedrale mit auffälligem Turm im Oil Refinery.",
                   "category": "religious",
                   "coords": [
                         -122.90734,
@@ -8319,7 +8319,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Alex Fraser Bridge",
-                  "text": "Die Alex Fraser Bridge ist eine Schrägseilbrücke über den Fraser River.",
+                  "text": "Eröffnet am 22. September 1986, überquert diese Schrägseilbrücke den Fraser River in der Oil Refinery Gegend nahe Vancouver.",
                   "category": "landmark",
                   "coords": [
                         -122.943133,
@@ -8328,7 +8328,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "SkyBridge",
-                  "text": "Die SkyBridge ist eine Schrägseilbrücke für die SkyTrain‑Bahn in Burnaby.",
+                  "text": "Eröffnet am 16. März 1990, trägt diese Schrägseilbrücke die SkyTrain über den Fraser River nahe Vancouver.",
                   "category": "landmark",
                   "coords": [
                         -122.894472,
@@ -8337,7 +8337,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Port Mann Bridge",
-                  "text": "Die Port Mann Bridge ist eine große Schrägseilbrücke über den Fraser River.",
+                  "text": "Eröffnet am 18. September 2012, ist diese 10-spurige Brücke über den Fraser River in der Oil Refinery Gegend eine der breitesten der Welt.",
                   "category": "landmark",
                   "coords": [
                         -122.813322,
@@ -8364,7 +8364,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Burns Bog Ecological Conservancy Area",
-                  "text": "Das Burns Bog Ecological Conservancy Area ist ein großes Hochmoor in Burnaby.",
+                  "text": "Das größte kuppelförmige Hochmoor an der Westküste Amerikas, geschützt als ökologisches Reservat im Oil Refinery.",
                   "category": "natural",
                   "coords": [
                         -122.973468,
@@ -8391,7 +8391,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Burnaby Lake Regional Park",
-                  "text": "Der Burnaby Lake Regional Park ist ein großer Park um den Burnaby Lake mit Wanderwegen und Vogelbeobachtung.",
+                  "text": "Ein 300 Hektar großer Regionalpark um den Burnaby Lake, ideal zur Vogelbeobachtung im Oil Refinery.",
                   "category": "park",
                   "coords": [
                         -122.939462,
@@ -8409,7 +8409,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Burnaby Village Museum",
-                  "text": "Das Burnaby Village Museum ist ein Freilichtmuseum mit historischen Gebäuden und Handwerkervorführungen.",
+                  "text": "1971 eröffnet, dieses Freilichtmuseum in Burnaby (Oil Refinery Gegend) zeigt das Leben des frühen 20. Jahrhunderts.",
                   "category": "recreational",
                   "coords": [
                         -122.966769,
@@ -8427,7 +8427,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Surrey Arts Centre - Main Stage",
-                  "text": "Die Surrey Arts Centre – Main Stage ist ein Theater in Burnaby mit Aufführungen verschiedener Genres.",
+                  "text": "Das Surrey Arts Centre – Main Stage in Oil Refinery ist ein Veranstaltungsort mit einer 404-Sitze-Hauptbühne.",
                   "category": "cultural",
                   "coords": [
                         -122.841486,
@@ -8445,7 +8445,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "North Delta Centre for the Arts",
-                  "text": "Das North Delta Centre for the Arts ist ein Gemeinschaftskunstzentrum in Burnaby.",
+                  "text": "Das North Delta Centre for the Arts in Oil Refinery ist ein Gemeinschaftskunstzentrum in North Delta.",
                   "category": "cultural",
                   "coords": [
                         -122.905284,
@@ -8454,7 +8454,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Gurdwara Sahib Brookside",
-                  "text": "Gurdwara Sahib Brookside ist ein Sikh-Tempel in Burnaby.",
+                  "text": "Der Gurdwara Sahib Brookside in Oil Refinery ist ein Sikh-Tempel im Stadtteil Brookside.",
                   "category": "religious",
                   "coords": [
                         -122.835522,
@@ -8463,7 +8463,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Place des Arts",
-                  "text": "Place des Arts in Burnaby ist ein multidisziplinäres Kunstzentrum mit Kursen und Galerien.",
+                  "text": "Place des Arts in Oil Refinery ist ein multidisziplinäres Kunstzentrum mit Studios und einem Theater.",
                   "category": "cultural",
                   "coords": [
                         -122.860987,
@@ -8472,7 +8472,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Holy Eucharist Cathedral",
-                  "text": "Die Holy Eucharist Cathedral in Burnaby ist eine katholische Kathedrale.",
+                  "text": "Die Holy Eucharist Cathedral in Oil Refinery ist eine ukrainisch-katholische Kathedrale mit einer byzantinischen Kuppel.",
                   "category": "religious",
                   "coords": [
                         -122.916004,
@@ -8481,7 +8481,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Annacis Island Swing Bridge",
-                  "text": "Die Annacis Island Swing Bridge ist eine Drehbrücke, die die Insel Annacis Island mit dem Festland verbindet.",
+                  "text": "Die Annacis Island Swing Bridge in Oil Refinery ist eine Stahldrehbrücke über den Annacis Channel.",
                   "category": "landmark",
                   "coords": [
                         -122.932242,
@@ -8490,7 +8490,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Massey Theatre",
-                  "text": "Das Massey Theatre in Burnaby ist ein historisches Theater, das für Konzerte und Aufführungen genutzt wird.",
+                  "text": "Das Massey Theatre in Oil Refinery ist ein historisches Theater mit 1.200 Sitzplätzen für Konzerte und Shows.",
                   "category": "landmark",
                   "coords": [
                         -122.926966,
@@ -8499,7 +8499,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Mary Hill",
-                  "text": "Mary Hill ist ein Hügel in Burnaby mit Aussicht auf die umliegende Landschaft.",
+                  "text": "Der Mary Hill in Oil Refinery ist ein 144 Meter hoher Hügel mit Blick auf den Fraser River.",
                   "category": "natural",
                   "coords": [
                         -122.785389,
@@ -8508,7 +8508,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Mundy Park",
-                  "text": "Der Mundy Park in Burnaby ist ein großer Park mit Waldwegen und Spielplätzen.",
+                  "text": "Der Mundy Park in Oil Refinery ist ein großer Stadtpark mit einem See und Wanderwegen.",
                   "category": "park",
                   "coords": [
                         -122.825371,
@@ -8526,7 +8526,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "ƛ̓éxətəm (tla-hut-um) Regional Park",
-                  "text": "Der Be Invited Regional Park ist ein regionaler Park in Burnaby mit natürlicher Umgebung.",
+                  "text": "Der Be Invited Regional Park in Oil Refinery ist ein Regionalpark mit Picknickplätzen und Spazierwegen.",
                   "category": "park",
                   "coords": [
                         -122.802268,
@@ -8535,7 +8535,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Surrey Art Gallery",
-                  "text": "Die Surrey Art Gallery in Burnaby ist die öffentliche Kunstgalerie von Surrey mit wechselnden Ausstellungen.",
+                  "text": "Ein Museum für zeitgenössische Kunst im Oil Refinery mit wechselnden Ausstellungen lokaler Künstler.",
                   "category": "museum",
                   "coords": [
                         -122.842528,
@@ -8544,7 +8544,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Archery Museum",
-                  "text": "Das Archery Museum in Burnaby ist ein Museum, das sich dem Bogenschießen widmet.",
+                  "text": "Ein Museum im Oil Refinery, das Bogen, Pfeile und die Geschichte des Bogenschießens aus aller Welt zeigt.",
                   "category": "museum",
                   "coords": [
                         -122.892588,
@@ -8564,7 +8564,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Burnaby Art Gallery",
-                  "text": "A Burnaby Művészeti Galéria egy művészeti galéria Burnabyban, egy történelmi épületben, a volt városházában található.",
+                  "text": "Művészeti galéria egy 1911-ben épült Tudor-villában (Ceperley Mansion) az Oil Refinery területén.",
                   "category": "museum",
                   "coords": [
                         -122.971313,
@@ -8609,7 +8609,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Holy Trinity Cathedral",
-                  "text": "A Holy Trinity Cathedral Burnabyban egy anglikán katedrális.",
+                  "text": "Modern anglikán székesegyház feltűnő toronnyal az Oil Refinery területén.",
                   "category": "religious",
                   "coords": [
                         -122.90734,
@@ -8627,7 +8627,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Alex Fraser Bridge",
-                  "text": "Az Alex Fraser híd egy ferdekábeles híd a Fraser folyón.",
+                  "text": "1986. szeptember 22-én nyitották meg, ez a kábeles híd a Fraser folyón ível át az Oil Refinery területén Vancouver közelében.",
                   "category": "landmark",
                   "coords": [
                         -122.943133,
@@ -8636,7 +8636,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "SkyBridge",
-                  "text": "A SkyBridge egy ferdekábeles híd a SkyTrain vonal számára Burnabyban.",
+                  "text": "1990. március 16-án nyitották meg, ez a kábeles híd a SkyTrain-t viszi át a Fraser folyón Vancouver közelében.",
                   "category": "landmark",
                   "coords": [
                         -122.894472,
@@ -8645,7 +8645,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Port Mann Bridge",
-                  "text": "A Port Mann híd egy nagy ferdekábeles híd a Fraser folyón.",
+                  "text": "2012. szeptember 18-án nyitották meg, ez a 10 sávos híd a Fraser folyón az Oil Refinery területén a világ egyik legszélesebb hídja.",
                   "category": "landmark",
                   "coords": [
                         -122.813322,
@@ -8672,7 +8672,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Burns Bog Ecological Conservancy Area",
-                  "text": "A Burns Bog Ecological Conservancy Area egy nagy lápvidék Burnabyban.",
+                  "text": "A legnagyobb kupola alakú tőzegláp Amerika nyugati partján, ökológiai rezervátumként védett az Oil Refinery területén.",
                   "category": "natural",
                   "coords": [
                         -122.973468,
@@ -8699,7 +8699,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Burnaby Lake Regional Park",
-                  "text": "A Burnaby Lake Regional Park egy nagy park a Burnaby-tó körül, sétányokkal és madármegfigyelési lehetőségekkel.",
+                  "text": "Egy 300 hektáros regionális park a Burnaby-tó körül, ideális madármegfigyeléshez az Oil Refinery területén.",
                   "category": "park",
                   "coords": [
                         -122.939462,
@@ -8717,7 +8717,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Burnaby Village Museum",
-                  "text": "A Burnaby Village Museum egy szabadtéri múzeum történelmi épületekkel és kézműves bemutatókkal.",
+                  "text": "1971-ben nyitották meg, ez a szabadtéri örökségfalu Burnabyban (Oil Refinery terület) a 20. század eleji életet idézi.",
                   "category": "recreational",
                   "coords": [
                         -122.966769,
@@ -8735,7 +8735,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Surrey Arts Centre - Main Stage",
-                  "text": "A Surrey Arts Centre – Main Stage egy színház Burnabyban, különböző műfajú előadásokkal.",
+                  "text": "A Surrey Arts Centre – Main Stage Oil Refineryben egy 404 üléses előadóteremmel rendelkező rendezvényhelyszín.",
                   "category": "cultural",
                   "coords": [
                         -122.841486,
@@ -8753,7 +8753,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "North Delta Centre for the Arts",
-                  "text": "A North Delta Centre for the Arts egy közösségi művészeti központ Burnabyban.",
+                  "text": "A North Delta Centre for the Arts Oil Refineryben egy közösségi művészeti központ North Deltában.",
                   "category": "cultural",
                   "coords": [
                         -122.905284,
@@ -8762,7 +8762,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Gurdwara Sahib Brookside",
-                  "text": "A Gurdwara Sahib Brookside egy szikh templom Burnabyban.",
+                  "text": "A Gurdwara Sahib Brookside Oil Refineryben egy szikh templom a Brookside negyedben.",
                   "category": "religious",
                   "coords": [
                         -122.835522,
@@ -8771,7 +8771,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Place des Arts",
-                  "text": "A Place des Arts Burnabyban egy multidiszciplináris művészeti központ kurzusokkal és galériákkal.",
+                  "text": "A Place des Arts Oil Refineryben egy multidiszciplináris művészeti központ stúdiókkal és egy színházzal.",
                   "category": "cultural",
                   "coords": [
                         -122.860987,
@@ -8780,7 +8780,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Holy Eucharist Cathedral",
-                  "text": "A Holy Eucharist Cathedral Burnabyban egy katolikus katedrális.",
+                  "text": "A Holy Eucharist Cathedral Oil Refineryben egy ukrán katolikus székesegyház bizánci kupolával.",
                   "category": "religious",
                   "coords": [
                         -122.916004,
@@ -8789,7 +8789,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Annacis Island Swing Bridge",
-                  "text": "Az Annacis Island Swing Bridge egy forgóhíd, amely összeköti Annacis Islandet a szárazfölddel.",
+                  "text": "Az Annacis Island Swing Bridge Oil Refineryben egy acél forgóhíd az Annacis-csatorna felett.",
                   "category": "landmark",
                   "coords": [
                         -122.932242,
@@ -8798,7 +8798,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Massey Theatre",
-                  "text": "A Massey Theatre Burnabyban egy történelmi színház, amelyet koncertekre és előadásokra használnak.",
+                  "text": "A Massey Theatre Oil Refineryben egy történelmi színház 1200 ülőhellyel koncertek és előadások számára.",
                   "category": "landmark",
                   "coords": [
                         -122.926966,
@@ -8807,7 +8807,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Mary Hill",
-                  "text": "A Mary Hill egy domb Burnabyban, kilátással a környező tájra.",
+                  "text": "A Mary Hill Oil Refineryben egy 144 méter magas domb, ahonnan kilátás nyílik a Fraser folyóra.",
                   "category": "natural",
                   "coords": [
                         -122.785389,
@@ -8816,7 +8816,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Mundy Park",
-                  "text": "A Mundy Park Burnabyban egy nagy park erdei ösvényekkel és játszóterekkel.",
+                  "text": "A Mundy Park Oil Refineryben egy nagy városi park tóval és sétányokkal.",
                   "category": "park",
                   "coords": [
                         -122.825371,
@@ -8834,7 +8834,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "ƛ̓éxətəm (tla-hut-um) Regional Park",
-                  "text": "A Be Invited Regional Park egy regionális park Burnabyban, természetes környezettel.",
+                  "text": "A Be Invited Regional Park Oil Refineryben egy regionális park piknikezőhelyekkel és sétányokkal.",
                   "category": "park",
                   "coords": [
                         -122.802268,
@@ -8843,7 +8843,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Surrey Art Gallery",
-                  "text": "A Surrey Art Gallery Burnabyban Surrey nyilvános művészeti galériája, időszakos kiállításokkal.",
+                  "text": "Kortárs művészeti múzeum az Oil Refineryben, helyi művészek váltakozó kiállításaival.",
                   "category": "museum",
                   "coords": [
                         -122.842528,
@@ -8852,7 +8852,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Archery Museum",
-                  "text": "Az Archery Museum Burnabyban egy múzeum, amely az íjászatnak szentelt.",
+                  "text": "Egy múzeum az Oil Refineryben, amely íjakat, nyilakat és a világ íjászatának történetét mutatja be.",
                   "category": "museum",
                   "coords": [
                         -122.892588,
@@ -8872,7 +8872,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Burnaby Art Gallery",
-                  "text": "Galeria de Artă Burnaby este o galerie de artă din Burnaby, găzduită într-o clădire istorică, fosta primărie.",
+                  "text": "O galerie de artă găzduită într-o vilă Tudor din 1911 (Ceperley Mansion) în Oil Refinery.",
                   "category": "museum",
                   "coords": [
                         -122.971313,
@@ -8917,7 +8917,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Holy Trinity Cathedral",
-                  "text": "Catedrala Holy Trinity din Burnaby este o catedrală anglicană.",
+                  "text": "O catedrală anglicană modernă cu un turn remarcabil în Oil Refinery.",
                   "category": "religious",
                   "coords": [
                         -122.90734,
@@ -8935,7 +8935,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Alex Fraser Bridge",
-                  "text": "Podul Alex Fraser este un pod hobanat peste râul Fraser.",
+                  "text": "Deschis pe 22 septembrie 1986, acest pod hobanat traversează Râul Fraser în zona Oil Refinery lângă Vancouver.",
                   "category": "landmark",
                   "coords": [
                         -122.943133,
@@ -8944,7 +8944,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "SkyBridge",
-                  "text": "SkyBridge este un pod hobanat pentru linia de metrou SkyTrain din Burnaby.",
+                  "text": "Deschis pe 16 martie 1990, acest pod hobanat transportă SkyTrain peste Râul Fraser lângă Vancouver.",
                   "category": "landmark",
                   "coords": [
                         -122.894472,
@@ -8953,7 +8953,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Port Mann Bridge",
-                  "text": "Podul Port Mann este un mare pod hobanat peste râul Fraser.",
+                  "text": "Deschis pe 18 septembrie 2012, acest pod cu 10 benzi peste Râul Fraser în zona Oil Refinery este unul dintre cele mai late din lume.",
                   "category": "landmark",
                   "coords": [
                         -122.813322,
@@ -8980,7 +8980,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Burns Bog Ecological Conservancy Area",
-                  "text": "Zona de conservare ecologică Burns Bog este o mare mlaștină din Burnaby.",
+                  "text": "Cea mai mare mlaștină de turbă cu formă de dom de pe coasta de vest a Americii, rezervație ecologică în Oil Refinery.",
                   "category": "natural",
                   "coords": [
                         -122.973468,
@@ -9007,7 +9007,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Burnaby Lake Regional Park",
-                  "text": "Parcul Regional Burnaby Lake este un parc mare în jurul lacului Burnaby, cu trasee și observarea păsărilor.",
+                  "text": "Un parc regional de 300 ha în jurul lacului Burnaby, popular pentru observarea păsărilor în Oil Refinery.",
                   "category": "park",
                   "coords": [
                         -122.939462,
@@ -9025,7 +9025,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Burnaby Village Museum",
-                  "text": "Muzeul Satului Burnaby este un muzeu în aer liber cu clădiri istorice și demonstrații meșteșugărești.",
+                  "text": "Deschis în 1971, acest sat muzeu în aer liber din Burnaby (zona Oil Refinery) reconstituie viața de la începutul secolului al XX-lea.",
                   "category": "recreational",
                   "coords": [
                         -122.966769,
@@ -9043,7 +9043,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Surrey Arts Centre - Main Stage",
-                  "text": "Surrey Arts Centre – Main Stage este un teatru din Burnaby care găzduiește spectacole de diverse genuri.",
+                  "text": "Surrey Arts Centre – Main Stage din Oil Refinery este o sală de spectacole cu o scenă principală cu 404 de locuri.",
                   "category": "cultural",
                   "coords": [
                         -122.841486,
@@ -9061,7 +9061,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "North Delta Centre for the Arts",
-                  "text": "North Delta Centre for the Arts este un centru de artă comunitar din Burnaby.",
+                  "text": "North Delta Centre for the Arts din Oil Refinery este un centru de artă comunitar în North Delta.",
                   "category": "cultural",
                   "coords": [
                         -122.905284,
@@ -9070,7 +9070,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Gurdwara Sahib Brookside",
-                  "text": "Gurdwara Sahib Brookside este un templu sikh din Burnaby.",
+                  "text": "Gurdwara Sahib Brookside din Oil Refinery este un templu sikh în cartierul Brookside.",
                   "category": "religious",
                   "coords": [
                         -122.835522,
@@ -9079,7 +9079,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Place des Arts",
-                  "text": "Place des Arts din Burnaby este un centru de artă multidisciplinar cu cursuri și galerii.",
+                  "text": "Place des Arts din Oil Refinery este un centru de artă multidisciplinar cu studiouri și un teatru.",
                   "category": "cultural",
                   "coords": [
                         -122.860987,
@@ -9088,7 +9088,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Holy Eucharist Cathedral",
-                  "text": "Catedrala Holy Eucharist din Burnaby este o catedrală catolică.",
+                  "text": "Catedrala Sfânta Euharistie din Oil Refinery este o catedrală greco-catolică ucraineană cu o cupolă bizantină.",
                   "category": "religious",
                   "coords": [
                         -122.916004,
@@ -9097,7 +9097,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Annacis Island Swing Bridge",
-                  "text": "Podul basculant Annacis Island este un pod rotitor care leagă insula Annacis de continent.",
+                  "text": "Podul basculant Annacis Island din Oil Refinery este un pod de oțel peste canalul Annacis.",
                   "category": "landmark",
                   "coords": [
                         -122.932242,
@@ -9106,7 +9106,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Massey Theatre",
-                  "text": "Teatrul Massey din Burnaby este un teatru istoric folosit pentru concerte și spectacole.",
+                  "text": "Teatrul Massey din Oil Refinery este un teatru istoric cu 1.200 de locuri pentru concerte și spectacole.",
                   "category": "landmark",
                   "coords": [
                         -122.926966,
@@ -9115,7 +9115,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Mary Hill",
-                  "text": "Mary Hill este un deal din Burnaby, oferind vedere asupra peisajului înconjurător.",
+                  "text": "Dealul Mary Hill din Oil Refinery este o colină de 144 de metri înălțime care oferă vederi asupra râului Fraser.",
                   "category": "natural",
                   "coords": [
                         -122.785389,
@@ -9124,7 +9124,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Mundy Park",
-                  "text": "Parcul Mundy din Burnaby este un parc mare cu trasee forestiere și locuri de joacă.",
+                  "text": "Parcul Mundy din Oil Refinery este un parc urban mare cu un lac și trasee de mers pe jos.",
                   "category": "park",
                   "coords": [
                         -122.825371,
@@ -9142,7 +9142,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "ƛ̓éxətəm (tla-hut-um) Regional Park",
-                  "text": "Parcul Regional Be Invited este un parc regional din Burnaby, cu mediu natural.",
+                  "text": "Parcul regional Be Invited din Oil Refinery este un parc regional cu zone de picnic și trasee de plimbare.",
                   "category": "park",
                   "coords": [
                         -122.802268,
@@ -9151,7 +9151,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Surrey Art Gallery",
-                  "text": "Galeria de Artă Surrey din Burnaby este galeria publică de artă a orașului Surrey, cu expoziții temporare.",
+                  "text": "Un muzeu de artă contemporană în Oil Refinery, cu expoziții rotative ale artiștilor locali.",
                   "category": "museum",
                   "coords": [
                         -122.842528,
@@ -9160,7 +9160,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Archery Museum",
-                  "text": "Muzeul de Tir cu Arcul din Burnaby este un muzeu dedicat tirului cu arcul.",
+                  "text": "Un muzeu în Oil Refinery care prezintă arcuri, săgeți și istoria tirului cu arcul din întreaga lume.",
                   "category": "museum",
                   "coords": [
                         -122.892588,
@@ -9180,7 +9180,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Burnaby Art Gallery",
-                  "text": "The Burnaby Art Gallery is an art gallery in Burnaby, housed in a historic former municipal hall.",
+                  "text": "An art gallery housed in the 1911 Tudor-style Ceperley Mansion in Oil Refinery.",
                   "category": "museum",
                   "coords": [
                         -122.971313,
@@ -9225,7 +9225,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Holy Trinity Cathedral",
-                  "text": "Holy Trinity Cathedral in Burnaby is an Anglican cathedral.",
+                  "text": "A modern Anglican cathedral with a striking tower in Oil Refinery.",
                   "category": "religious",
                   "coords": [
                         -122.90734,
@@ -9243,7 +9243,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Alex Fraser Bridge",
-                  "text": "The Alex Fraser Bridge is a cable‑stayed bridge over the Fraser River.",
+                  "text": "Opened September 22, 1986, this cable-stayed bridge crosses the Fraser River in the Oil Refinery area near Vancouver.",
                   "category": "landmark",
                   "coords": [
                         -122.943133,
@@ -9252,7 +9252,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "SkyBridge",
-                  "text": "The SkyBridge is a cable‑stayed bridge for the SkyTrain line in Burnaby.",
+                  "text": "Opened March 16, 1990, this cable-stayed bridge carries the SkyTrain across the Fraser River near Vancouver.",
                   "category": "landmark",
                   "coords": [
                         -122.894472,
@@ -9261,7 +9261,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Port Mann Bridge",
-                  "text": "The Port Mann Bridge is a major cable‑stayed bridge across the Fraser River.",
+                  "text": "Opened September 18, 2012, this 10-lane bridge over the Fraser River in the Oil Refinery area is one of the widest in the world.",
                   "category": "landmark",
                   "coords": [
                         -122.813322,
@@ -9288,7 +9288,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Burns Bog Ecological Conservancy Area",
-                  "text": "Burns Bog Ecological Conservancy Area is a large raised bog in Burnaby.",
+                  "text": "The largest domed peat bog on the west coast of the Americas, an ecological reserve in Oil Refinery.",
                   "category": "natural",
                   "coords": [
                         -122.973468,
@@ -9315,7 +9315,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Burnaby Lake Regional Park",
-                  "text": "Burnaby Lake Regional Park is a large park around Burnaby Lake with trails and birdwatching.",
+                  "text": "A 300-hectare regional park around Burnaby Lake, popular for birdwatching in Oil Refinery.",
                   "category": "park",
                   "coords": [
                         -122.939462,
@@ -9333,7 +9333,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Burnaby Village Museum",
-                  "text": "Burnaby Village Museum is an open‑air museum with heritage buildings and craft demonstrations.",
+                  "text": "Opened in 1971, this open-air heritage village in Burnaby (Oil Refinery area) recreates life from the early 20th century.",
                   "category": "recreational",
                   "coords": [
                         -122.966769,
@@ -9351,7 +9351,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Surrey Arts Centre - Main Stage",
-                  "text": "Surrey Arts Centre – Main Stage is a theatre in Burnaby presenting a variety of performances.",
+                  "text": "Surrey Arts Centre – Main Stage in Oil Refinery is a performing arts venue with a 404-seat main stage.",
                   "category": "cultural",
                   "coords": [
                         -122.841486,
@@ -9369,7 +9369,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "North Delta Centre for the Arts",
-                  "text": "North Delta Centre for the Arts is a community arts centre in Burnaby.",
+                  "text": "North Delta Centre for the Arts in Oil Refinery is a community arts centre in North Delta.",
                   "category": "cultural",
                   "coords": [
                         -122.905284,
@@ -9378,7 +9378,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Gurdwara Sahib Brookside",
-                  "text": "Gurdwara Sahib Brookside is a Sikh temple in Burnaby.",
+                  "text": "Gurdwara Sahib Brookside in Oil Refinery is a Sikh temple in the Brookside neighbourhood.",
                   "category": "religious",
                   "coords": [
                         -122.835522,
@@ -9387,7 +9387,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Place des Arts",
-                  "text": "Place des Arts in Burnaby is a multidisciplinary arts centre with classes and galleries.",
+                  "text": "Place des Arts in Oil Refinery is a multi-disciplinary arts centre with studios and a theatre.",
                   "category": "cultural",
                   "coords": [
                         -122.860987,
@@ -9396,7 +9396,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Holy Eucharist Cathedral",
-                  "text": "Holy Eucharist Cathedral in Burnaby is a Catholic cathedral.",
+                  "text": "Holy Eucharist Cathedral in Oil Refinery is a Ukrainian Catholic cathedral with a Byzantine dome.",
                   "category": "religious",
                   "coords": [
                         -122.916004,
@@ -9405,7 +9405,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Annacis Island Swing Bridge",
-                  "text": "The Annacis Island Swing Bridge is a swing bridge connecting Annacis Island to the mainland.",
+                  "text": "Annacis Island Swing Bridge in Oil Refinery is a steel swing bridge crossing the Annacis Channel.",
                   "category": "landmark",
                   "coords": [
                         -122.932242,
@@ -9414,7 +9414,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Massey Theatre",
-                  "text": "Massey Theatre in Burnaby is a historic theatre used for concerts and performances.",
+                  "text": "Massey Theatre in Oil Refinery is a historic 1,200-seat theatre hosting concerts and shows.",
                   "category": "landmark",
                   "coords": [
                         -122.926966,
@@ -9423,7 +9423,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Mary Hill",
-                  "text": "Mary Hill is a hill in Burnaby with views of the surrounding landscape.",
+                  "text": "Mary Hill in Oil Refinery is a 144-metre hill offering views of the Fraser River.",
                   "category": "natural",
                   "coords": [
                         -122.785389,
@@ -9432,7 +9432,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Mundy Park",
-                  "text": "Mundy Park in Burnaby is a large park with forested trails and playgrounds.",
+                  "text": "Mundy Park in Oil Refinery is a large urban park with a lake and walking trails.",
                   "category": "park",
                   "coords": [
                         -122.825371,
@@ -9450,7 +9450,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Be Invited Regional Park",
-                  "text": "Be Invited Regional Park is a regional park in Burnaby with natural surroundings.",
+                  "text": "Be Invited Regional Park in Oil Refinery is a regional park with picnic areas and walking paths.",
                   "category": "park",
                   "coords": [
                         -122.802268,
@@ -9459,7 +9459,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Surrey Art Gallery",
-                  "text": "Surrey Art Gallery in Burnaby is the public art gallery of Surrey, featuring rotating exhibitions.",
+                  "text": "A contemporary art museum in Oil Refinery, hosting rotating exhibitions of local artists.",
                   "category": "museum",
                   "coords": [
                         -122.842528,
@@ -9468,7 +9468,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Archery Museum",
-                  "text": "The Archery Museum in Burnaby is a museum dedicated to archery.",
+                  "text": "A museum in Oil Refinery displaying bows, arrows, and archery history from around the world.",
                   "category": "museum",
                   "coords": [
                         -122.892588,
@@ -9516,7 +9516,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Port Dover Harbour Museum",
-                  "text": "Ein Museum in Port Dover.",
+                  "text": "Ein Museum im Steel Plant, untergebracht in einem historischen Leuchtturm, das die Schifffahrtsgeschichte des Eriesees erzählt.",
                   "category": "museum",
                   "coords": [
                         -80.198875,
@@ -9525,7 +9525,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Silver Sand Gallery",
-                  "text": "Eine Galerie in Port Dover.",
+                  "text": "Eine Kunstgalerie im Steel Plant, die Werke in Silbersand und Mischtechniken zeigt.",
                   "category": "museum",
                   "coords": [
                         -80.202226,
@@ -9534,7 +9534,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Port Dover Lightstation",
-                  "text": "Ein Leuchtturm in Port Dover.",
+                  "text": "Der Port Dover Lightstation in Steel Plant ist ein hölzerner Leuchtturm mit einer roten Laterne am Eriesee.",
                   "category": "landmark",
                   "coords": [
                         -80.201649,
@@ -9543,7 +9543,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Wintering Site",
-                  "text": "Eine nationale historische Stätte in Port Dover.",
+                  "text": "Eine historische Stätte, die an ein französisches Winterlager aus dem 17. Jahrhundert erinnert, in Steel Plant.",
                   "category": "historical",
                   "coords": [
                         -80.189038,
@@ -9552,7 +9552,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Powell Park",
-                  "text": "Ein Park in Port Dover.",
+                  "text": "Der Powell Park in Steel Plant ist ein Park am Wasser mit Strand und Spielplatz.",
                   "category": "park",
                   "coords": [
                         -80.202454,
@@ -9561,7 +9561,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Port Dover Beach",
-                  "text": "Ein Strand in Port Dover.",
+                  "text": "Ein sandiger Strand am Eriesee im Steel Plant mit einem Pier und Eisständen.",
                   "category": "recreational",
                   "coords": [
                         -80.203261,
@@ -9570,7 +9570,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Black Creek Conservation Area",
-                  "text": "Ein Schutzgebiet nahe Port Dover.",
+                  "text": "Ein Naturschutzgebiet im Steel Plant, das einen Bach und Feuchtgebiete schützt, mit Wanderwegen.",
                   "category": "natural",
                   "coords": [
                         -80.181213,
@@ -9579,7 +9579,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Haldimand Conservation Area",
-                  "text": "Ein Schutzgebiet im Haldimand County.",
+                  "text": "Ein Naturschutzgebiet im Steel Plant entlang des Grand River, bekannt für Vogelbeobachtung.",
                   "category": "natural",
                   "coords": [
                         -79.995559,
@@ -9590,7 +9590,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Port Dover Harbour Museum",
-                  "text": "Egy múzeum Port Doverben.",
+                  "text": "Egy múzeum a Steel Plantben, egy történelmi világítótoronyban, amely az Erie-tó hajózásának történetét meséli el.",
                   "category": "museum",
                   "coords": [
                         -80.198875,
@@ -9599,7 +9599,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Silver Sand Gallery",
-                  "text": "Egy galéria Port Doverben.",
+                  "text": "Egy művészeti galéria a Steel Plantben, amely ezüsthomokban és vegyes technikával készült alkotásokat mutat be.",
                   "category": "museum",
                   "coords": [
                         -80.202226,
@@ -9608,7 +9608,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Port Dover Lightstation",
-                  "text": "Egy világítótorony Port Doverben.",
+                  "text": "A Port Dover Lightstation Steel Plantben egy fa világítótorony piros lámpaházzal az Erie-tó partján.",
                   "category": "landmark",
                   "coords": [
                         -80.201649,
@@ -9617,7 +9617,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Wintering Site",
-                  "text": "Egy nemzeti történelmi helyszín Port Doverben.",
+                  "text": "Történelmi helyszín, amely egy 17. századi francia téli tábort jelöl, a Steel Plant területén.",
                   "category": "historical",
                   "coords": [
                         -80.189038,
@@ -9626,7 +9626,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Powell Park",
-                  "text": "Egy park Port Doverben.",
+                  "text": "A Powell Park Steel Plantben egy vízparti park stranddal és játszótérrel.",
                   "category": "park",
                   "coords": [
                         -80.202454,
@@ -9635,7 +9635,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Port Dover Beach",
-                  "text": "Egy strand Port Doverben.",
+                  "text": "Homokos strand az Erie-tónál a Steel Plantben, mólóval és fagylaltos standokkal.",
                   "category": "recreational",
                   "coords": [
                         -80.203261,
@@ -9644,7 +9644,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Black Creek Conservation Area",
-                  "text": "Egy védett terület Port Dover közelében.",
+                  "text": "Egy természetvédelmi terület a Steel Plantben, amely egy patakot és vizes élőhelyeket véd, túraútvonalakkal.",
                   "category": "natural",
                   "coords": [
                         -80.181213,
@@ -9653,7 +9653,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Haldimand Conservation Area",
-                  "text": "Egy védett terület Haldimand megyében.",
+                  "text": "Egy természetvédelmi terület a Steel Plantben a Grand River mentén, madármegfigyelésről ismert.",
                   "category": "natural",
                   "coords": [
                         -79.995559,
@@ -9664,7 +9664,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Port Dover Harbour Museum",
-                  "text": "Un muzeu în Port Dover.",
+                  "text": "Un muzeu în Steel Plant găzduit într-un far istoric, care povestește istoria navigației pe Lacul Erie.",
                   "category": "museum",
                   "coords": [
                         -80.198875,
@@ -9673,7 +9673,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Silver Sand Gallery",
-                  "text": "O galerie în Port Dover.",
+                  "text": "O galerie de artă în Steel Plant, care prezintă lucrări în nisip argintiu și tehnici mixte.",
                   "category": "museum",
                   "coords": [
                         -80.202226,
@@ -9682,7 +9682,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Port Dover Lightstation",
-                  "text": "Un far în Port Dover.",
+                  "text": "Farul Port Dover din Steel Plant este un far din lemn cu o lanternă roșie pe malul lacului Erie.",
                   "category": "landmark",
                   "coords": [
                         -80.201649,
@@ -9691,7 +9691,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Wintering Site",
-                  "text": "Un sit istoric național în Port Dover.",
+                  "text": "Un loc istoric care marchează o tabără de iarnă franceză din secolul al XVII-lea în Steel Plant.",
                   "category": "historical",
                   "coords": [
                         -80.189038,
@@ -9700,7 +9700,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Powell Park",
-                  "text": "Un parc în Port Dover.",
+                  "text": "Parcul Powell din Steel Plant este un parc de pe malul apei cu plajă și loc de joacă.",
                   "category": "park",
                   "coords": [
                         -80.202454,
@@ -9709,7 +9709,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Port Dover Beach",
-                  "text": "O plajă în Port Dover.",
+                  "text": "O plajă nisipoasă pe Lacul Erie în Steel Plant, cu un dig și standuri de înghețată.",
                   "category": "recreational",
                   "coords": [
                         -80.203261,
@@ -9718,7 +9718,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Black Creek Conservation Area",
-                  "text": "O arie protejată lângă Port Dover.",
+                  "text": "O arie naturală protejată în Steel Plant care protejează un pârâu și zone umede, cu trasee de drumeție.",
                   "category": "natural",
                   "coords": [
                         -80.181213,
@@ -9727,7 +9727,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Haldimand Conservation Area",
-                  "text": "O arie protejată în comitatul Haldimand.",
+                  "text": "O arie naturală protejată în Steel Plant de-a lungul râului Grand, cunoscută pentru observarea păsărilor.",
                   "category": "natural",
                   "coords": [
                         -79.995559,
@@ -9738,7 +9738,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Port Dover Harbour Museum",
-                  "text": "A museum in Port Dover.",
+                  "text": "A museum in Steel Plant housed in a historic lighthouse, telling the story of Lake Erie shipping.",
                   "category": "museum",
                   "coords": [
                         -80.198875,
@@ -9747,7 +9747,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Silver Sand Gallery",
-                  "text": "A gallery in Port Dover.",
+                  "text": "An art gallery in Steel Plant featuring works in silver sand and mixed media.",
                   "category": "museum",
                   "coords": [
                         -80.202226,
@@ -9756,7 +9756,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Port Dover Lightstation",
-                  "text": "A lighthouse in Port Dover.",
+                  "text": "Port Dover Lightstation in Steel Plant is a wooden lighthouse with a red lantern room on Lake Erie.",
                   "category": "landmark",
                   "coords": [
                         -80.201649,
@@ -9765,7 +9765,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Wintering Site",
-                  "text": "A National Historic Site in Port Dover.",
+                  "text": "A historic site marking a 17th-century French winter encampment in Steel Plant.",
                   "category": "historical",
                   "coords": [
                         -80.189038,
@@ -9774,7 +9774,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Powell Park",
-                  "text": "A park in Port Dover.",
+                  "text": "Powell Park in Steel Plant is a waterfront park with a beach and playground.",
                   "category": "park",
                   "coords": [
                         -80.202454,
@@ -9783,7 +9783,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Port Dover Beach",
-                  "text": "A beach in Port Dover.",
+                  "text": "A sandy beach on Lake Erie in Steel Plant, with a pier and ice cream stands.",
                   "category": "recreational",
                   "coords": [
                         -80.203261,
@@ -9792,7 +9792,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Black Creek Conservation Area",
-                  "text": "A conservation area near Port Dover.",
+                  "text": "A conservation area in Steel Plant protecting a creek and wetlands, with hiking trails.",
                   "category": "natural",
                   "coords": [
                         -80.181213,
@@ -9801,7 +9801,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Haldimand Conservation Area",
-                  "text": "A conservation area in Haldimand County.",
+                  "text": "A conservation area in Steel Plant along the Grand River, known for birdwatching.",
                   "category": "natural",
                   "coords": [
                         -79.995559,
@@ -9876,7 +9876,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Grassy Hut Recreation Site",
-                  "text": "Ein Campingplatz in der Columbia-Fluss Region.",
+                  "text": "Ein Erholungsgelände im River Hydro mit einem grasbewachsenen Unterstand und Feuerstelle.",
                   "category": "landmark",
                   "coords": [
                         -117.492169,
@@ -9894,7 +9894,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bonnington Steed Recreation Site",
-                  "text": "Ein Campingplatz in der Columbia-Fluss Region.",
+                  "text": "Ein nach dem historischen Bonnington Steed benanntes Erholungsgelände im River Hydro mit Picknicktischen.",
                   "category": "landmark",
                   "coords": [
                         -117.422654,
@@ -9932,7 +9932,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Grassy Hut Recreation Site",
-                  "text": "Egy kemping a Columbia folyó régióban.",
+                  "text": "Egy pihenőhely a River Hydroban, fűvel fedett menedékkel és tűzrakóhellyel.",
                   "category": "landmark",
                   "coords": [
                         -117.492169,
@@ -9950,7 +9950,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bonnington Steed Recreation Site",
-                  "text": "Egy kemping a Columbia folyó régióban.",
+                  "text": "A történelmi Bonnington Steedről elnevezett pihenőhely a River Hydroban, piknikasztalokkal.",
                   "category": "landmark",
                   "coords": [
                         -117.422654,
@@ -9988,7 +9988,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Grassy Hut Recreation Site",
-                  "text": "Un camping în Regiunea Râului Columbia.",
+                  "text": "Un loc de agrement în River Hydro, cu un adăpost de iarbă și un loc de foc.",
                   "category": "landmark",
                   "coords": [
                         -117.492169,
@@ -10006,7 +10006,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bonnington Steed Recreation Site",
-                  "text": "Un camping în Regiunea Râului Columbia.",
+                  "text": "Un loc de agrement în River Hydro numit după celebrul Bonnington Steed, cu mese de picnic.",
                   "category": "landmark",
                   "coords": [
                         -117.422654,
@@ -10044,7 +10044,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Grassy Hut Recreation Site",
-                  "text": "A camp site in the Columbia River region.",
+                  "text": "A recreation site in River Hydro with a grassy shelter and fire pit.",
                   "category": "landmark",
                   "coords": [
                         -117.492169,
@@ -10062,7 +10062,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bonnington Steed Recreation Site",
-                  "text": "A camp site in the Columbia River region.",
+                  "text": "A recreation site in River Hydro named after the historic Bonnington Steed, with picnic tables.",
                   "category": "landmark",
                   "coords": [
                         -117.422654,
@@ -10110,7 +10110,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Art Gallery of Burlington",
-                  "text": "Die Art Gallery of Burlington ist eine öffentliche Kunstgalerie in Hamilton-Port-Economic-v2.",
+                  "text": "Eine Kunstgalerie in einem restaurierten Schulhaus aus dem 19. Jahrhundert im Hafen (Port).",
                   "category": "museum",
                   "coords": [
                         -79.80103,
@@ -10119,7 +10119,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Burlington Canal Lift Bridge",
-                  "text": "Die Burlington Canal Lift Bridge ist eine vertikale Hubbrücke in Hamilton-Port-Economic-v2.",
+                  "text": "Eine vertikale Hubbrücke über den Burlington-Kanal, die Burlington mit Hamilton verbindet, in Port.",
                   "category": "landmark",
                   "coords": [
                         -79.795367,
@@ -10128,7 +10128,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Confederation Beach Park",
-                  "text": "Der Confederation Beach Park ist ein Park in Hamilton-Port-Economic-v2.",
+                  "text": "Ein Seeuferpark mit Sandstrand und Picknickplätzen am Ontariosee in Port.",
                   "category": "park",
                   "coords": [
                         -79.748834,
@@ -10137,7 +10137,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Battlefield House Museum",
-                  "text": "Das Battlefield House Museum ist ein Museum in Hamilton-Port-Economic-v2.",
+                  "text": "Das Battlefield House Museum in Port ist ein Museum in einem historischen Farmhaus aus dem Krieg von 1812.",
                   "category": "museum",
                   "coords": [
                         -79.766068,
@@ -10218,7 +10218,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Burlington Performing Arts Centre",
-                  "text": "Ein Zentrum für darstellende Künste in Burlington, in der Hamilton-Port-Region.",
+                  "text": "Das Burlington Performing Arts Centre in Port ist ein Zentrum für darstellende Künste mit zwei Theatern und 700 Sitzplätzen.",
                   "category": "cultural",
                   "coords": [
                         -79.798669,
@@ -10254,7 +10254,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Spencer Smith Park",
-                  "text": "Ein Park in Burlington, in der Hamilton-Port-Region.",
+                  "text": "Der Spencer Smith Park in Port ist ein Uferpark am Ontariosee mit einer Promenade und einem Spielplatz.",
                   "category": "park",
                   "coords": [
                         -79.798135,
@@ -10317,7 +10317,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Smith's Knoll Cemetery",
-                  "text": "Ein historischer Friedhof in der Hamilton-Port-Region.",
+                  "text": "Ein jahrhundertealter Friedhof in Port auf einem Hügel mit Gräbern früher Siedler.",
                   "category": "landmark",
                   "coords": [
                         -79.764222,
@@ -10353,7 +10353,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Cherry Beach",
-                  "text": "Ein Strand in der Hamilton-Port-Region.",
+                  "text": "Ein Strand in Port mit Kirschbäumen entlang der Uferlinie.",
                   "category": "recreational",
                   "coords": [
                         -79.712066,
@@ -10362,7 +10362,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Community Beach",
-                  "text": "Ein Gemeinschaftsstrand in der Hamilton-Port-Region.",
+                  "text": "Ein familienfreundlicher Strand in Port mit Spielplatz und Picknickbereich.",
                   "category": "recreational",
                   "coords": [
                         -79.728803,
@@ -10371,7 +10371,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Burlington Beach",
-                  "text": "Ein Strand in Burlington, in der Hamilton-Port-Region.",
+                  "text": "Ein langer sandiger Strand in Port, beliebt zum Windsurfen.",
                   "category": "recreational",
                   "coords": [
                         -79.799078,
@@ -10398,7 +10398,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Crescent Beach",
-                  "text": "Ein halbmondförmiger Strand in der Hamilton-Port-Region.",
+                  "text": "Crescent Beach in Port ist ein sandiger Strand in Form einer Mondsichel.",
                   "category": "recreational",
                   "coords": [
                         -79.741451,
@@ -10427,7 +10427,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Art Gallery of Burlington",
-                  "text": "Az Art Gallery of Burlington egy nyilvános művészeti galéria a Hamilton-Port-Economic-v2-ben.",
+                  "text": "Művészeti galéria egy felújított 19. századi iskolaépületben a Port területén.",
                   "category": "museum",
                   "coords": [
                         -79.80103,
@@ -10436,7 +10436,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Burlington Canal Lift Bridge",
-                  "text": "A Burlington Canal Lift Bridge egy függőleges felvonóhíd a Hamilton-Port-Economic-v2-ben.",
+                  "text": "Függőleges felvonóhíd a Burlington-csatorna felett, amely összeköti Burlington és Hamiltont a Port területén.",
                   "category": "landmark",
                   "coords": [
                         -79.795367,
@@ -10445,7 +10445,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Confederation Beach Park",
-                  "text": "A Confederation Beach Park egy park a Hamilton-Port-Economic-v2-ben.",
+                  "text": "Tóparti park homokos stranddal és piknikhelyekkel az Ontario-tónál a Port területén.",
                   "category": "park",
                   "coords": [
                         -79.748834,
@@ -10454,7 +10454,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Battlefield House Museum",
-                  "text": "A Battlefield House Museum egy múzeum a Hamilton-Port-Economic-v2-ben.",
+                  "text": "A Battlefield House Museum Portban egy múzeum egy történelmi tanyaházban az 1812-es háborúból.",
                   "category": "museum",
                   "coords": [
                         -79.766068,
@@ -10535,7 +10535,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Burlington Performing Arts Centre",
-                  "text": "Előadóművészeti központ Burlingtonban, a Hamilton Port régióban.",
+                  "text": "A Burlington Performing Arts Centre Portban egy előadóművészeti központ két színházzal és 700 ülőhellyel.",
                   "category": "cultural",
                   "coords": [
                         -79.798669,
@@ -10571,7 +10571,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Spencer Smith Park",
-                  "text": "Egy park Burlingtonban, a Hamilton Port régióban.",
+                  "text": "A Spencer Smith Park Portban egy tóparti park az Ontario-tó mellett sétánnyal és játszótérrel.",
                   "category": "park",
                   "coords": [
                         -79.798135,
@@ -10634,7 +10634,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Smith's Knoll Cemetery",
-                  "text": "Egy történelmi temető a Hamilton Port régióban.",
+                  "text": "Egy évszázados temető Portban egy dombon, korai telepesek sírjaival.",
                   "category": "landmark",
                   "coords": [
                         -79.764222,
@@ -10670,7 +10670,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Cherry Beach",
-                  "text": "Egy strand a Hamilton Port régióban.",
+                  "text": "Egy strand Portban, cseresznyefákkal a part mentén.",
                   "category": "recreational",
                   "coords": [
                         -79.712066,
@@ -10679,7 +10679,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Community Beach",
-                  "text": "Egy közösségi strand a Hamilton Port régióban.",
+                  "text": "Egy családbarát strand Portban, játszótérrel és piknikezőhellyel.",
                   "category": "recreational",
                   "coords": [
                         -79.728803,
@@ -10688,7 +10688,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Burlington Beach",
-                  "text": "Egy strand Burlingtonban, a Hamilton Port régióban.",
+                  "text": "Egy hosszú homokos strand Portban, népszerű a szörfözéshez.",
                   "category": "recreational",
                   "coords": [
                         -79.799078,
@@ -10715,7 +10715,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Crescent Beach",
-                  "text": "Egy félhold alakú strand a Hamilton Port régióban.",
+                  "text": "A Crescent Beach Portban egy holdsarló alakú homokos part.",
                   "category": "recreational",
                   "coords": [
                         -79.741451,
@@ -10744,7 +10744,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Art Gallery of Burlington",
-                  "text": "Galeria de Artă din Burlington este o galerie publică de artă în Hamilton-Port-Economic-v2.",
+                  "text": "O galerie de artă într-o fostă școală restaurată din secolul al XIX-lea în Port.",
                   "category": "museum",
                   "coords": [
                         -79.80103,
@@ -10753,7 +10753,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Burlington Canal Lift Bridge",
-                  "text": "Podul Lift Burlington Canal este un pod vertical mobil în Hamilton-Port-Economic-v2.",
+                  "text": "Un pod vertical basculant peste Canalul Burlington, care leagă Burlington de Hamilton în Port.",
                   "category": "landmark",
                   "coords": [
                         -79.795367,
@@ -10762,7 +10762,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Confederation Beach Park",
-                  "text": "Parcul Plaja Confederației este un parc în Hamilton-Port-Economic-v2.",
+                  "text": "Un parc lângă lac cu plajă nisipoasă și zone de picnic pe malul Lacului Ontario în Port.",
                   "category": "park",
                   "coords": [
                         -79.748834,
@@ -10771,7 +10771,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Battlefield House Museum",
-                  "text": "Muzeul Casei Câmpului de Luptă este un muzeu în Hamilton-Port-Economic-v2.",
+                  "text": "Muzeul Battlefield House din Port este un muzeu într-o casă de fermă istorică din Războiul din 1812.",
                   "category": "museum",
                   "coords": [
                         -79.766068,
@@ -10852,7 +10852,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Burlington Performing Arts Centre",
-                  "text": "Un centru de arte spectacolului în Burlington, în regiunea Hamilton Port.",
+                  "text": "Centrul de Arte Spectacolului Burlington din Port este un centru de artă cu două teatre și 700 de locuri.",
                   "category": "cultural",
                   "coords": [
                         -79.798669,
@@ -10888,7 +10888,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Spencer Smith Park",
-                  "text": "Un parc în Burlington, în regiunea Hamilton Port.",
+                  "text": "Parcul Spencer Smith din Port este un parc pe malul lacului Ontario cu o promenadă și un loc de joacă.",
                   "category": "park",
                   "coords": [
                         -79.798135,
@@ -10951,7 +10951,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Smith's Knoll Cemetery",
-                  "text": "Un cimitir istoric în regiunea Hamilton Port.",
+                  "text": "Un cimitir secular în Port pe o colină, cu morminte ale primilor coloniști.",
                   "category": "landmark",
                   "coords": [
                         -79.764222,
@@ -10987,7 +10987,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Cherry Beach",
-                  "text": "O plajă în regiunea Hamilton Port.",
+                  "text": "O plajă în Port cu cireși de-a lungul țărmului.",
                   "category": "recreational",
                   "coords": [
                         -79.712066,
@@ -10996,7 +10996,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Community Beach",
-                  "text": "O plajă comunitară în regiunea Hamilton Port.",
+                  "text": "O plajă prietenoasă pentru familii în Port, cu loc de joacă și zonă de picnic.",
                   "category": "recreational",
                   "coords": [
                         -79.728803,
@@ -11005,7 +11005,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Burlington Beach",
-                  "text": "O plajă în Burlington, în regiunea Hamilton Port.",
+                  "text": "O plajă lungă nisipoasă în Port, populară pentru windsurfing.",
                   "category": "recreational",
                   "coords": [
                         -79.799078,
@@ -11032,7 +11032,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Crescent Beach",
-                  "text": "O plajă în formă de semilună în regiunea Hamilton Port.",
+                  "text": "Crescent Beach din Port este o plajă nisipoasă în formă de semilună.",
                   "category": "recreational",
                   "coords": [
                         -79.741451,
@@ -11061,7 +11061,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Art Gallery of Burlington",
-                  "text": "Art Gallery of Burlington is a public art gallery in Hamilton-Port-Economic-v2.",
+                  "text": "An art gallery in a restored 19th-century schoolhouse in Port.",
                   "category": "museum",
                   "coords": [
                         -79.80103,
@@ -11070,7 +11070,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Burlington Canal Lift Bridge",
-                  "text": "Burlington Canal Lift Bridge is a vertical lift bridge in Hamilton-Port-Economic-v2.",
+                  "text": "A vertical lift bridge over the Burlington Canal connecting Burlington to Hamilton in Port.",
                   "category": "landmark",
                   "coords": [
                         -79.795367,
@@ -11079,7 +11079,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Confederation Beach Park",
-                  "text": "Confederation Beach Park is a park in Hamilton-Port-Economic-v2.",
+                  "text": "A lakeside park with a sandy beach and picnic areas on Lake Ontario in Port.",
                   "category": "park",
                   "coords": [
                         -79.748834,
@@ -11088,7 +11088,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Battlefield House Museum",
-                  "text": "Battlefield House Museum is a museum in Hamilton-Port-Economic-v2.",
+                  "text": "Battlefield House Museum in Port is a museum in a historic farmhouse from the War of 1812.",
                   "category": "museum",
                   "coords": [
                         -79.766068,
@@ -11169,7 +11169,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Burlington Performing Arts Centre",
-                  "text": "A performing arts centre in Burlington in the Hamilton Port region.",
+                  "text": "Burlington Performing Arts Centre in Port is a performing arts centre with two theatres and 700 seats.",
                   "category": "cultural",
                   "coords": [
                         -79.798669,
@@ -11205,7 +11205,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Spencer Smith Park",
-                  "text": "A park in Burlington in the Hamilton Port region.",
+                  "text": "Spencer Smith Park in Port is a lakeside park on Lake Ontario with a promenade and playground.",
                   "category": "park",
                   "coords": [
                         -79.798135,
@@ -11268,7 +11268,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Smith's Knoll Cemetery",
-                  "text": "A historic cemetery in the Hamilton Port region.",
+                  "text": "A century-old cemetery in Port on a knoll, with graves of early settlers.",
                   "category": "landmark",
                   "coords": [
                         -79.764222,
@@ -11304,7 +11304,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Cherry Beach",
-                  "text": "A beach in the Hamilton Port region.",
+                  "text": "A beach in Port with cherry trees along the shore.",
                   "category": "recreational",
                   "coords": [
                         -79.712066,
@@ -11313,7 +11313,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Community Beach",
-                  "text": "A community beach in the Hamilton Port region.",
+                  "text": "A family-friendly beach in Port with a playground and picnic area.",
                   "category": "recreational",
                   "coords": [
                         -79.728803,
@@ -11322,7 +11322,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Burlington Beach",
-                  "text": "A beach in Burlington in the Hamilton Port region.",
+                  "text": "A long sandy beach in Port, popular for windsurfing.",
                   "category": "recreational",
                   "coords": [
                         -79.799078,
@@ -11349,7 +11349,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Crescent Beach",
-                  "text": "A crescent-shaped beach in the Hamilton Port region.",
+                  "text": "Crescent Beach in Port is a sandy shoreline shaped like a crescent moon.",
                   "category": "recreational",
                   "coords": [
                         -79.741451,
@@ -11415,7 +11415,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "The Citedel Stage",
-                  "text": "The Citedel Stage ist ein Theater in Sarnia.",
+                  "text": "The Citadel Stage in Petrochemical ist eine Open-Air-Bühne im Industrieviertel der Stadt.",
                   "category": "cultural",
                   "coords": [
                         -82.424941,
@@ -11424,7 +11424,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Young Thomas Edison statue",
-                  "text": "Das Young Thomas Edison Denkmal ist ein Denkmal in Sarnia.",
+                  "text": "Die Young Thomas Edison Statue in Petrochemical zeigt den Erfinder als jungen Jungen in Bronze.",
                   "category": "historical",
                   "coords": [
                         -82.425915,
@@ -11433,7 +11433,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Pine Grove Scenic Lookout",
-                  "text": "Pine Grove Scenic Lookout ist ein Aussichtspunkt in Sarnia.",
+                  "text": "Pine Grove Scenic Lookout in Petrochemical bietet einen Panoramablick über einen Kiefernwald.",
                   "category": "natural",
                   "coords": [
                         -82.424356,
@@ -11442,7 +11442,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "McMorran Place Theatre",
-                  "text": "McMorran Place Theatre ist ein Theater in Sarnia.",
+                  "text": "Das McMorran Place Theatre in Petrochemical ist ein historisches Theater im Art-déco-Stil.",
                   "category": "cultural",
                   "coords": [
                         -82.425171,
@@ -11451,7 +11451,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "SC4 Tower",
-                  "text": "SC4 Tower ist ein Aussichtspunkt in Sarnia.",
+                  "text": "Der SC4 Tower in Petrochemical ist eine natürliche Felsformation, die wie ein Turm aussieht.",
                   "category": "natural",
                   "coords": [
                         -82.426479,
@@ -11460,7 +11460,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Perch Creek Habitat Management Area",
-                  "text": "Perch Creek Habitat Management Area ist ein Naturreservat in Sarnia.",
+                  "text": "Das Perch Creek Habitat Management Area in Petrochemical schützt Feuchtgebiete entlang des Perch Creek.",
                   "category": "natural",
                   "coords": [
                         -82.317941,
@@ -11469,7 +11469,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Stones 'N Bones Museum",
-                  "text": "Stones 'N Bones Museum ist ein Museum in Sarnia.",
+                  "text": "Das Stones 'N Bones Museum in Petrochemical zeigt eine Sammlung von Gesteinen und Fossilien.",
                   "category": "museum",
                   "coords": [
                         -82.406906,
@@ -11478,7 +11478,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Imperial Theatre",
-                  "text": "Imperial Theatre ist ein Theater in Sarnia.",
+                  "text": "Das Imperial Theatre in Petrochemical ist ein restauriertes Filmtheater, das heute Live-Aufführungen beherbergt.",
                   "category": "cultural",
                   "coords": [
                         -82.406958,
@@ -11487,7 +11487,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Dead End Woods Preserve",
-                  "text": "Dead End Woods Preserve ist ein Naturreservat in Sarnia.",
+                  "text": "Das Dead End Woods Preserve in Petrochemical ist ein Waldstück am Ende einer Sackgasse.",
                   "category": "natural",
                   "coords": [
                         -82.497861,
@@ -11496,7 +11496,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Sharon Rose Leonatti Memorial Plant Preserve",
-                  "text": "Sharon Rose Leonatti Memorial Plant Preserve ist ein Naturreservat in Sarnia.",
+                  "text": "Das Sharon Rose Leonatti Memorial Plant Preserve in Petrochemical bewahrt eine vielfältige Pflanzenwelt.",
                   "category": "natural",
                   "coords": [
                         -82.507551,
@@ -11505,7 +11505,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Haynes Park",
-                  "text": "Haynes Park ist ein Park in Sarnia.",
+                  "text": "Der Haynes Park in Petrochemical ist ein Gemeindepark mit Sportplätzen und einem Spielplatz.",
                   "category": "park",
                   "coords": [
                         -82.432981,
@@ -11514,7 +11514,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Shorewood Forrest Preserve",
-                  "text": "Shorewood Forrest Preserve ist ein Naturreservat in Sarnia.",
+                  "text": "Das Shorewood Forrest Preserve in Petrochemical ist ein Waldreservat mit küstennahen Wanderwegen.",
                   "category": "natural",
                   "coords": [
                         -82.472518,
@@ -11523,7 +11523,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Palmer Park",
-                  "text": "Palmer Park ist ein Park in Sarnia.",
+                  "text": "Der Palmer Park in Petrochemical ist ein Park mit einem Angelsteg am St. Clair River.",
                   "category": "park",
                   "coords": [
                         -82.427404,
@@ -11550,7 +11550,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Gratiot Park",
-                  "text": "Gratiot Park ist ein Park in Sarnia.",
+                  "text": "Der Gratiot Park in Petrochemical ist ein Park entlang des St. Clair River mit Flussblick.",
                   "category": "park",
                   "coords": [
                         -82.428057,
@@ -11559,7 +11559,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Mansfield Park",
-                  "text": "Mansfield Park ist ein Park in Sarnia.",
+                  "text": "Der Mansfield Park in Petrochemical ist ein Nachbarschaftspark mit einem Baseballfeld.",
                   "category": "park",
                   "coords": [
                         -82.431788,
@@ -11568,7 +11568,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Huron Lightship",
-                  "text": "Huron Lightship ist ein Museum in Sarnia.",
+                  "text": "Der Huron-Lightship in Petrochemical ist ein denkmalgeschütztes Museumsschiff.",
                   "category": "museum",
                   "coords": [
                         -82.426541,
@@ -11577,7 +11577,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Pine Grove Park",
-                  "text": "Pine Grove Park ist ein Park in Sarnia.",
+                  "text": "Der Pine Grove Park in Petrochemical ist ein Park mit einem Strand und Picknickplätzen.",
                   "category": "park",
                   "coords": [
                         -82.426596,
@@ -11586,7 +11586,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Michigan Road Preserve",
-                  "text": "Michigan Road Preserve ist ein Naturreservat in Sarnia.",
+                  "text": "Das Michigan Road Preserve in Petrochemical ist ein Naturschutzgebiet entlang der Michigan Road.",
                   "category": "natural",
                   "coords": [
                         -82.478736,
@@ -11595,7 +11595,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Knox Field",
-                  "text": "Knox Field ist ein Park in Sarnia.",
+                  "text": "Das Knox Field in Petrochemical ist ein Baseballfeld, das von Jugendmannschaften genutzt wird.",
                   "category": "park",
                   "coords": [
                         -82.453018,
@@ -11604,7 +11604,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Sixteenth & Dove Park",
-                  "text": "Sixteenth & Dove Park ist ein Park in Sarnia.",
+                  "text": "Der Sixteenth & Dove Park in Petrochemical ist ein kleiner Gemeinschaftspark mit Bänken und Bäumen.",
                   "category": "park",
                   "coords": [
                         -82.440746,
@@ -11613,7 +11613,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Port Huron Museum",
-                  "text": "Port Huron Museum ist ein Museum in Sarnia.",
+                  "text": "Das Port Huron Museum in Petrochemical zeigt die maritime und industrielle Geschichte der Region.",
                   "category": "museum",
                   "coords": [
                         -82.426511,
@@ -11622,7 +11622,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Blue Water River Walk",
-                  "text": "Blue Water River Walk ist ein Park in Sarnia.",
+                  "text": "Der Blue Water River Walk in Petrochemical ist ein 2,4 km langer Fußweg entlang des St. Clair River.",
                   "category": "park",
                   "coords": [
                         -82.421525,
@@ -11631,7 +11631,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Lincoln Park",
-                  "text": "Lincoln Park ist ein Park in Sarnia.",
+                  "text": "Der Lincoln Park in Petrochemical ist ein Park mit einem Skatepark und Tennisplätzen.",
                   "category": "park",
                   "coords": [
                         -82.455047,
@@ -11640,7 +11640,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "St. Benedict Catholic Church",
-                  "text": "St. Benedict Catholic Church ist ein Gotteshaus in Sarnia.",
+                  "text": "Die St. Benedict Catholic Church in Petrochemical ist eine römisch-katholische Kirche mit Buntglasfenstern.",
                   "category": "religious",
                   "coords": [
                         -82.371586,
@@ -11649,7 +11649,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "St. Joseph's Catholic Church",
-                  "text": "St. Joseph's Catholic Church ist ein Gotteshaus in Sarnia.",
+                  "text": "Die St. Joseph's Catholic Church in Petrochemical ist eine historische katholische Kirche mit einem hohen Turm.",
                   "category": "religious",
                   "coords": [
                         -82.400432,
@@ -11658,7 +11658,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Great Lakes Maritime Center",
-                  "text": "Great Lakes Maritime Center ist ein Aussichtspunkt in Sarnia.",
+                  "text": "Das Great Lakes Maritime Center in Petrochemical informiert über die Schifffahrt auf den Großen Seen.",
                   "category": "natural",
                   "coords": [
                         -82.419597,
@@ -11667,7 +11667,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Kiefer Park",
-                  "text": "Kiefer Park ist ein Park in Sarnia.",
+                  "text": "Der Kiefer Park in Petrochemical ist ein Park mit einem Wasserspielplatz und einem Spielplatz.",
                   "category": "park",
                   "coords": [
                         -82.420308,
@@ -11676,7 +11676,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Our Lady of Mercy Catholic Church",
-                  "text": "Our Lady of Mercy Catholic Church ist ein Gotteshaus in Sarnia.",
+                  "text": "Die Our Lady of Mercy Catholic Church in Petrochemical ist eine römisch-katholische Kirche der Gemeinde.",
                   "category": "religious",
                   "coords": [
                         -82.403215,
@@ -11685,7 +11685,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Queen of Peace Roman Catholic Church",
-                  "text": "Queen of Peace Roman Catholic Church ist ein Gotteshaus in Sarnia.",
+                  "text": "Die Queen of Peace Roman Catholic Church in Petrochemical ist eine moderne katholische Kirche mit besonderer Architektur.",
                   "category": "religious",
                   "coords": [
                         -82.39155,
@@ -11694,7 +11694,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Children's Animal Farm",
-                  "text": "Children's Animal Farm ist ein Zoo in Sarnia.",
+                  "text": "Der Children's Animal Farm in Petrochemical ist ein Streichelzoo mit heimischen Nutztieren.",
                   "category": "recreational",
                   "coords": [
                         -82.401866,
@@ -11703,7 +11703,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Norm Perry Park",
-                  "text": "Ein Park in Sarnia.",
+                  "text": "Der Norm Perry Park in Petrochemical ist ein Park mit einem Fußballfeld und Wanderwegen.",
                   "category": "park",
                   "coords": [
                         -82.39791,
@@ -11712,7 +11712,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "St Thomas D'Aquin Catholic Church",
-                  "text": "Eine katholische Kirche in Sarnia.",
+                  "text": "Die St Thomas D'Aquin Catholic Church in Petrochemical ist eine römisch-katholische Kirche der franko-ontarischen Gemeinschaft.",
                   "category": "religious",
                   "coords": [
                         -82.376575,
@@ -11721,7 +11721,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Sacred Heart Roman Catholic Church",
-                  "text": "Eine römisch-katholische Kirche in Sarnia.",
+                  "text": "Die Sacred Heart Roman Catholic Church in Petrochemical ist eine katholische Kirche mit einem großen Kruzifix.",
                   "category": "religious",
                   "coords": [
                         -82.39003,
@@ -11730,7 +11730,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Canatara Beach",
-                  "text": "Ein Strand in Sarnia.",
+                  "text": "Canatara Beach in Petrochemical ist ein Sandstrand am Ufer des Lake Huron.",
                   "category": "recreational",
                   "coords": [
                         -82.405975,
@@ -11739,7 +11739,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Wawanosh Wetlands Conservation Area",
-                  "text": "Ein Naturschutzgebiet in Sarnia.",
+                  "text": "Das Wawanosh Wetlands Conservation Area in Petrochemical schützt ein ausgedehntes Feuchtgebiet.",
                   "category": "natural",
                   "coords": [
                         -82.330016,
@@ -11750,7 +11750,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "The Citedel Stage",
-                  "text": "The Citedel Stage egy színház Sarniában.",
+                  "text": "A The Citadel Stage Petrochemicalban egy szabadtéri színpad a város ipari negyedében.",
                   "category": "cultural",
                   "coords": [
                         -82.424941,
@@ -11759,7 +11759,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Young Thomas Edison statue",
-                  "text": "A Young Thomas Edison szobor egy emlékmű Sarniában.",
+                  "text": "A Young Thomas Edison szobor Petrochemicalban a feltalálót fiatal fiúként ábrázolja bronzban.",
                   "category": "historical",
                   "coords": [
                         -82.425915,
@@ -11768,7 +11768,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Pine Grove Scenic Lookout",
-                  "text": "A Pine Grove Scenic Lookout egy kilátópont Sarniában.",
+                  "text": "A Pine Grove Scenic Lookout Petrochemicalban panorámakilátást nyújt egy fenyőerdőre.",
                   "category": "natural",
                   "coords": [
                         -82.424356,
@@ -11777,7 +11777,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "McMorran Place Theatre",
-                  "text": "A McMorran Place Theatre egy színház Sarniában.",
+                  "text": "A McMorran Place Theatre Petrochemicalban egy historikus Art déco stílusú színház.",
                   "category": "cultural",
                   "coords": [
                         -82.425171,
@@ -11786,7 +11786,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "SC4 Tower",
-                  "text": "Az SC4 Tower egy kilátópont Sarniában.",
+                  "text": "Az SC4 Tower Petrochemicalban egy természetes sziklaalakzat, amely toronyra hasonlít.",
                   "category": "natural",
                   "coords": [
                         -82.426479,
@@ -11795,7 +11795,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Perch Creek Habitat Management Area",
-                  "text": "A Perch Creek Habitat Management Area egy természetvédelmi terület Sarniában.",
+                  "text": "A Perch Creek Habitat Management Area Petrochemicalban védett vizes élőhely a Perch Creek mentén.",
                   "category": "natural",
                   "coords": [
                         -82.317941,
@@ -11804,7 +11804,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Stones 'N Bones Museum",
-                  "text": "A Stones 'N Bones Museum egy múzeum Sarniában.",
+                  "text": "A Stones 'N Bones Múzeum Petrochemicalban kőzetekből és fosszíliákból álló gyűjteményt mutat be.",
                   "category": "museum",
                   "coords": [
                         -82.406906,
@@ -11813,7 +11813,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Imperial Theatre",
-                  "text": "Az Imperial Theatre egy színház Sarniában.",
+                  "text": "Az Imperial Theatre Petrochemicalben egy felújított filmszínház, amely most élő előadásoknak ad otthont.",
                   "category": "cultural",
                   "coords": [
                         -82.406958,
@@ -11822,7 +11822,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Dead End Woods Preserve",
-                  "text": "A Dead End Woods Preserve egy természetvédelmi terület Sarniában.",
+                  "text": "A Dead End Woods Preserve Petrochemicalban egy erdőterület egy zsákutca végén.",
                   "category": "natural",
                   "coords": [
                         -82.497861,
@@ -11831,7 +11831,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Sharon Rose Leonatti Memorial Plant Preserve",
-                  "text": "A Sharon Rose Leonatti Memorial Plant Preserve egy természetvédelmi terület Sarniában.",
+                  "text": "A Sharon Rose Leonatti Memorial Plant Preserve Petrochemicalban változatos növényvilágot őriz.",
                   "category": "natural",
                   "coords": [
                         -82.507551,
@@ -11840,7 +11840,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Haynes Park",
-                  "text": "A Haynes Park egy park Sarniában.",
+                  "text": "A Haynes Park Petrochemicalben egy közösségi park sportpályákkal és játszótérrel.",
                   "category": "park",
                   "coords": [
                         -82.432981,
@@ -11849,7 +11849,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Shorewood Forrest Preserve",
-                  "text": "A Shorewood Forrest Preserve egy természetvédelmi terület Sarniában.",
+                  "text": "A Shorewood Forrest Preserve Petrochemicalban egy erdőrezervátum tengerparti túraútvonalakkal.",
                   "category": "natural",
                   "coords": [
                         -82.472518,
@@ -11858,7 +11858,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Palmer Park",
-                  "text": "A Palmer Park egy park Sarniában.",
+                  "text": "A Palmer Park Petrochemicalben egy park horgászmólóval a St. Clair folyón.",
                   "category": "park",
                   "coords": [
                         -82.427404,
@@ -11885,7 +11885,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Gratiot Park",
-                  "text": "A Gratiot Park egy park Sarniában.",
+                  "text": "A Gratiot Park Petrochemicalben egy park a St. Clair folyó mentén folyókilátással.",
                   "category": "park",
                   "coords": [
                         -82.428057,
@@ -11894,7 +11894,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Mansfield Park",
-                  "text": "A Mansfield Park egy park Sarniában.",
+                  "text": "A Mansfield Park Petrochemicalben egy szomszédsági park baseballpályával.",
                   "category": "park",
                   "coords": [
                         -82.431788,
@@ -11903,7 +11903,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Huron Lightship",
-                  "text": "A Huron Lightship egy múzeum Sarniában.",
+                  "text": "A Petrochemical-i Huron világítóhajó műemléki védettségű múzeumhajó.",
                   "category": "museum",
                   "coords": [
                         -82.426541,
@@ -11912,7 +11912,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Pine Grove Park",
-                  "text": "A Pine Grove Park egy park Sarniában.",
+                  "text": "A Pine Grove Park Petrochemicalben egy park stranddal és piknikezőhelyekkel.",
                   "category": "park",
                   "coords": [
                         -82.426596,
@@ -11921,7 +11921,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Michigan Road Preserve",
-                  "text": "A Michigan Road Preserve egy természetvédelmi terület Sarniában.",
+                  "text": "A Michigan Road Preserve Petrochemicalban egy természetvédelmi terület a Michigan Road mentén.",
                   "category": "natural",
                   "coords": [
                         -82.478736,
@@ -11930,7 +11930,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Knox Field",
-                  "text": "A Knox Field egy park Sarniában.",
+                  "text": "A Knox Field Petrochemicalben egy baseballpálya, amelyet ifjúsági csapatok használnak.",
                   "category": "park",
                   "coords": [
                         -82.453018,
@@ -11939,7 +11939,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Sixteenth & Dove Park",
-                  "text": "A Sixteenth & Dove Park egy park Sarniában.",
+                  "text": "A Sixteenth & Dove Park Petrochemicalben egy kis közösségi park padokkal és fákkal.",
                   "category": "park",
                   "coords": [
                         -82.440746,
@@ -11948,7 +11948,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Port Huron Museum",
-                  "text": "A Port Huron Museum egy múzeum Sarniában.",
+                  "text": "A Port Huron Múzeum Petrochemicalban a régió tengeri és ipari történetét mutatja be.",
                   "category": "museum",
                   "coords": [
                         -82.426511,
@@ -11957,7 +11957,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Blue Water River Walk",
-                  "text": "A Blue Water River Walk egy park Sarniában.",
+                  "text": "A Blue Water River Walk Petrochemicalben egy 2,4 km hosszú sétány a St. Clair folyó mentén.",
                   "category": "park",
                   "coords": [
                         -82.421525,
@@ -11966,7 +11966,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Lincoln Park",
-                  "text": "A Lincoln Park egy park Sarniában.",
+                  "text": "A Lincoln Park Petrochemicalben egy park gördeszkaparkkal és teniszpályákkal.",
                   "category": "park",
                   "coords": [
                         -82.455047,
@@ -11975,7 +11975,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "St. Benedict Catholic Church",
-                  "text": "A St. Benedict Catholic Church egy templom Sarniában.",
+                  "text": "A St. Benedict Catholic Church Petrochemicalben egy római katolikus templom ólomüveg ablakokkal.",
                   "category": "religious",
                   "coords": [
                         -82.371586,
@@ -11984,7 +11984,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "St. Joseph's Catholic Church",
-                  "text": "A St. Joseph's Catholic Church egy templom Sarniában.",
+                  "text": "A St. Joseph's Catholic Church Petrochemicalben egy történelmi katolikus templom magas toronnyal.",
                   "category": "religious",
                   "coords": [
                         -82.400432,
@@ -11993,7 +11993,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Great Lakes Maritime Center",
-                  "text": "A Great Lakes Maritime Center egy kilátópont Sarniában.",
+                  "text": "A Great Lakes Maritime Center Petrochemicalban a Nagy-tavak hajózásáról nyújt információkat.",
                   "category": "natural",
                   "coords": [
                         -82.419597,
@@ -12002,7 +12002,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Kiefer Park",
-                  "text": "A Kiefer Park egy park Sarniában.",
+                  "text": "A Kiefer Park Petrochemicalben egy park vízijátszótérrel és játszótérrel.",
                   "category": "park",
                   "coords": [
                         -82.420308,
@@ -12011,7 +12011,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Our Lady of Mercy Catholic Church",
-                  "text": "A Our Lady of Mercy Catholic Church egy templom Sarniában.",
+                  "text": "A Our Lady of Mercy Catholic Church Petrochemicalben egy római katolikus templom a közösség számára.",
                   "category": "religious",
                   "coords": [
                         -82.403215,
@@ -12020,7 +12020,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Queen of Peace Roman Catholic Church",
-                  "text": "A Queen of Peace Roman Catholic Church egy templom Sarniában.",
+                  "text": "A Queen of Peace Roman Catholic Church Petrochemicalben egy modern katolikus templom jellegzetes építészettel.",
                   "category": "religious",
                   "coords": [
                         -82.39155,
@@ -12029,7 +12029,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Children's Animal Farm",
-                  "text": "A Children's Animal Farm egy állatkert Sarniában.",
+                  "text": "A Children's Animal Farm Petrochemicalban egy simogató állatkert házi haszonállatokkal.",
                   "category": "recreational",
                   "coords": [
                         -82.401866,
@@ -12038,7 +12038,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Norm Perry Park",
-                  "text": "Egy park Sarniában.",
+                  "text": "A Norm Perry Park Petrochemicalben egy park futballpályával és sétányokkal.",
                   "category": "park",
                   "coords": [
                         -82.39791,
@@ -12047,7 +12047,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "St Thomas D'Aquin Catholic Church",
-                  "text": "Egy katolikus templom Sarniában.",
+                  "text": "A St Thomas D'Aquin Catholic Church Petrochemicalben egy római katolikus templom a franko-ontariói közösség számára.",
                   "category": "religious",
                   "coords": [
                         -82.376575,
@@ -12056,7 +12056,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Sacred Heart Roman Catholic Church",
-                  "text": "Egy római katolikus templom Sarniában.",
+                  "text": "A Sacred Heart Roman Catholic Church Petrochemicalben egy katolikus templom nagy feszülettel.",
                   "category": "religious",
                   "coords": [
                         -82.39003,
@@ -12065,7 +12065,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Canatara Beach",
-                  "text": "Egy strand Sarniában.",
+                  "text": "A Canatara Beach Petrochemicalban egy homokos part a Huron-tó partján.",
                   "category": "recreational",
                   "coords": [
                         -82.405975,
@@ -12074,7 +12074,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Wawanosh Wetlands Conservation Area",
-                  "text": "Egy természetvédelmi terület Sarniában.",
+                  "text": "A Wawanosh Wetlands Conservation Area Petrochemicalban egy kiterjedt vizes élőhelyet véd.",
                   "category": "natural",
                   "coords": [
                         -82.330016,
@@ -12085,7 +12085,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "The Citedel Stage",
-                  "text": "The Citedel Stage este un teatru în Sarnia.",
+                  "text": "The Citadel Stage din Petrochemical este o scenă în aer liber în cartierul industrial al orașului.",
                   "category": "cultural",
                   "coords": [
                         -82.424941,
@@ -12094,7 +12094,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Young Thomas Edison statue",
-                  "text": "Statuia lui Young Thomas Edison este un monument în Sarnia.",
+                  "text": "Statuia Young Thomas Edison din Petrochemical îl înfățișează pe inventator ca băiat tânăr, din bronz.",
                   "category": "historical",
                   "coords": [
                         -82.425915,
@@ -12103,7 +12103,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Pine Grove Scenic Lookout",
-                  "text": "Pine Grove Scenic Lookout este un punct de belvedere în Sarnia.",
+                  "text": "Pine Grove Scenic Lookout din Petrochemical oferă o vedere panoramică asupra unei păduri de pini.",
                   "category": "natural",
                   "coords": [
                         -82.424356,
@@ -12112,7 +12112,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "McMorran Place Theatre",
-                  "text": "McMorran Place Theatre este un teatru în Sarnia.",
+                  "text": "Teatrul McMorran Place din Petrochemical este un teatru istoric în stil Art Deco.",
                   "category": "cultural",
                   "coords": [
                         -82.425171,
@@ -12121,7 +12121,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "SC4 Tower",
-                  "text": "SC4 Tower este un punct de belvedere în Sarnia.",
+                  "text": "Turnul SC4 din Petrochemical este o formațiune naturală de stâncă ce seamănă cu un turn.",
                   "category": "natural",
                   "coords": [
                         -82.426479,
@@ -12130,7 +12130,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Perch Creek Habitat Management Area",
-                  "text": "Perch Creek Habitat Management Area este o rezervație naturală în Sarnia.",
+                  "text": "Zona de management a habitatului Perch Creek din Petrochemical protejează zonele umede de-a lungul pârâului Perch.",
                   "category": "natural",
                   "coords": [
                         -82.317941,
@@ -12139,7 +12139,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Stones 'N Bones Museum",
-                  "text": "Stones 'N Bones Museum este un muzeu în Sarnia.",
+                  "text": "Muzeul Stones 'N Bones din Petrochemical expune o colecție de roci și fosile.",
                   "category": "museum",
                   "coords": [
                         -82.406906,
@@ -12148,7 +12148,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Imperial Theatre",
-                  "text": "Imperial Theatre este un teatru în Sarnia.",
+                  "text": "Teatrul Imperial din Petrochemical este un fost cinematograf restaurat care găzduiește spectacole live.",
                   "category": "cultural",
                   "coords": [
                         -82.406958,
@@ -12157,7 +12157,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Dead End Woods Preserve",
-                  "text": "Dead End Woods Preserve este o rezervație naturală în Sarnia.",
+                  "text": "Rezervația Dead End Woods din Petrochemical este o pădure la capătul unui drum fără ieșire.",
                   "category": "natural",
                   "coords": [
                         -82.497861,
@@ -12166,7 +12166,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Sharon Rose Leonatti Memorial Plant Preserve",
-                  "text": "Sharon Rose Leonatti Memorial Plant Preserve este o rezervație naturală în Sarnia.",
+                  "text": "Rezervația de plante memorială Sharon Rose Leonatti din Petrochemical conservă o floră diversă.",
                   "category": "natural",
                   "coords": [
                         -82.507551,
@@ -12175,7 +12175,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Haynes Park",
-                  "text": "Haynes Park este un parc în Sarnia.",
+                  "text": "Parcul Haynes din Petrochemical este un parc comunitar cu terenuri de sport și loc de joacă.",
                   "category": "park",
                   "coords": [
                         -82.432981,
@@ -12184,7 +12184,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Shorewood Forrest Preserve",
-                  "text": "Shorewood Forrest Preserve este o rezervație naturală în Sarnia.",
+                  "text": "Rezervația forestieră Shorewood din Petrochemical este o pădure cu trasee de drumeție de coastă.",
                   "category": "natural",
                   "coords": [
                         -82.472518,
@@ -12193,7 +12193,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Palmer Park",
-                  "text": "Palmer Park este un parc în Sarnia.",
+                  "text": "Parcul Palmer din Petrochemical este un parc cu o platformă de pescuit pe râul St. Clair.",
                   "category": "park",
                   "coords": [
                         -82.427404,
@@ -12220,7 +12220,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Gratiot Park",
-                  "text": "Gratiot Park este un parc în Sarnia.",
+                  "text": "Parcul Gratiot din Petrochemical este un parc de-a lungul râului St. Clair cu vederi asupra râului.",
                   "category": "park",
                   "coords": [
                         -82.428057,
@@ -12229,7 +12229,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Mansfield Park",
-                  "text": "Mansfield Park este un parc în Sarnia.",
+                  "text": "Parcul Mansfield din Petrochemical este un parc de cartier cu un teren de baseball.",
                   "category": "park",
                   "coords": [
                         -82.431788,
@@ -12238,7 +12238,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Huron Lightship",
-                  "text": "Huron Lightship este un muzeu în Sarnia.",
+                  "text": "Nava far Huron din Petrochemical este un vapor muzeu protejat ca monument istoric.",
                   "category": "museum",
                   "coords": [
                         -82.426541,
@@ -12247,7 +12247,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Pine Grove Park",
-                  "text": "Pine Grove Park este un parc în Sarnia.",
+                  "text": "Parcul Pine Grove din Petrochemical este un parc cu plajă și zone de picnic.",
                   "category": "park",
                   "coords": [
                         -82.426596,
@@ -12256,7 +12256,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Michigan Road Preserve",
-                  "text": "Michigan Road Preserve este o rezervație naturală în Sarnia.",
+                  "text": "Rezervația Michigan Road din Petrochemical este o arie protejată de-a lungul drumului Michigan.",
                   "category": "natural",
                   "coords": [
                         -82.478736,
@@ -12265,7 +12265,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Knox Field",
-                  "text": "Knox Field este un parc în Sarnia.",
+                  "text": "Knox Field din Petrochemical este un teren de baseball folosit de echipele de tineret.",
                   "category": "park",
                   "coords": [
                         -82.453018,
@@ -12274,7 +12274,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Sixteenth & Dove Park",
-                  "text": "Sixteenth & Dove Park este un parc în Sarnia.",
+                  "text": "Parcul Sixteenth & Dove din Petrochemical este un mic parc comunitar cu bănci și copaci.",
                   "category": "park",
                   "coords": [
                         -82.440746,
@@ -12283,7 +12283,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Port Huron Museum",
-                  "text": "Port Huron Museum este un muzeu în Sarnia.",
+                  "text": "Muzeul Port Huron din Petrochemical prezintă istoria maritimă și industrială a regiunii.",
                   "category": "museum",
                   "coords": [
                         -82.426511,
@@ -12292,7 +12292,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Blue Water River Walk",
-                  "text": "Blue Water River Walk este un parc în Sarnia.",
+                  "text": "Blue Water River Walk din Petrochemical este o promenadă de 2,4 km de-a lungul râului St. Clair.",
                   "category": "park",
                   "coords": [
                         -82.421525,
@@ -12301,7 +12301,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Lincoln Park",
-                  "text": "Lincoln Park este un parc în Sarnia.",
+                  "text": "Parcul Lincoln din Petrochemical este un parc cu un skatepark și terenuri de tenis.",
                   "category": "park",
                   "coords": [
                         -82.455047,
@@ -12310,7 +12310,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "St. Benedict Catholic Church",
-                  "text": "St. Benedict Catholic Church este un lăcaș de cult în Sarnia.",
+                  "text": "Biserica Catolică Sf. Benedict din Petrochemical este o biserică romano-catolică cu vitralii.",
                   "category": "religious",
                   "coords": [
                         -82.371586,
@@ -12319,7 +12319,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "St. Joseph's Catholic Church",
-                  "text": "St. Joseph's Catholic Church este un lăcaș de cult în Sarnia.",
+                  "text": "Biserica Catolică Sf. Iosif din Petrochemical este o biserică catolică istorică cu un turn înalt.",
                   "category": "religious",
                   "coords": [
                         -82.400432,
@@ -12328,7 +12328,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Great Lakes Maritime Center",
-                  "text": "Great Lakes Maritime Center este un punct de belvedere în Sarnia.",
+                  "text": "Centrul Maritim al Marilor Lacuri din Petrochemical informează despre navigația pe Marile Lacuri.",
                   "category": "natural",
                   "coords": [
                         -82.419597,
@@ -12337,7 +12337,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Kiefer Park",
-                  "text": "Kiefer Park este un parc în Sarnia.",
+                  "text": "Parcul Kiefer din Petrochemical este un parc cu un loc de joacă cu apă și un loc de joacă.",
                   "category": "park",
                   "coords": [
                         -82.420308,
@@ -12346,7 +12346,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Our Lady of Mercy Catholic Church",
-                  "text": "Our Lady of Mercy Catholic Church este un lăcaș de cult în Sarnia.",
+                  "text": "Biserica Catolică Maica Milostivirii din Petrochemical este o biserică romano-catolică a comunității.",
                   "category": "religious",
                   "coords": [
                         -82.403215,
@@ -12355,7 +12355,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Queen of Peace Roman Catholic Church",
-                  "text": "Queen of Peace Roman Catholic Church este un lăcaș de cult în Sarnia.",
+                  "text": "Biserica Romano-Catolică Regina Păcii din Petrochemical este o biserică catolică modernă cu o arhitectură distinctivă.",
                   "category": "religious",
                   "coords": [
                         -82.39155,
@@ -12364,7 +12364,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Children's Animal Farm",
-                  "text": "Children's Animal Farm este o grădină zoologică în Sarnia.",
+                  "text": "Ferma de animale pentru copii din Petrochemical este o grădină zoologică de contact cu animale domestice.",
                   "category": "recreational",
                   "coords": [
                         -82.401866,
@@ -12373,7 +12373,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Norm Perry Park",
-                  "text": "Un parc în Sarnia.",
+                  "text": "Parcul Norm Perry din Petrochemical este un parc cu un teren de fotbal și trasee de mers pe jos.",
                   "category": "park",
                   "coords": [
                         -82.39791,
@@ -12382,7 +12382,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "St Thomas D'Aquin Catholic Church",
-                  "text": "O biserică catolică în Sarnia.",
+                  "text": "Biserica Catolică Sf. Toma de Aquino din Petrochemical este o biserică romano-catolică a comunității franco-ontariene.",
                   "category": "religious",
                   "coords": [
                         -82.376575,
@@ -12391,7 +12391,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Sacred Heart Roman Catholic Church",
-                  "text": "O biserică romano-catolică în Sarnia.",
+                  "text": "Biserica Romano-Catolică Inima Sacră din Petrochemical este o biserică catolică cu o cruce mare.",
                   "category": "religious",
                   "coords": [
                         -82.39003,
@@ -12400,7 +12400,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Canatara Beach",
-                  "text": "O plajă în Sarnia.",
+                  "text": "Plaja Canatara din Petrochemical este o plajă nisipoasă pe malul lacului Huron.",
                   "category": "recreational",
                   "coords": [
                         -82.405975,
@@ -12409,7 +12409,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Wawanosh Wetlands Conservation Area",
-                  "text": "O rezervație naturală în Sarnia.",
+                  "text": "Zona de conservare a zonelor umede Wawanosh din Petrochemical protejează o întindere mare de zone umede.",
                   "category": "natural",
                   "coords": [
                         -82.330016,
@@ -12420,7 +12420,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "The Citedel Stage",
-                  "text": "The Citedel Stage is a theatre in Sarnia.",
+                  "text": "The Citadel Stage in Petrochemical is an open-air performance venue in the city’s industrial district.",
                   "category": "cultural",
                   "coords": [
                         -82.424941,
@@ -12429,7 +12429,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Young Thomas Edison statue",
-                  "text": "The Young Thomas Edison statue is a monument in Sarnia.",
+                  "text": "The Young Thomas Edison statue in Petrochemical depicts the inventor as a young boy in bronze.",
                   "category": "historical",
                   "coords": [
                         -82.425915,
@@ -12438,7 +12438,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Pine Grove Scenic Lookout",
-                  "text": "Pine Grove Scenic Lookout is a viewpoint in Sarnia.",
+                  "text": "Pine Grove Scenic Lookout in Petrochemical offers a panoramic view over a pine forest.",
                   "category": "natural",
                   "coords": [
                         -82.424356,
@@ -12447,7 +12447,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "McMorran Place Theatre",
-                  "text": "McMorran Place Theatre is a theatre in Sarnia.",
+                  "text": "McMorran Place Theatre in Petrochemical is a historic Art Deco-style theater.",
                   "category": "cultural",
                   "coords": [
                         -82.425171,
@@ -12456,7 +12456,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "SC4 Tower",
-                  "text": "SC4 Tower is a viewpoint in Sarnia.",
+                  "text": "SC4 Tower in Petrochemical is a natural rock formation resembling a tower.",
                   "category": "natural",
                   "coords": [
                         -82.426479,
@@ -12465,7 +12465,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Perch Creek Habitat Management Area",
-                  "text": "Perch Creek Habitat Management Area is a nature reserve in Sarnia.",
+                  "text": "Perch Creek Habitat Management Area in Petrochemical protects wetlands along Perch Creek.",
                   "category": "natural",
                   "coords": [
                         -82.317941,
@@ -12474,7 +12474,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Stones 'N Bones Museum",
-                  "text": "Stones 'N Bones Museum is a museum in Sarnia.",
+                  "text": "Stones 'N Bones Museum in Petrochemical displays a collection of rocks and fossils.",
                   "category": "museum",
                   "coords": [
                         -82.406906,
@@ -12483,7 +12483,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Imperial Theatre",
-                  "text": "Imperial Theatre is a theatre in Sarnia.",
+                  "text": "Imperial Theatre in Petrochemical is a restored movie palace hosting live performances.",
                   "category": "cultural",
                   "coords": [
                         -82.406958,
@@ -12492,7 +12492,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Dead End Woods Preserve",
-                  "text": "Dead End Woods Preserve is a nature reserve in Sarnia.",
+                  "text": "Dead End Woods Preserve in Petrochemical is a forested area at the end of a dead-end road.",
                   "category": "natural",
                   "coords": [
                         -82.497861,
@@ -12501,7 +12501,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Sharon Rose Leonatti Memorial Plant Preserve",
-                  "text": "Sharon Rose Leonatti Memorial Plant Preserve is a nature reserve in Sarnia.",
+                  "text": "Sharon Rose Leonatti Memorial Plant Preserve in Petrochemical preserves a diverse plant community.",
                   "category": "natural",
                   "coords": [
                         -82.507551,
@@ -12510,7 +12510,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Haynes Park",
-                  "text": "Haynes Park is a park in Sarnia.",
+                  "text": "Haynes Park in Petrochemical is a community park with sports fields and a playground.",
                   "category": "park",
                   "coords": [
                         -82.432981,
@@ -12519,7 +12519,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Shorewood Forrest Preserve",
-                  "text": "Shorewood Forrest Preserve is a nature reserve in Sarnia.",
+                  "text": "Shorewood Forrest Preserve in Petrochemical is a forest preserve with coastal hiking trails.",
                   "category": "natural",
                   "coords": [
                         -82.472518,
@@ -12528,7 +12528,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Palmer Park",
-                  "text": "Palmer Park is a park in Sarnia.",
+                  "text": "Palmer Park in Petrochemical is a park with a fishing pier on the St. Clair River.",
                   "category": "park",
                   "coords": [
                         -82.427404,
@@ -12555,7 +12555,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Gratiot Park",
-                  "text": "Gratiot Park is a park in Sarnia.",
+                  "text": "Gratiot Park in Petrochemical is a park along the St. Clair River with river views.",
                   "category": "park",
                   "coords": [
                         -82.428057,
@@ -12564,7 +12564,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Mansfield Park",
-                  "text": "Mansfield Park is a park in Sarnia.",
+                  "text": "Mansfield Park in Petrochemical is a neighbourhood park with a baseball diamond.",
                   "category": "park",
                   "coords": [
                         -82.431788,
@@ -12573,7 +12573,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Huron Lightship",
-                  "text": "Huron Lightship is a museum in Sarnia.",
+                  "text": "Huron Lightship in Petrochemical is a heritage-listed museum ship.",
                   "category": "museum",
                   "coords": [
                         -82.426541,
@@ -12582,7 +12582,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Pine Grove Park",
-                  "text": "Pine Grove Park is a park in Sarnia.",
+                  "text": "Pine Grove Park in Petrochemical is a park with a beach and picnic areas.",
                   "category": "park",
                   "coords": [
                         -82.426596,
@@ -12591,7 +12591,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Michigan Road Preserve",
-                  "text": "Michigan Road Preserve is a nature reserve in Sarnia.",
+                  "text": "Michigan Road Preserve in Petrochemical is a nature preserve along Michigan Road.",
                   "category": "natural",
                   "coords": [
                         -82.478736,
@@ -12600,7 +12600,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Knox Field",
-                  "text": "Knox Field is a park in Sarnia.",
+                  "text": "Knox Field in Petrochemical is a baseball field used by youth leagues.",
                   "category": "park",
                   "coords": [
                         -82.453018,
@@ -12609,7 +12609,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Sixteenth & Dove Park",
-                  "text": "Sixteenth & Dove Park is a park in Sarnia.",
+                  "text": "Sixteenth & Dove Park in Petrochemical is a small community park with benches and trees.",
                   "category": "park",
                   "coords": [
                         -82.440746,
@@ -12618,7 +12618,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Port Huron Museum",
-                  "text": "Port Huron Museum is a museum in Sarnia.",
+                  "text": "Port Huron Museum in Petrochemical exhibits the maritime and industrial history of the region.",
                   "category": "museum",
                   "coords": [
                         -82.426511,
@@ -12627,7 +12627,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Blue Water River Walk",
-                  "text": "Blue Water River Walk is a park in Sarnia.",
+                  "text": "Blue Water River Walk in Petrochemical is a 1.5-mile pedestrian path along the St. Clair River.",
                   "category": "park",
                   "coords": [
                         -82.421525,
@@ -12636,7 +12636,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Lincoln Park",
-                  "text": "Lincoln Park is a park in Sarnia.",
+                  "text": "Lincoln Park in Petrochemical is a park with a skate park and tennis courts.",
                   "category": "park",
                   "coords": [
                         -82.455047,
@@ -12645,7 +12645,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "St. Benedict Catholic Church",
-                  "text": "St. Benedict Catholic Church is a place of worship in Sarnia.",
+                  "text": "St. Benedict Catholic Church in Petrochemical is a Roman Catholic church with stained glass windows.",
                   "category": "religious",
                   "coords": [
                         -82.371586,
@@ -12654,7 +12654,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "St. Joseph's Catholic Church",
-                  "text": "St. Joseph's Catholic Church is a place of worship in Sarnia.",
+                  "text": "St. Joseph's Catholic Church in Petrochemical is a historic Catholic church with a tall spire.",
                   "category": "religious",
                   "coords": [
                         -82.400432,
@@ -12663,7 +12663,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Great Lakes Maritime Center",
-                  "text": "Great Lakes Maritime Center is a viewpoint in Sarnia.",
+                  "text": "Great Lakes Maritime Center in Petrochemical provides information about shipping on the Great Lakes.",
                   "category": "natural",
                   "coords": [
                         -82.419597,
@@ -12672,7 +12672,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Kiefer Park",
-                  "text": "Kiefer Park is a park in Sarnia.",
+                  "text": "Kiefer Park in Petrochemical is a park with a splash pad and playground.",
                   "category": "park",
                   "coords": [
                         -82.420308,
@@ -12681,7 +12681,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Our Lady of Mercy Catholic Church",
-                  "text": "Our Lady of Mercy Catholic Church is a place of worship in Sarnia.",
+                  "text": "Our Lady of Mercy Catholic Church in Petrochemical is a Roman Catholic church serving the community.",
                   "category": "religious",
                   "coords": [
                         -82.403215,
@@ -12690,7 +12690,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Queen of Peace Roman Catholic Church",
-                  "text": "Queen of Peace Roman Catholic Church is a place of worship in Sarnia.",
+                  "text": "Queen of Peace Roman Catholic Church in Petrochemical is a modern Catholic church with distinctive architecture.",
                   "category": "religious",
                   "coords": [
                         -82.39155,
@@ -12699,7 +12699,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Children's Animal Farm",
-                  "text": "Children's Animal Farm is a zoo in Sarnia.",
+                  "text": "Children's Animal Farm in Petrochemical is a petting zoo with domestic farm animals.",
                   "category": "recreational",
                   "coords": [
                         -82.401866,
@@ -12708,7 +12708,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Norm Perry Park",
-                  "text": "A park in Sarnia.",
+                  "text": "Norm Perry Park in Petrochemical is a park with a soccer field and walking trails.",
                   "category": "park",
                   "coords": [
                         -82.39791,
@@ -12717,7 +12717,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "St Thomas D'Aquin Catholic Church",
-                  "text": "A Catholic church in Sarnia.",
+                  "text": "St Thomas D'Aquin Catholic Church in Petrochemical is a Roman Catholic church serving the Franco-Ontarian community.",
                   "category": "religious",
                   "coords": [
                         -82.376575,
@@ -12726,7 +12726,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Sacred Heart Roman Catholic Church",
-                  "text": "A Roman Catholic church in Sarnia.",
+                  "text": "Sacred Heart Roman Catholic Church in Petrochemical is a Catholic church with a large crucifix.",
                   "category": "religious",
                   "coords": [
                         -82.39003,
@@ -12735,7 +12735,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Canatara Beach",
-                  "text": "A beach in Sarnia.",
+                  "text": "Canatara Beach in Petrochemical is a sandy beach on the shore of Lake Huron.",
                   "category": "recreational",
                   "coords": [
                         -82.405975,
@@ -12744,7 +12744,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Wawanosh Wetlands Conservation Area",
-                  "text": "A nature reserve in Sarnia.",
+                  "text": "Wawanosh Wetlands Conservation Area in Petrochemical protects an extensive wetland area.",
                   "category": "natural",
                   "coords": [
                         -82.330016,
@@ -12927,7 +12927,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Dollarton Bridge",
-                  "text": "Die Dollarton Bridge ist eine Brücke im Bereich der Vancouver-Getreideterminals.",
+                  "text": "Die Dollarton Bridge in Grain Terminals ist eine Stahlzugbrücke über den Dollarton Creek.",
                   "category": "landmark",
                   "coords": [
                         -123.02191,
@@ -12936,7 +12936,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Lynn Canyon Ecology Centre",
-                  "text": "Das Lynn Canyon Ecology Centre ist ein Museum in Vancouver, das sich auf die Ökologie des Lynn Canyon konzentriert.",
+                  "text": "Das Lynn Canyon Ecology Centre in Grain Terminals ist ein Ökologiezentrum mit Ausstellungen über den gemäßigten Regenwald.",
                   "category": "museum",
                   "coords": [
                         -123.020314,
@@ -12945,7 +12945,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "MONOVA: Archives of North Vancouver",
-                  "text": "MONOVA: Archives of North Vancouver ist ein Museum in Vancouver, das die Geschichte von North Vancouver bewahrt.",
+                  "text": "MONOVA: Archives of North Vancouver in Grain Terminals bewahrt historische Dokumente der Stadt.",
                   "category": "museum",
                   "coords": [
                         -123.037244,
@@ -13091,7 +13091,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Dollarton Bridge",
-                  "text": "A Dollarton híd egy híd a vancouveri gabonaterminálok gazdasági területén.",
+                  "text": "A Dollarton Bridge Grain Terminalsben egy acél felvonóhíd a Dollarton-patak felett.",
                   "category": "landmark",
                   "coords": [
                         -123.02191,
@@ -13100,7 +13100,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Lynn Canyon Ecology Centre",
-                  "text": "A Lynn Canyon Ecology Centre egy múzeum Vancouverben, amely a Lynn Canyon ökológiájára összpontosít.",
+                  "text": "A Lynn Canyon Ecology Centre Grain Terminalsben egy ökológiai központ a mérsékelt égövi esőerdőről szóló kiállításokkal.",
                   "category": "museum",
                   "coords": [
                         -123.020314,
@@ -13109,7 +13109,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "MONOVA: Archives of North Vancouver",
-                  "text": "A MONOVA: North Vancouver Archívuma egy múzeum Vancouverben, amely North Vancouver történelmét őrzi.",
+                  "text": "A MONOVA: North Vancouver Levéltára Grain Terminalsban őrzi a város történelmi dokumentumait.",
                   "category": "museum",
                   "coords": [
                         -123.037244,
@@ -13255,7 +13255,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Dollarton Bridge",
-                  "text": "Dollarton Bridge este un pod în zona economică a terminalelor de cereale din Vancouver.",
+                  "text": "Podul Dollarton din Grain Terminals este un pod basculant de oțel peste pârâul Dollarton.",
                   "category": "landmark",
                   "coords": [
                         -123.02191,
@@ -13264,7 +13264,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Lynn Canyon Ecology Centre",
-                  "text": "Centrul de Ecologie Lynn Canyon este un muzeu în Vancouver axat pe ecologia canionului Lynn.",
+                  "text": "Centrul de Ecologie Lynn Canyon din Grain Terminals este un centru ecologic cu exponate despre pădurea tropicală temperată.",
                   "category": "museum",
                   "coords": [
                         -123.020314,
@@ -13273,7 +13273,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "MONOVA: Archives of North Vancouver",
-                  "text": "MONOVA: Arhivele din North Vancouver este un muzeu în Vancouver care păstrează istoria North Vancouver.",
+                  "text": "MONOVA: Arhivele din North Vancouver din Grain Terminals păstrează documente istorice ale orașului.",
                   "category": "museum",
                   "coords": [
                         -123.037244,
@@ -13419,7 +13419,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Dollarton Bridge",
-                  "text": "The Dollarton Bridge is a bridge in the Vancouver grain terminals economic area.",
+                  "text": "Dollarton Bridge in Grain Terminals is a steel drawbridge spanning Dollarton Creek.",
                   "category": "landmark",
                   "coords": [
                         -123.02191,
@@ -13428,7 +13428,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Lynn Canyon Ecology Centre",
-                  "text": "The Lynn Canyon Ecology Centre is a museum in Vancouver focused on the ecology of Lynn Canyon.",
+                  "text": "Lynn Canyon Ecology Centre in Grain Terminals is an ecology centre with exhibits on the temperate rainforest.",
                   "category": "museum",
                   "coords": [
                         -123.020314,
@@ -13437,7 +13437,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "MONOVA: Archives of North Vancouver",
-                  "text": "MONOVA: Archives of North Vancouver is a museum in Vancouver that preserves the history of North Vancouver.",
+                  "text": "MONOVA: Archives of North Vancouver in Grain Terminals preserves historical documents of the city.",
                   "category": "museum",
                   "coords": [
                         -123.037244,
@@ -13485,7 +13485,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Jones Hill",
-                  "text": "Jones Hill ist ein Gipfel in Charlottetown.",
+                  "text": "Ein bewaldeter Hügel mit Panoramablick über den Hafen von Port.",
                   "category": "natural",
                   "coords": [
                         -62.998344,
@@ -13494,7 +13494,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Tea Hill",
-                  "text": "Tea Hill ist ein Gipfel in Charlottetown.",
+                  "text": "Ein Hügel mit einem Aussichtspunkt über die Küstendünen.",
                   "category": "natural",
                   "coords": [
                         -63.057477,
@@ -13503,7 +13503,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Warren Cove Back Range Lighthouse",
-                  "text": "Der Warren Cove Back Range Lighthouse ist ein Leuchtturm in Charlottetown.",
+                  "text": "Das Warren Cove Back Range Lighthouse in Port ist ein historischer Leuchtturm aus dem 19. Jahrhundert.",
                   "category": "landmark",
                   "coords": [
                         -63.139506,
@@ -13512,7 +13512,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Blockhouse Point Lighthouse",
-                  "text": "Der Blockhouse Point Lighthouse ist ein Leuchtturm in Charlottetown.",
+                  "text": "Ein weißer hölzerner Leuchtturm auf einer felsigen Landzunge am Hafeneingang von Port.",
                   "category": "landmark",
                   "coords": [
                         -63.129351,
@@ -13521,7 +13521,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Keppoch Beach",
-                  "text": "Der Keppoch Beach ist ein Strand in Charlottetown.",
+                  "text": "Ein Sandstrand mit warmem flachem Wasser, beliebt zum Schwimmen.",
                   "category": "recreational",
                   "coords": [
                         -63.107626,
@@ -13530,7 +13530,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Kinlock Beach",
-                  "text": "Der Kinlock Beach ist ein Strand in Charlottetown.",
+                  "text": "Kinlock Beach in Port ist ein abgelegener Kiesstrand mit Blick auf den Ozean.",
                   "category": "recreational",
                   "coords": [
                         -63.085167,
@@ -13539,7 +13539,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Langley Beach",
-                  "text": "Der Langley Beach ist ein Strand in Charlottetown.",
+                  "text": "Ein langer roter Sandstrand, gesäumt von Sandsteinfelsen.",
                   "category": "recreational",
                   "coords": [
                         -63.121399,
@@ -13548,7 +13548,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Warren Cove Front Range Light",
-                  "text": "Das Warren Cove Front Range Light ist ein Leuchtturm in Charlottetown.",
+                  "text": "Ein Richtfeuer mit einem quadratischen Turm zur Navigation in die Warren Cove.",
                   "category": "landmark",
                   "coords": [
                         -63.138213,
@@ -13557,7 +13557,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Feehans Creek",
-                  "text": "Feehans Creek ist eine Bucht in Charlottetown.",
+                  "text": "Ein kleiner Bach, der durch bewaldetes Gebiet in die Bucht fließt.",
                   "category": "landmark",
                   "coords": [
                         -63.197964,
@@ -13566,7 +13566,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Webster Creek",
-                  "text": "Webster Creek ist eine Bucht in Charlottetown.",
+                  "text": "Ein saisonaler Bach, der nach Regenfällen Wasser führt.",
                   "category": "landmark",
                   "coords": [
                         -63.180387,
@@ -13575,7 +13575,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Port-la-Joye Fort",
-                  "text": "Das Fort Port-la-Joye ist eine historische Stätte in der Nähe von Charlottetown.",
+                  "text": "Port-la-Joye Fort in Port ist eine historische Festung aus dem 18. Jahrhundert.",
                   "category": "landmark",
                   "coords": [
                         -63.136709,
@@ -13584,7 +13584,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Visitors Centre",
-                  "text": "Das Besucherzentrum ist ein Museum und eine Touristeninformation in Charlottetown.",
+                  "text": "Das Visitors Centre in Port bietet Informationen über die lokale Geschichte und Sehenswürdigkeiten.",
                   "category": "museum",
                   "coords": [
                         -63.135443,
@@ -13593,7 +13593,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Haszard Point Range Front",
-                  "text": "Das Haszard Point Range Front ist ein Leuchtturm in Charlottetown, der als Richtfeuer für die Schifffahrt dient.",
+                  "text": "Ein historisches Leuchtfeuer, das Schiffe in den Hafen von Hamilton leitet, in Port.",
                   "category": "landmark",
                   "coords": [
                         -63.073663,
@@ -13602,7 +13602,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bellevue Cove",
-                  "text": "Bellevue Cove ist eine Bucht in Charlottetown.",
+                  "text": "Eine malerische Bucht mit einem Kiesstrand und ruhigem Wasser.",
                   "category": "landmark",
                   "coords": [
                         -63.083274,
@@ -13611,7 +13611,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Haszard Point Range Rear Light",
-                  "text": "Das Haszard Point Range Rear Light ist ein Leuchtturm in Charlottetown.",
+                  "text": "Ein hinteres Richtfeuer mit einem roten und weißen Turm.",
                   "category": "landmark",
                   "coords": [
                         -63.070894,
@@ -13620,7 +13620,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Hillsborough Bay",
-                  "text": "Hillsborough Bay ist eine Bucht in Charlottetown.",
+                  "text": "Eine große Bucht, die den Hafen von Port bildet.",
                   "category": "landmark",
                   "coords": [
                         -63.072958,
@@ -13631,7 +13631,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Jones Hill",
-                  "text": "A Jones Hill egy csúcs Charlottetownban.",
+                  "text": "Egy erdős domb, panorámás kilátással Port kikötőjére.",
                   "category": "natural",
                   "coords": [
                         -62.998344,
@@ -13640,7 +13640,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Tea Hill",
-                  "text": "A Tea Hill egy csúcs Charlottetownban.",
+                  "text": "Egy domb kilátóponttal a part menti dűnékre.",
                   "category": "natural",
                   "coords": [
                         -63.057477,
@@ -13649,7 +13649,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Warren Cove Back Range Lighthouse",
-                  "text": "A Warren Cove Back Range Lighthouse egy világítótorony Charlottetownban.",
+                  "text": "A Warren Cove Back Range Lighthouse Portban egy 19. századi történelmi világítótorony.",
                   "category": "landmark",
                   "coords": [
                         -63.139506,
@@ -13658,7 +13658,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Blockhouse Point Lighthouse",
-                  "text": "A Blockhouse Point Lighthouse egy világítótorony Charlottetownban.",
+                  "text": "Egy fehér fából készült világítótorony egy sziklás földnyelven Port kikötőjének bejáratánál.",
                   "category": "landmark",
                   "coords": [
                         -63.129351,
@@ -13667,7 +13667,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Keppoch Beach",
-                  "text": "A Keppoch Beach egy strand Charlottetownban.",
+                  "text": "Egy homokos strand meleg sekély vízzel, népszerű úszóhely.",
                   "category": "recreational",
                   "coords": [
                         -63.107626,
@@ -13676,7 +13676,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Kinlock Beach",
-                  "text": "A Kinlock Beach egy strand Charlottetownban.",
+                  "text": "A Kinlock Beach Portban egy eldugott kavicsos strand óceáni kilátással.",
                   "category": "recreational",
                   "coords": [
                         -63.085167,
@@ -13685,7 +13685,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Langley Beach",
-                  "text": "A Langley Beach egy strand Charlottetownban.",
+                  "text": "Egy hosszú vörös homokos strand, homokkő sziklákkal szegélyezve.",
                   "category": "recreational",
                   "coords": [
                         -63.121399,
@@ -13694,7 +13694,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Warren Cove Front Range Light",
-                  "text": "A Warren Cove Front Range Light egy világítótorony Charlottetownban.",
+                  "text": "Egy irányfény négyszögletes toronnyal a Warren Cove-ba való navigáláshoz.",
                   "category": "landmark",
                   "coords": [
                         -63.138213,
@@ -13703,7 +13703,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Feehans Creek",
-                  "text": "A Feehans Creek egy öböl Charlottetownban.",
+                  "text": "Egy kis patak, amely erdős területen keresztül folyik az öbölbe.",
                   "category": "landmark",
                   "coords": [
                         -63.197964,
@@ -13712,7 +13712,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Webster Creek",
-                  "text": "A Webster Creek egy öböl Charlottetownban.",
+                  "text": "Egy időszakos patak, amely esőzések után hordoz vizet.",
                   "category": "landmark",
                   "coords": [
                         -63.180387,
@@ -13721,7 +13721,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Port-la-Joye Fort",
-                  "text": "A Port-la-Joye Fort egy történelmi látványosság Charlottetown közelében.",
+                  "text": "A Port-la-Joye erőd Portban egy 18. századi történelmi erődítmény.",
                   "category": "landmark",
                   "coords": [
                         -63.136709,
@@ -13730,7 +13730,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Visitors Centre",
-                  "text": "A Látogatóközpont egy múzeum és turisztikai információs központ Charlottetownban.",
+                  "text": "A Visitors Centre Portban információkat nyújt a helyi történelemről és látnivalókról.",
                   "category": "museum",
                   "coords": [
                         -63.135443,
@@ -13739,7 +13739,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Haszard Point Range Front",
-                  "text": "A Haszard Point Range Front egy világítótorony Charlottetownban, amely irányfényként szolgál a hajózás számára.",
+                  "text": "Történelmi jelzőfény, amely a hajókat a Hamilton kikötőbe irányítja a Port területén.",
                   "category": "landmark",
                   "coords": [
                         -63.073663,
@@ -13748,7 +13748,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bellevue Cove",
-                  "text": "A Bellevue Cove egy öböl Charlottetownban.",
+                  "text": "Egy festői öböl kavicsos stranddal és csendes vízzel.",
                   "category": "landmark",
                   "coords": [
                         -63.083274,
@@ -13757,7 +13757,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Haszard Point Range Rear Light",
-                  "text": "A Haszard Point Range Rear Light egy világítótorony Charlottetownban.",
+                  "text": "Egy hátsó irányfény piros-fehér toronnyal.",
                   "category": "landmark",
                   "coords": [
                         -63.070894,
@@ -13766,7 +13766,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Hillsborough Bay",
-                  "text": "A Hillsborough Bay egy öböl Charlottetownban.",
+                  "text": "Egy nagy öböl, amely Port kikötőjét alkotja.",
                   "category": "landmark",
                   "coords": [
                         -63.072958,
@@ -13777,7 +13777,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Jones Hill",
-                  "text": "Jones Hill este un vârf în Charlottetown.",
+                  "text": "Un deal împădurit cu vedere panoramică asupra portului din Port.",
                   "category": "natural",
                   "coords": [
                         -62.998344,
@@ -13786,7 +13786,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Tea Hill",
-                  "text": "Tea Hill este un vârf în Charlottetown.",
+                  "text": "Un deal cu un punct de belvedere asupra dunelor de coastă.",
                   "category": "natural",
                   "coords": [
                         -63.057477,
@@ -13795,7 +13795,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Warren Cove Back Range Lighthouse",
-                  "text": "Warren Cove Back Range Lighthouse este un far în Charlottetown.",
+                  "text": "Farul Warren Cove Back Range din Port este un far istoric din secolul al XIX-lea.",
                   "category": "landmark",
                   "coords": [
                         -63.139506,
@@ -13804,7 +13804,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Blockhouse Point Lighthouse",
-                  "text": "Blockhouse Point Lighthouse este un far în Charlottetown.",
+                  "text": "Un far alb din lemn pe un promontoriu stâncos la intrarea în portul Port.",
                   "category": "landmark",
                   "coords": [
                         -63.129351,
@@ -13813,7 +13813,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Keppoch Beach",
-                  "text": "Keppoch Beach este o plajă în Charlottetown.",
+                  "text": "O plajă cu nisip fin și ape calde și puțin adânci, populară pentru înot.",
                   "category": "recreational",
                   "coords": [
                         -63.107626,
@@ -13822,7 +13822,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Kinlock Beach",
-                  "text": "Kinlock Beach este o plajă în Charlottetown.",
+                  "text": "Plaja Kinlock din Port este o plajă izolată cu pietriș și vedere la ocean.",
                   "category": "recreational",
                   "coords": [
                         -63.085167,
@@ -13831,7 +13831,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Langley Beach",
-                  "text": "Langley Beach este o plajă în Charlottetown.",
+                  "text": "O plajă lungă cu nisip roșu, flancată de stânci de gresie.",
                   "category": "recreational",
                   "coords": [
                         -63.121399,
@@ -13840,7 +13840,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Warren Cove Front Range Light",
-                  "text": "Warren Cove Front Range Light este un far în Charlottetown.",
+                  "text": "Un far de aliniere cu un turn pătrat pentru ghidarea navelor în Warren Cove.",
                   "category": "landmark",
                   "coords": [
                         -63.138213,
@@ -13849,7 +13849,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Feehans Creek",
-                  "text": "Feehans Creek este un golf în Charlottetown.",
+                  "text": "Un pârâu mic care curge printr-o zonă împădurită în golf.",
                   "category": "landmark",
                   "coords": [
                         -63.197964,
@@ -13858,7 +13858,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Webster Creek",
-                  "text": "Webster Creek este un golf în Charlottetown.",
+                  "text": "Un pârâu sezonier care curge după ploi.",
                   "category": "landmark",
                   "coords": [
                         -63.180387,
@@ -13867,7 +13867,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Port-la-Joye Fort",
-                  "text": "Fortul Port-la-Joye este o atracție istorică lângă Charlottetown.",
+                  "text": "Fortul Port-la-Joye din Port este o fortăreață istorică din secolul al XVIII-lea.",
                   "category": "landmark",
                   "coords": [
                         -63.136709,
@@ -13876,7 +13876,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Visitors Centre",
-                  "text": "Centrul pentru vizitatori este un muzeu și centru de informare turistică în Charlottetown.",
+                  "text": "Centrul de vizitatori din Port oferă informații despre istoria locală și obiectivele turistice.",
                   "category": "museum",
                   "coords": [
                         -63.135443,
@@ -13885,7 +13885,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Haszard Point Range Front",
-                  "text": "Haszard Point Range Front este un far în Charlottetown, care servește ca far de aliniere pentru navigație.",
+                  "text": "Un far istoric care ghidează navele în portul Hamilton în Port.",
                   "category": "landmark",
                   "coords": [
                         -63.073663,
@@ -13894,7 +13894,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bellevue Cove",
-                  "text": "Bellevue Cove este un golf în Charlottetown.",
+                  "text": "Un golf pitoresc cu o plajă de pietriș și apă liniștită.",
                   "category": "landmark",
                   "coords": [
                         -63.083274,
@@ -13903,7 +13903,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Haszard Point Range Rear Light",
-                  "text": "Haszard Point Range Rear Light este un far în Charlottetown.",
+                  "text": "Un far de aliniere din spate cu un turn roșu și alb.",
                   "category": "landmark",
                   "coords": [
                         -63.070894,
@@ -13912,7 +13912,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Hillsborough Bay",
-                  "text": "Hillsborough Bay este un golf în Charlottetown.",
+                  "text": "Un golf mare care formează portul Port.",
                   "category": "landmark",
                   "coords": [
                         -63.072958,
@@ -13923,7 +13923,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Jones Hill",
-                  "text": "Jones Hill is a peak in Charlottetown.",
+                  "text": "A forested hill with a panoramic view over Port's harbour.",
                   "category": "natural",
                   "coords": [
                         -62.998344,
@@ -13932,7 +13932,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Tea Hill",
-                  "text": "Tea Hill is a peak in Charlottetown.",
+                  "text": "A hill with a lookout point over the coastal dunes.",
                   "category": "natural",
                   "coords": [
                         -63.057477,
@@ -13941,7 +13941,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Warren Cove Back Range Lighthouse",
-                  "text": "Warren Cove Back Range Lighthouse is a lighthouse in Charlottetown.",
+                  "text": "Warren Cove Back Range Lighthouse in Port is a historic 19th-century lighthouse.",
                   "category": "landmark",
                   "coords": [
                         -63.139506,
@@ -13950,7 +13950,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Blockhouse Point Lighthouse",
-                  "text": "Blockhouse Point Lighthouse is a lighthouse in Charlottetown.",
+                  "text": "A white wooden lighthouse on a rocky point at the entrance to Port's harbour.",
                   "category": "landmark",
                   "coords": [
                         -63.129351,
@@ -13959,7 +13959,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Keppoch Beach",
-                  "text": "Keppoch Beach is a beach in Charlottetown.",
+                  "text": "A sandy beach with warm shallow waters, popular for swimming.",
                   "category": "recreational",
                   "coords": [
                         -63.107626,
@@ -13968,7 +13968,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Kinlock Beach",
-                  "text": "Kinlock Beach is a beach in Charlottetown.",
+                  "text": "Kinlock Beach in Port is a secluded pebble beach with ocean views.",
                   "category": "recreational",
                   "coords": [
                         -63.085167,
@@ -13977,7 +13977,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Langley Beach",
-                  "text": "Langley Beach is a beach in Charlottetown.",
+                  "text": "A long stretch of red sand backed by sandstone cliffs.",
                   "category": "recreational",
                   "coords": [
                         -63.121399,
@@ -13986,7 +13986,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Warren Cove Front Range Light",
-                  "text": "Warren Cove Front Range Light is a lighthouse in Charlottetown.",
+                  "text": "A range light with a square tower guiding ships into Warren Cove.",
                   "category": "landmark",
                   "coords": [
                         -63.138213,
@@ -13995,7 +13995,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Feehans Creek",
-                  "text": "Feehans Creek is a bay in Charlottetown.",
+                  "text": "A small creek flowing through woodland into the bay.",
                   "category": "landmark",
                   "coords": [
                         -63.197964,
@@ -14004,7 +14004,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Webster Creek",
-                  "text": "Webster Creek is a bay in Charlottetown.",
+                  "text": "A seasonal creek that carries water after rainfall.",
                   "category": "landmark",
                   "coords": [
                         -63.180387,
@@ -14013,7 +14013,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Port-la-Joye Fort",
-                  "text": "Port-la-Joye Fort is a historic attraction near Charlottetown.",
+                  "text": "Port-la-Joye Fort in Port is a historic 18th-century fortress.",
                   "category": "landmark",
                   "coords": [
                         -63.136709,
@@ -14022,7 +14022,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Visitors Centre",
-                  "text": "Visitors Centre is a museum and tourist information centre in Charlottetown.",
+                  "text": "The Visitors Centre in Port provides information on local history and attractions.",
                   "category": "museum",
                   "coords": [
                         -63.135443,
@@ -14031,7 +14031,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Haszard Point Range Front",
-                  "text": "Haszard Point Range Front is a lighthouse in Charlottetown, serving as a range light for shipping.",
+                  "text": "A historic range light guiding ships into Hamilton harbour in Port.",
                   "category": "landmark",
                   "coords": [
                         -63.073663,
@@ -14040,7 +14040,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bellevue Cove",
-                  "text": "Bellevue Cove is a bay in Charlottetown.",
+                  "text": "A scenic cove with a pebble beach and calm waters.",
                   "category": "landmark",
                   "coords": [
                         -63.083274,
@@ -14049,7 +14049,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Haszard Point Range Rear Light",
-                  "text": "Haszard Point Range Rear Light is a lighthouse in Charlottetown.",
+                  "text": "A rear range light with a red and white tower.",
                   "category": "landmark",
                   "coords": [
                         -63.070894,
@@ -14058,7 +14058,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Hillsborough Bay",
-                  "text": "Hillsborough Bay is a bay in Charlottetown.",
+                  "text": "A large bay that forms the harbour of Port.",
                   "category": "landmark",
                   "coords": [
                         -63.072958,
@@ -14142,7 +14142,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Cape Spear",
-                  "text": "Cape Spear ist der östlichste Punkt Nordamerikas in der Nähe von St. John's.",
+                  "text": "Cape Spear in Johns Port ist der östlichste Punkt Kanadas mit dramatischen Klippen.",
                   "category": "landmark",
                   "coords": [
                         -52.62268,
@@ -14187,7 +14187,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Turtle Hill",
-                  "text": "Ein Hügel oder Gipfel in der Nähe von St. John's.",
+                  "text": "Ein Hügel mit Blick über die Bucht und die vorgelagerten Inseln.",
                   "category": "natural",
                   "coords": [
                         -52.751446,
@@ -14205,7 +14205,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Seal Cove",
-                  "text": "Eine Bucht entlang der Küste bei St. John's.",
+                  "text": "Eine Bucht, in der häufig Seehunde auf den Felsen liegen.",
                   "category": "landmark",
                   "coords": [
                         -52.680064,
@@ -14214,7 +14214,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "The Pound",
-                  "text": "Eine Bucht im Gebiet von St. John's.",
+                  "text": "Ein eingezäuntes Gehege am Ufer, früher für Vieh genutzt.",
                   "category": "landmark",
                   "coords": [
                         -52.681069,
@@ -14223,7 +14223,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Sam Cove",
-                  "text": "Eine kleine Bucht in der Nähe von St. John's.",
+                  "text": "Eine kleine, abgeschiedene Bucht mit einem Sandstrand.",
                   "category": "landmark",
                   "coords": [
                         -52.656777,
@@ -14232,7 +14232,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Cape Bay",
-                  "text": "Eine Bucht in der Region St. John's.",
+                  "text": "Eine Bucht mit einem langen Sandstrand und Dünen.",
                   "category": "landmark",
                   "coords": [
                         -52.631007,
@@ -14241,7 +14241,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Doyles Cove",
-                  "text": "Eine Bucht an der Küste von St. John's.",
+                  "text": "Eine Bucht, benannt nach einer irischen Familie, die dort siedelte.",
                   "category": "landmark",
                   "coords": [
                         -52.635081,
@@ -14250,7 +14250,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Paper Cove",
-                  "text": "Eine Bucht im Gebiet von St. John's.",
+                  "text": "Eine Bucht, an der früher Papier aus den Wäldern verladen wurde.",
                   "category": "landmark",
                   "coords": [
                         -52.634,
@@ -14259,7 +14259,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Cape Spear Lighthouse Museum",
-                  "text": "Museum im historischen Leuchtturm von Cape Spear, dem östlichsten Punkt Kanadas.",
+                  "text": "Das Cape Spear Lighthouse Museum in Johns Port zeigt die Geschichte des Leuchtturms von 1836.",
                   "category": "museum",
                   "coords": [
                         -52.623477,
@@ -14268,7 +14268,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Woody Cove",
-                  "text": "Eine Bucht in der Nähe von St. John's.",
+                  "text": "Eine bewaldete Bucht mit einem kleinen Bach, der ins Meer fließt.",
                   "category": "landmark",
                   "coords": [
                         -52.627979,
@@ -14277,7 +14277,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Broad Cove",
-                  "text": "Eine Bucht im Gebiet von St. John's.",
+                  "text": "Eine breite Bucht mit weitem Blick auf den Ozean.",
                   "category": "landmark",
                   "coords": [
                         -52.627853,
@@ -14286,7 +14286,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Cantwells Cove",
-                  "text": "Eine Bucht an der Küste von St. John's.",
+                  "text": "Eine Bucht mit felsigen Klippen und einem kleinen Wasserfall.",
                   "category": "landmark",
                   "coords": [
                         -52.636585,
@@ -14295,7 +14295,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Blackhead One Room Church and School Museum",
-                  "text": "Museum in Blackhead, das eine ehemalige Ein-Raum-Kirche und -Schule bewahrt.",
+                  "text": "Das Blackhead One Room Church and School Museum in Johns Port ist ein historisches Schul- und Kirchengebäude.",
                   "category": "museum",
                   "coords": [
                         -52.659315,
@@ -14304,7 +14304,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bull Cove",
-                  "text": "Eine Bucht in der Region St. John's.",
+                  "text": "Eine Bucht, in der früher Rinder gehalten wurden.",
                   "category": "landmark",
                   "coords": [
                         -52.666187,
@@ -14313,7 +14313,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Island Cove",
-                  "text": "Eine Bucht entlang der Küste bei St. John's.",
+                  "text": "Eine Bucht mit einer kleinen Insel in der Mitte.",
                   "category": "landmark",
                   "coords": [
                         -52.66323,
@@ -14322,7 +14322,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Chimney Cove",
-                  "text": "Eine Bucht im Gebiet von St. John's.",
+                  "text": "Eine Bucht mit einer felsigen Nadel, die an einen Schornstein erinnert.",
                   "category": "landmark",
                   "coords": [
                         -52.654974,
@@ -14331,7 +14331,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Dollar Cove",
-                  "text": "Eine Bucht in der Nähe von St. John's.",
+                  "text": "Eine Bucht, die nach ihrer runden Form benannt ist.",
                   "category": "landmark",
                   "coords": [
                         -52.649726,
@@ -14340,7 +14340,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Empty Basket Cove",
-                  "text": "Eine Bucht an der Küste von St. John's.",
+                  "text": "Eine Bucht, die bei Ebbe wie ein leerer Korb aussieht.",
                   "category": "landmark",
                   "coords": [
                         -52.636335,
@@ -14349,7 +14349,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Herring Cove",
-                  "text": "Eine Bucht in der Region St. John's.",
+                  "text": "Eine Bucht, die für ihren Heringsfang bekannt ist.",
                   "category": "landmark",
                   "coords": [
                         -52.645653,
@@ -14358,7 +14358,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bulgers Cove",
-                  "text": "Eine Bucht entlang der Küste bei St. John's.",
+                  "text": "Eine Bucht mit einem flachen sandigen Boden.",
                   "category": "landmark",
                   "coords": [
                         -52.635016,
@@ -14367,7 +14367,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Little Jones Cove",
-                  "text": "Eine kleine Bucht in der Nähe von St. John's.",
+                  "text": "Eine kleine Bucht neben der größeren Jones Cove.",
                   "category": "landmark",
                   "coords": [
                         -52.632659,
@@ -14376,7 +14376,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Jones Cove",
-                  "text": "Eine Bucht im Gebiet von St. John's.",
+                  "text": "Eine Bucht, benannt nach einem frühen Siedler namens Jones.",
                   "category": "landmark",
                   "coords": [
                         -52.632271,
@@ -14385,7 +14385,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Mad Cove",
-                  "text": "Eine Bucht an der Küste von St. John's.",
+                  "text": "Eine Bucht mit starken Strömungen und aufgewühltem Wasser.",
                   "category": "landmark",
                   "coords": [
                         -52.63491,
@@ -14394,7 +14394,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Madam Cove",
-                  "text": "Eine Bucht in der Region St. John's.",
+                  "text": "Eine Bucht, die nach einer Legende über eine Frau benannt ist.",
                   "category": "landmark",
                   "coords": [
                         -52.63537,
@@ -14403,7 +14403,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Caplin Cove",
-                  "text": "Eine Bucht entlang der Küste bei St. John's.",
+                  "text": "Eine Bucht, in der Kapelinschwärme laichen.",
                   "category": "landmark",
                   "coords": [
                         -52.677089,
@@ -14412,7 +14412,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Motion Bay",
-                  "text": "Eine Bucht im Gebiet von St. John's.",
+                  "text": "Eine Bucht mit ruhigen Wellen, ideal zum Kajakfahren.",
                   "category": "landmark",
                   "coords": [
                         -52.665541,
@@ -14421,7 +14421,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Freshwater",
-                  "text": "Eine Bucht an der Küste von St. John's.",
+                  "text": "Ein Süßwassertümpel nahe der Küste.",
                   "category": "landmark",
                   "coords": [
                         -52.683802,
@@ -14430,7 +14430,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Lower Cove",
-                  "text": "Eine Bucht in der Region St. John's.",
+                  "text": "Eine Bucht, die tiefer liegt als die umliegenden Buchten.",
                   "category": "landmark",
                   "coords": [
                         -52.682014,
@@ -14439,7 +14439,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Council Cove",
-                  "text": "Eine Bucht entlang der Küste bei St. John's.",
+                  "text": "Eine Bucht, in der früher Gemeinderatssitzungen abgehalten wurden.",
                   "category": "landmark",
                   "coords": [
                         -52.692612,
@@ -14448,7 +14448,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bowring Park War Memorial",
-                  "text": "Ein Kriegsdenkmal im Bowring Park in St. John's.",
+                  "text": "Das Bowring Park War Memorial in Johns Port ist ein Denkmal für gefallene Soldaten im Park.",
                   "category": "landmark",
                   "coords": [
                         -52.749825,
@@ -14459,7 +14459,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Cape Spear",
-                  "text": "A Cape Spear Észak-Amerika legkeletibb pontja St. John's közelében.",
+                  "text": "A Cape Spear Johns Portban Kanada legkeletibb pontja drámai sziklákkal.",
                   "category": "landmark",
                   "coords": [
                         -52.62268,
@@ -14504,7 +14504,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Turtle Hill",
-                  "text": "Egy domb vagy csúcs St. John's közelében.",
+                  "text": "Egy domb, amely az öbölre és a szigetekre nyújt kilátást.",
                   "category": "natural",
                   "coords": [
                         -52.751446,
@@ -14522,7 +14522,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Seal Cove",
-                  "text": "Egy öböl a part mentén St. John's közelében.",
+                  "text": "Egy öböl, ahol gyakran napoznak fókák a sziklákon.",
                   "category": "landmark",
                   "coords": [
                         -52.680064,
@@ -14531,7 +14531,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "The Pound",
-                  "text": "Egy öböl St. John's területén.",
+                  "text": "Egy bekerített terület a parton, korábban állatok tartására.",
                   "category": "landmark",
                   "coords": [
                         -52.681069,
@@ -14540,7 +14540,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Sam Cove",
-                  "text": "Egy kis öböl St. John's közelében.",
+                  "text": "Egy kicsi, félreeső öböl homokos stranddal.",
                   "category": "landmark",
                   "coords": [
                         -52.656777,
@@ -14549,7 +14549,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Cape Bay",
-                  "text": "Egy öböl St. John's régiójában.",
+                  "text": "Egy öböl hosszú homokos stranddal és dűnékkel.",
                   "category": "landmark",
                   "coords": [
                         -52.631007,
@@ -14558,7 +14558,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Doyles Cove",
-                  "text": "Egy öböl St. John's partjánál.",
+                  "text": "Egy öböl, amelyet egy ott letelepedett ír családról neveztek el.",
                   "category": "landmark",
                   "coords": [
                         -52.635081,
@@ -14567,7 +14567,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Paper Cove",
-                  "text": "Egy öböl St. John's területén.",
+                  "text": "Egy öböl, ahol egykor papírt raktak hajóra az erdőkből.",
                   "category": "landmark",
                   "coords": [
                         -52.634,
@@ -14576,7 +14576,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Cape Spear Lighthouse Museum",
-                  "text": "Múzeum a Cape Spear történelmi világítótornyában, Kanada legkeletibb pontján.",
+                  "text": "A Cape Spear Lighthouse Museum Johns Portban bemutatja az 1836-os világítótorony történetét.",
                   "category": "museum",
                   "coords": [
                         -52.623477,
@@ -14585,7 +14585,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Woody Cove",
-                  "text": "Egy öböl St. John's közelében.",
+                  "text": "Egy erdős öböl egy kis patakkal, amely a tengerbe folyik.",
                   "category": "landmark",
                   "coords": [
                         -52.627979,
@@ -14594,7 +14594,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Broad Cove",
-                  "text": "Egy öböl St. John's területén.",
+                  "text": "Egy széles öböl, tágas kilátással az óceánra.",
                   "category": "landmark",
                   "coords": [
                         -52.627853,
@@ -14603,7 +14603,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Cantwells Cove",
-                  "text": "Egy öböl St. John's partjánál.",
+                  "text": "Egy öböl sziklás szirtekkel és egy kis vízeséssel.",
                   "category": "landmark",
                   "coords": [
                         -52.636585,
@@ -14612,7 +14612,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Blackhead One Room Church and School Museum",
-                  "text": "Múzeum Blackheadben, amely egy egykori egyterű templomot és iskolát őriz.",
+                  "text": "A Blackhead One Room Church and School Museum Johns Portban egy történelmi iskola- és templomépület.",
                   "category": "museum",
                   "coords": [
                         -52.659315,
@@ -14621,7 +14621,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bull Cove",
-                  "text": "Egy öböl St. John's régiójában.",
+                  "text": "Egy öböl, ahol régen szarvasmarhákat tartottak.",
                   "category": "landmark",
                   "coords": [
                         -52.666187,
@@ -14630,7 +14630,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Island Cove",
-                  "text": "Egy öböl a part mentén St. John's közelében.",
+                  "text": "Egy öböl egy kis szigettel a közepén.",
                   "category": "landmark",
                   "coords": [
                         -52.66323,
@@ -14639,7 +14639,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Chimney Cove",
-                  "text": "Egy öböl St. John's területén.",
+                  "text": "Egy öböl egy sziklatoronnyal, amely egy kéményre emlékeztet.",
                   "category": "landmark",
                   "coords": [
                         -52.654974,
@@ -14648,7 +14648,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Dollar Cove",
-                  "text": "Egy öböl St. John's közelében.",
+                  "text": "Egy öböl, amelyet kerek alakjáról neveztek el.",
                   "category": "landmark",
                   "coords": [
                         -52.649726,
@@ -14657,7 +14657,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Empty Basket Cove",
-                  "text": "Egy öböl St. John's partjánál.",
+                  "text": "Egy öböl, amely apálykor üres kosárra hasonlít.",
                   "category": "landmark",
                   "coords": [
                         -52.636335,
@@ -14666,7 +14666,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Herring Cove",
-                  "text": "Egy öböl St. John's régiójában.",
+                  "text": "Egy öböl, amely a heringhalászatáról ismert.",
                   "category": "landmark",
                   "coords": [
                         -52.645653,
@@ -14675,7 +14675,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bulgers Cove",
-                  "text": "Egy öböl a part mentén St. John's közelében.",
+                  "text": "Egy öböl sekély homokos fenékkel.",
                   "category": "landmark",
                   "coords": [
                         -52.635016,
@@ -14684,7 +14684,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Little Jones Cove",
-                  "text": "Egy kis öböl St. John's közelében.",
+                  "text": "Egy kis öböl a nagyobb Jones Cove mellett.",
                   "category": "landmark",
                   "coords": [
                         -52.632659,
@@ -14693,7 +14693,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Jones Cove",
-                  "text": "Egy öböl St. John's területén.",
+                  "text": "Egy öböl, amelyet Jones nevű korai telepesről neveztek el.",
                   "category": "landmark",
                   "coords": [
                         -52.632271,
@@ -14702,7 +14702,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Mad Cove",
-                  "text": "Egy öböl St. John's partjánál.",
+                  "text": "Egy öböl erős áramlatokkal és háborgó vízzel.",
                   "category": "landmark",
                   "coords": [
                         -52.63491,
@@ -14711,7 +14711,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Madam Cove",
-                  "text": "Egy öböl St. John's régiójában.",
+                  "text": "Egy öböl, amelyet egy asszonyról szóló legenda után neveztek el.",
                   "category": "landmark",
                   "coords": [
                         -52.63537,
@@ -14720,7 +14720,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Caplin Cove",
-                  "text": "Egy öböl a part mentén St. John's közelében.",
+                  "text": "Egy öböl, ahol kapelinhalak ívnak.",
                   "category": "landmark",
                   "coords": [
                         -52.677089,
@@ -14729,7 +14729,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Motion Bay",
-                  "text": "Egy öböl St. John's területén.",
+                  "text": "Egy öböl nyugodt hullámokkal, ideális kajakozáshoz.",
                   "category": "landmark",
                   "coords": [
                         -52.665541,
@@ -14738,7 +14738,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Freshwater",
-                  "text": "Egy öböl St. John's partjánál.",
+                  "text": "Egy édesvizű tócsa a part közelében.",
                   "category": "landmark",
                   "coords": [
                         -52.683802,
@@ -14747,7 +14747,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Lower Cove",
-                  "text": "Egy öböl St. John's régiójában.",
+                  "text": "Egy öböl, amely alacsonyabban fekszik, mint a környező öblök.",
                   "category": "landmark",
                   "coords": [
                         -52.682014,
@@ -14756,7 +14756,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Council Cove",
-                  "text": "Egy öböl a part mentén St. John's közelében.",
+                  "text": "Egy öböl, ahol régen közösségi gyűléseket tartottak.",
                   "category": "landmark",
                   "coords": [
                         -52.692612,
@@ -14765,7 +14765,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bowring Park War Memorial",
-                  "text": "Háborús emlékmű a St. John's-i Bowring Parkban.",
+                  "text": "A Bowring Park War Memorial Johns Portban egy emlékmű a parkban elesett katonák tiszteletére.",
                   "category": "landmark",
                   "coords": [
                         -52.749825,
@@ -14776,7 +14776,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Cape Spear",
-                  "text": "Cape Spear este cel mai estic punct al Americii de Nord, lângă St. John's.",
+                  "text": "Cape Spear din Johns Port este cel mai estic punct al Canadei, cu stânci spectaculoase.",
                   "category": "landmark",
                   "coords": [
                         -52.62268,
@@ -14821,7 +14821,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Turtle Hill",
-                  "text": "Un deal sau vârf în apropiere de St. John's.",
+                  "text": "Un deal cu vedere asupra golfului și a insulelor din față.",
                   "category": "natural",
                   "coords": [
                         -52.751446,
@@ -14839,7 +14839,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Seal Cove",
-                  "text": "Un golf de-a lungul coastei lângă St. John's.",
+                  "text": "Un golf unde focii se odihnesc adesea pe stânci.",
                   "category": "landmark",
                   "coords": [
                         -52.680064,
@@ -14848,7 +14848,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "The Pound",
-                  "text": "Un golf în zona St. John's.",
+                  "text": "Un țarc împrejmuit pe mal, folosit cândva pentru animale.",
                   "category": "landmark",
                   "coords": [
                         -52.681069,
@@ -14857,7 +14857,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Sam Cove",
-                  "text": "Un mic golf lângă St. John's.",
+                  "text": "Un golf mic și retras cu o plajă cu nisip.",
                   "category": "landmark",
                   "coords": [
                         -52.656777,
@@ -14866,7 +14866,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Cape Bay",
-                  "text": "Un golf în regiunea St. John's.",
+                  "text": "Un golf cu o plajă lungă de nisip și dune.",
                   "category": "landmark",
                   "coords": [
                         -52.631007,
@@ -14875,7 +14875,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Doyles Cove",
-                  "text": "Un golf pe coasta St. John's.",
+                  "text": "Un golf numit după o familie irlandeză care s-a stabilit acolo.",
                   "category": "landmark",
                   "coords": [
                         -52.635081,
@@ -14884,7 +14884,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Paper Cove",
-                  "text": "Un golf în zona St. John's.",
+                  "text": "Un golf unde era încărcat hârtia din păduri.",
                   "category": "landmark",
                   "coords": [
                         -52.634,
@@ -14893,7 +14893,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Cape Spear Lighthouse Museum",
-                  "text": "Muzeu în farul istoric Cape Spear, la cel mai estic punct al Canadei.",
+                  "text": "Muzeul farului Cape Spear din Johns Port prezintă istoria farului din 1836.",
                   "category": "museum",
                   "coords": [
                         -52.623477,
@@ -14902,7 +14902,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Woody Cove",
-                  "text": "Un golf lângă St. John's.",
+                  "text": "Un golf împădurit cu un pârâu mic care se varsă în mare.",
                   "category": "landmark",
                   "coords": [
                         -52.627979,
@@ -14911,7 +14911,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Broad Cove",
-                  "text": "Un golf în zona St. John's.",
+                  "text": "Un golf larg cu o vedere extinsă asupra oceanului.",
                   "category": "landmark",
                   "coords": [
                         -52.627853,
@@ -14920,7 +14920,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Cantwells Cove",
-                  "text": "Un golf pe coasta St. John's.",
+                  "text": "Un golf cu stânci abrupte și o cascadă mică.",
                   "category": "landmark",
                   "coords": [
                         -52.636585,
@@ -14929,7 +14929,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Blackhead One Room Church and School Museum",
-                  "text": "Muzeu în Blackhead care păstrează o fostă biserică și școală cu o singură cameră.",
+                  "text": "Muzeul bisericii și școlii cu o singură sală Blackhead din Johns Port este o clădire istorică de școală și biserică.",
                   "category": "museum",
                   "coords": [
                         -52.659315,
@@ -14938,7 +14938,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bull Cove",
-                  "text": "Un golf în regiunea St. John's.",
+                  "text": "Un golf unde erau ținute vite cândva.",
                   "category": "landmark",
                   "coords": [
                         -52.666187,
@@ -14947,7 +14947,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Island Cove",
-                  "text": "Un golf de-a lungul coastei lângă St. John's.",
+                  "text": "Un golf cu o insuliță în mijloc.",
                   "category": "landmark",
                   "coords": [
                         -52.66323,
@@ -14956,7 +14956,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Chimney Cove",
-                  "text": "Un golf în zona St. John's.",
+                  "text": "Un golf cu un turn de stâncă ce amintește de un coș de fum.",
                   "category": "landmark",
                   "coords": [
                         -52.654974,
@@ -14965,7 +14965,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Dollar Cove",
-                  "text": "Un golf lângă St. John's.",
+                  "text": "Un golf numit după forma sa rotundă.",
                   "category": "landmark",
                   "coords": [
                         -52.649726,
@@ -14974,7 +14974,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Empty Basket Cove",
-                  "text": "Un golf pe coasta St. John's.",
+                  "text": "Un golf care la reflux arată ca un coș gol.",
                   "category": "landmark",
                   "coords": [
                         -52.636335,
@@ -14983,7 +14983,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Herring Cove",
-                  "text": "Un golf în regiunea St. John's.",
+                  "text": "Un golf cunoscut pentru pescuitul de hering.",
                   "category": "landmark",
                   "coords": [
                         -52.645653,
@@ -14992,7 +14992,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bulgers Cove",
-                  "text": "Un golf de-a lungul coastei lângă St. John's.",
+                  "text": "Un golf cu un fund nisipos și puțin adânc.",
                   "category": "landmark",
                   "coords": [
                         -52.635016,
@@ -15001,7 +15001,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Little Jones Cove",
-                  "text": "Un mic golf lângă St. John's.",
+                  "text": "Un golf mic lângă golf mai mare Jones Cove.",
                   "category": "landmark",
                   "coords": [
                         -52.632659,
@@ -15010,7 +15010,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Jones Cove",
-                  "text": "Un golf în zona St. John's.",
+                  "text": "Un golf numit după un colonist timpuriu pe nume Jones.",
                   "category": "landmark",
                   "coords": [
                         -52.632271,
@@ -15019,7 +15019,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Mad Cove",
-                  "text": "Un golf pe coasta St. John's.",
+                  "text": "Un golf cu curenți puternici și apă agitată.",
                   "category": "landmark",
                   "coords": [
                         -52.63491,
@@ -15028,7 +15028,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Madam Cove",
-                  "text": "Un golf în regiunea St. John's.",
+                  "text": "Un golf numit după o legendă despre o femeie.",
                   "category": "landmark",
                   "coords": [
                         -52.63537,
@@ -15037,7 +15037,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Caplin Cove",
-                  "text": "Un golf de-a lungul coastei lângă St. John's.",
+                  "text": "Un golf unde depun icrele bancurile de capelin.",
                   "category": "landmark",
                   "coords": [
                         -52.677089,
@@ -15046,7 +15046,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Motion Bay",
-                  "text": "Un golf în zona St. John's.",
+                  "text": "Un golf cu valuri line, ideal pentru caiac.",
                   "category": "landmark",
                   "coords": [
                         -52.665541,
@@ -15055,7 +15055,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Freshwater",
-                  "text": "Un golf pe coasta St. John's.",
+                  "text": "Un ochi de apă dulce lângă coastă.",
                   "category": "landmark",
                   "coords": [
                         -52.683802,
@@ -15064,7 +15064,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Lower Cove",
-                  "text": "Un golf în regiunea St. John's.",
+                  "text": "Un golf situat mai jos decât golfurile din jur.",
                   "category": "landmark",
                   "coords": [
                         -52.682014,
@@ -15073,7 +15073,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Council Cove",
-                  "text": "Un golf de-a lungul coastei lângă St. John's.",
+                  "text": "Un golf unde aveau loc odată întruniri ale consiliului.",
                   "category": "landmark",
                   "coords": [
                         -52.692612,
@@ -15082,7 +15082,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bowring Park War Memorial",
-                  "text": "Un memorial de război în Parcul Bowring din St. John's.",
+                  "text": "Memorialul de război Bowring Park din Johns Port este un monument dedicat soldaților căzuți în parc.",
                   "category": "landmark",
                   "coords": [
                         -52.749825,
@@ -15093,7 +15093,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Cape Spear",
-                  "text": "Cape Spear is the easternmost point in North America, near St. John's.",
+                  "text": "Cape Spear in Johns Port is the easternmost point of Canada, with dramatic cliffs.",
                   "category": "landmark",
                   "coords": [
                         -52.62268,
@@ -15138,7 +15138,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Turtle Hill",
-                  "text": "A hill or peak in the St. John's area.",
+                  "text": "A hill with a view over the bay and offshore islands.",
                   "category": "natural",
                   "coords": [
                         -52.751446,
@@ -15156,7 +15156,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Seal Cove",
-                  "text": "A bay along the coastline near St. John's.",
+                  "text": "A cove where seals are often seen basking on the rocks.",
                   "category": "landmark",
                   "coords": [
                         -52.680064,
@@ -15165,7 +15165,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "The Pound",
-                  "text": "A bay in the St. John's area.",
+                  "text": "An enclosed pound on the shore, historically used for livestock.",
                   "category": "landmark",
                   "coords": [
                         -52.681069,
@@ -15174,7 +15174,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Sam Cove",
-                  "text": "A small bay near St. John's.",
+                  "text": "A small, secluded cove with a sandy beach.",
                   "category": "landmark",
                   "coords": [
                         -52.656777,
@@ -15183,7 +15183,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Cape Bay",
-                  "text": "A bay in the St. John's region.",
+                  "text": "A bay with a long sandy beach and dunes.",
                   "category": "landmark",
                   "coords": [
                         -52.631007,
@@ -15192,7 +15192,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Doyles Cove",
-                  "text": "A bay on the coast of St. John's.",
+                  "text": "A cove named after an Irish family who settled there.",
                   "category": "landmark",
                   "coords": [
                         -52.635081,
@@ -15201,7 +15201,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Paper Cove",
-                  "text": "A bay in the St. John's area.",
+                  "text": "A cove once used to load paper from the forests.",
                   "category": "landmark",
                   "coords": [
                         -52.634,
@@ -15210,7 +15210,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Cape Spear Lighthouse Museum",
-                  "text": "A museum located in the historic Cape Spear Lighthouse, Canada's easternmost point.",
+                  "text": "Cape Spear Lighthouse Museum in Johns Port exhibits the history of the 1836 lighthouse.",
                   "category": "museum",
                   "coords": [
                         -52.623477,
@@ -15219,7 +15219,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Woody Cove",
-                  "text": "A bay near St. John's.",
+                  "text": "A wooded cove with a small stream flowing into the sea.",
                   "category": "landmark",
                   "coords": [
                         -52.627979,
@@ -15228,7 +15228,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Broad Cove",
-                  "text": "A bay in the St. John's area.",
+                  "text": "A broad cove with expansive views of the ocean.",
                   "category": "landmark",
                   "coords": [
                         -52.627853,
@@ -15237,7 +15237,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Cantwells Cove",
-                  "text": "A bay on the coast of St. John's.",
+                  "text": "A cove with rocky cliffs and a small waterfall.",
                   "category": "landmark",
                   "coords": [
                         -52.636585,
@@ -15246,7 +15246,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Blackhead One Room Church and School Museum",
-                  "text": "A museum in Blackhead preserving a former one-room church and school.",
+                  "text": "Blackhead One Room Church and School Museum in Johns Port is a historic one-room school and church building.",
                   "category": "museum",
                   "coords": [
                         -52.659315,
@@ -15255,7 +15255,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bull Cove",
-                  "text": "A bay in the St. John's region.",
+                  "text": "A cove where cattle were once kept.",
                   "category": "landmark",
                   "coords": [
                         -52.666187,
@@ -15264,7 +15264,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Island Cove",
-                  "text": "A bay along the coastline near St. John's.",
+                  "text": "A cove with a small island in the middle.",
                   "category": "landmark",
                   "coords": [
                         -52.66323,
@@ -15273,7 +15273,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Chimney Cove",
-                  "text": "A bay in the St. John's area.",
+                  "text": "A cove with a rocky pinnacle resembling a chimney.",
                   "category": "landmark",
                   "coords": [
                         -52.654974,
@@ -15282,7 +15282,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Dollar Cove",
-                  "text": "A bay near St. John's.",
+                  "text": "A cove named for its round shape.",
                   "category": "landmark",
                   "coords": [
                         -52.649726,
@@ -15291,7 +15291,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Empty Basket Cove",
-                  "text": "A bay on the coast of St. John's.",
+                  "text": "A cove that resembles an empty basket at low tide.",
                   "category": "landmark",
                   "coords": [
                         -52.636335,
@@ -15300,7 +15300,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Herring Cove",
-                  "text": "A bay in the St. John's region.",
+                  "text": "A cove known for its herring fishing.",
                   "category": "landmark",
                   "coords": [
                         -52.645653,
@@ -15309,7 +15309,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bulgers Cove",
-                  "text": "A bay along the coastline near St. John's.",
+                  "text": "A cove with a shallow sandy bottom.",
                   "category": "landmark",
                   "coords": [
                         -52.635016,
@@ -15318,7 +15318,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Little Jones Cove",
-                  "text": "A small bay near St. John's.",
+                  "text": "A small cove next to the larger Jones Cove.",
                   "category": "landmark",
                   "coords": [
                         -52.632659,
@@ -15327,7 +15327,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Jones Cove",
-                  "text": "A bay in the St. John's area.",
+                  "text": "A cove named after an early settler named Jones.",
                   "category": "landmark",
                   "coords": [
                         -52.632271,
@@ -15336,7 +15336,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Mad Cove",
-                  "text": "A bay on the coast of St. John's.",
+                  "text": "A cove with strong currents and choppy water.",
                   "category": "landmark",
                   "coords": [
                         -52.63491,
@@ -15345,7 +15345,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Madam Cove",
-                  "text": "A bay in the St. John's region.",
+                  "text": "A cove named after a legend about a woman.",
                   "category": "landmark",
                   "coords": [
                         -52.63537,
@@ -15354,7 +15354,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Caplin Cove",
-                  "text": "A bay along the coastline near St. John's.",
+                  "text": "A cove where schools of capelin spawn.",
                   "category": "landmark",
                   "coords": [
                         -52.677089,
@@ -15363,7 +15363,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Motion Bay",
-                  "text": "A bay in the St. John's area.",
+                  "text": "A bay with gentle waves, ideal for kayaking.",
                   "category": "landmark",
                   "coords": [
                         -52.665541,
@@ -15372,7 +15372,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Freshwater",
-                  "text": "A bay on the coast of St. John's.",
+                  "text": "A freshwater pond near the coast.",
                   "category": "landmark",
                   "coords": [
                         -52.683802,
@@ -15381,7 +15381,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Lower Cove",
-                  "text": "A bay in the St. John's region.",
+                  "text": "A cove that lies lower than the surrounding coves.",
                   "category": "landmark",
                   "coords": [
                         -52.682014,
@@ -15390,7 +15390,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Council Cove",
-                  "text": "A bay along the coastline near St. John's.",
+                  "text": "A cove where council meetings were once held.",
                   "category": "landmark",
                   "coords": [
                         -52.692612,
@@ -15399,7 +15399,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bowring Park War Memorial",
-                  "text": "A war memorial in Bowring Park in St. John's.",
+                  "text": "Bowring Park War Memorial in Johns Port is a monument honoring fallen soldiers in the park.",
                   "category": "landmark",
                   "coords": [
                         -52.749825,
@@ -15447,7 +15447,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "The Donkey Sanctuary",
-                  "text": "Das Donkey Sanctuary ist ein Tierschutzgebiet in Guelph.",
+                  "text": "The Donkey Sanctuary in Manufacturing Hub ist ein Schutzgebiet für gerettete Esel.",
                   "category": "landmark",
                   "coords": [
                         -80.203016,
@@ -15456,7 +15456,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Preservation Park",
-                  "text": "Der Preservation Park ist ein Naturschutzgebiet in Guelph.",
+                  "text": "Preservation Park in Manufacturing Hub ist ein Naturschutzgebiet mit alten Baumbeständen.",
                   "category": "natural",
                   "coords": [
                         -80.21112,
@@ -15465,7 +15465,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Trillium Beach",
-                  "text": "Der Trillium Beach ist ein Strand in Guelph.",
+                  "text": "Trillium Beach in Manufacturing Hub ist ein Sandstrand, benannt nach der Wildblume Trillium.",
                   "category": "recreational",
                   "coords": [
                         -80.140127,
@@ -15474,7 +15474,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Hemlock Cresent Beach",
-                  "text": "Der Hemlock Crescent Beach ist ein Strand in Guelph.",
+                  "text": "Hemlock Cresent Beach in Manufacturing Hub ist ein Strand entlang einer halbmondförmigen Bucht.",
                   "category": "recreational",
                   "coords": [
                         -80.143315,
@@ -15483,7 +15483,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Phelan Conservation Area",
-                  "text": "Das Phelan Conservation Area ist ein Naturschutzgebiet in Guelph.",
+                  "text": "Phelan Conservation Area in Manufacturing Hub ist ein Schutzgebiet mit Feuchtgebieten und Wäldern.",
                   "category": "natural",
                   "coords": [
                         -80.21291,
@@ -15492,7 +15492,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Arboretum Nature Reserve",
-                  "text": "Das Arboretum Nature Reserve ist ein Naturreservat in Guelph.",
+                  "text": "Das Arboretum Nature Reserve in Manufacturing Hub ist ein Arboretum mit heimischen Baumarten.",
                   "category": "natural",
                   "coords": [
                         -80.209123,
@@ -15503,7 +15503,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "The Donkey Sanctuary",
-                  "text": "A Donkey Sanctuary egy állatmenhely Guelph-ben.",
+                  "text": "A The Donkey Sanctuary Manufacturing Hubban egy menedékhely megmentett szamarak számára.",
                   "category": "landmark",
                   "coords": [
                         -80.203016,
@@ -15512,7 +15512,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Preservation Park",
-                  "text": "A Preservation Park egy természetvédelmi terület Guelph-ben.",
+                  "text": "A Preservation Park Manufacturing Hubban egy természetvédelmi terület régi faállományokkal.",
                   "category": "natural",
                   "coords": [
                         -80.21112,
@@ -15521,7 +15521,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Trillium Beach",
-                  "text": "A Trillium Beach egy strand Guelph-ben.",
+                  "text": "A Trillium Beach Manufacturing Hubban egy homokos strand, amely a vadon élő Trillium virágról kapta a nevét.",
                   "category": "recreational",
                   "coords": [
                         -80.140127,
@@ -15530,7 +15530,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Hemlock Cresent Beach",
-                  "text": "A Hemlock Crescent Beach egy strand Guelph-ben.",
+                  "text": "A Hemlock Cresent Beach Manufacturing Hubban egy strand egy félhold alakú öböl mentén.",
                   "category": "recreational",
                   "coords": [
                         -80.143315,
@@ -15539,7 +15539,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Phelan Conservation Area",
-                  "text": "A Phelan Conservation Area egy természetvédelmi terület Guelph-ben.",
+                  "text": "A Phelan Conservation Area Manufacturing Hubban egy védett terület vizes élőhelyekkel és erdőkkel.",
                   "category": "natural",
                   "coords": [
                         -80.21291,
@@ -15548,7 +15548,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Arboretum Nature Reserve",
-                  "text": "Az Arboretum Nature Reserve egy természetvédelmi terület Guelph-ben.",
+                  "text": "Az Arboretum Nature Reserve Manufacturing Hubban egy arborétum, ahol őshonos fafajok találhatók.",
                   "category": "natural",
                   "coords": [
                         -80.209123,
@@ -15559,7 +15559,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "The Donkey Sanctuary",
-                  "text": "Donkey Sanctuary este un sanctuar pentru animale în Guelph.",
+                  "text": "Sanctuarul de măgari din Manufacturing Hub este un adăpost pentru măgarii salvați.",
                   "category": "landmark",
                   "coords": [
                         -80.203016,
@@ -15568,7 +15568,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Preservation Park",
-                  "text": "Preservation Park este o rezervație naturală în Guelph.",
+                  "text": "Parcul de conservare din Manufacturing Hub este o arie protejată cu arbori bătrâni.",
                   "category": "natural",
                   "coords": [
                         -80.21112,
@@ -15577,7 +15577,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Trillium Beach",
-                  "text": "Trillium Beach este o plajă în Guelph.",
+                  "text": "Plaja Trillium din Manufacturing Hub este o plajă nisipoasă numită după floarea sălbatică Trillium.",
                   "category": "recreational",
                   "coords": [
                         -80.140127,
@@ -15586,7 +15586,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Hemlock Cresent Beach",
-                  "text": "Hemlock Crescent Beach este o plajă în Guelph.",
+                  "text": "Plaja Hemlock Cresent din Manufacturing Hub este o plajă de-a lungul unui golf în formă de semilună.",
                   "category": "recreational",
                   "coords": [
                         -80.143315,
@@ -15595,7 +15595,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Phelan Conservation Area",
-                  "text": "Phelan Conservation Area este o rezervație naturală în Guelph.",
+                  "text": "Zona de conservare Phelan din Manufacturing Hub este o arie protejată cu zone umede și păduri.",
                   "category": "natural",
                   "coords": [
                         -80.21291,
@@ -15604,7 +15604,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Arboretum Nature Reserve",
-                  "text": "Arboretum Nature Reserve este o rezervație naturală în Guelph.",
+                  "text": "Rezervația naturală Arboretum din Manufacturing Hub este un arboretum cu specii de arbori nativi.",
                   "category": "natural",
                   "coords": [
                         -80.209123,
@@ -15615,7 +15615,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "The Donkey Sanctuary",
-                  "text": "The Donkey Sanctuary is an animal sanctuary in Guelph.",
+                  "text": "The Donkey Sanctuary in Manufacturing Hub is a refuge for rescued donkeys.",
                   "category": "landmark",
                   "coords": [
                         -80.203016,
@@ -15624,7 +15624,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Preservation Park",
-                  "text": "Preservation Park is a nature reserve in Guelph.",
+                  "text": "Preservation Park in Manufacturing Hub is a nature preserve with old-growth trees.",
                   "category": "natural",
                   "coords": [
                         -80.21112,
@@ -15633,7 +15633,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Trillium Beach",
-                  "text": "Trillium Beach is a beach in Guelph.",
+                  "text": "Trillium Beach in Manufacturing Hub is a sandy beach named after the wildflower trillium.",
                   "category": "recreational",
                   "coords": [
                         -80.140127,
@@ -15642,7 +15642,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Hemlock Cresent Beach",
-                  "text": "Hemlock Crescent Beach is a beach in Guelph.",
+                  "text": "Hemlock Cresent Beach in Manufacturing Hub is a beach along a crescent-shaped bay.",
                   "category": "recreational",
                   "coords": [
                         -80.143315,
@@ -15651,7 +15651,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Phelan Conservation Area",
-                  "text": "Phelan Conservation Area is a nature reserve in Guelph.",
+                  "text": "Phelan Conservation Area in Manufacturing Hub is a protected area with wetlands and forests.",
                   "category": "natural",
                   "coords": [
                         -80.21291,
@@ -15660,7 +15660,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Arboretum Nature Reserve",
-                  "text": "Arboretum Nature Reserve is a nature reserve in Guelph.",
+                  "text": "Arboretum Nature Reserve in Manufacturing Hub is an arboretum featuring native tree species.",
                   "category": "natural",
                   "coords": [
                         -80.209123,
@@ -15879,7 +15879,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Chilliwack Arts Centre",
-                  "text": "Das Chilliwack Arts Centre ist ein Kunstzentrum in Chilliwack.",
+                  "text": "Das Chilliwack Arts Centre in Valley Agriculture Logistics ist ein Veranstaltungsort für darstellende Künste.",
                   "category": "cultural",
                   "coords": [
                         -121.953635,
@@ -15888,7 +15888,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Dicken's Sweets & British Museum",
-                  "text": "Das Dicken's Sweets & British Museum ist ein Museum in Chilliwack.",
+                  "text": "Dicken's Sweets & British Museum in Valley Agriculture Logistics zeigt britische Süßigkeiten und historische Gegenstände.",
                   "category": "museum",
                   "coords": [
                         -121.953873,
@@ -15897,7 +15897,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "S. Leslie Brice",
-                  "text": "Das S. Leslie Brice Monument ist ein Denkmal in Chilliwack.",
+                  "text": "S. Leslie Brice in Valley Agriculture Logistics ist eine historische Gedenkstätte für den gleichnamigen Pionier.",
                   "category": "historical",
                   "coords": [
                         -121.943792,
@@ -15906,7 +15906,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Lindell Beach",
-                  "text": "Der Lindell Beach ist ein Strand in Chilliwack.",
+                  "text": "Lindell Beach in Valley Agriculture Logistics ist ein ruhiger Sandstrand am Seeufer.",
                   "category": "recreational",
                   "coords": [
                         -122.009567,
@@ -15915,7 +15915,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bert Brink Wildlife Management Area",
-                  "text": "Das Bert Brink Wildlife Management Area ist ein Naturschutzgebiet in Chilliwack.",
+                  "text": "Das Bert Brink Wildlife Management Area in Valley Agriculture Logistics schützt Lebensräume für Wildtiere.",
                   "category": "natural",
                   "coords": [
                         -122.114643,
@@ -15924,7 +15924,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Cultus Lake Provincial Park",
-                  "text": "Der Cultus Lake Provincial Park ist ein Naturschutzgebiet in Chilliwack, das den Cultus Lake umgibt.",
+                  "text": "Ein Provinzpark um den Cultus Lake, bekannt für Schwimmen und Angeln, in Valley Agriculture Logistics.",
                   "category": "natural",
                   "coords": [
                         -121.975781,
@@ -15933,7 +15933,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Maple Bay Beach",
-                  "text": "Der Maple Bay Beach ist ein Strand in Chilliwack.",
+                  "text": "Maple Bay Beach in Valley Agriculture Logistics ist ein Strand umgeben von Ahornbäumen.",
                   "category": "recreational",
                   "coords": [
                         -122.001133,
@@ -15942,7 +15942,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Sitka Recreation Reserve",
-                  "text": "Die Sitka Recreation Reserve ist ein Naturschutzgebiet in Chilliwack.",
+                  "text": "Das Sitka Recreation Reserve in Valley Agriculture Logistics ist ein Erholungsgebiet mit Sitka-Fichten.",
                   "category": "natural",
                   "coords": [
                         -121.886879,
@@ -15951,7 +15951,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Chilliwack River Provincial Park",
-                  "text": "Der Chilliwack River Provincial Park ist ein Naturschutzgebiet in Chilliwack, das das Tal des Chilliwack River schützt.",
+                  "text": "Ein abgelegener Provinzpark entlang des Chilliwack River, beliebt zum Wandern und für Wildtierbeobachtungen, in Valley Agriculture Logistics.",
                   "category": "natural",
                   "coords": [
                         -121.88732,
@@ -15960,7 +15960,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Katherine Tye Ecological Reserve",
-                  "text": "Die Katherine Tye Ecological Reserve ist ein Naturschutzgebiet in Chilliwack.",
+                  "text": "Die Katherine Tye Ecological Reserve in Valley Agriculture Logistics schützt seltene Pflanzen und Tiere.",
                   "category": "natural",
                   "coords": [
                         -121.929267,
@@ -15969,7 +15969,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bridlewood Park",
-                  "text": "Der Bridlewood Park ist ein Naturschutzgebiet in Chilliwack.",
+                  "text": "Ein Naturpark mit Reitwegen durch bewaldete Gebiete im Valley Agriculture Logistics.",
                   "category": "natural",
                   "coords": [
                         -121.95368,
@@ -15978,7 +15978,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Chilliwack River Conservation Area",
-                  "text": "Das Chilliwack River Conservation Area ist ein Naturschutzgebiet in Chilliwack.",
+                  "text": "Ein Schutzgebiet entlang des Chilliwack River, das die Uferlebensräume schützt.",
                   "category": "natural",
                   "coords": [
                         -121.958164,
@@ -15987,7 +15987,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Cultus Lake Waterpark",
-                  "text": "Der Cultus Lake Waterpark ist ein Wasserpark in Chilliwack.",
+                  "text": "Ein Wasserpark mit Rutschen und Becken am Ufer des Cultus Lake.",
                   "category": "recreational",
                   "coords": [
                         -121.975097,
@@ -15996,7 +15996,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Browne Creek Wetlands",
-                  "text": "Die Browne Creek Wetlands ist ein Naturschutzgebiet in Chilliwack.",
+                  "text": "Feuchtgebiete am Browne Creek, die Lebensraum für Vögel und Wildtiere bieten.",
                   "category": "natural",
                   "coords": [
                         -122.027978,
@@ -16005,7 +16005,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Great Blue Heron Nature Reserve",
-                  "text": "Das Great Blue Heron Nature Reserve ist ein Naturschutzgebiet in Chilliwack.",
+                  "text": "Ein Naturschutzgebiet, das eine Kolonie von Kanadareihern schützt.",
                   "category": "natural",
                   "coords": [
                         -122.048824,
@@ -16014,7 +16014,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Vedder Mountain Interpretative Forest",
-                  "text": "Der Vedder Mountain Interpretative Forest ist ein Naturschutzgebiet in Chilliwack.",
+                  "text": "Ein Interpretationswald am Vedder Mountain mit pädagogischen Wanderwegen.",
                   "category": "natural",
                   "coords": [
                         -122.052565,
@@ -16023,7 +16023,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Fraser River Ecological Reserve",
-                  "text": "Das Fraser River Ecological Reserve ist ein Naturschutzgebiet in Chilliwack.",
+                  "text": "Ein ökologisches Schutzgebiet entlang des Fraser River, das vielfältige Lebensräume bewahrt.",
                   "category": "natural",
                   "coords": [
                         -122.018782,
@@ -16032,7 +16032,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Hillkeep Regional Park",
-                  "text": "Der Hillkeep Regional Park ist ein Naturschutzgebiet in Chilliwack.",
+                  "text": "Ein regionaler Park auf einem Hügel mit Panoramablick auf das Tal.",
                   "category": "natural",
                   "coords": [
                         -122.026225,
@@ -16041,7 +16041,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Peach Creek Spawning Channels",
-                  "text": "Die Peach Creek Spawning Channels ist ein Naturschutzgebiet in Chilliwack.",
+                  "text": "Künstliche Laichkanäle für Lachse am Peach Creek.",
                   "category": "natural",
                   "coords": [
                         -122.012092,
@@ -16050,7 +16050,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Wells Sanctuary Conservation Area",
-                  "text": "Das Wells Sanctuary Conservation Area ist ein Naturschutzgebiet in Chilliwack.",
+                  "text": "Ein Schutzgebiet, das als Wildtierreservat dient.",
                   "category": "natural",
                   "coords": [
                         -121.960831,
@@ -16059,7 +16059,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Mount Thom Park",
-                  "text": "Der Mount Thom Park ist ein Naturschutzgebiet in Chilliwack.",
+                  "text": "Ein Park auf dem Mount Thom mit bewaldeten Wanderwegen.",
                   "category": "natural",
                   "coords": [
                         -121.912434,
@@ -16068,7 +16068,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Chilliwack Museum",
-                  "text": "Das Chilliwack Museum ist ein Museum in Chilliwack, das in einem ehemaligen Postgebäude untergebracht ist.",
+                  "text": "Das Chilliwack Museum zeigt die Geschichte der Region im ehemaligen Postgebäude.",
                   "category": "museum",
                   "coords": [
                         -121.956676,
@@ -16077,7 +16077,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Island 22 Regional Park",
-                  "text": "Der Island 22 Regional Park ist ein Naturschutzgebiet in Chilliwack.",
+                  "text": "Ein regionaler Park auf Island 22 im Fraser River.",
                   "category": "natural",
                   "coords": [
                         -121.984443,
@@ -16223,7 +16223,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Chilliwack Arts Centre",
-                  "text": "A Chilliwack Arts Centre egy művészeti központ Chilliwackben.",
+                  "text": "A Chilliwack Arts Centre Valley Agriculture Logisticsban egy előadóművészeti helyszín.",
                   "category": "cultural",
                   "coords": [
                         -121.953635,
@@ -16232,7 +16232,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Dicken's Sweets & British Museum",
-                  "text": "A Dicken's Sweets & British Museum egy múzeum Chilliwackben.",
+                  "text": "A Dicken's Sweets & British Museum Valley Agriculture Logisticsban brit édességeket és történelmi tárgyakat mutat be.",
                   "category": "museum",
                   "coords": [
                         -121.953873,
@@ -16241,7 +16241,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "S. Leslie Brice",
-                  "text": "A S. Leslie Brice emlékmű egy emlékmű Chilliwackben.",
+                  "text": "S. Leslie Brice Valley Agriculture Logisticsban egy történelmi emlékhely a névadó úttörő számára.",
                   "category": "historical",
                   "coords": [
                         -121.943792,
@@ -16250,7 +16250,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Lindell Beach",
-                  "text": "A Lindell Beach egy strand Chilliwackben.",
+                  "text": "A Lindell Beach Valley Agriculture Logisticsban egy csendes homokos strand tóparton.",
                   "category": "recreational",
                   "coords": [
                         -122.009567,
@@ -16259,7 +16259,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bert Brink Wildlife Management Area",
-                  "text": "A Bert Brink Wildlife Management Area egy természetvédelmi terület Chilliwackben.",
+                  "text": "A Bert Brink Wildlife Management Area Valley Agriculture Logisticsban védi a vadon élő állatok élőhelyeit.",
                   "category": "natural",
                   "coords": [
                         -122.114643,
@@ -16268,7 +16268,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Cultus Lake Provincial Park",
-                  "text": "A Cultus Lake Provincial Park egy természetvédelmi terület Chilliwackben, amely a Cultus Lake-et veszi körül.",
+                  "text": "Tartományi park a Cultus-tó körül, híres úszásról és horgászatról a Valley Agriculture Logistics területén.",
                   "category": "natural",
                   "coords": [
                         -121.975781,
@@ -16277,7 +16277,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Maple Bay Beach",
-                  "text": "A Maple Bay Beach egy strand Chilliwackben.",
+                  "text": "A Maple Bay Beach Valley Agriculture Logisticsban egy strand, amelyet juharfák vesznek körül.",
                   "category": "recreational",
                   "coords": [
                         -122.001133,
@@ -16286,7 +16286,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Sitka Recreation Reserve",
-                  "text": "A Sitka Recreation Reserve egy természetvédelmi terület Chilliwackben.",
+                  "text": "A Sitka Recreation Reserve Valley Agriculture Logisticsban egy pihenőterület sitka lucfenyőkkel.",
                   "category": "natural",
                   "coords": [
                         -121.886879,
@@ -16295,7 +16295,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Chilliwack River Provincial Park",
-                  "text": "A Chilliwack River Provincial Park egy természetvédelmi terület Chilliwackben, amely a Chilliwack River völgyét védi.",
+                  "text": "Távoli tartományi park a Chilliwack folyó mentén, népszerű túrázáshoz és vadmegfigyeléshez a Valley Agriculture Logistics területén.",
                   "category": "natural",
                   "coords": [
                         -121.88732,
@@ -16304,7 +16304,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Katherine Tye Ecological Reserve",
-                  "text": "A Katherine Tye Ecological Reserve egy természetvédelmi terület Chilliwackben.",
+                  "text": "A Katherine Tye Ecological Reserve Valley Agriculture Logisticsban ritka növényeket és állatokat véd.",
                   "category": "natural",
                   "coords": [
                         -121.929267,
@@ -16313,7 +16313,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bridlewood Park",
-                  "text": "A Bridlewood Park egy természetvédelmi terület Chilliwackben.",
+                  "text": "Egy természeti park lovaglóösvényekkel, erdős területen a Valley Agriculture Logisticsban.",
                   "category": "natural",
                   "coords": [
                         -121.95368,
@@ -16322,7 +16322,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Chilliwack River Conservation Area",
-                  "text": "A Chilliwack River Conservation Area egy természetvédelmi terület Chilliwackben.",
+                  "text": "Védett terület a Chilliwack folyó mentén, amely a partszéli ökoszisztémákat védi.",
                   "category": "natural",
                   "coords": [
                         -121.958164,
@@ -16331,7 +16331,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Cultus Lake Waterpark",
-                  "text": "A Cultus Lake Waterpark egy vízipark Chilliwackben.",
+                  "text": "Vidámpark csúszdákkal és medencékkel a Cultus-tó partján.",
                   "category": "recreational",
                   "coords": [
                         -121.975097,
@@ -16340,7 +16340,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Browne Creek Wetlands",
-                  "text": "A Browne Creek Wetlands egy természetvédelmi terület Chilliwackben.",
+                  "text": "Vizes élőhelyek a Browne-patak mentén, madarak és vadon élő állatok élőhelyét biztosítva.",
                   "category": "natural",
                   "coords": [
                         -122.027978,
@@ -16349,7 +16349,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Great Blue Heron Nature Reserve",
-                  "text": "A Great Blue Heron Nature Reserve egy természetvédelmi terület Chilliwackben.",
+                  "text": "Egy természetvédelmi terület, amely egy kanadai kócsagkolóniát véd.",
                   "category": "natural",
                   "coords": [
                         -122.048824,
@@ -16358,7 +16358,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Vedder Mountain Interpretative Forest",
-                  "text": "A Vedder Mountain Interpretative Forest egy természetvédelmi terület Chilliwackben.",
+                  "text": "Egy értelmező erdő a Vedder-hegyen, oktató jellegű túraútvonalakkal.",
                   "category": "natural",
                   "coords": [
                         -122.052565,
@@ -16367,7 +16367,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Fraser River Ecological Reserve",
-                  "text": "A Fraser River Ecological Reserve egy természetvédelmi terület Chilliwackben.",
+                  "text": "Ökológiai rezervátum a Fraser folyó mentén, amely változatos élőhelyeket őriz.",
                   "category": "natural",
                   "coords": [
                         -122.018782,
@@ -16376,7 +16376,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Hillkeep Regional Park",
-                  "text": "A Hillkeep Regional Park egy természetvédelmi terület Chilliwackben.",
+                  "text": "Egy dombtetőn fekvő regionális park panorámás kilátással a völgyre.",
                   "category": "natural",
                   "coords": [
                         -122.026225,
@@ -16385,7 +16385,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Peach Creek Spawning Channels",
-                  "text": "A Peach Creek Spawning Channels egy természetvédelmi terület Chilliwackben.",
+                  "text": "Mesterséges ívócsatornák a lazacok számára a Peach-patakon.",
                   "category": "natural",
                   "coords": [
                         -122.012092,
@@ -16394,7 +16394,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Wells Sanctuary Conservation Area",
-                  "text": "A Wells Sanctuary Conservation Area egy természetvédelmi terület Chilliwackben.",
+                  "text": "Védett terület, amely vadon élő állatok menedékeként szolgál.",
                   "category": "natural",
                   "coords": [
                         -121.960831,
@@ -16403,7 +16403,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Mount Thom Park",
-                  "text": "A Mount Thom Park egy természetvédelmi terület Chilliwackben.",
+                  "text": "Egy park a Mount Thomon, erdős túraútvonalakkal.",
                   "category": "natural",
                   "coords": [
                         -121.912434,
@@ -16412,7 +16412,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Chilliwack Museum",
-                  "text": "A Chilliwack Museum egy múzeum Chilliwackben, amely egy egykori postaépületben található.",
+                  "text": "A Chilliwack Múzeum a régió történetét mutatja be a volt postaépületben.",
                   "category": "museum",
                   "coords": [
                         -121.956676,
@@ -16421,7 +16421,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Island 22 Regional Park",
-                  "text": "A Island 22 Regional Park egy természetvédelmi terület Chilliwackben.",
+                  "text": "Regionális park a 22-es szigeten a Fraser folyóban.",
                   "category": "natural",
                   "coords": [
                         -121.984443,
@@ -16567,7 +16567,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Chilliwack Arts Centre",
-                  "text": "Chilliwack Arts Centre este un centru de artă în Chilliwack.",
+                  "text": "Centrul de Arte Chilliwack din Valley Agriculture Logistics este un loc pentru artele spectacolului.",
                   "category": "cultural",
                   "coords": [
                         -121.953635,
@@ -16576,7 +16576,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Dicken's Sweets & British Museum",
-                  "text": "Dicken's Sweets & British Museum este un muzeu în Chilliwack.",
+                  "text": "Muzeul Dicken's Sweets & British din Valley Agriculture Logistics expune dulciuri britanice și obiecte istorice.",
                   "category": "museum",
                   "coords": [
                         -121.953873,
@@ -16585,7 +16585,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "S. Leslie Brice",
-                  "text": "Monumentul S. Leslie Brice este un monument în Chilliwack.",
+                  "text": "S. Leslie Brice din Valley Agriculture Logistics este un loc istoric de comemorare a pionierului omonim.",
                   "category": "historical",
                   "coords": [
                         -121.943792,
@@ -16594,7 +16594,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Lindell Beach",
-                  "text": "Lindell Beach este o plajă în Chilliwack.",
+                  "text": "Plaja Lindell din Valley Agriculture Logistics este o plajă nisipoasă liniștită pe malul unui lac.",
                   "category": "recreational",
                   "coords": [
                         -122.009567,
@@ -16603,7 +16603,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bert Brink Wildlife Management Area",
-                  "text": "Bert Brink Wildlife Management Area este o rezervație naturală în Chilliwack.",
+                  "text": "Zona de management a faunei sălbatice Bert Brink din Valley Agriculture Logistics protejează habitatele animalelor sălbatice.",
                   "category": "natural",
                   "coords": [
                         -122.114643,
@@ -16612,7 +16612,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Cultus Lake Provincial Park",
-                  "text": "Parcul Provincial Cultus Lake este o rezervație naturală în Chilliwack care înconjoară Lacul Cultus.",
+                  "text": "Un parc provincial în jurul lacului Cultus, cunoscut pentru înot și pescuit în Valley Agriculture Logistics.",
                   "category": "natural",
                   "coords": [
                         -121.975781,
@@ -16621,7 +16621,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Maple Bay Beach",
-                  "text": "Maple Bay Beach este o plajă în Chilliwack.",
+                  "text": "Plaja Maple Bay din Valley Agriculture Logistics este o plajă înconjurată de arțari.",
                   "category": "recreational",
                   "coords": [
                         -122.001133,
@@ -16630,7 +16630,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Sitka Recreation Reserve",
-                  "text": "Sitka Recreation Reserve este o rezervație naturală în Chilliwack.",
+                  "text": "Rezervația de agrement Sitka din Valley Agriculture Logistics este o zonă de recreere cu molizi Sitka.",
                   "category": "natural",
                   "coords": [
                         -121.886879,
@@ -16639,7 +16639,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Chilliwack River Provincial Park",
-                  "text": "Parcul Provincial Chilliwack River este o rezervație naturală în Chilliwack care protejează valea râului Chilliwack.",
+                  "text": "Un parc provincial îndepărtat de-a lungul râului Chilliwack, popular pentru drumeții și observarea faunei sălbatice în Valley Agriculture Logistics.",
                   "category": "natural",
                   "coords": [
                         -121.88732,
@@ -16648,7 +16648,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Katherine Tye Ecological Reserve",
-                  "text": "Katherine Tye Ecological Reserve este o rezervație naturală în Chilliwack.",
+                  "text": "Rezervația ecologică Katherine Tye din Valley Agriculture Logistics protejează plante și animale rare.",
                   "category": "natural",
                   "coords": [
                         -121.929267,
@@ -16657,7 +16657,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bridlewood Park",
-                  "text": "Parcul Bridlewood este o rezervație naturală în Chilliwack.",
+                  "text": "Un parc natural cu poteci călare prin zone împădurite în Valley Agriculture Logistics.",
                   "category": "natural",
                   "coords": [
                         -121.95368,
@@ -16666,7 +16666,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Chilliwack River Conservation Area",
-                  "text": "Chilliwack River Conservation Area este o rezervație naturală în Chilliwack.",
+                  "text": "O arie de conservare de-a lungul râului Chilliwack, protejând habitatele riverane.",
                   "category": "natural",
                   "coords": [
                         -121.958164,
@@ -16675,7 +16675,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Cultus Lake Waterpark",
-                  "text": "Cultus Lake Waterpark este un parc acvatic în Chilliwack.",
+                  "text": "Un parc acvatic cu tobogane și piscine pe malul lacului Cultus.",
                   "category": "recreational",
                   "coords": [
                         -121.975097,
@@ -16684,7 +16684,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Browne Creek Wetlands",
-                  "text": "Browne Creek Wetlands este o rezervație naturală în Chilliwack.",
+                  "text": "Zone umede de-a lungul pârâului Browne, oferind habitat pentru păsări și animale sălbatice.",
                   "category": "natural",
                   "coords": [
                         -122.027978,
@@ -16693,7 +16693,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Great Blue Heron Nature Reserve",
-                  "text": "Great Blue Heron Nature Reserve este o rezervație naturală în Chilliwack.",
+                  "text": "O rezervație naturală care protejează o colonie de stârci albastre.",
                   "category": "natural",
                   "coords": [
                         -122.048824,
@@ -16702,7 +16702,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Vedder Mountain Interpretative Forest",
-                  "text": "Pădurea Interpretativă Vedder Mountain este o rezervație naturală în Chilliwack.",
+                  "text": "O pădure interpretativă pe Muntele Vedder, cu trasee educaționale de drumeție.",
                   "category": "natural",
                   "coords": [
                         -122.052565,
@@ -16711,7 +16711,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Fraser River Ecological Reserve",
-                  "text": "Fraser River Ecological Reserve este o rezervație naturală în Chilliwack.",
+                  "text": "O rezervație ecologică de-a lungul râului Fraser, protejând habitate diverse.",
                   "category": "natural",
                   "coords": [
                         -122.018782,
@@ -16720,7 +16720,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Hillkeep Regional Park",
-                  "text": "Parcul Regional Hillkeep este o rezervație naturală în Chilliwack.",
+                  "text": "Un parc regional pe un deal cu vederi panoramice asupra văii.",
                   "category": "natural",
                   "coords": [
                         -122.026225,
@@ -16729,7 +16729,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Peach Creek Spawning Channels",
-                  "text": "Peach Creek Spawning Channels este o rezervație naturală în Chilliwack.",
+                  "text": "Canale de depunere a icrelor pentru somoni pe pârâul Peach.",
                   "category": "natural",
                   "coords": [
                         -122.012092,
@@ -16738,7 +16738,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Wells Sanctuary Conservation Area",
-                  "text": "Wells Sanctuary Conservation Area este o rezervație naturală în Chilliwack.",
+                  "text": "O arie de conservare care funcționează ca un sanctuar pentru animale sălbatice.",
                   "category": "natural",
                   "coords": [
                         -121.960831,
@@ -16747,7 +16747,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Mount Thom Park",
-                  "text": "Parcul Mount Thom este o rezervație naturală în Chilliwack.",
+                  "text": "Un parc pe Muntele Thom cu trasee de drumeție împădurite.",
                   "category": "natural",
                   "coords": [
                         -121.912434,
@@ -16756,7 +16756,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Chilliwack Museum",
-                  "text": "Muzeul Chilliwack este un muzeu în Chilliwack găzduit într-o fostă clădire a poștei.",
+                  "text": "Muzeul Chilliwack prezintă istoria regiunii în fosta clădire a poștei.",
                   "category": "museum",
                   "coords": [
                         -121.956676,
@@ -16765,7 +16765,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Island 22 Regional Park",
-                  "text": "Parcul Regional Island 22 este o rezervație naturală în Chilliwack.",
+                  "text": "Un parc regional pe Insula 22 din râul Fraser.",
                   "category": "natural",
                   "coords": [
                         -121.984443,
@@ -16911,7 +16911,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Chilliwack Arts Centre",
-                  "text": "Chilliwack Arts Centre is an arts centre in Chilliwack.",
+                  "text": "Chilliwack Arts Centre in Valley Agriculture Logistics is a performing arts venue.",
                   "category": "cultural",
                   "coords": [
                         -121.953635,
@@ -16920,7 +16920,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Dicken's Sweets & British Museum",
-                  "text": "Dicken's Sweets & British Museum is a museum in Chilliwack.",
+                  "text": "Dicken's Sweets & British Museum in Valley Agriculture Logistics displays British sweets and historical items.",
                   "category": "museum",
                   "coords": [
                         -121.953873,
@@ -16929,7 +16929,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "S. Leslie Brice",
-                  "text": "S. Leslie Brice is a monument in Chilliwack.",
+                  "text": "S. Leslie Brice in Valley Agriculture Logistics is a historic memorial site for the eponymous pioneer.",
                   "category": "historical",
                   "coords": [
                         -121.943792,
@@ -16938,7 +16938,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Lindell Beach",
-                  "text": "Lindell Beach is a beach in Chilliwack.",
+                  "text": "Lindell Beach in Valley Agriculture Logistics is a quiet sandy beach on a lakeshore.",
                   "category": "recreational",
                   "coords": [
                         -122.009567,
@@ -16947,7 +16947,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bert Brink Wildlife Management Area",
-                  "text": "Bert Brink Wildlife Management Area is a nature reserve in Chilliwack.",
+                  "text": "Bert Brink Wildlife Management Area in Valley Agriculture Logistics protects wildlife habitats.",
                   "category": "natural",
                   "coords": [
                         -122.114643,
@@ -16956,7 +16956,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Cultus Lake Provincial Park",
-                  "text": "Cultus Lake Provincial Park is a nature reserve in Chilliwack that surrounds Cultus Lake.",
+                  "text": "A provincial park around Cultus Lake, known for swimming and fishing, in Valley Agriculture Logistics.",
                   "category": "natural",
                   "coords": [
                         -121.975781,
@@ -16965,7 +16965,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Maple Bay Beach",
-                  "text": "Maple Bay Beach is a beach in Chilliwack.",
+                  "text": "Maple Bay Beach in Valley Agriculture Logistics is a beach surrounded by maple trees.",
                   "category": "recreational",
                   "coords": [
                         -122.001133,
@@ -16974,7 +16974,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Sitka Recreation Reserve",
-                  "text": "Sitka Recreation Reserve is a nature reserve in Chilliwack.",
+                  "text": "Sitka Recreation Reserve in Valley Agriculture Logistics is a recreation area with Sitka spruce trees.",
                   "category": "natural",
                   "coords": [
                         -121.886879,
@@ -16983,7 +16983,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Chilliwack River Provincial Park",
-                  "text": "Chilliwack River Provincial Park is a nature reserve in Chilliwack protecting the Chilliwack River valley.",
+                  "text": "A remote provincial park along the Chilliwack River, popular for hiking and wildlife viewing, in Valley Agriculture Logistics.",
                   "category": "natural",
                   "coords": [
                         -121.88732,
@@ -16992,7 +16992,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Katherine Tye Ecological Reserve",
-                  "text": "Katherine Tye Ecological Reserve is a nature reserve in Chilliwack.",
+                  "text": "Katherine Tye Ecological Reserve in Valley Agriculture Logistics protects rare plants and animals.",
                   "category": "natural",
                   "coords": [
                         -121.929267,
@@ -17001,7 +17001,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Bridlewood Park",
-                  "text": "Bridlewood Park is a nature reserve in Chilliwack.",
+                  "text": "A natural park with bridle paths through wooded areas in Valley Agriculture Logistics.",
                   "category": "natural",
                   "coords": [
                         -121.95368,
@@ -17010,7 +17010,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Chilliwack River Conservation Area",
-                  "text": "Chilliwack River Conservation Area is a nature reserve in Chilliwack.",
+                  "text": "A conservation area along the Chilliwack River protecting riparian ecosystems.",
                   "category": "natural",
                   "coords": [
                         -121.958164,
@@ -17019,7 +17019,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Cultus Lake Waterpark",
-                  "text": "Cultus Lake Waterpark is a water park in Chilliwack.",
+                  "text": "A waterpark with slides and pools on the shores of Cultus Lake.",
                   "category": "recreational",
                   "coords": [
                         -121.975097,
@@ -17028,7 +17028,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Browne Creek Wetlands",
-                  "text": "Browne Creek Wetlands is a nature reserve in Chilliwack.",
+                  "text": "Wetlands along Browne Creek providing bird and wildlife habitat.",
                   "category": "natural",
                   "coords": [
                         -122.027978,
@@ -17037,7 +17037,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Great Blue Heron Nature Reserve",
-                  "text": "Great Blue Heron Nature Reserve is a nature reserve in Chilliwack.",
+                  "text": "A nature reserve protecting a colony of great blue herons.",
                   "category": "natural",
                   "coords": [
                         -122.048824,
@@ -17046,7 +17046,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Vedder Mountain Interpretative Forest",
-                  "text": "Vedder Mountain Interpretative Forest is a nature reserve in Chilliwack.",
+                  "text": "An interpretative forest on Vedder Mountain with educational hiking trails.",
                   "category": "natural",
                   "coords": [
                         -122.052565,
@@ -17055,7 +17055,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Fraser River Ecological Reserve",
-                  "text": "Fraser River Ecological Reserve is a nature reserve in Chilliwack.",
+                  "text": "An ecological reserve along the Fraser River protecting diverse habitats.",
                   "category": "natural",
                   "coords": [
                         -122.018782,
@@ -17064,7 +17064,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Hillkeep Regional Park",
-                  "text": "Hillkeep Regional Park is a nature reserve in Chilliwack.",
+                  "text": "A hilltop regional park offering panoramic views of the valley.",
                   "category": "natural",
                   "coords": [
                         -122.026225,
@@ -17073,7 +17073,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Peach Creek Spawning Channels",
-                  "text": "Peach Creek Spawning Channels is a nature reserve in Chilliwack.",
+                  "text": "Spawning channels for salmon on Peach Creek.",
                   "category": "natural",
                   "coords": [
                         -122.012092,
@@ -17082,7 +17082,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Wells Sanctuary Conservation Area",
-                  "text": "Wells Sanctuary Conservation Area is a nature reserve in Chilliwack.",
+                  "text": "A conservation area serving as a wildlife sanctuary.",
                   "category": "natural",
                   "coords": [
                         -121.960831,
@@ -17091,7 +17091,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Mount Thom Park",
-                  "text": "Mount Thom Park is a nature reserve in Chilliwack.",
+                  "text": "A park on Mount Thom with forested hiking trails.",
                   "category": "natural",
                   "coords": [
                         -121.912434,
@@ -17100,7 +17100,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Chilliwack Museum",
-                  "text": "Chilliwack Museum is a museum in Chilliwack housed in a former post office building.",
+                  "text": "Housed in the former post office, the Chilliwack Museum presents the history of the Chilliwack area.",
                   "category": "museum",
                   "coords": [
                         -121.956676,
@@ -17109,7 +17109,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             },
             {
                   "name": "Island 22 Regional Park",
-                  "text": "Island 22 Regional Park is a nature reserve in Chilliwack.",
+                  "text": "A regional park situated on Island 22 in the Fraser River.",
                   "category": "natural",
                   "coords": [
                         -121.984443,

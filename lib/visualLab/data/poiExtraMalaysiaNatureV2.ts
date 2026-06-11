@@ -3,7 +3,628 @@ import type { POI } from "./poi";
 
 export const poiExtraMalaysiaNatureV2: POI[] = [
     {
-    id: "taman-negara-national-park-nature-v2",
+    id: "taman-negara-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bumbun Kumbang",
+                  "text": "Ein strategisch in Taman Negara platziertes Wildtierbeobachtungsversteck, um nachtaktive Tiere und Vögel im Dschungeldach zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        102.436857,
+                        4.447027
+                  ]
+            },
+            {
+                  "name": "Bukit Guling Gendang",
+                  "text": "Ein bewaldeter Hügel in der Wildnis von Taman Negara, der sich über die alte Dschungellandschaft erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        102.3433,
+                        4.3819
+                  ]
+            },
+            {
+                  "name": "Bumbun Yong",
+                  "text": "Ein erhöhtes Wildtierversteck in Taman Negara, wo Besucher im Stillen warten können, um Tiere zu beobachten, die die nahe gelegene Salzlecke besuchen.",
+                  "category": "natural",
+                  "coords": [
+                        102.383233,
+                        4.358692
+                  ]
+            },
+            {
+                  "name": "Bumbun Blau",
+                  "text": "Eine rustikale Aussichtshütte tief im Regenwald von Taman Negara, die für Übernachtungen zur Beobachtung der Dschungelfauna konzipiert ist.",
+                  "category": "natural",
+                  "coords": [
+                        102.384514,
+                        4.369192
+                  ]
+            },
+            {
+                  "name": "Bumbun Cegar Anjing",
+                  "text": "Ein Dschungelversteck in Taman Negara, das einen Aussichtspunkt über den Waldboden bietet, um nach scheuen lokalen Wildtieren Ausschau zu halten.",
+                  "category": "natural",
+                  "coords": [
+                        102.399949,
+                        4.406884
+                  ]
+            },
+            {
+                  "name": "Taman Negara Pahang Kuala Tahan",
+                  "text": "Der Haupteinstiegspunkt und Hauptsitz zur Erkundung der weiten, uralten Regenwälder des Taman Negara Nationalparks.",
+                  "category": "landmark",
+                  "coords": [
+                        102.400246,
+                        4.385314
+                  ]
+            },
+            {
+                  "name": "Orang Asli Village",
+                  "text": "Eine traditionelle Siedlung in Taman Negara, wo Besucher etwas über den Lebensstil der einheimischen Jäger und Sammler sowie die Jagd mit dem Blasrohr lernen können.",
+                  "category": "landmark",
+                  "coords": [
+                        102.417286,
+                        4.390448
+                  ]
+            },
+            {
+                  "name": "Canopy walkway start",
+                  "text": "Der Beginn des Hängebrückensystems in Taman Negara, das es Besuchern ermöglicht, durch die Baumkronen des uralten Regenwaldes zu spazieren.",
+                  "category": "landmark",
+                  "coords": [
+                        102.407981,
+                        4.390646
+                  ]
+            },
+            {
+                  "name": "Bumbun Tahan",
+                  "text": "Eine markante Wildtier-Aussichtsplattform in Taman Negara, die eine Lichtung überblickt, die oft von weidenden oder trinkenden Tieren besucht wird.",
+                  "category": "natural",
+                  "coords": [
+                        102.403961,
+                        4.386869
+                  ]
+            },
+            {
+                  "name": "Beach",
+                  "text": "Ein sandiger Flussuferbereich entlang des Tembeling-Flusses in Taman Negara, der einen natürlichen Ort der Entspannung in der Nähe der Dschungelgewässer bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        102.401648,
+                        4.384207
+                  ]
+            },
+            {
+                  "name": "Titian Silara",
+                  "text": "Der Zugangspunkt zu einem der längsten Seil-Baumkronenpfade der Welt, der hoch in den hoch aufragenden Bäumen von Taman Negara gespannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        102.409554,
+                        4.393289
+                  ]
+            },
+            {
+                  "name": "Bukit Teresek",
+                  "text": "Ein beliebter Aussichtspunkt auf einem Hügel, der über einen steilen Dschungelpfad zu erreichen ist und Wanderer mit einem Panoramablick über das grüne Blätterdach des Nationalparks belohnt.",
+                  "category": "natural",
+                  "coords": [
+                        102.407919,
+                        4.399931
+                  ]
+            },
+            {
+                  "name": "Bumbun Tabing",
+                  "text": "Ein Waldversteck in der Nähe des Flussufers in Taman Negara, das einen strategischen Ort für ruhige Tierfotografie und Beobachtung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        102.403801,
+                        4.408772
+                  ]
+            },
+            {
+                  "name": "Bukit Indah",
+                  "text": "Ein erhöhter Aussichtspunkt, der einen weiten Blick über die dichte Regenwaldlandschaft von Taman Negara bietet.",
+                  "category": "natural",
+                  "coords": [
+                        102.42297,
+                        4.398123
+                  ]
+            },
+            {
+                  "name": "Pasir Tempan",
+                  "text": "Ein Strandabschnitt am Flussufer vor der Kulisse des Regenwaldes von Taman Negara.",
+                  "category": "recreational",
+                  "coords": [
+                        102.463754,
+                        4.4455
+                  ]
+            },
+            {
+                  "name": "Masjid Kuala Tahan",
+                  "text": "Die wichtigste islamische Moschee im Dorf Kuala Tahan, die Einheimischen und Führern in der Nähe des Eingangs zum Nationalpark dient.",
+                  "category": "landmark",
+                  "coords": [
+                        102.40404,
+                        4.383031
+                  ]
+            },
+            {
+                  "name": "Masjid Tun Sina Puteh",
+                  "text": "Eine islamische Moschee in der Region Taman Negara, die einen Ort für Gemeinschaftsgebete inmitten der umgebenden Natur bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        102.482812,
+                        4.447587
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bumbun Kumbang",
+                  "text": "Egy stratégiailag Taman Negarában elhelyezett vadmegfigyelő búvóhely, ahonnan éjszakai állatokat és madarakat lehet megfigyelni a dzsungel lombkoronájában.",
+                  "category": "natural",
+                  "coords": [
+                        102.436857,
+                        4.447027
+                  ]
+            },
+            {
+                  "name": "Bukit Guling Gendang",
+                  "text": "Egy erdős domb a Taman Negara vadonjában, amely az ősi dzsungeltáj fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        102.3433,
+                        4.3819
+                  ]
+            },
+            {
+                  "name": "Bumbun Yong",
+                  "text": "Egy magaslati vadmegfigyelő búvóhely Taman Negarában, ahol a látogatók csendben várhatják a közeli sós nyalót felkereső állatokat.",
+                  "category": "natural",
+                  "coords": [
+                        102.383233,
+                        4.358692
+                  ]
+            },
+            {
+                  "name": "Bumbun Blau",
+                  "text": "Rusztikus kilátóhely és menedék Taman Negara esőerdejének mélyén, amelyet éjszakai tartózkodásra terveztek a dzsungel faunájának megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        102.384514,
+                        4.369192
+                  ]
+            },
+            {
+                  "name": "Bumbun Cegar Anjing",
+                  "text": "Dzsungel búvóhely Taman Negarában, amely kiváló kilátást nyújt az erdő talajára a rejtőzködő helyi vadvilág megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        102.399949,
+                        4.406884
+                  ]
+            },
+            {
+                  "name": "Taman Negara Pahang Kuala Tahan",
+                  "text": "A Taman Negara Nemzeti Park hatalmas, ősi esőerdeinek felfedezésének elsődleges belépési pontja és központja.",
+                  "category": "landmark",
+                  "coords": [
+                        102.400246,
+                        4.385314
+                  ]
+            },
+            {
+                  "name": "Orang Asli Village",
+                  "text": "Hagyományos település Taman Negarában, ahol a látogatók megismerhetik a bennszülött vadászó-gyűjtögető életmódot és a fúvócsöves vadászatot.",
+                  "category": "landmark",
+                  "coords": [
+                        102.417286,
+                        4.390448
+                  ]
+            },
+            {
+                  "name": "Canopy walkway start",
+                  "text": "A Taman Negarában lévő függőhíd-rendszer kezdete, amely lehetővé teszi a látogatók számára, hogy az ősi esőerdő lombkoronájában sétáljanak.",
+                  "category": "landmark",
+                  "coords": [
+                        102.407981,
+                        4.390646
+                  ]
+            },
+            {
+                  "name": "Bumbun Tahan",
+                  "text": "Egy kiemelkedő vadmegfigyelő platform Taman Negarában, amely egy olyan tisztásra néz, amelyet gyakran látogatnak legelésző vagy ivó állatok.",
+                  "category": "natural",
+                  "coords": [
+                        102.403961,
+                        4.386869
+                  ]
+            },
+            {
+                  "name": "Beach",
+                  "text": "Homokos folyóparti terület a Tembeling folyó mentén Taman Negarában, amely természetes kikapcsolódási helyet kínál a dzsungel vizei közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        102.401648,
+                        4.384207
+                  ]
+            },
+            {
+                  "name": "Titian Silara",
+                  "text": "Hozzáférési pont a világ egyik leghosszabb kötél lombkoronasétányához, amely a Taman Negara tornyosuló fáira van kifeszítve.",
+                  "category": "landmark",
+                  "coords": [
+                        102.409554,
+                        4.393289
+                  ]
+            },
+            {
+                  "name": "Bukit Teresek",
+                  "text": "Egy meredek dzsungelösvényen megközelíthető népszerű hegyi kilátó, amely panorámás kilátással jutalmazza a túrázókat a nemzeti park zöld lombkoronájára.",
+                  "category": "natural",
+                  "coords": [
+                        102.407919,
+                        4.399931
+                  ]
+            },
+            {
+                  "name": "Bumbun Tabing",
+                  "text": "Erdei búvóhely a folyópart közelében Taman Negarában, amely stratégiai helyszínt kínál a csendes vadvilág fotózásához és megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        102.403801,
+                        4.408772
+                  ]
+            },
+            {
+                  "name": "Bukit Indah",
+                  "text": "Magasan fekvő kilátóhely, amely lenyűgöző kilátást nyújt Taman Negara sűrű esőerdei tájára.",
+                  "category": "natural",
+                  "coords": [
+                        102.42297,
+                        4.398123
+                  ]
+            },
+            {
+                  "name": "Pasir Tempan",
+                  "text": "Folyóparti strandterület Taman Negara esőerdejének hátterével.",
+                  "category": "recreational",
+                  "coords": [
+                        102.463754,
+                        4.4455
+                  ]
+            },
+            {
+                  "name": "Masjid Kuala Tahan",
+                  "text": "Kuala Tahan falu elsődleges iszlám mecsete, amely a helyieket és az idegenvezetőket szolgálja ki a nemzeti park bejárata közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        102.40404,
+                        4.383031
+                  ]
+            },
+            {
+                  "name": "Masjid Tun Sina Puteh",
+                  "text": "Iszlám mecset a Taman Negara régióban, amely helyet biztosít a gyülekezeti imákhoz a környező természet ölelésében.",
+                  "category": "landmark",
+                  "coords": [
+                        102.482812,
+                        4.447587
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bumbun Kumbang",
+                  "text": "O ascunzătoare pentru observarea faunei sălbatice plasată strategic în Taman Negara pentru observarea animalelor nocturne și a păsărilor în coronamentul junglei.",
+                  "category": "natural",
+                  "coords": [
+                        102.436857,
+                        4.447027
+                  ]
+            },
+            {
+                  "name": "Bukit Guling Gendang",
+                  "text": "Un deal împădurit în sălbăticia din Taman Negara, înălțându-se deasupra peisajului străvechi al junglei.",
+                  "category": "natural",
+                  "coords": [
+                        102.3433,
+                        4.3819
+                  ]
+            },
+            {
+                  "name": "Bumbun Yong",
+                  "text": "O ascunzătoare înaltă pentru fauna sălbatică din Taman Negara, unde vizitatorii pot aștepta în tăcere pentru a observa animalele care vizitează sursa de sare din apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        102.383233,
+                        4.358692
+                  ]
+            },
+            {
+                  "name": "Bumbun Blau",
+                  "text": "Un adăpost cu punct de belvedere rustic adânc în pădurea tropicală din Taman Negara, conceput pentru șederi peste noapte pentru a monitoriza fauna junglei.",
+                  "category": "natural",
+                  "coords": [
+                        102.384514,
+                        4.369192
+                  ]
+            },
+            {
+                  "name": "Bumbun Cegar Anjing",
+                  "text": "O ascunzătoare în junglă din Taman Negara, oferind un punct de observație asupra solului pădurii pentru a urmări fauna sălbatică locală evazivă.",
+                  "category": "natural",
+                  "coords": [
+                        102.399949,
+                        4.406884
+                  ]
+            },
+            {
+                  "name": "Taman Negara Pahang Kuala Tahan",
+                  "text": "Principalul punct de intrare și sediu pentru explorarea pădurilor tropicale vaste și străvechi ale Parcului Național Taman Negara.",
+                  "category": "landmark",
+                  "coords": [
+                        102.400246,
+                        4.385314
+                  ]
+            },
+            {
+                  "name": "Orang Asli Village",
+                  "text": "O așezare tradițională din Taman Negara, unde vizitatorii pot învăța despre stilul de viață al vânătorilor-culegători indigeni și vânătoarea cu cerbacana.",
+                  "category": "landmark",
+                  "coords": [
+                        102.417286,
+                        4.390448
+                  ]
+            },
+            {
+                  "name": "Canopy walkway start",
+                  "text": "Începutul sistemului de poduri suspendate din Taman Negara, care permite vizitatorilor să se plimbe prin vârfurile copacilor din vechea pădure tropicală.",
+                  "category": "landmark",
+                  "coords": [
+                        102.407981,
+                        4.390646
+                  ]
+            },
+            {
+                  "name": "Bumbun Tahan",
+                  "text": "O platformă importantă de observare a faunei sălbatice din Taman Negara, cu vedere la un luminiș vizitat adesea de animale care pasc sau beau.",
+                  "category": "natural",
+                  "coords": [
+                        102.403961,
+                        4.386869
+                  ]
+            },
+            {
+                  "name": "Beach",
+                  "text": "O zonă nisipoasă pe malul râului Tembeling în Taman Negara, oferind un loc natural de relaxare lângă apele junglei.",
+                  "category": "landmark",
+                  "coords": [
+                        102.401648,
+                        4.384207
+                  ]
+            },
+            {
+                  "name": "Titian Silara",
+                  "text": "Punctul de acces către una dintre cele mai lungi pasarele suspendate pe frânghii din lume, înălțată în copacii falnici din Taman Negara.",
+                  "category": "landmark",
+                  "coords": [
+                        102.409554,
+                        4.393289
+                  ]
+            },
+            {
+                  "name": "Bukit Teresek",
+                  "text": "Un punct de belvedere popular pe un deal, accesat printr-un traseu abrupt prin junglă, recompensând drumeții cu vederi panoramice peste coronamentul verde al parcului național.",
+                  "category": "natural",
+                  "coords": [
+                        102.407919,
+                        4.399931
+                  ]
+            },
+            {
+                  "name": "Bumbun Tabing",
+                  "text": "O ascunzătoare în pădure lângă malul râului în Taman Negara, oferind un loc strategic pentru fotografia și observarea liniștită a faunei sălbatice.",
+                  "category": "natural",
+                  "coords": [
+                        102.403801,
+                        4.408772
+                  ]
+            },
+            {
+                  "name": "Bukit Indah",
+                  "text": "Un punct de belvedere ridicat care oferă vederi panoramice peste peisajul dens al pădurii tropicale din Taman Negara.",
+                  "category": "natural",
+                  "coords": [
+                        102.42297,
+                        4.398123
+                  ]
+            },
+            {
+                  "name": "Pasir Tempan",
+                  "text": "O zonă de plajă pe malul râului, cu pădurea tropicală din Taman Negara pe fundal.",
+                  "category": "recreational",
+                  "coords": [
+                        102.463754,
+                        4.4455
+                  ]
+            },
+            {
+                  "name": "Masjid Kuala Tahan",
+                  "text": "Principala moschee islamică din satul Kuala Tahan, deservind localnicii și ghizii de lângă intrarea în parcul național.",
+                  "category": "landmark",
+                  "coords": [
+                        102.40404,
+                        4.383031
+                  ]
+            },
+            {
+                  "name": "Masjid Tun Sina Puteh",
+                  "text": "O moschee islamică în regiunea Taman Negara, oferind un loc pentru rugăciunile congregaționale în mijlocul naturii înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        102.482812,
+                        4.447587
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kumbang Hide",
+                  "text": "A wildlife observation hide strategically placed in Taman Negara for spotting nocturnal animals and birds in the jungle canopy.",
+                  "category": "natural",
+                  "coords": [
+                        102.436857,
+                        4.447027
+                  ]
+            },
+            {
+                  "name": "Guling Gendang Hill",
+                  "text": "A forested hill within the Taman Negara wilderness, rising above the ancient jungle landscape.",
+                  "category": "natural",
+                  "coords": [
+                        102.3433,
+                        4.3819
+                  ]
+            },
+            {
+                  "name": "Yong Hide",
+                  "text": "An elevated wildlife hide in Taman Negara where visitors can wait silently to observe animals visiting the nearby salt lick.",
+                  "category": "natural",
+                  "coords": [
+                        102.383233,
+                        4.358692
+                  ]
+            },
+            {
+                  "name": "Blau Hide",
+                  "text": "A rustic viewpoint shelter deep within the Taman Negara rainforest, designed for overnight stays to monitor jungle fauna.",
+                  "category": "natural",
+                  "coords": [
+                        102.384514,
+                        4.369192
+                  ]
+            },
+            {
+                  "name": "Cegar Anjing Hide",
+                  "text": "A jungle hideout in Taman Negara providing a vantage point over the forest floor to watch for elusive local wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        102.399949,
+                        4.406884
+                  ]
+            },
+            {
+                  "name": "Taman Negara Pahang Kuala Tahan",
+                  "text": "The primary entry point and headquarters for exploring the vast, ancient rainforests of Taman Negara National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        102.400246,
+                        4.385314
+                  ]
+            },
+            {
+                  "name": "Orang Asli Village",
+                  "text": "A traditional settlement in Taman Negara where visitors can learn about the indigenous hunter-gatherer lifestyle and blowpipe hunting.",
+                  "category": "landmark",
+                  "coords": [
+                        102.417286,
+                        4.390448
+                  ]
+            },
+            {
+                  "name": "Canopy walkway start",
+                  "text": "The beginning of the suspended bridge system in Taman Negara that allows visitors to walk through the treetops of the ancient rainforest.",
+                  "category": "landmark",
+                  "coords": [
+                        102.407981,
+                        4.390646
+                  ]
+            },
+            {
+                  "name": "Tahan Hide",
+                  "text": "A prominent wildlife viewing platform in Taman Negara, overlooking a clearing often visited by animals grazing or drinking.",
+                  "category": "natural",
+                  "coords": [
+                        102.403961,
+                        4.386869
+                  ]
+            },
+            {
+                  "name": "Beach",
+                  "text": "A sandy riverbank area along the Tembeling River in Taman Negara, providing a natural spot for relaxation near the jungle waters.",
+                  "category": "landmark",
+                  "coords": [
+                        102.401648,
+                        4.384207
+                  ]
+            },
+            {
+                  "name": "Start Canopy Walkway",
+                  "text": "The access point to one of the world's longest rope canopy walkways, strung high up in the towering trees of Taman Negara.",
+                  "category": "landmark",
+                  "coords": [
+                        102.409554,
+                        4.393289
+                  ]
+            },
+            {
+                  "name": "Bukit Teresek",
+                  "text": "A popular hilltop viewpoint accessed via a steep jungle trail, rewarding hikers with panoramic vistas over the national park's green canopy.",
+                  "category": "natural",
+                  "coords": [
+                        102.407919,
+                        4.399931
+                  ]
+            },
+            {
+                  "name": "Tabing Hide",
+                  "text": "A forest hide near the riverbank in Taman Negara, offering a strategic spot for quiet wildlife photography and observation.",
+                  "category": "natural",
+                  "coords": [
+                        102.403801,
+                        4.408772
+                  ]
+            },
+            {
+                  "name": "Bukit Indah",
+                  "text": "An elevated viewpoint providing sweeping views across the dense rainforest landscape of Taman Negara.",
+                  "category": "natural",
+                  "coords": [
+                        102.42297,
+                        4.398123
+                  ]
+            },
+            {
+                  "name": "Pasir Tempan",
+                  "text": "A riverside beach area set against the backdrop of the Taman Negara rainforest.",
+                  "category": "recreational",
+                  "coords": [
+                        102.463754,
+                        4.4455
+                  ]
+            },
+            {
+                  "name": "Masjid Kuala Tahan",
+                  "text": "The primary Islamic mosque in the village of Kuala Tahan, serving locals and guides near the national park entrance.",
+                  "category": "landmark",
+                  "coords": [
+                        102.40404,
+                        4.383031
+                  ]
+            },
+            {
+                  "name": "Masjid Tun Sina Puteh",
+                  "text": "An Islamic mosque in the Taman Negara region providing a place for congregational prayers amidst the surrounding nature.",
+                  "category": "landmark",
+                  "coords": [
+                        102.482812,
+                        4.447587
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "MY-06",
     coords: [102.4167, 4.4167],
@@ -99,7 +720,268 @@ export const poiExtraMalaysiaNatureV2: POI[] = [
     }
   },
   {
-    id: "lake-kenyir-nature-v2",
+    id: "lake-kenyir-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Air terjun berua",
+                  "text": "Ein natürlicher Wasserfall in der malerischen Umgebung des Kenyir-Sees, der von üppigem Dschungel umgeben ist.",
+                  "category": "landmark",
+                  "coords": [
+                        102.678647,
+                        4.951493
+                  ]
+            },
+            {
+                  "name": "Berua",
+                  "text": "Dieses naturbelassene Ausflugsziel am Kenyir-Sees bietet Besuchern einen authentischen Einblick in den tropischen Regenwald.",
+                  "category": "landmark",
+                  "coords": [
+                        102.661655,
+                        4.994158
+                  ]
+            },
+            {
+                  "name": "Leban khebat",
+                  "text": "Eine faszinierende Naturattraktion, die sich harmonisch in die Uferlandschaft des weitläufigen Kenyir-Sees einfügt.",
+                  "category": "landmark",
+                  "coords": [
+                        102.704995,
+                        5.045223
+                  ]
+            },
+            {
+                  "name": "Jeti pulau bayas",
+                  "text": "Dieser Holzsteg dient als wichtiger Bootsanleger für Besucher der Insel Pulau Bayas im Kenyir-See.",
+                  "category": "landmark",
+                  "coords": [
+                        102.786523,
+                        5.036255
+                  ]
+            },
+            {
+                  "name": "Malong",
+                  "text": "Ein malerischer Naturpunkt in der weitläufigen Region des Kenyir-Sees, ideal für Dschungelerkundungen.",
+                  "category": "landmark",
+                  "coords": [
+                        102.755064,
+                        4.994531
+                  ]
+            },
+            {
+                  "name": "Rumah merah",
+                  "text": "Diese auffällige rote Struktur ist ein markantes Wahrzeichen inmitten der grünen Landschaft am Kenyir-See.",
+                  "category": "landmark",
+                  "coords": [
+                        102.733521,
+                        4.986771
+                  ]
+            },
+            {
+                  "name": "Rumah hijau",
+                  "text": "Eine grün gestrichene Anlage, die sich fast unsichtbar in die tropische Vegetation des Kenyir-Sees einfügt.",
+                  "category": "landmark",
+                  "coords": [
+                        102.745273,
+                        4.972954
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Air terjun berua",
+                  "text": "Egy természetes vízesés a Kenyir-tó festői környezetében, amelyet buja dzsungel vesz körül.",
+                  "category": "landmark",
+                  "coords": [
+                        102.678647,
+                        4.951493
+                  ]
+            },
+            {
+                  "name": "Berua",
+                  "text": "Ez a természetes kirándulóhely a Kenyir-tónál autentikus bepillantást enged a trópusi esőerdőbe.",
+                  "category": "landmark",
+                  "coords": [
+                        102.661655,
+                        4.994158
+                  ]
+            },
+            {
+                  "name": "Leban khebat",
+                  "text": "Lenyűgöző természeti látványosság, amely harmonikusan illeszkedik a hatalmas Kenyir-tó parti tájába.",
+                  "category": "landmark",
+                  "coords": [
+                        102.704995,
+                        5.045223
+                  ]
+            },
+            {
+                  "name": "Jeti pulau bayas",
+                  "text": "Ez a móló fontos csónakkikötőként szolgál a Kenyir-tavon található Pulau Bayas szigetre látogatók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        102.786523,
+                        5.036255
+                  ]
+            },
+            {
+                  "name": "Malong",
+                  "text": "Festői természeti pont a Kenyir-tó kiterjedt régiójában, ideális a dzsungel felfedezéséhez.",
+                  "category": "landmark",
+                  "coords": [
+                        102.755064,
+                        4.994531
+                  ]
+            },
+            {
+                  "name": "Rumah merah",
+                  "text": "Ez a feltűnő piros szerkezet egy jellegzetes tájékozódási pont a Kenyir-tó zöldellő tájában.",
+                  "category": "landmark",
+                  "coords": [
+                        102.733521,
+                        4.986771
+                  ]
+            },
+            {
+                  "name": "Rumah hijau",
+                  "text": "Zöldre festett létesítmény, amely szinte láthatatlanul beleolvad a Kenyir-tó trópusi növényzetébe.",
+                  "category": "landmark",
+                  "coords": [
+                        102.745273,
+                        4.972954
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Air terjun berua",
+                  "text": "O cascadă naturală în împrejurimile pitorești ale lacului Kenyir, înconjurată de o junglă luxuriantă.",
+                  "category": "landmark",
+                  "coords": [
+                        102.678647,
+                        4.951493
+                  ]
+            },
+            {
+                  "name": "Berua",
+                  "text": "Această destinație naturală de pe lacul Kenyir oferă vizitatorilor o privire autentică asupra pădurii tropicale.",
+                  "category": "landmark",
+                  "coords": [
+                        102.661655,
+                        4.994158
+                  ]
+            },
+            {
+                  "name": "Leban khebat",
+                  "text": "O atracție naturală fascinantă care se integrează armonios în peisajul de coastă al întinsului lac Kenyir.",
+                  "category": "landmark",
+                  "coords": [
+                        102.704995,
+                        5.045223
+                  ]
+            },
+            {
+                  "name": "Jeti pulau bayas",
+                  "text": "Acest debarcader servește ca o importantă stație de bărci pentru vizitatorii insulei Pulau Bayas de pe lacul Kenyir.",
+                  "category": "landmark",
+                  "coords": [
+                        102.786523,
+                        5.036255
+                  ]
+            },
+            {
+                  "name": "Malong",
+                  "text": "Un punct natural pitoresc în regiunea extinsă a lacului Kenyir, ideal pentru explorări în junglă.",
+                  "category": "landmark",
+                  "coords": [
+                        102.755064,
+                        4.994531
+                  ]
+            },
+            {
+                  "name": "Rumah merah",
+                  "text": "Această structură roșie izbitoare este un punct de reper distinctiv în peisajul verde de pe lacul Kenyir.",
+                  "category": "landmark",
+                  "coords": [
+                        102.733521,
+                        4.986771
+                  ]
+            },
+            {
+                  "name": "Rumah hijau",
+                  "text": "O facilitate vopsită în verde care se integrează aproape invizibil în vegetația tropicală a lacului Kenyir.",
+                  "category": "landmark",
+                  "coords": [
+                        102.745273,
+                        4.972954
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Air terjun berua",
+                  "text": "A natural waterfall in the scenic surroundings of Lake Kenyir, enveloped by lush jungle.",
+                  "category": "landmark",
+                  "coords": [
+                        102.678647,
+                        4.951493
+                  ]
+            },
+            {
+                  "name": "Berua",
+                  "text": "This natural attraction at Lake Kenyir offers visitors an authentic glimpse into the tropical rainforest.",
+                  "category": "landmark",
+                  "coords": [
+                        102.661655,
+                        4.994158
+                  ]
+            },
+            {
+                  "name": "Leban khebat",
+                  "text": "A fascinating natural attraction that blends harmoniously into the shoreline landscape of the vast Lake Kenyir.",
+                  "category": "landmark",
+                  "coords": [
+                        102.704995,
+                        5.045223
+                  ]
+            },
+            {
+                  "name": "Jeti pulau bayas",
+                  "text": "This jetty serves as an important boat landing for visitors to Pulau Bayas island in Lake Kenyir.",
+                  "category": "landmark",
+                  "coords": [
+                        102.786523,
+                        5.036255
+                  ]
+            },
+            {
+                  "name": "Malong",
+                  "text": "A scenic nature spot in the expansive Lake Kenyir region, ideal for jungle explorations.",
+                  "category": "landmark",
+                  "coords": [
+                        102.755064,
+                        4.994531
+                  ]
+            },
+            {
+                  "name": "Rumah merah",
+                  "text": "This striking red structure is a distinctive landmark amidst the green landscape of Lake Kenyir.",
+                  "category": "landmark",
+                  "coords": [
+                        102.733521,
+                        4.986771
+                  ]
+            },
+            {
+                  "name": "Rumah hijau",
+                  "text": "A green-painted facility that blends almost invisibly into the tropical vegetation of Lake Kenyir.",
+                  "category": "landmark",
+                  "coords": [
+                        102.745273,
+                        4.972954
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "MY-11",
     coords: [102.75, 4.9833],
@@ -147,7 +1029,1060 @@ export const poiExtraMalaysiaNatureV2: POI[] = [
     },
   },
   {
-    id: "beras-basah-island-nature-v2",
+    id: "beras-basah-island-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ancient tomb Makam Purba",
+                  "text": "Eine historische Attraktion mit einer jahrhundertealten Grabstätte, die ruhig auf der Insel liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        99.766617,
+                        6.348771
+                  ]
+            },
+            {
+                  "name": "Sonnenuntergang",
+                  "text": "Ein Aussichtspunkt an der Küste, der perfekt positioniert ist, um zu beobachten, wie die leuchtende Sonne hinter dem Ozeanhorizont versinkt.",
+                  "category": "natural",
+                  "coords": [
+                        99.722109,
+                        6.323554
+                  ]
+            },
+            {
+                  "name": "Resorts World Langkawi",
+                  "text": "Resorts World Langkawi ist ein weitläufiges Strandresort mit Blick auf die Küste nahe der Naturreservate von Beras Basah.",
+                  "category": "recreational",
+                  "coords": [
+                        99.736507,
+                        6.260679
+                  ]
+            },
+            {
+                  "name": "Geopark Ocean Drive",
+                  "text": "Der Geopark Ocean Drive ist eine malerische Küstenroute mit weitem Blick über die Gewässer rund um die Insel Beras Basah.",
+                  "category": "landmark",
+                  "coords": [
+                        99.745697,
+                        6.27134
+                  ]
+            },
+            {
+                  "name": "Bukit Temoyong",
+                  "text": "Der Temoyong Hill ist ein markanter natürlicher Gipfel, der steil in der tropischen Landschaft nahe Beras Basah aufragt.",
+                  "category": "natural",
+                  "coords": [
+                        99.741448,
+                        6.276759
+                  ]
+            },
+            {
+                  "name": "Tree and shadow",
+                  "text": "Tree and shadow ist eine natürliche Freiluftattraktion, die für ihr dichtes Blätterdach und die schattige tropische Umgebung bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        99.730413,
+                        6.277745
+                  ]
+            },
+            {
+                  "name": "Nest Rooftop",
+                  "text": "Das Nest Rooftop ist ein erhöhter Aussichtspunkt mit Panoramablick über die umliegende Naturlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        99.726174,
+                        6.292652
+                  ]
+            },
+            {
+                  "name": "Laman Padi Langkawi",
+                  "text": "Der Rice Garden ist ein landwirtschaftliches Museum, das traditionelle Reisanbaupraktiken in einer Freiluftumgebung zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        99.722387,
+                        6.298583
+                  ]
+            },
+            {
+                  "name": "Airplane",
+                  "text": "Das Airplane ist eine einzigartige Aussichtsplattform, die rund um eine umgebaute Flugzeugstruktur errichtet wurde.",
+                  "category": "natural",
+                  "coords": [
+                        99.717792,
+                        6.314184
+                  ]
+            },
+            {
+                  "name": "Bukit Penangi",
+                  "text": "Der Penangi Hill ist ein markanter natürlicher Gipfel, der sich über die üppige Küste von Langkawi erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        99.746533,
+                        6.285195
+                  ]
+            },
+            {
+                  "name": "Bukit Tanjung Sembilan",
+                  "text": "Der Sembilan Cape Hill ist ein schroffer Kap-Gipfel, der dramatisch das umliegende Meer überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        99.752455,
+                        6.283446
+                  ]
+            },
+            {
+                  "name": "Schwangere Frau Hügel",
+                  "text": "Der Schwangere Frau Hügel ist eine bekannte Bergformation, deren Umrisse einer auf dem Rücken liegenden schwangeren Frau ähneln.",
+                  "category": "landmark",
+                  "coords": [
+                        99.773296,
+                        6.208494
+                  ]
+            },
+            {
+                  "name": "Eagle Feeding Area",
+                  "text": "Die Eagle Feeding Area ist ein ausgewiesener Platz am Wasser, an dem Besucher einheimische Raubvögel beim Fischen beobachten können.",
+                  "category": "landmark",
+                  "coords": [
+                        99.734887,
+                        6.225172
+                  ]
+            },
+            {
+                  "name": "Pasar malam Isnin",
+                  "text": "Der Night market on Mondays ist ein belebter wöchentlicher Straßenbasar mit lokalen Essensständen und beleuchteten Verkaufszelten.",
+                  "category": "landmark",
+                  "coords": [
+                        99.766907,
+                        6.349837
+                  ]
+            },
+            {
+                  "name": "The Red Beach",
+                  "text": "The Red Beach ist ein markanter Küstenabschnitt, der nach dem einzigartig gefärbten Sand entlang seiner Uferlinie benannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        99.694045,
+                        6.300562
+                  ]
+            },
+            {
+                  "name": "Private Hotel Beach",
+                  "text": "Der Private Hotel Beach ist ein exklusiver, gepflegter Sandstrand, der streng für Resortgäste reserviert ist.",
+                  "category": "recreational",
+                  "coords": [
+                        99.701096,
+                        6.293874
+                  ]
+            },
+            {
+                  "name": "Pantai Tengah",
+                  "text": "Tengah Island bietet einen abgelegenen Sandstrand, der von den klaren tropischen Gewässern des Archipels umgeben ist.",
+                  "category": "recreational",
+                  "coords": [
+                        99.731179,
+                        6.27317
+                  ]
+            },
+            {
+                  "name": "Tengah Beach",
+                  "text": "Tengah Beach ist ein langer weißer Sandstrand, der für seine ruhigen Wellen und seine entspannte Küstenatmosphäre bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        99.729334,
+                        6.282032
+                  ]
+            },
+            {
+                  "name": "Underwater World",
+                  "text": "Die Underwater World ist ein großes Indoor-Meeresaquarium mit einem begehbaren Glastunnel zur Beobachtung von Haien und Rochen.",
+                  "category": "recreational",
+                  "coords": [
+                        99.728597,
+                        6.287828
+                  ]
+            },
+            {
+                  "name": "Pantai Cenang",
+                  "text": "Cenang Beach ist ein beliebter, belebter weißer Sandstrand, der für seine lebhaften Wassersportarten und pulsierenden Strandcafés bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        99.722647,
+                        6.295602
+                  ]
+            },
+            {
+                  "name": "Helioutpost Langkawi",
+                  "text": "Der Helioutpost Langkawi ist eine Luftfahrtbasis, die malerische Hubschrauberrundflüge über das üppige Inselgelände anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        99.725409,
+                        6.313189
+                  ]
+            },
+            {
+                  "name": "Surau Ar-Rahman",
+                  "text": "Die Surau Ar-Rahman ist ein bescheidener islamischer Gebetsraum im Viertel, der der lokalen muslimischen Gemeinde einen ruhigen spirituellen Raum bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        99.745676,
+                        6.320432
+                  ]
+            },
+            {
+                  "name": "Masjid Ar-Rahman",
+                  "text": "Die Ar-Rahman-Moschee ist ein wunderschön strukturiertes Versammlungszentrum für die lokale islamische Gemeinde, das leicht an seinem Minarett zu erkennen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        99.736472,
+                        6.319216
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Diese lokale Moschee dient als wichtiger islamischer Versammlungsort und verfügt über einen geräumigen Saal für die täglichen Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        99.723586,
+                        6.330612
+                  ]
+            },
+            {
+                  "name": "Masjid Al Ihsan Temoyong",
+                  "text": "Die Al Ihsan Temoyong Moschee ist ein islamischer Gemeinschaftsgottesdienstraum, der tief in das tägliche Leben des lokalen Dorfes integriert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        99.737477,
+                        6.298691
+                  ]
+            },
+            {
+                  "name": "Chenang Bazaar",
+                  "text": "Der Chenang Bazaar ist eine belebte Einkaufsmeile nahe dem Wasser, wo Händler alles von lokalem Kunsthandwerk bis hin zu Strandkleidung verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        99.727608,
+                        6.291405
+                  ]
+            },
+            {
+                  "name": "Night market (Tuesday)",
+                  "text": "Dieser Dienstags-Nachtmarkt ist ein lebendiger Open-Air-Treffpunkt, an dem Einheimische Zelte aufschlagen, um traditionelles Streetfood zu kochen.",
+                  "category": "cultural",
+                  "coords": [
+                        99.73705,
+                        6.329675
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Khamis",
+                  "text": "Der Donnerstags-Nachtmarkt verwandelt die Straße in eine geschäftige Promenade voller brutzelnder Woks und Ständen mit lokalen Produkten.",
+                  "category": "cultural",
+                  "coords": [
+                        99.727527,
+                        6.299137
+                  ]
+            },
+            {
+                  "name": "Yuan Spa",
+                  "text": "Das Yuan Spa ist ein ruhiger Wellness-Rückzugsort, der traditionelle Massagebehandlungen in einer beruhigenden, aromatherapeutischen Umgebung anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        99.733997,
+                        6.274705
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ancient tomb Makam Purba",
+                  "text": "Történelmi látványosság, amely egy ősrégi, csendesen megbúvó sírhelyet mutat be a szigeten.",
+                  "category": "landmark",
+                  "coords": [
+                        99.766617,
+                        6.348771
+                  ]
+            },
+            {
+                  "name": "Sunset",
+                  "text": "Tengerparti kilátópont, amely tökéletes helyzetben van ahhoz, hogy figyeljük az óceán horizontja alá bukó ragyogó napot.",
+                  "category": "natural",
+                  "coords": [
+                        99.722109,
+                        6.323554
+                  ]
+            },
+            {
+                  "name": "Resorts World Langkawi",
+                  "text": "A Resorts World Langkawi egy tengerparti üdülőközpont, amely a partvidékre néz Beras Basah természetvédelmi területei közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        99.736507,
+                        6.260679
+                  ]
+            },
+            {
+                  "name": "Geopark Ocean Drive",
+                  "text": "A Geopark Ocean Drive egy festői tengerparti útvonal, amely széles kilátást nyújt a Beras Basah szigetet körülvevő vizekre.",
+                  "category": "landmark",
+                  "coords": [
+                        99.745697,
+                        6.27134
+                  ]
+            },
+            {
+                  "name": "Bukit Temoyong",
+                  "text": "A Temoyong-hegy egy kiemelkedő természeti csúcs, amely meredeken emelkedik ki a Beras Basah melletti trópusi tájból.",
+                  "category": "natural",
+                  "coords": [
+                        99.741448,
+                        6.276759
+                  ]
+            },
+            {
+                  "name": "Tree and shadow",
+                  "text": "A Tree and shadow egy szabadtéri természeti látványosság, amely sűrű lombkoronájáról és árnyékos trópusi környezetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        99.730413,
+                        6.277745
+                  ]
+            },
+            {
+                  "name": "Nest Rooftop",
+                  "text": "A Nest Rooftop egy magaslati kilátó, amely panorámás kilátást nyújt a környező természeti tájra.",
+                  "category": "natural",
+                  "coords": [
+                        99.726174,
+                        6.292652
+                  ]
+            },
+            {
+                  "name": "Laman Padi Langkawi",
+                  "text": "A Rice Garden egy mezőgazdasági múzeum, amely a hagyományos rizstermesztési gyakorlatokat mutatja be szabadtéri környezetben.",
+                  "category": "museum",
+                  "coords": [
+                        99.722387,
+                        6.298583
+                  ]
+            },
+            {
+                  "name": "Airplane",
+                  "text": "Az Airplane egy egyedülálló kilátópont, amelynek központjában egy újrahasznosított repülőgépszerkezet áll.",
+                  "category": "natural",
+                  "coords": [
+                        99.717792,
+                        6.314184
+                  ]
+            },
+            {
+                  "name": "Bukit Penangi",
+                  "text": "A Penangi-hegy egy kiemelkedő természeti csúcs, amely magaslati terepet kínál Langkawi buja tengerpartja felett.",
+                  "category": "natural",
+                  "coords": [
+                        99.746533,
+                        6.285195
+                  ]
+            },
+            {
+                  "name": "Bukit Tanjung Sembilan",
+                  "text": "A Sembilan Cape Hill egy zord hegyfok, amely drámaian magasodik a környező tenger fölé.",
+                  "category": "natural",
+                  "coords": [
+                        99.752455,
+                        6.283446
+                  ]
+            },
+            {
+                  "name": "Schwangere Frau Hügel",
+                  "text": "A Schwangere Frau Hügel egy híres hegyvonulat, amelynek körvonala egy hanyatt fekvő terhes nőre hasonlít.",
+                  "category": "landmark",
+                  "coords": [
+                        99.773296,
+                        6.208494
+                  ]
+            },
+            {
+                  "name": "Eagle Feeding Area",
+                  "text": "Az Eagle Feeding Area egy kijelölt vízparti hely, ahol a látogatók megfigyelhetik az élelemért lecsapó helyi ragadozó madarakat.",
+                  "category": "landmark",
+                  "coords": [
+                        99.734887,
+                        6.225172
+                  ]
+            },
+            {
+                  "name": "Pasar malam Isnin",
+                  "text": "A Night market on Mondays egy nyüzsgő heti utcai bazár, amely tele van helyi ételeket kínáló standokkal és kivilágított árusító sátrakkal.",
+                  "category": "landmark",
+                  "coords": [
+                        99.766907,
+                        6.349837
+                  ]
+            },
+            {
+                  "name": "The Red Beach",
+                  "text": "A The Red Beach egy lenyűgöző partszakasz, amely a partvonala mentén található egyedi színű homokról kapta a nevét.",
+                  "category": "recreational",
+                  "coords": [
+                        99.694045,
+                        6.300562
+                  ]
+            },
+            {
+                  "name": "Private Hotel Beach",
+                  "text": "A Private Hotel Beach egy exkluzív, jól karbantartott homokos partszakasz, amely szigorúan az üdülőhely vendégei számára van fenntartva.",
+                  "category": "recreational",
+                  "coords": [
+                        99.701096,
+                        6.293874
+                  ]
+            },
+            {
+                  "name": "Pantai Tengah",
+                  "text": "A Tengah Island egy eldugott homokos strandot kínál, amelyet a szigetcsoport tiszta trópusi vizei vesznek körül.",
+                  "category": "recreational",
+                  "coords": [
+                        99.731179,
+                        6.27317
+                  ]
+            },
+            {
+                  "name": "Tengah Beach",
+                  "text": "A Tengah Beach egy hosszú, fehér homokos part, amely nyugodt hullámairól és laza tengerparti hangulatáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        99.729334,
+                        6.282032
+                  ]
+            },
+            {
+                  "name": "Underwater World",
+                  "text": "Az Underwater World egy hatalmas beltéri tengeri akvárium, amely egy üvegalagúttal rendelkezik a cápák és ráják megfigyelésére.",
+                  "category": "recreational",
+                  "coords": [
+                        99.728597,
+                        6.287828
+                  ]
+            },
+            {
+                  "name": "Pantai Cenang",
+                  "text": "A Cenang Beach egy népszerű, nyüzsgő fehér homokos part, amely híres az élénk vízi sportokról és a vibráló tengerparti kávézókról.",
+                  "category": "recreational",
+                  "coords": [
+                        99.722647,
+                        6.295602
+                  ]
+            },
+            {
+                  "name": "Helioutpost Langkawi",
+                  "text": "A Helioutpost Langkawi egy repülési létesítmény, amely festői helikopteres repüléseket indít a buja szigeti terep felett.",
+                  "category": "landmark",
+                  "coords": [
+                        99.725409,
+                        6.313189
+                  ]
+            },
+            {
+                  "name": "Surau Ar-Rahman",
+                  "text": "A Surau Ar-Rahman egy szerény, környékbeli iszlám imaterem, amely csendes spirituális teret biztosít a helyi muszlim közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        99.745676,
+                        6.320432
+                  ]
+            },
+            {
+                  "name": "Masjid Ar-Rahman",
+                  "text": "Az Ar-Rahman mecset egy gyönyörű felépítésű gyülekezeti központ a helyi iszlám közösség számára, amely könnyen felismerhető a minaretjéről.",
+                  "category": "landmark",
+                  "coords": [
+                        99.736472,
+                        6.319216
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Ez a helyi mecset alapvető iszlám gyülekezeti helyként szolgál, egy tágas teremmel a napi imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        99.723586,
+                        6.330612
+                  ]
+            },
+            {
+                  "name": "Masjid Al Ihsan Temoyong",
+                  "text": "Az Al Ihsan Temoyong mecset egy közösségi iszlám istentiszteleti hely, amely szorosan beépült a helyi falu mindennapi életébe.",
+                  "category": "landmark",
+                  "coords": [
+                        99.737477,
+                        6.298691
+                  ]
+            },
+            {
+                  "name": "Chenang Bazaar",
+                  "text": "A Chenang Bazaar egy nyüzsgő kiskereskedelmi utca a vízpart közelében, ahol az árusok a helyi kézműves termékektől a strandruházatig mindent árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        99.727608,
+                        6.291405
+                  ]
+            },
+            {
+                  "name": "Night market (Tuesday)",
+                  "text": "Ez a kedd esti piac egy nyüzsgő szabadtéri összejövetel, ahol a helyiek sátrakat vernek, hogy hagyományos utcai ételeket főzzenek.",
+                  "category": "cultural",
+                  "coords": [
+                        99.73705,
+                        6.329675
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Khamis",
+                  "text": "A csütörtöki éjszakai piac forgalmas sétánnyá változtatja az utcát, amely tele van sercegő ételes wokokkal és helyi termékeket kínáló standokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        99.727527,
+                        6.299137
+                  ]
+            },
+            {
+                  "name": "Yuan Spa",
+                  "text": "A Yuan Spa egy nyugodt wellness menedék, amely hagyományos masszázskezeléseket kínál megnyugtató, aromaterápiás környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        99.733997,
+                        6.274705
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ancient tomb Makam Purba",
+                  "text": "O atracție istorică ce prezintă un loc de mormânt secular ascuns liniștit pe insulă.",
+                  "category": "landmark",
+                  "coords": [
+                        99.766617,
+                        6.348771
+                  ]
+            },
+            {
+                  "name": "Sunset",
+                  "text": "Un punct de belvedere de coastă poziționat perfect pentru a privi cum soarele strălucitor coboară sub orizontul oceanului.",
+                  "category": "natural",
+                  "coords": [
+                        99.722109,
+                        6.323554
+                  ]
+            },
+            {
+                  "name": "Resorts World Langkawi",
+                  "text": "Resorts World Langkawi este o stațiune balneară întinsă, cu vedere la coastă, în apropierea rezervațiilor naturale din Beras Basah.",
+                  "category": "recreational",
+                  "coords": [
+                        99.736507,
+                        6.260679
+                  ]
+            },
+            {
+                  "name": "Geopark Ocean Drive",
+                  "text": "Geopark Ocean Drive este un traseu de coastă pitoresc care oferă vederi panoramice asupra apelor ce înconjoară insula Beras Basah.",
+                  "category": "landmark",
+                  "coords": [
+                        99.745697,
+                        6.27134
+                  ]
+            },
+            {
+                  "name": "Bukit Temoyong",
+                  "text": "Dealul Temoyong este un vârf natural proeminent, care se înalță abrupt în peisajul tropical de lângă Beras Basah.",
+                  "category": "natural",
+                  "coords": [
+                        99.741448,
+                        6.276759
+                  ]
+            },
+            {
+                  "name": "Tree and shadow",
+                  "text": "Tree and shadow este o atracție naturală în aer liber, cunoscută pentru coronamentul său dens și decorul tropical umbrit.",
+                  "category": "landmark",
+                  "coords": [
+                        99.730413,
+                        6.277745
+                  ]
+            },
+            {
+                  "name": "Nest Rooftop",
+                  "text": "Nest Rooftop este un punct de belvedere ridicat, oferind priveliști panoramice asupra peisajului natural înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        99.726174,
+                        6.292652
+                  ]
+            },
+            {
+                  "name": "Laman Padi Langkawi",
+                  "text": "Rice Garden este un muzeu agricol care prezintă practicile tradiționale de cultivare a orezului într-un cadru în aer liber.",
+                  "category": "museum",
+                  "coords": [
+                        99.722387,
+                        6.298583
+                  ]
+            },
+            {
+                  "name": "Airplane",
+                  "text": "Airplane este o platformă de belvedere unică, centrată în jurul unei structuri de avion recondiționate.",
+                  "category": "natural",
+                  "coords": [
+                        99.717792,
+                        6.314184
+                  ]
+            },
+            {
+                  "name": "Bukit Penangi",
+                  "text": "Dealul Penangi este un vârf natural proeminent, oferind un teren înalt deasupra coastei luxuriante din Langkawi.",
+                  "category": "natural",
+                  "coords": [
+                        99.746533,
+                        6.285195
+                  ]
+            },
+            {
+                  "name": "Bukit Tanjung Sembilan",
+                  "text": "Sembilan Cape Hill este un vârf stâncos de promontoriu, care domină dramatic marea înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        99.752455,
+                        6.283446
+                  ]
+            },
+            {
+                  "name": "Schwangere Frau Hügel",
+                  "text": "Schwangere Frau Hügel este o formațiune deluroasă celebră a cărei contur seamănă cu o femeie însărcinată întinsă pe spate.",
+                  "category": "landmark",
+                  "coords": [
+                        99.773296,
+                        6.208494
+                  ]
+            },
+            {
+                  "name": "Eagle Feeding Area",
+                  "text": "Eagle Feeding Area este un loc desemnat pe malul apei unde vizitatorii pot urmări păsările de pradă locale plonjând după hrană.",
+                  "category": "landmark",
+                  "coords": [
+                        99.734887,
+                        6.225172
+                  ]
+            },
+            {
+                  "name": "Pasar malam Isnin",
+                  "text": "Night market on Mondays este un bazar stradal săptămânal plin de viață, plin de tarabe cu mâncare locală și corturi iluminate.",
+                  "category": "landmark",
+                  "coords": [
+                        99.766907,
+                        6.349837
+                  ]
+            },
+            {
+                  "name": "The Red Beach",
+                  "text": "The Red Beach este o fâșie de coastă uimitoare, numită astfel datorită nisipului colorat unic de-a lungul țărmului său.",
+                  "category": "recreational",
+                  "coords": [
+                        99.694045,
+                        6.300562
+                  ]
+            },
+            {
+                  "name": "Private Hotel Beach",
+                  "text": "Private Hotel Beach este o fâșie exclusivistă de nisip bine întreținută, rezervată strict pentru oaspeții stațiunii.",
+                  "category": "recreational",
+                  "coords": [
+                        99.701096,
+                        6.293874
+                  ]
+            },
+            {
+                  "name": "Pantai Tengah",
+                  "text": "Tengah Island oferă o plajă retrasă cu nisip, înconjurată de apele tropicale clare ale arhipelagului.",
+                  "category": "recreational",
+                  "coords": [
+                        99.731179,
+                        6.27317
+                  ]
+            },
+            {
+                  "name": "Tengah Beach",
+                  "text": "Tengah Beach este o întindere lungă de nisip alb, cunoscută pentru valurile sale calme și atmosfera de coastă relaxată.",
+                  "category": "recreational",
+                  "coords": [
+                        99.729334,
+                        6.282032
+                  ]
+            },
+            {
+                  "name": "Underwater World",
+                  "text": "Underwater World este un vast acvariu marin acoperit, cu un tunel de sticlă pe sub apă pentru observarea rechinilor și a pisicilor de mare.",
+                  "category": "recreational",
+                  "coords": [
+                        99.728597,
+                        6.287828
+                  ]
+            },
+            {
+                  "name": "Pantai Cenang",
+                  "text": "Cenang Beach este o întindere populară și plină de viață de nisip alb, faimoasă pentru sporturile nautice și cafenelele vibrante de pe malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        99.722647,
+                        6.295602
+                  ]
+            },
+            {
+                  "name": "Helioutpost Langkawi",
+                  "text": "Helioutpost Langkawi este o facilitate de aviație care operează zboruri pitorești cu elicopterul deasupra terenului luxuriant al insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        99.725409,
+                        6.313189
+                  ]
+            },
+            {
+                  "name": "Surau Ar-Rahman",
+                  "text": "Surau Ar-Rahman este o cameră de rugăciune islamică de cartier, modestă, care oferă un spațiu spiritual liniștit pentru comunitatea musulmană locală.",
+                  "category": "landmark",
+                  "coords": [
+                        99.745676,
+                        6.320432
+                  ]
+            },
+            {
+                  "name": "Masjid Ar-Rahman",
+                  "text": "Moscheea Ar-Rahman este un centru congregațional frumos structurat pentru comunitatea islamică locală, ușor de recunoscut după minaretul său.",
+                  "category": "landmark",
+                  "coords": [
+                        99.736472,
+                        6.319216
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Această moschee locală servește ca loc esențial de adunare islamică, dispunând de o sală spațioasă pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        99.723586,
+                        6.330612
+                  ]
+            },
+            {
+                  "name": "Masjid Al Ihsan Temoyong",
+                  "text": "Moscheea Al Ihsan Temoyong este un spațiu comunitar de cult islamic, profund integrat în viața de zi cu zi a satului local.",
+                  "category": "landmark",
+                  "coords": [
+                        99.737477,
+                        6.298691
+                  ]
+            },
+            {
+                  "name": "Chenang Bazaar",
+                  "text": "Chenang Bazaar este o zonă comercială plină de viață lângă malul apei, unde comercianții vând de la meșteșuguri locale până la haine de plajă.",
+                  "category": "cultural",
+                  "coords": [
+                        99.727608,
+                        6.291405
+                  ]
+            },
+            {
+                  "name": "Night market (Tuesday)",
+                  "text": "Această piață de noapte de marți este o adunare vibrantă în aer liber unde localnicii instalează corturi pentru a găti mâncare stradală tradițională.",
+                  "category": "cultural",
+                  "coords": [
+                        99.73705,
+                        6.329675
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Khamis",
+                  "text": "Piața de noapte de joi transformă strada într-o promenadă aglomerată, plină de wok-uri cu mâncare sfârâitoare și tarabe cu produse locale.",
+                  "category": "cultural",
+                  "coords": [
+                        99.727527,
+                        6.299137
+                  ]
+            },
+            {
+                  "name": "Yuan Spa",
+                  "text": "Yuan Spa este un refugiu de wellness liniștit, care oferă tratamente tradiționale de masaj într-un mediu calmant, aromaterapeutic.",
+                  "category": "recreational",
+                  "coords": [
+                        99.733997,
+                        6.274705
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ancient tomb Makam Purba",
+                  "text": "A historical attraction featuring an age-old gravesite nestled quietly on the island.",
+                  "category": "landmark",
+                  "coords": [
+                        99.766617,
+                        6.348771
+                  ]
+            },
+            {
+                  "name": "Sunset",
+                  "text": "A coastal viewpoint perfectly positioned to watch the glowing sun dip below the ocean horizon.",
+                  "category": "natural",
+                  "coords": [
+                        99.722109,
+                        6.323554
+                  ]
+            },
+            {
+                  "name": "Resorts World Langkawi",
+                  "text": "Resorts World Langkawi is a sprawling beach resort offering coastal views near the nature reserves of Beras Basah.",
+                  "category": "recreational",
+                  "coords": [
+                        99.736507,
+                        6.260679
+                  ]
+            },
+            {
+                  "name": "Geopark Ocean Drive",
+                  "text": "Geopark Ocean Drive is a scenic coastal route offering sweeping views over the waters surrounding Beras Basah Island.",
+                  "category": "landmark",
+                  "coords": [
+                        99.745697,
+                        6.27134
+                  ]
+            },
+            {
+                  "name": "Temoyong Hill",
+                  "text": "Temoyong Hill is a prominent natural peak rising steeply in the tropical landscape near Beras Basah.",
+                  "category": "natural",
+                  "coords": [
+                        99.741448,
+                        6.276759
+                  ]
+            },
+            {
+                  "name": "Tree and shadow",
+                  "text": "Tree and shadow is a natural open-air attraction known for its dense canopy and shaded tropical setting.",
+                  "category": "landmark",
+                  "coords": [
+                        99.730413,
+                        6.277745
+                  ]
+            },
+            {
+                  "name": "Nest Rooftop",
+                  "text": "Nest Rooftop is an elevated viewpoint providing panoramic vistas over the surrounding natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        99.726174,
+                        6.292652
+                  ]
+            },
+            {
+                  "name": "Rice Garden",
+                  "text": "The Rice Garden is an agricultural museum showcasing traditional rice cultivation practices in an outdoor setting.",
+                  "category": "museum",
+                  "coords": [
+                        99.722387,
+                        6.298583
+                  ]
+            },
+            {
+                  "name": "Airplane",
+                  "text": "The Airplane is a unique viewpoint platform centered around a repurposed aircraft structure.",
+                  "category": "natural",
+                  "coords": [
+                        99.717792,
+                        6.314184
+                  ]
+            },
+            {
+                  "name": "Penangi Hill",
+                  "text": "Penangi Hill is a prominent natural peak offering elevated terrain above the lush Langkawi coastline.",
+                  "category": "natural",
+                  "coords": [
+                        99.746533,
+                        6.285195
+                  ]
+            },
+            {
+                  "name": "Sembilan Cape Hill",
+                  "text": "Sembilan Cape Hill is a rugged headland peak that dramatically overlooks the surrounding sea.",
+                  "category": "natural",
+                  "coords": [
+                        99.752455,
+                        6.283446
+                  ]
+            },
+            {
+                  "name": "Schwangere Frau Hügel",
+                  "text": "Schwangere Frau Hügel is a famously contoured hill formation resembling a pregnant woman lying on her back.",
+                  "category": "landmark",
+                  "coords": [
+                        99.773296,
+                        6.208494
+                  ]
+            },
+            {
+                  "name": "Eagle Feeding Area",
+                  "text": "The Eagle Feeding Area is a designated waterfront spot where visitors can watch local birds of prey diving for food.",
+                  "category": "landmark",
+                  "coords": [
+                        99.734887,
+                        6.225172
+                  ]
+            },
+            {
+                  "name": "Night market on Mondays",
+                  "text": "The Night market on Mondays is a bustling weekly street bazaar filled with local food stalls and illuminated vendor tents.",
+                  "category": "landmark",
+                  "coords": [
+                        99.766907,
+                        6.349837
+                  ]
+            },
+            {
+                  "name": "The Red Beach",
+                  "text": "The Red Beach is a striking coastal stretch named for the uniquely colored sand along its shoreline.",
+                  "category": "recreational",
+                  "coords": [
+                        99.694045,
+                        6.300562
+                  ]
+            },
+            {
+                  "name": "Private Hotel Beach",
+                  "text": "The Private Hotel Beach is an exclusive, well-maintained stretch of sand reserved strictly for resort guests.",
+                  "category": "recreational",
+                  "coords": [
+                        99.701096,
+                        6.293874
+                  ]
+            },
+            {
+                  "name": "Tengah Island",
+                  "text": "Tengah Island offers a secluded sandy beach surrounded by the clear tropical waters of the archipelago.",
+                  "category": "recreational",
+                  "coords": [
+                        99.731179,
+                        6.27317
+                  ]
+            },
+            {
+                  "name": "Tengah Beach",
+                  "text": "Tengah Beach is a long expanse of white sand known for its calm waves and relaxed coastal atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        99.729334,
+                        6.282032
+                  ]
+            },
+            {
+                  "name": "Underwater World",
+                  "text": "Underwater World is an expansive indoor marine aquarium featuring a walk-through glass tunnel for viewing sharks and rays.",
+                  "category": "recreational",
+                  "coords": [
+                        99.728597,
+                        6.287828
+                  ]
+            },
+            {
+                  "name": "Cenang Beach",
+                  "text": "Cenang Beach is a popular, bustling stretch of white sand famous for its lively watersports and vibrant beachfront cafes.",
+                  "category": "recreational",
+                  "coords": [
+                        99.722647,
+                        6.295602
+                  ]
+            },
+            {
+                  "name": "Helioutpost Langkawi",
+                  "text": "Helioutpost Langkawi is an aviation facility operating scenic helicopter flights over the lush island terrain.",
+                  "category": "landmark",
+                  "coords": [
+                        99.725409,
+                        6.313189
+                  ]
+            },
+            {
+                  "name": "Surau Ar-Rahman",
+                  "text": "Surau Ar-Rahman is a modest, neighborhood Islamic prayer room providing a quiet spiritual space for the local Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        99.745676,
+                        6.320432
+                  ]
+            },
+            {
+                  "name": "Ar-Rahman Mosque",
+                  "text": "The Ar-Rahman Mosque is a beautifully structured congregational center for the local Islamic community, easily recognizable by its minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        99.736472,
+                        6.319216
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "This local Mosque serves as an essential Islamic gathering place, featuring a spacious hall for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        99.723586,
+                        6.330612
+                  ]
+            },
+            {
+                  "name": "Al Ihsan Temoyong Mosque",
+                  "text": "The Al Ihsan Temoyong Mosque is a community Islamic worship space deeply integrated into the local village's daily life.",
+                  "category": "landmark",
+                  "coords": [
+                        99.737477,
+                        6.298691
+                  ]
+            },
+            {
+                  "name": "Chenang Bazaar",
+                  "text": "Chenang Bazaar is a lively retail stretch near the waterfront where vendors sell everything from local handicrafts to beachwear.",
+                  "category": "cultural",
+                  "coords": [
+                        99.727608,
+                        6.291405
+                  ]
+            },
+            {
+                  "name": "Night market (Tuesday)",
+                  "text": "This Tuesday night market is a vibrant open-air gathering where locals set up tents to cook traditional street food.",
+                  "category": "cultural",
+                  "coords": [
+                        99.73705,
+                        6.329675
+                  ]
+            },
+            {
+                  "name": "Night Market (Thursday)",
+                  "text": "The Thursday Night Market transforms the street into a busy promenade filled with sizzling food woks and local produce stalls.",
+                  "category": "cultural",
+                  "coords": [
+                        99.727527,
+                        6.299137
+                  ]
+            },
+            {
+                  "name": "Yuan Spa",
+                  "text": "Yuan Spa is a tranquil wellness retreat offering traditional massage treatments in a soothing, aromatherapeutic environment.",
+                  "category": "recreational",
+                  "coords": [
+                        99.733997,
+                        6.274705
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "MY-02",
     coords: [99.7214, 6.2736],
@@ -195,7 +2130,520 @@ export const poiExtraMalaysiaNatureV2: POI[] = [
     },
   },
   {
-    id: "cameron-highlands-forest-nature-v2",
+    id: "cameron-highlands-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gunung Swettenham",
+                  "text": "Ein bewaldeter Berggipfel in den Cameron Highlands, benannt nach einem Kolonialbeamten und bekannt für seine steilen Aufstiege.",
+                  "category": "natural",
+                  "coords": [
+                        101.464341,
+                        4.577204
+                  ]
+            },
+            {
+                  "name": "Bristol 171 Sycamore HR14 XJ381 Helicopter Crash Site",
+                  "text": "Die historische Stätte tief im Dschungel, an der einst ein Bristol 171 Sycamore Helikopter zerschellte.",
+                  "category": "landmark",
+                  "coords": [
+                        101.505441,
+                        4.454662
+                  ]
+            },
+            {
+                  "name": "Kea Fam Rose Centre",
+                  "text": "Ein blühender Schaugarten auf den kühlen Höhen der Highlands, in dem zahlreiche Rosensorten in Terrassen angepflanzt sind.",
+                  "category": "landmark",
+                  "coords": [
+                        101.412301,
+                        4.502755
+                  ]
+            },
+            {
+                  "name": "Butterfly Garden",
+                  "text": "Ein zoologischer Garten in den Highlands, in dem Besucher lebende tropische Schmetterlinge in einer üppig bepflanzten Voliere beobachten können.",
+                  "category": "recreational",
+                  "coords": [
+                        101.407097,
+                        4.507465
+                  ]
+            },
+            {
+                  "name": "Sungei Palas Boh Plantation Viewpoint",
+                  "text": "Ein Aussichtspunkt, der einen weiten Blick über die sanften, smaragdgrünen Teefelder der Boh-Plantage in Sungei Palas bietet.",
+                  "category": "natural",
+                  "coords": [
+                        101.41625,
+                        4.516377
+                  ]
+            },
+            {
+                  "name": "Tringkap Bee farm",
+                  "text": "Ein lokaler Betrieb in Tringkap, bei dem Besucher die Honigproduktion kennenlernen und Bienenstöcke aus der Nähe betrachten können.",
+                  "category": "landmark",
+                  "coords": [
+                        101.427683,
+                        4.51189
+                  ]
+            },
+            {
+                  "name": "View of rolling tea hills",
+                  "text": "Ein Aussichtspunkt in den Highlands, der eine ungestörte Sicht auf die weiten, hügeligen Teeplantagen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        101.405981,
+                        4.515911
+                  ]
+            },
+            {
+                  "name": "Chapel of Christ the King",
+                  "text": "Eine christliche Kapelle, die den Gläubigen der Highlands einen ruhigen Ort für Gebet und Besinnung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        101.407896,
+                        4.568285
+                  ]
+            },
+            {
+                  "name": "Masjid Kampung Raja",
+                  "text": "Die zentrale Moschee von Kampung Raja, deren Minarett das spirituelle Leben in diesem hochgelegenen Dorf prägt.",
+                  "category": "landmark",
+                  "coords": [
+                        101.410002,
+                        4.568577
+                  ]
+            },
+            {
+                  "name": "Surau Ladang Teh Sungai Palas",
+                  "text": "Ein islamischer Gebetsraum auf dem Gelände der Sungai Palas Teeplantage, der den Teepflückern zur Verfügung steht.",
+                  "category": "landmark",
+                  "coords": [
+                        101.412812,
+                        4.516791
+                  ]
+            },
+            {
+                  "name": "Masjid Kuala Boh",
+                  "text": "Eine kleine Moschee in Kuala Boh, die als spiritueller Treffpunkt für die in den umliegenden Plantagen arbeitende muslimische Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        101.494776,
+                        4.434109
+                  ]
+            },
+            {
+                  "name": "vegetable stalls",
+                  "text": "Ein geschäftiger Marktbereich, in dem Händler frisches, in den Höhenlagen der Cameron Highlands angebautes Gemüse anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        101.408199,
+                        4.508643
+                  ]
+            },
+            {
+                  "name": "Pasar Kea Farm",
+                  "text": "Ein bekannter Markt an der Straße, auf dem neben frischem Obst und Gemüse auch Souvenirs und Pflanzen aus der Region verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        101.406698,
+                        4.504382
+                  ]
+            },
+            {
+                  "name": "Kea Garden",
+                  "text": "Ein Marktplatz in den Highlands, der sich auf den Verkauf von Zierpflanzen, Blumen und lokalen Agrarprodukten spezialisiert hat.",
+                  "category": "cultural",
+                  "coords": [
+                        101.407457,
+                        4.502973
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gunung Swettenham",
+                  "text": "A Cameron-felföld erdővel borított hegycsúcsa, amelyet egy gyarmati tisztviselőről neveztek el, és amely meredek emelkedőiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        101.464341,
+                        4.577204
+                  ]
+            },
+            {
+                  "name": "Bristol 171 Sycamore HR14 XJ381 Helicopter Crash Site",
+                  "text": "A dzsungel mélyén található történelmi helyszín, ahol egykor egy Bristol 171 Sycamore helikopter zuhant le.",
+                  "category": "landmark",
+                  "coords": [
+                        101.505441,
+                        4.454662
+                  ]
+            },
+            {
+                  "name": "Kea Fam Rose Centre",
+                  "text": "Egy virágzó bemutatókert a felföld hűvös magaslatain, ahol számos rózsafajtát ültettek teraszos elrendezésben.",
+                  "category": "landmark",
+                  "coords": [
+                        101.412301,
+                        4.502755
+                  ]
+            },
+            {
+                  "name": "Butterfly Garden",
+                  "text": "Egy hegyvidéki állatkert, ahol a látogatók élő trópusi pillangókat figyelhetnek meg egy dús növényzetű madárházban.",
+                  "category": "recreational",
+                  "coords": [
+                        101.407097,
+                        4.507465
+                  ]
+            },
+            {
+                  "name": "Sungei Palas Boh Plantation Viewpoint",
+                  "text": "Festői kilátópont, amely széles rálátást biztosít a Sungei Palas-i Boh-ültetvény lágyan hullámzó, smaragdzöld teaföldjeire.",
+                  "category": "natural",
+                  "coords": [
+                        101.41625,
+                        4.516377
+                  ]
+            },
+            {
+                  "name": "Tringkap Bee farm",
+                  "text": "Egy tringkapi helyi gazdaság, ahol a látogatók megismerhetik a méztermelést, és közelről láthatják a méhkaptárakat.",
+                  "category": "landmark",
+                  "coords": [
+                        101.427683,
+                        4.51189
+                  ]
+            },
+            {
+                  "name": "View of rolling tea hills",
+                  "text": "Egy hegyvidéki kilátópont, amely zavartalan kilátást nyújt a kiterjedt, dombos teaültetvényekre.",
+                  "category": "natural",
+                  "coords": [
+                        101.405981,
+                        4.515911
+                  ]
+            },
+            {
+                  "name": "Chapel of Christ the King",
+                  "text": "Egy keresztény kápolna, amely nyugodt helyet kínál az imádkozáshoz és az elmélkedéshez a felföld hívői számára.",
+                  "category": "landmark",
+                  "coords": [
+                        101.407896,
+                        4.568285
+                  ]
+            },
+            {
+                  "name": "Masjid Kampung Raja",
+                  "text": "Kampung Raja központi mecsete, amelynek minaretje meghatározza a szellemi életet ebben a magasan fekvő faluban.",
+                  "category": "landmark",
+                  "coords": [
+                        101.410002,
+                        4.568577
+                  ]
+            },
+            {
+                  "name": "Surau Ladang Teh Sungai Palas",
+                  "text": "Egy iszlám imaterem a Sungai Palas teaültetvény területén, amely a teaszedők rendelkezésére áll.",
+                  "category": "landmark",
+                  "coords": [
+                        101.412812,
+                        4.516791
+                  ]
+            },
+            {
+                  "name": "Masjid Kuala Boh",
+                  "text": "Egy kis mecset Kuala Boh-ban, amely a környező ültetvényeken dolgozó muszlim közösség szellemi találkozóhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        101.494776,
+                        4.434109
+                  ]
+            },
+            {
+                  "name": "vegetable stalls",
+                  "text": "Egy nyüzsgő piactér, ahol a kereskedők a Cameron-felföldön termesztett friss zöldségeket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        101.408199,
+                        4.508643
+                  ]
+            },
+            {
+                  "name": "Pasar Kea Farm",
+                  "text": "Egy ismert útmenti piac, ahol a friss gyümölcsök és zöldségek mellett helyi ajándéktárgyakat és növényeket is árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        101.406698,
+                        4.504382
+                  ]
+            },
+            {
+                  "name": "Kea Garden",
+                  "text": "Egy hegyvidéki piactér, amely dísznövények, virágok és helyi mezőgazdasági termékek árusítására specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        101.407457,
+                        4.502973
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gunung Swettenham",
+                  "text": "Un vârf montan împădurit din Cameron Highlands, numit după un oficial colonial și cunoscut pentru ascensiunile sale abrupte.",
+                  "category": "natural",
+                  "coords": [
+                        101.464341,
+                        4.577204
+                  ]
+            },
+            {
+                  "name": "Bristol 171 Sycamore HR14 XJ381 Helicopter Crash Site",
+                  "text": "Situl istoric aflat adânc în junglă, unde s-a prăbușit odată un elicopter Bristol 171 Sycamore.",
+                  "category": "landmark",
+                  "coords": [
+                        101.505441,
+                        4.454662
+                  ]
+            },
+            {
+                  "name": "Kea Fam Rose Centre",
+                  "text": "O grădină de expoziție înfloritoare, situată pe înălțimile răcoroase ale zonei montane, unde numeroase soiuri de trandafiri sunt plantate în terase.",
+                  "category": "landmark",
+                  "coords": [
+                        101.412301,
+                        4.502755
+                  ]
+            },
+            {
+                  "name": "Butterfly Garden",
+                  "text": "O grădină zoologică în zona montană, unde vizitatorii pot observa fluturi tropicali vii într-o volieră luxuriantă.",
+                  "category": "recreational",
+                  "coords": [
+                        101.407097,
+                        4.507465
+                  ]
+            },
+            {
+                  "name": "Sungei Palas Boh Plantation Viewpoint",
+                  "text": "Un punct de belvedere care oferă o priveliște amplă asupra câmpurilor de ceai de un verde smarald, ușor ondulate, ale plantației Boh din Sungei Palas.",
+                  "category": "natural",
+                  "coords": [
+                        101.41625,
+                        4.516377
+                  ]
+            },
+            {
+                  "name": "Tringkap Bee farm",
+                  "text": "O fermă locală din Tringkap, unde vizitatorii pot învăța despre producția de miere și pot vedea stupii de aproape.",
+                  "category": "landmark",
+                  "coords": [
+                        101.427683,
+                        4.51189
+                  ]
+            },
+            {
+                  "name": "View of rolling tea hills",
+                  "text": "Un punct de observație din zona montană, care oferă o vedere neîntreruptă asupra vastelor plantații colinare de ceai.",
+                  "category": "natural",
+                  "coords": [
+                        101.405981,
+                        4.515911
+                  ]
+            },
+            {
+                  "name": "Chapel of Christ the King",
+                  "text": "O capelă creștină care oferă credincioșilor din zona montană un loc liniștit pentru rugăciune și reflecție.",
+                  "category": "landmark",
+                  "coords": [
+                        101.407896,
+                        4.568285
+                  ]
+            },
+            {
+                  "name": "Masjid Kampung Raja",
+                  "text": "Moscheea centrală din Kampung Raja, al cărei minaret conturează viața spirituală în acest sat situat la mare altitudine.",
+                  "category": "landmark",
+                  "coords": [
+                        101.410002,
+                        4.568577
+                  ]
+            },
+            {
+                  "name": "Surau Ladang Teh Sungai Palas",
+                  "text": "O sală de rugăciune islamică pe terenul plantației de ceai Sungai Palas, aflată la dispoziția culegătorilor de ceai.",
+                  "category": "landmark",
+                  "coords": [
+                        101.412812,
+                        4.516791
+                  ]
+            },
+            {
+                  "name": "Masjid Kuala Boh",
+                  "text": "O mică moschee în Kuala Boh, care servește drept loc de întâlnire spirituală pentru comunitatea musulmană ce lucrează pe plantațiile din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        101.494776,
+                        4.434109
+                  ]
+            },
+            {
+                  "name": "vegetable stalls",
+                  "text": "O zonă de piață aglomerată, unde comercianții oferă legume proaspete, cultivate la altitudinile din Cameron Highlands.",
+                  "category": "cultural",
+                  "coords": [
+                        101.408199,
+                        4.508643
+                  ]
+            },
+            {
+                  "name": "Pasar Kea Farm",
+                  "text": "O piață stradală renumită, unde, pe lângă fructe și legume proaspete, se vând și suveniruri și plante din regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        101.406698,
+                        4.504382
+                  ]
+            },
+            {
+                  "name": "Kea Garden",
+                  "text": "O piață din zona montană, specializată în vânzarea de plante ornamentale, flori și produse agricole locale.",
+                  "category": "cultural",
+                  "coords": [
+                        101.407457,
+                        4.502973
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gunung Swettenham",
+                  "text": "A forested mountain peak in the Cameron Highlands, named after a colonial official and known for its steep ascents.",
+                  "category": "natural",
+                  "coords": [
+                        101.464341,
+                        4.577204
+                  ]
+            },
+            {
+                  "name": "Bristol 171 Sycamore HR14 XJ381 Helicopter Crash Site",
+                  "text": "The historical site deep in the jungle where a Bristol 171 Sycamore helicopter once crashed.",
+                  "category": "landmark",
+                  "coords": [
+                        101.505441,
+                        4.454662
+                  ]
+            },
+            {
+                  "name": "Kea Fam Rose Centre",
+                  "text": "A blooming show garden on the cool heights of the Highlands, where numerous varieties of roses are planted in terraces.",
+                  "category": "landmark",
+                  "coords": [
+                        101.412301,
+                        4.502755
+                  ]
+            },
+            {
+                  "name": "Butterfly Garden",
+                  "text": "A zoological garden in the Highlands where visitors can observe living tropical butterflies in a lushly planted aviary.",
+                  "category": "recreational",
+                  "coords": [
+                        101.407097,
+                        4.507465
+                  ]
+            },
+            {
+                  "name": "Sungei Palas Boh Plantation Viewpoint",
+                  "text": "A viewpoint offering sweeping views over the gentle, emerald-green tea fields of the Boh plantation in Sungei Palas.",
+                  "category": "natural",
+                  "coords": [
+                        101.41625,
+                        4.516377
+                  ]
+            },
+            {
+                  "name": "Tringkap Bee farm",
+                  "text": "A local farm in Tringkap where visitors can learn about honey production and view beehives up close.",
+                  "category": "landmark",
+                  "coords": [
+                        101.427683,
+                        4.51189
+                  ]
+            },
+            {
+                  "name": "View of rolling tea hills",
+                  "text": "A viewpoint in the Highlands offering an unobstructed sight of the vast, rolling tea plantations.",
+                  "category": "natural",
+                  "coords": [
+                        101.405981,
+                        4.515911
+                  ]
+            },
+            {
+                  "name": "Chapel of Christ the King",
+                  "text": "A Christian chapel providing the faithful of the Highlands with a quiet place for prayer and reflection.",
+                  "category": "landmark",
+                  "coords": [
+                        101.407896,
+                        4.568285
+                  ]
+            },
+            {
+                  "name": "Masjid Kampung Raja",
+                  "text": "The central mosque of Kampung Raja, whose minaret defines the spiritual life in this high-altitude village.",
+                  "category": "landmark",
+                  "coords": [
+                        101.410002,
+                        4.568577
+                  ]
+            },
+            {
+                  "name": "Surau Ladang Teh Sungai Palas",
+                  "text": "An Islamic prayer room on the grounds of the Sungai Palas tea plantation, available to the tea pluckers.",
+                  "category": "landmark",
+                  "coords": [
+                        101.412812,
+                        4.516791
+                  ]
+            },
+            {
+                  "name": "Masjid Kuala Boh",
+                  "text": "A small mosque in Kuala Boh serving as a spiritual gathering place for the Muslim community working in the surrounding plantations.",
+                  "category": "landmark",
+                  "coords": [
+                        101.494776,
+                        4.434109
+                  ]
+            },
+            {
+                  "name": "vegetable stalls",
+                  "text": "A bustling market area where vendors offer fresh vegetables grown in the high altitudes of the Cameron Highlands.",
+                  "category": "cultural",
+                  "coords": [
+                        101.408199,
+                        4.508643
+                  ]
+            },
+            {
+                  "name": "Kea Farm Market",
+                  "text": "A well-known roadside market where, in addition to fresh fruits and vegetables, local souvenirs and plants are also sold.",
+                  "category": "cultural",
+                  "coords": [
+                        101.406698,
+                        4.504382
+                  ]
+            },
+            {
+                  "name": "Kea Garden",
+                  "text": "A marketplace in the Highlands specializing in the sale of ornamental plants, flowers, and local agricultural products.",
+                  "category": "cultural",
+                  "coords": [
+                        101.407457,
+                        4.502973
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "MY-06",
     coords: [101.45, 4.5],
@@ -243,7 +2691,124 @@ export const poiExtraMalaysiaNatureV2: POI[] = [
     }
   },
   {
-    id: "kinabatangan-river-nature-v2",
+    id: "kinabatangan-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Surau",
+                  "text": "Dieses Surau am Flussufer bietet Einheimischen, die entlang des Flusses Kinabatangan leben, einen bescheidenen, essentiellen Raum für muslimische Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        118.384204,
+                        5.694179
+                  ]
+            },
+            {
+                  "name": "Monggis Momodou, Kawasan Bersejarah",
+                  "text": "Monggis Momodou ist ein bemerkenswerter Kultort in einem anerkannten historischen Gebiet in der Nähe des Flusses Kinabatangan.",
+                  "category": "religious",
+                  "coords": [
+                        118.392225,
+                        5.707534
+                  ]
+            },
+            {
+                  "name": "Masjid Nur Hidayah",
+                  "text": "Masjid Nur Hidayah ist ein muslimisches Heiligtum, das die Gläubigen inmitten der artenreichen Landschaft der Kinabatangan-Region zum Gebet ruft.",
+                  "category": "landmark",
+                  "coords": [
+                        118.383922,
+                        5.687535
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Surau",
+                  "text": "Ez a folyóparti Surau szerény, alapvető helyet biztosít a muszlim imákhoz a Kinabatangan folyó mentén élő helyiek számára.",
+                  "category": "landmark",
+                  "coords": [
+                        118.384204,
+                        5.694179
+                  ]
+            },
+            {
+                  "name": "Monggis Momodou, Kawasan Bersejarah",
+                  "text": "A Monggis Momodou egy figyelemre méltó istentiszteleti hely egy elismert történelmi területen, a Kinabatangan folyó közelében.",
+                  "category": "religious",
+                  "coords": [
+                        118.392225,
+                        5.707534
+                  ]
+            },
+            {
+                  "name": "Masjid Nur Hidayah",
+                  "text": "A Masjid Nur Hidayah egy muszlim szentély, amely imára hívja a híveket a Kinabatangan régió biodiverz tájának közepette.",
+                  "category": "landmark",
+                  "coords": [
+                        118.383922,
+                        5.687535
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Surau",
+                  "text": "Acest Surau de pe malul râului oferă un spațiu modest, esențial pentru rugăciunile musulmane pentru localnicii care trăiesc de-a lungul râului Kinabatangan.",
+                  "category": "landmark",
+                  "coords": [
+                        118.384204,
+                        5.694179
+                  ]
+            },
+            {
+                  "name": "Monggis Momodou, Kawasan Bersejarah",
+                  "text": "Monggis Momodou este un loc de cult remarcabil situat într-o zonă istorică recunoscută din apropierea râului Kinabatangan.",
+                  "category": "religious",
+                  "coords": [
+                        118.392225,
+                        5.707534
+                  ]
+            },
+            {
+                  "name": "Masjid Nur Hidayah",
+                  "text": "Masjid Nur Hidayah este un sanctuar musulman care cheamă credincioșii la rugăciune în mijlocul peisajului divers al regiunii Kinabatangan.",
+                  "category": "landmark",
+                  "coords": [
+                        118.383922,
+                        5.687535
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Surau",
+                  "text": "This riverside Surau provides a modest, essential space for Muslim prayers for locals living along the Kinabatangan River.",
+                  "category": "landmark",
+                  "coords": [
+                        118.384204,
+                        5.694179
+                  ]
+            },
+            {
+                  "name": "Monggis Momodou, Kawasan Bersejarah",
+                  "text": "Monggis Momodou is a notable place of worship set within a recognized historical area near the Kinabatangan River.",
+                  "category": "religious",
+                  "coords": [
+                        118.392225,
+                        5.707534
+                  ]
+            },
+            {
+                  "name": "Masjid Nur Hidayah",
+                  "text": "Masjid Nur Hidayah is a Muslim sanctuary that calls the faithful to prayer amid the biodiverse landscape of the Kinabatangan region.",
+                  "category": "landmark",
+                  "coords": [
+                        118.383922,
+                        5.687535
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "MY-12",
     coords: [118.4, 5.6667],
@@ -291,7 +2856,88 @@ export const poiExtraMalaysiaNatureV2: POI[] = [
     }
   },
   {
-    id: "mount-kinabalu-nature-v2",
+    id: "mount-kinabalu-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gunung Kinabalu",
+                  "text": "Dieser markante Granitgipfel bei Kota Kinabalu ragt über Borneo hinaus, erreicht 4.095 Meter und ist der höchste Berg Malaysias.",
+                  "category": "natural",
+                  "coords": [
+                        116.5587,
+                        6.075067
+                  ]
+            },
+            {
+                  "name": "Taman Kinabalu",
+                  "text": "Dieser als UNESCO-Weltnaturerbe ausgezeichnete Nationalpark umfasst die hoch aufragenden Gipfel des Mount Kinabalu und seine unglaublich vielfältigen Regenwaldökosysteme.",
+                  "category": "park",
+                  "coords": [
+                        116.561345,
+                        6.073645
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gunung Kinabalu",
+                  "text": "A Borneó fölé magasodó, Kota Kinabalu közelében található gránitcsúcs eléri a 4095 métert, és ez Malajzia legmagasabb hegye.",
+                  "category": "natural",
+                  "coords": [
+                        116.5587,
+                        6.075067
+                  ]
+            },
+            {
+                  "name": "Taman Kinabalu",
+                  "text": "Az UNESCO világörökség részét képező hatalmas nemzeti park a Mount Kinabalu magasba törő csúcsait és hihetetlenül változatos esőerdei ökoszisztémáját foglalja magába.",
+                  "category": "park",
+                  "coords": [
+                        116.561345,
+                        6.073645
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gunung Kinabalu",
+                  "text": "Dominând Borneo, acest vârf proeminent de granit de lângă Kota Kinabalu atinge 4.095 metri și este cel mai înalt munte din Malaezia.",
+                  "category": "natural",
+                  "coords": [
+                        116.5587,
+                        6.075067
+                  ]
+            },
+            {
+                  "name": "Taman Kinabalu",
+                  "text": "Desemnat ca sit al Patrimoniului Mondial UNESCO, acest vast parc național cuprinde vârfurile falnice ale Muntelui Kinabalu și ecosistemele sale de pădure tropicală incredibil de diverse.",
+                  "category": "park",
+                  "coords": [
+                        116.561345,
+                        6.073645
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Kinabalu",
+                  "text": "Towering above Borneo, this prominent granite peak near Kota Kinabalu reaches 4,095 metres and is the highest mountain in Malaysia.",
+                  "category": "natural",
+                  "coords": [
+                        116.5587,
+                        6.075067
+                  ]
+            },
+            {
+                  "name": "Kinabalu Park",
+                  "text": "Designated as a UNESCO World Heritage Site, this sprawling national park encompasses the towering peaks of Mount Kinabalu and its incredibly diverse rainforest ecosystems.",
+                  "category": "park",
+                  "coords": [
+                        116.561345,
+                        6.073645
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "MY-12",
     coords: [116.558, 6.073],
@@ -339,7 +2985,412 @@ export const poiExtraMalaysiaNatureV2: POI[] = [
     }
   },
   {
-    id: "bako-national-park-nature-v2",
+    id: "bako-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tanjung Po Lighthouse",
+                  "text": "Der Tanjung Po Leuchtturm ist ein maritimes Navigationslicht an der zerklüfteten Küste nahe dem Bako-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        110.523785,
+                        1.724666
+                  ]
+            },
+            {
+                  "name": "Teluk Kruin",
+                  "text": "Kruin Bay ist ein friedlicher Sandstrand, der sich in der üppigen tropischen Landschaft des Bako-Nationalparks befindet.",
+                  "category": "recreational",
+                  "coords": [
+                        110.517355,
+                        1.730183
+                  ]
+            },
+            {
+                  "name": "Teluk Limau",
+                  "text": "Teluk Limau ist eine sehr abgelegene, lange Sandbucht im Bako-Nationalpark, die meist nur durch eine anspruchsvolle Wanderung erreichbar ist.",
+                  "category": "recreational",
+                  "coords": [
+                        110.500094,
+                        1.742866
+                  ]
+            },
+            {
+                  "name": "Taman Negara Bako",
+                  "text": "Der Bako-Nationalpark ist Sarawaks ältester Nationalpark, berühmt für seine seltenen Nasenaffen und steilen Sandsteinklippen.",
+                  "category": "natural",
+                  "coords": [
+                        110.479455,
+                        1.718614
+                  ]
+            },
+            {
+                  "name": "Teluk Sibur",
+                  "text": "Sibur Bay ist ein wilder, unberührter Sandstrand, der im geschützten Ökosystem des Bako-Nationalparks liegt.",
+                  "category": "recreational",
+                  "coords": [
+                        110.487148,
+                        1.726878
+                  ]
+            },
+            {
+                  "name": "Kuil Ching San Yen",
+                  "text": "Der Ching San Yen Tempel ist eine auf einem Hügel gelegene buddhistische Kultstätte, die einen Panoramablick auf die Flussmündung in der Nähe von Bako bietet.",
+                  "category": "religious",
+                  "coords": [
+                        110.485001,
+                        1.646269
+                  ]
+            },
+            {
+                  "name": "Pasir Rugon",
+                  "text": "Pasir Rugon ist ein einsamer Küstenabschnitt im Bako-Nationalpark, umgeben von dichtem Dschungel.",
+                  "category": "recreational",
+                  "coords": [
+                        110.489323,
+                        1.678093
+                  ]
+            },
+            {
+                  "name": "Surau Taman Mesra Bako",
+                  "text": "Der Surau Taman Mesra Bako ist ein kleiner islamischer Gebetsraum für die Bewohner der Siedlung Taman Mesra in der Nähe von Bako.",
+                  "category": "landmark",
+                  "coords": [
+                        110.443545,
+                        1.65625
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Hidayah Kampung Bako",
+                  "text": "Die Masjid Al-Hidayah in Kampung Bako ist die zentrale Dorfmoschee, in der sich die lokale muslimische Gemeinde zum Gebet versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        110.429196,
+                        1.66622
+                  ]
+            },
+            {
+                  "name": "Masjid Darul Ikhwan",
+                  "text": "Die Masjid Darul Ikhwan ist eine islamische Kultstätte, die der muslimischen Bevölkerung im Gebiet um den Bako-Nationalpark dient.",
+                  "category": "landmark",
+                  "coords": [
+                        110.482525,
+                        1.649687
+                  ]
+            },
+            {
+                  "name": "Masjid Darul Naim KOMTAS Muara Tebas",
+                  "text": "Die Masjid Darul Naim am KOMTAS Muara Tebas ist eine Moschee in Küstennähe, die lokale Fischer und Bewohner betreut.",
+                  "category": "landmark",
+                  "coords": [
+                        110.475824,
+                        1.648534
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tanjung Po Lighthouse",
+                  "text": "A Tanjung Po világítótorony egy tengeri navigációs jelzőfény a Bako Nemzeti Park melletti zord partvidéken.",
+                  "category": "landmark",
+                  "coords": [
+                        110.523785,
+                        1.724666
+                  ]
+            },
+            {
+                  "name": "Teluk Kruin",
+                  "text": "A Kruin Bay egy békés homokos strand a Bako Nemzeti Park buja trópusi tájain.",
+                  "category": "recreational",
+                  "coords": [
+                        110.517355,
+                        1.730183
+                  ]
+            },
+            {
+                  "name": "Teluk Limau",
+                  "text": "A Teluk Limau egy nagyon eldugott, hosszú homokos öböl a Bako Nemzeti Parkban, amely többnyire csak egy kihívást jelentő túrával közelíthető meg.",
+                  "category": "recreational",
+                  "coords": [
+                        110.500094,
+                        1.742866
+                  ]
+            },
+            {
+                  "name": "Taman Negara Bako",
+                  "text": "A Bako Nemzeti Park Sarawak legrégebbi nemzeti parkja, amely ritka ormányos majmairól és meredek homokkő szikláiról híres.",
+                  "category": "natural",
+                  "coords": [
+                        110.479455,
+                        1.718614
+                  ]
+            },
+            {
+                  "name": "Teluk Sibur",
+                  "text": "A Sibur Bay egy vad, érintetlen homokos strand, amely a Bako Nemzeti Park védett ökoszisztémájában fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        110.487148,
+                        1.726878
+                  ]
+            },
+            {
+                  "name": "Kuil Ching San Yen",
+                  "text": "A Ching San Yen templom egy dombtetőn található buddhista imahely, amely panorámás kilátást nyújt a folyótorkolatra Bako közelében.",
+                  "category": "religious",
+                  "coords": [
+                        110.485001,
+                        1.646269
+                  ]
+            },
+            {
+                  "name": "Pasir Rugon",
+                  "text": "A Pasir Rugon egy elhagyatott partszakasz a Bako Nemzeti Parkban, amelyet sűrű dzsungel vesz körül.",
+                  "category": "recreational",
+                  "coords": [
+                        110.489323,
+                        1.678093
+                  ]
+            },
+            {
+                  "name": "Surau Taman Mesra Bako",
+                  "text": "A Surau Taman Mesra Bako egy kis iszlám imaterem, amely a Bako melletti Taman Mesra lakóit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        110.443545,
+                        1.65625
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Hidayah Kampung Bako",
+                  "text": "A Kampung Bako-i Masjid Al-Hidayah a központi falusi mecset, ahol a helyi muszlim közösség imára gyűlik össze.",
+                  "category": "landmark",
+                  "coords": [
+                        110.429196,
+                        1.66622
+                  ]
+            },
+            {
+                  "name": "Masjid Darul Ikhwan",
+                  "text": "A Masjid Darul Ikhwan egy iszlám imahely, amely a Bako Nemzeti Park környéki muszlim lakosságot szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        110.482525,
+                        1.649687
+                  ]
+            },
+            {
+                  "name": "Masjid Darul Naim KOMTAS Muara Tebas",
+                  "text": "A KOMTAS Muara Tebas-i Masjid Darul Naim egy tengerpart közeli mecset, amely a helyi halászokat és lakosokat szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        110.475824,
+                        1.648534
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tanjung Po Lighthouse",
+                  "text": "Farul Tanjung Po este un turn de navigație maritimă situat pe coasta accidentată din apropierea Parcului Național Bako.",
+                  "category": "landmark",
+                  "coords": [
+                        110.523785,
+                        1.724666
+                  ]
+            },
+            {
+                  "name": "Teluk Kruin",
+                  "text": "Kruin Bay este o plajă de nisip liniștită, situată în peisajul tropical luxuriant al Parcului Național Bako.",
+                  "category": "recreational",
+                  "coords": [
+                        110.517355,
+                        1.730183
+                  ]
+            },
+            {
+                  "name": "Teluk Limau",
+                  "text": "Teluk Limau este un golf de nisip lung și foarte izolat în Parcul Național Bako, accesibil de obicei doar printr-o drumeție solicitantă.",
+                  "category": "recreational",
+                  "coords": [
+                        110.500094,
+                        1.742866
+                  ]
+            },
+            {
+                  "name": "Taman Negara Bako",
+                  "text": "Parcul Național Bako este cel mai vechi parc național din Sarawak, faimos pentru maimuțele sale proboscis și stâncile abrupte de gresie.",
+                  "category": "natural",
+                  "coords": [
+                        110.479455,
+                        1.718614
+                  ]
+            },
+            {
+                  "name": "Teluk Sibur",
+                  "text": "Sibur Bay este o plajă de nisip sălbatică și curată, aflată în ecosistemul protejat al Parcului Național Bako.",
+                  "category": "recreational",
+                  "coords": [
+                        110.487148,
+                        1.726878
+                  ]
+            },
+            {
+                  "name": "Kuil Ching San Yen",
+                  "text": "Templul Ching San Yen este un lăcaș de cult budist situat pe un deal, oferind vedere panoramică asupra estuarului din apropiere de Bako.",
+                  "category": "religious",
+                  "coords": [
+                        110.485001,
+                        1.646269
+                  ]
+            },
+            {
+                  "name": "Pasir Rugon",
+                  "text": "Pasir Rugon este o porțiune de coastă pustie din Parcul Național Bako, înconjurată de junglă deasă.",
+                  "category": "recreational",
+                  "coords": [
+                        110.489323,
+                        1.678093
+                  ]
+            },
+            {
+                  "name": "Surau Taman Mesra Bako",
+                  "text": "Surau Taman Mesra Bako este o mică sală de rugăciune islamică pentru locuitorii așezării Taman Mesra, lângă Bako.",
+                  "category": "landmark",
+                  "coords": [
+                        110.443545,
+                        1.65625
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Hidayah Kampung Bako",
+                  "text": "Masjid Al-Hidayah din Kampung Bako este moscheea centrală a satului, unde comunitatea musulmană locală se adună pentru rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        110.429196,
+                        1.66622
+                  ]
+            },
+            {
+                  "name": "Masjid Darul Ikhwan",
+                  "text": "Masjid Darul Ikhwan este un lăcaș de cult islamic care deservește populația musulmană din zona Parcului Național Bako.",
+                  "category": "landmark",
+                  "coords": [
+                        110.482525,
+                        1.649687
+                  ]
+            },
+            {
+                  "name": "Masjid Darul Naim KOMTAS Muara Tebas",
+                  "text": "Masjid Darul Naim de la KOMTAS Muara Tebas este o moschee aproape de coastă, dedicată pescarilor și locuitorilor locali.",
+                  "category": "landmark",
+                  "coords": [
+                        110.475824,
+                        1.648534
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tanjung Po Lighthouse",
+                  "text": "The Tanjung Po Lighthouse is a maritime navigation beacon positioned on the rugged coastline near Bako National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        110.523785,
+                        1.724666
+                  ]
+            },
+            {
+                  "name": "Kruin Bay",
+                  "text": "Kruin Bay is a peaceful sandy beach situated amidst the lush tropical landscapes of Bako National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        110.517355,
+                        1.730183
+                  ]
+            },
+            {
+                  "name": "Teluk Limau",
+                  "text": "Teluk Limau is a highly secluded, long sandy bay in Bako National Park, usually reached only by a challenging hike.",
+                  "category": "recreational",
+                  "coords": [
+                        110.500094,
+                        1.742866
+                  ]
+            },
+            {
+                  "name": "Bako National Park",
+                  "text": "Bako National Park is Sarawak's oldest national park, globally famous for its rare proboscis monkeys and dramatic sandstone cliffs.",
+                  "category": "natural",
+                  "coords": [
+                        110.479455,
+                        1.718614
+                  ]
+            },
+            {
+                  "name": "Sibur Bay",
+                  "text": "Sibur Bay is a wild, pristine sandy beach located within the protected ecosystem of Bako National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        110.487148,
+                        1.726878
+                  ]
+            },
+            {
+                  "name": "Ching San Yen Temple",
+                  "text": "Ching San Yen Temple is a hilltop Buddhist place of worship offering panoramic views of the river estuary near Bako.",
+                  "category": "religious",
+                  "coords": [
+                        110.485001,
+                        1.646269
+                  ]
+            },
+            {
+                  "name": "Pasir Rugon",
+                  "text": "Pasir Rugon is a lonely stretch of sandy beach in Bako National Park, completely surrounded by dense jungle.",
+                  "category": "recreational",
+                  "coords": [
+                        110.489323,
+                        1.678093
+                  ]
+            },
+            {
+                  "name": "Surau Taman Mesra Bako",
+                  "text": "Surau Taman Mesra Bako is a small Islamic prayer room serving the residents of the Taman Mesra neighborhood near Bako.",
+                  "category": "landmark",
+                  "coords": [
+                        110.443545,
+                        1.65625
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Hidayah Kampung Bako",
+                  "text": "Masjid Al-Hidayah in Kampung Bako is the main village mosque where the local Muslim community gathers for worship.",
+                  "category": "landmark",
+                  "coords": [
+                        110.429196,
+                        1.66622
+                  ]
+            },
+            {
+                  "name": "Masjid Darul Ikhwan",
+                  "text": "Masjid Darul Ikhwan is an Islamic mosque serving the religious needs of the Muslim population in the Bako National Park area.",
+                  "category": "landmark",
+                  "coords": [
+                        110.482525,
+                        1.649687
+                  ]
+            },
+            {
+                  "name": "Masjid Darul Naim KOMTAS Muara Tebas",
+                  "text": "Masjid Darul Naim at KOMTAS Muara Tebas is a coastal mosque catering to local fishermen and residents.",
+                  "category": "landmark",
+                  "coords": [
+                        110.475824,
+                        1.648534
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "MY-13",
     coords: [110.4667, 1.7],
@@ -387,7 +3438,844 @@ export const poiExtraMalaysiaNatureV2: POI[] = [
     }
   },
   {
-    id: "pulau-tioman-nature-v2",
+    id: "pulau-tioman-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Renggis island",
+                  "text": "Direkt vor der Küste von Tioman gelegen, ist dieses kleine unbewohnte Inselchen ein beliebtes Tauchziel, das für seine blühenden Hartkorallenriffe bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        104.135567,
+                        2.80994
+                  ]
+            },
+            {
+                  "name": "Snorkeling Point",
+                  "text": "Dieser markierte Meerespunkt bietet eine hervorragende Unterwassersicht zur Beobachtung farbenfroher Rifffische, die zwischen den flachen Korallen umherhuschen.",
+                  "category": "landmark",
+                  "coords": [
+                        104.159119,
+                        2.843263
+                  ]
+            },
+            {
+                  "name": "Snorkeling Area",
+                  "text": "Diese flache Buchtzone, die vor starken Strömungen geschützt ist, ist ein ausgewiesener sicherer Bereich, um Meeresschildkröten und pulsierendes Meeresleben zu beobachten.",
+                  "category": "landmark",
+                  "coords": [
+                        104.159012,
+                        2.844713
+                  ]
+            },
+            {
+                  "name": "Schnorcheln",
+                  "text": "Dieser beliebte Küstenriffabschnitt ist vom Strand aus leicht zugänglich, so dass Schwimmer schnell Schwärme von tropischen Fischen erreichen können.",
+                  "category": "landmark",
+                  "coords": [
+                        104.156742,
+                        2.848579
+                  ]
+            },
+            {
+                  "name": "Taman Laut Tioman",
+                  "text": "Dieses Meeresparkzentrum dient als pädagogisches Tor zu den aquatischen Ökosystemen der Insel und bietet Ausstellungen zum lokalen Korallenschutz.",
+                  "category": "landmark",
+                  "coords": [
+                        104.160397,
+                        2.833042
+                  ]
+            },
+            {
+                  "name": "Marine Park",
+                  "text": "Mit interaktiven Becken und informativen Ausstellungen konzentriert sich diese Küstenanlage auf den Erhalt und die Präsentation der vielfältigen Meeresfauna der Region.",
+                  "category": "recreational",
+                  "coords": [
+                        104.162643,
+                        2.834149
+                  ]
+            },
+            {
+                  "name": "Gunung Kajang",
+                  "text": "Der Mount Kajang ist ein markanter Berggipfel, der die bewaldete Landschaft von Pulau Tioman dominiert.",
+                  "category": "natural",
+                  "coords": [
+                        104.15357,
+                        2.769685
+                  ]
+            },
+            {
+                  "name": "Nipah Beach Resort",
+                  "text": "Das Nipah Beach Resort bietet tropische Unterkünfte direkt an der sandigen Küste von Pulau Tioman.",
+                  "category": "recreational",
+                  "coords": [
+                        104.132642,
+                        2.739966
+                  ]
+            },
+            {
+                  "name": "Bukit Seperuk",
+                  "text": "Der Bukit Seperuk ist ein Berggipfel, der weite Ausblicke über das dichte Dschungelgebiet von Pulau Tioman bietet.",
+                  "category": "natural",
+                  "coords": [
+                        104.188806,
+                        2.744519
+                  ]
+            },
+            {
+                  "name": "Asah Waterfalls",
+                  "text": "Die Asah-Wasserfälle stürzen über felsige Hänge in natürliche Süßwasserbecken im Dschungel von Pulau Tioman.",
+                  "category": "landmark",
+                  "coords": [
+                        104.192179,
+                        2.725448
+                  ]
+            },
+            {
+                  "name": "Batu Permata",
+                  "text": "Batu Permata bietet als erhöhter Aussichtspunkt einen weiten Blick über die üppig bewaldete Küstenlandschaft von Pulau Tioman.",
+                  "category": "natural",
+                  "coords": [
+                        104.12351,
+                        2.744759
+                  ]
+            },
+            {
+                  "name": "Paintball",
+                  "text": "Diese Paintball-Anlage bietet ein Freizeiterlebnis im Freien, das direkt in die dichte Dschungelumgebung von Pulau Tioman integriert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        104.122048,
+                        2.787834
+                  ]
+            },
+            {
+                  "name": "Tanjung Tomok",
+                  "text": "Das Tomok-Kap ist eine malerische Landspitze, die sich in das klare Wasser vor Pulau Tioman erstreckt.",
+                  "category": "landmark",
+                  "coords": [
+                        104.121361,
+                        2.79178
+                  ]
+            },
+            {
+                  "name": "The Barat",
+                  "text": "The Barat ist ein Strandresort, das von Palmen gesäumte Unterkünfte an der Küste von Pulau Tioman bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        104.204079,
+                        2.783328
+                  ]
+            },
+            {
+                  "name": "Snorkeling",
+                  "text": "Dieser Schnorchelplatz ermöglicht es den Besuchern, die lebhaften Korallenriffe und die Unterwasserwelt in den klaren Gewässern von Pulau Tioman zu erkunden.",
+                  "category": "landmark",
+                  "coords": [
+                        104.204194,
+                        2.788836
+                  ]
+            },
+            {
+                  "name": "Pantai Paya",
+                  "text": "Paya Beach ist ein flacher, von schattigen Bäumen gesäumter Sandstrand an der tropischen Küste von Pulau Tioman.",
+                  "category": "recreational",
+                  "coords": [
+                        104.120834,
+                        2.787168
+                  ]
+            },
+            {
+                  "name": "Taman Laut Tioman",
+                  "text": "Der Tioman Marine Park ist ein Meeresschutzgebiet, das für seine artenreichen Korallenriffe und geschützten Meeresbewohner um die Insel bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        104.096725,
+                        2.836834
+                  ]
+            },
+            {
+                  "name": "Monkey Beach",
+                  "text": "Monkey Beach ist eine abgelegene Sandbucht auf Pulau Tioman, die häufig von einheimischen Makaken besucht wird.",
+                  "category": "recreational",
+                  "coords": [
+                        104.151157,
+                        2.859346
+                  ]
+            },
+            {
+                  "name": "ABC Beach",
+                  "text": "ABC Beach ist ein entspannter Küstenstreifen auf Pulau Tioman, der mit einfachem Sandstrand und rustikalen Unterkünften lockt.",
+                  "category": "recreational",
+                  "coords": [
+                        104.158679,
+                        2.847595
+                  ]
+            },
+            {
+                  "name": "Tunamaya Hotel",
+                  "text": "Das Tunamaya Hotel ist ein Resort, das luxuriöse Strandvillen am tropischen Rand von Pulau Tioman anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        104.152927,
+                        2.720143
+                  ]
+            },
+            {
+                  "name": "Teluk Sri Intan - Turtle Sanctuary",
+                  "text": "Das Teluk Sri Intan ist ein Küstenschutzgebiet auf Pulau Tioman, das sich der Erhaltung nistender Meeresschildkröten widmet.",
+                  "category": "natural",
+                  "coords": [
+                        104.126908,
+                        2.794209
+                  ]
+            },
+            {
+                  "name": "Masjid Juara",
+                  "text": "Die Juara-Moschee dient der islamischen Gemeinschaft mit einem traditionellen Gebetssaal im Küstendorf von Pulau Tioman.",
+                  "category": "landmark",
+                  "coords": [
+                        104.201652,
+                        2.794601
+                  ]
+            },
+            {
+                  "name": "Tekek South Bay",
+                  "text": "Die Tekek South Bay bietet einen leicht zugänglichen, ruhigen Strandabschnitt zum Baden an der Küste von Pulau Tioman.",
+                  "category": "recreational",
+                  "coords": [
+                        104.150303,
+                        2.814531
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Renggis island",
+                  "text": "Közvetlenül Tioman partjainál fekszik ez a lakatlan kis szigetecske, amely virágzó kőkorallzátonyairól ismert népszerű búvár célpont.",
+                  "category": "landmark",
+                  "coords": [
+                        104.135567,
+                        2.80994
+                  ]
+            },
+            {
+                  "name": "Snorkeling Point",
+                  "text": "Ez a kijelölt tengeri hely kiváló víz alatti láthatóságot biztosít a sekély korallok között cikázó színes zátonyhalak megfigyeléséhez.",
+                  "category": "landmark",
+                  "coords": [
+                        104.159119,
+                        2.843263
+                  ]
+            },
+            {
+                  "name": "Snorkeling Area",
+                  "text": "Az erős áramlatoktól védett sekély öbölzóna kijelölt biztonságos terület a tengeri teknősök és a nyüzsgő tengeri élőlények megfigyelésére.",
+                  "category": "landmark",
+                  "coords": [
+                        104.159012,
+                        2.844713
+                  ]
+            },
+            {
+                  "name": "Schnorcheln",
+                  "text": "Ez a népszerű part menti zátonyszakasz a strandról könnyen megközelíthető, így az úszók gyorsan elérhetik a trópusi halrajokat.",
+                  "category": "landmark",
+                  "coords": [
+                        104.156742,
+                        2.848579
+                  ]
+            },
+            {
+                  "name": "Taman Laut Tioman",
+                  "text": "Ez a tengeri park központ a sziget vízi ökoszisztémáinak oktatási kapujaként működik, és a helyi korallok védelméről szóló kiállításokat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        104.160397,
+                        2.833042
+                  ]
+            },
+            {
+                  "name": "Marine Park",
+                  "text": "Az interaktív medencéket és információs kiállításokat bemutató tengerparti létesítmény a régió változatos tengeri élővilágának megőrzésére és bemutatására összpontosít.",
+                  "category": "recreational",
+                  "coords": [
+                        104.162643,
+                        2.834149
+                  ]
+            },
+            {
+                  "name": "Gunung Kajang",
+                  "text": "A Mount Kajang egy jelentős hegycsúcs, amely Pulau Tioman erdős táját uralja.",
+                  "category": "natural",
+                  "coords": [
+                        104.15357,
+                        2.769685
+                  ]
+            },
+            {
+                  "name": "Nipah Beach Resort",
+                  "text": "A Nipah Beach Resort trópusi szállást kínál közvetlenül Pulau Tioman homokos tengerpartján.",
+                  "category": "recreational",
+                  "coords": [
+                        104.132642,
+                        2.739966
+                  ]
+            },
+            {
+                  "name": "Bukit Seperuk",
+                  "text": "A Bukit Seperuk egy hegycsúcs, amely széles kilátást nyújt Pulau Tioman sűrű dzsungelére.",
+                  "category": "natural",
+                  "coords": [
+                        104.188806,
+                        2.744519
+                  ]
+            },
+            {
+                  "name": "Asah Waterfalls",
+                  "text": "Az Asah-vízesés sziklás lejtőkön zuhan le Pulau Tioman dzsungelének természetes édesvizű medencéibe.",
+                  "category": "landmark",
+                  "coords": [
+                        104.192179,
+                        2.725448
+                  ]
+            },
+            {
+                  "name": "Batu Permata",
+                  "text": "A Batu Permata egy magaslati kilátó, ahonnan tágas kilátás nyílik Pulau Tioman buja, erdős tengerparti tájára.",
+                  "category": "natural",
+                  "coords": [
+                        104.12351,
+                        2.744759
+                  ]
+            },
+            {
+                  "name": "Paintball",
+                  "text": "Ez a paintball-pálya egy szabadtéri harci élményt kínál, amely közvetlenül Pulau Tioman sűrű dzsungelkörnyezetébe van beépítve.",
+                  "category": "landmark",
+                  "coords": [
+                        104.122048,
+                        2.787834
+                  ]
+            },
+            {
+                  "name": "Tanjung Tomok",
+                  "text": "A Tomok-fok egy festői földnyelv, amely belenyúlik a Pulau Tioman körüli tiszta tengerbe.",
+                  "category": "landmark",
+                  "coords": [
+                        104.121361,
+                        2.79178
+                  ]
+            },
+            {
+                  "name": "The Barat",
+                  "text": "A The Barat egy tengerparti üdülőhely, amely pálmafákkal szegélyezett szállást kínál Pulau Tioman partján.",
+                  "category": "recreational",
+                  "coords": [
+                        104.204079,
+                        2.783328
+                  ]
+            },
+            {
+                  "name": "Snorkeling",
+                  "text": "Ez a sznorkelező hely lehetővé teszi a látogatók számára, hogy felfedezzék az élénk korallzátonyokat és a tengeri élővilágot Pulau Tioman tiszta vizeiben.",
+                  "category": "landmark",
+                  "coords": [
+                        104.204194,
+                        2.788836
+                  ]
+            },
+            {
+                  "name": "Pantai Paya",
+                  "text": "A Paya Beach egy sekély, árnyékos fákkal szegélyezett homokos strand Pulau Tioman trópusi partján.",
+                  "category": "recreational",
+                  "coords": [
+                        104.120834,
+                        2.787168
+                  ]
+            },
+            {
+                  "name": "Taman Laut Tioman",
+                  "text": "A Tioman Tengeri Park egy tengeri természetvédelmi terület, amely a sziget körüli fajgazdag korallzátonyokról és védett tengeri élőlényekről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        104.096725,
+                        2.836834
+                  ]
+            },
+            {
+                  "name": "Monkey Beach",
+                  "text": "A Monkey Beach egy eldugott homokos öböl Pulau Tiomanon, amelyet gyakran látogatnak a helyi makákók.",
+                  "category": "recreational",
+                  "coords": [
+                        104.151157,
+                        2.859346
+                  ]
+            },
+            {
+                  "name": "ABC Beach",
+                  "text": "Az ABC Beach egy nyugodt partszakasz Pulau Tiomanon, amely egyszerű homokos stranddal és rusztikus szállásokkal vonzza a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        104.158679,
+                        2.847595
+                  ]
+            },
+            {
+                  "name": "Tunamaya Hotel",
+                  "text": "A Tunamaya Hotel egy üdülőhely, amely luxus tengerparti villákat kínál Pulau Tioman trópusi peremén.",
+                  "category": "recreational",
+                  "coords": [
+                        104.152927,
+                        2.720143
+                  ]
+            },
+            {
+                  "name": "Teluk Sri Intan - Turtle Sanctuary",
+                  "text": "A Teluk Sri Intan egy part menti természetvédelmi terület Pulau Tiomanon, amely a fészkelő tengeri teknősök megőrzésének szenteli magát.",
+                  "category": "natural",
+                  "coords": [
+                        104.126908,
+                        2.794209
+                  ]
+            },
+            {
+                  "name": "Masjid Juara",
+                  "text": "A Juara mecset a helyi iszlám közösséget szolgálja egy hagyományos imateremmel Pulau Tioman tengerparti falujában.",
+                  "category": "landmark",
+                  "coords": [
+                        104.201652,
+                        2.794601
+                  ]
+            },
+            {
+                  "name": "Tekek South Bay",
+                  "text": "A Tekek South Bay egy könnyen megközelíthető, nyugodt strandot kínál a fürdőzéshez Pulau Tioman partján.",
+                  "category": "recreational",
+                  "coords": [
+                        104.150303,
+                        2.814531
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Renggis island",
+                  "text": "Chiar în largul coastei Tioman, această mică insuliță nelocuită este o destinație populară de scufundări, cunoscută pentru recifele sale de corali duri.",
+                  "category": "landmark",
+                  "coords": [
+                        104.135567,
+                        2.80994
+                  ]
+            },
+            {
+                  "name": "Snorkeling Point",
+                  "text": "Acest punct marin marcat oferă o vizibilitate subacvatică excelentă pentru observarea peștilor de recif colorați care se mișcă printre coralii puțin adânci.",
+                  "category": "landmark",
+                  "coords": [
+                        104.159119,
+                        2.843263
+                  ]
+            },
+            {
+                  "name": "Snorkeling Area",
+                  "text": "Adăpostită de curenți puternici, această zonă de golf puțin adâncă este o zonă sigură desemnată pentru a observa broaștele țestoase marine și viața marină vibrantă.",
+                  "category": "landmark",
+                  "coords": [
+                        104.159012,
+                        2.844713
+                  ]
+            },
+            {
+                  "name": "Schnorcheln",
+                  "text": "Această secțiune populară de recif de coastă este ușor accesibilă de pe plajă, permițând înotătorilor să ajungă rapid la bancuri de pești tropicali.",
+                  "category": "landmark",
+                  "coords": [
+                        104.156742,
+                        2.848579
+                  ]
+            },
+            {
+                  "name": "Taman Laut Tioman",
+                  "text": "Acest centru al parcului marin acționează ca o poartă educațională către ecosistemele acvatice ale insulei, oferind expoziții privind conservarea coralilor locali.",
+                  "category": "landmark",
+                  "coords": [
+                        104.160397,
+                        2.833042
+                  ]
+            },
+            {
+                  "name": "Marine Park",
+                  "text": "Având piscine interactive și exponate informaționale, această facilitate de coastă se concentrează pe conservarea și prezentarea vieții marine diverse a regiunii.",
+                  "category": "recreational",
+                  "coords": [
+                        104.162643,
+                        2.834149
+                  ]
+            },
+            {
+                  "name": "Gunung Kajang",
+                  "text": "Muntele Kajang este un vârf proeminent care domină peisajul împădurit din Pulau Tioman.",
+                  "category": "natural",
+                  "coords": [
+                        104.15357,
+                        2.769685
+                  ]
+            },
+            {
+                  "name": "Nipah Beach Resort",
+                  "text": "Nipah Beach Resort oferă cazare tropicală chiar pe coasta de nisip din Pulau Tioman.",
+                  "category": "recreational",
+                  "coords": [
+                        104.132642,
+                        2.739966
+                  ]
+            },
+            {
+                  "name": "Bukit Seperuk",
+                  "text": "Bukit Seperuk este un vârf montan care oferă vederi panoramice peste jungla deasă din Pulau Tioman.",
+                  "category": "natural",
+                  "coords": [
+                        104.188806,
+                        2.744519
+                  ]
+            },
+            {
+                  "name": "Asah Waterfalls",
+                  "text": "Cascadele Asah se prăbușesc pe pantele stâncoase în bazine naturale de apă dulce din jungla din Pulau Tioman.",
+                  "category": "landmark",
+                  "coords": [
+                        104.192179,
+                        2.725448
+                  ]
+            },
+            {
+                  "name": "Batu Permata",
+                  "text": "Batu Permata este un punct de belvedere înalt, cu vedere panoramică asupra peisajului de coastă luxuriant împădurit din Pulau Tioman.",
+                  "category": "natural",
+                  "coords": [
+                        104.12351,
+                        2.744759
+                  ]
+            },
+            {
+                  "name": "Paintball",
+                  "text": "Această arenă de paintball oferă o experiență de luptă recreativă în aer liber, amplasată în mediul de junglă densă din Pulau Tioman.",
+                  "category": "landmark",
+                  "coords": [
+                        104.122048,
+                        2.787834
+                  ]
+            },
+            {
+                  "name": "Tanjung Tomok",
+                  "text": "Capul Tomok este un promontoriu pitoresc care se extinde în apele limpezi din jurul Pulau Tioman.",
+                  "category": "landmark",
+                  "coords": [
+                        104.121361,
+                        2.79178
+                  ]
+            },
+            {
+                  "name": "The Barat",
+                  "text": "The Barat este o stațiune balneară care oferă cazare mărginită de palmieri pe coasta Pulau Tioman.",
+                  "category": "recreational",
+                  "coords": [
+                        104.204079,
+                        2.783328
+                  ]
+            },
+            {
+                  "name": "Snorkeling",
+                  "text": "Acest loc de snorkeling le permite vizitatorilor să exploreze recifele de corali vibrante și viața marină în apele limpezi din Pulau Tioman.",
+                  "category": "landmark",
+                  "coords": [
+                        104.204194,
+                        2.788836
+                  ]
+            },
+            {
+                  "name": "Pantai Paya",
+                  "text": "Paya Beach este o plajă cu nisip fin, mărginită de copaci umbroși pe coasta tropicală din Pulau Tioman.",
+                  "category": "recreational",
+                  "coords": [
+                        104.120834,
+                        2.787168
+                  ]
+            },
+            {
+                  "name": "Taman Laut Tioman",
+                  "text": "Parcul Marin Tioman este o rezervație naturală protejată, cunoscută pentru recifele sale de corali pline de viață și fauna marină diversă din jurul insulei.",
+                  "category": "natural",
+                  "coords": [
+                        104.096725,
+                        2.836834
+                  ]
+            },
+            {
+                  "name": "Monkey Beach",
+                  "text": "Monkey Beach este un golf retras cu nisip pe Pulau Tioman, frecventat de populația locală de macaci.",
+                  "category": "recreational",
+                  "coords": [
+                        104.151157,
+                        2.859346
+                  ]
+            },
+            {
+                  "name": "ABC Beach",
+                  "text": "ABC Beach este o porțiune relaxată de coastă din Pulau Tioman, dotată cu o plajă simplă cu nisip și cazări rustice.",
+                  "category": "recreational",
+                  "coords": [
+                        104.158679,
+                        2.847595
+                  ]
+            },
+            {
+                  "name": "Tunamaya Hotel",
+                  "text": "Hotelul Tunamaya este o stațiune care oferă vile luxoase pe plajă la marginea tropicală din Pulau Tioman.",
+                  "category": "recreational",
+                  "coords": [
+                        104.152927,
+                        2.720143
+                  ]
+            },
+            {
+                  "name": "Teluk Sri Intan - Turtle Sanctuary",
+                  "text": "Teluk Sri Intan este o rezervație de coastă din Pulau Tioman dedicată conservării broaștelor țestoase marine care cuibăresc aici.",
+                  "category": "natural",
+                  "coords": [
+                        104.126908,
+                        2.794209
+                  ]
+            },
+            {
+                  "name": "Masjid Juara",
+                  "text": "Moscheea Juara deservește comunitatea islamică locală cu o sală de rugăciune tradițională în satul de coastă din Pulau Tioman.",
+                  "category": "landmark",
+                  "coords": [
+                        104.201652,
+                        2.794601
+                  ]
+            },
+            {
+                  "name": "Tekek South Bay",
+                  "text": "Golful Tekek South oferă o plajă liniștită, ușor accesibilă pentru scăldat pe coasta din Pulau Tioman.",
+                  "category": "recreational",
+                  "coords": [
+                        104.150303,
+                        2.814531
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Renggis island",
+                  "text": "Just off the coast of Tioman, this small uninhabited islet is a popular diving destination known for its thriving hard coral reefs.",
+                  "category": "landmark",
+                  "coords": [
+                        104.135567,
+                        2.80994
+                  ]
+            },
+            {
+                  "name": "Snorkeling Point",
+                  "text": "This marked marine spot offers excellent underwater visibility for observing colorful reef fish darting among the shallow corals.",
+                  "category": "landmark",
+                  "coords": [
+                        104.159119,
+                        2.843263
+                  ]
+            },
+            {
+                  "name": "Snorkeling Area",
+                  "text": "Sheltered from strong currents, this shallow bay zone is a designated safe area for spotting sea turtles and vibrant marine life.",
+                  "category": "landmark",
+                  "coords": [
+                        104.159012,
+                        2.844713
+                  ]
+            },
+            {
+                  "name": "Schnorcheln",
+                  "text": "This popular coastal reef section is easily accessible from the beach, allowing swimmers to quickly reach schools of tropical fish.",
+                  "category": "landmark",
+                  "coords": [
+                        104.156742,
+                        2.848579
+                  ]
+            },
+            {
+                  "name": "Taman Laut Tioman",
+                  "text": "This marine park centre acts as an educational gateway to the island's aquatic ecosystems, offering displays on local coral conservation.",
+                  "category": "landmark",
+                  "coords": [
+                        104.160397,
+                        2.833042
+                  ]
+            },
+            {
+                  "name": "Marine Park",
+                  "text": "Featuring interactive pools and informational exhibits, this coastal facility focuses on preserving and showcasing the region's diverse sea life.",
+                  "category": "recreational",
+                  "coords": [
+                        104.162643,
+                        2.834149
+                  ]
+            },
+            {
+                  "name": "Mount Kajang",
+                  "text": "Mount Kajang is a significant mountain peak dominating the forested landscape of Pulau Tioman.",
+                  "category": "natural",
+                  "coords": [
+                        104.15357,
+                        2.769685
+                  ]
+            },
+            {
+                  "name": "Nipah Beach Resort",
+                  "text": "Nipah Beach Resort provides tropical accommodation directly on the sandy coast of Pulau Tioman.",
+                  "category": "recreational",
+                  "coords": [
+                        104.132642,
+                        2.739966
+                  ]
+            },
+            {
+                  "name": "Bukit Seperuk",
+                  "text": "Bukit Seperuk is a mountain peak offering sweeping views over the dense jungle terrain of Pulau Tioman.",
+                  "category": "natural",
+                  "coords": [
+                        104.188806,
+                        2.744519
+                  ]
+            },
+            {
+                  "name": "Asah Waterfalls",
+                  "text": "Asah Waterfalls cascade over rocky slopes into natural freshwater pools within the jungle of Pulau Tioman.",
+                  "category": "landmark",
+                  "coords": [
+                        104.192179,
+                        2.725448
+                  ]
+            },
+            {
+                  "name": "Batu Permata",
+                  "text": "Batu Permata is an elevated viewpoint offering sweeping vistas over the lushly forested coastal landscape of Pulau Tioman.",
+                  "category": "natural",
+                  "coords": [
+                        104.12351,
+                        2.744759
+                  ]
+            },
+            {
+                  "name": "Paintball",
+                  "text": "This paintball arena offers an outdoor recreational combat experience set within the dense jungle environment of Pulau Tioman.",
+                  "category": "landmark",
+                  "coords": [
+                        104.122048,
+                        2.787834
+                  ]
+            },
+            {
+                  "name": "Tomok Cape",
+                  "text": "Tomok Cape is a scenic headland extending into the clear waters surrounding Pulau Tioman.",
+                  "category": "landmark",
+                  "coords": [
+                        104.121361,
+                        2.79178
+                  ]
+            },
+            {
+                  "name": "The Barat",
+                  "text": "The Barat is a beach resort offering palm-fringed accommodation on the coast of Pulau Tioman.",
+                  "category": "recreational",
+                  "coords": [
+                        104.204079,
+                        2.783328
+                  ]
+            },
+            {
+                  "name": "Snorkeling",
+                  "text": "This snorkeling spot allows visitors to explore vibrant coral reefs and marine life in the clear waters of Pulau Tioman.",
+                  "category": "landmark",
+                  "coords": [
+                        104.204194,
+                        2.788836
+                  ]
+            },
+            {
+                  "name": "Paya Beach",
+                  "text": "Paya Beach is a gentle stretch of sand bordered by shady trees on the tropical coast of Pulau Tioman.",
+                  "category": "recreational",
+                  "coords": [
+                        104.120834,
+                        2.787168
+                  ]
+            },
+            {
+                  "name": "Tioman Marine Park",
+                  "text": "Tioman Marine Park is a protected nature reserve known for its vibrant coral reefs and diverse marine life surrounding the island.",
+                  "category": "natural",
+                  "coords": [
+                        104.096725,
+                        2.836834
+                  ]
+            },
+            {
+                  "name": "Monkey Beach",
+                  "text": "Monkey Beach is a secluded sandy cove on Pulau Tioman, frequently visited by the local macaque population.",
+                  "category": "recreational",
+                  "coords": [
+                        104.151157,
+                        2.859346
+                  ]
+            },
+            {
+                  "name": "ABC Beach",
+                  "text": "ABC Beach is a relaxed stretch of coastline on Pulau Tioman, featuring a simple sandy beach and rustic accommodations.",
+                  "category": "recreational",
+                  "coords": [
+                        104.158679,
+                        2.847595
+                  ]
+            },
+            {
+                  "name": "Tunamaya Hotel",
+                  "text": "Tunamaya Hotel is a resort offering luxurious beachfront villas on the tropical edge of Pulau Tioman.",
+                  "category": "recreational",
+                  "coords": [
+                        104.152927,
+                        2.720143
+                  ]
+            },
+            {
+                  "name": "Teluk Sri Intan - Turtle Sanctuary",
+                  "text": "Teluk Sri Intan is a coastal nature reserve on Pulau Tioman dedicated to the conservation of nesting sea turtles.",
+                  "category": "natural",
+                  "coords": [
+                        104.126908,
+                        2.794209
+                  ]
+            },
+            {
+                  "name": "Juara Mosque",
+                  "text": "Juara Mosque serves the local Islamic community with a traditional prayer hall in the coastal village of Pulau Tioman.",
+                  "category": "landmark",
+                  "coords": [
+                        104.201652,
+                        2.794601
+                  ]
+            },
+            {
+                  "name": "Tekek South Bay",
+                  "text": "Tekek South Bay provides an easily accessible, calm stretch of beach for bathing along the coast of Pulau Tioman.",
+                  "category": "recreational",
+                  "coords": [
+                        104.150303,
+                        2.814531
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "MY-06",
     coords: [104.155, 2.78],
@@ -435,7 +4323,232 @@ export const poiExtraMalaysiaNatureV2: POI[] = [
     }
   },
   {
-    id: "tasik-chini-nature-v2",
+    id: "tasik-chini-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bukit Ketaya",
+                  "text": "Bukit Ketaya ist eine natürliche bergige Erhebung, die malerische Aussichtspunkte über die umliegende Umgebung von Tasik Chini bietet.",
+                  "category": "natural",
+                  "coords": [
+                        102.924203,
+                        3.41344
+                  ]
+            },
+            {
+                  "name": "Bukit Tebakang",
+                  "text": "Bukit Tebakang ist ein rauer Gipfel, der mit tropischem Grün bedeckt ist, in der Nähe des Süßwasserökosystems des Chini-Sees.",
+                  "category": "natural",
+                  "coords": [
+                        102.903654,
+                        3.451737
+                  ]
+            },
+            {
+                  "name": "Bukit Chini",
+                  "text": "Bukit Chini ist ein markanter bewaldeter Gipfel, der bekanntermaßen die ruhigen, lotosgefüllten Gewässer des Chini-Sees überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        102.858592,
+                        3.375713
+                  ]
+            },
+            {
+                  "name": "simpang chini 03 pekan",
+                  "text": "Simpang Chini 03 ist eine markante Kreuzungsattraktion, die Reisende mit der malerischen natürlichen Umgebung der Region Tasik Chini verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        102.956161,
+                        3.366138
+                  ]
+            },
+            {
+                  "name": "masjid chini 03, pekan",
+                  "text": "Die Masjid Chini 03 dient als architektonische islamische Attraktion und als wichtiger Andachtsraum für die Gemeinde am Chini-See.",
+                  "category": "landmark",
+                  "coords": [
+                        102.954668,
+                        3.372029
+                  ]
+            },
+            {
+                  "name": "Masjid Chini 4",
+                  "text": "Diese islamische Kultstätte dient der lokalen muslimischen Gemeinde in der üppigen Umgebung des Tasik Chini-Gebiets.",
+                  "category": "landmark",
+                  "coords": [
+                        102.938976,
+                        3.370424
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bukit Ketaya",
+                  "text": "A Bukit Ketaya egy természetes hegyvidéki magaslat, amely festői kilátókat kínál a környező Tasik Chini vidékre.",
+                  "category": "natural",
+                  "coords": [
+                        102.924203,
+                        3.41344
+                  ]
+            },
+            {
+                  "name": "Bukit Tebakang",
+                  "text": "A Bukit Tebakang egy zord, trópusi növényzettel borított csúcs a Chini-tó édesvízi ökoszisztémájának közelében.",
+                  "category": "natural",
+                  "coords": [
+                        102.903654,
+                        3.451737
+                  ]
+            },
+            {
+                  "name": "Bukit Chini",
+                  "text": "A Bukit Chini egy kiemelkedő erdős csúcs, amely híres a Chini-tó nyugodt, lótuszokkal teli vizére nyíló kilátásáról.",
+                  "category": "natural",
+                  "coords": [
+                        102.858592,
+                        3.375713
+                  ]
+            },
+            {
+                  "name": "simpang chini 03 pekan",
+                  "text": "A Simpang Chini 03 egy jelentős kereszteződési látványosság, amely az utazókat a Tasik Chini környék festői természeti környezetéhez köti.",
+                  "category": "landmark",
+                  "coords": [
+                        102.956161,
+                        3.366138
+                  ]
+            },
+            {
+                  "name": "masjid chini 03, pekan",
+                  "text": "A Masjid Chini 03 építészeti iszlám látványosságként és létfontosságú istentiszteleti helyként szolgál a Chini-tó közössége számára.",
+                  "category": "landmark",
+                  "coords": [
+                        102.954668,
+                        3.372029
+                  ]
+            },
+            {
+                  "name": "Masjid Chini 4",
+                  "text": "Ez az iszlám istentiszteleti hely a helyi muszlim közösséget szolgálja a Tasik Chini terület buja környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        102.938976,
+                        3.370424
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bukit Ketaya",
+                  "text": "Bukit Ketaya este o altitudine muntoasă naturală care oferă puncte de observație pitorești asupra mediului înconjurător din Tasik Chini.",
+                  "category": "natural",
+                  "coords": [
+                        102.924203,
+                        3.41344
+                  ]
+            },
+            {
+                  "name": "Bukit Tebakang",
+                  "text": "Bukit Tebakang se distinge ca un vârf accidentat acoperit de verdeață tropicală aproape de ecosistemul de apă dulce al Lacului Chini.",
+                  "category": "natural",
+                  "coords": [
+                        102.903654,
+                        3.451737
+                  ]
+            },
+            {
+                  "name": "Bukit Chini",
+                  "text": "Bukit Chini este un vârf împădurit proeminent care domină renumitele ape senine, pline de lotuși, ale Lacului Chini.",
+                  "category": "natural",
+                  "coords": [
+                        102.858592,
+                        3.375713
+                  ]
+            },
+            {
+                  "name": "simpang chini 03 pekan",
+                  "text": "Simpang Chini 03 este o atracție notabilă la intersecție care conectează călătorii cu împrejurimile naturale pitorești ale zonei Tasik Chini.",
+                  "category": "landmark",
+                  "coords": [
+                        102.956161,
+                        3.366138
+                  ]
+            },
+            {
+                  "name": "masjid chini 03, pekan",
+                  "text": "Masjid Chini 03 servește ca o atracție islamică arhitecturală și un loc de cult vital pentru comunitatea de lângă Lacul Chini.",
+                  "category": "landmark",
+                  "coords": [
+                        102.954668,
+                        3.372029
+                  ]
+            },
+            {
+                  "name": "Masjid Chini 4",
+                  "text": "Acest lăcaș de cult islamic deservește comunitatea musulmană locală în împrejurimile luxuriante ale zonei Tasik Chini.",
+                  "category": "landmark",
+                  "coords": [
+                        102.938976,
+                        3.370424
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bukit Ketaya",
+                  "text": "Bukit Ketaya is a natural mountainous elevation offering scenic vantage points over the surrounding Tasik Chini environment.",
+                  "category": "natural",
+                  "coords": [
+                        102.924203,
+                        3.41344
+                  ]
+            },
+            {
+                  "name": "Bukit Tebakang",
+                  "text": "Bukit Tebakang stands as a rugged peak covered in tropical greenery close to the freshwater ecosystem of Lake Chini.",
+                  "category": "natural",
+                  "coords": [
+                        102.903654,
+                        3.451737
+                  ]
+            },
+            {
+                  "name": "Bukit Chini",
+                  "text": "Bukit Chini is a prominent forested peak that famously overlooks the serene, lotus-filled waters of Lake Chini.",
+                  "category": "natural",
+                  "coords": [
+                        102.858592,
+                        3.375713
+                  ]
+            },
+            {
+                  "name": "simpang chini 03 pekan",
+                  "text": "Simpang Chini 03 is a notable junction attraction connecting travelers to the scenic natural surroundings of the Tasik Chini area.",
+                  "category": "landmark",
+                  "coords": [
+                        102.956161,
+                        3.366138
+                  ]
+            },
+            {
+                  "name": "masjid chini 03, pekan",
+                  "text": "Masjid Chini 03 serves as an architectural Islamic attraction and a vital place of worship for the Lake Chini community.",
+                  "category": "landmark",
+                  "coords": [
+                        102.954668,
+                        3.372029
+                  ]
+            },
+            {
+                  "name": "Masjid Chini 4",
+                  "text": "This Islamic place of worship serves the local Muslim community in the lush surroundings of the Tasik Chini area.",
+                  "category": "landmark",
+                  "coords": [
+                        102.938976,
+                        3.370424
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "MY-06",
     coords: [102.92, 3.439],
@@ -483,7 +4596,376 @@ export const poiExtraMalaysiaNatureV2: POI[] = [
     }
   },
   {
-    id: "gunung-ledang-national-park-nature-v2",
+    id: "gunung-ledang-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bukit Belading",
+                  "text": "Ein Gipfel im Gunung-Ledang-Massiv, der durch dichten tropischen Regenwald und steiles Gelände geprägt ist.",
+                  "category": "natural",
+                  "coords": [
+                        102.531983,
+                        2.325255
+                  ]
+            },
+            {
+                  "name": "Bukit Reban Kambing",
+                  "text": "Ein Nebengipfel der Gunung-Ledang-Kette, der Ausblicke über die umliegende Wildnis von Johor bietet.",
+                  "category": "natural",
+                  "coords": [
+                        102.541473,
+                        2.334785
+                  ]
+            },
+            {
+                  "name": "Bukit Tukau",
+                  "text": "Ein bewaldeter Hügel inmitten der biologisch vielfältigen Umgebung des Gunung Ledang Nationalparks.",
+                  "category": "natural",
+                  "coords": [
+                        102.542589,
+                        2.323315
+                  ]
+            },
+            {
+                  "name": "Gunung Ledang",
+                  "text": "Mit 1276 Metern ist dies der höchste Gipfel von Johor, um den sich die Legende einer mystischen Prinzessin rankt.",
+                  "category": "natural",
+                  "coords": [
+                        102.607888,
+                        2.373211
+                  ]
+            },
+            {
+                  "name": "Bukit Kupong",
+                  "text": "Ein Gipfel im zerklüfteten Inneren der Region Gunung Ledang, der bei lokalen Wanderern beliebt ist.",
+                  "category": "natural",
+                  "coords": [
+                        102.639577,
+                        2.419449
+                  ]
+            },
+            {
+                  "name": "Bukit Gempa",
+                  "text": "Ein bewaldeter Gipfel im Gunung-Ledang-Gebiet, der zum reichen Gebirgsökosystem der Region beiträgt.",
+                  "category": "natural",
+                  "coords": [
+                        102.666228,
+                        2.429734
+                  ]
+            },
+            {
+                  "name": "Bukit Sengkang",
+                  "text": "Dieser Gipfel ist Teil der bergigen Landschaft im Norden von Johor und von üppiger tropischer Vegetation umgeben.",
+                  "category": "natural",
+                  "coords": [
+                        102.664154,
+                        2.437242
+                  ]
+            },
+            {
+                  "name": "Taman Negara Johor Gunung Ledang",
+                  "text": "Ein Schutzgebiet rund um den Mount Ophir, Heimat seltener Flora und der legendären Prinzessin von Gunung Ledang.",
+                  "category": "natural",
+                  "coords": [
+                        102.61225,
+                        2.37468
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "Eine bescheidene muslimische Gebetshalle, die Besuchern und Mitarbeitern im Parkgebiet von Gunung Ledang dient.",
+                  "category": "landmark",
+                  "coords": [
+                        102.635464,
+                        2.347671
+                  ]
+            },
+            {
+                  "name": "Masjid Kampung Paya Jakas",
+                  "text": "Eine ländliche Moschee, die der lokalen Dorfgemeinschaft am Fuße des Gunung Ledang dient.",
+                  "category": "landmark",
+                  "coords": [
+                        102.673514,
+                        2.423492
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bukit Belading",
+                  "text": "A Gunung Ledang-hegység egyik csúcsa, amelyet sűrű trópusi esőerdő és meredek terep jellemez.",
+                  "category": "natural",
+                  "coords": [
+                        102.531983,
+                        2.325255
+                  ]
+            },
+            {
+                  "name": "Bukit Reban Kambing",
+                  "text": "A Gunung Ledang-hegység egyik mellékcsúcsa, ahonnan kilátás nyílik Johor környező vadonjára.",
+                  "category": "natural",
+                  "coords": [
+                        102.541473,
+                        2.334785
+                  ]
+            },
+            {
+                  "name": "Bukit Tukau",
+                  "text": "Erdős domb a Gunung Ledang Nemzeti Park biológiailag sokszínű környezetében.",
+                  "category": "natural",
+                  "coords": [
+                        102.542589,
+                        2.323315
+                  ]
+            },
+            {
+                  "name": "Gunung Ledang",
+                  "text": "1276 méteres magasságával ez Johor legmagasabb csúcsa, amelyhez egy titokzatos hercegnő legendája fűződik.",
+                  "category": "natural",
+                  "coords": [
+                        102.607888,
+                        2.373211
+                  ]
+            },
+            {
+                  "name": "Bukit Kupong",
+                  "text": "A Gunung Ledang régió vadregényes belső részén található csúcs, amely népszerű a helyi túrázók körében.",
+                  "category": "natural",
+                  "coords": [
+                        102.639577,
+                        2.419449
+                  ]
+            },
+            {
+                  "name": "Bukit Gempa",
+                  "text": "Erdős hegycsúcs a Gunung Ledang területén, amely gazdagítja a régió hegyi ökoszisztémáját.",
+                  "category": "natural",
+                  "coords": [
+                        102.666228,
+                        2.429734
+                  ]
+            },
+            {
+                  "name": "Bukit Sengkang",
+                  "text": "Johor északi hegyvidéki tájának része, amelyet dús trópusi növényzet vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        102.664154,
+                        2.437242
+                  ]
+            },
+            {
+                  "name": "Taman Negara Johor Gunung Ledang",
+                  "text": "Az Ophir-hegy körüli védett terület, amely ritka növényeknek és Gunung Ledang legendás hercegnőjének ad otthont.",
+                  "category": "natural",
+                  "coords": [
+                        102.61225,
+                        2.37468
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "Mérsékelt iszlám imaház, amely a Gunung Ledang park területén a látogatókat és a személyzetet szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        102.635464,
+                        2.347671
+                  ]
+            },
+            {
+                  "name": "Masjid Kampung Paya Jakas",
+                  "text": "Vidéki mecset, amely a Gunung Ledang lábánál található falu közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        102.673514,
+                        2.423492
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bukit Belading",
+                  "text": "Un vârf din masivul Gunung Ledang, caracterizat prin pădure tropicală densă și teren abrupt.",
+                  "category": "natural",
+                  "coords": [
+                        102.531983,
+                        2.325255
+                  ]
+            },
+            {
+                  "name": "Bukit Reban Kambing",
+                  "text": "Un vârf secundar al lanțului Gunung Ledang, oferind priveliști asupra sălbăticiei înconjurătoare din Johor.",
+                  "category": "natural",
+                  "coords": [
+                        102.541473,
+                        2.334785
+                  ]
+            },
+            {
+                  "name": "Bukit Tukau",
+                  "text": "Un deal împădurit situat în mediul bogat în biodiversitate al Parcului Național Gunung Ledang.",
+                  "category": "natural",
+                  "coords": [
+                        102.542589,
+                        2.323315
+                  ]
+            },
+            {
+                  "name": "Gunung Ledang",
+                  "text": "Cu o înălțime de 1.276 de metri, acesta este cel mai înalt vârf din Johor, fiind legat de legenda unei prințese mistice.",
+                  "category": "natural",
+                  "coords": [
+                        102.607888,
+                        2.373211
+                  ]
+            },
+            {
+                  "name": "Bukit Kupong",
+                  "text": "Un vârf în interiorul accidentat al regiunii Gunung Ledang, popular printre excursioniștii locali.",
+                  "category": "natural",
+                  "coords": [
+                        102.639577,
+                        2.419449
+                  ]
+            },
+            {
+                  "name": "Bukit Gempa",
+                  "text": "Un vârf împădurit din zona Gunung Ledang, contribuind la bogatul ecosistem montan al regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        102.666228,
+                        2.429734
+                  ]
+            },
+            {
+                  "name": "Bukit Sengkang",
+                  "text": "Parte a terenului muntos din nordul statului Johor, acest vârf este înconjurat de o vegetație tropicală luxuriantă.",
+                  "category": "natural",
+                  "coords": [
+                        102.664154,
+                        2.437242
+                  ]
+            },
+            {
+                  "name": "Taman Negara Johor Gunung Ledang",
+                  "text": "O zonă protejată centrată pe Muntele Ophir, adăpostind floră rară și pe legendara „Puteri Gunung Ledang”.",
+                  "category": "natural",
+                  "coords": [
+                        102.61225,
+                        2.37468
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "O sală de rugăciune musulmană modestă, care deservește vizitatorii și personalul din zona parcului Gunung Ledang.",
+                  "category": "landmark",
+                  "coords": [
+                        102.635464,
+                        2.347671
+                  ]
+            },
+            {
+                  "name": "Masjid Kampung Paya Jakas",
+                  "text": "O moschee rurală care deservește comunitatea locală de la baza muntelui Gunung Ledang.",
+                  "category": "landmark",
+                  "coords": [
+                        102.673514,
+                        2.423492
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bukit Belading",
+                  "text": "A peak within the Gunung Ledang massif, characterized by dense tropical rainforest and steep terrain.",
+                  "category": "natural",
+                  "coords": [
+                        102.531983,
+                        2.325255
+                  ]
+            },
+            {
+                  "name": "Bukit Reban Kambing",
+                  "text": "A subsidiary peak of the Gunung Ledang range offering views over the surrounding Johor wilderness.",
+                  "category": "natural",
+                  "coords": [
+                        102.541473,
+                        2.334785
+                  ]
+            },
+            {
+                  "name": "Bukit Tukau",
+                  "text": "A forested hill located within the biologically diverse environment of the Gunung Ledang National Park.",
+                  "category": "natural",
+                  "coords": [
+                        102.542589,
+                        2.323315
+                  ]
+            },
+            {
+                  "name": "Mount Ophir",
+                  "text": "At 1,276 metres, this is Johor's highest peak and is steeped in the legend of a mystical princess.",
+                  "category": "natural",
+                  "coords": [
+                        102.607888,
+                        2.373211
+                  ]
+            },
+            {
+                  "name": "Bukit Kupong",
+                  "text": "A peak in the rugged interior of the Gunung Ledang region, popular among local trekkers.",
+                  "category": "natural",
+                  "coords": [
+                        102.639577,
+                        2.419449
+                  ]
+            },
+            {
+                  "name": "Bukit Gempa",
+                  "text": "A forested summit in the Gunung Ledang area, contributing to the region's rich mountain ecosystem.",
+                  "category": "natural",
+                  "coords": [
+                        102.666228,
+                        2.429734
+                  ]
+            },
+            {
+                  "name": "Bukit Sengkang",
+                  "text": "Part of the mountainous terrain of northern Johor, this peak is surrounded by lush tropical vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        102.664154,
+                        2.437242
+                  ]
+            },
+            {
+                  "name": "Gunung Ledang Johor National Park",
+                  "text": "A protected area centered on Mount Ophir, home to rare flora and the legendary Puteri Gunung Ledang.",
+                  "category": "natural",
+                  "coords": [
+                        102.61225,
+                        2.37468
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "A modest Muslim prayer hall serving visitors and staff within the Gunung Ledang park area.",
+                  "category": "landmark",
+                  "coords": [
+                        102.635464,
+                        2.347671
+                  ]
+            },
+            {
+                  "name": "Masjid Kampung Paya Jakas",
+                  "text": "A rural mosque serving the local village community near the base of Gunung Ledang.",
+                  "category": "landmark",
+                  "coords": [
+                        102.673514,
+                        2.423492
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "MY-01",
     coords: [102.61, 2.37],
@@ -531,7 +5013,844 @@ export const poiExtraMalaysiaNatureV2: POI[] = [
     }
   },
   {
-    id: "perhentian-islands-nature-v2",
+    id: "perhentian-islands-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Villamas Perhentian Resort",
+                  "text": "Ein tropischer Inselurlaubsort mit Holzchalets direkt am unberührten Strand der Perhentians.",
+                  "category": "landmark",
+                  "coords": [
+                        102.722065,
+                        5.895276
+                  ]
+            },
+            {
+                  "name": "Sea Bell Rock",
+                  "text": "Eine maritime Felsformation, die aus dem Meer ragt und als Leuchtfeuer für lokale Bootsfahrer um die Inseln dient.",
+                  "category": "landmark",
+                  "coords": [
+                        102.709747,
+                        5.910085
+                  ]
+            },
+            {
+                  "name": "Beautiful Terengganu",
+                  "text": "Ein Ausstellungs- und Galerieraum, der der natürlichen Küstenschönheit und dem Meeresleben der Region gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        102.717759,
+                        5.917789
+                  ]
+            },
+            {
+                  "name": "San Choi Wreck",
+                  "text": "Ein Unterwasser-Schiffswrack vor der Küste der Perhentians, das sich in ein lebhaftes künstliches Riff für Sporttaucher verwandelt hat.",
+                  "category": "landmark",
+                  "coords": [
+                        102.715836,
+                        5.933905
+                  ]
+            },
+            {
+                  "name": "Turtles",
+                  "text": "Ein an der Küste gelegenes Denkmal, das den Meeresschildkröten gewidmet ist, die an den Ufern der Perhentian-Inseln nisten.",
+                  "category": "historical",
+                  "coords": [
+                        102.731729,
+                        5.89984
+                  ]
+            },
+            {
+                  "name": "K.K Bay",
+                  "text": "Eine malerische Bucht an der Küste der Perhentians, die für ihr ruhiges, bemerkenswert klares Wasser zum flachen Schnorcheln bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        102.741374,
+                        5.885122
+                  ]
+            },
+            {
+                  "name": "Pasir Panjang",
+                  "text": "Ein berühmter, lebhafter Streifen aus unberührtem weißen Sand auf den Perhentian-Inseln, bekannt für seine belebten Strandbars.",
+                  "category": "recreational",
+                  "coords": [
+                        102.722381,
+                        5.919105
+                  ]
+            },
+            {
+                  "name": "Turtle Beach",
+                  "text": "Eine geschützte, ruhige Sandbucht auf den Perhentians, die als wichtiger Nistplatz für gefährdete grüne Meeresschildkröten dient.",
+                  "category": "recreational",
+                  "coords": [
+                        102.720482,
+                        5.937535
+                  ]
+            },
+            {
+                  "name": "Acing Beach",
+                  "text": "Ein ruhiger tropischer Küstenabschnitt, umrahmt von üppigem Grün, der einen friedlichen Rückzugsort zum Schwimmen und Sonnenbaden bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        102.718919,
+                        5.932062
+                  ]
+            },
+            {
+                  "name": "Pasir Keranji",
+                  "text": "Diese benachbarten abgelegenen Sandstrände werden von dichtem Dschungel gesäumt und sind nur über einen kleinen Waldpfad oder per Boot erreichbar.",
+                  "category": "recreational",
+                  "coords": [
+                        102.715162,
+                        5.899438
+                  ]
+            },
+            {
+                  "name": "Pasir Karang",
+                  "text": "Ein einzigartiger Sandstreifen, an dem das dichte tropische Regenwalddach auf dramatische Weise auf das klare blaue Meer trifft.",
+                  "category": "recreational",
+                  "coords": [
+                        102.715388,
+                        5.90225
+                  ]
+            },
+            {
+                  "name": "Pantai Petani",
+                  "text": "Ein ruhiger Küstenort auf den Perhentian-Inseln mit außergewöhnlich ruhigem Wasser, das ideal zum entspannten Waten ist.",
+                  "category": "recreational",
+                  "coords": [
+                        102.721013,
+                        5.895187
+                  ]
+            },
+            {
+                  "name": "Pasir Teluk Aur",
+                  "text": "Ein entspannter Inselstrand, berühmt für seine atemberaubenden goldenen Sonnenuntergänge und leicht zugänglichen flachen Korallengärten.",
+                  "category": "recreational",
+                  "coords": [
+                        102.716927,
+                        5.913265
+                  ]
+            },
+            {
+                  "name": "Golden Sand Beach",
+                  "text": "Eine atemberaubende tropische Küste, benannt nach ihrem warmen, goldfarbenen Sand, der hell mit der türkisfarbenen Bucht kontrastiert.",
+                  "category": "recreational",
+                  "coords": [
+                        102.71642,
+                        5.916678
+                  ]
+            },
+            {
+                  "name": "Tranquility Beach",
+                  "text": "Ein ruhiger Sandstrand an der tropischen Küste der Perhentian-Inseln.",
+                  "category": "recreational",
+                  "coords": [
+                        102.716471,
+                        5.919334
+                  ]
+            },
+            {
+                  "name": "Romantic Beach",
+                  "text": "Ein malerischer tropischer Strand auf den Perhentian-Inseln, bekannt für sein klares Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        102.717146,
+                        5.92301
+                  ]
+            },
+            {
+                  "name": "Adam and Eve Beach",
+                  "text": "Ein unberührter Sandstrand, der sich an die Küste der Perhentian-Inseln schmiegt.",
+                  "category": "recreational",
+                  "coords": [
+                        102.718646,
+                        5.934312
+                  ]
+            },
+            {
+                  "name": "D'Lagoon",
+                  "text": "Eine geschützte Strandbucht mit ruhigem Wasser und Sandstrand auf den Perhentian-Inseln.",
+                  "category": "recreational",
+                  "coords": [
+                        102.722913,
+                        5.933883
+                  ]
+            },
+            {
+                  "name": "PIR Beach",
+                  "text": "Ein breiter Sandstrand, der zu einer Resortanlage auf den Perhentian-Inseln gehört.",
+                  "category": "recreational",
+                  "coords": [
+                        102.743015,
+                        5.903268
+                  ]
+            },
+            {
+                  "name": "Tuna Bay",
+                  "text": "Eine lebhafte Strandbucht auf den Perhentian-Inseln mit klarem Wasser, ideal zur Meeresbeobachtung.",
+                  "category": "recreational",
+                  "coords": [
+                        102.738742,
+                        5.893106
+                  ]
+            },
+            {
+                  "name": "Flora Bay Beach",
+                  "text": "Ein weitläufiger Sandstrand, umrahmt von üppiger tropischer Vegetation auf den Perhentian-Inseln.",
+                  "category": "recreational",
+                  "coords": [
+                        102.749964,
+                        5.893295
+                  ]
+            },
+            {
+                  "name": "Bubbles Beach",
+                  "text": "Ein ruhiger Sandstrand, der einen friedlichen Rückzugsort auf den Perhentian-Inseln bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        102.765439,
+                        5.886979
+                  ]
+            },
+            {
+                  "name": "Masjid Ar Rahman Pulau Perhentian",
+                  "text": "Eine bescheidene lokale muslimische Moschee, die der Inselgemeinschaft der Perhentian-Inseln als Gebetsstätte dient.",
+                  "category": "landmark",
+                  "coords": [
+                        102.731045,
+                        5.898549
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Villamas Perhentian Resort",
+                  "text": "Egy trópusi szigeti menedékhely, amely fa faházakat kínál a Perhentian-szigetek érintetlen strandja mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        102.722065,
+                        5.895276
+                  ]
+            },
+            {
+                  "name": "Sea Bell Rock",
+                  "text": "A tengerből kiemelkedő tengeri navigációs sziklaképződmény, amely jelzőfényként szolgál a helyi hajósok számára a szigetek körül.",
+                  "category": "landmark",
+                  "coords": [
+                        102.709747,
+                        5.910085
+                  ]
+            },
+            {
+                  "name": "Beautiful Terengganu",
+                  "text": "Egy kiállítási és galériatér, amelyet a régió tengerparti természeti szépségének és tengeri élővilágának bemutatására szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        102.717759,
+                        5.917789
+                  ]
+            },
+            {
+                  "name": "San Choi Wreck",
+                  "text": "Egy víz alatti hajóroncs a Perhentian-partoknál, amely élénk mesterséges zátonnyá alakult a búvárok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        102.715836,
+                        5.933905
+                  ]
+            },
+            {
+                  "name": "Turtles",
+                  "text": "A Perhentian-szigetek partjain fészkelő tengeri teknősöknek szentelt tengerparti emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        102.731729,
+                        5.89984
+                  ]
+            },
+            {
+                  "name": "K.K Bay",
+                  "text": "Festői öböl a Perhentian-parton, amelyet nyugodt, rendkívül tiszta vizei miatt ünnepelnek, és tökéletes a sekély vizű sznorkelezéshez.",
+                  "category": "landmark",
+                  "coords": [
+                        102.741374,
+                        5.885122
+                  ]
+            },
+            {
+                  "name": "Pasir Panjang",
+                  "text": "A Perhentian-szigetek híresen élénk, érintetlen fehér homokos partja, amely nyüzsgő tengerparti bárjairól ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        102.722381,
+                        5.919105
+                  ]
+            },
+            {
+                  "name": "Turtle Beach",
+                  "text": "Egy védett, csendes homokos öböl a Perhentian-szigeteken, amely létfontosságú fészkelőhelye a veszélyeztetett zöld tengeri teknősöknek.",
+                  "category": "recreational",
+                  "coords": [
+                        102.720482,
+                        5.937535
+                  ]
+            },
+            {
+                  "name": "Acing Beach",
+                  "text": "Egy buja zöldnövényzettel övezett trópusi partvidék, amely békés menedéket nyújt az úszáshoz és napozáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        102.718919,
+                        5.932062
+                  ]
+            },
+            {
+                  "name": "Pasir Keranji",
+                  "text": "Ezek a szomszédos, eldugott homokos strandok mögött sűrű dzsungel található, és csak egy kis erdei ösvényen vagy csónakkal közelíthetők meg.",
+                  "category": "recreational",
+                  "coords": [
+                        102.715162,
+                        5.899438
+                  ]
+            },
+            {
+                  "name": "Pasir Karang",
+                  "text": "Egy egyedülálló homoksáv, ahol a sűrű trópusi esőerdő lombkoronája drámaian találkozik a tiszta kék tenger szélével.",
+                  "category": "recreational",
+                  "coords": [
+                        102.715388,
+                        5.90225
+                  ]
+            },
+            {
+                  "name": "Pantai Petani",
+                  "text": "Egy nyugodt tengerparti menedék a Perhentian-szigeteken, amely kivételesen nyugodt vizekkel büszkélkedhet, melyek ideálisak a pihentető gázoláshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        102.721013,
+                        5.895187
+                  ]
+            },
+            {
+                  "name": "Pasir Teluk Aur",
+                  "text": "Egy laza szigeti strand, amely lélegzetelállító arany naplementéiről és könnyen megközelíthető sekély korallkertjeiről híres.",
+                  "category": "recreational",
+                  "coords": [
+                        102.716927,
+                        5.913265
+                  ]
+            },
+            {
+                  "name": "Golden Sand Beach",
+                  "text": "Lenyűgöző trópusi partvidék, amelyet a meleg, aranyszínű homokjáról neveztek el, amely élénken kontrasztban áll a türkizkék öböllel.",
+                  "category": "recreational",
+                  "coords": [
+                        102.71642,
+                        5.916678
+                  ]
+            },
+            {
+                  "name": "Tranquility Beach",
+                  "text": "Egy nyugodt homokos partszakasz a Perhentian-szigetek trópusi tengerpartján.",
+                  "category": "recreational",
+                  "coords": [
+                        102.716471,
+                        5.919334
+                  ]
+            },
+            {
+                  "name": "Romantic Beach",
+                  "text": "Egy festői trópusi strand a Perhentian-szigeteken, amely tiszta vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        102.717146,
+                        5.92301
+                  ]
+            },
+            {
+                  "name": "Adam and Eve Beach",
+                  "text": "Egy érintetlen homokos part a Perhentian-szigetek partvonala mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        102.718646,
+                        5.934312
+                  ]
+            },
+            {
+                  "name": "D'Lagoon",
+                  "text": "Egy védett tengeröböl, amely nyugodt vizet és homokos partot kínál a Perhentian-szigeteken.",
+                  "category": "recreational",
+                  "coords": [
+                        102.722913,
+                        5.933883
+                  ]
+            },
+            {
+                  "name": "PIR Beach",
+                  "text": "Széles homokos tengerpart, amely egy üdülőhelyhez kapcsolódik a Perhentian-szigeteken.",
+                  "category": "recreational",
+                  "coords": [
+                        102.743015,
+                        5.903268
+                  ]
+            },
+            {
+                  "name": "Tuna Bay",
+                  "text": "Egy nyüzsgő öböl a Perhentian-szigeteken, melynek tiszta vize ideális a tengeri élővilág megfigyelésére.",
+                  "category": "recreational",
+                  "coords": [
+                        102.738742,
+                        5.893106
+                  ]
+            },
+            {
+                  "name": "Flora Bay Beach",
+                  "text": "Egy széles homokos strand, melyet buja trópusi növényzet övez a Perhentian-szigeteken.",
+                  "category": "recreational",
+                  "coords": [
+                        102.749964,
+                        5.893295
+                  ]
+            },
+            {
+                  "name": "Bubbles Beach",
+                  "text": "Egy csendes homokos partszakasz, amely nyugodt menedéket nyújt a Perhentian-szigeteken.",
+                  "category": "recreational",
+                  "coords": [
+                        102.765439,
+                        5.886979
+                  ]
+            },
+            {
+                  "name": "Masjid Ar Rahman Pulau Perhentian",
+                  "text": "Egy szerény helyi muszlim mecset, amely a Perhentian-szigetek közösségének istentiszteleti helye.",
+                  "category": "landmark",
+                  "coords": [
+                        102.731045,
+                        5.898549
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Villamas Perhentian Resort",
+                  "text": "O escapadă pe o insulă tropicală cu cabane din lemn așezate chiar de-a lungul plajei imaculate din Perhentian.",
+                  "category": "landmark",
+                  "coords": [
+                        102.722065,
+                        5.895276
+                  ]
+            },
+            {
+                  "name": "Sea Bell Rock",
+                  "text": "O formațiune stâncoasă de navigație maritimă care iese din mare, servind ca far pentru navigatorii locali în jurul insulelor.",
+                  "category": "landmark",
+                  "coords": [
+                        102.709747,
+                        5.910085
+                  ]
+            },
+            {
+                  "name": "Beautiful Terengganu",
+                  "text": "O expoziție și un spațiu de galerie dedicate prezentării frumuseții naturale de coastă și vieții marine a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        102.717759,
+                        5.917789
+                  ]
+            },
+            {
+                  "name": "San Choi Wreck",
+                  "text": "O epavă scufundată în largul coastei Perhentian, care s-a transformat într-un recif artificial vibrant pentru scafandri.",
+                  "category": "landmark",
+                  "coords": [
+                        102.715836,
+                        5.933905
+                  ]
+            },
+            {
+                  "name": "Turtles",
+                  "text": "Un monument comemorativ de coastă dedicat țestoaselor marine care cuibăresc pe țărmurile Insulelor Perhentian.",
+                  "category": "historical",
+                  "coords": [
+                        102.731729,
+                        5.89984
+                  ]
+            },
+            {
+                  "name": "K.K Bay",
+                  "text": "Un golf pitoresc pe coasta Perhentian, celebru pentru apele sale calme și remarcabil de limpezi, perfecte pentru snorkeling la adâncime mică.",
+                  "category": "landmark",
+                  "coords": [
+                        102.741374,
+                        5.885122
+                  ]
+            },
+            {
+                  "name": "Pasir Panjang",
+                  "text": "O porțiune faimos de vibrantă de nisip alb imaculat în Insulele Perhentian, cunoscută pentru barurile sale aglomerate de pe plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        102.722381,
+                        5.919105
+                  ]
+            },
+            {
+                  "name": "Turtle Beach",
+                  "text": "Un golf cu nisip protejat și liniștit din Perhentian, care servește drept loc vital de cuibărit pentru țestoasele marine verzi pe cale de dispariție.",
+                  "category": "recreational",
+                  "coords": [
+                        102.720482,
+                        5.937535
+                  ]
+            },
+            {
+                  "name": "Acing Beach",
+                  "text": "O coastă tropicală liniștită, încadrată de verdeață luxuriantă, oferind o evadare pașnică pentru înot și plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        102.718919,
+                        5.932062
+                  ]
+            },
+            {
+                  "name": "Pasir Keranji",
+                  "text": "Aceste plaje adiacente cu nisip izolat sunt susținute de junglă deasă, accesibile doar printr-o mică potecă prin pădure sau cu barca.",
+                  "category": "recreational",
+                  "coords": [
+                        102.715162,
+                        5.899438
+                  ]
+            },
+            {
+                  "name": "Pasir Karang",
+                  "text": "O fâșie unică de nisip unde coronamentul dens al pădurii tropicale se întâlnește dramatic cu marginea mării albastre și clare.",
+                  "category": "recreational",
+                  "coords": [
+                        102.715388,
+                        5.90225
+                  ]
+            },
+            {
+                  "name": "Pantai Petani",
+                  "text": "Un paradis de coastă senin pe Insulele Perhentian, cu ape excepțional de calme, ideale pentru o plimbare relaxată prin apă.",
+                  "category": "recreational",
+                  "coords": [
+                        102.721013,
+                        5.895187
+                  ]
+            },
+            {
+                  "name": "Pasir Teluk Aur",
+                  "text": "O plajă insulară relaxată, renumită pentru apusurile de soare aurii uluitoare și grădinile de corali de mică adâncime, ușor accesibile.",
+                  "category": "recreational",
+                  "coords": [
+                        102.716927,
+                        5.913265
+                  ]
+            },
+            {
+                  "name": "Golden Sand Beach",
+                  "text": "O coastă tropicală uimitoare, numită pentru nisipurile sale calde, cu nuanțe aurii, care contrastează puternic cu golful turcoaz.",
+                  "category": "recreational",
+                  "coords": [
+                        102.71642,
+                        5.916678
+                  ]
+            },
+            {
+                  "name": "Tranquility Beach",
+                  "text": "O întindere de nisip liniștită situată pe coasta tropicală a Insulelor Perhentian.",
+                  "category": "recreational",
+                  "coords": [
+                        102.716471,
+                        5.919334
+                  ]
+            },
+            {
+                  "name": "Romantic Beach",
+                  "text": "O plajă tropicală pitorească din Insulele Perhentian, remarcabilă pentru apele sale limpezi.",
+                  "category": "recreational",
+                  "coords": [
+                        102.717146,
+                        5.92301
+                  ]
+            },
+            {
+                  "name": "Adam and Eve Beach",
+                  "text": "O coastă de nisip virgină cuibărită de-a lungul marginii Insulelor Perhentian.",
+                  "category": "recreational",
+                  "coords": [
+                        102.718646,
+                        5.934312
+                  ]
+            },
+            {
+                  "name": "D'Lagoon",
+                  "text": "Un golf de plajă adăpostit care oferă ape calme și o coastă de nisip în Insulele Perhentian.",
+                  "category": "recreational",
+                  "coords": [
+                        102.722913,
+                        5.933883
+                  ]
+            },
+            {
+                  "name": "PIR Beach",
+                  "text": "O întindere largă de coastă cu nisip, asociată cu o stațiune din Insulele Perhentian.",
+                  "category": "recreational",
+                  "coords": [
+                        102.743015,
+                        5.903268
+                  ]
+            },
+            {
+                  "name": "Tuna Bay",
+                  "text": "Un golf plin de viață pe Insulele Perhentian, cu ape limpezi ideale pentru observarea vieții marine.",
+                  "category": "recreational",
+                  "coords": [
+                        102.738742,
+                        5.893106
+                  ]
+            },
+            {
+                  "name": "Flora Bay Beach",
+                  "text": "O plajă de nisip întinsă, înconjurată de vegetație tropicală luxuriantă pe Insulele Perhentian.",
+                  "category": "recreational",
+                  "coords": [
+                        102.749964,
+                        5.893295
+                  ]
+            },
+            {
+                  "name": "Bubbles Beach",
+                  "text": "O zonă de coastă cu nisip liniștită, ascunsă pentru o retragere liniștită pe Insulele Perhentian.",
+                  "category": "recreational",
+                  "coords": [
+                        102.765439,
+                        5.886979
+                  ]
+            },
+            {
+                  "name": "Masjid Ar Rahman Pulau Perhentian",
+                  "text": "O modestă moschee musulmană locală, care servește drept lăcaș de cult pentru comunitatea insulară din Insulele Perhentian.",
+                  "category": "landmark",
+                  "coords": [
+                        102.731045,
+                        5.898549
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Villamas Perhentian Resort",
+                  "text": "A tropical island getaway featuring wooden chalets nestled right along the pristine beach of the Perhentians.",
+                  "category": "landmark",
+                  "coords": [
+                        102.722065,
+                        5.895276
+                  ]
+            },
+            {
+                  "name": "Sea Bell Rock",
+                  "text": "A maritime navigational rock formation jutting out of the sea, serving as a beacon for local boaters around the islands.",
+                  "category": "landmark",
+                  "coords": [
+                        102.709747,
+                        5.910085
+                  ]
+            },
+            {
+                  "name": "Beautiful Terengganu",
+                  "text": "An exhibition and gallery space dedicated to showcasing the natural coastal beauty and marine life of the region.",
+                  "category": "museum",
+                  "coords": [
+                        102.717759,
+                        5.917789
+                  ]
+            },
+            {
+                  "name": "San Choi Wreck",
+                  "text": "An underwater shipwreck lying off the Perhentian coast that has transformed into a vibrant artificial reef for scuba divers.",
+                  "category": "landmark",
+                  "coords": [
+                        102.715836,
+                        5.933905
+                  ]
+            },
+            {
+                  "name": "Turtles",
+                  "text": "A commemorative coastal monument dedicated to the sea turtles that critically nest on the shores of the Perhentian Islands.",
+                  "category": "historical",
+                  "coords": [
+                        102.731729,
+                        5.89984
+                  ]
+            },
+            {
+                  "name": "K.K Bay",
+                  "text": "A picturesque inlet on the Perhentian coast celebrated for its calm, remarkably clear waters perfect for shallow snorkeling.",
+                  "category": "landmark",
+                  "coords": [
+                        102.741374,
+                        5.885122
+                  ]
+            },
+            {
+                  "name": "Long Beach",
+                  "text": "A famously vibrant stretch of pristine white sand in the Perhentian Islands known for its bustling beach bars and lively atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        102.722381,
+                        5.919105
+                  ]
+            },
+            {
+                  "name": "Turtle Beach",
+                  "text": "A protected, quiet sandy cove in the Perhentians that serves as a vital nesting ground for endangered green sea turtles.",
+                  "category": "recreational",
+                  "coords": [
+                        102.720482,
+                        5.937535
+                  ]
+            },
+            {
+                  "name": "Acing Beach",
+                  "text": "A tranquil tropical shoreline framed by lush greenery, providing a peaceful escape for swimming and sunbathing.",
+                  "category": "recreational",
+                  "coords": [
+                        102.718919,
+                        5.932062
+                  ]
+            },
+            {
+                  "name": "Mira Beach;Keranji Beach",
+                  "text": "These adjacent secluded sandy beaches are backed by thick jungle, accessible only by a small forest trail or boat.",
+                  "category": "recreational",
+                  "coords": [
+                        102.715162,
+                        5.899438
+                  ]
+            },
+            {
+                  "name": "Rainforest Beach",
+                  "text": "A unique strip of sand where the dense tropical rainforest canopy dramatically meets the edge of the clear blue sea.",
+                  "category": "recreational",
+                  "coords": [
+                        102.715388,
+                        5.90225
+                  ]
+            },
+            {
+                  "name": "Petani Beach",
+                  "text": "A serene coastal haven on the Perhentian Islands boasting exceptionally calm waters that are ideal for relaxed wading.",
+                  "category": "recreational",
+                  "coords": [
+                        102.721013,
+                        5.895187
+                  ]
+            },
+            {
+                  "name": "Coral Bay Beach",
+                  "text": "A laid-back island beach famed for its breathtaking golden sunsets and easily accessible shallow coral gardens.",
+                  "category": "recreational",
+                  "coords": [
+                        102.716927,
+                        5.913265
+                  ]
+            },
+            {
+                  "name": "Golden Sand Beach",
+                  "text": "A stunning tropical coastline named for its warm, golden-hued sands that brightly contrast with the turquoise bay.",
+                  "category": "recreational",
+                  "coords": [
+                        102.71642,
+                        5.916678
+                  ]
+            },
+            {
+                  "name": "Tranquility Beach",
+                  "text": "A tranquil sandy stretch located on the tropical coastline of the Perhentian Islands.",
+                  "category": "recreational",
+                  "coords": [
+                        102.716471,
+                        5.919334
+                  ]
+            },
+            {
+                  "name": "Romantic Beach",
+                  "text": "A scenic tropical beach in the Perhentian Islands, notable for its clear waters and inviting sandy shoreline.",
+                  "category": "recreational",
+                  "coords": [
+                        102.717146,
+                        5.92301
+                  ]
+            },
+            {
+                  "name": "Adam and Eve Beach",
+                  "text": "A pristine sandy shore nestled along the coastal edge of the Perhentian Islands.",
+                  "category": "recreational",
+                  "coords": [
+                        102.718646,
+                        5.934312
+                  ]
+            },
+            {
+                  "name": "D'Lagoon",
+                  "text": "A sheltered beach cove offering calm waters and a sandy shoreline on the Perhentian Islands.",
+                  "category": "recreational",
+                  "coords": [
+                        102.722913,
+                        5.933883
+                  ]
+            },
+            {
+                  "name": "PIR Beach",
+                  "text": "A broad sandy coastal stretch associated with a resort setting on the Perhentian Islands.",
+                  "category": "recreational",
+                  "coords": [
+                        102.743015,
+                        5.903268
+                  ]
+            },
+            {
+                  "name": "Tuna Bay",
+                  "text": "A vibrant beach bay on the Perhentian Islands featuring clear waters ideal for marine observation.",
+                  "category": "recreational",
+                  "coords": [
+                        102.738742,
+                        5.893106
+                  ]
+            },
+            {
+                  "name": "Flora Bay Beach",
+                  "text": "A sweeping sandy beach framed by lush tropical vegetation on the Perhentian Islands.",
+                  "category": "recreational",
+                  "coords": [
+                        102.749964,
+                        5.893295
+                  ]
+            },
+            {
+                  "name": "Bubbles Beach",
+                  "text": "A quiet sandy coastal area tucked away for a tranquil retreat on the Perhentian Islands.",
+                  "category": "recreational",
+                  "coords": [
+                        102.765439,
+                        5.886979
+                  ]
+            },
+            {
+                  "name": "Masjid Ar Rahman Pulau Perhentian",
+                  "text": "A modest local Muslim mosque providing a place of worship for the island community of the Perhentian Islands.",
+                  "category": "landmark",
+                  "coords": [
+                        102.731045,
+                        5.898549
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "MY-11",
     coords: [102.75, 5.9167],
@@ -627,7 +5946,160 @@ export const poiExtraMalaysiaNatureV2: POI[] = [
     }
   },
   {
-    id: "danum-valley-conservation-area-nature-v2",
+    id: "danum-valley-conservation-area-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Observations tower - self guided",
+                  "text": "Diese selbst geführte Aussichtsplattform erhebt sich über dem dichten Primärregenwald und ermöglicht es Besuchern, seltene Vögel und Primaten in den Baumkronen zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        117.808544,
+                        4.968803
+                  ]
+            },
+            {
+                  "name": "Observation tower",
+                  "text": "Dieser aus robustem Holz gebaute, erhöhte Turm bietet einen fesselnden Aussichtspunkt direkt in das Herz der Baumkronen des alten Borneo-Regenwaldes.",
+                  "category": "landmark",
+                  "coords": [
+                        117.801432,
+                        4.960833
+                  ]
+            },
+            {
+                  "name": "Borneo Rainforest Lodge Viewpoint",
+                  "text": "Dieser malerische Aussichtspunkt an der Öko-Lodge mit Blick auf den Danum River bietet atemberaubende Panoramen auf die unberührte, nebelverhangene Dschungellandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        117.743942,
+                        5.017128
+                  ]
+            },
+            {
+                  "name": "Danum Valley Conservation Area",
+                  "text": "Dieses riesige Gebiet mit unberührtem Tiefland-Flügelfruchtwald ist ein wichtiges Schutzgebiet für gefährdete Wildtiere, darunter wilde Orang-Utans und Zwergelefanten.",
+                  "category": "natural",
+                  "coords": [
+                        117.694263,
+                        4.938335
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Observations tower - self guided",
+                  "text": "A sűrű, érintetlen esőerdő fölé magasodó, önállóan látogatható kilátóplatform lehetővé teszi a látogatók számára, hogy a lombkoronában élő ritka madarakat és főemlősöket figyeljenek meg.",
+                  "category": "natural",
+                  "coords": [
+                        117.808544,
+                        4.968803
+                  ]
+            },
+            {
+                  "name": "Observation tower",
+                  "text": "Az erős fagerendákból épült magasított torony lenyűgöző kilátást nyújt egyenesen az ősi borneói esőerdő lombkoronájának szívébe.",
+                  "category": "landmark",
+                  "coords": [
+                        117.801432,
+                        4.960833
+                  ]
+            },
+            {
+                  "name": "Borneo Rainforest Lodge Viewpoint",
+                  "text": "A Danum-folyóra néző ökoszállás festői kilátója lélegzetelállító panorámát nyújt az érintetlen, ködbe burkolózó dzsungel tájára.",
+                  "category": "natural",
+                  "coords": [
+                        117.743942,
+                        5.017128
+                  ]
+            },
+            {
+                  "name": "Danum Valley Conservation Area",
+                  "text": "Az érintetlen, síkvidéki dipterokarpusz erdő e hatalmas területe létfontosságú menedék a veszélyeztetett vadvilág, köztük a vadon élő orángutánok és borneói törpeelefántok számára.",
+                  "category": "natural",
+                  "coords": [
+                        117.694263,
+                        4.938335
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Observations tower - self guided",
+                  "text": "Ridicându-se deasupra pădurii tropicale primare dense, această platformă de vizionare autoghidată permite vizitatorilor să observe păsări rare și primate care trăiesc în coronament.",
+                  "category": "natural",
+                  "coords": [
+                        117.808544,
+                        4.968803
+                  ]
+            },
+            {
+                  "name": "Observation tower",
+                  "text": "Construit din grinzi solide de lemn, acest turn înalt oferă un punct de observație captivant direct în inima coronamentului pădurii tropicale antice din Borneo.",
+                  "category": "landmark",
+                  "coords": [
+                        117.801432,
+                        4.960833
+                  ]
+            },
+            {
+                  "name": "Borneo Rainforest Lodge Viewpoint",
+                  "text": "Având vedere la râul Danum, acest punct de observație pitoresc de la cabana ecologică oferă panorame uluitoare ale peisajului junglei neatinse, acoperite de ceață.",
+                  "category": "natural",
+                  "coords": [
+                        117.743942,
+                        5.017128
+                  ]
+            },
+            {
+                  "name": "Danum Valley Conservation Area",
+                  "text": "Această suprafață imensă de pădure de dipterocarpacee de câmpie virgină este un sanctuar vital pentru speciile de animale pe cale de dispariție, inclusiv urangutani sălbatici și elefanți pigmei.",
+                  "category": "natural",
+                  "coords": [
+                        117.694263,
+                        4.938335
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Observations tower - self guided",
+                  "text": "Rising above the dense primary rainforest, this self-guided viewing platform allows visitors to spot rare canopy-dwelling birds and primates.",
+                  "category": "natural",
+                  "coords": [
+                        117.808544,
+                        4.968803
+                  ]
+            },
+            {
+                  "name": "Observation tower",
+                  "text": "Constructed from sturdy timbers, this elevated tower offers an immersive vantage point directly into the heart of the ancient Bornean rainforest canopy.",
+                  "category": "landmark",
+                  "coords": [
+                        117.801432,
+                        4.960833
+                  ]
+            },
+            {
+                  "name": "Borneo Rainforest Lodge Viewpoint",
+                  "text": "Overlooking the Danum River, this scenic viewpoint at the eco-lodge provides breathtaking panoramas of the untouched, mist-covered jungle landscape.",
+                  "category": "natural",
+                  "coords": [
+                        117.743942,
+                        5.017128
+                  ]
+            },
+            {
+                  "name": "Danum Valley Conservation Area",
+                  "text": "This immense tract of pristine lowland dipterocarp forest is a vital sanctuary for endangered wildlife, including wild orangutans and pygmy elephants.",
+                  "category": "natural",
+                  "coords": [
+                        117.694263,
+                        4.938335
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "MY-12",
     coords: [117.75, 4.9667],
@@ -675,7 +6147,52 @@ export const poiExtraMalaysiaNatureV2: POI[] = [
     }
   },
     {
-    id: "semporna-islands-park-nature-v2",
+    id: "semporna-islands-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bukit Tengkorak Archeological Site",
+                  "text": "Diese bedeutende archäologische Attraktion, bekannt als Schädelhügel, ist berühmt für die Entdeckung jahrtausendealter Töpferscherben.",
+                  "category": "landmark",
+                  "coords": [
+                        118.622201,
+                        4.439976
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bukit Tengkorak Archeological Site",
+                  "text": "Ez a Koponya-hegyként ismert kiemelkedő régészeti látványosság a több ezer éves ősi cserépdarabok felfedezéséről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        118.622201,
+                        4.439976
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bukit Tengkorak Archeological Site",
+                  "text": "Această atracție arheologică proeminentă, cunoscută sub numele de Dealul Craniului, este renumită pentru descoperirea unor fragmente de ceramică antică vechi de mii de ani.",
+                  "category": "landmark",
+                  "coords": [
+                        118.622201,
+                        4.439976
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bukit Tengkorak Archeological Site",
+                  "text": "This prominent archaeological attraction, known as Skull Hill, is famous for the discovery of ancient pottery sherds dating back thousands of years.",
+                  "category": "landmark",
+                  "coords": [
+                        118.622201,
+                        4.439976
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "MY-12",
     coords: [118.675, 4.3833],
@@ -723,7 +6240,412 @@ export const poiExtraMalaysiaNatureV2: POI[] = [
     }
   },
   {
-    id: "pahang-river-nature-v2",
+    id: "pahang-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Majlis Perbandaran Pekan",
+                  "text": "Das Gebäude des Stadtrates von Pekan dient als Sitz der lokalen Regierung in der königlichen Stadt am Pahang-Fluss.",
+                  "category": "historical",
+                  "coords": [
+                        103.390424,
+                        3.4896
+                  ]
+            },
+            {
+                  "name": "Murals",
+                  "text": "Diese Straßenwandbilder bieten eine farbenfrohe künstlerische Attraktion, die an den Gebäudewänden in der Nähe des Pahang-Flusses ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        103.393119,
+                        3.492237
+                  ]
+            },
+            {
+                  "name": "Old House",
+                  "text": "Das Old House ist eine traditionelle architektonische Attraktion, die den historischen Baustil der Region am Pahang-Fluss bewahrt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.387845,
+                        3.494944
+                  ]
+            },
+            {
+                  "name": "Muzium Sultan Abu Bakar",
+                  "text": "Das Sultan-Abu-Bakar-Museum ist eine bedeutende Institution, die königliche Artefakte und historische Exponate in der Region am Pahang-Fluss ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        103.390354,
+                        3.494017
+                  ]
+            },
+            {
+                  "name": "Muzium Masjid Sultan Abdullah",
+                  "text": "Das Sultan Abdullah Mosque Museum ist ein denkmalgeschütztes Gebäude, das die regionale islamische Geschichte in einer eleganten ehemaligen Moschee bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        103.389381,
+                        3.495009
+                  ]
+            },
+            {
+                  "name": "Istana Mahkota",
+                  "text": "Istana Mahkota ist eine imposante königliche Residenz, die als markantes architektonisches Wahrzeichen in der Region am Pahang-Fluss steht.",
+                  "category": "castle",
+                  "coords": [
+                        103.393819,
+                        3.510432
+                  ]
+            },
+            {
+                  "name": "Masjid As-Syakirin, Pekan",
+                  "text": "Die Masjid As-Syakirin ist ein muslimisches Gotteshaus, das der islamischen Gemeinschaft in Pekan für die täglichen Gebete dient.",
+                  "category": "landmark",
+                  "coords": [
+                        103.412974,
+                        3.584097
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "Dieser lokale Surau fungiert als dedizierter Gebetsraum für die muslimischen Bewohner entlang des Pahang-Flusses.",
+                  "category": "religious",
+                  "coords": [
+                        103.392404,
+                        3.542314
+                  ]
+            },
+            {
+                  "name": "Masjid At Taqwa",
+                  "text": "Die Masjid At Taqwa ist eine Gemeindemoschee, die wesentliche spirituelle und gemeinschaftliche Dienste für lokale Muslime anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.381362,
+                        3.54737
+                  ]
+            },
+            {
+                  "name": "Masjid Pulau Serai, Pekan",
+                  "text": "Die Masjid Pulau Serai ist ein dedizierter muslimischer Andachtsraum, der der lokalen Gemeinde in der Gegend von Pulau Serai in Pekan dient.",
+                  "category": "landmark",
+                  "coords": [
+                        103.381254,
+                        3.564047
+                  ]
+            },
+            {
+                  "name": "Pasar Besar Pekan",
+                  "text": "Pasar Besar Pekan ist ein belebter öffentlicher Marktplatz, auf dem lokale Händler frische Produkte und Waren entlang des Pahang-Flusses verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        103.394666,
+                        3.491313
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Majlis Perbandaran Pekan",
+                  "text": "A Pekani Városi Tanács épülete a helyi önkormányzat központjaként szolgál a Pahang-folyó menti királyi városban.",
+                  "category": "historical",
+                  "coords": [
+                        103.390424,
+                        3.4896
+                  ]
+            },
+            {
+                  "name": "Murals",
+                  "text": "Ezek az utcai falfestmények színes művészeti látványosságot kínálnak a Pahang-folyó közelében lévő épületek falain.",
+                  "category": "landmark",
+                  "coords": [
+                        103.393119,
+                        3.492237
+                  ]
+            },
+            {
+                  "name": "Old House",
+                  "text": "Az Öreg Ház egy hagyományos építészeti látványosság, amely megőrzi a Pahang-folyó régiójának történelmi építési stílusát.",
+                  "category": "landmark",
+                  "coords": [
+                        103.387845,
+                        3.494944
+                  ]
+            },
+            {
+                  "name": "Muzium Sultan Abu Bakar",
+                  "text": "A Sultan Abu Bakar Múzeum egy jelentős intézmény, amely királyi tárgyakat és történelmi kiállításokat mutat be a Pahang-folyó régiójában.",
+                  "category": "museum",
+                  "coords": [
+                        103.390354,
+                        3.494017
+                  ]
+            },
+            {
+                  "name": "Muzium Masjid Sultan Abdullah",
+                  "text": "A Sultan Abdullah Mecset Múzeum egy műemlék épület, amely a regionális iszlám történelmet őrzi egy elegáns egykori mecsetben.",
+                  "category": "museum",
+                  "coords": [
+                        103.389381,
+                        3.495009
+                  ]
+            },
+            {
+                  "name": "Istana Mahkota",
+                  "text": "Az Istana Mahkota egy impozáns királyi rezidencia, amely kiemelkedő építészeti nevezetesség a Pahang-folyó környékén.",
+                  "category": "castle",
+                  "coords": [
+                        103.393819,
+                        3.510432
+                  ]
+            },
+            {
+                  "name": "Masjid As-Syakirin, Pekan",
+                  "text": "A Masjid As-Syakirin egy muszlim istentiszteleti hely, amely megkönnyíti a napi imákat a pekani iszlám közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        103.412974,
+                        3.584097
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "Ez a helyi surau dedikált imateremként működik a Pahang-folyó mentén élő muszlim lakosok számára.",
+                  "category": "religious",
+                  "coords": [
+                        103.392404,
+                        3.542314
+                  ]
+            },
+            {
+                  "name": "Masjid At Taqwa",
+                  "text": "A Masjid At Taqwa egy közösségi mecset, amely alapvető spirituális és gyülekezeti szolgáltatásokat nyújt a helyi muszlimoknak.",
+                  "category": "landmark",
+                  "coords": [
+                        103.381362,
+                        3.54737
+                  ]
+            },
+            {
+                  "name": "Masjid Pulau Serai, Pekan",
+                  "text": "A Masjid Pulau Serai egy dedikált muszlim istentiszteleti tér, amely a pekani Pulau Serai terület helyi gyülekezetét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        103.381254,
+                        3.564047
+                  ]
+            },
+            {
+                  "name": "Pasar Besar Pekan",
+                  "text": "A Pasar Besar Pekan egy nyüzsgő nyilvános piac, ahol a helyi árusok friss termékeket és árukat árulnak a Pahang-folyó mentén.",
+                  "category": "cultural",
+                  "coords": [
+                        103.394666,
+                        3.491313
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Majlis Perbandaran Pekan",
+                  "text": "Clădirea Consiliului Municipal Pekan servește ca sediu al administrației locale în orașul regal de-a lungul râului Pahang.",
+                  "category": "historical",
+                  "coords": [
+                        103.390424,
+                        3.4896
+                  ]
+            },
+            {
+                  "name": "Murals",
+                  "text": "Aceste picturi murale stradale oferă o atracție artistică plină de culoare expusă pe pereții clădirilor din apropierea râului Pahang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.393119,
+                        3.492237
+                  ]
+            },
+            {
+                  "name": "Old House",
+                  "text": "Casa Veche este o atracție arhitecturală tradițională care păstrează stilul de construcție istoric al regiunii râului Pahang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.387845,
+                        3.494944
+                  ]
+            },
+            {
+                  "name": "Muzium Sultan Abu Bakar",
+                  "text": "Muzeul Sultan Abu Bakar este o instituție notabilă care expune artefacte regale și exponate istorice în regiunea râului Pahang.",
+                  "category": "museum",
+                  "coords": [
+                        103.390354,
+                        3.494017
+                  ]
+            },
+            {
+                  "name": "Muzium Masjid Sultan Abdullah",
+                  "text": "Muzeul Moscheii Sultan Abdullah este o clădire de patrimoniu care păstrează istoria islamică regională într-o fostă moschee elegantă.",
+                  "category": "museum",
+                  "coords": [
+                        103.389381,
+                        3.495009
+                  ]
+            },
+            {
+                  "name": "Istana Mahkota",
+                  "text": "Istana Mahkota este o reședință regală impunătoare care se distinge ca un punct de reper arhitectural proeminent în zona râului Pahang.",
+                  "category": "castle",
+                  "coords": [
+                        103.393819,
+                        3.510432
+                  ]
+            },
+            {
+                  "name": "Masjid As-Syakirin, Pekan",
+                  "text": "Masjid As-Syakirin este un lăcaș de cult musulman care facilitează rugăciunile zilnice pentru comunitatea islamică din Pekan.",
+                  "category": "landmark",
+                  "coords": [
+                        103.412974,
+                        3.584097
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "Acest surau local funcționează ca o sală de rugăciune dedicată locuitorilor musulmani de-a lungul râului Pahang.",
+                  "category": "religious",
+                  "coords": [
+                        103.392404,
+                        3.542314
+                  ]
+            },
+            {
+                  "name": "Masjid At Taqwa",
+                  "text": "Masjid At Taqwa este o moschee comunitară care oferă servicii spirituale și congregaționale esențiale pentru musulmanii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        103.381362,
+                        3.54737
+                  ]
+            },
+            {
+                  "name": "Masjid Pulau Serai, Pekan",
+                  "text": "Masjid Pulau Serai este un spațiu de cult musulman dedicat care deservește congregația locală din zona Pulau Serai din Pekan.",
+                  "category": "landmark",
+                  "coords": [
+                        103.381254,
+                        3.564047
+                  ]
+            },
+            {
+                  "name": "Pasar Besar Pekan",
+                  "text": "Pasar Besar Pekan este o piață publică plină de viață unde vânzătorii locali vând produse proaspete și bunuri de-a lungul râului Pahang.",
+                  "category": "cultural",
+                  "coords": [
+                        103.394666,
+                        3.491313
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pekan Municipal Council",
+                  "text": "The Pekan Municipal Council building serves as the local government headquarters in the royal town along the Pahang River.",
+                  "category": "historical",
+                  "coords": [
+                        103.390424,
+                        3.4896
+                  ]
+            },
+            {
+                  "name": "Murals",
+                  "text": "These street murals offer a colorful artistic attraction displayed on the building walls near the Pahang River.",
+                  "category": "landmark",
+                  "coords": [
+                        103.393119,
+                        3.492237
+                  ]
+            },
+            {
+                  "name": "Old House",
+                  "text": "The Old House is a traditional architectural attraction preserving the historical building style of the Pahang River region.",
+                  "category": "landmark",
+                  "coords": [
+                        103.387845,
+                        3.494944
+                  ]
+            },
+            {
+                  "name": "Sultan Abu Bakar Museum",
+                  "text": "The Sultan Abu Bakar Museum is a notable institution displaying royal artifacts and historical exhibits in the Pahang River region.",
+                  "category": "museum",
+                  "coords": [
+                        103.390354,
+                        3.494017
+                  ]
+            },
+            {
+                  "name": "Sultan Abdullah Mosque Museum",
+                  "text": "The Sultan Abdullah Mosque Museum is a heritage building that preserves regional Islamic history within an elegant former mosque.",
+                  "category": "museum",
+                  "coords": [
+                        103.389381,
+                        3.495009
+                  ]
+            },
+            {
+                  "name": "Istana Mahkota",
+                  "text": "Istana Mahkota is an imposing royal residence standing as a prominent architectural landmark in the Pahang River area.",
+                  "category": "castle",
+                  "coords": [
+                        103.393819,
+                        3.510432
+                  ]
+            },
+            {
+                  "name": "Masjid As-Syakirin, Pekan",
+                  "text": "Masjid As-Syakirin is a Muslim place of worship facilitating daily prayers for the Islamic community in Pekan.",
+                  "category": "landmark",
+                  "coords": [
+                        103.412974,
+                        3.584097
+                  ]
+            },
+            {
+                  "name": "Surau",
+                  "text": "This local surau functions as a dedicated prayer room for the Muslim residents along the Pahang River.",
+                  "category": "religious",
+                  "coords": [
+                        103.392404,
+                        3.542314
+                  ]
+            },
+            {
+                  "name": "Masjid At Taqwa",
+                  "text": "Masjid At Taqwa is a community mosque providing essential spiritual and congregational services for local Muslims.",
+                  "category": "landmark",
+                  "coords": [
+                        103.381362,
+                        3.54737
+                  ]
+            },
+            {
+                  "name": "Masjid Pulau Serai, Pekan",
+                  "text": "Masjid Pulau Serai is a dedicated Muslim worship space serving the local congregation in the Pulau Serai area of Pekan.",
+                  "category": "landmark",
+                  "coords": [
+                        103.381254,
+                        3.564047
+                  ]
+            },
+            {
+                  "name": "Pasar Besar Pekan",
+                  "text": "Pasar Besar Pekan is a bustling public marketplace where local vendors sell fresh produce and goods along the Pahang River.",
+                  "category": "cultural",
+                  "coords": [
+                        103.394666,
+                        3.491313
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "MY-06",
     coords: [103.45, 3.5333],
@@ -771,7 +6693,52 @@ export const poiExtraMalaysiaNatureV2: POI[] = [
     }
   },
   {
-    id: "mount-trusmadi-nature-v2",
+    id: "mount-trusmadi-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Trus Madi",
+                  "text": "Als zweithöchster Gipfel Malaysias bietet dieser anspruchsvolle, bewaldete Berg abenteuerlustigen Wanderern von seinem zerklüfteten Gipfel aus spektakuläre Ausblicke auf das Hochland.",
+                  "category": "natural",
+                  "coords": [
+                        116.516667,
+                        5.55
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Trus Madi",
+                  "text": "Malajzia második legmagasabb csúcsaként ez a kihívást jelentő erdős hegy látványos felvidéki kilátást nyújt a zord csúcsra feljutó kalandvágyó túrázóknak.",
+                  "category": "natural",
+                  "coords": [
+                        116.516667,
+                        5.55
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Trus Madi",
+                  "text": "Fiind al doilea cel mai înalt vârf din Malaezia, acest munte împădurit provocator oferă excursioniștilor aventuroși priveliști spectaculoase ale regiunii muntoase de pe culmea sa accidentată.",
+                  "category": "natural",
+                  "coords": [
+                        116.516667,
+                        5.55
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Trus Madi",
+                  "text": "As the second-highest peak in Malaysia, this challenging forested mountain offers adventurous hikers spectacular highland views from its rugged summit.",
+                  "category": "natural",
+                  "coords": [
+                        116.516667,
+                        5.55
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "MY-12",
     coords: [116.5167, 5.5833],
@@ -820,7 +6787,124 @@ export const poiExtraMalaysiaNatureV2: POI[] = [
     }
   },
   {
-    id: "tasik-bera-nature-v2",
+    id: "tasik-bera-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bukit Hulu Kekura",
+                  "text": "Dieser markante Hügel bietet einen erhöhten Aussichtspunkt über die ausgedehnten Feuchtgebiete und Wälder der Region Tasik Bera.",
+                  "category": "natural",
+                  "coords": [
+                        102.664801,
+                        3.155878
+                  ]
+            },
+            {
+                  "name": "Bukit Godam",
+                  "text": "Dieser Gipfel ist ein natürliches Wahrzeichen im Naturschutzgebiet Tasik Bera und von dichter tropischer Vegetation umgeben.",
+                  "category": "natural",
+                  "coords": [
+                        102.710817,
+                        3.114902
+                  ]
+            },
+            {
+                  "name": "Bukit Mayan",
+                  "text": "Ein topografischer Höhepunkt, der die lokale Skyline dominiert und raues Gelände innerhalb der Landschaft von Tasik Bera bietet.",
+                  "category": "natural",
+                  "coords": [
+                        102.663835,
+                        3.052957
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bukit Hulu Kekura",
+                  "text": "Ez a figyelemre méltó domb magaslati kilátópontot nyújt a Tasik Bera régió kiterjedt vizes élőhelyeire és erdeire.",
+                  "category": "natural",
+                  "coords": [
+                        102.664801,
+                        3.155878
+                  ]
+            },
+            {
+                  "name": "Bukit Godam",
+                  "text": "A Tasik Bera természetvédelmi terület természeti tájékozódási pontjaként emelkedő csúcsot sűrű trópusi növényzet veszi körül.",
+                  "category": "natural",
+                  "coords": [
+                        102.710817,
+                        3.114902
+                  ]
+            },
+            {
+                  "name": "Bukit Mayan",
+                  "text": "A helyi látképet uraló domborzati magaslat, amely egyenetlen terepet kínál a Tasik Bera tájon belül.",
+                  "category": "natural",
+                  "coords": [
+                        102.663835,
+                        3.052957
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bukit Hulu Kekura",
+                  "text": "Acest deal notabil oferă un punct de observație la înălțime asupra zonelor umede extinse și a pădurilor din regiunea Tasik Bera.",
+                  "category": "natural",
+                  "coords": [
+                        102.664801,
+                        3.155878
+                  ]
+            },
+            {
+                  "name": "Bukit Godam",
+                  "text": "Ridicându-se ca un punct de reper natural în rezervația naturală Tasik Bera, acest vârf este înconjurat de o vegetație tropicală densă.",
+                  "category": "natural",
+                  "coords": [
+                        102.710817,
+                        3.114902
+                  ]
+            },
+            {
+                  "name": "Bukit Mayan",
+                  "text": "Un punct înalt topografic care domină orizontul local, oferind un teren accidentat în cadrul peisajului Tasik Bera.",
+                  "category": "natural",
+                  "coords": [
+                        102.663835,
+                        3.052957
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bukit Hulu Kekura",
+                  "text": "This notable hill provides an elevated vantage point over the extensive wetlands and forests of the Tasik Bera region.",
+                  "category": "natural",
+                  "coords": [
+                        102.664801,
+                        3.155878
+                  ]
+            },
+            {
+                  "name": "Bukit Godam",
+                  "text": "Standing as a natural landmark in the Tasik Bera nature reserve, this peak is surrounded by dense tropical vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        102.710817,
+                        3.114902
+                  ]
+            },
+            {
+                  "name": "Bukit Mayan",
+                  "text": "A topographical high point that dominates the local skyline, offering rugged terrain within the Tasik Bera landscape.",
+                  "category": "natural",
+                  "coords": [
+                        102.663835,
+                        3.052957
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "MY-06",
     coords: [102.6333, 3.0833],
@@ -868,7 +6952,592 @@ export const poiExtraMalaysiaNatureV2: POI[] = [
     }
   },
   {
-    id: "endau-rompin-national-park-nature-v2",
+    id: "endau-rompin-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bukit Semeninjau",
+                  "text": "Bukit Semeninjau ist ein markanter natürlicher Gipfel, der sich in den bewaldeten Landschaften des Endau-Rompin-Nationalparks erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        103.196427,
+                        2.537546
+                  ]
+            },
+            {
+                  "name": "Bukit Payong",
+                  "text": "Bukit Payong ist ein markanter Berggipfel inmitten der dichten tropischen Vegetation des Endau-Rompin-Nationalparks.",
+                  "category": "natural",
+                  "coords": [
+                        103.215206,
+                        2.516674
+                  ]
+            },
+            {
+                  "name": "Bukit Langkap",
+                  "text": "Der Gipfel des Bukit Langkap bietet Wanderern eine raue natürliche Erhebung innerhalb der Grenzen des Endau-Rompin-Nationalparks.",
+                  "category": "natural",
+                  "coords": [
+                        103.246658,
+                        2.547806
+                  ]
+            },
+            {
+                  "name": "Gunung Beremban",
+                  "text": "Gunung Beremban ist ein markanter Berggipfel, der vom uralten Regenwalddach von Endau-Rompin bedeckt ist.",
+                  "category": "natural",
+                  "coords": [
+                        103.290014,
+                        2.577751
+                  ]
+            },
+            {
+                  "name": "Gunung Pertawai",
+                  "text": "Gunung Pertawai ist ein rauer Berggipfel in der artenreichen Wildnis des Endau-Rompin-Nationalparks.",
+                  "category": "natural",
+                  "coords": [
+                        103.284993,
+                        2.510022
+                  ]
+            },
+            {
+                  "name": "Gunung Tiong",
+                  "text": "Der Gipfel des Gunung Tiong erhebt sich steil über den umliegenden tropischen Dschungel der Endau-Rompin-Region.",
+                  "category": "natural",
+                  "coords": [
+                        103.293965,
+                        2.430862
+                  ]
+            },
+            {
+                  "name": "River Tubing",
+                  "text": "Das River-Tubing im Endau-Rompin-Nationalpark bietet eine aktive Wasserattraktion entlang der natürlichen Dschungelströmungen.",
+                  "category": "landmark",
+                  "coords": [
+                        103.247064,
+                        2.433132
+                  ]
+            },
+            {
+                  "name": "Bukit Serigi",
+                  "text": "Bukit Serigi ist eine bewaldete natürliche Erhebung, die zum hügeligen Terrain des Endau-Rompin-Nationalparks beiträgt.",
+                  "category": "natural",
+                  "coords": [
+                        103.229663,
+                        2.476431
+                  ]
+            },
+            {
+                  "name": "Bukit Batu",
+                  "text": "Bukit Batu ist ein markanter felsiger Gipfel inmitten des geschützten Naturschutzgebiets von Endau-Rompin.",
+                  "category": "natural",
+                  "coords": [
+                        103.214933,
+                        2.487364
+                  ]
+            },
+            {
+                  "name": "Bukit Tulang Kijang",
+                  "text": "Der Gipfel des Bukit Tulang Kijang liegt tief eingebettet in den üppigen tropischen Regenwäldern des Endau-Rompin-Nationalparks.",
+                  "category": "natural",
+                  "coords": [
+                        103.201929,
+                        2.4955
+                  ]
+            },
+            {
+                  "name": "Bukit Keliring",
+                  "text": "Bukit Keliring ist eine markante natürliche Hochlanderhebung inmitten der geschützten Wälder von Endau-Rompin.",
+                  "category": "natural",
+                  "coords": [
+                        103.184429,
+                        2.470498
+                  ]
+            },
+            {
+                  "name": "Bukit Donan",
+                  "text": "Der Bukit Donan erhebt sich über die tropische Flora und ist ein ausgewiesener Gipfel in der wilden Landschaft des Endau-Rompin-Nationalparks.",
+                  "category": "natural",
+                  "coords": [
+                        103.21636,
+                        2.450137
+                  ]
+            },
+            {
+                  "name": "Bukit Lemaroh",
+                  "text": "Bukit Lemaroh ist ein dschungelbedeckter Gipfel, der zur ausgedehnten Bergtopographie von Endau-Rompin beiträgt.",
+                  "category": "natural",
+                  "coords": [
+                        103.224696,
+                        2.451306
+                  ]
+            },
+            {
+                  "name": "Bukit Gaut",
+                  "text": "Die natürliche Erhebung des Bukit Gaut befindet sich im abgelegenen, artenreichen Ökosystem des Endau-Rompin-Nationalparks.",
+                  "category": "natural",
+                  "coords": [
+                        103.238643,
+                        2.462968
+                  ]
+            },
+            {
+                  "name": "Bukit Keleman",
+                  "text": "Bukit Keleman dient als natürliches bergiges Wahrzeichen, das in das dichte Dschungellaub von Endau-Rompin gehüllt ist.",
+                  "category": "natural",
+                  "coords": [
+                        103.237871,
+                        2.418034
+                  ]
+            },
+            {
+                  "name": "Bukit Sengongong",
+                  "text": "Der Gipfel des Bukit Sengongong ist Teil des rauen, bewaldeten Hochlandes, das im gesamten Endau-Rompin-Nationalpark zu finden ist.",
+                  "category": "natural",
+                  "coords": [
+                        103.321872,
+                        2.508169
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bukit Semeninjau",
+                  "text": "A Bukit Semeninjau egy jelentős természeti csúcs, amely az Endau-Rompin Nemzeti Park erdős tájai fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        103.196427,
+                        2.537546
+                  ]
+            },
+            {
+                  "name": "Bukit Payong",
+                  "text": "A Bukit Payong egy kiemelkedő hegycsúcs, amely az Endau-Rompin Nemzeti Park sűrű trópusi növényzete között található.",
+                  "category": "natural",
+                  "coords": [
+                        103.215206,
+                        2.516674
+                  ]
+            },
+            {
+                  "name": "Bukit Langkap",
+                  "text": "A Bukit Langkap csúcsa egy zord természetes magaslatot kínál a túrázóknak az Endau-Rompin Nemzeti Park határain belül.",
+                  "category": "natural",
+                  "coords": [
+                        103.246658,
+                        2.547806
+                  ]
+            },
+            {
+                  "name": "Gunung Beremban",
+                  "text": "A Gunung Beremban egy kiemelkedő hegycsúcs, amelyet Endau-Rompin ősi esőerdőjének lombkoronája borít.",
+                  "category": "natural",
+                  "coords": [
+                        103.290014,
+                        2.577751
+                  ]
+            },
+            {
+                  "name": "Gunung Pertawai",
+                  "text": "A Gunung Pertawai egy zord hegycsúcs az Endau-Rompin Nemzeti Park biodiverz vadonjában.",
+                  "category": "natural",
+                  "coords": [
+                        103.284993,
+                        2.510022
+                  ]
+            },
+            {
+                  "name": "Gunung Tiong",
+                  "text": "A Gunung Tiong csúcsa meredeken emelkedik ki az Endau-Rompin terület környező trópusi dzsungeléből.",
+                  "category": "natural",
+                  "coords": [
+                        103.293965,
+                        2.430862
+                  ]
+            },
+            {
+                  "name": "River Tubing",
+                  "text": "A folyami tubing az Endau-Rompin Nemzeti Parkban aktív vízi látványosságot kínál a természetes dzsungeláramlatok mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        103.247064,
+                        2.433132
+                  ]
+            },
+            {
+                  "name": "Bukit Serigi",
+                  "text": "A Bukit Serigi egy erdős természetes magaslat, amely hozzájárul az Endau-Rompin Nemzeti Park hullámzó terepéhez.",
+                  "category": "natural",
+                  "coords": [
+                        103.229663,
+                        2.476431
+                  ]
+            },
+            {
+                  "name": "Bukit Batu",
+                  "text": "A Bukit Batu egy kiemelkedő sziklás csúcs, amely az Endau-Rompin védett természeti rezervátum közepén található.",
+                  "category": "natural",
+                  "coords": [
+                        103.214933,
+                        2.487364
+                  ]
+            },
+            {
+                  "name": "Bukit Tulang Kijang",
+                  "text": "A Bukit Tulang Kijang csúcsa mélyen az Endau-Rompin Nemzeti Park buja trópusi esőerdeiben fészkel.",
+                  "category": "natural",
+                  "coords": [
+                        103.201929,
+                        2.4955
+                  ]
+            },
+            {
+                  "name": "Bukit Keliring",
+                  "text": "A Bukit Keliring egy különálló természetes felvidéki forma, amely az Endau-Rompin védett erdőségei között emelkedik.",
+                  "category": "natural",
+                  "coords": [
+                        103.184429,
+                        2.470498
+                  ]
+            },
+            {
+                  "name": "Bukit Donan",
+                  "text": "A trópusi növényzet fölé magasodó Bukit Donan egy kijelölt csúcs az Endau-Rompin Nemzeti Park vad táján.",
+                  "category": "natural",
+                  "coords": [
+                        103.21636,
+                        2.450137
+                  ]
+            },
+            {
+                  "name": "Bukit Lemaroh",
+                  "text": "A Bukit Lemaroh egy dzsungellel borított csúcs, amely hozzájárul Endau-Rompin kiterjedt hegyvidéki topográfiájához.",
+                  "category": "natural",
+                  "coords": [
+                        103.224696,
+                        2.451306
+                  ]
+            },
+            {
+                  "name": "Bukit Gaut",
+                  "text": "A Bukit Gaut természetes magaslata az Endau-Rompin Nemzeti Park távoli, biodiverz ökoszisztémájában található.",
+                  "category": "natural",
+                  "coords": [
+                        103.238643,
+                        2.462968
+                  ]
+            },
+            {
+                  "name": "Bukit Keleman",
+                  "text": "A Bukit Keleman egy természetes hegyvidéki nevezetesség, amelyet az Endau-Rompin sűrű dzsungellombozata ölel körül.",
+                  "category": "natural",
+                  "coords": [
+                        103.237871,
+                        2.418034
+                  ]
+            },
+            {
+                  "name": "Bukit Sengongong",
+                  "text": "A Bukit Sengongong csúcsa a zord, erdős felvidék részét képezi, amely az Endau-Rompin Nemzeti Park egész területén megtalálható.",
+                  "category": "natural",
+                  "coords": [
+                        103.321872,
+                        2.508169
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bukit Semeninjau",
+                  "text": "Bukit Semeninjau este un vârf natural important care se înalță în peisajele împădurite ale Parcului Național Endau-Rompin.",
+                  "category": "natural",
+                  "coords": [
+                        103.196427,
+                        2.537546
+                  ]
+            },
+            {
+                  "name": "Bukit Payong",
+                  "text": "Bukit Payong este un vârf montan proeminent situat în mijlocul vegetației tropicale dense a Parcului Național Endau-Rompin.",
+                  "category": "natural",
+                  "coords": [
+                        103.215206,
+                        2.516674
+                  ]
+            },
+            {
+                  "name": "Bukit Langkap",
+                  "text": "Vârful Bukit Langkap oferă drumeților o altitudine naturală accidentată în granițele Parcului Național Endau-Rompin.",
+                  "category": "natural",
+                  "coords": [
+                        103.246658,
+                        2.547806
+                  ]
+            },
+            {
+                  "name": "Gunung Beremban",
+                  "text": "Gunung Beremban este un vârf montan proeminent acoperit de coronamentul pădurii tropicale antice din Endau-Rompin.",
+                  "category": "natural",
+                  "coords": [
+                        103.290014,
+                        2.577751
+                  ]
+            },
+            {
+                  "name": "Gunung Pertawai",
+                  "text": "Gunung Pertawai se înalță ca un vârf de munte accidentat în sălbăticia plină de biodiversitate a Parcului Național Endau-Rompin.",
+                  "category": "natural",
+                  "coords": [
+                        103.284993,
+                        2.510022
+                  ]
+            },
+            {
+                  "name": "Gunung Tiong",
+                  "text": "Vârful Gunung Tiong se înalță abrupt deasupra junglei tropicale înconjurătoare din zona Endau-Rompin.",
+                  "category": "natural",
+                  "coords": [
+                        103.293965,
+                        2.430862
+                  ]
+            },
+            {
+                  "name": "River Tubing",
+                  "text": "Tubingul pe râu în Parcul Național Endau-Rompin oferă o atracție acvatică activă de-a lungul curenților naturali din junglă.",
+                  "category": "landmark",
+                  "coords": [
+                        103.247064,
+                        2.433132
+                  ]
+            },
+            {
+                  "name": "Bukit Serigi",
+                  "text": "Bukit Serigi este o altitudine naturală împădurită care contribuie la terenul ondulat al Parcului Național Endau-Rompin.",
+                  "category": "natural",
+                  "coords": [
+                        103.229663,
+                        2.476431
+                  ]
+            },
+            {
+                  "name": "Bukit Batu",
+                  "text": "Bukit Batu este un vârf stâncos proeminent situat în mijlocul rezervației naturale protejate din Endau-Rompin.",
+                  "category": "natural",
+                  "coords": [
+                        103.214933,
+                        2.487364
+                  ]
+            },
+            {
+                  "name": "Bukit Tulang Kijang",
+                  "text": "Vârful Bukit Tulang Kijang este cuibărit adânc în pădurile tropicale luxuriante ale Parcului Național Endau-Rompin.",
+                  "category": "natural",
+                  "coords": [
+                        103.201929,
+                        2.4955
+                  ]
+            },
+            {
+                  "name": "Bukit Keliring",
+                  "text": "Bukit Keliring este o caracteristică naturală distinctă a zonei muntoase care se înalță în mijlocul pădurilor protejate din Endau-Rompin.",
+                  "category": "natural",
+                  "coords": [
+                        103.184429,
+                        2.470498
+                  ]
+            },
+            {
+                  "name": "Bukit Donan",
+                  "text": "Ridicându-se deasupra florei tropicale, Bukit Donan este un vârf desemnat în peisajul sălbatic al Parcului Național Endau-Rompin.",
+                  "category": "natural",
+                  "coords": [
+                        103.21636,
+                        2.450137
+                  ]
+            },
+            {
+                  "name": "Bukit Lemaroh",
+                  "text": "Bukit Lemaroh este un vârf acoperit de junglă care contribuie la vasta topografie muntoasă din Endau-Rompin.",
+                  "category": "natural",
+                  "coords": [
+                        103.224696,
+                        2.451306
+                  ]
+            },
+            {
+                  "name": "Bukit Gaut",
+                  "text": "Altitudinea naturală a Bukit Gaut este situată în ecosistemul izolat și plin de biodiversitate al Parcului Național Endau-Rompin.",
+                  "category": "natural",
+                  "coords": [
+                        103.238643,
+                        2.462968
+                  ]
+            },
+            {
+                  "name": "Bukit Keleman",
+                  "text": "Bukit Keleman servește ca un punct de reper montan natural învăluit în frunzișul dens al junglei din Endau-Rompin.",
+                  "category": "natural",
+                  "coords": [
+                        103.237871,
+                        2.418034
+                  ]
+            },
+            {
+                  "name": "Bukit Sengongong",
+                  "text": "Vârful Bukit Sengongong face parte din zonele înalte accidentate și împădurite găsite în tot Parcul Național Endau-Rompin.",
+                  "category": "natural",
+                  "coords": [
+                        103.321872,
+                        2.508169
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bukit Semeninjau",
+                  "text": "Bukit Semeninjau is a notable natural peak rising within the forested landscapes of Endau-Rompin National Park.",
+                  "category": "natural",
+                  "coords": [
+                        103.196427,
+                        2.537546
+                  ]
+            },
+            {
+                  "name": "Bukit Payong",
+                  "text": "Bukit Payong is a prominent mountain peak situated amidst the dense tropical greenery of Endau-Rompin National Park.",
+                  "category": "natural",
+                  "coords": [
+                        103.215206,
+                        2.516674
+                  ]
+            },
+            {
+                  "name": "Bukit Langkap",
+                  "text": "The peak of Bukit Langkap offers hikers a rugged natural elevation within the boundaries of Endau-Rompin National Park.",
+                  "category": "natural",
+                  "coords": [
+                        103.246658,
+                        2.547806
+                  ]
+            },
+            {
+                  "name": "Gunung Beremban",
+                  "text": "Gunung Beremban is a prominent mountain peak covered by the ancient rainforest canopy of Endau-Rompin.",
+                  "category": "natural",
+                  "coords": [
+                        103.290014,
+                        2.577751
+                  ]
+            },
+            {
+                  "name": "Gunung Pertawai",
+                  "text": "Gunung Pertawai stands as a rugged mountain summit within the biodiverse wilderness of Endau-Rompin National Park.",
+                  "category": "natural",
+                  "coords": [
+                        103.284993,
+                        2.510022
+                  ]
+            },
+            {
+                  "name": "Gunung Tiong",
+                  "text": "The summit of Gunung Tiong rises steeply above the surrounding tropical jungle of the Endau-Rompin area.",
+                  "category": "natural",
+                  "coords": [
+                        103.293965,
+                        2.430862
+                  ]
+            },
+            {
+                  "name": "River Tubing",
+                  "text": "River tubing in Endau-Rompin National Park offers an active water attraction along the natural jungle currents.",
+                  "category": "landmark",
+                  "coords": [
+                        103.247064,
+                        2.433132
+                  ]
+            },
+            {
+                  "name": "Bukit Serigi",
+                  "text": "Bukit Serigi is a forested natural elevation contributing to the undulating terrain of Endau-Rompin National Park.",
+                  "category": "natural",
+                  "coords": [
+                        103.229663,
+                        2.476431
+                  ]
+            },
+            {
+                  "name": "Bukit Batu",
+                  "text": "Bukit Batu is a prominent rocky peak located amidst the protected natural reserve of Endau-Rompin.",
+                  "category": "natural",
+                  "coords": [
+                        103.214933,
+                        2.487364
+                  ]
+            },
+            {
+                  "name": "Bukit Tulang Kijang",
+                  "text": "The summit of Bukit Tulang Kijang is nestled deeply within the lush tropical rainforests of Endau-Rompin National Park.",
+                  "category": "natural",
+                  "coords": [
+                        103.201929,
+                        2.4955
+                  ]
+            },
+            {
+                  "name": "Bukit Keliring",
+                  "text": "Bukit Keliring is a distinct natural highland feature rising amidst the protected woodlands of Endau-Rompin.",
+                  "category": "natural",
+                  "coords": [
+                        103.184429,
+                        2.470498
+                  ]
+            },
+            {
+                  "name": "Bukit Donan",
+                  "text": "Rising above the tropical flora, Bukit Donan is a designated peak within the wild landscape of Endau-Rompin National Park.",
+                  "category": "natural",
+                  "coords": [
+                        103.21636,
+                        2.450137
+                  ]
+            },
+            {
+                  "name": "Bukit Lemaroh",
+                  "text": "Bukit Lemaroh is a jungle-covered summit contributing to the vast mountainous topography of Endau-Rompin.",
+                  "category": "natural",
+                  "coords": [
+                        103.224696,
+                        2.451306
+                  ]
+            },
+            {
+                  "name": "Bukit Gaut",
+                  "text": "The natural elevation of Bukit Gaut is situated in the remote, biodiverse ecosystem of Endau-Rompin National Park.",
+                  "category": "natural",
+                  "coords": [
+                        103.238643,
+                        2.462968
+                  ]
+            },
+            {
+                  "name": "Bukit Keleman",
+                  "text": "Bukit Keleman serves as a natural mountainous landmark wrapped in the dense jungle foliage of Endau-Rompin.",
+                  "category": "natural",
+                  "coords": [
+                        103.237871,
+                        2.418034
+                  ]
+            },
+            {
+                  "name": "Bukit Sengongong",
+                  "text": "The peak of Bukit Sengongong forms part of the rugged, forested highlands found throughout Endau-Rompin National Park.",
+                  "category": "natural",
+                  "coords": [
+                        103.321872,
+                        2.508169
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "MY-01",
     coords: [103.2667, 2.5],

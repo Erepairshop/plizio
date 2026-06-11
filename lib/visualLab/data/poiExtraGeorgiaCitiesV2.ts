@@ -3,7 +3,1096 @@ import type { POI } from "./poi";
 
 export const poiExtraGeorgiaCitiesV2: POI[] = [
   {
-    id: "ge-tbilisi-cities-v2",
+    id: "ge-tbilisi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "იაკობ ნიკოლაძის სახლ-მუზეუმი",
+                  "text": "Das ehemalige Wohnhaus und Atelier von Iakob Nikoladse, dem Begründer der modernen georgischen Bildhauerei.",
+                  "category": "museum",
+                  "coords": [
+                        44.782131,
+                        41.709044
+                  ]
+            },
+            {
+                  "name": "საქართველოს თეატრის, მუსიკის, კინოსა და ქორეოგრაფიის სახელმწიფო მუზეუმი",
+                  "text": "Das Museum ist in einem prächtigen Palast im neugotischen Stil untergebracht und zeigt Kostüme sowie Requisiten der georgischen Kunstgeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        44.794275,
+                        41.71588
+                  ]
+            },
+            {
+                  "name": "M. Tumanischwili Theater",
+                  "text": "Ein renommiertes Tifliser Theater, das 1978 von Michail Tumanischwili gegründet wurde und für seine experimentellen Inszenierungen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        44.78989,
+                        41.718868
+                  ]
+            },
+            {
+                  "name": "მარჯანიშვილის თეატრი",
+                  "text": "Dieses 1928 gegründete Theater ist in einem prachtvollen Jugendstilgebäude untergebracht und ein Zentrum der georgischen Schauspielkunst.",
+                  "category": "cultural",
+                  "coords": [
+                        44.794613,
+                        41.708766
+                  ]
+            },
+            {
+                  "name": "ყაზანის ღვთისმშობლის ხატის სახ. ეკლესია",
+                  "text": "Diese 2008 geweihte orthodoxe Kirche in Tiflis ist der Ikone der Gottesmutter von Kasan gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        44.800435,
+                        41.714452
+                  ]
+            },
+            {
+                  "name": "წმინდა იოანე ღვრთისმეტყველის სახელობის რუსული ეკლესია",
+                  "text": "Diese historische Kirche in Tiflis wurde im Jahr 1901 erbaut und dem Apostel Johannes gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        44.788891,
+                        41.707686
+                  ]
+            },
+            {
+                  "name": "ნოდარ დუმბაძის სახელობის მოზარდ მაყურებელთა თეატრი",
+                  "text": "Dieses nach dem Schriftsteller Nodar Dumbadse benannte Staatstheater in Tiflis spezialisiert sich auf Aufführungen für ein junges Publikum.",
+                  "category": "cultural",
+                  "coords": [
+                        44.796502,
+                        41.711277
+                  ]
+            },
+            {
+                  "name": "თბილისის სახელმწიფო საკონცერტო დარბაზი",
+                  "text": "Diese 1971 eröffnete Konzerthalle in Tiflis ist der Hauptsitz der staatlichen Philharmonie Georgiens.",
+                  "category": "cultural",
+                  "coords": [
+                        44.785486,
+                        41.707597
+                  ]
+            },
+            {
+                  "name": "წმ. ალექსანდრე ნეველის ეკლესია",
+                  "text": "Diese russisch-orthodoxe Kirche in Tiflis ist dem Heiligen Alexander Newski geweiht und zeigt klassische Sakralarchitektur.",
+                  "category": "religious",
+                  "coords": [
+                        44.801041,
+                        41.711334
+                  ]
+            },
+            {
+                  "name": "თამარ მეფის ხიდი",
+                  "text": "Diese 1935 fertiggestellte Brücke in Tiflis überspannt den Fluss Kura und ist nach der berühmten Königin Tamar benannt.",
+                  "category": "landmark",
+                  "coords": [
+                        44.787346,
+                        41.716894
+                  ]
+            },
+            {
+                  "name": "თბილისის ცირკი",
+                  "text": "Der 1940 im neoklassizistischen Stil errichtete Zirkus von Tiflis bietet eine markante runde Architektur auf einem Hügel.",
+                  "category": "landmark",
+                  "coords": [
+                        44.785178,
+                        41.714291
+                  ]
+            },
+            {
+                  "name": "გალაკტიონ ტაბიძის ხიდი",
+                  "text": "Diese nach dem georgischen Dichter Galaktion Tabidse benannte Brücke führt über den Fluss Kura im Zentrum von Tiflis.",
+                  "category": "landmark",
+                  "coords": [
+                        44.792682,
+                        41.707758
+                  ]
+            },
+            {
+                  "name": "რესპუბლიკური გ. მიქელაძის სახელობის სამეცნიერო-ტექნიკური ბიბლიოთეკა",
+                  "text": "Diese wissenschaftlich-technische Bibliothek in Tiflis beherbergt eine umfangreiche Sammlung technischer Fachliteratur.",
+                  "category": "landmark",
+                  "coords": [
+                        44.78536,
+                        41.709887
+                  ]
+            },
+            {
+                  "name": "მზიურის პარკი",
+                  "text": "Der Mziuri-Park in Tiflis wurde als Kinderstadt konzipiert und zeigt Skulpturen aus den Werken von Nodar Dumbadse.",
+                  "category": "landmark",
+                  "coords": [
+                        44.771312,
+                        41.711954
+                  ]
+            },
+            {
+                  "name": "Verepark",
+                  "text": "Dieser historische Stadtpark im Viertel Vera bietet schattige Alleen und einen weiten Blick über das Zentrum von Tiflis.",
+                  "category": "park",
+                  "coords": [
+                        44.787935,
+                        41.708657
+                  ]
+            },
+            {
+                  "name": "Runder Garten",
+                  "text": "Dieser kleine, kreisförmige Park im Stadtteil Wake ist für seinen zentralen Brunnen und die entspannte Atmosphäre bekannt.",
+                  "category": "park",
+                  "coords": [
+                        44.774941,
+                        41.70729
+                  ]
+            },
+            {
+                  "name": "თბილისის ზოოპარკი",
+                  "text": "Der 1927 gegründete Zoo von Tiflis liegt im Tal des Flusses Were und beherbergt eine Vielzahl exotischer Tierarten.",
+                  "category": "recreational",
+                  "coords": [
+                        44.777051,
+                        41.713055
+                  ]
+            },
+            {
+                  "name": "საავტორო თოჯინების გალერეა",
+                  "text": "Diese Galerie in Tiflis zeigt eine einzigartige Sammlung handgefertigter Puppen und kunstvoller Marionetten.",
+                  "category": "museum",
+                  "coords": [
+                        44.788665,
+                        41.71839
+                  ]
+            },
+            {
+                  "name": "Hermit Space",
+                  "text": "Hermit Space ist eine zeitgenössische Kunstgalerie in Tiflis, die Werke lokaler und internationaler Künstler präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        44.780507,
+                        41.708686
+                  ]
+            },
+            {
+                  "name": "Silk Factory Gallery",
+                  "text": "Diese in einer ehemaligen Seidenfabrik untergebrachte Galerie bietet einen industriellen Rahmen für zeitgenössische Kunstausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        44.784662,
+                        41.711775
+                  ]
+            },
+            {
+                  "name": "ნოვო",
+                  "text": "Die Galerie Novo in Tiflis präsentiert wechselnde Ausstellungen moderner Kunst in einem stilvollen urbanen Ambiente.",
+                  "category": "museum",
+                  "coords": [
+                        44.781496,
+                        41.706433
+                  ]
+            },
+            {
+                  "name": "ანიმაციური თოჯინების მუზეუმი",
+                  "text": "Dieses Museum in Tiflis widmet sich der Kunst animierter Puppen und mechanischer Spielzeuge aus verschiedenen Epochen.",
+                  "category": "museum",
+                  "coords": [
+                        44.797394,
+                        41.712654
+                  ]
+            },
+            {
+                  "name": "გმირთა მემორიალი",
+                  "text": "Dieses 2010 eingeweihte Denkmal in Tiflis ehrt die georgischen Helden, die für die Unabhängigkeit des Landes gefallen sind.",
+                  "category": "historical",
+                  "coords": [
+                        44.78249,
+                        41.713126
+                  ]
+            },
+            {
+                  "name": "ვასო აბაშიძის სახელობის ახალი თეატრი",
+                  "text": "Dieses moderne Theater in Tiflis ist nach dem Schauspieler Waso Abashidse benannt und bietet zeitgenössische Bühnenkunst.",
+                  "category": "cultural",
+                  "coords": [
+                        44.794635,
+                        41.714717
+                  ]
+            },
+            {
+                  "name": "სოხუმის სახელმწიფო დრამატული თეატრი",
+                  "text": "Dieses ursprünglich aus Suchumi stammende Exil-Theater in Tiflis pflegt das kulturelle Erbe Abchasiens durch dramatische Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        44.79251,
+                        41.711537
+                  ]
+            },
+            {
+                  "name": "ხელოვნების საერთაშორისო ცენტრი",
+                  "text": "Dieses Zentrum in Tiflis widmet sich der Bewahrung und Förderung des georgischen Kulturerbes sowie zeitgenössischer Kunstformen.",
+                  "category": "cultural",
+                  "coords": [
+                        44.787891,
+                        41.707144
+                  ]
+            },
+            {
+                  "name": "თბილისის თოჯინების სახელმწიფო თეატრი",
+                  "text": "Dieses staatliche Puppentheater in Tiflis begeistert sein Publikum mit kunstvollen Inszenierungen und einer langen Tradition der Puppenspielkunst.",
+                  "category": "cultural",
+                  "coords": [
+                        44.79378,
+                        41.71318
+                  ]
+            },
+            {
+                  "name": "ჰიდრომეტეოროლოგიის ინსტიტუტი",
+                  "text": "Das Institut für Hydrometeorologie in Tiflis ist eine bedeutende wissenschaftliche Einrichtung in einem markanten Gebäude.",
+                  "category": "landmark",
+                  "coords": [
+                        44.789719,
+                        41.71682
+                  ]
+            },
+            {
+                  "name": "ბერტა და არტურ ზუტნერების სახლი",
+                  "text": "In diesem Haus in Tiflis lebte die Friedensnobelpreisträgerin Bertha von Suttner während ihres neunjährigen Aufenthalts in Georgien.",
+                  "category": "landmark",
+                  "coords": [
+                        44.793688,
+                        41.710053
+                  ]
+            },
+            {
+                  "name": "წმინდა ექვთიმე ღვთისკაცის სახელობის ეკლესია",
+                  "text": "Diese orthodoxe Kirche in Tiflis ist Ekvtime Takaishvili gewidmet, der als Bewahrer der georgischen Kulturschätze verehrt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        44.792041,
+                        41.717616
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "იაკობ ნიკოლაძის სახლ-მუზეუმი",
+                  "text": "Iakob Nikoladze, a modern grúz szobrászat alapítójának egykori lakóháza és műterme.",
+                  "category": "museum",
+                  "coords": [
+                        44.782131,
+                        41.709044
+                  ]
+            },
+            {
+                  "name": "საქართველოს თეატრის, მუსიკის, კინოსა და ქორეოგრაფიის სახელმწიფო მუზეუმი",
+                  "text": "A múzeum egy pompás neogótikus palotában kapott helyet, és a grúz művészettörténet jelmezeit és kellékeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        44.794275,
+                        41.71588
+                  ]
+            },
+            {
+                  "name": "თუმანიშვილის კინომსახიობთა თეატრი",
+                  "text": "Egy neves tbiliszi színház, amelyet 1978-ban alapított Mihail Tumanisvili, és kísérleti előadásairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        44.78989,
+                        41.718868
+                  ]
+            },
+            {
+                  "name": "მარჯანიშვილის თეატრი",
+                  "text": "Ez az 1928-ban alapított színház egy pompás szecessziós épületben működik, és a grúz színművészet egyik központja.",
+                  "category": "cultural",
+                  "coords": [
+                        44.794613,
+                        41.708766
+                  ]
+            },
+            {
+                  "name": "ყაზანის ღვთისმშობლის ხატის სახ. ეკლესია",
+                  "text": "Ez a 2008-ban felszentelt ortodox templom Tbilisziben a Kazanyi Istenanya-ikon tiszteletére épült.",
+                  "category": "religious",
+                  "coords": [
+                        44.800435,
+                        41.714452
+                  ]
+            },
+            {
+                  "name": "წმინდა იოანე ღვრთისმეტყველის სახელობის რუსული ეკლესია",
+                  "text": "Ez a tbiliszi történelmi templom 1901-ben épült, és Szent János apostol és evangélista nevét viseli.",
+                  "category": "religious",
+                  "coords": [
+                        44.788891,
+                        41.707686
+                  ]
+            },
+            {
+                  "name": "ნოდარ დუმბაძის სახელობის მოზარდ მაყურებელთა თეატრი",
+                  "text": "Ez a Nodar Dumbadze íróról elnevezett tbiliszi állami színház kifejezetten a fiatal közönségnek szóló előadásokra szakosodott.",
+                  "category": "cultural",
+                  "coords": [
+                        44.796502,
+                        41.711277
+                  ]
+            },
+            {
+                  "name": "თბილისის სახელმწიფო საკონცერტო დარბაზი",
+                  "text": "Az 1971-ben megnyitott tbiliszi koncertterem a Grúz Állami Filharmónia elsődleges fellépőhelye.",
+                  "category": "cultural",
+                  "coords": [
+                        44.785486,
+                        41.707597
+                  ]
+            },
+            {
+                  "name": "წმ. ალექსანდრე ნეველის ეკლესია",
+                  "text": "Ez a Szent Alekszandr Nyevszkijnek szentelt orosz ortodox templom Tbilisziben a hagyományos szakrális építészet jegyeit viseli.",
+                  "category": "religious",
+                  "coords": [
+                        44.801041,
+                        41.711334
+                  ]
+            },
+            {
+                  "name": "თამარ მეფის ხიდი",
+                  "text": "Ez az 1935-ben elkészült tbiliszi híd a Kura folyó felett ível át, és a híres Tamar királynőről kapta nevét.",
+                  "category": "landmark",
+                  "coords": [
+                        44.787346,
+                        41.716894
+                  ]
+            },
+            {
+                  "name": "თბილისის ცირკი",
+                  "text": "Az 1940-ben neoklasszicista stílusban épült tbiliszi cirkusz egy jellegzetes kerek épület a város egyik dombján.",
+                  "category": "landmark",
+                  "coords": [
+                        44.785178,
+                        41.714291
+                  ]
+            },
+            {
+                  "name": "გალაკტიონ ტაბიძის ხიდი",
+                  "text": "Ez a Galaktion Tabidze költőről elnevezett híd Tbiliszi központjában ível át a Kura folyó felett.",
+                  "category": "landmark",
+                  "coords": [
+                        44.792682,
+                        41.707758
+                  ]
+            },
+            {
+                  "name": "რესპუბლიკური გ. მიქელაძის სახელობის სამეცნიერო-ტექნიკური ბიბლიოთეკა",
+                  "text": "Ez a G. Mikeladzéről elnevezett tbiliszi tudományos és műszaki könyvtár jelentős műszaki szakirodalmi gyűjteménnyel rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        44.78536,
+                        41.709887
+                  ]
+            },
+            {
+                  "name": "მზიურის პარკი",
+                  "text": "A tbiliszi Mziuri parkot gyermekvárosként hozták létre, és Nodar Dumbadze könyveinek karaktereit ábrázoló szobrok díszítik.",
+                  "category": "landmark",
+                  "coords": [
+                        44.771312,
+                        41.711954
+                  ]
+            },
+            {
+                  "name": "ვერის ბაღი",
+                  "text": "Ez a történelmi városi park Vera negyedében árnyas sétányokat és kilátást kínál Tbiliszi központjára.",
+                  "category": "park",
+                  "coords": [
+                        44.787935,
+                        41.708657
+                  ]
+            },
+            {
+                  "name": "მრგვალი ბაღი",
+                  "text": "Ez a kisméretű, kör alakú park Vake negyedében a központi szökőkútjáról és nyugodt környezetéről ismert.",
+                  "category": "park",
+                  "coords": [
+                        44.774941,
+                        41.70729
+                  ]
+            },
+            {
+                  "name": "თბილისის ზოოპარკი",
+                  "text": "Az 1927-ben alapított tbiliszi állatkert a Vere-folyó völgyében található, és számos egzotikus állatfajnak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        44.777051,
+                        41.713055
+                  ]
+            },
+            {
+                  "name": "საავტორო თოჯინების გალერეა",
+                  "text": "Ez a tbiliszi galéria kézzel készített babák és művészi bábok egyedülálló gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        44.788665,
+                        41.71839
+                  ]
+            },
+            {
+                  "name": "Hermit Space",
+                  "text": "A Hermit Space egy kortárs művészeti galéria Tbilisziben, amely helyi és nemzetközi művészek alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        44.780507,
+                        41.708686
+                  ]
+            },
+            {
+                  "name": "Silk Factory Gallery",
+                  "text": "Ez az egykori selyemgyárban berendezett galéria ipari környezetet biztosít a kortárs művészeti kiállításoknak.",
+                  "category": "museum",
+                  "coords": [
+                        44.784662,
+                        41.711775
+                  ]
+            },
+            {
+                  "name": "ნოვო",
+                  "text": "A tbiliszi Novo galéria a modern művészet változatos kiállításait mutatja be stílusos városi környezetben.",
+                  "category": "museum",
+                  "coords": [
+                        44.781496,
+                        41.706433
+                  ]
+            },
+            {
+                  "name": "ანიმაციური თოჯინების მუზეუმი",
+                  "text": "Ez a tbiliszi múzeum az animált bábok és a különböző korszakokból származó mechanikus játékok művészetének szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        44.797394,
+                        41.712654
+                  ]
+            },
+            {
+                  "name": "გმირთა მემორიალი",
+                  "text": "Ez a 2010-ben felavatott tbiliszi emlékmű a grúz hősök előtt tiszteleg, akik az ország függetlenségéért áldozták életüket.",
+                  "category": "historical",
+                  "coords": [
+                        44.78249,
+                        41.713126
+                  ]
+            },
+            {
+                  "name": "ვასო აბაშიძის სახელობის ახალი თეატრი",
+                  "text": "Ez a tbiliszi modern színház Vaso Abashidze színészről kapta nevét, és kortárs színpadi produkcióknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        44.794635,
+                        41.714717
+                  ]
+            },
+            {
+                  "name": "სოხუმის სახელმწიფო დრამატული თეატრი",
+                  "text": "Ez az eredetileg Szuhumiból származó tbiliszi száműzött színház drámai előadásokon keresztül őrzi Abházia kulturális örökségét.",
+                  "category": "cultural",
+                  "coords": [
+                        44.79251,
+                        41.711537
+                  ]
+            },
+            {
+                  "name": "ხელოვნების საერთაშორისო ცენტრი",
+                  "text": "Ez a tbiliszi központ a grúz kulturális örökség és a kortárs művészeti formák megőrzésének és népszerűsítésének szentelt.",
+                  "category": "cultural",
+                  "coords": [
+                        44.787891,
+                        41.707144
+                  ]
+            },
+            {
+                  "name": "თბილისის თოჯინების სახელმწიფო თეატრი",
+                  "text": "Ez a tbiliszi állami bábszínház művészi rendezéseivel és a bábjáték hosszú hagyományával szórakoztatja a közönséget.",
+                  "category": "cultural",
+                  "coords": [
+                        44.79378,
+                        41.71318
+                  ]
+            },
+            {
+                  "name": "ჰიდრომეტეოროლოგიის ინსტიტუტი",
+                  "text": "A tbiliszi Hidrometeorológiai Intézet egy jelentős tudományos intézmény, amely egy jellegzetes épületben kapott helyet.",
+                  "category": "landmark",
+                  "coords": [
+                        44.789719,
+                        41.71682
+                  ]
+            },
+            {
+                  "name": "ბერტა და არტურ ზუტნერების სახლი",
+                  "text": "Ebben a tbiliszi házban élt a Nobel-békedíjas Bertha von Suttner grúziai tartózkodása idején.",
+                  "category": "landmark",
+                  "coords": [
+                        44.793688,
+                        41.710053
+                  ]
+            },
+            {
+                  "name": "წმინდა ექვთიმე ღვთისკაცის სახელობის ეკლესია",
+                  "text": "Ez a tbiliszi ortodox templom Ekvtime Takaishvili emlékére épült, akit a nemzet kincseinek őrzőjeként tisztelnek.",
+                  "category": "landmark",
+                  "coords": [
+                        44.792041,
+                        41.717616
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "იაკობ ნიკოლაძის სახლ-მუზეუმი",
+                  "text": "Fosta casă și atelierul lui Iakob Nikoladze, fondatorul sculpturii moderne georgiene.",
+                  "category": "museum",
+                  "coords": [
+                        44.782131,
+                        41.709044
+                  ]
+            },
+            {
+                  "name": "საქართველოს თეატრის, მუსიკის, კინოსა და ქორეოგრაფიის სახელმწიფო მუზეუმი",
+                  "text": "Muzeul este găzduit într-un palat magnific în stil neogotic și expune costume și recuzită din istoria artei georgiene.",
+                  "category": "museum",
+                  "coords": [
+                        44.794275,
+                        41.71588
+                  ]
+            },
+            {
+                  "name": "თუმანიშვილის კინომსახიობთა თეატრი",
+                  "text": "Un renumit teatru din Tbilisi, fondat în 1978 de Mikhail Tumanishvili, cunoscut pentru producțiile sale experimentale.",
+                  "category": "cultural",
+                  "coords": [
+                        44.78989,
+                        41.718868
+                  ]
+            },
+            {
+                  "name": "მარჯანიშვილის თეატრი",
+                  "text": "Acest teatru, fondat în 1928, este găzduit într-o clădire Art Nouveau splendidă și este un centru al artei dramatice georgiene.",
+                  "category": "cultural",
+                  "coords": [
+                        44.794613,
+                        41.708766
+                  ]
+            },
+            {
+                  "name": "ყაზანის ღვთისმშობლის ხატის სახ. ეკლესია",
+                  "text": "Această biserică ortodoxă din Tbilisi, sfințită în 2008, este dedicată Icoanei Maicii Domnului din Kazan.",
+                  "category": "religious",
+                  "coords": [
+                        44.800435,
+                        41.714452
+                  ]
+            },
+            {
+                  "name": "წმინდა იოანე ღვრთისმეტყველის სახელობის რუსული ეკლესია",
+                  "text": "Această biserică istorică din Tbilisi a fost construită în 1901 și este dedicată Sfântului Apostol și Evanghelist Ioan.",
+                  "category": "religious",
+                  "coords": [
+                        44.788891,
+                        41.707686
+                  ]
+            },
+            {
+                  "name": "ნოდარ დუმბაძის სახელობის მოზარდ მაყურებელთა თეატრი",
+                  "text": "Acest teatru de stat din Tbilisi, numit după scriitorul Nodar Dumbadze, este specializat în spectacole dedicate publicului tânăr.",
+                  "category": "cultural",
+                  "coords": [
+                        44.796502,
+                        41.711277
+                  ]
+            },
+            {
+                  "name": "თბილისის სახელმწიფო საკონცერტო დარბაზი",
+                  "text": "Inaugurată în 1971, această sală de concerte din Tbilisi este sediul principal al Filarmonicii de Stat din Georgia.",
+                  "category": "cultural",
+                  "coords": [
+                        44.785486,
+                        41.707597
+                  ]
+            },
+            {
+                  "name": "წმ. ალექსანდრე ნეველის ეკლესია",
+                  "text": "Această biserică rusă din Tbilisi, dedicată Sfântului Alexandru Nevski, prezintă o arhitectură sacră tradițională.",
+                  "category": "religious",
+                  "coords": [
+                        44.801041,
+                        41.711334
+                  ]
+            },
+            {
+                  "name": "თამარ მეფის ხიდი",
+                  "text": "Finalizat în 1935, acest pod din Tbilisi traversează râul Kura și poartă numele celebrei regine Tamar.",
+                  "category": "landmark",
+                  "coords": [
+                        44.787346,
+                        41.716894
+                  ]
+            },
+            {
+                  "name": "თბილისის ცირკი",
+                  "text": "Construit în 1940 în stil neoclasic, circul din Tbilisi este o clădire circulară distinctivă situată pe un deal.",
+                  "category": "landmark",
+                  "coords": [
+                        44.785178,
+                        41.714291
+                  ]
+            },
+            {
+                  "name": "გალაკტიონ ტაბიძის ხიდი",
+                  "text": "Acest pod din centrul orașului Tbilisi poartă numele poetului Galaktion Tabidze și traversează râul Kura.",
+                  "category": "landmark",
+                  "coords": [
+                        44.792682,
+                        41.707758
+                  ]
+            },
+            {
+                  "name": "რესპუბლიკური გ. მიქელაძის სახელობის სამეცნიერო-ტექნიკური ბიბლიოთეკა",
+                  "text": "Această bibliotecă tehnico-științifică din Tbilisi, numită după G. Mikeladze, adăpostește o vastă colecție de literatură tehnică.",
+                  "category": "landmark",
+                  "coords": [
+                        44.78536,
+                        41.709887
+                  ]
+            },
+            {
+                  "name": "მზიურის პარკი",
+                  "text": "Parcul Mziuri din Tbilisi a fost conceput ca un orășel al copiilor și prezintă sculpturi ale personajelor din cărțile lui Nodar Dumbadze.",
+                  "category": "landmark",
+                  "coords": [
+                        44.771312,
+                        41.711954
+                  ]
+            },
+            {
+                  "name": "ვერის ბაღი",
+                  "text": "Acest parc istoric din cartierul Vera oferă alei umbrite și o vedere panoramică asupra centrului orașului Tbilisi.",
+                  "category": "park",
+                  "coords": [
+                        44.787935,
+                        41.708657
+                  ]
+            },
+            {
+                  "name": "მრგვალი ბაღი",
+                  "text": "Acest mic parc circular din cartierul Vake este cunoscut pentru fântâna sa centrală și atmosfera relaxantă.",
+                  "category": "park",
+                  "coords": [
+                        44.774941,
+                        41.70729
+                  ]
+            },
+            {
+                  "name": "თბილისის ზოოპარკი",
+                  "text": "Fondată în 1927, grădina zoologică din Tbilisi este situată în valea râului Vere și găzduiește numeroase specii exotice.",
+                  "category": "recreational",
+                  "coords": [
+                        44.777051,
+                        41.713055
+                  ]
+            },
+            {
+                  "name": "საავტორო თოჯინების გალერეა",
+                  "text": "Această galerie din Tbilisi expune o colecție unică de păpuși lucrate manual și marionete artistice.",
+                  "category": "museum",
+                  "coords": [
+                        44.788665,
+                        41.71839
+                  ]
+            },
+            {
+                  "name": "Hermit Space",
+                  "text": "Hermit Space este o galerie de artă contemporană din Tbilisi care prezintă lucrări ale artiștilor locali și internaționali.",
+                  "category": "museum",
+                  "coords": [
+                        44.780507,
+                        41.708686
+                  ]
+            },
+            {
+                  "name": "Silk Factory Gallery",
+                  "text": "Această galerie, situată într-o fostă fabrică de mătase, oferă un cadru industrial pentru expoziții de artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        44.784662,
+                        41.711775
+                  ]
+            },
+            {
+                  "name": "ნოვო",
+                  "text": "Galeria Novo din Tbilisi prezintă expoziții variate de artă modernă într-un ambient urban stilat.",
+                  "category": "museum",
+                  "coords": [
+                        44.781496,
+                        41.706433
+                  ]
+            },
+            {
+                  "name": "ანიმაციური თოჯინების მუზეუმი",
+                  "text": "Acest muzeu din Tbilisi este dedicat artei păpușilor animate și a jucăriilor mecanice din diferite epoci.",
+                  "category": "museum",
+                  "coords": [
+                        44.797394,
+                        41.712654
+                  ]
+            },
+            {
+                  "name": "გმირთა მემორიალი",
+                  "text": "Acest monument din Tbilisi, inaugurat în 2010, onorează eroii georgieni care au căzut pentru independența țării.",
+                  "category": "historical",
+                  "coords": [
+                        44.78249,
+                        41.713126
+                  ]
+            },
+            {
+                  "name": "ვასო აბაშიძის სახელობის ახალი თეატრი",
+                  "text": "Acest teatru modern din Tbilisi poartă numele actorului Vaso Abashidze și găzduiește producții scenice contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        44.794635,
+                        41.714717
+                  ]
+            },
+            {
+                  "name": "სოხუმის სახელმწიფო დრამატული თეატრი",
+                  "text": "Acest teatru în exil din Tbilisi, originar din Suhumi, menține moștenirea culturală a Abhaziei prin spectacole dramatice.",
+                  "category": "cultural",
+                  "coords": [
+                        44.79251,
+                        41.711537
+                  ]
+            },
+            {
+                  "name": "ხელოვნების საერთაშორისო ცენტრი",
+                  "text": "Acest centru din Tbilisi este dedicat conservării și promovării moștenirii culturale georgiene și a formelor de artă contemporană.",
+                  "category": "cultural",
+                  "coords": [
+                        44.787891,
+                        41.707144
+                  ]
+            },
+            {
+                  "name": "თბილისის თოჯინების სახელმწიფო თეატრი",
+                  "text": "Acest teatru de stat pentru păpuși din Tbilisi își încântă publicul cu montări artistice și o lungă tradiție în arta păpușăriei.",
+                  "category": "cultural",
+                  "coords": [
+                        44.79378,
+                        41.71318
+                  ]
+            },
+            {
+                  "name": "ჰიდრომეტეოროლოგიის ინსტიტუტი",
+                  "text": "Institutul de Hidrometeorologie din Tbilisi este o instituție științifică importantă, situată într-o clădire distinctivă.",
+                  "category": "landmark",
+                  "coords": [
+                        44.789719,
+                        41.71682
+                  ]
+            },
+            {
+                  "name": "ბერტა და არტურ ზუტნერების სახლი",
+                  "text": "În această casă din Tbilisi a locuit laureata Premiului Nobel pentru Pace, Bertha von Suttner, în timpul șederii sale în Georgia.",
+                  "category": "landmark",
+                  "coords": [
+                        44.793688,
+                        41.710053
+                  ]
+            },
+            {
+                  "name": "წმინდა ექვთიმე ღვთისკაცის სახელობის ეკლესია",
+                  "text": "Această biserică ortodoxă din Tbilisi este dedicată lui Ekvtime Takaishvili, venerat ca fiind păstrătorul comorilor națiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        44.792041,
+                        41.717616
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "House of Iakob Nikoladze",
+                  "text": "The former home and studio of Iakob Nikoladze, the founder of modern Georgian sculpture.",
+                  "category": "museum",
+                  "coords": [
+                        44.782131,
+                        41.709044
+                  ]
+            },
+            {
+                  "name": "Georgian State Museum of Theatre, Music, Cinema and Choreography",
+                  "text": "The museum is housed in a magnificent Neo-Gothic palace and displays costumes and props from Georgian art history.",
+                  "category": "museum",
+                  "coords": [
+                        44.794275,
+                        41.71588
+                  ]
+            },
+            {
+                  "name": "M. Tumanishvili Cinema Actors' Theatre",
+                  "text": "A renowned Tbilisi theatre founded in 1978 by Mikhail Tumanishvili, known for its experimental productions.",
+                  "category": "cultural",
+                  "coords": [
+                        44.78989,
+                        41.718868
+                  ]
+            },
+            {
+                  "name": "Marjanishvili Theatre",
+                  "text": "Founded in 1928, this theatre is housed in a grand Art Nouveau building and is a hub of Georgian dramatic arts.",
+                  "category": "cultural",
+                  "coords": [
+                        44.794613,
+                        41.708766
+                  ]
+            },
+            {
+                  "name": "Kazan Virgin Mary's Icon Church",
+                  "text": "This Orthodox church in Tbilisi was consecrated in 2008 and is dedicated to the Icon of the Mother of God of Kazan.",
+                  "category": "religious",
+                  "coords": [
+                        44.800435,
+                        41.714452
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Apostle and Evangelist John the Theologian",
+                  "text": "This historic church in Tbilisi was built in 1901 and is dedicated to Saint John the Apostle and Evangelist.",
+                  "category": "religious",
+                  "coords": [
+                        44.788891,
+                        41.707686
+                  ]
+            },
+            {
+                  "name": "Tbilisi Nodar Dumbadze Professional State Youth Theatre",
+                  "text": "Named after the writer Nodar Dumbadze, this state theatre in Tbilisi specializes in performances for young audiences.",
+                  "category": "cultural",
+                  "coords": [
+                        44.796502,
+                        41.711277
+                  ]
+            },
+            {
+                  "name": "Tbilisi State Concert Hall",
+                  "text": "Opened in 1971, this concert hall in Tbilisi is the primary venue for the State Philharmonic of Georgia.",
+                  "category": "cultural",
+                  "coords": [
+                        44.785486,
+                        41.707597
+                  ]
+            },
+            {
+                  "name": "St. Aleksandr Nevski Russian Orthodox Church",
+                  "text": "Dedicated to Saint Alexander Nevsky, this Russian Orthodox church in Tbilisi features traditional religious architecture.",
+                  "category": "religious",
+                  "coords": [
+                        44.801041,
+                        41.711334
+                  ]
+            },
+            {
+                  "name": "Queen Tamar Bridge",
+                  "text": "Completed in 1935, this bridge in Tbilisi spans the Mtkvari River and is named after the famous Queen Tamar.",
+                  "category": "landmark",
+                  "coords": [
+                        44.787346,
+                        41.716894
+                  ]
+            },
+            {
+                  "name": "Tbilisi Circus",
+                  "text": "Built in 1940 in Neoclassical style, the Tbilisi Circus is a landmark circular building situated on a hill.",
+                  "category": "landmark",
+                  "coords": [
+                        44.785178,
+                        41.714291
+                  ]
+            },
+            {
+                  "name": "Galaktion Tabidze Bridge",
+                  "text": "Named after the poet Galaktion Tabidze, this bridge spans the Mtkvari River in central Tbilisi.",
+                  "category": "landmark",
+                  "coords": [
+                        44.792682,
+                        41.707758
+                  ]
+            },
+            {
+                  "name": "Republican Scientific and Technical Library named after G. Mikeladze",
+                  "text": "Named after G. Mikeladze, this scientific and technical library in Tbilisi houses a significant collection of technical literature.",
+                  "category": "landmark",
+                  "coords": [
+                        44.78536,
+                        41.709887
+                  ]
+            },
+            {
+                  "name": "Mziuri Park",
+                  "text": "Mziuri Park in Tbilisi was designed as a \"children's town\" and features sculptures of characters from Nodar Dumbadze's books.",
+                  "category": "landmark",
+                  "coords": [
+                        44.771312,
+                        41.711954
+                  ]
+            },
+            {
+                  "name": "Vera Park",
+                  "text": "This historic city park in the Vera district features shaded alleys and views over central Tbilisi.",
+                  "category": "park",
+                  "coords": [
+                        44.787935,
+                        41.708657
+                  ]
+            },
+            {
+                  "name": "Round Garden",
+                  "text": "This small, circular park in the Vake district is known for its central fountain and relaxed atmosphere.",
+                  "category": "park",
+                  "coords": [
+                        44.774941,
+                        41.70729
+                  ]
+            },
+            {
+                  "name": "Tbilisi Zoo",
+                  "text": "Founded in 1927, the Tbilisi Zoo is located in the Vere River valley and houses a variety of exotic animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        44.777051,
+                        41.713055
+                  ]
+            },
+            {
+                  "name": "Doll Art Gallery",
+                  "text": "This gallery in Tbilisi exhibits a unique collection of handmade dolls and artistic puppets.",
+                  "category": "museum",
+                  "coords": [
+                        44.788665,
+                        41.71839
+                  ]
+            },
+            {
+                  "name": "Hermit Space",
+                  "text": "Hermit Space is a contemporary art gallery in Tbilisi showcasing works by local and international artists.",
+                  "category": "museum",
+                  "coords": [
+                        44.780507,
+                        41.708686
+                  ]
+            },
+            {
+                  "name": "Silk Factory Gallery",
+                  "text": "Located in a former silk factory, this gallery provides an industrial setting for contemporary art exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        44.784662,
+                        41.711775
+                  ]
+            },
+            {
+                  "name": "Novo",
+                  "text": "The Novo gallery in Tbilisi showcases diverse exhibitions of modern art in a stylish urban setting.",
+                  "category": "museum",
+                  "coords": [
+                        44.781496,
+                        41.706433
+                  ]
+            },
+            {
+                  "name": "Animated Puppet Museum",
+                  "text": "This museum in Tbilisi is dedicated to the art of animated puppets and mechanical toys from various eras.",
+                  "category": "museum",
+                  "coords": [
+                        44.797394,
+                        41.712654
+                  ]
+            },
+            {
+                  "name": "Heroes Memorial",
+                  "text": "Dedicated in 2010, this memorial in Tbilisi honors the Georgian heroes who fell for the country's independence.",
+                  "category": "historical",
+                  "coords": [
+                        44.78249,
+                        41.713126
+                  ]
+            },
+            {
+                  "name": "Vaso Abashidze State New Theatre",
+                  "text": "Named after the actor Vaso Abashidze, this modern theatre in Tbilisi hosts contemporary stage productions.",
+                  "category": "cultural",
+                  "coords": [
+                        44.794635,
+                        41.714717
+                  ]
+            },
+            {
+                  "name": "Sokhumi State Drama Theatre",
+                  "text": "Originally from Sokhumi, this exiled theatre company in Tbilisi preserves the cultural heritage of Abkhazia through dramatic performances.",
+                  "category": "cultural",
+                  "coords": [
+                        44.79251,
+                        41.711537
+                  ]
+            },
+            {
+                  "name": "Georgian Arts & Culture Center",
+                  "text": "This center in Tbilisi is dedicated to the preservation and promotion of Georgian cultural heritage and contemporary art forms.",
+                  "category": "cultural",
+                  "coords": [
+                        44.787891,
+                        41.707144
+                  ]
+            },
+            {
+                  "name": "Tbilisi State Puppet Theatre",
+                  "text": "This state puppet theatre in Tbilisi delights audiences with artistic productions and a long tradition of puppetry.",
+                  "category": "cultural",
+                  "coords": [
+                        44.79378,
+                        41.71318
+                  ]
+            },
+            {
+                  "name": "ჰიდრომეტეოროლოგიის ინსტიტუტი",
+                  "text": "The Institute of Hydrometeorology in Tbilisi is a significant scientific institution housed in a distinctive building.",
+                  "category": "landmark",
+                  "coords": [
+                        44.789719,
+                        41.71682
+                  ]
+            },
+            {
+                  "name": "Bertha and Arthur Suttner's House",
+                  "text": "This house in Tbilisi was the residence of Nobel Peace Prize laureate Bertha von Suttner during her stay in Georgia.",
+                  "category": "landmark",
+                  "coords": [
+                        44.793688,
+                        41.710053
+                  ]
+            },
+            {
+                  "name": "Saint Ekvtime Takaishvili church",
+                  "text": "This Orthodox church in Tbilisi is dedicated to Ekvtime Takaishvili, revered as the guardian of Georgia's national treasures.",
+                  "category": "landmark",
+                  "coords": [
+                        44.792041,
+                        41.717616
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "GE-TB",
     coords: [44.7833, 41.7166],
@@ -44,7 +1133,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "ხელოვნების მუზეუმი",
-                  "text": "Art Museum ist ein bemerkenswertes Museum in Batumi.",
+                  "text": "1949 gegründetes Kunstmuseum in Batumi.",
                   "category": "museum",
                   "coords": [
                         41.633863,
@@ -53,7 +1142,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             },
             {
                   "name": "ბათუმის ი. ჭავჭავაძის სახელობის დრამატული თეატრი",
-                  "text": "Batumi Drama Theatre after I. Chavchavadze ist ein bekanntes Theater in Batumi.",
+                  "text": "Batumi-Drama-Theater, ein prominentes Theater am Schwarzen Meer, benannt nach Ilia Tschawtschawadse.",
                   "category": "cultural",
                   "coords": [
                         41.638277,
@@ -62,7 +1151,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             },
             {
                   "name": "ბათუმის დელფინარიუმი",
-                  "text": "Batumi Dolphinarium ist ein bekanntes Aquarium in Batumi.",
+                  "text": "Batumi-Delfinarium, eines der größten in der Region, mit Delfinshows.",
                   "category": "family",
                   "coords": [
                         41.623524,
@@ -89,7 +1178,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             },
             {
                   "name": "Batumi Sommertheater",
-                  "text": "Das Batumi Summer Theater ist ein hölzernes Theatergebäude in Batumi.",
+                  "text": "Batumi-Sommer-Theater, Freilichtbühne an der Schwarzmeerküste, eröffnet 2013.",
                   "category": "cultural",
                   "coords": [
                         41.632886,
@@ -116,7 +1205,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             },
             {
                   "name": "აკვარიუმი",
-                  "text": "Das Aquarium von Batumi ist ein Meeresmuseum, das verschiedene Meeresarten in Batumi zeigt.",
+                  "text": "Aquarium in Batumi mit Schwarzmeer-Fischarten und Meerestieren.",
                   "category": "museum",
                   "coords": [
                         41.622563,
@@ -134,7 +1223,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             },
             {
                   "name": "ბათუმი პარკ",
-                  "text": "Der Batumi Park ist ein Freizeitpark, der Freizeitaktivitäten und Attraktionen in Batumi bietet.",
+                  "text": "Stadtpark in Batumi mit Springbrunnen und Grünflächen entlang der Uferpromenade.",
                   "category": "family",
                   "coords": [
                         41.604409,
@@ -152,7 +1241,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             },
             {
                   "name": "ბათუმის ყურე",
-                  "text": "Die Bucht von Batumi ist eine malerische natürliche Bucht an der Schwarzmeerküste in Batumi.",
+                  "text": "Batumi-Bucht, eine große Bucht am Schwarzen Meer, bekannt für ihre Strandpromenade.",
                   "category": "landmark",
                   "coords": [
                         41.649942,
@@ -197,7 +1286,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             },
             {
                   "name": "ბათუმის შუქურა",
-                  "text": "Der Leuchtturm von Batumi ist eine historische maritime Navigationshilfe und Attraktion in Batumi.",
+                  "text": "Der 1882 erbaute Batumi-Leuchtturm markiert die Einfahrt zum Hafen von Batumi.",
                   "category": "landmark",
                   "coords": [
                         41.641073,
@@ -287,7 +1376,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             },
             {
                   "name": "Zirkus",
-                  "text": "Der Zirkus ist ein Unterhaltungsort und eine Attraktion in Batumi.",
+                  "text": "1903 erbautes Zirkusgebäude in Batumi.",
                   "category": "landmark",
                   "coords": [
                         41.637171,
@@ -305,7 +1394,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             },
             {
                   "name": "სულიწმიდის კათოლიკური ეკლესია",
-                  "text": "Die katholische Heilig-Geist-Kirche ist ein modernes Gotteshaus in Batumi.",
+                  "text": "1999 erbaute katholische Kirche des Heiligen Geistes in Batumi.",
                   "category": "religious",
                   "coords": [
                         41.649864,
@@ -332,7 +1421,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             },
             {
                   "name": "წმინდა ბარბარეს ეკლესია",
-                  "text": "Die St.-Barbare-Kirche ist ein orthodoxes Gotteshaus in Batumi.",
+                  "text": "1905 erbaute Kirche der Heiligen Barbara in Batumi.",
                   "category": "religious",
                   "coords": [
                         41.631526,
@@ -343,7 +1432,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "ხელოვნების მუზეუმი",
-                  "text": "Az Art Museum egy jelentős múzeum Batumi városában.",
+                  "text": "1949-ben alapított Művészeti Múzeum Batumiban.",
                   "category": "museum",
                   "coords": [
                         41.633863,
@@ -352,7 +1441,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             },
             {
                   "name": "ბათუმის ი. ჭავჭავაძის სახელობის დრამატული თეატრი",
-                  "text": "A Batumi Drama Theatre after I. Chavchavadze egy jelentős színház Batumi városában.",
+                  "text": "Batumi Dráma Színház, a Fekete-tenger partján, Ilia Csavcsavadzéról elnevezve.",
                   "category": "cultural",
                   "coords": [
                         41.638277,
@@ -361,7 +1450,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             },
             {
                   "name": "ბათუმის დელფინარიუმი",
-                  "text": "A Batumi Dolphinarium egy jelentős akvárium Batumi városában.",
+                  "text": "Batumi Delfinárium, a régió egyik legnagyobbja, delfinbemutatókkal.",
                   "category": "family",
                   "coords": [
                         41.623524,
@@ -388,7 +1477,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             },
             {
                   "name": "ბათუმის საზაფხულო თეატრი",
-                  "text": "A Batumi Nyári Színház egy fából készült színházépület Batumiban.",
+                  "text": "Batumi Nyári Színház, szabadtéri színpad a Fekete-tenger partján, megnyílt 2013-ban.",
                   "category": "cultural",
                   "coords": [
                         41.632886,
@@ -415,7 +1504,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             },
             {
                   "name": "აკვარიუმი",
-                  "text": "A Batumi Akvárium egy tengeri múzeum, amely különböző tengeri fajokat mutat be Batumiban.",
+                  "text": "Akvárium Batumiban, a Fekete-tenger halfajaival és tengeri élőlényeivel.",
                   "category": "museum",
                   "coords": [
                         41.622563,
@@ -433,7 +1522,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             },
             {
                   "name": "ბათუმი პარკ",
-                  "text": "A Batumi Park egy vidámpark, amely szabadidős tevékenységeket és látványosságokat kínál Batumiban.",
+                  "text": "Városi park Batumiban szökőkutakkal és zöldterületekkel a tengerparti sétány mentén.",
                   "category": "family",
                   "coords": [
                         41.604409,
@@ -451,7 +1540,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             },
             {
                   "name": "ბათუმის ყურე",
-                  "text": "A Batumi-öböl egy festői természetes öböl a Fekete-tenger partján, Batumiban.",
+                  "text": "Batumi-öböl, egy nagy öböl a Fekete-tenger partján, híres tengerparti sétányáról.",
                   "category": "landmark",
                   "coords": [
                         41.649942,
@@ -496,7 +1585,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             },
             {
                   "name": "ბათუმის შუქურა",
-                  "text": "A Batumi Világítótorony egy történelmi tengerészeti navigációs segédeszköz és látványosság Batumiban.",
+                  "text": "Az 1882-ben épült Batumi világítótorony jelzi a batumi kikötő bejáratát.",
                   "category": "landmark",
                   "coords": [
                         41.641073,
@@ -586,7 +1675,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             },
             {
                   "name": "ცირკი",
-                  "text": "A Cirkusz egy szórakoztató létesítmény és látványosság Batumiban.",
+                  "text": "1903-ban épült cirkuszépület Batumiban.",
                   "category": "landmark",
                   "coords": [
                         41.637171,
@@ -604,7 +1693,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             },
             {
                   "name": "სულიწმიდის კათოლიკური ეკლესია",
-                  "text": "A Szentlélek katolikus templom egy modern istentiszteleti hely Batumiban.",
+                  "text": "1999-ben épült Szentlélek katolikus templom Batumiban.",
                   "category": "religious",
                   "coords": [
                         41.649864,
@@ -631,7 +1720,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             },
             {
                   "name": "წმინდა ბარბარეს ეკლესია",
-                  "text": "A Szent Borbála-templom egy ortodox istentiszteleti hely Batumiban.",
+                  "text": "1905-ben épült Szent Borbála templom Batumiban.",
                   "category": "religious",
                   "coords": [
                         41.631526,
@@ -642,7 +1731,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "ხელოვნების მუზეუმი",
-                  "text": "Art Museum este un muzeu notabil situat în Batumi.",
+                  "text": "Muzeul de Artă fondat în 1949 în Batumi.",
                   "category": "museum",
                   "coords": [
                         41.633863,
@@ -651,7 +1740,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             },
             {
                   "name": "ბათუმის ი. ჭავჭავაძის სახელობის დრამატული თეატრი",
-                  "text": "Batumi Drama Theatre after I. Chavchavadze este un teatru notabil situat în Batumi.",
+                  "text": "Teatrul Dramatic din Batumi, un teatru proeminent pe coasta Mării Negre, numit după Ilia Chavchavadze.",
                   "category": "cultural",
                   "coords": [
                         41.638277,
@@ -660,7 +1749,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             },
             {
                   "name": "ბათუმის დელფინარიუმი",
-                  "text": "Batumi Dolphinarium este un acvariu notabil situat în Batumi.",
+                  "text": "Delfinariul din Batumi, unul dintre cele mai mari din regiune, cu spectacole cu delfini.",
                   "category": "family",
                   "coords": [
                         41.623524,
@@ -687,7 +1776,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             },
             {
                   "name": "ბათუმის საზაფხულო თეატრი",
-                  "text": "Teatrul de Vară din Batumi este o clădire din lemn destinată spectacolelor, situată în Batumi.",
+                  "text": "Teatrul de Vară din Batumi, o scenă în aer liber pe coasta Mării Negre, deschis în 2013.",
                   "category": "cultural",
                   "coords": [
                         41.632886,
@@ -714,7 +1803,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             },
             {
                   "name": "აკვარიუმი",
-                  "text": "Acvariul din Batumi este un muzeu acvatic care prezintă diverse specii marine în Batumi.",
+                  "text": "Acvariu în Batumi cu specii de pești și viețuitoare marine din Marea Neagră.",
                   "category": "museum",
                   "coords": [
                         41.622563,
@@ -732,7 +1821,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             },
             {
                   "name": "ბათუმი პარკ",
-                  "text": "Parcul Batumi este un parc tematic care oferă activități de agrement și atracții în Batumi.",
+                  "text": "Parcul orașului Batumi, cu fântâni și spații verzi de-a lungul bulevardului de pe malul mării.",
                   "category": "family",
                   "coords": [
                         41.604409,
@@ -750,7 +1839,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             },
             {
                   "name": "ბათუმის ყურე",
-                  "text": "Golful Batumi este un golf natural pitoresc pe coasta Mării Negre în Batumi.",
+                  "text": "Golful Batumi, un golf mare pe Marea Neagră, cunoscut pentru promenada de pe litoral.",
                   "category": "landmark",
                   "coords": [
                         41.649942,
@@ -795,7 +1884,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             },
             {
                   "name": "ბათუმის შუქურა",
-                  "text": "Farul din Batumi este un ajutor istoric pentru navigația maritimă și o atracție în Batumi.",
+                  "text": "Farul Batumi, construit în 1882, marchează intrarea în portul Batumi.",
                   "category": "landmark",
                   "coords": [
                         41.641073,
@@ -885,7 +1974,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             },
             {
                   "name": "ცირკი",
-                  "text": "Circul este un loc de divertisment și o atracție situată în Batumi.",
+                  "text": "Clădire de circ construită în 1903 în Batumi.",
                   "category": "landmark",
                   "coords": [
                         41.637171,
@@ -903,7 +1992,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             },
             {
                   "name": "სულიწმიდის კათოლიკური ეკლესია",
-                  "text": "Biserica Catolică a Sfântului Duh este un lăcaș de cult modern situat în Batumi.",
+                  "text": "Biserica catolică a Sfântului Duh construită în 1999 în Batumi.",
                   "category": "religious",
                   "coords": [
                         41.649864,
@@ -930,7 +2019,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             },
             {
                   "name": "წმინდა ბარბარეს ეკლესია",
-                  "text": "Biserica Sfânta Barbara este un lăcaș de cult ortodox situat în Batumi.",
+                  "text": "Biserica Sfânta Barbara construită în 1905 în Batumi.",
                   "category": "religious",
                   "coords": [
                         41.631526,
@@ -941,7 +2030,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Art Museum",
-                  "text": "Art Museum is a notable museum located in Batumi.",
+                  "text": "Art museum founded in 1949 in Batumi.",
                   "category": "museum",
                   "coords": [
                         41.633863,
@@ -950,7 +2039,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             },
             {
                   "name": "Batumi Drama Theatre after I. Chavchavadze",
-                  "text": "Batumi Drama Theatre after I. Chavchavadze is a notable theatre located in Batumi.",
+                  "text": "Batumi Drama Theatre, a prominent theatre on the Black Sea, named after Ilia Chavchavadze.",
                   "category": "cultural",
                   "coords": [
                         41.638277,
@@ -959,7 +2048,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             },
             {
                   "name": "Batumi Dolphinarium",
-                  "text": "Batumi Dolphinarium is a notable aquarium located in Batumi.",
+                  "text": "Batumi Dolphinarium, one of the largest in the region, with dolphin shows.",
                   "category": "family",
                   "coords": [
                         41.623524,
@@ -986,7 +2075,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             },
             {
                   "name": "Batumi Summer Theater",
-                  "text": "The Batumi Summer Theater is a wooden theatre venue located in Batumi.",
+                  "text": "Batumi Summer Theater, an open-air venue on the Black Sea coast, opened in 2013.",
                   "category": "cultural",
                   "coords": [
                         41.632886,
@@ -1013,7 +2102,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             },
             {
                   "name": "Batumi Aquarium",
-                  "text": "The Batumi Aquarium is an aquatic museum showcasing various marine species in Batumi.",
+                  "text": "Aquarium in Batumi showcasing Black Sea marine life.",
                   "category": "museum",
                   "coords": [
                         41.622563,
@@ -1031,7 +2120,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             },
             {
                   "name": "Batumi Park",
-                  "text": "Batumi Park is a theme park offering leisure activities and attractions in Batumi.",
+                  "text": "City park in Batumi with fountains and greenery along the seaside boulevard.",
                   "category": "family",
                   "coords": [
                         41.604409,
@@ -1049,7 +2138,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             },
             {
                   "name": "Batumi Bay",
-                  "text": "Batumi Bay is a scenic natural bay on the Black Sea coast in Batumi.",
+                  "text": "Batumi Bay, a large bay on the Black Sea, known for its beach promenade.",
                   "category": "landmark",
                   "coords": [
                         41.649942,
@@ -1094,7 +2183,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             },
             {
                   "name": "Batumi Lighthouse",
-                  "text": "The Batumi Lighthouse is a historical maritime navigational aid and attraction in Batumi.",
+                  "text": "The Batumi Lighthouse, built in 1882, marks the entrance to Batumi's port.",
                   "category": "landmark",
                   "coords": [
                         41.641073,
@@ -1184,7 +2273,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             },
             {
                   "name": "Circus",
-                  "text": "The Circus is an entertainment venue and attraction located in Batumi.",
+                  "text": "Circus building built in 1903 in Batumi.",
                   "category": "landmark",
                   "coords": [
                         41.637171,
@@ -1202,7 +2291,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             },
             {
                   "name": "The Catholic Church of the Holy Spirit",
-                  "text": "The Catholic Church of the Holy Spirit is a modern place of worship located in Batumi.",
+                  "text": "Catholic Church of the Holy Spirit built in 1999 in Batumi.",
                   "category": "religious",
                   "coords": [
                         41.649864,
@@ -1229,7 +2318,7 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
             },
             {
                   "name": "St. Barbare Church",
-                  "text": "St. Barbare Church is an Orthodox place of worship located in Batumi.",
+                  "text": "Church of St. Barbara built in 1905 in Batumi.",
                   "category": "religious",
                   "coords": [
                         41.631526,
@@ -1285,7 +2374,7 @@ image: "/poi-images/ge-batumi-cities-v2.webp",
       "de": [
             {
                   "name": "თოჯინების თეატრი",
-                  "text": "Das Puppet Theatre ist ein Theater in Kutaissi.",
+                  "text": "Kleines Puppentheater in der Altstadt von Kutaisi.",
                   "category": "cultural",
                   "coords": [
                         42.702752,
@@ -1294,7 +2383,7 @@ image: "/poi-images/ge-batumi-cities-v2.webp",
             },
             {
                   "name": "Kutaisi Museum of Sport",
-                  "text": "Das Kutaisi Museum of Sport ist ein städtisches Museum in Kutaissi.",
+                  "text": "Das Sportmuseum Kutaisi zeigt Erinnerungsstücke und Trophäen georgischer Athleten.",
                   "category": "museum",
                   "coords": [
                         42.704849,
@@ -1303,7 +2392,7 @@ image: "/poi-images/ge-batumi-cities-v2.webp",
             },
             {
                   "name": "ფოტო-კინო მატიანეს მიზეუმი",
-                  "text": "Das Photo-cinema Chronicle Museum ist ein Museum in Kutaissi.",
+                  "text": "Museum für Fotografie und Filmgeschichte in Kutaissi.",
                   "category": "museum",
                   "coords": [
                         42.707116,
@@ -1312,7 +2401,7 @@ image: "/poi-images/ge-batumi-cities-v2.webp",
             },
             {
                   "name": "მ.ბალანჩივაძის სახელობის ქუთაისის ოპერისა და ბალეტის თეატრი",
-                  "text": "Das M. Balanchivadze Kutaisi State Opera and Ballet Theatre ist ein Theater in Kutaissi.",
+                  "text": "Opern- und Balletttheater in Kutaissi, benannt nach Meliton Balanchivadze.",
                   "category": "cultural",
                   "coords": [
                         42.70224,
@@ -1321,7 +2410,7 @@ image: "/poi-images/ge-batumi-cities-v2.webp",
             },
             {
                   "name": "Weiße Brücke",
-                  "text": "Die Weiße Brücke ist eine Sehenswürdigkeit in Kutaissi.",
+                  "text": "Weiße Fußgängerbrücke über den Fluss Rioni in Kutaissi.",
                   "category": "landmark",
                   "coords": [
                         42.700381,
@@ -1339,7 +2428,7 @@ image: "/poi-images/ge-batumi-cities-v2.webp",
             },
             {
                   "name": "ბერმუხა",
-                  "text": "Das sowjetische Flachrelief „Bermucha“ ist eine Sehenswürdigkeit in Kutaissi.",
+                  "text": "Sowjetisches Basrelief in Kutaissi, das historische Szenen darstellt.",
                   "category": "landmark",
                   "coords": [
                         42.673274,
@@ -1348,7 +2437,7 @@ image: "/poi-images/ge-batumi-cities-v2.webp",
             },
             {
                   "name": "ქრისტინე რობაქიძის გალერეა",
-                  "text": "Dies ist eine Kunstgalerie in der Stadt Kutaissi.",
+                  "text": "Galerie für zeitgenössische Kunst in Kutaissi, benannt nach Kristine Robakidse.",
                   "category": "museum",
                   "coords": [
                         42.716656,
@@ -1366,7 +2455,7 @@ image: "/poi-images/ge-batumi-cities-v2.webp",
             },
             {
                   "name": "წმინდა გიორგის ეკლესია",
-                  "text": "Die St.-Georgs-Kirche ist ein lokales Gotteshaus in Kutaissi.",
+                  "text": "Mittelalterliche georgisch-orthodoxe Kirche im Zentrum von Kutaisi.",
                   "category": "religious",
                   "coords": [
                         42.709048,
@@ -1375,7 +2464,7 @@ image: "/poi-images/ge-batumi-cities-v2.webp",
             },
             {
                   "name": "ღვთისმშობლის ხარების სახელობის ტაძარი",
-                  "text": "Die Kirche Mariä Verkündigung ist ein Gotteshaus in Kutaissi.",
+                  "text": "Kuppelkirche mit Fresken in Kutaisi.",
                   "category": "religious",
                   "coords": [
                         42.706162,
@@ -1386,7 +2475,7 @@ image: "/poi-images/ge-batumi-cities-v2.webp",
       "hu": [
             {
                   "name": "თოჯინების თეატრი",
-                  "text": "A Puppet Theatre egy színház Kutaissi városában.",
+                  "text": "Kis bábszínház Kutaisi óvárosában.",
                   "category": "cultural",
                   "coords": [
                         42.702752,
@@ -1395,7 +2484,7 @@ image: "/poi-images/ge-batumi-cities-v2.webp",
             },
             {
                   "name": "Kutaisi Museum of Sport",
-                  "text": "A Kutaisi Museum of Sport egy múzeum Kutaissi területén.",
+                  "text": "A Kutaisi Sportmúzeum a grúz sportolók emléktárgyait és trófeáit mutatja be.",
                   "category": "museum",
                   "coords": [
                         42.704849,
@@ -1404,7 +2493,7 @@ image: "/poi-images/ge-batumi-cities-v2.webp",
             },
             {
                   "name": "ფოტო-კინო მატიანეს მიზეუმი",
-                  "text": "A Photo-cinema Chronicle Museum egy múzeum Kutaissi területén.",
+                  "text": "Fotó- és filmtörténeti múzeum Kutaisziban.",
                   "category": "museum",
                   "coords": [
                         42.707116,
@@ -1413,7 +2502,7 @@ image: "/poi-images/ge-batumi-cities-v2.webp",
             },
             {
                   "name": "მ.ბალანჩივაძის სახელობის ქუთაისის ოპერისა და ბალეტის თეატრი",
-                  "text": "Az M. Balanchivadze Kutaisi State Opera and Ballet Theatre egy színház Kutaissi városában.",
+                  "text": "Opera- és Balettszínház Kutaisziban, Meliton Balanchivadze nevét viseli.",
                   "category": "cultural",
                   "coords": [
                         42.70224,
@@ -1422,7 +2511,7 @@ image: "/poi-images/ge-batumi-cities-v2.webp",
             },
             {
                   "name": "Fehér híd",
-                  "text": "A Fehér-híd egy látványosság Kutaisziban.",
+                  "text": "Fehér gyalogoshíd a Rioni folyón Kutaisziban.",
                   "category": "landmark",
                   "coords": [
                         42.700381,
@@ -1440,7 +2529,7 @@ image: "/poi-images/ge-batumi-cities-v2.webp",
             },
             {
                   "name": "ბერმუხა",
-                  "text": "A „Bermuha” szovjet dombormű egy látványosság Kutaisziban.",
+                  "text": "Szovjet dombormű Kutaisziban, történelmi jelenetekkel.",
                   "category": "landmark",
                   "coords": [
                         42.673274,
@@ -1449,7 +2538,7 @@ image: "/poi-images/ge-batumi-cities-v2.webp",
             },
             {
                   "name": "ქრისტინე რობაქიძის გალერეა",
-                  "text": "Ez egy galéria Kutaiszi városában.",
+                  "text": "Kortárs művészeti galéria Kutaisziban, Kristine Robakidze nevét viseli.",
                   "category": "museum",
                   "coords": [
                         42.716656,
@@ -1467,7 +2556,7 @@ image: "/poi-images/ge-batumi-cities-v2.webp",
             },
             {
                   "name": "წმინდა გიორგის ეკლესია",
-                  "text": "A Szent György-templom egy istentiszteleti hely Kutaisziban.",
+                  "text": "Középkori grúz ortodox templom Kutaisi központjában.",
                   "category": "religious",
                   "coords": [
                         42.709048,
@@ -1476,7 +2565,7 @@ image: "/poi-images/ge-batumi-cities-v2.webp",
             },
             {
                   "name": "ღვთისმშობლის ხარების სახელობის ტაძარი",
-                  "text": "A Szűz Mária Angyali Üdvözlet templom egy istentiszteleti hely Kutaisziban.",
+                  "text": "Kupolás templom freskókkal Kutaisiban.",
                   "category": "religious",
                   "coords": [
                         42.706162,
@@ -1487,7 +2576,7 @@ image: "/poi-images/ge-batumi-cities-v2.webp",
       "ro": [
             {
                   "name": "თოჯინების თეატრი",
-                  "text": "Puppet Theatre este un teatru din Kutaissi.",
+                  "text": "Teatru de păpuși mic în centrul vechi al orașului Kutaisi.",
                   "category": "cultural",
                   "coords": [
                         42.702752,
@@ -1496,7 +2585,7 @@ image: "/poi-images/ge-batumi-cities-v2.webp",
             },
             {
                   "name": "Kutaisi Museum of Sport",
-                  "text": "Kutaisi Museum of Sport este un muzeu din Kutaissi.",
+                  "text": "Muzeul Sportului din Kutaisi expune obiecte memoriale și trofee ale sportivilor georgieni.",
                   "category": "museum",
                   "coords": [
                         42.704849,
@@ -1505,7 +2594,7 @@ image: "/poi-images/ge-batumi-cities-v2.webp",
             },
             {
                   "name": "ფოტო-კინო მატიანეს მიზეუმი",
-                  "text": "Photo-cinema Chronicle Museum este un muzeu în Kutaissi.",
+                  "text": "Muzeu de fotografie și istorie a filmului în Kutaisi.",
                   "category": "museum",
                   "coords": [
                         42.707116,
@@ -1514,7 +2603,7 @@ image: "/poi-images/ge-batumi-cities-v2.webp",
             },
             {
                   "name": "მ.ბალანჩივაძის სახელობის ქუთაისის ოპერისა და ბალეტის თეატრი",
-                  "text": "M. Balanchivadze Kutaisi State Opera and Ballet Theatre este un teatru din Kutaissi.",
+                  "text": "Teatru de operă și balet în Kutaisi, numit după Meliton Balanchivadze.",
                   "category": "cultural",
                   "coords": [
                         42.70224,
@@ -1523,7 +2612,7 @@ image: "/poi-images/ge-batumi-cities-v2.webp",
             },
             {
                   "name": "თეთრი ხიდი",
-                  "text": "Podul Alb este o atracție în Kutaisi.",
+                  "text": "Pod pietonal alb peste râul Rioni în Kutaisi.",
                   "category": "landmark",
                   "coords": [
                         42.700381,
@@ -1541,7 +2630,7 @@ image: "/poi-images/ge-batumi-cities-v2.webp",
             },
             {
                   "name": "ბერმუხა",
-                  "text": "Basorelieful sovietic „Bermukha” este o atracție din Kutaisi.",
+                  "text": "Basorelief sovietic în Kutaisi, înfățișând scene istorice.",
                   "category": "landmark",
                   "coords": [
                         42.673274,
@@ -1550,7 +2639,7 @@ image: "/poi-images/ge-batumi-cities-v2.webp",
             },
             {
                   "name": "ქრისტინე რობაქიძის გალერეა",
-                  "text": "Aceasta este o galerie situată în orașul Kutaisi.",
+                  "text": "Galerie de artă contemporană în Kutaisi, numită după Kristine Robakidze.",
                   "category": "museum",
                   "coords": [
                         42.716656,
@@ -1568,7 +2657,7 @@ image: "/poi-images/ge-batumi-cities-v2.webp",
             },
             {
                   "name": "წმინდა გიორგის ეკლესია",
-                  "text": "Biserica Sf. Gheorghe este un lăcaș de cult localizat în Kutaisi.",
+                  "text": "Biserică ortodoxă georgiană medievală în centrul orașului Kutaisi.",
                   "category": "religious",
                   "coords": [
                         42.709048,
@@ -1577,7 +2666,7 @@ image: "/poi-images/ge-batumi-cities-v2.webp",
             },
             {
                   "name": "ღვთისმშობლის ხარების სახელობის ტაძარი",
-                  "text": "Biserica Buna Vestire a Fecioarei Maria este un lăcaș de cult în Kutaisi.",
+                  "text": "Biserică cu dom și fresce în Kutaisi.",
                   "category": "religious",
                   "coords": [
                         42.706162,
@@ -1588,7 +2677,7 @@ image: "/poi-images/ge-batumi-cities-v2.webp",
       "en": [
             {
                   "name": "Puppet Theatre",
-                  "text": "Puppet Theatre is a theatre in Kutaissi.",
+                  "text": "Small puppet theatre in Kutaisi's old town.",
                   "category": "cultural",
                   "coords": [
                         42.702752,
@@ -1597,7 +2686,7 @@ image: "/poi-images/ge-batumi-cities-v2.webp",
             },
             {
                   "name": "Kutaisi Museum of Sport",
-                  "text": "Kutaisi Museum of Sport is a museum located in Kutaissi.",
+                  "text": "The Kutaisi Museum of Sport displays memorabilia and trophies from Georgian athletes.",
                   "category": "museum",
                   "coords": [
                         42.704849,
@@ -1606,7 +2695,7 @@ image: "/poi-images/ge-batumi-cities-v2.webp",
             },
             {
                   "name": "Photo-cinema Chronicle Museum",
-                  "text": "Photo-cinema Chronicle Museum is a museum in Kutaissi.",
+                  "text": "Museum of photography and film history in Kutaisi.",
                   "category": "museum",
                   "coords": [
                         42.707116,
@@ -1615,7 +2704,7 @@ image: "/poi-images/ge-batumi-cities-v2.webp",
             },
             {
                   "name": "M. Balanchivadze Kutaisi State Opera and Ballet Theatre",
-                  "text": "M. Balanchivadze Kutaisi State Opera and Ballet Theatre is a theatre in Kutaissi.",
+                  "text": "Opera and ballet theatre in Kutaisi, named after Meliton Balanchivadze.",
                   "category": "cultural",
                   "coords": [
                         42.70224,
@@ -1624,7 +2713,7 @@ image: "/poi-images/ge-batumi-cities-v2.webp",
             },
             {
                   "name": "White Bridge",
-                  "text": "The White Bridge is an attraction located in Kutaissi.",
+                  "text": "White pedestrian bridge over the Rioni River in Kutaisi.",
                   "category": "landmark",
                   "coords": [
                         42.700381,
@@ -1642,7 +2731,7 @@ image: "/poi-images/ge-batumi-cities-v2.webp",
             },
             {
                   "name": "Soviet bas-relief \"Bermukha\"",
-                  "text": "The Soviet bas-relief \"Bermukha\" is an attraction in Kutaissi.",
+                  "text": "Soviet bas-relief in Kutaisi depicting historical scenes.",
                   "category": "landmark",
                   "coords": [
                         42.673274,
@@ -1651,7 +2740,7 @@ image: "/poi-images/ge-batumi-cities-v2.webp",
             },
             {
                   "name": "ქრისტინე რობაქიძის გალერეა",
-                  "text": "This is a gallery situated in the city of Kutaissi.",
+                  "text": "Contemporary art gallery in Kutaisi, named after Kristine Robakidze.",
                   "category": "museum",
                   "coords": [
                         42.716656,
@@ -1669,7 +2758,7 @@ image: "/poi-images/ge-batumi-cities-v2.webp",
             },
             {
                   "name": "St. George's Church",
-                  "text": "St. George's Church is a local place of worship located in Kutaissi.",
+                  "text": "Medieval Georgian Orthodox church in the center of Kutaisi.",
                   "category": "religious",
                   "coords": [
                         42.709048,
@@ -1678,7 +2767,7 @@ image: "/poi-images/ge-batumi-cities-v2.webp",
             },
             {
                   "name": "Church of the Annunciation of the Virgin Mary",
-                  "text": "The Church of the Annunciation of the Virgin Mary is a place of worship in Kutaissi.",
+                  "text": "Domed church with frescoes in Kutaisi.",
                   "category": "religious",
                   "coords": [
                         42.706162,
@@ -1730,7 +2819,520 @@ image: "/poi-images/ge-kutaisi-cities-v2.webp",
     },
   },
   {
-    id: "ge-rustavi-cities-v2",
+    id: "ge-rustavi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "ბრავო",
+                  "text": "Ein örtliches Theater in Rustawi, das verschiedene Bühnenaufführungen und kulturelle Veranstaltungen zeigt.",
+                  "category": "cultural",
+                  "coords": [
+                        45.014537,
+                        41.550432
+                  ]
+            },
+            {
+                  "name": "ჰეიდარ ალიევი",
+                  "text": "Ein Denkmal in Rustawi zu Ehren des ehemaligen aserbaidschanischen Präsidenten Heydar Aliyev.",
+                  "category": "historical",
+                  "coords": [
+                        45.01777,
+                        41.540823
+                  ]
+            },
+            {
+                  "name": "1941-1945",
+                  "text": "Ein Mahnmal zum Gedenken an die Gefallenen des Großen Vaterländischen Krieges von 1941 bis 1945.",
+                  "category": "historical",
+                  "coords": [
+                        44.991362,
+                        41.548605
+                  ]
+            },
+            {
+                  "name": "რუსთავის თეატრი",
+                  "text": "Ein bedeutendes Kulturzentrum mit klassischer Fassade, das professionelle Dramen aufführt.",
+                  "category": "cultural",
+                  "coords": [
+                        45.009658,
+                        41.54116
+                  ]
+            },
+            {
+                  "name": "რუსთავის ქალაქის მუზეუმი",
+                  "text": "Ein Museum, das archäologische Funde und Exponate zur industriellen Geschichte der Stadt zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        45.008829,
+                        41.538225
+                  ]
+            },
+            {
+                  "name": "რუსთავის ხელოვნების ცენტრი",
+                  "text": "Ein Zentrum, das zeitgenössische georgische Kunst und lokale kreative Ausstellungen präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        45.006689,
+                        41.538899
+                  ]
+            },
+            {
+                  "name": "რუსთავის მეტალურგიული ქარხნის სამმართველო",
+                  "text": "Ein monumentales Verwaltungsgebäude aus der Sowjetzeit, das das industrielle Erbe von Rustawi verkörpert.",
+                  "category": "landmark",
+                  "coords": [
+                        45.022266,
+                        41.539219
+                  ]
+            },
+            {
+                  "name": "რუსთავის ციხე",
+                  "text": "Ruinen einer mittelalterlichen Festung am Fluss Mtkwari, die bis auf das 5. Jahrhundert zurückgeht.",
+                  "category": "landmark",
+                  "coords": [
+                        45.003989,
+                        41.535085
+                  ]
+            },
+            {
+                  "name": "ღვთისმშობლის ეკლესია",
+                  "text": "Eine georgisch-orthodoxe Kirche, die Maria gewidmet ist und traditionelle religiöse Architektur zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        45.016472,
+                        41.554755
+                  ]
+            },
+            {
+                  "name": "წმინდა ნინოს საყდარი",
+                  "text": "Eine kleine orthodoxe Kapelle, die einen ruhigen Ort für Gebete im Stadtgebiet bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        45.016062,
+                        41.551132
+                  ]
+            },
+            {
+                  "name": "ევანგელისტურ-ლუთერანული მშვიდობის ეკლესია",
+                  "text": "Ein Gotteshaus für die lutherische Gemeinde in der überwiegend orthodoxen Stadt Rustawi.",
+                  "category": "landmark",
+                  "coords": [
+                        45.014881,
+                        41.554343
+                  ]
+            },
+            {
+                  "name": "ღვთისმშობლის შობის ეკლესია",
+                  "text": "Eine religiöse Stätte mit ikonischen georgischen Steinmetzarbeiten und orthodoxen Ritualen.",
+                  "category": "landmark",
+                  "coords": [
+                        45.008922,
+                        41.536836
+                  ]
+            },
+            {
+                  "name": "წმინდა ბარბარე",
+                  "text": "Eine lokale Pfarrkirche, die der heiligen Barbara gewidmet ist, der Schutzpatronin gegen Gefahren.",
+                  "category": "landmark",
+                  "coords": [
+                        44.987283,
+                        41.55534
+                  ]
+            },
+            {
+                  "name": "Alter Markt",
+                  "text": "Ein historisches Handelsviertel in Rustawi, in dem Einheimische frische Agrarprodukte kaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        45.018692,
+                        41.546045
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ბრავო",
+                  "text": "Helyi színház Rusztaviban, amely különféle színpadi előadásokat és kulturális eseményeket mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        45.014537,
+                        41.550432
+                  ]
+            },
+            {
+                  "name": "ჰეიდარ ალიევი",
+                  "text": "Emlékmű Rusztaviban, Hejdar Alijev volt azerbajdzsáni elnök tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        45.01777,
+                        41.540823
+                  ]
+            },
+            {
+                  "name": "1941-1945",
+                  "text": "Emlékmű az 1941–1945-ös Nagy Honvédő Háború elesettjeinek emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        44.991362,
+                        41.548605
+                  ]
+            },
+            {
+                  "name": "რუსთავის თეატრი",
+                  "text": "Kiemelkedő kulturális intézmény klasszikus homlokzattal, ahol professzionális drámákat adnak elő.",
+                  "category": "cultural",
+                  "coords": [
+                        45.009658,
+                        41.54116
+                  ]
+            },
+            {
+                  "name": "რუსთავის ქალაქის მუზეუმი",
+                  "text": "Múzeum, amely régészeti leleteket és a város ipartörténeti kiállításait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        45.008829,
+                        41.538225
+                  ]
+            },
+            {
+                  "name": "რუსთავის ხელოვნების ცენტრი",
+                  "text": "Központ, amely kortárs grúz művészetet és helyi kreatív kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        45.006689,
+                        41.538899
+                  ]
+            },
+            {
+                  "name": "რუსთავის მეტალურგიული ქარხნის სამმართველო",
+                  "text": "Monumentális szovjet korszakbeli adminisztratív épület, amely Rusztavi ipari örökségét jelképezi.",
+                  "category": "landmark",
+                  "coords": [
+                        45.022266,
+                        41.539219
+                  ]
+            },
+            {
+                  "name": "რუსთავის ციხე",
+                  "text": "Egy középkori erőd romjai a Mtkvari-folyó mentén, amely az 5. századig nyúlik vissza.",
+                  "category": "landmark",
+                  "coords": [
+                        45.003989,
+                        41.535085
+                  ]
+            },
+            {
+                  "name": "ღვთისმშობლის ეკლესია",
+                  "text": "Szűz Máriának szentelt grúz ortodox templom, amely hagyományos vallási építészetet mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        45.016472,
+                        41.554755
+                  ]
+            },
+            {
+                  "name": "წმინდა ნინოს საყდარი",
+                  "text": "Kicsi ortodox kápolna, amely csendes helyet kínál az imádkozáshoz a városi területen.",
+                  "category": "landmark",
+                  "coords": [
+                        45.016062,
+                        41.551132
+                  ]
+            },
+            {
+                  "name": "ევანგელისტურ-ლუთერანული მშვიდობის ეკლესია",
+                  "text": "Evangélikus templom a helyi közösség számára a túlnyomórészt ortodox Rusztavi városában.",
+                  "category": "landmark",
+                  "coords": [
+                        45.014881,
+                        41.554343
+                  ]
+            },
+            {
+                  "name": "ღვთისმშობლის შობის ეკლესია",
+                  "text": "Vallási helyszín ikonikus grúz kőfaragványokkal és ortodox rituálékkal.",
+                  "category": "landmark",
+                  "coords": [
+                        45.008922,
+                        41.536836
+                  ]
+            },
+            {
+                  "name": "წმინდა ბარბარე",
+                  "text": "Helyi plébániatemplom Szent Borbála tiszteletére, aki a veszélyek elleni védőszent.",
+                  "category": "landmark",
+                  "coords": [
+                        44.987283,
+                        41.55534
+                  ]
+            },
+            {
+                  "name": "ძველი  ბაზარი",
+                  "text": "Történelmi kereskedelmi terület Rusztaviban, ahol a helyiek friss mezőgazdasági termékeket vásárolnak.",
+                  "category": "cultural",
+                  "coords": [
+                        45.018692,
+                        41.546045
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ბრავო",
+                  "text": "Un teatru local din Rustavi, care prezintă diverse spectacole de scenă și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        45.014537,
+                        41.550432
+                  ]
+            },
+            {
+                  "name": "ჰეიდარ ალიევი",
+                  "text": "Un monument în Rustavi în onoarea fostului președinte azer Heydar Aliyev.",
+                  "category": "historical",
+                  "coords": [
+                        45.01777,
+                        41.540823
+                  ]
+            },
+            {
+                  "name": "1941-1945",
+                  "text": "Un memorial dedicat celor căzuți în Marele Război pentru Apărarea Patriei din 1941-1945.",
+                  "category": "historical",
+                  "coords": [
+                        44.991362,
+                        41.548605
+                  ]
+            },
+            {
+                  "name": "რუსთავის თეატრი",
+                  "text": "O instituție culturală proeminentă cu fațadă clasică, care prezintă spectacole de dramă profesioniste.",
+                  "category": "cultural",
+                  "coords": [
+                        45.009658,
+                        41.54116
+                  ]
+            },
+            {
+                  "name": "რუსთავის ქალაქის მუზეუმი",
+                  "text": "Un muzeu care expune descoperiri arheologice și exponate despre istoria industrială a orașului.",
+                  "category": "museum",
+                  "coords": [
+                        45.008829,
+                        41.538225
+                  ]
+            },
+            {
+                  "name": "რუსთავის ხელოვნების ცენტრი",
+                  "text": "Un centru care prezintă artă georgiană contemporană și expoziții creative locale.",
+                  "category": "museum",
+                  "coords": [
+                        45.006689,
+                        41.538899
+                  ]
+            },
+            {
+                  "name": "რუსთავის მეტალურგიული ქარხნის სამმართველო",
+                  "text": "O clădire administrativă monumentală din epoca sovietică, reprezentând moștenirea industrială a Rustavi.",
+                  "category": "landmark",
+                  "coords": [
+                        45.022266,
+                        41.539219
+                  ]
+            },
+            {
+                  "name": "რუსთავის ციხე",
+                  "text": "Ruinele unei cetăți medievale de-a lungul râului Mtkvari, datând din secolul al V-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        45.003989,
+                        41.535085
+                  ]
+            },
+            {
+                  "name": "ღვთისმშობლის ეკლესია",
+                  "text": "O biserică ortodoxă georgiană dedicată Sfintei Fecioare Maria, cu arhitectură religioasă tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        45.016472,
+                        41.554755
+                  ]
+            },
+            {
+                  "name": "წმინდა ნინოს საყდარი",
+                  "text": "O mică chapelă ortodoxă care oferă un loc liniștit pentru rugăciune în zona urbană.",
+                  "category": "landmark",
+                  "coords": [
+                        45.016062,
+                        41.551132
+                  ]
+            },
+            {
+                  "name": "ევანგელისტურ-ლუთერანული მშვიდობის ეკლესია",
+                  "text": "Un lăcaș de cult pentru comunitatea luterană din orașul Rustavi, predominant ortodox.",
+                  "category": "landmark",
+                  "coords": [
+                        45.014881,
+                        41.554343
+                  ]
+            },
+            {
+                  "name": "ღვთისმშობლის შობის ეკლესია",
+                  "text": "Un sit religios cu sculpturi în piatră georgiene iconice și ritualuri ortodoxe.",
+                  "category": "landmark",
+                  "coords": [
+                        45.008922,
+                        41.536836
+                  ]
+            },
+            {
+                  "name": "წმინდა ბარბარე",
+                  "text": "O biserică parohială locală dedicată Sfintei Barbara, patroana împotriva pericolelor.",
+                  "category": "landmark",
+                  "coords": [
+                        44.987283,
+                        41.55534
+                  ]
+            },
+            {
+                  "name": "ძველი  ბაზარი",
+                  "text": "O zonă comercială istorică din Rustavi, unde localnicii cumpără produse agricole proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        45.018692,
+                        41.546045
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bravo",
+                  "text": "A local theatre in Rustavi presenting various stage performances and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        45.014537,
+                        41.550432
+                  ]
+            },
+            {
+                  "name": "Heydar Aliyev",
+                  "text": "A monument in Rustavi honoring the former Azerbaijani president Heydar Aliyev.",
+                  "category": "historical",
+                  "coords": [
+                        45.01777,
+                        41.540823
+                  ]
+            },
+            {
+                  "name": "1941-1945",
+                  "text": "A memorial dedicated to those who fell during the Great Patriotic War of 1941-1945.",
+                  "category": "historical",
+                  "coords": [
+                        44.991362,
+                        41.548605
+                  ]
+            },
+            {
+                  "name": "Rustavi Theatre",
+                  "text": "A prominent cultural institution with a classic facade, featuring professional drama performances.",
+                  "category": "cultural",
+                  "coords": [
+                        45.009658,
+                        41.54116
+                  ]
+            },
+            {
+                  "name": "Rustavi City Museum",
+                  "text": "A museum showcasing archaeological finds and exhibits on the city's industrial history.",
+                  "category": "museum",
+                  "coords": [
+                        45.008829,
+                        41.538225
+                  ]
+            },
+            {
+                  "name": "Rustavi Arts Center",
+                  "text": "A center showcasing contemporary Georgian art and local creative exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        45.006689,
+                        41.538899
+                  ]
+            },
+            {
+                  "name": "Rustavi Metallurgical Plant Headquarter",
+                  "text": "A monumental Soviet-era administrative building representing Rustavi's industrial heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        45.022266,
+                        41.539219
+                  ]
+            },
+            {
+                  "name": "Rustavi Fortress",
+                  "text": "Ruins of a medieval fortress along the Mtkvari River, dating back to the 5th century.",
+                  "category": "landmark",
+                  "coords": [
+                        45.003989,
+                        41.535085
+                  ]
+            },
+            {
+                  "name": "St. Virgin Mary Church",
+                  "text": "A Georgian Orthodox church dedicated to the Virgin Mary, featuring traditional religious architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        45.016472,
+                        41.554755
+                  ]
+            },
+            {
+                  "name": "St. Nino Chapel",
+                  "text": "A small Orthodox chapel providing a quiet space for prayer within the urban area.",
+                  "category": "landmark",
+                  "coords": [
+                        45.016062,
+                        41.551132
+                  ]
+            },
+            {
+                  "name": "The Evangelical Lutheran Church",
+                  "text": "A place of worship for the Lutheran community in the predominantly Orthodox city of Rustavi.",
+                  "category": "landmark",
+                  "coords": [
+                        45.014881,
+                        41.554343
+                  ]
+            },
+            {
+                  "name": "Virgin Mary Church",
+                  "text": "A religious site featuring iconic Georgian stone carvings and Orthodox rituals.",
+                  "category": "landmark",
+                  "coords": [
+                        45.008922,
+                        41.536836
+                  ]
+            },
+            {
+                  "name": "St. Barbare Church",
+                  "text": "A local parish church dedicated to Saint Barbara, the patron saint against dangers.",
+                  "category": "landmark",
+                  "coords": [
+                        44.987283,
+                        41.55534
+                  ]
+            },
+            {
+                  "name": "Old Marketplace",
+                  "text": "A historic trading area in Rustavi where locals buy fresh agricultural products.",
+                  "category": "cultural",
+                  "coords": [
+                        45.018692,
+                        41.546045
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GE-KK",
     coords: [45.0111, 41.5389],
@@ -1796,7 +3398,7 @@ image: "/poi-images/ge-rustavi-cities-v2.webp",
             },
             {
                   "name": "ისტორიულ-ეთნოგრაფიული მუზეუმი",
-                  "text": "Dieses Museum in Gori bewahrt das historische und ethnologische Erbe der Region.",
+                  "text": "Historisches und ethnologisches Museum in Gori mit regionalen Sammlungen.",
                   "category": "museum",
                   "coords": [
                         44.111865,
@@ -1906,7 +3508,7 @@ image: "/poi-images/ge-rustavi-cities-v2.webp",
             },
             {
                   "name": "ისტორიულ-ეთნოგრაფიული მუზეუმი",
-                  "text": "Ez a gori múzeum a régió történelmi és néprajzi örökségét őrzi.",
+                  "text": "Történeti és néprajzi múzeum Goriban, regionális gyűjteményekkel.",
                   "category": "museum",
                   "coords": [
                         44.111865,
@@ -2016,7 +3618,7 @@ image: "/poi-images/ge-rustavi-cities-v2.webp",
             },
             {
                   "name": "ისტორიულ-ეთნოგრაფიული მუზეუმი",
-                  "text": "Acest muzeu din Gori păstrează moștenirea istorică și etnologică a regiunii.",
+                  "text": "Muzeu istoric și etnologic în Gori, cu colecții regionale.",
                   "category": "museum",
                   "coords": [
                         44.111865,
@@ -2126,7 +3728,7 @@ image: "/poi-images/ge-rustavi-cities-v2.webp",
             },
             {
                   "name": "Sergi Makalatia Gori Historical and Ethnological Museum",
-                  "text": "This museum in Gori preserves the historical and ethnological heritage of the region.",
+                  "text": "Historical and ethnological museum in Gori with regional collections.",
                   "category": "museum",
                   "coords": [
                         44.111865,
@@ -2272,7 +3874,7 @@ image: "/poi-images/ge-gori-cities-v2.webp",
             },
             {
                   "name": "ზუგდიდის კულტურის სახლი",
-                  "text": "Das Kulturzentrum Sugdidi dient als Theater in Sugdidi.",
+                  "text": "Kulturzentrum in Sugdidi mit Veranstaltungsräumen und Ausstellungen.",
                   "category": "cultural",
                   "coords": [
                         41.869066,
@@ -2290,7 +3892,7 @@ image: "/poi-images/ge-gori-cities-v2.webp",
             },
             {
                   "name": "აკაკი წერეთელი",
-                  "text": "Das Akaki-Zereteli-Denkmal befindet sich in Sugdidi.",
+                  "text": "Denkmal für den georgischen Dichter Akaki Zereteli in Sugdidi.",
                   "category": "historical",
                   "coords": [
                         41.8811,
@@ -2299,7 +3901,7 @@ image: "/poi-images/ge-gori-cities-v2.webp",
             },
             {
                   "name": "ღვთისმშობლის ხატი",
-                  "text": "Die Ikone der Theotokos ist ein lokales Denkmal in Sugdidi.",
+                  "text": "Verehrte Ikone der Muttergottes in Sugdidi.",
                   "category": "historical",
                   "coords": [
                         41.869108,
@@ -2328,7 +3930,7 @@ image: "/poi-images/ge-gori-cities-v2.webp",
             },
             {
                   "name": "ზუგდიდის კულტურის სახლი",
-                  "text": "A Szugdidi Kulturális Központ színházként működik Szugdidiben.",
+                  "text": "Kulturális központ Zugdidiben rendezvénytermekkel és kiállításokkal.",
                   "category": "cultural",
                   "coords": [
                         41.869066,
@@ -2346,7 +3948,7 @@ image: "/poi-images/ge-gori-cities-v2.webp",
             },
             {
                   "name": "აკაკი წერეთელი",
-                  "text": "Az Akaki Tsereteli emlékmű Szugdidiben található.",
+                  "text": "Akaki Cereteli grúz költő emlékműve Zugdidiben.",
                   "category": "historical",
                   "coords": [
                         41.8811,
@@ -2355,7 +3957,7 @@ image: "/poi-images/ge-gori-cities-v2.webp",
             },
             {
                   "name": "ღვთისმშობლის ხატი",
-                  "text": "Az Istenanya ikon egy helyi emlékmű Szugdidiben.",
+                  "text": "A Theotokosz (Istenanya) tisztelt ikonja Zugdidiben.",
                   "category": "historical",
                   "coords": [
                         41.869108,
@@ -2384,7 +3986,7 @@ image: "/poi-images/ge-gori-cities-v2.webp",
             },
             {
                   "name": "ზუგდიდის კულტურის სახლი",
-                  "text": "Centrul Cultural Zugdidi servește ca teatru în Zugdidi.",
+                  "text": "Centru cultural în Zugdidi, cu săli de evenimente și expoziții.",
                   "category": "cultural",
                   "coords": [
                         41.869066,
@@ -2402,7 +4004,7 @@ image: "/poi-images/ge-gori-cities-v2.webp",
             },
             {
                   "name": "აკაკი წერეთელი",
-                  "text": "Monumentul Akaki Tsereteli este situat în Zugdidi.",
+                  "text": "Monument al poetului georgian Akaki Țereteli în Zugdidi.",
                   "category": "historical",
                   "coords": [
                         41.8811,
@@ -2411,7 +4013,7 @@ image: "/poi-images/ge-gori-cities-v2.webp",
             },
             {
                   "name": "ღვთისმშობლის ხატი",
-                  "text": "Icoana Maicii Domnului este un monument local găsit în Zugdidi.",
+                  "text": "Icoană venerată a Maicii Domnului în Zugdidi.",
                   "category": "historical",
                   "coords": [
                         41.869108,
@@ -2440,7 +4042,7 @@ image: "/poi-images/ge-gori-cities-v2.webp",
             },
             {
                   "name": "Zugdidi Cultural Center",
-                  "text": "The Zugdidi Cultural Center serves as a theatre in Sugdidi.",
+                  "text": "Cultural centre in Zugdidi with event spaces and exhibitions.",
                   "category": "cultural",
                   "coords": [
                         41.869066,
@@ -2458,7 +4060,7 @@ image: "/poi-images/ge-gori-cities-v2.webp",
             },
             {
                   "name": "Akaki Tsereteli",
-                  "text": "The Akaki Tsereteli monument is located in Sugdidi.",
+                  "text": "Monument to Georgian poet Akaki Tsereteli in Zugdidi.",
                   "category": "historical",
                   "coords": [
                         41.8811,
@@ -2467,7 +4069,7 @@ image: "/poi-images/ge-gori-cities-v2.webp",
             },
             {
                   "name": "Icon of Theotokos, mother of God.",
-                  "text": "The Icon of Theotokos is a local monument found in Sugdidi.",
+                  "text": "Venerated icon of the Mother of God (Theotokos) in Zugdidi.",
                   "category": "historical",
                   "coords": [
                         41.869108,
@@ -2532,7 +4134,7 @@ image: "/poi-images/ge-zugdidi-cities-v2.webp",
       "de": [
             {
                   "name": "ვალერიან გუნიას სახელობის თეატრი",
-                  "text": "Das Valerian Gunia Theatre ist ein Theater in Poti. Es ist ein staatliches Dramatheater.",
+                  "text": "Das Valerian Gunia Theater in Poti ist nach dem berühmten georgischen Schauspieler und Dramatiker Valerian Gunia benannt.",
                   "category": "cultural",
                   "coords": [
                         41.674889,
@@ -2541,7 +4143,7 @@ image: "/poi-images/ge-zugdidi-cities-v2.webp",
             },
             {
                   "name": "ფოთის ვალერიან გუნიას სახელობის სახელმწიფო დრამატული თეატრი",
-                  "text": "Das Poti State Drama Theater named after Valerian Gunia ist ein Theater in Poti. Es ist ein staatliches Dramatheater.",
+                  "text": "Das staatliche Dramatheater von Poti, das den Werken von Valerian Gunia gewidmet ist, ist eine wichtige kulturelle Stätte in Poti.",
                   "category": "cultural",
                   "coords": [
                         41.675517,
@@ -2550,7 +4152,7 @@ image: "/poi-images/ge-zugdidi-cities-v2.webp",
             },
             {
                   "name": "ნიკოლაძის კოშკი",
-                  "text": "Der Nikoladze Tower ist ein Museum in Poti.",
+                  "text": "Historischer Turm in Poti, der ein Museum beherbergt.",
                   "category": "museum",
                   "coords": [
                         41.673693,
@@ -2559,7 +4161,7 @@ image: "/poi-images/ge-zugdidi-cities-v2.webp",
             },
             {
                   "name": "Poti Leuchtturm",
-                  "text": "Das Poti Lighthouse ist eine Sehenswürdigkeit in Poti.",
+                  "text": "Der 1862 erbaute Poti-Leuchtturm unterstützt die Navigation in den Hafen von Poti.",
                   "category": "landmark",
                   "coords": [
                         41.661111,
@@ -2568,7 +4170,7 @@ image: "/poi-images/ge-zugdidi-cities-v2.webp",
             },
             {
                   "name": "ცოტნე დადიანი",
-                  "text": "Tsotne Dadiani ist ein Denkmal in Poti.",
+                  "text": "Denkmal für Fürst Zotne Dadiani in Poti.",
                   "category": "historical",
                   "coords": [
                         41.680373,
@@ -2588,7 +4190,7 @@ image: "/poi-images/ge-zugdidi-cities-v2.webp",
       "hu": [
             {
                   "name": "ვალერიან გუნიას სახელობის თეატრი",
-                  "text": "A Valerian Gunia Theatre egy színház Poti városában. Ez egy állami drámaszínház.",
+                  "text": "A Potiban található Valerian Gunia Színház a híres grúz színészről és drámaíróról, Valerian Guniáról kapta a nevét.",
                   "category": "cultural",
                   "coords": [
                         41.674889,
@@ -2597,7 +4199,7 @@ image: "/poi-images/ge-zugdidi-cities-v2.webp",
             },
             {
                   "name": "ფოთის ვალერიან გუნიას სახელობის სახელმწიფო დრამატული თეატრი",
-                  "text": "A Poti State Drama Theater named after Valerian Gunia egy színház Poti városában. Ez egy állami drámaszínház.",
+                  "text": "A Poti Állami Drámaszínház, amely Valerian Gunia műveinek szentelt, Poti egyik fontos kulturális helyszíne.",
                   "category": "cultural",
                   "coords": [
                         41.675517,
@@ -2606,7 +4208,7 @@ image: "/poi-images/ge-zugdidi-cities-v2.webp",
             },
             {
                   "name": "ნიკოლაძის კოშკი",
-                  "text": "A Nikoladze Tower egy múzeum Poti városában.",
+                  "text": "Történelmi torony Potiban, múzeummal.",
                   "category": "museum",
                   "coords": [
                         41.673693,
@@ -2615,7 +4217,7 @@ image: "/poi-images/ge-zugdidi-cities-v2.webp",
             },
             {
                   "name": "ფოთის შუქურა",
-                  "text": "A Poti Lighthouse egy látványosság Poti városában.",
+                  "text": "Az 1862-ben épült Poti világítótorony segíti a hajózást Poti kikötőjébe.",
                   "category": "landmark",
                   "coords": [
                         41.661111,
@@ -2624,7 +4226,7 @@ image: "/poi-images/ge-zugdidi-cities-v2.webp",
             },
             {
                   "name": "ცოტნე დადიანი",
-                  "text": "A Tsotne Dadiani egy műemlék Poti városában.",
+                  "text": "Tsotne Dadiani herceg emlékműve Potiban.",
                   "category": "historical",
                   "coords": [
                         41.680373,
@@ -2644,7 +4246,7 @@ image: "/poi-images/ge-zugdidi-cities-v2.webp",
       "ro": [
             {
                   "name": "ვალერიან გუნიას სახელობის თეატრი",
-                  "text": "Valerian Gunia Theatre este un teatru situat în Poti. Acesta este un teatru dramatic de stat.",
+                  "text": "Teatrul Valerian Gunia din Poti poartă numele celebrului actor și dramaturg georgian Valerian Gunia.",
                   "category": "cultural",
                   "coords": [
                         41.674889,
@@ -2653,7 +4255,7 @@ image: "/poi-images/ge-zugdidi-cities-v2.webp",
             },
             {
                   "name": "ფოთის ვალერიან გუნიას სახელობის სახელმწიფო დრამატული თეატრი",
-                  "text": "Poti State Drama Theater named after Valerian Gunia este un teatru situat în Poti. Acesta este un teatru dramatic de stat.",
+                  "text": "Teatrul Dramatic de Stat din Poti, dedicat operelor lui Valerian Gunia, este o importantă locație culturală în Poti.",
                   "category": "cultural",
                   "coords": [
                         41.675517,
@@ -2662,7 +4264,7 @@ image: "/poi-images/ge-zugdidi-cities-v2.webp",
             },
             {
                   "name": "ნიკოლაძის კოშკი",
-                  "text": "Nikoladze Tower este un muzeu situat în Poti.",
+                  "text": "Turn istoric în Poti, care găzduiește un muzeu.",
                   "category": "museum",
                   "coords": [
                         41.673693,
@@ -2671,7 +4273,7 @@ image: "/poi-images/ge-zugdidi-cities-v2.webp",
             },
             {
                   "name": "ფოთის შუქურა",
-                  "text": "Poti Lighthouse este o atracție situată în Poti.",
+                  "text": "Farul din Poti, construit în 1862, ajută la navigația în portul Poti.",
                   "category": "landmark",
                   "coords": [
                         41.661111,
@@ -2680,7 +4282,7 @@ image: "/poi-images/ge-zugdidi-cities-v2.webp",
             },
             {
                   "name": "ცოტნე დადიანი",
-                  "text": "Tsotne Dadiani este un monument situat în Poti.",
+                  "text": "Monument al prințului Tsotne Dadiani în Poti.",
                   "category": "historical",
                   "coords": [
                         41.680373,
@@ -2700,7 +4302,7 @@ image: "/poi-images/ge-zugdidi-cities-v2.webp",
       "en": [
             {
                   "name": "Valerian Gunia Theatre",
-                  "text": "Valerian Gunia Theatre is a theatre located in Poti. It is a state drama theatre.",
+                  "text": "The Valerian Gunia Theatre in Poti is named after the renowned Georgian actor and playwright Valerian Gunia.",
                   "category": "cultural",
                   "coords": [
                         41.674889,
@@ -2709,7 +4311,7 @@ image: "/poi-images/ge-zugdidi-cities-v2.webp",
             },
             {
                   "name": "Poti State Drama Theater named after Valerian Gunia",
-                  "text": "Poti State Drama Theater named after Valerian Gunia is a theatre located in Poti. It is a state drama theatre.",
+                  "text": "The Poti State Drama Theater, dedicated to the works of Valerian Gunia, is a key cultural venue in Poti.",
                   "category": "cultural",
                   "coords": [
                         41.675517,
@@ -2718,7 +4320,7 @@ image: "/poi-images/ge-zugdidi-cities-v2.webp",
             },
             {
                   "name": "Nikoladze Tower",
-                  "text": "Nikoladze Tower is a museum located in Poti.",
+                  "text": "Historic tower in Poti housing a museum.",
                   "category": "museum",
                   "coords": [
                         41.673693,
@@ -2727,7 +4329,7 @@ image: "/poi-images/ge-zugdidi-cities-v2.webp",
             },
             {
                   "name": "Poti Lighthouse",
-                  "text": "Poti Lighthouse is an attraction located in Poti.",
+                  "text": "The Poti Lighthouse, built in 1862, aids navigation into Poti's harbor.",
                   "category": "landmark",
                   "coords": [
                         41.661111,
@@ -2736,7 +4338,7 @@ image: "/poi-images/ge-zugdidi-cities-v2.webp",
             },
             {
                   "name": "Tsotne Dadiani",
-                  "text": "Tsotne Dadiani is a monument located in Poti.",
+                  "text": "Monument to Prince Tsotne Dadiani in Poti.",
                   "category": "historical",
                   "coords": [
                         41.680373,
@@ -2810,7 +4412,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Russisches Fasil-Iskander-Dramatheater",
-                  "text": "Das Russische Dramatheater Fasil Iskander ist eine bedeutende Theaterinstitution in Sochumi.",
+                  "text": "Das Fazil Iskander Russische Dramatheater in Suchumi ist nach dem gefeierten russischen Schriftsteller Fazil Iskander benannt.",
                   "category": "cultural",
                   "coords": [
                         41.024254,
@@ -2873,7 +4475,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "plyazh Aitar",
-                  "text": "пляж Айтар ist ein Strand in Sochumi.",
+                  "text": "Sandstrand Aitar in Sochumi.",
                   "category": "recreational",
                   "coords": [
                         41.052178,
@@ -2882,7 +4484,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Dioskuriada",
-                  "text": "Dioscurias ist eine archäologische Stätte in Sochumi.",
+                  "text": "Antike griechische Kolonie aus dem 6. Jahrhundert v. Chr. in Suchumi.",
                   "category": "historical",
                   "coords": [
                         41.018169,
@@ -2891,7 +4493,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Tsentralnyi plyazh",
-                  "text": "Центральный пляж ist ein Strand in Sochumi.",
+                  "text": "Zentraler Hauptstrand von Sochumi.",
                   "category": "recreational",
                   "coords": [
                         41.005912,
@@ -2900,7 +4502,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Plyazh sanatoriya \"Sukhum\"",
-                  "text": "Пляж санатория \"Сухум\" ist ein Strand in Sochumi.",
+                  "text": "Strand des Sanatoriums Suchum in Sochumi.",
                   "category": "recreational",
                   "coords": [
                         41.034531,
@@ -2909,7 +4511,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Plyazh sanatoriya MVO",
-                  "text": "Пляж санатория МВО ist ein Strand in Sochumi.",
+                  "text": "Strand des MVO-Sanatoriums in Sochumi.",
                   "category": "recreational",
                   "coords": [
                         41.039558,
@@ -2918,7 +4520,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "\"Sobachii\" plyazh",
-                  "text": "\"Собачий\" пляж ist ein Strand in Sochumi.",
+                  "text": "Hundestrand in Sochumi, beliebt bei Hundehaltern.",
                   "category": "recreational",
                   "coords": [
                         41.026722,
@@ -2927,7 +4529,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Plyazh Lokomotiv",
-                  "text": "Пляж Локомотив ist ein Strand in Sochumi.",
+                  "text": "Strand Lokomotiv in Sochumi, in der Nähe des Sportkomplexes.",
                   "category": "recreational",
                   "coords": [
                         41.042897,
@@ -2954,7 +4556,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Gostinitsa Abkhaziya",
-                  "text": "Гостиница Абхазия sind Ruinen in Sochumi.",
+                  "text": "Historisches Hotel Abchasien an der Uferpromenade von Sochumi.",
                   "category": "historical",
                   "coords": [
                         41.023683,
@@ -2963,7 +4565,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "krasivyi vid na g. Sukhum",
-                  "text": "красивый вид на г. Сухум ist ein Aussichtspunkt in Sochumi.",
+                  "text": "Aussichtspunkt mit herrlichem Blick auf den Berg Suchum und die Stadt.",
                   "category": "natural",
                   "coords": [
                         41.033654,
@@ -2972,7 +4574,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Zarosshaya ploshchadka",
-                  "text": "Заросшая площадка ist ein Aussichtspunkt in Sochumi.",
+                  "text": "Überwucherter Platz in Sochumi, ein wilder Naturort.",
                   "category": "natural",
                   "coords": [
                         41.032063,
@@ -2981,7 +4583,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Yakht-Klub",
-                  "text": "Яхт-Клуб ist eine Attraktion in Sochumi.",
+                  "text": "Jachtclub an der Küste von Sochumi.",
                   "category": "landmark",
                   "coords": [
                         41.024324,
@@ -2990,7 +4592,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Naberezhnaya Dioskurov",
-                  "text": "Набережная Диоскуров ist eine Attraktion in Sochumi.",
+                  "text": "Uferpromenade Dioskuren in Sochumi, benannt nach der antiken Stadt.",
                   "category": "landmark",
                   "coords": [
                         41.019256,
@@ -2999,7 +4601,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Dom i pekarnya S.Kh. Alkhazova",
-                  "text": "Дом и пекарня С.Х. Алхазова ist eine Attraktion in Sochumi.",
+                  "text": "Historisches Wohnhaus und Bäckerei von S.Kh. Alchasow in Sochumi.",
                   "category": "landmark",
                   "coords": [
                         41.030399,
@@ -3008,7 +4610,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Zelenyi dom Konstantina Tuzhba",
-                  "text": "Зелёный дом Константина Тужба ist eine Attraktion in Sochumi.",
+                  "text": "Grünes Haus von Konstantin Tuschba in Sochumi.",
                   "category": "landmark",
                   "coords": [
                         41.026402,
@@ -3017,7 +4619,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Ogromnaya lipa",
-                  "text": "Огромная липа ist eine Attraktion in Sochumi.",
+                  "text": "Uralte Linde in Sochumi, ein markanter Naturbaum.",
                   "category": "landmark",
                   "coords": [
                         41.022838,
@@ -3026,7 +4628,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Dacha A. S. Averkieva",
-                  "text": "Дача А. С. Аверкиева ist eine Attraktion in Sochumi.",
+                  "text": "Sommerhaus von A.S. Averkjew in Sochumi.",
                   "category": "landmark",
                   "coords": [
                         41.036066,
@@ -3035,7 +4637,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Villa Aloizi",
-                  "text": "Вилла Алоизи ist eine Attraktion in Sochumi.",
+                  "text": "1896 erbaute Villa in Suchumi.",
                   "category": "landmark",
                   "coords": [
                         41.029699,
@@ -3044,7 +4646,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Detskaya shkola iskusstv № 1 imeni K.V. Kovach",
-                  "text": "Детская школа искусств № 1 имени К.В. Ковач ist ein Kunstzentrum in Sochumi.",
+                  "text": "Kinderkunstschule Nr. 1 in Sochumi, benannt nach K.W. Kowatsch.",
                   "category": "cultural",
                   "coords": [
                         41.031532,
@@ -3053,7 +4655,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Dom gofmeistera G.D. Chachba",
-                  "text": "Дом гофмейстера Г.Д. Чачба ist eine Attraktion in Sochumi.",
+                  "text": "Historisches Haus des Hofmeisters G.D. Tschatschba in Sochumi.",
                   "category": "landmark",
                   "coords": [
                         41.031596,
@@ -3062,7 +4664,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Zdanie Verkhovnogo soveta Abkhazskoi Sovetskoi Sotsialisticheskoi Respubliki",
-                  "text": "Здание Верховного совета Абхазской Советской Социалистической Республики ist eine Attraktion in Sochumi.",
+                  "text": "Ehemaliges Gebäude des Obersten Sowjets der Abchasischen SSR in Sochumi.",
                   "category": "landmark",
                   "coords": [
                         41.019093,
@@ -3080,7 +4682,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Мокко (песчаный)",
-                  "text": "Mokko Beach ist ein Strand in Sokhumi.",
+                  "text": "Kieselstrand Mokko in Sochumi.",
                   "category": "recreational",
                   "coords": [
                         41.055551,
@@ -3089,7 +4691,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "пляж Айтар",
-                  "text": "пляж Айтар ist ein Strand in Sokhumi.",
+                  "text": "Sandstrand Aitar in Sochumi (kyrillische Bezeichnung).",
                   "category": "recreational",
                   "coords": [
                         41.05383,
@@ -3109,7 +4711,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Russkii dramaticheskii teatr im. F. A. Iskandera",
-                  "text": "A Fazil Iszkander Orosz Drámaszínház egy kiemelkedő színházi intézmény Szohumiban.",
+                  "text": "A Szuhumiban található Fazil Iskander Orosz Drámaszínház a híres orosz íróról, Fazil Iskanderről kapta a nevét.",
                   "category": "cultural",
                   "coords": [
                         41.024254,
@@ -3172,7 +4774,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "plyazh Aitar",
-                  "text": "A пляж Айтар egy strand Sochumi városában.",
+                  "text": "Aitar homokos strand Szuhumiban.",
                   "category": "recreational",
                   "coords": [
                         41.052178,
@@ -3181,7 +4783,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Dioskuriada",
-                  "text": "Dioscurias egy régészeti lelőhely Sochumi városában.",
+                  "text": "I.e. 6. századi ókori görög gyarmat Szuhumiban.",
                   "category": "historical",
                   "coords": [
                         41.018169,
@@ -3190,7 +4792,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Tsentralnyi plyazh",
-                  "text": "A Центральный пляж egy strand Sochumi városában.",
+                  "text": "Szuhumi központi főstrandja.",
                   "category": "recreational",
                   "coords": [
                         41.005912,
@@ -3199,7 +4801,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Plyazh sanatoriya \"Sukhum\"",
-                  "text": "A Пляж санатория \"Сухум\" egy strand Sochumi városában.",
+                  "text": "A Szuhum szanatórium strandja Szuhumiban.",
                   "category": "recreational",
                   "coords": [
                         41.034531,
@@ -3208,7 +4810,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Plyazh sanatoriya MVO",
-                  "text": "A Пляж санатория МВО egy strand Sochumi városában.",
+                  "text": "Az MVO szanatórium strandja Szuhumiban.",
                   "category": "recreational",
                   "coords": [
                         41.039558,
@@ -3217,7 +4819,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "\"Sobachii\" plyazh",
-                  "text": "A \"Собачий\" пляж egy strand Sochumi városában.",
+                  "text": "Kutya-strand Szuhumiban, népszerű a kutyatulajdonosok körében.",
                   "category": "recreational",
                   "coords": [
                         41.026722,
@@ -3226,7 +4828,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Plyazh Lokomotiv",
-                  "text": "A Пляж Локомотив egy strand Sochumi városában.",
+                  "text": "Lokomotiv strand Szuhumiban, a sportkomplexum közelében.",
                   "category": "recreational",
                   "coords": [
                         41.042897,
@@ -3253,7 +4855,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Gostinitsa Abkhaziya",
-                  "text": "A Гостиница Абхазия egy rom Sochumi városában.",
+                  "text": "Történelmi Abházia Szálló a szuhumi tengerparti sétányon.",
                   "category": "historical",
                   "coords": [
                         41.023683,
@@ -3262,7 +4864,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "krasivyi vid na g. Sukhum",
-                  "text": "A красивый вид на г. Сухум egy kilátópont Sochumi városában.",
+                  "text": "Kilátó pont gyönyörű látképpel a Szuhum-hegyre és a városra.",
                   "category": "natural",
                   "coords": [
                         41.033654,
@@ -3271,7 +4873,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Zarosshaya ploshchadka",
-                  "text": "A Заросшая площадка egy kilátópont Sochumi városában.",
+                  "text": "Elvadult tér Szuhumiban, természeti hely.",
                   "category": "natural",
                   "coords": [
                         41.032063,
@@ -3280,7 +4882,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Yakht-Klub",
-                  "text": "A Яхт-Клуб egy látványosság Sochumi városában.",
+                  "text": "Jachtklub a szuhumi tengerparton.",
                   "category": "landmark",
                   "coords": [
                         41.024324,
@@ -3289,7 +4891,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Naberezhnaya Dioskurov",
-                  "text": "A Набережная Диоскуров egy látványosság Sochumi városában.",
+                  "text": "Dioszkuroi sétány Szuhumiban, az ókori városról elnevezve.",
                   "category": "landmark",
                   "coords": [
                         41.019256,
@@ -3298,7 +4900,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Dom i pekarnya S.Kh. Alkhazova",
-                  "text": "A Дом и пекарня С.Х. Алхазова egy látványosság Sochumi városában.",
+                  "text": "S.Kh. Alkhazov történelmi háza és péksége Szuhumiban.",
                   "category": "landmark",
                   "coords": [
                         41.030399,
@@ -3307,7 +4909,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Zelenyi dom Konstantina Tuzhba",
-                  "text": "A Зелёный дом Константина Тужба egy látványosság Sochumi városában.",
+                  "text": "Konstantin Tuzhba zöld háza Szuhumiban.",
                   "category": "landmark",
                   "coords": [
                         41.026402,
@@ -3316,7 +4918,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Ogromnaya lipa",
-                  "text": "Az Огромная липа egy látványosság Sochumi városában.",
+                  "text": "Ősi hársfa Szuhumiban, feltűnő természeti nevezetesség.",
                   "category": "landmark",
                   "coords": [
                         41.022838,
@@ -3325,7 +4927,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Dacha A. S. Averkieva",
-                  "text": "A Дача А. С. Аверкиева egy látványosság Sochumi városában.",
+                  "text": "A.S. Averkiev nyaralója Szuhumiban.",
                   "category": "landmark",
                   "coords": [
                         41.036066,
@@ -3334,7 +4936,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Villa Aloizi",
-                  "text": "A Вилла Алоизи egy látványosság Sochumi városában.",
+                  "text": "1896-ban épült villa Szuhumiban.",
                   "category": "landmark",
                   "coords": [
                         41.029699,
@@ -3343,7 +4945,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Detskaya shkola iskusstv № 1 imeni K.V. Kovach",
-                  "text": "A Детская школа искусств № 1 имени К.В. Ковач egy művészeti központ Sochumi városában.",
+                  "text": "1. számú K.V. Kovach gyermekművészeti iskola Szuhumiban.",
                   "category": "cultural",
                   "coords": [
                         41.031532,
@@ -3352,7 +4954,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Dom gofmeistera G.D. Chachba",
-                  "text": "A Дом гофмейстера Г.Д. Чачба egy látványosság Sochumi városában.",
+                  "text": "G.D. Chachba udvarmester történelmi háza Szuhumiban.",
                   "category": "landmark",
                   "coords": [
                         41.031596,
@@ -3361,7 +4963,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Zdanie Verkhovnogo soveta Abkhazskoi Sovetskoi Sotsialisticheskoi Respubliki",
-                  "text": "A Здание Верховного совета Абхазской Советской Социалистической Республики egy látványosság Sochumi városában.",
+                  "text": "Az Abház SZSZK Legfelsőbb Tanácsának egykori épülete Szuhumiban.",
                   "category": "landmark",
                   "coords": [
                         41.019093,
@@ -3379,7 +4981,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Мокко (песчаный)",
-                  "text": "A Mokko Beach egy strand Sokhumi területén.",
+                  "text": "Mokko kavicsos strand Szuhumiban.",
                   "category": "recreational",
                   "coords": [
                         41.055551,
@@ -3388,7 +4990,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "пляж Айтар",
-                  "text": "A пляж Айтар egy strand Sokhumi területén.",
+                  "text": "Aitar homokos strand Szuhumiban (cirill betűs név).",
                   "category": "recreational",
                   "coords": [
                         41.05383,
@@ -3408,7 +5010,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Russkii dramaticheskii teatr im. F. A. Iskandera",
-                  "text": "Teatrul Dramatic Rus Fazil Iskander este o instituție teatrală proeminentă din Sochumi.",
+                  "text": "Teatrul Dramatic Rus Fazil Iskander din Sokhumi poartă numele celebrului scriitor rus Fazil Iskander.",
                   "category": "cultural",
                   "coords": [
                         41.024254,
@@ -3471,7 +5073,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "plyazh Aitar",
-                  "text": "пляж Айтар este o plajă în Sochumi.",
+                  "text": "Plajă nisipoasă Aitar în Suhumi.",
                   "category": "recreational",
                   "coords": [
                         41.052178,
@@ -3480,7 +5082,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Dioskuriada",
-                  "text": "Dioscurias este un sit arheologic în Sochumi.",
+                  "text": "Colonie greacă antică din secolul VI î.Hr. în Sukhumi.",
                   "category": "historical",
                   "coords": [
                         41.018169,
@@ -3489,7 +5091,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Tsentralnyi plyazh",
-                  "text": "Центральный пляж este o plajă în Sochumi.",
+                  "text": "Plaja centrală principală din Suhumi.",
                   "category": "recreational",
                   "coords": [
                         41.005912,
@@ -3498,7 +5100,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Plyazh sanatoriya \"Sukhum\"",
-                  "text": "Пляж санатория \"Сухум\" este o plajă în Sochumi.",
+                  "text": "Plaja sanatoriului Suhum în Suhumi.",
                   "category": "recreational",
                   "coords": [
                         41.034531,
@@ -3507,7 +5109,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Plyazh sanatoriya MVO",
-                  "text": "Пляж санатория МВО este o plajă în Sochumi.",
+                  "text": "Plaja sanatoriului MVO în Suhumi.",
                   "category": "recreational",
                   "coords": [
                         41.039558,
@@ -3516,7 +5118,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "\"Sobachii\" plyazh",
-                  "text": "\"Собачий\" пляж este o plajă în Sochumi.",
+                  "text": "Plajă pentru câini în Suhumi, populară printre stăpânii de câini.",
                   "category": "recreational",
                   "coords": [
                         41.026722,
@@ -3525,7 +5127,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Plyazh Lokomotiv",
-                  "text": "Пляж Локомотив este o plajă în Sochumi.",
+                  "text": "Plaja Lokomotiv în Suhumi, lângă complexul sportiv.",
                   "category": "recreational",
                   "coords": [
                         41.042897,
@@ -3552,7 +5154,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Gostinitsa Abkhaziya",
-                  "text": "Гостиница Абхазия reprezintă ruine în Sochumi.",
+                  "text": "Hotel istoric Abhazia pe faleza din Suhumi.",
                   "category": "historical",
                   "coords": [
                         41.023683,
@@ -3561,7 +5163,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "krasivyi vid na g. Sukhum",
-                  "text": "красивый вид на г. Сухум este un punct de belvedere în Sochumi.",
+                  "text": "Punct de belvedere cu vedere superbă asupra muntelui Suhum și orașului.",
                   "category": "natural",
                   "coords": [
                         41.033654,
@@ -3570,7 +5172,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Zarosshaya ploshchadka",
-                  "text": "Заросшая площадка este un punct de belvedere în Sochumi.",
+                  "text": "Piață acoperită de vegetație în Suhumi, un loc natural sălbatic.",
                   "category": "natural",
                   "coords": [
                         41.032063,
@@ -3579,7 +5181,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Yakht-Klub",
-                  "text": "Яхт-Клуб este o atracție în Sochumi.",
+                  "text": "Club de iaht pe coasta din Suhumi.",
                   "category": "landmark",
                   "coords": [
                         41.024324,
@@ -3588,7 +5190,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Naberezhnaya Dioskurov",
-                  "text": "Набережная Диоскуров este o atracție în Sochumi.",
+                  "text": "Faleza Dioskurov în Suhumi, numită după orașul antic.",
                   "category": "landmark",
                   "coords": [
                         41.019256,
@@ -3597,7 +5199,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Dom i pekarnya S.Kh. Alkhazova",
-                  "text": "Дом и пекарня С.Х. Алхазова este o atracție în Sochumi.",
+                  "text": "Casă și brutărie istorică a lui S.Kh. Alkhazov în Suhumi.",
                   "category": "landmark",
                   "coords": [
                         41.030399,
@@ -3606,7 +5208,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Zelenyi dom Konstantina Tuzhba",
-                  "text": "Зелёный дом Константина Тужба este o atracție în Sochumi.",
+                  "text": "Casa verde a lui Konstantin Tuzhba în Suhumi.",
                   "category": "landmark",
                   "coords": [
                         41.026402,
@@ -3615,7 +5217,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Ogromnaya lipa",
-                  "text": "Огромная липа este o atracție în Sochumi.",
+                  "text": "Tei uriaș în Suhumi, un reper natural.",
                   "category": "landmark",
                   "coords": [
                         41.022838,
@@ -3624,7 +5226,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Dacha A. S. Averkieva",
-                  "text": "Дача А. С. Аверкиева este o atracție în Sochumi.",
+                  "text": "Dacia lui A.S. Averkiev în Suhumi.",
                   "category": "landmark",
                   "coords": [
                         41.036066,
@@ -3633,7 +5235,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Villa Aloizi",
-                  "text": "Вилла Алоизи este o atracție în Sochumi.",
+                  "text": "Vilă construită în 1896 în Sukhumi.",
                   "category": "landmark",
                   "coords": [
                         41.029699,
@@ -3642,7 +5244,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Detskaya shkola iskusstv № 1 imeni K.V. Kovach",
-                  "text": "Детская школа искусств № 1 имени К.В. Ковач este un centru de arte în Sochumi.",
+                  "text": "Școala de arte pentru copii nr. 1, numită după K.V. Kovaci, în Suhumi.",
                   "category": "cultural",
                   "coords": [
                         41.031532,
@@ -3651,7 +5253,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Dom gofmeistera G.D. Chachba",
-                  "text": "Дом гофмейстера Г.Д. Чачба este o atracție în Sochumi.",
+                  "text": "Casa istorică a maestrului de curte G.D. Ceacba în Suhumi.",
                   "category": "landmark",
                   "coords": [
                         41.031596,
@@ -3660,7 +5262,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Zdanie Verkhovnogo soveta Abkhazskoi Sovetskoi Sotsialisticheskoi Respubliki",
-                  "text": "Здание Верховного совета Абхазской Советской Социалистической Республики este o atracție în Sochumi.",
+                  "text": "Fosta clădire a Sovietului Suprem al RSS Abhazia în Suhumi.",
                   "category": "landmark",
                   "coords": [
                         41.019093,
@@ -3678,7 +5280,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Мокко (песчаный)",
-                  "text": "Mokko Beach este o plajă din Sokhumi.",
+                  "text": "Plajă de pietriș Mokko în Suhumi.",
                   "category": "recreational",
                   "coords": [
                         41.055551,
@@ -3687,7 +5289,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "пляж Айтар",
-                  "text": "пляж Айтар este o plajă din Sokhumi.",
+                  "text": "Plaja nisipoasă Aitar în Suhumi (nume în chirilică).",
                   "category": "recreational",
                   "coords": [
                         41.05383,
@@ -3707,7 +5309,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Fazil Iskander Russian Drama Theatre",
-                  "text": "The Fazil Iskander Russian Drama Theatre is a prominent theatrical institution in Sochumi.",
+                  "text": "The Fazil Iskander Russian Drama Theatre in Sokhumi is named after the celebrated Russian writer Fazil Iskander.",
                   "category": "cultural",
                   "coords": [
                         41.024254,
@@ -3770,7 +5372,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "plyazh Aitar",
-                  "text": "пляж Айтар is a beach in Sochumi.",
+                  "text": "Sandy beach Aitar in Sokhumi.",
                   "category": "recreational",
                   "coords": [
                         41.052178,
@@ -3779,7 +5381,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Dioscurias",
-                  "text": "Dioscurias is an archaeological site in Sochumi.",
+                  "text": "Ancient Greek colony from the 6th century BC in Sukhumi.",
                   "category": "historical",
                   "coords": [
                         41.018169,
@@ -3788,7 +5390,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Tsentralnyi plyazh",
-                  "text": "Центральный пляж is a beach in Sochumi.",
+                  "text": "Main central beach of Sokhumi.",
                   "category": "recreational",
                   "coords": [
                         41.005912,
@@ -3797,7 +5399,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Plyazh sanatoriya \"Sukhum\"",
-                  "text": "Пляж санатория \"Сухум\" is a beach in Sochumi.",
+                  "text": "Beach of the Sukhum sanatorium in Sokhumi.",
                   "category": "recreational",
                   "coords": [
                         41.034531,
@@ -3806,7 +5408,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Plyazh sanatoriya MVO",
-                  "text": "Пляж санатория МВО is a beach in Sochumi.",
+                  "text": "Beach of the MVO sanatorium in Sokhumi.",
                   "category": "recreational",
                   "coords": [
                         41.039558,
@@ -3815,7 +5417,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "\"Sobachii\" plyazh",
-                  "text": "\"Собачий\" пляж is a beach in Sochumi.",
+                  "text": "Dog-friendly beach in Sokhumi, popular with dog owners.",
                   "category": "recreational",
                   "coords": [
                         41.026722,
@@ -3824,7 +5426,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Plyazh Lokomotiv",
-                  "text": "Пляж Локомотив is a beach in Sochumi.",
+                  "text": "Lokomotiv beach in Sokhumi, near the sports complex.",
                   "category": "recreational",
                   "coords": [
                         41.042897,
@@ -3851,7 +5453,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Gostinitsa Abkhaziya",
-                  "text": "Гостиница Абхазия is a ruin in Sochumi.",
+                  "text": "Historic Hotel Abkhazia on the seafront in Sokhumi.",
                   "category": "historical",
                   "coords": [
                         41.023683,
@@ -3860,7 +5462,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "krasivyi vid na g. Sukhum",
-                  "text": "красивый вид на г. Сухум is a viewpoint in Sochumi.",
+                  "text": "Scenic viewpoint overlooking Mount Sukhum and the city.",
                   "category": "natural",
                   "coords": [
                         41.033654,
@@ -3869,7 +5471,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Zarosshaya ploshchadka",
-                  "text": "Заросшая площадка is a viewpoint in Sochumi.",
+                  "text": "Overgrown square in Sokhumi, a wild natural spot.",
                   "category": "natural",
                   "coords": [
                         41.032063,
@@ -3878,7 +5480,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Yakht-Klub",
-                  "text": "Яхт-Клуб is an attraction in Sochumi.",
+                  "text": "Yacht club on the coast in Sokhumi.",
                   "category": "landmark",
                   "coords": [
                         41.024324,
@@ -3887,7 +5489,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Naberezhnaya Dioskurov",
-                  "text": "Набережная Диоскуров is an attraction in Sochumi.",
+                  "text": "Dioskurov Embankment in Sokhumi, named after the ancient city of Dioscurias.",
                   "category": "landmark",
                   "coords": [
                         41.019256,
@@ -3896,7 +5498,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Dom i pekarnya S.Kh. Alkhazova",
-                  "text": "Дом и пекарня С.Х. Алхазова is an attraction in Sochumi.",
+                  "text": "Historic house and bakery of S.Kh. Alkhazov in Sokhumi.",
                   "category": "landmark",
                   "coords": [
                         41.030399,
@@ -3905,7 +5507,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Zelenyi dom Konstantina Tuzhba",
-                  "text": "Зелёный дом Константина Тужба is an attraction in Sochumi.",
+                  "text": "Green house of Konstantin Tuzhba in Sokhumi.",
                   "category": "landmark",
                   "coords": [
                         41.026402,
@@ -3914,7 +5516,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Ogromnaya lipa",
-                  "text": "Огромная липа is an attraction in Sochumi.",
+                  "text": "Ancient huge linden tree in Sokhumi, a natural landmark.",
                   "category": "landmark",
                   "coords": [
                         41.022838,
@@ -3923,7 +5525,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Dacha A. S. Averkieva",
-                  "text": "Дача А. С. Аверкиева is an attraction in Sochumi.",
+                  "text": "Summer house (dacha) of A.S. Averkiev in Sokhumi.",
                   "category": "landmark",
                   "coords": [
                         41.036066,
@@ -3932,7 +5534,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Villa Aloizi",
-                  "text": "Вилла Алоизи is an attraction in Sochumi.",
+                  "text": "Villa built in 1896 in Sukhumi.",
                   "category": "landmark",
                   "coords": [
                         41.029699,
@@ -3941,7 +5543,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Detskaya shkola iskusstv № 1 imeni K.V. Kovach",
-                  "text": "Детская школа искусств № 1 имени К.В. Ковач is an arts centre in Sochumi.",
+                  "text": "Children's art school No. 1 named after K.V. Kovach in Sokhumi.",
                   "category": "cultural",
                   "coords": [
                         41.031532,
@@ -3950,7 +5552,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Dom gofmeistera G.D. Chachba",
-                  "text": "Дом гофмейстера Г.Д. Чачба is an attraction in Sochumi.",
+                  "text": "Historic house of court marshal G.D. Chachba in Sokhumi.",
                   "category": "landmark",
                   "coords": [
                         41.031596,
@@ -3959,7 +5561,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Zdanie Verkhovnogo soveta Abkhazskoi Sovetskoi Sotsialisticheskoi Respubliki",
-                  "text": "Здание Верховного совета Абхазской Советской Социалистической Республики is an attraction in Sochumi.",
+                  "text": "Former Supreme Soviet building of the Abkhaz ASSR in Sokhumi.",
                   "category": "landmark",
                   "coords": [
                         41.019093,
@@ -3977,7 +5579,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "Mokko Beach",
-                  "text": "Mokko Beach is a beach in Sokhumi.",
+                  "text": "Mokko pebble beach in Sokhumi.",
                   "category": "recreational",
                   "coords": [
                         41.055551,
@@ -3986,7 +5588,7 @@ image: "/poi-images/ge-poti-cities-v2.webp",
             },
             {
                   "name": "пляж Айтар",
-                  "text": "пляж Айтар is a beach in Sokhumi.",
+                  "text": "Sandy beach Aitar (Cyrillic name) in Sokhumi.",
                   "category": "recreational",
                   "coords": [
                         41.05383,
@@ -4042,7 +5644,7 @@ image: "/poi-images/ge-sokhumi-cities-v2.webp",
       "de": [
             {
                   "name": "თოჯინების თეატრი",
-                  "text": "Das Puppentheater ist ein Veranstaltungsort in Chaschuri.",
+                  "text": "Puppentheater in Chaschuri mit Vorstellungen für Kinder.",
                   "category": "cultural",
                   "coords": [
                         43.598416,
@@ -4051,7 +5653,7 @@ image: "/poi-images/ge-sokhumi-cities-v2.webp",
             },
             {
                   "name": "ცხრამუხის კოშკი",
-                  "text": "Diese Festung ist eine Verteidigungsanlage in Chaschuri.",
+                  "text": "Mittelalterlicher Turm in Chaschuri, genannt Zchramuchis Koschki.",
                   "category": "fortress",
                   "coords": [
                         43.580307,
@@ -4060,7 +5662,7 @@ image: "/poi-images/ge-sokhumi-cities-v2.webp",
             },
             {
                   "name": "ხაშურის კოშკი",
-                  "text": "Dieses Schloss ist ein Bauwerk in Chaschuri.",
+                  "text": "Mittelalterlicher Steinturm in Khashuri, einst Teil der Stadtbefestigung.",
                   "category": "castle",
                   "coords": [
                         43.601909,
@@ -4071,7 +5673,7 @@ image: "/poi-images/ge-sokhumi-cities-v2.webp",
       "hu": [
             {
                   "name": "თოჯინების თეატრი",
-                  "text": "A Bábszínház egy színház Hasuriban.",
+                  "text": "Bábszínház Khashuriban, gyermekelőadásokkal.",
                   "category": "cultural",
                   "coords": [
                         43.598416,
@@ -4080,7 +5682,7 @@ image: "/poi-images/ge-sokhumi-cities-v2.webp",
             },
             {
                   "name": "ცხრამუხის კოშკი",
-                  "text": "Ez az erőd egy védelmi építmény Hasuriban.",
+                  "text": "Középkori torony Khashuriban, neve: Tskhramukhis koshki.",
                   "category": "fortress",
                   "coords": [
                         43.580307,
@@ -4089,7 +5691,7 @@ image: "/poi-images/ge-sokhumi-cities-v2.webp",
             },
             {
                   "name": "ხაშურის კოშკი",
-                  "text": "Ez a vár egy épület Hasuriban.",
+                  "text": "Középkori kőtorony Khashuriban, egykor a város erődítésének része.",
                   "category": "castle",
                   "coords": [
                         43.601909,
@@ -4100,7 +5702,7 @@ image: "/poi-images/ge-sokhumi-cities-v2.webp",
       "ro": [
             {
                   "name": "თოჯინების თეატრი",
-                  "text": "Teatrul de Păpuși este un teatru situat în Hașuri.",
+                  "text": "Teatru de păpuși în Khashuri, cu spectacole pentru copii.",
                   "category": "cultural",
                   "coords": [
                         43.598416,
@@ -4109,7 +5711,7 @@ image: "/poi-images/ge-sokhumi-cities-v2.webp",
             },
             {
                   "name": "ცხრამუხის კოშკი",
-                  "text": "Acest fort este o structură defensivă situată în Hașuri.",
+                  "text": "Turn medieval în Khashuri, numit Țhramuhis Koșki.",
                   "category": "fortress",
                   "coords": [
                         43.580307,
@@ -4118,7 +5720,7 @@ image: "/poi-images/ge-sokhumi-cities-v2.webp",
             },
             {
                   "name": "ხაშურის კოშკი",
-                  "text": "Acest castel este o structură situată în Hașuri.",
+                  "text": "Turn de piatră medieval în Khashuri, cândva parte a fortificațiilor orașului.",
                   "category": "castle",
                   "coords": [
                         43.601909,
@@ -4129,7 +5731,7 @@ image: "/poi-images/ge-sokhumi-cities-v2.webp",
       "en": [
             {
                   "name": "Puppet Theatre",
-                  "text": "The Puppet Theatre is a theatre located in Chaschuri.",
+                  "text": "Puppet theatre in Khashuri with children's performances.",
                   "category": "cultural",
                   "coords": [
                         43.598416,
@@ -4138,7 +5740,7 @@ image: "/poi-images/ge-sokhumi-cities-v2.webp",
             },
             {
                   "name": "ცხრამუხის კოშკი",
-                  "text": "This fort is a defensive structure located in Chaschuri.",
+                  "text": "Medieval tower in Khashuri, called Tskhramukhis Koshki.",
                   "category": "fortress",
                   "coords": [
                         43.580307,
@@ -4147,7 +5749,7 @@ image: "/poi-images/ge-sokhumi-cities-v2.webp",
             },
             {
                   "name": "ხაშურის კოშკი",
-                  "text": "This castle is a structure situated in Chaschuri.",
+                  "text": "Medieval stone tower castle in Khashuri, once part of the town's fortifications.",
                   "category": "castle",
                   "coords": [
                         43.601909,
@@ -4199,7 +5801,160 @@ image: "/poi-images/ge-khashuri-cities-v2.webp",
     },
   },
   {
-    id: "ge-samtredia-cities-v2",
+    id: "ge-samtredia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "ეროსი მანჯგალაძის სახელობის სამტრედიის დრამატული თეატრი",
+                  "text": "Dieser Veranstaltungsort bietet lokale Theateraufführungen und ist nach dem berühmten georgischen Schauspieler Erosi Manjgaladze benannt.",
+                  "category": "cultural",
+                  "coords": [
+                        42.344142,
+                        42.16208
+                  ]
+            },
+            {
+                  "name": "ხიბლარის საკათედრო ტაძარი",
+                  "text": "Die Khiblari-Kathedrale ist eine bedeutende christliche Stätte mit klassischer Steinarchitektur in der Region Samtredia.",
+                  "category": "landmark",
+                  "coords": [
+                        42.327308,
+                        42.181201
+                  ]
+            },
+            {
+                  "name": "დავით აღმაშენებლის სახელობის საკათედრო ტაძარი",
+                  "text": "Diese markante christliche Kathedrale ist dem verehrten georgischen König David dem Erbauer gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        42.345149,
+                        42.16332
+                  ]
+            },
+            {
+                  "name": "სამტრედიის ცენტრალური ბაზარი",
+                  "text": "Ein belebter zentraler Marktplatz, der eine große Auswahl an frischen regionalen Agrarprodukten und Alltagsgütern bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        42.340669,
+                        42.165874
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ეროსი მანჯგალაძის სახელობის სამტრედიის დრამატული თეატრი",
+                  "text": "Ez a kulturális helyszín helyi színházi előadásoknak ad otthont, és a híres grúz színészről, Erosi Manjgaladzéről kapta a nevét.",
+                  "category": "cultural",
+                  "coords": [
+                        42.344142,
+                        42.16208
+                  ]
+            },
+            {
+                  "name": "ხიბლარის საკათედრო ტაძარი",
+                  "text": "A Khiblari-katedrális egy jelentős keresztény helyszín a Szamtredia régióban, amely klasszikus kőépítészettel rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        42.327308,
+                        42.181201
+                  ]
+            },
+            {
+                  "name": "დავით აღმაშენებლის სახელობის საკათედრო ტაძარი",
+                  "text": "Ezt a kiemelkedő keresztény katedrálist a tisztelt grúz királynak, Építő Dávidnak szentelték.",
+                  "category": "landmark",
+                  "coords": [
+                        42.345149,
+                        42.16332
+                  ]
+            },
+            {
+                  "name": "სამტრედიის ცენტრალური ბაზარი",
+                  "text": "Egy nyüzsgő központi piac, amely a friss regionális mezőgazdasági termékek és mindennapi cikkek széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        42.340669,
+                        42.165874
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ეროსი მანჯგალაძის სახელობის სამტრედიის დრამატული თეატრი",
+                  "text": "Acest loc cultural găzduiește spectacole dramatice locale și este numit în onoarea renumitului actor georgian Erosi Manjgaladze.",
+                  "category": "cultural",
+                  "coords": [
+                        42.344142,
+                        42.16208
+                  ]
+            },
+            {
+                  "name": "ხიბლარის საკათედრო ტაძარი",
+                  "text": "Catedrala Khiblari este un sit creștin semnificativ, prezentând o arhitectură clasică din piatră în regiunea Samtredia.",
+                  "category": "landmark",
+                  "coords": [
+                        42.327308,
+                        42.181201
+                  ]
+            },
+            {
+                  "name": "დავით აღმაშენებლის სახელობის საკათედრო ტაძარი",
+                  "text": "Această catedrală creștină proeminentă este dedicată veneratului rege georgian, David Ziditorul.",
+                  "category": "landmark",
+                  "coords": [
+                        42.345149,
+                        42.16332
+                  ]
+            },
+            {
+                  "name": "სამტრედიის ცენტრალური ბაზარი",
+                  "text": "O piață centrală plină de viață, care oferă o gamă largă de produse agricole regionale proaspete și bunuri de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        42.340669,
+                        42.165874
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Samtredia Drama Theatre named after Erosi Manjgaladze",
+                  "text": "This cultural venue hosts local dramatic performances and is named in honor of the renowned Georgian actor Erosi Manjgaladze.",
+                  "category": "cultural",
+                  "coords": [
+                        42.344142,
+                        42.16208
+                  ]
+            },
+            {
+                  "name": "ხიბლარის საკათედრო ტაძარი",
+                  "text": "The Khiblari Cathedral is a significant Christian site featuring classic stone architecture in the Samtredia region.",
+                  "category": "landmark",
+                  "coords": [
+                        42.327308,
+                        42.181201
+                  ]
+            },
+            {
+                  "name": "დავით აღმაშენებლის სახელობის საკათედრო ტაძარი",
+                  "text": "This prominent Christian cathedral is dedicated to the revered Georgian king, David the Builder.",
+                  "category": "landmark",
+                  "coords": [
+                        42.345149,
+                        42.16332
+                  ]
+            },
+            {
+                  "name": "Central Samtreda Marketplace",
+                  "text": "A bustling central marketplace offering a wide array of fresh regional agricultural produce and everyday goods.",
+                  "category": "cultural",
+                  "coords": [
+                        42.340669,
+                        42.165874
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GE-IM",
     coords: [42.3456, 42.1625],
@@ -4247,7 +6002,7 @@ image: "/poi-images/ge-samtredia-cities-v2.webp",
       "de": [
             {
                   "name": "აკაკი ხორავას სახელობის დრამატული თეატრი (A. Khorava Drama Theatre)",
-                  "text": "A. Khorava Drama Theatre ist ein Theater in Senaki.",
+                  "text": "A. Khorava Drama Theatre, das führende Theater in Senaki.",
                   "category": "cultural",
                   "coords": [
                         42.06316,
@@ -4256,7 +6011,7 @@ image: "/poi-images/ge-samtredia-cities-v2.webp",
             },
             {
                   "name": "საკალანდარიშვილოს ციხე",
-                  "text": "საკალანდარიშვილოს ციხე ist eine Burg in Senaki.",
+                  "text": "Festungsruinen auf einem Hügel mit Blick auf Senaki.",
                   "category": "castle",
                   "coords": [
                         42.078632,
@@ -4265,7 +6020,7 @@ image: "/poi-images/ge-samtredia-cities-v2.webp",
             },
             {
                   "name": "მოსწავლე ახალგაზრდობის სასახლე (Pupilage Youth Palace)",
-                  "text": "Pupilage Youth Palace ist ein Kunstzentrum in Senaki.",
+                  "text": "Ehemaliger Jugendpalast, heute Kulturzentrum in Senaki.",
                   "category": "cultural",
                   "coords": [
                         42.062452,
@@ -4276,7 +6031,7 @@ image: "/poi-images/ge-samtredia-cities-v2.webp",
       "hu": [
             {
                   "name": "აკაკი ხორავას სახელობის დრამატული თეატრი (A. Khorava Drama Theatre)",
-                  "text": "Az A. Khorava Drama Theatre egy színház Senaki városában.",
+                  "text": "A. Khorava Drámaszínház, a vezető színház Senakiban.",
                   "category": "cultural",
                   "coords": [
                         42.06316,
@@ -4285,7 +6040,7 @@ image: "/poi-images/ge-samtredia-cities-v2.webp",
             },
             {
                   "name": "საკალანდარიშვილოს ციხე",
-                  "text": "A საკალანდარიშვილოს ციხე egy kastély Senaki városában.",
+                  "text": "Várromok egy dombon, rálátással Senakira.",
                   "category": "castle",
                   "coords": [
                         42.078632,
@@ -4294,7 +6049,7 @@ image: "/poi-images/ge-samtredia-cities-v2.webp",
             },
             {
                   "name": "მოსწავლე ახალგაზრდობის სასახლე (Pupilage Youth Palace)",
-                  "text": "A Pupilage Youth Palace egy művészeti központ Senaki városában.",
+                  "text": "Egykori Ifjúsági Palota, ma kulturális központ Senakiban.",
                   "category": "cultural",
                   "coords": [
                         42.062452,
@@ -4305,7 +6060,7 @@ image: "/poi-images/ge-samtredia-cities-v2.webp",
       "ro": [
             {
                   "name": "აკაკი ხორავას სახელობის დრამატული თეატრი (A. Khorava Drama Theatre)",
-                  "text": "A. Khorava Drama Theatre este un teatru în Senaki.",
+                  "text": "Teatrul Dramatic A. Khorava, principalul teatru din Senaki.",
                   "category": "cultural",
                   "coords": [
                         42.06316,
@@ -4314,7 +6069,7 @@ image: "/poi-images/ge-samtredia-cities-v2.webp",
             },
             {
                   "name": "საკალანდარიშვილოს ციხე",
-                  "text": "საკალანდარიშვილოს ციხე este un castel în Senaki.",
+                  "text": "Ruinele unei fortărețe pe un deal cu vedere spre Senaki.",
                   "category": "castle",
                   "coords": [
                         42.078632,
@@ -4323,7 +6078,7 @@ image: "/poi-images/ge-samtredia-cities-v2.webp",
             },
             {
                   "name": "მოსწავლე ახალგაზრდობის სასახლე (Pupilage Youth Palace)",
-                  "text": "Pupilage Youth Palace este un centru de arte în Senaki.",
+                  "text": "Fostul Palat al Pionierilor, acum centru cultural în Senaki.",
                   "category": "cultural",
                   "coords": [
                         42.062452,
@@ -4334,7 +6089,7 @@ image: "/poi-images/ge-samtredia-cities-v2.webp",
       "en": [
             {
                   "name": "A. Khorava Drama Theatre",
-                  "text": "A. Khorava Drama Theatre is a theatre in Senaki.",
+                  "text": "A. Khorava Drama Theatre, the main drama theatre in Senaki.",
                   "category": "cultural",
                   "coords": [
                         42.06316,
@@ -4343,7 +6098,7 @@ image: "/poi-images/ge-samtredia-cities-v2.webp",
             },
             {
                   "name": "საკალანდარიშვილოს ციხე",
-                  "text": "საკალანდარიშვილოს ციხე is a castle in Senaki.",
+                  "text": "Fortress ruins on a hillside overlooking Senaki.",
                   "category": "castle",
                   "coords": [
                         42.078632,
@@ -4352,7 +6107,7 @@ image: "/poi-images/ge-samtredia-cities-v2.webp",
             },
             {
                   "name": "Pupilage Youth Palace",
-                  "text": "Pupilage Youth Palace is an arts centre in Senaki.",
+                  "text": "Former Youth Palace, now a cultural center in Senaki.",
                   "category": "cultural",
                   "coords": [
                         42.062452,
@@ -4493,7 +6248,232 @@ image: "/poi-images/ge-zestafoni-cities-v2.webp",
     },
   },
   {
-    id: "ge-marneuli-cities-v2",
+    id: "ge-marneuli-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "კიდევაც დაიზრდებიან",
+                  "text": "Dieses monumentale Denkmal in Marneuli wurde 1975 zum Gedenken an den Sieg im Zweiten Weltkrieg errichtet.",
+                  "category": "historical",
+                  "coords": [
+                        44.803746,
+                        41.502213
+                  ]
+            },
+            {
+                  "name": "წმინდა გიორგის ეკლესია",
+                  "text": "Eine georgisch-orthodoxe Kirche in Marneuli, die als lokales Kulturerbe von Bedeutung geschützt ist.",
+                  "category": "religious",
+                  "coords": [
+                        44.79057,
+                        41.491317
+                  ]
+            },
+            {
+                  "name": "იმამ ჰუსეინის მეჩეთი",
+                  "text": "Ein zentrales islamisches Gebetshaus für die muslimische Gemeinde in Marneuli.",
+                  "category": "landmark",
+                  "coords": [
+                        44.824882,
+                        41.464237
+                  ]
+            },
+            {
+                  "name": "წმინდა დავით აღმაშენებლის სახელობის ეკლესია",
+                  "text": "Eine moderne Kirche in Marneuli, die dem berühmten georgischen König David dem Erbauer gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.797951,
+                        41.487986
+                  ]
+            },
+            {
+                  "name": "იმამ-ალის მეჩეთი",
+                  "text": "Diese Moschee in Marneuli ist ein wichtiger spiritueller Treffpunkt für die lokale schiitische Bevölkerung.",
+                  "category": "landmark",
+                  "coords": [
+                        44.818349,
+                        41.463885
+                  ]
+            },
+            {
+                  "name": "მარნეულის ბაზრობა",
+                  "text": "Ein lebhafter lokaler Marktplatz in Marneuli, auf dem frische Produkte und regionale Waren gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        44.80798,
+                        41.482639
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "კიდევაც დაიზრდებიან",
+                  "text": "Ezt a monumentális emlékművet Marneuliban 1975-ben emelték a második világháborús győzelem emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        44.803746,
+                        41.502213
+                  ]
+            },
+            {
+                  "name": "წმინდა გიორგის ეკლესია",
+                  "text": "Egy grúz ortodox templom Marneuliban, amely jelentős helyi kulturális örökségként áll védelem alatt.",
+                  "category": "religious",
+                  "coords": [
+                        44.79057,
+                        41.491317
+                  ]
+            },
+            {
+                  "name": "იმამ ჰუსეინის მეჩეთი",
+                  "text": "Egy központi iszlám imaház Marneuli muszlim közössége számára.",
+                  "category": "landmark",
+                  "coords": [
+                        44.824882,
+                        41.464237
+                  ]
+            },
+            {
+                  "name": "წმინდა დავით აღმაშენებლის სახელობის ეკლესია",
+                  "text": "Egy modern templom Marneuliban, amelyet a híres grúz királynak, Építő Dávidnak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        44.797951,
+                        41.487986
+                  ]
+            },
+            {
+                  "name": "იმამ-ალის მეჩეთი",
+                  "text": "Ez a marneuli mecset a helyi síita lakosság fontos spirituális találkozóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        44.818349,
+                        41.463885
+                  ]
+            },
+            {
+                  "name": "მარნეულის ბაზრობა",
+                  "text": "Egy nyüzsgő helyi piactér Marneuliban, ahol friss termékeket és regionális árukat kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        44.80798,
+                        41.482639
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "კიდევაც დაიზრდებიან",
+                  "text": "Acest monument din Marneuli a fost ridicat în 1975 pentru a comemora victoria în cel de-al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        44.803746,
+                        41.502213
+                  ]
+            },
+            {
+                  "name": "წმინდა გიორგის ეკლესია",
+                  "text": "O biserică ortodoxă georgiană din Marneuli, protejată ca monument de importanță culturală locală.",
+                  "category": "religious",
+                  "coords": [
+                        44.79057,
+                        41.491317
+                  ]
+            },
+            {
+                  "name": "იმამ ჰუსეინის მეჩეთი",
+                  "text": "O casă de rugăciune islamică centrală pentru comunitatea musulmană din Marneuli.",
+                  "category": "landmark",
+                  "coords": [
+                        44.824882,
+                        41.464237
+                  ]
+            },
+            {
+                  "name": "წმინდა დავით აღმაშენებლის სახელობის ეკლესია",
+                  "text": "O biserică modernă în Marneuli, dedicată celebrului rege georgian David Constructorul.",
+                  "category": "landmark",
+                  "coords": [
+                        44.797951,
+                        41.487986
+                  ]
+            },
+            {
+                  "name": "იმამ-ალის მეჩეთი",
+                  "text": "Această moschee din Marneuli este un punct de întâlnire spiritual important pentru populația șiită locală.",
+                  "category": "landmark",
+                  "coords": [
+                        44.818349,
+                        41.463885
+                  ]
+            },
+            {
+                  "name": "მარნეულის ბაზრობა",
+                  "text": "O piață locală plină de viață în Marneuli, unde se comercializează produse proaspete și mărfuri regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        44.80798,
+                        41.482639
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "They Will Grow More",
+                  "text": "This monumental sculpture in Marneuli was erected in 1975 to commemorate the victory in World War II.",
+                  "category": "historical",
+                  "coords": [
+                        44.803746,
+                        41.502213
+                  ]
+            },
+            {
+                  "name": "Saint George Church",
+                  "text": "A Georgian Orthodox church in Marneuli, protected as a site of local cultural heritage significance.",
+                  "category": "religious",
+                  "coords": [
+                        44.79057,
+                        41.491317
+                  ]
+            },
+            {
+                  "name": "Imam Hussein Mosque",
+                  "text": "A central Islamic house of prayer serving the Muslim community in Marneuli.",
+                  "category": "landmark",
+                  "coords": [
+                        44.824882,
+                        41.464237
+                  ]
+            },
+            {
+                  "name": "Saint David the Builder Church",
+                  "text": "A modern church in Marneuli dedicated to the famous Georgian king David the Builder.",
+                  "category": "landmark",
+                  "coords": [
+                        44.797951,
+                        41.487986
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "This mosque in Marneuli is an important spiritual gathering place for the local Shiite population.",
+                  "category": "landmark",
+                  "coords": [
+                        44.818349,
+                        41.463885
+                  ]
+            },
+            {
+                  "name": "Marneulis Bazroba",
+                  "text": "A bustling local marketplace in Marneuli where fresh produce and regional goods are traded.",
+                  "category": "cultural",
+                  "coords": [
+                        44.80798,
+                        41.482639
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GE-KK",
     coords: [44.8089, 41.4794],
@@ -4541,7 +6521,7 @@ image: "/poi-images/ge-marneuli-cities-v2.webp",
       "de": [
             {
                   "name": "ერეკლე მეორის სასახლე",
-                  "text": "Erekle II Palace ist ein Museum in Telawi.",
+                  "text": "Palast aus dem 18. Jahrhundert von König Erekle II., heute Museum in Telawi.",
                   "category": "museum",
                   "coords": [
                         45.47567,
@@ -4550,7 +6530,7 @@ image: "/poi-images/ge-marneuli-cities-v2.webp",
             },
             {
                   "name": "Amphitheater",
-                  "text": "Amphitheater ist ein Theater in Telawi.",
+                  "text": "Freiluft-Amphitheater im Stadtpark von Telavi.",
                   "category": "cultural",
                   "coords": [
                         45.478786,
@@ -4559,7 +6539,7 @@ image: "/poi-images/ge-marneuli-cities-v2.webp",
             },
             {
                   "name": "თელავის ვაჟა ფშაველას სახელობის პროფესიული სახელმწიფო დრამატული თეატრი",
-                  "text": "Telavi's Vazha-Pshavela Theater ist ein Theater in Telawi.",
+                  "text": "Vazha-Pshavela Theater, nach dem georgischen Dichter benannt, im Zentrum von Telavi.",
                   "category": "cultural",
                   "coords": [
                         45.473177,
@@ -4568,7 +6548,7 @@ image: "/poi-images/ge-marneuli-cities-v2.webp",
             },
             {
                   "name": "Euro Park",
-                  "text": "Euro Park ist ein Wasserpark in Telawi.",
+                  "text": "Familienpark mit Spielplätzen und Grünflächen in Telavi.",
                   "category": "family",
                   "coords": [
                         45.48376,
@@ -4577,7 +6557,7 @@ image: "/poi-images/ge-marneuli-cities-v2.webp",
             },
             {
                   "name": "ფოლკლორის ცენტრი (Folk Center)",
-                  "text": "Folk Center ist ein Kunstzentrum in Telawi.",
+                  "text": "Volkskulturzentrum mit traditioneller georgischer Musik und Tanz in Telavi.",
                   "category": "cultural",
                   "coords": [
                         45.473985,
@@ -4586,7 +6566,7 @@ image: "/poi-images/ge-marneuli-cities-v2.webp",
             },
             {
                   "name": "ზღაპარი",
-                  "text": "Zghapari ist ein Kunstzentrum in Telawi.",
+                  "text": "Kulturstätte Zghapari, Treffpunkt lokaler Künstler in Telavi.",
                   "category": "cultural",
                   "coords": [
                         45.473258,
@@ -4595,7 +6575,7 @@ image: "/poi-images/ge-marneuli-cities-v2.webp",
             },
             {
                   "name": "900 year platan tree",
-                  "text": "900 Year Plane Tree ist eine Attraktion in Telawi.",
+                  "text": "900 Jahre alte Platane auf dem Hauptplatz von Telavi.",
                   "category": "landmark",
                   "coords": [
                         45.47808,
@@ -4604,7 +6584,7 @@ image: "/poi-images/ge-marneuli-cities-v2.webp",
             },
             {
                   "name": "მეფე ერეკლე II-ის ძეგლი",
-                  "text": "Monument of King Erekle II ist ein Denkmal in Telawi.",
+                  "text": "Denkmal für König Erekle II. auf dem Hauptplatz von Telavi.",
                   "category": "historical",
                   "coords": [
                         45.476457,
@@ -4613,7 +6593,7 @@ image: "/poi-images/ge-marneuli-cities-v2.webp",
             },
             {
                   "name": "თელავის ღვთაების ეკლესია",
-                  "text": "Ghvtaeba Church ist eine Kultstätte in Telawi.",
+                  "text": "Kleine Steinkirche auf einem Hügel bei Telawi.",
                   "category": "religious",
                   "coords": [
                         45.471687,
@@ -4624,7 +6604,7 @@ image: "/poi-images/ge-marneuli-cities-v2.webp",
       "hu": [
             {
                   "name": "ერეკლე მეორის სასახლე",
-                  "text": "Az Erekle II Palace egy múzeum Telawi városában.",
+                  "text": "A 18. századi palota, mely II. Erekle királyé volt, ma múzeum Telaviban.",
                   "category": "museum",
                   "coords": [
                         45.47567,
@@ -4633,7 +6613,7 @@ image: "/poi-images/ge-marneuli-cities-v2.webp",
             },
             {
                   "name": "Amphitheater",
-                  "text": "Az Amphitheater egy színház Telawi városában.",
+                  "text": "Szabadtéri amfiteátrum Telavi városi parkjában.",
                   "category": "cultural",
                   "coords": [
                         45.478786,
@@ -4642,7 +6622,7 @@ image: "/poi-images/ge-marneuli-cities-v2.webp",
             },
             {
                   "name": "თელავის ვაჟა ფშაველას სახელობის პროფესიული სახელმწიფო დრამატული თეატრი",
-                  "text": "A Telavi's Vazha-Pshavela Theater egy színház Telawi városában.",
+                  "text": "Vazha-Pshavela Színház, a grúz költőről elnevezve, Telavi központjában.",
                   "category": "cultural",
                   "coords": [
                         45.473177,
@@ -4651,7 +6631,7 @@ image: "/poi-images/ge-marneuli-cities-v2.webp",
             },
             {
                   "name": "Euro Park",
-                  "text": "Az Euro Park egy vízi park Telawi városában.",
+                  "text": "Családi park játszóterekkel és zöldterületekkel Telaviban.",
                   "category": "family",
                   "coords": [
                         45.48376,
@@ -4660,7 +6640,7 @@ image: "/poi-images/ge-marneuli-cities-v2.webp",
             },
             {
                   "name": "ფოლკლორის ცენტრი (Folk Center)",
-                  "text": "A Folk Center egy művészeti központ Telawi városában.",
+                  "text": "Népi kulturális központ hagyományos grúz zenével és tánccal Telaviban.",
                   "category": "cultural",
                   "coords": [
                         45.473985,
@@ -4669,7 +6649,7 @@ image: "/poi-images/ge-marneuli-cities-v2.webp",
             },
             {
                   "name": "ზღაპარი",
-                  "text": "A Zghapari egy művészeti központ Telawi városában.",
+                  "text": "Zghapari kulturális helyszín, helyi művészek találkozóhelye Telaviban.",
                   "category": "cultural",
                   "coords": [
                         45.473258,
@@ -4678,7 +6658,7 @@ image: "/poi-images/ge-marneuli-cities-v2.webp",
             },
             {
                   "name": "900 year platan tree",
-                  "text": "A 900 Year Plane Tree egy látványosság Telawi városában.",
+                  "text": "900 éves platánfa Telavi főterén.",
                   "category": "landmark",
                   "coords": [
                         45.47808,
@@ -4687,7 +6667,7 @@ image: "/poi-images/ge-marneuli-cities-v2.webp",
             },
             {
                   "name": "მეფე ერეკლე II-ის ძეგლი",
-                  "text": "A Monument of King Erekle II egy emlékmű Telawi városában.",
+                  "text": "II. Erekle király emlékműve Telavi főterén.",
                   "category": "historical",
                   "coords": [
                         45.476457,
@@ -4696,7 +6676,7 @@ image: "/poi-images/ge-marneuli-cities-v2.webp",
             },
             {
                   "name": "თელავის ღვთაების ეკლესია",
-                  "text": "A Ghvtaeba Church egy vallási épület Telawi városában.",
+                  "text": "Kis kőtemplom egy dombon Telavi közelében.",
                   "category": "religious",
                   "coords": [
                         45.471687,
@@ -4707,7 +6687,7 @@ image: "/poi-images/ge-marneuli-cities-v2.webp",
       "ro": [
             {
                   "name": "ერეკლე მეორის სასახლე",
-                  "text": "Erekle II Palace este un muzeu în Telawi.",
+                  "text": "Palatul din secolul al XVIII-lea al regelui Erekle al II-lea, acum muzeu în Telavi.",
                   "category": "museum",
                   "coords": [
                         45.47567,
@@ -4716,7 +6696,7 @@ image: "/poi-images/ge-marneuli-cities-v2.webp",
             },
             {
                   "name": "Amphitheater",
-                  "text": "Amphitheater este un teatru în Telawi.",
+                  "text": "Amfiteatru în aer liber în parcul orașului Telavi.",
                   "category": "cultural",
                   "coords": [
                         45.478786,
@@ -4725,7 +6705,7 @@ image: "/poi-images/ge-marneuli-cities-v2.webp",
             },
             {
                   "name": "თელავის ვაჟა ფშაველას სახელობის პროფესიული სახელმწიფო დრამატული თეატრი",
-                  "text": "Telavi's Vazha-Pshavela Theater este un teatru în Telawi.",
+                  "text": "Teatrul Vazha-Pshavela, numit după poetul georgian, în centrul orașului Telavi.",
                   "category": "cultural",
                   "coords": [
                         45.473177,
@@ -4734,7 +6714,7 @@ image: "/poi-images/ge-marneuli-cities-v2.webp",
             },
             {
                   "name": "Euro Park",
-                  "text": "Euro Park este un parc acvatic în Telawi.",
+                  "text": "Parcul Euro, un parc pentru familie cu locuri de joacă și spații verzi în Telavi.",
                   "category": "family",
                   "coords": [
                         45.48376,
@@ -4743,7 +6723,7 @@ image: "/poi-images/ge-marneuli-cities-v2.webp",
             },
             {
                   "name": "ფოლკლორის ცენტრი (Folk Center)",
-                  "text": "Folk Center este un centru de arte în Telawi.",
+                  "text": "Centru de cultură populară cu muzică și dans tradițional georgian în Telavi.",
                   "category": "cultural",
                   "coords": [
                         45.473985,
@@ -4752,7 +6732,7 @@ image: "/poi-images/ge-marneuli-cities-v2.webp",
             },
             {
                   "name": "ზღაპარი",
-                  "text": "Zghapari este un centru de arte în Telawi.",
+                  "text": "Zghapari, un spațiu cultural pentru artiști locali în Telavi.",
                   "category": "cultural",
                   "coords": [
                         45.473258,
@@ -4761,7 +6741,7 @@ image: "/poi-images/ge-marneuli-cities-v2.webp",
             },
             {
                   "name": "900 year platan tree",
-                  "text": "900 Year Plane Tree este o atracție în Telawi.",
+                  "text": "Platan de 900 de ani în piața centrală din Telavi.",
                   "category": "landmark",
                   "coords": [
                         45.47808,
@@ -4770,7 +6750,7 @@ image: "/poi-images/ge-marneuli-cities-v2.webp",
             },
             {
                   "name": "მეფე ერეკლე II-ის ძეგლი",
-                  "text": "Monument of King Erekle II este un monument în Telawi.",
+                  "text": "Monumentul regelui Erekle al II-lea în piața centrală din Telavi.",
                   "category": "historical",
                   "coords": [
                         45.476457,
@@ -4779,7 +6759,7 @@ image: "/poi-images/ge-marneuli-cities-v2.webp",
             },
             {
                   "name": "თელავის ღვთაების ეკლესია",
-                  "text": "Ghvtaeba Church este un lăcaș de cult în Telawi.",
+                  "text": "Bisericuță de piatră pe o colină lângă Telavi.",
                   "category": "religious",
                   "coords": [
                         45.471687,
@@ -4790,7 +6770,7 @@ image: "/poi-images/ge-marneuli-cities-v2.webp",
       "en": [
             {
                   "name": "Erekle II Palace",
-                  "text": "Erekle II Palace is a museum in Telawi.",
+                  "text": "18th-century palace of King Erekle II, now a museum in Telavi.",
                   "category": "museum",
                   "coords": [
                         45.47567,
@@ -4799,7 +6779,7 @@ image: "/poi-images/ge-marneuli-cities-v2.webp",
             },
             {
                   "name": "Amphitheater",
-                  "text": "Amphitheater is a theatre in Telawi.",
+                  "text": "Open-air amphitheater in Telavi's city park.",
                   "category": "cultural",
                   "coords": [
                         45.478786,
@@ -4808,7 +6788,7 @@ image: "/poi-images/ge-marneuli-cities-v2.webp",
             },
             {
                   "name": "Telavi's Vazha-Pshavela Theater",
-                  "text": "Telavi's Vazha-Pshavela Theater is a theatre in Telawi.",
+                  "text": "Vazha-Pshavela Theater, named after the Georgian poet, in central Telavi.",
                   "category": "cultural",
                   "coords": [
                         45.473177,
@@ -4817,7 +6797,7 @@ image: "/poi-images/ge-marneuli-cities-v2.webp",
             },
             {
                   "name": "Euro Park",
-                  "text": "Euro Park is a water park in Telawi.",
+                  "text": "Euro Park, a family-friendly park with playgrounds and green spaces in Telavi.",
                   "category": "family",
                   "coords": [
                         45.48376,
@@ -4826,7 +6806,7 @@ image: "/poi-images/ge-marneuli-cities-v2.webp",
             },
             {
                   "name": "Folk Center",
-                  "text": "Folk Center is an arts centre in Telawi.",
+                  "text": "Folk culture center showcasing traditional Georgian music and dance in Telavi.",
                   "category": "cultural",
                   "coords": [
                         45.473985,
@@ -4835,7 +6815,7 @@ image: "/poi-images/ge-marneuli-cities-v2.webp",
             },
             {
                   "name": "Zghapari",
-                  "text": "Zghapari is an arts centre in Telawi.",
+                  "text": "Zghapari cultural venue, a hub for local artists in Telavi.",
                   "category": "cultural",
                   "coords": [
                         45.473258,
@@ -4844,7 +6824,7 @@ image: "/poi-images/ge-marneuli-cities-v2.webp",
             },
             {
                   "name": "900 Year Plane Tree",
-                  "text": "900 Year Plane Tree is an attraction in Telawi.",
+                  "text": "900-year-old plane tree in Telavi's central square.",
                   "category": "landmark",
                   "coords": [
                         45.47808,
@@ -4853,7 +6833,7 @@ image: "/poi-images/ge-marneuli-cities-v2.webp",
             },
             {
                   "name": "Monument of King Erekle II",
-                  "text": "Monument of King Erekle II is a monument in Telawi.",
+                  "text": "Monument to King Erekle II on Telavi's main square.",
                   "category": "historical",
                   "coords": [
                         45.476457,
@@ -4862,7 +6842,7 @@ image: "/poi-images/ge-marneuli-cities-v2.webp",
             },
             {
                   "name": "Ghvtaeba Church",
-                  "text": "Ghvtaeba Church is a place of worship in Telawi.",
+                  "text": "Small stone church on a hill near Telavi.",
                   "category": "religious",
                   "coords": [
                         45.471687,
@@ -4918,7 +6898,7 @@ image: "/poi-images/ge-telavi-cities-v2.webp",
       "de": [
             {
                   "name": "ივანე ჯავახიშვილის სახელობის სამცხე-ჯავახეთის ისტორიის მუზეუმი",
-                  "text": "Dieses Museum in Achalziche widmet sich den historischen Artefakten der Region Samzche-Dschawachetien.",
+                  "text": "Museum in der Rabati-Festung aus dem 13. Jahrhundert in Achalziche.",
                   "category": "museum",
                   "coords": [
                         42.976341,
@@ -4927,7 +6907,7 @@ image: "/poi-images/ge-telavi-cities-v2.webp",
             },
             {
                   "name": "ახალციხის თოჯინების პროფესიული სახელმწიფო თეატრი",
-                  "text": "Das Staatliche Professionelle Puppentheater Achalziche ist ein lokales Theater in Achalziche.",
+                  "text": "Staatliches Puppentheater in der Altstadt von Akhaltsikhe.",
                   "category": "cultural",
                   "coords": [
                         42.989346,
@@ -4945,7 +6925,7 @@ image: "/poi-images/ge-telavi-cities-v2.webp",
             },
             {
                   "name": "თურქული აბანო (ნანგრევები)",
-                  "text": "Die Ruinen der Türkischen Bäder sind eine Sehenswürdigkeit in Achalziche.",
+                  "text": "Ruinen eines türkischen Bades aus dem 17. Jahrhundert nahe der Festung Akhaltsikhe.",
                   "category": "landmark",
                   "coords": [
                         42.973834,
@@ -4954,7 +6934,7 @@ image: "/poi-images/ge-telavi-cities-v2.webp",
             },
             {
                   "name": "აბუს ეკლრსიის ნანგრევები",
-                  "text": "Diese Ruinen befinden sich in Achalziche.",
+                  "text": "Ruinen einer nach Abu benannten mittelalterlichen Kirche in Akhaltsikhe.",
                   "category": "historical",
                   "coords": [
                         42.966514,
@@ -4965,7 +6945,7 @@ image: "/poi-images/ge-telavi-cities-v2.webp",
       "hu": [
             {
                   "name": "ივანე ჯავახიშვილის სახელობის სამცხე-ჯავახეთის ისტორიის მუზეუმი",
-                  "text": "Ez a múzeum Ahalcihén található.",
+                  "text": "Múzeum a 13. századi Rabati várban, Achalzichében.",
                   "category": "museum",
                   "coords": [
                         42.976341,
@@ -4974,7 +6954,7 @@ image: "/poi-images/ge-telavi-cities-v2.webp",
             },
             {
                   "name": "ახალციხის თოჯინების პროფესიული სახელმწიფო თეატრი",
-                  "text": "Az Ahalcihei Professzionális Állami Bábszínház egy helyi színház Ahalcihén.",
+                  "text": "Állami Bábszínház Akhaltsikhe óvárosában.",
                   "category": "cultural",
                   "coords": [
                         42.989346,
@@ -4992,7 +6972,7 @@ image: "/poi-images/ge-telavi-cities-v2.webp",
             },
             {
                   "name": "თურქული აბანო (ნანგრევები)",
-                  "text": "A Török fürdők romjai látványosságot jelentenek Ahalcihén.",
+                  "text": "17. századi török fürdő romjai az akhaltsikhei erőd közelében.",
                   "category": "landmark",
                   "coords": [
                         42.973834,
@@ -5001,7 +6981,7 @@ image: "/poi-images/ge-telavi-cities-v2.webp",
             },
             {
                   "name": "აბუს ეკლრსიის ნანგრევები",
-                  "text": "Ezek a romok Ahalcihén találhatók.",
+                  "text": "Egy Abu nevű középkori templom romjai Akhaltsikhében.",
                   "category": "historical",
                   "coords": [
                         42.966514,
@@ -5012,7 +6992,7 @@ image: "/poi-images/ge-telavi-cities-v2.webp",
       "ro": [
             {
                   "name": "ივანე ჯავახიშვილის სახელობის სამცხე-ჯავახეთის ისტორიის მუზეუმი",
-                  "text": "Acest muzeu din Akhaltsikhe este un muzeu local.",
+                  "text": "Muzeu găzduit în cetatea Rabati din secolul al XIII-lea, în Akhaltsikhe.",
                   "category": "museum",
                   "coords": [
                         42.976341,
@@ -5021,7 +7001,7 @@ image: "/poi-images/ge-telavi-cities-v2.webp",
             },
             {
                   "name": "ახალციხის თოჯინების პროფესიული სახელმწიფო თეატრი",
-                  "text": "Teatrul de Stat Profesionist de Păpuși din Akhaltsikhe este un teatru local.",
+                  "text": "Teatrul de Păpuși de Stat din Akhaltsikhe, în centrul istoric.",
                   "category": "cultural",
                   "coords": [
                         42.989346,
@@ -5039,7 +7019,7 @@ image: "/poi-images/ge-telavi-cities-v2.webp",
             },
             {
                   "name": "თურქული აბანო (ნანგრევები)",
-                  "text": "Ruinele băilor turcești sunt o atracție situată în Akhaltsikhe.",
+                  "text": "Ruinele unei băi turcești din secolul al XVII-lea lângă fortăreața Akhaltsikhe.",
                   "category": "landmark",
                   "coords": [
                         42.973834,
@@ -5048,7 +7028,7 @@ image: "/poi-images/ge-telavi-cities-v2.webp",
             },
             {
                   "name": "აბუს ეკლრსიის ნანგრევები",
-                  "text": "Aceste ruine sunt localizate în Akhaltsikhe.",
+                  "text": "Ruinele unei biserici medievale numite Abu în Akhaltsikhe.",
                   "category": "historical",
                   "coords": [
                         42.966514,
@@ -5059,7 +7039,7 @@ image: "/poi-images/ge-telavi-cities-v2.webp",
       "en": [
             {
                   "name": "Samtskhe-Javakheti History Museum named after Ivane Javakhishvili",
-                  "text": "This museum is located in Achalziche.",
+                  "text": "Museum housed in the 13th-century Rabati Castle in Akhaltsikhe.",
                   "category": "museum",
                   "coords": [
                         42.976341,
@@ -5068,7 +7048,7 @@ image: "/poi-images/ge-telavi-cities-v2.webp",
             },
             {
                   "name": "Akhaltsikhe Professional State Theater of Puppets",
-                  "text": "The Akhaltsikhe Professional State Theater of Puppets is a local theatre venue in Achalziche.",
+                  "text": "State Puppet Theatre in Akhaltsikhe's old town.",
                   "category": "cultural",
                   "coords": [
                         42.989346,
@@ -5086,7 +7066,7 @@ image: "/poi-images/ge-telavi-cities-v2.webp",
             },
             {
                   "name": "Turkish baths (ruins)",
-                  "text": "The ruins of the Turkish baths are an attraction located in Achalziche.",
+                  "text": "Ruins of a 17th-century Turkish bath near Akhaltsikhe fortress.",
                   "category": "landmark",
                   "coords": [
                         42.973834,
@@ -5095,7 +7075,7 @@ image: "/poi-images/ge-telavi-cities-v2.webp",
             },
             {
                   "name": "აბუს ეკლრსიის ნანგრევები",
-                  "text": "These ruins are located in Achalziche.",
+                  "text": "Ruins of a medieval church named Abu in Akhaltsikhe.",
                   "category": "historical",
                   "coords": [
                         42.966514,
@@ -5147,7 +7127,124 @@ image: "/poi-images/ge-akhaltsikhe-cities-v2.webp",
     },
   },
   {
-    id: "ge-kobuleti-cities-v2",
+    id: "ge-kobuleti-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "ქობულეთის მუზეუმი",
+                  "text": "Dieses regionale Museum bewahrt archäologische Artefakte und kulturelle Exponate auf, die die reiche Geschichte von Kobuleti dokumentieren.",
+                  "category": "museum",
+                  "coords": [
+                        41.774699,
+                        41.818181
+                  ]
+            },
+            {
+                  "name": "წმინდა ღვთისმშობლის ეკლესია",
+                  "text": "Eine ruhige christliche Kirche, die der Heiligen Jungfrau gewidmet ist und sich in der Küstenstadt Kobuleti befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        41.779241,
+                        41.840167
+                  ]
+            },
+            {
+                  "name": "thermal spring",
+                  "text": "Diese natürlichen, geothermisch erhitzten Gewässer sind für ihre therapeutischen mineralischen Eigenschaften bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        41.798427,
+                        41.821074
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ქობულეთის მუზეუმი",
+                  "text": "Ez a regionális múzeum régészeti leleteket és kulturális kiállítási tárgyakat őriz, amelyek bemutatják Kobuleti gazdag történelmét.",
+                  "category": "museum",
+                  "coords": [
+                        41.774699,
+                        41.818181
+                  ]
+            },
+            {
+                  "name": "წმინდა ღვთისმშობლის ეკლესია",
+                  "text": "A Szent Szűznek szentelt békés keresztény templom Kobuleti tengerparti városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        41.779241,
+                        41.840167
+                  ]
+            },
+            {
+                  "name": "thermal spring",
+                  "text": "Ezek a természetes, geotermikusan fűtött vizek terápiás ásványi tulajdonságaikról híresek.",
+                  "category": "natural",
+                  "coords": [
+                        41.798427,
+                        41.821074
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ქობულეთის მუზეუმი",
+                  "text": "Acest muzeu regional păstrează artefacte arheologice și exponate culturale care detaliază istoria bogată a orașului Kobuleti.",
+                  "category": "museum",
+                  "coords": [
+                        41.774699,
+                        41.818181
+                  ]
+            },
+            {
+                  "name": "წმინდა ღვთისმშობლის ეკლესია",
+                  "text": "O biserică creștină liniștită închinată Sfintei Fecioare, situată în orașul de coastă Kobuleti.",
+                  "category": "landmark",
+                  "coords": [
+                        41.779241,
+                        41.840167
+                  ]
+            },
+            {
+                  "name": "thermal spring",
+                  "text": "Aceste ape naturale încălzite geotermal sunt renumite pentru proprietățile lor minerale terapeutice.",
+                  "category": "natural",
+                  "coords": [
+                        41.798427,
+                        41.821074
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kobuleti Museum",
+                  "text": "This regional museum preserves archaeological artifacts and cultural exhibits detailing the rich history of Kobuleti.",
+                  "category": "museum",
+                  "coords": [
+                        41.774699,
+                        41.818181
+                  ]
+            },
+            {
+                  "name": "Holy Virgin Church",
+                  "text": "A tranquil Christian church dedicated to the Holy Virgin, situated in the coastal city of Kobuleti.",
+                  "category": "landmark",
+                  "coords": [
+                        41.779241,
+                        41.840167
+                  ]
+            },
+            {
+                  "name": "thermal spring",
+                  "text": "These natural geothermally heated waters are renowned for their therapeutic mineral properties.",
+                  "category": "natural",
+                  "coords": [
+                        41.798427,
+                        41.821074
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GE-AJ",
     coords: [41.7733, 41.8153],
@@ -5204,7 +7301,7 @@ image: "/poi-images/ge-kobuleti-cities-v2.webp",
             },
             {
                   "name": "ოზურგეთის ისტორიული მუზეუმი",
-                  "text": "Ozurgeti History Museum ist ein Museum in Osurgeti.",
+                  "text": "Das Historische Museum Ozurgeti, gegründet am 1. April 1936, zeigt die Geschichte der Region.",
                   "category": "museum",
                   "coords": [
                         42.005015,
@@ -5213,7 +7310,7 @@ image: "/poi-images/ge-kobuleti-cities-v2.webp",
             },
             {
                   "name": "ე. თაყაიშვილის გურიის მხარის არქეოლოგიული მუზეუმ-ნაკეძალი",
-                  "text": "E. Takhaishvili Archaelogical Museum-Reserve of the Region of Guria ist ein Museum in Osurgeti.",
+                  "text": "Archäologisches Museumsreservat von Guria in Ozurgeti, mit Funden aus der Region.",
                   "category": "museum",
                   "coords": [
                         42.001278,
@@ -5222,7 +7319,7 @@ image: "/poi-images/ge-kobuleti-cities-v2.webp",
             },
             {
                   "name": "სოფელ ოზურგეთის კულტურის სახლი",
-                  "text": "სოფელ ოზურგეთის კულტურის სახლი ist ein Theater in Osurgeti.",
+                  "text": "Kulturhaus des Dorfes Ozurgeti, Ort für Gemeindeveranstaltungen.",
                   "category": "cultural",
                   "coords": [
                         41.983827,
@@ -5231,7 +7328,7 @@ image: "/poi-images/ge-kobuleti-cities-v2.webp",
             },
             {
                   "name": "მერაბ ბერძენიშვილის სახელობის თანამედროვე სახვეთი ხელოვნების ცენტრი",
-                  "text": "Merab Berdzenishvili Modern Fine Arts Center ist eine Galerie in Osurgeti.",
+                  "text": "Zentrum für moderne Kunst in Ozurgeti, benannt nach Merab Berdzenishvili.",
                   "category": "museum",
                   "coords": [
                         42.005229,
@@ -5251,7 +7348,7 @@ image: "/poi-images/ge-kobuleti-cities-v2.webp",
             },
             {
                   "name": "ოზურგეთის ისტორიული მუზეუმი",
-                  "text": "Az Ozurgeti History Museum egy múzeum Osurgeti városában.",
+                  "text": "Az Ozurgeti Történeti Múzeumot 1936. április 1-jén alapították, a régió történelmét mutatja be.",
                   "category": "museum",
                   "coords": [
                         42.005015,
@@ -5260,7 +7357,7 @@ image: "/poi-images/ge-kobuleti-cities-v2.webp",
             },
             {
                   "name": "ე. თაყაიშვილის გურიის მხარის არქეოლოგიული მუზეუმ-ნაკეძალი",
-                  "text": "Az E. Takhaishvili Archaelogical Museum-Reserve of the Region of Guria egy múzeum Osurgeti városában.",
+                  "text": "Guria régészeti múzeum-rezervátuma Ozurgetiben, a régió leleteivel.",
                   "category": "museum",
                   "coords": [
                         42.001278,
@@ -5269,7 +7366,7 @@ image: "/poi-images/ge-kobuleti-cities-v2.webp",
             },
             {
                   "name": "სოფელ ოზურგეთის კულტურის სახლი",
-                  "text": "A სოფელ ოზურგეთის კულტურის სახლი egy színház Osurgeti városában.",
+                  "text": "Ozurgeti falu művelődési háza, közösségi események helyszíne.",
                   "category": "cultural",
                   "coords": [
                         41.983827,
@@ -5278,7 +7375,7 @@ image: "/poi-images/ge-kobuleti-cities-v2.webp",
             },
             {
                   "name": "მერაბ ბერძენიშვილის სახელობის თანამედროვე სახვეთი ხელოვნების ცენტრი",
-                  "text": "A Merab Berdzenishvili Modern Fine Arts Center egy galéria Osurgeti városában.",
+                  "text": "Modern Művészetek Központja Ozurgetiben, Merab Berdzenishvili nevét viseli.",
                   "category": "museum",
                   "coords": [
                         42.005229,
@@ -5298,7 +7395,7 @@ image: "/poi-images/ge-kobuleti-cities-v2.webp",
             },
             {
                   "name": "ოზურგეთის ისტორიული მუზეუმი",
-                  "text": "Ozurgeti History Museum este un muzeu în Osurgeti.",
+                  "text": "Muzeul de Istorie din Ozurgeti, fondat la 1 aprilie 1936, prezintă istoria regiunii.",
                   "category": "museum",
                   "coords": [
                         42.005015,
@@ -5307,7 +7404,7 @@ image: "/poi-images/ge-kobuleti-cities-v2.webp",
             },
             {
                   "name": "ე. თაყაიშვილის გურიის მხარის არქეოლოგიული მუზეუმ-ნაკეძალი",
-                  "text": "E. Takhaishvili Archaelogical Museum-Reserve of the Region of Guria este un muzeu în Osurgeti.",
+                  "text": "Rezervația muzeală arheologică a Guria din Ozurgeti, cu artefacte regionale.",
                   "category": "museum",
                   "coords": [
                         42.001278,
@@ -5316,7 +7413,7 @@ image: "/poi-images/ge-kobuleti-cities-v2.webp",
             },
             {
                   "name": "სოფელ ოზურგეთის კულტურის სახლი",
-                  "text": "სოფელ ოზურგეთის კულტურის სახლი este un teatru în Osurgeti.",
+                  "text": "Casa de Cultură a satului Ozurgeti, loc pentru evenimente comunitare.",
                   "category": "cultural",
                   "coords": [
                         41.983827,
@@ -5325,7 +7422,7 @@ image: "/poi-images/ge-kobuleti-cities-v2.webp",
             },
             {
                   "name": "მერაბ ბერძენიშვილის სახელობის თანამედროვე სახვეთი ხელოვნების ცენტრი",
-                  "text": "Merab Berdzenishvili Modern Fine Arts Center este o galerie în Osurgeti.",
+                  "text": "Centrul de Arte Moderne din Ozurgeti, numit după Merab Berdzenishvili.",
                   "category": "museum",
                   "coords": [
                         42.005229,
@@ -5345,7 +7442,7 @@ image: "/poi-images/ge-kobuleti-cities-v2.webp",
             },
             {
                   "name": "Ozurgeti History Museum",
-                  "text": "Ozurgeti History Museum is a museum in Osurgeti.",
+                  "text": "The Ozurgeti History Museum, founded on 1 April 1936, exhibits the region's history.",
                   "category": "museum",
                   "coords": [
                         42.005015,
@@ -5354,7 +7451,7 @@ image: "/poi-images/ge-kobuleti-cities-v2.webp",
             },
             {
                   "name": "E. Takhaishvili Archaelogical Museum-Reserve of the Region of Guria",
-                  "text": "E. Takhaishvili Archaelogical Museum-Reserve of the Region of Guria is a museum in Osurgeti.",
+                  "text": "Archaeological museum-reserve of the Guria region in Ozurgeti, with regional artifacts.",
                   "category": "museum",
                   "coords": [
                         42.001278,
@@ -5363,7 +7460,7 @@ image: "/poi-images/ge-kobuleti-cities-v2.webp",
             },
             {
                   "name": "სოფელ ოზურგეთის კულტურის სახლი",
-                  "text": "სოფელ ოზურგეთის კულტურის სახლი is a theatre in Osurgeti.",
+                  "text": "Village culture house in Ozurgeti hosting community events.",
                   "category": "cultural",
                   "coords": [
                         41.983827,
@@ -5372,7 +7469,7 @@ image: "/poi-images/ge-kobuleti-cities-v2.webp",
             },
             {
                   "name": "Merab Berdzenishvili Modern Fine Arts Center",
-                  "text": "Merab Berdzenishvili Modern Fine Arts Center is a gallery in Osurgeti.",
+                  "text": "Merab Berdzenishvili Modern Fine Arts Center in Ozurgeti.",
                   "category": "museum",
                   "coords": [
                         42.005229,
@@ -5428,7 +7525,7 @@ image: "/poi-images/ge-ozurgeti-cities-v2.webp",
       "de": [
             {
                   "name": "ოტია იოსელიანის სახლ-მუზეუმი",
-                  "text": "Das Hausmuseum von Otia Iosseliani ist ein Museum in Zqaltubo.",
+                  "text": "Wohnhaus-Museum des Schriftstellers Otia Ioseliani in Tskhaltubo.",
                   "category": "museum",
                   "coords": [
                         42.592206,
@@ -5437,7 +7534,7 @@ image: "/poi-images/ge-ozurgeti-cities-v2.webp",
             },
             {
                   "name": "თეთრა მღვიმე",
-                  "text": "Die Tetra-Höhle ist ein bekannter Höhleneingang in Zqaltubo.",
+                  "text": "Karsthöhle mit weißen Mineralablagerungen bei Zkaltubo.",
                   "category": "natural",
                   "coords": [
                         42.617117,
@@ -5446,7 +7543,7 @@ image: "/poi-images/ge-ozurgeti-cities-v2.webp",
             },
             {
                   "name": "სანატორიუმი „შახტიორი“",
-                  "text": "Das Sanatorium „Miner“ ist eine lokale Sehenswürdigkeit in Zqaltubo.",
+                  "text": "Sanatorium von 1951, entworfen von M. Melegi und G. Khimshiashvili.",
                   "category": "landmark",
                   "coords": [
                         42.602735,
@@ -5455,7 +7552,7 @@ image: "/poi-images/ge-ozurgeti-cities-v2.webp",
             },
             {
                   "name": "სანატორიუმი „საქართველო“",
-                  "text": "Das Sanatorium „Sakartvelo“ ist eine Sehenswürdigkeit in der Stadt Zqaltubo.",
+                  "text": "Historisches Sanatorium ‚Sakartvelo‘ in Tskhaltubo mit sowjetischer Architektur.",
                   "category": "landmark",
                   "coords": [
                         42.59044,
@@ -5464,7 +7561,7 @@ image: "/poi-images/ge-ozurgeti-cities-v2.webp",
             },
             {
                   "name": "სანატორიუმი „ივერია“",
-                  "text": "Das Sanatorium „Iveria“ ist eine Sehenswürdigkeit in Zqaltubo.",
+                  "text": "1961 erbautes Sanatorium in Tschaltubo.",
                   "category": "landmark",
                   "coords": [
                         42.60465,
@@ -5473,7 +7570,7 @@ image: "/poi-images/ge-ozurgeti-cities-v2.webp",
             },
             {
                   "name": "სანატორიუმი „ცენტროსოიუზი“",
-                  "text": "Das Sanatorium „Zentrosojus“ ist eine Sehenswürdigkeit in Zqaltubo.",
+                  "text": "Sanatorium ‚Tsentrosoyuz‘ in Tskhaltubo, ehemaliger Kurort.",
                   "category": "landmark",
                   "coords": [
                         42.592242,
@@ -5482,7 +7579,7 @@ image: "/poi-images/ge-ozurgeti-cities-v2.webp",
             },
             {
                   "name": "სასტუმრო „წყალტუბო“",
-                  "text": "Das Hotel „Zqaltubo“ ist eine Sehenswürdigkeit in der Stadt Zqaltubo.",
+                  "text": "Hotel Tskaltubo, ein markantes Gebäude im Kurviertel der Stadt.",
                   "category": "landmark",
                   "coords": [
                         42.590554,
@@ -5491,7 +7588,7 @@ image: "/poi-images/ge-ozurgeti-cities-v2.webp",
             },
             {
                   "name": "სანატორიუმი „მეტალურგი“",
-                  "text": "Das Sanatorium „Metallurg“ ist eine Sehenswürdigkeit in Zqaltubo.",
+                  "text": "1957 erbautes Sanatorium in Tschaltubo.",
                   "category": "landmark",
                   "coords": [
                         42.593659,
@@ -5500,7 +7597,7 @@ image: "/poi-images/ge-ozurgeti-cities-v2.webp",
             },
             {
                   "name": "სანატორიუმი „იმერეთი“",
-                  "text": "Das Sanatorium „Imereti“ ist eine Sehenswürdigkeit in Zqaltubo.",
+                  "text": "Sanatorium ‚Imereti‘ in Tskhaltubo, eines der sowjetischen Kureinrichtungen.",
                   "category": "landmark",
                   "coords": [
                         42.609805,
@@ -5509,7 +7606,7 @@ image: "/poi-images/ge-ozurgeti-cities-v2.webp",
             },
             {
                   "name": "სანატორიუმი „სავანე“",
-                  "text": "Das Sanatorium „Savane“ ist eine lokale Sehenswürdigkeit in Zqaltubo.",
+                  "text": "Sanatorium von 1975, entworfen von A. Intskirveli und P. Potskhishvili.",
                   "category": "landmark",
                   "coords": [
                         42.606948,
@@ -5520,7 +7617,7 @@ image: "/poi-images/ge-ozurgeti-cities-v2.webp",
       "hu": [
             {
                   "name": "ოტია იოსელიანის სახლ-მუზეუმი",
-                  "text": "Az Otia Ioszeliani Házmúzeum egy múzeum Cqaltubóban.",
+                  "text": "Otia Ioseliani író emlékháza Tskhaltubóban.",
                   "category": "museum",
                   "coords": [
                         42.592206,
@@ -5529,7 +7626,7 @@ image: "/poi-images/ge-ozurgeti-cities-v2.webp",
             },
             {
                   "name": "თეთრა მღვიმე",
-                  "text": "A Tetra-barlang egy barlangbejárat Cqaltubóban.",
+                  "text": "Karsztbarlang fehér ásványi lerakódásokkal Ckaltubo közelében.",
                   "category": "natural",
                   "coords": [
                         42.617117,
@@ -5538,7 +7635,7 @@ image: "/poi-images/ge-ozurgeti-cities-v2.webp",
             },
             {
                   "name": "სანატორიუმი „შახტიორი“",
-                  "text": "A „Miner“ Szanatórium egy helyi látványosság Cqaltubóban.",
+                  "text": "1951-es szanatórium, tervezte M. Melegi és G. Khimshiashvili.",
                   "category": "landmark",
                   "coords": [
                         42.602735,
@@ -5547,7 +7644,7 @@ image: "/poi-images/ge-ozurgeti-cities-v2.webp",
             },
             {
                   "name": "სანატორიუმი „საქართველო“",
-                  "text": "A „Szakartvelo“ Szanatórium Cqaltubo városában található látványosság.",
+                  "text": "Történelmi ‚Sakartvelo‘ szanatórium Tskhaltubóban, szovjet építészettel.",
                   "category": "landmark",
                   "coords": [
                         42.59044,
@@ -5556,7 +7653,7 @@ image: "/poi-images/ge-ozurgeti-cities-v2.webp",
             },
             {
                   "name": "სანატორიუმი „ივერია“",
-                  "text": "Az „Iveria“ Szanatórium egy látványosság Cqaltubóban.",
+                  "text": "1961-ben épült szanatórium Cskaltubóban.",
                   "category": "landmark",
                   "coords": [
                         42.60465,
@@ -5565,7 +7662,7 @@ image: "/poi-images/ge-ozurgeti-cities-v2.webp",
             },
             {
                   "name": "სანატორიუმი „ცენტროსოიუზი“",
-                  "text": "A „Cenroszojuz“ Szanatórium egy látványosság Cqaltubóban.",
+                  "text": "‚Tsentrosoyuz‘ szanatórium Tskhaltubóban, egykori üdülőhely.",
                   "category": "landmark",
                   "coords": [
                         42.592242,
@@ -5574,7 +7671,7 @@ image: "/poi-images/ge-ozurgeti-cities-v2.webp",
             },
             {
                   "name": "სასტუმრო „წყალტუბო“",
-                  "text": "A „Cqaltubo“ Szálloda egy látványosság Cqaltubo városában.",
+                  "text": "Tskaltubo Hotel, egy jellegzetes épület a város fürdőnegyedében.",
                   "category": "landmark",
                   "coords": [
                         42.590554,
@@ -5583,7 +7680,7 @@ image: "/poi-images/ge-ozurgeti-cities-v2.webp",
             },
             {
                   "name": "სანატორიუმი „მეტალურგი“",
-                  "text": "A „Metallurg“ Szanatórium egy látványosság Cqaltubóban.",
+                  "text": "1957-ben épült szanatórium Cskaltubóban.",
                   "category": "landmark",
                   "coords": [
                         42.593659,
@@ -5592,7 +7689,7 @@ image: "/poi-images/ge-ozurgeti-cities-v2.webp",
             },
             {
                   "name": "სანატორიუმი „იმერეთი“",
-                  "text": "Az „Imereti“ Szanatórium egy látványosság Cqaltubóban.",
+                  "text": "‚Imereti‘ szanatórium Tskhaltubóban, a szovjet kori gyógyüdülők egyike.",
                   "category": "landmark",
                   "coords": [
                         42.609805,
@@ -5601,7 +7698,7 @@ image: "/poi-images/ge-ozurgeti-cities-v2.webp",
             },
             {
                   "name": "სანატორიუმი „სავანე“",
-                  "text": "A „Szavane“ Szanatórium egy helyi látványosság Cqaltubóban.",
+                  "text": "1975-ös szanatórium, tervezte A. Intskirveli és P. Potskhishvili.",
                   "category": "landmark",
                   "coords": [
                         42.606948,
@@ -5612,7 +7709,7 @@ image: "/poi-images/ge-ozurgeti-cities-v2.webp",
       "ro": [
             {
                   "name": "ოტია იოსელიანის სახლ-მუზეუმი",
-                  "text": "Casa-Muzeu Otia Ioseliani este un muzeu din Tskaltubo.",
+                  "text": "Casa-muzeu a scriitorului Otia Ioseliani în Tskhaltubo.",
                   "category": "museum",
                   "coords": [
                         42.592206,
@@ -5621,7 +7718,7 @@ image: "/poi-images/ge-ozurgeti-cities-v2.webp",
             },
             {
                   "name": "თეთრა მღვიმე",
-                  "text": "Peștera Tetra este o intrare de peșteră în Tskaltubo.",
+                  "text": "Peșteră carstică cu depozite minerale albe lângă Tskhaltubo.",
                   "category": "natural",
                   "coords": [
                         42.617117,
@@ -5630,7 +7727,7 @@ image: "/poi-images/ge-ozurgeti-cities-v2.webp",
             },
             {
                   "name": "სანატორიუმი „შახტიორი“",
-                  "text": "Sanatoriul „Miner” este o atracție locală din Tskaltubo.",
+                  "text": "Sanatoriu din 1951 proiectat de M. Melegi și G. Khimshiashvili.",
                   "category": "landmark",
                   "coords": [
                         42.602735,
@@ -5639,7 +7736,7 @@ image: "/poi-images/ge-ozurgeti-cities-v2.webp",
             },
             {
                   "name": "სანატორიუმი „საქართველო“",
-                  "text": "Sanatoriul „Sakartvelo” este o atracție din orașul Tskaltubo.",
+                  "text": "Sanatoriul istoric „Sakartvelo” din Tskhaltubo, cu arhitectură sovietică.",
                   "category": "landmark",
                   "coords": [
                         42.59044,
@@ -5648,7 +7745,7 @@ image: "/poi-images/ge-ozurgeti-cities-v2.webp",
             },
             {
                   "name": "სანატორიუმი „ივერია“",
-                  "text": "Sanatoriul „Iveria” este o atracție în Tskaltubo.",
+                  "text": "Sanatoriu construit în 1961 în Tskhaltubo.",
                   "category": "landmark",
                   "coords": [
                         42.60465,
@@ -5657,7 +7754,7 @@ image: "/poi-images/ge-ozurgeti-cities-v2.webp",
             },
             {
                   "name": "სანატორიუმი „ცენტროსოიუზი“",
-                  "text": "Sanatoriul „Tsentrosoyuz” este o atracție din Tskaltubo.",
+                  "text": "Sanatoriul „Tsentrosoyuz” din Tskhaltubo, fostă stațiune balneară.",
                   "category": "landmark",
                   "coords": [
                         42.592242,
@@ -5666,7 +7763,7 @@ image: "/poi-images/ge-ozurgeti-cities-v2.webp",
             },
             {
                   "name": "სასტუმრო „წყალტუბო“",
-                  "text": "Hotelul „Tskaltubo” este o atracție situată în orașul Tskaltubo.",
+                  "text": "Hotel Tskaltubo, o clădire emblematică în cartierul balnear al orașului.",
                   "category": "landmark",
                   "coords": [
                         42.590554,
@@ -5675,7 +7772,7 @@ image: "/poi-images/ge-ozurgeti-cities-v2.webp",
             },
             {
                   "name": "სანატორიუმი „მეტალურგი“",
-                  "text": "Sanatoriul „Metallurg” este o atracție din Tskaltubo.",
+                  "text": "Sanatoriu construit în 1957 în Tskhaltubo.",
                   "category": "landmark",
                   "coords": [
                         42.593659,
@@ -5684,7 +7781,7 @@ image: "/poi-images/ge-ozurgeti-cities-v2.webp",
             },
             {
                   "name": "სანატორიუმი „იმერეთი“",
-                  "text": "Sanatoriul „Imereti” este o atracție situată în Tskaltubo.",
+                  "text": "Sanatoriul „Imereti” din Tskhaltubo, una dintre stațiunile balneare sovietice.",
                   "category": "landmark",
                   "coords": [
                         42.609805,
@@ -5693,7 +7790,7 @@ image: "/poi-images/ge-ozurgeti-cities-v2.webp",
             },
             {
                   "name": "სანატორიუმი „სავანე“",
-                  "text": "Sanatoriul „Savane” este o atracție locală găsită în Tskaltubo.",
+                  "text": "Sanatoriu din 1975 proiectat de A. Intskirveli și P. Potskhishvili.",
                   "category": "landmark",
                   "coords": [
                         42.606948,
@@ -5704,7 +7801,7 @@ image: "/poi-images/ge-ozurgeti-cities-v2.webp",
       "en": [
             {
                   "name": "Otia Ioseliani House-Museum",
-                  "text": "The Otia Ioseliani House-Museum is a museum in Zqaltubo.",
+                  "text": "House-museum of writer Otia Ioseliani in Tskhaltubo.",
                   "category": "museum",
                   "coords": [
                         42.592206,
@@ -5713,7 +7810,7 @@ image: "/poi-images/ge-ozurgeti-cities-v2.webp",
             },
             {
                   "name": "Tetra Cave",
-                  "text": "Tetra Cave is a cave entrance in Zqaltubo.",
+                  "text": "Karst cave with white mineral deposits near Tskhaltubo.",
                   "category": "natural",
                   "coords": [
                         42.617117,
@@ -5722,7 +7819,7 @@ image: "/poi-images/ge-ozurgeti-cities-v2.webp",
             },
             {
                   "name": "Sanatorium \"Miner\"",
-                  "text": "Sanatorium \"Miner\" is a local attraction located in Zqaltubo.",
+                  "text": "1951 sanatorium designed by M. Melegi and G. Khimshiashvili.",
                   "category": "landmark",
                   "coords": [
                         42.602735,
@@ -5731,7 +7828,7 @@ image: "/poi-images/ge-ozurgeti-cities-v2.webp",
             },
             {
                   "name": "Sanatorium \"Sakartvelo\"",
-                  "text": "Sanatorium \"Sakartvelo\" is an attraction found in the city of Zqaltubo.",
+                  "text": "Historic sanatorium 'Sakartvelo' in Tskhaltubo, with Soviet-era architecture.",
                   "category": "landmark",
                   "coords": [
                         42.59044,
@@ -5740,7 +7837,7 @@ image: "/poi-images/ge-ozurgeti-cities-v2.webp",
             },
             {
                   "name": "Sanatorium \"Iveria\"",
-                  "text": "Sanatorium \"Iveria\" is an attraction in Zqaltubo.",
+                  "text": "Sanatorium built in 1961 in Tskhaltubo.",
                   "category": "landmark",
                   "coords": [
                         42.60465,
@@ -5749,7 +7846,7 @@ image: "/poi-images/ge-ozurgeti-cities-v2.webp",
             },
             {
                   "name": "Sanatorium \"Tsentrosoyuz\"",
-                  "text": "The Sanatorium \"Tsentrosoyuz\" is an attraction in Zqaltubo.",
+                  "text": "Sanatorium 'Tsentrosoyuz' in Tskhaltubo, a former health resort.",
                   "category": "landmark",
                   "coords": [
                         42.592242,
@@ -5758,7 +7855,7 @@ image: "/poi-images/ge-ozurgeti-cities-v2.webp",
             },
             {
                   "name": "Hotel \"Tskaltubo\"",
-                  "text": "Hotel \"Tskaltubo\" is an attraction situated in the city of Zqaltubo.",
+                  "text": "Hotel Tskaltubo, a landmark building in the town's spa district.",
                   "category": "landmark",
                   "coords": [
                         42.590554,
@@ -5767,7 +7864,7 @@ image: "/poi-images/ge-ozurgeti-cities-v2.webp",
             },
             {
                   "name": "Sanatorium \"Metallurg\"",
-                  "text": "Sanatorium \"Metallurg\" is an attraction in Zqaltubo.",
+                  "text": "Sanatorium built in 1957 in Tskhaltubo.",
                   "category": "landmark",
                   "coords": [
                         42.593659,
@@ -5776,7 +7873,7 @@ image: "/poi-images/ge-ozurgeti-cities-v2.webp",
             },
             {
                   "name": "Sanatorium \"Imereti\"",
-                  "text": "Sanatorium \"Imereti\" is an attraction located in Zqaltubo.",
+                  "text": "Sanatorium 'Imereti' in Tskhaltubo, one of several Soviet-era spa facilities.",
                   "category": "landmark",
                   "coords": [
                         42.609805,
@@ -5785,7 +7882,7 @@ image: "/poi-images/ge-ozurgeti-cities-v2.webp",
             },
             {
                   "name": "Sanatorium \"Savane\"",
-                  "text": "Sanatorium \"Savane\" is a local attraction found in Zqaltubo.",
+                  "text": "1975 sanatorium designed by A. Intskirveli and P. Potskhishvili.",
                   "category": "landmark",
                   "coords": [
                         42.606948,
@@ -5837,7 +7934,160 @@ image: "/poi-images/ge-tskhaltubo-cities-v2.webp",
     },
   },
   {
-    id: "ge-kaspi-cities-v2",
+    id: "ge-kaspi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "კასპის კულტურის ცენტრი",
+                  "text": "Modernes Kulturzentrum im Stadtzentrum von Kaspi, das für Theateraufführungen und Ausstellungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        44.419733,
+                        41.921135
+                  ]
+            },
+            {
+                  "name": "იოანე ნათლისმცემლის სახელობის ეკლესია",
+                  "text": "Mittelalterliche georgisch-orthodoxe Kirche im Stadtgebiet der Industriestadt Kaspi.",
+                  "category": "landmark",
+                  "coords": [
+                        44.389652,
+                        41.919621
+                  ]
+            },
+            {
+                  "name": "ეკლესია",
+                  "text": "Diese georgisch-orthodoxe Steinkirche in Kaspi ist ein Beispiel für die traditionelle kaukasische Sakralarchitektur.",
+                  "category": "landmark",
+                  "coords": [
+                        44.421367,
+                        41.921194
+                  ]
+            },
+            {
+                  "name": "ღვთისმშობლის სახელობის ეკლესია",
+                  "text": "Eine christliche Marienkirche, die als lokales spirituelles Zentrum in der Region Kaspi dient.",
+                  "category": "landmark",
+                  "coords": [
+                        44.433262,
+                        41.920558
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "კასპის კულტურის ცენტრი",
+                  "text": "Modern kulturális központ Kaszpi városközpontjában, amely színházi előadásoknak és kiállításoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        44.419733,
+                        41.921135
+                  ]
+            },
+            {
+                  "name": "იოანე ნათლისმცემლის სახელობის ეკლესია",
+                  "text": "Középkori grúz ortodox templom Kaszpi iparvárosának belterületén.",
+                  "category": "landmark",
+                  "coords": [
+                        44.389652,
+                        41.919621
+                  ]
+            },
+            {
+                  "name": "ეკლესია",
+                  "text": "Ez a Kaszpiban található kőtemplom a hagyományos kaukázusi szakrális építészet egyik példája.",
+                  "category": "landmark",
+                  "coords": [
+                        44.421367,
+                        41.921194
+                  ]
+            },
+            {
+                  "name": "ღვთისმშობლის სახელობის ეკლესია",
+                  "text": "Egy keresztény Mária-templom, amely helyi spirituális központként szolgál Kaszpi régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        44.433262,
+                        41.920558
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "კასპის კულტურის ცენტრი",
+                  "text": "Centru cultural modern în centrul orașului Kaspi, utilizat pentru spectole de teatru și expoziții.",
+                  "category": "cultural",
+                  "coords": [
+                        44.419733,
+                        41.921135
+                  ]
+            },
+            {
+                  "name": "იოანე ნათლისმცემლის სახელობის ეკლესია",
+                  "text": "Biserică ortodoxă georgiană medievală situată în zona urbană a orașului Kaspi.",
+                  "category": "landmark",
+                  "coords": [
+                        44.389652,
+                        41.919621
+                  ]
+            },
+            {
+                  "name": "ეკლესია",
+                  "text": "Această biserică de piatră din Kaspi este un exemplu de arhitectură sacră tradițională caucaziană.",
+                  "category": "landmark",
+                  "coords": [
+                        44.421367,
+                        41.921194
+                  ]
+            },
+            {
+                  "name": "ღვთისმშობლის სახელობის ეკლესია",
+                  "text": "O biserică creștină dedicată Maicii Domnului, care servește ca centru spiritual local în regiunea Kaspi.",
+                  "category": "landmark",
+                  "coords": [
+                        44.433262,
+                        41.920558
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kaspi Cultural Center",
+                  "text": "Modern cultural center in Kaspi city center, used for theater performances and art exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        44.419733,
+                        41.921135
+                  ]
+            },
+            {
+                  "name": "Church of John the Baptist",
+                  "text": "Medieval Georgian Orthodox church located within the urban area of Kaspi city.",
+                  "category": "landmark",
+                  "coords": [
+                        44.389652,
+                        41.919621
+                  ]
+            },
+            {
+                  "name": "ეკლესია",
+                  "text": "This stone church in Kaspi is an example of traditional Caucasian sacred architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        44.421367,
+                        41.921194
+                  ]
+            },
+            {
+                  "name": "Church of the Mother of God",
+                  "text": "A Christian church dedicated to the Mother of God, serving as a local spiritual center in the Kaspi region.",
+                  "category": "landmark",
+                  "coords": [
+                        44.433262,
+                        41.920558
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GE-SK",
     coords: [44.4239, 41.9233],
@@ -5938,7 +8188,7 @@ image: "/poi-images/ge-tkibuli-cities-v2.webp",
             },
             {
                   "name": "Soviet Monument",
-                  "text": "Das Sowjetische Denkmal ist eine Sehenswürdigkeit in Tschiatura.",
+                  "text": "Sowjetdenkmal in Chiatura, ein Relikt der kommunistischen Ära.",
                   "category": "landmark",
                   "coords": [
                         43.267239,
@@ -5956,7 +8206,7 @@ image: "/poi-images/ge-tkibuli-cities-v2.webp",
             },
             {
                   "name": "გედების ტბა",
-                  "text": "Der Schwanensee ist eine Sehenswürdigkeit in Tschiatura.",
+                  "text": "Schwanensee in Chiatura, ein kleiner künstlicher See mit Park.",
                   "category": "landmark",
                   "coords": [
                         43.28534,
@@ -5983,7 +8233,7 @@ image: "/poi-images/ge-tkibuli-cities-v2.webp",
             },
             {
                   "name": "Pioneer Palace",
-                  "text": "Der Pionierpalast ist eine Sehenswürdigkeit in Tschiatura.",
+                  "text": "Ehemaliger Pionierpalast aus der Sowjetzeit, heute Jugendzentrum in Chiatura.",
                   "category": "landmark",
                   "coords": [
                         43.283877,
@@ -6003,7 +8253,7 @@ image: "/poi-images/ge-tkibuli-cities-v2.webp",
             },
             {
                   "name": "Soviet Monument",
-                  "text": "A Szovjet Emlékmű egy látványosság Csiaturában.",
+                  "text": "Szovjet emlékmű Chiaturaban, a kommunista korszak emléke.",
                   "category": "landmark",
                   "coords": [
                         43.267239,
@@ -6021,7 +8271,7 @@ image: "/poi-images/ge-tkibuli-cities-v2.webp",
             },
             {
                   "name": "გედების ტბა",
-                  "text": "A Hattyúk tava egy látványosság Csiaturában.",
+                  "text": "Hattyú-tó Chiaturaban, egy kis mesterséges tó parkkal körülvéve.",
                   "category": "landmark",
                   "coords": [
                         43.28534,
@@ -6048,7 +8298,7 @@ image: "/poi-images/ge-tkibuli-cities-v2.webp",
             },
             {
                   "name": "Pioneer Palace",
-                  "text": "Az Úttörőpalota egy látványosság Csiaturában.",
+                  "text": "Egykori szovjet úttörőpalota, ma ifjúsági központ Chiaturaban.",
                   "category": "landmark",
                   "coords": [
                         43.283877,
@@ -6068,7 +8318,7 @@ image: "/poi-images/ge-tkibuli-cities-v2.webp",
             },
             {
                   "name": "Soviet Monument",
-                  "text": "Monumentul Sovietic este o atracție în Chiatura.",
+                  "text": "Monument sovietic în Chiatura, o relicvă a perioadei comuniste.",
                   "category": "landmark",
                   "coords": [
                         43.267239,
@@ -6086,7 +8336,7 @@ image: "/poi-images/ge-tkibuli-cities-v2.webp",
             },
             {
                   "name": "გედების ტბა",
-                  "text": "Lacul Lebedelor este o atracție situată în Chiatura.",
+                  "text": "Lacul Lebedelor din Chiatura, un lac artificial mic înconjurat de parc.",
                   "category": "landmark",
                   "coords": [
                         43.28534,
@@ -6113,7 +8363,7 @@ image: "/poi-images/ge-tkibuli-cities-v2.webp",
             },
             {
                   "name": "Pioneer Palace",
-                  "text": "Palatul Pionierilor este o atracție din Chiatura.",
+                  "text": "Fostul Palat al Pionierilor sovietic, acum centru de tineret în Chiatura.",
                   "category": "landmark",
                   "coords": [
                         43.283877,
@@ -6133,7 +8383,7 @@ image: "/poi-images/ge-tkibuli-cities-v2.webp",
             },
             {
                   "name": "Soviet Monument",
-                  "text": "The Soviet Monument is an attraction in Tschiatura.",
+                  "text": "Soviet monument in Chiatura, a relic of the communist era.",
                   "category": "landmark",
                   "coords": [
                         43.267239,
@@ -6151,7 +8401,7 @@ image: "/poi-images/ge-tkibuli-cities-v2.webp",
             },
             {
                   "name": "გედების ტბა",
-                  "text": "Swan Lake is an attraction located in Tschiatura.",
+                  "text": "Swan Lake in Chiatura, a small artificial lake surrounded by park.",
                   "category": "landmark",
                   "coords": [
                         43.28534,
@@ -6178,7 +8428,7 @@ image: "/poi-images/ge-tkibuli-cities-v2.webp",
             },
             {
                   "name": "Pioneer Palace",
-                  "text": "The Pioneer Palace is an attraction in Tschiatura.",
+                  "text": "Former Soviet Pioneer Palace, now a youth center in Chiatura.",
                   "category": "landmark",
                   "coords": [
                         43.283877,
@@ -6234,7 +8484,7 @@ image: "/poi-images/ge-chiatura-cities-v2.webp",
       "de": [
             {
                   "name": "საგარეჯოს მხარეთმცოდნეობის მუზეუმი",
-                  "text": "Das Sagarejo Local Museum ist ein Museum in Sagaredscho.",
+                  "text": "Heimatmuseum von Sagarejo mit regionalen Exponaten.",
                   "category": "museum",
                   "coords": [
                         45.33108,
@@ -6243,7 +8493,7 @@ image: "/poi-images/ge-chiatura-cities-v2.webp",
             },
             {
                   "name": "მარიამჯვრის სახელმწიფო ნაკრძალი",
-                  "text": "Das Mariamjvari Strict Nature Reserve ist ein Naturschutzgebiet in Sagaredscho.",
+                  "text": "Strenges Naturreservat Mariamjvari bei Sagarejo, schützt Urwald und Wildtiere.",
                   "category": "natural",
                   "coords": [
                         45.373012,
@@ -6254,7 +8504,7 @@ image: "/poi-images/ge-chiatura-cities-v2.webp",
       "hu": [
             {
                   "name": "საგარეჯოს მხარეთმცოდნეობის მუზეუმი",
-                  "text": "A Sagarejo Local Museum egy múzeum Sagaredscho városában.",
+                  "text": "Sagarejo Helytörténeti Múzeum regionális kiállításokkal.",
                   "category": "museum",
                   "coords": [
                         45.33108,
@@ -6263,7 +8513,7 @@ image: "/poi-images/ge-chiatura-cities-v2.webp",
             },
             {
                   "name": "მარიამჯვრის სახელმწიფო ნაკრძალი",
-                  "text": "A Mariamjvari Strict Nature Reserve egy természetvédelmi terület Sagaredscho városában.",
+                  "text": "Mariamjvari szigorú természetvédelmi terület Sagarejo közelében, őserdőt és vadvilágot véd.",
                   "category": "natural",
                   "coords": [
                         45.373012,
@@ -6274,7 +8524,7 @@ image: "/poi-images/ge-chiatura-cities-v2.webp",
       "ro": [
             {
                   "name": "საგარეჯოს მხარეთმცოდნეობის მუზეუმი",
-                  "text": "Sagarejo Local Museum este un muzeu situat în Sagaredscho.",
+                  "text": "Muzeul local din Sagarejo cu artefacte regionale.",
                   "category": "museum",
                   "coords": [
                         45.33108,
@@ -6283,7 +8533,7 @@ image: "/poi-images/ge-chiatura-cities-v2.webp",
             },
             {
                   "name": "მარიამჯვრის სახელმწიფო ნაკრძალი",
-                  "text": "Mariamjvari Strict Nature Reserve este o rezervație naturală situată în Sagaredscho.",
+                  "text": "Rezervația naturală strictă Mariamjvari lângă Sagarejo, protejează păduri virgine și fauna sălbatică.",
                   "category": "natural",
                   "coords": [
                         45.373012,
@@ -6294,7 +8544,7 @@ image: "/poi-images/ge-chiatura-cities-v2.webp",
       "en": [
             {
                   "name": "Sagarejo Local Museum",
-                  "text": "Sagarejo Local Museum is a museum located in Sagaredscho.",
+                  "text": "Sagarejo Local Museum displaying regional artifacts.",
                   "category": "museum",
                   "coords": [
                         45.33108,
@@ -6303,7 +8553,7 @@ image: "/poi-images/ge-chiatura-cities-v2.webp",
             },
             {
                   "name": "Mariamjvari Strict Nature Reserve",
-                  "text": "Mariamjvari Strict Nature Reserve is a nature reserve located in Sagaredscho.",
+                  "text": "Mariamjvari Strict Nature Reserve near Sagarejo, protecting virgin forest and wildlife.",
                   "category": "natural",
                   "coords": [
                         45.373012,
@@ -6355,7 +8605,52 @@ image: "/poi-images/ge-sagarejo-cities-v2.webp",
     },
   },
   {
-    id: "ge-gardabani-cities-v2",
+    id: "ge-gardabani-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "ღვთისმშობლის შობის ტაძარი",
+                  "text": "Die Kirche der Geburt der Jungfrau Maria ist ein orthodox-christliches Heiligtum, das sich durch regionales georgisches Architekturdesign in Gardabani auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        45.08369,
+                        41.470089
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ღვთისმშობლის შობის ტაძარი",
+                  "text": "A Szűz Mária Születése templom egy ortodox keresztény szentély, amelyet a regionális grúz építészeti stílus jellemez Gardabaniban.",
+                  "category": "landmark",
+                  "coords": [
+                        45.08369,
+                        41.470089
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ღვთისმშობლის შობის ტაძარი",
+                  "text": "Biserica Nașterea Sfintei Fecioare Maria este un sanctuar creștin ortodox caracterizat de un design arhitectural georgian regional în Gardabani.",
+                  "category": "landmark",
+                  "coords": [
+                        45.08369,
+                        41.470089
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Church of the Nativity of the Virgin Mary",
+                  "text": "The Church of the Nativity of the Virgin Mary is an Orthodox Christian sanctuary characterized by regional Georgian architectural design in Gardabani.",
+                  "category": "landmark",
+                  "coords": [
+                        45.08369,
+                        41.470089
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GE-KK",
     coords: [45.0928, 41.4608],
@@ -6403,7 +8698,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
       "de": [
             {
                   "name": "ბორჯომის მხარეთმცოდნეობის მუზეუმი",
-                  "text": "Das Heimatmuseum ist ein Museum in Bordschomi.",
+                  "text": "Museum in einem Gebäude aus dem 19. Jahrhundert nahe dem Zentralpark von Bordschomi.",
                   "category": "museum",
                   "coords": [
                         43.378288,
@@ -6412,7 +8707,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "ბორჯომის თოჯინების სახელმწიფო თეატრი",
-                  "text": "Das Staatliche Puppentheater Borjomi ist ein lokaler Veranstaltungsort.",
+                  "text": "Staatliches Puppentheater im Zentralpark von Borjomi.",
                   "category": "cultural",
                   "coords": [
                         43.3828,
@@ -6421,7 +8716,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "Nua fortress remains (almost destroyed)",
-                  "text": "Dies sind die Reste der Nua-Festung in Bordschomi.",
+                  "text": "Kaum erhaltene Reste der Nua-Festung bei Borjomi, fast vollständig zerstört.",
                   "category": "castle",
                   "coords": [
                         43.379399,
@@ -6430,7 +8725,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "Sali fortress",
-                  "text": "Die Sali-Festung ist eine Burg in Bordschomi.",
+                  "text": "Reste der Sali-Festung auf einem Hügel mit Aussicht auf Borjomi.",
                   "category": "castle",
                   "coords": [
                         43.381617,
@@ -6439,7 +8734,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "The First Borjomi Mineral Water Bottling Factory",
-                  "text": "Dieses Museum zeigt die erste Borjomi-Mineralwasser-Abfüllanlage.",
+                  "text": "Museum in der ersten Borjomi-Mineralwasserabfüllanlage, zeigt die frühe Abfüllgeschichte.",
                   "category": "museum",
                   "coords": [
                         43.391055,
@@ -6448,7 +8743,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "გოგიას ციხე",
-                  "text": "Die Gogia-Festung ist eine Burg in Bordschomi.",
+                  "text": "Mittelalterliche Festung Gogia im Tal von Borjomi.",
                   "category": "castle",
                   "coords": [
                         43.376252,
@@ -6457,7 +8752,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "ბორჯომის ნაკრძალი",
-                  "text": "Das Naturschutzgebiet Bordschomi ist ein Naturschutzgebiet in Bordschomi.",
+                  "text": "Borjomi-Naturreservat, ein Schutzgebiet mit Mischwäldern und Mineralquellen.",
                   "category": "natural",
                   "coords": [
                         43.264434,
@@ -6466,7 +8761,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "ბორჯომის ცენტრალური პარკი",
-                  "text": "Der Zentralpark Bordschomi ist ein Park in der Stadt Bordschomi.",
+                  "text": "Zentralpark von Borjomi mit Spazierwegen und einem Mineralwasserbrunnen.",
                   "category": "park",
                   "coords": [
                         43.392585,
@@ -6475,7 +8770,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "მერაბ კოსტავას სახელობის პარკი",
-                  "text": "Der Merab-Kostawa-Garten ist ein Park in Bordschomi.",
+                  "text": "Merab-Kostova-Garten, eine ruhige Grünfläche in Borjomi, benannt nach dem Dissidenten.",
                   "category": "park",
                   "coords": [
                         43.384772,
@@ -6484,7 +8779,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "რომანოვების სასახლე",
-                  "text": "Der Romanow-Palast ist eine Sehenswürdigkeit in Bordschomi.",
+                  "text": "Der Romanow-Palast in Bordschomi, 1895 erbaut, diente der russischen Kaiserfamilie als Sommerresidenz.",
                   "category": "landmark",
                   "coords": [
                         43.364339,
@@ -6493,7 +8788,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "პრომეთე",
-                  "text": "Das Prometheus-Denkmal ist ein Monument in Bordschomi.",
+                  "text": "Prometheus-Statue in Borjomi, ein Symbol der Aufklärung.",
                   "category": "historical",
                   "coords": [
                         43.393699,
@@ -6502,7 +8797,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "Panorama view at Mountain Cross",
-                  "text": "Dieser Aussichtspunkt bietet einen Panoramablick auf Bordschomi.",
+                  "text": "Aussichtspunkt am Kreuzberg mit Panoramablick auf das Borjomi-Tal.",
                   "category": "natural",
                   "coords": [
                         43.378095,
@@ -6511,7 +8806,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "St. Nino chapel",
-                  "text": "Ruinen der St.-Nino-Kapelle in Bordschomi.",
+                  "text": "St.-Nino-Kapelle, eine kleine Steinkapelle am Hang in Borjomi.",
                   "category": "historical",
                   "coords": [
                         43.367142,
@@ -6520,7 +8815,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "Tree with colorful nestling boxes",
-                  "text": "Attraktion mit bunten Nistkästen in Bordschomi.",
+                  "text": "Ein großer Baum mit bunten Nistkästen für Vögel im Borjomi-Zentralpark.",
                   "category": "landmark",
                   "coords": [
                         43.392275,
@@ -6529,7 +8824,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "პეტრეს ციხე",
-                  "text": "Ruinen der Petre-Festung in Bordschomi.",
+                  "text": "Petre-Festung, eine verfallene Verteidigungsanlage in Borjomi.",
                   "category": "historical",
                   "coords": [
                         43.366123,
@@ -6538,7 +8833,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "ბორჯომ-ბაკურიანის ორთქლმავალი",
-                  "text": "Historische Dampflokomotive auf der Borjomi-Bakuriani-Bahn.",
+                  "text": "Historische Schmalspur-Dampflokomotive auf der Borjomi-Bakuriani-Bahn durch die Borjomi-Schlucht.",
                   "category": "landmark",
                   "coords": [
                         43.408861,
@@ -6549,7 +8844,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
       "hu": [
             {
                   "name": "ბორჯომის მხარეთმცოდნეობის მუზეუმი",
-                  "text": "A Helytörténeti Múzeum egy múzeum Borzsomiban.",
+                  "text": "Múzeum egy 19. századi épületben, Bordsomi központi parkja mellett.",
                   "category": "museum",
                   "coords": [
                         43.378288,
@@ -6558,7 +8853,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "ბორჯომის თოჯინების სახელმწიფო თეატრი",
-                  "text": "A Borzsomi Állami Bábszínház egy helyi színház.",
+                  "text": "Állami Bábszínház Borjomi központi parkjában.",
                   "category": "cultural",
                   "coords": [
                         43.3828,
@@ -6567,7 +8862,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "Nua fortress remains (almost destroyed)",
-                  "text": "Ezek a Nua erőd maradványai Borzsomiban.",
+                  "text": "Nua erőd alig megmaradt maradványai Borjomi közelében, szinte teljesen elpusztult.",
                   "category": "castle",
                   "coords": [
                         43.379399,
@@ -6576,7 +8871,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "Sali fortress",
-                  "text": "A Szali erőd egy vár Borzsomiban.",
+                  "text": "Sali erőd maradványai egy dombon, rálátással Borjomira.",
                   "category": "castle",
                   "coords": [
                         43.381617,
@@ -6585,7 +8880,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "The First Borjomi Mineral Water Bottling Factory",
-                  "text": "Ez a múzeum az Első Borzsomi Ásványvíz Palackozóüzemet mutatja be.",
+                  "text": "Múzeum az első Borjomi ásványvíz-palackozó üzemben, bemutatja a korai palackozás történetét.",
                   "category": "museum",
                   "coords": [
                         43.391055,
@@ -6594,7 +8889,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "გოგიას ციხე",
-                  "text": "A Gogia erőd egy vár Borzsomiban.",
+                  "text": "Gogia középkori erődje a Borjomi-völgyben.",
                   "category": "castle",
                   "coords": [
                         43.376252,
@@ -6603,7 +8898,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "ბორჯომის ნაკრძალი",
-                  "text": "A Borzsomi Természetvédelmi Terület egy védett terület Borzsomiban.",
+                  "text": "Borjomi Természetvédelmi Terület, vegyes erdőkkel és ásványforrásokkal.",
                   "category": "natural",
                   "coords": [
                         43.264434,
@@ -6612,7 +8907,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "ბორჯომის ცენტრალური პარკი",
-                  "text": "A Borzsomi Központi Park egy park Borzsomi városában.",
+                  "text": "Borjomi központi parkja sétányokkal és egy ásványvízkúttal.",
                   "category": "park",
                   "coords": [
                         43.392585,
@@ -6621,7 +8916,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "მერაბ კოსტავას სახელობის პარკი",
-                  "text": "A Merab Kosztava Kert egy park Borzsomiban.",
+                  "text": "Merab Kostova-kert, egy nyugodt zöldterület Borjomiban, a disszidensről elnevezve.",
                   "category": "park",
                   "coords": [
                         43.384772,
@@ -6630,7 +8925,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "რომანოვების სასახლე",
-                  "text": "A Romanov-palota egy látványosság Borzsomiban.",
+                  "text": "A Borjomi Romanov Palota, 1895-ben épült, az orosz császári család nyári rezidenciájaként szolgált.",
                   "category": "landmark",
                   "coords": [
                         43.364339,
@@ -6639,7 +8934,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "პრომეთე",
-                  "text": "A Prométheusz-emlékmű egy monumentum Borzsomiban.",
+                  "text": "Prométheusz-szobor Borjomiban, a felvilágosodás szimbóluma.",
                   "category": "historical",
                   "coords": [
                         43.393699,
@@ -6648,7 +8943,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "Panorama view at Mountain Cross",
-                  "text": "Ez a kilátó panorámát nyújt Borzsomira.",
+                  "text": "Kilátó a Kereszt-hegyen, panorámás kilátással a Borjomi-völgyre.",
                   "category": "natural",
                   "coords": [
                         43.378095,
@@ -6657,7 +8952,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "St. Nino chapel",
-                  "text": "A Bordszomi Szent Nino-kápolna romjai.",
+                  "text": "Szent Nino-kápolna, egy kis kőkápolna a domboldalon Borjomiban.",
                   "category": "historical",
                   "coords": [
                         43.367142,
@@ -6666,7 +8961,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "Tree with colorful nestling boxes",
-                  "text": "Színes fészkelődobozokkal díszített látványosság Bordszomiban.",
+                  "text": "Egy nagy fa színes madárodúkkal a Borjomi központi parkban.",
                   "category": "landmark",
                   "coords": [
                         43.392275,
@@ -6675,7 +8970,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "პეტრეს ციხე",
-                  "text": "A Petre-erőd romjai Bordszomiban.",
+                  "text": "Petre-erőd, egy romos védőállás Borjomiban.",
                   "category": "historical",
                   "coords": [
                         43.366123,
@@ -6684,7 +8979,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "ბორჯომ-ბაკურიანის ორთქლმავალი",
-                  "text": "Eredeti gőzmozdony a Bordszomi–Bakuriani vasútvonalon.",
+                  "text": "Történelmi keskeny nyomtávú gőzmozdony a Borjomi-Bakuriani vasútvonalon, a Borjomi-szurdokon keresztül.",
                   "category": "landmark",
                   "coords": [
                         43.408861,
@@ -6695,7 +8990,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
       "ro": [
             {
                   "name": "ბორჯომის მხარეთმცოდნეობის მუზეუმი",
-                  "text": "Muzeul de Istorie Locală este un muzeu din Borjomi.",
+                  "text": "Muzeu într-o clădire din secolul al XIX-lea lângă parcul central din Borjomi.",
                   "category": "museum",
                   "coords": [
                         43.378288,
@@ -6704,7 +8999,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "ბორჯომის თოჯინების სახელმწიფო თეატრი",
-                  "text": "Teatrul de Stat de Păpuși din Borjomi este un teatru local.",
+                  "text": "Teatrul de Păpuși de Stat în parcul central din Borjomi.",
                   "category": "cultural",
                   "coords": [
                         43.3828,
@@ -6713,7 +9008,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "Nua fortress remains (almost destroyed)",
-                  "text": "Acestea sunt rămășițele fortăreței Nua din Borjomi.",
+                  "text": "Urmele rare ale cetății Nua lângă Borjomi, aproape complet distrusă.",
                   "category": "castle",
                   "coords": [
                         43.379399,
@@ -6722,7 +9017,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "Sali fortress",
-                  "text": "Cetatea Sali este un castel situat în Borjomi.",
+                  "text": "Ruinele cetății Sali pe un deal cu vedere spre Borjomi.",
                   "category": "castle",
                   "coords": [
                         43.381617,
@@ -6731,7 +9026,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "The First Borjomi Mineral Water Bottling Factory",
-                  "text": "Acest muzeu prezintă Prima Fabrică de Îmbuteliere a Apei Minerale Borjomi.",
+                  "text": "Muzeu în prima fabrică de îmbuteliere a apei minerale Borjomi, prezentând istoria îmbutelierii.",
                   "category": "museum",
                   "coords": [
                         43.391055,
@@ -6740,7 +9035,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "გოგიას ციხე",
-                  "text": "Cetatea Gogia este un castel din Borjomi.",
+                  "text": "Cetatea medievală Gogia în valea Borjomi.",
                   "category": "castle",
                   "coords": [
                         43.376252,
@@ -6749,7 +9044,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "ბორჯომის ნაკრძალი",
-                  "text": "Rezervația Naturală Borjomi este o rezervație naturală în Borjomi.",
+                  "text": "Rezervația Naturală Borjomi, o arie protejată cu păduri mixte și izvoare minerale.",
                   "category": "natural",
                   "coords": [
                         43.264434,
@@ -6758,7 +9053,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "ბორჯომის ცენტრალური პარკი",
-                  "text": "Parcul Central Borjomi este un parc în orașul Borjomi.",
+                  "text": "Parcul Central din Borjomi cu alei pietonale și o fântână cu apă minerală.",
                   "category": "park",
                   "coords": [
                         43.392585,
@@ -6767,7 +9062,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "მერაბ კოსტავას სახელობის პარკი",
-                  "text": "Grădina Merab Kostava este un parc situat în Borjomi.",
+                  "text": "Grădina Merab Kostova, un spațiu verde liniștit în Borjomi, numit după disidentul georgian.",
                   "category": "park",
                   "coords": [
                         43.384772,
@@ -6776,7 +9071,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "რომანოვების სასახლე",
-                  "text": "Palatul Romanov este o atracție situată în Borjomi.",
+                  "text": "Palatul Romanov din Borjomi, construit în 1895, a servit drept reședință de vară pentru familia imperială rusă.",
                   "category": "landmark",
                   "coords": [
                         43.364339,
@@ -6785,7 +9080,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "პრომეთე",
-                  "text": "Monumentul lui Prometeu este un monument situat în Borjomi.",
+                  "text": "Statuia lui Prometeu în Borjomi, simbol al cunoașterii.",
                   "category": "historical",
                   "coords": [
                         43.393699,
@@ -6794,7 +9089,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "Panorama view at Mountain Cross",
-                  "text": "Acest punct de belvedere oferă o vedere panoramică asupra orașului Borjomi.",
+                  "text": "Punct de belvedere la Crucea Muntelui, cu vedere panoramică asupra văii Borjomi.",
                   "category": "natural",
                   "coords": [
                         43.378095,
@@ -6803,7 +9098,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "St. Nino chapel",
-                  "text": "Ruinele capelei Sf. Nino din Borjomi.",
+                  "text": "Capela Sfânta Nino, o mică capelă de piatră pe o colină în Borjomi.",
                   "category": "historical",
                   "coords": [
                         43.367142,
@@ -6812,7 +9107,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "Tree with colorful nestling boxes",
-                  "text": "Atracție cu cuiburi colorate în Borjomi.",
+                  "text": "Un copac mare cu căsuțe colorate pentru păsări în Parcul Central Borjomi.",
                   "category": "landmark",
                   "coords": [
                         43.392275,
@@ -6821,7 +9116,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "პეტრეს ციხე",
-                  "text": "Ruinele Cetății Petre din Borjomi.",
+                  "text": "Cetatea Petre, o fortificație ruinată de apărare în Borjomi.",
                   "category": "historical",
                   "coords": [
                         43.366123,
@@ -6830,7 +9125,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "ბორჯომ-ბაკურიანის ორთქლმავალი",
-                  "text": "Locomotivă cu abur originală pe calea ferată Borjomi-Bakuriani.",
+                  "text": "Locomotivă cu abur cu ecartament îngust pe calea ferată Borjomi-Bakuriani, traversând defileul Borjomi.",
                   "category": "landmark",
                   "coords": [
                         43.408861,
@@ -6841,7 +9136,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
       "en": [
             {
                   "name": "Museum of Local Lore",
-                  "text": "The Museum of Local Lore is a museum in Bordschomi.",
+                  "text": "Museum in a 19th-century building near Borjomi's central park.",
                   "category": "museum",
                   "coords": [
                         43.378288,
@@ -6850,7 +9145,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "Borjomi State Puppet Theatre",
-                  "text": "The Borjomi State Puppet Theatre is a local theatre.",
+                  "text": "State Puppet Theatre in Borjomi's central park.",
                   "category": "cultural",
                   "coords": [
                         43.3828,
@@ -6859,7 +9154,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "Nua fortress remains (almost destroyed)",
-                  "text": "These are the remains of the Nua fortress in Bordschomi.",
+                  "text": "Scant remains of Nua fortress near Borjomi, almost entirely destroyed.",
                   "category": "castle",
                   "coords": [
                         43.379399,
@@ -6868,7 +9163,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "Sali fortress",
-                  "text": "The Sali fortress is a castle located in Bordschomi.",
+                  "text": "Sali fortress ruins on a hill overlooking Borjomi.",
                   "category": "castle",
                   "coords": [
                         43.381617,
@@ -6877,7 +9172,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "The First Borjomi Mineral Water Bottling Factory",
-                  "text": "This museum showcases the First Borjomi Mineral Water Bottling Factory.",
+                  "text": "Museum in the first Borjomi mineral water bottling plant, showcasing early bottling history.",
                   "category": "museum",
                   "coords": [
                         43.391055,
@@ -6886,7 +9181,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "Gogia Fortress",
-                  "text": "The Gogia Fortress is a castle in Bordschomi.",
+                  "text": "Gogia fortress, a medieval stronghold in the Borjomi valley.",
                   "category": "castle",
                   "coords": [
                         43.376252,
@@ -6895,7 +9190,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "Borjomi Nature Reserve",
-                  "text": "The Borjomi Nature Reserve is a nature reserve in Bordschomi.",
+                  "text": "Borjomi Nature Reserve, a protected area of mixed forest and mineral springs.",
                   "category": "natural",
                   "coords": [
                         43.264434,
@@ -6904,7 +9199,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "Borjomi Central Park",
-                  "text": "Borjomi Central Park is a park in the city of Bordschomi.",
+                  "text": "Central park in Borjomi with walking paths and a mineral water fountain.",
                   "category": "park",
                   "coords": [
                         43.392585,
@@ -6913,7 +9208,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "Merab Kostava Garden",
-                  "text": "Merab Kostava Garden is a park located in Bordschomi.",
+                  "text": "Merab Kostava Garden, a peaceful green space in Borjomi named after the Georgian dissident.",
                   "category": "park",
                   "coords": [
                         43.384772,
@@ -6922,7 +9217,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "Romanov Palace",
-                  "text": "The Romanov Palace is an attraction located in Bordschomi.",
+                  "text": "The Romanov Palace in Borjomi, built in 1895, served as a summer residence for the Russian imperial family.",
                   "category": "landmark",
                   "coords": [
                         43.364339,
@@ -6931,7 +9226,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "Prometheus",
-                  "text": "The Prometheus monument is a monument located in Bordschomi.",
+                  "text": "Prometheus statue in Borjomi, a symbol of enlightenment.",
                   "category": "historical",
                   "coords": [
                         43.393699,
@@ -6940,7 +9235,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "Panorama view at Cross Mointain",
-                  "text": "This viewpoint offers a panoramic view of Bordschomi.",
+                  "text": "Panorama viewpoint at Cross Mountain with views of the Borjomi valley.",
                   "category": "natural",
                   "coords": [
                         43.378095,
@@ -6949,7 +9244,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "St. Nino chapel",
-                  "text": "Ruins of St. Nino chapel in Borjomi.",
+                  "text": "St. Nino's chapel, a small stone chapel on a hillside in Borjomi.",
                   "category": "historical",
                   "coords": [
                         43.367142,
@@ -6958,7 +9253,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "Tree with colorful nestling boxes",
-                  "text": "Attraction with colorful nestling boxes in Borjomi.",
+                  "text": "A large tree with colorful nest boxes for birds in Borjomi Central Park.",
                   "category": "landmark",
                   "coords": [
                         43.392275,
@@ -6967,7 +9262,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "Petre Fortress",
-                  "text": "Ruins of Petre Fortress in Borjomi.",
+                  "text": "Petre Fortress, a ruined defensive fortification in Borjomi.",
                   "category": "historical",
                   "coords": [
                         43.366123,
@@ -6976,7 +9271,7 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
             },
             {
                   "name": "Original Steam Engine Train on Borjomi-Bakuriani Railway",
-                  "text": "Original steam engine train on the Borjomi-Bakuriani railway.",
+                  "text": "Historic narrow-gauge steam train on the Borjomi-Bakuriani railway through the Borjomi Gorge.",
                   "category": "landmark",
                   "coords": [
                         43.408861,
@@ -7028,7 +9323,196 @@ image: "/poi-images/ge-borjomi-cities-v2.webp",
     },
   },
   {
-    id: "ge-tqvarcheli-cities-v2",
+    id: "ge-tqvarcheli-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tkvarchal'skaia krepost'",
+                  "text": "Die Ruinen einer mittelalterlichen Befestigungsanlage in der Nähe der ehemaligen Bergbaustadt Tkwartscheli.",
+                  "category": "castle",
+                  "coords": [
+                        41.679411,
+                        42.861766
+                  ]
+            },
+            {
+                  "name": "Bashnia",
+                  "text": "Ein historischer Wehrturm aus Stein, der typisch für die Verteidigungsarchitektur in der Bergregion von Abchasien ist.",
+                  "category": "castle",
+                  "coords": [
+                        41.675484,
+                        42.86507
+                  ]
+            },
+            {
+                  "name": "Vid na zhd most",
+                  "text": "Ein Aussichtspunkt mit Blick auf die markante Bogenbrücke der Eisenbahn im kaukasischen Gebirge bei Tkwartscheli.",
+                  "category": "natural",
+                  "coords": [
+                        41.697403,
+                        42.840166
+                  ]
+            },
+            {
+                  "name": "Vid s ZhD mosta",
+                  "text": "Ein Panoramablick direkt von der hohen Eisenbahnbrücke über das bewaldete Flusstal bei Tkwartscheli.",
+                  "category": "natural",
+                  "coords": [
+                        41.698775,
+                        42.839888
+                  ]
+            },
+            {
+                  "name": "Zhertvoprinoshenie",
+                  "text": "Eine historische oder rituelle Stätte in der Region Tkwartscheli, deren Name auf eine Opferstätte hindeutet.",
+                  "category": "landmark",
+                  "coords": [
+                        41.703714,
+                        42.838062
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tkvarchal'skaia krepost'",
+                  "text": "Egy középkori erődítmény romjai az egykori bányászváros, Tkvarcseli közelében.",
+                  "category": "castle",
+                  "coords": [
+                        41.679411,
+                        42.861766
+                  ]
+            },
+            {
+                  "name": "Bashnia",
+                  "text": "Történelmi kőből épült védőtorony, amely Abházia hegyvidéki védelmi építészetére jellemző.",
+                  "category": "castle",
+                  "coords": [
+                        41.675484,
+                        42.86507
+                  ]
+            },
+            {
+                  "name": "Vid na zhd most",
+                  "text": "Kilátóhely, ahonnan rálátni Tkvarcseli közelében a Kaukázus hegyei között ívelő jellegzetes vasúti hídra.",
+                  "category": "natural",
+                  "coords": [
+                        41.697403,
+                        42.840166
+                  ]
+            },
+            {
+                  "name": "Vid s ZhD mosta",
+                  "text": "Panorámás kilátás közvetlenül a magas vasúti hídról Tkvarcseli erdős folyóvölgyére.",
+                  "category": "natural",
+                  "coords": [
+                        41.698775,
+                        42.839888
+                  ]
+            },
+            {
+                  "name": "Zhertvoprinoshenie",
+                  "text": "Történelmi vagy rituális helyszín Tkvarcseli régiójában, amelynek neve áldozati helyre utal.",
+                  "category": "landmark",
+                  "coords": [
+                        41.703714,
+                        42.838062
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tkvarchal'skaia krepost'",
+                  "text": "Ruinele unei fortificații medievale în apropierea fostului oraș minier Tquarcheli.",
+                  "category": "castle",
+                  "coords": [
+                        41.679411,
+                        42.861766
+                  ]
+            },
+            {
+                  "name": "Bashnia",
+                  "text": "Un turn defensiv istoric din piatră, tipic pentru arhitectura de apărare din regiunea montană a Abhaziei.",
+                  "category": "castle",
+                  "coords": [
+                        41.675484,
+                        42.86507
+                  ]
+            },
+            {
+                  "name": "Vid na zhd most",
+                  "text": "Un punct de observație cu vedere la podul feroviar arcuit distinctiv din munții Caucaz, lângă Tquarcheli.",
+                  "category": "natural",
+                  "coords": [
+                        41.697403,
+                        42.840166
+                  ]
+            },
+            {
+                  "name": "Vid s ZhD mosta",
+                  "text": "O vedere panoramică direct de pe înaltul pod feroviar asupra văii împădurite a râului de lângă Tquarcheli.",
+                  "category": "natural",
+                  "coords": [
+                        41.698775,
+                        42.839888
+                  ]
+            },
+            {
+                  "name": "Zhertvoprinoshenie",
+                  "text": "Un sit istoric sau ritual în regiunea Tquarcheli, al cărui nume sugerează un loc de sacrificiu.",
+                  "category": "landmark",
+                  "coords": [
+                        41.703714,
+                        42.838062
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tkvarchal'skaia krepost'",
+                  "text": "The ruins of a medieval fortification near the former mining town of Tkvarchali.",
+                  "category": "castle",
+                  "coords": [
+                        41.679411,
+                        42.861766
+                  ]
+            },
+            {
+                  "name": "Tower",
+                  "text": "A historical stone defensive tower typical of the fortification architecture in the mountain region of Abkhazia.",
+                  "category": "castle",
+                  "coords": [
+                        41.675484,
+                        42.86507
+                  ]
+            },
+            {
+                  "name": "Vid na zhd most",
+                  "text": "A viewpoint overlooking the distinctive arched railway bridge in the Caucasus mountains near Tkvarchali.",
+                  "category": "natural",
+                  "coords": [
+                        41.697403,
+                        42.840166
+                  ]
+            },
+            {
+                  "name": "Vid s ZhD mosta",
+                  "text": "A panoramic view directly from the high railway bridge over the forested river valley near Tkvarchali.",
+                  "category": "natural",
+                  "coords": [
+                        41.698775,
+                        42.839888
+                  ]
+            },
+            {
+                  "name": "Zhertvoprinoshenie",
+                  "text": "A historical or ritual site in the Tkvarchali region whose name suggests a place of sacrifice.",
+                  "category": "landmark",
+                  "coords": [
+                        41.703714,
+                        42.838062
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GE-AB",
     coords: [41.6833, 42.8464],
@@ -7072,7 +9556,52 @@ image: "/poi-images/ge-tqvarcheli-cities-v2.webp",
     },
   },
   {
-    id: "ge-khoni-cities-v2", "sights": {"de": [{"name": "Khonskii istoricheskii muzei", "text": "Хонский исторический музей ist ein Museum in Choni.", "category": "museum", "coords": [42.424514, 42.323948]}], "hu": [{"name": "Khonskii istoricheskii muzei", "text": "A Хонский исторический музей egy múzeum Choni városában.", "category": "museum", "coords": [42.424514, 42.323948]}], "ro": [{"name": "Khonskii istoricheskii muzei", "text": "Хонский исторический музей este un muzeu în Choni.", "category": "museum", "coords": [42.424514, 42.323948]}], "en": [{"name": "Khonskii istoricheskii muzei", "text": "Хонский исторический музей is a museum in Choni.", "category": "museum", "coords": [42.424514, 42.323948]}]},
+    id: "ge-khoni-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khonskii istoricheskii muzei",
+                  "text": "Das Khonskii-Museum zeigt Exponate zur Geschichte der Region Imeretien in Choni.",
+                  "category": "museum",
+                  "coords": [
+                        42.424514,
+                        42.323948
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khonskii istoricheskii muzei",
+                  "text": "A Khonskii Múzeum a Imereti régió történetének tárgyait mutatja be Khoniban.",
+                  "category": "museum",
+                  "coords": [
+                        42.424514,
+                        42.323948
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khonskii istoricheskii muzei",
+                  "text": "Muzeul Khonskii expune artefacte din istoria regiunii Imereti din Khoni.",
+                  "category": "museum",
+                  "coords": [
+                        42.424514,
+                        42.323948
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khonskii istoricheskii muzei",
+                  "text": "Khonskii Historical Museum exhibits the history of the Imereti region in Khoni.",
+                  "category": "museum",
+                  "coords": [
+                        42.424514,
+                        42.323948
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GE-IM",
     coords: [42.4206, 42.3253],
@@ -7120,7 +9649,7 @@ image: "/poi-images/ge-khoni-cities-v2.webp",
       "de": [
             {
                   "name": "ბოლნისის რაიონის მუზეუმი",
-                  "text": "Lokales Museum in Bolnissi.",
+                  "text": "Das Bolnisi Heimatmuseum zeigt archäologische Funde, darunter Inschriften der Bolnisi-Sioni-Basilika aus dem 5. Jahrhundert.",
                   "category": "museum",
                   "coords": [
                         44.540792,
@@ -7129,7 +9658,7 @@ image: "/poi-images/ge-khoni-cities-v2.webp",
             },
             {
                   "name": "ფეოდალური სახლის ნანგრევი კოშკით",
-                  "text": "Feudalturm in Bolnissi.",
+                  "text": "Mittelalterlicher Feudalturm im alten Ortskern von Bolnisi.",
                   "category": "castle",
                   "coords": [
                         44.513958,
@@ -7138,7 +9667,7 @@ image: "/poi-images/ge-khoni-cities-v2.webp",
             },
             {
                   "name": "ბოლნისის მუზეუმი",
-                  "text": "Museum in Bolnissi.",
+                  "text": "Das Bolnisi-Museum präsentiert archäologische und ethnografische Sammlungen aus der Region.",
                   "category": "museum",
                   "coords": [
                         44.564394,
@@ -7147,7 +9676,7 @@ image: "/poi-images/ge-khoni-cities-v2.webp",
             },
             {
                   "name": "ბოლნისის კულტურის სახლი",
-                  "text": "Kulturhaus in Bolnissi.",
+                  "text": "Das Kulturhaus von Bolnisi veranstaltet Konzerte, Ausstellungen und Gemeinschaftsveranstaltungen.",
                   "category": "cultural",
                   "coords": [
                         44.537775,
@@ -7158,7 +9687,7 @@ image: "/poi-images/ge-khoni-cities-v2.webp",
       "hu": [
             {
                   "name": "ბოლნისის რაიონის მუზეუმი",
-                  "text": "Helytörténeti múzeum Bolnissiban.",
+                  "text": "A Bolnisi Helytörténeti Múzeum régészeti leleteket mutat be, köztük az 5. századi Bolnisi Sioni Bazilika feliratait.",
                   "category": "museum",
                   "coords": [
                         44.540792,
@@ -7167,7 +9696,7 @@ image: "/poi-images/ge-khoni-cities-v2.webp",
             },
             {
                   "name": "ფეოდალური სახლის ნანგრევი კოშკით",
-                  "text": "Feudális torony Bolnissiban.",
+                  "text": "Középkori feudális torony Bolnisi óvárosában.",
                   "category": "castle",
                   "coords": [
                         44.513958,
@@ -7176,7 +9705,7 @@ image: "/poi-images/ge-khoni-cities-v2.webp",
             },
             {
                   "name": "ბოლნისის მუზეუმი",
-                  "text": "Múzeum Bolnissiban.",
+                  "text": "A Bolnisi Múzeum a régió régészeti és néprajzi gyűjteményeit mutatja be.",
                   "category": "museum",
                   "coords": [
                         44.564394,
@@ -7185,7 +9714,7 @@ image: "/poi-images/ge-khoni-cities-v2.webp",
             },
             {
                   "name": "ბოლნისის კულტურის სახლი",
-                  "text": "Kulturális ház Bolnissiban.",
+                  "text": "A Bolnisi Kultúrház koncerteknek, kiállításoknak és közösségi eseményeknek ad otthont.",
                   "category": "cultural",
                   "coords": [
                         44.537775,
@@ -7196,7 +9725,7 @@ image: "/poi-images/ge-khoni-cities-v2.webp",
       "ro": [
             {
                   "name": "ბოლნისის რაიონის მუზეუმი",
-                  "text": "Muzeul local din Bolnissi.",
+                  "text": "Muzeul Local Bolnisi prezintă descoperiri arheologice, inclusiv inscripții de la bazilica Bolnisi Sioni din secolul al V-lea.",
                   "category": "museum",
                   "coords": [
                         44.540792,
@@ -7205,7 +9734,7 @@ image: "/poi-images/ge-khoni-cities-v2.webp",
             },
             {
                   "name": "ფეოდალური სახლის ნანგრევი კოშკით",
-                  "text": "Turn feudal în Bolnissi.",
+                  "text": "Turn feudal medieval în centrul vechi al orașului Bolnisi.",
                   "category": "castle",
                   "coords": [
                         44.513958,
@@ -7214,7 +9743,7 @@ image: "/poi-images/ge-khoni-cities-v2.webp",
             },
             {
                   "name": "ბოლნისის მუზეუმი",
-                  "text": "Muzeu în Bolnissi.",
+                  "text": "Muzeul Bolnisi prezintă colecții arheologice și etnografice din regiune.",
                   "category": "museum",
                   "coords": [
                         44.564394,
@@ -7223,7 +9752,7 @@ image: "/poi-images/ge-khoni-cities-v2.webp",
             },
             {
                   "name": "ბოლნისის კულტურის სახლი",
-                  "text": "Casă de cultură în Bolnissi.",
+                  "text": "Casa de Cultură Bolnisi găzduiește concerte, expoziții și evenimente comunitare.",
                   "category": "cultural",
                   "coords": [
                         44.537775,
@@ -7234,7 +9763,7 @@ image: "/poi-images/ge-khoni-cities-v2.webp",
       "en": [
             {
                   "name": "Bolnisi Local Museum",
-                  "text": "Local museum in Bolnissi.",
+                  "text": "Bolnisi Local Museum displays archaeological finds, including inscriptions from the 5th-century Bolnisi Sioni Basilica.",
                   "category": "museum",
                   "coords": [
                         44.540792,
@@ -7243,7 +9772,7 @@ image: "/poi-images/ge-khoni-cities-v2.webp",
             },
             {
                   "name": "Feudal Tower",
-                  "text": "Feudal tower in Bolnissi.",
+                  "text": "A medieval feudal tower in the old town of Bolnisi.",
                   "category": "castle",
                   "coords": [
                         44.513958,
@@ -7252,7 +9781,7 @@ image: "/poi-images/ge-khoni-cities-v2.webp",
             },
             {
                   "name": "Bolnisi Museum",
-                  "text": "Museum in Bolnissi.",
+                  "text": "Bolnisi Museum showcases archaeological and ethnographic collections from the region.",
                   "category": "museum",
                   "coords": [
                         44.564394,
@@ -7261,7 +9790,7 @@ image: "/poi-images/ge-khoni-cities-v2.webp",
             },
             {
                   "name": "Bolnisi Cultural House",
-                  "text": "Cultural house in Bolnissi.",
+                  "text": "Bolnisi Cultural House hosts concerts, exhibitions, and community events.",
                   "category": "cultural",
                   "coords": [
                         44.537775,
@@ -7317,7 +9846,7 @@ image: "/poi-images/ge-bolnisi-cities-v2.webp",
       "de": [
             {
                   "name": "ბავრის ეკლესია",
-                  "text": "ბავრის ეკლესია sind Ruinen in Achalkalaki.",
+                  "text": "Historische georgische Kirche im Dorf Bawra nahe Achalkalaki.",
                   "category": "historical",
                   "coords": [
                         43.513442,
@@ -7326,7 +9855,7 @@ image: "/poi-images/ge-bolnisi-cities-v2.webp",
             },
             {
                   "name": "ახალქალაქი",
-                  "text": "Akhalkalaki ist ein Denkmal in Achalkalaki.",
+                  "text": "Die Festung Achalkalaki, eine mittelalterliche Steinburg über der Stadt Achalkalaki.",
                   "category": "historical",
                   "coords": [
                         43.492598,
@@ -7335,7 +9864,7 @@ image: "/poi-images/ge-bolnisi-cities-v2.webp",
             },
             {
                   "name": "ხულგუმოს სასაფლაო, ნაეკლესიარი და სტელის ნატეხი",
-                  "text": "ხულგუმოს სასაფლაო, ნაეკლესიარი და სტელის ნატეხი sind Ruinen in Achalkalaki.",
+                  "text": "Antiker Friedhof mit Kirchenruine und einer verzierten Steinstelenplatte bei Achalkalaki.",
                   "category": "historical",
                   "coords": [
                         43.494318,
@@ -7344,7 +9873,7 @@ image: "/poi-images/ge-bolnisi-cities-v2.webp",
             },
             {
                   "name": "ხულგუმოსა და ბავრის გამოქვაბულები",
-                  "text": "ხულგუმოსა და ბავრის გამოქვაბულები ist eine Sehenswürdigkeit in Achalkalaki.",
+                  "text": "Höhlenkomplex bei Achalkalaki mit natürlichen Kalksteinformationen und alten Siedlungsspuren.",
                   "category": "landmark",
                   "coords": [
                         43.495096,
@@ -7373,7 +9902,7 @@ image: "/poi-images/ge-bolnisi-cities-v2.webp",
       "hu": [
             {
                   "name": "ბავრის ეკლესია",
-                  "text": "A ბავრის ეკლესია romok Achalkalaki városában.",
+                  "text": "Történelmi grúz templom Bawra faluban, Achalkalaki közelében.",
                   "category": "historical",
                   "coords": [
                         43.513442,
@@ -7382,7 +9911,7 @@ image: "/poi-images/ge-bolnisi-cities-v2.webp",
             },
             {
                   "name": "ახალქალაქი",
-                  "text": "Akhalkalaki egy műemlék Achalkalaki városában.",
+                  "text": "Akhalkalaki erődje, egy középkori kővár a város felett.",
                   "category": "historical",
                   "coords": [
                         43.492598,
@@ -7391,7 +9920,7 @@ image: "/poi-images/ge-bolnisi-cities-v2.webp",
             },
             {
                   "name": "ხულგუმოს სასაფლაო, ნაეკლესიარი და სტელის ნატეხი",
-                  "text": "A ხულგუმოს სასაფლაო, ნაეკლესიარი და სტელის ნატეხი romok Achalkalaki városában.",
+                  "text": "Ősi temető templomromokkal és díszített kősztélével Akhalkalaki közelében.",
                   "category": "historical",
                   "coords": [
                         43.494318,
@@ -7400,7 +9929,7 @@ image: "/poi-images/ge-bolnisi-cities-v2.webp",
             },
             {
                   "name": "ხულგუმოსა და ბავრის გამოქვაბულები",
-                  "text": "A ხულგუმოსა და ბავრის გამოქვაბულები egy látványosság Achalkalaki városában.",
+                  "text": "Barlangrendszer Akhalkalaki közelében természetes mészkőképződményekkel és ősi településnyomokkal.",
                   "category": "landmark",
                   "coords": [
                         43.495096,
@@ -7429,7 +9958,7 @@ image: "/poi-images/ge-bolnisi-cities-v2.webp",
       "ro": [
             {
                   "name": "ბავრის ეკლესია",
-                  "text": "ბავრის ეკლესია sunt ruine situate în Achalkalaki.",
+                  "text": "Biserică istorică georgiană în satul Bavra, lângă Akhalkalaki.",
                   "category": "historical",
                   "coords": [
                         43.513442,
@@ -7438,7 +9967,7 @@ image: "/poi-images/ge-bolnisi-cities-v2.webp",
             },
             {
                   "name": "ახალქალაქი",
-                  "text": "Akhalkalaki este un monument situat în Achalkalaki.",
+                  "text": "Cetatea Akhalkalaki, o fortăreață medievală de piatră deasupra orașului Akhalkalaki.",
                   "category": "historical",
                   "coords": [
                         43.492598,
@@ -7447,7 +9976,7 @@ image: "/poi-images/ge-bolnisi-cities-v2.webp",
             },
             {
                   "name": "ხულგუმოს სასაფლაო, ნაეკლესიარი და სტელის ნატეხი",
-                  "text": "ხულგუმოს სასაფლაო, ნაეკლესიარი და სტელის ნატეხი sunt ruine situate în Achalkalaki.",
+                  "text": "Cimitir antic cu ruine de biserică și o stelă de piatră sculptată lângă Akhalkalaki.",
                   "category": "historical",
                   "coords": [
                         43.494318,
@@ -7456,7 +9985,7 @@ image: "/poi-images/ge-bolnisi-cities-v2.webp",
             },
             {
                   "name": "ხულგუმოსა და ბავრის გამოქვაბულები",
-                  "text": "ხულგუმოსა და ბავრის გამოქვაბულები este o atracție situată în Achalkalaki.",
+                  "text": "Complex de peșteri lângă Akhalkalaki, cu formațiuni naturale de calcar și urme de așezări antice.",
                   "category": "landmark",
                   "coords": [
                         43.495096,
@@ -7485,7 +10014,7 @@ image: "/poi-images/ge-bolnisi-cities-v2.webp",
       "en": [
             {
                   "name": "ბავრის ეკლესია",
-                  "text": "ბავრის ეკლესია are ruins located in Achalkalaki.",
+                  "text": "Historical Georgian church in the village of Bavra near Akhalkalaki.",
                   "category": "historical",
                   "coords": [
                         43.513442,
@@ -7494,7 +10023,7 @@ image: "/poi-images/ge-bolnisi-cities-v2.webp",
             },
             {
                   "name": "Akhalkalaki",
-                  "text": "Akhalkalaki is a monument located in Achalkalaki.",
+                  "text": "Akhalkalaki Fortress, a medieval stone fortress overlooking the city of Akhalkalaki.",
                   "category": "historical",
                   "coords": [
                         43.492598,
@@ -7503,7 +10032,7 @@ image: "/poi-images/ge-bolnisi-cities-v2.webp",
             },
             {
                   "name": "ხულგუმოს სასაფლაო, ნაეკლესიარი და სტელის ნატეხი",
-                  "text": "ხულგუმოს სასაფლაო, ნაეკლესიარი და სტელის ნატეხი are ruins located in Achalkalaki.",
+                  "text": "Ancient cemetery with church ruins and a carved stone stela near Akhalkalaki.",
                   "category": "historical",
                   "coords": [
                         43.494318,
@@ -7512,7 +10041,7 @@ image: "/poi-images/ge-bolnisi-cities-v2.webp",
             },
             {
                   "name": "ხულგუმოსა და ბავრის გამოქვაბულები",
-                  "text": "ხულგუმოსა და ბავრის გამოქვაბულები is an attraction located in Achalkalaki.",
+                  "text": "Cave complex near Akhalkalaki featuring natural limestone formations and ancient dwelling traces.",
                   "category": "landmark",
                   "coords": [
                         43.495096,
@@ -7582,7 +10111,340 @@ image: "/poi-images/ge-akhalkalaki-cities-v2.webp",
     },
   },
   {
-    id: "ge-gurjaani-cities-v2",
+    id: "ge-gurjaani-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "დიდების მემორიალური მუზეუმი",
+                  "text": "Ein Museum in Gurdjaani, das dem militärischen Ruhm und lokalen Kriegshelden gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        45.787651,
+                        41.744293
+                  ]
+            },
+            {
+                  "name": "ნატო ვაჩნაძის სახლ-მუზეუმი",
+                  "text": "Das Hausmuseum der legendären georgischen Filmschauspielerin Nato Watschnadse.",
+                  "category": "museum",
+                  "coords": [
+                        45.798696,
+                        41.728991
+                  ]
+            },
+            {
+                  "name": "გურჯაანის ყველაწმინდა ეკლესია",
+                  "text": "Die Kvelatsminda-Kirche von Gurdjaani, die einzige mittelalterliche doppelkuppelige Kirche Georgiens.",
+                  "category": "religious",
+                  "coords": [
+                        45.788073,
+                        41.720458
+                  ]
+            },
+            {
+                  "name": "გურჯაანის ქაშვეთის ეკლესია",
+                  "text": "Die Kaschueti-Kirche in Gurdjaani, bekannt für ihre Lage im Stadtpark.",
+                  "category": "religious",
+                  "coords": [
+                        45.805726,
+                        41.72648
+                  ]
+            },
+            {
+                  "name": "მთავარანგელოზის სახელობის ეკლესია",
+                  "text": "Eine kleine orthodoxe Kirche in Gurdjaani, die den Erzengeln gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        45.800702,
+                        41.732911
+                  ]
+            },
+            {
+                  "name": "წმ.დავით გარეჯელის სახელობის ეკლესია",
+                  "text": "Eine Kirche in Gurdjaani, benannt nach dem Heiligen David Gareja, einem der syrischen Väter.",
+                  "category": "landmark",
+                  "coords": [
+                        45.780611,
+                        41.731151
+                  ]
+            },
+            {
+                  "name": "გურჯაანის ზღუდრის წმ.გიორგის ეკლესია",
+                  "text": "Die St.-Georgs-Kirche in Sgudri, auf einem Hügel über der Stadt Gurdjaani gelegen.",
+                  "category": "landmark",
+                  "coords": [
+                        45.776294,
+                        41.741073
+                  ]
+            },
+            {
+                  "name": "სამების საკათედრო ტაძარი",
+                  "text": "Diese christliche Kathedrale in Gurdschaani zeichnet sich durch ihre klassische georgische Sakralarchitektur aus.",
+                  "category": "landmark",
+                  "coords": [
+                        45.796941,
+                        41.741405
+                  ]
+            },
+            {
+                  "name": "ბაზარი",
+                  "text": "Ein lebhafter lokaler Markt in Gurdschaani, auf dem frische Agrarprodukte aus der Weinregion Kachetien angeboten werden.",
+                  "category": "cultural",
+                  "coords": [
+                        45.79908,
+                        41.742676
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "დიდების მემორიალური მუზეუმი",
+                  "text": "Gurdsaani múzeuma, amelyet a katonai dicsőségnek és a helyi hősöknek szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        45.787651,
+                        41.744293
+                  ]
+            },
+            {
+                  "name": "ნატო ვაჩნაძის სახლ-მუზეუმი",
+                  "text": "Nato Vacsnadze, a legendás grúz színésznő emlékmúzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        45.798696,
+                        41.728991
+                  ]
+            },
+            {
+                  "name": "გურჯაანის ყველაწმინდა ეკლესია",
+                  "text": "A gurdsaanini Kvelacminda-templom, Grúzia egyetlen középkori kétkupolás temploma.",
+                  "category": "religious",
+                  "coords": [
+                        45.788073,
+                        41.720458
+                  ]
+            },
+            {
+                  "name": "გურჯაანის ქაშვეთის ეკლესია",
+                  "text": "A gurdsaanini Kasueti-templom, amely a városi parkban lévő elhelyezkedéséről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        45.805726,
+                        41.72648
+                  ]
+            },
+            {
+                  "name": "მთავარანგელოზის სახელობის ეკლესია",
+                  "text": "Az arkangyaloknak szentelt kis ortodox templom Gurdsaani városában.",
+                  "category": "landmark",
+                  "coords": [
+                        45.800702,
+                        41.732911
+                  ]
+            },
+            {
+                  "name": "წმ.დავით გარეჯელის სახელობის ეკლესია",
+                  "text": "Gurdsaanini templom, amelyet Szent Dávid Garedzsáról, a szíriai atyák egyikéről neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        45.780611,
+                        41.731151
+                  ]
+            },
+            {
+                  "name": "გურჯაანის ზღუდრის წმ.გიორგის ეკლესია",
+                  "text": "A zgudri Szent György-templom, amely egy dombon magasodik Gurdsaani felett.",
+                  "category": "landmark",
+                  "coords": [
+                        45.776294,
+                        41.741073
+                  ]
+            },
+            {
+                  "name": "სამების საკათედრო ტაძარი",
+                  "text": "Ez a gurdzsaani keresztény székesegyház a klasszikus grúz szakrális építészet jegyeit viseli magán.",
+                  "category": "landmark",
+                  "coords": [
+                        45.796941,
+                        41.741405
+                  ]
+            },
+            {
+                  "name": "ბაზარი",
+                  "text": "Gurdzsaani pezsgő helyi piaca, ahol a kahetii borvidék friss mezőgazdasági termékeit kínálják.",
+                  "category": "cultural",
+                  "coords": [
+                        45.79908,
+                        41.742676
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "დიდების მემორიალური მუზეუმი",
+                  "text": "Un muzeu în Gurjaani dedicat gloriei militare și eroilor de război locali.",
+                  "category": "museum",
+                  "coords": [
+                        45.787651,
+                        41.744293
+                  ]
+            },
+            {
+                  "name": "ნატო ვაჩნაძის სახლ-მუზეუმი",
+                  "text": "Muzeul memorial al legendei cinematografiei georgiene, actrița Nato Vachnadze.",
+                  "category": "museum",
+                  "coords": [
+                        45.798696,
+                        41.728991
+                  ]
+            },
+            {
+                  "name": "გურჯაანის ყველაწმინდა ეკლესია",
+                  "text": "Biserica Kvelatsminda din Gurjaani, singura biserică medievală cu două cupole din Georgia.",
+                  "category": "religious",
+                  "coords": [
+                        45.788073,
+                        41.720458
+                  ]
+            },
+            {
+                  "name": "გურჯაანის ქაშვეთის ეკლესია",
+                  "text": "Biserica Kashueti din Gurjaani, cunoscută pentru amplasarea sa în parcul orașului.",
+                  "category": "religious",
+                  "coords": [
+                        45.805726,
+                        41.72648
+                  ]
+            },
+            {
+                  "name": "მთავარანგელოზის სახელობის ეკლესია",
+                  "text": "O mică biserică ortodoxă în Gurjaani, dedicată Sfinților Arhangheli.",
+                  "category": "landmark",
+                  "coords": [
+                        45.800702,
+                        41.732911
+                  ]
+            },
+            {
+                  "name": "წმ.დავით გარეჯელის სახელობის ეკლესია",
+                  "text": "O biserică în Gurjaani numită după Sfântul David Gareja, unul dintre Părinții Sirieni.",
+                  "category": "landmark",
+                  "coords": [
+                        45.780611,
+                        41.731151
+                  ]
+            },
+            {
+                  "name": "გურჯაანის ზღუდრის წმ.გიორგის ეკლესია",
+                  "text": "Biserica Sfântul Gheorghe din Zgudri, situată pe un deal deasupra orașului Gurjaani.",
+                  "category": "landmark",
+                  "coords": [
+                        45.776294,
+                        41.741073
+                  ]
+            },
+            {
+                  "name": "სამების საკათედრო ტაძარი",
+                  "text": "Această catedrală creștină din Gurjaani se remarcă prin arhitectura sa sacră georgiană clasică.",
+                  "category": "landmark",
+                  "coords": [
+                        45.796941,
+                        41.741405
+                  ]
+            },
+            {
+                  "name": "ბაზარი",
+                  "text": "O piață locală plină de viață în Gurjaani, care oferă produse agricole proaspete din regiunea viticolă Kakheti.",
+                  "category": "cultural",
+                  "coords": [
+                        45.79908,
+                        41.742676
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "დიდების მემორიალური მუზეუმი",
+                  "text": "A museum in Gurjaani dedicated to military glory and local war heroes.",
+                  "category": "museum",
+                  "coords": [
+                        45.787651,
+                        41.744293
+                  ]
+            },
+            {
+                  "name": "Nato Vachnadze house -museum",
+                  "text": "The house museum dedicated to the legendary Georgian film actress Nato Vachnadze.",
+                  "category": "museum",
+                  "coords": [
+                        45.798696,
+                        41.728991
+                  ]
+            },
+            {
+                  "name": "Gurjaani Kveladtsminda Church",
+                  "text": "The Gurjaani Kvelatsminda Church, unique as Georgia's only medieval double-domed church.",
+                  "category": "religious",
+                  "coords": [
+                        45.788073,
+                        41.720458
+                  ]
+            },
+            {
+                  "name": "გურჯაანის ქაშვეთის ეკლესია",
+                  "text": "The Kashueti church of Gurjaani, known for its setting within the town's park.",
+                  "category": "religious",
+                  "coords": [
+                        45.805726,
+                        41.72648
+                  ]
+            },
+            {
+                  "name": "მთავარანგელოზის სახელობის ეკლესია",
+                  "text": "A small Orthodox church in Gurjaani dedicated to the Holy Archangels.",
+                  "category": "landmark",
+                  "coords": [
+                        45.800702,
+                        41.732911
+                  ]
+            },
+            {
+                  "name": "წმ.დავით გარეჯელის სახელობის ეკლესია",
+                  "text": "A church in Gurjaani named after Saint David Gareja, one of the Assyrian Fathers.",
+                  "category": "landmark",
+                  "coords": [
+                        45.780611,
+                        41.731151
+                  ]
+            },
+            {
+                  "name": "Zgudri St.George Church",
+                  "text": "The Saint George church in Zgudri, perched on a hill overlooking the town of Gurjaani.",
+                  "category": "landmark",
+                  "coords": [
+                        45.776294,
+                        41.741073
+                  ]
+            },
+            {
+                  "name": "სამების საკათედრო ტაძარი",
+                  "text": "This Christian cathedral in Gurjaani is characterized by its classic Georgian sacral architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        45.796941,
+                        41.741405
+                  ]
+            },
+            {
+                  "name": "ბაზარი",
+                  "text": "A lively local market in Gurjaani offering fresh agricultural products from the Kakheti wine region.",
+                  "category": "cultural",
+                  "coords": [
+                        45.79908,
+                        41.742676
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GE-KA",
     coords: [45.8000, 41.7458],
@@ -7630,7 +10492,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
       "de": [
             {
                   "name": "არმაზციხე-ბაგინეთი არქეოლოგიური ძეგლი",
-                  "text": "Archäologische Stätte Armaztsikhe-Bagineti in Mzcheta.",
+                  "text": "Archäologische Stätte Armaziziche-Bagineti, Ruinen der antiken iberischen Hauptstadt bei Mzcheta mit Palast- und Tempelresten.",
                   "category": "historical",
                   "coords": [
                         44.721241,
@@ -7648,7 +10510,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "მიხეილ მამულაშვილის სახლ-მუზეუმი",
-                  "text": "Mikheil-Mamulashvili-Hausmuseum in Mzcheta.",
+                  "text": "Wohnhaus-Museum des georgischen Malers Michail Mamulaschwili in Mzcheta mit seinen Werken und persönlichen Gegenständen.",
                   "category": "museum",
                   "coords": [
                         44.721402,
@@ -7657,7 +10519,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "პომპეუსის ხიდი",
-                  "text": "Ruinen der Pompeius-Brücke in Mzcheta.",
+                  "text": "Pompeiusbrücke ist eine alte Steinbrücke über den Mtkvari in Mtskheta, die mit dem römischen Feldherrn Pompeius in Verbindung gebracht wird.",
                   "category": "historical",
                   "coords": [
                         44.706003,
@@ -7684,7 +10546,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "არსენა",
-                  "text": "Arsena-Denkmal in Mzcheta.",
+                  "text": "Arsena, ein historisches Viertel in Mzcheta mit mittelalterlicher Architektur und engen Gassen.",
                   "category": "historical",
                   "coords": [
                         44.710738,
@@ -7693,7 +10555,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "ბაზილიკა",
-                  "text": "Ruinen einer Basilika in Mzcheta.",
+                  "text": "Historische Basilika in der Altstadt von Mzcheta aus frühchristlicher Zeit.",
                   "category": "historical",
                   "coords": [
                         44.721803,
@@ -7729,7 +10591,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "კარსანის ღვთისმშობლის ეკლესია",
-                  "text": "Karsani-Kirche der Heiligen Jungfrau in Mzcheta.",
+                  "text": "Georgisch-orthodoxe Kirche der Gottesmutter in Karsani bei Mtskheta.",
                   "category": "religious",
                   "coords": [
                         44.703602,
@@ -7740,7 +10602,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
       "hu": [
             {
                   "name": "არმაზციხე-ბაგინეთი არქეოლოგიური ძეგლი",
-                  "text": "Armazcihe-Bagineti régészeti lelőhely Mchetában.",
+                  "text": "Armaztsikhe-Bagineti régészeti lelőhely, a régi Ibériai Királyság fővárosának romjai Mtskheta közelében, palota- és templommaradványokkal.",
                   "category": "historical",
                   "coords": [
                         44.721241,
@@ -7758,7 +10620,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "მიხეილ მამულაშვილის სახლ-მუზეუმი",
-                  "text": "Mihail Mamulasvili házmúzeum Mchetában.",
+                  "text": "Mikheil Mamulashvili, a grúz festő háza-múzeuma Mtskhetában, műveivel és személyes tárgyaival.",
                   "category": "museum",
                   "coords": [
                         44.721402,
@@ -7767,7 +10629,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "პომპეუსის ხიდი",
-                  "text": "Pompeius hídjának romjai Mchetában.",
+                  "text": "Pompeius hídja egy ősi kőhíd a Mtkvari folyón Mtskhetában, amelyet a római hadvezér Pompeius nevéhez kötnek.",
                   "category": "historical",
                   "coords": [
                         44.706003,
@@ -7794,7 +10656,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "არსენა",
-                  "text": "Arszena-emlékmű Mchetában.",
+                  "text": "Arsena, egy történelmi negyed Mtskhetában, középkori építészettel és keskeny utcákkal.",
                   "category": "historical",
                   "coords": [
                         44.710738,
@@ -7803,7 +10665,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "ბაზილიკა",
-                  "text": "Bazilika romjai Mchetában.",
+                  "text": "Történelmi bazilika Mtskheta óvárosában a korai keresztény korból.",
                   "category": "historical",
                   "coords": [
                         44.721803,
@@ -7839,7 +10701,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "კარსანის ღვთისმშობლის ეკლესია",
-                  "text": "Karszani Szűz Mária-templom Mchetában.",
+                  "text": "A karszanyi Istenanya ortodox temploma Mtskheta közelében.",
                   "category": "religious",
                   "coords": [
                         44.703602,
@@ -7850,7 +10712,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
       "ro": [
             {
                   "name": "არმაზციხე-ბაგინეთი არქეოლოგიური ძეგლი",
-                  "text": "Sit arheologic Armaztsikhe-Bagineti în Mtskheta.",
+                  "text": "Situl arheologic Armaztsikhe-Bagineti, ruine ale vechii capitale iberice lângă Mtskheta, cu rămășițe de palate și temple.",
                   "category": "historical",
                   "coords": [
                         44.721241,
@@ -7868,7 +10730,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "მიხეილ მამულაშვილის სახლ-მუზეუმი",
-                  "text": "Muzeul memorial Mikheil Mamulashvili în Mtskheta.",
+                  "text": "Casa-muzeu a pictorului georgian Mikheil Mamulashvili din Mtskheta, cu lucrările și obiectele sale personale.",
                   "category": "museum",
                   "coords": [
                         44.721402,
@@ -7877,7 +10739,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "პომპეუსის ხიდი",
-                  "text": "Ruinele podului lui Pompei în Mtskheta.",
+                  "text": "Podul lui Pompeius este un pod de piatră străvechi peste râul Mtkvari în Mtskheta, asociat cu generalul roman Pompeius.",
                   "category": "historical",
                   "coords": [
                         44.706003,
@@ -7904,7 +10766,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "არსენა",
-                  "text": "Monumentul Arsena în Mtskheta.",
+                  "text": "Arsena, un cartier istoric din Mtskheta cu arhitectură medievală și străzi înguste.",
                   "category": "historical",
                   "coords": [
                         44.710738,
@@ -7913,7 +10775,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "ბაზილიკა",
-                  "text": "Ruinele unei bazilici în Mtskheta.",
+                  "text": "Bazilică istorică în centrul vechi al Mtskhetei din perioada creștină timpurie.",
                   "category": "historical",
                   "coords": [
                         44.721803,
@@ -7949,7 +10811,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "კარსანის ღვთისმშობლის ეკლესია",
-                  "text": "Biserica Sfânta Fecioară din Karsani în Mtskheta.",
+                  "text": "Biserica ortodoxă georgiană a Maicii Domnului din Karsani, lângă Mtskheta.",
                   "category": "religious",
                   "coords": [
                         44.703602,
@@ -7960,7 +10822,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
       "en": [
             {
                   "name": "Armaztsikhe-Bagineti Archaeological Site",
-                  "text": "Armaztsikhe-Bagineti archaeological site in Mtskheta.",
+                  "text": "Armaztsikhe-Bagineti archaeological site, ruins of the ancient Iberian capital near Mtskheta with palace and temple remains.",
                   "category": "historical",
                   "coords": [
                         44.721241,
@@ -7978,7 +10840,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "Mikheil Mamulashvili House-Museum",
-                  "text": "Mikheil Mamulashvili House-Museum in Mtskheta.",
+                  "text": "House-museum of Georgian painter Mikheil Mamulashvili in Mtskheta, displaying his works and personal belongings.",
                   "category": "museum",
                   "coords": [
                         44.721402,
@@ -7987,7 +10849,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "Pompey's bridge",
-                  "text": "Ruins of Pompey's bridge in Mtskheta.",
+                  "text": "Pompey's Bridge is an ancient stone bridge crossing the Mtkvari River in Mtskheta, associated with the Roman general Pompey.",
                   "category": "historical",
                   "coords": [
                         44.706003,
@@ -8014,7 +10876,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "Arsena",
-                  "text": "Arsena monument in Mtskheta.",
+                  "text": "Arsena, a historic district in Mtskheta with medieval architecture and narrow streets.",
                   "category": "historical",
                   "coords": [
                         44.710738,
@@ -8023,7 +10885,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "Basilica",
-                  "text": "Ruins of a basilica in Mtskheta.",
+                  "text": "A historic basilica in the old town of Mtskheta from the early Christian period.",
                   "category": "historical",
                   "coords": [
                         44.721803,
@@ -8059,7 +10921,7 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
             },
             {
                   "name": "კარსანის ღვთისმშობლის ეკლესია",
-                  "text": "Karsani Church of the Holy Virgin in Mtskheta.",
+                  "text": "Georgian Orthodox church of the Mother of God in Karsani near Mtskheta.",
                   "category": "religious",
                   "coords": [
                         44.703602,

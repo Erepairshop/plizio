@@ -461,7 +461,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       "de": [
             {
                   "name": "End of Blue Holes hiking trail",
-                  "text": "Das Ziel eines Wanderwegs, der zu natürlichen Blue Holes im Kongo führt.",
+                  "text": "Endpunkt des Blue-Holes-Wanderwegs, einem Küstenpfad auf den Bahamas.",
                   "category": "landmark",
                   "coords": [
                         -77.585598,
@@ -472,7 +472,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "End of Blue Holes hiking trail",
-                  "text": "Egy túraútvonal célpontja, amely a Kongó természetes kék lyukaihoz vezet.",
+                  "text": "A Blue Holes túraútvonal vége, egy tengerparti ösvény a Bahamákon.",
                   "category": "landmark",
                   "coords": [
                         -77.585598,
@@ -483,7 +483,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "End of Blue Holes hiking trail",
-                  "text": "Destinația unei poteci de drumeție care duce la găurile albastre naturale din Congo.",
+                  "text": "Capătul traseului de drumeție Blue Holes, o potecă de coastă în Bahamas.",
                   "category": "landmark",
                   "coords": [
                         -77.585598,
@@ -494,7 +494,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       "en": [
             {
                   "name": "End of Blue Holes hiking trail",
-                  "text": "The end of a hiking trail leading to natural blue holes in Congo.",
+                  "text": "The terminus of the Blue Holes hiking trail, a coastal path in the Bahamas.",
                   "category": "landmark",
                   "coords": [
                         -77.585598,
@@ -1222,7 +1222,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
             },
             {
                   "name": "Hoppers Bay",
-                  "text": "Eine Bucht und lokale Attraktion in der Nähe von Stewart Manor.",
+                  "text": "Malerische Bucht mit klarem Wasser nahe Manor, Bahamas.",
                   "category": "landmark",
                   "coords": [
                         -75.80559,
@@ -1251,7 +1251,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
             },
             {
                   "name": "Hoppers Bay",
-                  "text": "Öböl és helyi látványosság Stewart Manor közelében.",
+                  "text": "Festői öböl tiszta vízzel Manor közelében, Bahamák.",
                   "category": "landmark",
                   "coords": [
                         -75.80559,
@@ -1280,7 +1280,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
             },
             {
                   "name": "Hoppers Bay",
-                  "text": "Un golf și o atracție locală în apropiere de Stewart Manor.",
+                  "text": "Un golf pitoresc cu ape limpezi lângă Manor, Bahamas.",
                   "category": "landmark",
                   "coords": [
                         -75.80559,
@@ -1309,7 +1309,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
             },
             {
                   "name": "Hoppers Bay",
-                  "text": "A bay and local attraction near Stewart Manor.",
+                  "text": "A scenic bay with clear waters near Manor, Bahamas.",
                   "category": "landmark",
                   "coords": [
                         -75.80559,

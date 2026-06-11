@@ -1015,7 +1015,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Cassa Espansione Burla",
-                  "text": "Der Cassa Espansione Burla in Parma ist ein ruhiges Gewässer.",
+                  "text": "Ein Hochwasserrückhaltebecken am Fluss Parma, heute Feuchtgebiet für Vögel.",
                   "category": "natural",
                   "coords": [
                         10.378809,
@@ -1024,7 +1024,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Piazzale Pablo",
-                  "text": "Der Piazzale Pablo in Parma bietet einen schönen Spielplatz.",
+                  "text": "Piazza Pablo mit Spielplatz und Bänken, benannt nach dem Dichter Pablo Neruda.",
                   "category": "family",
                   "coords": [
                         10.311097,
@@ -1033,7 +1033,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lubiana Playground",
-                  "text": "Der Lubiana Playground in Parma lädt zum Spielen ein.",
+                  "text": "Spielplatz Lubiana in Parma mit Rutschen und Schaukeln, benannt nach der slowenischen Hauptstadt.",
                   "category": "family",
                   "coords": [
                         10.351261,
@@ -1042,7 +1042,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Parco Ferrari Playground",
-                  "text": "Der Parco Ferrari Playground in Parma ist ideal für Familien.",
+                  "text": "Spielplatz im Parco Ferrari mit Klettergerüst und Schaukeln für Kinder.",
                   "category": "family",
                   "coords": [
                         10.339255,
@@ -1051,7 +1051,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Parco Vero Pellegrini",
-                  "text": "Der Parco Vero Pellegrini in Parma bietet einen Spielbereich.",
+                  "text": "Großer Park mit Kinderspielplatz und Spazierwegen im Parco Vero Pellegrini in Parma.",
                   "category": "family",
                   "coords": [
                         10.338662,
@@ -1060,7 +1060,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Divertilandia",
-                  "text": "Divertilandia in Parma ist ein unterhaltsamer Spielplatz.",
+                  "text": "Indoor-Spielcenter mit Bällenbad und Trampolinen in Parma.",
                   "category": "family",
                   "coords": [
                         10.318038,
@@ -1368,7 +1368,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Cassa Espansione Burla",
-                  "text": "A parmai Cassa Espansione Burla egy csendes állóvíz.",
+                  "text": "Árvizvédelmi tározó a Parma folyón, ma madárélőhely.",
                   "category": "natural",
                   "coords": [
                         10.378809,
@@ -1377,7 +1377,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Piazzale Pablo",
-                  "text": "A parmai Piazzale Pablo egy szép játszóteret kínál.",
+                  "text": "Pablo tér játszótérrel és padokkal, Pablo Neruda költőről elnevezve.",
                   "category": "family",
                   "coords": [
                         10.311097,
@@ -1386,7 +1386,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lubiana Playground",
-                  "text": "A parmai Lubiana Playground játékra hívogat.",
+                  "text": "Lubiana játszótér Pármában csúszdákkal és hintákkal, Ljubljanáról elnevezve.",
                   "category": "family",
                   "coords": [
                         10.351261,
@@ -1395,7 +1395,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Parco Ferrari Playground",
-                  "text": "A parmai Parco Ferrari Playground ideális családok számára.",
+                  "text": "Játszótér a Ferrari parkban mászókával és hintákkal.",
                   "category": "family",
                   "coords": [
                         10.339255,
@@ -1404,7 +1404,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Parco Vero Pellegrini",
-                  "text": "A parmai Parco Vero Pellegrini egy játszóteret kínál.",
+                  "text": "Nagy park játszótérrel és sétányokkal a parmai Parco Vero Pellegriniben.",
                   "category": "family",
                   "coords": [
                         10.338662,
@@ -1413,7 +1413,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Divertilandia",
-                  "text": "A parmai Divertilandia egy szórakoztató játszótér.",
+                  "text": "Fedett játszóház labdamedencével és trambulinokkal Pármában.",
                   "category": "family",
                   "coords": [
                         10.318038,
@@ -1721,7 +1721,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Cassa Espansione Burla",
-                  "text": "Cassa Espansione Burla din Parma este o apă stătătoare liniștită.",
+                  "text": "Un bazin de atenuare a inundațiilor pe râul Parma, acum zonă umedă pentru păsări.",
                   "category": "natural",
                   "coords": [
                         10.378809,
@@ -1730,7 +1730,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Piazzale Pablo",
-                  "text": "Piazzale Pablo din Parma oferă un loc de joacă frumos.",
+                  "text": "Piațeta Pablo cu loc de joacă și bănci, numită după poetul Pablo Neruda.",
                   "category": "family",
                   "coords": [
                         10.311097,
@@ -1739,7 +1739,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lubiana Playground",
-                  "text": "Lubiana Playground din Parma invită la joacă.",
+                  "text": "Loc de joacă Lubiana în Parma, cu tobogane și leagăne, numit după capitala Sloveniei.",
                   "category": "family",
                   "coords": [
                         10.351261,
@@ -1748,7 +1748,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Parco Ferrari Playground",
-                  "text": "Parco Ferrari Playground din Parma este ideal pentru familii.",
+                  "text": "Loc de joacă în Parco Ferrari, cu echipament de cățărare și leagăne.",
                   "category": "family",
                   "coords": [
                         10.339255,
@@ -1757,7 +1757,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Parco Vero Pellegrini",
-                  "text": "Parco Vero Pellegrini din Parma oferă o zonă de joacă.",
+                  "text": "Parcul mare Parco Vero Pellegrini cu loc de joacă și alei pentru plimbare în Parma.",
                   "category": "family",
                   "coords": [
                         10.338662,
@@ -1766,7 +1766,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Divertilandia",
-                  "text": "Divertilandia din Parma este un loc de joacă distractiv.",
+                  "text": "Centru de joacă interior cu bazin cu bile și trambuline în Parma.",
                   "category": "family",
                   "coords": [
                         10.318038,
@@ -2074,7 +2074,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Cassa Espansione Burla",
-                  "text": "Cassa Espansione Burla in Parma is a quiet body of water.",
+                  "text": "A flood control basin on the Parma River, now a wetland bird habitat.",
                   "category": "natural",
                   "coords": [
                         10.378809,
@@ -2083,7 +2083,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Piazzale Pablo",
-                  "text": "Piazzale Pablo in Parma offers a nice playground.",
+                  "text": "Piazzale Pablo square with playground and benches, named after poet Pablo Neruda.",
                   "category": "family",
                   "coords": [
                         10.311097,
@@ -2092,7 +2092,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lubiana Playground",
-                  "text": "Lubiana Playground in Parma invites play.",
+                  "text": "Lubiana Playground in Parma with slides and swings, named after Ljubljana.",
                   "category": "family",
                   "coords": [
                         10.351261,
@@ -2101,7 +2101,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Parco Ferrari Playground",
-                  "text": "Parco Ferrari Playground in Parma is ideal for families.",
+                  "text": "Playground in Parco Ferrari with a climbing structure and swings.",
                   "category": "family",
                   "coords": [
                         10.339255,
@@ -2110,7 +2110,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Parco Vero Pellegrini",
-                  "text": "Parco Vero Pellegrini in Parma offers a play area.",
+                  "text": "Large Parco Vero Pellegrini park with a dedicated play area and walking paths.",
                   "category": "family",
                   "coords": [
                         10.338662,
@@ -2119,7 +2119,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Divertilandia",
-                  "text": "Divertilandia in Parma is a fun playground.",
+                  "text": "Indoor play center with ball pits and trampolines in Parma.",
                   "category": "family",
                   "coords": [
                         10.318038,
@@ -2338,7 +2338,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Gazebo di Piazza Guido Rossa",
-                  "text": "Gazebo di Piazza Guido Rossa ist ein Spielbereich in Modena für Familien und Kinder.",
+                  "text": "Überdachter Pavillon auf der Piazza Guido Rossa mit Kinderfahrgeschäften in Modena.",
                   "category": "family",
                   "coords": [
                         10.894224,
@@ -2511,7 +2511,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Gazebo di Piazza Guido Rossa",
-                  "text": "A Gazebo di Piazza Guido Rossa egy játszóhely Modenában családok és gyermekek számára.",
+                  "text": "Fedett pavilon a Guido Rossa téren gyerekjátszóeszközökkel Modenában.",
                   "category": "family",
                   "coords": [
                         10.894224,
@@ -2684,7 +2684,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Gazebo di Piazza Guido Rossa",
-                  "text": "Gazebo di Piazza Guido Rossa este o zonă de joacă din Modena pentru familii și copii.",
+                  "text": "Un foișor acoperit în Piața Guido Rossa, cu echipamente de joacă pentru copii în Modena.",
                   "category": "family",
                   "coords": [
                         10.894224,
@@ -2857,7 +2857,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Gazebo di Piazza Guido Rossa",
-                  "text": "Gazebo di Piazza Guido Rossa is a play area in Modena for families and children.",
+                  "text": "Covered gazebo in Piazza Guido Rossa with children's rides in Modena.",
                   "category": "family",
                   "coords": [
                         10.894224,
@@ -3166,7 +3166,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Area gioco-bimbi",
-                  "text": "Ein Spielbereich für Kinder in Reggio Emilia.",
+                  "text": "Kleiner Spielplatz mit Sandkasten und Wippe im Zentrum von Reggio Emilia.",
                   "category": "family",
                   "coords": [
                         10.612307,
@@ -3193,7 +3193,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "tappeti elastici",
-                  "text": "Ein Spielbereich mit Trampolinen in Reggio Emilia für Kinder.",
+                  "text": "Trampolinpark mit mehreren Sprungmatten in Reggio Emilia.",
                   "category": "family",
                   "coords": [
                         10.613098,
@@ -3274,7 +3274,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Asineria Asini di Reggio Emilia",
-                  "text": "Asineria Asini di Reggio Emilia in Reggio Emilia ist ein Ausflugsziel für Familien, um Tiere zu beobachten.",
+                  "text": "Eselstreichelhof in Reggio Emilia, wo Kinder Esel reiten können.",
                   "category": "family",
                   "coords": [
                         10.671469,
@@ -3519,7 +3519,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Area gioco-bimbi",
-                  "text": "Játszóhely gyermekek számára Reggio Emiliában.",
+                  "text": "Kis játszótér homokozóval és libikókával Reggio Emilia központjában.",
                   "category": "family",
                   "coords": [
                         10.612307,
@@ -3546,7 +3546,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "tappeti elastici",
-                  "text": "Trambulinos játszóhely Reggio Emiliában gyermekek számára.",
+                  "text": "Trambulinpark több ugrómatraccal Reggio Emiliában.",
                   "category": "family",
                   "coords": [
                         10.613098,
@@ -3627,7 +3627,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Asineria Asini di Reggio Emilia",
-                  "text": "A Asineria Asini di Reggio Emilia egy állatkert Reggio Emilia területén, ahol a családok állatokat láthatnak.",
+                  "text": "Szamár simogató Reggio Emiliában, ahol a gyerekek szamarat lovagolhatnak.",
                   "category": "family",
                   "coords": [
                         10.671469,
@@ -3872,7 +3872,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Area gioco-bimbi",
-                  "text": "O zonă de joacă pentru copii în Reggio Emilia.",
+                  "text": "Un loc de joacă mic cu nisip și balansoar în centrul orașului Reggio Emilia.",
                   "category": "family",
                   "coords": [
                         10.612307,
@@ -3899,7 +3899,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "tappeti elastici",
-                  "text": "O zonă de joacă cu trambuline în Reggio Emilia pentru copii.",
+                  "text": "Un parc de trambuline cu mai multe pături de sărituri în Reggio Emilia.",
                   "category": "family",
                   "coords": [
                         10.613098,
@@ -3980,7 +3980,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Asineria Asini di Reggio Emilia",
-                  "text": "Asineria Asini di Reggio Emilia din Reggio Emilia este o destinație pentru familii pentru a vedea animale.",
+                  "text": "O fermă de măgari din Reggio Emilia unde copiii pot călări măgari.",
                   "category": "family",
                   "coords": [
                         10.671469,
@@ -4225,7 +4225,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Area gioco-bimbi",
-                  "text": "A play area for children in Reggio Emilia.",
+                  "text": "Small playground with a sandbox and seesaw in Reggio Emilia's city center.",
                   "category": "family",
                   "coords": [
                         10.612307,
@@ -4252,7 +4252,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "tappeti elastici",
-                  "text": "A trampoline play area in Reggio Emilia for children.",
+                  "text": "Trampoline park with multiple spring mats in Reggio Emilia.",
                   "category": "family",
                   "coords": [
                         10.613098,
@@ -4333,7 +4333,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Asineria Asini di Reggio Emilia",
-                  "text": "Asineria Asini di Reggio Emilia in Reggio Emilia is a destination for families to see animals.",
+                  "text": "Donkey petting farm in Reggio Emilia where children can ride donkeys.",
                   "category": "family",
                   "coords": [
                         10.671469,
@@ -4453,7 +4453,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Spiaggia pubblica Lungomare",
-                  "text": "Der öffentliche Strand an der Promenade von Tarent.",
+                  "text": "Kostenloser öffentlicher Strand an Tarantos Uferpromenade mit Badekabinen.",
                   "category": "recreational",
                   "coords": [
                         17.242811,
@@ -4462,7 +4462,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lido Chiapparo",
-                  "text": "Ein Küstenbereich mit Strandzugang in der Nähe von Tarent.",
+                  "text": "Lido Chiapparo – kostenpflichtiger Strandclub mit Sonnenschirmen und Bar an der Küste von Taranto.",
                   "category": "recreational",
                   "coords": [
                         17.24295,
@@ -4471,7 +4471,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "piscina inglese",
-                  "text": "Ein öffentliches Schwimmbad in Taranto, bekannt als 'piscina inglese'.",
+                  "text": "Meerwasser-Schwimmbecken in den Felsen gehauen, bekannt als Piscina Inglese in Taranto.",
                   "category": "recreational",
                   "coords": [
                         17.241349,
@@ -4545,7 +4545,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Spiaggia pubblica Lungomare",
-                  "text": "Nyilvános strand Taranto tengerparti sétánya mentén.",
+                  "text": "Ingyenes nyilvános strand Taranto tengerparti sétányán öltözőfülkékkel.",
                   "category": "recreational",
                   "coords": [
                         17.242811,
@@ -4554,7 +4554,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lido Chiapparo",
-                  "text": "Strandkapcsolattal rendelkező tengerparti terület Taranto közelében.",
+                  "text": "Lido Chiapparo fizetős strandklub napernyőkkel és bárral Taranto partján.",
                   "category": "recreational",
                   "coords": [
                         17.24295,
@@ -4563,7 +4563,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "piscina inglese",
-                  "text": "Nyilvános úszómedence Tarantóban, amelyet 'piscina inglese' néven ismernek.",
+                  "text": "Sziklába vájt tengervizes medence, a Piscina Inglese Tarantóban.",
                   "category": "recreational",
                   "coords": [
                         17.241349,
@@ -4637,7 +4637,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Spiaggia pubblica Lungomare",
-                  "text": "Plaja publică de pe faleza orașului Taranto.",
+                  "text": "Plajă publică gratuită de-a lungul promenadei din Taranto, cu cabine de baie.",
                   "category": "recreational",
                   "coords": [
                         17.242811,
@@ -4646,7 +4646,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lido Chiapparo",
-                  "text": "O zonă de coastă cu acces la plajă lângă Taranto.",
+                  "text": "Lido Chiapparo, un club de plajă cu taxă, cu umbrele și bar pe coasta Taranto.",
                   "category": "recreational",
                   "coords": [
                         17.24295,
@@ -4655,7 +4655,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "piscina inglese",
-                  "text": "O piscină publică în Taranto, cunoscută sub numele de „piscina inglese”.",
+                  "text": "Un bazin de apă sărată săpat în stâncă, cunoscut ca Piscina Inglese în Taranto.",
                   "category": "recreational",
                   "coords": [
                         17.241349,
@@ -4729,7 +4729,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Spiaggia pubblica Lungomare",
-                  "text": "The public beach along the promenade of Taranto.",
+                  "text": "Free public beach along Taranto's seafront promenade with changing cabins.",
                   "category": "recreational",
                   "coords": [
                         17.242811,
@@ -4738,7 +4738,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lido Chiapparo",
-                  "text": "A coastal area with beach access near Taranto.",
+                  "text": "Lido Chiapparo, a paid beach club with umbrellas and a bar on Taranto's coast.",
                   "category": "recreational",
                   "coords": [
                         17.24295,
@@ -4747,7 +4747,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "piscina inglese",
-                  "text": "A public swimming pool in Taranto, known as the 'piscina inglese'.",
+                  "text": "A seawater swimming pool carved into rocks, known as Piscina Inglese in Taranto.",
                   "category": "recreational",
                   "coords": [
                         17.241349,
@@ -4966,7 +4966,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Bacino idrico di Montemurlo",
-                  "text": "Das Bacino idrico di Montemurlo in Prato ist ein ruhiges Gewässer.",
+                  "text": "Stausee von Montemurlo, angelegt durch einen Damm, genutzt für Bewässerung und Angeln.",
                   "category": "natural",
                   "coords": [
                         11.075534,
@@ -4975,7 +4975,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago Inferno",
-                  "text": "Der Lago Inferno in Prato ist ein natürlicher See.",
+                  "text": "Kleiner, tiefer See in den Hügeln von Prato, benannt nach seinem dunklen Wasser.",
                   "category": "natural",
                   "coords": [
                         11.022405,
@@ -4984,7 +4984,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago Paradiso",
-                  "text": "Der Lago Paradiso in Prato ist ein idyllisches Gewässer.",
+                  "text": "Idyllischer See mit Wanderweg und Picknickplätzen in der Nähe von Prato.",
                   "category": "natural",
                   "coords": [
                         11.131664,
@@ -4993,7 +4993,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago Oceano",
-                  "text": "Der Lago Oceano in Prato ist ein schöner See.",
+                  "text": "Der größte See der Gegend, ideal zum Windsurfen in Prato.",
                   "category": "natural",
                   "coords": [
                         11.103443,
@@ -5002,7 +5002,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago dei Pioppi",
-                  "text": "Der Lago dei Pioppi in Prato ist ein ruhiger See.",
+                  "text": "Von Pappeln umgebener See, beliebt zur Vogelbeobachtung bei Prato.",
                   "category": "natural",
                   "coords": [
                         11.065446,
@@ -5011,7 +5011,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago di Solano",
-                  "text": "Der Lago di Solano in Prato ist ein See.",
+                  "text": "Angelseen, gespeist von einer Quelle, in der Nähe von Prato.",
                   "category": "natural",
                   "coords": [
                         11.098809,
@@ -5020,7 +5020,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "La Laghina",
-                  "text": "La Laghina in Prato ist ein See.",
+                  "text": "Kleiner Teich auf einer Wiese, ideal für Kinder zum Plantschen bei Prato.",
                   "category": "natural",
                   "coords": [
                         11.013802,
@@ -5029,7 +5029,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago Calvana",
-                  "text": "Der Lago Calvana in Prato ist ein See.",
+                  "text": "Natursee am Monte Calvana mit klarem Wasser bei Prato.",
                   "category": "natural",
                   "coords": [
                         11.162259,
@@ -5038,7 +5038,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Pratolandia",
-                  "text": "Pratolandia in Prato ist ein toller Spielplatz für die ganze Familie.",
+                  "text": "Vergnügungspark mit Go-Karts und Mini-Zug in Prato.",
                   "category": "family",
                   "coords": [
                         11.065979,
@@ -5047,7 +5047,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "La casa sull'albero",
-                  "text": "La casa sull'albero in Prato ist ein schöner Spielplatz.",
+                  "text": "Restaurant und Spielbereich, erbaut um eine große Eiche herum in Prato.",
                   "category": "family",
                   "coords": [
                         11.116153,
@@ -5211,7 +5211,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Bacino idrico di Montemurlo",
-                  "text": "A pratói Bacino idrico di Montemurlo egy csendes állóvíz.",
+                  "text": "Montemurlo víztározó, gáttal létrehozva, öntözésre és horgászatra használják.",
                   "category": "natural",
                   "coords": [
                         11.075534,
@@ -5220,7 +5220,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago Inferno",
-                  "text": "A pratói Lago Inferno egy természetes tó.",
+                  "text": "Kis, mély tó Prato dombjai között, a sötét vízről kapta nevét.",
                   "category": "natural",
                   "coords": [
                         11.022405,
@@ -5229,7 +5229,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago Paradiso",
-                  "text": "A pratói Lago Paradiso egy idilli állóvíz.",
+                  "text": "Festői tó sétánnyal és piknikhelyekkel Prato közelében.",
                   "category": "natural",
                   "coords": [
                         11.131664,
@@ -5238,7 +5238,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago Oceano",
-                  "text": "A pratói Lago Oceano egy gyönyörű tó.",
+                  "text": "A környék legnagyobb tava, alkalmas szörfözésre Pratóban.",
                   "category": "natural",
                   "coords": [
                         11.103443,
@@ -5247,7 +5247,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago dei Pioppi",
-                  "text": "A pratói Lago dei Pioppi egy nyugodt tó.",
+                  "text": "Nyárfákkal körülvett tó, madárfigyelésre alkalmas Prato mellett.",
                   "category": "natural",
                   "coords": [
                         11.065446,
@@ -5256,7 +5256,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago di Solano",
-                  "text": "A pratói Lago di Solano egy tó.",
+                  "text": "Forrásból táplált horgásztó Prato közelében.",
                   "category": "natural",
                   "coords": [
                         11.098809,
@@ -5265,7 +5265,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "La Laghina",
-                  "text": "A pratói La Laghina egy tó.",
+                  "text": "Kis tócska a réten, gyerekek pancsolására alkalmas Prato mellett.",
                   "category": "natural",
                   "coords": [
                         11.013802,
@@ -5274,7 +5274,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago Calvana",
-                  "text": "A pratói Lago Calvana egy tó.",
+                  "text": "Természetes tó a Monte Calvana lejtőin tiszta vízzel Prato mellett.",
                   "category": "natural",
                   "coords": [
                         11.162259,
@@ -5283,7 +5283,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Pratolandia",
-                  "text": "A pratói Pratolandia nagyszerű játszótér az egész család számára.",
+                  "text": "Vidámpark gokarttal és kisvonattal Pratóban.",
                   "category": "family",
                   "coords": [
                         11.065979,
@@ -5292,7 +5292,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "La casa sull'albero",
-                  "text": "A pratói La casa sull'albero egy kellemes játszótér.",
+                  "text": "Étterem és játszótér egy nagy tölgyfa köré építve Pratóban.",
                   "category": "family",
                   "coords": [
                         11.116153,
@@ -5456,7 +5456,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Bacino idrico di Montemurlo",
-                  "text": "Bacino idrico di Montemurlo din Prato este o apă stătătoare liniștită.",
+                  "text": "Lacul de acumulare Montemurlo, creat de un baraj, folosit pentru irigații și pescuit.",
                   "category": "natural",
                   "coords": [
                         11.075534,
@@ -5465,7 +5465,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago Inferno",
-                  "text": "Lago Inferno din Prato este un lac natural.",
+                  "text": "Un lac mic și adânc în dealurile din Prato, numit pentru apa întunecată.",
                   "category": "natural",
                   "coords": [
                         11.022405,
@@ -5474,7 +5474,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago Paradiso",
-                  "text": "Lago Paradiso din Prato este o apă stătătoare idilică.",
+                  "text": "Lac idilic cu potecă de plimbare și zone de picnic lângă Prato.",
                   "category": "natural",
                   "coords": [
                         11.131664,
@@ -5483,7 +5483,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago Oceano",
-                  "text": "Lago Oceano din Prato este un lac frumos.",
+                  "text": "Cel mai mare lac din zonă, potrivit pentru windsurfing lângă Prato.",
                   "category": "natural",
                   "coords": [
                         11.103443,
@@ -5492,7 +5492,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago dei Pioppi",
-                  "text": "Lago dei Pioppi din Prato este un lac liniștit.",
+                  "text": "Lac înconjurat de plopi, popular pentru observarea păsărilor lângă Prato.",
                   "category": "natural",
                   "coords": [
                         11.065446,
@@ -5501,7 +5501,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago di Solano",
-                  "text": "Lago di Solano din Prato este un lac.",
+                  "text": "Lac de pescuit alimentat de un izvor lângă Prato.",
                   "category": "natural",
                   "coords": [
                         11.098809,
@@ -5510,7 +5510,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "La Laghina",
-                  "text": "La Laghina din Prato este un lac.",
+                  "text": "Un mic iaz într-o pajiște, ideal pentru copii să se joace în apă lângă Prato.",
                   "category": "natural",
                   "coords": [
                         11.013802,
@@ -5519,7 +5519,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago Calvana",
-                  "text": "Lago Calvana din Prato este un lac.",
+                  "text": "Lac natural pe versanții Monte Calvana, cu apă curată lângă Prato.",
                   "category": "natural",
                   "coords": [
                         11.162259,
@@ -5528,7 +5528,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Pratolandia",
-                  "text": "Pratolandia din Prato este un loc de joacă minunat pentru întreaga familie.",
+                  "text": "Parc de distracții cu mașinuțe și trenuleț în Prato.",
                   "category": "family",
                   "coords": [
                         11.065979,
@@ -5537,7 +5537,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "La casa sull'albero",
-                  "text": "La casa sull'albero din Prato este un loc de joacă plăcut.",
+                  "text": "Restaurant și zonă de joacă construit în jurul unui stejar bătrân în Prato.",
                   "category": "family",
                   "coords": [
                         11.116153,
@@ -5701,7 +5701,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Bacino idrico di Montemurlo",
-                  "text": "Bacino idrico di Montemurlo in Prato is a quiet body of water.",
+                  "text": "Montemurlo reservoir created by a dam, used for irrigation and fishing.",
                   "category": "natural",
                   "coords": [
                         11.075534,
@@ -5710,7 +5710,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago Inferno",
-                  "text": "Lago Inferno in Prato is a natural lake.",
+                  "text": "A small, deep lake in the hills of Prato, named for its dark water.",
                   "category": "natural",
                   "coords": [
                         11.022405,
@@ -5719,7 +5719,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago Paradiso",
-                  "text": "Lago Paradiso in Prato is an idyllic body of water.",
+                  "text": "Scenic lake with a walking path and picnic areas near Prato.",
                   "category": "natural",
                   "coords": [
                         11.131664,
@@ -5728,7 +5728,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago Oceano",
-                  "text": "Lago Oceano in Prato is a beautiful lake.",
+                  "text": "The largest lake in the area, used for windsurfing near Prato.",
                   "category": "natural",
                   "coords": [
                         11.103443,
@@ -5737,7 +5737,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago dei Pioppi",
-                  "text": "Lago dei Pioppi in Prato is a calm lake.",
+                  "text": "Lake surrounded by poplars, popular for birdwatching near Prato.",
                   "category": "natural",
                   "coords": [
                         11.065446,
@@ -5746,7 +5746,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago di Solano",
-                  "text": "Lago di Solano in Prato is a lake.",
+                  "text": "A fishing lake fed by a spring near Prato.",
                   "category": "natural",
                   "coords": [
                         11.098809,
@@ -5755,7 +5755,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "La Laghina",
-                  "text": "La Laghina in Prato is a lake.",
+                  "text": "A tiny pond in a meadow, perfect for children to paddle near Prato.",
                   "category": "natural",
                   "coords": [
                         11.013802,
@@ -5764,7 +5764,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago Calvana",
-                  "text": "Lago Calvana in Prato is a lake.",
+                  "text": "Natural lake on the slopes of Monte Calvana with clear water near Prato.",
                   "category": "natural",
                   "coords": [
                         11.162259,
@@ -5773,7 +5773,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Pratolandia",
-                  "text": "Pratolandia in Prato is a great playground for the whole family.",
+                  "text": "Amusement park with go-karts and a mini-train in Prato.",
                   "category": "family",
                   "coords": [
                         11.065979,
@@ -5782,7 +5782,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "La casa sull'albero",
-                  "text": "La casa sull'albero in Prato is a nice playground.",
+                  "text": "A restaurant and play area built around a large oak tree in Prato.",
                   "category": "family",
                   "coords": [
                         11.116153,
@@ -5893,7 +5893,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Forte Petrazza",
-                  "text": "Ein historisches Fort, das zur Verteidigung von Messina diente.",
+                  "text": "Küstenfestung aus dem 16. Jahrhundert an der Straße von Messina.",
                   "category": "fortress",
                   "coords": [
                         15.528155,
@@ -5967,7 +5967,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Forte Petrazza",
-                  "text": "Történelmi erőd, amely Messina védelmét szolgálta.",
+                  "text": "16. századi tengerparti erőd a Messinai-szorosnál.",
                   "category": "fortress",
                   "coords": [
                         15.528155,
@@ -6041,7 +6041,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Forte Petrazza",
-                  "text": "Un fort istoric care a servit la apărarea orașului Messina.",
+                  "text": "Fortăreață de coastă din secolul al XVI-lea la Strâmtoarea Messina.",
                   "category": "fortress",
                   "coords": [
                         15.528155,
@@ -6115,7 +6115,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Forte Petrazza",
-                  "text": "A historic fort that served the defense of Messina.",
+                  "text": "16th-century coastal fortress on the Strait of Messina.",
                   "category": "fortress",
                   "coords": [
                         15.528155,
@@ -8359,7 +8359,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "MEIS - Museo nazionale dell’Ebraismo Italiano e della Shoah",
-                  "text": "Nationalmuseum, das die Geschichte des italienischen Judentums und das Gedenken an die Shoah dokumentiert.",
+                  "text": "Museum im ehemaligen Gefängnis von Ferrara, das der jüdischen Geschichte Italiens gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         11.613404,
@@ -8640,7 +8640,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "MEIS - Museo nazionale dell’Ebraismo Italiano e della Shoah",
-                  "text": "Nemzeti múzeum, amely az olasz zsidóság történelmét és a soá emlékezetét dolgozza fel.",
+                  "text": "Múzeum Ferrara egykori börtönében, az olasz zsidó történelemnek szentelve.",
                   "category": "museum",
                   "coords": [
                         11.613404,
@@ -8921,7 +8921,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "MEIS - Museo nazionale dell’Ebraismo Italiano e della Shoah",
-                  "text": "Muzeul național dedicat istoriei iudaismului italian și comemorării Shoah-ului.",
+                  "text": "Muzeu în fosta închisoare a Ferrara, dedicat istoriei evreilor italieni.",
                   "category": "museum",
                   "coords": [
                         11.613404,
@@ -9202,7 +9202,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "National Museum of Italian Judaism and the Shoah",
-                  "text": "National museum documenting the history of Italian Judaism and the commemoration of the Shoah.",
+                  "text": "Museum in the former prison of Ferrara, dedicated to Italian Jewish history.",
                   "category": "museum",
                   "coords": [
                         11.613404,
@@ -9610,7 +9610,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Spiaggia dello Scoglione",
-                  "text": "Spiaggia dello Scoglione ist ein Strand in Salerno.",
+                  "text": "Felsiger Strand mit großer Felsnase, beliebt zum Sonnenbaden in Salerno.",
                   "category": "recreational",
                   "coords": [
                         14.717775,
@@ -9619,7 +9619,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Spiaggia dei Ninnilli",
-                  "text": "Spiaggia dei Ninnilli ist ein Strand in Salerno.",
+                  "text": "Kieselstrand mit klarem Wasser und einem Imbissstand in Salerno.",
                   "category": "recreational",
                   "coords": [
                         14.719264,
@@ -9792,7 +9792,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Spiaggia dello Scoglione",
-                  "text": "Spiaggia dello Scoglione egy strand Salerno területén.",
+                  "text": "Sziklás strand nagy sziklaképződménnyel, napozásra alkalmas Salernóban.",
                   "category": "recreational",
                   "coords": [
                         14.717775,
@@ -9801,7 +9801,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Spiaggia dei Ninnilli",
-                  "text": "Spiaggia dei Ninnilli egy strand Salerno területén.",
+                  "text": "Kavicsos strand tiszta vízzel és büfével Salernóban.",
                   "category": "recreational",
                   "coords": [
                         14.719264,
@@ -9974,7 +9974,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Spiaggia dello Scoglione",
-                  "text": "Spiaggia dello Scoglione este o plajă în Salerno.",
+                  "text": "Plajă stâncoasă cu un promontoriu mare, populară pentru plajă în Salerno.",
                   "category": "recreational",
                   "coords": [
                         14.717775,
@@ -9983,7 +9983,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Spiaggia dei Ninnilli",
-                  "text": "Spiaggia dei Ninnilli este o plajă în Salerno.",
+                  "text": "Plajă de pietriș cu apă limpede și un snack bar în Salerno.",
                   "category": "recreational",
                   "coords": [
                         14.719264,
@@ -10156,7 +10156,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Spiaggia dello Scoglione",
-                  "text": "Spiaggia dello Scoglione is a beach in Salerno.",
+                  "text": "Rocky beach with a large promontory, popular for sunbathing in Salerno.",
                   "category": "recreational",
                   "coords": [
                         14.717775,
@@ -10165,7 +10165,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Spiaggia dei Ninnilli",
-                  "text": "Spiaggia dei Ninnilli is a beach in Salerno.",
+                  "text": "Pebble beach with clear water and a snack bar in Salerno.",
                   "category": "recreational",
                   "coords": [
                         14.719264,
@@ -10339,7 +10339,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago F.I.P.S.A.S.",
-                  "text": "Ein lokaler See in Novara, ideal für eine Pause im Freien.",
+                  "text": "Angelseenreservat des FIPSAS in Novara, mit Karpfen besetzt.",
                   "category": "natural",
                   "coords": [
                         8.56299,
@@ -10348,7 +10348,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Oratorio San Martino",
-                  "text": "Ein Spielbereich in Novara, der Spaß für Kinder bietet.",
+                  "text": "Pfarrjugendzentrum mit Sportplätzen und einer Kapelle, dem heiligen Martin geweiht in Novara.",
                   "category": "family",
                   "coords": [
                         8.607504,
@@ -10503,7 +10503,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago F.I.P.S.A.S.",
-                  "text": "Helyi tó Novarában, amely ideális egy szabadtéri pihenőhöz.",
+                  "text": "FIPSAS horgászrezervátum Novarában, pontyokkal telepítve.",
                   "category": "natural",
                   "coords": [
                         8.56299,
@@ -10512,7 +10512,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Oratorio San Martino",
-                  "text": "Játszóhely Novarában, amely szórakozást nyújt a gyerekeknek.",
+                  "text": "Plébániai ifjúsági központ sportpályákkal és kápolnával, Szent Mártonnak szentelve Novarában.",
                   "category": "family",
                   "coords": [
                         8.607504,
@@ -10667,7 +10667,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago F.I.P.S.A.S.",
-                  "text": "Un lac local din Novara, ideal pentru o pauză în aer liber.",
+                  "text": "Rezervație de pescuit FIPSAS în Novara, populată cu crapi.",
                   "category": "natural",
                   "coords": [
                         8.56299,
@@ -10676,7 +10676,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Oratorio San Martino",
-                  "text": "O zonă de joacă din Novara care oferă distracție pentru copii.",
+                  "text": "Centru de tineret parohial cu terenuri de sport și o capelă, dedicat Sfântului Martin în Novara.",
                   "category": "family",
                   "coords": [
                         8.607504,
@@ -10831,7 +10831,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago F.I.P.S.A.S.",
-                  "text": "A local lake in Novara, ideal for an outdoor break.",
+                  "text": "FIPSAS fishing reserve lake in Novara, stocked with carp.",
                   "category": "natural",
                   "coords": [
                         8.56299,
@@ -10840,7 +10840,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Oratorio San Martino",
-                  "text": "A play area in Novara providing fun for children.",
+                  "text": "Parish youth center with sports fields and a chapel, dedicated to Saint Martin in Novara.",
                   "category": "family",
                   "coords": [
                         8.607504,
@@ -11041,7 +11041,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "lago di cava",
-                  "text": "Der Lago di cava in Piacenza ist ein See.",
+                  "text": "Ehemaliger Kiesabbau, jetzt ein See zum Schwimmen und Angeln in Piacenza.",
                   "category": "natural",
                   "coords": [
                         9.773415,
@@ -11205,7 +11205,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "lago di cava",
-                  "text": "A piacenzai Lago di cava egy tó.",
+                  "text": "Egykori kavicsbánya, ma tó úszáshoz és horgászathoz Piacenzában.",
                   "category": "natural",
                   "coords": [
                         9.773415,
@@ -11369,7 +11369,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "lago di cava",
-                  "text": "Lago di cava din Piacenza este un lac.",
+                  "text": "Fostă carieră de pietriș, acum lac pentru înot și pescuit în Piacenza.",
                   "category": "natural",
                   "coords": [
                         9.773415,
@@ -11533,7 +11533,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "lago di cava",
-                  "text": "Lago di cava in Piacenza is a lake.",
+                  "text": "Former gravel quarry turned into a lake for swimming and fishing in Piacenza.",
                   "category": "natural",
                   "coords": [
                         9.773415,
@@ -11662,7 +11662,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Museo archeologico nazionale delle Marche",
-                  "text": "Das nationale Archäologiemuseum für die Region Marken in Ancona.",
+                  "text": "Archäologisches Museum in einem Palazzo aus dem 16. Jahrhundert, mit prähistorischen Funden aus den Marken.",
                   "category": "museum",
                   "coords": [
                         13.510747,
@@ -11680,7 +11680,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Cittadella",
-                  "text": "Eine historische Zitadelle, die über der Stadt Ancona thront.",
+                  "text": "Fünfeckige Festung aus dem 16. Jahrhundert auf dem Colle Guasco.",
                   "category": "castle",
                   "coords": [
                         13.508794,
@@ -11707,7 +11707,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Spiaggia della Vena",
-                  "text": "Spiaggia della Vena ist ein Strand in Ancona an der Adriaküste.",
+                  "text": "Sandstrand nahe dem Viertel Vena mit Blick auf den Monte Conero in Ancona.",
                   "category": "recreational",
                   "coords": [
                         13.554599,
@@ -11716,7 +11716,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Piscina del Passetto",
-                  "text": "Piscina del Passetto ist ein öffentliches Schwimmbad in Ancona.",
+                  "text": "Öffentliches Schwimmbad am Passetto mit Meerblick in Ancona.",
                   "category": "recreational",
                   "coords": [
                         13.536331,
@@ -11763,7 +11763,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Museo archeologico nazionale delle Marche",
-                  "text": "Marche régió nemzeti régészeti múzeuma Anconában.",
+                  "text": "Régészeti múzeum egy 16. századi palotában, a Marche régió őskori leleteivel.",
                   "category": "museum",
                   "coords": [
                         13.510747,
@@ -11781,7 +11781,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Cittadella",
-                  "text": "Történelmi citadella, amely Ancona városa fölé magasodik.",
+                  "text": "Ötszögletű erőd a 16. századból a Colle Guasco-n.",
                   "category": "castle",
                   "coords": [
                         13.508794,
@@ -11808,7 +11808,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Spiaggia della Vena",
-                  "text": "A Spiaggia della Vena egy tengerparti strand Ancona városában.",
+                  "text": "Homokos strand a Vena negyed közelében, Monte Conero kilátással Anconában.",
                   "category": "recreational",
                   "coords": [
                         13.554599,
@@ -11817,7 +11817,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Piscina del Passetto",
-                  "text": "A Piscina del Passetto egy nyilvános uszoda Anconában.",
+                  "text": "Nyilvános uszoda a Passetto mellett tengeri kilátással Anconában.",
                   "category": "recreational",
                   "coords": [
                         13.536331,
@@ -11864,7 +11864,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Museo archeologico nazionale delle Marche",
-                  "text": "Muzeul național de arheologie pentru regiunea Marche, situat în Ancona.",
+                  "text": "Muzeu arheologic într-un palat din secolul al XVI-lea, cu artefacte preistorice din Marche.",
                   "category": "museum",
                   "coords": [
                         13.510747,
@@ -11882,7 +11882,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Cittadella",
-                  "text": "O citadelă istorică situată deasupra orașului Ancona.",
+                  "text": "Fortăreață pentagonală din secolul al XVI-lea pe Colle Guasco.",
                   "category": "castle",
                   "coords": [
                         13.508794,
@@ -11909,7 +11909,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Spiaggia della Vena",
-                  "text": "Spiaggia della Vena este o plajă în Ancona.",
+                  "text": "Plajă cu nisip lângă cartierul Vena, cu vedere la Monte Conero în Ancona.",
                   "category": "recreational",
                   "coords": [
                         13.554599,
@@ -11918,7 +11918,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Piscina del Passetto",
-                  "text": "Piscina del Passetto este o piscină publică situată în Ancona.",
+                  "text": "Piscină publică lângă Passetto, cu vedere la mare în Ancona.",
                   "category": "recreational",
                   "coords": [
                         13.536331,
@@ -11965,7 +11965,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Museo archeologico nazionale delle Marche",
-                  "text": "The national archaeology museum for the Marche region, located in Ancona.",
+                  "text": "Archaeological museum in a 16th-century palazzo, with prehistoric artifacts from the Marche region.",
                   "category": "museum",
                   "coords": [
                         13.510747,
@@ -11983,7 +11983,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Cittadella",
-                  "text": "A historic citadel overlooking the city of Ancona.",
+                  "text": "Pentagonal fortress from the 16th century on Colle Guasco.",
                   "category": "castle",
                   "coords": [
                         13.508794,
@@ -12010,7 +12010,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Spiaggia della Vena",
-                  "text": "Spiaggia della Vena is a beach located in Ancona.",
+                  "text": "Sandy beach near the Vena district with views of Monte Conero in Ancona.",
                   "category": "recreational",
                   "coords": [
                         13.554599,
@@ -12019,7 +12019,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Piscina del Passetto",
-                  "text": "Piscina del Passetto is a public swimming pool located in Ancona.",
+                  "text": "Public swimming pool next to the Passetto promenade with sea views in Ancona.",
                   "category": "recreational",
                   "coords": [
                         13.536331,
@@ -12769,7 +12769,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago di Borgo Paglia",
-                  "text": "Ein ruhiger See bei Cesena, ideal für einen Spaziergang.",
+                  "text": "Kleiner See in Borgo Paglia, umgeben von Wäldern, ideal zum Spazierengehen in Cesena.",
                   "category": "natural",
                   "coords": [
                         12.214804,
@@ -12787,7 +12787,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Parco per Fabio",
-                  "text": "Ein lokaler Spielplatz in Cesena für Kinder aus der Umgebung.",
+                  "text": "Spielplatz und Grünanlage, Fabio gewidmet, mit Basketballplatz in Cesena.",
                   "category": "family",
                   "coords": [
                         12.227669,
@@ -12897,7 +12897,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago di Borgo Paglia",
-                  "text": "Csendes tó Cesena közelében, amely ideális egy sétához.",
+                  "text": "Kis tó Borgo Pagliában, erdővel körülvéve, sétáláshoz ideális Cesenában.",
                   "category": "natural",
                   "coords": [
                         12.214804,
@@ -12915,7 +12915,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Parco per Fabio",
-                  "text": "Helyi játszótér Cesenában a környékbeli gyerekeknek.",
+                  "text": "Játszótér és zöldterület Fabio emlékére, kosárlabdapályával Cesenában.",
                   "category": "family",
                   "coords": [
                         12.227669,
@@ -13025,7 +13025,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago di Borgo Paglia",
-                  "text": "Un lac liniștit lângă Cesena, ideal pentru o plimbare.",
+                  "text": "Lac mic în Borgo Paglia, înconjurat de păduri, ideal pentru plimbări în Cesena.",
                   "category": "natural",
                   "coords": [
                         12.214804,
@@ -13043,7 +13043,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Parco per Fabio",
-                  "text": "Un loc de joacă local din Cesena pentru copiii din zonă.",
+                  "text": "Loc de joacă și spațiu verde dedicat lui Fabio, cu teren de baschet în Cesena.",
                   "category": "family",
                   "coords": [
                         12.227669,
@@ -13153,7 +13153,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago di Borgo Paglia",
-                  "text": "A peaceful lake near Cesena, ideal for a walk.",
+                  "text": "Small lake in Borgo Paglia, surrounded by woods, ideal for walking in Cesena.",
                   "category": "natural",
                   "coords": [
                         12.214804,
@@ -13171,7 +13171,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Parco per Fabio",
-                  "text": "A local playground in Cesena for children in the area.",
+                  "text": "Playground and green space dedicated to Fabio, with a basketball court in Cesena.",
                   "category": "family",
                   "coords": [
                         12.227669,
@@ -13363,7 +13363,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago FoMa",
-                  "text": "Der Lago FoMa in Forli ist ein See.",
+                  "text": "Angelseen in der Forlì-Kampagne, aus einer Tongrube entstanden.",
                   "category": "natural",
                   "coords": [
                         12.088132,
@@ -13509,7 +13509,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago FoMa",
-                  "text": "A forli-i Lago FoMa egy tó.",
+                  "text": "Horgásztó Forlì vidékén, agyaggödörből kialakítva.",
                   "category": "natural",
                   "coords": [
                         12.088132,
@@ -13655,7 +13655,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago FoMa",
-                  "text": "Lago FoMa din Forli este un lac.",
+                  "text": "Lac de pescuit în zona rurală Forlì, creat dintr-o fostă carieră de lut.",
                   "category": "natural",
                   "coords": [
                         12.088132,
@@ -13801,7 +13801,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago FoMa",
-                  "text": "Lago FoMa in Forli is a lake.",
+                  "text": "Fishing lake in the Forlì countryside, created from a former clay pit.",
                   "category": "natural",
                   "coords": [
                         12.088132,
@@ -14074,7 +14074,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Cattedrale di San Lorenzo",
-                  "text": "Die Kathedrale von Grosseto ist ein bedeutendes religiöses Bauwerk im Stadtzentrum.",
+                  "text": "Romanisch-gotischer Dom in Grosseto mit einer Marmorfassade und einem Madonnengemälde aus dem 17. Jahrhundert.",
                   "category": "religious",
                   "coords": [
                         11.113946,
@@ -14083,7 +14083,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Basilica del Sacro Cuore di Gesù",
-                  "text": "Die Basilica del Sacro Cuore di Gesù ist eine markante Kirche in Grosseto.",
+                  "text": "Neugotische Basilika aus dem 20. Jahrhundert im Zentrum von Grosseto.",
                   "category": "religious",
                   "coords": [
                         11.114373,
@@ -14101,7 +14101,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Parco Giovanni Paolo II",
-                  "text": "Der Parco Giovanni Paolo II in Grosseto ist ein öffentlicher Park mit einem Spielplatz für Familien.",
+                  "text": "Großer Stadtpark, benannt nach Papst Johannes Paul II., mit Spielplatz und Joggingstrecke in Grosseto.",
                   "category": "family",
                   "coords": [
                         11.10658,
@@ -14355,7 +14355,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Cattedrale di San Lorenzo",
-                  "text": "A grossetói székesegyház a város központjában található jelentős vallási épület.",
+                  "text": "Román-gótikus székesegyház Grossetóban, márványhomlokzattal és egy 17. századi Mária-képpel.",
                   "category": "religious",
                   "coords": [
                         11.113946,
@@ -14364,7 +14364,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Basilica del Sacro Cuore di Gesù",
-                  "text": "A Basilica del Sacro Cuore di Gesù Grosseto egyik jellegzetes temploma.",
+                  "text": "Neogótikus bazilika a 20. századból Grosseto központjában.",
                   "category": "religious",
                   "coords": [
                         11.114373,
@@ -14382,7 +14382,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Parco Giovanni Paolo II",
-                  "text": "A grossetói Parco Giovanni Paolo II egy nyilvános park játszótérrel a családok számára.",
+                  "text": "Nagy városi park, II. János Pál pápáról elnevezve, játszótérrel és futópályával Grossetóban.",
                   "category": "family",
                   "coords": [
                         11.10658,
@@ -14636,7 +14636,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Cattedrale di San Lorenzo",
-                  "text": "Catedrala din Grosseto este un edificiu religios important situat în centrul orașului.",
+                  "text": "Catedrală romanico-gotică în Grosseto, cu fațadă de marmură și o pictură a Madonei din secolul al XVII-lea.",
                   "category": "religious",
                   "coords": [
                         11.113946,
@@ -14645,7 +14645,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Basilica del Sacro Cuore di Gesù",
-                  "text": "Basilica del Sacro Cuore di Gesù este o biserică marcantă din Grosseto.",
+                  "text": "Bazilică neogotică din secolul al XX-lea în centrul orașului Grosseto.",
                   "category": "religious",
                   "coords": [
                         11.114373,
@@ -14663,7 +14663,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Parco Giovanni Paolo II",
-                  "text": "Parco Giovanni Paolo II din Grosseto este un parc public cu un loc de joacă pentru familii.",
+                  "text": "Parcul urban mare numit după Papa Ioan Paul al II-lea, cu loc de joacă și pistă de alergare în Grosseto.",
                   "category": "family",
                   "coords": [
                         11.10658,
@@ -14917,7 +14917,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Grosseto Cathedral",
-                  "text": "Grosseto Cathedral is a prominent religious building located in the city center.",
+                  "text": "Romanesque-Gothic cathedral in Grosseto, with marble facade and a 17th-century Madonna painting.",
                   "category": "religious",
                   "coords": [
                         11.113946,
@@ -14926,7 +14926,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Basilica del Sacro Cuore di Gesù",
-                  "text": "The Basilica del Sacro Cuore di Gesù is a notable church in Grosseto.",
+                  "text": "Neo-Gothic basilica from the 20th century in Grosseto's city center.",
                   "category": "religious",
                   "coords": [
                         11.114373,
@@ -14944,7 +14944,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Parco Giovanni Paolo II",
-                  "text": "Parco Giovanni Paolo II in Grosseto is a public park with a playground for families.",
+                  "text": "Large urban park named after Pope John Paul II, with a playground and jogging track in Grosseto.",
                   "category": "family",
                   "coords": [
                         11.10658,
@@ -15955,7 +15955,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Bagni Pancaldi",
-                  "text": "Bagni Pancaldi ist ein historisches Strandbad in Livorno.",
+                  "text": "Strandbad Bagni Pancaldi mit einer Mole an der Livornoer Uferpromenade.",
                   "category": "recreational",
                   "coords": [
                         10.302773,
@@ -15964,7 +15964,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Spiaggia del Felciaio",
-                  "text": "Spiaggia del Felciaio ist ein malerischer Strand in Livorno.",
+                  "text": "Sandstrand Spiaggia del Felciaio an der livornesischen Küste.",
                   "category": "recreational",
                   "coords": [
                         10.315178,
@@ -15973,7 +15973,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Scogli della Rotonda",
-                  "text": "Scogli della Rotonda ist ein felsiger Küstenabschnitt in Livorno.",
+                  "text": "Felsstrand Scogli della Rotonda nahe dem Rotonda-Platz in Livorno.",
                   "category": "recreational",
                   "coords": [
                         10.315389,
@@ -15982,7 +15982,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Onde del Tirreno Srl ex Bagni Pejani",
-                  "text": "Onde del Tirreno Srl ist ein Strandbad in Livorno, ehemals Bagni Pejani.",
+                  "text": "Ehemaliges Bagni Pejani, heute Onde del Tirreno Srl – Strandclub an der livornesischen Küste.",
                   "category": "recreational",
                   "coords": [
                         10.316095,
@@ -15991,7 +15991,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Bagni Tirreno",
-                  "text": "Bagni Tirreno ist ein gut ausgestattetes Strandbad in Livorno.",
+                  "text": "Strandbad Bagni Tirreno am Tyrrhenischen Meer in Livorno.",
                   "category": "recreational",
                   "coords": [
                         10.299571,
@@ -16000,7 +16000,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Bagni Fiume",
-                  "text": "Bagni Fiume ist eine traditionelle Badeanstalt an der Küste von Livorno.",
+                  "text": "Strandbad Bagni Fiume (benannt nach dem Fluss) an der livornesischen Küste.",
                   "category": "recreational",
                   "coords": [
                         10.31364,
@@ -16009,7 +16009,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Bagni Nettuno",
-                  "text": "Bagni Nettuno ist ein beliebtes Strandresort in Livorno.",
+                  "text": "Strandbad Bagni Nettuno mit Neptun-Motiv in Livorno.",
                   "category": "recreational",
                   "coords": [
                         10.300646,
@@ -16018,7 +16018,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Spiaggia dell'Accademia",
-                  "text": "Spiaggia dell'Accademia ist ein öffentlicher Strand in Livorno.",
+                  "text": "Strand Spiaggia dell'Accademia nahe der Marineakademie in Livorno.",
                   "category": "recreational",
                   "coords": [
                         10.310747,
@@ -16027,7 +16027,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Spiaggia della vela",
-                  "text": "Spiaggia della vela ist ein kleiner Küstenabschnitt in Livorno.",
+                  "text": "Strand Spiaggia della vela mit einem segelförmigen Wahrzeichen in Livorno.",
                   "category": "recreational",
                   "coords": [
                         10.312836,
@@ -16045,7 +16045,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Single fin",
-                  "text": "Ein Strandbad in Livorno an der italienischen Küste.",
+                  "text": "Surf-orientierter Strandclub Single Fin in Livorno.",
                   "category": "recreational",
                   "coords": [
                         10.293735,
@@ -16054,7 +16054,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Nirvana",
-                  "text": "Ein Strandbad in Livorno.",
+                  "text": "Strandclub Nirvana mit entspannter Atmosphäre in Livorno (nahe Hafen).",
                   "category": "recreational",
                   "coords": [
                         10.295666,
@@ -16063,7 +16063,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "La rondine",
-                  "text": "Ein kleines Strandbad an der Küste von Livorno.",
+                  "text": "Strandbad La Rondine („die Schwalbe“) an der livornesischen Küste.",
                   "category": "recreational",
                   "coords": [
                         10.296538,
@@ -16146,7 +16146,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Bagni Pancaldi",
-                  "text": "A Bagni Pancaldi egy történelmi strandfürdő Livornóban.",
+                  "text": "Bagni Pancaldi strandfürdő stéggel a livornói tengerparti sétányon.",
                   "category": "recreational",
                   "coords": [
                         10.302773,
@@ -16155,7 +16155,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Spiaggia del Felciaio",
-                  "text": "A Spiaggia del Felciaio egy festői tengerparti szakasz Livornóban.",
+                  "text": "Spiaggia del Felciaio homokos strand a livornói parton.",
                   "category": "recreational",
                   "coords": [
                         10.315178,
@@ -16164,7 +16164,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Scogli della Rotonda",
-                  "text": "A Scogli della Rotonda egy sziklás tengerparti rész Livornóban.",
+                  "text": "Scogli della Rotonda sziklás strand a Rotonda tér közelében, Livornóban.",
                   "category": "recreational",
                   "coords": [
                         10.315389,
@@ -16173,7 +16173,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Onde del Tirreno Srl ex Bagni Pejani",
-                  "text": "Az Onde del Tirreno Srl egy strandfürdő Livornóban, korábban Bagni Pejani.",
+                  "text": "Korábbi Bagni Pejani, ma Onde del Tirreno Srl strandklub a livornói parton.",
                   "category": "recreational",
                   "coords": [
                         10.316095,
@@ -16182,7 +16182,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Bagni Tirreno",
-                  "text": "A Bagni Tirreno egy jól felszerelt strandfürdő Livornóban.",
+                  "text": "Bagni Tirreno strandfürdő a Tirrén-tenger partján, Livornóban.",
                   "category": "recreational",
                   "coords": [
                         10.299571,
@@ -16191,7 +16191,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Bagni Fiume",
-                  "text": "A Bagni Fiume egy hagyományos fürdőhely Livorno partjainál.",
+                  "text": "Bagni Fiume strandfürdő (a folyóról elnevezve) a livornói parton.",
                   "category": "recreational",
                   "coords": [
                         10.31364,
@@ -16200,7 +16200,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Bagni Nettuno",
-                  "text": "A Bagni Nettuno egy népszerű strandüdülőhely Livornóban.",
+                  "text": "Bagni Nettuno strandfürdő Neptun témával Livornóban.",
                   "category": "recreational",
                   "coords": [
                         10.300646,
@@ -16209,7 +16209,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Spiaggia dell'Accademia",
-                  "text": "A Spiaggia dell'Accademia egy nyilvános strand Livornóban.",
+                  "text": "Spiaggia dell'Accademia strand a Tengerészeti Akadémia közelében, Livornóban.",
                   "category": "recreational",
                   "coords": [
                         10.310747,
@@ -16218,7 +16218,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Spiaggia della vela",
-                  "text": "A Spiaggia della vela egy kis tengerparti szakasz Livornóban.",
+                  "text": "Spiaggia della vela strand vitorla alakú nevezetességgel Livornóban.",
                   "category": "recreational",
                   "coords": [
                         10.312836,
@@ -16236,7 +16236,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Single fin",
-                  "text": "Egy tengerparti üdülőhely Livornóban, az olasz tengerparton.",
+                  "text": "Single Fin szörfös strandklub Livornóban.",
                   "category": "recreational",
                   "coords": [
                         10.293735,
@@ -16245,7 +16245,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Nirvana",
-                  "text": "Strand üdülőhely Livornóban.",
+                  "text": "Nirvana strandklub nyugodt légkörrel Livornóban, a kikötő közelében.",
                   "category": "recreational",
                   "coords": [
                         10.295666,
@@ -16254,7 +16254,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "La rondine",
-                  "text": "Egy kis tengerparti strand Livorno partjainál.",
+                  "text": "La Rondine („Fecske”) strandfürdő a livornói parton.",
                   "category": "recreational",
                   "coords": [
                         10.296538,
@@ -16337,7 +16337,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Bagni Pancaldi",
-                  "text": "Bagni Pancaldi este o stațiune balneară istorică în Livorno.",
+                  "text": "Stațiunea de plajă Bagni Pancaldi, cu un dig pe faleza din Livorno.",
                   "category": "recreational",
                   "coords": [
                         10.302773,
@@ -16346,7 +16346,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Spiaggia del Felciaio",
-                  "text": "Spiaggia del Felciaio este o plajă pitorească situată în Livorno.",
+                  "text": "Plaja Spiaggia del Felciaio, plajă nisipoasă pe coasta Livornoului.",
                   "category": "recreational",
                   "coords": [
                         10.315178,
@@ -16355,7 +16355,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Scogli della Rotonda",
-                  "text": "Scogli della Rotonda este o zonă de coastă stâncoasă în Livorno.",
+                  "text": "Plaja stâncoasă Scogli della Rotonda lângă Piața Rotonda din Livorno.",
                   "category": "recreational",
                   "coords": [
                         10.315389,
@@ -16364,7 +16364,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Onde del Tirreno Srl ex Bagni Pejani",
-                  "text": "Onde del Tirreno Srl este o stațiune balneară în Livorno, fosta Bagni Pejani.",
+                  "text": "Fosta stațiune Bagni Pejani, acum Onde del Tirreno Srl, pe coasta Livornoului.",
                   "category": "recreational",
                   "coords": [
                         10.316095,
@@ -16373,7 +16373,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Bagni Tirreno",
-                  "text": "Bagni Tirreno este o stațiune balneară bine dotată în Livorno.",
+                  "text": "Stațiunea de plajă Bagni Tirreno pe Marea Tireniană, în Livorno.",
                   "category": "recreational",
                   "coords": [
                         10.299571,
@@ -16382,7 +16382,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Bagni Fiume",
-                  "text": "Bagni Fiume este un stabiliment balnear tradițional pe coasta din Livorno.",
+                  "text": "Stațiunea de plajă Bagni Fiume (numită după râu) pe coasta Livornoului.",
                   "category": "recreational",
                   "coords": [
                         10.31364,
@@ -16391,7 +16391,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Bagni Nettuno",
-                  "text": "Bagni Nettuno este o stațiune de plajă populară în Livorno.",
+                  "text": "Stațiunea de plajă Bagni Nettuno, cu tematică Neptun, în Livorno.",
                   "category": "recreational",
                   "coords": [
                         10.300646,
@@ -16400,7 +16400,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Spiaggia dell'Accademia",
-                  "text": "Spiaggia dell'Accademia este o plajă publică situată în Livorno.",
+                  "text": "Plaja Spiaggia dell'Accademia, lângă Academia Navală din Livorno.",
                   "category": "recreational",
                   "coords": [
                         10.310747,
@@ -16409,7 +16409,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Spiaggia della vela",
-                  "text": "Spiaggia della vela este o mică zonă de plajă în Livorno.",
+                  "text": "Plaja Spiaggia della vela, cu un reper în formă de velă, în Livorno.",
                   "category": "recreational",
                   "coords": [
                         10.312836,
@@ -16427,7 +16427,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Single fin",
-                  "text": "O stațiune balneară în Livorno, pe coasta italiană.",
+                  "text": "Club de plajă cu tematică surf, Single Fin, în Livorno.",
                   "category": "recreational",
                   "coords": [
                         10.293735,
@@ -16436,7 +16436,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Nirvana",
-                  "text": "O stațiune balneară în Livorno.",
+                  "text": "Clubul de plajă Nirvana, cu atmosferă relaxată lângă portul Livorno.",
                   "category": "recreational",
                   "coords": [
                         10.295666,
@@ -16445,7 +16445,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "La rondine",
-                  "text": "O mică stațiune balneară pe coasta orașului Livorno.",
+                  "text": "Stațiunea de plajă La Rondine („Rândunica”) pe coasta Livornoului.",
                   "category": "recreational",
                   "coords": [
                         10.296538,
@@ -16528,7 +16528,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Bagni Pancaldi",
-                  "text": "Bagni Pancaldi is a historic beach resort located in Livorno.",
+                  "text": "Beach club Bagni Pancaldi with a pier on the Livorno seafront.",
                   "category": "recreational",
                   "coords": [
                         10.302773,
@@ -16537,7 +16537,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Spiaggia del Felciaio",
-                  "text": "Spiaggia del Felciaio is a scenic beach area in Livorno.",
+                  "text": "Sandy beach Spiaggia del Felciaio on the Livorno coast.",
                   "category": "recreational",
                   "coords": [
                         10.315178,
@@ -16546,7 +16546,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Scogli della Rotonda",
-                  "text": "Scogli della Rotonda is a rocky coastal spot in Livorno.",
+                  "text": "Rocky beach Scogli della Rotonda near the Rotonda square in Livorno.",
                   "category": "recreational",
                   "coords": [
                         10.315389,
@@ -16555,7 +16555,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Onde del Tirreno Srl ex Bagni Pejani",
-                  "text": "Onde del Tirreno Srl is a beach resort in Livorno, formerly known as Bagni Pejani.",
+                  "text": "Former Bagni Pejani, now Onde del Tirreno Srl beach club on the Livorno coast.",
                   "category": "recreational",
                   "coords": [
                         10.316095,
@@ -16564,7 +16564,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Bagni Tirreno",
-                  "text": "Bagni Tirreno is a well-equipped beach resort in Livorno.",
+                  "text": "Beach club Bagni Tirreno on the Tyrrhenian Sea in Livorno.",
                   "category": "recreational",
                   "coords": [
                         10.299571,
@@ -16573,7 +16573,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Bagni Fiume",
-                  "text": "Bagni Fiume is a traditional bathing facility on the coast of Livorno.",
+                  "text": "Beach club Bagni Fiume (named after the river) on the Livorno coast.",
                   "category": "recreational",
                   "coords": [
                         10.31364,
@@ -16582,7 +16582,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Bagni Nettuno",
-                  "text": "Bagni Nettuno is a popular beach resort located in Livorno.",
+                  "text": "Beach club Bagni Nettuno with a Neptune theme in Livorno.",
                   "category": "recreational",
                   "coords": [
                         10.300646,
@@ -16591,7 +16591,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Spiaggia dell'Accademia",
-                  "text": "Spiaggia dell'Accademia is a public beach area in Livorno.",
+                  "text": "Beach Spiaggia dell'Accademia near the Naval Academy in Livorno.",
                   "category": "recreational",
                   "coords": [
                         10.310747,
@@ -16600,7 +16600,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Spiaggia della vela",
-                  "text": "Spiaggia della vela is a small beach stretch in Livorno.",
+                  "text": "Beach Spiaggia della vela with a sail-shaped landmark in Livorno.",
                   "category": "recreational",
                   "coords": [
                         10.312836,
@@ -16618,7 +16618,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Single fin",
-                  "text": "A beach resort in Livorno on the Italian coast.",
+                  "text": "Surf-themed beach club Single Fin in Livorno.",
                   "category": "recreational",
                   "coords": [
                         10.293735,
@@ -16627,7 +16627,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Nirvana",
-                  "text": "A beach resort in Livorno.",
+                  "text": "Beach club Nirvana with a relaxed atmosphere near the port in Livorno.",
                   "category": "recreational",
                   "coords": [
                         10.295666,
@@ -16636,7 +16636,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "La rondine",
-                  "text": "A small beach resort on the coast of Livorno.",
+                  "text": "Beach club La Rondine ('The Swallow') on the Livorno coast.",
                   "category": "recreational",
                   "coords": [
                         10.296538,
@@ -16945,7 +16945,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Bacino ex Cava Frosini",
-                  "text": "Ein malerischer See bei Pistoia, umgeben von Natur.",
+                  "text": "Ehemaliger Steinbruch Bacino ex Cava Frosini, jetzt natürliches Schwimmbecken bei Pistoia.",
                   "category": "natural",
                   "coords": [
                         11.007921,
@@ -17035,7 +17035,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Giardino Zoologico di Pistoia",
-                  "text": "Giardino Zoologico di Pistoia in Pistoia ist ein Ausflugsziel für Familien, um Tiere zu beobachten.",
+                  "text": "Zoologischer Garten Giardino Zoologico di Pistoia mit exotischen Tieren.",
                   "category": "family",
                   "coords": [
                         10.865782,
@@ -17253,7 +17253,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Bacino ex Cava Frosini",
-                  "text": "Festői tó Pistoia közelében, természetes környezetben.",
+                  "text": "Bacino ex Cava Frosini egykori kőfejtő, ma természetes fürdőhely Pistoia közelében.",
                   "category": "natural",
                   "coords": [
                         11.007921,
@@ -17343,7 +17343,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Giardino Zoologico di Pistoia",
-                  "text": "A Giardino Zoologico di Pistoia egy állatkert Pistoia területén, ahol a családok állatokat láthatnak.",
+                  "text": "Giardino Zoologico di Pistoia állatkert egzotikus állatokkal.",
                   "category": "family",
                   "coords": [
                         10.865782,
@@ -17561,7 +17561,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Bacino ex Cava Frosini",
-                  "text": "Un lac pitoresc lângă Pistoia, înconjurat de natură.",
+                  "text": "Bacino ex Cava Frosini, fostă carieră de piatră, acum lac natural de înot lângă Pistoia.",
                   "category": "natural",
                   "coords": [
                         11.007921,
@@ -17651,7 +17651,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Giardino Zoologico di Pistoia",
-                  "text": "Giardino Zoologico di Pistoia din Pistoia este o destinație pentru familii pentru a vedea animale.",
+                  "text": "Grădina zoologică Giardino Zoologico di Pistoia, cu animale exotice.",
                   "category": "family",
                   "coords": [
                         10.865782,
@@ -17869,7 +17869,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Bacino ex Cava Frosini",
-                  "text": "A scenic lake near Pistoia, surrounded by nature.",
+                  "text": "Former quarry basin Bacino ex Cava Frosini, now a natural swimming hole near Pistoia.",
                   "category": "natural",
                   "coords": [
                         11.007921,
@@ -17959,7 +17959,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Giardino Zoologico di Pistoia",
-                  "text": "Giardino Zoologico di Pistoia in Pistoia is a destination for families to see animals.",
+                  "text": "Zoological garden Giardino Zoologico di Pistoia with exotic animals.",
                   "category": "family",
                   "coords": [
                         10.865782,
@@ -18160,7 +18160,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Pista di pattinaggio",
-                  "text": "Die Pista di pattinaggio in Alessandria ist ein beliebter Ort für Familien.",
+                  "text": "Indoor-Eisbahn Pista di pattinaggio in Alessandria.",
                   "category": "family",
                   "coords": [
                         8.601782,
@@ -18169,7 +18169,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Parco Maria Anna de Bray",
-                  "text": "Der Parco Maria Anna de Bray in Alessandria ist ein schöner Spielplatz.",
+                  "text": "Öffentlicher Park Parco Maria Anna de Bray in Alessandria, benannt nach der Namensgeberin.",
                   "category": "family",
                   "coords": [
                         8.630674,
@@ -18178,7 +18178,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Parco Isola della Sensazioni",
-                  "text": "Der Parco Isola della Sensazioni in Alessandria ist ein toller Spielplatz.",
+                  "text": "Themenpark Parco Isola della Sensazioni mit Sinnesinstallationen in Alessandria.",
                   "category": "family",
                   "coords": [
                         8.619001,
@@ -18351,7 +18351,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Pista di pattinaggio",
-                  "text": "Az alessandriai Pista di pattinaggio népszerű hely a családok számára.",
+                  "text": "Pista di pattinaggio fedett jégpálya Alessandriában.",
                   "category": "family",
                   "coords": [
                         8.601782,
@@ -18360,7 +18360,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Parco Maria Anna de Bray",
-                  "text": "Az alessandriai Parco Maria Anna de Bray egy kellemes játszótér.",
+                  "text": "Parco Maria Anna de Bray nyilvános park Alessandriában, egy személyről elnevezve.",
                   "category": "family",
                   "coords": [
                         8.630674,
@@ -18369,7 +18369,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Parco Isola della Sensazioni",
-                  "text": "Az alessandriai Parco Isola della Sensazioni nagyszerű játszótér.",
+                  "text": "Parco Isola della Sensazioni tematikus park érzékszervi installációkkal Alessandriában.",
                   "category": "family",
                   "coords": [
                         8.619001,
@@ -18542,7 +18542,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Pista di pattinaggio",
-                  "text": "Pista di pattinaggio din Alessandria este un loc popular pentru familii.",
+                  "text": "Pista de patinaj acoperită Pista di pattinaggio din Alessandria.",
                   "category": "family",
                   "coords": [
                         8.601782,
@@ -18551,7 +18551,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Parco Maria Anna de Bray",
-                  "text": "Parco Maria Anna de Bray din Alessandria este un loc de joacă frumos.",
+                  "text": "Parcul public Parco Maria Anna de Bray din Alessandria, numit după o persoană.",
                   "category": "family",
                   "coords": [
                         8.630674,
@@ -18560,7 +18560,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Parco Isola della Sensazioni",
-                  "text": "Parco Isola della Sensazioni din Alessandria este un loc de joacă minunat.",
+                  "text": "Parcul tematic Parco Isola della Sensazioni, cu instalații senzoriale, în Alessandria.",
                   "category": "family",
                   "coords": [
                         8.619001,
@@ -18733,7 +18733,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Pista di pattinaggio",
-                  "text": "The Pista di pattinaggio in Alessandria is a popular place for families.",
+                  "text": "Indoor ice skating rink Pista di pattinaggio in Alessandria.",
                   "category": "family",
                   "coords": [
                         8.601782,
@@ -18742,7 +18742,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Parco Maria Anna de Bray",
-                  "text": "The Parco Maria Anna de Bray in Alessandria is a nice playground.",
+                  "text": "Public park Parco Maria Anna de Bray named after its namesake in Alessandria.",
                   "category": "family",
                   "coords": [
                         8.630674,
@@ -18751,7 +18751,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Parco Isola della Sensazioni",
-                  "text": "The Parco Isola della Sensazioni in Alessandria is a great playground.",
+                  "text": "Themed park Parco Isola della Sensazioni with sensory installations in Alessandria.",
                   "category": "family",
                   "coords": [
                         8.619001,
@@ -19339,7 +19339,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Palazzo Mastrolillo",
-                  "text": "Der Palazzo Mastrolillo ist ein historisches Gebäude in der Stadt Foggia.",
+                  "text": "Historischer Palast Palazzo Mastrolillo mit einem Turm in Foggia.",
                   "category": "castle",
                   "coords": [
                         15.543373,
@@ -19440,7 +19440,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Palazzo Mastrolillo",
-                  "text": "A Palazzo Mastrolillo egy történelmi jelentőségű épület Foggia városában.",
+                  "text": "Palazzo Mastrolillo történelmi palota toronnyal Foggában.",
                   "category": "castle",
                   "coords": [
                         15.543373,
@@ -19541,7 +19541,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Palazzo Mastrolillo",
-                  "text": "Palazzo Mastrolillo este o clădire istorică situată în orașul Foggia.",
+                  "text": "Palatul istoric Palazzo Mastrolillo, cu un turn, în Foggia.",
                   "category": "castle",
                   "coords": [
                         15.543373,
@@ -19642,7 +19642,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Palazzo Mastrolillo",
-                  "text": "Palazzo Mastrolillo is a historical building located in the city of Foggia.",
+                  "text": "Historic palace Palazzo Mastrolillo with a tower in Foggia.",
                   "category": "castle",
                   "coords": [
                         15.543373,
@@ -20797,7 +20797,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Giardino via Saragat, 54:70",
-                  "text": "Der Giardino via Saragat in Sassari ist eine Grünanlage mit einem Spielplatz für die Nachbarschaft.",
+                  "text": "Kleiner öffentlicher Garten an der Via Saragat 54 und 70 in Sassari.",
                   "category": "family",
                   "coords": [
                         8.560477,
@@ -20943,7 +20943,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Giardino via Saragat, 54:70",
-                  "text": "A sassari Giardino via Saragat egy zöldövezet játszótérrel a környékbeliek számára.",
+                  "text": "Kis közpark a Via Saragat 54. és 70. szám alatt, Sassariban.",
                   "category": "family",
                   "coords": [
                         8.560477,
@@ -21089,7 +21089,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Giardino via Saragat, 54:70",
-                  "text": "Giardino via Saragat din Sassari este un spațiu verde cu un loc de joacă pentru comunitate.",
+                  "text": "Grădină publică mică la Via Saragat, numerele 54 și 70, în Sassari.",
                   "category": "family",
                   "coords": [
                         8.560477,
@@ -21235,7 +21235,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Giardino via Saragat, 54:70",
-                  "text": "Giardino via Saragat in Sassari is a green space with a playground for the neighborhood.",
+                  "text": "Small public garden at Via Saragat, numbers 54 and 70, in Sassari.",
                   "category": "family",
                   "coords": [
                         8.560477,
@@ -28061,7 +28061,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Piazza Verdi",
-                  "text": "Die Piazza Verdi in Fermo bietet einen Spielplatz.",
+                  "text": "Hauptplatz Piazza Verdi mit dem Teatro dell'Aquila in Fermo.",
                   "category": "family",
                   "coords": [
                         13.727507,
@@ -28070,7 +28070,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Parco Giochi Centro Sociale Santa Caterina",
-                  "text": "Der Parco Giochi Santa Caterina in Fermo ist ein toller Ort für Familien.",
+                  "text": "Spielplatz am Centro Sociale Santa Caterina in Fermo.",
                   "category": "family",
                   "coords": [
                         13.73881,
@@ -28079,7 +28079,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Parco giochi Sant'Andrea \"A Matilde\"",
-                  "text": "Der Spielplatz Sant'Andrea „A Matilde“ in Fermo ist ein schöner Ort zum Spielen.",
+                  "text": "Spielplatz Parco giochi Sant'Andrea „A Matilde” (gewidmet Matilde) im Stadtteil Sant'Andrea in Fermo.",
                   "category": "family",
                   "coords": [
                         13.731166,
@@ -28180,7 +28180,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Piazza Verdi",
-                  "text": "A fermói Piazza Verdi játszóteret kínál.",
+                  "text": "Piazza Verdi főtér a Teatro dell'Aquila színházzal Fermóban.",
                   "category": "family",
                   "coords": [
                         13.727507,
@@ -28189,7 +28189,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Parco Giochi Centro Sociale Santa Caterina",
-                  "text": "A fermói Parco Giochi Santa Caterina nagyszerű hely a családok számára.",
+                  "text": "Játszótér a Santa Caterina Közösségi Központnál Fermóban.",
                   "category": "family",
                   "coords": [
                         13.73881,
@@ -28198,7 +28198,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Parco giochi Sant'Andrea \"A Matilde\"",
-                  "text": "A fermói Sant'Andrea „A Matilde” játszótér kellemes hely a játékhoz.",
+                  "text": "Parco giochi Sant'Andrea „A Matilde” játszótér (Matildénak szentelve) Fermo Sant'Andrea negyedében.",
                   "category": "family",
                   "coords": [
                         13.731166,
@@ -28299,7 +28299,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Piazza Verdi",
-                  "text": "Piazza Verdi din Fermo oferă un loc de joacă.",
+                  "text": "Piața principală Piazza Verdi, cu Teatrul dell'Aquila, în Fermo.",
                   "category": "family",
                   "coords": [
                         13.727507,
@@ -28308,7 +28308,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Parco Giochi Centro Sociale Santa Caterina",
-                  "text": "Parco Giochi Santa Caterina din Fermo este un loc grozav pentru familii.",
+                  "text": "Loc de joacă la Centrul Social Santa Caterina din Fermo.",
                   "category": "family",
                   "coords": [
                         13.73881,
@@ -28317,7 +28317,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Parco giochi Sant'Andrea \"A Matilde\"",
-                  "text": "Locul de joacă Sant'Andrea „A Matilde” din Fermo este un loc frumos pentru joacă.",
+                  "text": "Locul de joacă Parco giochi Sant'Andrea „A Matilde” (dedicat Matildei) în cartierul Sant'Andrea din Fermo.",
                   "category": "family",
                   "coords": [
                         13.731166,
@@ -28418,7 +28418,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Piazza Verdi",
-                  "text": "Piazza Verdi in Fermo offers a playground.",
+                  "text": "Main square Piazza Verdi with the Teatro dell'Aquila theater in Fermo.",
                   "category": "family",
                   "coords": [
                         13.727507,
@@ -28427,7 +28427,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Parco Giochi Centro Sociale Santa Caterina",
-                  "text": "The Parco Giochi Santa Caterina in Fermo is a great place for families.",
+                  "text": "Playground at the Santa Caterina Social Center in Fermo.",
                   "category": "family",
                   "coords": [
                         13.73881,
@@ -28436,7 +28436,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Parco giochi Sant'Andrea \"A Matilde\"",
-                  "text": "The Sant'Andrea „A Matilde” playground in Fermo is a nice place to play.",
+                  "text": "Playground Parco giochi Sant'Andrea 'A Matilde' (dedicated to Matilde) in the Sant'Andrea district of Fermo.",
                   "category": "family",
                   "coords": [
                         13.731166,
@@ -29555,7 +29555,7 @@ export const italyCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Area Giochi Gabbiano",
-                  "text": "Die Area Giochi Gabbiano in Asti bietet Spaß für die Familie.",
+                  "text": "Spielplatz Area Giochi Gabbiano mit möwenförmigen Spielgeräten in Asti.",
                   "category": "family",
                   "coords": [
                         8.20582,
@@ -29566,7 +29566,7 @@ export const italyCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Area Giochi Gabbiano",
-                  "text": "Az asti Area Giochi Gabbiano szórakozást kínál a családnak.",
+                  "text": "Area Giochi Gabbiano játszótér sirály tematikájú játékokkal Astiban.",
                   "category": "family",
                   "coords": [
                         8.20582,
@@ -29577,7 +29577,7 @@ export const italyCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Area Giochi Gabbiano",
-                  "text": "Area Giochi Gabbiano din Asti oferă distracție pentru familie.",
+                  "text": "Locul de joacă Area Giochi Gabbiano, cu echipament cu tematică pescăruș, în Asti.",
                   "category": "family",
                   "coords": [
                         8.20582,
@@ -29588,7 +29588,7 @@ export const italyCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Area Giochi Gabbiano",
-                  "text": "The Area Giochi Gabbiano in Asti offers fun for the family.",
+                  "text": "Playground Area Giochi Gabbiano with seagull-themed equipment in Asti.",
                   "category": "family",
                   "coords": [
                         8.20582,
@@ -32039,7 +32039,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Spiaggia libera",
-                  "text": "Spiaggia libera ist ein öffentlicher Strandabschnitt in Pesaro.",
+                  "text": "Kostenloser öffentlicher Strand Spiaggia libera an der Adriaküste von Pesaro.",
                   "category": "recreational",
                   "coords": [
                         12.941267,
@@ -32509,7 +32509,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Spiaggia libera",
-                  "text": "A Spiaggia libera egy nyilvános strand Pesaro városában.",
+                  "text": "Spiaggia libera szabad strand a Pesaro-i Adriai-tenger parton.",
                   "category": "recreational",
                   "coords": [
                         12.941267,
@@ -32979,7 +32979,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Spiaggia libera",
-                  "text": "Spiaggia libera este o plajă publică în Pesaro.",
+                  "text": "Plajă publică gratuită Spiaggia libera pe coasta Adriatică a Pesaro-ului.",
                   "category": "recreational",
                   "coords": [
                         12.941267,
@@ -33449,7 +33449,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Spiaggia libera",
-                  "text": "Spiaggia libera is a public beach area in Pesaro.",
+                  "text": "Free public beach Spiaggia libera on the Adriatic coast of Pesaro.",
                   "category": "recreational",
                   "coords": [
                         12.941267,
@@ -39284,7 +39284,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "La Brezza",
-                  "text": "Ein Strandbad an der Küste von Sanremo.",
+                  "text": "Strandclub La Brezza (‚die Brise‘) an Sanremos Uferpromenade.",
                   "category": "recreational",
                   "coords": [
                         7.808527,
@@ -39293,7 +39293,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Bagni Azzurri",
-                  "text": "Ein Strandbad in Sanremo.",
+                  "text": "Strandbad Bagni Azzurri mit blauen Sonnenschirmen in Sanremo.",
                   "category": "recreational",
                   "coords": [
                         7.810556,
@@ -39302,7 +39302,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Bagno San Martino",
-                  "text": "Ein Strandbad an der Küste von Sanremo.",
+                  "text": "Strandbad Bagno San Martino im Stadtteil San Martino in Sanremo.",
                   "category": "recreational",
                   "coords": [
                         7.795499,
@@ -39311,7 +39311,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Il Cubo",
-                  "text": "Ein Strandbad in Sanremo für Erholung am Meer.",
+                  "text": "Moderne Strandbar Il Cubo Beach mit würfelförmigem Gebäude in Sanremo.",
                   "category": "recreational",
                   "coords": [
                         7.815425,
@@ -39457,7 +39457,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "La Brezza",
-                  "text": "Egy strandüdülőhely Sanremo partján.",
+                  "text": "La Brezza („Szellő”) strandklub Sanremo tengerparti sétányán.",
                   "category": "recreational",
                   "coords": [
                         7.808527,
@@ -39466,7 +39466,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Bagni Azzurri",
-                  "text": "Egy strandüdülőhely Sanremóban.",
+                  "text": "Bagni Azzurri strandfürdő kék napernyőkkel Sanremóban.",
                   "category": "recreational",
                   "coords": [
                         7.810556,
@@ -39475,7 +39475,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Bagno San Martino",
-                  "text": "Egy strandüdülőhely Sanremo partján.",
+                  "text": "Bagno San Martino strandfürdő Sanremo San Martino negyedében.",
                   "category": "recreational",
                   "coords": [
                         7.795499,
@@ -39484,7 +39484,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Il Cubo",
-                  "text": "Egy strandüdülőhely Sanremóban a tengerparti kikapcsolódáshoz.",
+                  "text": "Il Cubo Beach modern strandbár kocka alakú épülettel Sanremóban.",
                   "category": "recreational",
                   "coords": [
                         7.815425,
@@ -39630,7 +39630,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "La Brezza",
-                  "text": "O stațiune balneară pe coasta din Sanremo.",
+                  "text": "Clubul de plajă La Brezza („Adierea”) pe faleza din Sanremo.",
                   "category": "recreational",
                   "coords": [
                         7.808527,
@@ -39639,7 +39639,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Bagni Azzurri",
-                  "text": "O stațiune balneară în Sanremo.",
+                  "text": "Stațiunea de plajă Bagni Azzurri, cu umbrele albastre, în Sanremo.",
                   "category": "recreational",
                   "coords": [
                         7.810556,
@@ -39648,7 +39648,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Bagno San Martino",
-                  "text": "O stațiune balneară pe coasta din Sanremo.",
+                  "text": "Clubul de plajă Bagno San Martino în cartierul San Martino din Sanremo.",
                   "category": "recreational",
                   "coords": [
                         7.795499,
@@ -39657,7 +39657,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Il Cubo",
-                  "text": "O stațiune balneară în Sanremo pentru recreere la mare.",
+                  "text": "Barul modern de plajă Il Cubo Beach, cu o clădire în formă de cub, în Sanremo.",
                   "category": "recreational",
                   "coords": [
                         7.815425,
@@ -39803,7 +39803,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "La Brezza",
-                  "text": "A beach resort on the coast of Sanremo.",
+                  "text": "Beach club La Brezza ('the Breeze') on Sanremo's seafront.",
                   "category": "recreational",
                   "coords": [
                         7.808527,
@@ -39812,7 +39812,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Bagni Azzurri",
-                  "text": "A beach resort in Sanremo.",
+                  "text": "Beach club Bagni Azzurri with blue umbrellas in Sanremo.",
                   "category": "recreational",
                   "coords": [
                         7.810556,
@@ -39821,7 +39821,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Bagno San Martino",
-                  "text": "A beach resort in Sanremo.",
+                  "text": "Beach club Bagno San Martino in the San Martino district of Sanremo.",
                   "category": "recreational",
                   "coords": [
                         7.795499,
@@ -39830,7 +39830,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Il Cubo Beach",
-                  "text": "A beach resort in Sanremo for seaside recreation.",
+                  "text": "Modern beach bar Il Cubo Beach with a cube-shaped building in Sanremo.",
                   "category": "recreational",
                   "coords": [
                         7.815425,
@@ -40301,7 +40301,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Terme romane",
-                  "text": "Die Überreste der antiken römischen Thermalanlagen der Stadt.",
+                  "text": "Antike römische Thermen Terme romane nahe dem Trajansbogen in Benevento.",
                   "category": "historical",
                   "coords": [
                         14.772598,
@@ -40483,7 +40483,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Terme romane",
-                  "text": "Az ókori római fürdőrendszer maradványai a városban.",
+                  "text": "Terme romane ókori római termálfürdő a Traianus diadalíve közelében, Beneventóban.",
                   "category": "historical",
                   "coords": [
                         14.772598,
@@ -40665,7 +40665,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Terme romane",
-                  "text": "Vestigiile vechilor băi romane ale orașului.",
+                  "text": "Terme romane, băi termale romane antice lângă Arcul lui Traian din Benevento.",
                   "category": "historical",
                   "coords": [
                         14.772598,
@@ -40847,7 +40847,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Terme romane",
-                  "text": "The remains of the city's ancient Roman thermal baths.",
+                  "text": "Ancient Roman thermal baths Terme romane near the Arch of Trajan in Benevento.",
                   "category": "historical",
                   "coords": [
                         14.772598,
@@ -41021,7 +41021,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago di Fondi",
-                  "text": "Der Lago di Fondi bei Terracina ist ein großer See, der für seine natürliche Landschaft bekannt ist.",
+                  "text": "Küstensee Lago di Fondi am Fuße der Aurunker Berge bei Terracina.",
                   "category": "natural",
                   "coords": [
                         13.333298,
@@ -41122,7 +41122,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago di Fondi",
-                  "text": "A Terracina melletti Lago di Fondi egy nagy tó, amely természeti tájáról ismert.",
+                  "text": "Lago di Fondi part menti tó az Aurunci-hegység lábánál, Terracina közelében.",
                   "category": "natural",
                   "coords": [
                         13.333298,
@@ -41223,7 +41223,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago di Fondi",
-                  "text": "Lago di Fondi de lângă Terracina este un lac mare, cunoscut pentru peisajul său natural.",
+                  "text": "Lacul de coastă Lago di Fondi la poalele Munților Aurunci, lângă Terracina.",
                   "category": "natural",
                   "coords": [
                         13.333298,
@@ -41324,7 +41324,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago di Fondi",
-                  "text": "Lago di Fondi near Terracina is a large lake known for its natural landscape.",
+                  "text": "Coastal lake Lago di Fondi at the foot of the Aurunci Mountains near Terracina.",
                   "category": "natural",
                   "coords": [
                         13.333298,
@@ -42110,7 +42110,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Castello di Marignolle",
-                  "text": "Eine historische Burganlage in den Hügeln von Scandicci bei Florenz.",
+                  "text": "Mittelalterliche Burg Castello di Marignolle mit Renaissancegarten in Scandicci (bei Florenz).",
                   "category": "castle",
                   "coords": [
                         11.216852,
@@ -42247,7 +42247,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Castello di Marignolle",
-                  "text": "Történelmi várkastély Scandicci dombjai között, Firenze közelében.",
+                  "text": "Castello di Marignolle középkori vár reneszánsz kerttel Scandicciben (Firenze mellett).",
                   "category": "castle",
                   "coords": [
                         11.216852,
@@ -42384,7 +42384,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Castello di Marignolle",
-                  "text": "Un castel istoric situat pe dealurile din Scandicci, lângă Florența.",
+                  "text": "Castelul medieval Castello di Marignolle, cu grădină renascentistă, în Scandicci (lângă Florența).",
                   "category": "castle",
                   "coords": [
                         11.216852,
@@ -42521,7 +42521,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Castello di Marignolle",
-                  "text": "A historical castle located in the hills of Scandicci near Florence.",
+                  "text": "Medieval castle Castello di Marignolle with a Renaissance garden in Scandicci (near Florence).",
                   "category": "castle",
                   "coords": [
                         11.216852,
@@ -42677,7 +42677,7 @@ export const italyCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Nemisee",
-                  "text": "Der Lake Nemi in der Nähe von Velletri ist ein vulkanischer Kratersee mit beeindruckender Aussicht.",
+                  "text": "Vulkankratersee Lake Nemi in den Albaner Bergen, bekannt für antike römische Schiffe.",
                   "category": "natural",
                   "coords": [
                         12.702776,
@@ -42697,7 +42697,7 @@ export const italyCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Lago di Nemi",
-                  "text": "A Velletri közeli Lake Nemi egy vulkáni krátertó, lenyűgöző kilátással.",
+                  "text": "Lake Nemi vulkáni krátertó az Albán-hegységben, híres ókori római hajóiról.",
                   "category": "natural",
                   "coords": [
                         12.702776,
@@ -42717,7 +42717,7 @@ export const italyCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Lago di Nemi",
-                  "text": "Lacul Nemi de lângă Velletri este un lac vulcanic de crater cu priveliști impresionante.",
+                  "text": "Lacul vulcanic Lake Nemi în Munții Albani, cunoscut pentru navele romane antice.",
                   "category": "natural",
                   "coords": [
                         12.702776,
@@ -42737,7 +42737,7 @@ export const italyCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Lake Nemi",
-                  "text": "Lake Nemi near Velletri is a volcanic crater lake with impressive views.",
+                  "text": "Volcanic crater lake Lake Nemi in the Alban Hills, known for ancient Roman ships.",
                   "category": "natural",
                   "coords": [
                         12.702776,
@@ -42866,7 +42866,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Castellum Acquae",
-                  "text": "Antike römische Zisterne zur Wasserversorgung in Formia.",
+                  "text": "Römischer Wasserreservoir (Castellum Aquae) am Ende der Aqua Claudia in Formia.",
                   "category": "historical",
                   "coords": [
                         13.61288,
@@ -42994,7 +42994,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Castellum Acquae",
-                  "text": "Ókori római víztározó Formia városában.",
+                  "text": "Castellum Acquae római víztározó az Aqua Claudia végénél, Formiában.",
                   "category": "historical",
                   "coords": [
                         13.61288,
@@ -43122,7 +43122,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Castellum Acquae",
-                  "text": "Rezervor antic roman pentru alimentarea cu apă în Formia.",
+                  "text": "Castellum Acquae, rezervor de apă roman la capătul apeductului Aqua Claudia, în Formia.",
                   "category": "historical",
                   "coords": [
                         13.61288,
@@ -43250,7 +43250,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Castellum Acquae",
-                  "text": "Ancient Roman cistern for water supply in Formia.",
+                  "text": "Roman water reservoir (castellum aquae) at the end of the Aqua Claudia aqueduct in Formia.",
                   "category": "historical",
                   "coords": [
                         13.61288,
@@ -43847,7 +43847,7 @@ export const italyCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Zambardino",
-                  "text": "Zambardino in Ceccano ist ein schöner Spielplatz.",
+                  "text": "Spielplatz Zambardino im gleichnamigen Gebiet von Ceccano.",
                   "category": "family",
                   "coords": [
                         13.322988,
@@ -43858,7 +43858,7 @@ export const italyCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Zambardino",
-                  "text": "A ceccanói Zambardino egy kellemes játszótér.",
+                  "text": "Zambardino játszótér az azonos nevű területen, Ceccano-ban.",
                   "category": "family",
                   "coords": [
                         13.322988,
@@ -43869,7 +43869,7 @@ export const italyCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Zambardino",
-                  "text": "Zambardino din Ceccano este un loc de joacă frumos.",
+                  "text": "Locul de joacă Zambardino în zona omonimă a localității Ceccano.",
                   "category": "family",
                   "coords": [
                         13.322988,
@@ -43880,7 +43880,7 @@ export const italyCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Zambardino",
-                  "text": "Zambardino in Ceccano is a nice playground.",
+                  "text": "Playground Zambardino in the Zambardino area of Ceccano.",
                   "category": "family",
                   "coords": [
                         13.322988,
@@ -44531,7 +44531,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Monastero della Santissima Annunziata",
-                  "text": "Historisches Kloster der Santissima Annunziata in Alatri.",
+                  "text": "Ehemaliges Kloster Monastero della Santissima Annunziata auf einem Hügel oberhalb von Alatri.",
                   "category": "religious",
                   "coords": [
                         13.342363,
@@ -44596,7 +44596,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Monastero della Santissima Annunziata",
-                  "text": "A Santissima Annunziata történelmi kolostoregyüttese Alatriban.",
+                  "text": "Monastero della Santissima Annunziata egykori kolostor egy dombon Alatri fölött.",
                   "category": "religious",
                   "coords": [
                         13.342363,
@@ -44661,7 +44661,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Monastero della Santissima Annunziata",
-                  "text": "Mănăstirea istorică Santissima Annunziata din Alatri.",
+                  "text": "Fosta mănăstire Monastero della Santissima Annunziata pe un deal deasupra localității Alatri.",
                   "category": "religious",
                   "coords": [
                         13.342363,
@@ -44726,7 +44726,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Monastero della Santissima Annunziata",
-                  "text": "Historical monastery of the Santissima Annunziata in Alatri.",
+                  "text": "Former monastery Monastero della Santissima Annunziata on a hill above Alatri.",
                   "category": "religious",
                   "coords": [
                         13.342363,
@@ -45863,7 +45863,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago di San Giacomo",
-                  "text": "Der Lago di San Giacomo in San Giovanni Incarico ist ein See.",
+                  "text": "Bergsee Lago di San Giacomo im Apennin nahe San Giovanni Incaricato.",
                   "category": "natural",
                   "coords": [
                         13.534484,
@@ -45892,7 +45892,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago di San Giacomo",
-                  "text": "A San Giovanni Incarico-i Lago di San Giacomo egy tó.",
+                  "text": "Lago di San Giacomo hegyi tó az Appenninekben, San Giovanni Incaricato közelében.",
                   "category": "natural",
                   "coords": [
                         13.534484,
@@ -45921,7 +45921,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago di San Giacomo",
-                  "text": "Lago di San Giacomo din San Giovanni Incarico este un lac.",
+                  "text": "Lacul montan Lago di San Giacomo în Apenini, lângă San Giovanni Incaricato.",
                   "category": "natural",
                   "coords": [
                         13.534484,
@@ -45950,7 +45950,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Lago di San Giacomo",
-                  "text": "Lago di San Giacomo in San Giovanni Incarico is a lake.",
+                  "text": "Mountain lake Lago di San Giacomo in the Apennines near San Giovanni Incaricato.",
                   "category": "natural",
                   "coords": [
                         13.534484,
@@ -46520,7 +46520,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Torre di Campolato",
-                  "text": "Mittelalterlicher Wehrturm auf einem Hügel in der Nähe von Arce.",
+                  "text": "Mittelalterlicher Wachturm bei Arce mit Blick auf den Liri.",
                   "category": "fortress",
                   "coords": [
                         13.552271,
@@ -46540,7 +46540,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Torre di Campolato",
-                  "text": "Középkori védelmi torony egy dombtetőn Arce közelében.",
+                  "text": "Középkori őrtorony Arce közelében, a Liri folyóra néző kilátással.",
                   "category": "fortress",
                   "coords": [
                         13.552271,
@@ -46560,7 +46560,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Torre di Campolato",
-                  "text": "Turn de apărare medieval situat pe un deal în apropiere de Arce.",
+                  "text": "Turn de pază medieval lângă Arce, cu vedere asupra râului Liri.",
                   "category": "fortress",
                   "coords": [
                         13.552271,
@@ -46580,7 +46580,7 @@ export const italyCitiesV2: POI[] = [
             },
             {
                   "name": "Torre di Campolato",
-                  "text": "Medieval defensive tower located on a hill near Arce.",
+                  "text": "Medieval watchtower near Arce overlooking the Liri River.",
                   "category": "fortress",
                   "coords": [
                         13.552271,

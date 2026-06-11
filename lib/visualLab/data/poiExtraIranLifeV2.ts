@@ -3,7 +3,844 @@ import type { POI } from "./poi";
 
 export const poiExtraIranLifeV2: POI[] = [
   {
-    id: "mellat-park-tehran-life-v2",
+    id: "mellat-park-tehran-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "e1 Art Gallery",
+                  "text": "Eine zeitgenössische Kunstgalerie in Teheran, die moderne Werke iranischer Künstler in einem eleganten Ambiente präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        51.428963,
+                        35.781567
+                  ]
+            },
+            {
+                  "name": "Ariana Art Gallery",
+                  "text": "Die Ariana Kunstgalerie in Teheran, bekannt für ihre Ausstellungen moderner Malerei und Bildhauerei in einem stilvollen Gartenhaus.",
+                  "category": "museum",
+                  "coords": [
+                        51.428456,
+                        35.786577
+                  ]
+            },
+            {
+                  "name": "Atbin Art Gallery",
+                  "text": "Eine Boutique-Galerie in Teheran, die sich auf die Förderung junger Talente der iranischen Kunstszene spezialisiert hat.",
+                  "category": "museum",
+                  "coords": [
+                        51.417001,
+                        35.789319
+                  ]
+            },
+            {
+                  "name": "Padan Studio",
+                  "text": "Ein kreatives Kunstzentrum in Teheran, das als Plattform für Multimedia-Projekte, Design und kulturellen Austausch dient.",
+                  "category": "cultural",
+                  "coords": [
+                        51.418321,
+                        35.785501
+                  ]
+            },
+            {
+                  "name": "Mammals",
+                  "text": "Ein Bereich im Teheraner Mellat-Park, in dem verschiedene Säugetierarten in naturnah gestalteten Gehegen zu sehen sind.",
+                  "category": "recreational",
+                  "coords": [
+                        51.40839,
+                        35.778934
+                  ]
+            },
+            {
+                  "name": "Jorjani Art Gallery",
+                  "text": "Eine etablierte Kunstgalerie in Teheran, die regelmäßig Einzelausstellungen namhafter zeitgenössischer Künstler zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        51.418213,
+                        35.795692
+                  ]
+            },
+            {
+                  "name": "KAAF Institute",
+                  "text": "Ein unabhängiges Kulturinstitut in Teheran, das sich der zeitgenössischen Kunsttheorie und experimentellen Projekten widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        51.389111,
+                        35.799444
+                  ]
+            },
+            {
+                  "name": "International Art Gallery",
+                  "text": "Eine internationale Kunstgalerie in Teheran, die den Dialog zwischen iranischen und ausländischen Künstlern fördert.",
+                  "category": "museum",
+                  "coords": [
+                        51.358751,
+                        35.795848
+                  ]
+            },
+            {
+                  "name": "Tehran's Jurassic Park",
+                  "text": "Ein Themenpark im Norden Teherans mit großen animatronischen Dinosaurier-Modellen in einer hügeligen Parklandschaft.",
+                  "category": "recreational",
+                  "coords": [
+                        51.352419,
+                        35.790081
+                  ]
+            },
+            {
+                  "name": "Iranian Garden",
+                  "text": "Ein prächtiger Garten in Teheran, der im traditionellen persischen Stil mit Wasserläufen, Brunnen und Pavillons angelegt wurde.",
+                  "category": "park",
+                  "coords": [
+                        51.39038,
+                        35.772133
+                  ]
+            },
+            {
+                  "name": "Sabet Pasal Palace",
+                  "text": "Dieses prachtvolle Herrenhaus, inspiriert vom Petit Trianon in Versailles, ist eine der größten und luxuriösesten historischen Residenzen Teherans.",
+                  "category": "castle",
+                  "coords": [
+                        51.422141,
+                        35.780633
+                  ]
+            },
+            {
+                  "name": "British Embassy's Gholhak Garden",
+                  "text": "Dieses historische diplomatische Anwesen verfügt über üppiges Grün und beherbergt den britischen Kriegsfriedhof auf seinem Gelände.",
+                  "category": "park",
+                  "coords": [
+                        51.437902,
+                        35.779553
+                  ]
+            },
+            {
+                  "name": "Mellat Park",
+                  "text": "Dieser weitläufige Stadtpark an der Valiasr-Straße bietet einen großen zentralen See und zahlreiche moderne Skulpturen.",
+                  "category": "park",
+                  "coords": [
+                        51.410134,
+                        35.778123
+                  ]
+            },
+            {
+                  "name": "Parvaz Park",
+                  "text": "Auf einem Hügel im Norden Teherans gelegen, bietet dieser Park einen weiten Panoramablick auf die Skyline der Stadt.",
+                  "category": "park",
+                  "coords": [
+                        51.356966,
+                        35.789186
+                  ]
+            },
+            {
+                  "name": "masjed alzahra",
+                  "text": "Diese lokale Moschee dient der Gemeinde mit ihrer traditionell gefliesten Fassade und der markanten türkisfarbenen Kuppel.",
+                  "category": "landmark",
+                  "coords": [
+                        51.419441,
+                        35.781462
+                  ]
+            },
+            {
+                  "name": "Alnabi Mosque",
+                  "text": "Eine markante Stadtviertel-Moschee mit klassischer islamischer Architektur und einem verzierten Eingangsportal.",
+                  "category": "landmark",
+                  "coords": [
+                        51.400519,
+                        35.79868
+                  ]
+            },
+            {
+                  "name": "Hazrat Ibrahim Mosque",
+                  "text": "Dieses Gotteshaus zeichnet sich durch seine schlanken Minarette und komplizierten geometrischen Fliesenmuster aus.",
+                  "category": "landmark",
+                  "coords": [
+                        51.402099,
+                        35.790158
+                  ]
+            },
+            {
+                  "name": "Imam Sadiq University Mosque",
+                  "text": "Diese auf dem Universitätscampus gelegene Moschee dient als Zentrum für Gebet und akademische Reflexion für Studenten.",
+                  "category": "landmark",
+                  "coords": [
+                        51.383851,
+                        35.768857
+                  ]
+            },
+            {
+                  "name": "Majed-al-Rasool Mosque",
+                  "text": "Eine lokale Gemeindemoschee, die sich durch ihren ruhigen Gebetssaal und traditionelle persische Architekturelemente auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        51.374192,
+                        35.782166
+                  ]
+            },
+            {
+                  "name": "Alzahra Mosque",
+                  "text": "Diese städtische Moschee verfügt über einen wunderschön verzierten Mihrab und bietet einen friedlichen Raum für die täglichen Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        51.388668,
+                        35.787765
+                  ]
+            },
+            {
+                  "name": "St. Minas Church",
+                  "text": "Diese armenisch-apostolische Kirche im Viertel Vanak ist für ihre traditionelle Ziegelbauweise und ihren friedlichen Innenhof bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        51.398565,
+                        35.768089
+                  ]
+            },
+            {
+                  "name": "Jam-E-Jam shopping center",
+                  "text": "Ein geschäftiges Handelszentrum an der Valiasr-Straße mit einer großen Auswahl an modernen Boutiquen und lokalen Einzelhändlern.",
+                  "category": "cultural",
+                  "coords": [
+                        51.414437,
+                        35.78073
+                  ]
+            },
+            {
+                  "name": "Safavaiyeh Bazzar",
+                  "text": "Dieser gegenüber dem Mellat-Park gelegene Markt besticht durch seine traditionelle Architektur und ist auf persisches Kunsthandwerk und Schmuck spezialisiert.",
+                  "category": "cultural",
+                  "coords": [
+                        51.41377,
+                        35.777795
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "e1 Art Gallery",
+                  "text": "Kortárs művészeti galéria Teheránban, amely iráni művészek modern alkotásait mutatja be elegáns környezetben.",
+                  "category": "museum",
+                  "coords": [
+                        51.428963,
+                        35.781567
+                  ]
+            },
+            {
+                  "name": "Ariana Art Gallery",
+                  "text": "Az Ariana galéria Teheránban, amely modern festészeti és szobrászati kiállításairól ismert egy stílusos kerti épületben.",
+                  "category": "museum",
+                  "coords": [
+                        51.428456,
+                        35.786577
+                  ]
+            },
+            {
+                  "name": "Atbin Art Gallery",
+                  "text": "Teheráni butikgaléria, amely az iráni művészeti élet fiatal tehetségeinek gondozására szakosodott.",
+                  "category": "museum",
+                  "coords": [
+                        51.417001,
+                        35.789319
+                  ]
+            },
+            {
+                  "name": "Padan Studio",
+                  "text": "Kreatív művészeti központ Teheránban, amely multimédiás projektek, design és kulturális csere helyszíneként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        51.418321,
+                        35.785501
+                  ]
+            },
+            {
+                  "name": "Mammals",
+                  "text": "A teheráni Mellat park egyik részlege, ahol különböző emlősfajok láthatók természetközeli kifutókban.",
+                  "category": "recreational",
+                  "coords": [
+                        51.40839,
+                        35.778934
+                  ]
+            },
+            {
+                  "name": "Jorjani Art Gallery",
+                  "text": "Teherán egyik patinás művészeti galériája, amely rendszeresen mutat be egyéni kiállításokat neves kortárs alkotóktól.",
+                  "category": "museum",
+                  "coords": [
+                        51.418213,
+                        35.795692
+                  ]
+            },
+            {
+                  "name": "KAAF Institute",
+                  "text": "Teheráni független kulturális intézet, amely a kortárs művészetelméletnek és kísérleti projekteknek szenteli tevékenységét.",
+                  "category": "cultural",
+                  "coords": [
+                        51.389111,
+                        35.799444
+                  ]
+            },
+            {
+                  "name": "International Art Gallery",
+                  "text": "Teheráni nemzetközi művészeti galéria, amely az iráni és a külföldi művészek közötti párbeszédet segíti elő.",
+                  "category": "museum",
+                  "coords": [
+                        51.358751,
+                        35.795848
+                  ]
+            },
+            {
+                  "name": "Tehran's Jurassic Park",
+                  "text": "Észak-Teheráni vidámpark hatalmas, mozgó dinoszaurusz-modellekkel egy dombos parkos környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        51.352419,
+                        35.790081
+                  ]
+            },
+            {
+                  "name": "Iranian Garden",
+                  "text": "Teheráni díszkert, amelyet hagyományos perzsa stílusban alakítottak ki vízcsatornákkal, szökőkutakkal és pavilonokkal.",
+                  "category": "park",
+                  "coords": [
+                        51.39038,
+                        35.772133
+                  ]
+            },
+            {
+                  "name": "Sabet Pasal Palace",
+                  "text": "A versailles-i Kis-Trianon kastély mintájára épült impozáns palota Teherán egyik legnagyobb és legfényűzőbb történelmi lakóépülete.",
+                  "category": "castle",
+                  "coords": [
+                        51.422141,
+                        35.780633
+                  ]
+            },
+            {
+                  "name": "British Embassy's Gholhak Garden",
+                  "text": "Ez a történelmi diplomáciai birtok dús növényzetéről és a területén található brit katonai temetőről nevezetes.",
+                  "category": "park",
+                  "coords": [
+                        51.437902,
+                        35.779553
+                  ]
+            },
+            {
+                  "name": "Mellat Park",
+                  "text": "A Valiasr utca mentén fekvő hatalmas városi park központi tavával és számos modern szobrával várja a látogatókat.",
+                  "category": "park",
+                  "coords": [
+                        51.410134,
+                        35.778123
+                  ]
+            },
+            {
+                  "name": "Parvaz Park",
+                  "text": "A Teherán északi részén, egy dombtetőn elhelyezkedő parkból lenyűgöző panoráma nyílik a városra.",
+                  "category": "park",
+                  "coords": [
+                        51.356966,
+                        35.789186
+                  ]
+            },
+            {
+                  "name": "masjed alzahra",
+                  "text": "Ez a helyi mecset hagyományos csempézett homlokzatával és jellegzetes türkizkék kupolájával várja a hívőket.",
+                  "category": "landmark",
+                  "coords": [
+                        51.419441,
+                        35.781462
+                  ]
+            },
+            {
+                  "name": "Alnabi Mosque",
+                  "text": "Jelentős környékbeli mecset klasszikus iszlám építészettel és díszes bejárati portállal.",
+                  "category": "landmark",
+                  "coords": [
+                        51.400519,
+                        35.79868
+                  ]
+            },
+            {
+                  "name": "Hazrat Ibrahim Mosque",
+                  "text": "Ezt az imaházat karcsú minaretjei és bonyolult geometrikus csempemintái teszik különlegessé.",
+                  "category": "landmark",
+                  "coords": [
+                        51.402099,
+                        35.790158
+                  ]
+            },
+            {
+                  "name": "Imam Sadiq University Mosque",
+                  "text": "Az egyetemi campus területén található mecset az imádság és az akadémiai elmélyülés központjaként szolgál a hallgatók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        51.383851,
+                        35.768857
+                  ]
+            },
+            {
+                  "name": "Majed-al-Rasool Mosque",
+                  "text": "Egy helyi közösségi mecset, amelyet nyugodt imaterem és hagyományos perzsa építészeti elemek jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        51.374192,
+                        35.782166
+                  ]
+            },
+            {
+                  "name": "Alzahra Mosque",
+                  "text": "Ez a városi mecset gyönyörűen díszített mihrábbal rendelkezik, és békés helyszínt biztosít a napi imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        51.388668,
+                        35.787765
+                  ]
+            },
+            {
+                  "name": "St. Minas Church",
+                  "text": "A Vanak negyedben található örmény apostoli templom hagyományos téglaépítéséről és nyugodt belső udvaráról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        51.398565,
+                        35.768089
+                  ]
+            },
+            {
+                  "name": "Jam-E-Jam shopping center",
+                  "text": "A Valiasr utcán található nyüzsgő kereskedelmi központ modern butikok és helyi üzletek széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        51.414437,
+                        35.78073
+                  ]
+            },
+            {
+                  "name": "Safavaiyeh Bazzar",
+                  "text": "A Mellat-parkkal szemben található piac hagyományos építészetével tűnik ki, és perzsa kézműves termékekre és ékszerekre specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        51.41377,
+                        35.777795
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "e1 Art Gallery",
+                  "text": "O galerie de artă contemporană din Teheran, care prezintă lucrări moderne ale artiștilor iranieni într-un cadru elegant.",
+                  "category": "museum",
+                  "coords": [
+                        51.428963,
+                        35.781567
+                  ]
+            },
+            {
+                  "name": "Ariana Art Gallery",
+                  "text": "Galeria de artă Ariana din Teheran, cunoscută pentru expozițiile sale de pictură și sculptură modernă într-o casă de grădină stilată.",
+                  "category": "museum",
+                  "coords": [
+                        51.428456,
+                        35.786577
+                  ]
+            },
+            {
+                  "name": "Atbin Art Gallery",
+                  "text": "O galerie de tip boutique din Teheran, specializată în promovarea tinerelor talente din scena artistică iraniană.",
+                  "category": "museum",
+                  "coords": [
+                        51.417001,
+                        35.789319
+                  ]
+            },
+            {
+                  "name": "Padan Studio",
+                  "text": "Un centru de artă creativă din Teheran, care servește ca platformă pentru proiecte multimedia, design și schimburi culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        51.418321,
+                        35.785501
+                  ]
+            },
+            {
+                  "name": "Mammals",
+                  "text": "O secțiune a parcului Mellat din Teheran, unde pot fi văzute diverse specii de mamifere în țarcuri amenajate natural.",
+                  "category": "recreational",
+                  "coords": [
+                        51.40839,
+                        35.778934
+                  ]
+            },
+            {
+                  "name": "Jorjani Art Gallery",
+                  "text": "O galerie de artă consacrată din Teheran, care găzduiește regulat expoziții personale ale unor artiști contemporani renumiți.",
+                  "category": "museum",
+                  "coords": [
+                        51.418213,
+                        35.795692
+                  ]
+            },
+            {
+                  "name": "KAAF Institute",
+                  "text": "Un institut cultural independent din Teheran, dedicat teoriei artei contemporane și proiectelor experimentale.",
+                  "category": "cultural",
+                  "coords": [
+                        51.389111,
+                        35.799444
+                  ]
+            },
+            {
+                  "name": "International Art Gallery",
+                  "text": "O galerie de artă internațională din Teheran, care promovează dialogul între artiștii iranieni și cei străini.",
+                  "category": "museum",
+                  "coords": [
+                        51.358751,
+                        35.795848
+                  ]
+            },
+            {
+                  "name": "Tehran's Jurassic Park",
+                  "text": "Un parc tematic din nordul Teheranului, cu modele mari de dinozauri animatronici într-un cadru deluros.",
+                  "category": "recreational",
+                  "coords": [
+                        51.352419,
+                        35.790081
+                  ]
+            },
+            {
+                  "name": "Iranian Garden",
+                  "text": "O grădină splendidă din Teheran, amenajată în stil tradițional persan cu cursuri de apă, fântâni și pavilioane.",
+                  "category": "park",
+                  "coords": [
+                        51.39038,
+                        35.772133
+                  ]
+            },
+            {
+                  "name": "Sabet Pasal Palace",
+                  "text": "Această reședință grandioasă, inspirată de Petit Trianon de la Versailles, este una dintre cele mai mari și mai opulente locuințe istorice din Teheran.",
+                  "category": "castle",
+                  "coords": [
+                        51.422141,
+                        35.780633
+                  ]
+            },
+            {
+                  "name": "British Embassy's Gholhak Garden",
+                  "text": "Această proprietate diplomatică istorică dispune de verdeață luxuriantă și adăpostește Cimitirul Britanic de Război în incinta sa.",
+                  "category": "park",
+                  "coords": [
+                        51.437902,
+                        35.779553
+                  ]
+            },
+            {
+                  "name": "Mellat Park",
+                  "text": "Situat de-a lungul străzii Valiasr, acest parc urban întins are un lac central mare și numeroase sculpturi moderne.",
+                  "category": "park",
+                  "coords": [
+                        51.410134,
+                        35.778123
+                  ]
+            },
+            {
+                  "name": "Parvaz Park",
+                  "text": "Situat pe un deal din nordul Teheranului, acest parc oferă vederi panoramice spectaculoase asupra orașului.",
+                  "category": "park",
+                  "coords": [
+                        51.356966,
+                        35.789186
+                  ]
+            },
+            {
+                  "name": "masjed alzahra",
+                  "text": "Această moschee locală deservește comunitatea, remarcându-se prin fațada tradițională placată cu plăci ceramice și domul turcoaz.",
+                  "category": "landmark",
+                  "coords": [
+                        51.419441,
+                        35.781462
+                  ]
+            },
+            {
+                  "name": "Alnabi Mosque",
+                  "text": "O moschee de cartier proeminentă, cu arhitectură islamică clasică și un portal de intrare decorat.",
+                  "category": "landmark",
+                  "coords": [
+                        51.400519,
+                        35.79868
+                  ]
+            },
+            {
+                  "name": "Hazrat Ibrahim Mosque",
+                  "text": "Acest lăcaș de cult se distinge prin minaretele sale zvelte și modelele geometrice complicate din plăci ceramice.",
+                  "category": "landmark",
+                  "coords": [
+                        51.402099,
+                        35.790158
+                  ]
+            },
+            {
+                  "name": "Imam Sadiq University Mosque",
+                  "text": "Situată în campusul universitar, această moschee servește ca centru de rugăciune și reflecție academică pentru studenți.",
+                  "category": "landmark",
+                  "coords": [
+                        51.383851,
+                        35.768857
+                  ]
+            },
+            {
+                  "name": "Majed-al-Rasool Mosque",
+                  "text": "O moschee a comunității locale, caracterizată prin sala sa de rugăciune senină și elemente arhitecturale persane tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        51.374192,
+                        35.782166
+                  ]
+            },
+            {
+                  "name": "Alzahra Mosque",
+                  "text": "Această moschee urbană are un mihrab frumos decorat și oferă un spațiu liniștit pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        51.388668,
+                        35.787765
+                  ]
+            },
+            {
+                  "name": "St. Minas Church",
+                  "text": "Situată în cartierul Vanak, această biserică apostolică armeană este cunoscută pentru construcția sa tradițională din cărămidă și curtea sa liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        51.398565,
+                        35.768089
+                  ]
+            },
+            {
+                  "name": "Jam-E-Jam shopping center",
+                  "text": "Un centru comercial plin de viață pe strada Valiasr, care oferă o mare varietate de buticuri moderne și comercianți locali.",
+                  "category": "cultural",
+                  "coords": [
+                        51.414437,
+                        35.78073
+                  ]
+            },
+            {
+                  "name": "Safavaiyeh Bazzar",
+                  "text": "Situat vizavi de Parcul Mellat, acest bazar are o arhitectură tradițională și este specializat în obiecte de artizanat și bijuterii persane.",
+                  "category": "cultural",
+                  "coords": [
+                        51.41377,
+                        35.777795
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "e1 Art Gallery",
+                  "text": "A contemporary art gallery in Tehran showcasing modern works by Iranian artists in an elegant setting.",
+                  "category": "museum",
+                  "coords": [
+                        51.428963,
+                        35.781567
+                  ]
+            },
+            {
+                  "name": "Ariana Art Gallery",
+                  "text": "The Ariana Art Gallery in Tehran, known for exhibiting modern paintings and sculptures in a stylish garden house setting.",
+                  "category": "museum",
+                  "coords": [
+                        51.428456,
+                        35.786577
+                  ]
+            },
+            {
+                  "name": "Atbin Art Gallery",
+                  "text": "A boutique art gallery in Tehran specialized in promoting young talents from the Iranian art scene.",
+                  "category": "museum",
+                  "coords": [
+                        51.417001,
+                        35.789319
+                  ]
+            },
+            {
+                  "name": "Padan Studio",
+                  "text": "A creative arts center in Tehran serving as a platform for multimedia projects, design, and cultural exchange.",
+                  "category": "cultural",
+                  "coords": [
+                        51.418321,
+                        35.785501
+                  ]
+            },
+            {
+                  "name": "Mammals",
+                  "text": "A section of Tehran's Mellat Park where various mammal species can be observed in naturalistic enclosures.",
+                  "category": "recreational",
+                  "coords": [
+                        51.40839,
+                        35.778934
+                  ]
+            },
+            {
+                  "name": "Jorjani Art Gallery",
+                  "text": "An established art gallery in Tehran that regularly hosts solo exhibitions by renowned contemporary artists.",
+                  "category": "museum",
+                  "coords": [
+                        51.418213,
+                        35.795692
+                  ]
+            },
+            {
+                  "name": "KAAF Institute",
+                  "text": "An independent cultural institute in Tehran dedicated to contemporary art theory and experimental projects.",
+                  "category": "cultural",
+                  "coords": [
+                        51.389111,
+                        35.799444
+                  ]
+            },
+            {
+                  "name": "International Art Gallery",
+                  "text": "An international art gallery in Tehran promoting dialogue between Iranian and foreign artists.",
+                  "category": "museum",
+                  "coords": [
+                        51.358751,
+                        35.795848
+                  ]
+            },
+            {
+                  "name": "Tehran's Jurassic Park",
+                  "text": "A theme park in northern Tehran featuring large animatronic dinosaur models set in a hillside landscape.",
+                  "category": "recreational",
+                  "coords": [
+                        51.352419,
+                        35.790081
+                  ]
+            },
+            {
+                  "name": "Iranian Garden",
+                  "text": "A beautiful garden in Tehran designed in the traditional Persian style with water channels, fountains, and pavilions.",
+                  "category": "park",
+                  "coords": [
+                        51.39038,
+                        35.772133
+                  ]
+            },
+            {
+                  "name": "Sabet Pasal Palace",
+                  "text": "This grand mansion, inspired by the Petit Trianon at Versailles, is one of Tehran's largest and most opulent historic residences.",
+                  "category": "castle",
+                  "coords": [
+                        51.422141,
+                        35.780633
+                  ]
+            },
+            {
+                  "name": "British Embassy's Gholhak Garden",
+                  "text": "This historic diplomatic estate features lush greenery and houses the British War Cemetery within its grounds.",
+                  "category": "park",
+                  "coords": [
+                        51.437902,
+                        35.779553
+                  ]
+            },
+            {
+                  "name": "Mellat Park",
+                  "text": "Bordering Valiasr Street, this expansive urban park features a large central lake and numerous modern sculptures.",
+                  "category": "park",
+                  "coords": [
+                        51.410134,
+                        35.778123
+                  ]
+            },
+            {
+                  "name": "Parvaz Park",
+                  "text": "Situated on a hilltop in northern Tehran, this park offers sweeping panoramic views of the city skyline.",
+                  "category": "park",
+                  "coords": [
+                        51.356966,
+                        35.789186
+                  ]
+            },
+            {
+                  "name": "masjed alzahra",
+                  "text": "This local mosque serves the community with its traditional tiled facade and distinctive turquoise dome.",
+                  "category": "landmark",
+                  "coords": [
+                        51.419441,
+                        35.781462
+                  ]
+            },
+            {
+                  "name": "Alnabi Mosque",
+                  "text": "A prominent neighborhood mosque featuring classic Islamic architecture and a decorated entrance portal.",
+                  "category": "landmark",
+                  "coords": [
+                        51.400519,
+                        35.79868
+                  ]
+            },
+            {
+                  "name": "Hazrat Ibrahim Mosque",
+                  "text": "This place of worship is distinguished by its slender minarets and intricate geometric tile patterns.",
+                  "category": "landmark",
+                  "coords": [
+                        51.402099,
+                        35.790158
+                  ]
+            },
+            {
+                  "name": "Imam Sadiq University Mosque",
+                  "text": "Located within the university campus, this mosque serves as a center for prayer and academic reflection for students.",
+                  "category": "landmark",
+                  "coords": [
+                        51.383851,
+                        35.768857
+                  ]
+            },
+            {
+                  "name": "Majed-al-Rasool Mosque",
+                  "text": "A local community mosque characterized by its serene prayer hall and traditional Persian architectural elements.",
+                  "category": "landmark",
+                  "coords": [
+                        51.374192,
+                        35.782166
+                  ]
+            },
+            {
+                  "name": "Alzahra Mosque",
+                  "text": "This urban mosque features a beautifully decorated mihrab and provides a peaceful space for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        51.388668,
+                        35.787765
+                  ]
+            },
+            {
+                  "name": "St. Minas Church",
+                  "text": "Located in the Vanak neighborhood, this Armenian Apostolic church is known for its traditional brick construction and peaceful courtyard.",
+                  "category": "landmark",
+                  "coords": [
+                        51.398565,
+                        35.768089
+                  ]
+            },
+            {
+                  "name": "Jam-E-Jam shopping center",
+                  "text": "A bustling commercial hub on Valiasr Street offering a wide variety of modern boutiques and local retailers.",
+                  "category": "cultural",
+                  "coords": [
+                        51.414437,
+                        35.78073
+                  ]
+            },
+            {
+                  "name": "Safavaiyeh Bazzar",
+                  "text": "Situated across from Mellat Park, this market features traditional architecture and specializes in Persian handicrafts and jewelry.",
+                  "category": "cultural",
+                  "coords": [
+                        51.41377,
+                        35.777795
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "IR-07",
     coords: [51.410, 35.777],
@@ -46,7 +883,1240 @@ export const poiExtraIranLifeV2: POI[] = [
       fr: ["Le parc a été ouvert au public en 1973.", "La superficie totale du parc Mellat est impressionnante : 34 hectares.", "Un lac artificiel de 120 000 mètres carrés constitue le centre du complexe.", "Le terrain est situé à une altitude d'environ 1 500 mètres au-dessus du niveau de la mer.", "Un cinéma 4D fait partie des attractions modernes du parc.", "Le complexe abrite des statues de célèbres poètes et érudits persans."],
     }, image: "/poi-images/mellat-park-tehran-life-v2.webp"},
   {
-    id: "laleh-park-tehran-life-v2",
+    id: "laleh-park-tehran-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Malek Theater",
+                  "text": "Ein modernes Theater, das eine Vielzahl von zeitgenössischen iranischen Bühnenstücken präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        51.437818,
+                        35.718664
+                  ]
+            },
+            {
+                  "name": "St Nikolas Orthodox Church",
+                  "text": "Diese russisch-orthodoxe Kirche wurde im 20. Jahrhundert für die Emigrantengemeinde in Teheran erbaut.",
+                  "category": "religious",
+                  "coords": [
+                        51.42578,
+                        35.708272
+                  ]
+            },
+            {
+                  "name": "Kathedrale St. Josef",
+                  "text": "Die Hauptkathedrale der chaldäisch-katholischen Kirche in Teheran, ein bedeutender christlicher Orientierungspunkt.",
+                  "category": "religious",
+                  "coords": [
+                        51.421581,
+                        35.704753
+                  ]
+            },
+            {
+                  "name": "Museum of Marters",
+                  "text": "Dieses Museum widmet sich der Erinnerung an die Gefallenen des Iran-Irak-Krieges mit persönlichen Gegenständen.",
+                  "category": "museum",
+                  "coords": [
+                        51.421244,
+                        35.70674
+                  ]
+            },
+            {
+                  "name": "Jale Cafe and Art Gallery",
+                  "text": "Ein kombiniertes Café und Kunstraum, das Werke lokaler Künstler in entspannter Atmosphäre ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        51.421361,
+                        35.711932
+                  ]
+            },
+            {
+                  "name": "Aaran Art Gallery",
+                  "text": "Diese Galerie konzentriert sich auf wegweisende zeitgenössische iranische Kunst und avantgardistische Projekte.",
+                  "category": "landmark",
+                  "coords": [
+                        51.422539,
+                        35.716004
+                  ]
+            },
+            {
+                  "name": "Homa Art Gallery",
+                  "text": "Ein renommierter Ausstellungsort, der für die Förderung aufstrebender und etablierter iranischer Maler bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        51.421156,
+                        35.716518
+                  ]
+            },
+            {
+                  "name": "Down with USA mural",
+                  "text": "Ein bekanntes politisches Wandgemälde an den Mauern der ehemaligen US-Botschaft in Teheran.",
+                  "category": "natural",
+                  "coords": [
+                        51.416009,
+                        35.715037
+                  ]
+            },
+            {
+                  "name": "A Art Gallery",
+                  "text": "Ein intimer Galerieraum, der sich der Präsentation moderner visueller Kunst und Fotografie widmet.",
+                  "category": "museum",
+                  "coords": [
+                        51.413827,
+                        35.71358
+                  ]
+            },
+            {
+                  "name": "Nabshi Center",
+                  "text": "Dieses Kulturzentrum befasst sich mit Design, Architektur und visuellen Medien in einem restaurierten Gebäude.",
+                  "category": "museum",
+                  "coords": [
+                        51.415087,
+                        35.712137
+                  ]
+            },
+            {
+                  "name": "Assar Art Gallery",
+                  "text": "Eine der führenden Galerien Teherans, die sich auf hochwertige zeitgenössische iranische Malerei spezialisiert hat.",
+                  "category": "museum",
+                  "coords": [
+                        51.42034,
+                        35.708736
+                  ]
+            },
+            {
+                  "name": "LILIT GALLERY, Art Exhibition",
+                  "text": "Ein vielseitiger Kunstraum, der regelmäßige Ausstellungen und Workshops für die lokale Künstlerszene veranstaltet.",
+                  "category": "museum",
+                  "coords": [
+                        51.418975,
+                        35.710297
+                  ]
+            },
+            {
+                  "name": "Dena Art Gallery",
+                  "text": "Diese Galerie legt einen Schwerpunkt auf experimentelle Medien und junge iranische Talente.",
+                  "category": "museum",
+                  "coords": [
+                        51.41796,
+                        35.70763
+                  ]
+            },
+            {
+                  "name": "Parsroma",
+                  "text": "Ein Ausstellungsort, der klassische Ästhetik mit moderner Kunst in seinen kuratierten Sammlungen verbindet.",
+                  "category": "museum",
+                  "coords": [
+                        51.416018,
+                        35.7187
+                  ]
+            },
+            {
+                  "name": "O Art Gallery",
+                  "text": "Diese Galerie ist bekannt für ihre minimalistische Präsentation und den Fokus auf abstrakte Werke.",
+                  "category": "museum",
+                  "coords": [
+                        51.419111,
+                        35.720447
+                  ]
+            },
+            {
+                  "name": "Yusef Abad Synagogue",
+                  "text": "Die größte Synagoge Teherans und ein zentrales religiöses Heiligtum für die jüdische Gemeinde der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        51.409267,
+                        35.727513
+                  ]
+            },
+            {
+                  "name": "Museum of Dr.Ali Shariati",
+                  "text": "Das ehemalige Wohnhaus des bedeutenden Intellektuellen Dr. Ali Shariati, das heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        51.384574,
+                        35.712247
+                  ]
+            },
+            {
+                  "name": "Teheraner Museum für Zeitgenössische Kunst",
+                  "text": "In einem markanten modernistischen Gebäude beherbergt es eine der wertvollsten Sammlungen westlicher Kunst außerhalb des Okzidents.",
+                  "category": "museum",
+                  "coords": [
+                        51.390373,
+                        35.711525
+                  ]
+            },
+            {
+                  "name": "Church of Saint Mary",
+                  "text": "Eine griechisch-orthodoxe Kirche in Teheran, die durch ihre klassische byzantinische Architektur auffällt.",
+                  "category": "religious",
+                  "coords": [
+                        51.426041,
+                        35.70675
+                  ]
+            },
+            {
+                  "name": "Honarmandan Park",
+                  "text": "Dieser Park beherbergt zahlreiche Skulpturen und ist ein beliebter Treffpunkt für Künstler und Intellektuelle.",
+                  "category": "park",
+                  "coords": [
+                        51.420916,
+                        35.709902
+                  ]
+            },
+            {
+                  "name": "Iranshahr Theater",
+                  "text": "Ein bedeutendes Theaterzentrum im Honarmandan-Park, das für seine anspruchsvollen Produktionen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        51.421964,
+                        35.709715
+                  ]
+            },
+            {
+                  "name": "Saint Sarkis Cathedral",
+                  "text": "Diese armenisch-apostolische Kathedrale ist geprägt durch ihre imposante Betonfassade und zwei markante Türme.",
+                  "category": "religious",
+                  "coords": [
+                        51.415097,
+                        35.714936
+                  ]
+            },
+            {
+                  "name": "Shafagh Park",
+                  "text": "Ein terrassierter Park mit Wasserläufen, der von Kamran Diba entworfen wurde und moderne mit traditionellen Elementen verbindet.",
+                  "category": "park",
+                  "coords": [
+                        51.408434,
+                        35.729546
+                  ]
+            },
+            {
+                  "name": "Kanoon Parvaresh Children Theater",
+                  "text": "Dieses spezialisierte Theater widmet sich ausschließlich Aufführungen für Kinder und Jugendliche.",
+                  "category": "cultural",
+                  "coords": [
+                        51.393731,
+                        35.711436
+                  ]
+            },
+            {
+                  "name": "University of Tehran Mosque",
+                  "text": "Diese moderne Moschee auf dem Universitätscampus ist für ihre einzigartige Architektur ohne traditionelle Kuppel bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        51.394977,
+                        35.704235
+                  ]
+            },
+            {
+                  "name": "Saint Abraham's Church",
+                  "text": "Eine römisch-katholische Kirche der Dominikaner in Teheran, erbaut in einem schlichten, modernen Stil.",
+                  "category": "religious",
+                  "coords": [
+                        51.386866,
+                        35.703451
+                  ]
+            },
+            {
+                  "name": "Iranisches Teppichmuseum",
+                  "text": "Das Gebäude ähnelt einem Teppichwebstuhl und beherbergt eine weltberühmte Sammlung wertvoller persischer Knüpfkunst.",
+                  "category": "museum",
+                  "coords": [
+                        51.39056,
+                        35.713908
+                  ]
+            },
+            {
+                  "name": "Daneshjoo Park",
+                  "text": "Ein zentraler Stadtpark in Teheran, der für das markante zylindrische Gebäude des Stadttheaters an seiner Südseite bekannt ist.",
+                  "category": "park",
+                  "coords": [
+                        51.406358,
+                        35.700437
+                  ]
+            },
+            {
+                  "name": "Vahdat Concert Hall",
+                  "text": "Ein bedeutendes Opernhaus und Konzerthaus in Teheran, das für seine moderne Akustik und das Roudaki-Orchester bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        51.411067,
+                        35.699548
+                  ]
+            },
+            {
+                  "name": "Al-Rahman Mosque",
+                  "text": "Eine muslimische Gebetsstätte in Teheran, die durch ihre traditionelle Architektur und religiöse Versammlungen geprägt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        51.418398,
+                        35.712369
+                  ]
+            },
+            {
+                  "name": "Seshanbe Mahdavi",
+                  "text": "Ein islamisches Gemeindezentrum in Teheran, das besonders für religiöse Veranstaltungen an Dienstagen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        51.404255,
+                        35.701451
+                  ]
+            },
+            {
+                  "name": "Jalili Mosque",
+                  "text": "Eine muslimische Moschee in Teheran, die als lokales Zentrum für tägliche Gebete und geistliche Gemeinschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        51.419734,
+                        35.70278
+                  ]
+            },
+            {
+                  "name": "Bāgh-e Sabā Synagouge",
+                  "text": "Eine historische jüdische Synagoge in Teheran, die als kulturelles Zeugnis der religiösen Vielfalt der Stadt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        51.440544,
+                        35.716113
+                  ]
+            },
+            {
+                  "name": "mosque Nour",
+                  "text": "Eine muslimische Moschee in Teheran, die für ihre ruhige Gebetsatmosphäre inmitten des Stadtlebens bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        51.404647,
+                        35.719146
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Malek Theater",
+                  "text": "Modern színház, amely kortárs iráni színdarabok széles választékát mutatja be.",
+                  "category": "cultural",
+                  "coords": [
+                        51.437818,
+                        35.718664
+                  ]
+            },
+            {
+                  "name": "St Nikolas Orthodox Church",
+                  "text": "Ezt az orosz ortodox templomot a 20. században építették a teheráni emigráns közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        51.42578,
+                        35.708272
+                  ]
+            },
+            {
+                  "name": "St. Joseph's Cathedral, Tehran",
+                  "text": "A teheráni káld katolikus egyház főszékesegyháza, fontos keresztény tájékozódási pont.",
+                  "category": "religious",
+                  "coords": [
+                        51.421581,
+                        35.704753
+                  ]
+            },
+            {
+                  "name": "Museum of Marters",
+                  "text": "Ez a múzeum az iráni-iraki háború elesettjeinek emlékének szentelt, személyes tárgyaikat bemutatva.",
+                  "category": "museum",
+                  "coords": [
+                        51.421244,
+                        35.70674
+                  ]
+            },
+            {
+                  "name": "Jale Cafe and Art Gallery",
+                  "text": "Kombinált kávézó és művészeti tér, amely helyi művészek alkotásait mutatja be kötetlen hangulatban.",
+                  "category": "museum",
+                  "coords": [
+                        51.421361,
+                        35.711932
+                  ]
+            },
+            {
+                  "name": "Aaran Art Gallery",
+                  "text": "Ez a galéria az úttörő kortárs iráni művészetre és avantgárd projektekre összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        51.422539,
+                        35.716004
+                  ]
+            },
+            {
+                  "name": "Homa Art Gallery",
+                  "text": "Neves kiállítóhely, amely feltörekvő és befutott iráni festők támogatásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        51.421156,
+                        35.716518
+                  ]
+            },
+            {
+                  "name": "Down with USA mural",
+                  "text": "Ismert politikai falfestmény az egykori amerikai nagykövetség falain Teheránban.",
+                  "category": "natural",
+                  "coords": [
+                        51.416009,
+                        35.715037
+                  ]
+            },
+            {
+                  "name": "A Art Gallery",
+                  "text": "Intim galériatér, amelyet a modern vizuális művészet és fotográfia bemutatásának szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        51.413827,
+                        35.71358
+                  ]
+            },
+            {
+                  "name": "Nabshi Center",
+                  "text": "Ez a kulturális központ dizájnnal, építészettel és vizuális médiával foglalkozik egy felújított épületben.",
+                  "category": "museum",
+                  "coords": [
+                        51.415087,
+                        35.712137
+                  ]
+            },
+            {
+                  "name": "Assar Art Gallery",
+                  "text": "Teherán egyik vezető galériája, amely kiváló minőségű kortárs iráni festészetre specializálódott.",
+                  "category": "museum",
+                  "coords": [
+                        51.42034,
+                        35.708736
+                  ]
+            },
+            {
+                  "name": "LILIT GALLERY, Art Exhibition",
+                  "text": "Sokoldalú művészeti tér, amely rendszeres kiállításoknak és műhelyfoglalkozásoknak ad otthont a helyi művészek számára.",
+                  "category": "museum",
+                  "coords": [
+                        51.418975,
+                        35.710297
+                  ]
+            },
+            {
+                  "name": "Dena Art Gallery",
+                  "text": "Ez a galéria a kísérleti médiára és a fiatal iráni tehetségekre helyezi a hangsúlyt.",
+                  "category": "museum",
+                  "coords": [
+                        51.41796,
+                        35.70763
+                  ]
+            },
+            {
+                  "name": "Parsroma",
+                  "text": "Kiállítóhely, amely a klasszikus esztétikát ötvözi a modern művészettel kurátori gyűjteményeiben.",
+                  "category": "museum",
+                  "coords": [
+                        51.416018,
+                        35.7187
+                  ]
+            },
+            {
+                  "name": "O Art Gallery",
+                  "text": "Ez a galéria minimalista bemutatásáról és az absztrakt művekre való összpontosításáról ismert.",
+                  "category": "museum",
+                  "coords": [
+                        51.419111,
+                        35.720447
+                  ]
+            },
+            {
+                  "name": "Yusef Abad Synagogue",
+                  "text": "Teherán legnagyobb zsinagógája és a város zsidó közösségének központi vallási szentélye.",
+                  "category": "religious",
+                  "coords": [
+                        51.409267,
+                        35.727513
+                  ]
+            },
+            {
+                  "name": "Museum of Dr.Ali Shariati",
+                  "text": "A jelentős értelmiségi, Dr. Ali Shariati egykori lakóháza, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        51.384574,
+                        35.712247
+                  ]
+            },
+            {
+                  "name": "Tehran Museum Of Contemporary Art",
+                  "text": "Egy jellegzetes modernista épületben a Nyugaton kívüli egyik legértékesebb nyugati művészeti gyűjteménynek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        51.390373,
+                        35.711525
+                  ]
+            },
+            {
+                  "name": "Church of Saint Mary",
+                  "text": "Teheráni görög ortodox templom, amely klasszikus bizánci építészetével tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        51.426041,
+                        35.70675
+                  ]
+            },
+            {
+                  "name": "Honarmandan Park",
+                  "text": "Ez a park számos szobornak ad otthont, a művészek és értelmiségiek kedvelt találkozóhelye.",
+                  "category": "park",
+                  "coords": [
+                        51.420916,
+                        35.709902
+                  ]
+            },
+            {
+                  "name": "Iranshahr Theater",
+                  "text": "Jelentős színházi központ a Honarmandan parkban, amely igényes produkcióiról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        51.421964,
+                        35.709715
+                  ]
+            },
+            {
+                  "name": "Saint Sarkis Cathedral",
+                  "text": "Ezt az örmény apostoli székesegyházat impozáns betonhomlokzata és két jellegzetes tornya jellemzi.",
+                  "category": "religious",
+                  "coords": [
+                        51.415097,
+                        35.714936
+                  ]
+            },
+            {
+                  "name": "Shafagh Park",
+                  "text": "Teraszos park vízfolyásokkal, amelyet Kamran Diba tervezett, ötvözve a modern és a hagyományos elemeket.",
+                  "category": "park",
+                  "coords": [
+                        51.408434,
+                        35.729546
+                  ]
+            },
+            {
+                  "name": "Kanoon Parvaresh Children Theater",
+                  "text": "Ez a speciális színház kizárólag gyermekeknek és fiataloknak szóló előadásoknak szenteli magát.",
+                  "category": "cultural",
+                  "coords": [
+                        51.393731,
+                        35.711436
+                  ]
+            },
+            {
+                  "name": "University of Tehran Mosque",
+                  "text": "Az egyetemi campuson található modern mecset egyedi, hagyományos kupola nélküli építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        51.394977,
+                        35.704235
+                  ]
+            },
+            {
+                  "name": "Saint Abraham's Church",
+                  "text": "Teheráni római katolikus domonkos templom, amely egyszerű, modern stílusban épült.",
+                  "category": "religious",
+                  "coords": [
+                        51.386866,
+                        35.703451
+                  ]
+            },
+            {
+                  "name": "Carpet Museum of Iran",
+                  "text": "Az épület egy szövőszékre hasonlít, és értékes perzsaszőnyegek világhírű gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        51.39056,
+                        35.713908
+                  ]
+            },
+            {
+                  "name": "Daneshjoo Park",
+                  "text": "Teherán központi parkja, amely a déli oldalán található jellegzetes, hengeres Városi Színház épületéről ismert.",
+                  "category": "park",
+                  "coords": [
+                        51.406358,
+                        35.700437
+                  ]
+            },
+            {
+                  "name": "Vahdat Concert Hall",
+                  "text": "Teherán jelentős operaháza és hangversenyterme, amely modern akusztikájáról és a Roudaki Zenekarról híres.",
+                  "category": "cultural",
+                  "coords": [
+                        51.411067,
+                        35.699548
+                  ]
+            },
+            {
+                  "name": "Al-Rahman Mosque",
+                  "text": "Teheráni muszlim imaház, amelyet hagyományos építészete és vallási gyűlései jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        51.418398,
+                        35.712369
+                  ]
+            },
+            {
+                  "name": "Seshanbe Mahdavi",
+                  "text": "Teheráni iszlám közösségi központ, amely különösen a keddi napokon tartott vallási eseményeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        51.404255,
+                        35.701451
+                  ]
+            },
+            {
+                  "name": "Jalili Mosque",
+                  "text": "Teheráni muszlim mecset, amely a napi imádságok és a spirituális közösségi élet helyi központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        51.419734,
+                        35.70278
+                  ]
+            },
+            {
+                  "name": "Bāgh-e Sabā Synagouge",
+                  "text": "Teherán egyik történelmi zsidó zsinagógája, amely a város vallási sokszínűségének kulturális bizonyítéka.",
+                  "category": "landmark",
+                  "coords": [
+                        51.440544,
+                        35.716113
+                  ]
+            },
+            {
+                  "name": "mosque Nour",
+                  "text": "Teheráni muszlim mecset, amely a városi forgatag közepén található nyugodt imádságos légköréről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        51.404647,
+                        35.719146
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Malek Theater",
+                  "text": "Un teatru modern care prezintă o varietate de piese de teatru iraniene contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        51.437818,
+                        35.718664
+                  ]
+            },
+            {
+                  "name": "St Nikolas Orthodox Church",
+                  "text": "Această biserică ortodoxă rusă a fost construită în secolul al XX-lea pentru comunitatea de emigranți din Teheran.",
+                  "category": "religious",
+                  "coords": [
+                        51.42578,
+                        35.708272
+                  ]
+            },
+            {
+                  "name": "St. Joseph's Cathedral, Tehran",
+                  "text": "Catedrala principală a Bisericii Catolice Caldee din Teheran, un reper creștin important.",
+                  "category": "religious",
+                  "coords": [
+                        51.421581,
+                        35.704753
+                  ]
+            },
+            {
+                  "name": "Museum of Marters",
+                  "text": "Acest muzeu este dedicat memoriei celor căzuți în războiul dintre Iran și Irak, expunând obiecte personale.",
+                  "category": "museum",
+                  "coords": [
+                        51.421244,
+                        35.70674
+                  ]
+            },
+            {
+                  "name": "Jale Cafe and Art Gallery",
+                  "text": "O cafenea și un spațiu de artă combinat care expune lucrările artiștilor locali într-o atmosferă relaxată.",
+                  "category": "museum",
+                  "coords": [
+                        51.421361,
+                        35.711932
+                  ]
+            },
+            {
+                  "name": "Aaran Art Gallery",
+                  "text": "Această galerie se concentrează pe arta iraniană contemporană de pionierat și pe proiecte de avangardă.",
+                  "category": "landmark",
+                  "coords": [
+                        51.422539,
+                        35.716004
+                  ]
+            },
+            {
+                  "name": "Homa Art Gallery",
+                  "text": "Un loc de expoziție renumit, cunoscut pentru promovarea pictorilor iranieni emergenți și consacrați.",
+                  "category": "landmark",
+                  "coords": [
+                        51.421156,
+                        35.716518
+                  ]
+            },
+            {
+                  "name": "Down with USA mural",
+                  "text": "O pictură murală politică binecunoscută pe zidurile fostei ambasade a SUA din Teheran.",
+                  "category": "natural",
+                  "coords": [
+                        51.416009,
+                        35.715037
+                  ]
+            },
+            {
+                  "name": "A Art Gallery",
+                  "text": "Un spațiu de galerie intim dedicat prezentării artei vizuale moderne și fotografiei.",
+                  "category": "museum",
+                  "coords": [
+                        51.413827,
+                        35.71358
+                  ]
+            },
+            {
+                  "name": "Nabshi Center",
+                  "text": "Acest centru cultural se ocupă de design, arhitectură și media vizuală într-o clădire restaurată.",
+                  "category": "museum",
+                  "coords": [
+                        51.415087,
+                        35.712137
+                  ]
+            },
+            {
+                  "name": "Assar Art Gallery",
+                  "text": "Una dintre principalele galerii din Teheran, specializată în pictura iraniană contemporană de înaltă calitate.",
+                  "category": "museum",
+                  "coords": [
+                        51.42034,
+                        35.708736
+                  ]
+            },
+            {
+                  "name": "LILIT GALLERY, Art Exhibition",
+                  "text": "Un spațiu de artă versatil care găzduiește expoziții regulate și ateliere pentru scena artistică locală.",
+                  "category": "museum",
+                  "coords": [
+                        51.418975,
+                        35.710297
+                  ]
+            },
+            {
+                  "name": "Dena Art Gallery",
+                  "text": "Această galerie pune accentul pe media experimentală și pe tinerele talente iraniene.",
+                  "category": "museum",
+                  "coords": [
+                        51.41796,
+                        35.70763
+                  ]
+            },
+            {
+                  "name": "Parsroma",
+                  "text": "Un spațiu de expoziție care îmbină estetica clasică cu arta modernă în colecțiile sale curatoriate.",
+                  "category": "museum",
+                  "coords": [
+                        51.416018,
+                        35.7187
+                  ]
+            },
+            {
+                  "name": "O Art Gallery",
+                  "text": "Această galerie este cunoscută pentru prezentarea sa minimalistă și accentul pus pe lucrările abstracte.",
+                  "category": "museum",
+                  "coords": [
+                        51.419111,
+                        35.720447
+                  ]
+            },
+            {
+                  "name": "Yusef Abad Synagogue",
+                  "text": "Cea mai mare sinagogă din Teheran și un sanctuar religios central pentru comunitatea evreiască din oraș.",
+                  "category": "religious",
+                  "coords": [
+                        51.409267,
+                        35.727513
+                  ]
+            },
+            {
+                  "name": "Museum of Dr.Ali Shariati",
+                  "text": "Fosta reședință a influentului intelectual Dr. Ali Shariati, care acum servește drept muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        51.384574,
+                        35.712247
+                  ]
+            },
+            {
+                  "name": "Tehran Museum Of Contemporary Art",
+                  "text": "Într-o clădire modernistă frapantă, găzduiește una dintre cele mai valoroase colecții de artă occidentală din afara Occidentului.",
+                  "category": "museum",
+                  "coords": [
+                        51.390373,
+                        35.711525
+                  ]
+            },
+            {
+                  "name": "Church of Saint Mary",
+                  "text": "O biserică ortodoxă greacă din Teheran, care se remarcă prin arhitectura sa bizantină clasică.",
+                  "category": "religious",
+                  "coords": [
+                        51.426041,
+                        35.70675
+                  ]
+            },
+            {
+                  "name": "Honarmandan Park",
+                  "text": "Acest parc găzduiește numeroase sculpturi și este un loc de întâlnire popular pentru artiști și intelectuali.",
+                  "category": "park",
+                  "coords": [
+                        51.420916,
+                        35.709902
+                  ]
+            },
+            {
+                  "name": "Iranshahr Theater",
+                  "text": "Un centru teatral important situat în Parcul Honarmandan, cunoscut pentru producțiile sale sofisticate.",
+                  "category": "cultural",
+                  "coords": [
+                        51.421964,
+                        35.709715
+                  ]
+            },
+            {
+                  "name": "Saint Sarkis Cathedral",
+                  "text": "Această catedrală apostolică armeană este marcată de fațada sa impunătoare din beton și de cele două turnuri distinctive.",
+                  "category": "religious",
+                  "coords": [
+                        51.415097,
+                        35.714936
+                  ]
+            },
+            {
+                  "name": "Shafagh Park",
+                  "text": "Un parc terasat cu cursuri de apă, proiectat de Kamran Diba, îmbinând elemente moderne și tradiționale.",
+                  "category": "park",
+                  "coords": [
+                        51.408434,
+                        35.729546
+                  ]
+            },
+            {
+                  "name": "Kanoon Parvaresh Children Theater",
+                  "text": "Acest teatru specializat este dedicat exclusiv spectacolelor pentru copii și tineri.",
+                  "category": "cultural",
+                  "coords": [
+                        51.393731,
+                        35.711436
+                  ]
+            },
+            {
+                  "name": "University of Tehran Mosque",
+                  "text": "Această moschee modernă din campusul universitar este cunoscută pentru arhitectura sa unică, fără cupolă tradițională.",
+                  "category": "religious",
+                  "coords": [
+                        51.394977,
+                        35.704235
+                  ]
+            },
+            {
+                  "name": "Saint Abraham's Church",
+                  "text": "O biserică romano-catolică dominicană din Teheran, construită într-un stil modern și simplu.",
+                  "category": "religious",
+                  "coords": [
+                        51.386866,
+                        35.703451
+                  ]
+            },
+            {
+                  "name": "Carpet Museum of Iran",
+                  "text": "Clădirea seamănă cu un război de țesut și adăpostește o colecție de renume mondial de covoare persane valoroase.",
+                  "category": "museum",
+                  "coords": [
+                        51.39056,
+                        35.713908
+                  ]
+            },
+            {
+                  "name": "Daneshjoo Park",
+                  "text": "Un parc central din Teheran, cunoscut pentru clădirea cilindrică distinctivă a Teatrului Municipal situată în partea sa de sud.",
+                  "category": "park",
+                  "coords": [
+                        51.406358,
+                        35.700437
+                  ]
+            },
+            {
+                  "name": "Vahdat Concert Hall",
+                  "text": "O sală de operă și concerte majoră din Teheran, cunoscută pentru acustica sa modernă și Orchestra Roudaki.",
+                  "category": "cultural",
+                  "coords": [
+                        51.411067,
+                        35.699548
+                  ]
+            },
+            {
+                  "name": "Al-Rahman Mosque",
+                  "text": "Un lăcaș de cult musulman din Teheran, caracterizat prin arhitectura sa tradițională și adunările religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        51.418398,
+                        35.712369
+                  ]
+            },
+            {
+                  "name": "Seshanbe Mahdavi",
+                  "text": "Un centru comunitar islamic din Teheran, cunoscut în special pentru evenimentele religioase organizate în zilele de marți.",
+                  "category": "landmark",
+                  "coords": [
+                        51.404255,
+                        35.701451
+                  ]
+            },
+            {
+                  "name": "Jalili Mosque",
+                  "text": "O moschee musulmană din Teheran care servește ca centru local pentru rugăciunile zilnice și comuniunea spirituală.",
+                  "category": "landmark",
+                  "coords": [
+                        51.419734,
+                        35.70278
+                  ]
+            },
+            {
+                  "name": "Bāgh-e Sabā Synagouge",
+                  "text": "O sinagogă evreiască istorică din Teheran, care servește ca mărturie culturală a diversității religioase a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        51.440544,
+                        35.716113
+                  ]
+            },
+            {
+                  "name": "mosque Nour",
+                  "text": "O moschee musulmană din Teheran, cunoscută pentru atmosfera sa liniștită de rugăciune în mijlocul vieții urbane.",
+                  "category": "landmark",
+                  "coords": [
+                        51.404647,
+                        35.719146
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Malek Theater",
+                  "text": "A modern theater showcasing a variety of contemporary Iranian stage plays.",
+                  "category": "cultural",
+                  "coords": [
+                        51.437818,
+                        35.718664
+                  ]
+            },
+            {
+                  "name": "St Nikolas Orthodox Church",
+                  "text": "This Russian Orthodox church was built in the 20th century for the emigrant community in Tehran.",
+                  "category": "religious",
+                  "coords": [
+                        51.42578,
+                        35.708272
+                  ]
+            },
+            {
+                  "name": "St. Joseph's Cathedral, Tehran",
+                  "text": "The main cathedral of the Chaldean Catholic Church in Tehran, a significant Christian landmark.",
+                  "category": "religious",
+                  "coords": [
+                        51.421581,
+                        35.704753
+                  ]
+            },
+            {
+                  "name": "Museum of Marters",
+                  "text": "This museum is dedicated to the memory of those who fell during the Iran-Iraq War, displaying personal belongings.",
+                  "category": "museum",
+                  "coords": [
+                        51.421244,
+                        35.70674
+                  ]
+            },
+            {
+                  "name": "Jale Cafe and Art Gallery",
+                  "text": "A combined cafe and art space exhibiting works by local artists in a relaxed atmosphere.",
+                  "category": "museum",
+                  "coords": [
+                        51.421361,
+                        35.711932
+                  ]
+            },
+            {
+                  "name": "Aaran Art Gallery",
+                  "text": "This gallery focuses on pioneering contemporary Iranian art and avant-garde projects.",
+                  "category": "landmark",
+                  "coords": [
+                        51.422539,
+                        35.716004
+                  ]
+            },
+            {
+                  "name": "Homa Art Gallery",
+                  "text": "A renowned exhibition space known for promoting emerging and established Iranian painters.",
+                  "category": "landmark",
+                  "coords": [
+                        51.421156,
+                        35.716518
+                  ]
+            },
+            {
+                  "name": "Down with USA mural",
+                  "text": "A well-known political mural on the walls of the former US Embassy in Tehran.",
+                  "category": "natural",
+                  "coords": [
+                        51.416009,
+                        35.715037
+                  ]
+            },
+            {
+                  "name": "A Art Gallery",
+                  "text": "An intimate gallery space dedicated to showcasing modern visual art and photography.",
+                  "category": "museum",
+                  "coords": [
+                        51.413827,
+                        35.71358
+                  ]
+            },
+            {
+                  "name": "Nabshi Center",
+                  "text": "This cultural center focuses on design, architecture, and visual media within a restored building.",
+                  "category": "museum",
+                  "coords": [
+                        51.415087,
+                        35.712137
+                  ]
+            },
+            {
+                  "name": "Assar Art Gallery",
+                  "text": "One of Tehran's leading galleries, specializing in high-quality contemporary Iranian painting.",
+                  "category": "museum",
+                  "coords": [
+                        51.42034,
+                        35.708736
+                  ]
+            },
+            {
+                  "name": "LILIT GALLERY, Art Exhibition",
+                  "text": "A versatile art space hosting regular exhibitions and workshops for the local art scene.",
+                  "category": "museum",
+                  "coords": [
+                        51.418975,
+                        35.710297
+                  ]
+            },
+            {
+                  "name": "Dena Art Gallery",
+                  "text": "This gallery emphasizes experimental media and young Iranian talents.",
+                  "category": "museum",
+                  "coords": [
+                        51.41796,
+                        35.70763
+                  ]
+            },
+            {
+                  "name": "Parsroma",
+                  "text": "An exhibition space blending classical aesthetics with modern art in its curated collections.",
+                  "category": "museum",
+                  "coords": [
+                        51.416018,
+                        35.7187
+                  ]
+            },
+            {
+                  "name": "O Art Gallery",
+                  "text": "This gallery is known for its minimalist presentation and focus on abstract works.",
+                  "category": "museum",
+                  "coords": [
+                        51.419111,
+                        35.720447
+                  ]
+            },
+            {
+                  "name": "Yusef Abad Synagogue",
+                  "text": "The largest synagogue in Tehran and a central religious sanctuary for the city's Jewish community.",
+                  "category": "religious",
+                  "coords": [
+                        51.409267,
+                        35.727513
+                  ]
+            },
+            {
+                  "name": "Museum of Dr.Ali Shariati",
+                  "text": "The former residence of the prominent intellectual Dr. Ali Shariati, now serving as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        51.384574,
+                        35.712247
+                  ]
+            },
+            {
+                  "name": "Tehran Museum Of Contemporary Art",
+                  "text": "In a striking modernist building, it houses one of the most valuable collections of Western art outside the West.",
+                  "category": "museum",
+                  "coords": [
+                        51.390373,
+                        35.711525
+                  ]
+            },
+            {
+                  "name": "Church of Saint Mary",
+                  "text": "A Greek Orthodox church in Tehran, standing out with its classical Byzantine architecture.",
+                  "category": "religious",
+                  "coords": [
+                        51.426041,
+                        35.70675
+                  ]
+            },
+            {
+                  "name": "Honarmandan Park",
+                  "text": "This park houses numerous sculptures and is a popular gathering spot for artists and intellectuals.",
+                  "category": "park",
+                  "coords": [
+                        51.420916,
+                        35.709902
+                  ]
+            },
+            {
+                  "name": "Iranshahr Theater",
+                  "text": "A major theater center located within Honarmandan Park, known for its sophisticated productions.",
+                  "category": "cultural",
+                  "coords": [
+                        51.421964,
+                        35.709715
+                  ]
+            },
+            {
+                  "name": "Saint Sarkis Cathedral",
+                  "text": "This Armenian Apostolic cathedral is marked by its imposing concrete facade and two distinctive towers.",
+                  "category": "religious",
+                  "coords": [
+                        51.415097,
+                        35.714936
+                  ]
+            },
+            {
+                  "name": "Shafagh Park",
+                  "text": "A terraced park with waterways designed by Kamran Diba, blending modern and traditional elements.",
+                  "category": "park",
+                  "coords": [
+                        51.408434,
+                        35.729546
+                  ]
+            },
+            {
+                  "name": "Kanoon Parvaresh Children Theater",
+                  "text": "This specialized theater is dedicated exclusively to performances for children and young people.",
+                  "category": "cultural",
+                  "coords": [
+                        51.393731,
+                        35.711436
+                  ]
+            },
+            {
+                  "name": "University of Tehran Mosque",
+                  "text": "This modern mosque on the university campus is known for its unique architecture without a traditional dome.",
+                  "category": "religious",
+                  "coords": [
+                        51.394977,
+                        35.704235
+                  ]
+            },
+            {
+                  "name": "Saint Abraham's Church",
+                  "text": "A Roman Catholic Dominican church in Tehran, built in a simple, modern style.",
+                  "category": "religious",
+                  "coords": [
+                        51.386866,
+                        35.703451
+                  ]
+            },
+            {
+                  "name": "Carpet Museum of Iran",
+                  "text": "The building's design resembles a carpet loom, housing a world-class collection of precious Persian rugs.",
+                  "category": "museum",
+                  "coords": [
+                        51.39056,
+                        35.713908
+                  ]
+            },
+            {
+                  "name": "Daneshjoo Park",
+                  "text": "A central urban park in Tehran known for the iconic cylindrical City Theatre building located on its southern side.",
+                  "category": "park",
+                  "coords": [
+                        51.406358,
+                        35.700437
+                  ]
+            },
+            {
+                  "name": "Vahdat Concert Hall",
+                  "text": "A major opera house and concert hall in Tehran, renowned for its modern acoustics and hosting the Roudaki Orchestra.",
+                  "category": "cultural",
+                  "coords": [
+                        51.411067,
+                        35.699548
+                  ]
+            },
+            {
+                  "name": "Al-Rahman Mosque",
+                  "text": "A Muslim place of worship in Tehran characterized by its traditional architecture and religious gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        51.418398,
+                        35.712369
+                  ]
+            },
+            {
+                  "name": "Seshanbe Mahdavi",
+                  "text": "An Islamic community center in Tehran, specifically known for religious gatherings held on Tuesdays.",
+                  "category": "landmark",
+                  "coords": [
+                        51.404255,
+                        35.701451
+                  ]
+            },
+            {
+                  "name": "Jalili Mosque",
+                  "text": "A Muslim mosque in Tehran serving as a local hub for daily prayers and spiritual community life.",
+                  "category": "landmark",
+                  "coords": [
+                        51.419734,
+                        35.70278
+                  ]
+            },
+            {
+                  "name": "Bāgh-e Sabā Synagouge",
+                  "text": "A historic Jewish synagogue in Tehran that stands as a cultural testament to the city's religious diversity.",
+                  "category": "landmark",
+                  "coords": [
+                        51.440544,
+                        35.716113
+                  ]
+            },
+            {
+                  "name": "mosque Nour",
+                  "text": "A Muslim mosque in Tehran known for its serene atmosphere for prayer amidst the urban bustle.",
+                  "category": "landmark",
+                  "coords": [
+                        51.404647,
+                        35.719146
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "IR-07",
     coords: [51.396, 35.715],
@@ -89,7 +2159,340 @@ export const poiExtraIranLifeV2: POI[] = [
       fr: ["Le parc Laleh s'étend sur une superficie d'environ 35 hectares.", "La création du parc a eu lieu en 1966.", "Avant la Révolution islamique de 1979, le complexe portait le nom de parc Farah.", "Le Musée d'art contemporain de Téhéran, en bordure du parc, a ouvert en 1977.", "Une statue célèbre du poète persan Omar Khayyam se trouve dans le parc.", "Le musée du tapis voisin possède plus de 1 500 tapis historiques."],
     }, image: "/poi-images/laleh-park-tehran-life-v2.webp"},
   {
-    id: "eram-amusement-park-life-v2",
+    id: "eram-amusement-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Reyhan",
+                  "text": "Dieses spezialisierte Aquarium präsentiert eine Vielzahl von Süß- und Salzwasserfischarten in wunderschön gepflegten Becken.",
+                  "category": "recreational",
+                  "coords": [
+                        51.277575,
+                        35.74864
+                  ]
+            },
+            {
+                  "name": "Eram Park Zoo",
+                  "text": "Als größter Zoo des Irans beherbergt diese Einrichtung über 120 Tierarten, darunter Persische Leoparden und Afrikanische Löwen.",
+                  "category": "recreational",
+                  "coords": [
+                        51.293324,
+                        35.718673
+                  ]
+            },
+            {
+                  "name": "Outdoor swimming pool Eram Park",
+                  "text": "Diese große Freibadanlage bietet eigene Bahnen für sportliches Schwimmen und Erholungsbereiche zur Abkühlung im Sommer.",
+                  "category": "recreational",
+                  "coords": [
+                        51.285938,
+                        35.725464
+                  ]
+            },
+            {
+                  "name": "Eram Park",
+                  "text": "Irans größter Vergnügungskomplex bietet einen Bootssee und drei separate Themenparks mit verschiedenen rasanten Fahrgeschäften.",
+                  "category": "park",
+                  "coords": [
+                        51.291062,
+                        35.721876
+                  ]
+            },
+            {
+                  "name": "Delegation of Hazrat Abolfazl al-Abbas (Parhizkar)",
+                  "text": "Ein lokaler religiöser Versammlungsort, der Hazrat Abolfazl gewidmet ist und für gemeinschaftliche Trauerzeremonien und spirituelle Veranstaltungen genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        51.301677,
+                        35.76958
+                  ]
+            },
+            {
+                  "name": "Almahdi Mosque",
+                  "text": "Diese moderne Stadtviertel-Moschee verfügt über eine markante blaue Kuppel und dient als spirituelles Zentrum für das umliegende Wohngebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        51.263619,
+                        35.747359
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "Eine traditionelle Moschee, die für ihre einladende Atmosphäre und die klassischen persischen Architekturdetails im Gebetssaal bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        51.26175,
+                        35.760424
+                  ]
+            },
+            {
+                  "name": "Nezam Mafi Mosque",
+                  "text": "Diese an der Ayatollah-Kashani-Promenade gelegene Moschee ist für ihre prachtvolle geflieste Fassade und ihre große Gemeindehalle bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        51.301982,
+                        35.741435
+                  ]
+            },
+            {
+                  "name": "Reza Mosque",
+                  "text": "Ein friedliches Gotteshaus mit traditionellen Spiegelarbeiten, das einen Zufluchtsort für die tägliche religiöse Praxis bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        51.286293,
+                        35.737714
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Reyhan",
+                  "text": "Ez a speciális akvárium számos édesvízi és sósvízi halfajt mutat be gyönyörűen karbantartott tartályokban.",
+                  "category": "recreational",
+                  "coords": [
+                        51.277575,
+                        35.74864
+                  ]
+            },
+            {
+                  "name": "Eram Park Zoo",
+                  "text": "Irán legnagyobb állatkertjeként több mint 120 állatfajnak ad otthont, köztük perzsa leopárdoknak és afrikai oroszlánoknak.",
+                  "category": "recreational",
+                  "coords": [
+                        51.293324,
+                        35.718673
+                  ]
+            },
+            {
+                  "name": "Outdoor swimming pool Eram Park",
+                  "text": "Ez a hatalmas szabadtéri úszólétesítmény kijelölt pályákat kínál a sportoláshoz és rekreációs területeket a nyári hűsöléshez.",
+                  "category": "recreational",
+                  "coords": [
+                        51.285938,
+                        35.725464
+                  ]
+            },
+            {
+                  "name": "Eram Park",
+                  "text": "Irán legnagyobb vidámpark-komplexuma csónakázótóval és három különálló élményparkkal várja a látogatókat.",
+                  "category": "park",
+                  "coords": [
+                        51.291062,
+                        35.721876
+                  ]
+            },
+            {
+                  "name": "Delegation of Hazrat Abolfazl al-Abbas (Parhizkar)",
+                  "text": "Hazrat Abolfazlnak szentelt helyi vallási gyülekezési hely, amelyet közösségi gyászszertartásokra és spirituális eseményekre használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        51.301677,
+                        35.76958
+                  ]
+            },
+            {
+                  "name": "Almahdi Mosque",
+                  "text": "Ez a modern környékbeli mecset feltűnő kék kupolájával tűnik ki, és a környező lakóövezet spirituális központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        51.263619,
+                        35.747359
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "Hagyományos mecset, amely barátságos légköréről és az imaterem klasszikus perzsa építészeti részleteiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        51.26175,
+                        35.760424
+                  ]
+            },
+            {
+                  "name": "Nezam Mafi Mosque",
+                  "text": "Az Ayatollah Kashani sugárúton található jelentős mecset impozáns csempézett homlokzatáról és hatalmas közösségi terméről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        51.301982,
+                        35.741435
+                  ]
+            },
+            {
+                  "name": "Reza Mosque",
+                  "text": "Békés imaház hagyományos tükördíszítéssel, amely menedéket nyújt a napi vallási gyakorlatokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        51.286293,
+                        35.737714
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Reyhan",
+                  "text": "Acest acvariu specializat prezintă o varietate de specii de pești de apă dulce și sărată în bazine frumos întreținute.",
+                  "category": "recreational",
+                  "coords": [
+                        51.277575,
+                        35.74864
+                  ]
+            },
+            {
+                  "name": "Eram Park Zoo",
+                  "text": "Fiind cea mai mare grădină zoologică din Iran, această facilitate găzduiește peste 120 de specii de animale, inclusiv leopardi persani și lei africani.",
+                  "category": "recreational",
+                  "coords": [
+                        51.293324,
+                        35.718673
+                  ]
+            },
+            {
+                  "name": "Outdoor swimming pool Eram Park",
+                  "text": "Această facilitate mare de înot în aer liber oferă culoare dedicate pentru exerciții și zone de recreere pentru răcorire pe timpul verii.",
+                  "category": "recreational",
+                  "coords": [
+                        51.285938,
+                        35.725464
+                  ]
+            },
+            {
+                  "name": "Eram Park",
+                  "text": "Cel mai mare complex de distracții din Iran are un lac pentru plimbări cu barca și trei parcuri tematice separate cu diverse atracții pline de energie.",
+                  "category": "park",
+                  "coords": [
+                        51.291062,
+                        35.721876
+                  ]
+            },
+            {
+                  "name": "Delegation of Hazrat Abolfazl al-Abbas (Parhizkar)",
+                  "text": "Un loc de adunare religioasă locală dedicat lui Hazrat Abolfazl, folosit pentru ceremonii de doliu comunitare și evenimente spirituale.",
+                  "category": "landmark",
+                  "coords": [
+                        51.301677,
+                        35.76958
+                  ]
+            },
+            {
+                  "name": "Almahdi Mosque",
+                  "text": "Această moschee modernă de cartier are un dom albastru frapant și servește ca centru spiritual pentru zona rezidențială înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        51.263619,
+                        35.747359
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "O moschee tradițională cunoscută pentru atmosfera sa primitoare și detaliile arhitecturale persane clasice din sala de rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        51.26175,
+                        35.760424
+                  ]
+            },
+            {
+                  "name": "Nezam Mafi Mosque",
+                  "text": "Situată pe bulevardul Ayatollah Kashani, această moschee proeminentă este recunoscută pentru fațada sa grandioasă placată cu ceramică și sala mare a comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        51.301982,
+                        35.741435
+                  ]
+            },
+            {
+                  "name": "Reza Mosque",
+                  "text": "Un lăcaș de cult liniștit, cu decorațiuni tradiționale din oglinzi, oferind un sanctuar pentru practica religioasă zilnică.",
+                  "category": "landmark",
+                  "coords": [
+                        51.286293,
+                        35.737714
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Reyhan",
+                  "text": "This specialized aquarium features a variety of freshwater and saltwater fish species in beautifully maintained tanks.",
+                  "category": "recreational",
+                  "coords": [
+                        51.277575,
+                        35.74864
+                  ]
+            },
+            {
+                  "name": "Eram Park Zoo",
+                  "text": "As the largest zoo in Iran, this facility houses over 120 species of animals, including Persian leopards and African lions.",
+                  "category": "recreational",
+                  "coords": [
+                        51.293324,
+                        35.718673
+                  ]
+            },
+            {
+                  "name": "Outdoor swimming pool Eram Park",
+                  "text": "This large outdoor swimming facility offers dedicated lanes for exercise and recreational areas for summer cooling.",
+                  "category": "recreational",
+                  "coords": [
+                        51.285938,
+                        35.725464
+                  ]
+            },
+            {
+                  "name": "Eram Park",
+                  "text": "Iran's largest amusement complex features a boating lake and three separate theme parks with various high-energy rides.",
+                  "category": "park",
+                  "coords": [
+                        51.291062,
+                        35.721876
+                  ]
+            },
+            {
+                  "name": "Delegation of Hazrat Abolfazl al-Abbas (Parhizkar)",
+                  "text": "A local religious gathering place dedicated to Hazrat Abolfazl, used for community mourning ceremonies and spiritual events.",
+                  "category": "landmark",
+                  "coords": [
+                        51.301677,
+                        35.76958
+                  ]
+            },
+            {
+                  "name": "Almahdi Mosque",
+                  "text": "This modern neighborhood mosque features a striking blue dome and serves as a spiritual center for the surrounding residential area.",
+                  "category": "landmark",
+                  "coords": [
+                        51.263619,
+                        35.747359
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "A traditional mosque known for its welcoming atmosphere and classic Persian architectural details in the prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        51.26175,
+                        35.760424
+                  ]
+            },
+            {
+                  "name": "Nezam Mafi Mosque",
+                  "text": "Located on Ayatollah Kashani Boulevard, this prominent mosque is recognized for its grand tiled facade and large community hall.",
+                  "category": "landmark",
+                  "coords": [
+                        51.301982,
+                        35.741435
+                  ]
+            },
+            {
+                  "name": "Reza Mosque",
+                  "text": "A peaceful place of worship featuring traditional mirror work and providing a sanctuary for daily religious practice.",
+                  "category": "landmark",
+                  "coords": [
+                        51.286293,
+                        35.737714
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "IR-07",
     coords: [51.272, 35.717],
@@ -132,7 +2535,592 @@ export const poiExtraIranLifeV2: POI[] = [
       fr: ["Le parc d'attractions Eram a été fondé en 1971.", "L'ensemble du site occupe une superficie d'environ 75 hectares.", "L'installation dispose de plus de 70 manèges différents.", "Le lac artificiel au centre du parc mesure environ 8 hectares.", "Le parc est divisé en trois zones de divertissement distinctes.", "Chaque année, le parc d'attractions enregistre plus de 2 millions de visiteurs."],
     }, image: "/poi-images/eram-amusement-park-life-v2.webp"},
   {
-    id: "isfahan-birds-garden-life-v2",
+    id: "isfahan-birds-garden-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Birds Garden",
+                  "text": "Ein weitläufiges Vogelhaus unter einem riesigen Stahlnetz, in dem über 130 verschiedene Vogelarten leben.",
+                  "category": "recreational",
+                  "coords": [
+                        51.609735,
+                        32.640671
+                  ]
+            },
+            {
+                  "name": "Mojir house",
+                  "text": "Ein traditionelles Wohnhaus aus der Qadscharen-Zeit mit kunstvollen Holzarbeiten, das heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        51.548108,
+                        32.676062
+                  ]
+            },
+            {
+                  "name": "Rehnan Bathhouse",
+                  "text": "Ein historisches persisches Badehaus mit zwei großen Hallen, das für seine kunstvollen Kalkputz-Verzierungen bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        51.601578,
+                        32.683611
+                  ]
+            },
+            {
+                  "name": "Menar Jonban",
+                  "text": "Dieses berühmte Mausoleum besitzt zwei Backstein-Minarette, die beide vibrieren, wenn eines von ihnen bewegt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        51.594112,
+                        32.650464
+                  ]
+            },
+            {
+                  "name": "Baba Shohada Cemetery",
+                  "text": "Eine Gedenkstätte und ein Friedhof, der den lokalen Märtyrern der Region gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        51.518256,
+                        32.581169
+                  ]
+            },
+            {
+                  "name": "Fire temple of Isfahan",
+                  "text": "Diese antiken Ruinen aus der Sassaniden-Zeit liegen auf einem felsigen Hügel und überblicken das westliche Isfahan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.570707,
+                        32.648604
+                  ]
+            },
+            {
+                  "name": "Sartip house",
+                  "text": "Ein prächtiges Herrenhaus mit feinen Stuckarbeiten und Spiegelmosaiken, das die lokale Architekturgeschichte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        51.533912,
+                        32.675593
+                  ]
+            },
+            {
+                  "name": "Masjede sahabazaman(aj)",
+                  "text": "Eine lokale Moschee im Wohnviertel, die dem zwölften Imam des schiitischen Islam gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        51.555482,
+                        32.659005
+                  ]
+            },
+            {
+                  "name": "Emam khomeini",
+                  "text": "Ein großes religiöses Zentrum in Isfahan, das nach dem Anführer der iranischen Revolution benannt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        51.535395,
+                        32.681538
+                  ]
+            },
+            {
+                  "name": "assarkhane vrnosfaderan (ven esfahan)",
+                  "text": "Eine historische Ölmühle, in der früher mit traditionellen Methoden Speiseöl aus Samen gewonnen wurde.",
+                  "category": "religious",
+                  "coords": [
+                        51.529922,
+                        32.687719
+                  ]
+            },
+            {
+                  "name": "Golouleh mosque",
+                  "text": "Diese Moschee dient als Gemeinschaftszentrum für die Bewohner der westlichen Vororte von Isfahan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.527448,
+                        32.684617
+                  ]
+            },
+            {
+                  "name": "Hazrat Abalfazl",
+                  "text": "Ein schiitisches Gebetshaus, das nach Abbas ibn Ali benannt ist und ein zentraler Ort für religiöse Trauerfeiern ist.",
+                  "category": "landmark",
+                  "coords": [
+                        51.55343,
+                        32.685801
+                  ]
+            },
+            {
+                  "name": "Masjed jame herestan",
+                  "text": "Die Hauptmoschee des Herestan-Viertels, die für ihre traditionelle Ziegelbauweise bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        51.555732,
+                        32.660888
+                  ]
+            },
+            {
+                  "name": "Ansarolmahdi",
+                  "text": "Ein moderner religiöser Komplex, der Einrichtungen für Gebete und islamische Bildung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        51.596664,
+                        32.712313
+                  ]
+            },
+            {
+                  "name": "Mohamadeyeh",
+                  "text": "Eine kleine Nachbarschaftsmoschee mit einer charakteristischen Kuppel im Herzen des Mohamadeyeh-Viertels.",
+                  "category": "landmark",
+                  "coords": [
+                        51.595306,
+                        32.714703
+                  ]
+            },
+            {
+                  "name": "Al-Mahdi Mosque",
+                  "text": "Diese Moschee in einem Wohngebiet Isfahans ist ein wichtiger Treffpunkt für das tägliche Gemeindengebet.",
+                  "category": "landmark",
+                  "coords": [
+                        51.578891,
+                        32.620619
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Birds Garden",
+                  "text": "Hatalmas acélháló alatti madárkert, ahol több mint 130 különböző madárfaj él.",
+                  "category": "recreational",
+                  "coords": [
+                        51.609735,
+                        32.640671
+                  ]
+            },
+            {
+                  "name": "Mojir house",
+                  "text": "Hagyományos kádzsár-kori lakóház díszes fafaragásokkal, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        51.548108,
+                        32.676062
+                  ]
+            },
+            {
+                  "name": "Rehnan Bathhouse",
+                  "text": "Történelmi perzsa fürdőház két nagy csarnokkal, amely művészi mészvakolat-díszítéseiről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        51.601578,
+                        32.683611
+                  ]
+            },
+            {
+                  "name": "Menar Jonban",
+                  "text": "Ez a híres mauzóleum két tégla-minarettel rendelkezik, amelyek mindketten rezegnek, ha az egyiket megmozdítják.",
+                  "category": "landmark",
+                  "coords": [
+                        51.594112,
+                        32.650464
+                  ]
+            },
+            {
+                  "name": "Baba Shohada Cemetery",
+                  "text": "Emlékhely és temető, amelyet a régió helyi mártírjainak szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        51.518256,
+                        32.581169
+                  ]
+            },
+            {
+                  "name": "Fire temple of Isfahan",
+                  "text": "Ezek a szászánida-kori ókori romok egy sziklás dombon találhatók, rálátással Nyugat-Iszfahánra.",
+                  "category": "landmark",
+                  "coords": [
+                        51.570707,
+                        32.648604
+                  ]
+            },
+            {
+                  "name": "Sartip house",
+                  "text": "Pompás kúria finom stukkómunkákkal és tükörmozaikokkal, amely a helyi építészeti történelmet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        51.533912,
+                        32.675593
+                  ]
+            },
+            {
+                  "name": "Masjede sahabazaman(aj)",
+                  "text": "Helyi mecset a lakónegyedben, amelyet a síita iszlám tizenkettedik imámjának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        51.555482,
+                        32.659005
+                  ]
+            },
+            {
+                  "name": "Emam khomeini",
+                  "text": "Iszfahán nagy vallási központja, amelyet az iráni forradalom vezetőjéről neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        51.535395,
+                        32.681538
+                  ]
+            },
+            {
+                  "name": "assarkhane vrnosfaderan (ven esfahan)",
+                  "text": "Történelmi olajütő, ahol korábban hagyományos módszerekkel nyertek ki étolajat magvakból.",
+                  "category": "religious",
+                  "coords": [
+                        51.529922,
+                        32.687719
+                  ]
+            },
+            {
+                  "name": "Golouleh mosque",
+                  "text": "Ez a mecset közösségi központként szolgál Iszfahán nyugati külvárosának lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        51.527448,
+                        32.684617
+                  ]
+            },
+            {
+                  "name": "Hazrat Abalfazl",
+                  "text": "Abbász ibn Aliról elnevezett síita imahely, amely a vallási gyászszertartások központi helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        51.55343,
+                        32.685801
+                  ]
+            },
+            {
+                  "name": "Masjed jame herestan",
+                  "text": "A Heresztán negyed főmecsetje, amely hagyományos téglaépítészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        51.555732,
+                        32.660888
+                  ]
+            },
+            {
+                  "name": "Ansarolmahdi",
+                  "text": "Modern vallási komplexum, amely imádságokhoz és iszlám oktatáshoz biztosít helyszínt.",
+                  "category": "landmark",
+                  "coords": [
+                        51.596664,
+                        32.712313
+                  ]
+            },
+            {
+                  "name": "Mohamadeyeh",
+                  "text": "Kicsi környékbeli mecset jellegzetes kupolával, a Mohamadeyeh negyed szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        51.595306,
+                        32.714703
+                  ]
+            },
+            {
+                  "name": "Al-Mahdi Mosque",
+                  "text": "Ez az Iszfahán lakóövezetében található mecset a napi közösségi imák fontos találkozóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        51.578891,
+                        32.620619
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Birds Garden",
+                  "text": "O volieră vastă sub o plasă uriașă de oțel, care găzduiește peste 130 de specii diferite de păsări.",
+                  "category": "recreational",
+                  "coords": [
+                        51.609735,
+                        32.640671
+                  ]
+            },
+            {
+                  "name": "Mojir house",
+                  "text": "O casă tradițională din epoca Qajar cu lucrări ornamentale în lemn, care servește acum ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        51.548108,
+                        32.676062
+                  ]
+            },
+            {
+                  "name": "Rehnan Bathhouse",
+                  "text": "O baie persană istorică cu două săli mari, cunoscută pentru decorațiunile sale artistice din tencuială de var.",
+                  "category": "historical",
+                  "coords": [
+                        51.601578,
+                        32.683611
+                  ]
+            },
+            {
+                  "name": "Menar Jonban",
+                  "text": "Acest mausoleu faimos are două minarete de cărămidă care vibrează amândouă atunci când unul dintre ele este mișcat.",
+                  "category": "landmark",
+                  "coords": [
+                        51.594112,
+                        32.650464
+                  ]
+            },
+            {
+                  "name": "Baba Shohada Cemetery",
+                  "text": "Un loc memorial și cimitir dedicat martirilor locali din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        51.518256,
+                        32.581169
+                  ]
+            },
+            {
+                  "name": "Fire temple of Isfahan",
+                  "text": "Aceste ruine antice din epoca sasanidă sunt situate pe un deal stâncos, oferind o vedere asupra vestului orașului Isfahan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.570707,
+                        32.648604
+                  ]
+            },
+            {
+                  "name": "Sartip house",
+                  "text": "Un conac splendid cu lucrări fine de stuc și mozaicuri de oglindă, care prezintă istoria arhitecturală locală.",
+                  "category": "museum",
+                  "coords": [
+                        51.533912,
+                        32.675593
+                  ]
+            },
+            {
+                  "name": "Masjede sahabazaman(aj)",
+                  "text": "O moschee locală dintr-un cartier rezidențial, dedicată celui de-al doisprezecelea imam al islamului șiit.",
+                  "category": "landmark",
+                  "coords": [
+                        51.555482,
+                        32.659005
+                  ]
+            },
+            {
+                  "name": "Emam khomeini",
+                  "text": "Un centru religios major din Isfahan, numit după liderul revoluției iraniene.",
+                  "category": "landmark",
+                  "coords": [
+                        51.535395,
+                        32.681538
+                  ]
+            },
+            {
+                  "name": "assarkhane vrnosfaderan (ven esfahan)",
+                  "text": "O presă de ulei istorică unde uleiul comestibil era extras anterior din semințe folosind metode tradiționale.",
+                  "category": "religious",
+                  "coords": [
+                        51.529922,
+                        32.687719
+                  ]
+            },
+            {
+                  "name": "Golouleh mosque",
+                  "text": "Această moschee servește ca centru comunitar pentru locuitorii din suburbiile vestice ale Isfahanului.",
+                  "category": "landmark",
+                  "coords": [
+                        51.527448,
+                        32.684617
+                  ]
+            },
+            {
+                  "name": "Hazrat Abalfazl",
+                  "text": "Un lăcaș de rugăciune șiit numit după Abbas ibn Ali, fiind un loc central pentru ceremoniile religioase de doliu.",
+                  "category": "landmark",
+                  "coords": [
+                        51.55343,
+                        32.685801
+                  ]
+            },
+            {
+                  "name": "Masjed jame herestan",
+                  "text": "Moscheea principală a cartierului Herestan, cunoscută pentru arhitectura sa tradițională din cărămidă.",
+                  "category": "landmark",
+                  "coords": [
+                        51.555732,
+                        32.660888
+                  ]
+            },
+            {
+                  "name": "Ansarolmahdi",
+                  "text": "Un complex religios modern care oferă facilități pentru rugăciune și educație islamică.",
+                  "category": "landmark",
+                  "coords": [
+                        51.596664,
+                        32.712313
+                  ]
+            },
+            {
+                  "name": "Mohamadeyeh",
+                  "text": "O mică moschee de cartier cu o cupolă caracteristică, în inima districtului Mohamadeyeh.",
+                  "category": "landmark",
+                  "coords": [
+                        51.595306,
+                        32.714703
+                  ]
+            },
+            {
+                  "name": "Al-Mahdi Mosque",
+                  "text": "Această moschee dintr-o zonă rezidențială a Isfahanului este un loc important de întâlnire pentru rugăciunile zilnice ale comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        51.578891,
+                        32.620619
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Birds Garden",
+                  "text": "A vast aviary under a giant steel net, housing more than 130 different species of birds.",
+                  "category": "recreational",
+                  "coords": [
+                        51.609735,
+                        32.640671
+                  ]
+            },
+            {
+                  "name": "Mojir house",
+                  "text": "A traditional Qajar-era residence with ornate woodwork, now serving as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        51.548108,
+                        32.676062
+                  ]
+            },
+            {
+                  "name": "Rehnan Bathhouse",
+                  "text": "A historic Persian bathhouse with two large halls, known for its artistic lime plaster decorations.",
+                  "category": "historical",
+                  "coords": [
+                        51.601578,
+                        32.683611
+                  ]
+            },
+            {
+                  "name": "Menar Jonban",
+                  "text": "This famous mausoleum features two brick minarets that both vibrate when one of them is moved.",
+                  "category": "landmark",
+                  "coords": [
+                        51.594112,
+                        32.650464
+                  ]
+            },
+            {
+                  "name": "Baba Shohada Cemetery",
+                  "text": "A memorial site and cemetery dedicated to the local martyrs of the region.",
+                  "category": "historical",
+                  "coords": [
+                        51.518256,
+                        32.581169
+                  ]
+            },
+            {
+                  "name": "Fire temple of Isfahan",
+                  "text": "These ancient Sasanian-era ruins are located on a rocky hill overlooking western Isfahan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.570707,
+                        32.648604
+                  ]
+            },
+            {
+                  "name": "Sartip house",
+                  "text": "A splendid mansion with fine stucco work and mirror mosaics, showcasing local architectural history.",
+                  "category": "museum",
+                  "coords": [
+                        51.533912,
+                        32.675593
+                  ]
+            },
+            {
+                  "name": "Masjede sahabazaman(aj)",
+                  "text": "A local mosque in the residential area, dedicated to the twelfth imam of Shia Islam.",
+                  "category": "landmark",
+                  "coords": [
+                        51.555482,
+                        32.659005
+                  ]
+            },
+            {
+                  "name": "Emam khomeini",
+                  "text": "A major religious center in Isfahan, named after the leader of the Iranian revolution.",
+                  "category": "landmark",
+                  "coords": [
+                        51.535395,
+                        32.681538
+                  ]
+            },
+            {
+                  "name": "assarkhane vrnosfaderan (ven esfahan)",
+                  "text": "A historic oil mill where edible oil was previously extracted from seeds using traditional methods.",
+                  "category": "religious",
+                  "coords": [
+                        51.529922,
+                        32.687719
+                  ]
+            },
+            {
+                  "name": "Golouleh mosque",
+                  "text": "This mosque serves as a community center for the residents of Isfahan's western suburbs.",
+                  "category": "landmark",
+                  "coords": [
+                        51.527448,
+                        32.684617
+                  ]
+            },
+            {
+                  "name": "Hazrat Abalfazl",
+                  "text": "A Shia prayer hall named after Abbas ibn Ali, being a central location for religious mourning ceremonies.",
+                  "category": "landmark",
+                  "coords": [
+                        51.55343,
+                        32.685801
+                  ]
+            },
+            {
+                  "name": "Masjed jame herestan",
+                  "text": "The main mosque of the Herestan neighborhood, known for its traditional brick architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        51.555732,
+                        32.660888
+                  ]
+            },
+            {
+                  "name": "Ansarolmahdi",
+                  "text": "A modern religious complex providing facilities for prayer and Islamic education.",
+                  "category": "landmark",
+                  "coords": [
+                        51.596664,
+                        32.712313
+                  ]
+            },
+            {
+                  "name": "Mohamadeyeh",
+                  "text": "A small neighborhood mosque with a characteristic dome, in the heart of the Mohamadeyeh district.",
+                  "category": "landmark",
+                  "coords": [
+                        51.595306,
+                        32.714703
+                  ]
+            },
+            {
+                  "name": "Al-Mahdi Mosque",
+                  "text": "This mosque in a residential area of Isfahan is an important meeting place for daily community prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        51.578891,
+                        32.620619
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "IR-04",
     coords: [51.602, 32.630],
@@ -175,7 +3163,160 @@ export const poiExtraIranLifeV2: POI[] = [
       fr: ["Le jardin des oiseaux a été inauguré en 1996.", "La superficie totale de l'installation est de 55 000 mètres carrés.", "Un filet de 40 000 mètres carrés recouvre la zone de vol libre.", "Le jardin abrite plus de 5 000 oiseaux du monde entier.", "Plus de 130 espèces d'oiseaux différentes peuvent y être observées.", "Le filet du toit est soutenu par un total de 11 piliers d'acier géants."],
     }, image: "/poi-images/isfahan-birds-garden-life-v2.webp"},
   {
-    id: "tehran-zoo-life-v2",
+    id: "tehran-zoo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Opark Water Park",
+                  "text": "Der Opark Wasserpark in Teheran bietet eine Vielzahl von Röhrenrutschen und großen Wellenbecken in seinem weitläufigen Freizeitareal.",
+                  "category": "recreational",
+                  "coords": [
+                        51.239876,
+                        35.720872
+                  ]
+            },
+            {
+                  "name": "Iran car museum",
+                  "text": "Das Nationale Automobilmuseum Iran (Iran car museum) nahe Teheran stellt seltene Oldtimer und historische Karossen der ehemaligen königlichen Familie aus.",
+                  "category": "museum",
+                  "coords": [
+                        51.222266,
+                        35.71552
+                  ]
+            },
+            {
+                  "name": "Jafare Sadegh Mosque",
+                  "text": "Die Jafare Sadegh Moschee im Teheraner Stadtgebiet zeichnet sich durch ihren für die islamische Architektur typischen, gefliesten Mihrab aus.",
+                  "category": "landmark",
+                  "coords": [
+                        51.257076,
+                        35.756235
+                  ]
+            },
+            {
+                  "name": "Mosque shrine of Imam Hussain (AS)",
+                  "text": "Die Mosque shrine of Imam Hussain (AS) in Teheran fungiert als islamischer Schrein und Moschee, in der Gläubige schiitische Rituale abhalten.",
+                  "category": "landmark",
+                  "coords": [
+                        51.2619,
+                        35.704653
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Opark Water Park",
+                  "text": "A teheráni Opark csúszdapark hatalmas szabadidős területén különféle csőcsúszdákkal és nagy hullámmedencékkel várja a kikapcsolódni vágyókat.",
+                  "category": "recreational",
+                  "coords": [
+                        51.239876,
+                        35.720872
+                  ]
+            },
+            {
+                  "name": "Iran car museum",
+                  "text": "A Teherán melletti Iráni Nemzeti Autómúzeum (Iran car museum) az egykori királyi család ritka veterán autóit és történelmi járműveit állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        51.222266,
+                        35.71552
+                  ]
+            },
+            {
+                  "name": "Jafare Sadegh Mosque",
+                  "text": "A teheráni városi környezetben található Jafare Sadegh mecset az iszlám építészetre jellemző, csempézett mihrábjával hívja fel magára a figyelmet.",
+                  "category": "landmark",
+                  "coords": [
+                        51.257076,
+                        35.756235
+                  ]
+            },
+            {
+                  "name": "Mosque shrine of Imam Hussain (AS)",
+                  "text": "A teheráni Imam Hussain (AS) mecsetszentély egy iszlám imahely, ahol a hívők hagyományos síita rituálékat gyakorolnak.",
+                  "category": "landmark",
+                  "coords": [
+                        51.2619,
+                        35.704653
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Opark Water Park",
+                  "text": "Parcul acvatic Opark din Teheran oferă o varietate de tobogane tubulare și piscine mari cu valuri în complexul său de agrement extins.",
+                  "category": "recreational",
+                  "coords": [
+                        51.239876,
+                        35.720872
+                  ]
+            },
+            {
+                  "name": "Iran car museum",
+                  "text": "Muzeul Național al Automobilului din Iran de lângă Teheran expune mașini de epocă rare și vehicule istorice aparținând fostei familii regale.",
+                  "category": "museum",
+                  "coords": [
+                        51.222266,
+                        35.71552
+                  ]
+            },
+            {
+                  "name": "Jafare Sadegh Mosque",
+                  "text": "Moscheea Jafare Sadegh din zona urbană a Teheranului este remarcată pentru nișa de rugăciune (mihrab) decorată cu plăci ceramice, tipică arhitecturii islamice.",
+                  "category": "landmark",
+                  "coords": [
+                        51.257076,
+                        35.756235
+                  ]
+            },
+            {
+                  "name": "Mosque shrine of Imam Hussain (AS)",
+                  "text": "Moscheea și sanctuarul Imam Hussain (AS) din Teheran funcționează ca un lăcaș islamic unde credincioșii oficiază ritualuri șiite.",
+                  "category": "landmark",
+                  "coords": [
+                        51.2619,
+                        35.704653
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Opark Water Park",
+                  "text": "The Opark Water Park in Tehran features a wide variety of tube water slides and large wave pools within its expansive recreational complex.",
+                  "category": "recreational",
+                  "coords": [
+                        51.239876,
+                        35.720872
+                  ]
+            },
+            {
+                  "name": "Iran car museum",
+                  "text": "The National Car Museum of Iran near Tehran exhibits rare vintage automobiles and historic motor coaches formerly owned by the royal family.",
+                  "category": "museum",
+                  "coords": [
+                        51.222266,
+                        35.71552
+                  ]
+            },
+            {
+                  "name": "Jafare Sadegh Mosque",
+                  "text": "The Jafare Sadegh Mosque in the Tehran urban area features a distinctively tiled mihrab typical of traditional Islamic design.",
+                  "category": "landmark",
+                  "coords": [
+                        51.257076,
+                        35.756235
+                  ]
+            },
+            {
+                  "name": "Mosque shrine of Imam Hussain (AS)",
+                  "text": "The Mosque shrine of Imam Hussain (AS) in Tehran serves as a combined Islamic sanctuary and mosque where worshipers conduct Shia rituals.",
+                  "category": "landmark",
+                  "coords": [
+                        51.2619,
+                        35.704653
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "IR-07",
     coords: [51.264, 35.716],
@@ -218,7 +3359,88 @@ export const poiExtraIranLifeV2: POI[] = [
       fr: ["Le zoo d'origine de Téhéran a été ouvert en 1953.", "Les installations actuelles du parc Eram ont accueilli leurs premiers visiteurs en 1992.", "Le terrain du zoo de Téhéran s'étend sur 5 hectares.", "Le zoo abrite plus de 800 animaux de 110 espèces différentes.", "En 2013, une femelle éléphant d'Asie a été introduite en provenance du Sri Lanka.", "Le zoo joue un rôle important dans la reproduction d'espèces animales iraniennes rares."],
     }, image: "/poi-images/tehran-zoo-life-v2.webp"},
   {
-    id: "rafsanjan-pistachio-life-v2",
+    id: "rafsanjan-pistachio-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pesidential Museum",
+                  "text": "Eine kulturelle Einrichtung in Rafsandschan, einer Region, die für ihren Pistazienanbau weithin bekannt ist.",
+                  "category": "museum",
+                  "coords": [
+                        55.97894,
+                        30.407965
+                  ]
+            },
+            {
+                  "name": "Haj Agha Ali House",
+                  "text": "Ein historisches, traditionelles persisches Haus in Rafsandschan, das für seine aufwendige Hofarchitektur geschätzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        56.0575,
+                        30.432076
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pesidential Museum",
+                  "text": "Kulturális intézmény Rafszandzsánban, egy olyan régióban, amely széles körben ismert pisztáciatermesztéséről.",
+                  "category": "museum",
+                  "coords": [
+                        55.97894,
+                        30.407965
+                  ]
+            },
+            {
+                  "name": "Haj Agha Ali House",
+                  "text": "Történelmi, hagyományos perzsa ház Rafszandzsánban, amelyet bonyolult udvari építészete miatt becsülnek.",
+                  "category": "landmark",
+                  "coords": [
+                        56.0575,
+                        30.432076
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pesidential Museum",
+                  "text": "O instituție culturală situată în Rafsanjan, o regiune cunoscută pe scară largă pentru cultivarea fisticului.",
+                  "category": "museum",
+                  "coords": [
+                        55.97894,
+                        30.407965
+                  ]
+            },
+            {
+                  "name": "Haj Agha Ali House",
+                  "text": "O casă istorică tradițională persană din Rafsanjan, apreciată pentru arhitectura elaborată a curții sale.",
+                  "category": "landmark",
+                  "coords": [
+                        56.0575,
+                        30.432076
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pesidential Museum",
+                  "text": "A cultural institution located in Rafsanjan, a region widely known for its pistachio cultivation.",
+                  "category": "museum",
+                  "coords": [
+                        55.97894,
+                        30.407965
+                  ]
+            },
+            {
+                  "name": "Haj Agha Ali House",
+                  "text": "A historic traditional Persian house in Rafsanjan, esteemed for its elaborate courtyard architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        56.0575,
+                        30.432076
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "IR-29",
     coords: [55.998, 30.406],
@@ -261,7 +3483,124 @@ export const poiExtraIranLifeV2: POI[] = [
       fr: ["La région de Rafsandjan cultive des pistaches sur plus de 80 000 hectares.", "L'Iran produit souvent plus de 200 000 tonnes de pistaches par an.", "La variété de pistache « Akbari » de cette région est la plus chère d'Iran.", "La campagne principale de récolte des pistaches a lieu entre août et octobre.", "Un pistachier adulte peut porter jusqu'à 50 kilogrammes de noix par an.", "Environ 70 pour cent de la production totale de pistaches iraniennes provient de la province de Kerman."],
     }, image: "/poi-images/rafsanjan-pistachio-life-v2.webp"},
   {
-    id: "khorasan-saffron-life-v2",
+    id: "khorasan-saffron-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "National Park",
+                  "text": "Ein geschütztes Naturreservat in der safranproduzierenden Region Chorasan.",
+                  "category": "landmark",
+                  "coords": [
+                        59.214813,
+                        35.277463
+                  ]
+            },
+            {
+                  "name": "Ahmad Alreza Imamzadeh",
+                  "text": "Ein islamischer Schrein, der einem Nachkommen eines Imams in der Region Chorasan gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        59.19151,
+                        35.207321
+                  ]
+            },
+            {
+                  "name": "Emam Hosein Mosque",
+                  "text": "Diese dem Imam Hussein gewidmete lokale Moschee dient den Gläubigen in der Region Chorasan.",
+                  "category": "landmark",
+                  "coords": [
+                        59.198647,
+                        35.282116
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "National Park",
+                  "text": "Védett természeti rezervátum Horászán sáfránytermelő vidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        59.214813,
+                        35.277463
+                  ]
+            },
+            {
+                  "name": "Ahmad Alreza Imamzadeh",
+                  "text": "Egy imám leszármazottjának szentelt iszlám szentély Horászán régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        59.19151,
+                        35.207321
+                  ]
+            },
+            {
+                  "name": "Emam Hosein Mosque",
+                  "text": "A Huszein imámnak szentelt helyi mecset a Horászán körzet hívőit szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        59.198647,
+                        35.282116
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "National Park",
+                  "text": "O rezervație naturală protejată situată în regiunea producătoare de șofran Khorasan.",
+                  "category": "landmark",
+                  "coords": [
+                        59.214813,
+                        35.277463
+                  ]
+            },
+            {
+                  "name": "Ahmad Alreza Imamzadeh",
+                  "text": "Un altar islamic dedicat unui descendent al unui imam, situat în regiunea Khorasan.",
+                  "category": "landmark",
+                  "coords": [
+                        59.19151,
+                        35.207321
+                  ]
+            },
+            {
+                  "name": "Emam Hosein Mosque",
+                  "text": "Dedicată imamului Hussein, această moschee locală deservește credincioșii din zona Khorasan.",
+                  "category": "landmark",
+                  "coords": [
+                        59.198647,
+                        35.282116
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Park",
+                  "text": "A protected natural reserve located in the saffron-producing region of Khorasan.",
+                  "category": "landmark",
+                  "coords": [
+                        59.214813,
+                        35.277463
+                  ]
+            },
+            {
+                  "name": "Ahmad Alreza Imamzadeh",
+                  "text": "An Islamic shrine dedicated to a descendant of an Imam, situated in the Khorasan region.",
+                  "category": "landmark",
+                  "coords": [
+                        59.19151,
+                        35.207321
+                  ]
+            },
+            {
+                  "name": "Emam Hosein Mosque",
+                  "text": "Dedicated to Imam Hussein, this local mosque serves worshippers in the Khorasan area.",
+                  "category": "landmark",
+                  "coords": [
+                        59.198647,
+                        35.282116
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "IR-09",
     coords: [59.220, 35.275],
@@ -304,7 +3643,520 @@ export const poiExtraIranLifeV2: POI[] = [
       fr: ["L'Iran est responsable de plus de 90 % de la production mondiale de safran.", "La période de récolte des fleurs de safran est courte, limitée à 2 ou 3 semaines en automne.", "Pour un seul kilogramme de safran séché, jusqu'à 170 000 fleurs sont nécessaires.", "La surface de culture du safran en Iran dépasse les 100 000 hectares.", "Une seule fleur de crocus contient exactement trois stigmates rouges.", "Dans la province du Khorassan, on estime que 500 000 personnes travaillent dans l'industrie du safran."],
     }, image: "/poi-images/khorasan-saffron-life-v2.webp"},
   {
-    id: "lahijan-tea-plantations-life-v2",
+    id: "lahijan-tea-plantations-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Golshan Bathe",
+                  "text": "Ein traditionelles Badehaus aus der Qajaren-Zeit in Lahidschan, das heute als Denkmal der lokalen Kulturgeschichte dient.",
+                  "category": "historical",
+                  "coords": [
+                        49.998124,
+                        37.203812
+                  ]
+            },
+            {
+                  "name": "Lahijan",
+                  "text": "Die Stadt Lahidschan ist das Zentrum des iranischen Teeanbaus und liegt malerisch am Fuße des Alborz-Gebirges.",
+                  "category": "landmark",
+                  "coords": [
+                        50.017804,
+                        37.204199
+                  ]
+            },
+            {
+                  "name": "Kouhbaneh",
+                  "text": "Dieses Bergdorf oberhalb von Lahidschan bietet Panoramablicke auf die umliegenden Teegärten und dichten Wälder.",
+                  "category": "landmark",
+                  "coords": [
+                        49.997784,
+                        37.180748
+                  ]
+            },
+            {
+                  "name": "Iran's National Tea Museum",
+                  "text": "Das iranische National-Teemuseum befindet sich im Mausoleum von Kashef ol-Saltaneh, der den Tee im Iran einführte.",
+                  "category": "museum",
+                  "coords": [
+                        50.01613,
+                        37.196297
+                  ]
+            },
+            {
+                  "name": "bame sabz lahijan",
+                  "text": "Dieses Plateau, bekannt als 'Grünes Dach', bietet einen weiten Blick über die Stadt Lahidschan und ihren zentralen See.",
+                  "category": "landmark",
+                  "coords": [
+                        50.024145,
+                        37.199621
+                  ]
+            },
+            {
+                  "name": "Imam Jafar Sadegh Mosque",
+                  "text": "Eine bedeutende Moschee in Lahidschan, die ein wichtiges religiöses Zentrum für die schiitische Gemeinschaft darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        49.998818,
+                        37.212784
+                  ]
+            },
+            {
+                  "name": "Saheb Al-Zaman Mosque",
+                  "text": "Diese Moschee ist ein markanter religiöser Treffpunkt in der Stadt, benannt nach einer zentralen Figur des schiitischen Glaubens.",
+                  "category": "landmark",
+                  "coords": [
+                        49.993088,
+                        37.196252
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Eine traditionelle Moschee in einem der alten Viertel von Lahidschan mit klassischer regionaler Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        50.103011,
+                        37.183309
+                  ]
+            },
+            {
+                  "name": "Sheykh Zahed Gilani",
+                  "text": "Dieses Mausoleum aus dem 13. Jahrhundert ist berühmt für sein einzigartiges türkisfarbenes Stufendach inmitten von Teegärten.",
+                  "category": "landmark",
+                  "coords": [
+                        50.046058,
+                        37.201749
+                  ]
+            },
+            {
+                  "name": "Jameh Mosque",
+                  "text": "Die Freitagsmoschee von Lahidschan ist das wichtigste historische Gebetshaus der Stadt und stammt ursprünglich aus der Seldschukenzeit.",
+                  "category": "landmark",
+                  "coords": [
+                        49.945238,
+                        37.260161
+                  ]
+            },
+            {
+                  "name": "HafezAli domuchali",
+                  "text": "Eine lokale religiöse Stätte in Lahidschan, die in die grüne Hügellandschaft der Region Gilan eingebettet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        50.007224,
+                        37.249126
+                  ]
+            },
+            {
+                  "name": "Imam Huseyn Mosque",
+                  "text": "Diese Moschee ist dem Märtyrer von Kerbela gewidmet und spielt eine zentrale Rolle bei lokalen Gedenkfeiern.",
+                  "category": "landmark",
+                  "coords": [
+                        49.995274,
+                        37.205368
+                  ]
+            },
+            {
+                  "name": "Jalaliyeh Bazaar",
+                  "text": "Ein traditioneller Basar, auf dem lokale Produkte wie Tee, Oliven und handgewebte Textilien aus der Region Gilan verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        49.944178,
+                        37.265114
+                  ]
+            },
+            {
+                  "name": "Basir Bazaar",
+                  "text": "Dieser lebhafte Marktplatz ist bekannt für frische landwirtschaftliche Erzeugnisse und die authentische Atmosphäre von Lahidschan.",
+                  "category": "cultural",
+                  "coords": [
+                        49.946981,
+                        37.262869
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Golshan Bathe",
+                  "text": "Hagyományos kádzsár-kori fürdőház Lahijanban, amely ma a helyi kultúrtörténet műemléke.",
+                  "category": "historical",
+                  "coords": [
+                        49.998124,
+                        37.203812
+                  ]
+            },
+            {
+                  "name": "Lahijan",
+                  "text": "Lahijan városa az iráni teatermesztés központja, amely festői környezetben, az Alborz-hegység lábánál fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        50.017804,
+                        37.204199
+                  ]
+            },
+            {
+                  "name": "Kouhbaneh",
+                  "text": "Ez a Lahijan feletti hegyi falu panorámás kilátást nyújt a környező teakertekre és sűrű erdőkre.",
+                  "category": "landmark",
+                  "coords": [
+                        49.997784,
+                        37.180748
+                  ]
+            },
+            {
+                  "name": "Iran's National Tea Museum",
+                  "text": "Az Iráni Nemzeti Teamúzeum Kashef ol-Saltaneh mauzóleumában található, aki meghonosította a teát Iránban.",
+                  "category": "museum",
+                  "coords": [
+                        50.01613,
+                        37.196297
+                  ]
+            },
+            {
+                  "name": "bame sabz lahijan",
+                  "text": "Ez a 'Zöld Tető' néven ismert fennsík tágas kilátást nyújt Lahijan városára és központi tavára.",
+                  "category": "landmark",
+                  "coords": [
+                        50.024145,
+                        37.199621
+                  ]
+            },
+            {
+                  "name": "Imam Jafar Sadegh Mosque",
+                  "text": "Jelentős mecset Lahijanban, amely a síita közösség fontos vallási központja.",
+                  "category": "landmark",
+                  "coords": [
+                        49.998818,
+                        37.212784
+                  ]
+            },
+            {
+                  "name": "Saheb Al-Zaman Mosque",
+                  "text": "Ez a mecset a város jellegzetes vallási gyülekezőhelye, amelyet a síita hit egyik központi alakjáról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        49.993088,
+                        37.196252
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Hagyományos mecset Lahijan egyik régi negyedében, klasszikus regionális építészeti stílusban.",
+                  "category": "landmark",
+                  "coords": [
+                        50.103011,
+                        37.183309
+                  ]
+            },
+            {
+                  "name": "Sheykh Zahed Gilani",
+                  "text": "Ez a 13. századi mauzóleum a teakertek között álló egyedi türkizkék tetőjéről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        50.046058,
+                        37.201749
+                  ]
+            },
+            {
+                  "name": "Jameh Mosque",
+                  "text": "Lahijan pénteki mecsetje a város legfontosabb történelmi imaháza, amely eredetileg a szeldzsuk korból származik.",
+                  "category": "landmark",
+                  "coords": [
+                        49.945238,
+                        37.260161
+                  ]
+            },
+            {
+                  "name": "HafezAli domuchali",
+                  "text": "Helyi vallási kegyhely Lahijanban, amely Gilan régió zöld dombjai között fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        50.007224,
+                        37.249126
+                  ]
+            },
+            {
+                  "name": "Imam Huseyn Mosque",
+                  "text": "Ez a mecset a kerbelai mártírnak van szentelve, és központi szerepet játszik a helyi megemlékezéseken.",
+                  "category": "landmark",
+                  "coords": [
+                        49.995274,
+                        37.205368
+                  ]
+            },
+            {
+                  "name": "Jalaliyeh Bazaar",
+                  "text": "Hagyományos bazár, ahol Gilan régió helyi termékeit, például teát, olajbogyót és kézzel szőtt textíliákat árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        49.944178,
+                        37.265114
+                  ]
+            },
+            {
+                  "name": "Basir Bazaar",
+                  "text": "Ez a nyüzsgő piactér friss mezőgazdasági termékeiről és Lahijan hiteles hangulatáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        49.946981,
+                        37.262869
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Golshan Bathe",
+                  "text": "O baie tradițională din epoca Qajar în Lahijan, care servește astăzi ca monument al istoriei culturale locale.",
+                  "category": "historical",
+                  "coords": [
+                        49.998124,
+                        37.203812
+                  ]
+            },
+            {
+                  "name": "Lahijan",
+                  "text": "Orașul Lahijan este centrul cultivării ceaiului iranian, fiind situat pitoresc la poalele munților Alborz.",
+                  "category": "landmark",
+                  "coords": [
+                        50.017804,
+                        37.204199
+                  ]
+            },
+            {
+                  "name": "Kouhbaneh",
+                  "text": "Acest sat de munte de deasupra Lahijanului oferă vederi panoramice asupra grădinilor de ceai și pădurilor dese din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        49.997784,
+                        37.180748
+                  ]
+            },
+            {
+                  "name": "Iran's National Tea Museum",
+                  "text": "Muzeul Național al Ceaiului din Iran este situat în mausoleul lui Kashef ol-Saltaneh, cel care a introdus ceaiul în Iran.",
+                  "category": "museum",
+                  "coords": [
+                        50.01613,
+                        37.196297
+                  ]
+            },
+            {
+                  "name": "bame sabz lahijan",
+                  "text": "Acest platou, cunoscut sub numele de „Acoperișul Verde”, oferă o vedere panoramică asupra orașului Lahijan și a lacului său central.",
+                  "category": "landmark",
+                  "coords": [
+                        50.024145,
+                        37.199621
+                  ]
+            },
+            {
+                  "name": "Imam Jafar Sadegh Mosque",
+                  "text": "O moschee importantă din Lahijan, care reprezintă un centru religios major pentru comunitatea șiită.",
+                  "category": "landmark",
+                  "coords": [
+                        49.998818,
+                        37.212784
+                  ]
+            },
+            {
+                  "name": "Saheb Al-Zaman Mosque",
+                  "text": "Această moschee este un punct de întâlnire religios proeminent în oraș, numit după o figură centrală a credinței șiite.",
+                  "category": "landmark",
+                  "coords": [
+                        49.993088,
+                        37.196252
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "O moschee tradițională într-unul dintre cartierele vechi din Lahijan, având o arhitectură regională clasică.",
+                  "category": "landmark",
+                  "coords": [
+                        50.103011,
+                        37.183309
+                  ]
+            },
+            {
+                  "name": "Sheykh Zahed Gilani",
+                  "text": "Acest mausoleu din secolul al XIII-lea este faimos pentru acoperișul său unic în trepte turcoaz, situat în mijlocul grădinilor de ceai.",
+                  "category": "landmark",
+                  "coords": [
+                        50.046058,
+                        37.201749
+                  ]
+            },
+            {
+                  "name": "Jameh Mosque",
+                  "text": "Moscheea Jameh din Lahijan este cel mai important lăcaș de cult istoric al orașului, datând original din perioada selgiucidă.",
+                  "category": "landmark",
+                  "coords": [
+                        49.945238,
+                        37.260161
+                  ]
+            },
+            {
+                  "name": "HafezAli domuchali",
+                  "text": "Un sit religios local în Lahijan, cuibărit în peisajul deluros verde al regiunii Gilan.",
+                  "category": "landmark",
+                  "coords": [
+                        50.007224,
+                        37.249126
+                  ]
+            },
+            {
+                  "name": "Imam Huseyn Mosque",
+                  "text": "Această moschee este dedicată martirului de la Karbala și joacă un rol central în ceremoniile locale de comemorare.",
+                  "category": "landmark",
+                  "coords": [
+                        49.995274,
+                        37.205368
+                  ]
+            },
+            {
+                  "name": "Jalaliyeh Bazaar",
+                  "text": "Un bazar tradițional unde se vând produse locale din regiunea Gilan, cum ar fi ceai, măsline și textile țesute manual.",
+                  "category": "cultural",
+                  "coords": [
+                        49.944178,
+                        37.265114
+                  ]
+            },
+            {
+                  "name": "Basir Bazaar",
+                  "text": "Această piață plină de viață este cunoscută pentru produsele agricole proaspete și atmosfera autentică din Lahijan.",
+                  "category": "cultural",
+                  "coords": [
+                        49.946981,
+                        37.262869
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Golshan Bathe",
+                  "text": "A traditional Qajar-era bathhouse in Lahijan, now serving as a monument to local cultural history.",
+                  "category": "historical",
+                  "coords": [
+                        49.998124,
+                        37.203812
+                  ]
+            },
+            {
+                  "name": "Lahijan",
+                  "text": "The city of Lahijan is the center of Iranian tea cultivation, set picturesquely at the foot of the Alborz Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        50.017804,
+                        37.204199
+                  ]
+            },
+            {
+                  "name": "Kouhbaneh",
+                  "text": "This mountain village above Lahijan offers panoramic views of the surrounding tea gardens and dense forests.",
+                  "category": "landmark",
+                  "coords": [
+                        49.997784,
+                        37.180748
+                  ]
+            },
+            {
+                  "name": "Iran's National Tea Museum",
+                  "text": "The Iran National Tea Museum is located within the mausoleum of Kashef ol-Saltaneh, who introduced tea to Iran.",
+                  "category": "museum",
+                  "coords": [
+                        50.01613,
+                        37.196297
+                  ]
+            },
+            {
+                  "name": "bame sabz lahijan",
+                  "text": "This plateau, known as the 'Green Roof', offers a sweeping view over Lahijan city and its central lake.",
+                  "category": "landmark",
+                  "coords": [
+                        50.024145,
+                        37.199621
+                  ]
+            },
+            {
+                  "name": "Imam Jafar Sadegh Mosque",
+                  "text": "A significant mosque in Lahijan that serves as an important religious center for the Shia community.",
+                  "category": "landmark",
+                  "coords": [
+                        49.998818,
+                        37.212784
+                  ]
+            },
+            {
+                  "name": "Saheb Al-Zaman Mosque",
+                  "text": "This mosque is a prominent religious gathering place in the city, named after a central figure in the Shia faith.",
+                  "category": "landmark",
+                  "coords": [
+                        49.993088,
+                        37.196252
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "A traditional mosque in one of Lahijan's old neighborhoods, featuring classical regional architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        50.103011,
+                        37.183309
+                  ]
+            },
+            {
+                  "name": "Sheykh Zahed Gilani",
+                  "text": "This 13th-century mausoleum is famous for its unique turquoise-tiered roof set amidst tea gardens.",
+                  "category": "landmark",
+                  "coords": [
+                        50.046058,
+                        37.201749
+                  ]
+            },
+            {
+                  "name": "Jameh Mosque",
+                  "text": "The Jameh Mosque of Lahijan is the city's primary historical place of worship, originally dating back to the Seljuk era.",
+                  "category": "landmark",
+                  "coords": [
+                        49.945238,
+                        37.260161
+                  ]
+            },
+            {
+                  "name": "HafezAli domuchali",
+                  "text": "A local religious site in Lahijan, nestled in the green hilly landscape of the Gilan region.",
+                  "category": "landmark",
+                  "coords": [
+                        50.007224,
+                        37.249126
+                  ]
+            },
+            {
+                  "name": "Imam Huseyn Mosque",
+                  "text": "This mosque is dedicated to the martyr of Karbala and plays a central role in local commemorations.",
+                  "category": "landmark",
+                  "coords": [
+                        49.995274,
+                        37.205368
+                  ]
+            },
+            {
+                  "name": "Jalaliyeh Bazaar",
+                  "text": "A traditional bazaar selling local Gilan products such as tea, olives, and hand-woven textiles.",
+                  "category": "cultural",
+                  "coords": [
+                        49.944178,
+                        37.265114
+                  ]
+            },
+            {
+                  "name": "Basir Bazaar",
+                  "text": "This bustling marketplace is known for fresh agricultural produce and the authentic atmosphere of Lahijan.",
+                  "category": "cultural",
+                  "coords": [
+                        49.946981,
+                        37.262869
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "IR-01",
     coords: [50.012, 37.199],
@@ -347,7 +4199,232 @@ export const poiExtraIranLifeV2: POI[] = [
       fr: ["La première culture de thé à Lahidjan a commencé en 1899.", "Le musée du thé de Lahidjan est situé dans le mausolée de Kashef Al Saltaneh.", "L'Iran produit annuellement environ 20 000 à 30 000 tonnes de thé.", "La surface de culture du thé dans la province de Guilan est d'environ 30 000 hectares.", "La récolte la plus qualitative, la coupe de printemps, a lieu en mai.", "Lahidjan abrite plus de 50 usines de transformation du thé."],
     }, image: "/poi-images/lahijan-tea-plantations-life-v2.webp"},
   {
-    id: "jamshidieh-park-life-v2",
+    id: "jamshidieh-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kolakchal",
+                  "text": "Ein Gipfel im Alborz-Gebirge, der für seine Schutzhütte und den steilen Aufstieg bekannt ist, der von Wanderern aus dem Jamshidieh-Park genutzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        51.45633,
+                        35.858275
+                  ]
+            },
+            {
+                  "name": "Saye Art Gallery",
+                  "text": "Eine zeitgenössische Kunstgalerie im Norden Teherans, die Werke lokaler iranischer Künstler in einem modernen Ausstellungsraum präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        51.461075,
+                        35.817894
+                  ]
+            },
+            {
+                  "name": "Bame Niavaran",
+                  "text": "Ein Aussichtspunkt im Viertel Niavaran, der einen Panoramablick über die Skyline von Teheran und die umliegenden Alborz-Berge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        51.453979,
+                        35.819853
+                  ]
+            },
+            {
+                  "name": "Minakari Zahrouni",
+                  "text": "Diese Galerie ist auf die traditionelle iranische Emaille-Kunst (Minakari) spezialisiert und zeigt filigran verzierte Metallarbeiten.",
+                  "category": "museum",
+                  "coords": [
+                        51.454906,
+                        35.812905
+                  ]
+            },
+            {
+                  "name": "Jamshidieh Park",
+                  "text": "Ein malerischer Steingarten am Fuße des Alborz-Gebirges mit künstlichen Wasserfällen und schattigen Wanderwegen.",
+                  "category": "park",
+                  "coords": [
+                        51.464953,
+                        35.826424
+                  ]
+            },
+            {
+                  "name": "Husayniah Jamaran",
+                  "text": "Ein historisches religiöses Versammlungshaus in Jamaran, das als Wohnsitz und Wirkungsstätte von Ayatollah Khomeini bekannt wurde.",
+                  "category": "religious",
+                  "coords": [
+                        51.457784,
+                        35.81761
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kolakchal",
+                  "text": "Az Alborz-hegység egyik csúcsa, amely menedékházáról és a Jamshidieh parkból induló túrázók által használt meredek emelkedőjéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        51.45633,
+                        35.858275
+                  ]
+            },
+            {
+                  "name": "Saye Art Gallery",
+                  "text": "Teherán északi részén található kortárs művészeti galéria, amely helyi iráni művészek alkotásait mutatja be egy modern kiállítótérben.",
+                  "category": "museum",
+                  "coords": [
+                        51.461075,
+                        35.817894
+                  ]
+            },
+            {
+                  "name": "Bame Niavaran",
+                  "text": "Niavaran negyedében található kilátópont, ahonnan panorámás kilátás nyílik Teherán sziluettjére és a környező Alborz-hegyekre.",
+                  "category": "natural",
+                  "coords": [
+                        51.453979,
+                        35.819853
+                  ]
+            },
+            {
+                  "name": "Minakari Zahrouni",
+                  "text": "Ez a galéria a hagyományos iráni tűzzománc művészetre (Minakari) specializálódott, és finoman díszített fémmunkákat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        51.454906,
+                        35.812905
+                  ]
+            },
+            {
+                  "name": "Jamshidieh Park",
+                  "text": "Festői kőkert az Alborz-hegység lábánál, mesterséges vízesésekkel és árnyas túraútvonalakkal.",
+                  "category": "park",
+                  "coords": [
+                        51.464953,
+                        35.826424
+                  ]
+            },
+            {
+                  "name": "Husayniah Jamaran",
+                  "text": "Történelmi vallási gyülekezeti ház Jamaranban, amely Khomeini ajatollah lakhelyeként és tevékenységének helyszíneként vált ismertté.",
+                  "category": "religious",
+                  "coords": [
+                        51.457784,
+                        35.81761
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kolakchal",
+                  "text": "Un vârf din munții Alborz, cunoscut pentru refugiul său și urcușul abrupt folosit de drumeții care pornesc din parcul Jamshidieh.",
+                  "category": "natural",
+                  "coords": [
+                        51.45633,
+                        35.858275
+                  ]
+            },
+            {
+                  "name": "Saye Art Gallery",
+                  "text": "O galerie de artă contemporană din nordul Teheranului, care prezintă lucrări ale artiștilor iranieni locali într-un spațiu de expoziție modern.",
+                  "category": "museum",
+                  "coords": [
+                        51.461075,
+                        35.817894
+                  ]
+            },
+            {
+                  "name": "Bame Niavaran",
+                  "text": "Un punct de observație în cartierul Niavaran, oferind o vedere panoramică asupra orizontului Teheranului și a munților Alborz din jur.",
+                  "category": "natural",
+                  "coords": [
+                        51.453979,
+                        35.819853
+                  ]
+            },
+            {
+                  "name": "Minakari Zahrouni",
+                  "text": "Această galerie este specializată în arta tradițională iraniană a emailării (Minakari), expunând obiecte din metal decorate minuțios.",
+                  "category": "museum",
+                  "coords": [
+                        51.454906,
+                        35.812905
+                  ]
+            },
+            {
+                  "name": "Jamshidieh Park",
+                  "text": "O grădină de piatră pitorească la poalele munților Alborz, cu cascade artificiale și alei de drumeție umbrite.",
+                  "category": "park",
+                  "coords": [
+                        51.464953,
+                        35.826424
+                  ]
+            },
+            {
+                  "name": "Husayniah Jamaran",
+                  "text": "O casă istorică de adunări religioase din Jamaran, care a devenit cunoscută ca reședință și loc de activitate al ayatollahului Khomeini.",
+                  "category": "religious",
+                  "coords": [
+                        51.457784,
+                        35.81761
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kolakchal",
+                  "text": "A peak in the Alborz mountains known for its shelter and the steep ascent used by hikers from Jamshidieh Park.",
+                  "category": "natural",
+                  "coords": [
+                        51.45633,
+                        35.858275
+                  ]
+            },
+            {
+                  "name": "Saye Art Gallery",
+                  "text": "A contemporary art gallery in northern Tehran showcasing works by local Iranian artists in a modern exhibition space.",
+                  "category": "museum",
+                  "coords": [
+                        51.461075,
+                        35.817894
+                  ]
+            },
+            {
+                  "name": "Bame Niavaran",
+                  "text": "A viewpoint in the Niavaran neighborhood offering a panoramic view of Tehran's skyline and the surrounding Alborz mountains.",
+                  "category": "natural",
+                  "coords": [
+                        51.453979,
+                        35.819853
+                  ]
+            },
+            {
+                  "name": "Minakari Zahrouni",
+                  "text": "This gallery specializes in traditional Iranian enamel art (Minakari), showcasing intricately decorated metalwork.",
+                  "category": "museum",
+                  "coords": [
+                        51.454906,
+                        35.812905
+                  ]
+            },
+            {
+                  "name": "Jamshidieh Park",
+                  "text": "A scenic stone garden at the foot of the Alborz mountains featuring artificial waterfalls and shaded hiking paths.",
+                  "category": "park",
+                  "coords": [
+                        51.464953,
+                        35.826424
+                  ]
+            },
+            {
+                  "name": "Husayniah Jamaran",
+                  "text": "A historic religious assembly hall in Jamaran, famous as the residence and office of Ayatollah Khomeini.",
+                  "category": "religious",
+                  "coords": [
+                        51.457784,
+                        35.81761
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "IR-07",
     coords: [51.463, 35.824],
@@ -390,7 +4467,736 @@ export const poiExtraIranLifeV2: POI[] = [
       fr: ["Le parc Jamshidieh a été ouvert au public en 1977.", "Le site s'étend à une altitude de plus de 1 800 mètres.", "Le terrain initial du parc était la propriété privée de Jamshid Davallu Qajar.", "La superficie totale du parc est d'environ 10 hectares.", "La conception est l'œuvre du célèbre architecte iranien Kamran Diba.", "Le parc est le principal point d'accès pour le sommet du Kolakchal, culminant à 3 350 mètres."],
     }, image: "/poi-images/jamshidieh-park-life-v2.webp"},
   {
-    id: "isfahan-flowers-garden-life-v2",
+    id: "isfahan-flowers-garden-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khorasgan \"Painting\" Hamam",
+                  "text": "Das Khorasgan „Painting“ Hamam ist eine lokale Touristenattraktion in isfahan-flowers-garden-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.750937,
+                        32.651803
+                  ]
+            },
+            {
+                  "name": "Shahrestan bridge",
+                  "text": "Die Shahrestan-Brücke ist ein historisches Denkmal in isfahan-flowers-garden-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        51.717484,
+                        32.626733
+                  ]
+            },
+            {
+                  "name": "War Museum",
+                  "text": "Das War Museum ist eine kulturelle Einrichtung in isfahan-flowers-garden-life-v2, die Militärgeschichte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        51.709577,
+                        32.643286
+                  ]
+            },
+            {
+                  "name": "Ashraf Historical Hill",
+                  "text": "Der Ashraf Historical Hill bietet antike Ruinen in isfahan-flowers-garden-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        51.712818,
+                        32.630376
+                  ]
+            },
+            {
+                  "name": "MASTERHOME",
+                  "text": "MASTERHOME ist ein Schlossbauwerk in isfahan-flowers-garden-life-v2.",
+                  "category": "castle",
+                  "coords": [
+                        51.700182,
+                        32.644918
+                  ]
+            },
+            {
+                  "name": "Imamzadeh Shahzayd",
+                  "text": "Imamzadeh Shahzayd ist ein religiöses Denkmal in isfahan-flowers-garden-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        51.701317,
+                        32.651416
+                  ]
+            },
+            {
+                  "name": "Dream Land",
+                  "text": "Dream Land ist ein Vergnügungs- und Themenpark in isfahan-flowers-garden-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        51.79096,
+                        32.636209
+                  ]
+            },
+            {
+                  "name": "alkarim",
+                  "text": "Alkarim ist ein muslimisches Gotteshaus in der Stadt isfahan-flowers-garden-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.695661,
+                        32.644638
+                  ]
+            },
+            {
+                  "name": "Javadoaemeh mosque",
+                  "text": "Die Javadoaemeh-Moschee ist eine islamische religiöse Stätte in isfahan-flowers-garden-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.746164,
+                        32.660976
+                  ]
+            },
+            {
+                  "name": "Masjed alzahra",
+                  "text": "Masjed alzahra dient der örtlichen Gemeinschaft als muslimischer Gebetsraum in isfahan-flowers-garden-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.769205,
+                        32.650228
+                  ]
+            },
+            {
+                  "name": "Abolabbas Holly shrimp",
+                  "text": "Abolabbas Holly shrimp ist eine muslimische religiöse Stätte in isfahan-flowers-garden-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.758734,
+                        32.65473
+                  ]
+            },
+            {
+                  "name": "Nour Al Mahdi Mosque",
+                  "text": "Die Nour Al Mahdi Moschee ist ein muslimisches Gotteshaus in isfahan-flowers-garden-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.769645,
+                        32.613975
+                  ]
+            },
+            {
+                  "name": "Hosein ibn Ali Mosque",
+                  "text": "Die Hosein ibn Ali Moschee ist eine islamische religiöse Stätte in isfahan-flowers-garden-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.718092,
+                        32.628201
+                  ]
+            },
+            {
+                  "name": "Razavi Mosque",
+                  "text": "Die Razavi-Moschee dient als lokaler muslimischer Versammlungsort in isfahan-flowers-garden-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.708386,
+                        32.648241
+                  ]
+            },
+            {
+                  "name": "jeafari",
+                  "text": "Jeafari ist eine anerkannte muslimische religiöse Stätte in isfahan-flowers-garden-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.68529,
+                        32.645762
+                  ]
+            },
+            {
+                  "name": "Shajareh Mosque",
+                  "text": "Die Shajareh-Moschee ist ein spezieller muslimischer Gebetsraum in isfahan-flowers-garden-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.689015,
+                        32.648548
+                  ]
+            },
+            {
+                  "name": "Behesht",
+                  "text": "Behesht ist ein muslimischer Ort von Bedeutung in isfahan-flowers-garden-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.692127,
+                        32.633281
+                  ]
+            },
+            {
+                  "name": "seyedolshohada",
+                  "text": "Seyedolshohada ist eine islamische religiöse Stätte in isfahan-flowers-garden-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.686611,
+                        32.641039
+                  ]
+            },
+            {
+                  "name": "Jame Abshar Mosque",
+                  "text": "Die Jame Abshar Moschee ist eine islamische Kultstätte in isfahan-flowers-garden-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.728412,
+                        32.608276
+                  ]
+            },
+            {
+                  "name": "Isfahan Fruits and Vegetables Market",
+                  "text": "Der Isfahan Fruits and Vegetables Market ist ein belebter lokaler Marktplatz in isfahan-flowers-garden-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        51.796791,
+                        32.646156
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khorasgan \"Painting\" Hamam",
+                  "text": "A Khorasgan \"Painting\" Hamam egy helyi turisztikai látványosság isfahan-flowers-garden-life-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        51.750937,
+                        32.651803
+                  ]
+            },
+            {
+                  "name": "Shahrestan bridge",
+                  "text": "A Shahrestan-híd egy történelmi műemlék isfahan-flowers-garden-life-v2 területén.",
+                  "category": "historical",
+                  "coords": [
+                        51.717484,
+                        32.626733
+                  ]
+            },
+            {
+                  "name": "War Museum",
+                  "text": "A Hadtörténeti Múzeum egy hadtörténetet bemutató kulturális intézmény isfahan-flowers-garden-life-v2 városában.",
+                  "category": "museum",
+                  "coords": [
+                        51.709577,
+                        32.643286
+                  ]
+            },
+            {
+                  "name": "Ashraf Historical Hill",
+                  "text": "Az Ashraf Historical Hill ősi romokat mutat be isfahan-flowers-garden-life-v2 területén.",
+                  "category": "historical",
+                  "coords": [
+                        51.712818,
+                        32.630376
+                  ]
+            },
+            {
+                  "name": "MASTERHOME",
+                  "text": "A MASTERHOME egy kastélyépület isfahan-flowers-garden-life-v2 városában.",
+                  "category": "castle",
+                  "coords": [
+                        51.700182,
+                        32.644918
+                  ]
+            },
+            {
+                  "name": "Imamzadeh Shahzayd",
+                  "text": "Az Imamzadeh Shahzayd egy vallási műemlék isfahan-flowers-garden-life-v2 városában.",
+                  "category": "historical",
+                  "coords": [
+                        51.701317,
+                        32.651416
+                  ]
+            },
+            {
+                  "name": "Dream Land",
+                  "text": "A Dream Land egy vidámpark és tematikus park isfahan-flowers-garden-life-v2 területén.",
+                  "category": "recreational",
+                  "coords": [
+                        51.79096,
+                        32.636209
+                  ]
+            },
+            {
+                  "name": "alkarim",
+                  "text": "Az alkarim egy muszlim istentiszteleti hely isfahan-flowers-garden-life-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        51.695661,
+                        32.644638
+                  ]
+            },
+            {
+                  "name": "Javadoaemeh mosque",
+                  "text": "A Javadoaemeh mecset egy iszlám vallási hely isfahan-flowers-garden-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        51.746164,
+                        32.660976
+                  ]
+            },
+            {
+                  "name": "Masjed alzahra",
+                  "text": "A Masjed alzahra muszlim imádkozóhelyként szolgál a helyi közösség számára isfahan-flowers-garden-life-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        51.769205,
+                        32.650228
+                  ]
+            },
+            {
+                  "name": "Abolabbas Holly shrimp",
+                  "text": "Az Abolabbas Holly shrimp egy muszlim vallási hely isfahan-flowers-garden-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        51.758734,
+                        32.65473
+                  ]
+            },
+            {
+                  "name": "Nour Al Mahdi Mosque",
+                  "text": "A Nour Al Mahdi mecset egy muszlim imahely isfahan-flowers-garden-life-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        51.769645,
+                        32.613975
+                  ]
+            },
+            {
+                  "name": "Hosein ibn Ali Mosque",
+                  "text": "A Hosein ibn Ali mecset egy iszlám vallási hely isfahan-flowers-garden-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        51.718092,
+                        32.628201
+                  ]
+            },
+            {
+                  "name": "Razavi Mosque",
+                  "text": "A Razavi mecset helyi muszlim gyülekezeti helyként szolgál isfahan-flowers-garden-life-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        51.708386,
+                        32.648241
+                  ]
+            },
+            {
+                  "name": "jeafari",
+                  "text": "A jeafari egy muszlim vallási hely isfahan-flowers-garden-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        51.68529,
+                        32.645762
+                  ]
+            },
+            {
+                  "name": "Shajareh Mosque",
+                  "text": "A Shajareh mecset egy muszlim istentiszteleti hely isfahan-flowers-garden-life-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        51.689015,
+                        32.648548
+                  ]
+            },
+            {
+                  "name": "Behesht",
+                  "text": "A Behesht egy jelentős muszlim helyszín isfahan-flowers-garden-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        51.692127,
+                        32.633281
+                  ]
+            },
+            {
+                  "name": "seyedolshohada",
+                  "text": "A seyedolshohada egy iszlám vallási hely isfahan-flowers-garden-life-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        51.686611,
+                        32.641039
+                  ]
+            },
+            {
+                  "name": "Jame Abshar Mosque",
+                  "text": "A Jame Abshar mecset egy iszlám istentiszteleti hely isfahan-flowers-garden-life-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        51.728412,
+                        32.608276
+                  ]
+            },
+            {
+                  "name": "Isfahan Fruits and Vegetables Market",
+                  "text": "Az Isfahan Fruits and Vegetables Market egy nyüzsgő helyi piac isfahan-flowers-garden-life-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        51.796791,
+                        32.646156
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khorasgan \"Painting\" Hamam",
+                  "text": "Khorasgan „Painting” Hamam este o atracție turistică locală din isfahan-flowers-garden-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.750937,
+                        32.651803
+                  ]
+            },
+            {
+                  "name": "Shahrestan bridge",
+                  "text": "Podul Shahrestan este un monument istoric situat în isfahan-flowers-garden-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        51.717484,
+                        32.626733
+                  ]
+            },
+            {
+                  "name": "War Museum",
+                  "text": "War Museum este o instituție culturală care prezintă istoria militară în isfahan-flowers-garden-life-v2.",
+                  "category": "museum",
+                  "coords": [
+                        51.709577,
+                        32.643286
+                  ]
+            },
+            {
+                  "name": "Ashraf Historical Hill",
+                  "text": "Ashraf Historical Hill prezintă ruine antice situate în isfahan-flowers-garden-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        51.712818,
+                        32.630376
+                  ]
+            },
+            {
+                  "name": "MASTERHOME",
+                  "text": "MASTERHOME este o structură de tip castel ce poate fi descoperită în isfahan-flowers-garden-life-v2.",
+                  "category": "castle",
+                  "coords": [
+                        51.700182,
+                        32.644918
+                  ]
+            },
+            {
+                  "name": "Imamzadeh Shahzayd",
+                  "text": "Imamzadeh Shahzayd este un monument religios care se găsește în isfahan-flowers-garden-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        51.701317,
+                        32.651416
+                  ]
+            },
+            {
+                  "name": "Dream Land",
+                  "text": "Dream Land este un parc de distracții și tematic situat în isfahan-flowers-garden-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        51.79096,
+                        32.636209
+                  ]
+            },
+            {
+                  "name": "alkarim",
+                  "text": "Alkarim este un lăcaș de cult musulman din orașul isfahan-flowers-garden-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.695661,
+                        32.644638
+                  ]
+            },
+            {
+                  "name": "Javadoaemeh mosque",
+                  "text": "Moscheea Javadoaemeh este un sit religios islamic situat în isfahan-flowers-garden-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.746164,
+                        32.660976
+                  ]
+            },
+            {
+                  "name": "Masjed alzahra",
+                  "text": "Masjed alzahra servește comunității locale drept spațiu de rugăciune musulman în isfahan-flowers-garden-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.769205,
+                        32.650228
+                  ]
+            },
+            {
+                  "name": "Abolabbas Holly shrimp",
+                  "text": "Abolabbas Holly shrimp este un sit religios musulman situat în isfahan-flowers-garden-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.758734,
+                        32.65473
+                  ]
+            },
+            {
+                  "name": "Nour Al Mahdi Mosque",
+                  "text": "Moscheea Nour Al Mahdi este un lăcaș de cult musulman din isfahan-flowers-garden-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.769645,
+                        32.613975
+                  ]
+            },
+            {
+                  "name": "Hosein ibn Ali Mosque",
+                  "text": "Moscheea Hosein ibn Ali este un lăcaș de cult islamic situat în isfahan-flowers-garden-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.718092,
+                        32.628201
+                  ]
+            },
+            {
+                  "name": "Razavi Mosque",
+                  "text": "Moscheea Razavi servește ca loc de adunare musulman local în isfahan-flowers-garden-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.708386,
+                        32.648241
+                  ]
+            },
+            {
+                  "name": "jeafari",
+                  "text": "Jeafari este recunoscut ca un sit religios musulman în isfahan-flowers-garden-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.68529,
+                        32.645762
+                  ]
+            },
+            {
+                  "name": "Shajareh Mosque",
+                  "text": "Moscheea Shajareh este un spațiu dedicat cultului musulman în isfahan-flowers-garden-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.689015,
+                        32.648548
+                  ]
+            },
+            {
+                  "name": "Behesht",
+                  "text": "Behesht este o locație musulmană semnificativă din isfahan-flowers-garden-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.692127,
+                        32.633281
+                  ]
+            },
+            {
+                  "name": "seyedolshohada",
+                  "text": "Seyedolshohada este un sit religios islamic situat în isfahan-flowers-garden-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.686611,
+                        32.641039
+                  ]
+            },
+            {
+                  "name": "Jame Abshar Mosque",
+                  "text": "Moscheea Jame Abshar este un lăcaș de cult islamic din isfahan-flowers-garden-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.728412,
+                        32.608276
+                  ]
+            },
+            {
+                  "name": "Isfahan Fruits and Vegetables Market",
+                  "text": "Isfahan Fruits and Vegetables Market este o piață locală plină de viață din isfahan-flowers-garden-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        51.796791,
+                        32.646156
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khorasgan \"Painting\" Hamam",
+                  "text": "Khorasgan \"Painting\" Hamam is a local tourist attraction located in isfahan-flowers-garden-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.750937,
+                        32.651803
+                  ]
+            },
+            {
+                  "name": "Shahrestan bridge",
+                  "text": "The Shahrestan bridge is a historic monument situated in isfahan-flowers-garden-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        51.717484,
+                        32.626733
+                  ]
+            },
+            {
+                  "name": "War Museum",
+                  "text": "The War Museum is a cultural institution showcasing military history in isfahan-flowers-garden-life-v2.",
+                  "category": "museum",
+                  "coords": [
+                        51.709577,
+                        32.643286
+                  ]
+            },
+            {
+                  "name": "Ashraf Historical Hill",
+                  "text": "Ashraf Historical Hill features ancient ruins located within isfahan-flowers-garden-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        51.712818,
+                        32.630376
+                  ]
+            },
+            {
+                  "name": "MASTERHOME",
+                  "text": "MASTERHOME is a castle structure to be discovered in isfahan-flowers-garden-life-v2.",
+                  "category": "castle",
+                  "coords": [
+                        51.700182,
+                        32.644918
+                  ]
+            },
+            {
+                  "name": "Imamzadeh Shahzayd",
+                  "text": "Imamzadeh Shahzayd is a religious monument found in isfahan-flowers-garden-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        51.701317,
+                        32.651416
+                  ]
+            },
+            {
+                  "name": "Dream Land",
+                  "text": "Dream Land is an amusement and theme park situated in isfahan-flowers-garden-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        51.79096,
+                        32.636209
+                  ]
+            },
+            {
+                  "name": "alkarim",
+                  "text": "Alkarim is a Muslim place of worship in the city of isfahan-flowers-garden-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.695661,
+                        32.644638
+                  ]
+            },
+            {
+                  "name": "Javadoaemeh mosque",
+                  "text": "The Javadoaemeh mosque is an Islamic religious site located in isfahan-flowers-garden-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.746164,
+                        32.660976
+                  ]
+            },
+            {
+                  "name": "Masjed alzahra",
+                  "text": "Masjed alzahra serves the local community as a Muslim prayer space in isfahan-flowers-garden-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.769205,
+                        32.650228
+                  ]
+            },
+            {
+                  "name": "Abolabbas Holly shrimp",
+                  "text": "Abolabbas Holly shrimp is a Muslim religious site located in isfahan-flowers-garden-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.758734,
+                        32.65473
+                  ]
+            },
+            {
+                  "name": "Nour Al Mahdi Mosque",
+                  "text": "Nour Al Mahdi Mosque is a Muslim house of worship in isfahan-flowers-garden-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.769645,
+                        32.613975
+                  ]
+            },
+            {
+                  "name": "Hosein ibn Ali Mosque",
+                  "text": "Hosein ibn Ali Mosque is an Islamic religious site located in isfahan-flowers-garden-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.718092,
+                        32.628201
+                  ]
+            },
+            {
+                  "name": "Razavi Mosque",
+                  "text": "Razavi Mosque serves as a local Muslim gathering place in isfahan-flowers-garden-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.708386,
+                        32.648241
+                  ]
+            },
+            {
+                  "name": "jeafari",
+                  "text": "Jeafari is recognized as a Muslim religious site within isfahan-flowers-garden-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.68529,
+                        32.645762
+                  ]
+            },
+            {
+                  "name": "Shajareh Mosque",
+                  "text": "The Shajareh Mosque is a dedicated Muslim worship space in isfahan-flowers-garden-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.689015,
+                        32.648548
+                  ]
+            },
+            {
+                  "name": "Behesht",
+                  "text": "Behesht is a Muslim location of significance situated in isfahan-flowers-garden-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.692127,
+                        32.633281
+                  ]
+            },
+            {
+                  "name": "seyedolshohada",
+                  "text": "Seyedolshohada is an Islamic religious site located in isfahan-flowers-garden-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.686611,
+                        32.641039
+                  ]
+            },
+            {
+                  "name": "Jame Abshar Mosque",
+                  "text": "Jame Abshar Mosque is a place of Islamic worship in isfahan-flowers-garden-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.728412,
+                        32.608276
+                  ]
+            },
+            {
+                  "name": "Isfahan Fruits and Vegetables Market",
+                  "text": "The Isfahan Fruits and Vegetables Market is a bustling local marketplace in isfahan-flowers-garden-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        51.796791,
+                        32.646156
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "IR-04",
     coords: [51.691, 32.639],
@@ -433,7 +5239,160 @@ export const poiExtraIranLifeV2: POI[] = [
       fr: ["Le jardin des fleurs a été ouvert à la fin des années 1990.", "Le site s'étend sur une superficie de 67 000 mètres carrés.", "Une serre de 250 mètres carrés abrite des plantes tropicales.", "Le jardin des plantes médicinales cultive plus de 130 espèces différentes.", "Une cascade artificielle dans le jardin a une hauteur d'environ 4 mètres.", "Le jardin présente plus de 400 espèces différentes de fleurs et de plantes."],
     }, image: "/poi-images/isfahan-flowers-garden-life-v2.webp"},
   {
-    id: "mazandaran-rice-paddies-life-v2",
+    id: "mazandaran-rice-paddies-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirza Mehdi cistern",
+                  "text": "Ein traditioneller unterirdischer Wasserspeicher mit kuppelförmigem Dach in Masandaran.",
+                  "category": "landmark",
+                  "coords": [
+                        53.060121,
+                        36.566998
+                  ]
+            },
+            {
+                  "name": "Kolbadi house",
+                  "text": "Ein historisches Wohnhaus mit kunstvollen Holzschnitzereien und bunten Glasfenstern.",
+                  "category": "museum",
+                  "coords": [
+                        53.059766,
+                        36.565566
+                  ]
+            },
+            {
+                  "name": "Haft Ayene Art Gallery",
+                  "text": "Eine lokale Kunstgalerie, die zeitgenössische Werke regionaler Künstler ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        53.058679,
+                        36.553654
+                  ]
+            },
+            {
+                  "name": "Chahar Tekyeh Husseiniyeh",
+                  "text": "Ein traditionelles religiöses Gebäude für schiitische Trauerzeremonien in Masandaran.",
+                  "category": "landmark",
+                  "coords": [
+                        53.05249,
+                        36.562789
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirza Mehdi cistern",
+                  "text": "Hagyományos föld alatti víztározó kupolás tetővel Mázandarán tartományban.",
+                  "category": "landmark",
+                  "coords": [
+                        53.060121,
+                        36.566998
+                  ]
+            },
+            {
+                  "name": "Kolbadi house",
+                  "text": "Történelmi lakóház díszes fafaragásokkal és színes üvegablakokkal.",
+                  "category": "museum",
+                  "coords": [
+                        53.059766,
+                        36.565566
+                  ]
+            },
+            {
+                  "name": "Haft Ayene Art Gallery",
+                  "text": "Helyi művészeti galéria, amely regionális művészek kortárs alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        53.058679,
+                        36.553654
+                  ]
+            },
+            {
+                  "name": "Chahar Tekyeh Husseiniyeh",
+                  "text": "Hagyományos vallási épület síita gyászszertartásokhoz Mázandaránban.",
+                  "category": "landmark",
+                  "coords": [
+                        53.05249,
+                        36.562789
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirza Mehdi cistern",
+                  "text": "Un rezervor tradițional de apă subteran cu acoperiș bombat din Mazandaran.",
+                  "category": "landmark",
+                  "coords": [
+                        53.060121,
+                        36.566998
+                  ]
+            },
+            {
+                  "name": "Kolbadi house",
+                  "text": "O casă istorică cu sculpturi în lemn elaborate și ferestre cu vitralii colorate.",
+                  "category": "museum",
+                  "coords": [
+                        53.059766,
+                        36.565566
+                  ]
+            },
+            {
+                  "name": "Haft Ayene Art Gallery",
+                  "text": "O galerie de artă locală care expune lucrări contemporane ale artiștilor regionali.",
+                  "category": "museum",
+                  "coords": [
+                        53.058679,
+                        36.553654
+                  ]
+            },
+            {
+                  "name": "Chahar Tekyeh Husseiniyeh",
+                  "text": "O clădire religioasă tradițională pentru ceremoniile de doliu șiite din Mazandaran.",
+                  "category": "landmark",
+                  "coords": [
+                        53.05249,
+                        36.562789
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirza Mehdi cistern",
+                  "text": "A traditional underground water reservoir with a domed roof in Mazandaran.",
+                  "category": "landmark",
+                  "coords": [
+                        53.060121,
+                        36.566998
+                  ]
+            },
+            {
+                  "name": "Kolbadi house",
+                  "text": "A historic residential house featuring elaborate wood carvings and stained-glass windows.",
+                  "category": "museum",
+                  "coords": [
+                        53.059766,
+                        36.565566
+                  ]
+            },
+            {
+                  "name": "Haft Ayene Art Gallery",
+                  "text": "A local art gallery showcasing contemporary works by regional artists.",
+                  "category": "museum",
+                  "coords": [
+                        53.058679,
+                        36.553654
+                  ]
+            },
+            {
+                  "name": "Chahar Tekyeh Husseiniyeh",
+                  "text": "A traditional religious building used for Shia mourning ceremonies in Mazandaran.",
+                  "category": "landmark",
+                  "coords": [
+                        53.05249,
+                        36.562789
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "IR-02",
     coords: [53.058, 36.565],
@@ -477,7 +5436,700 @@ export const poiExtraIranLifeV2: POI[] = [
     },
   },
   {
-    id: "ab-o-atash-park-life-v2",
+    id: "ab-o-atash-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Saint Vartan Church",
+                  "text": "Diese armenisch-apostolische Kirche im Viertel Majidiyeh besticht durch ihre traditionelle Architektur aus behauenem Stein.",
+                  "category": "religious",
+                  "coords": [
+                        51.454385,
+                        35.720079
+                  ]
+            },
+            {
+                  "name": "VRPark",
+                  "text": "Dieses moderne Indoor-Zentrum bietet VR-Erlebnisse und interaktive digitale Spiele für alle Altersgruppen.",
+                  "category": "recreational",
+                  "coords": [
+                        51.417813,
+                        35.736415
+                  ]
+            },
+            {
+                  "name": "Arté Art Gallery",
+                  "text": "Ein lebendiger Ort für zeitgenössische Kunst, der regelmäßig Werke lokaler Maler und Bildhauer präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        51.398002,
+                        35.748575
+                  ]
+            },
+            {
+                  "name": "Miniature Museum Garden",
+                  "text": "Dieses Freilichtmuseum präsentiert detailgetreue maßstabsgetreue Modelle der berühmtesten UNESCO-Welterbestätten des Iran.",
+                  "category": "museum",
+                  "coords": [
+                        51.478393,
+                        35.733322
+                  ]
+            },
+            {
+                  "name": "Fadak Park",
+                  "text": "Ein beliebter Park im Osten der Stadt mit grünen Liegewiesen und vielfältigen Freizeiteinrichtungen.",
+                  "category": "park",
+                  "coords": [
+                        51.481592,
+                        35.728241
+                  ]
+            },
+            {
+                  "name": "Qasr Museum Garden",
+                  "text": "Dieses ehemalige historische Gefängnis aus der Qadscharen-Zeit wurde in ein Museum und einen weitläufigen Garten umgewandelt.",
+                  "category": "museum",
+                  "coords": [
+                        51.448289,
+                        35.723479
+                  ]
+            },
+            {
+                  "name": "Andisheh Park",
+                  "text": "Ein ruhiger Stadtpark, der eine öffentliche Bibliothek beherbergt und friedliche Plätze zum Lesen im Freien bietet.",
+                  "category": "park",
+                  "coords": [
+                        51.444985,
+                        35.737569
+                  ]
+            },
+            {
+                  "name": "Reza Abbasi-Museum",
+                  "text": "Dieses Museum beherbergt eine spektakuläre Sammlung persischer Kunst, von achämenidischem Gold bis zu safawidischen Miniaturen.",
+                  "category": "museum",
+                  "coords": [
+                        51.446407,
+                        35.740869
+                  ]
+            },
+            {
+                  "name": "Saint Gregory",
+                  "text": "Diese armenische Kirche verfügt über einen traditionellen Grundriss in Kreuzform und dient als religiöses Zentrum des Viertels.",
+                  "category": "religious",
+                  "coords": [
+                        51.470575,
+                        35.735896
+                  ]
+            },
+            {
+                  "name": "Sa'i Park",
+                  "text": "Dieser weitläufige, terrassierte Park ist bekannt für seine vielfältigen Baumarten und Tiergehege.",
+                  "category": "park",
+                  "coords": [
+                        51.41109,
+                        35.73628
+                  ]
+            },
+            {
+                  "name": "Imam Sadiq (A.S.) Mosque",
+                  "text": "Ein muslimisches Gebetshaus mit traditionellen Kachelmosaiken und einer zentralen Gebetshalle.",
+                  "category": "landmark",
+                  "coords": [
+                        51.50678,
+                        35.719436
+                  ]
+            },
+            {
+                  "name": "Fateme alzahra mosque",
+                  "text": "Diese Moschee dient der lokalen Gemeinschaft als religiöses Zentrum für tägliche Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        51.492405,
+                        35.721318
+                  ]
+            },
+            {
+                  "name": "Azaam",
+                  "text": "Ein spiritueller Treffpunkt mit einfacher muslimischer Architektur und einer ruhigen Atmosphäre.",
+                  "category": "landmark",
+                  "coords": [
+                        51.44753,
+                        35.719223
+                  ]
+            },
+            {
+                  "name": "Erishkhodro",
+                  "text": "Diese Moschee ist ein lokales Wahrzeichen mit einem Gebetsraum für die umliegende Nachbarschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        51.434872,
+                        35.737916
+                  ]
+            },
+            {
+                  "name": "Sadaat",
+                  "text": "Ein bescheidenes muslimisches Heiligtum, das durch seine traditionelle Kuppel und Minarette erkennbar ist.",
+                  "category": "landmark",
+                  "coords": [
+                        51.450664,
+                        35.720726
+                  ]
+            },
+            {
+                  "name": "Mohamadiyeh Mosque",
+                  "text": "Diese Moschee zeichnet sich durch ihre geometrische Kachelkunst und religiöse Bedeutung aus.",
+                  "category": "landmark",
+                  "coords": [
+                        51.452217,
+                        35.738446
+                  ]
+            },
+            {
+                  "name": "Abalfazl Mosque",
+                  "text": "Ein religiöser Ort für schiitische Muslime mit einer verzierten Fassade und Gebetssälen.",
+                  "category": "landmark",
+                  "coords": [
+                        51.473089,
+                        35.735556
+                  ]
+            },
+            {
+                  "name": "Al-Reza",
+                  "text": "Eine moderne Moschee, die als kulturelles und spirituelles Zentrum in diesem Stadtviertel dient.",
+                  "category": "landmark",
+                  "coords": [
+                        51.432092,
+                        35.73811
+                  ]
+            },
+            {
+                  "name": "Sayyad Shirazi Market",
+                  "text": "Ein lebhafter lokaler Marktplatz, auf dem frische Waren und alltägliche Güter angeboten werden.",
+                  "category": "cultural",
+                  "coords": [
+                        51.45866,
+                        35.734688
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saint Vartan Church",
+                  "text": "A Majidiyeh negyedben található örmény apostoli templom hagyományos, faragott kőépítészetével tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        51.454385,
+                        35.720079
+                  ]
+            },
+            {
+                  "name": "VRPark",
+                  "text": "Ez a modern fedett központ VR-élményeket és interaktív digitális játékokat kínál minden korosztály számára.",
+                  "category": "recreational",
+                  "coords": [
+                        51.417813,
+                        35.736415
+                  ]
+            },
+            {
+                  "name": "Arté Art Gallery",
+                  "text": "A kortárs művészet vibráló helyszíne, amely rendszeresen mutatja be helyi festők és szobrászok alkotásait.",
+                  "category": "cultural",
+                  "coords": [
+                        51.398002,
+                        35.748575
+                  ]
+            },
+            {
+                  "name": "Miniature Museum Garden",
+                  "text": "Ez a szabadtéri múzeum Irán leghíresebb UNESCO világörökségi helyszíneinek élethű, méretarányos modelljeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        51.478393,
+                        35.733322
+                  ]
+            },
+            {
+                  "name": "Fadak Park",
+                  "text": "Népszerű park a város keleti részén, zöld pázsittal és változatos szabadidős létesítményekkel.",
+                  "category": "park",
+                  "coords": [
+                        51.481592,
+                        35.728241
+                  ]
+            },
+            {
+                  "name": "Qasr Museum Garden",
+                  "text": "Ezt az egykori történelmi, Kádzsár-kori börtönt múzeummá és hatalmas közparkká alakították át.",
+                  "category": "museum",
+                  "coords": [
+                        51.448289,
+                        35.723479
+                  ]
+            },
+            {
+                  "name": "Andisheh Park",
+                  "text": "Csendes városi park, amely egy nyilvános könyvtárnak ad otthont, és békés szabadtéri olvasóhelyeket kínál.",
+                  "category": "park",
+                  "coords": [
+                        51.444985,
+                        35.737569
+                  ]
+            },
+            {
+                  "name": "Reza Abbasi Museum",
+                  "text": "Ez a múzeum a perzsa művészet látványos gyűjteményét őrzi, az akhaimenida aranytárgyaktól a szafavida miniatúrákig.",
+                  "category": "museum",
+                  "coords": [
+                        51.446407,
+                        35.740869
+                  ]
+            },
+            {
+                  "name": "Saint Gregory",
+                  "text": "Ez az örmény templom hagyományos keresztalaprajzzal rendelkezik, és a negyed vallási központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        51.470575,
+                        35.735896
+                  ]
+            },
+            {
+                  "name": "Sa'i Park",
+                  "text": "Ez a kiterjedt, teraszos kialakítású park változatos fafajairól és vadon élő állatok kifutóiról ismert.",
+                  "category": "park",
+                  "coords": [
+                        51.41109,
+                        35.73628
+                  ]
+            },
+            {
+                  "name": "Imam Sadiq (A.S.) Mosque",
+                  "text": "Muzulmán imaház hagyományos csempemozaikokkal és központi imateremmel.",
+                  "category": "landmark",
+                  "coords": [
+                        51.50678,
+                        35.719436
+                  ]
+            },
+            {
+                  "name": "Fateme alzahra mosque",
+                  "text": "Ez a mecset a helyi közösség vallási központjaként szolgál a napi imádságokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        51.492405,
+                        35.721318
+                  ]
+            },
+            {
+                  "name": "Azaam",
+                  "text": "Spirituális találkozóhely egyszerű muszlim építészettel és nyugodt légkörrel.",
+                  "category": "landmark",
+                  "coords": [
+                        51.44753,
+                        35.719223
+                  ]
+            },
+            {
+                  "name": "Erishkhodro",
+                  "text": "Ez a mecset helyi tájékozódási pont, imateremmel a környező környék számára.",
+                  "category": "landmark",
+                  "coords": [
+                        51.434872,
+                        35.737916
+                  ]
+            },
+            {
+                  "name": "Sadaat",
+                  "text": "Mérsékelt muzulmán szentély, amely hagyományos kupolájáról és minaretjeiről ismerhető fel.",
+                  "category": "landmark",
+                  "coords": [
+                        51.450664,
+                        35.720726
+                  ]
+            },
+            {
+                  "name": "Mohamadiyeh Mosque",
+                  "text": "Ezt a mecsetet geometrikus csempeművészete és vallási jelentősége jellemzi.",
+                  "category": "landmark",
+                  "coords": [
+                        51.452217,
+                        35.738446
+                  ]
+            },
+            {
+                  "name": "Abalfazl Mosque",
+                  "text": "Vallási hely a síita muzulmánok számára, díszített homlokzattal és imatermekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        51.473089,
+                        35.735556
+                  ]
+            },
+            {
+                  "name": "Al-Reza",
+                  "text": "Modern mecset, amely kulturális és spirituális központként szolgál ebben a városnegyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        51.432092,
+                        35.73811
+                  ]
+            },
+            {
+                  "name": "Sayyad Shirazi Market",
+                  "text": "Nyüzsgő helyi piactér, ahol friss árukat és mindennapi cikkeket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        51.45866,
+                        35.734688
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saint Vartan Church",
+                  "text": "Această biserică apostolică armeană din cartierul Majidiyeh se remarcă prin arhitectura sa tradițională din piatră fasonată.",
+                  "category": "religious",
+                  "coords": [
+                        51.454385,
+                        35.720079
+                  ]
+            },
+            {
+                  "name": "VRPark",
+                  "text": "Acest centru modern de interior oferă experiențe VR și jocuri digitale interactive pentru toate vârstele.",
+                  "category": "recreational",
+                  "coords": [
+                        51.417813,
+                        35.736415
+                  ]
+            },
+            {
+                  "name": "Arté Art Gallery",
+                  "text": "Un spațiu vibrant pentru arta contemporană, care prezintă regulat lucrări ale pictorilor și sculptorilor locali.",
+                  "category": "cultural",
+                  "coords": [
+                        51.398002,
+                        35.748575
+                  ]
+            },
+            {
+                  "name": "Miniature Museum Garden",
+                  "text": "Acest muzeu în aer liber prezintă machete detaliate ale celor mai faimoase situri din patrimoniul mondial UNESCO din Iran.",
+                  "category": "museum",
+                  "coords": [
+                        51.478393,
+                        35.733322
+                  ]
+            },
+            {
+                  "name": "Fadak Park",
+                  "text": "Un parc popular în estul orașului, cu peluze verzi și diverse facilități de agrement.",
+                  "category": "park",
+                  "coords": [
+                        51.481592,
+                        35.728241
+                  ]
+            },
+            {
+                  "name": "Qasr Museum Garden",
+                  "text": "Această fostă închisoare istorică din epoca Qajar a fost transformată într-un muzeu și o grădină publică vastă.",
+                  "category": "museum",
+                  "coords": [
+                        51.448289,
+                        35.723479
+                  ]
+            },
+            {
+                  "name": "Andisheh Park",
+                  "text": "Un parc orășenesc liniștit, care găzduiește o bibliotecă publică și oferă locuri pașnice pentru lectură în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        51.444985,
+                        35.737569
+                  ]
+            },
+            {
+                  "name": "Reza Abbasi Museum",
+                  "text": "Acest muzeu adăpostește o colecție spectaculoasă de artă persană, de la aur ahemenid la miniaturi safavide.",
+                  "category": "museum",
+                  "coords": [
+                        51.446407,
+                        35.740869
+                  ]
+            },
+            {
+                  "name": "Saint Gregory",
+                  "text": "Această biserică armeană are un plan tradițional în formă de cruce și servește ca centru religios al cartierului.",
+                  "category": "religious",
+                  "coords": [
+                        51.470575,
+                        35.735896
+                  ]
+            },
+            {
+                  "name": "Sa'i Park",
+                  "text": "Acest parc terasat este cunoscut pentru speciile sale diverse de arbori și pentru țarcurile cu animale sălbatice.",
+                  "category": "park",
+                  "coords": [
+                        51.41109,
+                        35.73628
+                  ]
+            },
+            {
+                  "name": "Imam Sadiq (A.S.) Mosque",
+                  "text": "Lăcaș de cult musulman cu mozaicuri tradiționale de faianță și o sală de rugăciune centrală.",
+                  "category": "landmark",
+                  "coords": [
+                        51.50678,
+                        35.719436
+                  ]
+            },
+            {
+                  "name": "Fateme alzahra mosque",
+                  "text": "Această moschee servește comunității locale ca centru religios pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        51.492405,
+                        35.721318
+                  ]
+            },
+            {
+                  "name": "Azaam",
+                  "text": "Un loc de întâlnire spirituală cu arhitectură musulmană simplă și o atmosferă liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        51.44753,
+                        35.719223
+                  ]
+            },
+            {
+                  "name": "Erishkhodro",
+                  "text": "Această moschee este un reper local, având o sală de rugăciune pentru cartierul înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        51.434872,
+                        35.737916
+                  ]
+            },
+            {
+                  "name": "Sadaat",
+                  "text": "Un sanctuar musulman modest, recunoscut după cupola și minaretele sale tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        51.450664,
+                        35.720726
+                  ]
+            },
+            {
+                  "name": "Mohamadiyeh Mosque",
+                  "text": "Această moschee se distinge prin arta sa geometrică a faianței și prin semnificația religioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        51.452217,
+                        35.738446
+                  ]
+            },
+            {
+                  "name": "Abalfazl Mosque",
+                  "text": "Un loc religios pentru musulmanii șiiți, cu o fațadă decorată și săli de rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        51.473089,
+                        35.735556
+                  ]
+            },
+            {
+                  "name": "Al-Reza",
+                  "text": "O moschee modernă care servește drept centru cultural și spiritual în acest cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        51.432092,
+                        35.73811
+                  ]
+            },
+            {
+                  "name": "Sayyad Shirazi Market",
+                  "text": "O piață locală plină de viață, unde sunt oferite produse proaspete și bunuri de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        51.45866,
+                        35.734688
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saint Vartan Church",
+                  "text": "Located in the Majidiyeh neighborhood, this Armenian Apostolic church stands out with its traditional hewn stone architecture.",
+                  "category": "religious",
+                  "coords": [
+                        51.454385,
+                        35.720079
+                  ]
+            },
+            {
+                  "name": "VRPark",
+                  "text": "This modern indoor center offers VR experiences and interactive digital games for all ages.",
+                  "category": "recreational",
+                  "coords": [
+                        51.417813,
+                        35.736415
+                  ]
+            },
+            {
+                  "name": "Arté Art Gallery",
+                  "text": "A vibrant venue for contemporary art, regularly showcasing works by local painters and sculptors.",
+                  "category": "cultural",
+                  "coords": [
+                        51.398002,
+                        35.748575
+                  ]
+            },
+            {
+                  "name": "Miniature Museum Garden",
+                  "text": "This open-air museum displays meticulously detailed scale models of Iran's most famous UNESCO World Heritage sites.",
+                  "category": "museum",
+                  "coords": [
+                        51.478393,
+                        35.733322
+                  ]
+            },
+            {
+                  "name": "Fadak Park",
+                  "text": "A popular park in the city's east, featuring green lawns and various recreational facilities.",
+                  "category": "park",
+                  "coords": [
+                        51.481592,
+                        35.728241
+                  ]
+            },
+            {
+                  "name": "Qasr Museum Garden",
+                  "text": "This former historic Qajar-era prison has been converted into a museum and an expansive public garden.",
+                  "category": "museum",
+                  "coords": [
+                        51.448289,
+                        35.723479
+                  ]
+            },
+            {
+                  "name": "Andisheh Park",
+                  "text": "A quiet urban park that houses a public library and offers peaceful outdoor reading spots.",
+                  "category": "park",
+                  "coords": [
+                        51.444985,
+                        35.737569
+                  ]
+            },
+            {
+                  "name": "Reza Abbasi Museum",
+                  "text": "This museum houses a spectacular collection of Persian art, from Achaemenid gold to Safavid miniatures.",
+                  "category": "museum",
+                  "coords": [
+                        51.446407,
+                        35.740869
+                  ]
+            },
+            {
+                  "name": "Saint Gregory",
+                  "text": "This Armenian church features a traditional cross-plan and serves as a religious center for the neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        51.470575,
+                        35.735896
+                  ]
+            },
+            {
+                  "name": "Sa'i Park",
+                  "text": "This expansive, terraced park is known for its diverse tree species and wildlife enclosures.",
+                  "category": "park",
+                  "coords": [
+                        51.41109,
+                        35.73628
+                  ]
+            },
+            {
+                  "name": "Imam Sadiq (A.S.) Mosque",
+                  "text": "A Muslim place of worship featuring traditional tile mosaics and a central prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        51.50678,
+                        35.719436
+                  ]
+            },
+            {
+                  "name": "Fateme alzahra mosque",
+                  "text": "This mosque serves the local community as a religious center for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        51.492405,
+                        35.721318
+                  ]
+            },
+            {
+                  "name": "Azaam",
+                  "text": "A spiritual gathering place with simple Muslim architecture and a calm atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        51.44753,
+                        35.719223
+                  ]
+            },
+            {
+                  "name": "Erishkhodro",
+                  "text": "This mosque is a local landmark with a prayer room for the surrounding neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        51.434872,
+                        35.737916
+                  ]
+            },
+            {
+                  "name": "Sadaat",
+                  "text": "A modest Muslim sanctuary recognizable by its traditional dome and minarets.",
+                  "category": "landmark",
+                  "coords": [
+                        51.450664,
+                        35.720726
+                  ]
+            },
+            {
+                  "name": "Mohamadiyeh Mosque",
+                  "text": "This mosque is characterized by its geometric tile art and religious significance.",
+                  "category": "landmark",
+                  "coords": [
+                        51.452217,
+                        35.738446
+                  ]
+            },
+            {
+                  "name": "Abalfazl Mosque",
+                  "text": "A religious site for Shia Muslims featuring an ornate facade and prayer halls.",
+                  "category": "landmark",
+                  "coords": [
+                        51.473089,
+                        35.735556
+                  ]
+            },
+            {
+                  "name": "Al-Reza",
+                  "text": "A modern mosque serving as a cultural and spiritual hub in this city district.",
+                  "category": "landmark",
+                  "coords": [
+                        51.432092,
+                        35.73811
+                  ]
+            },
+            {
+                  "name": "Sayyad Shirazi Market",
+                  "text": "A bustling local marketplace offering fresh produce and everyday goods.",
+                  "category": "cultural",
+                  "coords": [
+                        51.45866,
+                        35.734688
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "IR-07",
     coords: [51.419, 35.753],
@@ -520,7 +6172,88 @@ export const poiExtraIranLifeV2: POI[] = [
       fr: ["Le parc Ab-o-Atash a été ouvert au public en 2009.", "Le terrain du parc couvre une superficie de 2,4 hectares.", "Quatre tours imposantes génèrent des flammes s'élevant jusqu'à 10 mètres.", "Une zone spéciale pour les skateboarders s'étend sur 4 500 mètres carrés.", "Le célèbre pont Tabiat a été inauguré en 2014 et relie le parc au parc Taleghani.", "Un monument ressemblant à un phare sur le site sert de plateforme d'observation."],
     }, image: "/poi-images/ab-o-atash-park-life-v2.webp"},
   {
-    id: "qamsar-rose-gardens-life-v2",
+    id: "qamsar-rose-gardens-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sheikh Bahaei Dam",
+                  "text": "Ein Damm aus der Safawidenzeit, der mit speziellem Kalk und Mörtel über eine schmale Schlucht gebaut wurde.",
+                  "category": "natural",
+                  "coords": [
+                        51.463311,
+                        33.720871
+                  ]
+            },
+            {
+                  "name": "Rosenfelder (Anfang Mai)",
+                  "text": "Terrassierte Hänge, auf denen duftende Damaszener-Rosen blühen, die für die traditionelle Rosenwasser-Destillation verwendet werden.",
+                  "category": "landmark",
+                  "coords": [
+                        51.487765,
+                        33.822259
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sheikh Bahaei Dam",
+                  "text": "Szafavida-kori gát, amely egy szűk szurdokon keresztül épült, speciális mész és habarcs felhasználásával.",
+                  "category": "natural",
+                  "coords": [
+                        51.463311,
+                        33.720871
+                  ]
+            },
+            {
+                  "name": "Rose Fields (early May)",
+                  "text": "Teraszos domboldalak, ahol illatos damaszkuszi rózsák nyílnak, amelyeket a hagyományos rózsavíz-lepárláshoz használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        51.487765,
+                        33.822259
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sheikh Bahaei Dam",
+                  "text": "Un baraj din epoca safavidă, construit peste un defileu îngust folosind var și mortar specializat.",
+                  "category": "natural",
+                  "coords": [
+                        51.463311,
+                        33.720871
+                  ]
+            },
+            {
+                  "name": "Rose Fields (early May)",
+                  "text": "Dealuri terasate care înfloresc cu trandafiri de Damasc parfumați, folosiți pentru distilarea tradițională a apei de trandafiri.",
+                  "category": "landmark",
+                  "coords": [
+                        51.487765,
+                        33.822259
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sheikh Bahaei Dam",
+                  "text": "A Safavid-era dam constructed across a narrow gorge using specialized lime and mortar.",
+                  "category": "natural",
+                  "coords": [
+                        51.463311,
+                        33.720871
+                  ]
+            },
+            {
+                  "name": "Rose Fields (early May)",
+                  "text": "Terraced hillsides that bloom with fragrant Damask roses used for traditional rose water distillation.",
+                  "category": "landmark",
+                  "coords": [
+                        51.487765,
+                        33.822259
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "IR-04",
     coords: [51.442, 33.744],
@@ -563,7 +6296,160 @@ export const poiExtraIranLifeV2: POI[] = [
       fr: ["La ville de Qamsar est située à une altitude d'environ 1 900 mètres.", "La récolte des roses a lieu pendant la courte période de la mi-mai au début juin.", "Environ 30 kilogrammes de pétales de roses permettent de distiller 40 litres d'eau de rose de haute qualité.", "L'eau de rose de Qamsar est utilisée chaque année pour le nettoyage de la Kaaba à La Mecque.", "Il existe plus de 1 500 distilleries d'eau de rose traditionnelles dans la région de Kashan.", "La rose de Damas est cultivée dans cette région depuis plus de 1 000 ans."],
     }, image: "/poi-images/qamsar-rose-gardens-life-v2.webp"},
   {
-    id: "nazhvan-forest-park-life-v2",
+    id: "nazhvan-forest-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Building No. 29",
+                  "text": "Das Gebäude Nr. 29 ist ein ausgewiesener Aussichtspunkt, der malerische Perspektiven auf das Gebiet des Nazhvan-Waldparks bietet.",
+                  "category": "natural",
+                  "coords": [
+                        51.632027,
+                        32.622485
+                  ]
+            },
+            {
+                  "name": "Soffeh Zip-line",
+                  "text": "Die Soffeh Zipline ist eine aufregende Outdoor-Attraktion in der Region des Nazhvan-Waldparks.",
+                  "category": "landmark",
+                  "coords": [
+                        51.639147,
+                        32.592225
+                  ]
+            },
+            {
+                  "name": "Nazhvan Amusement Park",
+                  "text": "Der Nazhvan Vergnügungspark bietet verschiedene Fahrgeschäfte und Unterhaltungsmöglichkeiten im Nazhvan-Waldgebiet von Isfahan.",
+                  "category": "recreational",
+                  "coords": [
+                        51.622309,
+                        32.635793
+                  ]
+            },
+            {
+                  "name": "Isfahan Aquarium",
+                  "text": "Das Isfahan-Aquarium im Nazhvan-Waldpark ist eine bemerkenswerte Attraktion mit einem Tunnel und einer vielfältigen Unterwasserwelt.",
+                  "category": "recreational",
+                  "coords": [
+                        51.61224,
+                        32.637708
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Building No. 29",
+                  "text": "A 29-es épület egy kilátópont, amely festői kilátást nyújt a Nazhvan Erdőpark területére.",
+                  "category": "natural",
+                  "coords": [
+                        51.632027,
+                        32.622485
+                  ]
+            },
+            {
+                  "name": "Soffeh Zip-line",
+                  "text": "A Soffeh drótkötélpálya egy izgalmas szabadtéri látványosság a Nazhvan Erdőpark régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        51.639147,
+                        32.592225
+                  ]
+            },
+            {
+                  "name": "Nazhvan Amusement Park",
+                  "text": "A Nazhvan Vidámpark különféle túrákat és szórakozási lehetőségeket kínál Iszfahán Nazhvan erdős területén.",
+                  "category": "recreational",
+                  "coords": [
+                        51.622309,
+                        32.635793
+                  ]
+            },
+            {
+                  "name": "Isfahan Aquarium",
+                  "text": "Az iszfaháni akvárium a Nazhvan Erdőparkban egy jelentős látványosság, amely egy alagúttal és változatos vízi élettel rendelkezik.",
+                  "category": "recreational",
+                  "coords": [
+                        51.61224,
+                        32.637708
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Building No. 29",
+                  "text": "Clădirea Nr. 29 este un punct de belvedere care oferă perspective pitorești asupra zonei Parcului Forestier Nazhvan.",
+                  "category": "natural",
+                  "coords": [
+                        51.632027,
+                        32.622485
+                  ]
+            },
+            {
+                  "name": "Soffeh Zip-line",
+                  "text": "Tiroliana Soffeh este o atracție palpitantă în aer liber în regiunea Parcului Forestier Nazhvan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.639147,
+                        32.592225
+                  ]
+            },
+            {
+                  "name": "Nazhvan Amusement Park",
+                  "text": "Parcul de Distracții Nazhvan oferă diverse atracții și opțiuni de divertisment în zona forestieră Nazhvan din Isfahan.",
+                  "category": "recreational",
+                  "coords": [
+                        51.622309,
+                        32.635793
+                  ]
+            },
+            {
+                  "name": "Isfahan Aquarium",
+                  "text": "Acvariul din Isfahan din Parcul Forestier Nazhvan este o atracție notabilă, cu un tunel și o viață acvatică diversă.",
+                  "category": "recreational",
+                  "coords": [
+                        51.61224,
+                        32.637708
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Building No. 29",
+                  "text": "Building No. 29 is a designated viewpoint offering scenic perspectives of the Nazhvan Forest Park area.",
+                  "category": "natural",
+                  "coords": [
+                        51.632027,
+                        32.622485
+                  ]
+            },
+            {
+                  "name": "Soffeh Zip-line",
+                  "text": "The Soffeh Zip-line is an exciting outdoor attraction in the Nazhvan Forest Park region.",
+                  "category": "landmark",
+                  "coords": [
+                        51.639147,
+                        32.592225
+                  ]
+            },
+            {
+                  "name": "Nazhvan Amusement Park",
+                  "text": "Nazhvan Amusement Park offers various rides and entertainment options within the Nazhvan forest area of Isfahan.",
+                  "category": "recreational",
+                  "coords": [
+                        51.622309,
+                        32.635793
+                  ]
+            },
+            {
+                  "name": "Isfahan Aquarium",
+                  "text": "The Isfahan Aquarium in Nazhvan Forest Park is a notable attraction featuring a tunnel and diverse aquatic life.",
+                  "category": "recreational",
+                  "coords": [
+                        51.61224,
+                        32.637708
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "IR-04",
     coords: [51.608, 32.628],
@@ -606,7 +6492,268 @@ export const poiExtraIranLifeV2: POI[] = [
       fr: ["Le parc forestier de Nazhvan couvre une superficie totale de 1 200 hectares.", "Le téléphérique du parc a une longueur de 1 900 mètres.", "L'aquarium d'Ispahan dans le parc a été inauguré en 2016.", "L'aquarium comprend 33 bassins avec plus de 6 500 créatures marines.", "Le parc s'étend le long des deux rives de la rivière Zayandeh Roud.", "Un musée des papillons abrite des milliers de spécimens préparés du monde entier."],
     }, image: "/poi-images/nazhvan-forest-park-life-v2.webp"},
   {
-    id: "bam-date-palm-groves-life-v2",
+    id: "bam-date-palm-groves-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Good view of the citadel",
+                  "text": "Dieser Aussichtspunkt bietet einen Panoramablick auf die Arg-e Bam, die weltweit größte Lehmziegelfestung.",
+                  "category": "natural",
+                  "coords": [
+                        58.377902,
+                        29.099811
+                  ]
+            },
+            {
+                  "name": "Akbar Abad Qanat",
+                  "text": "Ein Teil des UNESCO-Weltkulturerbes der persischen Qanate, ein antikes unterirdisches Bewässerungssystem in der Wüste.",
+                  "category": "landmark",
+                  "coords": [
+                        58.419385,
+                        29.083411
+                  ]
+            },
+            {
+                  "name": "Ameri Home",
+                  "text": "Ein historisches Wohnhaus in Bam, das die traditionelle Wüstenarchitektur mit schattigen Innenhöfen zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        58.334612,
+                        29.103193
+                  ]
+            },
+            {
+                  "name": "Henna Factory",
+                  "text": "Eine lokale Werkstatt, in der die traditionelle Herstellung von Henna-Pulver aus getrockneten Pflanzen besichtigt werden kann.",
+                  "category": "landmark",
+                  "coords": [
+                        58.344416,
+                        29.086198
+                  ]
+            },
+            {
+                  "name": "Bam Traditional Bazaar",
+                  "text": "Ein historischer Markt mit Lehmziegelgewölben, in dem regionales Kunsthandwerk und Gewürze angeboten werden.",
+                  "category": "landmark",
+                  "coords": [
+                        58.358591,
+                        29.109376
+                  ]
+            },
+            {
+                  "name": "Imam Husayn Mosque",
+                  "text": "Eine Moschee in der Wüstenstadt Bam, die durch ihr blau gekacheltes Minarett und die friedvolle Gebetshalle besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        58.407528,
+                        29.042672
+                  ]
+            },
+            {
+                  "name": "SahebAlZaman Mosque",
+                  "text": "Eine muslimische Gebetsstätte mit traditioneller Kuppelarchitektur, die im Herzen der historischen Oasenstadt liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        58.406823,
+                        29.048364
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Good view of the citadel",
+                  "text": "Ez a kilátópont panorámás kilátást nyújt az Arg-e Bamra, a világ legnagyobb vályogtéglából épült erődjére.",
+                  "category": "natural",
+                  "coords": [
+                        58.377902,
+                        29.099811
+                  ]
+            },
+            {
+                  "name": "Akbar Abad Qanat",
+                  "text": "Az UNESCO világörökség részét képező perzsa kanátok egyike; ókori föld alatti öntözőrendszer a sivatagban.",
+                  "category": "landmark",
+                  "coords": [
+                        58.419385,
+                        29.083411
+                  ]
+            },
+            {
+                  "name": "Ameri Home",
+                  "text": "Történelmi lakóház Bamban, amely a hagyományos sivatagi építészetet mutatja be árnyas udvaraival.",
+                  "category": "landmark",
+                  "coords": [
+                        58.334612,
+                        29.103193
+                  ]
+            },
+            {
+                  "name": "Henna Factory",
+                  "text": "Helyi műhely, ahol megtekinthető a szárított növényekből történő hagyományos hennafesték-készítés.",
+                  "category": "landmark",
+                  "coords": [
+                        58.344416,
+                        29.086198
+                  ]
+            },
+            {
+                  "name": "Bam Traditional Bazaar",
+                  "text": "Vályogtégla boltozatú történelmi piac, ahol regionális kézműves termékeket és fűszereket árusítanak.",
+                  "category": "landmark",
+                  "coords": [
+                        58.358591,
+                        29.109376
+                  ]
+            },
+            {
+                  "name": "Imam Husayn Mosque",
+                  "text": "Mecset Bam sivatagi városában, amely kék csempés minaretjével és békés imacsarnokával tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        58.407528,
+                        29.042672
+                  ]
+            },
+            {
+                  "name": "SahebAlZaman Mosque",
+                  "text": "Hagyományos kupolás építészetű muzulmán imaház a történelmi oázisváros szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        58.406823,
+                        29.048364
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Good view of the citadel",
+                  "text": "Acest punct de observație oferă o vedere panoramică asupra Arg-e Bam, cea mai mare cetate din cărămidă nearsă din lume.",
+                  "category": "natural",
+                  "coords": [
+                        58.377902,
+                        29.099811
+                  ]
+            },
+            {
+                  "name": "Akbar Abad Qanat",
+                  "text": "O parte a patrimoniului mondial UNESCO al qanatelor persane, un sistem antic de irigații subterane în deșert.",
+                  "category": "landmark",
+                  "coords": [
+                        58.419385,
+                        29.083411
+                  ]
+            },
+            {
+                  "name": "Ameri Home",
+                  "text": "O casă istorică în Bam, care prezintă arhitectura tradițională de deșert, cu curți interioare umbroase.",
+                  "category": "landmark",
+                  "coords": [
+                        58.334612,
+                        29.103193
+                  ]
+            },
+            {
+                  "name": "Henna Factory",
+                  "text": "Un atelier local unde poate fi observată producția tradițională de pudră de henna din plante uscate.",
+                  "category": "landmark",
+                  "coords": [
+                        58.344416,
+                        29.086198
+                  ]
+            },
+            {
+                  "name": "Bam Traditional Bazaar",
+                  "text": "Un bazar istoric cu bolți din cărămidă nearsă, unde se vând obiecte de artizanat regional și condimente.",
+                  "category": "landmark",
+                  "coords": [
+                        58.358591,
+                        29.109376
+                  ]
+            },
+            {
+                  "name": "Imam Husayn Mosque",
+                  "text": "O moschee în orașul de deșert Bam, remarcabilă prin minaretul său placat cu plăci albastre și sala de rugăciune liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        58.407528,
+                        29.042672
+                  ]
+            },
+            {
+                  "name": "SahebAlZaman Mosque",
+                  "text": "Un lăcaș de cult musulman cu arhitectură tradițională cu cupolă, situat în inima orașului oază istoric.",
+                  "category": "landmark",
+                  "coords": [
+                        58.406823,
+                        29.048364
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Good view of the citadel",
+                  "text": "This viewpoint offers a panoramic view of Arg-e Bam, the world's largest adobe citadel complex.",
+                  "category": "natural",
+                  "coords": [
+                        58.377902,
+                        29.099811
+                  ]
+            },
+            {
+                  "name": "Akbar Abad Qanat",
+                  "text": "Part of the UNESCO World Heritage Persian Qanat system, this is an ancient underground irrigation gallery in the desert.",
+                  "category": "landmark",
+                  "coords": [
+                        58.419385,
+                        29.083411
+                  ]
+            },
+            {
+                  "name": "Ameri Home",
+                  "text": "A historic residence in Bam showcasing traditional desert architecture with shaded interior courtyards.",
+                  "category": "landmark",
+                  "coords": [
+                        58.334612,
+                        29.103193
+                  ]
+            },
+            {
+                  "name": "Henna Factory",
+                  "text": "A local workshop where the traditional production of henna powder from dried plants can be observed.",
+                  "category": "landmark",
+                  "coords": [
+                        58.344416,
+                        29.086198
+                  ]
+            },
+            {
+                  "name": "Bam Traditional Bazaar",
+                  "text": "A historic bazaar with adobe vaulted ceilings, selling regional handicrafts and spices.",
+                  "category": "landmark",
+                  "coords": [
+                        58.358591,
+                        29.109376
+                  ]
+            },
+            {
+                  "name": "Imam Husayn Mosque",
+                  "text": "A mosque in the desert city of Bam, featuring a blue-tiled minaret and a peaceful prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        58.407528,
+                        29.042672
+                  ]
+            },
+            {
+                  "name": "SahebAlZaman Mosque",
+                  "text": "A Muslim place of worship with traditional domed architecture, located in the heart of the historic oasis city.",
+                  "category": "landmark",
+                  "coords": [
+                        58.406823,
+                        29.048364
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "IR-29",
     coords: [58.358, 29.098],
@@ -649,7 +6796,88 @@ export const poiExtraIranLifeV2: POI[] = [
       fr: ["La datte Mazafati représente environ 20 % de la récolte totale de dattes en Iran.", "Les palmeraies autour de Bam couvrent des milliers d'hectares de terres.", "La récolte des dattes dans la région de Bam a lieu principalement à la fin d'août et en septembre.", "Le système historique de qanats pour l'irrigation des palmeraies a plus de 2 000 ans.", "Un seul palmier adulte peut produire jusqu'à 100 kilogrammes de dattes par an.", "L'Iran exporte chaque année plus de 300 000 tonnes de dattes dans le monde entier."],
     }, image: "/poi-images/bam-date-palm-groves-life-v2.webp"},
   {
-    id: "saveh-pomegranate-orchards-life-v2",
+    id: "saveh-pomegranate-orchards-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "The caravanserai of Abdul Ghaffar Khan",
+                  "text": "Die Karawanserei von Abdul Ghaffar Khan ist eine große, von Ziegelmauern umgebene Innenhofanlage, die historisch Kaufleuten auf den Handelsrouten von Saveh Schutz bot.",
+                  "category": "landmark",
+                  "coords": [
+                        50.44691,
+                        34.990787
+                  ]
+            },
+            {
+                  "name": "mosala saveh",
+                  "text": "Die Mosala von Saveh dient als großer, offener islamischer Gebetsplatz, der für massenhafte gemeinschaftliche Freitagsversammlungen genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        50.338725,
+                        35.020506
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The caravanserai of Abdul Ghaffar Khan",
+                  "text": "Az Abdul Ghaffar Khan karavánszeráj egy hatalmas téglás udvari építmény, amely történelmileg a Saveh kereskedelmi útvonalain áthaladó kereskedőknek nyújtott menedéket.",
+                  "category": "landmark",
+                  "coords": [
+                        50.44691,
+                        34.990787
+                  ]
+            },
+            {
+                  "name": "mosala saveh",
+                  "text": "A savehi Mosala egy hatalmas, szabadtéri iszlám imádkozóhely, amelyet a nagyszabású pénteki közösségi összejövetelekre használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        50.338725,
+                        35.020506
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The caravanserai of Abdul Ghaffar Khan",
+                  "text": "Caravanseraiul lui Abdul Ghaffar Khan este o structură grandioasă cu curte interioară din cărămidă, care în trecut oferea adăpost negustorilor ce călătoreau pe rutele comerciale din Saveh.",
+                  "category": "landmark",
+                  "coords": [
+                        50.44691,
+                        34.990787
+                  ]
+            },
+            {
+                  "name": "mosala saveh",
+                  "text": "Mosala din Saveh servește ca un teren imens de rugăciune islamică în aer liber, utilizat pentru marile adunări comunitare de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        50.338725,
+                        35.020506
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The caravanserai of Abdul Ghaffar Khan",
+                  "text": "The caravanserai of Abdul Ghaffar Khan is a grand brick courtyard structure that historically sheltered merchants traveling through Saveh's trade routes.",
+                  "category": "landmark",
+                  "coords": [
+                        50.44691,
+                        34.990787
+                  ]
+            },
+            {
+                  "name": "mosala saveh",
+                  "text": "The Mosala of Saveh serves as a large, open-air Islamic prayer ground utilized for massive communal Friday gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        50.338725,
+                        35.020506
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "IR-00",
     coords: [50.362, 35.016],
@@ -692,7 +6920,340 @@ export const poiExtraIranLifeV2: POI[] = [
       fr: ["Saveh est le plus grand centre de production de grenades en Iran.", "La surface de culture de la grenade dans la région dépasse les 10 000 hectares.", "Il existe plus de 70 variétés spécifiques de grenades poussant autour de Saveh.", "La variété « Malas-e Saveh » est très prisée pour son goût aigre-doux.", "Le rendement annuel de la région de Saveh dépasse souvent les 150 000 tonnes.", "La campagne principale de récolte des grenades se déroule de fin septembre à novembre."],
     }, image: "/poi-images/saveh-pomegranate-orchards-life-v2.webp"},
   {
-    id: "national-botanical-garden-iran-life-v2",
+    id: "national-botanical-garden-iran-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "East Amphitheater",
+                  "text": "Ein Freilufttheater im Botanischen Garten, das für kulturelle Aufführungen im Grünen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        51.220508,
+                        35.748548
+                  ]
+            },
+            {
+                  "name": "Shahre Gheseh Theme Park",
+                  "text": "Ein familienfreundlicher Themenpark mit verschiedenen Fahrgeschäften und Unterhaltungsangeboten im Westen Teherans.",
+                  "category": "recreational",
+                  "coords": [
+                        51.180419,
+                        35.763979
+                  ]
+            },
+            {
+                  "name": "National Botanical Garden of Iran",
+                  "text": "Einer der weltweit größten botanischen Gärten mit einer beeindruckenden Sammlung einheimischer und exotischer Pflanzen.",
+                  "category": "landmark",
+                  "coords": [
+                        51.175625,
+                        35.740002
+                  ]
+            },
+            {
+                  "name": "Absharan Water Park",
+                  "text": "Ein moderner Wasserpark mit Rutschen und Erholungsbecken für Besucher jeden Alters.",
+                  "category": "recreational",
+                  "coords": [
+                        51.183802,
+                        35.762161
+                  ]
+            },
+            {
+                  "name": "Lake of the Martyrs of the Persian Gulf",
+                  "text": "Ein großer künstlicher See mit einer Promenade, Cafés und Möglichkeiten für den Wassersport.",
+                  "category": "landmark",
+                  "coords": [
+                        51.21408,
+                        35.745023
+                  ]
+            },
+            {
+                  "name": "Chitgar Lake",
+                  "text": "Dieses Naherholungsgebiet am See bietet Radwege und Bootstouren im Nordwesten der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        51.213573,
+                        35.746076
+                  ]
+            },
+            {
+                  "name": "Chitgar Park",
+                  "text": "Ein weitläufiger Waldpark mit Picknickplätzen und Wegen, die ideal zum Radfahren und Wandern sind.",
+                  "category": "park",
+                  "coords": [
+                        51.210151,
+                        35.731013
+                  ]
+            },
+            {
+                  "name": "Chapel",
+                  "text": "Eine schlichte Kapelle in der Nähe der Gärten, die als Ort der Stille und christlichen Andacht dient.",
+                  "category": "religious",
+                  "coords": [
+                        51.20855,
+                        35.752084
+                  ]
+            },
+            {
+                  "name": "Public Bath",
+                  "text": "Ein öffentliches Bad, das traditionelle Waschrituale und Entspannung in funktionaler Umgebung bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        51.180866,
+                        35.69565
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "East Amphitheater",
+                  "text": "A botanikus kertben található szabadtéri színház, amely kulturális előadásoknak ad otthont zöld környezetben.",
+                  "category": "cultural",
+                  "coords": [
+                        51.220508,
+                        35.748548
+                  ]
+            },
+            {
+                  "name": "Shahre Gheseh Theme Park",
+                  "text": "Családbarát vidámpark különféle játékokkal és szórakozási lehetőségekkel Teherán nyugati részén.",
+                  "category": "recreational",
+                  "coords": [
+                        51.180419,
+                        35.763979
+                  ]
+            },
+            {
+                  "name": "National Botanical Garden of Iran",
+                  "text": "A világ egyik legnagyobb botanikus kertje, amely őshonos és egzotikus növények lenyűgöző gyűjteményével rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        51.175625,
+                        35.740002
+                  ]
+            },
+            {
+                  "name": "Absharan Water Park",
+                  "text": "Modern vízipark csúszdákkal és pihentető medencékkel minden korosztály számára.",
+                  "category": "recreational",
+                  "coords": [
+                        51.183802,
+                        35.762161
+                  ]
+            },
+            {
+                  "name": "Lake of the Martyrs of the Persian Gulf",
+                  "text": "Nagy mesterséges tó sétánnyal, kávézókkal és vízi sportolási lehetőségekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        51.21408,
+                        35.745023
+                  ]
+            },
+            {
+                  "name": "Chitgar Lake",
+                  "text": "Ez a tóparti üdülőhely kerékpárutakat és csónakázási lehetőséget kínál a város északnyugati részén.",
+                  "category": "landmark",
+                  "coords": [
+                        51.213573,
+                        35.746076
+                  ]
+            },
+            {
+                  "name": "Chitgar Park",
+                  "text": "Kiterjedt erdei park piknikezőhelyekkel és kerékpározásra, túrázásra ideális ösvényekkel.",
+                  "category": "park",
+                  "coords": [
+                        51.210151,
+                        35.731013
+                  ]
+            },
+            {
+                  "name": "Chapel",
+                  "text": "A kertek közelében található egyszerű kápolna, amely a csend és a keresztény áhítat helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        51.20855,
+                        35.752084
+                  ]
+            },
+            {
+                  "name": "Public Bath",
+                  "text": "Közfürdő, amely hagyományos tisztálkodási rituálékat és pihenést kínál funkcionális környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        51.180866,
+                        35.69565
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "East Amphitheater",
+                  "text": "Un amfiteatru în aer liber situat în Grădina Botanică, utilizat pentru spectacole culturale în mijlocul naturii.",
+                  "category": "cultural",
+                  "coords": [
+                        51.220508,
+                        35.748548
+                  ]
+            },
+            {
+                  "name": "Shahre Gheseh Theme Park",
+                  "text": "Un parc de distracții pentru familii, cu diverse atracții și opțiuni de divertisment în vestul Teheranului.",
+                  "category": "recreational",
+                  "coords": [
+                        51.180419,
+                        35.763979
+                  ]
+            },
+            {
+                  "name": "National Botanical Garden of Iran",
+                  "text": "Una dintre cele mai mari grădini botanice din lume, adăpostind o colecție impresionantă de plante native și exotice.",
+                  "category": "landmark",
+                  "coords": [
+                        51.175625,
+                        35.740002
+                  ]
+            },
+            {
+                  "name": "Absharan Water Park",
+                  "text": "Un parc acvatic modern, cu tobogane și bazine de recreere pentru vizitatori de toate vârstele.",
+                  "category": "recreational",
+                  "coords": [
+                        51.183802,
+                        35.762161
+                  ]
+            },
+            {
+                  "name": "Lake of the Martyrs of the Persian Gulf",
+                  "text": "Un lac artificial mare, cu o faleză, cafenele și oportunități pentru sporturi nautice.",
+                  "category": "landmark",
+                  "coords": [
+                        51.21408,
+                        35.745023
+                  ]
+            },
+            {
+                  "name": "Chitgar Lake",
+                  "text": "Această zonă de recreere de lângă lac oferă piste de biciclete și plimbări cu barca în nord-vestul orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        51.213573,
+                        35.746076
+                  ]
+            },
+            {
+                  "name": "Chitgar Park",
+                  "text": "Un parc forestier vast, cu zone de picnic și poteci ideale pentru ciclism și drumeții.",
+                  "category": "park",
+                  "coords": [
+                        51.210151,
+                        35.731013
+                  ]
+            },
+            {
+                  "name": "Chapel",
+                  "text": "O capelă simplă situată lângă grădini, servind ca loc de liniște și devoțiune creștină.",
+                  "category": "religious",
+                  "coords": [
+                        51.20855,
+                        35.752084
+                  ]
+            },
+            {
+                  "name": "Public Bath",
+                  "text": "O baie publică ce oferă ritualuri tradiționale de spălare și relaxare într-un cadru funcțional.",
+                  "category": "recreational",
+                  "coords": [
+                        51.180866,
+                        35.69565
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "East Amphitheater",
+                  "text": "An open-air theater within the botanical garden used for cultural performances in a green setting.",
+                  "category": "cultural",
+                  "coords": [
+                        51.220508,
+                        35.748548
+                  ]
+            },
+            {
+                  "name": "Shahre Gheseh Theme Park",
+                  "text": "A family-friendly theme park featuring various rides and entertainment options in western Tehran.",
+                  "category": "recreational",
+                  "coords": [
+                        51.180419,
+                        35.763979
+                  ]
+            },
+            {
+                  "name": "National Botanical Garden of Iran",
+                  "text": "One of the world's largest botanical gardens, home to an impressive collection of native and exotic plants.",
+                  "category": "landmark",
+                  "coords": [
+                        51.175625,
+                        35.740002
+                  ]
+            },
+            {
+                  "name": "Absharan Water Park",
+                  "text": "A modern water park featuring slides and recreational pools for visitors of all ages.",
+                  "category": "recreational",
+                  "coords": [
+                        51.183802,
+                        35.762161
+                  ]
+            },
+            {
+                  "name": "Lake of the Martyrs of the Persian Gulf",
+                  "text": "A large artificial lake featuring a promenade, cafes, and opportunities for water sports.",
+                  "category": "landmark",
+                  "coords": [
+                        51.21408,
+                        35.745023
+                  ]
+            },
+            {
+                  "name": "Chitgar Lake",
+                  "text": "This lakeside recreation area offers cycling paths and boating opportunities in the city's northwest.",
+                  "category": "landmark",
+                  "coords": [
+                        51.213573,
+                        35.746076
+                  ]
+            },
+            {
+                  "name": "Chitgar Park",
+                  "text": "A sprawling forest park with picnic spots and trails ideal for cycling and hiking.",
+                  "category": "park",
+                  "coords": [
+                        51.210151,
+                        35.731013
+                  ]
+            },
+            {
+                  "name": "Chapel",
+                  "text": "A simple chapel located near the gardens, serving as a place of quiet and Christian worship.",
+                  "category": "religious",
+                  "coords": [
+                        51.20855,
+                        35.752084
+                  ]
+            },
+            {
+                  "name": "Public Bath",
+                  "text": "A public bath offering traditional washing rituals and relaxation in a functional setting.",
+                  "category": "recreational",
+                  "coords": [
+                        51.180866,
+                        35.69565
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "IR-07",
     coords: [51.182, 35.736],
@@ -735,7 +7296,844 @@ export const poiExtraIranLifeV2: POI[] = [
       fr: ["Le jardin botanique national a été fondé en 1968.", "Le vaste domaine s'étend sur une superficie de 145 hectares.", "Le jardin cultive plus de 3 000 espèces végétales différentes du monde entier.", "Il existe 7 zones de végétation nationales et 6 étrangères différentes.", "Un lac artificiel sur le site couvre une superficie de 3 hectares.", "L'herbier scientifique de l'établissement abrite des milliers de spécimens de plantes préparés."],
     }, image: "/poi-images/national-botanical-garden-iran-life-v2.webp"},
   {
-    id: "el-goli-park-life-v2",
+    id: "el-goli-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shahgoli 2nd Phase",
+                  "text": "Erweiterung des El-Goli-Parks mit Grünflächen und Freizeitanlagen nahe dem großen künstlichen See.",
+                  "category": "recreational",
+                  "coords": [
+                        46.376417,
+                        38.00651
+                  ]
+            },
+            {
+                  "name": "Tabriz Sledding",
+                  "text": "Eine Rodelbahn im El-Goli-Park, die eine rasante Abfahrt mit Blick auf die Parkanlagen bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        46.373687,
+                        38.012385
+                  ]
+            },
+            {
+                  "name": "tourism3",
+                  "text": "Ein Aussichtspunkt innerhalb des weitläufigen El-Goli-Erholungsgebiets in Täbris.",
+                  "category": "landmark",
+                  "coords": [
+                        46.413736,
+                        38.036901
+                  ]
+            },
+            {
+                  "name": "tourism2",
+                  "text": "Eine ruhige Ecke für Spaziergänge in den gepflegten Gartenanlagen rund um den El-Goli-See.",
+                  "category": "landmark",
+                  "coords": [
+                        46.412251,
+                        38.036065
+                  ]
+            },
+            {
+                  "name": "tourism1",
+                  "text": "Ein Denkmal inmitten der beliebten Promenade des El-Goli-Parks.",
+                  "category": "landmark",
+                  "coords": [
+                        46.413575,
+                        38.03599
+                  ]
+            },
+            {
+                  "name": "Khalat Pushan Building",
+                  "text": "Historischer Ziegelturm aus der Safawiden-Ära, der ursprünglich für feierliche Einkleidungen genutzt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        46.394492,
+                        38.031877
+                  ]
+            },
+            {
+                  "name": "Irani Visual Arts Institude & Art Gallery",
+                  "text": "Kunstgalerie im El-Goli-Viertel, die zeitgenössische iranische visuelle Kunst präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        46.356858,
+                        38.044395
+                  ]
+            },
+            {
+                  "name": "Shahid Esmaeilzade Av",
+                  "text": "Ein markantes Bauwerk an der gleichnamigen Allee nahe dem El-Goli-Erholungsgebiet.",
+                  "category": "castle",
+                  "coords": [
+                        46.339263,
+                        38.056256
+                  ]
+            },
+            {
+                  "name": "Ceramic lab collections",
+                  "text": "Ausstellung traditioneller und moderner Keramiktechniken im kulturellen Sektor von Täbris.",
+                  "category": "landmark",
+                  "coords": [
+                        46.338339,
+                        38.058924
+                  ]
+            },
+            {
+                  "name": "Kayvan Foundation",
+                  "text": "Ein Kultur- und Bildungszentrum in der Nähe des El-Goli-Parks in Täbris.",
+                  "category": "landmark",
+                  "coords": [
+                        46.363378,
+                        38.078211
+                  ]
+            },
+            {
+                  "name": "Amusement Park",
+                  "text": "Freizeitpark im El-Goli-Komplex mit Fahrgeschäften und Unterhaltungsangeboten für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        46.363829,
+                        38.024158
+                  ]
+            },
+            {
+                  "name": "El-Goli park",
+                  "text": "Berühmter Park mit einem großen quadratischen künstlichen See und einem zentralen Safawiden-Pavillon.",
+                  "category": "landmark",
+                  "coords": [
+                        46.368722,
+                        38.02285
+                  ]
+            },
+            {
+                  "name": "Baghlar Baghi",
+                  "text": "Großer Vergnügungspark in Täbris, bekannt für seine weiten Grünflächen und vielfältigen Fahrgeschäfte.",
+                  "category": "recreational",
+                  "coords": [
+                        46.345464,
+                        38.062156
+                  ]
+            },
+            {
+                  "name": "Imam khomeyni Mosque",
+                  "text": "Große Freitagsmoschee in Täbris, die als bedeutendes religiöses Zentrum der Stadt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        46.381126,
+                        38.027211
+                  ]
+            },
+            {
+                  "name": "Velayat",
+                  "text": "Nachbarschaftsmoschee in Täbris, die als lokales spirituelles Zentrum für die Anwohner fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        46.385846,
+                        38.030001
+                  ]
+            },
+            {
+                  "name": "Quds Mosque",
+                  "text": "Ein modernes religiöses Bauwerk in Täbris mit traditionellen islamischen Architekturelementen.",
+                  "category": "landmark",
+                  "coords": [
+                        46.380208,
+                        38.031436
+                  ]
+            },
+            {
+                  "name": "Noor",
+                  "text": "Eine muslimische Gebetsstätte in den östlichen Stadtteilen von Täbris.",
+                  "category": "landmark",
+                  "coords": [
+                        46.377049,
+                        38.035908
+                  ]
+            },
+            {
+                  "name": "14th masoom Mosque",
+                  "text": "Diese Moschee in Täbris ist den vierzehn Unfehlbaren des schiitischen Islams gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        46.366127,
+                        38.039164
+                  ]
+            },
+            {
+                  "name": "Imam Reza Mosque",
+                  "text": "Großer religiöser Komplex in Täbris, der nach dem achten schiitischen Imam benannt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        46.356019,
+                        38.04
+                  ]
+            },
+            {
+                  "name": "Azzahra",
+                  "text": "Eine lokale Moschee in Täbris, die zu Ehren von Fatima az-Zahra benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        46.395153,
+                        38.063025
+                  ]
+            },
+            {
+                  "name": "moslem ebn aghil",
+                  "text": "Ein muslimisches Bethaus in Täbris, benannt nach dem Gesandten von Husain ibn Ali.",
+                  "category": "landmark",
+                  "coords": [
+                        46.351579,
+                        38.067791
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "Bedeutende Moschee in Täbris, die dem ersten schiitischen Imam gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        46.382842,
+                        38.074701
+                  ]
+            },
+            {
+                  "name": "Tabriz Stone Market",
+                  "text": "Spezialisierter Teil des Basars von Täbris, bekannt für den Handel mit Natursteinen und Mineralien.",
+                  "category": "cultural",
+                  "coords": [
+                        46.380007,
+                        38.04379
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shahgoli 2nd Phase",
+                  "text": "Az El-Goli park bővítése zöldterületekkel és pihenőhelyekkel a nagy mesterséges tó közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        46.376417,
+                        38.00651
+                  ]
+            },
+            {
+                  "name": "Tabriz Sledding",
+                  "text": "Az El-Goli parkban található bobpálya, amely gyors lecsúszást kínál kilátással a parkra.",
+                  "category": "recreational",
+                  "coords": [
+                        46.373687,
+                        38.012385
+                  ]
+            },
+            {
+                  "name": "tourism3",
+                  "text": "Kilátópont Tebriz kedvelt El-Goli pihenőövezetének területén.",
+                  "category": "landmark",
+                  "coords": [
+                        46.413736,
+                        38.036901
+                  ]
+            },
+            {
+                  "name": "tourism2",
+                  "text": "Sétálásra alkalmas csendes pihenőhely az El-Goli-tó körüli gondozott kertekben.",
+                  "category": "landmark",
+                  "coords": [
+                        46.412251,
+                        38.036065
+                  ]
+            },
+            {
+                  "name": "tourism1",
+                  "text": "Emlékmű az El-Goli park népszerű sétányának közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        46.413575,
+                        38.03599
+                  ]
+            },
+            {
+                  "name": "Khalat Pushan Building",
+                  "text": "Szafavida-kori történelmi téglatorony, amelyet egykor ünnepélyes beiktatási szertartásokhoz használtak.",
+                  "category": "landmark",
+                  "coords": [
+                        46.394492,
+                        38.031877
+                  ]
+            },
+            {
+                  "name": "Irani Visual Arts Institude & Art Gallery",
+                  "text": "Művészeti galéria az El-Goli negyedben, amely kortárs iráni képzőművészeti alkotásokat mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        46.356858,
+                        38.044395
+                  ]
+            },
+            {
+                  "name": "Shahid Esmaeilzade Av",
+                  "text": "Jellegzetes épület az El-Goli pihenőövezet melletti sugárúton.",
+                  "category": "castle",
+                  "coords": [
+                        46.339263,
+                        38.056256
+                  ]
+            },
+            {
+                  "name": "Ceramic lab collections",
+                  "text": "Hagyományos és modern kerámiatechnikákat bemutató kiállítás Tebriz kulturális negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        46.338339,
+                        38.058924
+                  ]
+            },
+            {
+                  "name": "Kayvan Foundation",
+                  "text": "Kulturális és oktatási központ a tebrizi El-Goli park közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        46.363378,
+                        38.078211
+                  ]
+            },
+            {
+                  "name": "Amusement Park",
+                  "text": "Vidámpark az El-Goli komplexumban, különféle játékokkal és családi szórakozási lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        46.363829,
+                        38.024158
+                  ]
+            },
+            {
+                  "name": "El-Goli park",
+                  "text": "Híres park egy nagy négyzet alakú mesterséges tóval és egy központi szafavida pavilonnal.",
+                  "category": "landmark",
+                  "coords": [
+                        46.368722,
+                        38.02285
+                  ]
+            },
+            {
+                  "name": "Baghlar Baghi",
+                  "text": "Tebriz nagy vidámparkja, amely tágas zöldfelületeiről és változatos játékgépeiről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        46.345464,
+                        38.062156
+                  ]
+            },
+            {
+                  "name": "Imam khomeyni Mosque",
+                  "text": "Hatalmas pénteki mecset Tebrizben, amely a város egyik legfontosabb vallási központja.",
+                  "category": "landmark",
+                  "coords": [
+                        46.381126,
+                        38.027211
+                  ]
+            },
+            {
+                  "name": "Velayat",
+                  "text": "Helyi mecset Tebrizben, amely a környező lakosok spirituális központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        46.385846,
+                        38.030001
+                  ]
+            },
+            {
+                  "name": "Quds Mosque",
+                  "text": "Modern vallási épület Tebrizben, hagyományos iszlám építészeti elemekkel ötvözve.",
+                  "category": "landmark",
+                  "coords": [
+                        46.380208,
+                        38.031436
+                  ]
+            },
+            {
+                  "name": "Noor",
+                  "text": "Muszlim imaház Tebriz keleti városrészeiben.",
+                  "category": "landmark",
+                  "coords": [
+                        46.377049,
+                        38.035908
+                  ]
+            },
+            {
+                  "name": "14th masoom Mosque",
+                  "text": "Tebrizi mecset, amelyet a síita iszlám tizennégy tévedhetetlenének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        46.366127,
+                        38.039164
+                  ]
+            },
+            {
+                  "name": "Imam Reza Mosque",
+                  "text": "Hatalmas vallási komplexum Tebrizben, amelyet a nyolcadik síita imámról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        46.356019,
+                        38.04
+                  ]
+            },
+            {
+                  "name": "Azzahra",
+                  "text": "Helyi mecset Tebrizben, amelyet Fatima az-Zahra tiszteletére neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        46.395153,
+                        38.063025
+                  ]
+            },
+            {
+                  "name": "moslem ebn aghil",
+                  "text": "Tebrizi muszlim imaház, amely Huszein ibn Ali követéről kapta nevét.",
+                  "category": "landmark",
+                  "coords": [
+                        46.351579,
+                        38.067791
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "Jelentős mecset Tebrizben, amelyet az első síita imámnak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        46.382842,
+                        38.074701
+                  ]
+            },
+            {
+                  "name": "Tabriz Stone Market",
+                  "text": "A tebrizi bazár speciális része, amely terméskövek és ásványok kereskedelméről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        46.380007,
+                        38.04379
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shahgoli 2nd Phase",
+                  "text": "Extindere a parcului El-Goli cu spații verzi și zone de recreere lângă marele lac artificial.",
+                  "category": "recreational",
+                  "coords": [
+                        46.376417,
+                        38.00651
+                  ]
+            },
+            {
+                  "name": "Tabriz Sledding",
+                  "text": "O pistă de săniuș în parcul El-Goli, oferind o coborâre rapidă cu vedere spre grădini.",
+                  "category": "recreational",
+                  "coords": [
+                        46.373687,
+                        38.012385
+                  ]
+            },
+            {
+                  "name": "tourism3",
+                  "text": "Un punct de observație situat în cadrul popularei zone de recreere El-Goli din Tabriz.",
+                  "category": "landmark",
+                  "coords": [
+                        46.413736,
+                        38.036901
+                  ]
+            },
+            {
+                  "name": "tourism2",
+                  "text": "Un loc liniștit pentru plimbări în grădinile amenajate din jurul lacului El-Goli.",
+                  "category": "landmark",
+                  "coords": [
+                        46.412251,
+                        38.036065
+                  ]
+            },
+            {
+                  "name": "tourism1",
+                  "text": "Un monument situat în mijlocul popularei promenade din parcul El-Goli.",
+                  "category": "landmark",
+                  "coords": [
+                        46.413575,
+                        38.03599
+                  ]
+            },
+            {
+                  "name": "Khalat Pushan Building",
+                  "text": "Turn istoric de cărămidă din era Safavidă, folosit inițial pentru ceremonii de învestire.",
+                  "category": "landmark",
+                  "coords": [
+                        46.394492,
+                        38.031877
+                  ]
+            },
+            {
+                  "name": "Irani Visual Arts Institude & Art Gallery",
+                  "text": "Galerie de artă în cartierul El-Goli, prezentând arte vizuale contemporane iraniene.",
+                  "category": "cultural",
+                  "coords": [
+                        46.356858,
+                        38.044395
+                  ]
+            },
+            {
+                  "name": "Shahid Esmaeilzade Av",
+                  "text": "O structură distinctivă pe bulevardul cu același nume, lângă zona de recreere El-Goli.",
+                  "category": "castle",
+                  "coords": [
+                        46.339263,
+                        38.056256
+                  ]
+            },
+            {
+                  "name": "Ceramic lab collections",
+                  "text": "Expoziție de tehnici de ceramică tradițională și modernă în sectorul cultural din Tabriz.",
+                  "category": "landmark",
+                  "coords": [
+                        46.338339,
+                        38.058924
+                  ]
+            },
+            {
+                  "name": "Kayvan Foundation",
+                  "text": "Un centru cultural și educațional situat în proximitatea parcului El-Goli din Tabriz.",
+                  "category": "landmark",
+                  "coords": [
+                        46.363378,
+                        38.078211
+                  ]
+            },
+            {
+                  "name": "Amusement Park",
+                  "text": "Parc de distracții în complexul El-Goli, cu atracții și divertisment pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        46.363829,
+                        38.024158
+                  ]
+            },
+            {
+                  "name": "El-Goli park",
+                  "text": "Parc faimos ce cuprinde un lac artificial pătrat și un pavilion central din era Safavidă.",
+                  "category": "landmark",
+                  "coords": [
+                        46.368722,
+                        38.02285
+                  ]
+            },
+            {
+                  "name": "Baghlar Baghi",
+                  "text": "Mare parc de distracții din Tabriz, cunoscut pentru spațiile verzi vaste și diversele atracții.",
+                  "category": "recreational",
+                  "coords": [
+                        46.345464,
+                        38.062156
+                  ]
+            },
+            {
+                  "name": "Imam khomeyni Mosque",
+                  "text": "Marea moschee de vineri din Tabriz, servind ca un centru religios major al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        46.381126,
+                        38.027211
+                  ]
+            },
+            {
+                  "name": "Velayat",
+                  "text": "Moschee de cartier în Tabriz, funcționând ca centru spiritual local pentru rezidenți.",
+                  "category": "landmark",
+                  "coords": [
+                        46.385846,
+                        38.030001
+                  ]
+            },
+            {
+                  "name": "Quds Mosque",
+                  "text": "O structură religioasă modernă din Tabriz, integrând elemente arhitecturale islamice tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        46.380208,
+                        38.031436
+                  ]
+            },
+            {
+                  "name": "Noor",
+                  "text": "O casă de rugăciune musulmană situată în cartierele estice ale orașului Tabriz.",
+                  "category": "landmark",
+                  "coords": [
+                        46.377049,
+                        38.035908
+                  ]
+            },
+            {
+                  "name": "14th masoom Mosque",
+                  "text": "Moschee din Tabriz dedicată celor paisprezece infailibili ai islamului šiit.",
+                  "category": "landmark",
+                  "coords": [
+                        46.366127,
+                        38.039164
+                  ]
+            },
+            {
+                  "name": "Imam Reza Mosque",
+                  "text": "Complex religios mare din Tabriz, numit după cel de-al optulea imam šiit.",
+                  "category": "landmark",
+                  "coords": [
+                        46.356019,
+                        38.04
+                  ]
+            },
+            {
+                  "name": "Azzahra",
+                  "text": "O moschee locală în Tabriz, numită în onoarea lui Fatima az-Zahra.",
+                  "category": "landmark",
+                  "coords": [
+                        46.395153,
+                        38.063025
+                  ]
+            },
+            {
+                  "name": "moslem ebn aghil",
+                  "text": "O casă de rugăciune musulmană din Tabriz, numită după trimisul lui Husayn ibn Ali.",
+                  "category": "landmark",
+                  "coords": [
+                        46.351579,
+                        38.067791
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "Moschee proeminentă în Tabriz, dedicată primului imam šiit.",
+                  "category": "landmark",
+                  "coords": [
+                        46.382842,
+                        38.074701
+                  ]
+            },
+            {
+                  "name": "Tabriz Stone Market",
+                  "text": "Secțiune specializată a bazarului din Tabriz, cunoscută pentru comerțul cu pietre naturale și minerale.",
+                  "category": "cultural",
+                  "coords": [
+                        46.380007,
+                        38.04379
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shahgoli 2nd Phase",
+                  "text": "Expansion of El-Goli Park featuring green spaces and leisure facilities near the large artificial lake.",
+                  "category": "recreational",
+                  "coords": [
+                        46.376417,
+                        38.00651
+                  ]
+            },
+            {
+                  "name": "Tabriz Sledding",
+                  "text": "A sledding track in El-Goli Park offering a thrilling ride with views over the landscaped gardens.",
+                  "category": "recreational",
+                  "coords": [
+                        46.373687,
+                        38.012385
+                  ]
+            },
+            {
+                  "name": "tourism3",
+                  "text": "A scenic lookout point within the expansive El-Goli recreational area of Tabriz.",
+                  "category": "landmark",
+                  "coords": [
+                        46.413736,
+                        38.036901
+                  ]
+            },
+            {
+                  "name": "tourism2",
+                  "text": "A quiet spot for walking within the manicured gardens surrounding the El-Goli lake.",
+                  "category": "landmark",
+                  "coords": [
+                        46.412251,
+                        38.036065
+                  ]
+            },
+            {
+                  "name": "tourism1",
+                  "text": "A landmark monument located along the popular promenade of El-Goli Park.",
+                  "category": "landmark",
+                  "coords": [
+                        46.413575,
+                        38.03599
+                  ]
+            },
+            {
+                  "name": "Khalat Pushan Building",
+                  "text": "Historic Safavid-era brick tower originally used for ceremonial robing of high-ranking officials.",
+                  "category": "landmark",
+                  "coords": [
+                        46.394492,
+                        38.031877
+                  ]
+            },
+            {
+                  "name": "Irani Visual Arts Institude & Art Gallery",
+                  "text": "Art gallery in the El-Goli district showcasing contemporary Iranian visual arts and exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        46.356858,
+                        38.044395
+                  ]
+            },
+            {
+                  "name": "Shahid Esmaeilzade Av",
+                  "text": "A distinctive building located along the avenue of the same name near the El-Goli leisure area.",
+                  "category": "castle",
+                  "coords": [
+                        46.339263,
+                        38.056256
+                  ]
+            },
+            {
+                  "name": "Ceramic lab collections",
+                  "text": "Exhibit showcasing traditional and modern ceramic techniques within the cultural sector of Tabriz.",
+                  "category": "landmark",
+                  "coords": [
+                        46.338339,
+                        38.058924
+                  ]
+            },
+            {
+                  "name": "Kayvan Foundation",
+                  "text": "A cultural and educational foundation site located near the El-Goli park in Tabriz.",
+                  "category": "landmark",
+                  "coords": [
+                        46.363378,
+                        38.078211
+                  ]
+            },
+            {
+                  "name": "Amusement Park",
+                  "text": "Amusement park within the El-Goli complex featuring rides and family entertainment options.",
+                  "category": "recreational",
+                  "coords": [
+                        46.363829,
+                        38.024158
+                  ]
+            },
+            {
+                  "name": "El-Goli park",
+                  "text": "Famous park featuring a large square artificial lake and a central historic Safavid pavilion.",
+                  "category": "landmark",
+                  "coords": [
+                        46.368722,
+                        38.02285
+                  ]
+            },
+            {
+                  "name": "Baghlar Baghi",
+                  "text": "Large amusement park in Tabriz known for its expansive green spaces and diverse fairground rides.",
+                  "category": "recreational",
+                  "coords": [
+                        46.345464,
+                        38.062156
+                  ]
+            },
+            {
+                  "name": "Imam khomeyni Mosque",
+                  "text": "Grand congregational mosque in Tabriz, serving as a major religious hub for the city.",
+                  "category": "landmark",
+                  "coords": [
+                        46.381126,
+                        38.027211
+                  ]
+            },
+            {
+                  "name": "Velayat",
+                  "text": "Neighborhood mosque in Tabriz, functioning as a local spiritual center for residents.",
+                  "category": "landmark",
+                  "coords": [
+                        46.385846,
+                        38.030001
+                  ]
+            },
+            {
+                  "name": "Quds Mosque",
+                  "text": "A modern religious building in Tabriz incorporating traditional Islamic architectural elements.",
+                  "category": "landmark",
+                  "coords": [
+                        46.380208,
+                        38.031436
+                  ]
+            },
+            {
+                  "name": "Noor",
+                  "text": "A Muslim house of worship located in the eastern districts of Tabriz.",
+                  "category": "landmark",
+                  "coords": [
+                        46.377049,
+                        38.035908
+                  ]
+            },
+            {
+                  "name": "14th masoom Mosque",
+                  "text": "Mosque in Tabriz dedicated to the Fourteen Infallibles of Shia Islam.",
+                  "category": "landmark",
+                  "coords": [
+                        46.366127,
+                        38.039164
+                  ]
+            },
+            {
+                  "name": "Imam Reza Mosque",
+                  "text": "Large religious complex in Tabriz named after the eighth Shia Imam.",
+                  "category": "landmark",
+                  "coords": [
+                        46.356019,
+                        38.04
+                  ]
+            },
+            {
+                  "name": "Azzahra",
+                  "text": "A local mosque in Tabriz named in honor of Fatima az-Zahra.",
+                  "category": "landmark",
+                  "coords": [
+                        46.395153,
+                        38.063025
+                  ]
+            },
+            {
+                  "name": "moslem ebn aghil",
+                  "text": "A Muslim prayer hall in Tabriz named after the envoy of Husayn ibn Ali.",
+                  "category": "landmark",
+                  "coords": [
+                        46.351579,
+                        38.067791
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "Prominent mosque in Tabriz dedicated to the first Shia Imam.",
+                  "category": "landmark",
+                  "coords": [
+                        46.382842,
+                        38.074701
+                  ]
+            },
+            {
+                  "name": "Tabriz Stone Market",
+                  "text": "Specialized section of the Tabriz bazaar known for its trade in natural stones and minerals.",
+                  "category": "cultural",
+                  "coords": [
+                        46.380007,
+                        38.04379
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "IR-03",
     coords: [46.366, 38.024],
@@ -778,7 +8176,124 @@ export const poiExtraIranLifeV2: POI[] = [
       fr: ["Le lac carré du parc Elgoli couvre une superficie de 5,5 hectares.", "Le bassin du lac atteint une profondeur maximale de 12 mètres.", "Le pavillon central a été massivement agrandi à l'époque qadjare.", "Le lac était à l'origine un réservoir d'eau pour l'irrigation des jardins à l'est de Tabriz.", "Un pont au sud relie directement la terre ferme au pavillon central.", "Le parc est le principal centre de loisirs pour les quelque 1,5 million d'habitants de Tabriz."],
     }, image: "/poi-images/el-goli-park-life-v2.webp"},
   {
-    id: "dena-protected-area-life-v2",
+    id: "dena-protected-area-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dena",
+                  "text": "Der höchste Gebirgszug des Zagros-Gebirges, dessen Gipfel oft über 4.000 Meter in den Himmel ragen.",
+                  "category": "natural",
+                  "coords": [
+                        51.435918,
+                        30.951176
+                  ]
+            },
+            {
+                  "name": "Tape ghalat complex",
+                  "text": "Ein Aussichtspunkt auf einem Bergrücken, der weite Panoramablicke über das Dena-Schutzgebiet bietet.",
+                  "category": "natural",
+                  "coords": [
+                        51.457554,
+                        30.865439
+                  ]
+            },
+            {
+                  "name": "Dena National Park",
+                  "text": "Ein UNESCO-Biosphärenreservat, das für seine dichten Eichenwälder und die reiche alpine Flora bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        51.408472,
+                        30.990054
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dena",
+                  "text": "A Zagrosz-hegység legmagasabb vonulata, amelynek csúcsai gyakran 4000 méter fölé magasodnak.",
+                  "category": "natural",
+                  "coords": [
+                        51.435918,
+                        30.951176
+                  ]
+            },
+            {
+                  "name": "Tape ghalat complex",
+                  "text": "Kilátópont egy hegygerincen, ahonnan széles panoráma nyílik a Dena védett területre.",
+                  "category": "natural",
+                  "coords": [
+                        51.457554,
+                        30.865439
+                  ]
+            },
+            {
+                  "name": "Dena National Park",
+                  "text": "UNESCO bioszféra-rezervátum, amely sűrű tölgyerdőiről és gazdag alpesi flórájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        51.408472,
+                        30.990054
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dena",
+                  "text": "Cea mai înaltă sub-creastă a Munților Zagros, cu vârfuri care se ridică adesea la peste 4.000 de metri.",
+                  "category": "natural",
+                  "coords": [
+                        51.435918,
+                        30.951176
+                  ]
+            },
+            {
+                  "name": "Tape ghalat complex",
+                  "text": "Un punct de observație pe o creastă montană, oferind vederi panoramice largi asupra zonei protejate Dena.",
+                  "category": "natural",
+                  "coords": [
+                        51.457554,
+                        30.865439
+                  ]
+            },
+            {
+                  "name": "Dena National Park",
+                  "text": "O rezervație a biosferei UNESCO cunoscută pentru pădurile sale dese de stejar și flora alpină bogată.",
+                  "category": "natural",
+                  "coords": [
+                        51.408472,
+                        30.990054
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dena",
+                  "text": "The highest sub-range of the Zagros Mountains, with peaks often rising above 4,000 meters.",
+                  "category": "natural",
+                  "coords": [
+                        51.435918,
+                        30.951176
+                  ]
+            },
+            {
+                  "name": "Tape ghalat complex",
+                  "text": "A viewpoint on a mountain ridge, offering wide panoramic views over the Dena protected area.",
+                  "category": "natural",
+                  "coords": [
+                        51.457554,
+                        30.865439
+                  ]
+            },
+            {
+                  "name": "Dena National Park",
+                  "text": "A UNESCO Biosphere Reserve known for its dense oak forests and rich alpine flora.",
+                  "category": "natural",
+                  "coords": [
+                        51.408472,
+                        30.990054
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "IR-17",
     coords: [51.416, 30.933],

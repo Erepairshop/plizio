@@ -34,7 +34,7 @@ export const czechrepublicEconomicV2: POI[] = [
             },
             {
                   "name": "svatý Prokop",
-                  "text": "Ein lokaler Ort der Andacht, der dem heiligen Prokop gewidmet ist.",
+                  "text": "Die Kapelle des heiligen Prokop in der Nähe des Kernkraftwerks Temelín ist eine kleine Kirche, die diesem Heiligen geweiht ist.",
                   "category": "religious",
                   "coords": [
                         14.365602,
@@ -52,7 +52,7 @@ export const czechrepublicEconomicV2: POI[] = [
             },
             {
                   "name": "Nejsvětější Trojice",
-                  "text": "Ein lokaler religiöser Ort, der der Heiligen Dreifaltigkeit gewidmet ist.",
+                  "text": "Die Kapelle der Heiligen Dreifaltigkeit in der Nähe des Kernkraftwerks Temelín ist eine Kapelle, die der Dreifaltigkeit geweiht ist.",
                   "category": "religious",
                   "coords": [
                         14.326323,
@@ -90,7 +90,7 @@ export const czechrepublicEconomicV2: POI[] = [
             },
             {
                   "name": "svatý Prokop",
-                  "text": "Szent Prokopnak szentelt helyi vallási emlékhely.",
+                  "text": "Szent Prokop kápolna a Temelíni Atomerőmű közelében egy kápolna, amely Szent Prokop tiszteletére épült.",
                   "category": "religious",
                   "coords": [
                         14.365602,
@@ -108,7 +108,7 @@ export const czechrepublicEconomicV2: POI[] = [
             },
             {
                   "name": "Nejsvětější Trojice",
-                  "text": "A Szentháromságnak szentelt helyi vallási emlékhely.",
+                  "text": "A Szentháromság kápolna a Temelíni Atomerőmű közelében egy kápolna, amely a Szentháromságnak van szentelve.",
                   "category": "religious",
                   "coords": [
                         14.326323,
@@ -146,7 +146,7 @@ export const czechrepublicEconomicV2: POI[] = [
             },
             {
                   "name": "svatý Prokop",
-                  "text": "Un lăcaș de cult local dedicat Sfântului Procopie.",
+                  "text": "Capela Sfântului Procopie lângă Centrala Nucleară Temelín este o capelă dedicată Sfântului Procopie.",
                   "category": "religious",
                   "coords": [
                         14.365602,
@@ -164,7 +164,7 @@ export const czechrepublicEconomicV2: POI[] = [
             },
             {
                   "name": "Nejsvětější Trojice",
-                  "text": "Un lăcaș de cult local dedicat Sfintei Treimi.",
+                  "text": "Capela Sfintei Treimi lângă Centrala Nucleară Temelín este o capelă dedicată Sfintei Treimi.",
                   "category": "religious",
                   "coords": [
                         14.326323,
@@ -202,7 +202,7 @@ export const czechrepublicEconomicV2: POI[] = [
             },
             {
                   "name": "svatý Prokop",
-                  "text": "A local place of worship dedicated to Saint Procopius.",
+                  "text": "The chapel of St. Procopius near the Temelín Nuclear Power Plant is a chapel dedicated to Saint Procopius.",
                   "category": "religious",
                   "coords": [
                         14.365602,
@@ -220,7 +220,7 @@ export const czechrepublicEconomicV2: POI[] = [
             },
             {
                   "name": "Nejsvětější Trojice",
-                  "text": "A local religious site dedicated to the Holy Trinity.",
+                  "text": "The Chapel of the Holy Trinity near the Temelín Nuclear Power Plant is a chapel dedicated to the Trinity.",
                   "category": "religious",
                   "coords": [
                         14.326323,
@@ -390,7 +390,7 @@ export const czechrepublicEconomicV2: POI[] = [
             },
             {
                   "name": "přírodní rezervace Dukovanský mlýn",
-                  "text": "Ein Naturschutzgebiet in der Nähe von Dukovany.",
+                  "text": "Das Naturschutzgebiet Dukovanský mlýn, ausgewiesen 1983, schützt das Areal einer alten Mühle.",
                   "category": "natural",
                   "coords": [
                         16.176607,
@@ -399,7 +399,7 @@ export const czechrepublicEconomicV2: POI[] = [
             },
             {
                   "name": "přírodní rezervace U Jezera",
-                  "text": "Ein Naturschutzgebiet in der Nähe von Dukovany.",
+                  "text": "Das Naturschutzgebiet U Jezera, seit 2015 geschützt, liegt an einem See.",
                   "category": "natural",
                   "coords": [
                         16.16656,
@@ -408,7 +408,7 @@ export const czechrepublicEconomicV2: POI[] = [
             },
             {
                   "name": "zámek Dukovany",
-                  "text": "Ein historisches Schloss in Dukovany.",
+                  "text": "Das Schloss Dukovany in der Nähe des Kernkraftwerks Dukovany ist ein barockes Schloss im Ort Dukovany.",
                   "category": "castle",
                   "coords": [
                         16.194751,
@@ -417,7 +417,7 @@ export const czechrepublicEconomicV2: POI[] = [
             },
             {
                   "name": "galerie Čertův ocas",
-                  "text": "Eine Kunstgalerie und ein Museum in Dukovany.",
+                  "text": "Kunstgalerie Čertův ocas in der Nähe des Kernkraftwerks Dukovany.",
                   "category": "museum",
                   "coords": [
                         16.189269,
@@ -426,7 +426,7 @@ export const czechrepublicEconomicV2: POI[] = [
             },
             {
                   "name": "PR Dukovanský mlýn",
-                  "text": "Ein geschütztes Naturgebiet in der Nähe von Dukovany.",
+                  "text": "Ehemalige Mühle, heute Naturschutzgebiet nahe dem Kernkraftwerk Dukovany.",
                   "category": "natural",
                   "coords": [
                         16.179906,
@@ -435,7 +435,7 @@ export const czechrepublicEconomicV2: POI[] = [
             },
             {
                   "name": "Nanebevzetí Panny Marie",
-                  "text": "Eine religiöse Gebetsstätte in Dukovany.",
+                  "text": "Die Kapelle Mariä Himmelfahrt in der Nähe des Kernkraftwerks Dukovany ist eine Kapelle, die der Himmelfahrt Mariens geweiht ist.",
                   "category": "religious",
                   "coords": [
                         16.144064,
@@ -464,7 +464,7 @@ export const czechrepublicEconomicV2: POI[] = [
             },
             {
                   "name": "přírodní rezervace Dukovanský mlýn",
-                  "text": "Természetvédelmi terület Dukovany közelében.",
+                  "text": "A Dukovanský mlýn természetvédelmi terület, 1983-ban jelölték ki, egy öreg malom területét védi.",
                   "category": "natural",
                   "coords": [
                         16.176607,
@@ -473,7 +473,7 @@ export const czechrepublicEconomicV2: POI[] = [
             },
             {
                   "name": "přírodní rezervace U Jezera",
-                  "text": "Természetvédelmi terület Dukovany közelében.",
+                  "text": "Az U Jezera természetvédelmi terület 2015 óta védett, egy tó mellett fekszik.",
                   "category": "natural",
                   "coords": [
                         16.16656,
@@ -482,7 +482,7 @@ export const czechrepublicEconomicV2: POI[] = [
             },
             {
                   "name": "zámek Dukovany",
-                  "text": "Történelmi kastély Dukovany településen.",
+                  "text": "A Dukovanyi kastély a Dukovany Atomerőmű közelében egy barokk kastély Dukovany településen.",
                   "category": "castle",
                   "coords": [
                         16.194751,
@@ -491,7 +491,7 @@ export const czechrepublicEconomicV2: POI[] = [
             },
             {
                   "name": "galerie Čertův ocas",
-                  "text": "Művészeti galéria és múzeum Dukovanyban.",
+                  "text": "Čertův ocas művészeti galéria a Dukovanyi Atomerőmű közelében.",
                   "category": "museum",
                   "coords": [
                         16.189269,
@@ -500,7 +500,7 @@ export const czechrepublicEconomicV2: POI[] = [
             },
             {
                   "name": "PR Dukovanský mlýn",
-                  "text": "Védett természeti terület Dukovany közelében.",
+                  "text": "Egykori malom, ma természetvédelmi terület a dukovanyi atomerőmű közelében.",
                   "category": "natural",
                   "coords": [
                         16.179906,
@@ -509,7 +509,7 @@ export const czechrepublicEconomicV2: POI[] = [
             },
             {
                   "name": "Nanebevzetí Panny Marie",
-                  "text": "Vallási kegyhely Dukovanyban.",
+                  "text": "A Nagyboldogasszony kápolna a Dukovany Atomerőmű közelében egy kápolna, amely Mária mennybevételének van szentelve.",
                   "category": "religious",
                   "coords": [
                         16.144064,
@@ -538,7 +538,7 @@ export const czechrepublicEconomicV2: POI[] = [
             },
             {
                   "name": "přírodní rezervace Dukovanský mlýn",
-                  "text": "O rezervație naturală în apropiere de Dukovany.",
+                  "text": "Rezervația naturală Dukovanský mlýn, desemnată în 1983, protejează zona unei vechi mori.",
                   "category": "natural",
                   "coords": [
                         16.176607,
@@ -547,7 +547,7 @@ export const czechrepublicEconomicV2: POI[] = [
             },
             {
                   "name": "přírodní rezervace U Jezera",
-                  "text": "O rezervație naturală în apropiere de Dukovany.",
+                  "text": "Rezervația naturală U Jezera, protejată din 2015, este situată lângă un lac.",
                   "category": "natural",
                   "coords": [
                         16.16656,
@@ -556,7 +556,7 @@ export const czechrepublicEconomicV2: POI[] = [
             },
             {
                   "name": "zámek Dukovany",
-                  "text": "Un castel istoric situat în Dukovany.",
+                  "text": "Castelul Dukovany lângă Centrala Nucleară Dukovany este un castel baroc în satul Dukovany.",
                   "category": "castle",
                   "coords": [
                         16.194751,
@@ -565,7 +565,7 @@ export const czechrepublicEconomicV2: POI[] = [
             },
             {
                   "name": "galerie Čertův ocas",
-                  "text": "O galerie de artă și muzeu în Dukovany.",
+                  "text": "Galerie de artă Čertův ocas în apropierea Centralei Nucleare Dukovany.",
                   "category": "museum",
                   "coords": [
                         16.189269,
@@ -574,7 +574,7 @@ export const czechrepublicEconomicV2: POI[] = [
             },
             {
                   "name": "PR Dukovanský mlýn",
-                  "text": "O zonă naturală protejată în apropiere de Dukovany.",
+                  "text": "Fostă moară, acum rezervație naturală lângă centrala nucleară de la Dukovany.",
                   "category": "natural",
                   "coords": [
                         16.179906,
@@ -583,7 +583,7 @@ export const czechrepublicEconomicV2: POI[] = [
             },
             {
                   "name": "Nanebevzetí Panny Marie",
-                  "text": "Un lăcaș de cult în Dukovany.",
+                  "text": "Capela Adormirii Maicii Domnului lângă Centrala Nucleară Dukovany este o capelă dedicată Adormirii Maicii Domnului.",
                   "category": "religious",
                   "coords": [
                         16.144064,
@@ -612,7 +612,7 @@ export const czechrepublicEconomicV2: POI[] = [
             },
             {
                   "name": "přírodní rezervace Dukovanský mlýn",
-                  "text": "A nature reserve located near Dukovany.",
+                  "text": "The Dukovanský mlýn nature reserve, designated in 1983, protects the area of an old mill.",
                   "category": "natural",
                   "coords": [
                         16.176607,
@@ -621,7 +621,7 @@ export const czechrepublicEconomicV2: POI[] = [
             },
             {
                   "name": "přírodní rezervace U Jezera",
-                  "text": "A nature reserve located near Dukovany.",
+                  "text": "The U Jezera nature reserve, protected since 2015, is located by a lake.",
                   "category": "natural",
                   "coords": [
                         16.16656,
@@ -630,7 +630,7 @@ export const czechrepublicEconomicV2: POI[] = [
             },
             {
                   "name": "zámek Dukovany",
-                  "text": "A historic castle located in Dukovany.",
+                  "text": "Dukovany Chateau near the Dukovany Nuclear Power Plant is a Baroque chateau in the village of Dukovany.",
                   "category": "castle",
                   "coords": [
                         16.194751,
@@ -639,7 +639,7 @@ export const czechrepublicEconomicV2: POI[] = [
             },
             {
                   "name": "galerie Čertův ocas",
-                  "text": "An art gallery and museum located in Dukovany.",
+                  "text": "The Čertův ocas art gallery near the Dukovany Nuclear Power Plant.",
                   "category": "museum",
                   "coords": [
                         16.189269,
@@ -648,7 +648,7 @@ export const czechrepublicEconomicV2: POI[] = [
             },
             {
                   "name": "PR Dukovanský mlýn",
-                  "text": "A protected nature area located near Dukovany.",
+                  "text": "Former mill, now a nature reserve near the Dukovany Nuclear Plant.",
                   "category": "natural",
                   "coords": [
                         16.179906,
@@ -657,7 +657,7 @@ export const czechrepublicEconomicV2: POI[] = [
             },
             {
                   "name": "Nanebevzetí Panny Marie",
-                  "text": "A place of worship located in Dukovany.",
+                  "text": "The Chapel of the Assumption of the Virgin Mary near the Dukovany Nuclear Power Plant is a chapel dedicated to Mary's Assumption.",
                   "category": "religious",
                   "coords": [
                         16.144064,

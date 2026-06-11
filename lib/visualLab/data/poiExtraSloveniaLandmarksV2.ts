@@ -421,7 +421,7 @@ imageHint: "Ljubljana Town Hall building at Mestni trg",
       "de": [
             {
                   "name": "Breg",
-                  "text": "Strand bei Burg Žužemberk.",
+                  "text": "Flussbadestelle an der Krka unterhalb der Burg Žužemberk.",
                   "category": "recreational",
                   "coords": [
                         14.931793,
@@ -457,7 +457,7 @@ imageHint: "Ljubljana Town Hall building at Mestni trg",
             },
             {
                   "name": "Cerkev Svete Katarine",
-                  "text": "Die malerischen Ruinen einer alten Kirche in der Nähe von Žužemberk.",
+                  "text": "Kirche der Heiligen Katharina aus dem 17. Jahrhundert nahe der Burg Žužemberk.",
                   "category": "historical",
                   "coords": [
                         14.882513,
@@ -475,7 +475,7 @@ imageHint: "Ljubljana Town Hall building at Mestni trg",
             },
             {
                   "name": "Cerkev sv. Martina",
-                  "text": "Ein religiöses Bauwerk in der Gemeinde Žužemberk.",
+                  "text": "Martinskapelle innerhalb der Mauern der Burg Žužemberk.",
                   "category": "religious",
                   "coords": [
                         14.920126,
@@ -486,7 +486,7 @@ imageHint: "Ljubljana Town Hall building at Mestni trg",
       "hu": [
             {
                   "name": "Breg",
-                  "text": "Strand a Žužemberki vár közelében.",
+                  "text": "Folyami fürdőhely a Krka partján, a žužemberki vár alatt.",
                   "category": "recreational",
                   "coords": [
                         14.931793,
@@ -522,7 +522,7 @@ imageHint: "Ljubljana Town Hall building at Mestni trg",
             },
             {
                   "name": "Cerkev Svete Katarine",
-                  "text": "Egy régi templom festői romjai Žužemberk közelében.",
+                  "text": "Szent Katalin templom a 17. századból, a žužemberki vár közelében.",
                   "category": "historical",
                   "coords": [
                         14.882513,
@@ -540,7 +540,7 @@ imageHint: "Ljubljana Town Hall building at Mestni trg",
             },
             {
                   "name": "Cerkev sv. Martina",
-                  "text": "Egyházi épület Žužemberk községben.",
+                  "text": "Szent Márton-kápolna a Žužemberk vár falain belül.",
                   "category": "religious",
                   "coords": [
                         14.920126,
@@ -551,7 +551,7 @@ imageHint: "Ljubljana Town Hall building at Mestni trg",
       "ro": [
             {
                   "name": "Breg",
-                  "text": "Plajă lângă Castelul Žužemberk.",
+                  "text": "Loc de scăldat pe râul Krka, sub castelul Žužemberk.",
                   "category": "recreational",
                   "coords": [
                         14.931793,
@@ -587,7 +587,7 @@ imageHint: "Ljubljana Town Hall building at Mestni trg",
             },
             {
                   "name": "Cerkev Svete Katarine",
-                  "text": "Ruinele pitorești ale unei vechi biserici din apropiere de Žužemberk.",
+                  "text": "Biserica Sfânta Ecaterina din secolul al XVII-lea lângă castelul Žužemberk.",
                   "category": "historical",
                   "coords": [
                         14.882513,
@@ -605,7 +605,7 @@ imageHint: "Ljubljana Town Hall building at Mestni trg",
             },
             {
                   "name": "Cerkev sv. Martina",
-                  "text": "O structură religioasă din comuna Žužemberk.",
+                  "text": "Capela Sfântul Martin în interiorul zidurilor castelului Žužemberk.",
                   "category": "religious",
                   "coords": [
                         14.920126,
@@ -616,7 +616,7 @@ imageHint: "Ljubljana Town Hall building at Mestni trg",
       "en": [
             {
                   "name": "Breg",
-                  "text": "Beach near Žužemberk Castle.",
+                  "text": "River swimming spot on the Krka River below Žužemberk Castle.",
                   "category": "recreational",
                   "coords": [
                         14.931793,
@@ -652,7 +652,7 @@ imageHint: "Ljubljana Town Hall building at Mestni trg",
             },
             {
                   "name": "Cerkev Svete Katarine",
-                  "text": "The picturesque ruins of an old church near Žužemberk.",
+                  "text": "17th-century Church of St. Catherine near Žužemberk Castle.",
                   "category": "historical",
                   "coords": [
                         14.882513,
@@ -670,7 +670,7 @@ imageHint: "Ljubljana Town Hall building at Mestni trg",
             },
             {
                   "name": "Cerkev sv. Martina",
-                  "text": "A religious building located in the Žužemberk municipality.",
+                  "text": "Chapel of St. Martin within the walls of Žužemberk Castle.",
                   "category": "religious",
                   "coords": [
                         14.920126,
@@ -1449,7 +1449,7 @@ imageHint: "Praetorian Palace Koper Venetian Gothic architecture",
       "de": [
             {
                   "name": "Mestno kopališče / Spiaggia cittadina",
-                  "text": "Das zentrale städtische Strandbad in Koper.",
+                  "text": "Städtisches Strandbad direkt neben der Kathedrale von Koper.",
                   "category": "recreational",
                   "coords": [
                         13.725772,
@@ -1469,7 +1469,7 @@ imageHint: "Praetorian Palace Koper Venetian Gothic architecture",
       "hu": [
             {
                   "name": "Mestno kopališče / Spiaggia cittadina",
-                  "text": "Koper központi városi strandüdülője.",
+                  "text": "Városi strand közvetlenül a koperszki székesegyház mellett.",
                   "category": "recreational",
                   "coords": [
                         13.725772,
@@ -1489,7 +1489,7 @@ imageHint: "Praetorian Palace Koper Venetian Gothic architecture",
       "ro": [
             {
                   "name": "Mestno kopališče / Spiaggia cittadina",
-                  "text": "Stațiunea balneară centrală a orașului, situată în Koper.",
+                  "text": "Plajă municipală chiar lângă catedrala din Koper.",
                   "category": "recreational",
                   "coords": [
                         13.725772,
@@ -1509,7 +1509,7 @@ imageHint: "Praetorian Palace Koper Venetian Gothic architecture",
       "en": [
             {
                   "name": "Mestno kopališče / Spiaggia cittadina",
-                  "text": "The central city beach resort located in Koper.",
+                  "text": "Municipal beach right next to Koper Cathedral.",
                   "category": "recreational",
                   "coords": [
                         13.725772,

@@ -7,7 +7,7 @@ export const czechrepublicReliefV2: POI[] = [
       "de": [
             {
                   "name": "Domek Laboranta",
-                  "text": "Ein Museum am Fuße der Schneekoppe.",
+                  "text": "Museum im ehemaligen Laborantenhaus auf der Schneekoppe (Sněžka).",
                   "category": "museum",
                   "coords": [
                         15.755303,
@@ -16,7 +16,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Silberkamm",
-                  "text": "Ein Gipfel im Riesengebirge bei der Schneekoppe.",
+                  "text": "Silberfarbener Hügel Stříbrné návrší im Riesengebirge nahe der Schneekoppe.",
                   "category": "landmark",
                   "coords": [
                         15.689657,
@@ -34,7 +34,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Rosenberg",
-                  "text": "Ein Berg im Riesengebirge nahe der Schneekoppe.",
+                  "text": "Rosafarbener Berg Růžová hora im Riesengebirge nahe der Schneekoppe.",
                   "category": "landmark",
                   "coords": [
                         15.738944,
@@ -43,7 +43,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Baum Berg",
-                  "text": "Ein Berggipfel im Riesengebirge.",
+                  "text": "Bewaldeter Berg Lesní hora im Riesengebirge nahe der Schneekoppe.",
                   "category": "landmark",
                   "coords": [
                         15.712052,
@@ -52,7 +52,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Löwen Berg",
-                  "text": "Ein Berg im tschechischen Riesengebirge.",
+                  "text": "Berg Jelení hora (Hirschberg) im Riesengebirge nahe der Schneekoppe.",
                   "category": "landmark",
                   "coords": [
                         15.780842,
@@ -70,7 +70,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Türkenhübel",
-                  "text": "Ein Berggipfel im Riesengebirge.",
+                  "text": "Felsgipfel Turek im Riesengebirge nahe der Schneekoppe.",
                   "category": "landmark",
                   "coords": [
                         15.716052,
@@ -81,7 +81,7 @@ export const czechrepublicReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Domek Laboranta",
-                  "text": "Múzeum a Sněžka lábánál.",
+                  "text": "Múzeum egykori laboránsházban a Sněžkán.",
                   "category": "museum",
                   "coords": [
                         15.755303,
@@ -90,7 +90,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Stříbrné návrší",
-                  "text": "Egy hegycsúcs az Óriás-hegységben, a Sněžka közelében.",
+                  "text": "Stříbrné návrši ezüstszínű domb az Óriás-hegységben a Sněžka közelében.",
                   "category": "landmark",
                   "coords": [
                         15.689657,
@@ -108,7 +108,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Růžová hora",
-                  "text": "Hegy az Óriás-hegységben, a Sněžka közelében.",
+                  "text": "Růžová hora rózsaszín hegy az Óriás-hegységben a Sněžka közelében.",
                   "category": "landmark",
                   "coords": [
                         15.738944,
@@ -117,7 +117,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Lesní hora",
-                  "text": "Hegycsúcs az Óriás-hegységben.",
+                  "text": "Lesní hora erdős hegy az Óriás-hegységben a Sněžka közelében.",
                   "category": "landmark",
                   "coords": [
                         15.712052,
@@ -126,7 +126,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Jelení hora",
-                  "text": "Hegy a cseh Óriás-hegységben.",
+                  "text": "Jelení hora (Szarvas-hegy) az Óriás-hegységben a Sněžka közelében.",
                   "category": "landmark",
                   "coords": [
                         15.780842,
@@ -144,7 +144,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Turek",
-                  "text": "Hegycsúcs az Óriás-hegységben.",
+                  "text": "Turek sziklás csúcs az Óriás-hegységben a Sněžka közelében.",
                   "category": "landmark",
                   "coords": [
                         15.716052,
@@ -155,7 +155,7 @@ export const czechrepublicReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Domek Laboranta",
-                  "text": "Un muzeu la poalele muntelui Sněžka.",
+                  "text": "Muzeu în fosta casă a laborantului pe Muntele Sněžka.",
                   "category": "museum",
                   "coords": [
                         15.755303,
@@ -164,7 +164,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Stříbrné návrší",
-                  "text": "Un vârf din Munții Karkonosze, lângă Sněžka.",
+                  "text": "Dealul argintiu Stříbrné návrší în Munții Giganți lângă Sněžka.",
                   "category": "landmark",
                   "coords": [
                         15.689657,
@@ -182,7 +182,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Růžová hora",
-                  "text": "Un munte în Munții Karkonosze, lângă Sněžka.",
+                  "text": "Muntele trandafiriu Růžová hora în Munții Giganți lângă Sněžka.",
                   "category": "landmark",
                   "coords": [
                         15.738944,
@@ -191,7 +191,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Lesní hora",
-                  "text": "Un vârf montan în Munții Karkonosze.",
+                  "text": "Muntele împădurit Lesní hora în Munții Giganți lângă Sněžka.",
                   "category": "landmark",
                   "coords": [
                         15.712052,
@@ -200,7 +200,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Jelení hora",
-                  "text": "Un munte în Munții Karkonosze din Cehia.",
+                  "text": "Muntele Jelení hora (Muntele Cerbului) în Munții Giganți lângă Sněžka.",
                   "category": "landmark",
                   "coords": [
                         15.780842,
@@ -218,7 +218,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Turek",
-                  "text": "Un vârf montan în Munții Karkonosze.",
+                  "text": "Vârful stâncos Turek în Munții Giganți lângă Sněžka.",
                   "category": "landmark",
                   "coords": [
                         15.716052,
@@ -229,7 +229,7 @@ export const czechrepublicReliefV2: POI[] = [
       "en": [
             {
                   "name": "Domek Laboranta",
-                  "text": "A museum located at the foot of Sněžka.",
+                  "text": "Museum in the former laboratory assistant's house on Sněžka Mountain.",
                   "category": "museum",
                   "coords": [
                         15.755303,
@@ -238,7 +238,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Stříbrné návrší",
-                  "text": "A mountain peak in the Giant Mountains near Sněžka.",
+                  "text": "Silver-coloured hill Stříbrné návrší in the Giant Mountains near Sněžka.",
                   "category": "landmark",
                   "coords": [
                         15.689657,
@@ -256,7 +256,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Růžová hora",
-                  "text": "A mountain in the Giant Mountains near Sněžka.",
+                  "text": "Pink-hued mountain Růžová hora in the Giant Mountains near Sněžka.",
                   "category": "landmark",
                   "coords": [
                         15.738944,
@@ -265,7 +265,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Lesní hora",
-                  "text": "A mountain peak in the Giant Mountains.",
+                  "text": "Forested mountain Lesní hora in the Giant Mountains near Sněžka.",
                   "category": "landmark",
                   "coords": [
                         15.712052,
@@ -274,7 +274,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Jelení hora",
-                  "text": "A mountain in the Czech Giant Mountains.",
+                  "text": "Deer Mountain Jelení hora in the Giant Mountains near Sněžka.",
                   "category": "landmark",
                   "coords": [
                         15.780842,
@@ -292,7 +292,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Turek",
-                  "text": "A mountain peak in the Giant Mountains.",
+                  "text": "Rocky peak Turek in the Giant Mountains near Sněžka.",
                   "category": "landmark",
                   "coords": [
                         15.716052,
@@ -351,7 +351,7 @@ export const czechrepublicReliefV2: POI[] = [
       "de": [
             {
                   "name": "Nationales Naturreservat Altvater",
-                  "text": "Ein großes Naturschutzgebiet im Altvatergebirge.",
+                  "text": "Das Nationale Naturreservat Praděd, seit 1955 geschützt, umfasst den höchsten Teil des Altvatergebirges.",
                   "category": "natural",
                   "coords": [
                         17.228628,
@@ -425,7 +425,7 @@ export const czechrepublicReliefV2: POI[] = [
       "hu": [
             {
                   "name": "NPR Praděd",
-                  "text": "Kiterjedt természetvédelmi terület a Jeseníky-hegységben.",
+                  "text": "A Praděd Nemzeti Természeti Rezervátum 1955 óta védett, a Jeszeniki-hegység legmagasabb részét foglalja magában.",
                   "category": "natural",
                   "coords": [
                         17.228628,
@@ -499,7 +499,7 @@ export const czechrepublicReliefV2: POI[] = [
       "ro": [
             {
                   "name": "NPR Praděd",
-                  "text": "O rezervație naturală vastă în munții Jeseníky.",
+                  "text": "Rezervația Naturală Națională Praděd, protejată din 1955, cuprinde cea mai înaltă parte a Munților Jeseníky.",
                   "category": "natural",
                   "coords": [
                         17.228628,
@@ -573,7 +573,7 @@ export const czechrepublicReliefV2: POI[] = [
       "en": [
             {
                   "name": "NPR Praděd",
-                  "text": "A large nature reserve in the Jeseníky Mountains.",
+                  "text": "The Praděd National Nature Reserve, protected since 1955, covers the highest part of the Jeseníky Mountains.",
                   "category": "natural",
                   "coords": [
                         17.228628,
@@ -1059,7 +1059,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Milešov",
-                  "text": "Ein Barockschloss im Dorf Milešov.",
+                  "text": "Barockschloss Milešov am Fuß des Milešovka-Berges.",
                   "category": "castle",
                   "coords": [
                         13.936188,
@@ -1077,7 +1077,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Kostenblatt",
-                  "text": "Ruinen einer gotischen Burg aus dem 14. Jahrhundert bei Milešovka.",
+                  "text": "Gotische Burgruine Kostomlaty pod Milešovkou auf einem Hügel bei Milešovka.",
                   "category": "castle",
                   "coords": [
                         13.879397,
@@ -1086,7 +1086,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Kletschen",
-                  "text": "Der zweithöchste Gipfel des Böhmischen Mittelgebirges.",
+                  "text": "Kegelförmiger Hügel Kletečná im Böhmischen Mittelgebirge (České středohoří).",
                   "category": "landmark",
                   "coords": [
                         13.972907,
@@ -1095,7 +1095,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Klotzberg",
-                  "text": "Ein Berggipfel in der Region Milešovka.",
+                  "text": "Der Kloč in der Nähe des Milesovka-Berges ist eine Felsformation oder ein Gipfel.",
                   "category": "landmark",
                   "coords": [
                         13.87821,
@@ -1104,7 +1104,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Lhottaberg",
-                  "text": "Gipfel eines Berges im Gebiet von Milešovka.",
+                  "text": "Die Lhota in der Nähe des Milesovka-Berges ist eine Siedlung oder ein Flurname.",
                   "category": "landmark",
                   "coords": [
                         13.935778,
@@ -1124,7 +1124,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Milešov",
-                  "text": "Barokk kastély Milešov falujában.",
+                  "text": "Milešov barokk kastély a Milešovka-hegy lábánál.",
                   "category": "castle",
                   "coords": [
                         13.936188,
@@ -1142,7 +1142,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Kostomlaty",
-                  "text": "Egy 14. századi gótikus vár romjai Milešovka közelében.",
+                  "text": "Kostomlaty pod Milešovkou gótikus várrom egy dombon Milešovka mellett.",
                   "category": "castle",
                   "coords": [
                         13.879397,
@@ -1151,7 +1151,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Kletečná",
-                  "text": "A Cseh-középhegység második legmagasabb csúcsa.",
+                  "text": "Kletečná kúp alakú domb a Cseh-középhegységben (České středohoří).",
                   "category": "landmark",
                   "coords": [
                         13.972907,
@@ -1160,7 +1160,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Kloč",
-                  "text": "Hegycsúcs a Milešovka környékén.",
+                  "text": "A Kloč a Milesovka-hegy közelében egy sziklaképződmény vagy csúcs.",
                   "category": "landmark",
                   "coords": [
                         13.87821,
@@ -1169,7 +1169,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Lhota",
-                  "text": "Hegycsúcs a Milešovka területén.",
+                  "text": "A Lhota a Milesovka-hegy közelében egy település vagy helynév.",
                   "category": "landmark",
                   "coords": [
                         13.935778,
@@ -1189,7 +1189,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Milešov",
-                  "text": "Castel baroc situat în satul Milešov.",
+                  "text": "Castelul baroc Milešov la poalele dealului Milešovka.",
                   "category": "castle",
                   "coords": [
                         13.936188,
@@ -1207,7 +1207,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Kostomlaty",
-                  "text": "Ruinele unui castel gotic din secolul al XIV-lea lângă Milešovka.",
+                  "text": "Ruina castelului gotic Kostomlaty pod Milešovkou pe un deal lângă Milešovka.",
                   "category": "castle",
                   "coords": [
                         13.879397,
@@ -1216,7 +1216,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Kletečná",
-                  "text": "Al doilea cel mai înalt vârf din munții České středohoří.",
+                  "text": "Dealul conic Kletečná în Munții Mittelgebirge Ceh (České středohoří).",
                   "category": "landmark",
                   "coords": [
                         13.972907,
@@ -1225,7 +1225,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Kloč",
-                  "text": "Vârf muntos situat în regiunea Milesovka.",
+                  "text": "Kloč lângă Muntele Milesovka este o formațiune stâncoasă sau un vârf.",
                   "category": "landmark",
                   "coords": [
                         13.87821,
@@ -1234,7 +1234,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Lhota",
-                  "text": "Vârf de munte în zona Milesovka.",
+                  "text": "Lhota lângă Muntele Milesovka este o așezare sau un toponim.",
                   "category": "landmark",
                   "coords": [
                         13.935778,
@@ -1254,7 +1254,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Milešov",
-                  "text": "Baroque chateau located in the village of Milešov.",
+                  "text": "Baroque chateau Milešov at the foot of Milešovka hill.",
                   "category": "castle",
                   "coords": [
                         13.936188,
@@ -1272,7 +1272,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Kostomlaty",
-                  "text": "Ruins of a 14th-century Gothic castle near Milešovka.",
+                  "text": "Gothic castle ruin Kostomlaty pod Milešovkou on a hill near Milešovka.",
                   "category": "castle",
                   "coords": [
                         13.879397,
@@ -1281,7 +1281,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Kletečná",
-                  "text": "Second highest peak of the České středohoří mountains.",
+                  "text": "Conical hill Kletečná in the České středohoří (Bohemian Central Uplands).",
                   "category": "landmark",
                   "coords": [
                         13.972907,
@@ -1290,7 +1290,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Kloč",
-                  "text": "Peak located in the Milesovka region.",
+                  "text": "Kloč near Mount Milesovka is a rock formation or peak.",
                   "category": "landmark",
                   "coords": [
                         13.87821,
@@ -1299,7 +1299,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Lhota",
-                  "text": "Mountain peak in the Milesovka area.",
+                  "text": "Lhota near Mount Milesovka is a settlement or a place name.",
                   "category": "landmark",
                   "coords": [
                         13.935778,
@@ -2408,7 +2408,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "PR Luž",
-                  "text": "Ein geschütztes Naturgebiet rund um den Gipfel der Lausche.",
+                  "text": "Das Naturreservat PR Luž bei Luž, eingerichtet 2011.",
                   "category": "natural",
                   "coords": [
                         14.646081,
@@ -2426,7 +2426,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Gebirgsbad",
-                  "text": "Ein in den Bergen gelegenes Schwimmbad mit Blick auf die Landschaft.",
+                  "text": "Bergfreibad in Luz.",
                   "category": "recreational",
                   "coords": [
                         14.705587,
@@ -2500,7 +2500,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "PR Luž",
-                  "text": "Természetvédelmi terület a Lausche-csúcs környékén.",
+                  "text": "A PR Luž természetvédelmi terület Luž mellett, 2011-ben létesítve.",
                   "category": "natural",
                   "coords": [
                         14.646081,
@@ -2518,7 +2518,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Gebirgsbad",
-                  "text": "Hegyvidéki úszómedence, amely kilátást nyújt a tájra.",
+                  "text": "Hegyi szabadtéri uszoda Luzban.",
                   "category": "recreational",
                   "coords": [
                         14.705587,
@@ -2592,7 +2592,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "PR Luž",
-                  "text": "O zonă naturală protejată în jurul vârfului Lausche.",
+                  "text": "Rezervația naturală PR Luž lângă Luž, înființată în 2011.",
                   "category": "natural",
                   "coords": [
                         14.646081,
@@ -2610,7 +2610,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Gebirgsbad",
-                  "text": "O piscină situată la munte, oferind vedere spre peisaj.",
+                  "text": "Piscină montană în Luz.",
                   "category": "recreational",
                   "coords": [
                         14.705587,
@@ -2684,7 +2684,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "PR Luž",
-                  "text": "A protected natural area around the Luž peak.",
+                  "text": "PR Luž nature reserve near Luž, established in 2011.",
                   "category": "natural",
                   "coords": [
                         14.646081,
@@ -2702,7 +2702,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Mountain Swimming Pool",
-                  "text": "A swimming pool located in the mountains, offering views of the landscape.",
+                  "text": "Mountain swimming pool in Luz.",
                   "category": "recreational",
                   "coords": [
                         14.705587,
@@ -5312,7 +5312,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Čížkovice",
-                  "text": "Ein Barockschloss in der Gemeinde Čížkovice.",
+                  "text": "Barockschloss Čížkovice im Böhmischen Mittelgebirge.",
                   "category": "castle",
                   "coords": [
                         14.026766,
@@ -5368,7 +5368,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Čížkovice",
-                  "text": "Barokk kastély Čížkovice faluban.",
+                  "text": "Čížkovice barokk kastély a Cseh-középhegységben.",
                   "category": "castle",
                   "coords": [
                         14.026766,
@@ -5424,7 +5424,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Čížkovice",
-                  "text": "Un castel baroc situat în satul Čížkovice.",
+                  "text": "Castelul baroc Čížkovice în Munții Mittelgebirge Ceh.",
                   "category": "castle",
                   "coords": [
                         14.026766,
@@ -5480,7 +5480,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Čížkovice",
-                  "text": "A Baroque castle located in the village of Čížkovice.",
+                  "text": "Baroque chateau Čížkovice in the České středohoří.",
                   "category": "castle",
                   "coords": [
                         14.026766,
@@ -5619,7 +5619,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Koupaliště Radim",
-                  "text": "Ein öffentliches Schwimmbad in der Region der Elbeniederung.",
+                  "text": "Freibad Radim in der Region Polabí.",
                   "category": "recreational",
                   "coords": [
                         15.006625,
@@ -5684,7 +5684,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Koupaliště Radim",
-                  "text": "Nyilvános úszómedence az Elba-alföld régiójában.",
+                  "text": "Radim szabadtéri fürdő a Polabí régióban.",
                   "category": "recreational",
                   "coords": [
                         15.006625,
@@ -5749,7 +5749,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Koupaliště Radim",
-                  "text": "O piscină publică în regiunea câmpiei Elbei.",
+                  "text": "Piscina Radim în regiunea Polabí.",
                   "category": "recreational",
                   "coords": [
                         15.006625,
@@ -5814,7 +5814,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Koupaliště Radim",
-                  "text": "A public swimming pool in the Elbe Lowlands region.",
+                  "text": "Radim swimming pool in the Polabí region.",
                   "category": "recreational",
                   "coords": [
                         15.006625,
@@ -5883,7 +5883,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "PR Kleť",
-                  "text": "Ein geschütztes Waldgebiet an den Hängen des Berges Kleť.",
+                  "text": "Das Naturschutzgebiet Kleť, ausgewiesen 1956, schützt den Berg Kleť mit seinem Aussichtsturm.",
                   "category": "natural",
                   "coords": [
                         14.276771,
@@ -5948,7 +5948,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "PR Kleť",
-                  "text": "Védett erdőterület a Kleť-hegy lejtőin.",
+                  "text": "A Kleť természetvédelmi terület, 1956-ban jelölték ki, a Kleť-hegyet védi kilátótornyával.",
                   "category": "natural",
                   "coords": [
                         14.276771,
@@ -6013,7 +6013,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "PR Kleť",
-                  "text": "O zonă forestieră protejată pe pantele muntelui Kleť.",
+                  "text": "Rezervația naturală Kleť, desemnată în 1956, protejează muntele Kleț cu turnul său de observație.",
                   "category": "natural",
                   "coords": [
                         14.276771,
@@ -6078,7 +6078,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "PR Kleť",
-                  "text": "A protected forest area on the slopes of Mount Kleť.",
+                  "text": "The Kleť nature reserve, designated in 1956, protects Mount Kleť with its lookout tower.",
                   "category": "natural",
                   "coords": [
                         14.276771,
@@ -7987,7 +7987,7 @@ export const czechrepublicReliefV2: POI[] = [
       "de": [
             {
                   "name": "zámek Třeboň",
-                  "text": "Schloss Třeboň ist ein bedeutender Renaissance-Komplex im Wittingauer Becken.",
+                  "text": "Das Schloss Třeboň im Třeboň-Becken ist ein Renaissanceschloss in der Stadt Třeboň.",
                   "category": "castle",
                   "coords": [
                         14.76944,
@@ -8032,7 +8032,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Ostende",
-                  "text": "Ein Schwimmbad im Třeboň-Becken.",
+                  "text": "Badestrand Ostende im Třeboň-Becken.",
                   "category": "recreational",
                   "coords": [
                         14.757983,
@@ -8043,7 +8043,7 @@ export const czechrepublicReliefV2: POI[] = [
       "hu": [
             {
                   "name": "zámek Třeboň",
-                  "text": "A třeboňi kastély egy jelentős reneszánsz épületegyüttes a Třeboň-medencében.",
+                  "text": "A Třeboňi kastély a Třeboň-medencében egy reneszánsz kastély Třeboň városában.",
                   "category": "castle",
                   "coords": [
                         14.76944,
@@ -8088,7 +8088,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Ostende",
-                  "text": "Egy úszómedence a Třeboňi-medencében.",
+                  "text": "Ostende strand a treboni medencében.",
                   "category": "recreational",
                   "coords": [
                         14.757983,
@@ -8099,7 +8099,7 @@ export const czechrepublicReliefV2: POI[] = [
       "ro": [
             {
                   "name": "zámek Třeboň",
-                  "text": "Castelul Třeboň este un complex renascentist semnificativ din bazinul Třeboň.",
+                  "text": "Castelul Třeboň din Bazinul Třeboň este un castel renascentist în orașul Třeboň.",
                   "category": "castle",
                   "coords": [
                         14.76944,
@@ -8144,7 +8144,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Ostende",
-                  "text": "O piscină situată în Bazinul Třeboň.",
+                  "text": "Plaja Ostende în Bazinul Třeboň.",
                   "category": "recreational",
                   "coords": [
                         14.757983,
@@ -8155,7 +8155,7 @@ export const czechrepublicReliefV2: POI[] = [
       "en": [
             {
                   "name": "zámek Třeboň",
-                  "text": "Třeboň Castle is a significant Renaissance complex in the Třeboň Basin.",
+                  "text": "Třeboň Castle in the Třeboň Basin is a Renaissance chateau in the town of Třeboň.",
                   "category": "castle",
                   "coords": [
                         14.76944,
@@ -8200,7 +8200,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Ostende",
-                  "text": "A swimming pool located in the Třeboň Basin.",
+                  "text": "Ostende beach in the Třeboň Basin.",
                   "category": "recreational",
                   "coords": [
                         14.757983,
@@ -8255,7 +8255,7 @@ export const czechrepublicReliefV2: POI[] = [
       "de": [
             {
                   "name": "zámek Bruntál",
-                  "text": "Ein prächtiges Renaissance- und Barockschloss in Bruntál.",
+                  "text": "Renaissanceschloss Bruntál, heute Museum im Niederen Gesenke.",
                   "category": "castle",
                   "coords": [
                         17.464657,
@@ -8282,7 +8282,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Aquapark wellness Bruntál",
-                  "text": "Ein moderner Wasserpark und wellnesszentrum in Bruntál.",
+                  "text": "Aquapark & Wellness in Bruntál im Niederen Gesenke.",
                   "category": "recreational",
                   "coords": [
                         17.463068,
@@ -8293,7 +8293,7 @@ export const czechrepublicReliefV2: POI[] = [
       "hu": [
             {
                   "name": "zámek Bruntál",
-                  "text": "Pompás reneszánsz és barokk kastély Bruntál városában.",
+                  "text": "Bruntál reneszánsz kastély, ma múzeum az Alacsony-Jeszenikben.",
                   "category": "castle",
                   "coords": [
                         17.464657,
@@ -8320,7 +8320,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Aquapark wellness Bruntál",
-                  "text": "Modern élményfürdő és wellnessközpont Bruntálban.",
+                  "text": "Aquapark és wellness Bruntálban az Alacsony Jeszenikben.",
                   "category": "recreational",
                   "coords": [
                         17.463068,
@@ -8331,7 +8331,7 @@ export const czechrepublicReliefV2: POI[] = [
       "ro": [
             {
                   "name": "zámek Bruntál",
-                  "text": "Un castel splendid în stil renascentist și baroc în Bruntál.",
+                  "text": "Castelul renascentist Bruntál, acum muzeu în Munții Low Jesenik.",
                   "category": "castle",
                   "coords": [
                         17.464657,
@@ -8358,7 +8358,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Aquapark wellness Bruntál",
-                  "text": "Un parc acvatic modern și centru de wellness în Bruntál.",
+                  "text": "Aquaparc și wellness în Bruntál, în Munții Jeseník de Jos.",
                   "category": "recreational",
                   "coords": [
                         17.463068,
@@ -8369,7 +8369,7 @@ export const czechrepublicReliefV2: POI[] = [
       "en": [
             {
                   "name": "zámek Bruntál",
-                  "text": "A magnificent Renaissance and Baroque castle in Bruntál.",
+                  "text": "Renaissance chateau Bruntál, now a museum in the Low Jeseník mountains.",
                   "category": "castle",
                   "coords": [
                         17.464657,
@@ -8396,7 +8396,7 @@ export const czechrepublicReliefV2: POI[] = [
             },
             {
                   "name": "Aquapark wellness Bruntál",
-                  "text": "A modern water park and wellness centre in Bruntál.",
+                  "text": "Aquapark and wellness center in Bruntál in the Low Jeseník Mountains.",
                   "category": "recreational",
                   "coords": [
                         17.463068,

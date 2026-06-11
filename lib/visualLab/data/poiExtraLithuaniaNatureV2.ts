@@ -434,7 +434,7 @@ imageHint: "Deep blue water of Lake Tauragnas in the forest",
             },
             {
                   "name": "Gaižiūnų piliakalnis",
-                  "text": "Ein historischer Burghügel in der Nähe des Asveja-Sees.",
+                  "text": "Burgberg Gaižiūnai am See Asveja.",
                   "category": "historical",
                   "coords": [
                         25.547056,
@@ -499,7 +499,7 @@ imageHint: "Deep blue water of Lake Tauragnas in the forest",
             },
             {
                   "name": "Gaižiūnų piliakalnis",
-                  "text": "Történelmi várhely az Asveja-tó közelében.",
+                  "text": "Gaižiūnai földvár az Asveja-tó mellett.",
                   "category": "historical",
                   "coords": [
                         25.547056,
@@ -564,7 +564,7 @@ imageHint: "Deep blue water of Lake Tauragnas in the forest",
             },
             {
                   "name": "Gaižiūnų piliakalnis",
-                  "text": "O fostă fortificație istorică situată lângă lacul Asveja.",
+                  "text": "Movila fortificată Gaižiūnai lângă Lacul Asveja.",
                   "category": "historical",
                   "coords": [
                         25.547056,
@@ -629,7 +629,7 @@ imageHint: "Deep blue water of Lake Tauragnas in the forest",
             },
             {
                   "name": "Gaižiūnų piliakalnis",
-                  "text": "A historic hillfort site located near Lake Asveja.",
+                  "text": "Gaižiūnai hillfort near Lake Asveja.",
                   "category": "historical",
                   "coords": [
                         25.547056,
@@ -723,7 +723,7 @@ imageHint: "The wooden Dubingiai bridge over Lake Asveja",
       "de": [
             {
                   "name": "Nidos nudistų paplūdimys",
-                  "text": "Ein offizieller FKK-Strand an der Ostsee in der Nähe von Nida.",
+                  "text": "Ein ausgewiesener FKK-Strand auf der Kurischen Nehrung bei Nida.",
                   "category": "recreational",
                   "coords": [
                         20.970718,
@@ -768,7 +768,7 @@ imageHint: "The wooden Dubingiai bridge over Lake Asveja",
             },
             {
                   "name": "Nidos moterų paplūdymys",
-                  "text": "Ein ausgewiesener Strandabschnitt für Frauen in Nida.",
+                  "text": "Frauenstrand in Nida am Fuß der Parnidis-Düne.",
                   "category": "recreational",
                   "coords": [
                         20.973481,
@@ -797,7 +797,7 @@ imageHint: "The wooden Dubingiai bridge over Lake Asveja",
       "hu": [
             {
                   "name": "Nidos nudistų paplūdimys",
-                  "text": "Hivatalos nudista strand a Balti-tenger partján, Nida közelében.",
+                  "text": "Kijelölt nudista strand a Kurzus-félszigeten Nida közelében.",
                   "category": "recreational",
                   "coords": [
                         20.970718,
@@ -842,7 +842,7 @@ imageHint: "The wooden Dubingiai bridge over Lake Asveja",
             },
             {
                   "name": "Nidos moterų paplūdymys",
-                  "text": "Nők számára fenntartott tengerparti szakasz Nidában.",
+                  "text": "Női strand Nidában, a Parnidis-dűne lábánál.",
                   "category": "recreational",
                   "coords": [
                         20.973481,
@@ -871,7 +871,7 @@ imageHint: "The wooden Dubingiai bridge over Lake Asveja",
       "ro": [
             {
                   "name": "Nidos nudistų paplūdimys",
-                  "text": "O plajă oficială de nudism la Marea Baltică, lângă Nida.",
+                  "text": "O plajă nudistă desemnată pe Spitul Curonian lângă Nida.",
                   "category": "recreational",
                   "coords": [
                         20.970718,
@@ -916,7 +916,7 @@ imageHint: "The wooden Dubingiai bridge over Lake Asveja",
             },
             {
                   "name": "Nidos moterų paplūdymys",
-                  "text": "O secțiune de plajă rezervată femeilor în Nida.",
+                  "text": "Plajă pentru femei în Nida, la baza Dunei Parnidis.",
                   "category": "recreational",
                   "coords": [
                         20.973481,
@@ -945,7 +945,7 @@ imageHint: "The wooden Dubingiai bridge over Lake Asveja",
       "en": [
             {
                   "name": "Nida nudist beach",
-                  "text": "An official nudist beach on the Baltic coast near Nida.",
+                  "text": "A designated nudist beach on the Curonian Spit near Nida.",
                   "category": "recreational",
                   "coords": [
                         20.970718,
@@ -990,7 +990,7 @@ imageHint: "The wooden Dubingiai bridge over Lake Asveja",
             },
             {
                   "name": "Nida Womens Beach",
-                  "text": "A designated beach area for women in Nida.",
+                  "text": "Women's beach in Nida at the base of Parnidis Dune.",
                   "category": "recreational",
                   "coords": [
                         20.973481,
@@ -1066,7 +1066,7 @@ imageHint: "Sundial monument on top of Parnidis Dune",
       "de": [
             {
                   "name": "Paukščių migracijos muziejus",
-                  "text": "Das Paukščių migracijos muziejus am Windenburger Eck ist dem Vogelzug gewidmet.",
+                  "text": "Vogelzugmuseum am Kap Vente.",
                   "category": "museum",
                   "coords": [
                         21.190195,
@@ -1084,7 +1084,7 @@ imageHint: "Sundial monument on top of Parnidis Dune",
             },
             {
                   "name": "Bokštelis su vaizdu į Kuršių marias",
-                  "text": "Bokštelis su vaizdu į Kuršių marias ist ein Aussichtspunkt am Windenburger Eck.",
+                  "text": "Kleiner Turm mit Aussicht auf das Kurische Haff am Kap Vente.",
                   "category": "natural",
                   "coords": [
                         21.192663,
@@ -1095,7 +1095,7 @@ imageHint: "Sundial monument on top of Parnidis Dune",
       "hu": [
             {
                   "name": "Paukščių migracijos muziejus",
-                  "text": "A Ventė-foki Paukščių migracijos muziejus a madárvonulásnak szentelt múzeum.",
+                  "text": "Madárvonulási múzeum a Vente-foknál.",
                   "category": "museum",
                   "coords": [
                         21.190195,
@@ -1113,7 +1113,7 @@ imageHint: "Sundial monument on top of Parnidis Dune",
             },
             {
                   "name": "Bokštelis su vaizdu į Kuršių marias",
-                  "text": "A Bokštelis su vaizdu į Kuršių marias egy kilátó a Ventė-fokon.",
+                  "text": "Kis torony kilátással a Kuršėi-öbölre a Vente-foknál.",
                   "category": "natural",
                   "coords": [
                         21.192663,
@@ -1124,7 +1124,7 @@ imageHint: "Sundial monument on top of Parnidis Dune",
       "ro": [
             {
                   "name": "Paukščių migracijos muziejus",
-                  "text": "Paukščių migracijos muziejus de la Capul Ventė este un muzeu dedicat migrației păsărilor.",
+                  "text": "Muzeul migrației păsărilor la Capul Vente.",
                   "category": "museum",
                   "coords": [
                         21.190195,
@@ -1142,7 +1142,7 @@ imageHint: "Sundial monument on top of Parnidis Dune",
             },
             {
                   "name": "Bokštelis su vaizdu į Kuršių marias",
-                  "text": "Bokštelis su vaizdu į Kuršių marias este un punct de observație la Capul Ventė.",
+                  "text": "Turnuleț cu vedere spre Laguna Curonian la Capul Vente.",
                   "category": "natural",
                   "coords": [
                         21.192663,
@@ -1153,7 +1153,7 @@ imageHint: "Sundial monument on top of Parnidis Dune",
       "en": [
             {
                   "name": "Paukščių migracijos muziejus",
-                  "text": "Paukščių migracijos muziejus at Ventė Cape is a museum dedicated to bird migration.",
+                  "text": "Bird migration museum at Vente Cape.",
                   "category": "museum",
                   "coords": [
                         21.190195,
@@ -1171,7 +1171,7 @@ imageHint: "Sundial monument on top of Parnidis Dune",
             },
             {
                   "name": "Bokštelis su vaizdu į Kuršių marias",
-                  "text": "Bokštelis su vaizdu į Kuršių marias is a viewpoint at Ventė Cape.",
+                  "text": "Small tower with a view of the Curonian Lagoon at Vente Cape.",
                   "category": "natural",
                   "coords": [
                         21.192663,
@@ -1320,7 +1320,7 @@ imageHint: "Lighthouse and bird traps at Vente Cape",
             },
             {
                   "name": "Juozapinės kalno III regykla",
-                  "text": "Ein weiterer markierter Aussichtspunkt in der Nähe des Juozapinė-Hügels.",
+                  "text": "Dritter Aussichtspunkt auf dem Juozapinė-Hügel nahe dem Aukštojas-Hügel.",
                   "category": "natural",
                   "coords": [
                         25.627874,
@@ -1385,7 +1385,7 @@ imageHint: "Lighthouse and bird traps at Vente Cape",
             },
             {
                   "name": "Juozapinės kalno III regykla",
-                  "text": "Újabb jelzett kilátóhely a Juozapinė-domb közelében.",
+                  "text": "Harmadik kilátó a Juozapinė-dombon, az Aukštojas-domb közelében.",
                   "category": "natural",
                   "coords": [
                         25.627874,
@@ -1450,7 +1450,7 @@ imageHint: "Lighthouse and bird traps at Vente Cape",
             },
             {
                   "name": "Juozapinės kalno III regykla",
-                  "text": "Un alt punct de observație marcat în apropierea dealului Juozapinė.",
+                  "text": "Al treilea punct de observare pe Dealul Juozapinė lângă Dealul Aukštojas.",
                   "category": "natural",
                   "coords": [
                         25.627874,
@@ -1515,7 +1515,7 @@ imageHint: "Lighthouse and bird traps at Vente Cape",
             },
             {
                   "name": "Juozapinės kalno III regykla",
-                  "text": "Another marked viewpoint located near Juozapinė Hill.",
+                  "text": "Third observation point on Juozapinė Hill near Aukštojas Hill.",
                   "category": "natural",
                   "coords": [
                         25.627874,
@@ -2017,7 +2017,7 @@ imageHint: "Sandy beach of Lake Dusia in Lithuania",
       "de": [
             {
                   "name": "Veliukiškių I piliakalnis",
-                  "text": "Veliukiškių I piliakalnis ist eine archäologische Stätte am Sartai-See.",
+                  "text": "Eine Hügelburg am Nordufer des Sartai-Sees.",
                   "category": "historical",
                   "coords": [
                         25.847528,
@@ -2026,7 +2026,7 @@ imageHint: "Sandy beach of Lake Dusia in Lithuania",
             },
             {
                   "name": "Bradesių piliakalnis",
-                  "text": "Bradesių piliakalnis ist eine archäologische Stätte am Sartai-See.",
+                  "text": "Eine Hügelburg nahe Bradesiai am Sartai-See.",
                   "category": "historical",
                   "coords": [
                         25.853278,
@@ -2035,7 +2035,7 @@ imageHint: "Sandy beach of Lake Dusia in Lithuania",
             },
             {
                   "name": "Pakačinių piliakalnis",
-                  "text": "Pakačinių piliakalnis ist eine archäologische Stätte am Sartai-See.",
+                  "text": "Eine Hügelburg nahe Pakačiniai am Sartai-See.",
                   "category": "historical",
                   "coords": [
                         25.885194,
@@ -2044,7 +2044,7 @@ imageHint: "Sandy beach of Lake Dusia in Lithuania",
             },
             {
                   "name": "Velikuškių II piliakalnis",
-                  "text": "Velikuškių II piliakalnis ist eine archäologische Stätte am Sartai-See.",
+                  "text": "Die zweite Hügelburg nördlich von Velikuškės am Sartai-See.",
                   "category": "historical",
                   "coords": [
                         25.868056,
@@ -2062,7 +2062,7 @@ imageHint: "Sandy beach of Lake Dusia in Lithuania",
             },
             {
                   "name": "Pažintinis Dusetų girios takas",
-                  "text": "Pažintinis Dusetų girios takas ist ein Lehrpfad am Sartai-See.",
+                  "text": "Lehrpfad im Wald von Dusetos am Sartai-See.",
                   "category": "landmark",
                   "coords": [
                         25.7882,
@@ -2071,7 +2071,7 @@ imageHint: "Sandy beach of Lake Dusia in Lithuania",
             },
             {
                   "name": "Sartų apžvalgos bokštas",
-                  "text": "Sartų apžvalgos bokštas ist ein Aussichtsturm am Sartai-See.",
+                  "text": "Aussichtsturm am Sartai-See.",
                   "category": "natural",
                   "coords": [
                         25.838496,
@@ -2091,7 +2091,7 @@ imageHint: "Sandy beach of Lake Dusia in Lithuania",
       "hu": [
             {
                   "name": "Veliukiškių I piliakalnis",
-                  "text": "Veliukiškių I piliakalnis egy régészeti lelőhely a Sartai-tónál.",
+                  "text": "Egy földvár a Sartai-tó északi partján.",
                   "category": "historical",
                   "coords": [
                         25.847528,
@@ -2100,7 +2100,7 @@ imageHint: "Sandy beach of Lake Dusia in Lithuania",
             },
             {
                   "name": "Bradesių piliakalnis",
-                  "text": "Bradesių piliakalnis egy régészeti lelőhely a Sartai-tónál.",
+                  "text": "Egy földvár Bradesiai közelében a Sartai-tónál.",
                   "category": "historical",
                   "coords": [
                         25.853278,
@@ -2109,7 +2109,7 @@ imageHint: "Sandy beach of Lake Dusia in Lithuania",
             },
             {
                   "name": "Pakačinių piliakalnis",
-                  "text": "Pakačinių piliakalnis egy régészeti lelőhely a Sartai-tónál.",
+                  "text": "Egy földvár Pakačiniai közelében a Sartai-tónál.",
                   "category": "historical",
                   "coords": [
                         25.885194,
@@ -2118,7 +2118,7 @@ imageHint: "Sandy beach of Lake Dusia in Lithuania",
             },
             {
                   "name": "Velikuškių II piliakalnis",
-                  "text": "Velikuškių II piliakalnis egy régészeti lelőhely a Sartai-tónál.",
+                  "text": "A második földvár Velikuškėstől északra a Sartai-tónál.",
                   "category": "historical",
                   "coords": [
                         25.868056,
@@ -2136,7 +2136,7 @@ imageHint: "Sandy beach of Lake Dusia in Lithuania",
             },
             {
                   "name": "Pažintinis Dusetų girios takas",
-                  "text": "A Pažintinis Dusetų girios takas egy tanösvény a Sartai-tónál.",
+                  "text": "Tanösvény a Dusetos-erdőben a Sartai-tó mellett.",
                   "category": "landmark",
                   "coords": [
                         25.7882,
@@ -2145,7 +2145,7 @@ imageHint: "Sandy beach of Lake Dusia in Lithuania",
             },
             {
                   "name": "Sartų apžvalgos bokštas",
-                  "text": "A Sartų apžvalgos bokštas egy kilátótorony a Sartai-tónál.",
+                  "text": "Kilátótorony a Sartai-tónál.",
                   "category": "natural",
                   "coords": [
                         25.838496,
@@ -2165,7 +2165,7 @@ imageHint: "Sandy beach of Lake Dusia in Lithuania",
       "ro": [
             {
                   "name": "Veliukiškių I piliakalnis",
-                  "text": "Veliukiškių I piliakalnis este un sit arheologic lângă lacul Sartai.",
+                  "text": "O fortificație de deal pe malul nordic al Lacului Sartai.",
                   "category": "historical",
                   "coords": [
                         25.847528,
@@ -2174,7 +2174,7 @@ imageHint: "Sandy beach of Lake Dusia in Lithuania",
             },
             {
                   "name": "Bradesių piliakalnis",
-                  "text": "Bradesių piliakalnis este un sit arheologic lângă lacul Sartai.",
+                  "text": "O fortificație de deal lângă Bradesiai, pe Lacul Sartai.",
                   "category": "historical",
                   "coords": [
                         25.853278,
@@ -2183,7 +2183,7 @@ imageHint: "Sandy beach of Lake Dusia in Lithuania",
             },
             {
                   "name": "Pakačinių piliakalnis",
-                  "text": "Pakačinių piliakalnis este un sit arheologic lângă lacul Sartai.",
+                  "text": "O fortificație de deal lângă Pakačiniai, pe Lacul Sartai.",
                   "category": "historical",
                   "coords": [
                         25.885194,
@@ -2192,7 +2192,7 @@ imageHint: "Sandy beach of Lake Dusia in Lithuania",
             },
             {
                   "name": "Velikuškių II piliakalnis",
-                  "text": "Velikuškių II piliakalnis este un sit arheologic lângă lacul Sartai.",
+                  "text": "A doua fortificație de deal la nord de Velikuškės, pe Lacul Sartai.",
                   "category": "historical",
                   "coords": [
                         25.868056,
@@ -2210,7 +2210,7 @@ imageHint: "Sandy beach of Lake Dusia in Lithuania",
             },
             {
                   "name": "Pažintinis Dusetų girios takas",
-                  "text": "Pažintinis Dusetų girios takas este un traseu educativ lângă lacul Sartai.",
+                  "text": "Traseu didactic în Pădurea Dusetos lângă Lacul Sartai.",
                   "category": "landmark",
                   "coords": [
                         25.7882,
@@ -2219,7 +2219,7 @@ imageHint: "Sandy beach of Lake Dusia in Lithuania",
             },
             {
                   "name": "Sartų apžvalgos bokštas",
-                  "text": "Sartų apžvalgos bokštas este un turn de observare lângă lacul Sartai.",
+                  "text": "Turn de observare la Lacul Sartai.",
                   "category": "natural",
                   "coords": [
                         25.838496,
@@ -2239,7 +2239,7 @@ imageHint: "Sandy beach of Lake Dusia in Lithuania",
       "en": [
             {
                   "name": "Veliukiškių I piliakalnis",
-                  "text": "Veliukiškių I piliakalnis is an archaeological hillfort site by Lake Sartai.",
+                  "text": "A hillfort on the north shore of Lake Sartai.",
                   "category": "historical",
                   "coords": [
                         25.847528,
@@ -2248,7 +2248,7 @@ imageHint: "Sandy beach of Lake Dusia in Lithuania",
             },
             {
                   "name": "Bradesių piliakalnis",
-                  "text": "Bradesių piliakalnis is an archaeological site near Lake Sartai.",
+                  "text": "A hillfort near Bradesiai on Lake Sartai.",
                   "category": "historical",
                   "coords": [
                         25.853278,
@@ -2257,7 +2257,7 @@ imageHint: "Sandy beach of Lake Dusia in Lithuania",
             },
             {
                   "name": "Pakačinių piliakalnis",
-                  "text": "Pakačinių piliakalnis is an archaeological site near Lake Sartai.",
+                  "text": "A hillfort near Pakačiniai on Lake Sartai.",
                   "category": "historical",
                   "coords": [
                         25.885194,
@@ -2266,7 +2266,7 @@ imageHint: "Sandy beach of Lake Dusia in Lithuania",
             },
             {
                   "name": "Velikuškių II piliakalnis",
-                  "text": "Velikuškių II piliakalnis is an archaeological site near Lake Sartai.",
+                  "text": "The second hillfort north of Velikuškės on Lake Sartai.",
                   "category": "historical",
                   "coords": [
                         25.868056,
@@ -2284,7 +2284,7 @@ imageHint: "Sandy beach of Lake Dusia in Lithuania",
             },
             {
                   "name": "Pažintinis Dusetų girios takas",
-                  "text": "Pažintinis Dusetų girios takas is an educational nature trail near Lake Sartai.",
+                  "text": "Educational trail in Dusetos Forest near Lake Sartai.",
                   "category": "landmark",
                   "coords": [
                         25.7882,
@@ -2293,7 +2293,7 @@ imageHint: "Sandy beach of Lake Dusia in Lithuania",
             },
             {
                   "name": "Sartų apžvalgos bokštas",
-                  "text": "Sartų apžvalgos bokštas is an observation tower near Lake Sartai.",
+                  "text": "Observation tower at Lake Sartai.",
                   "category": "natural",
                   "coords": [
                         25.838496,
@@ -3938,7 +3938,7 @@ imageHint: "Calm Sesupe river at the border area",
             },
             {
                   "name": "Papiliakalne-Hügel",
-                  "text": "Ein archäologisches Denkmal in der Nähe des Ginučiai-Burgbergs.",
+                  "text": "Eine Hügelburg am Ufer des Lusiai-Sees.",
                   "category": "historical",
                   "coords": [
                         25.983472,
@@ -3956,7 +3956,7 @@ imageHint: "Calm Sesupe river at the border area",
             },
             {
                   "name": "Puziniškio piliakalnis",
-                  "text": "Eine historische Ausgrabungsstätte am Seeufer.",
+                  "text": "Eine Hügelburg nahe Puziniškis am Lusiai-See.",
                   "category": "historical",
                   "coords": [
                         26.013972,
@@ -3974,7 +3974,7 @@ imageHint: "Calm Sesupe river at the border area",
             },
             {
                   "name": "Kimbariškių akmens amžiaus gyvenvietė",
-                  "text": "Reste einer steinzeitlichen Siedlung am Lūšiai-See.",
+                  "text": "Steinzeitliche Siedlung Kimbariškės am See Lūšiai.",
                   "category": "historical",
                   "coords": [
                         25.983653,
@@ -3983,7 +3983,7 @@ imageHint: "Calm Sesupe river at the border area",
             },
             {
                   "name": "Pabiržės senovės gyvenvietė",
-                  "text": "Ein prähistorischer Fundplatz am Ufer des Lūšiai-Sees.",
+                  "text": "Alte Siedlung Pabiržė am See Lūšiai.",
                   "category": "historical",
                   "coords": [
                         26.030528,
@@ -3992,7 +3992,7 @@ imageHint: "Calm Sesupe river at the border area",
             },
             {
                   "name": "Ginučių vandens malūno paplūdimys",
-                  "text": "Ein kleiner Strandabschnitt bei der alten Wassermühle von Ginučiai.",
+                  "text": "Strand an der Ginučiai-Wassermühle am See Lūšiai.",
                   "category": "recreational",
                   "coords": [
                         25.994654,
@@ -4012,7 +4012,7 @@ imageHint: "Calm Sesupe river at the border area",
             },
             {
                   "name": "Papiliakalnės piliakalnis",
-                  "text": "Régészeti emlék a Ginučiai várhely közelében.",
+                  "text": "Egy földvár a Lusiai-tó partján.",
                   "category": "historical",
                   "coords": [
                         25.983472,
@@ -4030,7 +4030,7 @@ imageHint: "Calm Sesupe river at the border area",
             },
             {
                   "name": "Puziniškio piliakalnis",
-                  "text": "Történelmi régészeti lelőhely a tóparton.",
+                  "text": "Egy földvár Puziniškis közelében a Lusiai-tónál.",
                   "category": "historical",
                   "coords": [
                         26.013972,
@@ -4048,7 +4048,7 @@ imageHint: "Calm Sesupe river at the border area",
             },
             {
                   "name": "Kimbariškių akmens amžiaus gyvenvietė",
-                  "text": "Kőkorszaki település maradványai a Lūšiai-tónál.",
+                  "text": "Kőkori település Kimbariškės a Lūšiai-tónál.",
                   "category": "historical",
                   "coords": [
                         25.983653,
@@ -4057,7 +4057,7 @@ imageHint: "Calm Sesupe river at the border area",
             },
             {
                   "name": "Pabiržės senovės gyvenvietė",
-                  "text": "Őskori lelőhely a Lūšiai-tó partján.",
+                  "text": "Ősi település Pabiržė a Lūšiai-tónál.",
                   "category": "historical",
                   "coords": [
                         26.030528,
@@ -4066,7 +4066,7 @@ imageHint: "Calm Sesupe river at the border area",
             },
             {
                   "name": "Ginučių vandens malūno paplūdimys",
-                  "text": "Kis strand szakasz a ginučiai régi vízimalomnál.",
+                  "text": "Strand a Ginučiai vízimalomnál a Lūšiai-tó mellett.",
                   "category": "recreational",
                   "coords": [
                         25.994654,
@@ -4086,7 +4086,7 @@ imageHint: "Calm Sesupe river at the border area",
             },
             {
                   "name": "Papiliakalnės piliakalnis",
-                  "text": "Un monument arheologic lângă colina fortificată Ginučiai.",
+                  "text": "O fortificație de deal pe malul Lacului Lusiai.",
                   "category": "historical",
                   "coords": [
                         25.983472,
@@ -4104,7 +4104,7 @@ imageHint: "Calm Sesupe river at the border area",
             },
             {
                   "name": "Puziniškio piliakalnis",
-                  "text": "Un sit arheologic istoric pe malul lacului.",
+                  "text": "O fortificație de deal lângă Puziniškis, pe Lacul Lusiai.",
                   "category": "historical",
                   "coords": [
                         26.013972,
@@ -4122,7 +4122,7 @@ imageHint: "Calm Sesupe river at the border area",
             },
             {
                   "name": "Kimbariškių akmens amžiaus gyvenvietė",
-                  "text": "Rămășițele unei așezări din epoca pietrei lângă lacul Lūšiai.",
+                  "text": "Așezare din epoca de piatră Kimbariškės lângă Lacul Lūšiai.",
                   "category": "historical",
                   "coords": [
                         25.983653,
@@ -4131,7 +4131,7 @@ imageHint: "Calm Sesupe river at the border area",
             },
             {
                   "name": "Pabiržės senovės gyvenvietė",
-                  "text": "Un sit preistoric pe malul lacului Lūšiai.",
+                  "text": "Așezare antică Pabiržė lângă Lacul Lūšiai.",
                   "category": "historical",
                   "coords": [
                         26.030528,
@@ -4140,7 +4140,7 @@ imageHint: "Calm Sesupe river at the border area",
             },
             {
                   "name": "Ginučių vandens malūno paplūdimys",
-                  "text": "O mică plajă lângă vechea moară de apă din Ginučiai.",
+                  "text": "Plajă la moara de apă Ginučiai lângă Lacul Lūšiai.",
                   "category": "recreational",
                   "coords": [
                         25.994654,
@@ -4160,7 +4160,7 @@ imageHint: "Calm Sesupe river at the border area",
             },
             {
                   "name": "Papiliakalnės piliakalnis",
-                  "text": "An archaeological monument near the Ginučiai hillfort.",
+                  "text": "A hillfort on the shore of Lake Lusiai.",
                   "category": "historical",
                   "coords": [
                         25.983472,
@@ -4178,7 +4178,7 @@ imageHint: "Calm Sesupe river at the border area",
             },
             {
                   "name": "Puziniškio piliakalnis",
-                  "text": "A historical archaeological site on the lakeshore.",
+                  "text": "A hillfort near Puziniškis on Lake Lusiai.",
                   "category": "historical",
                   "coords": [
                         26.013972,
@@ -4196,7 +4196,7 @@ imageHint: "Calm Sesupe river at the border area",
             },
             {
                   "name": "Kimbariškių akmens amžiaus gyvenvietė",
-                  "text": "Remains of a Stone Age settlement by Lake Lūšiai.",
+                  "text": "Stone Age settlement Kimbariškės near Lake Lūšiai.",
                   "category": "historical",
                   "coords": [
                         25.983653,
@@ -4205,7 +4205,7 @@ imageHint: "Calm Sesupe river at the border area",
             },
             {
                   "name": "Pabiržės senovės gyvenvietė",
-                  "text": "A prehistoric site on the shores of Lake Lūšiai.",
+                  "text": "Ancient settlement Pabiržė near Lake Lūšiai.",
                   "category": "historical",
                   "coords": [
                         26.030528,
@@ -4214,7 +4214,7 @@ imageHint: "Calm Sesupe river at the border area",
             },
             {
                   "name": "Ginučių vandens malūno paplūdimys",
-                  "text": "A small beach area by the old water mill of Ginučiai.",
+                  "text": "Beach at Ginučiai water mill near Lake Lūšiai.",
                   "category": "recreational",
                   "coords": [
                         25.994654,
@@ -4615,7 +4615,7 @@ imageHint: "Extremely long wooden boardwalk through a bog",
             },
             {
                   "name": "Girulių nudistų paplūdimys",
-                  "text": "Ein ausgewiesener FKK-Strand im Gebiet Giruliai bei Olando kepurė.",
+                  "text": "Nudistenstrand in Giruliai am Olando Kepure.",
                   "category": "recreational",
                   "coords": [
                         21.076402,
@@ -4689,7 +4689,7 @@ imageHint: "Extremely long wooden boardwalk through a bog",
             },
             {
                   "name": "Girulių nudistų paplūdimys",
-                  "text": "Kijelölt nudista strand Giruliai területén, a Dutchman's Cap közelében.",
+                  "text": "Nudista strand Giruliai-ban az Olando Kepure-nél.",
                   "category": "recreational",
                   "coords": [
                         21.076402,
@@ -4763,7 +4763,7 @@ imageHint: "Extremely long wooden boardwalk through a bog",
             },
             {
                   "name": "Girulių nudistų paplūdimys",
-                  "text": "O plajă de nudiști desemnată în zona Giruliai, lângă Capul Olandezului.",
+                  "text": "Plajă nudistă în Giruliai lângă Olando Kepure.",
                   "category": "recreational",
                   "coords": [
                         21.076402,
@@ -4837,7 +4837,7 @@ imageHint: "Extremely long wooden boardwalk through a bog",
             },
             {
                   "name": "Giruliai Nudist Beach",
-                  "text": "A designated nudist beach located in the Giruliai area near the Dutchman's Cap.",
+                  "text": "Nudist beach in Giruliai near Olando Kepure.",
                   "category": "recreational",
                   "coords": [
                         21.076402,
@@ -4958,7 +4958,7 @@ imageHint: "Steep sandy cliff at the Baltic Sea shore",
             },
             {
                   "name": "Krakeniškių dvaras",
-                  "text": "Die Überreste eines ehemaligen Gutes in der Nähe von Rambynas Hill.",
+                  "text": "Ein Gutshof nahe dem Rambynas-Hügel.",
                   "category": "historical",
                   "coords": [
                         21.987259,
@@ -5032,7 +5032,7 @@ imageHint: "Steep sandy cliff at the Baltic Sea shore",
             },
             {
                   "name": "Krakeniškių dvaras",
-                  "text": "Egy egykori birtok maradványai Rambynas-domb közelében.",
+                  "text": "Egy udvarház a Rambynas-domb közelében.",
                   "category": "historical",
                   "coords": [
                         21.987259,
@@ -5106,7 +5106,7 @@ imageHint: "Steep sandy cliff at the Baltic Sea shore",
             },
             {
                   "name": "Krakeniškių dvaras",
-                  "text": "Resturile unei foste moșii din apropiere de Rambynas Hill.",
+                  "text": "Un conac lângă Dealul Rambynas.",
                   "category": "historical",
                   "coords": [
                         21.987259,
@@ -5180,7 +5180,7 @@ imageHint: "Steep sandy cliff at the Baltic Sea shore",
             },
             {
                   "name": "Krakeniškių dvaras",
-                  "text": "The remains of a former estate near Rambynas Hill.",
+                  "text": "A manor estate near the Rambynas Hill.",
                   "category": "historical",
                   "coords": [
                         21.987259,

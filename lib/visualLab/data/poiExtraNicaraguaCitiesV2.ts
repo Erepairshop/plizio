@@ -473,7 +473,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "El Patio de La Botana",
-                  "text": "El Patio de La Botana ist ein beliebtes Ausflugsziel in Chichigalpa.",
+                  "text": "Ein beliebter Innenhof und eine Bar in Chichigalpa, bekannt für sein lokales Ambiente.",
                   "category": "landmark",
                   "coords": [
                         -87.029574,
@@ -484,7 +484,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "El Patio de La Botana",
-                  "text": "Az El Patio de La Botana egy népszerű látnivaló Chichigalpában.",
+                  "text": "Egy népszerű udvar és bár Chichigalpában, helyi hangulatáról ismert.",
                   "category": "landmark",
                   "coords": [
                         -87.029574,
@@ -495,7 +495,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "El Patio de La Botana",
-                  "text": "El Patio de La Botana este o atracție populară în Chichigalpa.",
+                  "text": "O curte și un bar populare în Chichigalpa, cunoscute pentru atmosfera locală.",
                   "category": "landmark",
                   "coords": [
                         -87.029574,
@@ -506,7 +506,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "El Patio de La Botana",
-                  "text": "El Patio de La Botana is a popular attraction in Chichigalpa.",
+                  "text": "A popular courtyard and bar in Chichigalpa, known for its local atmosphere.",
                   "category": "landmark",
                   "coords": [
                         -87.029574,
@@ -737,7 +737,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "El Rótulo",
-                  "text": "El Rótulo ist ein markantes Denkmal in Nueva Guinea.",
+                  "text": "Ein historisches Schild oder Denkmal in der Stadt Guinea (Nicaragua).",
                   "category": "historical",
                   "coords": [
                         -84.461639,
@@ -746,7 +746,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento Central",
-                  "text": "Das Central Monument ist ein zentrales Denkmal in Nueva Guinea.",
+                  "text": "Ein zentrales Monument auf dem Hauptplatz von Guinea.",
                   "category": "historical",
                   "coords": [
                         -84.452057,
@@ -757,7 +757,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "El Rótulo",
-                  "text": "Az El Rótulo egy jellegzetes emlékmű Nueva Guineában.",
+                  "text": "Egy történelmi tábla vagy emlékmű Guinea városában (Nicaragua).",
                   "category": "historical",
                   "coords": [
                         -84.461639,
@@ -766,7 +766,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento Central",
-                  "text": "A Central Monument egy központi emlékmű Nueva Guineában.",
+                  "text": "Egy központi emlékmű Guinea főterén.",
                   "category": "historical",
                   "coords": [
                         -84.452057,
@@ -777,7 +777,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "El Rótulo",
-                  "text": "El Rótulo este un monument proeminent în Nueva Guinea.",
+                  "text": "Un semn sau monument istoric în orașul Guinea (Nicaragua).",
                   "category": "historical",
                   "coords": [
                         -84.461639,
@@ -786,7 +786,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento Central",
-                  "text": "Central Monument este un monument central în Nueva Guinea.",
+                  "text": "Un monument central în piața principală a orașului Guinea.",
                   "category": "historical",
                   "coords": [
                         -84.452057,
@@ -797,7 +797,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "El Rótulo",
-                  "text": "El Rótulo is a prominent monument in Nueva Guinea.",
+                  "text": "A historic sign or monument in the town of Guinea (Nicaragua).",
                   "category": "historical",
                   "coords": [
                         -84.461639,
@@ -806,7 +806,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
             },
             {
                   "name": "Central Monument",
-                  "text": "The Central Monument is a central monument in Nueva Guinea.",
+                  "text": "A central monument on the main square of Guinea.",
                   "category": "historical",
                   "coords": [
                         -84.452057,
@@ -1323,7 +1323,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Loma Las Mesas",
-                  "text": "Loma Las Mesas ist ein markanter Berggipfel in der Nähe von Sébaco.",
+                  "text": "Ein flachgipfeliger Hügel (Tafelberg) in der Nähe von Sebaco.",
                   "category": "natural",
                   "coords": [
                         -86.083407,
@@ -1343,7 +1343,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Loma Las Mesas",
-                  "text": "Loma Las Mesas egy jellegzetes hegycsúcs Sébaco közelében.",
+                  "text": "Egy lapos tetejű domb (asztalhegy) Sebaco közelében.",
                   "category": "natural",
                   "coords": [
                         -86.083407,
@@ -1363,7 +1363,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Loma Las Mesas",
-                  "text": "Loma Las Mesas este un vârf muntos proeminent lângă Sébaco.",
+                  "text": "Un deal cu vârf plat (mesă) lângă Sebaco.",
                   "category": "natural",
                   "coords": [
                         -86.083407,
@@ -1383,7 +1383,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Loma Las Mesas",
-                  "text": "Loma Las Mesas is a prominent mountain peak near Sébaco.",
+                  "text": "A flat-topped hill (mesa) near Sebaco.",
                   "category": "natural",
                   "coords": [
                         -86.083407,
@@ -1440,7 +1440,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Museo de Héroes de Nandaime",
-                  "text": "Ein Museum in Nandaime, das den Helden der Stadtgeschichte gewidmet ist.",
+                  "text": "Ein Museum, das lokalen Helden und der Revolutionsgeschichte in Nandaime gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         -86.057344,
@@ -1451,7 +1451,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Museo de Héroes de Nandaime",
-                  "text": "Nandaimei múzeum, amelyet a város történelmének hőseinek szenteltek.",
+                  "text": "Múzeum, amely a nandaime-i helyi hősöknek és a forradalmi történelemnek állít emléket.",
                   "category": "museum",
                   "coords": [
                         -86.057344,
@@ -1462,7 +1462,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Museo de Héroes de Nandaime",
-                  "text": "Un muzeu din Nandaime dedicat eroilor istoriei orașului.",
+                  "text": "Un muzeu dedicat eroilor locali și istoriei revoluționare din Nandaime.",
                   "category": "museum",
                   "coords": [
                         -86.057344,
@@ -1473,7 +1473,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Museo de Héroes de Nandaime",
-                  "text": "A museum in Nandaime dedicated to the heroes of the town's history.",
+                  "text": "A museum dedicated to local heroes and revolutionary history in Nandaime.",
                   "category": "museum",
                   "coords": [
                         -86.057344,
@@ -1737,7 +1737,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Iglesia Nandasmo",
-                  "text": "Die Iglesia Nandasmo ist eine sehenswerte Kirche in Masatepe.",
+                  "text": "Eine Kirche im Kolonialstil im Stadtteil Nandasmo von Masatepe.",
                   "category": "landmark",
                   "coords": [
                         -86.120251,
@@ -1748,7 +1748,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Iglesia Nandasmo",
-                  "text": "Az Iglesia Nandasmo egy figyelemre méltó templom Masatepében.",
+                  "text": "Egy gyarmati stílusú templom Masatepe Nandasmo negyedében.",
                   "category": "landmark",
                   "coords": [
                         -86.120251,
@@ -1759,7 +1759,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Iglesia Nandasmo",
-                  "text": "Iglesia Nandasmo este o biserică notabilă situată în Masatepe.",
+                  "text": "O biserică în stil colonial în cartierul Nandasmo din Masatepe.",
                   "category": "landmark",
                   "coords": [
                         -86.120251,
@@ -1770,7 +1770,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Iglesia Nandasmo",
-                  "text": "Iglesia Nandasmo is a notable church located in Masatepe.",
+                  "text": "A colonial-style church in the Nandasmo district of Masatepe.",
                   "category": "landmark",
                   "coords": [
                         -86.120251,
@@ -1818,7 +1818,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Museo Augusto C. Sandino",
-                  "text": "Das Geburtshaus und Museum von General Augusto C. Sandino in Niquinohomo.",
+                  "text": "Das Geburtshausmuseum des Revolutionärs Augusto C. Sandino in Niquinohomo.",
                   "category": "museum",
                   "coords": [
                         -86.095157,
@@ -1836,7 +1836,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
             },
             {
                   "name": "Iglesia de Santa Ana",
-                  "text": "Eine im Kolonialstil erbaut Kirche im Herzen von Niquinohomo.",
+                  "text": "Eine prominente katholische Kirche im Stadtzentrum von Niquinohomo.",
                   "category": "religious",
                   "coords": [
                         -86.093821,
@@ -1847,7 +1847,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Museo Augusto C. Sandino",
-                  "text": "Augusto C. Sandino tábornok szülőháza és múzeuma Niquinohomóban.",
+                  "text": "A forradalmár Augusto C. Sandino szülőházmúzeuma Niquinohomóban.",
                   "category": "museum",
                   "coords": [
                         -86.095157,
@@ -1865,7 +1865,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
             },
             {
                   "name": "Iglesia de Santa Ana",
-                  "text": "Koloniális stílusú templom Niquinohomo szívében.",
+                  "text": "Egy jelentős katolikus templom Niquinohomo központjában.",
                   "category": "religious",
                   "coords": [
                         -86.093821,
@@ -1876,7 +1876,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Museo Augusto C. Sandino",
-                  "text": "Casa natală și muzeul generalului Augusto C. Sandino din Niquinohomo.",
+                  "text": "Muzeul casei natale a revoluționarului Augusto C. Sandino din Niquinohomo.",
                   "category": "museum",
                   "coords": [
                         -86.095157,
@@ -1894,7 +1894,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
             },
             {
                   "name": "Iglesia de Santa Ana",
-                  "text": "O biserică în stil colonial situată în inima orașului Niquinohomo.",
+                  "text": "O biserică catolică importantă în centrul orașului Niquinohomo.",
                   "category": "religious",
                   "coords": [
                         -86.093821,
@@ -1905,7 +1905,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Museo Augusto C. Sandino",
-                  "text": "The birthplace and museum of General Augusto C. Sandino in Niquinohomo.",
+                  "text": "The birthplace museum of revolutionary Augusto C. Sandino in Niquinohomo.",
                   "category": "museum",
                   "coords": [
                         -86.095157,
@@ -1923,7 +1923,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
             },
             {
                   "name": "Iglesia de Santa Ana",
-                  "text": "A colonial-style church located in the heart of Niquinohomo.",
+                  "text": "A prominent Catholic church in the town centre of Niquinohomo.",
                   "category": "religious",
                   "coords": [
                         -86.093821,
@@ -2322,7 +2322,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
             },
             {
                   "name": "EMBARCADERO WASPÁM",
-                  "text": "Der EMBARCADERO WASPÁM ist ein Aussichtspunkt am Flussufer in Waspam.",
+                  "text": "Ein Flusssteg am Coco-Fluss in Waspam.",
                   "category": "natural",
                   "coords": [
                         -83.97212,
@@ -2331,7 +2331,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
             },
             {
                   "name": "Piales",
-                  "text": "Piales ist ein Erholungsort am Wasser in Waspam.",
+                  "text": "Ein Erholungsgebiet mit natürlichen Flussbecken in Waspam.",
                   "category": "recreational",
                   "coords": [
                         -83.962112,
@@ -2340,7 +2340,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
             },
             {
                   "name": "Rigle",
-                  "text": "Rigle ist ein Strandbad und Erholungsort in Waspam.",
+                  "text": "Ein Erholungsort am Fluss in Waspam.",
                   "category": "recreational",
                   "coords": [
                         -83.95938,
@@ -2349,7 +2349,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
             },
             {
                   "name": "Trintara",
-                  "text": "Trintara ist ein beliebter Badeort in der Umgebung von Waspam.",
+                  "text": "Ein Erholungsgebiet in Waspam, möglicherweise ein Park.",
                   "category": "recreational",
                   "coords": [
                         -83.959028,
@@ -2358,7 +2358,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
             },
             {
                   "name": "POZA AZUl",
-                  "text": "POZA AZUl ist ein naturnaher Erholungsort in Waspam.",
+                  "text": "Ein natürliches blaues Schwimmbad in Waspam.",
                   "category": "recreational",
                   "coords": [
                         -83.961,
@@ -2367,7 +2367,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
             },
             {
                   "name": "Granja",
-                  "text": "Granja ist ein Erholungs- und Badeort in Waspam.",
+                  "text": "Ein landwirtschaftlich geprägtes Erholungsgebiet in Waspam.",
                   "category": "recreational",
                   "coords": [
                         -83.959711,
@@ -2387,7 +2387,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
             },
             {
                   "name": "EMBARCADERO WASPÁM",
-                  "text": "Az EMBARCADERO WASPÁM egy folyóparti kilátó Waspamban.",
+                  "text": "Egy folyami rakpart a Coco folyón Waspamban.",
                   "category": "natural",
                   "coords": [
                         -83.97212,
@@ -2396,7 +2396,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
             },
             {
                   "name": "Piales",
-                  "text": "Piales egy vízi üdülőhely Waspamban.",
+                  "text": "Egy természetes folyami medencékkel rendelkező rekreációs terület Waspamban.",
                   "category": "recreational",
                   "coords": [
                         -83.962112,
@@ -2405,7 +2405,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
             },
             {
                   "name": "Rigle",
-                  "text": "Rigle egy strand és üdülőhely Waspamban.",
+                  "text": "Egy folyóparti rekreációs hely Waspamban.",
                   "category": "recreational",
                   "coords": [
                         -83.95938,
@@ -2414,7 +2414,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
             },
             {
                   "name": "Trintara",
-                  "text": "Trintara egy népszerű üdülőhely Waspam környékén.",
+                  "text": "Egy rekreációs terület Waspamban, valószínűleg egy park.",
                   "category": "recreational",
                   "coords": [
                         -83.959028,
@@ -2423,7 +2423,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
             },
             {
                   "name": "POZA AZUl",
-                  "text": "POZA AZUl egy természetközeli üdülőhely Waspamban.",
+                  "text": "Egy természetes kék úszómedence Waspamban.",
                   "category": "recreational",
                   "coords": [
                         -83.961,
@@ -2432,7 +2432,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
             },
             {
                   "name": "Granja",
-                  "text": "Granja egy üdülő- és fürdőhely Waspamban.",
+                  "text": "Egy farm jellegű rekreációs terület Waspamban.",
                   "category": "recreational",
                   "coords": [
                         -83.959711,
@@ -2452,7 +2452,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
             },
             {
                   "name": "EMBARCADERO WASPÁM",
-                  "text": "EMBARCADERO WASPÁM este un punct de belvedere pe malul râului în Waspam.",
+                  "text": "Un debarcader fluvial pe râul Coco din Waspam.",
                   "category": "natural",
                   "coords": [
                         -83.97212,
@@ -2461,7 +2461,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
             },
             {
                   "name": "Piales",
-                  "text": "Piales este o stațiune la apă în Waspam.",
+                  "text": "O zonă de agrement cu bazine naturale de râu în Waspam.",
                   "category": "recreational",
                   "coords": [
                         -83.962112,
@@ -2470,7 +2470,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
             },
             {
                   "name": "Rigle",
-                  "text": "Rigle este o stațiune la plajă în Waspam.",
+                  "text": "Un loc de agrement pe malul râului în Waspam.",
                   "category": "recreational",
                   "coords": [
                         -83.95938,
@@ -2479,7 +2479,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
             },
             {
                   "name": "Trintara",
-                  "text": "Trintara este o stațiune de plajă populară în zona Waspam.",
+                  "text": "O zonă de agrement în Waspam, probabil un parc.",
                   "category": "recreational",
                   "coords": [
                         -83.959028,
@@ -2488,7 +2488,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
             },
             {
                   "name": "POZA AZUl",
-                  "text": "POZA AZUl este o stațiune naturală în Waspam.",
+                  "text": "O piscină naturală albastră în Waspam.",
                   "category": "recreational",
                   "coords": [
                         -83.961,
@@ -2497,7 +2497,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
             },
             {
                   "name": "Granja",
-                  "text": "Granja este o stațiune de recreere și plajă în Waspam.",
+                  "text": "O zonă de agrement cu tematică agricolă în Waspam.",
                   "category": "recreational",
                   "coords": [
                         -83.959711,
@@ -2517,7 +2517,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
             },
             {
                   "name": "EMBARCADERO WASPÁM",
-                  "text": "EMBARCADERO WASPÁM is a riverside viewpoint in Waspam.",
+                  "text": "A riverside dock on the Coco River in Waspam.",
                   "category": "natural",
                   "coords": [
                         -83.97212,
@@ -2526,7 +2526,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
             },
             {
                   "name": "Piales",
-                  "text": "Piales is a waterside resort in Waspam.",
+                  "text": "A recreational area with natural river pools in Waspam.",
                   "category": "recreational",
                   "coords": [
                         -83.962112,
@@ -2535,7 +2535,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
             },
             {
                   "name": "Rigle",
-                  "text": "Rigle is a beach resort in Waspam.",
+                  "text": "A riverside recreational spot in Waspam.",
                   "category": "recreational",
                   "coords": [
                         -83.95938,
@@ -2544,7 +2544,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
             },
             {
                   "name": "Trintara",
-                  "text": "Trintara is a popular beach resort in the Waspam area.",
+                  "text": "A recreational area in Waspam, possibly a park.",
                   "category": "recreational",
                   "coords": [
                         -83.959028,
@@ -2553,7 +2553,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
             },
             {
                   "name": "POZA AZUl",
-                  "text": "POZA AZUl is a nature-oriented resort in Waspam.",
+                  "text": "A natural blue swimming pool in Waspam.",
                   "category": "recreational",
                   "coords": [
                         -83.961,
@@ -2562,7 +2562,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
             },
             {
                   "name": "Granja",
-                  "text": "Granja is a recreational and beach resort in Waspam.",
+                  "text": "A farm-themed recreational area in Waspam.",
                   "category": "recreational",
                   "coords": [
                         -83.959711,
@@ -3051,7 +3051,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Cordillera Chontaleña",
-                  "text": "Die Cordillera Chontaleña ist eine Gebirgskette bei Santo Tomás.",
+                  "text": "Die Chontaleña-Bergkette in der Region Tomas Chontales.",
                   "category": "natural",
                   "coords": [
                         -85.096221,
@@ -3062,7 +3062,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Cordillera Chontaleña",
-                  "text": "A Cordillera Chontaleña egy hegylánc Santo Tomás közelében.",
+                  "text": "A Chontaleña-hegység a Tomas Chontales régióban.",
                   "category": "natural",
                   "coords": [
                         -85.096221,
@@ -3073,7 +3073,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Cordillera Chontaleña",
-                  "text": "Cordillera Chontaleña este un lanț muntos lângă Santo Tomás.",
+                  "text": "Lanțul muntos Chontaleña în regiunea Tomas Chontales.",
                   "category": "natural",
                   "coords": [
                         -85.096221,
@@ -3084,7 +3084,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Cordillera Chontaleña",
-                  "text": "Cordillera Chontaleña is a mountain range near Santo Tomás.",
+                  "text": "The Chontaleña mountain range in the Tomas Chontales region.",
                   "category": "natural",
                   "coords": [
                         -85.096221,
@@ -3870,7 +3870,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Piscina \"El Bongoe\"",
-                  "text": "Ein öffentliches Schwimmbad zur Erholung in Terrabona.",
+                  "text": "Ein bekanntes Schwimmbad in Matagalpa, genannt 'El Bongoe'.",
                   "category": "landmark",
                   "coords": [
                         -86.088278,
@@ -3881,7 +3881,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Piscina \"El Bongoe\"",
-                  "text": "Nyilvános úszómedence kikapcsolódáshoz Terrabonában.",
+                  "text": "Egy nevezetes uszoda Matagalpában, 'El Bongoe' néven.",
                   "category": "landmark",
                   "coords": [
                         -86.088278,
@@ -3892,7 +3892,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Piscina \"El Bongoe\"",
-                  "text": "O piscină publică pentru recreere în Terrabona.",
+                  "text": "O piscină cunoscută în Matagalpa, numită 'El Bongoe'.",
                   "category": "landmark",
                   "coords": [
                         -86.088278,
@@ -3903,7 +3903,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Piscina \"El Bongoe\"",
-                  "text": "A public swimming pool for recreation in Terrabona.",
+                  "text": "A well-known swimming pool in Matagalpa, called 'El Bongoe'.",
                   "category": "landmark",
                   "coords": [
                         -86.088278,
@@ -3951,7 +3951,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Cerro La Gloria",
-                  "text": "Cerro La Gloria ist ein Gipfel in der bergigen Landschaft von Quilalí.",
+                  "text": "Ein markanter Hügel mit Aussicht in Nueva Segovia.",
                   "category": "natural",
                   "coords": [
                         -86.031672,
@@ -3962,7 +3962,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Cerro La Gloria",
-                  "text": "Cerro La Gloria egy csúcs Quilalí hegyvidéki táján.",
+                  "text": "Egy kiemelkedő domb kilátással Nueva Segoviában.",
                   "category": "natural",
                   "coords": [
                         -86.031672,
@@ -3973,7 +3973,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Cerro La Gloria",
-                  "text": "Cerro La Gloria este un vârf în peisajul montan din Quilalí.",
+                  "text": "Un deal proeminent cu vedere în Nueva Segovia.",
                   "category": "natural",
                   "coords": [
                         -86.031672,
@@ -3984,7 +3984,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Cerro La Gloria",
-                  "text": "Cerro La Gloria is a peak in the mountainous landscape of Quilalí.",
+                  "text": "A prominent hill with views in Nueva Segovia.",
                   "category": "natural",
                   "coords": [
                         -86.031672,
@@ -4104,7 +4104,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Cerro Tungla",
-                  "text": "Cerro Tungla ist ein markanter Berg in der Nähe von Almicamba.",
+                  "text": "Ein bewaldeter Hügel in der Gegend von Almicamba.",
                   "category": "natural",
                   "coords": [
                         -83.799205,
@@ -4115,7 +4115,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Cerro Tungla",
-                  "text": "Cerro Tungla egy jellegzetes hegy Almicamba közelében.",
+                  "text": "Egy erdős domb az Almicamba környékén.",
                   "category": "natural",
                   "coords": [
                         -83.799205,
@@ -4126,7 +4126,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Cerro Tungla",
-                  "text": "Cerro Tungla este un munte proeminent lângă Almicamba.",
+                  "text": "Un deal împădurit în zona Almicamba.",
                   "category": "natural",
                   "coords": [
                         -83.799205,
@@ -4137,7 +4137,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Cerro Tungla",
-                  "text": "Cerro Tungla is a prominent mountain near Almicamba.",
+                  "text": "A forested hill in the Almicamba area.",
                   "category": "natural",
                   "coords": [
                         -83.799205,
@@ -4217,7 +4217,376 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     },
   },
   {
-    id: "corn-island-cities-v2", "sights": {"de": [{"name": "Playa Coco", "text": "Auf Corn Island erstreckt sich dieser traumhafte Sandstrand, der zum Träumen einlädt. Eine friedliche und sonnige Stimmung macht den Ort zu einem Paradies für Reisende. Sonnenanbeter finden hier ausgiebig Platz, um das karibische Flair bei Spaziergängen oder beim Entspannen im Sand zu genießen. Sonnenschutz und ausreichend Wasser sind für einen langen Tag am Meer unverzichtbar.", "category": "recreational", "coords": [-83.067136, 12.169466]}, {"name": "Brig Bay", "text": "Eine malerische Bucht auf Corn Island, ideal für Bootsfahrten.", "category": "landmark", "coords": [-83.066666, 12.172258]}, {"name": "Sand Fly Bay", "text": "Eine natürliche Bucht auf Corn Island, bekannt für ihre Küstenlandschaft.", "category": "landmark", "coords": [-83.052387, 12.185918]}, {"name": "Mount Pleasant Hill", "text": "Der höchste Punkt auf Corn Island mit Panoramablick.", "category": "natural", "coords": [-83.047776, 12.173041]}, {"name": "Long Bay", "text": "Eine weite Bucht auf Corn Island mit türkisfarbenem Wasser.", "category": "landmark", "coords": [-83.045182, 12.163359]}, {"name": "Pyramid (The Soul of the World)", "text": "Ein symbolischer Aussichtspunkt auf Corn Island in Form einer Pyramide.", "category": "natural", "coords": [-83.061336, 12.155178]}, {"name": "Mirador View", "text": "Ein erhöhter Aussichtspunkt mit Blick über die Küste von Corn Island.", "category": "natural", "coords": [-83.046088, 12.172172]}, {"name": "Cliff Point", "text": "Ein Aussichtspunkt an den Klippen von Corn Island.", "category": "natural", "coords": [-83.032578, 12.174534]}, {"name": "Lulu beach", "text": "Dieses beliebte Strandresort auf Corn Island vereint tropische Schönheit mit Urlaubsfreuden. Eine fröhliche, urlaubsähnliche Atmosphäre prägt das Bild dieses Küstenabschnitts. Besucher können im Sand entspannen, die warme Brise genießen und das Inselleben bei entspannten Uferspaziergängen auskosten. Es lohnt sich, rechtzeitig anzukommen, um sich die besten Plätze zum Sonnen zu sichern.", "category": "recreational", "coords": [-83.047046, 12.185656]}, {"name": "Iglesia Nuestra Señora Estrella del Mar", "text": "Eine charmante Kirche auf Corn Island, die der Meeresstern-Madonna gewidmet ist.", "category": "religious", "coords": [-83.061005, 12.181011]}], "hu": [{"name": "Playa Coco", "text": "A Corn Island szigetén húzódó mesés homokos strand álmodozásra csábítja a látogatókat. A békés és napfényes hangulat a helyet az utazók valóságos paradicsomává teszi. A napimádók bőséges helyet találnak itt, hogy sétálva vagy a homokban pihenve élvezzék a karibi életérzést. A naptej és a bőséges vízellátás elengedhetetlen egy hosszú tengerparti naphoz.", "category": "recreational", "coords": [-83.067136, 12.169466]}, {"name": "Brig Bay", "text": "Festői öböl Corn Island szigetén, ideális hajózáshoz.", "category": "landmark", "coords": [-83.066666, 12.172258]}, {"name": "Sand Fly Bay", "text": "Természetes öböl Corn Island szigetén, tengerparti tájáról ismert.", "category": "landmark", "coords": [-83.052387, 12.185918]}, {"name": "Mount Pleasant Hill", "text": "Corn Island legmagasabb pontja, panorámás kilátással.", "category": "natural", "coords": [-83.047776, 12.173041]}, {"name": "Long Bay", "text": "Széles öböl Corn Island szigetén, türkizkék vízzel.", "category": "landmark", "coords": [-83.045182, 12.163359]}, {"name": "Pyramid (The Soul of the World)", "text": "Szimbolikus kilátópont Corn Island szigetén, piramis alakban.", "category": "natural", "coords": [-83.061336, 12.155178]}, {"name": "Mirador View", "text": "Magaslati kilátópont, ahonnan rálátni Corn Island partjaira.", "category": "natural", "coords": [-83.046088, 12.172172]}, {"name": "Cliff Point", "text": "Kilátópont Corn Island szikláinál.", "category": "natural", "coords": [-83.032578, 12.174534]}, {"name": "Lulu beach", "text": "Ez a népszerű tengerparti üdülőhely Corn Island szigetén egyesíti a trópusi szépséget a nyaralás örömeivel. Vidám, nyaralós hangulat jellemzi ezt a partszakaszt. A látogatók pihenhetnek a homokban, élvezhetik a meleg szellőt, és megtapasztalhatják a szigeti életet a nyugodt parti séták során. Érdemes időben érkezni, hogy biztosítsuk a legjobb helyeket a napozáshoz.", "category": "recreational", "coords": [-83.047046, 12.185656]}, {"name": "Iglesia Nuestra Señora Estrella del Mar", "text": "Bájos templom Corn Island szigetén, amelyet a Tenger Csillaga Madonnának szenteltek.", "category": "religious", "coords": [-83.061005, 12.181011]}], "ro": [{"name": "Playa Coco", "text": "Pe Insula Corn se întinde această plajă de nisip de vis, care te invită să visezi cu ochii deschiși. O atmosferă pașnică și însorită face din acest loc un paradis pentru călători. Iubitorii de soare vor găsi aici spațiu amplu pentru a se bucura de flerul caraibian făcând plimbări sau relaxându-se pe nisip. Protecția solară și apa din belșug sunt esențiale pentru o zi lungă la malul mării.", "category": "recreational", "coords": [-83.067136, 12.169466]}, {"name": "Brig Bay", "text": "Un golf pitoresc pe Corn Island, ideal pentru plimbări cu barca.", "category": "landmark", "coords": [-83.066666, 12.172258]}, {"name": "Sand Fly Bay", "text": "Un golf natural pe Corn Island, cunoscut pentru peisajul său de coastă.", "category": "landmark", "coords": [-83.052387, 12.185918]}, {"name": "Mount Pleasant Hill", "text": "Cel mai înalt punct de pe Corn Island, oferind vedere panoramică.", "category": "natural", "coords": [-83.047776, 12.173041]}, {"name": "Long Bay", "text": "Un golf larg pe Corn Island, cu ape turcoaz.", "category": "landmark", "coords": [-83.045182, 12.163359]}, {"name": "Pyramid (The Soul of the World)", "text": "Un punct de belvedere simbolic pe Corn Island, sub formă de piramidă.", "category": "natural", "coords": [-83.061336, 12.155178]}, {"name": "Mirador View", "text": "Un punct de observație ridicat cu vedere la coasta insulei Corn Island.", "category": "natural", "coords": [-83.046088, 12.172172]}, {"name": "Cliff Point", "text": "Un punct de belvedere situat pe stâncile de pe Corn Island.", "category": "natural", "coords": [-83.032578, 12.174534]}, {"name": "Lulu beach", "text": "Acest resort de plajă popular de pe Insula Corn combină frumusețea tropicală cu bucuriile vacanței. O atmosferă veselă, de vacanță, caracterizează imaginea acestei porțiuni de coastă. Vizitatorii se pot relaxa pe nisip, se pot bucura de briza caldă și pot experimenta viața de insulă în timpul plimbărilor relaxante pe țărm. Merită să ajungeți la timp pentru a vă asigura cele mai bune locuri pentru plajă.", "category": "recreational", "coords": [-83.047046, 12.185656]}, {"name": "Iglesia Nuestra Señora Estrella del Mar", "text": "O biserică fermecătoare pe Corn Island, dedicată Maicii Domnului Steaua Mării.", "category": "religious", "coords": [-83.061005, 12.181011]}], "en": [{"name": "Playa Coco", "text": "Stretching across Corn Island, this dreamy sandy beach invites visitors to lose themselves in reverie. A peaceful and sunny atmosphere makes the location a true paradise for travelers. Sun worshippers will find ample space here to enjoy the Caribbean flair while taking walks or relaxing on the sand. Sun protection and plenty of water are essential for a long day by the sea.", "category": "recreational", "coords": [-83.067136, 12.169466]}, {"name": "Brig Bay", "text": "A picturesque bay on Corn Island, ideal for boating.", "category": "landmark", "coords": [-83.066666, 12.172258]}, {"name": "Sand Fly Bay", "text": "A natural bay on Corn Island known for its coastal scenery.", "category": "landmark", "coords": [-83.052387, 12.185918]}, {"name": "Mount Pleasant Hill", "text": "The highest point on Corn Island, offering panoramic views.", "category": "natural", "coords": [-83.047776, 12.173041]}, {"name": "Long Bay", "text": "A wide bay on Corn Island with turquoise waters.", "category": "landmark", "coords": [-83.045182, 12.163359]}, {"name": "Pyramid (The Soul of the World)", "text": "A symbolic viewpoint on Corn Island in the shape of a pyramid.", "category": "natural", "coords": [-83.061336, 12.155178]}, {"name": "Mirador View", "text": "An elevated viewpoint overlooking the coast of Corn Island.", "category": "natural", "coords": [-83.046088, 12.172172]}, {"name": "Cliff Point", "text": "A viewpoint located on the cliffs of Corn Island.", "category": "natural", "coords": [-83.032578, 12.174534]}, {"name": "Lulu beach", "text": "This popular beach resort on Corn Island combines tropical beauty with holiday joys. A cheerful, vacation-like atmosphere shapes the image of this stretch of coastline. Visitors can relax on the sand, enjoy the warm breeze, and experience island life during relaxed shorefront walks. It is well worth arriving early to secure the best spots for sunbathing.", "category": "recreational", "coords": [-83.047046, 12.185656]}, {"name": "Our Lady Star of the Sea Church", "text": "A charming church on Corn Island dedicated to Our Lady Star of the Sea.", "category": "religious", "coords": [-83.061005, 12.181011]}]},
+    id: "corn-island-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playa Coco",
+                  "text": "Auf Corn Island erstreckt sich dieser traumhafte Sandstrand, der zum Träumen einlädt. Eine friedliche und sonnige Stimmung macht den Ort zu einem Paradies für Reisende. Sonnenanbeter finden hier ausgiebig Platz, um das karibische Flair bei Spaziergängen oder beim Entspannen im Sand zu genießen. Sonnenschutz und ausreichend Wasser sind für einen langen Tag am Meer unverzichtbar.",
+                  "category": "recreational",
+                  "coords": [
+                        -83.067136,
+                        12.169466
+                  ]
+            },
+            {
+                  "name": "Brig Bay",
+                  "text": "Eine malerische Bucht auf der Insel mit ruhigem Wasser.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.066666,
+                        12.172258
+                  ]
+            },
+            {
+                  "name": "Sand Fly Bay",
+                  "text": "Eine natürliche Bucht auf Corn Island, bekannt für ihre Küstenlandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.052387,
+                        12.185918
+                  ]
+            },
+            {
+                  "name": "Mount Pleasant Hill",
+                  "text": "Der höchste Punkt auf Corn Island mit Panoramablick.",
+                  "category": "natural",
+                  "coords": [
+                        -83.047776,
+                        12.173041
+                  ]
+            },
+            {
+                  "name": "Long Bay",
+                  "text": "Ein langer Sandstrand auf der Insel, beliebt zum Schwimmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.045182,
+                        12.163359
+                  ]
+            },
+            {
+                  "name": "Pyramid (The Soul of the World)",
+                  "text": "Ein symbolischer Aussichtspunkt auf Corn Island in Form einer Pyramide.",
+                  "category": "natural",
+                  "coords": [
+                        -83.061336,
+                        12.155178
+                  ]
+            },
+            {
+                  "name": "Mirador View",
+                  "text": "Ein erhöhter Aussichtspunkt mit Blick über die Küste von Corn Island.",
+                  "category": "natural",
+                  "coords": [
+                        -83.046088,
+                        12.172172
+                  ]
+            },
+            {
+                  "name": "Cliff Point",
+                  "text": "Ein natürlicher Klippenpunkt an der Küste der Insel mit Panoramablick.",
+                  "category": "natural",
+                  "coords": [
+                        -83.032578,
+                        12.174534
+                  ]
+            },
+            {
+                  "name": "Lulu beach",
+                  "text": "Dieses beliebte Strandresort auf Corn Island vereint tropische Schönheit mit Urlaubsfreuden. Eine fröhliche, urlaubsähnliche Atmosphäre prägt das Bild dieses Küstenabschnitts. Besucher können im Sand entspannen, die warme Brise genießen und das Inselleben bei entspannten Uferspaziergängen auskosten. Es lohnt sich, rechtzeitig anzukommen, um sich die besten Plätze zum Sonnen zu sichern.",
+                  "category": "recreational",
+                  "coords": [
+                        -83.047046,
+                        12.185656
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora Estrella del Mar",
+                  "text": "Eine charmante Kirche auf Corn Island, die der Meeresstern-Madonna gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -83.061005,
+                        12.181011
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa Coco",
+                  "text": "A Corn Island szigetén húzódó mesés homokos strand álmodozásra csábítja a látogatókat. A békés és napfényes hangulat a helyet az utazók valóságos paradicsomává teszi. A napimádók bőséges helyet találnak itt, hogy sétálva vagy a homokban pihenve élvezzék a karibi életérzést. A naptej és a bőséges vízellátás elengedhetetlen egy hosszú tengerparti naphoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -83.067136,
+                        12.169466
+                  ]
+            },
+            {
+                  "name": "Brig Bay",
+                  "text": "Egy festői öböl a szigeten, nyugodt vizekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.066666,
+                        12.172258
+                  ]
+            },
+            {
+                  "name": "Sand Fly Bay",
+                  "text": "Természetes öböl Corn Island szigetén, tengerparti tájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.052387,
+                        12.185918
+                  ]
+            },
+            {
+                  "name": "Mount Pleasant Hill",
+                  "text": "Corn Island legmagasabb pontja, panorámás kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        -83.047776,
+                        12.173041
+                  ]
+            },
+            {
+                  "name": "Long Bay",
+                  "text": "Egy hosszú homokos strand a szigeten, népszerű fürdőzésre.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.045182,
+                        12.163359
+                  ]
+            },
+            {
+                  "name": "Pyramid (The Soul of the World)",
+                  "text": "Szimbolikus kilátópont Corn Island szigetén, piramis alakban.",
+                  "category": "natural",
+                  "coords": [
+                        -83.061336,
+                        12.155178
+                  ]
+            },
+            {
+                  "name": "Mirador View",
+                  "text": "Magaslati kilátópont, ahonnan rálátni Corn Island partjaira.",
+                  "category": "natural",
+                  "coords": [
+                        -83.046088,
+                        12.172172
+                  ]
+            },
+            {
+                  "name": "Cliff Point",
+                  "text": "Egy természetes sziklafok a sziget partján, panorámás kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        -83.032578,
+                        12.174534
+                  ]
+            },
+            {
+                  "name": "Lulu beach",
+                  "text": "Ez a népszerű tengerparti üdülőhely Corn Island szigetén egyesíti a trópusi szépséget a nyaralás örömeivel. Vidám, nyaralós hangulat jellemzi ezt a partszakaszt. A látogatók pihenhetnek a homokban, élvezhetik a meleg szellőt, és megtapasztalhatják a szigeti életet a nyugodt parti séták során. Érdemes időben érkezni, hogy biztosítsuk a legjobb helyeket a napozáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -83.047046,
+                        12.185656
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora Estrella del Mar",
+                  "text": "Bájos templom Corn Island szigetén, amelyet a Tenger Csillaga Madonnának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -83.061005,
+                        12.181011
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa Coco",
+                  "text": "Pe Insula Corn se întinde această plajă de nisip de vis, care te invită să visezi cu ochii deschiși. O atmosferă pașnică și însorită face din acest loc un paradis pentru călători. Iubitorii de soare vor găsi aici spațiu amplu pentru a se bucura de flerul caraibian făcând plimbări sau relaxându-se pe nisip. Protecția solară și apa din belșug sunt esențiale pentru o zi lungă la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        -83.067136,
+                        12.169466
+                  ]
+            },
+            {
+                  "name": "Brig Bay",
+                  "text": "Un golf pitoresc pe insulă, cu ape liniștite.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.066666,
+                        12.172258
+                  ]
+            },
+            {
+                  "name": "Sand Fly Bay",
+                  "text": "Un golf natural pe Corn Island, cunoscut pentru peisajul său de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.052387,
+                        12.185918
+                  ]
+            },
+            {
+                  "name": "Mount Pleasant Hill",
+                  "text": "Cel mai înalt punct de pe Corn Island, oferind vedere panoramică.",
+                  "category": "natural",
+                  "coords": [
+                        -83.047776,
+                        12.173041
+                  ]
+            },
+            {
+                  "name": "Long Bay",
+                  "text": "O plajă lungă cu nisip pe insulă, populară pentru înot.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.045182,
+                        12.163359
+                  ]
+            },
+            {
+                  "name": "Pyramid (The Soul of the World)",
+                  "text": "Un punct de belvedere simbolic pe Corn Island, sub formă de piramidă.",
+                  "category": "natural",
+                  "coords": [
+                        -83.061336,
+                        12.155178
+                  ]
+            },
+            {
+                  "name": "Mirador View",
+                  "text": "Un punct de observație ridicat cu vedere la coasta insulei Corn Island.",
+                  "category": "natural",
+                  "coords": [
+                        -83.046088,
+                        12.172172
+                  ]
+            },
+            {
+                  "name": "Cliff Point",
+                  "text": "Un punct stâncos natural pe coasta insulei, cu vedere panoramică.",
+                  "category": "natural",
+                  "coords": [
+                        -83.032578,
+                        12.174534
+                  ]
+            },
+            {
+                  "name": "Lulu beach",
+                  "text": "Acest resort de plajă popular de pe Insula Corn combină frumusețea tropicală cu bucuriile vacanței. O atmosferă veselă, de vacanță, caracterizează imaginea acestei porțiuni de coastă. Vizitatorii se pot relaxa pe nisip, se pot bucura de briza caldă și pot experimenta viața de insulă în timpul plimbărilor relaxante pe țărm. Merită să ajungeți la timp pentru a vă asigura cele mai bune locuri pentru plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        -83.047046,
+                        12.185656
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora Estrella del Mar",
+                  "text": "O biserică fermecătoare pe Corn Island, dedicată Maicii Domnului Steaua Mării.",
+                  "category": "religious",
+                  "coords": [
+                        -83.061005,
+                        12.181011
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Playa Coco",
+                  "text": "Stretching across Corn Island, this dreamy sandy beach invites visitors to lose themselves in reverie. A peaceful and sunny atmosphere makes the location a true paradise for travelers. Sun worshippers will find ample space here to enjoy the Caribbean flair while taking walks or relaxing on the sand. Sun protection and plenty of water are essential for a long day by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        -83.067136,
+                        12.169466
+                  ]
+            },
+            {
+                  "name": "Brig Bay",
+                  "text": "A scenic bay on the island with calm waters.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.066666,
+                        12.172258
+                  ]
+            },
+            {
+                  "name": "Sand Fly Bay",
+                  "text": "A natural bay on Corn Island known for its coastal scenery.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.052387,
+                        12.185918
+                  ]
+            },
+            {
+                  "name": "Mount Pleasant Hill",
+                  "text": "The highest point on Corn Island, offering panoramic views.",
+                  "category": "natural",
+                  "coords": [
+                        -83.047776,
+                        12.173041
+                  ]
+            },
+            {
+                  "name": "Long Bay",
+                  "text": "A long sandy beach on the island, popular for swimming.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.045182,
+                        12.163359
+                  ]
+            },
+            {
+                  "name": "Pyramid (The Soul of the World)",
+                  "text": "A symbolic viewpoint on Corn Island in the shape of a pyramid.",
+                  "category": "natural",
+                  "coords": [
+                        -83.061336,
+                        12.155178
+                  ]
+            },
+            {
+                  "name": "Mirador View",
+                  "text": "An elevated viewpoint overlooking the coast of Corn Island.",
+                  "category": "natural",
+                  "coords": [
+                        -83.046088,
+                        12.172172
+                  ]
+            },
+            {
+                  "name": "Cliff Point",
+                  "text": "A natural cliff point on the island's coast with panoramic views.",
+                  "category": "natural",
+                  "coords": [
+                        -83.032578,
+                        12.174534
+                  ]
+            },
+            {
+                  "name": "Lulu beach",
+                  "text": "This popular beach resort on Corn Island combines tropical beauty with holiday joys. A cheerful, vacation-like atmosphere shapes the image of this stretch of coastline. Visitors can relax on the sand, enjoy the warm breeze, and experience island life during relaxed shorefront walks. It is well worth arriving early to secure the best spots for sunbathing.",
+                  "category": "recreational",
+                  "coords": [
+                        -83.047046,
+                        12.185656
+                  ]
+            },
+            {
+                  "name": "Our Lady Star of the Sea Church",
+                  "text": "A charming church on Corn Island dedicated to Our Lady Star of the Sea.",
+                  "category": "religious",
+                  "coords": [
+                        -83.061005,
+                        12.181011
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NI-AS",
     coords: [-83.04, 12.17],

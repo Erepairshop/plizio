@@ -223,7 +223,7 @@ export const italyNatureV2: POI[] = [
             },
             {
                   "name": "Museo del Calcio",
-                  "text": "Ein Museum, das der Geschichte des Fußballs gewidmet ist.",
+                  "text": "Fußballmuseum am Ufer der Etsch mit italienischen Fußballmemorabilien.",
                   "category": "museum",
                   "coords": [
                         12.278283,
@@ -241,7 +241,7 @@ export const italyNatureV2: POI[] = [
             },
             {
                   "name": "Astoria Village",
-                  "text": "Ein Vergnügungspark in der Nähe des Flusses und der Küste.",
+                  "text": "Freizeitdorf am Ufer der Etsch mit Camping und Sportanlagen.",
                   "category": "recreational",
                   "coords": [
                         12.295684,
@@ -250,7 +250,7 @@ export const italyNatureV2: POI[] = [
             },
             {
                   "name": "Torre delle Bebbe",
-                  "text": "Mittelalterliche Ruinen eines Verteidigungsturms.",
+                  "text": "Mittelalterlicher Turm am Fluss Adige in der Region Venetien.",
                   "category": "historical",
                   "coords": [
                         12.237419,
@@ -259,7 +259,7 @@ export const italyNatureV2: POI[] = [
             },
             {
                   "name": "Lido del Carabiniere",
-                  "text": "Eine Strandanlage und ein Erholungsgebiet.",
+                  "text": "Strandclub an der Etsch, benannt nach den Carabinieri.",
                   "category": "recreational",
                   "coords": [
                         12.30141,
@@ -268,7 +268,7 @@ export const italyNatureV2: POI[] = [
             },
             {
                   "name": "Bagni Tamerici",
-                  "text": "Ein Badeort mit Stranddienstleistungen.",
+                  "text": "Historisches öffentliches Bad an den Ufern der Etsch.",
                   "category": "recreational",
                   "coords": [
                         12.325481,
@@ -340,7 +340,7 @@ export const italyNatureV2: POI[] = [
             },
             {
                   "name": "Piscine Clodia",
-                  "text": "Eine Schwimmbadanlage in der Nähe der Etsch (Adige).",
+                  "text": "Freibäder entlang der Etsch.",
                   "category": "recreational",
                   "coords": [
                         12.296342,
@@ -369,7 +369,7 @@ export const italyNatureV2: POI[] = [
             },
             {
                   "name": "Museo del Calcio",
-                  "text": "A futball történetének szentelt múzeum.",
+                  "text": "Labdarúgó-múzeum az Adige folyó partján, olasz futball emléktárgyakkal.",
                   "category": "museum",
                   "coords": [
                         12.278283,
@@ -387,7 +387,7 @@ export const italyNatureV2: POI[] = [
             },
             {
                   "name": "Astoria Village",
-                  "text": "Vidámpark a folyó és a tengerpart közelében.",
+                  "text": "Üdülőfalu az Adige partján, kempingezési és sportolási lehetőségekkel.",
                   "category": "recreational",
                   "coords": [
                         12.295684,
@@ -396,7 +396,7 @@ export const italyNatureV2: POI[] = [
             },
             {
                   "name": "Torre delle Bebbe",
-                  "text": "Egy védőtorony középkori romjai.",
+                  "text": "Középkori torony az Adige folyónál, Veneto régióban.",
                   "category": "historical",
                   "coords": [
                         12.237419,
@@ -405,7 +405,7 @@ export const italyNatureV2: POI[] = [
             },
             {
                   "name": "Lido del Carabiniere",
-                  "text": "Strandlétesítmény és üdülőhely.",
+                  "text": "Strandklub az Adige folyón, a karabinierikről elnevezve.",
                   "category": "recreational",
                   "coords": [
                         12.30141,
@@ -414,7 +414,7 @@ export const italyNatureV2: POI[] = [
             },
             {
                   "name": "Bagni Tamerici",
-                  "text": "Strandfürdő és üdülőhely.",
+                  "text": "Történelmi nyilvános fürdő az Adige partján.",
                   "category": "recreational",
                   "coords": [
                         12.325481,
@@ -486,7 +486,7 @@ export const italyNatureV2: POI[] = [
             },
             {
                   "name": "Piscine Clodia",
-                  "text": "Az Adige-folyó közelében található úszómedence.",
+                  "text": "Szabadtéri medencék az Adige folyó mentén.",
                   "category": "recreational",
                   "coords": [
                         12.296342,
@@ -515,7 +515,7 @@ export const italyNatureV2: POI[] = [
             },
             {
                   "name": "Museo del Calcio",
-                  "text": "Un muzeu dedicat istoriei fotbalului.",
+                  "text": "Muzeu de fotbal pe malul râului Adige, cu memorabilia fotbalistică italiană.",
                   "category": "museum",
                   "coords": [
                         12.278283,
@@ -533,7 +533,7 @@ export const italyNatureV2: POI[] = [
             },
             {
                   "name": "Astoria Village",
-                  "text": "Un parc de distracții situat lângă râu și coastă.",
+                  "text": "Sat de vacanță pe malul râului Adige, cu camping și facilități sportive.",
                   "category": "recreational",
                   "coords": [
                         12.295684,
@@ -542,7 +542,7 @@ export const italyNatureV2: POI[] = [
             },
             {
                   "name": "Torre delle Bebbe",
-                  "text": "Ruinele medievale ale unui turn de apărare.",
+                  "text": "Turn medieval pe râul Adige în regiunea Veneto.",
                   "category": "historical",
                   "coords": [
                         12.237419,
@@ -551,7 +551,7 @@ export const italyNatureV2: POI[] = [
             },
             {
                   "name": "Lido del Carabiniere",
-                  "text": "O facilitate de plajă și zonă de agrement.",
+                  "text": "Plajă club pe râul Adige, numită după carabinieri.",
                   "category": "recreational",
                   "coords": [
                         12.30141,
@@ -560,7 +560,7 @@ export const italyNatureV2: POI[] = [
             },
             {
                   "name": "Bagni Tamerici",
-                  "text": "O stațiune balneară care oferă servicii de plajă.",
+                  "text": "Baie publică istorică pe malurile râului Adige.",
                   "category": "recreational",
                   "coords": [
                         12.325481,
@@ -632,7 +632,7 @@ export const italyNatureV2: POI[] = [
             },
             {
                   "name": "Piscine Clodia",
-                  "text": "O facilitate cu piscină situată lângă râul Adige.",
+                  "text": "Piscine în aer liber de-a lungul râului Adige.",
                   "category": "recreational",
                   "coords": [
                         12.296342,
@@ -661,7 +661,7 @@ export const italyNatureV2: POI[] = [
             },
             {
                   "name": "Museo del Calcio",
-                  "text": "A museum dedicated to the history of football.",
+                  "text": "Football museum on the Adige River featuring Italian football memorabilia.",
                   "category": "museum",
                   "coords": [
                         12.278283,
@@ -679,7 +679,7 @@ export const italyNatureV2: POI[] = [
             },
             {
                   "name": "Astoria Village",
-                  "text": "An amusement park located near the river and coast.",
+                  "text": "Riverside recreational village on the Adige with camping and sports facilities.",
                   "category": "recreational",
                   "coords": [
                         12.295684,
@@ -688,7 +688,7 @@ export const italyNatureV2: POI[] = [
             },
             {
                   "name": "Torre delle Bebbe",
-                  "text": "Medieval ruins of a defensive tower.",
+                  "text": "Medieval tower on the Adige River in the Veneto region.",
                   "category": "historical",
                   "coords": [
                         12.237419,
@@ -697,7 +697,7 @@ export const italyNatureV2: POI[] = [
             },
             {
                   "name": "Lido del Carabiniere",
-                  "text": "A beach facility and resort area.",
+                  "text": "Beach club on the Adige River named after the Carabinieri.",
                   "category": "recreational",
                   "coords": [
                         12.30141,
@@ -706,7 +706,7 @@ export const italyNatureV2: POI[] = [
             },
             {
                   "name": "Bagni Tamerici",
-                  "text": "A seaside resort offering beach services.",
+                  "text": "Historic public baths on the banks of the Adige River.",
                   "category": "recreational",
                   "coords": [
                         12.325481,
@@ -778,7 +778,7 @@ export const italyNatureV2: POI[] = [
             },
             {
                   "name": "Piscine Clodia",
-                  "text": "A swimming pool facility located near the Adige River.",
+                  "text": "Outdoor swimming pools along the Adige River.",
                   "category": "recreational",
                   "coords": [
                         12.296342,
@@ -1177,7 +1177,7 @@ export const italyNatureV2: POI[] = [
       "de": [
             {
                   "name": "Messner Mountain Museum Ortles",
-                  "text": "Ein Museum, das dem Eis und der Welt der Gletscher gewidmet ist.",
+                  "text": "Bergmuseum am Ortles im Stilfser-Joch-Nationalpark.",
                   "category": "museum",
                   "coords": [
                         10.579246,
@@ -1251,7 +1251,7 @@ export const italyNatureV2: POI[] = [
       "hu": [
             {
                   "name": "Messner Mountain Museum Ortles",
-                  "text": "A jégnek és a gleccserek világának szentelt múzeum.",
+                  "text": "Hegyi múzeum az Ortlesnél a Stelvio Nemzeti Parkban.",
                   "category": "museum",
                   "coords": [
                         10.579246,
@@ -1325,7 +1325,7 @@ export const italyNatureV2: POI[] = [
       "ro": [
             {
                   "name": "Messner Mountain Museum Ortles",
-                  "text": "Un muzeu dedicat gheții și lumii ghețarilor.",
+                  "text": "Muzeu montan la Ortles în Parcul Național Stelvio.",
                   "category": "museum",
                   "coords": [
                         10.579246,
@@ -1399,7 +1399,7 @@ export const italyNatureV2: POI[] = [
       "en": [
             {
                   "name": "Messner Mountain Museum Ortles",
-                  "text": "A museum dedicated to ice and the world of glaciers.",
+                  "text": "Mountain museum at Ortles in Stelvio National Park.",
                   "category": "museum",
                   "coords": [
                         10.579246,
@@ -1870,7 +1870,7 @@ export const italyNatureV2: POI[] = [
             },
             {
                   "name": "45° Parallelo",
-                  "text": "Ein Markierungspunkt des 45. Breitengrades am Po.",
+                  "text": "Denkmal, das den 45. Breitengrad in der Po-Ebene markiert.",
                   "category": "landmark",
                   "coords": [
                         12.42358,
@@ -1879,7 +1879,7 @@ export const italyNatureV2: POI[] = [
             },
             {
                   "name": "chiesa della Beata Vergine del Rosario",
-                  "text": "Ein sakrales Bauwerk am Po.",
+                  "text": "Kirche der seligen Jungfrau vom Rosenkranz am Po-Fluss.",
                   "category": "religious",
                   "coords": [
                         12.413398,
@@ -1899,7 +1899,7 @@ export const italyNatureV2: POI[] = [
             },
             {
                   "name": "45° Parallelo",
-                  "text": "A 45. szélességi kört jelző pont a Pó folyónál.",
+                  "text": "A 45. szélességi fokot jelző emlékmű a Pó-síkságon.",
                   "category": "landmark",
                   "coords": [
                         12.42358,
@@ -1908,7 +1908,7 @@ export const italyNatureV2: POI[] = [
             },
             {
                   "name": "chiesa della Beata Vergine del Rosario",
-                  "text": "Egy vallási helyszín a Pó folyónál.",
+                  "text": "A Rózsafüzér Királynője temploma a Pó folyónál.",
                   "category": "religious",
                   "coords": [
                         12.413398,
@@ -1928,7 +1928,7 @@ export const italyNatureV2: POI[] = [
             },
             {
                   "name": "45° Parallelo",
-                  "text": "Un punct ce marchează paralela 45 pe râul Po.",
+                  "text": "Monument care marchează paralela 45° nordică pe câmpia râului Po.",
                   "category": "landmark",
                   "coords": [
                         12.42358,
@@ -1937,7 +1937,7 @@ export const italyNatureV2: POI[] = [
             },
             {
                   "name": "chiesa della Beata Vergine del Rosario",
-                  "text": "Un lăcaș de cult situat lângă râul Po.",
+                  "text": "Biserica Sfintei Fecioare a Rozariului pe râul Po.",
                   "category": "religious",
                   "coords": [
                         12.413398,
@@ -1957,7 +1957,7 @@ export const italyNatureV2: POI[] = [
             },
             {
                   "name": "45° Parallelo",
-                  "text": "A point marking the 45th parallel on the Po River.",
+                  "text": "Monument marking the 45th parallel north on the Po River plain.",
                   "category": "landmark",
                   "coords": [
                         12.42358,
@@ -1966,7 +1966,7 @@ export const italyNatureV2: POI[] = [
             },
             {
                   "name": "chiesa della Beata Vergine del Rosario",
-                  "text": "A place of worship located by the Po River.",
+                  "text": "Church of the Blessed Virgin of the Rosary on the Po River.",
                   "category": "religious",
                   "coords": [
                         12.413398,

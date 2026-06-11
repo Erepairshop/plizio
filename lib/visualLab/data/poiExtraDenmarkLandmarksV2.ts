@@ -277,7 +277,7 @@ export const denmarkLandmarksV2: POI[] = [
             },
             {
                   "name": "Grønhøj",
-                  "text": "Ein antiker Grabhügel in der Region Mariager Fjord.",
+                  "text": "Ein grüner Grabhügel nahe der Abteikirche Mariager.",
                   "category": "historical",
                   "coords": [
                         9.986189,
@@ -351,7 +351,7 @@ export const denmarkLandmarksV2: POI[] = [
             },
             {
                   "name": "Grønhøj",
-                  "text": "Ősi sírhalom a Mariager-fjord régiójában.",
+                  "text": "Egy zöld temetkezési halom a mariageri apátsági templom közelében.",
                   "category": "historical",
                   "coords": [
                         9.986189,
@@ -425,7 +425,7 @@ export const denmarkLandmarksV2: POI[] = [
             },
             {
                   "name": "Grønhøj",
-                  "text": "Un tumul antic situat în regiunea fiordului Mariager.",
+                  "text": "Un movilă funerară verde lângă Biserica Abației Mariager.",
                   "category": "historical",
                   "coords": [
                         9.986189,
@@ -499,7 +499,7 @@ export const denmarkLandmarksV2: POI[] = [
             },
             {
                   "name": "Grønhøj",
-                  "text": "An ancient burial mound in the Mariager Fjord region.",
+                  "text": "A green burial mound near Mariager Abbey Church.",
                   "category": "historical",
                   "coords": [
                         9.986189,

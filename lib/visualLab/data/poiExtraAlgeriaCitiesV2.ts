@@ -36,7 +36,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Musée National Ahmed Zabana",
-                  "text": "Das Nationalmuseum Ahmed Zabana ist ein bemerkenswertes Museum in Oran mit vielfältigen Exponaten.",
+                  "text": "Museum mit Sammlungen algerischer Kunst und Archäologie.",
                   "category": "museum",
                   "coords": [
                         -0.645004,
@@ -54,7 +54,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "porte canastel",
-                  "text": "Porte Canastel ist eine Burganlage in der Stadt Oran.",
+                  "text": "Ein historisches Tor in Oran, Teil der alten spanischen Befestigungsanlagen.",
                   "category": "castle",
                   "coords": [
                         -0.652522,
@@ -63,7 +63,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musée d'art moderne d'Oran",
-                  "text": "Das Musée d'art moderne d'Oran ist ein Museum für moderne Kunst in Oran.",
+                  "text": "Ein Museum für moderne Kunst in Oran mit zeitgenössischer algerischer Kunst.",
                   "category": "museum",
                   "coords": [
                         -0.64588,
@@ -72,7 +72,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Fort Santiago",
-                  "text": "Fort Santiago ist eine historische Burganlage in Oran.",
+                  "text": "Eine spanische Festung aus dem 16. Jahrhundert mit Blick auf den Hafen von Oran.",
                   "category": "castle",
                   "coords": [
                         -0.660111,
@@ -81,7 +81,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Parc d'attraction Djanat El Ahlam",
-                  "text": "Der Vergnügungspark Djanat El Ahlam bietet Unterhaltung in Oran.",
+                  "text": "Ein Vergnügungspark in Oran mit Fahrgeschäften, Gärten und einem See.",
                   "category": "family",
                   "coords": [
                         -0.634312,
@@ -90,7 +90,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musée du Moudjahid",
-                  "text": "Das Musée du Moudjahid ist ein lokales Museum in Oran.",
+                  "text": "Ein Museum, das dem algerischen Unabhängigkeitskrieg gewidmet ist, im Stadtteil Saint-Charles in Oran.",
                   "category": "museum",
                   "coords": [
                         -0.603384,
@@ -99,7 +99,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Théâtre Régional Abdelkader Alloula",
-                  "text": "Das Regionaltheater Abdelkader Alloula ist ein kultureller Veranstaltungsort für darstellende Kunst in Oran.",
+                  "text": "Ein nach dem algerischen Dramatiker Abdelkader Alloula benanntes Theater, in dem Theaterstücke und Konzerte stattfinden.",
                   "category": "cultural",
                   "coords": [
                         -0.650245,
@@ -108,7 +108,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Théâtre de verdure Hasni",
-                  "text": "Das Théâtre de verdure Hasni ist ein Freilichttheater in der Stadt Oran.",
+                  "text": "Ein Freilichttheater, benannt nach dem Raï-Sänger Hasni, in einem Park in Oran.",
                   "category": "cultural",
                   "coords": [
                         -0.645374,
@@ -117,7 +117,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Fort Saint André",
-                  "text": "Fort Saint André ist eine Burg und historische Festung in Oran.",
+                  "text": "Ein spanisches Fort aus dem 18. Jahrhundert auf einem Hügel mit Blick auf Oran.",
                   "category": "castle",
                   "coords": [
                         -0.652845,
@@ -126,7 +126,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Zoo d'Oran",
-                  "text": "Der Zoo d'Oran ist ein zoologischer Garten in Oran.",
+                  "text": "Ein kleiner Zoo in Oran mit einheimischen und afrikanischen Tieren und einem Kinderspielplatz.",
                   "category": "family",
                   "coords": [
                         -0.646716,
@@ -135,7 +135,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Medina Jdida (Neue Stadt)",
-                  "text": "Die Medina Jdida (Neue Stadt) ist ein markantes Denkmal und ein Viertel in Oran.",
+                  "text": "Das französische Kolonialviertel aus dem 19. Jahrhundert in Oran mit Arkadenstraßen und einem zentralen Platz.",
                   "category": "historical",
                   "coords": [
                         -0.64732,
@@ -153,7 +153,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Saidan",
-                  "text": "Saidan ist eine Touristenattraktion in der Stadt Oran.",
+                  "text": "Ein markantes Denkmal im Stadtzentrum von Oran, das Saidan-Denkmal.",
                   "category": "landmark",
                   "coords": [
                         -0.651908,
@@ -162,7 +162,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Kulturvereinigung Numidia",
-                  "text": "Die Kulturvereinigung Numidia ist ein Kunstzentrum in Oran.",
+                  "text": "Ein Kulturzentrum in Oran, das das numidische Erbe durch Veranstaltungen und Ausstellungen fördert.",
                   "category": "cultural",
                   "coords": [
                         -0.640795,
@@ -171,7 +171,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Ahmed Wahbi Konservatorium",
-                  "text": "Das Ahmed Wahbi Konservatorium ist ein wichtiges Kunst- und Musikzentrum in Oran.",
+                  "text": "Ein Musikkonservatorium in Oran, benannt nach dem Sänger Ahmed Wahbi, das junge Musiker ausbildet.",
                   "category": "cultural",
                   "coords": [
                         -0.644713,
@@ -180,7 +180,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Palais de la Culture et des arts d'Oran",
-                  "text": "Der Palais de la Culture et des arts d'Oran ist ein bedeutendes Kunstzentrum in Oran.",
+                  "text": "Ein großes Kulturzentrum in Oran mit Kunstausstellungen, Theater und Konzerten.",
                   "category": "cultural",
                   "coords": [
                         -0.647799,
@@ -189,7 +189,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Association Santé Sidi El Houari (SDH) \"L'école de la citoyenneté\"",
-                  "text": "Die Association Santé Sidi El Houari (SDH) ist ein Kunst- und Gemeindezentrum in Oran.",
+                  "text": "Eine Gemeinschaftsorganisation im Stadtteil Sidi El Houari in Oran mit Schwerpunkt auf Gesundheit und Bürgerbildung.",
                   "category": "cultural",
                   "coords": [
                         -0.654223,
@@ -198,7 +198,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Mosquée Abdelhamid Ben Badis",
-                  "text": "Die Moschee von Abdelhamid Ibn Badis ist ein bedeutendes Gotteshaus in Oran.",
+                  "text": "Große Moschee mit einem markanten Minarett.",
                   "category": "religious",
                   "coords": [
                         -0.606427,
@@ -207,7 +207,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Mosquée Abdallah Ibn Salam",
-                  "text": "Die Abdallah Ibn Salam Moschee ist eine Stätte des Kulturerbes in Oran.",
+                  "text": "Eine Moschee in Oran, benannt nach dem jüdischen Konvertiten Abdallah Ibn Salam, in der Altstadt gelegen.",
                   "category": "landmark",
                   "coords": [
                         -0.650028,
@@ -218,7 +218,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Musée National Ahmed Zabana",
-                  "text": "Az Ahmed Zabana Nemzeti Múzeum egy jelentős múzeum Oránban, amely változatos kiállításokat mutat be.",
+                  "text": "Múzeum algériai művészeti és régészeti gyűjteményekkel.",
                   "category": "museum",
                   "coords": [
                         -0.645004,
@@ -236,7 +236,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "porte canastel",
-                  "text": "A Porte Canastel egy kastélyépület Orán városában.",
+                  "text": "Egy történelmi kapu Oránban, a régi spanyol erődítmények része.",
                   "category": "castle",
                   "coords": [
                         -0.652522,
@@ -245,7 +245,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musée d'art moderne d'Oran",
-                  "text": "A Musée d'art moderne d'Oran egy modern művészetnek szentelt múzeum Oránban.",
+                  "text": "Egy modern művészeti múzeum Oránban, kortárs algériai művészettel.",
                   "category": "museum",
                   "coords": [
                         -0.64588,
@@ -254,7 +254,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Fort Santiago",
-                  "text": "A Fort Santiago egy történelmi erődítmény Oránban.",
+                  "text": "Egy 16. századi spanyol erőd, amely Orán kikötőjére tekint.",
                   "category": "castle",
                   "coords": [
                         -0.660111,
@@ -263,7 +263,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Parc d'attraction Djanat El Ahlam",
-                  "text": "A Djanat El Ahlam vidámpark szórakozási lehetőségeket kínál Oránban.",
+                  "text": "Egy vidámpark Oránban, hullámvasutakkal, kertekkel és egy tóval.",
                   "category": "family",
                   "coords": [
                         -0.634312,
@@ -272,7 +272,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musée du Moudjahid",
-                  "text": "A Musée du Moudjahid egy helyi múzeum Oránban.",
+                  "text": "Egy múzeum, amely az algériai függetlenségi háborúnak szentelt, Orán Saint-Charles negyedében.",
                   "category": "museum",
                   "coords": [
                         -0.603384,
@@ -281,7 +281,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Théâtre Régional Abdelkader Alloula",
-                  "text": "Az Abdelkader Alloula Regionális Színház a kulturális előadó-művészetek helyszíne Oránban.",
+                  "text": "Egy színház, amelyet Abdelkader Alloula algériai drámaíróról neveztek el, színdaraboknak és koncerteknek ad otthont.",
                   "category": "cultural",
                   "coords": [
                         -0.650245,
@@ -290,7 +290,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Théâtre de verdure Hasni",
-                  "text": "A Théâtre de verdure Hasni egy szabadtéri színházi helyszín Orán városában.",
+                  "text": "Egy szabadtéri színház, amelyet Hasni raï énekesről neveztek el, egy parkban Oránban.",
                   "category": "cultural",
                   "coords": [
                         -0.645374,
@@ -299,7 +299,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Fort Saint André",
-                  "text": "A Fort Saint André egy kastély és történelmi erődítmény Oránban.",
+                  "text": "Egy 18. századi spanyol erőd egy dombon, Oránra néző kilátással.",
                   "category": "castle",
                   "coords": [
                         -0.652845,
@@ -308,7 +308,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Zoo d'Oran",
-                  "text": "A Zoo d'Oran egy állatkert Orán városában.",
+                  "text": "Egy kis állatkert Oránban, helyi és afrikai állatokkal, valamint egy gyermekjátszótérrel.",
                   "category": "family",
                   "coords": [
                         -0.646716,
@@ -317,7 +317,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Medina Jdida (Újváros)",
-                  "text": "A Medina Jdida (Újváros) egy kiemelkedő emlékmű és negyed Oránban.",
+                  "text": "A 19. századi francia gyarmati negyed Oránban, árkádos utcákkal és egy központi térrel.",
                   "category": "historical",
                   "coords": [
                         -0.64732,
@@ -335,7 +335,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Saidan",
-                  "text": "Saidan egy turisztikai látványosság Orán városában.",
+                  "text": "Egy jellegzetes emlékmű Orán belvárosában, a Saidan-emlékmű.",
                   "category": "landmark",
                   "coords": [
                         -0.651908,
@@ -344,7 +344,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Numidia Kulturális Egyesület",
-                  "text": "A Numidia Kulturális Egyesület egy művészeti központ Oránban.",
+                  "text": "Egy kulturális központ Oránban, amely numida örökséget népszerűsít események és kiállítások révén.",
                   "category": "cultural",
                   "coords": [
                         -0.640795,
@@ -353,7 +353,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Ahmed Wahbi Konzervatórium",
-                  "text": "Az Ahmed Wahbi Konzervatórium egy fontos művészeti és zenei központ Oránban.",
+                  "text": "Egy zenei konzervatórium Oránban, Ahmed Wahbi énekesről elnevezve, fiatal zenészek képzésével.",
                   "category": "cultural",
                   "coords": [
                         -0.644713,
@@ -362,7 +362,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Palais de la Culture et des arts d'Oran",
-                  "text": "A Palais de la Culture et des arts d'Oran egy jelentős művészeti központ Oránban.",
+                  "text": "Egy nagy kulturális központ Oránban, művészeti kiállításokkal, színházzal és koncertekkel.",
                   "category": "cultural",
                   "coords": [
                         -0.647799,
@@ -371,7 +371,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Association Santé Sidi El Houari (SDH) \"L'école de la citoyenneté\"",
-                  "text": "Az Association Santé Sidi El Houari (SDH) egy művészeti és közösségi központ Oránban.",
+                  "text": "Egy közösségi szervezet Orán Sidi El Houari negyedében, az egészség és az állampolgári nevelés fókuszálásával.",
                   "category": "cultural",
                   "coords": [
                         -0.654223,
@@ -380,7 +380,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Mosquée Abdelhamid Ben Badis",
-                  "text": "Az Abdelhamid Ibn Badis mecset egy kiemelkedő imahely Oránban.",
+                  "text": "Nagy mecset feltűnő minarettel.",
                   "category": "religious",
                   "coords": [
                         -0.606427,
@@ -389,7 +389,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Mosquée Abdallah Ibn Salam",
-                  "text": "Az Abdallah Ibn Salam mecset egy kulturális örökségi helyszín Oránban.",
+                  "text": "Egy mecset Oránban, Abdallah Ibn Salam zsidó áttérőről elnevezve, az óvárosban található.",
                   "category": "landmark",
                   "coords": [
                         -0.650028,
@@ -400,7 +400,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Musée National Ahmed Zabana",
-                  "text": "Muzeul Național Ahmed Zabana este un muzeu notabil din Oran care prezintă diverse exponate.",
+                  "text": "Muzeu cu colecții de artă și arheologie algeriene.",
                   "category": "museum",
                   "coords": [
                         -0.645004,
@@ -418,7 +418,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "porte canastel",
-                  "text": "Porte Canastel este o structură de castel situată în orașul Oran.",
+                  "text": "O poartă istorică în Oran, parte a vechilor fortificații spaniole.",
                   "category": "castle",
                   "coords": [
                         -0.652522,
@@ -427,7 +427,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musée d'art moderne d'Oran",
-                  "text": "Musée d'art moderne d'Oran este un muzeu dedicat artei moderne din Oran.",
+                  "text": "Un muzeu de artă modernă în Oran, cu artă contemporană algeriană.",
                   "category": "museum",
                   "coords": [
                         -0.64588,
@@ -436,7 +436,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Fort Santiago",
-                  "text": "Fort Santiago este o structură istorică tip castel situată în Oran.",
+                  "text": "O fortăreață spaniolă din secolul al XVI-lea cu vedere asupra portului Oran.",
                   "category": "castle",
                   "coords": [
                         -0.660111,
@@ -445,7 +445,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Parc d'attraction Djanat El Ahlam",
-                  "text": "Parcul de distracții Djanat El Ahlam este un parc tematic care oferă divertisment în Oran.",
+                  "text": "Un parc de distracții în Oran, cu carusele, grădini și un lac.",
                   "category": "family",
                   "coords": [
                         -0.634312,
@@ -454,7 +454,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musée du Moudjahid",
-                  "text": "Musée du Moudjahid este un muzeu local situat în Oran.",
+                  "text": "Un muzeu dedicat Războiului de Independență algerian, situat în cartierul Saint-Charles din Oran.",
                   "category": "museum",
                   "coords": [
                         -0.603384,
@@ -463,7 +463,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Théâtre Régional Abdelkader Alloula",
-                  "text": "Teatrul Regional Abdelkader Alloula este un spațiu cultural pentru artele spectacolului din Oran.",
+                  "text": "Un teatru numit după dramaturgul algerian Abdelkader Alloula, care găzduiește piese de teatru și concerte.",
                   "category": "cultural",
                   "coords": [
                         -0.650245,
@@ -472,7 +472,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Théâtre de verdure Hasni",
-                  "text": "Théâtre de verdure Hasni este un teatru în aer liber din orașul Oran.",
+                  "text": "Un teatru în aer liber numit după cântărețul de raï Hasni, situat într-un parc din Oran.",
                   "category": "cultural",
                   "coords": [
                         -0.645374,
@@ -481,7 +481,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Fort Saint André",
-                  "text": "Fort Saint André este un castel și o fortificație istorică din Oran.",
+                  "text": "Un fort spaniol din secolul al XVIII-lea pe un deal cu vedere asupra orașului Oran.",
                   "category": "castle",
                   "coords": [
                         -0.652845,
@@ -490,7 +490,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Zoo d'Oran",
-                  "text": "Grădina Zoologică din Oran este un parc zoologic situat în Oran.",
+                  "text": "O grădină zoologică mică în Oran, cu animale locale și africane, și un loc de joacă pentru copii.",
                   "category": "family",
                   "coords": [
                         -0.646716,
@@ -499,7 +499,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Medina Jdida (Orașul Nou)",
-                  "text": "Medina Jdida (Orașul Nou) este un monument și un cartier proeminent din Oran.",
+                  "text": "Cartierul colonial francez din secolul al XIX-lea din Oran, cu străzi cu arcade și o piață centrală.",
                   "category": "historical",
                   "coords": [
                         -0.64732,
@@ -517,7 +517,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Saidan",
-                  "text": "Saidan este o atracție turistică situată în orașul Oran.",
+                  "text": "Un monument proeminent în centrul orașului Oran, monumentul Saidan.",
                   "category": "landmark",
                   "coords": [
                         -0.651908,
@@ -526,7 +526,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Asociația Culturală Numidia",
-                  "text": "Asociația Culturală Numidia este un centru de arte situat în Oran.",
+                  "text": "Un centru cultural din Oran care promovează moștenirea numidă prin evenimente și expoziții.",
                   "category": "cultural",
                   "coords": [
                         -0.640795,
@@ -535,7 +535,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Conservatorul Ahmed Wahbi",
-                  "text": "Conservatorul Ahmed Wahbi este un important centru de artă și muzică din Oran.",
+                  "text": "Un conservator de muzică din Oran numit după cântărețul Ahmed Wahbi, care formează tineri muzicieni.",
                   "category": "cultural",
                   "coords": [
                         -0.644713,
@@ -544,7 +544,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Palais de la Culture et des arts d'Oran",
-                  "text": "Palais de la Culture et des arts d'Oran este un centru de arte major din Oran.",
+                  "text": "Un mare centru cultural în Oran, cu expoziții de artă, teatru și concerte.",
                   "category": "cultural",
                   "coords": [
                         -0.647799,
@@ -553,7 +553,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Association Santé Sidi El Houari (SDH) \"L'école de la citoyenneté\"",
-                  "text": "Asociația Santé Sidi El Houari (SDH) este un centru de artă și comunitar din Oran.",
+                  "text": "O asociație comunitară în cartierul Sidi El Houari din Oran, axată pe sănătate și educație civică.",
                   "category": "cultural",
                   "coords": [
                         -0.654223,
@@ -562,7 +562,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Mosquée Abdelhamid Ben Badis",
-                  "text": "Moscheea lui Abdelhamid Ibn Badis este un proeminent lăcaș de cult situat în Oran.",
+                  "text": "Moschee mare cu un minaret proeminent.",
                   "category": "religious",
                   "coords": [
                         -0.606427,
@@ -571,7 +571,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Mosquée Abdallah Ibn Salam",
-                  "text": "Moscheea Abdallah Ibn Salam este un sit de patrimoniu cultural situat în Oran.",
+                  "text": "O moschee în Oran numită după convertitul evreu Abdallah Ibn Salam, situată în orașul vechi.",
                   "category": "landmark",
                   "coords": [
                         -0.650028,
@@ -582,7 +582,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Ahmed Zabana National Museum",
-                  "text": "The Ahmed Zabana National Museum is a notable museum in Oran featuring diverse exhibits.",
+                  "text": "Museum with collections of Algerian art and archaeology.",
                   "category": "museum",
                   "coords": [
                         -0.645004,
@@ -600,7 +600,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "porte canastel",
-                  "text": "Porte Canastel is a castle structure located in the city of Oran.",
+                  "text": "A historic gate in Oran, part of the old Spanish fortifications.",
                   "category": "castle",
                   "coords": [
                         -0.652522,
@@ -609,7 +609,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musée d'art moderne d'Oran",
-                  "text": "The Musée d'art moderne d'Oran is a museum dedicated to modern art in Oran.",
+                  "text": "A modern art museum in Oran featuring contemporary Algerian art.",
                   "category": "museum",
                   "coords": [
                         -0.64588,
@@ -618,7 +618,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Fort Santiago",
-                  "text": "Fort Santiago is a historical castle structure located in Oran.",
+                  "text": "A 16th-century Spanish fortress overlooking Oran's harbor.",
                   "category": "castle",
                   "coords": [
                         -0.660111,
@@ -627,7 +627,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Parc d'attraction Djanat El Ahlam",
-                  "text": "Parc d'attraction Djanat El Ahlam is a theme park offering entertainment in Oran.",
+                  "text": "An amusement park in Oran with rides, gardens, and a lake.",
                   "category": "family",
                   "coords": [
                         -0.634312,
@@ -636,7 +636,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musée du Moudjahid",
-                  "text": "The Musée du Moudjahid is a local museum located in Oran.",
+                  "text": "A museum dedicated to the Algerian War of Independence, located in Oran's Saint-Charles district.",
                   "category": "museum",
                   "coords": [
                         -0.603384,
@@ -645,7 +645,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Abdelkader Alloula Regional Theatre",
-                  "text": "The Abdelkader Alloula Regional Theatre is a cultural venue for performing arts in Oran.",
+                  "text": "A theatre named after the Algerian playwright Abdelkader Alloula, hosting plays and concerts in Oran.",
                   "category": "cultural",
                   "coords": [
                         -0.650245,
@@ -654,7 +654,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Théâtre de verdure Hasni",
-                  "text": "Théâtre de verdure Hasni is an open-air theatre venue in the city of Oran.",
+                  "text": "An open-air theatre named after the raï singer Hasni, set in a park in Oran.",
                   "category": "cultural",
                   "coords": [
                         -0.645374,
@@ -663,7 +663,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Fort Saint André",
-                  "text": "Fort Saint André is a castle and historic fortification in Oran.",
+                  "text": "A Spanish fort from the 18th century on a hill overlooking Oran.",
                   "category": "castle",
                   "coords": [
                         -0.652845,
@@ -672,7 +672,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Zoo d'Oran",
-                  "text": "The Zoo d'Oran is a zoological park located in Oran.",
+                  "text": "A small zoo in Oran featuring local and African animals, with a children's play area.",
                   "category": "family",
                   "coords": [
                         -0.646716,
@@ -681,7 +681,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Medina Jdida (New City)",
-                  "text": "The Medina Jdida (New City) is a prominent monument and district in Oran.",
+                  "text": "The 19th-century French colonial quarter of Oran, with arcaded streets and a central square.",
                   "category": "historical",
                   "coords": [
                         -0.64732,
@@ -699,7 +699,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Saidan",
-                  "text": "Saidan is a tourist attraction found in the city of Oran.",
+                  "text": "A prominent landmark in Oran's city centre, the Saidan monument.",
                   "category": "landmark",
                   "coords": [
                         -0.651908,
@@ -708,7 +708,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Numidia Cultural Association",
-                  "text": "The Numidia Cultural Association is an arts centre situated in Oran.",
+                  "text": "A cultural centre in Oran promoting Numidian heritage through events and exhibitions.",
                   "category": "cultural",
                   "coords": [
                         -0.640795,
@@ -717,7 +717,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Ahmed Wahbi Conservatory",
-                  "text": "The Ahmed Wahbi Conservatory is an important arts and music centre in Oran.",
+                  "text": "A music conservatory in Oran named after the singer Ahmed Wahbi, training young musicians.",
                   "category": "cultural",
                   "coords": [
                         -0.644713,
@@ -726,7 +726,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Palais de la Culture et des arts d'Oran",
-                  "text": "The Palais de la Culture et des arts d'Oran is a major arts centre in Oran.",
+                  "text": "A large cultural centre in Oran hosting art exhibitions, theatre, and concerts.",
                   "category": "cultural",
                   "coords": [
                         -0.647799,
@@ -735,7 +735,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Association Santé Sidi El Houari (SDH) \"L'école de la citoyenneté\"",
-                  "text": "The Association Santé Sidi El Houari (SDH) is an arts and community centre in Oran.",
+                  "text": "A community association in Oran's Sidi El Houari district, focusing on health and citizenship education.",
                   "category": "cultural",
                   "coords": [
                         -0.654223,
@@ -744,7 +744,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Mosque of Abdelhamid Ibn Badis",
-                  "text": "The Mosque of Abdelhamid Ibn Badis is a prominent place of worship located in Oran.",
+                  "text": "Large mosque with a prominent minaret.",
                   "category": "religious",
                   "coords": [
                         -0.606427,
@@ -753,7 +753,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Abdallah Ibn Salam Mosque",
-                  "text": "The Abdallah Ibn Salam Mosque is a site of cultural heritage situated in Oran.",
+                  "text": "A mosque in Oran named after the Jewish convert Abdallah Ibn Salam, located in the old city.",
                   "category": "landmark",
                   "coords": [
                         -0.650028,
@@ -809,7 +809,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Palais du Bey",
-                  "text": "Palast des Beys in Constantine.",
+                  "text": "Ein ehemaliger Bey-Palast auf einer Klippe über der Rhumel-Schlucht in Constantine.",
                   "category": "castle",
                   "coords": [
                         6.611554,
@@ -818,7 +818,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musée du Moudjahid",
-                  "text": "Museum für den Unabhängigkeitskrieg in Constantine.",
+                  "text": "Ein Museum in Constantine, das der Geschichte des algerischen Unabhängigkeitskrieges gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         6.621546,
@@ -827,7 +827,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Slimane Mellah Bridge",
-                  "text": "Slimane-Mellah-Brücke in Constantine.",
+                  "text": "Eine moderne Brücke über den Rhumel-Fluss in Constantine.",
                   "category": "landmark",
                   "coords": [
                         6.61498,
@@ -836,7 +836,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Sidi M'Cid Bridge",
-                  "text": "Sidi-M'Cid-Brücke in Constantine, eine markante Hängebrücke.",
+                  "text": "Hängebrücke über die Rhumel-Schlucht, 160 m hoch.",
                   "category": "landmark",
                   "coords": [
                         6.614432,
@@ -845,7 +845,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Conservatoire municipal des Arts Abdelmoumen Bentoubel",
-                  "text": "Städtisches Kunstkonservatorium in Constantine.",
+                  "text": "Ein städtisches Konservatorium für Musik- und Kunstpädagogik in Constantine.",
                   "category": "cultural",
                   "coords": [
                         6.60968,
@@ -854,7 +854,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Monument aux morts",
-                  "text": "Kriegerdenkmal in Constantine mit Aussichtspunkt.",
+                  "text": "Ein Kriegerdenkmal in Constantine, das den Gefallenen ehrt.",
                   "category": "natural",
                   "coords": [
                         6.613469,
@@ -863,7 +863,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "The Pyramid",
-                  "text": "Pyramidenartiges Bauwerk in Constantine.",
+                  "text": "Ein pyramidenförmiges Wahrzeichen in Constantine.",
                   "category": "landmark",
                   "coords": [
                         6.606471,
@@ -872,7 +872,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Aqueduc Romain",
-                  "text": "Römisches Aquädukt in Constantine.",
+                  "text": "Überreste eines römischen Aquädukts in Constantine.",
                   "category": "historical",
                   "coords": [
                         6.617577,
@@ -881,7 +881,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Palais de la culture Mohamed Laïd El-Khalifa",
-                  "text": "Mohamed-Laid-Al-Khalifa-Kulturpalast in Constantine.",
+                  "text": "Ein Kulturpalast, benannt nach dem algerischen Dichter Mohamed Laid Al-Khalifa in Constantine.",
                   "category": "cultural",
                   "coords": [
                         6.608074,
@@ -890,7 +890,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Malek Haddad Cultural Center",
-                  "text": "Malek-Haddad-Kulturzentrum in Constantine.",
+                  "text": "Ein Kulturzentrum, benannt nach dem algerischen Dichter Malek Haddad in Constantine.",
                   "category": "cultural",
                   "coords": [
                         6.609404,
@@ -899,7 +899,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Bab El Kantara Bridge",
-                  "text": "Bab-El-Kantra-Brücke in Constantine.",
+                  "text": "Römische Bogenbrücke über den Rhumel-Fluss.",
                   "category": "landmark",
                   "coords": [
                         6.618144,
@@ -928,7 +928,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Palais du Bey",
-                  "text": "A Bey palotája Constantine-ban.",
+                  "text": "Egykori bej palota a Constantine-i Rhumel-szurdok fölötti sziklán.",
                   "category": "castle",
                   "coords": [
                         6.611554,
@@ -937,7 +937,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musée du Moudjahid",
-                  "text": "Függetlenségi háborús múzeum Constantine-ban.",
+                  "text": "A Constantine-i Moudzahid Múzeum, amely az algériai függetlenségi háború történetét mutatja be.",
                   "category": "museum",
                   "coords": [
                         6.621546,
@@ -946,7 +946,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Slimane Mellah Bridge",
-                  "text": "Slimane Mellah híd Constantine-ban.",
+                  "text": "Egy modern híd a Constantine-i Rhumel folyón.",
                   "category": "landmark",
                   "coords": [
                         6.61498,
@@ -955,7 +955,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Sidi M'Cid Bridge",
-                  "text": "Sidi M'Cid híd Constantine-ban, jellegzetes függőhíd.",
+                  "text": "Függőhíd a Rhumel-szurdok felett, 160 m magas.",
                   "category": "landmark",
                   "coords": [
                         6.614432,
@@ -964,7 +964,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Conservatoire municipal des Arts Abdelmoumen Bentoubel",
-                  "text": "Városi művészeti konzervatórium Constantine-ban.",
+                  "text": "Önkormányzati konzervatórium zenére és művészeti oktatásra Constantine-ban.",
                   "category": "cultural",
                   "coords": [
                         6.60968,
@@ -973,7 +973,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Monument aux morts",
-                  "text": "Háborús emlékmű Constantine-ban, kilátóval.",
+                  "text": "Háborús emlékmű Constantine-ban, a hősök tiszteletére.",
                   "category": "natural",
                   "coords": [
                         6.613469,
@@ -982,7 +982,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "The Pyramid",
-                  "text": "Piramis alakú építmény Constantine-ban.",
+                  "text": "Egy piramis alakú nevezetesség Constantine-ban.",
                   "category": "landmark",
                   "coords": [
                         6.606471,
@@ -991,7 +991,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Aqueduc Romain",
-                  "text": "Római vízvezeték Constantine-ban.",
+                  "text": "Egy római vízvezeték maradványai Constantine-ban.",
                   "category": "historical",
                   "coords": [
                         6.617577,
@@ -1000,7 +1000,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Palais de la culture Mohamed Laïd El-Khalifa",
-                  "text": "Mohamed Laid Al-Khalifa kulturális palota Constantine-ban.",
+                  "text": "Mohamed Laid Al-Khalifa Kulturpalota, amely az algériai költőről kapta nevét Constantine-ban.",
                   "category": "cultural",
                   "coords": [
                         6.608074,
@@ -1009,7 +1009,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Malek Haddad Cultural Center",
-                  "text": "Malek Haddad kulturális központ Constantine-ban.",
+                  "text": "Malek Haddad Kulturális Központ, amelyet az algériai költőről neveztek el Constantine-ban.",
                   "category": "cultural",
                   "coords": [
                         6.609404,
@@ -1018,7 +1018,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Bab El Kantara Bridge",
-                  "text": "Bab El Kantra híd Constantine-ban.",
+                  "text": "Római íves híd a Rhumel folyó felett.",
                   "category": "landmark",
                   "coords": [
                         6.618144,
@@ -1047,7 +1047,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Palais du Bey",
-                  "text": "Palatul Bey-ului din Constantine.",
+                  "text": "Un fost palat al beyului pe o stâncă deasupra cheii Rhumel din Constantine.",
                   "category": "castle",
                   "coords": [
                         6.611554,
@@ -1056,7 +1056,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musée du Moudjahid",
-                  "text": "Muzeul Războiului de Independență din Constantine.",
+                  "text": "Un muzeu în Constantine dedicat istoriei războiului de independență algerian.",
                   "category": "museum",
                   "coords": [
                         6.621546,
@@ -1065,7 +1065,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Slimane Mellah Bridge",
-                  "text": "Podul Slimane Mellah din Constantine.",
+                  "text": "Un pod modern peste râul Rhumel din Constantine.",
                   "category": "landmark",
                   "coords": [
                         6.61498,
@@ -1074,7 +1074,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Sidi M'Cid Bridge",
-                  "text": "Podul Sidi M'Cid din Constantine, un pod suspendat distinctiv.",
+                  "text": "Pod suspendat peste defileul Rhumel, la 160 m înălțime.",
                   "category": "landmark",
                   "coords": [
                         6.614432,
@@ -1083,7 +1083,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Conservatoire municipal des Arts Abdelmoumen Bentoubel",
-                  "text": "Conservatorul municipal de arte din Constantine.",
+                  "text": "Un conservatoriu municipal pentru educație muzicală și artistică în Constantine.",
                   "category": "cultural",
                   "coords": [
                         6.60968,
@@ -1092,7 +1092,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Monument aux morts",
-                  "text": "Monumentul eroilor din Constantine cu punct de belvedere.",
+                  "text": "Un monument al celor căzuți în război în Constantine.",
                   "category": "natural",
                   "coords": [
                         6.613469,
@@ -1101,7 +1101,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "The Pyramid",
-                  "text": "Structură piramidală în Constantine.",
+                  "text": "Un reper în formă de piramidă în Constantine.",
                   "category": "landmark",
                   "coords": [
                         6.606471,
@@ -1110,7 +1110,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Aqueduc Romain",
-                  "text": "Apeduct roman în Constantine.",
+                  "text": "Vestigiile unui apeduct roman în Constantine.",
                   "category": "historical",
                   "coords": [
                         6.617577,
@@ -1119,7 +1119,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Palais de la culture Mohamed Laïd El-Khalifa",
-                  "text": "Palatul culturii Mohamed Laid Al-Khalifa din Constantine.",
+                  "text": "Un palat cultural numit după poetul algerian Mohamed Laid Al-Khalifa în Constantine.",
                   "category": "cultural",
                   "coords": [
                         6.608074,
@@ -1128,7 +1128,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Malek Haddad Cultural Center",
-                  "text": "Centrul cultural Malek Haddad din Constantine.",
+                  "text": "Un centru cultural numit după poetul algerian Malek Haddad în Constantine.",
                   "category": "cultural",
                   "coords": [
                         6.609404,
@@ -1137,7 +1137,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Bab El Kantara Bridge",
-                  "text": "Podul Bab El Kantra din Constantine.",
+                  "text": "Pod roman cu arc peste râul Rhumel.",
                   "category": "landmark",
                   "coords": [
                         6.618144,
@@ -1166,7 +1166,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Palais du Bey",
-                  "text": "Palace of the Bey in Constantine.",
+                  "text": "A former Bey's palace perched on a cliff overlooking the Rhumel Gorge in Constantine.",
                   "category": "castle",
                   "coords": [
                         6.611554,
@@ -1175,7 +1175,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musée du Moudjahid",
-                  "text": "Museum of the War of Independence in Constantine.",
+                  "text": "A museum in Constantine dedicated to the history of the Algerian War of Independence.",
                   "category": "museum",
                   "coords": [
                         6.621546,
@@ -1184,7 +1184,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Slimane Mellah Bridge",
-                  "text": "Slimane Mellah Bridge in Constantine.",
+                  "text": "A modern bridge spanning the Rhumel River in Constantine.",
                   "category": "landmark",
                   "coords": [
                         6.61498,
@@ -1193,7 +1193,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Sidi M'Cid Bridge",
-                  "text": "Sidi M'Cid Bridge in Constantine, a distinctive suspension bridge.",
+                  "text": "Suspension bridge over the Rhumel Gorge, 160 m high.",
                   "category": "landmark",
                   "coords": [
                         6.614432,
@@ -1202,7 +1202,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Conservatoire municipal des Arts Abdelmoumen Bentoubel",
-                  "text": "Municipal arts conservatory in Constantine.",
+                  "text": "A municipal conservatory for music and arts education in Constantine.",
                   "category": "cultural",
                   "coords": [
                         6.60968,
@@ -1211,7 +1211,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Monument aux morts",
-                  "text": "War memorial in Constantine with a viewpoint.",
+                  "text": "A war memorial in Constantine honoring the fallen.",
                   "category": "natural",
                   "coords": [
                         6.613469,
@@ -1220,7 +1220,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "The Pyramid",
-                  "text": "Pyramid-like structure in Constantine.",
+                  "text": "A pyramid-shaped landmark in Constantine.",
                   "category": "landmark",
                   "coords": [
                         6.606471,
@@ -1229,7 +1229,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Aqueduc Romain",
-                  "text": "Roman aqueduct in Constantine.",
+                  "text": "Remains of a Roman aqueduct in Constantine.",
                   "category": "historical",
                   "coords": [
                         6.617577,
@@ -1238,7 +1238,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Mohamed Laid Al-Khalifa culture palace",
-                  "text": "Mohamed Laid Al-Khalifa culture palace in Constantine.",
+                  "text": "A cultural palace named after the Algerian poet Mohamed Laid Al-Khalifa in Constantine.",
                   "category": "cultural",
                   "coords": [
                         6.608074,
@@ -1247,7 +1247,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Malek Haddad Cultural Center",
-                  "text": "Malek Haddad cultural center in Constantine.",
+                  "text": "A cultural center named after the Algerian poet Malek Haddad in Constantine.",
                   "category": "cultural",
                   "coords": [
                         6.609404,
@@ -1256,7 +1256,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Bab El Kantara Bridge",
-                  "text": "Bab El Kantra Bridge in Constantine.",
+                  "text": "Roman arched bridge over the Rhumel River.",
                   "category": "landmark",
                   "coords": [
                         6.618144,
@@ -1308,7 +1308,664 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["Les gorges du Rhumel atteignent 200 mètres de profondeur.", "Sept ponts spectaculaires relient les différents quartiers.", "Sidi M'Cid était le plus haut pont suspendu du monde en 1912.", "La cité antique de Cirta était la capitale de la Numidie.", "L'empereur Constantin fit reconstruire la ville en 313 apr. J.-C.", "Le palais d'Ahmed Bey est un chef-d'œuvre de l'architecture ottomane.", "Constantine est un centre de la musique Malouf.", "La ville est située à environ 640 mètres d'altitude."],
     }, image: "/poi-images/constantine-cities-v2.webp"},
   {
-    id: "annaba-cities-v2", "sights": {"de": [{"name": "Musée des Ruines d'Hippone", "text": "Das Musée des Ruines d'Hippone ist ein Museum in Annaba.", "category": "museum", "coords": [7.751782, 36.882034]}, {"name": "Annaba Theater", "text": "Das Annaba Theater ist eine archäologische Stätte in Annaba.", "category": "historical", "coords": [7.74672, 36.881403]}, {"name": "Museum of the Mujahid", "text": "Das متحف المجاهد (Mudschaheddin-Museum) ist ein Museum in Annaba.", "category": "museum", "coords": [7.742644, 36.913424]}, {"name": "Villa of Procurator", "text": "Die Villa of Procurator ist eine archäologische Stätte in Annaba.", "category": "historical", "coords": [7.749249, 36.880844]}, {"name": "Southern Baths", "text": "Die Southern Baths sind historische Ausgrabungsstätten in Annaba.", "category": "historical", "coords": [7.750935, 36.880716]}, {"name": "Plage Chapuis", "text": "Plage Chapuis ist ein charakteristischer Strand in der algerischen Küstenstadt Annaba. Einheimische und Besucher schätzen die maritime Atmosphäre, die zum Verweilen und Sonnenbaden einlädt. An heißen Sommertagen sorgt das Mittelmeer hier für eine willkommene Abkühlung.", "category": "recreational", "coords": [7.761094, 36.927583]}, {"name": "Rachid Fellah Beach", "text": "شاطئ رشيد فلاح ist ein lokaler Strand in Annaba.", "category": "recreational", "coords": [7.765764, 36.919054]}, {"name": "Site archéologique d’Hippone (Annaba)", "text": "Die Site archéologique d’Hippone ist eine bedeutende archäologische Stätte in Annaba.", "category": "historical", "coords": [7.750136, 36.882437]}, {"name": "Théatre Azzedine Medjoubi", "text": "Das Théatre Azzedine Medjoubi ist ein Theater in Annaba.", "category": "cultural", "coords": [7.759576, 36.899696]}, {"name": "Théâtre de verdure", "text": "Das Théâtre de verdure ist ein Freilufttheater in Annaba.", "category": "cultural", "coords": [7.757584, 36.903197]}, {"name": "Gattara Beach", "text": "شاطئ قطارة ist ein Strand in Annaba.", "category": "recreational", "coords": [7.772401, 36.909392]}, {"name": "Plage des Juifs", "text": "شاطئ اليهود ist ein Küstenstrand in der Stadt Annaba.", "category": "recreational", "coords": [7.768413, 36.916526]}, {"name": "Hippo Regius, Thermae", "text": "Die Thermen von Hippo Regius bilden eine archäologische Stätte in Annaba.", "category": "historical", "coords": [7.750171, 36.884752]}, {"name": "Forum of Hippo Regius", "text": "Das Forum von Hippo Regius ist eine archäologische Stätte in Annaba.", "category": "historical", "coords": [7.748134, 36.881555]}, {"name": "French Cultural Center", "text": "Das المركز الثقافي الفرنسي (Französisches Kulturzentrum) ist ein Kunstzentrum in Annaba.", "category": "cultural", "coords": [7.760398, 36.905461]}, {"name": "Salah Bey Moschee", "text": "Die Salah Bey Moschee ist ein historisches osmanisches Gotteshaus in Annaba.", "category": "religious", "coords": [7.762304, 36.899015]}, {"name": "Mosquée de Sidi Bou Merouane", "text": "Die Mosquée de Sidi Bou Merouane ist eine der ältesten Moscheen in Annaba.", "category": "religious", "coords": [7.764156, 36.898428]}, {"name": "Basilique Saint-Augustin", "text": "Die Basilique Saint-Augustin ist eine katholische Basilika in Annaba.", "category": "religious", "coords": [7.74475, 36.881913]}], "hu": [{"name": "Musée des Ruines d'Hippone", "text": "A Musée des Ruines d'Hippone egy múzeum Annaba városában.", "category": "museum", "coords": [7.751782, 36.882034]}, {"name": "Annaba Theater", "text": "Az Annaba Theater egy régészeti lelőhely Annabában.", "category": "historical", "coords": [7.74672, 36.881403]}, {"name": "Museum of the Mujahid", "text": "A متحف المجاهد (Mudzsahedin Múzeum) egy múzeum Annabában.", "category": "museum", "coords": [7.742644, 36.913424]}, {"name": "Villa of Procurator", "text": "A Villa of Procurator egy régészeti lelőhely Annabában.", "category": "historical", "coords": [7.749249, 36.880844]}, {"name": "Southern Baths", "text": "A Southern Baths egy történelmi régészeti lelőhely Annabában.", "category": "historical", "coords": [7.750935, 36.880716]}, {"name": "Plage Chapuis", "text": "A Plage Chapuis egy jellegzetes strand az algériai Annaba tengerparti városában. A helyiek és a látogatók egyaránt értékelik a tengeri hangulatot, amely pihenésre és napozásra hívogat. A forró nyári napokon a Földközi-tenger kellemes felfrissülést nyújt itt.", "category": "recreational", "coords": [7.761094, 36.927583]}, {"name": "Rachid Fellah Beach", "text": "A شاطئ رشيد فلاح egy helyi tengerpart Annabában.", "category": "recreational", "coords": [7.765764, 36.919054]}, {"name": "Site archéologique d’Hippone (Annaba)", "text": "A Site archéologique d’Hippone egy régészeti lelőhely Annaba városában.", "category": "historical", "coords": [7.750136, 36.882437]}, {"name": "Théatre Azzedine Medjoubi", "text": "A Théatre Azzedine Medjoubi egy színház Annabában.", "category": "cultural", "coords": [7.759576, 36.899696]}, {"name": "Théâtre de verdure", "text": "A Théâtre de verdure egy szabadtéri színház Annabában.", "category": "cultural", "coords": [7.757584, 36.903197]}, {"name": "Gattara Beach", "text": "A شاطئ قطارة egy tengerpart Annabában.", "category": "recreational", "coords": [7.772401, 36.909392]}, {"name": "Plage des Juifs", "text": "A شاطئ اليهود egy part menti strand Annaba városában.", "category": "recreational", "coords": [7.768413, 36.916526]}, {"name": "Hippo Regius, Thermae", "text": "A Hippo Regius fürdői egy régészeti lelőhely Annabában.", "category": "historical", "coords": [7.750171, 36.884752]}, {"name": "Forum of Hippo Regius", "text": "A Hippo Regius fóruma egy régészeti lelőhely Annabában.", "category": "historical", "coords": [7.748134, 36.881555]}, {"name": "French Cultural Center", "text": "A المركز الثقافي الفرنسي (Francia Kulturális Központ) egy művészeti központ Annabában.", "category": "cultural", "coords": [7.760398, 36.905461]}, {"name": "Salah Bey mecset", "text": "A Salah Bey mecset egy történelmi oszmán kori imahely Annabában.", "category": "religious", "coords": [7.762304, 36.899015]}, {"name": "Mosquée de Sidi Bou Merouane", "text": "A Mosquée de Sidi Bou Merouane a város egyik legrégebbi mecsete Annabában.", "category": "religious", "coords": [7.764156, 36.898428]}, {"name": "Basilique Saint-Augustin", "text": "A Basilique Saint-Augustin egy katolikus bazilika Annaba városában.", "category": "religious", "coords": [7.74475, 36.881913]}], "ro": [{"name": "Musée des Ruines d'Hippone", "text": "Musée des Ruines d'Hippone este un muzeu din orașul Annaba.", "category": "museum", "coords": [7.751782, 36.882034]}, {"name": "Annaba Theater", "text": "Annaba Theater este un sit arheologic situat în Annaba.", "category": "historical", "coords": [7.74672, 36.881403]}, {"name": "Museum of the Mujahid", "text": "متحف المجاهد (Muzeul Mujahedinilor) este un muzeu în Annaba.", "category": "museum", "coords": [7.742644, 36.913424]}, {"name": "Villa of Procurator", "text": "Villa of Procurator este un sit arheologic din orașul Annaba.", "category": "historical", "coords": [7.749249, 36.880844]}, {"name": "Southern Baths", "text": "Southern Baths reprezintă un sit arheologic istoric din Annaba.", "category": "historical", "coords": [7.750935, 36.880716]}, {"name": "Plage Chapuis", "text": "Plage Chapuis este o plajă caracteristică în orașul de coastă algerian Annaba. Localnicii și vizitatorii apreciază atmosfera maritimă, care invită la relaxare și băi de soare. În zilele fierbinți de vară, Marea Mediterană oferă aici o răcorire binevenită.", "category": "recreational", "coords": [7.761094, 36.927583]}, {"name": "Rachid Fellah Beach", "text": "شاطئ رشيد فلاح este o plajă locală din Annaba.", "category": "recreational", "coords": [7.765764, 36.919054]}, {"name": "Site archéologique d’Hippone (Annaba)", "text": "Site archéologique d’Hippone este un sit arheologic situat în Annaba.", "category": "historical", "coords": [7.750136, 36.882437]}, {"name": "Théatre Azzedine Medjoubi", "text": "Théatre Azzedine Medjoubi este un teatru din orașul Annaba.", "category": "cultural", "coords": [7.759576, 36.899696]}, {"name": "Théâtre de verdure", "text": "Théâtre de verdure este un teatru în aer liber din Annaba.", "category": "cultural", "coords": [7.757584, 36.903197]}, {"name": "Gattara Beach", "text": "شاطئ قطارة este o plajă din Annaba.", "category": "recreational", "coords": [7.772401, 36.909392]}, {"name": "Plage des Juifs", "text": "شاطئ اليهود este o plajă situată pe coasta din Annaba.", "category": "recreational", "coords": [7.768413, 36.916526]}, {"name": "Hippo Regius, Thermae", "text": "Termele de la Hippo Regius sunt un sit arheologic din Annaba.", "category": "historical", "coords": [7.750171, 36.884752]}, {"name": "Forum of Hippo Regius", "text": "Forumul de la Hippo Regius este un sit arheologic din Annaba.", "category": "historical", "coords": [7.748134, 36.881555]}, {"name": "French Cultural Center", "text": "المركز الثقافي الفرنسي (Centrul Cultural Francez) este un centru de arte din Annaba.", "category": "cultural", "coords": [7.760398, 36.905461]}, {"name": "Moscheea Salah Bey", "text": "Moscheea Salah Bey este un lăcaș de cult istoric otoman din Annaba.", "category": "religious", "coords": [7.762304, 36.899015]}, {"name": "Mosquée de Sidi Bou Merouane", "text": "Mosquée de Sidi Bou Merouane este una dintre cele mai vechi moschei din Annaba.", "category": "religious", "coords": [7.764156, 36.898428]}, {"name": "Basilique Saint-Augustin", "text": "Basilique Saint-Augustin este o bazilică catolică din orașul Annaba.", "category": "religious", "coords": [7.74475, 36.881913]}], "en": [{"name": "Musée des Ruines d'Hippone", "text": "The Musée des Ruines d'Hippone is a museum located in the city of Annaba.", "category": "museum", "coords": [7.751782, 36.882034]}, {"name": "Annaba Theater", "text": "The Annaba Theater is an archaeological site situated in Annaba.", "category": "historical", "coords": [7.74672, 36.881403]}, {"name": "Museum of the Mujahid", "text": "The متحف المجاهد (Mujahideen Museum) is a museum located in Annaba.", "category": "museum", "coords": [7.742644, 36.913424]}, {"name": "Villa of Procurator", "text": "The Villa of Procurator is an archaeological site located in Annaba.", "category": "historical", "coords": [7.749249, 36.880844]}, {"name": "Southern Baths", "text": "The Southern Baths are a historical archaeological site in Annaba.", "category": "historical", "coords": [7.750935, 36.880716]}, {"name": "Plage Chapuis", "text": "Plage Chapuis is a characteristic beach in the Algerian coastal city of Annaba. Locals and visitors alike appreciate the maritime atmosphere that invites lounging and sunbathing. On hot summer days, the Mediterranean Sea provides welcome cooling here.", "category": "recreational", "coords": [7.761094, 36.927583]}, {"name": "Rachid Fellah Beach", "text": "شاطئ رشيد فلاح is a local beach located in Annaba.", "category": "recreational", "coords": [7.765764, 36.919054]}, {"name": "Site archéologique d’Hippone (Annaba)", "text": "The Site archéologique d’Hippone is an archaeological site in Annaba.", "category": "historical", "coords": [7.750136, 36.882437]}, {"name": "Théatre Azzedine Medjoubi", "text": "The Théatre Azzedine Medjoubi is a theatre located in Annaba.", "category": "cultural", "coords": [7.759576, 36.899696]}, {"name": "Théâtre de verdure", "text": "The Théâtre de verdure is an open-air theatre in Annaba.", "category": "cultural", "coords": [7.757584, 36.903197]}, {"name": "Gattara Beach", "text": "شاطئ قطارة is a beach located in Annaba.", "category": "recreational", "coords": [7.772401, 36.909392]}, {"name": "Plage des Juifs", "text": "شاطئ اليهود is a coastal beach in the city of Annaba.", "category": "recreational", "coords": [7.768413, 36.916526]}, {"name": "Hippo Regius, Thermae", "text": "The Thermae of Hippo Regius form an archaeological site in Annaba.", "category": "historical", "coords": [7.750171, 36.884752]}, {"name": "Forum of Hippo Regius", "text": "The Forum of Hippo Regius is an archaeological site in Annaba.", "category": "historical", "coords": [7.748134, 36.881555]}, {"name": "French Cultural Center", "text": "The المركز الثقافي الفرنسي (French Cultural Center) is an arts centre in Annaba.", "category": "cultural", "coords": [7.760398, 36.905461]}, {"name": "Salah Bey Mosque", "text": "The Salah Bey Mosque is a historical Ottoman-era place of worship in Annaba.", "category": "religious", "coords": [7.762304, 36.899015]}, {"name": "Mosquée de Sidi Bou Merouane", "text": "The Mosquée de Sidi Bou Merouane is one of the oldest mosques in Annaba.", "category": "religious", "coords": [7.764156, 36.898428]}, {"name": "Basilique Saint-Augustin", "text": "The Basilique Saint-Augustin is a Catholic basilica located in Annaba.", "category": "religious", "coords": [7.74475, 36.881913]}]},
+    id: "annaba-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée des Ruines d'Hippone",
+                  "text": "Museum mit Funden aus der antiken römischen Stadt Hippo Regius in Annaba.",
+                  "category": "museum",
+                  "coords": [
+                        7.751782,
+                        36.882034
+                  ]
+            },
+            {
+                  "name": "Annaba Theater",
+                  "text": "Ein historisches Theatergebäude im Stadtzentrum von Annaba.",
+                  "category": "historical",
+                  "coords": [
+                        7.74672,
+                        36.881403
+                  ]
+            },
+            {
+                  "name": "Museum of the Mujahid",
+                  "text": "Ein Museum in Annaba, das dem algerischen Unabhängigkeitskrieg gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        7.742644,
+                        36.913424
+                  ]
+            },
+            {
+                  "name": "Villa of Procurator",
+                  "text": "Römische Villenruinen eines Prokurators in Annaba.",
+                  "category": "historical",
+                  "coords": [
+                        7.749249,
+                        36.880844
+                  ]
+            },
+            {
+                  "name": "Southern Baths",
+                  "text": "Römische öffentliche Bäder in Annaba.",
+                  "category": "historical",
+                  "coords": [
+                        7.750935,
+                        36.880716
+                  ]
+            },
+            {
+                  "name": "Plage Chapuis",
+                  "text": "Plage Chapuis ist ein charakteristischer Strand in der algerischen Küstenstadt Annaba. Einheimische und Besucher schätzen die maritime Atmosphäre, die zum Verweilen und Sonnenbaden einlädt. An heißen Sommertagen sorgt das Mittelmeer hier für eine willkommene Abkühlung.",
+                  "category": "recreational",
+                  "coords": [
+                        7.761094,
+                        36.927583
+                  ]
+            },
+            {
+                  "name": "Rachid Fellah Beach",
+                  "text": "Ein Sandstrand an der Mittelmeerküste in Annaba.",
+                  "category": "recreational",
+                  "coords": [
+                        7.765764,
+                        36.919054
+                  ]
+            },
+            {
+                  "name": "Site archéologique d’Hippone (Annaba)",
+                  "text": "Die Ausgrabungsstätte der antiken römischen Stadt Hippo Regius, Sitz des Bischofs Augustinus.",
+                  "category": "historical",
+                  "coords": [
+                        7.750136,
+                        36.882437
+                  ]
+            },
+            {
+                  "name": "Théatre Azzedine Medjoubi",
+                  "text": "Ein Theater, benannt nach dem algerischen Schauspieler Azzedine Medjoubi in Annaba.",
+                  "category": "cultural",
+                  "coords": [
+                        7.759576,
+                        36.899696
+                  ]
+            },
+            {
+                  "name": "Théâtre de verdure",
+                  "text": "Ein Freilichttheater für kulturelle Aufführungen in Annaba.",
+                  "category": "cultural",
+                  "coords": [
+                        7.757584,
+                        36.903197
+                  ]
+            },
+            {
+                  "name": "Gattara Beach",
+                  "text": "Ein malerischer Strand in Annaba.",
+                  "category": "recreational",
+                  "coords": [
+                        7.772401,
+                        36.909392
+                  ]
+            },
+            {
+                  "name": "Plage des Juifs",
+                  "text": "Ein Strand in Annaba, historisch bekannt als Plage des Juifs.",
+                  "category": "recreational",
+                  "coords": [
+                        7.768413,
+                        36.916526
+                  ]
+            },
+            {
+                  "name": "Hippo Regius, Thermae",
+                  "text": "Die Thermen von Hippo Regius bilden eine archäologische Stätte in Annaba.",
+                  "category": "historical",
+                  "coords": [
+                        7.750171,
+                        36.884752
+                  ]
+            },
+            {
+                  "name": "Forum of Hippo Regius",
+                  "text": "Das antike römische Forum von Hippo Regius in Annaba.",
+                  "category": "historical",
+                  "coords": [
+                        7.748134,
+                        36.881555
+                  ]
+            },
+            {
+                  "name": "French Cultural Center",
+                  "text": "Ein französisches Kulturzentrum mit Sprach- und Kunstprogrammen in Annaba.",
+                  "category": "cultural",
+                  "coords": [
+                        7.760398,
+                        36.905461
+                  ]
+            },
+            {
+                  "name": "Salah Bey Moschee",
+                  "text": "Osmanische Moschee mit mehreren Kuppeln und einem Minarett.",
+                  "category": "religious",
+                  "coords": [
+                        7.762304,
+                        36.899015
+                  ]
+            },
+            {
+                  "name": "Mosquée de Sidi Bou Merouane",
+                  "text": "Die Mosquée de Sidi Bou Merouane ist eine der ältesten Moscheen in Annaba.",
+                  "category": "religious",
+                  "coords": [
+                        7.764156,
+                        36.898428
+                  ]
+            },
+            {
+                  "name": "Basilique Saint-Augustin",
+                  "text": "Katholische Basilika auf einem Hügel mit Blick auf das Mittelmeer.",
+                  "category": "religious",
+                  "coords": [
+                        7.74475,
+                        36.881913
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée des Ruines d'Hippone",
+                  "text": "Múzeum az ókori római Hippo Regius városának tárgyaival Annabában.",
+                  "category": "museum",
+                  "coords": [
+                        7.751782,
+                        36.882034
+                  ]
+            },
+            {
+                  "name": "Annaba Theater",
+                  "text": "Történelmi színházépület Annaba belvárosában.",
+                  "category": "historical",
+                  "coords": [
+                        7.74672,
+                        36.881403
+                  ]
+            },
+            {
+                  "name": "Museum of the Mujahid",
+                  "text": "Múzeum Annabában, amely az algériai függetlenségi háború történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        7.742644,
+                        36.913424
+                  ]
+            },
+            {
+                  "name": "Villa of Procurator",
+                  "text": "Egy procurator római villájának romjai Annabában.",
+                  "category": "historical",
+                  "coords": [
+                        7.749249,
+                        36.880844
+                  ]
+            },
+            {
+                  "name": "Southern Baths",
+                  "text": "Római nyilvános fürdők Annabában.",
+                  "category": "historical",
+                  "coords": [
+                        7.750935,
+                        36.880716
+                  ]
+            },
+            {
+                  "name": "Plage Chapuis",
+                  "text": "A Plage Chapuis egy jellegzetes strand az algériai Annaba tengerparti városában. A helyiek és a látogatók egyaránt értékelik a tengeri hangulatot, amely pihenésre és napozásra hívogat. A forró nyári napokon a Földközi-tenger kellemes felfrissülést nyújt itt.",
+                  "category": "recreational",
+                  "coords": [
+                        7.761094,
+                        36.927583
+                  ]
+            },
+            {
+                  "name": "Rachid Fellah Beach",
+                  "text": "Homokos tengerpart Annabában a Földközi-tenger partján.",
+                  "category": "recreational",
+                  "coords": [
+                        7.765764,
+                        36.919054
+                  ]
+            },
+            {
+                  "name": "Site archéologique d’Hippone (Annaba)",
+                  "text": "Az ókori római Hippo Regius város régészeti lelőhelye, ahol Szent Ágoston püspök volt.",
+                  "category": "historical",
+                  "coords": [
+                        7.750136,
+                        36.882437
+                  ]
+            },
+            {
+                  "name": "Théatre Azzedine Medjoubi",
+                  "text": "Színház, amelyet Azzedine Medjoubi algériai színészről neveztek el Annabában.",
+                  "category": "cultural",
+                  "coords": [
+                        7.759576,
+                        36.899696
+                  ]
+            },
+            {
+                  "name": "Théâtre de verdure",
+                  "text": "Szabadtéri színház kulturális előadásoknak Annabában.",
+                  "category": "cultural",
+                  "coords": [
+                        7.757584,
+                        36.903197
+                  ]
+            },
+            {
+                  "name": "Gattara Beach",
+                  "text": "Egy festői strand Annabában.",
+                  "category": "recreational",
+                  "coords": [
+                        7.772401,
+                        36.909392
+                  ]
+            },
+            {
+                  "name": "Plage des Juifs",
+                  "text": "Egy strand Annabában, történelmileg Plage des Juifs néven ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        7.768413,
+                        36.916526
+                  ]
+            },
+            {
+                  "name": "Hippo Regius, Thermae",
+                  "text": "A Hippo Regius fürdői egy régészeti lelőhely Annabában.",
+                  "category": "historical",
+                  "coords": [
+                        7.750171,
+                        36.884752
+                  ]
+            },
+            {
+                  "name": "Forum of Hippo Regius",
+                  "text": "Hippo Regius ókori római fóruma Annabában.",
+                  "category": "historical",
+                  "coords": [
+                        7.748134,
+                        36.881555
+                  ]
+            },
+            {
+                  "name": "French Cultural Center",
+                  "text": "Francia kulturális központ nyelvi és művészeti programokkal Annabában.",
+                  "category": "cultural",
+                  "coords": [
+                        7.760398,
+                        36.905461
+                  ]
+            },
+            {
+                  "name": "Salah Bey mecset",
+                  "text": "Oszmán mecset több kupolával és minarettel.",
+                  "category": "religious",
+                  "coords": [
+                        7.762304,
+                        36.899015
+                  ]
+            },
+            {
+                  "name": "Mosquée de Sidi Bou Merouane",
+                  "text": "A Mosquée de Sidi Bou Merouane a város egyik legrégebbi mecsete Annabában.",
+                  "category": "religious",
+                  "coords": [
+                        7.764156,
+                        36.898428
+                  ]
+            },
+            {
+                  "name": "Basilique Saint-Augustin",
+                  "text": "Katolikus bazilika egy dombon, a Földközi-tengerre néző kilátással.",
+                  "category": "religious",
+                  "coords": [
+                        7.74475,
+                        36.881913
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée des Ruines d'Hippone",
+                  "text": "Muzeu cu artefacte din orașul roman antic Hippo Regius din Annaba.",
+                  "category": "museum",
+                  "coords": [
+                        7.751782,
+                        36.882034
+                  ]
+            },
+            {
+                  "name": "Annaba Theater",
+                  "text": "O clădire istorică de teatru în centrul orașului Annaba.",
+                  "category": "historical",
+                  "coords": [
+                        7.74672,
+                        36.881403
+                  ]
+            },
+            {
+                  "name": "Museum of the Mujahid",
+                  "text": "Un muzeu în Annaba dedicat războiului de independență algerian.",
+                  "category": "museum",
+                  "coords": [
+                        7.742644,
+                        36.913424
+                  ]
+            },
+            {
+                  "name": "Villa of Procurator",
+                  "text": "Ruinele unei vile romane a unui procurator în Annaba.",
+                  "category": "historical",
+                  "coords": [
+                        7.749249,
+                        36.880844
+                  ]
+            },
+            {
+                  "name": "Southern Baths",
+                  "text": "Băi publice romane în Annaba.",
+                  "category": "historical",
+                  "coords": [
+                        7.750935,
+                        36.880716
+                  ]
+            },
+            {
+                  "name": "Plage Chapuis",
+                  "text": "Plage Chapuis este o plajă caracteristică în orașul de coastă algerian Annaba. Localnicii și vizitatorii apreciază atmosfera maritimă, care invită la relaxare și băi de soare. În zilele fierbinți de vară, Marea Mediterană oferă aici o răcorire binevenită.",
+                  "category": "recreational",
+                  "coords": [
+                        7.761094,
+                        36.927583
+                  ]
+            },
+            {
+                  "name": "Rachid Fellah Beach",
+                  "text": "O plajă cu nisip pe coasta mediteraneană din Annaba.",
+                  "category": "recreational",
+                  "coords": [
+                        7.765764,
+                        36.919054
+                  ]
+            },
+            {
+                  "name": "Site archéologique d’Hippone (Annaba)",
+                  "text": "Situl arheologic al orașului roman antic Hippo Regius, unde a fost episcop Sfântul Augustin.",
+                  "category": "historical",
+                  "coords": [
+                        7.750136,
+                        36.882437
+                  ]
+            },
+            {
+                  "name": "Théatre Azzedine Medjoubi",
+                  "text": "Un teatru numit după actorul algerian Azzedine Medjoubi în Annaba.",
+                  "category": "cultural",
+                  "coords": [
+                        7.759576,
+                        36.899696
+                  ]
+            },
+            {
+                  "name": "Théâtre de verdure",
+                  "text": "Un teatru în aer liber pentru spectacole culturale în Annaba.",
+                  "category": "cultural",
+                  "coords": [
+                        7.757584,
+                        36.903197
+                  ]
+            },
+            {
+                  "name": "Gattara Beach",
+                  "text": "O plajă pitorească în Annaba.",
+                  "category": "recreational",
+                  "coords": [
+                        7.772401,
+                        36.909392
+                  ]
+            },
+            {
+                  "name": "Plage des Juifs",
+                  "text": "O plajă în Annaba cunoscută istoric ca Plage des Juifs.",
+                  "category": "recreational",
+                  "coords": [
+                        7.768413,
+                        36.916526
+                  ]
+            },
+            {
+                  "name": "Hippo Regius, Thermae",
+                  "text": "Termele de la Hippo Regius sunt un sit arheologic din Annaba.",
+                  "category": "historical",
+                  "coords": [
+                        7.750171,
+                        36.884752
+                  ]
+            },
+            {
+                  "name": "Forum of Hippo Regius",
+                  "text": "Forumul roman antic al Hippo Regius din Annaba.",
+                  "category": "historical",
+                  "coords": [
+                        7.748134,
+                        36.881555
+                  ]
+            },
+            {
+                  "name": "French Cultural Center",
+                  "text": "Un centru cultural francez care oferă programe de limbă și arte în Annaba.",
+                  "category": "cultural",
+                  "coords": [
+                        7.760398,
+                        36.905461
+                  ]
+            },
+            {
+                  "name": "Moscheea Salah Bey",
+                  "text": "Moschee otomană cu mai multe cupole și un minaret.",
+                  "category": "religious",
+                  "coords": [
+                        7.762304,
+                        36.899015
+                  ]
+            },
+            {
+                  "name": "Mosquée de Sidi Bou Merouane",
+                  "text": "Mosquée de Sidi Bou Merouane este una dintre cele mai vechi moschei din Annaba.",
+                  "category": "religious",
+                  "coords": [
+                        7.764156,
+                        36.898428
+                  ]
+            },
+            {
+                  "name": "Basilique Saint-Augustin",
+                  "text": "Basilică catolică pe o colină cu vedere spre Marea Mediterană.",
+                  "category": "religious",
+                  "coords": [
+                        7.74475,
+                        36.881913
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée des Ruines d'Hippone",
+                  "text": "A museum displaying artifacts from the ancient Roman city of Hippo Regius in Annaba.",
+                  "category": "museum",
+                  "coords": [
+                        7.751782,
+                        36.882034
+                  ]
+            },
+            {
+                  "name": "Annaba Theater",
+                  "text": "A historic theater building in the city center of Annaba.",
+                  "category": "historical",
+                  "coords": [
+                        7.74672,
+                        36.881403
+                  ]
+            },
+            {
+                  "name": "Museum of the Mujahid",
+                  "text": "A museum in Annaba dedicated to the Algerian War of Independence.",
+                  "category": "museum",
+                  "coords": [
+                        7.742644,
+                        36.913424
+                  ]
+            },
+            {
+                  "name": "Villa of Procurator",
+                  "text": "Roman villa ruins of a procurator in Annaba.",
+                  "category": "historical",
+                  "coords": [
+                        7.749249,
+                        36.880844
+                  ]
+            },
+            {
+                  "name": "Southern Baths",
+                  "text": "Roman public baths in Annaba.",
+                  "category": "historical",
+                  "coords": [
+                        7.750935,
+                        36.880716
+                  ]
+            },
+            {
+                  "name": "Plage Chapuis",
+                  "text": "Plage Chapuis is a characteristic beach in the Algerian coastal city of Annaba. Locals and visitors alike appreciate the maritime atmosphere that invites lounging and sunbathing. On hot summer days, the Mediterranean Sea provides welcome cooling here.",
+                  "category": "recreational",
+                  "coords": [
+                        7.761094,
+                        36.927583
+                  ]
+            },
+            {
+                  "name": "Rachid Fellah Beach",
+                  "text": "A sandy beach on the Mediterranean coast in Annaba.",
+                  "category": "recreational",
+                  "coords": [
+                        7.765764,
+                        36.919054
+                  ]
+            },
+            {
+                  "name": "Site archéologique d’Hippone (Annaba)",
+                  "text": "The archaeological site of the ancient Roman city Hippo Regius, where Saint Augustine was bishop.",
+                  "category": "historical",
+                  "coords": [
+                        7.750136,
+                        36.882437
+                  ]
+            },
+            {
+                  "name": "Théatre Azzedine Medjoubi",
+                  "text": "A theater named after the Algerian actor Azzedine Medjoubi in Annaba.",
+                  "category": "cultural",
+                  "coords": [
+                        7.759576,
+                        36.899696
+                  ]
+            },
+            {
+                  "name": "Théâtre de verdure",
+                  "text": "An open-air theater for cultural performances in Annaba.",
+                  "category": "cultural",
+                  "coords": [
+                        7.757584,
+                        36.903197
+                  ]
+            },
+            {
+                  "name": "Gattara Beach",
+                  "text": "A scenic beach in Annaba.",
+                  "category": "recreational",
+                  "coords": [
+                        7.772401,
+                        36.909392
+                  ]
+            },
+            {
+                  "name": "Plage des Juifs",
+                  "text": "A beach in Annaba historically known as Plage des Juifs.",
+                  "category": "recreational",
+                  "coords": [
+                        7.768413,
+                        36.916526
+                  ]
+            },
+            {
+                  "name": "Hippo Regius, Thermae",
+                  "text": "The Thermae of Hippo Regius form an archaeological site in Annaba.",
+                  "category": "historical",
+                  "coords": [
+                        7.750171,
+                        36.884752
+                  ]
+            },
+            {
+                  "name": "Forum of Hippo Regius",
+                  "text": "The ancient Roman forum at the site of Hippo Regius in Annaba.",
+                  "category": "historical",
+                  "coords": [
+                        7.748134,
+                        36.881555
+                  ]
+            },
+            {
+                  "name": "French Cultural Center",
+                  "text": "A French cultural center offering language and arts programs in Annaba.",
+                  "category": "cultural",
+                  "coords": [
+                        7.760398,
+                        36.905461
+                  ]
+            },
+            {
+                  "name": "Salah Bey Mosque",
+                  "text": "Ottoman mosque with multiple domes and a minaret.",
+                  "category": "religious",
+                  "coords": [
+                        7.762304,
+                        36.899015
+                  ]
+            },
+            {
+                  "name": "Mosquée de Sidi Bou Merouane",
+                  "text": "The Mosquée de Sidi Bou Merouane is one of the oldest mosques in Annaba.",
+                  "category": "religious",
+                  "coords": [
+                        7.764156,
+                        36.898428
+                  ]
+            },
+            {
+                  "name": "Basilique Saint-Augustin",
+                  "text": "Catholic basilica on a hill overlooking the Mediterranean.",
+                  "category": "religious",
+                  "coords": [
+                        7.74475,
+                        36.881913
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-23",
     coords: [7.7667, 36.9],
@@ -1347,7 +2004,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Théâtre Mohamed El Touri",
-                  "text": "Das Théâtre Mohamed El Touri ist ein Theater in der Stadt Blida.",
+                  "text": "Ein Theater, benannt nach dem algerischen Schauspieler Mohamed El Touri in Blida.",
                   "category": "cultural",
                   "coords": [
                         2.828153,
@@ -1356,7 +2013,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Parc de loisirs familial de Blida",
-                  "text": "Der Parc de loisirs familial de Blida ist ein Freizeitpark in der Stadt Blida.",
+                  "text": "Ein Familienfreizeitpark mit Spielplätzen und Grünflächen in Blida.",
                   "category": "family",
                   "coords": [
                         2.802589,
@@ -1367,7 +2024,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Théâtre Mohamed El Touri",
-                  "text": "A Théâtre Mohamed El Touri egy színház Blida városában.",
+                  "text": "Színház, amelyet Mohamed El Touri algériai színészről neveztek el Blidában.",
                   "category": "cultural",
                   "coords": [
                         2.828153,
@@ -1376,7 +2033,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Parc de loisirs familial de Blida",
-                  "text": "A Parc de loisirs familial de Blida egy vidámpark Blida városában.",
+                  "text": "Családi szabadidőpark játszóterekkel és zöldterületekkel Blidában.",
                   "category": "family",
                   "coords": [
                         2.802589,
@@ -1387,7 +2044,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Théâtre Mohamed El Touri",
-                  "text": "Théâtre Mohamed El Touri este un teatru situat în orașul Blida.",
+                  "text": "Un teatru numit după actorul algerian Mohamed El Touri în Blida.",
                   "category": "cultural",
                   "coords": [
                         2.828153,
@@ -1396,7 +2053,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Parc de loisirs familial de Blida",
-                  "text": "Parc de loisirs familial de Blida este un parc de distracții din orașul Blida.",
+                  "text": "Un parc de agrement familial cu locuri de joacă și spații verzi în Blida.",
                   "category": "family",
                   "coords": [
                         2.802589,
@@ -1407,7 +2064,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Théâtre Mohamed El Touri",
-                  "text": "Théâtre Mohamed El Touri is a theatre located in the city of Blida.",
+                  "text": "A theater named after the Algerian actor Mohamed El Touri in Blida.",
                   "category": "cultural",
                   "coords": [
                         2.828153,
@@ -1416,7 +2073,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Parc de loisirs familial de Blida",
-                  "text": "Parc de loisirs familial de Blida is a theme park located in the city of Blida.",
+                  "text": "A family leisure park with playgrounds and green spaces in Blida.",
                   "category": "family",
                   "coords": [
                         2.802589,
@@ -1463,7 +2120,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Parc National de Belezma",
-                  "text": "Belezma-Nationalpark in Batna.",
+                  "text": "Ein Nationalpark im Aurès-Gebirge bei Batna, Schutzgebiet.",
                   "category": "natural",
                   "coords": [
                         6.110335,
@@ -1472,7 +2129,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Théatre de Batna",
-                  "text": "Theater von Batna.",
+                  "text": "Regionaltheater mit neoklassizistischer Fassade.",
                   "category": "cultural",
                   "coords": [
                         6.175844,
@@ -1481,7 +2138,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musée",
-                  "text": "Museum in Batna.",
+                  "text": "Das Stadtmuseum von Batna, das die lokale Geschichte zeigt.",
                   "category": "museum",
                   "coords": [
                         6.159015,
@@ -1490,7 +2147,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Borj Bel Cadi",
-                  "text": "Bel-Cadi-Festung in Batna.",
+                  "text": "Eine historische Festung in Batna namens Bel Cadi.",
                   "category": "fortress",
                   "coords": [
                         6.178024,
@@ -1499,7 +2156,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Théâtre en plein air",
-                  "text": "Freilichttheater in Batna.",
+                  "text": "Ein Freilichttheater in Batna.",
                   "category": "cultural",
                   "coords": [
                         6.159941,
@@ -1508,7 +2165,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Monument BENBOULAID",
-                  "text": "Benboulaid-Denkmal in Batna.",
+                  "text": "Ein Denkmal für den algerischen Revolutionär Mostefa Ben Boulaid in Batna.",
                   "category": "historical",
                   "coords": [
                         6.178137,
@@ -1517,7 +2174,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Youth Center",
-                  "text": "Jugendzentrum in Batna.",
+                  "text": "Ein kulturelles Jugendzentrum in Batna.",
                   "category": "cultural",
                   "coords": [
                         6.192742,
@@ -1526,7 +2183,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Hadj Lakhdar Monument",
-                  "text": "Denkmal für Hadj Lakhdar in Batna.",
+                  "text": "Ein Ort, der dem Mudschahid Hadj Lakhdar in Batna gewidmet ist.",
                   "category": "historical",
                   "coords": [
                         6.15767,
@@ -1535,7 +2192,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Unknown Soldier Monument",
-                  "text": "Denkmal für den unbekannten Freiheitskämpfer in Batna.",
+                  "text": "Ein Denkmal für den unbekannten Mudschahid in Batna.",
                   "category": "historical",
                   "coords": [
                         6.184435,
@@ -1544,7 +2201,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "lieu de culture",
-                  "text": "Kulturelle Einrichtung in Batna.",
+                  "text": "Ein Kulturort in Batna.",
                   "category": "cultural",
                   "coords": [
                         6.192653,
@@ -1553,7 +2210,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de la Culture de la wilaya de Batna",
-                  "text": "Kulturhaus der Provinz Batna.",
+                  "text": "Das provinzielle Kulturhaus von Batna, das Veranstaltungen beherbergt.",
                   "category": "cultural",
                   "coords": [
                         6.180869,
@@ -1562,7 +2219,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Centre Culturel Islamique",
-                  "text": "Islamisches Kulturzentrum in Batna.",
+                  "text": "Ein islamisches Kulturzentrum in Batna.",
                   "category": "cultural",
                   "coords": [
                         6.177693,
@@ -1571,7 +2228,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Chambre de l'Artisanat et des Métiers",
-                  "text": "Handwerkskammer in Batna.",
+                  "text": "Eine Kammer für Handwerk und Gewerbe in Batna, die lokale Kunsthandwerker unterstützt.",
                   "category": "cultural",
                   "coords": [
                         6.167427,
@@ -1580,7 +2237,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Hasan El Banaa",
-                  "text": "Motel Hasan El Banaa in Batna.",
+                  "text": "Ein Wahrzeichen, benannt nach Hasan El Banaa in Batna.",
                   "category": "landmark",
                   "coords": [
                         6.190605,
@@ -1591,7 +2248,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Parc National de Belezma",
-                  "text": "Belezma Nemzeti Park Batnában.",
+                  "text": "Nemzeti park az Aurès-hegységben Batna közelében, védett terület.",
                   "category": "natural",
                   "coords": [
                         6.110335,
@@ -1600,7 +2257,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Théatre de Batna",
-                  "text": "Batnai színház.",
+                  "text": "Regionális színház neoklasszicista homlokzattal.",
                   "category": "cultural",
                   "coords": [
                         6.175844,
@@ -1609,7 +2266,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musée",
-                  "text": "Múzeum Batnában.",
+                  "text": "Batna városi múzeuma, amely a helyi történelmet mutatja be.",
                   "category": "museum",
                   "coords": [
                         6.159015,
@@ -1618,7 +2275,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Borj Bel Cadi",
-                  "text": "Bel Cadi erőd Batnában.",
+                  "text": "Történelmi erőd Batnában, Bel Cadi néven.",
                   "category": "fortress",
                   "coords": [
                         6.178024,
@@ -1636,7 +2293,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Monument BENBOULAID",
-                  "text": "Benboulaid-emlékmű Batnában.",
+                  "text": "Mostefa Ben Boulaid algériai forradalmár emlékműve Batnában.",
                   "category": "historical",
                   "coords": [
                         6.178137,
@@ -1645,7 +2302,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Youth Center",
-                  "text": "Ifjúsági központ Batnában.",
+                  "text": "Kulturális ifjúsági központ Batnában.",
                   "category": "cultural",
                   "coords": [
                         6.192742,
@@ -1654,7 +2311,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Hadj Lakhdar Monument",
-                  "text": "Hadj Lakhdar emlékműve Batnában.",
+                  "text": "Hadj Lakhdar mudzsáhidnak szentelt hely Batnában.",
                   "category": "historical",
                   "coords": [
                         6.15767,
@@ -1663,7 +2320,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Unknown Soldier Monument",
-                  "text": "Az ismeretlen szabadságharcos emlékműve Batnában.",
+                  "text": "Az ismeretlen mudzsáhid emlékműve Batnában.",
                   "category": "historical",
                   "coords": [
                         6.184435,
@@ -1672,7 +2329,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "lieu de culture",
-                  "text": "Kulturális intézmény Batnában.",
+                  "text": "Kulturális helyszín Batnában.",
                   "category": "cultural",
                   "coords": [
                         6.192653,
@@ -1681,7 +2338,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de la Culture de la wilaya de Batna",
-                  "text": "Batna tartományi kultúrháza.",
+                  "text": "Batna tartományi Kultúrháza, rendezvények helyszíne.",
                   "category": "cultural",
                   "coords": [
                         6.180869,
@@ -1699,7 +2356,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Chambre de l'Artisanat et des Métiers",
-                  "text": "Kézműves kamara Batnában.",
+                  "text": "Kézműves és Szakmai Kamara Batnában, a helyi kézművesek támogatására.",
                   "category": "cultural",
                   "coords": [
                         6.167427,
@@ -1708,7 +2365,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Hasan El Banaa",
-                  "text": "Hasan El Banaa motel Batnában.",
+                  "text": "Hasan El Banaáról elnevezett nevezetesség Batnában.",
                   "category": "landmark",
                   "coords": [
                         6.190605,
@@ -1719,7 +2376,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Parc National de Belezma",
-                  "text": "Parcul Național Belezma din Batna.",
+                  "text": "Un parc național în munții Aurès lângă Batna, arie protejată.",
                   "category": "natural",
                   "coords": [
                         6.110335,
@@ -1728,7 +2385,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Théatre de Batna",
-                  "text": "Teatrul din Batna.",
+                  "text": "Teatru regional cu fațadă neoclasică.",
                   "category": "cultural",
                   "coords": [
                         6.175844,
@@ -1737,7 +2394,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musée",
-                  "text": "Muzeul din Batna.",
+                  "text": "Muzeul orașului Batna, care prezintă istoria locală.",
                   "category": "museum",
                   "coords": [
                         6.159015,
@@ -1746,7 +2403,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Borj Bel Cadi",
-                  "text": "Fortăreața Bel Cadi din Batna.",
+                  "text": "O fortăreață istorică în Batna numită Bel Cadi.",
                   "category": "fortress",
                   "coords": [
                         6.178024,
@@ -1755,7 +2412,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Théâtre en plein air",
-                  "text": "Teatru în aer liber din Batna.",
+                  "text": "Un teatru în aer liber în Batna.",
                   "category": "cultural",
                   "coords": [
                         6.159941,
@@ -1764,7 +2421,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Monument BENBOULAID",
-                  "text": "Monumentul Benboulaid din Batna.",
+                  "text": "Un monument dedicat revoluționarului algerian Mostefa Ben Boulaid în Batna.",
                   "category": "historical",
                   "coords": [
                         6.178137,
@@ -1773,7 +2430,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Youth Center",
-                  "text": "Centru de tineret în Batna.",
+                  "text": "Un centru cultural pentru tineret în Batna.",
                   "category": "cultural",
                   "coords": [
                         6.192742,
@@ -1782,7 +2439,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Hadj Lakhdar Monument",
-                  "text": "Monumentul Hadj Lakhdar din Batna.",
+                  "text": "Un loc dedicat mujahidului Hadj Lakhdar în Batna.",
                   "category": "historical",
                   "coords": [
                         6.15767,
@@ -1791,7 +2448,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Unknown Soldier Monument",
-                  "text": "Monumentul luptătorului necunoscut pentru libertate din Batna.",
+                  "text": "Un monument dedicat mujahidului necunoscut în Batna.",
                   "category": "historical",
                   "coords": [
                         6.184435,
@@ -1800,7 +2457,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "lieu de culture",
-                  "text": "Instituție culturală în Batna.",
+                  "text": "Un spațiu cultural în Batna.",
                   "category": "cultural",
                   "coords": [
                         6.192653,
@@ -1809,7 +2466,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de la Culture de la wilaya de Batna",
-                  "text": "Casa culturii din provincia Batna.",
+                  "text": "Casa de Cultură a provinciei Batna, care găzduiește evenimente.",
                   "category": "cultural",
                   "coords": [
                         6.180869,
@@ -1818,7 +2475,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Centre Culturel Islamique",
-                  "text": "Centrul cultural islamic din Batna.",
+                  "text": "Un centru cultural islamic în Batna.",
                   "category": "cultural",
                   "coords": [
                         6.177693,
@@ -1827,7 +2484,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Chambre de l'Artisanat et des Métiers",
-                  "text": "Camera meșteșugarilor din Batna.",
+                  "text": "O cameră a meșteșugurilor și meseriilor în Batna, care sprijină artizanii locali.",
                   "category": "cultural",
                   "coords": [
                         6.167427,
@@ -1836,7 +2493,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Hasan El Banaa",
-                  "text": "Motelul Hasan El Banaa din Batna.",
+                  "text": "Un reper numit după Hasan El Banaa în Batna.",
                   "category": "landmark",
                   "coords": [
                         6.190605,
@@ -1847,7 +2504,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Belezma National Park",
-                  "text": "Belezma National Park in Batna.",
+                  "text": "A national park in the Aurès Mountains near Batna, protected area.",
                   "category": "natural",
                   "coords": [
                         6.110335,
@@ -1856,7 +2513,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Théatre de Batna",
-                  "text": "Theatre in Batna.",
+                  "text": "Regional theatre with a neoclassical facade.",
                   "category": "cultural",
                   "coords": [
                         6.175844,
@@ -1865,7 +2522,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musée",
-                  "text": "Museum in Batna.",
+                  "text": "The city museum of Batna, displaying local history.",
                   "category": "museum",
                   "coords": [
                         6.159015,
@@ -1874,7 +2531,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Bel Cadi Fort",
-                  "text": "Bel Cadi Fort in Batna.",
+                  "text": "A historic fortress in Batna named Bel Cadi.",
                   "category": "fortress",
                   "coords": [
                         6.178024,
@@ -1883,7 +2540,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Théâtre en plein air",
-                  "text": "Open-air theatre in Batna.",
+                  "text": "An open-air theater in Batna.",
                   "category": "cultural",
                   "coords": [
                         6.159941,
@@ -1892,7 +2549,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Monument BENBOULAID",
-                  "text": "Benboulaid monument in Batna.",
+                  "text": "A monument to the Algerian revolutionary Mostefa Ben Boulaid in Batna.",
                   "category": "historical",
                   "coords": [
                         6.178137,
@@ -1901,7 +2558,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Youth Center",
-                  "text": "Youth center in Batna.",
+                  "text": "A cultural youth center in Batna.",
                   "category": "cultural",
                   "coords": [
                         6.192742,
@@ -1910,7 +2567,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Moudjahid hadj Lakhdar",
-                  "text": "Hadj Lakhdar monument in Batna.",
+                  "text": "A site dedicated to the mujahid Hadj Lakhdar in Batna.",
                   "category": "historical",
                   "coords": [
                         6.15767,
@@ -1919,7 +2576,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Moudjahid inconnu",
-                  "text": "Monument to the unknown freedom fighter in Batna.",
+                  "text": "A monument to the Unknown Mujahid in Batna.",
                   "category": "historical",
                   "coords": [
                         6.184435,
@@ -1928,7 +2585,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "lieu de culture",
-                  "text": "Cultural institution in Batna.",
+                  "text": "A cultural venue in Batna.",
                   "category": "cultural",
                   "coords": [
                         6.192653,
@@ -1937,7 +2594,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de la Culture de la wilaya de Batna",
-                  "text": "Culture house of Batna province.",
+                  "text": "The provincial cultural house of Batna, hosting events.",
                   "category": "cultural",
                   "coords": [
                         6.180869,
@@ -1946,7 +2603,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Centre Culturel Islamique",
-                  "text": "Islamic cultural center in Batna.",
+                  "text": "An Islamic cultural center in Batna.",
                   "category": "cultural",
                   "coords": [
                         6.177693,
@@ -1955,7 +2612,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Chambre de l'Artisanat et des Métiers",
-                  "text": "Chamber of Crafts in Batna.",
+                  "text": "A chamber of crafts and trades in Batna, supporting local artisans.",
                   "category": "cultural",
                   "coords": [
                         6.167427,
@@ -1964,7 +2621,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Hasan El Banaa",
-                  "text": "Hasan El Banaa motel in Batna.",
+                  "text": "A landmark named after Hasan El Banaa in Batna.",
                   "category": "landmark",
                   "coords": [
                         6.190605,
@@ -2046,7 +2703,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Archäologisches Museum von Sétif",
-                  "text": "Das Nationalmuseum von Sétif ist ein archäologisches Museum, das für seine römischen Artefakte bekannt ist.",
+                  "text": "Museum mit römischen und byzantinischen Mosaiken.",
                   "category": "museum",
                   "coords": [
                         5.409928,
@@ -2055,7 +2712,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Zoo Sétif",
-                  "text": "Dies ist ein Zoo in der Stadt Sétif.",
+                  "text": "Die Familienattraktion 'This' in Setif bietet Freizeitaktivitäten.",
                   "category": "family",
                   "coords": [
                         5.406747,
@@ -2064,7 +2721,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Dies",
-                  "text": "Dies ist ein Theater in der Stadt Sétif.",
+                  "text": "Der Kulturort 'This' in Setif.",
                   "category": "cultural",
                   "coords": [
                         5.430051,
@@ -2073,7 +2730,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Chambre de l'artisanat",
-                  "text": "Die Chambre de l'artisanat ist ein Museum in der Stadt Sétif.",
+                  "text": "Eine Handwerkskammer in Setif.",
                   "category": "museum",
                   "coords": [
                         5.405398,
@@ -2082,7 +2739,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Römische Ruinen",
-                  "text": "Dies ist eine archäologische Stätte in der Stadt Sétif.",
+                  "text": "Die historische Stätte 'This' in Setif.",
                   "category": "historical",
                   "coords": [
                         5.404307,
@@ -2091,7 +2748,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Dies",
-                  "text": "Dies ist ein Freizeitpark in der Stadt Sétif.",
+                  "text": "Ein Familienpark mit Spielplatz und Picknickplätzen in Setif.",
                   "category": "family",
                   "coords": [
                         5.406657,
@@ -2100,7 +2757,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Dies",
-                  "text": "Dies ist ein Theater in der Stadt Sétif.",
+                  "text": "Ein Kulturzentrum mit Ausstellungsräumen und Veranstaltungssaal in Setif.",
                   "category": "cultural",
                   "coords": [
                         5.405999,
@@ -2109,7 +2766,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "CV.ilot 47- 1 Musée du Moudjahid",
-                  "text": "Das CV.ilot 47- 1 Musée du Moudjahid ist ein Museum in der Stadt Sétif.",
+                  "text": "Museum zum Gedenken an die algerischen Unabhängigkeitskämpfer (Moudjahid) in Setif.",
                   "category": "museum",
                   "coords": [
                         5.405222,
@@ -2127,7 +2784,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Dies",
-                  "text": "Dies ist ein Denkmal in der Stadt Sétif.",
+                  "text": "Eine historische Stätte mit Überresten der Altstadt von Setif.",
                   "category": "historical",
                   "coords": [
                         5.40624,
@@ -2136,7 +2793,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Piratenschiff",
-                  "text": "Dies ist eine Attraktion in der Stadt Sétif.",
+                  "text": "Ein markantes Bauwerk, möglicherweise ein Uhrenturm, auf dem Hauptplatz von Setif.",
                   "category": "landmark",
                   "coords": [
                         5.408119,
@@ -2145,7 +2802,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Zug",
-                  "text": "Dies ist eine Attraktion in der Stadt Sétif.",
+                  "text": "Ein weiteres markantes Wahrzeichen im Stadtzentrum von Setif.",
                   "category": "landmark",
                   "coords": [
                         5.407655,
@@ -2154,7 +2811,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "billiard",
-                  "text": "Dies ist eine Attraktion in der Stadt Sétif.",
+                  "text": "Ein bekanntes Gebäude mit einer Billardhalle in Setif.",
                   "category": "landmark",
                   "coords": [
                         5.392735,
@@ -2165,7 +2822,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Sétif Nemzeti Múzeum",
-                  "text": "A Sétif Nemzeti Múzeum egy régészeti múzeum, amely római kori leleteiről ismert.",
+                  "text": "Múzeum római és bizánci mozaikokkal.",
                   "category": "museum",
                   "coords": [
                         5.409928,
@@ -2174,7 +2831,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Setif Zoo",
-                  "text": "Ez egy állatkert Sétif városában.",
+                  "text": "A 'This' családi látványosság Setifben szabadidős tevékenységeket kínál.",
                   "category": "family",
                   "coords": [
                         5.406747,
@@ -2183,7 +2840,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Kamaru Cave",
-                  "text": "Ez egy színház Sétif városában.",
+                  "text": "A 'This' kulturális helyszín Setifben.",
                   "category": "cultural",
                   "coords": [
                         5.430051,
@@ -2192,7 +2849,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Chambre de l'artisanat",
-                  "text": "A Chambre de l'artisanat egy múzeum Sétif városában.",
+                  "text": "Kézműves kamara Setifben.",
                   "category": "museum",
                   "coords": [
                         5.405398,
@@ -2201,7 +2858,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Roman Ruins",
-                  "text": "Ez egy régészeti lelőhely Sétif városában.",
+                  "text": "A 'This' történelmi helyszín Setifben.",
                   "category": "historical",
                   "coords": [
                         5.404307,
@@ -2210,7 +2867,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Setifis Amusement Park",
-                  "text": "Ez egy vidámpark Sétif városában.",
+                  "text": "Családi park játszótérrel és piknikezőhelyekkel Setifben.",
                   "category": "family",
                   "coords": [
                         5.406657,
@@ -2219,7 +2876,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Setif Theatre",
-                  "text": "Ez egy színház Sétif városában.",
+                  "text": "Kulturális központ kiállítótermekkel és rendezvényteremmel Setifben.",
                   "category": "cultural",
                   "coords": [
                         5.405999,
@@ -2228,7 +2885,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "CV.ilot 47- 1 Musée du Moudjahid",
-                  "text": "A CV.ilot 47- 1 Musée du Moudjahid egy múzeum Sétif városában.",
+                  "text": "Múzeum az algériai függetlenségi harcosok (moudzsahidok) emlékére Setifben.",
                   "category": "museum",
                   "coords": [
                         5.405222,
@@ -2246,7 +2903,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Lotus Flower Monument",
-                  "text": "Ez egy emlékmű Sétif városában.",
+                  "text": "Történelmi helyszín Setif óvárosának maradványaival.",
                   "category": "historical",
                   "coords": [
                         5.40624,
@@ -2255,7 +2912,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Pirate Ship",
-                  "text": "Ez egy látványosság Sétif városában.",
+                  "text": "Egy feltűnő építmény, talán egy óratorony, Setif főterén.",
                   "category": "landmark",
                   "coords": [
                         5.408119,
@@ -2264,7 +2921,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "The Train",
-                  "text": "Ez egy látványosság Sétif városában.",
+                  "text": "Egy másik feltűnő nevezetesség Setif belvárosában.",
                   "category": "landmark",
                   "coords": [
                         5.407655,
@@ -2273,7 +2930,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "billiard",
-                  "text": "Ez egy látványosság Sétif városában.",
+                  "text": "Egy ismert épület biliárdteremmel Setifben.",
                   "category": "landmark",
                   "coords": [
                         5.392735,
@@ -2284,7 +2941,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Muzeul Național din Sétif",
-                  "text": "Muzeul Național din Sétif este un muzeu arheologic cunoscut pentru artefactele sale romane.",
+                  "text": "Muzeu cu mozaicuri romane și bizantine.",
                   "category": "museum",
                   "coords": [
                         5.409928,
@@ -2293,7 +2950,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Acesta",
-                  "text": "Acesta este un parc zoologic situat în orașul Sétif.",
+                  "text": "Atracția familială 'This' din Setif oferă activități de agrement.",
                   "category": "family",
                   "coords": [
                         5.406747,
@@ -2302,7 +2959,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Acesta",
-                  "text": "Acesta este un teatru situat în orașul Sétif.",
+                  "text": "Spațiul cultural 'This' din Setif.",
                   "category": "cultural",
                   "coords": [
                         5.430051,
@@ -2311,7 +2968,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Chambre de l'artisanat",
-                  "text": "Chambre de l'artisanat este un muzeu situat în orașul Sétif.",
+                  "text": "O cameră a meșteșugurilor în Setif.",
                   "category": "museum",
                   "coords": [
                         5.405398,
@@ -2320,7 +2977,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Acesta",
-                  "text": "Acesta este un sit arheologic situat în orașul Sétif.",
+                  "text": "Situl istoric 'This' din Setif.",
                   "category": "historical",
                   "coords": [
                         5.404307,
@@ -2329,7 +2986,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Acesta",
-                  "text": "Acesta este un parc de distracții situat în orașul Sétif.",
+                  "text": "Un parc de familie cu loc de joacă și zone de picnic în Setif.",
                   "category": "family",
                   "coords": [
                         5.406657,
@@ -2338,7 +2995,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Acesta",
-                  "text": "Acesta este un teatru situat în orașul Sétif.",
+                  "text": "Un centru cultural cu săli de expoziție și sală de evenimente în Setif.",
                   "category": "cultural",
                   "coords": [
                         5.405999,
@@ -2347,7 +3004,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "CV.ilot 47- 1 Musée du Moudjahid",
-                  "text": "CV.ilot 47- 1 Musée du Moudjahid este un muzeu situat în orașul Sétif.",
+                  "text": "Muzeul dedicat luptătorilor pentru independența Algeriei (Moudjahid) în Setif.",
                   "category": "museum",
                   "coords": [
                         5.405222,
@@ -2365,7 +3022,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Acesta",
-                  "text": "Acesta este un monument situat în orașul Sétif.",
+                  "text": "Un sit istoric cu rămășițele orașului vechi din Setif.",
                   "category": "historical",
                   "coords": [
                         5.40624,
@@ -2374,7 +3031,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Aceasta",
-                  "text": "Aceasta este o atracție situată în orașul Sétif.",
+                  "text": "Un reper arhitectural, posibil un turn cu ceas, pe piața principală din Setif.",
                   "category": "landmark",
                   "coords": [
                         5.408119,
@@ -2383,7 +3040,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Aceasta",
-                  "text": "Aceasta este o atracție situată în orașul Sétif.",
+                  "text": "Un alt reper proeminent în centrul orașului Setif.",
                   "category": "landmark",
                   "coords": [
                         5.407655,
@@ -2392,7 +3049,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "billiard",
-                  "text": "Aceasta este o atracție situată în orașul Sétif.",
+                  "text": "O clădire cunoscută cu o sală de biliard în Setif.",
                   "category": "landmark",
                   "coords": [
                         5.392735,
@@ -2403,7 +3060,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "National Museum of Sétif",
-                  "text": "The National Museum of Sétif is an archaeological museum known for its collection of Roman artifacts.",
+                  "text": "Museum displaying Roman and Byzantine mosaics.",
                   "category": "museum",
                   "coords": [
                         5.409928,
@@ -2412,7 +3069,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "This",
-                  "text": "This is a zoo located in the city of Sétif.",
+                  "text": "The family attraction 'This' in Setif offers leisure activities.",
                   "category": "family",
                   "coords": [
                         5.406747,
@@ -2421,7 +3078,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "This",
-                  "text": "This is a theatre located in the city of Sétif.",
+                  "text": "The cultural venue 'This' in Setif.",
                   "category": "cultural",
                   "coords": [
                         5.430051,
@@ -2430,7 +3087,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Chambre de l'artisanat",
-                  "text": "Chambre de l'artisanat is a museum located in the city of Sétif.",
+                  "text": "A crafts and trades chamber in Setif.",
                   "category": "museum",
                   "coords": [
                         5.405398,
@@ -2439,7 +3096,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "This",
-                  "text": "This is an archaeological site located in the city of Sétif.",
+                  "text": "The historical site 'This' in Setif.",
                   "category": "historical",
                   "coords": [
                         5.404307,
@@ -2448,7 +3105,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "This",
-                  "text": "This is a theme park located in the city of Sétif.",
+                  "text": "A family park with a playground and picnic areas in Setif.",
                   "category": "family",
                   "coords": [
                         5.406657,
@@ -2457,7 +3114,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "This",
-                  "text": "This is a theatre located in the city of Sétif.",
+                  "text": "A cultural center with exhibition halls and an event hall in Setif.",
                   "category": "cultural",
                   "coords": [
                         5.405999,
@@ -2466,7 +3123,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "CV.ilot 47- 1 Musée du Moudjahid",
-                  "text": "CV.ilot 47- 1 Musée du Moudjahid is a museum located in the city of Sétif.",
+                  "text": "Museum commemorating the Algerian independence fighters (Moudjahid) in Setif.",
                   "category": "museum",
                   "coords": [
                         5.405222,
@@ -2484,7 +3141,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "This",
-                  "text": "This is a monument located in the city of Sétif.",
+                  "text": "A historical site with remnants of the old town of Setif.",
                   "category": "historical",
                   "coords": [
                         5.40624,
@@ -2493,7 +3150,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "This",
-                  "text": "This is an attraction located in the city of Sétif.",
+                  "text": "A prominent landmark, possibly a clock tower, on the main square of Setif.",
                   "category": "landmark",
                   "coords": [
                         5.408119,
@@ -2502,7 +3159,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "This",
-                  "text": "This is an attraction located in the city of Sétif.",
+                  "text": "Another prominent landmark in the city center of Setif.",
                   "category": "landmark",
                   "coords": [
                         5.407655,
@@ -2511,7 +3168,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "billiard",
-                  "text": "This is an attraction located in the city of Sétif.",
+                  "text": "A well-known building with a billiard hall in Setif.",
                   "category": "landmark",
                   "coords": [
                         5.392735,
@@ -2558,7 +3215,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Theâtre de Verdure",
-                  "text": "Freilichttheater in Sidi Bel Abbès.",
+                  "text": "Das Théâtre de Verdure, ein Freilichttheater mit Bühne und Sitzreihen im Grünen in Bel Abbes.",
                   "category": "cultural",
                   "coords": [
                         -0.644055,
@@ -2567,7 +3224,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Planétarium - la coupole",
-                  "text": "Planetarium in Sidi Bel Abbès.",
+                  "text": "Das Planetarium La Coupole mit Kuppel und Sternenprojektionen in Bel Abbes.",
                   "category": "museum",
                   "coords": [
                         -0.6331,
@@ -2576,7 +3233,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musée du Moudjahid",
-                  "text": "Museum für den Unabhängigkeitskrieg in Sidi Bel Abbès.",
+                  "text": "Museum der Mudschaheddin mit Waffen und Dokumenten des Unabhängigkeitskrieges in Bel Abbes.",
                   "category": "museum",
                   "coords": [
                         -0.638234,
@@ -2585,7 +3242,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Théâtre Régional SBA",
-                  "text": "Das Théâtre Régional SBA ist ein bekanntes Theater in Sidi Bel Abbès.",
+                  "text": "Das regionale Theater (Théâtre Régional SBA) mit Schauspiel- und Musikaufführungen in Bel Abbes.",
                   "category": "cultural",
                   "coords": [
                         -0.633218,
@@ -2612,7 +3269,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de la culture Kateb Yassine",
-                  "text": "Das Maison de la culture Kateb Yassine ist ein Kulturzentrum in Sidi Bel Abbès.",
+                  "text": "Kulturhaus Kateb Yassine mit Bibliothek und Galerien, benannt nach dem algerischen Schriftsteller in Bel Abbes.",
                   "category": "cultural",
                   "coords": [
                         -0.624494,
@@ -2623,7 +3280,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Theâtre de Verdure",
-                  "text": "Szabadtéri színház Sidi Bel Abbèsben.",
+                  "text": "Théâtre de Verdure, egy szabadtéri színház színpaddal és üléssorokkal a zöldben Bel Abbesben.",
                   "category": "cultural",
                   "coords": [
                         -0.644055,
@@ -2632,7 +3289,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Planétarium - la coupole",
-                  "text": "Planetárium Sidi Bel Abbèsben.",
+                  "text": "La Coupole planetárium kupolával és csillagprojekciókkal Bel Abbesben.",
                   "category": "museum",
                   "coords": [
                         -0.6331,
@@ -2641,7 +3298,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musée du Moudjahid",
-                  "text": "Függetlenségi háborús múzeum Sidi Bel Abbèsben.",
+                  "text": "Moudzsahid múzeum a függetlenségi háború fegyvereivel és dokumentumaival Bel Abbesben.",
                   "category": "museum",
                   "coords": [
                         -0.638234,
@@ -2650,7 +3307,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Théâtre Régional SBA",
-                  "text": "A Théâtre Régional SBA egy jelentős színház Sidi Bel Abbès városában.",
+                  "text": "Regionális Színház (Théâtre Régional SBA) színielőadásokkal és koncertekkel Bel Abbesben.",
                   "category": "cultural",
                   "coords": [
                         -0.633218,
@@ -2677,7 +3334,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de la culture Kateb Yassine",
-                  "text": "A Maison de la culture Kateb Yassine egy kulturális központ Sidi Bel Abbès-ben.",
+                  "text": "Kateb Yassine Kulturház könyvtárral és galériákkal, az algériai íróról elnevezve Bel Abbesben.",
                   "category": "cultural",
                   "coords": [
                         -0.624494,
@@ -2688,7 +3345,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Theâtre de Verdure",
-                  "text": "Teatru în aer liber din Sidi Bel Abbès.",
+                  "text": "Théâtre de Verdure, un teatru în aer liber cu scenă și rânduri de scaune în verdeață în Bel Abbes.",
                   "category": "cultural",
                   "coords": [
                         -0.644055,
@@ -2697,7 +3354,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Planétarium - la coupole",
-                  "text": "Planetariu în Sidi Bel Abbès.",
+                  "text": "Planetariul La Coupole, cu dom și proiecții stelare în Bel Abbes.",
                   "category": "museum",
                   "coords": [
                         -0.6331,
@@ -2706,7 +3363,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musée du Moudjahid",
-                  "text": "Muzeul Războiului de Independență din Sidi Bel Abbès.",
+                  "text": "Muzeul Moudjahid cu arme și documente din războiul de independență în Bel Abbes.",
                   "category": "museum",
                   "coords": [
                         -0.638234,
@@ -2715,7 +3372,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Théâtre Régional SBA",
-                  "text": "Théâtre Régional SBA este un teatru important din Sidi Bel Abbès.",
+                  "text": "Teatrul Regional (Théâtre Régional SBA) cu piese de teatru și concerte în Bel Abbes.",
                   "category": "cultural",
                   "coords": [
                         -0.633218,
@@ -2742,7 +3399,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de la culture Kateb Yassine",
-                  "text": "Maison de la culture Kateb Yassine este un centru cultural din Sidi Bel Abbès.",
+                  "text": "Casa de Cultură Kateb Yassine cu bibliotecă și galerii, numită după scriitorul algerian în Bel Abbes.",
                   "category": "cultural",
                   "coords": [
                         -0.624494,
@@ -2753,7 +3410,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Theâtre de Verdure",
-                  "text": "Open-air theatre in Sidi Bel Abbès.",
+                  "text": "Théâtre de Verdure, an open-air theatre with a stage and seating rows amidst greenery in Bel Abbes.",
                   "category": "cultural",
                   "coords": [
                         -0.644055,
@@ -2762,7 +3419,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Planétarium - la coupole",
-                  "text": "Planetarium in Sidi Bel Abbès.",
+                  "text": "The planetarium La Coupole with a dome and star projections in Bel Abbes.",
                   "category": "museum",
                   "coords": [
                         -0.6331,
@@ -2771,7 +3428,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musée du Moudjahid",
-                  "text": "Museum of the War of Independence in Sidi Bel Abbès.",
+                  "text": "Museum of the Moudjahid featuring weapons and documents from the War of Independence in Bel Abbes.",
                   "category": "museum",
                   "coords": [
                         -0.638234,
@@ -2780,7 +3437,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Théâtre Régional SBA",
-                  "text": "The Théâtre Régional SBA is a prominent theater in Sidi Bel Abbès.",
+                  "text": "The regional theatre (Théâtre Régional SBA) hosting plays and concerts in Bel Abbes.",
                   "category": "cultural",
                   "coords": [
                         -0.633218,
@@ -2807,7 +3464,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de la culture Kateb Yassine",
-                  "text": "The Maison de la culture Kateb Yassine is a cultural center in Sidi Bel Abbès.",
+                  "text": "The Kateb Yassine Culture House with a library and galleries, named after the Algerian writer in Bel Abbes.",
                   "category": "cultural",
                   "coords": [
                         -0.624494,
@@ -2854,7 +3511,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "The Theatre",
-                  "text": "Das المسرح (Theater) ist ein Veranstaltungsort in Biskra.",
+                  "text": "Ein Theatergebäude mit Bühne und Zuschauerraum in Biskra.",
                   "category": "cultural",
                   "coords": [
                         5.712581,
@@ -2863,7 +3520,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Cultural Center",
-                  "text": "Das دار ثقافة (Kulturhaus) ist ein Kunstzentrum in Biskra.",
+                  "text": "Ein Kulturzentrum mit Konferenzräumen und Kunstausstellungen in Biskra.",
                   "category": "cultural",
                   "coords": [
                         5.740753,
@@ -2872,7 +3529,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Culture House",
-                  "text": "Das دار الثقافة (Haus der Kultur) ist ein Kunst- und Kulturzentrum in Biskra.",
+                  "text": "Kulturhaus mit Veranstaltungen und Workshops in Biskra.",
                   "category": "cultural",
                   "coords": [
                         5.745648,
@@ -2881,7 +3538,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Islamic Cultural Center",
-                  "text": "Das المركز الثقافي الإسلامي (Islamisches Kulturzentrum) ist ein Zentrum in Biskra.",
+                  "text": "Islamisches Kulturzentrum mit Gebetsraum und Bibliothek in Biskra.",
                   "category": "cultural",
                   "coords": [
                         5.733473,
@@ -2892,7 +3549,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "The Theatre",
-                  "text": "A المسرح (Színház) egy előadóhely Biskrában.",
+                  "text": "Színházépület színpaddal és nézőtérrel Biskrában.",
                   "category": "cultural",
                   "coords": [
                         5.712581,
@@ -2901,7 +3558,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Cultural Center",
-                  "text": "A دار ثقافة (Kultúrház) egy művészeti központ Biskrában.",
+                  "text": "Kulturális központ konferenciatermekkel és művészeti kiállításokkal Biskrában.",
                   "category": "cultural",
                   "coords": [
                         5.740753,
@@ -2910,7 +3567,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Culture House",
-                  "text": "A دار الثقافة (Kultúra Háza) egy művészeti és kulturális központ Biskrában.",
+                  "text": "Kultúrház rendezvényekkel és workshopokkal Biskrában.",
                   "category": "cultural",
                   "coords": [
                         5.745648,
@@ -2919,7 +3576,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Islamic Cultural Center",
-                  "text": "A المركز الثقافي الإسلامي (Iszlám Kulturális Központ) egy központ Biskrában.",
+                  "text": "Iszlám Kulturális Központ imateremmel és könyvtárral Biskrában.",
                   "category": "cultural",
                   "coords": [
                         5.733473,
@@ -2930,7 +3587,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "The Theatre",
-                  "text": "المسرح (Teatrul) este un loc de spectacole din Biskra.",
+                  "text": "O clădire de teatru cu scenă și sală de spectatori în Biskra.",
                   "category": "cultural",
                   "coords": [
                         5.712581,
@@ -2939,7 +3596,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Cultural Center",
-                  "text": "دار ثقافة (Casa de Cultură) este un centru de arte din Biskra.",
+                  "text": "Un centru cultural cu săli de conferință și expoziții de artă în Biskra.",
                   "category": "cultural",
                   "coords": [
                         5.740753,
@@ -2948,7 +3605,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Culture House",
-                  "text": "دار الثقافة (Casa Culturii) este un centru de artă și cultură din Biskra.",
+                  "text": "Casă de cultură cu evenimente și ateliere în Biskra.",
                   "category": "cultural",
                   "coords": [
                         5.745648,
@@ -2957,7 +3614,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Islamic Cultural Center",
-                  "text": "المركز الثقافي الإسلامي (Centrul Cultural Islamic) este un centru din Biskra.",
+                  "text": "Centru Cultural Islamic cu sală de rugăciune și bibliotecă în Biskra.",
                   "category": "cultural",
                   "coords": [
                         5.733473,
@@ -2968,7 +3625,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "The Theatre",
-                  "text": "The المسرح (Theatre) is a performance venue located in Biskra.",
+                  "text": "A theatre building with a stage and auditorium in Biskra.",
                   "category": "cultural",
                   "coords": [
                         5.712581,
@@ -2977,7 +3634,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Cultural Center",
-                  "text": "The دار ثقافة (House of Culture) is an arts centre in Biskra.",
+                  "text": "A cultural center with conference rooms and art exhibitions in Biskra.",
                   "category": "cultural",
                   "coords": [
                         5.740753,
@@ -2986,7 +3643,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Culture House",
-                  "text": "The دار الثقافة (House of Culture) is an arts and cultural centre in Biskra.",
+                  "text": "A culture house with events and workshops in Biskra.",
                   "category": "cultural",
                   "coords": [
                         5.745648,
@@ -2995,7 +3652,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Islamic Cultural Center",
-                  "text": "The المركز الثقافي الإسلامي (Islamic Cultural Center) is a centre located in Biskra.",
+                  "text": "Islamic Cultural Center with a prayer hall and library in Biskra.",
                   "category": "cultural",
                   "coords": [
                         5.733473,
@@ -3077,7 +3734,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Amusement Park",
-                  "text": "Dieser Vergnügungspark befindet sich in El Oued.",
+                  "text": "Ein Vergnügungspark mit Fahrgeschäften und Spielplätzen in El Oued.",
                   "category": "family",
                   "coords": [
                         6.858386,
@@ -3086,7 +3743,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Makam Echahid",
-                  "text": "Makam Echahid ist ein bedeutendes Denkmal in El Oued.",
+                  "text": "Märtyrerdenkmal (Makam Echahid) zur Erinnerung an die Gefallenen in El Oued.",
                   "category": "historical",
                   "coords": [
                         6.863158,
@@ -3095,7 +3752,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Marché El Oued",
-                  "text": "Der Marché El Oued ist ein belebter Handelsort in der Stadt.",
+                  "text": "Der Markt von El Oued mit Ständen für lokale Produkte und Kunsthandwerk.",
                   "category": "landmark",
                   "coords": [
                         6.865175,
@@ -3104,7 +3761,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Sami meuble",
-                  "text": "Sami meuble ist ein Aussichtspunkt in El Oued.",
+                  "text": "Ein Naturgebiet mit einheimischer Vegetation und Spazierwegen in El Oued.",
                   "category": "natural",
                   "coords": [
                         6.873007,
@@ -3113,7 +3770,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Torner",
-                  "text": "Torner ist ein Aussichtspunkt in El Oued.",
+                  "text": "Eine Natursehenswürdigkeit namens Torner mit Sanddünen und Oasen in El Oued.",
                   "category": "natural",
                   "coords": [
                         6.850163,
@@ -3122,7 +3779,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de la Culture (Ancienne)",
-                  "text": "Das ehemalige Maison de la Culture ist ein Kulturzentrum in El Oued.",
+                  "text": "Das alte Kulturhaus in El Oued, ein historisches Gebäude mit kulturellen Veranstaltungen.",
                   "category": "cultural",
                   "coords": [
                         6.865103,
@@ -3131,7 +3788,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Islamische Kulturzentrum in El Oued",
-                  "text": "Das Islamische Kulturzentrum in El Oued ist ein Ort der Begegnung.",
+                  "text": "Islamisches Kulturzentrum mit Moschee und Bildungsangeboten in El Oued.",
                   "category": "cultural",
                   "coords": [
                         6.864594,
@@ -3140,7 +3797,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de l'artisanat et des métiers",
-                  "text": "Das Haus des Kunsthandwerks ist ein kulturelles Zentrum in El Oued.",
+                  "text": "Handwerkshaus mit Werkstätten und Verkauf von Kunsthandwerk in El Oued.",
                   "category": "cultural",
                   "coords": [
                         6.871662,
@@ -3151,7 +3808,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Amusement Park",
-                  "text": "Ez a szórakoztatópark El Oued városában található.",
+                  "text": "Vidámpark körhintákkal és játszóterekkel El Ouedben.",
                   "category": "family",
                   "coords": [
                         6.858386,
@@ -3160,7 +3817,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Makam Echahid",
-                  "text": "A Makam Echahid egy jelentős emlékhely El Oued városában.",
+                  "text": "Mártíremlékmű (Makam Echahid) az elesettek emlékére El Ouedben.",
                   "category": "historical",
                   "coords": [
                         6.863158,
@@ -3169,7 +3826,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Marché El Oued",
-                  "text": "A Marché El Oued egy forgalmas kereskedelmi hely a városban.",
+                  "text": "El Oued piaca helyi termékek és kézműves áruk standjaival.",
                   "category": "landmark",
                   "coords": [
                         6.865175,
@@ -3178,7 +3835,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Sami meuble",
-                  "text": "A Sami meuble egy kilátópont El Oued városában.",
+                  "text": "Természeti terület őshonos növényzettel és sétányokkal El Ouedben.",
                   "category": "natural",
                   "coords": [
                         6.873007,
@@ -3187,7 +3844,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Torner",
-                  "text": "A Torner egy kilátópont El Oued városában.",
+                  "text": "Torner nevű természeti nevezetesség homokdűnékkel és oázisokkal El Ouedben.",
                   "category": "natural",
                   "coords": [
                         6.850163,
@@ -3196,7 +3853,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de la Culture (Ancienne)",
-                  "text": "A korábbi Maison de la Culture egy kulturális központ El Oued városában.",
+                  "text": "A régi kultúrház El Ouedben, egy történelmi épület kulturális eseményekkel.",
                   "category": "cultural",
                   "coords": [
                         6.865103,
@@ -3205,7 +3862,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "iszlám kulturális központ El Oued városában",
-                  "text": "Az iszlám kulturális központ El Oued városában a találkozás helyszíne.",
+                  "text": "Iszlám Kulturális Központ mecsettel és oktatási programokkal El Ouedben.",
                   "category": "cultural",
                   "coords": [
                         6.864594,
@@ -3214,7 +3871,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de l'artisanat et des métiers",
-                  "text": "A kézművesház egy kulturális központ El Oued városában.",
+                  "text": "Kézművesház műhelyekkel és kézműves termékek árusításával El Ouedben.",
                   "category": "cultural",
                   "coords": [
                         6.871662,
@@ -3225,7 +3882,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Acest parc de distracții",
-                  "text": "Acest parc de distracții este situat în El Oued.",
+                  "text": "Un parc de distracții cu carusele și locuri de joacă în El Oued.",
                   "category": "family",
                   "coords": [
                         6.858386,
@@ -3234,7 +3891,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Makam Echahid",
-                  "text": "Makam Echahid este un monument important din El Oued.",
+                  "text": "Memorialul Martirilor (Makam Echahid) în amintirea căzuților în El Oued.",
                   "category": "historical",
                   "coords": [
                         6.863158,
@@ -3243,7 +3900,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Marché El Oued",
-                  "text": "Marché El Oued este un loc comercial animat din oraș.",
+                  "text": "Piața din El Oued cu standuri de produse locale și artizanat.",
                   "category": "landmark",
                   "coords": [
                         6.865175,
@@ -3252,7 +3909,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Sami meuble",
-                  "text": "Sami meuble este un punct de observație în El Oued.",
+                  "text": "O zonă naturală cu vegetație nativă și alei de plimbare în El Oued.",
                   "category": "natural",
                   "coords": [
                         6.873007,
@@ -3261,7 +3918,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Torner",
-                  "text": "Torner este un punct de observație în El Oued.",
+                  "text": "Un reper natural numit Torner cu dune de nisip și oaze în El Oued.",
                   "category": "natural",
                   "coords": [
                         6.850163,
@@ -3270,7 +3927,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de la Culture (Ancienne)",
-                  "text": "Fosta Maison de la Culture este un centru cultural din El Oued.",
+                  "text": "Vechea Casă de Cultură din El Oued, o clădire istorică cu evenimente culturale.",
                   "category": "cultural",
                   "coords": [
                         6.865103,
@@ -3279,7 +3936,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Centrul Cultural Islamic din El Oued",
-                  "text": "Centrul Cultural Islamic din El Oued este un loc de întâlnire.",
+                  "text": "Centru Cultural Islamic cu moschee și programe educaționale în El Oued.",
                   "category": "cultural",
                   "coords": [
                         6.864594,
@@ -3288,7 +3945,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de l'artisanat et des métiers",
-                  "text": "Casa artizanatului este un centru cultural din El Oued.",
+                  "text": "Casă a meșteșugurilor cu ateliere și vânzare de artizanat în El Oued.",
                   "category": "cultural",
                   "coords": [
                         6.871662,
@@ -3299,7 +3956,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Amusement Park",
-                  "text": "This amusement park is located in El Oued.",
+                  "text": "An amusement park with rides and playgrounds in El Oued.",
                   "category": "family",
                   "coords": [
                         6.858386,
@@ -3308,7 +3965,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Makam Echahid",
-                  "text": "Makam Echahid is a significant monument in El Oued.",
+                  "text": "The Martyrs' Memorial (Makam Echahid) commemorating the fallen in El Oued.",
                   "category": "historical",
                   "coords": [
                         6.863158,
@@ -3317,7 +3974,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Marché El oued",
-                  "text": "The Marché El Oued is a busy commercial site in the city.",
+                  "text": "The market of El Oued with stalls for local produce and handicrafts.",
                   "category": "landmark",
                   "coords": [
                         6.865175,
@@ -3326,7 +3983,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Sami meuble",
-                  "text": "Sami meuble is a viewpoint in El Oued.",
+                  "text": "A natural area with native vegetation and walking paths in El Oued.",
                   "category": "natural",
                   "coords": [
                         6.873007,
@@ -3335,7 +3992,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Torner",
-                  "text": "Torner is a viewpoint in El Oued.",
+                  "text": "A natural landmark called Torner with sand dunes and oases in El Oued.",
                   "category": "natural",
                   "coords": [
                         6.850163,
@@ -3344,7 +4001,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de la Culture (Ancienne)",
-                  "text": "The former Maison de la Culture is a cultural center in El Oued.",
+                  "text": "The old Culture House in El Oued, a historic building hosting cultural events.",
                   "category": "cultural",
                   "coords": [
                         6.865103,
@@ -3353,7 +4010,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Islamic Cultural Center in El Oued",
-                  "text": "The Islamic Cultural Center in El Oued is a place of gathering.",
+                  "text": "Islamic Cultural Center with a mosque and educational programs in El Oued.",
                   "category": "cultural",
                   "coords": [
                         6.864594,
@@ -3362,7 +4019,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de l'artisanat et des métiers",
-                  "text": "The House of Crafts is a cultural center in El Oued.",
+                  "text": "House of crafts with workshops and sale of handicrafts in El Oued.",
                   "category": "cultural",
                   "coords": [
                         6.871662,
@@ -3405,7 +4062,484 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["Chaque pièce d'une maison traditionnelle possède sa propre coupole.", "La ville est le chef-lieu de la province d'El Oued.", "La région fait partie du Grand Erg Oriental, un immense désert de sable.", "Le système d'irrigation des 'ghouts' est unique dans la région.", "El Oued est un marché important pour les dattes et autres produits locaux.", "La population de la ville s'élève à plus de 130 000 habitants.", "L'architecture est influencée par la tradition ibadite de la vallée du M'zab.", "Les températures peuvent dépasser les 50 °C en été."],
     }, image: "/poi-images/el-oued-cities-v2.webp"},
   {
-    id: "skikda-cities-v2", "sights": {"de": [{"name": "Théatre régional de Skikda", "text": "Das Théatre régional de Skikda ist ein regionales Theater in Skikda.", "category": "cultural", "coords": [6.906487, 36.881245]}, {"name": "Théâtre Romain", "text": "Das Théâtre Romain ist ein antikes römisches Amphitheater in Skikda.", "category": "cultural", "coords": [6.905171, 36.87961]}, {"name": "Musée", "text": "Das Musée ist ein lokales Museum in der Stadt Skikda.", "category": "museum", "coords": [6.905329, 36.88328]}, {"name": "Musée d'el Moujahid", "text": "Das Musée d'el Moujahid ist ein Museum in Skikda.", "category": "museum", "coords": [6.920248, 36.871067]}, {"name": "Palais Meriem (Chateau Bengana)", "text": "Das Palais Meriem (Chateau Bengana) ist ein bemerkenswertes Schloss in Skikda.", "category": "castle", "coords": [6.897138, 36.886565]}, {"name": "Plage Château Vert", "text": "Die Plage Château Vert bringt charmantes Küstenflair in die Stadt Skikda. Dieser Strandabschnitt ist ein beliebter Treffpunkt, um das algerische Meeresrauschen zu genießen. Ob für einen kurzen Spaziergang oder einen entspannten Nachmittag, die Kulisse ist stets einladend.", "category": "recreational", "coords": [6.895436, 36.888121]}, {"name": "Plage Market", "text": "Als stadtnaher Küstenstrand bietet die Plage Market in Skikda eine leicht zugängliche Oase am Mittelmeer. Das lebhafte Ambiente macht den Ort ideal, um das lokale Treiben mit entspannten Stunden am Wasser zu verbinden. Morgens ist es hier oft angenehm ruhig.", "category": "recreational", "coords": [6.890403, 36.890377]}, {"name": "Plage Militaire 1", "text": "Die Plage Militaire 1 fügt sich nahtlos in die Küstenlinie von Skikda ein. Besucher finden hier einen ruhigeren Ort, um dem Meereshorizont entgegenzublicken und die salzige Luft zu atmen. Ein schöner Stopp, um an der algerischen Küste kurz die Seele baumeln zu lassen.", "category": "recreational", "coords": [6.887051, 36.892162]}, {"name": "Plage Paradis", "text": "Wie der Name schon andeutet, lockt die Plage Paradis in Skikda mit einer malerischen Kulisse. Dieser Strandbereich bietet feinen Sand und sanfte Wellen, perfekt für sonnige Erholungstage. Ein echtes algerisches Küstenjuwel, das man am besten bis zum Sonnenuntergang genießt.", "category": "recreational", "coords": [6.883826, 36.894217]}, {"name": "Centre Culturel Issat Idir", "text": "Das Issat Idir Cultural Centre ist ein Kunstzentrum in Skikda.", "category": "cultural", "coords": [6.910689, 36.875442]}, {"name": "Centre Culturel Ali Tlilani", "text": "Das Centre Culturel Ali Tlilani ist ein Kulturzentrum in Skikda.", "category": "cultural", "coords": [6.91569, 36.869109]}, {"name": "Palais de la Culture et des Arts", "text": "Der Palace of Culture and Arts ist ein Kulturzentrum in Skikda.", "category": "cultural", "coords": [6.911284, 36.882213]}, {"name": "Maison de Culture Mohamed Seradj", "text": "Die Maison de Culture Mohamed Seradj ist ein Kunst- und Kulturzentrum in Skikda.", "category": "cultural", "coords": [6.909327, 36.868234]}], "hu": [{"name": "Théatre régional de Skikda", "text": "A Théatre régional de Skikda egy regionális színház Skikdában.", "category": "cultural", "coords": [6.906487, 36.881245]}, {"name": "Théâtre Romain", "text": "A Théâtre Romain egy ókori római amfiteátrum Skikda városában.", "category": "cultural", "coords": [6.905171, 36.87961]}, {"name": "Musée", "text": "A Musée egy helyi múzeum Skikda városában.", "category": "museum", "coords": [6.905329, 36.88328]}, {"name": "Musée d'el Moujahid", "text": "A Musée d'el Moujahid egy múzeum Skikdában.", "category": "museum", "coords": [6.920248, 36.871067]}, {"name": "Palais Meriem (Chateau Bengana)", "text": "A Palais Meriem (Chateau Bengana) egy figyelemre méltó kastély Skikdában.", "category": "castle", "coords": [6.897138, 36.886565]}, {"name": "Plage Château Vert", "text": "A Plage Château Vert elbűvölő tengerparti hangulatot varázsol Skikda városába. Ez a partszakasz népszerű találkozóhely az algériai tenger zúgásának élvezetére. Legyen szó egy rövid sétáról vagy egy pihentető délutánról, a környezet mindig hívogató.", "category": "recreational", "coords": [6.895436, 36.888121]}, {"name": "Plage Market", "text": "A városhoz közeli tengerparti strandként a Plage Market Skikdában egy könnyen megközelíthető oázist kínál a Földközi-tenger partján. Az élénk légkör ideálissá teszi a helyszínt, hogy a helyi nyüzsgést a vízparti pihenéssel kössük össze. Reggelente itt gyakran kellemesen csendes.", "category": "recreational", "coords": [6.890403, 36.890377]}, {"name": "Plage Militaire 1", "text": "A Plage Militaire 1 zökkenőmentesen illeszkedik Skikda partvonalába. A látogatók itt nyugodtabb helyet találnak arra, hogy a tengeri horizont felé tekintsenek és beszívják a sós levegőt. Szép megálló az algériai partvidéken, hogy egy kicsit kikapcsolódjunk.", "category": "recreational", "coords": [6.887051, 36.892162]}, {"name": "Plage Paradis", "text": "Ahogy a neve is sugallja, a skikdai Plage Paradis festői környezettel csábít. Ez a strand finom homokot és lágy hullámokat kínál, amely tökéletes a napsütéses pihenőnapokhoz. Egy igazi algériai tengerparti gyöngyszem, amelyet a naplementéig érdemes élvezni.", "category": "recreational", "coords": [6.883826, 36.894217]}, {"name": "Centre Culturel Issat Idir", "text": "Az Issat Idir Cultural Centre egy művészeti központ Skikdában.", "category": "cultural", "coords": [6.910689, 36.875442]}, {"name": "Centre Culturel Ali Tlilani", "text": "A Centre Culturel Ali Tlilani egy kulturális központ Skikdában.", "category": "cultural", "coords": [6.91569, 36.869109]}, {"name": "Palais de la Culture et des Arts", "text": "A Palace of Culture and Arts egy kulturális központ Skikdában.", "category": "cultural", "coords": [6.911284, 36.882213]}, {"name": "Maison de Culture Mohamed Seradj", "text": "A Maison de Culture Mohamed Seradj egy művészeti és kulturális központ Skikdában.", "category": "cultural", "coords": [6.909327, 36.868234]}], "ro": [{"name": "Théatre régional de Skikda", "text": "Théatre régional de Skikda este un teatru regional din Skikda.", "category": "cultural", "coords": [6.906487, 36.881245]}, {"name": "Théâtre Romain", "text": "Théâtre Romain este un antic amfiteatru roman din Skikda.", "category": "cultural", "coords": [6.905171, 36.87961]}, {"name": "Musée", "text": "Musée este un muzeu local din orașul Skikda.", "category": "museum", "coords": [6.905329, 36.88328]}, {"name": "Musée d'el Moujahid", "text": "Musée d'el Moujahid este un muzeu situat în Skikda.", "category": "museum", "coords": [6.920248, 36.871067]}, {"name": "Palais Meriem (Chateau Bengana)", "text": "Palais Meriem (Chateau Bengana) este un castel notabil din Skikda.", "category": "castle", "coords": [6.897138, 36.886565]}, {"name": "Plage Château Vert", "text": "Plage Château Vert aduce un farmec de coastă încântător în orașul Skikda. Această porțiune de plajă este un loc de întâlnire popular pentru a te bucura de sunetul mării algeriene. Fie pentru o scurtă plimbare sau o după-amiază relaxantă, peisajul este mereu primitor.", "category": "recreational", "coords": [6.895436, 36.888121]}, {"name": "Plage Market", "text": "Ca o plajă de coastă aproape de oraș, Plage Market din Skikda oferă o oază ușor accesibilă la Marea Mediterană. Ambianța plină de viață face locul ideal pentru a combina agitația locală cu ore relaxante la apă. Dimineața este adesea plăcut de liniște aici.", "category": "recreational", "coords": [6.890403, 36.890377]}, {"name": "Plage Militaire 1", "text": "Plage Militaire 1 se integrează perfect în linia de coastă din Skikda. Vizitatorii găsesc aici un loc mai liniștit pentru a privi spre orizontul mării și a respira aerul sărat. O oprire frumoasă pentru a vă relaxa un pic pe coasta algeriană.", "category": "recreational", "coords": [6.887051, 36.892162]}, {"name": "Plage Paradis", "text": "După cum sugerează și numele, Plage Paradis din Skikda atrage printr-un decor pitoresc. Această zonă de plajă oferă nisip fin și valuri blânde, perfecte pentru zile însorite de relaxare. O adevărată bijuterie a coastei algeriene, de care vă puteți bucura cel mai bine până la apus.", "category": "recreational", "coords": [6.883826, 36.894217]}, {"name": "Centre Culturel Issat Idir", "text": "Issat Idir Cultural Centre este un centru de arte din Skikda.", "category": "cultural", "coords": [6.910689, 36.875442]}, {"name": "Centre Culturel Ali Tlilani", "text": "Centre Culturel Ali Tlilani este un centru cultural în Skikda.", "category": "cultural", "coords": [6.91569, 36.869109]}, {"name": "Palais de la Culture et des Arts", "text": "Palace of Culture and Arts este un centru cultural din Skikda.", "category": "cultural", "coords": [6.911284, 36.882213]}, {"name": "Maison de Culture Mohamed Seradj", "text": "Maison de Culture Mohamed Seradj este un centru de artă și cultură din Skikda.", "category": "cultural", "coords": [6.909327, 36.868234]}], "en": [{"name": "Théatre régional de Skikda", "text": "The Théatre régional de Skikda is a regional theatre located in Skikda.", "category": "cultural", "coords": [6.906487, 36.881245]}, {"name": "Théâtre Romain", "text": "The Théâtre Romain is an ancient Roman amphitheater in Skikda.", "category": "cultural", "coords": [6.905171, 36.87961]}, {"name": "Musée", "text": "The Musée is a local museum located in the city of Skikda.", "category": "museum", "coords": [6.905329, 36.88328]}, {"name": "Musée d'el Moujahid", "text": "The Musée d'el Moujahid is a museum situated in Skikda.", "category": "museum", "coords": [6.920248, 36.871067]}, {"name": "Palais Meriem (Chateau Bengana)", "text": "The Palais Meriem (Chateau Bengana) is a notable castle in Skikda.", "category": "castle", "coords": [6.897138, 36.886565]}, {"name": "Plage Château Vert", "text": "Plage Château Vert brings charming coastal flair to the city of Skikda. This stretch of beach is a popular meeting point to enjoy the sound of the Algerian sea. Whether for a short walk or a relaxing afternoon, the setting is always inviting.", "category": "recreational", "coords": [6.895436, 36.888121]}, {"name": "Plage Market", "text": "As a coastal beach close to the city, Plage Market in Skikda offers an easily accessible oasis on the Mediterranean. The lively ambiance makes the spot ideal for combining local bustle with relaxing hours by the water. Mornings are often pleasantly quiet here.", "category": "recreational", "coords": [6.890403, 36.890377]}, {"name": "Plage Militaire 1", "text": "Plage Militaire 1 blends seamlessly into the coastline of Skikda. Visitors will find a quieter spot here to gaze out at the ocean horizon and breathe the salty air. A nice stop to briefly unwind on the Algerian coast.", "category": "recreational", "coords": [6.887051, 36.892162]}, {"name": "Plage Paradis", "text": "As the name implies, Plage Paradis in Skikda beckons with a picturesque setting. This beach area offers fine sand and gentle waves, perfect for sunny days of relaxation. A true Algerian coastal gem best enjoyed until sunset.", "category": "recreational", "coords": [6.883826, 36.894217]}, {"name": "Issat Idir Cultural Centre", "text": "The Issat Idir Cultural Centre is an arts centre in Skikda.", "category": "cultural", "coords": [6.910689, 36.875442]}, {"name": "Centre Culturel Ali Tlilani", "text": "The Centre Culturel Ali Tlilani is a cultural centre located in Skikda.", "category": "cultural", "coords": [6.91569, 36.869109]}, {"name": "Palace of Culture and Arts", "text": "The Palace of Culture and Arts is a cultural centre in Skikda.", "category": "cultural", "coords": [6.911284, 36.882213]}, {"name": "Maison de Culture Mohamed Seradj", "text": "The Maison de Culture Mohamed Seradj is an arts and cultural centre in Skikda.", "category": "cultural", "coords": [6.909327, 36.868234]}]},
+    id: "skikda-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Théatre régional de Skikda",
+                  "text": "Theater für darstellende Künste in der Stadt Skikda.",
+                  "category": "cultural",
+                  "coords": [
+                        6.906487,
+                        36.881245
+                  ]
+            },
+            {
+                  "name": "Théâtre Romain",
+                  "text": "Römisches Theater, in einen Hang geschnitten, mit Blick auf das Meer.",
+                  "category": "cultural",
+                  "coords": [
+                        6.905171,
+                        36.87961
+                  ]
+            },
+            {
+                  "name": "Musée",
+                  "text": "Ein Museum mit archäologischen Funden und lokaler Geschichte in Skikda.",
+                  "category": "museum",
+                  "coords": [
+                        6.905329,
+                        36.88328
+                  ]
+            },
+            {
+                  "name": "Musée d'el Moujahid",
+                  "text": "Museum der Mudschaheddin mit Exponaten zum Unabhängigkeitskampf in Skikda.",
+                  "category": "museum",
+                  "coords": [
+                        6.920248,
+                        36.871067
+                  ]
+            },
+            {
+                  "name": "Palais Meriem (Chateau Bengana)",
+                  "text": "Palast Meriem, auch bekannt als Château Bengana, ein historisches Schloss mit Gärten in Skikda.",
+                  "category": "castle",
+                  "coords": [
+                        6.897138,
+                        36.886565
+                  ]
+            },
+            {
+                  "name": "Plage Château Vert",
+                  "text": "Die Plage Château Vert bringt charmantes Küstenflair in die Stadt Skikda. Dieser Strandabschnitt ist ein beliebter Treffpunkt, um das algerische Meeresrauschen zu genießen. Ob für einen kurzen Spaziergang oder einen entspannten Nachmittag, die Kulisse ist stets einladend.",
+                  "category": "recreational",
+                  "coords": [
+                        6.895436,
+                        36.888121
+                  ]
+            },
+            {
+                  "name": "Plage Market",
+                  "text": "Als stadtnaher Küstenstrand bietet die Plage Market in Skikda eine leicht zugängliche Oase am Mittelmeer. Das lebhafte Ambiente macht den Ort ideal, um das lokale Treiben mit entspannten Stunden am Wasser zu verbinden. Morgens ist es hier oft angenehm ruhig.",
+                  "category": "recreational",
+                  "coords": [
+                        6.890403,
+                        36.890377
+                  ]
+            },
+            {
+                  "name": "Plage Militaire 1",
+                  "text": "Die Plage Militaire 1 fügt sich nahtlos in die Küstenlinie von Skikda ein. Besucher finden hier einen ruhigeren Ort, um dem Meereshorizont entgegenzublicken und die salzige Luft zu atmen. Ein schöner Stopp, um an der algerischen Küste kurz die Seele baumeln zu lassen.",
+                  "category": "recreational",
+                  "coords": [
+                        6.887051,
+                        36.892162
+                  ]
+            },
+            {
+                  "name": "Plage Paradis",
+                  "text": "Wie der Name schon andeutet, lockt die Plage Paradis in Skikda mit einer malerischen Kulisse. Dieser Strandbereich bietet feinen Sand und sanfte Wellen, perfekt für sonnige Erholungstage. Ein echtes algerisches Küstenjuwel, das man am besten bis zum Sonnenuntergang genießt.",
+                  "category": "recreational",
+                  "coords": [
+                        6.883826,
+                        36.894217
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Issat Idir",
+                  "text": "Kulturzentrum Issat Idir mit Aufführungsräumen und Bibliothek in Skikda.",
+                  "category": "cultural",
+                  "coords": [
+                        6.910689,
+                        36.875442
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Ali Tlilani",
+                  "text": "Kulturzentrum Ali Tlilani mit Ausstellungen und Konferenzen in Skikda.",
+                  "category": "cultural",
+                  "coords": [
+                        6.91569,
+                        36.869109
+                  ]
+            },
+            {
+                  "name": "Palais de la Culture et des Arts",
+                  "text": "Palast der Kultur und Künste, ein Veranstaltungsort für Konzerte und Theater in Skikda.",
+                  "category": "cultural",
+                  "coords": [
+                        6.911284,
+                        36.882213
+                  ]
+            },
+            {
+                  "name": "Maison de Culture Mohamed Seradj",
+                  "text": "Kulturhaus Mohamed Seradj mit Galerien und Kursen in Skikda.",
+                  "category": "cultural",
+                  "coords": [
+                        6.909327,
+                        36.868234
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Théatre régional de Skikda",
+                  "text": "Előadó-művészeti színház Skikda városában.",
+                  "category": "cultural",
+                  "coords": [
+                        6.906487,
+                        36.881245
+                  ]
+            },
+            {
+                  "name": "Théâtre Romain",
+                  "text": "Római színház domboldalba vágva, tengerre néző kilátással.",
+                  "category": "cultural",
+                  "coords": [
+                        6.905171,
+                        36.87961
+                  ]
+            },
+            {
+                  "name": "Musée",
+                  "text": "Múzeum régészeti leletekkel és helytörténettel Skikdában.",
+                  "category": "museum",
+                  "coords": [
+                        6.905329,
+                        36.88328
+                  ]
+            },
+            {
+                  "name": "Musée d'el Moujahid",
+                  "text": "Moudzsahid múzeum a függetlenségi harc tárgyaival Skikdában.",
+                  "category": "museum",
+                  "coords": [
+                        6.920248,
+                        36.871067
+                  ]
+            },
+            {
+                  "name": "Palais Meriem (Chateau Bengana)",
+                  "text": "Meriem Palota, más néven Château Bengana, egy történelmi kastély kertekkel Skikdában.",
+                  "category": "castle",
+                  "coords": [
+                        6.897138,
+                        36.886565
+                  ]
+            },
+            {
+                  "name": "Plage Château Vert",
+                  "text": "A Plage Château Vert elbűvölő tengerparti hangulatot varázsol Skikda városába. Ez a partszakasz népszerű találkozóhely az algériai tenger zúgásának élvezetére. Legyen szó egy rövid sétáról vagy egy pihentető délutánról, a környezet mindig hívogató.",
+                  "category": "recreational",
+                  "coords": [
+                        6.895436,
+                        36.888121
+                  ]
+            },
+            {
+                  "name": "Plage Market",
+                  "text": "A városhoz közeli tengerparti strandként a Plage Market Skikdában egy könnyen megközelíthető oázist kínál a Földközi-tenger partján. Az élénk légkör ideálissá teszi a helyszínt, hogy a helyi nyüzsgést a vízparti pihenéssel kössük össze. Reggelente itt gyakran kellemesen csendes.",
+                  "category": "recreational",
+                  "coords": [
+                        6.890403,
+                        36.890377
+                  ]
+            },
+            {
+                  "name": "Plage Militaire 1",
+                  "text": "A Plage Militaire 1 zökkenőmentesen illeszkedik Skikda partvonalába. A látogatók itt nyugodtabb helyet találnak arra, hogy a tengeri horizont felé tekintsenek és beszívják a sós levegőt. Szép megálló az algériai partvidéken, hogy egy kicsit kikapcsolódjunk.",
+                  "category": "recreational",
+                  "coords": [
+                        6.887051,
+                        36.892162
+                  ]
+            },
+            {
+                  "name": "Plage Paradis",
+                  "text": "Ahogy a neve is sugallja, a skikdai Plage Paradis festői környezettel csábít. Ez a strand finom homokot és lágy hullámokat kínál, amely tökéletes a napsütéses pihenőnapokhoz. Egy igazi algériai tengerparti gyöngyszem, amelyet a naplementéig érdemes élvezni.",
+                  "category": "recreational",
+                  "coords": [
+                        6.883826,
+                        36.894217
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Issat Idir",
+                  "text": "Issat Idir Kulturális Központ előadótermekkel és könyvtárral Skikdában.",
+                  "category": "cultural",
+                  "coords": [
+                        6.910689,
+                        36.875442
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Ali Tlilani",
+                  "text": "Ali Tlilani Kulturális Központ kiállításokkal és konferenciákkal Skikdában.",
+                  "category": "cultural",
+                  "coords": [
+                        6.91569,
+                        36.869109
+                  ]
+            },
+            {
+                  "name": "Palais de la Culture et des Arts",
+                  "text": "Kultúra és Művészetek Palotája, koncertek és színház helyszíne Skikdában.",
+                  "category": "cultural",
+                  "coords": [
+                        6.911284,
+                        36.882213
+                  ]
+            },
+            {
+                  "name": "Maison de Culture Mohamed Seradj",
+                  "text": "Mohamed Seradj Kulturház galériákkal és tanfolyamokkal Skikdában.",
+                  "category": "cultural",
+                  "coords": [
+                        6.909327,
+                        36.868234
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Théatre régional de Skikda",
+                  "text": "Teatru de arte performative în orașul Skikda.",
+                  "category": "cultural",
+                  "coords": [
+                        6.906487,
+                        36.881245
+                  ]
+            },
+            {
+                  "name": "Théâtre Romain",
+                  "text": "Teatru roman săpat într-un deal cu vedere la mare.",
+                  "category": "cultural",
+                  "coords": [
+                        6.905171,
+                        36.87961
+                  ]
+            },
+            {
+                  "name": "Musée",
+                  "text": "Un muzeu cu descoperiri arheologice și istorie locală în Skikda.",
+                  "category": "museum",
+                  "coords": [
+                        6.905329,
+                        36.88328
+                  ]
+            },
+            {
+                  "name": "Musée d'el Moujahid",
+                  "text": "Muzeul Moudjahid cu exponate din lupta pentru independență în Skikda.",
+                  "category": "museum",
+                  "coords": [
+                        6.920248,
+                        36.871067
+                  ]
+            },
+            {
+                  "name": "Palais Meriem (Chateau Bengana)",
+                  "text": "Palatul Meriem, cunoscut și ca Château Bengana, un castel istoric cu grădini în Skikda.",
+                  "category": "castle",
+                  "coords": [
+                        6.897138,
+                        36.886565
+                  ]
+            },
+            {
+                  "name": "Plage Château Vert",
+                  "text": "Plage Château Vert aduce un farmec de coastă încântător în orașul Skikda. Această porțiune de plajă este un loc de întâlnire popular pentru a te bucura de sunetul mării algeriene. Fie pentru o scurtă plimbare sau o după-amiază relaxantă, peisajul este mereu primitor.",
+                  "category": "recreational",
+                  "coords": [
+                        6.895436,
+                        36.888121
+                  ]
+            },
+            {
+                  "name": "Plage Market",
+                  "text": "Ca o plajă de coastă aproape de oraș, Plage Market din Skikda oferă o oază ușor accesibilă la Marea Mediterană. Ambianța plină de viață face locul ideal pentru a combina agitația locală cu ore relaxante la apă. Dimineața este adesea plăcut de liniște aici.",
+                  "category": "recreational",
+                  "coords": [
+                        6.890403,
+                        36.890377
+                  ]
+            },
+            {
+                  "name": "Plage Militaire 1",
+                  "text": "Plage Militaire 1 se integrează perfect în linia de coastă din Skikda. Vizitatorii găsesc aici un loc mai liniștit pentru a privi spre orizontul mării și a respira aerul sărat. O oprire frumoasă pentru a vă relaxa un pic pe coasta algeriană.",
+                  "category": "recreational",
+                  "coords": [
+                        6.887051,
+                        36.892162
+                  ]
+            },
+            {
+                  "name": "Plage Paradis",
+                  "text": "După cum sugerează și numele, Plage Paradis din Skikda atrage printr-un decor pitoresc. Această zonă de plajă oferă nisip fin și valuri blânde, perfecte pentru zile însorite de relaxare. O adevărată bijuterie a coastei algeriene, de care vă puteți bucura cel mai bine până la apus.",
+                  "category": "recreational",
+                  "coords": [
+                        6.883826,
+                        36.894217
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Issat Idir",
+                  "text": "Centrul Cultural Issat Idir cu săli de spectacol și bibliotecă în Skikda.",
+                  "category": "cultural",
+                  "coords": [
+                        6.910689,
+                        36.875442
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Ali Tlilani",
+                  "text": "Centrul Cultural Ali Tlilani cu expoziții și conferințe în Skikda.",
+                  "category": "cultural",
+                  "coords": [
+                        6.91569,
+                        36.869109
+                  ]
+            },
+            {
+                  "name": "Palais de la Culture et des Arts",
+                  "text": "Palatul Culturii și Artelor, un loc pentru concerte și teatru în Skikda.",
+                  "category": "cultural",
+                  "coords": [
+                        6.911284,
+                        36.882213
+                  ]
+            },
+            {
+                  "name": "Maison de Culture Mohamed Seradj",
+                  "text": "Casa de Cultură Mohamed Seradj cu galerii și cursuri în Skikda.",
+                  "category": "cultural",
+                  "coords": [
+                        6.909327,
+                        36.868234
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Théatre régional de Skikda",
+                  "text": "A performing arts theatre in the city of Skikda.",
+                  "category": "cultural",
+                  "coords": [
+                        6.906487,
+                        36.881245
+                  ]
+            },
+            {
+                  "name": "Théâtre Romain",
+                  "text": "Roman theatre carved into a hillside overlooking the sea.",
+                  "category": "cultural",
+                  "coords": [
+                        6.905171,
+                        36.87961
+                  ]
+            },
+            {
+                  "name": "Musée",
+                  "text": "A museum with archaeological finds and local history in Skikda.",
+                  "category": "museum",
+                  "coords": [
+                        6.905329,
+                        36.88328
+                  ]
+            },
+            {
+                  "name": "Musée d'el Moujahid",
+                  "text": "Museum of the Moudjahid with exhibits on the independence struggle in Skikda.",
+                  "category": "museum",
+                  "coords": [
+                        6.920248,
+                        36.871067
+                  ]
+            },
+            {
+                  "name": "Palais Meriem (Chateau Bengana)",
+                  "text": "Palais Meriem, also known as Château Bengana, a historic castle with gardens in Skikda.",
+                  "category": "castle",
+                  "coords": [
+                        6.897138,
+                        36.886565
+                  ]
+            },
+            {
+                  "name": "Plage Château Vert",
+                  "text": "Plage Château Vert brings charming coastal flair to the city of Skikda. This stretch of beach is a popular meeting point to enjoy the sound of the Algerian sea. Whether for a short walk or a relaxing afternoon, the setting is always inviting.",
+                  "category": "recreational",
+                  "coords": [
+                        6.895436,
+                        36.888121
+                  ]
+            },
+            {
+                  "name": "Plage Market",
+                  "text": "As a coastal beach close to the city, Plage Market in Skikda offers an easily accessible oasis on the Mediterranean. The lively ambiance makes the spot ideal for combining local bustle with relaxing hours by the water. Mornings are often pleasantly quiet here.",
+                  "category": "recreational",
+                  "coords": [
+                        6.890403,
+                        36.890377
+                  ]
+            },
+            {
+                  "name": "Plage Militaire 1",
+                  "text": "Plage Militaire 1 blends seamlessly into the coastline of Skikda. Visitors will find a quieter spot here to gaze out at the ocean horizon and breathe the salty air. A nice stop to briefly unwind on the Algerian coast.",
+                  "category": "recreational",
+                  "coords": [
+                        6.887051,
+                        36.892162
+                  ]
+            },
+            {
+                  "name": "Plage Paradis",
+                  "text": "As the name implies, Plage Paradis in Skikda beckons with a picturesque setting. This beach area offers fine sand and gentle waves, perfect for sunny days of relaxation. A true Algerian coastal gem best enjoyed until sunset.",
+                  "category": "recreational",
+                  "coords": [
+                        6.883826,
+                        36.894217
+                  ]
+            },
+            {
+                  "name": "Issat Idir Cultural Centre",
+                  "text": "Issat Idir Cultural Centre with performance halls and a library in Skikda.",
+                  "category": "cultural",
+                  "coords": [
+                        6.910689,
+                        36.875442
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Ali Tlilani",
+                  "text": "Cultural Centre Ali Tlilani with exhibitions and conferences in Skikda.",
+                  "category": "cultural",
+                  "coords": [
+                        6.91569,
+                        36.869109
+                  ]
+            },
+            {
+                  "name": "Palace of Culture and Arts",
+                  "text": "Palace of Culture and Arts, a venue for concerts and theatre in Skikda.",
+                  "category": "cultural",
+                  "coords": [
+                        6.911284,
+                        36.882213
+                  ]
+            },
+            {
+                  "name": "Maison de Culture Mohamed Seradj",
+                  "text": "Mohamed Seradj Culture House with galleries and courses in Skikda.",
+                  "category": "cultural",
+                  "coords": [
+                        6.909327,
+                        36.868234
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-21",
     coords: [6.9083, 36.8778],
@@ -3444,7 +4578,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Dies",
-                  "text": "Dies ist ein Theater in der Stadt Tiaret.",
+                  "text": "Ein Kulturzentrum mit Bühne und Ausstellungsflächen in Tiaret.",
                   "category": "cultural",
                   "coords": [
                         1.313316,
@@ -3453,7 +4587,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Rostom Amusement Park",
-                  "text": "Der Rostom Amusement Park ist ein Freizeitpark in der Stadt Tiaret.",
+                  "text": "Vergnügungspark Rostom mit Fahrgeschäften und Spielplätzen in Tiaret.",
                   "category": "family",
                   "coords": [
                         1.30657,
@@ -3489,7 +4623,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Dies",
-                  "text": "Dies ist ein Kunstzentrum in der Stadt Tiaret.",
+                  "text": "Ein weiteres Kulturzentrum in Tiaret, möglicherweise mit Bibliothek und Veranstaltungen.",
                   "category": "cultural",
                   "coords": [
                         1.348559,
@@ -3507,7 +4641,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Conservatoire Mohamed Bouteiba",
-                  "text": "Das Conservatoire Mohamed Bouteiba ist ein Kunstzentrum in der Stadt Tiaret.",
+                  "text": "Konservatorium Mohamed Bouteiba für Musik- und Tanzausbildung in Tiaret.",
                   "category": "cultural",
                   "coords": [
                         1.319186,
@@ -3516,7 +4650,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Dies",
-                  "text": "Dies ist ein Kunstzentrum in der Stadt Tiaret.",
+                  "text": "Ein kultureller Treffpunkt mit Seminarräumen und Galerien in Tiaret.",
                   "category": "cultural",
                   "coords": [
                         1.310686,
@@ -3527,7 +4661,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "H. El Hassani Theater",
-                  "text": "Ez egy színház Tiaret városában.",
+                  "text": "Kulturális központ színpaddal és kiállítóterekkel Tiaretben.",
                   "category": "cultural",
                   "coords": [
                         1.313316,
@@ -3536,7 +4670,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Rostom Amusement Park",
-                  "text": "A Rostom Amusement Park egy vidámpark Tiaret városában.",
+                  "text": "Rostom Vidámpark körhintákkal és játszóterekkel Tiaretben.",
                   "category": "family",
                   "coords": [
                         1.30657,
@@ -3572,7 +4706,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Cultural Activities Pavilion",
-                  "text": "Ez egy művészeti központ Tiaret városában.",
+                  "text": "Egy másik kulturális központ Tiaretben, valószínűleg könyvtárral és rendezvényekkel.",
                   "category": "cultural",
                   "coords": [
                         1.348559,
@@ -3590,7 +4724,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Conservatoire Mohamed Bouteiba",
-                  "text": "A Conservatoire Mohamed Bouteiba egy művészeti központ Tiaret városában.",
+                  "text": "Mohamed Bouteiba Konzervatórium zenei és táncképzésre Tiaretben.",
                   "category": "cultural",
                   "coords": [
                         1.319186,
@@ -3599,7 +4733,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Bousghir Brothers Youth House",
-                  "text": "Ez egy művészeti központ Tiaret városában.",
+                  "text": "Kulturális találkozóhely szemináriumtermekkel és galériákkal Tiaretben.",
                   "category": "cultural",
                   "coords": [
                         1.310686,
@@ -3610,7 +4744,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Acesta",
-                  "text": "Acesta este un teatru situat în orașul Tiaret.",
+                  "text": "Un centru cultural cu scenă și spații expoziționale în Tiaret.",
                   "category": "cultural",
                   "coords": [
                         1.313316,
@@ -3619,7 +4753,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Rostom Amusement Park",
-                  "text": "Rostom Amusement Park este un parc de distracții situat în orașul Tiaret.",
+                  "text": "Parcul de Distracții Rostom cu carusele și locuri de joacă în Tiaret.",
                   "category": "family",
                   "coords": [
                         1.30657,
@@ -3655,7 +4789,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Acesta",
-                  "text": "Acesta este un centru de arte situat în orașul Tiaret.",
+                  "text": "Un alt centru cultural în Tiaret, posibil cu bibliotecă și evenimente.",
                   "category": "cultural",
                   "coords": [
                         1.348559,
@@ -3673,7 +4807,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Conservatoire Mohamed Bouteiba",
-                  "text": "Conservatoire Mohamed Bouteiba este un centru de arte situat în orașul Tiaret.",
+                  "text": "Conservatorul Mohamed Bouteiba pentru educație muzicală și dans în Tiaret.",
                   "category": "cultural",
                   "coords": [
                         1.319186,
@@ -3682,7 +4816,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Acesta",
-                  "text": "Acesta este un centru de arte situat în orașul Tiaret.",
+                  "text": "Un loc de întâlnire cultural cu săli de seminar și galerii în Tiaret.",
                   "category": "cultural",
                   "coords": [
                         1.310686,
@@ -3693,7 +4827,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "This",
-                  "text": "This is a theatre located in the city of Tiaret.",
+                  "text": "A cultural center with a stage and exhibition spaces in Tiaret.",
                   "category": "cultural",
                   "coords": [
                         1.313316,
@@ -3702,7 +4836,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Rostom Amusement Park",
-                  "text": "Rostom Amusement Park is a theme park located in the city of Tiaret.",
+                  "text": "Rostom Amusement Park with rides and playgrounds in Tiaret.",
                   "category": "family",
                   "coords": [
                         1.30657,
@@ -3738,7 +4872,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "This",
-                  "text": "This is an arts centre located in the city of Tiaret.",
+                  "text": "Another cultural center in Tiaret, possibly with a library and events.",
                   "category": "cultural",
                   "coords": [
                         1.348559,
@@ -3756,7 +4890,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Conservatoire Mohamed Bouteiba",
-                  "text": "Conservatoire Mohamed Bouteiba is an arts centre located in the city of Tiaret.",
+                  "text": "Mohamed Bouteiba Conservatory for music and dance education in Tiaret.",
                   "category": "cultural",
                   "coords": [
                         1.319186,
@@ -3765,7 +4899,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "This",
-                  "text": "This is an arts centre located in the city of Tiaret.",
+                  "text": "A cultural meeting place with seminar rooms and galleries in Tiaret.",
                   "category": "cultural",
                   "coords": [
                         1.310686,
@@ -3882,7 +5016,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Khaled",
-                  "text": "Khaled ist ein Theater in der Stadt Ouargla.",
+                  "text": "Kulturzentrum Khaled, benannt nach dem berühmten Sänger, mit Musikveranstaltungen in Ouargla.",
                   "category": "cultural",
                   "coords": [
                         5.335262,
@@ -3891,7 +5025,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Das große Haus",
-                  "text": "The Big House ist eine Burg in der Stadt Ouargla.",
+                  "text": "Das große Haus (The Big House), ein historisches Gebäude im Stil einer Burg in Ouargla.",
                   "category": "castle",
                   "coords": [
                         5.326422,
@@ -3900,7 +5034,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musée El Moudjahid",
-                  "text": "Das Musée El Moudjahid ist ein Museum in der Stadt Ouargla.",
+                  "text": "Museum El Moudjahid mit Relikten aus dem Unabhängigkeitskrieg in Ouargla.",
                   "category": "museum",
                   "coords": [
                         5.330024,
@@ -3909,7 +5043,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Dies",
-                  "text": "Dies ist ein Aussichtspunkt in der Stadt Ouargla.",
+                  "text": "Ein Naturgebiet namens Insurance, wahrscheinlich eine Grünfläche oder ein Park in Ouargla.",
                   "category": "natural",
                   "coords": [
                         5.320464,
@@ -3918,7 +5052,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Dies",
-                  "text": "Dies ist eine Touristenattraktion in der Stadt Ouargla.",
+                  "text": "Der zentrale Platz der Oasenstadt Ouargla, umgeben von Palmenhainen.",
                   "category": "landmark",
                   "coords": [
                         5.336758,
@@ -3927,7 +5061,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de la Culture",
-                  "text": "Das Maison de la Culture ist ein Kunstzentrum in der Stadt Ouargla.",
+                  "text": "Das Maison de la Culture in Ouargla ist der wichtigste Veranstaltungsort für Kunstausstellungen und Aufführungen.",
                   "category": "cultural",
                   "coords": [
                         5.328328,
@@ -3936,7 +5070,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison dess Jeunes",
-                  "text": "Das Maison dess Jeunes ist ein Kunstzentrum in der Stadt Ouargla.",
+                  "text": "Das Jugendzentrum Maison des Jeunes bietet Workshops und Freizeitaktivitäten im Herzen von Ouargla.",
                   "category": "cultural",
                   "coords": [
                         5.312369,
@@ -3945,7 +5079,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Rondpint ELHADJRA",
-                  "text": "Dies ist eine Attraktion in der Stadt Ouargla.",
+                  "text": "Der Rondpoint ELHADJRA ist ein zentraler Kreisverkehr mit einem Steinmonument in Ouargla.",
                   "category": "landmark",
                   "coords": [
                         5.324895,
@@ -3954,7 +5088,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "CENTRE CULTUREL HADJAJ",
-                  "text": "Das Centre Culturel Hadjaj ist ein Kunstzentrum in der Stadt Ouargla.",
+                  "text": "Das Centre Culturel Hadjaj in Ouargla fördert das saharanische Kulturerbe durch Kunst und Ausstellungen.",
                   "category": "cultural",
                   "coords": [
                         5.333644,
@@ -3963,7 +5097,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Dies",
-                  "text": "Dies ist ein Kunst- und Kulturzentrum in der Stadt Ouargla.",
+                  "text": "Dieses Kulturzentrum in Ouargla veranstaltet Gemeinschaftsveranstaltungen nahe der Altstadt.",
                   "category": "cultural",
                   "coords": [
                         5.301688,
@@ -3974,7 +5108,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Khaled",
-                  "text": "A Khaled egy színház Ouargla városában.",
+                  "text": "Khaled Kulturális Központ, a híres énekesről elnevezve, zenei rendezvényekkel Ouarglában.",
                   "category": "cultural",
                   "coords": [
                         5.335262,
@@ -3983,7 +5117,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "The Big House",
-                  "text": "A The Big House egy kastély Ouargla városában.",
+                  "text": "A nagy ház (The Big House), egy történelmi épület várstílusban Ouarglában.",
                   "category": "castle",
                   "coords": [
                         5.326422,
@@ -3992,7 +5126,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musée El Moudjahid",
-                  "text": "A Musée El Moudjahid egy múzeum Ouargla városában.",
+                  "text": "El Moudjahid Múzeum a függetlenségi háború relikviáival Ouarglában.",
                   "category": "museum",
                   "coords": [
                         5.330024,
@@ -4001,7 +5135,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Insurance Company (Observation Point)",
-                  "text": "Ez egy kilátó Ouargla városában.",
+                  "text": "Insurance nevű természeti terület, valószínűleg zöldterület vagy park Ouarglában.",
                   "category": "natural",
                   "coords": [
                         5.320464,
@@ -4010,7 +5144,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Sakara Quranic School",
-                  "text": "Ez egy turisztikai látványosság Ouargla városában.",
+                  "text": "Az oázisváros Ouargla központi tere, pálmaligetekkel körülvéve.",
                   "category": "landmark",
                   "coords": [
                         5.336758,
@@ -4019,7 +5153,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de la Culture",
-                  "text": "A Maison de la Culture egy művészeti központ Ouargla városában.",
+                  "text": "A Maison de la Culture Ouargla fő kulturális központja kiállításoknak és előadásoknak.",
                   "category": "cultural",
                   "coords": [
                         5.328328,
@@ -4028,7 +5162,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison dess Jeunes",
-                  "text": "A Maison dess Jeunes egy művészeti központ Ouargla városában.",
+                  "text": "A Maison des Jeunes ifjúsági központ workshopokat és szabadidős programokat kínál Ouargla központjában.",
                   "category": "cultural",
                   "coords": [
                         5.312369,
@@ -4037,7 +5171,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Rondpint ELHADJRA",
-                  "text": "Ez egy látványosság Ouargla városában.",
+                  "text": "A Rondpoint ELHADJRA egy központi körforgalom, kőemlékkel Ouargla közepén.",
                   "category": "landmark",
                   "coords": [
                         5.324895,
@@ -4046,7 +5180,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "CENTRE CULTUREL HADJAJ",
-                  "text": "A Centre Culturel Hadjaj egy művészeti központ Ouargla városában.",
+                  "text": "A Centre Culturel Hadjaj Ouarglában a szaharai örökséget népszerűsíti művészettel és kiállításokkal.",
                   "category": "cultural",
                   "coords": [
                         5.333644,
@@ -4055,7 +5189,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Islamic Cultural Center",
-                  "text": "Ez egy művészeti és kulturális központ Ouargla városában.",
+                  "text": "Ez a kulturális központ Ouarglában közösségi eseményeket szervez a városnegyed közelében.",
                   "category": "cultural",
                   "coords": [
                         5.301688,
@@ -4066,7 +5200,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Khaled",
-                  "text": "Khaled este un teatru situat în orașul Ouargla.",
+                  "text": "Centrul Cultural Khaled, numit după celebrul cântăreț, cu evenimente muzicale în Ouargla.",
                   "category": "cultural",
                   "coords": [
                         5.335262,
@@ -4075,7 +5209,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "The Big House",
-                  "text": "The Big House este un castel situat în orașul Ouargla.",
+                  "text": "Casa Mare (The Big House), o clădire istorică în stil de castel în Ouargla.",
                   "category": "castle",
                   "coords": [
                         5.326422,
@@ -4084,7 +5218,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musée El Moudjahid",
-                  "text": "Musée El Moudjahid este un muzeu situat în orașul Ouargla.",
+                  "text": "Muzeul El Moudjahid cu relicve din războiul de independență în Ouargla.",
                   "category": "museum",
                   "coords": [
                         5.330024,
@@ -4093,7 +5227,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Acesta",
-                  "text": "Acesta este un punct de belvedere situat în orașul Ouargla.",
+                  "text": "O zonă naturală numită Insurance, probabil un spațiu verde sau un parc în Ouargla.",
                   "category": "natural",
                   "coords": [
                         5.320464,
@@ -4102,7 +5236,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Aceasta",
-                  "text": "Aceasta este o atracție turistică situată în orașul Ouargla.",
+                  "text": "Piața centrală a orașului oază Ouargla, înconjurată de palmieri.",
                   "category": "landmark",
                   "coords": [
                         5.336758,
@@ -4111,7 +5245,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de la Culture",
-                  "text": "Maison de la Culture este un centru de arte situat în orașul Ouargla.",
+                  "text": "Maison de la Culture din Ouargla este principalul centru cultural pentru expoziții și spectacole.",
                   "category": "cultural",
                   "coords": [
                         5.328328,
@@ -4120,7 +5254,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison dess Jeunes",
-                  "text": "Maison dess Jeunes este un centru de arte situat în orașul Ouargla.",
+                  "text": "Centrul de tineret Maison des Jeunes oferă ateliere și activități recreative în centrul orașului Ouargla.",
                   "category": "cultural",
                   "coords": [
                         5.312369,
@@ -4129,7 +5263,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Rondpint ELHADJRA",
-                  "text": "Aceasta este o atracție situată în orașul Ouargla.",
+                  "text": "Rondpoint ELHADJRA este un sens giratoriu central cu un monument de piatră în Ouargla.",
                   "category": "landmark",
                   "coords": [
                         5.324895,
@@ -4138,7 +5272,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "CENTRE CULTUREL HADJAJ",
-                  "text": "Centre Culturel Hadjaj este un centru de arte situat în orașul Ouargla.",
+                  "text": "Centrul Cultural Hadjaj din Ouargla promovează patrimoniul saharian prin artă și expoziții.",
                   "category": "cultural",
                   "coords": [
                         5.333644,
@@ -4147,7 +5281,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Acesta",
-                  "text": "Acesta este un centru de arte și cultură situat în orașul Ouargla.",
+                  "text": "Acest centru cultural din Ouargla organizează evenimente comunitare lângă cartierul vechi.",
                   "category": "cultural",
                   "coords": [
                         5.301688,
@@ -4158,7 +5292,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Khaled",
-                  "text": "Khaled is a theatre located in the city of Ouargla.",
+                  "text": "Khaled Cultural Center, named after the famous singer, hosting music events in Ouargla.",
                   "category": "cultural",
                   "coords": [
                         5.335262,
@@ -4167,7 +5301,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "The Big House",
-                  "text": "The Big House is a castle located in the city of Ouargla.",
+                  "text": "The Big House, a historic building in castle style in Ouargla.",
                   "category": "castle",
                   "coords": [
                         5.326422,
@@ -4176,7 +5310,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musée El Moudjahid",
-                  "text": "Musée El Moudjahid is a museum located in the city of Ouargla.",
+                  "text": "El Moudjahid Museum with relics from the War of Independence in Ouargla.",
                   "category": "museum",
                   "coords": [
                         5.330024,
@@ -4185,7 +5319,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Insurance",
-                  "text": "This is a viewpoint located in the city of Ouargla.",
+                  "text": "A natural area named Insurance, likely a green space or park in Ouargla.",
                   "category": "natural",
                   "coords": [
                         5.320464,
@@ -4194,7 +5328,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "This",
-                  "text": "This is a tourist attraction located in the city of Ouargla.",
+                  "text": "Central square of the oasis city Ouargla, surrounded by palm groves.",
                   "category": "landmark",
                   "coords": [
                         5.336758,
@@ -4203,7 +5337,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de la Culture",
-                  "text": "Maison de la Culture is an arts centre located in the city of Ouargla.",
+                  "text": "Maison de la Culture in Ouargla is the main venue for art exhibitions and performances.",
                   "category": "cultural",
                   "coords": [
                         5.328328,
@@ -4212,7 +5346,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison dess Jeunes",
-                  "text": "Maison dess Jeunes is an arts centre located in the city of Ouargla.",
+                  "text": "Maison des Jeunes youth center offers workshops and leisure activities in central Ouargla.",
                   "category": "cultural",
                   "coords": [
                         5.312369,
@@ -4221,7 +5355,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Rondpint ELHADJRA",
-                  "text": "This is an attraction located in the city of Ouargla.",
+                  "text": "Rondpoint ELHADJRA is a central roundabout with a stone monument in Ouargla.",
                   "category": "landmark",
                   "coords": [
                         5.324895,
@@ -4230,7 +5364,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "CENTRE CULTUREL HADJAJ",
-                  "text": "Centre Culturel Hadjaj is an arts centre located in the city of Ouargla.",
+                  "text": "Centre Culturel Hadjaj in Ouargla promotes Saharan heritage through art and exhibitions.",
                   "category": "cultural",
                   "coords": [
                         5.333644,
@@ -4239,7 +5373,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "This",
-                  "text": "This is an arts and cultural centre located in the city of Ouargla.",
+                  "text": "This cultural center in Ouargla hosts community events near the old quarter.",
                   "category": "cultural",
                   "coords": [
                         5.301688,
@@ -4286,7 +5420,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "CLF 3°RM",
-                  "text": "Der CLF 3°RM ist ein Vergnügungspark in Béchar.",
+                  "text": "Das CLF 3°RM ist ein Familienfreizeitzentrum mit Spielplätzen in Béchar.",
                   "category": "family",
                   "coords": [
                         -2.218394,
@@ -4295,7 +5429,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Parc d'Attraction",
-                  "text": "Dieser Vergnügungspark bietet Attraktionen in Béchar.",
+                  "text": "Der Parc d'Attraction in Béchar bietet Fahrgeschäfte und Gärten für Familien.",
                   "category": "family",
                   "coords": [
                         -2.194209,
@@ -4304,7 +5438,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Bechar Museum",
-                  "text": "Das Museum von Béchar bewahrt lokale Geschichte.",
+                  "text": "Das Béchar-Museum zeigt lokale Funde aus der Region Saoura.",
                   "category": "museum",
                   "coords": [
                         -2.218938,
@@ -4313,7 +5447,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Theâtre régionale de Béchar",
-                  "text": "Das Théâtre Régional de Béchar ist ein kultureller Veranstaltungsort.",
+                  "text": "Das regionale Theater von Béchar führt Theaterstücke und Konzerte im Stadtzentrum auf.",
                   "category": "cultural",
                   "coords": [
                         -2.224829,
@@ -4322,7 +5456,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Denkmal El Hammama",
-                  "text": "Das Denkmal El Hammama ist ein Wahrzeichen in Béchar.",
+                  "text": "Das El-Hammama-Denkmal in Béchar symbolisiert den Frieden und steht im Stadtzentrum.",
                   "category": "historical",
                   "coords": [
                         -2.218484,
@@ -4333,7 +5467,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "CLF 3°RM",
-                  "text": "A CLF 3°RM egy szórakoztatópark Béchar városában.",
+                  "text": "A CLF 3°RM egy családi szabadidőközpont játszóterekkel Béchar városában.",
                   "category": "family",
                   "coords": [
                         -2.218394,
@@ -4342,7 +5476,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Parc d'Attraction",
-                  "text": "Ez a szórakoztatópark attrakciókat kínál Béchar városában.",
+                  "text": "A Parc d'Attraction Béchar vidámparkja családok számára kínál játékokat és kerteket.",
                   "category": "family",
                   "coords": [
                         -2.194209,
@@ -4351,7 +5485,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Béchar-i múzeum",
-                  "text": "A Béchar-i múzeum a helyi történelmet őrzi.",
+                  "text": "A Béchar Múzeum a Saoura régió helyi régészeti leleteit mutatja be.",
                   "category": "museum",
                   "coords": [
                         -2.218938,
@@ -4360,7 +5494,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Theâtre régionale de Béchar",
-                  "text": "A Théâtre Régional de Béchar egy kulturális helyszín.",
+                  "text": "A béchar-i regionális színház színdarabokat és koncerteket ad a városközpontban.",
                   "category": "cultural",
                   "coords": [
                         -2.224829,
@@ -4369,7 +5503,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "El Hammama emlékmű",
-                  "text": "Az El Hammama emlékmű egy jellegzetes építmény Béchar városában.",
+                  "text": "Az El Hammama-emlékmű Béchar központjában a békét szimbolizálja.",
                   "category": "historical",
                   "coords": [
                         -2.218484,
@@ -4380,7 +5514,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "CLF 3°RM",
-                  "text": "CLF 3°RM este un parc de distracții din Béchar.",
+                  "text": "CLF 3°RM este un centru de agrement pentru familii cu locuri de joacă în Béchar.",
                   "category": "family",
                   "coords": [
                         -2.218394,
@@ -4389,7 +5523,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Parc d'Attraction",
-                  "text": "Acest parc de distracții oferă atracții în Béchar.",
+                  "text": "Parc d'Attraction din Béchar oferă curse și grădini pentru familii.",
                   "category": "family",
                   "coords": [
                         -2.194209,
@@ -4398,7 +5532,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Bechar Museum",
-                  "text": "Muzeul din Béchar păstrează istoria locală.",
+                  "text": "Muzeul Béchar prezintă artefacte locale din regiunea Saoura.",
                   "category": "museum",
                   "coords": [
                         -2.218938,
@@ -4407,7 +5541,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Theâtre régionale de Béchar",
-                  "text": "Théâtre Régional de Béchar este o locație culturală.",
+                  "text": "Teatrul regional din Béchar găzduiește piese de teatru și concerte în centrul orașului.",
                   "category": "cultural",
                   "coords": [
                         -2.224829,
@@ -4416,7 +5550,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumentul El Hammama",
-                  "text": "Monumentul El Hammama este un punct de reper în Béchar.",
+                  "text": "Monumentul El Hammama din Béchar simbolizează pacea și se află în centrul orașului.",
                   "category": "historical",
                   "coords": [
                         -2.218484,
@@ -4427,7 +5561,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "CLF 3°RM",
-                  "text": "The CLF 3°RM is an amusement park in Béchar.",
+                  "text": "CLF 3°RM is a family leisure center with playgrounds in Béchar.",
                   "category": "family",
                   "coords": [
                         -2.218394,
@@ -4436,7 +5570,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Parc d'Attraction",
-                  "text": "This amusement park offers attractions in Béchar.",
+                  "text": "Parc d'Attraction in Béchar offers rides and gardens for families.",
                   "category": "family",
                   "coords": [
                         -2.194209,
@@ -4445,7 +5579,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Bechar Museum",
-                  "text": "The museum of Béchar preserves local history.",
+                  "text": "Bechar Museum displays local artifacts from the Saoura region.",
                   "category": "museum",
                   "coords": [
                         -2.218938,
@@ -4454,7 +5588,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Theâtre régionale de Béchar",
-                  "text": "The Théâtre Régional de Béchar is a cultural venue.",
+                  "text": "Regional theatre of Béchar hosts plays and concerts in the city center.",
                   "category": "cultural",
                   "coords": [
                         -2.224829,
@@ -4463,7 +5597,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "El Hammama monument",
-                  "text": "The El Hammama monument is a landmark in Béchar.",
+                  "text": "El Hammama monument in Béchar symbolizes peace and stands in the city center.",
                   "category": "historical",
                   "coords": [
                         -2.218484,
@@ -4510,7 +5644,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Musée du Moudjahid",
-                  "text": "Das Musée du Moudjahid ist ein Museum in der Stadt Mostaganem.",
+                  "text": "Das Musée du Moudjahid in Mostaganem ist dem algerischen Unabhängigkeitskrieg gewidmet.",
                   "category": "museum",
                   "coords": [
                         0.078014,
@@ -4519,7 +5653,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musée Dar El Kaid",
-                  "text": "Das Musée Dar El Kaid ist ein historisches Museum in Mostaganem.",
+                  "text": "Das Museum Dar El Kaid in Mostaganem ist in einem historischen osmanischen Haus untergebracht.",
                   "category": "museum",
                   "coords": [
                         0.092938,
@@ -4528,7 +5662,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Parc Aquatique",
-                  "text": "Der Parc Aquatique ist ein Wasserpark in Mostaganem.",
+                  "text": "Der Parc Aquatique in Mostaganem bietet Pools und Rutschen nahe der Küste.",
                   "category": "family",
                   "coords": [
                         0.095428,
@@ -4537,7 +5671,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Cité zagheloul f",
-                  "text": "Cité zagheloul f ist ein Schloss in der Stadt Mostaganem.",
+                  "text": "Die Cité Zagheloul in Mostaganem ist ein historischer Festungskomplex.",
                   "category": "castle",
                   "coords": [
                         0.090699,
@@ -4546,7 +5680,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Djanat el arif foundation",
-                  "text": "Die Djanat el arif foundation ist in einem Schloss in Mostaganem untergebracht.",
+                  "text": "Die Djanat el Arif Foundation in Mostaganem ist eine kulturelle Einrichtung in einem burgähnlichen Gebäude.",
                   "category": "castle",
                   "coords": [
                         0.112148,
@@ -4573,7 +5707,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Théâtre de Mostaganem",
-                  "text": "Das Théâtre de Mostaganem ist eine kulturelle Einrichtung für Theateraufführungen in der Stadt.",
+                  "text": "Das Théâtre de Mostaganem ist ein Stadttheater mit maurischem Baustil.",
                   "category": "cultural",
                   "coords": [
                         0.07696,
@@ -4591,7 +5725,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Fort Turc",
-                  "text": "Fort Turc ist eine historische Burganlage in Mostaganem.",
+                  "text": "Das Fort Turc in Mostaganem ist eine osmanische Festung mit Blick auf den Hafen.",
                   "category": "castle",
                   "coords": [
                         0.096429,
@@ -4600,7 +5734,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Parc animalier",
-                  "text": "Der Parc animalier ist ein Tierpark in Mostaganem.",
+                  "text": "Der Parc animalier in Mostaganem ist ein Zoo mit einheimischen algerischen Tierarten.",
                   "category": "family",
                   "coords": [
                         0.099957,
@@ -4627,7 +5761,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "The three dolphins",
-                  "text": "The three dolphins ist ein lokales Denkmal in der Stadt Mostaganem.",
+                  "text": "Die Skulptur „Drei Delfine“ steht an der Küstenpromenade von Mostaganem.",
                   "category": "historical",
                   "coords": [
                         0.091179,
@@ -4636,7 +5770,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "The Knight Monument",
-                  "text": "الفارس (Der Ritter) ist ein Denkmal in Mostaganem.",
+                  "text": "Das Ritterdenkmal in Mostaganem erinnert an eine lokale Legende.",
                   "category": "historical",
                   "coords": [
                         0.115505,
@@ -4654,7 +5788,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de la culture",
-                  "text": "Das Maison de la culture ist ein Kunst- und Kulturzentrum in Mostaganem.",
+                  "text": "Das Maison de la Culture in Mostaganem bietet Kunstausstellungen und eine Bibliothek.",
                   "category": "cultural",
                   "coords": [
                         0.080363,
@@ -4674,7 +5808,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Musée du Moudjahid",
-                  "text": "A Musée du Moudjahid egy múzeum Mostaganem városában.",
+                  "text": "A mostaganemi Musée du Moudjahid az algériai függetlenségi háborúnak állít emléket.",
                   "category": "museum",
                   "coords": [
                         0.078014,
@@ -4683,7 +5817,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musée Dar El Kaid",
-                  "text": "A Musée Dar El Kaid egy történelmi múzeum Mostaganemben.",
+                  "text": "A mostaganemi Dar El Kaid Múzeum egy történelmi oszmán házban található.",
                   "category": "museum",
                   "coords": [
                         0.092938,
@@ -4692,7 +5826,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Parc Aquatique",
-                  "text": "A Parc Aquatique egy vízipark Mostaganem városában.",
+                  "text": "A mostaganemi Parc Aquatique medencékkel és csúszdákkal vár a part közelében.",
                   "category": "family",
                   "coords": [
                         0.095428,
@@ -4701,7 +5835,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Cité zagheloul f",
-                  "text": "A Cité zagheloul f egy kastély Mostaganem városában.",
+                  "text": "A mostaganemi Cité Zagheloul egy történelmi erődítmény együttes.",
                   "category": "castle",
                   "coords": [
                         0.090699,
@@ -4710,7 +5844,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Djanat el arif foundation",
-                  "text": "A Djanat el arif foundation egy kastélyban található Mostaganemben.",
+                  "text": "A mostaganemi Djanat el Arif Alapítvány egy kastényszerű épületben működő kulturális központ.",
                   "category": "castle",
                   "coords": [
                         0.112148,
@@ -4737,7 +5871,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Théâtre de Mostaganem",
-                  "text": "A Théâtre de Mostaganem egy színházi előadásoknak otthont adó kulturális intézmény a városban.",
+                  "text": "A mostaganemi Théâtre de Mostaganem egy városi színház mór stílusú épülettel.",
                   "category": "cultural",
                   "coords": [
                         0.07696,
@@ -4755,7 +5889,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Fort Turc",
-                  "text": "A Fort Turc egy történelmi erődítmény Mostaganem városában.",
+                  "text": "A mostaganemi Fort Turc egy oszmán erőd, amely a kikötőre néz.",
                   "category": "castle",
                   "coords": [
                         0.096429,
@@ -4764,7 +5898,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Parc animalier",
-                  "text": "A Parc animalier egy állatkert Mostaganemben.",
+                  "text": "A mostaganemi Parc animalier állatkert, ahol algériai őshonos fajok láthatók.",
                   "category": "family",
                   "coords": [
                         0.099957,
@@ -4791,7 +5925,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "The three dolphins",
-                  "text": "A The three dolphins egy helyi műemlék Mostaganem városában.",
+                  "text": "A „Három delfin” szobor Mostaganem tengerparti sétányán áll.",
                   "category": "historical",
                   "coords": [
                         0.091179,
@@ -4800,7 +5934,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "The Knight Monument",
-                  "text": "Az الفارس (A lovag) egy emlékmű Mostaganem városában.",
+                  "text": "A mostaganemi Lovag-emlékmű egy helyi legendára emlékeztet.",
                   "category": "historical",
                   "coords": [
                         0.115505,
@@ -4818,7 +5952,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de la culture",
-                  "text": "A Maison de la culture egy művészeti és kulturális központ Mostaganemben.",
+                  "text": "A mostaganemi Maison de la Culture művészeti kiállításokat és könyvtárat kínál.",
                   "category": "cultural",
                   "coords": [
                         0.080363,
@@ -4838,7 +5972,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Musée du Moudjahid",
-                  "text": "Musée du Moudjahid este un muzeu din orașul Mostaganem.",
+                  "text": "Muzeul Moudjahid din Mostaganem este dedicat războiului de independență algerian.",
                   "category": "museum",
                   "coords": [
                         0.078014,
@@ -4847,7 +5981,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musée Dar El Kaid",
-                  "text": "Musée Dar El Kaid este un muzeu istoric situat în Mostaganem.",
+                  "text": "Muzeul Dar El Kaid din Mostaganem este găzduit într-o casă istorică otomană.",
                   "category": "museum",
                   "coords": [
                         0.092938,
@@ -4856,7 +5990,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Parc Aquatique",
-                  "text": "Parc Aquatique este un parc acvatic din Mostaganem.",
+                  "text": "Parc Aquatique din Mostaganem oferă piscine și tobogane lângă coastă.",
                   "category": "family",
                   "coords": [
                         0.095428,
@@ -4865,7 +5999,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Cité zagheloul f",
-                  "text": "Cité zagheloul f este un castel din orașul Mostaganem.",
+                  "text": "Cité Zagheloul din Mostaganem este un complex istoric fortificat.",
                   "category": "castle",
                   "coords": [
                         0.090699,
@@ -4874,7 +6008,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Djanat El Arif Foundation",
-                  "text": "Djanat el arif foundation își are sediul într-un castel din Mostaganem.",
+                  "text": "Fundația Djanat el Arif din Mostaganem este un centru cultural într-o clădire asemănătoare unui castel.",
                   "category": "castle",
                   "coords": [
                         0.112148,
@@ -4901,7 +6035,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Théâtre de Mostaganem",
-                  "text": "Théâtre de Mostaganem este o locație culturală ce găzduiește spectacole de teatru în oraș.",
+                  "text": "Teatrul din Mostaganem este un teatru municipal cu arhitectură maură.",
                   "category": "cultural",
                   "coords": [
                         0.07696,
@@ -4919,7 +6053,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Fort Turc",
-                  "text": "Fort Turc este un castel istoric situat în Mostaganem.",
+                  "text": "Fort Turc din Mostaganem este o fortăreață otomană ce domină portul.",
                   "category": "castle",
                   "coords": [
                         0.096429,
@@ -4928,7 +6062,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Parc animalier",
-                  "text": "Parc animalier este o grădină zoologică din Mostaganem.",
+                  "text": "Parc animalier din Mostaganem este o grădină zoologică cu specii native algeriene.",
                   "category": "family",
                   "coords": [
                         0.099957,
@@ -4955,7 +6089,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "The three dolphins",
-                  "text": "The three dolphins este un monument local situat în orașul Mostaganem.",
+                  "text": "Sculptura „Cei trei delfini” se află pe promenada de pe litoralul Mostaganemului.",
                   "category": "historical",
                   "coords": [
                         0.091179,
@@ -4964,7 +6098,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "The Knight Monument",
-                  "text": "الفارس (Cavalerul) este un monument situat în Mostaganem.",
+                  "text": "Monumentul Cavalerului din Mostaganem comemorează o legendă locală.",
                   "category": "historical",
                   "coords": [
                         0.115505,
@@ -4982,7 +6116,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de la culture",
-                  "text": "Maison de la culture este un centru de artă și cultură din Mostaganem.",
+                  "text": "Maison de la Culture din Mostaganem oferă expoziții de artă și o bibliotecă.",
                   "category": "cultural",
                   "coords": [
                         0.080363,
@@ -5002,7 +6136,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Musée du Moudjahid",
-                  "text": "The Musée du Moudjahid is a museum located in the city of Mostaganem.",
+                  "text": "Musée du Moudjahid in Mostaganem is dedicated to the Algerian War of Independence.",
                   "category": "museum",
                   "coords": [
                         0.078014,
@@ -5011,7 +6145,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musée Dar El Kaid",
-                  "text": "The Musée Dar El Kaid is a historical museum situated in Mostaganem.",
+                  "text": "Dar El Kaid Museum in Mostaganem is housed in a historic Ottoman-style house.",
                   "category": "museum",
                   "coords": [
                         0.092938,
@@ -5020,7 +6154,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Parc Aquatique",
-                  "text": "The Parc Aquatique is a water park in Mostaganem.",
+                  "text": "Parc Aquatique in Mostaganem offers pools and slides near the coast.",
                   "category": "family",
                   "coords": [
                         0.095428,
@@ -5029,7 +6163,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Cité zagheloul f",
-                  "text": "Cité zagheloul f is a castle located in the city of Mostaganem.",
+                  "text": "Cité Zagheloul in Mostaganem is a historic fortified complex.",
                   "category": "castle",
                   "coords": [
                         0.090699,
@@ -5038,7 +6172,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Djanat el arif foundation",
-                  "text": "The Djanat el arif foundation is housed in a castle in Mostaganem.",
+                  "text": "Djanat el Arif foundation in Mostaganem is a cultural centre in a castle-like building.",
                   "category": "castle",
                   "coords": [
                         0.112148,
@@ -5065,7 +6199,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Théâtre de Mostaganem",
-                  "text": "Théâtre de Mostaganem is a cultural venue hosting theatrical performances in the city.",
+                  "text": "Théâtre de Mostaganem is a municipal theatre with Moorish-style architecture.",
                   "category": "cultural",
                   "coords": [
                         0.07696,
@@ -5083,7 +6217,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Fort Turc",
-                  "text": "Fort Turc is a historical castle structure located in Mostaganem.",
+                  "text": "Fort Turc in Mostaganem is an Ottoman fort overlooking the port.",
                   "category": "castle",
                   "coords": [
                         0.096429,
@@ -5092,7 +6226,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Parc animalier",
-                  "text": "Parc animalier is a zoo providing animal exhibits in Mostaganem.",
+                  "text": "Parc animalier in Mostaganem is a zoo with native Algerian species.",
                   "category": "family",
                   "coords": [
                         0.099957,
@@ -5119,7 +6253,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "The three dolphins",
-                  "text": "The three dolphins is a local monument situated in the city of Mostaganem.",
+                  "text": "The three dolphins sculpture stands on Mostaganem's coastal promenade.",
                   "category": "historical",
                   "coords": [
                         0.091179,
@@ -5128,7 +6262,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "The Knight Monument",
-                  "text": "الفارس (The Knight) is a monument located in Mostaganem.",
+                  "text": "The Knight Monument in Mostaganem commemorates a local legend.",
                   "category": "historical",
                   "coords": [
                         0.115505,
@@ -5146,7 +6280,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de la culture",
-                  "text": "Maison de la culture is an arts and cultural center located in Mostaganem.",
+                  "text": "Maison de la Culture in Mostaganem offers art exhibitions and a library.",
                   "category": "cultural",
                   "coords": [
                         0.080363,
@@ -5238,7 +6372,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Pet’s Corner",
-                  "text": "Pet’s Corner ist ein kleiner Tierpark in Chlef.",
+                  "text": "Die Tierhandlung pet’s corner in Chlef ist ein Treffpunkt für tierliebe Familien.",
                   "category": "family",
                   "coords": [
                         1.333774,
@@ -5247,7 +6381,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Chlef Regional Museum",
-                  "text": "Das Regionalmuseum von Chlef zeigt historische Artefakte.",
+                  "text": "Das Regionalmuseum Chlef zeigt archäologische Funde aus dem Chelif-Tal.",
                   "category": "museum",
                   "coords": [
                         1.333725,
@@ -5256,7 +6390,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Hassiba-Ben-Bouali-Platz",
-                  "text": "Die Hassiba-Ben-Bouali-Platz ist ein zentrales Denkmal in Chlef.",
+                  "text": "Der Hassiba-Ben-Bouali-Platz in Chlef ist nach der revolutionären Heldin benannt.",
                   "category": "historical",
                   "coords": [
                         1.339451,
@@ -5265,7 +6399,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Kulturhaus",
-                  "text": "Das Kulturhaus ist ein bedeutendes Zentrum in Chlef.",
+                  "text": "Das House of Culture in Chlef verfügt über ein Theater und Ausstellungshallen.",
                   "category": "cultural",
                   "coords": [
                         1.344875,
@@ -5274,7 +6408,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de la Culture",
-                  "text": "Das Maison de la Culture bietet kulturelle Programme in Chlef.",
+                  "text": "Das Maison de la Culture in Chlef bietet eine öffentliche Bibliothek und Veranstaltungsräume.",
                   "category": "cultural",
                   "coords": [
                         1.339687,
@@ -5285,7 +6419,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Pet’s Corner",
-                  "text": "A Pet’s Corner egy kis állatkert Chlef városában.",
+                  "text": "A chlefi pet’s corner állatkereskedés családok kedvenc találkozóhelye.",
                   "category": "family",
                   "coords": [
                         1.333774,
@@ -5294,7 +6428,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Chlef Regional Museum",
-                  "text": "A Chlef-i regionális múzeum történelmi leleteket mutat be.",
+                  "text": "A Chlef Regionális Múzeum a Chelif-völgy régészeti leleteit mutatja be.",
                   "category": "museum",
                   "coords": [
                         1.333725,
@@ -5303,7 +6437,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Hassiba Ben Bouali tér",
-                  "text": "A Hassiba Ben Bouali tér egy központi emlékhely Chlef városában.",
+                  "text": "A chlefi Hassiba Ben Bouali tér a forradalmi hősnőről kapta a nevét.",
                   "category": "historical",
                   "coords": [
                         1.339451,
@@ -5312,7 +6446,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "kulturális ház",
-                  "text": "A kulturális ház egy fontos központ Chlef városában.",
+                  "text": "A chlefi House of Culture színházzal és kiállítótermekkel rendelkezik.",
                   "category": "cultural",
                   "coords": [
                         1.344875,
@@ -5321,7 +6455,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de la Culture",
-                  "text": "A Maison de la Culture kulturális programokat kínál Chlef városában.",
+                  "text": "A chlefi Maison de la Culture nyilvános könyvtárat és rendezvénytereket kínál.",
                   "category": "cultural",
                   "coords": [
                         1.339687,
@@ -5332,7 +6466,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Pet’s Corner",
-                  "text": "Pet’s Corner este o mică grădină zoologică din Chlef.",
+                  "text": "Pet’s corner din Chlef este un magazin de animale și un loc de întâlnire pentru familii.",
                   "category": "family",
                   "coords": [
                         1.333774,
@@ -5341,7 +6475,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Chlef Regional Museum",
-                  "text": "Muzeul Regional din Chlef expune artefacte istorice.",
+                  "text": "Muzeul Regional Chlef prezintă descoperiri arheologice din valea Chelif.",
                   "category": "museum",
                   "coords": [
                         1.333725,
@@ -5350,7 +6484,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Piața Hassiba Ben Bouali",
-                  "text": "Piața Hassiba Ben Bouali este un monument central din Chlef.",
+                  "text": "Piața Hassiba Ben Bouali din Chlef poartă numele eroinei revoluționare.",
                   "category": "historical",
                   "coords": [
                         1.339451,
@@ -5359,7 +6493,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Casa de cultură",
-                  "text": "Casa de cultură este un centru important din Chlef.",
+                  "text": "House of Culture din Chlef are un teatru și săli de expoziție.",
                   "category": "cultural",
                   "coords": [
                         1.344875,
@@ -5368,7 +6502,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de la Culture",
-                  "text": "Maison de la Culture oferă programe culturale în Chlef.",
+                  "text": "Maison de la Culture din Chlef oferă o bibliotecă publică și săli de evenimente.",
                   "category": "cultural",
                   "coords": [
                         1.339687,
@@ -5379,7 +6513,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "pet’s corner (animalerie)",
-                  "text": "Pet’s Corner is a small zoo in Chlef.",
+                  "text": "Pet’s corner in Chlef is a pet shop and family meet-up spot.",
                   "category": "family",
                   "coords": [
                         1.333774,
@@ -5388,7 +6522,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Chlef Regional Museum",
-                  "text": "The Regional Museum of Chlef showcases historical artifacts.",
+                  "text": "Chlef Regional Museum displays archaeological finds from the Chelif valley.",
                   "category": "museum",
                   "coords": [
                         1.333725,
@@ -5397,7 +6531,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Hassiba Ben Bouali Square",
-                  "text": "The Hassiba Ben Bouali Square is a central monument in Chlef.",
+                  "text": "Hassiba Ben Bouali Square in Chlef is named after the revolutionary heroine.",
                   "category": "historical",
                   "coords": [
                         1.339451,
@@ -5406,7 +6540,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "House of Culture",
-                  "text": "The House of Culture is a significant center in Chlef.",
+                  "text": "House of Culture in Chlef features a theatre and exhibition halls.",
                   "category": "cultural",
                   "coords": [
                         1.344875,
@@ -5415,7 +6549,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de la Culture",
-                  "text": "The Maison de la Culture offers cultural programs in Chlef.",
+                  "text": "Maison de la Culture in Chlef offers a public library and event spaces.",
                   "category": "cultural",
                   "coords": [
                         1.339687,
@@ -5578,7 +6712,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Musée Ahmed Bougherra",
-                  "text": "Das Musée Ahmed Bougherra ist ein Museum in der Stadt Médéa.",
+                  "text": "Das Musée Ahmed Bougherra in Médéa zeigt regionale Geschichte und ist nach dem lokalen Gelehrten benannt.",
                   "category": "museum",
                   "coords": [
                         2.756764,
@@ -5587,7 +6721,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Dar Emir Abdelkader",
-                  "text": "Dar Emir Abdelkader ist ein Museum in der Stadt Médéa.",
+                  "text": "Das Dar Emir Abdelkader in Médéa ist die ehemalige Residenz des Emirs, heute ein Museum.",
                   "category": "museum",
                   "coords": [
                         2.751495,
@@ -5596,7 +6730,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Dies",
-                  "text": "Dies ist ein Museum in der Stadt Médéa.",
+                  "text": "Dieses Museum in Médéa zeigt lokales Kunsthandwerk in der Altstadt.",
                   "category": "museum",
                   "coords": [
                         2.752245,
@@ -5614,7 +6748,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Dies",
-                  "text": "Dies ist ein Kunstzentrum in der Stadt Médéa.",
+                  "text": "Diese Kultureinrichtung in Médéa veranstaltet Konzerte im Stadtzentrum.",
                   "category": "cultural",
                   "coords": [
                         2.761786,
@@ -5623,7 +6757,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison des arts et métiers",
-                  "text": "Das Maison des arts et métiers ist ein Kunstzentrum in der Stadt Médéa.",
+                  "text": "Das Maison des Arts et Métiers in Médéa bietet Workshops für traditionelles Handwerk.",
                   "category": "cultural",
                   "coords": [
                         2.790161,
@@ -5632,7 +6766,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Centre de loisirs scientifiques",
-                  "text": "Das Centre de loisirs scientifiques ist ein Kunstzentrum in der Stadt Médéa.",
+                  "text": "Das Centre de Loisirs Scientifiques in Médéa bietet interaktive Experimente für Kinder.",
                   "category": "cultural",
                   "coords": [
                         2.761159,
@@ -5643,7 +6777,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Musée Ahmed Bougherra",
-                  "text": "A Musée Ahmed Bougherra egy múzeum Médéa városában.",
+                  "text": "A Médéában található Musée Ahmed Bougherra a helyi tudósról elnevezett regionális történeti múzeum.",
                   "category": "museum",
                   "coords": [
                         2.756764,
@@ -5652,7 +6786,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Dar Emir Abdelkader",
-                  "text": "A Dar Emir Abdelkader egy múzeum Médéa városában.",
+                  "text": "A médéai Dar Emir Abdelkader az emír egykori rezidenciája, ma múzeum.",
                   "category": "museum",
                   "coords": [
                         2.751495,
@@ -5661,7 +6795,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Traditional Crafts House",
-                  "text": "Ez egy múzeum Médéa városában.",
+                  "text": "Ez a múzeum Médéa óvárosában helyi kézműves termékeket mutat be.",
                   "category": "museum",
                   "coords": [
                         2.752245,
@@ -5679,7 +6813,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Hassan El Hassani Culture House",
-                  "text": "Ez egy művészeti központ Médéa városában.",
+                  "text": "Ez a kulturális intézmény Médéa központjában koncerteket szervez.",
                   "category": "cultural",
                   "coords": [
                         2.761786,
@@ -5688,7 +6822,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison des arts et métiers",
-                  "text": "A Maison des arts et métiers egy művészeti központ Médéa városában.",
+                  "text": "A médéai Maison des Arts et Métiers hagyományos kézműves workshopokat kínál.",
                   "category": "cultural",
                   "coords": [
                         2.790161,
@@ -5697,7 +6831,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Centre de loisirs scientifiques",
-                  "text": "A Centre de loisirs scientifiques egy művészeti központ Médéa városában.",
+                  "text": "A médéai Centre de Loisirs Scientifiques interaktív kísérletekkel várja a gyerekeket.",
                   "category": "cultural",
                   "coords": [
                         2.761159,
@@ -5708,7 +6842,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Musée Ahmed Bougherra",
-                  "text": "Musée Ahmed Bougherra este un muzeu situat în orașul Médéa.",
+                  "text": "Muzeul Ahmed Bougherra din Médéa prezintă istoria regională și poartă numele cărturarului local.",
                   "category": "museum",
                   "coords": [
                         2.756764,
@@ -5717,7 +6851,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Dar Emir Abdelkader",
-                  "text": "Dar Emir Abdelkader este un muzeu situat în orașul Médéa.",
+                  "text": "Dar Emir Abdelkader din Médéa fosta reședință a emirului, acum muzeu.",
                   "category": "museum",
                   "coords": [
                         2.751495,
@@ -5726,7 +6860,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Acesta",
-                  "text": "Acesta este un muzeu situat în orașul Médéa.",
+                  "text": "Acest muzeu din Médéa expune meșteșuguri locale în centrul vechi.",
                   "category": "museum",
                   "coords": [
                         2.752245,
@@ -5744,7 +6878,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Acesta",
-                  "text": "Acesta este un centru de arte situat în orașul Médéa.",
+                  "text": "Această instituție culturală din Médéa organizează concerte în centrul orașului.",
                   "category": "cultural",
                   "coords": [
                         2.761786,
@@ -5753,7 +6887,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison des arts et métiers",
-                  "text": "Maison des arts et métiers este un centru de arte situat în orașul Médéa.",
+                  "text": "Maison des Arts et Métiers din Médéa oferă ateliere de meșteșuguri tradiționale.",
                   "category": "cultural",
                   "coords": [
                         2.790161,
@@ -5762,7 +6896,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Centre de loisirs scientifiques",
-                  "text": "Centre de loisirs scientifiques este un centru de arte situat în orașul Médéa.",
+                  "text": "Centrul de agrement științific din Médéa oferă experimente interactive pentru copii.",
                   "category": "cultural",
                   "coords": [
                         2.761159,
@@ -5773,7 +6907,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Musée Ahmed Bougherra",
-                  "text": "Musée Ahmed Bougherra is a museum located in the city of Médéa.",
+                  "text": "Ahmed Bougherra Museum in Médéa displays regional history and is named after the local scholar.",
                   "category": "museum",
                   "coords": [
                         2.756764,
@@ -5782,7 +6916,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Dar Emir Abdelkader",
-                  "text": "Dar Emir Abdelkader is a museum located in the city of Médéa.",
+                  "text": "Dar Emir Abdelkader in Médéa is the former residence of the Emir, now a museum.",
                   "category": "museum",
                   "coords": [
                         2.751495,
@@ -5791,7 +6925,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "This",
-                  "text": "This is a museum located in the city of Médéa.",
+                  "text": "This museum in Médéa exhibits local crafts in the old town.",
                   "category": "museum",
                   "coords": [
                         2.752245,
@@ -5809,7 +6943,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "This",
-                  "text": "This is an arts centre located in the city of Médéa.",
+                  "text": "This cultural venue in Médéa hosts concerts in the city center.",
                   "category": "cultural",
                   "coords": [
                         2.761786,
@@ -5818,7 +6952,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison des arts et métiers",
-                  "text": "Maison des arts et métiers is an arts centre located in the city of Médéa.",
+                  "text": "Maison des Arts et Métiers in Médéa offers workshops in traditional crafts.",
                   "category": "cultural",
                   "coords": [
                         2.790161,
@@ -5827,7 +6961,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Centre de loisirs scientifiques",
-                  "text": "Centre de loisirs scientifiques is an arts centre located in the city of Médéa.",
+                  "text": "Centre de Loisirs Scientifiques in Médéa offers interactive science experiments for children.",
                   "category": "cultural",
                   "coords": [
                         2.761159,
@@ -5909,7 +7043,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Mujahideen Museum",
-                  "text": "متحف المجاهدين ist ein Museum in Touggourt, das der Geschichte der Kämpfer der Region gewidmet ist.",
+                  "text": "Das Mujahideen Museum in Touggourt dokumentiert den algerischen Unabhängigkeitskrieg.",
                   "category": "museum",
                   "coords": [
                         6.069733,
@@ -5918,7 +7052,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Monument d'El Moudjahid",
-                  "text": "Das Monument d'El Moudjahid ist eine Gedenkstätte in der Stadt Touggourt.",
+                  "text": "Das Monument d'El Moudjahid in Touggourt würdigt die Mudschaheddin auf dem Hauptplatz.",
                   "category": "historical",
                   "coords": [
                         6.066345,
@@ -5936,7 +7070,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de jeunes de Nezla",
-                  "text": "Maison de jeunes de Nezla ist ein Jugend- und Kulturzentrum in Touggourt.",
+                  "text": "Das Maison de Jeunes de Nezla in Touggourt bietet Sport- und Kunstaktivitäten für Jugendliche.",
                   "category": "cultural",
                   "coords": [
                         6.06276,
@@ -5947,7 +7081,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Mujahideen Museum",
-                  "text": "A متحف المجاهدين egy a régió harcosainak történelmét bemutató múzeum Touggourt városában.",
+                  "text": "A touggourti Mujahideen Múzeum az algériai függetlenségi háború dokumentumait mutatja be.",
                   "category": "museum",
                   "coords": [
                         6.069733,
@@ -5956,7 +7090,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Monument d'El Moudjahid",
-                  "text": "A Monument d'El Moudjahid egy emlékmű Touggourt városában.",
+                  "text": "A touggourti Monument d'El Moudjahid a mudzsahedek előtt tiszteleg a főtéren.",
                   "category": "historical",
                   "coords": [
                         6.066345,
@@ -5974,7 +7108,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de jeunes de Nezla",
-                  "text": "A Maison de jeunes de Nezla egy ifjúsági és kulturális központ Touggourtban.",
+                  "text": "A touggourti Maison de Jeunes de Nezla sport- és művészeti programokat kínál fiataloknak.",
                   "category": "cultural",
                   "coords": [
                         6.06276,
@@ -5985,7 +7119,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Mujahideen Museum",
-                  "text": "متحف المجاهدين este un muzeu din Touggourt dedicat istoriei luptătorilor din regiune.",
+                  "text": "Muzeul Mujahideen din Touggourt documentează războiul de independență algerian.",
                   "category": "museum",
                   "coords": [
                         6.069733,
@@ -5994,7 +7128,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Monument d'El Moudjahid",
-                  "text": "Monument d'El Moudjahid este un sit memorial situat în orașul Touggourt.",
+                  "text": "Monumentul El Moudjahid din Touggourt onorează mujahidinii în piața principală.",
                   "category": "historical",
                   "coords": [
                         6.066345,
@@ -6012,7 +7146,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de jeunes de Nezla",
-                  "text": "Maison de jeunes de Nezla este un centru cultural și pentru tineret situat în Touggourt.",
+                  "text": "Maison de Jeunes de Nezla din Touggourt oferă activități sportive și artistice pentru tineri.",
                   "category": "cultural",
                   "coords": [
                         6.06276,
@@ -6023,7 +7157,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Mujahideen Museum",
-                  "text": "متحف المجاهدين is a museum in Touggourt dedicated to the history of the region's fighters.",
+                  "text": "Mujahideen Museum in Touggourt documents the Algerian War of Independence.",
                   "category": "museum",
                   "coords": [
                         6.069733,
@@ -6032,7 +7166,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Monument d'El Moudjahid",
-                  "text": "Monument d'El Moudjahid is a memorial site located in the city of Touggourt.",
+                  "text": "Monument d'El Moudjahid in Touggourt honours the mujahideen on the main square.",
                   "category": "historical",
                   "coords": [
                         6.066345,
@@ -6050,7 +7184,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de jeunes de Nezla",
-                  "text": "Maison de jeunes de Nezla is a youth and cultural center located in Touggourt.",
+                  "text": "Maison de Jeunes de Nezla in Touggourt offers sports and arts activities for youth.",
                   "category": "cultural",
                   "coords": [
                         6.06276,
@@ -6097,7 +7231,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Planétarium de Ghardaia",
-                  "text": "Das Planétarium de Ghardaia ist ein Museum und Planetarium in der Stadt Ghardaia.",
+                  "text": "Das Planetarium von Ghardaïa liegt im M'zab-Tal, einer UNESCO-Welterbestätte.",
                   "category": "museum",
                   "coords": [
                         3.684134,
@@ -6106,7 +7240,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Dies",
-                  "text": "Dies ist ein Denkmal in der Stadt Ghardaia.",
+                  "text": "Diese historische Stätte in Ghardaïa ist Teil der einzigartigen ibaditischen Architektur im M'zab-Tal.",
                   "category": "historical",
                   "coords": [
                         3.70002,
@@ -6115,7 +7249,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Kathedrale von Ghardaïa",
-                  "text": "Die Kathedrale von Ghardaïa ist eine historische Kultstätte in der Stadt Ghardaïa.",
+                  "text": "Katholische Kathedrale im M'zab-Tal mit modernem Design.",
                   "category": "religious",
                   "coords": [
                         3.670613,
@@ -6126,7 +7260,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Planétarium de Ghardaia",
-                  "text": "A Planétarium de Ghardaia egy múzeum és planetárium Ghardaia városában.",
+                  "text": "A Ghardaïai Planetárium a M'zab-völgyben található, amely UNESCO világörökségi helyszín.",
                   "category": "museum",
                   "coords": [
                         3.684134,
@@ -6135,7 +7269,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Beni Mzab Historical Symbol",
-                  "text": "Ez egy emlékmű Ghardaia városában.",
+                  "text": "Ez a történelmi helyszín Ghardaïában a M'zab-völgy egyedülálló ibadita építészetének része.",
                   "category": "historical",
                   "coords": [
                         3.70002,
@@ -6144,7 +7278,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Ghardaïa-katedrális",
-                  "text": "A Ghardaïa-katedrális egy történelmi istentiszteleti hely Ghardaïa városában.",
+                  "text": "Katolikus székesegyház a M'zab-völgyben, modern dizájnnal.",
                   "category": "religious",
                   "coords": [
                         3.670613,
@@ -6155,7 +7289,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Planétarium de Ghardaia",
-                  "text": "Planétarium de Ghardaia este un muzeu și planetariu situat în orașul Ghardaia.",
+                  "text": "Planetariul din Ghardaia se află în valea M'zab, un sit UNESCO.",
                   "category": "museum",
                   "coords": [
                         3.684134,
@@ -6164,7 +7298,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Acesta",
-                  "text": "Acesta este un monument situat în orașul Ghardaia.",
+                  "text": "Acest sit istoric din Ghardaia face parte din arhitectura ibadită unică din valea M'zab.",
                   "category": "historical",
                   "coords": [
                         3.70002,
@@ -6173,7 +7307,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Catedrala din Ghardaïa",
-                  "text": "Catedrala din Ghardaïa este un lăcaș de cult istoric situat în orașul Ghardaïa.",
+                  "text": "Catedrală catolică în valea M'zab cu un design modern.",
                   "category": "religious",
                   "coords": [
                         3.670613,
@@ -6184,7 +7318,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Planétarium de Ghardaia",
-                  "text": "Planétarium de Ghardaia is a museum and planetarium located in the city of Ghardaia.",
+                  "text": "Planétarium de Ghardaia is located in the M'zab valley, a UNESCO World Heritage site.",
                   "category": "museum",
                   "coords": [
                         3.684134,
@@ -6193,7 +7327,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "This",
-                  "text": "This is a monument located in the city of Ghardaia.",
+                  "text": "This historical site in Ghardaia is part of the unique Ibadi architecture in the M'zab valley.",
                   "category": "historical",
                   "coords": [
                         3.70002,
@@ -6202,7 +7336,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Cathedral of Ghardaïa",
-                  "text": "The Cathedral of Ghardaïa is a historical place of worship located in the city of Ghardaïa.",
+                  "text": "Catholic cathedral in the M'zab valley with a modern design.",
                   "category": "religious",
                   "coords": [
                         3.670613,
@@ -6284,7 +7418,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Fort Bouscaren",
-                  "text": "Fort Bouscaren ist eine historische Festungsanlage in der Stadt Laghouat.",
+                  "text": "Das Fort Bouscaren in Laghouat ist eine französische Kolonialfestung aus dem 19. Jahrhundert auf einem Hügel.",
                   "category": "castle",
                   "coords": [
                         2.880241,
@@ -6293,7 +7427,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musée Ex-Église",
-                  "text": "Das Musée Ex-Église ist ein Museum in Laghouat, das in einer ehemaligen Kirche untergebracht ist.",
+                  "text": "Das Musée Ex-Église in Laghouat ist ein Museum in einer ehemaligen Kolonialkirche.",
                   "category": "museum",
                   "coords": [
                         2.88302,
@@ -6302,7 +7436,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Regional Theater",
-                  "text": "مسرح جهوي ist ein regionales Theater in Laghouat.",
+                  "text": "Das Regionaltheater in Laghouat ist der wichtigste Veranstaltungsort für Schauspiel und Konzerte in der Stadt.",
                   "category": "cultural",
                   "coords": [
                         2.860148,
@@ -6311,7 +7445,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de la culture Abdellah Ben Keriou",
-                  "text": "Das Maison de la culture Abdellah Ben Keriou ist ein bedeutendes Kunst- und Kulturzentrum in Laghouat.",
+                  "text": "Das Maison de la culture Abdellah Ben Keriou ist ein Kulturzentrum, benannt nach dem algerischen Dichter, mit Ausstellungen und Workshops.",
                   "category": "cultural",
                   "coords": [
                         2.861004,
@@ -6340,7 +7474,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Fort Bouscaren",
-                  "text": "A Fort Bouscaren egy történelmi erődítmény Laghouat városában.",
+                  "text": "A laghouati Fort Bouscaren egy 19. századi francia gyarmati erőd a dombtetőn.",
                   "category": "castle",
                   "coords": [
                         2.880241,
@@ -6349,7 +7483,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musée Ex-Église",
-                  "text": "A Musée Ex-Église egy egykori templomépületben helyet kapó múzeum Laghouatban.",
+                  "text": "A laghouati Musée Ex-Église egy egykori gyarmati templomban kialakított múzeum.",
                   "category": "museum",
                   "coords": [
                         2.88302,
@@ -6358,7 +7492,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Regional Theater",
-                  "text": "A مسرح جهوي egy regionális színház Laghouat városában.",
+                  "text": "A laghouati Regionális Színház a város fő előadóművészeti központja színdarabokkal és koncertekkel.",
                   "category": "cultural",
                   "coords": [
                         2.860148,
@@ -6367,7 +7501,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de la culture Abdellah Ben Keriou",
-                  "text": "A Maison de la culture Abdellah Ben Keriou egy kiemelkedő kulturális és művészeti központ Laghouatban.",
+                  "text": "A Maison de la culture Abdellah Ben Keriou az algériai költőről elnevezett kulturális központ, kiállításokkal és műhelyekkel.",
                   "category": "cultural",
                   "coords": [
                         2.861004,
@@ -6396,7 +7530,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Fort Bouscaren",
-                  "text": "Fort Bouscaren este o fortăreață istorică poziționată în orașul Laghouat.",
+                  "text": "Fort Bouscaren din Laghouat este o fortăreață colonială franceză din secolul al XIX-lea pe un deal.",
                   "category": "castle",
                   "coords": [
                         2.880241,
@@ -6405,7 +7539,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musée Ex-Église",
-                  "text": "Musée Ex-Église este un muzeu din Laghouat găzduit într-o fostă biserică.",
+                  "text": "Muzeul Ex-Église din Laghouat este un muzeu găzduit într-o fostă biserică colonială.",
                   "category": "museum",
                   "coords": [
                         2.88302,
@@ -6414,7 +7548,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Regional Theater",
-                  "text": "مسرح جهوي este un teatru regional situat în Laghouat.",
+                  "text": "Teatrul Regional din Laghouat este principala locație pentru piese de teatru și concerte în oraș.",
                   "category": "cultural",
                   "coords": [
                         2.860148,
@@ -6423,7 +7557,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de la culture Abdellah Ben Keriou",
-                  "text": "Maison de la culture Abdellah Ben Keriou este un centru cultural de artă proeminent din Laghouat.",
+                  "text": "Maison de la culture Abdellah Ben Keriou este un centru cultural numit după poetul algerian, cu expoziții și ateliere.",
                   "category": "cultural",
                   "coords": [
                         2.861004,
@@ -6452,7 +7586,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Fort Bouscaren",
-                  "text": "Fort Bouscaren is a historical fortress positioned in the city of Laghouat.",
+                  "text": "Fort Bouscaren in Laghouat is a 19th-century French colonial fort on a hill.",
                   "category": "castle",
                   "coords": [
                         2.880241,
@@ -6461,7 +7595,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musée Ex-Église",
-                  "text": "Musée Ex-Église is a museum in Laghouat housed in a former church building.",
+                  "text": "Musée Ex-Église in Laghouat is a museum housed in a former colonial church.",
                   "category": "museum",
                   "coords": [
                         2.88302,
@@ -6470,7 +7604,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Regional Theater",
-                  "text": "مسرح جهوي is a regional theatre venue located in Laghouat.",
+                  "text": "The Regional Theater in Laghouat is the main venue for plays and concerts in the city.",
                   "category": "cultural",
                   "coords": [
                         2.860148,
@@ -6479,7 +7613,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de la culture Abdellah Ben Keriou",
-                  "text": "Maison de la culture Abdellah Ben Keriou is a prominent cultural arts center in Laghouat.",
+                  "text": "Maison de la culture Abdellah Ben Keriou is a cultural center named after the Algerian poet, hosting exhibitions and workshops.",
                   "category": "cultural",
                   "coords": [
                         2.861004,
@@ -6544,7 +7678,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Dies",
-                  "text": "Dies ist ein Museum in der Stadt M'Sila.",
+                  "text": "Dieses Museum in Msila zeigt archäologische Funde und regionale Geschichte.",
                   "category": "museum",
                   "coords": [
                         4.546025,
@@ -6553,7 +7687,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Elmodjahid museum",
-                  "text": "Das Elmodjahid museum ist ein Museum in der Stadt M'Sila.",
+                  "text": "Das Elmodjahid-Museum in Msila ist dem Algerienkrieg und den Widerstandskämpfern gewidmet.",
                   "category": "museum",
                   "coords": [
                         4.53802,
@@ -6562,7 +7696,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Dies",
-                  "text": "Dies ist ein Denkmal in der Stadt M'Sila.",
+                  "text": "Dieses historische Denkmal in Msila stammt wahrscheinlich aus der französischen Kolonialzeit.",
                   "category": "historical",
                   "coords": [
                         4.537929,
@@ -6571,7 +7705,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Dies",
-                  "text": "Dies ist ein Kunstzentrum in der Stadt M'Sila.",
+                  "text": "Dieser Kulturort in Msila bietet Raum für Gemeinschaftsveranstaltungen und lokale Aktivitäten.",
                   "category": "cultural",
                   "coords": [
                         4.536221,
@@ -6582,7 +7716,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Museum",
-                  "text": "Ez egy múzeum M'Sila városában.",
+                  "text": "Ez a múzeum Msilában régészeti leleteket és helyi történelmet mutat be.",
                   "category": "museum",
                   "coords": [
                         4.546025,
@@ -6591,7 +7725,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Elmodjahid museum",
-                  "text": "Az Elmodjahid museum egy múzeum M'Sila városában.",
+                  "text": "A Msilai Elmodjahid Múzeum az algériai háborúnak és a szabadságharcosoknak állít emléket.",
                   "category": "museum",
                   "coords": [
                         4.53802,
@@ -6600,7 +7734,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Mohamed Boudiaf Statue",
-                  "text": "Ez egy emlékmű M'Sila városában.",
+                  "text": "Ez a történelmi emlék Msilában valószínűleg a francia gyarmati korból származik.",
                   "category": "historical",
                   "coords": [
                         4.537929,
@@ -6609,7 +7743,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Palace of Culture",
-                  "text": "Ez egy művészeti központ M'Sila városában.",
+                  "text": "Ez a kulturális helyszín Msilában közösségi eseményeknek és helyi tevékenységeknek ad otthont.",
                   "category": "cultural",
                   "coords": [
                         4.536221,
@@ -6620,7 +7754,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Acesta",
-                  "text": "Acesta este un muzeu situat în orașul M'Sila.",
+                  "text": "Acest muzeu din Msila prezintă artefacte arheologice și istoria regiunii.",
                   "category": "museum",
                   "coords": [
                         4.546025,
@@ -6629,7 +7763,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Elmodjahid museum",
-                  "text": "Elmodjahid museum este un muzeu situat în orașul M'Sila.",
+                  "text": "Muzeul Elmodjahid din Msila este dedicat războiului de independență algerian și luptătorilor.",
                   "category": "museum",
                   "coords": [
                         4.53802,
@@ -6638,7 +7772,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Acesta",
-                  "text": "Acesta este un monument situat în orașul M'Sila.",
+                  "text": "Acest monument istoric din Msila datează probabil din perioada colonială franceză.",
                   "category": "historical",
                   "coords": [
                         4.537929,
@@ -6647,7 +7781,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Acesta",
-                  "text": "Acesta este un centru de arte situat în orașul M'Sila.",
+                  "text": "Acest loc cultural din Msila oferă spațiu pentru evenimente comunitare și activități locale.",
                   "category": "cultural",
                   "coords": [
                         4.536221,
@@ -6658,7 +7792,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "This",
-                  "text": "This is a museum located in the city of M'Sila.",
+                  "text": "This museum in Msila displays archaeological finds and regional history.",
                   "category": "museum",
                   "coords": [
                         4.546025,
@@ -6667,7 +7801,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Elmodjahid museum",
-                  "text": "Elmodjahid museum is a museum located in the city of M'Sila.",
+                  "text": "Elmodjahid Museum in Msila is dedicated to the Algerian War of Independence and its fighters.",
                   "category": "museum",
                   "coords": [
                         4.53802,
@@ -6676,7 +7810,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "This",
-                  "text": "This is a monument located in the city of M'Sila.",
+                  "text": "This historical landmark in Msila likely dates from the French colonial era.",
                   "category": "historical",
                   "coords": [
                         4.537929,
@@ -6685,7 +7819,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "This",
-                  "text": "This is an arts centre located in the city of M'Sila.",
+                  "text": "This cultural site in Msila provides space for community events and local activities.",
                   "category": "cultural",
                   "coords": [
                         4.536221,
@@ -6728,7 +7862,628 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["A été fondée en 941 par les Fatimides.", "Abrite l'une des plus grandes centrales solaires d'Algérie.", "La Kalâa des Béni Hammad a été érigée au XIe siècle.", "M'Sila est réputée pour l'élevage ovin et la laine.", "La ville est située à environ 440 mètres d'altitude.", "Le Chott el Hodna est un immense lac salé temporaire.", "Célèbre pour l'artisanat traditionnel de Boussaada.", "Ville universitaire importante de la région."],
     }, image: "/poi-images/msila-cities-v2.webp"},
   {
-    id: "jijel-cities-v2", "sights": {"de": [{"name": "Regionaltheater von Jijel", "text": "Das Regionaltheater von Jijel ist ein Zentrum für darstellende Kunst.", "category": "cultural", "coords": [5.787527, 36.802581]}, {"name": "venec", "text": "Venec ist ein Museum in der Küstenstadt Jijel.", "category": "museum", "coords": [5.751907, 36.810856]}, {"name": "Jijel Mujahideen Museum", "text": "Das Moudjahid-Museum in Jijel erinnert an die Geschichte.", "category": "museum", "coords": [5.791606, 36.802793]}, {"name": "Plage Kotama", "text": "Als einer der populärsten Strände in Jijel ist die Plage Kotama ein lebendiger Anziehungspunkt für Sonnenhungrige. Das klare Wasser und die weite Sandfläche bieten ideale Voraussetzungen für unbeschwerten Badespaß. Besonders in der Ferienzeit ist ein rechtzeitiges Eintreffen empfehlenswert.", "category": "recreational", "coords": [5.776145, 36.814046]}, {"name": "Plage Azzaoui", "text": "Plage Azzaoui ist ein schöner Strandabschnitt in Jijel.", "category": "recreational", "coords": [5.734637, 36.822389]}, {"name": "Plage Rabta", "text": "Der bekannte Strand Plage Rabta bereichert das Küstenbild von Jijel um eine weitere attraktive Bademöglichkeit. Die einladende Atmosphäre zieht sowohl Familien als auch Alleinreisende an, die das algerische Meer genießen möchten. Ein toller Ort für lange Spaziergänge entlang der Wasserkante.", "category": "recreational", "coords": [5.754223, 36.824415]}, {"name": "Théâtre de verdure", "text": "Das Freilichttheater in Jijel bietet kulturelle Aufführungen.", "category": "cultural", "coords": [5.780177, 36.806003]}, {"name": "Mini-parc d’attraction Oumnia", "text": "Der Oumnia Minipark ist ein Vergnügungspark in Jijel.", "category": "family", "coords": [5.765931, 36.811521]}, {"name": "Fort Duquesne", "text": "Fort Duquesne ist eine historische Befestigungsanlage in Jijel.", "category": "castle", "coords": [5.772775, 36.819217]}, {"name": "Kotama Museum", "text": "Das Kotama Museum zeigt Exponate zur Region in Jijel.", "category": "museum", "coords": [5.764419, 36.821194]}, {"name": "Monument Galère de Barberousse", "text": "Das Barberousse-Denkmal erinnert an die Geschichte in Jijel.", "category": "historical", "coords": [5.771536, 36.816732]}, {"name": "Monument aux Morts", "text": "Das Denkmal für die Gefallenen ist ein Ehrenmal in Jijel.", "category": "historical", "coords": [5.765437, 36.823116]}, {"name": "Ruines du Sor", "text": "Die Ruinen des Sor sind eine archäologische Stätte in Jijel.", "category": "historical", "coords": [5.7599, 36.824592]}, {"name": "3ème", "text": "3ème ist ein bekannter Aussichtspunkt in Jijel.", "category": "natural", "coords": [5.788863, 36.808964]}, {"name": "Maison de la culture Omar Oussedik", "text": "Das Maison de la culture Omar Oussedik ist ein Zentrum in Jijel.", "category": "cultural", "coords": [5.779188, 36.805274]}, {"name": "Maison de jeunes Bounab Rachid", "text": "Das Jugendhaus Bounab Rachid ist ein Treffpunkt in Jijel.", "category": "cultural", "coords": [5.769649, 36.813665]}, {"name": "Centre culturel islamique", "text": "Das Islamische Kulturzentrum in Jijel ist eine Bildungseinrichtung.", "category": "cultural", "coords": [5.766848, 36.822099]}], "hu": [{"name": "Jijel-i regionális színház", "text": "A Jijel-i regionális színház az előadóművészet központja.", "category": "cultural", "coords": [5.787527, 36.802581]}, {"name": "venec", "text": "A Venec egy múzeum Jijel tengerparti városában.", "category": "museum", "coords": [5.751907, 36.810856]}, {"name": "Jijel-i Moudjahid múzeum", "text": "A Jijel-i Moudjahid múzeum a történelemre emlékezik.", "category": "museum", "coords": [5.791606, 36.802793]}, {"name": "Plage Kotama", "text": "Jijel egyik legnépszerűbb strandjaként a Plage Kotama a napozni vágyók élénk vonzereje. A tiszta víz és a széles homokos terület ideális feltételeket biztosít a gondtalan fürdőzéshez. Különösen a nyaralási szezonban ajánlott a korai érkezés.", "category": "recreational", "coords": [5.776145, 36.814046]}, {"name": "Plage Azzaoui", "text": "A Plage Azzaoui egy szép strand Jijel városában.", "category": "recreational", "coords": [5.734637, 36.822389]}, {"name": "Plage Rabta", "text": "A jól ismert Plage Rabta strand egy újabb vonzó fürdőzési lehetőséggel gazdagítja Jijel partképét. A hívogató légkör egyaránt vonzza a családokat és az egyedül utazókat, akik élvezni szeretnék az algériai tengert. Remek hely a hosszú sétákhoz a vízpart mentén.", "category": "recreational", "coords": [5.754223, 36.824415]}, {"name": "Théâtre de verdure", "text": "A szabadtéri színház Jijel városában kulturális előadásokat kínál.", "category": "cultural", "coords": [5.780177, 36.806003]}, {"name": "Mini-parc d’attraction Oumnia", "text": "Az Oumnia Minipark egy szórakoztatópark Jijel városában.", "category": "family", "coords": [5.765931, 36.811521]}, {"name": "Fort Duquesne", "text": "Fort Duquesne egy történelmi erődítmény Jijel városában.", "category": "castle", "coords": [5.772775, 36.819217]}, {"name": "Kotama Múzeum", "text": "A Kotama Múzeum a Jijel régió kiállításait mutatja be.", "category": "museum", "coords": [5.764419, 36.821194]}, {"name": "Monument Galère de Barberousse", "text": "A Barberousse emlékmű a Jijel-i történelemre utal.", "category": "historical", "coords": [5.771536, 36.816732]}, {"name": "Monument aux Morts", "text": "A hősi emlékmű Jijel városában található.", "category": "historical", "coords": [5.765437, 36.823116]}, {"name": "Ruines du Sor", "text": "A Sor romjai egy régészeti terület Jijel városában.", "category": "historical", "coords": [5.7599, 36.824592]}, {"name": "3ème", "text": "A 3ème egy ismert kilátópont Jijel városában.", "category": "natural", "coords": [5.788863, 36.808964]}, {"name": "Maison de la culture Omar Oussedik", "text": "A Maison de la culture Omar Oussedik egy központ Jijel városában.", "category": "cultural", "coords": [5.779188, 36.805274]}, {"name": "Maison de jeunes Bounab Rachid", "text": "A Bounab Rachid ifjúsági ház egy találkozóhely Jijel városában.", "category": "cultural", "coords": [5.769649, 36.813665]}, {"name": "Centre culturel islamique", "text": "Az iszlám kulturális központ Jijel városában egy oktatási intézmény.", "category": "cultural", "coords": [5.766848, 36.822099]}], "ro": [{"name": "Teatrul Regional din Jijel", "text": "Teatrul Regional din Jijel este un centru pentru artele spectacolului.", "category": "cultural", "coords": [5.787527, 36.802581]}, {"name": "venec", "text": "Venec este un muzeu în orașul de coastă Jijel.", "category": "museum", "coords": [5.751907, 36.810856]}, {"name": "Jijel Mujahideen Museum", "text": "Muzeul Moudjahid din Jijel comemorează istoria.", "category": "museum", "coords": [5.791606, 36.802793]}, {"name": "Plage Kotama", "text": "Fiind una dintre cele mai populare plaje din Jijel, Plage Kotama este un punct de atracție plin de viață pentru iubitorii de soare. Apa limpede și întinderea vastă de nisip oferă condiții ideale pentru distracție lipsită de griji la scăldat. O sosire la timp este recomandată în special în sezonul vacanțelor.", "category": "recreational", "coords": [5.776145, 36.814046]}, {"name": "Plage Azzaoui", "text": "Plage Azzaoui este o porțiune frumoasă de plajă în Jijel.", "category": "recreational", "coords": [5.734637, 36.822389]}, {"name": "Plage Rabta", "text": "Cunoscuta plajă Plage Rabta îmbogățește peisajul de coastă din Jijel cu o altă oportunitate atractivă de scăldat. Atmosfera primitoare atrage atât familiile, cât și călătorii singuri care doresc să se bucure de marea algeriană. Un loc minunat pentru plimbări lungi de-a lungul apei.", "category": "recreational", "coords": [5.754223, 36.824415]}, {"name": "Théâtre de verdure", "text": "Teatrul în aer liber din Jijel oferă spectacole culturale.", "category": "cultural", "coords": [5.780177, 36.806003]}, {"name": "Mini-parc d’attraction Oumnia", "text": "Miniparcul Oumnia este un parc de distracții din Jijel.", "category": "family", "coords": [5.765931, 36.811521]}, {"name": "Fort Duquesne", "text": "Fort Duquesne este o fortificație istorică din Jijel.", "category": "castle", "coords": [5.772775, 36.819217]}, {"name": "Kotama Museum", "text": "Muzeul Kotama prezintă exponate despre regiunea Jijel.", "category": "museum", "coords": [5.764419, 36.821194]}, {"name": "Monument Galère de Barberousse", "text": "Monumentul Barberousse amintește de istoria din Jijel.", "category": "historical", "coords": [5.771536, 36.816732]}, {"name": "Monument aux Morts", "text": "Monumentul eroilor este un memorial în Jijel.", "category": "historical", "coords": [5.765437, 36.823116]}, {"name": "Ruines du Sor", "text": "Ruinele Sor sunt un sit arheologic din Jijel.", "category": "historical", "coords": [5.7599, 36.824592]}, {"name": "3ème", "text": "3ème este un punct de observație cunoscut în Jijel.", "category": "natural", "coords": [5.788863, 36.808964]}, {"name": "Maison de la culture Omar Oussedik", "text": "Maison de la culture Omar Oussedik este un centru din Jijel.", "category": "cultural", "coords": [5.779188, 36.805274]}, {"name": "Maison de jeunes Bounab Rachid", "text": "Casa de tineret Bounab Rachid este un loc de întâlnire în Jijel.", "category": "cultural", "coords": [5.769649, 36.813665]}, {"name": "Centre culturel islamique", "text": "Centrul Cultural Islamic din Jijel este o instituție educativă.", "category": "cultural", "coords": [5.766848, 36.822099]}], "en": [{"name": "Regional Theater of Jijel", "text": "The Regional Theater of Jijel is a center for performing arts.", "category": "cultural", "coords": [5.787527, 36.802581]}, {"name": "venec", "text": "Venec is a museum in the coastal city of Jijel.", "category": "museum", "coords": [5.751907, 36.810856]}, {"name": "Jijel Mujahideen Museum", "text": "The Moudjahid Museum in Jijel commemorates history.", "category": "museum", "coords": [5.791606, 36.802793]}, {"name": "Plage Kotama", "text": "As one of the most popular beaches in Jijel, Plage Kotama is a lively magnet for sun seekers. The clear water and wide sandy area offer ideal conditions for carefree bathing fun. Arriving early is recommended, especially during the holiday season.", "category": "recreational", "coords": [5.776145, 36.814046]}, {"name": "Plage Azzaoui", "text": "Plage Azzaoui is a beautiful beach section in Jijel.", "category": "recreational", "coords": [5.734637, 36.822389]}, {"name": "Plage Rabta", "text": "The well-known beach Plage Rabta enriches the coastal scenery of Jijel with another attractive bathing option. The inviting atmosphere attracts both families and solo travelers wishing to enjoy the Algerian sea. A great spot for long walks along the water's edge.", "category": "recreational", "coords": [5.754223, 36.824415]}, {"name": "Théâtre de verdure", "text": "The open-air theater in Jijel offers cultural performances.", "category": "cultural", "coords": [5.780177, 36.806003]}, {"name": "Mini-parc d’attraction Oumnia", "text": "The Oumnia Minipark is an amusement park in Jijel.", "category": "family", "coords": [5.765931, 36.811521]}, {"name": "Fort Duquesne", "text": "Fort Duquesne is a historic fortification in Jijel.", "category": "castle", "coords": [5.772775, 36.819217]}, {"name": "Kotama Museum", "text": "The Kotama Museum displays exhibits about the region in Jijel.", "category": "museum", "coords": [5.764419, 36.821194]}, {"name": "Monument Galère de Barberousse", "text": "The Barberousse monument recalls history in Jijel.", "category": "historical", "coords": [5.771536, 36.816732]}, {"name": "Monument aux Morts", "text": "The war memorial is a site of remembrance in Jijel.", "category": "historical", "coords": [5.765437, 36.823116]}, {"name": "Ruines du Sor", "text": "The ruins of Sor are an archaeological site in Jijel.", "category": "historical", "coords": [5.7599, 36.824592]}, {"name": "3ème", "text": "3ème is a known viewpoint in Jijel.", "category": "natural", "coords": [5.788863, 36.808964]}, {"name": "Maison de la culture Omar Oussedik", "text": "The Maison de la culture Omar Oussedik is a center in Jijel.", "category": "cultural", "coords": [5.779188, 36.805274]}, {"name": "Maison de jeunes Bounab Rachid", "text": "The Bounab Rachid Youth House is a meeting point in Jijel.", "category": "cultural", "coords": [5.769649, 36.813665]}, {"name": "Centre culturel islamique", "text": "The Islamic Cultural Center in Jijel is an educational institution.", "category": "cultural", "coords": [5.766848, 36.822099]}]},
+    id: "jijel-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Regionaltheater von Jijel",
+                  "text": "Das Regionaltheater von Jijel ist das zentrale Haus für algerische und internationale Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        5.787527,
+                        36.802581
+                  ]
+            },
+            {
+                  "name": "venec",
+                  "text": "Das Venec-Museum in Jijel präsentiert lokales Kunsthandwerk und kulturelles Erbe.",
+                  "category": "museum",
+                  "coords": [
+                        5.751907,
+                        36.810856
+                  ]
+            },
+            {
+                  "name": "Jijel Mujahideen Museum",
+                  "text": "Das Jijel-Mudschaheddin-Museum erinnert an den Unabhängigkeitskrieg und die algerischen Kämpfer.",
+                  "category": "museum",
+                  "coords": [
+                        5.791606,
+                        36.802793
+                  ]
+            },
+            {
+                  "name": "Plage Kotama",
+                  "text": "Als einer der populärsten Strände in Jijel ist die Plage Kotama ein lebendiger Anziehungspunkt für Sonnenhungrige. Das klare Wasser und die weite Sandfläche bieten ideale Voraussetzungen für unbeschwerten Badespaß. Besonders in der Ferienzeit ist ein rechtzeitiges Eintreffen empfehlenswert.",
+                  "category": "recreational",
+                  "coords": [
+                        5.776145,
+                        36.814046
+                  ]
+            },
+            {
+                  "name": "Plage Azzaoui",
+                  "text": "Plage Azzaoui ist ein sandiger Badestrand an der Mittelmeerküste bei Jijel.",
+                  "category": "recreational",
+                  "coords": [
+                        5.734637,
+                        36.822389
+                  ]
+            },
+            {
+                  "name": "Plage Rabta",
+                  "text": "Der bekannte Strand Plage Rabta bereichert das Küstenbild von Jijel um eine weitere attraktive Bademöglichkeit. Die einladende Atmosphäre zieht sowohl Familien als auch Alleinreisende an, die das algerische Meer genießen möchten. Ein toller Ort für lange Spaziergänge entlang der Wasserkante.",
+                  "category": "recreational",
+                  "coords": [
+                        5.754223,
+                        36.824415
+                  ]
+            },
+            {
+                  "name": "Théâtre de verdure",
+                  "text": "Das Freilichttheater in Jijel bietet kulturelle Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        5.780177,
+                        36.806003
+                  ]
+            },
+            {
+                  "name": "Mini-parc d’attraction Oumnia",
+                  "text": "Der Mini-Vergnügungspark Oumnia in Jijel bietet Fahrgeschäfte und Spiele für Familien.",
+                  "category": "family",
+                  "coords": [
+                        5.765931,
+                        36.811521
+                  ]
+            },
+            {
+                  "name": "Fort Duquesne",
+                  "text": "Fort Duquesne ist eine französische Kolonialfestung auf einem Hügel über dem Hafen von Jijel.",
+                  "category": "castle",
+                  "coords": [
+                        5.772775,
+                        36.819217
+                  ]
+            },
+            {
+                  "name": "Kotama Museum",
+                  "text": "Das Kotama Museum zeigt Exponate zur Region in Jijel.",
+                  "category": "museum",
+                  "coords": [
+                        5.764419,
+                        36.821194
+                  ]
+            },
+            {
+                  "name": "Monument Galère de Barberousse",
+                  "text": "Das Monument Galère de Barberousse erinnert an die Galeere des osmanischen Admirals Barbarossa an der Uferpromenade von Jijel.",
+                  "category": "historical",
+                  "coords": [
+                        5.771536,
+                        36.816732
+                  ]
+            },
+            {
+                  "name": "Monument aux Morts",
+                  "text": "Das Monument aux Morts in Jijel ehrt die im Ersten und Zweiten Weltkrieg gefallenen Soldaten.",
+                  "category": "historical",
+                  "coords": [
+                        5.765437,
+                        36.823116
+                  ]
+            },
+            {
+                  "name": "Ruines du Sor",
+                  "text": "Die Ruines du Sor sind antike Ruinen (möglicherweise römisch) auf einem Hügel nahe Jijel.",
+                  "category": "historical",
+                  "coords": [
+                        5.7599,
+                        36.824592
+                  ]
+            },
+            {
+                  "name": "3ème",
+                  "text": "Dieser Naturort in Jijel bietet eine Aussicht oder eine Bucht, die zum Verweilen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        5.788863,
+                        36.808964
+                  ]
+            },
+            {
+                  "name": "Maison de la culture Omar Oussedik",
+                  "text": "Die Maison de la culture Omar Oussedik ist ein Kulturzentrum, benannt nach dem berberischen Sänger, mit Konzerten und Kunstausstellungen.",
+                  "category": "cultural",
+                  "coords": [
+                        5.779188,
+                        36.805274
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes Bounab Rachid",
+                  "text": "Die Maison de jeunes Bounab Rachid in Jijel bietet Jugendlichen Aktivitäten und Programme.",
+                  "category": "cultural",
+                  "coords": [
+                        5.769649,
+                        36.813665
+                  ]
+            },
+            {
+                  "name": "Centre culturel islamique",
+                  "text": "Das islamische Kulturzentrum in Jijel vermittelt religiöse und kulturelle Bildung.",
+                  "category": "cultural",
+                  "coords": [
+                        5.766848,
+                        36.822099
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jijel-i regionális színház",
+                  "text": "A jijeli Regionális Színház az algériai és nemzetközi előadások központi helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        5.787527,
+                        36.802581
+                  ]
+            },
+            {
+                  "name": "venec",
+                  "text": "A jijeli Venec Múzeum helyi kézművességet és kulturális örökséget mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        5.751907,
+                        36.810856
+                  ]
+            },
+            {
+                  "name": "Jijel-i Moudjahid múzeum",
+                  "text": "A jijeli Mudzsaheddin Múzeum a függetlenségi háborúra és az algériai harcosokra emlékezik.",
+                  "category": "museum",
+                  "coords": [
+                        5.791606,
+                        36.802793
+                  ]
+            },
+            {
+                  "name": "Plage Kotama",
+                  "text": "Jijel egyik legnépszerűbb strandjaként a Plage Kotama a napozni vágyók élénk vonzereje. A tiszta víz és a széles homokos terület ideális feltételeket biztosít a gondtalan fürdőzéshez. Különösen a nyaralási szezonban ajánlott a korai érkezés.",
+                  "category": "recreational",
+                  "coords": [
+                        5.776145,
+                        36.814046
+                  ]
+            },
+            {
+                  "name": "Plage Azzaoui",
+                  "text": "Az Azzaoui strand homokos fürdőstrand a Földközi-tenger partján, Jijel közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        5.734637,
+                        36.822389
+                  ]
+            },
+            {
+                  "name": "Plage Rabta",
+                  "text": "A jól ismert Plage Rabta strand egy újabb vonzó fürdőzési lehetőséggel gazdagítja Jijel partképét. A hívogató légkör egyaránt vonzza a családokat és az egyedül utazókat, akik élvezni szeretnék az algériai tengert. Remek hely a hosszú sétákhoz a vízpart mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        5.754223,
+                        36.824415
+                  ]
+            },
+            {
+                  "name": "Théâtre de verdure",
+                  "text": "A szabadtéri színház Jijel városában kulturális előadásokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        5.780177,
+                        36.806003
+                  ]
+            },
+            {
+                  "name": "Mini-parc d’attraction Oumnia",
+                  "text": "A jijeli Oumnia Mini Vidámpark családok számára kínál játékokat és attrakciókat.",
+                  "category": "family",
+                  "coords": [
+                        5.765931,
+                        36.811521
+                  ]
+            },
+            {
+                  "name": "Fort Duquesne",
+                  "text": "A Fort Duquesne egy francia gyarmati erőd egy dombon, Jijel kikötője felett.",
+                  "category": "castle",
+                  "coords": [
+                        5.772775,
+                        36.819217
+                  ]
+            },
+            {
+                  "name": "Kotama Múzeum",
+                  "text": "A Kotama Múzeum a Jijel régió kiállításait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        5.764419,
+                        36.821194
+                  ]
+            },
+            {
+                  "name": "Monument Galère de Barberousse",
+                  "text": "A Barberousse gályája emlékmű a Barbarossa oszmán tengernagy gályájára emlékeztet a jijeli sétányon.",
+                  "category": "historical",
+                  "coords": [
+                        5.771536,
+                        36.816732
+                  ]
+            },
+            {
+                  "name": "Monument aux Morts",
+                  "text": "A jijeli Hősi emlékmű az I. és II. világháborúban elesett katonák előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        5.765437,
+                        36.823116
+                  ]
+            },
+            {
+                  "name": "Ruines du Sor",
+                  "text": "A Sor-romok ősi (valószínűleg római) romok egy dombon Jijel közelében.",
+                  "category": "historical",
+                  "coords": [
+                        5.7599,
+                        36.824592
+                  ]
+            },
+            {
+                  "name": "3ème",
+                  "text": "Ez a természeti helyszín Jijelben egy kilátó vagy öböl, amely pihenésre csábít.",
+                  "category": "natural",
+                  "coords": [
+                        5.788863,
+                        36.808964
+                  ]
+            },
+            {
+                  "name": "Maison de la culture Omar Oussedik",
+                  "text": "A Maison de la culture Omar Oussedik a berber énekesről elnevezett kulturális központ, koncertekkel és kiállításokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        5.779188,
+                        36.805274
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes Bounab Rachid",
+                  "text": "A jijeli Bounab Rachid Ifjúsági Ház fiatalok számára kínál tevékenységeket és programokat.",
+                  "category": "cultural",
+                  "coords": [
+                        5.769649,
+                        36.813665
+                  ]
+            },
+            {
+                  "name": "Centre culturel islamique",
+                  "text": "A jijeli Iszlám Kulturális Központ vallási és kulturális oktatást nyújt.",
+                  "category": "cultural",
+                  "coords": [
+                        5.766848,
+                        36.822099
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatrul Regional din Jijel",
+                  "text": "Teatrul Regional din Jijel este scena centrală pentru spectacole algeriene și internaționale.",
+                  "category": "cultural",
+                  "coords": [
+                        5.787527,
+                        36.802581
+                  ]
+            },
+            {
+                  "name": "venec",
+                  "text": "Muzeul Venec din Jijel prezintă meșteșuguri locale și moștenire culturală.",
+                  "category": "museum",
+                  "coords": [
+                        5.751907,
+                        36.810856
+                  ]
+            },
+            {
+                  "name": "Jijel Mujahideen Museum",
+                  "text": "Muzeul Mujahedinilor din Jijel comemorează războiul de independență și luptătorii algerieni.",
+                  "category": "museum",
+                  "coords": [
+                        5.791606,
+                        36.802793
+                  ]
+            },
+            {
+                  "name": "Plage Kotama",
+                  "text": "Fiind una dintre cele mai populare plaje din Jijel, Plage Kotama este un punct de atracție plin de viață pentru iubitorii de soare. Apa limpede și întinderea vastă de nisip oferă condiții ideale pentru distracție lipsită de griji la scăldat. O sosire la timp este recomandată în special în sezonul vacanțelor.",
+                  "category": "recreational",
+                  "coords": [
+                        5.776145,
+                        36.814046
+                  ]
+            },
+            {
+                  "name": "Plage Azzaoui",
+                  "text": "Plaja Azzaoui este o plajă nisipoasă pe coasta mediteraneană lângă Jijel.",
+                  "category": "recreational",
+                  "coords": [
+                        5.734637,
+                        36.822389
+                  ]
+            },
+            {
+                  "name": "Plage Rabta",
+                  "text": "Cunoscuta plajă Plage Rabta îmbogățește peisajul de coastă din Jijel cu o altă oportunitate atractivă de scăldat. Atmosfera primitoare atrage atât familiile, cât și călătorii singuri care doresc să se bucure de marea algeriană. Un loc minunat pentru plimbări lungi de-a lungul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        5.754223,
+                        36.824415
+                  ]
+            },
+            {
+                  "name": "Théâtre de verdure",
+                  "text": "Teatrul în aer liber din Jijel oferă spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        5.780177,
+                        36.806003
+                  ]
+            },
+            {
+                  "name": "Mini-parc d’attraction Oumnia",
+                  "text": "Parcul de distracții miniatural Oumnia din Jijel oferă curse și jocuri pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        5.765931,
+                        36.811521
+                  ]
+            },
+            {
+                  "name": "Fort Duquesne",
+                  "text": "Fort Duquesne este o fortăreață colonială franceză pe o colină deasupra portului Jijel.",
+                  "category": "castle",
+                  "coords": [
+                        5.772775,
+                        36.819217
+                  ]
+            },
+            {
+                  "name": "Kotama Museum",
+                  "text": "Muzeul Kotama prezintă exponate despre regiunea Jijel.",
+                  "category": "museum",
+                  "coords": [
+                        5.764419,
+                        36.821194
+                  ]
+            },
+            {
+                  "name": "Monument Galère de Barberousse",
+                  "text": "Monumentul Galère de Barberousse comemorează galera amiralului otoman Barbarossa pe faleză Jijel.",
+                  "category": "historical",
+                  "coords": [
+                        5.771536,
+                        36.816732
+                  ]
+            },
+            {
+                  "name": "Monument aux Morts",
+                  "text": "Monumentul Eroilor din Jijel onorează soldații căzuți în Primul și al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        5.765437,
+                        36.823116
+                  ]
+            },
+            {
+                  "name": "Ruines du Sor",
+                  "text": "Ruinele Sor sunt ruine antice (posibil romane) pe o colină lângă Jijel.",
+                  "category": "historical",
+                  "coords": [
+                        5.7599,
+                        36.824592
+                  ]
+            },
+            {
+                  "name": "3ème",
+                  "text": "Acest sit natural din Jijel oferă o priveliște sau o golfuleț care invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        5.788863,
+                        36.808964
+                  ]
+            },
+            {
+                  "name": "Maison de la culture Omar Oussedik",
+                  "text": "Maison de la culture Omar Oussedik este un centru cultural numit după cântărețul berber, cu concerte și expoziții de artă.",
+                  "category": "cultural",
+                  "coords": [
+                        5.779188,
+                        36.805274
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes Bounab Rachid",
+                  "text": "Casa Tineretului Bounab Rachid din Jijel oferă activități și programe pentru tineri.",
+                  "category": "cultural",
+                  "coords": [
+                        5.769649,
+                        36.813665
+                  ]
+            },
+            {
+                  "name": "Centre culturel islamique",
+                  "text": "Centrul Cultural Islamic din Jijel oferă educație religioasă și culturală.",
+                  "category": "cultural",
+                  "coords": [
+                        5.766848,
+                        36.822099
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Regional Theater of Jijel",
+                  "text": "The Regional Theater of Jijel is the central stage for Algerian and international performances.",
+                  "category": "cultural",
+                  "coords": [
+                        5.787527,
+                        36.802581
+                  ]
+            },
+            {
+                  "name": "venec",
+                  "text": "Venec Museum in Jijel showcases local crafts and cultural heritage.",
+                  "category": "museum",
+                  "coords": [
+                        5.751907,
+                        36.810856
+                  ]
+            },
+            {
+                  "name": "Jijel Mujahideen Museum",
+                  "text": "Jijel Mujahideen Museum commemorates the War of Independence and Algerian fighters.",
+                  "category": "museum",
+                  "coords": [
+                        5.791606,
+                        36.802793
+                  ]
+            },
+            {
+                  "name": "Plage Kotama",
+                  "text": "As one of the most popular beaches in Jijel, Plage Kotama is a lively magnet for sun seekers. The clear water and wide sandy area offer ideal conditions for carefree bathing fun. Arriving early is recommended, especially during the holiday season.",
+                  "category": "recreational",
+                  "coords": [
+                        5.776145,
+                        36.814046
+                  ]
+            },
+            {
+                  "name": "Plage Azzaoui",
+                  "text": "Plage Azzaoui is a sandy beach on the Mediterranean coast near Jijel.",
+                  "category": "recreational",
+                  "coords": [
+                        5.734637,
+                        36.822389
+                  ]
+            },
+            {
+                  "name": "Plage Rabta",
+                  "text": "The well-known beach Plage Rabta enriches the coastal scenery of Jijel with another attractive bathing option. The inviting atmosphere attracts both families and solo travelers wishing to enjoy the Algerian sea. A great spot for long walks along the water's edge.",
+                  "category": "recreational",
+                  "coords": [
+                        5.754223,
+                        36.824415
+                  ]
+            },
+            {
+                  "name": "Théâtre de verdure",
+                  "text": "The open-air theater in Jijel offers cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        5.780177,
+                        36.806003
+                  ]
+            },
+            {
+                  "name": "Mini-parc d’attraction Oumnia",
+                  "text": "Mini-parc d’attraction Oumnia in Jijel offers rides and games for families.",
+                  "category": "family",
+                  "coords": [
+                        5.765931,
+                        36.811521
+                  ]
+            },
+            {
+                  "name": "Fort Duquesne",
+                  "text": "Fort Duquesne is a French colonial fort on a hill overlooking the port of Jijel.",
+                  "category": "castle",
+                  "coords": [
+                        5.772775,
+                        36.819217
+                  ]
+            },
+            {
+                  "name": "Kotama Museum",
+                  "text": "The Kotama Museum displays exhibits about the region in Jijel.",
+                  "category": "museum",
+                  "coords": [
+                        5.764419,
+                        36.821194
+                  ]
+            },
+            {
+                  "name": "Monument Galère de Barberousse",
+                  "text": "Monument Galère de Barberousse commemorates the galley of Ottoman admiral Barbarossa on the Jijel waterfront.",
+                  "category": "historical",
+                  "coords": [
+                        5.771536,
+                        36.816732
+                  ]
+            },
+            {
+                  "name": "Monument aux Morts",
+                  "text": "The Monument aux Morts in Jijel honors soldiers fallen in World Wars I and II.",
+                  "category": "historical",
+                  "coords": [
+                        5.765437,
+                        36.823116
+                  ]
+            },
+            {
+                  "name": "Ruines du Sor",
+                  "text": "Ruines du Sor are ancient ruins (possibly Roman) on a hill near Jijel.",
+                  "category": "historical",
+                  "coords": [
+                        5.7599,
+                        36.824592
+                  ]
+            },
+            {
+                  "name": "3ème",
+                  "text": "This natural site in Jijel offers a scenic viewpoint or cove for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        5.788863,
+                        36.808964
+                  ]
+            },
+            {
+                  "name": "Maison de la culture Omar Oussedik",
+                  "text": "Maison de la culture Omar Oussedik is a cultural center named after the Berber singer, with concerts and art exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        5.779188,
+                        36.805274
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes Bounab Rachid",
+                  "text": "Maison de jeunes Bounab Rachid in Jijel offers activities and programs for young people.",
+                  "category": "cultural",
+                  "coords": [
+                        5.769649,
+                        36.813665
+                  ]
+            },
+            {
+                  "name": "Centre culturel islamique",
+                  "text": "The Islamic Cultural Centre in Jijel provides religious and cultural education.",
+                  "category": "cultural",
+                  "coords": [
+                        5.766848,
+                        36.822099
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-18",
     coords: [5.7667, 36.8206],
@@ -6794,7 +8549,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Espace vert",
-                  "text": "Espace vert ist eine Sehenswürdigkeit in der Stadt Relizane.",
+                  "text": "Der Espace vert ist eine öffentliche Grünanlage im Zentrum von Relizane zur Erholung.",
                   "category": "landmark",
                   "coords": [
                         0.565747,
@@ -6803,7 +8558,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Zaki labassi",
-                  "text": "Zaki labassi ist eine Sehenswürdigkeit in der Stadt Relizane.",
+                  "text": "Das Wahrzeichen Zaki labassi in Relizane erinnert an eine lokale Persönlichkeit oder ein Ereignis.",
                   "category": "landmark",
                   "coords": [
                         0.555776,
@@ -6812,7 +8567,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Culture House",
-                  "text": "دار الثقافة ist ein Kunstzentrum in der Stadt Relizane.",
+                  "text": "Das Kulturhaus in Relizane bietet Theater- und Gemeinschaftsveranstaltungen.",
                   "category": "cultural",
                   "coords": [
                         0.560098,
@@ -6821,7 +8576,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Palais de culture M'hamed Issiakhem",
-                  "text": "Der Palais de culture M'hamed Issiakhem ist ein Kunstzentrum in Relizane.",
+                  "text": "Der Kulturpalast M'hamed Issiakhem in Relizane, benannt nach dem Maler, beherbergt Galerien und Aufführungen.",
                   "category": "cultural",
                   "coords": [
                         0.546565,
@@ -6859,7 +8614,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Espace vert",
-                  "text": "Az Espace vert egy látványosság Relizane városában.",
+                  "text": "Az Espace vert egy nyilvános park Relizane központjában, pihenésre alkalmas zöld terület.",
                   "category": "landmark",
                   "coords": [
                         0.565747,
@@ -6868,7 +8623,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Zaki labassi",
-                  "text": "A Zaki labassi egy látványosság Relizane városában.",
+                  "text": "A Zaki labassi nevezetesség Relizane-ben egy helyi személyre vagy eseményre emlékeztet.",
                   "category": "landmark",
                   "coords": [
                         0.555776,
@@ -6877,7 +8632,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Culture House",
-                  "text": "A دار الثقافة egy művészeti központ Relizane városában.",
+                  "text": "A relizanei Kulturális Ház színházi és közösségi rendezvényeknek ad otthont.",
                   "category": "cultural",
                   "coords": [
                         0.560098,
@@ -6886,7 +8641,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Palais de culture M'hamed Issiakhem",
-                  "text": "A Palais de culture M'hamed Issiakhem egy művészeti központ Relizane városában.",
+                  "text": "A relizanei M'hamed Issiakhem Kulturpalota a festőről elnevezve galériáknak és előadásoknak ad otthont.",
                   "category": "cultural",
                   "coords": [
                         0.546565,
@@ -6924,7 +8679,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Espace vert",
-                  "text": "Espace vert este o atracție în orașul Relizane.",
+                  "text": "Espace vert este un parc public în centrul Relizanei, o zonă verde de recreere.",
                   "category": "landmark",
                   "coords": [
                         0.565747,
@@ -6933,7 +8688,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Zaki labassi",
-                  "text": "Zaki labassi este o atracție în orașul Relizane.",
+                  "text": "Reperul Zaki labassi din Relizane comemorează o personalitate sau un eveniment local.",
                   "category": "landmark",
                   "coords": [
                         0.555776,
@@ -6942,7 +8697,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Culture House",
-                  "text": "دار الثقافة este un centru de arte în orașul Relizane.",
+                  "text": "Casa Culturii din Relizane găzduiește evenimente teatrale și comunitare.",
                   "category": "cultural",
                   "coords": [
                         0.560098,
@@ -6951,7 +8706,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Palais de culture M'hamed Issiakhem",
-                  "text": "Palais de culture M'hamed Issiakhem este un centru de arte în orașul Relizane.",
+                  "text": "Palatul Culturii M'hamed Issiakhem din Relizane, numit după pictor, găzduiește galerii și spectacole.",
                   "category": "cultural",
                   "coords": [
                         0.546565,
@@ -6989,7 +8744,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Espace vert",
-                  "text": "Espace vert is an attraction in the city of Relizane.",
+                  "text": "Espace vert is a public park in central Relizane, a green space for recreation.",
                   "category": "landmark",
                   "coords": [
                         0.565747,
@@ -6998,7 +8753,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Zaki labassi",
-                  "text": "Zaki labassi is an attraction in the city of Relizane.",
+                  "text": "The Zaki labassi landmark in Relizane commemorates a local figure or event.",
                   "category": "landmark",
                   "coords": [
                         0.555776,
@@ -7007,7 +8762,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Culture House",
-                  "text": "دار الثقافة is an arts centre in the city of Relizane.",
+                  "text": "Culture House in Relizane hosts theater and community events.",
                   "category": "cultural",
                   "coords": [
                         0.560098,
@@ -7016,7 +8771,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Palais de culture M'hamed Issiakhem",
-                  "text": "Palais de culture M'hamed Issiakhem is an arts centre in the city of Relizane.",
+                  "text": "Palais de culture M'hamed Issiakhem in Relizane, named after the painter, houses galleries and performances.",
                   "category": "cultural",
                   "coords": [
                         0.546565,
@@ -7133,7 +8888,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Mujahideen Museum",
-                  "text": "متحف المجاهدين ist ein Museum in der Stadt Khenchela.",
+                  "text": "Das Mudschaheddin-Museum in Khenchela dokumentiert den algerischen Unabhängigkeitskrieg.",
                   "category": "museum",
                   "coords": [
                         7.124281,
@@ -7142,7 +8897,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Boulaziz Brothers National Museum",
-                  "text": "المتحف العمومي الوطني الإخوة الشهداء بولعزيز ist ein Museum in der Stadt Khenchela.",
+                  "text": "Das Nationalmuseum der Boulaziz-Brüder in Khenchela ehrt die Helden der algerischen Revolution.",
                   "category": "museum",
                   "coords": [
                         7.136137,
@@ -7151,7 +8906,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Open air theatre",
-                  "text": "Open air theatre ist ein Theater in der Stadt Khenchela.",
+                  "text": "Das Open-Air-Theater in Khenchela wird für Sommervorstellungen und Festivals genutzt.",
                   "category": "cultural",
                   "coords": [
                         7.133421,
@@ -7160,7 +8915,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Culture House",
-                  "text": "دار الثقافة ⴰⵅⵅⴰⵎ ⵏ ⵢⴻⴷⵍⴻⵙ ist ein Kunstzentrum in der Stadt Khenchela.",
+                  "text": "Das Kulturhaus in Khenchela bietet verschiedene kulturelle Aktivitäten.",
                   "category": "cultural",
                   "coords": [
                         7.14917,
@@ -7171,7 +8926,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Mujahideen Museum",
-                  "text": "A متحف المجاهدين egy múzeum Khenchela városában.",
+                  "text": "A khenchelai Mudzsaheddin Múzeum az algériai függetlenségi háborút dokumentálja.",
                   "category": "museum",
                   "coords": [
                         7.124281,
@@ -7180,7 +8935,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Boulaziz Brothers National Museum",
-                  "text": "A المتحف العمومي الوطني الإخوة الشهداء بولعزيز egy múzeum Khenchela városában.",
+                  "text": "A Boulaziz testvérek Nemzeti Múzeuma Khenchela városában az algériai forradalom hőseit állítja emlékművet.",
                   "category": "museum",
                   "coords": [
                         7.136137,
@@ -7189,7 +8944,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Open air theatre",
-                  "text": "Az Open air theatre egy színház Khenchela városában.",
+                  "text": "A khenchelai szabadtéri színház nyári előadásoknak és fesztiváloknak ad otthont.",
                   "category": "cultural",
                   "coords": [
                         7.133421,
@@ -7198,7 +8953,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Culture House",
-                  "text": "A دار الثقافة ⴰⵅⵅⴰⵎ ⵏ ⵢⴻⴷⵍⴻⵙ egy művészeti központ Khenchela városában.",
+                  "text": "A khenchelai Kulturális Ház sokféle kulturális tevékenységet kínál.",
                   "category": "cultural",
                   "coords": [
                         7.14917,
@@ -7209,7 +8964,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Mujahideen Museum",
-                  "text": "متحف المجاهدين este un muzeu în orașul Khenchela.",
+                  "text": "Muzeul Mujahedinilor din Khenchela documentează războiul de independență algerian.",
                   "category": "museum",
                   "coords": [
                         7.124281,
@@ -7218,7 +8973,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Boulaziz Brothers National Museum",
-                  "text": "المتحف العمومي الوطني الإخوة الشهداء بولعزيز este un muzeu în orașul Khenchela.",
+                  "text": "Muzeul Național al Fraților Boulaziz din Khenchela onorează eroii revoluției algeriene.",
                   "category": "museum",
                   "coords": [
                         7.136137,
@@ -7227,7 +8982,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Open air theatre",
-                  "text": "Open air theatre este un teatru în orașul Khenchela.",
+                  "text": "Teatrul în aer liber din Khenchela este folosit pentru spectacole de vară și festivaluri.",
                   "category": "cultural",
                   "coords": [
                         7.133421,
@@ -7236,7 +8991,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Culture House",
-                  "text": "دار الثقافة ⴰⵅⵅⴰⵎ ⵏ ⵢⴻⴷⵍⴻⵙ este un centru de arte în orașul Khenchela.",
+                  "text": "Casa Culturii din Khenchela oferă diverse activități culturale.",
                   "category": "cultural",
                   "coords": [
                         7.14917,
@@ -7247,7 +9002,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Mujahideen Museum",
-                  "text": "متحف المجاهدين is a museum in the city of Khenchela.",
+                  "text": "Mujahideen Museum in Khenchela documents the Algerian War of Independence.",
                   "category": "museum",
                   "coords": [
                         7.124281,
@@ -7256,7 +9011,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Boulaziz Brothers National Museum",
-                  "text": "المتحف العمومي الوطني الإخوة الشهداء بولعزيز is a museum in the city of Khenchela.",
+                  "text": "Boulaziz Brothers National Museum in Khenchela honors the heroes of the Algerian Revolution.",
                   "category": "museum",
                   "coords": [
                         7.136137,
@@ -7265,7 +9020,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Open air theatre",
-                  "text": "Open air theatre is a theatre in the city of Khenchela.",
+                  "text": "The open-air theatre in Khenchela is used for summer performances and festivals.",
                   "category": "cultural",
                   "coords": [
                         7.133421,
@@ -7274,7 +9029,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Culture House",
-                  "text": "دار الثقافة ⴰⵅⵅⴰⵎ ⵏ ⵢⴻⴷⵍⴻⵙ is an arts centre in the city of Khenchela.",
+                  "text": "Culture House in Khenchela offers various cultural activities.",
                   "category": "cultural",
                   "coords": [
                         7.14917,
@@ -7356,7 +9111,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Théâtre de Mascara",
-                  "text": "Das Theater von Mascara ist ein Ort für Aufführungen.",
+                  "text": "Historisches Theatergebäude in Mascara.",
                   "category": "cultural",
                   "coords": [
                         0.139972,
@@ -7365,7 +9120,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "al-Fadjr-Moschee",
-                  "text": "Die al-Fadjr-Moschee ist ein historischer Ort in Mascara.",
+                  "text": "Die al-Fadjr-Moschee in Mascara beherbergt heute ein Museum für islamische Kunst und Geschichte.",
                   "category": "museum",
                   "coords": [
                         0.132055,
@@ -7374,7 +9129,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "al-Ghamama-Moschee",
-                  "text": "Die al-Ghamama-Moschee ist ein historisches Gebäude in Mascara.",
+                  "text": "Die al-Ghamama-Moschee in Mascara ist eine historische Moschee mit einem Museum für religiöse Artefakte.",
                   "category": "museum",
                   "coords": [
                         0.136279,
@@ -7383,7 +9138,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Ain Bent Soltane",
-                  "text": "Ain Bent Soltane ist eine historische Stätte in Mascara.",
+                  "text": "Ain Bent Soltane in Mascara ist eine Quellstätte mit einem archäologischen Museum.",
                   "category": "museum",
                   "coords": [
                         0.135145,
@@ -7392,7 +9147,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musée du Moudjahid",
-                  "text": "Das Moudjahid-Museum in Mascara bewahrt das Erbe.",
+                  "text": "Das Musée du Moudjahid in Mascara ist dem Unabhängigkeitskrieg gewidmet.",
                   "category": "museum",
                   "coords": [
                         0.140202,
@@ -7401,7 +9156,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Théâtre de Verdure",
-                  "text": "Das Freilichttheater ist ein Veranstaltungsort in Mascara.",
+                  "text": "Das Théâtre de Verdure in Mascara ist ein Gartentheater mit Open-Air-Veranstaltungen.",
                   "category": "cultural",
                   "coords": [
                         0.139712,
@@ -7410,7 +9165,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Denkmal Achamaa",
-                  "text": "Das Denkmal Achamaa ist ein Wahrzeichen in Mascara.",
+                  "text": "Das Achamaa-Denkmal in Mascara ehrt eine lokale historische Person oder Begebenheit.",
                   "category": "historical",
                   "coords": [
                         0.142295,
@@ -7419,7 +9174,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de Jeunes Samach Said",
-                  "text": "Das Jugendhaus Samach Said ist ein Treffpunkt in Mascara.",
+                  "text": "Das Maison de Jeunes Samach Said in Mascara bietet Jugendfreizeitprogramme.",
                   "category": "cultural",
                   "coords": [
                         0.143381,
@@ -7428,7 +9183,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Islamische Kulturzentrum in Mascara",
-                  "text": "Das Islamische Kulturzentrum in Mascara ist ein Bildungsort.",
+                  "text": "Das Islamische Kulturzentrum in Mascara bietet Bildung und Gemeindedienste.",
                   "category": "cultural",
                   "coords": [
                         0.145559,
@@ -7439,7 +9194,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Théâtre de Mascara",
-                  "text": "A Mascara-i színház előadások helyszíne.",
+                  "text": "Történelmi színházépület Mascaraban.",
                   "category": "cultural",
                   "coords": [
                         0.139972,
@@ -7448,7 +9203,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "al-Fadjr mecset",
-                  "text": "Az al-Fadjr mecset egy történelmi hely Mascara városában.",
+                  "text": "A mascara-i al-Fadjr mecset ma iszlám művészeti és történelmi múzeumnak ad otthont.",
                   "category": "museum",
                   "coords": [
                         0.132055,
@@ -7457,7 +9212,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "al-Ghamama mecset",
-                  "text": "Az al-Ghamama mecset egy történelmi épület Mascara városában.",
+                  "text": "A mascara-i al-Ghamama mecset egy történelmi mecset, amely vallási tárgyak múzeumával rendelkezik.",
                   "category": "museum",
                   "coords": [
                         0.136279,
@@ -7466,7 +9221,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Ain Bent Soltane",
-                  "text": "Ain Bent Soltane egy történelmi hely Mascara városában.",
+                  "text": "A mascara-i Ain Bent Soltane egy forráshely, amely régészeti múzeummal rendelkezik.",
                   "category": "museum",
                   "coords": [
                         0.135145,
@@ -7475,7 +9230,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musée du Moudjahid",
-                  "text": "A Mascara-i Moudjahid múzeum az örökséget őrzi.",
+                  "text": "A mascara-i Musée du Moudjahid a függetlenségi háborúnak van szentelve.",
                   "category": "museum",
                   "coords": [
                         0.140202,
@@ -7484,7 +9239,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Théâtre de Verdure",
-                  "text": "A szabadtéri színház Mascara városában egy rendezvényhelyszín.",
+                  "text": "A mascara-i Théâtre de Verdure egy kertszínház szabadtéri eseményekkel.",
                   "category": "cultural",
                   "coords": [
                         0.139712,
@@ -7493,7 +9248,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Achamaa emlékmű",
-                  "text": "Az Achamaa emlékmű egy jellegzetes építmény Mascara városában.",
+                  "text": "A mascara-i Achamaa-emlékmű egy helyi történelmi személyiséget vagy eseményt ünnepel.",
                   "category": "historical",
                   "coords": [
                         0.142295,
@@ -7502,7 +9257,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de Jeunes Samach Said",
-                  "text": "A Samach Said ifjúsági ház egy találkozóhely Mascara városában.",
+                  "text": "A mascara-i Samach Said Ifjúsági Ház ifjúsági szabadidős programokat kínál.",
                   "category": "cultural",
                   "coords": [
                         0.143381,
@@ -7511,7 +9266,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "iszlám kulturális központ Mascara városában",
-                  "text": "Az iszlám kulturális központ Mascara városában egy oktatási helyszín.",
+                  "text": "A mascara-i Iszlám Kulturális Központ oktatást és közösségi szolgáltatásokat nyújt.",
                   "category": "cultural",
                   "coords": [
                         0.145559,
@@ -7522,7 +9277,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Théâtre de Mascara",
-                  "text": "Teatrul din Mascara este un loc pentru spectacole.",
+                  "text": "Clădire de teatru istorică în Mascara.",
                   "category": "cultural",
                   "coords": [
                         0.139972,
@@ -7531,7 +9286,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Moscheea al-Fadjr",
-                  "text": "Moscheea al-Fadjr este un loc istoric din Mascara.",
+                  "text": "Moscheea al-Fadjr din Mascara adăpostește acum un muzeu de artă și istorie islamică.",
                   "category": "museum",
                   "coords": [
                         0.132055,
@@ -7540,7 +9295,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Moscheea al-Ghamama",
-                  "text": "Moscheea al-Ghamama este o clădire istorică din Mascara.",
+                  "text": "Moscheea al-Ghamama din Mascara este o moschee istorică cu un muzeu de artefacte religioase.",
                   "category": "museum",
                   "coords": [
                         0.136279,
@@ -7549,7 +9304,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Ain Bent Soltane",
-                  "text": "Ain Bent Soltane este un sit istoric din Mascara.",
+                  "text": "Ain Bent Soltane din Mascara este un izvor cu un muzeu arheologic.",
                   "category": "museum",
                   "coords": [
                         0.135145,
@@ -7558,7 +9313,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musée du Moudjahid",
-                  "text": "Muzeul Moudjahid din Mascara păstrează patrimoniul.",
+                  "text": "Musée du Moudjahid din Mascara este dedicat războiului de independență.",
                   "category": "museum",
                   "coords": [
                         0.140202,
@@ -7567,7 +9322,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Théâtre de Verdure",
-                  "text": "Teatrul în aer liber este o locație pentru evenimente în Mascara.",
+                  "text": "Théâtre de Verdure din Mascara este un teatru în grădină cu evenimente în aer liber.",
                   "category": "cultural",
                   "coords": [
                         0.139712,
@@ -7576,7 +9331,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumentul Achamaa",
-                  "text": "Monumentul Achamaa este un punct de reper în Mascara.",
+                  "text": "Monumentul Achamaa din Mascara onorează o personalitate sau un eveniment istoric local.",
                   "category": "historical",
                   "coords": [
                         0.142295,
@@ -7585,7 +9340,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de Jeunes Samach Said",
-                  "text": "Casa de tineret Samach Said este un loc de întâlnire în Mascara.",
+                  "text": "Casa Tineretului Samach Said din Mascara oferă programe recreative pentru tineri.",
                   "category": "cultural",
                   "coords": [
                         0.143381,
@@ -7594,7 +9349,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Centrul Cultural Islamic din Mascara",
-                  "text": "Centrul Cultural Islamic din Mascara este un loc educativ.",
+                  "text": "Centrul Cultural Islamic din Mascara oferă educație și servicii comunitare.",
                   "category": "cultural",
                   "coords": [
                         0.145559,
@@ -7605,7 +9360,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Théâtre de Mascara",
-                  "text": "The theater of Mascara is a venue for performances.",
+                  "text": "A historic theatre building in Mascara.",
                   "category": "cultural",
                   "coords": [
                         0.139972,
@@ -7614,7 +9369,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "al-Fadjr Mosque",
-                  "text": "The al-Fadjr Mosque is a historic site in Mascara.",
+                  "text": "Al-Fadjr Mosque in Mascara now houses a museum of Islamic art and history.",
                   "category": "museum",
                   "coords": [
                         0.132055,
@@ -7623,7 +9378,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "al-Ghamama Mosque",
-                  "text": "The al-Ghamama Mosque is a historic building in Mascara.",
+                  "text": "Al-Ghamama Mosque in Mascara is a historic mosque with a museum of religious artifacts.",
                   "category": "museum",
                   "coords": [
                         0.136279,
@@ -7632,7 +9387,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Ain Bent Soltane",
-                  "text": "Ain Bent Soltane is a historic site in Mascara.",
+                  "text": "Ain Bent Soltane in Mascara is a spring site with an archaeological museum.",
                   "category": "museum",
                   "coords": [
                         0.135145,
@@ -7641,7 +9396,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musée du Moudjahid",
-                  "text": "The Moudjahid Museum in Mascara preserves the heritage.",
+                  "text": "Musée du Moudjahid in Mascara is dedicated to the War of Independence.",
                   "category": "museum",
                   "coords": [
                         0.140202,
@@ -7650,7 +9405,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Théâtre de Verdure",
-                  "text": "The open-air theater is a venue for events in Mascara.",
+                  "text": "Théâtre de Verdure in Mascara is a garden theatre with open-air events.",
                   "category": "cultural",
                   "coords": [
                         0.139712,
@@ -7659,7 +9414,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Achamaa monument",
-                  "text": "The Achamaa monument is a landmark in Mascara.",
+                  "text": "The Achamaa monument in Mascara honors a local historical figure or event.",
                   "category": "historical",
                   "coords": [
                         0.142295,
@@ -7668,7 +9423,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de Jeunes Samach Said",
-                  "text": "The Samach Said Youth House is a meeting point in Mascara.",
+                  "text": "Maison de Jeunes Samach Said in Mascara offers youth recreational programmes.",
                   "category": "cultural",
                   "coords": [
                         0.143381,
@@ -7677,7 +9432,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Islamic Cultural Center in Mascara",
-                  "text": "The Islamic Cultural Center in Mascara is a place of education.",
+                  "text": "Islamic Cultural Center in Mascara provides education and community services.",
                   "category": "cultural",
                   "coords": [
                         0.145559,
@@ -7839,7 +9594,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Dieses historische französische Fort",
-                  "text": "Dieses historische französische Fort ist ein Museum in Tamanrasset.",
+                  "text": "Das historische französische Fort in Tamanrasset ist heute ein Museum zur Sahara-Geschichte.",
                   "category": "museum",
                   "coords": [
                         5.526683,
@@ -7848,7 +9603,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Familien-Freizeitzentrum",
-                  "text": "Das Familien-Freizeitzentrum ist ein Park in Tamanrasset.",
+                  "text": "Das Familien-Erholungszentrum in Tamanrasset bietet Spielbereiche und Einrichtungen.",
                   "category": "family",
                   "coords": [
                         5.536692,
@@ -7857,7 +9612,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Dar Al-Imzad",
-                  "text": "Dar Al-Imzad ist ein Museum für Musik in Tamanrasset.",
+                  "text": "Das Dar Al-Imzad-Museum in Tamanrasset zeigt tuaregisches Erbe und Kunsthandwerk.",
                   "category": "museum",
                   "coords": [
                         5.542964,
@@ -7866,7 +9621,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Internetcafé",
-                  "text": "Das Internetcafé ist ein Anlaufpunkt in Tamanrasset.",
+                  "text": "Dieses Internetcafé im Zentrum von Tamanrasset ist ein beliebter Zugangspunkt zum Internet.",
                   "category": "landmark",
                   "coords": [
                         5.51901,
@@ -7877,7 +9632,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Historic French Fort",
-                  "text": "Ez a történelmi francia erőd egy múzeum Tamanrasset városában.",
+                  "text": "A tamanrasset-i történelmi francia erőd ma a Szahara történetének múzeuma.",
                   "category": "museum",
                   "coords": [
                         5.526683,
@@ -7886,7 +9641,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "családi szabadidőközpont",
-                  "text": "A családi szabadidőközpont egy park Tamanrasset városában.",
+                  "text": "A tamanrasset-i Családi Rekreációs Központ játszóterekkel és létesítményekkel vár.",
                   "category": "family",
                   "coords": [
                         5.536692,
@@ -7895,7 +9650,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Dar Al-Imzad",
-                  "text": "A Dar Al-Imzad egy zenemúzeum Tamanrasset városában.",
+                  "text": "A tamanrasset-i Dar Al-Imzad Múzeum tuareg örökséget és kézművességet mutat be.",
                   "category": "museum",
                   "coords": [
                         5.542964,
@@ -7904,7 +9659,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "internetkávézó",
-                  "text": "Az internetkávézó egy találkozóhely Tamanrasset városában.",
+                  "text": "Ez az internetkávézó Tamanrasset központjában népszerű internethozzáférési pont.",
                   "category": "landmark",
                   "coords": [
                         5.51901,
@@ -7915,7 +9670,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Acest fort istoric francez",
-                  "text": "Acest fort istoric francez este un muzeu din Tamanrasset.",
+                  "text": "Fortul istoric francez din Tamanrasset este acum un muzeu al istoriei sahariene.",
                   "category": "museum",
                   "coords": [
                         5.526683,
@@ -7924,7 +9679,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Centrul de recreere pentru familii",
-                  "text": "Centrul de recreere pentru familii este un parc din Tamanrasset.",
+                  "text": "Centrul de recreere familial din Tamanrasset oferă zone de joacă și facilități.",
                   "category": "family",
                   "coords": [
                         5.536692,
@@ -7933,7 +9688,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Dar Al-Imzad",
-                  "text": "Dar Al-Imzad este un muzeu de muzică din Tamanrasset.",
+                  "text": "Muzeul Dar Al-Imzad din Tamanrasset prezintă moștenirea tuaregă și meșteșugurile.",
                   "category": "museum",
                   "coords": [
                         5.542964,
@@ -7942,7 +9697,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Internet-café-ul",
-                  "text": "Internet-café-ul este un punct de atracție în Tamanrasset.",
+                  "text": "Această cafenea internet din centrul Tamanrasset este un punct popular de acces la internet.",
                   "category": "landmark",
                   "coords": [
                         5.51901,
@@ -7953,7 +9708,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "historic french Fort",
-                  "text": "This historic French fort is a museum in Tamanrasset.",
+                  "text": "The historic French fort in Tamanrasset is now a museum of Saharan history.",
                   "category": "museum",
                   "coords": [
                         5.526683,
@@ -7962,7 +9717,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "family recreation center",
-                  "text": "The family recreation center is a park in Tamanrasset.",
+                  "text": "The family recreation center in Tamanrasset offers play areas and facilities.",
                   "category": "family",
                   "coords": [
                         5.536692,
@@ -7971,7 +9726,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Dar Al-Imzad",
-                  "text": "Dar Al-Imzad is a music museum in Tamanrasset.",
+                  "text": "Dar Al-Imzad museum in Tamanrasset showcases Tuareg heritage and crafts.",
                   "category": "museum",
                   "coords": [
                         5.542964,
@@ -7980,7 +9735,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "cyber cafe",
-                  "text": "The internet cafe is a spot in Tamanrasset.",
+                  "text": "This cyber cafe in central Tamanrasset is a popular internet access point.",
                   "category": "landmark",
                   "coords": [
                         5.51901,
@@ -8027,7 +9782,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Théâtre régional Amar-Laskri",
-                  "text": "Das Théâtre régional Amar-Laskri ist ein Theater in der Stadt Bouira.",
+                  "text": "Das regionale Théâtre Amar-Laskri in Bouira ist nach dem Dramatiker benannt und zeigt lokale Produktionen.",
                   "category": "cultural",
                   "coords": [
                         3.901017,
@@ -8036,7 +9791,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Théâtre en plein air moudjahid Mechedou Salah",
-                  "text": "Das Théâtre en plein air moudjahid Mechedou Salah ist ein Theater in der Stadt Bouira.",
+                  "text": "Freilichttheater, benannt nach dem Mudschahed Mechedou Salah.",
                   "category": "cultural",
                   "coords": [
                         3.897961,
@@ -8045,7 +9800,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musee el moujahid",
-                  "text": "Das Musee el moujahid ist ein Museum in der Stadt Bouira.",
+                  "text": "Museum, das den algerischen Kriegsveteranen (Mudschahed) gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         3.882916,
@@ -8054,7 +9809,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Theatre municipal",
-                  "text": "Theatre municipal ist ein Theater in der Stadt Bouira.",
+                  "text": "Städtisches Theater mit kulturellen Aufführungen.",
                   "category": "cultural",
                   "coords": [
                         3.900687,
@@ -8063,7 +9818,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "AB aqua park",
-                  "text": "AB aqua park ist ein Wasserpark in der Stadt Bouira.",
+                  "text": "Wasserpark mit Schwimmbecken und Rutschen.",
                   "category": "family",
                   "coords": [
                         3.876691,
@@ -8072,7 +9827,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Memorial Des Martyrs",
-                  "text": "Memorial Des Martyrs ist ein Denkmal in der Stadt Bouira.",
+                  "text": "Denkmal zur Erinnerung an die Märtyrer des algerischen Krieges.",
                   "category": "historical",
                   "coords": [
                         3.891945,
@@ -8081,7 +9836,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Bordj Hamza",
-                  "text": "Bordj Hamza sind Ruinen in der Stadt Bouira.",
+                  "text": "Historische Festung namens Hamza in Bouira.",
                   "category": "historical",
                   "coords": [
                         3.892957,
@@ -8092,7 +9847,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Théâtre régional Amar-Laskri",
-                  "text": "A Théâtre régional Amar-Laskri egy színház Bouira városában.",
+                  "text": "A bouira-i Amar-Laskri Regionális Színház a drámaíróról elnevezve helyi produkciókat mutat be.",
                   "category": "cultural",
                   "coords": [
                         3.901017,
@@ -8101,7 +9856,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Théâtre en plein air moudjahid Mechedou Salah",
-                  "text": "A Théâtre en plein air moudjahid Mechedou Salah egy színház Bouira városában.",
+                  "text": "Mechedou Salah mudzsahidról elnevezett szabadtéri színház.",
                   "category": "cultural",
                   "coords": [
                         3.897961,
@@ -8110,7 +9865,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musee el moujahid",
-                  "text": "A Musee el moujahid egy múzeum Bouira városában.",
+                  "text": "Az algériai háború veteránjainak (mudzsahidok) szentelt múzeum.",
                   "category": "museum",
                   "coords": [
                         3.882916,
@@ -8119,7 +9874,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Theatre municipal",
-                  "text": "A Theatre municipal egy színház Bouira városában.",
+                  "text": "Városi színház kulturális előadásokkal.",
                   "category": "cultural",
                   "coords": [
                         3.900687,
@@ -8128,7 +9883,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "AB aqua park",
-                  "text": "Az AB aqua park egy vízipark Bouira városában.",
+                  "text": "Vízi park uszodákkal és csúszdákkal.",
                   "category": "family",
                   "coords": [
                         3.876691,
@@ -8137,7 +9892,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Memorial Des Martyrs",
-                  "text": "A Memorial Des Martyrs egy emlékmű Bouira városában.",
+                  "text": "Az algériai háború mártírjainak emlékműve.",
                   "category": "historical",
                   "coords": [
                         3.891945,
@@ -8146,7 +9901,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Bordj Hamza",
-                  "text": "A Bordj Hamza romok Bouira városában találhatók.",
+                  "text": "Hamza névre hallgató történelmi erőd Bouirában.",
                   "category": "historical",
                   "coords": [
                         3.892957,
@@ -8157,7 +9912,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Théâtre régional Amar-Laskri",
-                  "text": "Théâtre régional Amar-Laskri este un teatru în orașul Bouira.",
+                  "text": "Teatrul Regional Amar-Laskri din Bouira, numit după dramaturg, prezintă producții locale.",
                   "category": "cultural",
                   "coords": [
                         3.901017,
@@ -8166,7 +9921,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Théâtre en plein air moudjahid Mechedou Salah",
-                  "text": "Théâtre en plein air moudjahid Mechedou Salah este un teatru în orașul Bouira.",
+                  "text": "Teatru în aer liber numit după mujahidul Mechedou Salah.",
                   "category": "cultural",
                   "coords": [
                         3.897961,
@@ -8175,7 +9930,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musee el moujahid",
-                  "text": "Musee el moujahid este un muzeu în orașul Bouira.",
+                  "text": "Muzeu dedicat veteranilor de război algerieni (mujahid).",
                   "category": "museum",
                   "coords": [
                         3.882916,
@@ -8184,7 +9939,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Theatre municipal",
-                  "text": "Theatre municipal este un teatru în orașul Bouira.",
+                  "text": "Teatru municipal care găzduiește spectacole culturale.",
                   "category": "cultural",
                   "coords": [
                         3.900687,
@@ -8193,7 +9948,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "AB aqua park",
-                  "text": "AB aqua park este un parc acvatic în orașul Bouira.",
+                  "text": "Parc acvatic cu piscine și tobogane.",
                   "category": "family",
                   "coords": [
                         3.876691,
@@ -8202,7 +9957,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Memorial Des Martyrs",
-                  "text": "Memorial Des Martyrs este un monument în orașul Bouira.",
+                  "text": "Monument comemorativ pentru martirii războiului algerian.",
                   "category": "historical",
                   "coords": [
                         3.891945,
@@ -8211,7 +9966,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Bordj Hamza",
-                  "text": "Bordj Hamza sunt ruine în orașul Bouira.",
+                  "text": "Fortăreață istorică numită Hamza în Bouira.",
                   "category": "historical",
                   "coords": [
                         3.892957,
@@ -8222,7 +9977,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Théâtre régional Amar-Laskri",
-                  "text": "Théâtre régional Amar-Laskri is a theatre in the city of Bouira.",
+                  "text": "The regional Théâtre Amar-Laskri in Bouira, named after the playwright, stages local productions.",
                   "category": "cultural",
                   "coords": [
                         3.901017,
@@ -8231,7 +9986,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Théâtre en plein air moudjahid Mechedou Salah",
-                  "text": "Théâtre en plein air moudjahid Mechedou Salah is a theatre in the city of Bouira.",
+                  "text": "Open-air theater named after moudjahid Mechedou Salah.",
                   "category": "cultural",
                   "coords": [
                         3.897961,
@@ -8240,7 +9995,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musee el moujahid",
-                  "text": "Musee el moujahid is a museum in the city of Bouira.",
+                  "text": "Museum dedicated to the Algerian war veterans (mujahid).",
                   "category": "museum",
                   "coords": [
                         3.882916,
@@ -8249,7 +10004,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Theatre municipal",
-                  "text": "Theatre municipal is a theatre in the city of Bouira.",
+                  "text": "Municipal theater hosting cultural performances.",
                   "category": "cultural",
                   "coords": [
                         3.900687,
@@ -8258,7 +10013,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "AB aqua park",
-                  "text": "AB aqua park is a water park in the city of Bouira.",
+                  "text": "Water park with swimming pools and slides.",
                   "category": "family",
                   "coords": [
                         3.876691,
@@ -8267,7 +10022,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Memorial Des Martyrs",
-                  "text": "Memorial Des Martyrs is a monument in the city of Bouira.",
+                  "text": "Memorial commemorating the martyrs of the Algerian War.",
                   "category": "historical",
                   "coords": [
                         3.891945,
@@ -8276,7 +10031,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Bordj Hamza",
-                  "text": "Bordj Hamza are ruins located in the city of Bouira.",
+                  "text": "Historic fortress named Hamza in Bouira.",
                   "category": "historical",
                   "coords": [
                         3.892957,
@@ -8358,7 +10113,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Museum of the Mujahid",
-                  "text": "Das Moudjahid-Museum in Naâma bewahrt die Geschichte.",
+                  "text": "Museum des Mudschahed, das Kriegsandenken ausstellt.",
                   "category": "museum",
                   "coords": [
                         -0.315981,
@@ -8367,7 +10122,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Amouri-Vergnügungspark",
-                  "text": "Der Amouri-Vergnügungspark ist ein Park in Naâma.",
+                  "text": "Vergnügungspark mit Fahrgeschäften und Spielen.",
                   "category": "family",
                   "coords": [
                         -0.306945,
@@ -8378,7 +10133,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Naâma-i Moudjahid múzeum",
-                  "text": "A Naâma-i Moudjahid múzeum a történelmet őrzi.",
+                  "text": "Mudzsahid múzeum, háborús emléktárgyakkal.",
                   "category": "museum",
                   "coords": [
                         -0.315981,
@@ -8387,7 +10142,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Amouri szórakoztatópark",
-                  "text": "Az Amouri szórakoztatópark egy park Naâma városában.",
+                  "text": "Vidámpark játékokkal és hintákkal.",
                   "category": "family",
                   "coords": [
                         -0.306945,
@@ -8398,7 +10153,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Museum of the Mujahid",
-                  "text": "Muzeul Moudjahid din Naâma păstrează istoria.",
+                  "text": "Muzeul mujahidului, cu obiecte de război.",
                   "category": "museum",
                   "coords": [
                         -0.315981,
@@ -8407,7 +10162,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Parcul de distracții Amouri",
-                  "text": "Parcul de distracții Amouri este un parc din Naâma.",
+                  "text": "Parc de distracții cu carusele și jocuri.",
                   "category": "family",
                   "coords": [
                         -0.306945,
@@ -8418,7 +10173,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Musée Moudjahid",
-                  "text": "The Moudjahid Museum in Naâma preserves history.",
+                  "text": "Museum of the mujahid, exhibiting war memorabilia.",
                   "category": "museum",
                   "coords": [
                         -0.315981,
@@ -8427,7 +10182,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Amouri amusement park",
-                  "text": "The Amouri amusement park is a park in Naâma.",
+                  "text": "Amusement park with rides and games.",
                   "category": "family",
                   "coords": [
                         -0.306945,
@@ -8474,7 +10229,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Gazelles Monument",
-                  "text": "غزلان ist ein Denkmal in der Stadt El Bayadh.",
+                  "text": "Denkmal mit Gazellen-Skulpturen.",
                   "category": "historical",
                   "coords": [
                         1.030841,
@@ -8483,7 +10238,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "El Bayadh",
-                  "text": "El Bayadh ist eine Sehenswürdigkeit in der gleichnamigen Stadt El Bayadh.",
+                  "text": "Wahrzeichen, nach dem die Stadt Bayadh benannt ist.",
                   "category": "landmark",
                   "coords": [
                         1.016542,
@@ -8492,7 +10247,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Sheikh Bouamama Monument",
-                  "text": "شيخ بوعمامة ist ein Denkmal in der Stadt El Bayadh.",
+                  "text": "Denkmal zu Ehren von Scheich Bouamama, einem Widerstandsführer.",
                   "category": "historical",
                   "coords": [
                         1.043646,
@@ -8501,7 +10256,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de la culture d'El Bayadh",
-                  "text": "Maison de la culture d'El Bayadh ist ein Kunstzentrum in El Bayadh.",
+                  "text": "Kulturzentrum in El Bayadh mit Veranstaltungen.",
                   "category": "cultural",
                   "coords": [
                         1.010738,
@@ -8510,7 +10265,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Music Conservatory",
-                  "text": "معهد موسيقي ist ein Kunstzentrum in der Stadt El Bayadh.",
+                  "text": "Konservatorium für Musikausbildung in Bayadh.",
                   "category": "cultural",
                   "coords": [
                         1.016827,
@@ -8521,7 +10276,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Gazelles Monument",
-                  "text": "A غزلان egy emlékmű El Bayadh városában.",
+                  "text": "Gazellákat ábrázoló emlékmű.",
                   "category": "historical",
                   "coords": [
                         1.030841,
@@ -8530,7 +10285,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "El Bayadh",
-                  "text": "El Bayadh egy látványosság El Bayadh városában.",
+                  "text": "Tájékozódási pont, amelyről Bayadh városát elnevezték.",
                   "category": "landmark",
                   "coords": [
                         1.016542,
@@ -8539,7 +10294,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Sheikh Bouamama Monument",
-                  "text": "A شيخ بوعمامة egy emlékmű El Bayadh városában.",
+                  "text": "Bouamama sejk, ellenállási vezető emlékműve.",
                   "category": "historical",
                   "coords": [
                         1.043646,
@@ -8548,7 +10303,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de la culture d'El Bayadh",
-                  "text": "A Maison de la culture d'El Bayadh egy művészeti központ El Bayadh városában.",
+                  "text": "Kulturális központ El Bayadhban rendezvényekkel.",
                   "category": "cultural",
                   "coords": [
                         1.010738,
@@ -8557,7 +10312,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Music Conservatory",
-                  "text": "A معهد موسيقي egy művészeti központ El Bayadh városában.",
+                  "text": "Zenei konzervatórium Bayadhban.",
                   "category": "cultural",
                   "coords": [
                         1.016827,
@@ -8568,7 +10323,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Gazelles Monument",
-                  "text": "غزلان este un monument în orașul El Bayadh.",
+                  "text": "Monument cu sculpturi de gazele.",
                   "category": "historical",
                   "coords": [
                         1.030841,
@@ -8577,7 +10332,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "El Bayadh",
-                  "text": "El Bayadh este o atracție în orașul El Bayadh.",
+                  "text": "Reper după care este numit orașul Bayadh.",
                   "category": "landmark",
                   "coords": [
                         1.016542,
@@ -8586,7 +10341,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Sheikh Bouamama Monument",
-                  "text": "شيخ بوعمامة este un monument în orașul El Bayadh.",
+                  "text": "Monument în onoarea șeicului Bouamama, lider al rezistenței.",
                   "category": "historical",
                   "coords": [
                         1.043646,
@@ -8595,7 +10350,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de la culture d'El Bayadh",
-                  "text": "Maison de la culture d'El Bayadh este un centru de arte în orașul El Bayadh.",
+                  "text": "Centru cultural în El Bayadh care găzduiește evenimente.",
                   "category": "cultural",
                   "coords": [
                         1.010738,
@@ -8604,7 +10359,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Music Conservatory",
-                  "text": "معهد موسيقي este un centru de arte în orașul El Bayadh.",
+                  "text": "Conservator de muzică în Bayadh.",
                   "category": "cultural",
                   "coords": [
                         1.016827,
@@ -8615,7 +10370,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Gazelles Monument",
-                  "text": "غزلان is a monument in the city of El Bayadh.",
+                  "text": "Monument featuring sculptures of gazelles.",
                   "category": "historical",
                   "coords": [
                         1.030841,
@@ -8624,7 +10379,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "El Bayadh",
-                  "text": "El Bayadh is an attraction in the city of El Bayadh.",
+                  "text": "Landmark after which the city of Bayadh is named.",
                   "category": "landmark",
                   "coords": [
                         1.016542,
@@ -8633,7 +10388,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Sheikh Bouamama Monument",
-                  "text": "شيخ بوعمامة is a monument in the city of El Bayadh.",
+                  "text": "Monument honoring Sheikh Bouamama, resistance leader.",
                   "category": "historical",
                   "coords": [
                         1.043646,
@@ -8642,7 +10397,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de la culture d'El Bayadh",
-                  "text": "Maison de la culture d'El Bayadh is an arts centre in the city of El Bayadh.",
+                  "text": "Cultural center in El Bayadh hosting events.",
                   "category": "cultural",
                   "coords": [
                         1.010738,
@@ -8651,7 +10406,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Music Conservatory",
-                  "text": "معهد موسيقي is an arts centre in the city of El Bayadh.",
+                  "text": "Conservatory for music education in Bayadh.",
                   "category": "cultural",
                   "coords": [
                         1.016827,
@@ -8716,7 +10471,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Bordj Turc",
-                  "text": "Bordj Turc ist eine historische Burganlage in Tizi Ouzou.",
+                  "text": "Türkische Burg aus der osmanischen Zeit in Ouzou.",
                   "category": "castle",
                   "coords": [
                         4.047328,
@@ -8725,7 +10480,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musée et Monument des Martyrs",
-                  "text": "Das Musée et Monument des Martyrs ist ein Gedenkmuseum in Tizi Ouzou.",
+                  "text": "Museum und Denkmal, den Märtyrern des Krieges gewidmet.",
                   "category": "museum",
                   "coords": [
                         4.062706,
@@ -8772,7 +10527,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Bordj Turc",
-                  "text": "A Bordj Turc egy történelmi kastélyépület Tizi Ouzou városában.",
+                  "text": "Török vár az oszmán korból Ouzouban.",
                   "category": "castle",
                   "coords": [
                         4.047328,
@@ -8781,7 +10536,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musée et Monument des Martyrs",
-                  "text": "A Musée et Monument des Martyrs egy emlékmúzeum Tizi Ouzou városában.",
+                  "text": "Múzeum és emlékmű a háború mártírjainak szentelve.",
                   "category": "museum",
                   "coords": [
                         4.062706,
@@ -8828,7 +10583,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Bordj Turc",
-                  "text": "Bordj Turc este o structură istorică tip castel situată în Tizi Ouzou.",
+                  "text": "Castel turcesc din perioada otomană în Ouzou.",
                   "category": "castle",
                   "coords": [
                         4.047328,
@@ -8837,7 +10592,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musée et Monument des Martyrs",
-                  "text": "Musée et Monument des Martyrs este un muzeu memorial situat în Tizi Ouzou.",
+                  "text": "Muzeu și monument dedicate martirilor războiului.",
                   "category": "museum",
                   "coords": [
                         4.062706,
@@ -8884,7 +10639,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Bordj Turc",
-                  "text": "Bordj Turc is a historic castle structure located in Tizi Ouzou.",
+                  "text": "Turkish castle from the Ottoman period in Ouzou.",
                   "category": "castle",
                   "coords": [
                         4.047328,
@@ -8893,7 +10648,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Musée et Monument des Martyrs",
-                  "text": "Musée et Monument des Martyrs is a memorial museum located in Tizi Ouzou.",
+                  "text": "Museum and monument dedicated to the martyrs of the war.",
                   "category": "museum",
                   "coords": [
                         4.062706,
@@ -8958,7 +10713,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Jugendhaus von Aïn Defla",
-                  "text": "Das Jugendhaus von Aïn Defla ist ein kultureller Treffpunkt.",
+                  "text": "Jugendzentrum in Aïn Defla mit Aktivitäten.",
                   "category": "cultural",
                   "coords": [
                         1.967626,
@@ -8967,7 +10722,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de culture Emir Abdelkader",
-                  "text": "Das Emir-Abdelkader-Kulturhaus ist ein Zentrum in Aïn Defla.",
+                  "text": "Kulturhaus, benannt nach Emir Abdelkader, algerischer Führer.",
                   "category": "cultural",
                   "coords": [
                         1.952897,
@@ -8976,7 +10731,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Ibn-Badis-Kulturhaus",
-                  "text": "Das Ibn-Badis-Kulturhaus ist ein Zentrum in Aïn Defla.",
+                  "text": "Kulturzentrum, benannt nach dem islamischen Reformer Ibn Badis.",
                   "category": "cultural",
                   "coords": [
                         1.963014,
@@ -8985,7 +10740,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de jeunes",
-                  "text": "Ein Kunstzentrum in Aïn Defla.",
+                  "text": "Jugendhaus in Defla mit sozialen Programmen.",
                   "category": "cultural",
                   "coords": [
                         1.958328,
@@ -8996,7 +10751,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Ain Defla Youth House",
-                  "text": "Aïn Defla ifjúsági háza egy kulturális találkozóhely.",
+                  "text": "Ifjúsági központ Aïn Deflában programokkal.",
                   "category": "cultural",
                   "coords": [
                         1.967626,
@@ -9005,7 +10760,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de culture Emir Abdelkader",
-                  "text": "Az Emir Abdelkader kultúrház egy központ Aïn Defla városában.",
+                  "text": "Emir Abdelkaderről, algériai vezetőről elnevezett kultúrház.",
                   "category": "cultural",
                   "coords": [
                         1.952897,
@@ -9014,7 +10769,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Ibn Badis kultúrház",
-                  "text": "Az Ibn Badis kultúrház egy központ Aïn Defla városában.",
+                  "text": "Ibn Badis iszlám reformerről elnevezett kulturális központ.",
                   "category": "cultural",
                   "coords": [
                         1.963014,
@@ -9023,7 +10778,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de jeunes",
-                  "text": "Művészeti központ Aïn Defla városában.",
+                  "text": "Ifjúsági ház Deflában szociális programokkal.",
                   "category": "cultural",
                   "coords": [
                         1.958328,
@@ -9034,7 +10789,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Casa de tineret din Aïn Defla",
-                  "text": "Casa de tineret din Aïn Defla este un punct de întâlnire cultural.",
+                  "text": "Centru de tineret în Aïn Defla cu activități.",
                   "category": "cultural",
                   "coords": [
                         1.967626,
@@ -9043,7 +10798,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de culture Emir Abdelkader",
-                  "text": "Casa de cultură Emir Abdelkader este un centru din Aïn Defla.",
+                  "text": "Casă de cultură numită după Emir Abdelkader, lider algerian.",
                   "category": "cultural",
                   "coords": [
                         1.952897,
@@ -9052,7 +10807,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Casa de cultură Ibn Badis",
-                  "text": "Casa de cultură Ibn Badis este un centru din Aïn Defla.",
+                  "text": "Centru cultural numit după reformatorul islamic Ibn Badis.",
                   "category": "cultural",
                   "coords": [
                         1.963014,
@@ -9061,7 +10816,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de jeunes",
-                  "text": "Un centru de artă în Aïn Defla.",
+                  "text": "Casă de tineret în Defla cu programe sociale.",
                   "category": "cultural",
                   "coords": [
                         1.958328,
@@ -9072,7 +10827,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Youth House of Aïn Defla",
-                  "text": "The Youth House of Aïn Defla is a cultural meeting point.",
+                  "text": "Youth center in Aïn Defla offering activities.",
                   "category": "cultural",
                   "coords": [
                         1.967626,
@@ -9081,7 +10836,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de culture Emir Abdelkader",
-                  "text": "The Emir Abdelkader House of Culture is a center in Aïn Defla.",
+                  "text": "Cultural house named after Emir Abdelkader, Algerian leader.",
                   "category": "cultural",
                   "coords": [
                         1.952897,
@@ -9090,7 +10845,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Ibn Badis House of Culture",
-                  "text": "The Ibn Badis House of Culture is a center in Aïn Defla.",
+                  "text": "Cultural center named after Islamic reformer Ibn Badis.",
                   "category": "cultural",
                   "coords": [
                         1.963014,
@@ -9099,7 +10854,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de jeunes",
-                  "text": "An arts centre in Aïn Defla.",
+                  "text": "Youth house in Defla providing social programs.",
                   "category": "cultural",
                   "coords": [
                         1.958328,
@@ -9181,7 +10936,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "MUSEE DU MOUDJAHID",
-                  "text": "Das MUSEE DU MOUDJAHID ist ein Museum, das sich der regionalen Geschichte von Mila widmet.",
+                  "text": "Museum des Mudschahed in Mila, das Kriegsgeschichte bewahrt.",
                   "category": "museum",
                   "coords": [
                         6.258629,
@@ -9199,7 +10954,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Bab el Bled",
-                  "text": "Bab el Bled umfasst historische Ruinen in der Stadt Mila.",
+                  "text": "Historisches Stadttor in Mila.",
                   "category": "historical",
                   "coords": [
                         6.273632,
@@ -9208,7 +10963,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Roman Ruins",
-                  "text": "Diese historischen römischen Ruinen befinden sich in der Stadt Mila.",
+                  "text": "Überreste römischer Bauwerke in Mila.",
                   "category": "historical",
                   "coords": [
                         6.271204,
@@ -9217,7 +10972,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de la Culture",
-                  "text": "Das Maison de la Culture ist ein Kunstzentrum für kulturelle Aktivitäten in Mila.",
+                  "text": "Kulturhaus in Mila mit Ausstellungen.",
                   "category": "cultural",
                   "coords": [
                         6.257941,
@@ -9226,7 +10981,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de jeunes",
-                  "text": "Maison de jeunes ist ein Kultur- und Kunstzentrum für Jugendliche in Mila.",
+                  "text": "Jugendhaus in Mila.",
                   "category": "cultural",
                   "coords": [
                         6.26578,
@@ -9237,7 +10992,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "MUSEE DU MOUDJAHID",
-                  "text": "A MUSEE DU MOUDJAHID egy múzeum, amely Mila regionális történelmét mutatja be.",
+                  "text": "Mudzsahid múzeum Milában, háborús történelem megőrzése.",
                   "category": "museum",
                   "coords": [
                         6.258629,
@@ -9255,7 +11010,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Bab el Bled",
-                  "text": "A Bab el Bled történelmi romokból áll Mila városában.",
+                  "text": "Történelmi városkapu Milában.",
                   "category": "historical",
                   "coords": [
                         6.273632,
@@ -9264,7 +11019,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Roman Ruins",
-                  "text": "Ezek a történelmi római romok Mila városában találhatók.",
+                  "text": "Római épületek maradványai Milában.",
                   "category": "historical",
                   "coords": [
                         6.271204,
@@ -9273,7 +11028,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de la Culture",
-                  "text": "A Maison de la Culture kulturális tevékenységeknek otthont adó művészeti központ Mila városában.",
+                  "text": "Kultúrház Milában kiállításokkal.",
                   "category": "cultural",
                   "coords": [
                         6.257941,
@@ -9282,7 +11037,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de jeunes",
-                  "text": "A Maison de jeunes egy ifjúsági kulturális és művészeti központ Mila-ban.",
+                  "text": "Ifjúsági ház Milában.",
                   "category": "cultural",
                   "coords": [
                         6.26578,
@@ -9293,7 +11048,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "MUSEE DU MOUDJAHID",
-                  "text": "MUSEE DU MOUDJAHID este un muzeu care explorează istoria regională în Mila.",
+                  "text": "Muzeul mujahidului în Mila, păstrând istoria războiului.",
                   "category": "museum",
                   "coords": [
                         6.258629,
@@ -9311,7 +11066,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Bab el Bled",
-                  "text": "Bab el Bled prezintă ruine istorice situate în orașul Mila.",
+                  "text": "Poartă istorică a orașului Mila.",
                   "category": "historical",
                   "coords": [
                         6.273632,
@@ -9320,7 +11075,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Roman Ruins",
-                  "text": "Aceste ruine istorice romane sunt situate în orașul Mila.",
+                  "text": "Rămășițe ale structurilor romane în Mila.",
                   "category": "historical",
                   "coords": [
                         6.271204,
@@ -9329,7 +11084,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de la Culture",
-                  "text": "Maison de la Culture este un centru de arte care găzduiește activități culturale în Mila.",
+                  "text": "Casă de cultură în Mila cu expoziții.",
                   "category": "cultural",
                   "coords": [
                         6.257941,
@@ -9338,7 +11093,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de jeunes",
-                  "text": "Maison de jeunes este un centru cultural și de arte pentru tineri din Mila.",
+                  "text": "Casă de tineret în Mila.",
                   "category": "cultural",
                   "coords": [
                         6.26578,
@@ -9349,7 +11104,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "MUSEE DU MOUDJAHID",
-                  "text": "MUSEE DU MOUDJAHID is a museum exploring regional history in Mila.",
+                  "text": "Museum of the mujahid in Mila, preserving war history.",
                   "category": "museum",
                   "coords": [
                         6.258629,
@@ -9367,7 +11122,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Bab el Bled",
-                  "text": "Bab el Bled features historical ruins situated in the city of Mila.",
+                  "text": "Historical city gate in Mila.",
                   "category": "historical",
                   "coords": [
                         6.273632,
@@ -9376,7 +11131,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Roman Ruins",
-                  "text": "These historical Roman ruins are located in the city of Mila.",
+                  "text": "Remains of Roman structures in Mila.",
                   "category": "historical",
                   "coords": [
                         6.271204,
@@ -9385,7 +11140,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de la Culture",
-                  "text": "Maison de la Culture is an arts center that hosts cultural activities in Mila.",
+                  "text": "Cultural house in Mila hosting exhibitions.",
                   "category": "cultural",
                   "coords": [
                         6.257941,
@@ -9394,7 +11149,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison de jeunes",
-                  "text": "Maison de jeunes is a cultural center and arts facility for youth in Mila.",
+                  "text": "Youth house in Mila.",
                   "category": "cultural",
                   "coords": [
                         6.26578,
@@ -9441,7 +11196,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "El Tarf Museum",
-                  "text": "Ein Museum in El Tarf.",
+                  "text": "Museum in El Tarf mit lokaler Geschichte.",
                   "category": "museum",
                   "coords": [
                         8.310716,
@@ -9450,7 +11205,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "November 1, 1954 Square",
-                  "text": "Ein Denkmal in El Tarf.",
+                  "text": "Denkmal zum Ausbruch des algerischen Krieges am 1. November 1954.",
                   "category": "historical",
                   "coords": [
                         8.325797,
@@ -9459,7 +11214,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Mujahid Square",
-                  "text": "Ein Denkmal in El Tarf.",
+                  "text": "Zentraler Platz, benannt nach den Mudschahed in Tarf.",
                   "category": "historical",
                   "coords": [
                         8.311789,
@@ -9470,7 +11225,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "El Tarf Museum",
-                  "text": "Múzeum El Tarf városában.",
+                  "text": "Múzeum El Tarfban helyi történelemmel.",
                   "category": "museum",
                   "coords": [
                         8.310716,
@@ -9479,7 +11234,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "November 1, 1954 Square",
-                  "text": "Emlékmű El Tarf városában.",
+                  "text": "Emlékmű az algériai háború kitörésének 1954. november 1-jén.",
                   "category": "historical",
                   "coords": [
                         8.325797,
@@ -9488,7 +11243,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Mujahid Square",
-                  "text": "Emlékmű El Tarf városában.",
+                  "text": "Központi tér, a mudzsahidokról elnevezve Tarfban.",
                   "category": "historical",
                   "coords": [
                         8.311789,
@@ -9499,7 +11254,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "El Tarf Museum",
-                  "text": "Un muzeu în El Tarf.",
+                  "text": "Muzeu în El Tarf care prezintă istoria locală.",
                   "category": "museum",
                   "coords": [
                         8.310716,
@@ -9508,7 +11263,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "November 1, 1954 Square",
-                  "text": "Un monument în El Tarf.",
+                  "text": "Monument care marchează izbucnirea războiului algerian la 1 noiembrie 1954.",
                   "category": "historical",
                   "coords": [
                         8.325797,
@@ -9517,7 +11272,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Mujahid Square",
-                  "text": "Un monument în El Tarf.",
+                  "text": "Piață centrală numită după mujahid în Tarf.",
                   "category": "historical",
                   "coords": [
                         8.311789,
@@ -9528,7 +11283,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "El Tarf Museum",
-                  "text": "A museum in El Tarf.",
+                  "text": "Museum in El Tarf showcasing local history.",
                   "category": "museum",
                   "coords": [
                         8.310716,
@@ -9537,7 +11292,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "1 Novembre 1954",
-                  "text": "A monument in El Tarf.",
+                  "text": "Monument marking the outbreak of the Algerian War on 1 November 1954.",
                   "category": "historical",
                   "coords": [
                         8.325797,
@@ -9546,7 +11301,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Mujahid Square",
-                  "text": "A monument in El Tarf.",
+                  "text": "Central square named after the mujahid in Tarf.",
                   "category": "historical",
                   "coords": [
                         8.311789,
@@ -9593,7 +11348,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Nouar Bouiker Theater",
-                  "text": "مسرح دار الثقافة - نوار بويكر ist ein Theater in der Stadt Oum El Bouaghi.",
+                  "text": "Theater, benannt nach Nouar Bouiker in El Bouaghi.",
                   "category": "cultural",
                   "coords": [
                         7.114768,
@@ -9602,7 +11357,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Château",
-                  "text": "Castle ist ein Schloss in der Stadt Oum El Bouaghi.",
+                  "text": "Burg in El Bouaghi, um 1800 erbaut.",
                   "category": "castle",
                   "coords": [
                         7.116255,
@@ -9611,7 +11366,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Mohamed Lakhdar Pool",
-                  "text": "مسبح محمد لخضر ist ein Wasserpark in der Stadt Oum El Bouaghi.",
+                  "text": "Schwimmbad, benannt nach Mohamed Lakhdar in El Bouaghi.",
                   "category": "family",
                   "coords": [
                         7.100796,
@@ -9620,7 +11375,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Museum of the Mujahid",
-                  "text": "متحف المجاهد ist ein Museum in der Stadt Oum El Bouaghi.",
+                  "text": "Museum, den Mudschahed gewidmet, in El Bouaghi.",
                   "category": "museum",
                   "coords": [
                         7.112496,
@@ -9629,7 +11384,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Zoo",
-                  "text": "حديقة الحيوانات ist ein Zoo in der Stadt Oum El Bouaghi.",
+                  "text": "Zoo in El Bouaghi mit Tieren.",
                   "category": "family",
                   "coords": [
                         7.108084,
@@ -9638,7 +11393,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "ruines époque coloniale",
-                  "text": "Die ruines époque coloniale sind Ruinen in Oum El Bouaghi.",
+                  "text": "Ruinen aus der französischen Kolonialzeit in El Bouaghi.",
                   "category": "historical",
                   "coords": [
                         7.115886,
@@ -9649,7 +11404,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Nouar Bouiker Theater",
-                  "text": "A مسرح دار الثقافة - نوار بويكر egy színház Oum El Bouaghi városában.",
+                  "text": "Nouar Bouiker nevét viselő színház El Bouaghiban.",
                   "category": "cultural",
                   "coords": [
                         7.114768,
@@ -9658,7 +11413,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Château",
-                  "text": "A Castle egy kastély Oum El Bouaghi városában.",
+                  "text": "Vár El Bouaghiban, 1800 körül épült.",
                   "category": "castle",
                   "coords": [
                         7.116255,
@@ -9667,7 +11422,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Mohamed Lakhdar Pool",
-                  "text": "A مسبح محمد لخضر egy vízipark Oum El Bouaghi városában.",
+                  "text": "Mohamed Lakhdarról elnevezett úszómedence El Bouaghiban.",
                   "category": "family",
                   "coords": [
                         7.100796,
@@ -9676,7 +11431,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Museum of the Mujahid",
-                  "text": "A متحف المجاهد egy múzeum Oum El Bouaghi városában.",
+                  "text": "A mudzsahidoknak szentelt múzeum El Bouaghiban.",
                   "category": "museum",
                   "coords": [
                         7.112496,
@@ -9685,7 +11440,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Zoo",
-                  "text": "A حديقة الحيوانات egy állatkert Oum El Bouaghi városában.",
+                  "text": "Állatkert El Bouaghiban.",
                   "category": "family",
                   "coords": [
                         7.108084,
@@ -9694,7 +11449,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "ruines époque coloniale",
-                  "text": "A ruines époque coloniale romok Oum El Bouaghi városában találhatók.",
+                  "text": "Francia gyarmati kori romok El Bouaghiban.",
                   "category": "historical",
                   "coords": [
                         7.115886,
@@ -9705,7 +11460,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Nouar Bouiker Theater",
-                  "text": "مسرح دار الثقافة - نوار بويكر este un teatru în orașul Oum El Bouaghi.",
+                  "text": "Teatru numit după Nouar Bouiker în El Bouaghi.",
                   "category": "cultural",
                   "coords": [
                         7.114768,
@@ -9714,7 +11469,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Château",
-                  "text": "Castle este un castel în orașul Oum El Bouaghi.",
+                  "text": "Castel în El Bouaghi, construit în jurul anului 1800.",
                   "category": "castle",
                   "coords": [
                         7.116255,
@@ -9723,7 +11478,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Mohamed Lakhdar Pool",
-                  "text": "مسبح محمد لخضر este un parc acvatic în orașul Oum El Bouaghi.",
+                  "text": "Piscină numită după Mohamed Lakhdar în El Bouaghi.",
                   "category": "family",
                   "coords": [
                         7.100796,
@@ -9732,7 +11487,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Museum of the Mujahid",
-                  "text": "متحف المجاهد este un muzeu în orașul Oum El Bouaghi.",
+                  "text": "Muzeu dedicat mujahidului în El Bouaghi.",
                   "category": "museum",
                   "coords": [
                         7.112496,
@@ -9741,7 +11496,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Zoo",
-                  "text": "حديقة الحيوانات este o grădină zoologică în orașul Oum El Bouaghi.",
+                  "text": "Grădină zoologică în El Bouaghi.",
                   "category": "family",
                   "coords": [
                         7.108084,
@@ -9750,7 +11505,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "ruines époque coloniale",
-                  "text": "Ruines époque coloniale sunt ruine în orașul Oum El Bouaghi.",
+                  "text": "Ruine din perioada colonială franceză în El Bouaghi.",
                   "category": "historical",
                   "coords": [
                         7.115886,
@@ -9761,7 +11516,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Nouar Bouiker Theater",
-                  "text": "مسرح دار الثقافة - نوار بويكر is a theatre in the city of Oum El Bouaghi.",
+                  "text": "Theater named after Nouar Bouiker in El Bouaghi.",
                   "category": "cultural",
                   "coords": [
                         7.114768,
@@ -9770,7 +11525,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Castle",
-                  "text": "Castle is a castle located in the city of Oum El Bouaghi.",
+                  "text": "Castle in El Bouaghi, built around 1800.",
                   "category": "castle",
                   "coords": [
                         7.116255,
@@ -9779,7 +11534,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Mohamed Lakhdar Pool",
-                  "text": "مسبح محمد لخضر is a water park in the city of Oum El Bouaghi.",
+                  "text": "Swimming pool named after Mohamed Lakhdar in El Bouaghi.",
                   "category": "family",
                   "coords": [
                         7.100796,
@@ -9788,7 +11543,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Museum of the Mujahid",
-                  "text": "متحف المجاهد is a museum in the city of Oum El Bouaghi.",
+                  "text": "Museum dedicated to the mujahid in El Bouaghi.",
                   "category": "museum",
                   "coords": [
                         7.112496,
@@ -9797,7 +11552,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Zoo",
-                  "text": "حديقة الحيوانات is a zoo in the city of Oum El Bouaghi.",
+                  "text": "Zoo in El Bouaghi housing animals.",
                   "category": "family",
                   "coords": [
                         7.108084,
@@ -9806,7 +11561,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "ruines époque coloniale",
-                  "text": "The ruines époque coloniale are ruins located in the city of Oum El Bouaghi.",
+                  "text": "Ruins from the French colonial period in El Bouaghi.",
                   "category": "historical",
                   "coords": [
                         7.115886,
@@ -9889,7 +11644,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Centre d'exposition culturelle et artistique",
-                  "text": "Das Centre d'exposition culturelle et artistique ist ein Kunstzentrum für Ausstellungen in Aïn Témouchent.",
+                  "text": "Kultur- und Kunstausstellungszentrum in Temouchent.",
                   "category": "cultural",
                   "coords": [
                         -1.139975,
@@ -9898,7 +11653,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison des jeunes Boulanouar Mohamed",
-                  "text": "Das Maison des jeunes Boulanouar Mohamed ist eine Jugend-, Kunst- und Kultureinrichtung in Aïn Témouchent.",
+                  "text": "Jugendhaus, benannt nach Boulanouar Mohamed in Temouchent.",
                   "category": "cultural",
                   "coords": [
                         -1.119197,
@@ -9945,7 +11700,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Centre d'exposition culturelle et artistique",
-                  "text": "A Centre d'exposition culturelle et artistique egy kiállításoknak helyet adó művészeti központ Aïn Témouchent-ben.",
+                  "text": "Kulturális és művészeti kiállítási központ Temouchentben.",
                   "category": "cultural",
                   "coords": [
                         -1.139975,
@@ -9954,7 +11709,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison des jeunes Boulanouar Mohamed",
-                  "text": "A Maison des jeunes Boulanouar Mohamed egy ifjúsági művészeti és kulturális létesítmény Aïn Témouchent-ben.",
+                  "text": "Boulanouar Mohamedről elnevezett ifjúsági ház Temouchentben.",
                   "category": "cultural",
                   "coords": [
                         -1.119197,
@@ -10001,7 +11756,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Centre d'exposition culturelle et artistique",
-                  "text": "Centre d'exposition culturelle et artistique este un centru de arte pentru expoziții din Aïn Témouchent.",
+                  "text": "Centru de expoziții culturale și artistice în Temouchent.",
                   "category": "cultural",
                   "coords": [
                         -1.139975,
@@ -10010,7 +11765,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison des jeunes Boulanouar Mohamed",
-                  "text": "Maison des jeunes Boulanouar Mohamed este o facilitate culturală și de artă pentru tineret în Aïn Témouchent.",
+                  "text": "Casă de tineret numită după Boulanouar Mohamed în Temouchent.",
                   "category": "cultural",
                   "coords": [
                         -1.119197,
@@ -10057,7 +11812,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Centre d'exposition culturelle et artistique",
-                  "text": "Centre d'exposition culturelle et artistique is an arts center for exhibitions in Aïn Témouchent.",
+                  "text": "Cultural and artistic exhibition center in Temouchent.",
                   "category": "cultural",
                   "coords": [
                         -1.139975,
@@ -10066,7 +11821,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison des jeunes Boulanouar Mohamed",
-                  "text": "Maison des jeunes Boulanouar Mohamed is a youth arts and cultural facility in Aïn Témouchent.",
+                  "text": "Youth house named after Boulanouar Mohamed in Temouchent.",
                   "category": "cultural",
                   "coords": [
                         -1.119197,
@@ -10109,7 +11864,412 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["Frappée par un séisme majeur en 1999, elle a été entièrement reconstruite.", "Des vestiges phéniciens et romains ont été découverts sur l'île de Rachgoun.", "Le port de Beni Saf est un centre de pêche important.", "Région célèbre pour les \"vins de Témouchent\".", "Le nom de la ville signifie \"Source de la chacale\" en berbère.", "Rachgoun est prisée des amateurs de sports nautiques.", "Point de départ du gazoduc Medgaz vers l'Espagne.", "Située entre Oran et Tlemcen."],
     }, image: "/poi-images/ain-temouchent-cities-v2.webp"},
   {
-    id: "boumerdes-cities-v2", "sights": {"de": [{"name": "Complexe militaire CRF", "text": "Ein Strand in Boumerdès.", "category": "recreational", "coords": [3.480301, 36.767334]}, {"name": "Réservée aux policiers", "text": "Ein Strand in Boumerdès.", "category": "recreational", "coords": [3.482886, 36.767507]}, {"name": "Plage Dauphin", "text": "Im Küstenort Boumerdès gelegen, präsentiert sich die Plage Dauphin als schönes maritimes Ausflugsziel. Einheimische kommen gerne hierher, um dem Alltag zu entfliehen und im Mittelmeer zu schwimmen. Packen Sie Ihr Strandtuch ein und genießen Sie die warme algerische Sonne.", "category": "recreational", "coords": [3.475418, 36.766445]}, {"name": "Strand 1", "text": "Der schlicht Strand 1 genannte Küstenabschnitt in Boumerdès bietet alles, was man für einen klassischen Badetag braucht. Hier kann man dem Rauschen der Wellen lauschen und den Sand unter den Füßen spüren. Ein praktischer und unkomplizierter Ort für ein schnelles Bad im Meer.", "category": "recreational", "coords": [3.470294, 36.766972]}, {"name": "Plage Le figuier 1 - Boumerdas", "text": "Die Plage Le figuier 1 erstreckt sich malerisch an der Küste von Boumerdès. Mit seinem besonderen Charme zieht dieser Strandabschnitt Badegäste an, die Entspannung in einer natürlichen Umgebung suchen. Ein entspannter Nachmittag am Wasser ist hier garantiert.", "category": "recreational", "coords": [3.506367, 36.77329]}, {"name": "Corso Beach", "text": "Corso Beach ist eine herrliche Strandoase im Einzugsgebiet von Boumerdès. Das weite Areal bietet genügend Platz, um die algerische Sonne ungestört zu genießen. Wer auf der Suche nach einer erfrischenden Abkühlung am Mittelmeer ist, wird diesen Ort schätzen.", "category": "recreational", "coords": [3.436865, 36.768358]}, {"name": "Jardin de la Victoire (ennasser)", "text": "Ein Park in Boumerdès.", "category": "park", "coords": [3.459993, 36.766097]}, {"name": "Monument aux martyrs", "text": "Ein Denkmal in Boumerdès.", "category": "historical", "coords": [3.479909, 36.751221]}, {"name": "Presqu'île Rocher Noire", "text": "Eine Sehenswürdigkeit in Boumerdès.", "category": "landmark", "coords": [3.476774, 36.768434]}, {"name": "Maison de la Culture Rachid Mimouni", "text": "Ein Kunstzentrum in Boumerdès.", "category": "cultural", "coords": [3.476439, 36.764951]}, {"name": "The Mosque Of Okba Ben Nafaa", "text": "Ein Gotteshaus in Boumerdès.", "category": "religious", "coords": [3.458595, 36.754791]}], "hu": [{"name": "Complexe militaire CRF", "text": "Strand Boumerdès városában.", "category": "recreational", "coords": [3.480301, 36.767334]}, {"name": "Réservée aux policiers", "text": "Strand Boumerdès városában.", "category": "recreational", "coords": [3.482886, 36.767507]}, {"name": "Plage Dauphin", "text": "A tengerparti Boumerdès városában található Plage Dauphin gyönyörű tengeri kirándulóhelyként mutatkozik be. A helyiek szívesen jönnek ide, hogy elmeneküljenek a mindennapok elől és ússzanak a Földközi-tengerben. Csomagolja be a strandtörölközőjét, és élvezze a meleg algériai napsütést.", "category": "recreational", "coords": [3.475418, 36.766445]}, {"name": "Tabḥirt n Grand Blu", "text": "A Boumerdèsben egyszerűen csak Strand 1-nek nevezett partszakasz mindent kínál, amire egy klasszikus fürdőzéshez szükség van. Itt hallgathatja a hullámok zúgását, és érezheti a homokot a talpa alatt. Praktikus és egyszerű hely egy gyors tengeri fürdőzéshez.", "category": "recreational", "coords": [3.470294, 36.766972]}, {"name": "Plage Le figuier 1 - Boumerdas", "text": "A Plage Le figuier 1 festőien húzódik meg Boumerdès partjainál. Különleges vonzerejével ez a partszakasz azokat a fürdőzőket vonzza, akik természetes környezetben keresnek pihenést. Egy nyugodt vízparti délután itt garantált.", "category": "recreational", "coords": [3.506367, 36.77329]}, {"name": "Corso Beach", "text": "A Corso Beach egy csodálatos strandoázis Boumerdès vonzáskörzetében. A tágas terület elegendő helyet kínál az algériai napsütés zavartalan élvezetéhez. Aki hűsítő felfrissülést keres a Földközi-tengernél, értékelni fogja ezt a helyet.", "category": "recreational", "coords": [3.436865, 36.768358]}, {"name": "Jardin de la Victoire (ennasser)", "text": "Park Boumerdès városában.", "category": "park", "coords": [3.459993, 36.766097]}, {"name": "Monument aux martyrs", "text": "Emlékmű Boumerdès városában.", "category": "historical", "coords": [3.479909, 36.751221]}, {"name": "Presqu'île Rocher Noire", "text": "Látnivaló Boumerdès városában.", "category": "landmark", "coords": [3.476774, 36.768434]}, {"name": "Maison de la Culture Rachid Mimouni", "text": "Művészeti központ Boumerdès városában.", "category": "cultural", "coords": [3.476439, 36.764951]}, {"name": "The Mosque Of Okba Ben Nafaa", "text": "Imaház Boumerdès városában.", "category": "religious", "coords": [3.458595, 36.754791]}], "ro": [{"name": "Complexe militaire CRF", "text": "O plajă în Boumerdès.", "category": "recreational", "coords": [3.480301, 36.767334]}, {"name": "Réservée aux policiers", "text": "O plajă în Boumerdès.", "category": "recreational", "coords": [3.482886, 36.767507]}, {"name": "Plage Dauphin", "text": "Situată în orașul de coastă Boumerdès, Plage Dauphin se prezintă ca o frumoasă destinație maritimă de excursie. Localnicii vin bucuroși aici pentru a scăpa de viața de zi cu zi și a înota în Marea Mediterană. Împachetați-vă prosopul de plajă și bucurați-vă de soarele cald algerian.", "category": "recreational", "coords": [3.475418, 36.766445]}, {"name": "Tabḥirt n Grand Blu", "text": "Porțiunea de coastă din Boumerdès numită simplu Strand 1 oferă tot ce aveți nevoie pentru o zi clasică de baie. Aici puteți asculta sunetul valurilor și puteți simți nisipul sub picioare. Un loc practic și necomplicat pentru o baie rapidă în mare.", "category": "recreational", "coords": [3.470294, 36.766972]}, {"name": "Plage Le figuier 1 - Boumerdas", "text": "Plage Le figuier 1 se întinde pitoresc pe coasta din Boumerdès. Cu farmecul său deosebit, această porțiune de plajă atrage scăldătorii care caută relaxare într-un mediu natural. O după-amiază relaxantă la apă este garantată aici.", "category": "recreational", "coords": [3.506367, 36.77329]}, {"name": "Corso Beach", "text": "Corso Beach este o splendidă oază de plajă în zona de atracție a orașului Boumerdès. Zona spațioasă oferă suficient spațiu pentru a vă bucura netulburat de soarele algerian. Cei care caută o răcorire la Marea Mediterană vor aprecia cu siguranță acest loc.", "category": "recreational", "coords": [3.436865, 36.768358]}, {"name": "Jardin de la Victoire (ennasser)", "text": "Un parc în Boumerdès.", "category": "park", "coords": [3.459993, 36.766097]}, {"name": "Monument aux martyrs", "text": "Un monument în Boumerdès.", "category": "historical", "coords": [3.479909, 36.751221]}, {"name": "Presqu'île Rocher Noire", "text": "O atracție în Boumerdès.", "category": "landmark", "coords": [3.476774, 36.768434]}, {"name": "Maison de la Culture Rachid Mimouni", "text": "Un centru de artă în Boumerdès.", "category": "cultural", "coords": [3.476439, 36.764951]}, {"name": "The Mosque Of Okba Ben Nafaa", "text": "Un lăcaș de cult în Boumerdès.", "category": "religious", "coords": [3.458595, 36.754791]}], "en": [{"name": "Complexe militaire CRF", "text": "A beach in Boumerdès.", "category": "recreational", "coords": [3.480301, 36.767334]}, {"name": "Réservée aux policiers", "text": "A beach in Boumerdès.", "category": "recreational", "coords": [3.482886, 36.767507]}, {"name": "Plage Dauphin", "text": "Located in the coastal town of Boumerdès, Plage Dauphin presents itself as a beautiful maritime excursion destination. Locals gladly come here to escape daily life and swim in the Mediterranean Sea. Pack your beach towel and enjoy the warm Algerian sun.", "category": "recreational", "coords": [3.475418, 36.766445]}, {"name": "Tabḥirt n Grand Blu", "text": "The stretch of coast in Boumerdès simply named Strand 1 offers everything you need for a classic beach day. Here you can listen to the sound of the waves and feel the sand beneath your feet. A practical and straightforward spot for a quick dip in the sea.", "category": "recreational", "coords": [3.470294, 36.766972]}, {"name": "Plage Le figuier 1 - Boumerdas", "text": "Plage Le figuier 1 stretches picturesquely along the coast of Boumerdès. With its special charm, this beach section attracts bathers looking for relaxation in a natural setting. A laid-back afternoon by the water is guaranteed here.", "category": "recreational", "coords": [3.506367, 36.77329]}, {"name": "Corso Beach", "text": "Corso Beach is a gorgeous beach oasis in the catchment area of Boumerdès. The spacious area offers enough room to enjoy the Algerian sun undisturbed. Anyone looking for refreshing cooling by the Mediterranean will appreciate this spot.", "category": "recreational", "coords": [3.436865, 36.768358]}, {"name": "Jardin de la Victoire (ennasser)", "text": "A park in Boumerdès.", "category": "park", "coords": [3.459993, 36.766097]}, {"name": "Monument aux martyrs", "text": "A monument in Boumerdès.", "category": "historical", "coords": [3.479909, 36.751221]}, {"name": "Presqu'île Rocher Noire", "text": "An attraction in Boumerdès.", "category": "landmark", "coords": [3.476774, 36.768434]}, {"name": "Maison de la Culture Rachid Mimouni", "text": "An arts centre in Boumerdès.", "category": "cultural", "coords": [3.476439, 36.764951]}, {"name": "The Mosque Of Okba Ben Nafaa", "text": "A place of worship in Boumerdès.", "category": "religious", "coords": [3.458595, 36.754791]}]},
+    id: "boumerdes-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Complexe militaire CRF",
+                  "text": "Militärischer Freizeitkomplex in Boumerdes.",
+                  "category": "recreational",
+                  "coords": [
+                        3.480301,
+                        36.767334
+                  ]
+            },
+            {
+                  "name": "Réservée aux policiers",
+                  "text": "Freizeiteinrichtung, die Polizisten vorbehalten ist, in Boumerdes.",
+                  "category": "recreational",
+                  "coords": [
+                        3.482886,
+                        36.767507
+                  ]
+            },
+            {
+                  "name": "Plage Dauphin",
+                  "text": "Im Küstenort Boumerdès gelegen, präsentiert sich die Plage Dauphin als schönes maritimes Ausflugsziel. Einheimische kommen gerne hierher, um dem Alltag zu entfliehen und im Mittelmeer zu schwimmen. Packen Sie Ihr Strandtuch ein und genießen Sie die warme algerische Sonne.",
+                  "category": "recreational",
+                  "coords": [
+                        3.475418,
+                        36.766445
+                  ]
+            },
+            {
+                  "name": "Strand 1",
+                  "text": "Der schlicht Strand 1 genannte Küstenabschnitt in Boumerdès bietet alles, was man für einen klassischen Badetag braucht. Hier kann man dem Rauschen der Wellen lauschen und den Sand unter den Füßen spüren. Ein praktischer und unkomplizierter Ort für ein schnelles Bad im Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        3.470294,
+                        36.766972
+                  ]
+            },
+            {
+                  "name": "Plage Le figuier 1 - Boumerdas",
+                  "text": "Die Plage Le figuier 1 erstreckt sich malerisch an der Küste von Boumerdès. Mit seinem besonderen Charme zieht dieser Strandabschnitt Badegäste an, die Entspannung in einer natürlichen Umgebung suchen. Ein entspannter Nachmittag am Wasser ist hier garantiert.",
+                  "category": "recreational",
+                  "coords": [
+                        3.506367,
+                        36.77329
+                  ]
+            },
+            {
+                  "name": "Corso Beach",
+                  "text": "Corso Beach ist eine herrliche Strandoase im Einzugsgebiet von Boumerdès. Das weite Areal bietet genügend Platz, um die algerische Sonne ungestört zu genießen. Wer auf der Suche nach einer erfrischenden Abkühlung am Mittelmeer ist, wird diesen Ort schätzen.",
+                  "category": "recreational",
+                  "coords": [
+                        3.436865,
+                        36.768358
+                  ]
+            },
+            {
+                  "name": "Jardin de la Victoire (ennasser)",
+                  "text": "Öffentlicher Garten, der an den Sieg in Boumerdes erinnert.",
+                  "category": "park",
+                  "coords": [
+                        3.459993,
+                        36.766097
+                  ]
+            },
+            {
+                  "name": "Monument aux martyrs",
+                  "text": "Märtyrerdenkmal in Boumerdes.",
+                  "category": "historical",
+                  "coords": [
+                        3.479909,
+                        36.751221
+                  ]
+            },
+            {
+                  "name": "Presqu'île Rocher Noire",
+                  "text": "Halbinsel Schwarzer Felsen in Boumerdes.",
+                  "category": "landmark",
+                  "coords": [
+                        3.476774,
+                        36.768434
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture Rachid Mimouni",
+                  "text": "Kulturhaus, benannt nach dem Schriftsteller Rachid Mimouni, in Boumerdes.",
+                  "category": "cultural",
+                  "coords": [
+                        3.476439,
+                        36.764951
+                  ]
+            },
+            {
+                  "name": "The Mosque Of Okba Ben Nafaa",
+                  "text": "Moschee, die dem arabischen General Uqba ibn Nafi aus dem 7. Jahrhundert in Boumerdes gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        3.458595,
+                        36.754791
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Complexe militaire CRF",
+                  "text": "Katonai rekreációs komplexum Boumerdesben.",
+                  "category": "recreational",
+                  "coords": [
+                        3.480301,
+                        36.767334
+                  ]
+            },
+            {
+                  "name": "Réservée aux policiers",
+                  "text": "Kikapcsolódási lehetőség, amely a rendőrök számára fenntartott Boumerdesben.",
+                  "category": "recreational",
+                  "coords": [
+                        3.482886,
+                        36.767507
+                  ]
+            },
+            {
+                  "name": "Plage Dauphin",
+                  "text": "A tengerparti Boumerdès városában található Plage Dauphin gyönyörű tengeri kirándulóhelyként mutatkozik be. A helyiek szívesen jönnek ide, hogy elmeneküljenek a mindennapok elől és ússzanak a Földközi-tengerben. Csomagolja be a strandtörölközőjét, és élvezze a meleg algériai napsütést.",
+                  "category": "recreational",
+                  "coords": [
+                        3.475418,
+                        36.766445
+                  ]
+            },
+            {
+                  "name": "Tabḥirt n Grand Blu",
+                  "text": "A Boumerdèsben egyszerűen csak Strand 1-nek nevezett partszakasz mindent kínál, amire egy klasszikus fürdőzéshez szükség van. Itt hallgathatja a hullámok zúgását, és érezheti a homokot a talpa alatt. Praktikus és egyszerű hely egy gyors tengeri fürdőzéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        3.470294,
+                        36.766972
+                  ]
+            },
+            {
+                  "name": "Plage Le figuier 1 - Boumerdas",
+                  "text": "A Plage Le figuier 1 festőien húzódik meg Boumerdès partjainál. Különleges vonzerejével ez a partszakasz azokat a fürdőzőket vonzza, akik természetes környezetben keresnek pihenést. Egy nyugodt vízparti délután itt garantált.",
+                  "category": "recreational",
+                  "coords": [
+                        3.506367,
+                        36.77329
+                  ]
+            },
+            {
+                  "name": "Corso Beach",
+                  "text": "A Corso Beach egy csodálatos strandoázis Boumerdès vonzáskörzetében. A tágas terület elegendő helyet kínál az algériai napsütés zavartalan élvezetéhez. Aki hűsítő felfrissülést keres a Földközi-tengernél, értékelni fogja ezt a helyet.",
+                  "category": "recreational",
+                  "coords": [
+                        3.436865,
+                        36.768358
+                  ]
+            },
+            {
+                  "name": "Jardin de la Victoire (ennasser)",
+                  "text": "Nyilvános kert, amely a győzelemre emlékeztet Boumerdesben.",
+                  "category": "park",
+                  "coords": [
+                        3.459993,
+                        36.766097
+                  ]
+            },
+            {
+                  "name": "Monument aux martyrs",
+                  "text": "Mártíremlékmű Boumerdesben.",
+                  "category": "historical",
+                  "coords": [
+                        3.479909,
+                        36.751221
+                  ]
+            },
+            {
+                  "name": "Presqu'île Rocher Noire",
+                  "text": "Fekete szikla-félsziget Boumerdesben.",
+                  "category": "landmark",
+                  "coords": [
+                        3.476774,
+                        36.768434
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture Rachid Mimouni",
+                  "text": "Rachid Mimouni íróról elnevezett kultúrház Boumerdesben.",
+                  "category": "cultural",
+                  "coords": [
+                        3.476439,
+                        36.764951
+                  ]
+            },
+            {
+                  "name": "The Mosque Of Okba Ben Nafaa",
+                  "text": "Mecset, amelyet a 7. századi arab tábornoknak, Uqba ibn Nafinak szenteltek Boumerdesben.",
+                  "category": "religious",
+                  "coords": [
+                        3.458595,
+                        36.754791
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Complexe militaire CRF",
+                  "text": "Complex militar de agrement în Boumerdes.",
+                  "category": "recreational",
+                  "coords": [
+                        3.480301,
+                        36.767334
+                  ]
+            },
+            {
+                  "name": "Réservée aux policiers",
+                  "text": "Facilitate de agrement rezervată polițiștilor în Boumerdes.",
+                  "category": "recreational",
+                  "coords": [
+                        3.482886,
+                        36.767507
+                  ]
+            },
+            {
+                  "name": "Plage Dauphin",
+                  "text": "Situată în orașul de coastă Boumerdès, Plage Dauphin se prezintă ca o frumoasă destinație maritimă de excursie. Localnicii vin bucuroși aici pentru a scăpa de viața de zi cu zi și a înota în Marea Mediterană. Împachetați-vă prosopul de plajă și bucurați-vă de soarele cald algerian.",
+                  "category": "recreational",
+                  "coords": [
+                        3.475418,
+                        36.766445
+                  ]
+            },
+            {
+                  "name": "Tabḥirt n Grand Blu",
+                  "text": "Porțiunea de coastă din Boumerdès numită simplu Strand 1 oferă tot ce aveți nevoie pentru o zi clasică de baie. Aici puteți asculta sunetul valurilor și puteți simți nisipul sub picioare. Un loc practic și necomplicat pentru o baie rapidă în mare.",
+                  "category": "recreational",
+                  "coords": [
+                        3.470294,
+                        36.766972
+                  ]
+            },
+            {
+                  "name": "Plage Le figuier 1 - Boumerdas",
+                  "text": "Plage Le figuier 1 se întinde pitoresc pe coasta din Boumerdès. Cu farmecul său deosebit, această porțiune de plajă atrage scăldătorii care caută relaxare într-un mediu natural. O după-amiază relaxantă la apă este garantată aici.",
+                  "category": "recreational",
+                  "coords": [
+                        3.506367,
+                        36.77329
+                  ]
+            },
+            {
+                  "name": "Corso Beach",
+                  "text": "Corso Beach este o splendidă oază de plajă în zona de atracție a orașului Boumerdès. Zona spațioasă oferă suficient spațiu pentru a vă bucura netulburat de soarele algerian. Cei care caută o răcorire la Marea Mediterană vor aprecia cu siguranță acest loc.",
+                  "category": "recreational",
+                  "coords": [
+                        3.436865,
+                        36.768358
+                  ]
+            },
+            {
+                  "name": "Jardin de la Victoire (ennasser)",
+                  "text": "Grădină publică care comemorează victoria în Boumerdes.",
+                  "category": "park",
+                  "coords": [
+                        3.459993,
+                        36.766097
+                  ]
+            },
+            {
+                  "name": "Monument aux martyrs",
+                  "text": "Monument al martirilor în Boumerdes.",
+                  "category": "historical",
+                  "coords": [
+                        3.479909,
+                        36.751221
+                  ]
+            },
+            {
+                  "name": "Presqu'île Rocher Noire",
+                  "text": "Peninsulă Stânca Neagră în Boumerdes.",
+                  "category": "landmark",
+                  "coords": [
+                        3.476774,
+                        36.768434
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture Rachid Mimouni",
+                  "text": "Casă de cultură numită după scriitorul Rachid Mimouni în Boumerdes.",
+                  "category": "cultural",
+                  "coords": [
+                        3.476439,
+                        36.764951
+                  ]
+            },
+            {
+                  "name": "The Mosque Of Okba Ben Nafaa",
+                  "text": "Moschee dedicată generalului arab din secolul al VII-lea, Uqba ibn Nafi, în Boumerdes.",
+                  "category": "religious",
+                  "coords": [
+                        3.458595,
+                        36.754791
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Complexe militaire CRF",
+                  "text": "Military recreational complex in Boumerdes.",
+                  "category": "recreational",
+                  "coords": [
+                        3.480301,
+                        36.767334
+                  ]
+            },
+            {
+                  "name": "Réservée aux policiers",
+                  "text": "Recreational facility reserved for police in Boumerdes.",
+                  "category": "recreational",
+                  "coords": [
+                        3.482886,
+                        36.767507
+                  ]
+            },
+            {
+                  "name": "Plage Dauphin",
+                  "text": "Located in the coastal town of Boumerdès, Plage Dauphin presents itself as a beautiful maritime excursion destination. Locals gladly come here to escape daily life and swim in the Mediterranean Sea. Pack your beach towel and enjoy the warm Algerian sun.",
+                  "category": "recreational",
+                  "coords": [
+                        3.475418,
+                        36.766445
+                  ]
+            },
+            {
+                  "name": "Tabḥirt n Grand Blu",
+                  "text": "The stretch of coast in Boumerdès simply named Strand 1 offers everything you need for a classic beach day. Here you can listen to the sound of the waves and feel the sand beneath your feet. A practical and straightforward spot for a quick dip in the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        3.470294,
+                        36.766972
+                  ]
+            },
+            {
+                  "name": "Plage Le figuier 1 - Boumerdas",
+                  "text": "Plage Le figuier 1 stretches picturesquely along the coast of Boumerdès. With its special charm, this beach section attracts bathers looking for relaxation in a natural setting. A laid-back afternoon by the water is guaranteed here.",
+                  "category": "recreational",
+                  "coords": [
+                        3.506367,
+                        36.77329
+                  ]
+            },
+            {
+                  "name": "Corso Beach",
+                  "text": "Corso Beach is a gorgeous beach oasis in the catchment area of Boumerdès. The spacious area offers enough room to enjoy the Algerian sun undisturbed. Anyone looking for refreshing cooling by the Mediterranean will appreciate this spot.",
+                  "category": "recreational",
+                  "coords": [
+                        3.436865,
+                        36.768358
+                  ]
+            },
+            {
+                  "name": "Jardin de la Victoire (ennasser)",
+                  "text": "A public garden commemorating victory in Boumerdes.",
+                  "category": "park",
+                  "coords": [
+                        3.459993,
+                        36.766097
+                  ]
+            },
+            {
+                  "name": "Monument aux martyrs",
+                  "text": "Martyrs' monument in Boumerdes.",
+                  "category": "historical",
+                  "coords": [
+                        3.479909,
+                        36.751221
+                  ]
+            },
+            {
+                  "name": "Presqu'île Rocher Noire",
+                  "text": "Black Rock peninsula in Boumerdes.",
+                  "category": "landmark",
+                  "coords": [
+                        3.476774,
+                        36.768434
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture Rachid Mimouni",
+                  "text": "Cultural house named after writer Rachid Mimouni in Boumerdes.",
+                  "category": "cultural",
+                  "coords": [
+                        3.476439,
+                        36.764951
+                  ]
+            },
+            {
+                  "name": "The Mosque Of Okba Ben Nafaa",
+                  "text": "A mosque dedicated to the 7th-century Arab general Uqba ibn Nafi in Boumerdes.",
+                  "category": "religious",
+                  "coords": [
+                        3.458595,
+                        36.754791
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-35",
     coords: [3.4731, 36.7628],
@@ -10253,7 +12413,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Tassili Museum & Registration",
-                  "text": "Tassili Museum & Registration ist ein Museum in der Stadt Djanet.",
+                  "text": "Museum über die Region Tassili n'Ajjer in Djanet.",
                   "category": "museum",
                   "coords": [
                         9.486297,
@@ -10262,7 +12422,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Fort Charlet",
-                  "text": "قلعة جانت Fort Charlet ist ein Schloss in der Stadt Djanet.",
+                  "text": "Französisches Fort aus der Kolonialzeit in der Sahara-Oase Djanet.",
                   "category": "castle",
                   "coords": [
                         9.483956,
@@ -10271,7 +12431,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Djanet",
-                  "text": "Djanet ist eine Sehenswürdigkeit in der gleichnamigen Stadt Djanet.",
+                  "text": "Oasenstadt Djanet, Tor zum Tassili-n'Ajjer-Nationalpark.",
                   "category": "landmark",
                   "coords": [
                         9.481134,
@@ -10280,7 +12440,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Ksar und Altstadt (verfallen)",
-                  "text": "Ksar und Altstadt (verfallen) ist eine Sehenswürdigkeit in Djanet.",
+                  "text": "Verfallenes Ksar (Lehmziegeldorf) in der Oase Djanet.",
                   "category": "landmark",
                   "coords": [
                         9.485081,
@@ -10300,7 +12460,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Tassili Museum & Registration",
-                  "text": "A Tassili Museum & Registration egy múzeum Djanet városában.",
+                  "text": "Múzeum a Tassili n'Ajjer régióról Djanetben.",
                   "category": "museum",
                   "coords": [
                         9.486297,
@@ -10309,7 +12469,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Fort Charlet",
-                  "text": "A قلعة جانت Fort Charlet egy kastély Djanet városában.",
+                  "text": "Francia gyarmati erőd a dzsáneti sivatagi oázisban.",
                   "category": "castle",
                   "coords": [
                         9.483956,
@@ -10318,7 +12478,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Djanet",
-                  "text": "Djanet egy látványosság Djanet városában.",
+                  "text": "Dzsánet oázisváros, a Tassili n'Ajjer Nemzeti Park kapuja.",
                   "category": "landmark",
                   "coords": [
                         9.481134,
@@ -10327,7 +12487,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Ksar und Altstadt (verfallen)",
-                  "text": "A Ksar und Altstadt (verfallen) egy látványosság Djanet városában.",
+                  "text": "Romos ksar (vályogfalu) a dzsáneti oázisban.",
                   "category": "landmark",
                   "coords": [
                         9.485081,
@@ -10347,7 +12507,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Tassili Museum & Registration",
-                  "text": "Tassili Museum & Registration este un muzeu în orașul Djanet.",
+                  "text": "Muzeu despre regiunea Tassili n'Ajjer în Djanet.",
                   "category": "museum",
                   "coords": [
                         9.486297,
@@ -10356,7 +12516,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Fort Charlet",
-                  "text": "قلعة جانت Fort Charlet este un castel în orașul Djanet.",
+                  "text": "Fort colonial francez în oaza Saharei Djanet.",
                   "category": "castle",
                   "coords": [
                         9.483956,
@@ -10365,7 +12525,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Djanet",
-                  "text": "Djanet este o atracție în orașul Djanet.",
+                  "text": "Orașul oază Djanet, poartă către Parcul Național Tassili n'Ajjer.",
                   "category": "landmark",
                   "coords": [
                         9.481134,
@@ -10374,7 +12534,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Ksar und Altstadt (verfallen)",
-                  "text": "Ksar und Altstadt (verfallen) este o atracție în orașul Djanet.",
+                  "text": "Ksar (sat fortificat din chirpici) ruinat în oaza Djanet.",
                   "category": "landmark",
                   "coords": [
                         9.485081,
@@ -10394,7 +12554,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Tassili Museum & Registration",
-                  "text": "Tassili Museum & Registration is a museum in the city of Djanet.",
+                  "text": "Museum about the Tassili n'Ajjer region in Djanet.",
                   "category": "museum",
                   "coords": [
                         9.486297,
@@ -10403,7 +12563,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Fort Charlet",
-                  "text": "قلعة جانت Fort Charlet is a castle in the city of Djanet.",
+                  "text": "French colonial fort in the Sahara oasis of Djanet.",
                   "category": "castle",
                   "coords": [
                         9.483956,
@@ -10412,7 +12572,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Djanet",
-                  "text": "Djanet is an attraction in the city of Djanet.",
+                  "text": "Oasis town of Djanet, gateway to the Tassili n'Ajjer National Park.",
                   "category": "landmark",
                   "coords": [
                         9.481134,
@@ -10421,7 +12581,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Ksar und Altstadt (verfallen)",
-                  "text": "Ksar und Altstadt (verfallen) is an attraction in the city of Djanet.",
+                  "text": "Ruined mud-brick ksar (fortified village) in the Djanet oasis.",
                   "category": "landmark",
                   "coords": [
                         9.485081,
@@ -10477,7 +12637,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Diese als Château bekannte Burganlage",
-                  "text": "Diese als Château bekannte Burganlage ist ein architektonisches Wahrzeichen in El Menia.",
+                  "text": "Französisches Kolonial-Schloss in der Oasenstadt El Menia.",
                   "category": "castle",
                   "coords": [
                         2.874131,
@@ -10504,7 +12664,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "La citadelle (Taourit)",
-                  "text": "La citadelle (Taourit) ist eine historische Befestigungsanlage in El Menia.",
+                  "text": "Zitadelle Taourit, historische Festung in El Menia.",
                   "category": "castle",
                   "coords": [
                         2.893548,
@@ -10524,7 +12684,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Chateau",
-                  "text": "Ez az épület, amely helyben chateau-ként ismert, egy építészeti tájékozódási pont El Menia-ban.",
+                  "text": "Francia gyarmati kastély az El Menia-i oázisvárosban.",
                   "category": "castle",
                   "coords": [
                         2.874131,
@@ -10551,7 +12711,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "La citadelle (Taourit)",
-                  "text": "A La citadelle (Taourit) egy történelmi kastélyerődítmény El Menia-ban.",
+                  "text": "Taourit citadella, történelmi erőd El Meniában.",
                   "category": "castle",
                   "coords": [
                         2.893548,
@@ -10571,7 +12731,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Chateau",
-                  "text": "Această structură de tip castel, cunoscută local sub numele de chateau, este un reper arhitectural în El Menia.",
+                  "text": "Castel colonial francez în orașul oază El Menia.",
                   "category": "castle",
                   "coords": [
                         2.874131,
@@ -10598,7 +12758,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "La citadelle (Taourit)",
-                  "text": "La citadelle (Taourit) este o fortificație istorică tip castel situată în El Menia.",
+                  "text": "Citadela Taourit, fortăreață istorică în El Menia.",
                   "category": "castle",
                   "coords": [
                         2.893548,
@@ -10618,7 +12778,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "This castle structure, locally known as a chateau",
-                  "text": "This castle structure, locally known as a chateau, is an architectural landmark in El Menia.",
+                  "text": "French colonial château in the oasis town of El Menia.",
                   "category": "castle",
                   "coords": [
                         2.874131,
@@ -10645,7 +12805,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "La citadelle (Taourit)",
-                  "text": "La citadelle (Taourit) is a historic castle fortification situated in El Menia.",
+                  "text": "Taourit citadel, a historical fortress in El Menia.",
                   "category": "castle",
                   "coords": [
                         2.893548,
@@ -10701,7 +12861,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Algerian Center for Cultural Heritage",
-                  "text": "Ein Museum in Timimoun.",
+                  "text": "Museum für Kulturerbe in einem traditionellen Saharapalast in Timimoun.",
                   "category": "museum",
                   "coords": [
                         0.230554,
@@ -10710,7 +12870,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Open Air Theater",
-                  "text": "Ein Theater in Timimoun.",
+                  "text": "Freilichttheater in einem roten Sandstein-Amphitheater der Oase Timimoun.",
                   "category": "cultural",
                   "coords": [
                         0.226409,
@@ -10719,7 +12879,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "‎Tamimimoon Old Town",
-                  "text": "Eine archäologische Stätte in Timimoun.",
+                  "text": "Alte Lehmziegel-Altstadt mit engen Gassen und Palmenhainen in Timimoun.",
                   "category": "historical",
                   "coords": [
                         0.241386,
@@ -10728,7 +12888,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Sudan Gate",
-                  "text": "Eine Sehenswürdigkeit in Timimoun.",
+                  "text": "Historisches Tor am nördlichen Eingang zur Altstadt von Timimoun.",
                   "category": "landmark",
                   "coords": [
                         0.229376,
@@ -10739,7 +12899,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Algerian Center for Cultural Heritage",
-                  "text": "Múzeum Timimoun városában.",
+                  "text": "Kulturális örökség múzeuma egy hagyományos szaharai palotában, Timimounban.",
                   "category": "museum",
                   "coords": [
                         0.230554,
@@ -10748,7 +12908,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Open Air Theater",
-                  "text": "Színház Timimoun városában.",
+                  "text": "Szabadtéri színház a timimouni oázis vörös homokkő amfiteátrumában.",
                   "category": "cultural",
                   "coords": [
                         0.226409,
@@ -10757,7 +12917,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "‎Tamimimoon Old Town",
-                  "text": "Régészeti lelőhely Timimoun városában.",
+                  "text": "Régi vályogváros keskeny utcákkal és pálmaligetekkel Timimounban.",
                   "category": "historical",
                   "coords": [
                         0.241386,
@@ -10766,7 +12926,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Sudan Gate",
-                  "text": "Látnivaló Timimoun városában.",
+                  "text": "Történelmi kapu Timimoun óvárosának északi bejáratánál.",
                   "category": "landmark",
                   "coords": [
                         0.229376,
@@ -10777,7 +12937,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Algerian Center for Cultural Heritage",
-                  "text": "Un muzeu în Timimoun.",
+                  "text": "Muzeu al patrimoniului cultural într-un palat tradițional saharian din Timimoun.",
                   "category": "museum",
                   "coords": [
                         0.230554,
@@ -10786,7 +12946,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Open Air Theater",
-                  "text": "Un teatru în Timimoun.",
+                  "text": "Teatru în aer liber într-un amfiteatru de gresie roșie din oaza Timimoun.",
                   "category": "cultural",
                   "coords": [
                         0.226409,
@@ -10795,7 +12955,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "‎Tamimimoon Old Town",
-                  "text": "Un sit arheologic în Timimoun.",
+                  "text": "Oraș vechi din chirpici cu străduțe înguste și palmieri în Timimoun.",
                   "category": "historical",
                   "coords": [
                         0.241386,
@@ -10804,7 +12964,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Sudan Gate",
-                  "text": "O atracție în Timimoun.",
+                  "text": "Poartă istorică la intrarea de nord a orașului vechi Timimoun.",
                   "category": "landmark",
                   "coords": [
                         0.229376,
@@ -10815,7 +12975,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Algerian Center for Cultural Heritage",
-                  "text": "A museum in Timimoun.",
+                  "text": "Cultural heritage museum housed in a traditional Saharan palace in Timimoun.",
                   "category": "museum",
                   "coords": [
                         0.230554,
@@ -10824,7 +12984,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Open Air Theater",
-                  "text": "A theatre in Timimoun.",
+                  "text": "Open-air theater set in a red sandstone amphitheater in Timimoun's oasis.",
                   "category": "cultural",
                   "coords": [
                         0.226409,
@@ -10833,7 +12993,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "‎Tamimimoon Old Town",
-                  "text": "An archaeological site in Timimoun.",
+                  "text": "Ancient mud-brick old town with narrow alleyways and palm groves in Timimoun.",
                   "category": "historical",
                   "coords": [
                         0.241386,
@@ -10842,7 +13002,7 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
             },
             {
                   "name": "Gate of Sudan",
-                  "text": "An attraction in Timimoun.",
+                  "text": "Historical gateway marking the northern entrance to Timimoun's old town.",
                   "category": "landmark",
                   "coords": [
                         0.229376,

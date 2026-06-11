@@ -228,7 +228,160 @@ export const kuwaitNatureV2: POI[] = [
     image: "/poi-images/kuwait-umm-al-maradim-nature-v2.webp",
   },
   {
-    id: "kuwait-miskan-island-nature-v2",
+    id: "kuwait-miskan-island-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "KH3",
+                  "text": "Eine küstennahe archäologische Stätte auf der Insel Miskan, die Spuren früher maritimer Siedlungen bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        48.28815,
+                        29.464526
+                  ]
+            },
+            {
+                  "name": "KH2",
+                  "text": "Diese Ausgrabungsstätte auf der unbewohnten Insel Miskan zeigt Fragmente antiker Keramik und Steinfundamente.",
+                  "category": "historical",
+                  "coords": [
+                        48.28785,
+                        29.466224
+                  ]
+            },
+            {
+                  "name": "KH1",
+                  "text": "Ein weiterer Fundort auf Miskan, der Beweise für die historische Bedeutung der Insel als Vorposten im Golf liefert.",
+                  "category": "historical",
+                  "coords": [
+                        48.2882,
+                        29.467309
+                  ]
+            },
+            {
+                  "name": "Failaka Mosque",
+                  "text": "Ein schlichtes islamisches Gebetshaus auf der geschichtsträchtigen Insel Failaka, das die lokale Gemeinde bedient.",
+                  "category": "landmark",
+                  "coords": [
+                        48.276072,
+                        29.447533
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "KH3",
+                  "text": "Közvetlenül a tengerpartnál fekvő régészeti lelőhely a Miskan-szigeten, amely korai tengeri települések nyomait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        48.28815,
+                        29.464526
+                  ]
+            },
+            {
+                  "name": "KH2",
+                  "text": "Ez a lakatlan Miskan-szigeten található lelőhely ókori kerámiatöredékeket és kőalapozásokat mutat be.",
+                  "category": "historical",
+                  "coords": [
+                        48.28785,
+                        29.466224
+                  ]
+            },
+            {
+                  "name": "KH1",
+                  "text": "Egy újabb lelőhely Miskanon, amely az sziget Öböl-menti történelmi jelentőségét bizonyítja.",
+                  "category": "historical",
+                  "coords": [
+                        48.2882,
+                        29.467309
+                  ]
+            },
+            {
+                  "name": "Failaka Mosque",
+                  "text": "Egyszerű iszlám imaház a történelmi Failaka-szigeten, amely a helyi közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        48.276072,
+                        29.447533
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "KH3",
+                  "text": "Un sit arheologic de coastă de pe insula Miskan, care păstrează urme ale unor așezări maritime timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        48.28815,
+                        29.464526
+                  ]
+            },
+            {
+                  "name": "KH2",
+                  "text": "Acest sit de pe insula nelocuită Miskan prezintă fragmente de ceramică antică și fundații din piatră.",
+                  "category": "historical",
+                  "coords": [
+                        48.28785,
+                        29.466224
+                  ]
+            },
+            {
+                  "name": "KH1",
+                  "text": "Un alt sit de pe Miskan, care oferă dovezi ale importanței istorice a insulei ca avanpost în Golf.",
+                  "category": "historical",
+                  "coords": [
+                        48.2882,
+                        29.467309
+                  ]
+            },
+            {
+                  "name": "Failaka Mosque",
+                  "text": "O casă de rugăciune islamică simplă pe insula Failaka, încărcată de istorie, care deservește comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        48.276072,
+                        29.447533
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "KH3",
+                  "text": "A coastal archaeological site on Miskan Island, preserving traces of early maritime settlements.",
+                  "category": "historical",
+                  "coords": [
+                        48.28815,
+                        29.464526
+                  ]
+            },
+            {
+                  "name": "KH2",
+                  "text": "This excavation site on the uninhabited Miskan Island reveals fragments of ancient pottery and stone foundations.",
+                  "category": "historical",
+                  "coords": [
+                        48.28785,
+                        29.466224
+                  ]
+            },
+            {
+                  "name": "KH1",
+                  "text": "Another archaeological site on Miskan, providing evidence of the island's historical importance as a Gulf outpost.",
+                  "category": "historical",
+                  "coords": [
+                        48.2882,
+                        29.467309
+                  ]
+            },
+            {
+                  "name": "Failaka Mosque",
+                  "text": "A simple Islamic house of worship on the historic Failaka Island, serving the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        48.276072,
+                        29.447533
+                  ]
+            }
+      ]
+},
     parent: "KW",
     type: "island",
     name: { de: "Miskan-Insel", hu: "Miskán-sziget", ro: "Insula Miskan", en: "Miskan Island" },
@@ -498,7 +651,52 @@ export const kuwaitNatureV2: POI[] = [
     image: "/poi-images/kuwait-wadi-al-batin-nature-v2.webp",
   },
   {
-    id: "kuwait-khor-al-subiya-nature-v2",
+    id: "kuwait-khor-al-subiya-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shumaymah Beach",
+                  "text": "Ein sandiger Küstenabschnitt, der für seinen weiten Blick auf die beeindruckende Subiya-Brücke bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        48.151822,
+                        29.618553
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shumaymah Beach",
+                  "text": "Homokos tengerparti szakasz, amely a lenyűgöző Subiya-hídra nyíló széles kilátásáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        48.151822,
+                        29.618553
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shumaymah Beach",
+                  "text": "O porțiune de coastă nisipoasă, cunoscută pentru vederea largă către impresionantul pod Subiya.",
+                  "category": "recreational",
+                  "coords": [
+                        48.151822,
+                        29.618553
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shumaymah Beach",
+                  "text": "A sandy stretch of coastline known for its wide views of the impressive Subiya bridge.",
+                  "category": "recreational",
+                  "coords": [
+                        48.151822,
+                        29.618553
+                  ]
+            }
+      ]
+},
     parent: "KW",
     type: "river",
     name: { de: "Chaur as-Subiya", hu: "Hor asz-Szubija", ro: "Khor al-Subiya", en: "Khor al-Subiya" },
@@ -543,7 +741,52 @@ export const kuwaitNatureV2: POI[] = [
     image: "/poi-images/kuwait-khor-al-subiya-nature-v2.webp",
   },
   {
-    id: "kuwait-ras-al-zour-coast-nature-v2",
+    id: "kuwait-ras-al-zour-coast-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zaid Al Khair",
+                  "text": "Zaid Al Khair ist ein islamischer Gebetsort an der Küste von Ras Al-Zour.",
+                  "category": "landmark",
+                  "coords": [
+                        48.379687,
+                        28.740262
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zaid Al Khair",
+                  "text": "A Zaid Al Khair egy iszlám imádkozóhely Ras Al-Zour partján.",
+                  "category": "landmark",
+                  "coords": [
+                        48.379687,
+                        28.740262
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zaid Al Khair",
+                  "text": "Zaid Al Khair este un loc de rugăciune islamic situat pe coasta din Ras Al-Zour.",
+                  "category": "landmark",
+                  "coords": [
+                        48.379687,
+                        28.740262
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zaid Al Khair",
+                  "text": "Zaid Al Khair is an Islamic prayer venue set on the coast of Ras Al-Zour.",
+                  "category": "landmark",
+                  "coords": [
+                        48.379687,
+                        28.740262
+                  ]
+            }
+      ]
+},
     parent: "KW",
     type: "landmark",
     name: { de: "Ras al-Zour Küste", hu: "Rasz al-Zur partvidék", ro: "Coasta Ras al-Zour", en: "Ras al-Zour Coast" },
@@ -588,7 +831,124 @@ export const kuwaitNatureV2: POI[] = [
     image: "/poi-images/kuwait-ras-al-zour-coast-nature-v2.webp",
   },
   {
-    id: "kuwait-ras-al-ardh-nature-v2",
+    id: "kuwait-ras-al-ardh-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "View of Kuwait City",
+                  "text": "Ein Aussichtspunkt an der Küste, der ein Panorama auf die moderne Skyline und die Kuwait-Türme bietet.",
+                  "category": "natural",
+                  "coords": [
+                        48.097015,
+                        29.352043
+                  ]
+            },
+            {
+                  "name": "The Scientific Center",
+                  "text": "Dieses Bildungszentrum am Wasser beherbergt eines der größten Aquarien im Nahen Osten und ein IMAX-Kino.",
+                  "category": "landmark",
+                  "coords": [
+                        48.089315,
+                        29.349667
+                  ]
+            },
+            {
+                  "name": "Kuwait Sea Club",
+                  "text": "Ein privater Strandclub mit gepflegten Sandflächen und Sportanlagen direkt an der Küste von Salmiya.",
+                  "category": "recreational",
+                  "coords": [
+                        48.098071,
+                        29.346197
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "View of Kuwait City",
+                  "text": "Tengerparti kilátópont, amely panorámás kilátást nyújt a modern sziluettre és a Kuvait-tornyokra.",
+                  "category": "natural",
+                  "coords": [
+                        48.097015,
+                        29.352043
+                  ]
+            },
+            {
+                  "name": "The Scientific Center",
+                  "text": "Ez a vízparti oktatási központ a Közel-Kelet egyik legnagyobb akváriumának és egy IMAX mozinak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        48.089315,
+                        29.349667
+                  ]
+            },
+            {
+                  "name": "Kuwait Sea Club",
+                  "text": "Magán strandklub gondozott homokos területekkel és sportlétesítményekkel Salmiya partjainál.",
+                  "category": "recreational",
+                  "coords": [
+                        48.098071,
+                        29.346197
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "View of Kuwait City",
+                  "text": "Un punct de observație de coastă care oferă o vedere panoramică asupra orizontului modern și a Turnurilor Kuwait.",
+                  "category": "natural",
+                  "coords": [
+                        48.097015,
+                        29.352043
+                  ]
+            },
+            {
+                  "name": "The Scientific Center",
+                  "text": "Acest centru educațional de pe faleză găzduiește unul dintre cele mai mari acvarii din Orientul Mijlociu și un cinematograf IMAX.",
+                  "category": "landmark",
+                  "coords": [
+                        48.089315,
+                        29.349667
+                  ]
+            },
+            {
+                  "name": "Kuwait Sea Club",
+                  "text": "Un club de plajă privat cu zone de nisip bine întreținute și facilități sportive chiar pe coasta Salmiya.",
+                  "category": "recreational",
+                  "coords": [
+                        48.098071,
+                        29.346197
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "View of Kuwait City",
+                  "text": "A coastal vantage point offering a panoramic view of the modern skyline and the Kuwait Towers.",
+                  "category": "natural",
+                  "coords": [
+                        48.097015,
+                        29.352043
+                  ]
+            },
+            {
+                  "name": "The Scientific Center",
+                  "text": "This waterfront educational center houses one of the largest aquariums in the Middle East and an IMAX cinema.",
+                  "category": "landmark",
+                  "coords": [
+                        48.089315,
+                        29.349667
+                  ]
+            },
+            {
+                  "name": "Kuwait Sea Club",
+                  "text": "A private beach club with manicured sandy areas and sports facilities right on the Salmiya coast.",
+                  "category": "recreational",
+                  "coords": [
+                        48.098071,
+                        29.346197
+                  ]
+            }
+      ]
+},
     parent: "KW",
     type: "landmark",
     name: { de: "Ras al-Ardh", hu: "Rasz al-Ard", ro: "Ras al-Ardh", en: "Ras al-Ardh" },
@@ -678,7 +1038,52 @@ export const kuwaitNatureV2: POI[] = [
     image: "/poi-images/kuwait-umm-ar-rimam-nature-v2.webp",
   },
   {
-    id: "kuwait-kabd-protected-area-nature-v2",
+    id: "kuwait-kabd-protected-area-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "KISR study research area",
+                  "text": "Ein geschütztes Naturgebiet im Kabd-Gebiet, das speziell der wissenschaftlichen Forschung gewidmet ist.",
+                  "category": "natural",
+                  "coords": [
+                        47.684707,
+                        29.174601
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "KISR study research area",
+                  "text": "Védett természeti terület a Kabd régióban, amelyet kifejezetten tudományos kutatásnak szenteltek.",
+                  "category": "natural",
+                  "coords": [
+                        47.684707,
+                        29.174601
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "KISR study research area",
+                  "text": "O arie naturală protejată în regiunea Kabd, dedicată în mod specific cercetării științifice.",
+                  "category": "natural",
+                  "coords": [
+                        47.684707,
+                        29.174601
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "KISR study research area",
+                  "text": "A protected natural area in the Kabd region specifically dedicated to scientific research.",
+                  "category": "natural",
+                  "coords": [
+                        47.684707,
+                        29.174601
+                  ]
+            }
+      ]
+},
     parent: "KW",
     type: "wildlife",
     name: { de: "Kabd Schutzgebiet", hu: "Kabdi természetvédelmi terület", ro: "Zona protejată Kabd", en: "Kabd Protected Area" },
@@ -723,7 +1128,376 @@ export const kuwaitNatureV2: POI[] = [
     image: "/poi-images/kuwait-kabd-protected-area-nature-v2.webp",
   },
   {
-    id: "kuwait-khiran-lagoons-nature-v2",
+    id: "kuwait-khiran-lagoons-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Alebrahim Chalet",
+                  "text": "Ein Ferienhaus direkt am Ufer des weitläufigen künstlichen Lagunensystems von Khiran.",
+                  "category": "recreational",
+                  "coords": [
+                        48.348743,
+                        28.667023
+                  ]
+            },
+            {
+                  "name": "Obeida bin Al-Harith",
+                  "text": "Diese moderne Moschee dient den Bewohnern der neu erschlossenen Küstenviertel an den Khiran-Lagunen.",
+                  "category": "landmark",
+                  "coords": [
+                        48.341643,
+                        28.667844
+                  ]
+            },
+            {
+                  "name": "Ghazi Al-Saqabi",
+                  "text": "Ein islamisches Gebetshaus inmitten der modernen Infrastruktur des Khiran-Seebadprojekts.",
+                  "category": "landmark",
+                  "coords": [
+                        48.387744,
+                        28.599702
+                  ]
+            },
+            {
+                  "name": "Al Kudari",
+                  "text": "Eine örtliche Moschee in unmittelbarer Nähe zu den künstlichen Kanälen des Al-Khiran-Distrikts.",
+                  "category": "landmark",
+                  "coords": [
+                        48.368275,
+                        28.635985
+                  ]
+            },
+            {
+                  "name": "Sleek Al-Ghatfani",
+                  "text": "Dieses religiöse Bauwerk bietet Gebetsräume für die Gemeinde in der Nähe der Wasserwege von Khiran.",
+                  "category": "landmark",
+                  "coords": [
+                        48.326848,
+                        28.671016
+                  ]
+            },
+            {
+                  "name": "Rashed Al Farhan",
+                  "text": "Eine schlichte Nachbarschaftsmoschee, die die lagoon-seitige Wohnanlage im Süden Kuwaits versorgt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.3586,
+                        28.652565
+                  ]
+            },
+            {
+                  "name": "Al Sharik bin Abdullah Al-Nakhai",
+                  "text": "Ein moderner Sakralbau im Pearl City-Entwicklungsprojekt am Persischen Golf.",
+                  "category": "landmark",
+                  "coords": [
+                        48.365084,
+                        28.654767
+                  ]
+            },
+            {
+                  "name": "Imam Abu Bakr Al Hamidi",
+                  "text": "Dieses islamische Heiligtum ist in die großflächig geplante Lagunenlandschaft von Khiran eingebettet.",
+                  "category": "landmark",
+                  "coords": [
+                        48.286186,
+                        28.668787
+                  ]
+            },
+            {
+                  "name": "Imam Muhammad bin Nasr Al-Marwazi",
+                  "text": "Die nach dem berühmten Gelehrten benannte Moschee liegt in der modernen Küstenregion Ahmadi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.278768,
+                        28.659116
+                  ]
+            },
+            {
+                  "name": "Imam Muhammad bin Waddah Al-Qurtubi",
+                  "text": "Ein Gebetsort im Al-Khiran-Viertel, das für seine durch das Meer gespeisten künstlichen Wasserläufe bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        48.278906,
+                        28.665489
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alebrahim Chalet",
+                  "text": "Közvetlen vízparti üdülőház az Al Khiran kiterjedt mesterséges lagúnarendszerében.",
+                  "category": "recreational",
+                  "coords": [
+                        48.348743,
+                        28.667023
+                  ]
+            },
+            {
+                  "name": "Obeida bin Al-Harith",
+                  "text": "Ez a modern mecset a Khiran-lagúnák újonnan kialakított tengerparti negyedeinek lakóit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        48.341643,
+                        28.667844
+                  ]
+            },
+            {
+                  "name": "Ghazi Al-Saqabi",
+                  "text": "Iszlám imaház a Khiran tengerparti üdülőhely-projekt modern infrastruktúrájának közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        48.387744,
+                        28.599702
+                  ]
+            },
+            {
+                  "name": "Al Kudari",
+                  "text": "Helyi mecset az Al Khiran negyed mesterséges csatornáinak közvetlen közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.368275,
+                        28.635985
+                  ]
+            },
+            {
+                  "name": "Sleek Al-Ghatfani",
+                  "text": "Ez a vallási épület imaszobákat biztosít a közösség számára a Khiran vízi útjai közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.326848,
+                        28.671016
+                  ]
+            },
+            {
+                  "name": "Rashed Al Farhan",
+                  "text": "Egyszerű szomszédsági mecset, amely Dél-Kuvait lagúnaparti lakóparkját szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        48.3586,
+                        28.652565
+                  ]
+            },
+            {
+                  "name": "Al Sharik bin Abdullah Al-Nakhai",
+                  "text": "Modern szakrális épület a Perzsa-öböl partján fekvő Pearl City fejlesztési projektben.",
+                  "category": "landmark",
+                  "coords": [
+                        48.365084,
+                        28.654767
+                  ]
+            },
+            {
+                  "name": "Imam Abu Bakr Al Hamidi",
+                  "text": "Ez az iszlám szentély a Khiran nagyszabású, tervezett lagúnavilágába ágyazódik.",
+                  "category": "landmark",
+                  "coords": [
+                        48.286186,
+                        28.668787
+                  ]
+            },
+            {
+                  "name": "Imam Muhammad bin Nasr Al-Marwazi",
+                  "text": "A híres tudósról elnevezett mecset Ahmadi modern tengerparti régiójában található.",
+                  "category": "landmark",
+                  "coords": [
+                        48.278768,
+                        28.659116
+                  ]
+            },
+            {
+                  "name": "Imam Muhammad bin Waddah Al-Qurtubi",
+                  "text": "Imahely az Al Khiran negyedben, amely a tenger által táplált mesterséges vízfolyásairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        48.278906,
+                        28.665489
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alebrahim Chalet",
+                  "text": "O vilă de vacanță situată direct pe malul sistemului vast de lagune artificiale din Khiran.",
+                  "category": "recreational",
+                  "coords": [
+                        48.348743,
+                        28.667023
+                  ]
+            },
+            {
+                  "name": "Obeida bin Al-Harith",
+                  "text": "Această moschee modernă deservește locuitorii noilor cartiere de coastă de lângă lagunele Khiran.",
+                  "category": "landmark",
+                  "coords": [
+                        48.341643,
+                        28.667844
+                  ]
+            },
+            {
+                  "name": "Ghazi Al-Saqabi",
+                  "text": "O casă de rugăciune islamică situată în mijlocul infrastructurii moderne a proiectului de stațiune marină Khiran.",
+                  "category": "landmark",
+                  "coords": [
+                        48.387744,
+                        28.599702
+                  ]
+            },
+            {
+                  "name": "Al Kudari",
+                  "text": "O moschee locală aflată în imediata apropiere a canalelor artificiale din districtul Al Khiran.",
+                  "category": "landmark",
+                  "coords": [
+                        48.368275,
+                        28.635985
+                  ]
+            },
+            {
+                  "name": "Sleek Al-Ghatfani",
+                  "text": "Acest edificiu religios oferă săli de rugăciune pentru comunitatea de lângă căile navigabile din Khiran.",
+                  "category": "landmark",
+                  "coords": [
+                        48.326848,
+                        28.671016
+                  ]
+            },
+            {
+                  "name": "Rashed Al Farhan",
+                  "text": "O moschee de cartier simplă care deservește complexul rezidențial de pe malul lagunei din sudul Kuweitului.",
+                  "category": "landmark",
+                  "coords": [
+                        48.3586,
+                        28.652565
+                  ]
+            },
+            {
+                  "name": "Al Sharik bin Abdullah Al-Nakhai",
+                  "text": "Un edificiu sacru modern în cadrul proiectului de dezvoltare Pearl City de la Golful Persic.",
+                  "category": "landmark",
+                  "coords": [
+                        48.365084,
+                        28.654767
+                  ]
+            },
+            {
+                  "name": "Imam Abu Bakr Al Hamidi",
+                  "text": "Acest sanctuar islamic este integrat în peisajul de lagune planificat pe scară largă din Khiran.",
+                  "category": "landmark",
+                  "coords": [
+                        48.286186,
+                        28.668787
+                  ]
+            },
+            {
+                  "name": "Imam Muhammad bin Nasr Al-Marwazi",
+                  "text": "Moscheea numită după faimosul savant este situată în regiunea de coastă modernă din Ahmadi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.278768,
+                        28.659116
+                  ]
+            },
+            {
+                  "name": "Imam Muhammad bin Waddah Al-Qurtubi",
+                  "text": "Un loc de rugăciune în cartierul Al Khiran, cunoscut pentru cursurile sale de apă artificiale alimentate de mare.",
+                  "category": "landmark",
+                  "coords": [
+                        48.278906,
+                        28.665489
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alebrahim Chalet",
+                  "text": "A holiday residence situated directly on the shores of Khiran's extensive man-made lagoon system.",
+                  "category": "recreational",
+                  "coords": [
+                        48.348743,
+                        28.667023
+                  ]
+            },
+            {
+                  "name": "Obeida bin Al-Harith",
+                  "text": "This modern mosque serves the residents of the newly developed coastal neighborhoods at the Khiran lagoons.",
+                  "category": "landmark",
+                  "coords": [
+                        48.341643,
+                        28.667844
+                  ]
+            },
+            {
+                  "name": "Ghazi Al-Saqabi",
+                  "text": "An Islamic prayer house set amidst the modern infrastructure of the Khiran seaside resort project.",
+                  "category": "landmark",
+                  "coords": [
+                        48.387744,
+                        28.599702
+                  ]
+            },
+            {
+                  "name": "Al Kudari",
+                  "text": "A local mosque located in close proximity to the artificial canals of the Al Khiran district.",
+                  "category": "landmark",
+                  "coords": [
+                        48.368275,
+                        28.635985
+                  ]
+            },
+            {
+                  "name": "Sleek Al-Ghatfani",
+                  "text": "This religious building provides prayer facilities for the community near the waterways of Khiran.",
+                  "category": "landmark",
+                  "coords": [
+                        48.326848,
+                        28.671016
+                  ]
+            },
+            {
+                  "name": "Rashed Al Farhan",
+                  "text": "A simple neighborhood mosque serving the lagoon-side residential complex in southern Kuwait.",
+                  "category": "landmark",
+                  "coords": [
+                        48.3586,
+                        28.652565
+                  ]
+            },
+            {
+                  "name": "Al Sharik bin Abdullah Al-Nakhai",
+                  "text": "A modern sacred building within the Pearl City development project on the Persian Gulf.",
+                  "category": "landmark",
+                  "coords": [
+                        48.365084,
+                        28.654767
+                  ]
+            },
+            {
+                  "name": "Imam Abu Bakr Al Hamidi",
+                  "text": "This Islamic sanctuary is embedded in the large-scale planned lagoon landscape of Khiran.",
+                  "category": "landmark",
+                  "coords": [
+                        48.286186,
+                        28.668787
+                  ]
+            },
+            {
+                  "name": "Imam Muhammad bin Nasr Al-Marwazi",
+                  "text": "The mosque, named after the famous scholar, is located in the modern coastal region of Ahmadi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.278768,
+                        28.659116
+                  ]
+            },
+            {
+                  "name": "Imam Muhammad bin Waddah Al-Qurtubi",
+                  "text": "A prayer site in the Al Khiran district, known for its sea-fed artificial waterways.",
+                  "category": "landmark",
+                  "coords": [
+                        48.278906,
+                        28.665489
+                  ]
+            }
+      ]
+},
     parent: "KW",
     type: "lake",
     name: { de: "Khiran Lagunen", hu: "Hirán-lagúnák", ro: "Lagunele Khiran", en: "Khiran Lagoons" },
@@ -768,7 +1542,88 @@ export const kuwaitNatureV2: POI[] = [
     image: "/poi-images/kuwait-khiran-lagoons-nature-v2.webp",
   },
   {
-    id: "kuwait-messila-coast-nature-v2",
+    id: "kuwait-messila-coast-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Block 4",
+                  "text": "Block 4 im Küstengebiet von Messila beherbergt eine islamische Moschee, die tägliche Gottesdienste anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        48.090884,
+                        29.234695
+                  ]
+            },
+            {
+                  "name": "Adan",
+                  "text": "Adan ist eine natürliche heiße Quelle entlang der Küste von Messila.",
+                  "category": "natural",
+                  "coords": [
+                        48.074428,
+                        29.238293
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Block 4",
+                  "text": "A messilai partvidék 4. blokkjában egy iszlám mecset található, amely napi vallási szolgáltatásokat nyújt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.090884,
+                        29.234695
+                  ]
+            },
+            {
+                  "name": "Adan",
+                  "text": "Az Adan egy természetes hőforrás, amely a messilai part mentén található.",
+                  "category": "natural",
+                  "coords": [
+                        48.074428,
+                        29.238293
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Block 4",
+                  "text": "Blocul 4 din zona de coastă Messila găzduiește o moschee islamică care oferă servicii religioase zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        48.090884,
+                        29.234695
+                  ]
+            },
+            {
+                  "name": "Adan",
+                  "text": "Adan este un izvor termal natural situat de-a lungul coastei Messila.",
+                  "category": "natural",
+                  "coords": [
+                        48.074428,
+                        29.238293
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Block 4",
+                  "text": "Block 4 in the Messila coast area houses an Islamic mosque providing daily religious services.",
+                  "category": "landmark",
+                  "coords": [
+                        48.090884,
+                        29.234695
+                  ]
+            },
+            {
+                  "name": "Adan",
+                  "text": "Adan is a naturally occurring hot spring located along the Messila coast.",
+                  "category": "natural",
+                  "coords": [
+                        48.074428,
+                        29.238293
+                  ]
+            }
+      ]
+},
     parent: "KW",
     type: "landmark",
     name: { de: "Messila-Küste", hu: "Messzila-part", ro: "Coasta Messila", en: "Messila Coast" },
@@ -813,7 +1668,160 @@ export const kuwaitNatureV2: POI[] = [
     image: "/poi-images/kuwait-messila-coast-nature-v2.webp",
   },
   {
-    id: "kuwait-nuwaiseeb-coast-nature-v2",
+    id: "kuwait-nuwaiseeb-coast-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mishash Qa`amah",
+                  "text": "Diese Wüstenruinen nahe der Grenze bestehen aus den Überresten historischer Brunnen und kleinerer Steinstrukturen.",
+                  "category": "historical",
+                  "coords": [
+                        48.446179,
+                        28.505544
+                  ]
+            },
+            {
+                  "name": "Saad Khalifa Al Khalfan",
+                  "text": "Eine Moschee in der südlichen Küstenregion von Nuwaiseeb, die Reisenden auf dem Weg zur Grenze als Gebetsort dient.",
+                  "category": "landmark",
+                  "coords": [
+                        48.377359,
+                        28.553307
+                  ]
+            },
+            {
+                  "name": "Naser Muhammad Naser Al Saier",
+                  "text": "Dieses moderne religiöse Bauwerk liegt inmitten der kargen Küstenlandschaft im Süden des Landes.",
+                  "category": "landmark",
+                  "coords": [
+                        48.408072,
+                        28.56021
+                  ]
+            },
+            {
+                  "name": "Sharifa Hammoud Al-Dabbous, the mother of Essam Salman Al-Dabbous",
+                  "text": "Eine markante Moschee an der Küste von Nuwaiseeb, benannt nach einer lokalen Persönlichkeit und bekannt für ihren hellen Sandstein.",
+                  "category": "landmark",
+                  "coords": [
+                        48.388309,
+                        28.543595
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mishash Qa`amah",
+                  "text": "Ezek a határ közeli sivatagi romok történelmi kutak és kisebb kőépítmények maradványaiból állnak.",
+                  "category": "historical",
+                  "coords": [
+                        48.446179,
+                        28.505544
+                  ]
+            },
+            {
+                  "name": "Saad Khalifa Al Khalfan",
+                  "text": "Mecset Nuwaiseeb déli tengerparti régiójában, amely a határ felé tartó utazók számára szolgál imaházként.",
+                  "category": "landmark",
+                  "coords": [
+                        48.377359,
+                        28.553307
+                  ]
+            },
+            {
+                  "name": "Naser Muhammad Naser Al Saier",
+                  "text": "Ez a modern vallási építmény az ország déli részének kopár tengerparti tájában található.",
+                  "category": "landmark",
+                  "coords": [
+                        48.408072,
+                        28.56021
+                  ]
+            },
+            {
+                  "name": "Sharifa Hammoud Al-Dabbous, the mother of Essam Salman Al-Dabbous",
+                  "text": "Jellegzetes mecset Nuwaiseeb tengerpartján, amely egy helyi személyiségről kapta a nevét, és világos homokkövéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        48.388309,
+                        28.543595
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mishash Qa`amah",
+                  "text": "Aceste ruine din deșert, situate lângă graniță, constau în vestigii ale unor fântâni istorice și mici structuri din piatră.",
+                  "category": "historical",
+                  "coords": [
+                        48.446179,
+                        28.505544
+                  ]
+            },
+            {
+                  "name": "Saad Khalifa Al Khalfan",
+                  "text": "O moschee din regiunea de coastă sudică Nuwaiseeb, care servește drept loc de rugăciune pentru călătorii spre graniță.",
+                  "category": "landmark",
+                  "coords": [
+                        48.377359,
+                        28.553307
+                  ]
+            },
+            {
+                  "name": "Naser Muhammad Naser Al Saier",
+                  "text": "Această structură religioasă modernă este situată în peisajul de coastă arid din sudul țării.",
+                  "category": "landmark",
+                  "coords": [
+                        48.408072,
+                        28.56021
+                  ]
+            },
+            {
+                  "name": "Sharifa Hammoud Al-Dabbous, the mother of Essam Salman Al-Dabbous",
+                  "text": "O moschee proeminentă pe coasta Nuwaiseeb, numită după o personalitate locală și cunoscută pentru gresia sa deschisă la culoare.",
+                  "category": "landmark",
+                  "coords": [
+                        48.388309,
+                        28.543595
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mishash Qa`amah",
+                  "text": "These desert ruins near the border consist of the remains of historical wells and small stone structures.",
+                  "category": "historical",
+                  "coords": [
+                        48.446179,
+                        28.505544
+                  ]
+            },
+            {
+                  "name": "Saad Khalifa Al Khalfan",
+                  "text": "A mosque in the southern coastal region of Nuwaiseeb, serving as a place of prayer for travelers heading to the border.",
+                  "category": "landmark",
+                  "coords": [
+                        48.377359,
+                        28.553307
+                  ]
+            },
+            {
+                  "name": "Naser Muhammad Naser Al Saier",
+                  "text": "This modern religious structure is situated within the barren coastal landscape in the south of the country.",
+                  "category": "landmark",
+                  "coords": [
+                        48.408072,
+                        28.56021
+                  ]
+            },
+            {
+                  "name": "Sharifa Hammoud Al-Dabbous, the mother of Essam Salman Al-Dabbous",
+                  "text": "A prominent mosque on the Nuwaiseeb coast, named after a local figure and known for its light sandstone construction.",
+                  "category": "landmark",
+                  "coords": [
+                        48.388309,
+                        28.543595
+                  ]
+            }
+      ]
+},
     parent: "KW",
     type: "landmark",
     name: { de: "Nuwaiseeb-Küste", hu: "Nuvaiszíb-part", ro: "Coasta Nuwaiseeb", en: "Nuwaiseeb Coast" },
@@ -1083,7 +2091,160 @@ export const kuwaitNatureV2: POI[] = [
     image: "/poi-images/kuwait-wafra-desert-strip-nature-v2.webp",
   },
   {
-    id: "kuwait-abdali-desert-region-nature-v2",
+    id: "kuwait-abdali-desert-region-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ducks",
+                  "text": "Ein Teil eines Wüstenbauernhofs in Abdali, wo Enten in künstlich angelegten Teichen beobachtet werden können.",
+                  "category": "landmark",
+                  "coords": [
+                        47.7745,
+                        30.035424
+                  ]
+            },
+            {
+                  "name": "Plant Nursery",
+                  "text": "Diese Gärtnerei in der Wüste kultiviert eine Vielzahl von Pflanzen, die an das extrem trockene Klima angepasst sind.",
+                  "category": "landmark",
+                  "coords": [
+                        47.776906,
+                        30.033068
+                  ]
+            },
+            {
+                  "name": "Barn",
+                  "text": "Eine klassische Scheune auf dem Bauernhof, in der landwirtschaftliche Geräte und Tierfutter gelagert werden.",
+                  "category": "landmark",
+                  "coords": [
+                        47.776111,
+                        30.032127
+                  ]
+            },
+            {
+                  "name": "Farm",
+                  "text": "Ein produktiver Bauernhof in Abdali, der zeigt, wie moderne Bewässerung Landwirtschaft im Wüstensand ermöglicht.",
+                  "category": "landmark",
+                  "coords": [
+                        47.776762,
+                        30.034265
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ducks",
+                  "text": "Az abdali sivatagi farm része, ahol mesterséges tavakban kacsák figyelhetők meg.",
+                  "category": "landmark",
+                  "coords": [
+                        47.7745,
+                        30.035424
+                  ]
+            },
+            {
+                  "name": "Plant Nursery",
+                  "text": "Ez a sivatagi faiskola számos olyan növényt termeszt, amelyek alkalmazkodtak a rendkívül száraz éghajlathoz.",
+                  "category": "landmark",
+                  "coords": [
+                        47.776906,
+                        30.033068
+                  ]
+            },
+            {
+                  "name": "Barn",
+                  "text": "Klasszikus pajta a farmon, ahol mezőgazdasági eszközöket és takarmányt tárolnak.",
+                  "category": "landmark",
+                  "coords": [
+                        47.776111,
+                        30.032127
+                  ]
+            },
+            {
+                  "name": "Farm",
+                  "text": "Termékeny farm Abdaliban, amely megmutatja, hogyan teszi lehetővé a modern öntözés a mezőgazdaságot a sivatagi homokban.",
+                  "category": "landmark",
+                  "coords": [
+                        47.776762,
+                        30.034265
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ducks",
+                  "text": "Parte a unei ferme din deșertul Abdali, unde pot fi observate rațe în iazuri amenajate artificial.",
+                  "category": "landmark",
+                  "coords": [
+                        47.7745,
+                        30.035424
+                  ]
+            },
+            {
+                  "name": "Plant Nursery",
+                  "text": "Această pepinieră din deșert cultivă o varietate de plante adaptate la climatul extrem de arid.",
+                  "category": "landmark",
+                  "coords": [
+                        47.776906,
+                        30.033068
+                  ]
+            },
+            {
+                  "name": "Barn",
+                  "text": "Un hambar clasic la fermă, unde sunt depozitate unelte agricole și furaje pentru animale.",
+                  "category": "landmark",
+                  "coords": [
+                        47.776111,
+                        30.032127
+                  ]
+            },
+            {
+                  "name": "Farm",
+                  "text": "O fermă productivă din Abdali care demonstrează cum irigațiile moderne permit agricultura în nisipul deșertului.",
+                  "category": "landmark",
+                  "coords": [
+                        47.776762,
+                        30.034265
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ducks",
+                  "text": "Part of a desert farm in Abdali where ducks can be observed in man-made ponds.",
+                  "category": "landmark",
+                  "coords": [
+                        47.7745,
+                        30.035424
+                  ]
+            },
+            {
+                  "name": "Plant Nursery",
+                  "text": "This desert nursery cultivates a variety of plants adapted to the extremely dry climate.",
+                  "category": "landmark",
+                  "coords": [
+                        47.776906,
+                        30.033068
+                  ]
+            },
+            {
+                  "name": "Barn",
+                  "text": "A classic barn on the farm used for storing agricultural equipment and animal feed.",
+                  "category": "landmark",
+                  "coords": [
+                        47.776111,
+                        30.032127
+                  ]
+            },
+            {
+                  "name": "Farm",
+                  "text": "A productive farm in Abdali that demonstrates how modern irrigation enables agriculture in the desert sands.",
+                  "category": "landmark",
+                  "coords": [
+                        47.776762,
+                        30.034265
+                  ]
+            }
+      ]
+},
     parent: "KW",
     type: "mountain",
     name: { de: "Abdali Wüstenregion", hu: "Abdali sivatagi régió", ro: "Regiunea deșertică Abdali", en: "Abdali Desert Region" },
@@ -1128,7 +2289,196 @@ export const kuwaitNatureV2: POI[] = [
     image: "/poi-images/kuwait-abdali-desert-region-nature-v2.webp",
   },
   {
-    id: "kuwait-anjafa-beach-nature-v2",
+    id: "kuwait-anjafa-beach-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al-Hamida Mosque",
+                  "text": "Nahe dem Küstengebiet von Anjafa ist die Al-Hamida-Moschee ein islamisches Gotteshaus, das dem örtlichen Strandviertel dient.",
+                  "category": "landmark",
+                  "coords": [
+                        48.075972,
+                        29.276147
+                  ]
+            },
+            {
+                  "name": "Abdullah Mosque",
+                  "text": "Die Abdullah-Moschee steht in der Nähe des Strandes von Anjafa und bietet Gläubigen einen friedlichen islamischen Gebetssaal.",
+                  "category": "landmark",
+                  "coords": [
+                        48.078339,
+                        29.270714
+                  ]
+            },
+            {
+                  "name": "Al-Haj Mosque",
+                  "text": "Die Al-Haj-Moschee ist ein spezielles islamisches Gotteshaus im Viertel Anjafa.",
+                  "category": "landmark",
+                  "coords": [
+                        48.067448,
+                        29.277949
+                  ]
+            },
+            {
+                  "name": "Sulaiman Mosque",
+                  "text": "Die Sulaiman-Moschee versammelt die muslimischen Gläubigen im Strandgebiet von Anjafa zur täglichen Andacht.",
+                  "category": "landmark",
+                  "coords": [
+                        48.069151,
+                        29.269545
+                  ]
+            },
+            {
+                  "name": "Mudhi Mosque",
+                  "text": "Die Mudhi-Moschee dient der islamischen Gemeinde, die nahe den Küstengrenzen von Anjafa lebt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.06566,
+                        29.273659
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al-Hamida Mosque",
+                  "text": "Az Anjafa partvidéke közelében található Al-Hamida mecset egy iszlám istentiszteleti hely, amely a helyi tengerparti negyedet szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        48.075972,
+                        29.276147
+                  ]
+            },
+            {
+                  "name": "Abdullah Mosque",
+                  "text": "Az Abdullah mecset az Anjafa strand közelében áll, békés iszlám imatermet kínálva a hívőknek.",
+                  "category": "landmark",
+                  "coords": [
+                        48.078339,
+                        29.270714
+                  ]
+            },
+            {
+                  "name": "Al-Haj Mosque",
+                  "text": "Az Al-Haj mecset egy dedikált iszlám istentiszteleti hely Anjafa negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.067448,
+                        29.277949
+                  ]
+            },
+            {
+                  "name": "Sulaiman Mosque",
+                  "text": "A Sulaiman mecset az anjafai strand területén gyűjti össze a muszlim hívőket a napi áhítatra.",
+                  "category": "landmark",
+                  "coords": [
+                        48.069151,
+                        29.269545
+                  ]
+            },
+            {
+                  "name": "Mudhi Mosque",
+                  "text": "A Mudhi mecset az Anjafa tengerparti határai közelében lakó iszlám gyülekezetet szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        48.06566,
+                        29.273659
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al-Hamida Mosque",
+                  "text": "Lângă zona de coastă Anjafa, Moscheea Al-Hamida este un lăcaș de cult islamic care deservește cartierul local de pe malul mării.",
+                  "category": "landmark",
+                  "coords": [
+                        48.075972,
+                        29.276147
+                  ]
+            },
+            {
+                  "name": "Abdullah Mosque",
+                  "text": "Moscheea Abdullah se află lângă plaja Anjafa, oferind o sală de rugăciune islamică pașnică pentru închinători.",
+                  "category": "landmark",
+                  "coords": [
+                        48.078339,
+                        29.270714
+                  ]
+            },
+            {
+                  "name": "Al-Haj Mosque",
+                  "text": "Moscheea Al-Haj este un lăcaș de cult islamic dedicat, situat în cartierul Anjafa.",
+                  "category": "landmark",
+                  "coords": [
+                        48.067448,
+                        29.277949
+                  ]
+            },
+            {
+                  "name": "Sulaiman Mosque",
+                  "text": "Moscheea Sulaiman adună credincioșii musulmani în zona plajei Anjafa pentru devotamentul zilnic.",
+                  "category": "landmark",
+                  "coords": [
+                        48.069151,
+                        29.269545
+                  ]
+            },
+            {
+                  "name": "Mudhi Mosque",
+                  "text": "Moscheea Mudhi deservește congregația islamică care locuiește în apropierea limitelor de coastă ale Anjafei.",
+                  "category": "landmark",
+                  "coords": [
+                        48.06566,
+                        29.273659
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al-Hamida Mosque",
+                  "text": "Near the coastal area of Anjafa, the Al-Hamida Mosque is an Islamic place of worship serving the local beachside neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        48.075972,
+                        29.276147
+                  ]
+            },
+            {
+                  "name": "Abdullah Mosque",
+                  "text": "Abdullah Mosque stands near Anjafa Beach, offering a peaceful Islamic prayer hall for worshippers.",
+                  "category": "landmark",
+                  "coords": [
+                        48.078339,
+                        29.270714
+                  ]
+            },
+            {
+                  "name": "Al-Haj Mosque",
+                  "text": "Al-Haj Mosque is a dedicated Islamic place of worship set within the neighborhood of Anjafa.",
+                  "category": "landmark",
+                  "coords": [
+                        48.067448,
+                        29.277949
+                  ]
+            },
+            {
+                  "name": "Sulaiman Mosque",
+                  "text": "Sulaiman Mosque gathers the Muslim faithful in the Anjafa beach area for daily devotion.",
+                  "category": "landmark",
+                  "coords": [
+                        48.069151,
+                        29.269545
+                  ]
+            },
+            {
+                  "name": "Mudhi Mosque",
+                  "text": "Mudhi Mosque serves the Islamic congregation residing near the coastal limits of Anjafa.",
+                  "category": "landmark",
+                  "coords": [
+                        48.06566,
+                        29.273659
+                  ]
+            }
+      ]
+},
     parent: "KW",
     type: "landmark",
     name: { de: "Anjafa-Strand", hu: "Andzsafa-strand", ro: "Plaja Anjafa", en: "Anjafa Beach" },
@@ -1173,7 +2523,52 @@ export const kuwaitNatureV2: POI[] = [
     image: "/poi-images/kuwait-anjafa-beach-nature-v2.webp",
   },
   {
-    id: "kuwait-ras-ajuza-nature-v2",
+    id: "kuwait-ras-ajuza-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dasmam AlKabeer mosque",
+                  "text": "Ein großes muslimisches Gotteshaus in der Nähe des Küstengebiets Ras Ajuza.",
+                  "category": "landmark",
+                  "coords": [
+                        47.998498,
+                        29.388407
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dasmam AlKabeer mosque",
+                  "text": "Egy nagy muszlim istentiszteleti hely a tengerparti Ras Ajuza térségének közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        47.998498,
+                        29.388407
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dasmam AlKabeer mosque",
+                  "text": "Un mare lăcaș de cult musulman situat în apropierea zonei de coastă Ras Ajuza.",
+                  "category": "landmark",
+                  "coords": [
+                        47.998498,
+                        29.388407
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dasmam AlKabeer mosque",
+                  "text": "A grand Muslim place of worship situated near the coastal Ras Ajuza area.",
+                  "category": "landmark",
+                  "coords": [
+                        47.998498,
+                        29.388407
+                  ]
+            }
+      ]
+},
     parent: "KW",
     type: "landmark",
     name: { de: "Ras Ajuzah", hu: "Rasz Adzsúza", ro: "Ras Ajuzah", en: "Ras Ajuzah" },
@@ -1218,7 +2613,88 @@ export const kuwaitNatureV2: POI[] = [
     image: "/poi-images/kuwait-ras-ajuza-nature-v2.webp",
   },
   {
-    id: "kuwait-bnaider-coast-nature-v2",
+    id: "kuwait-bnaider-coast-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "alzur camp",
+                  "text": "Die Kultstätte im Alzur-Camp ist ein spiritueller Treffpunkt im Wüstenstil, der einen überdachten Gebetsraum für Küstenbesucher bietet.",
+                  "category": "religious",
+                  "coords": [
+                        48.294188,
+                        28.712616
+                  ]
+            },
+            {
+                  "name": "Al shikha Al Anud Al Ahmad Al Sabah",
+                  "text": "Diese nach den kuwaitischen Royals benannte islamische Küstenmoschee verfügt über strahlend weiße Fassaden, die in der Wüstensonne glänzen.",
+                  "category": "landmark",
+                  "coords": [
+                        48.285038,
+                        28.732737
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "alzur camp",
+                  "text": "Az alzur tábor istentiszteleti helye egy sivatagi stílusú spirituális gyülekezőhely, amely védett imaterületet biztosít a part menti látogatóknak.",
+                  "category": "religious",
+                  "coords": [
+                        48.294188,
+                        28.712616
+                  ]
+            },
+            {
+                  "name": "Al shikha Al Anud Al Ahmad Al Sabah",
+                  "text": "A kuvaiti királyi családról elnevezett tengerparti iszlám mecset ragyogó fehér homlokzattal büszkélkedhet, amely a sivatagi napfényben csillog.",
+                  "category": "landmark",
+                  "coords": [
+                        48.285038,
+                        28.732737
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "alzur camp",
+                  "text": "Lăcașul de cult din tabăra Alzur este un loc de adunare spirituală în stil deșertic, oferind o zonă de rugăciune adăpostită pentru vizitatorii de pe coastă.",
+                  "category": "religious",
+                  "coords": [
+                        48.294188,
+                        28.712616
+                  ]
+            },
+            {
+                  "name": "Al shikha Al Anud Al Ahmad Al Sabah",
+                  "text": "Numită după familia regală din Kuweit, această moschee islamică de coastă are fațade albe strălucitoare, care sclipesc sub soarele deșertului.",
+                  "category": "landmark",
+                  "coords": [
+                        48.285038,
+                        28.732737
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "alzur camp",
+                  "text": "The Alzur camp place of worship is a desert-style spiritual gathering spot providing a sheltered prayer area for coastal visitors.",
+                  "category": "religious",
+                  "coords": [
+                        48.294188,
+                        28.712616
+                  ]
+            },
+            {
+                  "name": "Al shikha Al Anud Al Ahmad Al Sabah",
+                  "text": "Named after Kuwati royalty, this coastal Islamic mosque features bright white facades that gleam under the desert sun.",
+                  "category": "landmark",
+                  "coords": [
+                        48.285038,
+                        28.732737
+                  ]
+            }
+      ]
+},
     parent: "KW",
     type: "landmark",
     name: { de: "Bnaider-Küste", hu: "Bnaider-part", ro: "Coasta Bnaider", en: "Bnaider Coast" },
@@ -1263,7 +2739,268 @@ export const kuwaitNatureV2: POI[] = [
     image: "/poi-images/kuwait-bnaider-coast-nature-v2.webp",
   },
   {
-    id: "kuwait-dubayeiyah-coast-nature-v2",
+    id: "kuwait-dubayeiyah-coast-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khalifa Chalets Beach",
+                  "text": "Ein sandiger Küstenstreifen, der sich entlang der Küste von Dubayeiyah erstreckt.",
+                  "category": "recreational",
+                  "coords": [
+                        48.237719,
+                        28.895631
+                  ]
+            },
+            {
+                  "name": "Bnader",
+                  "text": "Eine islamische Kultstätte an der Küste von Dubayeiyah, die der Bevölkerung als Gebetsort dient.",
+                  "category": "landmark",
+                  "coords": [
+                        48.275203,
+                        28.812094
+                  ]
+            },
+            {
+                  "name": "Ahmed Abdullah Ahmed Malik Al-Kandari",
+                  "text": "Eine lokale Moschee, die spirituelle Räumlichkeiten für die Gemeinde nahe der Küste von Dubayeiyah bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        48.288591,
+                        28.785442
+                  ]
+            },
+            {
+                  "name": "Sheikha Sharifa Al-Tuwaijri",
+                  "text": "Ein muslimischer Gebetsort, der sich in unmittelbarer Nähe des Dubayeiyah-Küstenabschnitts befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        48.275554,
+                        28.879122
+                  ]
+            },
+            {
+                  "name": "Abas Rabi Al Numas",
+                  "text": "Eine Moschee an der Küste von Dubayeiyah, die Raum für die täglichen islamischen Gebete bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        48.245699,
+                        28.8843
+                  ]
+            },
+            {
+                  "name": "Bar Al Adan",
+                  "text": "Eine islamische religiöse Stätte an der Küste von Dubayeiyah, die für die Gebete der Gläubigen genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        48.274979,
+                        28.846734
+                  ]
+            },
+            {
+                  "name": "Hamad Abdullah Al Faris",
+                  "text": "Ein lokales Gotteshaus am Strand von Dubayeiyah, das der muslimischen Bevölkerung für Andachten offensteht.",
+                  "category": "landmark",
+                  "coords": [
+                        48.269659,
+                        28.797025
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khalifa Chalets Beach",
+                  "text": "Homokos partszakasz, amely a Dubayeiyah partvidék mentén húzódik.",
+                  "category": "recreational",
+                  "coords": [
+                        48.237719,
+                        28.895631
+                  ]
+            },
+            {
+                  "name": "Bnader",
+                  "text": "Iszlám vallási hely a Dubayeiyah parton, amely a helyi lakosság imahelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        48.275203,
+                        28.812094
+                  ]
+            },
+            {
+                  "name": "Ahmed Abdullah Ahmed Malik Al-Kandari",
+                  "text": "Helyi mecset, amely spirituális teret kínál a Dubayeiyah partja közelében élő közösségnek.",
+                  "category": "landmark",
+                  "coords": [
+                        48.288591,
+                        28.785442
+                  ]
+            },
+            {
+                  "name": "Sheikha Sharifa Al-Tuwaijri",
+                  "text": "Muszlim imaház, amely a Dubayeiyah partvidékének közvetlen közelében helyezkedik el.",
+                  "category": "landmark",
+                  "coords": [
+                        48.275554,
+                        28.879122
+                  ]
+            },
+            {
+                  "name": "Abas Rabi Al Numas",
+                  "text": "Mecset a Dubayeiyah parton, amely teret biztosít a helyi közösség mindennapi iszlám imáihoz.",
+                  "category": "landmark",
+                  "coords": [
+                        48.245699,
+                        28.8843
+                  ]
+            },
+            {
+                  "name": "Bar Al Adan",
+                  "text": "Iszlám vallási helyszín a Dubayeiyah partvidéken, amelyet a hívők imádkozás céljából használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        48.274979,
+                        28.846734
+                  ]
+            },
+            {
+                  "name": "Hamad Abdullah Al Faris",
+                  "text": "Helyi istentiszteleti hely a Dubayeiyah parton, amely a muszlim lakosság számára nyitva áll az áhítatokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        48.269659,
+                        28.797025
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khalifa Chalets Beach",
+                  "text": "O întindere de coastă nisipoasă care se prelungește de-a lungul țărmurilor din Dubayeiyah.",
+                  "category": "recreational",
+                  "coords": [
+                        48.237719,
+                        28.895631
+                  ]
+            },
+            {
+                  "name": "Bnader",
+                  "text": "Un lăcaș de cult islamic pe coasta Dubayeiyah, care servește ca loc de rugăciune pentru populația locală.",
+                  "category": "landmark",
+                  "coords": [
+                        48.275203,
+                        28.812094
+                  ]
+            },
+            {
+                  "name": "Ahmed Abdullah Ahmed Malik Al-Kandari",
+                  "text": "O moschee locală care oferă spații spirituale pentru comunitatea care trăiește aproape de țărmul din Dubayeiyah.",
+                  "category": "landmark",
+                  "coords": [
+                        48.288591,
+                        28.785442
+                  ]
+            },
+            {
+                  "name": "Sheikha Sharifa Al-Tuwaijri",
+                  "text": "O casă de rugăciune musulmană situată în imediata apropiere a coastei din Dubayeiyah.",
+                  "category": "landmark",
+                  "coords": [
+                        48.275554,
+                        28.879122
+                  ]
+            },
+            {
+                  "name": "Abas Rabi Al Numas",
+                  "text": "O moschee pe coasta Dubayeiyah care oferă spațiu comunității locale pentru rugăciunile islamice zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        48.245699,
+                        28.8843
+                  ]
+            },
+            {
+                  "name": "Bar Al Adan",
+                  "text": "Un sit religios islamic pe coasta Dubayeiyah, folosit pentru rugăciunile credincioșilor din această regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        48.274979,
+                        28.846734
+                  ]
+            },
+            {
+                  "name": "Hamad Abdullah Al Faris",
+                  "text": "Un lăcaș de cult local pe coasta din Dubayeiyah, deschis populației musulmane pentru devotamentul lor.",
+                  "category": "landmark",
+                  "coords": [
+                        48.269659,
+                        28.797025
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khalifa Chalets Beach",
+                  "text": "A sandy stretch of coastline extending along the shores of Dubayeiyah.",
+                  "category": "recreational",
+                  "coords": [
+                        48.237719,
+                        28.895631
+                  ]
+            },
+            {
+                  "name": "Bnader",
+                  "text": "An Islamic place of worship situated on the Dubayeiyah coast, serving as a prayer site for the local population.",
+                  "category": "landmark",
+                  "coords": [
+                        48.275203,
+                        28.812094
+                  ]
+            },
+            {
+                  "name": "Ahmed Abdullah Ahmed Malik Al-Kandari",
+                  "text": "A local mosque offering spiritual spaces for the community living near the Dubayeiyah shore.",
+                  "category": "landmark",
+                  "coords": [
+                        48.288591,
+                        28.785442
+                  ]
+            },
+            {
+                  "name": "Sheikha Sharifa Al-Tuwaijri",
+                  "text": "A Muslim house of prayer situated in close proximity to the Dubayeiyah coastline.",
+                  "category": "landmark",
+                  "coords": [
+                        48.275554,
+                        28.879122
+                  ]
+            },
+            {
+                  "name": "Abas Rabi Al Numas",
+                  "text": "A mosque on the Dubayeiyah coast providing a dedicated space for the local community's daily Islamic prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        48.245699,
+                        28.8843
+                  ]
+            },
+            {
+                  "name": "Bar Al Adan",
+                  "text": "An Islamic religious site on the Dubayeiyah coast used for the prayers of the believers in this region.",
+                  "category": "landmark",
+                  "coords": [
+                        48.274979,
+                        28.846734
+                  ]
+            },
+            {
+                  "name": "Hamad Abdullah Al Faris",
+                  "text": "A local place of worship on the Dubayeiyah coast open to the Muslim population for their spiritual devotions.",
+                  "category": "landmark",
+                  "coords": [
+                        48.269659,
+                        28.797025
+                  ]
+            }
+      ]
+},
     parent: "KW",
     type: "landmark",
     name: { de: "Dubayeiyah-Küste", hu: "Dubayeiyah-part", ro: "Coasta Dubayeiyah", en: "Dubayeiyah Coast" },
@@ -1308,7 +3045,376 @@ export const kuwaitNatureV2: POI[] = [
     image: "/poi-images/kuwait-dubayeiyah-coast-nature-v2.webp",
   },
   {
-    id: "kuwait-khiran-creek-nature-area-nature-v2",
+    id: "kuwait-khiran-creek-nature-area-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abdullaziz Abdullah Al Heran",
+                  "text": "Die Abdullaziz Abdullah Al Heran Moschee ist eine islamische Gebetsstätte im Bereich des Khiran Creek, die den Gläubigen der Region offensteht.",
+                  "category": "landmark",
+                  "coords": [
+                        48.383306,
+                        28.673002
+                  ]
+            },
+            {
+                  "name": "Abu Amer Al-Ash'ari",
+                  "text": "Die nach Abu Amer Al-Ash'ari benannte Moschee ist ein spirituelles Zentrum für die muslimische Gemeinde in der Nähe des Khiran Creek.",
+                  "category": "landmark",
+                  "coords": [
+                        48.366051,
+                        28.674754
+                  ]
+            },
+            {
+                  "name": "Abdulaziz Al Said",
+                  "text": "Die Abdulaziz Al Said Moschee bietet den lokalen Gläubigen am Khiran Creek einen ruhigen Ort für das islamische Gebet.",
+                  "category": "landmark",
+                  "coords": [
+                        48.389471,
+                        28.659994
+                  ]
+            },
+            {
+                  "name": "Suleiman Al-Qudaibi and his wife, Ghanima Al-Khaled",
+                  "text": "Diese nach Suleiman Al-Qudaibi und seiner Frau Ghanima Al-Khaled benannte Moschee am Khiran Creek zeugt von lokaler islamischer Stiftertradition.",
+                  "category": "landmark",
+                  "coords": [
+                        48.38857,
+                        28.653487
+                  ]
+            },
+            {
+                  "name": "Al Faris",
+                  "text": "Die Al Faris Moschee ist ein religiöser Treffpunkt für Muslime, der in der Küstenregion des Khiran Creek für tägliche Gebete genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        48.385469,
+                        28.631584
+                  ]
+            },
+            {
+                  "name": "Mahmoud bin Al-Rabee Al-Ansari",
+                  "text": "Die Mahmoud bin Al-Rabee Al-Ansari Moschee dient als islamischer Gebetsort für die Anwohner im Einzugsgebiet des Khiran Creek.",
+                  "category": "landmark",
+                  "coords": [
+                        48.373501,
+                        28.661881
+                  ]
+            },
+            {
+                  "name": "Lolwa Abdullah Al-Omran",
+                  "text": "Die Lolwa Abdullah Al-Omran Moschee ist ein muslimisches Gotteshaus, das die religiöse Infrastruktur in der Region Khiran Creek bereichert.",
+                  "category": "landmark",
+                  "coords": [
+                        48.384426,
+                        28.658376
+                  ]
+            },
+            {
+                  "name": "Ibrahim Al-Nakhai",
+                  "text": "Die nach dem Gelehrten Ibrahim Al-Nakhai benannte Moschee ist ein Ort der inneren Einkehr für die muslimische Gemeinde am Khiran Creek.",
+                  "category": "landmark",
+                  "coords": [
+                        48.384282,
+                        28.664033
+                  ]
+            },
+            {
+                  "name": "Waleed Khaled Youssef Al-Marzouq",
+                  "text": "Die Waleed Khaled Youssef Al-Marzouq Moschee ist eine islamische Kultstätte, die den Gläubigen in der Nähe des Naturgebiets Khiran Creek dient.",
+                  "category": "landmark",
+                  "coords": [
+                        48.372625,
+                        28.670267
+                  ]
+            },
+            {
+                  "name": "Fahad Khaled Al-Kulaib",
+                  "text": "Die Fahad Khaled Al-Kulaib Moschee bietet Räumlichkeiten für rituelle Waschungen und die täglichen Gebete der Muslime am Khiran Creek.",
+                  "category": "landmark",
+                  "coords": [
+                        48.365318,
+                        28.662458
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abdullaziz Abdullah Al Heran",
+                  "text": "Az Abdullaziz Abdullah Al Heran Mecset egy iszlám imaház a Khiran Creek területén, amely nyitva áll a régió hívői előtt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.383306,
+                        28.673002
+                  ]
+            },
+            {
+                  "name": "Abu Amer Al-Ash'ari",
+                  "text": "Az Abu Amer Al-Ash'ari nevét viselő mecset egy spirituális központ a muszlim közösség számára a Khiran Creek közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.366051,
+                        28.674754
+                  ]
+            },
+            {
+                  "name": "Abdulaziz Al Said",
+                  "text": "Az Abdulaziz Al Said Mecset csendes helyet kínál az iszlám imákhoz a helyi hívők számára a Khiran Creek területén.",
+                  "category": "landmark",
+                  "coords": [
+                        48.389471,
+                        28.659994
+                  ]
+            },
+            {
+                  "name": "Suleiman Al-Qudaibi and his wife, Ghanima Al-Khaled",
+                  "text": "A Szulejmán Al-Kudaibi és felesége, Ghanima Al-Haled nevét viselő mecset a Khiran Creek mentén a helyi iszlám adományozási hagyományokat tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.38857,
+                        28.653487
+                  ]
+            },
+            {
+                  "name": "Al Faris",
+                  "text": "Az Al Faris Mecset egy muszlim vallási találkozóhely, amelyet a Khiran Creek partvidékén használnak a napi imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        48.385469,
+                        28.631584
+                  ]
+            },
+            {
+                  "name": "Mahmoud bin Al-Rabee Al-Ansari",
+                  "text": "A Mahmoud bin Al-Rabee Al-Ansari Mecset iszlám imahelyként szolgál a Khiran Creek vízgyűjtő területén élők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        48.373501,
+                        28.661881
+                  ]
+            },
+            {
+                  "name": "Lolwa Abdullah Al-Omran",
+                  "text": "A Lolwa Abdullah Al-Omran Mecset egy muszlim imaház, amely gazdagítja a Khiran Creek régió vallási infrastruktúráját.",
+                  "category": "landmark",
+                  "coords": [
+                        48.384426,
+                        28.658376
+                  ]
+            },
+            {
+                  "name": "Ibrahim Al-Nakhai",
+                  "text": "Az Ibrahim Al-Nakhai tudósról elnevezett mecset a belső elmélyülés helyszíne a muszlim közösség számára a Khiran Creek mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        48.384282,
+                        28.664033
+                  ]
+            },
+            {
+                  "name": "Waleed Khaled Youssef Al-Marzouq",
+                  "text": "A Waleed Khaled Youssef Al-Marzouq Mecset egy iszlám istentiszteleti hely, amely a Khiran Creek természeti terület közelében élő hívőket szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        48.372625,
+                        28.670267
+                  ]
+            },
+            {
+                  "name": "Fahad Khaled Al-Kulaib",
+                  "text": "A Fahad Khaled Al-Kulaib Mecset helyet biztosít a rituális mosakodáshoz és a muszlimok napi imáihoz a Khiran Creek mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        48.365318,
+                        28.662458
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abdullaziz Abdullah Al Heran",
+                  "text": "Moscheea Abdullaziz Abdullah Al Heran este un lăcaș de rugăciune islamic situat în zona Khiran Creek, deservind credincioșii din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        48.383306,
+                        28.673002
+                  ]
+            },
+            {
+                  "name": "Abu Amer Al-Ash'ari",
+                  "text": "Moscheea numită după Abu Amer Al-Ash'ari este un centru spiritual pentru comunitatea musulmană din apropierea pârâului Khiran.",
+                  "category": "landmark",
+                  "coords": [
+                        48.366051,
+                        28.674754
+                  ]
+            },
+            {
+                  "name": "Abdulaziz Al Said",
+                  "text": "Moscheea Abdulaziz Al Said oferă un loc liniștit pentru rugăciunile islamice credincioșilor locali de lângă Khiran Creek.",
+                  "category": "landmark",
+                  "coords": [
+                        48.389471,
+                        28.659994
+                  ]
+            },
+            {
+                  "name": "Suleiman Al-Qudaibi and his wife, Ghanima Al-Khaled",
+                  "text": "Această moschee de lângă Khiran Creek, poartă numele lui Suleiman Al-Qudaibi și al soției sale Ghanima Al-Khaled, reflectând tradiția filantropică islamică locală.",
+                  "category": "landmark",
+                  "coords": [
+                        48.38857,
+                        28.653487
+                  ]
+            },
+            {
+                  "name": "Al Faris",
+                  "text": "Moscheea Al Faris este un loc de întâlnire religios pentru musulmani, folosit pentru rugăciunile zilnice în zona de coastă a Khiran Creek.",
+                  "category": "landmark",
+                  "coords": [
+                        48.385469,
+                        28.631584
+                  ]
+            },
+            {
+                  "name": "Mahmoud bin Al-Rabee Al-Ansari",
+                  "text": "Moscheea Mahmoud bin Al-Rabee Al-Ansari servește ca loc de rugăciune islamic pentru locuitorii din zona Khiran Creek.",
+                  "category": "landmark",
+                  "coords": [
+                        48.373501,
+                        28.661881
+                  ]
+            },
+            {
+                  "name": "Lolwa Abdullah Al-Omran",
+                  "text": "Moscheea Lolwa Abdullah Al-Omran este un lăcaș de cult musulman care îmbogățește infrastructura religioasă din regiunea Khiran Creek.",
+                  "category": "landmark",
+                  "coords": [
+                        48.384426,
+                        28.658376
+                  ]
+            },
+            {
+                  "name": "Ibrahim Al-Nakhai",
+                  "text": "Numită după învățatul Ibrahim Al-Nakhai, această moschee este un loc de reflecție interioară pentru comunitatea musulmană de la Khiran Creek.",
+                  "category": "landmark",
+                  "coords": [
+                        48.384282,
+                        28.664033
+                  ]
+            },
+            {
+                  "name": "Waleed Khaled Youssef Al-Marzouq",
+                  "text": "Moscheea Waleed Khaled Youssef Al-Marzouq este un lăcaș de cult islamic ce deservește credincioșii din apropierea ariei naturale Khiran Creek.",
+                  "category": "landmark",
+                  "coords": [
+                        48.372625,
+                        28.670267
+                  ]
+            },
+            {
+                  "name": "Fahad Khaled Al-Kulaib",
+                  "text": "Moscheea Fahad Khaled Al-Kulaib oferă spațiu pentru abluțiuni rituale și rugăciunile zilnice ale musulmanilor la Khiran Creek.",
+                  "category": "landmark",
+                  "coords": [
+                        48.365318,
+                        28.662458
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abdullaziz Abdullah Al Heran",
+                  "text": "The Abdullaziz Abdullah Al Heran Mosque is an Islamic prayer site located in the Khiran Creek area, open to worshippers in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        48.383306,
+                        28.673002
+                  ]
+            },
+            {
+                  "name": "Abu Amer Al-Ash'ari",
+                  "text": "The mosque named after Abu Amer Al-Ash'ari is a spiritual center for the Muslim community near the Khiran Creek.",
+                  "category": "landmark",
+                  "coords": [
+                        48.366051,
+                        28.674754
+                  ]
+            },
+            {
+                  "name": "Abdulaziz Al Said",
+                  "text": "The Abdulaziz Al Said Mosque offers a quiet place for Islamic prayer for local worshippers by the Khiran Creek.",
+                  "category": "landmark",
+                  "coords": [
+                        48.389471,
+                        28.659994
+                  ]
+            },
+            {
+                  "name": "Suleiman Al-Qudaibi and his wife, Ghanima Al-Khaled",
+                  "text": "This mosque near Khiran Creek, named after Suleiman Al-Qudaibi and his wife Ghanima Al-Khaled, reflects local Islamic philanthropic traditions.",
+                  "category": "landmark",
+                  "coords": [
+                        48.38857,
+                        28.653487
+                  ]
+            },
+            {
+                  "name": "Al Faris",
+                  "text": "The Al Faris Mosque is a religious meeting point for Muslims, used for daily prayers in the coastal region of the Khiran Creek.",
+                  "category": "landmark",
+                  "coords": [
+                        48.385469,
+                        28.631584
+                  ]
+            },
+            {
+                  "name": "Mahmoud bin Al-Rabee Al-Ansari",
+                  "text": "The Mahmoud bin Al-Rabee Al-Ansari Mosque serves as an Islamic prayer site for residents in the Khiran Creek area.",
+                  "category": "landmark",
+                  "coords": [
+                        48.373501,
+                        28.661881
+                  ]
+            },
+            {
+                  "name": "Lolwa Abdullah Al-Omran",
+                  "text": "The Lolwa Abdullah Al-Omran Mosque is a Muslim place of worship that enriches the religious infrastructure in the Khiran Creek region.",
+                  "category": "landmark",
+                  "coords": [
+                        48.384426,
+                        28.658376
+                  ]
+            },
+            {
+                  "name": "Ibrahim Al-Nakhai",
+                  "text": "Named after the scholar Ibrahim Al-Nakhai, this mosque is a place of inner reflection for the Muslim community at the Khiran Creek.",
+                  "category": "landmark",
+                  "coords": [
+                        48.384282,
+                        28.664033
+                  ]
+            },
+            {
+                  "name": "Waleed Khaled Youssef Al-Marzouq",
+                  "text": "The Waleed Khaled Youssef Al-Marzouq Mosque is an Islamic place of worship serving believers near the Khiran Creek nature area.",
+                  "category": "landmark",
+                  "coords": [
+                        48.372625,
+                        28.670267
+                  ]
+            },
+            {
+                  "name": "Fahad Khaled Al-Kulaib",
+                  "text": "The Fahad Khaled Al-Kulaib Mosque provides space for ritual ablutions and the daily prayers of Muslims at the Khiran Creek.",
+                  "category": "landmark",
+                  "coords": [
+                        48.365318,
+                        28.662458
+                  ]
+            }
+      ]
+},
     parent: "KW",
     type: "river",
     name: { de: "Khiran-Bach Naturgebiet", hu: "Hirán-patak természetvédelmi terület", ro: "Zona naturală Khiran Creek", en: "Khiran Creek Nature Area" },

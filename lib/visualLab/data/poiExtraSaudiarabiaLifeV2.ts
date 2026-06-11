@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraSaudiarabiaLifeV2: POI[] = [
   {
-    id: "sa-king-abdullah-park-life-v2",
+    id: "sa-king-abdullah-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Saad bin Maaz Masjid",
+                  "text": "Die Saad bin Maaz Masjid in Riad ist ein städtisches Zentrum für islamische Gebete in der Nähe des King Abdullah Parks.",
+                  "category": "landmark",
+                  "coords": [
+                        46.721339,
+                        24.660171
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saad bin Maaz Masjid",
+                  "text": "A rijádi Saad bin Maaz Masjid az iszlám imák városi központja a King Abdullah Park közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        46.721339,
+                        24.660171
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saad bin Maaz Masjid",
+                  "text": "Saad bin Maaz Masjid din Riad este un centru urban pentru rugăciunile islamice în apropierea Parcului King Abdullah.",
+                  "category": "landmark",
+                  "coords": [
+                        46.721339,
+                        24.660171
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saad bin Maaz Masjid",
+                  "text": "Saad bin Maaz Masjid in Riyadh is an urban center for Islamic prayers near King Abdullah Park.",
+                  "category": "landmark",
+                  "coords": [
+                        46.721339,
+                        24.660171
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "SA-01",
     coords: [46.737, 24.664],
@@ -39,7 +84,160 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     },
   },
   {
-    id: "sa-salam-park-life-v2",
+    id: "sa-salam-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Old Ash Shimaisi Mosque",
+                  "text": "Die Old Ash Shimaisi Mosque ist ein traditionsreiches islamisches Gebetshaus nahe dem Salam Park in Riad.",
+                  "category": "landmark",
+                  "coords": [
+                        46.703042,
+                        24.627159
+                  ]
+            },
+            {
+                  "name": "Al Owaimriyah Ash Shimali",
+                  "text": "Die Al Owaimriyah Ash Shimali Moschee bietet der muslimischen Gemeinde nahe dem Salam Park einen Raum für das Gebet.",
+                  "category": "landmark",
+                  "coords": [
+                        46.701563,
+                        24.627051
+                  ]
+            },
+            {
+                  "name": "Sheikh Mohammed Bin Ibrahim Mosque",
+                  "text": "Diese Moschee im Bereich des Salam Parks ist ein lokaler Mittelpunkt des islamischen Glaubenslebens.",
+                  "category": "landmark",
+                  "coords": [
+                        46.712285,
+                        24.627556
+                  ]
+            },
+            {
+                  "name": "Suq az Zall",
+                  "text": "Der historische Suq az Zall in Riad ist ein belebter Markt, der für seine traditionellen Teppiche und Antiquitäten bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        46.712238,
+                        24.628967
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Old Ash Shimaisi Mosque",
+                  "text": "Az Old Ash Shimaisi Mecset egy nagy múltú iszlám imaház a rijádi Salam Park közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        46.703042,
+                        24.627159
+                  ]
+            },
+            {
+                  "name": "Al Owaimriyah Ash Shimali",
+                  "text": "Az Al Owaimriyah Ash Shimali Mecset teret biztosít a Salam Park melletti muszlim közösségnek az imádkozásra.",
+                  "category": "landmark",
+                  "coords": [
+                        46.701563,
+                        24.627051
+                  ]
+            },
+            {
+                  "name": "Sheikh Mohammed Bin Ibrahim Mosque",
+                  "text": "Ez a Salam Park területén található mecset az iszlám hitélet helyi központja.",
+                  "category": "landmark",
+                  "coords": [
+                        46.712285,
+                        24.627556
+                  ]
+            },
+            {
+                  "name": "Suq az Zall",
+                  "text": "A történelmi rijádi Suq az Zall egy nyüzsgő piac, amely hagyományos szőnyegeiről és régiségeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        46.712238,
+                        24.628967
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Old Ash Shimaisi Mosque",
+                  "text": "Vechea Moschee Ash Shimaisi este o casă de rugăciune islamică tradițională lângă Salam Park din Riad.",
+                  "category": "landmark",
+                  "coords": [
+                        46.703042,
+                        24.627159
+                  ]
+            },
+            {
+                  "name": "Al Owaimriyah Ash Shimali",
+                  "text": "Moscheea Al Owaimriyah Ash Shimali oferă comunității musulmane de lângă Salam Park un spațiu pentru rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        46.701563,
+                        24.627051
+                  ]
+            },
+            {
+                  "name": "Sheikh Mohammed Bin Ibrahim Mosque",
+                  "text": "Această moschee din zona Parcului Salam este un punct central local al vieții religioase islamice.",
+                  "category": "landmark",
+                  "coords": [
+                        46.712285,
+                        24.627556
+                  ]
+            },
+            {
+                  "name": "Suq az Zall",
+                  "text": "Istoricul Suq az Zall din Riad este o piață plină de viață, cunoscută pentru covoarele și antichitățile sale tradiționale.",
+                  "category": "cultural",
+                  "coords": [
+                        46.712238,
+                        24.628967
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Ash Shimaisi Mosque",
+                  "text": "Old Ash Shimaisi Mosque is a traditional Islamic prayer house near Salam Park in Riyadh.",
+                  "category": "landmark",
+                  "coords": [
+                        46.703042,
+                        24.627159
+                  ]
+            },
+            {
+                  "name": "Al Owaimriyah Ash Shimali",
+                  "text": "Al Owaimriyah Ash Shimali Mosque provides a space for prayer for the Muslim community near Salam Park.",
+                  "category": "landmark",
+                  "coords": [
+                        46.701563,
+                        24.627051
+                  ]
+            },
+            {
+                  "name": "Sheikh Mohammed Bin Ibrahim Mosque",
+                  "text": "This mosque in the area of Salam Park is a local focal point of Islamic religious life.",
+                  "category": "landmark",
+                  "coords": [
+                        46.712285,
+                        24.627556
+                  ]
+            },
+            {
+                  "name": "Suq az Zall",
+                  "text": "The historic Suq az Zall in Riyadh is a bustling market known for its traditional carpets and antiques.",
+                  "category": "cultural",
+                  "coords": [
+                        46.712238,
+                        24.628967
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "SA-01",
     coords: [46.711, 24.627],
@@ -75,7 +273,196 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     },
   },
   {
-    id: "sa-al-hada-rose-farms-life-v2",
+    id: "sa-al-hada-rose-farms-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Strawberrie Farm",
+                  "text": "Ein Bauernhof in der kühlen Al-Hada-Region, auf dem Besucher frische Erdbeeren direkt vom Feld pflücken können.",
+                  "category": "landmark",
+                  "coords": [
+                        40.272082,
+                        21.355051
+                  ]
+            },
+            {
+                  "name": "zipLeneksa",
+                  "text": "Eine aufregende Zipline-Attraktion, die über die zerklüfteten Hänge des Al-Hada-Gebirges führt.",
+                  "category": "landmark",
+                  "coords": [
+                        40.267381,
+                        21.3641
+                  ]
+            },
+            {
+                  "name": "Water Oasis",
+                  "text": "Ein familienfreundlicher Wasserpark in den Bergen von Al-Hada, der Abkühlung von der Hitze bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        40.230394,
+                        21.355808
+                  ]
+            },
+            {
+                  "name": "WADI MEHRIM MIQAT",
+                  "text": "Ein wichtiges religiöses Denkmal, das die Miqat-Grenze markiert, an der Pilger ihre Weihe für die Reise nach Mekka ablegen.",
+                  "category": "historical",
+                  "coords": [
+                        40.327057,
+                        21.34631
+                  ]
+            },
+            {
+                  "name": "Vegetable market",
+                  "text": "Ein lokaler Markt in Al-Hada, bekannt für frisches Obst und Gemüse aus der fruchtbaren Region Taif.",
+                  "category": "cultural",
+                  "coords": [
+                        40.263012,
+                        21.371763
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Strawberrie Farm",
+                  "text": "Farm a hűvös Al-Hada régióban, ahol a látogatók friss epret szedhetnek közvetlenül a földekről.",
+                  "category": "landmark",
+                  "coords": [
+                        40.272082,
+                        21.355051
+                  ]
+            },
+            {
+                  "name": "zipLeneksa",
+                  "text": "Izgalmas zipline-pálya, amely az Al-Hada-hegység sziklás lejtői felett halad át.",
+                  "category": "landmark",
+                  "coords": [
+                        40.267381,
+                        21.3641
+                  ]
+            },
+            {
+                  "name": "Water Oasis",
+                  "text": "Családbarát vízi park Al-Hada hegyei között, amely felfrissülést nyújt a hőségben.",
+                  "category": "recreational",
+                  "coords": [
+                        40.230394,
+                        21.355808
+                  ]
+            },
+            {
+                  "name": "WADI MEHRIM MIQAT",
+                  "text": "Fontos vallási emlékhely, amely a Miqat határát jelzi, ahol a zarándokok megkezdik szent útjukat Mekka felé.",
+                  "category": "historical",
+                  "coords": [
+                        40.327057,
+                        21.34631
+                  ]
+            },
+            {
+                  "name": "Vegetable market",
+                  "text": "Helyi piac Al-Hadában, amely a termékeny Taif régió friss gyümölcseiről és zöldségeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        40.263012,
+                        21.371763
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Strawberrie Farm",
+                  "text": "O fermă din regiunea răcoroasă Al-Hada, unde vizitatorii pot culege căpșuni proaspete direct de pe câmp.",
+                  "category": "landmark",
+                  "coords": [
+                        40.272082,
+                        21.355051
+                  ]
+            },
+            {
+                  "name": "zipLeneksa",
+                  "text": "O atracție palpitantă cu tiroliană care trece peste pantele accidentate ale munților Al-Hada.",
+                  "category": "landmark",
+                  "coords": [
+                        40.267381,
+                        21.3641
+                  ]
+            },
+            {
+                  "name": "Water Oasis",
+                  "text": "Un parc acvatic pentru familii în munții Al-Hada, oferind relaxare și distracție la înălțime.",
+                  "category": "recreational",
+                  "coords": [
+                        40.230394,
+                        21.355808
+                  ]
+            },
+            {
+                  "name": "WADI MEHRIM MIQAT",
+                  "text": "Un monument religios important care marchează limita Miqat, unde pelerinii intră în starea sacră pentru călătoria spre Mecca.",
+                  "category": "historical",
+                  "coords": [
+                        40.327057,
+                        21.34631
+                  ]
+            },
+            {
+                  "name": "Vegetable market",
+                  "text": "O piață locală din Al-Hada, cunoscută pentru fructele și legumele proaspete din regiunea fertilă Taif.",
+                  "category": "cultural",
+                  "coords": [
+                        40.263012,
+                        21.371763
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Strawberrie Farm",
+                  "text": "A farm in the cool Al-Hada region where visitors can pick fresh strawberries directly from the fields.",
+                  "category": "landmark",
+                  "coords": [
+                        40.272082,
+                        21.355051
+                  ]
+            },
+            {
+                  "name": "zipLeneksa",
+                  "text": "An exciting zipline attraction that passes over the rugged slopes of the Al-Hada mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        40.267381,
+                        21.3641
+                  ]
+            },
+            {
+                  "name": "Water Oasis",
+                  "text": "A family-friendly water park set in the Al-Hada mountains, offering a cool escape from the heat.",
+                  "category": "recreational",
+                  "coords": [
+                        40.230394,
+                        21.355808
+                  ]
+            },
+            {
+                  "name": "WADI MEHRIM MIQAT",
+                  "text": "An important religious landmark marking the Miqat boundary where pilgrims enter the sacred state for the journey to Mecca.",
+                  "category": "historical",
+                  "coords": [
+                        40.327057,
+                        21.34631
+                  ]
+            },
+            {
+                  "name": "Vegetable market",
+                  "text": "A local marketplace in Al-Hada known for fresh fruits and vegetables from the fertile Taif region.",
+                  "category": "cultural",
+                  "coords": [
+                        40.263012,
+                        21.371763
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "SA-02",
     coords: [40.320, 21.326],
@@ -111,7 +498,268 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     },
   },
   {
-    id: "sa-fakieh-aquarium-life-v2",
+    id: "sa-fakieh-aquarium-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kayyal Roundabout Monument",
+                  "text": "Ein skulpturales Wahrzeichen an einem großen Verkehrsknotenpunkt in der Kayyal-Straße in Dschidda.",
+                  "category": "historical",
+                  "coords": [
+                        39.153069,
+                        21.56615
+                  ]
+            },
+            {
+                  "name": "Fakieh Aquarium",
+                  "text": "Dieses Aquarium an der Corniche von Dschidda zeigt exotische Arten aus dem Roten Meer und Delfinshows.",
+                  "category": "recreational",
+                  "coords": [
+                        39.109367,
+                        21.572294
+                  ]
+            },
+            {
+                  "name": "Sling Shot",
+                  "text": "Ein adrenalingeladenes Fahrgeschäft, das einen weiten Blick über die Küste von Dschidda bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        39.110471,
+                        21.568609
+                  ]
+            },
+            {
+                  "name": "Roller Coaster",
+                  "text": "Eine aufregende Hochgeschwindigkeits-Achterbahn im Al Shallal Theme Park.",
+                  "category": "landmark",
+                  "coords": [
+                        39.111054,
+                        21.566441
+                  ]
+            },
+            {
+                  "name": "Rawdah park monument",
+                  "text": "Eine moderne Skulptur inmitten der gepflegten Grünanlagen des städtischen Rawdah-Parks.",
+                  "category": "historical",
+                  "coords": [
+                        39.14588,
+                        21.5557
+                  ]
+            },
+            {
+                  "name": "Prince Sultan Palace",
+                  "text": "Eine prächtige königliche Residenz, die traditionelle und moderne saudi-arabische Architekturelemente vereint.",
+                  "category": "castle",
+                  "coords": [
+                        39.140637,
+                        21.579177
+                  ]
+            },
+            {
+                  "name": "Kayyal Mosque",
+                  "text": "Eine lokale Moschee im Viertel Al Rawdah mit einem traditionellen weißen Minarett.",
+                  "category": "landmark",
+                  "coords": [
+                        39.157854,
+                        21.566462
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kayyal Roundabout Monument",
+                  "text": "Szobrászati jelkép egy forgalmas csomópontnál a dzsiddai Kayyal utcában.",
+                  "category": "historical",
+                  "coords": [
+                        39.153069,
+                        21.56615
+                  ]
+            },
+            {
+                  "name": "Fakieh Aquarium",
+                  "text": "Ez a dzsiddai tengerparti akvárium a Vörös-tenger egzotikus fajait és delfinshow-kat mutat be.",
+                  "category": "recreational",
+                  "coords": [
+                        39.109367,
+                        21.572294
+                  ]
+            },
+            {
+                  "name": "Sling Shot",
+                  "text": "Adrenalindús vidámparki játék, amely pazar kilátást nyújt Dzsidda tengerpartjára.",
+                  "category": "landmark",
+                  "coords": [
+                        39.110471,
+                        21.568609
+                  ]
+            },
+            {
+                  "name": "Roller Coaster",
+                  "text": "Izgalmas, nagy sebességű hullámvasút az Al Shallal vidámpark területén.",
+                  "category": "landmark",
+                  "coords": [
+                        39.111054,
+                        21.566441
+                  ]
+            },
+            {
+                  "name": "Rawdah park monument",
+                  "text": "Modern szobor a városi Rawdah Park gondozott zöldövezetében.",
+                  "category": "historical",
+                  "coords": [
+                        39.14588,
+                        21.5557
+                  ]
+            },
+            {
+                  "name": "Prince Sultan Palace",
+                  "text": "Impozáns királyi rezidencia, amely a hagyományos és a modern szaúdi építészet elemeit ötvözi.",
+                  "category": "castle",
+                  "coords": [
+                        39.140637,
+                        21.579177
+                  ]
+            },
+            {
+                  "name": "Kayyal Mosque",
+                  "text": "Helyi mecset az Al Rawdah negyedben, jellegzetes fehér minarettel.",
+                  "category": "landmark",
+                  "coords": [
+                        39.157854,
+                        21.566462
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kayyal Roundabout Monument",
+                  "text": "Un monument sculptural situat într-o intersecție majoră de pe strada Kayyal din Jeddah.",
+                  "category": "historical",
+                  "coords": [
+                        39.153069,
+                        21.56615
+                  ]
+            },
+            {
+                  "name": "Fakieh Aquarium",
+                  "text": "Acest acvariu de pe faleza din Jeddah prezintă specii exotice din Marea Roșie și spectacole cu delfini.",
+                  "category": "recreational",
+                  "coords": [
+                        39.109367,
+                        21.572294
+                  ]
+            },
+            {
+                  "name": "Sling Shot",
+                  "text": "O atracție plină de adrenalină care oferă o vedere panoramică asupra coastei din Jeddah.",
+                  "category": "landmark",
+                  "coords": [
+                        39.110471,
+                        21.568609
+                  ]
+            },
+            {
+                  "name": "Roller Coaster",
+                  "text": "Un roller coaster palpitant de mare viteză situat în parcul de distracții Al Shallal.",
+                  "category": "landmark",
+                  "coords": [
+                        39.111054,
+                        21.566441
+                  ]
+            },
+            {
+                  "name": "Rawdah park monument",
+                  "text": "O sculptură modernă situată în mijlocul spațiilor verzi amenajate din Parcul Rawdah.",
+                  "category": "historical",
+                  "coords": [
+                        39.14588,
+                        21.5557
+                  ]
+            },
+            {
+                  "name": "Prince Sultan Palace",
+                  "text": "O reședință regală grandioasă care expune elemente arhitecturale tradiționale și moderne saudite.",
+                  "category": "castle",
+                  "coords": [
+                        39.140637,
+                        21.579177
+                  ]
+            },
+            {
+                  "name": "Kayyal Mosque",
+                  "text": "O moschee locală din cartierul Al Rawdah, cu un minaret alb tradițional.",
+                  "category": "landmark",
+                  "coords": [
+                        39.157854,
+                        21.566462
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kayyal Roundabout Monument",
+                  "text": "A sculptural landmark located at a major traffic junction on Kayyal Street in Jeddah.",
+                  "category": "historical",
+                  "coords": [
+                        39.153069,
+                        21.56615
+                  ]
+            },
+            {
+                  "name": "Fakieh Aquarium",
+                  "text": "This aquarium on the Jeddah Corniche features exotic Red Sea species and dolphin shows.",
+                  "category": "recreational",
+                  "coords": [
+                        39.109367,
+                        21.572294
+                  ]
+            },
+            {
+                  "name": "Sling Shot",
+                  "text": "A high-adrenaline amusement ride offering sweeping views over the Jeddah coastline.",
+                  "category": "landmark",
+                  "coords": [
+                        39.110471,
+                        21.568609
+                  ]
+            },
+            {
+                  "name": "Roller Coaster",
+                  "text": "A thrilling high-speed roller coaster located within the Al Shallal Theme Park.",
+                  "category": "landmark",
+                  "coords": [
+                        39.111054,
+                        21.566441
+                  ]
+            },
+            {
+                  "name": "Rawdah park monument",
+                  "text": "A modern sculpture set amidst the landscaped greenery of the urban Rawdah Park.",
+                  "category": "historical",
+                  "coords": [
+                        39.14588,
+                        21.5557
+                  ]
+            },
+            {
+                  "name": "Prince Sultan Palace",
+                  "text": "A grand royal residence displaying traditional and modern Saudi architectural elements.",
+                  "category": "castle",
+                  "coords": [
+                        39.140637,
+                        21.579177
+                  ]
+            },
+            {
+                  "name": "Kayyal Mosque",
+                  "text": "A local mosque in the Al Rawdah district featuring a traditional white minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        39.157854,
+                        21.566462
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "SA-02",
     coords: [39.112, 21.574],
@@ -147,7 +795,124 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     },
   },
   {
-    id: "sa-al-shallal-theme-park-life-v2",
+    id: "sa-al-shallal-theme-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bin Laden Mosque",
+                  "text": "Die vom Architekten Abdel-Wahed El-Wakil entworfene Bin Laden Moschee in Dschidda vereint traditionelle islamische Ästhetik mit moderner Bauweise.",
+                  "category": "landmark",
+                  "coords": [
+                        39.121311,
+                        21.597947
+                  ]
+            },
+            {
+                  "name": "Island Mosque",
+                  "text": "Die Island Mosque in Dschidda, ein Werk von Abdel-Wahed El-Wakil, besticht durch ihre einzigartige Lage und klassische islamische Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        39.105416,
+                        21.597095
+                  ]
+            },
+            {
+                  "name": "Abdulqadir Faqih Mosque",
+                  "text": "Die Abdulqadir Faqih Moschee ist ein religiöser Anziehungspunkt für Muslime nahe dem Küstengebiet von Dschidda.",
+                  "category": "landmark",
+                  "coords": [
+                        39.10786,
+                        21.58721
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bin Laden Mosque",
+                  "text": "Az Abdel-Wahed El-Wakil építész által tervezett dzsiddai Bin Laden Mecset a hagyományos iszlám esztétikát ötvözi a modern építkezéssel.",
+                  "category": "landmark",
+                  "coords": [
+                        39.121311,
+                        21.597947
+                  ]
+            },
+            {
+                  "name": "Island Mosque",
+                  "text": "A dzsiddai Sziget-mecset, Abdel-Wahed El-Wakil alkotása, egyedi elhelyezkedésével és klasszikus iszlám építészetével varázsol el.",
+                  "category": "landmark",
+                  "coords": [
+                        39.105416,
+                        21.597095
+                  ]
+            },
+            {
+                  "name": "Abdulqadir Faqih Mosque",
+                  "text": "Az Abdulqadir Faqih Mecset a muszlimok vallási vonzereje Dzsidda part menti területe közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        39.10786,
+                        21.58721
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bin Laden Mosque",
+                  "text": "Proiectată de arhitectul Abdel-Wahed El-Wakil, Moscheea Bin Laden din Jeddah combină estetica islamică tradițională cu construcția modernă.",
+                  "category": "landmark",
+                  "coords": [
+                        39.121311,
+                        21.597947
+                  ]
+            },
+            {
+                  "name": "Island Mosque",
+                  "text": "Moscheea Insulei din Jeddah, o operă a lui Abdel-Wahed El-Wakil, captivează prin locația sa unică și arhitectura islamică clasică.",
+                  "category": "landmark",
+                  "coords": [
+                        39.105416,
+                        21.597095
+                  ]
+            },
+            {
+                  "name": "Abdulqadir Faqih Mosque",
+                  "text": "Moscheea Abdulqadir Faqih este o atracție religioasă pentru musulmani în apropierea zonei de coastă din Jeddah.",
+                  "category": "landmark",
+                  "coords": [
+                        39.10786,
+                        21.58721
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bin Laden Mosque",
+                  "text": "Designed by architect Abdel-Wahed El-Wakil, the Bin Laden Mosque in Jeddah combines traditional Islamic aesthetics with modern construction.",
+                  "category": "landmark",
+                  "coords": [
+                        39.121311,
+                        21.597947
+                  ]
+            },
+            {
+                  "name": "Island Mosque",
+                  "text": "The Island Mosque in Jeddah, a work by Abdel-Wahed El-Wakil, captivates with its unique location and classical Islamic architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        39.105416,
+                        21.597095
+                  ]
+            },
+            {
+                  "name": "Abdulqadir Faqih Mosque",
+                  "text": "Abdulqadir Faqih Mosque is a religious focal point for Muslims near the coastal area of Jeddah.",
+                  "category": "landmark",
+                  "coords": [
+                        39.10786,
+                        21.58721
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "SA-02",
     coords: [39.111, 21.579],
@@ -183,7 +948,232 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     },
   },
   {
-    id: "sa-riyadh-zoo-life-v2",
+    id: "sa-riyadh-zoo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Malaz Zoo",
+                  "text": "Der größte Zoo Saudi-Arabiens beherbergt über 1500 Tiere, darunter Gazellen und Elefanten in weitläufigen Gehegen.",
+                  "category": "recreational",
+                  "coords": [
+                        46.7373,
+                        24.676804
+                  ]
+            },
+            {
+                  "name": "Palace of King Abd Allah Ibn Abd Al Aziz",
+                  "text": "Ein prächtiger königlicher Palast mit traditioneller saudi-arabischer Architektur und weitläufigen, von Mauern umgebenen Gärten.",
+                  "category": "castle",
+                  "coords": [
+                        46.746739,
+                        24.719663
+                  ]
+            },
+            {
+                  "name": "Al Rayan Mosque",
+                  "text": "Eine moderne Moschee im Al-Rayan-Viertel, die sich durch ihr hohes weißes Minarett und die weitläufige Gebetshalle auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        46.777349,
+                        24.702422
+                  ]
+            },
+            {
+                  "name": "Al Rawabi Mosque",
+                  "text": "Diese Moschee im Wohnviertel Al Rawabi dient als lokales Zentrum mit klassischer islamischer Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        46.782971,
+                        24.699547
+                  ]
+            },
+            {
+                  "name": "Abd Allah Al Mubereick",
+                  "text": "Ein ruhiger religiöser Ort im Herzen von Riad, der für seine schlichte Eleganz und die friedliche Atmosphäre bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        46.786831,
+                        24.701043
+                  ]
+            },
+            {
+                  "name": "public toilet men's and womens",
+                  "text": "Moderne öffentliche Sanitäreinrichtungen in der Nähe des Malaz-Zoos mit getrennten Bereichen für Männer und Frauen.",
+                  "category": "recreational",
+                  "coords": [
+                        46.728528,
+                        24.675511
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Malaz Zoo",
+                  "text": "Szaúd-Arábia legnagyobb állatkertje több mint 1500 állatnak ad otthont, köztük gazelláknak és elefántoknak.",
+                  "category": "recreational",
+                  "coords": [
+                        46.7373,
+                        24.676804
+                  ]
+            },
+            {
+                  "name": "Palace of King Abd Allah Ibn Abd Al Aziz",
+                  "text": "Pompás királyi palota hagyományos szaúdi építészettel és kiterjedt, fallal körülvett kertekkel.",
+                  "category": "castle",
+                  "coords": [
+                        46.746739,
+                        24.719663
+                  ]
+            },
+            {
+                  "name": "Al Rayan Mosque",
+                  "text": "Modern mecset az Al Rayan negyedben, melyet magas fehér minaretje és tágas imaterme határoz meg.",
+                  "category": "landmark",
+                  "coords": [
+                        46.777349,
+                        24.702422
+                  ]
+            },
+            {
+                  "name": "Al Rawabi Mosque",
+                  "text": "Ez az Al Rawabi lakónegyedben található mecset helyi központként szolgál, klasszikus iszlám építészettel.",
+                  "category": "landmark",
+                  "coords": [
+                        46.782971,
+                        24.699547
+                  ]
+            },
+            {
+                  "name": "Abd Allah Al Mubereick",
+                  "text": "Csendes vallási hely Rijád szívében, amely egyszerű eleganciájáról és békés légköréről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        46.786831,
+                        24.701043
+                  ]
+            },
+            {
+                  "name": "public toilet men's and womens",
+                  "text": "Modern nyilvános illemhelyek a Malaz Állatkert közelében, külön férfi és női részlegekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        46.728528,
+                        24.675511
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Malaz Zoo",
+                  "text": "Cea mai mare grădină zoologică din Arabia Saudită găzduiește peste 1500 de animale, inclusiv gazele și elefanți.",
+                  "category": "recreational",
+                  "coords": [
+                        46.7373,
+                        24.676804
+                  ]
+            },
+            {
+                  "name": "Palace of King Abd Allah Ibn Abd Al Aziz",
+                  "text": "Un palat regal magnific, cu arhitectură tradițională saudită și grădini vaste înconjurate de ziduri.",
+                  "category": "castle",
+                  "coords": [
+                        46.746739,
+                        24.719663
+                  ]
+            },
+            {
+                  "name": "Al Rayan Mosque",
+                  "text": "O moschee modernă în cartierul Al Rayan, remarcabilă prin minaretul său înalt alb și sala de rugăciune spațioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        46.777349,
+                        24.702422
+                  ]
+            },
+            {
+                  "name": "Al Rawabi Mosque",
+                  "text": "Această moschee din cartierul rezidențial Al Rawabi servește ca centru local, având o arhitectură islamică clasică.",
+                  "category": "landmark",
+                  "coords": [
+                        46.782971,
+                        24.699547
+                  ]
+            },
+            {
+                  "name": "Abd Allah Al Mubereick",
+                  "text": "Un lăcaș religios liniștit în inima Riadului, cunoscut pentru eleganța sa simplă și atmosfera pașnică.",
+                  "category": "landmark",
+                  "coords": [
+                        46.786831,
+                        24.701043
+                  ]
+            },
+            {
+                  "name": "public toilet men's and womens",
+                  "text": "Facilități sanitare publice moderne lângă Grădina Zoologică Malaz, cu secțiuni separate pentru bărbați și femei.",
+                  "category": "recreational",
+                  "coords": [
+                        46.728528,
+                        24.675511
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Malaz Zoo",
+                  "text": "Saudi Arabia's largest zoo houses over 1,500 animals, including gazelles and elephants in spacious enclosures.",
+                  "category": "recreational",
+                  "coords": [
+                        46.7373,
+                        24.676804
+                  ]
+            },
+            {
+                  "name": "Palace of King Abd Allah Ibn Abd Al Aziz",
+                  "text": "A magnificent royal palace featuring traditional Saudi architecture and extensive walled gardens.",
+                  "category": "castle",
+                  "coords": [
+                        46.746739,
+                        24.719663
+                  ]
+            },
+            {
+                  "name": "Al Rayan Mosque",
+                  "text": "A modern mosque in the Al Rayan district, characterized by its tall white minaret and spacious prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        46.777349,
+                        24.702422
+                  ]
+            },
+            {
+                  "name": "Al Rawabi Mosque",
+                  "text": "Located in the Al Rawabi residential area, this mosque serves as a local hub with classic Islamic architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        46.782971,
+                        24.699547
+                  ]
+            },
+            {
+                  "name": "Abd Allah Al Mubereick",
+                  "text": "A serene religious site in the heart of Riyadh, known for its simple elegance and peaceful atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        46.786831,
+                        24.701043
+                  ]
+            },
+            {
+                  "name": "public toilet men's and womens",
+                  "text": "Modern public sanitation facilities near Malaz Zoo with separated sections for men and women.",
+                  "category": "recreational",
+                  "coords": [
+                        46.728528,
+                        24.675511
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "SA-01",
     coords: [46.735, 24.673],
@@ -219,7 +1209,412 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     },
   },
   {
-    id: "sa-al-ahsa-date-farms-life-v2",
+    id: "sa-al-ahsa-date-farms-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirror Pilars",
+                  "text": "Moderne künstlerische Installationen in der Al-Ahsa-Oase, die das Licht inmitten der weitläufigen Dattelpalmenhaine reflektieren.",
+                  "category": "landmark",
+                  "coords": [
+                        49.69124,
+                        25.411717
+                  ]
+            },
+            {
+                  "name": "ALaroos",
+                  "text": "Eine historische Festungsanlage in der Al-Ahsa-Oase, die einst zum Schutz der umliegenden Dattelplantagen diente.",
+                  "category": "castle",
+                  "coords": [
+                        49.646391,
+                        25.395147
+                  ]
+            },
+            {
+                  "name": "Qasr al Luwaymi",
+                  "text": "Ein traditioneller befestigter Palast in Al-Ahsa, der die typische Lehmziegel-Architektur der Region repräsentiert.",
+                  "category": "castle",
+                  "coords": [
+                        49.65,
+                        25.366667
+                  ]
+            },
+            {
+                  "name": "Qasr al Wajjaj",
+                  "text": "Die Überreste einer historischen Festung, die Einblicke in die Verteidigungsstrategien der alten Oasenstädte von Al-Ahsa geben.",
+                  "category": "historical",
+                  "coords": [
+                        49.666667,
+                        25.366667
+                  ]
+            },
+            {
+                  "name": "Qasr Muhayris",
+                  "text": "Eine kreisförmige Festungsruine auf einem Hügel, die zur Überwachung der Karawanenwege in der Region Mubarraz diente.",
+                  "category": "historical",
+                  "coords": [
+                        49.582555,
+                        25.448251
+                  ]
+            },
+            {
+                  "name": "Qasr al Hazm",
+                  "text": "Ein historisches Schloss in der Oase, das durch seine massiven Mauern und die strategische Lage zur Verteidigung bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        49.550005,
+                        25.400119
+                  ]
+            },
+            {
+                  "name": "`Ayn an Najm",
+                  "text": "Ein historischer Ort mit Schwefelquellen, dessen Ruinen heute von der Bedeutung der Thermalbäder in Al-Ahsa zeugen.",
+                  "category": "historical",
+                  "coords": [
+                        49.558598,
+                        25.406664
+                  ]
+            },
+            {
+                  "name": "Qasr Sahud",
+                  "text": "Eine bedeutende Festung aus dem späten 18. Jahrhundert in Mubarraz, die als Kaserne für das osmanische Militär diente.",
+                  "category": "landmark",
+                  "coords": [
+                        49.583342,
+                        25.414152
+                  ]
+            },
+            {
+                  "name": "Sayyidah Zaynab Mosque",
+                  "text": "Ein muslimisches Gotteshaus in der Al-Ahsa-Oase, das durch seine verzierten Minarette und die ruhige Gebetsatmosphäre besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        49.598716,
+                        25.448145
+                  ]
+            },
+            {
+                  "name": "Abdullah Naeem Mosque",
+                  "text": "Eine lokale Moschee in der Nähe der Dattelhaine, die ein wichtiger spiritueller Treffpunkt für die Gemeinde von Al-Ahsa ist.",
+                  "category": "landmark",
+                  "coords": [
+                        49.559979,
+                        25.396186
+                  ]
+            },
+            {
+                  "name": "Mashjid",
+                  "text": "Ein traditioneller Gebetsraum in der Oase, der die Schlichtheit und Funktionalität der lokalen islamischen Architektur zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        49.611518,
+                        25.416198
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirror Pilars",
+                  "text": "Modern művészeti installációk az Al-Ahszá oázisban, amelyek megtörik a fényt a kiterjedt datolyapálma-ligetek között.",
+                  "category": "landmark",
+                  "coords": [
+                        49.69124,
+                        25.411717
+                  ]
+            },
+            {
+                  "name": "ALaroos",
+                  "text": "Történelmi erődítmény az Al-Ahszá oázisban, amely egykor a környező datolyakertek védelmére szolgált.",
+                  "category": "castle",
+                  "coords": [
+                        49.646391,
+                        25.395147
+                  ]
+            },
+            {
+                  "name": "Qasr al Luwaymi",
+                  "text": "Hagyományos erődített palota Al-Ahszában, amely a régió jellegzetes agyagtégla építészetét reprezentálja.",
+                  "category": "castle",
+                  "coords": [
+                        49.65,
+                        25.366667
+                  ]
+            },
+            {
+                  "name": "Qasr al Wajjaj",
+                  "text": "Egy történelmi erőd maradványai, amelyek betekintést nyújtanak Al-Ahszá ősi oázisvárosainak védelmi stratégiáiba.",
+                  "category": "historical",
+                  "coords": [
+                        49.666667,
+                        25.366667
+                  ]
+            },
+            {
+                  "name": "Qasr Muhayris",
+                  "text": "Kör alakú erődrom egy dombtetőn, amely egykor a Mubarraz régió karavánútjainak ellenőrzésére szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        49.582555,
+                        25.448251
+                  ]
+            },
+            {
+                  "name": "Qasr al Hazm",
+                  "text": "Történelmi kastély az oázisban, amely masszív falairól és védelmi szempontból stratégiai elhelyezkedéséről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        49.550005,
+                        25.400119
+                  ]
+            },
+            {
+                  "name": "`Ayn an Najm",
+                  "text": "Kénes forrásoknál fekvő történelmi helyszín, amelynek romjai ma az al-ahszái termálfürdők egykori jelentőségéről tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        49.558598,
+                        25.406664
+                  ]
+            },
+            {
+                  "name": "Qasr Sahud",
+                  "text": "Jelentős 18. század végi erőd Mubarrazban, amely egykor az oszmán katonaság laktanyájaként szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        49.583342,
+                        25.414152
+                  ]
+            },
+            {
+                  "name": "Sayyidah Zaynab Mosque",
+                  "text": "Muszlim imaház az Al-Ahszá oázisban, amely díszes minaretjeivel és nyugodt légkörével várja a hívőket.",
+                  "category": "landmark",
+                  "coords": [
+                        49.598716,
+                        25.448145
+                  ]
+            },
+            {
+                  "name": "Abdullah Naeem Mosque",
+                  "text": "Helyi mecset a datolyaligetek közelében, amely az al-ahszái közösség fontos spirituális találkozóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        49.559979,
+                        25.396186
+                  ]
+            },
+            {
+                  "name": "Mashjid",
+                  "text": "Hagyományos imaszoba az oázisban, amely a helyi iszlám építészet egyszerűségét és funkcionalitását tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        49.611518,
+                        25.416198
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirror Pilars",
+                  "text": "Instalații artistice moderne în oaza Al-Ahsa, care reflectă lumina în mijlocul plantațiilor întinse de curmali.",
+                  "category": "landmark",
+                  "coords": [
+                        49.69124,
+                        25.411717
+                  ]
+            },
+            {
+                  "name": "ALaroos",
+                  "text": "O fortăreață istorică în oaza Al-Ahsa, care servea odinioară la protejarea plantațiilor de curmali din jur.",
+                  "category": "castle",
+                  "coords": [
+                        49.646391,
+                        25.395147
+                  ]
+            },
+            {
+                  "name": "Qasr al Luwaymi",
+                  "text": "Un palat fortificat tradițional din Al-Ahsa, care reprezintă arhitectura tipică din cărămidă de lut a regiunii.",
+                  "category": "castle",
+                  "coords": [
+                        49.65,
+                        25.366667
+                  ]
+            },
+            {
+                  "name": "Qasr al Wajjaj",
+                  "text": "Rămășițele unei fortărețe istorice care oferă o imagine asupra strategiilor defensive ale vechilor orașe-oază din Al-Ahsa.",
+                  "category": "historical",
+                  "coords": [
+                        49.666667,
+                        25.366667
+                  ]
+            },
+            {
+                  "name": "Qasr Muhayris",
+                  "text": "Ruinele unei fortărețe circulare pe un deal, folosită pentru supravegherea rutelor de caravane din regiunea Mubarraz.",
+                  "category": "historical",
+                  "coords": [
+                        49.582555,
+                        25.448251
+                  ]
+            },
+            {
+                  "name": "Qasr al Hazm",
+                  "text": "Un castel istoric în oază, cunoscut pentru zidurile sale masive și locația strategică pentru apărare.",
+                  "category": "castle",
+                  "coords": [
+                        49.550005,
+                        25.400119
+                  ]
+            },
+            {
+                  "name": "`Ayn an Najm",
+                  "text": "Un sit istoric cu izvoare sulfuroase, ale cărui ruine atestă astăzi importanța băilor termale din Al-Ahsa.",
+                  "category": "historical",
+                  "coords": [
+                        49.558598,
+                        25.406664
+                  ]
+            },
+            {
+                  "name": "Qasr Sahud",
+                  "text": "O fortăreață importantă de la sfârșitul secolului al XVIII-lea din Mubarraz, care a servit drept cazarmă pentru armata otomană.",
+                  "category": "landmark",
+                  "coords": [
+                        49.583342,
+                        25.414152
+                  ]
+            },
+            {
+                  "name": "Sayyidah Zaynab Mosque",
+                  "text": "Un lăcaș de cult musulman în oaza Al-Ahsa, remarcat prin minaretele sale decorate și atmosfera liniștită de rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        49.598716,
+                        25.448145
+                  ]
+            },
+            {
+                  "name": "Abdullah Naeem Mosque",
+                  "text": "O moschee locală lângă plantațiile de curmali, fiind un punct de întâlnire spiritual important pentru comunitatea din Al-Ahsa.",
+                  "category": "landmark",
+                  "coords": [
+                        49.559979,
+                        25.396186
+                  ]
+            },
+            {
+                  "name": "Mashjid",
+                  "text": "O sală de rugăciune tradițională în oază, care reflectă simplitatea și funcționalitatea arhitecturii islamice locale.",
+                  "category": "landmark",
+                  "coords": [
+                        49.611518,
+                        25.416198
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirror Pilars",
+                  "text": "Modern artistic installations in the Al-Ahsa oasis that reflect light amidst the extensive date palm groves.",
+                  "category": "landmark",
+                  "coords": [
+                        49.69124,
+                        25.411717
+                  ]
+            },
+            {
+                  "name": "ALaroos",
+                  "text": "A historic fortress in the Al-Ahsa oasis that once served to protect the surrounding date palm groves.",
+                  "category": "castle",
+                  "coords": [
+                        49.646391,
+                        25.395147
+                  ]
+            },
+            {
+                  "name": "Qasr al Luwaymi",
+                  "text": "A traditional fortified palace in Al-Ahsa, representing the region's typical mud-brick architecture.",
+                  "category": "castle",
+                  "coords": [
+                        49.65,
+                        25.366667
+                  ]
+            },
+            {
+                  "name": "Qasr al Wajjaj",
+                  "text": "The remnants of a historic fortress providing insight into the defensive strategies of Al-Ahsa's ancient oasis towns.",
+                  "category": "historical",
+                  "coords": [
+                        49.666667,
+                        25.366667
+                  ]
+            },
+            {
+                  "name": "Qasr Muhayris",
+                  "text": "A circular fortress ruin atop a hill, used for monitoring caravan routes in the Mubarraz region.",
+                  "category": "historical",
+                  "coords": [
+                        49.582555,
+                        25.448251
+                  ]
+            },
+            {
+                  "name": "Qasr al Hazm",
+                  "text": "A historic castle in the oasis, known for its massive walls and strategic location for defense.",
+                  "category": "castle",
+                  "coords": [
+                        49.550005,
+                        25.400119
+                  ]
+            },
+            {
+                  "name": "`Ayn an Najm",
+                  "text": "A historic site featuring sulfur springs, whose ruins today testify to the importance of thermal baths in Al-Ahsa.",
+                  "category": "historical",
+                  "coords": [
+                        49.558598,
+                        25.406664
+                  ]
+            },
+            {
+                  "name": "Qasr Sahud",
+                  "text": "A significant late 18th-century fortress in Mubarraz that served as barracks for the Ottoman military.",
+                  "category": "landmark",
+                  "coords": [
+                        49.583342,
+                        25.414152
+                  ]
+            },
+            {
+                  "name": "Sayyidah Zaynab Mosque",
+                  "text": "A Muslim place of worship in the Al-Ahsa oasis, noted for its decorated minarets and peaceful prayer atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        49.598716,
+                        25.448145
+                  ]
+            },
+            {
+                  "name": "Abdullah Naeem Mosque",
+                  "text": "A local mosque near the date groves, serving as an important spiritual meeting point for the Al-Ahsa community.",
+                  "category": "landmark",
+                  "coords": [
+                        49.559979,
+                        25.396186
+                  ]
+            },
+            {
+                  "name": "Mashjid",
+                  "text": "A traditional prayer space in the oasis, reflecting the simplicity and functionality of local Islamic architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        49.611518,
+                        25.416198
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "SA-04",
     coords: [49.605, 25.405],
@@ -291,7 +1686,268 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     },
   },
   {
-    id: "sa-national-museum-park-life-v2",
+    id: "sa-national-museum-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fernsehturm Riad",
+                  "text": "Dieser 170 Meter hohe Fernsehturm ist ein Wahrzeichen der Stadt und besitzt eine markante, glitzernde Spitze.",
+                  "category": "tower",
+                  "coords": [
+                        46.696009,
+                        24.643217
+                  ]
+            },
+            {
+                  "name": "Murraba Palace",
+                  "text": "Historischer Palast aus Lehmziegeln, der im traditionellen nedschdischen Architekturstil für König Abdulaziz erbaut wurde.",
+                  "category": "castle",
+                  "coords": [
+                        46.70927,
+                        24.646501
+                  ]
+            },
+            {
+                  "name": "National Museum of Saudi Arabia",
+                  "text": "Modernes Museum mit einer markanten geschwungenen Sandsteinmauer, das die Geschichte Arabiens präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        46.710793,
+                        24.647314
+                  ]
+            },
+            {
+                  "name": "Riyadh Water Tower",
+                  "text": "Markanter, pilzförmiger Wasserturm, der als eines der bekanntesten Wahrzeichen im Zentrum von Riad gilt.",
+                  "category": "tower",
+                  "coords": [
+                        46.712275,
+                        24.645114
+                  ]
+            },
+            {
+                  "name": "Qasr an Nasriyah",
+                  "text": "Ein ehemaliger königlicher Palastkomplex, der die Architektur der Mitte des 20. Jahrhunderts widerspiegelt.",
+                  "category": "castle",
+                  "coords": [
+                        46.680989,
+                        24.649181
+                  ]
+            },
+            {
+                  "name": "Elshekh Othman Alsalh Mosque",
+                  "text": "Elegante Moschee im Zentrum, die als ruhiger Rückzugsort für das tägliche Gebet dient.",
+                  "category": "landmark",
+                  "coords": [
+                        46.699162,
+                        24.638683
+                  ]
+            },
+            {
+                  "name": "jawhara",
+                  "text": "Eine moderne muslimische Gebetsstätte mit zeitgenössischer islamischer Kunst im Innenraum.",
+                  "category": "landmark",
+                  "coords": [
+                        46.701862,
+                        24.637967
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Riyadh TV Tower",
+                  "text": "A 170 méter magas tévétorony a város egyik jelképe, tetején egy jellegzetes, csillogó kilátóval.",
+                  "category": "tower",
+                  "coords": [
+                        46.696009,
+                        24.643217
+                  ]
+            },
+            {
+                  "name": "Murraba Palace",
+                  "text": "Hagyományos nadzsdi stílusban, vályogtéglából épült történelmi palota, amely Abdulaziz király számára készült.",
+                  "category": "castle",
+                  "coords": [
+                        46.70927,
+                        24.646501
+                  ]
+            },
+            {
+                  "name": "National Museum of Saudi Arabia",
+                  "text": "Modern múzeum jellegzetes, ívelt homokkő fallal, amely Arábia történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        46.710793,
+                        24.647314
+                  ]
+            },
+            {
+                  "name": "Riyadh Water Tower",
+                  "text": "Jellegzetes gomba alakú víztorony, amely Rijád központjának egyik legismertebb jelképe.",
+                  "category": "tower",
+                  "coords": [
+                        46.712275,
+                        24.645114
+                  ]
+            },
+            {
+                  "name": "Qasr an Nasriyah",
+                  "text": "Egykori királyi palotakomplexum, amely a 20. század közepének építészetét tükrözi.",
+                  "category": "castle",
+                  "coords": [
+                        46.680989,
+                        24.649181
+                  ]
+            },
+            {
+                  "name": "Elshekh Othman Alsalh Mosque",
+                  "text": "Elegáns központi mecset, amely nyugodt menedékként szolgál a napi imádságokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        46.699162,
+                        24.638683
+                  ]
+            },
+            {
+                  "name": "jawhara",
+                  "text": "Modern muszlim imaház, belső terében kortárs iszlám művészettel.",
+                  "category": "landmark",
+                  "coords": [
+                        46.701862,
+                        24.637967
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Riyadh TV Tower",
+                  "text": "Acest turn de televiziune de 170 de metri înălțime este un simbol al orașului, având o turlă strălucitoare distinctivă.",
+                  "category": "tower",
+                  "coords": [
+                        46.696009,
+                        24.643217
+                  ]
+            },
+            {
+                  "name": "Murraba Palace",
+                  "text": "Palat istoric construit din cărămizi de lut în stilul arhitectural tradițional Najdi pentru regele Abdulaziz.",
+                  "category": "castle",
+                  "coords": [
+                        46.70927,
+                        24.646501
+                  ]
+            },
+            {
+                  "name": "National Museum of Saudi Arabia",
+                  "text": "Muzeu modern cu un perete curbat din gresie distinctiv, care prezintă istoria Arabiei.",
+                  "category": "museum",
+                  "coords": [
+                        46.710793,
+                        24.647314
+                  ]
+            },
+            {
+                  "name": "Riyadh Water Tower",
+                  "text": "Turn de apă distinctiv în formă de ciupercă, considerat unul dintre cele mai cunoscute simboluri din centrul Rijadului.",
+                  "category": "tower",
+                  "coords": [
+                        46.712275,
+                        24.645114
+                  ]
+            },
+            {
+                  "name": "Qasr an Nasriyah",
+                  "text": "Un fost complex palatial regal care reflectă arhitectura de la mijlocul secolului al XX-lea.",
+                  "category": "castle",
+                  "coords": [
+                        46.680989,
+                        24.649181
+                  ]
+            },
+            {
+                  "name": "Elshekh Othman Alsalh Mosque",
+                  "text": "O moschee centrală elegantă, care servește ca refugiu liniștit pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        46.699162,
+                        24.638683
+                  ]
+            },
+            {
+                  "name": "jawhara",
+                  "text": "Un lăcaș de rugăciune musulman modern, cu artă islamică contemporană în interior.",
+                  "category": "landmark",
+                  "coords": [
+                        46.701862,
+                        24.637967
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Riyadh TV Tower",
+                  "text": "This 170-meter tall TV tower is a city landmark featuring a distinctive, glitzy observation pod at the top.",
+                  "category": "tower",
+                  "coords": [
+                        46.696009,
+                        24.643217
+                  ]
+            },
+            {
+                  "name": "Murraba Palace",
+                  "text": "A historic palace built from mud-bricks in the traditional Najdi architectural style for King Abdulaziz.",
+                  "category": "castle",
+                  "coords": [
+                        46.70927,
+                        24.646501
+                  ]
+            },
+            {
+                  "name": "National Museum of Saudi Arabia",
+                  "text": "A modern museum featuring a distinctive curved sandstone wall, showcasing the history of Arabia.",
+                  "category": "museum",
+                  "coords": [
+                        46.710793,
+                        24.647314
+                  ]
+            },
+            {
+                  "name": "Riyadh Water Tower",
+                  "text": "A distinctive mushroom-shaped water tower that serves as one of the most famous landmarks in central Riyadh.",
+                  "category": "tower",
+                  "coords": [
+                        46.712275,
+                        24.645114
+                  ]
+            },
+            {
+                  "name": "Qasr an Nasriyah",
+                  "text": "A former royal palace complex reflecting the architecture of the mid-20th century.",
+                  "category": "castle",
+                  "coords": [
+                        46.680989,
+                        24.649181
+                  ]
+            },
+            {
+                  "name": "Elshekh Othman Alsalh Mosque",
+                  "text": "An elegant central mosque that serves as a quiet retreat for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        46.699162,
+                        24.638683
+                  ]
+            },
+            {
+                  "name": "jawhara",
+                  "text": "A modern Muslim place of prayer featuring contemporary Islamic art in its interior.",
+                  "category": "landmark",
+                  "coords": [
+                        46.701862,
+                        24.637967
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "SA-01",
     coords: [46.711, 24.647],
@@ -327,7 +1983,268 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     },
   },
   {
-    id: "sa-jubail-mangrove-park-life-v2",
+    id: "sa-jubail-mangrove-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Salah Eddin Mosque",
+                  "text": "Die Salah Eddin Moschee ist ein islamisches Gotteshaus im urbanen Umfeld von Al Jubail.",
+                  "category": "landmark",
+                  "coords": [
+                        49.671589,
+                        26.941216
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Diese Moschee bietet der muslimischen Gemeinde in Al Jubail einen ruhigen Ort für das tägliche Gebet.",
+                  "category": "landmark",
+                  "coords": [
+                        49.623548,
+                        27.010648
+                  ]
+            },
+            {
+                  "name": "Mutlaq Bin Hadwan Al-Otaibi Mosque",
+                  "text": "Die Mutlaq Bin Hadwan Al-Otaibi Moschee ist ein religiöses Zentrum für die lokale islamische Gemeinde in Al Jubail.",
+                  "category": "landmark",
+                  "coords": [
+                        49.642843,
+                        26.969452
+                  ]
+            },
+            {
+                  "name": "Ali Ibn Abi Talib Mosque",
+                  "text": "Die nach dem vierten Kalifen benannte islamische Gebetsstätte ist ein wichtiger spiritueller Ankerpunkt in Al Jubail.",
+                  "category": "landmark",
+                  "coords": [
+                        49.639874,
+                        26.969793
+                  ]
+            },
+            {
+                  "name": "Alnabaa Mosque",
+                  "text": "Die Alnabaa Moschee zeichnet sich durch ihre Funktion als lokales islamisches Gemeindezentrum in Al Jubail aus.",
+                  "category": "landmark",
+                  "coords": [
+                        49.645136,
+                        26.968235
+                  ]
+            },
+            {
+                  "name": "Imam Bukhari Mosque",
+                  "text": "Diese nach dem berühmten Hadith-Gelehrten benannte Moschee dient als Ort der islamischen Andacht in Al Jubail.",
+                  "category": "landmark",
+                  "coords": [
+                        49.645163,
+                        26.964735
+                  ]
+            },
+            {
+                  "name": "Fatimah Mosque",
+                  "text": "Die Fatimah Moschee ist ein andächtiges islamisches Bauwerk in der städtischen Nachbarschaft von Al Jubail.",
+                  "category": "landmark",
+                  "coords": [
+                        49.652163,
+                        26.978221
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Salah Eddin Mosque",
+                  "text": "A Szaladin Mecset egy iszlám imahely Al Jubail városi környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        49.671589,
+                        26.941216
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Ez a mecset csendes helyet kínál a mindennapi imádkozásra az Al Jubail-i muszlim közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        49.623548,
+                        27.010648
+                  ]
+            },
+            {
+                  "name": "Mutlaq Bin Hadwan Al-Otaibi Mosque",
+                  "text": "A Mutlaq Bin Hadwan Al-Otaibi Mecset az Al Jubail-i helyi iszlám közösség vallási központja.",
+                  "category": "landmark",
+                  "coords": [
+                        49.642843,
+                        26.969452
+                  ]
+            },
+            {
+                  "name": "Ali Ibn Abi Talib Mosque",
+                  "text": "A negyedik kalifáról elnevezett iszlám imahely fontos spirituális horgonyzóhely Al Jubailban.",
+                  "category": "landmark",
+                  "coords": [
+                        49.639874,
+                        26.969793
+                  ]
+            },
+            {
+                  "name": "Alnabaa Mosque",
+                  "text": "Az Alnabaa Mecset az Al Jubail-i helyi iszlám közösségi központként betöltött szerepével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        49.645136,
+                        26.968235
+                  ]
+            },
+            {
+                  "name": "Imam Bukhari Mosque",
+                  "text": "A híres hadísz-tudósról elnevezett mecset az iszlám áhítat helyeként szolgál Al Jubailban.",
+                  "category": "landmark",
+                  "coords": [
+                        49.645163,
+                        26.964735
+                  ]
+            },
+            {
+                  "name": "Fatimah Mosque",
+                  "text": "A Fatimah Mecset egy áhítatos iszlám építmény Al Jubail városi negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        49.652163,
+                        26.978221
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Salah Eddin Mosque",
+                  "text": "Moscheea Salah Eddin este un lăcaș de cult islamic situat în mediul urban din Al Jubail.",
+                  "category": "landmark",
+                  "coords": [
+                        49.671589,
+                        26.941216
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Această moschee oferă comunității musulmane din Al Jubail un loc liniștit pentru rugăciunea zilnică.",
+                  "category": "landmark",
+                  "coords": [
+                        49.623548,
+                        27.010648
+                  ]
+            },
+            {
+                  "name": "Mutlaq Bin Hadwan Al-Otaibi Mosque",
+                  "text": "Moscheea Mutlaq Bin Hadwan Al-Otaibi este un centru religios pentru comunitatea islamică locală din Al Jubail.",
+                  "category": "landmark",
+                  "coords": [
+                        49.642843,
+                        26.969452
+                  ]
+            },
+            {
+                  "name": "Ali Ibn Abi Talib Mosque",
+                  "text": "Numit după al patrulea calif, acest lăcaș de rugăciune islamic este un important punct de ancorare spirituală în Al Jubail.",
+                  "category": "landmark",
+                  "coords": [
+                        49.639874,
+                        26.969793
+                  ]
+            },
+            {
+                  "name": "Alnabaa Mosque",
+                  "text": "Moscheea Alnabaa se remarcă prin funcția sa de centru comunitar islamic local în Al Jubail.",
+                  "category": "landmark",
+                  "coords": [
+                        49.645136,
+                        26.968235
+                  ]
+            },
+            {
+                  "name": "Imam Bukhari Mosque",
+                  "text": "Numită după faimosul erudit în hadith-uri, această moschee servește drept loc de devoțiune islamică în Al Jubail.",
+                  "category": "landmark",
+                  "coords": [
+                        49.645163,
+                        26.964735
+                  ]
+            },
+            {
+                  "name": "Fatimah Mosque",
+                  "text": "Moscheea Fatimah este o structură islamică de devoțiune în cartierul urban din Al Jubail.",
+                  "category": "landmark",
+                  "coords": [
+                        49.652163,
+                        26.978221
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Salah Eddin Mosque",
+                  "text": "Salah Eddin Mosque is an Islamic place of worship located in the urban setting of Al Jubail.",
+                  "category": "landmark",
+                  "coords": [
+                        49.671589,
+                        26.941216
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "This mosque provides the Muslim community in Al Jubail with a quiet place for daily prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        49.623548,
+                        27.010648
+                  ]
+            },
+            {
+                  "name": "Mutlaq Bin Hadwan Al-Otaibi Mosque",
+                  "text": "Mutlaq Bin Hadwan Al-Otaibi Mosque is a religious center for the local Islamic community in Al Jubail.",
+                  "category": "landmark",
+                  "coords": [
+                        49.642843,
+                        26.969452
+                  ]
+            },
+            {
+                  "name": "Ali Ibn Abi Talib Mosque",
+                  "text": "Named after the fourth caliph, this Islamic prayer site is an important spiritual anchor in Al Jubail.",
+                  "category": "landmark",
+                  "coords": [
+                        49.639874,
+                        26.969793
+                  ]
+            },
+            {
+                  "name": "Alnabaa Mosque",
+                  "text": "Alnabaa Mosque is distinguished by its function as a local Islamic community center in Al Jubail.",
+                  "category": "landmark",
+                  "coords": [
+                        49.645136,
+                        26.968235
+                  ]
+            },
+            {
+                  "name": "Imam Bukhari Mosque",
+                  "text": "Named after the famous Hadith scholar, this mosque serves as a place of Islamic devotion in Al Jubail.",
+                  "category": "landmark",
+                  "coords": [
+                        49.645163,
+                        26.964735
+                  ]
+            },
+            {
+                  "name": "Fatimah Mosque",
+                  "text": "Fatimah Mosque is a devout Islamic structure within the urban neighborhood of Al Jubail.",
+                  "category": "landmark",
+                  "coords": [
+                        49.652163,
+                        26.978221
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "SA-04",
     coords: [49.664, 27.025],
@@ -363,7 +2280,268 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     },
   },
   {
-    id: "sa-taif-strawberry-farm-life-v2",
+    id: "sa-taif-strawberry-farm-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sudd Thalbah",
+                  "text": "Die Ruinen eines antiken Staudamms, der einst zur Wasserbewirtschaftung in der Region Taif diente.",
+                  "category": "historical",
+                  "coords": [
+                        40.355619,
+                        21.329951
+                  ]
+            },
+            {
+                  "name": "Shubra Palace",
+                  "text": "Ein ehemaliger königlicher Palast mit markanter weißer Fassade und filigranen Holzschnitzereien.",
+                  "category": "museum",
+                  "coords": [
+                        40.415207,
+                        21.2862
+                  ]
+            },
+            {
+                  "name": "Msjd Alkw'e",
+                  "text": "Die historische Al-Kua-Moschee ist bekannt für den Stein, der an eine Rast des Propheten erinnern soll.",
+                  "category": "landmark",
+                  "coords": [
+                        40.386471,
+                        21.257088
+                  ]
+            },
+            {
+                  "name": "King Fahad ibn Abdul Aziz Mosque",
+                  "text": "Eine große Moschee in Taif, benannt nach König Fahd, die für ihre moderne Gestaltung und Kapazität bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        40.404536,
+                        21.27773
+                  ]
+            },
+            {
+                  "name": "Abdullah Al-Saad Mosque",
+                  "text": "Eine lokale Nachbarschaftsmoschee in Taif mit traditionellem Minarett und ruhigem Gebetsraum.",
+                  "category": "landmark",
+                  "coords": [
+                        40.409234,
+                        21.283692
+                  ]
+            },
+            {
+                  "name": "Ash Sherbi Mosque",
+                  "text": "Ein beschaulicher muslimischer Gebetsort im Herzen eines Wohnviertels von Taif.",
+                  "category": "landmark",
+                  "coords": [
+                        40.411658,
+                        21.282139
+                  ]
+            },
+            {
+                  "name": "Tariq ibn Ziyad Mosque",
+                  "text": "Eine nach dem berühmten Feldherrn benannte Moschee, die der lokalen Gemeinschaft in Taif dient.",
+                  "category": "landmark",
+                  "coords": [
+                        40.411055,
+                        21.283542
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sudd Thalbah",
+                  "text": "Egy ősi gát romjai, amely egykor a vízgazdálkodást szolgálta Taif régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        40.355619,
+                        21.329951
+                  ]
+            },
+            {
+                  "name": "Shubra Palace",
+                  "text": "Egykori királyi palota jellegzetes fehér homlokzattal és finom fafaragásokkal.",
+                  "category": "museum",
+                  "coords": [
+                        40.415207,
+                        21.2862
+                  ]
+            },
+            {
+                  "name": "Msjd Alkw'e",
+                  "text": "A történelmi Al-Kua-mecset arról a kőről nevezetes, amely a próféta egyik pihenőhelyére emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        40.386471,
+                        21.257088
+                  ]
+            },
+            {
+                  "name": "King Fahad ibn Abdul Aziz Mosque",
+                  "text": "Nagy mecset Taifban, amely Fahd királyról kapta a nevét, modern kialakításáról és befogadóképességéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        40.404536,
+                        21.27773
+                  ]
+            },
+            {
+                  "name": "Abdullah Al-Saad Mosque",
+                  "text": "Helyi környékbeli mecset Taifban hagyományos minarettel és csendes imateremmel.",
+                  "category": "landmark",
+                  "coords": [
+                        40.409234,
+                        21.283692
+                  ]
+            },
+            {
+                  "name": "Ash Sherbi Mosque",
+                  "text": "Békés muszlim imaház Taif egyik lakónegyedének szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        40.411658,
+                        21.282139
+                  ]
+            },
+            {
+                  "name": "Tariq ibn Ziyad Mosque",
+                  "text": "A híres hadvezérről elnevezett mecset, amely Taif helyi közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        40.411055,
+                        21.283542
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sudd Thalbah",
+                  "text": "Ruinele unui baraj antic care era folosit odinioară pentru gestionarea apei în regiunea Taif.",
+                  "category": "historical",
+                  "coords": [
+                        40.355619,
+                        21.329951
+                  ]
+            },
+            {
+                  "name": "Shubra Palace",
+                  "text": "Un fost palat regal cu o fațadă albă distinctivă și sculpturi detaliate în lemn.",
+                  "category": "museum",
+                  "coords": [
+                        40.415207,
+                        21.2862
+                  ]
+            },
+            {
+                  "name": "Msjd Alkw'e",
+                  "text": "Istorica moschee Al-Kua este cunoscută pentru piatra care se spune că amintește de un moment de odihnă al profetului.",
+                  "category": "landmark",
+                  "coords": [
+                        40.386471,
+                        21.257088
+                  ]
+            },
+            {
+                  "name": "King Fahad ibn Abdul Aziz Mosque",
+                  "text": "O moschee mare din Taif, numită după regele Fahd, cunoscută pentru designul său modern și capacitatea sa.",
+                  "category": "landmark",
+                  "coords": [
+                        40.404536,
+                        21.27773
+                  ]
+            },
+            {
+                  "name": "Abdullah Al-Saad Mosque",
+                  "text": "O moschee locală de cartier din Taif, cu un minaret tradițional și o sală de rugăciune liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        40.409234,
+                        21.283692
+                  ]
+            },
+            {
+                  "name": "Ash Sherbi Mosque",
+                  "text": "Un lăcaș de rugăciune musulman liniștit situat în inima unui cartier rezidențial din Taif.",
+                  "category": "landmark",
+                  "coords": [
+                        40.411658,
+                        21.282139
+                  ]
+            },
+            {
+                  "name": "Tariq ibn Ziyad Mosque",
+                  "text": "O moschee numită după celebrul comandant, care deservește comunitatea locală din Taif.",
+                  "category": "landmark",
+                  "coords": [
+                        40.411055,
+                        21.283542
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sudd Thalbah",
+                  "text": "The ruins of an ancient dam once used for water management in the Taif region.",
+                  "category": "historical",
+                  "coords": [
+                        40.355619,
+                        21.329951
+                  ]
+            },
+            {
+                  "name": "Shubra Palace",
+                  "text": "A former royal residence featuring a distinctive white facade and intricate wooden lattice work.",
+                  "category": "museum",
+                  "coords": [
+                        40.415207,
+                        21.2862
+                  ]
+            },
+            {
+                  "name": "Msjd Alkw'e",
+                  "text": "The historic Al-Kua Mosque is known for the stone said to commemorate a resting place of the Prophet.",
+                  "category": "landmark",
+                  "coords": [
+                        40.386471,
+                        21.257088
+                  ]
+            },
+            {
+                  "name": "King Fahad ibn Abdul Aziz Mosque",
+                  "text": "A large mosque in Taif named after King Fahd, known for its modern design and capacity.",
+                  "category": "landmark",
+                  "coords": [
+                        40.404536,
+                        21.27773
+                  ]
+            },
+            {
+                  "name": "Abdullah Al-Saad Mosque",
+                  "text": "A local neighborhood mosque in Taif with a traditional minaret and peaceful prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        40.409234,
+                        21.283692
+                  ]
+            },
+            {
+                  "name": "Ash Sherbi Mosque",
+                  "text": "A quiet Muslim place of worship located in the heart of a residential district in Taif.",
+                  "category": "landmark",
+                  "coords": [
+                        40.411658,
+                        21.282139
+                  ]
+            },
+            {
+                  "name": "Tariq ibn Ziyad Mosque",
+                  "text": "A mosque named after the famous commander, serving the local community in Taif.",
+                  "category": "landmark",
+                  "coords": [
+                        40.411055,
+                        21.283542
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "SA-02",
     coords: [40.350, 21.300],
@@ -399,7 +2577,124 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     },
   },
   {
-    id: "sa-atallah-happy-land-park-life-v2",
+    id: "sa-atallah-happy-land-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Rahma Mosque",
+                  "text": "Diese als „Schwimmende Moschee“ bekannte Gebetsstätte wurde auf Pfählen über dem Roten Meer errichtet.",
+                  "category": "religious",
+                  "coords": [
+                        39.100826,
+                        21.648714
+                  ]
+            },
+            {
+                  "name": "City walk",
+                  "text": "Ein modernes Vergnügungsviertel mit saisonalen Attraktionen, Restaurants und Unterhaltungsangeboten.",
+                  "category": "recreational",
+                  "coords": [
+                        39.109898,
+                        21.632266
+                  ]
+            },
+            {
+                  "name": "Corniche Mosque",
+                  "text": "Diese preisgekrönte Moschee an der Küste besticht durch ihr elegantes Design von Abdel-Wahed El-Wakil.",
+                  "category": "landmark",
+                  "coords": [
+                        39.102545,
+                        21.633885
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Rahma Mosque",
+                  "text": "A „lebegő mecsetként” ismert imaház a Vörös-tenger fölé, cölöpökre épült.",
+                  "category": "religious",
+                  "coords": [
+                        39.100826,
+                        21.648714
+                  ]
+            },
+            {
+                  "name": "City walk",
+                  "text": "Modern szórakoztató negyed szezonális látványosságokkal, éttermekkel és szórakozási lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        39.109898,
+                        21.632266
+                  ]
+            },
+            {
+                  "name": "Corniche Mosque",
+                  "text": "Ez a díjnyertes tengerparti mecset Abdel-Wahed El-Wakil elegáns dizájnjával büszkélkedhet.",
+                  "category": "landmark",
+                  "coords": [
+                        39.102545,
+                        21.633885
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Rahma Mosque",
+                  "text": "Cunoscută sub numele de „Moscheea Plutitoare”, acest lăcaș de cult este construit pe piloni deasupra Mării Roșii.",
+                  "category": "religious",
+                  "coords": [
+                        39.100826,
+                        21.648714
+                  ]
+            },
+            {
+                  "name": "City walk",
+                  "text": "Un district modern de divertisment cu atracții sezoniere, restaurante și spectacole.",
+                  "category": "recreational",
+                  "coords": [
+                        39.109898,
+                        21.632266
+                  ]
+            },
+            {
+                  "name": "Corniche Mosque",
+                  "text": "Această moschee premiată de la malul mării are un design elegant creat de Abdel-Wahed El-Wakil.",
+                  "category": "landmark",
+                  "coords": [
+                        39.102545,
+                        21.633885
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Rahma Mosque",
+                  "text": "Known as the 'Floating Mosque', this place of worship is built on stilts over the Red Sea.",
+                  "category": "religious",
+                  "coords": [
+                        39.100826,
+                        21.648714
+                  ]
+            },
+            {
+                  "name": "City walk",
+                  "text": "A modern entertainment district featuring seasonal attractions, dining, and live shows.",
+                  "category": "recreational",
+                  "coords": [
+                        39.109898,
+                        21.632266
+                  ]
+            },
+            {
+                  "name": "Corniche Mosque",
+                  "text": "This award-winning seaside mosque features an elegant design by Abdel-Wahed El-Wakil.",
+                  "category": "landmark",
+                  "coords": [
+                        39.102545,
+                        21.633885
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "SA-02",
     coords: [39.108, 21.618],
@@ -435,7 +2730,484 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     },
   },
   {
-    id: "sa-king-fahd-park-dammam-life-v2",
+    id: "sa-king-fahd-park-dammam-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cobra Park Dammam",
+                  "text": "Der Cobra Park Dammam bietet aufregende Achterbahnen und familienfreundliche Fahrgeschäfte inmitten der angelegten Anlagen des King Fahd Parks.",
+                  "category": "recreational",
+                  "coords": [
+                        50.124639,
+                        26.386927
+                  ]
+            },
+            {
+                  "name": "masjid",
+                  "text": "Diese bescheidene Viertel-Masdschid bietet einen mit Teppich ausgelegten Gebetssaal für den täglichen Gemeindegottesdienst in der Nähe des King Fahd Parks.",
+                  "category": "landmark",
+                  "coords": [
+                        50.203801,
+                        26.366211
+                  ]
+            },
+            {
+                  "name": "Sultan Muhammad Al-Qahtani Mosque",
+                  "text": "Die Sultan-Muhammad-Al-Qahtani-Moschee ist eine gut beleuchtete lokale religiöse Einrichtung, die den fünf täglichen islamischen Gebeten in Dammam dient.",
+                  "category": "landmark",
+                  "coords": [
+                        50.05304,
+                        26.371613
+                  ]
+            },
+            {
+                  "name": "Fatimah Al-Theeb Mosque",
+                  "text": "Die durch ihr hohes, schlankes Minarett leicht erkennbare Fatimah-Al-Theeb-Moschee ist ein Eckpfeiler des spirituellen Lebens in diesem Bezirk von Dammam.",
+                  "category": "landmark",
+                  "coords": [
+                        50.189486,
+                        26.37599
+                  ]
+            },
+            {
+                  "name": "Ead Mosque",
+                  "text": "Die Ead-Moschee wurde für große Gemeinden gebaut und dient häufig den gewachsenen Menschenmengen während spezieller religiöser Feste und Freitagsgebete.",
+                  "category": "landmark",
+                  "coords": [
+                        50.19139,
+                        26.369331
+                  ]
+            },
+            {
+                  "name": "Al-Dabal Mosque",
+                  "text": "Die Al-Dabal-Moschee verfügt über einen sorgfältig verzierten Mihrab, der die lokalen Gläubigen bei ihren täglichen Andachten in Richtung Mekka weist.",
+                  "category": "landmark",
+                  "coords": [
+                        50.180221,
+                        26.377187
+                  ]
+            },
+            {
+                  "name": "Modern Mosque AlSafa",
+                  "text": "Die Modern Mosque AlSafa zeigt zeitgenössische geometrische Gestaltungsprinzipien und bietet eine aktualisierte architektonische Interpretation des traditionellen islamischen Gebetsraums.",
+                  "category": "landmark",
+                  "coords": [
+                        50.178411,
+                        26.382695
+                  ]
+            },
+            {
+                  "name": "Sowiyh Aljabri Mosque",
+                  "text": "Die Sowiyh-Aljabri-Moschee bietet ein klimatisiertes Inneres, das den Gläubigen einen komfortablen Rückzugsort vor der intensiven Hitze von Dammam bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        50.057299,
+                        26.391953
+                  ]
+            },
+            {
+                  "name": "Rashid Mosque",
+                  "text": "Gestützt durch stabile Säulen und eine großzügige Raumaufteilung ermöglicht die Rashid-Moschee reibungslose Gemeindetreffen für die muslimischen Bewohner des Viertels.",
+                  "category": "landmark",
+                  "coords": [
+                        50.053628,
+                        26.396237
+                  ]
+            },
+            {
+                  "name": "Abdullah Bin Abi Quhafa Mosque",
+                  "text": "Benannt nach dem ersten Kalifen Abu Bakr, dient die Abdullah-Bin-Abi-Quhafa-Moschee als Anker der sunnitisch-islamischen Tradition in Dammam.",
+                  "category": "landmark",
+                  "coords": [
+                        50.180929,
+                        26.411545
+                  ]
+            },
+            {
+                  "name": "Alsaeed Mosque",
+                  "text": "Die Alsaeed-Moschee bietet ein ruhiges Heiligtum, das sich durch seinen elegant gefliesten Eingang und spezielle Bereiche für die rituelle Waschung auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        50.181343,
+                        26.406702
+                  ]
+            },
+            {
+                  "name": "M1 Mosque 1",
+                  "text": "Die M1 Moschee 1 fungiert als lokales Gemeindegebetzentrum und stellt sicher, dass die Anwohner sofortigen Zugang zu den täglichen islamischen Gottesdiensten haben.",
+                  "category": "landmark",
+                  "coords": [
+                        50.190027,
+                        26.39463
+                  ]
+            },
+            {
+                  "name": "M5 Mosque 3",
+                  "text": "Die M5-Moschee 3 ist eine funktionale Bezirksmoschee, die in das Wohnnetzwerk integriert ist, um die routinemäßigen Gemeindegebete des Gebiets zu unterstützen.",
+                  "category": "landmark",
+                  "coords": [
+                        50.203915,
+                        26.401146
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cobra Park Dammam",
+                  "text": "A Cobra Park Dammam izgalmas hullámvasutakat és családbarát karneváli utazásokat kínál a King Fahd Park parkosított területén.",
+                  "category": "recreational",
+                  "coords": [
+                        50.124639,
+                        26.386927
+                  ]
+            },
+            {
+                  "name": "masjid",
+                  "text": "Ez a szerény környékbeli mecset szőnyeggel borított imatermet biztosít a napi gyülekezeti istentiszteletekhez a King Fahd Park közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        50.203801,
+                        26.366211
+                  ]
+            },
+            {
+                  "name": "Sultan Muhammad Al-Qahtani Mosque",
+                  "text": "A Sultan Muhammad Al-Qahtani mecset egy jól megvilágított helyi vallási létesítmény, amelyet a napi öt iszlám imának szenteltek Dammámban.",
+                  "category": "landmark",
+                  "coords": [
+                        50.05304,
+                        26.371613
+                  ]
+            },
+            {
+                  "name": "Fatimah Al-Theeb Mosque",
+                  "text": "A magas, karcsú minaretjéről könnyen felismerhető Fatimah Al-Theeb mecset a dammámi kerület spirituális életének sarokköve.",
+                  "category": "landmark",
+                  "coords": [
+                        50.189486,
+                        26.37599
+                  ]
+            },
+            {
+                  "name": "Ead Mosque",
+                  "text": "A nagy gyülekezetek befogadására épült Ead mecset gyakran szolgálja ki a megnövekedett tömeget a különleges vallási ünnepek és pénteki imák idején.",
+                  "category": "landmark",
+                  "coords": [
+                        50.19139,
+                        26.369331
+                  ]
+            },
+            {
+                  "name": "Al-Dabal Mosque",
+                  "text": "Az Al-Dabal mecset aprólékosan díszített mihrabbal rendelkezik, amely a helyi híveket Mekka felé irányítja napi áhítataik során.",
+                  "category": "landmark",
+                  "coords": [
+                        50.180221,
+                        26.377187
+                  ]
+            },
+            {
+                  "name": "Modern Mosque AlSafa",
+                  "text": "A kortárs geometriai tervezési elveket bemutató Modern Mosque AlSafa a hagyományos iszlám imatér frissített építészeti változatát kínálja.",
+                  "category": "landmark",
+                  "coords": [
+                        50.178411,
+                        26.382695
+                  ]
+            },
+            {
+                  "name": "Sowiyh Aljabri Mosque",
+                  "text": "A Sowiyh Aljabri mecset klimatizált belső tere kényelmes menedéket nyújt a híveknek Dammám intenzív hősége elől.",
+                  "category": "landmark",
+                  "coords": [
+                        50.057299,
+                        26.391953
+                  ]
+            },
+            {
+                  "name": "Rashid Mosque",
+                  "text": "A masszív oszlopokkal és tágas elrendezéssel alátámasztott Rashid mecset zökkenőmentes közösségi összejöveteleket tesz lehetővé a környék muszlim lakosai számára.",
+                  "category": "landmark",
+                  "coords": [
+                        50.053628,
+                        26.396237
+                  ]
+            },
+            {
+                  "name": "Abdullah Bin Abi Quhafa Mosque",
+                  "text": "Az első kalifáról, Abu Bakrról elnevezett Abdullah Bin Abi Quhafa mecset a szunnita iszlám hagyomány egyik horgonyaként szolgál Dammámban.",
+                  "category": "landmark",
+                  "coords": [
+                        50.180929,
+                        26.411545
+                  ]
+            },
+            {
+                  "name": "Alsaeed Mosque",
+                  "text": "Az Alsaeed mecset egy nyugodt szentélyt kínál, amelyet elegánsan csempézett bejárata és a mosakodásnak szentelt terek jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        50.181343,
+                        26.406702
+                  ]
+            },
+            {
+                  "name": "M1 Mosque 1",
+                  "text": "A helyi közösségi imaközpontként működő M1 mecset 1 biztosítja a közeli lakosok azonnali hozzáférését a napi iszlám istentiszteletekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        50.190027,
+                        26.39463
+                  ]
+            },
+            {
+                  "name": "M5 Mosque 3",
+                  "text": "Az M5 mecset 3 egy funkcionális kerületi mecset, amely a lakossági hálózatba integrálva támogatja a terület rutinszerű gyülekezeti imáit.",
+                  "category": "landmark",
+                  "coords": [
+                        50.203915,
+                        26.401146
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cobra Park Dammam",
+                  "text": "Cobra Park Dammam oferă montagne russe palpitante și atracții de carnaval pentru familii, amplasate în mijlocul terenurilor amenajate din King Fahd Park.",
+                  "category": "recreational",
+                  "coords": [
+                        50.124639,
+                        26.386927
+                  ]
+            },
+            {
+                  "name": "masjid",
+                  "text": "Această moschee modestă de cartier oferă o sală de rugăciune cu mochetă pentru slujbele de congregație zilnice, în apropiere de King Fahd Park.",
+                  "category": "landmark",
+                  "coords": [
+                        50.203801,
+                        26.366211
+                  ]
+            },
+            {
+                  "name": "Sultan Muhammad Al-Qahtani Mosque",
+                  "text": "Moscheea Sultan Muhammad Al-Qahtani este o unitate religioasă locală bine iluminată, dedicată găzduirii celor cinci rugăciuni islamice zilnice din Dammam.",
+                  "category": "landmark",
+                  "coords": [
+                        50.05304,
+                        26.371613
+                  ]
+            },
+            {
+                  "name": "Fatimah Al-Theeb Mosque",
+                  "text": "Ușor de identificat prin minaretul său înalt și zvelt, Moscheea Fatimah Al-Theeb este o piatră de temelie a vieții spirituale din acest cartier al orașului Dammam.",
+                  "category": "landmark",
+                  "coords": [
+                        50.189486,
+                        26.37599
+                  ]
+            },
+            {
+                  "name": "Ead Mosque",
+                  "text": "Construită pentru a găzdui congregații mari, Moscheea Ead deservește adesea mulțimile extinse în timpul festivalurilor religioase speciale și rugăciunilor de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        50.19139,
+                        26.369331
+                  ]
+            },
+            {
+                  "name": "Al-Dabal Mosque",
+                  "text": "Moscheea Al-Dabal are un mihrab decorat meticulos, îndrumând credincioșii locali spre Mecca în timpul devotamentului lor zilnic.",
+                  "category": "landmark",
+                  "coords": [
+                        50.180221,
+                        26.377187
+                  ]
+            },
+            {
+                  "name": "Modern Mosque AlSafa",
+                  "text": "Prezentând principii de design geometric contemporan, Moscheea Modernă AlSafa oferă o abordare arhitecturală actualizată a spațiului tradițional de rugăciune islamic.",
+                  "category": "landmark",
+                  "coords": [
+                        50.178411,
+                        26.382695
+                  ]
+            },
+            {
+                  "name": "Sowiyh Aljabri Mosque",
+                  "text": "Moscheea Sowiyh Aljabri oferă un interior cu climă controlată, care oferă credincioșilor un refugiu confortabil de căldura intensă din Dammam.",
+                  "category": "landmark",
+                  "coords": [
+                        50.057299,
+                        26.391953
+                  ]
+            },
+            {
+                  "name": "Rashid Mosque",
+                  "text": "Susținută de stâlpi solizi și un aspect spațios, Moscheea Rashid facilitează adunările comunitare fluide pentru rezidenții musulmani din cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        50.053628,
+                        26.396237
+                  ]
+            },
+            {
+                  "name": "Abdullah Bin Abi Quhafa Mosque",
+                  "text": "Numită după primul calif Abu Bakr, Moscheea Abdullah Bin Abi Quhafa servește ca o ancoră a tradiției islamice sunnite din Dammam.",
+                  "category": "landmark",
+                  "coords": [
+                        50.180929,
+                        26.411545
+                  ]
+            },
+            {
+                  "name": "Alsaeed Mosque",
+                  "text": "Moscheea Alsaeed oferă un sanctuar liniștit, caracterizat prin intrarea sa elegant cu faianță și spațiile dedicate pentru abluțiune.",
+                  "category": "landmark",
+                  "coords": [
+                        50.181343,
+                        26.406702
+                  ]
+            },
+            {
+                  "name": "M1 Mosque 1",
+                  "text": "Funcționând ca un centru local de rugăciune comunitară, Moscheea M1 1 asigură rezidenților din apropiere acces imediat la slujbele islamice zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        50.190027,
+                        26.39463
+                  ]
+            },
+            {
+                  "name": "M5 Mosque 3",
+                  "text": "Moscheea M5 3 este o moschee de cartier funcțională, integrată în rețeaua rezidențială pentru a sprijini rugăciunile regulate ale congregației din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        50.203915,
+                        26.401146
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cobra Park Dammam",
+                  "text": "Cobra Park Dammam offers thrilling roller coasters and family-friendly carnival rides set amidst the landscaped grounds of King Fahd Park.",
+                  "category": "recreational",
+                  "coords": [
+                        50.124639,
+                        26.386927
+                  ]
+            },
+            {
+                  "name": "masjid",
+                  "text": "This modest neighborhood masjid provides a carpeted prayer hall for daily congregational worship near King Fahd Park.",
+                  "category": "landmark",
+                  "coords": [
+                        50.203801,
+                        26.366211
+                  ]
+            },
+            {
+                  "name": "Sultan Muhammad Al-Qahtani Mosque",
+                  "text": "The Sultan Muhammad Al-Qahtani Mosque is a well-lit local religious facility dedicated to accommodating the five daily Islamic prayers in Dammam.",
+                  "category": "landmark",
+                  "coords": [
+                        50.05304,
+                        26.371613
+                  ]
+            },
+            {
+                  "name": "Fatimah Al-Theeb Mosque",
+                  "text": "Easily identifiable by its tall slender minaret, the Fatimah Al-Theeb Mosque is a cornerstone of spiritual life in this district of Dammam.",
+                  "category": "landmark",
+                  "coords": [
+                        50.189486,
+                        26.37599
+                  ]
+            },
+            {
+                  "name": "Ead Mosque",
+                  "text": "Built to accommodate large congregations, Ead Mosque often serves the expanded crowds during special religious festivals and Friday prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        50.19139,
+                        26.369331
+                  ]
+            },
+            {
+                  "name": "Al-Dabal Mosque",
+                  "text": "The Al-Dabal Mosque features a meticulously decorated mihrab, directing the local faithful towards Mecca during their daily devotions.",
+                  "category": "landmark",
+                  "coords": [
+                        50.180221,
+                        26.377187
+                  ]
+            },
+            {
+                  "name": "Modern Mosque AlSafa",
+                  "text": "Showcasing contemporary geometric design principles, the Modern Mosque AlSafa offers an updated architectural take on the traditional Islamic prayer space.",
+                  "category": "landmark",
+                  "coords": [
+                        50.178411,
+                        26.382695
+                  ]
+            },
+            {
+                  "name": "Sowiyh Aljabri Mosque",
+                  "text": "The Sowiyh Aljabri Mosque provides a climate-controlled interior that gives worshippers a comfortable retreat from the intense Dammam heat.",
+                  "category": "landmark",
+                  "coords": [
+                        50.057299,
+                        26.391953
+                  ]
+            },
+            {
+                  "name": "Rashid Mosque",
+                  "text": "Supported by sturdy pillars and a spacious layout, Rashid Mosque facilitates smooth community gatherings for the neighborhood's Muslim residents.",
+                  "category": "landmark",
+                  "coords": [
+                        50.053628,
+                        26.396237
+                  ]
+            },
+            {
+                  "name": "Abdullah Bin Abi Quhafa Mosque",
+                  "text": "Named after the first caliph Abu Bakr, the Abdullah Bin Abi Quhafa Mosque serves as an anchor of Sunni Islamic tradition in Dammam.",
+                  "category": "landmark",
+                  "coords": [
+                        50.180929,
+                        26.411545
+                  ]
+            },
+            {
+                  "name": "Alsaeed Mosque",
+                  "text": "Alsaeed Mosque offers a tranquil sanctuary characterized by its elegantly tiled entrance and dedicated spaces for ablution.",
+                  "category": "landmark",
+                  "coords": [
+                        50.181343,
+                        26.406702
+                  ]
+            },
+            {
+                  "name": "M1 Mosque 1",
+                  "text": "Operating as a localized community prayer center, M1 Mosque 1 ensures nearby residents have immediate access to daily Islamic services.",
+                  "category": "landmark",
+                  "coords": [
+                        50.190027,
+                        26.39463
+                  ]
+            },
+            {
+                  "name": "M5 Mosque 3",
+                  "text": "M5 Mosque 3 is a functional district mosque, integrated within the residential grid to support the area's routine congregational prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        50.203915,
+                        26.401146
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "SA-04",
     coords: [50.116, 26.398],
@@ -507,7 +3279,412 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     },
   },
   {
-    id: "sa-al-rudaf-park-life-v2",
+    id: "sa-al-rudaf-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ash Shafa Red Rock Ridge",
+                  "text": "Ein Aussichtspunkt in den Ash-Shafa-Bergen, bekannt für seine beeindruckenden roten Felsformationen.",
+                  "category": "landmark",
+                  "coords": [
+                        40.5117,
+                        21.2246
+                  ]
+            },
+            {
+                  "name": "Jabra Historic Palace",
+                  "text": "Ein historischer Palast aus dem Jahr 1943, der die Architektur der Taif-Region aus der Mitte des 20. Jahrhunderts zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        40.438745,
+                        21.302065
+                  ]
+            },
+            {
+                  "name": "Taif Zoo",
+                  "text": "Der Zoo von Taif beheimatet eine Vielzahl von Tieren, darunter lokale Arten wie den Arabischen Pavian.",
+                  "category": "recreational",
+                  "coords": [
+                        40.429738,
+                        21.229458
+                  ]
+            },
+            {
+                  "name": "Al-Sharif Museum",
+                  "text": "Ein privates Museum, das eine umfangreiche Sammlung lokaler Erbstücke, Werkzeuge und historischer Kleidung aus Taif zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        40.447565,
+                        21.24317
+                  ]
+            },
+            {
+                  "name": "Al Hokair Time",
+                  "text": "Ein beliebter Familienfreizeitpark mit Fahrgeschäften, Spielen und Indoor-Unterhaltung in Taif.",
+                  "category": "recreational",
+                  "coords": [
+                        40.414947,
+                        21.245603
+                  ]
+            },
+            {
+                  "name": "Abdullah Ibn Abbas Mosque",
+                  "text": "Eine der historischsten Moscheen von Taif, die das Grab des Prophetengefährten Ibn Abbas beherbergt.",
+                  "category": "religious",
+                  "coords": [
+                        40.408425,
+                        21.27037
+                  ]
+            },
+            {
+                  "name": "Msajid Khulafa al Rashdeen",
+                  "text": "Eine moderne Moschee in Taif, gewidmet den rechtgeleiteten Kalifen des Islam.",
+                  "category": "landmark",
+                  "coords": [
+                        40.409601,
+                        21.249655
+                  ]
+            },
+            {
+                  "name": "Msajid Al Sarieh",
+                  "text": "Eine Gemeindemoschee in Taif, die sich durch ihr klassisches Design und ihren ruhigen Innenhof auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        40.40632,
+                        21.24488
+                  ]
+            },
+            {
+                  "name": "Msajid Farooq",
+                  "text": "Eine lokale Nachbarschaftsmoschee, benannt nach Omar Al-Farooq, im Herzen von Taif.",
+                  "category": "landmark",
+                  "coords": [
+                        40.404112,
+                        21.246923
+                  ]
+            },
+            {
+                  "name": "Al Amir Mit'eb Mosque",
+                  "text": "Eine prachtvolle Moschee in Taif, bekannt für ihre eleganten Minarette und den geräumigen Gebetssaal.",
+                  "category": "landmark",
+                  "coords": [
+                        40.41163,
+                        21.262791
+                  ]
+            },
+            {
+                  "name": "Al-Madhoun Mosque",
+                  "text": "Diese 1846 erbaute Moschee zeichnet sich durch ihr einzigartiges zylindrisches Minarett aus.",
+                  "category": "landmark",
+                  "coords": [
+                        40.391346,
+                        21.256103
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ash Shafa Red Rock Ridge",
+                  "text": "Kilátóhely az Ash-Shafa-hegységben, amely lenyűgöző vörös sziklaalakzatairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        40.5117,
+                        21.2246
+                  ]
+            },
+            {
+                  "name": "Jabra Historic Palace",
+                  "text": "1943-ban épült történelmi palota, amely a Taif régió 20. század közepi építészetét mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        40.438745,
+                        21.302065
+                  ]
+            },
+            {
+                  "name": "Taif Zoo",
+                  "text": "A Taifi Állatkert számos állatnak ad otthont, köztük olyan helyi fajoknak, mint az arab pávián.",
+                  "category": "recreational",
+                  "coords": [
+                        40.429738,
+                        21.229458
+                  ]
+            },
+            {
+                  "name": "Al-Sharif Museum",
+                  "text": "Magánmúzeum, amely Taif helyi örökségeinek, eszközeinek és történelmi ruházatának gazdag gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        40.447565,
+                        21.24317
+                  ]
+            },
+            {
+                  "name": "Al Hokair Time",
+                  "text": "Népszerű családi szórakoztató központ vidámparki játékokkal és beltéri kikapcsolódási lehetőségekkel Taifban.",
+                  "category": "recreational",
+                  "coords": [
+                        40.414947,
+                        21.245603
+                  ]
+            },
+            {
+                  "name": "Abdullah Ibn Abbas Mosque",
+                  "text": "Taif egyik legtörténelmibb mecsete, amely a próféta társa, Ibn Abbász sírját őrzi.",
+                  "category": "religious",
+                  "coords": [
+                        40.408425,
+                        21.27037
+                  ]
+            },
+            {
+                  "name": "Msajid Khulafa al Rashdeen",
+                  "text": "Modern mecset Taifban, amelyet az iszlám igaz úton járó kalifáinak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        40.409601,
+                        21.249655
+                  ]
+            },
+            {
+                  "name": "Msajid Al Sarieh",
+                  "text": "Közösségi mecset Taifban, amelyet klasszikus kialakítás és békés belső udvar jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        40.40632,
+                        21.24488
+                  ]
+            },
+            {
+                  "name": "Msajid Farooq",
+                  "text": "Helyi környékbeli mecset Taif szívében, amely Omar Al-Farooq nevét viseli.",
+                  "category": "landmark",
+                  "coords": [
+                        40.404112,
+                        21.246923
+                  ]
+            },
+            {
+                  "name": "Al Amir Mit'eb Mosque",
+                  "text": "Pompás mecset Taifban, amely elegáns minaretjeiről és tágas imaterméről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        40.41163,
+                        21.262791
+                  ]
+            },
+            {
+                  "name": "Al-Madhoun Mosque",
+                  "text": "Ez az 1846-ban épült mecset az egyedülálló hengeres minaretjéről nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        40.391346,
+                        21.256103
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ash Shafa Red Rock Ridge",
+                  "text": "Un punct de observație în munții Ash-Shafa, cunoscut pentru formațiunile sale impresionante de rocă roșie.",
+                  "category": "landmark",
+                  "coords": [
+                        40.5117,
+                        21.2246
+                  ]
+            },
+            {
+                  "name": "Jabra Historic Palace",
+                  "text": "Un palat istoric construit în 1943, care prezintă arhitectura regiunii Taif de la mijlocul secolului al XX-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        40.438745,
+                        21.302065
+                  ]
+            },
+            {
+                  "name": "Taif Zoo",
+                  "text": "Grădina zoologică din Taif găzduiește o varietate de animale, inclusiv specii locale, cum ar fi babuinul arab.",
+                  "category": "recreational",
+                  "coords": [
+                        40.429738,
+                        21.229458
+                  ]
+            },
+            {
+                  "name": "Al-Sharif Museum",
+                  "text": "Un muzeu privat care expune o colecție bogată de moșteniri locale, unelte și îmbrăcăminte istorică din Taif.",
+                  "category": "museum",
+                  "coords": [
+                        40.447565,
+                        21.24317
+                  ]
+            },
+            {
+                  "name": "Al Hokair Time",
+                  "text": "Un centru popular de divertisment pentru familii, cu atracții, jocuri și divertisment interior în Taif.",
+                  "category": "recreational",
+                  "coords": [
+                        40.414947,
+                        21.245603
+                  ]
+            },
+            {
+                  "name": "Abdullah Ibn Abbas Mosque",
+                  "text": "Una dintre cele mai istorice moschei din Taif, care adăpostește mormântul însoțitorului profetului, Ibn Abbas.",
+                  "category": "religious",
+                  "coords": [
+                        40.408425,
+                        21.27037
+                  ]
+            },
+            {
+                  "name": "Msajid Khulafa al Rashdeen",
+                  "text": "O moschee modernă din Taif, dedicată califilor drept-călăuziți ai islamului.",
+                  "category": "landmark",
+                  "coords": [
+                        40.409601,
+                        21.249655
+                  ]
+            },
+            {
+                  "name": "Msajid Al Sarieh",
+                  "text": "O moschee comunitară din Taif, caracterizată prin designul său clasic și curtea interioară liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        40.40632,
+                        21.24488
+                  ]
+            },
+            {
+                  "name": "Msajid Farooq",
+                  "text": "O moschee locală de cartier, numită după Omar Al-Farooq, în inima orașului Taif.",
+                  "category": "landmark",
+                  "coords": [
+                        40.404112,
+                        21.246923
+                  ]
+            },
+            {
+                  "name": "Al Amir Mit'eb Mosque",
+                  "text": "O moschee splendidă din Taif, cunoscută pentru minaretele sale elegante și sala de rugăciune spațioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        40.41163,
+                        21.262791
+                  ]
+            },
+            {
+                  "name": "Al-Madhoun Mosque",
+                  "text": "Această moschee construită în 1846 se remarcă prin minaretul său cilindric unic.",
+                  "category": "landmark",
+                  "coords": [
+                        40.391346,
+                        21.256103
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ash Shafa Red Rock Ridge",
+                  "text": "A viewpoint in the Ash-Shafa mountains known for its striking red rock formations.",
+                  "category": "landmark",
+                  "coords": [
+                        40.5117,
+                        21.2246
+                  ]
+            },
+            {
+                  "name": "Jabra Historic Palace",
+                  "text": "A historic palace built in 1943, showcasing the mid-20th century architecture of the Taif region.",
+                  "category": "landmark",
+                  "coords": [
+                        40.438745,
+                        21.302065
+                  ]
+            },
+            {
+                  "name": "Taif Zoo",
+                  "text": "Taif Zoo is home to a variety of animals, including local species such as the Arabian baboon.",
+                  "category": "recreational",
+                  "coords": [
+                        40.429738,
+                        21.229458
+                  ]
+            },
+            {
+                  "name": "Al-Sharif Museum",
+                  "text": "A private museum displaying a rich collection of local Taif heritage items, tools, and historical clothing.",
+                  "category": "museum",
+                  "coords": [
+                        40.447565,
+                        21.24317
+                  ]
+            },
+            {
+                  "name": "Al Hokair Time",
+                  "text": "A popular family entertainment center featuring rides, games, and indoor entertainment in Taif.",
+                  "category": "recreational",
+                  "coords": [
+                        40.414947,
+                        21.245603
+                  ]
+            },
+            {
+                  "name": "Abdullah Ibn Abbas Mosque",
+                  "text": "One of Taif's most historic mosques, housing the tomb of the Prophet's companion Ibn Abbas.",
+                  "category": "religious",
+                  "coords": [
+                        40.408425,
+                        21.27037
+                  ]
+            },
+            {
+                  "name": "Msajid Khulafa al Rashdeen",
+                  "text": "A modern mosque in Taif dedicated to the Rashidun Caliphs of Islam.",
+                  "category": "landmark",
+                  "coords": [
+                        40.409601,
+                        21.249655
+                  ]
+            },
+            {
+                  "name": "Msajid Al Sarieh",
+                  "text": "A community mosque in Taif, characterized by its classical design and peaceful courtyard.",
+                  "category": "landmark",
+                  "coords": [
+                        40.40632,
+                        21.24488
+                  ]
+            },
+            {
+                  "name": "Msajid Farooq",
+                  "text": "A local neighborhood mosque named after Omar Al-Farooq, in the heart of Taif.",
+                  "category": "landmark",
+                  "coords": [
+                        40.404112,
+                        21.246923
+                  ]
+            },
+            {
+                  "name": "Al Amir Mit'eb Mosque",
+                  "text": "A splendid mosque in Taif known for its elegant minarets and spacious prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        40.41163,
+                        21.262791
+                  ]
+            },
+            {
+                  "name": "Al-Madhoun Mosque",
+                  "text": "Built in 1846, this mosque is notable for its unique cylindrical minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        40.391346,
+                        21.256103
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "SA-02",
     coords: [40.435, 21.222],
@@ -543,7 +3720,88 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     },
   },
   {
-    id: "sa-al-ghat-national-park-life-v2",
+    id: "sa-al-ghat-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bi'r Murayziq",
+                  "text": "Historische Ruinen eines alten Brunnens inmitten der kargen Wüstenlandschaft von Al-Ghat.",
+                  "category": "historical",
+                  "coords": [
+                        44.948685,
+                        26.093701
+                  ]
+            },
+            {
+                  "name": "Bi'r Su`ayb",
+                  "text": "Überreste eines alten Steinbrunnens, der einst eine wichtige Wasserstelle für Reisende war.",
+                  "category": "historical",
+                  "coords": [
+                        44.996695,
+                        26.035402
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bi'r Murayziq",
+                  "text": "Egy régi kút történelmi romjai Al-Ghat kopár sivatagi táján.",
+                  "category": "historical",
+                  "coords": [
+                        44.948685,
+                        26.093701
+                  ]
+            },
+            {
+                  "name": "Bi'r Su`ayb",
+                  "text": "Egy régi kőből épült kút maradványai, amely egykor fontos vízlelőhely volt az utazók számára.",
+                  "category": "historical",
+                  "coords": [
+                        44.996695,
+                        26.035402
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bi'r Murayziq",
+                  "text": "Ruinele istorice ale unei fântâni vechi în peisajul arid de deșert din Al-Ghat.",
+                  "category": "historical",
+                  "coords": [
+                        44.948685,
+                        26.093701
+                  ]
+            },
+            {
+                  "name": "Bi'r Su`ayb",
+                  "text": "Rămășițele unei vechi fântâni de piatră, care a fost odinioară un punct important de apă pentru călători.",
+                  "category": "historical",
+                  "coords": [
+                        44.996695,
+                        26.035402
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bi'r Murayziq",
+                  "text": "Historical ruins of an old well set within the arid desert landscape of Al-Ghat.",
+                  "category": "historical",
+                  "coords": [
+                        44.948685,
+                        26.093701
+                  ]
+            },
+            {
+                  "name": "Bi'r Su`ayb",
+                  "text": "Remains of an old stone well that was once a vital watering hole for travelers.",
+                  "category": "historical",
+                  "coords": [
+                        44.996695,
+                        26.035402
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "SA-01",
     coords: [44.975, 26.027],
@@ -651,7 +3909,88 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     },
   },
   {
-    id: "sa-water-splash-park-life-v2",
+    id: "sa-water-splash-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "World Sights Park",
+                  "text": "Themenpark mit detailgetreuen Miniaturmodellen weltberühmter Sehenswürdigkeiten wie dem Eiffelturm.",
+                  "category": "recreational",
+                  "coords": [
+                        46.736111,
+                        24.762594
+                  ]
+            },
+            {
+                  "name": "Sakr al Jazeera Aviation Museum",
+                  "text": "Dieses Museum präsentiert die Geschichte der königlichen saudi-arabischen Luftwaffe mit einer Sammlung historischer Flugzeuge.",
+                  "category": "museum",
+                  "coords": [
+                        46.740202,
+                        24.754052
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "World Sights Park",
+                  "text": "Világhírű látnivalók, például az Eiffel-torony méretarányos makettjeit bemutató élménypark.",
+                  "category": "recreational",
+                  "coords": [
+                        46.736111,
+                        24.762594
+                  ]
+            },
+            {
+                  "name": "Sakr al Jazeera Aviation Museum",
+                  "text": "Ez a múzeum a Szaúdi Királyi Légierő történetét mutatja be egy kiterjedt történelmi repülőgép-gyűjteményen keresztül.",
+                  "category": "museum",
+                  "coords": [
+                        46.740202,
+                        24.754052
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "World Sights Park",
+                  "text": "Parc tematic care expune machete la scară ale unor monumente celebre, precum Turnul Eiffel.",
+                  "category": "recreational",
+                  "coords": [
+                        46.736111,
+                        24.762594
+                  ]
+            },
+            {
+                  "name": "Sakr al Jazeera Aviation Museum",
+                  "text": "Acest muzeu prezintă istoria Forțelor Aeriene Regale Saudite printr-o colecție vastă de aeronave istorice.",
+                  "category": "museum",
+                  "coords": [
+                        46.740202,
+                        24.754052
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "World Sights Park",
+                  "text": "A theme park showcasing scale models of world-famous landmarks such as the Eiffel Tower.",
+                  "category": "recreational",
+                  "coords": [
+                        46.736111,
+                        24.762594
+                  ]
+            },
+            {
+                  "name": "Sakr al Jazeera Aviation Museum",
+                  "text": "This museum showcases the history of the Royal Saudi Air Force through an extensive collection of historic aircraft.",
+                  "category": "museum",
+                  "coords": [
+                        46.740202,
+                        24.754052
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "SA-01",
     coords: [46.757, 24.786],
@@ -687,7 +4026,808 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     },
   },
   {
-    id: "sa-jeddah-corniche-parks-life-v2",
+    id: "sa-jeddah-corniche-parks-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Falak Square",
+                  "text": "Dieser Platz in Dschidda ist für seine riesige Skulptur eines astronomischen Globus bekannt, ein modernes Wahrzeichen der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        39.176952,
+                        21.584456
+                  ]
+            },
+            {
+                  "name": "Fun Island",
+                  "text": "Ein Familienfreizeitpark an der Corniche von Dschidda mit verschiedenen Fahrgeschäften und direktem Blick auf das Rote Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        39.172437,
+                        21.589955
+                  ]
+            },
+            {
+                  "name": "Bicycle roundabout",
+                  "text": "Ein bekannter Kreisverkehr, in dessen Mitte eine riesige, ikonische Fahrradskulptur steht.",
+                  "category": "historical",
+                  "coords": [
+                        39.182819,
+                        21.568038
+                  ]
+            },
+            {
+                  "name": "Dawwar Thareeh",
+                  "text": "Ein monumentaler Kreisverkehr in der Nähe der Corniche, der als markanter Orientierungspunkt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        39.141109,
+                        21.610841
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Ein schlichter Gebetsort an der Küste für die Anwohner und Besucher des Corniche-Parks.",
+                  "category": "landmark",
+                  "coords": [
+                        39.13708,
+                        21.60466
+                  ]
+            },
+            {
+                  "name": "Ibn Abbas Mosque",
+                  "text": "Eine muslimische Kultstätte in Jeddah, benannt nach dem Cousin des Propheten Mohammed.",
+                  "category": "landmark",
+                  "coords": [
+                        39.146461,
+                        21.617564
+                  ]
+            },
+            {
+                  "name": "King Abdulaziz International Airport Mosque",
+                  "text": "Eine moderne Moschee direkt am internationalen Flughafen, die Reisenden Raum für Gebete bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        39.179765,
+                        21.649043
+                  ]
+            },
+            {
+                  "name": "Mosque of Piety",
+                  "text": "Eine lokale Moschee in den Corniche-Parks, die für ihre friedliche Atmosphäre bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        39.192631,
+                        21.622624
+                  ]
+            },
+            {
+                  "name": "alaokten",
+                  "text": "Eine kleine muslimische Gebetsstätte im modernen Parkviertel von Jeddah.",
+                  "category": "landmark",
+                  "coords": [
+                        39.207848,
+                        21.62981
+                  ]
+            },
+            {
+                  "name": "Alawaben",
+                  "text": "Eine Moschee in Küstennähe, die der lokalen Gemeinschaft als spiritueller Treffpunkt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        39.210066,
+                        21.629663
+                  ]
+            },
+            {
+                  "name": "Al Redah Mosque",
+                  "text": "Ein muslimisches Gotteshaus in der Nähe der Corniche mit traditioneller saudischer Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        39.187305,
+                        21.599903
+                  ]
+            },
+            {
+                  "name": "Alsheabi mosque",
+                  "text": "Eine lokale Moschee in Jeddah, die für die täglichen Gebete der Anwohner genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        39.158127,
+                        21.588041
+                  ]
+            },
+            {
+                  "name": "Harithy Mosque",
+                  "text": "Diese vom Architekten Abdel-Wahed El-Wakil entworfene Moschee besticht durch ihre eleganten weißen Kuppeln.",
+                  "category": "landmark",
+                  "coords": [
+                        39.164098,
+                        21.580077
+                  ]
+            },
+            {
+                  "name": "Mohammed Abdo Mosque",
+                  "text": "Eine moderne muslimische Gebetsstätte, die nach dem berühmten saudischen Sänger Mohammed Abdo benannt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        39.156767,
+                        21.576318
+                  ]
+            },
+            {
+                  "name": "HRH Prince Sultan Mosque",
+                  "text": "Eine prachtvolle Moschee in Jeddah, die zu Ehren von Prinz Sultan bin Abdulaziz errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        39.143172,
+                        21.583877
+                  ]
+            },
+            {
+                  "name": "At-Toqa mosque",
+                  "text": "Ein ruhiger Ort des Gebets im Corniche-Viertel, der für seine spirituelle Ruhe geschätzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        39.141549,
+                        21.594715
+                  ]
+            },
+            {
+                  "name": "Masjid Ibn Qayyim Al Jawziah",
+                  "text": "Eine Moschee in Jeddah, die dem Erbe des Gelehrten Ibn Qayyim Al Jawziah gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        39.13933,
+                        21.609024
+                  ]
+            },
+            {
+                  "name": "Noor AlRahman Mosque",
+                  "text": "Eine hell erleuchtete Moschee, deren Name übersetzt 'Licht des Barmherzigen' bedeutet.",
+                  "category": "landmark",
+                  "coords": [
+                        39.148428,
+                        21.607193
+                  ]
+            },
+            {
+                  "name": "Masjid Al Amoud",
+                  "text": "Eine markante Moschee im Viertel, die durch ihr hohes Minarett und die moderne Bauweise auffällt.",
+                  "category": "landmark",
+                  "coords": [
+                        39.143617,
+                        21.613195
+                  ]
+            },
+            {
+                  "name": "Al Muflihoon Mosque",
+                  "text": "Eine muslimische Gebetsstätte im belebten Corniche-Gebiet von Jeddah.",
+                  "category": "landmark",
+                  "coords": [
+                        39.131591,
+                        21.626738
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Ein schlichter Gebetsort für Besucher der Küstenpromenade in Jeddah.",
+                  "category": "landmark",
+                  "coords": [
+                        39.136628,
+                        21.627724
+                  ]
+            },
+            {
+                  "name": "Mahmoud Saeed Souq",
+                  "text": "Ein großer Marktplatz in Jeddah, der besonders für Haushaltswaren und Möbel bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        39.181904,
+                        21.571738
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Falak Square",
+                  "text": "Ez a dzsiddai tér óriási csillagászati földgömb szobráról ismert, amely a város modern jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        39.176952,
+                        21.584456
+                  ]
+            },
+            {
+                  "name": "Fun Island",
+                  "text": "Családi vidámpark a dzsiddai tengerparton, különféle játékokkal és közvetlen kilátással a Vörös-tengerre.",
+                  "category": "recreational",
+                  "coords": [
+                        39.172437,
+                        21.589955
+                  ]
+            },
+            {
+                  "name": "Bicycle roundabout",
+                  "text": "Híres körforgalom, amelynek közepén egy hatalmas, ikonikus kerékpárszobor áll.",
+                  "category": "historical",
+                  "coords": [
+                        39.182819,
+                        21.568038
+                  ]
+            },
+            {
+                  "name": "Dawwar Thareeh",
+                  "text": "Monumentális körforgalom a Corniche közelében, amely jellegzetes tájékozódási pontként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        39.141109,
+                        21.610841
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Egyszerű tengerparti imádságos hely a környék lakói és a Corniche park látogatói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        39.13708,
+                        21.60466
+                  ]
+            },
+            {
+                  "name": "Ibn Abbas Mosque",
+                  "text": "Muszlim kegyhely Dzsiddában, amely Mohamed próféta unokatestvéréről kapta a nevét.",
+                  "category": "landmark",
+                  "coords": [
+                        39.146461,
+                        21.617564
+                  ]
+            },
+            {
+                  "name": "King Abdulaziz International Airport Mosque",
+                  "text": "Modern mecset közvetlenül a nemzetközi repülőtéren, amely imádkozási lehetőséget biztosít az utazóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        39.179765,
+                        21.649043
+                  ]
+            },
+            {
+                  "name": "Mosque of Piety",
+                  "text": "Helyi mecset a Corniche parkokban, amely békés légköréről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        39.192631,
+                        21.622624
+                  ]
+            },
+            {
+                  "name": "alaokten",
+                  "text": "Kicsi muszlim imádságos hely Dzsidda modern parknegyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        39.207848,
+                        21.62981
+                  ]
+            },
+            {
+                  "name": "Alawaben",
+                  "text": "Partközeli mecset, amely a helyi közösség spirituális találkozóhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        39.210066,
+                        21.629663
+                  ]
+            },
+            {
+                  "name": "Al Redah Mosque",
+                  "text": "Muszlim imaház a Corniche közelében, hagyományos szaúdi építészeti elemekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        39.187305,
+                        21.599903
+                  ]
+            },
+            {
+                  "name": "Alsheabi mosque",
+                  "text": "Helyi mecset Dzsiddában, amelyet a lakosok napi imádságaira használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        39.158127,
+                        21.588041
+                  ]
+            },
+            {
+                  "name": "Harithy Mosque",
+                  "text": "Az Abdel-Wahed El-Wakil építész által tervezett mecset elegáns fehér kupoláival tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        39.164098,
+                        21.580077
+                  ]
+            },
+            {
+                  "name": "Mohammed Abdo Mosque",
+                  "text": "Modern muszlim imádságos hely, amelyet a híres szaúdi énekesről, Mohammed Abdóról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        39.156767,
+                        21.576318
+                  ]
+            },
+            {
+                  "name": "HRH Prince Sultan Mosque",
+                  "text": "Pompás mecset Dzsiddában, amelyet Szultán bin Abdul-Aziz herceg tiszteletére emeltek.",
+                  "category": "landmark",
+                  "coords": [
+                        39.143172,
+                        21.583877
+                  ]
+            },
+            {
+                  "name": "At-Toqa mosque",
+                  "text": "Csendes imádságos hely a Corniche negyedben, amelyet spirituális nyugalmáért értékelnek.",
+                  "category": "landmark",
+                  "coords": [
+                        39.141549,
+                        21.594715
+                  ]
+            },
+            {
+                  "name": "Masjid Ibn Qayyim Al Jawziah",
+                  "text": "Dzsiddai mecset, amelyet Ibn Qayyim Al Jawziah tudós örökségének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        39.13933,
+                        21.609024
+                  ]
+            },
+            {
+                  "name": "Noor AlRahman Mosque",
+                  "text": "Fényesen kivilágított mecset, amelynek neve magyarul a 'Könyörületes fénye' jelentéssel bír.",
+                  "category": "landmark",
+                  "coords": [
+                        39.148428,
+                        21.607193
+                  ]
+            },
+            {
+                  "name": "Masjid Al Amoud",
+                  "text": "A negyed jellegzetes mecsetje, amely magas minaretjével és modern építési módjával tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        39.143617,
+                        21.613195
+                  ]
+            },
+            {
+                  "name": "Al Muflihoon Mosque",
+                  "text": "Muszlim imádságos hely Dzsidda nyüzsgő Corniche területén.",
+                  "category": "landmark",
+                  "coords": [
+                        39.131591,
+                        21.626738
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Egyszerű imádságos hely a dzsiddai tengerparti sétány látogatói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        39.136628,
+                        21.627724
+                  ]
+            },
+            {
+                  "name": "Mahmoud Saeed Souq",
+                  "text": "Nagy piac Dzsiddában, amely különösen háztartási cikkekről és bútorokról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        39.181904,
+                        21.571738
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Falak Square",
+                  "text": "Această piață din Jeddah este cunoscută pentru sculptura sa uriașă a unui glob astronomic, un simbol modern al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        39.176952,
+                        21.584456
+                  ]
+            },
+            {
+                  "name": "Fun Island",
+                  "text": "Un parc de distracții pentru familii pe faleza din Jeddah, cu diverse atracții și vedere directă la Marea Roșie.",
+                  "category": "recreational",
+                  "coords": [
+                        39.172437,
+                        21.589955
+                  ]
+            },
+            {
+                  "name": "Bicycle roundabout",
+                  "text": "Un sens giratoriu celebru care prezintă în centru o sculptură gigantică de bicicletă.",
+                  "category": "historical",
+                  "coords": [
+                        39.182819,
+                        21.568038
+                  ]
+            },
+            {
+                  "name": "Dawwar Thareeh",
+                  "text": "Un sens giratoriu monumental lângă Corniche, care servește drept punct de reper distinctiv.",
+                  "category": "landmark",
+                  "coords": [
+                        39.141109,
+                        21.610841
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Un loc de rugăciune simplu pe coastă pentru rezidenții și vizitatorii parcului Corniche.",
+                  "category": "landmark",
+                  "coords": [
+                        39.13708,
+                        21.60466
+                  ]
+            },
+            {
+                  "name": "Ibn Abbas Mosque",
+                  "text": "Un lăcaș de cult musulman din Jeddah, numit după vărul profetului Mahomed.",
+                  "category": "landmark",
+                  "coords": [
+                        39.146461,
+                        21.617564
+                  ]
+            },
+            {
+                  "name": "King Abdulaziz International Airport Mosque",
+                  "text": "O moschee modernă situată direct la aeroportul internațional, oferind spațiu de rugăciune călătorilor.",
+                  "category": "landmark",
+                  "coords": [
+                        39.179765,
+                        21.649043
+                  ]
+            },
+            {
+                  "name": "Mosque of Piety",
+                  "text": "O moschee locală din parcurile Corniche, cunoscută pentru atmosfera sa liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        39.192631,
+                        21.622624
+                  ]
+            },
+            {
+                  "name": "alaokten",
+                  "text": "Un mic lăcaș de rugăciune musulman în cartierul modern de parcuri din Jeddah.",
+                  "category": "landmark",
+                  "coords": [
+                        39.207848,
+                        21.62981
+                  ]
+            },
+            {
+                  "name": "Alawaben",
+                  "text": "O moschee situată aproape de coastă, care servește comunității locale ca punct de întâlnire spiritual.",
+                  "category": "landmark",
+                  "coords": [
+                        39.210066,
+                        21.629663
+                  ]
+            },
+            {
+                  "name": "Al Redah Mosque",
+                  "text": "Un lăcaș de cult musulman lângă Corniche, cu arhitectură tradițională saudită.",
+                  "category": "landmark",
+                  "coords": [
+                        39.187305,
+                        21.599903
+                  ]
+            },
+            {
+                  "name": "Alsheabi mosque",
+                  "text": "O moschee locală din Jeddah, folosită pentru rugăciunile zilnice ale locuitorilor.",
+                  "category": "landmark",
+                  "coords": [
+                        39.158127,
+                        21.588041
+                  ]
+            },
+            {
+                  "name": "Harithy Mosque",
+                  "text": "Această moschee proiectată de arhitectul Abdel-Wahed El-Wakil se remarcă prin cupolele sale albe elegante.",
+                  "category": "landmark",
+                  "coords": [
+                        39.164098,
+                        21.580077
+                  ]
+            },
+            {
+                  "name": "Mohammed Abdo Mosque",
+                  "text": "Un lăcaș de rugăciune musulman modern, numit după celebrul cântăreț saudit Mohammed Abdo.",
+                  "category": "landmark",
+                  "coords": [
+                        39.156767,
+                        21.576318
+                  ]
+            },
+            {
+                  "name": "HRH Prince Sultan Mosque",
+                  "text": "O moschee magnifică din Jeddah, ridicată în onoarea prințului Sultan bin Abdulaziz.",
+                  "category": "landmark",
+                  "coords": [
+                        39.143172,
+                        21.583877
+                  ]
+            },
+            {
+                  "name": "At-Toqa mosque",
+                  "text": "Un loc liniștit de rugăciune în cartierul Corniche, apreciat pentru liniștea sa spirituală.",
+                  "category": "landmark",
+                  "coords": [
+                        39.141549,
+                        21.594715
+                  ]
+            },
+            {
+                  "name": "Masjid Ibn Qayyim Al Jawziah",
+                  "text": "O moschee din Jeddah dedicată moștenirii învățatului Ibn Qayyim Al Jawziah.",
+                  "category": "landmark",
+                  "coords": [
+                        39.13933,
+                        21.609024
+                  ]
+            },
+            {
+                  "name": "Noor AlRahman Mosque",
+                  "text": "O moschee luminată puternic, al cărei nume se traduce prin „Lumina Celui Milostiv”.",
+                  "category": "landmark",
+                  "coords": [
+                        39.148428,
+                        21.607193
+                  ]
+            },
+            {
+                  "name": "Masjid Al Amoud",
+                  "text": "O moschee distinctivă din cartier, care atrage atenția prin minaretul său înalt și construcția modernă.",
+                  "category": "landmark",
+                  "coords": [
+                        39.143617,
+                        21.613195
+                  ]
+            },
+            {
+                  "name": "Al Muflihoon Mosque",
+                  "text": "Un lăcaș de rugăciune musulman în zona animată Corniche din Jeddah.",
+                  "category": "landmark",
+                  "coords": [
+                        39.131591,
+                        21.626738
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Un loc de rugăciune simplu pentru vizitatorii promenadei de coastă din Jeddah.",
+                  "category": "landmark",
+                  "coords": [
+                        39.136628,
+                        21.627724
+                  ]
+            },
+            {
+                  "name": "Mahmoud Saeed Souq",
+                  "text": "O piață mare din Jeddah, cunoscută în special pentru articole de uz casnic și mobilier.",
+                  "category": "cultural",
+                  "coords": [
+                        39.181904,
+                        21.571738
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Falak Square",
+                  "text": "This square in Jeddah is famous for its massive sculpture of an astronomical globe, a modern landmark of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        39.176952,
+                        21.584456
+                  ]
+            },
+            {
+                  "name": "Fun Island",
+                  "text": "A family amusement park on the Jeddah Corniche featuring various rides and direct views of the Red Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        39.172437,
+                        21.589955
+                  ]
+            },
+            {
+                  "name": "Bicycle roundabout",
+                  "text": "A well-known roundabout featuring a massive, iconic bicycle sculpture at its center.",
+                  "category": "historical",
+                  "coords": [
+                        39.182819,
+                        21.568038
+                  ]
+            },
+            {
+                  "name": "Dawwar Thareeh",
+                  "text": "A monumental roundabout near the Corniche that serves as a prominent local landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        39.141109,
+                        21.610841
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "A simple coastal place of worship serving residents and visitors of the Corniche park area.",
+                  "category": "landmark",
+                  "coords": [
+                        39.13708,
+                        21.60466
+                  ]
+            },
+            {
+                  "name": "Ibn Abbas Mosque",
+                  "text": "A Muslim place of worship in Jeddah named after the cousin of the Prophet Muhammad.",
+                  "category": "landmark",
+                  "coords": [
+                        39.146461,
+                        21.617564
+                  ]
+            },
+            {
+                  "name": "King Abdulaziz International Airport Mosque",
+                  "text": "A modern mosque located at the international airport, providing a prayer space for travelers.",
+                  "category": "landmark",
+                  "coords": [
+                        39.179765,
+                        21.649043
+                  ]
+            },
+            {
+                  "name": "Mosque of Piety",
+                  "text": "A local mosque situated within the Corniche parks, known for its peaceful atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        39.192631,
+                        21.622624
+                  ]
+            },
+            {
+                  "name": "alaokten",
+                  "text": "A small Muslim prayer facility located in the modern park district of Jeddah.",
+                  "category": "landmark",
+                  "coords": [
+                        39.207848,
+                        21.62981
+                  ]
+            },
+            {
+                  "name": "Alawaben",
+                  "text": "A mosque near the coast that serves as a spiritual gathering point for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        39.210066,
+                        21.629663
+                  ]
+            },
+            {
+                  "name": "Al Redah Mosque",
+                  "text": "A Muslim house of worship near the Corniche featuring traditional Saudi architectural elements.",
+                  "category": "landmark",
+                  "coords": [
+                        39.187305,
+                        21.599903
+                  ]
+            },
+            {
+                  "name": "Alsheabi mosque",
+                  "text": "A local mosque in Jeddah used for the daily prayers of the neighborhood residents.",
+                  "category": "landmark",
+                  "coords": [
+                        39.158127,
+                        21.588041
+                  ]
+            },
+            {
+                  "name": "Harithy Mosque",
+                  "text": "Designed by architect Abdel-Wahed El-Wakil, this mosque is notable for its elegant white domes.",
+                  "category": "landmark",
+                  "coords": [
+                        39.164098,
+                        21.580077
+                  ]
+            },
+            {
+                  "name": "Mohammed Abdo Mosque",
+                  "text": "A modern Muslim prayer site named after the famous Saudi singer Mohammed Abdo.",
+                  "category": "landmark",
+                  "coords": [
+                        39.156767,
+                        21.576318
+                  ]
+            },
+            {
+                  "name": "HRH Prince Sultan Mosque",
+                  "text": "A grand mosque in Jeddah erected in honor of HRH Prince Sultan bin Abdulaziz.",
+                  "category": "landmark",
+                  "coords": [
+                        39.143172,
+                        21.583877
+                  ]
+            },
+            {
+                  "name": "At-Toqa mosque",
+                  "text": "A quiet place of prayer in the Corniche district, valued for its spiritual tranquility.",
+                  "category": "landmark",
+                  "coords": [
+                        39.141549,
+                        21.594715
+                  ]
+            },
+            {
+                  "name": "Masjid Ibn Qayyim Al Jawziah",
+                  "text": "A mosque in Jeddah dedicated to the legacy of the scholar Ibn Qayyim Al Jawziah.",
+                  "category": "landmark",
+                  "coords": [
+                        39.13933,
+                        21.609024
+                  ]
+            },
+            {
+                  "name": "Noor AlRahman Mosque",
+                  "text": "A brightly lit mosque whose name translates to the 'Light of the Merciful.'",
+                  "category": "landmark",
+                  "coords": [
+                        39.148428,
+                        21.607193
+                  ]
+            },
+            {
+                  "name": "Masjid Al Amoud",
+                  "text": "A distinctive neighborhood mosque notable for its tall minaret and modern construction.",
+                  "category": "landmark",
+                  "coords": [
+                        39.143617,
+                        21.613195
+                  ]
+            },
+            {
+                  "name": "Al Muflihoon Mosque",
+                  "text": "A Muslim prayer facility located within the bustling Corniche area of Jeddah.",
+                  "category": "landmark",
+                  "coords": [
+                        39.131591,
+                        21.626738
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "A simple prayer location for those visiting the coastal promenade in Jeddah.",
+                  "category": "landmark",
+                  "coords": [
+                        39.136628,
+                        21.627724
+                  ]
+            },
+            {
+                  "name": "Mahmoud Saeed Souq",
+                  "text": "A large marketplace in Jeddah particularly well-known for household goods and furniture.",
+                  "category": "cultural",
+                  "coords": [
+                        39.181904,
+                        21.571738
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "SA-02",
     coords: [39.141, 21.611],

@@ -484,7 +484,7 @@ export const italyHistoryV2: POI[] = [
             },
             {
                   "name": "Parco dei dinosauri",
-                  "text": "Ein Dinosaurierpark beim Nuraghe Su Nuraxi.",
+                  "text": "Dinosaurierpark Parco dei dinosauri neben dem archäologischen Gelände Su Nuraxi (UNESCO) in Barumini, Sardinien.",
                   "category": "park",
                   "coords": [
                         8.981518,
@@ -576,7 +576,7 @@ export const italyHistoryV2: POI[] = [
             },
             {
                   "name": "Parco dei dinosauri",
-                  "text": "Dinoszaurusz-park a Su Nuraxi nurágé közelében.",
+                  "text": "Parco dei dinosauri dinoszauruszpark a Su Nuraxi régészeti lelőhely (UNESCO) mellett, Baruminiben, Szardínián.",
                   "category": "park",
                   "coords": [
                         8.981518,
@@ -668,7 +668,7 @@ export const italyHistoryV2: POI[] = [
             },
             {
                   "name": "Parco dei dinosauri",
-                  "text": "Un parc de dinozauri lângă Nuraghe Su Nuraxi.",
+                  "text": "Parcul cu dinozauri Parco dei dinosauri lângă situl arheologic Su Nuraxi (UNESCO) din Barumini, Sardinia.",
                   "category": "park",
                   "coords": [
                         8.981518,
@@ -760,7 +760,7 @@ export const italyHistoryV2: POI[] = [
             },
             {
                   "name": "Parco dei dinosauri",
-                  "text": "A dinosaur park located near Nuraghe Su Nuraxi.",
+                  "text": "Dinosaur park Parco dei dinosauri next to the Su Nuraxi archaeological site (UNESCO) in Barumini, Sardinia.",
                   "category": "park",
                   "coords": [
                         8.981518,
@@ -934,7 +934,7 @@ export const italyHistoryV2: POI[] = [
             },
             {
                   "name": "Ekklesiasterion",
-                  "text": "Ein antiker Versammlungsort für Bürger in Paestum.",
+                  "text": "Antike griechische Versammlungsstätte in der archäologischen Stätte von Paestum.",
                   "category": "historical",
                   "coords": [
                         15.006228,
@@ -1015,7 +1015,7 @@ export const italyHistoryV2: POI[] = [
             },
             {
                   "name": "Spiaggia Casina d'Amato",
-                  "text": "Die Spiaggia Casina d'Amato ist ein Sandstrand bei der antiken Stadt Paestum.",
+                  "text": "Strand Spiaggia Casina d'Amato nahe den antiken griechischen Tempeln von Paestum.",
                   "category": "recreational",
                   "coords": [
                         14.978071,
@@ -1042,7 +1042,7 @@ export const italyHistoryV2: POI[] = [
             },
             {
                   "name": "Spiagga Licinella",
-                  "text": "Die Spiagga Licinella ist ein strand in Paestum, der für seinen feinen Sand bekannt ist.",
+                  "text": "Sandstrand nahe den antiken griechischen Tempeln von Paestum.",
                   "category": "recreational",
                   "coords": [
                         14.991691,
@@ -1051,7 +1051,7 @@ export const italyHistoryV2: POI[] = [
             },
             {
                   "name": "Spiaggia Libera",
-                  "text": "Ein öffentlicher freier Strandabschnitt in der Region Paestum.",
+                  "text": "Kostenlos zugänglicher Strand an der Küste von Paestum, nahe dem Archäologiepark.",
                   "category": "recreational",
                   "coords": [
                         14.968718,
@@ -1080,7 +1080,7 @@ export const italyHistoryV2: POI[] = [
             },
             {
                   "name": "Ekklesiasterion",
-                  "text": "Az állampolgárok ókori gyülekezőhelye Paestumban.",
+                  "text": "Ókori görög gyülekezőhely Paestum régészeti lelőhelyén.",
                   "category": "historical",
                   "coords": [
                         15.006228,
@@ -1161,7 +1161,7 @@ export const italyHistoryV2: POI[] = [
             },
             {
                   "name": "Spiaggia Casina d'Amato",
-                  "text": "A Spiaggia Casina d'Amato egy homokos tengerpart az ókori Paestum városa mellett.",
+                  "text": "Spiaggia Casina d'Amato strand Paestum ókori görög templomainak közelében.",
                   "category": "recreational",
                   "coords": [
                         14.978071,
@@ -1188,7 +1188,7 @@ export const italyHistoryV2: POI[] = [
             },
             {
                   "name": "Spiagga Licinella",
-                  "text": "A Spiagga Licinella egy strand Paestumban, amely finom homokjáról ismert.",
+                  "text": "Homokos strand Paestum ókori görög templomainak közelében.",
                   "category": "recreational",
                   "coords": [
                         14.991691,
@@ -1197,7 +1197,7 @@ export const italyHistoryV2: POI[] = [
             },
             {
                   "name": "Spiaggia Libera",
-                  "text": "Ingyenes nyilvános strandrész Paestum régiójában.",
+                  "text": "Ingyenesen hozzáférhető strand Paestum partján, a régészeti park közelében.",
                   "category": "recreational",
                   "coords": [
                         14.968718,
@@ -1226,7 +1226,7 @@ export const italyHistoryV2: POI[] = [
             },
             {
                   "name": "Ekklesiasterion",
-                  "text": "Un loc de adunare antic pentru cetățeni în Paestum.",
+                  "text": "Loc de adunare grecesc antic în situl arheologic Paestum.",
                   "category": "historical",
                   "coords": [
                         15.006228,
@@ -1307,7 +1307,7 @@ export const italyHistoryV2: POI[] = [
             },
             {
                   "name": "Spiaggia Casina d'Amato",
-                  "text": "Spiaggia Casina d'Amato este o plajă cu nisip lângă orașul antic Paestum.",
+                  "text": "Plaja Spiaggia Casina d'Amato lângă templele grecești antice din Paestum.",
                   "category": "recreational",
                   "coords": [
                         14.978071,
@@ -1334,7 +1334,7 @@ export const italyHistoryV2: POI[] = [
             },
             {
                   "name": "Spiagga Licinella",
-                  "text": "Spiagga Licinella este o plajă din Paestum cunoscută pentru nisipul său fin.",
+                  "text": "Plajă nisipoasă lângă templele grecești antice din Paestum.",
                   "category": "recreational",
                   "coords": [
                         14.991691,
@@ -1343,7 +1343,7 @@ export const italyHistoryV2: POI[] = [
             },
             {
                   "name": "Spiaggia Libera",
-                  "text": "O secțiune de plajă publică liberă în regiunea Paestum.",
+                  "text": "Plajă cu acces liber pe coasta Paestum, lângă parcul arheologic.",
                   "category": "recreational",
                   "coords": [
                         14.968718,
@@ -1372,7 +1372,7 @@ export const italyHistoryV2: POI[] = [
             },
             {
                   "name": "Ekklesiasterion",
-                  "text": "An ancient assembly hall for citizens in Paestum.",
+                  "text": "Ancient Greek assembly hall in the Paestum archaeological site.",
                   "category": "historical",
                   "coords": [
                         15.006228,
@@ -1453,7 +1453,7 @@ export const italyHistoryV2: POI[] = [
             },
             {
                   "name": "Spiaggia Casina d'Amato",
-                  "text": "Spiaggia Casina d'Amato is a sandy beach near the ancient city of Paestum.",
+                  "text": "Beach Spiaggia Casina d'Amato near the ancient Greek temples of Paestum.",
                   "category": "recreational",
                   "coords": [
                         14.978071,
@@ -1480,7 +1480,7 @@ export const italyHistoryV2: POI[] = [
             },
             {
                   "name": "Spiagga Licinella",
-                  "text": "Spiagga Licinella is a beach in Paestum known for its fine sand.",
+                  "text": "Sandy beach near the ancient Greek temples of Paestum.",
                   "category": "recreational",
                   "coords": [
                         14.991691,
@@ -1489,7 +1489,7 @@ export const italyHistoryV2: POI[] = [
             },
             {
                   "name": "Spiaggia Libera",
-                  "text": "A free public beach section in the Paestum region.",
+                  "text": "Free-access beach along the coast of Paestum, near the archaeological park.",
                   "category": "recreational",
                   "coords": [
                         14.968718,
@@ -2797,7 +2797,7 @@ export const italyHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Marina di Vico",
-                  "text": "Ein charakteristischer Strand am Yachthafen von Vico Equense.",
+                  "text": "Kleine Marina im Klippenort Vico Equense mit Blick auf den Golf von Neapel.",
                   "category": "recreational",
                   "coords": [
                         14.427738,
@@ -2806,7 +2806,7 @@ export const italyHistoryV2: POI[] = [
             },
             {
                   "name": "Garden Beach",
-                  "text": "Ein organisierter Strandbereich an der Küste von Vico Equense.",
+                  "text": "Strandclub mit üppigen Gärten auf der Sorrentiner Halbinsel.",
                   "category": "recreational",
                   "coords": [
                         14.456275,
@@ -2835,7 +2835,7 @@ export const italyHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Marina di Vico",
-                  "text": "Jellegzetes strand Vico Equense jachtkikötőjénél.",
+                  "text": "Kis kikötő a sziklás Vico Equense településen, a Nápolyi-öbölre néző kilátással.",
                   "category": "recreational",
                   "coords": [
                         14.427738,
@@ -2844,7 +2844,7 @@ export const italyHistoryV2: POI[] = [
             },
             {
                   "name": "Garden Beach",
-                  "text": "Kiépített strandterület Vico Equense partjainál.",
+                  "text": "Strandklub buja kertekkel a Sorrentói-félszigeten.",
                   "category": "recreational",
                   "coords": [
                         14.456275,
@@ -2873,7 +2873,7 @@ export const italyHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Marina di Vico",
-                  "text": "O plajă caracteristică situată lângă portul de agrement din Vico Equense.",
+                  "text": "Mică marină în orașul de stâncă Vico Equense, cu vedere la Golful Napoli.",
                   "category": "recreational",
                   "coords": [
                         14.427738,
@@ -2882,7 +2882,7 @@ export const italyHistoryV2: POI[] = [
             },
             {
                   "name": "Garden Beach",
-                  "text": "O zonă de plajă organizată pe coasta din Vico Equense.",
+                  "text": "Plajă club cu grădini luxuriante pe Peninsula Sorrentină.",
                   "category": "recreational",
                   "coords": [
                         14.456275,
@@ -2911,7 +2911,7 @@ export const italyHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Marina di Vico",
-                  "text": "A characteristic beach at the marina of Vico Equense.",
+                  "text": "Small marina in the cliffside town of Vico Equense overlooking the Gulf of Naples.",
                   "category": "recreational",
                   "coords": [
                         14.427738,
@@ -2920,7 +2920,7 @@ export const italyHistoryV2: POI[] = [
             },
             {
                   "name": "Garden Beach",
-                  "text": "An organized beach area on the coast of Vico Equense.",
+                  "text": "Beach club with lush gardens on the Sorrentine Peninsula.",
                   "category": "recreational",
                   "coords": [
                         14.456275,
@@ -2995,7 +2995,7 @@ export const italyHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Spiaggia di San Leone Libera Accessibile",
-                  "text": "Ein Strand bei Agrigento.",
+                  "text": "Rollstuhlgerechter, kostenloser Strand nahe der Tal der Tempel in Agrigent.",
                   "category": "recreational",
                   "coords": [
                         13.588215,
@@ -3006,7 +3006,7 @@ export const italyHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Spiaggia di San Leone Libera Accessibile",
-                  "text": "Egy strand Agrigento közelében.",
+                  "text": "Kerekesszékkel is megközelíthető, ingyenes strand az agrigentói Templomok Völgye közelében.",
                   "category": "recreational",
                   "coords": [
                         13.588215,
@@ -3017,7 +3017,7 @@ export const italyHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Spiaggia di San Leone Libera Accessibile",
-                  "text": "O plajă lângă Agrigento.",
+                  "text": "Plajă accesibilă pentru scaun cu rotile, lângă Valea Templelor din Agrigento.",
                   "category": "recreational",
                   "coords": [
                         13.588215,
@@ -3028,7 +3028,7 @@ export const italyHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Spiaggia di San Leone Libera Accessibile",
-                  "text": "A beach near Agrigento.",
+                  "text": "Wheelchair-accessible free beach near the Valley of the Temples in Agrigento.",
                   "category": "recreational",
                   "coords": [
                         13.588215,

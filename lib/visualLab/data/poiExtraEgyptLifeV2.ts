@@ -493,7 +493,52 @@ export const poiExtraEgyptLifeV2: POI[] = [
       fr: ["L'île était l'ancien lieu de culte de la déesse du Nil, Satet.", "On y trouve deux nilomètres datant de différentes époques.", "Le parc abrite une grande variété d'espèces végétales exotiques.", "Éléphantine fut autrefois le centre du commerce de l'ivoire.", "L'île offre une vue panoramique sur Assouan.", "Les découvertes archéologiques remontent à l'époque prédynastique."],
     }, image: "/poi-images/aswan-island-kid-life-v2.webp"},
   {
-    id: "sina-camel-habitat-life-v2",
+    id: "sina-camel-habitat-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gebel Giddat al Ela",
+                  "text": "Ein zerklüfteter Berggipfel im Sinai, der weite Ausblicke über die umliegende Wüstenlandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        33.839722,
+                        28.431667
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gebel Giddat al Ela",
+                  "text": "Egy vadregényes hegycsúcs a Sínai-félszigeten, amely tágas kilátást nyújt a környező sivatagi tájra.",
+                  "category": "natural",
+                  "coords": [
+                        33.839722,
+                        28.431667
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gebel Giddat al Ela",
+                  "text": "Un vârf muntos accidentat din Sinai, care oferă vederi vaste asupra peisajului deșertic înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        33.839722,
+                        28.431667
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gebel Giddat al Ela",
+                  "text": "A rugged mountain peak in the Sinai offering vast views over the surrounding desert landscape.",
+                  "category": "natural",
+                  "coords": [
+                        33.839722,
+                        28.431667
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "EG-SIN",
     coords: [33.80, 28.50],
@@ -528,7 +573,268 @@ export const poiExtraEgyptLifeV2: POI[] = [
       fr: ["Les dromadaires sont les principaux animaux d'élevage des Bédouins du Sinaï.", "Les pâturages se déplacent au gré des rares précipitations.", "Les chameaux peuvent boire jusqu'à 40 litres d'eau en une seule fois.", "Des marquages au fer traditionnels indiquent l'appartenance tribale.", "Les plantes du désert comme les acacias servent de source de nourriture importante.", "L'élevage de chameaux est au cœur du tissu social des Bédouins."],
     }, image: "/poi-images/sina-camel-habitat-life-v2.webp"},
   {
-    id: "nabq-protected-life-v2",
+    id: "nabq-protected-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sea Beach Aqua Park",
+                  "text": "Ein weitläufiger Wasserpark in der Nabq-Bucht mit zahlreichen Rutschen und Pools für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        34.43565,
+                        28.055738
+                  ]
+            },
+            {
+                  "name": "Natsional'nyi park Nabk",
+                  "text": "Ein Küstenschutzgebiet, das für seine nördlichsten Mangrovenwälder und artenreichen Korallenriffe berühmt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        34.44035,
+                        28.143727
+                  ]
+            },
+            {
+                  "name": "Dolphina",
+                  "text": "Ein Freizeitpark in Nabq, in dem Delfinshows stattfinden und Besucher mit den Tieren schwimmen können.",
+                  "category": "recreational",
+                  "coords": [
+                        34.425713,
+                        28.054207
+                  ]
+            },
+            {
+                  "name": "Coral Sea Holiday Village",
+                  "text": "Ein großes Strandresort mit Panoramablick auf die Insel Tiran und das Rote Meer.",
+                  "category": "landmark",
+                  "coords": [
+                        34.432793,
+                        28.04009
+                  ]
+            },
+            {
+                  "name": "aqua park",
+                  "text": "Ein familienfreundlicher Freizeitkomplex in Nabq mit verschiedenen Wasserattraktionen und Spielbereichen.",
+                  "category": "recreational",
+                  "coords": [
+                        34.409149,
+                        28.040886
+                  ]
+            },
+            {
+                  "name": "Taj Mahal",
+                  "text": "Ein bekannter Veranstaltungsort, der für seine prächtige, indisch inspirierte Architektur mit Kuppeln bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        34.405911,
+                        28.037616
+                  ]
+            },
+            {
+                  "name": "Nabq National park Mosque",
+                  "text": "Eine lokale Moschee am Rande des Nabq-Nationalparks, die durch ihre schlichte Küstenarchitektur besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        34.428965,
+                        28.086493
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sea Beach Aqua Park",
+                  "text": "Kiterjedt vízipark a Nabq-öbölben, számos csúszdával és medencével családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        34.43565,
+                        28.055738
+                  ]
+            },
+            {
+                  "name": "Natsional'nyi park Nabk",
+                  "text": "Part menti védett terület, amely a legészakibb mangroveerdőiről és fajgazdag korallzátonyairól híres.",
+                  "category": "landmark",
+                  "coords": [
+                        34.44035,
+                        28.143727
+                  ]
+            },
+            {
+                  "name": "Dolphina",
+                  "text": "Szórakoztató park Nabqban, ahol delfinshow-kat tartanak, és a látogatók együtt úszhatnak az állatokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        34.425713,
+                        28.054207
+                  ]
+            },
+            {
+                  "name": "Coral Sea Holiday Village",
+                  "text": "Hatalmas tengerparti üdülőközpont, ahonnan panorámás kilátás nyílik a Tirán-szigetre és a Vörös-tengerre.",
+                  "category": "landmark",
+                  "coords": [
+                        34.432793,
+                        28.04009
+                  ]
+            },
+            {
+                  "name": "aqua park",
+                  "text": "Családbarát szabadidős központ Nabqban, különféle vízi látványosságokkal és játszóterekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        34.409149,
+                        28.040886
+                  ]
+            },
+            {
+                  "name": "Taj Mahal",
+                  "text": "Ismert szórakozóhely, amely pompás, indiai stílusú kupolás építészetéről nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        34.405911,
+                        28.037616
+                  ]
+            },
+            {
+                  "name": "Nabq National park Mosque",
+                  "text": "Helyi mecset a Nabq Nemzeti Park szélén, amely egyszerű tengerparti építészetével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        34.428965,
+                        28.086493
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sea Beach Aqua Park",
+                  "text": "Un parc acvatic vast în Nabq Bay, cu numeroase tobogane și piscine pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        34.43565,
+                        28.055738
+                  ]
+            },
+            {
+                  "name": "Natsional'nyi park Nabk",
+                  "text": "O zonă de coastă protejată, faimoasă pentru cele mai nordice păduri de mangrove și recife de corali bogate în specii.",
+                  "category": "landmark",
+                  "coords": [
+                        34.44035,
+                        28.143727
+                  ]
+            },
+            {
+                  "name": "Dolphina",
+                  "text": "Un parc de distracții în Nabq, unde au loc spectacole cu delfini și vizitatorii pot înota cu aceștia.",
+                  "category": "recreational",
+                  "coords": [
+                        34.425713,
+                        28.054207
+                  ]
+            },
+            {
+                  "name": "Coral Sea Holiday Village",
+                  "text": "O stațiune mare la malul mării, oferind vederi panoramice spre Insula Tiran și Marea Roșie.",
+                  "category": "landmark",
+                  "coords": [
+                        34.432793,
+                        28.04009
+                  ]
+            },
+            {
+                  "name": "aqua park",
+                  "text": "Un complex de agrement pentru familii în Nabq, cu diverse atracții acvatice și zone de joacă.",
+                  "category": "recreational",
+                  "coords": [
+                        34.409149,
+                        28.040886
+                  ]
+            },
+            {
+                  "name": "Taj Mahal",
+                  "text": "Un loc de divertisment cunoscut pentru arhitectura sa splendidă de inspirație indiană, decorată cu cupole.",
+                  "category": "landmark",
+                  "coords": [
+                        34.405911,
+                        28.037616
+                  ]
+            },
+            {
+                  "name": "Nabq National park Mosque",
+                  "text": "O moschee locală la marginea Parcului Național Nabq, remarcabilă prin arhitectura sa costieră simplă.",
+                  "category": "landmark",
+                  "coords": [
+                        34.428965,
+                        28.086493
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sea Beach Aqua Park",
+                  "text": "A sprawling water park in Nabq Bay featuring numerous slides and pools for families.",
+                  "category": "recreational",
+                  "coords": [
+                        34.43565,
+                        28.055738
+                  ]
+            },
+            {
+                  "name": "Natsional'nyi park Nabk",
+                  "text": "A coastal protected area famous for its northernmost mangrove forests and species-rich coral reefs.",
+                  "category": "landmark",
+                  "coords": [
+                        34.44035,
+                        28.143727
+                  ]
+            },
+            {
+                  "name": "Dolphina",
+                  "text": "A theme park in Nabq offering dolphin shows and opportunities for visitors to swim with the animals.",
+                  "category": "recreational",
+                  "coords": [
+                        34.425713,
+                        28.054207
+                  ]
+            },
+            {
+                  "name": "Coral Sea Holiday Village",
+                  "text": "A large beachfront resort offering panoramic views of Tiran Island and the Red Sea.",
+                  "category": "landmark",
+                  "coords": [
+                        34.432793,
+                        28.04009
+                  ]
+            },
+            {
+                  "name": "aqua park",
+                  "text": "A family-friendly leisure complex in Nabq featuring various water attractions and play areas.",
+                  "category": "recreational",
+                  "coords": [
+                        34.409149,
+                        28.040886
+                  ]
+            },
+            {
+                  "name": "Taj Mahal",
+                  "text": "A well-known entertainment venue noted for its grand, Indian-inspired architecture with domes.",
+                  "category": "landmark",
+                  "coords": [
+                        34.405911,
+                        28.037616
+                  ]
+            },
+            {
+                  "name": "Nabq National park Mosque",
+                  "text": "A local mosque on the edge of Nabq National Park, featuring simple coastal architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        34.428965,
+                        28.086493
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "EG-SIN",
     coords: [34.40, 28.10],

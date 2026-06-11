@@ -3,7 +3,196 @@ import type { POI } from "./poi";
 
 export const poiExtraSaudiarabiaEconomicV2: POI[] = [
   {
-    id: "ras-tanura-refinery-economic-v2",
+    id: "ras-tanura-refinery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid Al Sahaba",
+                  "text": "Die Masjid Al Sahaba bietet einen wichtigen islamischen Gebetsbereich für Arbeiter und Anwohner in der Nähe der Raffinerie von Ras Tanura.",
+                  "category": "landmark",
+                  "coords": [
+                        50.045092,
+                        26.71091
+                  ]
+            },
+            {
+                  "name": "Eed Musalla (Unused)",
+                  "text": "Dieser ehemals genutzte islamische Freiluft-Gebetsplatz in Ras Tanura war einst Schauplatz großer Gemeinschaftsgebete während des Zuckerfests.",
+                  "category": "landmark",
+                  "coords": [
+                        50.067914,
+                        26.713011
+                  ]
+            },
+            {
+                  "name": "Abo Ayob Alansari - Mosque",
+                  "text": "Die Abo-Ayob-Alansari-Moschee ist ein tägliches islamisches Gotteshaus in Ras Tanura, das nach einem Gefährten des Propheten benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        50.048922,
+                        26.706494
+                  ]
+            },
+            {
+                  "name": "Tariq ibn Ziyad mosque",
+                  "text": "Die nach dem berühmten muslimischen Feldherrn benannte Moschee dient als täglicher spiritueller Zufluchtsort in Ras Tanura.",
+                  "category": "landmark",
+                  "coords": [
+                        50.050651,
+                        26.703558
+                  ]
+            },
+            {
+                  "name": "Suhaib Alromi Mosque",
+                  "text": "Die Suhaib-Alromi-Moschee in Ras Tanura ist ein muslimischer Gebetsraum in der Nachbarschaft, der nach einem frühen Gefährten des Propheten benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        50.054777,
+                        26.708778
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid Al Sahaba",
+                  "text": "A Masjid Al Sahaba alapvető iszlám imahelyet kínál a dolgozóknak és a lakosoknak a Ras Tanura finomító közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        50.045092,
+                        26.71091
+                  ]
+            },
+            {
+                  "name": "Eed Musalla (Unused)",
+                  "text": "Ez a korábban használt szabadtéri iszlám imádkozóhely Ras Tanurában egykor nagy gyülekezeti imáknak adott otthont az Eid idején.",
+                  "category": "landmark",
+                  "coords": [
+                        50.067914,
+                        26.713011
+                  ]
+            },
+            {
+                  "name": "Abo Ayob Alansari - Mosque",
+                  "text": "Az Abo Ayob Alansari mecset mindennapi iszlám istentiszteleti központot biztosít Ras Tanurában, a Próféta egyik társáról elnevezve.",
+                  "category": "landmark",
+                  "coords": [
+                        50.048922,
+                        26.706494
+                  ]
+            },
+            {
+                  "name": "Tariq ibn Ziyad mosque",
+                  "text": "A híres muszlim parancsnokról elnevezett mecset napi spirituális menedékként szolgál Ras Tanurában.",
+                  "category": "landmark",
+                  "coords": [
+                        50.050651,
+                        26.703558
+                  ]
+            },
+            {
+                  "name": "Suhaib Alromi Mosque",
+                  "text": "A Ras Tanurában található Suhaib Alromi mecset egy környékbeli muszlim imatér, amelyet a Próféta egyik korai társáról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        50.054777,
+                        26.708778
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid Al Sahaba",
+                  "text": "Masjid Al Sahaba oferă o zonă esențială de rugăciune islamică pentru lucrătorii și rezidenții din apropierea rafinăriei Ras Tanura.",
+                  "category": "landmark",
+                  "coords": [
+                        50.045092,
+                        26.71091
+                  ]
+            },
+            {
+                  "name": "Eed Musalla (Unused)",
+                  "text": "Acest teren de rugăciune islamic în aer liber folosit anterior în Ras Tanura a găzduit odată mari rugăciuni congregaționale în timpul Eid.",
+                  "category": "landmark",
+                  "coords": [
+                        50.067914,
+                        26.713011
+                  ]
+            },
+            {
+                  "name": "Abo Ayob Alansari - Mosque",
+                  "text": "Moscheea Abo Ayob Alansari este un centru zilnic de cult islamic numit după un companion al Profetului în Ras Tanura.",
+                  "category": "landmark",
+                  "coords": [
+                        50.048922,
+                        26.706494
+                  ]
+            },
+            {
+                  "name": "Tariq ibn Ziyad mosque",
+                  "text": "Numită după faimosul comandant musulman, această moschee servește ca refugiu spiritual zilnic în Ras Tanura.",
+                  "category": "landmark",
+                  "coords": [
+                        50.050651,
+                        26.703558
+                  ]
+            },
+            {
+                  "name": "Suhaib Alromi Mosque",
+                  "text": "Moscheea Suhaib Alromi din Ras Tanura este un spațiu de rugăciune musulman de cartier, numit după un companion timpuriu al Profetului.",
+                  "category": "landmark",
+                  "coords": [
+                        50.054777,
+                        26.708778
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjid Al Sahaba",
+                  "text": "Masjid Al Sahaba offers an essential Islamic prayer area for workers and residents near the Ras Tanura refinery.",
+                  "category": "landmark",
+                  "coords": [
+                        50.045092,
+                        26.71091
+                  ]
+            },
+            {
+                  "name": "Eed Musalla (Unused)",
+                  "text": "This formerly used outdoor Islamic prayer ground in Ras Tanura once hosted large congregational prayers during Eid.",
+                  "category": "landmark",
+                  "coords": [
+                        50.067914,
+                        26.713011
+                  ]
+            },
+            {
+                  "name": "Abo Ayob Alansari - Mosque",
+                  "text": "Abo Ayob Alansari Mosque provides a daily Islamic worship center named after a companion of the Prophet in Ras Tanura.",
+                  "category": "landmark",
+                  "coords": [
+                        50.048922,
+                        26.706494
+                  ]
+            },
+            {
+                  "name": "Tariq ibn Ziyad mosque",
+                  "text": "Named after the famous Muslim commander, this mosque serves as a daily spiritual refuge in Ras Tanura.",
+                  "category": "landmark",
+                  "coords": [
+                        50.050651,
+                        26.703558
+                  ]
+            },
+            {
+                  "name": "Suhaib Alromi Mosque",
+                  "text": "The Suhaib Alromi Mosque in Ras Tanura is a neighborhood Muslim prayer space named after an early companion of the Prophet.",
+                  "category": "landmark",
+                  "coords": [
+                        50.054777,
+                        26.708778
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "SA-04",
     coords: [50.1130, 26.6575],
@@ -75,7 +264,52 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "jubail-industrial-city-economic-v2",
+    id: "jubail-industrial-city-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mosque",
+                  "text": "Diese lokale muslimische Gebetsstätte bietet den Arbeitern der Jubail Industrial City wichtige religiöse Dienste.",
+                  "category": "landmark",
+                  "coords": [
+                        49.522286,
+                        26.952859
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mosque",
+                  "text": "Ez a helyi muszlim imahely alapvető vallási szolgáltatásokat nyújt a Jubail ipari város munkaereje számára.",
+                  "category": "landmark",
+                  "coords": [
+                        49.522286,
+                        26.952859
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mosque",
+                  "text": "Această unitate locală de rugăciune musulmană oferă servicii religioase esențiale forței de muncă din orașul industrial Jubail.",
+                  "category": "landmark",
+                  "coords": [
+                        49.522286,
+                        26.952859
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mosque",
+                  "text": "This local Muslim prayer facility provides essential religious services to the workforce of the Jubail Industrial City.",
+                  "category": "landmark",
+                  "coords": [
+                        49.522286,
+                        26.952859
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "SA-04",
     coords: [49.5658, 27.0116],
@@ -147,7 +381,124 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "jeddah-islamic-port-economic-v2",
+    id: "jeddah-islamic-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cruise Pirs Jeddah",
+                  "text": "Der Anlegepunkt für internationale Kreuzfahrtschiffe im geschäftigen islamischen Hafen von Jeddah.",
+                  "category": "landmark",
+                  "coords": [
+                        39.162648,
+                        21.480837
+                  ]
+            },
+            {
+                  "name": "Jiddah Light",
+                  "text": "Mit 133 Metern Höhe gilt dieser markante Turm als der höchste aktive Leuchtturm der Welt.",
+                  "category": "landmark",
+                  "coords": [
+                        39.149702,
+                        21.468611
+                  ]
+            },
+            {
+                  "name": "Petromin Souq",
+                  "text": "Ein lokaler Markt im Industriegebiet von Jeddah, auf dem traditionelle Waren angeboten werden.",
+                  "category": "cultural",
+                  "coords": [
+                        39.205819,
+                        21.415864
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cruise Pirs Jeddah",
+                  "text": "A nemzetközi skemélyszállító hajók kikötőhelye Dzsidda nyüzsgő iszlám kikötőjében.",
+                  "category": "landmark",
+                  "coords": [
+                        39.162648,
+                        21.480837
+                  ]
+            },
+            {
+                  "name": "Jiddah Light",
+                  "text": "133 méteres magasságával ezt a jellegzetes tornyot a világ legmagasabb működő világítótornyának tekintik.",
+                  "category": "landmark",
+                  "coords": [
+                        39.149702,
+                        21.468611
+                  ]
+            },
+            {
+                  "name": "Petromin Souq",
+                  "text": "Helyi piac Dzsidda ipari negyedében, ahol hagyományos árukat kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        39.205819,
+                        21.415864
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cruise Pirs Jeddah",
+                  "text": "Punctul de acostare pentru navele de croazieră internaționale în portul islamic aglomerat din Jeddah.",
+                  "category": "landmark",
+                  "coords": [
+                        39.162648,
+                        21.480837
+                  ]
+            },
+            {
+                  "name": "Jiddah Light",
+                  "text": "Cu o înălțime de 133 de metri, acest turn distinctiv este considerat cel mai înalt far activ din lume.",
+                  "category": "landmark",
+                  "coords": [
+                        39.149702,
+                        21.468611
+                  ]
+            },
+            {
+                  "name": "Petromin Souq",
+                  "text": "O piață locală în zona industrială din Jeddah, unde sunt oferite mărfuri tradiționale.",
+                  "category": "cultural",
+                  "coords": [
+                        39.205819,
+                        21.415864
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cruise Pirs Jeddah",
+                  "text": "The docking point for international cruise ships within Jeddah's busy Islamic Port.",
+                  "category": "landmark",
+                  "coords": [
+                        39.162648,
+                        21.480837
+                  ]
+            },
+            {
+                  "name": "Jiddah Light",
+                  "text": "Standing at 133 meters, this striking tower is recognized as the world's tallest active lighthouse.",
+                  "category": "landmark",
+                  "coords": [
+                        39.149702,
+                        21.468611
+                  ]
+            },
+            {
+                  "name": "Petromin Souq",
+                  "text": "A local market in Jeddah's industrial district offering a variety of traditional goods.",
+                  "category": "cultural",
+                  "coords": [
+                        39.205819,
+                        21.415864
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "SA-02",
     coords: [39.1670, 21.4746],
@@ -327,7 +678,268 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "riyadh-dry-port-economic-v2",
+    id: "riyadh-dry-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al - Ghannam Mosque",
+                  "text": "Die Al-Ghannam-Moschee dient den spirituellen Bedürfnissen der örtlichen Arbeiter und Anwohner in der Nähe des Trockenhafens von Riad.",
+                  "category": "landmark",
+                  "coords": [
+                        46.821049,
+                        24.700776
+                  ]
+            },
+            {
+                  "name": "Mosque of Um Ibraheem Al Dhiyab",
+                  "text": "Diese Moschee ist ein wichtiger islamischer Gemeindegottesdienstort, der das geschäftige Trockenhafengebiet in Riad bedient.",
+                  "category": "landmark",
+                  "coords": [
+                        46.748282,
+                        24.618812
+                  ]
+            },
+            {
+                  "name": "Al Rajhi Mosque",
+                  "text": "Obwohl es sich um einen kleineren Zweig handelt, bietet diese Al-Rajhi-Moschee einen wichtigen islamischen Gebetsort im Trockenhafenviertel von Riad.",
+                  "category": "landmark",
+                  "coords": [
+                        46.778892,
+                        24.677394
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Diese lokale Masjid bietet einen bequemen täglichen islamischen Gebetsort für die Industriezone um den Trockenhafen von Riad.",
+                  "category": "landmark",
+                  "coords": [
+                        46.795986,
+                        24.672479
+                  ]
+            },
+            {
+                  "name": "Al Jaser Mosque",
+                  "text": "Die Al-Jaser-Moschee ist ein gemeindeorientiertes islamisches Zentrum, das in Riad tägliche Gottesdienste anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        46.83079,
+                        24.687638
+                  ]
+            },
+            {
+                  "name": "Omar Al Shikh Mosque",
+                  "text": "Die Omar-Al-Shikh-Moschee ist ein islamischer Gebetsraum in der Nachbarschaft, der der lokalen Bevölkerung in der Nähe des Trockenhafens von Riad dient.",
+                  "category": "landmark",
+                  "coords": [
+                        46.825568,
+                        24.688651
+                  ]
+            },
+            {
+                  "name": "Masjid Jami' Hunain",
+                  "text": "Die Masjid Jami' Hunain ist eine größere islamische Gemeindemoschee, die in der Nähe des Trockenhafens von Riad Freitagsgebete veranstaltet.",
+                  "category": "landmark",
+                  "coords": [
+                        46.820393,
+                        24.686592
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al - Ghannam Mosque",
+                  "text": "Az Al - Ghannam mecset a rijádi szárazföldi kikötő közelében lévő helyi munkások és lakosok spirituális igényeit szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        46.821049,
+                        24.700776
+                  ]
+            },
+            {
+                  "name": "Mosque of Um Ibraheem Al Dhiyab",
+                  "text": "Ez a mecset egy fontos iszlám közösségi istentiszteleti hely, amely a nyüzsgő szárazföldi kikötőt szolgálja Rijádban.",
+                  "category": "landmark",
+                  "coords": [
+                        46.748282,
+                        24.618812
+                  ]
+            },
+            {
+                  "name": "Al Rajhi Mosque",
+                  "text": "Bár ez egy kisebb ág, ez az Al Rajhi mecset fontos iszlám imahelyet biztosít a rijádi szárazföldi kikötő negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        46.778892,
+                        24.677394
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Ez a helyi mecset kényelmes napi iszlám imahelyet kínál a Rijád szárazföldi kikötőjét körülvevő ipari zóna számára.",
+                  "category": "landmark",
+                  "coords": [
+                        46.795986,
+                        24.672479
+                  ]
+            },
+            {
+                  "name": "Al Jaser Mosque",
+                  "text": "Az Al Jaser mecset egy közösségközpontú iszlám központ, amely napi gyülekezeti szolgáltatásokat nyújt Rijádban.",
+                  "category": "landmark",
+                  "coords": [
+                        46.83079,
+                        24.687638
+                  ]
+            },
+            {
+                  "name": "Omar Al Shikh Mosque",
+                  "text": "Az Omar Al Shikh mecset egy környékbeli iszlám imaterem, amely a helyi lakosságot szolgálja a rijádi szárazföldi kikötő közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        46.825568,
+                        24.688651
+                  ]
+            },
+            {
+                  "name": "Masjid Jami' Hunain",
+                  "text": "A Masjid Jami' Hunain egy nagyobb gyülekezeti iszlám mecset, amely pénteki imáknak ad otthont a rijádi szárazföldi kikötő közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        46.820393,
+                        24.686592
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al - Ghannam Mosque",
+                  "text": "Moscheea Al - Ghannam servește nevoilor spirituale ale lucrătorilor locali și ale rezidenților din apropierea portului uscat din Riad.",
+                  "category": "landmark",
+                  "coords": [
+                        46.821049,
+                        24.700776
+                  ]
+            },
+            {
+                  "name": "Mosque of Um Ibraheem Al Dhiyab",
+                  "text": "Această moschee este un important spațiu de cult al comunității islamice care deservește zona plină de viață a portului uscat din Riad.",
+                  "category": "landmark",
+                  "coords": [
+                        46.748282,
+                        24.618812
+                  ]
+            },
+            {
+                  "name": "Al Rajhi Mosque",
+                  "text": "Deși o ramură mai mică, această moschee Al Rajhi oferă un loc important de rugăciune islamică în districtul portului uscat din Riad.",
+                  "category": "landmark",
+                  "coords": [
+                        46.778892,
+                        24.677394
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Acest masjid local oferă o locație convenabilă pentru rugăciunile islamice zilnice pentru zona industrială care înconjoară portul uscat din Riad.",
+                  "category": "landmark",
+                  "coords": [
+                        46.795986,
+                        24.672479
+                  ]
+            },
+            {
+                  "name": "Al Jaser Mosque",
+                  "text": "Moscheea Al Jaser este un centru islamic axat pe comunitate, care oferă servicii congregaționale zilnice în Riad.",
+                  "category": "landmark",
+                  "coords": [
+                        46.83079,
+                        24.687638
+                  ]
+            },
+            {
+                  "name": "Omar Al Shikh Mosque",
+                  "text": "Moscheea Omar Al Shikh este o sală de rugăciune islamică de cartier care deservește populația locală din apropierea portului uscat din Riad.",
+                  "category": "landmark",
+                  "coords": [
+                        46.825568,
+                        24.688651
+                  ]
+            },
+            {
+                  "name": "Masjid Jami' Hunain",
+                  "text": "Masjid Jami' Hunain este o moschee islamică congregațională mai mare care găzduiește rugăciunile de vineri lângă portul uscat din Riad.",
+                  "category": "landmark",
+                  "coords": [
+                        46.820393,
+                        24.686592
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al - Ghannam Mosque",
+                  "text": "Al - Ghannam Mosque serves the spiritual needs of local workers and residents near the Riyadh dry port.",
+                  "category": "landmark",
+                  "coords": [
+                        46.821049,
+                        24.700776
+                  ]
+            },
+            {
+                  "name": "Mosque of Um Ibraheem Al Dhiyab",
+                  "text": "This mosque is an important Islamic community worship space serving the bustling dry port area in Riyadh.",
+                  "category": "landmark",
+                  "coords": [
+                        46.748282,
+                        24.618812
+                  ]
+            },
+            {
+                  "name": "Al Rajhi Mosque",
+                  "text": "Although a smaller branch, this Al Rajhi Mosque provides an important Islamic prayer venue in the Riyadh dry port district.",
+                  "category": "landmark",
+                  "coords": [
+                        46.778892,
+                        24.677394
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "This local masjid offers a convenient daily Islamic prayer location for the industrial zone surrounding Riyadh's dry port.",
+                  "category": "landmark",
+                  "coords": [
+                        46.795986,
+                        24.672479
+                  ]
+            },
+            {
+                  "name": "Al Jaser Mosque",
+                  "text": "Al Jaser Mosque is a community-focused Islamic center providing daily congregational services in Riyadh.",
+                  "category": "landmark",
+                  "coords": [
+                        46.83079,
+                        24.687638
+                  ]
+            },
+            {
+                  "name": "Omar Al Shikh Mosque",
+                  "text": "The Omar Al Shikh Mosque is a neighborhood Islamic prayer hall serving the local population near the dry port of Riyadh.",
+                  "category": "landmark",
+                  "coords": [
+                        46.825568,
+                        24.688651
+                  ]
+            },
+            {
+                  "name": "Masjid Jami' Hunain",
+                  "text": "Masjid Jami' Hunain is a larger congregational Islamic mosque hosting Friday prayers near the Riyadh dry port.",
+                  "category": "landmark",
+                  "coords": [
+                        46.820393,
+                        24.686592
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "SA-01",
     coords: [46.7563, 24.6465],
@@ -579,7 +1191,52 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "petro-rabigh-economic-v2",
+    id: "petro-rabigh-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rabigh Tower",
+                  "text": "Ein markanter Turm in der Industriestadt Rabigh, der als lokales Wahrzeichen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        39.032327,
+                        22.807126
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rabigh Tower",
+                  "text": "Jellegzetes torony Rabigh iparvárosában, amely helyi nevezetességként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        39.032327,
+                        22.807126
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rabigh Tower",
+                  "text": "Un turn distinctiv în orașul industrial Rabigh, care servește ca reper local.",
+                  "category": "landmark",
+                  "coords": [
+                        39.032327,
+                        22.807126
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rabigh Tower",
+                  "text": "A prominent tower in the industrial city of Rabigh that serves as a local landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        39.032327,
+                        22.807126
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "SA-02",
     coords: [39.0000, 22.7500],

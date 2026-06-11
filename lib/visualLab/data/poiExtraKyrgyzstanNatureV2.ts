@@ -67,7 +67,232 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
     },
   },
   {
-    id: "kg-lake-song-kol-nature-v2",
+    id: "kg-lake-song-kol-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bania",
+                  "text": "Ein mobiles Dampfbad am Ufer des Song-Köl-Sees, oft in der Nähe von Jurten-Camps zu finden.",
+                  "category": "landmark",
+                  "coords": [
+                        75.12181,
+                        41.758837
+                  ]
+            },
+            {
+                  "name": "Petroglify",
+                  "text": "Antike Felszeichnungen auf dem Hochplateau, die Jagdszenen und Tiere wie Steinböcke darstellen.",
+                  "category": "landmark",
+                  "coords": [
+                        75.125429,
+                        41.750996
+                  ]
+            },
+            {
+                  "name": "Petroglyph",
+                  "text": "Ein einzelner, markanter Stein mit eingeritzten Symbolen aus der Eisenzeit in der Nähe des Sees.",
+                  "category": "landmark",
+                  "coords": [
+                        75.148309,
+                        41.758047
+                  ]
+            },
+            {
+                  "name": "Konnye progulki",
+                  "text": "Ein authentisches Reiterlebnis auf kirgisischen Pferden durch die weiten Sommerweiden am Song-Köl.",
+                  "category": "landmark",
+                  "coords": [
+                        75.144363,
+                        41.916041
+                  ]
+            },
+            {
+                  "name": "Amazing view of the lake (3172m)",
+                  "text": "Panoramablick auf den türkisblauen Bergsee Song-Köl aus einer Höhe von 3172 Metern.",
+                  "category": "natural",
+                  "coords": [
+                        75.200651,
+                        41.916257
+                  ]
+            },
+            {
+                  "name": "Pliazh",
+                  "text": "Ein flacher Uferabschnitt am Hochgebirgssee, der ideal für Pausen und zum Beobachten der Pferdeherden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        75.202238,
+                        41.892019
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bania",
+                  "text": "Mobil gőzfürdő a Szong-köl tó partján, gyakran jurtatáborok közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        75.12181,
+                        41.758837
+                  ]
+            },
+            {
+                  "name": "Petroglify",
+                  "text": "Ősi sziklarajzok a fennsíkon, amelyek vadászjeleneteket és állatokat, például kőszáli kecskéket ábrázolnak.",
+                  "category": "landmark",
+                  "coords": [
+                        75.125429,
+                        41.750996
+                  ]
+            },
+            {
+                  "name": "Petroglyph",
+                  "text": "Egyetlen, jellegzetes kő a vaskorból származó bevésett szimbólumokkal a tó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        75.148309,
+                        41.758047
+                  ]
+            },
+            {
+                  "name": "Konnye progulki",
+                  "text": "Eredeti lovaglási élmény kirgiz lovakon a Szong-köl környéki hatalmas nyári legelőkön.",
+                  "category": "landmark",
+                  "coords": [
+                        75.144363,
+                        41.916041
+                  ]
+            },
+            {
+                  "name": "Amazing view of the lake (3172m)",
+                  "text": "Panorámás kilátás a türkizkék Szong-köl hegyi tóra 3172 méteres magasságból.",
+                  "category": "natural",
+                  "coords": [
+                        75.200651,
+                        41.916257
+                  ]
+            },
+            {
+                  "name": "Pliazh",
+                  "text": "A magashegyi tó lankás parti szakasza, amely ideális pihenésre és a lovak megfigyelésére.",
+                  "category": "landmark",
+                  "coords": [
+                        75.202238,
+                        41.892019
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bania",
+                  "text": "O baie de aburi mobilă pe malul lacului Song-Köl, adesea găsită lângă taberele de iurte.",
+                  "category": "landmark",
+                  "coords": [
+                        75.12181,
+                        41.758837
+                  ]
+            },
+            {
+                  "name": "Petroglify",
+                  "text": "Gravuri rupestre antice pe platoul înalt, reprezentând scene de vânătoare și animale precum ibexul.",
+                  "category": "landmark",
+                  "coords": [
+                        75.125429,
+                        41.750996
+                  ]
+            },
+            {
+                  "name": "Petroglyph",
+                  "text": "O singură piatră distinctivă cu simboluri gravate din epoca fierului, situată lângă lac.",
+                  "category": "landmark",
+                  "coords": [
+                        75.148309,
+                        41.758047
+                  ]
+            },
+            {
+                  "name": "Konnye progulki",
+                  "text": "O experiență autentică de călărie pe cai kârgâzi prin vastele pășuni de vară de la Song-Köl.",
+                  "category": "landmark",
+                  "coords": [
+                        75.144363,
+                        41.916041
+                  ]
+            },
+            {
+                  "name": "Amazing view of the lake (3172m)",
+                  "text": "Vedere panoramică asupra lacului montan turcoaz Song-Köl de la o altitudine de 3172 de metri.",
+                  "category": "natural",
+                  "coords": [
+                        75.200651,
+                        41.916257
+                  ]
+            },
+            {
+                  "name": "Pliazh",
+                  "text": "O porțiune plată de țărm la lacul alpin, ideală pentru pauze și observarea hergheliilor de cai.",
+                  "category": "landmark",
+                  "coords": [
+                        75.202238,
+                        41.892019
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bania",
+                  "text": "A mobile steam bath on the shores of Lake Song-Köl, often found near yurt camps.",
+                  "category": "landmark",
+                  "coords": [
+                        75.12181,
+                        41.758837
+                  ]
+            },
+            {
+                  "name": "Petroglyphs",
+                  "text": "Ancient rock carvings on the high plateau depicting hunting scenes and animals like ibex.",
+                  "category": "landmark",
+                  "coords": [
+                        75.125429,
+                        41.750996
+                  ]
+            },
+            {
+                  "name": "Petroglyph",
+                  "text": "A single, distinctive stone with engraved symbols from the Iron Age near the lake.",
+                  "category": "landmark",
+                  "coords": [
+                        75.148309,
+                        41.758047
+                  ]
+            },
+            {
+                  "name": "Horse riding in Kyrgyzstan",
+                  "text": "An authentic horseback riding experience on Kyrgyz horses through the vast summer pastures at Song-Köl.",
+                  "category": "landmark",
+                  "coords": [
+                        75.144363,
+                        41.916041
+                  ]
+            },
+            {
+                  "name": "Amazing view of the lake (3172m)",
+                  "text": "Panoramic view of the turquoise mountain lake Song-Köl from an altitude of 3,172 meters.",
+                  "category": "natural",
+                  "coords": [
+                        75.200651,
+                        41.916257
+                  ]
+            },
+            {
+                  "name": "Good beach",
+                  "text": "A flat stretch of shoreline on the high-altitude lake, ideal for breaks and watching horse herds.",
+                  "category": "landmark",
+                  "coords": [
+                        75.202238,
+                        41.892019
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "KG-N",
     coords: [75.1667, 41.8333],
@@ -131,7 +356,52 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
     },
   },
   {
-    id: "kg-forest-ala-archa-nature-v2",
+    id: "kg-forest-ala-archa-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ala-Archa panoramasy",
+                  "text": "Dieser Aussichtspunkt bietet einen spektakulären Rundblick über die schroffen Gipfel der Ala-Artscha-Schlucht.",
+                  "category": "natural",
+                  "coords": [
+                        74.494688,
+                        42.622441
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ala-Archa panoramasy",
+                  "text": "Erről a kilátópontról látványos panoráma nyílik az Ala-Archa-szoros meredek csúcsaira.",
+                  "category": "natural",
+                  "coords": [
+                        74.494688,
+                        42.622441
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ala-Archa panoramasy",
+                  "text": "Acest punct de observație oferă o panoramă spectaculoasă asupra vârfurilor abrupte ale defileului Ala-Archa.",
+                  "category": "natural",
+                  "coords": [
+                        74.494688,
+                        42.622441
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ala-Archa panoramasy",
+                  "text": "This viewpoint offers a spectacular panoramic view of the rugged peaks of the Ala-Archa gorge.",
+                  "category": "natural",
+                  "coords": [
+                        74.494688,
+                        42.622441
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "KG-C",
     coords: [74.4833, 42.6333],
@@ -195,7 +465,160 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
     },
   },
   {
-    id: "kg-mountain-tien-shan-nature-v2",
+    id: "kg-mountain-tien-shan-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ptitsa",
+                  "text": "Eine natürliche Felsformation im Tienschan-Gebirge, die wie ein großer Vogel geformt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        80.116451,
+                        42.037434
+                  ]
+            },
+            {
+                  "name": "zhandarm Sfinks",
+                  "text": "Eine markante Felsnadel oder ein „Gendarm“ auf einem Hochgebirgsgrat, der einer Sphinx ähnelt.",
+                  "category": "landmark",
+                  "coords": [
+                        80.092288,
+                        42.039796
+                  ]
+            },
+            {
+                  "name": "Lager' 5",
+                  "text": "Ein Hochlager für Expeditionen, die die 7.000 Meter hohen Gipfel des zentralen Tienschan besteigen.",
+                  "category": "landmark",
+                  "coords": [
+                        80.08195,
+                        42.043827
+                  ]
+            },
+            {
+                  "name": "Lager' 3",
+                  "text": "Ein Bergsteigerlager auf den vergletscherten Hängen des Pobeda-Massivs im zentralen Tienschan.",
+                  "category": "landmark",
+                  "coords": [
+                        80.076697,
+                        42.057017
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ptitsa",
+                  "text": "Egy hatalmas madárra emlékeztető természetes sziklaképződmény a Tien-san hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        80.116451,
+                        42.037434
+                  ]
+            },
+            {
+                  "name": "zhandarm Sfinks",
+                  "text": "Jellegzetes sziklatű vagy „gendarme” egy magashegyi gerincen, amely egy szfinxre hasonlít.",
+                  "category": "landmark",
+                  "coords": [
+                        80.092288,
+                        42.039796
+                  ]
+            },
+            {
+                  "name": "Lager' 5",
+                  "text": "Magashegyi alaptábor a központi Tien-san 7000 méteres csúcsait megcélzó expedíciók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        80.08195,
+                        42.043827
+                  ]
+            },
+            {
+                  "name": "Lager' 3",
+                  "text": "Hegymászó táborhely a Pobeda-masszívum eljegesedett lejtőin a Központi-Tien-sanban.",
+                  "category": "landmark",
+                  "coords": [
+                        80.076697,
+                        42.057017
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ptitsa",
+                  "text": "O formațiune stâncoasă naturală din munții Tian-Șan, modelată sub forma unei păsări mari.",
+                  "category": "landmark",
+                  "coords": [
+                        80.116451,
+                        42.037434
+                  ]
+            },
+            {
+                  "name": "zhandarm Sfinks",
+                  "text": "O turlă de stâncă distinctivă sau un „jandarm” de-a lungul unei creste montane înalte, asemănător unui sfinx.",
+                  "category": "landmark",
+                  "coords": [
+                        80.092288,
+                        42.039796
+                  ]
+            },
+            {
+                  "name": "Lager' 5",
+                  "text": "O tabără de bază la mare altitudine folosită de expedițiile care escaladează vârfurile de 7.000 de metri din Tian-Șanul Central.",
+                  "category": "landmark",
+                  "coords": [
+                        80.08195,
+                        42.043827
+                  ]
+            },
+            {
+                  "name": "Lager' 3",
+                  "text": "O tabără de alpinism stabilită pe pantele glaciare ale masivului Pobeda din Tian-Șanul Central.",
+                  "category": "landmark",
+                  "coords": [
+                        80.076697,
+                        42.057017
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ptitsa",
+                  "text": "A natural rock formation in the Tien Shan mountains shaped like a large bird.",
+                  "category": "landmark",
+                  "coords": [
+                        80.116451,
+                        42.037434
+                  ]
+            },
+            {
+                  "name": "zhandarm Sfinks",
+                  "text": "A distinctive rock spire or \"gendarme\" along a high mountain ridge, resembling a sphinx.",
+                  "category": "landmark",
+                  "coords": [
+                        80.092288,
+                        42.039796
+                  ]
+            },
+            {
+                  "name": "Lager' 5",
+                  "text": "A high-altitude base camp used by expeditions climbing the 7,000-meter peaks of the Central Tien Shan.",
+                  "category": "landmark",
+                  "coords": [
+                        80.08195,
+                        42.043827
+                  ]
+            },
+            {
+                  "name": "camp 3",
+                  "text": "A mountaineering campsite established on the glaciated slopes of the Pobeda massif in the Central Tien Shan.",
+                  "category": "landmark",
+                  "coords": [
+                        80.076697,
+                        42.057017
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "KG-Y",
     coords: [80.1167, 42.0333],
@@ -259,7 +682,88 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
     },
   },
       {
-    id: "kg-mountain-lenin-peak-nature-v2",
+    id: "kg-mountain-lenin-peak-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pik Latvia",
+                  "text": "Ein vergletscherter Berggipfel in der hochgelegenen Alai-Region im Süden Kirgisistans.",
+                  "category": "natural",
+                  "coords": [
+                        73.004944,
+                        39.362664
+                  ]
+            },
+            {
+                  "name": "Kyzylagyn",
+                  "text": "Ein steiler, schneebedeckter Gipfel innerhalb der abgelegenen Alai-Gebirgskette.",
+                  "category": "natural",
+                  "coords": [
+                        73.043434,
+                        39.347691
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pik Latviia",
+                  "text": "Gleccserekkel borított hegycsúcs a dél-kirgizisztáni Alaj-régióban.",
+                  "category": "natural",
+                  "coords": [
+                        73.004944,
+                        39.362664
+                  ]
+            },
+            {
+                  "name": "Kyzylagyn",
+                  "text": "Meredek, hófödte csúcs a távoli Alaj-hegyláncon belül.",
+                  "category": "natural",
+                  "coords": [
+                        73.043434,
+                        39.347691
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pik Latviia",
+                  "text": "Un vârf muntos glaciar din regiunea înaltă Alay, situată în sudul Kârgâzstanului.",
+                  "category": "natural",
+                  "coords": [
+                        73.004944,
+                        39.362664
+                  ]
+            },
+            {
+                  "name": "Kyzylagyn",
+                  "text": "Un vârf abrupt și înzăpezit din lanțul muntos izolat Alay.",
+                  "category": "natural",
+                  "coords": [
+                        73.043434,
+                        39.347691
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Latvia Peak",
+                  "text": "A glaciated mountain summit in the high-altitude Alay region of southern Kyrgyzstan.",
+                  "category": "natural",
+                  "coords": [
+                        73.004944,
+                        39.362664
+                  ]
+            },
+            {
+                  "name": "Kyzylagyn",
+                  "text": "A steep, snow-capped peak within the remote Alay mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        73.043434,
+                        39.347691
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "KG-O",
     coords: [72.9644, 39.3469],
@@ -323,7 +827,88 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
     },
   },
   {
-    id: "kg-river-naryn-nature-v2",
+    id: "kg-river-naryn-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Istoriko-etnograficheskii muzei",
+                  "text": "Exponate zum nomadischen Jurtenleben und zur traditionellen kirgisischen Stickerei.",
+                  "category": "museum",
+                  "coords": [
+                        76.021415,
+                        41.425501
+                  ]
+            },
+            {
+                  "name": "Mechet' Bilal",
+                  "text": "Nachbarschaftsmoschee, die der örtlichen muslimischen Gemeinschaft als Gebetsstätte dient.",
+                  "category": "landmark",
+                  "coords": [
+                        76.016235,
+                        41.423673
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Istoriko-etnograficheskii muzei",
+                  "text": "A nomád jurtaéletet és a hagyományos kirgiz hímzést bemutató kiállítások.",
+                  "category": "museum",
+                  "coords": [
+                        76.021415,
+                        41.425501
+                  ]
+            },
+            {
+                  "name": "Mechet' Bilal",
+                  "text": "A helyi muszlim közösséget szolgáló környékbeli mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        76.016235,
+                        41.423673
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Istoriko-etnograficheskii muzei",
+                  "text": "Expoziții care prezintă viața nomadă în iurtă și broderia tradițională kîrgîză.",
+                  "category": "museum",
+                  "coords": [
+                        76.021415,
+                        41.425501
+                  ]
+            },
+            {
+                  "name": "Mechet' Bilal",
+                  "text": "Moschee de cartier care servește comunitatea musulmană locală.",
+                  "category": "landmark",
+                  "coords": [
+                        76.016235,
+                        41.423673
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Historical-ethnographik museum",
+                  "text": "Exhibits showcasing nomadic yurt life and traditional Kyrgyz embroidery.",
+                  "category": "museum",
+                  "coords": [
+                        76.021415,
+                        41.425501
+                  ]
+            },
+            {
+                  "name": "Mechet' Bilal",
+                  "text": "Neighborhood mosque serving the local Muslim community's spiritual needs.",
+                  "category": "landmark",
+                  "coords": [
+                        76.016235,
+                        41.423673
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "KG-N",
     coords: [76.0, 41.4333],
@@ -387,7 +972,160 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
     },
   },
   {
-    id: "kg-river-chu-nature-v2",
+    id: "kg-river-chu-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kordai batyr",
+                  "text": "Ein Denkmal für den legendären kasachischen Helden Kordai Batyr direkt am Grenzübergang am Fluss Tschu.",
+                  "category": "historical",
+                  "coords": [
+                        74.706664,
+                        43.047689
+                  ]
+            },
+            {
+                  "name": "Mechet' Kordai batyra",
+                  "text": "Eine nach dem regionalen Helden benannte Moschee am Fluss Tschu, die Reisenden und der örtlichen muslimischen Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        74.708176,
+                        43.047511
+                  ]
+            },
+            {
+                  "name": "Doroi",
+                  "text": "Ein kommerzieller Handelsbereich nahe der Grenze, der auf Importwaren und den regionalen Großhandel spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        74.706576,
+                        43.045361
+                  ]
+            },
+            {
+                  "name": "Korona",
+                  "text": "Ein Wellnesskomplex nahe dem Grenzübergang, der traditionelle Saunen und erfrischende Badeanwendungen anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        74.725945,
+                        43.039573
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kordai batyr",
+                  "text": "Kordaj batir legendás kazah hősnek szentelt emlékmű a Csu-folyó menti határátkelőnél.",
+                  "category": "historical",
+                  "coords": [
+                        74.706664,
+                        43.047689
+                  ]
+            },
+            {
+                  "name": "Mechet' Kordai batyra",
+                  "text": "A regionális hősről elnevezett mecset a Csu-folyónál, amely az utazókat és a helyi muszlim közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        74.708176,
+                        43.047511
+                  ]
+            },
+            {
+                  "name": "Doroi",
+                  "text": "Kereskedelmi negyed a határ közelében, amely importcikkekre és regionális nagykereskedelemre szakosodott.",
+                  "category": "cultural",
+                  "coords": [
+                        74.706576,
+                        43.045361
+                  ]
+            },
+            {
+                  "name": "Korona",
+                  "text": "Wellness-komplexum a határátkelő közelében, amely hagyományos szaunákat és frissítő fürdőzési szolgáltatásokat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        74.725945,
+                        43.039573
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kordai batyr",
+                  "text": "Un monument dedicat legendarului erou kazah Kordai Batîr, situat chiar la punctul de trecere a frontierei de pe râul Chu.",
+                  "category": "historical",
+                  "coords": [
+                        74.706664,
+                        43.047689
+                  ]
+            },
+            {
+                  "name": "Mechet' Kordai batyra",
+                  "text": "O moschee numită după eroul regional de lângă râul Chu, care deservește călătorii și comunitatea musulmană locală.",
+                  "category": "landmark",
+                  "coords": [
+                        74.708176,
+                        43.047511
+                  ]
+            },
+            {
+                  "name": "Doroi",
+                  "text": "O zonă comercială de lângă graniță, specializată în mărfuri de import și comerț regional cu ridicata.",
+                  "category": "cultural",
+                  "coords": [
+                        74.706576,
+                        43.045361
+                  ]
+            },
+            {
+                  "name": "Korona",
+                  "text": "Un complex de wellness lângă punctul de trecere a frontierei, care oferă saune tradiționale și servicii de îmbăiere reconfortante.",
+                  "category": "recreational",
+                  "coords": [
+                        74.725945,
+                        43.039573
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kordai batyr",
+                  "text": "A monument dedicated to the legendary Kazakh hero Kordai batyr, situated right at the Chu River border crossing.",
+                  "category": "historical",
+                  "coords": [
+                        74.706664,
+                        43.047689
+                  ]
+            },
+            {
+                  "name": "Mechet' Kordai batyra",
+                  "text": "A mosque named after the regional hero by the Chu River, serving travelers and the local Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        74.708176,
+                        43.047511
+                  ]
+            },
+            {
+                  "name": "Doroi",
+                  "text": "A commercial trading area near the border specializing in imported goods and regional wholesale trade.",
+                  "category": "cultural",
+                  "coords": [
+                        74.706576,
+                        43.045361
+                  ]
+            },
+            {
+                  "name": "Korona",
+                  "text": "A wellness complex near the border crossing offering traditional saunas and refreshing bathing services.",
+                  "category": "recreational",
+                  "coords": [
+                        74.725945,
+                        43.039573
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "KG-C",
     coords: [74.8, 43.1],
@@ -451,7 +1189,124 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
     },
   },
   {
-    id: "kg-river-talas-nature-v2",
+    id: "kg-river-talas-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tsentral'nyi mechit",
+                  "text": "Die zentrale Moschee nahe dem Talas-Fluss, die als Hauptgebetstätte für die umliegenden Gemeinden in Kirgisistan dient.",
+                  "category": "landmark",
+                  "coords": [
+                        71.802731,
+                        42.699566
+                  ]
+            },
+            {
+                  "name": "Chech-Diobio",
+                  "text": "Eine muslimische Kultstätte in der Nähe des malerischen Flusses Talas, die der lokalen islamischen Bevölkerung dient.",
+                  "category": "landmark",
+                  "coords": [
+                        71.789173,
+                        42.698183
+                  ]
+            },
+            {
+                  "name": "Akzholtoi Mechiti",
+                  "text": "Eine regionale islamische Moschee, die in der natürlichen Umgebung des Talas-Flusses spirituelle Führung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        71.81047,
+                        42.692688
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tsentral'nyi mechit",
+                  "text": "A Talas-folyó közelében található központi mecset, amely a környező kirgizisztáni közösségek fő iszlám imahelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        71.802731,
+                        42.699566
+                  ]
+            },
+            {
+                  "name": "Chech-Diobio",
+                  "text": "A festői Talas-folyó közelében található muszlim istentiszteleti hely, amely a helyi iszlám lakosságot szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        71.789173,
+                        42.698183
+                  ]
+            },
+            {
+                  "name": "Akzholtoi Mechiti",
+                  "text": "Egy regionális iszlám mecset, amely spirituális útmutatást kínál a Talas-folyó természeti környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        71.81047,
+                        42.692688
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tsentral'nyi mechit",
+                  "text": "Moscheea centrală situată lângă râul Talas, servind ca principal lăcaș de rugăciune islamic pentru comunitățile din jur din Kârgâzstan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.802731,
+                        42.699566
+                  ]
+            },
+            {
+                  "name": "Chech-Diobio",
+                  "text": "Un lăcaș de cult musulman situat aproape de pitorescul râu Talas, care deservește populația islamică locală.",
+                  "category": "landmark",
+                  "coords": [
+                        71.789173,
+                        42.698183
+                  ]
+            },
+            {
+                  "name": "Akzholtoi Mechiti",
+                  "text": "O moschee islamică regională care oferă îndrumare spirituală lângă împrejurimile naturale ale râului Talas.",
+                  "category": "landmark",
+                  "coords": [
+                        71.81047,
+                        42.692688
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tsentral'nyi mechit",
+                  "text": "The central mosque near the Talas River, serving as the main Islamic prayer site for the surrounding communities in Kyrgyzstan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.802731,
+                        42.699566
+                  ]
+            },
+            {
+                  "name": "Chech-Diobio",
+                  "text": "A Muslim site of worship situated close to the scenic Talas River, catering to the local Islamic population.",
+                  "category": "landmark",
+                  "coords": [
+                        71.789173,
+                        42.698183
+                  ]
+            },
+            {
+                  "name": "Akzholtoi Mechiti",
+                  "text": "A regional Islamic mosque offering spiritual guidance near the natural surroundings of the Talas River.",
+                  "category": "landmark",
+                  "coords": [
+                        71.81047,
+                        42.692688
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "KG-T",
     coords: [71.75, 42.6667],
@@ -515,7 +1370,880 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
     },
   },
   {
-    id: "kg-river-kara-darya-nature-v2",
+    id: "kg-river-kara-darya-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "1941-1945",
+                  "text": "Dieses Denkmal erinnert mit ewiger Flamme an die im Zweiten Weltkrieg gefallenen Soldaten.",
+                  "category": "historical",
+                  "coords": [
+                        72.349454,
+                        40.73685
+                  ]
+            },
+            {
+                  "name": "Detskii teatr",
+                  "text": "Ein spezialisiertes Theatergebäude, das regelmäßig märchenhafte Aufführungen für Kinder veranstaltet.",
+                  "category": "cultural",
+                  "coords": [
+                        72.341628,
+                        40.751975
+                  ]
+            },
+            {
+                  "name": "Oq masjid jome' masjidi",
+                  "text": "Die „Weiße Moschee“ am Karadarja ist für ihre helle Fassade und ihre Rolle als Freitagsgebetshalle bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        72.268027,
+                        40.801682
+                  ]
+            },
+            {
+                  "name": "Maslahat jome' masjidi",
+                  "text": "Eine muslimische Freitagsmoschee, die als wichtiges Zentrum für Beratung und Gebet in der Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        72.236721,
+                        40.815386
+                  ]
+            },
+            {
+                  "name": "Uyshin jome' masjidi",
+                  "text": "Dieses religiöse Bauwerk am Ufer des Karadarja ist ein Versammlungsort für das tägliche Gebet.",
+                  "category": "landmark",
+                  "coords": [
+                        72.254398,
+                        40.786593
+                  ]
+            },
+            {
+                  "name": "Solmon Forsiy jome' masjidi",
+                  "text": "Diese nach dem Gefährten des Propheten benannte Moschee ist ein bedeutender Sakralbau in der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        72.132738,
+                        40.688994
+                  ]
+            },
+            {
+                  "name": "Xazrati Bilol jome' masjidi",
+                  "text": "Eine schlichte, aber wichtige Gebetshalle, die der muslimischen Tradition von Hazrat Bilal gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        72.161958,
+                        40.687159
+                  ]
+            },
+            {
+                  "name": "Koʻtarmachek jome' masjidi",
+                  "text": "Eine lokale Freitagsmoschee, die einen zentralen Punkt für die spirituellen Bedürfnisse des Viertels bildet.",
+                  "category": "landmark",
+                  "coords": [
+                        72.132063,
+                        40.758767
+                  ]
+            },
+            {
+                  "name": "Xolmatdodxox jome' masjidi",
+                  "text": "Dieses muslimische Heiligtum dient der Gemeinde am Fluss Karadarja als Ort der Besinnung und des Gebets.",
+                  "category": "landmark",
+                  "coords": [
+                        72.192452,
+                        40.749007
+                  ]
+            },
+            {
+                  "name": "Xondibogʻi jome' masjidi",
+                  "text": "Eine Freitagsmoschee mit traditionellem Innenhof, die als religiöses Zentrum des Dorfes fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        72.221071,
+                        40.770488
+                  ]
+            },
+            {
+                  "name": "Xazrati Umar jome' masjidi",
+                  "text": "Ein wichtiger Gebetsort für Muslime in der Nähe der Naturgebiete des Karadarja-Flusses.",
+                  "category": "landmark",
+                  "coords": [
+                        72.249921,
+                        40.751104
+                  ]
+            },
+            {
+                  "name": "Ikrom xoji jome' masjidi",
+                  "text": "Diese Moschee ist ein zentraler Treffpunkt für die Gläubigen der umliegenden Siedlungen am Fluss.",
+                  "category": "landmark",
+                  "coords": [
+                        72.250297,
+                        40.712821
+                  ]
+            },
+            {
+                  "name": "Imomi Abu Yusuf jome' masjidi",
+                  "text": "Eine nach Imam Abu Yusuf benannte Gebetshalle, die der lokalen muslimischen Gemeinde als Freitagsmoschee dient.",
+                  "category": "landmark",
+                  "coords": [
+                        72.21242,
+                        40.715664
+                  ]
+            },
+            {
+                  "name": "Mirzo Sharif jome' masjidi",
+                  "text": "Diese Moschee am Karadarja zeichnet sich durch ihre ruhige Lage und traditionelle islamische Motive aus.",
+                  "category": "landmark",
+                  "coords": [
+                        72.198145,
+                        40.706888
+                  ]
+            },
+            {
+                  "name": "Mulla Raimjon jome' masjidi",
+                  "text": "Ein bedeutendes muslimisches Gotteshaus, das eine zentrale Rolle im sozialen Gefüge der Region spielt.",
+                  "category": "landmark",
+                  "coords": [
+                        72.224169,
+                        40.690962
+                  ]
+            },
+            {
+                  "name": "Siddiq xoji jome' masjidi",
+                  "text": "Eine Freitagsmoschee, die als Versammlungsort für die großen wöchentlichen Gemeinschaftsgebete dient.",
+                  "category": "landmark",
+                  "coords": [
+                        72.26597,
+                        40.724838
+                  ]
+            },
+            {
+                  "name": "Xonaqox jome' masjidi",
+                  "text": "Diese Moschee dient als Khanaqah, ein historischer Ort für spirituelle Einkehr und gemeinschaftliches Gebet.",
+                  "category": "landmark",
+                  "coords": [
+                        72.329052,
+                        40.761835
+                  ]
+            },
+            {
+                  "name": "Dovudxon toʻra jome' masjidi",
+                  "text": "Ein markanter Sakralbau, der der lokalen muslimischen Gemeinde für ihre religiösen Riten offensteht.",
+                  "category": "landmark",
+                  "coords": [
+                        72.337785,
+                        40.733964
+                  ]
+            },
+            {
+                  "name": "Dalvarzin jome' masjidi",
+                  "text": "Eine im Dalvarzin-Viertel gelegene Freitagsmoschee, die ein wichtiger Anlaufpunkt für Gläubige ist.",
+                  "category": "landmark",
+                  "coords": [
+                        72.302685,
+                        40.771463
+                  ]
+            },
+            {
+                  "name": "Imomi Azam Raxmatulloxi Alayxi jome' masjidi",
+                  "text": "Diese große Freitagsmoschee ist dem Imam Azam gewidmet und prägt das religiöse Bild am Karadarja.",
+                  "category": "landmark",
+                  "coords": [
+                        72.309467,
+                        40.783699
+                  ]
+            },
+            {
+                  "name": "Jiddai Muborak jome' masjidi",
+                  "text": "Eine muslimische Gebetshalle, die als spirituelles Zentrum für die Bewohner am Flussufer dient.",
+                  "category": "landmark",
+                  "coords": [
+                        72.336115,
+                        40.762946
+                  ]
+            },
+            {
+                  "name": "Jalabek ota jome' masjidi",
+                  "text": "Eine lokale Freitagsmoschee, die nach einem geachteten Vorfahren benannt wurde und die Gemeinde eint.",
+                  "category": "landmark",
+                  "coords": [
+                        72.321201,
+                        40.752102
+                  ]
+            },
+            {
+                  "name": "Oltinkoʻl jome' masjidi",
+                  "text": "Diese zentrale Freitagsmoschee von Oltinkoʻl ist der wichtigste Ort für das gemeinschaftliche Freitagsgebet.",
+                  "category": "landmark",
+                  "coords": [
+                        72.170578,
+                        40.800397
+                  ]
+            },
+            {
+                  "name": "Mazhmua rynok",
+                  "text": "Ein kommerzieller Komplex und Marktplatz, der eine Vielzahl an lokalen Produkten und Alltagsgütern bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        72.280892,
+                        40.78296
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "1941-1945",
+                  "text": "Ez az emlékmű örökmécsessel állít emléket a második világháborúban elesett katonáknak.",
+                  "category": "historical",
+                  "coords": [
+                        72.349454,
+                        40.73685
+                  ]
+            },
+            {
+                  "name": "Detskii teatr",
+                  "text": "Speciális színházépület, amely rendszeresen tart mesés előadásokat gyermekek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        72.341628,
+                        40.751975
+                  ]
+            },
+            {
+                  "name": "Oq masjid jome' masjidi",
+                  "text": "A Kara-darja melletti „Fehér mecset” világos homlokzatáról és pénteki imaházként betöltött szerepéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        72.268027,
+                        40.801682
+                  ]
+            },
+            {
+                  "name": "Maslahat jome' masjidi",
+                  "text": "Muszlim pénteki mecset, amely a közösség tanácsadási és imádkozási központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        72.236721,
+                        40.815386
+                  ]
+            },
+            {
+                  "name": "Uyshin jome' masjidi",
+                  "text": "Ez a vallási épület a Kara-darja partján a napi imádságok gyülekezőhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        72.254398,
+                        40.786593
+                  ]
+            },
+            {
+                  "name": "Solmon Forsiy jome' masjidi",
+                  "text": "Ez a próféta társáról elnevezett mecset a régió jelentős szakrális építménye.",
+                  "category": "landmark",
+                  "coords": [
+                        72.132738,
+                        40.688994
+                  ]
+            },
+            {
+                  "name": "Xazrati Bilol jome' masjidi",
+                  "text": "Egy egyszerű, de fontos imaház, amelyet Hazrat Bilal muszlim hagyományának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        72.161958,
+                        40.687159
+                  ]
+            },
+            {
+                  "name": "Koʻtarmachek jome' masjidi",
+                  "text": "Helyi pénteki mecset, amely a negyed spirituális igényeinek központi helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        72.132063,
+                        40.758767
+                  ]
+            },
+            {
+                  "name": "Xolmatdodxox jome' masjidi",
+                  "text": "Ez a muszlim szentély a Kara-darja menti közösség számára az elmélkedés és az ima helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        72.192452,
+                        40.749007
+                  ]
+            },
+            {
+                  "name": "Xondibogʻi jome' masjidi",
+                  "text": "Hagyományos udvarral rendelkező pénteki mecset, amely a falu vallási központjaként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        72.221071,
+                        40.770488
+                  ]
+            },
+            {
+                  "name": "Xazrati Umar jome' masjidi",
+                  "text": "Fontos imádkozóhely a muszlimok számára a Kara-darja folyó természeti területeinek közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        72.249921,
+                        40.751104
+                  ]
+            },
+            {
+                  "name": "Ikrom xoji jome' masjidi",
+                  "text": "Ez a mecset a folyó menti települések hívőinek központi találkozóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        72.250297,
+                        40.712821
+                  ]
+            },
+            {
+                  "name": "Imomi Abu Yusuf jome' masjidi",
+                  "text": "Imám Abu Juszufról elnevezett imaház, amely a helyi muszlim közösség pénteki mecseteként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        72.21242,
+                        40.715664
+                  ]
+            },
+            {
+                  "name": "Mirzo Sharif jome' masjidi",
+                  "text": "Ez a Kara-darja menti mecset csendes elhelyezkedésével és hagyományos iszlám motívumaival tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        72.198145,
+                        40.706888
+                  ]
+            },
+            {
+                  "name": "Mulla Raimjon jome' masjidi",
+                  "text": "Jelentős muszlim istentiszteleti hely, amely központi szerepet játszik a régió társadalmi életében.",
+                  "category": "landmark",
+                  "coords": [
+                        72.224169,
+                        40.690962
+                  ]
+            },
+            {
+                  "name": "Siddiq xoji jome' masjidi",
+                  "text": "Pénteki mecset, amely a nagy heti közösségi imádságok gyülekezőhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        72.26597,
+                        40.724838
+                  ]
+            },
+            {
+                  "name": "Xonaqox jome' masjidi",
+                  "text": "Ez a mecset kánakahként szolgál, amely a spirituális elvonulás és a közösségi ima történelmi helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        72.329052,
+                        40.761835
+                  ]
+            },
+            {
+                  "name": "Dovudxon toʻra jome' masjidi",
+                  "text": "Jellegzetes szakrális épület, amely a helyi muszlim közösség rendelkezésére áll vallási rítusaikhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        72.337785,
+                        40.733964
+                  ]
+            },
+            {
+                  "name": "Dalvarzin jome' masjidi",
+                  "text": "A Dalvarzin negyedben található pénteki mecset, amely a hívők fontos találkozóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        72.302685,
+                        40.771463
+                  ]
+            },
+            {
+                  "name": "Imomi Azam Raxmatulloxi Alayxi jome' masjidi",
+                  "text": "Ez a nagy pénteki mecset Abu Hanifa imámnak van szentelve, és meghatározza a Kara-darja menti vallási képet.",
+                  "category": "landmark",
+                  "coords": [
+                        72.309467,
+                        40.783699
+                  ]
+            },
+            {
+                  "name": "Jiddai Muborak jome' masjidi",
+                  "text": "Muszlim imaház, amely a folyóparti lakosok spirituális központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        72.336115,
+                        40.762946
+                  ]
+            },
+            {
+                  "name": "Jalabek ota jome' masjidi",
+                  "text": "Egy tisztelt ősről elnevezett helyi pénteki mecset, amely egyesíti a közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        72.321201,
+                        40.752102
+                  ]
+            },
+            {
+                  "name": "Oltinkoʻl jome' masjidi",
+                  "text": "Oltinkol ezen központi pénteki mecsetje a közösségi pénteki ima legfontosabb helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        72.170578,
+                        40.800397
+                  ]
+            },
+            {
+                  "name": "Mazhmua rynok",
+                  "text": "Kereskedelmi komplexum és piactér, amely helyi termékek és mindennapi cikkek széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        72.280892,
+                        40.78296
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "1941-1945",
+                  "text": "Acest monument onorează soldații căzuți în al Doilea Război Mondial, având adesea o flacără eternă.",
+                  "category": "historical",
+                  "coords": [
+                        72.349454,
+                        40.73685
+                  ]
+            },
+            {
+                  "name": "Detskii teatr",
+                  "text": "O clădire de teatru specializată care găzduiește regulat spectacole de basm pentru copii.",
+                  "category": "cultural",
+                  "coords": [
+                        72.341628,
+                        40.751975
+                  ]
+            },
+            {
+                  "name": "Oq masjid jome' masjidi",
+                  "text": "„Moscheea Albă” de pe Kara Darya este cunoscută pentru fațada sa luminoasă și rolul de sală de rugăciune de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        72.268027,
+                        40.801682
+                  ]
+            },
+            {
+                  "name": "Maslahat jome' masjidi",
+                  "text": "O moschee de vineri musulmană care servește ca un centru important pentru consiliere și rugăciune în comunitate.",
+                  "category": "landmark",
+                  "coords": [
+                        72.236721,
+                        40.815386
+                  ]
+            },
+            {
+                  "name": "Uyshin jome' masjidi",
+                  "text": "Această structură religioasă de pe malul râului Kara Darya este un loc de adunare pentru rugăciunea zilnică.",
+                  "category": "landmark",
+                  "coords": [
+                        72.254398,
+                        40.786593
+                  ]
+            },
+            {
+                  "name": "Solmon Forsiy jome' masjidi",
+                  "text": "Această moschee, numită după însoțitorul profetului, este un edificiu religios semnificativ în regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        72.132738,
+                        40.688994
+                  ]
+            },
+            {
+                  "name": "Xazrati Bilol jome' masjidi",
+                  "text": "O sală de rugăciune simplă, dar importantă, dedicată tradiției musulmane a lui Hazrat Bilal.",
+                  "category": "landmark",
+                  "coords": [
+                        72.161958,
+                        40.687159
+                  ]
+            },
+            {
+                  "name": "Koʻtarmachek jome' masjidi",
+                  "text": "O moschee de vineri locală care constituie un punct central pentru nevoile spirituale ale cartierului.",
+                  "category": "landmark",
+                  "coords": [
+                        72.132063,
+                        40.758767
+                  ]
+            },
+            {
+                  "name": "Xolmatdodxox jome' masjidi",
+                  "text": "Acest sanctuar musulman servește comunității de lângă râul Kara Darya ca loc de reflecție și rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        72.192452,
+                        40.749007
+                  ]
+            },
+            {
+                  "name": "Xondibogʻi jome' masjidi",
+                  "text": "O moschee de vineri cu o curte tradițională, care funcționează ca centru religios al satului.",
+                  "category": "landmark",
+                  "coords": [
+                        72.221071,
+                        40.770488
+                  ]
+            },
+            {
+                  "name": "Xazrati Umar jome' masjidi",
+                  "text": "Un loc de rugăciune important pentru musulmani în apropierea zonelor naturale ale râului Kara Darya.",
+                  "category": "landmark",
+                  "coords": [
+                        72.249921,
+                        40.751104
+                  ]
+            },
+            {
+                  "name": "Ikrom xoji jome' masjidi",
+                  "text": "Această moschee este un loc de întâlnire central pentru credincioșii din așezările din apropierea râului.",
+                  "category": "landmark",
+                  "coords": [
+                        72.250297,
+                        40.712821
+                  ]
+            },
+            {
+                  "name": "Imomi Abu Yusuf jome' masjidi",
+                  "text": "O sală de rugăciune numită după Imam Abu Yusuf, care servește comunității musulmane locale ca moschee de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        72.21242,
+                        40.715664
+                  ]
+            },
+            {
+                  "name": "Mirzo Sharif jome' masjidi",
+                  "text": "Această moschee de pe Kara Darya se remarcă prin locația sa liniștită și motivele islamice tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        72.198145,
+                        40.706888
+                  ]
+            },
+            {
+                  "name": "Mulla Raimjon jome' masjidi",
+                  "text": "Un lăcaș de cult musulman semnificativ, care joacă un rol central în structura socială a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        72.224169,
+                        40.690962
+                  ]
+            },
+            {
+                  "name": "Siddiq xoji jome' masjidi",
+                  "text": "O moschee de vineri care servește ca loc de adunare pentru marile rugăciuni comunitare săptămânale.",
+                  "category": "landmark",
+                  "coords": [
+                        72.26597,
+                        40.724838
+                  ]
+            },
+            {
+                  "name": "Xonaqox jome' masjidi",
+                  "text": "Această moschee servește ca o khanaqah, un loc istoric pentru retragere spirituală și rugăciune comunitară.",
+                  "category": "landmark",
+                  "coords": [
+                        72.329052,
+                        40.761835
+                  ]
+            },
+            {
+                  "name": "Dovudxon toʻra jome' masjidi",
+                  "text": "Un edificiu religios proeminent, deschis comunității musulmane locale pentru ritualurile lor religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        72.337785,
+                        40.733964
+                  ]
+            },
+            {
+                  "name": "Dalvarzin jome' masjidi",
+                  "text": "O moschee de vineri situată în districtul Dalvarzin, fiind un punct de referință important pentru credincioși.",
+                  "category": "landmark",
+                  "coords": [
+                        72.302685,
+                        40.771463
+                  ]
+            },
+            {
+                  "name": "Imomi Azam Raxmatulloxi Alayxi jome' masjidi",
+                  "text": "Această mare moschee de vineri este dedicată Imamului Azam și marchează peisajul religios de pe Kara Darya.",
+                  "category": "landmark",
+                  "coords": [
+                        72.309467,
+                        40.783699
+                  ]
+            },
+            {
+                  "name": "Jiddai Muborak jome' masjidi",
+                  "text": "O sală de rugăciune musulmană care servește ca centru spiritual pentru locuitorii de pe malul râului.",
+                  "category": "landmark",
+                  "coords": [
+                        72.336115,
+                        40.762946
+                  ]
+            },
+            {
+                  "name": "Jalabek ota jome' masjidi",
+                  "text": "O moschee de vineri locală, numită după un strămoș respectat, care unește comunitatea.",
+                  "category": "landmark",
+                  "coords": [
+                        72.321201,
+                        40.752102
+                  ]
+            },
+            {
+                  "name": "Oltinkoʻl jome' masjidi",
+                  "text": "Această moschee de vineri centrală din Oltinkoʻl este cel mai important loc pentru rugăciunea comunitară de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        72.170578,
+                        40.800397
+                  ]
+            },
+            {
+                  "name": "Mazhmua rynok",
+                  "text": "Un complex comercial și piață care oferă o varietate de produse locale și bunuri de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        72.280892,
+                        40.78296
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "1941-1945",
+                  "text": "This memorial commemorates the soldiers who fell during World War II, often featuring an eternal flame.",
+                  "category": "historical",
+                  "coords": [
+                        72.349454,
+                        40.73685
+                  ]
+            },
+            {
+                  "name": "Detskii teatr",
+                  "text": "A specialized theatre building that regularly hosts fairy-tale performances for children.",
+                  "category": "cultural",
+                  "coords": [
+                        72.341628,
+                        40.751975
+                  ]
+            },
+            {
+                  "name": "Oq masjid jome' masjidi",
+                  "text": "The 'White Mosque' by the Kara Darya is known for its bright facade and role as a Friday prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        72.268027,
+                        40.801682
+                  ]
+            },
+            {
+                  "name": "Maslahat jome' masjidi",
+                  "text": "A Muslim Friday mosque that serves as an important center for counsel and prayer in the community.",
+                  "category": "landmark",
+                  "coords": [
+                        72.236721,
+                        40.815386
+                  ]
+            },
+            {
+                  "name": "Uyshin jome' masjidi",
+                  "text": "This religious structure on the banks of the Kara Darya is a gathering place for daily prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        72.254398,
+                        40.786593
+                  ]
+            },
+            {
+                  "name": "Solmon Forsiy jome' masjidi",
+                  "text": "This mosque, named after the companion of the Prophet, is a significant religious edifice in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        72.132738,
+                        40.688994
+                  ]
+            },
+            {
+                  "name": "Xazrati Bilol jome' masjidi",
+                  "text": "A simple but important prayer hall dedicated to the Muslim tradition of Hazrat Bilal.",
+                  "category": "landmark",
+                  "coords": [
+                        72.161958,
+                        40.687159
+                  ]
+            },
+            {
+                  "name": "Koʻtarmachek jome' masjidi",
+                  "text": "A local Friday mosque that forms a central point for the neighborhood's spiritual needs.",
+                  "category": "landmark",
+                  "coords": [
+                        72.132063,
+                        40.758767
+                  ]
+            },
+            {
+                  "name": "Xolmatdodxox jome' masjidi",
+                  "text": "This Muslim sanctuary serves the community near the Kara Darya river as a place for reflection and prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        72.192452,
+                        40.749007
+                  ]
+            },
+            {
+                  "name": "Xondibogʻi jome' masjidi",
+                  "text": "A Friday mosque with a traditional courtyard, functioning as the religious center of the village.",
+                  "category": "landmark",
+                  "coords": [
+                        72.221071,
+                        40.770488
+                  ]
+            },
+            {
+                  "name": "Xazrati Umar jome' masjidi",
+                  "text": "An important prayer site for Muslims near the natural areas of the Kara Darya river.",
+                  "category": "landmark",
+                  "coords": [
+                        72.249921,
+                        40.751104
+                  ]
+            },
+            {
+                  "name": "Ikrom xoji jome' masjidi",
+                  "text": "This mosque is a central meeting point for believers from the surrounding riverside settlements.",
+                  "category": "landmark",
+                  "coords": [
+                        72.250297,
+                        40.712821
+                  ]
+            },
+            {
+                  "name": "Imomi Abu Yusuf jome' masjidi",
+                  "text": "A prayer hall named after Imam Abu Yusuf, serving the local Muslim community as a Friday mosque.",
+                  "category": "landmark",
+                  "coords": [
+                        72.21242,
+                        40.715664
+                  ]
+            },
+            {
+                  "name": "Mirzo Sharif jome' masjidi",
+                  "text": "This mosque on the Kara Darya stands out for its quiet location and traditional Islamic motifs.",
+                  "category": "landmark",
+                  "coords": [
+                        72.198145,
+                        40.706888
+                  ]
+            },
+            {
+                  "name": "Mulla Raimjon jome' masjidi",
+                  "text": "A significant Muslim place of worship playing a central role in the social fabric of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        72.224169,
+                        40.690962
+                  ]
+            },
+            {
+                  "name": "Siddiq xoji jome' masjidi",
+                  "text": "A Friday mosque serving as a gathering place for the large weekly communal prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        72.26597,
+                        40.724838
+                  ]
+            },
+            {
+                  "name": "Xonaqox jome' masjidi",
+                  "text": "This mosque serves as a khanaqah, a historical site for spiritual retreat and communal prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        72.329052,
+                        40.761835
+                  ]
+            },
+            {
+                  "name": "Dovudxon toʻra jome' masjidi",
+                  "text": "A prominent religious building open to the local Muslim community for their religious rites.",
+                  "category": "landmark",
+                  "coords": [
+                        72.337785,
+                        40.733964
+                  ]
+            },
+            {
+                  "name": "Dalvarzin jome' masjidi",
+                  "text": "A Friday mosque located in the Dalvarzin district, serving as an important point for believers.",
+                  "category": "landmark",
+                  "coords": [
+                        72.302685,
+                        40.771463
+                  ]
+            },
+            {
+                  "name": "Imomi Azam Raxmatulloxi Alayxi jome' masjidi",
+                  "text": "This large Friday mosque is dedicated to Imam Azam and defines the religious landscape on the Kara Darya.",
+                  "category": "landmark",
+                  "coords": [
+                        72.309467,
+                        40.783699
+                  ]
+            },
+            {
+                  "name": "Jiddai Muborak jome' masjidi",
+                  "text": "A Muslim prayer hall serving as a spiritual center for the residents along the riverbank.",
+                  "category": "landmark",
+                  "coords": [
+                        72.336115,
+                        40.762946
+                  ]
+            },
+            {
+                  "name": "Jalabek ota jome' masjidi",
+                  "text": "A local Friday mosque named after a respected ancestor that unites the community.",
+                  "category": "landmark",
+                  "coords": [
+                        72.321201,
+                        40.752102
+                  ]
+            },
+            {
+                  "name": "Oltinkoʻl jome' masjidi",
+                  "text": "This central Friday mosque of Oltinkoʻl is the most important site for communal Friday prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        72.170578,
+                        40.800397
+                  ]
+            },
+            {
+                  "name": "Majmua",
+                  "text": "A commercial complex and marketplace offering a variety of local products and everyday goods.",
+                  "category": "cultural",
+                  "coords": [
+                        72.280892,
+                        40.78296
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "KG-O",
     coords: [72.2333, 40.7333],
@@ -579,7 +2307,124 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
     },
   },
   {
-    id: "kg-lake-sary-chelek-nature-v2",
+    id: "kg-lake-sary-chelek-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Panorama",
+                  "text": "Ein Aussichtspunkt im Naturschutzgebiet, der die umliegenden Gipfel des Tien-Shan-Gebirges zeigt.",
+                  "category": "natural",
+                  "coords": [
+                        72.022046,
+                        41.85081
+                  ]
+            },
+            {
+                  "name": "Kuturma",
+                  "text": "Ein Aussichtspunkt am Bergpfad, der einen spektakulären Blick auf die alpine Landschaft der Region bietet.",
+                  "category": "natural",
+                  "coords": [
+                        72.017057,
+                        41.881622
+                  ]
+            },
+            {
+                  "name": "Sary-Chelek-Naturreservat",
+                  "text": "Dieses UNESCO-Biosphärenreservat beherbergt antike Walnusswälder und sieben kristallklare Alpenseen.",
+                  "category": "natural",
+                  "coords": [
+                        71.941175,
+                        41.88545
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Panorama",
+                  "text": "Kilátó a természetvédelmi területen, amely a környező Tien-san hegység csúcsait mutatja be.",
+                  "category": "natural",
+                  "coords": [
+                        72.022046,
+                        41.85081
+                  ]
+            },
+            {
+                  "name": "Kuturma",
+                  "text": "Hegyi ösvény menti kilátópont, amely látványos rálátást nyújt a régió alpesi tájára.",
+                  "category": "natural",
+                  "coords": [
+                        72.017057,
+                        41.881622
+                  ]
+            },
+            {
+                  "name": "Sary-Chelek biochoiroluk korugu",
+                  "text": "Ez az UNESCO bioszféra-rezervátum ősi dióféléknek és hét kristálytiszta alpesi tónak ad otthont.",
+                  "category": "natural",
+                  "coords": [
+                        71.941175,
+                        41.88545
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Panorama",
+                  "text": "Un punct de belvedere în rezervația naturală, care dezvăluie vârfurile înconjurătoare ale munților Tian Shan.",
+                  "category": "natural",
+                  "coords": [
+                        72.022046,
+                        41.85081
+                  ]
+            },
+            {
+                  "name": "Kuturma",
+                  "text": "Un punct de observație pe poteca montană, oferind o vedere spectaculoasă asupra peisajului alpin al regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        72.017057,
+                        41.881622
+                  ]
+            },
+            {
+                  "name": "Sary-Chelek biochoiroluk korugu",
+                  "text": "Această rezervație a biosferei UNESCO găzduiește păduri de nuci antice și șapte lacuri alpine cristaline.",
+                  "category": "natural",
+                  "coords": [
+                        71.941175,
+                        41.88545
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Panorama",
+                  "text": "A lookout in the nature reserve revealing the surrounding peaks of the Tian Shan mountains.",
+                  "category": "natural",
+                  "coords": [
+                        72.022046,
+                        41.85081
+                  ]
+            },
+            {
+                  "name": "Kotorma",
+                  "text": "A mountain path viewpoint offering a spectacular look at the region's alpine landscape.",
+                  "category": "natural",
+                  "coords": [
+                        72.017057,
+                        41.881622
+                  ]
+            },
+            {
+                  "name": "Sary-Chelek Nature Reserve",
+                  "text": "This UNESCO Biosphere Reserve is home to ancient walnut forests and seven crystal-clear alpine lakes.",
+                  "category": "natural",
+                  "coords": [
+                        71.941175,
+                        41.88545
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "KG-J",
     coords: [71.9333, 41.8667],
@@ -707,7 +2552,160 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
     },
   },
   {
-    id: "kg-forest-arslanbob-nature-v2",
+    id: "kg-forest-arslanbob-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zhan'gak tokoiu",
+                  "text": "Der größte natürliche Walnusswald der Welt, eingebettet in die Babasch-Ata-Berge.",
+                  "category": "landmark",
+                  "coords": [
+                        72.963945,
+                        41.344853
+                  ]
+            },
+            {
+                  "name": "Panoramalyk chekit (askanyn chokusu)",
+                  "text": "Ein dramatischer Aussichtspunkt auf einer Klippe mit Blick auf das Dorf Arslanbob und seine ausgedehnten Wälder.",
+                  "category": "natural",
+                  "coords": [
+                        72.941367,
+                        41.34001
+                  ]
+            },
+            {
+                  "name": "Beer in the underground",
+                  "text": "Ein ungewöhnlicher unterirdischer Marktplatz in Arslanbob, der lokale Getränke und Erfrischungen anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        72.927846,
+                        41.337294
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "Ein traditioneller Marktplatz, auf dem die berühmten Walnüsse und Honig aus der Region verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        72.929988,
+                        41.33734
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zhan'gak tokoiu",
+                  "text": "A világ legnagyobb természetes erdője, amely a Babas-Ata-hegységben található.",
+                  "category": "landmark",
+                  "coords": [
+                        72.963945,
+                        41.344853
+                  ]
+            },
+            {
+                  "name": "Panoramalyk chekit (askanyn chokusu)",
+                  "text": "Drámai sziklaszirti kilátópont, ahonnan rálátás nyílik Arszlanbob falujára és hatalmas erdőire.",
+                  "category": "natural",
+                  "coords": [
+                        72.941367,
+                        41.34001
+                  ]
+            },
+            {
+                  "name": "Beer in the underground",
+                  "text": "Szokatlan föld alatti piactér Arszlanbobban, ahol helyi italokat és frissítőket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        72.927846,
+                        41.337294
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "Hagyományos piactér, ahol a régió híres dióját és mézét árusítják.",
+                  "category": "cultural",
+                  "coords": [
+                        72.929988,
+                        41.33734
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Walnut Forest",
+                  "text": "Cea mai mare pădure naturală de nuci din lume, cuibărită în munții Babash-Ata.",
+                  "category": "landmark",
+                  "coords": [
+                        72.963945,
+                        41.344853
+                  ]
+            },
+            {
+                  "name": "Panoramalyk chekit (askanyn chokusu)",
+                  "text": "Un punct de belvedere dramatic pe marginea stâncii, cu vedere spre satul Arslanbob și pădurile sale vaste.",
+                  "category": "natural",
+                  "coords": [
+                        72.941367,
+                        41.34001
+                  ]
+            },
+            {
+                  "name": "Beer in the underground",
+                  "text": "O piață subterană neobișnuită în Arslanbob, care oferă băuturi locale și răcoritoare.",
+                  "category": "cultural",
+                  "coords": [
+                        72.927846,
+                        41.337294
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "O piață tradițională unde se vând faimoasele nuci și mierea din regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        72.929988,
+                        41.33734
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zhan'gak tokoiu",
+                  "text": "The world's largest natural walnut forest, nestled within the Babash-Ata mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        72.963945,
+                        41.344853
+                  ]
+            },
+            {
+                  "name": "Panorama Point  (top of cliff)",
+                  "text": "A dramatic cliffside viewpoint overlooking Arslanbob village and its vast forests.",
+                  "category": "natural",
+                  "coords": [
+                        72.941367,
+                        41.34001
+                  ]
+            },
+            {
+                  "name": "Beer in the underground",
+                  "text": "An unusual underground marketplace in Arslanbob offering local beverages and refreshments.",
+                  "category": "cultural",
+                  "coords": [
+                        72.927846,
+                        41.337294
+                  ]
+            },
+            {
+                  "name": "bazaar",
+                  "text": "A traditional marketplace where the region's famous walnuts and honey are sold.",
+                  "category": "cultural",
+                  "coords": [
+                        72.929988,
+                        41.33734
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "KG-J",
     coords: [72.9333, 41.3333],
@@ -771,7 +2769,52 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
     },
   },
   {
-    id: "kg-lake-kel-suu-nature-v2",
+    id: "kg-lake-kel-suu-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kel Suu Lake",
+                  "text": "Atemberaubender Hochgebirgssee, der zwischen steilen Kalksteinfelsen liegt.",
+                  "category": "natural",
+                  "coords": [
+                        76.389985,
+                        40.702169
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kel Suu Lake",
+                  "text": "Lélegzetelállító magashegyi tó meredek mészkősziklák között.",
+                  "category": "natural",
+                  "coords": [
+                        76.389985,
+                        40.702169
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kel Suu Lake",
+                  "text": "Lac alpin uluitor, situat între stânci de calcar abrupte.",
+                  "category": "natural",
+                  "coords": [
+                        76.389985,
+                        40.702169
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kel Suu Lake",
+                  "text": "Breathtaking high-altitude lake set between steep limestone cliffs.",
+                  "category": "natural",
+                  "coords": [
+                        76.389985,
+                        40.702169
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "KG-N",
     coords: [76.4, 40.6667],
@@ -835,7 +2878,52 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
     },
   },
   {
-    id: "kg-lake-ala-kul-nature-v2",
+    id: "kg-lake-ala-kul-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vysshaia tochka turbazy Karakol",
+                  "text": "Ein alpiner Aussichtspunkt mit Blick auf den Gebirgssee Ala-Kul.",
+                  "category": "natural",
+                  "coords": [
+                        78.478973,
+                        42.390168
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vysshaia tochka turbazy Karakol",
+                  "text": "Alpesi kilátóhely, ahonnan rálátni az Ala-Kul hegyi tóra.",
+                  "category": "natural",
+                  "coords": [
+                        78.478973,
+                        42.390168
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vysshaia tochka turbazy Karakol",
+                  "text": "Un punct de observare alpin cu vedere spre lacul montan Ala-Kul.",
+                  "category": "natural",
+                  "coords": [
+                        78.478973,
+                        42.390168
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Highpoint of the Karakol skibase",
+                  "text": "An alpine viewpoint with vistas of the mountain lake Ala-Kul.",
+                  "category": "natural",
+                  "coords": [
+                        78.478973,
+                        42.390168
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "KG-Y",
     coords: [78.5333, 42.3167],
@@ -1091,7 +3179,52 @@ export const poiExtraKyrgyzstanNatureV2: POI[] = [
     },
   },
   {
-    id: "kg-lake-chatyr-kul-nature-v2",
+    id: "kg-lake-chatyr-kul-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gazirovannaia voda",
+                  "text": "Eine natürliche Mineralquelle am Chatyr-Kul-See, wo kohlensäurehaltiges Wasser aus dem Boden sprudelt.",
+                  "category": "landmark",
+                  "coords": [
+                        75.322045,
+                        40.552072
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gazirovannaia voda",
+                  "text": "Természetes ásványvízforrás a Csatisz-Kul-tó közelében, ahol szénsavas víz tör fel a földből.",
+                  "category": "landmark",
+                  "coords": [
+                        75.322045,
+                        40.552072
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gazirovannaia voda",
+                  "text": "Un izvor natural de apă minerală lângă lacul Chatyr-Kul, unde apa carbogazoasă țâșnește din pământ.",
+                  "category": "landmark",
+                  "coords": [
+                        75.322045,
+                        40.552072
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gazirovannaia voda",
+                  "text": "A natural mineral spring near Lake Chatyr-Kul where carbonated water bubbles from the ground.",
+                  "category": "landmark",
+                  "coords": [
+                        75.322045,
+                        40.552072
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "KG-N",
     coords: [75.3, 40.61],

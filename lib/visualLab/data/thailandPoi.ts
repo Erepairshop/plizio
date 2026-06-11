@@ -174,6 +174,312 @@ export const thailandCities: POI[] = [
                         98.389094,
                         7.886334
                   ]
+            },
+            {
+                  "name": "Sapam Temple",
+                  "text": "Dieses traditionelle chinesische Gotteshaus in Phuket ist mit bunten Drachenschnitzereien und leuchtend roten Papierlaternen geschmückt.",
+                  "category": "religious",
+                  "coords": [
+                        98.39632,
+                        7.93741
+                  ]
+            },
+            {
+                  "name": "Phuket Mining Museum",
+                  "text": "Dieses in einem markanten Gebäude im sino-portugiesischen Stil untergebrachte Museum dokumentiert Phukets florierende Ära des Zinnabbaus mit lebensgroßen Dioramen.",
+                  "category": "museum",
+                  "coords": [
+                        98.349483,
+                        7.933283
+                  ]
+            },
+            {
+                  "name": "Aphrodite Cabaret Show",
+                  "text": "Dieses glamouröse Theater veranstaltet lebhafte Transgender-Kabarettaufführungen mit extravaganten Paillettenkostümen, aufwendigen Bühnenbildern und dynamischen Playback-Nummern.",
+                  "category": "cultural",
+                  "coords": [
+                        98.367182,
+                        7.903515
+                  ]
+            },
+            {
+                  "name": "Siam Niramit Show",
+                  "text": "Diese gewaltige Theaterproduktion zeigt Hunderte von Darstellern, die Thailands reiche Kulturgeschichte und spirituelle Traditionen mit spektakulären Spezialeffekten und lebenden Tieren darstellen.",
+                  "category": "cultural",
+                  "coords": [
+                        98.377023,
+                        7.931336
+                  ]
+            },
+            {
+                  "name": "Wat Koh Sirey",
+                  "text": "Diese ruhige buddhistische Tempelanlage zeichnet sich durch ihre geschwungenen, mit Naga-Schlangen verzierten gestuften Dächer, goldenen Stupas und friedlichen Innenhöfe aus.",
+                  "category": "religious",
+                  "coords": [
+                        98.425939,
+                        7.880111
+                  ]
+            },
+            {
+                  "name": "Khao Kham Phanwana Buddhist Park",
+                  "text": "Dieser friedliche buddhistische Park liegt an einem üppigen Hang und bietet schattige Meditationsbereiche und ruhige religiöse Statuen, die sich natürlich in das dichte tropische Laub einfügen.",
+                  "category": "religious",
+                  "coords": [
+                        98.38831,
+                        7.828087
+                  ]
+            },
+            {
+                  "name": "Local Market Baan Borae",
+                  "text": "Dieser belebte lokale Markt dient der umliegenden Wohngegend und ist voll mit Holztischen, die frisch gefangene Meeresfrüchte, hausgemachte Currypasten und lokales Gemüse präsentieren.",
+                  "category": "cultural",
+                  "coords": [
+                        98.377251,
+                        7.841581
+                  ]
+            },
+            {
+                  "name": "Talad Kaset",
+                  "text": "Dieser große, teilweise überdachte Markt ist am frühen Morgen ein wichtiger Knotenpunkt für den Großhandelseinkauf von tropischem Gemüse, exotischen thailändischen Kräutern und frischem Fleisch.",
+                  "category": "cultural",
+                  "coords": [
+                        98.395274,
+                        7.877897
+                  ]
+            },
+            {
+                  "name": "Open market",
+                  "text": "Dieser informelle Freiluftmarkt, der von bunten Planenzelten beschattet wird, bietet eine lebhafte Mischung aus günstigen Kleiderständen und duftenden Streetfood-Verkäufern.",
+                  "category": "cultural",
+                  "coords": [
+                        98.368197,
+                        7.861705
+                  ]
+            },
+            {
+                  "name": "Chillva Market",
+                  "text": "Dieser trendige Nachtmarkt ist berühmt für seine Bohème-Atmosphäre mit unabhängigen Boutiquen, Live-Musik und skurrilen Bars, die in recycelten Schiffscontainern untergebracht sind.",
+                  "category": "cultural",
+                  "coords": [
+                        98.373464,
+                        7.907317
+                  ]
+            },
+            {
+                  "name": "Thawisaman Market",
+                  "text": "Ein echter Nachbarschafts-Frischmarkt unter einem großen Blechdach, auf dem thailändische Einheimische täglich Vorräte, vorgekochte Mahlzeiten und saisonales Obst einkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        98.371786,
+                        7.915156
+                  ]
+            },
+            {
+                  "name": "Chillva Market 2 (Seafood)",
+                  "text": "Als Erweiterung des beliebten Marktes konzentriert sich dieser spezielle Abschnitt ganz auf brutzelnde Stände, die frisch gegrillte lokale Meeresfrüchte mit scharfen Dipsaucen anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        98.370489,
+                        7.906998
+                  ]
+            },
+            {
+                  "name": "Koh Kaew Market",
+                  "text": "Dieser traditionelle Marktplatz im Bezirk Koh Kaew bietet unter einfachen, bunten Markisen eine große Auswahl an verzehrfertigen regionalen Köstlichkeiten und bauernhoffrischen Produkten.",
+                  "category": "cultural",
+                  "coords": [
+                        98.374701,
+                        7.957738
+                  ]
+            },
+            {
+                  "name": "Elephant. Feed and interact 800.",
+                  "text": "Diese interaktive Tierattraktion ermöglicht es Besuchern, Obstkörbe zu kaufen, um gerettete Elefanten auf einer natürlichen Dschungellichtung sicher zu füttern und mit ihnen zu interagieren.",
+                  "category": "landmark",
+                  "coords": [
+                        98.433947,
+                        7.91087
+                  ]
+            },
+            {
+                  "name": "Monkey feed point",
+                  "text": "Ein beliebter Stopp am Straßenrand der Insel, an dem Touristen die frechen wilden Makaken, die sich am Waldrand versammeln, beobachten und ihnen Bananen zuwerfen können.",
+                  "category": "landmark",
+                  "coords": [
+                        98.416344,
+                        7.901461
+                  ]
+            },
+            {
+                  "name": "Monkeys",
+                  "text": "Dieser malerische Aussichtspunkt am Hang bietet Besuchern die Möglichkeit, Gruppen wilder Affen in aller Ruhe dabei zu beobachten, wie sie durch das dichte, umliegende tropische Blätterdach schwingen.",
+                  "category": "landmark",
+                  "coords": [
+                        98.420842,
+                        7.885819
+                  ]
+            },
+            {
+                  "name": "Crane Swing",
+                  "text": "Nervenkitzel-Suchende können einen adrenalingeladenen Fall von einer riesigen mechanischen Schaukel erleben, die von einem schweren Industriekran hoch in die Luft gehoben wird.",
+                  "category": "landmark",
+                  "coords": [
+                        98.399807,
+                        7.865109
+                  ]
+            },
+            {
+                  "name": "Vodopad",
+                  "text": "Versteckt in einem ruhigen tropischen Wald stürzt dieser kleine felsige Wasserfall sanft über glatte Felsbrocken in ein kühles, klares Planschbecken.",
+                  "category": "landmark",
+                  "coords": [
+                        98.389993,
+                        7.823594
+                  ]
+            },
+            {
+                  "name": "Cashew store",
+                  "text": "Besucher dieses lokalen Fabrikladens können die komplexe, arbeitsintensive Verarbeitung roher Cashewäpfel beobachten und verschiedene frisch geröstete, aromatisierte Nüsse probieren.",
+                  "category": "landmark",
+                  "coords": [
+                        98.35439,
+                        7.86065
+                  ]
+            },
+            {
+                  "name": "Nok's house",
+                  "text": "Dieser traditionelle thailändische Wohnkomplex aus Holz bietet einen charmanten Einblick in das authentische Inselleben, komplett mit gepflegten, üppigen tropischen Gärten.",
+                  "category": "landmark",
+                  "coords": [
+                        98.336138,
+                        7.910995
+                  ]
+            },
+            {
+                  "name": "Upside down house",
+                  "text": "Diese skurrile architektonische Attraktion besteht aus einem komplett eingerichteten, lebensgroßen zweistöckigen Haus, das vollständig auf dem Kopf steht, sodass Besucher für desorientierende Fotos an der Decke laufen können.",
+                  "category": "landmark",
+                  "coords": [
+                        98.379624,
+                        7.93844
+                  ]
+            },
+            {
+                  "name": "Elephant Jungle Sanctuary Phuket",
+                  "text": "In diesem ethischen Ökopark können Besucher gerettete Dickhäuter beim freien Umherstreifen durch den Dschungel beobachten und an ihrer Waschung in einem natürlichen Schlammbecken teilnehmen.",
+                  "category": "landmark",
+                  "coords": [
+                        98.33033,
+                        7.918724
+                  ]
+            },
+            {
+                  "name": "Flying Hanuman",
+                  "text": "Ein Öko-Abenteuerpark mit einer aufregenden Serie von extremen Seilrutschen und hölzernen Hängebrücken, die hoch oben im dichten, uralten Blätterdach des Regenwaldes hängen.",
+                  "category": "landmark",
+                  "coords": [
+                        98.322687,
+                        7.924723
+                  ]
+            },
+            {
+                  "name": "Gurdwara Siri Guru Singh Sabha Phuket",
+                  "text": "Dieser ruhige Sikh-Tempel ist an seiner schimmernden goldenen Kuppel zu erkennen; er dient der lokalen Punjabi-Gemeinde und bietet regelmäßig gemeinsame vegetarische Mahlzeiten aus seiner Langar-Küche an.",
+                  "category": "landmark",
+                  "coords": [
+                        98.393533,
+                        7.889848
+                  ]
+            },
+            {
+                  "name": "Masjid Keeyamudine",
+                  "text": "Diese islamische Moschee im Viertel verfügt über eine elegant geflieste zentrale Gebetshalle und ein schlankes Minarett, von dem aus der Gebetsruf für die lokale muslimische Gemeinde gesendet wird.",
+                  "category": "landmark",
+                  "coords": [
+                        98.381901,
+                        7.843969
+                  ]
+            },
+            {
+                  "name": "Rapha ministry church",
+                  "text": "Ein einladendes zeitgenössisches christliches Gottesdienstzentrum, das Gemeindetreffen, musikalische Anbetung und regelmäßige Gottesdienste in einem modernen, klimatisierten Saal anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        98.353288,
+                        7.860639
+                  ]
+            },
+            {
+                  "name": "Lim Hu Tai Su Shrine",
+                  "text": "Dieser kunstvoll verzierte taoistische Schrein duftet nach dichtem Weihrauchrauch und beherbergt alte Statuen chinesischer Gottheiten unter seinen aufwendig geschnitzten, rot bemalten Holzdachbalken.",
+                  "category": "landmark",
+                  "coords": [
+                        98.375034,
+                        7.907281
+                  ]
+            },
+            {
+                  "name": "Seed of Kathu church",
+                  "text": "Die Seed of Kathu Church ist eine lokale christliche Gemeinde in Phuket, die sich der spirituellen Betreuung der Gläubigen in der Umgebung widmet.",
+                  "category": "landmark",
+                  "coords": [
+                        98.351044,
+                        7.899809
+                  ]
+            },
+            {
+                  "name": "Kamala Mosque (lembin)",
+                  "text": "Die Kamala-Moschee (Lembin) ist ein bedeutendes muslimisches Gebetshaus für die lokale islamische Gemeinschaft nahe der Westküste Phukets.",
+                  "category": "landmark",
+                  "coords": [
+                        98.399322,
+                        7.933276
+                  ]
+            },
+            {
+                  "name": "Sansook Temple",
+                  "text": "Der Sansook-Tempel ist ein buddhistisches Heiligtum in Phuket, das mit traditionellen thailändischen Verzierungen geschmückt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        98.397863,
+                        7.876476
+                  ]
+            },
+            {
+                  "name": "Bang Neow Shrine",
+                  "text": "Der Bang Neow Shrine ist ein bedeutender chinesischer Volksglaube-Tempel, der während des vegetarischen Festivals in Phuket eine zentrale Rolle spielt.",
+                  "category": "landmark",
+                  "coords": [
+                        98.394375,
+                        7.876587
+                  ]
+            },
+            {
+                  "name": "Kio Thian Keng Saphan Hin Shrine",
+                  "text": "Der Kio Thian Keng Saphan Hin Shrine ist ein Tempel des chinesischen Volksglaubens, der am Meer in Saphan Hin liegt und Göttinnen der Seefahrt ehrt.",
+                  "category": "landmark",
+                  "coords": [
+                        98.400035,
+                        7.862486
+                  ]
+            },
+            {
+                  "name": "Wat Sam Kong",
+                  "text": "Wat Sam Kong ist eine buddhistische Tempelanlage in Phuket mit einem ruhigen Innenhof für Meditation und Gebet.",
+                  "category": "landmark",
+                  "coords": [
+                        98.366882,
+                        7.908609
+                  ]
+            },
+            {
+                  "name": "Kathu Shrine",
+                  "text": "Der Kathu Shrine gilt als der älteste und heiligste Ort für das jährliche Phuket Vegetarian Festival.",
+                  "category": "landmark",
+                  "coords": [
+                        98.345084,
+                        7.916425
+                  ]
             }
       ],
       "hu": [
@@ -301,6 +607,312 @@ export const thailandCities: POI[] = [
                   "coords": [
                         98.389094,
                         7.886334
+                  ]
+            },
+            {
+                  "name": "Sapam Temple",
+                  "text": "Ezt a hagyományos kínai istentiszteleti helyet Phuketben színes sárkányfaragványok és élénkpiros papírlampionok díszítik.",
+                  "category": "religious",
+                  "coords": [
+                        98.39632,
+                        7.93741
+                  ]
+            },
+            {
+                  "name": "Phuket Mining Museum",
+                  "text": "Egy lenyűgöző kínai-portugál stílusú épületben található ez a múzeum, amely életnagyságú diorámákkal mutatja be Phuket virágzó ónbányászati korszakát.",
+                  "category": "museum",
+                  "coords": [
+                        98.349483,
+                        7.933283
+                  ]
+            },
+            {
+                  "name": "Aphrodite Cabaret Show",
+                  "text": "Ez a csillogó színház vibráló transznemű kabaréműsoroknak ad otthont extravagáns flitteres jelmezekkel, bonyolult díszletekkel és dinamikus tátogós számokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        98.367182,
+                        7.903515
+                  ]
+            },
+            {
+                  "name": "Siam Niramit Show",
+                  "text": "Ezen a hatalmas színházi produkción több száz előadó mutatja be Thaiföld gazdag kulturális történelmét és spirituális hagyományait látványos speciális effektek és élő állatok segítségével.",
+                  "category": "cultural",
+                  "coords": [
+                        98.377023,
+                        7.931336
+                  ]
+            },
+            {
+                  "name": "Buddhistic Temple",
+                  "text": "Ezt a békés buddhista templomkomplexumot Naga kígyókkal díszített ívelt, többszintes tetők, arany sztúpák és nyugodt udvarok jellemzik.",
+                  "category": "religious",
+                  "coords": [
+                        98.425939,
+                        7.880111
+                  ]
+            },
+            {
+                  "name": "Khao Kham Phanwana Buddhist Park",
+                  "text": "A buja domboldalon elterülő, békés buddhista park árnyékos meditációs területeket és a sűrű trópusi növényzet között természetesen megbúvó, nyugodt vallási szobrokat kínál.",
+                  "category": "religious",
+                  "coords": [
+                        98.38831,
+                        7.828087
+                  ]
+            },
+            {
+                  "name": "Local Market Baan Borae",
+                  "text": "A környező lakóközösséget kiszolgáló nyüzsgő helyi piacon a faasztalokon frissen fogott tenger gyümölcsei, házi currypaszták és helyi zöldségek sorakoznak.",
+                  "category": "cultural",
+                  "coords": [
+                        98.377251,
+                        7.841581
+                  ]
+            },
+            {
+                  "name": "Talad Kaset",
+                  "text": "Ez a nagy, részben fedett piac egy kora reggeli jelentős csomópont, ahol nagykereskedelmi trópusi zöldségeket, egzotikus thai fűszernövényeket és friss húsokat vásárolnak.",
+                  "category": "cultural",
+                  "coords": [
+                        98.395274,
+                        7.877897
+                  ]
+            },
+            {
+                  "name": "Open market",
+                  "text": "Az élénk színű vászonsátrakkal árnyékolt kötetlen szabadtéri piac az olcsó ruházati standok és az illatos utcai ételeket árusító árusok nyüzsgő keverékét kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        98.368197,
+                        7.861705
+                  ]
+            },
+            {
+                  "name": "Chillva Market",
+                  "text": "Ez a divatos éjszakai piac bohém hangulatáról híres, ahol független butikok, élőzene és újrahasznosított hajózási konténerekbe épített, különleges bárok találhatók.",
+                  "category": "cultural",
+                  "coords": [
+                        98.373464,
+                        7.907317
+                  ]
+            },
+            {
+                  "name": "Thawisaman Market",
+                  "text": "Egy igazi környékbeli frissáru-piac egy nagy bádogtető alatt, ahol a thai helyiek naponta vásárolják meg az alapanyagokat, az előre megfőzött ételeket és a szezonális gyümölcsöket.",
+                  "category": "cultural",
+                  "coords": [
+                        98.371786,
+                        7.915156
+                  ]
+            },
+            {
+                  "name": "Chillva Market 2 (Seafood)",
+                  "text": "A népszerű piac kiterjesztéseként ez a dedikált részleg teljes egészében a frissen grillezett helyi tengeri herkentyűket és fűszeres mártogatós szószokat kínáló, sercegő standokra összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        98.370489,
+                        7.906998
+                  ]
+            },
+            {
+                  "name": "Koh Kaew Market",
+                  "text": "A Koh Kaew negyedben található hagyományos piacon egyszerű, színes napellenzők alatt kínálják a fogyasztásra kész regionális finomságok és a tanyasi friss termékek széles választékát.",
+                  "category": "cultural",
+                  "coords": [
+                        98.374701,
+                        7.957738
+                  ]
+            },
+            {
+                  "name": "Elephant. Feed and interact 800.",
+                  "text": "Ez az interaktív állatos attrakció lehetővé teszi a látogatók számára, hogy gyümölcskosarakat vásároljanak, és egy természetes dzsungelirtáson biztonságosan etessék és interakcióba lépjenek a megmentett elefántokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        98.433947,
+                        7.91087
+                  ]
+            },
+            {
+                  "name": "Monkey feed point",
+                  "text": "Népszerű út menti megálló a szigeten, ahol a turisták megfigyelhetik az erdő szélén összegyűlő merész vad makákókat, és banánt dobálhatnak nekik.",
+                  "category": "landmark",
+                  "coords": [
+                        98.416344,
+                        7.901461
+                  ]
+            },
+            {
+                  "name": "Monkeys",
+                  "text": "Ez a festői domboldali kilátó lehetőséget kínál a látogatóknak arra, hogy csendben megfigyeljék a sűrű, környező trópusi lombkoronában hintázó vad majomcsapatokat.",
+                  "category": "landmark",
+                  "coords": [
+                        98.420842,
+                        7.885819
+                  ]
+            },
+            {
+                  "name": "Crane Swing",
+                  "text": "Az izgalmakat keresők megtapasztalhatják az adrenalinszintet növelő zuhanást egy óriási mechanikus hintából, amelyet egy nagy teherbírású ipari daru emel a magasba.",
+                  "category": "landmark",
+                  "coords": [
+                        98.399807,
+                        7.865109
+                  ]
+            },
+            {
+                  "name": "Vodopad",
+                  "text": "Egy csendes trópusi erdőben megbújó kis sziklás vízesés, amely sima sziklatömbökön keresztül lágyan ömlik egy hűvös, tiszta vizű medencébe.",
+                  "category": "landmark",
+                  "coords": [
+                        98.389993,
+                        7.823594
+                  ]
+            },
+            {
+                  "name": "Cashew store",
+                  "text": "A helyi gyárbolt látogatói megtekinthetik a nyers kesualma bonyolult, munkaigényes feldolgozását, és megkóstolhatják a különböző frissen pörkölt, ízesített dióféléket.",
+                  "category": "landmark",
+                  "coords": [
+                        98.35439,
+                        7.86065
+                  ]
+            },
+            {
+                  "name": "Nok's house",
+                  "text": "Ez a hagyományos thai fa lakópark elbűvölő bepillantást nyújt az autentikus szigeti otthoni életbe, jól gondozott, buja trópusi kertekkel kiegészítve.",
+                  "category": "landmark",
+                  "coords": [
+                        98.336138,
+                        7.910995
+                  ]
+            },
+            {
+                  "name": "Upside down house",
+                  "text": "Ez a különleges építészeti látványosság egy teljesen berendezett, életnagyságú, kétszintes ház, amelyet teljesen a feje tetejére állítva építettek, így a látogatók a mennyezeten sétálhatnak a megtévesztő fotók kedvéért.",
+                  "category": "landmark",
+                  "coords": [
+                        98.379624,
+                        7.93844
+                  ]
+            },
+            {
+                  "name": "Elephant Jungle Sanctuary Phuket",
+                  "text": "Ez az etikus ökopark lehetővé teszi a látogatók számára, hogy megfigyeljék a dzsungelben szabadon kószáló, megmentett vastagbőrűeket, és részt vegyenek a természetes iszapmedencében történő lemosásukban.",
+                  "category": "landmark",
+                  "coords": [
+                        98.33033,
+                        7.918724
+                  ]
+            },
+            {
+                  "name": "Flying Hanuman",
+                  "text": "Ökokalandpark, amely extrém drótkötélpályák és fa égi hidak izgalmas sorozatát kínálja, magasan az ősi esőerdő sűrű lombkoronájában felfüggesztve.",
+                  "category": "landmark",
+                  "coords": [
+                        98.322687,
+                        7.924723
+                  ]
+            },
+            {
+                  "name": "Gurdwara Siri Guru Singh Sabha Phuket",
+                  "text": "A csillogó aranykupolájáról felismerhető békés szikh templom a helyi pandzsábi közösséget szolgálja ki, és langar konyhájából rendszeres közösségi vegetáriánus étkezéseket biztosít.",
+                  "category": "landmark",
+                  "coords": [
+                        98.393533,
+                        7.889848
+                  ]
+            },
+            {
+                  "name": "Masjid Keeyamudine",
+                  "text": "Ez a környékbeli iszlám mecset elegánsan csempézett központi imateremmel és egy karcsú minarettel rendelkezik, ahonnan az imára hívás hangzik fel a helyi muszlim közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        98.381901,
+                        7.843969
+                  ]
+            },
+            {
+                  "name": "Rapha ministry church",
+                  "text": "Barátságos, kortárs keresztény istentiszteleti központ, amely közösségi összejöveteleket, zenés dicsőítést és rendszeres vallási szertartásokat biztosít egy modern, légkondicionált előadóteremben.",
+                  "category": "landmark",
+                  "coords": [
+                        98.353288,
+                        7.860639
+                  ]
+            },
+            {
+                  "name": "Lim Hu Tai Su Shrine",
+                  "text": "A sűrű füstölőillattal teli, díszes taoista szentély ősi kínai istenségek szobrait őrzi a bonyolult faragású, pirosra festett fa tetőgerendák alatt.",
+                  "category": "landmark",
+                  "coords": [
+                        98.375034,
+                        7.907281
+                  ]
+            },
+            {
+                  "name": "Seed of Kathu church",
+                  "text": "A Seed of Kathu Church egy helyi keresztény gyülekezet Phuketben, amely a környék hívőinek spirituális központja.",
+                  "category": "landmark",
+                  "coords": [
+                        98.351044,
+                        7.899809
+                  ]
+            },
+            {
+                  "name": "Kamala Mosque (lembin)",
+                  "text": "A Kamala mecset (Lembin) a helyi iszlám közösség fontos muszlim imaháza Phuket nyugati partjának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        98.399322,
+                        7.933276
+                  ]
+            },
+            {
+                  "name": "Sansook Temple",
+                  "text": "A Sansook-templom egy buddhista szentély Phuketben, amelyet hagyományos thai díszítések ékesítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        98.397863,
+                        7.876476
+                  ]
+            },
+            {
+                  "name": "Bang Neow Shrine",
+                  "text": "A Bang Neow szentély egy fontos kínai népi vallási templom, amely központi szerepet játszik a phuketi vegetáriánus fesztivál idején.",
+                  "category": "landmark",
+                  "coords": [
+                        98.394375,
+                        7.876587
+                  ]
+            },
+            {
+                  "name": "Kio Thian Keng Saphan Hin Shrine",
+                  "text": "A Kio Thian Keng Saphan Hin szentély egy tengerparti kínai népi vallási templom Saphan Hinben, amely a tengerészet istennőit tiszteli.",
+                  "category": "landmark",
+                  "coords": [
+                        98.400035,
+                        7.862486
+                  ]
+            },
+            {
+                  "name": "Wat Sam Kong",
+                  "text": "A Wat Sam Kong egy buddhista templomegyüttes Phuketben, békés udvarral a meditáció és az imádság számára.",
+                  "category": "landmark",
+                  "coords": [
+                        98.366882,
+                        7.908609
+                  ]
+            },
+            {
+                  "name": "Kathu Shrine",
+                  "text": "A Kathu szentélyt az éves phuketi vegetáriánus fesztivál legrégebbi és legszentebb helyszínének tartják.",
+                  "category": "landmark",
+                  "coords": [
+                        98.345084,
+                        7.916425
                   ]
             }
       ],
@@ -430,6 +1042,312 @@ export const thailandCities: POI[] = [
                         98.389094,
                         7.886334
                   ]
+            },
+            {
+                  "name": "Sapam Temple",
+                  "text": "Acest lăcaș de cult chinezesc tradițional din Phuket este împodobit cu sculpturi colorate cu dragoni și felinare de hârtie roșie vibrante.",
+                  "category": "religious",
+                  "coords": [
+                        98.39632,
+                        7.93741
+                  ]
+            },
+            {
+                  "name": "Phuket Mining Museum",
+                  "text": "Situat într-o clădire impresionantă în stil chino-portughez, acest muzeu relatează era prosperă a mineritului de staniu din Phuket prin intermediul dioramelor în mărime naturală.",
+                  "category": "museum",
+                  "coords": [
+                        98.349483,
+                        7.933283
+                  ]
+            },
+            {
+                  "name": "Aphrodite Cabaret Show",
+                  "text": "Acest teatru plin de farmec găzduiește spectacole de cabaret cu persoane transgen, prezentând costume extravagante cu paiete, decoruri elaborate și numere dinamice de playback.",
+                  "category": "cultural",
+                  "coords": [
+                        98.367182,
+                        7.903515
+                  ]
+            },
+            {
+                  "name": "Siam Niramit Show",
+                  "text": "Această producție de teatru masivă prezintă sute de interpreți care ilustrează istoria culturală bogată și tradițiile spirituale ale Thailandei, folosind efecte speciale spectaculoase și animale vii.",
+                  "category": "cultural",
+                  "coords": [
+                        98.377023,
+                        7.931336
+                  ]
+            },
+            {
+                  "name": "Buddhistic Temple",
+                  "text": "Acest complex de temple budiste liniștit se distinge prin acoperișurile sale etajate curbate, decorate cu șerpi Naga, stupele aurii și curțile pașnice.",
+                  "category": "religious",
+                  "coords": [
+                        98.425939,
+                        7.880111
+                  ]
+            },
+            {
+                  "name": "Khao Kham Phanwana Buddhist Park",
+                  "text": "Situat pe un deal luxuriant, acest parc budist pașnic oferă zone de meditație umbrite și statui religioase senine cuibărite natural printre frunzișul tropical dens.",
+                  "category": "religious",
+                  "coords": [
+                        98.38831,
+                        7.828087
+                  ]
+            },
+            {
+                  "name": "Local Market Baan Borae",
+                  "text": "Deservind comunitatea rezidențială din jur, această piață locală aglomerată este plină de mese de lemn care expun fructe de mare proaspăt prinse, paste de curry de casă și verdețuri locale.",
+                  "category": "cultural",
+                  "coords": [
+                        98.377251,
+                        7.841581
+                  ]
+            },
+            {
+                  "name": "Talad Kaset",
+                  "text": "Această piață mare, parțial acoperită, este un centru important dis-de-dimineață pentru achiziționarea en-gros de legume tropicale, ierburi thailandeze exotice și carne proaspătă.",
+                  "category": "cultural",
+                  "coords": [
+                        98.395274,
+                        7.877897
+                  ]
+            },
+            {
+                  "name": "Open market",
+                  "text": "Umrită de corturi de pânză viu colorate, această piață informală în aer liber oferă un amestec animat de tarabe cu haine ieftine și vânzători de mâncare stradală parfumată.",
+                  "category": "cultural",
+                  "coords": [
+                        98.368197,
+                        7.861705
+                  ]
+            },
+            {
+                  "name": "Chillva Market",
+                  "text": "Această piață de noapte la modă este faimoasă pentru atmosfera sa boemă, prezentând buticuri independente, muzică live și baruri excentrice construite în containere de transport reciclate.",
+                  "category": "cultural",
+                  "coords": [
+                        98.373464,
+                        7.907317
+                  ]
+            },
+            {
+                  "name": "Thawisaman Market",
+                  "text": "O piață proaspătă autentică de cartier, sub un acoperiș mare de tablă, unde localnicii thailandezi cumpără zilnic produse alimentare de bază, mese semipreparate și fructe de sezon.",
+                  "category": "cultural",
+                  "coords": [
+                        98.371786,
+                        7.915156
+                  ]
+            },
+            {
+                  "name": "Chillva Market 2 (Seafood)",
+                  "text": "Ca o extensie a pieței populare, această secțiune dedicată se concentrează în întregime pe tarabele sfârâitoare care oferă fructe de mare locale proaspăt făcute la grătar, servite cu sosuri picante.",
+                  "category": "cultural",
+                  "coords": [
+                        98.370489,
+                        7.906998
+                  ]
+            },
+            {
+                  "name": "Koh Kaew Market",
+                  "text": "Situată în cartierul Koh Kaew, această piață tradițională oferă sub copertine simple și colorate o gamă largă de delicatese regionale gata preparate și produse proaspete de la fermă.",
+                  "category": "cultural",
+                  "coords": [
+                        98.374701,
+                        7.957738
+                  ]
+            },
+            {
+                  "name": "Elephant. Feed and interact 800.",
+                  "text": "Această atracție interactivă cu animale permite vizitatorilor să cumpere coșuri cu fructe pentru a hrăni și a interacționa în siguranță cu elefanții salvați, într-un luminiș natural din junglă.",
+                  "category": "landmark",
+                  "coords": [
+                        98.433947,
+                        7.91087
+                  ]
+            },
+            {
+                  "name": "Monkey feed point",
+                  "text": "O oprire populară pe marginea drumului de pe insulă, unde turiștii pot observa și arunca banane macacilor sălbatici și îndrăzneți care se adună la marginea pădurii.",
+                  "category": "landmark",
+                  "coords": [
+                        98.416344,
+                        7.901461
+                  ]
+            },
+            {
+                  "name": "Monkeys",
+                  "text": "Acest punct de belvedere pitoresc de pe deal oferă vizitatorilor șansa de a observa în liniște grupuri de maimuțe sălbatice care se leagănă prin coronamentul tropical dens din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        98.420842,
+                        7.885819
+                  ]
+            },
+            {
+                  "name": "Crane Swing",
+                  "text": "Căutătorii de senzații tari pot experimenta o cădere plină de adrenalină de la un leagăn mecanic uriaș, care este ridicat sus în aer de o macara industrială de mare putere.",
+                  "category": "landmark",
+                  "coords": [
+                        98.399807,
+                        7.865109
+                  ]
+            },
+            {
+                  "name": "Vodopad",
+                  "text": "Ascunsă într-o pădure tropicală liniștită, această mică cascadă stâncoasă cade ușor peste bolovani netezi într-un bazin răcoros și limpede.",
+                  "category": "landmark",
+                  "coords": [
+                        98.389993,
+                        7.823594
+                  ]
+            },
+            {
+                  "name": "Cashew store",
+                  "text": "Vizitatorii acestui magazin local de fabrică pot urmări procesarea complexă și intensivă a merelor de caju crude și pot degusta diverse nuci proaspăt prăjite și aromate.",
+                  "category": "landmark",
+                  "coords": [
+                        98.35439,
+                        7.86065
+                  ]
+            },
+            {
+                  "name": "Nok's house",
+                  "text": "Acest complex rezidențial thailandez tradițional din lemn oferă o privire fermecătoare asupra vieții autentice de pe insulă, completată de grădini tropicale luxuriante, bine îngrijite.",
+                  "category": "landmark",
+                  "coords": [
+                        98.336138,
+                        7.910995
+                  ]
+            },
+            {
+                  "name": "Upside down house",
+                  "text": "Această atracție arhitecturală excentrică prezintă o casă cu două etaje în mărime naturală, complet mobilată, construită complet cu susul în jos, permițând vizitatorilor să meargă pe tavan pentru fotografii dezorientante.",
+                  "category": "landmark",
+                  "coords": [
+                        98.379624,
+                        7.93844
+                  ]
+            },
+            {
+                  "name": "Elephant Jungle Sanctuary Phuket",
+                  "text": "Acest eco-parc etic permite vizitatorilor să observe pahiderme salvate plimbându-se liber prin junglă și să participe la spălarea lor într-o piscină naturală cu noroi.",
+                  "category": "landmark",
+                  "coords": [
+                        98.33033,
+                        7.918724
+                  ]
+            },
+            {
+                  "name": "Flying Hanuman",
+                  "text": "Un parc de eco-aventură care oferă o serie palpitantă de tiroliene extreme și poduri de lemn suspendate la înălțime în coronamentul dens și antic al pădurii tropicale.",
+                  "category": "landmark",
+                  "coords": [
+                        98.322687,
+                        7.924723
+                  ]
+            },
+            {
+                  "name": "Gurdwara Siri Guru Singh Sabha Phuket",
+                  "text": "Ușor de recunoscut după cupola sa aurie strălucitoare, acest templu sikh pașnic deservește comunitatea locală punjabi și oferă mese comunitare vegetariene regulate din bucătăria sa langar.",
+                  "category": "landmark",
+                  "coords": [
+                        98.393533,
+                        7.889848
+                  ]
+            },
+            {
+                  "name": "Masjid Keeyamudine",
+                  "text": "Această moschee islamică de cartier are o sală centrală de rugăciune placată elegant și un minaret subțire de la care este transmisă chemarea la rugăciune către comunitatea musulmană locală.",
+                  "category": "landmark",
+                  "coords": [
+                        98.381901,
+                        7.843969
+                  ]
+            },
+            {
+                  "name": "Rapha ministry church",
+                  "text": "Un centru de cult creștin contemporan și primitor, care oferă adunări comunitare, închinare muzicală și servicii religioase regulate într-un auditoriu modern, cu aer condiționat.",
+                  "category": "landmark",
+                  "coords": [
+                        98.353288,
+                        7.860639
+                  ]
+            },
+            {
+                  "name": "Lim Hu Tai Su Shrine",
+                  "text": "Parfumat cu fum gros de tămâie, acest altar taoist ornamentat adăpostește și protejează statui antice ale zeităților chineze sub grinzile sale de lemn vopsite în roșu, sculptate complex.",
+                  "category": "landmark",
+                  "coords": [
+                        98.375034,
+                        7.907281
+                  ]
+            },
+            {
+                  "name": "Seed of Kathu church",
+                  "text": "Biserica Seed of Kathu este o comunitate creștină locală din Phuket, dedicată îngrijirii spirituale a credincioșilor din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        98.351044,
+                        7.899809
+                  ]
+            },
+            {
+                  "name": "Kamala Mosque (lembin)",
+                  "text": "Moscheea Kamala (Lembin) este un important lăcaș de cult musulman pentru comunitatea islamică locală din apropierea coastei de vest a insulei Phuket.",
+                  "category": "landmark",
+                  "coords": [
+                        98.399322,
+                        7.933276
+                  ]
+            },
+            {
+                  "name": "Sansook Temple",
+                  "text": "Templul Sansook este un sanctuar budist din Phuket, decorat cu ornamente tradiționale thailandeze.",
+                  "category": "landmark",
+                  "coords": [
+                        98.397863,
+                        7.876476
+                  ]
+            },
+            {
+                  "name": "Bang Neow Shrine",
+                  "text": "Altarul Bang Neow este un important templu al religiei populare chineze, jucând un rol central în timpul festivalului vegetarian din Phuket.",
+                  "category": "landmark",
+                  "coords": [
+                        98.394375,
+                        7.876587
+                  ]
+            },
+            {
+                  "name": "Kio Thian Keng Saphan Hin Shrine",
+                  "text": "Altarul Kio Thian Keng Saphan Hin este un templu al religiei populare chineze situat pe litoral în Saphan Hin, care onorează zeițele mării.",
+                  "category": "landmark",
+                  "coords": [
+                        98.400035,
+                        7.862486
+                  ]
+            },
+            {
+                  "name": "Wat Sam Kong",
+                  "text": "Wat Sam Kong este un complex de temple budiste din Phuket, cu o curte liniștită pentru meditație și rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        98.366882,
+                        7.908609
+                  ]
+            },
+            {
+                  "name": "Kathu Shrine",
+                  "text": "Altarul Kathu este considerat cel mai vechi și cel mai sfânt loc pentru festivalul vegetarian anual din Phuket.",
+                  "category": "landmark",
+                  "coords": [
+                        98.345084,
+                        7.916425
+                  ]
             }
       ],
       "en": [
@@ -557,6 +1475,312 @@ export const thailandCities: POI[] = [
                   "coords": [
                         98.389094,
                         7.886334
+                  ]
+            },
+            {
+                  "name": "Sapam Temple",
+                  "text": "This traditional Chinese place of worship in Phuket is adorned with colorful dragon carvings and vibrant red paper lanterns.",
+                  "category": "religious",
+                  "coords": [
+                        98.39632,
+                        7.93741
+                  ]
+            },
+            {
+                  "name": "Phuket Mining Museum",
+                  "text": "Set in a striking Sino-Portuguese style building, this museum chronicles Phuket's prosperous tin mining era with life-sized diorama displays.",
+                  "category": "museum",
+                  "coords": [
+                        98.349483,
+                        7.933283
+                  ]
+            },
+            {
+                  "name": "Aphrodite Cabaret Show",
+                  "text": "This glamorous theater hosts vibrant transgender cabaret performances featuring extravagant sequined costumes, elaborate stage sets, and dynamic lip-sync numbers.",
+                  "category": "cultural",
+                  "coords": [
+                        98.367182,
+                        7.903515
+                  ]
+            },
+            {
+                  "name": "Siam Niramit Show",
+                  "text": "This massive theater production features hundreds of performers depicting Thailand's rich cultural history and spiritual traditions using spectacular special effects and live animals.",
+                  "category": "cultural",
+                  "coords": [
+                        98.377023,
+                        7.931336
+                  ]
+            },
+            {
+                  "name": "Buddhistic Temple",
+                  "text": "This serene Buddhist temple complex is distinguished by its sweeping tiered roofs decorated with Naga serpents, golden stupas, and peaceful courtyards.",
+                  "category": "religious",
+                  "coords": [
+                        98.425939,
+                        7.880111
+                  ]
+            },
+            {
+                  "name": "Khao Kham Phanwana Buddhist Park",
+                  "text": "Set amidst a lush hillside, this peaceful Buddhist park offers shaded meditation areas and serene religious statues nestled naturally among the dense tropical foliage.",
+                  "category": "religious",
+                  "coords": [
+                        98.38831,
+                        7.828087
+                  ]
+            },
+            {
+                  "name": "Local Market Baan Borae",
+                  "text": "Serving the surrounding residential community, this bustling local market is packed with wooden tables displaying freshly caught seafood, homemade curry pastes, and local greens.",
+                  "category": "cultural",
+                  "coords": [
+                        98.377251,
+                        7.841581
+                  ]
+            },
+            {
+                  "name": "Talad Kaset",
+                  "text": "This large, partially covered market is a major early-morning hub for purchasing wholesale tropical vegetables, exotic Thai herbs, and fresh butchered meats.",
+                  "category": "cultural",
+                  "coords": [
+                        98.395274,
+                        7.877897
+                  ]
+            },
+            {
+                  "name": "Open market",
+                  "text": "Shaded by brightly colored canvas tents, this informal open-air market offers a lively mix of inexpensive clothing stalls and fragrant street food vendors.",
+                  "category": "cultural",
+                  "coords": [
+                        98.368197,
+                        7.861705
+                  ]
+            },
+            {
+                  "name": "Chillva Market",
+                  "text": "This trendy night market is famous for its bohemian vibe, featuring independent boutiques, live music, and quirky bars built inside upcycled shipping containers.",
+                  "category": "cultural",
+                  "coords": [
+                        98.373464,
+                        7.907317
+                  ]
+            },
+            {
+                  "name": "Thawisaman Market",
+                  "text": "A genuine neighborhood fresh market under a large tin roof where Thai locals shop daily for pantry staples, pre-cooked meals, and seasonal fruits.",
+                  "category": "cultural",
+                  "coords": [
+                        98.371786,
+                        7.915156
+                  ]
+            },
+            {
+                  "name": "Chillva Market 2 (Seafood)",
+                  "text": "As an extension of the popular market, this dedicated section focuses entirely on sizzling stalls offering freshly grilled local seafood served with spicy dipping sauces.",
+                  "category": "cultural",
+                  "coords": [
+                        98.370489,
+                        7.906998
+                  ]
+            },
+            {
+                  "name": "Koh Kaew Market",
+                  "text": "Situated in the Koh Kaew district, this traditional marketplace provides a wide array of ready-to-eat regional delicacies and farm-fresh produce beneath simple, colorful awnings.",
+                  "category": "cultural",
+                  "coords": [
+                        98.374701,
+                        7.957738
+                  ]
+            },
+            {
+                  "name": "Elephant. Feed and interact 800.",
+                  "text": "This interactive animal attraction allows visitors to purchase baskets of fruit to safely feed and interact with rescued elephants in a natural jungle clearing.",
+                  "category": "landmark",
+                  "coords": [
+                        98.433947,
+                        7.91087
+                  ]
+            },
+            {
+                  "name": "Monkey feed point",
+                  "text": "A popular roadside stop on the island where tourists can observe and toss bananas to the bold wild macaques that gather near the forest edge.",
+                  "category": "landmark",
+                  "coords": [
+                        98.416344,
+                        7.901461
+                  ]
+            },
+            {
+                  "name": "Monkey Seeing",
+                  "text": "This scenic hillside viewpoint offers visitors the chance to quietly observe troops of wild monkeys swinging through the dense, surrounding tropical canopy.",
+                  "category": "landmark",
+                  "coords": [
+                        98.420842,
+                        7.885819
+                  ]
+            },
+            {
+                  "name": "Crane Swing",
+                  "text": "Thrill-seekers can experience an adrenaline-pumping drop from a giant mechanical swing that is hoisted high into the air by a heavy-duty industrial crane.",
+                  "category": "landmark",
+                  "coords": [
+                        98.399807,
+                        7.865109
+                  ]
+            },
+            {
+                  "name": "Ton Ao Yon Waterfall",
+                  "text": "Hidden within a tranquil tropical forest, this small rocky waterfall cascades gently down smooth boulders into a cool, clear wading pool.",
+                  "category": "landmark",
+                  "coords": [
+                        98.389993,
+                        7.823594
+                  ]
+            },
+            {
+                  "name": "Cashew store",
+                  "text": "Visitors to this local factory store can watch the complex, labor-intensive processing of raw cashew apples and sample various freshly roasted, flavored nuts.",
+                  "category": "landmark",
+                  "coords": [
+                        98.35439,
+                        7.86065
+                  ]
+            },
+            {
+                  "name": "Nok's house",
+                  "text": "This traditional Thai wooden residential compound provides a charming glimpse into authentic island homelife, complete with well-tended, lush tropical gardens.",
+                  "category": "landmark",
+                  "coords": [
+                        98.336138,
+                        7.910995
+                  ]
+            },
+            {
+                  "name": "Upside down house",
+                  "text": "This quirky architectural attraction features a fully furnished, life-sized two-story home built completely upside down, allowing visitors to walk on the ceiling for disorienting photos.",
+                  "category": "landmark",
+                  "coords": [
+                        98.379624,
+                        7.93844
+                  ]
+            },
+            {
+                  "name": "Elephant Jungle Sanctuary Phuket",
+                  "text": "This ethical eco-park allows visitors to observe rescued pachyderms roaming freely through the jungle and to participate in washing them in a natural mud pool.",
+                  "category": "landmark",
+                  "coords": [
+                        98.33033,
+                        7.918724
+                  ]
+            },
+            {
+                  "name": "Flying Hanuman",
+                  "text": "An eco-adventure park featuring a thrilling series of extreme ziplines and wooden sky bridges suspended high within the dense, ancient rainforest canopy.",
+                  "category": "landmark",
+                  "coords": [
+                        98.322687,
+                        7.924723
+                  ]
+            },
+            {
+                  "name": "Gurdwara Siri Guru Singh Sabha Phuket",
+                  "text": "Recognizable by its gleaming golden dome, this serene Sikh temple serves the local Punjabi community and offers regular communal vegetarian meals from its langar kitchen.",
+                  "category": "landmark",
+                  "coords": [
+                        98.393533,
+                        7.889848
+                  ]
+            },
+            {
+                  "name": "Masjid Keeyamudine",
+                  "text": "This neighborhood Islamic mosque features an elegantly tiled central prayer hall and a slender minaret from which the call to prayer is broadcasted to the local Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        98.381901,
+                        7.843969
+                  ]
+            },
+            {
+                  "name": "Rapha ministry church",
+                  "text": "A welcoming contemporary Christian worship center providing community gatherings, musical worship, and regular religious services in a modern, air-conditioned auditorium.",
+                  "category": "landmark",
+                  "coords": [
+                        98.353288,
+                        7.860639
+                  ]
+            },
+            {
+                  "name": "Lim Hu Tai Su Shrine",
+                  "text": "Scented with thick incense smoke, this ornate Taoist shrine houses and protects ancient statues of Chinese deities beneath its intricately carved, red-painted wooden roof beams.",
+                  "category": "landmark",
+                  "coords": [
+                        98.375034,
+                        7.907281
+                  ]
+            },
+            {
+                  "name": "Seed of Kathu church",
+                  "text": "The Seed of Kathu Church is a local Christian community in Phuket dedicated to the spiritual care of worshipers in the area.",
+                  "category": "landmark",
+                  "coords": [
+                        98.351044,
+                        7.899809
+                  ]
+            },
+            {
+                  "name": "Kamala Mosque (lembin)",
+                  "text": "Kamala Mosque (Lembin) is a prominent Muslim house of worship serving the local Islamic community near Phuket's west coast.",
+                  "category": "landmark",
+                  "coords": [
+                        98.399322,
+                        7.933276
+                  ]
+            },
+            {
+                  "name": "Sansook Temple",
+                  "text": "Sansook Temple is a Buddhist sanctuary in Phuket adorned with traditional Thai temple architecture and ornate decorations.",
+                  "category": "landmark",
+                  "coords": [
+                        98.397863,
+                        7.876476
+                  ]
+            },
+            {
+                  "name": "Bang Neow Shrine",
+                  "text": "Bang Neow Shrine is an important Chinese folk religion temple that plays a central role during Phuket's annual vegetarian festival.",
+                  "category": "landmark",
+                  "coords": [
+                        98.394375,
+                        7.876587
+                  ]
+            },
+            {
+                  "name": "Kio Thian Keng Saphan Hin Shrine",
+                  "text": "The Kio Thian Keng Saphan Hin Shrine is a Chinese folk religion temple situated by the sea at Saphan Hin, honoring the goddesses of seafaring.",
+                  "category": "landmark",
+                  "coords": [
+                        98.400035,
+                        7.862486
+                  ]
+            },
+            {
+                  "name": "Wat Sam Kong",
+                  "text": "Wat Sam Kong is a Buddhist temple complex in Phuket featuring a peaceful courtyard for meditation and daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        98.366882,
+                        7.908609
+                  ]
+            },
+            {
+                  "name": "Kathu Shrine",
+                  "text": "The Kathu Shrine is widely regarded as the original and most sacred site of the annual Phuket Vegetarian Festival.",
+                  "category": "landmark",
+                  "coords": [
+                        98.345084,
+                        7.916425
                   ]
             }
       ]

@@ -1433,7 +1433,7 @@ imageHint: "Rafting on Dunajec river in Pieniny",
             },
             {
                   "name": "Sokoliarstvo Lukáš",
-                  "text": "Ein Falknereizentrum, das Greifvögel und Flugvorführungen präsentiert.",
+                  "text": "Eine Falknerei auf der Hochebene Muránska planina.",
                   "category": "recreational",
                   "coords": [
                         20.071259,
@@ -1451,7 +1451,7 @@ imageHint: "Rafting on Dunajec river in Pieniny",
             },
             {
                   "name": "Wesselényiho jaskyňa",
-                  "text": "Eingang zu einer nach der Familie Wesselényi benannten Höhle.",
+                  "text": "Die Wesselényi-Höhle ist eine Kalksteinhöhle mit Tropfsteinen auf dem Muránska planina-Plateau.",
                   "category": "landmark",
                   "coords": [
                         20.064219,
@@ -1469,7 +1469,7 @@ imageHint: "Rafting on Dunajec river in Pieniny",
             },
             {
                   "name": "Pavelková",
-                  "text": "Ein Gipfel im Gebirge des Slowakischen Karstes.",
+                  "text": "Pavelková ist ein Kalksteingipfel auf der Hochebene Muránska planina.",
                   "category": "landmark",
                   "coords": [
                         20.001473,
@@ -1498,7 +1498,7 @@ imageHint: "Rafting on Dunajec river in Pieniny",
             },
             {
                   "name": "Sokoliarstvo Lukáš",
-                  "text": "Ragadozó madarakat és bemutatókat kínáló solymászközpont.",
+                  "text": "Egy solymászat a Murányi-fennsíkon.",
                   "category": "recreational",
                   "coords": [
                         20.071259,
@@ -1516,7 +1516,7 @@ imageHint: "Rafting on Dunajec river in Pieniny",
             },
             {
                   "name": "Wesselényi-barlang",
-                  "text": "A Wesselényi családról elnevezett barlang bejárata.",
+                  "text": "A Wesselényi-barlang egy mészkőbarlang cseppkövekkel a Murányi-fennsíkon.",
                   "category": "landmark",
                   "coords": [
                         20.064219,
@@ -1534,7 +1534,7 @@ imageHint: "Rafting on Dunajec river in Pieniny",
             },
             {
                   "name": "Pavelková",
-                  "text": "Hegycsúcs a Szlovák-karszt területén.",
+                  "text": "A Pavelková egy mészkőcsúcs a Muránska planina fennsíkon.",
                   "category": "landmark",
                   "coords": [
                         20.001473,
@@ -1563,7 +1563,7 @@ imageHint: "Rafting on Dunajec river in Pieniny",
             },
             {
                   "name": "Sokoliarstvo Lukáš",
-                  "text": "Un centru de șoimărit care prezintă păsări de pradă.",
+                  "text": "Un centru de șoimerie pe platoul Muránska planina.",
                   "category": "recreational",
                   "coords": [
                         20.071259,
@@ -1581,7 +1581,7 @@ imageHint: "Rafting on Dunajec river in Pieniny",
             },
             {
                   "name": "Wesselényiho jaskyňa",
-                  "text": "Intrarea într-o peșteră numită după familia Wesselényi.",
+                  "text": "Peștera Wesselényi este o peșteră de calcar cu stalactite pe platoul Muranska Planina.",
                   "category": "landmark",
                   "coords": [
                         20.064219,
@@ -1599,7 +1599,7 @@ imageHint: "Rafting on Dunajec river in Pieniny",
             },
             {
                   "name": "Pavelková",
-                  "text": "Un vârf muntos în regiunea carstică Spišsko-gemerský.",
+                  "text": "Pavelková este un vârf de calcar pe platoul Muránska planina.",
                   "category": "landmark",
                   "coords": [
                         20.001473,
@@ -1628,7 +1628,7 @@ imageHint: "Rafting on Dunajec river in Pieniny",
             },
             {
                   "name": "Sokoliarstvo Lukáš",
-                  "text": "A falconry center showcasing birds of prey.",
+                  "text": "A falconry center on the Muránska planina plateau.",
                   "category": "recreational",
                   "coords": [
                         20.071259,
@@ -1646,7 +1646,7 @@ imageHint: "Rafting on Dunajec river in Pieniny",
             },
             {
                   "name": "Wesselényi's cave",
-                  "text": "Entrance to a cave named after the Wesselényi family.",
+                  "text": "Wesselényi's cave is a limestone cave with stalactites on the Muránska planina plateau.",
                   "category": "landmark",
                   "coords": [
                         20.064219,
@@ -1664,7 +1664,7 @@ imageHint: "Rafting on Dunajec river in Pieniny",
             },
             {
                   "name": "Pavelková",
-                  "text": "A mountain peak in the Spišsko-gemerský kras region.",
+                  "text": "Pavelková is a limestone peak on the Muránska planina plateau.",
                   "category": "landmark",
                   "coords": [
                         20.001473,
@@ -2849,7 +2849,7 @@ imageHint: "Massive ice formations in Dobsina cave",
             },
             {
                   "name": "Magura",
-                  "text": "Ein Gipfel im Slowakischen Erzgebirge nahe Ochtiná.",
+                  "text": "Die Magura ist ein Berggipfel oberhalb der Ochtinská Aragonit-Höhle.",
                   "category": "landmark",
                   "coords": [
                         20.27601,
@@ -2914,7 +2914,7 @@ imageHint: "Massive ice formations in Dobsina cave",
             },
             {
                   "name": "Magura",
-                  "text": "Csúcs a Szlovák-érchegységben, Ochtina közelében.",
+                  "text": "A Magura egy hegycsúcs az Ochtinská aragonitbarlang felett.",
                   "category": "landmark",
                   "coords": [
                         20.27601,
@@ -2979,7 +2979,7 @@ imageHint: "Massive ice formations in Dobsina cave",
             },
             {
                   "name": "Magura",
-                  "text": "Un vârf în Munții Metaliferi Slovaci, lângă Ochtiná.",
+                  "text": "Magura este un vârf muntos deasupra Peșterii de Aragonit de la Ochtinská.",
                   "category": "landmark",
                   "coords": [
                         20.27601,
@@ -3044,7 +3044,7 @@ imageHint: "Massive ice formations in Dobsina cave",
             },
             {
                   "name": "Magura",
-                  "text": "A peak in the Slovak Ore Mountains near Ochtiná.",
+                  "text": "Magura is a mountain peak above the Ochtinská Aragonite Cave.",
                   "category": "landmark",
                   "coords": [
                         20.27601,
@@ -4156,7 +4156,7 @@ imageHint: "Narrow road through Maninska tiesnava gorge",
       "de": [
             {
                   "name": "nad Konislavou",
-                  "text": "Archäologische Fundstätte in der Kvačianska-Dolina.",
+                  "text": "Reste einer mittelalterlichen Befestigung oberhalb des Baches Konislav im Tal Kvacianska dolina.",
                   "category": "historical",
                   "coords": [
                         19.591561,
@@ -4201,7 +4201,7 @@ imageHint: "Narrow road through Maninska tiesnava gorge",
             },
             {
                   "name": "Čierna hora",
-                  "text": "Ein Berg im Choč-Gebirge in der Zentralslowakei.",
+                  "text": "Čierna hora ist ein Gipfel im Gebirge Chočské vrchy oberhalb des Tals Kvačianska dolina.",
                   "category": "landmark",
                   "coords": [
                         19.531938,
@@ -4230,7 +4230,7 @@ imageHint: "Narrow road through Maninska tiesnava gorge",
       "hu": [
             {
                   "name": "nad Konislavou",
-                  "text": "Régészeti lelőhely a Kvačianska-völgyben.",
+                  "text": "Egy középkori erődítmény maradványai a Konislav-patak felett a Kvacianska-völgyben.",
                   "category": "historical",
                   "coords": [
                         19.591561,
@@ -4275,7 +4275,7 @@ imageHint: "Narrow road through Maninska tiesnava gorge",
             },
             {
                   "name": "Čierna hora",
-                  "text": "Hegycsúcs a Choč-hegységben, Közép-Szlovákiában.",
+                  "text": "A Čierna hora egy csúcs a Chočské vrchy hegységben, a Kvačianska dolina völgy fölé magasodva.",
                   "category": "landmark",
                   "coords": [
                         19.531938,
@@ -4304,7 +4304,7 @@ imageHint: "Narrow road through Maninska tiesnava gorge",
       "ro": [
             {
                   "name": "nad Konislavou",
-                  "text": "Sit arheologic în valea Kvačianska.",
+                  "text": "Vestigiile unei fortificații medievale deasupra pârâului Konislav în valea Kvacianska.",
                   "category": "historical",
                   "coords": [
                         19.591561,
@@ -4349,7 +4349,7 @@ imageHint: "Narrow road through Maninska tiesnava gorge",
             },
             {
                   "name": "Čierna hora",
-                  "text": "Un munte în munții Choč din centrul Slovaciei.",
+                  "text": "Čierna hora este un vârf în munții Chočské vrchy, deasupra văii Kvačianska dolina.",
                   "category": "landmark",
                   "coords": [
                         19.531938,
@@ -4378,7 +4378,7 @@ imageHint: "Narrow road through Maninska tiesnava gorge",
       "en": [
             {
                   "name": "nad Konislavou",
-                  "text": "Archaeological site located in the Kvačianska Valley.",
+                  "text": "Remains of a medieval fortification above the Konislav stream in the Kvacianska Valley.",
                   "category": "historical",
                   "coords": [
                         19.591561,
@@ -4423,7 +4423,7 @@ imageHint: "Narrow road through Maninska tiesnava gorge",
             },
             {
                   "name": "Čierna hora",
-                  "text": "A mountain in the Choč Mountains of central Slovakia.",
+                  "text": "Čierna hora is a peak in the Chočské vrchy range, above Kvačianska dolina valley.",
                   "category": "landmark",
                   "coords": [
                         19.531938,

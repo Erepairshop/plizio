@@ -214,7 +214,52 @@ export const poiExtraEgyptReliefV2: POI[] = [
       fr: ["Le plateau occupe environ un tiers de la surface du Sinaï", "Le bord sud du plateau atteint des altitudes de plus de 1000 mètres", "Le nom fait référence au désert biblique de l'égarement", "Géologiquement composé surtout de calcaire de l'époque Éocène", "La célèbre route Darb el-Hagg traverse en partie ce plateau", "Sépare le bassin versant du nord des hauts plateaux du sud"],
     }, image: "/poi-images/gabal-el-tih-plateau-relief-v2.webp"},
   {
-    id: "gabal-serbal-relief-v2",
+    id: "gabal-serbal-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gebel Serbal",
+                  "text": "Ein gewaltiges Granitmassiv mit fünf Gipfeln, das einst als möglicher Standort des biblischen Berges Sinai galt.",
+                  "category": "natural",
+                  "coords": [
+                        33.645251,
+                        28.650621
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gebel Serbal",
+                  "text": "Hatalmas gránithegy öt csúccsal, amelyet egykor a bibliai Sínai-hegy lehetséges helyszínének tartottak.",
+                  "category": "natural",
+                  "coords": [
+                        33.645251,
+                        28.650621
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gebel Serbal",
+                  "text": "Un masiv de granit impunător cu cinci vârfuri, considerat odinioară un posibil amplasament al Muntelui Sinai biblic.",
+                  "category": "natural",
+                  "coords": [
+                        33.645251,
+                        28.650621
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gebel Serbal",
+                  "text": "A massive granite massif with five peaks, once considered a candidate for the biblical Mount Sinai.",
+                  "category": "natural",
+                  "coords": [
+                        33.645251,
+                        28.650621
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EG-JS",
     coords: [33.6333, 28.6000],
@@ -460,7 +505,88 @@ export const poiExtraEgyptReliefV2: POI[] = [
       fr: ["Altitude d'environ 1 970 mètres au-dessus du niveau de la mer.", "Le nom signifie Montagne du Monastère en arabe.", "Situé dans la zone classée au patrimoine mondial de l'UNESCO de Sainte-Catherine.", "Principalement composé de granit rougeâtre.", "Abrite des cellules d'ermites byzantins dans la roche.", "Offre une vue directe sur le monastère Sainte-Catherine."],
     }, image: "/poi-images/gabal-el-deir-relief-v2.webp"},
   {
-    id: "gabal-abas-relief-v2",
+    id: "gabal-abas-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qasr Abbas Basha",
+                  "text": "Die Ruinen eines unvollendeten Palastes aus dem 19. Jahrhundert, der auf einem Berggipfel für Abbas I. errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        33.91742,
+                        28.560064
+                  ]
+            },
+            {
+                  "name": "Cave of St. John of the Ladder in Sinai",
+                  "text": "Eine abgelegene Felshöhle, in der Johannes Klimakus sein berühmtes Werk „Die Leiter zum Paradies“ verfasst haben soll.",
+                  "category": "religious",
+                  "coords": [
+                        33.925681,
+                        28.57408
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qasr Abbas Basha",
+                  "text": "Egy befejezetlen 19. századi palota romjai, amelyet egy hegycsúcson építettek I. Abbász egyiptomi alkirálynak.",
+                  "category": "historical",
+                  "coords": [
+                        33.91742,
+                        28.560064
+                  ]
+            },
+            {
+                  "name": "Cave of St. John of the Ladder in Sinai",
+                  "text": "Egy elszigetelt sziklabarlang, ahol Klimitikus Szent János híres művét, „A mennyei lajtorját” írta.",
+                  "category": "religious",
+                  "coords": [
+                        33.925681,
+                        28.57408
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qasr Abbas Basha",
+                  "text": "Ruinele unui palat neterminat din secolul al XIX-lea, construit pe un vârf de munte pentru Abbas I al Egiptului.",
+                  "category": "historical",
+                  "coords": [
+                        33.91742,
+                        28.560064
+                  ]
+            },
+            {
+                  "name": "Cave of St. John of the Ladder in Sinai",
+                  "text": "O peșteră izolată unde se spune că Sfântul Ioan Scărarul a scris celebra sa lucrare, „Scara paradisului”.",
+                  "category": "religious",
+                  "coords": [
+                        33.925681,
+                        28.57408
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qasr Abbas Basha",
+                  "text": "The ruins of an unfinished 19th-century palace built on a mountain summit for Abbas I of Egypt.",
+                  "category": "historical",
+                  "coords": [
+                        33.91742,
+                        28.560064
+                  ]
+            },
+            {
+                  "name": "Cave of St. John of the Ladder in Sinai",
+                  "text": "A secluded rock cave where Saint John Climacus is said to have written his famous work, 'The Ladder of Divine Ascent'.",
+                  "category": "religious",
+                  "coords": [
+                        33.925681,
+                        28.57408
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EG-JS",
     coords: [33.9166, 28.6000],

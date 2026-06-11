@@ -67,7 +67,124 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
     },
   },
   {
-    id: "amu-darya-nature-v2",
+    id: "amu-darya-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hoca Meshet",
+                  "text": "In der Nähe der malerischen Ufer des Amudarja gelegen, ist diese muslimische Stätte ein ruhiger Ort des Gebets.",
+                  "category": "landmark",
+                  "coords": [
+                        63.569327,
+                        39.021955
+                  ]
+            },
+            {
+                  "name": "5-nji Bazary",
+                  "text": "Dieser lebhafte Markt in der Nähe des Flusses Amudarja bietet lokale landwirtschaftliche Erzeugnisse und Waren an.",
+                  "category": "cultural",
+                  "coords": [
+                        63.58356,
+                        38.992237
+                  ]
+            },
+            {
+                  "name": "Lebap Welaýatynyň Köpugurly Söwda Bazary",
+                  "text": "Als wichtiges Handelszentrum in der Provinz Lebap bietet dieser Basar eine große Vielfalt an regionalen Waren entlang des Amudarja.",
+                  "category": "cultural",
+                  "coords": [
+                        63.513589,
+                        38.970469
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hoca Meshet",
+                  "text": "Az Amu-darja folyó festői partjának közelében található ez a csendes muszlim imaház.",
+                  "category": "landmark",
+                  "coords": [
+                        63.569327,
+                        39.021955
+                  ]
+            },
+            {
+                  "name": "5-nji Bazary",
+                  "text": "Ez az Amu-darja folyó közelében található nyüzsgő piac helyi terményeket és árukat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        63.58356,
+                        38.992237
+                  ]
+            },
+            {
+                  "name": "Lebap Welaýatynyň Köpugurly Söwda Bazary",
+                  "text": "Lebap tartomány egyik fő kereskedelmi központjaként ez az általános bazár különféle regionális árukat árusít az Amu-darja mentén.",
+                  "category": "cultural",
+                  "coords": [
+                        63.513589,
+                        38.970469
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hoca Meshet",
+                  "text": "Situat lângă malurile pitorești ale râului Amu Daria, acest loc musulman este un spațiu liniștit pentru rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        63.569327,
+                        39.021955
+                  ]
+            },
+            {
+                  "name": "5-nji Bazary",
+                  "text": "Această piață vibrantă din apropierea râului Amu Daria oferă produse și mărfuri locale.",
+                  "category": "cultural",
+                  "coords": [
+                        63.58356,
+                        38.992237
+                  ]
+            },
+            {
+                  "name": "Lebap Welaýatynyň Köpugurly Söwda Bazary",
+                  "text": "Un centru comercial major în provincia Lebap, acest bazar general comercializează o mare varietate de bunuri regionale de-a lungul râului Amu Daria.",
+                  "category": "cultural",
+                  "coords": [
+                        63.513589,
+                        38.970469
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hoca Meshet",
+                  "text": "Located near the scenic banks of the Amu Darya river, this Muslim site is a quiet place of prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        63.569327,
+                        39.021955
+                  ]
+            },
+            {
+                  "name": "Bazaar No. 5",
+                  "text": "This vibrant marketplace near the Amu Darya river offers local produce and goods.",
+                  "category": "cultural",
+                  "coords": [
+                        63.58356,
+                        38.992237
+                  ]
+            },
+            {
+                  "name": "Lebap Province General Bazaar",
+                  "text": "A major commercial hub in the Lebap Province, this general bazaar trades a wide variety of regional goods along the Amu Darya.",
+                  "category": "cultural",
+                  "coords": [
+                        63.513589,
+                        38.970469
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "TM-L",
     coords: [63.5, 39.0],
@@ -131,7 +248,52 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
     },
   },
   {
-    id: "murghab-river-nature-v2",
+    id: "murghab-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Medeniýet Öýi",
+                  "text": "Dieses Theater bietet eine kulturelle Veranstaltungsstätte in der Nähe des malerischen Flusses Murgab.",
+                  "category": "cultural",
+                  "coords": [
+                        61.923272,
+                        37.605212
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Medeniýet Öýi",
+                  "text": "Ez a színházi intézmény kulturális helyszínt biztosít a festői Murghab folyó közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        61.923272,
+                        37.605212
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Medeniýet Öýi",
+                  "text": "Acest teatru oferă un spațiu cultural situat în apropierea pitorescului râu Murghab.",
+                  "category": "cultural",
+                  "coords": [
+                        61.923272,
+                        37.605212
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "House of",
+                  "text": "This theatre establishment provides a cultural venue situated near the scenic Murghab River.",
+                  "category": "cultural",
+                  "coords": [
+                        61.923272,
+                        37.605212
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "TM-M",
     coords: [61.97, 37.6],
@@ -195,7 +357,196 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
     },
   },
   {
-    id: "tejen-river-nature-v2",
+    id: "tejen-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tejen Medeniýet Öýi",
+                  "text": "Ein kulturelles Theater, das lokale künstlerische Aufführungen in der Nähe des Tejen-Flusses bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        60.490139,
+                        37.366633
+                  ]
+            },
+            {
+                  "name": "Resul Tomasyň buthanasy",
+                  "text": "Eine dem Apostel Thomas gewidmete christliche Kultstätte in der Region Tejen.",
+                  "category": "landmark",
+                  "coords": [
+                        60.512812,
+                        37.383482
+                  ]
+            },
+            {
+                  "name": "Metjit",
+                  "text": "Eine islamische Moschee, die der religiösen Gemeinschaft entlang des Tejen-Flusses dient.",
+                  "category": "landmark",
+                  "coords": [
+                        60.502627,
+                        37.369419
+                  ]
+            },
+            {
+                  "name": "Gök bazary",
+                  "text": "Ein lokaler Handelsmarkt, der landwirtschaftliche Produkte und Waren in der Region Tejen anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        60.504982,
+                        37.37987
+                  ]
+            },
+            {
+                  "name": "Ahal Bazary",
+                  "text": "Ein geschäftiger Marktplatz, der die regionalen Gemeinden der Provinz Ahal in der Nähe des Flusses Tejen bedient.",
+                  "category": "cultural",
+                  "coords": [
+                        60.497809,
+                        37.367847
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tejen Medeniýet Öýi",
+                  "text": "Kulturális színház, amely helyi művészeti előadásoknak ad otthont a Tedzsen-folyó közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        60.490139,
+                        37.366633
+                  ]
+            },
+            {
+                  "name": "Resul Tomasyň buthanasy",
+                  "text": "Tamás apostolnak szentelt keresztény imahely a Tedzsen régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        60.512812,
+                        37.383482
+                  ]
+            },
+            {
+                  "name": "Metjit",
+                  "text": "A Tedzsen-folyó mentén élő vallási közösséget szolgáló iszlám mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        60.502627,
+                        37.369419
+                  ]
+            },
+            {
+                  "name": "Gök bazary",
+                  "text": "Helyi piac, amely friss termékeket és árukat kínál Tedzsen térségében.",
+                  "category": "cultural",
+                  "coords": [
+                        60.504982,
+                        37.37987
+                  ]
+            },
+            {
+                  "name": "Ahal Bazary",
+                  "text": "Ahal tartomány regionális közösségeit kiszolgáló forgalmas piac a Tedzsen-folyó közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        60.497809,
+                        37.367847
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tejen Medeniýet Öýi",
+                  "text": "Un teatru cultural care oferă spectacole artistice locale în apropierea râului Tejen.",
+                  "category": "cultural",
+                  "coords": [
+                        60.490139,
+                        37.366633
+                  ]
+            },
+            {
+                  "name": "Resul Tomasyň buthanasy",
+                  "text": "Un lăcaș de cult creștin dedicat Apostolului Toma în zona Tejen.",
+                  "category": "landmark",
+                  "coords": [
+                        60.512812,
+                        37.383482
+                  ]
+            },
+            {
+                  "name": "Metjit",
+                  "text": "O moschee islamică care deservește comunitatea religioasă de-a lungul râului Tejen.",
+                  "category": "landmark",
+                  "coords": [
+                        60.502627,
+                        37.369419
+                  ]
+            },
+            {
+                  "name": "Gök bazary",
+                  "text": "O piață comercială locală care oferă produse și bunuri în zona Tejen.",
+                  "category": "cultural",
+                  "coords": [
+                        60.504982,
+                        37.37987
+                  ]
+            },
+            {
+                  "name": "Ahal Bazary",
+                  "text": "O piață plină de viață care deservește comunitățile regionale Ahal de lângă râul Tejen.",
+                  "category": "cultural",
+                  "coords": [
+                        60.497809,
+                        37.367847
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tejen House of Culture",
+                  "text": "A cultural theater venue providing local artistic performances near the Tejen River.",
+                  "category": "cultural",
+                  "coords": [
+                        60.490139,
+                        37.366633
+                  ]
+            },
+            {
+                  "name": "Church of the Apostle Thomas",
+                  "text": "A Christian place of worship dedicated to the Apostle Thomas in the Tejen area.",
+                  "category": "landmark",
+                  "coords": [
+                        60.512812,
+                        37.383482
+                  ]
+            },
+            {
+                  "name": "Metjit",
+                  "text": "An Islamic mosque serving the religious community along the Tejen River.",
+                  "category": "landmark",
+                  "coords": [
+                        60.502627,
+                        37.369419
+                  ]
+            },
+            {
+                  "name": "Green Bazaar",
+                  "text": "A local trading marketplace offering produce and goods in the Tejen area.",
+                  "category": "cultural",
+                  "coords": [
+                        60.504982,
+                        37.37987
+                  ]
+            },
+            {
+                  "name": "Ahal Bazaar",
+                  "text": "A bustling marketplace serving the regional Ahal communities near the Tejen River.",
+                  "category": "cultural",
+                  "coords": [
+                        60.497809,
+                        37.367847
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "TM-A",
     coords: [60.5, 37.38],
@@ -451,7 +802,52 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
     },
   },
   {
-    id: "koytendag-reserve-nature-v2",
+    id: "koytendag-reserve-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Köýtendag Döwlet Goraghanasy",
+                  "text": "Dieses raue Naturschutzgebiet ist weltweit bekannt für sein ausgedehntes Höhlennetzwerk und ein riesiges Plateau mit antiken Dinosaurier-Fußabdrücken.",
+                  "category": "natural",
+                  "coords": [
+                        66.440946,
+                        37.755071
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Köýtendag Döwlet Goraghanasy",
+                  "text": "Ez a zord természetvédelmi terület világszerte ismert kiterjedt barlangrendszeréről és ősi dinoszaurusz lábnyomokkal borított hatalmas fennsíkjáról.",
+                  "category": "natural",
+                  "coords": [
+                        66.440946,
+                        37.755071
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Köýtendag Döwlet Goraghanasy",
+                  "text": "Această rezervație naturală accidentată este renumită la nivel global pentru rețeaua sa extinsă de peșteri și un platou masiv acoperit cu urme antice de dinozauri.",
+                  "category": "natural",
+                  "coords": [
+                        66.440946,
+                        37.755071
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Köýtendag State Nature Reserve",
+                  "text": "This rugged nature reserve is globally renowned for its extensive network of caves and a massive plateau covered with ancient dinosaur footprints.",
+                  "category": "natural",
+                  "coords": [
+                        66.440946,
+                        37.755071
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "TM-L",
     coords: [66.5, 37.8],
@@ -579,7 +975,88 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
     },
   },
   {
-    id: "syunt-hasardag-reserve-nature-v2",
+    id: "syunt-hasardag-reserve-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sünt-Hasardag",
+                  "text": "Dieses Reservat schützt die einzigartige subtropische Flora des Kopet-Dag-Gebirges.",
+                  "category": "natural",
+                  "coords": [
+                        56.415795,
+                        38.532883
+                  ]
+            },
+            {
+                  "name": "Şih Şiýli Baba",
+                  "text": "Eine verehrte muslimische Heiliginstätte und Pilgerziel in der Bergregion.",
+                  "category": "landmark",
+                  "coords": [
+                        56.347746,
+                        38.494973
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sünt-Hasardag",
+                  "text": "Ez a rezervátum a Kopet-dag-hegység egyedülálló szubtrópusi flóráját védi.",
+                  "category": "natural",
+                  "coords": [
+                        56.415795,
+                        38.532883
+                  ]
+            },
+            {
+                  "name": "Şih Şiýli Baba",
+                  "text": "Tisztelt muszlim szentély és zarándokhely a hegyvidéki régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        56.347746,
+                        38.494973
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sünt-Hasardag",
+                  "text": "Această rezervație protejează flora subtropicală unică a munților Kopet Dag.",
+                  "category": "natural",
+                  "coords": [
+                        56.415795,
+                        38.532883
+                  ]
+            },
+            {
+                  "name": "Şih Şiýli Baba",
+                  "text": "Un sanctuar musulman venerat și destinație de pelerinaj în regiunea montană.",
+                  "category": "landmark",
+                  "coords": [
+                        56.347746,
+                        38.494973
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sünt-Hasardag Nature Reserve",
+                  "text": "This reserve protects the unique subtropical flora of the Kopet Dag mountains.",
+                  "category": "natural",
+                  "coords": [
+                        56.415795,
+                        38.532883
+                  ]
+            },
+            {
+                  "name": "Şih Şiýli Baba",
+                  "text": "A revered Muslim shrine and pilgrimage destination in the mountainous region.",
+                  "category": "landmark",
+                  "coords": [
+                        56.347746,
+                        38.494973
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "TM-B",
     coords: [56.4, 38.5],
@@ -771,7 +1248,52 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
     },
   },
   {
-    id: "badhyz-reserve-nature-v2",
+    id: "badhyz-reserve-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bathyz Döwlet Goraghanasy",
+                  "text": "Das staatliche Naturschutzgebiet Bathyz ist ein geschütztes Reservat, das für seine einzigartigen Wüstenökosysteme und Tierwelt berühmt ist.",
+                  "category": "natural",
+                  "coords": [
+                        61.72604,
+                        35.81035
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bathyz Döwlet Goraghanasy",
+                  "text": "A Bathyz Állami Természetvédelmi Terület egy védett rezervátum, amely egyedülálló sivatagi ökoszisztémáiról és vadvilágáról híres.",
+                  "category": "natural",
+                  "coords": [
+                        61.72604,
+                        35.81035
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bathyz Döwlet Goraghanasy",
+                  "text": "Rezervația de Stat Bathyz este o rezervație naturală protejată, faimoasă pentru ecosistemele sale deșertice unice și fauna sălbatică.",
+                  "category": "natural",
+                  "coords": [
+                        61.72604,
+                        35.81035
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bathyz State Reserve",
+                  "text": "Bathyz State Reserve is a protected nature reserve famous for its unique desert ecosystems and wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        61.72604,
+                        35.81035
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "TM-M",
     coords: [61.8, 35.8],
@@ -835,7 +1357,52 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
     },
   },
   {
-    id: "kopetdag-reserve-nature-v2",
+    id: "kopetdag-reserve-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kheyrabad",
+                  "text": "Diese verwitterten Ruinen in der Nähe des Kopetdag-Reservats bieten einen Einblick in die alten Siedlungen dieser bergigen Grenze.",
+                  "category": "historical",
+                  "coords": [
+                        57.835126,
+                        37.882626
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kheyrabad",
+                  "text": "Ezek az időjárás viszontagságainak kitett romok a Kopet-dag rezervátum közelében bepillantást engednek ennek a hegyvidéki határvidéknek az ősi településeibe.",
+                  "category": "historical",
+                  "coords": [
+                        57.835126,
+                        37.882626
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kheyrabad",
+                  "text": "Aceste ruine erodate din apropierea Rezervației Kopetdag oferă o privire asupra așezărilor antice din această frontieră muntoasă.",
+                  "category": "historical",
+                  "coords": [
+                        57.835126,
+                        37.882626
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kheyrabad",
+                  "text": "These weathered ruins near the Kopetdag Reserve offer a glimpse into the ancient settlements of this mountainous frontier.",
+                  "category": "historical",
+                  "coords": [
+                        57.835126,
+                        37.882626
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "TM-A",
     coords: [57.9, 37.9],
@@ -899,7 +1466,160 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
     },
   },
   {
-    id: "mount-ayrybaba-nature-v2",
+    id: "mount-ayrybaba-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aýrybaba",
+                  "text": "Mit 3139 Metern der höchste Gipfel Turkmenistans im Köýtendag-Gebirge.",
+                  "category": "natural",
+                  "coords": [
+                        66.555838,
+                        37.788864
+                  ]
+            },
+            {
+                  "name": "Koytendag Nature Preserve",
+                  "text": "Ein Naturschutzgebiet, bekannt für sein Dinosaurier-Plateau und tiefe Karsthöhlen.",
+                  "category": "landmark",
+                  "coords": [
+                        66.563978,
+                        37.824647
+                  ]
+            },
+            {
+                  "name": "Ayribobo (Beýik Saparmyrat Türkmenbaşy)",
+                  "text": "Der markante 3139 Meter hohe Gipfel an der Grenze zwischen Turkmenistan und Usbekistan.",
+                  "category": "natural",
+                  "coords": [
+                        66.572965,
+                        37.820623
+                  ]
+            },
+            {
+                  "name": "Surxon davlat qoʻriqxonasi",
+                  "text": "Ein Schutzgebiet in den Kugitang-Bergen, das seltene Tierarten wie die Schraubenziege beherbergt.",
+                  "category": "natural",
+                  "coords": [
+                        66.632062,
+                        37.819688
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aýrybaba",
+                  "text": "Türkmenisztán legmagasabb pontja, a 3139 méteres csúcs a Köýtendag-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        66.555838,
+                        37.788864
+                  ]
+            },
+            {
+                  "name": "Koytendag Nature Preserve",
+                  "text": "Dinoszaurusz-lábnyomairól és mély karsztbarlangjairól híres természetvédelmi terület.",
+                  "category": "landmark",
+                  "coords": [
+                        66.563978,
+                        37.824647
+                  ]
+            },
+            {
+                  "name": "Ayribobo (Beýik Saparmyrat Türkmenbaşy)",
+                  "text": "Türkmenisztán és Üzbegisztán határán magasodó, 3139 méteres hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        66.572965,
+                        37.820623
+                  ]
+            },
+            {
+                  "name": "Surxon davlat qoʻriqxonasi",
+                  "text": "A Kugitang-hegység védett területe, amely olyan ritka fajoknak ad otthont, mint a pödröttszarvú kecske.",
+                  "category": "natural",
+                  "coords": [
+                        66.632062,
+                        37.819688
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aýrybaba",
+                  "text": "Cel mai înalt vârf din Turkmenistan, atingând 3139 de metri în munții Köýtendag.",
+                  "category": "natural",
+                  "coords": [
+                        66.555838,
+                        37.788864
+                  ]
+            },
+            {
+                  "name": "Koytendag Nature Preserve",
+                  "text": "O rezervație naturală celebră pentru platoul cu urme de dinozauri și peșteri adânci.",
+                  "category": "landmark",
+                  "coords": [
+                        66.563978,
+                        37.824647
+                  ]
+            },
+            {
+                  "name": "Ayribobo (Beýik Saparmyrat Türkmenbaşy)",
+                  "text": "Vârful impunător de 3139 de metri situat la granița dintre Turkmenistan și Uzbekistan.",
+                  "category": "natural",
+                  "coords": [
+                        66.572965,
+                        37.820623
+                  ]
+            },
+            {
+                  "name": "Surxon davlat qoʻriqxonasi",
+                  "text": "O arie protejată din munții Kugitang, ce adăpostește specii rare precum capra cu coarne în spirală.",
+                  "category": "natural",
+                  "coords": [
+                        66.632062,
+                        37.819688
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aýrybaba",
+                  "text": "The highest peak in Turkmenistan, reaching 3,139 meters in the Köýtendag Range.",
+                  "category": "natural",
+                  "coords": [
+                        66.555838,
+                        37.788864
+                  ]
+            },
+            {
+                  "name": "Koytendag Nature Preserve",
+                  "text": "A nature reserve famous for its Dinosaur Plateau and deep karst caves.",
+                  "category": "landmark",
+                  "coords": [
+                        66.563978,
+                        37.824647
+                  ]
+            },
+            {
+                  "name": "Ayribobo (Beýik Saparmyrat Türkmenbaşy)",
+                  "text": "The prominent 3,139-meter peak situated on the border of Turkmenistan and Uzbekistan.",
+                  "category": "natural",
+                  "coords": [
+                        66.572965,
+                        37.820623
+                  ]
+            },
+            {
+                  "name": "Surkhan State Nature Reserve",
+                  "text": "A protected area in the Kugitang Mountains, home to rare species like the markhor goat.",
+                  "category": "natural",
+                  "coords": [
+                        66.632062,
+                        37.819688
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TM-L",
     coords: [66.55, 37.78],
@@ -963,7 +1683,52 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
     },
   },
   {
-    id: "mount-arlan-nature-v2",
+    id: "mount-arlan-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Uly Balkan Gerşi",
+                  "text": "Mit 1.880 Metern ist dies der höchste Gipfel des Großen Balkan-Gebirges und bietet weite Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        54.543731,
+                        39.673455
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Uly Balkan Gerşi",
+                  "text": "1880 méteres magasságával ez a Nagy-Balkán-hegység legmagasabb csúcsa, ahonnan messzire el lehet látni.",
+                  "category": "natural",
+                  "coords": [
+                        54.543731,
+                        39.673455
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Uly Balkan Gerşi",
+                  "text": "Cu o înălțime de 1.880 de metri, acesta este cel mai înalt vârf din Munții Balkanul Mare, oferind vederi panoramice.",
+                  "category": "natural",
+                  "coords": [
+                        54.543731,
+                        39.673455
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Uly Balkan Gershi",
+                  "text": "At 1,880 meters, this is the highest summit of the Greater Balkan mountain range, offering vast views.",
+                  "category": "natural",
+                  "coords": [
+                        54.543731,
+                        39.673455
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TM-B",
     coords: [54.55, 39.66],
@@ -1027,7 +1792,88 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
     },
   },
   {
-    id: "kow-ata-lake-nature-v2",
+    id: "kow-ata-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Seyit Ybraym Metjidi",
+                  "text": "Diese Moschee in der Nähe des unterirdischen Naturwunders des Kow-Ata-Sees bietet Pilgern einen ruhigen Andachtsort.",
+                  "category": "landmark",
+                  "coords": [
+                        57.501866,
+                        38.371436
+                  ]
+            },
+            {
+                  "name": "Mahmut Işan Metjidi",
+                  "text": "Diese muslimische Stätte im Gebiet des Kow-Ata-Sees zieht Gläubige aus der Umgebung zu regelmäßigen Gebeten an.",
+                  "category": "landmark",
+                  "coords": [
+                        57.472685,
+                        38.39905
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Seyit Ybraym Metjidi",
+                  "text": "Ez a mecset a Kow-Ata-tó földalatti természeti csodájának közelében csendes imaházat kínál a zarándokoknak.",
+                  "category": "landmark",
+                  "coords": [
+                        57.501866,
+                        38.371436
+                  ]
+            },
+            {
+                  "name": "Mahmut Işan Metjidi",
+                  "text": "Ez a Kow-Ata-tó térségében található muszlim létesítmény a környék hívőit vonzza a rendszeres imákra.",
+                  "category": "landmark",
+                  "coords": [
+                        57.472685,
+                        38.39905
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Seyit Ybraym Metjidi",
+                  "text": "Această moschee, situată în apropierea minunii naturale subterane a lacului Kow-Ata, oferă pelerinilor un loc liniștit de rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        57.501866,
+                        38.371436
+                  ]
+            },
+            {
+                  "name": "Mahmut Işan Metjidi",
+                  "text": "Acest sit musulman din zona lacului Kow-Ata atrage credincioșii din împrejurimi pentru rugăciunile regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        57.472685,
+                        38.39905
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Seyit Ybraym Mosque",
+                  "text": "This mosque near the subterranean natural wonder of Lake Kow-Ata offers pilgrims a quiet place of devotion.",
+                  "category": "landmark",
+                  "coords": [
+                        57.501866,
+                        38.371436
+                  ]
+            },
+            {
+                  "name": "Mahmut Işan Metjidi",
+                  "text": "This Muslim site in the Lake Kow-Ata area attracts believers from the surrounding area for regular prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        57.472685,
+                        38.39905
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "TM-A",
     coords: [57.55, 38.35],
@@ -1219,7 +2065,52 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
     },
   },
   {
-    id: "mount-dushakeredag-nature-v2",
+    id: "mount-dushakeredag-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Saglyk ýol",
+                  "text": "Ein abgelegener Schrein und Wallfahrtsort an den Hängen des Berges Duschakeredag.",
+                  "category": "landmark",
+                  "coords": [
+                        58.018726,
+                        37.966754
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saglyk ýol",
+                  "text": "Elszigetelt kegyhely és zarándokhely a Dusakeredag-hegy lejtőin.",
+                  "category": "landmark",
+                  "coords": [
+                        58.018726,
+                        37.966754
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saglyk ýol",
+                  "text": "Un altar și loc de pelerinaj izolat pe versanții muntelui Dushakeredag.",
+                  "category": "landmark",
+                  "coords": [
+                        58.018726,
+                        37.966754
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grave Shrine",
+                  "text": "A secluded shrine and pilgrimage site on the slopes of Mount Dushakeredag.",
+                  "category": "landmark",
+                  "coords": [
+                        58.018726,
+                        37.966754
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TM-A",
     coords: [57.92, 37.94],

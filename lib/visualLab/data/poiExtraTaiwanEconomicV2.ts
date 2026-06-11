@@ -3,7 +3,1060 @@ import type { POI } from "./poi";
 
 export const poiExtraTaiwanEconomicV2: POI[] = [
   {
-    id: "hsinchu-science-park-economic-v2",
+    id: "hsinchu-science-park-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hsinchu Museum of Military Dependents Village",
+                  "text": "Dieses Museum in hsinchu-science-park-economic-v2 bewahrt die einzigartige Kultur und die Alltagsgegenstände der Nachkriegsdörfer von Militärangehörigen.",
+                  "category": "museum",
+                  "coords": [
+                        120.966771,
+                        24.814074
+                  ]
+            },
+            {
+                  "name": "Lee Tze-Fan Memorial Art Gallery",
+                  "text": "Diese Kunstgalerie in hsinchu-science-park-economic-v2 ist dem renommierten Aquarellisten gewidmet und zeigt eine reiche Sammlung seiner lebendigen Landschaftsgemälde.",
+                  "category": "cultural",
+                  "coords": [
+                        120.968173,
+                        24.801408
+                  ]
+            },
+            {
+                  "name": "Jingye Temple",
+                  "text": "Dieser historische buddhistische Tempel in hsinchu-science-park-economic-v2 liegt hinter ruhigen Hofmauern und bietet einen stillen Zufluchtsort für spirituelle Praktiken.",
+                  "category": "religious",
+                  "coords": [
+                        120.959133,
+                        24.818671
+                  ]
+            },
+            {
+                  "name": "Immaculate Heart of Mary Cathedral, Hsinchu",
+                  "text": "Diese große katholische Kathedrale in hsinchu-science-park-economic-v2 ist für ihre imposante modernistische Fassade und ihre spirituelle Bedeutung in der Diözese bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        120.966876,
+                        24.809391
+                  ]
+            },
+            {
+                  "name": "Hsinchu Changhe Temple",
+                  "text": "Dieser historische taoistische Tempel in hsinchu-science-park-economic-v2 ist für die Verehrung einer Mazu-Statue bekannt und verfügt über aufwendige Drachensäulen und traditionelle Handwerkskunst.",
+                  "category": "religious",
+                  "coords": [
+                        120.964833,
+                        24.808636
+                  ]
+            },
+            {
+                  "name": "Hsinchu Earth God Temple",
+                  "text": "Umgeben von einem lebhaften Lebensmittelmarkt ist dieser prominente Stadtgott-Tempel in hsinchu-science-park-economic-v2 ein wichtiges Zentrum des lokalen Glaubens und der Straßenküche.",
+                  "category": "religious",
+                  "coords": [
+                        120.966065,
+                        24.804356
+                  ]
+            },
+            {
+                  "name": "Hsinchu Guandi Temple",
+                  "text": "Diese bedeutende Kultstätte in Hsinchu ist dem Kriegsgott Guan Yu gewidmet und dient als wichtiges spirituelles Zentrum.",
+                  "category": "religious",
+                  "coords": [
+                        120.966518,
+                        24.802883
+                  ]
+            },
+            {
+                  "name": "Hsinchu Confucius Temple",
+                  "text": "Dieser bedeutende Konfuzius-Tempel in Hsinchu, der dem antiken Philosophen gewidmet ist, besticht durch traditionelle architektonische Elemente.",
+                  "category": "religious",
+                  "coords": [
+                        120.978167,
+                        24.800048
+                  ]
+            },
+            {
+                  "name": "Hsin-Pu Upper Fang-Liao Liu Family House",
+                  "text": "Dieser historisch bedeutsame Hakka-Komplex in der Nähe von Hsinchu zeigt traditionelle Architektur von Ahnenschreinen und Hofanlagen.",
+                  "category": "landmark",
+                  "coords": [
+                        121.049375,
+                        24.837937
+                  ]
+            },
+            {
+                  "name": "Hsinwawu Hakka Culture conservation Area",
+                  "text": "Dieses ausgewiesene Schutzgebiet in der Nähe von Hsinchu bewahrt historische ländliche Gebäude und fördert das traditionelle kulturelle Erbe der Hakka.",
+                  "category": "landmark",
+                  "coords": [
+                        121.027167,
+                        24.811972
+                  ]
+            },
+            {
+                  "name": "Jingguo Bridge",
+                  "text": "Diese bekannte Brücke ist eine wichtige Verkehrsverbindung über das lokale Wasserstraßennetz und verbindet die Stadtbezirke von Hsinchu.",
+                  "category": "landmark",
+                  "coords": [
+                        121.016899,
+                        24.804966
+                  ]
+            },
+            {
+                  "name": "Touqian River Bridge",
+                  "text": "Diese markante Brücke führt den Hauptstraßenverkehr über den breiten Fluss Touqian in der Nähe von Hsinchu.",
+                  "category": "landmark",
+                  "coords": [
+                        120.996394,
+                        24.822347
+                  ]
+            },
+            {
+                  "name": "Touchianxi Bridge",
+                  "text": "Diese bemerkenswerte Kreuzungsinfrastruktur überquert den Touqian-Fluss und dient als wichtige Verbindung für die Region Hsinchu.",
+                  "category": "landmark",
+                  "coords": [
+                        120.998844,
+                        24.822078
+                  ]
+            },
+            {
+                  "name": "Jiugang Bridge",
+                  "text": "Diese architektonisch bedeutsame Brücke spannt sich über die Küstenwasserkanäle in der Nähe der traditionellen Hafengebiete von Hsinchu.",
+                  "category": "landmark",
+                  "coords": [
+                        120.941261,
+                        24.842913
+                  ]
+            },
+            {
+                  "name": "East Gate of Hsinchu City Wall (Yingxi gate)",
+                  "text": "Dieses traditionelle Steintor ist ein historisches Wahrzeichen in der Innenstadt von Hsinchu und ein gut erhaltener Überrest der alten Stadtmauer.",
+                  "category": "landmark",
+                  "coords": [
+                        120.970256,
+                        24.804211
+                  ]
+            },
+            {
+                  "name": "Green Grass Lake",
+                  "text": "Dieser malerische Stausee in Hsinchu ist von grünen Hügeln umgeben und bietet befestigte Wanderwege entlang seines ruhigen Ufers.",
+                  "category": "landmark",
+                  "coords": [
+                        120.971555,
+                        24.774787
+                  ]
+            },
+            {
+                  "name": "Hsinchu Zoo",
+                  "text": "Dieser Zoo in Hsinchu gilt als ältester Taiwans und ermöglicht es Besuchern, Wildtiere in modernisierten, naturnahen Lebensräumen zu beobachten.",
+                  "category": "recreational",
+                  "coords": [
+                        120.979654,
+                        24.800769
+                  ]
+            },
+            {
+                  "name": "ChuLien Market",
+                  "text": "Dieser geschäftige, traditionelle Marktplatz in Hsinchu ist voller Stände, an denen frische regionale Produkte und authentisches Streetfood verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        120.971842,
+                        24.796913
+                  ]
+            },
+            {
+                  "name": "Litoushan",
+                  "text": "Dieser markante natürliche Gipfel in der Nähe von Hsinchu bietet bewaldete Hänge und Wanderwege, die zu malerischen Aussichtspunkten über die Region führen.",
+                  "category": "natural",
+                  "coords": [
+                        121.04561,
+                        24.82129
+                  ]
+            },
+            {
+                  "name": "Shuangxishan",
+                  "text": "Dieser bewaldete Gipfel erhebt sich über das umliegende Gelände in der Nähe von Hsinchu und bietet Outdoor-Enthusiasten eine anspruchsvolle Wanderung.",
+                  "category": "natural",
+                  "coords": [
+                        120.999096,
+                        24.749792
+                  ]
+            },
+            {
+                  "name": "Shibajianshan",
+                  "text": "Dieses ausgedehnte Naturgebiet in Hsinchu, bekannt als Achtzehn-Gipfel-Berg, bietet ein Netz von gut zugänglichen Wanderwegen, die an botanischen Gärten und Fitnessstationen vorbeiführen.",
+                  "category": "natural",
+                  "coords": [
+                        120.984607,
+                        24.792532
+                  ]
+            },
+            {
+                  "name": "Wubukushan",
+                  "text": "Dieser schroffe natürliche Gipfel in der Nähe von Hsinchu ist mit dichter lokaler Vegetation bedeckt und bietet vom erhöhten Gipfel einen Panoramablick.",
+                  "category": "natural",
+                  "coords": [
+                        121.022652,
+                        24.756969
+                  ]
+            },
+            {
+                  "name": "Gaojiantoushan",
+                  "text": "Ein markanter topografischer Gipfel in der Nähe von Hsinchu, bekannt für seine steilen Aufstiege und natürlichen Waldwege, die zum Bergkamm führen.",
+                  "category": "natural",
+                  "coords": [
+                        121.084537,
+                        24.778931
+                  ]
+            },
+            {
+                  "name": "Chituqi Park",
+                  "text": "Dieser grüne Stadtpark in Hsinchu bietet schattige Spazierwege, grasbewachsene Erholungsflächen und Treffpunkte für die Gemeinde.",
+                  "category": "park",
+                  "coords": [
+                        120.994396,
+                        24.799153
+                  ]
+            },
+            {
+                  "name": "Art Center",
+                  "text": "Diese Kulturinstitution in Hsinchu beherbergt wechselnde Ausstellungen zeitgenössischer bildender Kunst und lokaler historischer Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        120.95337,
+                        24.759635
+                  ]
+            },
+            {
+                  "name": "TSMC Museum of Innovation",
+                  "text": "Dieses moderne Museum im Wissenschaftspark beleuchtet die Geschichte und die globalen Auswirkungen der Halbleiterindustrie durch interaktive Exponate.",
+                  "category": "museum",
+                  "coords": [
+                        121.013055,
+                        24.773942
+                  ]
+            },
+            {
+                  "name": "Garden of Principal Shin",
+                  "text": "Dieser monumentale Garten in Hsinchu erinnert an eine bedeutende Persönlichkeit aus dem Bildungsbereich mit sorgfältig angelegten Grünflächen und Gedenkstätten.",
+                  "category": "historical",
+                  "coords": [
+                        120.98166,
+                        24.793432
+                  ]
+            },
+            {
+                  "name": "Xinyuan Market",
+                  "text": "Dieser überdachte Markt in Hsinchu bietet ein dichtes Netz an Ständen mit frischem Fleisch, regionalem Gemüse und Artikeln des täglichen Bedarfs.",
+                  "category": "cultural",
+                  "coords": [
+                        120.992298,
+                        24.799968
+                  ]
+            },
+            {
+                  "name": "Formosan Rock Macaque",
+                  "text": "Besucher des Zoos von Hsinchu können diese einheimischen taiwanesischen Makaken dabei beobachten, wie sie auf den Kletterstrukturen in ihrem Gehege umherstreifen.",
+                  "category": "landmark",
+                  "coords": [
+                        120.978627,
+                        24.80103
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hsinchu Museum of Military Dependents Village",
+                  "text": "Ez a múzeum hsinchu-science-park-economic-v2 területén a háború utáni katonai hozzátartozók falvainak egyedülálló kultúráját és mindennapi tárgyait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        120.966771,
+                        24.814074
+                  ]
+            },
+            {
+                  "name": "Lee Tze-Fan Memorial Art Gallery",
+                  "text": "Ez a neves akvarellfestőnek szentelt művészeti galéria hsinchu-science-park-economic-v2 területén a művész élénk tájképeinek gazdag gyűjteményét állítja ki.",
+                  "category": "cultural",
+                  "coords": [
+                        120.968173,
+                        24.801408
+                  ]
+            },
+            {
+                  "name": "Jingye Temple",
+                  "text": "Ez a csendes udvari falak mögött meghúzódó történelmi buddhista templom hsinchu-science-park-economic-v2 területén csendes menedéket nyújt a spirituális gyakorlatokhoz.",
+                  "category": "religious",
+                  "coords": [
+                        120.959133,
+                        24.818671
+                  ]
+            },
+            {
+                  "name": "Immaculate Heart of Mary Cathedral, Hsinchu",
+                  "text": "Ez a grandiózus katolikus katedrális hsinchu-science-park-economic-v2 területén impozáns modernista homlokzatáról és az egyházmegyében betöltött spirituális jelentőségéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        120.966876,
+                        24.809391
+                  ]
+            },
+            {
+                  "name": "Hsinchu Changhe Temple",
+                  "text": "A hsinchu-science-park-economic-v2 területén található, a tisztelt Mazu szobor őrzéséről ismert történelmi taoista templom kidolgozott sárkányoszlopokkal és hagyományos kézművességgel büszkélkedhet.",
+                  "category": "religious",
+                  "coords": [
+                        120.964833,
+                        24.808636
+                  ]
+            },
+            {
+                  "name": "Hsinchu Earth God Temple",
+                  "text": "A nyüzsgő élelmiszerpiaccal körülvett, kiemelkedő Városisten templom hsinchu-science-park-economic-v2 területén a helyi hit és az utcai ételek fontos központja.",
+                  "category": "religious",
+                  "coords": [
+                        120.966065,
+                        24.804356
+                  ]
+            },
+            {
+                  "name": "Hsinchu Guandi Temple",
+                  "text": "Ez a jelentős hszincsui istentiszteleti hely Guan Yu hadisten tiszteletére épült, és fontos spirituális központként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        120.966518,
+                        24.802883
+                  ]
+            },
+            {
+                  "name": "Hsinchu Confucius Temple",
+                  "text": "Az ókori filozófusnak szentelt, kiemelkedő hszincsui Konfuciusz-templom a tudományos hagyományokat tisztelő, hagyományos építészeti elemekkel rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        120.978167,
+                        24.800048
+                  ]
+            },
+            {
+                  "name": "Hsin-Pu Upper Fang-Liao Liu Family House",
+                  "text": "A Hszincsui közelében található, történelmileg jelentős hakka épületegyüttes hagyományos ősi szentélyarchitektúrát és udvari elrendezést mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        121.049375,
+                        24.837937
+                  ]
+            },
+            {
+                  "name": "Hsinwawu Hakka Culture conservation Area",
+                  "text": "Ez a Hszincsui melletti kijelölt természetvédelmi terület megóvja a történelmi vidéki épületeket és népszerűsíti a hagyományos hakka kulturális örökséget.",
+                  "category": "landmark",
+                  "coords": [
+                        121.027167,
+                        24.811972
+                  ]
+            },
+            {
+                  "name": "Jingguo Bridge",
+                  "text": "Ez a nevezetes híd kulcsfontosságú közlekedési kapcsolatot biztosít a Hszincsui városrészeket összekötő helyi vízi úthálózat felett.",
+                  "category": "landmark",
+                  "coords": [
+                        121.016899,
+                        24.804966
+                  ]
+            },
+            {
+                  "name": "Touqian River Bridge",
+                  "text": "A jelentős közúti forgalmat lebonyolító, kiemelkedő híd a széles Touqian folyón ível át Hszincsui közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        120.996394,
+                        24.822347
+                  ]
+            },
+            {
+                  "name": "Touchianxi Bridge",
+                  "text": "Ez a nevezetes átkelő infrastruktúra a Touqian folyón halad át, létfontosságú kapcsolatot biztosítva a Hszincsui régió számára.",
+                  "category": "landmark",
+                  "coords": [
+                        120.998844,
+                        24.822078
+                  ]
+            },
+            {
+                  "name": "Jiugang Bridge",
+                  "text": "Ez a jelentős szerkezeti híd a part menti vízcsatornákon ível át Hszincsui hagyományos kikötőnegyedei közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        120.941261,
+                        24.842913
+                  ]
+            },
+            {
+                  "name": "East Gate of Hsinchu City Wall (Yingxi gate)",
+                  "text": "A Hszincsui belvárosában történelmi mérföldkőként álló hagyományos kőkapu a régi városfalak jól megőrzött maradványa.",
+                  "category": "landmark",
+                  "coords": [
+                        120.970256,
+                        24.804211
+                  ]
+            },
+            {
+                  "name": "Green Grass Lake",
+                  "text": "Ezt a festői víztározó tavat Hszincsui városában zöldellő dombok veszik körül, nyugodt partja mentén pedig kiépített sétányok futnak.",
+                  "category": "landmark",
+                  "coords": [
+                        120.971555,
+                        24.774787
+                  ]
+            },
+            {
+                  "name": "Hsinchu Zoo",
+                  "text": "A Tajvan legrégebbi állatkertjeként ismert hszincsui látványosság lehetővé teszi, hogy a látogatók korszerűsített, természetes élőhelyükön figyeljék meg a vadvilágot.",
+                  "category": "recreational",
+                  "coords": [
+                        120.979654,
+                        24.800769
+                  ]
+            },
+            {
+                  "name": "ChuLien Market",
+                  "text": "Ez a nyüzsgő hagyományos hszincsui piac tele van friss helyi termékeket és autentikus utcai ételeket árusító árusokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        120.971842,
+                        24.796913
+                  ]
+            },
+            {
+                  "name": "Litoushan",
+                  "text": "Ez a Hszincsui közelében található kiemelkedő természetes hegycsúcs erdős lejtőkkel és a régióra néző festői kilátókhoz vezető túraútvonalakkal rendelkezik.",
+                  "category": "natural",
+                  "coords": [
+                        121.04561,
+                        24.82129
+                  ]
+            },
+            {
+                  "name": "Shuangxishan",
+                  "text": "A Hszincsui közelében a környező terep fölé magasodó erdős hegycsúcs kihívást jelentő felfelé ívelő túrát kínál a szabadtéri rajongóknak.",
+                  "category": "natural",
+                  "coords": [
+                        120.999096,
+                        24.749792
+                  ]
+            },
+            {
+                  "name": "Shibajianshan",
+                  "text": "A Tizennyolc-csúcs-hegyként ismert, kiterjedt hszincsui természetvédelmi terület könnyen megközelíthető, botanikus kerteket és fitneszállomásokat érintő ösvényhálózattal rendelkezik.",
+                  "category": "natural",
+                  "coords": [
+                        120.984607,
+                        24.792532
+                  ]
+            },
+            {
+                  "name": "Wubukushan",
+                  "text": "Ez a Hszincsui közeli, zord természetes hegycsúcs sűrű helyi növényzettel borított, és panorámás kilátást nyújt a magaslati csúcsról.",
+                  "category": "natural",
+                  "coords": [
+                        121.022652,
+                        24.756969
+                  ]
+            },
+            {
+                  "name": "Gaojiantoushan",
+                  "text": "Egy jellegzetes topográfiai hegycsúcs Hszincsui közelében, amely a gerincre vezető meredek emelkedőkről és természetes erdei ösvényekről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        121.084537,
+                        24.778931
+                  ]
+            },
+            {
+                  "name": "Chituqi Park",
+                  "text": "Ez a zöldellő hszincsui városi park árnyékos sétányokat, füves rekreációs területeket és közösségi gyülekezőhelyeket kínál.",
+                  "category": "park",
+                  "coords": [
+                        120.994396,
+                        24.799153
+                  ]
+            },
+            {
+                  "name": "Art Center",
+                  "text": "Ez a hszincsui kulturális intézmény kortárs vizuális művészeti és helyi történelmi műtárgyakból álló időszaki kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        120.95337,
+                        24.759635
+                  ]
+            },
+            {
+                  "name": "TSMC Museum of Innovation",
+                  "text": "A Tudományos Parkban található modern múzeum interaktív kiállításokon keresztül mutatja be a félvezetőipar történetét és globális hatását.",
+                  "category": "museum",
+                  "coords": [
+                        121.013055,
+                        24.773942
+                  ]
+            },
+            {
+                  "name": "Garden of Principal Shin",
+                  "text": "Ez a hszincsui monumentális kert egy neves oktatási személyiségnek állít emléket gondosan parkosított területével és emlékműveivel.",
+                  "category": "historical",
+                  "coords": [
+                        120.98166,
+                        24.793432
+                  ]
+            },
+            {
+                  "name": "Xinyuan Market",
+                  "text": "Ez a fedett hszincsui piac sűrű elrendezésű standokkal várja a vásárlókat, ahol friss húsokat, regionális zöldségeket és napi szükségleti cikkeket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        120.992298,
+                        24.799968
+                  ]
+            },
+            {
+                  "name": "Formosan Rock Macaque",
+                  "text": "A hszincsui állatkert látogatói megfigyelhetik ezeket az őshonos tajvani makákókat, amint a kifutójukban lévő mászókákon közlekednek.",
+                  "category": "landmark",
+                  "coords": [
+                        120.978627,
+                        24.80103
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hsinchu Museum of Military Dependents Village",
+                  "text": "Acest muzeu din hsinchu-science-park-economic-v2 păstrează cultura unică și artefactele de zi cu zi ale satelor dependenților militari de după război.",
+                  "category": "museum",
+                  "coords": [
+                        120.966771,
+                        24.814074
+                  ]
+            },
+            {
+                  "name": "Lee Tze-Fan Memorial Art Gallery",
+                  "text": "Dedicată renumitului acuarelist, această galerie de artă din hsinchu-science-park-economic-v2 expune o colecție bogată a picturilor sale peisagistice vibrante.",
+                  "category": "cultural",
+                  "coords": [
+                        120.968173,
+                        24.801408
+                  ]
+            },
+            {
+                  "name": "Jingye Temple",
+                  "text": "Situat în spatele unor ziduri de curte senine, acest templu budist istoric din hsinchu-science-park-economic-v2 oferă un refugiu liniștit pentru practica spirituală.",
+                  "category": "religious",
+                  "coords": [
+                        120.959133,
+                        24.818671
+                  ]
+            },
+            {
+                  "name": "Immaculate Heart of Mary Cathedral, Hsinchu",
+                  "text": "Această mare catedrală catolică din hsinchu-science-park-economic-v2 este recunoscută pentru fațada sa modernistă impunătoare și semnificația spirituală în dieceză.",
+                  "category": "religious",
+                  "coords": [
+                        120.966876,
+                        24.809391
+                  ]
+            },
+            {
+                  "name": "Hsinchu Changhe Temple",
+                  "text": "Cunoscut pentru adăpostirea unei venerate statui Mazu, acest templu taoist istoric din hsinchu-science-park-economic-v2 prezintă coloane elaborate cu dragoni și măiestrie tradițională.",
+                  "category": "religious",
+                  "coords": [
+                        120.964833,
+                        24.808636
+                  ]
+            },
+            {
+                  "name": "Hsinchu Earth God Temple",
+                  "text": "Înconjurat de o piață alimentară aglomerată, acest templu proeminent al Zeului Orașului din hsinchu-science-park-economic-v2 este un centru major al credinței locale și al bucătăriei stradale.",
+                  "category": "religious",
+                  "coords": [
+                        120.966065,
+                        24.804356
+                  ]
+            },
+            {
+                  "name": "Hsinchu Guandi Temple",
+                  "text": "Acest lăcaș de cult notabil din Hsinchu este dedicat zeului marțial Guan Yu, fiind un important centru spiritual.",
+                  "category": "religious",
+                  "coords": [
+                        120.966518,
+                        24.802883
+                  ]
+            },
+            {
+                  "name": "Hsinchu Confucius Temple",
+                  "text": "Dedicat filosofului antic, acest proeminent templu confucianist din Hsinchu prezintă elemente arhitecturale tradiționale care onorează tradițiile erudite.",
+                  "category": "religious",
+                  "coords": [
+                        120.978167,
+                        24.800048
+                  ]
+            },
+            {
+                  "name": "Hsin-Pu Upper Fang-Liao Liu Family House",
+                  "text": "Situat lângă Hsinchu, acest complex istoric notabil Hakka prezintă arhitectura tradițională a sanctuarelor ancestrale și amenajarea curților.",
+                  "category": "landmark",
+                  "coords": [
+                        121.049375,
+                        24.837937
+                  ]
+            },
+            {
+                  "name": "Hsinwawu Hakka Culture conservation Area",
+                  "text": "Această zonă de conservare desemnată de lângă Hsinchu protejează clădirile rurale istorice și promovează patrimoniul cultural tradițional Hakka.",
+                  "category": "landmark",
+                  "coords": [
+                        121.027167,
+                        24.811972
+                  ]
+            },
+            {
+                  "name": "Jingguo Bridge",
+                  "text": "Acest pod notabil oferă o legătură de transport crucială peste rețeaua locală de căi navigabile, conectând districtele urbane din Hsinchu.",
+                  "category": "landmark",
+                  "coords": [
+                        121.016899,
+                        24.804966
+                  ]
+            },
+            {
+                  "name": "Touqian River Bridge",
+                  "text": "Preluând traficul rutier major, acest pod proeminent traversează râul lat Touqian lângă Hsinchu.",
+                  "category": "landmark",
+                  "coords": [
+                        120.996394,
+                        24.822347
+                  ]
+            },
+            {
+                  "name": "Touchianxi Bridge",
+                  "text": "Această infrastructură de trecere notabilă traversează râul Touqian, servind ca o conexiune vitală pentru regiunea Hsinchu.",
+                  "category": "landmark",
+                  "coords": [
+                        120.998844,
+                        24.822078
+                  ]
+            },
+            {
+                  "name": "Jiugang Bridge",
+                  "text": "Acest pod structural semnificativ se întinde peste canalele de apă de coastă din apropierea zonelor portuare tradiționale din Hsinchu.",
+                  "category": "landmark",
+                  "coords": [
+                        120.941261,
+                        24.842913
+                  ]
+            },
+            {
+                  "name": "East Gate of Hsinchu City Wall (Yingxi gate)",
+                  "text": "Stând ca un punct de reper istoric în centrul orașului Hsinchu, această poartă tradițională de piatră este o rămășiță bine conservată a vechilor ziduri ale orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        120.970256,
+                        24.804211
+                  ]
+            },
+            {
+                  "name": "Green Grass Lake",
+                  "text": "Acest lac de acumulare pitoresc din Hsinchu este înconjurat de dealuri înverzite și oferă alei pietruite de-a lungul țărmului său liniștit.",
+                  "category": "landmark",
+                  "coords": [
+                        120.971555,
+                        24.774787
+                  ]
+            },
+            {
+                  "name": "Hsinchu Zoo",
+                  "text": "Recunoscută ca cea mai veche grădină zoologică din Taiwan, această atracție din Hsinchu permite vizitatorilor să observe fauna în habitate naturaliste modernizate.",
+                  "category": "recreational",
+                  "coords": [
+                        120.979654,
+                        24.800769
+                  ]
+            },
+            {
+                  "name": "ChuLien Market",
+                  "text": "Această piață tradițională plină de viață din Hsinchu este plină de vânzători care oferă produse locale proaspete și mâncare stradală autentică.",
+                  "category": "cultural",
+                  "coords": [
+                        120.971842,
+                        24.796913
+                  ]
+            },
+            {
+                  "name": "Litoushan",
+                  "text": "Acest vârf natural proeminent din apropiere de Hsinchu are pante împădurite și trasee de drumeție care duc la puncte de belvedere pitorești asupra regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        121.04561,
+                        24.82129
+                  ]
+            },
+            {
+                  "name": "Shuangxishan",
+                  "text": "Ridicându-se deasupra terenului înconjurător de lângă Hsinchu, acest vârf împădurit oferă pasionaților de aer liber o drumeție provocatoare.",
+                  "category": "natural",
+                  "coords": [
+                        120.999096,
+                        24.749792
+                  ]
+            },
+            {
+                  "name": "Shibajianshan",
+                  "text": "Cunoscută sub numele de Muntele Celor Optsprezece Vârfuri, această zonă naturală extinsă din Hsinchu are o rețea de trasee accesibile care trec pe lângă grădini botanice și stații de fitness.",
+                  "category": "natural",
+                  "coords": [
+                        120.984607,
+                        24.792532
+                  ]
+            },
+            {
+                  "name": "Wubukushan",
+                  "text": "Acest vârf natural accidentat de lângă Hsinchu este acoperit de o vegetație locală densă și oferă vederi panoramice de pe culmea sa înaltă.",
+                  "category": "natural",
+                  "coords": [
+                        121.022652,
+                        24.756969
+                  ]
+            },
+            {
+                  "name": "Gaojiantoushan",
+                  "text": "Un vârf topografic distinctiv lângă Hsinchu, cunoscut pentru urcușurile sale abrupte și traseele forestiere naturale care duc spre creastă.",
+                  "category": "natural",
+                  "coords": [
+                        121.084537,
+                        24.778931
+                  ]
+            },
+            {
+                  "name": "Chituqi Park",
+                  "text": "Acest parc urban verde din Hsinchu oferă alei umbrite, zone de recreere cu iarbă și locuri de adunare comunitară.",
+                  "category": "park",
+                  "coords": [
+                        120.994396,
+                        24.799153
+                  ]
+            },
+            {
+                  "name": "Art Center",
+                  "text": "Această instituție culturală din Hsinchu găzduiește expoziții temporare de arte vizuale contemporane și artefacte istorice locale.",
+                  "category": "museum",
+                  "coords": [
+                        120.95337,
+                        24.759635
+                  ]
+            },
+            {
+                  "name": "TSMC Museum of Innovation",
+                  "text": "Situat în Parcul Științific, acest muzeu modern explorează istoria și impactul global al industriei semiconductorilor prin exponate interactive.",
+                  "category": "museum",
+                  "coords": [
+                        121.013055,
+                        24.773942
+                  ]
+            },
+            {
+                  "name": "Garden of Principal Shin",
+                  "text": "Această grădină monumentală dedicată din Hsinchu comemorează o figură educațională notabilă prin terenuri amenajate cu grijă și structuri memoriale.",
+                  "category": "historical",
+                  "coords": [
+                        120.98166,
+                        24.793432
+                  ]
+            },
+            {
+                  "name": "Xinyuan Market",
+                  "text": "Această piață acoperită din Hsinchu are o rețea densă de tarabe care oferă carne proaspătă, legume regionale și necesități zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        120.992298,
+                        24.799968
+                  ]
+            },
+            {
+                  "name": "Formosan Rock Macaque",
+                  "text": "Vizitatorii grădinii zoologice din Hsinchu pot observa acești macaci nativi din Taiwan navigând pe structurile de cățărat din incinta lor.",
+                  "category": "landmark",
+                  "coords": [
+                        120.978627,
+                        24.80103
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hsinchu Museum of Military Dependents Village",
+                  "text": "This museum in hsinchu-science-park-economic-v2 preserves the unique culture and everyday artifacts of post-war military dependents' villages.",
+                  "category": "museum",
+                  "coords": [
+                        120.966771,
+                        24.814074
+                  ]
+            },
+            {
+                  "name": "Lee Tze-Fan Memorial Art Gallery",
+                  "text": "Dedicated to the renowned watercolorist, this art gallery in hsinchu-science-park-economic-v2 exhibits a rich collection of his vibrant landscape paintings.",
+                  "category": "cultural",
+                  "coords": [
+                        120.968173,
+                        24.801408
+                  ]
+            },
+            {
+                  "name": "Jingye Temple",
+                  "text": "Set behind serene courtyard walls, this historic Buddhist temple in hsinchu-science-park-economic-v2 provides a quiet refuge for spiritual practice.",
+                  "category": "religious",
+                  "coords": [
+                        120.959133,
+                        24.818671
+                  ]
+            },
+            {
+                  "name": "Immaculate Heart of Mary Cathedral, Hsinchu",
+                  "text": "This grand Catholic cathedral in hsinchu-science-park-economic-v2 is recognized for its imposing modernist facade and spiritual significance in the diocese.",
+                  "category": "religious",
+                  "coords": [
+                        120.966876,
+                        24.809391
+                  ]
+            },
+            {
+                  "name": "Hsinchu Changhe Temple",
+                  "text": "Known for enshrining a revered Mazu statue, this historic Taoist temple in hsinchu-science-park-economic-v2 features elaborate dragon columns and traditional craftsmanship.",
+                  "category": "religious",
+                  "coords": [
+                        120.964833,
+                        24.808636
+                  ]
+            },
+            {
+                  "name": "Hsinchu Earth God Temple",
+                  "text": "Surrounded by a bustling food market, this prominent City God temple in hsinchu-science-park-economic-v2 is a major center of local faith and street cuisine.",
+                  "category": "religious",
+                  "coords": [
+                        120.966065,
+                        24.804356
+                  ]
+            },
+            {
+                  "name": "Hsinchu Guandi Temple",
+                  "text": "This notable place of worship in Hsinchu is dedicated to the martial deity Guan Yu and serves as an important spiritual center.",
+                  "category": "religious",
+                  "coords": [
+                        120.966518,
+                        24.802883
+                  ]
+            },
+            {
+                  "name": "Hsinchu Confucius Temple",
+                  "text": "Dedicated to the ancient philosopher, this prominent Confucian temple in Hsinchu features traditional architectural elements honoring scholarly traditions.",
+                  "category": "religious",
+                  "coords": [
+                        120.978167,
+                        24.800048
+                  ]
+            },
+            {
+                  "name": "Hsin-Pu Upper Fang-Liao Liu Family House",
+                  "text": "Located near Hsinchu, this historically notable Hakka compound showcases traditional ancestral shrine architecture and courtyard layouts.",
+                  "category": "landmark",
+                  "coords": [
+                        121.049375,
+                        24.837937
+                  ]
+            },
+            {
+                  "name": "Hsinwawu Hakka Culture conservation Area",
+                  "text": "This designated conservation area near Hsinchu protects historic rural buildings and promotes traditional Hakka cultural heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        121.027167,
+                        24.811972
+                  ]
+            },
+            {
+                  "name": "Jingguo Bridge",
+                  "text": "This notable bridge provides a crucial transport link over the local waterway network connecting Hsinchu's urban districts.",
+                  "category": "landmark",
+                  "coords": [
+                        121.016899,
+                        24.804966
+                  ]
+            },
+            {
+                  "name": "Touqian River Bridge",
+                  "text": "Carrying major road traffic, this prominent bridge spans the wide Touqian River near Hsinchu.",
+                  "category": "landmark",
+                  "coords": [
+                        120.996394,
+                        24.822347
+                  ]
+            },
+            {
+                  "name": "Touchianxi Bridge",
+                  "text": "This notable crossing infrastructure traverses the Touqian River, serving as a vital connection for the Hsinchu region.",
+                  "category": "landmark",
+                  "coords": [
+                        120.998844,
+                        24.822078
+                  ]
+            },
+            {
+                  "name": "Jiugang Bridge",
+                  "text": "This significant structural bridge spans the coastal water channels near Hsinchu's traditional harbor areas.",
+                  "category": "landmark",
+                  "coords": [
+                        120.941261,
+                        24.842913
+                  ]
+            },
+            {
+                  "name": "East Gate of Hsinchu City Wall (Yingxi gate)",
+                  "text": "Standing as a historical landmark in downtown Hsinchu, this traditional stone gate is a well-preserved remnant of the old city walls.",
+                  "category": "landmark",
+                  "coords": [
+                        120.970256,
+                        24.804211
+                  ]
+            },
+            {
+                  "name": "Green Grass Lake",
+                  "text": "This scenic reservoir lake in Hsinchu is surrounded by verdant hills and offers paved walking paths along its tranquil shoreline.",
+                  "category": "landmark",
+                  "coords": [
+                        120.971555,
+                        24.774787
+                  ]
+            },
+            {
+                  "name": "Hsinchu Zoo",
+                  "text": "Recognized as the oldest zoo in Taiwan, this Hsinchu attraction allows visitors to observe wildlife in upgraded, naturalistic habitats.",
+                  "category": "recreational",
+                  "coords": [
+                        120.979654,
+                        24.800769
+                  ]
+            },
+            {
+                  "name": "ChuLien Market",
+                  "text": "This bustling traditional marketplace in Hsinchu is packed with vendors selling fresh local produce and authentic street food.",
+                  "category": "cultural",
+                  "coords": [
+                        120.971842,
+                        24.796913
+                  ]
+            },
+            {
+                  "name": "Litoushan",
+                  "text": "This prominent natural peak near Hsinchu features wooded slopes and hiking trails leading to scenic viewpoints over the region.",
+                  "category": "natural",
+                  "coords": [
+                        121.04561,
+                        24.82129
+                  ]
+            },
+            {
+                  "name": "Shuangxishan",
+                  "text": "Rising above the surrounding terrain near Hsinchu, this forested peak provides outdoor enthusiasts with a challenging uphill trek.",
+                  "category": "natural",
+                  "coords": [
+                        120.999096,
+                        24.749792
+                  ]
+            },
+            {
+                  "name": "Shibajianshan",
+                  "text": "Known as Eighteen Peaks Mountain, this extensive nature area in Hsinchu features a network of accessible trails passing botanical gardens and fitness stations.",
+                  "category": "natural",
+                  "coords": [
+                        120.984607,
+                        24.792532
+                  ]
+            },
+            {
+                  "name": "Wubukushan",
+                  "text": "This rugged natural peak near Hsinchu is covered in dense local vegetation and offers panoramic views from its elevated summit.",
+                  "category": "natural",
+                  "coords": [
+                        121.022652,
+                        24.756969
+                  ]
+            },
+            {
+                  "name": "Gaojiantoushan",
+                  "text": "A distinctive topographical peak near Hsinchu, known for its steep ascents and natural forest trails leading to the ridgeline.",
+                  "category": "natural",
+                  "coords": [
+                        121.084537,
+                        24.778931
+                  ]
+            },
+            {
+                  "name": "Chituqi Park",
+                  "text": "This green urban park in Hsinchu provides shaded walking paths, grassy recreation areas, and community gathering spots.",
+                  "category": "park",
+                  "coords": [
+                        120.994396,
+                        24.799153
+                  ]
+            },
+            {
+                  "name": "Art Center",
+                  "text": "This cultural institution in Hsinchu hosts rotating exhibitions of contemporary visual arts and local historical artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        120.95337,
+                        24.759635
+                  ]
+            },
+            {
+                  "name": "TSMC Museum of Innovation",
+                  "text": "Located in the Science Park, this modern museum explores the history and global impact of the semiconductor industry through interactive exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        121.013055,
+                        24.773942
+                  ]
+            },
+            {
+                  "name": "Garden of Principal Shin",
+                  "text": "This dedicated monumental garden in Hsinchu commemorates a notable educational figure with carefully landscaped grounds and memorial structures.",
+                  "category": "historical",
+                  "coords": [
+                        120.98166,
+                        24.793432
+                  ]
+            },
+            {
+                  "name": "Xinyuan Market",
+                  "text": "This covered marketplace in Hsinchu features a dense array of stalls offering fresh meats, regional vegetables, and daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        120.992298,
+                        24.799968
+                  ]
+            },
+            {
+                  "name": "Formosan Rock Macaque",
+                  "text": "Visitors to the Hsinchu Zoo can observe these native Taiwanese macaques navigating climbing structures in their enclosure.",
+                  "category": "landmark",
+                  "coords": [
+                        120.978627,
+                        24.80103
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TW-HSZ",
     coords: [121.004, 24.781],
@@ -51,7 +1104,268 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
     },
   },
   {
-    id: "port-of-kaohsiung-economic-v2",
+    id: "port-of-kaohsiung-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Female Laborer Memorial Park",
+                  "text": "Das Denkmal für weibliche Arbeiterinnen ehrt fünfundzwanzig junge Frauen, die 1973 bei einem Fährunglück auf dem Weg in die Exportproduktionszone auf tragische Weise ums Leben kamen.",
+                  "category": "historical",
+                  "coords": [
+                        120.281364,
+                        22.59464
+                  ]
+            },
+            {
+                  "name": "Sea Shell Sculpture",
+                  "text": "Diese gigantische, glänzende Muschelskulptur dient als markantes öffentliches Kunstwerk und Fotokulisse nahe der Küste des Cijin Strandes.",
+                  "category": "landmark",
+                  "coords": [
+                        120.275711,
+                        22.599423
+                  ]
+            },
+            {
+                  "name": "Cijin Seashell Museum",
+                  "text": "Das Cijin Seashell Museum beherbergt eine umfangreiche Sammlung von Tausenden seltener Meeresschnecken- und Muschelexemplare, die aus den Ozeanen der ganzen Welt stammen.",
+                  "category": "museum",
+                  "coords": [
+                        120.27418,
+                        22.601414
+                  ]
+            },
+            {
+                  "name": "War Peace Memorial Park",
+                  "text": "Der War Peace Memorial Park, der auf das offene Meer blickt, bietet ein feierlich angelegtes Gelände, das dem Gedenken an wehrpflichtige taiwanesische Soldaten gewidmet ist.",
+                  "category": "park",
+                  "coords": [
+                        120.281147,
+                        22.592955
+                  ]
+            },
+            {
+                  "name": "Cijin Beach",
+                  "text": "Ein sandiger Küstenstrand im Bereich port-of-kaohsiung-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        120.268755,
+                        22.607546
+                  ]
+            },
+            {
+                  "name": "Tiansheng Temple",
+                  "text": "Ein taoistischer Tempel in port-of-kaohsiung-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        120.279314,
+                        22.596618
+                  ]
+            },
+            {
+                  "name": "Cihou Tourist Market",
+                  "text": "Ein kommerzieller Marktplatz für Touristen in port-of-kaohsiung-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        120.268784,
+                        22.609853
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Female Laborer Memorial Park",
+                  "text": "A Női Munkások Emlékműve huszonöt fiatal nő előtt tiszteleg, akik 1973-ban tragikusan életüket vesztették egy kompbalesetben, miközben az exportfeldolgozó zónába ingáztak.",
+                  "category": "historical",
+                  "coords": [
+                        120.281364,
+                        22.59464
+                  ]
+            },
+            {
+                  "name": "Sea Shell Sculpture",
+                  "text": "Ez az óriási, csillogó Tengeri Kagyló Szobor kiemelkedő köztéri műalkotásként és fotóháttérként szolgál a Cijin strand partjának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        120.275711,
+                        22.599423
+                  ]
+            },
+            {
+                  "name": "Cijin Seashell Museum",
+                  "text": "A Cijin Kagylómúzeum a világ óceánjaiból gyűjtött, több ezer ritka tengeri kagylópéldányból álló kiterjedt gyűjteménynek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        120.27418,
+                        22.601414
+                  ]
+            },
+            {
+                  "name": "War Peace Memorial Park",
+                  "text": "A nyílt tengerre néző Háború és Béke Emlékpark ünnepélyesen parkosított területét a besorozott tajvani katonák emlékének szentelték.",
+                  "category": "park",
+                  "coords": [
+                        120.281147,
+                        22.592955
+                  ]
+            },
+            {
+                  "name": "Cijin Beach",
+                  "text": "Egy homokos tengerparti strand a port-of-kaohsiung-economic-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        120.268755,
+                        22.607546
+                  ]
+            },
+            {
+                  "name": "Tiansheng Temple",
+                  "text": "Egy taoista templom a port-of-kaohsiung-economic-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        120.279314,
+                        22.596618
+                  ]
+            },
+            {
+                  "name": "Cihou Tourist Market",
+                  "text": "Egy turistáknak szóló kereskedelmi piac a port-of-kaohsiung-economic-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        120.268784,
+                        22.609853
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Female Laborer Memorial Park",
+                  "text": "Monumentul Memorial al Muncitoarelor onorează douăzeci și cinci de tinere care și-au pierdut tragic viața într-un accident de feribot din 1973, în timp ce făceau naveta către zona de procesare a exporturilor.",
+                  "category": "historical",
+                  "coords": [
+                        120.281364,
+                        22.59464
+                  ]
+            },
+            {
+                  "name": "Sea Shell Sculpture",
+                  "text": "Această sculptură gigantică și strălucitoare în formă de scoică acționează ca o piesă proeminentă de artă publică și fundal pentru fotografii în apropierea țărmurilor plajei Cijin.",
+                  "category": "landmark",
+                  "coords": [
+                        120.275711,
+                        22.599423
+                  ]
+            },
+            {
+                  "name": "Cijin Seashell Museum",
+                  "text": "Muzeul Scoicilor din Cijin găzduiește o colecție vastă de mii de specimene rare de scoici marine adunate din oceanele din întreaga lume.",
+                  "category": "museum",
+                  "coords": [
+                        120.27418,
+                        22.601414
+                  ]
+            },
+            {
+                  "name": "War Peace Memorial Park",
+                  "text": "Cu fața spre marea deschisă, Parcul Memorial Război și Pace oferă terenuri amenajate solemn, dedicate memoriei soldaților taiwanezi recrutați.",
+                  "category": "park",
+                  "coords": [
+                        120.281147,
+                        22.592955
+                  ]
+            },
+            {
+                  "name": "Cijin Beach",
+                  "text": "O plajă cu nisip pe coasta din port-of-kaohsiung-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        120.268755,
+                        22.607546
+                  ]
+            },
+            {
+                  "name": "Tiansheng Temple",
+                  "text": "Un templu taoist în port-of-kaohsiung-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        120.279314,
+                        22.596618
+                  ]
+            },
+            {
+                  "name": "Cihou Tourist Market",
+                  "text": "O piață comercială pentru turiști în port-of-kaohsiung-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        120.268784,
+                        22.609853
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Female Laborer Memorial Park",
+                  "text": "The Female Laborer Memorial Monument honors twenty-five young women who tragically lost their lives in a 1973 ferry accident while commuting to the export processing zone.",
+                  "category": "historical",
+                  "coords": [
+                        120.281364,
+                        22.59464
+                  ]
+            },
+            {
+                  "name": "Sea Shell Sculpture",
+                  "text": "This giant, gleaming Sea Shell Sculpture acts as a prominent public art piece and photo backdrop near the shores of Cijin Beach.",
+                  "category": "landmark",
+                  "coords": [
+                        120.275711,
+                        22.599423
+                  ]
+            },
+            {
+                  "name": "Cijin Seashell Museum",
+                  "text": "The Cijin Seashell Museum houses an extensive collection of thousands of rare marine shell specimens gathered from oceans around the world.",
+                  "category": "museum",
+                  "coords": [
+                        120.27418,
+                        22.601414
+                  ]
+            },
+            {
+                  "name": "War Peace Memorial Park",
+                  "text": "Facing the open sea, the War Peace Memorial Park offers solemn landscaped grounds dedicated to the memory of conscripted Taiwanese soldiers.",
+                  "category": "park",
+                  "coords": [
+                        120.281147,
+                        22.592955
+                  ]
+            },
+            {
+                  "name": "Cijin Beach",
+                  "text": "A sandy coastal beach located in port-of-kaohsiung-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        120.268755,
+                        22.607546
+                  ]
+            },
+            {
+                  "name": "Tiansheng Temple",
+                  "text": "A Taoist temple situated in port-of-kaohsiung-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        120.279314,
+                        22.596618
+                  ]
+            },
+            {
+                  "name": "Cihou Tourist Market",
+                  "text": "A commercial marketplace for tourists in port-of-kaohsiung-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        120.268784,
+                        22.609853
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "TW-KHH",
     coords: [120.276, 22.610],
@@ -99,7 +1413,1384 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
     },
   },
   {
-    id: "port-of-keelung-economic-v2",
+    id: "port-of-keelung-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "YM Oceanic Culture and Art Museum",
+                  "text": "Dieses bedeutende Museum befindet sich im belebten Hafen von Keelung in einem renovierten historischen Gebäude, das der maritimen Kultur und Kunst gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        121.74017,
+                        25.132639
+                  ]
+            },
+            {
+                  "name": "Uhrshawan Battery",
+                  "text": "Diese historische, weltweit anerkannte militärische Festung auf einem Hügel überblickt den Hafen von Keelung und verfügt über gut erhaltene Verteidigungsanlagen aus dem 19. Jahrhundert.",
+                  "category": "fortress",
+                  "coords": [
+                        121.756804,
+                        25.139602
+                  ]
+            },
+            {
+                  "name": "Keelung City Council",
+                  "text": "Als Zentrum der Kommunalverwaltung ist dieses bemerkenswerte städtische Gebäude ein herausragendes Verwaltungsgebäude im Hafen von Keelung.",
+                  "category": "historical",
+                  "coords": [
+                        121.749142,
+                        25.131483
+                  ]
+            },
+            {
+                  "name": "Catholic Sacred Heart of Jesus Church",
+                  "text": "Diese weltweit anerkannte katholische Kirche ist eine bedeutende religiöse und architektonische Stätte im Hafen von Keelung.",
+                  "category": "religious",
+                  "coords": [
+                        121.734206,
+                        25.135204
+                  ]
+            },
+            {
+                  "name": "Asahi-ga-oka",
+                  "text": "Diese bekannte landschaftliche Hügelattraktion bietet einen Panoramablick über den geschäftigen Hafen und die maritimen Einrichtungen des Hafens von Keelung.",
+                  "category": "landmark",
+                  "coords": [
+                        121.763015,
+                        25.147156
+                  ]
+            },
+            {
+                  "name": "Keelung Maritime Plaza",
+                  "text": "Dieser markante Holzstegplatz am inneren Hafen ist ein beliebter Ort für die Erholung am Wasser im Hafen von Keelung.",
+                  "category": "landmark",
+                  "coords": [
+                        121.741155,
+                        25.131072
+                  ]
+            },
+            {
+                  "name": "Fairy Cave",
+                  "text": "Eine natürliche Meereshöhle, die einen buddhistischen Schrein beherbergt.",
+                  "category": "landmark",
+                  "coords": [
+                        121.748269,
+                        25.145074
+                  ]
+            },
+            {
+                  "name": "Heping Bridge",
+                  "text": "Eine strukturelle Brücke, die das Festland mit der Insel Heping verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        121.768874,
+                        25.153924
+                  ]
+            },
+            {
+                  "name": "Dingnei No. 15 Park",
+                  "text": "Ein lokaler öffentlicher Park, der Grünflächen für die Naherholung bietet.",
+                  "category": "park",
+                  "coords": [
+                        121.754307,
+                        25.095473
+                  ]
+            },
+            {
+                  "name": "Keelung Tower",
+                  "text": "Ein moderner Aussichtspunkt, der am 16. Dezember 2023 eröffnet wurde.",
+                  "category": "natural",
+                  "coords": [
+                        121.74698,
+                        25.132797
+                  ]
+            },
+            {
+                  "name": "Chung Cheng Park",
+                  "text": "Ein Park am Hang, der für seine hoch aufragende Guanyin-Statue mit Blick auf den Hafen bekannt ist.",
+                  "category": "park",
+                  "coords": [
+                        121.749298,
+                        25.132441
+                  ]
+            },
+            {
+                  "name": "Keelung Lighthouse",
+                  "text": "Ein Küstenleuchtturm, der gebaut wurde, um Schiffe sicher in den Hafen zu führen.",
+                  "category": "landmark",
+                  "coords": [
+                        121.747629,
+                        25.155317
+                  ]
+            },
+            {
+                  "name": "Masushan",
+                  "text": "Ein natürlicher Berggipfel, der sich über das umliegende Gelände erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        121.696376,
+                        25.167183
+                  ]
+            },
+            {
+                  "name": "Dawulunshan",
+                  "text": "Ein natürlicher Berggipfel, der sich über das umliegende Gelände erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        121.70973,
+                        25.158507
+                  ]
+            },
+            {
+                  "name": "Sanjiaolingtoushan",
+                  "text": "Ein natürlicher Berggipfel, der sich über das umliegende Gelände erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        121.715931,
+                        25.144701
+                  ]
+            },
+            {
+                  "name": "Wushibitoushan",
+                  "text": "Ein natürlicher Berggipfel, der sich über das umliegende Gelände erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        121.690559,
+                        25.139164
+                  ]
+            },
+            {
+                  "name": "Sanjieshan",
+                  "text": "Ein natürlicher Berggipfel, der sich über das umliegende Gelände erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        121.677658,
+                        25.154857
+                  ]
+            },
+            {
+                  "name": "Kangzilunshan",
+                  "text": "Ein natürlicher Berggipfel, der sich über das umliegende Gelände erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        121.6635,
+                        25.131308
+                  ]
+            },
+            {
+                  "name": "Xiandonghushan",
+                  "text": "Ein natürlicher Berggipfel, der sich über das umliegende Gelände erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        121.672529,
+                        25.116381
+                  ]
+            },
+            {
+                  "name": "Malingjian",
+                  "text": "Ein natürlicher Berggipfel, der sich über das umliegende Gelände erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        121.699193,
+                        25.108911
+                  ]
+            },
+            {
+                  "name": "Shishishan",
+                  "text": "Ein natürlicher Berggipfel, der sich über das umliegende Gelände erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        121.689079,
+                        25.107399
+                  ]
+            },
+            {
+                  "name": "Lioudu Mountain",
+                  "text": "Ein natürlicher Berggipfel, der sich über das umliegende Gelände erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        121.703236,
+                        25.09048
+                  ]
+            },
+            {
+                  "name": "Wolongshan",
+                  "text": "Ein natürlicher Berggipfel, der sich über das umliegende Gelände erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        121.71899,
+                        25.090716
+                  ]
+            },
+            {
+                  "name": "Sandieshan",
+                  "text": "Ein natürlicher Berggipfel, der sich über das umliegende Gelände erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        121.729223,
+                        25.091278
+                  ]
+            },
+            {
+                  "name": "Guanyinhushan",
+                  "text": "Ein natürlicher Berggipfel, der sich über das umliegende Gelände erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        121.740627,
+                        25.082353
+                  ]
+            },
+            {
+                  "name": "Yuemeishan",
+                  "text": "Ein natürlicher Berggipfel, der sich über das umliegende Gelände erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        121.773352,
+                        25.120585
+                  ]
+            },
+            {
+                  "name": "Jiuhuashan",
+                  "text": "Ein natürlicher Berggipfel, der sich über das umliegende Gelände erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        121.730684,
+                        25.145622
+                  ]
+            },
+            {
+                  "name": "Huohaoshan",
+                  "text": "Ein natürlicher Berggipfel, der sich über das umliegende Gelände erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        121.743465,
+                        25.145924
+                  ]
+            },
+            {
+                  "name": "Dongguangshan",
+                  "text": "Ein natürlicher Berggipfel, der sich über das umliegende Gelände erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        121.769837,
+                        25.134656
+                  ]
+            },
+            {
+                  "name": "Gangziliaoshan",
+                  "text": "Ein natürlicher Berggipfel, der sich über das umliegende Gelände erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        121.775643,
+                        25.143129
+                  ]
+            },
+            {
+                  "name": "Zhongshan Park",
+                  "text": "Ein öffentlicher Erholungspark auf einem grünen Hügel.",
+                  "category": "park",
+                  "coords": [
+                        121.732075,
+                        25.146711
+                  ]
+            },
+            {
+                  "name": "Lou-yuan Site (Garden of Keelung Yan Family)",
+                  "text": "Die historischen architektonischen Ruinen eines eleganten Familiengartens.",
+                  "category": "historical",
+                  "coords": [
+                        121.750663,
+                        25.130809
+                  ]
+            },
+            {
+                  "name": "French Cemetery of Keelung",
+                  "text": "Ein steinernes Denkmal, das den gefallenen französischen Soldaten gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        121.757804,
+                        25.140815
+                  ]
+            },
+            {
+                  "name": "Waimushan Coast",
+                  "text": "Eine malerische Küstenattraktion mit einer zerklüfteten Felsküste.",
+                  "category": "landmark",
+                  "coords": [
+                        121.723285,
+                        25.164252
+                  ]
+            },
+            {
+                  "name": "Huangdidian",
+                  "text": "Eine landschaftlich reizvolle Naturattraktion mit steilen, felsigen Bergrücken.",
+                  "category": "landmark",
+                  "coords": [
+                        121.76611,
+                        25.16239
+                  ]
+            },
+            {
+                  "name": "KEELUNG",
+                  "text": "Ein markanter Schriftzug am Hang, der die darunter liegende Hafenstadt überblickt.",
+                  "category": "landmark",
+                  "coords": [
+                        121.737354,
+                        25.135142
+                  ]
+            },
+            {
+                  "name": "Catholic Assumption Church",
+                  "text": "Ein christliches Gotteshaus, das dem katholischen Glauben gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        121.752098,
+                        25.128817
+                  ]
+            },
+            {
+                  "name": "Eagle Rock",
+                  "text": "Ein markanter natürlicher felsiger Aussichtspunkt, der einen Panoramablick auf die Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        121.707068,
+                        25.161946
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "YM Oceanic Culture and Art Museum",
+                  "text": "A Keelung nyüzsgő kikötőjében található figyelemre méltó múzeum egy felújított történelmi épületben kapott helyet, és a tengeri kultúrának és művészetnek szentelték.",
+                  "category": "museum",
+                  "coords": [
+                        121.74017,
+                        25.132639
+                  ]
+            },
+            {
+                  "name": "Uhrshawan Battery",
+                  "text": "Ez a globálisan elismert, történelmi hegytetőn fekvő katonai erőd a keelungi kikötőre néz, és jól karbantartott 19. századi védelmi építményekkel rendelkezik.",
+                  "category": "fortress",
+                  "coords": [
+                        121.756804,
+                        25.139602
+                  ]
+            },
+            {
+                  "name": "Keelung City Council",
+                  "text": "A helyi önkormányzat központjaként működő figyelemre méltó önkormányzati épület egy kiemelkedő közigazgatási nevezetesség Keelung kikötőjében.",
+                  "category": "historical",
+                  "coords": [
+                        121.749142,
+                        25.131483
+                  ]
+            },
+            {
+                  "name": "Catholic Sacred Heart of Jesus Church",
+                  "text": "Ez a világszerte elismert katolikus templom jelentős vallási és építészeti helyszín Keelung kikötőjében.",
+                  "category": "religious",
+                  "coords": [
+                        121.734206,
+                        25.135204
+                  ]
+            },
+            {
+                  "name": "Asahi-ga-oka",
+                  "text": "Ez a jól ismert festői hegyi látványosság panorámás kilátást nyújt Keelung kikötőjének forgalmas kikötőjére és tengeri létesítményeire.",
+                  "category": "landmark",
+                  "coords": [
+                        121.763015,
+                        25.147156
+                  ]
+            },
+            {
+                  "name": "Keelung Maritime Plaza",
+                  "text": "A belső kikötő mentén elhelyezkedő kiemelkedő fa sétány tér a vízparti kikapcsolódás népszerű helyszíne Keelung kikötőjében.",
+                  "category": "landmark",
+                  "coords": [
+                        121.741155,
+                        25.131072
+                  ]
+            },
+            {
+                  "name": "Fairy Cave",
+                  "text": "Egy természetes tengeri barlang, amely egy buddhista szentélynek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        121.748269,
+                        25.145074
+                  ]
+            },
+            {
+                  "name": "Heping Bridge",
+                  "text": "Egy szerkezeti híd, amely a szárazföldet köti össze a Heping-szigettel.",
+                  "category": "landmark",
+                  "coords": [
+                        121.768874,
+                        25.153924
+                  ]
+            },
+            {
+                  "name": "Dingnei No. 15 Park",
+                  "text": "Egy helyi nyilvános park, amely zöldterületet biztosít a környékbeli kikapcsolódáshoz.",
+                  "category": "park",
+                  "coords": [
+                        121.754307,
+                        25.095473
+                  ]
+            },
+            {
+                  "name": "Keelung Tower",
+                  "text": "Egy modern kilátó, amely 2023. december 16-án nyílt meg.",
+                  "category": "natural",
+                  "coords": [
+                        121.74698,
+                        25.132797
+                  ]
+            },
+            {
+                  "name": "Chung Cheng Park",
+                  "text": "Egy domboldali park, amely a kikötőre néző, magasba tornyosuló Guanyin-szobráról híres.",
+                  "category": "park",
+                  "coords": [
+                        121.749298,
+                        25.132441
+                  ]
+            },
+            {
+                  "name": "Keelung Lighthouse",
+                  "text": "Egy partmenti világítótorony, amelyet azért építettek, hogy biztonságosan a kikötőbe vezesse a hajókat.",
+                  "category": "landmark",
+                  "coords": [
+                        121.747629,
+                        25.155317
+                  ]
+            },
+            {
+                  "name": "Masushan",
+                  "text": "Egy természetes hegycsúcs, amely a környező terep fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        121.696376,
+                        25.167183
+                  ]
+            },
+            {
+                  "name": "Dawulunshan",
+                  "text": "Egy természetes hegycsúcs, amely a környező terep fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        121.70973,
+                        25.158507
+                  ]
+            },
+            {
+                  "name": "Sanjiaolingtoushan",
+                  "text": "Egy természetes hegycsúcs, amely a környező terep fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        121.715931,
+                        25.144701
+                  ]
+            },
+            {
+                  "name": "Wushibitoushan",
+                  "text": "Egy természetes hegycsúcs, amely a környező terep fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        121.690559,
+                        25.139164
+                  ]
+            },
+            {
+                  "name": "Sanjieshan",
+                  "text": "Egy természetes hegycsúcs, amely a környező terep fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        121.677658,
+                        25.154857
+                  ]
+            },
+            {
+                  "name": "Kangzilunshan",
+                  "text": "Egy természetes hegycsúcs, amely a környező terep fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        121.6635,
+                        25.131308
+                  ]
+            },
+            {
+                  "name": "Xiandonghushan",
+                  "text": "Egy természetes hegycsúcs, amely a környező terep fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        121.672529,
+                        25.116381
+                  ]
+            },
+            {
+                  "name": "Malingjian",
+                  "text": "Egy természetes hegycsúcs, amely a környező terep fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        121.699193,
+                        25.108911
+                  ]
+            },
+            {
+                  "name": "Shishishan",
+                  "text": "Egy természetes hegycsúcs, amely a környező terep fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        121.689079,
+                        25.107399
+                  ]
+            },
+            {
+                  "name": "Lioudu Mountain",
+                  "text": "Egy természetes hegycsúcs, amely a környező terep fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        121.703236,
+                        25.09048
+                  ]
+            },
+            {
+                  "name": "Wolongshan",
+                  "text": "Egy természetes hegycsúcs, amely a környező terep fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        121.71899,
+                        25.090716
+                  ]
+            },
+            {
+                  "name": "Sandieshan",
+                  "text": "Egy természetes hegycsúcs, amely a környező terep fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        121.729223,
+                        25.091278
+                  ]
+            },
+            {
+                  "name": "Guanyinhushan",
+                  "text": "Egy természetes hegycsúcs, amely a környező terep fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        121.740627,
+                        25.082353
+                  ]
+            },
+            {
+                  "name": "Yuemeishan",
+                  "text": "Egy természetes hegycsúcs, amely a környező terep fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        121.773352,
+                        25.120585
+                  ]
+            },
+            {
+                  "name": "Jiuhuashan",
+                  "text": "Egy természetes hegycsúcs, amely a környező terep fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        121.730684,
+                        25.145622
+                  ]
+            },
+            {
+                  "name": "Huohaoshan",
+                  "text": "Egy természetes hegycsúcs, amely a környező terep fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        121.743465,
+                        25.145924
+                  ]
+            },
+            {
+                  "name": "Dongguangshan",
+                  "text": "Egy természetes hegycsúcs, amely a környező terep fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        121.769837,
+                        25.134656
+                  ]
+            },
+            {
+                  "name": "Gangziliaoshan",
+                  "text": "Egy természetes hegycsúcs, amely a környező terep fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        121.775643,
+                        25.143129
+                  ]
+            },
+            {
+                  "name": "Zhongshan Park",
+                  "text": "Egy zöldellő domboldalon található nyilvános szabadidőpark.",
+                  "category": "park",
+                  "coords": [
+                        121.732075,
+                        25.146711
+                  ]
+            },
+            {
+                  "name": "Lou-yuan Site (Garden of Keelung Yan Family)",
+                  "text": "Egy elegáns családi kerti birtok történelmi építészeti romjai.",
+                  "category": "historical",
+                  "coords": [
+                        121.750663,
+                        25.130809
+                  ]
+            },
+            {
+                  "name": "French Cemetery of Keelung",
+                  "text": "Az elesett francia katonáknak szentelt kő emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        121.757804,
+                        25.140815
+                  ]
+            },
+            {
+                  "name": "Waimushan Coast",
+                  "text": "Festői tengerparti látványosság robusztus sziklás partvonallal.",
+                  "category": "landmark",
+                  "coords": [
+                        121.723285,
+                        25.164252
+                  ]
+            },
+            {
+                  "name": "Huangdidian",
+                  "text": "Festői természeti látványosság meredek, sziklás hegygerincekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        121.76611,
+                        25.16239
+                  ]
+            },
+            {
+                  "name": "KEELUNG",
+                  "text": "Egy kiemelkedő domboldali felirat, amely a lenti kikötővárosra néz.",
+                  "category": "landmark",
+                  "coords": [
+                        121.737354,
+                        25.135142
+                  ]
+            },
+            {
+                  "name": "Catholic Assumption Church",
+                  "text": "A katolikus hitnek szentelt keresztény istentiszteleti hely.",
+                  "category": "landmark",
+                  "coords": [
+                        121.752098,
+                        25.128817
+                  ]
+            },
+            {
+                  "name": "Eagle Rock",
+                  "text": "Egy kiemelkedő, természetes sziklás kilátó, amely panorámás kilátást nyújt a tájra.",
+                  "category": "natural",
+                  "coords": [
+                        121.707068,
+                        25.161946
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "YM Oceanic Culture and Art Museum",
+                  "text": "Situat în portul plin de viață Keelung, acest muzeu notabil este găzduit într-o clădire istorică renovată dedicată culturii și artei maritime.",
+                  "category": "museum",
+                  "coords": [
+                        121.74017,
+                        25.132639
+                  ]
+            },
+            {
+                  "name": "Uhrshawan Battery",
+                  "text": "Acest fort militar istoric situat pe un deal, recunoscut la nivel mondial, are vedere la portul Keelung și prezintă structuri defensive bine conservate din secolul al XIX-lea.",
+                  "category": "fortress",
+                  "coords": [
+                        121.756804,
+                        25.139602
+                  ]
+            },
+            {
+                  "name": "Keelung City Council",
+                  "text": "Servind drept centru al administrației locale, această clădire municipală notabilă este un reper administrativ proeminent în portul Keelung.",
+                  "category": "historical",
+                  "coords": [
+                        121.749142,
+                        25.131483
+                  ]
+            },
+            {
+                  "name": "Catholic Sacred Heart of Jesus Church",
+                  "text": "Această biserică catolică recunoscută la nivel mondial reprezintă un sit religios și arhitectural semnificativ în portul Keelung.",
+                  "category": "religious",
+                  "coords": [
+                        121.734206,
+                        25.135204
+                  ]
+            },
+            {
+                  "name": "Asahi-ga-oka",
+                  "text": "Această atracție pitorească bine-cunoscută pe un deal oferă vederi panoramice asupra portului aglomerat și a instalațiilor maritime din portul Keelung.",
+                  "category": "landmark",
+                  "coords": [
+                        121.763015,
+                        25.147156
+                  ]
+            },
+            {
+                  "name": "Keelung Maritime Plaza",
+                  "text": "Situată de-a lungul portului interior, această piață proeminentă cu promenadă din lemn este un loc popular pentru recreere pe faleză în portul Keelung.",
+                  "category": "landmark",
+                  "coords": [
+                        121.741155,
+                        25.131072
+                  ]
+            },
+            {
+                  "name": "Fairy Cave",
+                  "text": "O peșteră marină naturală care adăpostește un altar budist.",
+                  "category": "landmark",
+                  "coords": [
+                        121.748269,
+                        25.145074
+                  ]
+            },
+            {
+                  "name": "Heping Bridge",
+                  "text": "Un pod structural care leagă continentul de Insula Heping.",
+                  "category": "landmark",
+                  "coords": [
+                        121.768874,
+                        25.153924
+                  ]
+            },
+            {
+                  "name": "Dingnei No. 15 Park",
+                  "text": "Un parc public local care oferă spațiu verde pentru recreerea în cartier.",
+                  "category": "park",
+                  "coords": [
+                        121.754307,
+                        25.095473
+                  ]
+            },
+            {
+                  "name": "Keelung Tower",
+                  "text": "Un punct de belvedere modern care a fost deschis pe 16 decembrie 2023.",
+                  "category": "natural",
+                  "coords": [
+                        121.74698,
+                        25.132797
+                  ]
+            },
+            {
+                  "name": "Chung Cheng Park",
+                  "text": "Un parc pe deal, renumit pentru statuia sa impunătoare Guanyin cu vedere la port.",
+                  "category": "park",
+                  "coords": [
+                        121.749298,
+                        25.132441
+                  ]
+            },
+            {
+                  "name": "Keelung Lighthouse",
+                  "text": "Un far maritim de coastă construit pentru a ghida navele în siguranță în port.",
+                  "category": "landmark",
+                  "coords": [
+                        121.747629,
+                        25.155317
+                  ]
+            },
+            {
+                  "name": "Masushan",
+                  "text": "Un vârf muntos natural care se ridică deasupra terenului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        121.696376,
+                        25.167183
+                  ]
+            },
+            {
+                  "name": "Dawulunshan",
+                  "text": "Un vârf muntos natural care se ridică deasupra terenului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        121.70973,
+                        25.158507
+                  ]
+            },
+            {
+                  "name": "Sanjiaolingtoushan",
+                  "text": "Un vârf muntos natural care se ridică deasupra terenului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        121.715931,
+                        25.144701
+                  ]
+            },
+            {
+                  "name": "Wushibitoushan",
+                  "text": "Un vârf muntos natural care se ridică deasupra terenului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        121.690559,
+                        25.139164
+                  ]
+            },
+            {
+                  "name": "Sanjieshan",
+                  "text": "Un vârf muntos natural care se ridică deasupra terenului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        121.677658,
+                        25.154857
+                  ]
+            },
+            {
+                  "name": "Kangzilunshan",
+                  "text": "Un vârf muntos natural care se ridică deasupra terenului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        121.6635,
+                        25.131308
+                  ]
+            },
+            {
+                  "name": "Xiandonghushan",
+                  "text": "Un vârf muntos natural care se ridică deasupra terenului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        121.672529,
+                        25.116381
+                  ]
+            },
+            {
+                  "name": "Malingjian",
+                  "text": "Un vârf muntos natural care se ridică deasupra terenului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        121.699193,
+                        25.108911
+                  ]
+            },
+            {
+                  "name": "Shishishan",
+                  "text": "Un vârf muntos natural care se ridică deasupra terenului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        121.689079,
+                        25.107399
+                  ]
+            },
+            {
+                  "name": "Lioudu Mountain",
+                  "text": "Un vârf muntos natural care se ridică deasupra terenului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        121.703236,
+                        25.09048
+                  ]
+            },
+            {
+                  "name": "Wolongshan",
+                  "text": "Un vârf muntos natural care se ridică deasupra terenului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        121.71899,
+                        25.090716
+                  ]
+            },
+            {
+                  "name": "Sandieshan",
+                  "text": "Un vârf muntos natural care se ridică deasupra terenului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        121.729223,
+                        25.091278
+                  ]
+            },
+            {
+                  "name": "Guanyinhushan",
+                  "text": "Un vârf muntos natural care se ridică deasupra terenului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        121.740627,
+                        25.082353
+                  ]
+            },
+            {
+                  "name": "Yuemeishan",
+                  "text": "Un vârf muntos natural care se ridică deasupra terenului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        121.773352,
+                        25.120585
+                  ]
+            },
+            {
+                  "name": "Jiuhuashan",
+                  "text": "Un vârf muntos natural care se ridică deasupra terenului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        121.730684,
+                        25.145622
+                  ]
+            },
+            {
+                  "name": "Huohaoshan",
+                  "text": "Un vârf muntos natural care se ridică deasupra terenului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        121.743465,
+                        25.145924
+                  ]
+            },
+            {
+                  "name": "Dongguangshan",
+                  "text": "Un vârf muntos natural care se ridică deasupra terenului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        121.769837,
+                        25.134656
+                  ]
+            },
+            {
+                  "name": "Gangziliaoshan",
+                  "text": "Un vârf muntos natural care se ridică deasupra terenului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        121.775643,
+                        25.143129
+                  ]
+            },
+            {
+                  "name": "Zhongshan Park",
+                  "text": "Un parc public de recreere situat pe un deal înverzit.",
+                  "category": "park",
+                  "coords": [
+                        121.732075,
+                        25.146711
+                  ]
+            },
+            {
+                  "name": "Lou-yuan Site (Garden of Keelung Yan Family)",
+                  "text": "Ruinele arhitecturale istorice ale unei elegante moșii cu grădină a familiei.",
+                  "category": "historical",
+                  "coords": [
+                        121.750663,
+                        25.130809
+                  ]
+            },
+            {
+                  "name": "French Cemetery of Keelung",
+                  "text": "Un monument comemorativ din piatră dedicat soldaților francezi căzuți.",
+                  "category": "historical",
+                  "coords": [
+                        121.757804,
+                        25.140815
+                  ]
+            },
+            {
+                  "name": "Waimushan Coast",
+                  "text": "O atracție de coastă pitorească, cu un țărm stâncos accidentat.",
+                  "category": "landmark",
+                  "coords": [
+                        121.723285,
+                        25.164252
+                  ]
+            },
+            {
+                  "name": "Huangdidian",
+                  "text": "O atracție naturală pitorească, cu creste muntoase stâncoase și abrupte.",
+                  "category": "landmark",
+                  "coords": [
+                        121.76611,
+                        25.16239
+                  ]
+            },
+            {
+                  "name": "KEELUNG",
+                  "text": "Un semn proeminent cu litere pe deal, cu vedere la orașul-port de dedesubt.",
+                  "category": "landmark",
+                  "coords": [
+                        121.737354,
+                        25.135142
+                  ]
+            },
+            {
+                  "name": "Catholic Assumption Church",
+                  "text": "Un lăcaș de cult creștin dedicat credinței catolice.",
+                  "category": "landmark",
+                  "coords": [
+                        121.752098,
+                        25.128817
+                  ]
+            },
+            {
+                  "name": "Eagle Rock",
+                  "text": "Un punct de belvedere natural și stâncos, care oferă vederi panoramice asupra peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        121.707068,
+                        25.161946
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "YM Oceanic Culture and Art Museum",
+                  "text": "Located in the bustling port of Keelung, this notable museum is housed in a renovated historical building dedicated to maritime culture and art.",
+                  "category": "museum",
+                  "coords": [
+                        121.74017,
+                        25.132639
+                  ]
+            },
+            {
+                  "name": "Uhrshawan Battery",
+                  "text": "This historic hilltop military fort, recognized globally, overlooks the port of Keelung and features well-preserved 19th-century defensive structures.",
+                  "category": "fortress",
+                  "coords": [
+                        121.756804,
+                        25.139602
+                  ]
+            },
+            {
+                  "name": "Keelung City Council",
+                  "text": "Serving as the center of local government, this notable municipal building is a prominent administrative landmark in the port of Keelung.",
+                  "category": "historical",
+                  "coords": [
+                        121.749142,
+                        25.131483
+                  ]
+            },
+            {
+                  "name": "Catholic Sacred Heart of Jesus Church",
+                  "text": "This globally recognized Catholic church stands as a significant religious and architectural site in the port of Keelung.",
+                  "category": "religious",
+                  "coords": [
+                        121.734206,
+                        25.135204
+                  ]
+            },
+            {
+                  "name": "Asahi-ga-oka",
+                  "text": "This well-known scenic hill attraction offers panoramic views over the busy harbor and maritime facilities of the port of Keelung.",
+                  "category": "landmark",
+                  "coords": [
+                        121.763015,
+                        25.147156
+                  ]
+            },
+            {
+                  "name": "Keelung Maritime Plaza",
+                  "text": "Situated along the inner harbor, this prominent wooden boardwalk plaza is a popular spot for waterfront recreation in the port of Keelung.",
+                  "category": "landmark",
+                  "coords": [
+                        121.741155,
+                        25.131072
+                  ]
+            },
+            {
+                  "name": "Fairy Cave",
+                  "text": "A natural sea cave that houses a Buddhist shrine.",
+                  "category": "landmark",
+                  "coords": [
+                        121.748269,
+                        25.145074
+                  ]
+            },
+            {
+                  "name": "Heping Bridge",
+                  "text": "A structural bridge connecting the mainland to Heping Island.",
+                  "category": "landmark",
+                  "coords": [
+                        121.768874,
+                        25.153924
+                  ]
+            },
+            {
+                  "name": "Dingnei No. 15 Park",
+                  "text": "A local public park providing green space for neighborhood recreation.",
+                  "category": "park",
+                  "coords": [
+                        121.754307,
+                        25.095473
+                  ]
+            },
+            {
+                  "name": "Keelung Tower",
+                  "text": "A modern observation viewpoint that opened on December 16, 2023.",
+                  "category": "natural",
+                  "coords": [
+                        121.74698,
+                        25.132797
+                  ]
+            },
+            {
+                  "name": "Chung Cheng Park",
+                  "text": "A hillside park famous for its towering Guanyin statue overlooking the harbor.",
+                  "category": "park",
+                  "coords": [
+                        121.749298,
+                        25.132441
+                  ]
+            },
+            {
+                  "name": "Keelung Lighthouse",
+                  "text": "A coastal maritime lighthouse built to guide ships safely into the harbor.",
+                  "category": "landmark",
+                  "coords": [
+                        121.747629,
+                        25.155317
+                  ]
+            },
+            {
+                  "name": "Masushan",
+                  "text": "A natural mountainous peak rising above the surrounding terrain.",
+                  "category": "natural",
+                  "coords": [
+                        121.696376,
+                        25.167183
+                  ]
+            },
+            {
+                  "name": "Dawulunshan",
+                  "text": "A natural mountainous peak rising above the surrounding terrain.",
+                  "category": "natural",
+                  "coords": [
+                        121.70973,
+                        25.158507
+                  ]
+            },
+            {
+                  "name": "Sanjiaolingtoushan",
+                  "text": "A natural mountainous peak rising above the surrounding terrain.",
+                  "category": "natural",
+                  "coords": [
+                        121.715931,
+                        25.144701
+                  ]
+            },
+            {
+                  "name": "Wushibitoushan",
+                  "text": "A natural mountainous peak rising above the surrounding terrain.",
+                  "category": "natural",
+                  "coords": [
+                        121.690559,
+                        25.139164
+                  ]
+            },
+            {
+                  "name": "Sanjieshan",
+                  "text": "A natural mountainous peak rising above the surrounding terrain.",
+                  "category": "natural",
+                  "coords": [
+                        121.677658,
+                        25.154857
+                  ]
+            },
+            {
+                  "name": "Kangzilunshan",
+                  "text": "A natural mountainous peak rising above the surrounding terrain.",
+                  "category": "natural",
+                  "coords": [
+                        121.6635,
+                        25.131308
+                  ]
+            },
+            {
+                  "name": "Xiandonghushan",
+                  "text": "A natural mountainous peak rising above the surrounding terrain.",
+                  "category": "natural",
+                  "coords": [
+                        121.672529,
+                        25.116381
+                  ]
+            },
+            {
+                  "name": "Malingjian",
+                  "text": "A natural mountainous peak rising above the surrounding terrain.",
+                  "category": "natural",
+                  "coords": [
+                        121.699193,
+                        25.108911
+                  ]
+            },
+            {
+                  "name": "Shishishan",
+                  "text": "A natural mountainous peak rising above the surrounding terrain.",
+                  "category": "natural",
+                  "coords": [
+                        121.689079,
+                        25.107399
+                  ]
+            },
+            {
+                  "name": "Lioudu Mountain",
+                  "text": "A natural mountainous peak rising above the surrounding terrain.",
+                  "category": "natural",
+                  "coords": [
+                        121.703236,
+                        25.09048
+                  ]
+            },
+            {
+                  "name": "Wolongshan",
+                  "text": "A natural mountainous peak rising above the surrounding terrain.",
+                  "category": "natural",
+                  "coords": [
+                        121.71899,
+                        25.090716
+                  ]
+            },
+            {
+                  "name": "Sandieshan",
+                  "text": "A natural mountainous peak rising above the surrounding terrain.",
+                  "category": "natural",
+                  "coords": [
+                        121.729223,
+                        25.091278
+                  ]
+            },
+            {
+                  "name": "Guanyinhushan",
+                  "text": "A natural mountainous peak rising above the surrounding terrain.",
+                  "category": "natural",
+                  "coords": [
+                        121.740627,
+                        25.082353
+                  ]
+            },
+            {
+                  "name": "Yuemeishan",
+                  "text": "A natural mountainous peak rising above the surrounding terrain.",
+                  "category": "natural",
+                  "coords": [
+                        121.773352,
+                        25.120585
+                  ]
+            },
+            {
+                  "name": "Jiuhuashan",
+                  "text": "A natural mountainous peak rising above the surrounding terrain.",
+                  "category": "natural",
+                  "coords": [
+                        121.730684,
+                        25.145622
+                  ]
+            },
+            {
+                  "name": "Huohaoshan",
+                  "text": "A natural mountainous peak rising above the surrounding terrain.",
+                  "category": "natural",
+                  "coords": [
+                        121.743465,
+                        25.145924
+                  ]
+            },
+            {
+                  "name": "Dongguangshan",
+                  "text": "A natural mountainous peak rising above the surrounding terrain.",
+                  "category": "natural",
+                  "coords": [
+                        121.769837,
+                        25.134656
+                  ]
+            },
+            {
+                  "name": "Gangziliaoshan",
+                  "text": "A natural mountainous peak rising above the surrounding terrain.",
+                  "category": "natural",
+                  "coords": [
+                        121.775643,
+                        25.143129
+                  ]
+            },
+            {
+                  "name": "Zhongshan Park",
+                  "text": "A public recreational park situated on a verdant hillside.",
+                  "category": "park",
+                  "coords": [
+                        121.732075,
+                        25.146711
+                  ]
+            },
+            {
+                  "name": "Lou-yuan Site (Garden of Keelung Yan Family)",
+                  "text": "The historical architectural ruins of an elegant family garden estate.",
+                  "category": "historical",
+                  "coords": [
+                        121.750663,
+                        25.130809
+                  ]
+            },
+            {
+                  "name": "French Cemetery of Keelung",
+                  "text": "A stone memorial monument dedicated to fallen French soldiers.",
+                  "category": "historical",
+                  "coords": [
+                        121.757804,
+                        25.140815
+                  ]
+            },
+            {
+                  "name": "Waimushan Coast",
+                  "text": "A scenic coastal attraction featuring a rugged rocky shoreline.",
+                  "category": "landmark",
+                  "coords": [
+                        121.723285,
+                        25.164252
+                  ]
+            },
+            {
+                  "name": "Huangdidian",
+                  "text": "A scenic nature attraction featuring steep, rocky mountain ridges.",
+                  "category": "landmark",
+                  "coords": [
+                        121.76611,
+                        25.16239
+                  ]
+            },
+            {
+                  "name": "KEELUNG sign",
+                  "text": "A prominent hillside lettering sign overlooking the harbor city below.",
+                  "category": "landmark",
+                  "coords": [
+                        121.737354,
+                        25.135142
+                  ]
+            },
+            {
+                  "name": "Catholic Assumption Church",
+                  "text": "A Christian place of worship dedicated to the Catholic faith.",
+                  "category": "landmark",
+                  "coords": [
+                        121.752098,
+                        25.128817
+                  ]
+            },
+            {
+                  "name": "Eagle Rock",
+                  "text": "A prominent natural rocky viewpoint offering panoramic vistas of the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        121.707068,
+                        25.161946
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "TW-KEE",
     coords: [121.740, 25.133],
@@ -147,7 +2838,88 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
     },
   },
   {
-    id: "taichung-power-plant-economic-v2",
+    id: "taichung-power-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chungchang Bridge",
+                  "text": "Diese wichtige Straßenbrücke führt die Provinzstraße 17 über den breiten Dadu-Fluss und verbindet die Stadt Taichung mit dem benachbarten Landkreis Changhua.",
+                  "category": "landmark",
+                  "coords": [
+                        120.506594,
+                        24.187645
+                  ]
+            },
+            {
+                  "name": "Shengang Fu'an Temple",
+                  "text": "Dieser nach einem Großbrand im Jahr 2015 wiederaufgebaute prominente daoistische Tempel in Shengang ist ein wichtiger Pilgerort für Mazu-Gläubige.",
+                  "category": "religious",
+                  "coords": [
+                        120.488756,
+                        24.1625
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chungchang Bridge",
+                  "text": "A széles Dadu folyót átívelő, a 17-es tartományi főutat hordozó jelentős közúti híd Taichung városát köti össze a szomszédos Changhua megyével.",
+                  "category": "landmark",
+                  "coords": [
+                        120.506594,
+                        24.187645
+                  ]
+            },
+            {
+                  "name": "Shengang Fu'an Temple",
+                  "text": "A 2015-ös nagy tűzvész után újjáépített kiemelkedő sengkangi taoista templom a Mazu-hívők fontos zarándokhelye.",
+                  "category": "religious",
+                  "coords": [
+                        120.488756,
+                        24.1625
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chungchang Bridge",
+                  "text": "Purtând Autostrada Provincială 17 peste râul lat Dadu, acest pod rutier major leagă orașul Taichung de comitatul vecin Changhua.",
+                  "category": "landmark",
+                  "coords": [
+                        120.506594,
+                        24.187645
+                  ]
+            },
+            {
+                  "name": "Shengang Fu'an Temple",
+                  "text": "Reconstruit după un incendiu major în 2015, acest templu taoist proeminent din Shengang este un loc de pelerinaj important pentru închinătorii lui Mazu.",
+                  "category": "religious",
+                  "coords": [
+                        120.488756,
+                        24.1625
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chungchang Bridge",
+                  "text": "Carrying Provincial Highway 17 over the wide Dadu River, this major road bridge connects Taichung City with neighboring Changhua County.",
+                  "category": "landmark",
+                  "coords": [
+                        120.506594,
+                        24.187645
+                  ]
+            },
+            {
+                  "name": "Shengang Fu'an Temple",
+                  "text": "Rebuilt after a major fire in 2015, this prominent Taoist temple in Shengang is an important pilgrimage site for Mazu worshippers.",
+                  "category": "religious",
+                  "coords": [
+                        120.488756,
+                        24.1625
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "TW-TXG",
     coords: [120.481, 24.213],
@@ -195,7 +2967,88 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
     },
   },
   {
-    id: "mailiao-refinery-economic-v2",
+    id: "mailiao-refinery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Taixi Haikou Living Museum",
+                  "text": "Das Taixi Haikou Living Museum zeigt die Fischereikultur und den traditionellen Lebensstil an der Küste Westtaiwans.",
+                  "category": "museum",
+                  "coords": [
+                        120.172916,
+                        23.724807
+                  ]
+            },
+            {
+                  "name": "Yongan Temple",
+                  "text": "Der Yongan-Tempel ist eine aktive Kultstätte, die der lokalen Gemeinde mit ihrer reich verzierten Haupthalle und traditionellen Zeremonien dient.",
+                  "category": "religious",
+                  "coords": [
+                        120.244965,
+                        23.775687
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Taixi Haikou Living Museum",
+                  "text": "A Taixi Haikou Élő Múzeum a nyugat-tajvani halászkultúrát és a hagyományos tengerparti életmódot mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        120.172916,
+                        23.724807
+                  ]
+            },
+            {
+                  "name": "Yongan Temple",
+                  "text": "A Yongan templom egy aktív istentiszteleti hely, amely gazdagon díszített főcsarnokával és hagyományos szertartásaival szolgálja a helyi közösséget.",
+                  "category": "religious",
+                  "coords": [
+                        120.244965,
+                        23.775687
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Taixi Haikou Living Museum",
+                  "text": "Muzeul Viu Taixi Haikou prezintă cultura pescuitului și stilurile de viață tradiționale de coastă din vestul Taiwanului.",
+                  "category": "museum",
+                  "coords": [
+                        120.172916,
+                        23.724807
+                  ]
+            },
+            {
+                  "name": "Yongan Temple",
+                  "text": "Templul Yongan este un lăcaș de cult activ care servește comunitatea locală cu sala sa principală bogat decorată și ceremoniile tradiționale.",
+                  "category": "religious",
+                  "coords": [
+                        120.244965,
+                        23.775687
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Taixi Haikou Living Museum",
+                  "text": "The Taixi Haikou Living Museum showcases the fishing culture and traditional coastal lifestyles of western Taiwan.",
+                  "category": "museum",
+                  "coords": [
+                        120.172916,
+                        23.724807
+                  ]
+            },
+            {
+                  "name": "Yongan Temple",
+                  "text": "Yongan Temple is an active place of worship serving the local community with its richly decorated main hall and traditional ceremonies.",
+                  "category": "religious",
+                  "coords": [
+                        120.244965,
+                        23.775687
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TW-YUN",
     coords: [120.183, 23.801],
@@ -243,7 +3096,160 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
     },
   },
   {
-    id: "port-of-taichung-economic-v2",
+    id: "port-of-taichung-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Yuqi Yuyu Cultural Park",
+                  "text": "Dieser Kulturpark mit Museum in der Nähe des Hafens von Taichung präsentiert das lokale Fischereierbe und maritime Traditionen.",
+                  "category": "museum",
+                  "coords": [
+                        120.530679,
+                        24.259089
+                  ]
+            },
+            {
+                  "name": "ASOBI SQUARE",
+                  "text": "Dieser lebhafte Themenpark in der Hafengegend von Taichung bietet verschiedene Indoor-Unterhaltungseinrichtungen und interaktive Spielzonen für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        120.516968,
+                        24.259771
+                  ]
+            },
+            {
+                  "name": "Taichung Aquarium",
+                  "text": "Dieses moderne Aquarium, dessen Eröffnung am Hafen von Taichung für August 2025 geplant ist, wird weitläufige Ausstellungen von Meeresbewohnern bieten.",
+                  "category": "museum",
+                  "coords": [
+                        120.519685,
+                        24.296745
+                  ]
+            },
+            {
+                  "name": "Taichung City Seaport Art Center",
+                  "text": "Dieses weitläufige Kunstzentrum in der Nähe des Hafens von Taichung ist im Stil der traditionellen Architektur aus Süd-Fujian mit landschaftlich gestalteten Innenhöfen erbaut.",
+                  "category": "cultural",
+                  "coords": [
+                        120.557729,
+                        24.270435
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Yuqi Yuyu Cultural Park",
+                  "text": "A Taichung kikötője közelében található kulturális park és múzeum a helyi halászati örökséget és tengeri hagyományokat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        120.530679,
+                        24.259089
+                  ]
+            },
+            {
+                  "name": "ASOBI SQUARE",
+                  "text": "A Taichung kikötője környékén található vidám vidámpark különféle beltéri szórakoztató létesítményeket és interaktív játszótereket kínál a családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        120.516968,
+                        24.259771
+                  ]
+            },
+            {
+                  "name": "Taichung Aquarium",
+                  "text": "A Taichung kikötőjében 2025 augusztusában nyíló modern akvárium kiterjedt tengeri élővilágot bemutató kiállításokkal várja majd a látogatókat.",
+                  "category": "museum",
+                  "coords": [
+                        120.519685,
+                        24.296745
+                  ]
+            },
+            {
+                  "name": "Taichung City Seaport Art Center",
+                  "text": "A Taichung kikötője közelében található kiterjedt művészeti központ a hagyományos dél-fucsieni építészetet idézi gyönyörűen parkosított udvaraival.",
+                  "category": "cultural",
+                  "coords": [
+                        120.557729,
+                        24.270435
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Yuqi Yuyu Cultural Park",
+                  "text": "Situat lângă Portul Taichung, acest parc cultural și muzeu prezintă moștenirea locală a pescuitului și tradițiile maritime.",
+                  "category": "museum",
+                  "coords": [
+                        120.530679,
+                        24.259089
+                  ]
+            },
+            {
+                  "name": "ASOBI SQUARE",
+                  "text": "Situat în zona Portului Taichung, acest parc tematic animat oferă diverse facilități de divertisment interioare și zone de joacă interactive pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        120.516968,
+                        24.259771
+                  ]
+            },
+            {
+                  "name": "Taichung Aquarium",
+                  "text": "Programat să se deschidă în august 2025 în Portul Taichung, acest acvariu modern va prezenta expoziții extinse cu viață marină.",
+                  "category": "museum",
+                  "coords": [
+                        120.519685,
+                        24.296745
+                  ]
+            },
+            {
+                  "name": "Taichung City Seaport Art Center",
+                  "text": "Situat lângă Portul Taichung, acest centru de artă extins este conceput pentru a imita arhitectura tradițională din sudul provinciei Fujian, având curți amenajate peisagistic.",
+                  "category": "cultural",
+                  "coords": [
+                        120.557729,
+                        24.270435
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yuqi Yuyu Cultural Park",
+                  "text": "Located near the Port of Taichung, this cultural park and museum showcases the local fishing heritage and maritime traditions.",
+                  "category": "museum",
+                  "coords": [
+                        120.530679,
+                        24.259089
+                  ]
+            },
+            {
+                  "name": "ASOBI SQUARE",
+                  "text": "Set in the Port of Taichung area, this lively theme park offers various indoor entertainment facilities and interactive play zones for families.",
+                  "category": "recreational",
+                  "coords": [
+                        120.516968,
+                        24.259771
+                  ]
+            },
+            {
+                  "name": "Taichung Aquarium",
+                  "text": "Scheduled to open in August 2025 at the Port of Taichung, this modern aquarium will feature expansive marine life exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        120.519685,
+                        24.296745
+                  ]
+            },
+            {
+                  "name": "Taichung City Seaport Art Center",
+                  "text": "Located near the Port of Taichung, this expansive arts center is designed to mimic traditional southern Fujian architecture with landscaped courtyards.",
+                  "category": "cultural",
+                  "coords": [
+                        120.557729,
+                        24.270435
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "TW-TXG",
     coords: [120.518, 24.270],
@@ -291,7 +3297,700 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
     },
   },
   {
-    id: "southern-taiwan-science-park-economic-v2",
+    id: "southern-taiwan-science-park-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Xingangshe Local Culture Center",
+                  "text": "Dieses Kulturmuseum bewahrt die indigene Geschichte und das ländliche Erbe der Region Xingangshe vor ihrer modernen Entwicklung.",
+                  "category": "museum",
+                  "coords": [
+                        120.267389,
+                        23.091768
+                  ]
+            },
+            {
+                  "name": "Ouchi Totoro Painted Village",
+                  "text": "Die Backsteinmauern dieses ländlichen Viertels sind lebhaft mit von Fans gemalten Wandbildern des beliebten Studio Ghibli-Charakters Totoro dekoriert.",
+                  "category": "landmark",
+                  "coords": [
+                        120.354483,
+                        23.123271
+                  ]
+            },
+            {
+                  "name": "Sweet Potato Tourism Factory",
+                  "text": "In dieser interaktiven Süßkartoffel-Verarbeitungsanlage können Besucher mehr über die lokale Landwirtschaft erfahren und frisch zubereitete Yam-Snacks probieren.",
+                  "category": "landmark",
+                  "coords": [
+                        120.30835,
+                        23.026052
+                  ]
+            },
+            {
+                  "name": "Buddhabaramee Temple",
+                  "text": "Dieser authentische thailändisch-buddhistische Tempel dient der lokalen thailändischen Gemeinschaft in Taiwan als lebendiges spirituelles und kulturelles Zentrum.",
+                  "category": "religious",
+                  "coords": [
+                        120.263114,
+                        23.044471
+                  ]
+            },
+            {
+                  "name": "Eighteen Levels of Hell",
+                  "text": "Dieses Diorama unter einer massiven Drachenstruktur zeigt animatronische Darstellungen der grausamen traditionellen Strafen der daoistischen Unterwelt.",
+                  "category": "landmark",
+                  "coords": [
+                        120.259577,
+                        23.190417
+                  ]
+            },
+            {
+                  "name": "Huma Story House",
+                  "text": "Dieser spezialisierte Ausstellungsraum beschreibt die Geschichte und die traditionellen Presstechniken des berühmten schwarzen Sesamöls der Region.",
+                  "category": "museum",
+                  "coords": [
+                        120.216062,
+                        23.139199
+                  ]
+            },
+            {
+                  "name": "National Museum of Taiwan History",
+                  "text": "Die umfangreiche Sammlung des Museums bewahrt Artefakte, die die multikulturellen Interaktionen und die historische Entwicklung der Insel Taiwan detailliert beschreiben.",
+                  "category": "museum",
+                  "coords": [
+                        120.235225,
+                        23.058306
+                  ]
+            },
+            {
+                  "name": "Museum of Archaeology, Tainan Branch of National Museum of Prehistory",
+                  "text": "Diese markante moderne Einrichtung zeigt prähistorische Artefakte und alte menschliche Überreste, die beim Bau des nahe gelegenen Wissenschaftsparks entdeckt wurden.",
+                  "category": "museum",
+                  "coords": [
+                        120.283685,
+                        23.100935
+                  ]
+            },
+            {
+                  "name": "Tainan Shan-Shang Garden and Old Waterworks Museum",
+                  "text": "Diese gut erhaltene Wasseraufbereitungsanlage aus rotem Backstein, die während der japanischen Kolonialzeit erbaut wurde, fungiert heute als riesiger industrieller Erlebnispark.",
+                  "category": "recreational",
+                  "coords": [
+                        120.360476,
+                        23.096722
+                  ]
+            },
+            {
+                  "name": "Water Purification Pond",
+                  "text": "Dieser historische Reinigungsbereich, der über eine lange Treppe erreichbar ist, verfügt über ein festungsartiges Steingebäude, in dem einst sauberes Trinkwasser gespeichert wurde.",
+                  "category": "recreational",
+                  "coords": [
+                        120.359405,
+                        23.088035
+                  ]
+            },
+            {
+                  "name": "Sinhua Athletic Park",
+                  "text": "Dieser weitläufige Stadtpark bietet den Anwohnern zahlreiche Outdoor-Sportanlagen und gut gepflegte Laufstrecken.",
+                  "category": "park",
+                  "coords": [
+                        120.30572,
+                        23.029954
+                  ]
+            },
+            {
+                  "name": "Wen Shia Story Exhibition",
+                  "text": "Diese Gedenkausstellung feiert das Leben, die Musik und das filmische Erbe des berühmten taiwanischen Sängers Wen Shia.",
+                  "category": "museum",
+                  "coords": [
+                        120.267345,
+                        23.184805
+                  ]
+            },
+            {
+                  "name": "Tsung-Yeh Arts and Cultural Center",
+                  "text": "Inmitten der Anlage einer ehemaligen japanischen Zuckerfabrik gelegen, beherbergt dieses lebendige Zentrum zeitgenössische Kunstausstellungen in historischer Holzarchitektur.",
+                  "category": "landmark",
+                  "coords": [
+                        120.268532,
+                        23.186115
+                  ]
+            },
+            {
+                  "name": "Small Stage",
+                  "text": "Dieser intime lokale Theaterraum veranstaltet das ganze Jahr über kleinere Theateraufführungen und kulturelle Gemeindeveranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        120.268559,
+                        23.184981
+                  ]
+            },
+            {
+                  "name": "Daofong Lagoon Museum",
+                  "text": "Dieses mit einer schrägen, modernen Silhouette erbaute Museum erzählt die geologische Geschichte und die lebendige Handelstradition der alten Daofong-Binnensee.",
+                  "category": "museum",
+                  "coords": [
+                        120.26882,
+                        23.190217
+                  ]
+            },
+            {
+                  "name": "Puji Temple",
+                  "text": "Dieser detailreiche daoistische Tempel fungiert als spiritueller Treffpunkt für die örtliche Gemeinde und ist an seinen verzierten, geschwungenen Dachlinien erkennbar.",
+                  "category": "landmark",
+                  "coords": [
+                        120.285233,
+                        23.133845
+                  ]
+            },
+            {
+                  "name": "Datong Jhen-an Temple",
+                  "text": "Dieser mit bunten Keramikgottheiten reich geschmückte lokale Tempel bietet einen ruhigen Innenhof, in dem die Gläubigen Räucherstäbchen verbrennen und beten.",
+                  "category": "religious",
+                  "coords": [
+                        120.223655,
+                        23.08411
+                  ]
+            },
+            {
+                  "name": "Niuzhuang Yuanxing Temple",
+                  "text": "Dieser traditionelle daoistische Tempel in der Siedlung Niuzhuang zeichnet sich durch aufwendig geschnitzte Steinsäulen und lebendige Dachdrachen aus.",
+                  "category": "landmark",
+                  "coords": [
+                        120.315746,
+                        23.13946
+                  ]
+            },
+            {
+                  "name": "Shanhua Night Market",
+                  "text": "Dieser weitläufige Straßenmarkt, der nach Einbruch der Dunkelheit vor Energie sprüht, bietet eine schwindelerregende Auswahl an klassischen taiwanischen Streetfood-Gerichten und Karnevalsspielen.",
+                  "category": "cultural",
+                  "coords": [
+                        120.297882,
+                        23.127903
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Xingangshe Local Culture Center",
+                  "text": "Ez a kulturális múzeum Xingangshe térségének őslakos történelmét és vidéki örökségét őrzi a modern fejlesztések előtti időkből.",
+                  "category": "museum",
+                  "coords": [
+                        120.267389,
+                        23.091768
+                  ]
+            },
+            {
+                  "name": "Ouchi Totoro Painted Village",
+                  "text": "Ennek a vidéki környéknek a téglafalait a rajongók által készített, a szeretett Studio Ghibli karaktert, Totorót ábrázoló élénk falfestmények díszítik.",
+                  "category": "landmark",
+                  "coords": [
+                        120.354483,
+                        23.123271
+                  ]
+            },
+            {
+                  "name": "Sweet Potato Tourism Factory",
+                  "text": "A látogatók megismerkedhetnek a helyi mezőgazdasággal, és frissen készült jamgyökérből készült rágcsálnivalókat kóstolhatnak ebben az interaktív édesburgonya-feldolgozó üzemben.",
+                  "category": "landmark",
+                  "coords": [
+                        120.30835,
+                        23.026052
+                  ]
+            },
+            {
+                  "name": "Buddhabaramee Temple",
+                  "text": "Ez az autentikus thai buddhista templom a tajvani thai közösség élénk spirituális és kulturális központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        120.263114,
+                        23.044471
+                  ]
+            },
+            {
+                  "name": "Eighteen Levels of Hell",
+                  "text": "A hatalmas sárkányszerkezet alatt található dioráma a taoista alvilág hátborzongató hagyományos büntetéseit mutatja be mozgó figurákkal.",
+                  "category": "landmark",
+                  "coords": [
+                        120.259577,
+                        23.190417
+                  ]
+            },
+            {
+                  "name": "Huma Story House",
+                  "text": "Ez a speciális kiállítótér a régió híres fekete szezámolajának történetét és hagyományos sajtolási technikáit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        120.216062,
+                        23.139199
+                  ]
+            },
+            {
+                  "name": "National Museum of Taiwan History",
+                  "text": "A múzeum hatalmas gyűjteménye olyan műtárgyakat őriz, amelyek Tajvan szigetének multikulturális kapcsolatait és történelmi fejlődését részletezik.",
+                  "category": "museum",
+                  "coords": [
+                        120.235225,
+                        23.058306
+                  ]
+            },
+            {
+                  "name": "Museum of Archaeology, Tainan Branch of National Museum of Prehistory",
+                  "text": "Ez a lenyűgöző, modern létesítmény a közeli Tudományos Park építése során feltárt történelem előtti leleteket és ősi emberi maradványokat állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        120.283685,
+                        23.100935
+                  ]
+            },
+            {
+                  "name": "Tainan Shan-Shang Garden and Old Waterworks Museum",
+                  "text": "A japán gyarmati korszakban épült, jól megőrzött vöröstéglás víztisztító telep ma hatalmas ipari örökségvédelmi parkként működik.",
+                  "category": "recreational",
+                  "coords": [
+                        120.360476,
+                        23.096722
+                  ]
+            },
+            {
+                  "name": "Water Purification Pond",
+                  "text": "A hosszú lépcsősoron megközelíthető történelmi tisztítómedencénél egy erődszerű kőépület található, amely egykor tiszta ivóvizet tárolt.",
+                  "category": "recreational",
+                  "coords": [
+                        120.359405,
+                        23.088035
+                  ]
+            },
+            {
+                  "name": "Sinhua Athletic Park",
+                  "text": "Ez a tágas városi park számos szabadtéri sportlétesítményt és gondozott futópályát biztosít a helyi lakosok számára.",
+                  "category": "park",
+                  "coords": [
+                        120.30572,
+                        23.029954
+                  ]
+            },
+            {
+                  "name": "Wen Shia Story Exhibition",
+                  "text": "Ez az emlékkiállítás a híres tajvani énekes, Wen Shia életét, zenéjét és filmes örökségét ünnepli.",
+                  "category": "museum",
+                  "coords": [
+                        120.267345,
+                        23.184805
+                  ]
+            },
+            {
+                  "name": "Tsung-Yeh Arts and Cultural Center",
+                  "text": "Az egykori japán cukorfinomító területén található élénk központ kortárs művészeti kiállításoknak ad otthont a történelmi faépületek között.",
+                  "category": "landmark",
+                  "coords": [
+                        120.268532,
+                        23.186115
+                  ]
+            },
+            {
+                  "name": "Small Stage",
+                  "text": "Ez a meghitt helyi színházi tér egész évben kisebb drámai előadásoknak és közösségi kulturális eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        120.268559,
+                        23.184981
+                  ]
+            },
+            {
+                  "name": "Daofong Lagoon Museum",
+                  "text": "A lejtős, modern sziluettel épült múzeum az ősi Daofong-beltenger geológiai történetét és élénk kereskedelmi múltját meséli el.",
+                  "category": "museum",
+                  "coords": [
+                        120.26882,
+                        23.190217
+                  ]
+            },
+            {
+                  "name": "Puji Temple",
+                  "text": "Ez a bonyolult díszítésű taoista templom a helyi közösség spirituális gyülekezőhelye, amely díszes, ívelt tetővonalairól ismerhető fel.",
+                  "category": "landmark",
+                  "coords": [
+                        120.285233,
+                        23.133845
+                  ]
+            },
+            {
+                  "name": "Datong Jhen-an Temple",
+                  "text": "A színes kerámia istenségekkel gazdagon díszített helyi templom egy csendes udvart biztosít, ahová a hívők füstölőt égetni és imádkozni járnak.",
+                  "category": "religious",
+                  "coords": [
+                        120.223655,
+                        23.08411
+                  ]
+            },
+            {
+                  "name": "Niuzhuang Yuanxing Temple",
+                  "text": "A Niuzhuang településen található hagyományos taoista templomot bonyolult faragású kőoszlopok és élénk tetősárkányok díszítik.",
+                  "category": "landmark",
+                  "coords": [
+                        120.315746,
+                        23.13946
+                  ]
+            },
+            {
+                  "name": "Shanhua Night Market",
+                  "text": "A sötétedés után energiától nyüzsgő, kiterjedt utcai piac a klasszikus tajvani utcai ételek és karneváli játékok szédítő választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        120.297882,
+                        23.127903
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Xingangshe Local Culture Center",
+                  "text": "Acest muzeu cultural păstrează istoria indigenă și moștenirea rurală a zonei Xingangshe dinaintea dezvoltării sale moderne.",
+                  "category": "museum",
+                  "coords": [
+                        120.267389,
+                        23.091768
+                  ]
+            },
+            {
+                  "name": "Ouchi Totoro Painted Village",
+                  "text": "Pereții de cărămidă ai acestui cartier rural sunt decorați viu cu picturi murale realizate de fani cu personajul iubit al Studio Ghibli, Totoro.",
+                  "category": "landmark",
+                  "coords": [
+                        120.354483,
+                        23.123271
+                  ]
+            },
+            {
+                  "name": "Sweet Potato Tourism Factory",
+                  "text": "Vizitatorii pot învăța despre agricultura locală și pot gusta gustări proaspete din igname la această facilitate interactivă de procesare a cartofului dulce.",
+                  "category": "landmark",
+                  "coords": [
+                        120.30835,
+                        23.026052
+                  ]
+            },
+            {
+                  "name": "Buddhabaramee Temple",
+                  "text": "Acest templu budist thailandez autentic servește ca un centru spiritual și cultural vibrant pentru comunitatea thailandeză locală din Taiwan.",
+                  "category": "religious",
+                  "coords": [
+                        120.263114,
+                        23.044471
+                  ]
+            },
+            {
+                  "name": "Eighteen Levels of Hell",
+                  "text": "Situată sub o structură masivă de dragon, această dioramă prezintă exponate animatronice care înfățișează pedepsele tradiționale macabre din lumea interlopă taoistă.",
+                  "category": "landmark",
+                  "coords": [
+                        120.259577,
+                        23.190417
+                  ]
+            },
+            {
+                  "name": "Huma Story House",
+                  "text": "Acest spațiu expozițional specializat detaliază istoria și tehnicile tradiționale de presare a renumitului ulei de susan negru din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        120.216062,
+                        23.139199
+                  ]
+            },
+            {
+                  "name": "National Museum of Taiwan History",
+                  "text": "Colecția vastă a muzeului păstrează artefacte care detaliază interacțiunile multiculturale și dezvoltarea istorică a insulei Taiwan.",
+                  "category": "museum",
+                  "coords": [
+                        120.235225,
+                        23.058306
+                  ]
+            },
+            {
+                  "name": "Museum of Archaeology, Tainan Branch of National Museum of Prehistory",
+                  "text": "Această facilitate modernă impresionantă expune artefacte preistorice și rămășițe umane antice descoperite în timpul construcției Parcului Științific din apropiere.",
+                  "category": "museum",
+                  "coords": [
+                        120.283685,
+                        23.100935
+                  ]
+            },
+            {
+                  "name": "Tainan Shan-Shang Garden and Old Waterworks Museum",
+                  "text": "Construită în timpul epocii coloniale japoneze, această stație de filtrare a apei din cărămidă roșie, bine conservată, funcționează acum ca un vast parc de patrimoniu industrial.",
+                  "category": "recreational",
+                  "coords": [
+                        120.360476,
+                        23.096722
+                  ]
+            },
+            {
+                  "name": "Water Purification Pond",
+                  "text": "Accesibil urcând o scară lungă, acest iaz istoric de purificare prezintă o clădire din piatră asemănătoare unei fortărețe, care stoca odinioară apă potabilă curată.",
+                  "category": "recreational",
+                  "coords": [
+                        120.359405,
+                        23.088035
+                  ]
+            },
+            {
+                  "name": "Sinhua Athletic Park",
+                  "text": "Acest parc urban spațios oferă locuitorilor numeroase facilități sportive în aer liber și piste de alergare bine întreținute.",
+                  "category": "park",
+                  "coords": [
+                        120.30572,
+                        23.029954
+                  ]
+            },
+            {
+                  "name": "Wen Shia Story Exhibition",
+                  "text": "Această expoziție comemorativă celebrează viața, muzica și moștenirea cinematografică a celebrului cântăreț taiwanez Wen Shia.",
+                  "category": "museum",
+                  "coords": [
+                        120.267345,
+                        23.184805
+                  ]
+            },
+            {
+                  "name": "Tsung-Yeh Arts and Cultural Center",
+                  "text": "Situat pe terenul unei foste rafinării de zahăr japoneze, acest centru vibrant găzduiește expoziții de artă contemporană printre arhitecturi istorice din lemn.",
+                  "category": "landmark",
+                  "coords": [
+                        120.268532,
+                        23.186115
+                  ]
+            },
+            {
+                  "name": "Small Stage",
+                  "text": "Acest spațiu de teatru local intim găzduiește spectacole dramatice la scară mică și evenimente culturale comunitare pe tot parcursul anului.",
+                  "category": "cultural",
+                  "coords": [
+                        120.268559,
+                        23.184981
+                  ]
+            },
+            {
+                  "name": "Daofong Lagoon Museum",
+                  "text": "Construit cu o siluetă înclinată și modernă, acest muzeu povestește istoria geologică și trecutul comercial vibrant al vechii Mări Interioare Daofong.",
+                  "category": "museum",
+                  "coords": [
+                        120.26882,
+                        23.190217
+                  ]
+            },
+            {
+                  "name": "Puji Temple",
+                  "text": "Acest templu taoist complex servește drept loc de adunare spirituală pentru comunitatea locală, recunoscut după liniile sale de acoperiș ornate și arcuite.",
+                  "category": "landmark",
+                  "coords": [
+                        120.285233,
+                        23.133845
+                  ]
+            },
+            {
+                  "name": "Datong Jhen-an Temple",
+                  "text": "Bogat împodobit cu zeități colorate din ceramică, acest templu local oferă o curte liniștită unde credincioșii vin să ardă tămâie și să se roage.",
+                  "category": "religious",
+                  "coords": [
+                        120.223655,
+                        23.08411
+                  ]
+            },
+            {
+                  "name": "Niuzhuang Yuanxing Temple",
+                  "text": "Situat în așezarea Niuzhuang, acest templu taoist tradițional are stâlpi de piatră sculptați elaborat și dragoni de acoperiș viu colorați.",
+                  "category": "landmark",
+                  "coords": [
+                        120.315746,
+                        23.13946
+                  ]
+            },
+            {
+                  "name": "Shanhua Night Market",
+                  "text": "Plină de energie după lăsarea întunericului, această piață stradală extinsă oferă o gamă amețitoare de mâncăruri stradale clasice taiwaneze și jocuri de carnaval.",
+                  "category": "cultural",
+                  "coords": [
+                        120.297882,
+                        23.127903
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Xingangshe Local Culture Center",
+                  "text": "This cultural museum preserves the indigenous history and rural heritage of the Xingangshe area before its modern development.",
+                  "category": "museum",
+                  "coords": [
+                        120.267389,
+                        23.091768
+                  ]
+            },
+            {
+                  "name": "Ouchi Totoro Painted Village",
+                  "text": "The brick walls of this rural neighborhood are vividly decorated with fan-made murals of the beloved Studio Ghibli character Totoro.",
+                  "category": "landmark",
+                  "coords": [
+                        120.354483,
+                        23.123271
+                  ]
+            },
+            {
+                  "name": "Sweet Potato Tourism Factory",
+                  "text": "Visitors can learn about local agriculture and taste freshly made yam snacks at this interactive sweet potato processing facility.",
+                  "category": "landmark",
+                  "coords": [
+                        120.30835,
+                        23.026052
+                  ]
+            },
+            {
+                  "name": "Buddhabaramee Temple",
+                  "text": "This authentic Thai Buddhist temple serves as a vibrant spiritual and cultural hub for the local Thai community in Taiwan.",
+                  "category": "religious",
+                  "coords": [
+                        120.263114,
+                        23.044471
+                  ]
+            },
+            {
+                  "name": "Eighteen Levels of Hell",
+                  "text": "Located beneath a massive dragon structure, this diorama features animatronic displays depicting the grisly traditional punishments of the Daoist underworld.",
+                  "category": "landmark",
+                  "coords": [
+                        120.259577,
+                        23.190417
+                  ]
+            },
+            {
+                  "name": "Huma Story House",
+                  "text": "This specialized exhibition space details the history and traditional pressing techniques of the region's famous black sesame oil.",
+                  "category": "museum",
+                  "coords": [
+                        120.216062,
+                        23.139199
+                  ]
+            },
+            {
+                  "name": "National Museum of Taiwan History",
+                  "text": "The museum's vast collection preserves artifacts detailing the multicultural interactions and historical development of the island of Taiwan.",
+                  "category": "museum",
+                  "coords": [
+                        120.235225,
+                        23.058306
+                  ]
+            },
+            {
+                  "name": "Museum of Archaeology, Tainan Branch of National Museum of Prehistory",
+                  "text": "This striking modern facility exhibits prehistoric artifacts and ancient human remains uncovered during the construction of the nearby Science Park.",
+                  "category": "museum",
+                  "coords": [
+                        120.283685,
+                        23.100935
+                  ]
+            },
+            {
+                  "name": "Tainan Shan-Shang Garden and Old Waterworks Museum",
+                  "text": "Built during the Japanese colonial era, this well-preserved red-brick water filtration plant now functions as a vast industrial heritage park.",
+                  "category": "recreational",
+                  "coords": [
+                        120.360476,
+                        23.096722
+                  ]
+            },
+            {
+                  "name": "Water Purification Pond",
+                  "text": "Reached by climbing a long staircase, this historic purification pond features a fortress-like stone building that once stored clean drinking water.",
+                  "category": "recreational",
+                  "coords": [
+                        120.359405,
+                        23.088035
+                  ]
+            },
+            {
+                  "name": "Sinhua Athletic Park",
+                  "text": "This spacious urban park provides local residents with numerous outdoor sports facilities and well-maintained running tracks.",
+                  "category": "park",
+                  "coords": [
+                        120.30572,
+                        23.029954
+                  ]
+            },
+            {
+                  "name": "Wen Shia Story Exhibition",
+                  "text": "This commemorative exhibition celebrates the life, music, and cinematic legacy of the famous Taiwanese singer Wen Shia.",
+                  "category": "museum",
+                  "coords": [
+                        120.267345,
+                        23.184805
+                  ]
+            },
+            {
+                  "name": "Tsung-Yeh Arts and Cultural Center",
+                  "text": "Set within the grounds of a former Japanese sugar refinery, this vibrant center hosts contemporary art exhibits amid historic wooden architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        120.268532,
+                        23.186115
+                  ]
+            },
+            {
+                  "name": "Small Stage",
+                  "text": "This intimate local theatre space hosts small-scale dramatic performances and community cultural events throughout the year.",
+                  "category": "cultural",
+                  "coords": [
+                        120.268559,
+                        23.184981
+                  ]
+            },
+            {
+                  "name": "Daofong Lagoon Museum",
+                  "text": "Built with a sloping, modern silhouette, this museum recounts the geological history and vibrant trading past of the ancient Daofong Inland Sea.",
+                  "category": "museum",
+                  "coords": [
+                        120.26882,
+                        23.190217
+                  ]
+            },
+            {
+                  "name": "Puji Temple",
+                  "text": "This intricate Daoist temple acts as a spiritual gathering place for the local community, recognizable by its ornate, sweeping rooflines.",
+                  "category": "landmark",
+                  "coords": [
+                        120.285233,
+                        23.133845
+                  ]
+            },
+            {
+                  "name": "Datong Jhen-an Temple",
+                  "text": "Richly adorned with colorful ceramic deities, this local temple provides a quiet courtyard where worshippers come to burn incense and pray.",
+                  "category": "religious",
+                  "coords": [
+                        120.223655,
+                        23.08411
+                  ]
+            },
+            {
+                  "name": "Niuzhuang Yuanxing Temple",
+                  "text": "Situated in the Niuzhuang settlement, this traditional Daoist temple features elaborately carved stone pillars and vibrant roof dragons.",
+                  "category": "landmark",
+                  "coords": [
+                        120.315746,
+                        23.13946
+                  ]
+            },
+            {
+                  "name": "Shanhua Night Market",
+                  "text": "Bustling with energy after dark, this sprawling street market offers a dizzying array of classic Taiwanese street foods and carnival games.",
+                  "category": "cultural",
+                  "coords": [
+                        120.297882,
+                        23.127903
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TW-TNN",
     coords: [120.269, 23.104],
@@ -339,7 +4038,916 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
     },
   },
   {
-    id: "central-taiwan-science-park-economic-v2",
+    id: "central-taiwan-science-park-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "An Eco Lifestyle",
+                  "text": "Eine moderne Attraktion in der Nähe des Wissenschaftsparks, die nachhaltiges Wohnen und grüne Initiativen fördert.",
+                  "category": "landmark",
+                  "coords": [
+                        120.670253,
+                        24.216447
+                  ]
+            },
+            {
+                  "name": "Cycling Culture Museum",
+                  "text": "Ein spezielles Museum, das die Entwicklung des Fahrrads und Taiwans bedeutende Fahrradindustrie präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        120.611311,
+                        24.208654
+                  ]
+            },
+            {
+                  "name": "Jiujia Park",
+                  "text": "Ein landschaftlich gestalteter Stadtpark, der Grünflächen in der Nähe des Central Taiwan Science Park bietet.",
+                  "category": "park",
+                  "coords": [
+                        120.696123,
+                        24.184581
+                  ]
+            },
+            {
+                  "name": "Jiushe Park",
+                  "text": "Ein Stadtpark mit gepflasterten Gehwegen und einem traditionellen Lotusteich für die Anwohner.",
+                  "category": "park",
+                  "coords": [
+                        120.700364,
+                        24.181117
+                  ]
+            },
+            {
+                  "name": "Chaochun Park",
+                  "text": "Ein idyllischer Nachbarschaftspark mit schattigen Wegen und Freizeiteinrichtungen im Bezirk des Wissenschaftsparks.",
+                  "category": "park",
+                  "coords": [
+                        120.68887,
+                        24.194655
+                  ]
+            },
+            {
+                  "name": "Zhaixing Villa",
+                  "text": "Ein wunderschön erhaltenes traditionelles Hofanwesen, das kunstvolle taiwanesische Holzschnitzereien und Mauerwerk präsentiert.",
+                  "category": "recreational",
+                  "coords": [
+                        120.697133,
+                        24.224528
+                  ]
+            },
+            {
+                  "name": "Sizhangli Park",
+                  "text": "Eine weitläufige Grünfläche, die mit Sportanlagen und Rasenflächen für die lokale Gemeinde ausgestattet ist.",
+                  "category": "park",
+                  "coords": [
+                        120.681284,
+                        24.195268
+                  ]
+            },
+            {
+                  "name": "Luce Memorial Chapel",
+                  "text": "Eine ikonische modernistische christliche Kapelle mit einer markanten zeltartigen Struktur auf dem Campus der Tunghai-Universität.",
+                  "category": "religious",
+                  "coords": [
+                        120.600546,
+                        24.178893
+                  ]
+            },
+            {
+                  "name": "West Da Dun Park",
+                  "text": "Ein Gemeinschaftspark mit offenen Rasenflächen und Spazierwegen in der Nähe des belebten Wissenschaftsparks.",
+                  "category": "park",
+                  "coords": [
+                        120.635503,
+                        24.17808
+                  ]
+            },
+            {
+                  "name": "Wen Xiu Park",
+                  "text": "Eine ruhige städtische Grünanlage, die schattige Sitzbereiche inmitten der belebten städtischen Umgebung bietet.",
+                  "category": "park",
+                  "coords": [
+                        120.641946,
+                        24.183671
+                  ]
+            },
+            {
+                  "name": "Fengjia Night Market",
+                  "text": "Einer der größten Nachtmärkte Taiwans, berühmt für sein innovatives Streetfood und das lebhafte nächtliche Einkaufserlebnis.",
+                  "category": "landmark",
+                  "coords": [
+                        120.645963,
+                        24.178061
+                  ]
+            },
+            {
+                  "name": "Fuxing Park",
+                  "text": "Ein familienfreundlicher Stadtpark mit Spielplätzen und von Bäumen gesäumten Gehwegen nahe dem Geschäftsviertel.",
+                  "category": "park",
+                  "coords": [
+                        120.649036,
+                        24.172259
+                  ]
+            },
+            {
+                  "name": "Shang Shi Park",
+                  "text": "Ein kleiner, landschaftlich gestalteter Park, der Fußgängern in den umliegenden Straßen einen ruhigen Rastplatz bietet.",
+                  "category": "park",
+                  "coords": [
+                        120.644734,
+                        24.172788
+                  ]
+            },
+            {
+                  "name": "Fengjia Park",
+                  "text": "Ein grünes Erholungsgebiet, das nur wenige Schritte vom energiegeladenen Bezirk der Fengjia-Universität entfernt Ruhe bietet.",
+                  "category": "park",
+                  "coords": [
+                        120.640554,
+                        24.17697
+                  ]
+            },
+            {
+                  "name": "Taichung Central Park",
+                  "text": "Ein riesiger Stadtpark auf einem ehemaligen Flughafen mit modernen ökologischen Installationen und weiten Grünflächen.",
+                  "category": "park",
+                  "coords": [
+                        120.653641,
+                        24.186921
+                  ]
+            },
+            {
+                  "name": "Xinping Park",
+                  "text": "Ein offener Nachbarschaftspark, der mit seinen großzügigen Rasenflächen als beliebter Treffpunkt dient.",
+                  "category": "park",
+                  "coords": [
+                        120.66207,
+                        24.185944
+                  ]
+            },
+            {
+                  "name": "Lei Hu Park",
+                  "text": "Ein sorgfältig gepflegter lokaler Park mit angelegten Gärten für die Wohnzonen des Wissenschaftsparks.",
+                  "category": "park",
+                  "coords": [
+                        120.667598,
+                        24.182246
+                  ]
+            },
+            {
+                  "name": "Rende Park",
+                  "text": "Eine grüne Oase in der Nachbarschaft, die Freizeitwege und Fitnessgeräte im Freien bietet.",
+                  "category": "park",
+                  "coords": [
+                        120.678608,
+                        24.191565
+                  ]
+            },
+            {
+                  "name": "Siping Park",
+                  "text": "Ein ruhiger Vorortspark, der von einheimischen Bäumen gesäumt ist und eine entspannende Umgebung für tägliche Spaziergänge bietet.",
+                  "category": "park",
+                  "coords": [
+                        120.68003,
+                        24.19217
+                  ]
+            },
+            {
+                  "name": "Luguang Park",
+                  "text": "Ein kleiner Gemeinschaftspark mit schattigen Pavillons und bunten Blumenbeeten.",
+                  "category": "park",
+                  "coords": [
+                        120.684006,
+                        24.193912
+                  ]
+            },
+            {
+                  "name": "Renhe Fude Park",
+                  "text": "Ein lokaler Park, der um einen traditionellen Erdgott-Schrein herum angelegt wurde und viel Grün aufweist.",
+                  "category": "park",
+                  "coords": [
+                        120.678575,
+                        24.181889
+                  ]
+            },
+            {
+                  "name": "Shuinan Ecological Park",
+                  "text": "Ein städtischer Feuchtgebietspark, der zur Erhaltung der einheimischen Biodiversität im sanierten Shuinan-Gebiet konzipiert wurde.",
+                  "category": "park",
+                  "coords": [
+                        120.678572,
+                        24.179514
+                  ]
+            },
+            {
+                  "name": "Taichung Folklore Park",
+                  "text": "Ein Kulturpark, der traditionelle Architektur im Minnan-Stil, Volksartefakte und historische Lebensausstellungen präsentiert.",
+                  "category": "park",
+                  "coords": [
+                        120.687306,
+                        24.175023
+                  ]
+            },
+            {
+                  "name": "the hope",
+                  "text": "Ein modernes christliches Gemeindezentrum, das spirituelle Dienstleistungen in der Nähe des Wissenschaftsparks anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        120.658584,
+                        24.170583
+                  ]
+            },
+            {
+                  "name": "Songzhu Fude Temple",
+                  "text": "Ein traditioneller Andachtsort für die lokale Gemeinschaft, der klassische taiwanesische Tempelarchitektur aufweist.",
+                  "category": "religious",
+                  "coords": [
+                        120.687595,
+                        24.181803
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "An Eco Lifestyle",
+                  "text": "A tudományos park közelében található modern látványosság, amely a fenntartható életmódot és a zöld kezdeményezéseket népszerűsíti.",
+                  "category": "landmark",
+                  "coords": [
+                        120.670253,
+                        24.216447
+                  ]
+            },
+            {
+                  "name": "Cycling Culture Museum",
+                  "text": "Egy különleges múzeum, amely a kerékpárok fejlődését és Tajvan kiemelkedő kerékpáriparát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        120.611311,
+                        24.208654
+                  ]
+            },
+            {
+                  "name": "Jiujia Park",
+                  "text": "Egy parkosított városi park, amely zöldövezeti pihenőhelyeket kínál a Közép-Tajvani Tudományos Park közelében.",
+                  "category": "park",
+                  "coords": [
+                        120.696123,
+                        24.184581
+                  ]
+            },
+            {
+                  "name": "Jiushe Park",
+                  "text": "Városi park, amely kikövezett sétányokkal és egy hagyományos lótusztóval várja a helyi lakosokat.",
+                  "category": "park",
+                  "coords": [
+                        120.700364,
+                        24.181117
+                  ]
+            },
+            {
+                  "name": "Chaochun Park",
+                  "text": "Egy idilli szomszédsági park, amely árnyékos ösvényeket és közösségi szabadidős létesítményeket kínál a tudományos park negyedében.",
+                  "category": "park",
+                  "coords": [
+                        120.68887,
+                        24.194655
+                  ]
+            },
+            {
+                  "name": "Zhaixing Villa",
+                  "text": "Egy gyönyörűen megőrzött, hagyományos udvarház, amely bonyolult tajvani fafaragásokat és téglafalakat mutat be.",
+                  "category": "recreational",
+                  "coords": [
+                        120.697133,
+                        24.224528
+                  ]
+            },
+            {
+                  "name": "Sizhangli Park",
+                  "text": "Tágas zöldterület, amely sportlétesítményekkel és pázsittal van felszerelve a helyi közösség számára.",
+                  "category": "park",
+                  "coords": [
+                        120.681284,
+                        24.195268
+                  ]
+            },
+            {
+                  "name": "Luce Memorial Chapel",
+                  "text": "Egy ikonikus, modernista keresztény kápolna feltűnő sátorszerű szerkezettel a Tunghai Egyetem kampuszán.",
+                  "category": "religious",
+                  "coords": [
+                        120.600546,
+                        24.178893
+                  ]
+            },
+            {
+                  "name": "West Da Dun Park",
+                  "text": "Egy közösségi park nyitott pázsittal és sétautakkal a nyüzsgő tudományos park negyedében.",
+                  "category": "park",
+                  "coords": [
+                        120.635503,
+                        24.17808
+                  ]
+            },
+            {
+                  "name": "Wen Xiu Park",
+                  "text": "Csendes városi zöldterület, amely árnyékos ülőhelyeket kínál a nyüzsgő városi környezetben.",
+                  "category": "park",
+                  "coords": [
+                        120.641946,
+                        24.183671
+                  ]
+            },
+            {
+                  "name": "Fengjia Night Market",
+                  "text": "Tajvan egyik legnagyobb éjszakai piaca, amely az innovatív utcai ételeiről és a nyüzsgő késő esti vásárlásról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        120.645963,
+                        24.178061
+                  ]
+            },
+            {
+                  "name": "Fuxing Park",
+                  "text": "Családbarát városi park játszóterekkel és fákkal szegélyezett sétányokkal a kereskedelmi negyed közelében.",
+                  "category": "park",
+                  "coords": [
+                        120.649036,
+                        24.172259
+                  ]
+            },
+            {
+                  "name": "Shang Shi Park",
+                  "text": "Egy kis parkosított park, amely nyugodt pihenőhelyet kínál a gyalogosoknak a környező városi rácsban.",
+                  "category": "park",
+                  "coords": [
+                        120.644734,
+                        24.172788
+                  ]
+            },
+            {
+                  "name": "Fengjia Park",
+                  "text": "Zöldellő pihenőövezet, amely békés kikapcsolódást nyújt mindössze néhány lépésre a Fengjia Egyetem nyüzsgő körzetétől.",
+                  "category": "park",
+                  "coords": [
+                        120.640554,
+                        24.17697
+                  ]
+            },
+            {
+                  "name": "Taichung Central Park",
+                  "text": "Egy egykori repülőtér területén épült hatalmas városi park, modern ökológiai installációkkal és tágas zöldterületekkel.",
+                  "category": "park",
+                  "coords": [
+                        120.653641,
+                        24.186921
+                  ]
+            },
+            {
+                  "name": "Xinping Park",
+                  "text": "Egy nyitott szomszédsági park, amely tágas füves területeivel népszerű gyülekezőhelyként szolgál.",
+                  "category": "park",
+                  "coords": [
+                        120.66207,
+                        24.185944
+                  ]
+            },
+            {
+                  "name": "Lei Hu Park",
+                  "text": "Gondosan karbantartott helyi parkosított kertekkel, amely a tudományos park lakóövezeteit szolgálja ki.",
+                  "category": "park",
+                  "coords": [
+                        120.667598,
+                        24.182246
+                  ]
+            },
+            {
+                  "name": "Rende Park",
+                  "text": "Egy környékbeli zöldterület, amely pihenőösvényeket és szabadtéri fitneszgépeket kínál.",
+                  "category": "park",
+                  "coords": [
+                        120.678608,
+                        24.191565
+                  ]
+            },
+            {
+                  "name": "Siping Park",
+                  "text": "Őshonos fákkal szegélyezett, csendes külvárosi park, amely pihentető környezetet biztosít a mindennapi sétákhoz.",
+                  "category": "park",
+                  "coords": [
+                        120.68003,
+                        24.19217
+                  ]
+            },
+            {
+                  "name": "Luguang Park",
+                  "text": "Egy kis közösségi park árnyékos pavilonokkal és színes virágágyásokkal.",
+                  "category": "park",
+                  "coords": [
+                        120.684006,
+                        24.193912
+                  ]
+            },
+            {
+                  "name": "Renhe Fude Park",
+                  "text": "Egy hagyományos Földisten szentély köré épült helyi park, amely a növényzetet a spirituális örökséggel ötvözi.",
+                  "category": "park",
+                  "coords": [
+                        120.678575,
+                        24.181889
+                  ]
+            },
+            {
+                  "name": "Shuinan Ecological Park",
+                  "text": "Egy városi vizesélőhely-park, amelyet az őshonos biológiai sokféleség megőrzésére terveztek a felújított Shuinan területén.",
+                  "category": "park",
+                  "coords": [
+                        120.678572,
+                        24.179514
+                  ]
+            },
+            {
+                  "name": "Taichung Folklore Park",
+                  "text": "Kulturális park, amely hagyományos Minnan stílusú építészetet, népi tárgyakat és történelmi életmódot bemutató kiállításokat kínál.",
+                  "category": "park",
+                  "coords": [
+                        120.687306,
+                        24.175023
+                  ]
+            },
+            {
+                  "name": "the hope",
+                  "text": "Egy modern keresztény közösségi központ, amely spirituális szolgáltatásokat nyújt a központi tudományos park közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        120.658584,
+                        24.170583
+                  ]
+            },
+            {
+                  "name": "Songzhu Fude Temple",
+                  "text": "A helyi közösséget szolgáló hagyományos istentiszteleti hely, amely klasszikus tajvani templomi építészetet mutat be.",
+                  "category": "religious",
+                  "coords": [
+                        120.687595,
+                        24.181803
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "An Eco Lifestyle",
+                  "text": "O atracție modernă în apropierea parcului științific, care promovează un stil de viață durabil și inițiative verzi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.670253,
+                        24.216447
+                  ]
+            },
+            {
+                  "name": "Cycling Culture Museum",
+                  "text": "Un muzeu dedicat care prezintă evoluția bicicletelor și proeminenta industrie a ciclismului din Taiwan.",
+                  "category": "museum",
+                  "coords": [
+                        120.611311,
+                        24.208654
+                  ]
+            },
+            {
+                  "name": "Jiujia Park",
+                  "text": "Un parc urban amenajat care oferă spații verzi de recreere în apropierea Parcului Științific Central din Taiwan.",
+                  "category": "park",
+                  "coords": [
+                        120.696123,
+                        24.184581
+                  ]
+            },
+            {
+                  "name": "Jiushe Park",
+                  "text": "Un parc urban cu alei pavate pentru plimbare și un iaz tradițional cu lotuși pentru rezidenții locali.",
+                  "category": "park",
+                  "coords": [
+                        120.700364,
+                        24.181117
+                  ]
+            },
+            {
+                  "name": "Chaochun Park",
+                  "text": "Un parc de cartier idilic, care oferă căi umbrite și facilități de agrement pentru comunitate în districtul parcului științific.",
+                  "category": "park",
+                  "coords": [
+                        120.68887,
+                        24.194655
+                  ]
+            },
+            {
+                  "name": "Zhaixing Villa",
+                  "text": "Un conac tradițional cu curte frumos conservat, prezentând sculpturi complicate în lemn și zidărie taiwaneză.",
+                  "category": "recreational",
+                  "coords": [
+                        120.697133,
+                        24.224528
+                  ]
+            },
+            {
+                  "name": "Sizhangli Park",
+                  "text": "O zonă verde spațioasă dotată cu facilități sportive și peluze pentru comunitatea locală.",
+                  "category": "park",
+                  "coords": [
+                        120.681284,
+                        24.195268
+                  ]
+            },
+            {
+                  "name": "Luce Memorial Chapel",
+                  "text": "O capelă creștină modernistă iconică, cu o structură izbitoare sub formă de cort, situată în campusul Universității Tunghai.",
+                  "category": "religious",
+                  "coords": [
+                        120.600546,
+                        24.178893
+                  ]
+            },
+            {
+                  "name": "West Da Dun Park",
+                  "text": "Un parc comunitar cu peluze deschise și trasee de plimbare, aflat în apropierea districtului plin de viață al parcului științific.",
+                  "category": "park",
+                  "coords": [
+                        120.635503,
+                        24.17808
+                  ]
+            },
+            {
+                  "name": "Wen Xiu Park",
+                  "text": "Un spațiu verde urban liniștit, care oferă zone de relaxare umbrite în mijlocul agitației orașului.",
+                  "category": "park",
+                  "coords": [
+                        120.641946,
+                        24.183671
+                  ]
+            },
+            {
+                  "name": "Fengjia Night Market",
+                  "text": "Una dintre cele mai mari piețe de noapte din Taiwan, faimoasă pentru mâncarea de stradă inovatoare și cumpărăturile vibrante târzii.",
+                  "category": "landmark",
+                  "coords": [
+                        120.645963,
+                        24.178061
+                  ]
+            },
+            {
+                  "name": "Fuxing Park",
+                  "text": "Un parc urban potrivit pentru familii, având locuri de joacă și alei mărginite de copaci lângă zona comercială.",
+                  "category": "park",
+                  "coords": [
+                        120.649036,
+                        24.172259
+                  ]
+            },
+            {
+                  "name": "Shang Shi Park",
+                  "text": "Un mic parc amenajat care oferă un loc liniștit de odihnă pentru pietonii din rețeaua urbană înconjurătoare.",
+                  "category": "park",
+                  "coords": [
+                        120.644734,
+                        24.172788
+                  ]
+            },
+            {
+                  "name": "Fengjia Park",
+                  "text": "O zonă de recreere verde care oferă o evadare liniștită la doar câțiva pași de districtul energic al Universității Fengjia.",
+                  "category": "park",
+                  "coords": [
+                        120.640554,
+                        24.17697
+                  ]
+            },
+            {
+                  "name": "Taichung Central Park",
+                  "text": "Un parc urban masiv construit pe un fost aeroport, cu instalații ecologice moderne și vaste întinderi verzi.",
+                  "category": "park",
+                  "coords": [
+                        120.653641,
+                        24.186921
+                  ]
+            },
+            {
+                  "name": "Xinping Park",
+                  "text": "Un parc de cartier deschis, care servește drept loc popular de adunare, având zone ierboase spațioase.",
+                  "category": "park",
+                  "coords": [
+                        120.66207,
+                        24.185944
+                  ]
+            },
+            {
+                  "name": "Lei Hu Park",
+                  "text": "Un parc local atent întreținut, cu grădini amenajate, care deservește zonele rezidențiale ale parcului științific.",
+                  "category": "park",
+                  "coords": [
+                        120.667598,
+                        24.182246
+                  ]
+            },
+            {
+                  "name": "Rende Park",
+                  "text": "Un spațiu verde de cartier care oferă trasee de recreere și echipamente de fitness în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        120.678608,
+                        24.191565
+                  ]
+            },
+            {
+                  "name": "Siping Park",
+                  "text": "Un parc liniștit la periferie, mărginit de copaci autohtoni, oferind un mediu relaxant pentru plimbările zilnice.",
+                  "category": "park",
+                  "coords": [
+                        120.68003,
+                        24.19217
+                  ]
+            },
+            {
+                  "name": "Luguang Park",
+                  "text": "Un mic parc comunitar dotat cu pavilioane umbrite și straturi de flori colorate.",
+                  "category": "park",
+                  "coords": [
+                        120.684006,
+                        24.193912
+                  ]
+            },
+            {
+                  "name": "Renhe Fude Park",
+                  "text": "Un parc local centrat în jurul unui altar tradițional al zeului Pământului, îmbinând verdeața cu moștenirea spirituală.",
+                  "category": "park",
+                  "coords": [
+                        120.678575,
+                        24.181889
+                  ]
+            },
+            {
+                  "name": "Shuinan Ecological Park",
+                  "text": "Un parc urban de zone umede conceput pentru a păstra biodiversitatea autohtonă în zona reamenajată Shuinan.",
+                  "category": "park",
+                  "coords": [
+                        120.678572,
+                        24.179514
+                  ]
+            },
+            {
+                  "name": "Taichung Folklore Park",
+                  "text": "Un parc cultural care prezintă arhitectura tradițională în stil Minnan, artefacte populare și expoziții despre stilul de viață istoric.",
+                  "category": "park",
+                  "coords": [
+                        120.687306,
+                        24.175023
+                  ]
+            },
+            {
+                  "name": "the hope",
+                  "text": "Un centru comunitar creștin modern care oferă servicii spirituale în apropierea parcului științific central.",
+                  "category": "landmark",
+                  "coords": [
+                        120.658584,
+                        24.170583
+                  ]
+            },
+            {
+                  "name": "Songzhu Fude Temple",
+                  "text": "Un lăcaș de cult tradițional care deservește comunitatea locală, prezentând arhitectură clasică de templu taiwanez.",
+                  "category": "religious",
+                  "coords": [
+                        120.687595,
+                        24.181803
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "An Eco Lifestyle",
+                  "text": "A modern attraction promoting sustainable living and green initiatives near the science park.",
+                  "category": "landmark",
+                  "coords": [
+                        120.670253,
+                        24.216447
+                  ]
+            },
+            {
+                  "name": "Cycling Culture Museum",
+                  "text": "A dedicated museum showcasing the evolution of bicycles and Taiwan's prominent cycling industry.",
+                  "category": "museum",
+                  "coords": [
+                        120.611311,
+                        24.208654
+                  ]
+            },
+            {
+                  "name": "Jiujia Park",
+                  "text": "A landscaped urban park providing green recreational spaces near the Central Taiwan Science Park.",
+                  "category": "park",
+                  "coords": [
+                        120.696123,
+                        24.184581
+                  ]
+            },
+            {
+                  "name": "Jiushe Park",
+                  "text": "An urban park featuring paved walking paths and a traditional lotus pond for local residents.",
+                  "category": "park",
+                  "coords": [
+                        120.700364,
+                        24.181117
+                  ]
+            },
+            {
+                  "name": "Chaochun Park",
+                  "text": "A neighbourhood park offering shaded paths and community leisure facilities in the science park district.",
+                  "category": "park",
+                  "coords": [
+                        120.68887,
+                        24.194655
+                  ]
+            },
+            {
+                  "name": "Zhaixing Villa",
+                  "text": "A beautifully preserved traditional courtyard mansion showcasing intricate Taiwanese wood carvings and brickwork.",
+                  "category": "recreational",
+                  "coords": [
+                        120.697133,
+                        24.224528
+                  ]
+            },
+            {
+                  "name": "Sizhangli Park",
+                  "text": "A spacious green area equipped with sports facilities and lawns for the local community.",
+                  "category": "park",
+                  "coords": [
+                        120.681284,
+                        24.195268
+                  ]
+            },
+            {
+                  "name": "Luce Memorial Chapel",
+                  "text": "An iconic modernist Christian chapel with a striking tent-like structure located on the campus of Tunghai University.",
+                  "category": "religious",
+                  "coords": [
+                        120.600546,
+                        24.178893
+                  ]
+            },
+            {
+                  "name": "West Da Dun Park",
+                  "text": "A community park featuring open lawns and walking trails near the bustling science park district.",
+                  "category": "park",
+                  "coords": [
+                        120.635503,
+                        24.17808
+                  ]
+            },
+            {
+                  "name": "Wen Xiu Park",
+                  "text": "A quiet urban green space offering shaded seating areas amidst the bustling city environment.",
+                  "category": "park",
+                  "coords": [
+                        120.641946,
+                        24.183671
+                  ]
+            },
+            {
+                  "name": "Fengjia Night Market",
+                  "text": "One of Taiwan's largest night markets, famous for its innovative street food and vibrant late-night shopping.",
+                  "category": "landmark",
+                  "coords": [
+                        120.645963,
+                        24.178061
+                  ]
+            },
+            {
+                  "name": "Fuxing Park",
+                  "text": "A family-friendly urban park featuring playgrounds and tree-lined walkways near the commercial district.",
+                  "category": "park",
+                  "coords": [
+                        120.649036,
+                        24.172259
+                  ]
+            },
+            {
+                  "name": "Shang Shi Park",
+                  "text": "A small landscaped park offering a tranquil resting spot for pedestrians in the surrounding urban grid.",
+                  "category": "park",
+                  "coords": [
+                        120.644734,
+                        24.172788
+                  ]
+            },
+            {
+                  "name": "Fengjia Park",
+                  "text": "A verdant recreational area providing a peaceful escape just steps away from the energetic Fengjia University district.",
+                  "category": "park",
+                  "coords": [
+                        120.640554,
+                        24.17697
+                  ]
+            },
+            {
+                  "name": "Taichung Central Park",
+                  "text": "A massive urban park built on a former airport, featuring modern ecological installations and vast green expanses.",
+                  "category": "park",
+                  "coords": [
+                        120.653641,
+                        24.186921
+                  ]
+            },
+            {
+                  "name": "Xinping Park",
+                  "text": "An open neighborhood park that serves as a popular gathering place with its spacious grassy areas.",
+                  "category": "park",
+                  "coords": [
+                        120.66207,
+                        24.185944
+                  ]
+            },
+            {
+                  "name": "Lei Hu Park",
+                  "text": "A carefully maintained local park with landscaped gardens to serve the science park's residential zones.",
+                  "category": "park",
+                  "coords": [
+                        120.667598,
+                        24.182246
+                  ]
+            },
+            {
+                  "name": "Rende Park",
+                  "text": "A neighborhood green space offering recreational paths and outdoor fitness equipment.",
+                  "category": "park",
+                  "coords": [
+                        120.678608,
+                        24.191565
+                  ]
+            },
+            {
+                  "name": "Siping Park",
+                  "text": "A quiet suburban park lined with native trees, offering a relaxing environment for daily strolls.",
+                  "category": "park",
+                  "coords": [
+                        120.68003,
+                        24.19217
+                  ]
+            },
+            {
+                  "name": "Luguang Park",
+                  "text": "A small community park featuring shaded pavilions and colorful flower beds.",
+                  "category": "park",
+                  "coords": [
+                        120.684006,
+                        24.193912
+                  ]
+            },
+            {
+                  "name": "Renhe Fude Park",
+                  "text": "A local park centered around a traditional earth god shrine, blending greenery with spiritual heritage.",
+                  "category": "park",
+                  "coords": [
+                        120.678575,
+                        24.181889
+                  ]
+            },
+            {
+                  "name": "Shuinan Ecological Park",
+                  "text": "An urban wetland park designed to preserve native biodiversity within the redeveloped Shuinan area.",
+                  "category": "park",
+                  "coords": [
+                        120.678572,
+                        24.179514
+                  ]
+            },
+            {
+                  "name": "Taichung Folklore Park",
+                  "text": "A cultural park showcasing traditional Minnan-style architecture, folk artifacts, and historical lifestyle exhibits.",
+                  "category": "park",
+                  "coords": [
+                        120.687306,
+                        24.175023
+                  ]
+            },
+            {
+                  "name": "the hope",
+                  "text": "A modern Christian community center offering spiritual services near the central science park.",
+                  "category": "landmark",
+                  "coords": [
+                        120.658584,
+                        24.170583
+                  ]
+            },
+            {
+                  "name": "Songzhu Fude Temple",
+                  "text": "A traditional place of worship serving the local community, featuring classic Taiwanese temple architecture.",
+                  "category": "religious",
+                  "coords": [
+                        120.687595,
+                        24.181803
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TW-TXG",
     coords: [120.612, 24.208],
@@ -387,7 +4995,736 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
     },
   },
   {
-    id: "jinguashi-gold-mine-economic-v2",
+    id: "jinguashi-gold-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Danlishan",
+                  "text": "Dieser Gipfel überblickt die historischen Bergbaugebiete und zeichnet sich durch steile, grasbewachsene Hänge aus, die von den starken Küstenwinden geformt wurden.",
+                  "category": "natural",
+                  "coords": [
+                        121.907275,
+                        25.055861
+                  ]
+            },
+            {
+                  "name": "Shuifangangshan",
+                  "text": "Eine markante Erhebung nahe den alten Goldminen, die Wanderern einen rauen Pfad bietet, der sich durch historische, längst verlassene Bergbauruinen schlängelt.",
+                  "category": "natural",
+                  "coords": [
+                        121.911577,
+                        25.030556
+                  ]
+            },
+            {
+                  "name": "Jiufenkengshan",
+                  "text": "Ein historisch bedeutsamer Berg, dessen tieferliegende Geologie während des Goldrausches der Region im 20. Jahrhundert intensiv abgebaut wurde.",
+                  "category": "natural",
+                  "coords": [
+                        121.890482,
+                        25.041921
+                  ]
+            },
+            {
+                  "name": "Baoshishan Lookout",
+                  "text": "Eine sehr gut zugängliche Aussichtsplattform, berühmt für ihren Panoramablick über die gewundenen Bergstraßen und das zweifarbige Yin-Yang-Meer.",
+                  "category": "natural",
+                  "coords": [
+                        121.859562,
+                        25.113107
+                  ]
+            },
+            {
+                  "name": "1941 incident memorial",
+                  "text": "Dieses feierliche Steindenkmal erinnert an die tragischen Ereignisse von 1941 und ehrt die lokalen Bergleute, die während der Besatzung ihr Leben verloren.",
+                  "category": "historical",
+                  "coords": [
+                        121.857937,
+                        25.108209
+                  ]
+            },
+            {
+                  "name": "Mudanshan",
+                  "text": "Ein markanter grüner Gipfel im Bergbaurevier, der durch steile Wanderwege gekennzeichnet ist, die oft durch tief hängenden Küstennebel führen.",
+                  "category": "natural",
+                  "coords": [
+                        121.852662,
+                        25.092902
+                  ]
+            },
+            {
+                  "name": "Nancaoshan",
+                  "text": "Dieser Teil des grünen Bergkamms ist mit Chinaschilf bedeckt und bietet weite Ausblicke in Richtung Pazifik.",
+                  "category": "natural",
+                  "coords": [
+                        121.877413,
+                        25.075843
+                  ]
+            },
+            {
+                  "name": "Caoshan",
+                  "text": "Ein rauer, grasbewachsener Gipfel, der ein Netzwerk von historischen Pfaden verankert, die ursprünglich von Goldsuchern zur Überquerung des steilen Geländes genutzt wurden.",
+                  "category": "natural",
+                  "coords": [
+                        121.875801,
+                        25.094417
+                  ]
+            },
+            {
+                  "name": "Canguangliaoshan",
+                  "text": "Als einer der höchsten Punkte in der unmittelbaren Umgebung bietet dieser Berg Wanderern anspruchsvolle Anstiege und ein 360-Grad-Panorama der alten Goldgräberstädte.",
+                  "category": "natural",
+                  "coords": [
+                        121.865633,
+                        25.093025
+                  ]
+            },
+            {
+                  "name": "Banpingshan",
+                  "text": "Erkennbar an seinem halbflachen, klingenartigen felsigen Kamm, ist dieser Berg ein Favorit zum Klettern und für den Genuss von dramatischen Ausblicken von den Klippen.",
+                  "category": "natural",
+                  "coords": [
+                        121.868384,
+                        25.101627
+                  ]
+            },
+            {
+                  "name": "Old ghost waterfall",
+                  "text": "Versteckt in einer üppigen Schlucht entlang der Bergbaupfade ergießt sich dieser stimmungsvolle Wasserfall über moosbewachsene Felsen.",
+                  "category": "landmark",
+                  "coords": [
+                        121.877732,
+                        25.106683
+                  ]
+            },
+            {
+                  "name": "Teapot Mountain",
+                  "text": "Benannt nach seinem markanten felsigen Gipfel, der einer henkellosen Teekanne ähnelt, ist dieser ikonische Berg eine der Hauptwanderungen im Gebiet von Jinguashi.",
+                  "category": "natural",
+                  "coords": [
+                        121.865935,
+                        25.106363
+                  ]
+            },
+            {
+                  "name": "Hongmaoshan",
+                  "text": "Ein steiler, dicht bewachsener Gipfel, der sich abrupt über die zerklüftete Küstenlinie und die historische Bergbauinfrastruktur erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        121.895756,
+                        25.101235
+                  ]
+            },
+            {
+                  "name": "Meiyanshan",
+                  "text": "Als Teil der grünen Bergkulisse für die Küstenbergbaudörfer bietet dieser Gipfel einen anspruchsvollen, windgepeitschten Aufstieg.",
+                  "category": "natural",
+                  "coords": [
+                        121.918967,
+                        25.068178
+                  ]
+            },
+            {
+                  "name": "Huoyanshan",
+                  "text": "Ein Berggipfel, der Wanderern raue Pfade und weite Ausblicke über die Region Jinguashi bietet.",
+                  "category": "natural",
+                  "coords": [
+                        121.921374,
+                        25.064889
+                  ]
+            },
+            {
+                  "name": "Goldmine Museum",
+                  "text": "Ein lokales Museum, das das industrielle Erbe und die Bergbauartefakte aus der Zeit des Goldrauschs in Jinguashi bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        121.856975,
+                        25.108221
+                  ]
+            },
+            {
+                  "name": "Ōgon Shrine",
+                  "text": "Ein ehemaliger Shinto-Schrein, dessen verbliebene Steinsäulen heute als malerischer Aussichtspunkt über die Bergbaulandschaft von Jinguashi dienen.",
+                  "category": "natural",
+                  "coords": [
+                        121.858652,
+                        25.104957
+                  ]
+            },
+            {
+                  "name": "Yen-liao Beach Park",
+                  "text": "Ein Küstenpark mit einem langen, goldenen Sandstrand am Pazifischen Ozean nahe Jinguashi.",
+                  "category": "park",
+                  "coords": [
+                        121.927145,
+                        25.041837
+                  ]
+            },
+            {
+                  "name": "Jindu temple",
+                  "text": "Eine traditionelle Kultstätte mit klassischer, verzierter Dacharchitektur, die der lokalen Gemeinde von Jinguashi dient.",
+                  "category": "religious",
+                  "coords": [
+                        121.856401,
+                        25.112819
+                  ]
+            },
+            {
+                  "name": "Baomin Temple",
+                  "text": "Ein farbenprächtiger lokaler Tempel in der Nähe von Jinguashi, der gegründet wurde, um Segen und Schutz für die frühen Bergbaugemeinden zu erbitten.",
+                  "category": "religious",
+                  "coords": [
+                        121.853693,
+                        25.106014
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Danlishan",
+                  "text": "A történelmi bányaterületekre néző csúcsot az erős parti szelek által formált meredek, füves lejtői jellemzik.",
+                  "category": "natural",
+                  "coords": [
+                        121.907275,
+                        25.055861
+                  ]
+            },
+            {
+                  "name": "Shuifangangshan",
+                  "text": "Egy jellegzetes magaslat a régi aranybányák közelében, amely egy történelmi, rég elhagyatott bányaromok között kanyargó zord ösvényt kínál a túrázóknak.",
+                  "category": "natural",
+                  "coords": [
+                        121.911577,
+                        25.030556
+                  ]
+            },
+            {
+                  "name": "Jiufenkengshan",
+                  "text": "Egy történelmileg jelentős hegy, amelynek mélyebb geológiáját a régió 20. századi aranyláza idején kiterjedten bányászták.",
+                  "category": "natural",
+                  "coords": [
+                        121.890482,
+                        25.041921
+                  ]
+            },
+            {
+                  "name": "Baoshishan Lookout",
+                  "text": "Egy könnyen megközelíthető kilátó, amely a kanyargós hegyi utakra és a kétszínű Yin Yang-tengerre nyíló panorámás kilátásáról híres.",
+                  "category": "natural",
+                  "coords": [
+                        121.859562,
+                        25.113107
+                  ]
+            },
+            {
+                  "name": "1941 incident memorial",
+                  "text": "Ez az ünnepélyes kő emlékmű az 1941-es tragikus eseményeknek állít emléket, tisztelegve a megszállás alatt életüket vesztett helyi bányászok előtt.",
+                  "category": "historical",
+                  "coords": [
+                        121.857937,
+                        25.108209
+                  ]
+            },
+            {
+                  "name": "Mudanshan",
+                  "text": "A bányászati körzet egyik kiemelkedő zöld csúcsa, amelyet meredek túraösvények jellemeznek, és amelyek gyakran az alacsonyan szálló tengerparti ködön is áthatolnak.",
+                  "category": "natural",
+                  "coords": [
+                        121.852662,
+                        25.092902
+                  ]
+            },
+            {
+                  "name": "Nancaoshan",
+                  "text": "A zöldellő hegygerinc része, ezt a magaslatot ezüstfű borítja, és pazar kilátást nyújt a Csendes-óceán felé.",
+                  "category": "natural",
+                  "coords": [
+                        121.877413,
+                        25.075843
+                  ]
+            },
+            {
+                  "name": "Caoshan",
+                  "text": "Egy zord, füves csúcs, amely egy történelmi ösvényhálózatot fog össze, amit eredetileg a kincskeresők használtak a meredek terep átszelésére.",
+                  "category": "natural",
+                  "coords": [
+                        121.875801,
+                        25.094417
+                  ]
+            },
+            {
+                  "name": "Canguangliaoshan",
+                  "text": "A közvetlen környék egyik legmagasabb pontjaként ez a hegy megerőltető mászásokat és 360 fokos panorámát kínál a régi aranyvárosokra.",
+                  "category": "natural",
+                  "coords": [
+                        121.865633,
+                        25.093025
+                  ]
+            },
+            {
+                  "name": "Banpingshan",
+                  "text": "Félig lapos, pengeszerű sziklás gerincéről felismerhető hegy a hegymászók kedvence, akik a drámai sziklafalak nyújtotta kilátást élvezik.",
+                  "category": "natural",
+                  "coords": [
+                        121.868384,
+                        25.101627
+                  ]
+            },
+            {
+                  "name": "Old ghost waterfall",
+                  "text": "A bányászati ösvények mentén egy buja szurdokban megbúvó hangulatos vízesés, amely mohás sziklákon zuhog alá.",
+                  "category": "landmark",
+                  "coords": [
+                        121.877732,
+                        25.106683
+                  ]
+            },
+            {
+                  "name": "Teapot Mountain",
+                  "text": "A jellegzetes, fületlen teáskannára emlékeztető sziklás csúcsáról elnevezett ikonikus hegy a Jinguashi térség egyik legkedveltebb túraútvonala.",
+                  "category": "natural",
+                  "coords": [
+                        121.865935,
+                        25.106363
+                  ]
+            },
+            {
+                  "name": "Hongmaoshan",
+                  "text": "Egy meredek, sűrű növényzettel borított csúcs, amely meredeken magasodik a zord partvidék és a történelmi bányászati infrastruktúra fölé.",
+                  "category": "natural",
+                  "coords": [
+                        121.895756,
+                        25.101235
+                  ]
+            },
+            {
+                  "name": "Meiyanshan",
+                  "text": "A tengerparti bányászfalvak zöldellő hegyi hátterének részeként ez a csúcs kihívást jelentő, szélfútta emelkedőt kínál.",
+                  "category": "natural",
+                  "coords": [
+                        121.918967,
+                        25.068178
+                  ]
+            },
+            {
+                  "name": "Huoyanshan",
+                  "text": "Egy hegycsúcs, amely sziklás ösvényekkel és a Jinguashi térségre nyíló széles kilátással várja a túrázókat.",
+                  "category": "natural",
+                  "coords": [
+                        121.921374,
+                        25.064889
+                  ]
+            },
+            {
+                  "name": "Goldmine Museum",
+                  "text": "Egy helyi múzeum, amely a Jinguashi aranyláz korszakának ipari örökségét és bányászati relikviáit őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        121.856975,
+                        25.108221
+                  ]
+            },
+            {
+                  "name": "Ōgon Shrine",
+                  "text": "Egy egykori sintoista szentély, melynek fennmaradt kőoszlopai ma festői kilátóként szolgálnak a Jinguashi bányavidékre.",
+                  "category": "natural",
+                  "coords": [
+                        121.858652,
+                        25.104957
+                  ]
+            },
+            {
+                  "name": "Yen-liao Beach Park",
+                  "text": "Egy tengerparti park Jinguashi közelében, amely egy hosszan elnyúló aranyhomokos partszakasszal tekint a Csendes-óceánra.",
+                  "category": "park",
+                  "coords": [
+                        121.927145,
+                        25.041837
+                  ]
+            },
+            {
+                  "name": "Jindu temple",
+                  "text": "Egy hagyományos, klasszikus díszített tetőszerkezettel rendelkező szentély, amely a helyi Jinguashi közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        121.856401,
+                        25.112819
+                  ]
+            },
+            {
+                  "name": "Baomin Temple",
+                  "text": "Egy élénk színekkel díszített helyi templom Jinguashi közelében, amelyet a korai bányászközösségek áldásának és védelmének kérésére hoztak létre.",
+                  "category": "religious",
+                  "coords": [
+                        121.853693,
+                        25.106014
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Danlishan",
+                  "text": "Având vedere la zonele miniere istorice, acest vârf se caracterizează prin pantele sale abrupte și ierboase, modelate de vânturile puternice de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        121.907275,
+                        25.055861
+                  ]
+            },
+            {
+                  "name": "Shuifangangshan",
+                  "text": "O elevație distinctă în apropierea vechilor mine de aur, oferind excursioniștilor o potecă accidentată care șerpuiește printre ruinele istorice, mult timp abandonate ale minelor.",
+                  "category": "natural",
+                  "coords": [
+                        121.911577,
+                        25.030556
+                  ]
+            },
+            {
+                  "name": "Jiufenkengshan",
+                  "text": "Un munte cu semnificație istorică a cărui geologie subiacentă a fost excavată intens în timpul goanei după aur din secolul al XX-lea din regiune.",
+                  "category": "natural",
+                  "coords": [
+                        121.890482,
+                        25.041921
+                  ]
+            },
+            {
+                  "name": "Baoshishan Lookout",
+                  "text": "O punte de observație foarte accesibilă, renumită pentru vederea panoramică asupra drumurilor montane șerpuitoare și a Mării Yin Yang în două culori.",
+                  "category": "natural",
+                  "coords": [
+                        121.859562,
+                        25.113107
+                  ]
+            },
+            {
+                  "name": "1941 incident memorial",
+                  "text": "Acest memorial solemn de piatră comemorează evenimentele tragice din 1941, onorând minerii locali care și-au pierdut viața în timpul ocupației.",
+                  "category": "historical",
+                  "coords": [
+                        121.857937,
+                        25.108209
+                  ]
+            },
+            {
+                  "name": "Mudanshan",
+                  "text": "Un vârf verde proeminent în districtul minier, caracterizat de trasee abrupte de drumeție care deseori străpung ceața de coastă care atârnă jos.",
+                  "category": "natural",
+                  "coords": [
+                        121.852662,
+                        25.092902
+                  ]
+            },
+            {
+                  "name": "Nancaoshan",
+                  "text": "O parte a crestei muntoase verzi, această elevație este acoperită cu iarbă de argint și oferă priveliști ample spre Pacific.",
+                  "category": "natural",
+                  "coords": [
+                        121.877413,
+                        25.075843
+                  ]
+            },
+            {
+                  "name": "Caoshan",
+                  "text": "Un vârf accidentat și ierbos care ancorează o rețea de trasee istorice folosite inițial de prospectori pentru a traversa terenul abrupt.",
+                  "category": "natural",
+                  "coords": [
+                        121.875801,
+                        25.094417
+                  ]
+            },
+            {
+                  "name": "Canguangliaoshan",
+                  "text": "Fiind unul dintre cele mai înalte puncte din zona imediată, acest munte oferă excursioniștilor urcări solicitante și o panoramă de 360 de grade a vechilor orașe de aur.",
+                  "category": "natural",
+                  "coords": [
+                        121.865633,
+                        25.093025
+                  ]
+            },
+            {
+                  "name": "Banpingshan",
+                  "text": "Recunoscut după creasta sa stâncoasă pe jumătate plată, asemănătoare unei lame, acest munte este un favorit pentru cățărare și pentru a te bucura de vederi dramatice pe marginea stâncii.",
+                  "category": "natural",
+                  "coords": [
+                        121.868384,
+                        25.101627
+                  ]
+            },
+            {
+                  "name": "Old ghost waterfall",
+                  "text": "Ascunsă într-un defileu luxuriant de-a lungul traseelor miniere, această cascadă atmosferică cade peste stânci acoperite de mușchi.",
+                  "category": "landmark",
+                  "coords": [
+                        121.877732,
+                        25.106683
+                  ]
+            },
+            {
+                  "name": "Teapot Mountain",
+                  "text": "Numit după vârful său stâncos distinctiv, care seamănă cu un ceainic fără toartă, acest vârf emblematic este o drumeție de bază în zona Jinguashi.",
+                  "category": "natural",
+                  "coords": [
+                        121.865935,
+                        25.106363
+                  ]
+            },
+            {
+                  "name": "Hongmaoshan",
+                  "text": "Un vârf abrupt, cu vegetație densă, care se înalță brusc deasupra liniei de coastă accidentate și a infrastructurii miniere istorice.",
+                  "category": "natural",
+                  "coords": [
+                        121.895756,
+                        25.101235
+                  ]
+            },
+            {
+                  "name": "Meiyanshan",
+                  "text": "Făcând parte din fundalul muntos verde pentru satele miniere de coastă, acest vârf oferă o ascensiune provocatoare, bătută de vânt.",
+                  "category": "natural",
+                  "coords": [
+                        121.918967,
+                        25.068178
+                  ]
+            },
+            {
+                  "name": "Huoyanshan",
+                  "text": "Un vârf de munte care oferă drumeților trasee accidentate și vederi panoramice peste zona Jinguashi.",
+                  "category": "natural",
+                  "coords": [
+                        121.921374,
+                        25.064889
+                  ]
+            },
+            {
+                  "name": "Goldmine Museum",
+                  "text": "Un muzeu local care conservă moștenirea industrială și artefactele miniere din epoca goanei după aur din Jinguashi.",
+                  "category": "museum",
+                  "coords": [
+                        121.856975,
+                        25.108221
+                  ]
+            },
+            {
+                  "name": "Ōgon Shrine",
+                  "text": "Un fost altar șintoist, ai cărui stâlpi de piatră rămași servesc acum drept punct de belvedere pitoresc peste peisajul minier din Jinguashi.",
+                  "category": "natural",
+                  "coords": [
+                        121.858652,
+                        25.104957
+                  ]
+            },
+            {
+                  "name": "Yen-liao Beach Park",
+                  "text": "Un parc de coastă lângă Jinguashi, care se mândrește cu o lungă întindere de nisip auriu orientată spre Oceanul Pacific.",
+                  "category": "park",
+                  "coords": [
+                        121.927145,
+                        25.041837
+                  ]
+            },
+            {
+                  "name": "Jindu temple",
+                  "text": "Un lăcaș de cult tradițional cu o arhitectură clasică a acoperișului ornamentat, care deservește comunitatea locală din Jinguashi.",
+                  "category": "religious",
+                  "coords": [
+                        121.856401,
+                        25.112819
+                  ]
+            },
+            {
+                  "name": "Baomin Temple",
+                  "text": "Un templu local viu colorat de lângă Jinguashi, înființat pentru a căuta binecuvântări și protecție pentru primele comunități miniere.",
+                  "category": "religious",
+                  "coords": [
+                        121.853693,
+                        25.106014
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Danlishan",
+                  "text": "Overlooking the historical mining areas, this peak is characterized by its steep, grassy slopes shaped by the strong coastal winds.",
+                  "category": "natural",
+                  "coords": [
+                        121.907275,
+                        25.055861
+                  ]
+            },
+            {
+                  "name": "Shuifangangshan",
+                  "text": "A distinct elevation near the old gold mines, offering hikers a rugged path winding through historic, long-abandoned mining ruins.",
+                  "category": "natural",
+                  "coords": [
+                        121.911577,
+                        25.030556
+                  ]
+            },
+            {
+                  "name": "Jiufenkengshan",
+                  "text": "A historically significant mountain whose underlying geology was extensively excavated during the region's 20th-century gold rush.",
+                  "category": "natural",
+                  "coords": [
+                        121.890482,
+                        25.041921
+                  ]
+            },
+            {
+                  "name": "Baoshishan Lookout",
+                  "text": "A very accessible observation deck famous for its panoramic views over the winding mountain roads and the dual-colored Yin Yang Sea.",
+                  "category": "natural",
+                  "coords": [
+                        121.859562,
+                        25.113107
+                  ]
+            },
+            {
+                  "name": "1941 incident memorial",
+                  "text": "This solemn stone memorial commemorates the tragic events of 1941, honoring the local miners who lost their lives during the occupation.",
+                  "category": "historical",
+                  "coords": [
+                        121.857937,
+                        25.108209
+                  ]
+            },
+            {
+                  "name": "Mudanshan",
+                  "text": "A prominent green peak in the mining district, characterized by steep hiking trails that often pierce through low-hanging coastal fog.",
+                  "category": "natural",
+                  "coords": [
+                        121.852662,
+                        25.092902
+                  ]
+            },
+            {
+                  "name": "Nancaoshan",
+                  "text": "Part of the verdant mountain ridge, this elevation is covered in silvergrass and offers sweeping vistas towards the Pacific.",
+                  "category": "natural",
+                  "coords": [
+                        121.877413,
+                        25.075843
+                  ]
+            },
+            {
+                  "name": "Caoshan",
+                  "text": "A rugged, grassy summit that anchors a network of historic trails originally used by prospectors to cross the steep terrain.",
+                  "category": "natural",
+                  "coords": [
+                        121.875801,
+                        25.094417
+                  ]
+            },
+            {
+                  "name": "Canguangliaoshan",
+                  "text": "As one of the highest points in the immediate area, this mountain offers hikers demanding climbs and a 360-degree panorama of the old gold towns.",
+                  "category": "natural",
+                  "coords": [
+                        121.865633,
+                        25.093025
+                  ]
+            },
+            {
+                  "name": "Banpingshan",
+                  "text": "Recognizable by its half-flat, blade-like rocky ridge, this mountain is a favorite for scrambling and enjoying dramatic cliffside views.",
+                  "category": "natural",
+                  "coords": [
+                        121.868384,
+                        25.101627
+                  ]
+            },
+            {
+                  "name": "Old ghost waterfall",
+                  "text": "Hidden in a lush gorge along the mining trails, this atmospheric cascading waterfall cascades over mossy rocks.",
+                  "category": "landmark",
+                  "coords": [
+                        121.877732,
+                        25.106683
+                  ]
+            },
+            {
+                  "name": "Teapot Mountain",
+                  "text": "Named for its distinctive rocky summit that resembles a handleless teapot, this iconic peak is a staple hike in the Jinguashi area.",
+                  "category": "natural",
+                  "coords": [
+                        121.865935,
+                        25.106363
+                  ]
+            },
+            {
+                  "name": "Hongmaoshan",
+                  "text": "A steep, densely vegetated peak that rises abruptly above the rugged coastline and the historic mining infrastructure.",
+                  "category": "natural",
+                  "coords": [
+                        121.895756,
+                        25.101235
+                  ]
+            },
+            {
+                  "name": "Meiyanshan",
+                  "text": "Forming part of the verdant mountain backdrop to the coastal mining villages, this summit provides a challenging, wind-swept ascent.",
+                  "category": "natural",
+                  "coords": [
+                        121.918967,
+                        25.068178
+                  ]
+            },
+            {
+                  "name": "Huoyanshan",
+                  "text": "A mountain peak offering hikers rugged trails and sweeping views over the Jinguashi area.",
+                  "category": "natural",
+                  "coords": [
+                        121.921374,
+                        25.064889
+                  ]
+            },
+            {
+                  "name": "Goldmine Museum",
+                  "text": "A local museum preserving the industrial heritage and mining artifacts of the Jinguashi gold rush era.",
+                  "category": "museum",
+                  "coords": [
+                        121.856975,
+                        25.108221
+                  ]
+            },
+            {
+                  "name": "Ōgon Shrine",
+                  "text": "A former Shinto shrine whose remaining stone pillars now serve as a scenic viewpoint over the Jinguashi mining landscape.",
+                  "category": "natural",
+                  "coords": [
+                        121.858652,
+                        25.104957
+                  ]
+            },
+            {
+                  "name": "Yen-liao Beach Park",
+                  "text": "A coastal park featuring a long stretch of golden sand facing the Pacific Ocean near Jinguashi.",
+                  "category": "park",
+                  "coords": [
+                        121.927145,
+                        25.041837
+                  ]
+            },
+            {
+                  "name": "Jindu temple",
+                  "text": "A traditional place of worship serving the local Jinguashi community with its classic ornate roof architecture.",
+                  "category": "religious",
+                  "coords": [
+                        121.856401,
+                        25.112819
+                  ]
+            },
+            {
+                  "name": "Baomin Temple",
+                  "text": "A brightly colored local temple near Jinguashi, established to seek blessings and protection for the early mining communities.",
+                  "category": "religious",
+                  "coords": [
+                        121.853693,
+                        25.106014
+                  ]
+            }
+      ]
+},
     type: "mine",
     parent: "TW-NWT",
     coords: [121.859, 25.106],
@@ -435,7 +5772,412 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
     },
   },
   {
-    id: "maanshan-nuclear-power-plant-economic-v2",
+    id: "maanshan-nuclear-power-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "BPC008",
+                  "text": "BPC008 ist ein ausgewiesener lokaler Orientierungspunkt in der Nähe der industriellen Küstenzone, der hauptsächlich als Referenzmarkierung für die umliegende Infrastruktur dient.",
+                  "category": "landmark",
+                  "coords": [
+                        120.738377,
+                        21.921428
+                  ]
+            },
+            {
+                  "name": "Nuclear three plant outlet",
+                  "text": "Der Auslass des Kernkraftwerks drei ist ein industrielles Abflussgebiet, in dem warmes Abwasser unerwartet ein florierendes lokales Korallenriff-Umfeld gefördert hat.",
+                  "category": "landmark",
+                  "coords": [
+                        120.746227,
+                        21.931569
+                  ]
+            },
+            {
+                  "name": "Houbi Lake Marine Resources Protection Demonstration Zone",
+                  "text": "Die Houbi Lake Marine Resources Protection Demonstration Zone ist ein geschütztes Küstengebiet, das sich der Erhaltung der reichen marinen Artenvielfalt und der florierenden Korallenriffe widmet.",
+                  "category": "landmark",
+                  "coords": [
+                        120.74481,
+                        21.938893
+                  ]
+            },
+            {
+                  "name": "Star Sand Bay",
+                  "text": "Die Star Sand Bay ist eine bezaubernde Strandattraktion, die für ihre einzigartigen, sternförmigen Foraminiferen-Sandkörner bekannt ist, die sich unter die Muscheln an der Küste mischen.",
+                  "category": "landmark",
+                  "coords": [
+                        120.745235,
+                        21.942463
+                  ]
+            },
+            {
+                  "name": "Water to fish snorkeling hall",
+                  "text": "Diese Indoor-Schnorchelanlage nahe dem Kraftwerk Maanshan bietet Besuchern eine kontrollierte Umgebung, um mit der lokalen Meeresfauna zu schwimmen.",
+                  "category": "landmark",
+                  "coords": [
+                        120.704789,
+                        21.996389
+                  ]
+            },
+            {
+                  "name": "Boulder",
+                  "text": "Diese markante Felsformation an der Küste nahe dem Kraftwerk Maanshan ist ein beliebtes Naturdenkmal.",
+                  "category": "landmark",
+                  "coords": [
+                        120.702326,
+                        21.999665
+                  ]
+            },
+            {
+                  "name": "Maanshan",
+                  "text": "Dieser markante Gipfel erhebt sich über die Südküste und gibt der nahegelegenen Atomanlage Maanshan ihren Namen.",
+                  "category": "natural",
+                  "coords": [
+                        120.75773,
+                        21.961817
+                  ]
+            },
+            {
+                  "name": "Nanwan Recreation Area",
+                  "text": "Dieses lebhafte Küstenerholungsgebiet zeichnet sich durch einen langen, weichen Sandstrand mit Blick auf die South Bay aus.",
+                  "category": "landmark",
+                  "coords": [
+                        120.762971,
+                        21.959855
+                  ]
+            },
+            {
+                  "name": "Maobitou Park",
+                  "text": "Dieser Küstenpark liegt auf einem markanten Kap und bietet einzigartige Korallenriff-Formationen, die traditionell an eine kauernde Katze erinnern.",
+                  "category": "park",
+                  "coords": [
+                        120.736475,
+                        21.921794
+                  ]
+            },
+            {
+                  "name": "Baishawan Beach",
+                  "text": "Eingebettet in eine ruhige Bucht, wird dieser unberührte, 500 Meter lange weiße Sandstrand von üppiger tropischer Vegetation flankiert.",
+                  "category": "landmark",
+                  "coords": [
+                        120.717914,
+                        21.934244
+                  ]
+            },
+            {
+                  "name": "Sisal Industry Historical Monument",
+                  "text": "Dieses Industriemuseum bewahrt die historischen Verarbeitungsmaschinen der einst florierenden Sisalseil- und Faserindustrie der Region.",
+                  "category": "museum",
+                  "coords": [
+                        120.742028,
+                        21.965408
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "BPC008",
+                  "text": "A BPC008 egy kijelölt helyi nevezetesség a tengerparti ipari övezet közelében, amely elsősorban a környező infrastruktúra referenciapontjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        120.738377,
+                        21.921428
+                  ]
+            },
+            {
+                  "name": "Nuclear three plant outlet",
+                  "text": "A hármas atomerőmű kifolyója egy olyan ipari kifolyási terület, ahol a meleg kifolyó vizek váratlanul egy virágzó helyi korallzátony-környezetet hoztak létre.",
+                  "category": "landmark",
+                  "coords": [
+                        120.746227,
+                        21.931569
+                  ]
+            },
+            {
+                  "name": "Houbi Lake Marine Resources Protection Demonstration Zone",
+                  "text": "A Houbi-tó Tengeri Erőforrások Védelmi Demonstrációs Zónája egy védett tengerparti terület, amelyet a gazdag tengeri biológiai sokféleség és a virágzó korallzátonyok megőrzésének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        120.74481,
+                        21.938893
+                  ]
+            },
+            {
+                  "name": "Star Sand Bay",
+                  "text": "A Csillaghomok-öböl egy bájos strandlátványosság, amely egyedülálló, csillag alakú foraminifera homokszemcséiről híres, amelyek a parti kagylók közé keverednek.",
+                  "category": "landmark",
+                  "coords": [
+                        120.745235,
+                        21.942463
+                  ]
+            },
+            {
+                  "name": "Water to fish snorkeling hall",
+                  "text": "Ez a Maanshan erőmű közelében található fedett sznorkelező központ lehetőséget nyújt a látogatóknak, hogy a helyi tengeri élőlényekkel ússzanak.",
+                  "category": "landmark",
+                  "coords": [
+                        120.704789,
+                        21.996389
+                  ]
+            },
+            {
+                  "name": "Boulder",
+                  "text": "A Maanshan erőmű közelében, a partvonal mentén fekvő kiemelkedő sziklaképződmény egy népszerű természeti látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        120.702326,
+                        21.999665
+                  ]
+            },
+            {
+                  "name": "Maanshan",
+                  "text": "Ez a déli partvidék fölé magasodó jellegzetes hegycsúcs adta a nevét a közeli Maanshan nukleáris létesítménynek.",
+                  "category": "natural",
+                  "coords": [
+                        120.75773,
+                        21.961817
+                  ]
+            },
+            {
+                  "name": "Nanwan Recreation Area",
+                  "text": "Ez a nyüzsgő partmenti rekreációs terület egy hosszú, finom homokos stranddal büszkélkedhet, amely a South Bay vizeire néz.",
+                  "category": "landmark",
+                  "coords": [
+                        120.762971,
+                        21.959855
+                  ]
+            },
+            {
+                  "name": "Maobitou Park",
+                  "text": "Ez a kiemelkedő fokon fekvő tengerparti park olyan egyedi korallzátony-képződményekkel rendelkezik, amelyek egy guggoló macskára hasonlítanak.",
+                  "category": "park",
+                  "coords": [
+                        120.736475,
+                        21.921794
+                  ]
+            },
+            {
+                  "name": "Baishawan Beach",
+                  "text": "Ez a csendes öbölben megbúvó, érintetlen, 500 méter hosszú, fehér homokos strand buja trópusi növényzettel van övezve.",
+                  "category": "landmark",
+                  "coords": [
+                        120.717914,
+                        21.934244
+                  ]
+            },
+            {
+                  "name": "Sisal Industry Historical Monument",
+                  "text": "Ez az ipari múzeum a régió egykor virágzó szizálkötél- és rostiparának korabeli feldolgozógépeit őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        120.742028,
+                        21.965408
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "BPC008",
+                  "text": "BPC008 este un punct de interes local desemnat situat în apropierea zonei industriale de coastă, servind în principal ca reper de referință pentru infrastructura din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        120.738377,
+                        21.921428
+                  ]
+            },
+            {
+                  "name": "Nuclear three plant outlet",
+                  "text": "Evacuarea celei de-a treia centrale nucleare este o zonă de scurgere industrială unde apele calde evacuate au favorizat în mod neașteptat un mediu prosper de recif de corali localizat.",
+                  "category": "landmark",
+                  "coords": [
+                        120.746227,
+                        21.931569
+                  ]
+            },
+            {
+                  "name": "Houbi Lake Marine Resources Protection Demonstration Zone",
+                  "text": "Zona demonstrativă de protecție a resurselor marine a lacului Houbi este o zonă de coastă protejată dedicată conservării biodiversității marine bogate și a recifelor de corali înfloritoare.",
+                  "category": "landmark",
+                  "coords": [
+                        120.74481,
+                        21.938893
+                  ]
+            },
+            {
+                  "name": "Star Sand Bay",
+                  "text": "Golful Star Sand este o atracție de plajă fermecătoare, faimoasă pentru boabele sale unice de nisip de foraminifere în formă de stea amestecate printre scoicile de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        120.745235,
+                        21.942463
+                  ]
+            },
+            {
+                  "name": "Water to fish snorkeling hall",
+                  "text": "Această atracție de snorkeling de interior de lângă centrala Maanshan oferă vizitatorilor un mediu controlat pentru a înota alături de fauna marină.",
+                  "category": "landmark",
+                  "coords": [
+                        120.704789,
+                        21.996389
+                  ]
+            },
+            {
+                  "name": "Boulder",
+                  "text": "Situată de-a lungul coastei lângă centrala Maanshan, această formațiune stâncoasă proeminentă este un reper natural popular.",
+                  "category": "landmark",
+                  "coords": [
+                        120.702326,
+                        21.999665
+                  ]
+            },
+            {
+                  "name": "Maanshan",
+                  "text": "Acest vârf distinct se înalță deasupra coastei sudice, dând numele său unității nucleare Maanshan din apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        120.75773,
+                        21.961817
+                  ]
+            },
+            {
+                  "name": "Nanwan Recreation Area",
+                  "text": "Această zonă de recreere de coastă plină de viață are o plajă lungă cu nisip fin, cu vedere la apele South Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        120.762971,
+                        21.959855
+                  ]
+            },
+            {
+                  "name": "Maobitou Park",
+                  "text": "Situat pe un cap proeminent, acest parc de coastă prezintă formațiuni unice de recif de corali care seamănă tradițional cu o pisică ghemuită.",
+                  "category": "park",
+                  "coords": [
+                        120.736475,
+                        21.921794
+                  ]
+            },
+            {
+                  "name": "Baishawan Beach",
+                  "text": "Amplasată într-un golf liniștit, această plajă curată cu nisip alb, lungă de 500 de metri, este flancată de o vegetație tropicală luxuriantă.",
+                  "category": "landmark",
+                  "coords": [
+                        120.717914,
+                        21.934244
+                  ]
+            },
+            {
+                  "name": "Sisal Industry Historical Monument",
+                  "text": "Acest muzeu industrial păstrează utilajele de procesare de epocă ale industriei odinioară înfloritoare de frânghii și fibre de sisal din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        120.742028,
+                        21.965408
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "BPC008",
+                  "text": "BPC008 is a designated local point of interest located near the coastal industrial zone, primarily serving as a reference marker for the surrounding infrastructure.",
+                  "category": "landmark",
+                  "coords": [
+                        120.738377,
+                        21.921428
+                  ]
+            },
+            {
+                  "name": "Nuclear three plant outlet",
+                  "text": "The Nuclear three plant outlet is an industrial outflow area where warm discharged waters have unexpectedly fostered a thriving localized coral reef environment.",
+                  "category": "landmark",
+                  "coords": [
+                        120.746227,
+                        21.931569
+                  ]
+            },
+            {
+                  "name": "Houbi Lake Marine Resources Protection Demonstration Zone",
+                  "text": "The Houbi Lake Marine Resources Protection Demonstration Zone is a safeguarded coastal area dedicated to the conservation of rich marine biodiversity and thriving coral reefs.",
+                  "category": "landmark",
+                  "coords": [
+                        120.74481,
+                        21.938893
+                  ]
+            },
+            {
+                  "name": "Star Sand Bay",
+                  "text": "Star Sand Bay is a charming beach attraction famous for its unique, star-shaped foraminifera sand grains mixed among the coastal seashells.",
+                  "category": "landmark",
+                  "coords": [
+                        120.745235,
+                        21.942463
+                  ]
+            },
+            {
+                  "name": "Water to fish snorkeling hall",
+                  "text": "This indoor snorkeling attraction near the Maanshan plant offers visitors a controlled environment to swim alongside local marine life.",
+                  "category": "landmark",
+                  "coords": [
+                        120.704789,
+                        21.996389
+                  ]
+            },
+            {
+                  "name": "Boulder",
+                  "text": "Resting along the shoreline near the Maanshan plant, this prominent coastal rock formation is a popular natural landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        120.702326,
+                        21.999665
+                  ]
+            },
+            {
+                  "name": "Maanshan",
+                  "text": "This distinct peak rises prominently over the southern coast, lending its name to the nearby Maanshan nuclear facility.",
+                  "category": "natural",
+                  "coords": [
+                        120.75773,
+                        21.961817
+                  ]
+            },
+            {
+                  "name": "Nanwan Recreation Area",
+                  "text": "This lively coastal recreation area features a long stretch of soft sandy beach overlooking the waters of South Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        120.762971,
+                        21.959855
+                  ]
+            },
+            {
+                  "name": "Maobitou Park",
+                  "text": "Located on a prominent cape, this coastal park features unique coral reef formations that traditionally resemble a crouching cat.",
+                  "category": "park",
+                  "coords": [
+                        120.736475,
+                        21.921794
+                  ]
+            },
+            {
+                  "name": "Baishawan Beach",
+                  "text": "Nestled in a quiet bay, this pristine 500-meter-long white sand beach is flanked by lush tropical vegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        120.717914,
+                        21.934244
+                  ]
+            },
+            {
+                  "name": "Sisal Industry Historical Monument",
+                  "text": "This industrial museum preserves the vintage processing machinery of the region's once-thriving sisal rope and fiber industry.",
+                  "category": "museum",
+                  "coords": [
+                        120.742028,
+                        21.965408
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "TW-PIF",
     coords: [120.751, 21.958],
@@ -483,7 +6225,268 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
     },
   },
   {
-    id: "port-of-taipei-economic-v2",
+    id: "port-of-taipei-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Xiaonanwanshan",
+                  "text": "Der Xiaonanwanshan ist ein schroffer Berggipfel, der anspruchsvolle Wanderwege und einen Panoramablick auf die umliegende Küstenlandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        121.355047,
+                        25.128343
+                  ]
+            },
+            {
+                  "name": "Watch sea under the bridge",
+                  "text": "Dieser geschützte Aussichtspunkt unter der Brücke bietet eine einzigartige, schattige Perspektive, um die heranrollenden Meereswellen zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        121.350797,
+                        25.129609
+                  ]
+            },
+            {
+                  "name": "Liao Tianding Temple",
+                  "text": "Dieser bemerkenswerte Tempel ist Liao Tianding gewidmet, einem legendären taiwanesischen Volkshelden, der wegen seines Widerstands gegen die Kolonialherrschaft oft mit Robin Hood verglichen wird.",
+                  "category": "religious",
+                  "coords": [
+                        121.396599,
+                        25.143636
+                  ]
+            },
+            {
+                  "name": "Formosa Fun Coast(Suspended)",
+                  "text": "Formosa Fun Coast war einst ein riesiger, belebter Wasserpark, bevor der Betrieb nach einem tragischen Brand im Jahr 2015 auf unbestimmte Zeit eingestellt wurde.",
+                  "category": "recreational",
+                  "coords": [
+                        121.389383,
+                        25.144534
+                  ]
+            },
+            {
+                  "name": "National Archives",
+                  "text": "Das von Bio Architecture Formosana entworfene und für die Eröffnung im Jahr 2025 geplante Nationalarchiv wird die wichtigsten historischen Dokumente der Republik China aufbewahren und ausstellen.",
+                  "category": "museum",
+                  "coords": [
+                        121.374107,
+                        25.073447
+                  ]
+            },
+            {
+                  "name": "Xunzhuangpu Fude Temple",
+                  "text": "Der Xunzhuangpu-Fude-Tempel ist ein traditioneller chinesischer Volksschrein, in dem Einheimische dem Erdgott Opfergaben für landwirtschaftlichen und wirtschaftlichen Wohlstand darbringen.",
+                  "category": "landmark",
+                  "coords": [
+                        121.391713,
+                        25.142421
+                  ]
+            },
+            {
+                  "name": "Jasons Market Place",
+                  "text": "Jasons Market Place ist ein gehobener Lebensmittelmarkt, der eine große Auswahl an importierten Feinkostartikeln und frischen Premium-Produkten bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        121.365971,
+                        25.070702
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Xiaonanwanshan",
+                  "text": "A Xiaonanwanshan egy zord hegycsúcs, amely kihívást jelentő túraútvonalakat és panorámás kilátást kínál a környező tengerparti tájra.",
+                  "category": "natural",
+                  "coords": [
+                        121.355047,
+                        25.128343
+                  ]
+            },
+            {
+                  "name": "Watch sea under the bridge",
+                  "text": "Ez a védett, híd alatti kilátópont egyedülálló, árnyékos perspektívát nyújt a közeledő óceáni hullámok megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        121.350797,
+                        25.129609
+                  ]
+            },
+            {
+                  "name": "Liao Tianding Temple",
+                  "text": "Ezt a nevezetes templomot Liao Tiandingnek, egy legendás tajvani népi hősnek szentelték, akit a gyarmati uralom elleni ellenállása miatt gyakran Robin Hoodhoz hasonlítanak.",
+                  "category": "religious",
+                  "coords": [
+                        121.396599,
+                        25.143636
+                  ]
+            },
+            {
+                  "name": "Formosa Fun Coast(Suspended)",
+                  "text": "A Formosa Fun Coast egykor egy hatalmas, nyüzsgő vízi park volt, mielőtt működését határozatlan időre felfüggesztették volna egy 2015-ös tragikus tűzvész után.",
+                  "category": "recreational",
+                  "coords": [
+                        121.389383,
+                        25.144534
+                  ]
+            },
+            {
+                  "name": "National Archives",
+                  "text": "A Bio Architecture Formosana által tervezett és a tervek szerint 2025-ben megnyíló Nemzeti Levéltár a Kínai Köztársaság legfontosabb történelmi dokumentumait fogja megőrizni és bemutatni.",
+                  "category": "museum",
+                  "coords": [
+                        121.374107,
+                        25.073447
+                  ]
+            },
+            {
+                  "name": "Xunzhuangpu Fude Temple",
+                  "text": "A Xunzhuangpu Fude templom egy hagyományos kínai népi szentély, ahol a helyiek a Föld Istenének visznek felajánlásokat a mezőgazdasági és kereskedelmi jólét érdekében.",
+                  "category": "landmark",
+                  "coords": [
+                        121.391713,
+                        25.142421
+                  ]
+            },
+            {
+                  "name": "Jasons Market Place",
+                  "text": "A Jasons Market Place egy előkelő élelmiszerpiac, amely importált ínyencségek és friss prémium termékek széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        121.365971,
+                        25.070702
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Xiaonanwanshan",
+                  "text": "Xiaonanwanshan este un vârf montan accidentat, care oferă trasee de drumeție provocatoare și vederi panoramice asupra peisajului de coastă din jur.",
+                  "category": "natural",
+                  "coords": [
+                        121.355047,
+                        25.128343
+                  ]
+            },
+            {
+                  "name": "Watch sea under the bridge",
+                  "text": "Acest punct de belvedere adăpostit sub pod oferă o perspectivă unică și umbrită pentru a privi valurile oceanului.",
+                  "category": "natural",
+                  "coords": [
+                        121.350797,
+                        25.129609
+                  ]
+            },
+            {
+                  "name": "Liao Tianding Temple",
+                  "text": "Acest templu remarcabil este dedicat lui Liao Tianding, un erou legendar al folclorului taiwanez, deseori comparat cu Robin Hood pentru rezistența sa împotriva dominației coloniale.",
+                  "category": "religious",
+                  "coords": [
+                        121.396599,
+                        25.143636
+                  ]
+            },
+            {
+                  "name": "Formosa Fun Coast(Suspended)",
+                  "text": "Formosa Fun Coast a fost cândva un parc acvatic masiv și plin de viață înainte ca operațiunile sale să fie suspendate pe termen nedeterminat în urma unui incendiu tragic din 2015.",
+                  "category": "recreational",
+                  "coords": [
+                        121.389383,
+                        25.144534
+                  ]
+            },
+            {
+                  "name": "National Archives",
+                  "text": "Proiectate de Bio Architecture Formosana și programate să se deschidă în 2025, Arhivele Naționale vor păstra și expune cele mai importante documente istorice ale Republicii Chineze.",
+                  "category": "museum",
+                  "coords": [
+                        121.374107,
+                        25.073447
+                  ]
+            },
+            {
+                  "name": "Xunzhuangpu Fude Temple",
+                  "text": "Templul Xunzhuangpu Fude este un altar popular tradițional chinezesc unde localnicii aduc ofrande Zeului Pământului pentru prosperitate agricolă și comercială.",
+                  "category": "landmark",
+                  "coords": [
+                        121.391713,
+                        25.142421
+                  ]
+            },
+            {
+                  "name": "Jasons Market Place",
+                  "text": "Jasons Market Place este o piață alimentară de lux care oferă o selecție largă de produse gastronomice din import și produse proaspete premium.",
+                  "category": "cultural",
+                  "coords": [
+                        121.365971,
+                        25.070702
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Xiaonanwanshan",
+                  "text": "Xiaonanwanshan is a rugged natural peak offering challenging hiking trails and panoramic views over the surrounding coastal landscape.",
+                  "category": "natural",
+                  "coords": [
+                        121.355047,
+                        25.128343
+                  ]
+            },
+            {
+                  "name": "Watch sea under the bridge",
+                  "text": "This sheltered viewpoint underneath the bridge provides a unique, shaded perspective for watching the ocean waves roll in.",
+                  "category": "natural",
+                  "coords": [
+                        121.350797,
+                        25.129609
+                  ]
+            },
+            {
+                  "name": "Liao Tianding Temple",
+                  "text": "This notable temple is dedicated to Liao Tianding, a legendary Taiwanese folk hero often likened to Robin Hood for his resistance against colonial rule.",
+                  "category": "religious",
+                  "coords": [
+                        121.396599,
+                        25.143636
+                  ]
+            },
+            {
+                  "name": "Formosa Fun Coast(Suspended)",
+                  "text": "Formosa Fun Coast was once a massive, bustling water park before its operations were indefinitely suspended following a tragic fire in 2015.",
+                  "category": "recreational",
+                  "coords": [
+                        121.389383,
+                        25.144534
+                  ]
+            },
+            {
+                  "name": "National Archives",
+                  "text": "Designed by Bio Architecture Formosana and scheduled to open in 2025, the National Archives will preserve and showcase the Republic of China's most crucial historical documents.",
+                  "category": "museum",
+                  "coords": [
+                        121.374107,
+                        25.073447
+                  ]
+            },
+            {
+                  "name": "Xunzhuangpu Fude Temple",
+                  "text": "Xunzhuangpu Fude Temple is a traditional Chinese folk shrine where locals bring offerings to the Earth God for agricultural and commercial prosperity.",
+                  "category": "landmark",
+                  "coords": [
+                        121.391713,
+                        25.142421
+                  ]
+            },
+            {
+                  "name": "Jasons Market Place",
+                  "text": "Jasons Market Place is an upscale grocery destination offering a wide selection of imported gourmet foods and fresh premium produce.",
+                  "category": "cultural",
+                  "coords": [
+                        121.365971,
+                        25.070702
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "TW-NWT",
     coords: [121.378, 25.155],
@@ -531,7 +6534,1456 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
     },
   },
   {
-    id: "pingxi-coal-mine-economic-v2",
+    id: "pingxi-coal-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nanbaozichushan",
+                  "text": "Dieser bewaldete Gipfel belohnt Wanderer mit einem erhöhten Blick über die historischen Kohlebergbautäler von Pingxi.",
+                  "category": "natural",
+                  "coords": [
+                        121.792203,
+                        24.966918
+                  ]
+            },
+            {
+                  "name": "Beibaozichushan",
+                  "text": "Ein schroffer Berggipfel, der über steile Pfade durch die üppigen subtropischen Wälder von Pingxi erreichbar ist.",
+                  "category": "natural",
+                  "coords": [
+                        121.791035,
+                        24.983639
+                  ]
+            },
+            {
+                  "name": "Fangshankengshan",
+                  "text": "Dieser Gipfel erhebt sich über die ehemaligen Bergbausiedlungen und verfügt über ein ausgedehntes Wegenetz durch dichte Vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        121.775478,
+                        24.986747
+                  ]
+            },
+            {
+                  "name": "Xiaokengshan",
+                  "text": "Ein ruhiges Wanderziel auf einem Hügel, das sich durch sein dichtes Blätterdach und den weiten Blick auf die umliegende Berglandschaft auszeichnet.",
+                  "category": "natural",
+                  "coords": [
+                        121.77465,
+                        24.94934
+                  ]
+            },
+            {
+                  "name": "Dashehushan",
+                  "text": "Dieser steile Berggipfel fordert Trekker mit seinen schroffen, stark bewaldeten Hängen über den Pingxi-Tälern heraus.",
+                  "category": "natural",
+                  "coords": [
+                        121.739329,
+                        24.958931
+                  ]
+            },
+            {
+                  "name": "Shigongjiweishan",
+                  "text": "Eine markante Erhebung in den Hügeln von Neu-Taipeh, bekannt für ihre Felsvorsprünge, die teilweise von dichtem tropischem Laub verdeckt sind.",
+                  "category": "natural",
+                  "coords": [
+                        121.718187,
+                        24.974807
+                  ]
+            },
+            {
+                  "name": "Xiaocukengshan",
+                  "text": "Dieser stark bewaldete Gipfel bietet ein abgelegenes Wegenetz hoch über den historischen Kohletransportrouten.",
+                  "category": "natural",
+                  "coords": [
+                        121.750859,
+                        24.972975
+                  ]
+            },
+            {
+                  "name": "Qianxishan",
+                  "text": "Dieser Gipfel zeichnet sich durch seine steilen Hänge aus und bietet einen anspruchsvollen Aufstieg durch die dichten, feuchten Wälder der Region.",
+                  "category": "natural",
+                  "coords": [
+                        121.738824,
+                        24.979904
+                  ]
+            },
+            {
+                  "name": "Shangdongshigeshan",
+                  "text": "Ein hochgelegener Aussichtspunkt im Bezirk Pingxi, der Wanderern weite Panoramen auf die nahegelegenen zerklüfteten Bergkämme bietet.",
+                  "category": "natural",
+                  "coords": [
+                        121.743534,
+                        24.990156
+                  ]
+            },
+            {
+                  "name": "Nine Dragons Mt.",
+                  "text": "Dieser Berg ist vor Ort für sein hügeliges, drachenähnliches Kammprofil bekannt und ein anspruchsvolles Trekkingziel in den grünen Hügeln.",
+                  "category": "natural",
+                  "coords": [
+                        121.726078,
+                        25.015352
+                  ]
+            },
+            {
+                  "name": "Zhongyang Peak",
+                  "text": "Ein zentraler, markanter Gipfel im lokalen Massiv, der einen ununterbrochenen Blick auf das umliegende Bergland bietet.",
+                  "category": "natural",
+                  "coords": [
+                        121.738986,
+                        25.014182
+                  ]
+            },
+            {
+                  "name": "Dongshigeshan",
+                  "text": "Ein ruhiger, dicht bewaldeter Gipfel, der eine anspruchsvolle Tageswanderung abseits der Haupttouristäler bietet.",
+                  "category": "natural",
+                  "coords": [
+                        121.747765,
+                        25.008793
+                  ]
+            },
+            {
+                  "name": "Pingxizishan",
+                  "text": "Dieser steile Felsen, der die Skyline über der laternenbeleuchteten Stadt dominiert, ist eine beliebte Herausforderung für lokale Bergsteiger.",
+                  "category": "natural",
+                  "coords": [
+                        121.758731,
+                        25.017543
+                  ]
+            },
+            {
+                  "name": "Zhongyaojian",
+                  "text": "Ein schroffer, spitzer Berggipfel mit steilen Anstiegen und dramatischen Felsvorsprüngen entlang seines Weges.",
+                  "category": "natural",
+                  "coords": [
+                        121.747783,
+                        25.053794
+                  ]
+            },
+            {
+                  "name": "Zhenzhangshan",
+                  "text": "Wanderer, die diesen Gipfel erreichen, werden mit weiten Ausblicken auf die umliegenden tiefen, subtropischen Flusstäler belohnt.",
+                  "category": "natural",
+                  "coords": [
+                        121.738245,
+                        25.042539
+                  ]
+            },
+            {
+                  "name": "Sankeng Mt.",
+                  "text": "Diese bewaldete Bergerhebung erhebt sich über alten Bergbaugruben und bietet friedliche Pfade durch Sekundärwälder.",
+                  "category": "natural",
+                  "coords": [
+                        121.724942,
+                        25.034681
+                  ]
+            },
+            {
+                  "name": "Shikongdalun",
+                  "text": "Ein massiver Bergkamm, der sich durch dichtes Farnunterholz und steile, schlammige Wanderwege auszeichnet.",
+                  "category": "natural",
+                  "coords": [
+                        121.720755,
+                        25.04649
+                  ]
+            },
+            {
+                  "name": "Jiangnanshan",
+                  "text": "Ein stimmungsvoller, nebelverhangener Gipfel, der die historischen Täler überragt und über unwegsame Trekkingrouten erreichbar ist.",
+                  "category": "natural",
+                  "coords": [
+                        121.735537,
+                        25.047443
+                  ]
+            },
+            {
+                  "name": "Jiangziliaoshan",
+                  "text": "Ein markanter Gipfel, der für seinen atemberaubenden 360-Grad-Blick über Keelung und die Nordküste bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        121.730058,
+                        25.053264
+                  ]
+            },
+            {
+                  "name": "Jiangzitoushan",
+                  "text": "Ein hochgelegener Aussichtspunkt, der spektakuläre Ausblicke auf die zerklüfteten, bewaldeten Kämme bietet, die die Landschaft von Pingxi prägen.",
+                  "category": "natural",
+                  "coords": [
+                        121.712483,
+                        25.05227
+                  ]
+            },
+            {
+                  "name": "Jiucengpingshan",
+                  "text": "Der Aufstieg auf diesen Gipfel offenbart eine Reihe natürlicher Terrassen, die in reiche, subtropische Vegetation gehüllt sind.",
+                  "category": "natural",
+                  "coords": [
+                        121.684878,
+                        25.034549
+                  ]
+            },
+            {
+                  "name": "Erkongguishan",
+                  "text": "Dieser Berggipfel zeichnet sich durch sein steiles, felsiges Gelände und ruhige Waldwege aus, die vom Tal hinaufführen.",
+                  "category": "natural",
+                  "coords": [
+                        121.695585,
+                        25.03662
+                  ]
+            },
+            {
+                  "name": "Shulangjian",
+                  "text": "Dieser imposante Gipfel, der für seine steilen Felswände bekannt ist, erfordert von den Wanderern die Nutzung fixierter Seile für den letzten steilen Aufstieg.",
+                  "category": "natural",
+                  "coords": [
+                        121.713261,
+                        25.028421
+                  ]
+            },
+            {
+                  "name": "Fengtoujian",
+                  "text": "Einer der legendären schroffen Gipfel von Pingxi mit einer exponierten, rasiermesserscharfen Felsgrate.",
+                  "category": "natural",
+                  "coords": [
+                        121.714497,
+                        25.006117
+                  ]
+            },
+            {
+                  "name": "Jiguanshan",
+                  "text": "Bekannt als \"Hahnenkamm-Berg\", besticht dieser Gipfel durch eine markante, zerklüftete Felsformation, die aus dem Blätterdach des Waldes herausragt.",
+                  "category": "natural",
+                  "coords": [
+                        121.683633,
+                        25.017584
+                  ]
+            },
+            {
+                  "name": "Sanbanqiao",
+                  "text": "Ein Berggipfel, dessen Hänge historische Fußwege aufweisen, die einst zur Durchquerung des rauen regionalen Geländes genutzt wurden.",
+                  "category": "natural",
+                  "coords": [
+                        121.682182,
+                        25.024896
+                  ]
+            },
+            {
+                  "name": "Si Fen Wei Mountain",
+                  "text": "Dieser hochgelegene Gipfel bietet eine lange, sanft abfallende Gratwanderung mit Panoramablick auf die benachbarten Bezirke Shiding und Pingxi.",
+                  "category": "natural",
+                  "coords": [
+                        121.680667,
+                        25.041168
+                  ]
+            },
+            {
+                  "name": "Jiadongjiao",
+                  "text": "Ein steiles Bergziel, das sich durch dichte Bambushaine und anspruchsvolle, ungezähmte Pfade auszeichnet.",
+                  "category": "natural",
+                  "coords": [
+                        121.679862,
+                        25.053413
+                  ]
+            },
+            {
+                  "name": "Shidingdalun",
+                  "text": "Dieser breite Bergkamm, der das Gebiet von Shiding überragt, weist tief bewaldete Hänge und ausgedehnte Wanderwege auf.",
+                  "category": "natural",
+                  "coords": [
+                        121.699197,
+                        24.97015
+                  ]
+            },
+            {
+                  "name": "Huangdidian East Peak",
+                  "text": "Dieser bei Abenteuerlustigen äußerst beliebte Gipfel ist für seine exponierte, messerscharfe Felsgratwanderung bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        121.687936,
+                        24.995343
+                  ]
+            },
+            {
+                  "name": "Bengshandalun",
+                  "text": "Ein schroffer, von Erdrutschen gezeichneter Bergkamm, der schwieriges Trekking durch dichte, überwucherte Vegetation bietet.",
+                  "category": "natural",
+                  "coords": [
+                        121.691608,
+                        24.983174
+                  ]
+            },
+            {
+                  "name": "Shimenshan",
+                  "text": "Dieser markante Gipfel bietet von seiner Spitze aus eine weite Aussicht, erreichbar über steile Pfade, die sich durch dichten subtropischen Wald schlängeln.",
+                  "category": "natural",
+                  "coords": [
+                        121.699809,
+                        25.067367
+                  ]
+            },
+            {
+                  "name": "Hua Fan University Heritage Museum",
+                  "text": "Diese Kulturinstitution bewahrt historische Artefakte und Kunstwerke auf, die mit der akademischen und spirituellen Entwicklung der Region zusammenhängen.",
+                  "category": "museum",
+                  "coords": [
+                        121.692221,
+                        24.980068
+                  ]
+            },
+            {
+                  "name": "Old mining tunnel",
+                  "text": "Ein dunkler, verlassener unterirdischer Durchgang, der als physische Erinnerung an die einst florierende Kohleindustrie der Region dient.",
+                  "category": "landmark",
+                  "coords": [
+                        121.732324,
+                        25.015512
+                  ]
+            },
+            {
+                  "name": "Lingjiao Shiku Waterfall",
+                  "text": "Ein atemberaubender, breiter Vorhang-Wasserfall, der in ein tiefes Becken stürzt, umgeben von üppigen Farnen und Felsformationen.",
+                  "category": "landmark",
+                  "coords": [
+                        121.748061,
+                        25.028587
+                  ]
+            },
+            {
+                  "name": "Baiyingyan",
+                  "text": "Eine auffällige natürliche Felsformation, die in der dichten Vegetation der umliegenden Bergtäler verborgen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        121.751538,
+                        25.024165
+                  ]
+            },
+            {
+                  "name": "The Wormhole",
+                  "text": "Eine einzigartig erodierte Flussschlucht mit glatten, wirbelnden Felswänden, die über Jahrtausende von reißenden Wassern geformt wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        121.686017,
+                        25.010835
+                  ]
+            },
+            {
+                  "name": "PingXi Old Street",
+                  "text": "Eine historische Geschäftsstraße, berühmt für ihre traditionellen Himmelslaternen und die aktiven Bahngleise, die direkt durch ihr Zentrum verlaufen.",
+                  "category": "landmark",
+                  "coords": [
+                        121.738775,
+                        25.02531
+                  ]
+            },
+            {
+                  "name": "Wuduling Fude Temple",
+                  "text": "Ein kleiner, traditioneller taoistischer Schrein, der dem Erdgott gewidmet ist und an einer ruhigen Bergstraße liegt, um vorbeikommende Reisende zu segnen.",
+                  "category": "landmark",
+                  "coords": [
+                        121.688353,
+                        25.076695
+                  ]
+            },
+            {
+                  "name": "Shisun peak",
+                  "text": "Dieser hochgelegene Aussichtspunkt bietet atemberaubende Panoramen über die zerklüfteten, steinbambusähnlichen Felsnadeln der umliegenden Berge.",
+                  "category": "natural",
+                  "coords": [
+                        121.721255,
+                        25.030987
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nanbaozichushan",
+                  "text": "Ez az erdős hegycsúcs a történelmi Pingxi szénbányász-völgyekre nyíló magaslati kilátással jutalmazza a túrázókat.",
+                  "category": "natural",
+                  "coords": [
+                        121.792203,
+                        24.966918
+                  ]
+            },
+            {
+                  "name": "Beibaozichushan",
+                  "text": "Zord hegycsúcs, amely Pingxi buja szubtrópusi erdein keresztül kanyargó, meredek ösvényeken közelíthető meg.",
+                  "category": "natural",
+                  "coords": [
+                        121.791035,
+                        24.983639
+                  ]
+            },
+            {
+                  "name": "Fangshankengshan",
+                  "text": "Az egykori bányásztelepülések fölé magasodó hegycsúcs sűrű növényzeten átvezető, kiterjedt ösvényhálózattal rendelkezik.",
+                  "category": "natural",
+                  "coords": [
+                        121.775478,
+                        24.986747
+                  ]
+            },
+            {
+                  "name": "Xiaokengshan",
+                  "text": "Nyugodt, hegytetőn fekvő túracélpont, amelyet sűrű lombkorona és a környező hegyvidéki terepre nyíló pazar kilátás jellemez.",
+                  "category": "natural",
+                  "coords": [
+                        121.77465,
+                        24.94934
+                  ]
+            },
+            {
+                  "name": "Dashehushan",
+                  "text": "Ez a meredek hegycsúcs zord, sűrűn erdős, a Pingxi-völgyekre néző lejtőivel teszi próbára a túrázókat.",
+                  "category": "natural",
+                  "coords": [
+                        121.739329,
+                        24.958931
+                  ]
+            },
+            {
+                  "name": "Shigongjiweishan",
+                  "text": "Jelentős magaslat Új-Tajpej dombjai között, amely a vastag trópusi lombozat által részben elrejtett sziklás kiemelkedéseiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        121.718187,
+                        24.974807
+                  ]
+            },
+            {
+                  "name": "Xiaocukengshan",
+                  "text": "Ez a sűrűn erdősült hegycsúcs távoli ösvényélményt kínál magasan a történelmi szénszállító útvonalak felett.",
+                  "category": "natural",
+                  "coords": [
+                        121.750859,
+                        24.972975
+                  ]
+            },
+            {
+                  "name": "Qianxishan",
+                  "text": "A meredek emelkedőkkel jellemezhető csúcs kihívást jelentő feljutást kínál a régió sűrű, nedves erdein keresztül.",
+                  "category": "natural",
+                  "coords": [
+                        121.738824,
+                        24.979904
+                  ]
+            },
+            {
+                  "name": "Shangdongshigeshan",
+                  "text": "Magasan fekvő kilátópont a Pingxi körzetben, amely pazar panorámát kínál a túrázóknak a közeli csipkézett hegygerincekre.",
+                  "category": "natural",
+                  "coords": [
+                        121.743534,
+                        24.990156
+                  ]
+            },
+            {
+                  "name": "Nine Dragons Mt.",
+                  "text": "A helyiek által hullámzó, sárkányszerű gerincprofiljáról ismert hegy kihívást jelentő túracélpont a zöldellő dombok között.",
+                  "category": "natural",
+                  "coords": [
+                        121.726078,
+                        25.015352
+                  ]
+            },
+            {
+                  "name": "Zhongyang Peak",
+                  "text": "A helyi masszívum központi, kiemelkedő csúcsa, amely zavartalan kilátást nyújt a környező hegyvidéki terepre.",
+                  "category": "natural",
+                  "coords": [
+                        121.738986,
+                        25.014182
+                  ]
+            },
+            {
+                  "name": "Dongshigeshan",
+                  "text": "Csendes, sűrűn erdős hegycsúcs, amely a fő turistavölgyektől távol, kihívást jelentő egynapos túrát kínál.",
+                  "category": "natural",
+                  "coords": [
+                        121.747765,
+                        25.008793
+                  ]
+            },
+            {
+                  "name": "Pingxizishan",
+                  "text": "A lampionokkal kivilágított város felett magasodó, meredek sziklaszirt a helyi hegymászók népszerű kihívása.",
+                  "category": "natural",
+                  "coords": [
+                        121.758731,
+                        25.017543
+                  ]
+            },
+            {
+                  "name": "Zhongyaojian",
+                  "text": "Zord, hegyes csúcs, amelynek ösvényén meredek emelkedők és drámai sziklás párkányok találhatók.",
+                  "category": "natural",
+                  "coords": [
+                        121.747783,
+                        25.053794
+                  ]
+            },
+            {
+                  "name": "Zhenzhangshan",
+                  "text": "A csúcsra érő túrázókat a környező mély, szubtrópusi folyóvölgyekre nyíló lenyűgöző kilátás jutalmazza.",
+                  "category": "natural",
+                  "coords": [
+                        121.738245,
+                        25.042539
+                  ]
+            },
+            {
+                  "name": "Sankeng Mt.",
+                  "text": "Ez az erdős hegykiemelkedés régi bányagödrök fölé magasodik, békés ösvényeket kínálva a másodlagos erdőkön keresztül.",
+                  "category": "natural",
+                  "coords": [
+                        121.724942,
+                        25.034681
+                  ]
+            },
+            {
+                  "name": "Shikongdalun",
+                  "text": "Jelentős hegygerinc, amelyet sűrű páfrányos aljnövényzet és meredek, sáros túraútvonalak jellemeznek.",
+                  "category": "natural",
+                  "coords": [
+                        121.720755,
+                        25.04649
+                  ]
+            },
+            {
+                  "name": "Jiangnanshan",
+                  "text": "Hangulatos, ködbe burkolózó hegycsúcs, amely a történelmi völgyek fölé tornyosul, és zord túraútvonalakon érhető el.",
+                  "category": "natural",
+                  "coords": [
+                        121.735537,
+                        25.047443
+                  ]
+            },
+            {
+                  "name": "Jiangziliaoshan",
+                  "text": "Kiemelkedő csúcs, amely Keelungra és az északi partvidékre nyíló, lenyűgöző 360 fokos panorámájáról híres.",
+                  "category": "natural",
+                  "coords": [
+                        121.730058,
+                        25.053264
+                  ]
+            },
+            {
+                  "name": "Jiangzitoushan",
+                  "text": "Magasan fekvő kilátópont, amely látványos rálátást biztosít a Pingxi tájat meghatározó zord, erdős hegygerincekre.",
+                  "category": "natural",
+                  "coords": [
+                        121.712483,
+                        25.05227
+                  ]
+            },
+            {
+                  "name": "Jiucengpingshan",
+                  "text": "A csúcs megmászása során gazdag, szubtrópusi növényzetbe burkolózó, természetes teraszok sorozata tárul elénk.",
+                  "category": "natural",
+                  "coords": [
+                        121.684878,
+                        25.034549
+                  ]
+            },
+            {
+                  "name": "Erkongguishan",
+                  "text": "Ezt a hegycsúcsot meredek, sziklás terepe és a völgyből felfelé vezető csendes erdei ösvények jellemzik.",
+                  "category": "natural",
+                  "coords": [
+                        121.695585,
+                        25.03662
+                  ]
+            },
+            {
+                  "name": "Shulangjian",
+                  "text": "A meredek sziklafalairól híres, impozáns csúcs megmászásához a túrázóknak rögzített köteleket kell használniuk a végső, meredek szakaszon.",
+                  "category": "natural",
+                  "coords": [
+                        121.713261,
+                        25.028421
+                  ]
+            },
+            {
+                  "name": "Fengtoujian",
+                  "text": "Pingxi egyik ikonikus, sziklás csúcsa, amely egy kitett, borotvaéles sziklagerinccel büszkélkedhet.",
+                  "category": "natural",
+                  "coords": [
+                        121.714497,
+                        25.006117
+                  ]
+            },
+            {
+                  "name": "Jiguanshan",
+                  "text": "A „Taréj-hegy” néven ismert csúcs jellegzetes, csipkézett sziklaalakzattal büszkélkedhet, amely kiemelkedik az erdő lombkoronájából.",
+                  "category": "natural",
+                  "coords": [
+                        121.683633,
+                        25.017584
+                  ]
+            },
+            {
+                  "name": "Sanbanqiao",
+                  "text": "Hegycsúcs, amelynek lejtőin olyan történelmi ösvények húzódnak, amelyeket egykor a zord regionális terep átszelésére használtak.",
+                  "category": "natural",
+                  "coords": [
+                        121.682182,
+                        25.024896
+                  ]
+            },
+            {
+                  "name": "Si Fen Wei Mountain",
+                  "text": "Ez a magasba törő csúcs hosszú, hullámzó gerinctúrát kínál, panorámás kilátással a szomszédos Shiding és Pingxi kerületekre.",
+                  "category": "natural",
+                  "coords": [
+                        121.680667,
+                        25.041168
+                  ]
+            },
+            {
+                  "name": "Jiadongjiao",
+                  "text": "Meredek hegyi úti cél, amelyet sűrű bambuszligetek és kihívást jelentő, vad ösvények jellemeznek.",
+                  "category": "natural",
+                  "coords": [
+                        121.679862,
+                        25.053413
+                  ]
+            },
+            {
+                  "name": "Shidingdalun",
+                  "text": "A Shiding terület fölé tornyosuló széles hegygerinc mély erdős lejtőkkel és kiterjedt túraútvonalakkal rendelkezik.",
+                  "category": "natural",
+                  "coords": [
+                        121.699197,
+                        24.97015
+                  ]
+            },
+            {
+                  "name": "Huangdidian East Peak",
+                  "text": "Az izgalomra vágyók körében rendkívül népszerű csúcs híres a kitett, késélnyi vékonyságú sziklagerincén vezető útjáról.",
+                  "category": "natural",
+                  "coords": [
+                        121.687936,
+                        24.995343
+                  ]
+            },
+            {
+                  "name": "Bengshandalun",
+                  "text": "Zord, földcsuszamlások szabdalta hegygerinc, amely nehéz túrázást kínál a sűrű, benőtt növényzetben.",
+                  "category": "natural",
+                  "coords": [
+                        121.691608,
+                        24.983174
+                  ]
+            },
+            {
+                  "name": "Shimenshan",
+                  "text": "Ez a kiemelkedő csúcs pazar kilátást nyújt a tetejéről, amely a sűrű szubtrópusi erdőn kanyargó meredek ösvényeken érhető el.",
+                  "category": "natural",
+                  "coords": [
+                        121.699809,
+                        25.067367
+                  ]
+            },
+            {
+                  "name": "Hua Fan University Heritage Museum",
+                  "text": "Ez a kulturális intézmény a régió tudományos és spirituális fejlődésével kapcsolatos történelmi tárgyakat és műalkotásokat őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        121.692221,
+                        24.980068
+                  ]
+            },
+            {
+                  "name": "Old mining tunnel",
+                  "text": "Sötét, elhagyatott föld alatti átjáró, amely a régió egykor virágzó széniparának fizikai emlékeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        121.732324,
+                        25.015512
+                  ]
+            },
+            {
+                  "name": "Lingjiao Shiku Waterfall",
+                  "text": "Lenyűgöző, széles, függönyszerű vízesés, amely buja páfrányokkal és sziklaalakzatokkal körülvett mély medencébe zuhan.",
+                  "category": "landmark",
+                  "coords": [
+                        121.748061,
+                        25.028587
+                  ]
+            },
+            {
+                  "name": "Baiyingyan",
+                  "text": "Szembetűnő természetes sziklaképződmény, amely a környező hegyvidéki völgyek sűrű növényzetében rejtőzik.",
+                  "category": "landmark",
+                  "coords": [
+                        121.751538,
+                        25.024165
+                  ]
+            },
+            {
+                  "name": "The Wormhole",
+                  "text": "Egyedülálló módon erodálódott folyószurdok, amelynek sima, örvénylő sziklafalait a rohanó vizek évezredek alatt vájták ki.",
+                  "category": "landmark",
+                  "coords": [
+                        121.686017,
+                        25.010835
+                  ]
+            },
+            {
+                  "name": "PingXi Old Street",
+                  "text": "Történelmi kereskedelmi utca, amely hagyományos égi lámpásairól és a közvetlenül a közepén futó aktív vasúti sínekről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        121.738775,
+                        25.02531
+                  ]
+            },
+            {
+                  "name": "Wuduling Fude Temple",
+                  "text": "A Földistennek szentelt kis, hagyományos taoista szentély, amely egy csendes hegyi út mentén fészkel, hogy megáldja az arra járó utazókat.",
+                  "category": "landmark",
+                  "coords": [
+                        121.688353,
+                        25.076695
+                  ]
+            },
+            {
+                  "name": "Shisun peak",
+                  "text": "Ez a magasan fekvő kilátópont lélegzetelállító panorámát nyújt a környező hegyek csipkézett, kőbambuszszerű sziklatornyaira.",
+                  "category": "natural",
+                  "coords": [
+                        121.721255,
+                        25.030987
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nanbaozichushan",
+                  "text": "Acest vârf împădurit răsplătește drumeții cu vederi la înălțime asupra văilor istorice de exploatare a cărbunelui din Pingxi.",
+                  "category": "natural",
+                  "coords": [
+                        121.792203,
+                        24.966918
+                  ]
+            },
+            {
+                  "name": "Beibaozichushan",
+                  "text": "Un vârf de munte accidentat, accesibil prin trasee abrupte care șerpuiesc prin pădurile subtropicale luxuriante din Pingxi.",
+                  "category": "natural",
+                  "coords": [
+                        121.791035,
+                        24.983639
+                  ]
+            },
+            {
+                  "name": "Fangshankengshan",
+                  "text": "Ridicându-se deasupra fostelor așezări miniere, acest vârf prezintă o rețea proeminentă de trasee prin vegetația densă.",
+                  "category": "natural",
+                  "coords": [
+                        121.775478,
+                        24.986747
+                  ]
+            },
+            {
+                  "name": "Xiaokengshan",
+                  "text": "O destinație de drumeție liniștită pe deal, caracterizată prin coronamentul său dens și vederile ample asupra terenului muntos din jur.",
+                  "category": "natural",
+                  "coords": [
+                        121.77465,
+                        24.94934
+                  ]
+            },
+            {
+                  "name": "Dashehushan",
+                  "text": "Acest vârf de munte abrupt provoacă drumeții cu versanții săi accidentați, puternic împăduriți, cu vedere la văile Pingxi.",
+                  "category": "natural",
+                  "coords": [
+                        121.739329,
+                        24.958931
+                  ]
+            },
+            {
+                  "name": "Shigongjiweishan",
+                  "text": "O elevație proeminentă în dealurile Noului Taipei, cunoscută pentru aflorimentele sale stâncoase ascunse parțial de frunzișul tropical gros.",
+                  "category": "natural",
+                  "coords": [
+                        121.718187,
+                        24.974807
+                  ]
+            },
+            {
+                  "name": "Xiaocukengshan",
+                  "text": "Acest vârf puternic împădurit oferă o experiență de traseu îndepărtat, la mare înălțime deasupra rutelor istorice de transport al cărbunelui.",
+                  "category": "natural",
+                  "coords": [
+                        121.750859,
+                        24.972975
+                  ]
+            },
+            {
+                  "name": "Qianxishan",
+                  "text": "Caracterizat prin înclinațiile sale abrupte, acest vârf oferă o ascensiune provocatoare prin pădurile dense și umede ale regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        121.738824,
+                        24.979904
+                  ]
+            },
+            {
+                  "name": "Shangdongshigeshan",
+                  "text": "Un punct de observație la mare altitudine în districtul Pingxi, oferind drumeților panorame ample ale crestelor zimțate din apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        121.743534,
+                        24.990156
+                  ]
+            },
+            {
+                  "name": "Nine Dragons Mt.",
+                  "text": "Cunoscut local pentru profilul său ondulat de creastă, asemănător unui dragon, acest munte este o destinație de drumeție provocatoare în dealurile înverzite.",
+                  "category": "natural",
+                  "coords": [
+                        121.726078,
+                        25.015352
+                  ]
+            },
+            {
+                  "name": "Zhongyang Peak",
+                  "text": "Un vârf central, proeminent în masivul local, care oferă vederi neîntrerupte asupra terenului muntos din jur.",
+                  "category": "natural",
+                  "coords": [
+                        121.738986,
+                        25.014182
+                  ]
+            },
+            {
+                  "name": "Dongshigeshan",
+                  "text": "Un vârf liniștit, dens împădurit, care oferă o drumeție de o zi provocatoare, departe de principalele văi turistice.",
+                  "category": "natural",
+                  "coords": [
+                        121.747765,
+                        25.008793
+                  ]
+            },
+            {
+                  "name": "Pingxizishan",
+                  "text": "Dominând orizontul deasupra orașului luminat de felinare, această stâncă abruptă este o provocare populară pentru alpiniștii locali.",
+                  "category": "natural",
+                  "coords": [
+                        121.758731,
+                        25.017543
+                  ]
+            },
+            {
+                  "name": "Zhongyaojian",
+                  "text": "Un vârf de munte ascuțit, accidentat, cu ascensiuni abrupte și margini stâncoase dramatice de-a lungul traseului său.",
+                  "category": "natural",
+                  "coords": [
+                        121.747783,
+                        25.053794
+                  ]
+            },
+            {
+                  "name": "Zhenzhangshan",
+                  "text": "Drumeții care ajung pe acest vârf sunt răsplătiți cu vederi ample ale văilor adânci și subtropicale ale râurilor din jur.",
+                  "category": "natural",
+                  "coords": [
+                        121.738245,
+                        25.042539
+                  ]
+            },
+            {
+                  "name": "Sankeng Mt.",
+                  "text": "Această altitudine muntoasă împădurită se ridică deasupra vechilor gropi miniere, oferind trasee pașnice prin păduri secundare.",
+                  "category": "natural",
+                  "coords": [
+                        121.724942,
+                        25.034681
+                  ]
+            },
+            {
+                  "name": "Shikongdalun",
+                  "text": "O creastă muntoasă substanțială, caracterizată prin tufișuri dense de ferigi și poteci de drumeție abrupte și noroioase.",
+                  "category": "natural",
+                  "coords": [
+                        121.720755,
+                        25.04649
+                  ]
+            },
+            {
+                  "name": "Jiangnanshan",
+                  "text": "Un vârf atmosferic, învăluit în ceață, care se înalță deasupra văilor istorice, accesibil prin rute aspre de drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        121.735537,
+                        25.047443
+                  ]
+            },
+            {
+                  "name": "Jiangziliaoshan",
+                  "text": "Un vârf proeminent, renumit pentru vederile sale uluitoare de 360 de grade, care se întind peste Keelung și coasta de nord.",
+                  "category": "natural",
+                  "coords": [
+                        121.730058,
+                        25.053264
+                  ]
+            },
+            {
+                  "name": "Jiangzitoushan",
+                  "text": "Un punct de observație la mare altitudine care oferă priveliști spectaculoase asupra crestelor împădurite și accidentate care definesc peisajul Pingxi.",
+                  "category": "natural",
+                  "coords": [
+                        121.712483,
+                        25.05227
+                  ]
+            },
+            {
+                  "name": "Jiucengpingshan",
+                  "text": "Ascensiunea pe acest vârf dezvăluie o serie de terase naturale îmbrăcate în vegetație subtropicală bogată.",
+                  "category": "natural",
+                  "coords": [
+                        121.684878,
+                        25.034549
+                  ]
+            },
+            {
+                  "name": "Erkongguishan",
+                  "text": "Acest vârf de munte se caracterizează prin terenul său abrupt și stâncos și prin traseele liniștite prin pădure care urcă din vale.",
+                  "category": "natural",
+                  "coords": [
+                        121.695585,
+                        25.03662
+                  ]
+            },
+            {
+                  "name": "Shulangjian",
+                  "text": "Renumit pentru pereții săi stâncoși abrupți, acest vârf impunător impune drumeților să folosească corzi fixe pentru ascensiunea finală abruptă.",
+                  "category": "natural",
+                  "coords": [
+                        121.713261,
+                        25.028421
+                  ]
+            },
+            {
+                  "name": "Fengtoujian",
+                  "text": "Unul dintre vârfurile stâncoase emblematice din Pingxi, prezentând o linie de creastă stâncoasă expusă și ascuțită ca briciul.",
+                  "category": "natural",
+                  "coords": [
+                        121.714497,
+                        25.006117
+                  ]
+            },
+            {
+                  "name": "Jiguanshan",
+                  "text": "Cunoscut sub numele de „Muntele Creasta Cocoșului”, acest vârf se mândrește cu o formațiune stâncoasă zimțată, distinctivă, care iese din bolta pădurii.",
+                  "category": "natural",
+                  "coords": [
+                        121.683633,
+                        25.017584
+                  ]
+            },
+            {
+                  "name": "Sanbanqiao",
+                  "text": "Un vârf de munte ai cărui versanți prezintă cărări istorice folosite cândva pentru a traversa terenul regional accidentat.",
+                  "category": "natural",
+                  "coords": [
+                        121.682182,
+                        25.024896
+                  ]
+            },
+            {
+                  "name": "Si Fen Wei Mountain",
+                  "text": "Acest vârf înalt oferă o plimbare lungă pe o creastă ondulată, cu vederi panoramice asupra districtelor învecinate Shiding și Pingxi.",
+                  "category": "natural",
+                  "coords": [
+                        121.680667,
+                        25.041168
+                  ]
+            },
+            {
+                  "name": "Jiadongjiao",
+                  "text": "O destinație montană abruptă, caracterizată prin plantațiile sale dense de bambus și traseele provocatoare și neîmblânzite.",
+                  "category": "natural",
+                  "coords": [
+                        121.679862,
+                        25.053413
+                  ]
+            },
+            {
+                  "name": "Shidingdalun",
+                  "text": "Dominând zona Shiding, această creastă muntoasă largă prezintă versanți adânci împăduriți și poteci extinse de drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        121.699197,
+                        24.97015
+                  ]
+            },
+            {
+                  "name": "Huangdidian East Peak",
+                  "text": "Foarte popular printre amatorii de senzații tari, acest vârf este renumit pentru plimbarea sa expusă pe creasta stâncoasă, ascuțită ca un cuțit.",
+                  "category": "natural",
+                  "coords": [
+                        121.687936,
+                        24.995343
+                  ]
+            },
+            {
+                  "name": "Bengshandalun",
+                  "text": "O creastă muntoasă accidentată, brăzdată de alunecări de teren, oferind o drumeție dificilă prin vegetația densă și deasă.",
+                  "category": "natural",
+                  "coords": [
+                        121.691608,
+                        24.983174
+                  ]
+            },
+            {
+                  "name": "Shimenshan",
+                  "text": "Acest vârf proeminent oferă vederi extinse din vârful său, accesat prin trasee abrupte care șerpuiesc prin păduri subtropicale groase.",
+                  "category": "natural",
+                  "coords": [
+                        121.699809,
+                        25.067367
+                  ]
+            },
+            {
+                  "name": "Hua Fan University Heritage Museum",
+                  "text": "Această instituție culturală păstrează artefacte istorice și opere de artă referitoare la dezvoltarea academică și spirituală a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        121.692221,
+                        24.980068
+                  ]
+            },
+            {
+                  "name": "Old mining tunnel",
+                  "text": "Un pasaj subteran întunecat și abandonat care servește ca o reamintire fizică a industriei de cărbune, odată înfloritoare, din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        121.732324,
+                        25.015512
+                  ]
+            },
+            {
+                  "name": "Lingjiao Shiku Waterfall",
+                  "text": "O cascadă uluitoare, lată, în stil perdea, care se cascadă într-o piscină adâncă, înconjurată de ferigi luxuriante și formațiuni stâncoase.",
+                  "category": "landmark",
+                  "coords": [
+                        121.748061,
+                        25.028587
+                  ]
+            },
+            {
+                  "name": "Baiyingyan",
+                  "text": "O formațiune stâncoasă naturală izbitoare ascunsă în vegetația densă a văilor muntoase din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        121.751538,
+                        25.024165
+                  ]
+            },
+            {
+                  "name": "The Wormhole",
+                  "text": "Un defileu al râului erodat unic, cu pereți stâncoși netezi și învolburați, sculptați de apele repezi de-a lungul mileniilor.",
+                  "category": "landmark",
+                  "coords": [
+                        121.686017,
+                        25.010835
+                  ]
+            },
+            {
+                  "name": "PingXi Old Street",
+                  "text": "O stradă comercială istorică renumită pentru lansările sale tradiționale de felinare de cer și pentru șinele de cale ferată active care trec direct prin centrul său.",
+                  "category": "landmark",
+                  "coords": [
+                        121.738775,
+                        25.02531
+                  ]
+            },
+            {
+                  "name": "Wuduling Fude Temple",
+                  "text": "Un mic altar taoist tradițional dedicat Zeului Pământului, amplasat de-a lungul unui drum liniștit de munte pentru a binecuvânta călătorii în trecere.",
+                  "category": "landmark",
+                  "coords": [
+                        121.688353,
+                        25.076695
+                  ]
+            },
+            {
+                  "name": "Shisun peak",
+                  "text": "Acest punct de observație la mare altitudine oferă panorame uluitoare peste turlele stâncoase zimțate, asemănătoare bambusului de piatră, ale munților din jur.",
+                  "category": "natural",
+                  "coords": [
+                        121.721255,
+                        25.030987
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nanbaozichushan",
+                  "text": "This forested peak rewards hikers with elevated views over the historic Pingxi coal-mining valleys.",
+                  "category": "natural",
+                  "coords": [
+                        121.792203,
+                        24.966918
+                  ]
+            },
+            {
+                  "name": "Beibaozichushan",
+                  "text": "A rugged mountain summit accessed via steep trails winding through the lush subtropical forests of Pingxi.",
+                  "category": "natural",
+                  "coords": [
+                        121.791035,
+                        24.983639
+                  ]
+            },
+            {
+                  "name": "Fangshankengshan",
+                  "text": "Rising above the former mining settlements, this peak features a prominent trail network through dense vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        121.775478,
+                        24.986747
+                  ]
+            },
+            {
+                  "name": "Xiaokengshan",
+                  "text": "A tranquil hilltop hiking destination characterized by its dense canopy and sweeping views of the surrounding mountainous terrain.",
+                  "category": "natural",
+                  "coords": [
+                        121.77465,
+                        24.94934
+                  ]
+            },
+            {
+                  "name": "Dashehushan",
+                  "text": "This steep mountain summit challenges trekkers with its rugged, heavily forested slopes overlooking the Pingxi valleys.",
+                  "category": "natural",
+                  "coords": [
+                        121.739329,
+                        24.958931
+                  ]
+            },
+            {
+                  "name": "Shigongjiweishan",
+                  "text": "A prominent elevation in the New Taipei hills, known for its rocky outcrops partially hidden by thick tropical foliage.",
+                  "category": "natural",
+                  "coords": [
+                        121.718187,
+                        24.974807
+                  ]
+            },
+            {
+                  "name": "Xiaocukengshan",
+                  "text": "This heavily wooded peak offers a remote trail experience high above the historic coal transport routes.",
+                  "category": "natural",
+                  "coords": [
+                        121.750859,
+                        24.972975
+                  ]
+            },
+            {
+                  "name": "Qianxishan",
+                  "text": "Characterized by its steep inclines, this summit provides a challenging ascent through the dense, damp forests of the region.",
+                  "category": "natural",
+                  "coords": [
+                        121.738824,
+                        24.979904
+                  ]
+            },
+            {
+                  "name": "Shangdongshigeshan",
+                  "text": "A high-altitude vantage point in the Pingxi district, offering hikers sweeping panoramas of the nearby jagged ridgelines.",
+                  "category": "natural",
+                  "coords": [
+                        121.743534,
+                        24.990156
+                  ]
+            },
+            {
+                  "name": "Nine Dragons Mt.",
+                  "text": "Known locally for its undulating, dragon-like ridge profile, this mountain is a challenging trekking destination in the verdant hills.",
+                  "category": "natural",
+                  "coords": [
+                        121.726078,
+                        25.015352
+                  ]
+            },
+            {
+                  "name": "Zhongyang Peak",
+                  "text": "A central, prominent summit in the local massif that offers uninterrupted views of the surrounding mountainous terrain.",
+                  "category": "natural",
+                  "coords": [
+                        121.738986,
+                        25.014182
+                  ]
+            },
+            {
+                  "name": "Dongshigeshan",
+                  "text": "A quiet, densely forested peak providing a challenging day hike away from the main tourist valleys.",
+                  "category": "natural",
+                  "coords": [
+                        121.747765,
+                        25.008793
+                  ]
+            },
+            {
+                  "name": "Pingxizishan",
+                  "text": "Dominating the skyline above the lantern-lit town, this steep crag is a popular challenge for local mountaineers.",
+                  "category": "natural",
+                  "coords": [
+                        121.758731,
+                        25.017543
+                  ]
+            },
+            {
+                  "name": "Zhongyaojian",
+                  "text": "A rugged, pointed mountain peak featuring steep ascents and dramatic rocky ledges along its trail.",
+                  "category": "natural",
+                  "coords": [
+                        121.747783,
+                        25.053794
+                  ]
+            },
+            {
+                  "name": "Zhenzhangshan",
+                  "text": "Hikers reaching this summit are rewarded with sweeping views of the surrounding deep, subtropical river valleys.",
+                  "category": "natural",
+                  "coords": [
+                        121.738245,
+                        25.042539
+                  ]
+            },
+            {
+                  "name": "Sankeng Mt.",
+                  "text": "This forested mountain elevation rises above old mining pits, offering peaceful trails through secondary woodland.",
+                  "category": "natural",
+                  "coords": [
+                        121.724942,
+                        25.034681
+                  ]
+            },
+            {
+                  "name": "Shikongdalun",
+                  "text": "A substantial mountain ridge characterized by dense fern undergrowth and steep, muddy hiking paths.",
+                  "category": "natural",
+                  "coords": [
+                        121.720755,
+                        25.04649
+                  ]
+            },
+            {
+                  "name": "Jiangnanshan",
+                  "text": "An atmospheric, mist-shrouded peak towering over the historic valleys, accessible via rough trekking routes.",
+                  "category": "natural",
+                  "coords": [
+                        121.735537,
+                        25.047443
+                  ]
+            },
+            {
+                  "name": "Jiangziliaoshan",
+                  "text": "A prominent summit famous for its commanding 360-degree views stretching across Keelung and the northern coastline.",
+                  "category": "natural",
+                  "coords": [
+                        121.730058,
+                        25.053264
+                  ]
+            },
+            {
+                  "name": "Jiangzitoushan",
+                  "text": "A high-elevation viewpoint offering spectacular overlooks of the rugged, forested ridges defining the Pingxi landscape.",
+                  "category": "natural",
+                  "coords": [
+                        121.712483,
+                        25.05227
+                  ]
+            },
+            {
+                  "name": "Jiucengpingshan",
+                  "text": "Ascending this peak reveals a series of natural terraces cloaked in rich, subtropical vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        121.684878,
+                        25.034549
+                  ]
+            },
+            {
+                  "name": "Erkongguishan",
+                  "text": "This mountain summit is characterized by its steep, rocky terrain and quiet woodland trails leading up from the valley.",
+                  "category": "natural",
+                  "coords": [
+                        121.695585,
+                        25.03662
+                  ]
+            },
+            {
+                  "name": "Shulangjian",
+                  "text": "Famous for its sheer rock faces, this imposing peak requires hikers to use fixed ropes for the final steep ascent.",
+                  "category": "natural",
+                  "coords": [
+                        121.713261,
+                        25.028421
+                  ]
+            },
+            {
+                  "name": "Fengtoujian",
+                  "text": "One of the iconic craggy peaks of Pingxi, featuring an exposed, razor-sharp rocky ridge line.",
+                  "category": "natural",
+                  "coords": [
+                        121.714497,
+                        25.006117
+                  ]
+            },
+            {
+                  "name": "Jiguanshan",
+                  "text": "Known as \"Cockscomb Mountain,\" this summit boasts a distinctive, jagged rock formation jutting out from the forest canopy.",
+                  "category": "natural",
+                  "coords": [
+                        121.683633,
+                        25.017584
+                  ]
+            },
+            {
+                  "name": "Sanbanqiao",
+                  "text": "A mountain peak whose slopes feature historic footpaths once used to traverse the rugged regional terrain.",
+                  "category": "natural",
+                  "coords": [
+                        121.682182,
+                        25.024896
+                  ]
+            },
+            {
+                  "name": "Si Fen Wei Mountain",
+                  "text": "This elevated peak offers a long, rolling ridge walk with panoramic views over the neighboring Shiding and Pingxi districts.",
+                  "category": "natural",
+                  "coords": [
+                        121.680667,
+                        25.041168
+                  ]
+            },
+            {
+                  "name": "Jiadongjiao",
+                  "text": "A steep mountain destination characterized by its dense bamboo groves and challenging, untamed trails.",
+                  "category": "natural",
+                  "coords": [
+                        121.679862,
+                        25.053413
+                  ]
+            },
+            {
+                  "name": "Shidingdalun",
+                  "text": "Towering over the Shiding area, this broad mountain ridge features deep forested slopes and extensive hiking paths.",
+                  "category": "natural",
+                  "coords": [
+                        121.699197,
+                        24.97015
+                  ]
+            },
+            {
+                  "name": "Huangdidian East Peak",
+                  "text": "Highly popular among thrill-seekers, this peak is renowned for its exposed, knife-edge rocky ridge walk.",
+                  "category": "natural",
+                  "coords": [
+                        121.687936,
+                        24.995343
+                  ]
+            },
+            {
+                  "name": "Bengshandalun",
+                  "text": "A rugged, landslide-scarred mountain ridge offering difficult trekking through dense, overgrown vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        121.691608,
+                        24.983174
+                  ]
+            },
+            {
+                  "name": "Shimenshan",
+                  "text": "This prominent peak provides expansive views from its summit, accessed by steep trails winding through thick subtropical forest.",
+                  "category": "natural",
+                  "coords": [
+                        121.699809,
+                        25.067367
+                  ]
+            },
+            {
+                  "name": "Hua Fan University Heritage Museum",
+                  "text": "This cultural institution preserves historical artifacts and artworks relating to the region's academic and spiritual development.",
+                  "category": "museum",
+                  "coords": [
+                        121.692221,
+                        24.980068
+                  ]
+            },
+            {
+                  "name": "Old mining tunnel",
+                  "text": "A dark, abandoned subterranean passageway that serves as a physical reminder of the region's once-thriving coal industry.",
+                  "category": "landmark",
+                  "coords": [
+                        121.732324,
+                        25.015512
+                  ]
+            },
+            {
+                  "name": "Lingjiao Shiku Waterfall",
+                  "text": "A stunning, wide curtain-style waterfall cascading into a deep pool surrounded by lush ferns and rock formations.",
+                  "category": "landmark",
+                  "coords": [
+                        121.748061,
+                        25.028587
+                  ]
+            },
+            {
+                  "name": "Baiyingyan",
+                  "text": "A striking natural rock formation hidden within the dense vegetation of the surrounding mountain valleys.",
+                  "category": "landmark",
+                  "coords": [
+                        121.751538,
+                        25.024165
+                  ]
+            },
+            {
+                  "name": "The Wormhole",
+                  "text": "A uniquely eroded river gorge featuring smooth, swirling rock walls carved by rushing waters over millennia.",
+                  "category": "landmark",
+                  "coords": [
+                        121.686017,
+                        25.010835
+                  ]
+            },
+            {
+                  "name": "PingXi Old Street",
+                  "text": "A historic commercial lane famous for its traditional sky lantern releases and the active railway tracks running directly through its center.",
+                  "category": "landmark",
+                  "coords": [
+                        121.738775,
+                        25.02531
+                  ]
+            },
+            {
+                  "name": "Wuduling Fude Temple",
+                  "text": "A small, traditional Taoist shrine dedicated to the Earth God, nestled alongside a quiet mountain road to bless passing travelers.",
+                  "category": "landmark",
+                  "coords": [
+                        121.688353,
+                        25.076695
+                  ]
+            },
+            {
+                  "name": "Shisun peak",
+                  "text": "This high-altitude viewpoint provides breathtaking panoramas over the jagged, stone-bamboo-like rock spires of the surrounding mountains.",
+                  "category": "natural",
+                  "coords": [
+                        121.721255,
+                        25.030987
+                  ]
+            }
+      ]
+},
     type: "mine",
     parent: "TW-NWT",
     coords: [121.737, 25.025],
@@ -579,7 +8031,1420 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
     },
   },
   {
-    id: "nangang-software-park-economic-v2",
+    id: "nangang-software-park-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Taipei Music Center",
+                  "text": "Dieses futuristische Kunstzentrum zeichnet sich durch seine avantgardistische Architektur aus, die speziell für große Popmusik-Auftritte konzipiert wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        121.599368,
+                        25.052083
+                  ]
+            },
+            {
+                  "name": "Gongbeidian",
+                  "text": "Als bedeutende daoistische Kultstätte ist dieser Tempel für seine malerische Berglage und die leuchtenden Ahornblätter im Herbst bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        121.641998,
+                        25.094412
+                  ]
+            },
+            {
+                  "name": "Jinlongshan Beifeng Temple",
+                  "text": "Friedlich am Jinlong-See gelegen, bietet diese Kultstätte Besuchern neben traditioneller Architektur einen ruhigen Blick aufs Wasser.",
+                  "category": "religious",
+                  "coords": [
+                        121.631287,
+                        25.074304
+                  ]
+            },
+            {
+                  "name": "Hushih Park",
+                  "text": "Dieser Gedenkpark ist dem berühmten Gelehrten Hu Shih gewidmet und beherbergt seine Ruhestätte inmitten ruhiger, baumgesäumter Wege.",
+                  "category": "park",
+                  "coords": [
+                        121.618221,
+                        25.039761
+                  ]
+            },
+            {
+                  "name": "Dahu Park",
+                  "text": "Dieser Park ist für seinen großen Reiherlebensraum bekannt und wird optisch von der malerischen Mondpavillon-Brücke geprägt, die das Wasser überquert.",
+                  "category": "park",
+                  "coords": [
+                        121.604698,
+                        25.081278
+                  ]
+            },
+            {
+                  "name": "Shenantoushan",
+                  "text": "Ein natürlich bewaldeter Gipfel, der Wanderer mit rauen Pfaden belohnt, die sich durch die einheimische subtropische Vegetation schlängeln.",
+                  "category": "natural",
+                  "coords": [
+                        121.664027,
+                        25.023277
+                  ]
+            },
+            {
+                  "name": "Xiaonangangshan",
+                  "text": "Dieser markante Hügel bietet eine grüne Flucht aus dem umliegenden Bezirk und verfügt über steile Pfade, die zu einem Aussichtspunkt über die Stadt führen.",
+                  "category": "natural",
+                  "coords": [
+                        121.62343,
+                        25.053197
+                  ]
+            },
+            {
+                  "name": "Tukuyue",
+                  "text": "Der Aufstieg auf diesen lokalen Gipfel offenbart eine dicht bewaldete Kuppe, die als ruhiger Rückzugsort über den belebten Straßen der Stadt dient.",
+                  "category": "natural",
+                  "coords": [
+                        121.635512,
+                        25.023139
+                  ]
+            },
+            {
+                  "name": "Xinshan",
+                  "text": "Gekennzeichnet durch seine schroffen Kammlinien, ist dieser Gipfel ein beliebtes Ziel für Wanderer, die felsiges Gelände erkunden möchten.",
+                  "category": "natural",
+                  "coords": [
+                        121.633279,
+                        25.129953
+                  ]
+            },
+            {
+                  "name": "Beigangshan",
+                  "text": "Eine landschaftlich reizvolle Erhebung, die abenteuerlustigen Kletterern weite Panoramablicke über die lokalen Täler und wachsenden städtischen Siedlungen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        121.635979,
+                        25.104536
+                  ]
+            },
+            {
+                  "name": "Kangleshan",
+                  "text": "Ein tief schattiger Berg, der sich durch seine kurvenreichen Feldwege auszeichnet, die Wanderer sicher die Hänge hinaufführen.",
+                  "category": "natural",
+                  "coords": [
+                        121.613365,
+                        25.080441
+                  ]
+            },
+            {
+                  "name": "Shizishan",
+                  "text": "Lokal für seine imposanten Felsformationen bekannt, fordert dieser Gipfel Besucher mit steilen Anstiegen heraus, bevor er sie mit Stadtansichten belohnt.",
+                  "category": "natural",
+                  "coords": [
+                        121.617356,
+                        25.086974
+                  ]
+            },
+            {
+                  "name": "Neigoushan",
+                  "text": "Umgeben von üppiger Hangvegetation bietet dieser markante Gipfel Outdoor-Enthusiasten ein eindringliches Naturpfaderlebnis.",
+                  "category": "natural",
+                  "coords": [
+                        121.627376,
+                        25.089066
+                  ]
+            },
+            {
+                  "name": "Laojiujian",
+                  "text": "Als Teil der lokalen Bergkette erfordert dieser markante Gipfel eine anspruchsvolle Wanderung durch dichtes subtropisches Unterholz.",
+                  "category": "natural",
+                  "coords": [
+                        121.626161,
+                        25.095903
+                  ]
+            },
+            {
+                  "name": "Xuetouposhan",
+                  "text": "Von dichtem, einheimischem Wald bedeckt, ist diese steile Erhebung ein Kernmerkmal des vernetzten Wandernetzes der Region.",
+                  "category": "natural",
+                  "coords": [
+                        121.63658,
+                        25.077259
+                  ]
+            },
+            {
+                  "name": "Wudunanshan",
+                  "text": "Dieser natürliche Aussichtspunkt auf einer Hügelkuppe, der über schmale Bergpfade erreichbar ist, bietet eine ruhige Umgebung abseits des städtischen Lärms.",
+                  "category": "natural",
+                  "coords": [
+                        121.678887,
+                        25.079705
+                  ]
+            },
+            {
+                  "name": "Jinfengshan",
+                  "text": "Geprägt durch sein raues Terrain, verfügt dieser lokale Gipfel über einen Panoramablick, der sich über das nahegelegene Becken erstreckt.",
+                  "category": "natural",
+                  "coords": [
+                        121.669109,
+                        25.074373
+                  ]
+            },
+            {
+                  "name": "Youruishan",
+                  "text": "Ein bewaldeter Bergkamm, der einen ruhigen natürlichen Rückzugsort bietet und sich durch seine ungestörte lokale Flora auszeichnet.",
+                  "category": "natural",
+                  "coords": [
+                        121.67623,
+                        25.091119
+                  ]
+            },
+            {
+                  "name": "Xitoushan",
+                  "text": "Dieses hochgelegene Naturmerkmal ist vollständig von dichten Hainen aus einheimischen taiwanesischen Bäumen und Farnen umgeben.",
+                  "category": "natural",
+                  "coords": [
+                        121.658017,
+                        25.082872
+                  ]
+            },
+            {
+                  "name": "Jinyanshan",
+                  "text": "Prominent zwischen den grünen Korridoren des Bezirks gelegen, bietet diese felsige Erhebung einen anspruchsvollen Aufstieg für Wanderer.",
+                  "category": "natural",
+                  "coords": [
+                        121.646386,
+                        25.122049
+                  ]
+            },
+            {
+                  "name": "Zhongnan Park",
+                  "text": "Diese grüne Nachbarschaftsfläche wird wegen ihrer schattigen Gehwege und speziellen Erholungsbereiche für lokale Familien viel genutzt.",
+                  "category": "park",
+                  "coords": [
+                        121.613684,
+                        25.050432
+                  ]
+            },
+            {
+                  "name": "Fushan Park",
+                  "text": "Ein terrassenförmiges Freizeitgelände, das über weitläufige offene Rasenflächen verfügt, die von sorgfältig gepflegten Landschaftsbeeten gesäumt sind.",
+                  "category": "park",
+                  "coords": [
+                        121.617917,
+                        25.044678
+                  ]
+            },
+            {
+                  "name": "Jiuzhuang Park",
+                  "text": "Dieser Park dient als urbane Oase und bietet von Bäumen gesäumte Wege und bequem beschattete Sitzplätze im Freien.",
+                  "category": "park",
+                  "coords": [
+                        121.620278,
+                        25.041377
+                  ]
+            },
+            {
+                  "name": "Zhongxing Park",
+                  "text": "Ein gemeinschaftsorientierter Park, der sich durch seine nahtlos gepflasterten Wanderwege auszeichnet, die sich durch Gruppen alter Schattenbäume ziehen.",
+                  "category": "park",
+                  "coords": [
+                        121.614845,
+                        25.044636
+                  ]
+            },
+            {
+                  "name": "Academia Park",
+                  "text": "In der Nähe lokaler Forschungseinrichtungen gelegen, ist diese ruhige Grünfläche so gestaltet, dass sie eine stille, besinnliche Atmosphäre bietet.",
+                  "category": "park",
+                  "coords": [
+                        121.613111,
+                        25.046863
+                  ]
+            },
+            {
+                  "name": "Liufu Park",
+                  "text": "Dieser landschaftlich gestaltete Nachbarschaftspark zeichnet sich durch seine geschwungenen Wege aus, die eine friedliche Umgebung für tägliche Spaziergänge bieten.",
+                  "category": "park",
+                  "coords": [
+                        121.616548,
+                        25.047322
+                  ]
+            },
+            {
+                  "name": "Nanxi Park",
+                  "text": "Dieser 1991 gegründete öffentliche Park verfügt heute über ein dichtes, ausgereiftes Blätterdach, das seine etablierten Spazierwege beschattet.",
+                  "category": "park",
+                  "coords": [
+                        121.617573,
+                        25.054668
+                  ]
+            },
+            {
+                  "name": "Jingmao Park",
+                  "text": "Diese moderne urbane Grünfläche fungiert als Erholungspuffer im Geschäftsviertel und verfügt über eine geometrische Landschaftsgestaltung.",
+                  "category": "park",
+                  "coords": [
+                        121.616329,
+                        25.062627
+                  ]
+            },
+            {
+                  "name": "Ganghou Park",
+                  "text": "Ein grüner Rückzugsort im Viertel mit weiten Grasflächen, die mit modernen Spielanlagen für die lokale Gemeinschaft ausgestattet sind.",
+                  "category": "park",
+                  "coords": [
+                        121.615228,
+                        25.062927
+                  ]
+            },
+            {
+                  "name": "Sanchong World Trade Park",
+                  "text": "Dieser begrünte öffentliche Platz grenzt an große Einkaufszentren an und ist mit strukturierten Sitzbereichen im Freien ausgestattet.",
+                  "category": "park",
+                  "coords": [
+                        121.615369,
+                        25.057925
+                  ]
+            },
+            {
+                  "name": "Xingnan Park",
+                  "text": "Dieser durch seine offene Aufteilung gekennzeichnete Außenbereich verfügt über glatt gepflasterte Wege, die von Freizeitgrün gesäumt sind.",
+                  "category": "park",
+                  "coords": [
+                        121.603777,
+                        25.057479
+                  ]
+            },
+            {
+                  "name": "NanXing Park",
+                  "text": "Dieser weitläufige Stadtpark ist bekannt für seine weiten, offenen Rasenflächen und eine Reihe von familienfreundlichen Außenanlagen.",
+                  "category": "park",
+                  "coords": [
+                        121.606945,
+                        25.053921
+                  ]
+            },
+            {
+                  "name": "DongMing Park",
+                  "text": "Eine ruhige, lokale Grünanlage mit schattigen Parkbänken, die entlang gepflegter, gewundener Gartenwege angeordnet sind.",
+                  "category": "park",
+                  "coords": [
+                        121.603614,
+                        25.054756
+                  ]
+            },
+            {
+                  "name": "DongYang Park",
+                  "text": "Diese auf die Gemeinschaft ausgerichtete Grünfläche bietet eine natürliche Umgebung zur Entspannung, komplett mit dichtem Buschwerk und Wanderwegen.",
+                  "category": "park",
+                  "coords": [
+                        121.598041,
+                        25.057729
+                  ]
+            },
+            {
+                  "name": "Labor Safety and Health Exhibition Hall",
+                  "text": "Dieses pädagogische Museum zeigt detaillierte Ausstellungen zur Prävention von Berufsrisiken und zu modernen Arbeitsschutzpraktiken.",
+                  "category": "museum",
+                  "coords": [
+                        121.631301,
+                        25.050899
+                  ]
+            },
+            {
+                  "name": "Museum of the Institute of History & Philology",
+                  "text": "Ein akademisches Archiv, in dem Besucher umfangreiche archäologische Artefakte und historische Dokumente aus frühen chinesischen Dynastien besichtigen können.",
+                  "category": "museum",
+                  "coords": [
+                        121.616373,
+                        25.039523
+                  ]
+            },
+            {
+                  "name": "Dream Community",
+                  "text": "Dieses lebendige Kunstzentrum ist bekannt für die Ausrichtung farbenfroher Paraden, kreativer Workshops und internationaler Künstlerresidenzen.",
+                  "category": "cultural",
+                  "coords": [
+                        121.632418,
+                        25.069579
+                  ]
+            },
+            {
+                  "name": "TMC Concert Hall",
+                  "text": "Ein hochmoderner Theatersaal mit fortschrittlicher Akustik, die speziell auf energiegeladene musikalische Darbietungen zugeschnitten ist.",
+                  "category": "cultural",
+                  "coords": [
+                        121.598389,
+                        25.052743
+                  ]
+            },
+            {
+                  "name": "Farmer's Market",
+                  "text": "Dieser belebte Marktplatz im Freien verfügt über zahlreiche Stände, die eine große Auswahl an frischen lokalen Produkten und saisonalen landwirtschaftlichen Erzeugnissen anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        121.629687,
+                        25.069841
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Taipei Music Center",
+                  "text": "Ez a futurisztikus művészeti központ avantgárd építészetével tűnik ki, amelyet kifejezetten nagyszabású popzenei előadásokhoz terveztek.",
+                  "category": "cultural",
+                  "coords": [
+                        121.599368,
+                        25.052083
+                  ]
+            },
+            {
+                  "name": "Gongbeidian",
+                  "text": "Ez a kiemelkedő taoista istentiszteleti hely festői hegyi környezetéről és ősszel élénk színű juharleveleiről híres.",
+                  "category": "religious",
+                  "coords": [
+                        121.641998,
+                        25.094412
+                  ]
+            },
+            {
+                  "name": "Jinlongshan Beifeng Temple",
+                  "text": "A Jinlong-tó partján békésen elhelyezkedő istentiszteleti hely a hagyományos építészet mellett nyugodt kilátást nyújt a vízre.",
+                  "category": "religious",
+                  "coords": [
+                        121.631287,
+                        25.074304
+                  ]
+            },
+            {
+                  "name": "Hushih Park",
+                  "text": "Ezt az emlékparkot a neves tudósnak, Hu Shih-nak szentelték, és nyughelye a csendes, fákkal szegélyezett ösvények között található.",
+                  "category": "park",
+                  "coords": [
+                        121.618221,
+                        25.039761
+                  ]
+            },
+            {
+                  "name": "Dahu Park",
+                  "text": "A nagy kócsagélőhelyéről híres parkot vizuálisan a vizet átívelő festői Hold-pavilon hídja határozza meg.",
+                  "category": "park",
+                  "coords": [
+                        121.604698,
+                        25.081278
+                  ]
+            },
+            {
+                  "name": "Shenantoushan",
+                  "text": "Egy természetes, erdős hegycsúcs, amely őshonos szubtrópusi növényzeten át kanyargó, zord ösvényekkel jutalmazza a túrázókat.",
+                  "category": "natural",
+                  "coords": [
+                        121.664027,
+                        25.023277
+                  ]
+            },
+            {
+                  "name": "Xiaonangangshan",
+                  "text": "Ez a kiemelkedő domb zöldellő menedéket nyújt a környező kerületből, és meredek ösvények vezetnek egy városi kilátóhoz.",
+                  "category": "natural",
+                  "coords": [
+                        121.62343,
+                        25.053197
+                  ]
+            },
+            {
+                  "name": "Tukuyue",
+                  "text": "Ennek a helyi hegycsúcsnak a megmászása egy sűrűn erdősödött tetőt tár fel, amely nyugodt menedékként szolgál a nyüzsgő városi utcák felett.",
+                  "category": "natural",
+                  "coords": [
+                        121.635512,
+                        25.023139
+                  ]
+            },
+            {
+                  "name": "Xinshan",
+                  "text": "A zord gerincvonalak jellemezte hegycsúcs népszerű célpont a sziklás terepet felfedezni vágyó túrázók körében.",
+                  "category": "natural",
+                  "coords": [
+                        121.633279,
+                        25.129953
+                  ]
+            },
+            {
+                  "name": "Beigangshan",
+                  "text": "Festői magaslat, amely a kalandvágyó mászóknak széles panorámát kínál a helyi völgyekre és a terjeszkedő városi beépítésekre.",
+                  "category": "natural",
+                  "coords": [
+                        121.635979,
+                        25.104536
+                  ]
+            },
+            {
+                  "name": "Kangleshan",
+                  "text": "Egy mélyen árnyékolt hegy, amelyet kanyargós földutak határoznak meg, amelyek biztonságosan vezetik fel a túrázókat a lejtőin.",
+                  "category": "natural",
+                  "coords": [
+                        121.613365,
+                        25.080441
+                  ]
+            },
+            {
+                  "name": "Shizishan",
+                  "text": "A helyiek körében impozáns sziklaalakzatairól ismert hegycsúcs meredek emelkedőkkel teszi próbára a látogatókat, mielőtt városi panorámával jutalmazná őket.",
+                  "category": "natural",
+                  "coords": [
+                        121.617356,
+                        25.086974
+                  ]
+            },
+            {
+                  "name": "Neigoushan",
+                  "text": "A gazdag hegyoldali növényzettel körülvett, kiemelkedő hegycsúcs magával ragadó természetjáró élményt nyújt a szabadtéri rajongóknak.",
+                  "category": "natural",
+                  "coords": [
+                        121.627376,
+                        25.089066
+                  ]
+            },
+            {
+                  "name": "Laojiujian",
+                  "text": "A helyi hegylánc részét képező jellegzetes csúcs sűrű szubtrópusi aljnövényzeten keresztül vezető, kihívást jelentő túrát igényel.",
+                  "category": "natural",
+                  "coords": [
+                        121.626161,
+                        25.095903
+                  ]
+            },
+            {
+                  "name": "Xuetouposhan",
+                  "text": "A sűrű őshonos erdővel borított meredek magaslat a régió összefüggő túrahálózatának alapvető eleme.",
+                  "category": "natural",
+                  "coords": [
+                        121.63658,
+                        25.077259
+                  ]
+            },
+            {
+                  "name": "Wudunanshan",
+                  "text": "A keskeny hegyi ösvényeken megközelíthető természetes hegytetői kilátó békés környezetet kínál a városi zajtól távol.",
+                  "category": "natural",
+                  "coords": [
+                        121.678887,
+                        25.079705
+                  ]
+            },
+            {
+                  "name": "Jinfengshan",
+                  "text": "A zord terep jellemezte helyi hegycsúcsról panorámás kilátás nyílik a közeli medencére.",
+                  "category": "natural",
+                  "coords": [
+                        121.669109,
+                        25.074373
+                  ]
+            },
+            {
+                  "name": "Youruishan",
+                  "text": "Erdős hegygerinc, amely csendes, természetes menedéket nyújt, és háborítatlan helyi növényvilág jellemzi.",
+                  "category": "natural",
+                  "coords": [
+                        121.67623,
+                        25.091119
+                  ]
+            },
+            {
+                  "name": "Xitoushan",
+                  "text": "Ezt a magasan fekvő természeti képződményt őshonos tajvani fák és páfrányok sűrű ligetei veszik teljesen körül.",
+                  "category": "natural",
+                  "coords": [
+                        121.658017,
+                        25.082872
+                  ]
+            },
+            {
+                  "name": "Jinyanshan",
+                  "text": "A kerület zöld folyosói között feltűnően elhelyezkedő sziklás magaslat megerőltető emelkedőt kínál a túrázóknak.",
+                  "category": "natural",
+                  "coords": [
+                        121.646386,
+                        25.122049
+                  ]
+            },
+            {
+                  "name": "Zhongnan Park",
+                  "text": "Ezt a környékbeli zöldterületet jól kihasználják árnyékos sétányai és a helyi családoknak szánt rekreációs területei miatt.",
+                  "category": "park",
+                  "coords": [
+                        121.613684,
+                        25.050432
+                  ]
+            },
+            {
+                  "name": "Fushan Park",
+                  "text": "Teraszos rekreációs terület, amely tágas, nyitott pázsitokat kínál, amelyeket gondosan ápolt, parkosított ágyások szegélyeznek.",
+                  "category": "park",
+                  "coords": [
+                        121.617917,
+                        25.044678
+                  ]
+            },
+            {
+                  "name": "Jiuzhuang Park",
+                  "text": "A városi oázisként szolgáló park fákkal szegélyezett ösvényeket és kényelmesen árnyékolt szabadtéri pihenőhelyeket biztosít.",
+                  "category": "park",
+                  "coords": [
+                        121.620278,
+                        25.041377
+                  ]
+            },
+            {
+                  "name": "Zhongxing Park",
+                  "text": "Közösségközpontú park, amelyet a kifejlett árnyékadó fák csoportjai között kanyargó, zökkenőmentesen burkolt sétautak jellemeznek.",
+                  "category": "park",
+                  "coords": [
+                        121.614845,
+                        25.044636
+                  ]
+            },
+            {
+                  "name": "Academia Park",
+                  "text": "A helyi kutatóintézetek közelében található, nyugodt zöldterület csendes, szemlélődő légkört kíván nyújtani.",
+                  "category": "park",
+                  "coords": [
+                        121.613111,
+                        25.046863
+                  ]
+            },
+            {
+                  "name": "Liufu Park",
+                  "text": "Ezt a parkosított környékbeli parkot íves ösvényei jellemzik, amelyek békés környezetet biztosítanak a napi sétákhoz.",
+                  "category": "park",
+                  "coords": [
+                        121.616548,
+                        25.047322
+                  ]
+            },
+            {
+                  "name": "Nanxi Park",
+                  "text": "Az 1991-ben alapított közpark ma már sűrű, érett lombkoronával büszkélkedhet, amely árnyékot ad a kiépített sétaútjainak.",
+                  "category": "park",
+                  "coords": [
+                        121.617573,
+                        25.054668
+                  ]
+            },
+            {
+                  "name": "Jingmao Park",
+                  "text": "A kereskedelmi negyedben rekreációs pufferként funkcionáló, modern városi zöldterület geometrikus tereprendezéssel rendelkezik.",
+                  "category": "park",
+                  "coords": [
+                        121.616329,
+                        25.062627
+                  ]
+            },
+            {
+                  "name": "Ganghou Park",
+                  "text": "Lombos környékbeli menedékhely, tágas füves területekkel, amelyek modern, a helyi közösség számára kialakított játszóterekkel vannak felszerelve.",
+                  "category": "park",
+                  "coords": [
+                        121.615228,
+                        25.062927
+                  ]
+            },
+            {
+                  "name": "Sanchong World Trade Park",
+                  "text": "A nagy kereskedelmi központok szomszédságában található parkosított közteret strukturált szabadtéri ülőhelyekkel látták el.",
+                  "category": "park",
+                  "coords": [
+                        121.615369,
+                        25.057925
+                  ]
+            },
+            {
+                  "name": "Xingnan Park",
+                  "text": "A nyitott elrendezésű szabadtéri tér simán burkolt sétányokkal rendelkezik, amelyeket rekreációs zöldnövényzet szegélyez.",
+                  "category": "park",
+                  "coords": [
+                        121.603777,
+                        25.057479
+                  ]
+            },
+            {
+                  "name": "NanXing Park",
+                  "text": "Ez a tágas városi park jól ismert széles, nyitott gyepjeiről és számos családbarát szabadtéri szolgáltatásáról.",
+                  "category": "park",
+                  "coords": [
+                        121.606945,
+                        25.053921
+                  ]
+            },
+            {
+                  "name": "DongMing Park",
+                  "text": "Csendes helyi zöldterület, amely jól karbantartott, kanyargós kerti ösvények mentén elhelyezett, árnyékos parki padokat kínál.",
+                  "category": "park",
+                  "coords": [
+                        121.603614,
+                        25.054756
+                  ]
+            },
+            {
+                  "name": "DongYang Park",
+                  "text": "Ez a közösségközpontú zöldterület természetes környezetet biztosít a pihenéshez, sűrű cserjékkel és sétautakkal kiegészítve.",
+                  "category": "park",
+                  "coords": [
+                        121.598041,
+                        25.057729
+                  ]
+            },
+            {
+                  "name": "Labor Safety and Health Exhibition Hall",
+                  "text": "Ez az oktatási múzeum részletes kiállításokat mutat be a munkahelyi veszélyek megelőzéséről és a modern munkahelyi biztonsági gyakorlatokról.",
+                  "category": "museum",
+                  "coords": [
+                        121.631301,
+                        25.050899
+                  ]
+            },
+            {
+                  "name": "Museum of the Institute of History & Philology",
+                  "text": "Egy akadémiai adattár, ahol a látogatók kiterjedt régészeti leleteket és a korai kínai dinasztiákból származó történelmi dokumentumokat tekinthetnek meg.",
+                  "category": "museum",
+                  "coords": [
+                        121.616373,
+                        25.039523
+                  ]
+            },
+            {
+                  "name": "Dream Community",
+                  "text": "Ez a nyüzsgő művészeti központ színes felvonulások, kreatív workshopok és nemzetközi művészrezidenciák otthonaként ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        121.632418,
+                        25.069579
+                  ]
+            },
+            {
+                  "name": "TMC Concert Hall",
+                  "text": "Korszerű színházi helyszín, amely fejlett akusztikával rendelkezik, amelyet kifejezetten a nagy energiájú zenei előadásokhoz szabtak.",
+                  "category": "cultural",
+                  "coords": [
+                        121.598389,
+                        25.052743
+                  ]
+            },
+            {
+                  "name": "Farmer's Market",
+                  "text": "Ezen a nyüzsgő szabadtéri piacon számos stand kínál friss helyi termékek és szezonális mezőgazdasági áruk széles választékát.",
+                  "category": "cultural",
+                  "coords": [
+                        121.629687,
+                        25.069841
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Taipei Music Center",
+                  "text": "Acest centru de arte futurist se remarcă prin arhitectura sa avangardistă, concepută special pentru a găzdui spectacole de muzică pop la scară largă.",
+                  "category": "cultural",
+                  "coords": [
+                        121.599368,
+                        25.052083
+                  ]
+            },
+            {
+                  "name": "Gongbeidian",
+                  "text": "Un lăcaș de cult taoist proeminent, acest templu este faimos pentru cadrul său montan pitoresc și frunzele de arțar vibrante toamna.",
+                  "category": "religious",
+                  "coords": [
+                        121.641998,
+                        25.094412
+                  ]
+            },
+            {
+                  "name": "Jinlongshan Beifeng Temple",
+                  "text": "Situat liniștit pe malul Lacului Jinlong, acest lăcaș de cult oferă vizitatorilor o priveliște senină pe malul apei, alături de arhitectura sa tradițională.",
+                  "category": "religious",
+                  "coords": [
+                        121.631287,
+                        25.074304
+                  ]
+            },
+            {
+                  "name": "Hushih Park",
+                  "text": "Acest parc memorial este dedicat renumitului savant Hu Shih și adăpostește locul său de veci printre alei liniștite, mărginite de copaci.",
+                  "category": "park",
+                  "coords": [
+                        121.618221,
+                        25.039761
+                  ]
+            },
+            {
+                  "name": "Dahu Park",
+                  "text": "Renumit pentru marele său habitat de egrete, acest parc este definit vizual de podul pitoresc Pavilionul Lunii care traversează apa.",
+                  "category": "park",
+                  "coords": [
+                        121.604698,
+                        25.081278
+                  ]
+            },
+            {
+                  "name": "Shenantoushan",
+                  "text": "Un vârf împădurit natural care răsplătește drumeții cu poteci accidentate ce șerpuiesc prin vegetația subtropicală nativă.",
+                  "category": "natural",
+                  "coords": [
+                        121.664027,
+                        25.023277
+                  ]
+            },
+            {
+                  "name": "Xiaonangangshan",
+                  "text": "Acest deal proeminent oferă o evadare verde din districtul înconjurător, având poteci abrupte care duc la un punct de belvedere urban.",
+                  "category": "natural",
+                  "coords": [
+                        121.62343,
+                        25.053197
+                  ]
+            },
+            {
+                  "name": "Tukuyue",
+                  "text": "Urcarea pe acest vârf local dezvăluie o culme dens împădurită, care servește drept refugiu liniștit deasupra străzilor aglomerate ale orașului.",
+                  "category": "natural",
+                  "coords": [
+                        121.635512,
+                        25.023139
+                  ]
+            },
+            {
+                  "name": "Xinshan",
+                  "text": "Caracterizat prin crestele sale accidentate, acest vârf este o destinație populară pentru drumeții care doresc să exploreze terenul stâncos.",
+                  "category": "natural",
+                  "coords": [
+                        121.633279,
+                        25.129953
+                  ]
+            },
+            {
+                  "name": "Beigangshan",
+                  "text": "O înălțime pitorească ce oferă alpiniștilor aventuroși vederi panoramice ample asupra văilor locale și a dezvoltărilor urbane în expansiune.",
+                  "category": "natural",
+                  "coords": [
+                        121.635979,
+                        25.104536
+                  ]
+            },
+            {
+                  "name": "Kangleshan",
+                  "text": "Un munte adânc umbrit, definit de potecile sale șerpuitoare de pământ, care ghidează drumeții în siguranță pe versanții săi.",
+                  "category": "natural",
+                  "coords": [
+                        121.613365,
+                        25.080441
+                  ]
+            },
+            {
+                  "name": "Shizishan",
+                  "text": "Cunoscut pe plan local pentru formațiunile sale stâncoase impunătoare, acest vârf provoacă vizitatorii cu pante abrupte înainte de a-i răsplăti cu priveliști ale orașului.",
+                  "category": "natural",
+                  "coords": [
+                        121.617356,
+                        25.086974
+                  ]
+            },
+            {
+                  "name": "Neigoushan",
+                  "text": "Înconjurat de o vegetație bogată pe versanți, acest vârf proeminent oferă o experiență captivantă pe poteci naturale pentru pasionații de aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        121.627376,
+                        25.089066
+                  ]
+            },
+            {
+                  "name": "Laojiujian",
+                  "text": "Făcând parte din lanțul muntos local, acest pisc distinct necesită o drumeție provocatoare prin tufișuri subtropicale dense.",
+                  "category": "natural",
+                  "coords": [
+                        121.626161,
+                        25.095903
+                  ]
+            },
+            {
+                  "name": "Xuetouposhan",
+                  "text": "Acoperită de o pădure nativă deasă, această înălțime abruptă este o caracteristică de bază a rețelei interconectate de drumeții a regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        121.63658,
+                        25.077259
+                  ]
+            },
+            {
+                  "name": "Wudunanshan",
+                  "text": "Accesibil prin poteci înguste de munte, acest punct de belvedere natural de pe vârful dealului oferă un mediu senin, departe de zgomotul urban.",
+                  "category": "natural",
+                  "coords": [
+                        121.678887,
+                        25.079705
+                  ]
+            },
+            {
+                  "name": "Jinfengshan",
+                  "text": "Caracterizat prin terenul său accidentat, acest vârf local prezintă un punct de belvedere panoramic care se întinde peste bazinul din apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        121.669109,
+                        25.074373
+                  ]
+            },
+            {
+                  "name": "Youruishan",
+                  "text": "O creastă montană împădurită care oferă o evadare naturală liniștită, caracterizată prin flora sa locală netulburată.",
+                  "category": "natural",
+                  "coords": [
+                        121.67623,
+                        25.091119
+                  ]
+            },
+            {
+                  "name": "Xitoushan",
+                  "text": "Această caracteristică naturală de mare altitudine este complet înconjurată de pâlcuri dese de copaci și ferigi native taiwaneze.",
+                  "category": "natural",
+                  "coords": [
+                        121.658017,
+                        25.082872
+                  ]
+            },
+            {
+                  "name": "Jinyanshan",
+                  "text": "Situată proeminent printre coridoarele verzi ale districtului, această înălțime stâncoasă oferă o urcare solicitantă pentru drumeți.",
+                  "category": "natural",
+                  "coords": [
+                        121.646386,
+                        25.122049
+                  ]
+            },
+            {
+                  "name": "Zhongnan Park",
+                  "text": "Acest spațiu verde de cartier este bine utilizat pentru aleile sale umbrite și zonele de recreere dedicate familiilor locale.",
+                  "category": "park",
+                  "coords": [
+                        121.613684,
+                        25.050432
+                  ]
+            },
+            {
+                  "name": "Fushan Park",
+                  "text": "Un teren de recreere terasat care prezintă peluze deschise întinse, mărginite de paturi de grădină amenajate cu grijă.",
+                  "category": "park",
+                  "coords": [
+                        121.617917,
+                        25.044678
+                  ]
+            },
+            {
+                  "name": "Jiuzhuang Park",
+                  "text": "Servind ca o oază urbană, acest parc oferă alei mărginite de copaci și locuri de odihnă în aer liber confortabil umbrite.",
+                  "category": "park",
+                  "coords": [
+                        121.620278,
+                        25.041377
+                  ]
+            },
+            {
+                  "name": "Zhongxing Park",
+                  "text": "Un parc centrat pe comunitate, caracterizat prin aleile sale de plimbare pavate perfect, care se strecoară printre grupuri de copaci bătrâni cu umbră.",
+                  "category": "park",
+                  "coords": [
+                        121.614845,
+                        25.044636
+                  ]
+            },
+            {
+                  "name": "Academia Park",
+                  "text": "Poziționată lângă facilitățile locale de cercetare, această zonă verde liniștită este concepută pentru a oferi o atmosferă tăcută, contemplativă.",
+                  "category": "park",
+                  "coords": [
+                        121.613111,
+                        25.046863
+                  ]
+            },
+            {
+                  "name": "Liufu Park",
+                  "text": "Acest parc de cartier amenajat peisagistic se caracterizează prin aleile sale curbate, care oferă un mediu liniștit pentru plimbările zilnice.",
+                  "category": "park",
+                  "coords": [
+                        121.616548,
+                        25.047322
+                  ]
+            },
+            {
+                  "name": "Nanxi Park",
+                  "text": "Înființat în 1991, acest parc public se mândrește acum cu un coronament dens și matur de copaci care umbresc aleile sale de plimbare stabilite.",
+                  "category": "park",
+                  "coords": [
+                        121.617573,
+                        25.054668
+                  ]
+            },
+            {
+                  "name": "Jingmao Park",
+                  "text": "Funcționând ca un tampon de recreere în districtul comercial, acest spațiu verde urban modern prezintă o amenajare peisagistică geometrică.",
+                  "category": "park",
+                  "coords": [
+                        121.616329,
+                        25.062627
+                  ]
+            },
+            {
+                  "name": "Ganghou Park",
+                  "text": "Un refugiu cu frunziș în cartier, cu zone întinse de iarbă, dotate cu facilități moderne de joacă pentru comunitatea locală.",
+                  "category": "park",
+                  "coords": [
+                        121.615228,
+                        25.062927
+                  ]
+            },
+            {
+                  "name": "Sanchong World Trade Park",
+                  "text": "Adiacentă marilor centre comerciale, această piață publică amenajată este dotată cu zone structurate de relaxare în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        121.615369,
+                        25.057925
+                  ]
+            },
+            {
+                  "name": "Xingnan Park",
+                  "text": "Caracterizat prin amenajarea sa deschisă, acest spațiu în aer liber dispune de alei pavate neted, mărginite de verdeață recreativă.",
+                  "category": "park",
+                  "coords": [
+                        121.603777,
+                        25.057479
+                  ]
+            },
+            {
+                  "name": "NanXing Park",
+                  "text": "Acest parc municipal spațios este bine cunoscut pentru peluzele sale deschise largi și pentru o serie de facilități în aer liber destinate familiilor.",
+                  "category": "park",
+                  "coords": [
+                        121.606945,
+                        25.053921
+                  ]
+            },
+            {
+                  "name": "DongMing Park",
+                  "text": "Un spațiu verde local liniștit, oferind bănci de parc umbrite, aranjate de-a lungul unor alei de grădină șerpuitoare și bine întreținute.",
+                  "category": "park",
+                  "coords": [
+                        121.603614,
+                        25.054756
+                  ]
+            },
+            {
+                  "name": "DongYang Park",
+                  "text": "Acest spațiu verde axat pe comunitate oferă un cadru natural pentru relaxare, completat cu arbuști deși și piste de plimbare.",
+                  "category": "park",
+                  "coords": [
+                        121.598041,
+                        25.057729
+                  ]
+            },
+            {
+                  "name": "Labor Safety and Health Exhibition Hall",
+                  "text": "Acest muzeu educațional prezintă expoziții detaliate privind prevenirea riscurilor profesionale și practicile moderne de siguranță la locul de muncă.",
+                  "category": "museum",
+                  "coords": [
+                        121.631301,
+                        25.050899
+                  ]
+            },
+            {
+                  "name": "Museum of the Institute of History & Philology",
+                  "text": "Un depozit academic unde vizitatorii pot vedea artefacte arheologice extinse și documente istorice din primele dinastii chineze.",
+                  "category": "museum",
+                  "coords": [
+                        121.616373,
+                        25.039523
+                  ]
+            },
+            {
+                  "name": "Dream Community",
+                  "text": "Acest centru de arte vibrant este renumit pentru găzduirea de parade colorate, ateliere creative și rezidențe internaționale pentru artiști.",
+                  "category": "cultural",
+                  "coords": [
+                        121.632418,
+                        25.069579
+                  ]
+            },
+            {
+                  "name": "TMC Concert Hall",
+                  "text": "O sală de teatru de ultimă generație, dotată cu o acustică avansată, adaptată special pentru spectacole muzicale pline de energie.",
+                  "category": "cultural",
+                  "coords": [
+                        121.598389,
+                        25.052743
+                  ]
+            },
+            {
+                  "name": "Farmer's Market",
+                  "text": "Această piață în aer liber plină de viață are numeroase tarabe care oferă o mare varietate de produse locale proaspete și bunuri agricole de sezon.",
+                  "category": "cultural",
+                  "coords": [
+                        121.629687,
+                        25.069841
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Taipei Music Center",
+                  "text": "This futuristic arts centre is characterized by its avant-garde architecture designed specifically to host large-scale pop music performances.",
+                  "category": "cultural",
+                  "coords": [
+                        121.599368,
+                        25.052083
+                  ]
+            },
+            {
+                  "name": "Gongbeidian",
+                  "text": "A prominent Taoist place of worship, this temple is famous for its scenic mountain setting and vibrant maple leaves in autumn.",
+                  "category": "religious",
+                  "coords": [
+                        121.641998,
+                        25.094412
+                  ]
+            },
+            {
+                  "name": "Jinlongshan Beifeng Temple",
+                  "text": "Set peacefully beside Jinlong Lake, this place of worship offers visitors serene waterfront views along with its traditional architecture.",
+                  "category": "religious",
+                  "coords": [
+                        121.631287,
+                        25.074304
+                  ]
+            },
+            {
+                  "name": "Hushih Park",
+                  "text": "This memorial park is dedicated to the renowned scholar Hu Shih and features his resting place among quiet, tree-lined paths.",
+                  "category": "park",
+                  "coords": [
+                        121.618221,
+                        25.039761
+                  ]
+            },
+            {
+                  "name": "Dahu Park",
+                  "text": "Renowned for its large egret habitat, this park is visually defined by the picturesque Moon Pavilion bridge crossing the water.",
+                  "category": "park",
+                  "coords": [
+                        121.604698,
+                        25.081278
+                  ]
+            },
+            {
+                  "name": "Shenantoushan",
+                  "text": "A natural forested peak that rewards hikers with rugged trails winding through native subtropical vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        121.664027,
+                        25.023277
+                  ]
+            },
+            {
+                  "name": "Xiaonangangshan",
+                  "text": "This prominent hill provides a green escape from the surrounding district, featuring steep paths leading to an urban overlook.",
+                  "category": "natural",
+                  "coords": [
+                        121.62343,
+                        25.053197
+                  ]
+            },
+            {
+                  "name": "Tukuyue",
+                  "text": "Ascending this local peak reveals a densely wooded summit, serving as a tranquil retreat above the bustling city streets.",
+                  "category": "natural",
+                  "coords": [
+                        121.635512,
+                        25.023139
+                  ]
+            },
+            {
+                  "name": "Xinshan",
+                  "text": "Characterized by its rugged ridge lines, this peak is a popular destination for hikers looking to explore rocky terrain.",
+                  "category": "natural",
+                  "coords": [
+                        121.633279,
+                        25.129953
+                  ]
+            },
+            {
+                  "name": "Beigangshan",
+                  "text": "A scenic elevation offering adventurous climbers sweeping panoramic views over the local valleys and expanding urban developments.",
+                  "category": "natural",
+                  "coords": [
+                        121.635979,
+                        25.104536
+                  ]
+            },
+            {
+                  "name": "Kangleshan",
+                  "text": "A deeply shaded mountain defined by its winding dirt trails that guide hikers safely up its slopes.",
+                  "category": "natural",
+                  "coords": [
+                        121.613365,
+                        25.080441
+                  ]
+            },
+            {
+                  "name": "Shizishan",
+                  "text": "Known locally for its imposing rocky formations, this peak challenges visitors with steep inclines before rewarding them with city vistas.",
+                  "category": "natural",
+                  "coords": [
+                        121.617356,
+                        25.086974
+                  ]
+            },
+            {
+                  "name": "Neigoushan",
+                  "text": "Surrounded by rich hillside vegetation, this prominent peak provides an immersive natural trail experience for outdoor enthusiasts.",
+                  "category": "natural",
+                  "coords": [
+                        121.627376,
+                        25.089066
+                  ]
+            },
+            {
+                  "name": "Laojiujian",
+                  "text": "Forming part of the local mountain range, this distinct summit requires a challenging trek through dense subtropical underbrush.",
+                  "category": "natural",
+                  "coords": [
+                        121.626161,
+                        25.095903
+                  ]
+            },
+            {
+                  "name": "Xuetouposhan",
+                  "text": "Covered in dense native woodland, this steep elevation is a core feature of the region's interconnected hiking network.",
+                  "category": "natural",
+                  "coords": [
+                        121.63658,
+                        25.077259
+                  ]
+            },
+            {
+                  "name": "Wudunanshan",
+                  "text": "Reached via narrow mountain paths, this natural hilltop vantage point offers a serene environment away from urban noise.",
+                  "category": "natural",
+                  "coords": [
+                        121.678887,
+                        25.079705
+                  ]
+            },
+            {
+                  "name": "Jinfengshan",
+                  "text": "Characterized by its rugged terrain, this local peak features a panoramic overlook that stretches across the nearby basin.",
+                  "category": "natural",
+                  "coords": [
+                        121.669109,
+                        25.074373
+                  ]
+            },
+            {
+                  "name": "Youruishan",
+                  "text": "A forested mountain crest that provides a quiet natural escape, characterized by its undisturbed local flora.",
+                  "category": "natural",
+                  "coords": [
+                        121.67623,
+                        25.091119
+                  ]
+            },
+            {
+                  "name": "Xitoushan",
+                  "text": "This high-altitude natural feature is completely surrounded by thick groves of native Taiwanese trees and ferns.",
+                  "category": "natural",
+                  "coords": [
+                        121.658017,
+                        25.082872
+                  ]
+            },
+            {
+                  "name": "Jinyanshan",
+                  "text": "Situated prominently among the district's green corridors, this rocky elevation offers a demanding ascent for hikers.",
+                  "category": "natural",
+                  "coords": [
+                        121.646386,
+                        25.122049
+                  ]
+            },
+            {
+                  "name": "Zhongnan Park",
+                  "text": "This neighborhood green space is well-utilized for its shaded walkways and dedicated recreational areas for local families.",
+                  "category": "park",
+                  "coords": [
+                        121.613684,
+                        25.050432
+                  ]
+            },
+            {
+                  "name": "Fushan Park",
+                  "text": "A terraced recreational ground that features expansive open lawns bordered by carefully manicured landscaped garden beds.",
+                  "category": "park",
+                  "coords": [
+                        121.617917,
+                        25.044678
+                  ]
+            },
+            {
+                  "name": "Jiuzhuang Park",
+                  "text": "Serving as an urban oasis, this park provides tree-lined paths and comfortably shaded outdoor resting spots.",
+                  "category": "park",
+                  "coords": [
+                        121.620278,
+                        25.041377
+                  ]
+            },
+            {
+                  "name": "Zhongxing Park",
+                  "text": "A community-centric park characterized by its seamlessly paved walking trails threading through clusters of mature shade trees.",
+                  "category": "park",
+                  "coords": [
+                        121.614845,
+                        25.044636
+                  ]
+            },
+            {
+                  "name": "Academia Park",
+                  "text": "Positioned near local research facilities, this tranquil green area is designed to offer a quiet, contemplative atmosphere.",
+                  "category": "park",
+                  "coords": [
+                        121.613111,
+                        25.046863
+                  ]
+            },
+            {
+                  "name": "Liufu Park",
+                  "text": "This landscaped neighborhood park is characterized by its curving pathways that provide a peaceful environment for daily strolls.",
+                  "category": "park",
+                  "coords": [
+                        121.616548,
+                        25.047322
+                  ]
+            },
+            {
+                  "name": "Nanxi Park",
+                  "text": "Established in 1991, this public park now boasts a dense, mature canopy of trees shading its established walking paths.",
+                  "category": "park",
+                  "coords": [
+                        121.617573,
+                        25.054668
+                  ]
+            },
+            {
+                  "name": "Jingmao Park",
+                  "text": "Functioning as a recreational buffer in the commercial district, this modern urban green space features geometric landscaping.",
+                  "category": "park",
+                  "coords": [
+                        121.616329,
+                        25.062627
+                  ]
+            },
+            {
+                  "name": "Ganghou Park",
+                  "text": "A leafy neighborhood retreat featuring wide grassy areas equipped with modern local community play facilities.",
+                  "category": "park",
+                  "coords": [
+                        121.615228,
+                        25.062927
+                  ]
+            },
+            {
+                  "name": "Sanchong World Trade Park",
+                  "text": "Adjacent to large commercial centers, this landscaped public square is outfitted with structured outdoor seating areas.",
+                  "category": "park",
+                  "coords": [
+                        121.615369,
+                        25.057925
+                  ]
+            },
+            {
+                  "name": "Xingnan Park",
+                  "text": "Characterized by its open layout, this outdoor space features smoothly paved walkways lined with recreational greenery.",
+                  "category": "park",
+                  "coords": [
+                        121.603777,
+                        25.057479
+                  ]
+            },
+            {
+                  "name": "NanXing Park",
+                  "text": "This spacious municipal park is well-known for its wide open lawns and an array of family-friendly outdoor amenities.",
+                  "category": "park",
+                  "coords": [
+                        121.606945,
+                        25.053921
+                  ]
+            },
+            {
+                  "name": "DongMing Park",
+                  "text": "A quiet local green space offering shaded park benches arranged along well-maintained, winding garden pathways.",
+                  "category": "park",
+                  "coords": [
+                        121.603614,
+                        25.054756
+                  ]
+            },
+            {
+                  "name": "DongYang Park",
+                  "text": "This community-focused green space provides a natural setting for relaxation, complete with dense shrubbery and walking tracks.",
+                  "category": "park",
+                  "coords": [
+                        121.598041,
+                        25.057729
+                  ]
+            },
+            {
+                  "name": "Labor Safety and Health Exhibition Hall",
+                  "text": "This educational museum showcases detailed exhibits on occupational hazard prevention and modern workplace safety practices.",
+                  "category": "museum",
+                  "coords": [
+                        121.631301,
+                        25.050899
+                  ]
+            },
+            {
+                  "name": "Museum of the Institute of History & Philology",
+                  "text": "An academic repository where visitors can view extensive archaeological artifacts and historical documents from early Chinese dynasties.",
+                  "category": "museum",
+                  "coords": [
+                        121.616373,
+                        25.039523
+                  ]
+            },
+            {
+                  "name": "Dream Community",
+                  "text": "This vibrant arts centre is renowned for hosting colorful parades, creative workshops, and international artist residencies.",
+                  "category": "cultural",
+                  "coords": [
+                        121.632418,
+                        25.069579
+                  ]
+            },
+            {
+                  "name": "TMC Concert Hall",
+                  "text": "A state-of-the-art theatre venue featuring advanced acoustics specifically tailored for high-energy musical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        121.598389,
+                        25.052743
+                  ]
+            },
+            {
+                  "name": "Farmer's Market",
+                  "text": "This bustling outdoor marketplace features numerous stalls offering a wide variety of fresh local produce and seasonal agricultural goods.",
+                  "category": "cultural",
+                  "coords": [
+                        121.629687,
+                        25.069841
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TW-TPE",
     coords: [121.614, 25.059],
@@ -627,7 +9492,628 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
     },
   },
   {
-    id: "kaohsiung-software-park-economic-v2",
+    id: "kaohsiung-software-park-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kaohsiung City Fisheries Culture Center",
+                  "text": "Das Kaohsiung City Fisheries Culture Center beschreibt die Geschichte der lokalen maritimen Industrie und der traditionellen Fangmethoden in der Region.",
+                  "category": "museum",
+                  "coords": [
+                        120.316767,
+                        22.572234
+                  ]
+            },
+            {
+                  "name": "85Sky Tower View Deck",
+                  "text": "Das 85 Sky Tower View Deck liegt hoch über der Stadt und bietet einen unvergleichlichen Panoramablick auf den geschäftigen Hafen und die Skyline von Kaohsiung.",
+                  "category": "landmark",
+                  "coords": [
+                        120.300095,
+                        22.611758
+                  ]
+            },
+            {
+                  "name": "West Coast Line Bicycle Road",
+                  "text": "Die West Coast Line Bicycle Road bietet eine malerische Radroute parallel zur Meeresküste in der Wirtschaftszone des Kaohsiung Software Park.",
+                  "category": "landmark",
+                  "coords": [
+                        120.305331,
+                        22.591811
+                  ]
+            },
+            {
+                  "name": "War Peace Memorial Park Museum",
+                  "text": "Dieses Spezialmuseum in der Gegend von Kaohsiung ehrt die Erfahrungen und Opfer der taiwanesischen Soldaten, die während verschiedener historischer Konflikte im Einsatz waren.",
+                  "category": "museum",
+                  "coords": [
+                        120.28285,
+                        22.591269
+                  ]
+            },
+            {
+                  "name": "Hongmaogang Cultural Park",
+                  "text": "Der Hongmaogang Cultural Park bewahrt die architektonischen Überreste und das maritime Erbe eines alten Fischerdorfes in Kaohsiung, das durch die Hafenerweiterung verdrängt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        120.318046,
+                        22.55068
+                  ]
+            },
+            {
+                  "name": "Labor Park",
+                  "text": "Der Labor Park ist eine große städtische Grünfläche im Bezirk Qianzhen, die den Anwohnern und Arbeitern schattige Erholungsgebiete bietet.",
+                  "category": "park",
+                  "coords": [
+                        120.309159,
+                        22.607144
+                  ]
+            },
+            {
+                  "name": "Formosa Wang Brothers Park",
+                  "text": "Der Formosa Wang Brothers Park befindet sich auf dem umgestalteten ehemaligen Gelände einer großen Kunststofffabrik und bietet heute einen landschaftlich gestalteten Raum mit industriellem Erbe.",
+                  "category": "park",
+                  "coords": [
+                        120.30832,
+                        22.603242
+                  ]
+            },
+            {
+                  "name": "Cijin Park No.6",
+                  "text": "Der Cijin Park No.6 ist eine küstennahe grüne Erholungsfläche auf der Insel Cijin mit Spazierwegen, über die eine frische Meeresbrise weht.",
+                  "category": "park",
+                  "coords": [
+                        120.292146,
+                        22.579902
+                  ]
+            },
+            {
+                  "name": "Wujia Longcheng Temple",
+                  "text": "Der Wujia Longcheng-Tempel ist eine imposante, mehrstöckige Kultstätte in Kaohsiung, die für ihre hoch aufragende Mazu-Statue und ihre reich verzierte traditionelle Architektur bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        120.32844,
+                        22.594346
+                  ]
+            },
+            {
+                  "name": "Christian",
+                  "text": "Dieses christliche Gotteshaus im Raum Kaohsiung bietet eine ruhige, zweckmäßige Halle für lokale Gemeindetreffen und Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        120.304734,
+                        22.606752
+                  ]
+            },
+            {
+                  "name": "Fusing Temple",
+                  "text": "Der Fusing-Tempel ist eine stimmungsvolle Kultstätte in Kaohsiung, die sich durch ihre weihraucherfüllten Innenhöfe und aufwendigen Säulenschnitzereien auszeichnet.",
+                  "category": "religious",
+                  "coords": [
+                        120.29881,
+                        22.570695
+                  ]
+            },
+            {
+                  "name": "Qijin Bengxi Fengtian Temple",
+                  "text": "Der Bengxi Fengtian-Tempel im Bezirk Qijin ist ein farbenfrohes taoistisches Heiligtum, das dem Schutz der lokalen maritimen Gemeinschaft gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        120.298386,
+                        22.57226
+                  ]
+            },
+            {
+                  "name": "Guangji Temple",
+                  "text": "Der Guangji-Tempel dient als lebendiges taoistisches Zentrum in der Gegend von Kaohsiung und veranstaltet lebhafte saisonale Feste unter seinem kunstvoll geschwungenen Dach.",
+                  "category": "landmark",
+                  "coords": [
+                        120.294903,
+                        22.576497
+                  ]
+            },
+            {
+                  "name": "Kaohsiung Labor Park Weekend Flower Market",
+                  "text": "Dieser belebte Freiluftmarkt im Kaohsiung Labor Park ist am Wochenende geöffnet und quillt über vor Ständen, an denen Topfpflanzen, Orchideen und Gartenzubehör verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        120.309442,
+                        22.60827
+                  ]
+            },
+            {
+                  "name": "Cijin Fish Market",
+                  "text": "Der Cijin Fish Market ist ein lebendiges Küstenhandelszentrum, in dem Verkäufer die täglich frisch gefangenen Meeresfrüchte direkt aus dem nahegelegenen Hafen ausstellen.",
+                  "category": "cultural",
+                  "coords": [
+                        120.287298,
+                        22.591086
+                  ]
+            },
+            {
+                  "name": "Jhongsing Market",
+                  "text": "Der Jhongsing-Markt ist ein traditioneller taiwanesischer Morgenmarkt in Kaohsiung, vollgepackt mit lokalen Ständen, die frische Produkte, Fleisch und Street Food verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        120.297049,
+                        22.574255
+                  ]
+            },
+            {
+                  "name": "Kaisyuan Cingnian Night Market (Kaixuan Qingnian Night Market)",
+                  "text": "Der Kaixuan Qingnian Nachtmarkt ist ein weitläufiges abendliches Ausflugsziel in Kaohsiung, bekannt für seine endlosen Reihen an brutzelndem lokalem Street Food und Jahrmarktsspielen.",
+                  "category": "cultural",
+                  "coords": [
+                        120.320648,
+                        22.598989
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kaohsiung City Fisheries Culture Center",
+                  "text": "A Kaohsiung Városi Halászati Kulturális Központ a helyi tengeri ipar és a hagyományos halászati módszerek történetét mutatja be a régióban.",
+                  "category": "museum",
+                  "coords": [
+                        120.316767,
+                        22.572234
+                  ]
+            },
+            {
+                  "name": "85Sky Tower View Deck",
+                  "text": "A magasan a város felett elhelyezkedő 85 Sky Tower kilátója páratlan panorámát nyújt Kaohsiung nyüzsgő kikötőjére és sziluettjére.",
+                  "category": "landmark",
+                  "coords": [
+                        120.300095,
+                        22.611758
+                  ]
+            },
+            {
+                  "name": "West Coast Line Bicycle Road",
+                  "text": "A West Coast Line kerékpárút festői kerékpáros útvonalat biztosít az óceán partjával párhuzamosan a Kaohsiung Software Park gazdasági övezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        120.305331,
+                        22.591811
+                  ]
+            },
+            {
+                  "name": "War Peace Memorial Park Museum",
+                  "text": "Ez a Kaohsiung területén található specializált múzeum a különböző történelmi konfliktusok során bevetett tajvani katonák tapasztalatai és áldozatai előtt tiszteleg.",
+                  "category": "museum",
+                  "coords": [
+                        120.28285,
+                        22.591269
+                  ]
+            },
+            {
+                  "name": "Hongmaogang Cultural Park",
+                  "text": "A Hongmaogang Kulturális Park egy régi, a kikötőbővítés miatt kitelepített kaohsiungi halászfalu építészeti maradványait és tengeri örökségét őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.318046,
+                        22.55068
+                  ]
+            },
+            {
+                  "name": "Labor Park",
+                  "text": "A Munkaügyi Park egy nagy városi zöldterület a Qianzhen kerületben, amely árnyékos pihenőövezeteket kínál a helyi lakosok és munkások számára.",
+                  "category": "park",
+                  "coords": [
+                        120.309159,
+                        22.607144
+                  ]
+            },
+            {
+                  "name": "Formosa Wang Brothers Park",
+                  "text": "A Formosa Wang Testvérek Park egy nagy műanyaggyár átalakított egykori területén található, amely ma parkosított ipari örökségi térként szolgál.",
+                  "category": "park",
+                  "coords": [
+                        120.30832,
+                        22.603242
+                  ]
+            },
+            {
+                  "name": "Cijin Park No.6",
+                  "text": "A Cijin 6. számú park egy tengerparti rekreációs zöldterület Cijin szigetén, tengeri szellő fújta sétányokkal.",
+                  "category": "park",
+                  "coords": [
+                        120.292146,
+                        22.579902
+                  ]
+            },
+            {
+                  "name": "Wujia Longcheng Temple",
+                  "text": "A Wujia Longcheng templom egy impozáns, többszintes istentiszteleti hely Kaohsiungban, amely magasodó Mazu szobráról és díszes hagyományos építészetéről híres.",
+                  "category": "religious",
+                  "coords": [
+                        120.32844,
+                        22.594346
+                  ]
+            },
+            {
+                  "name": "Christian",
+                  "text": "Ez a keresztény imaház Kaohsiung térségében csendes, különálló termet biztosít a helyi gyülekezeti találkozókhoz és imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        120.304734,
+                        22.606752
+                  ]
+            },
+            {
+                  "name": "Fusing Temple",
+                  "text": "A Fusing templom egy hangulatos istentiszteleti hely Kaohsiungban, amelyet füstölők illatával teli udvarai és bonyolult oszlopfaragásai jellemeznek.",
+                  "category": "religious",
+                  "coords": [
+                        120.29881,
+                        22.570695
+                  ]
+            },
+            {
+                  "name": "Qijin Bengxi Fengtian Temple",
+                  "text": "A Qijin kerületben található Bengxi Fengtian templom egy színes taoista szentély, amelyet a helyi tengeri közösség védelmének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        120.298386,
+                        22.57226
+                  ]
+            },
+            {
+                  "name": "Guangji Temple",
+                  "text": "A Guangji templom egy nyüzsgő taoista központként működik Kaohsiung térségében, és díszes, ívelt teteje alatt élénk szezonális fesztiváloknak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        120.294903,
+                        22.576497
+                  ]
+            },
+            {
+                  "name": "Kaohsiung Labor Park Weekend Flower Market",
+                  "text": "A hétvégente nyitva tartó, nyüzsgő szabadtéri piac a Kaohsiung Munkaügyi Parkban zsúfolásig tele van cserepes növényeket, orchideákat és kertészeti kellékeket árusító standokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        120.309442,
+                        22.60827
+                  ]
+            },
+            {
+                  "name": "Cijin Fish Market",
+                  "text": "A Cijin Halpiac egy élénk tengerparti kereskedelmi központ, ahol az árusok a közeli kikötőből származó, aznapi friss tengeri fogást kínálják.",
+                  "category": "cultural",
+                  "coords": [
+                        120.287298,
+                        22.591086
+                  ]
+            },
+            {
+                  "name": "Jhongsing Market",
+                  "text": "A Jhongsing Market egy hagyományos tajvani reggeli piac Kaohsiungban, tele helyi standokkal, amelyek friss termékeket, húsokat és utcai ételeket árusítanak.",
+                  "category": "cultural",
+                  "coords": [
+                        120.297049,
+                        22.574255
+                  ]
+            },
+            {
+                  "name": "Kaisyuan Cingnian Night Market (Kaixuan Qingnian Night Market)",
+                  "text": "A Kaixuan Qingnian Éjszakai Piac egy hatalmas esti célpont Kaohsiungban, amely a sercegő helyi utcai ételeket és karneváli játékokat kínáló végtelen sorairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        120.320648,
+                        22.598989
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kaohsiung City Fisheries Culture Center",
+                  "text": "Centrul Cultural al Pescuitului din orașul Kaohsiung detaliază istoria industriei maritime locale și metodele tradiționale de pescuit din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        120.316767,
+                        22.572234
+                  ]
+            },
+            {
+                  "name": "85Sky Tower View Deck",
+                  "text": "Situată la mare înălțime deasupra orașului, platforma de observare a Turnului 85 Sky oferă o vedere panoramică inegalabilă a portului și a orizontului aglomerat al orașului Kaohsiung.",
+                  "category": "landmark",
+                  "coords": [
+                        120.300095,
+                        22.611758
+                  ]
+            },
+            {
+                  "name": "West Coast Line Bicycle Road",
+                  "text": "Pista de biciclete West Coast Line oferă un traseu de ciclism pitoresc paralel cu țărmul oceanului în zona economică Kaohsiung Software Park.",
+                  "category": "landmark",
+                  "coords": [
+                        120.305331,
+                        22.591811
+                  ]
+            },
+            {
+                  "name": "War Peace Memorial Park Museum",
+                  "text": "Acest muzeu specializat din zona Kaohsiung onorează experiențele și sacrificiile soldaților taiwanezi dislocați în timpul diferitelor conflicte istorice.",
+                  "category": "museum",
+                  "coords": [
+                        120.28285,
+                        22.591269
+                  ]
+            },
+            {
+                  "name": "Hongmaogang Cultural Park",
+                  "text": "Parcul Cultural Hongmaogang păstrează rămășițele arhitecturale și moștenirea maritimă a unui vechi sat de pescari din Kaohsiung, strămutat de expansiunea portului.",
+                  "category": "landmark",
+                  "coords": [
+                        120.318046,
+                        22.55068
+                  ]
+            },
+            {
+                  "name": "Labor Park",
+                  "text": "Parcul Muncii este un mare spațiu verde urban în districtul Qianzhen, oferind zone de recreere umbrite pentru rezidenții locali și muncitori.",
+                  "category": "park",
+                  "coords": [
+                        120.309159,
+                        22.607144
+                  ]
+            },
+            {
+                  "name": "Formosa Wang Brothers Park",
+                  "text": "Parcul Frații Wang Formosa ocupă fostul teren transformat al unei mari fabrici de mase plastice, oferind acum un spațiu amenajat al moștenirii industriale.",
+                  "category": "park",
+                  "coords": [
+                        120.30832,
+                        22.603242
+                  ]
+            },
+            {
+                  "name": "Cijin Park No.6",
+                  "text": "Parcul Cijin Nr. 6 este un spațiu verde de recreere pe coastă, situat pe insula Cijin, oferind alei pietonale bătute de briza oceanului.",
+                  "category": "park",
+                  "coords": [
+                        120.292146,
+                        22.579902
+                  ]
+            },
+            {
+                  "name": "Wujia Longcheng Temple",
+                  "text": "Templul Wujia Longcheng este un impunător lăcaș de cult cu mai multe etaje din Kaohsiung, renumit pentru statuia sa falnică Mazu și arhitectura tradițională ornamentată.",
+                  "category": "religious",
+                  "coords": [
+                        120.32844,
+                        22.594346
+                  ]
+            },
+            {
+                  "name": "Christian",
+                  "text": "Acest lăcaș de cult creștin din zona Kaohsiung oferă o sală liniștită, dedicată pentru întâlnirile congregației locale și rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        120.304734,
+                        22.606752
+                  ]
+            },
+            {
+                  "name": "Fusing Temple",
+                  "text": "Templul Fusing este un lăcaș de cult plin de atmosferă din Kaohsiung, caracterizat prin curțile sale pline de tămâie și sculpturile complicate ale stâlpilor.",
+                  "category": "religious",
+                  "coords": [
+                        120.29881,
+                        22.570695
+                  ]
+            },
+            {
+                  "name": "Qijin Bengxi Fengtian Temple",
+                  "text": "Situat în districtul Qijin, Templul Bengxi Fengtian este un sanctuar taoist colorat dedicat protejării comunității maritime locale.",
+                  "category": "landmark",
+                  "coords": [
+                        120.298386,
+                        22.57226
+                  ]
+            },
+            {
+                  "name": "Guangji Temple",
+                  "text": "Templul Guangji servește ca un centru taoist vibrant în zona Kaohsiung, găzduind festivaluri sezoniere pline de viață sub acoperișul său curbat și ornat.",
+                  "category": "landmark",
+                  "coords": [
+                        120.294903,
+                        22.576497
+                  ]
+            },
+            {
+                  "name": "Kaohsiung Labor Park Weekend Flower Market",
+                  "text": "Deschis la sfârșit de săptămână, acest hubbub de piață în aer liber din interiorul Parcului Muncii Kaohsiung este plin de tarabe care vând plante în ghivece, orhidee și consumabile pentru grădinărit.",
+                  "category": "cultural",
+                  "coords": [
+                        120.309442,
+                        22.60827
+                  ]
+            },
+            {
+                  "name": "Cijin Fish Market",
+                  "text": "Piața de Pește Cijin este un centru comercial de coastă plin de viață, unde vânzătorii expun fructele de mare proaspăt prinse în ziua respectivă direct din portul din apropiere.",
+                  "category": "cultural",
+                  "coords": [
+                        120.287298,
+                        22.591086
+                  ]
+            },
+            {
+                  "name": "Jhongsing Market",
+                  "text": "Piața Jhongsing este o piață tradițională taiwaneză de dimineață în Kaohsiung, plină de tarabe locale care vând produse proaspete, carne și mâncare stradală.",
+                  "category": "cultural",
+                  "coords": [
+                        120.297049,
+                        22.574255
+                  ]
+            },
+            {
+                  "name": "Kaisyuan Cingnian Night Market (Kaixuan Qingnian Night Market)",
+                  "text": "Piața de noapte Kaixuan Qingnian este o destinație de seară întinsă în Kaohsiung, cunoscută pentru rândurile sale nesfârșite de mâncare stradală locală sfârâitoare și jocuri de carnaval.",
+                  "category": "cultural",
+                  "coords": [
+                        120.320648,
+                        22.598989
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kaohsiung City Fisheries Culture Center",
+                  "text": "The Kaohsiung City Fisheries Culture Center details the history of the local maritime industry and traditional fishing methods in the region.",
+                  "category": "museum",
+                  "coords": [
+                        120.316767,
+                        22.572234
+                  ]
+            },
+            {
+                  "name": "85Sky Tower View Deck",
+                  "text": "Located high above the city, the 85 Sky Tower View Deck offers an unparalleled panoramic view of the bustling Kaohsiung harbor and skyline.",
+                  "category": "landmark",
+                  "coords": [
+                        120.300095,
+                        22.611758
+                  ]
+            },
+            {
+                  "name": "West Coast Line Bicycle Road",
+                  "text": "The West Coast Line Bicycle Road provides a scenic cycling route parallel to the ocean shore in the Kaohsiung Software Park economic zone.",
+                  "category": "landmark",
+                  "coords": [
+                        120.305331,
+                        22.591811
+                  ]
+            },
+            {
+                  "name": "War Peace Memorial Park Museum",
+                  "text": "This specialized museum in the Kaohsiung area honors the experiences and sacrifices of Taiwanese soldiers deployed during various historical conflicts.",
+                  "category": "museum",
+                  "coords": [
+                        120.28285,
+                        22.591269
+                  ]
+            },
+            {
+                  "name": "Hongmaogang Cultural Park",
+                  "text": "Hongmaogang Cultural Park preserves the architectural remnants and maritime heritage of an old Kaohsiung fishing village displaced by port expansion.",
+                  "category": "landmark",
+                  "coords": [
+                        120.318046,
+                        22.55068
+                  ]
+            },
+            {
+                  "name": "Labor Park",
+                  "text": "Labor Park is a large urban green space in the Qianzhen District, offering shaded recreational areas for local residents and workers.",
+                  "category": "park",
+                  "coords": [
+                        120.309159,
+                        22.607144
+                  ]
+            },
+            {
+                  "name": "Formosa Wang Brothers Park",
+                  "text": "The Formosa Wang Brothers Park occupies the transformed former grounds of a major plastics factory, now offering a landscaped industrial heritage space.",
+                  "category": "park",
+                  "coords": [
+                        120.30832,
+                        22.603242
+                  ]
+            },
+            {
+                  "name": "Cijin Park No.6",
+                  "text": "Cijin Park No.6 is a coastal recreational green space on Cijin Island, featuring walking paths swept by ocean breezes.",
+                  "category": "park",
+                  "coords": [
+                        120.292146,
+                        22.579902
+                  ]
+            },
+            {
+                  "name": "Wujia Longcheng Temple",
+                  "text": "The Wujia Longcheng Temple is an imposing multi-story place of worship in Kaohsiung, renowned for its towering Mazu statue and ornate traditional architecture.",
+                  "category": "religious",
+                  "coords": [
+                        120.32844,
+                        22.594346
+                  ]
+            },
+            {
+                  "name": "Christian",
+                  "text": "This Christian house of worship in the Kaohsiung area provides a quiet, dedicated hall for local congregation meetings and prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        120.304734,
+                        22.606752
+                  ]
+            },
+            {
+                  "name": "Fusing Temple",
+                  "text": "Fusing Temple is an atmospheric place of worship in Kaohsiung, characterized by its incense-filled courtyards and intricate pillar carvings.",
+                  "category": "religious",
+                  "coords": [
+                        120.29881,
+                        22.570695
+                  ]
+            },
+            {
+                  "name": "Qijin Bengxi Fengtian Temple",
+                  "text": "Located in the Qijin district, the Bengxi Fengtian Temple is a colorful Taoist sanctuary dedicated to protecting the local maritime community.",
+                  "category": "landmark",
+                  "coords": [
+                        120.298386,
+                        22.57226
+                  ]
+            },
+            {
+                  "name": "Guangji Temple",
+                  "text": "The Guangji Temple serves as a vibrant Taoist center in the Kaohsiung area, hosting lively seasonal festivals under its ornate swept roof.",
+                  "category": "landmark",
+                  "coords": [
+                        120.294903,
+                        22.576497
+                  ]
+            },
+            {
+                  "name": "Kaohsiung Labor Park Weekend Flower Market",
+                  "text": "Open on weekends, this bustling open-air market inside Kaohsiung Labor Park overflows with stalls selling potted plants, orchids, and gardening supplies.",
+                  "category": "cultural",
+                  "coords": [
+                        120.309442,
+                        22.60827
+                  ]
+            },
+            {
+                  "name": "Cijin Fish Market",
+                  "text": "The Cijin Fish Market is a lively coastal trading hub where vendors display the day's freshly caught seafood straight from the nearby harbor.",
+                  "category": "cultural",
+                  "coords": [
+                        120.287298,
+                        22.591086
+                  ]
+            },
+            {
+                  "name": "Jhongsing Market",
+                  "text": "Jhongsing Market is a traditional Taiwanese morning market in Kaohsiung, packed with local stalls selling fresh produce, meats, and street food.",
+                  "category": "cultural",
+                  "coords": [
+                        120.297049,
+                        22.574255
+                  ]
+            },
+            {
+                  "name": "Kaisyuan Cingnian Night Market (Kaixuan Qingnian Night Market)",
+                  "text": "The Kaixuan Qingnian Night Market is a sprawling evening destination in Kaohsiung known for its endless rows of sizzling local street food and carnival games.",
+                  "category": "cultural",
+                  "coords": [
+                        120.320648,
+                        22.598989
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TW-KHH",
     coords: [120.297, 22.605],
@@ -723,7 +10209,88 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
     },
   },
   {
-    id: "changhua-coastal-industrial-park-economic-v2",
+    id: "changhua-coastal-industrial-park-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Line West Industrial Zone Waterbird Observation Area",
+                  "text": "Dieses Küstenfeuchtgebiet im Changhua Coastal Industrial Park bietet eine ruhige Umgebung zur Beobachtung von Zugvögeln.",
+                  "category": "landmark",
+                  "coords": [
+                        120.411134,
+                        24.125339
+                  ]
+            },
+            {
+                  "name": "Meat Cape Beach",
+                  "text": "Dieser Sandstrand an der Küste von Changhua ist für seine weiten Wattflächen und die Kulisse aus hoch aufragenden Windkraftanlagen bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        120.404212,
+                        24.125126
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Line West Industrial Zone Waterbird Observation Area",
+                  "text": "A Changhua Coastal Industrial Parkban található tengerparti vizenyős terület nyugodt környezetet biztosít a vándormadarak megfigyeléséhez.",
+                  "category": "landmark",
+                  "coords": [
+                        120.411134,
+                        24.125339
+                  ]
+            },
+            {
+                  "name": "Meat Cape Beach",
+                  "text": "A Changhua partvidékén található homokos strand széles árapálysíkságairól és a tornyosuló szélturbinák hátteréről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        120.404212,
+                        24.125126
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Line West Industrial Zone Waterbird Observation Area",
+                  "text": "Situată în Changhua Coastal Industrial Park, această zonă umedă de coastă oferă un cadru liniștit pentru observarea păsărilor de apă migratoare.",
+                  "category": "landmark",
+                  "coords": [
+                        120.411134,
+                        24.125339
+                  ]
+            },
+            {
+                  "name": "Meat Cape Beach",
+                  "text": "Această plajă cu nisip de pe coasta Changhua este cunoscută pentru zonele sale intertidale largi și fundalul dominat de turbine eoliene înalte.",
+                  "category": "landmark",
+                  "coords": [
+                        120.404212,
+                        24.125126
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Line West Industrial Zone Waterbird Observation Area",
+                  "text": "Situated in the Changhua Coastal Industrial Park, this coastal wetland area provides a tranquil setting for observing migratory waterbirds.",
+                  "category": "landmark",
+                  "coords": [
+                        120.411134,
+                        24.125339
+                  ]
+            },
+            {
+                  "name": "Meat Cape Beach",
+                  "text": "Located along the Changhua coast, this sandy beach is known for its wide tidal flats and backdrop of towering wind turbines.",
+                  "category": "landmark",
+                  "coords": [
+                        120.404212,
+                        24.125126
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TW-CHA",
     coords: [120.407, 24.116],
@@ -771,7 +10338,736 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
     },
   },
   {
-    id: "taoyuan-free-trade-zone-economic-v2",
+    id: "taoyuan-free-trade-zone-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castella Land",
+                  "text": "Diese süße Themenattraktion erfreut Besucher mit Ausstellungen, die sich auf den berühmten Biskuitkuchen konzentrieren.",
+                  "category": "landmark",
+                  "coords": [
+                        121.253355,
+                        25.031918
+                  ]
+            },
+            {
+                  "name": "Dazhu Night Market",
+                  "text": "Diese lebhafte Nachtmarkt-Attraktion zieht mit ihrem vielfältigen Streetfood und ihren Spielen Menschenmassen an.",
+                  "category": "landmark",
+                  "coords": [
+                        121.264104,
+                        25.021816
+                  ]
+            },
+            {
+                  "name": "Taiwan High Speed Rail Museum",
+                  "text": "Dieses bekannte Verkehrsmuseum bietet detaillierte Ausstellungen über die Entwicklung des Hochgeschwindigkeitsnetzes.",
+                  "category": "museum",
+                  "coords": [
+                        121.21372,
+                        25.011815
+                  ]
+            },
+            {
+                  "name": "Haihu",
+                  "text": "Diese bekannte lokale Attraktion bietet Punkte von historischem und küstennahem Interesse.",
+                  "category": "landmark",
+                  "coords": [
+                        121.272074,
+                        25.107066
+                  ]
+            },
+            {
+                  "name": "Nankanshan",
+                  "text": "Dieser lokale Gipfel bietet lohnende Wanderwege und Panoramablicke über die umliegende Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        121.296291,
+                        25.066775
+                  ]
+            },
+            {
+                  "name": "Dagushan",
+                  "text": "Dieser erhöhte Gipfel bietet Wanderern, die die Natur genießen möchten, einen malerischen Aussichtspunkt.",
+                  "category": "natural",
+                  "coords": [
+                        121.291524,
+                        25.102517
+                  ]
+            },
+            {
+                  "name": "Taoyuan Museum of Fine Arts",
+                  "text": "Dieses bekannte Kunstmuseum präsentiert eine vielfältige Sammlung zeitgenössischer und klassischer bildender Künste.",
+                  "category": "museum",
+                  "coords": [
+                        121.20626,
+                        25.00533
+                  ]
+            },
+            {
+                  "name": "Xpark",
+                  "text": "Dieses bekannte Aquarium wurde am 7. August 2020 eröffnet und zeigt vielfältiges Meeresleben in immersiven Lebensräumen.",
+                  "category": "recreational",
+                  "coords": [
+                        121.214083,
+                        25.017217
+                  ]
+            },
+            {
+                  "name": "Taoyuan Aerotropolis Musuem Complex: Alert Apron 05",
+                  "text": "Dieser Museumskomplex, dessen Eröffnung für den 24. Juli 2025 geplant ist, befasst sich mit der Luftfahrtgeschichte und den Entwicklungen in der Luft- und Raumfahrt.",
+                  "category": "museum",
+                  "coords": [
+                        121.229515,
+                        25.047473
+                  ]
+            },
+            {
+                  "name": "Yamaiji Umbrella Cultural and Creative Park",
+                  "text": "Dieser einzigartige Museumsraum ist der Kunstfertigkeit und Kulturgeschichte des Regenschirmhandwerks gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        121.187633,
+                        25.068005
+                  ]
+            },
+            {
+                  "name": "Nantian Temple",
+                  "text": "Dieser ruhige buddhistische Tempel verfügt über kunstvolle Schnitzereien und einen friedlichen Innenhof zur Meditation.",
+                  "category": "landmark",
+                  "coords": [
+                        121.262474,
+                        25.0372
+                  ]
+            },
+            {
+                  "name": "Yitian Temple",
+                  "text": "Dieser traditionelle taoistische Tempel dient der lokalen Gemeinschaft mit seiner kunstvollen religiösen Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        121.253112,
+                        25.021803
+                  ]
+            },
+            {
+                  "name": "Taoyuan Culture Center, Taiwa Soka Association",
+                  "text": "Dieses buddhistische Kulturzentrum dient als Bildungs- und spiritueller Knotenpunkt für die regionale Vereinigung.",
+                  "category": "landmark",
+                  "coords": [
+                        121.221852,
+                        25.019245
+                  ]
+            },
+            {
+                  "name": "Ciyin Temple",
+                  "text": "Dieser Nachbarschaftstempel bietet ein ruhiges spirituelles Heiligtum, umgeben von traditionellen Weihrauchbrennern.",
+                  "category": "religious",
+                  "coords": [
+                        121.299392,
+                        25.099912
+                  ]
+            },
+            {
+                  "name": "Cimu Temple",
+                  "text": "Dieser taoistische Tempel lädt Gläubige zu seinen wunderschön dekorierten Schreinen und friedlichen Altären ein.",
+                  "category": "landmark",
+                  "coords": [
+                        121.23864,
+                        25.023006
+                  ]
+            },
+            {
+                  "name": "Qingsheng Temple",
+                  "text": "Diese lebendige taoistische Kultstätte zeichnet sich durch ihre komplizierten Dachornamente und traditionellen Motive aus.",
+                  "category": "landmark",
+                  "coords": [
+                        121.222548,
+                        25.015622
+                  ]
+            },
+            {
+                  "name": "Guangtian Temple",
+                  "text": "Dieser buddhistische Tempel bietet mit seinem klassischen Baustil und den Gebetshallen eine ruhige Atmosphäre.",
+                  "category": "landmark",
+                  "coords": [
+                        121.215607,
+                        25.004663
+                  ]
+            },
+            {
+                  "name": "Chengsheng Temple",
+                  "text": "Dieser Tempel der chinesischen Volksreligion verfügt über farbenfrohe Gottheiten und einen lebendigen Raum für traditionelle Rituale.",
+                  "category": "landmark",
+                  "coords": [
+                        121.267657,
+                        25.091247
+                  ]
+            },
+            {
+                  "name": "Dazhu Market",
+                  "text": "Dieser geschäftige lokale Marktplatz ist ein zentraler Ort, um frische Lebensmittel und Dinge des täglichen Bedarfs zu finden.",
+                  "category": "cultural",
+                  "coords": [
+                        121.256389,
+                        25.024572
+                  ]
+            },
+            {
+                  "name": "Chuwei Harbor Sea Product Sales Dept",
+                  "text": "Dieser Marktplatz am Hafen ist auf eine frische und große Auswahl an täglich gefangenen Meeresfrüchten spezialisiert.",
+                  "category": "cultural",
+                  "coords": [
+                        121.245161,
+                        25.117008
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castella Land",
+                  "text": "Ez az édes témájú látványosság a híres piskótával kapcsolatos kiállításokkal örvendezteti meg a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        121.253355,
+                        25.031918
+                  ]
+            },
+            {
+                  "name": "Dazhu Night Market",
+                  "text": "Ez a nyüzsgő éjszakai piac sokszínű utcai ételeivel és játékaival vonzza a tömegeket.",
+                  "category": "landmark",
+                  "coords": [
+                        121.264104,
+                        25.021816
+                  ]
+            },
+            {
+                  "name": "Taiwan High Speed Rail Museum",
+                  "text": "Ez a figyelemre méltó közlekedési múzeum részletes kiállításokat kínál a nagysebességű vasúthálózat fejlődéséről.",
+                  "category": "museum",
+                  "coords": [
+                        121.21372,
+                        25.011815
+                  ]
+            },
+            {
+                  "name": "Haihu",
+                  "text": "Ez a neves helyi látványosság történelmi és tengerparti érdekességekkel büszkélkedhet.",
+                  "category": "landmark",
+                  "coords": [
+                        121.272074,
+                        25.107066
+                  ]
+            },
+            {
+                  "name": "Nankanshan",
+                  "text": "Ez a helyi hegycsúcs hálás túraútvonalakat és panorámás kilátást nyújt a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        121.296291,
+                        25.066775
+                  ]
+            },
+            {
+                  "name": "Dagushan",
+                  "text": "Ez a magaslat festői kilátópontot nyújt a természetet kedvelő túrázók számára.",
+                  "category": "natural",
+                  "coords": [
+                        121.291524,
+                        25.102517
+                  ]
+            },
+            {
+                  "name": "Taoyuan Museum of Fine Arts",
+                  "text": "Ez a jól ismert művészeti múzeum a kortárs és klasszikus képzőművészet sokszínű gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        121.20626,
+                        25.00533
+                  ]
+            },
+            {
+                  "name": "Xpark",
+                  "text": "A 2020. augusztus 7-én megnyílt, kiemelkedő akvárium változatos tengeri élővilágot mutat be magával ragadó vízi élőhelyeken.",
+                  "category": "recreational",
+                  "coords": [
+                        121.214083,
+                        25.017217
+                  ]
+            },
+            {
+                  "name": "Taoyuan Aerotropolis Musuem Complex: Alert Apron 05",
+                  "text": "A 2025. július 24-re tervezett múzeumkomplexum a repüléstörténetet és az űrrepülési fejlesztéseket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        121.229515,
+                        25.047473
+                  ]
+            },
+            {
+                  "name": "Yamaiji Umbrella Cultural and Creative Park",
+                  "text": "Ez az egyedülálló múzeumi tér az esernyőkészítés művészetének és kultúrtörténetének szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        121.187633,
+                        25.068005
+                  ]
+            },
+            {
+                  "name": "Nantian Temple",
+                  "text": "Ez a nyugodt buddhista templom díszes faragványokkal és a meditációhoz békés udvarral rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        121.262474,
+                        25.0372
+                  ]
+            },
+            {
+                  "name": "Yitian Temple",
+                  "text": "Ez a hagyományos taoista templom kidolgozott vallási építészetével szolgálja a helyi közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        121.253112,
+                        25.021803
+                  ]
+            },
+            {
+                  "name": "Taoyuan Culture Center, Taiwa Soka Association",
+                  "text": "Ez a buddhista kulturális központ a regionális egyesület oktatási és spirituális központjaként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        121.221852,
+                        25.019245
+                  ]
+            },
+            {
+                  "name": "Ciyin Temple",
+                  "text": "Ez a környékbeli templom csendes spirituális szentélyt kínál, amelyet hagyományos füstölők vesznek körül.",
+                  "category": "religious",
+                  "coords": [
+                        121.299392,
+                        25.099912
+                  ]
+            },
+            {
+                  "name": "Cimu Temple",
+                  "text": "Ez a taoista templom gyönyörűen díszített szentélyeivel és békés oltáraival várja a hívőket.",
+                  "category": "landmark",
+                  "coords": [
+                        121.23864,
+                        25.023006
+                  ]
+            },
+            {
+                  "name": "Qingsheng Temple",
+                  "text": "Ezt az élénk taoista istentiszteleti helyet bonyolult tetődíszei és hagyományos motívumai különböztetik meg.",
+                  "category": "landmark",
+                  "coords": [
+                        121.222548,
+                        25.015622
+                  ]
+            },
+            {
+                  "name": "Guangtian Temple",
+                  "text": "Ez a buddhista templom nyugodt légkört kínál klasszikus építészeti stílusával és imatermeivel.",
+                  "category": "landmark",
+                  "coords": [
+                        121.215607,
+                        25.004663
+                  ]
+            },
+            {
+                  "name": "Chengsheng Temple",
+                  "text": "Ez a kínai népi vallású templom színes istenségekkel és a hagyományos rituálékhoz élénk térrel büszkélkedhet.",
+                  "category": "landmark",
+                  "coords": [
+                        121.267657,
+                        25.091247
+                  ]
+            },
+            {
+                  "name": "Dazhu Market",
+                  "text": "Ez a forgalmas helyi piac központi hely a friss élelmiszerek és a napi szükségleti cikkek beszerzésére.",
+                  "category": "cultural",
+                  "coords": [
+                        121.256389,
+                        25.024572
+                  ]
+            },
+            {
+                  "name": "Chuwei Harbor Sea Product Sales Dept",
+                  "text": "Ez a kikötői piac a naponta fogott friss tenger gyümölcseinek széles választékára specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        121.245161,
+                        25.117008
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castella Land",
+                  "text": "Această atracție cu tematică dulce încântă vizitatorii cu expoziții axate pe celebrul pandișpan.",
+                  "category": "landmark",
+                  "coords": [
+                        121.253355,
+                        25.031918
+                  ]
+            },
+            {
+                  "name": "Dazhu Night Market",
+                  "text": "Această atracție vibrantă a pieței de noapte atrage mulțimi cu mâncarea stradală diversă și jocurile sale.",
+                  "category": "landmark",
+                  "coords": [
+                        121.264104,
+                        25.021816
+                  ]
+            },
+            {
+                  "name": "Taiwan High Speed Rail Museum",
+                  "text": "Acest muzeu notabil al transporturilor oferă expoziții detaliate despre dezvoltarea rețelei feroviare de mare viteză.",
+                  "category": "museum",
+                  "coords": [
+                        121.21372,
+                        25.011815
+                  ]
+            },
+            {
+                  "name": "Haihu",
+                  "text": "Această atracție locală recunoscută prezintă puncte de interes istoric și de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        121.272074,
+                        25.107066
+                  ]
+            },
+            {
+                  "name": "Nankanshan",
+                  "text": "Acest vârf local oferă trasee de drumeții pline de satisfacții și vederi panoramice asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        121.296291,
+                        25.066775
+                  ]
+            },
+            {
+                  "name": "Dagushan",
+                  "text": "Acest vârf înalt oferă un punct de observație pitoresc pentru drumeții care caută vederi spre natură.",
+                  "category": "natural",
+                  "coords": [
+                        121.291524,
+                        25.102517
+                  ]
+            },
+            {
+                  "name": "Taoyuan Museum of Fine Arts",
+                  "text": "Acest cunoscut muzeu de artă prezintă o colecție diversă de arte vizuale contemporane și clasice.",
+                  "category": "museum",
+                  "coords": [
+                        121.20626,
+                        25.00533
+                  ]
+            },
+            {
+                  "name": "Xpark",
+                  "text": "Deschis pe 7 august 2020, acest acvariu proeminent expune o viață marină diversă în habitate acvatice captivante.",
+                  "category": "recreational",
+                  "coords": [
+                        121.214083,
+                        25.017217
+                  ]
+            },
+            {
+                  "name": "Taoyuan Aerotropolis Musuem Complex: Alert Apron 05",
+                  "text": "Programat pentru a fi deschis pe 24 iulie 2025, acest complex muzeal explorează istoria aviației și dezvoltările aerospațiale.",
+                  "category": "museum",
+                  "coords": [
+                        121.229515,
+                        25.047473
+                  ]
+            },
+            {
+                  "name": "Yamaiji Umbrella Cultural and Creative Park",
+                  "text": "Acest spațiu muzeal unic este dedicat artei și istoriei culturale a meșteșugului umbrelelor.",
+                  "category": "museum",
+                  "coords": [
+                        121.187633,
+                        25.068005
+                  ]
+            },
+            {
+                  "name": "Nantian Temple",
+                  "text": "Acest templu budist liniștit prezintă sculpturi ornamentate și o curte pașnică pentru meditație.",
+                  "category": "landmark",
+                  "coords": [
+                        121.262474,
+                        25.0372
+                  ]
+            },
+            {
+                  "name": "Yitian Temple",
+                  "text": "Acest templu taoist tradițional servește comunitatea locală prin arhitectura sa religioasă elaborată.",
+                  "category": "landmark",
+                  "coords": [
+                        121.253112,
+                        25.021803
+                  ]
+            },
+            {
+                  "name": "Taoyuan Culture Center, Taiwa Soka Association",
+                  "text": "Acest centru cultural budist servește drept un nucleu educațional și spiritual pentru asociația regională.",
+                  "category": "landmark",
+                  "coords": [
+                        121.221852,
+                        25.019245
+                  ]
+            },
+            {
+                  "name": "Ciyin Temple",
+                  "text": "Acest templu de cartier oferă un sanctuar spiritual liniștit, înconjurat de arzătoare de tămâie tradiționale.",
+                  "category": "religious",
+                  "coords": [
+                        121.299392,
+                        25.099912
+                  ]
+            },
+            {
+                  "name": "Cimu Temple",
+                  "text": "Acest templu taoist invită credincioșii la altarele sale frumos decorate și liniștite.",
+                  "category": "landmark",
+                  "coords": [
+                        121.23864,
+                        25.023006
+                  ]
+            },
+            {
+                  "name": "Qingsheng Temple",
+                  "text": "Acest lăcaș de cult taoist vibrant se distinge prin ornamentele sale complexe de pe acoperiș și motivele tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        121.222548,
+                        25.015622
+                  ]
+            },
+            {
+                  "name": "Guangtian Temple",
+                  "text": "Acest templu budist oferă o atmosferă calmă cu stilul său arhitectural clasic și sălile de rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        121.215607,
+                        25.004663
+                  ]
+            },
+            {
+                  "name": "Chengsheng Temple",
+                  "text": "Acest templu al religiei populare chineze prezintă zeități colorate și un spațiu plin de viață pentru ritualuri tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        121.267657,
+                        25.091247
+                  ]
+            },
+            {
+                  "name": "Dazhu Market",
+                  "text": "Această piață locală aglomerată este un loc central pentru a găsi alimente proaspete și necesități zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        121.256389,
+                        25.024572
+                  ]
+            },
+            {
+                  "name": "Chuwei Harbor Sea Product Sales Dept",
+                  "text": "Această piață de pe malul portului este specializată într-o selecție largă și proaspătă de fructe de mare prinse zilnic.",
+                  "category": "cultural",
+                  "coords": [
+                        121.245161,
+                        25.117008
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castella Land",
+                  "text": "This sweet-themed attraction delights visitors with exhibits focused on the famous sponge cake.",
+                  "category": "landmark",
+                  "coords": [
+                        121.253355,
+                        25.031918
+                  ]
+            },
+            {
+                  "name": "Dazhu Night Market",
+                  "text": "This vibrant night market attraction draws crowds with its diverse street food and games.",
+                  "category": "landmark",
+                  "coords": [
+                        121.264104,
+                        25.021816
+                  ]
+            },
+            {
+                  "name": "Taiwan High Speed Rail Museum",
+                  "text": "This notable transport museum provides detailed exhibits on the development of the high-speed rail network.",
+                  "category": "museum",
+                  "coords": [
+                        121.21372,
+                        25.011815
+                  ]
+            },
+            {
+                  "name": "Haihu",
+                  "text": "This noted local attraction features points of historical and coastal interest.",
+                  "category": "landmark",
+                  "coords": [
+                        121.272074,
+                        25.107066
+                  ]
+            },
+            {
+                  "name": "Nankanshan",
+                  "text": "This local peak offers rewarding hiking trails and panoramic views over the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        121.296291,
+                        25.066775
+                  ]
+            },
+            {
+                  "name": "Dagushan",
+                  "text": "This elevated peak provides a scenic vantage point for hikers seeking nature views.",
+                  "category": "natural",
+                  "coords": [
+                        121.291524,
+                        25.102517
+                  ]
+            },
+            {
+                  "name": "Taoyuan Museum of Fine Arts",
+                  "text": "This well-known art museum showcases a diverse collection of contemporary and classical visual arts.",
+                  "category": "museum",
+                  "coords": [
+                        121.20626,
+                        25.00533
+                  ]
+            },
+            {
+                  "name": "Xpark",
+                  "text": "Opened on August 7, 2020, this prominent aquarium displays diverse marine life in immersive aquatic habitats.",
+                  "category": "recreational",
+                  "coords": [
+                        121.214083,
+                        25.017217
+                  ]
+            },
+            {
+                  "name": "Taoyuan Aerotropolis Musuem Complex: Alert Apron 05",
+                  "text": "Scheduled to open on July 24, 2025, this museum complex explores aviation history and aerospace developments.",
+                  "category": "museum",
+                  "coords": [
+                        121.229515,
+                        25.047473
+                  ]
+            },
+            {
+                  "name": "Yamaiji Umbrella Cultural and Creative Park",
+                  "text": "This unique museum space is dedicated to the artistry and cultural history of umbrella craftsmanship.",
+                  "category": "museum",
+                  "coords": [
+                        121.187633,
+                        25.068005
+                  ]
+            },
+            {
+                  "name": "Nantian Temple",
+                  "text": "This tranquil Buddhist temple features ornate carvings and a peaceful courtyard for meditation.",
+                  "category": "landmark",
+                  "coords": [
+                        121.262474,
+                        25.0372
+                  ]
+            },
+            {
+                  "name": "Yitian Temple",
+                  "text": "This traditional Taoist temple serves the local community with its elaborate religious architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        121.253112,
+                        25.021803
+                  ]
+            },
+            {
+                  "name": "Taoyuan Culture Center, Taiwa Soka Association",
+                  "text": "This Buddhist cultural center serves as an educational and spiritual hub for the regional association.",
+                  "category": "landmark",
+                  "coords": [
+                        121.221852,
+                        25.019245
+                  ]
+            },
+            {
+                  "name": "Ciyin Temple",
+                  "text": "This neighborhood temple provides a quiet spiritual sanctuary surrounded by traditional incense burners.",
+                  "category": "religious",
+                  "coords": [
+                        121.299392,
+                        25.099912
+                  ]
+            },
+            {
+                  "name": "Cimu Temple",
+                  "text": "This Taoist temple invites worshippers to its beautifully decorated shrines and peaceful altars.",
+                  "category": "landmark",
+                  "coords": [
+                        121.23864,
+                        25.023006
+                  ]
+            },
+            {
+                  "name": "Qingsheng Temple",
+                  "text": "This vibrant Taoist place of worship is distinguished by its intricate roof ornaments and traditional motifs.",
+                  "category": "landmark",
+                  "coords": [
+                        121.222548,
+                        25.015622
+                  ]
+            },
+            {
+                  "name": "Guangtian Temple",
+                  "text": "This Buddhist temple offers a calm atmosphere with its classic architectural style and prayer halls.",
+                  "category": "landmark",
+                  "coords": [
+                        121.215607,
+                        25.004663
+                  ]
+            },
+            {
+                  "name": "Chengsheng Temple",
+                  "text": "This Chinese folk religion temple features colorful deities and a lively space for traditional rituals.",
+                  "category": "landmark",
+                  "coords": [
+                        121.267657,
+                        25.091247
+                  ]
+            },
+            {
+                  "name": "Dazhu Market",
+                  "text": "This busy local marketplace is a central spot for finding fresh groceries and daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        121.256389,
+                        25.024572
+                  ]
+            },
+            {
+                  "name": "Chuwei Harbor Sea Product Sales Dept",
+                  "text": "This harborfront marketplace specializes in a fresh and wide selection of daily caught seafood.",
+                  "category": "cultural",
+                  "coords": [
+                        121.245161,
+                        25.117008
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "TW-TAO",
     coords: [121.229, 25.086],
@@ -819,7 +11115,88 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
     },
   },
   {
-    id: "linyuan-petrochemical-park-economic-v2",
+    id: "linyuan-petrochemical-park-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Japanese Pillbox",
+                  "text": "Die Betonüberreste eines historischen Bunkers aus der japanischen Ära.",
+                  "category": "historical",
+                  "coords": [
+                        120.412938,
+                        22.522111
+                  ]
+            },
+            {
+                  "name": "Linyuan District Ocean Wetland Park",
+                  "text": "Ein anerkannter Feuchtgebietspark mit Küstenökosystemen und malerischen Holzstegen.",
+                  "category": "park",
+                  "coords": [
+                        120.385668,
+                        22.491165
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Japanese Pillbox",
+                  "text": "Egy történelmi bunker betonmaradványai, amelyek a japán korszakból származnak.",
+                  "category": "historical",
+                  "coords": [
+                        120.412938,
+                        22.522111
+                  ]
+            },
+            {
+                  "name": "Linyuan District Ocean Wetland Park",
+                  "text": "Egy elismert vizesélőhely-park, amely parti ökoszisztémákat és festői sétányokat kínál.",
+                  "category": "park",
+                  "coords": [
+                        120.385668,
+                        22.491165
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Japanese Pillbox",
+                  "text": "Rămășițele de beton ale unei cazemate istorice datând din epoca japoneză.",
+                  "category": "historical",
+                  "coords": [
+                        120.412938,
+                        22.522111
+                  ]
+            },
+            {
+                  "name": "Linyuan District Ocean Wetland Park",
+                  "text": "Un parc de zone umede recunoscut, cu ecosisteme de coastă și alei pitorești din lemn.",
+                  "category": "park",
+                  "coords": [
+                        120.385668,
+                        22.491165
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Japanese Pillbox",
+                  "text": "The concrete remnants of a historical pillbox dating back to the Japanese era.",
+                  "category": "historical",
+                  "coords": [
+                        120.412938,
+                        22.522111
+                  ]
+            },
+            {
+                  "name": "Linyuan District Ocean Wetland Park",
+                  "text": "A recognised wetland park featuring coastal ecosystems and scenic boardwalks.",
+                  "category": "park",
+                  "coords": [
+                        120.385668,
+                        22.491165
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TW-KHH",
     coords: [120.395, 22.502],
@@ -867,7 +11244,772 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
     },
   },
   {
-    id: "mingtan-pumped-storage-plant-economic-v2",
+    id: "mingtan-pumped-storage-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Baishiyashan",
+                  "text": "Dieser Berggipfel bietet einen steilen Aufstieg durch dichte Wälder zu einem natürlichen Gipfel.",
+                  "category": "natural",
+                  "coords": [
+                        120.814763,
+                        23.772736
+                  ]
+            },
+            {
+                  "name": "Xianjinshan",
+                  "text": "Ein markanter Gipfel mit zerklüfteten Hängen und Panoramablick über das lokale Gelände.",
+                  "category": "natural",
+                  "coords": [
+                        120.826518,
+                        23.764939
+                  ]
+            },
+            {
+                  "name": "Dongzhaoshan",
+                  "text": "Dieser Berggipfel verfügt über stark bewaldete Wege und dient als natürliches Wahrzeichen der Gegend.",
+                  "category": "natural",
+                  "coords": [
+                        120.810587,
+                        23.808745
+                  ]
+            },
+            {
+                  "name": "Jijishan Banana History and Culture Museum",
+                  "text": "Dieses Museum dokumentiert die reiche landwirtschaftliche Geschichte der Region mit Exponaten zum Bananenanbau.",
+                  "category": "museum",
+                  "coords": [
+                        120.799449,
+                        23.828656
+                  ]
+            },
+            {
+                  "name": "Dafanghoushan",
+                  "text": "Wanderer können die steilen Kämme und die üppige Vegetation erkunden, die diesen Berggipfel bedecken.",
+                  "category": "natural",
+                  "coords": [
+                        120.792313,
+                        23.844278
+                  ]
+            },
+            {
+                  "name": "Erjianshan",
+                  "text": "Dieser leicht zugängliche Berggipfel wird oft wegen seiner malerischen Wanderwege und seiner natürlichen Schönheit besucht.",
+                  "category": "natural",
+                  "coords": [
+                        120.823209,
+                        23.867265
+                  ]
+            },
+            {
+                  "name": "Xiangqinliaoshan",
+                  "text": "Ein hoch aufragender Berggipfel, der mit seinen steilen, bewaldeten Hängen die lokale Landschaft dominiert.",
+                  "category": "natural",
+                  "coords": [
+                        120.844447,
+                        23.905336
+                  ]
+            },
+            {
+                  "name": "Toushe Reservoir",
+                  "text": "Dieser ruhige Stausee ist von einem malerischen ökologischen Pfad umgeben, der für Spaziergänge am Seeufer beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        120.898461,
+                        23.838709
+                  ]
+            },
+            {
+                  "name": "Jijidashan",
+                  "text": "Dieser markante Berggipfel wird von einem Fernsehsendeturm gekrönt und bietet einen weiten Panoramablick.",
+                  "category": "natural",
+                  "coords": [
+                        120.837589,
+                        23.855219
+                  ]
+            },
+            {
+                  "name": "Jijidashannanfeng",
+                  "text": "Dieser südliche Gipfel bietet einen anspruchsvollen Aufstieg und weite Ausblicke über die angrenzenden Täler.",
+                  "category": "natural",
+                  "coords": [
+                        120.847181,
+                        23.842601
+                  ]
+            },
+            {
+                  "name": "Chess Wood Exhibition Hall",
+                  "text": "Dieses Museum zeigt aufwendig gefertigte Schachspiele aus Holz und beleuchtet die lokalen Holzarbeitstraditionen.",
+                  "category": "museum",
+                  "coords": [
+                        120.865833,
+                        23.832883
+                  ]
+            },
+            {
+                  "name": "Nitakayama Monument",
+                  "text": "Dieses historische Denkmal verfügt über einen Steinmarker, der dem Namen des Jadeberges aus der japanischen Kolonialzeit gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        120.868704,
+                        23.794302
+                  ]
+            },
+            {
+                  "name": "Tudigonganling",
+                  "text": "Dieser markante Gipfel ist durch sein hügeliges Gelände und seine dichten natürlichen Wälder gekennzeichnet.",
+                  "category": "natural",
+                  "coords": [
+                        120.871908,
+                        23.814189
+                  ]
+            },
+            {
+                  "name": "Xueziboshan",
+                  "text": "Ein natürlicher Berggipfel mit rauen Wegen, die sich durch tiefe alpine Wälder schlängeln.",
+                  "category": "natural",
+                  "coords": [
+                        120.878455,
+                        23.822426
+                  ]
+            },
+            {
+                  "name": "Houjianshan",
+                  "text": "Dieser Berggipfel bietet steile Aufstiege und atemberaubende Ausblicke auf die umliegende ländliche Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        120.898142,
+                        23.814125
+                  ]
+            },
+            {
+                  "name": "Yusheshan",
+                  "text": "Yusheshan ist ein markanter Berggipfel, der sich über dem Pumpspeicherkraftwerk Mingtan erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        120.89016,
+                        23.801693
+                  ]
+            },
+            {
+                  "name": "Zumouan",
+                  "text": "Zumouan ist ein malerischer Berggipfel in der Nähe des Pumpspeicherkraftwerks Mingtan.",
+                  "category": "natural",
+                  "coords": [
+                        120.917866,
+                        23.774319
+                  ]
+            },
+            {
+                  "name": "DeJiJi",
+                  "text": "DeJiJi ist ein lebhafter Wasserpark mit erfrischenden Wasserattraktionen in der Nähe des Pumpspeicherkraftwerks Mingtan.",
+                  "category": "recreational",
+                  "coords": [
+                        120.78626,
+                        23.833057
+                  ]
+            },
+            {
+                  "name": "Double Earth God Temple",
+                  "text": "Der Double Earth God Temple ist ein lokaler Schrein, der den Erdgottheiten in der Nähe des Pumpspeicherkraftwerks Mingtan gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        120.861864,
+                        23.827171
+                  ]
+            },
+            {
+                  "name": "Jixian Temple",
+                  "text": "Der Jixian-Tempel ist eine traditionelle Kultstätte für die Gemeinde rund um das Pumpspeicherkraftwerk Mingtan.",
+                  "category": "religious",
+                  "coords": [
+                        120.873624,
+                        23.879092
+                  ]
+            },
+            {
+                  "name": "Yuchi Township Public Cemetery No. 9 Aussegnungshalle",
+                  "text": "Das Yuchi Township Public Cemetery No. 9 Ossuary Hall ist eine feierliche Ruhestätte im Gebiet des Pumpspeicherkraftwerks Mingtan.",
+                  "category": "religious",
+                  "coords": [
+                        120.895254,
+                        23.83497
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Baishiyashan",
+                  "text": "Ez a hegycsúcs meredek emelkedőt kínál a sűrű erdőkön keresztül egy természetes csúcsra.",
+                  "category": "natural",
+                  "coords": [
+                        120.814763,
+                        23.772736
+                  ]
+            },
+            {
+                  "name": "Xianjinshan",
+                  "text": "Kiemelkedő csúcs zord lejtőkkel és a helyi terepre nyíló panorámával.",
+                  "category": "natural",
+                  "coords": [
+                        120.826518,
+                        23.764939
+                  ]
+            },
+            {
+                  "name": "Dongzhaoshan",
+                  "text": "Ez a hegycsúcs sűrűn erdősült ösvényekkel rendelkezik, és a terület természetes nevezetességeként szolgál.",
+                  "category": "natural",
+                  "coords": [
+                        120.810587,
+                        23.808745
+                  ]
+            },
+            {
+                  "name": "Jijishan Banana History and Culture Museum",
+                  "text": "Ez a múzeum a régió gazdag mezőgazdasági történetét dokumentálja a banántermesztésnek szentelt kiállításokkal.",
+                  "category": "museum",
+                  "coords": [
+                        120.799449,
+                        23.828656
+                  ]
+            },
+            {
+                  "name": "Dafanghoushan",
+                  "text": "A túrázók felfedezhetik a meredek gerinceket és a hegycsúcsot borító buja növényzetet.",
+                  "category": "natural",
+                  "coords": [
+                        120.792313,
+                        23.844278
+                  ]
+            },
+            {
+                  "name": "Erjianshan",
+                  "text": "Ezt a könnyen megközelíthető hegycsúcsot gyakran látogatják festői ösvényei és természeti szépsége miatt.",
+                  "category": "natural",
+                  "coords": [
+                        120.823209,
+                        23.867265
+                  ]
+            },
+            {
+                  "name": "Xiangqinliaoshan",
+                  "text": "Tornyosuló hegycsúcs, amely meredek, erdős lejtőivel uralja a helyi tájat.",
+                  "category": "natural",
+                  "coords": [
+                        120.844447,
+                        23.905336
+                  ]
+            },
+            {
+                  "name": "Toushe Reservoir",
+                  "text": "Ezt a nyugodt víztározót egy festői ökológiai ösvény veszi körül, amely népszerű a tóparti sétákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        120.898461,
+                        23.838709
+                  ]
+            },
+            {
+                  "name": "Jijidashan",
+                  "text": "Ezt a kiemelkedő hegycsúcsot egy televíziós adótorony koronázza, és lenyűgöző panorámát nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        120.837589,
+                        23.855219
+                  ]
+            },
+            {
+                  "name": "Jijidashannanfeng",
+                  "text": "Ez a déli csúcs kihívást jelentő mászást és kiterjedt kilátást kínál a szomszédos völgyekre.",
+                  "category": "natural",
+                  "coords": [
+                        120.847181,
+                        23.842601
+                  ]
+            },
+            {
+                  "name": "Chess Wood Exhibition Hall",
+                  "text": "Ez a múzeum bonyolultan kidolgozott fából készült sakkkészleteket mutat be, és kiemeli a helyi famegmunkálási hagyományokat.",
+                  "category": "museum",
+                  "coords": [
+                        120.865833,
+                        23.832883
+                  ]
+            },
+            {
+                  "name": "Nitakayama Monument",
+                  "text": "Ez a történelmi emlékmű egy kőjelzővel rendelkezik, amelyet a Jáde-hegy japán gyarmati korszakbeli nevének szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        120.868704,
+                        23.794302
+                  ]
+            },
+            {
+                  "name": "Tudigonganling",
+                  "text": "Ezt a kiemelkedő csúcsot dombos terep és sűrű, természetes erdő jellemzi.",
+                  "category": "natural",
+                  "coords": [
+                        120.871908,
+                        23.814189
+                  ]
+            },
+            {
+                  "name": "Xueziboshan",
+                  "text": "Természetes hegycsúcs zord ösvényekkel, amelyek mély alpesi erdőkön kanyarognak keresztül.",
+                  "category": "natural",
+                  "coords": [
+                        120.878455,
+                        23.822426
+                  ]
+            },
+            {
+                  "name": "Houjianshan",
+                  "text": "Ez a hegycsúcs meredek emelkedőket és lenyűgöző kilátást nyújt a környező vidéki tájra.",
+                  "category": "natural",
+                  "coords": [
+                        120.898142,
+                        23.814125
+                  ]
+            },
+            {
+                  "name": "Yusheshan",
+                  "text": "A Yusheshan egy kiemelkedő hegycsúcs, amely a Mingtan szivattyús-tározós erőmű területe fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        120.89016,
+                        23.801693
+                  ]
+            },
+            {
+                  "name": "Zumouan",
+                  "text": "A Zumouan egy festői hegycsúcs a Mingtan szivattyús-tározós vízerőmű közelében.",
+                  "category": "natural",
+                  "coords": [
+                        120.917866,
+                        23.774319
+                  ]
+            },
+            {
+                  "name": "DeJiJi",
+                  "text": "A DeJiJi egy nyüzsgő vízi vidámpark, amely frissítő vízi attrakciókat kínál a Mingtan szivattyús-tározós erőmű közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        120.78626,
+                        23.833057
+                  ]
+            },
+            {
+                  "name": "Double Earth God Temple",
+                  "text": "A Double Earth God Temple egy helyi szentély, amelyet a földistenségeknek szenteltek a Mingtan szivattyús-tározós erőmű közelében.",
+                  "category": "religious",
+                  "coords": [
+                        120.861864,
+                        23.827171
+                  ]
+            },
+            {
+                  "name": "Jixian Temple",
+                  "text": "A Jixian-templom egy hagyományos istentiszteleti hely, amely a Mingtan szivattyús-tározós erőmű körüli közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        120.873624,
+                        23.879092
+                  ]
+            },
+            {
+                  "name": "Yuchi Township Public Cemetery No. 9 Ossuary Hall",
+                  "text": "A Yuchi Township Public Cemetery No. 9 Ossuary Hall egy ünnepélyes nyughely a Mingtan szivattyús-tározós erőmű területén.",
+                  "category": "religious",
+                  "coords": [
+                        120.895254,
+                        23.83497
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Baishiyashan",
+                  "text": "Acest vârf de munte oferă o ascensiune abruptă prin păduri dese până la un vârf natural.",
+                  "category": "natural",
+                  "coords": [
+                        120.814763,
+                        23.772736
+                  ]
+            },
+            {
+                  "name": "Xianjinshan",
+                  "text": "Un vârf proeminent cu pante accidentate și vederi panoramice asupra terenului local.",
+                  "category": "natural",
+                  "coords": [
+                        120.826518,
+                        23.764939
+                  ]
+            },
+            {
+                  "name": "Dongzhaoshan",
+                  "text": "Acest vârf de munte prezintă poteci puternic împădurite și servește ca un punct de reper natural în zonă.",
+                  "category": "natural",
+                  "coords": [
+                        120.810587,
+                        23.808745
+                  ]
+            },
+            {
+                  "name": "Jijishan Banana History and Culture Museum",
+                  "text": "Acest muzeu documentează bogata istorie agricolă a regiunii cu exponate dedicate cultivării bananelor.",
+                  "category": "museum",
+                  "coords": [
+                        120.799449,
+                        23.828656
+                  ]
+            },
+            {
+                  "name": "Dafanghoushan",
+                  "text": "Drumeții pot explora crestele abrupte și vegetația luxuriantă care acoperă acest vârf de munte.",
+                  "category": "natural",
+                  "coords": [
+                        120.792313,
+                        23.844278
+                  ]
+            },
+            {
+                  "name": "Erjianshan",
+                  "text": "Acest vârf de munte accesibil este adesea vizitat pentru traseele sale pitorești și frumusețea naturală.",
+                  "category": "natural",
+                  "coords": [
+                        120.823209,
+                        23.867265
+                  ]
+            },
+            {
+                  "name": "Xiangqinliaoshan",
+                  "text": "Un vârf de munte înalt care domină peisajul local cu pantele sale abrupte împădurite.",
+                  "category": "natural",
+                  "coords": [
+                        120.844447,
+                        23.905336
+                  ]
+            },
+            {
+                  "name": "Toushe Reservoir",
+                  "text": "Acest rezervor liniștit este înconjurat de un traseu ecologic pitoresc, popular pentru plimbările pe malul lacului.",
+                  "category": "landmark",
+                  "coords": [
+                        120.898461,
+                        23.838709
+                  ]
+            },
+            {
+                  "name": "Jijidashan",
+                  "text": "Acest vârf de munte proeminent este încoronat de un turn de difuzare a televiziunii și oferă vederi panoramice ample.",
+                  "category": "natural",
+                  "coords": [
+                        120.837589,
+                        23.855219
+                  ]
+            },
+            {
+                  "name": "Jijidashannanfeng",
+                  "text": "Acest vârf sudic oferă o urcare dificilă și vederi extinse asupra văilor adiacente.",
+                  "category": "natural",
+                  "coords": [
+                        120.847181,
+                        23.842601
+                  ]
+            },
+            {
+                  "name": "Chess Wood Exhibition Hall",
+                  "text": "Acest muzeu expune seturi de șah din lemn lucrate complex și evidențiază tradițiile locale de prelucrare a lemnului.",
+                  "category": "museum",
+                  "coords": [
+                        120.865833,
+                        23.832883
+                  ]
+            },
+            {
+                  "name": "Nitakayama Monument",
+                  "text": "Acest monument istoric prezintă un marcaj de piatră dedicat numelui Muntelui Jad din epoca colonială japoneză.",
+                  "category": "historical",
+                  "coords": [
+                        120.868704,
+                        23.794302
+                  ]
+            },
+            {
+                  "name": "Tudigonganling",
+                  "text": "Acest vârf proeminent se caracterizează prin terenul său ondulat și pădurile naturale dense.",
+                  "category": "natural",
+                  "coords": [
+                        120.871908,
+                        23.814189
+                  ]
+            },
+            {
+                  "name": "Xueziboshan",
+                  "text": "Un vârf de munte natural cu trasee accidentate care șerpuiesc prin păduri alpine adânci.",
+                  "category": "natural",
+                  "coords": [
+                        120.878455,
+                        23.822426
+                  ]
+            },
+            {
+                  "name": "Houjianshan",
+                  "text": "Acest vârf de munte oferă ascensiuni abrupte și priveliști superbe ale peisajului rural înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        120.898142,
+                        23.814125
+                  ]
+            },
+            {
+                  "name": "Yusheshan",
+                  "text": "Yusheshan este un vârf montan proeminent care se înalță deasupra zonei hidrocentralei cu pompaj Mingtan.",
+                  "category": "natural",
+                  "coords": [
+                        120.89016,
+                        23.801693
+                  ]
+            },
+            {
+                  "name": "Zumouan",
+                  "text": "Zumouan este un vârf montan pitoresc situat în apropierea hidrocentralei cu pompaj Mingtan.",
+                  "category": "natural",
+                  "coords": [
+                        120.917866,
+                        23.774319
+                  ]
+            },
+            {
+                  "name": "DeJiJi",
+                  "text": "DeJiJi este un parc acvatic plin de viață care oferă atracții acvatice răcoritoare lângă hidrocentrala cu pompaj Mingtan.",
+                  "category": "recreational",
+                  "coords": [
+                        120.78626,
+                        23.833057
+                  ]
+            },
+            {
+                  "name": "Double Earth God Temple",
+                  "text": "Templul Dublu al Zeului Pământului este un altar local dedicat zeităților pământului, situat lângă hidrocentrala cu pompaj Mingtan.",
+                  "category": "religious",
+                  "coords": [
+                        120.861864,
+                        23.827171
+                  ]
+            },
+            {
+                  "name": "Jixian Temple",
+                  "text": "Templul Jixian este un lăcaș de cult tradițional care deservește comunitatea din jurul hidrocentralei cu pompaj Mingtan.",
+                  "category": "religious",
+                  "coords": [
+                        120.873624,
+                        23.879092
+                  ]
+            },
+            {
+                  "name": "Yuchi Township Public Cemetery No. 9 Ossuary Hall",
+                  "text": "Osuarul nr. 9 al Cimitirului Public din Yuchi este un loc de odihnă solemn situat în zona hidrocentralei cu pompaj Mingtan.",
+                  "category": "religious",
+                  "coords": [
+                        120.895254,
+                        23.83497
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Baishiyashan",
+                  "text": "This mountain peak offers a steep ascent through dense woodlands to a natural summit.",
+                  "category": "natural",
+                  "coords": [
+                        120.814763,
+                        23.772736
+                  ]
+            },
+            {
+                  "name": "Xianjinshan",
+                  "text": "A prominent peak featuring rugged slopes and panoramic views over the local terrain.",
+                  "category": "natural",
+                  "coords": [
+                        120.826518,
+                        23.764939
+                  ]
+            },
+            {
+                  "name": "Dongzhaoshan",
+                  "text": "This mountain peak features heavily forested trails and serves as a natural landmark in the area.",
+                  "category": "natural",
+                  "coords": [
+                        120.810587,
+                        23.808745
+                  ]
+            },
+            {
+                  "name": "Jijishan Banana History and Culture Museum",
+                  "text": "This museum documents the region's rich agricultural history with exhibits dedicated to banana cultivation.",
+                  "category": "museum",
+                  "coords": [
+                        120.799449,
+                        23.828656
+                  ]
+            },
+            {
+                  "name": "Dafanghoushan",
+                  "text": "Hikers can explore the steep ridges and lush vegetation covering this mountain peak.",
+                  "category": "natural",
+                  "coords": [
+                        120.792313,
+                        23.844278
+                  ]
+            },
+            {
+                  "name": "Erjianshan",
+                  "text": "This accessible mountain peak is often visited for its scenic trails and natural beauty.",
+                  "category": "natural",
+                  "coords": [
+                        120.823209,
+                        23.867265
+                  ]
+            },
+            {
+                  "name": "Xiangqinliaoshan",
+                  "text": "A towering mountain peak that dominates the local landscape with its steep forested inclines.",
+                  "category": "natural",
+                  "coords": [
+                        120.844447,
+                        23.905336
+                  ]
+            },
+            {
+                  "name": "Toushe Reservoir",
+                  "text": "This tranquil reservoir is surrounded by a scenic ecological trail popular for lakeside walks.",
+                  "category": "landmark",
+                  "coords": [
+                        120.898461,
+                        23.838709
+                  ]
+            },
+            {
+                  "name": "Jijidashan",
+                  "text": "This prominent mountain peak is crowned by a television broadcasting tower and offers sweeping panoramic views.",
+                  "category": "natural",
+                  "coords": [
+                        120.837589,
+                        23.855219
+                  ]
+            },
+            {
+                  "name": "Jijidashannanfeng",
+                  "text": "This southern peak offers a challenging climb and expansive views over the adjacent valleys.",
+                  "category": "natural",
+                  "coords": [
+                        120.847181,
+                        23.842601
+                  ]
+            },
+            {
+                  "name": "Chess Wood Exhibition Hall",
+                  "text": "This museum displays intricately crafted wooden chess sets and highlights local woodworking traditions.",
+                  "category": "museum",
+                  "coords": [
+                        120.865833,
+                        23.832883
+                  ]
+            },
+            {
+                  "name": "Nitakayama Monument",
+                  "text": "This historical monument features a stone marker dedicated to the Japanese colonial-era name for Mount Jade.",
+                  "category": "historical",
+                  "coords": [
+                        120.868704,
+                        23.794302
+                  ]
+            },
+            {
+                  "name": "Tudigonganling",
+                  "text": "This prominent peak is characterized by its rolling terrain and dense natural woodland.",
+                  "category": "natural",
+                  "coords": [
+                        120.871908,
+                        23.814189
+                  ]
+            },
+            {
+                  "name": "Xueziboshan",
+                  "text": "A natural mountain peak featuring rugged trails that wind through deep alpine forests.",
+                  "category": "natural",
+                  "coords": [
+                        120.878455,
+                        23.822426
+                  ]
+            },
+            {
+                  "name": "Houjianshan",
+                  "text": "This mountain peak offers steep ascents and sweeping views of the surrounding rural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        120.898142,
+                        23.814125
+                  ]
+            },
+            {
+                  "name": "Yusheshan",
+                  "text": "Yusheshan is a prominent mountain peak towering above the Mingtan pumped-storage plant area.",
+                  "category": "natural",
+                  "coords": [
+                        120.89016,
+                        23.801693
+                  ]
+            },
+            {
+                  "name": "Zumouan",
+                  "text": "Zumouan is a scenic mountain peak located near the Mingtan pumped-storage hydroelectric plant.",
+                  "category": "natural",
+                  "coords": [
+                        120.917866,
+                        23.774319
+                  ]
+            },
+            {
+                  "name": "DeJiJi",
+                  "text": "DeJiJi is a lively water park offering refreshing aquatic attractions near the Mingtan pumped-storage plant.",
+                  "category": "recreational",
+                  "coords": [
+                        120.78626,
+                        23.833057
+                  ]
+            },
+            {
+                  "name": "Double Earth God Temple",
+                  "text": "The Double Earth God Temple is a local shrine dedicated to the earth deities near the Mingtan pumped-storage plant.",
+                  "category": "religious",
+                  "coords": [
+                        120.861864,
+                        23.827171
+                  ]
+            },
+            {
+                  "name": "Jixian Temple",
+                  "text": "Jixian Temple is a traditional place of worship serving the community around the Mingtan pumped-storage plant.",
+                  "category": "religious",
+                  "coords": [
+                        120.873624,
+                        23.879092
+                  ]
+            },
+            {
+                  "name": "Yuchi Township Public Cemetery No. 9 Ossuary Hall",
+                  "text": "The Yuchi Township Public Cemetery No. 9 Ossuary Hall is a solemn resting place located in the Mingtan pumped-storage plant area.",
+                  "category": "religious",
+                  "coords": [
+                        120.895254,
+                        23.83497
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "TW-NTO",
     coords: [120.871, 23.834],
@@ -915,7 +12057,700 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
     },
   },
   {
-    id: "port-of-suao-economic-v2",
+    id: "port-of-suao-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wuyanjiao",
+                  "text": "Dieser katalogisierte Gipfel bildet einen rauen Höhepunkt mit Blick auf die Region port-of-suao-economic-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.875341,
+                        24.534377
+                  ]
+            },
+            {
+                  "name": "Glass Beach",
+                  "text": "Diese einzigartige Küstenattraktion in der Nähe des Hafens ist bekannt für ihr Ufer, das mit glatten, vom Meer geschliffenen Glasstücken bedeckt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        121.875,
+                        24.578943
+                  ]
+            },
+            {
+                  "name": "Dashan",
+                  "text": "Der Dashan ist ein markanter Gipfel, der sich über die Region Su'ao erhebt und Naturpfade sowie weite Ausblicke auf die umliegende Küstenlandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        121.873518,
+                        24.582097
+                  ]
+            },
+            {
+                  "name": "Lize Puppet Art Colony",
+                  "text": "Dieses spezialisierte Museum bewahrt das kulturelle Erbe des traditionellen taiwanesischen Puppenspiels durch farbenfrohe Ausstellungen und handgefertigte Figuren.",
+                  "category": "museum",
+                  "coords": [
+                        121.823399,
+                        24.667757
+                  ]
+            },
+            {
+                  "name": "Lucky Art Crayons",
+                  "text": "Eine lebendige, familienfreundliche Attraktion, die sich der Herstellung von Wachsmalstiften widmet und praktische Kunsterlebnisse sowie farbenfrohe Displays bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        121.824518,
+                        24.630893
+                  ]
+            },
+            {
+                  "name": "Jiugushan",
+                  "text": "Dieser lokale Berggipfel bietet Wanderern anspruchsvolle Waldwege und Aussichtspunkte mit Blick auf die Küstenebene von Su'ao.",
+                  "category": "natural",
+                  "coords": [
+                        121.822157,
+                        24.609786
+                  ]
+            },
+            {
+                  "name": "TAXI Museum",
+                  "text": "Dieses einzigartige Museum widmet sich der Geschichte des Taxigewerbes und präsentiert eine vielfältige Sammlung von Oldtimer-Taxis und Verkehrsmemorabilien.",
+                  "category": "museum",
+                  "coords": [
+                        121.830688,
+                        24.606368
+                  ]
+            },
+            {
+                  "name": "NanFangAo Nan Tian Temple",
+                  "text": "Ein bedeutender taoistischer Tempel im Fischerhafen, berühmt für seine Statuen der Meeresgöttin Mazu aus massivem Gold und Jade.",
+                  "category": "religious",
+                  "coords": [
+                        121.864935,
+                        24.581693
+                  ]
+            },
+            {
+                  "name": "Baitul Muslimin Mosque",
+                  "text": "Diese Moschee dient den lokalen indonesischen Fischern und der Gemeinde und bietet einen speziellen Gebetsraum in der Nähe des belebten Hafens.",
+                  "category": "religious",
+                  "coords": [
+                        121.863997,
+                        24.58135
+                  ]
+            },
+            {
+                  "name": "Shikongshan",
+                  "text": "Dieser Berggipfel erhebt sich über die Küstensiedlungen und ist durch dichte subtropische Vegetation und raue Wanderwege gekennzeichnet.",
+                  "category": "natural",
+                  "coords": [
+                        121.859647,
+                        24.584134
+                  ]
+            },
+            {
+                  "name": "Dabaishan",
+                  "text": "Der Dabaishan ist durch seine steilen Hänge und markanten Kalksteinformationen gekennzeichnet und bildet ein markantes topographisches Merkmal nahe der Küste.",
+                  "category": "natural",
+                  "coords": [
+                        121.783227,
+                        24.544749
+                  ]
+            },
+            {
+                  "name": "Dong Ao Bay",
+                  "text": "Diese malerische Küstenbucht besticht durch eine weite Kurve feiner Sandstrände, die von dramatischen, grünen Bergklippen eingerahmt werden.",
+                  "category": "landmark",
+                  "coords": [
+                        121.854442,
+                        24.507278
+                  ]
+            },
+            {
+                  "name": "Nanfangao Cultural Center of Fishery",
+                  "text": "Dieses lokale Museum dokumentiert das reiche maritime Erbe der Region mit Ausstellungen zu traditionellen taiwanesischen Fischereitechniken und zum Bootsbau.",
+                  "category": "museum",
+                  "coords": [
+                        121.871901,
+                        24.585247
+                  ]
+            },
+            {
+                  "name": "Nanfang'ao Bridge",
+                  "text": "Diese 2022 neu errichtete und eröffnete moderne Stabbogenbrücke überspannt den Hafen und dient als wichtige Verkehrsverbindung sowie als elegantes architektonisches Wahrzeichen.",
+                  "category": "landmark",
+                  "coords": [
+                        121.869033,
+                        24.585799
+                  ]
+            },
+            {
+                  "name": "LiZeJian Yong An Temple",
+                  "text": "Ein kunstvoller traditioneller Tempel in der örtlichen Gemeinde, der für seine komplizierten Dachschnitzereien und farbenfrohen zeremoniellen Feste hoch verehrt wird.",
+                  "category": "religious",
+                  "coords": [
+                        121.823149,
+                        24.666626
+                  ]
+            },
+            {
+                  "name": "NanFangAo Jin An Temple",
+                  "text": "Dieser aufwendig dekorierte Tempel ist ein wichtiges spirituelles Zentrum für einheimische Seeleute und beherbergt eine prächtige Korallenstatue der Göttin Mazu.",
+                  "category": "religious",
+                  "coords": [
+                        121.864496,
+                        24.584164
+                  ]
+            },
+            {
+                  "name": "YongFu Temple",
+                  "text": "Dieser lokale Schrein bietet einen friedlichen Rückzugsort im Hafenviertel, gekennzeichnet durch traditionelle Weihrauchbrenner aus Stein und geschwungene Tempeldächer.",
+                  "category": "religious",
+                  "coords": [
+                        121.854384,
+                        24.595652
+                  ]
+            },
+            {
+                  "name": "BeiFangAo Jin An Temple",
+                  "text": "Eine bescheidene taoistische Stätte, die den Meeresgottheiten gewidmet ist und durch lebhafte Drachenmotive am Eingang geschützt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        121.881052,
+                        24.601444
+                  ]
+            },
+            {
+                  "name": "Church of Christ",
+                  "text": "Diese gemeindeorientierte christliche Kirche besticht durch ihre schlichte, moderne Architektur inmitten der traditionellen Hafenkulisse.",
+                  "category": "landmark",
+                  "coords": [
+                        121.850992,
+                        24.593367
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wuyanjiao",
+                  "text": "Ez a katalogizált csúcs egy zord magaslatot alkot, amely a port-of-suao-economic-v2 régióra néz.",
+                  "category": "natural",
+                  "coords": [
+                        121.875341,
+                        24.534377
+                  ]
+            },
+            {
+                  "name": "Glass Beach",
+                  "text": "Ez az egyedülálló, kikötőhöz közeli tengerparti látványosság a simára kopott üvegdarabokkal borított partjáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        121.875,
+                        24.578943
+                  ]
+            },
+            {
+                  "name": "Dashan",
+                  "text": "A Dashan egy kiemelkedő hegycsúcs, amely a Su'ao régió fölé magasodik, természeti ösvényeket és pazar kilátást nyújtva a környező partvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        121.873518,
+                        24.582097
+                  ]
+            },
+            {
+                  "name": "Lize Puppet Art Colony",
+                  "text": "Ez a különleges múzeum a hagyományos tajvani bábművészet kulturális örökségét őrzi színes kiállításokon és kézzel készített figurákon keresztül.",
+                  "category": "museum",
+                  "coords": [
+                        121.823399,
+                        24.667757
+                  ]
+            },
+            {
+                  "name": "Lucky Art Crayons",
+                  "text": "Egy élénk, családbarát látványosság, amely a zsírkréta-készítés mesterségének van szentelve, gyakorlati művészeti élményekkel és színes bemutatókkal.",
+                  "category": "landmark",
+                  "coords": [
+                        121.824518,
+                        24.630893
+                  ]
+            },
+            {
+                  "name": "Jiugushan",
+                  "text": "Ez a helyi hegycsúcs kihívást jelentő erdei ösvényeket és a Su'ao parti síkságára néző kilátópontokat kínál a túrázóknak.",
+                  "category": "natural",
+                  "coords": [
+                        121.822157,
+                        24.609786
+                  ]
+            },
+            {
+                  "name": "TAXI Museum",
+                  "text": "A taxiipar történetének szentelt egyedülálló múzeum régi taxik és közlekedési emléktárgyak változatos gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        121.830688,
+                        24.606368
+                  ]
+            },
+            {
+                  "name": "NanFangAo Nan Tian Temple",
+                  "text": "A halászkikötő egyik kiemelkedő taoista temploma, amely Mazu tengeristennő tömör aranyból és jádéból készült szobrairól híres.",
+                  "category": "religious",
+                  "coords": [
+                        121.864935,
+                        24.581693
+                  ]
+            },
+            {
+                  "name": "Baitul Muslimin Mosque",
+                  "text": "A helyi indonéz halászokat és közösséget szolgáló mecset egy dedikált imateret biztosít a nyüzsgő kikötő közelében.",
+                  "category": "religious",
+                  "coords": [
+                        121.863997,
+                        24.58135
+                  ]
+            },
+            {
+                  "name": "Shikongshan",
+                  "text": "A part menti települések fölé magasodó hegycsúcsot sűrű szubtrópusi növényzet és meredek túraösvények jellemzik.",
+                  "category": "natural",
+                  "coords": [
+                        121.859647,
+                        24.584134
+                  ]
+            },
+            {
+                  "name": "Dabaishan",
+                  "text": "A meredek lejtőivel és kiemelkedő mészkőképződményeivel jellemezhető Dabaishan a tengerpart közelének egyik jellegzetes topográfiai eleme.",
+                  "category": "natural",
+                  "coords": [
+                        121.783227,
+                        24.544749
+                  ]
+            },
+            {
+                  "name": "Dong Ao Bay",
+                  "text": "Ez a festői tengerparti öböl finom homokos strandok széles ívével büszkélkedhet, amelyet drámai, zöldellő hegyi sziklák kereteznek.",
+                  "category": "landmark",
+                  "coords": [
+                        121.854442,
+                        24.507278
+                  ]
+            },
+            {
+                  "name": "Nanfangao Cultural Center of Fishery",
+                  "text": "Ez a helyi múzeum a terület gazdag tengerészeti örökségét dokumentálja, bemutatva a hagyományos tajvani halászati technikákat és a hajóépítést.",
+                  "category": "museum",
+                  "coords": [
+                        121.871901,
+                        24.585247
+                  ]
+            },
+            {
+                  "name": "Nanfang'ao Bridge",
+                  "text": "A 2022-ben újjáépített és megnyitott, a kikötőt átívelő modern ívhíd kulcsfontosságú közlekedési kapocsként és elegáns építészeti mérföldkőként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        121.869033,
+                        24.585799
+                  ]
+            },
+            {
+                  "name": "LiZeJian Yong An Temple",
+                  "text": "A helyi közösség egy díszes, hagyományos temploma, amelyet bonyolult tetőfaragásai és színes ceremoniális fesztiváljai miatt nagy tisztelet övez.",
+                  "category": "religious",
+                  "coords": [
+                        121.823149,
+                        24.666626
+                  ]
+            },
+            {
+                  "name": "NanFangAo Jin An Temple",
+                  "text": "A helyi tengerészek létfontosságú spirituális központja, ez az aprólékosan díszített templom a Mazu istennő csodálatos korallszobrának ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        121.864496,
+                        24.584164
+                  ]
+            },
+            {
+                  "name": "YongFu Temple",
+                  "text": "Ez a helyi szentély békés menedéket nyújt a kikötői negyedben, amelyet hagyományos kő füstölőégők és ívelt templomtetők jellemeznek.",
+                  "category": "religious",
+                  "coords": [
+                        121.854384,
+                        24.595652
+                  ]
+            },
+            {
+                  "name": "BeiFangAo Jin An Temple",
+                  "text": "Egy szerény taoista hely, amelyet a tengeri istenségeknek szenteltek, bejáratát pedig élénk sárkánymotívumok őrzik.",
+                  "category": "landmark",
+                  "coords": [
+                        121.881052,
+                        24.601444
+                  ]
+            },
+            {
+                  "name": "Church of Christ",
+                  "text": "Ez a közösségközpontú keresztény templom egyszerű, modern építészetével tűnik ki a hagyományos kikötői környezetből.",
+                  "category": "landmark",
+                  "coords": [
+                        121.850992,
+                        24.593367
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wuyanjiao",
+                  "text": "Acest vârf catalogat formează un punct înalt accidentat cu vedere la regiunea port-of-suao-economic-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.875341,
+                        24.534377
+                  ]
+            },
+            {
+                  "name": "Glass Beach",
+                  "text": "Această atracție de coastă unică din apropierea portului este cunoscută pentru țărmul său acoperit cu fraguri de sticlă șlefuite de mare.",
+                  "category": "landmark",
+                  "coords": [
+                        121.875,
+                        24.578943
+                  ]
+            },
+            {
+                  "name": "Dashan",
+                  "text": "Dashan este un vârf proeminent care se înalță deasupra regiunii Su'ao, oferind poteci naturale și vederi panoramice ale peisajului de coastă înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        121.873518,
+                        24.582097
+                  ]
+            },
+            {
+                  "name": "Lize Puppet Art Colony",
+                  "text": "Acest muzeu specializat păstrează patrimoniul cultural al teatrului de păpuși tradițional taiwanez prin expoziții colorate și figurine realizate manual.",
+                  "category": "museum",
+                  "coords": [
+                        121.823399,
+                        24.667757
+                  ]
+            },
+            {
+                  "name": "Lucky Art Crayons",
+                  "text": "O atracție vibrantă, potrivită pentru familii, dedicată meșteșugului fabricării creioanelor cerate, oferind experiențe artistice practice și expoziții colorate.",
+                  "category": "landmark",
+                  "coords": [
+                        121.824518,
+                        24.630893
+                  ]
+            },
+            {
+                  "name": "Jiugushan",
+                  "text": "Acest vârf de munte local oferă excursioniștilor trasee împădurite provocatoare și puncte de belvedere cu vedere spre câmpia de coastă Su'ao.",
+                  "category": "natural",
+                  "coords": [
+                        121.822157,
+                        24.609786
+                  ]
+            },
+            {
+                  "name": "TAXI Museum",
+                  "text": "Dedicat istoriei industriei taxiurilor, acest muzeu unic prezintă o colecție diversă de cabine de epocă și suveniruri de transport.",
+                  "category": "museum",
+                  "coords": [
+                        121.830688,
+                        24.606368
+                  ]
+            },
+            {
+                  "name": "NanFangAo Nan Tian Temple",
+                  "text": "Un templu taoist proeminent în portul de pescuit, renumit pentru statuile sale din aur masiv și jad ale zeiței mării Mazu.",
+                  "category": "religious",
+                  "coords": [
+                        121.864935,
+                        24.581693
+                  ]
+            },
+            {
+                  "name": "Baitul Muslimin Mosque",
+                  "text": "Servind pescarilor și comunității locale indoneziene, această moschee oferă un spațiu de rugăciune dedicat în apropierea portului aglomerat.",
+                  "category": "religious",
+                  "coords": [
+                        121.863997,
+                        24.58135
+                  ]
+            },
+            {
+                  "name": "Shikongshan",
+                  "text": "Ridicându-se deasupra așezărilor de coastă, acest vârf de munte prezintă o vegetație subtropicală densă și poteci de drumeție accidentate.",
+                  "category": "natural",
+                  "coords": [
+                        121.859647,
+                        24.584134
+                  ]
+            },
+            {
+                  "name": "Dabaishan",
+                  "text": "Caracterizat prin pantele sale abrupte și formațiunile de calcar proeminente, Dabaishan este o caracteristică topografică distinctă în apropierea coastei.",
+                  "category": "natural",
+                  "coords": [
+                        121.783227,
+                        24.544749
+                  ]
+            },
+            {
+                  "name": "Dong Ao Bay",
+                  "text": "Acest golf pitoresc de coastă prezintă o curbă largă de plaje cu nisip fin, încadrate de stânci muntoase dramatice și verzi.",
+                  "category": "landmark",
+                  "coords": [
+                        121.854442,
+                        24.507278
+                  ]
+            },
+            {
+                  "name": "Nanfangao Cultural Center of Fishery",
+                  "text": "Acest muzeu local documentează bogatul patrimoniu maritim al zonei, oferind expoziții despre tehnicile tradiționale de pescuit taiwaneze și construcția de bărci.",
+                  "category": "museum",
+                  "coords": [
+                        121.871901,
+                        24.585247
+                  ]
+            },
+            {
+                  "name": "Nanfang'ao Bridge",
+                  "text": "Reconstruit și deschis în 2022, acest pod modern cu arc susținut traversează portul, servind ca o legătură critică de transport și un reper arhitectural elegant.",
+                  "category": "landmark",
+                  "coords": [
+                        121.869033,
+                        24.585799
+                  ]
+            },
+            {
+                  "name": "LiZeJian Yong An Temple",
+                  "text": "Un templu tradițional ornamentat din comunitatea locală, foarte venerat pentru sculpturile sale complicate pe acoperiș și festivalurile ceremoniale colorate.",
+                  "category": "religious",
+                  "coords": [
+                        121.823149,
+                        24.666626
+                  ]
+            },
+            {
+                  "name": "NanFangAo Jin An Temple",
+                  "text": "Un centru spiritual vital pentru navigatorii locali, acest templu elaborat decorat adăpostește o magnifică statuie de coral a zeiței Mazu.",
+                  "category": "religious",
+                  "coords": [
+                        121.864496,
+                        24.584164
+                  ]
+            },
+            {
+                  "name": "YongFu Temple",
+                  "text": "Acest altar local oferă o retragere pașnică în districtul portuar, marcată de arzătoare de tămâie tradiționale din piatră și acoperișuri curbate de templu.",
+                  "category": "religious",
+                  "coords": [
+                        121.854384,
+                        24.595652
+                  ]
+            },
+            {
+                  "name": "BeiFangAo Jin An Temple",
+                  "text": "Un sit taoist modest dedicat zeităților maritime, prezentând motive vibrante cu dragoni care protejează intrarea.",
+                  "category": "landmark",
+                  "coords": [
+                        121.881052,
+                        24.601444
+                  ]
+            },
+            {
+                  "name": "Church of Christ",
+                  "text": "Această biserică creștină orientată spre comunitate se remarcă prin arhitectura sa simplă, modernă, în mijlocul peisajului portuar tradițional.",
+                  "category": "landmark",
+                  "coords": [
+                        121.850992,
+                        24.593367
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wuyanjiao",
+                  "text": "This catalogued peak forms a rugged high point overlooking the port-of-suao-economic-v2 region.",
+                  "category": "natural",
+                  "coords": [
+                        121.875341,
+                        24.534377
+                  ]
+            },
+            {
+                  "name": "Glass Beach",
+                  "text": "This unique coastal attraction near the port is known for its shoreline covered in smooth, sea-worn glass fragments.",
+                  "category": "landmark",
+                  "coords": [
+                        121.875,
+                        24.578943
+                  ]
+            },
+            {
+                  "name": "Dashan",
+                  "text": "Dashan is a prominent peak rising over the Su'ao region, offering natural trails and sweeping views of the surrounding coastal landscape.",
+                  "category": "natural",
+                  "coords": [
+                        121.873518,
+                        24.582097
+                  ]
+            },
+            {
+                  "name": "Lize Puppet Art Colony",
+                  "text": "This specialized museum preserves the cultural heritage of traditional Taiwanese puppetry through colorful exhibits and handcrafted figures.",
+                  "category": "museum",
+                  "coords": [
+                        121.823399,
+                        24.667757
+                  ]
+            },
+            {
+                  "name": "Lucky Art Crayons",
+                  "text": "A vibrant, family-friendly attraction dedicated to the craft of crayon making, featuring hands-on art experiences and colorful displays.",
+                  "category": "landmark",
+                  "coords": [
+                        121.824518,
+                        24.630893
+                  ]
+            },
+            {
+                  "name": "Jiugushan",
+                  "text": "This local mountain peak provides hikers with challenging forested trails and vantage points overlooking the Su'ao coastal plain.",
+                  "category": "natural",
+                  "coords": [
+                        121.822157,
+                        24.609786
+                  ]
+            },
+            {
+                  "name": "TAXI Museum",
+                  "text": "Dedicated to the history of the taxi industry, this unique museum showcases a diverse collection of vintage cabs and transportation memorabilia.",
+                  "category": "museum",
+                  "coords": [
+                        121.830688,
+                        24.606368
+                  ]
+            },
+            {
+                  "name": "NanFangAo Nan Tian Temple",
+                  "text": "A prominent Taoist temple in the fishing port, celebrated for its solid gold and jade statues of the sea goddess Mazu.",
+                  "category": "religious",
+                  "coords": [
+                        121.864935,
+                        24.581693
+                  ]
+            },
+            {
+                  "name": "Baitul Muslimin Mosque",
+                  "text": "Serving the local Indonesian fishermen and community, this mosque provides a dedicated prayer space near the bustling harbor.",
+                  "category": "religious",
+                  "coords": [
+                        121.863997,
+                        24.58135
+                  ]
+            },
+            {
+                  "name": "Shikongshan",
+                  "text": "Rising above the coastal settlements, this mountain peak features dense subtropical vegetation and rugged hiking paths.",
+                  "category": "natural",
+                  "coords": [
+                        121.859647,
+                        24.584134
+                  ]
+            },
+            {
+                  "name": "Dabaishan",
+                  "text": "Characterized by its steep slopes and prominent limestone formations, Dabaishan is a distinct topographical feature near the coast.",
+                  "category": "natural",
+                  "coords": [
+                        121.783227,
+                        24.544749
+                  ]
+            },
+            {
+                  "name": "Dong Ao Bay",
+                  "text": "This picturesque coastal bay features a sweeping curve of fine sand beaches framed by dramatic, verdant mountain cliffs.",
+                  "category": "landmark",
+                  "coords": [
+                        121.854442,
+                        24.507278
+                  ]
+            },
+            {
+                  "name": "Nanfangao Cultural Center of Fishery",
+                  "text": "This local museum documents the rich maritime heritage of the area, featuring displays on traditional Taiwanese fishing techniques and boat building.",
+                  "category": "museum",
+                  "coords": [
+                        121.871901,
+                        24.585247
+                  ]
+            },
+            {
+                  "name": "Nanfang'ao Bridge",
+                  "text": "Rebuilt and opened in 2022, this modern tied-arch bridge spans the harbor, serving as a critical transport link and a sleek architectural landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        121.869033,
+                        24.585799
+                  ]
+            },
+            {
+                  "name": "LiZeJian Yong An Temple",
+                  "text": "An ornate traditional temple in the local community, highly revered for its intricate roof carvings and colorful ceremonial festivals.",
+                  "category": "religious",
+                  "coords": [
+                        121.823149,
+                        24.666626
+                  ]
+            },
+            {
+                  "name": "NanFangAo Jin An Temple",
+                  "text": "A vital spiritual center for local seafarers, this elaborately decorated temple is home to a magnificent coral statue of the goddess Mazu.",
+                  "category": "religious",
+                  "coords": [
+                        121.864496,
+                        24.584164
+                  ]
+            },
+            {
+                  "name": "YongFu Temple",
+                  "text": "This local shrine provides a peaceful retreat within the port district, marked by traditional stone incense burners and curling temple roofs.",
+                  "category": "religious",
+                  "coords": [
+                        121.854384,
+                        24.595652
+                  ]
+            },
+            {
+                  "name": "BeiFangAo Jin An Temple",
+                  "text": "A modest Taoist site dedicated to maritime deities, featuring vibrant dragon motifs protecting the entrance.",
+                  "category": "landmark",
+                  "coords": [
+                        121.881052,
+                        24.601444
+                  ]
+            },
+            {
+                  "name": "Church of Christ",
+                  "text": "This community-oriented Christian church stands out with its simple, modern architecture amidst the traditional harbor setting.",
+                  "category": "landmark",
+                  "coords": [
+                        121.850992,
+                        24.593367
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "TW-ILA",
     coords: [121.868, 24.591],

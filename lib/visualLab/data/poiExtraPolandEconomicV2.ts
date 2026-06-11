@@ -954,7 +954,7 @@ export const polandEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Plaża Dzika",
-                  "text": "Wilder Strand in der Nähe der Poznaner Messe.",
+                  "text": "Unberührter Sandstrand an der Warta nahe dem Messegelände.",
                   "category": "recreational",
                   "coords": [
                         16.876526,
@@ -965,7 +965,7 @@ export const polandEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Plaża Dzika",
-                  "text": "Vadstrand a poznańi nemzetközi vásár közelében.",
+                  "text": "Vad, fejletlen homokos strand a Warta folyónál a vásárváros közelében.",
                   "category": "recreational",
                   "coords": [
                         16.876526,
@@ -976,7 +976,7 @@ export const polandEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Plaża Dzika",
-                  "text": "Plajă sălbatică lângă Târgul Internațional din Poznań.",
+                  "text": "Plajă sălbatică, neamenajată pe râul Warta, lângă complexul expozițional.",
                   "category": "recreational",
                   "coords": [
                         16.876526,
@@ -987,7 +987,7 @@ export const polandEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Plaża Dzika",
-                  "text": "Wild beach near Poznań International Fair.",
+                  "text": "Wild, undeveloped sandy beach on the Warta River near the fairgrounds.",
                   "category": "recreational",
                   "coords": [
                         16.876526,
@@ -1134,7 +1134,7 @@ export const polandEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Mijanka",
-                  "text": "Strand Mijanka nahe den Chemiewerken in Police.",
+                  "text": "Erholungsgebiet mit Spazierwegen nahe dem Chemiewerk Police.",
                   "category": "recreational",
                   "coords": [
                         14.595303,
@@ -1145,7 +1145,7 @@ export const polandEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Mijanka",
-                  "text": "Mijanka strand a Policei vegyiművek közelében.",
+                  "text": "Pihenőterület sétányokkal a Police vegyi üzem közelében.",
                   "category": "recreational",
                   "coords": [
                         14.595303,
@@ -1156,7 +1156,7 @@ export const polandEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Mijanka",
-                  "text": "Plaja Mijanka lângă Combinatul Chimic din Police.",
+                  "text": "Zonă de agrement cu alei pietonale lângă fabrica chimică Police.",
                   "category": "recreational",
                   "coords": [
                         14.595303,
@@ -1167,7 +1167,7 @@ export const polandEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Mijanka",
-                  "text": "Mijanka beach near the chemical plant in Police.",
+                  "text": "Recreational area with walking paths near the Police chemical plant.",
                   "category": "recreational",
                   "coords": [
                         14.595303,
@@ -1800,7 +1800,7 @@ export const polandEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Kąpielisko Bolko",
-                  "text": "Strandbad Bolko in Opole.",
+                  "text": "Badestelle an der Oder nahe dem Zementwerk Opole.",
                   "category": "recreational",
                   "coords": [
                         17.938681,
@@ -1811,7 +1811,7 @@ export const polandEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Kąpielisko Bolko",
-                  "text": "Bolko strand Opoleben.",
+                  "text": "Fürdőhely az Odera partján az Opole-i cementgyár közelében.",
                   "category": "recreational",
                   "coords": [
                         17.938681,
@@ -1822,7 +1822,7 @@ export const polandEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Kąpielisko Bolko",
-                  "text": "Plaja Bolko din Opole.",
+                  "text": "Loc de înot pe Oderă, lângă fabrica de ciment Opole.",
                   "category": "recreational",
                   "coords": [
                         17.938681,
@@ -1833,7 +1833,7 @@ export const polandEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Kąpielisko Bolko",
-                  "text": "Bolko beach in Opole.",
+                  "text": "Swimming spot on the Oder River near the Opole cement works.",
                   "category": "recreational",
                   "coords": [
                         17.938681,
@@ -2215,7 +2215,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Teatr Żelazny",
-                  "text": "Das Teatr Żelazny ist ein bekanntes unabhängiges Theater im Herzen von Kattowitz.",
+                  "text": "Teatr Żelazny – Untergrundtheater in einer ehemaligen Eisengießerei in Kattowitz.",
                   "category": "cultural",
                   "coords": [
                         18.988264,
@@ -2377,7 +2377,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Diabelska pętla",
-                  "text": "Diabelska pętla ist eine bekannte Sehenswürdigkeit im Geschäftszentrum Kattowitz.",
+                  "text": "Teufelsloop – ein vertikaler Looping der Achterbahn Lech im Legendia-Freizeitpark in Kattowitz.",
                   "category": "landmark",
                   "coords": [
                         18.995301,
@@ -2386,7 +2386,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Lech Coaster",
-                  "text": "Lech Coaster ist eine bekannte Sehenswürdigkeit im Geschäftszentrum Kattowitz.",
+                  "text": "Lech Coaster – Stahlachterbahn im Legendia-Park, benannt nach dem legendären Gründer Polens.",
                   "category": "landmark",
                   "coords": [
                         18.992895,
@@ -2431,7 +2431,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Elka",
-                  "text": "Elka ist eine bekannte Sehenswürdigkeit im Geschäftszentrum Kattowitz.",
+                  "text": "50 Meter hohes Riesenrad mit Blick über das Geschäftsviertel.",
                   "category": "landmark",
                   "coords": [
                         18.98565,
@@ -2449,7 +2449,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Plac Grunwaldzki",
-                  "text": "Plac Grunwaldzki ist ein bekannter Park im Geschäftszentrum Kattowitz.",
+                  "text": "Grunwaldplatz in Kattowitz, ein großer Stadtplatz mit Teich und Denkmälern.",
                   "category": "park",
                   "coords": [
                         19.021779,
@@ -2458,7 +2458,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Skwer Walentego Fojkisa",
-                  "text": "Skwer Walentego Fojkisa ist ein bekannter Park im Geschäftszentrum Kattowitz.",
+                  "text": "Walenty-Fojkis-Platz in Kattowitz, eine Grünanlage mit Spielplatz und Bänken.",
                   "category": "park",
                   "coords": [
                         19.017691,
@@ -2467,7 +2467,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Plac Rady Europy",
-                  "text": "Plac Rady Europy ist ein bekannter Park im Geschäftszentrum Kattowitz.",
+                  "text": "Platz des Europarates in Kattowitz, ein moderner Stadtplatz nahe der Spodek-Arena.",
                   "category": "park",
                   "coords": [
                         19.031141,
@@ -2476,7 +2476,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Plac Wincentego Wajdy",
-                  "text": "Plac Wincentego Wajdy ist ein bekannter Park im Geschäftszentrum Kattowitz.",
+                  "text": "Wincenty-Wajda-Platz in Kattowitz, eine kleine Parkanlage mit Brunnen.",
                   "category": "park",
                   "coords": [
                         19.037053,
@@ -2485,7 +2485,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Park im. Tadeusza Kościuszki",
-                  "text": "Park im. Tadeusza Kościuszki ist ein bekannter Park im Geschäftszentrum Kattowitz.",
+                  "text": "Park mit Teich und Denkmal von Tadeusz Kościuszko.",
                   "category": "park",
                   "coords": [
                         19.004104,
@@ -2494,7 +2494,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Schlesischer Tierpark",
-                  "text": "Śląski Ogród Zoologiczny ist ein bekannter Zoo im Geschäftszentrum Kattowitz.",
+                  "text": "Zoo mit über 2000 Tieren und einem Delfinarium.",
                   "category": "family",
                   "coords": [
                         18.994016,
@@ -2512,7 +2512,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Parafia Najświętszej Maryi Panny Wspomożenia Wiernych",
-                  "text": "Parafia Najświętszej Maryi Panny Wspomożenia Wiernych ist eine Kultstätte im Geschäftszentrum Kattowitz.",
+                  "text": "Die Pfarrei Maria Hilfe der Christen liegt im Geschäftszentrum von Katowice.",
                   "category": "religious",
                   "coords": [
                         19.021209,
@@ -2521,7 +2521,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Najświętszego Serca Pana Jezusa",
-                  "text": "Kościół pw. Najświętszego Serca Pana Jezusa ist eine Kultstätte im Geschäftszentrum Kattowitz.",
+                  "text": "Die Herz-Jesu-Kirche im Geschäftszentrum von Katowice besticht durch eine moderne Dreiecksfassade.",
                   "category": "religious",
                   "coords": [
                         19.021685,
@@ -2530,7 +2530,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Kościół Podwyższenia Krzyża Świętego",
-                  "text": "Kościół Podwyższenia Krzyża Świętego ist eine Kultstätte im Geschäftszentrum Kattowitz.",
+                  "text": "Die Kirche Kreuzerhöhung im Geschäftszentrum von Katowice besitzt einen Stahlturm.",
                   "category": "religious",
                   "coords": [
                         18.998319,
@@ -2539,7 +2539,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Kościół Opatrzności Bożej",
-                  "text": "Die Kościół Opatrzności Bożej ist eine Kirche im Geschäftszentrum Kattowitz.",
+                  "text": "Kirche der Göttlichen Vorsehung in Kattowitz, denkmalgeschütztes Gebäude aus dem 19. Jahrhundert.",
                   "category": "religious",
                   "coords": [
                         19.045471,
@@ -2548,7 +2548,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Kościół Przemienienia Pańskiego",
-                  "text": "Kościół Przemienienia Pańskiego ist eine Kultstätte im Geschäftszentrum Kattowitz.",
+                  "text": "Die Verklärungskirche im Geschäftszentrum von Katowice ist mit einem großen Buntglasfenster ausgestattet.",
                   "category": "religious",
                   "coords": [
                         19.015169,
@@ -2557,7 +2557,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Kaplica św. Józefa",
-                  "text": "Kaplica św. Józefa ist eine Kultstätte im Geschäftszentrum Kattowitz.",
+                  "text": "St.-Josephs-Kapelle in Kattowitz, eine denkmalgeschützte Holzkapelle.",
                   "category": "religious",
                   "coords": [
                         19.028807,
@@ -2566,7 +2566,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Panteon Górnośląski",
-                  "text": "Panteon Górnośląski ist ein Museum im Geschäftszentrum Kattowitz.",
+                  "text": "Museum zur Geschichte und Kultur Oberschlesiens.",
                   "category": "museum",
                   "coords": [
                         19.019017,
@@ -2575,7 +2575,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "FunHouse Katowice - Interaktywne Muzeum Flipperów i Gier Arcade",
-                  "text": "FunHouse Katowice - Interaktywne Muzeum Flipperów i Gier Arcade ist ein Museum im Geschäftszentrum Kattowitz.",
+                  "text": "Interaktives Museum mit historischen Flipperautomaten und Arcade-Spielen.",
                   "category": "museum",
                   "coords": [
                         19.044186,
@@ -2784,7 +2784,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Teatr Żelazny",
-                  "text": "A Teatr Żelazny egy ismert független színház Katowice városában.",
+                  "text": "Teatr Żelazny – földalatti színház egy egykori vasműben Katowicében.",
                   "category": "cultural",
                   "coords": [
                         18.988264,
@@ -2946,7 +2946,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Diabelska pętla",
-                  "text": "A Diabelska pętla egy ismert látványosság a Geschäftszentrum Kattowitz területén.",
+                  "text": "Ördöghurok – a Lech hullámvasút függőleges hurokeleme a legendiai vidámparkban Katowicében.",
                   "category": "landmark",
                   "coords": [
                         18.995301,
@@ -2955,7 +2955,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Lech Coaster",
-                  "text": "A Lech Coaster egy ismert látványosság a Geschäftszentrum Kattowitz területén.",
+                  "text": "Lech hullámvasút – acél hullámvasút a Legendia parkban, Lengyelország legendás alapítójáról elnevezve.",
                   "category": "landmark",
                   "coords": [
                         18.992895,
@@ -3000,7 +3000,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Elka",
-                  "text": "Az Elka egy ismert látványosság a Geschäftszentrum Kattowitz területén.",
+                  "text": "50 méter magas óriáskerék kilátással az üzleti negyedre.",
                   "category": "landmark",
                   "coords": [
                         18.98565,
@@ -3018,7 +3018,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Plac Grunwaldzki",
-                  "text": "A Plac Grunwaldzki egy ismert park a Geschäftszentrum Kattowitz területén.",
+                  "text": "Grunwald tér Katowicében, nagy városi tér tóval és emlékművekkel.",
                   "category": "park",
                   "coords": [
                         19.021779,
@@ -3027,7 +3027,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Skwer Walentego Fojkisa",
-                  "text": "A Skwer Walentego Fojkisa egy ismert park a Geschäftszentrum Kattowitz területén.",
+                  "text": "Walenty Fojkis tér Katowicében, zöld terület játszótérrel és padokkal.",
                   "category": "park",
                   "coords": [
                         19.017691,
@@ -3036,7 +3036,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Plac Rady Europy",
-                  "text": "A Plac Rady Europy egy ismert park a Geschäftszentrum Kattowitz területén.",
+                  "text": "Európa Tanács tér Katowicében, modern városi tér a Spodek aréna közelében.",
                   "category": "park",
                   "coords": [
                         19.031141,
@@ -3045,7 +3045,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Plac Wincentego Wajdy",
-                  "text": "A Plac Wincentego Wajdy egy ismert park a Geschäftszentrum Kattowitz területén.",
+                  "text": "Wincenty Wajda tér Katowicében, kis park szökőkúttal.",
                   "category": "park",
                   "coords": [
                         19.037053,
@@ -3054,7 +3054,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Park im. Tadeusza Kościuszki",
-                  "text": "A Park im. Tadeusza Kościuszki egy ismert park a Geschäftszentrum Kattowitz területén.",
+                  "text": "Park tóval és Tadeusz Kościuszko szobrával.",
                   "category": "park",
                   "coords": [
                         19.004104,
@@ -3063,7 +3063,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Śląski Ogród Zoologiczny",
-                  "text": "A Śląski Ogród Zoologiczny egy ismert állatkert a Geschäftszentrum Kattowitz területén.",
+                  "text": "Állatkert több mint 2000 állattal és delfináriummal.",
                   "category": "family",
                   "coords": [
                         18.994016,
@@ -3081,7 +3081,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Parafia Najświętszej Maryi Panny Wspomożenia Wiernych",
-                  "text": "A Parafia Najświętszej Maryi Panny Wspomożenia Wiernych egy istentiszteleti hely a Geschäftszentrum Kattowitz területén.",
+                  "text": "A Mária, a Keresztények Segítsége plébánia Katowice üzleti negyedében található.",
                   "category": "religious",
                   "coords": [
                         19.021209,
@@ -3090,7 +3090,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Najświętszego Serca Pana Jezusa",
-                  "text": "A Kościół pw. Najświętszego Serca Pana Jezusa egy istentiszteleti hely a Geschäftszentrum Kattowitz területén.",
+                  "text": "A Jézus Szíve-templom Katowice üzleti negyedében modern, háromszög alakú homlokzattal.",
                   "category": "religious",
                   "coords": [
                         19.021685,
@@ -3099,7 +3099,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Kościół Podwyższenia Krzyża Świętego",
-                  "text": "A Kościół Podwyższenia Krzyża Świętego egy istentiszteleti hely a Geschäftszentrum Kattowitz területén.",
+                  "text": "A Szent Kereszt Felmagasztalása-templom Katowice üzleti negyedében acéltoronnyal.",
                   "category": "religious",
                   "coords": [
                         18.998319,
@@ -3108,7 +3108,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Kościół Opatrzności Bożej",
-                  "text": "A Kościół Opatrzności Bożej egy templom a Geschäftszentrum Kattowitz területén.",
+                  "text": "Isteni Gondviselés temploma Katowicében, 19. századi műemlék épület.",
                   "category": "religious",
                   "coords": [
                         19.045471,
@@ -3117,7 +3117,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Kościół Przemienienia Pańskiego",
-                  "text": "A Kościół Przemienienia Pańskiego egy istentiszteleti hely a Geschäftszentrum Kattowitz területén.",
+                  "text": "Az Úr Színeváltozása-templom Katowice üzleti negyedében nagy üvegablakkal.",
                   "category": "religious",
                   "coords": [
                         19.015169,
@@ -3126,7 +3126,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Kaplica św. Józefa",
-                  "text": "A Kaplica św. Józefa egy istentiszteleti hely a Geschäftszentrum Kattowitz területén.",
+                  "text": "Szent József-kápolna Katowicében, műemlék fából készült kápolna.",
                   "category": "religious",
                   "coords": [
                         19.028807,
@@ -3135,7 +3135,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Panteon Górnośląski",
-                  "text": "A Panteon Górnośląski egy múzeum a Geschäftszentrum Kattowitz területén.",
+                  "text": "Felső-Szilézia történelmének és kultúrájának múzeuma.",
                   "category": "museum",
                   "coords": [
                         19.019017,
@@ -3144,7 +3144,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "FunHouse Katowice - Interaktywne Muzeum Flipperów i Gier Arcade",
-                  "text": "A FunHouse Katowice - Interaktywne Muzeum Flipperów i Gier Arcade egy múzeum a Geschäftszentrum Kattowitz területén.",
+                  "text": "Interaktív múzeum vintage flippergépekkel és játéktermi játékokkal.",
                   "category": "museum",
                   "coords": [
                         19.044186,
@@ -3353,7 +3353,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Teatr Żelazny",
-                  "text": "Teatr Żelazny este un teatru independent apreciat din Katowice.",
+                  "text": "Teatr Żelazny – teatru subteran într-o fostă turnătorie de fier din Katowice.",
                   "category": "cultural",
                   "coords": [
                         18.988264,
@@ -3515,7 +3515,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Diabelska pętla",
-                  "text": "Diabelska pętla este o atracție notabilă în Geschäftszentrum Kattowitz.",
+                  "text": "Bucla Diavolului – un element de buclă verticală al montagnei ruse Lech din parcul de distracții Legendia din Katowice.",
                   "category": "landmark",
                   "coords": [
                         18.995301,
@@ -3524,7 +3524,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Lech Coaster",
-                  "text": "Lech Coaster este o atracție notabilă în Geschäftszentrum Kattowitz.",
+                  "text": "Lech Coaster – montagne rusă de oțel în parcul Legendia, numită după legendarul fondator al Poloniei.",
                   "category": "landmark",
                   "coords": [
                         18.992895,
@@ -3569,7 +3569,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Elka",
-                  "text": "Elka este o atracție notabilă în Geschäftszentrum Kattowitz.",
+                  "text": "Roata mare de 50 de metri cu vedere asupra cartierului de afaceri.",
                   "category": "landmark",
                   "coords": [
                         18.98565,
@@ -3587,7 +3587,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Plac Grunwaldzki",
-                  "text": "Plac Grunwaldzki este un parc notabil în Geschäftszentrum Kattowitz.",
+                  "text": "Piața Grunwald din Katowice, o piață mare urbană cu iaz și monumente.",
                   "category": "park",
                   "coords": [
                         19.021779,
@@ -3596,7 +3596,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Skwer Walentego Fojkisa",
-                  "text": "Skwer Walentego Fojkisa este un parc notabil în Geschäftszentrum Kattowitz.",
+                  "text": "Piața Walenty Fojkis din Katowice, o zonă verde cu loc de joacă și bănci.",
                   "category": "park",
                   "coords": [
                         19.017691,
@@ -3605,7 +3605,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Plac Rady Europy",
-                  "text": "Plac Rady Europy este un parc notabil în Geschäftszentrum Kattowitz.",
+                  "text": "Piața Consiliului Europei din Katowice, o piață urbană modernă lângă arena Spodek.",
                   "category": "park",
                   "coords": [
                         19.031141,
@@ -3614,7 +3614,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Plac Wincentego Wajdy",
-                  "text": "Plac Wincentego Wajdy este un parc notabil în Geschäftszentrum Kattowitz.",
+                  "text": "Piața Wincenty Wajda din Katowice, un mic parc cu fântână.",
                   "category": "park",
                   "coords": [
                         19.037053,
@@ -3623,7 +3623,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Park im. Tadeusza Kościuszki",
-                  "text": "Park im. Tadeusza Kościuszki este un parc notabil în Geschäftszentrum Kattowitz.",
+                  "text": "Parcul cu iaz și monumentul lui Tadeusz Kościuszko.",
                   "category": "park",
                   "coords": [
                         19.004104,
@@ -3632,7 +3632,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Śląski Ogród Zoologiczny",
-                  "text": "Śląski Ogród Zoologiczny este o grădină zoologică notabilă în Geschäftszentrum Kattowitz.",
+                  "text": "Grădină zoologică cu peste 2000 de animale și un delfinariu.",
                   "category": "family",
                   "coords": [
                         18.994016,
@@ -3650,7 +3650,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Parafia Najświętszej Maryi Panny Wspomożenia Wiernych",
-                  "text": "Parafia Najświętszej Maryi Panny Wspomożenia Wiernych este un lăcaș de cult în Geschäftszentrum Kattowitz.",
+                  "text": "Parohia Maria Ajutătoarea din centrul de afaceri al orașului Katowice.",
                   "category": "religious",
                   "coords": [
                         19.021209,
@@ -3659,7 +3659,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Najświętszego Serca Pana Jezusa",
-                  "text": "Kościół pw. Najświętszego Serca Pana Jezusa este un lăcaș de cult în Geschäftszentrum Kattowitz.",
+                  "text": "Biserica Inimii lui Isus din centrul de afaceri Katowice, cu o fațadă modernă triunghiulară.",
                   "category": "religious",
                   "coords": [
                         19.021685,
@@ -3668,7 +3668,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Kościół Podwyższenia Krzyża Świętego",
-                  "text": "Kościół Podwyższenia Krzyża Świętego este un lăcaș de cult în Geschäftszentrum Kattowitz.",
+                  "text": "Biserica Înălțarea Sfintei Cruci din centrul de afaceri Katowice, cu un turn de oțel.",
                   "category": "religious",
                   "coords": [
                         18.998319,
@@ -3677,7 +3677,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Kościół Opatrzności Bożej",
-                  "text": "Kościół Opatrzności Bożej este o biserică în Geschäftszentrum Kattowitz.",
+                  "text": "Biserica Providenței Divine din Katowice, clădire istorică protejată din secolul al XIX-lea.",
                   "category": "religious",
                   "coords": [
                         19.045471,
@@ -3686,7 +3686,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Kościół Przemienienia Pańskiego",
-                  "text": "Kościół Przemienienia Pańskiego este un lăcaș de cult în Geschäftszentrum Kattowitz.",
+                  "text": "Biserica Schimbarea la Față din centrul de afaceri Katowice, cu un geam mare de vitraliu.",
                   "category": "religious",
                   "coords": [
                         19.015169,
@@ -3695,7 +3695,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Kaplica św. Józefa",
-                  "text": "Kaplica św. Józefa este un lăcaș de cult în Geschäftszentrum Kattowitz.",
+                  "text": "Capela Sfântul Iosif din Katowice, o capelă de lemn monument istoric.",
                   "category": "religious",
                   "coords": [
                         19.028807,
@@ -3704,7 +3704,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Panteon Górnośląski",
-                  "text": "Panteon Górnośląski este un muzeu în Geschäftszentrum Kattowitz.",
+                  "text": "Muzeu dedicat istoriei și culturii Sileziei Superioare.",
                   "category": "museum",
                   "coords": [
                         19.019017,
@@ -3713,7 +3713,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "FunHouse Katowice - Interaktywne Muzeum Flipperów i Gier Arcade",
-                  "text": "FunHouse Katowice - Interaktywne Muzeum Flipperów i Gier Arcade este un muzeu în Geschäftszentrum Kattowitz.",
+                  "text": "Muzeu interactiv cu pinball-uri vintage și jocuri arcade.",
                   "category": "museum",
                   "coords": [
                         19.044186,
@@ -3922,7 +3922,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Teatr Żelazny",
-                  "text": "Teatr Żelazny is a well-known independent theatre in Katowice.",
+                  "text": "Teatr Żelazny – underground theatre in a former iron foundry in Katowice.",
                   "category": "cultural",
                   "coords": [
                         18.988264,
@@ -4084,7 +4084,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Diabelska pętla",
-                  "text": "Diabelska pętla is a notable attraction located in Geschäftszentrum Kattowitz.",
+                  "text": "Devil's Loop – a vertical loop element on the Lech roller coaster at Legendia amusement park in Katowice.",
                   "category": "landmark",
                   "coords": [
                         18.995301,
@@ -4093,7 +4093,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Lech Coaster",
-                  "text": "Lech Coaster is a notable attraction located in Geschäftszentrum Kattowitz.",
+                  "text": "Lech Coaster – steel roller coaster at Legendia park, named after the legendary founder of Poland.",
                   "category": "landmark",
                   "coords": [
                         18.992895,
@@ -4138,7 +4138,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Elka",
-                  "text": "Elka is a notable attraction located in Geschäftszentrum Kattowitz.",
+                  "text": "50m high Ferris wheel overlooking the business district.",
                   "category": "landmark",
                   "coords": [
                         18.98565,
@@ -4156,7 +4156,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Plac Grunwaldzki",
-                  "text": "Plac Grunwaldzki is a notable park located in Geschäftszentrum Kattowitz.",
+                  "text": "Grunwald Square in Katowice, a large public square with a pond and monuments.",
                   "category": "park",
                   "coords": [
                         19.021779,
@@ -4165,7 +4165,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Skwer Walentego Fojkisa",
-                  "text": "Skwer Walentego Fojkisa is a notable park located in Geschäftszentrum Kattowitz.",
+                  "text": "Square of Walenty Fojkis in Katowice, a green area with a playground and benches.",
                   "category": "park",
                   "coords": [
                         19.017691,
@@ -4174,7 +4174,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Plac Rady Europy",
-                  "text": "Plac Rady Europy is a notable park located in Geschäftszentrum Kattowitz.",
+                  "text": "Council of Europe Square in Katowice, a modern urban plaza near the Spodek arena.",
                   "category": "park",
                   "coords": [
                         19.031141,
@@ -4183,7 +4183,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Plac Wincentego Wajdy",
-                  "text": "Plac Wincentego Wajdy is a notable park located in Geschäftszentrum Kattowitz.",
+                  "text": "Square of Wincenty Wajda in Katowice, a small park with a fountain.",
                   "category": "park",
                   "coords": [
                         19.037053,
@@ -4192,7 +4192,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Park im. Tadeusza Kościuszki",
-                  "text": "Park im. Tadeusza Kościuszki is a notable park located in Geschäftszentrum Kattowitz.",
+                  "text": "Park with a pond and Tadeusz Kościuszko monument.",
                   "category": "park",
                   "coords": [
                         19.004104,
@@ -4201,7 +4201,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Śląski Ogród Zoologiczny",
-                  "text": "Śląski Ogród Zoologiczny is a notable zoo located in Geschäftszentrum Kattowitz.",
+                  "text": "Zoo with over 2,000 animals and a dolphinarium.",
                   "category": "family",
                   "coords": [
                         18.994016,
@@ -4219,7 +4219,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Parafia Najświętszej Maryi Panny Wspomożenia Wiernych",
-                  "text": "Parafia Najświętszej Maryi Panny Wspomożenia Wiernych is a place of worship located in Geschäftszentrum Kattowitz.",
+                  "text": "Parish of Our Lady of Perpetual Help in the Katowice Business Center.",
                   "category": "religious",
                   "coords": [
                         19.021209,
@@ -4228,7 +4228,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Kościół pw. Najświętszego Serca Pana Jezusa",
-                  "text": "Kościół pw. Najświętszego Serca Pana Jezusa is a place of worship located in Geschäftszentrum Kattowitz.",
+                  "text": "Sacred Heart Church in Katowice Business Center, with a striking triangular facade.",
                   "category": "religious",
                   "coords": [
                         19.021685,
@@ -4237,7 +4237,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Kościół Podwyższenia Krzyża Świętego",
-                  "text": "Kościół Podwyższenia Krzyża Świętego is a place of worship located in Geschäftszentrum Kattowitz.",
+                  "text": "Church of the Exaltation of the Holy Cross in Katowice Business Center, featuring a steel spire.",
                   "category": "religious",
                   "coords": [
                         18.998319,
@@ -4246,7 +4246,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Kościół Opatrzności Bożej",
-                  "text": "The Kościół Opatrzności Bożej is a church located in Geschäftszentrum Kattowitz.",
+                  "text": "Church of Divine Providence in Katowice, a historic listed building from the 19th century.",
                   "category": "religious",
                   "coords": [
                         19.045471,
@@ -4255,7 +4255,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Kościół Przemienienia Pańskiego",
-                  "text": "Kościół Przemienienia Pańskiego is a place of worship located in Geschäftszentrum Kattowitz.",
+                  "text": "Church of the Transfiguration in Katowice Business Center, with a large stained-glass window.",
                   "category": "religious",
                   "coords": [
                         19.015169,
@@ -4264,7 +4264,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Kaplica św. Józefa",
-                  "text": "Kaplica św. Józefa is a place of worship located in Geschäftszentrum Kattowitz.",
+                  "text": "Chapel of St. Joseph in Katowice, a historic listed wooden chapel.",
                   "category": "religious",
                   "coords": [
                         19.028807,
@@ -4273,7 +4273,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "Panteon Górnośląski",
-                  "text": "Panteon Górnośląski is a museum located in Geschäftszentrum Kattowitz.",
+                  "text": "Museum dedicated to the history and culture of Upper Silesia.",
                   "category": "museum",
                   "coords": [
                         19.019017,
@@ -4282,7 +4282,7 @@ export const polandEconomicV2: POI[] = [
             },
             {
                   "name": "FunHouse Katowice - Interaktywne Muzeum Flipperów i Gier Arcade",
-                  "text": "FunHouse Katowice - Interaktywne Muzeum Flipperów i Gier Arcade is a museum located in Geschäftszentrum Kattowitz.",
+                  "text": "Interactive museum with vintage pinball machines and arcade games.",
                   "category": "museum",
                   "coords": [
                         19.044186,

@@ -3,7 +3,268 @@ import type { POI } from "./poi";
 
 export const poiExtraMongoliaHistoryV2: POI[] = [
   {
-    id: "mn-erdene-zuu-history-v2",
+    id: "mn-erdene-zuu-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Guriliin Uildver",
+                  "text": "Ein Aussichtspunkt nahe der örtlichen Mühle mit Blick auf die umliegende Steppe und Industrieanlagen.",
+                  "category": "natural",
+                  "coords": [
+                        102.82711,
+                        47.199565
+                  ]
+            },
+            {
+                  "name": "Karakorum",
+                  "text": "Die Fundamente und Stein-Schildkröten der im Jahr 1220 von Dschingis Khan gegründeten alten Hauptstadt.",
+                  "category": "historical",
+                  "coords": [
+                        102.820541,
+                        47.206126
+                  ]
+            },
+            {
+                  "name": "Ögödei's palace",
+                  "text": "Die Ausgrabungsstätte der prachtvollen Residenz aus dem 13. Jahrhundert, die vom zweiten Großkhan erbaut wurde.",
+                  "category": "castle",
+                  "coords": [
+                        102.840969,
+                        47.207505
+                  ]
+            },
+            {
+                  "name": "Kloster Erdene Dsuu",
+                  "text": "Mongoleis ältestes erhaltenes buddhistisches Kloster, umgeben von einer gewaltigen Mauer mit 108 Stupas.",
+                  "category": "museum",
+                  "coords": [
+                        102.843144,
+                        47.201644
+                  ]
+            },
+            {
+                  "name": "Erdene Zuu Monastery Temple",
+                  "text": "Eine heilige Halle innerhalb der Klostermauern, in der traditionelle buddhistische Rituale durchgeführt werden.",
+                  "category": "religious",
+                  "coords": [
+                        102.84174,
+                        47.201152
+                  ]
+            },
+            {
+                  "name": "Baruun Zuu",
+                  "text": "Der westliche Tempel des Hauptensembles aus dem Jahr 1586, der klassische mongolische Architektur zeigt.",
+                  "category": "religious",
+                  "coords": [
+                        102.840756,
+                        47.200982
+                  ]
+            },
+            {
+                  "name": "Lavrin Süm",
+                  "text": "Ein Tempel im tibetischen Stil, in dem sich Mönche zum täglichen Chanten und für Zeremonien versammeln.",
+                  "category": "religious",
+                  "coords": [
+                        102.84231,
+                        47.202729
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Guriliin Uildver",
+                  "text": "Kilátópont a helyi malom közelében, rálátással a környező sztyeppére és az ipari létesítményekre.",
+                  "category": "natural",
+                  "coords": [
+                        102.82711,
+                        47.199565
+                  ]
+            },
+            {
+                  "name": "Khar Khorum",
+                  "text": "A Dzsingisz kán által 1220-ban alapított ősi főváros alapfalai és kőteknősei.",
+                  "category": "historical",
+                  "coords": [
+                        102.820541,
+                        47.206126
+                  ]
+            },
+            {
+                  "name": "Ögödei's palace",
+                  "text": "A második nagykán által épített grandiózus, 13. századi rezidencia feltárt területe.",
+                  "category": "castle",
+                  "coords": [
+                        102.840969,
+                        47.207505
+                  ]
+            },
+            {
+                  "name": "Erdeni Dzú",
+                  "text": "Mongólia legrégebbi fennmaradt buddhista kolostora, amelyet egy 108 sztupával díszített hatalmas fal vesz körül.",
+                  "category": "museum",
+                  "coords": [
+                        102.843144,
+                        47.201644
+                  ]
+            },
+            {
+                  "name": "Erdene Zuu Monastery Temple",
+                  "text": "Szent csarnok a kolostorfalakon belül, ahol hagyományos buddhista rituálékat végeznek.",
+                  "category": "religious",
+                  "coords": [
+                        102.84174,
+                        47.201152
+                  ]
+            },
+            {
+                  "name": "Baruun Zuu",
+                  "text": "A fő együttes nyugati temploma 1586-ból, amely a klasszikus mongol építészetet mutatja be.",
+                  "category": "religious",
+                  "coords": [
+                        102.840756,
+                        47.200982
+                  ]
+            },
+            {
+                  "name": "Lavrin Süm",
+                  "text": "Tibeti stílusú templom, ahol a szerzetesek napi kántálásra és szertartásokra gyűlnek össze.",
+                  "category": "religious",
+                  "coords": [
+                        102.84231,
+                        47.202729
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Guriliin Uildver",
+                  "text": "Un punct de observație lângă moara locală, oferind priveliști asupra stepei înconjurătoare și a structurilor industriale.",
+                  "category": "natural",
+                  "coords": [
+                        102.82711,
+                        47.199565
+                  ]
+            },
+            {
+                  "name": "Khar Khorum",
+                  "text": "Fundațiile și broaștele țestoase din piatră ale vechii capitale fondate de Ginghis Han în 1220.",
+                  "category": "historical",
+                  "coords": [
+                        102.820541,
+                        47.206126
+                  ]
+            },
+            {
+                  "name": "Ögödei's palace",
+                  "text": "Situl excavat al marii reședințe din secolul al XIII-lea, construită de al doilea Mare Han.",
+                  "category": "castle",
+                  "coords": [
+                        102.840969,
+                        47.207505
+                  ]
+            },
+            {
+                  "name": "Erdene Zuu",
+                  "text": "Cea mai veche mănăstire budistă supraviețuitoare din Mongolia, înconjurată de un zid masiv cu 108 stupe.",
+                  "category": "museum",
+                  "coords": [
+                        102.843144,
+                        47.201644
+                  ]
+            },
+            {
+                  "name": "Erdene Zuu Monastery Temple",
+                  "text": "O sală sacră în interiorul zidurilor mănăstirii, unde se desfășoară ritualuri budiste tradiționale.",
+                  "category": "religious",
+                  "coords": [
+                        102.84174,
+                        47.201152
+                  ]
+            },
+            {
+                  "name": "Baruun Zuu",
+                  "text": "Templul vestic al ansamblului principal, datând din 1586 și prezentând arhitectura mongolă clasică.",
+                  "category": "religious",
+                  "coords": [
+                        102.840756,
+                        47.200982
+                  ]
+            },
+            {
+                  "name": "Lavrin Süm",
+                  "text": "Un templu în stil tibetan, unde călugării se adună pentru cântări și ceremonii zilnice.",
+                  "category": "religious",
+                  "coords": [
+                        102.84231,
+                        47.202729
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Guriliin Uildver",
+                  "text": "A vantage point near the local mill offering views of the surrounding steppe and industrial structures.",
+                  "category": "natural",
+                  "coords": [
+                        102.82711,
+                        47.199565
+                  ]
+            },
+            {
+                  "name": "Karakorum",
+                  "text": "The foundations and stone tortoises of the ancient capital founded by Genghis Khan in 1220.",
+                  "category": "historical",
+                  "coords": [
+                        102.820541,
+                        47.206126
+                  ]
+            },
+            {
+                  "name": "Ögödei's palace",
+                  "text": "The excavated site of the grand 13th-century residence built by the second Great Khan.",
+                  "category": "castle",
+                  "coords": [
+                        102.840969,
+                        47.207505
+                  ]
+            },
+            {
+                  "name": "Erdene Zuu",
+                  "text": "Mongolia's oldest surviving Buddhist monastery, enclosed by a massive wall with 108 stupas.",
+                  "category": "museum",
+                  "coords": [
+                        102.843144,
+                        47.201644
+                  ]
+            },
+            {
+                  "name": "Erdene Zuu Monastery Temple",
+                  "text": "A sacred hall within the monastery walls where traditional Buddhist rituals are performed.",
+                  "category": "religious",
+                  "coords": [
+                        102.84174,
+                        47.201152
+                  ]
+            },
+            {
+                  "name": "Baruun Zuu",
+                  "text": "The western temple of the main ensemble, dating back to 1586 and showcasing classic Mongolian architecture.",
+                  "category": "religious",
+                  "coords": [
+                        102.840756,
+                        47.200982
+                  ]
+            },
+            {
+                  "name": "Lavrin Süm",
+                  "text": "A Tibetan-style temple where monks gather for daily chanting and ceremonies.",
+                  "category": "religious",
+                  "coords": [
+                        102.84231,
+                        47.202729
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "MN-055",
     coords: [102.8409, 47.2016],
@@ -68,7 +329,196 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
       en: ["Founded in 1586", "Enclosed by 108 stupas", "Oldest surviving monastery", "Built using Karakorum stones", "Located in Orkhon Valley", "Features Three Zuu temples"],
     }, image: "/poi-images/mn-erdene-zuu-history-v2.webp"},
   {
-    id: "mn-karakorum-history-v2",
+    id: "mn-karakorum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Soyoliin Tov",
+                  "text": "Das lokale Kulturhaus in der historischen Stadt Karakorum bietet Aufführungen und Ausstellungen.",
+                  "category": "cultural",
+                  "coords": [
+                        102.816258,
+                        47.192632
+                  ]
+            },
+            {
+                  "name": "Ovoo",
+                  "text": "Ein traditioneller Stein-Altar mit blauen Seidenschals auf einem Hügel nahe Kharkhorin.",
+                  "category": "natural",
+                  "coords": [
+                        102.851512,
+                        47.181563
+                  ]
+            },
+            {
+                  "name": "Orkhon Valley Road from Kharkhorum",
+                  "text": "Ein malerischer Weg durch das UNESCO-geschützte Tal, der den Pfaden der alten mongolischen Nomaden folgt.",
+                  "category": "landmark",
+                  "coords": [
+                        102.89917,
+                        47.164075
+                  ]
+            },
+            {
+                  "name": "Kharakhorum Museum",
+                  "text": "Dieses Museum zeigt archäologische Funde der Hauptstadt aus dem 13. Jahrhundert, darunter Silbermünzen und Keramik.",
+                  "category": "museum",
+                  "coords": [
+                        102.839177,
+                        47.19522
+                  ]
+            },
+            {
+                  "name": "Erdenesiin Khuree Calligraphy and Art Center",
+                  "text": "Ein Kulturzentrum, das der komplizierten vertikalen mongolischen Schrift und der traditionellen Tuschekunst gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        102.835748,
+                        47.196906
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Soyoliin Tov",
+                  "text": "A történelmi Karakorum város helyi kultúrháza előadásokkal és kiállításokkal várja a látogatókat.",
+                  "category": "cultural",
+                  "coords": [
+                        102.816258,
+                        47.192632
+                  ]
+            },
+            {
+                  "name": "Ovoo",
+                  "text": "Hagyományos kőoltár kék selyemsálakkal díszítve egy Kharkhorin közeli dombon.",
+                  "category": "natural",
+                  "coords": [
+                        102.851512,
+                        47.181563
+                  ]
+            },
+            {
+                  "name": "Orkhon Valley Road from Kharkhorum",
+                  "text": "Festői útvonal az UNESCO-listás völgyben, amely az ősi mongol nomádok útját követi.",
+                  "category": "landmark",
+                  "coords": [
+                        102.89917,
+                        47.164075
+                  ]
+            },
+            {
+                  "name": "Kharakhorum Museum",
+                  "text": "Ez a múzeum a 13. századi főváros régészeti leleteit mutatja be, beleértve ezüstpénzeket és kerámiákat.",
+                  "category": "museum",
+                  "coords": [
+                        102.839177,
+                        47.19522
+                  ]
+            },
+            {
+                  "name": "Erdenesiin Khuree Calligraphy and Art Center",
+                  "text": "A bonyolult függőleges mongol írásnak és a hagyományos tusfestészetnek szentelt kulturális központ.",
+                  "category": "museum",
+                  "coords": [
+                        102.835748,
+                        47.196906
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Soyoliin Tov",
+                  "text": "Casa locală de cultură din orașul istoric Karakorum oferă spectacole și expoziții.",
+                  "category": "cultural",
+                  "coords": [
+                        102.816258,
+                        47.192632
+                  ]
+            },
+            {
+                  "name": "Ovoo",
+                  "text": "Un altar tradițional din piatră, împodobit cu eșarfe albastre din mătase, pe un deal lângă Kharkhorin.",
+                  "category": "natural",
+                  "coords": [
+                        102.851512,
+                        47.181563
+                  ]
+            },
+            {
+                  "name": "Orkhon Valley Road from Kharkhorum",
+                  "text": "Un traseu pitoresc prin valea inclusă în patrimoniul UNESCO, pe urmele vechilor nomazi mongoli.",
+                  "category": "landmark",
+                  "coords": [
+                        102.89917,
+                        47.164075
+                  ]
+            },
+            {
+                  "name": "Kharakhorum Museum",
+                  "text": "Acest muzeu expune descoperiri arheologice din capitala secolului al XIII-lea, inclusiv monede de argint și ceramică.",
+                  "category": "museum",
+                  "coords": [
+                        102.839177,
+                        47.19522
+                  ]
+            },
+            {
+                  "name": "Erdenesiin Khuree Calligraphy and Art Center",
+                  "text": "Un centru cultural dedicat scrierii verticale mongole și artei tradiționale în tuș.",
+                  "category": "museum",
+                  "coords": [
+                        102.835748,
+                        47.196906
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Soyoliin Tov",
+                  "text": "The local cultural palace in the historic city of Karakorum hosts performances and exhibits.",
+                  "category": "cultural",
+                  "coords": [
+                        102.816258,
+                        47.192632
+                  ]
+            },
+            {
+                  "name": "Ovoo",
+                  "text": "A traditional stone altar draped with blue silk scarves on a hill near Kharkhorin.",
+                  "category": "natural",
+                  "coords": [
+                        102.851512,
+                        47.181563
+                  ]
+            },
+            {
+                  "name": "Orkhon Valley Road from Kharkhorum",
+                  "text": "A scenic trail through the UNESCO-listed valley, following the path of the ancient Mongol nomads.",
+                  "category": "landmark",
+                  "coords": [
+                        102.89917,
+                        47.164075
+                  ]
+            },
+            {
+                  "name": "Kharakhorum Museum",
+                  "text": "This museum displays archaeological finds from the 13th-century capital, including silver coins and pottery.",
+                  "category": "museum",
+                  "coords": [
+                        102.839177,
+                        47.19522
+                  ]
+            },
+            {
+                  "name": "Erdenesiin Khuree Calligraphy and Art Center",
+                  "text": "A cultural center dedicated to the intricate vertical Mongolian script and traditional ink art.",
+                  "category": "museum",
+                  "coords": [
+                        102.835748,
+                        47.196906
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "MN-055",
     coords: [102.8409, 47.1975],
@@ -133,7 +583,232 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
       en: ["Founded around 1220", "Capital under Ogedei Khan", "Destroyed in 1388 by Ming forces", "Located in Orkhon Valley", "Site of the Silver Tree fountain", "Stone turtles mark city boundaries"],
     }, image: "/poi-images/mn-karakorum-history-v2.webp"},
   {
-    id: "mn-zaisan-history-v2",
+    id: "mn-zaisan-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Baigaliin tuukhiin muzei",
+                  "text": "Beherbergt weltberühmte Dinosaurierfossilien und -skelette aus der Wüste Gobi.",
+                  "category": "museum",
+                  "coords": [
+                        106.943076,
+                        47.883464
+                  ]
+            },
+            {
+                  "name": "Ikh tengeriin am",
+                  "text": "Ein geschütztes Bergtal am Bogd Khan Uul, bekannt für seine Wanderwege.",
+                  "category": "landmark",
+                  "coords": [
+                        106.9413,
+                        47.880728
+                  ]
+            },
+            {
+                  "name": "Ikh tengeriin amny khadny zurag",
+                  "text": "Antike Felsritzungen an den Klippen des Bogd-Khan-Berges, die Tiere und Symbole zeigen.",
+                  "category": "historical",
+                  "coords": [
+                        106.949778,
+                        47.884157
+                  ]
+            },
+            {
+                  "name": "Dugui tsagaan",
+                  "text": "Ein beliebter, kreisförmiger Rastplatz für Wanderer am Hang des Bogd Khan Uul.",
+                  "category": "natural",
+                  "coords": [
+                        106.900714,
+                        47.832117
+                  ]
+            },
+            {
+                  "name": "Baruun shireet",
+                  "text": "Der markante Beginn eines felsigen Aufstiegs in das Bogd-Khan-Massiv.",
+                  "category": "landmark",
+                  "coords": [
+                        106.883159,
+                        47.837171
+                  ]
+            },
+            {
+                  "name": "Zaisan tolgoi",
+                  "text": "Ein Denkmal auf einem Hügel mit einem riesigen Wandgemälde zur mongolisch-sowjetischen Freundschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        106.915466,
+                        47.884027
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Baigaliin tuukhiin muzei",
+                  "text": "A Góbi-sivatagból származó, világhírű dinoszaurusz-fosszíliákat és csontvázakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        106.943076,
+                        47.883464
+                  ]
+            },
+            {
+                  "name": "Ikh tengeriin am",
+                  "text": "Védett hegyi völgy a Bogd Kán-hegyen, amely túraútvonalairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        106.9413,
+                        47.880728
+                  ]
+            },
+            {
+                  "name": "Ikh tengeriin amny khadny zurag",
+                  "text": "Ősi sziklarajzok a Bogd Kán-hegy szikláin, amelyek állatokat és szimbólumokat ábrázolnak.",
+                  "category": "historical",
+                  "coords": [
+                        106.949778,
+                        47.884157
+                  ]
+            },
+            {
+                  "name": "Dugui tsagaan",
+                  "text": "Népszerű, kör alakú pihenőhely túrázók számára a Bogd Kán-hegy oldalában.",
+                  "category": "natural",
+                  "coords": [
+                        106.900714,
+                        47.832117
+                  ]
+            },
+            {
+                  "name": "Baruun shireet",
+                  "text": "A Bogd Kán-hegységbe vezető sziklás emelkedő jellegzetes kezdőpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        106.883159,
+                        47.837171
+                  ]
+            },
+            {
+                  "name": "Zaisan tolgoi",
+                  "text": "Domboldali emlékmű egy hatalmas falfestménnyel, amely a mongol-szovjet barátságot hirdeti.",
+                  "category": "landmark",
+                  "coords": [
+                        106.915466,
+                        47.884027
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Baigaliin tuukhiin muzei",
+                  "text": "Găzduiește fosile și schelete de dinozauri de renume mondial din Deșertul Gobi.",
+                  "category": "museum",
+                  "coords": [
+                        106.943076,
+                        47.883464
+                  ]
+            },
+            {
+                  "name": "Ikh tengeriin am",
+                  "text": "O vale montană protejată pe muntele Bogd Khan, cunoscută pentru traseele de drumeție.",
+                  "category": "landmark",
+                  "coords": [
+                        106.9413,
+                        47.880728
+                  ]
+            },
+            {
+                  "name": "Ikh tengeriin amny khadny zurag",
+                  "text": "Gravuri rupestre antice pe stâncile muntelui Bogd Khan, reprezentând animale și simboluri.",
+                  "category": "historical",
+                  "coords": [
+                        106.949778,
+                        47.884157
+                  ]
+            },
+            {
+                  "name": "Dugui tsagaan",
+                  "text": "Un loc de popas circular popular pentru excursioniști pe versantul muntelui Bogd Khan.",
+                  "category": "natural",
+                  "coords": [
+                        106.900714,
+                        47.832117
+                  ]
+            },
+            {
+                  "name": "Baruun shireet",
+                  "text": "Punctul de pornire distinctiv al unei ascensiuni stâncoase în masivul Bogd Khan.",
+                  "category": "landmark",
+                  "coords": [
+                        106.883159,
+                        47.837171
+                  ]
+            },
+            {
+                  "name": "Zaisan tolgoi",
+                  "text": "Un monument pe deal cu o pictură murală uriașă dedicată prieteniei mongolo-sovietice.",
+                  "category": "landmark",
+                  "coords": [
+                        106.915466,
+                        47.884027
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Natural History Museum",
+                  "text": "Houses world-renowned dinosaur fossils and skeletons discovered in the Gobi Desert.",
+                  "category": "museum",
+                  "coords": [
+                        106.943076,
+                        47.883464
+                  ]
+            },
+            {
+                  "name": "Ikh tengeriin am",
+                  "text": "A protected mountain valley on Bogd Khan Uul, known for its scenic hiking trails.",
+                  "category": "landmark",
+                  "coords": [
+                        106.9413,
+                        47.880728
+                  ]
+            },
+            {
+                  "name": "Ikh tengeriin amny khadny zurag",
+                  "text": "Ancient petroglyphs on the cliffs of Bogd Khan Mountain depicting animals and symbols.",
+                  "category": "historical",
+                  "coords": [
+                        106.949778,
+                        47.884157
+                  ]
+            },
+            {
+                  "name": "Dugui tsagaan",
+                  "text": "A popular circular clearing and rest stop for hikers on the slopes of Bogd Khan Uul.",
+                  "category": "natural",
+                  "coords": [
+                        106.900714,
+                        47.832117
+                  ]
+            },
+            {
+                  "name": "hadnii ehlel",
+                  "text": "The distinctive starting point of a rocky ascent into the Bogd Khan mountain range.",
+                  "category": "landmark",
+                  "coords": [
+                        106.883159,
+                        47.837171
+                  ]
+            },
+            {
+                  "name": "Zaisan Memorial",
+                  "text": "A hilltop memorial featuring a massive circular mural of Mongolian-Soviet friendship.",
+                  "category": "landmark",
+                  "coords": [
+                        106.915466,
+                        47.884027
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "MN-1",
     coords: [106.9161, 47.8839],
@@ -264,7 +939,772 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     }
   },
   {
-    id: "mn-gandantegchinlen-history-v2",
+    id: "mn-gandantegchinlen-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Natural History Museum of Mongolia",
+                  "text": "Das Museum ist weltberühmt für seine gewaltigen Dinosaurierskelette und Fossilien aus der Wüste Gobi.",
+                  "category": "museum",
+                  "coords": [
+                        106.905827,
+                        47.923435
+                  ]
+            },
+            {
+                  "name": "Geser sum",
+                  "text": "Ein farbenfroher Tempel im chinesischen Stil, der dem mythischen Heldenkönig Gesar gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        106.900418,
+                        47.921888
+                  ]
+            },
+            {
+                  "name": "79r bair",
+                  "text": "Ein markantes Wohn- und Geschäftsgebäude, das als lokaler Orientierungspunkt im Viertel dient.",
+                  "category": "castle",
+                  "coords": [
+                        106.889271,
+                        47.91666
+                  ]
+            },
+            {
+                  "name": "gandan",
+                  "text": "Ein traditioneller buddhistischer Tempelbau mit typisch geschwungenem Dach nahe dem Gandan-Kloster.",
+                  "category": "castle",
+                  "coords": [
+                        106.887325,
+                        47.931943
+                  ]
+            },
+            {
+                  "name": "Democrary monument",
+                  "text": "Dieses Denkmal erinnert an die demokratische Revolution von 1990, die das Einparteiensystem beendete.",
+                  "category": "historical",
+                  "coords": [
+                        106.886853,
+                        47.914594
+                  ]
+            },
+            {
+                  "name": "Sun Dance Company-3",
+                  "text": "Ein Veranstaltungsort für moderne Tanzaufführungen und künstlerische Darbietungen in Ulaanbaatar.",
+                  "category": "cultural",
+                  "coords": [
+                        106.875045,
+                        47.91572
+                  ]
+            },
+            {
+                  "name": "Gan Zam Palas",
+                  "text": "Ein Kulturpalast, der eine Bühne für Theaterstücke und lokale Festlichkeiten bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        106.88509,
+                        47.915181
+                  ]
+            },
+            {
+                  "name": "Tomor Zamyn Duu Buzhgiin Chuulga",
+                  "text": "Dieses Kunstzentrum ist die Heimat des renommierten Gesangs- und Tanzensembles der mongolischen Eisenbahner.",
+                  "category": "cultural",
+                  "coords": [
+                        106.88201,
+                        47.915226
+                  ]
+            },
+            {
+                  "name": "Erdmiin zadgai teatr",
+                  "text": "Ein offenes Theater für akademische und volkstümliche Darbietungen unter freiem Himmel.",
+                  "category": "cultural",
+                  "coords": [
+                        106.896053,
+                        47.997965
+                  ]
+            },
+            {
+                  "name": "Doloo Dakh' Odriin Adventist Sum",
+                  "text": "Eine christliche Kirche der Siebenten-Tags-Adventisten mit regelmäßigem Gottesdienstangebot.",
+                  "category": "religious",
+                  "coords": [
+                        106.904766,
+                        47.925127
+                  ]
+            },
+            {
+                  "name": "11-r khoroo",
+                  "text": "Eine lokale Gebetsstätte im 11. Distrikt, die als geistliches Zentrum für die Anwohner dient.",
+                  "category": "religious",
+                  "coords": [
+                        106.903284,
+                        47.924524
+                  ]
+            },
+            {
+                  "name": "Maxmall",
+                  "text": "Ein modernes Einkaufszentrum mit vielfältigen Geschäften und Gastronomieangeboten.",
+                  "category": "religious",
+                  "coords": [
+                        106.891937,
+                        47.915471
+                  ]
+            },
+            {
+                  "name": "Khokh Khulgany Oron",
+                  "text": "Ein kleiner, lokaler Schrein oder Gebetsort inmitten des städtischen Wohngebiets.",
+                  "category": "religious",
+                  "coords": [
+                        106.87535,
+                        47.924379
+                  ]
+            },
+            {
+                  "name": "Khavai Fitness",
+                  "text": "Ein modernes Fitnessstudio, das Sport- und Wellnessmöglichkeiten für die Stadtbewohner bietet.",
+                  "category": "religious",
+                  "coords": [
+                        106.86673,
+                        47.922158
+                  ]
+            },
+            {
+                  "name": "Cym",
+                  "text": "Eine bescheidene religiöse Stätte, die der lokalen Gemeinschaft für Gebete offensteht.",
+                  "category": "religious",
+                  "coords": [
+                        106.826872,
+                        47.956274
+                  ]
+            },
+            {
+                  "name": "\"Vaarchny ger\" Khristiin tsuglaan",
+                  "text": "Diese christliche Gemeinde bietet Gottesdienste und soziale Programme in einem modernen Gebäude an.",
+                  "category": "religious",
+                  "coords": [
+                        106.906196,
+                        47.927782
+                  ]
+            },
+            {
+                  "name": "Togsbaiasgalant khiid",
+                  "text": "Ein ruhiges buddhistisches Kloster, das für seine traditionellen Zeremonien bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        106.890294,
+                        47.918296
+                  ]
+            },
+            {
+                  "name": "Computer Land",
+                  "text": "Ein spezialisierter Marktplatz für Elektronik, Computerhardware und technisches Zubehör.",
+                  "category": "cultural",
+                  "coords": [
+                        106.899577,
+                        47.916592
+                  ]
+            },
+            {
+                  "name": "Bombogor khudaldaany tov",
+                  "text": "Einer der größten und belebtesten Märkte der Stadt für Kleidung, Lebensmittel und Haushaltswaren.",
+                  "category": "cultural",
+                  "coords": [
+                        106.90019,
+                        47.920019
+                  ]
+            },
+            {
+                  "name": "Zhast market",
+                  "text": "Ein lokaler Basar mit zahlreichen kleinen Ständen für den täglichen Bedarf.",
+                  "category": "cultural",
+                  "coords": [
+                        106.902759,
+                        47.920223
+                  ]
+            },
+            {
+                  "name": "Baiangol Ikh Delguur",
+                  "text": "Ein traditionsreiches Kaufhaus, das eine breite Auswahl an lokalen und internationalen Produkten bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        106.874987,
+                        47.922288
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Natural History Museum of Mongolia",
+                  "text": "A múzeum világhírű a Gobi-sivatagból származó hatalmas dinoszaurusz-csontvázairól és fosszíliáiról.",
+                  "category": "museum",
+                  "coords": [
+                        106.905827,
+                        47.923435
+                  ]
+            },
+            {
+                  "name": "Geser sum",
+                  "text": "Színes, kínai stílusú templom, amelyet a mitikus hős királynak, Geszárnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        106.900418,
+                        47.921888
+                  ]
+            },
+            {
+                  "name": "79r bair",
+                  "text": "Jellegzetes lakó- és kereskedelmi épület, amely helyi tájékozódási pontként szolgál a negyedben.",
+                  "category": "castle",
+                  "coords": [
+                        106.889271,
+                        47.91666
+                  ]
+            },
+            {
+                  "name": "gandan",
+                  "text": "Hagyományos buddhista templomépület jellegzetes ívelt tetővel a Gandan-kolostor közelében.",
+                  "category": "castle",
+                  "coords": [
+                        106.887325,
+                        47.931943
+                  ]
+            },
+            {
+                  "name": "Democrary monument",
+                  "text": "Ez az emlékmű az 1990-es demokratikus forradalomnak állít emléket, amely véget vetett az egypártrendszernek.",
+                  "category": "historical",
+                  "coords": [
+                        106.886853,
+                        47.914594
+                  ]
+            },
+            {
+                  "name": "Sun Dance Company-3",
+                  "text": "Modern táncelőadások és művészeti produkciók helyszíne Ulánbátorban.",
+                  "category": "cultural",
+                  "coords": [
+                        106.875045,
+                        47.91572
+                  ]
+            },
+            {
+                  "name": "Gan Zam Palas",
+                  "text": "Kulturális palota, amely színházi előadásoknak és helyi ünnepségeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        106.88509,
+                        47.915181
+                  ]
+            },
+            {
+                  "name": "Tomor Zamyn Duu Buzhgiin Chuulga",
+                  "text": "Ez a művészeti központ a mongol vasutasok neves ének- és táncegyüttesének otthona.",
+                  "category": "cultural",
+                  "coords": [
+                        106.88201,
+                        47.915226
+                  ]
+            },
+            {
+                  "name": "Erdmiin zadgai teatr",
+                  "text": "Szabadtéri színház akadémiai és népi előadások számára a csillagos ég alatt.",
+                  "category": "cultural",
+                  "coords": [
+                        106.896053,
+                        47.997965
+                  ]
+            },
+            {
+                  "name": "Doloo Dakh' Odriin Adventist Sum",
+                  "text": "A Hetednapi Adventista Egyház keresztény temploma rendszeres istentiszteletekkel.",
+                  "category": "religious",
+                  "coords": [
+                        106.904766,
+                        47.925127
+                  ]
+            },
+            {
+                  "name": "11-r khoroo",
+                  "text": "Helyi imaház a 11. kerületben, amely a környék lakóinak lelki központja.",
+                  "category": "religious",
+                  "coords": [
+                        106.903284,
+                        47.924524
+                  ]
+            },
+            {
+                  "name": "Maxmall",
+                  "text": "Modern bevásárlóközpont változatos üzletekkel és étkezési lehetőségekkel.",
+                  "category": "religious",
+                  "coords": [
+                        106.891937,
+                        47.915471
+                  ]
+            },
+            {
+                  "name": "Khokh Khulgany Oron",
+                  "text": "Kisméretű, helyi szentély vagy imaház a városi lakóövezet közepén.",
+                  "category": "religious",
+                  "coords": [
+                        106.87535,
+                        47.924379
+                  ]
+            },
+            {
+                  "name": "Khavai Fitness",
+                  "text": "Modern edzőterem, amely sportolási és wellness lehetőségeket kínál a városlakóknak.",
+                  "category": "religious",
+                  "coords": [
+                        106.86673,
+                        47.922158
+                  ]
+            },
+            {
+                  "name": "Cym",
+                  "text": "Mérsékelt vallási helyszín, amely imádságra várja a helyi közösséget.",
+                  "category": "religious",
+                  "coords": [
+                        106.826872,
+                        47.956274
+                  ]
+            },
+            {
+                  "name": "\"Vaarchny ger\" Khristiin tsuglaan",
+                  "text": "Ez a keresztény gyülekezet istentiszteleteket és szociális programokat kínál egy modern épületben.",
+                  "category": "religious",
+                  "coords": [
+                        106.906196,
+                        47.927782
+                  ]
+            },
+            {
+                  "name": "Togsbaiasgalant khiid",
+                  "text": "Nyugodt buddhista kolostor, amely hagyományos szertartásairól ismert.",
+                  "category": "religious",
+                  "coords": [
+                        106.890294,
+                        47.918296
+                  ]
+            },
+            {
+                  "name": "Computer Land",
+                  "text": "Elektronikára, számítógépes hardverekre és technikai kiegészítőkre szakosodott piac.",
+                  "category": "cultural",
+                  "coords": [
+                        106.899577,
+                        47.916592
+                  ]
+            },
+            {
+                  "name": "Bombogor khudaldaany tov",
+                  "text": "A város egyik legnagyobb és legforgalmasabb piaca, ahol ruhákat, élelmiszert és háztartási cikkeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        106.90019,
+                        47.920019
+                  ]
+            },
+            {
+                  "name": "Zhast market",
+                  "text": "Helyi bazár számos kis standdal a napi szükségletek kielégítésére.",
+                  "category": "cultural",
+                  "coords": [
+                        106.902759,
+                        47.920223
+                  ]
+            },
+            {
+                  "name": "Baiangol Ikh Delguur",
+                  "text": "Nagy múltú áruház, amely helyi és nemzetközi termékek széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        106.874987,
+                        47.922288
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Natural History Museum of Mongolia",
+                  "text": "Muzeul este faimos în întreaga lume pentru scheletele uriașe de dinozauri și fosilele din deșertul Gobi.",
+                  "category": "museum",
+                  "coords": [
+                        106.905827,
+                        47.923435
+                  ]
+            },
+            {
+                  "name": "Geser sum",
+                  "text": "Un templu colorat în stil chinezesc, dedicat regelui erou mitic Gesar.",
+                  "category": "religious",
+                  "coords": [
+                        106.900418,
+                        47.921888
+                  ]
+            },
+            {
+                  "name": "79r bair",
+                  "text": "O clădire rezidențială și comercială distinctivă care servește ca punct de reper local în cartier.",
+                  "category": "castle",
+                  "coords": [
+                        106.889271,
+                        47.91666
+                  ]
+            },
+            {
+                  "name": "gandan",
+                  "text": "O clădire de templu budist tradițional cu acoperiș curbat tipic, lângă mănăstirea Gandan.",
+                  "category": "castle",
+                  "coords": [
+                        106.887325,
+                        47.931943
+                  ]
+            },
+            {
+                  "name": "Democrary monument",
+                  "text": "Acest monument comemorează revoluția democratică din 1990 care a pus capăt sistemului monopartid.",
+                  "category": "historical",
+                  "coords": [
+                        106.886853,
+                        47.914594
+                  ]
+            },
+            {
+                  "name": "Sun Dance Company-3",
+                  "text": "Un loc de desfășurare pentru spectacole de dans modern și reprezentații artistice în Ulaanbaatar.",
+                  "category": "cultural",
+                  "coords": [
+                        106.875045,
+                        47.91572
+                  ]
+            },
+            {
+                  "name": "Gan Zam Palas",
+                  "text": "Un palat cultural care oferă o scenă pentru piese de teatru și festivități locale.",
+                  "category": "cultural",
+                  "coords": [
+                        106.88509,
+                        47.915181
+                  ]
+            },
+            {
+                  "name": "Tomor Zamyn Duu Buzhgiin Chuulga",
+                  "text": "Acest centru de artă este sediul renumitului ansamblu de cântece și dansuri al feroviarilor mongoli.",
+                  "category": "cultural",
+                  "coords": [
+                        106.88201,
+                        47.915226
+                  ]
+            },
+            {
+                  "name": "Erdmiin zadgai teatr",
+                  "text": "Un teatru în aer liber pentru spectacole academice și populare sub cerul liber.",
+                  "category": "cultural",
+                  "coords": [
+                        106.896053,
+                        47.997965
+                  ]
+            },
+            {
+                  "name": "Doloo Dakh' Odriin Adventist Sum",
+                  "text": "O biserică creștină a Adventiștilor de Ziua a Șaptea care oferă servicii religioase regulate.",
+                  "category": "religious",
+                  "coords": [
+                        106.904766,
+                        47.925127
+                  ]
+            },
+            {
+                  "name": "11-r khoroo",
+                  "text": "Un lăcaș de cult local în districtul 11, care servește ca centru spiritual pentru rezidenți.",
+                  "category": "religious",
+                  "coords": [
+                        106.903284,
+                        47.924524
+                  ]
+            },
+            {
+                  "name": "Maxmall",
+                  "text": "Un centru comercial modern cu o varietate de magazine și opțiuni de luat masa.",
+                  "category": "religious",
+                  "coords": [
+                        106.891937,
+                        47.915471
+                  ]
+            },
+            {
+                  "name": "Khokh Khulgany Oron",
+                  "text": "Un mic altar local sau lăcaș de rugăciune în mijlocul zonei rezidențiale urbane.",
+                  "category": "religious",
+                  "coords": [
+                        106.87535,
+                        47.924379
+                  ]
+            },
+            {
+                  "name": "Khavai Fitness",
+                  "text": "O sală de fitness modernă care oferă facilități sportive și de wellness pentru orășeni.",
+                  "category": "religious",
+                  "coords": [
+                        106.86673,
+                        47.922158
+                  ]
+            },
+            {
+                  "name": "Cym",
+                  "text": "Un lăcaș religios modest, deschis comunității locale pentru rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        106.826872,
+                        47.956274
+                  ]
+            },
+            {
+                  "name": "\"Vaarchny ger\" Khristiin tsuglaan",
+                  "text": "Această comunitate creștină oferă servicii religioase și programe sociale într-o clădire modernă.",
+                  "category": "religious",
+                  "coords": [
+                        106.906196,
+                        47.927782
+                  ]
+            },
+            {
+                  "name": "Togsbaiasgalant khiid",
+                  "text": "O mănăstire budistă liniștită, cunoscută pentru ceremoniile sale tradiționale.",
+                  "category": "religious",
+                  "coords": [
+                        106.890294,
+                        47.918296
+                  ]
+            },
+            {
+                  "name": "Computer Land",
+                  "text": "O piață specializată în electronice, hardware de computer și accesorii tehnice.",
+                  "category": "cultural",
+                  "coords": [
+                        106.899577,
+                        47.916592
+                  ]
+            },
+            {
+                  "name": "Bombogor khudaldaany tov",
+                  "text": "Una dintre cele mai mari și mai aglomerate piețe din oraș pentru haine, alimente și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        106.90019,
+                        47.920019
+                  ]
+            },
+            {
+                  "name": "Zhast market",
+                  "text": "Un bazar local cu numeroase tarabe mici pentru nevoile zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        106.902759,
+                        47.920223
+                  ]
+            },
+            {
+                  "name": "Baiangol Ikh Delguur",
+                  "text": "Un magazin universal cu tradiție, care oferă o selecție largă de produse locale și internaționale.",
+                  "category": "cultural",
+                  "coords": [
+                        106.874987,
+                        47.922288
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Natural History Museum of Mongolia",
+                  "text": "The museum is world-famous for its massive dinosaur skeletons and fossils from the Gobi Desert.",
+                  "category": "museum",
+                  "coords": [
+                        106.905827,
+                        47.923435
+                  ]
+            },
+            {
+                  "name": "Gesar Temple",
+                  "text": "A colorful Chinese-style temple dedicated to the mythical hero king Gesar.",
+                  "category": "religious",
+                  "coords": [
+                        106.900418,
+                        47.921888
+                  ]
+            },
+            {
+                  "name": "79r bair",
+                  "text": "A prominent residential and commercial building that serves as a local landmark in the district.",
+                  "category": "castle",
+                  "coords": [
+                        106.889271,
+                        47.91666
+                  ]
+            },
+            {
+                  "name": "temple",
+                  "text": "A traditional Buddhist temple building with a typical curved roof near the Gandan Monastery.",
+                  "category": "castle",
+                  "coords": [
+                        106.887325,
+                        47.931943
+                  ]
+            },
+            {
+                  "name": "Democrary monument",
+                  "text": "This monument commemorates the 1990 democratic revolution that ended the one-party system.",
+                  "category": "historical",
+                  "coords": [
+                        106.886853,
+                        47.914594
+                  ]
+            },
+            {
+                  "name": "Sun Dance Company-3",
+                  "text": "A venue for modern dance performances and artistic productions in Ulaanbaatar.",
+                  "category": "cultural",
+                  "coords": [
+                        106.875045,
+                        47.91572
+                  ]
+            },
+            {
+                  "name": "Ganzam Palace",
+                  "text": "A cultural palace providing a stage for theatrical plays and local festivities.",
+                  "category": "cultural",
+                  "coords": [
+                        106.88509,
+                        47.915181
+                  ]
+            },
+            {
+                  "name": "Tomor Zamyn Duu Buzhgiin Chuulga",
+                  "text": "This arts centre is home to the renowned song and dance ensemble of the Mongolian railway workers.",
+                  "category": "cultural",
+                  "coords": [
+                        106.88201,
+                        47.915226
+                  ]
+            },
+            {
+                  "name": "Erdmiin zadgai theatre",
+                  "text": "An open-air theater used for academic and folk performances under the sky.",
+                  "category": "cultural",
+                  "coords": [
+                        106.896053,
+                        47.997965
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist Church",
+                  "text": "A Seventh Day Adventist Christian church offering regular worship services.",
+                  "category": "religious",
+                  "coords": [
+                        106.904766,
+                        47.925127
+                  ]
+            },
+            {
+                  "name": "11-r khoroo",
+                  "text": "A local place of worship in the 11th district serving as a spiritual hub for residents.",
+                  "category": "religious",
+                  "coords": [
+                        106.903284,
+                        47.924524
+                  ]
+            },
+            {
+                  "name": "Maxmall",
+                  "text": "A modern shopping mall featuring a variety of retail stores and dining options.",
+                  "category": "religious",
+                  "coords": [
+                        106.891937,
+                        47.915471
+                  ]
+            },
+            {
+                  "name": "Khokh Khulgany Oron",
+                  "text": "A small, local shrine or place of prayer located within the urban residential area.",
+                  "category": "religious",
+                  "coords": [
+                        106.87535,
+                        47.924379
+                  ]
+            },
+            {
+                  "name": "Khavai Fitness",
+                  "text": "A modern fitness center providing sports and wellness facilities for city residents.",
+                  "category": "religious",
+                  "coords": [
+                        106.86673,
+                        47.922158
+                  ]
+            },
+            {
+                  "name": "Cym",
+                  "text": "A modest religious site open to the local community for prayer.",
+                  "category": "religious",
+                  "coords": [
+                        106.826872,
+                        47.956274
+                  ]
+            },
+            {
+                  "name": "\"The Potter's House\" Christian church",
+                  "text": "This Christian church community offers worship services and social programs in a modern building.",
+                  "category": "religious",
+                  "coords": [
+                        106.906196,
+                        47.927782
+                  ]
+            },
+            {
+                  "name": "Tugsbayasgalant Monastery",
+                  "text": "A serene Buddhist monastery known for its traditional ceremonies.",
+                  "category": "religious",
+                  "coords": [
+                        106.890294,
+                        47.918296
+                  ]
+            },
+            {
+                  "name": "Computer Land",
+                  "text": "A specialized marketplace for electronics, computer hardware, and technical accessories.",
+                  "category": "cultural",
+                  "coords": [
+                        106.899577,
+                        47.916592
+                  ]
+            },
+            {
+                  "name": "Bombogor khudaldaany tov",
+                  "text": "One of the city's largest and busiest markets for clothing, food, and household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        106.90019,
+                        47.920019
+                  ]
+            },
+            {
+                  "name": "Zhast market",
+                  "text": "A local bazaar with numerous small stalls providing daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        106.902759,
+                        47.920223
+                  ]
+            },
+            {
+                  "name": "Baiangol Ikh Delguur",
+                  "text": "A long-standing department store offering a wide selection of local and international products.",
+                  "category": "cultural",
+                  "coords": [
+                        106.874987,
+                        47.922288
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "MN-1",
     coords: [106.8946, 47.9234],
@@ -406,7 +1846,160 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
       fr: ["Inaugurée en 2008 pour le 800e anniversaire de la fondation de l'empire en 1206.", "Plus grande statue équestre du monde avec 40 mètres de hauteur.", "Fabriquée à partir de 250 tonnes d'acier inoxydable.", "Vénération de Gengis Khan interdite sous l'influence soviétique.", "Renaissance après la démocratisation de 1990.", "Plateforme d'observation sur la tête du cheval du cavalier.", "Musée dans le socle, de l'époque des Huns à la dynastie Yuan.", "Érigée sur initiative privée pour 4,1 millions de USD."],
     }, image: "/poi-images/mn-genghis-khan-statue-history-v2.webp"},
   {
-    id: "mn-choijin-lama-history-v2",
+    id: "mn-choijin-lama-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Uls toriin khelmegdegsdiin muzei",
+                  "text": "Dieses Museum erinnert mit persönlichen Gegenständen an die Opfer der stalinistischen Säuberungen in der Mongolei.",
+                  "category": "museum",
+                  "coords": [
+                        106.920465,
+                        47.915242
+                  ]
+            },
+            {
+                  "name": "Ulsyn Khuukheldein teatr",
+                  "text": "Das staatliche Puppentheater zeigt traditionelle und moderne Aufführungen für Kinder und Erwachsene.",
+                  "category": "cultural",
+                  "coords": [
+                        106.914667,
+                        47.914627
+                  ]
+            },
+            {
+                  "name": "Choizhin lamyn sum muzei",
+                  "text": "Dieser ehemalige Klosterkomplex von 1904 beherbergt eine wertvolle Sammlung von Masken für den Tsam-Tanz.",
+                  "category": "museum",
+                  "coords": [
+                        106.918297,
+                        47.915069
+                  ]
+            },
+            {
+                  "name": "Ekhovagiin gerchuudiin khaanchlalyn tankhim",
+                  "text": "Ein moderner Königreichssaal der Zeugen Jehovas im zentralen Stadtgebiet von Ulaanbaatar.",
+                  "category": "religious",
+                  "coords": [
+                        106.933638,
+                        47.916033
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Uls toriin khelmegdegsdiin muzei",
+                  "text": "Ez a múzeum személyes tárgyakkal emlékezik meg a mongóliai sztálini tisztogatások áldozatairól.",
+                  "category": "museum",
+                  "coords": [
+                        106.920465,
+                        47.915242
+                  ]
+            },
+            {
+                  "name": "Ulsyn Khuukheldein teatr",
+                  "text": "Az Állami Bábszínház tradicionális és modern előadásokat kínál gyerekeknek és felnőtteknek egyaránt.",
+                  "category": "cultural",
+                  "coords": [
+                        106.914667,
+                        47.914627
+                  ]
+            },
+            {
+                  "name": "Csojdzsin láma kolostormúzeum",
+                  "text": "Az 1904-ben épült egykori kolostorkomplexum a Tsam-tánchoz használt maszkok értékes gyűjteményét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        106.918297,
+                        47.915069
+                  ]
+            },
+            {
+                  "name": "Ekhovagiin gerchuudiin khaanchlalyn tankhim",
+                  "text": "Jehova Tanúinak modern királyságterme Ulánbátor központi városrészében.",
+                  "category": "religious",
+                  "coords": [
+                        106.933638,
+                        47.916033
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Uls toriin khelmegdegsdiin muzei",
+                  "text": "Acest muzeu comemorează victimele epurărilor staliniste din Mongolia prin obiecte personale.",
+                  "category": "museum",
+                  "coords": [
+                        106.920465,
+                        47.915242
+                  ]
+            },
+            {
+                  "name": "Ulsyn Khuukheldein teatr",
+                  "text": "Teatrul de Păpuși de Stat prezintă spectacole tradiționale și moderne pentru copii și adulți.",
+                  "category": "cultural",
+                  "coords": [
+                        106.914667,
+                        47.914627
+                  ]
+            },
+            {
+                  "name": "Choizhin lamyn sum muzei",
+                  "text": "Acest fost complex monahal din 1904 adăpostește o colecție valoroasă de măști pentru dansul Tsam.",
+                  "category": "museum",
+                  "coords": [
+                        106.918297,
+                        47.915069
+                  ]
+            },
+            {
+                  "name": "Ekhovagiin gerchuudiin khaanchlalyn tankhim",
+                  "text": "O sală a Regatului modernă a Martorilor lui Iehova în zona centrală a orașului Ulaanbaatar.",
+                  "category": "religious",
+                  "coords": [
+                        106.933638,
+                        47.916033
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of Victims of Political Persecution",
+                  "text": "This museum commemorates the victims of Stalinist purges in Mongolia through personal artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        106.920465,
+                        47.915242
+                  ]
+            },
+            {
+                  "name": "State Puppet Theater",
+                  "text": "The State Puppet Theater presents traditional and modern performances for both children and adults.",
+                  "category": "cultural",
+                  "coords": [
+                        106.914667,
+                        47.914627
+                  ]
+            },
+            {
+                  "name": "Choijin Lama Temple Museum",
+                  "text": "This former monastery complex from 1904 houses a valuable collection of masks for the Tsam dance.",
+                  "category": "museum",
+                  "coords": [
+                        106.918297,
+                        47.915069
+                  ]
+            },
+            {
+                  "name": "Ekhovagiin gerchuudiin khaanchlalyn tankhim",
+                  "text": "A modern Kingdom Hall of Jehovah's Witnesses located in the central area of Ulaanbaatar.",
+                  "category": "religious",
+                  "coords": [
+                        106.933638,
+                        47.916033
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "MN-1",
     coords: [106.9176, 47.9157],
@@ -477,7 +2070,124 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
       fr: ["Consacré à l'oracle d'État Luvsanhaidav.", "Frère du huitième Bogd Khan, qui régna à partir de 1911.", "Indépendance de la Mongolie déclarée en 1911.", "Révolution populaire de 1921 sous influence soviétique.", "Transformé en musée antireligieux en 1942.", "A préservé des masques de danse Tsam uniques avant 1937.", "Musée d'art officiel après la démocratisation de 1990."],
     }, image: "/poi-images/mn-choijin-lama-history-v2.webp"},
   {
-    id: "mn-khoshoo-tsaidam-history-v2",
+    id: "mn-khoshoo-tsaidam-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Orkhon museum",
+                  "text": "Das Museum zeigt bedeutende Funde aus der Zeit des Alttürkischen Reiches im Orchon-Tal.",
+                  "category": "museum",
+                  "coords": [
+                        102.840753,
+                        47.560899
+                  ]
+            },
+            {
+                  "name": "Khushuu Tsaidam Way from Ugii Lake Camp",
+                  "text": "Dieser Weg führt Besucher zu den historischen türkischen Denkmälern in der Steppe.",
+                  "category": "museum",
+                  "coords": [
+                        102.852928,
+                        47.641951
+                  ]
+            },
+            {
+                  "name": "Khoshoo tsaidam",
+                  "text": "Diese Steinstelen aus dem 8. Jahrhundert enthalten die ältesten erhaltenen Texte in einer Türksprache.",
+                  "category": "historical",
+                  "coords": [
+                        102.836109,
+                        47.560507
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Orkhon museum",
+                  "text": "A múzeum az Orchon-völgy ótörök birodalmának idejéből származó jelentős leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        102.840753,
+                        47.560899
+                  ]
+            },
+            {
+                  "name": "Khushuu Tsaidam Way from Ugii Lake Camp",
+                  "text": "Ez az út vezeti el a látogatókat a sztyeppén található történelmi türk műemlékekhez.",
+                  "category": "museum",
+                  "coords": [
+                        102.852928,
+                        47.641951
+                  ]
+            },
+            {
+                  "name": "Khoshoo tsaidam",
+                  "text": "Ezek a 8. századi kősztélék tartalmazzät a legrégebbi fennmaradt türk nyelvű szövegeket.",
+                  "category": "historical",
+                  "coords": [
+                        102.836109,
+                        47.560507
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Orkhon museum",
+                  "text": "Muzeul expune descoperiri semnificative din perioada vechiului imperiu turcic din Valea Orkhon.",
+                  "category": "museum",
+                  "coords": [
+                        102.840753,
+                        47.560899
+                  ]
+            },
+            {
+                  "name": "Khushuu Tsaidam Way from Ugii Lake Camp",
+                  "text": "Această cale îi conduce pe vizitatori către monumentele istorice turcești din stepă.",
+                  "category": "museum",
+                  "coords": [
+                        102.852928,
+                        47.641951
+                  ]
+            },
+            {
+                  "name": "Khoshoo tsaidam",
+                  "text": "Aceste stele de piatră din secolul al VIII-lea conțin cele mai vechi texte păstrate într-o limbă turcă.",
+                  "category": "historical",
+                  "coords": [
+                        102.836109,
+                        47.560507
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Orkhon museum",
+                  "text": "The museum displays significant finds from the Old Turkic Empire era in the Orkhon Valley.",
+                  "category": "museum",
+                  "coords": [
+                        102.840753,
+                        47.560899
+                  ]
+            },
+            {
+                  "name": "Khushuu Tsaidam Way from Ugii Lake Camp",
+                  "text": "This path leads visitors to the historical Turkic monuments located in the steppe.",
+                  "category": "museum",
+                  "coords": [
+                        102.852928,
+                        47.641951
+                  ]
+            },
+            {
+                  "name": "Orkhon inscriptions",
+                  "text": "These 8th-century stone stelae contain the oldest surviving texts in a Turkic language.",
+                  "category": "historical",
+                  "coords": [
+                        102.836109,
+                        47.560507
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "MN-073",
     coords: [102.8415, 47.5606],
@@ -548,7 +2258,124 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
       fr: ["Stèles des années 732 et 735 après J.-C.", "Érigées pendant le second khaganat turc (682-744).", "Consacrées à Kül Tegin et au khagan Bilge.", "Plus anciens témoignages écrits d'une langue turque.", "Inscriptions en runes vieux-turques et en chinois.", "Redécouvertes en 1889 par Nikolaï Iadrintsev.", "Déchiffrées en 1893 par Vilhelm Thomsen.", "Font partie du patrimoine mondial de l'UNESCO de la vallée de l'Orkhon."],
     }, image: "/poi-images/mn-khoshoo-tsaidam-history-v2.webp"},
   {
-    id: "mn-manzushir-history-v2",
+    id: "mn-manzushir-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "1 point starts from Manzushir",
+                  "text": "Der Ausgangspunkt für Wanderwege, die durch die geschützten Lärchenwälder des Bogd-Khan-Berges führen.",
+                  "category": "natural",
+                  "coords": [
+                        106.995658,
+                        47.765616
+                  ]
+            },
+            {
+                  "name": "Manzushir",
+                  "text": "Das Museum zeigt religiöse Artefakte und Ruinenfunde des bedeutenden Klosters aus dem 18. Jahrhundert.",
+                  "category": "museum",
+                  "coords": [
+                        106.994734,
+                        47.760442
+                  ]
+            },
+            {
+                  "name": "Manzushri Khiid",
+                  "text": "Ruinen eines 1733 gegründeten buddhistischen Klosters, das an den südlichen Hängen des heiligen Bogd-Khan-Berges liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        106.992591,
+                        47.763677
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "1 point starts from Manzushir",
+                  "text": "A Bogd-kán-hegy védett vörösfenyőerdőin keresztül vezető túraútvonalak kiindulópontja.",
+                  "category": "natural",
+                  "coords": [
+                        106.995658,
+                        47.765616
+                  ]
+            },
+            {
+                  "name": "Manzushir",
+                  "text": "A múzeum a közeli, 18. századi kolostor romjai közül kimentett vallási műtárgyakat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        106.994734,
+                        47.760442
+                  ]
+            },
+            {
+                  "name": "Manzushri Khiid",
+                  "text": "Egy 1733-ban alapított buddhista kolostor romjai a szent Bogd-kán-hegy déli lejtőin.",
+                  "category": "landmark",
+                  "coords": [
+                        106.992591,
+                        47.763677
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "1 point starts from Manzushir",
+                  "text": "Punctul de plecare pentru traseele montane care traversează pădurile protejate de larice de pe muntele Bogd Khan.",
+                  "category": "natural",
+                  "coords": [
+                        106.995658,
+                        47.765616
+                  ]
+            },
+            {
+                  "name": "Manzushir",
+                  "text": "Muzeul expune artefacte religioase recuperate din ruinele mănăstirii din secolul al XVIII-lea.",
+                  "category": "museum",
+                  "coords": [
+                        106.994734,
+                        47.760442
+                  ]
+            },
+            {
+                  "name": "Manzushri Khiid",
+                  "text": "Ruinele unei mănăstiri budiste fondate în 1733, situate pe versanții sudici ai muntelui sacru Bogd Khan.",
+                  "category": "landmark",
+                  "coords": [
+                        106.992591,
+                        47.763677
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "1 point starts from Manzushir",
+                  "text": "The starting point for hiking trails leading through the protected larch forests of Bogd Khan Mountain.",
+                  "category": "natural",
+                  "coords": [
+                        106.995658,
+                        47.765616
+                  ]
+            },
+            {
+                  "name": "Manzushir",
+                  "text": "The museum displays religious artifacts salvaged from the ruins of the nearby 18th-century monastery.",
+                  "category": "museum",
+                  "coords": [
+                        106.994734,
+                        47.760442
+                  ]
+            },
+            {
+                  "name": "Manjusri Monastery",
+                  "text": "Ruins of a Buddhist monastery founded in 1733, situated on the southern slopes of the sacred Bogd Khan Mountain.",
+                  "category": "landmark",
+                  "coords": [
+                        106.992591,
+                        47.763677
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "MN-047",
     coords: [106.9886, 47.7667],
@@ -690,7 +2517,52 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
       fr: ["Fondé en 1660 en tant que complexe double.", "Situé des deux côtés de la rivière Ongi.", "Plus de 30 temples au XIXe siècle.", "Entièrement détruit en 1939.", "Plus de 200 lamas assassinés pendant les purges.", "Choibalsan était alors maréchal de Mongolie.", "Répressions suite à la révolution populaire de 1921.", "Reconstruction depuis la démocratisation de 1990."],
     }, image: "/poi-images/mn-ongi-history-v2.webp"},
   {
-    id: "mn-baldan-bereeven-history-v2",
+    id: "mn-baldan-bereeven-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bereeven khiid",
+                  "text": "Dieses historische buddhistische Kloster liegt in einem abgelegenen Tal und war einst eines der größten Zentren der Gelugpa-Sekte in der Mongolei.",
+                  "category": "religious",
+                  "coords": [
+                        109.432601,
+                        48.200292
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bereeven khiid",
+                  "text": "Egy eldugott völgyben megbújva található ez a történelmi buddhista kolostor, amely egykor a sárgasüveges rend (Gelugpa) egyik legnagyobb központja volt Mongóliában.",
+                  "category": "religious",
+                  "coords": [
+                        109.432601,
+                        48.200292
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bereeven khiid",
+                  "text": "Amplasată într-o vale izolată, această mănăstire budistă istorică a fost odată printre cele mai mari centre ale sectei Gelugpa din Mongolia.",
+                  "category": "religious",
+                  "coords": [
+                        109.432601,
+                        48.200292
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Baldanbraiven hiid, Buddhist monastery",
+                  "text": "Nestled in a remote valley, this historic Buddhist monastery was once among the largest centers of the Gelugpa sect in Mongolia.",
+                  "category": "religious",
+                  "coords": [
+                        109.432601,
+                        48.200292
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "MN-039",
     coords: [109.4358, 48.2125],
@@ -761,7 +2633,304 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
       fr: ["Construction principale commencée en 1777.", "Dans la région de Burkhan Khaldun (lieu de naissance de Gengis Khan en 1162).", "L'un des trois plus grands monastères de Mongolie.", "Jusqu'à 8 000 moines à son apogée.", "Incendié lors des purges de 1937.", "Purges sous le maréchal Choibalsan.", "Gravures rupestres bouddhistes dans les falaises environnantes.", "Projet de restauration internationale depuis 1990."],
     }, image: "/poi-images/mn-baldan-bereeven-history-v2.webp"},
   {
-    id: "mn-khamariin-khiid-history-v2",
+    id: "mn-khamariin-khiid-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khamriin khiid",
+                  "text": "Ein bedeutendes buddhistisches Kloster in der Gobi, das 1820 vom berühmten Heiligen Danzanravjaa gegründet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        110.272425,
+                        44.598249
+                  ]
+            },
+            {
+                  "name": "Ovgon suvraga",
+                  "text": "Ein ehrwürdiger weißer Stupa, der als Teil des Khamariin-Khiid-Klosterkomplexes die Wüste überragt.",
+                  "category": "landmark",
+                  "coords": [
+                        110.271488,
+                        44.598691
+                  ]
+            },
+            {
+                  "name": "Caves",
+                  "text": "Natürliche Felshöhlen, die von Mönchen des Klosters seit Jahrhunderten für die Meditation genutzt werden.",
+                  "category": "landmark",
+                  "coords": [
+                        110.283815,
+                        44.617627
+                  ]
+            },
+            {
+                  "name": "Shambhala Energy Centre",
+                  "text": "Ein heiliger Bereich in der Wüste, der als spirituelles Energiezentrum mit 108 Stupas gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        110.276265,
+                        44.617877
+                  ]
+            },
+            {
+                  "name": "Tontoi owoo",
+                  "text": "Ein heiliger Ovoo-Hügel, an dem Reisende für eine sichere Fahrt durch die Wüste beten.",
+                  "category": "landmark",
+                  "coords": [
+                        110.26895,
+                        44.604391
+                  ]
+            },
+            {
+                  "name": "Golden Skull Hill",
+                  "text": "Ein heiliger Hügel, der eng mit den tantrischen Praktiken des Klosters Khamariin Khiid verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        110.275133,
+                        44.618521
+                  ]
+            },
+            {
+                  "name": "White Rebirth Stone",
+                  "text": "Ein ritueller weißer Stein, der im Shambhala-Komplex für Zeremonien zur Sündenreinigung genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        110.27519,
+                        44.617345
+                  ]
+            },
+            {
+                  "name": "Urzhantegchenlin Sum",
+                  "text": "Der Haupttempel des Klosters, in dem kostbare religiöse Artefakte und Statuen aufbewahrt werden.",
+                  "category": "landmark",
+                  "coords": [
+                        110.273481,
+                        44.597817
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khamriin khiid",
+                  "text": "Jelentős buddhista kolostor a Góbiban, amelyet 1820-ban alapított a híres szent, Danzanravjaa.",
+                  "category": "landmark",
+                  "coords": [
+                        110.272425,
+                        44.598249
+                  ]
+            },
+            {
+                  "name": "Ovgon suvraga",
+                  "text": "Tiszteletreméltó fehér sztúpa, amely a Khamariin Khiid kolostorkomplexum részeként magasodik a sivatag fölé.",
+                  "category": "landmark",
+                  "coords": [
+                        110.271488,
+                        44.598691
+                  ]
+            },
+            {
+                  "name": "Caves",
+                  "text": "Természetes sziklabarlangok, amelyeket a kolostor szerzetesei évszázadok óta használnak meditációra.",
+                  "category": "landmark",
+                  "coords": [
+                        110.283815,
+                        44.617627
+                  ]
+            },
+            {
+                  "name": "Shambhala Energy Centre",
+                  "text": "Szent terület a sivatagban, amelyet spirituális energiaközpontnak tartanak, 108 sztúpával.",
+                  "category": "landmark",
+                  "coords": [
+                        110.276265,
+                        44.617877
+                  ]
+            },
+            {
+                  "name": "Tontoi owoo",
+                  "text": "Szent obó-halom, ahol az utazók a biztonságos sivatagi útért imádkoznak.",
+                  "category": "landmark",
+                  "coords": [
+                        110.26895,
+                        44.604391
+                  ]
+            },
+            {
+                  "name": "Golden Skull Hill",
+                  "text": "Szent domb, amely szorosan kapcsolódik a Khamariin Khiid kolostor tantrikus gyakorlataihoz.",
+                  "category": "landmark",
+                  "coords": [
+                        110.275133,
+                        44.618521
+                  ]
+            },
+            {
+                  "name": "White Rebirth Stone",
+                  "text": "Rituális fehér kő, amelyet bűnbánati szertartásokhoz használnak a Shambhala-komplexumban.",
+                  "category": "landmark",
+                  "coords": [
+                        110.27519,
+                        44.617345
+                  ]
+            },
+            {
+                  "name": "Urzhantegchenlin Sum",
+                  "text": "A kolostor főtemploma, ahol értékes vallási ereklyéket és szobrokat őriznek.",
+                  "category": "landmark",
+                  "coords": [
+                        110.273481,
+                        44.597817
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khamriin khiid",
+                  "text": "O mănăstire budistă importantă din Gobi, fondată în 1820 de celebrul sfânt Danzanravjaa.",
+                  "category": "landmark",
+                  "coords": [
+                        110.272425,
+                        44.598249
+                  ]
+            },
+            {
+                  "name": "Ovgon suvraga",
+                  "text": "O stupă albă venerabilă care domină deșertul, ca parte a complexului monahal Khamariin Khiid.",
+                  "category": "landmark",
+                  "coords": [
+                        110.271488,
+                        44.598691
+                  ]
+            },
+            {
+                  "name": "Caves",
+                  "text": "Peșteri naturale în stâncă, folosite de secole pentru meditație de către călugării mănăstirii.",
+                  "category": "landmark",
+                  "coords": [
+                        110.283815,
+                        44.617627
+                  ]
+            },
+            {
+                  "name": "Shambhala Energy Centre",
+                  "text": "O zonă sacră în deșert, considerată un centru energetic spiritual, cu 108 stupe.",
+                  "category": "landmark",
+                  "coords": [
+                        110.276265,
+                        44.617877
+                  ]
+            },
+            {
+                  "name": "Tontoi owoo",
+                  "text": "Un deal sacru cu un ovoo, unde călătorii se roagă pentru un drum sigur prin deșert.",
+                  "category": "landmark",
+                  "coords": [
+                        110.26895,
+                        44.604391
+                  ]
+            },
+            {
+                  "name": "Golden Skull Hill",
+                  "text": "Un deal sacru strâns legat de practicile tantrice ale mănăstirii Khamariin Khiid.",
+                  "category": "landmark",
+                  "coords": [
+                        110.275133,
+                        44.618521
+                  ]
+            },
+            {
+                  "name": "White Rebirth Stone",
+                  "text": "O piatră albă ritualică folosită pentru ceremonii de purificare a păcatelor în complexul Shambhala.",
+                  "category": "landmark",
+                  "coords": [
+                        110.27519,
+                        44.617345
+                  ]
+            },
+            {
+                  "name": "Urzhantegchenlin Sum",
+                  "text": "Templul principal al mănăstirii, unde sunt păstrate artefacte religioase și statui prețioase.",
+                  "category": "landmark",
+                  "coords": [
+                        110.273481,
+                        44.597817
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khamariin khiid",
+                  "text": "An important Buddhist monastery in the Gobi, founded in 1820 by the famous saint Danzanravjaa.",
+                  "category": "landmark",
+                  "coords": [
+                        110.272425,
+                        44.598249
+                  ]
+            },
+            {
+                  "name": "Ovgon suvraga",
+                  "text": "A venerable white stupa overlooking the desert as part of the Khamariin Khiid monastery complex.",
+                  "category": "landmark",
+                  "coords": [
+                        110.271488,
+                        44.598691
+                  ]
+            },
+            {
+                  "name": "Caves",
+                  "text": "Natural rock caves used for meditation by monks of the monastery for centuries.",
+                  "category": "landmark",
+                  "coords": [
+                        110.283815,
+                        44.617627
+                  ]
+            },
+            {
+                  "name": "Shambhala Energy Centre",
+                  "text": "A sacred area in the desert considered a spiritual energy center, featuring 108 stupas.",
+                  "category": "landmark",
+                  "coords": [
+                        110.276265,
+                        44.617877
+                  ]
+            },
+            {
+                  "name": "Tontoi owoo",
+                  "text": "A sacred ovoo mound where travelers pray for a safe journey through the desert.",
+                  "category": "landmark",
+                  "coords": [
+                        110.26895,
+                        44.604391
+                  ]
+            },
+            {
+                  "name": "Golden Skull Hill",
+                  "text": "A sacred hill closely associated with the tantric practices of the Khamariin Khiid monastery.",
+                  "category": "landmark",
+                  "coords": [
+                        110.275133,
+                        44.618521
+                  ]
+            },
+            {
+                  "name": "White Rebirth Stone",
+                  "text": "A ritual white stone used for sin-purifying ceremonies within the Shambhala complex.",
+                  "category": "landmark",
+                  "coords": [
+                        110.27519,
+                        44.617345
+                  ]
+            },
+            {
+                  "name": "Urjantegchenlin Temple",
+                  "text": "The main temple of the monastery, housing precious religious artifacts and statues.",
+                  "category": "landmark",
+                  "coords": [
+                        110.273481,
+                        44.597817
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "MN-063",
     coords: [110.2308, 44.6067],
@@ -832,7 +3001,376 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
       fr: ["Fondé en 1820 par Danzanravjaa.", "Danzanravjaa a vécu de 1803 à 1856.", "Première école publique de Mongolie.", "Le premier théâtre mongol a été créé ici.", "Vénéré comme la « porte de Shambhala ».", "Entièrement détruit en 1938.", "Purges déclenchées par l'influence soviétique depuis 1921.", "Reconstruction de mémoire après 1990."],
     }, image: "/poi-images/mn-khamariin-khiid-history-v2.webp"},
   {
-    id: "mn-khalkh-gol-history-v2",
+    id: "mn-khalkh-gol-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monkhiin darkhan khil khoshoo",
+                  "text": "Ein Denkmal zu Ehren der Grenzsoldaten, die an den historischen Kämpfen am Fluss Chalkhin Gol beteiligt waren.",
+                  "category": "historical",
+                  "coords": [
+                        118.65737,
+                        47.704982
+                  ]
+            },
+            {
+                  "name": "I.M.Remizova -yn ondorlog",
+                  "text": "Ein Gedenkstein auf einer Anhöhe für I. M. Remisow, einen Helden der Sowjetunion, der 1939 hier fiel.",
+                  "category": "historical",
+                  "coords": [
+                        118.652971,
+                        47.727448
+                  ]
+            },
+            {
+                  "name": "Khuiagt mashin",
+                  "text": "Ein Denkmal in Form eines gepanzerten Fahrzeugs, das an die Panzerschlachten von 1939 erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        118.642685,
+                        47.726444
+                  ]
+            },
+            {
+                  "name": "Eren baatryn khoshoo",
+                  "text": "Ein monumentales Denkmal zur Erinnerung an die neunzig Helden des Chalkhin-Gol-Konflikts.",
+                  "category": "historical",
+                  "coords": [
+                        118.565673,
+                        47.711428
+                  ]
+            },
+            {
+                  "name": "Yalalt statue",
+                  "text": "Ein 54 Meter hohes Siegesdenkmal mit einer markanten Nadel zur Erinnerung an die Schlacht am Chalkhin Gol.",
+                  "category": "historical",
+                  "coords": [
+                        118.59915,
+                        47.634831
+                  ]
+            },
+            {
+                  "name": "Zovlolt ersiin dursgalyn khoshoo",
+                  "text": "Ein Denkmal für die gefallenen sowjetischen Soldaten, die während der Grenzstreitigkeiten im Jahr 1939 kämpften.",
+                  "category": "historical",
+                  "coords": [
+                        118.587347,
+                        47.622012
+                  ]
+            },
+            {
+                  "name": "Khamar davaa",
+                  "text": "Ein Aussichtspunkt auf dem Khamar-Kamm mit Blick auf die weiten Ebenen der historischen Schlachtfelder.",
+                  "category": "natural",
+                  "coords": [
+                        118.587432,
+                        47.619873
+                  ]
+            },
+            {
+                  "name": "G.K.Zhukovyn komandyn bair bairlazh baisan gazar",
+                  "text": "Die ehemalige Wohnung von Marschall Schukow erinnert an seine Rolle bei den Kämpfen am Chalkhin Gol im Jahr 1939.",
+                  "category": "historical",
+                  "coords": [
+                        118.575903,
+                        47.62016
+                  ]
+            },
+            {
+                  "name": "Mongol ardyn khuv'sgalt tsergiin khoshoo",
+                  "text": "Dieses Denkmal ehrt die Mongolische Volksrevolutionäre Armee nahe dem historischen Schlachtfeld von Chalkhin Gol.",
+                  "category": "historical",
+                  "coords": [
+                        118.527555,
+                        47.734126
+                  ]
+            },
+            {
+                  "name": "Khalkhgolyn ialaltyn muzei",
+                  "text": "Das Museum dokumentiert den sowjetisch-mongolischen Sieg über die japanischen Truppen im Grenzkonflikt von 1939.",
+                  "category": "museum",
+                  "coords": [
+                        118.614424,
+                        47.633573
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monkhiin darkhan khil khoshoo",
+                  "text": "Emlékmű a Halhin-gol folyónál zajlott történelmi harcokban részt vett határőrök tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        118.65737,
+                        47.704982
+                  ]
+            },
+            {
+                  "name": "I.M.Remizova -yn ondorlog",
+                  "text": "Emlékkő egy magaslaton I. M. Remizov, a Szovjetunió hőse tiszteletére, aki 1939-ben esett el itt.",
+                  "category": "historical",
+                  "coords": [
+                        118.652971,
+                        47.727448
+                  ]
+            },
+            {
+                  "name": "Khuiagt mashin",
+                  "text": "Egy páncélozott jármű formájú emlékmű, amely az 1939-es páncéloscsatákra emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        118.642685,
+                        47.726444
+                  ]
+            },
+            {
+                  "name": "Eren baatryn khoshoo",
+                  "text": "Monumentális emlékmű a Halhin-goli konfliktus kilencven hősének emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        118.565673,
+                        47.711428
+                  ]
+            },
+            {
+                  "name": "Yalalt statue",
+                  "text": "54 méter magas győzelmi emlékmű egy jellegzetes tűvel a Halhin-goli csata emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        118.59915,
+                        47.634831
+                  ]
+            },
+            {
+                  "name": "Zovlolt ersiin dursgalyn khoshoo",
+                  "text": "Emlékmű az 1939-es határviták során harcoló, elesett szovjet katonák tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        118.587347,
+                        47.622012
+                  ]
+            },
+            {
+                  "name": "Khamar davaa",
+                  "text": "Kilátópont a Hamar-gerincen, ahonnan rálátni a történelmi csataterek tágas síkságaira.",
+                  "category": "natural",
+                  "coords": [
+                        118.587432,
+                        47.619873
+                  ]
+            },
+            {
+                  "name": "G.K.Zhukovyn komandyn bair bairlazh baisan gazar",
+                  "text": "Zsukov marsall egykori lakása az 1939-es Halhin-goli csatákban betöltött szerepének állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        118.575903,
+                        47.62016
+                  ]
+            },
+            {
+                  "name": "Mongol ardyn khuv'sgalt tsergiin khoshoo",
+                  "text": "A Mongol Népi Forradalmi Hadsereg tiszteletére emelt emlékmű a történelmi Halhin-goli csatatér közelében.",
+                  "category": "historical",
+                  "coords": [
+                        118.527555,
+                        47.734126
+                  ]
+            },
+            {
+                  "name": "Khalkhgolyn ialaltyn muzei",
+                  "text": "A múzeum az 1939-es határkonfliktus során a japán csapatok felett aratott szovjet-mongol győzelmet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        118.614424,
+                        47.633573
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monkhiin darkhan khil khoshoo",
+                  "text": "Un monument în cinstea grănicerilor care au participat la luptele istorice de la râul Khalkhin Gol.",
+                  "category": "historical",
+                  "coords": [
+                        118.65737,
+                        47.704982
+                  ]
+            },
+            {
+                  "name": "I.M.Remizova -yn ondorlog",
+                  "text": "O piatră memorială pe o înălțime dedicată lui I. M. Remizov, un erou al Uniunii Sovietice care a căzut aici în 1939.",
+                  "category": "historical",
+                  "coords": [
+                        118.652971,
+                        47.727448
+                  ]
+            },
+            {
+                  "name": "Khuiagt mashin",
+                  "text": "Un monument sub formă de vehicul blindat, care comemorează bătăliile de tancuri din 1939.",
+                  "category": "landmark",
+                  "coords": [
+                        118.642685,
+                        47.726444
+                  ]
+            },
+            {
+                  "name": "Eren baatryn khoshoo",
+                  "text": "Un monument monumental dedicat celor nouăzeci de eroi ai conflictului de la Khalkhin Gol.",
+                  "category": "historical",
+                  "coords": [
+                        118.565673,
+                        47.711428
+                  ]
+            },
+            {
+                  "name": "Yalalt statue",
+                  "text": "Un monument al victoriei înalt de 54 de metri, cu un ac distinctiv, dedicat bătăliei de la Khalkhin Gol.",
+                  "category": "historical",
+                  "coords": [
+                        118.59915,
+                        47.634831
+                  ]
+            },
+            {
+                  "name": "Zovlolt ersiin dursgalyn khoshoo",
+                  "text": "Un monument pentru soldații sovietici căzuți care au luptat în timpul disputelor de frontieră din 1939.",
+                  "category": "historical",
+                  "coords": [
+                        118.587347,
+                        47.622012
+                  ]
+            },
+            {
+                  "name": "Khamar davaa",
+                  "text": "Un punct de belvedere pe creasta Khamar, cu vedere spre câmpiile vaste ale câmpurilor de luptă istorice.",
+                  "category": "natural",
+                  "coords": [
+                        118.587432,
+                        47.619873
+                  ]
+            },
+            {
+                  "name": "G.K.Zhukovyn komandyn bair bairlazh baisan gazar",
+                  "text": "Apartamentul fostului mareșal Jukov comemorează rolul acestuia în luptele de la Halhin Gol din 1939.",
+                  "category": "historical",
+                  "coords": [
+                        118.575903,
+                        47.62016
+                  ]
+            },
+            {
+                  "name": "Mongol ardyn khuv'sgalt tsergiin khoshoo",
+                  "text": "Un monument care onorează Armata Revoluționară Populară Mongolă, situat lângă câmpul de luptă istoric de la Halhin Gol.",
+                  "category": "historical",
+                  "coords": [
+                        118.527555,
+                        47.734126
+                  ]
+            },
+            {
+                  "name": "Khalkhgolyn ialaltyn muzei",
+                  "text": "Muzeul documentează victoria sovieto-mongolă asupra forțelor japoneze în conflictul de frontieră din 1939.",
+                  "category": "museum",
+                  "coords": [
+                        118.614424,
+                        47.633573
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monkhiin darkhan khil khoshoo",
+                  "text": "A monument honoring the border guards involved in the historical battles at the Khalkhin Gol River.",
+                  "category": "historical",
+                  "coords": [
+                        118.65737,
+                        47.704982
+                  ]
+            },
+            {
+                  "name": "I.M.Remizova -yn ondorlog",
+                  "text": "A memorial stone on a height dedicated to I. M. Remizov, a Hero of the Soviet Union who fell here in 1939.",
+                  "category": "historical",
+                  "coords": [
+                        118.652971,
+                        47.727448
+                  ]
+            },
+            {
+                  "name": "Khuiagt mashin",
+                  "text": "A monument in the form of an armored vehicle, commemorating the tank battles of 1939.",
+                  "category": "landmark",
+                  "coords": [
+                        118.642685,
+                        47.726444
+                  ]
+            },
+            {
+                  "name": "Eren baatryn khoshoo",
+                  "text": "A monumental memorial commemorating the ninety heroes of the Khalkhin Gol conflict.",
+                  "category": "historical",
+                  "coords": [
+                        118.565673,
+                        47.711428
+                  ]
+            },
+            {
+                  "name": "Yalalt statue",
+                  "text": "A 54-meter-high victory monument with a distinctive needle, commemorating the Battle of Khalkhin Gol.",
+                  "category": "historical",
+                  "coords": [
+                        118.59915,
+                        47.634831
+                  ]
+            },
+            {
+                  "name": "Soviet memorial statue",
+                  "text": "A memorial for fallen Soviet soldiers who fought during the border disputes in 1939.",
+                  "category": "historical",
+                  "coords": [
+                        118.587347,
+                        47.622012
+                  ]
+            },
+            {
+                  "name": "Khamar davaa",
+                  "text": "A viewpoint on the Khamar ridge overlooking the vast plains of the historical battlefields.",
+                  "category": "natural",
+                  "coords": [
+                        118.587432,
+                        47.619873
+                  ]
+            },
+            {
+                  "name": "The place where GKJukov's apartment was located",
+                  "text": "The former apartment of Marshal Zhukov commemorates his leadership during the 1939 Battles of Khalkhin Gol.",
+                  "category": "historical",
+                  "coords": [
+                        118.575903,
+                        47.62016
+                  ]
+            },
+            {
+                  "name": "Mongol ardyn khuv'sgalt tsergiin khoshoo",
+                  "text": "A monument honoring the Mongolian People's Revolutionary Army near the historic Khalkhin Gol battlefield.",
+                  "category": "historical",
+                  "coords": [
+                        118.527555,
+                        47.734126
+                  ]
+            },
+            {
+                  "name": "Khalkhgol Victory Museum",
+                  "text": "The museum documents the Soviet-Mongolian victory over Japanese forces in the 1939 border conflict.",
+                  "category": "museum",
+                  "coords": [
+                        118.614424,
+                        47.633573
+                  ]
+            }
+      ]
+},
     type: "battlefield",
     parent: "MN-061",
     coords: [118.6186, 47.6692],
@@ -903,7 +3441,196 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
       fr: ["La bataille a duré de mai à septembre 1939.", "Alliance soviéto-mongole depuis la République populaire de 1924.", "Commandant Gueorgui Joukov (futur héros de Berlin).", "Anéantissement de la 6e armée japonaise.", "A empêché l'attaque japonaise contre l'URSS.", "A orienté le Japon vers la guerre du Pacifique contre les États-Unis.", "Tranchées et épaves de chars encore visibles aujourd'hui.", "Commémoration institutionnalisée après la démocratisation de 1990."],
     }, image: "/poi-images/mn-khalkh-gol-history-v2.webp"},
   {
-    id: "mn-bogd-khan-palace-history-v2",
+    id: "mn-bogd-khan-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "football",
+                  "text": "Der Hauptsitz des mongolischen Fußballverbandes, gelegen direkt neben den nationalen Sportstätten.",
+                  "category": "landmark",
+                  "coords": [
+                        106.915333,
+                        47.900183
+                  ]
+            },
+            {
+                  "name": "façade mural",
+                  "text": "Ein großflächiges öffentliches Wandgemälde, das die Fassade eines städtischen Gebäudes kunstvoll dekoriert.",
+                  "category": "landmark",
+                  "coords": [
+                        106.909011,
+                        47.901619
+                  ]
+            },
+            {
+                  "name": "En Ti Vi Televiz",
+                  "text": "Dieses Medienzentrum bietet einen weiten Blick über das Tal hin zum heiligen Berg Bogd Khan.",
+                  "category": "natural",
+                  "coords": [
+                        106.902762,
+                        47.898725
+                  ]
+            },
+            {
+                  "name": "Iasli",
+                  "text": "Ein Kulturraum in der Nähe des Winterpalastes, der Exponate zur lokalen Stadtgeschichte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        106.913887,
+                        47.894473
+                  ]
+            },
+            {
+                  "name": "Bogd khaany ordon muzei",
+                  "text": "Der Winterpalast des letzten mongolischen Kaisers zeigt prachtvolle Tempel und religiöse Kunstschätze.",
+                  "category": "museum",
+                  "coords": [
+                        106.906992,
+                        47.897481
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "football",
+                  "text": "A Mongol Labdarúgó Szövetség székháza, közvetlenül a nemzeti sportlétesítmények mellett.",
+                  "category": "landmark",
+                  "coords": [
+                        106.915333,
+                        47.900183
+                  ]
+            },
+            {
+                  "name": "façade mural",
+                  "text": "Nagyméretű nyilvános falfestmény, amely művészien díszíti egy városi épület homlokzatát.",
+                  "category": "landmark",
+                  "coords": [
+                        106.909011,
+                        47.901619
+                  ]
+            },
+            {
+                  "name": "En Ti Vi Televiz",
+                  "text": "Ez a médiaközpont széles kilátást nyújt a völgyre, a szent Bogd Khan-hegy irányába.",
+                  "category": "natural",
+                  "coords": [
+                        106.902762,
+                        47.898725
+                  ]
+            },
+            {
+                  "name": "Iasli",
+                  "text": "Kulturális tér a Téli Palota közelében, amely a helyi várostörténeti kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        106.913887,
+                        47.894473
+                  ]
+            },
+            {
+                  "name": "Bogd kán Palotamúzeum",
+                  "text": "Az utolsó mongol császár téli palotája, ahol díszes templomok és vallási műkincsek láthatóak.",
+                  "category": "museum",
+                  "coords": [
+                        106.906992,
+                        47.897481
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "football",
+                  "text": "Sediul Federației Mongole de Fotbal, situat chiar lângă bazele sportive naționale.",
+                  "category": "landmark",
+                  "coords": [
+                        106.915333,
+                        47.900183
+                  ]
+            },
+            {
+                  "name": "façade mural",
+                  "text": "O pictură murală publică de mari dimensiuni care decorează artistic fațada unei clădiri urbane.",
+                  "category": "landmark",
+                  "coords": [
+                        106.909011,
+                        47.901619
+                  ]
+            },
+            {
+                  "name": "En Ti Vi Televiz",
+                  "text": "Acest centru media oferă o vedere largă peste vale către muntele sfânt Bogd Khan.",
+                  "category": "natural",
+                  "coords": [
+                        106.902762,
+                        47.898725
+                  ]
+            },
+            {
+                  "name": "Iasli",
+                  "text": "Un spațiu cultural lângă Palatul de Iarnă, care prezintă exponate despre istoria locală a orașului.",
+                  "category": "museum",
+                  "coords": [
+                        106.913887,
+                        47.894473
+                  ]
+            },
+            {
+                  "name": "Bogd khaany ordon muzei",
+                  "text": "Palatul de iarnă al ultimului împărat mongol găzduiește temple spectaculoase și comori de artă religioasă.",
+                  "category": "museum",
+                  "coords": [
+                        106.906992,
+                        47.897481
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mongolian Football Association",
+                  "text": "The headquarters of the Mongolian Football Association, located right next to the national sports grounds.",
+                  "category": "landmark",
+                  "coords": [
+                        106.915333,
+                        47.900183
+                  ]
+            },
+            {
+                  "name": "façade mural",
+                  "text": "A large-scale public mural that artistically decorates the facade of a city building.",
+                  "category": "landmark",
+                  "coords": [
+                        106.909011,
+                        47.901619
+                  ]
+            },
+            {
+                  "name": "NTV Television",
+                  "text": "This media center offers a wide view across the valley toward the sacred Bogd Khan Mountain.",
+                  "category": "natural",
+                  "coords": [
+                        106.902762,
+                        47.898725
+                  ]
+            },
+            {
+                  "name": "Iasli",
+                  "text": "A cultural space near the Winter Palace showcasing exhibits on local urban history.",
+                  "category": "museum",
+                  "coords": [
+                        106.913887,
+                        47.894473
+                  ]
+            },
+            {
+                  "name": "Bogd Khan Palace Museum",
+                  "text": "The winter palace of the last Mongolian emperor features ornate temples and religious art treasures.",
+                  "category": "museum",
+                  "coords": [
+                        106.906992,
+                        47.897481
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "MN-1",
     coords: [106.9095, 47.8936],
@@ -974,7 +3701,88 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
       fr: ["Bogd Khan proclamé Grand Khan en 1911.", "Indépendance après l'effondrement de la dynastie mandchoue des Qing.", "Bogd Khan est mort en 1924 après la révolution populaire de 1921.", "Palais d'été détruit en 1937, palais d'hiver préservé.", "République populaire mongole fondée en 1924.", "Six temples richement ornés sur le site.", "Restauré après la démocratisation en 1990."],
     }, image: "/poi-images/mn-bogd-khan-palace-history-v2.webp"},
   {
-    id: "mn-tovkhon-history-v2",
+    id: "mn-tovkhon-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Töwchön Chiid",
+                  "text": "Eines der ältesten buddhistischen Klöster der Mongolei, das 1648 von Zanabazar auf einem bewaldeten Berggipfel gegründet wurde.",
+                  "category": "religious",
+                  "coords": [
+                        102.25589,
+                        47.012968
+                  ]
+            },
+            {
+                  "name": "Ovoo",
+                  "text": "Ein traditioneller heiliger Steinhaufen, an dem Mongolen Opfergaben für lokale Berggottheiten hinterlassen.",
+                  "category": "landmark",
+                  "coords": [
+                        102.240492,
+                        47.008483
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tovkhon khiid",
+                  "text": "Mongólia egyik legrégebbi buddhista kolostora, amelyet Zanabazar alapított 1648-ban egy erdős hegycsúcson.",
+                  "category": "religious",
+                  "coords": [
+                        102.25589,
+                        47.012968
+                  ]
+            },
+            {
+                  "name": "Ovoo",
+                  "text": "Hagyományos szent kőrakás, ahol a mongolok áldozatokat hagynak a helyi hegyi istenségeknek.",
+                  "category": "landmark",
+                  "coords": [
+                        102.240492,
+                        47.008483
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tovkhon khiid",
+                  "text": "Una dintre cele mai vechi mănăstiri budiste din Mongolia, fondată de Zanabazar în 1648 pe un vârf de munte împădurit.",
+                  "category": "religious",
+                  "coords": [
+                        102.25589,
+                        47.012968
+                  ]
+            },
+            {
+                  "name": "Ovoo",
+                  "text": "O movilă sacră tradițională de pietre unde mongolii lasă ofrande pentru zeitățile montane locale.",
+                  "category": "landmark",
+                  "coords": [
+                        102.240492,
+                        47.008483
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tövkhön Monastery",
+                  "text": "One of Mongolia's oldest Buddhist monasteries, founded by Zanabazar in 1648 on a forested mountain peak.",
+                  "category": "religious",
+                  "coords": [
+                        102.25589,
+                        47.012968
+                  ]
+            },
+            {
+                  "name": "Ovoo",
+                  "text": "A traditional sacred cairn of stones where Mongolians leave offerings to local mountain deities.",
+                  "category": "landmark",
+                  "coords": [
+                        102.240492,
+                        47.008483
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "MN-055",
     coords: [102.2478, 46.9922],
@@ -1045,7 +3853,376 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
       fr: ["Fondé en 1654 par le jeune Zanabazar.", "Zanabazar a vécu de 1635 à 1723.", "Écriture Soyombo développée ici en 1686.", "Symbole Soyombo sur le drapeau national.", "Zanabazar était l'arrière-petit-fils de Gengis Khan.", "Endommagé lors des purges staliniennes de 1937.", "L'isolement a sauvé les bâtiments en bois.", "Patrimoine mondial de l'UNESCO depuis 2004."],
     }, image: "/poi-images/mn-tovkhon-history-v2.webp"},
   {
-    id: "mn-sangiin-kherem-history-v2",
+    id: "mn-sangiin-kherem-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "mountain view and khovd",
+                  "text": "Dieser Aussichtspunkt bietet ein weites Panorama auf das Altai-Gebirge und die darunter liegende Stadt Chowd.",
+                  "category": "natural",
+                  "coords": [
+                        91.690748,
+                        48.00545
+                  ]
+            },
+            {
+                  "name": "Ard Aiuushiin khoshoo",
+                  "text": "Dieses Denkmal ehrt den mongolischen Helden Ard Ayush, einen Anführer der antifeudalen Bewegung des 20. Jahrhunderts.",
+                  "category": "historical",
+                  "coords": [
+                        91.640591,
+                        48.004216
+                  ]
+            },
+            {
+                  "name": "Aimgiin tov muzei",
+                  "text": "Das Museum zeigt ethnographische Artefakte und historische Funde der verschiedenen Volksgruppen Westmongoliens.",
+                  "category": "museum",
+                  "coords": [
+                        91.640937,
+                        48.006769
+                  ]
+            },
+            {
+                  "name": "Sangiin kherem",
+                  "text": "Diese Ruinen markieren den Standort von Sangiin Kherem, einer Festung im mandschurischen Stil, die 1762 erbaut wurde.",
+                  "category": "historical",
+                  "coords": [
+                        91.64094,
+                        48.012346
+                  ]
+            },
+            {
+                  "name": "Khovd Park",
+                  "text": "Ein grüner Stadtpark mit Spazierwegen, Statuen und einfachen Fahrgeschäften für einheimische Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        91.631746,
+                        47.980817
+                  ]
+            },
+            {
+                  "name": "Khovd ?",
+                  "text": "Ein Kulturzentrum, das für traditionellen mongolischen Kehlkopfgesang und regionale Theateraufführungen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        91.642838,
+                        48.00416
+                  ]
+            },
+            {
+                  "name": "Khovd baptist sum",
+                  "text": "Ein moderner christlicher Gebetsraum in Chowd, der der örtlichen protestantischen Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        91.640173,
+                        48.000785
+                  ]
+            },
+            {
+                  "name": "Iveelt Baiaryn Medaa",
+                  "text": "Ein kleines lutherisches Gotteshaus, das religiöse Dienste für die christlichen Bewohner der Stadt anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        91.637306,
+                        47.982514
+                  ]
+            },
+            {
+                  "name": "Gandan Puntsag Choilon Khiid",
+                  "text": "Das wichtigste buddhistische Kloster in Chowd mit farbenfroher Architektur im tibetischen Stil und Gebetsmühlen.",
+                  "category": "religious",
+                  "coords": [
+                        91.628455,
+                        47.980496
+                  ]
+            },
+            {
+                  "name": "Khovd Mosque",
+                  "text": "Ein religiöses Zentrum mit markantem Minarett und Kuppel, das der lokalen kasachischen Minderheit dient.",
+                  "category": "landmark",
+                  "coords": [
+                        91.641939,
+                        48.007803
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "mountain view and khovd",
+                  "text": "Erről a kilátópontról széles körpanoráma nyílik az Altaj-hegységre és az alatta fekvő Hovd városára.",
+                  "category": "natural",
+                  "coords": [
+                        91.690748,
+                        48.00545
+                  ]
+            },
+            {
+                  "name": "Ard Aiuushiin khoshoo",
+                  "text": "Ez az emlékmű Ard Ayush mongol hősnek, a 20. századi antifeudális mozgalom vezetőjének állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        91.640591,
+                        48.004216
+                  ]
+            },
+            {
+                  "name": "Aimgiin tov muzei",
+                  "text": "A múzeum Nyugat-Mongólia változatos etnikai csoportjainak néprajzi tárgyait és történelmi leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        91.640937,
+                        48.006769
+                  ]
+            },
+            {
+                  "name": "Sangiin kherem",
+                  "text": "Ezek a romok a Szangiin Herem helyszínét jelölik, amely egy 1762-ben épült mandzsu stílusú erőd volt.",
+                  "category": "historical",
+                  "coords": [
+                        91.64094,
+                        48.012346
+                  ]
+            },
+            {
+                  "name": "Khovd Park",
+                  "text": "Egy zöld városi park sétautakkal, szobrokkal és egyszerű vidámparki játékokkal a helyi családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        91.631746,
+                        47.980817
+                  ]
+            },
+            {
+                  "name": "Khovd ?",
+                  "text": "Hagyományos mongol torokéneklésnek és regionális drámáknak otthont adó kulturális központ.",
+                  "category": "cultural",
+                  "coords": [
+                        91.642838,
+                        48.00416
+                  ]
+            },
+            {
+                  "name": "Khovd baptist sum",
+                  "text": "Egy modern keresztény istentiszteleti hely Hovdban, amely a helyi protestáns közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        91.640173,
+                        48.000785
+                  ]
+            },
+            {
+                  "name": "Iveelt Baiaryn Medaa",
+                  "text": "Egy kis evangélikus templom, amely vallási szertartásokat biztosít a város keresztény lakosai számára.",
+                  "category": "religious",
+                  "coords": [
+                        91.637306,
+                        47.982514
+                  ]
+            },
+            {
+                  "name": "Gandan Puntsag Choilon Khiid",
+                  "text": "Hovd fő buddhista kolostora, amely színes tibeti stílusú építészettel és hagyományos imakerekekkel rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        91.628455,
+                        47.980496
+                  ]
+            },
+            {
+                  "name": "Khovd Mosque",
+                  "text": "Vallási központ jellegzetes minarettel és kupolával, amely a helyi kazah kisebbséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        91.641939,
+                        48.007803
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "mountain view and khovd",
+                  "text": "Acest punct de observație oferă o panoramă spectaculoasă asupra Munților Altai și a orașului Hovd.",
+                  "category": "natural",
+                  "coords": [
+                        91.690748,
+                        48.00545
+                  ]
+            },
+            {
+                  "name": "Ard Aiuushiin khoshoo",
+                  "text": "Acest monument îl onorează pe eroul mongol Ard Ayush, un lider al mișcării antifeudale din secolul al XX-lea.",
+                  "category": "historical",
+                  "coords": [
+                        91.640591,
+                        48.004216
+                  ]
+            },
+            {
+                  "name": "Aimgiin tov muzei",
+                  "text": "Muzeul expune artefacte etnografice și descoperiri istorice ale diverselor grupuri etnice din vestul Mongoliei.",
+                  "category": "museum",
+                  "coords": [
+                        91.640937,
+                        48.006769
+                  ]
+            },
+            {
+                  "name": "Sangiin kherem",
+                  "text": "Aceste ruine marchează locul fortăreței Sangiin Kherem, o cetate în stil manciurian construită în 1762.",
+                  "category": "historical",
+                  "coords": [
+                        91.64094,
+                        48.012346
+                  ]
+            },
+            {
+                  "name": "Khovd Park",
+                  "text": "Un parc urban verde cu alei de promenadă, statui și atracții de divertisment de bază pentru familiile locale.",
+                  "category": "recreational",
+                  "coords": [
+                        91.631746,
+                        47.980817
+                  ]
+            },
+            {
+                  "name": "Khovd ?",
+                  "text": "Un centru cultural cunoscut pentru găzduirea spectacolelor tradiționale de cântat din gât mongol și a dramelor regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        91.642838,
+                        48.00416
+                  ]
+            },
+            {
+                  "name": "Khovd baptist sum",
+                  "text": "Un spațiu modern de cult creștin din Hovd care deservește comunitatea protestantă locală.",
+                  "category": "landmark",
+                  "coords": [
+                        91.640173,
+                        48.000785
+                  ]
+            },
+            {
+                  "name": "Iveelt Baiaryn Medaa",
+                  "text": "Un mic lăcaș de cult luteran care oferă servicii religioase locuitorilor creștini ai orașului.",
+                  "category": "religious",
+                  "coords": [
+                        91.637306,
+                        47.982514
+                  ]
+            },
+            {
+                  "name": "Gandan Puntsag Choilon Khiid",
+                  "text": "Mănăstirea budistă principală din Hovd, cu arhitectură colorată în stil tibetan și roți tradiționale de rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        91.628455,
+                        47.980496
+                  ]
+            },
+            {
+                  "name": "Khovd Mosque",
+                  "text": "Un centru religios care deservește minoritatea kazahă locală, cu minaretul și cupola sa distinctive.",
+                  "category": "landmark",
+                  "coords": [
+                        91.641939,
+                        48.007803
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "mountain view and khovd",
+                  "text": "This viewpoint provides a sweeping panorama of the Altai Mountains and the city of Khovd below.",
+                  "category": "natural",
+                  "coords": [
+                        91.690748,
+                        48.00545
+                  ]
+            },
+            {
+                  "name": "Ard Aiuushiin khoshoo",
+                  "text": "This monument honors the Mongolian hero Ard Ayush, a leader of the 20th-century anti-feudal movement.",
+                  "category": "historical",
+                  "coords": [
+                        91.640591,
+                        48.004216
+                  ]
+            },
+            {
+                  "name": "Khovd central museaum",
+                  "text": "The museum displays ethnographic artifacts and historical findings from the diverse ethnic groups of western Mongolia.",
+                  "category": "museum",
+                  "coords": [
+                        91.640937,
+                        48.006769
+                  ]
+            },
+            {
+                  "name": "Fortress of Hovd",
+                  "text": "These ruins mark the site of Sangiin Kherem, a Manchu-style fortress built in 1762 during the Qing dynasty.",
+                  "category": "historical",
+                  "coords": [
+                        91.64094,
+                        48.012346
+                  ]
+            },
+            {
+                  "name": "Khovd Park",
+                  "text": "A green city park featuring walking paths, statues, and basic amusement rides for local families.",
+                  "category": "recreational",
+                  "coords": [
+                        91.631746,
+                        47.980817
+                  ]
+            },
+            {
+                  "name": "Khovd Theater",
+                  "text": "A cultural center known for hosting traditional Mongolian throat singing performances and regional dramas.",
+                  "category": "cultural",
+                  "coords": [
+                        91.642838,
+                        48.00416
+                  ]
+            },
+            {
+                  "name": "Khovd baptist church",
+                  "text": "A modern Christian worship space in Khovd that serves the local Protestant community.",
+                  "category": "landmark",
+                  "coords": [
+                        91.640173,
+                        48.000785
+                  ]
+            },
+            {
+                  "name": "Christian Church “Lutheran”",
+                  "text": "A small Lutheran place of worship providing religious services to the city's Christian residents.",
+                  "category": "religious",
+                  "coords": [
+                        91.637306,
+                        47.982514
+                  ]
+            },
+            {
+                  "name": "Gandan Puntsag Choilon Khiid",
+                  "text": "The main Buddhist monastery in Khovd, featuring colorful Tibetan-style architecture and traditional prayer wheels.",
+                  "category": "religious",
+                  "coords": [
+                        91.628455,
+                        47.980496
+                  ]
+            },
+            {
+                  "name": "Khovd Mosque",
+                  "text": "A religious center serving the local Kazakh minority with its distinctive minaret and dome.",
+                  "category": "landmark",
+                  "coords": [
+                        91.641939,
+                        48.007803
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "MN-043",
     coords: [91.6425, 48.0053],
@@ -1116,7 +4293,160 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
       fr: ["Construite en 1762 par la dynastie Qing.", "Conquête mandchoue de la Mongolie Khalkha en 1691.", "Murs en terre de quatre mètres d'épaisseur à l'origine.", "Libération en 1912 après l'indépendance de 1911.", "Chefs Magsarjav et Dambiidsantsan.", "Déclin dès la révolution populaire de 1921.", "Non restaurée sous la République populaire dès 1924.", "Aujourd'hui, seuls des remparts de terre érodés subsistent."],
     }, image: "/poi-images/mn-sangiin-kherem-history-v2.webp"},
   {
-    id: "mn-uushigiin-uvur-history-v2",
+    id: "mn-uushigiin-uvur-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dramyn teatr",
+                  "text": "Das Dramyn teatr ist ein Theater für darstellende Künste, das klassische Bühnenstücke und kulturelle Shows veranstaltet.",
+                  "category": "cultural",
+                  "coords": [
+                        100.153873,
+                        49.635714
+                  ]
+            },
+            {
+                  "name": "Uushigiin Uver",
+                  "text": "Der Uushigiin-Uver-Komplex zeigt alte, mit Hirschmotiven verzierte Steine in der mongolischen Steppe.",
+                  "category": "landmark",
+                  "coords": [
+                        99.929034,
+                        49.656363
+                  ]
+            },
+            {
+                  "name": "Dandsandardschaa Chiid",
+                  "text": "Das Danzandarjaa-Kloster ist ein buddhistisches Zentrum mit traditioneller tibetischer Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        100.145185,
+                        49.637619
+                  ]
+            },
+            {
+                  "name": "kristal",
+                  "text": "Das öffentliche Bad Kristal bietet traditionelle Waschgelegenheiten für die örtliche Gemeinde.",
+                  "category": "recreational",
+                  "coords": [
+                        100.156721,
+                        49.64632
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dramyn teatr",
+                  "text": "A Dramyn teatr egy előadóművészeti színház, amely klasszikus színpadi daraboknak és kulturális műsoroknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        100.153873,
+                        49.635714
+                  ]
+            },
+            {
+                  "name": "Uushigiin Uver",
+                  "text": "Az Uushigiin Uver komplexum ősi, szarvasmotívumokkal faragott köveket mutat be a mongol sztyeppén.",
+                  "category": "landmark",
+                  "coords": [
+                        99.929034,
+                        49.656363
+                  ]
+            },
+            {
+                  "name": "Danzandarzhaa khiid",
+                  "text": "A Danzandarjaa kolostor egy buddhista központ, amely hagyományos tibeti stílusú építészettel büszkélkedhet.",
+                  "category": "landmark",
+                  "coords": [
+                        100.145185,
+                        49.637619
+                  ]
+            },
+            {
+                  "name": "kristal",
+                  "text": "A Kristal nyilvános fürdő hagyományos tisztálkodási lehetőségeket kínál a helyi közösség számára.",
+                  "category": "recreational",
+                  "coords": [
+                        100.156721,
+                        49.64632
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dramyn teatr",
+                  "text": "Dramyn teatr este un teatru de arte ale spectacolului care găzduiește piese de teatru clasice și spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        100.153873,
+                        49.635714
+                  ]
+            },
+            {
+                  "name": "Uushigiin Uver",
+                  "text": "Complexul Uushigiin Uver prezintă pietre antice sculptate cu motive de cerb pe stepa mongolă.",
+                  "category": "landmark",
+                  "coords": [
+                        99.929034,
+                        49.656363
+                  ]
+            },
+            {
+                  "name": "Danzandarzhaa khiid",
+                  "text": "Mănăstirea Danzandarjaa este un centru budist care se remarcă prin arhitectura sa tradițională în stil tibetan.",
+                  "category": "landmark",
+                  "coords": [
+                        100.145185,
+                        49.637619
+                  ]
+            },
+            {
+                  "name": "kristal",
+                  "text": "Baia publică Kristal oferă facilități tradiționale de spălare pentru comunitatea locală.",
+                  "category": "recreational",
+                  "coords": [
+                        100.156721,
+                        49.64632
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dramyn teatr",
+                  "text": "The Dramyn teatr is a performing arts theatre hosting classical stage plays and cultural shows.",
+                  "category": "cultural",
+                  "coords": [
+                        100.153873,
+                        49.635714
+                  ]
+            },
+            {
+                  "name": "Uushigiin Uver",
+                  "text": "The Uushigiin Uver complex showcases ancient carved deer stones on the Mongolian steppe.",
+                  "category": "landmark",
+                  "coords": [
+                        99.929034,
+                        49.656363
+                  ]
+            },
+            {
+                  "name": "Danzandarjaa Monastery",
+                  "text": "The Danzandarjaa Monastery is a Buddhist center featuring traditional Tibetan-style architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        100.145185,
+                        49.637619
+                  ]
+            },
+            {
+                  "name": "kristal",
+                  "text": "The Kristal public bath offers traditional washing facilities for the local community.",
+                  "category": "recreational",
+                  "coords": [
+                        100.156721,
+                        49.64632
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "MN-041",
     coords: [100.0214, 49.6583],

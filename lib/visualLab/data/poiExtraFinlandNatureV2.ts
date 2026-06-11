@@ -7,7 +7,7 @@ export const finlandNatureV2: POI[] = [
       "de": [
             {
                   "name": "Otvotien uimaranta",
-                  "text": "Strand am Gewässer in Oidulampi.",
+                  "text": "Badestrand an der Otvotie-Straße nahe Oidulampi.",
                   "category": "recreational",
                   "coords": [
                         25.825824,
@@ -18,7 +18,7 @@ export const finlandNatureV2: POI[] = [
       "hu": [
             {
                   "name": "Otvotien uimaranta",
-                  "text": "Vízparti strand Oidulampiban.",
+                  "text": "Strand az Otvotie úton, Oidulampi közelében.",
                   "category": "recreational",
                   "coords": [
                         25.825824,
@@ -29,7 +29,7 @@ export const finlandNatureV2: POI[] = [
       "ro": [
             {
                   "name": "Otvotien uimaranta",
-                  "text": "Plajă la apă în Oidulampi.",
+                  "text": "Plajă pe strada Otvotie, lângă Oidulampi.",
                   "category": "recreational",
                   "coords": [
                         25.825824,
@@ -40,7 +40,7 @@ export const finlandNatureV2: POI[] = [
       "en": [
             {
                   "name": "Otvotien uimaranta",
-                  "text": "Beach by the water in Oidulampi.",
+                  "text": "Beach on Otvotie road near Oidulampi.",
                   "category": "recreational",
                   "coords": [
                         25.825824,
@@ -187,7 +187,7 @@ export const finlandNatureV2: POI[] = [
       "de": [
             {
                   "name": "BRO -stranden",
-                  "text": "Strand in der Nähe von Aavasaksa.",
+                  "text": "BRO-Strand nahe dem Aavasaksa-Hügel.",
                   "category": "recreational",
                   "coords": [
                         23.677672,
@@ -252,7 +252,7 @@ export const finlandNatureV2: POI[] = [
       "hu": [
             {
                   "name": "BRO -stranden",
-                  "text": "Part Aavasaksa közelében.",
+                  "text": "BRO strand az Aavasaksa-domb közelében.",
                   "category": "recreational",
                   "coords": [
                         23.677672,
@@ -317,7 +317,7 @@ export const finlandNatureV2: POI[] = [
       "ro": [
             {
                   "name": "BRO -stranden",
-                  "text": "Plajă în apropiere de Aavasaksa.",
+                  "text": "Plaja BRO lângă dealul Aavasaksa.",
                   "category": "recreational",
                   "coords": [
                         23.677672,
@@ -382,7 +382,7 @@ export const finlandNatureV2: POI[] = [
       "en": [
             {
                   "name": "BRO -stranden",
-                  "text": "Beach near Aavasaksa.",
+                  "text": "BRO beach near Aavasaksa hill.",
                   "category": "recreational",
                   "coords": [
                         23.677672,
@@ -835,7 +835,7 @@ export const finlandNatureV2: POI[] = [
       "de": [
             {
                   "name": "Hiidenhiekka",
-                  "text": "Hiidenhiekka ist ein Strand im Saimaa-Archipel.",
+                  "text": "Hiidenhiekka-Sandstrand im Saimaa-Archipel.",
                   "category": "recreational",
                   "coords": [
                         28.45615,
@@ -844,7 +844,7 @@ export const finlandNatureV2: POI[] = [
             },
             {
                   "name": "Sappulan uimaranta",
-                  "text": "Sappulan uimaranta ist ein Strand im Saimaa-Archipel.",
+                  "text": "Badestrand Sappula im Saimaa-Archipel.",
                   "category": "recreational",
                   "coords": [
                         28.529938,
@@ -855,7 +855,7 @@ export const finlandNatureV2: POI[] = [
       "hu": [
             {
                   "name": "Hiidenhiekka",
-                  "text": "Hiidenhiekka egy strand a Saimaa-szigetvilágban.",
+                  "text": "Hiidenhiekka homokos strand a Saimaa-szigetvilágban.",
                   "category": "recreational",
                   "coords": [
                         28.45615,
@@ -864,7 +864,7 @@ export const finlandNatureV2: POI[] = [
             },
             {
                   "name": "Sappulan uimaranta",
-                  "text": "Sappulan uimaranta egy strand a Saimaa-szigetvilágban.",
+                  "text": "Sappula strand a Saimaa-szigetvilágban.",
                   "category": "recreational",
                   "coords": [
                         28.529938,
@@ -875,7 +875,7 @@ export const finlandNatureV2: POI[] = [
       "ro": [
             {
                   "name": "Hiidenhiekka",
-                  "text": "Hiidenhiekka este o plajă situată în Arhipelagul Saimaa.",
+                  "text": "Plaja nisipoasă Hiidenhiekka în arhipelagul Saimaa.",
                   "category": "recreational",
                   "coords": [
                         28.45615,
@@ -884,7 +884,7 @@ export const finlandNatureV2: POI[] = [
             },
             {
                   "name": "Sappulan uimaranta",
-                  "text": "Sappulan uimaranta este o plajă situată în Arhipelagul Saimaa.",
+                  "text": "Plaja Sappula în arhipelagul Saimaa.",
                   "category": "recreational",
                   "coords": [
                         28.529938,
@@ -895,7 +895,7 @@ export const finlandNatureV2: POI[] = [
       "en": [
             {
                   "name": "Hiidenhiekka",
-                  "text": "Hiidenhiekka is a beach in the Saimaa Archipelago.",
+                  "text": "Hiidenhiekka sand beach in Saimaa Archipelago.",
                   "category": "recreational",
                   "coords": [
                         28.45615,
@@ -904,7 +904,7 @@ export const finlandNatureV2: POI[] = [
             },
             {
                   "name": "Sappulan uimaranta",
-                  "text": "Sappulan uimaranta is a beach in the Saimaa Archipelago.",
+                  "text": "Sappula beach in Saimaa Archipelago.",
                   "category": "recreational",
                   "coords": [
                         28.529938,
@@ -1006,7 +1006,7 @@ export const finlandNatureV2: POI[] = [
       "de": [
             {
                   "name": "Roukunpuron uimaranta",
-                  "text": "Roukunpuron uimaranta ist ein Strand in der Nähe von Hiidenportti.",
+                  "text": "Ein Badeplatz am Roukunpuro-Bach im Nationalpark Hiidenportti.",
                   "category": "recreational",
                   "coords": [
                         29.192635,
@@ -1015,7 +1015,7 @@ export const finlandNatureV2: POI[] = [
             },
             {
                   "name": "Pitkähiekka",
-                  "text": "Strand Pitkähiekka im Hiidenportti-Nationalpark.",
+                  "text": "Ein langer Sandstrand an einem See im Hiidenportti-Gebiet.",
                   "category": "recreational",
                   "coords": [
                         29.157422,
@@ -1035,7 +1035,7 @@ export const finlandNatureV2: POI[] = [
       "hu": [
             {
                   "name": "Roukunpuron uimaranta",
-                  "text": "A Roukunpuron uimaranta egy strand Hiidenportti közelében.",
+                  "text": "Strand a Roukunpuro-patak mellett a Hiidenportti Nemzeti Parkban.",
                   "category": "recreational",
                   "coords": [
                         29.192635,
@@ -1044,7 +1044,7 @@ export const finlandNatureV2: POI[] = [
             },
             {
                   "name": "Pitkähiekka",
-                  "text": "Pitkähiekka strand a Hiidenportti Nemzeti Parkban.",
+                  "text": "Hosszú homokos strand egy tónál a Hiidenportti területen.",
                   "category": "recreational",
                   "coords": [
                         29.157422,
@@ -1064,7 +1064,7 @@ export const finlandNatureV2: POI[] = [
       "ro": [
             {
                   "name": "Roukunpuron uimaranta",
-                  "text": "Roukunpuron uimaranta este o plajă lângă Hiidenportti.",
+                  "text": "O plajă de înot pe pârâul Roukunpuro din Parcul Național Hiidenportti.",
                   "category": "recreational",
                   "coords": [
                         29.192635,
@@ -1073,7 +1073,7 @@ export const finlandNatureV2: POI[] = [
             },
             {
                   "name": "Pitkähiekka",
-                  "text": "Plaja Pitkähiekka din Parcul Național Hiidenportti.",
+                  "text": "O plajă lungă și nisipoasă pe un lac în zona Hiidenportti.",
                   "category": "recreational",
                   "coords": [
                         29.157422,
@@ -1093,7 +1093,7 @@ export const finlandNatureV2: POI[] = [
       "en": [
             {
                   "name": "Roukunpuron uimaranta",
-                  "text": "Roukunpuron uimaranta is a beach near Hiidenportti.",
+                  "text": "A swimming beach along the Roukunpuro stream in Hiidenportti National Park.",
                   "category": "recreational",
                   "coords": [
                         29.192635,
@@ -1102,7 +1102,7 @@ export const finlandNatureV2: POI[] = [
             },
             {
                   "name": "Pitkähiekka",
-                  "text": "Pitkähiekka beach in Hiidenportti National Park.",
+                  "text": "A long sandy beach on a lake in the Hiidenportti area.",
                   "category": "recreational",
                   "coords": [
                         29.157422,

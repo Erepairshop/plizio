@@ -3,7 +3,196 @@ import type { POI } from "./poi";
 
 export const poiExtraMongoliaLandmarksV2: POI[] = [
   {
-    id: "khongoryn-els-landmarks-v2",
+    id: "khongoryn-els-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sand dunes",
+                  "text": "Massive Sanddünen, die bis zu 300 Meter hoch ragen und sich über 100 Kilometer entlang des Sevrei-Gebirges erstrecken.",
+                  "category": "landmark",
+                  "coords": [
+                        102.324009,
+                        43.758865
+                  ]
+            },
+            {
+                  "name": "Seruun bulag",
+                  "text": "Eine seltene Süßwasserquelle, die eine leuchtend grüne Oase direkt am Fuße der trockenen Wüstendünen speist.",
+                  "category": "landmark",
+                  "coords": [
+                        102.255258,
+                        43.776096
+                  ]
+            },
+            {
+                  "name": "khongoryn els",
+                  "text": "Diese als „singende Sande“ bekannten Dünen erzeugen ein tiefes Brummen, wenn der Wind die Sandkörner bewegt.",
+                  "category": "landmark",
+                  "coords": [
+                        102.181168,
+                        43.795133
+                  ]
+            },
+            {
+                  "name": "Sand Dunes Hiking Starting Point",
+                  "text": "Der markierte Startpunkt für den anstrengenden Aufstieg auf die höchsten Dünenkämme zum Sonnenuntergang.",
+                  "category": "landmark",
+                  "coords": [
+                        102.181357,
+                        43.796303
+                  ]
+            },
+            {
+                  "name": "Duut Mankhan",
+                  "text": "Der höchste Abschnitt der Dünen, berühmt für das deutliche pfeifende Geräusch, das vom wandernden Sand ausgeht.",
+                  "category": "landmark",
+                  "coords": [
+                        102.175073,
+                        43.791487
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sand dunes",
+                  "text": "Hatalmas homokdűnék, amelyek akár 300 méter magasra is emelkednek, és 100 kilométer hosszan nyúlnak el a Sevrei-hegység mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        102.324009,
+                        43.758865
+                  ]
+            },
+            {
+                  "name": "Seruun bulag",
+                  "text": "Ritka édesvízi forrás, amely élénkzöld oázist táplál közvetlenül a száraz sivatagi dűnék lábánál.",
+                  "category": "landmark",
+                  "coords": [
+                        102.255258,
+                        43.776096
+                  ]
+            },
+            {
+                  "name": "khongoryn els",
+                  "text": "Az „éneklő homokként” ismert dűnék mély morajlást keltenek, amikor a szél megmozgatja a homokszemeket.",
+                  "category": "landmark",
+                  "coords": [
+                        102.181168,
+                        43.795133
+                  ]
+            },
+            {
+                  "name": "Sand Dunes Hiking Starting Point",
+                  "text": "A kijelölt kiindulópont a legmagasabb dűnegerincekre való fárasztó felkapaszkodáshoz a naplemente megtekintéséhez.",
+                  "category": "landmark",
+                  "coords": [
+                        102.181357,
+                        43.796303
+                  ]
+            },
+            {
+                  "name": "Duut Mankhan",
+                  "text": "A dűnék legmagasabb szakasza, amely a vándorló homok által keltett jellegzetes sípoló hangról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        102.175073,
+                        43.791487
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sand dunes",
+                  "text": "Dune de nisip masive care se ridică până la 300 de metri înălțime, întinzându-se pe 100 de kilometri de-a lungul munților Sevrei.",
+                  "category": "landmark",
+                  "coords": [
+                        102.324009,
+                        43.758865
+                  ]
+            },
+            {
+                  "name": "Seruun bulag",
+                  "text": "Un izvor rar de apă dulce care alimentează o oază verde vibrantă chiar la poalele dunelor aride de deșert.",
+                  "category": "landmark",
+                  "coords": [
+                        102.255258,
+                        43.776096
+                  ]
+            },
+            {
+                  "name": "khongoryn els",
+                  "text": "Cunoscute sub numele de „nisipuri cântătoare”, aceste dune produc un zumzet grav atunci când vântul mișcă firele de nisip.",
+                  "category": "landmark",
+                  "coords": [
+                        102.181168,
+                        43.795133
+                  ]
+            },
+            {
+                  "name": "Sand Dunes Hiking Starting Point",
+                  "text": "Punctul de plecare marcat pentru ascensiunea solicitantă pe cele mai înalte creste de dune pentru apus.",
+                  "category": "landmark",
+                  "coords": [
+                        102.181357,
+                        43.796303
+                  ]
+            },
+            {
+                  "name": "Duut Mankhan",
+                  "text": "Cea mai înaltă secțiune a dunelor, faimoasă pentru sunetul distinct de fluierat produs de nisipul în mișcare.",
+                  "category": "landmark",
+                  "coords": [
+                        102.175073,
+                        43.791487
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sand dunes",
+                  "text": "Massive sand dunes rising up to 300 meters high, stretching for 100 kilometers along the Sevrei mountain range.",
+                  "category": "landmark",
+                  "coords": [
+                        102.324009,
+                        43.758865
+                  ]
+            },
+            {
+                  "name": "Seruun bulag",
+                  "text": "A rare freshwater spring feeding a vibrant green oasis directly at the foot of the arid desert dunes.",
+                  "category": "landmark",
+                  "coords": [
+                        102.255258,
+                        43.776096
+                  ]
+            },
+            {
+                  "name": "khongoryn els",
+                  "text": "Known as the 'singing sands', these dunes produce a low-frequency hum when the wind moves the sand grains.",
+                  "category": "landmark",
+                  "coords": [
+                        102.181168,
+                        43.795133
+                  ]
+            },
+            {
+                  "name": "Sand Dunes Hiking Starting Point",
+                  "text": "The marked starting point for the strenuous climb up the highest dune ridges for sunset views.",
+                  "category": "landmark",
+                  "coords": [
+                        102.181357,
+                        43.796303
+                  ]
+            },
+            {
+                  "name": "Duut Mankhan",
+                  "text": "The highest section of the dunes, famous for the distinct whistling sound produced by shifting sand.",
+                  "category": "landmark",
+                  "coords": [
+                        102.175073,
+                        43.791487
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MN-053",
     coords: [102.2285, 43.7667],
@@ -71,7 +260,304 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "bayanzag-flaming-cliffs-landmarks-v2",
+    id: "bayanzag-flaming-cliffs-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bayanzag Dinosaur Excavation Site",
+                  "text": "Die Fundstelle, an der 1923 unter Leitung von Roy Chapman Andrews die weltweit ersten fossilen Dinosauriereier entdeckt wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        103.752497,
+                        44.138225
+                  ]
+            },
+            {
+                  "name": "Bayan zag",
+                  "text": "Markante rote Sandsteinklippen, die im Licht der untergehenden Sonne wie in Flammen stehend leuchten.",
+                  "category": "landmark",
+                  "coords": [
+                        103.728012,
+                        44.138284
+                  ]
+            },
+            {
+                  "name": "Bayanzag",
+                  "text": "Ein Aussichtspunkt über das weite Gobi-Becken und die zerklüfteten roten Ödlande voller Fossilien.",
+                  "category": "landmark",
+                  "coords": [
+                        103.723053,
+                        44.144477
+                  ]
+            },
+            {
+                  "name": "Dinozawriin yas",
+                  "text": "Ein Gebiet in Bayanzag, in dem verwitterte Fragmente prähistorischer Knochen oft direkt auf dem Boden sichtbar sind.",
+                  "category": "landmark",
+                  "coords": [
+                        103.714053,
+                        44.140257
+                  ]
+            },
+            {
+                  "name": "15 Camels",
+                  "text": "Ein Denkmal zu Ehren der Kamelkarawanen, die die paläontologischen Expeditionen der 1920er Jahre ermöglichten.",
+                  "category": "historical",
+                  "coords": [
+                        103.720056,
+                        44.134431
+                  ]
+            },
+            {
+                  "name": "Saksaul-Wald",
+                  "text": "Ein seltener Wüstenwald aus knorrigen, blattlosen Saksaul-Bäumen, die den lockeren Sand der Region stabilisieren.",
+                  "category": "landmark",
+                  "coords": [
+                        103.708844,
+                        44.172513
+                  ]
+            },
+            {
+                  "name": "Baianzag",
+                  "text": "Eine weltberühmte paläontologische Stätte inmitten einer dramatischen Landschaft aus roten Klippen und Wüstensträuchern.",
+                  "category": "landmark",
+                  "coords": [
+                        103.704052,
+                        44.169678
+                  ]
+            },
+            {
+                  "name": "Dino mongolia museum site",
+                  "text": "Ein kleines Feldmuseum bei den Flaming Cliffs, das Protoceratops-Fossilien und versteintes Holz ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        103.711476,
+                        44.128337
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bayanzag Dinosaur Excavation Site",
+                  "text": "Az a helyszín, ahol 1923-ban Roy Chapman Andrews vezetésével felfedezték a világ első megkövült dinoszaurusztojásait.",
+                  "category": "landmark",
+                  "coords": [
+                        103.752497,
+                        44.138225
+                  ]
+            },
+            {
+                  "name": "Bayan zag",
+                  "text": "Jellegzetes vörös homokkő sziklák, amelyek a lemenő nap fényében úgy ragyognak, mintha lángolnának.",
+                  "category": "landmark",
+                  "coords": [
+                        103.728012,
+                        44.138284
+                  ]
+            },
+            {
+                  "name": "Bayanzag",
+                  "text": "Kilátóhely a Góbi-medencére és a fosszíliákban gazdag, tagolt vörös vidékre.",
+                  "category": "landmark",
+                  "coords": [
+                        103.723053,
+                        44.144477
+                  ]
+            },
+            {
+                  "name": "Dinozawriin yas",
+                  "text": "Terület Bayanzagnál, ahol a történelem előtti csontok erodált töredékei gyakran közvetlenül a talajon is láthatók.",
+                  "category": "landmark",
+                  "coords": [
+                        103.714053,
+                        44.140257
+                  ]
+            },
+            {
+                  "name": "15 Camels",
+                  "text": "Emlékmű a tevekervánok tiszteletére, amelyek lehetővé tették az 1920-as évek őslénytani expedícióit.",
+                  "category": "historical",
+                  "coords": [
+                        103.720056,
+                        44.134431
+                  ]
+            },
+            {
+                  "name": "Saksaul-Wald",
+                  "text": "Ritka sivatagi erdő göcsörtös, levéltelen szakszaul fákból, amelyek stabilizálják a régió laza homokját.",
+                  "category": "landmark",
+                  "coords": [
+                        103.708844,
+                        44.172513
+                  ]
+            },
+            {
+                  "name": "Baianzag",
+                  "text": "Világhírű őslénytani lelőhely vörös sziklák és sivatagi cserjék drámai tájának közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        103.704052,
+                        44.169678
+                  ]
+            },
+            {
+                  "name": "Dino mongolia museum site",
+                  "text": "Kisméretű terepi múzeum a Flaming Cliffs közelében, ahol Protoceratops fosszíliákat és megkövült fát mutatnak be.",
+                  "category": "museum",
+                  "coords": [
+                        103.711476,
+                        44.128337
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bayanzag Dinosaur Excavation Site",
+                  "text": "Locul unde au fost descoperite primele ouă de dinozaur fosilizate din lume în 1923, sub conducerea lui Roy Chapman Andrews.",
+                  "category": "landmark",
+                  "coords": [
+                        103.752497,
+                        44.138225
+                  ]
+            },
+            {
+                  "name": "Bayan zag",
+                  "text": "Stânci de gresie roșie izbitoare care par să fie în flăcări atunci când sunt luminate de soarele la apus.",
+                  "category": "landmark",
+                  "coords": [
+                        103.728012,
+                        44.138284
+                  ]
+            },
+            {
+                  "name": "Bayanzag",
+                  "text": "Un punct de observație asupra vastului bazin Gobi și a pământurilor rele roșii, pline de fosile.",
+                  "category": "landmark",
+                  "coords": [
+                        103.723053,
+                        44.144477
+                  ]
+            },
+            {
+                  "name": "Dinozawriin yas",
+                  "text": "O zonă la Bayanzag unde fragmente erodate de oase preistorice sunt adesea vizibile direct pe sol.",
+                  "category": "landmark",
+                  "coords": [
+                        103.714053,
+                        44.140257
+                  ]
+            },
+            {
+                  "name": "15 Camels",
+                  "text": "Un monument în onoarea caravanelor de cămile care au făcut posibile expedițiile paleontologice din anii 1920.",
+                  "category": "historical",
+                  "coords": [
+                        103.720056,
+                        44.134431
+                  ]
+            },
+            {
+                  "name": "Saksaul-Wald",
+                  "text": "O pădure rară de deșert formată din arbori de saxaul noduroși și fără frunze, care stabilizează nisipul fin din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        103.708844,
+                        44.172513
+                  ]
+            },
+            {
+                  "name": "Baianzag",
+                  "text": "Un sit paleontologic renumit în întreaga lume, situat în mijlocul unui peisaj dramatic de stânci roșii și tufișuri de deșert.",
+                  "category": "landmark",
+                  "coords": [
+                        103.704052,
+                        44.169678
+                  ]
+            },
+            {
+                  "name": "Dino mongolia museum site",
+                  "text": "Un mic muzeu de teren lângă Flaming Cliffs, care expune fosile de Protoceratops și lemn pietrificat.",
+                  "category": "museum",
+                  "coords": [
+                        103.711476,
+                        44.128337
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bayanzag Dinosaur Excavation Site",
+                  "text": "The site where the world's first fossilized dinosaur eggs were discovered in 1923 by Roy Chapman Andrews.",
+                  "category": "landmark",
+                  "coords": [
+                        103.752497,
+                        44.138225
+                  ]
+            },
+            {
+                  "name": "Flaming Cliffs",
+                  "text": "Striking red sandstone cliffs that appear to be on fire when illuminated by the setting sun.",
+                  "category": "landmark",
+                  "coords": [
+                        103.728012,
+                        44.138284
+                  ]
+            },
+            {
+                  "name": "valley viewpoint on the Flaming Cliffs",
+                  "text": "A viewpoint overlooking the vast Gobi basin and the rugged red badlands rich with fossils.",
+                  "category": "landmark",
+                  "coords": [
+                        103.723053,
+                        44.144477
+                  ]
+            },
+            {
+                  "name": "Bones of dinosaurs",
+                  "text": "An area at Bayanzag where weathered fragments of prehistoric bones are often visible directly on the ground.",
+                  "category": "landmark",
+                  "coords": [
+                        103.714053,
+                        44.140257
+                  ]
+            },
+            {
+                  "name": "15 Camels",
+                  "text": "A monument honoring the camel caravans that made the paleontological expeditions of the 1920s possible.",
+                  "category": "historical",
+                  "coords": [
+                        103.720056,
+                        44.134431
+                  ]
+            },
+            {
+                  "name": "Saksaul-Wald",
+                  "text": "A rare desert forest of gnarled, leafless saksaul trees that stabilize the region's loose sand.",
+                  "category": "landmark",
+                  "coords": [
+                        103.708844,
+                        44.172513
+                  ]
+            },
+            {
+                  "name": "Bayanzag",
+                  "text": "A world-renowned paleontological site set amidst a landscape of dramatic red cliffs and scrub desert.",
+                  "category": "landmark",
+                  "coords": [
+                        103.704052,
+                        44.169678
+                  ]
+            },
+            {
+                  "name": "Dino mongolia museum site",
+                  "text": "A small field museum at the Flaming Cliffs displaying Protoceratops fossils and petrified wood.",
+                  "category": "museum",
+                  "coords": [
+                        103.711476,
+                        44.128337
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MN-053",
     coords: [103.7153, 44.1378],
@@ -139,7 +625,160 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "yolyn-am-landmarks-v2",
+    id: "yolyn-am-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Yolin-Am Canyon",
+                  "text": "Eine schmale Schlucht im Gurvan-Saikhan-Gebirge, in der bis in den Hochsommer hinein dicke Eisfelder liegen.",
+                  "category": "landmark",
+                  "coords": [
+                        104.093853,
+                        43.5095
+                  ]
+            },
+            {
+                  "name": "Iolyn am",
+                  "text": "Bietet Ausblicke auf die schroffen Klippen des „Geiertals“, in dem Bartgeier und sibirische Steinböcke leben.",
+                  "category": "natural",
+                  "coords": [
+                        104.067108,
+                        43.48895
+                  ]
+            },
+            {
+                  "name": "Ovoo",
+                  "text": "Ein ritueller Steinhaufen auf einem hohen Pass, an dem Reisende für Glück in den Bergen dreimal im Uhrzeigersinn umrunden.",
+                  "category": "natural",
+                  "coords": [
+                        104.077658,
+                        43.489486
+                  ]
+            },
+            {
+                  "name": "mukhar shivert",
+                  "text": "Ein abgelegenes Tal, bekannt für seine bizarren vertikalen Eisformationen und gefrorenen Wasserfälle in der Schlucht.",
+                  "category": "landmark",
+                  "coords": [
+                        104.089933,
+                        43.495711
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Yolin-Am Canyon",
+                  "text": "Szűk szurdok a Gurvan Saikhan-hegységben, ahol a vastag jégmezők egészen a nyár közepéig megmaradnak.",
+                  "category": "landmark",
+                  "coords": [
+                        104.093853,
+                        43.5095
+                  ]
+            },
+            {
+                  "name": "Iolyn am",
+                  "text": "Kilátást nyújt a „Keselyű-völgy” sziklás szirtjeire, amely a saskeselyűk és a szibériai kőszáli kecskék otthona.",
+                  "category": "natural",
+                  "coords": [
+                        104.067108,
+                        43.48895
+                  ]
+            },
+            {
+                  "name": "Ovoo",
+                  "text": "Szertartási kőrakás egy magas hágón, amelyet az utazók háromszor megkerülnek az óramutató járásával megegyező irányban a szerencséért.",
+                  "category": "natural",
+                  "coords": [
+                        104.077658,
+                        43.489486
+                  ]
+            },
+            {
+                  "name": "mukhar shivert",
+                  "text": "Félreeső völgy, amely a szurdokban található különleges, függőleges képződményeiről és fagyott vízeséseiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        104.089933,
+                        43.495711
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Yolin-Am Canyon",
+                  "text": "Un defileu îngust în munții Gurvan Saikhan unde câmpuri groase de gheață persistă până la mijlocul verii.",
+                  "category": "landmark",
+                  "coords": [
+                        104.093853,
+                        43.5095
+                  ]
+            },
+            {
+                  "name": "Iolyn am",
+                  "text": "Oferă vedere spre stâncile accidentate ale „Văii Vulturilor”, casa zăganilor și a caprelor negre siberiene.",
+                  "category": "natural",
+                  "coords": [
+                        104.067108,
+                        43.48895
+                  ]
+            },
+            {
+                  "name": "Ovoo",
+                  "text": "O movilă ceremonială de pietre pe o trecătoare înaltă, unde călătorii înconjoară de trei ori în sensul acelor de ceasornic pentru noroc.",
+                  "category": "natural",
+                  "coords": [
+                        104.077658,
+                        43.489486
+                  ]
+            },
+            {
+                  "name": "mukhar shivert",
+                  "text": "O vale retrasă, cunoscută pentru formațiunile sale verticale unice de gheață și cascadele înghețate din canion.",
+                  "category": "landmark",
+                  "coords": [
+                        104.089933,
+                        43.495711
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yolin-Am Canyon",
+                  "text": "A narrow gorge in the Gurvan Saikhan Mountains where thick ice fields often persist until mid-summer.",
+                  "category": "landmark",
+                  "coords": [
+                        104.093853,
+                        43.5095
+                  ]
+            },
+            {
+                  "name": "Iolyn am",
+                  "text": "Offers views of the rugged cliffs of the 'Vulture's Valley', home to Lammergeier vultures and Siberian ibex.",
+                  "category": "natural",
+                  "coords": [
+                        104.067108,
+                        43.48895
+                  ]
+            },
+            {
+                  "name": "Ovoo",
+                  "text": "A ceremonial stone heap on a high pass where travelers circumambulate three times clockwise for good luck.",
+                  "category": "natural",
+                  "coords": [
+                        104.077658,
+                        43.489486
+                  ]
+            },
+            {
+                  "name": "Mukhar Shivert",
+                  "text": "A secluded valley known for its unique vertical ice formations and frozen waterfalls in the canyon.",
+                  "category": "landmark",
+                  "coords": [
+                        104.089933,
+                        43.495711
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MN-053",
     coords: [104.0583, 43.4889],
@@ -275,7 +914,88 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "khustai-national-park-landmarks-v2",
+    id: "khustai-national-park-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "last break of Khustai Trekking",
+                  "text": "Ein Rastplatz für Wanderer im Nationalpark, der für seine seltenen Przewalski-Wildpferde bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        105.834968,
+                        47.719723
+                  ]
+            },
+            {
+                  "name": "Information center",
+                  "text": "Dieses Bildungszentrum zeigt Ausstellungen über das erfolgreiche Programm zur Wiedereinführung der Takhi-Wildpferde.",
+                  "category": "museum",
+                  "coords": [
+                        105.878343,
+                        47.763877
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "last break of Khustai Trekking",
+                  "text": "Pihenőhely a nemzeti parkban túrázók számára, amely a ritka Przewalski-lovak megfigyeléséről nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        105.834968,
+                        47.719723
+                  ]
+            },
+            {
+                  "name": "Information center",
+                  "text": "Ez az oktatóközpont a vadon élő Takhi lovak visszatelepítési programját bemutató kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        105.878343,
+                        47.763877
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "last break of Khustai Trekking",
+                  "text": "Un punct de popas pentru excursioniști în parcul național renumit pentru caii săi sălbatici Przewalski.",
+                  "category": "landmark",
+                  "coords": [
+                        105.834968,
+                        47.719723
+                  ]
+            },
+            {
+                  "name": "Information center",
+                  "text": "Acest centru educațional găzduiește expoziții despre programul de reintroducere a cailor sălbatici Takhi.",
+                  "category": "museum",
+                  "coords": [
+                        105.878343,
+                        47.763877
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "last break of Khustai Trekking",
+                  "text": "A resting spot for hikers in the national park known for its rare Przewalski's wild horses.",
+                  "category": "landmark",
+                  "coords": [
+                        105.834968,
+                        47.719723
+                  ]
+            },
+            {
+                  "name": "Information center",
+                  "text": "This educational hub features exhibits on the successful reintroduction program of the wild Takhi horses.",
+                  "category": "museum",
+                  "coords": [
+                        105.878343,
+                        47.763877
+                  ]
+            }
+      ]
+},
     type: "tourist-attraction",
     parent: "MN-047",
     coords: [105.8833, 47.7667],
@@ -343,7 +1063,88 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "orkhon-waterfall-landmarks-v2",
+    id: "orkhon-waterfall-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ulaan Tsutgalan",
+                  "text": "Ein Aussichtspunkt über den Orchon-Wasserfall, wo der Fluss 24 Meter tief in eine vulkanische Basaltschlucht stürzt.",
+                  "category": "natural",
+                  "coords": [
+                        101.960873,
+                        46.787138
+                  ]
+            },
+            {
+                  "name": "Chuluut River Cliff Sightseeing",
+                  "text": "Bietet Ausblicke auf einen tiefen Canyon, den der Fluss Tschuluut durch uralte Lavaströme gegraben hat.",
+                  "category": "landmark",
+                  "coords": [
+                        101.981842,
+                        46.789362
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ulaan Tsutgalan",
+                  "text": "Kilátó az Orhon-vízesésnél, ahol a folyó 24 métert zuhan egy vulkáni bazaltszurdokba.",
+                  "category": "natural",
+                  "coords": [
+                        101.960873,
+                        46.787138
+                  ]
+            },
+            {
+                  "name": "Chuluut River Cliff Sightseeing",
+                  "text": "Kilátást nyújt egy mély szurdokra, amelyet a Chuluut-folyó vájt az ősi lávafolyamokba.",
+                  "category": "landmark",
+                  "coords": [
+                        101.981842,
+                        46.789362
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ulaan Tsutgalan",
+                  "text": "Un punct de observație asupra cascadei Orhon, unde râul cade 24 de metri într-un canion de bazalt vulcanic.",
+                  "category": "natural",
+                  "coords": [
+                        101.960873,
+                        46.787138
+                  ]
+            },
+            {
+                  "name": "Chuluut River Cliff Sightseeing",
+                  "text": "Oferă vedere spre un canion adânc, săpat de râul Chuluut prin fluxuri de lavă antice.",
+                  "category": "landmark",
+                  "coords": [
+                        101.981842,
+                        46.789362
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ulaan Tsutgalan",
+                  "text": "A viewpoint overlooking the Orkhon Waterfall, where the river drops 24 meters into a volcanic basalt canyon.",
+                  "category": "natural",
+                  "coords": [
+                        101.960873,
+                        46.787138
+                  ]
+            },
+            {
+                  "name": "Chuluut River Cliff Sightseeing",
+                  "text": "Offers views of a deep canyon carved by the Chuluut River through ancient lava flows.",
+                  "category": "landmark",
+                  "coords": [
+                        101.981842,
+                        46.789362
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MN-073",
     coords: [101.9547, 46.7878],
@@ -479,7 +1280,124 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "baga-gazriin-chuluu-landmarks-v2",
+    id: "baga-gazriin-chuluu-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Petroglyphs of Ait Ouazzik",
+                  "text": "Diese antiken Felsritzungen befinden sich in der markanten Granitlandschaft von Baga Gazriin Chuluu.",
+                  "category": "natural",
+                  "coords": [
+                        106.034407,
+                        46.20036
+                  ]
+            },
+            {
+                  "name": "spring water for eyes",
+                  "text": "Eine kleine Quelle in den Granitfelsen, deren Wasser heilende Kräfte für die Augen nachgesagt werden.",
+                  "category": "landmark",
+                  "coords": [
+                        106.01885,
+                        46.204318
+                  ]
+            },
+            {
+                  "name": "Baga Gazar Camping Spot",
+                  "text": "Ein heiliger Ort mit einem Ovoo in der Nähe eines beliebten Lagerplatzes inmitten der Felsformationen.",
+                  "category": "religious",
+                  "coords": [
+                        106.026664,
+                        46.187888
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Petroglyphs of Ait Ouazzik",
+                  "text": "Ősi sziklarajzok a Baga Gazriin Chuluu jellegzetes gránitsziklái között.",
+                  "category": "natural",
+                  "coords": [
+                        106.034407,
+                        46.20036
+                  ]
+            },
+            {
+                  "name": "spring water for eyes",
+                  "text": "Egy kis forrás a gránitsziklák között, melynek vizéről úgy tartják, hogy gyógyítja a szemet.",
+                  "category": "landmark",
+                  "coords": [
+                        106.01885,
+                        46.204318
+                  ]
+            },
+            {
+                  "name": "Baga Gazar Camping Spot",
+                  "text": "Szent hely egy obóval, egy népszerű táborozóhely közelében, a sziklaalakzatok közepén.",
+                  "category": "religious",
+                  "coords": [
+                        106.026664,
+                        46.187888
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Petroglyphs of Ait Ouazzik",
+                  "text": "Aceste petroglife antice se află în peisajul de granit distinctiv din Baga Gazriin Chuluu.",
+                  "category": "natural",
+                  "coords": [
+                        106.034407,
+                        46.20036
+                  ]
+            },
+            {
+                  "name": "spring water for eyes",
+                  "text": "Un mic izvor printre stâncile de granit, despre a cărui apă se spune că are proprietăți curative pentru ochi.",
+                  "category": "landmark",
+                  "coords": [
+                        106.01885,
+                        46.204318
+                  ]
+            },
+            {
+                  "name": "Baga Gazar Camping Spot",
+                  "text": "Un loc sacru cu un ovoo situat lângă un loc de campare popular, în mijlocul formațiunilor stâncoase.",
+                  "category": "religious",
+                  "coords": [
+                        106.026664,
+                        46.187888
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Petroglyphs of Ait Ouazzik",
+                  "text": "These ancient rock carvings are located among the striking granite formations of Baga Gazriin Chuluu.",
+                  "category": "natural",
+                  "coords": [
+                        106.034407,
+                        46.20036
+                  ]
+            },
+            {
+                  "name": "spring water for eyes",
+                  "text": "A small spring tucked into the granite rocks, believed to have healing properties for the eyes.",
+                  "category": "landmark",
+                  "coords": [
+                        106.01885,
+                        46.204318
+                  ]
+            },
+            {
+                  "name": "Baga Gazar Camping Spot",
+                  "text": "A sacred spot with an ovoo located near a popular camping site amidst the rock formations.",
+                  "category": "religious",
+                  "coords": [
+                        106.026664,
+                        46.187888
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MN-059",
     coords: [106.0167, 46.2000],
@@ -547,7 +1465,160 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "khorgo-volcano-landmarks-v2",
+    id: "khorgo-volcano-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Moson khongil",
+                  "text": "Eine perennierende Eishöhle, die in den erstarrten Lavafeldern der Khorgo-Vulkanregion verborgen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        99.829592,
+                        48.171939
+                  ]
+            },
+            {
+                  "name": "Shar nokhoin tam",
+                  "text": "Ein tiefer vulkanischer Spalt im Khorgo-Lavafeld, lokal bekannt als 'Hölle des gelben Hundes'.",
+                  "category": "landmark",
+                  "coords": [
+                        99.829161,
+                        48.172947
+                  ]
+            },
+            {
+                  "name": "Lagshin shuteen",
+                  "text": "Ein heiliger Ort im Nationalpark mit markanten geologischen Formationen aus vulkanischem Gestein.",
+                  "category": "landmark",
+                  "coords": [
+                        99.906245,
+                        48.155766
+                  ]
+            },
+            {
+                  "name": "Ovoo",
+                  "text": "Ein ritueller Steinhaufen für Opfergaben inmitten der dramatischen Lavalandschaft des Khorgo-Vulkans.",
+                  "category": "landmark",
+                  "coords": [
+                        99.821688,
+                        48.182684
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Moson khongil",
+                  "text": "Egy állandó jégbarlang, amely a Khorgo vulkáni régió megkövetedett lávamezőiben rejtőzik.",
+                  "category": "landmark",
+                  "coords": [
+                        99.829592,
+                        48.171939
+                  ]
+            },
+            {
+                  "name": "Shar nokhoin tam",
+                  "text": "Egy mély vulkáni hasadék a Khorgo-lávamezőben, amelyet helyileg „Sárga kutya poklaként” ismernek.",
+                  "category": "landmark",
+                  "coords": [
+                        99.829161,
+                        48.172947
+                  ]
+            },
+            {
+                  "name": "Lagshin shuteen",
+                  "text": "A nemzeti park egyik szent helye, jellegzetes vulkáni kőzetképződményekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        99.906245,
+                        48.155766
+                  ]
+            },
+            {
+                  "name": "Ovoo",
+                  "text": "Áldozati kőhalom a Khorgo-vulkán drámai lávatájának közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        99.821688,
+                        48.182684
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Moson khongil",
+                  "text": "O peșteră de gheață perenă ascunsă în câmpurile de lavă solidificată din regiunea vulcanică Khorgo.",
+                  "category": "landmark",
+                  "coords": [
+                        99.829592,
+                        48.171939
+                  ]
+            },
+            {
+                  "name": "Shar nokhoin tam",
+                  "text": "O fisură vulcanică adâncă în câmpul de lavă Khorgo, cunoscută local sub numele de „Iadul câinelui galben”.",
+                  "category": "landmark",
+                  "coords": [
+                        99.829161,
+                        48.172947
+                  ]
+            },
+            {
+                  "name": "Lagshin shuteen",
+                  "text": "Un loc sfânt din parcul național cu formațiuni geologice distinctive din rocă vulcanică.",
+                  "category": "landmark",
+                  "coords": [
+                        99.906245,
+                        48.155766
+                  ]
+            },
+            {
+                  "name": "Ovoo",
+                  "text": "O grămadă de pietre rituale pentru ofrande în mijlocul peisajului dramatic de lavă al vulcanului Khorgo.",
+                  "category": "landmark",
+                  "coords": [
+                        99.821688,
+                        48.182684
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musun khongil",
+                  "text": "A perennial ice cave hidden within the solidified lava fields of the Khorgo volcanic region.",
+                  "category": "landmark",
+                  "coords": [
+                        99.829592,
+                        48.171939
+                  ]
+            },
+            {
+                  "name": "Shar nokhoin tam",
+                  "text": "A deep volcanic crevice in the Khorgo lava field, known locally as the 'Yellow Dog's Hell'.",
+                  "category": "landmark",
+                  "coords": [
+                        99.829161,
+                        48.172947
+                  ]
+            },
+            {
+                  "name": "Lagshin Shuteen",
+                  "text": "A sacred site in the national park featuring distinctive geological formations of volcanic rock.",
+                  "category": "landmark",
+                  "coords": [
+                        99.906245,
+                        48.155766
+                  ]
+            },
+            {
+                  "name": "Ovoo",
+                  "text": "A ritual stone heap for offerings amidst the dramatic lava landscape of the Khorgo volcano.",
+                  "category": "landmark",
+                  "coords": [
+                        99.821688,
+                        48.182684
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MN-073",
     coords: [99.8500, 48.1833],
@@ -615,7 +1686,88 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "terkhiin-tsagaan-nuur-landmarks-v2",
+    id: "terkhiin-tsagaan-nuur-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shuvuu azhiglakh tseg",
+                  "text": "Ein Beobachtungspunkt am Ufer des 'Weißen Sees', ideal zur Sichtung von Zugvögeln.",
+                  "category": "natural",
+                  "coords": [
+                        99.672957,
+                        48.13589
+                  ]
+            },
+            {
+                  "name": "Terkhiin Tsagaan nuur terqei yin chagan nagur",
+                  "text": "Dieser Süßwassersee auf 2060 Metern Höhe entstand durch Lavaströme eines nahegelegenen Vulkans.",
+                  "category": "landmark",
+                  "coords": [
+                        99.701589,
+                        48.158686
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shuvuu azhiglakh tseg",
+                  "text": "Megfigyelőpont a „Fehér-tó” partján, amely ideális a költöző madarak megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        99.672957,
+                        48.13589
+                  ]
+            },
+            {
+                  "name": "Terkhiin Tsagaan nuur terqei yin chagan nagur",
+                  "text": "Ez a 2060 méteres magasságban fekvő édesvízi tó egy közeli vulkán lávafolyásai révén jött létre.",
+                  "category": "landmark",
+                  "coords": [
+                        99.701589,
+                        48.158686
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shuvuu azhiglakh tseg",
+                  "text": "Un punct de observație pe malul „Lacului Alb”, ideal pentru observarea păsărilor migratoare.",
+                  "category": "natural",
+                  "coords": [
+                        99.672957,
+                        48.13589
+                  ]
+            },
+            {
+                  "name": "Terkhiin Tsagaan nuur terqei yin chagan nagur",
+                  "text": "Acest lac cu apă dulce la 2060 de metri altitudine a fost format prin fluxuri de lavă de la un vulcan din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        99.701589,
+                        48.158686
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bird watching",
+                  "text": "An observation point on the shores of the 'White Lake', ideal for spotting migratory birds.",
+                  "category": "natural",
+                  "coords": [
+                        99.672957,
+                        48.13589
+                  ]
+            },
+            {
+                  "name": "Terkhiin Tsagaan Lake",
+                  "text": "This freshwater lake at 2060 meters altitude was formed by lava flows from a nearby volcano.",
+                  "category": "landmark",
+                  "coords": [
+                        99.701589,
+                        48.158686
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MN-073",
     coords: [99.7000, 48.1667],
@@ -819,7 +1971,160 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "sukhbaatar-square-landmarks-v2",
+    id: "sukhbaatar-square-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tusgaar togtnolyn ordon",
+                  "text": "Dieser Unabhängigkeitspalast ist ein zentraler Ort für politische Versammlungen und kulturelle Foren.",
+                  "category": "cultural",
+                  "coords": [
+                        106.92163,
+                        47.918862
+                  ]
+            },
+            {
+                  "name": "Ulaanbaatar khotyn tov teg tseg",
+                  "text": "Ein Markstein auf dem Süchbaatar-Platz, der den geografischen Nullpunkt der Stadt markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        106.917687,
+                        47.918537
+                  ]
+            },
+            {
+                  "name": "Ulaanbaatar khotyn muzei",
+                  "text": "Das Stadtmuseum zeigt die Entwicklung Ulaanbaatars in einem historischen zweistöckigen Ziegelbau.",
+                  "category": "museum",
+                  "coords": [
+                        106.93612,
+                        47.918276
+                  ]
+            },
+            {
+                  "name": "Ulsyn duur' buzhgiin erdmiin teatr",
+                  "text": "Das markante lachsfarbene neoklassizistische Gebäude am Süchbaatar-Platz ist die Heimat von Oper und Ballett.",
+                  "category": "cultural",
+                  "coords": [
+                        106.919859,
+                        47.918629
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tusgaar togtnolyn ordon",
+                  "text": "Ez a Függetlenségi Palota a politikai gyűlések és kulturális fórumok központi helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        106.92163,
+                        47.918862
+                  ]
+            },
+            {
+                  "name": "Ulaanbaatar khotyn tov teg tseg",
+                  "text": "A Sükhbaatar téren található jelölés, amely a város földrajzi nullpontját jelzi.",
+                  "category": "landmark",
+                  "coords": [
+                        106.917687,
+                        47.918537
+                  ]
+            },
+            {
+                  "name": "Ulaanbaatar khotyn muzei",
+                  "text": "A várostörténeti múzeum egy történelmi kétszintes téglaépületben mutatja be Ulánbátor fejlődését.",
+                  "category": "museum",
+                  "coords": [
+                        106.93612,
+                        47.918276
+                  ]
+            },
+            {
+                  "name": "Ulsyn duur' buzhgiin erdmiin teatr",
+                  "text": "A Sükhbaatar téren álló jellegzetes lazacszínű neoklasszicista épület az opera és balett otthona.",
+                  "category": "cultural",
+                  "coords": [
+                        106.919859,
+                        47.918629
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tusgaar togtnolyn ordon",
+                  "text": "Acest Palat al Independenței este un loc central pentru adunări politice și forumuri culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        106.92163,
+                        47.918862
+                  ]
+            },
+            {
+                  "name": "Ulaanbaatar khotyn tov teg tseg",
+                  "text": "Un marcaj în Piața Sükhbaatar care indică punctul zero geografic al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        106.917687,
+                        47.918537
+                  ]
+            },
+            {
+                  "name": "Ulaanbaatar khotyn muzei",
+                  "text": "Muzeul orașului prezintă evoluția Ulaanbaatarului într-o clădire istorică din cărămidă cu două etaje.",
+                  "category": "museum",
+                  "coords": [
+                        106.93612,
+                        47.918276
+                  ]
+            },
+            {
+                  "name": "Ulsyn duur' buzhgiin erdmiin teatr",
+                  "text": "Clădirea neoclasică de culoare somon din Piața Sükhbaatar găzduiește opera și baletul.",
+                  "category": "cultural",
+                  "coords": [
+                        106.919859,
+                        47.918629
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tusgaar togtnolyn ordon",
+                  "text": "This Independence Palace serves as a central venue for political gatherings and cultural forums.",
+                  "category": "cultural",
+                  "coords": [
+                        106.92163,
+                        47.918862
+                  ]
+            },
+            {
+                  "name": "The Zero point of the Ulaanbaatar city",
+                  "text": "A marker on Sukhbaatar Square indicating the geographic zero point of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        106.917687,
+                        47.918537
+                  ]
+            },
+            {
+                  "name": "Ulaanbaatar khotyn muzei",
+                  "text": "The city museum showcases Ulaanbaatar's development inside a historic two-story brick building.",
+                  "category": "museum",
+                  "coords": [
+                        106.93612,
+                        47.918276
+                  ]
+            },
+            {
+                  "name": "National Academic Theatre of Opera",
+                  "text": "The striking salmon-colored neoclassical building on Sukhbaatar Square is home to opera and ballet.",
+                  "category": "cultural",
+                  "coords": [
+                        106.919859,
+                        47.918629
+                  ]
+            }
+      ]
+},
     type: "tourist-attraction",
     parent: "MN-1",
     coords: [106.9177, 47.9189],
@@ -955,7 +2260,88 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "khermen-tsav-landmarks-v2",
+    id: "khermen-tsav-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khermen-Tsav (\"Mongol'skie sfinksy\")",
+                  "text": "Bietet Panoramablicke auf rote Sandsteinformationen, die vom Wind zu sphinxähnlichen Türmen geformt wurden.",
+                  "category": "natural",
+                  "coords": [
+                        99.832933,
+                        43.466767
+                  ]
+            },
+            {
+                  "name": "khermen tsav",
+                  "text": "Ein gewaltiger roter Canyon in der Gobi, berühmt für seine paläontologischen Schätze und labyrinthartigen Wände.",
+                  "category": "landmark",
+                  "coords": [
+                        99.833373,
+                        43.47442
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khermen-Tsav (\"Mongol'skie sfinksy\")",
+                  "text": "Panorámás kilátást nyújt a vörös homokkő képződményekre, amelyeket a szél szfinx-szerű tornyokká formált.",
+                  "category": "natural",
+                  "coords": [
+                        99.832933,
+                        43.466767
+                  ]
+            },
+            {
+                  "name": "khermen tsav",
+                  "text": "Hatalmas vörös kanyon a Góbiban, amely őslénytani kincseiről és labirintusszerű falairól híres.",
+                  "category": "landmark",
+                  "coords": [
+                        99.833373,
+                        43.47442
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khermen-Tsav (\"Mongol'skie sfinksy\")",
+                  "text": "Oferă vederi panoramice asupra formațiunilor de gresie roșie modelate de vânt în turnuri asemănătoare sfinxului.",
+                  "category": "natural",
+                  "coords": [
+                        99.832933,
+                        43.466767
+                  ]
+            },
+            {
+                  "name": "khermen tsav",
+                  "text": "Un canion roșu masiv în Gobi, faimos pentru comorile sale paleontologice și pereții labirintici.",
+                  "category": "landmark",
+                  "coords": [
+                        99.833373,
+                        43.47442
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hermen-Tsav (\"Mongolian sphinxes\")",
+                  "text": "Offers panoramic views of red sandstone formations shaped by wind into sphinx-like towers.",
+                  "category": "natural",
+                  "coords": [
+                        99.832933,
+                        43.466767
+                  ]
+            },
+            {
+                  "name": "khermen tsav",
+                  "text": "A massive red canyon in the Gobi, famous for its paleontological treasures and labyrinthine walls.",
+                  "category": "landmark",
+                  "coords": [
+                        99.833373,
+                        43.47442
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MN-053",
     coords: [99.8333, 43.4833],
@@ -1227,7 +2613,52 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "shiliin-bogd-landmarks-v2",
+    id: "shiliin-bogd-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shiliin Bogd",
+                  "text": "Der höchste erloschene Vulkankegel in der Ostmongolei mit einem weiten Blick über die Steppe.",
+                  "category": "natural",
+                  "coords": [
+                        114.589018,
+                        45.472372
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shiliin Bogd",
+                  "text": "Kelet-Mongólia legmagasabb kialudt vulkáni kúpja, ahonnan pazar kilátás nyílik a sztyeppére.",
+                  "category": "natural",
+                  "coords": [
+                        114.589018,
+                        45.472372
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shiliin Bogd",
+                  "text": "Cel mai înalt con vulcanic stins din estul Mongoliei, oferind o panoramă vastă asupra stepei.",
+                  "category": "natural",
+                  "coords": [
+                        114.589018,
+                        45.472372
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shiliin Bogd",
+                  "text": "The highest extinct volcanic cone in eastern Mongolia, offering wide views over the steppe.",
+                  "category": "natural",
+                  "coords": [
+                        114.589018,
+                        45.472372
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MN-051",
     coords: [114.5833, 45.4833],
@@ -1295,7 +2726,124 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "taikhar-chuluu-landmarks-v2",
+    id: "taikhar-chuluu-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Soiolyn tov",
+                  "text": "Ein lokales Kulturzentrum in der Nähe des berühmten Granitmonolithen Taikhar Chuluu.",
+                  "category": "cultural",
+                  "coords": [
+                        101.207827,
+                        47.595598
+                  ]
+            },
+            {
+                  "name": "Taikhar chuluu",
+                  "text": "Ein massiver, 18 Meter hoher Granitfelsen, der mit antiken Inschriften aus verschiedenen Epochen bedeckt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        101.253657,
+                        47.600473
+                  ]
+            },
+            {
+                  "name": "Chatsargany talbai",
+                  "text": "Ein lokaler Ort der Verehrung in einer Region, die für ihre Sanddornsträucher bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        101.114443,
+                        47.555768
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Soiolyn tov",
+                  "text": "Helyi kulturális központ a híres Taikhar Chuluu gránitmonolit közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        101.207827,
+                        47.595598
+                  ]
+            },
+            {
+                  "name": "Taikhar chuluu",
+                  "text": "Egy hatalmas, 18 méter magas gránitszikla, amelyet különböző korokból származó ősi feliratok borítanak.",
+                  "category": "landmark",
+                  "coords": [
+                        101.253657,
+                        47.600473
+                  ]
+            },
+            {
+                  "name": "Chatsargany talbai",
+                  "text": "Helyi tiszteleti hely egy olyan régióban, amely homoktövis bokrairól ismert.",
+                  "category": "religious",
+                  "coords": [
+                        101.114443,
+                        47.555768
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Soiolyn tov",
+                  "text": "Un centru cultural local situat în apropierea faimosului monolit de granit Taikhar Chuluu.",
+                  "category": "cultural",
+                  "coords": [
+                        101.207827,
+                        47.595598
+                  ]
+            },
+            {
+                  "name": "Taikhar chuluu",
+                  "text": "O stâncă masivă de granit, înaltă de 18 metri, acoperită cu inscripții antice din diverse epoci.",
+                  "category": "landmark",
+                  "coords": [
+                        101.253657,
+                        47.600473
+                  ]
+            },
+            {
+                  "name": "Chatsargany talbai",
+                  "text": "Un loc local de cult într-o regiune cunoscută pentru arbuștii săi de cătină.",
+                  "category": "religious",
+                  "coords": [
+                        101.114443,
+                        47.555768
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Soiolyn tov",
+                  "text": "A local cultural center located near the famous Taikhar Chuluu granite monolith.",
+                  "category": "cultural",
+                  "coords": [
+                        101.207827,
+                        47.595598
+                  ]
+            },
+            {
+                  "name": "Taikhar chuluu",
+                  "text": "A massive 18-meter-high granite rock covered with ancient inscriptions from various eras.",
+                  "category": "landmark",
+                  "coords": [
+                        101.253657,
+                        47.600473
+                  ]
+            },
+            {
+                  "name": "Seabuckthorn place",
+                  "text": "A local site of worship in a region known for its seabuckthorn bushes.",
+                  "category": "religious",
+                  "coords": [
+                        101.114443,
+                        47.555768
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MN-073",
     coords: [101.2000, 47.6000],

@@ -7,7 +7,7 @@ export const serbiaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Nishka tvrdjava",
-                  "text": "Eine gut erhaltene osmanische Festung im Zentrum von Niš.",
+                  "text": "Festung Niš in Mediana, eine osmanische Festung am Fluss Nišava.",
                   "category": "castle",
                   "coords": [
                         21.895447,
@@ -81,7 +81,7 @@ export const serbiaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Nishka tvrdjava",
-                  "text": "Jó állapotban fennmaradt oszmán erődítmény Niš központjában.",
+                  "text": "Niši erőd Mediana közelében, egy oszmán erőd a Nišava folyónál.",
                   "category": "castle",
                   "coords": [
                         21.895447,
@@ -155,7 +155,7 @@ export const serbiaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Nishka tvrdjava",
-                  "text": "O cetate otomană bine conservată, situată în centrul orașului Niš.",
+                  "text": "Cetatea Niš în Mediana, o fortăreață otomană pe râul Nișava.",
                   "category": "castle",
                   "coords": [
                         21.895447,
@@ -229,7 +229,7 @@ export const serbiaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Niš Fortress",
-                  "text": "A well-preserved Ottoman fortress located in the center of Niš.",
+                  "text": "Niš Fortress in Mediana, an Ottoman fortress on the Nišava river.",
                   "category": "castle",
                   "coords": [
                         21.895447,
@@ -961,7 +961,7 @@ export const serbiaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Zoo Novi Pazar",
-                  "text": "Ein lokaler Zoo in der Nähe der historischen Stätte Stari Ras.",
+                  "text": "Der Zoo Novi Pazar liegt nahe der mittelalterlichen Festung Stari Ras.",
                   "category": "recreational",
                   "coords": [
                         20.388951,
@@ -972,7 +972,7 @@ export const serbiaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Zoo Novi Pazar",
-                  "text": "Helyi állatkert a történelmi Stari Ras közelében.",
+                  "text": "A Novi Pazar-i Állatkert a középkori Stari Ras erőd közelében található.",
                   "category": "recreational",
                   "coords": [
                         20.388951,
@@ -983,7 +983,7 @@ export const serbiaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Zoo Novi Pazar",
-                  "text": "O grădină zoologică locală situată lângă situl istoric Stari Ras.",
+                  "text": "Grădina Zoologică Novi Pazar este situată lângă cetatea medievală Stari Ras.",
                   "category": "recreational",
                   "coords": [
                         20.388951,
@@ -994,7 +994,7 @@ export const serbiaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Zoo Novi Pazar",
-                  "text": "A local zoo located near the historic Stari Ras site.",
+                  "text": "Zoo Novi Pazar is located near the medieval fortress of Stari Ras.",
                   "category": "recreational",
                   "coords": [
                         20.388951,
@@ -1060,7 +1060,7 @@ export const serbiaHistoryV2: POI[] = [
             },
             {
                   "name": "Fence - not possible to cross",
-                  "text": "Ein Aussichtspunkt, an dem der Zugang durch einen Zaun begrenzt ist.",
+                  "text": "Ein Zaun, der das Durchqueren im Gebiet Pet Crkava unmöglich macht.",
                   "category": "natural",
                   "coords": [
                         20.501952,
@@ -1107,7 +1107,7 @@ export const serbiaHistoryV2: POI[] = [
             },
             {
                   "name": "Fence - not possible to cross",
-                  "text": "Kilátópont, ahol a hozzáférést kerítés korlátozza.",
+                  "text": "Egy kerítés, amely lehetetlenné teszi az átkelést Pet Crkava területén.",
                   "category": "natural",
                   "coords": [
                         20.501952,
@@ -1154,7 +1154,7 @@ export const serbiaHistoryV2: POI[] = [
             },
             {
                   "name": "Fence - not possible to cross",
-                  "text": "Un punct de belvedere unde accesul este restricționat de un gard.",
+                  "text": "Un gard care face imposibilă traversarea în zona Pet Crkava.",
                   "category": "natural",
                   "coords": [
                         20.501952,
@@ -1201,7 +1201,7 @@ export const serbiaHistoryV2: POI[] = [
             },
             {
                   "name": "Fence - not possible to cross",
-                  "text": "A viewpoint where access is restricted by a fence.",
+                  "text": "A fence that makes crossing impossible in the Pet Crkava area.",
                   "category": "natural",
                   "coords": [
                         20.501952,
@@ -2554,7 +2554,7 @@ export const serbiaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Hamami i Haxhi Beut",
-                  "text": "Eine historische osmanische Badeanlage in der Stadt Peja.",
+                  "text": "Das Hamami i Haxhi Beut ist ein osmanisches Bad nahe dem serbisch-orthodoxen Patriarchenkloster Peć.",
                   "category": "historical",
                   "coords": [
                         20.296782,
@@ -2572,7 +2572,7 @@ export const serbiaHistoryV2: POI[] = [
             },
             {
                   "name": "Mulliri i Haxhi Zekës",
-                  "text": "Eine historische Mühle in Peja, die heute als Museum dient.",
+                  "text": "Die Mühle von Haxhi Zeka (Mulliri i Haxhi Zekës) ist heute ein Museum nahe dem Patriarchenkloster Peć.",
                   "category": "museum",
                   "coords": [
                         20.299485,
@@ -2581,7 +2581,7 @@ export const serbiaHistoryV2: POI[] = [
             },
             {
                   "name": "Rezervat Strikt i Natyrës \"Gubavc\"",
-                  "text": "Ein strenges Naturschutzgebiet in der Nähe von Peja.",
+                  "text": "Das strenge Naturschutzgebiet Gubavc liegt in der Nähe des Patriarchenklosters Peć.",
                   "category": "natural",
                   "coords": [
                         20.263114,
@@ -2628,7 +2628,7 @@ export const serbiaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Hamami i Haxhi Beut",
-                  "text": "Történelmi oszmán fürdő Peja városában.",
+                  "text": "A Hamami i Haxhi Beut egy oszmán fürdő a peći szerb ortodox pátriárka kolostor közelében.",
                   "category": "historical",
                   "coords": [
                         20.296782,
@@ -2646,7 +2646,7 @@ export const serbiaHistoryV2: POI[] = [
             },
             {
                   "name": "Mulliri i Haxhi Zekës",
-                  "text": "Történelmi malom Pejában, amely ma múzeumként működik.",
+                  "text": "A Haxhi Zeka-malom (Mulliri i Haxhi Zekës) ma múzeum a peći pátriárka kolostor közelében.",
                   "category": "museum",
                   "coords": [
                         20.299485,
@@ -2655,7 +2655,7 @@ export const serbiaHistoryV2: POI[] = [
             },
             {
                   "name": "Rezervat Strikt i Natyrës \"Gubavc\"",
-                  "text": "Szigorúan védett természetvédelmi terület Peja közelében.",
+                  "text": "A Gubavc szigorú természetvédelmi terület a peći pátriárka kolostor közelében található.",
                   "category": "natural",
                   "coords": [
                         20.263114,
@@ -2702,7 +2702,7 @@ export const serbiaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Hamami i Haxhi Beut",
-                  "text": "O baie otomană istorică situată în orașul Peja.",
+                  "text": "Hamami i Haxhi Beut este o baie otomană lângă mănăstirea patriarhală ortodoxă sârbă de la Peć.",
                   "category": "historical",
                   "coords": [
                         20.296782,
@@ -2720,7 +2720,7 @@ export const serbiaHistoryV2: POI[] = [
             },
             {
                   "name": "Mulliri i Haxhi Zekës",
-                  "text": "O moară istorică în Peja, care astăzi funcționează ca muzeu.",
+                  "text": "Moara lui Haxhi Zeka (Mulliri i Haxhi Zekës) este acum un muzeu lângă mănăstirea patriarhală de la Peć.",
                   "category": "museum",
                   "coords": [
                         20.299485,
@@ -2729,7 +2729,7 @@ export const serbiaHistoryV2: POI[] = [
             },
             {
                   "name": "Rezervat Strikt i Natyrës \"Gubavc\"",
-                  "text": "O rezervație naturală strictă situată în apropiere de Peja.",
+                  "text": "Rezervația strictă a naturii Gubavc se află lângă mănăstirea patriarhală de la Peć.",
                   "category": "natural",
                   "coords": [
                         20.263114,
@@ -2776,7 +2776,7 @@ export const serbiaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Hamami i Haxhi Beut",
-                  "text": "A historical Ottoman bathhouse located in the city of Peja.",
+                  "text": "Hamami i Haxhi Beut is an Ottoman bathhouse near the Serbian Orthodox Patriarchate of Peć.",
                   "category": "historical",
                   "coords": [
                         20.296782,
@@ -2794,7 +2794,7 @@ export const serbiaHistoryV2: POI[] = [
             },
             {
                   "name": "Mulliri i Haxhi Zekës",
-                  "text": "A historic mill in Peja that now serves as a museum.",
+                  "text": "The Haxhi Zeka Mill (Mulliri i Haxhi Zekës) is now a museum near the Peć Patriarchate.",
                   "category": "museum",
                   "coords": [
                         20.299485,
@@ -2803,7 +2803,7 @@ export const serbiaHistoryV2: POI[] = [
             },
             {
                   "name": "Rezervat Strikt i Natyrës \"Gubavc\"",
-                  "text": "A strict nature reserve located near Peja.",
+                  "text": "The strict nature reserve Gubavc is located near the Peć Patriarchate.",
                   "category": "natural",
                   "coords": [
                         20.263114,
@@ -2914,7 +2914,7 @@ export const serbiaHistoryV2: POI[] = [
             },
             {
                   "name": "Zona e Mbrojtur e Kishnicës",
-                  "text": "Geschütztes Naturgebiet in der Nähe des Klosters Gračanica.",
+                  "text": "Die Schutzzone Kishnica liegt nahe dem Kloster Gračanica.",
                   "category": "natural",
                   "coords": [
                         21.209014,
@@ -2923,7 +2923,7 @@ export const serbiaHistoryV2: POI[] = [
             },
             {
                   "name": "Nekropoli Verior",
-                  "text": "Antike Begräbnisstätte der römischen Stadt Ulpiana.",
+                  "text": "Die Nördliche Nekropole ist eine historische Grabstätte in Gračanica.",
                   "category": "historical",
                   "coords": [
                         21.174045,
@@ -2961,7 +2961,7 @@ export const serbiaHistoryV2: POI[] = [
             },
             {
                   "name": "Zona e Mbrojtur e Kishnicës",
-                  "text": "Védett természeti terület a Gračanica-kolostor közelében.",
+                  "text": "A Kishnica védett övezet a gračanicai kolostor közelében található.",
                   "category": "natural",
                   "coords": [
                         21.209014,
@@ -2970,7 +2970,7 @@ export const serbiaHistoryV2: POI[] = [
             },
             {
                   "name": "Nekropoli Verior",
-                  "text": "Ulpiana római városának ókori temetkezési helye.",
+                  "text": "Az Északi nekropolisz egy történelmi temető Gračanicában.",
                   "category": "historical",
                   "coords": [
                         21.174045,
@@ -3008,7 +3008,7 @@ export const serbiaHistoryV2: POI[] = [
             },
             {
                   "name": "Zona e Mbrojtur e Kishnicës",
-                  "text": "Zonă naturală protejată lângă mănăstirea Gračanica.",
+                  "text": "Zona protejată Kishnica este situată lângă mănăstirea Gračanica.",
                   "category": "natural",
                   "coords": [
                         21.209014,
@@ -3017,7 +3017,7 @@ export const serbiaHistoryV2: POI[] = [
             },
             {
                   "name": "Nekropoli Verior",
-                  "text": "Necropolă antică a orașului roman Ulpiana.",
+                  "text": "Necropola de Nord este un cimitir istoric în Gračanica.",
                   "category": "historical",
                   "coords": [
                         21.174045,
@@ -3055,7 +3055,7 @@ export const serbiaHistoryV2: POI[] = [
             },
             {
                   "name": "Zona e Mbrojtur e Kishnicës",
-                  "text": "Protected natural area near Gračanica Monastery.",
+                  "text": "The protected zone of Kishnica is near the Gračanica monastery.",
                   "category": "natural",
                   "coords": [
                         21.209014,
@@ -3064,7 +3064,7 @@ export const serbiaHistoryV2: POI[] = [
             },
             {
                   "name": "Northern Necropolis",
-                  "text": "Ancient burial site of the Roman city of Ulpiana.",
+                  "text": "The Northern Necropolis is a historical burial ground in Gračanica.",
                   "category": "historical",
                   "coords": [
                         21.174045,
@@ -3787,7 +3787,7 @@ export const serbiaHistoryV2: POI[] = [
             },
             {
                   "name": "Sloboda",
-                  "text": "Ein Denkmal namens Freiheit bei Novo Hopovo.",
+                  "text": "Das Freiheitsdenkmal steht in Hopovo Novo und symbolisiert die Freiheit.",
                   "category": "historical",
                   "coords": [
                         19.839932,
@@ -3852,7 +3852,7 @@ export const serbiaHistoryV2: POI[] = [
             },
             {
                   "name": "Szabadság-emlékmű",
-                  "text": "Szabadság nevű emlékmű Novo Hopovo közelében.",
+                  "text": "A Szabadság-emlékmű Hopovo Novóban áll, a szabadságot szimbolizálva.",
                   "category": "historical",
                   "coords": [
                         19.839932,
@@ -3917,7 +3917,7 @@ export const serbiaHistoryV2: POI[] = [
             },
             {
                   "name": "Sloboda",
-                  "text": "Un monument numit Libertate situat lângă Novo Hopovo.",
+                  "text": "Monumentul Libertății se află în Hopovo Novo, simbolizând libertatea.",
                   "category": "historical",
                   "coords": [
                         19.839932,
@@ -3982,7 +3982,7 @@ export const serbiaHistoryV2: POI[] = [
             },
             {
                   "name": "Freedom",
-                  "text": "A monument named Freedom located near Novo Hopovo.",
+                  "text": "The Freedom monument stands in Hopovo Novo, symbolizing liberty.",
                   "category": "historical",
                   "coords": [
                         19.839932,

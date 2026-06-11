@@ -199,7 +199,7 @@ imageHint: "Esja mountain range seen from Reykjavik",
             },
             {
                   "name": "Snækollur",
-                  "text": "Der höchste Gipfel des Kerlingarfjöll-Gebirges.",
+                  "text": "Gipfel im Kerlingarfjöll-Vulkangebirge.",
                   "category": "landmark",
                   "coords": [
                         -19.228755,
@@ -228,7 +228,7 @@ imageHint: "Esja mountain range seen from Reykjavik",
             },
             {
                   "name": "Snækollur",
-                  "text": "A Kerlingarfjöll-hegység legmagasabb csúcsa.",
+                  "text": "Csúcs a Kerlingarfjöll vulkáni hegyvonulatban.",
                   "category": "landmark",
                   "coords": [
                         -19.228755,
@@ -257,7 +257,7 @@ imageHint: "Esja mountain range seen from Reykjavik",
             },
             {
                   "name": "Snækollur",
-                  "text": "Cel mai înalt vârf din lanțul muntos Kerlingarfjöll.",
+                  "text": "Vârf în masivul vulcanic Kerlingarfjöll.",
                   "category": "landmark",
                   "coords": [
                         -19.228755,
@@ -286,7 +286,7 @@ imageHint: "Esja mountain range seen from Reykjavik",
             },
             {
                   "name": "Snækollur",
-                  "text": "The highest peak of the Kerlingarfjöll mountain range.",
+                  "text": "Peak in the Kerlingarfjöll volcanic mountain range.",
                   "category": "landmark",
                   "coords": [
                         -19.228755,
@@ -851,7 +851,7 @@ imageHint: "Baula conical rhyolite mountain",
             },
             {
                   "name": "Gráfell",
-                  "text": "Ein Berg in der Þórsmörk-Region im Süden Islands.",
+                  "text": "Berg im Þórsmörk-Tal.",
                   "category": "landmark",
                   "coords": [
                         -19.46417,
@@ -869,7 +869,7 @@ imageHint: "Baula conical rhyolite mountain",
             },
             {
                   "name": "Útigönguhöfði",
-                  "text": "Ein steiler Berggipfel im Þórsmörk-Naturschutzgebiet.",
+                  "text": "Hügel im Þórsmörk-Tal.",
                   "category": "landmark",
                   "coords": [
                         -19.458333,
@@ -878,7 +878,7 @@ imageHint: "Baula conical rhyolite mountain",
             },
             {
                   "name": "Stakkholtsgjá",
-                  "text": "Eine beeindruckende Schlucht in der Nähe von Þórsmörk in Island.",
+                  "text": "Die Schlucht Stakkholtsgjá in Þórsmörk mit einem Wasserfall im Inneren.",
                   "category": "landmark",
                   "coords": [
                         -19.540245,
@@ -898,7 +898,7 @@ imageHint: "Baula conical rhyolite mountain",
             },
             {
                   "name": "Gráfell",
-                  "text": "Hegy az izlandi Þórsmörk régióban, az ország déli részén.",
+                  "text": "Hegy a Þórsmörk-völgyben.",
                   "category": "landmark",
                   "coords": [
                         -19.46417,
@@ -916,7 +916,7 @@ imageHint: "Baula conical rhyolite mountain",
             },
             {
                   "name": "Útigönguhöfði",
-                  "text": "Meredek hegycsúcs a Þórsmörk természetvédelmi területen.",
+                  "text": "Domb a Þórsmörk-völgyben.",
                   "category": "landmark",
                   "coords": [
                         -19.458333,
@@ -925,7 +925,7 @@ imageHint: "Baula conical rhyolite mountain",
             },
             {
                   "name": "Stakkholtsgjá",
-                  "text": "Látványos szurdok Izlandon, Þórsmörk közelében.",
+                  "text": "A Stakkholtsgjá-szurdok Þórsmörkben, benne egy vízeséssel.",
                   "category": "landmark",
                   "coords": [
                         -19.540245,
@@ -945,7 +945,7 @@ imageHint: "Baula conical rhyolite mountain",
             },
             {
                   "name": "Gráfell",
-                  "text": "Un munte în regiunea Þórsmörk din sudul Islandei.",
+                  "text": "Munte în valea Þórsmörk.",
                   "category": "landmark",
                   "coords": [
                         -19.46417,
@@ -963,7 +963,7 @@ imageHint: "Baula conical rhyolite mountain",
             },
             {
                   "name": "Útigönguhöfði",
-                  "text": "Un vârf muntos abrupt în rezervația naturală Þórsmörk.",
+                  "text": "Deal în valea Þórsmörk.",
                   "category": "landmark",
                   "coords": [
                         -19.458333,
@@ -972,7 +972,7 @@ imageHint: "Baula conical rhyolite mountain",
             },
             {
                   "name": "Stakkholtsgjá",
-                  "text": "Un canion impresionant situat lângă Þórsmörk, în Islanda.",
+                  "text": "Canionul Stakkholtsgjá din Þórsmörk, cu o cascadă în interior.",
                   "category": "landmark",
                   "coords": [
                         -19.540245,
@@ -992,7 +992,7 @@ imageHint: "Baula conical rhyolite mountain",
             },
             {
                   "name": "Gráfell",
-                  "text": "A mountain in the Þórsmörk region of southern Iceland.",
+                  "text": "Mountain in the Þórsmörk valley.",
                   "category": "landmark",
                   "coords": [
                         -19.46417,
@@ -1010,7 +1010,7 @@ imageHint: "Baula conical rhyolite mountain",
             },
             {
                   "name": "Útigönguhöfði",
-                  "text": "A steep mountain peak in the Þórsmörk nature reserve.",
+                  "text": "Hill in the Þórsmörk valley.",
                   "category": "landmark",
                   "coords": [
                         -19.458333,
@@ -1019,7 +1019,7 @@ imageHint: "Baula conical rhyolite mountain",
             },
             {
                   "name": "Stakkholtsgjá",
-                  "text": "An impressive canyon located near Þórsmörk in Iceland.",
+                  "text": "Stakkholtsgjá canyon in Þórsmörk, featuring a waterfall inside.",
                   "category": "landmark",
                   "coords": [
                         -19.540245,
@@ -2592,7 +2592,7 @@ imageHint: "Maelifell green volcano cone",
       "de": [
             {
                   "name": "Eldborg",
-                  "text": "Eldborg ist ein Naturschutzgebiet bei Þríhnúkagígur.",
+                  "text": "Der Vulkankrater Eldborg in der Nähe von Þríhnúkagígur.",
                   "category": "natural",
                   "coords": [
                         -21.638267,
@@ -2601,7 +2601,7 @@ imageHint: "Maelifell green volcano cone",
             },
             {
                   "name": "Bláfjallafólkvangur",
-                  "text": "Bláfjallafólkvangur ist ein Naturschutzgebiet bei Þríhnúkagígur.",
+                  "text": "Bláfjallafólkvangur, ein Schutzgebiet mit blauen Bergen und Wanderwegen bei Þríhnúkagígur.",
                   "category": "natural",
                   "coords": [
                         -21.688026,
@@ -2610,7 +2610,7 @@ imageHint: "Maelifell green volcano cone",
             },
             {
                   "name": "Þríhnúkar",
-                  "text": "Þríhnúkar ist ein Berggipfel in der Nähe von Þríhnúkagígur.",
+                  "text": "Vulkanischer Krater mit einer einzigartigen Magmakammer in Þríhnúkagígur.",
                   "category": "landmark",
                   "coords": [
                         -21.703027,
@@ -2621,7 +2621,7 @@ imageHint: "Maelifell green volcano cone",
       "hu": [
             {
                   "name": "Eldborg",
-                  "text": "A Eldborg egy természetvédelmi terület Þríhnúkagígur közelében.",
+                  "text": "Az Eldborg vulkáni kráter Þríhnúkagígur közelében.",
                   "category": "natural",
                   "coords": [
                         -21.638267,
@@ -2630,7 +2630,7 @@ imageHint: "Maelifell green volcano cone",
             },
             {
                   "name": "Bláfjallafólkvangur",
-                  "text": "A Bláfjallafólkvangur egy természetvédelmi terület Þríhnúkagígur közelében.",
+                  "text": "Bláfjallafólkvangur, egy védett terület kék hegyekkel és túraútvonalakkal Þríhnúkagígur mellett.",
                   "category": "natural",
                   "coords": [
                         -21.688026,
@@ -2639,7 +2639,7 @@ imageHint: "Maelifell green volcano cone",
             },
             {
                   "name": "Þríhnúkar",
-                  "text": "A Þríhnúkar egy hegycsúcs Þríhnúkagígur közelében.",
+                  "text": "Vulkáni kráter egyedi magmakamrával a Þríhnúkagígurban.",
                   "category": "landmark",
                   "coords": [
                         -21.703027,
@@ -2650,7 +2650,7 @@ imageHint: "Maelifell green volcano cone",
       "ro": [
             {
                   "name": "Eldborg",
-                  "text": "Eldborg este o rezervație naturală lângă Þríhnúkagígur.",
+                  "text": "Craterele vulcanice Eldborg lângă Þríhnúkagígur.",
                   "category": "natural",
                   "coords": [
                         -21.638267,
@@ -2659,7 +2659,7 @@ imageHint: "Maelifell green volcano cone",
             },
             {
                   "name": "Bláfjallafólkvangur",
-                  "text": "Bláfjallafólkvangur este o rezervație naturală lângă Þríhnúkagígur.",
+                  "text": "Bláfjallafólkvangur, o arie protejată cu munți albaștri și trasee de drumeție lângă Þríhnúkagígur.",
                   "category": "natural",
                   "coords": [
                         -21.688026,
@@ -2668,7 +2668,7 @@ imageHint: "Maelifell green volcano cone",
             },
             {
                   "name": "Þríhnúkar",
-                  "text": "Þríhnúkar este un vârf muntos lângă Þríhnúkagígur.",
+                  "text": "Cratere vulcanic cu o cameră magmatică unică în Þríhnúkagígur.",
                   "category": "landmark",
                   "coords": [
                         -21.703027,
@@ -2679,7 +2679,7 @@ imageHint: "Maelifell green volcano cone",
       "en": [
             {
                   "name": "Eldborg",
-                  "text": "Eldborg is a nature reserve near Þríhnúkagígur.",
+                  "text": "Eldborg, a volcanic crater near Þríhnúkagígur.",
                   "category": "natural",
                   "coords": [
                         -21.638267,
@@ -2688,7 +2688,7 @@ imageHint: "Maelifell green volcano cone",
             },
             {
                   "name": "Bláfjallafólkvangur",
-                  "text": "Bláfjallafólkvangur is a nature reserve near Þríhnúkagígur.",
+                  "text": "Bláfjallafólkvangur, a protected area with blue mountains and hiking trails near Þríhnúkagígur.",
                   "category": "natural",
                   "coords": [
                         -21.688026,
@@ -2697,7 +2697,7 @@ imageHint: "Maelifell green volcano cone",
             },
             {
                   "name": "Þríhnúkar",
-                  "text": "Þríhnúkar is a mountain peak near Þríhnúkagígur.",
+                  "text": "Volcanic crater with a unique magma chamber in Þríhnúkagígur.",
                   "category": "landmark",
                   "coords": [
                         -21.703027,
@@ -2799,7 +2799,7 @@ imageHint: "Kaldidalur highland road landscape",
       "de": [
             {
                   "name": "Kinnafjall",
-                  "text": "Ein Berggipfel in der Region Öksnadalsheiði.",
+                  "text": "Berg auf der Öxnadalsheiði-Hochebene.",
                   "category": "landmark",
                   "coords": [
                         -18.77965,
@@ -2810,7 +2810,7 @@ imageHint: "Kaldidalur highland road landscape",
       "hu": [
             {
                   "name": "Kinnafjall",
-                  "text": "Egy hegycsúcs Öksnadalsheiði régiójában.",
+                  "text": "Hegy az Öxnadalsheiði-fennsíkon.",
                   "category": "landmark",
                   "coords": [
                         -18.77965,
@@ -2821,7 +2821,7 @@ imageHint: "Kaldidalur highland road landscape",
       "ro": [
             {
                   "name": "Kinnafjall",
-                  "text": "Un vârf montan în regiunea Öksnadalsheiði.",
+                  "text": "Munte pe platoul Öxnadalsheiði.",
                   "category": "landmark",
                   "coords": [
                         -18.77965,
@@ -2832,7 +2832,7 @@ imageHint: "Kaldidalur highland road landscape",
       "en": [
             {
                   "name": "Kinnafjall",
-                  "text": "A mountain peak in the Öksnadalsheiði region.",
+                  "text": "Mountain on the Öxnadalsheiði plateau.",
                   "category": "landmark",
                   "coords": [
                         -18.77965,

@@ -16,7 +16,7 @@ export const irelandNatureV2: POI[] = [
             },
             {
                   "name": "Knockane",
-                  "text": "Ein Hügel in der irischen Grafschaft Tipperary.",
+                  "text": "Ein Gipfel in den Silvermines Mountains.",
                   "category": "landmark",
                   "coords": [
                         -8.230453,
@@ -25,7 +25,7 @@ export const irelandNatureV2: POI[] = [
             },
             {
                   "name": "Knockteige",
-                  "text": "Ein Gipfel in der Region der Silvermines Mountains.",
+                  "text": "Ein Gipfel in den Silvermines Mountains.",
                   "category": "landmark",
                   "coords": [
                         -8.16396,
@@ -34,7 +34,7 @@ export const irelandNatureV2: POI[] = [
             },
             {
                   "name": "Knockbrack",
-                  "text": "Ein Berggipfel in Irland.",
+                  "text": "Ein Gipfel in den Silvermines Mountains.",
                   "category": "landmark",
                   "coords": [
                         -8.20653,
@@ -54,7 +54,7 @@ export const irelandNatureV2: POI[] = [
             },
             {
                   "name": "Knockane",
-                  "text": "Domb az írországi Tipperary megyében.",
+                  "text": "Csúcs a Silvermines-hegységben.",
                   "category": "landmark",
                   "coords": [
                         -8.230453,
@@ -63,7 +63,7 @@ export const irelandNatureV2: POI[] = [
             },
             {
                   "name": "Knockteige",
-                  "text": "Hegycsúcs a Silvermines-hegység régiójában.",
+                  "text": "Csúcs a Silvermines-hegységben.",
                   "category": "landmark",
                   "coords": [
                         -8.16396,
@@ -72,7 +72,7 @@ export const irelandNatureV2: POI[] = [
             },
             {
                   "name": "Knockbrack",
-                  "text": "Hegycsúcs Írországban.",
+                  "text": "Csúcs a Silvermines-hegységben.",
                   "category": "landmark",
                   "coords": [
                         -8.20653,
@@ -92,7 +92,7 @@ export const irelandNatureV2: POI[] = [
             },
             {
                   "name": "Knockane",
-                  "text": "Un deal în comitatul Tipperary, Irlanda.",
+                  "text": "Un vârf în Munții Silvermines.",
                   "category": "landmark",
                   "coords": [
                         -8.230453,
@@ -101,7 +101,7 @@ export const irelandNatureV2: POI[] = [
             },
             {
                   "name": "Knockteige",
-                  "text": "Un vârf în regiunea munților Silvermines.",
+                  "text": "Un vârf în Munții Silvermines.",
                   "category": "landmark",
                   "coords": [
                         -8.16396,
@@ -110,7 +110,7 @@ export const irelandNatureV2: POI[] = [
             },
             {
                   "name": "Knockbrack",
-                  "text": "Un vârf muntos în Irlanda.",
+                  "text": "Un vârf în Munții Silvermines.",
                   "category": "landmark",
                   "coords": [
                         -8.20653,
@@ -130,7 +130,7 @@ export const irelandNatureV2: POI[] = [
             },
             {
                   "name": "Knockane",
-                  "text": "A hill in County Tipperary, Ireland.",
+                  "text": "A peak in the Silvermines Mountains.",
                   "category": "landmark",
                   "coords": [
                         -8.230453,
@@ -139,7 +139,7 @@ export const irelandNatureV2: POI[] = [
             },
             {
                   "name": "Knockteige",
-                  "text": "A peak in the Silvermines Mountains region.",
+                  "text": "A peak in the Silvermines Mountains.",
                   "category": "landmark",
                   "coords": [
                         -8.16396,
@@ -148,7 +148,7 @@ export const irelandNatureV2: POI[] = [
             },
             {
                   "name": "Knockbrack",
-                  "text": "A mountain peak in Ireland.",
+                  "text": "A peak in the Silvermines Mountains.",
                   "category": "landmark",
                   "coords": [
                         -8.20653,
@@ -232,7 +232,7 @@ export const irelandNatureV2: POI[] = [
             },
             {
                   "name": "St. Thomas's Church",
-                  "text": "Ein Gotteshaus in der Gegend von Lough Gowna.",
+                  "text": "Eine Kirche am Ufer des Lough Gowna.",
                   "category": "religious",
                   "coords": [
                         -7.611864,
@@ -288,7 +288,7 @@ export const irelandNatureV2: POI[] = [
             },
             {
                   "name": "St. Thomas's Church",
-                  "text": "Templom Lough Gowna területén.",
+                  "text": "Templom a Lough Gowna partján.",
                   "category": "religious",
                   "coords": [
                         -7.611864,
@@ -344,7 +344,7 @@ export const irelandNatureV2: POI[] = [
             },
             {
                   "name": "St. Thomas's Church",
-                  "text": "Un lăcaș de cult situat în zona Lough Gowna.",
+                  "text": "O biserică pe malul lacului Lough Gowna.",
                   "category": "religious",
                   "coords": [
                         -7.611864,
@@ -400,7 +400,7 @@ export const irelandNatureV2: POI[] = [
             },
             {
                   "name": "St. Thomas's Church",
-                  "text": "A place of worship located in the Lough Gowna area.",
+                  "text": "A church on the shore of Lough Gowna.",
                   "category": "religious",
                   "coords": [
                         -7.611864,
@@ -610,7 +610,7 @@ export const irelandNatureV2: POI[] = [
       "de": [
             {
                   "name": "Galtymore",
-                  "text": "Der höchste Gipfel der Galtee Mountains in Irland.",
+                  "text": "Höchster Berg der Galtee Mountains (919 m), Gipfel des Gebirges.",
                   "category": "landmark",
                   "coords": [
                         -8.179176,
@@ -619,7 +619,7 @@ export const irelandNatureV2: POI[] = [
             },
             {
                   "name": "Knockeenatoung",
-                  "text": "Ein Berggipfel in den Galtee Mountains.",
+                  "text": "Ein Gipfel in den Galtee Mountains.",
                   "category": "landmark",
                   "coords": [
                         -8.155049,
@@ -628,7 +628,7 @@ export const irelandNatureV2: POI[] = [
             },
             {
                   "name": "O'Loughman's Castle",
-                  "text": "Historische Ruinen in der Region der Galtee Mountains.",
+                  "text": "O'Loughman's Castle, eine Burgruine in den Galtee Mountains auf einem Felsen.",
                   "category": "historical",
                   "coords": [
                         -8.124025,
@@ -639,7 +639,7 @@ export const irelandNatureV2: POI[] = [
       "hu": [
             {
                   "name": "Galtymore",
-                  "text": "Az írországi Galtee-hegység legmagasabb csúcsa.",
+                  "text": "A Galtee-hegység legmagasabb hegye (919 m), a hegység csúcsa.",
                   "category": "landmark",
                   "coords": [
                         -8.179176,
@@ -648,7 +648,7 @@ export const irelandNatureV2: POI[] = [
             },
             {
                   "name": "Knockeenatoung",
-                  "text": "Egy hegycsúcs a Galtee-hegységben.",
+                  "text": "Csúcs a Galtee-hegységben.",
                   "category": "landmark",
                   "coords": [
                         -8.155049,
@@ -657,7 +657,7 @@ export const irelandNatureV2: POI[] = [
             },
             {
                   "name": "O'Loughman's Castle",
-                  "text": "Történelmi romok a Galtee-hegység vidékén.",
+                  "text": "O'Loughman's Castle, egy várrom a Galtee-hegységben egy sziklás kiszögellésen.",
                   "category": "historical",
                   "coords": [
                         -8.124025,
@@ -668,7 +668,7 @@ export const irelandNatureV2: POI[] = [
       "ro": [
             {
                   "name": "Galtymore",
-                  "text": "Cel mai înalt vârf din Munții Galtee, în Irlanda.",
+                  "text": "Cel mai înalt munte din Munții Galtee (919 m), vârful lanțului.",
                   "category": "landmark",
                   "coords": [
                         -8.179176,
@@ -677,7 +677,7 @@ export const irelandNatureV2: POI[] = [
             },
             {
                   "name": "Knockeenatoung",
-                  "text": "Un vârf montan în Munții Galtee.",
+                  "text": "Un vârf în Munții Galtee.",
                   "category": "landmark",
                   "coords": [
                         -8.155049,
@@ -686,7 +686,7 @@ export const irelandNatureV2: POI[] = [
             },
             {
                   "name": "O'Loughman's Castle",
-                  "text": "Ruine istorice în regiunea Munților Galtee.",
+                  "text": "Castelul O'Loughman, o ruină în Munții Galtee, pe un afloriment stâncos.",
                   "category": "historical",
                   "coords": [
                         -8.124025,
@@ -697,7 +697,7 @@ export const irelandNatureV2: POI[] = [
       "en": [
             {
                   "name": "Galtymore",
-                  "text": "The highest peak in the Galtee Mountains of Ireland.",
+                  "text": "Highest mountain in the Galtee Mountains (919 m), the peak of the range.",
                   "category": "landmark",
                   "coords": [
                         -8.179176,
@@ -706,7 +706,7 @@ export const irelandNatureV2: POI[] = [
             },
             {
                   "name": "Knockeenatoung",
-                  "text": "A mountain peak located within the Galtee Mountains.",
+                  "text": "A peak in the Galtee Mountains.",
                   "category": "landmark",
                   "coords": [
                         -8.155049,
@@ -715,7 +715,7 @@ export const irelandNatureV2: POI[] = [
             },
             {
                   "name": "O'Loughman's Castle",
-                  "text": "Historical ruins located in the Galtee Mountains region.",
+                  "text": "O'Loughman's Castle, a castle ruin in the Galtee Mountains on a rocky outcrop.",
                   "category": "historical",
                   "coords": [
                         -8.124025,

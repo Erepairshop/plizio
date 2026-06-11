@@ -126,7 +126,304 @@ export const poiExtraBhutanNatureV2: POI[] = [
       pt: [],
       fr: [],}, image: "/poi-images/bt-royal-manas-national-park-nature-v2.webp"},
   {
-    id: "bt-phrumsengla-national-park-nature-v2",
+    id: "bt-phrumsengla-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tingkadrak Nye",
+                  "text": "Die Kultstätte Tingkadrak Nye befindet sich in der unberührten Naturlandschaft des Phrumsengla-Nationalparks.",
+                  "category": "religious",
+                  "coords": [
+                        90.936252,
+                        27.267752
+                  ]
+            },
+            {
+                  "name": "Perpong Chorten",
+                  "text": "Der Perpong-Chörten ist eine heilige buddhistische Stätte, eingebettet in die dichten Wälder des Phrumsengla-Nationalparks.",
+                  "category": "religious",
+                  "coords": [
+                        90.939759,
+                        27.269039
+                  ]
+            },
+            {
+                  "name": "Shingkhar Kurjee",
+                  "text": "Shingkhar Kurjee ist ein abgelegenes buddhistisches Heiligtum, das sich im Schutzgebiet des bergigen Phrumsengla-Nationalparks befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        90.948342,
+                        27.271687
+                  ]
+            },
+            {
+                  "name": "Jasaibee Lhakhang",
+                  "text": "Ein bhutanischer Tempel, der einen spirituellen Rückzugsort inmitten der hochgelegenen Wälder des Nationalparks bietet.",
+                  "category": "religious",
+                  "coords": [
+                        90.951081,
+                        27.256165
+                  ]
+            },
+            {
+                  "name": "Moyompong chorten",
+                  "text": "Ein traditioneller buddhistischer Stupa im rauen, bergigen Gelände des Phrumsengla-Nationalparks.",
+                  "category": "religious",
+                  "coords": [
+                        90.942416,
+                        27.256211
+                  ]
+            },
+            {
+                  "name": "Womphug Lhakhang",
+                  "text": "Eine abgelegene Kultstätte, die Bergblick und einen ruhigen Ort für Meditation in der Region Phrumsengla bietet.",
+                  "category": "religious",
+                  "coords": [
+                        90.946516,
+                        27.250359
+                  ]
+            },
+            {
+                  "name": "Peshing Lhakhang (old)",
+                  "text": "Der historische alte buddhistische Tempel von Peshing dient den lokalen Gläubigen und ist von der geschützten Natur von Phrumsengla umgeben.",
+                  "category": "landmark",
+                  "coords": [
+                        90.943871,
+                        27.248146
+                  ]
+            },
+            {
+                  "name": "Lhakhang",
+                  "text": "Ein klassischer bhutanischer buddhistischer Tempel, der sich durch seine traditionelle Architektur inmitten der weiten Wildnis des Parks auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        90.944544,
+                        27.256894
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tingkadrak Nye",
+                  "text": "A Tingkadrak Nye kultuszhely a Phrumsengla Nemzeti Park érintetlen természeti táján található.",
+                  "category": "religious",
+                  "coords": [
+                        90.936252,
+                        27.267752
+                  ]
+            },
+            {
+                  "name": "Perpong Chorten",
+                  "text": "A Perpong csörten egy szent buddhista hely, amely a Phrumsengla Nemzeti Park sűrű erdeibe ágyazódik.",
+                  "category": "religious",
+                  "coords": [
+                        90.939759,
+                        27.269039
+                  ]
+            },
+            {
+                  "name": "Shingkhar Kurjee",
+                  "text": "A Shingkhar Kurjee egy félreeső buddhista szentély, amely a hegyvidéki Phrumsengla Nemzeti Park védett területén található.",
+                  "category": "landmark",
+                  "coords": [
+                        90.948342,
+                        27.271687
+                  ]
+            },
+            {
+                  "name": "Jasaibee Lhakhang",
+                  "text": "Bhutáni templom, amely spirituális menedéket nyújt a nemzeti park magasan fekvő erdei között.",
+                  "category": "religious",
+                  "coords": [
+                        90.951081,
+                        27.256165
+                  ]
+            },
+            {
+                  "name": "Moyompong chorten",
+                  "text": "Hagyományos buddhista sztúpa a Phrumsengla Nemzeti Park zord, hegyvidéki terepén.",
+                  "category": "religious",
+                  "coords": [
+                        90.942416,
+                        27.256211
+                  ]
+            },
+            {
+                  "name": "Womphug Lhakhang",
+                  "text": "Távoli imahely, amely hegyi kilátást és csendes teret kínál a meditációhoz a Phrumsengla régióban.",
+                  "category": "religious",
+                  "coords": [
+                        90.946516,
+                        27.250359
+                  ]
+            },
+            {
+                  "name": "Peshing Lhakhang (old)",
+                  "text": "Peshing történelmi, régi buddhista temploma a helyi hívőket szolgálja Phrumsengla védett természetének ölelésében.",
+                  "category": "landmark",
+                  "coords": [
+                        90.943871,
+                        27.248146
+                  ]
+            },
+            {
+                  "name": "Lhakhang",
+                  "text": "Klasszikus bhutáni buddhista templom, amelyet a park hatalmas vadonjában hagyományos építészete jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        90.944544,
+                        27.256894
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tingkadrak Nye",
+                  "text": "Lăcașul de cult Tingkadrak Nye este situat în peisajul natural virgin al Parcului Național Phrumsengla.",
+                  "category": "religious",
+                  "coords": [
+                        90.936252,
+                        27.267752
+                  ]
+            },
+            {
+                  "name": "Perpong Chorten",
+                  "text": "Chortenul Perpong este un loc sfânt budist, ascuns în pădurile dese ale Parcului Național Phrumsengla.",
+                  "category": "religious",
+                  "coords": [
+                        90.939759,
+                        27.269039
+                  ]
+            },
+            {
+                  "name": "Shingkhar Kurjee",
+                  "text": "Shingkhar Kurjee este un sanctuar budist izolat, situat în zona protejată a Parcului Național montan Phrumsengla.",
+                  "category": "landmark",
+                  "coords": [
+                        90.948342,
+                        27.271687
+                  ]
+            },
+            {
+                  "name": "Jasaibee Lhakhang",
+                  "text": "Un templu bhutanez care oferă un refugiu spiritual în mijlocul pădurilor de la mare altitudine ale parcului național.",
+                  "category": "religious",
+                  "coords": [
+                        90.951081,
+                        27.256165
+                  ]
+            },
+            {
+                  "name": "Moyompong chorten",
+                  "text": "O stupă budistă tradițională amplasată în terenul accidentat și muntos al Parcului Național Phrumsengla.",
+                  "category": "religious",
+                  "coords": [
+                        90.942416,
+                        27.256211
+                  ]
+            },
+            {
+                  "name": "Womphug Lhakhang",
+                  "text": "Un lăcaș de cult izolat care oferă vedere la munte și un spațiu liniștit pentru meditație în zona Phrumsengla.",
+                  "category": "religious",
+                  "coords": [
+                        90.946516,
+                        27.250359
+                  ]
+            },
+            {
+                  "name": "Peshing Lhakhang (old)",
+                  "text": "Vechiul templu budist istoric din Peshing deservește credincioșii locali, fiind înconjurat de natura protejată din Phrumsengla.",
+                  "category": "landmark",
+                  "coords": [
+                        90.943871,
+                        27.248146
+                  ]
+            },
+            {
+                  "name": "Lhakhang",
+                  "text": "Un templu budist bhutanez clasic, caracterizat de arhitectura sa tradițională, în mijlocul vastei sălbăticii a parcului.",
+                  "category": "landmark",
+                  "coords": [
+                        90.944544,
+                        27.256894
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tingkadrak Nye",
+                  "text": "The Tingkadrak Nye place of worship is located in the pristine natural landscape of the Phrumsengla National Park.",
+                  "category": "religious",
+                  "coords": [
+                        90.936252,
+                        27.267752
+                  ]
+            },
+            {
+                  "name": "Perpong Chorten",
+                  "text": "The Perpong Chorten is a sacred Buddhist site embedded in the dense forests of the Phrumsengla National Park.",
+                  "category": "religious",
+                  "coords": [
+                        90.939759,
+                        27.269039
+                  ]
+            },
+            {
+                  "name": "Shingkhar Kurjee",
+                  "text": "Shingkhar Kurjee is a remote Buddhist sanctuary located in the protected area of the mountainous Phrumsengla National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        90.948342,
+                        27.271687
+                  ]
+            },
+            {
+                  "name": "Jasaibee Lhakhang",
+                  "text": "A Bhutanese temple providing a spiritual retreat amidst the high-altitude forests of the national park.",
+                  "category": "religious",
+                  "coords": [
+                        90.951081,
+                        27.256165
+                  ]
+            },
+            {
+                  "name": "Moyompong chorten",
+                  "text": "A traditional Buddhist stupa set within the rugged, mountainous terrain of Phrumsengla National Park.",
+                  "category": "religious",
+                  "coords": [
+                        90.942416,
+                        27.256211
+                  ]
+            },
+            {
+                  "name": "Womphug Lhakhang",
+                  "text": "A remote place of worship offering mountain views and a quiet space for meditation in the Phrumsengla area.",
+                  "category": "religious",
+                  "coords": [
+                        90.946516,
+                        27.250359
+                  ]
+            },
+            {
+                  "name": "Peshing Lhakhang (old)",
+                  "text": "The historic old Buddhist temple of Peshing serves local worshippers, surrounded by the protected nature of Phrumsengla.",
+                  "category": "landmark",
+                  "coords": [
+                        90.943871,
+                        27.248146
+                  ]
+            },
+            {
+                  "name": "Lhakhang",
+                  "text": "A classic Bhutanese Buddhist temple characterized by its traditional architecture within the vast wilderness of the park.",
+                  "category": "landmark",
+                  "coords": [
+                        90.944544,
+                        27.256894
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "BT-33",
     coords: [90.95, 27.25],
@@ -249,7 +546,88 @@ export const poiExtraBhutanNatureV2: POI[] = [
       pt: [],
       fr: [],}, image: "/poi-images/bt-bumdeling-wildlife-sanctuary-nature-v2.webp"},
   {
-    id: "bt-sakteng-wildlife-sanctuary-nature-v2",
+    id: "bt-sakteng-wildlife-sanctuary-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chhorten",
+                  "text": "Dieser traditionelle Chörten liegt eingebettet in die unberührte Natur des Sakteng-Wildschutzgebiets in Bhutan.",
+                  "category": "landmark",
+                  "coords": [
+                        91.762553,
+                        27.40624
+                  ]
+            },
+            {
+                  "name": "Chhorten Dangrim",
+                  "text": "Der Chhorten Dangrim ist ein abgelegenes buddhistisches Heiligtum inmitten der dichten Wälder des Sakteng-Schutzgebiets.",
+                  "category": "landmark",
+                  "coords": [
+                        91.765375,
+                        27.398228
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chhorten",
+                  "text": "Ez a hagyományos csörten a bhutáni Sakteng Vadrezervátum érintetlen természetében fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        91.762553,
+                        27.40624
+                  ]
+            },
+            {
+                  "name": "Chhorten Dangrim",
+                  "text": "A Chhorten Dangrim egy eldugott buddhista szentély a Sakteng védett terület sűrű erdeiben.",
+                  "category": "landmark",
+                  "coords": [
+                        91.765375,
+                        27.398228
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chhorten",
+                  "text": "Acest chorten tradițional este amplasat în natura neatinsă a Sanctuarului Faunei Sălbatice Sakteng din Bhutan.",
+                  "category": "landmark",
+                  "coords": [
+                        91.762553,
+                        27.40624
+                  ]
+            },
+            {
+                  "name": "Chhorten Dangrim",
+                  "text": "Chhorten Dangrim este un sanctuar budist izolat în mijlocul pădurilor dese ale rezervației Sakteng.",
+                  "category": "landmark",
+                  "coords": [
+                        91.765375,
+                        27.398228
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chhorten",
+                  "text": "This traditional chorten is nestled within the pristine nature of the Sakteng Wildlife Sanctuary in Bhutan.",
+                  "category": "landmark",
+                  "coords": [
+                        91.762553,
+                        27.40624
+                  ]
+            },
+            {
+                  "name": "Chhorten Dangrim",
+                  "text": "The Chhorten Dangrim is a remote Buddhist sanctuary set amidst the dense forests of the Sakteng Sanctuary.",
+                  "category": "landmark",
+                  "coords": [
+                        91.765375,
+                        27.398228
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "BT-41",
     coords: [91.8, 27.35],
@@ -290,7 +668,52 @@ export const poiExtraBhutanNatureV2: POI[] = [
       pt: [],
       fr: [],}, image: "/poi-images/bt-sakteng-wildlife-sanctuary-nature-v2.webp"},
   {
-    id: "bt-gangkhar-puensum-nature-v2",
+    id: "bt-gangkhar-puensum-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gangkhar Puensum",
+                  "text": "Mit 7.570 Metern ist der Gangkhar Puensum der höchste unbestiegene Berg der Erde an der Grenze zwischen Bhutan und China.",
+                  "category": "natural",
+                  "coords": [
+                        90.45488,
+                        28.047287
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gangkhar Puensum",
+                  "text": "A 7570 méter magas Gangkhar Puensum a Föld legmagasabb megmászatlan hegye Bhután és Kína határán.",
+                  "category": "natural",
+                  "coords": [
+                        90.45488,
+                        28.047287
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gangkhar Puensum",
+                  "text": "Cu o înălțime de 7.570 de metri, Gangkhar Puensum este cel mai înalt munte neescaladat de pe Pământ, la granița dintre Bhutan și China.",
+                  "category": "natural",
+                  "coords": [
+                        90.45488,
+                        28.047287
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gangkhar Puensum",
+                  "text": "At 7,570 meters, Gangkhar Puensum is the world's highest unclimbed mountain, located on the Bhutan-China border.",
+                  "category": "natural",
+                  "coords": [
+                        90.45488,
+                        28.047287
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BT-GA",
     coords: [90.395, 28.046],
@@ -331,7 +754,52 @@ export const poiExtraBhutanNatureV2: POI[] = [
       pt: [],
       fr: [],}, image: "/poi-images/bt-gangkhar-puensum-nature-v2.webp"},
   {
-    id: "bt-jomolhari-nature-v2",
+    id: "bt-jomolhari-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jomolhari",
+                  "text": "Dieser heilige Gipfel an der Grenze zwischen Bhutan und Tibet ragt beeindruckende 7.326 Meter in die Höhe.",
+                  "category": "natural",
+                  "coords": [
+                        89.26783,
+                        27.827632
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jomolhari",
+                  "text": "Ez a szent hegycsúcs Bhután és Tibet határán emelkedik, lenyűgöző 7326 méteres magasságba.",
+                  "category": "natural",
+                  "coords": [
+                        89.26783,
+                        27.827632
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jomolhari",
+                  "text": "Acest vârf sacru de la granița dintre Bhutan și Tibet se înalță la o altitudine impresionantă de 7.326 de metri.",
+                  "category": "natural",
+                  "coords": [
+                        89.26783,
+                        27.827632
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jomolhari",
+                  "text": "A sacred Himalayan peak on the border of Bhutan and Tibet, rising to an impressive altitude of 7,326 metres.",
+                  "category": "natural",
+                  "coords": [
+                        89.26783,
+                        27.827632
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BT-11",
     coords: [89.263, 27.828],
@@ -414,7 +882,160 @@ export const poiExtraBhutanNatureV2: POI[] = [
       pt: [],
       fr: [],}, image: "/poi-images/bt-jitchu-drake-nature-v2.webp"},
   {
-    id: "bt-kula-kangri-nature-v2",
+    id: "bt-kula-kangri-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khula Kangri I",
+                  "text": "Der höchste Berg der Kula Kangri-Gruppe an der Grenze zwischen Tibet und Bhutan ragt über 7500 Meter empor.",
+                  "category": "natural",
+                  "coords": [
+                        90.615262,
+                        28.227307
+                  ]
+            },
+            {
+                  "name": "Khula Kangri II",
+                  "text": "Ein massiver Hochgebirgsgipfel im Himalaya, der Teil des beeindruckenden Khula Kangri-Massivs ist.",
+                  "category": "natural",
+                  "coords": [
+                        90.628402,
+                        28.227041
+                  ]
+            },
+            {
+                  "name": "Karejiang I",
+                  "text": "Dieser 7221 Meter hohe Berg im Himalaya gilt als einer der höchsten noch unbestiegenen Gipfel der Welt.",
+                  "category": "natural",
+                  "coords": [
+                        90.648111,
+                        28.258087
+                  ]
+            },
+            {
+                  "name": "III",
+                  "text": "Ein steiler, eisbedeckter Gipfel in der Karejiang-Kette, der eine markante Silhouette im Hochhimalaya bildet.",
+                  "category": "natural",
+                  "coords": [
+                        90.648017,
+                        28.272592
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khula Kangri I",
+                  "text": "A Kula Kangri-csoport legmagasabb hegye a tibeti-bhutáni határon, amely több mint 7500 méter magasra nyúlik.",
+                  "category": "natural",
+                  "coords": [
+                        90.615262,
+                        28.227307
+                  ]
+            },
+            {
+                  "name": "Khula Kangri II",
+                  "text": "Hatalmas magashegyi csúcs a Himalájában, amely a lenyűgöző Khula Kangri-masszívum része.",
+                  "category": "natural",
+                  "coords": [
+                        90.628402,
+                        28.227041
+                  ]
+            },
+            {
+                  "name": "Karejiang I",
+                  "text": "Ez a 7221 méter magas himalájai hegy a világ egyik legmagasabb, máig megmászatlan csúcsának számít.",
+                  "category": "natural",
+                  "coords": [
+                        90.648111,
+                        28.258087
+                  ]
+            },
+            {
+                  "name": "III",
+                  "text": "Meredek, jéggel borított csúcs a Karejiang-láncban, amely jellegzetes sziluettet alkot a Magas-Himalájában.",
+                  "category": "natural",
+                  "coords": [
+                        90.648017,
+                        28.272592
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khula Kangri I",
+                  "text": "Cel mai înalt munte din grupul Kula Kangri, la granița dintre Tibet și Bhutan, se înalță la peste 7500 de metri.",
+                  "category": "natural",
+                  "coords": [
+                        90.615262,
+                        28.227307
+                  ]
+            },
+            {
+                  "name": "Khula Kangri II",
+                  "text": "Un vârf masiv de mare altitudine din Himalaya, făcând parte din impresionantul masiv Khula Kangri.",
+                  "category": "natural",
+                  "coords": [
+                        90.628402,
+                        28.227041
+                  ]
+            },
+            {
+                  "name": "Karejiang I",
+                  "text": "Acest munte de 7221 de metri din Himalaya este considerat unul dintre cele mai înalte vârfuri necucerite din lume.",
+                  "category": "natural",
+                  "coords": [
+                        90.648111,
+                        28.258087
+                  ]
+            },
+            {
+                  "name": "III",
+                  "text": "Un vârf abrupt și acoperit de gheață din lanțul Karejiang, formând o siluetă distinctivă în Himalaya Înaltă.",
+                  "category": "natural",
+                  "coords": [
+                        90.648017,
+                        28.272592
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khula Kangri I",
+                  "text": "The highest mountain in the Kula Kangri group on the Tibet-Bhutan border, rising above 7500 meters.",
+                  "category": "natural",
+                  "coords": [
+                        90.615262,
+                        28.227307
+                  ]
+            },
+            {
+                  "name": "Khula Kangri II",
+                  "text": "A massive high-altitude peak in the Himalayas, forming part of the impressive Khula Kangri massif.",
+                  "category": "natural",
+                  "coords": [
+                        90.628402,
+                        28.227041
+                  ]
+            },
+            {
+                  "name": "Karejiang I",
+                  "text": "This 7221-meter Himalayan mountain is considered one of the highest unclimbed peaks in the world.",
+                  "category": "natural",
+                  "coords": [
+                        90.648111,
+                        28.258087
+                  ]
+            },
+            {
+                  "name": "Karejiang III",
+                  "text": "A steep, ice-covered peak in the Karejiang range, forming a distinct silhouette in the High Himalayas.",
+                  "category": "natural",
+                  "coords": [
+                        90.648017,
+                        28.272592
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BT-GA",
     coords: [90.616, 28.225],
@@ -458,7 +1079,232 @@ export const poiExtraBhutanNatureV2: POI[] = [
     },
   },
   {
-    id: "bt-manas-river-nature-v2",
+    id: "bt-manas-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "watch tower",
+                  "text": "Dieser erhöhte Aussichtsturm bietet einen Panoramablick auf die umliegende Wildnis am Manas-Fluss.",
+                  "category": "natural",
+                  "coords": [
+                        90.990572,
+                        26.75871
+                  ]
+            },
+            {
+                  "name": "Manas National Park",
+                  "text": "Ein UNESCO-Welterbe am Manas-Fluss, das für seine vielfältige Tierwelt, darunter Tiger und Nashörner, bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        91.001169,
+                        26.730153
+                  ]
+            },
+            {
+                  "name": "TashiRabtenling Lhakhang",
+                  "text": "Ein lokaler buddhistischer Tempel inmitten der Naturlandschaft der Manas-Fluss-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        90.973487,
+                        26.860852
+                  ]
+            },
+            {
+                  "name": "Yoesel Choling Anim Dratshang",
+                  "text": "Ein ruhiges buddhistisches Nonnenkloster nahe dem Manas-Fluss, das dem Gebet und der spirituellen Bildung gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        90.981568,
+                        26.849663
+                  ]
+            },
+            {
+                  "name": "Peling Choekhang",
+                  "text": "Eine traditionelle buddhistische Religionsstätte in der üppigen Umgebung der Manas-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        90.972971,
+                        26.847394
+                  ]
+            },
+            {
+                  "name": "Sonamthang Chorten",
+                  "text": "Ein heiliger buddhistischer Stupa, der als Denkmal des Glaubens im Manas-Flusstal steht.",
+                  "category": "religious",
+                  "coords": [
+                        90.973003,
+                        26.852259
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "watch tower",
+                  "text": "Ez a magaslati figyelőtorony panorámás kilátást nyújt a Manasz-folyó környéki vadonra.",
+                  "category": "natural",
+                  "coords": [
+                        90.990572,
+                        26.75871
+                  ]
+            },
+            {
+                  "name": "Manas National Park",
+                  "text": "Az UNESCO Világörökség része a Manasz-folyó mentén, amely gazdag vadvilágáról, többek között tigriseiről és orrszarvúiról híres.",
+                  "category": "natural",
+                  "coords": [
+                        91.001169,
+                        26.730153
+                  ]
+            },
+            {
+                  "name": "TashiRabtenling Lhakhang",
+                  "text": "Egy helyi buddhista templom a Manasz-folyó környékének természeti környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        90.973487,
+                        26.860852
+                  ]
+            },
+            {
+                  "name": "Yoesel Choling Anim Dratshang",
+                  "text": "Egy békés buddhista apácakolostor az imádságnak és a spirituális oktatásnak szentelve a Manasz-folyó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        90.981568,
+                        26.849663
+                  ]
+            },
+            {
+                  "name": "Peling Choekhang",
+                  "text": "Egy tradicionális buddhista vallási helyszín a Manasz-régió dús növényzetű környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        90.972971,
+                        26.847394
+                  ]
+            },
+            {
+                  "name": "Sonamthang Chorten",
+                  "text": "Egy szent buddhista sztúpa, amely a hit emlékműveként áll a Manasz-folyó völgyében.",
+                  "category": "religious",
+                  "coords": [
+                        90.973003,
+                        26.852259
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "watch tower",
+                  "text": "Acest turn de observare înalt oferă vederi panoramice asupra sălbăticiei din jurul râului Manas.",
+                  "category": "natural",
+                  "coords": [
+                        90.990572,
+                        26.75871
+                  ]
+            },
+            {
+                  "name": "Manas National Park",
+                  "text": "Un sit din patrimoniul mondial UNESCO de-a lungul râului Manas, faimos pentru fauna sa diversă, inclusiv tigri și rinoceri.",
+                  "category": "natural",
+                  "coords": [
+                        91.001169,
+                        26.730153
+                  ]
+            },
+            {
+                  "name": "TashiRabtenling Lhakhang",
+                  "text": "Un templu budist local situat în peisajul natural din zona râului Manas.",
+                  "category": "landmark",
+                  "coords": [
+                        90.973487,
+                        26.860852
+                  ]
+            },
+            {
+                  "name": "Yoesel Choling Anim Dratshang",
+                  "text": "O mănăstire de maici budistă liniștită, dedicată rugăciunii și educației spirituale, lângă râul Manas.",
+                  "category": "landmark",
+                  "coords": [
+                        90.981568,
+                        26.849663
+                  ]
+            },
+            {
+                  "name": "Peling Choekhang",
+                  "text": "Un sit religios budist tradițional situat în împrejurimile luxuriante ale regiunii Manas.",
+                  "category": "landmark",
+                  "coords": [
+                        90.972971,
+                        26.847394
+                  ]
+            },
+            {
+                  "name": "Sonamthang Chorten",
+                  "text": "O stupă budistă sacră, ridicată ca monument al credinței în valea râului Manas.",
+                  "category": "religious",
+                  "coords": [
+                        90.973003,
+                        26.852259
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "watch tower",
+                  "text": "This elevated watch tower offers panoramic views of the surrounding wilderness near the Manas River.",
+                  "category": "natural",
+                  "coords": [
+                        90.990572,
+                        26.75871
+                  ]
+            },
+            {
+                  "name": "Manas National Park",
+                  "text": "A UNESCO World Heritage site along the Manas River, famous for its diverse wildlife, including tigers and rhinoceroses.",
+                  "category": "natural",
+                  "coords": [
+                        91.001169,
+                        26.730153
+                  ]
+            },
+            {
+                  "name": "TashiRabtenling Lhakhang",
+                  "text": "A local Buddhist temple situated within the natural landscape of the Manas River area.",
+                  "category": "landmark",
+                  "coords": [
+                        90.973487,
+                        26.860852
+                  ]
+            },
+            {
+                  "name": "Yoesel Choling Anim Dratshang",
+                  "text": "A serene Buddhist nunnery dedicated to prayer and spiritual education near the Manas River.",
+                  "category": "landmark",
+                  "coords": [
+                        90.981568,
+                        26.849663
+                  ]
+            },
+            {
+                  "name": "Peling Choekhang",
+                  "text": "A traditional Buddhist religious site located in the lush surroundings of the Manas region.",
+                  "category": "landmark",
+                  "coords": [
+                        90.972971,
+                        26.847394
+                  ]
+            },
+            {
+                  "name": "Sonamthang Chorten",
+                  "text": "A sacred Buddhist stupa standing as a monument of faith in the Manas River valley.",
+                  "category": "religious",
+                  "coords": [
+                        90.973003,
+                        26.852259
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "BT-31",
     coords: [90.933, 26.78],
@@ -499,7 +1345,88 @@ export const poiExtraBhutanNatureV2: POI[] = [
       pt: [],
       fr: [],}, image: "/poi-images/bt-manas-river-nature-v2.webp"},
   {
-    id: "bt-puna-tsang-chhu-nature-v2",
+    id: "bt-puna-tsang-chhu-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bajo Lhakhang",
+                  "text": "Ein ruhiger buddhistischer Tempel am natürlichen Lauf des Flusses Puna Tsang Chhu.",
+                  "category": "landmark",
+                  "coords": [
+                        89.895886,
+                        27.50195
+                  ]
+            },
+            {
+                  "name": "Choekhang",
+                  "text": "Dieser buddhistische Schreinraum bietet einen besinnlichen Ort im artenreichen Flussbecken des Puna Tsang Chhu.",
+                  "category": "landmark",
+                  "coords": [
+                        89.902147,
+                        27.495391
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bajo Lhakhang",
+                  "text": "Csendes buddhista templom a Puna Tsang Chhu folyó természetes folyása mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        89.895886,
+                        27.50195
+                  ]
+            },
+            {
+                  "name": "Choekhang",
+                  "text": "Ez a buddhista szentély szoba elmélkedő teret biztosít a biológiailag sokszínű Puna Tsang Chhu vízgyűjtőjében.",
+                  "category": "landmark",
+                  "coords": [
+                        89.902147,
+                        27.495391
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bajo Lhakhang",
+                  "text": "Un templu budist liniștit, situat de-a lungul cursului natural al râului Puna Tsang Chhu.",
+                  "category": "landmark",
+                  "coords": [
+                        89.895886,
+                        27.50195
+                  ]
+            },
+            {
+                  "name": "Choekhang",
+                  "text": "Această cameră cu altar budist oferă un spațiu de contemplație în bazinul hidrografic Puna Tsang Chhu, bogat în biodiversitate.",
+                  "category": "landmark",
+                  "coords": [
+                        89.902147,
+                        27.495391
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bajo Lhakhang",
+                  "text": "A serene Buddhist temple located along the natural flow of the Puna Tsang Chhu river.",
+                  "category": "landmark",
+                  "coords": [
+                        89.895886,
+                        27.50195
+                  ]
+            },
+            {
+                  "name": "Choekhang",
+                  "text": "This Buddhist shrine room provides a contemplative space in the biodiverse Puna Tsang Chhu river basin.",
+                  "category": "landmark",
+                  "coords": [
+                        89.902147,
+                        27.495391
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "BT-24",
     coords: [89.9, 27.5],
@@ -540,7 +1467,52 @@ export const poiExtraBhutanNatureV2: POI[] = [
       pt: [],
       fr: [],}, image: "/poi-images/bt-puna-tsang-chhu-nature-v2.webp"},
   {
-    id: "bt-wang-chhu-nature-v2",
+    id: "bt-wang-chhu-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Simply Bhutan",
+                  "text": "Ein interaktives lebendiges Museum, in dem Besucher traditionelles Bogenschießen und Essen erleben können.",
+                  "category": "museum",
+                  "coords": [
+                        89.631259,
+                        27.471409
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Simply Bhutan",
+                  "text": "Interaktív élő múzeum, ahol a látogatók kipróbálhatják a hagyományos íjászatot és ételeket.",
+                  "category": "museum",
+                  "coords": [
+                        89.631259,
+                        27.471409
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Simply Bhutan",
+                  "text": "Un muzeu viu interactiv unde vizitatorii pot experimenta tirul cu arcul și mâncarea tradițională.",
+                  "category": "museum",
+                  "coords": [
+                        89.631259,
+                        27.471409
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Simply Bhutan",
+                  "text": "An interactive living museum where visitors can experience traditional archery and food.",
+                  "category": "museum",
+                  "coords": [
+                        89.631259,
+                        27.471409
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "BT-15",
     coords: [89.633, 27.466],

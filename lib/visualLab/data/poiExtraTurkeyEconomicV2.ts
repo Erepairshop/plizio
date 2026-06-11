@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraTurkeyEconomicV2: POI[] = [
   {
-    id: "ataturk-dam-economic-v2",
+    id: "ataturk-dam-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Atatürk Barajı Seyir Terası",
+                  "text": "Ein Aussichtspunkt mit weitem Panorama auf die gewaltige Atatürk-Talsperre am Euphrat.",
+                  "category": "natural",
+                  "coords": [
+                        38.311776,
+                        37.47023
+                  ]
+            },
+            {
+                  "name": "Karababa Dağı",
+                  "text": "Ein markanter Berggipfel in der Provinz Adıyaman, der die umliegende Region am Euphrat überragt.",
+                  "category": "natural",
+                  "coords": [
+                        38.284531,
+                        37.490093
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Atatürk Barajı Seyir Terası",
+                  "text": "Kilátóhely, ahonnan széles panoráma nyílik az Eufráteszen található hatalmas Atatürk-gátra.",
+                  "category": "natural",
+                  "coords": [
+                        38.311776,
+                        37.47023
+                  ]
+            },
+            {
+                  "name": "Karababa Dağı",
+                  "text": "Egy jellegzetes hegycsúcs Adıyaman tartományban, amely az Eufrátesz környéki régió fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        38.284531,
+                        37.490093
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Atatürk Barajı Seyir Terası",
+                  "text": "Un punct de observație cu o panoramă largă asupra masivului baraj Atatürk de pe râul Eufrat.",
+                  "category": "natural",
+                  "coords": [
+                        38.311776,
+                        37.47023
+                  ]
+            },
+            {
+                  "name": "Karababa Dağı",
+                  "text": "Un vârf muntos proeminent din provincia Adıyaman, care domină regiunea înconjurătoare de pe Eufrat.",
+                  "category": "natural",
+                  "coords": [
+                        38.284531,
+                        37.490093
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Atatürk Dam",
+                  "text": "A viewpoint offering a wide panorama of the massive Atatürk Dam on the Euphrates River.",
+                  "category": "natural",
+                  "coords": [
+                        38.311776,
+                        37.47023
+                  ]
+            },
+            {
+                  "name": "Karababa Dağı",
+                  "text": "A prominent mountain peak in the Adıyaman province, towering over the surrounding region near the Euphrates.",
+                  "category": "natural",
+                  "coords": [
+                        38.284531,
+                        37.490093
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "TR-63",
     coords: [38.317, 37.481],
@@ -52,7 +133,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
             },
             {
                   "name": "Tiyatro Çocuk",
-                  "text": "Ein Kindertheater in der Nähe des Hafens von Ambarlı.",
+                  "text": "Kindertheater im Hafenviertel von Port.",
                   "category": "cultural",
                   "coords": [
                         28.70403,
@@ -126,7 +207,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
             },
             {
                   "name": "Tiyatro Çocuk",
-                  "text": "Ambarlı kikötője mellett található gyermekszínház.",
+                  "text": "Tiyatro Çocuk, gyermekszínház a Port kikötőnegyedében.",
                   "category": "cultural",
                   "coords": [
                         28.70403,
@@ -200,7 +281,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
             },
             {
                   "name": "Tiyatro Çocuk",
-                  "text": "Un teatru pentru copii situat lângă Portul Ambarlı.",
+                  "text": "Teatrul pentru copii din cartierul portuar Port.",
                   "category": "cultural",
                   "coords": [
                         28.70403,
@@ -274,7 +355,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
             },
             {
                   "name": "Tiyatro Çocuk",
-                  "text": "A children's theatre located near the Port of Ambarlı.",
+                  "text": "Children's theatre in the port district of Port.",
                   "category": "cultural",
                   "coords": [
                         28.70403,
@@ -376,7 +457,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Karaduvar Sahili",
-                  "text": "Karaduvar Sahili ist ein Strandabschnitt in der Nähe von International Port.",
+                  "text": "Küstenstrand an der Karaduvar-Küste nahe dem internationalen Hafen.",
                   "category": "recreational",
                   "coords": [
                         34.688846,
@@ -387,7 +468,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Karaduvar Sahili",
-                  "text": "A Karaduvar Sahili egy strandterület az International Port közelében.",
+                  "text": "Karaduvar Sahili, tengerparti szakasz a nemzetközi kikötő közelében.",
                   "category": "recreational",
                   "coords": [
                         34.688846,
@@ -398,7 +479,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Karaduvar Sahili",
-                  "text": "Karaduvar Sahili este o zonă de plajă situată în apropiere de International Port.",
+                  "text": "Fâșia de plajă Karaduvar, lângă Portul Internațional.",
                   "category": "recreational",
                   "coords": [
                         34.688846,
@@ -409,7 +490,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Karaduvar Sahili",
-                  "text": "Karaduvar Sahili is a beach area located near the International Port.",
+                  "text": "Coastal beach strip along Karaduvar, near the International Port.",
                   "category": "recreational",
                   "coords": [
                         34.688846,
@@ -916,7 +997,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
             },
             {
                   "name": "Bozhane Hamamı",
-                  "text": "Ein traditionelles öffentliches Badehaus (Hamam) in Ereğli.",
+                  "text": "Historisches Hamam in Erdemir, ursprünglich für die Eisenarbeiter erbaut.",
                   "category": "recreational",
                   "coords": [
                         31.413969,
@@ -1017,7 +1098,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
             },
             {
                   "name": "Bozhane Hamamı",
-                  "text": "Egy hagyományos nyilvános fürdő (hamam) Ereğli városában.",
+                  "text": "Bozhane Hamamı, történelmi török fürdő Erdemirben, vasgyári munkásoknak épült.",
                   "category": "recreational",
                   "coords": [
                         31.413969,
@@ -1118,7 +1199,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
             },
             {
                   "name": "Bozhane Hamamı",
-                  "text": "O baie publică tradițională (hamam) situată în Ereğli.",
+                  "text": "Baia turcească istorică Bozhane din Erdemir, construită inițial pentru muncitorii siderurgici.",
                   "category": "recreational",
                   "coords": [
                         31.413969,
@@ -1219,7 +1300,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
             },
             {
                   "name": "Bozhane Hamamı",
-                  "text": "A traditional public bath (hamam) located in Ereğli.",
+                  "text": "Historic Turkish bath (hamam) in Erdemir, originally built for ironworkers.",
                   "category": "recreational",
                   "coords": [
                         31.413969,
@@ -1645,7 +1726,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
             },
             {
                   "name": "Osman Hamdi Bey Kültür Merkezi",
-                  "text": "Ein Zentrum für Kunst und Kultur in Gebze.",
+                  "text": "Osman Hamdi Bey Kulturzentrum in der Industriezone, mit Ausstellungen und Veranstaltungen.",
                   "category": "cultural",
                   "coords": [
                         29.439517,
@@ -1654,7 +1735,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
             },
             {
                   "name": "Çoban Mustafa Paşa Camii",
-                  "text": "Ein bedeutender Moscheekomplex aus der osmanischen Zeit.",
+                  "text": "Die Çoban-Mustafa-Pascha-Moschee ist Teil einer Külliyesi (Komplex) mit Medrese, Imaret und Hamam in der Industriezone.",
                   "category": "religious",
                   "coords": [
                         29.431538,
@@ -1683,7 +1764,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
             },
             {
                   "name": "Osman Hamdi Bey Kültür Merkezi",
-                  "text": "Művészeti és kulturális központ Gebzében.",
+                  "text": "Osman Hamdi Bey Kulturális Központ az ipari övezetben, kiállítások és események helyszíne.",
                   "category": "cultural",
                   "coords": [
                         29.439517,
@@ -1692,7 +1773,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
             },
             {
                   "name": "Çoban Mustafa Paşa Camii",
-                  "text": "Egy jelentős oszmán kori mecsetkomplexum.",
+                  "text": "A Çoban Mustafa pasa dzsámi egy medreszéből, imaretből és hamamból álló küllije része az ipari övezetben.",
                   "category": "religious",
                   "coords": [
                         29.431538,
@@ -1721,7 +1802,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
             },
             {
                   "name": "Osman Hamdi Bey Kültür Merkezi",
-                  "text": "Un centru pentru artă și cultură în Gebze.",
+                  "text": "Centrul Cultural Osman Hamdi Bey în Zona Industrială, găzduind expoziții și evenimente.",
                   "category": "cultural",
                   "coords": [
                         29.439517,
@@ -1730,7 +1811,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
             },
             {
                   "name": "Çoban Mustafa Paşa Camii",
-                  "text": "Un complex de moschei important din epoca otomană.",
+                  "text": "Moscheea Çoban Mustafa Pașa face parte dintr-un complex (külliye) cu medresea, imaret și baie în Zona Industrială.",
                   "category": "religious",
                   "coords": [
                         29.431538,
@@ -1759,7 +1840,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
             },
             {
                   "name": "Osman Hamdi Bey Cultural Center",
-                  "text": "A center for arts and culture in Gebze.",
+                  "text": "Osman Hamdi Bey Cultural Center, hosting exhibitions and events in the industrial zone.",
                   "category": "cultural",
                   "coords": [
                         29.439517,
@@ -1768,7 +1849,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
             },
             {
                   "name": "Çoban Mustafa Paşa Camii",
-                  "text": "An important Ottoman-era mosque complex.",
+                  "text": "The Çoban Mustafa Pasha Mosque is part of a külliye complex with a madrasa, imaret and bath in the Industrial Zone.",
                   "category": "religious",
                   "coords": [
                         29.431538,
@@ -1974,7 +2055,412 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
     },
   },
   {
-    id: "tupras-batman-refinery-economic-v2",
+    id: "tupras-batman-refinery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Emek Sitesi Mescidi",
+                  "text": "Das Emek Sitesi Mescidi in der Nähe des Raffineriegebiets von Batman ist ein bescheidener Gebetsraum in der Nachbarschaft, der lokalen Arbeitern und Anwohnern dient.",
+                  "category": "religious",
+                  "coords": [
+                        41.085553,
+                        37.835192
+                  ]
+            },
+            {
+                  "name": "Hz. Halid Camii",
+                  "text": "Die 2016 fertiggestellte Hz. Halid Camii in der Region Batman ist eine moderne islamische Moschee, die der Gemeinde einen zeitgemäßen Gebetsraum bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        41.084002,
+                        37.831757
+                  ]
+            },
+            {
+                  "name": "Hacı Fehime Ekinci Taziye Evi",
+                  "text": "Das 2024 eröffnete Hacı Fehime Ekinci Taziye Evi bei Batman ist ein modernes Kondolenzhaus, das als Raum für Trauer und religiöse Besinnung dient.",
+                  "category": "religious",
+                  "coords": [
+                        41.0837,
+                        37.832734
+                  ]
+            },
+            {
+                  "name": "Kuyubaşı Toki Taziye Evi",
+                  "text": "Das Kuyubaşı Toki Taziye Evi ist eine lokale öffentliche Einrichtung in der Gegend von Batman, die speziell für traditionelle Kondolenzversammlungen konzipiert wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        41.093501,
+                        37.849852
+                  ]
+            },
+            {
+                  "name": "Mescidül-Lillah Camii",
+                  "text": "Die Mescidül-Lillah Camii fungiert als gemeinschaftsorientierte islamische Moschee im Bezirk Batman und versammelt Einheimische zu regelmäßigen täglichen Gebeten.",
+                  "category": "landmark",
+                  "coords": [
+                        41.098184,
+                        37.847471
+                  ]
+            },
+            {
+                  "name": "Hazreti Osman Camii",
+                  "text": "Die Hazreti Osman Camii bei Batman bietet ein spirituelles Umfeld und versorgt die lokale muslimische Bevölkerung mit regelmäßigen Gottesdiensten.",
+                  "category": "landmark",
+                  "coords": [
+                        41.095573,
+                        37.851501
+                  ]
+            },
+            {
+                  "name": "Karayün Köyü Okçu Mezrası Cami",
+                  "text": "Die Karayün Köyü Okçu Mezrası Cami ist eine ländliche islamische Moschee und bietet einen zentralen Gebetsort für die Einwohner des Weilers Okçu bei Batman.",
+                  "category": "landmark",
+                  "coords": [
+                        41.105843,
+                        37.843508
+                  ]
+            },
+            {
+                  "name": "Karayün Köyü Cami",
+                  "text": "Die Karayün Köyü Cami dient einer ländlichen Gemeinde und ist ein wichtiges lokales islamisches Gotteshaus für die Dorfbewohner in der Region Batman.",
+                  "category": "landmark",
+                  "coords": [
+                        41.114494,
+                        37.834514
+                  ]
+            },
+            {
+                  "name": "Akça Köyü Cami",
+                  "text": "Die Akça Köyü Cami bietet eine wichtige islamische Gebetsstätte für die Landbewohner des Dorfes Akça im Bezirk Batman.",
+                  "category": "landmark",
+                  "coords": [
+                        41.184018,
+                        37.853562
+                  ]
+            },
+            {
+                  "name": "Taziye Evi",
+                  "text": "Dieses Taziye Evi im Gebiet von Batman ist ein spezielles Gemeinschaftsgebäude, das als formeller Veranstaltungsort für religiöse Kondolenzzeremonien dient.",
+                  "category": "religious",
+                  "coords": [
+                        41.217171,
+                        37.848056
+                  ]
+            },
+            {
+                  "name": "Binatli Taziye Evi",
+                  "text": "Dieses Taziye Evi in Binatli bei Batman fungiert als spezieller Ort der Trauer, an dem die lokale Gemeinschaft kondolieren und Beileid empfangen kann.",
+                  "category": "religious",
+                  "coords": [
+                        41.215258,
+                        37.846347
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Emek Sitesi Mescidi",
+                  "text": "A batmani finomító közelében található Emek Sitesi Mescidi egy szerény környékbeli imaterem, amely a helyi munkásokat és lakosokat szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        41.085553,
+                        37.835192
+                  ]
+            },
+            {
+                  "name": "Hz. Halid Camii",
+                  "text": "A 2016-ban befejezett Hz. Halid Camii Batman régiójában egy modern iszlám mecset, amely kortárs imateret biztosít a közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        41.084002,
+                        37.831757
+                  ]
+            },
+            {
+                  "name": "Hacı Fehime Ekinci Taziye Evi",
+                  "text": "A 2024-ben megnyílt Hacı Fehime Ekinci Taziye Evi Batman közelében egy kortárs részvétnyilvánító ház, amely a gyász és a vallási elmélkedés tereként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        41.0837,
+                        37.832734
+                  ]
+            },
+            {
+                  "name": "Kuyubaşı Toki Taziye Evi",
+                  "text": "A Kuyubaşı Toki Taziye Evi egy helyi nyilvános létesítmény Batman térségében, amelyet kifejezetten hagyományos részvétnyilvánító összejövetelek lebonyolítására terveztek.",
+                  "category": "landmark",
+                  "coords": [
+                        41.093501,
+                        37.849852
+                  ]
+            },
+            {
+                  "name": "Mescidül-Lillah Camii",
+                  "text": "A Mescidül-Lillah Camii egy közösségközpontú iszlám mecsetként működik Batman körzetében, amely a helyieket gyűjti össze a rendszeres napi imákra.",
+                  "category": "landmark",
+                  "coords": [
+                        41.098184,
+                        37.847471
+                  ]
+            },
+            {
+                  "name": "Hazreti Osman Camii",
+                  "text": "A dedikált spirituális környezetet biztosító Hazreti Osman Camii Batman közelében rendszeres vallási szolgáltatásokkal várja a helyi muszlim lakosságot.",
+                  "category": "landmark",
+                  "coords": [
+                        41.095573,
+                        37.851501
+                  ]
+            },
+            {
+                  "name": "Karayün Köyü Okçu Mezrası Cami",
+                  "text": "A Karayün Köyü Okçu Mezrası Cami egy vidéki iszlám mecset, amely központi imahelyet kínál az Okçu falu lakóinak Batman közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        41.105843,
+                        37.843508
+                  ]
+            },
+            {
+                  "name": "Karayün Köyü Cami",
+                  "text": "A vidéki közösséget szolgáló Karayün Köyü Cami egy alapvető helyi iszlám istentiszteleti központ a Batman régió falusiak számára.",
+                  "category": "landmark",
+                  "coords": [
+                        41.114494,
+                        37.834514
+                  ]
+            },
+            {
+                  "name": "Akça Köyü Cami",
+                  "text": "Az Akça Köyü Cami létfontosságú iszlám imalétesítményt biztosít Akça falu vidéki lakosai számára a Batman körzeten belül.",
+                  "category": "landmark",
+                  "coords": [
+                        41.184018,
+                        37.853562
+                  ]
+            },
+            {
+                  "name": "Taziye Evi",
+                  "text": "Ez a Taziye Evi Batman térségében egy dedikált közösségi épület, amely a vallási részvétnyilvánító szertartások hivatalos helyszíneként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        41.217171,
+                        37.848056
+                  ]
+            },
+            {
+                  "name": "Binatli Taziye Evi",
+                  "text": "A Batman melletti Binatliban található Taziye Evi egy dedikált gyászhely, ahol a helyi közösség részvétet nyilváníthat és fogadhat.",
+                  "category": "religious",
+                  "coords": [
+                        41.215258,
+                        37.846347
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Emek Sitesi Mescidi",
+                  "text": "Situat în apropierea zonei rafinăriei Batman, Emek Sitesi Mescidi este o sală modestă de rugăciune de cartier care deservește lucrătorii și rezidenții locali.",
+                  "category": "religious",
+                  "coords": [
+                        41.085553,
+                        37.835192
+                  ]
+            },
+            {
+                  "name": "Hz. Halid Camii",
+                  "text": "Finalizată în 2016, Hz. Halid Camii din regiunea Batman este o moschee islamică modernă care oferă un spațiu contemporan de rugăciune pentru comunitate.",
+                  "category": "landmark",
+                  "coords": [
+                        41.084002,
+                        37.831757
+                  ]
+            },
+            {
+                  "name": "Hacı Fehime Ekinci Taziye Evi",
+                  "text": "Deschisă în 2024, Hacı Fehime Ekinci Taziye Evi de lângă Batman este o casă contemporană de condoleanțe care servește drept spațiu pentru doliu și reflecție religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        41.0837,
+                        37.832734
+                  ]
+            },
+            {
+                  "name": "Kuyubaşı Toki Taziye Evi",
+                  "text": "Kuyubaşı Toki Taziye Evi este o unitate publică locală din zona Batman, concepută special pentru a găzdui adunări tradiționale de condoleanțe.",
+                  "category": "landmark",
+                  "coords": [
+                        41.093501,
+                        37.849852
+                  ]
+            },
+            {
+                  "name": "Mescidül-Lillah Camii",
+                  "text": "Mescidül-Lillah Camii funcționează ca o moschee islamică axată pe comunitate în districtul Batman, adunând localnicii pentru rugăciunile zilnice regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        41.098184,
+                        37.847471
+                  ]
+            },
+            {
+                  "name": "Hazreti Osman Camii",
+                  "text": "Oferind un mediu spiritual dedicat, Hazreti Osman Camii de lângă Batman servește populația musulmană locală cu servicii religioase regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        41.095573,
+                        37.851501
+                  ]
+            },
+            {
+                  "name": "Karayün Köyü Okçu Mezrası Cami",
+                  "text": "Karayün Köyü Okçu Mezrası Cami este o moschee islamică rurală, oferind o locație centrală de rugăciune pentru locuitorii cătunului Okçu de lângă Batman.",
+                  "category": "landmark",
+                  "coords": [
+                        41.105843,
+                        37.843508
+                  ]
+            },
+            {
+                  "name": "Karayün Köyü Cami",
+                  "text": "Deservind o comunitate rurală, Karayün Köyü Cami este un centru de cult islamic local esențial pentru sătenii din regiunea Batman.",
+                  "category": "landmark",
+                  "coords": [
+                        41.114494,
+                        37.834514
+                  ]
+            },
+            {
+                  "name": "Akça Köyü Cami",
+                  "text": "Akça Köyü Cami oferă o facilitate vitală de rugăciune islamică pentru rezidenții rurali din satul Akça din districtul Batman.",
+                  "category": "landmark",
+                  "coords": [
+                        41.184018,
+                        37.853562
+                  ]
+            },
+            {
+                  "name": "Taziye Evi",
+                  "text": "Această Taziye Evi din zona Batman este o clădire comunală dedicată care servește ca un loc oficial pentru găzduirea ceremoniilor religioase de condoleanțe.",
+                  "category": "religious",
+                  "coords": [
+                        41.217171,
+                        37.848056
+                  ]
+            },
+            {
+                  "name": "Binatli Taziye Evi",
+                  "text": "Situată în Binatli, lângă Batman, această Taziye Evi funcționează ca un loc de doliu dedicat, unde comunitatea locală poate oferi și primi condoleanțe.",
+                  "category": "religious",
+                  "coords": [
+                        41.215258,
+                        37.846347
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Emek Sitesi Mescidi",
+                  "text": "Located near the Batman refinery area, the Emek Sitesi Mescidi is a modest neighborhood prayer room serving local workers and residents.",
+                  "category": "religious",
+                  "coords": [
+                        41.085553,
+                        37.835192
+                  ]
+            },
+            {
+                  "name": "Hz. Halid Camii",
+                  "text": "Completed in 2016, the Hz. Halid Camii in the Batman region is a modern Islamic mosque providing a contemporary prayer space for the community.",
+                  "category": "landmark",
+                  "coords": [
+                        41.084002,
+                        37.831757
+                  ]
+            },
+            {
+                  "name": "Hacı Fehime Ekinci Taziye Evi",
+                  "text": "Opened in 2024, the Hacı Fehime Ekinci Taziye Evi near Batman is a contemporary condolence house serving as a space for mourning and religious reflection.",
+                  "category": "religious",
+                  "coords": [
+                        41.0837,
+                        37.832734
+                  ]
+            },
+            {
+                  "name": "Kuyubaşı Toki Taziye Evi",
+                  "text": "The Kuyubaşı Toki Taziye Evi is a local public facility in the Batman area specifically designed to host traditional condolence gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        41.093501,
+                        37.849852
+                  ]
+            },
+            {
+                  "name": "Mescidül-Lillah Camii",
+                  "text": "Mescidül-Lillah Camii operates as a community-focused Islamic mosque in the Batman district, gathering locals for regular daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        41.098184,
+                        37.847471
+                  ]
+            },
+            {
+                  "name": "Hazreti Osman Camii",
+                  "text": "Providing a dedicated spiritual environment, the Hazreti Osman Camii near Batman serves the local Muslim population with regular religious services.",
+                  "category": "landmark",
+                  "coords": [
+                        41.095573,
+                        37.851501
+                  ]
+            },
+            {
+                  "name": "Karayün Köyü Okçu Mezrası Cami",
+                  "text": "The Karayün Köyü Okçu Mezrası Cami is a rural Islamic mosque, offering a central prayer location for the inhabitants of the Okçu hamlet near Batman.",
+                  "category": "landmark",
+                  "coords": [
+                        41.105843,
+                        37.843508
+                  ]
+            },
+            {
+                  "name": "Karayün Köyü Cami",
+                  "text": "Serving a rural community, the Karayün Köyü Cami is an essential local Islamic worship center for the villagers in the Batman region.",
+                  "category": "landmark",
+                  "coords": [
+                        41.114494,
+                        37.834514
+                  ]
+            },
+            {
+                  "name": "Akça Köyü Cami",
+                  "text": "The Akça Köyü Cami provides a vital Islamic prayer facility for the rural residents of Akça village within the Batman district.",
+                  "category": "landmark",
+                  "coords": [
+                        41.184018,
+                        37.853562
+                  ]
+            },
+            {
+                  "name": "Taziye Evi",
+                  "text": "This Taziye Evi in the Batman area is a dedicated communal building serving as a formal venue for hosting religious condolence ceremonies.",
+                  "category": "religious",
+                  "coords": [
+                        41.217171,
+                        37.848056
+                  ]
+            },
+            {
+                  "name": "Binatli Taziye Evi",
+                  "text": "Located in Binatli near Batman, this Taziye Evi functions as a dedicated place of mourning where the local community can offer and receive condolences.",
+                  "category": "religious",
+                  "coords": [
+                        41.215258,
+                        37.846347
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TR-72",
     coords: [41.116, 37.873],
@@ -2068,7 +2554,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
             },
             {
                   "name": "Yeni Karaman Yarı Olimpik Yüzme Havuzu",
-                  "text": "Ein Schwimmbad beim Oyak Renault Werk in Bursa.",
+                  "text": "Semi-Olympia-Schwimmbad im Renault-Werk in Bursa.",
                   "category": "recreational",
                   "coords": [
                         28.991566,
@@ -2077,7 +2563,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
             },
             {
                   "name": "Nilüfer Belediyesi Konak Olimpik yüzme havuzu",
-                  "text": "Ein Schwimmbad beim Oyak Renault Werk in Bursa.",
+                  "text": "Olympia-Schwimmbad der Nilüfer-Gemeinde in Konak, nahe Renault Bursa.",
                   "category": "recreational",
                   "coords": [
                         28.982894,
@@ -2142,7 +2628,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
             },
             {
                   "name": "Yeni Karaman Yarı Olimpik Yüzme Havuzu",
-                  "text": "Úszómedence a bursai Oyak Renault gyárnál.",
+                  "text": "Yeni Karaman Yarı Olimpik Yüzme Havuzu, félolimpiai medence a Renault Bursa gyár területén.",
                   "category": "recreational",
                   "coords": [
                         28.991566,
@@ -2151,7 +2637,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
             },
             {
                   "name": "Nilüfer Belediyesi Konak Olimpik yüzme havuzu",
-                  "text": "Úszómedence a bursai Oyak Renault gyárnál.",
+                  "text": "Nilüfer Belediyesi Konak Olimpik Yüzme Havuzu, önkormányzati olimpiai medence Konakban, a Renault Bursa mellett.",
                   "category": "recreational",
                   "coords": [
                         28.982894,
@@ -2216,7 +2702,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
             },
             {
                   "name": "Yeni Karaman Yarı Olimpik Yüzme Havuzu",
-                  "text": "O piscină lângă fabrica Oyak Renault din Bursa.",
+                  "text": "Piscină semi-olimpică în incinta fabricii Renault Bursa.",
                   "category": "recreational",
                   "coords": [
                         28.991566,
@@ -2225,7 +2711,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
             },
             {
                   "name": "Nilüfer Belediyesi Konak Olimpik yüzme havuzu",
-                  "text": "O piscină lângă fabrica Oyak Renault din Bursa.",
+                  "text": "Piscina olimpică a Municipiului Nilüfer din Konak, lângă Renault Bursa.",
                   "category": "recreational",
                   "coords": [
                         28.982894,
@@ -2290,7 +2776,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
             },
             {
                   "name": "Yeni Karaman Yarı Olimpik Yüzme Havuzu",
-                  "text": "A swimming pool near the Oyak Renault Bursa Plant.",
+                  "text": "Semi-Olympic swimming pool within the Renault Bursa plant.",
                   "category": "recreational",
                   "coords": [
                         28.991566,
@@ -2299,7 +2785,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
             },
             {
                   "name": "Nilüfer Belediyesi Konak Olimpik yüzme havuzu",
-                  "text": "A swimming pool near the Oyak Renault Bursa Plant.",
+                  "text": "Olympic swimming pool of Nilüfer Municipality in Konak, near Renault Bursa.",
                   "category": "recreational",
                   "coords": [
                         28.982894,
@@ -2383,7 +2869,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
             },
             {
                   "name": "Derince Hamamı",
-                  "text": "Ein traditionelles türkisches Bad im Bezirk Derince.",
+                  "text": "Historisches Hamam in Derince, nahe dem Otosan-Werk in Gölcük.",
                   "category": "recreational",
                   "coords": [
                         29.828683,
@@ -2430,7 +2916,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
             },
             {
                   "name": "Derince Hamamı",
-                  "text": "Tradicionális törökfürdő Derince negyedében.",
+                  "text": "Derince Hamamı, történelmi török fürdő Derincében, az Otosan gyár közelében Gölcükben.",
                   "category": "recreational",
                   "coords": [
                         29.828683,
@@ -2477,7 +2963,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
             },
             {
                   "name": "Derince Hamamı",
-                  "text": "O baie turcească tradițională în districtul Derince.",
+                  "text": "Baia turcească istorică Derince, lângă fabrica Otosan din Gölcük.",
                   "category": "recreational",
                   "coords": [
                         29.828683,
@@ -2524,7 +3010,7 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
             },
             {
                   "name": "Derince Hamamı",
-                  "text": "A traditional Turkish bath located in the Derince district.",
+                  "text": "Historic hamam in Derince, near the Otosan plant in Gölcük.",
                   "category": "recreational",
                   "coords": [
                         29.828683,

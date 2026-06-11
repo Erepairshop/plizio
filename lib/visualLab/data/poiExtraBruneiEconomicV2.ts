@@ -46,7 +46,196 @@ export const poiExtraBruneiEconomicV2: POI[] = [
       fr: ["En service depuis novembre 1972.", "Capacité initiale de 5 millions de tonnes par an.", "Les trois actionnaires d'origine détiennent chacun des parts égales.", "Exporte chaque année plus de 100 cargaisons de GNL.", "L'usine dispose de cinq réservoirs de stockage pour le GNL.", "Emploie plus de 1 000 personnes.", "Fournisseur majeur pour les besoins énergétiques de Tokyo depuis les années 1970.", "La flotte se compose de méthaniers de classe B construits spécifiquement."],
     }, image: "/poi-images/brunei-lng-plant-economic-v2.webp"},
   {
-    id: "seria-oil-field-economic-v2",
+    id: "seria-oil-field-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chuch of our Lady Of Immaculate Conception",
+                  "text": "Eine christliche Pfarrkirche im wirtschaftlichen Zentrum des Seria-Ölfelds.",
+                  "category": "landmark",
+                  "coords": [
+                        114.334956,
+                        4.613278
+                  ]
+            },
+            {
+                  "name": "Saint Margaret's Church",
+                  "text": "Eine christliche Kultstätte in der Öl produzierenden Stadt Seria.",
+                  "category": "landmark",
+                  "coords": [
+                        114.327232,
+                        4.612694
+                  ]
+            },
+            {
+                  "name": "Masjid Setia Ali",
+                  "text": "Eine bedeutende Moschee, die islamische Gebetsdienste in der Region des Seria-Ölfelds anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        114.333478,
+                        4.61554
+                  ]
+            },
+            {
+                  "name": "Pasarneka Seria",
+                  "text": "Ein belebter Marktplatz in Seria, der eine große Vielfalt an lokalen Waren und täglichen Produkten anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        114.327702,
+                        4.605507
+                  ]
+            },
+            {
+                  "name": "Spa Thala",
+                  "text": "Ein entspannendes Wellnesscenter, das therapeutische Spa-Behandlungen in der Gegend von Seria anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        114.329364,
+                        4.613644
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chuch of our Lady Of Immaculate Conception",
+                  "text": "Keresztény plébániatemplom a Seria olajmező gazdasági központjában.",
+                  "category": "landmark",
+                  "coords": [
+                        114.334956,
+                        4.613278
+                  ]
+            },
+            {
+                  "name": "Saint Margaret's Church",
+                  "text": "Egy dedikált keresztény istentiszteleti hely a kőolaj-kitermelő Seria városában.",
+                  "category": "landmark",
+                  "coords": [
+                        114.327232,
+                        4.612694
+                  ]
+            },
+            {
+                  "name": "Masjid Setia Ali",
+                  "text": "Jelentős mecset, amely iszlám imaszolgálatokat kínál a Seria olajmező régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        114.333478,
+                        4.61554
+                  ]
+            },
+            {
+                  "name": "Pasarneka Seria",
+                  "text": "Nyüzsgő piac Seriában, amely a helyi áruk és napi termékek széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        114.327702,
+                        4.605507
+                  ]
+            },
+            {
+                  "name": "Spa Thala",
+                  "text": "Egy pihentető wellnessközpont, amely terápiás wellness kezeléseket kínál Seria területén.",
+                  "category": "recreational",
+                  "coords": [
+                        114.329364,
+                        4.613644
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chuch of our Lady Of Immaculate Conception",
+                  "text": "O biserică parohială creștină situată în centrul economic al câmpului petrolier Seria.",
+                  "category": "landmark",
+                  "coords": [
+                        114.334956,
+                        4.613278
+                  ]
+            },
+            {
+                  "name": "Saint Margaret's Church",
+                  "text": "Un lăcaș de cult creștin dedicat situat în orașul petrolier Seria.",
+                  "category": "landmark",
+                  "coords": [
+                        114.327232,
+                        4.612694
+                  ]
+            },
+            {
+                  "name": "Masjid Setia Ali",
+                  "text": "O moschee semnificativă care oferă slujbe de rugăciune islamică în regiunea câmpului petrolier Seria.",
+                  "category": "landmark",
+                  "coords": [
+                        114.333478,
+                        4.61554
+                  ]
+            },
+            {
+                  "name": "Pasarneka Seria",
+                  "text": "O piață aglomerată din Seria, care oferă o mare varietate de bunuri locale și produse zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        114.327702,
+                        4.605507
+                  ]
+            },
+            {
+                  "name": "Spa Thala",
+                  "text": "Un centru de wellness relaxant care oferă tratamente spa terapeutice în zona Seria.",
+                  "category": "recreational",
+                  "coords": [
+                        114.329364,
+                        4.613644
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chuch of our Lady Of Immaculate Conception",
+                  "text": "A Christian parish church situated in the economic hub of the Seria oil field.",
+                  "category": "landmark",
+                  "coords": [
+                        114.334956,
+                        4.613278
+                  ]
+            },
+            {
+                  "name": "Saint Margaret's Church",
+                  "text": "A dedicated Christian place of worship located in the oil-producing town of Seria.",
+                  "category": "landmark",
+                  "coords": [
+                        114.327232,
+                        4.612694
+                  ]
+            },
+            {
+                  "name": "Setia Ali Mosque",
+                  "text": "A significant mosque offering Islamic prayer services in the Seria oil field region.",
+                  "category": "landmark",
+                  "coords": [
+                        114.333478,
+                        4.61554
+                  ]
+            },
+            {
+                  "name": "Pasarneka Seria",
+                  "text": "A busy marketplace in Seria offering a wide variety of local goods and daily produce.",
+                  "category": "cultural",
+                  "coords": [
+                        114.327702,
+                        4.605507
+                  ]
+            },
+            {
+                  "name": "Spa Thala",
+                  "text": "A relaxing wellness center providing therapeutic spa treatments in the Seria area.",
+                  "category": "recreational",
+                  "coords": [
+                        114.329364,
+                        4.613644
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "BN-BE",
     coords: [114.321, 4.606],
@@ -132,7 +321,52 @@ export const poiExtraBruneiEconomicV2: POI[] = [
       fr: ["La construction a débuté à la fin des années 1960.", "Le quai principal mesure plus de 600 mètres de long.", "La profondeur de l'eau au poste d'amarrage est d'environ 12,5 mètres.", "Dispose d'installations spéciales pour le chargement du ciment et du bétail.", "Un terminal de croisière dédié a été inauguré en 2017.", "Le terminal à conteneurs peut traiter plus de 220 000 EVP par an.", "Liaisons maritimes directes avec les principaux ports asiatiques.", "Situé stratégiquement sur les principales routes maritimes d'Asie de l'Est."],
     }, image: "/poi-images/muara-port-economic-v2.webp"},
   {
-    id: "pulau-muara-besar-petrochemical-complex-economic-v2",
+    id: "pulau-muara-besar-petrochemical-complex-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Poni Divers",
+                  "text": "Dieses in der Nähe der Küste gelegene Tauchzentrum rüstet Abenteurer aus, um die lebhaften Korallenriffe und Meeresbewohner der umliegenden tropischen Gewässer zu erkunden.",
+                  "category": "landmark",
+                  "coords": [
+                        115.066936,
+                        4.992394
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Poni Divers",
+                  "text": "A part közelében működő búvárközpont felszereli a kalandvágyókat a környező trópusi vizek élénk korallzátonyainak és tengeri élővilágának felfedezéséhez.",
+                  "category": "landmark",
+                  "coords": [
+                        115.066936,
+                        4.992394
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Poni Divers",
+                  "text": "Operând în apropierea coastei, acest centru de scufundări echipează aventurierii pentru a explora recifele de corali vibrante și viața marină din apele tropicale înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        115.066936,
+                        4.992394
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Poni Divers",
+                  "text": "Operating near the coast, this dive center equips adventurers to explore the vibrant coral reefs and marine life of the surrounding tropical waters.",
+                  "category": "landmark",
+                  "coords": [
+                        115.066936,
+                        4.992394
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "BN-BM",
     coords: [115.066, 4.992],
@@ -347,7 +581,124 @@ export const poiExtraBruneiEconomicV2: POI[] = [
       fr: ["Le coût du projet s'est élevé à environ 1,3 milliard de dollars US.", "La capacité de production annuelle est de 1,365 million de tonnes d'urée.", "Consomme environ 1,6 million de mètres cubes de gaz naturel par jour.", "L'usine est l'une des plus économes en énergie au monde.", "Dispose de son propre terminal d'embarquement pour l'exportation.", "A créé plus de 500 emplois directs.", "La construction a duré environ quatre ans.", "L'urée produite est de qualité premium (granulée)."],
     }, image: "/poi-images/brunei-fertilizer-industries-plant-economic-v2.webp"},
   {
-    id: "salambigar-industrial-park-economic-v2",
+    id: "salambigar-industrial-park-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid Kampong Salambigar",
+                  "text": "Die Kampong Salambigar Moschee betreut die islamischen Gläubigen im Umfeld des Salambigar Industrieparks.",
+                  "category": "landmark",
+                  "coords": [
+                        114.98028,
+                        4.975443
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Mentiri",
+                  "text": "Die Kampong Mentiri Moschee ist ein Gotteshaus für die im Gebiet des Salambigar Industrieparks arbeitenden und lebenden Muslime.",
+                  "category": "landmark",
+                  "coords": [
+                        115.020249,
+                        4.968049
+                  ]
+            },
+            {
+                  "name": "Gerai Kampong Mentiri",
+                  "text": "Ein lokaler Marktplatz, der regionale Waren in der Nähe des Salambigar Industrial Park anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        115.020305,
+                        4.963212
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid Kampong Salambigar",
+                  "text": "A Kampong Salambigar mecset a Salambigar ipari park környékén élő muszlim hívőket szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        114.98028,
+                        4.975443
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Mentiri",
+                  "text": "A Kampong Mentiri mecset a Salambigar ipari park területén dolgozó és élő muszlimok imaháza.",
+                  "category": "landmark",
+                  "coords": [
+                        115.020249,
+                        4.968049
+                  ]
+            },
+            {
+                  "name": "Gerai Kampong Mentiri",
+                  "text": "Egy helyi piac, amely regionális árukat kínál a Salambigar Industrial Park közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        115.020305,
+                        4.963212
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid Kampong Salambigar",
+                  "text": "Moscheea Kampong Salambigar deservește credincioșii islamici din vecinătatea parcului industrial Salambigar.",
+                  "category": "landmark",
+                  "coords": [
+                        114.98028,
+                        4.975443
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Mentiri",
+                  "text": "Moscheea Kampong Mentiri este un lăcaș de cult pentru musulmanii care lucrează și trăiesc în zona parcului industrial Salambigar.",
+                  "category": "landmark",
+                  "coords": [
+                        115.020249,
+                        4.968049
+                  ]
+            },
+            {
+                  "name": "Gerai Kampong Mentiri",
+                  "text": "O piață locală care oferă bunuri regionale în apropiere de Salambigar Industrial Park.",
+                  "category": "cultural",
+                  "coords": [
+                        115.020305,
+                        4.963212
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kampong Salambigar Mosque",
+                  "text": "Kampong Salambigar Mosque serves the Islamic worshippers in the vicinity of the Salambigar Industrial Park.",
+                  "category": "landmark",
+                  "coords": [
+                        114.98028,
+                        4.975443
+                  ]
+            },
+            {
+                  "name": "Kampong Mentiri Mosque",
+                  "text": "Kampong Mentiri Mosque is a house of worship for Muslims working and living in the area of the Salambigar Industrial Park.",
+                  "category": "landmark",
+                  "coords": [
+                        115.020249,
+                        4.968049
+                  ]
+            },
+            {
+                  "name": "Gerai Kampong Mentiri",
+                  "text": "A local marketplace offering regional goods near the Salambigar Industrial Park.",
+                  "category": "cultural",
+                  "coords": [
+                        115.020305,
+                        4.963212
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "BN-BM",
     coords: [115.008, 4.965],
@@ -390,7 +741,124 @@ export const poiExtraBruneiEconomicV2: POI[] = [
       fr: ["S'étend sur une superficie d'environ 37 hectares.", "Le développement a commencé au début des années 1990.", "Propose des bâtiments industriels standards de 500 à 2 000 mètres carrés.", "Abrite plus de 100 entreprises locales et internationales.", "Mise l'accent sur la production certifiée Halal.", "Bonne connexion à la Muara-Tutong Highway.", "Soutenu par le 'Business Support Centre' du BEDB.", "Certaines entreprises exportent leurs produits dans la région."],
     }, image: "/poi-images/salambigar-industrial-park-economic-v2.webp"},
   {
-    id: "lambak-kanan-industrial-estate-economic-v2",
+    id: "lambak-kanan-industrial-estate-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid Mohammed Bolkiah",
+                  "text": "Die Mohammed Bolkiah Moschee ist ein wichtiges islamisches Zentrum im Industriegebiet Lambak Kanan.",
+                  "category": "landmark",
+                  "coords": [
+                        114.944827,
+                        4.945
+                  ]
+            },
+            {
+                  "name": "Masjid Suri Seri Begawan Raja Pengiran Anak Damit",
+                  "text": "Die Suri Seri Begawan Raja Pengiran Anak Damit Moschee bietet einen Ort der Besinnung inmitten des industriellen Umfelds von Lambak Kanan.",
+                  "category": "landmark",
+                  "coords": [
+                        114.955057,
+                        4.954223
+                  ]
+            },
+            {
+                  "name": "Gerai Aneka Ria Kampong Rimba",
+                  "text": "Der Gerai Aneka Ria Kampong Rimba ist ein geschäftiger Markt, der die Bewohner der umliegenden Industrieviertel versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        114.917518,
+                        4.953919
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid Mohammed Bolkiah",
+                  "text": "A Mohammed Bolkiah mecset egy fontos iszlám központ a Lambak Kanan ipari területen.",
+                  "category": "landmark",
+                  "coords": [
+                        114.944827,
+                        4.945
+                  ]
+            },
+            {
+                  "name": "Masjid Suri Seri Begawan Raja Pengiran Anak Damit",
+                  "text": "A Suri Seri Begawan Raja Pengiran Anak Damit mecset az elmélkedés helyszíne a Lambak Kanan ipari környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        114.955057,
+                        4.954223
+                  ]
+            },
+            {
+                  "name": "Gerai Aneka Ria Kampong Rimba",
+                  "text": "A Gerai Aneka Ria Kampong Rimba egy nyüzsgő piac, amely a környező ipari negyedek lakóit látja el.",
+                  "category": "cultural",
+                  "coords": [
+                        114.917518,
+                        4.953919
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid Mohammed Bolkiah",
+                  "text": "Moscheea Mohammed Bolkiah este un centru islamic important din zona industrială Lambak Kanan.",
+                  "category": "landmark",
+                  "coords": [
+                        114.944827,
+                        4.945
+                  ]
+            },
+            {
+                  "name": "Masjid Suri Seri Begawan Raja Pengiran Anak Damit",
+                  "text": "Moscheea Suri Seri Begawan Raja Pengiran Anak Damit oferă un loc de reculegere în mijlocul mediului industrial din Lambak Kanan.",
+                  "category": "landmark",
+                  "coords": [
+                        114.955057,
+                        4.954223
+                  ]
+            },
+            {
+                  "name": "Gerai Aneka Ria Kampong Rimba",
+                  "text": "Gerai Aneka Ria Kampong Rimba este o piață animată care aprovizionează locuitorii din cartierele industriale învecinate.",
+                  "category": "cultural",
+                  "coords": [
+                        114.917518,
+                        4.953919
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mohammed Bolkiah Mosque",
+                  "text": "Mohammed Bolkiah Mosque is an important Islamic center within the Lambak Kanan Industrial Estate.",
+                  "category": "landmark",
+                  "coords": [
+                        114.944827,
+                        4.945
+                  ]
+            },
+            {
+                  "name": "Suri Seri Begawan Raja Pengiran Anak Damit Mosque",
+                  "text": "Suri Seri Begawan Raja Pengiran Anak Damit Mosque offers a place of reflection amidst the industrial setting of Lambak Kanan.",
+                  "category": "landmark",
+                  "coords": [
+                        114.955057,
+                        4.954223
+                  ]
+            },
+            {
+                  "name": "Gerai Aneka Ria Kampong Rimba",
+                  "text": "Gerai Aneka Ria Kampong Rimba is a bustling market supplying the residents of the surrounding industrial districts.",
+                  "category": "cultural",
+                  "coords": [
+                        114.917518,
+                        4.953919
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "BN-BM",
     coords: [114.945, 4.954],
@@ -476,7 +944,340 @@ export const poiExtraBruneiEconomicV2: POI[] = [
       fr: ["Le trajet vers Labuan dure environ une heure.", "Peut accueillir jusqu'à 1 million de passagers par an.", "Géré par le Marine Department of Brunei.", "Des plans de modernisation et d'extension sont prévus.", "Apprécié des habitants pour les excursions d'une journée et le shopping.", "La rampe Roll-on/Roll-off (Ro-Ro) peut accueillir des dizaines de voitures par trajet.", "Les services de ferry sont exploités par des entreprises privées.", "Offre également des liaisons vers Sipitang et Lawas en Malaisie."],
     }, image: "/poi-images/serasa-ferry-terminal-economic-v2.webp"},
   {
-    id: "kuala-belait-port-economic-v2",
+    id: "kuala-belait-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teapot",
+                  "text": "Dieses ungewöhnliche Straßenmonument in Kuala Belait hat die Form einer großen, dekorativen Teekanne, die als lokales Wahrzeichen dient.",
+                  "category": "historical",
+                  "coords": [
+                        114.219812,
+                        4.579982
+                  ]
+            },
+            {
+                  "name": "Menara Cendera Kenangan",
+                  "text": "Dieser markante Denkmalturm in Kuala Belait, der zum Gedenken an ein wichtiges Ereignis errichtet wurde, sticht aus dem Stadtbild hervor.",
+                  "category": "historical",
+                  "coords": [
+                        114.196534,
+                        4.577424
+                  ]
+            },
+            {
+                  "name": "Muzium Daerah Belait",
+                  "text": "Dieses in einem historischen Gebäude untergebrachte Museum stellt lokale Artefakte und die Kulturgeschichte des Distrikts Kuala Belait aus.",
+                  "category": "museum",
+                  "coords": [
+                        114.191008,
+                        4.58882
+                  ]
+            },
+            {
+                  "name": "Masjid Mohammad Jamalul Alam",
+                  "text": "Diese markante islamische Moschee in Kuala Belait zeichnet sich durch markante architektonische Kuppeln aus und dient als wichtiger Treffpunkt für lokale Muslime.",
+                  "category": "landmark",
+                  "coords": [
+                        114.1905,
+                        4.585215
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Pandan",
+                  "text": "Diese Moschee im Wohngebiet von Kuala Belait bietet Gebetsräume und religiöse Dienstleistungen für die lokale islamische Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        114.232444,
+                        4.586304
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Sungai Teraban",
+                  "text": "Diese in der Nähe des Flusses in Kuala Belait gelegene Moschee ist der islamischen Gemeinde der Siedlung Sungai Teraban gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        114.171514,
+                        4.586578
+                  ]
+            },
+            {
+                  "name": "St. John's Church",
+                  "text": "Dieses etablierte Kirchengebäude in Kuala Belait bietet christliche Gottesdienste und Gemeindeveranstaltungen für seine lokalen Gemeindemitglieder an.",
+                  "category": "religious",
+                  "coords": [
+                        114.193983,
+                        4.582598
+                  ]
+            },
+            {
+                  "name": "St. Jame's Church",
+                  "text": "Als lokales Zentrum des christlichen Glaubens in Kuala Belait bietet diese Kirche einen speziellen Raum für regelmäßige religiöse Versammlungen.",
+                  "category": "landmark",
+                  "coords": [
+                        114.19353,
+                        4.588214
+                  ]
+            },
+            {
+                  "name": "Goldunited SDN BHD",
+                  "text": "Diese Marktanlage in Kuala Belait fungiert als kommerzieller Knotenpunkt, an dem vielfältige Einzelhandelswaren und lokale Produkte gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        114.208271,
+                        4.573386
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teapot",
+                  "text": "Ez a szokatlan Kuala Belait-i út menti emlékmű egy nagy, dekoratív teáskanna formáját ölti, amely helyi nevezetességként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        114.219812,
+                        4.579982
+                  ]
+            },
+            {
+                  "name": "Menara Cendera Kenangan",
+                  "text": "Egy jelentős esemény emlékére épült ez a kiemelkedő emléktorony Kuala Belaitban, amely kitűnik a város közigazgatási tájából.",
+                  "category": "historical",
+                  "coords": [
+                        114.196534,
+                        4.577424
+                  ]
+            },
+            {
+                  "name": "Muzium Daerah Belait",
+                  "text": "A történelmi épületben helyet kapó múzeum a Kuala Belait körzethez kapcsolódó helyi műtárgyakat és kultúrtörténetet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        114.191008,
+                        4.58882
+                  ]
+            },
+            {
+                  "name": "Masjid Mohammad Jamalul Alam",
+                  "text": "Ez a kiemelkedő Kuala Belait-i iszlám mecset jellegzetes építészeti kupolákkal rendelkezik, és a helyi muszlimok fő gyülekezőhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        114.1905,
+                        4.585215
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Pandan",
+                  "text": "A Kuala Belait lakóövezetében található mecset imádkozási lehetőségeket és vallási szolgáltatásokat nyújt a helyi iszlám közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        114.232444,
+                        4.586304
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Sungai Teraban",
+                  "text": "A Kuala Belait-i folyó közelében fekvő mecset a Sungai Teraban település iszlám gyülekezetének van szentelve.",
+                  "category": "landmark",
+                  "coords": [
+                        114.171514,
+                        4.586578
+                  ]
+            },
+            {
+                  "name": "St. John's Church",
+                  "text": "Ez a jól bejáratott Kuala Belait-i templomépület keresztény istentiszteleteket és közösségi eseményeket kínál helyi gyülekezete számára.",
+                  "category": "religious",
+                  "coords": [
+                        114.193983,
+                        4.582598
+                  ]
+            },
+            {
+                  "name": "St. Jame's Church",
+                  "text": "A keresztény hit helyi központjaként ez a Kuala Belait-i templom dedikált teret biztosít a rendszeres vallási gyülekezetek számára.",
+                  "category": "landmark",
+                  "coords": [
+                        114.19353,
+                        4.588214
+                  ]
+            },
+            {
+                  "name": "Goldunited SDN BHD",
+                  "text": "Ez a Kuala Belait-i piactér kereskedelmi központként működik, ahol különféle kiskereskedelmi és helyi árukkal kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        114.208271,
+                        4.573386
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teapot",
+                  "text": "Acest monument rutier neobișnuit din Kuala Belait ia forma unui ceainic mare și decorativ care servește drept punct de reper local.",
+                  "category": "historical",
+                  "coords": [
+                        114.219812,
+                        4.579982
+                  ]
+            },
+            {
+                  "name": "Menara Cendera Kenangan",
+                  "text": "Construit pentru a comemora un eveniment semnificativ, acest turn monumental proeminent din Kuala Belait se remarcă în peisajul administrativ al orașului.",
+                  "category": "historical",
+                  "coords": [
+                        114.196534,
+                        4.577424
+                  ]
+            },
+            {
+                  "name": "Muzium Daerah Belait",
+                  "text": "Găzduit într-o clădire istorică, acest muzeu expune artefacte locale și istoria culturală pertinentă districtului Kuala Belait.",
+                  "category": "museum",
+                  "coords": [
+                        114.191008,
+                        4.58882
+                  ]
+            },
+            {
+                  "name": "Masjid Mohammad Jamalul Alam",
+                  "text": "Această proeminentă moschee islamică din Kuala Belait prezintă domuri arhitecturale distincte și servește ca un loc principal de adunare pentru musulmanii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        114.1905,
+                        4.585215
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Pandan",
+                  "text": "Situată în zona rezidențială din Kuala Belait, această moschee oferă facilități de rugăciune și servicii religioase pentru comunitatea islamică locală.",
+                  "category": "landmark",
+                  "coords": [
+                        114.232444,
+                        4.586304
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Sungai Teraban",
+                  "text": "Situată lângă râu în Kuala Belait, această moschee este dedicată congregației islamice din așezarea Sungai Teraban.",
+                  "category": "landmark",
+                  "coords": [
+                        114.171514,
+                        4.586578
+                  ]
+            },
+            {
+                  "name": "St. John's Church",
+                  "text": "Această clădire bisericească consacrată din Kuala Belait oferă slujbe creștine și evenimente comunitare pentru enoriașii săi locali.",
+                  "category": "religious",
+                  "coords": [
+                        114.193983,
+                        4.582598
+                  ]
+            },
+            {
+                  "name": "St. Jame's Church",
+                  "text": "Ca centru local al credinței creștine din Kuala Belait, această biserică oferă un spațiu dedicat pentru adunările religioase regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        114.19353,
+                        4.588214
+                  ]
+            },
+            {
+                  "name": "Goldunited SDN BHD",
+                  "text": "Această facilitate de piață din Kuala Belait funcționează ca un centru comercial unde sunt tranzacționate diverse mărfuri cu amănuntul și produse locale.",
+                  "category": "cultural",
+                  "coords": [
+                        114.208271,
+                        4.573386
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teapot",
+                  "text": "This unusual roadside monument in Kuala Belait takes the shape of a large, decorative teapot acting as a local landmark.",
+                  "category": "historical",
+                  "coords": [
+                        114.219812,
+                        4.579982
+                  ]
+            },
+            {
+                  "name": "Menara Cendera Kenangan",
+                  "text": "Built to commemorate a significant event, this prominent monument tower in Kuala Belait stands out in the town's administrative landscape.",
+                  "category": "historical",
+                  "coords": [
+                        114.196534,
+                        4.577424
+                  ]
+            },
+            {
+                  "name": "Belait District Museum",
+                  "text": "Housed in a historic building, this museum exhibits local artifacts and cultural history pertinent to the Kuala Belait district.",
+                  "category": "museum",
+                  "coords": [
+                        114.191008,
+                        4.58882
+                  ]
+            },
+            {
+                  "name": "Mohammad Jamalul Alam Mosque",
+                  "text": "This prominent Islamic mosque in Kuala Belait features distinct architectural domes and serves as a major gathering place for local Muslims.",
+                  "category": "landmark",
+                  "coords": [
+                        114.1905,
+                        4.585215
+                  ]
+            },
+            {
+                  "name": "Kampong Pandan Mosque",
+                  "text": "Located in the residential area of Kuala Belait, this mosque provides prayer facilities and religious services for the local Islamic community.",
+                  "category": "landmark",
+                  "coords": [
+                        114.232444,
+                        4.586304
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Sungai Teraban",
+                  "text": "Situated near the river in Kuala Belait, this mosque is dedicated to the Islamic congregation of the Sungai Teraban settlement.",
+                  "category": "landmark",
+                  "coords": [
+                        114.171514,
+                        4.586578
+                  ]
+            },
+            {
+                  "name": "St. John's Church",
+                  "text": "This established church building in Kuala Belait offers Christian worship services and community events for its local parishioners.",
+                  "category": "religious",
+                  "coords": [
+                        114.193983,
+                        4.582598
+                  ]
+            },
+            {
+                  "name": "St. Jame's Church",
+                  "text": "As a local center for Christian faith in Kuala Belait, this church provides a dedicated space for regular religious congregations.",
+                  "category": "landmark",
+                  "coords": [
+                        114.19353,
+                        4.588214
+                  ]
+            },
+            {
+                  "name": "Goldunited Sdn Bhd",
+                  "text": "This marketplace facility in Kuala Belait operates as a commercial hub where diverse retail goods and local merchandise are traded.",
+                  "category": "cultural",
+                  "coords": [
+                        114.208271,
+                        4.573386
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "BN-BE",
     coords: [114.195, 4.582],
@@ -519,7 +1320,52 @@ export const poiExtraBruneiEconomicV2: POI[] = [
       fr: ["Le port a été fondé dans les années 1930.", "La jetée a été construite pour réduire l'ensablement.", "La longueur maximale des navires est d'environ 85 mètres.", "Le chenal est régulièrement dragué pour maintenir la profondeur.", "Abrite la flotte de navires de ravitaillement offshore de BSP.", "Plusieurs sociétés internationales de logistique maritime y ont des succursales.", "Un site important pour la formation des marins à Brunei.", "Le port est opérationnel 24 heures sur 24."],
     }, image: "/poi-images/kuala-belait-port-economic-v2.webp"},
   {
-    id: "berakas-power-station-economic-v2",
+    id: "berakas-power-station-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid Lambak",
+                  "text": "Die Masjid Lambak steht in der Nähe des Berakas Kraftwerks und dient den Arbeitern und Anwohnern.",
+                  "category": "landmark",
+                  "coords": [
+                        114.944766,
+                        4.968676
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid Lambak",
+                  "text": "A Masjid Lambak a Berakas erőmű közelében található, a munkások és a helyi lakosok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        114.944766,
+                        4.968676
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid Lambak",
+                  "text": "Masjid Lambak este situată în apropierea centralei electrice Berakas, deservind muncitorii și locuitorii zonei.",
+                  "category": "landmark",
+                  "coords": [
+                        114.944766,
+                        4.968676
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjid Lambak",
+                  "text": "Masjid Lambak is located near the Berakas Power Station, serving the workers and local residents.",
+                  "category": "landmark",
+                  "coords": [
+                        114.944766,
+                        4.968676
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "BN-BM",
     coords: [114.945, 4.968],
@@ -562,7 +1408,268 @@ export const poiExtraBruneiEconomicV2: POI[] = [
       fr: ["La Berakas Power Management Company a été fondée en 1990.", "La capacité totale des installations de BPC dépasse les 500 MW.", "La centrale utilise des turbines à gaz General Electric (GE).", "Elle sert de centrale de pointe et de secours.", "L'installation fonctionne avec un rendement élevé pour une centrale à turbines à gaz.", "Fait partie du projet national « 24/7 Power ».", "Dispose d'un raccordement direct par pipeline pour l'approvisionnement en gaz.", "BPC exploite également la centrale électrique de Bukit Panggal."],
     }, image: "/poi-images/berakas-power-station-economic-v2.webp"},
   {
-    id: "bukit-panggal-power-station-economic-v2",
+    id: "bukit-panggal-power-station-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sungai Birau",
+                  "text": "Der Aussichtspunkt Sungai Birau bietet Ausblicke auf den friedlichen Wasserlauf in der Nähe der Bukit Panggal Power Station.",
+                  "category": "natural",
+                  "coords": [
+                        114.67179,
+                        4.8016
+                  ]
+            },
+            {
+                  "name": "Sungai Panchor",
+                  "text": "Von Sungai Panchor aus überblickt man eine üppig bewachsene Flusslandschaft im wirtschaftlichen Umfeld von Bukit Panggal.",
+                  "category": "natural",
+                  "coords": [
+                        114.671746,
+                        4.803267
+                  ]
+            },
+            {
+                  "name": "Lurah Saban",
+                  "text": "Lurah Saban ist ein malerischer Aussichtspunkt, der die von Dschungel geprägten Hügel der Bukit Panggal Region zeigt.",
+                  "category": "natural",
+                  "coords": [
+                        114.668556,
+                        4.799525
+                  ]
+            },
+            {
+                  "name": "Taman Seri Warisan Emas",
+                  "text": "Der Taman Seri Warisan Emas ist ein angelegter Monumentalpark, der das kulturelle Erbe der Bukit Panggal Region feiert.",
+                  "category": "historical",
+                  "coords": [
+                        114.661237,
+                        4.815146
+                  ]
+            },
+            {
+                  "name": "\"Tutong\" Sign",
+                  "text": "Das \"Tutong\" Schild ist ein auffälliges Wahrzeichen, das Besucher im Distrikt nahe Bukit Panggal willkommen heißt.",
+                  "category": "historical",
+                  "coords": [
+                        114.667974,
+                        4.819168
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Keriam",
+                  "text": "Die Kampong Keriam Moschee ist eine architektonisch markante islamische Gebetsstätte im Distrikt Tutong.",
+                  "category": "religious",
+                  "coords": [
+                        114.693438,
+                        4.818374
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Penanjong",
+                  "text": "Die Kampong Penanjong Moschee ist eine dörfliche Versammlungsstätte für die muslimische Gemeinschaft in der Nähe von Bukit Panggal.",
+                  "category": "landmark",
+                  "coords": [
+                        114.673674,
+                        4.835426
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sungai Birau",
+                  "text": "A Sungai Birau kilátó a Bukit Panggal Power Station közelében lévő békés vízfolyásra nyújt kilátást.",
+                  "category": "natural",
+                  "coords": [
+                        114.67179,
+                        4.8016
+                  ]
+            },
+            {
+                  "name": "Sungai Panchor",
+                  "text": "A Sungai Panchor kilátópontról egy buja növényzetű folyami tájra nyílik kilátás Bukit Panggal gazdasági övezetében.",
+                  "category": "natural",
+                  "coords": [
+                        114.671746,
+                        4.803267
+                  ]
+            },
+            {
+                  "name": "Lurah Saban",
+                  "text": "A Lurah Saban egy festői kilátó, amely bemutatja a Bukit Panggal régió dzsungellel borított dombjait.",
+                  "category": "natural",
+                  "coords": [
+                        114.668556,
+                        4.799525
+                  ]
+            },
+            {
+                  "name": "Taman Seri Warisan Emas",
+                  "text": "A Taman Seri Warisan Emas egy parkosított emlékmű, amely a Bukit Panggal régió kulturális örökségét ünnepli.",
+                  "category": "historical",
+                  "coords": [
+                        114.661237,
+                        4.815146
+                  ]
+            },
+            {
+                  "name": "\"Tutong\" Sign",
+                  "text": "A \"Tutong\" felirat egy feltűnő tájékozódási pont, amely üdvözli a látogatókat a Bukit Panggal melletti körzetben.",
+                  "category": "historical",
+                  "coords": [
+                        114.667974,
+                        4.819168
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Keriam",
+                  "text": "A Kampong Keriam mecset egy építészetileg kiemelkedő iszlám imaház a Tutong körzetben.",
+                  "category": "religious",
+                  "coords": [
+                        114.693438,
+                        4.818374
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Penanjong",
+                  "text": "A Kampong Penanjong mecset a muszlim közösség falusi gyülekezeti helye Bukit Panggal közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        114.673674,
+                        4.835426
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sungai Birau",
+                  "text": "Punctul de belvedere Sungai Birau oferă priveliști asupra cursului de apă liniștit din apropierea centralei Bukit Panggal.",
+                  "category": "natural",
+                  "coords": [
+                        114.67179,
+                        4.8016
+                  ]
+            },
+            {
+                  "name": "Sungai Panchor",
+                  "text": "De la Sungai Panchor, privirea se extinde peste un peisaj fluvial cu vegetație abundentă, în zona economică Bukit Panggal.",
+                  "category": "natural",
+                  "coords": [
+                        114.671746,
+                        4.803267
+                  ]
+            },
+            {
+                  "name": "Lurah Saban",
+                  "text": "Lurah Saban este un punct de belvedere pitoresc, ce prezintă dealurile acoperite de junglă ale regiunii Bukit Panggal.",
+                  "category": "natural",
+                  "coords": [
+                        114.668556,
+                        4.799525
+                  ]
+            },
+            {
+                  "name": "Taman Seri Warisan Emas",
+                  "text": "Taman Seri Warisan Emas este un parc monumental amenajat, care celebrează moștenirea culturală a regiunii Bukit Panggal.",
+                  "category": "historical",
+                  "coords": [
+                        114.661237,
+                        4.815146
+                  ]
+            },
+            {
+                  "name": "\"Tutong\" Sign",
+                  "text": "Semnul „Tutong” este un reper vizibil ce întâmpină vizitatorii în districtul din apropiere de Bukit Panggal.",
+                  "category": "historical",
+                  "coords": [
+                        114.667974,
+                        4.819168
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Keriam",
+                  "text": "Moscheea Kampong Keriam este un lăcaș de rugăciune islamic cu arhitectură distinctivă din districtul Tutong.",
+                  "category": "religious",
+                  "coords": [
+                        114.693438,
+                        4.818374
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Penanjong",
+                  "text": "Moscheea Kampong Penanjong este un loc de adunare rural pentru comunitatea musulmană din apropiere de Bukit Panggal.",
+                  "category": "landmark",
+                  "coords": [
+                        114.673674,
+                        4.835426
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sungai Birau",
+                  "text": "The Sungai Birau viewpoint offers sights of the peaceful waterway near the Bukit Panggal Power Station.",
+                  "category": "natural",
+                  "coords": [
+                        114.67179,
+                        4.8016
+                  ]
+            },
+            {
+                  "name": "Sungai Panchor",
+                  "text": "Sungai Panchor overlooks a lush river landscape within the economic environment of Bukit Panggal.",
+                  "category": "natural",
+                  "coords": [
+                        114.671746,
+                        4.803267
+                  ]
+            },
+            {
+                  "name": "Lurah Saban",
+                  "text": "Lurah Saban is a scenic viewpoint revealing the jungle-clad hills of the Bukit Panggal region.",
+                  "category": "natural",
+                  "coords": [
+                        114.668556,
+                        4.799525
+                  ]
+            },
+            {
+                  "name": "Taman Seri Warisan Emas",
+                  "text": "Taman Seri Warisan Emas is a landscaped monument park celebrating the cultural heritage of the Bukit Panggal region.",
+                  "category": "historical",
+                  "coords": [
+                        114.661237,
+                        4.815146
+                  ]
+            },
+            {
+                  "name": "\"Tutong\" Sign",
+                  "text": "The \"Tutong\" Sign is a prominent landmark welcoming visitors to the district near Bukit Panggal.",
+                  "category": "historical",
+                  "coords": [
+                        114.667974,
+                        4.819168
+                  ]
+            },
+            {
+                  "name": "Kampong Keriam Mosque",
+                  "text": "The Kampong Keriam Mosque is an architecturally distinct Islamic place of worship located in the Tutong District.",
+                  "category": "religious",
+                  "coords": [
+                        114.693438,
+                        4.818374
+                  ]
+            },
+            {
+                  "name": "Kampong Penanjong Mosque",
+                  "text": "Kampong Penanjong Mosque is a village gathering site for the local Muslim community near Bukit Panggal.",
+                  "category": "landmark",
+                  "coords": [
+                        114.673674,
+                        4.835426
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "BN-TU",
     coords: [114.675, 4.802],
@@ -692,7 +1799,88 @@ export const poiExtraBruneiEconomicV2: POI[] = [
     }
   },
   {
-    id: "anggerek-desa-technology-park-economic-v2",
+    id: "anggerek-desa-technology-park-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Surau Lapangan Terbang Antarabangsa Brunei Darussalam",
+                  "text": "Der Surau am Brunei Darussalam International Airport bietet Reisenden in der Nähe des Technologieparks Anggerek Desa einen Ort zum Gebet.",
+                  "category": "landmark",
+                  "coords": [
+                        114.933884,
+                        4.943969
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Pulaie",
+                  "text": "Die Kampong Pulaie Moschee liegt verkehrsgünstig nahe dem modernen Technologiepark Anggerek Desa.",
+                  "category": "landmark",
+                  "coords": [
+                        114.951638,
+                        4.933309
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Surau Lapangan Terbang Antarabangsa Brunei Darussalam",
+                  "text": "A Brunei Darussalam Nemzetközi Repülőtér Surauja az Anggerek Desa technológiai park közelében lévő utazóknak biztosít imádkozóhelyet.",
+                  "category": "landmark",
+                  "coords": [
+                        114.933884,
+                        4.943969
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Pulaie",
+                  "text": "A Kampong Pulaie mecset közlekedési szempontból kedvező helyen, a modern Anggerek Desa technológiai park közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        114.951638,
+                        4.933309
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Surau Lapangan Terbang Antarabangsa Brunei Darussalam",
+                  "text": "Surau de la Aeroportul Internațional Brunei Darussalam oferă călătorilor un loc de rugăciune în apropierea parcului tehnologic Anggerek Desa.",
+                  "category": "landmark",
+                  "coords": [
+                        114.933884,
+                        4.943969
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Pulaie",
+                  "text": "Moscheea Kampong Pulaie este situată convenabil lângă parcul tehnologic modern Anggerek Desa.",
+                  "category": "landmark",
+                  "coords": [
+                        114.951638,
+                        4.933309
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Brunei Darussalam International Airport Surau",
+                  "text": "The Brunei Darussalam International Airport Surau offers travelers a place to pray near the Anggerek Desa Technology Park.",
+                  "category": "landmark",
+                  "coords": [
+                        114.933884,
+                        4.943969
+                  ]
+            },
+            {
+                  "name": "Kampong Pulaie Mosque",
+                  "text": "Kampong Pulaie Mosque is conveniently located near the modern Anggerek Desa Technology Park.",
+                  "category": "landmark",
+                  "coords": [
+                        114.951638,
+                        4.933309
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "BN-BM",
     coords: [114.945, 4.935],
@@ -735,7 +1923,196 @@ export const poiExtraBruneiEconomicV2: POI[] = [
       fr: ["S'étend sur une superficie de 5,5 hectares.", "Idéalement situé à proximité du centre-ville de Bandar Seri Begawan.", "L'iCentre a accompagné plus de 100 start-ups depuis sa création.", "Dispose d'un centre de données certifié Tier 3.", "Offre une connexion Internet par fibre optique à haut débit.", "Abrite Microsoft Brunei et d'autres géants de la technologie.", "Organise régulièrement des événements technologiques, des hackathons et des ateliers.", "Fait partie de l'initiative « Smart Nation » du Brunei."],
     }, image: "/poi-images/anggerek-desa-technology-park-economic-v2.webp"},
   {
-    id: "beribi-industrial-complex-economic-v2",
+    id: "beribi-industrial-complex-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Surau Polis Gadong",
+                  "text": "Ein islamischer Gebetsraum, der speziell für das Polizeipersonal im Industriegebiet Beribi eingerichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        114.903639,
+                        4.906975
+                  ]
+            },
+            {
+                  "name": "Masjid Raja Isteri Pengiran Anak Hajah Saleha",
+                  "text": "Eine wunderschön erbaute, nach königlichen Hoheiten benannte Staatsmoschee, die der Gemeinde rund um den Industriekomplex Beribi dient.",
+                  "category": "landmark",
+                  "coords": [
+                        114.899229,
+                        4.93376
+                  ]
+            },
+            {
+                  "name": "Masjid Pengiran Muda 'Abdul Malik",
+                  "text": "Ein bedeutendes islamisches Heiligtum zu Ehren der bruneiischen Königsfamilie in der Nähe des Bezirks Beribi.",
+                  "category": "landmark",
+                  "coords": [
+                        114.889705,
+                        4.921707
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Perpindahan Mata-Mata",
+                  "text": "Ein zentraler muslimischer Kultort, der für die umgesiedelte Gemeinde im Wohnungsbauprojekt Mata-Mata Gadong erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        114.88811,
+                        4.900449
+                  ]
+            },
+            {
+                  "name": "Balai Ibadat Kampong Mata-Mata",
+                  "text": "Ein lokaler Gebetssaal, der einen bequemen Ort für die täglichen muslimischen Gebete im Viertel Kampong Mata-Mata bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        114.89561,
+                        4.90022
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Surau Polis Gadong",
+                  "text": "Iszlám imaterem, amelyet kifejezetten a beribii ipari területen dolgozó rendőrségi személyzet számára hoztak létre.",
+                  "category": "landmark",
+                  "coords": [
+                        114.903639,
+                        4.906975
+                  ]
+            },
+            {
+                  "name": "Masjid Raja Isteri Pengiran Anak Hajah Saleha",
+                  "text": "Egy gyönyörűen megépített, egy királyi családtagságról elnevezett állami mecset, amely a Beribi ipari komplexum körüli közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        114.899229,
+                        4.93376
+                  ]
+            },
+            {
+                  "name": "Masjid Pengiran Muda 'Abdul Malik",
+                  "text": "A brunei királyi család tiszteletére emelt jelentős iszlám szentély, amely a Beribi kerület közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        114.889705,
+                        4.921707
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Perpindahan Mata-Mata",
+                  "text": "Központi muszlim istentiszteleti hely, amelyet az áttelepített közösség számára építettek a Mata-Mata Gadong lakásépítési projektben.",
+                  "category": "landmark",
+                  "coords": [
+                        114.88811,
+                        4.900449
+                  ]
+            },
+            {
+                  "name": "Balai Ibadat Kampong Mata-Mata",
+                  "text": "Helyi imaterem, amely kényelmes helyet biztosít a napi muszlim istentisztelethez Kampong Mata-Mata negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        114.89561,
+                        4.90022
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Surau Polis Gadong",
+                  "text": "O sală de rugăciune islamică înființată special pentru personalul poliției din zona industrială Beribi.",
+                  "category": "landmark",
+                  "coords": [
+                        114.903639,
+                        4.906975
+                  ]
+            },
+            {
+                  "name": "Masjid Raja Isteri Pengiran Anak Hajah Saleha",
+                  "text": "O moschee de stat frumos construită, numită după regalitate, care servește comunitatea din jurul complexului industrial Beribi.",
+                  "category": "landmark",
+                  "coords": [
+                        114.899229,
+                        4.93376
+                  ]
+            },
+            {
+                  "name": "Masjid Pengiran Muda 'Abdul Malik",
+                  "text": "Un sanctuar islamic semnificativ care onorează regalitatea din Brunei, situat în apropierea districtului Beribi.",
+                  "category": "landmark",
+                  "coords": [
+                        114.889705,
+                        4.921707
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Perpindahan Mata-Mata",
+                  "text": "Un lăcaș de cult musulman central construit pentru comunitatea relocată din proiectul de locuințe Mata-Mata Gadong.",
+                  "category": "landmark",
+                  "coords": [
+                        114.88811,
+                        4.900449
+                  ]
+            },
+            {
+                  "name": "Balai Ibadat Kampong Mata-Mata",
+                  "text": "O sală de rugăciune locală care oferă un loc convenabil pentru închinarea musulmană zilnică în cartierul Kampong Mata-Mata.",
+                  "category": "landmark",
+                  "coords": [
+                        114.89561,
+                        4.90022
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Surau Polis Gadong",
+                  "text": "An Islamic prayer room established specifically for the police personnel in the Beribi industrial area.",
+                  "category": "landmark",
+                  "coords": [
+                        114.903639,
+                        4.906975
+                  ]
+            },
+            {
+                  "name": "Raja Isteri Pengiran Anak Hajah Saleha Mosque",
+                  "text": "A beautifully constructed state mosque named after royalty, serving the community around the Beribi industrial complex.",
+                  "category": "landmark",
+                  "coords": [
+                        114.899229,
+                        4.93376
+                  ]
+            },
+            {
+                  "name": "Pengiran Muda 'Abdul Malik Mosque",
+                  "text": "A significant Islamic sanctuary honoring Bruneian royalty, situated near the Beribi district.",
+                  "category": "landmark",
+                  "coords": [
+                        114.889705,
+                        4.921707
+                  ]
+            },
+            {
+                  "name": "Kampong Perpindahan Mata-Mata Gadong Mosque",
+                  "text": "A central Muslim worship site built for the relocated community in the Mata-Mata Gadong housing scheme.",
+                  "category": "landmark",
+                  "coords": [
+                        114.88811,
+                        4.900449
+                  ]
+            },
+            {
+                  "name": "Balai Ibadat Kampong Mata-Mata",
+                  "text": "A local prayer hall providing a convenient place for daily Muslim worship in the Kampong Mata-Mata neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        114.89561,
+                        4.90022
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "BN-BM",
     coords: [114.912, 4.918],
@@ -778,7 +2155,88 @@ export const poiExtraBruneiEconomicV2: POI[] = [
       fr: ["Développé dans les années 1980.", "Comprend des centaines d'unités commerciales individuelles.", "De nombreuses grandes marques automobiles internationales y possèdent des showrooms.", "Connu pour ses garages automobiles spécialisés.", "Volume de trafic élevé pendant les heures de bureau.", "Certains des premiers grands supermarchés du Brunei se trouvaient à proximité.", "Fait l'objet d'une rénovation et d'une réhabilitation constantes.", "Un indicateur important du sentiment des consommateurs locaux."],
     }, image: "/poi-images/beribi-industrial-complex-economic-v2.webp"},
   {
-    id: "temburong-stone-quarry-economic-v2",
+    id: "temburong-stone-quarry-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bukit Telugong",
+                  "text": "Ein markanter Berggipfel, der steil in den Waldlandschaften des Bezirks Temburong aufragt.",
+                  "category": "natural",
+                  "coords": [
+                        115.127245,
+                        4.641873
+                  ]
+            },
+            {
+                  "name": "Bukit Lutut",
+                  "text": "Ein schroffer, hoher Gipfel, der die dichte Dschungeltopographie von Temburong prägt.",
+                  "category": "natural",
+                  "coords": [
+                        115.163986,
+                        4.602213
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bukit Telugong",
+                  "text": "Egy jellegzetes hegycsúcs, amely meredeken emelkedik ki a Temburong körzet erdős tájaiból.",
+                  "category": "natural",
+                  "coords": [
+                        115.127245,
+                        4.641873
+                  ]
+            },
+            {
+                  "name": "Bukit Lutut",
+                  "text": "Egy zord, magas csúcs, amely a temburongi sűrű dzsungel domborzatát jellemzi.",
+                  "category": "natural",
+                  "coords": [
+                        115.163986,
+                        4.602213
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bukit Telugong",
+                  "text": "Un vârf de munte distinct care se înalță abrupt în peisajele împădurite ale districtului Temburong.",
+                  "category": "natural",
+                  "coords": [
+                        115.127245,
+                        4.641873
+                  ]
+            },
+            {
+                  "name": "Bukit Lutut",
+                  "text": "Un vârf accidentat și înalt care caracterizează topografia de junglă densă a regiunii Temburong.",
+                  "category": "natural",
+                  "coords": [
+                        115.163986,
+                        4.602213
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bukit Telugong",
+                  "text": "A distinct mountain peak rising steeply within the forested landscapes of the Temburong district.",
+                  "category": "natural",
+                  "coords": [
+                        115.127245,
+                        4.641873
+                  ]
+            },
+            {
+                  "name": "Bukit Lutut",
+                  "text": "A rugged, elevated peak characterizing the dense jungle topography of Temburong.",
+                  "category": "natural",
+                  "coords": [
+                        115.163986,
+                        4.602213
+                  ]
+            }
+      ]
+},
     type: "mine",
     parent: "BN-TE",
     coords: [115.150, 4.600],

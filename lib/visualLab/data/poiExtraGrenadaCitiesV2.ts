@@ -3,7 +3,520 @@ import { POI } from './poi';
 export const grenadaCitiesV2: POI[] = [
 
   {
-    id: "grenada-st-georges-cities-v2", "sights": {"de": [{"name": "Grenada National Museum", "text": "Das Grenada National Museum ist ein Museum zur Geschichte Grenadas in St. George’s.", "category": "museum", "coords": [-61.752623, 12.050575]}, {"name": "Fort Matthew", "text": "Fort Matthew ist ein Fort in St. George’s.", "category": "fortress", "coords": [-61.738069, 12.050129]}, {"name": "Fort Frederick", "text": "Fort Frederick ist ein Fort in St. George’s.", "category": "fortress", "coords": [-61.737302, 12.047988]}, {"name": "Pandy Beach", "text": "Pandy Beach befindet sich im karibischen St. George's und verzaubert Besucher mit seinem tropischen Flair. Der Strand bietet eine entspannte Kulisse, um das warme karibische Meerwasser zu genießen oder einfach den Booten in der Nähe zuzuschauen. An heißen Tagen ist ein Schattenplatz unter den Bäumen besonders begehrt.", "category": "recreational", "coords": [-61.753229, 12.041955]}, {"name": "Grand Anse Marine Protected Area", "text": "Die Grand Anse Marine Protected Area ist ein Naturschutzgebiet in St. George’s.", "category": "natural", "coords": [-61.786645, 12.023041]}, {"name": "Molinière-Beauséjour Marine Protected Area", "text": "Die Molinière-Beauséjour Marine Protected Area ist ein Naturschutzgebiet in St. George’s.", "category": "natural", "coords": [-61.758452, 12.087417]}, {"name": "Grand Mal Bay", "text": "Die Grand Mal Bay ist eine Bucht in St. George’s.", "category": "landmark", "coords": [-61.755419, 12.07714]}, {"name": "Grand Anse Beach", "text": "Als absolutes Highlight in St. George's ist der weite Grand Anse Beach eine weltbekannte Küstenschönheit Grenadas. Die große Sandfläche lädt zu ausgedehnten Badefreuden im klaren, karibischen Meer oder zu lebhaften Spaziergängen entlang der Uferlinie ein. Wer die karibische Sonne in vollen Zügen genießen möchte, ist an diesem einladenden Strand genau richtig.", "category": "landmark", "coords": [-61.761221, 12.02737]}, {"name": "Tan Tan Beach", "text": "Tan Tan Beach lockt mit seiner karibischen Ausstrahlung direkt nach St. George's. Diese Küstenattraktion bietet eine gelungene Mischung aus lokaler Lebensfreude und entspannten Strandmomenten. Vor allem in den Nachmittagsstunden lässt sich hier die sanfte Meeresbrise Grenadas hervorragend genießen.", "category": "landmark", "coords": [-61.755389, 12.034759]}, {"name": "On St. George", "text": "On St. George ist ein Aussichtspunkt in St. George’s.", "category": "natural", "coords": [-61.739846, 12.049743]}, {"name": "Horizon Yacht Management and Guardianage", "text": "Horizon Yacht Management and Guardianage ist eine Sehenswürdigkeit in St. George’s.", "category": "landmark", "coords": [-61.749307, 12.04439]}, {"name": "Sun Lover Glass Bottom Boat Tour", "text": "Die Sun Lover Glass Bottom Boat Tour ist eine Sehenswürdigkeit in St. George’s.", "category": "landmark", "coords": [-61.746173, 12.043591]}, {"name": "Fort George", "text": "Fort George ist eine Sehenswürdigkeit in St. George’s.", "category": "landmark", "coords": [-61.75385, 12.049425]}, {"name": "Cathedrale of the Immaculate Conception", "text": "Die Kathedrale der Unbefleckten Empfängnis ist eine bedeutende Kultstätte in St. George’s.", "category": "religious", "coords": [-61.752099, 12.053428]}], "hu": [{"name": "Grenada National Museum", "text": "A Grenadai Nemzeti Múzeum Grenada történelmének szentelt múzeum St. George’sban.", "category": "museum", "coords": [-61.752623, 12.050575]}, {"name": "Fort Matthew", "text": "A Fort Matthew egy erődítmény St. George’sban.", "category": "fortress", "coords": [-61.738069, 12.050129]}, {"name": "Fort Frederick", "text": "A Fort Frederick egy erődítmény St. George’sban.", "category": "fortress", "coords": [-61.737302, 12.047988]}, {"name": "Pandy Beach", "text": "A Pandy Beach a karibi St. George's területén található, és trópusi hangulatával varázsolja el a látogatókat. A strand pihentető hátteret kínál a meleg karibi tengervíz élvezetéhez, vagy egyszerűen csak a közeli hajók megfigyeléséhez. A forró napokon a fák alatti árnyékos helyek különösen keresettek.", "category": "recreational", "coords": [-61.753229, 12.041955]}, {"name": "Grand Anse Marine Protected Area", "text": "A Grand Anse Tengeri Védett Terület egy természetvédelmi terület St. George’sban.", "category": "natural", "coords": [-61.786645, 12.023041]}, {"name": "Molinière-Beauséjour Marine Protected Area", "text": "A Molinière-Beauséjour Tengeri Védett Terület egy természetvédelmi terület St. George’sban.", "category": "natural", "coords": [-61.758452, 12.087417]}, {"name": "Grand Mal Bay", "text": "A Grand Mal-öböl egy öböl St. George’sban.", "category": "landmark", "coords": [-61.755419, 12.07714]}, {"name": "Grand Anse Beach", "text": "A St. George's egyik abszolút fénypontjának számító széles Grand Anse Beach Grenada világszerte ismert tengerparti szépsége. A hatalmas homokos terület hosszas fürdőzésre csábít a tiszta vizű Karib-tengerben, vagy élénk sétákra a partvonal mentén. Aki teljes mértékben szeretné élvezni a karibi napsütést, az ezen a hívogató strandon a legjobb helyen jár.", "category": "landmark", "coords": [-61.761221, 12.02737]}, {"name": "Tan Tan Beach", "text": "A Tan Tan Beach karibi kisugárzásával egyenesen St. George's-ba csábítja a látogatókat. Ez a tengerparti látványosság a helyi életöröm és a pihentető tengerparti pillanatok sikeres keverékét nyújtja. Grenada lágy tengeri szellője itt különösen a délutáni órákban élvezhető a legjobban.", "category": "landmark", "coords": [-61.755389, 12.034759]}, {"name": "On St. George", "text": "Az On St. George egy kilátópont St. George’sban.", "category": "natural", "coords": [-61.739846, 12.049743]}, {"name": "Horizon Yacht Management and Guardianage", "text": "A Horizon Yacht Management and Guardianage egy látványosság St. George’sban.", "category": "landmark", "coords": [-61.749307, 12.04439]}, {"name": "Sun Lover Glass Bottom Boat Tour", "text": "A Sun Lover üvegfenekű hajótúra egy látványosság St. George’sban.", "category": "landmark", "coords": [-61.746173, 12.043591]}, {"name": "Fort George", "text": "A Fort George egy látványosság St. George’sban.", "category": "landmark", "coords": [-61.75385, 12.049425]}, {"name": "Cathedrale of the Immaculate Conception", "text": "A Szeplőtelen Fogantatás Katedrális egy jelentős istentiszteleti hely St. George’sban.", "category": "religious", "coords": [-61.752099, 12.053428]}], "ro": [{"name": "Grenada National Museum", "text": "Muzeul Național Grenada este un muzeu dedicat istoriei Grenadei în St. George’s.", "category": "museum", "coords": [-61.752623, 12.050575]}, {"name": "Fort Matthew", "text": "Fort Matthew este un fort situat în St. George’s.", "category": "fortress", "coords": [-61.738069, 12.050129]}, {"name": "Fort Frederick", "text": "Fort Frederick este un fort situat în St. George’s.", "category": "fortress", "coords": [-61.737302, 12.047988]}, {"name": "Pandy Beach", "text": "Plaja Pandy este situată în St. George's din Caraibe și încântă vizitatorii cu flerul său tropical. Plaja oferă un cadru relaxant pentru a vă bucura de apa caldă a mării Caraibelor sau pur și simplu pentru a privi bărcile din apropiere. În zilele fierbinți, un loc la umbră sub copaci este deosebit de căutat.", "category": "recreational", "coords": [-61.753229, 12.041955]}, {"name": "Grand Anse Marine Protected Area", "text": "Aria Marină Protejată Grand Anse este o rezervație naturală situată în St. George’s.", "category": "natural", "coords": [-61.786645, 12.023041]}, {"name": "Molinière-Beauséjour Marine Protected Area", "text": "Aria Marină Protejată Molinière-Beauséjour este o rezervație naturală situată în St. George’s.", "category": "natural", "coords": [-61.758452, 12.087417]}, {"name": "Grand Mal Bay", "text": "Golful Grand Mal este un golf situat în St. George’s.", "category": "landmark", "coords": [-61.755419, 12.07714]}, {"name": "Grand Anse Beach", "text": "Fiind un punct de atracție absolut în St. George's, plaja largă Grand Anse Beach este o frumusețe de coastă de renume mondial a Grenadei. Întinderea vastă de nisip vă invită la reprize lungi de înot în Marea Caraibelor cu apă cristalină sau la plimbări animate de-a lungul țărmului. Dacă doriți să vă bucurați la maximum de soarele din Caraibe, această plajă primitoare este locul potrivit.", "category": "landmark", "coords": [-61.761221, 12.02737]}, {"name": "Tan Tan Beach", "text": "Plaja Tan Tan atrage vizitatorii direct în St. George's cu carisma sa din Caraibe. Această atracție de coastă oferă un amestec reușit de joie de vivre locală și momente de relaxare pe plajă. Briza blândă a mării din Grenada poate fi savurată aici în mod deosebit în orele după-amiezii.", "category": "landmark", "coords": [-61.755389, 12.034759]}, {"name": "On St. George", "text": "On St. George este un punct de belvedere situat în St. George’s.", "category": "natural", "coords": [-61.739846, 12.049743]}, {"name": "Horizon Yacht Management and Guardianage", "text": "Horizon Yacht Management and Guardianage este o atracție situată în St. George’s.", "category": "landmark", "coords": [-61.749307, 12.04439]}, {"name": "Sun Lover Glass Bottom Boat Tour", "text": "Turul cu barca cu fund de sticlă Sun Lover este o atracție situată în St. George’s.", "category": "landmark", "coords": [-61.746173, 12.043591]}, {"name": "Fort George", "text": "Fort George este o atracție situată în St. George’s.", "category": "landmark", "coords": [-61.75385, 12.049425]}, {"name": "Cathedrale of the Immaculate Conception", "text": "Catedrala Imaculatei Concepții este un lăcaș de cult important situat în St. George’s.", "category": "religious", "coords": [-61.752099, 12.053428]}], "en": [{"name": "Grenada National Museum", "text": "The Grenada National Museum is a museum dedicated to the history of Grenada in St. George’s.", "category": "museum", "coords": [-61.752623, 12.050575]}, {"name": "Fort Matthew", "text": "Fort Matthew is a fort located in St. George’s.", "category": "fortress", "coords": [-61.738069, 12.050129]}, {"name": "Fort Frederick", "text": "Fort Frederick is a fort located in St. George’s.", "category": "fortress", "coords": [-61.737302, 12.047988]}, {"name": "Pandy Beach", "text": "Pandy Beach is situated in the Caribbean setting of St. George's and enchants visitors with its tropical flair. The beach provides a relaxing backdrop for enjoying the warm Caribbean seawater or simply watching the nearby boats. On hot days, a shady spot under the trees is highly sought after.", "category": "recreational", "coords": [-61.753229, 12.041955]}, {"name": "Grand Anse Marine Protected Area", "text": "The Grand Anse Marine Protected Area is a nature reserve located in St. George’s.", "category": "natural", "coords": [-61.786645, 12.023041]}, {"name": "Molinière-Beauséjour Marine Protected Area", "text": "The Molinière-Beauséjour Marine Protected Area is a nature reserve located in St. George’s.", "category": "natural", "coords": [-61.758452, 12.087417]}, {"name": "Grand Mal Bay", "text": "Grand Mal Bay is a bay located in St. George’s.", "category": "landmark", "coords": [-61.755419, 12.07714]}, {"name": "Grand Anse Beach", "text": "As an absolute highlight in St. George's, the wide Grand Anse Beach is a world-renowned coastal beauty of Grenada. The large sandy expanse invites extended swimming in the clear Caribbean Sea or lively strolls along the shoreline. Anyone wanting to fully enjoy the Caribbean sun is in exactly the right place on this welcoming beach.", "category": "landmark", "coords": [-61.761221, 12.02737]}, {"name": "Tan Tan Beach", "text": "Tan Tan Beach lures visitors directly to St. George's with its Caribbean charisma. This coastal attraction offers a successful mix of local zest for life and relaxing beach moments. Grenada's gentle sea breeze can be enjoyed wonderfully here, especially during the afternoon hours.", "category": "landmark", "coords": [-61.755389, 12.034759]}, {"name": "On St. George", "text": "On St. George is a viewpoint located in St. George’s.", "category": "natural", "coords": [-61.739846, 12.049743]}, {"name": "Horizon Yacht Management and Guardianage", "text": "Horizon Yacht Management and Guardianage is an attraction located in St. George’s.", "category": "landmark", "coords": [-61.749307, 12.04439]}, {"name": "Sun Lover Glass Bottom Boat Tour", "text": "The Sun Lover Glass Bottom Boat Tour is an attraction located in St. George’s.", "category": "landmark", "coords": [-61.746173, 12.043591]}, {"name": "Fort George", "text": "Fort George is an attraction located in St. George’s.", "category": "landmark", "coords": [-61.75385, 12.049425]}, {"name": "Cathedrale of the Immaculate Conception", "text": "The Cathedral of the Immaculate Conception is a prominent place of worship located in St. George’s.", "category": "religious", "coords": [-61.752099, 12.053428]}]},
+    id: "grenada-st-georges-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grenada National Museum",
+                  "text": "Das Grenada National Museum in St. Georges ist in einer französischen Kaserne von 1704 untergebracht und zeigt die Kolonialgeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        -61.752623,
+                        12.050575
+                  ]
+            },
+            {
+                  "name": "Fort Matthew",
+                  "text": "Fort Matthew auf Richmond Hill in St. Georges ist eine Festung mit Panoramablick auf den Hafen.",
+                  "category": "fortress",
+                  "coords": [
+                        -61.738069,
+                        12.050129
+                  ]
+            },
+            {
+                  "name": "Fort Frederick",
+                  "text": "Fort Frederick ist eine von den Briten erbaute Festung in St. Georges, heute ein Park mit historischen Kanonen.",
+                  "category": "fortress",
+                  "coords": [
+                        -61.737302,
+                        12.047988
+                  ]
+            },
+            {
+                  "name": "Pandy Beach",
+                  "text": "Pandy Beach befindet sich im karibischen St. George's und verzaubert Besucher mit seinem tropischen Flair. Der Strand bietet eine entspannte Kulisse, um das warme karibische Meerwasser zu genießen oder einfach den Booten in der Nähe zuzuschauen. An heißen Tagen ist ein Schattenplatz unter den Bäumen besonders begehrt.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.753229,
+                        12.041955
+                  ]
+            },
+            {
+                  "name": "Grand Anse Marine Protected Area",
+                  "text": "Das Grand Anse Marine Protected Area schützt Korallenriffe und Meeresschildkröten am Grand Anse Strand.",
+                  "category": "natural",
+                  "coords": [
+                        -61.786645,
+                        12.023041
+                  ]
+            },
+            {
+                  "name": "Molinière-Beauséjour Marine Protected Area",
+                  "text": "Das Molinière-Beauséjour Marine Protected Area in St. Georges ist ein Schutzgebiet für Korallenriffe und Meereslebewesen.",
+                  "category": "natural",
+                  "coords": [
+                        -61.758452,
+                        12.087417
+                  ]
+            },
+            {
+                  "name": "Grand Mal Bay",
+                  "text": "Die Grand Mal Bay in St. Georges ist eine Bucht mit schwarzem Sandstrand und sanfter Brandung.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.755419,
+                        12.07714
+                  ]
+            },
+            {
+                  "name": "Grand Anse Beach",
+                  "text": "Als absolutes Highlight in St. George's ist der weite Grand Anse Beach eine weltbekannte Küstenschönheit Grenadas. Die große Sandfläche lädt zu ausgedehnten Badefreuden im klaren, karibischen Meer oder zu lebhaften Spaziergängen entlang der Uferlinie ein. Wer die karibische Sonne in vollen Zügen genießen möchte, ist an diesem einladenden Strand genau richtig.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.761221,
+                        12.02737
+                  ]
+            },
+            {
+                  "name": "Tan Tan Beach",
+                  "text": "Tan Tan Beach lockt mit seiner karibischen Ausstrahlung direkt nach St. George's. Diese Küstenattraktion bietet eine gelungene Mischung aus lokaler Lebensfreude und entspannten Strandmomenten. Vor allem in den Nachmittagsstunden lässt sich hier die sanfte Meeresbrise Grenadas hervorragend genießen.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.755389,
+                        12.034759
+                  ]
+            },
+            {
+                  "name": "On St. George",
+                  "text": "On St. George ist ein Küstenschutzgebiet in St. Georges mit malerischen Klippen und Buchten.",
+                  "category": "natural",
+                  "coords": [
+                        -61.739846,
+                        12.049743
+                  ]
+            },
+            {
+                  "name": "Horizon Yacht Management and Guardianage",
+                  "text": "Horizon Yacht Management and Guardianage in St. Georges bietet Yacht-Liegeplätze und Wartungsdienste.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.749307,
+                        12.04439
+                  ]
+            },
+            {
+                  "name": "Sun Lover Glass Bottom Boat Tour",
+                  "text": "Die Sun Lover Glass Bottom Boat Tour startet in St. Georges und bietet Unterwasserblicke auf Korallen und Fische.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.746173,
+                        12.043591
+                  ]
+            },
+            {
+                  "name": "Fort George",
+                  "text": "Fort George in St. Georges ist eine Festung aus dem 18. Jahrhundert auf einem Hügel, heute beherbergt es ein Museum.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.75385,
+                        12.049425
+                  ]
+            },
+            {
+                  "name": "Cathedrale of the Immaculate Conception",
+                  "text": "Die Kathedrale der Unbefleckten Empfängnis ist eine bedeutende Kultstätte in St. George’s.",
+                  "category": "religious",
+                  "coords": [
+                        -61.752099,
+                        12.053428
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grenada National Museum",
+                  "text": "A Grenada Nemzeti Múzeum St. Georgesban egy 1704-es francia laktanyában kapott helyet, gyarmati történelmet bemutatva.",
+                  "category": "museum",
+                  "coords": [
+                        -61.752623,
+                        12.050575
+                  ]
+            },
+            {
+                  "name": "Fort Matthew",
+                  "text": "A Richmond Hill-i Fort Matthew erődítmény St. Georgesban, panorámás kilátással a kikötőre.",
+                  "category": "fortress",
+                  "coords": [
+                        -61.738069,
+                        12.050129
+                  ]
+            },
+            {
+                  "name": "Fort Frederick",
+                  "text": "A Fort Frederick egy brit erőd St. Georgesban, ma park, régi ágyúkkal.",
+                  "category": "fortress",
+                  "coords": [
+                        -61.737302,
+                        12.047988
+                  ]
+            },
+            {
+                  "name": "Pandy Beach",
+                  "text": "A Pandy Beach a karibi St. George's területén található, és trópusi hangulatával varázsolja el a látogatókat. A strand pihentető hátteret kínál a meleg karibi tengervíz élvezetéhez, vagy egyszerűen csak a közeli hajók megfigyeléséhez. A forró napokon a fák alatti árnyékos helyek különösen keresettek.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.753229,
+                        12.041955
+                  ]
+            },
+            {
+                  "name": "Grand Anse Marine Protected Area",
+                  "text": "A Grand Anse Tengeri Védett Terület korallzátonyokat és tengeri teknősöket véd a Grand Anse strandon.",
+                  "category": "natural",
+                  "coords": [
+                        -61.786645,
+                        12.023041
+                  ]
+            },
+            {
+                  "name": "Molinière-Beauséjour Marine Protected Area",
+                  "text": "A Molinière-Beauséjour Tengeri Védett Terület St. Georgesban korallzátonyok és tengeri élőlények menedéke.",
+                  "category": "natural",
+                  "coords": [
+                        -61.758452,
+                        12.087417
+                  ]
+            },
+            {
+                  "name": "Grand Mal Bay",
+                  "text": "A Grand Mal-öböl St. Georgesban fekete homokos stranddal és enyhe hullámzással.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.755419,
+                        12.07714
+                  ]
+            },
+            {
+                  "name": "Grand Anse Beach",
+                  "text": "A St. George's egyik abszolút fénypontjának számító széles Grand Anse Beach Grenada világszerte ismert tengerparti szépsége. A hatalmas homokos terület hosszas fürdőzésre csábít a tiszta vizű Karib-tengerben, vagy élénk sétákra a partvonal mentén. Aki teljes mértékben szeretné élvezni a karibi napsütést, az ezen a hívogató strandon a legjobb helyen jár.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.761221,
+                        12.02737
+                  ]
+            },
+            {
+                  "name": "Tan Tan Beach",
+                  "text": "A Tan Tan Beach karibi kisugárzásával egyenesen St. George's-ba csábítja a látogatókat. Ez a tengerparti látványosság a helyi életöröm és a pihentető tengerparti pillanatok sikeres keverékét nyújtja. Grenada lágy tengeri szellője itt különösen a délutáni órákban élvezhető a legjobban.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.755389,
+                        12.034759
+                  ]
+            },
+            {
+                  "name": "On St. George",
+                  "text": "On St. George egy tengerparti természeti terület St. Georgesban, festői sziklákkal és öblökkel.",
+                  "category": "natural",
+                  "coords": [
+                        -61.739846,
+                        12.049743
+                  ]
+            },
+            {
+                  "name": "Horizon Yacht Management and Guardianage",
+                  "text": "A Horizon Yacht Management and Guardianage St. Georgesban yachtkikötést és karbantartási szolgáltatásokat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.749307,
+                        12.04439
+                  ]
+            },
+            {
+                  "name": "Sun Lover Glass Bottom Boat Tour",
+                  "text": "A Sun Lover Glass Bottom Boat Tour St. Georgesból indul, víz alatti kilátással korallokra és halakra.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.746173,
+                        12.043591
+                  ]
+            },
+            {
+                  "name": "Fort George",
+                  "text": "A Fort George St. Georgesban egy 18. századi erőd egy dombon, ma múzeumnak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.75385,
+                        12.049425
+                  ]
+            },
+            {
+                  "name": "Cathedrale of the Immaculate Conception",
+                  "text": "A Szeplőtelen Fogantatás Katedrális egy jelentős istentiszteleti hely St. George’sban.",
+                  "category": "religious",
+                  "coords": [
+                        -61.752099,
+                        12.053428
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grenada National Museum",
+                  "text": "Muzeul Național Grenada din St. Georges este găzduit într-o cazarmă franceză din 1704, prezentând istoria colonială.",
+                  "category": "museum",
+                  "coords": [
+                        -61.752623,
+                        12.050575
+                  ]
+            },
+            {
+                  "name": "Fort Matthew",
+                  "text": "Fort Matthew pe Richmond Hill în St. Georges este o fortăreață cu vedere panoramică asupra portului.",
+                  "category": "fortress",
+                  "coords": [
+                        -61.738069,
+                        12.050129
+                  ]
+            },
+            {
+                  "name": "Fort Frederick",
+                  "text": "Fort Frederick este o fortăreață construită de britanici în St. Georges, acum parc cu tunuri istorice.",
+                  "category": "fortress",
+                  "coords": [
+                        -61.737302,
+                        12.047988
+                  ]
+            },
+            {
+                  "name": "Pandy Beach",
+                  "text": "Plaja Pandy este situată în St. George's din Caraibe și încântă vizitatorii cu flerul său tropical. Plaja oferă un cadru relaxant pentru a vă bucura de apa caldă a mării Caraibelor sau pur și simplu pentru a privi bărcile din apropiere. În zilele fierbinți, un loc la umbră sub copaci este deosebit de căutat.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.753229,
+                        12.041955
+                  ]
+            },
+            {
+                  "name": "Grand Anse Marine Protected Area",
+                  "text": "Zona Marină Protejată Grand Anse protejează recifele de corali și țestoasele marine pe plaja Grand Anse.",
+                  "category": "natural",
+                  "coords": [
+                        -61.786645,
+                        12.023041
+                  ]
+            },
+            {
+                  "name": "Molinière-Beauséjour Marine Protected Area",
+                  "text": "Zona Marină Protejată Molinière-Beauséjour din St. Georges este un sanctuar pentru recife de corali și viață marină.",
+                  "category": "natural",
+                  "coords": [
+                        -61.758452,
+                        12.087417
+                  ]
+            },
+            {
+                  "name": "Grand Mal Bay",
+                  "text": "Golful Grand Mal din St. Georges este un golf cu plajă de nisip negru și valuri line.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.755419,
+                        12.07714
+                  ]
+            },
+            {
+                  "name": "Grand Anse Beach",
+                  "text": "Fiind un punct de atracție absolut în St. George's, plaja largă Grand Anse Beach este o frumusețe de coastă de renume mondial a Grenadei. Întinderea vastă de nisip vă invită la reprize lungi de înot în Marea Caraibelor cu apă cristalină sau la plimbări animate de-a lungul țărmului. Dacă doriți să vă bucurați la maximum de soarele din Caraibe, această plajă primitoare este locul potrivit.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.761221,
+                        12.02737
+                  ]
+            },
+            {
+                  "name": "Tan Tan Beach",
+                  "text": "Plaja Tan Tan atrage vizitatorii direct în St. George's cu carisma sa din Caraibe. Această atracție de coastă oferă un amestec reușit de joie de vivre locală și momente de relaxare pe plajă. Briza blândă a mării din Grenada poate fi savurată aici în mod deosebit în orele după-amiezii.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.755389,
+                        12.034759
+                  ]
+            },
+            {
+                  "name": "On St. George",
+                  "text": "On St. George este o zonă naturală de coastă în St. Georges, cu stânci pitorești și golfuri.",
+                  "category": "natural",
+                  "coords": [
+                        -61.739846,
+                        12.049743
+                  ]
+            },
+            {
+                  "name": "Horizon Yacht Management and Guardianage",
+                  "text": "Horizon Yacht Management and Guardianage din St. Georges oferă acostare și întreținere pentru iahturi.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.749307,
+                        12.04439
+                  ]
+            },
+            {
+                  "name": "Sun Lover Glass Bottom Boat Tour",
+                  "text": "Turul cu barca cu fund de sticlă Sun Lover pornește din St. Georges, oferind vederi subacvatice ale coralilor și peștilor.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.746173,
+                        12.043591
+                  ]
+            },
+            {
+                  "name": "Fort George",
+                  "text": "Fort George din St. Georges este o fortăreață din secolul al XVIII-lea pe un deal, găzduind acum un muzeu.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.75385,
+                        12.049425
+                  ]
+            },
+            {
+                  "name": "Cathedrale of the Immaculate Conception",
+                  "text": "Catedrala Imaculatei Concepții este un lăcaș de cult important situat în St. George’s.",
+                  "category": "religious",
+                  "coords": [
+                        -61.752099,
+                        12.053428
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grenada National Museum",
+                  "text": "Grenada National Museum in St Georges is housed in a 1704 French barracks, displaying colonial history.",
+                  "category": "museum",
+                  "coords": [
+                        -61.752623,
+                        12.050575
+                  ]
+            },
+            {
+                  "name": "Fort Matthew",
+                  "text": "Fort Matthew on Richmond Hill in St Georges is a fortress with panoramic harbour views.",
+                  "category": "fortress",
+                  "coords": [
+                        -61.738069,
+                        12.050129
+                  ]
+            },
+            {
+                  "name": "Fort Frederick",
+                  "text": "Fort Frederick is a British-built fortress in St Georges, now a park with historic cannons.",
+                  "category": "fortress",
+                  "coords": [
+                        -61.737302,
+                        12.047988
+                  ]
+            },
+            {
+                  "name": "Pandy Beach",
+                  "text": "Pandy Beach is situated in the Caribbean setting of St. George's and enchants visitors with its tropical flair. The beach provides a relaxing backdrop for enjoying the warm Caribbean seawater or simply watching the nearby boats. On hot days, a shady spot under the trees is highly sought after.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.753229,
+                        12.041955
+                  ]
+            },
+            {
+                  "name": "Grand Anse Marine Protected Area",
+                  "text": "Grand Anse Marine Protected Area along Grand Anse Beach protects coral reefs and sea turtles.",
+                  "category": "natural",
+                  "coords": [
+                        -61.786645,
+                        12.023041
+                  ]
+            },
+            {
+                  "name": "Molinière-Beauséjour Marine Protected Area",
+                  "text": "Molinière-Beauséjour Marine Protected Area in St Georges is a sanctuary for coral reefs and marine life.",
+                  "category": "natural",
+                  "coords": [
+                        -61.758452,
+                        12.087417
+                  ]
+            },
+            {
+                  "name": "Grand Mal Bay",
+                  "text": "Grand Mal Bay in St Georges is a bay with a black sand beach and gentle surf.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.755419,
+                        12.07714
+                  ]
+            },
+            {
+                  "name": "Grand Anse Beach",
+                  "text": "As an absolute highlight in St. George's, the wide Grand Anse Beach is a world-renowned coastal beauty of Grenada. The large sandy expanse invites extended swimming in the clear Caribbean Sea or lively strolls along the shoreline. Anyone wanting to fully enjoy the Caribbean sun is in exactly the right place on this welcoming beach.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.761221,
+                        12.02737
+                  ]
+            },
+            {
+                  "name": "Tan Tan Beach",
+                  "text": "Tan Tan Beach lures visitors directly to St. George's with its Caribbean charisma. This coastal attraction offers a successful mix of local zest for life and relaxing beach moments. Grenada's gentle sea breeze can be enjoyed wonderfully here, especially during the afternoon hours.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.755389,
+                        12.034759
+                  ]
+            },
+            {
+                  "name": "On St. George",
+                  "text": "On St. George is a coastal natural area in St Georges with scenic cliffs and coves.",
+                  "category": "natural",
+                  "coords": [
+                        -61.739846,
+                        12.049743
+                  ]
+            },
+            {
+                  "name": "Horizon Yacht Management and Guardianage",
+                  "text": "Horizon Yacht Management and Guardianage in St Georges provides yacht berthing and maintenance services.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.749307,
+                        12.04439
+                  ]
+            },
+            {
+                  "name": "Sun Lover Glass Bottom Boat Tour",
+                  "text": "Sun Lover Glass Bottom Boat Tour departs from St Georges, offering underwater views of coral and fish.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.746173,
+                        12.043591
+                  ]
+            },
+            {
+                  "name": "Fort George",
+                  "text": "Fort George in St Georges is an 18th-century hilltop fortress, now housing a museum.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.75385,
+                        12.049425
+                  ]
+            },
+            {
+                  "name": "Cathedrale of the Immaculate Conception",
+                  "text": "The Cathedral of the Immaculate Conception is a prominent place of worship located in St. George’s.",
+                  "category": "religious",
+                  "coords": [
+                        -61.752099,
+                        12.053428
+                  ]
+            }
+      ]
+},
     parent: "GD",
     type: "capital",
     name: { de: "St. George’s", hu: "St. George’s", ro: "St. George’s", en: "St. George's" },
@@ -52,7 +565,7 @@ export const grenadaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Great River Bay",
-                  "text": "Die Great River Bay ist eine Bucht in Grenville.",
+                  "text": "Die Great River Bay nahe Grenville ist ein Sandstrand an der Mündung des Great River.",
                   "category": "landmark",
                   "coords": [
                         -61.607717,
@@ -70,7 +583,7 @@ export const grenadaCitiesV2: POI[] = [
             },
             {
                   "name": "Aircraft Wrecks",
-                  "text": "Aircraft Wrecks ist eine Sehenswürdigkeit in Grenville.",
+                  "text": "Die Flugzeugwracks nahe Grenville sind die Überreste eines abgestürzten Flugzeugs, ein Wahrzeichen an der Küste.",
                   "category": "landmark",
                   "coords": [
                         -61.61372,
@@ -79,7 +592,7 @@ export const grenadaCitiesV2: POI[] = [
             },
             {
                   "name": "Grenville Nutmeg Station",
-                  "text": "Die Grenville Nutmeg Station ist eine Sehenswürdigkeit in Grenville.",
+                  "text": "Die Grenville-Muskatnussstation ist eine Verarbeitungsanlage, in der Muskatnüsse getrocknet und sortiert werden.",
                   "category": "landmark",
                   "coords": [
                         -61.623785,
@@ -90,7 +603,7 @@ export const grenadaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Great River Bay",
-                  "text": "A Great River Bay egy öböl Grenville városában.",
+                  "text": "A Great River-öböl Grenville közelében homokos strand a Great River torkolatánál.",
                   "category": "landmark",
                   "coords": [
                         -61.607717,
@@ -108,7 +621,7 @@ export const grenadaCitiesV2: POI[] = [
             },
             {
                   "name": "Aircraft Wrecks",
-                  "text": "Az Aircraft Wrecks egy látványosság Grenville városában.",
+                  "text": "A Grenville melletti repülőgép roncsok egy lezuhant gép maradványai, tengerparti nevezetesség.",
                   "category": "landmark",
                   "coords": [
                         -61.61372,
@@ -117,7 +630,7 @@ export const grenadaCitiesV2: POI[] = [
             },
             {
                   "name": "Grenville Nutmeg Station",
-                  "text": "A Grenville Nutmeg Station egy látványosság Grenville városában.",
+                  "text": "A Grenville-i szerecsendió-állomás egy feldolgozóüzem, ahol a szerecsendiót szárítják és válogatják.",
                   "category": "landmark",
                   "coords": [
                         -61.623785,
@@ -128,7 +641,7 @@ export const grenadaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Great River Bay",
-                  "text": "Great River Bay este un golf situat în Grenville.",
+                  "text": "Golful Great River lângă Grenville este o plajă nisipoasă la gura râului Great River.",
                   "category": "landmark",
                   "coords": [
                         -61.607717,
@@ -146,7 +659,7 @@ export const grenadaCitiesV2: POI[] = [
             },
             {
                   "name": "Aircraft Wrecks",
-                  "text": "Aircraft Wrecks este o atracție situată în Grenville.",
+                  "text": "Epavele de avioane de lângă Grenville sunt rămășițele unui avion prăbușit, un reper pe coastă.",
                   "category": "landmark",
                   "coords": [
                         -61.61372,
@@ -155,7 +668,7 @@ export const grenadaCitiesV2: POI[] = [
             },
             {
                   "name": "Grenville Nutmeg Station",
-                  "text": "Grenville Nutmeg Station este o atracție situată în Grenville.",
+                  "text": "Stația de nucșoară Grenville este o unitate de procesare unde nucșoarele sunt uscate și sortate.",
                   "category": "landmark",
                   "coords": [
                         -61.623785,
@@ -166,7 +679,7 @@ export const grenadaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Great River Bay",
-                  "text": "Great River Bay is a bay located in Grenville.",
+                  "text": "Great River Bay near Grenville is a sandy beach at the mouth of the Great River.",
                   "category": "landmark",
                   "coords": [
                         -61.607717,
@@ -184,7 +697,7 @@ export const grenadaCitiesV2: POI[] = [
             },
             {
                   "name": "Aircraft Wrecks",
-                  "text": "Aircraft Wrecks is an attraction located in Grenville.",
+                  "text": "Aircraft Wrecks near Grenville are the remains of a crashed plane, a landmark on the coast.",
                   "category": "landmark",
                   "coords": [
                         -61.61372,
@@ -193,7 +706,7 @@ export const grenadaCitiesV2: POI[] = [
             },
             {
                   "name": "Grenville Nutmeg Station",
-                  "text": "Grenville Nutmeg Station is an attraction located in Grenville.",
+                  "text": "Grenville Nutmeg Station is a processing facility where nutmegs are dried and sorted for export.",
                   "category": "landmark",
                   "coords": [
                         -61.623785,
@@ -250,7 +763,7 @@ export const grenadaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Dougaldston Estate",
-                  "text": "Das Dougaldston Estate ist eine Sehenswürdigkeit in Gouyave.",
+                  "text": "Das Dougaldston Estate in Gouyave ist eine historische Kakao- und Muskatnussplantage mit einem funktionierenden Wasserrad.",
                   "category": "landmark",
                   "coords": [
                         -61.729404,
@@ -261,7 +774,7 @@ export const grenadaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Dougaldston Estate",
-                  "text": "A Dougaldston Estate egy látványosság Gouyave-ban.",
+                  "text": "A Dougaldston birtok Gouyave-ban egy történelmi kakaó- és szerecsendióültetvény működő vízikerékkel.",
                   "category": "landmark",
                   "coords": [
                         -61.729404,
@@ -272,7 +785,7 @@ export const grenadaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Dougaldston Estate",
-                  "text": "Dougaldston Estate este o atracție situată în Gouyave.",
+                  "text": "Moșia Dougaldston din Gouyave este o plantație istorică de cacao și nucșoară cu o roată de apă funcțională.",
                   "category": "landmark",
                   "coords": [
                         -61.729404,
@@ -283,7 +796,7 @@ export const grenadaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Dougaldston Estate",
-                  "text": "The Dougaldston Estate is an attraction situated in Gouyave.",
+                  "text": "Dougaldston Estate in Gouyave is a historic cocoa and nutmeg plantation with a working waterwheel.",
                   "category": "landmark",
                   "coords": [
                         -61.729404,
@@ -336,7 +849,376 @@ export const grenadaCitiesV2: POI[] = [
     image: "/poi-images/grenada-gouyave-cities-v2.webp",
   },
   {
-    id: "grenada-sauteurs-cities-v2", "sights": {"de": [{"name": "Mt. Rich Petroglyphs", "text": "Archäologische Stätte der Petroglyphen vom Mt. Rich in Sauteurs.", "category": "historical", "coords": [-61.643083, 12.193648]}, {"name": "Mount Rodney Beach", "text": "Im nördlichen Sauteurs gelegen, breitet sich der Mount Rodney Beach in einer friedlichen karibischen Umgebung aus. Der ruhigere Strandcharakter lädt Besucher dazu ein, den Wellen zuzusehen und abseits der großen Touristenpfade zu entspannen. Für einen gemütlichen Aufenthalt empfiehlt es sich, Erfrischungen für den Strandtag mitzubringen.", "category": "recreational", "coords": [-61.651319, 12.230936]}, {"name": "Sauteurs Beach", "text": "An der Küste der nördlichen Stadt Sauteurs gelegen, bietet dieser Strand in Grenada eine natürliche Meereskulisse. Besucher erwartet eine entspannte Umgebung, die sich ideal für Sonnenbäder oder gemütliche Spaziergänge am Wasser anbietet. Es ist ein wunderbarer Ort, um am Meer zur Ruhe zu kommen. Wer die absolute Stille sucht, sollte am besten schon am Vormittag vorbeischauen.", "category": "recreational", "coords": [-61.644467, 12.226527]}, {"name": "Irvins Bay Beach", "text": "Die Irvins Bay Beach schmiegt sich an die malerische Küste von Sauteurs in Grenada. Das Ambiente besticht durch eine ruhige, authentische Meeresatmosphäre fernab des Trubels. Gäste schätzen vor allem entspannte Spaziergänge entlang der Wellen und das Genießen der tropischen Sonne. Ein Besuch am späten Nachmittag verspricht ein besonders schönes Licht über der Bucht.", "category": "recreational", "coords": [-61.635343, 12.225088]}, {"name": "Levara Wetland Site", "text": "Levara Wetland Site in Sauteurs.", "category": "natural", "coords": [-61.609504, 12.22456]}, {"name": "Levera Hill", "text": "Levera Hill in Sauteurs.", "category": "natural", "coords": [-61.620798, 12.216152]}, {"name": "Sauteurs Bay", "text": "Sauteurs Bay in Sauteurs.", "category": "landmark", "coords": [-61.645494, 12.228775]}, {"name": "Leapers Hill", "text": "Aussichtspunkt Leapers Hill in Sauteurs.", "category": "natural", "coords": [-61.640433, 12.226306]}, {"name": "Welcome Rock", "text": "Aussichtspunkt Welcome Rock in Sauteurs.", "category": "natural", "coords": [-61.619455, 12.216889]}, {"name": "Windmill Ruins", "text": "Windmill Ruins in Sauteurs sind die Überreste einer alten Windmühle.", "category": "historical", "coords": [-61.657664, 12.230614]}], "hu": [{"name": "Mt. Rich Petroglyphs", "text": "Mt. Rich petroglifák régészeti lelőhelye, Sauteurs.", "category": "historical", "coords": [-61.643083, 12.193648]}, {"name": "Mount Rodney Beach", "text": "Az északi Sauteurs településen található Mount Rodney Beach egy békés karibi környezetben terül el. A csendesebb tengerparti jelleg arra ösztönzi a látogatókat, hogy a hullámokat figyelve pihenjenek meg a főbb turistaútvonalaktól távol. A kényelmes időtöltés érdekében ajánlott frissítőket vinni magunkkal a tengerparti napra.", "category": "recreational", "coords": [-61.651319, 12.230936]}, {"name": "Sauteurs Beach", "text": "A Grenada északi részén fekvő Sauteurs tengerparti városkájában található ez a természetes hangulatú strand. A látogatókat egy nyugodt környezet várja, amely tökéletes a napozáshoz vagy egy kényelmes sétához a víz mentén. Kellemes választás a tengerparti kikapcsolódáshoz. A legnyugodtabb élmény érdekében érdemes a korai órákban érkezni.", "category": "recreational", "coords": [-61.644467, 12.226527]}, {"name": "Irvins Bay Beach", "text": "Az Irvins Bay Beach Grenada szigetén, Sauteurs festői partvidékén húzódik. A helyszín csendes, autentikus tengerparti hangulatot áraszt a nyüzsgő turisztikai központoktól távol. A vendégek gyakran élvezik a hullámok melletti sétákat és a trópusi napsütést. A késő délutáni látogatás különösen szép fényeket ígér az öböl felett.", "category": "recreational", "coords": [-61.635343, 12.225088]}, {"name": "Levara Wetland Site", "text": "Levera vizes élőhely, Sauteurs.", "category": "natural", "coords": [-61.609504, 12.22456]}, {"name": "Levera Hill", "text": "Levera hegy, Sauteurs.", "category": "natural", "coords": [-61.620798, 12.216152]}, {"name": "Sauteurs Bay", "text": "Sauteurs-öböl, Sauteurs.", "category": "landmark", "coords": [-61.645494, 12.228775]}, {"name": "Leapers Hill", "text": "Leapers Hill kilátópont, Sauteurs.", "category": "natural", "coords": [-61.640433, 12.226306]}, {"name": "Welcome Rock", "text": "Welcome Rock kilátópont, Sauteurs.", "category": "natural", "coords": [-61.619455, 12.216889]}, {"name": "Windmill Ruins", "text": "A Windmill Ruins Sauteurs városában egy régi szélmalom maradványai.", "category": "historical", "coords": [-61.657664, 12.230614]}], "ro": [{"name": "Mt. Rich Petroglyphs", "text": "Sit arheologic cu petroglife la Mt. Rich în Sauteurs.", "category": "historical", "coords": [-61.643083, 12.193648]}, {"name": "Mount Rodney Beach", "text": "Situată în partea de nord a orașului Sauteurs, plaja Mount Rodney Beach se întinde într-un cadru pașnic din Caraibe. Caracterul mai liniștit al plajei invită vizitatorii să privească valurile și să se relaxeze departe de traseele turistice majore. Pentru o ședere confortabilă, este recomandat să aduceți cu dumneavoastră băuturi răcoritoare pentru ziua de plajă.", "category": "recreational", "coords": [-61.651319, 12.230936]}, {"name": "Sauteurs Beach", "text": "Situată în orașul de coastă Sauteurs, această plajă din Grenada oferă un decor natural pitoresc la malul mării. Vizitatorii se pot aștepta la un mediu relaxat, excelent pentru plajă sau plimbări pe îndelete de-a lungul apei. Este un loc minunat pentru relaxare pe țărm. Pentru o experiență deosebit de liniștită, se recomandă sosirea la primele ore ale dimineții.", "category": "recreational", "coords": [-61.644467, 12.226527]}, {"name": "Irvins Bay Beach", "text": "Irvins Bay Beach este amplasată de-a lungul coastei pitorești a orașului Sauteurs din Grenada. Cadrul oferă o atmosferă de coastă liniștită și autentică, departe de agitația zonelor turistice. Oaspeții se bucură adesea de plimbări pe lângă valuri și de soarele tropical. O vizită la sfârșitul după-amiezii dezvăluie o lumină deosebit de frumoasă peste golf.", "category": "recreational", "coords": [-61.635343, 12.225088]}, {"name": "Levara Wetland Site", "text": "Zona umedă Levera din Sauteurs.", "category": "natural", "coords": [-61.609504, 12.22456]}, {"name": "Levera Hill", "text": "Dealul Levera din Sauteurs.", "category": "natural", "coords": [-61.620798, 12.216152]}, {"name": "Sauteurs Bay", "text": "Golful Sauteurs din Sauteurs.", "category": "landmark", "coords": [-61.645494, 12.228775]}, {"name": "Leapers Hill", "text": "Punct de observație Leapers Hill în Sauteurs.", "category": "natural", "coords": [-61.640433, 12.226306]}, {"name": "Welcome Rock", "text": "Punct de observație Welcome Rock în Sauteurs.", "category": "natural", "coords": [-61.619455, 12.216889]}, {"name": "Windmill Ruins", "text": "Ruinele morii de vânt din Sauteurs sunt rămășițele unei vechi mori.", "category": "historical", "coords": [-61.657664, 12.230614]}], "en": [{"name": "Mt. Rich Petroglyphs", "text": "Mt. Rich petroglyphs archaeological site in Sauteurs.", "category": "historical", "coords": [-61.643083, 12.193648]}, {"name": "Mount Rodney Beach", "text": "Located in the northern town of Sauteurs, Mount Rodney Beach spreads out within a peaceful Caribbean setting. The quieter beach character invites visitors to watch the waves and relax away from the major tourist tracks. For a comfortable stay, it is recommended to bring along refreshments for your beach day.", "category": "recreational", "coords": [-61.651319, 12.230936]}, {"name": "Sauteurs Beach", "text": "Situated in the northern coastal town of Sauteurs, this Grenadian beach presents a naturally scenic shoreline. Visitors can expect a relaxed environment that is perfect for sunbathing or leisurely strolls along the water. It is a wonderful spot for unwinding by the sea. For the most peaceful experience, arriving earlier in the day is recommended.", "category": "recreational", "coords": [-61.644467, 12.226527]}, {"name": "Irvins Bay Beach", "text": "Irvins Bay Beach is nestled along the picturesque coast of Sauteurs in Grenada. The setting provides a quiet, authentic seaside atmosphere away from bustling tourist hubs. Guests often enjoy walking by the waves and soaking up the tropical sunshine. A late afternoon visit offers particularly beautiful light across the bay.", "category": "recreational", "coords": [-61.635343, 12.225088]}, {"name": "Levara Wetland Site", "text": "Levera Wetland Site in Sauteurs.", "category": "natural", "coords": [-61.609504, 12.22456]}, {"name": "Levera Hill", "text": "Levera Hill in Sauteurs.", "category": "natural", "coords": [-61.620798, 12.216152]}, {"name": "Sauteurs Bay", "text": "Sauteurs Bay in Sauteurs.", "category": "landmark", "coords": [-61.645494, 12.228775]}, {"name": "Leapers Hill", "text": "Leapers Hill viewpoint in Sauteurs.", "category": "natural", "coords": [-61.640433, 12.226306]}, {"name": "Welcome Rock", "text": "Welcome Rock viewpoint in Sauteurs.", "category": "natural", "coords": [-61.619455, 12.216889]}, {"name": "Windmill Ruins", "text": "The Windmill Ruins in Sauteurs are the remains of an old windmill.", "category": "historical", "coords": [-61.657664, 12.230614]}]},
+    id: "grenada-sauteurs-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mt. Rich Petroglyphs",
+                  "text": "Die Mt. Rich-Petroglyphen in Sauteurs sind präkolumbische Felszeichnungen mit Tieren und Spiralen.",
+                  "category": "historical",
+                  "coords": [
+                        -61.643083,
+                        12.193648
+                  ]
+            },
+            {
+                  "name": "Mount Rodney Beach",
+                  "text": "Im nördlichen Sauteurs gelegen, breitet sich der Mount Rodney Beach in einer friedlichen karibischen Umgebung aus. Der ruhigere Strandcharakter lädt Besucher dazu ein, den Wellen zuzusehen und abseits der großen Touristenpfade zu entspannen. Für einen gemütlichen Aufenthalt empfiehlt es sich, Erfrischungen für den Strandtag mitzubringen.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.651319,
+                        12.230936
+                  ]
+            },
+            {
+                  "name": "Sauteurs Beach",
+                  "text": "An der Küste der nördlichen Stadt Sauteurs gelegen, bietet dieser Strand in Grenada eine natürliche Meereskulisse. Besucher erwartet eine entspannte Umgebung, die sich ideal für Sonnenbäder oder gemütliche Spaziergänge am Wasser anbietet. Es ist ein wunderbarer Ort, um am Meer zur Ruhe zu kommen. Wer die absolute Stille sucht, sollte am besten schon am Vormittag vorbeischauen.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.644467,
+                        12.226527
+                  ]
+            },
+            {
+                  "name": "Irvins Bay Beach",
+                  "text": "Die Irvins Bay Beach schmiegt sich an die malerische Küste von Sauteurs in Grenada. Das Ambiente besticht durch eine ruhige, authentische Meeresatmosphäre fernab des Trubels. Gäste schätzen vor allem entspannte Spaziergänge entlang der Wellen und das Genießen der tropischen Sonne. Ein Besuch am späten Nachmittag verspricht ein besonders schönes Licht über der Bucht.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.635343,
+                        12.225088
+                  ]
+            },
+            {
+                  "name": "Levara Wetland Site",
+                  "text": "Das Levara-Feuchtgebiet nahe Sauteurs ist ein Küstenfeuchtgebiet, wichtig für Vogelbeobachtung und Mangroven.",
+                  "category": "natural",
+                  "coords": [
+                        -61.609504,
+                        12.22456
+                  ]
+            },
+            {
+                  "name": "Levera Hill",
+                  "text": "Der Levera Hill in Sauteurs bietet einen Panoramablick über den Levera-Strand und die vorgelagerten Inseln.",
+                  "category": "natural",
+                  "coords": [
+                        -61.620798,
+                        12.216152
+                  ]
+            },
+            {
+                  "name": "Sauteurs Bay",
+                  "text": "Die Sauteurs Bay ist eine Bucht mit schwarzem Sand in Sauteurs, bekannt für ruhiges Wasser zum Schwimmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.645494,
+                        12.228775
+                  ]
+            },
+            {
+                  "name": "Leapers Hill",
+                  "text": "Leapers Hill in Sauteurs ist die Klippe, von der die Kariben der Legende nach sprangen, um der Sklaverei zu entgehen.",
+                  "category": "natural",
+                  "coords": [
+                        -61.640433,
+                        12.226306
+                  ]
+            },
+            {
+                  "name": "Welcome Rock",
+                  "text": "Welcome Rock ist eine große offshore Felsformation nahe Sauteurs, historisch als Navigationsmarke genutzt.",
+                  "category": "natural",
+                  "coords": [
+                        -61.619455,
+                        12.216889
+                  ]
+            },
+            {
+                  "name": "Windmill Ruins",
+                  "text": "Die Windmühlenruinen in Sauteurs sind die Überreste einer Windmühle aus dem 18. Jahrhundert mit noch stehenden Mauern.",
+                  "category": "historical",
+                  "coords": [
+                        -61.657664,
+                        12.230614
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mt. Rich Petroglyphs",
+                  "text": "A Mt. Rich-i sziklarajzok Sauteursban prekolumbusz kori állat- és spirálábrázolások.",
+                  "category": "historical",
+                  "coords": [
+                        -61.643083,
+                        12.193648
+                  ]
+            },
+            {
+                  "name": "Mount Rodney Beach",
+                  "text": "Az északi Sauteurs településen található Mount Rodney Beach egy békés karibi környezetben terül el. A csendesebb tengerparti jelleg arra ösztönzi a látogatókat, hogy a hullámokat figyelve pihenjenek meg a főbb turistaútvonalaktól távol. A kényelmes időtöltés érdekében ajánlott frissítőket vinni magunkkal a tengerparti napra.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.651319,
+                        12.230936
+                  ]
+            },
+            {
+                  "name": "Sauteurs Beach",
+                  "text": "A Grenada északi részén fekvő Sauteurs tengerparti városkájában található ez a természetes hangulatú strand. A látogatókat egy nyugodt környezet várja, amely tökéletes a napozáshoz vagy egy kényelmes sétához a víz mentén. Kellemes választás a tengerparti kikapcsolódáshoz. A legnyugodtabb élmény érdekében érdemes a korai órákban érkezni.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.644467,
+                        12.226527
+                  ]
+            },
+            {
+                  "name": "Irvins Bay Beach",
+                  "text": "Az Irvins Bay Beach Grenada szigetén, Sauteurs festői partvidékén húzódik. A helyszín csendes, autentikus tengerparti hangulatot áraszt a nyüzsgő turisztikai központoktól távol. A vendégek gyakran élvezik a hullámok melletti sétákat és a trópusi napsütést. A késő délutáni látogatás különösen szép fényeket ígér az öböl felett.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.635343,
+                        12.225088
+                  ]
+            },
+            {
+                  "name": "Levara Wetland Site",
+                  "text": "A Levara-vizes élőhely Sauteurs közelében egy tengerparti láp, fontos madármegfigyeléshez és mangroveerdőkhöz.",
+                  "category": "natural",
+                  "coords": [
+                        -61.609504,
+                        12.22456
+                  ]
+            },
+            {
+                  "name": "Levera Hill",
+                  "text": "A Levera-hegy Sauteursban panorámás kilátást nyújt a Levera-strandra és a szigetekre.",
+                  "category": "natural",
+                  "coords": [
+                        -61.620798,
+                        12.216152
+                  ]
+            },
+            {
+                  "name": "Sauteurs Bay",
+                  "text": "A Sauteurs-öböl egy fekete homokos öböl Sauteursban, nyugodt vizéről ismert úszáshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.645494,
+                        12.228775
+                  ]
+            },
+            {
+                  "name": "Leapers Hill",
+                  "text": "A Leapers Hill Sauteursban az a szikla, ahonnan a karibok a legenda szerint leugrottak, elkerülve a rabszolgaságot.",
+                  "category": "natural",
+                  "coords": [
+                        -61.640433,
+                        12.226306
+                  ]
+            },
+            {
+                  "name": "Welcome Rock",
+                  "text": "A Welcome Rock egy nagy parttól távoli sziklaformáció Sauteurs közelében, amelyet történelmileg navigációs jelzőként használtak.",
+                  "category": "natural",
+                  "coords": [
+                        -61.619455,
+                        12.216889
+                  ]
+            },
+            {
+                  "name": "Windmill Ruins",
+                  "text": "A sauteursi szélmalomromok egy 18. századi szélmalom maradványai, még álló falakkal.",
+                  "category": "historical",
+                  "coords": [
+                        -61.657664,
+                        12.230614
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mt. Rich Petroglyphs",
+                  "text": "Petroglifele de la Mt. Rich din Sauteurs sunt sculpturi precolumbiene pe stâncă, reprezentând animale și spirale.",
+                  "category": "historical",
+                  "coords": [
+                        -61.643083,
+                        12.193648
+                  ]
+            },
+            {
+                  "name": "Mount Rodney Beach",
+                  "text": "Situată în partea de nord a orașului Sauteurs, plaja Mount Rodney Beach se întinde într-un cadru pașnic din Caraibe. Caracterul mai liniștit al plajei invită vizitatorii să privească valurile și să se relaxeze departe de traseele turistice majore. Pentru o ședere confortabilă, este recomandat să aduceți cu dumneavoastră băuturi răcoritoare pentru ziua de plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.651319,
+                        12.230936
+                  ]
+            },
+            {
+                  "name": "Sauteurs Beach",
+                  "text": "Situată în orașul de coastă Sauteurs, această plajă din Grenada oferă un decor natural pitoresc la malul mării. Vizitatorii se pot aștepta la un mediu relaxat, excelent pentru plajă sau plimbări pe îndelete de-a lungul apei. Este un loc minunat pentru relaxare pe țărm. Pentru o experiență deosebit de liniștită, se recomandă sosirea la primele ore ale dimineții.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.644467,
+                        12.226527
+                  ]
+            },
+            {
+                  "name": "Irvins Bay Beach",
+                  "text": "Irvins Bay Beach este amplasată de-a lungul coastei pitorești a orașului Sauteurs din Grenada. Cadrul oferă o atmosferă de coastă liniștită și autentică, departe de agitația zonelor turistice. Oaspeții se bucură adesea de plimbări pe lângă valuri și de soarele tropical. O vizită la sfârșitul după-amiezii dezvăluie o lumină deosebit de frumoasă peste golf.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.635343,
+                        12.225088
+                  ]
+            },
+            {
+                  "name": "Levara Wetland Site",
+                  "text": "Zona umedă Levara de lângă Sauteurs este o zonă umedă de coastă, importantă pentru observarea păsărilor și mangrovi.",
+                  "category": "natural",
+                  "coords": [
+                        -61.609504,
+                        12.22456
+                  ]
+            },
+            {
+                  "name": "Levera Hill",
+                  "text": "Dealul Levera din Sauteurs oferă o vedere panoramică asupra plajei Levera și a insulelor offshore.",
+                  "category": "natural",
+                  "coords": [
+                        -61.620798,
+                        12.216152
+                  ]
+            },
+            {
+                  "name": "Sauteurs Bay",
+                  "text": "Golful Sauteurs este un golf cu nisip negru în Sauteurs, cunoscut pentru ape liniștite, ideale pentru înot.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.645494,
+                        12.228775
+                  ]
+            },
+            {
+                  "name": "Leapers Hill",
+                  "text": "Leapers Hill din Sauteurs este stânca de pe care, conform legendei, caraibii au sărit pentru a evita sclavia.",
+                  "category": "natural",
+                  "coords": [
+                        -61.640433,
+                        12.226306
+                  ]
+            },
+            {
+                  "name": "Welcome Rock",
+                  "text": "Welcome Rock este o formațiune stâncoasă mare offshore lângă Sauteurs, folosită istoric ca reper de navigație.",
+                  "category": "natural",
+                  "coords": [
+                        -61.619455,
+                        12.216889
+                  ]
+            },
+            {
+                  "name": "Windmill Ruins",
+                  "text": "Ruinele morii de vânt din Sauteurs sunt rămășițele unei mori de vânt din secolul al XVIII-lea, cu ziduri încă în picioare.",
+                  "category": "historical",
+                  "coords": [
+                        -61.657664,
+                        12.230614
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mt. Rich Petroglyphs",
+                  "text": "Mt. Rich Petroglyphs in Sauteurs are pre-Columbian rock carvings depicting animals and spirals.",
+                  "category": "historical",
+                  "coords": [
+                        -61.643083,
+                        12.193648
+                  ]
+            },
+            {
+                  "name": "Mount Rodney Beach",
+                  "text": "Located in the northern town of Sauteurs, Mount Rodney Beach spreads out within a peaceful Caribbean setting. The quieter beach character invites visitors to watch the waves and relax away from the major tourist tracks. For a comfortable stay, it is recommended to bring along refreshments for your beach day.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.651319,
+                        12.230936
+                  ]
+            },
+            {
+                  "name": "Sauteurs Beach",
+                  "text": "Situated in the northern coastal town of Sauteurs, this Grenadian beach presents a naturally scenic shoreline. Visitors can expect a relaxed environment that is perfect for sunbathing or leisurely strolls along the water. It is a wonderful spot for unwinding by the sea. For the most peaceful experience, arriving earlier in the day is recommended.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.644467,
+                        12.226527
+                  ]
+            },
+            {
+                  "name": "Irvins Bay Beach",
+                  "text": "Irvins Bay Beach is nestled along the picturesque coast of Sauteurs in Grenada. The setting provides a quiet, authentic seaside atmosphere away from bustling tourist hubs. Guests often enjoy walking by the waves and soaking up the tropical sunshine. A late afternoon visit offers particularly beautiful light across the bay.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.635343,
+                        12.225088
+                  ]
+            },
+            {
+                  "name": "Levara Wetland Site",
+                  "text": "Levara Wetland Site near Sauteurs is a coastal wetland important for birdwatching and mangroves.",
+                  "category": "natural",
+                  "coords": [
+                        -61.609504,
+                        12.22456
+                  ]
+            },
+            {
+                  "name": "Levera Hill",
+                  "text": "Levera Hill in Sauteurs provides a panoramic view over Levera Beach and offshore islands.",
+                  "category": "natural",
+                  "coords": [
+                        -61.620798,
+                        12.216152
+                  ]
+            },
+            {
+                  "name": "Sauteurs Bay",
+                  "text": "Sauteurs Bay is a black sand bay in Sauteurs known for calm swimming waters.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.645494,
+                        12.228775
+                  ]
+            },
+            {
+                  "name": "Leapers Hill",
+                  "text": "Leapers Hill in Sauteurs is the cliff from which the Caribs legendarily leaped to avoid slavery.",
+                  "category": "natural",
+                  "coords": [
+                        -61.640433,
+                        12.226306
+                  ]
+            },
+            {
+                  "name": "Welcome Rock",
+                  "text": "Welcome Rock is a large offshore rock formation near Sauteurs used historically as a navigation marker.",
+                  "category": "natural",
+                  "coords": [
+                        -61.619455,
+                        12.216889
+                  ]
+            },
+            {
+                  "name": "Windmill Ruins",
+                  "text": "Windmill Ruins in Sauteurs are the remains of an 18th-century sugar windmill with walls still standing.",
+                  "category": "historical",
+                  "coords": [
+                        -61.657664,
+                        12.230614
+                  ]
+            }
+      ]
+},
     parent: "GD",
     type: "town",
     name: { de: "Sauteurs", hu: "Sauteurs", ro: "Sauteurs", en: "Sauteurs" },
@@ -381,7 +1263,232 @@ export const grenadaCitiesV2: POI[] = [
     image: "/poi-images/grenada-sauteurs-cities-v2.webp",
   },
   {
-    id: "grenada-hillsborough-cities-v2", "sights": {"de": [{"name": "Carriacou Museum", "text": "Das Carriacou Museum ist ein Museum in Hillsborough.", "category": "museum", "coords": [-61.457499, 12.48322]}, {"name": "Sandy Island", "text": "Sandy Island ist ein Strand in Hillsborough.", "category": "recreational", "coords": [-61.482294, 12.484974]}, {"name": "Paradise Beach", "text": "In Hillsborough auf der Insel Grenada gelegen, macht Paradise Beach seinem Namen mit einem schönen Sandstreifen alle Ehre. Die Umgebung versprüht eine fröhliche, einladende Stimmung, die sich für ruhige Erholung und den Genuss des Ozeans eignet. Schwimmen und Sonnenbaden gehören hier zu den beliebtesten Aktivitäten unter der warmen Sonne. Dieser Küstenabschnitt ist ein wunderbares Ziel, um einen entspannten Nachmittag zu verbringen.", "category": "recreational", "coords": [-61.480462, 12.474255]}, {"name": "Sparrow Beach", "text": "Im Küstenstädtchen Hillsborough auf Grenada gelegen, bietet der Sparrow Beach eine friedliche Meereslandschaft. Dieser unaufdringliche Küstenabschnitt fängt einen lokalen, entspannten Charme ein, den Besucher schnell zu schätzen wissen. Es ist ein herrlicher Ort, um das Wasser zu beobachten, im Sand zu lesen oder einfach die Meeresbrise zu genießen. Ein Abstecher in den kühleren Morgenstunden ist besonders empfehlenswert.", "category": "recreational", "coords": [-61.452836, 12.498614]}, {"name": "Mount Pleasant Beach", "text": "Mount Pleasant Beach empfängt die Besucher in Hillsborough mit einer einladenden, natürlichen Küstenlinie auf Grenada. Eine friedliche und ungezwungene Atmosphäre prägt diesen Abschnitt und macht ihn ideal für eine Flucht aus dem Alltag. Gäste können hier ausgedehnte Spaziergänge unternehmen oder sich einfach am Rande des Wassers erholen. Wer etwas Sonnenschutz und Wasser mitbringt, sorgt für einen rundum angenehmen Aufenthalt.", "category": "recreational", "coords": [-61.431799, 12.479994]}, {"name": "Dumfries Plantation Ruins", "text": "Dumfries Plantation Ruins ist eine Sehenswürdigkeit in Hillsborough.", "category": "landmark", "coords": [-61.454409, 12.459245]}], "hu": [{"name": "Carriacou Museum", "text": "A Carriacou Museum egy múzeum Hillsborough városában.", "category": "museum", "coords": [-61.457499, 12.48322]}, {"name": "Sandy Island", "text": "A Sandy Island egy strand Hillsborough városában.", "category": "recreational", "coords": [-61.482294, 12.484974]}, {"name": "Paradise Beach", "text": "A Grenada szigetén, Hillsborough-ban található Paradise Beach egy gyönyörű homokos partszakasszal teszi híressé a nevét. A helyszín vidám, hívogató hangulatot áraszt, amely alkalmas a csendes pihenésre és az óceán élvezetére egyaránt. Az úszás és a napozás a legkedveltebb időtöltések a meleg napsütésben. Fantasztikus úti cél egy kényelmes délután eltöltésére.", "category": "recreational", "coords": [-61.480462, 12.474255]}, {"name": "Sparrow Beach", "text": "A grenadai Hillsborough tengerparti városában található Sparrow Beach békés tengeri tájat kínál. Ez a szerény partszakasz egy helyi, laza bájt hordoz magában, amelyet a látogatók értékelni fognak. Nagyszerű hely a víz megfigyelésére, egy könyv olvasására a homokban, vagy egyszerűen csak a tengeri szellő élvezetére. A hűvösebb reggeli órákban tett látogatás erősen ajánlott.", "category": "recreational", "coords": [-61.452836, 12.498614]}, {"name": "Mount Pleasant Beach", "text": "A Mount Pleasant Beach egy hívogató, természetes partszakasszal várja a Hillsborough-ba látogatókat Grenadán. Ezt a partvidéket egy nyugodt és könnyed atmoszféra jellemzi, ami ideálissá teszi a hétköznapokból való kiszakadásra. A vendégek hosszú sétákat tehetnek a parton, vagy egyszerűen csak pihenhetnek a vízparton. Némi naptej és ivóvíz magunkkal vitele biztosítja a kellemes időtöltést.", "category": "recreational", "coords": [-61.431799, 12.479994]}, {"name": "Dumfries Plantation Ruins", "text": "A Dumfries Plantation Ruins egy látványosság Hillsborough városában.", "category": "landmark", "coords": [-61.454409, 12.459245]}], "ro": [{"name": "Carriacou Museum", "text": "Carriacou Museum este un muzeu situat în Hillsborough.", "category": "museum", "coords": [-61.457499, 12.48322]}, {"name": "Sandy Island", "text": "Sandy Island este o plajă situată în Hillsborough.", "category": "recreational", "coords": [-61.482294, 12.484974]}, {"name": "Paradise Beach", "text": "Situată în Hillsborough pe insula Grenada, Paradise Beach își onorează numele cu o întindere frumoasă de nisip. Locația emană o atmosferă veselă și primitoare, potrivită atât pentru o relaxare liniștită, cât și pentru bucuria oceanului. Înotul și plaja sunt activități populare aici, sub soarele cald. Rămâne o destinație fantastică pentru a petrece o după-amiază relaxantă.", "category": "recreational", "coords": [-61.480462, 12.474255]}, {"name": "Sparrow Beach", "text": "Situată în orașul de coastă Hillsborough din Grenada, Sparrow Beach oferă un peisaj marin senin. Această porțiune de coastă modestă surprinde un farmec local, relaxat, pe care vizitatorii îl vor aprecia cu siguranță. Este un loc minunat pentru a privi apa, a citi o carte pe nisip sau pur și simplu a savura briza mării. O vizită în orele mai răcoroase ale dimineții este foarte recomandată.", "category": "recreational", "coords": [-61.452836, 12.498614]}, {"name": "Mount Pleasant Beach", "text": "Mount Pleasant Beach întâmpină vizitatorii din Hillsborough cu un țărm natural și primitor din Grenada. O atmosferă liniștită și relaxantă definește această întindere de coastă, fiind ideală pentru o evadare din cotidian. Vizitatorii pot face plimbări lungi pe mal sau se pot relaxa pur și simplu la marginea apei. Aducerea unei protecții solare și a apei asigură o ședere plăcută.", "category": "recreational", "coords": [-61.431799, 12.479994]}, {"name": "Dumfries Plantation Ruins", "text": "Dumfries Plantation Ruins este o atracție situată în Hillsborough.", "category": "landmark", "coords": [-61.454409, 12.459245]}], "en": [{"name": "Carriacou Museum", "text": "Carriacou Museum is a museum located in Hillsborough.", "category": "museum", "coords": [-61.457499, 12.48322]}, {"name": "Sandy Island", "text": "Sandy Island is a beach located in Hillsborough.", "category": "recreational", "coords": [-61.482294, 12.484974]}, {"name": "Paradise Beach", "text": "Located in Hillsborough on the island of Grenada, Paradise Beach lives up to its name with a beautiful stretch of sand. The location exudes a cheerful, inviting vibe suitable for both quiet relaxation and enjoying the ocean. Swimming and sunbathing are popular activities here under the warm sun. It remains a fantastic destination to spend a leisurely afternoon.", "category": "recreational", "coords": [-61.480462, 12.474255]}, {"name": "Sparrow Beach", "text": "Found within the coastal town of Hillsborough in Grenada, Sparrow Beach offers a serene marine landscape. This unassuming shoreline captures a local, laid-back charm that visitors will appreciate. It is a lovely place to watch the water, read a book on the sand, or simply enjoy the sea breeze. A visit during the cooler morning hours is highly recommended.", "category": "recreational", "coords": [-61.452836, 12.498614]}, {"name": "Mount Pleasant Beach", "text": "Mount Pleasant Beach greets visitors to Hillsborough with its inviting natural shoreline in Grenada. A tranquil and easygoing atmosphere defines this stretch of coast, making it ideal for escaping the daily routine. Visitors can take long shoreline strolls or simply relax by the water's edge. Carrying a bit of sun protection and some water ensures a pleasant stay.", "category": "recreational", "coords": [-61.431799, 12.479994]}, {"name": "Dumfries Plantation Ruins", "text": "Dumfries Plantation Ruins is an attraction located in Hillsborough.", "category": "landmark", "coords": [-61.454409, 12.459245]}]},
+    id: "grenada-hillsborough-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Carriacou Museum",
+                  "text": "Das Carriacou Museum in Hillsborough befindet sich in einem steinernen Gebäude aus dem 19. Jahrhundert und zeigt maritime Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        -61.457499,
+                        12.48322
+                  ]
+            },
+            {
+                  "name": "Sandy Island",
+                  "text": "Sandy Island ist eine kleine weiße Sandinsel vor Hillsborough, beliebt zum Schnorcheln und für Tagesausflüge.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.482294,
+                        12.484974
+                  ]
+            },
+            {
+                  "name": "Paradise Beach",
+                  "text": "In Hillsborough auf der Insel Grenada gelegen, macht Paradise Beach seinem Namen mit einem schönen Sandstreifen alle Ehre. Die Umgebung versprüht eine fröhliche, einladende Stimmung, die sich für ruhige Erholung und den Genuss des Ozeans eignet. Schwimmen und Sonnenbaden gehören hier zu den beliebtesten Aktivitäten unter der warmen Sonne. Dieser Küstenabschnitt ist ein wunderbares Ziel, um einen entspannten Nachmittag zu verbringen.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.480462,
+                        12.474255
+                  ]
+            },
+            {
+                  "name": "Sparrow Beach",
+                  "text": "Im Küstenstädtchen Hillsborough auf Grenada gelegen, bietet der Sparrow Beach eine friedliche Meereslandschaft. Dieser unaufdringliche Küstenabschnitt fängt einen lokalen, entspannten Charme ein, den Besucher schnell zu schätzen wissen. Es ist ein herrlicher Ort, um das Wasser zu beobachten, im Sand zu lesen oder einfach die Meeresbrise zu genießen. Ein Abstecher in den kühleren Morgenstunden ist besonders empfehlenswert.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.452836,
+                        12.498614
+                  ]
+            },
+            {
+                  "name": "Mount Pleasant Beach",
+                  "text": "Mount Pleasant Beach empfängt die Besucher in Hillsborough mit einer einladenden, natürlichen Küstenlinie auf Grenada. Eine friedliche und ungezwungene Atmosphäre prägt diesen Abschnitt und macht ihn ideal für eine Flucht aus dem Alltag. Gäste können hier ausgedehnte Spaziergänge unternehmen oder sich einfach am Rande des Wassers erholen. Wer etwas Sonnenschutz und Wasser mitbringt, sorgt für einen rundum angenehmen Aufenthalt.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.431799,
+                        12.479994
+                  ]
+            },
+            {
+                  "name": "Dumfries Plantation Ruins",
+                  "text": "Die Dumfries-Plantagenruinen in Hillsborough umfassen ein restauriertes Herrenhaus und eine alte Zuckermühle.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.454409,
+                        12.459245
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Carriacou Museum",
+                  "text": "A Carriacou Múzeum Hillsboroughban egy 19. századi kőépületben található, tengeri örökséget bemutatva.",
+                  "category": "museum",
+                  "coords": [
+                        -61.457499,
+                        12.48322
+                  ]
+            },
+            {
+                  "name": "Sandy Island",
+                  "text": "A Sandy Island egy kis fehér homokos sziget Hillsborough előtt, népszerű sznorkelezésre és kirándulásokra.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.482294,
+                        12.484974
+                  ]
+            },
+            {
+                  "name": "Paradise Beach",
+                  "text": "A Grenada szigetén, Hillsborough-ban található Paradise Beach egy gyönyörű homokos partszakasszal teszi híressé a nevét. A helyszín vidám, hívogató hangulatot áraszt, amely alkalmas a csendes pihenésre és az óceán élvezetére egyaránt. Az úszás és a napozás a legkedveltebb időtöltések a meleg napsütésben. Fantasztikus úti cél egy kényelmes délután eltöltésére.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.480462,
+                        12.474255
+                  ]
+            },
+            {
+                  "name": "Sparrow Beach",
+                  "text": "A grenadai Hillsborough tengerparti városában található Sparrow Beach békés tengeri tájat kínál. Ez a szerény partszakasz egy helyi, laza bájt hordoz magában, amelyet a látogatók értékelni fognak. Nagyszerű hely a víz megfigyelésére, egy könyv olvasására a homokban, vagy egyszerűen csak a tengeri szellő élvezetére. A hűvösebb reggeli órákban tett látogatás erősen ajánlott.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.452836,
+                        12.498614
+                  ]
+            },
+            {
+                  "name": "Mount Pleasant Beach",
+                  "text": "A Mount Pleasant Beach egy hívogató, természetes partszakasszal várja a Hillsborough-ba látogatókat Grenadán. Ezt a partvidéket egy nyugodt és könnyed atmoszféra jellemzi, ami ideálissá teszi a hétköznapokból való kiszakadásra. A vendégek hosszú sétákat tehetnek a parton, vagy egyszerűen csak pihenhetnek a vízparton. Némi naptej és ivóvíz magunkkal vitele biztosítja a kellemes időtöltést.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.431799,
+                        12.479994
+                  ]
+            },
+            {
+                  "name": "Dumfries Plantation Ruins",
+                  "text": "A dumfries-i ültetvény romjai Hillsboroughban egy helyreállított kúriát és régi cukormalmot foglalnak magukban.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.454409,
+                        12.459245
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Carriacou Museum",
+                  "text": "Muzeul Carriacou din Hillsborough este găzduit într-o clădire de piatră din secolul al XIX-lea, prezentând patrimoniul maritim.",
+                  "category": "museum",
+                  "coords": [
+                        -61.457499,
+                        12.48322
+                  ]
+            },
+            {
+                  "name": "Sandy Island",
+                  "text": "Sandy Island este o insuliță mică de nisip alb lângă Hillsborough, populară pentru snorkeling și excursii de o zi.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.482294,
+                        12.484974
+                  ]
+            },
+            {
+                  "name": "Paradise Beach",
+                  "text": "Situată în Hillsborough pe insula Grenada, Paradise Beach își onorează numele cu o întindere frumoasă de nisip. Locația emană o atmosferă veselă și primitoare, potrivită atât pentru o relaxare liniștită, cât și pentru bucuria oceanului. Înotul și plaja sunt activități populare aici, sub soarele cald. Rămâne o destinație fantastică pentru a petrece o după-amiază relaxantă.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.480462,
+                        12.474255
+                  ]
+            },
+            {
+                  "name": "Sparrow Beach",
+                  "text": "Situată în orașul de coastă Hillsborough din Grenada, Sparrow Beach oferă un peisaj marin senin. Această porțiune de coastă modestă surprinde un farmec local, relaxat, pe care vizitatorii îl vor aprecia cu siguranță. Este un loc minunat pentru a privi apa, a citi o carte pe nisip sau pur și simplu a savura briza mării. O vizită în orele mai răcoroase ale dimineții este foarte recomandată.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.452836,
+                        12.498614
+                  ]
+            },
+            {
+                  "name": "Mount Pleasant Beach",
+                  "text": "Mount Pleasant Beach întâmpină vizitatorii din Hillsborough cu un țărm natural și primitor din Grenada. O atmosferă liniștită și relaxantă definește această întindere de coastă, fiind ideală pentru o evadare din cotidian. Vizitatorii pot face plimbări lungi pe mal sau se pot relaxa pur și simplu la marginea apei. Aducerea unei protecții solare și a apei asigură o ședere plăcută.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.431799,
+                        12.479994
+                  ]
+            },
+            {
+                  "name": "Dumfries Plantation Ruins",
+                  "text": "Ruinele plantației Dumfries din Hillsborough includ un conac restaurat și o veche moară de zahăr.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.454409,
+                        12.459245
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Carriacou Museum",
+                  "text": "Carriacou Museum in Hillsborough is housed in a 19th-century stone building showcasing maritime heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -61.457499,
+                        12.48322
+                  ]
+            },
+            {
+                  "name": "Sandy Island",
+                  "text": "Sandy Island is a small white sand islet off Hillsborough, popular for snorkeling and day trips.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.482294,
+                        12.484974
+                  ]
+            },
+            {
+                  "name": "Paradise Beach",
+                  "text": "Located in Hillsborough on the island of Grenada, Paradise Beach lives up to its name with a beautiful stretch of sand. The location exudes a cheerful, inviting vibe suitable for both quiet relaxation and enjoying the ocean. Swimming and sunbathing are popular activities here under the warm sun. It remains a fantastic destination to spend a leisurely afternoon.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.480462,
+                        12.474255
+                  ]
+            },
+            {
+                  "name": "Sparrow Beach",
+                  "text": "Found within the coastal town of Hillsborough in Grenada, Sparrow Beach offers a serene marine landscape. This unassuming shoreline captures a local, laid-back charm that visitors will appreciate. It is a lovely place to watch the water, read a book on the sand, or simply enjoy the sea breeze. A visit during the cooler morning hours is highly recommended.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.452836,
+                        12.498614
+                  ]
+            },
+            {
+                  "name": "Mount Pleasant Beach",
+                  "text": "Mount Pleasant Beach greets visitors to Hillsborough with its inviting natural shoreline in Grenada. A tranquil and easygoing atmosphere defines this stretch of coast, making it ideal for escaping the daily routine. Visitors can take long shoreline strolls or simply relax by the water's edge. Carrying a bit of sun protection and some water ensures a pleasant stay.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.431799,
+                        12.479994
+                  ]
+            },
+            {
+                  "name": "Dumfries Plantation Ruins",
+                  "text": "Dumfries Plantation Ruins in Hillsborough include a restored great house and old sugar mill.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.454409,
+                        12.459245
+                  ]
+            }
+      ]
+},
     parent: "GD",
     type: "town",
     name: { de: "Hillsborough", hu: "Hillsborough", ro: "Hillsborough", en: "Hillsborough" },
@@ -426,7 +1533,124 @@ export const grenadaCitiesV2: POI[] = [
     image: "/poi-images/grenada-hillsborough-cities-v2.webp",
   },
   {
-    id: "grenada-saint-davids-cities-v2", "sights": {"de": [{"name": "La Sagesse Beach", "text": "Versteckt in Saint David's, ist La Sagesse Beach ein echtes Naturjuwel entlang der malerischen Küste Grenadas. Dieser Ort bietet ein bemerkenswert friedliches und landschaftlich reizvolles Ambiente, das Naturliebhaber begeistert. Gäste können hier entspannt schwimmen, sich in der Sonne ausruhen und die unberührte Küstenumgebung erkunden. Ein Besuch unter der Woche verspricht oft ein besonders privates Erlebnis.", "category": "recreational", "coords": [-61.671834, 12.02323]}, {"name": "Westerhall Rum Estate", "text": "Das Westerhall Rum Estate besteht aus historischen Ruinen in Saint David’s.", "category": "historical", "coords": [-61.703693, 12.019126]}, {"name": "Explorer", "text": "Explorer ist ein malerischer Aussichtspunkt in Saint David’s.", "category": "natural", "coords": [-61.658076, 12.031353]}], "hu": [{"name": "La Sagesse Beach", "text": "A Saint David's területén megbúvó La Sagesse Beach egy igazi rejtett kincs Grenada festői partvidékén. Ez a hely rendkívül békés és festői környezetet kínál, amely tökéletes a természet kedvelőinek. A vendégek élvezhetik a finom úszást, a napozást és az érintetlen partvidék felfedezését. Hétköznapi látogatás esetén a strand sokkal privátabb élményt nyújt.", "category": "recreational", "coords": [-61.671834, 12.02323]}, {"name": "Westerhall Rum Estate", "text": "A Westerhall Rum Estate történelmi romokból áll Saint David’s-ben.", "category": "historical", "coords": [-61.703693, 12.019126]}, {"name": "Explorer", "text": "Az Explorer egy festői kilátó Saint David’s-ben.", "category": "natural", "coords": [-61.658076, 12.031353]}], "ro": [{"name": "La Sagesse Beach", "text": "Ascunsă în Saint David's, La Sagesse Beach este o adevărată comoară ascunsă de-a lungul țărmului pitoresc din Grenada. Acest loc oferă o ambianță remarcabil de liniștită și pitorească, perfectă pentru iubitorii de natură. Oaspeții se pot bucura de un înot ușor, de relaxare sub soare și de explorarea împrejurimilor neatinse ale coastei. O vizită în timpul săptămânii oferă adesea o experiență mai intimă.", "category": "recreational", "coords": [-61.671834, 12.02323]}, {"name": "Westerhall Rum Estate", "text": "Westerhall Rum Estate constă în ruine istorice din Saint David’s.", "category": "historical", "coords": [-61.703693, 12.019126]}, {"name": "Explorer", "text": "Explorer este un punct de belvedere panoramic situat în Saint David’s.", "category": "natural", "coords": [-61.658076, 12.031353]}], "en": [{"name": "La Sagesse Beach", "text": "Tucked away in Saint David's, La Sagesse Beach is a hidden gem along Grenada's picturesque shoreline. This spot offers a remarkably peaceful and scenic ambiance, perfect for nature lovers. Guests can enjoy gentle swimming, relaxing under the sun, and exploring the unspoiled coastal surroundings. Visiting during the week often provides a more private experience.", "category": "recreational", "coords": [-61.671834, 12.02323]}, {"name": "Westerhall Rum Estate", "text": "The Westerhall Rum Estate consists of historical ruins in Saint David’s.", "category": "historical", "coords": [-61.703693, 12.019126]}, {"name": "Explorer", "text": "Explorer is a scenic viewpoint situated in Saint David’s.", "category": "natural", "coords": [-61.658076, 12.031353]}]},
+    id: "grenada-saint-davids-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "La Sagesse Beach",
+                  "text": "Versteckt in Saint David's, ist La Sagesse Beach ein echtes Naturjuwel entlang der malerischen Küste Grenadas. Dieser Ort bietet ein bemerkenswert friedliches und landschaftlich reizvolles Ambiente, das Naturliebhaber begeistert. Gäste können hier entspannt schwimmen, sich in der Sonne ausruhen und die unberührte Küstenumgebung erkunden. Ein Besuch unter der Woche verspricht oft ein besonders privates Erlebnis.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.671834,
+                        12.02323
+                  ]
+            },
+            {
+                  "name": "Westerhall Rum Estate",
+                  "text": "Das Westerhall Rum Estate besteht aus historischen Ruinen in Saint David’s.",
+                  "category": "historical",
+                  "coords": [
+                        -61.703693,
+                        12.019126
+                  ]
+            },
+            {
+                  "name": "Explorer",
+                  "text": "Explorer in Saint Davids ist ein Naturgebiet mit Kalksteinhöhlen und Waldwanderwegen.",
+                  "category": "natural",
+                  "coords": [
+                        -61.658076,
+                        12.031353
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La Sagesse Beach",
+                  "text": "A Saint David's területén megbúvó La Sagesse Beach egy igazi rejtett kincs Grenada festői partvidékén. Ez a hely rendkívül békés és festői környezetet kínál, amely tökéletes a természet kedvelőinek. A vendégek élvezhetik a finom úszást, a napozást és az érintetlen partvidék felfedezését. Hétköznapi látogatás esetén a strand sokkal privátabb élményt nyújt.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.671834,
+                        12.02323
+                  ]
+            },
+            {
+                  "name": "Westerhall Rum Estate",
+                  "text": "A Westerhall Rum Estate történelmi romokból áll Saint David’s-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -61.703693,
+                        12.019126
+                  ]
+            },
+            {
+                  "name": "Explorer",
+                  "text": "Az Explorer Saint Davidsban egy természeti terület mészkőbarlangokkal és erdei túraútvonalakkal.",
+                  "category": "natural",
+                  "coords": [
+                        -61.658076,
+                        12.031353
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La Sagesse Beach",
+                  "text": "Ascunsă în Saint David's, La Sagesse Beach este o adevărată comoară ascunsă de-a lungul țărmului pitoresc din Grenada. Acest loc oferă o ambianță remarcabil de liniștită și pitorească, perfectă pentru iubitorii de natură. Oaspeții se pot bucura de un înot ușor, de relaxare sub soare și de explorarea împrejurimilor neatinse ale coastei. O vizită în timpul săptămânii oferă adesea o experiență mai intimă.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.671834,
+                        12.02323
+                  ]
+            },
+            {
+                  "name": "Westerhall Rum Estate",
+                  "text": "Westerhall Rum Estate constă în ruine istorice din Saint David’s.",
+                  "category": "historical",
+                  "coords": [
+                        -61.703693,
+                        12.019126
+                  ]
+            },
+            {
+                  "name": "Explorer",
+                  "text": "Explorer în Saint Davids este o zonă naturală cu peșteri de calcar și trasee de drumeție în pădure.",
+                  "category": "natural",
+                  "coords": [
+                        -61.658076,
+                        12.031353
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "La Sagesse Beach",
+                  "text": "Tucked away in Saint David's, La Sagesse Beach is a hidden gem along Grenada's picturesque shoreline. This spot offers a remarkably peaceful and scenic ambiance, perfect for nature lovers. Guests can enjoy gentle swimming, relaxing under the sun, and exploring the unspoiled coastal surroundings. Visiting during the week often provides a more private experience.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.671834,
+                        12.02323
+                  ]
+            },
+            {
+                  "name": "Westerhall Rum Estate",
+                  "text": "The Westerhall Rum Estate consists of historical ruins in Saint David’s.",
+                  "category": "historical",
+                  "coords": [
+                        -61.703693,
+                        12.019126
+                  ]
+            },
+            {
+                  "name": "Explorer",
+                  "text": "Explorer in Saint Davids is a natural area with limestone caves and forest hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        -61.658076,
+                        12.031353
+                  ]
+            }
+      ]
+},
     parent: "GD",
     type: "village",
     name: { de: "Saint David’s", hu: "Saint David’s", ro: "Saint David’s", en: "Saint David's" },
@@ -520,7 +1744,7 @@ export const grenadaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Mount Carmel Waterfalls",
-                  "text": "Mount Carmel Waterfalls ist eine Sehenswürdigkeit in Marquis.",
+                  "text": "Die Mount Carmel Wasserfälle in Marquis sind ein zweistufiger Wasserfall mit einem tiefen Schwimmbecken.",
                   "category": "landmark",
                   "coords": [
                         -61.635661,
@@ -531,7 +1755,7 @@ export const grenadaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Mount Carmel Waterfalls",
-                  "text": "A Mount Carmel Waterfalls egy látványosság Marquis városában.",
+                  "text": "A Mount Carmel-vízesés Marquisban egy kétszintű vízesés mély úszómedencével.",
                   "category": "landmark",
                   "coords": [
                         -61.635661,
@@ -542,7 +1766,7 @@ export const grenadaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Mount Carmel Waterfalls",
-                  "text": "Mount Carmel Waterfalls este o atracție situată în Marquis.",
+                  "text": "Cascadele Mount Carmel din Marquis sunt o cascadă pe două niveluri cu un bazin adânc de înot.",
                   "category": "landmark",
                   "coords": [
                         -61.635661,
@@ -553,7 +1777,7 @@ export const grenadaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Mount Carmel Waterfalls",
-                  "text": "Mount Carmel Waterfalls is an attraction located in Marquis.",
+                  "text": "Mount Carmel Waterfalls in Marquis is a two-tiered waterfall with a deep swimming hole.",
                   "category": "landmark",
                   "coords": [
                         -61.635661,
@@ -696,7 +1920,124 @@ export const grenadaCitiesV2: POI[] = [
     image: "/poi-images/grenada-lance-aux-epines-cities-v2.webp",
   },
   {
-    id: "grenada-crochu-cities-v2", "sights": {"de": [{"name": "Cabier Beach", "text": "Der Cabier Beach erstreckt sich sanft an der Küste von Crochu und präsentiert ein schönes Stück der natürlichen Schönheit Grenadas. Der Strand bewahrt sich ein wunderbar ruhiges und intimes Flair, das auf natürliche Weise Erholungssuchende anzieht. Das warme Wasser lädt zum Schwimmen ein, während die sandigen Ränder ideal zum Sonnenbaden sind. Ein eigenes Handtuch und ein gutes Buch reichen völlig aus, um hier einen perfekten Tag zu verbringen.", "category": "recreational", "coords": [-61.633607, 12.055551]}, {"name": "La Tante Beach", "text": "An der Küste von Crochu gelegen, bietet La Tante Beach einen herrlichen Rückzugsort in Grenada. Die Umgebung verströmt ein ausgeprägt entspanntes Inselflair, das von Einheimischen und friedliebenden Reisenden gleichermaßen geschätzt wird. Sonnenanbeter und Schwimmer finden hier ein attraktives Plätzchen, um das Meer in vollen Zügen zu genießen. Der Strand ist ein exzellentes Ziel für einen gemütlichen Nachmittag.", "category": "recreational", "coords": [-61.636986, 12.049299]}, {"name": "Explorer", "text": "Explorer ist ein Aussichtspunkt in Crochu.", "category": "natural", "coords": [-61.658076, 12.031353]}], "hu": [{"name": "Cabier Beach", "text": "A Cabier Beach lágyan ível Crochu partvonala mentén, csodálatos szeletet kínálva Grenada természetes szépségéből. Csodálatosan csendes és intim hangulatot őriz, amely természetes módon vonzza a pihenésre vágyókat. A meleg víz úszásra csábít, míg a homokos részek nagyszerűek a napozáshoz. Egy saját törölköző és egy jó könyv társaságában remekül telik majd itt a nap.", "category": "recreational", "coords": [-61.633607, 12.055551]}, {"name": "La Tante Beach", "text": "A Crochu partjainál fekvő La Tante Beach egy kedves tengerparti menedéket kínál Grenadában. A környék határozottan laza szigeti hangulattal rendelkezik, amelyet gyakran kedvelnek a helyiek és a békés utazók egyaránt. A napozni és úszni vágyók vonzó helyet találnak itt, hogy átadják magukat a tengeri elemeknek. Kiváló úti cél egy kényelmes, pihentető délutánhoz.", "category": "recreational", "coords": [-61.636986, 12.049299]}, {"name": "Explorer", "text": "Az Explorer egy kilátó Crochu városában.", "category": "natural", "coords": [-61.658076, 12.031353]}], "ro": [{"name": "Cabier Beach", "text": "Cabier Beach se ondulează ușor de-a lungul coastei din Crochu, oferind o felie frumoasă din frumusețea naturală a Grenadei. Își păstrează o atmosferă minunat de liniștită și intimă, care îi atrage pe cei în căutare de relaxare. Apele calde invită vizitatorii la o baie, în timp ce marginile nisipoase sunt excelente pentru plajă. Aducerea propriului prosop și a unei cărți bune este o modalitate excelentă de a petrece ziua.", "category": "recreational", "coords": [-61.633607, 12.055551]}, {"name": "La Tante Beach", "text": "Așezată pe coasta din Crochu, La Tante Beach oferă un refugiu de coastă minunat în Grenada. Zona înconjurătoare are o vibrație insulară distinct de relaxată, adesea preferată de localnici și de călătorii pașnici deopotrivă. Iubitorii de soare și de înot vor găsi un loc atrăgător pentru a îmbrățișa elementele mării. Este o destinație excelentă pentru o după-amiază de tihnă.", "category": "recreational", "coords": [-61.636986, 12.049299]}, {"name": "Explorer", "text": "Explorer este un punct de belvedere situat în Crochu.", "category": "natural", "coords": [-61.658076, 12.031353]}], "en": [{"name": "Cabier Beach", "text": "Cabier Beach gently curves along the coastline of Crochu, offering a beautiful slice of Grenada's natural beauty. It maintains a wonderfully quiet and intimate feel that naturally draws those looking for relaxation. The warm waters invite visitors for a swim, while the sandy edges are great for sunbathing. Bringing your own towel and a good book is a great way to spend the day.", "category": "recreational", "coords": [-61.633607, 12.055551]}, {"name": "La Tante Beach", "text": "Settled on the coast of Crochu, La Tante Beach provides a lovely coastal retreat in Grenada. The surrounding area has a distinctly laid-back island vibe, often favored by locals and peaceful travelers alike. Sunseekers and swimmers will find an appealing spot to embrace the seaside elements. It is an excellent destination for an unhurried, relaxing afternoon.", "category": "recreational", "coords": [-61.636986, 12.049299]}, {"name": "Explorer", "text": "Explorer is a viewpoint located in Crochu.", "category": "natural", "coords": [-61.658076, 12.031353]}]},
+    id: "grenada-crochu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cabier Beach",
+                  "text": "Der Cabier Beach erstreckt sich sanft an der Küste von Crochu und präsentiert ein schönes Stück der natürlichen Schönheit Grenadas. Der Strand bewahrt sich ein wunderbar ruhiges und intimes Flair, das auf natürliche Weise Erholungssuchende anzieht. Das warme Wasser lädt zum Schwimmen ein, während die sandigen Ränder ideal zum Sonnenbaden sind. Ein eigenes Handtuch und ein gutes Buch reichen völlig aus, um hier einen perfekten Tag zu verbringen.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.633607,
+                        12.055551
+                  ]
+            },
+            {
+                  "name": "La Tante Beach",
+                  "text": "An der Küste von Crochu gelegen, bietet La Tante Beach einen herrlichen Rückzugsort in Grenada. Die Umgebung verströmt ein ausgeprägt entspanntes Inselflair, das von Einheimischen und friedliebenden Reisenden gleichermaßen geschätzt wird. Sonnenanbeter und Schwimmer finden hier ein attraktives Plätzchen, um das Meer in vollen Zügen zu genießen. Der Strand ist ein exzellentes Ziel für einen gemütlichen Nachmittag.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.636986,
+                        12.049299
+                  ]
+            },
+            {
+                  "name": "Explorer",
+                  "text": "Explorer in Crochu ist ein Naturgebiet mit Küstenklippen und Meereshöhlen.",
+                  "category": "natural",
+                  "coords": [
+                        -61.658076,
+                        12.031353
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cabier Beach",
+                  "text": "A Cabier Beach lágyan ível Crochu partvonala mentén, csodálatos szeletet kínálva Grenada természetes szépségéből. Csodálatosan csendes és intim hangulatot őriz, amely természetes módon vonzza a pihenésre vágyókat. A meleg víz úszásra csábít, míg a homokos részek nagyszerűek a napozáshoz. Egy saját törölköző és egy jó könyv társaságában remekül telik majd itt a nap.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.633607,
+                        12.055551
+                  ]
+            },
+            {
+                  "name": "La Tante Beach",
+                  "text": "A Crochu partjainál fekvő La Tante Beach egy kedves tengerparti menedéket kínál Grenadában. A környék határozottan laza szigeti hangulattal rendelkezik, amelyet gyakran kedvelnek a helyiek és a békés utazók egyaránt. A napozni és úszni vágyók vonzó helyet találnak itt, hogy átadják magukat a tengeri elemeknek. Kiváló úti cél egy kényelmes, pihentető délutánhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.636986,
+                        12.049299
+                  ]
+            },
+            {
+                  "name": "Explorer",
+                  "text": "Az Explorer Crochuban egy természeti terület tengerparti sziklákkal és tengeri barlangokkal.",
+                  "category": "natural",
+                  "coords": [
+                        -61.658076,
+                        12.031353
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cabier Beach",
+                  "text": "Cabier Beach se ondulează ușor de-a lungul coastei din Crochu, oferind o felie frumoasă din frumusețea naturală a Grenadei. Își păstrează o atmosferă minunat de liniștită și intimă, care îi atrage pe cei în căutare de relaxare. Apele calde invită vizitatorii la o baie, în timp ce marginile nisipoase sunt excelente pentru plajă. Aducerea propriului prosop și a unei cărți bune este o modalitate excelentă de a petrece ziua.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.633607,
+                        12.055551
+                  ]
+            },
+            {
+                  "name": "La Tante Beach",
+                  "text": "Așezată pe coasta din Crochu, La Tante Beach oferă un refugiu de coastă minunat în Grenada. Zona înconjurătoare are o vibrație insulară distinct de relaxată, adesea preferată de localnici și de călătorii pașnici deopotrivă. Iubitorii de soare și de înot vor găsi un loc atrăgător pentru a îmbrățișa elementele mării. Este o destinație excelentă pentru o după-amiază de tihnă.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.636986,
+                        12.049299
+                  ]
+            },
+            {
+                  "name": "Explorer",
+                  "text": "Explorer în Crochu este o zonă naturală cu stânci de coastă și peșteri marine.",
+                  "category": "natural",
+                  "coords": [
+                        -61.658076,
+                        12.031353
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cabier Beach",
+                  "text": "Cabier Beach gently curves along the coastline of Crochu, offering a beautiful slice of Grenada's natural beauty. It maintains a wonderfully quiet and intimate feel that naturally draws those looking for relaxation. The warm waters invite visitors for a swim, while the sandy edges are great for sunbathing. Bringing your own towel and a good book is a great way to spend the day.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.633607,
+                        12.055551
+                  ]
+            },
+            {
+                  "name": "La Tante Beach",
+                  "text": "Settled on the coast of Crochu, La Tante Beach provides a lovely coastal retreat in Grenada. The surrounding area has a distinctly laid-back island vibe, often favored by locals and peaceful travelers alike. Sunseekers and swimmers will find an appealing spot to embrace the seaside elements. It is an excellent destination for an unhurried, relaxing afternoon.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.636986,
+                        12.049299
+                  ]
+            },
+            {
+                  "name": "Explorer",
+                  "text": "Explorer in Crochu is a natural area with coastal cliffs and sea caves.",
+                  "category": "natural",
+                  "coords": [
+                        -61.658076,
+                        12.031353
+                  ]
+            }
+      ]
+},
     parent: "GD",
     type: "village",
     name: { de: "Crochu", hu: "Crochu", ro: "Crochu", en: "Crochu" },
@@ -745,7 +2086,7 @@ export const grenadaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Belmont Estate",
-                  "text": "Das Belmont Estate ist ein Museum in Tivoli.",
+                  "text": "Das Belmont Estate in Tivoli ist eine biologische Kakaofarm mit Museum und Schokoladenladen.",
                   "category": "museum",
                   "coords": [
                         -61.626927,
@@ -754,7 +2095,7 @@ export const grenadaCitiesV2: POI[] = [
             },
             {
                   "name": "Grenada Chocolate Factory",
-                  "text": "Die Grenada Chocolate Factory ist ein Museum und eine Produktionsstätte in Tivoli.",
+                  "text": "Die Grenada Chocolate Factory in Tivoli stellt Schokolade von der Bohne bis zur Tafel her und bietet Führungen und Verkostungen an.",
                   "category": "museum",
                   "coords": [
                         -61.638087,
@@ -763,7 +2104,7 @@ export const grenadaCitiesV2: POI[] = [
             },
             {
                   "name": "Conference Bay",
-                  "text": "Die Conference Bay ist eine Bucht in Tivoli.",
+                  "text": "Die Conference Bay in Tivoli ist eine geschützte Bucht mit Strand, die für Firmenevents genutzt wird.",
                   "category": "landmark",
                   "coords": [
                         -61.604307,
@@ -772,7 +2113,7 @@ export const grenadaCitiesV2: POI[] = [
             },
             {
                   "name": "Pearls Airport",
-                  "text": "Der Pearls Airport ist eine Attraktion in Tivoli und war der erste Flughafen Grenadas.",
+                  "text": "Der Pearls Airport in Tivoli ist ein stillgelegter Flughafen, heute als Drag-Racing-Strecke genutzt.",
                   "category": "landmark",
                   "coords": [
                         -61.616844,
@@ -781,7 +2122,7 @@ export const grenadaCitiesV2: POI[] = [
             },
             {
                   "name": "River Antoine Rum Distillery",
-                  "text": "Die River Antoine Rum Distillery ist eine Sehenswürdigkeit in Tivoli.",
+                  "text": "Die River Antoine Rum Distillery in Tivoli arbeitet mit einem Wasserrad und ist eine der ältesten Brennereien der Karibik.",
                   "category": "landmark",
                   "coords": [
                         -61.608178,
@@ -792,7 +2133,7 @@ export const grenadaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Belmont Estate",
-                  "text": "A Belmont Estate egy múzeum Tivoliban.",
+                  "text": "A Belmont birtok Tivoliban egy organikus kakaófarm múzeummal és csokoládébolttal.",
                   "category": "museum",
                   "coords": [
                         -61.626927,
@@ -801,7 +2142,7 @@ export const grenadaCitiesV2: POI[] = [
             },
             {
                   "name": "Grenada Chocolate Factory",
-                  "text": "A Grenada Chocolate Factory egy múzeum és csokoládégyár Tivoliban.",
+                  "text": "A Grenada Csokoládégyár Tivoliban babszemtől tábláig készít csokoládét, túrákkal és kóstolókkal.",
                   "category": "museum",
                   "coords": [
                         -61.638087,
@@ -810,7 +2151,7 @@ export const grenadaCitiesV2: POI[] = [
             },
             {
                   "name": "Conference Bay",
-                  "text": "A Conference Bay egy tengerparti öböl Tivoliban.",
+                  "text": "A Conference-öböl Tivoliban egy védett öböl stranddal, vállalati rendezvényekre használva.",
                   "category": "landmark",
                   "coords": [
                         -61.604307,
@@ -819,7 +2160,7 @@ export const grenadaCitiesV2: POI[] = [
             },
             {
                   "name": "Pearls Airport",
-                  "text": "A Pearls Airport egy látványosság Tivoliban, Grenada első repülőtere.",
+                  "text": "A Pearls repülőtér Tivoliban egy bezárt repülőtér, ma drag racing pályaként használják.",
                   "category": "landmark",
                   "coords": [
                         -61.616844,
@@ -828,7 +2169,7 @@ export const grenadaCitiesV2: POI[] = [
             },
             {
                   "name": "River Antoine Rum Distillery",
-                  "text": "A River Antoine Rum Distillery egy látványosság Tivoliban.",
+                  "text": "A River Antoine Rum Lepárló Tivoliban vízikerékkel működik, és a Karib-térség egyik legrégebbi működő lepárlója.",
                   "category": "landmark",
                   "coords": [
                         -61.608178,
@@ -839,7 +2180,7 @@ export const grenadaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Belmont Estate",
-                  "text": "Belmont Estate este un muzeu situat în Tivoli.",
+                  "text": "Belmont Estate din Tivoli este o fermă ecologică de cacao cu muzeu și magazin de ciocolată.",
                   "category": "museum",
                   "coords": [
                         -61.626927,
@@ -848,7 +2189,7 @@ export const grenadaCitiesV2: POI[] = [
             },
             {
                   "name": "Grenada Chocolate Factory",
-                  "text": "Grenada Chocolate Factory este un muzeu din Tivoli.",
+                  "text": "Fabrica de Ciocolată Grenada din Tivoli produce ciocolată de la bob la baton, oferind tururi și degustări.",
                   "category": "museum",
                   "coords": [
                         -61.638087,
@@ -857,7 +2198,7 @@ export const grenadaCitiesV2: POI[] = [
             },
             {
                   "name": "Conference Bay",
-                  "text": "Conference Bay este un golf situat în Tivoli.",
+                  "text": "Golful Conference din Tivoli este un golf adăpostit cu plajă, folosit pentru evenimente corporative.",
                   "category": "landmark",
                   "coords": [
                         -61.604307,
@@ -866,7 +2207,7 @@ export const grenadaCitiesV2: POI[] = [
             },
             {
                   "name": "Pearls Airport",
-                  "text": "Pearls Airport este o atracție din Tivoli, cunoscut ca primul aeroport din Grenada.",
+                  "text": "Aeroportul Pearls din Tivoli este un aeroport dezafectat, acum folosit ca pistă de drag racing.",
                   "category": "landmark",
                   "coords": [
                         -61.616844,
@@ -875,7 +2216,7 @@ export const grenadaCitiesV2: POI[] = [
             },
             {
                   "name": "River Antoine Rum Distillery",
-                  "text": "River Antoine Rum Distillery este o atracție situată în Tivoli.",
+                  "text": "Distileria de rom River Antoine din Tivoli funcționează cu o roată de apă și este una dintre cele mai vechi distilerii în funcțiune din Caraibe.",
                   "category": "landmark",
                   "coords": [
                         -61.608178,
@@ -886,7 +2227,7 @@ export const grenadaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Belmont Estate",
-                  "text": "Belmont Estate is a museum and agricultural estate located in Tivoli.",
+                  "text": "Belmont Estate in Tivoli is an organic cocoa farm with a museum and chocolate shop.",
                   "category": "museum",
                   "coords": [
                         -61.626927,
@@ -895,7 +2236,7 @@ export const grenadaCitiesV2: POI[] = [
             },
             {
                   "name": "Grenada Chocolate Factory",
-                  "text": "The Grenada Chocolate Factory is a museum and production site in Tivoli.",
+                  "text": "Grenada Chocolate Factory in Tivoli is a bean-to-bar chocolate maker offering tours and tastings.",
                   "category": "museum",
                   "coords": [
                         -61.638087,
@@ -904,7 +2245,7 @@ export const grenadaCitiesV2: POI[] = [
             },
             {
                   "name": "Conference Bay",
-                  "text": "Conference Bay is a coastal bay situated in Tivoli.",
+                  "text": "Conference Bay in Tivoli is a sheltered bay with a beach used for corporate events.",
                   "category": "landmark",
                   "coords": [
                         -61.604307,
@@ -913,7 +2254,7 @@ export const grenadaCitiesV2: POI[] = [
             },
             {
                   "name": "Pearls Airport",
-                  "text": "Pearls Airport is an attraction in Tivoli, known as the first airport in Grenada.",
+                  "text": "Pearls Airport in Tivoli is a disused airport now used as a drag racing strip.",
                   "category": "landmark",
                   "coords": [
                         -61.616844,
@@ -922,7 +2263,7 @@ export const grenadaCitiesV2: POI[] = [
             },
             {
                   "name": "River Antoine Rum Distillery",
-                  "text": "The River Antoine Rum Distillery is an attraction located in Tivoli.",
+                  "text": "River Antoine Rum Distillery in Tivoli uses a waterwheel and is one of the oldest working distilleries in the Caribbean.",
                   "category": "landmark",
                   "coords": [
                         -61.608178,

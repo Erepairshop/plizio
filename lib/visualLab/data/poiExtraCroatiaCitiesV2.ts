@@ -3549,7 +3549,7 @@ imageHint: "Sibenik St James Cathedral and waterfront",
             },
             {
                   "name": "Ciglarska graba",
-                  "text": "Der See Ciglarska graba in Sisak lädt zur Erholung ein.",
+                  "text": "Ein ehemaliger Ziegelteich, heute ein Feuchtgebiet in Sisak.",
                   "category": "natural",
                   "coords": [
                         16.382273,
@@ -3576,7 +3576,7 @@ imageHint: "Sibenik St James Cathedral and waterfront",
             },
             {
                   "name": "Dječje igralište",
-                  "text": "Ein schöner Spielplatz in Sisak zum Spielen und Entspannen.",
+                  "text": "Ein Kinderspielplatz mit Klettergerüst und Rutsche im Stadtpark von Sisak.",
                   "category": "family",
                   "coords": [
                         16.377563,
@@ -3677,7 +3677,7 @@ imageHint: "Sibenik St James Cathedral and waterfront",
             },
             {
                   "name": "Ciglarska graba",
-                  "text": "A Sisak-beli Ciglarska graba tó pihenésre csábít.",
+                  "text": "Egykori téglagyári tó, ma vizes élőhely Sisakban.",
                   "category": "natural",
                   "coords": [
                         16.382273,
@@ -3704,7 +3704,7 @@ imageHint: "Sibenik St James Cathedral and waterfront",
             },
             {
                   "name": "Dječje igralište",
-                  "text": "Egy szép játszótér Sisakban, ahol a gyerekek játszhatnak és kikapcsolódhatnak.",
+                  "text": "Gyerekjátszótér mászókával és csúszdával Sisak városi parkjában.",
                   "category": "family",
                   "coords": [
                         16.377563,
@@ -3805,7 +3805,7 @@ imageHint: "Sibenik St James Cathedral and waterfront",
             },
             {
                   "name": "Ciglarska graba",
-                  "text": "Lacul Ciglarska graba din Sisak invită la relaxare.",
+                  "text": "Un fost iaz de cărămidă, acum o zonă umedă în Sisak.",
                   "category": "natural",
                   "coords": [
                         16.382273,
@@ -3832,7 +3832,7 @@ imageHint: "Sibenik St James Cathedral and waterfront",
             },
             {
                   "name": "Dječje igralište",
-                  "text": "Un loc de joacă frumos în Sisak pentru joacă și relaxare.",
+                  "text": "Un loc de joacă pentru copii cu echipament de cățărare și tobogan în parcul orașului Sisak.",
                   "category": "family",
                   "coords": [
                         16.377563,
@@ -3933,7 +3933,7 @@ imageHint: "Sibenik St James Cathedral and waterfront",
             },
             {
                   "name": "Ciglarska graba",
-                  "text": "Ciglarska graba lake in Sisak invites you to relax.",
+                  "text": "A former brick clay pond, now a wetland in Sisak.",
                   "category": "natural",
                   "coords": [
                         16.382273,
@@ -3960,7 +3960,7 @@ imageHint: "Sibenik St James Cathedral and waterfront",
             },
             {
                   "name": "Dječje igralište",
-                  "text": "A nice playground in Sisak for playing and relaxing.",
+                  "text": "A children's playground with climbing frame and slide in Sisak city park.",
                   "category": "family",
                   "coords": [
                         16.377563,
@@ -6696,7 +6696,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "Sovinjak",
-                  "text": "Der Sovinjak-See in Pozega ist ein friedlicher Ort in der Natur.",
+                  "text": "Ein bewaldeter Hügel mit Aussicht auf die Stadt Požega.",
                   "category": "natural",
                   "coords": [
                         17.644268,
@@ -6752,7 +6752,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "Sovinjak",
-                  "text": "A Pozega-beli Sovinjak-tó békés hely a természetben.",
+                  "text": "Egy erdős domb, ahonnan kilátás nyílik Požega városára.",
                   "category": "natural",
                   "coords": [
                         17.644268,
@@ -6808,7 +6808,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "Sovinjak",
-                  "text": "Lacul Sovinjak din Požega este un loc liniștit în natură.",
+                  "text": "Un deal împădurit cu vedere spre orașul Požega.",
                   "category": "natural",
                   "coords": [
                         17.644268,
@@ -6864,7 +6864,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "Sovinjak",
-                  "text": "Sovinjak lake in Pozega is a peaceful place in nature.",
+                  "text": "A wooded hill with a view over the city of Požega.",
                   "category": "natural",
                   "coords": [
                         17.644268,
@@ -7644,7 +7644,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "4. ribnjak",
-                  "text": "Der 4. See in Virovitica bietet eine schöne Umgebung.",
+                  "text": "Der vierte Fischteich in einer Kette von Teichen bei Virovitica.",
                   "category": "natural",
                   "coords": [
                         17.32221,
@@ -7662,7 +7662,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "7. ribnjak",
-                  "text": "Der 7. See in Virovitica lädt zum Entspannen ein.",
+                  "text": "Der siebte Fischteich, bekannt für Karpfenzucht bei Virovitica.",
                   "category": "natural",
                   "coords": [
                         17.31043,
@@ -7745,7 +7745,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "4. ribnjak",
-                  "text": "A Virovitica-beli 4. tó szép környezetet kínál.",
+                  "text": "A negyedik halastó a Virovitica melletti tórendszerben.",
                   "category": "natural",
                   "coords": [
                         17.32221,
@@ -7763,7 +7763,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "7. ribnjak",
-                  "text": "A Virovitica-beli 7. tó pihenésre csábít.",
+                  "text": "A hetedik halastó, híres pontytenyészetéről Virovitica mellett.",
                   "category": "natural",
                   "coords": [
                         17.31043,
@@ -7846,7 +7846,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "4. ribnjak",
-                  "text": "Lacul nr. 4 din Virovitica oferă un cadru frumos.",
+                  "text": "Al patrulea iaz de pești dintr-un șir de iazuri lângă Virovitica.",
                   "category": "natural",
                   "coords": [
                         17.32221,
@@ -7864,7 +7864,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "7. ribnjak",
-                  "text": "Lacul nr. 7 din Virovitica invită la relaxare.",
+                  "text": "Al șaptelea iaz de pești, cunoscut pentru creșterea crapului lângă Virovitica.",
                   "category": "natural",
                   "coords": [
                         17.31043,
@@ -7947,7 +7947,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "4. ribnjak",
-                  "text": "The 4th lake in Virovitica offers a beautiful setting.",
+                  "text": "The fourth fish pond in a chain of ponds near Virovitica.",
                   "category": "natural",
                   "coords": [
                         17.32221,
@@ -7965,7 +7965,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "7. ribnjak",
-                  "text": "The 7th lake in Virovitica invites you to relax.",
+                  "text": "The seventh fish pond, known for carp breeding near Virovitica.",
                   "category": "natural",
                   "coords": [
                         17.31043,
@@ -11718,7 +11718,7 @@ imageHint: "Vinkovci central square and church",
       "de": [
             {
                   "name": "Bajeri",
-                  "text": "Die Bajeri-Seen in Ivanic Grad laden zum Verweilen ein.",
+                  "text": "Eine Gruppe von kleinen Teichen, die zum Angeln genutzt werden, in Ivanić Grad.",
                   "category": "natural",
                   "coords": [
                         16.398716,
@@ -11729,7 +11729,7 @@ imageHint: "Vinkovci central square and church",
       "hu": [
             {
                   "name": "Bajeri",
-                  "text": "Az Ivanic Grad-beli Bajeri-tavak pihenésre hívogatnak.",
+                  "text": "Kis tavak csoportja, amelyeket horgászatra használnak Ivanić Gradban.",
                   "category": "natural",
                   "coords": [
                         16.398716,
@@ -11740,7 +11740,7 @@ imageHint: "Vinkovci central square and church",
       "ro": [
             {
                   "name": "Bajeri",
-                  "text": "Lacurile Bajeri din Ivanic Grad invită la relaxare.",
+                  "text": "Un grup de iazuri mici folosite pentru pescuit în Ivanić Grad.",
                   "category": "natural",
                   "coords": [
                         16.398716,
@@ -11751,7 +11751,7 @@ imageHint: "Vinkovci central square and church",
       "en": [
             {
                   "name": "Bajeri",
-                  "text": "Bajeri lakes in Ivanic Grad invite you to relax.",
+                  "text": "A group of small ponds used for fishing in Ivanić Grad.",
                   "category": "natural",
                   "coords": [
                         16.398716,
@@ -12576,7 +12576,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "Bara - Mrtvača",
-                  "text": "Der Bara-Mrtvača-See in Valpovo ist ein schöner Ort zum Entspannen.",
+                  "text": "Ein Altarm der Drau, der ein geschütztes Feuchtgebiet bei Valpovo bildet.",
                   "category": "natural",
                   "coords": [
                         18.456349,
@@ -12623,7 +12623,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "Bara - Mrtvača",
-                  "text": "A Valpovo-beli Bara-Mrtvača-tó kellemes hely a kikapcsolódásra.",
+                  "text": "A Dráva egy holtága, amely védett vizes élőhelyet alkot Valpovo mellett.",
                   "category": "natural",
                   "coords": [
                         18.456349,
@@ -12670,7 +12670,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "Bara - Mrtvača",
-                  "text": "Lacul Bara-Mrtvača din Valpovo este un loc frumos pentru relaxare.",
+                  "text": "Un braț mort al râului Drava, care formează o zonă umedă protejată lângă Valpovo.",
                   "category": "natural",
                   "coords": [
                         18.456349,
@@ -12717,7 +12717,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "Bara - Mrtvača",
-                  "text": "Bara-Mrtvača lake in Valpovo is a beautiful place for relaxation.",
+                  "text": "An oxbow of the Drava River forming a protected wetland near Valpovo.",
                   "category": "natural",
                   "coords": [
                         18.456349,
@@ -16425,7 +16425,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "Barutana",
-                  "text": "Der Barutana-See in Ivanec lädt zum Entspannen ein.",
+                  "text": "Ein ehemaliges Pulvermagazin, heute ein Naturpark mit seltenen Orchideen bei Ivanec.",
                   "category": "natural",
                   "coords": [
                         16.107127,
@@ -16434,7 +16434,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "Jarki",
-                  "text": "Der Jarki-See in Ivanec bietet eine ruhige Umgebung.",
+                  "text": "Ein Netz von Bewässerungsgräben, das als Amphibienhabitat dient in Ivanec.",
                   "category": "natural",
                   "coords": [
                         16.133782,
@@ -16443,7 +16443,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "Pionirski bajer",
-                  "text": "Der Pionirski-bajer-See in Ivanec ist ein schönes Ziel für Spaziergänge.",
+                  "text": "Ein nach den Pionieren benannter Teich, der zum Baden einlädt, in Ivanec.",
                   "category": "natural",
                   "coords": [
                         16.105643,
@@ -16508,7 +16508,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "Barutana",
-                  "text": "Az Ivanec-beli Barutana-tó pihenésre csábít.",
+                  "text": "Egykori puskaporraktár, ma természeti park ritka orchideákkal Ivanechez.",
                   "category": "natural",
                   "coords": [
                         16.107127,
@@ -16517,7 +16517,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "Jarki",
-                  "text": "Az Ivanec-beli Jarki-tó csendes környezetet kínál.",
+                  "text": "Öntözőárkok hálózata, amely kétéltűek élőhelyéül szolgál Ivanechez.",
                   "category": "natural",
                   "coords": [
                         16.133782,
@@ -16526,7 +16526,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "Pionirski bajer",
-                  "text": "Az Ivanec-beli Pionirski-bajer-tó szép célpont sétákhoz.",
+                  "text": "Az úttörőkről elnevezett tó, amely fürdőzésre csábít Ivanechez.",
                   "category": "natural",
                   "coords": [
                         16.105643,
@@ -16591,7 +16591,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "Barutana",
-                  "text": "Lacul Barutana din Ivanec invită la relaxare.",
+                  "text": "Un fost depozit de pulbere, acum un parc natural cu orhidee rare lângă Ivanec.",
                   "category": "natural",
                   "coords": [
                         16.107127,
@@ -16600,7 +16600,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "Jarki",
-                  "text": "Lacul Jarki din Ivanec oferă un mediu liniștit.",
+                  "text": "O rețea de canale de irigație care servește ca habitat pentru amfibieni lângă Ivanec.",
                   "category": "natural",
                   "coords": [
                         16.133782,
@@ -16609,7 +16609,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "Pionirski bajer",
-                  "text": "Lacul Pionirski-bajer din Ivanec este o destinație frumoasă pentru plimbări.",
+                  "text": "Un iaz numit după pionieri, care invită la scăldat lângă Ivanec.",
                   "category": "natural",
                   "coords": [
                         16.105643,
@@ -16674,7 +16674,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "Barutana",
-                  "text": "Barutana lake in Ivanec invites you to relax.",
+                  "text": "A former gunpowder magazine, now a nature park with rare orchids near Ivanec.",
                   "category": "natural",
                   "coords": [
                         16.107127,
@@ -16683,7 +16683,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "Jarki",
-                  "text": "Jarki lake in Ivanec offers a quiet environment.",
+                  "text": "A network of irrigation ditches serving as amphibian habitat near Ivanec.",
                   "category": "natural",
                   "coords": [
                         16.133782,
@@ -16692,7 +16692,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "Pionirski bajer",
-                  "text": "Pionirski-bajer lake in Ivanec is a beautiful destination for walks.",
+                  "text": "A pond named after the pioneers, inviting swimming near Ivanec.",
                   "category": "natural",
                   "coords": [
                         16.105643,
@@ -17500,7 +17500,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "Dubrava-Stausee",
-                  "text": "Der Dubrava-See bei Ludbreg lädt zum Spazierengehen ein.",
+                  "text": "Ein See umgeben von Eichenwäldern bei Ludbreg, ideal zum Angeln und Wandern.",
                   "category": "natural",
                   "coords": [
                         16.652961,
@@ -17538,7 +17538,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "Dubravsko jezero",
-                  "text": "A Ludbreg melletti Dubrava-tó sétára csábít.",
+                  "text": "Tölgyesekkel körülvett tó Ludbreg mellett, ideális horgászathoz és túrázáshoz.",
                   "category": "natural",
                   "coords": [
                         16.652961,
@@ -17576,7 +17576,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "Dubravsko jezero",
-                  "text": "Lacul Dubrava de lângă Ludbreg invită la plimbări.",
+                  "text": "Un lac înconjurat de păduri de stejar lângă Ludbreg, ideal pentru pescuit și drumeții.",
                   "category": "natural",
                   "coords": [
                         16.652961,
@@ -17614,7 +17614,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "Lake Dubrava",
-                  "text": "Dubrava lake near Ludbreg invites you for a walk.",
+                  "text": "A lake surrounded by oak forests near Ludbreg, ideal for fishing and hiking.",
                   "category": "natural",
                   "coords": [
                         16.652961,
@@ -17702,7 +17702,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "Mačevo brdo",
-                  "text": "Ein Berggipfel in der Region, der für Wanderungen geeignet ist.",
+                  "text": "Ein bewaldeter Hügel an der istrischen Küste bei Pula mit Meerblick.",
                   "category": "natural",
                   "coords": [
                         17.871628,
@@ -17722,7 +17722,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "Mačevo brdo",
-                  "text": "Egy hegycsúcs a régióban, amely alkalmas túrázásra.",
+                  "text": "Egy erdős domb az isztriai tengerparton, Pula közelében, tengerre néző kilátással.",
                   "category": "natural",
                   "coords": [
                         17.871628,
@@ -17742,7 +17742,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "Mačevo brdo",
-                  "text": "Un vârf montan din regiune, potrivit pentru drumeții.",
+                  "text": "Un deal împădurit pe coasta istriană lângă Pula, cu vedere la mare.",
                   "category": "natural",
                   "coords": [
                         17.871628,
@@ -17762,7 +17762,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "Mačevo brdo",
-                  "text": "A mountain peak in the region suitable for hiking.",
+                  "text": "A wooded hill on the Istrian coast near Pula with sea views.",
                   "category": "natural",
                   "coords": [
                         17.871628,
@@ -17989,7 +17989,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "Dubrava-Stausee",
-                  "text": "Lake Dubrava ist ein See in Prelog, der eine angenehme natürliche Umgebung für Besucher bietet.",
+                  "text": "Der See Dubrava bei Prelog ist ein beliebtes Wassersportziel.",
                   "category": "natural",
                   "coords": [
                         16.652961,
@@ -18009,7 +18009,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "Dubravsko jezero",
-                  "text": "A Lake Dubrava egy tó Prelogban, amely kellemes természeti környezetet kínál a látogatóknak.",
+                  "text": "A Dubrava-tó Prelog mellett népszerű vízisport célpont.",
                   "category": "natural",
                   "coords": [
                         16.652961,
@@ -18029,7 +18029,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "Dubravsko jezero",
-                  "text": "Lake Dubrava este un lac în Prelog, oferind un cadru natural plăcut pentru vizitatori.",
+                  "text": "Lacul Dubrava lângă Prelog este o destinație populară pentru sporturi nautice.",
                   "category": "natural",
                   "coords": [
                         16.652961,
@@ -18049,7 +18049,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "Lake Dubrava",
-                  "text": "Lake Dubrava is a lake in Prelog, offering a pleasant natural setting for visitors.",
+                  "text": "Lake Dubrava near Prelog is a popular watersports destination.",
                   "category": "natural",
                   "coords": [
                         16.652961,
@@ -18108,7 +18108,7 @@ imageHint: "Vinkovci central square and church",
       "de": [
             {
                   "name": "Gradina Obrova",
-                  "text": "Eine archäologische Ausgrabungsstätte in Grubišno Polje.",
+                  "text": "Eine prähistorische Wallburg auf einem Hügel mit Blick auf das Tal bei Grubišno Polje.",
                   "category": "historical",
                   "coords": [
                         17.200375,
@@ -18126,7 +18126,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "Raspelo",
-                  "text": "Ein religiöses Kruzifix-Denkmal in Grubišno Polje.",
+                  "text": "Ein historisches Kruzifix an der Weggabelung bei Grubišno Polje.",
                   "category": "historical",
                   "coords": [
                         17.171799,
@@ -18155,7 +18155,7 @@ imageHint: "Vinkovci central square and church",
       "hu": [
             {
                   "name": "Gradina Obrova",
-                  "text": "Régészeti lelőhely Grubišno Polje területén.",
+                  "text": "Őskori földvár egy dombon, ahonnan kilátás nyílik a völgyre Grubišno Polje mellett.",
                   "category": "historical",
                   "coords": [
                         17.200375,
@@ -18173,7 +18173,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "Raspelo",
-                  "text": "Vallási feszület Grubišno Polje területén.",
+                  "text": "Történelmi feszület az út elágazásánál Grubišno Polje mellett.",
                   "category": "historical",
                   "coords": [
                         17.171799,
@@ -18202,7 +18202,7 @@ imageHint: "Vinkovci central square and church",
       "ro": [
             {
                   "name": "Gradina Obrova",
-                  "text": "Un sit arheologic situat în Grubišno Polje.",
+                  "text": "O fortificație preistorică pe un deal cu vedere spre vale lângă Grubišno Polje.",
                   "category": "historical",
                   "coords": [
                         17.200375,
@@ -18220,7 +18220,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "Raspelo",
-                  "text": "Un monument religios sub formă de crucifix în Grubišno Polje.",
+                  "text": "Un crucifix istoric la bifurcația drumului lângă Grubišno Polje.",
                   "category": "historical",
                   "coords": [
                         17.171799,
@@ -18249,7 +18249,7 @@ imageHint: "Vinkovci central square and church",
       "en": [
             {
                   "name": "Gradina Obrova",
-                  "text": "An archaeological site located in Grubišno Polje.",
+                  "text": "A prehistoric hillfort on a hill overlooking the valley near Grubišno Polje.",
                   "category": "historical",
                   "coords": [
                         17.200375,
@@ -18267,7 +18267,7 @@ imageHint: "Vinkovci central square and church",
             },
             {
                   "name": "Raspelo",
-                  "text": "A religious crucifix monument in Grubišno Polje.",
+                  "text": "A historical crucifix at the road junction near Grubišno Polje.",
                   "category": "historical",
                   "coords": [
                         17.171799,
@@ -18387,7 +18387,315 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-belisce-cities-v2", "sights": {"de": [{"name": "Dvorac Normann-Prandau", "text": "Ein historisches Schloss der Familie Normann-Prandau in der Region.", "category": "castle", "coords": [18.415419, 45.659138]}, {"name": "Amatersko kazalište Belišće", "text": "Ein lokales Amateurtheater in Belišće mit langer Tradition.", "category": "cultural", "coords": [18.404029, 45.681747]}, {"name": "Bistrinačka plaža", "text": "Direkt an der Drau in der Nähe von Belišće erstreckt sich dieser beliebte Flussstrand. Die natürliche Umgebung lockt sowohl Einheimische als auch Gäste zu erfrischenden Badegängen und gemütlichen Spaziergängen am Ufer. Besonders in den heißen Sommermonaten ist dies ein herrlicher Rückzugsort.", "category": "recreational", "coords": [18.413586, 45.698008]}, {"name": "Bazeni Belišće", "text": "Das Freibad in Belišće bietet Erholung und Schwimmbecken für Besucher jeden Alters.", "category": "recreational", "coords": [18.406115, 45.682555]}, {"name": "Muzej Belišće", "text": "Das Museum in Belišće präsentiert die lokale Geschichte und das industrielle Erbe der Region.", "category": "museum", "coords": [18.40862, 45.68759]}, {"name": "Bara - Mrtvača", "text": "Das Gewässer Bara - Mrtvača in Belisce ist ein ruhiger Rückzugsort für Naturliebhaber.", "category": "natural", "coords": [18.456349, 45.6727]}, {"name": "Gatska pumpa za vodu", "text": "Der kleine See Gatska pumpa za vodu in Belisce liegt eingebettet in eine erholsame Umgebung.", "category": "natural", "coords": [18.344873, 45.714215]}], "hu": [{"name": "Dvorac Normann-Prandau", "text": "A Normann-Prandau család történelmi kastélya a régióban.", "category": "castle", "coords": [18.415419, 45.659138]}, {"name": "Amatersko kazalište Belišće", "text": "Egy hosszú hagyományokkal rendelkező helyi amatőr színház Belišće városában.", "category": "cultural", "coords": [18.404029, 45.681747]}, {"name": "Bistrinačka plaža", "text": "A Dráva folyó mentén, Belišće közelében terül el ez a népszerű folyami strand. A természetes környezet frissítő fürdőzésre és kellemes parti sétákra csábítja a helyieket és az utazókat egyaránt. A forró nyári hónapokban különösen kellemes menedéket nyújt.", "category": "recreational", "coords": [18.413586, 45.698008]}, {"name": "Bazeni Belišće", "text": "A belišćei strandkomplexum szabadtéri medencékkel és kikapcsolódási lehetőséggel várja a látogatókat.", "category": "recreational", "coords": [18.406115, 45.682555]}, {"name": "Muzej Belišće", "text": "A belišćei múzeum a város helytörténetét és ipari örökségét mutatja be.", "category": "museum", "coords": [18.40862, 45.68759]}, {"name": "Bara - Mrtvača", "text": "A Belisce-ben található Bara - Mrtvača csendes menedék a természet szerelmeseinek.", "category": "natural", "coords": [18.456349, 45.6727]}, {"name": "Gatska pumpa za vodu", "text": "A Belisce-i Gatska pumpa za vodu kis tava pihentető környezetben fekszik.", "category": "natural", "coords": [18.344873, 45.714215]}], "ro": [{"name": "Dvorac Normann-Prandau", "text": "Un castel istoric al familiei Normann-Prandau din regiune.", "category": "castle", "coords": [18.415419, 45.659138]}, {"name": "Amatersko kazalište Belišće", "text": "Un teatru de amatori local din Belišće, cu o tradiție îndelungată.", "category": "cultural", "coords": [18.404029, 45.681747]}, {"name": "Bistrinačka plaža", "text": "Această plajă fluvială populară se întinde de-a lungul râului Drava, în apropiere de Belišće. Cadrul natural invită atât localnicii, cât și turiștii la o baie răcoritoare sau la o plimbare relaxantă pe mal. Este o evadare minunată mai ales în zilele fierbinți de vară.", "category": "recreational", "coords": [18.413586, 45.698008]}, {"name": "Bazeni Belišće", "text": "Complexul de piscine din Belišće oferă facilități de recreere și înot în aer liber.", "category": "recreational", "coords": [18.406115, 45.682555]}, {"name": "Muzej Belišće", "text": "Muzeul din Belišće prezintă istoria locală și patrimoniul industrial al regiunii.", "category": "museum", "coords": [18.40862, 45.68759]}, {"name": "Bara - Mrtvača", "text": "Bara - Mrtvača din Belisce este o retragere liniștită pentru iubitorii de natură.", "category": "natural", "coords": [18.456349, 45.6727]}, {"name": "Gatska pumpa za vodu", "text": "Micul lac Gatska pumpa za vodu din Belisce este situat într-un mediu relaxant.", "category": "natural", "coords": [18.344873, 45.714215]}], "en": [{"name": "Dvorac Normann-Prandau", "text": "A historic castle of the Normann-Prandau family located in the region.", "category": "castle", "coords": [18.415419, 45.659138]}, {"name": "Amatersko kazalište Belišće", "text": "A local amateur theatre in Belišće with a long tradition.", "category": "cultural", "coords": [18.404029, 45.681747]}, {"name": "Bistrinačka plaža", "text": "Situated along the Drava river near Belišće, this popular river beach offers a wonderful natural retreat. The scenic setting invites locals and travelers alike for refreshing swims and relaxing strolls along the banks. It is a fantastic spot to cool down during the hot summer months.", "category": "recreational", "coords": [18.413586, 45.698008]}, {"name": "Bazeni Belišće", "text": "The swimming pool complex in Belišće offers outdoor pools and recreation facilities for visitors.", "category": "recreational", "coords": [18.406115, 45.682555]}, {"name": "Muzej Belišće", "text": "The Belišće Museum showcases the local history and industrial heritage of the town.", "category": "museum", "coords": [18.40862, 45.68759]}, {"name": "Bara - Mrtvača", "text": "The Bara - Mrtvača in Belisce is a quiet retreat for nature lovers.", "category": "natural", "coords": [18.456349, 45.6727]}, {"name": "Gatska pumpa za vodu", "text": "The small lake Gatska pumpa za vodu in Belisce is nestled in a relaxing environment.", "category": "natural", "coords": [18.344873, 45.714215]}], "hr": [{"name": "Dvorac Normann-Prandau", "text": "Povijesni dvorac obitelji Normann-Prandau u regiji.", "category": "castle", "coords": [18.415419, 45.659138]}, {"name": "Amatersko kazalište Belišće", "text": "Lokalno amatersko kazalište u Belišću s dugom tradicijom.", "category": "cultural", "coords": [18.404029, 45.681747]}, {"name": "Bistrinačka plaža", "text": "Uz rijeku Dravu u blizini Belišća smjestila se ova popularna riječna plaža. Prirodno okruženje privlači mještane i putnike na osvježavajuće kupanje i opuštajuće šetnje obalom. Tijekom vrućih ljetnih mjeseci ovo je prekrasno mjesto za bijeg u prirodu.", "category": "recreational", "coords": [18.413586, 45.698008]}, {"name": "Bazeni Belišće", "text": "Bazenski kompleks u Belišću nudi otvorene bazene i rekreacijske sadržaje za posjetitelje.", "category": "recreational", "coords": [18.406115, 45.682555]}, {"name": "Muzej Belišće", "text": "Muzej Belišće prikazuje lokalnu povijest i industrijsku baštinu grada.", "category": "museum", "coords": [18.40862, 45.68759]}]},
+    id: "croatia-belisce-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dvorac Normann-Prandau",
+                  "text": "Ein Barockschloss in Valpovo, Kroatien, erbaut von der Familie Normann-Prandau.",
+                  "category": "castle",
+                  "coords": [
+                        18.415419,
+                        45.659138
+                  ]
+            },
+            {
+                  "name": "Amatersko kazalište Belišće",
+                  "text": "Ein lokales Amateurtheater in Belišće mit langer Tradition.",
+                  "category": "cultural",
+                  "coords": [
+                        18.404029,
+                        45.681747
+                  ]
+            },
+            {
+                  "name": "Bistrinačka plaža",
+                  "text": "Direkt an der Drau in der Nähe von Belišće erstreckt sich dieser beliebte Flussstrand. Die natürliche Umgebung lockt sowohl Einheimische als auch Gäste zu erfrischenden Badegängen und gemütlichen Spaziergängen am Ufer. Besonders in den heißen Sommermonaten ist dies ein herrlicher Rückzugsort.",
+                  "category": "recreational",
+                  "coords": [
+                        18.413586,
+                        45.698008
+                  ]
+            },
+            {
+                  "name": "Bazeni Belišće",
+                  "text": "Das Freibad in Belišće bietet Erholung und Schwimmbecken für Besucher jeden Alters.",
+                  "category": "recreational",
+                  "coords": [
+                        18.406115,
+                        45.682555
+                  ]
+            },
+            {
+                  "name": "Muzej Belišće",
+                  "text": "Das Museum in Belišće präsentiert die lokale Geschichte und das industrielle Erbe der Region.",
+                  "category": "museum",
+                  "coords": [
+                        18.40862,
+                        45.68759
+                  ]
+            },
+            {
+                  "name": "Bara - Mrtvača",
+                  "text": "Ein Altarm der Drau nahe Belišće, wichtig für Wasservögel.",
+                  "category": "natural",
+                  "coords": [
+                        18.456349,
+                        45.6727
+                  ]
+            },
+            {
+                  "name": "Gatska pumpa za vodu",
+                  "text": "Der kleine See Gatska pumpa za vodu in Belisce liegt eingebettet in eine erholsame Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        18.344873,
+                        45.714215
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dvorac Normann-Prandau",
+                  "text": "Barokk kastély Valpovóban, Horvátországban, a Normann-Prandau család építtette.",
+                  "category": "castle",
+                  "coords": [
+                        18.415419,
+                        45.659138
+                  ]
+            },
+            {
+                  "name": "Amatersko kazalište Belišće",
+                  "text": "Egy hosszú hagyományokkal rendelkező helyi amatőr színház Belišće városában.",
+                  "category": "cultural",
+                  "coords": [
+                        18.404029,
+                        45.681747
+                  ]
+            },
+            {
+                  "name": "Bistrinačka plaža",
+                  "text": "A Dráva folyó mentén, Belišće közelében terül el ez a népszerű folyami strand. A természetes környezet frissítő fürdőzésre és kellemes parti sétákra csábítja a helyieket és az utazókat egyaránt. A forró nyári hónapokban különösen kellemes menedéket nyújt.",
+                  "category": "recreational",
+                  "coords": [
+                        18.413586,
+                        45.698008
+                  ]
+            },
+            {
+                  "name": "Bazeni Belišće",
+                  "text": "A belišćei strandkomplexum szabadtéri medencékkel és kikapcsolódási lehetőséggel várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        18.406115,
+                        45.682555
+                  ]
+            },
+            {
+                  "name": "Muzej Belišće",
+                  "text": "A belišćei múzeum a város helytörténetét és ipari örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.40862,
+                        45.68759
+                  ]
+            },
+            {
+                  "name": "Bara - Mrtvača",
+                  "text": "A Dráva egy holtága Belišće közelében, fontos vízimadarak számára.",
+                  "category": "natural",
+                  "coords": [
+                        18.456349,
+                        45.6727
+                  ]
+            },
+            {
+                  "name": "Gatska pumpa za vodu",
+                  "text": "A Belisce-i Gatska pumpa za vodu kis tava pihentető környezetben fekszik.",
+                  "category": "natural",
+                  "coords": [
+                        18.344873,
+                        45.714215
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dvorac Normann-Prandau",
+                  "text": "Un castel baroc în Valpovo, Croația, construit de familia Normann-Prandau.",
+                  "category": "castle",
+                  "coords": [
+                        18.415419,
+                        45.659138
+                  ]
+            },
+            {
+                  "name": "Amatersko kazalište Belišće",
+                  "text": "Un teatru de amatori local din Belišće, cu o tradiție îndelungată.",
+                  "category": "cultural",
+                  "coords": [
+                        18.404029,
+                        45.681747
+                  ]
+            },
+            {
+                  "name": "Bistrinačka plaža",
+                  "text": "Această plajă fluvială populară se întinde de-a lungul râului Drava, în apropiere de Belišće. Cadrul natural invită atât localnicii, cât și turiștii la o baie răcoritoare sau la o plimbare relaxantă pe mal. Este o evadare minunată mai ales în zilele fierbinți de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        18.413586,
+                        45.698008
+                  ]
+            },
+            {
+                  "name": "Bazeni Belišće",
+                  "text": "Complexul de piscine din Belišće oferă facilități de recreere și înot în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        18.406115,
+                        45.682555
+                  ]
+            },
+            {
+                  "name": "Muzej Belišće",
+                  "text": "Muzeul din Belišće prezintă istoria locală și patrimoniul industrial al regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        18.40862,
+                        45.68759
+                  ]
+            },
+            {
+                  "name": "Bara - Mrtvača",
+                  "text": "Un braț mort al râului Drava lângă Belišće, important pentru păsările de apă.",
+                  "category": "natural",
+                  "coords": [
+                        18.456349,
+                        45.6727
+                  ]
+            },
+            {
+                  "name": "Gatska pumpa za vodu",
+                  "text": "Micul lac Gatska pumpa za vodu din Belisce este situat într-un mediu relaxant.",
+                  "category": "natural",
+                  "coords": [
+                        18.344873,
+                        45.714215
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dvorac Normann-Prandau",
+                  "text": "A Baroque castle in Valpovo, Croatia, built by the Normann-Prandau family.",
+                  "category": "castle",
+                  "coords": [
+                        18.415419,
+                        45.659138
+                  ]
+            },
+            {
+                  "name": "Amatersko kazalište Belišće",
+                  "text": "A local amateur theatre in Belišće with a long tradition.",
+                  "category": "cultural",
+                  "coords": [
+                        18.404029,
+                        45.681747
+                  ]
+            },
+            {
+                  "name": "Bistrinačka plaža",
+                  "text": "Situated along the Drava river near Belišće, this popular river beach offers a wonderful natural retreat. The scenic setting invites locals and travelers alike for refreshing swims and relaxing strolls along the banks. It is a fantastic spot to cool down during the hot summer months.",
+                  "category": "recreational",
+                  "coords": [
+                        18.413586,
+                        45.698008
+                  ]
+            },
+            {
+                  "name": "Bazeni Belišće",
+                  "text": "The swimming pool complex in Belišće offers outdoor pools and recreation facilities for visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        18.406115,
+                        45.682555
+                  ]
+            },
+            {
+                  "name": "Muzej Belišće",
+                  "text": "The Belišće Museum showcases the local history and industrial heritage of the town.",
+                  "category": "museum",
+                  "coords": [
+                        18.40862,
+                        45.68759
+                  ]
+            },
+            {
+                  "name": "Bara - Mrtvača",
+                  "text": "An oxbow of the Drava near Belišće, important for waterbirds.",
+                  "category": "natural",
+                  "coords": [
+                        18.456349,
+                        45.6727
+                  ]
+            },
+            {
+                  "name": "Gatska pumpa za vodu",
+                  "text": "The small lake Gatska pumpa za vodu in Belisce is nestled in a relaxing environment.",
+                  "category": "natural",
+                  "coords": [
+                        18.344873,
+                        45.714215
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Dvorac Normann-Prandau",
+                  "text": "Povijesni dvorac obitelji Normann-Prandau u regiji.",
+                  "category": "castle",
+                  "coords": [
+                        18.415419,
+                        45.659138
+                  ]
+            },
+            {
+                  "name": "Amatersko kazalište Belišće",
+                  "text": "Lokalno amatersko kazalište u Belišću s dugom tradicijom.",
+                  "category": "cultural",
+                  "coords": [
+                        18.404029,
+                        45.681747
+                  ]
+            },
+            {
+                  "name": "Bistrinačka plaža",
+                  "text": "Uz rijeku Dravu u blizini Belišća smjestila se ova popularna riječna plaža. Prirodno okruženje privlači mještane i putnike na osvježavajuće kupanje i opuštajuće šetnje obalom. Tijekom vrućih ljetnih mjeseci ovo je prekrasno mjesto za bijeg u prirodu.",
+                  "category": "recreational",
+                  "coords": [
+                        18.413586,
+                        45.698008
+                  ]
+            },
+            {
+                  "name": "Bazeni Belišće",
+                  "text": "Bazenski kompleks u Belišću nudi otvorene bazene i rekreacijske sadržaje za posjetitelje.",
+                  "category": "recreational",
+                  "coords": [
+                        18.406115,
+                        45.682555
+                  ]
+            },
+            {
+                  "name": "Muzej Belišće",
+                  "text": "Muzej Belišće prikazuje lokalnu povijest i industrijsku baštinu grada.",
+                  "category": "museum",
+                  "coords": [
+                        18.40862,
+                        45.68759
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Belišće", hu: "Belistye", ro: "Belišće", en: "Belišće"},
@@ -18836,7 +19144,351 @@ imageHint: "Vinkovci central square and church",
     image: "/poi-images/croatia-vis-cities-v2.webp",
   },
   {
-    id: "croatia-supetar-cities-v2", "sights": {"de": [{"name": "Plaža Vela Luka", "text": "Auf der malerischen Insel Brač bietet dieser gut besuchte Kieselstrand in Supetar ideale Bedingungen für Familien. Das sanft abfallende Ufer lädt zum ausgiebigen Schwimmen und gemeinsamen Sonnenbaden ein. Frühaufsteher sichern sich hier die besten Plätze in der Hauptsaison.", "category": "recreational", "coords": [16.538077, 43.383503]}, {"name": "Muzej uljarstva", "text": "Ein Museum in Supetar, das der traditionellen Olivenölproduktion auf der Insel Brač gewidmet ist.", "category": "museum", "coords": [16.522385, 43.384769]}, {"name": "Plaža Mutnik", "text": "Umgeben von duftenden Pinienbäumen präsentiert sich dieser ruhigere Kieselstrand in der Nähe von Supetar als friedliche Oase. Wer dem Trubel entfliehen möchte, findet hier eine wunderbare Kulisse für ungestörtes Schwimmen und Entspannen. Ein Besuch am späten Nachmittag unterstreicht die idyllische Stimmung.", "category": "recreational", "coords": [16.529731, 43.383975]}, {"name": "Banj", "text": "Ein bekannter Stadtstrand in Supetar mit flachem Wasser und vielfältigen Freizeitmöglichkeiten.", "category": "recreational", "coords": [16.54704, 43.386654]}, {"name": "Acapulco", "text": "Ein moderner Kieselstrand in Supetar, der für seine lebhafte Atmosphäre bekannt ist.", "category": "recreational", "coords": [16.556994, 43.385917]}, {"name": "Dunaj", "text": "Der Dunaj-See in Supetar ist ein schöner Ort zum Entspannen.", "category": "natural", "coords": [16.586963, 43.321785]}, {"name": "Prihode", "text": "Der Prihode-See in Supetar lädt zur Naturbeobachtung ein.", "category": "natural", "coords": [16.517398, 43.364344]}, {"name": "Cura", "text": "Der Cura-See in Supetar bietet eine friedliche Atmosphäre.", "category": "natural", "coords": [16.581075, 43.325688]}], "hu": [{"name": "Plaža Vela Luka", "text": "A festői Brač szigetén, Supetarban található ez a kedvelt kavicsos strand, amely ideális feltételeket kínál a családok számára. A part menti vizek kiválóan alkalmasak úszásra és közös napozásra. A nyári csúcsszezonban érdemes korán érkezni a legjobb helyekért.", "category": "recreational", "coords": [16.538077, 43.383503]}, {"name": "Muzej uljarstva", "text": "Supetari múzeum, amely a Brac-szigeti hagyományos olívaolaj-termelést mutatja be.", "category": "museum", "coords": [16.522385, 43.384769]}, {"name": "Plaža Mutnik", "text": "Az illatos fenyőfákkal körülvett, Supetar közelében fekvő csendesebb kavicsos strand igazi békés oázis. Aki szeretne elmenekülni a nyüzsgés elől, itt zavartalanul úszhat és pihenhet a természet lágy ölén. Egy késő délutáni látogatás még inkább kiemeli a hely idilli hangulatát.", "category": "recreational", "coords": [16.529731, 43.383975]}, {"name": "Banj", "text": "Ismert városi strand Supetarban, sekély vízzel és számos szabadidős lehetőséggel.", "category": "recreational", "coords": [16.54704, 43.386654]}, {"name": "Acapulco", "text": "Modern kavicsos strand Supetarban, amely élénk hangulatáról ismert.", "category": "recreational", "coords": [16.556994, 43.385917]}, {"name": "Dunaj", "text": "A Supetar-beli Dunaj-tó kellemes hely a kikapcsolódásra.", "category": "natural", "coords": [16.586963, 43.321785]}, {"name": "Prihode", "text": "A Supetar-beli Prihode-tó természetmegfigyelésre csábít.", "category": "natural", "coords": [16.517398, 43.364344]}, {"name": "Cura", "text": "A Supetar-beli Cura-tó békés légkört kínál.", "category": "natural", "coords": [16.581075, 43.325688]}], "ro": [{"name": "Plaža Vela Luka", "text": "Pe insula pitorească Brač, această plajă cu pietriș din Supetar oferă condiții ideale pentru familii. Atmosfera primitoare este perfectă pentru înot și băi de soare relaxante la malul mării. Pentru a ocupa un loc bun în plin sezon, se recomandă să sosiți devreme.", "category": "recreational", "coords": [16.538077, 43.383503]}, {"name": "Muzej uljarstva", "text": "Un muzeu din Supetar dedicat producției tradiționale de ulei de măsline de pe insula Brač.", "category": "museum", "coords": [16.522385, 43.384769]}, {"name": "Plaža Mutnik", "text": "Înconjurată de pini parfumați, această plajă liniștită cu pietriș de lângă Supetar este o adevărată oază de pace. Cei care doresc să scape de agitație vor găsi aici cadrul perfect pentru o baie netulburată și relaxare. O vizită după-amiaza târziu accentuează atmosfera idilică a locului.", "category": "recreational", "coords": [16.529731, 43.383975]}, {"name": "Banj", "text": "O plajă urbană cunoscută din Supetar, cu apă puțin adâncă și diverse facilități de recreere.", "category": "recreational", "coords": [16.54704, 43.386654]}, {"name": "Acapulco", "text": "O plajă modernă cu prundiş în Supetar, cunoscută pentru atmosfera sa plină de viață.", "category": "recreational", "coords": [16.556994, 43.385917]}, {"name": "Dunaj", "text": "Lacul Dunaj din Supetar este un loc frumos pentru relaxare.", "category": "natural", "coords": [16.586963, 43.321785]}, {"name": "Prihode", "text": "Lacul Prihode din Supetar invită la observarea naturii.", "category": "natural", "coords": [16.517398, 43.364344]}, {"name": "Cura", "text": "Lacul Cura din Supetar oferă o atmosferă liniștită.", "category": "natural", "coords": [16.581075, 43.325688]}], "en": [{"name": "Plaža Vela Luka", "text": "Located in Supetar on the island of Brač, this popular pebble beach provides an ideal setting for families. The inviting shoreline is perfect for extensive swimming and relaxing sunbathing sessions. Arriving early during the peak season ensures a prime spot by the water.", "category": "recreational", "coords": [16.538077, 43.383503]}, {"name": "Muzej uljarstva", "text": "A museum in Supetar dedicated to the traditional olive oil production of Brač island.", "category": "museum", "coords": [16.522385, 43.384769]}, {"name": "Plaža Mutnik", "text": "Encircled by fragrant pine trees, this quieter pebble beach near Supetar serves as a peaceful coastal oasis. Those looking to escape the crowds will find a wonderful setting for undisturbed swimming and relaxation. A late afternoon visit beautifully highlights the idyllic atmosphere.", "category": "recreational", "coords": [16.529731, 43.383975]}, {"name": "Banj", "text": "A well-known town beach in Supetar with shallow water and various recreational facilities.", "category": "recreational", "coords": [16.54704, 43.386654]}, {"name": "Acapulco", "text": "A modern pebble beach in Supetar known for its lively atmosphere.", "category": "recreational", "coords": [16.556994, 43.385917]}, {"name": "Dunaj", "text": "Dunaj lake in Supetar is a beautiful place for relaxation.", "category": "natural", "coords": [16.586963, 43.321785]}, {"name": "Prihode", "text": "Prihode lake in Supetar invites you to observe nature.", "category": "natural", "coords": [16.517398, 43.364344]}, {"name": "Cura", "text": "Cura lake in Supetar offers a peaceful atmosphere.", "category": "natural", "coords": [16.581075, 43.325688]}], "hr": [{"name": "Plaža Vela Luka", "text": "Smještena u Supetru na otoku Braču, ova popularna šljunčana plaža idealna je za obitelji s djecom. Ugodan obalni pojas savršen je za plivanje i zajedničko sunčanje. Za najbolje mjesto tijekom glavne ljetne sezone preporučuje se raniji dolazak.", "category": "recreational", "coords": [16.538077, 43.383503]}, {"name": "Muzej uljarstva", "text": "Muzej u Supetru posvećen tradicijskoj proizvodnji maslinovog ulja na otoku Braču.", "category": "museum", "coords": [16.522385, 43.384769]}, {"name": "Plaža Mutnik", "text": "Okružena mirisnim borovima, ova mirnija šljunčana plaža u blizini Supetra nudi pravu obalnu oazu mira. Oni koji žele pobjeći od gužve ovdje će pronaći prekrasno okruženje za nesmetano plivanje i opuštanje. Posjet u kasnim poslijepodnevnim satima dodatno naglašava idiličnu atmosferu.", "category": "recreational", "coords": [16.529731, 43.383975]}, {"name": "Banj", "text": "Poznata gradska plaža u Supetru s plitkim morem i raznim sadržajima za posjetitelje.", "category": "recreational", "coords": [16.54704, 43.386654]}, {"name": "Acapulco", "text": "Moderna šljunčana plaža u Supetru poznata po svojoj živahnoj atmosferi.", "category": "recreational", "coords": [16.556994, 43.385917]}]},
+    id: "croatia-supetar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plaža Vela Luka",
+                  "text": "Auf der malerischen Insel Brač bietet dieser gut besuchte Kieselstrand in Supetar ideale Bedingungen für Familien. Das sanft abfallende Ufer lädt zum ausgiebigen Schwimmen und gemeinsamen Sonnenbaden ein. Frühaufsteher sichern sich hier die besten Plätze in der Hauptsaison.",
+                  "category": "recreational",
+                  "coords": [
+                        16.538077,
+                        43.383503
+                  ]
+            },
+            {
+                  "name": "Muzej uljarstva",
+                  "text": "Ein Museum in Supetar, das der traditionellen Olivenölproduktion auf der Insel Brač gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        16.522385,
+                        43.384769
+                  ]
+            },
+            {
+                  "name": "Plaža Mutnik",
+                  "text": "Umgeben von duftenden Pinienbäumen präsentiert sich dieser ruhigere Kieselstrand in der Nähe von Supetar als friedliche Oase. Wer dem Trubel entfliehen möchte, findet hier eine wunderbare Kulisse für ungestörtes Schwimmen und Entspannen. Ein Besuch am späten Nachmittag unterstreicht die idyllische Stimmung.",
+                  "category": "recreational",
+                  "coords": [
+                        16.529731,
+                        43.383975
+                  ]
+            },
+            {
+                  "name": "Banj",
+                  "text": "Ein bekannter Stadtstrand in Supetar mit flachem Wasser und vielfältigen Freizeitmöglichkeiten.",
+                  "category": "recreational",
+                  "coords": [
+                        16.54704,
+                        43.386654
+                  ]
+            },
+            {
+                  "name": "Acapulco",
+                  "text": "Ein moderner Kieselstrand in Supetar, der für seine lebhafte Atmosphäre bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        16.556994,
+                        43.385917
+                  ]
+            },
+            {
+                  "name": "Dunaj",
+                  "text": "Eine kleine Bucht mit Kieselstrand auf der Insel Brač bei Supetar.",
+                  "category": "natural",
+                  "coords": [
+                        16.586963,
+                        43.321785
+                  ]
+            },
+            {
+                  "name": "Prihode",
+                  "text": "Ein felsiges Kap mit phänomenalen Sonnenuntergängen bei Supetar.",
+                  "category": "natural",
+                  "coords": [
+                        16.517398,
+                        43.364344
+                  ]
+            },
+            {
+                  "name": "Cura",
+                  "text": "Ein einsamer Sandstrand, nur zu Fuß erreichbar, bei Supetar.",
+                  "category": "natural",
+                  "coords": [
+                        16.581075,
+                        43.325688
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaža Vela Luka",
+                  "text": "A festői Brač szigetén, Supetarban található ez a kedvelt kavicsos strand, amely ideális feltételeket kínál a családok számára. A part menti vizek kiválóan alkalmasak úszásra és közös napozásra. A nyári csúcsszezonban érdemes korán érkezni a legjobb helyekért.",
+                  "category": "recreational",
+                  "coords": [
+                        16.538077,
+                        43.383503
+                  ]
+            },
+            {
+                  "name": "Muzej uljarstva",
+                  "text": "Supetari múzeum, amely a Brac-szigeti hagyományos olívaolaj-termelést mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.522385,
+                        43.384769
+                  ]
+            },
+            {
+                  "name": "Plaža Mutnik",
+                  "text": "Az illatos fenyőfákkal körülvett, Supetar közelében fekvő csendesebb kavicsos strand igazi békés oázis. Aki szeretne elmenekülni a nyüzsgés elől, itt zavartalanul úszhat és pihenhet a természet lágy ölén. Egy késő délutáni látogatás még inkább kiemeli a hely idilli hangulatát.",
+                  "category": "recreational",
+                  "coords": [
+                        16.529731,
+                        43.383975
+                  ]
+            },
+            {
+                  "name": "Banj",
+                  "text": "Ismert városi strand Supetarban, sekély vízzel és számos szabadidős lehetőséggel.",
+                  "category": "recreational",
+                  "coords": [
+                        16.54704,
+                        43.386654
+                  ]
+            },
+            {
+                  "name": "Acapulco",
+                  "text": "Modern kavicsos strand Supetarban, amely élénk hangulatáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        16.556994,
+                        43.385917
+                  ]
+            },
+            {
+                  "name": "Dunaj",
+                  "text": "Egy kis öböl kavicsos stranddal Brač szigetén, Supetar közelében.",
+                  "category": "natural",
+                  "coords": [
+                        16.586963,
+                        43.321785
+                  ]
+            },
+            {
+                  "name": "Prihode",
+                  "text": "Egy sziklás fok lenyűgöző naplementékkel Supetar közelében.",
+                  "category": "natural",
+                  "coords": [
+                        16.517398,
+                        43.364344
+                  ]
+            },
+            {
+                  "name": "Cura",
+                  "text": "Egy félreeső homokos strand, csak gyalog megközelíthető, Supetar közelében.",
+                  "category": "natural",
+                  "coords": [
+                        16.581075,
+                        43.325688
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaža Vela Luka",
+                  "text": "Pe insula pitorească Brač, această plajă cu pietriș din Supetar oferă condiții ideale pentru familii. Atmosfera primitoare este perfectă pentru înot și băi de soare relaxante la malul mării. Pentru a ocupa un loc bun în plin sezon, se recomandă să sosiți devreme.",
+                  "category": "recreational",
+                  "coords": [
+                        16.538077,
+                        43.383503
+                  ]
+            },
+            {
+                  "name": "Muzej uljarstva",
+                  "text": "Un muzeu din Supetar dedicat producției tradiționale de ulei de măsline de pe insula Brač.",
+                  "category": "museum",
+                  "coords": [
+                        16.522385,
+                        43.384769
+                  ]
+            },
+            {
+                  "name": "Plaža Mutnik",
+                  "text": "Înconjurată de pini parfumați, această plajă liniștită cu pietriș de lângă Supetar este o adevărată oază de pace. Cei care doresc să scape de agitație vor găsi aici cadrul perfect pentru o baie netulburată și relaxare. O vizită după-amiaza târziu accentuează atmosfera idilică a locului.",
+                  "category": "recreational",
+                  "coords": [
+                        16.529731,
+                        43.383975
+                  ]
+            },
+            {
+                  "name": "Banj",
+                  "text": "O plajă urbană cunoscută din Supetar, cu apă puțin adâncă și diverse facilități de recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        16.54704,
+                        43.386654
+                  ]
+            },
+            {
+                  "name": "Acapulco",
+                  "text": "O plajă modernă cu prundiş în Supetar, cunoscută pentru atmosfera sa plină de viață.",
+                  "category": "recreational",
+                  "coords": [
+                        16.556994,
+                        43.385917
+                  ]
+            },
+            {
+                  "name": "Dunaj",
+                  "text": "Un golf mic cu plajă de pietriș pe insula Brač, lângă Supetar.",
+                  "category": "natural",
+                  "coords": [
+                        16.586963,
+                        43.321785
+                  ]
+            },
+            {
+                  "name": "Prihode",
+                  "text": "Un cap stâncos cu apusuri spectaculoase lângă Supetar.",
+                  "category": "natural",
+                  "coords": [
+                        16.517398,
+                        43.364344
+                  ]
+            },
+            {
+                  "name": "Cura",
+                  "text": "O plajă izolată cu nisip, accesibilă doar pe jos, lângă Supetar.",
+                  "category": "natural",
+                  "coords": [
+                        16.581075,
+                        43.325688
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaža Vela Luka",
+                  "text": "Located in Supetar on the island of Brač, this popular pebble beach provides an ideal setting for families. The inviting shoreline is perfect for extensive swimming and relaxing sunbathing sessions. Arriving early during the peak season ensures a prime spot by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        16.538077,
+                        43.383503
+                  ]
+            },
+            {
+                  "name": "Muzej uljarstva",
+                  "text": "A museum in Supetar dedicated to the traditional olive oil production of Brač island.",
+                  "category": "museum",
+                  "coords": [
+                        16.522385,
+                        43.384769
+                  ]
+            },
+            {
+                  "name": "Plaža Mutnik",
+                  "text": "Encircled by fragrant pine trees, this quieter pebble beach near Supetar serves as a peaceful coastal oasis. Those looking to escape the crowds will find a wonderful setting for undisturbed swimming and relaxation. A late afternoon visit beautifully highlights the idyllic atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        16.529731,
+                        43.383975
+                  ]
+            },
+            {
+                  "name": "Banj",
+                  "text": "A well-known town beach in Supetar with shallow water and various recreational facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        16.54704,
+                        43.386654
+                  ]
+            },
+            {
+                  "name": "Acapulco",
+                  "text": "A modern pebble beach in Supetar known for its lively atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        16.556994,
+                        43.385917
+                  ]
+            },
+            {
+                  "name": "Dunaj",
+                  "text": "A small cove with a pebble beach on the island of Brač near Supetar.",
+                  "category": "natural",
+                  "coords": [
+                        16.586963,
+                        43.321785
+                  ]
+            },
+            {
+                  "name": "Prihode",
+                  "text": "A rocky cape with phenomenal sunsets near Supetar.",
+                  "category": "natural",
+                  "coords": [
+                        16.517398,
+                        43.364344
+                  ]
+            },
+            {
+                  "name": "Cura",
+                  "text": "A secluded sandy beach accessible only on foot near Supetar.",
+                  "category": "natural",
+                  "coords": [
+                        16.581075,
+                        43.325688
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Plaža Vela Luka",
+                  "text": "Smještena u Supetru na otoku Braču, ova popularna šljunčana plaža idealna je za obitelji s djecom. Ugodan obalni pojas savršen je za plivanje i zajedničko sunčanje. Za najbolje mjesto tijekom glavne ljetne sezone preporučuje se raniji dolazak.",
+                  "category": "recreational",
+                  "coords": [
+                        16.538077,
+                        43.383503
+                  ]
+            },
+            {
+                  "name": "Muzej uljarstva",
+                  "text": "Muzej u Supetru posvećen tradicijskoj proizvodnji maslinovog ulja na otoku Braču.",
+                  "category": "museum",
+                  "coords": [
+                        16.522385,
+                        43.384769
+                  ]
+            },
+            {
+                  "name": "Plaža Mutnik",
+                  "text": "Okružena mirisnim borovima, ova mirnija šljunčana plaža u blizini Supetra nudi pravu obalnu oazu mira. Oni koji žele pobjeći od gužve ovdje će pronaći prekrasno okruženje za nesmetano plivanje i opuštanje. Posjet u kasnim poslijepodnevnim satima dodatno naglašava idiličnu atmosferu.",
+                  "category": "recreational",
+                  "coords": [
+                        16.529731,
+                        43.383975
+                  ]
+            },
+            {
+                  "name": "Banj",
+                  "text": "Poznata gradska plaža u Supetru s plitkim morem i raznim sadržajima za posjetitelje.",
+                  "category": "recreational",
+                  "coords": [
+                        16.54704,
+                        43.386654
+                  ]
+            },
+            {
+                  "name": "Acapulco",
+                  "text": "Moderna šljunčana plaža u Supetru poznata po svojoj živahnoj atmosferi.",
+                  "category": "recreational",
+                  "coords": [
+                        16.556994,
+                        43.385917
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "HR",
     name: { de: "Supetar", hu: "Supetar", ro: "Supetar", en: "Supetar" },
@@ -19265,7 +19917,378 @@ imageHint: "Vinkovci central square and church",
     image: "/poi-images/croatia-delnice-cities-v2.webp",
   },
   {
-    id: "croatia-pag-cities-v2", "sights": {"de": [{"name": "Salz - Ausstellung", "text": "Ein interessantes Museum in Pag, das die Geschichte der traditionellen Salzgewinnung der Insel dokumentiert.", "category": "museum", "coords": [15.052267, 44.442709]}, {"name": "Tri glave", "text": "Ein Strandabschnitt namens Tri glave an der Küste von Pag.", "category": "recreational", "coords": [15.038965, 44.447354]}, {"name": "Janjeće vode", "text": "Der Strand Janjeće vode befindet sich in der Nähe von Pag.", "category": "recreational", "coords": [15.029046, 44.457999]}, {"name": "Gradska plaža", "text": "Als Hauptstrand von Pag zieht die auch als Prosika bekannte Küstenlinie zahlreiche Besucher an. Das lebhafte Ambiente eignet sich hervorragend für vergnügliche Badetage und entspannte Stunden unter der Sonne. Ein Spaziergang entlang des Wassers rundet das sommerliche Erlebnis perfekt ab.", "category": "recreational", "coords": [15.048116, 44.441758]}, {"name": "Mađarica", "text": "Ein kleiner Strandabschnitt namens Mađarica auf der Insel Pag.", "category": "recreational", "coords": [15.043852, 44.442213]}, {"name": "Izložba paške čipke", "text": "Die Ausstellung zeigt die berühmte Pager Spitze, ein UNESCO-Weltkulturerbe.", "category": "museum", "coords": [15.054551, 44.443583]}, {"name": "Sveti Jure", "text": "Das Gebäude Sveti Jure befindet sich im historischen Zentrum von Pag.", "category": "landmark", "coords": [15.06162, 44.456273]}, {"name": "Osmatračnica", "text": "Ein Aussichtspunkt in Pag, der früher als Osmatračnica diente.", "category": "landmark", "coords": [15.063215, 44.463768]}], "hu": [{"name": "Permanent exhibition of Salt", "text": "Érdekes múzeum Pag városában, amely a sziget hagyományos sólepárlásának történetét mutatja be.", "category": "museum", "coords": [15.052267, 44.442709]}, {"name": "Tri glave", "text": "A Tri glave egy tengerparti szakasz Pag szigetén.", "category": "recreational", "coords": [15.038965, 44.447354]}, {"name": "Janjeće vode", "text": "A Janjeće vode egy kavicsos strand Pag városának közelében.", "category": "recreational", "coords": [15.029046, 44.457999]}, {"name": "Gradska plaža", "text": "A Prosika néven is ismert partszakasz Pag városának fő strandjaként vonzza a látogatókat. A nyüzsgő, vidám atmoszféra tökéletes egy vidám fürdőzéshez és a napfény élvezetéhez. A vízparti séták igazán teljessé teszik az itteni nyári élményt.", "category": "recreational", "coords": [15.048116, 44.441758]}, {"name": "Mađarica", "text": "A Mađarica egy kisebb tengerparti szakasz Pag szigetén.", "category": "recreational", "coords": [15.043852, 44.442213]}, {"name": "Izložba paške čipke", "text": "A kiállítás a híres paški csipkét mutatja be, amely az UNESCO szellemi örökség része.", "category": "museum", "coords": [15.054551, 44.443583]}, {"name": "Sveti Jure", "text": "A Sveti Jure egy épület Pag történelmi központjában.", "category": "landmark", "coords": [15.06162, 44.456273]}, {"name": "Osmatračnica", "text": "Egy kilátópont Pag városában, amely korábban őrtoronyként szolgált.", "category": "landmark", "coords": [15.063215, 44.463768]}], "ro": [{"name": "Permanent exhibition of Salt", "text": "Un muzeu interesant în Pag care documentează istoria producției tradiționale de sare de pe insulă.", "category": "museum", "coords": [15.052267, 44.442709]}, {"name": "Tri glave", "text": "Plaja Tri glave este o zonă de coastă situată în orașul Pag.", "category": "recreational", "coords": [15.038965, 44.447354]}, {"name": "Janjeće vode", "text": "Plaja Janjeće vode este situată pe malul mării în Pag.", "category": "recreational", "coords": [15.029046, 44.457999]}, {"name": "Gradska plaža", "text": "Cunoscută și sub numele de Prosika, această porțiune de coastă reprezintă plaja principală din Pag, atrăgând mulți vizitatori. Atmosfera plină de viață este excelentă pentru zile vesele de înot și relaxare sub soarele cald. O plimbare de-a lungul apei completează perfect experiența estivală.", "category": "recreational", "coords": [15.048116, 44.441758]}, {"name": "Mađarica", "text": "Mađarica este o mică porțiune de plajă pe insula Pag.", "category": "recreational", "coords": [15.043852, 44.442213]}, {"name": "Izložba paške čipke", "text": "Expoziția prezintă faimoasa dantelă de Pag, inclusă în patrimoniul UNESCO.", "category": "museum", "coords": [15.054551, 44.443583]}, {"name": "Sveti Jure", "text": "Clădirea Sveti Jure este situată în centrul istoric al orașului Pag.", "category": "landmark", "coords": [15.06162, 44.456273]}, {"name": "Osmatračnica", "text": "Un punct de observație în Pag, care a servit anterior ca turn de veghe.", "category": "landmark", "coords": [15.063215, 44.463768]}], "en": [{"name": "Permanent exhibition of Salt", "text": "An interesting museum in Pag documenting the history of the island's traditional salt production.", "category": "museum", "coords": [15.052267, 44.442709]}, {"name": "Tri glave", "text": "Tri glave is a beach section located on the coast of Pag.", "category": "recreational", "coords": [15.038965, 44.447354]}, {"name": "Janjeće vode", "text": "Janjeće vode is a beach area situated near the town of Pag.", "category": "recreational", "coords": [15.029046, 44.457999]}, {"name": "Gradska plaža", "text": "Serving as the main beach of Pag, this lively coastal strip, also known as Prosika, attracts many visitors. The vibrant atmosphere is excellent for fun-filled days of swimming and lounging under the warm sun. Taking a stroll by the water perfectly rounds off the summer experience.", "category": "recreational", "coords": [15.048116, 44.441758]}, {"name": "Mađarica", "text": "Mađarica is a small beach section located on the island of Pag.", "category": "recreational", "coords": [15.043852, 44.442213]}, {"name": "Izložba paške čipke", "text": "The exhibition showcases the famous Pag lace, which is part of UNESCO intangible heritage.", "category": "museum", "coords": [15.054551, 44.443583]}, {"name": "Sveti Jure", "text": "The Sveti Jure building is located in the historical center of Pag.", "category": "landmark", "coords": [15.06162, 44.456273]}, {"name": "Osmatračnica", "text": "A viewpoint in Pag that formerly served as a watchtower.", "category": "landmark", "coords": [15.063215, 44.463768]}], "hr": [{"name": "Permanent exhibition of Salt", "text": "Stalni postav izložbe soli u Pagu koji prikazuje dugu tradiciju proizvodnje soli na otoku.", "category": "museum", "coords": [15.052267, 44.442709]}, {"name": "Tri glave", "text": "Tri glave je dio plaže smješten na obali Paga.", "category": "recreational", "coords": [15.038965, 44.447354]}, {"name": "Janjeće vode", "text": "Janjeće vode je plaža smještena u blizini grada Paga.", "category": "recreational", "coords": [15.029046, 44.457999]}, {"name": "Gradska plaža", "text": "Poznata i kao Prosika, ova glavna plaža grada Paga privlači brojne posjetitelje. Živahna atmosfera izvrsna je za zabavne dane ispunjene kupanjem i odmaranjem pod toplim suncem. Šetnja uz more savršeno upotpunjuje pravo ljetno iskustvo.", "category": "recreational", "coords": [15.048116, 44.441758]}, {"name": "Mađarica", "text": "Mađarica je manji dio plaže smješten na otoku Pagu.", "category": "recreational", "coords": [15.043852, 44.442213]}, {"name": "Izložba paške čipke", "text": "Izložba prikazuje slavnu pašku čipku koja je dio UNESCO-ve nematerijalne baštine.", "category": "museum", "coords": [15.054551, 44.443583]}, {"name": "Sveti Jure", "text": "Građevina Sveti Jure nalazi se u povijesnoj jezgri grada Paga.", "category": "landmark", "coords": [15.06162, 44.456273]}, {"name": "Osmatračnica", "text": "Vidikovac u Pagu koji je ranije služio kao osmatračnica.", "category": "landmark", "coords": [15.063215, 44.463768]}]},
+    id: "croatia-pag-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Salz - Ausstellung",
+                  "text": "Ein interessantes Museum in Pag, das die Geschichte der traditionellen Salzgewinnung der Insel dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        15.052267,
+                        44.442709
+                  ]
+            },
+            {
+                  "name": "Tri glave",
+                  "text": "Ein Felsmassiv mit drei markanten Gipfeln auf der Insel Pag, ideal zum Klettern.",
+                  "category": "recreational",
+                  "coords": [
+                        15.038965,
+                        44.447354
+                  ]
+            },
+            {
+                  "name": "Janjeće vode",
+                  "text": "Natürliche Wasserbecken mit klarem Quellwasser zum Schwimmen.",
+                  "category": "recreational",
+                  "coords": [
+                        15.029046,
+                        44.457999
+                  ]
+            },
+            {
+                  "name": "Gradska plaža",
+                  "text": "Als Hauptstrand von Pag zieht die auch als Prosika bekannte Küstenlinie zahlreiche Besucher an. Das lebhafte Ambiente eignet sich hervorragend für vergnügliche Badetage und entspannte Stunden unter der Sonne. Ein Spaziergang entlang des Wassers rundet das sommerliche Erlebnis perfekt ab.",
+                  "category": "recreational",
+                  "coords": [
+                        15.048116,
+                        44.441758
+                  ]
+            },
+            {
+                  "name": "Mađarica",
+                  "text": "Ein kleiner Strandabschnitt namens Mađarica auf der Insel Pag.",
+                  "category": "recreational",
+                  "coords": [
+                        15.043852,
+                        44.442213
+                  ]
+            },
+            {
+                  "name": "Izložba paške čipke",
+                  "text": "Die Ausstellung zeigt die berühmte Pager Spitze, ein UNESCO-Weltkulturerbe.",
+                  "category": "museum",
+                  "coords": [
+                        15.054551,
+                        44.443583
+                  ]
+            },
+            {
+                  "name": "Sveti Jure",
+                  "text": "Gipfelkirche zu Ehren des Heiligen Georg mit Blick auf Pag.",
+                  "category": "landmark",
+                  "coords": [
+                        15.06162,
+                        44.456273
+                  ]
+            },
+            {
+                  "name": "Osmatračnica",
+                  "text": "Ein Aussichtspunkt in Pag, der früher als Osmatračnica diente.",
+                  "category": "landmark",
+                  "coords": [
+                        15.063215,
+                        44.463768
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Permanent exhibition of Salt",
+                  "text": "Érdekes múzeum Pag városában, amely a sziget hagyományos sólepárlásának történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.052267,
+                        44.442709
+                  ]
+            },
+            {
+                  "name": "Tri glave",
+                  "text": "Három jellegzetes csúcsból álló sziklatömeg Pag szigetén, ideális mászáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        15.038965,
+                        44.447354
+                  ]
+            },
+            {
+                  "name": "Janjeće vode",
+                  "text": "Természetes forrásvízű medencék a Pag melletti dombokon.",
+                  "category": "recreational",
+                  "coords": [
+                        15.029046,
+                        44.457999
+                  ]
+            },
+            {
+                  "name": "Gradska plaža",
+                  "text": "A Prosika néven is ismert partszakasz Pag városának fő strandjaként vonzza a látogatókat. A nyüzsgő, vidám atmoszféra tökéletes egy vidám fürdőzéshez és a napfény élvezetéhez. A vízparti séták igazán teljessé teszik az itteni nyári élményt.",
+                  "category": "recreational",
+                  "coords": [
+                        15.048116,
+                        44.441758
+                  ]
+            },
+            {
+                  "name": "Mađarica",
+                  "text": "A Mađarica egy kisebb tengerparti szakasz Pag szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        15.043852,
+                        44.442213
+                  ]
+            },
+            {
+                  "name": "Izložba paške čipke",
+                  "text": "A kiállítás a híres paški csipkét mutatja be, amely az UNESCO szellemi örökség része.",
+                  "category": "museum",
+                  "coords": [
+                        15.054551,
+                        44.443583
+                  ]
+            },
+            {
+                  "name": "Sveti Jure",
+                  "text": "Szent Györgynek szentelt templom a Pag feletti dombtetőn.",
+                  "category": "landmark",
+                  "coords": [
+                        15.06162,
+                        44.456273
+                  ]
+            },
+            {
+                  "name": "Osmatračnica",
+                  "text": "Egy kilátópont Pag városában, amely korábban őrtoronyként szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        15.063215,
+                        44.463768
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Permanent exhibition of Salt",
+                  "text": "Un muzeu interesant în Pag care documentează istoria producției tradiționale de sare de pe insulă.",
+                  "category": "museum",
+                  "coords": [
+                        15.052267,
+                        44.442709
+                  ]
+            },
+            {
+                  "name": "Tri glave",
+                  "text": "Un masiv stâncos cu trei vârfuri distincte pe insula Pag, ideal pentru cățărare.",
+                  "category": "recreational",
+                  "coords": [
+                        15.038965,
+                        44.447354
+                  ]
+            },
+            {
+                  "name": "Janjeće vode",
+                  "text": "Bazine naturale cu apă de izvor pentru înot lângă Pag.",
+                  "category": "recreational",
+                  "coords": [
+                        15.029046,
+                        44.457999
+                  ]
+            },
+            {
+                  "name": "Gradska plaža",
+                  "text": "Cunoscută și sub numele de Prosika, această porțiune de coastă reprezintă plaja principală din Pag, atrăgând mulți vizitatori. Atmosfera plină de viață este excelentă pentru zile vesele de înot și relaxare sub soarele cald. O plimbare de-a lungul apei completează perfect experiența estivală.",
+                  "category": "recreational",
+                  "coords": [
+                        15.048116,
+                        44.441758
+                  ]
+            },
+            {
+                  "name": "Mađarica",
+                  "text": "Mađarica este o mică porțiune de plajă pe insula Pag.",
+                  "category": "recreational",
+                  "coords": [
+                        15.043852,
+                        44.442213
+                  ]
+            },
+            {
+                  "name": "Izložba paške čipke",
+                  "text": "Expoziția prezintă faimoasa dantelă de Pag, inclusă în patrimoniul UNESCO.",
+                  "category": "museum",
+                  "coords": [
+                        15.054551,
+                        44.443583
+                  ]
+            },
+            {
+                  "name": "Sveti Jure",
+                  "text": "Biserică de vârf dedicată Sfântului Gheorghe cu vedere spre Pag.",
+                  "category": "landmark",
+                  "coords": [
+                        15.06162,
+                        44.456273
+                  ]
+            },
+            {
+                  "name": "Osmatračnica",
+                  "text": "Un punct de observație în Pag, care a servit anterior ca turn de veghe.",
+                  "category": "landmark",
+                  "coords": [
+                        15.063215,
+                        44.463768
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Permanent exhibition of Salt",
+                  "text": "An interesting museum in Pag documenting the history of the island's traditional salt production.",
+                  "category": "museum",
+                  "coords": [
+                        15.052267,
+                        44.442709
+                  ]
+            },
+            {
+                  "name": "Tri glave",
+                  "text": "A rock massif with three distinctive peaks on the island of Pag, ideal for climbing.",
+                  "category": "recreational",
+                  "coords": [
+                        15.038965,
+                        44.447354
+                  ]
+            },
+            {
+                  "name": "Janjeće vode",
+                  "text": "Natural spring-water pools for swimming near Pag.",
+                  "category": "recreational",
+                  "coords": [
+                        15.029046,
+                        44.457999
+                  ]
+            },
+            {
+                  "name": "Gradska plaža",
+                  "text": "Serving as the main beach of Pag, this lively coastal strip, also known as Prosika, attracts many visitors. The vibrant atmosphere is excellent for fun-filled days of swimming and lounging under the warm sun. Taking a stroll by the water perfectly rounds off the summer experience.",
+                  "category": "recreational",
+                  "coords": [
+                        15.048116,
+                        44.441758
+                  ]
+            },
+            {
+                  "name": "Mađarica",
+                  "text": "Mađarica is a small beach section located on the island of Pag.",
+                  "category": "recreational",
+                  "coords": [
+                        15.043852,
+                        44.442213
+                  ]
+            },
+            {
+                  "name": "Izložba paške čipke",
+                  "text": "The exhibition showcases the famous Pag lace, which is part of UNESCO intangible heritage.",
+                  "category": "museum",
+                  "coords": [
+                        15.054551,
+                        44.443583
+                  ]
+            },
+            {
+                  "name": "Sveti Jure",
+                  "text": "Hilltop church dedicated to St. George overlooking Pag.",
+                  "category": "landmark",
+                  "coords": [
+                        15.06162,
+                        44.456273
+                  ]
+            },
+            {
+                  "name": "Osmatračnica",
+                  "text": "A viewpoint in Pag that formerly served as a watchtower.",
+                  "category": "landmark",
+                  "coords": [
+                        15.063215,
+                        44.463768
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Permanent exhibition of Salt",
+                  "text": "Stalni postav izložbe soli u Pagu koji prikazuje dugu tradiciju proizvodnje soli na otoku.",
+                  "category": "museum",
+                  "coords": [
+                        15.052267,
+                        44.442709
+                  ]
+            },
+            {
+                  "name": "Tri glave",
+                  "text": "Tri glave je dio plaže smješten na obali Paga.",
+                  "category": "recreational",
+                  "coords": [
+                        15.038965,
+                        44.447354
+                  ]
+            },
+            {
+                  "name": "Janjeće vode",
+                  "text": "Janjeće vode je plaža smještena u blizini grada Paga.",
+                  "category": "recreational",
+                  "coords": [
+                        15.029046,
+                        44.457999
+                  ]
+            },
+            {
+                  "name": "Gradska plaža",
+                  "text": "Poznata i kao Prosika, ova glavna plaža grada Paga privlači brojne posjetitelje. Živahna atmosfera izvrsna je za zabavne dane ispunjene kupanjem i odmaranjem pod toplim suncem. Šetnja uz more savršeno upotpunjuje pravo ljetno iskustvo.",
+                  "category": "recreational",
+                  "coords": [
+                        15.048116,
+                        44.441758
+                  ]
+            },
+            {
+                  "name": "Mađarica",
+                  "text": "Mađarica je manji dio plaže smješten na otoku Pagu.",
+                  "category": "recreational",
+                  "coords": [
+                        15.043852,
+                        44.442213
+                  ]
+            },
+            {
+                  "name": "Izložba paške čipke",
+                  "text": "Izložba prikazuje slavnu pašku čipku koja je dio UNESCO-ve nematerijalne baštine.",
+                  "category": "museum",
+                  "coords": [
+                        15.054551,
+                        44.443583
+                  ]
+            },
+            {
+                  "name": "Sveti Jure",
+                  "text": "Građevina Sveti Jure nalazi se u povijesnoj jezgri grada Paga.",
+                  "category": "landmark",
+                  "coords": [
+                        15.06162,
+                        44.456273
+                  ]
+            },
+            {
+                  "name": "Osmatračnica",
+                  "text": "Vidikovac u Pagu koji je ranije služio kao osmatračnica.",
+                  "category": "landmark",
+                  "coords": [
+                        15.063215,
+                        44.463768
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "HR",
     name: { de: "Pag", hu: "Pag", ro: "Pag", en: "Pag" },

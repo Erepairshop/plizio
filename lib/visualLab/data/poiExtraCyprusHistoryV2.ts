@@ -79,7 +79,7 @@ export const cyprusHistoryV2: POI[] = [
             },
             {
                   "name": "Topiko Mouseio Arkhaiou Idaliou",
-                  "text": "Ein lokales Museum, das Fundstücke aus dem antiken Idalion ausstellt.",
+                  "text": "Museum mit Fundstücken der antiken Stadt Idalion, direkt an der Ausgrabungsstätte.",
                   "category": "museum",
                   "coords": [
                         33.423296,
@@ -135,7 +135,7 @@ export const cyprusHistoryV2: POI[] = [
             },
             {
                   "name": "Topiko Mouseio Arkhaiou Idaliou",
-                  "text": "Helyi múzeum, amely az ókori Idalion leleteit mutatja be.",
+                  "text": "Az ókori Idalion városának leleteit bemutató múzeum a régészeti lelőhelyen.",
                   "category": "museum",
                   "coords": [
                         33.423296,
@@ -191,7 +191,7 @@ export const cyprusHistoryV2: POI[] = [
             },
             {
                   "name": "Topiko Mouseio Arkhaiou Idaliou",
-                  "text": "Un muzeu local care expune descoperiri din anticul Idalion.",
+                  "text": "Muzeu cu artefacte din orașul antic Idalion, situat la situl arheologic.",
                   "category": "museum",
                   "coords": [
                         33.423296,
@@ -247,7 +247,7 @@ export const cyprusHistoryV2: POI[] = [
             },
             {
                   "name": "Local Archaeological Museum of Ancient Idalion",
-                  "text": "A local museum exhibiting finds from ancient Idalion.",
+                  "text": "Museum displaying artifacts from the ancient city of Idalion, located at the archaeological site.",
                   "category": "museum",
                   "coords": [
                         33.423296,
@@ -484,7 +484,7 @@ export const cyprusHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Soli",
-                  "text": "Eine antike Stadt und archäologische Ausgrabungsstätte auf Zypern.",
+                  "text": "Die archäologische Stätte einer antiken Stadt, Soloi, an der Nordküste Zyperns.",
                   "category": "historical",
                   "coords": [
                         32.812539,
@@ -493,7 +493,7 @@ export const cyprusHistoryV2: POI[] = [
             },
             {
                   "name": "Vouni Palace",
-                  "text": "Die Ruinen eines antiken Palastes in der Nähe von Soli.",
+                  "text": "Ein antiker Palast auf einem Hügel mit Blick auf die Bucht von Morphou, nahe den Ruinen von Soli.",
                   "category": "historical",
                   "coords": [
                         32.773221,
@@ -502,7 +502,7 @@ export const cyprusHistoryV2: POI[] = [
             },
             {
                   "name": "Lefke Belediyesi Halk Plajı",
-                  "text": "Ein öffentlicher Strand in der Nähe der Ruinen von Soli.",
+                  "text": "Öffentlicher Strand nahe der antiken Ruinen von Soli, verwaltet von der Gemeinde Lefke.",
                   "category": "recreational",
                   "coords": [
                         32.803609,
@@ -522,7 +522,7 @@ export const cyprusHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Soli",
-                  "text": "Antik város és régészeti lelőhely Cipruson.",
+                  "text": "Egy ókori város régészeti lelőhelye, Soloi, Ciprus északi partján.",
                   "category": "historical",
                   "coords": [
                         32.812539,
@@ -531,7 +531,7 @@ export const cyprusHistoryV2: POI[] = [
             },
             {
                   "name": "Vouni Palace",
-                  "text": "Egy antik palota romjai Soli közelében.",
+                  "text": "Egy ősi palota egy dombon, a Morphou-öbölre néző kilátással, Soli romjai közelében.",
                   "category": "historical",
                   "coords": [
                         32.773221,
@@ -540,7 +540,7 @@ export const cyprusHistoryV2: POI[] = [
             },
             {
                   "name": "Lefke Belediyesi Halk Plajı",
-                  "text": "Nyilvános strand Soli romjainak közelében.",
+                  "text": "Nyilvános strand az ókori Soli romjai közelében, Lefke önkormányzata által üzemeltetve.",
                   "category": "recreational",
                   "coords": [
                         32.803609,
@@ -560,7 +560,7 @@ export const cyprusHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Soli",
-                  "text": "Un oraș antic și sit arheologic în Cipru.",
+                  "text": "Situl arheologic al unui oraș antic, Soloi, pe coasta de nord a Ciprului.",
                   "category": "historical",
                   "coords": [
                         32.812539,
@@ -569,7 +569,7 @@ export const cyprusHistoryV2: POI[] = [
             },
             {
                   "name": "Vouni Palace",
-                  "text": "Ruinele unui palat antic situat lângă Soli.",
+                  "text": "Un palat antic pe un deal cu vedere asupra golfului Morphou, lângă ruinele Soli.",
                   "category": "historical",
                   "coords": [
                         32.773221,
@@ -578,7 +578,7 @@ export const cyprusHistoryV2: POI[] = [
             },
             {
                   "name": "Lefke Belediyesi Halk Plajı",
-                  "text": "O plajă publică în apropierea ruinelor din Soli.",
+                  "text": "Plajă publică lângă ruinele antice ale Soli, administrată de municipalitatea Lefke.",
                   "category": "recreational",
                   "coords": [
                         32.803609,
@@ -598,7 +598,7 @@ export const cyprusHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Soloi",
-                  "text": "An ancient city and archaeological site in Cyprus.",
+                  "text": "The archaeological site of an ancient city-kingdom, Soloi, on the north coast of Cyprus.",
                   "category": "historical",
                   "coords": [
                         32.812539,
@@ -607,7 +607,7 @@ export const cyprusHistoryV2: POI[] = [
             },
             {
                   "name": "Vouni Palace",
-                  "text": "The ruins of an ancient palace located near Soli.",
+                  "text": "An ancient palace on a hill overlooking Morphou Bay, near the Soli ruins.",
                   "category": "historical",
                   "coords": [
                         32.773221,
@@ -616,7 +616,7 @@ export const cyprusHistoryV2: POI[] = [
             },
             {
                   "name": "Lefke Belediyesi Halk Plajı",
-                  "text": "A public beach located near the ruins of Soli.",
+                  "text": "Public beach near the ancient ruins of Soli, managed by Lefke municipality.",
                   "category": "recreational",
                   "coords": [
                         32.803609,
@@ -1015,7 +1015,7 @@ export const cyprusHistoryV2: POI[] = [
             },
             {
                   "name": "Vourni",
-                  "text": "Historische Ruinen in der Nähe der Burg Kantara.",
+                  "text": "Historische Stätte auf der Kantaras-Burg, möglicherweise eine mittelalterliche Siedlung.",
                   "category": "historical",
                   "coords": [
                         33.9654,
@@ -1044,7 +1044,7 @@ export const cyprusHistoryV2: POI[] = [
             },
             {
                   "name": "Vourni",
-                  "text": "Történelmi romok a Kantara-vár közelében.",
+                  "text": "Történelmi helyszín a Kantaras várnál, feltehetően középkori település.",
                   "category": "historical",
                   "coords": [
                         33.9654,
@@ -1073,7 +1073,7 @@ export const cyprusHistoryV2: POI[] = [
             },
             {
                   "name": "Vourni",
-                  "text": "Ruine istorice situate în apropierea Castelului Kantara.",
+                  "text": "Sit istoric la Castelul Kantaras, posibil o așezare medievală.",
                   "category": "historical",
                   "coords": [
                         33.9654,
@@ -1102,7 +1102,7 @@ export const cyprusHistoryV2: POI[] = [
             },
             {
                   "name": "Vourni",
-                  "text": "Historic ruins located near the Kantara Castle area.",
+                  "text": "Historical site at Kantaras Castle, possibly a medieval settlement.",
                   "category": "historical",
                   "coords": [
                         33.9654,
@@ -1168,7 +1168,7 @@ export const cyprusHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Buffavento Burg",
-                  "text": "Eine mittelalterliche Burg im Pentadaktylos-Gebirge auf Zypern.",
+                  "text": "Eine byzantinische Burg auf einem Gipfel im Kyrenia-Gebirge in Zypern.",
                   "category": "castle",
                   "coords": [
                         33.409981,
@@ -1215,7 +1215,7 @@ export const cyprusHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Bufavento Kalesi",
-                  "text": "Középkori vár a ciprusi Pentadaktilosz-hegységben.",
+                  "text": "Bizánci vár egy csúcson a Kyrenia-hegységben Cipruson.",
                   "category": "castle",
                   "coords": [
                         33.409981,
@@ -1262,7 +1262,7 @@ export const cyprusHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Bufavento Kalesi",
-                  "text": "Un castel medieval situat în munții Pentadaktylos din Cipru.",
+                  "text": "Un castel bizantin pe un vârf în Munții Kyrenia din Cipru.",
                   "category": "castle",
                   "coords": [
                         33.409981,
@@ -1309,7 +1309,7 @@ export const cyprusHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Buffavento Castle",
-                  "text": "A medieval castle located in the Pentadaktylos mountains of Cyprus.",
+                  "text": "A Byzantine castle perched on a peak in the Kyrenia Mountains of Cyprus.",
                   "category": "castle",
                   "coords": [
                         33.409981,
@@ -1686,7 +1686,88 @@ export const cyprusHistoryV2: POI[] = [
     image: "/poi-images/cyprus-machairas-monastery-history-v2.webp",
   },
     {
-    id: "cyprus-kyrenia-castle-history-v2", "sights": {"de": [{"name": "Bella Marin", "text": "Bella Marin liegt in der Nähe von Kyrenia.", "category": "recreational", "coords": [33.331216, 35.341196]}, {"name": "Bella Marin Beach", "text": "Gelegen in unmittelbarer Nähe zur historischen Burg Kyrenia, bietet der Bella Marin Beach eine reizvolle Kulisse an der zyprischen Küste. Die Umgebung lädt zu erholsamen Spaziergängen und entspannten Stunden am Wasser ein. Badegäste können hier die Sonne genießen und sich im Meer erfrischen. Ein Besuch empfiehlt sich besonders in den warmen Sommermonaten.", "category": "recreational", "coords": [33.334569, 35.338185]}], "hu": [{"name": "Bella Marin", "text": "Bella Marin Kyrenia közelében található.", "category": "recreational", "coords": [33.331216, 35.341196]}, {"name": "Bella Marin Beach", "text": "A történelmi Kyrenia kastély közvetlen közelében található Bella Marin Beach elragadó tengerparti élményt nyújt Cipruson. A környék pihentető sétákra és a tengerparti lazításra egyaránt hívogat. Látogatóként kellemes úszásra és napozásra számíthat ezen a festői helyen. Érdemes a melegebb hónapokban érkezni a legjobb élmény érdekében.", "category": "recreational", "coords": [33.334569, 35.338185]}], "ro": [{"name": "Bella Marin", "text": "Bella Marin este situată lângă Kyrenia.", "category": "recreational", "coords": [33.331216, 35.341196]}, {"name": "Bella Marin Beach", "text": "Situată în imediata apropiere a istoricului Castel Kyrenia, plaja Bella Marin oferă un decor fermecător pe coasta Ciprului. Împrejurimile invită la plimbări relaxante și ore liniștite petrecute la malul apei. Vizitatorii se pot bucura de înot și plajă într-o atmosferă plăcută. O vizită este recomandată în special în zilele însorite de vară.", "category": "recreational", "coords": [33.334569, 35.338185]}], "en": [{"name": "Bella Marin", "text": "Bella Marin is located near Kyrenia.", "category": "recreational", "coords": [33.331216, 35.341196]}, {"name": "Bella Marin Beach", "text": "Set in close proximity to the historic Kyrenia Castle, Bella Marin Beach provides a charming coastal backdrop in Cyprus. The surroundings invite visitors for relaxing strolls and peaceful hours by the water. Sunbathers and swimmers can enjoy a pleasant atmosphere along the shore. It is best experienced during the warm summer months.", "category": "recreational", "coords": [33.334569, 35.338185]}]},
+    id: "cyprus-kyrenia-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bella Marin",
+                  "text": "Erholungsgebiet nahe der Burg von Kyrenia mit Blick auf das Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        33.331216,
+                        35.341196
+                  ]
+            },
+            {
+                  "name": "Bella Marin Beach",
+                  "text": "Gelegen in unmittelbarer Nähe zur historischen Burg Kyrenia, bietet der Bella Marin Beach eine reizvolle Kulisse an der zyprischen Küste. Die Umgebung lädt zu erholsamen Spaziergängen und entspannten Stunden am Wasser ein. Badegäste können hier die Sonne genießen und sich im Meer erfrischen. Ein Besuch empfiehlt sich besonders in den warmen Sommermonaten.",
+                  "category": "recreational",
+                  "coords": [
+                        33.334569,
+                        35.338185
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bella Marin",
+                  "text": "Kirénéiai vár közelében lévő rekreációs terület tengeri kilátással.",
+                  "category": "recreational",
+                  "coords": [
+                        33.331216,
+                        35.341196
+                  ]
+            },
+            {
+                  "name": "Bella Marin Beach",
+                  "text": "A történelmi Kyrenia kastély közvetlen közelében található Bella Marin Beach elragadó tengerparti élményt nyújt Cipruson. A környék pihentető sétákra és a tengerparti lazításra egyaránt hívogat. Látogatóként kellemes úszásra és napozásra számíthat ezen a festői helyen. Érdemes a melegebb hónapokban érkezni a legjobb élmény érdekében.",
+                  "category": "recreational",
+                  "coords": [
+                        33.334569,
+                        35.338185
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bella Marin",
+                  "text": "Zonă de agrement lângă Castelul Kyrenia, cu vedere la mare.",
+                  "category": "recreational",
+                  "coords": [
+                        33.331216,
+                        35.341196
+                  ]
+            },
+            {
+                  "name": "Bella Marin Beach",
+                  "text": "Situată în imediata apropiere a istoricului Castel Kyrenia, plaja Bella Marin oferă un decor fermecător pe coasta Ciprului. Împrejurimile invită la plimbări relaxante și ore liniștite petrecute la malul apei. Vizitatorii se pot bucura de înot și plajă într-o atmosferă plăcută. O vizită este recomandată în special în zilele însorite de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        33.334569,
+                        35.338185
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bella Marin",
+                  "text": "Recreational area near Kyrenia Castle, known for its seaside views.",
+                  "category": "recreational",
+                  "coords": [
+                        33.331216,
+                        35.341196
+                  ]
+            },
+            {
+                  "name": "Bella Marin Beach",
+                  "text": "Set in close proximity to the historic Kyrenia Castle, Bella Marin Beach provides a charming coastal backdrop in Cyprus. The surroundings invite visitors for relaxing strolls and peaceful hours by the water. Sunbathers and swimmers can enjoy a pleasant atmosphere along the shore. It is best experienced during the warm summer months.",
+                  "category": "recreational",
+                  "coords": [
+                        33.334569,
+                        35.338185
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "CY",
     name: { de: "Burg Kyrenia", hu: "Kyreniai vár", ro: "Castelul din Kyrenia", en: "Kyrenia Castle" },
@@ -2005,7 +2086,7 @@ export const cyprusHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Ethniko Dasiko Parko Troodous",
-                  "text": "Ein Naturschutzgebiet im Troodos-Gebirge auf Zypern.",
+                  "text": "Ein großer Nationalpark mit endemischer Flora und Wanderwegen im Troodos-Gebirge.",
                   "category": "natural",
                   "coords": [
                         32.882021,
@@ -2050,7 +2131,7 @@ export const cyprusHistoryV2: POI[] = [
             },
             {
                   "name": "Viewpoint with telescope",
-                  "text": "Ein Aussichtspunkt mit Teleskop im Troodos-Gebirge.",
+                  "text": "Aussichtspunkt mit festem Fernrohr über das Troodos-Gebirge.",
                   "category": "natural",
                   "coords": [
                         32.873455,
@@ -2079,7 +2160,7 @@ export const cyprusHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Ethniko Dasiko Parko Troodous",
-                  "text": "Természetvédelmi terület a ciprusi Tróodosz-hegységben.",
+                  "text": "Egy nagy nemzeti park endemikus növényvilággal és túraútvonalakkal a Troodos-hegységben.",
                   "category": "natural",
                   "coords": [
                         32.882021,
@@ -2124,7 +2205,7 @@ export const cyprusHistoryV2: POI[] = [
             },
             {
                   "name": "Viewpoint with telescope",
-                  "text": "Teleszkópos kilátópont a Tróodosz-hegységben.",
+                  "text": "Kilátó rögzített távcsővel a Troodos-hegységre.",
                   "category": "natural",
                   "coords": [
                         32.873455,
@@ -2153,7 +2234,7 @@ export const cyprusHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Ethniko Dasiko Parko Troodous",
-                  "text": "O rezervație naturală în Munții Troodos din Cipru.",
+                  "text": "Un parc național mare cu floră endemică și trasee pitorești în munții Troodos.",
                   "category": "natural",
                   "coords": [
                         32.882021,
@@ -2198,7 +2279,7 @@ export const cyprusHistoryV2: POI[] = [
             },
             {
                   "name": "Viewpoint with telescope",
-                  "text": "Un punct de observare cu telescop în Munții Troodos.",
+                  "text": "Punct de belvedere cu telescop fix peste Munții Troodos.",
                   "category": "natural",
                   "coords": [
                         32.873455,
@@ -2227,7 +2308,7 @@ export const cyprusHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Troodos National Forest Park",
-                  "text": "A nature reserve located in the Troodos Mountains of Cyprus.",
+                  "text": "A large national park with endemic flora and scenic trails in the Troodos mountains.",
                   "category": "natural",
                   "coords": [
                         32.882021,
@@ -2272,7 +2353,7 @@ export const cyprusHistoryV2: POI[] = [
             },
             {
                   "name": "Viewpoint with telescope",
-                  "text": "A viewpoint equipped with a telescope in the Troodos Mountains.",
+                  "text": "Viewpoint with a fixed telescope overlooking the Troodos mountains.",
                   "category": "natural",
                   "coords": [
                         32.873455,
@@ -2401,7 +2482,7 @@ export const cyprusHistoryV2: POI[] = [
             },
             {
                   "name": "Monument dedicated to hero Charalambos Casparis",
-                  "text": "Ein Denkmal zu Ehren des lokalen Helden Charalambos Casparis.",
+                  "text": "Denkmal für den zyprischen Helden Charalambos Casparis an der Kirche Agios Ioannis Lampadistis.",
                   "category": "historical",
                   "coords": [
                         32.83022,
@@ -2466,7 +2547,7 @@ export const cyprusHistoryV2: POI[] = [
             },
             {
                   "name": "Monument dedicated to hero Charalambos Casparis",
-                  "text": "Charalambos Casparis helyi hős tiszteletére emelt emlékmű.",
+                  "text": "Charalambos Casparis ciprusi hős emlékműve az Agios Ioannis Lampadistis templomnál.",
                   "category": "historical",
                   "coords": [
                         32.83022,
@@ -2531,7 +2612,7 @@ export const cyprusHistoryV2: POI[] = [
             },
             {
                   "name": "Monument dedicated to hero Charalambos Casparis",
-                  "text": "Un monument ridicat în onoarea eroului local Charalambos Casparis.",
+                  "text": "Monumentul eroului cipriot Charalambos Casparis lângă biserica Agios Ioannis Lampadistis.",
                   "category": "historical",
                   "coords": [
                         32.83022,
@@ -2596,7 +2677,7 @@ export const cyprusHistoryV2: POI[] = [
             },
             {
                   "name": "Monument dedicated to hero Charalambos Casparis",
-                  "text": "A monument dedicated to the honor of local hero Charalambos Casparis.",
+                  "text": "Monument to Cypriot hero Charalambos Casparis near the church of Agios Ioannis Lampadistis.",
                   "category": "historical",
                   "coords": [
                         32.83022,
@@ -3544,7 +3625,7 @@ export const cyprusHistoryV2: POI[] = [
             },
             {
                   "name": "Monument dedicated to hero Charalambos Casparis",
-                  "text": "Ein Denkmal in Pedoulas, das dem lokalen Helden Charalambos Casparis gewidmet ist.",
+                  "text": "Denkmal für den zyprischen Helden Charalambos Casparis an der Kirche Archangelos Michael in Pedoulas.",
                   "category": "historical",
                   "coords": [
                         32.83022,
@@ -3600,7 +3681,7 @@ export const cyprusHistoryV2: POI[] = [
             },
             {
                   "name": "Monument dedicated to hero Charalambos Casparis",
-                  "text": "Pedoulasban található emlékmű, amelyet a helyi hősnek, Charalambos Casparisnak szenteltek.",
+                  "text": "Charalambos Casparis ciprusi hős emlékműve az Archangelos Michael templomnál Pedoulasban.",
                   "category": "historical",
                   "coords": [
                         32.83022,
@@ -3656,7 +3737,7 @@ export const cyprusHistoryV2: POI[] = [
             },
             {
                   "name": "Monument dedicated to hero Charalambos Casparis",
-                  "text": "Un monument din Pedoulas dedicat eroului local Charalambos Casparis.",
+                  "text": "Monumentul eroului cipriot Charalambos Casparis lângă biserica Archangelos Michael din Pedoulas.",
                   "category": "historical",
                   "coords": [
                         32.83022,
@@ -3712,7 +3793,7 @@ export const cyprusHistoryV2: POI[] = [
             },
             {
                   "name": "Monument dedicated to hero Charalambos Casparis",
-                  "text": "A monument in Pedoulas dedicated to the local hero Charalambos Casparis.",
+                  "text": "Monument to Cypriot hero Charalambos Casparis near the church of Archangelos Michael in Pedoulas.",
                   "category": "historical",
                   "coords": [
                         32.83022,

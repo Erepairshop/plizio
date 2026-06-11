@@ -3,7 +3,124 @@ import type { POI } from "./poi";
 
 export const poiExtraMaldivesEconomicV2: POI[] = [
   {
-    id: "male-commercial-harbour-economic-v2",
+    id: "male-commercial-harbour-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ransfannu Beach",
+                  "text": "Ein künstlich angelegter Sandstrand am westlichen Rand der Hauptstadt, der bei Einheimischen für Abendspaziergänge und zum Beobachten von Sonnenuntergängen beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        73.501573,
+                        4.175243
+                  ]
+            },
+            {
+                  "name": "Eedhu Miskiy",
+                  "text": "Diese kleine, aufwendig verzierte Nachbarschaftsmoschee steht ruhig inmitten des geschäftigen Handelsviertels des Hafens.",
+                  "category": "landmark",
+                  "coords": [
+                        73.504295,
+                        4.174817
+                  ]
+            },
+            {
+                  "name": "Masjid Al Sultan Hassan Izzudhdhdeen",
+                  "text": "Eine moderne islamische Gebetsstätte, die großzügige Gebetsräume für Hafenarbeiter und Anwohner bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        73.503777,
+                        4.176621
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ransfannu Beach",
+                  "text": "A főváros nyugati szélén lévő, mesterségesen kialakított homokos partszakasz, amely népszerű a helyiek körében esti sétákhoz és naplementenézéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        73.501573,
+                        4.175243
+                  ]
+            },
+            {
+                  "name": "Eedhu Miskiy",
+                  "text": "Ez a kicsi, bonyolultan díszített környékbeli mecset csendben áll a nyüzsgő kereskedelmi kikötőnegyed közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.504295,
+                        4.174817
+                  ]
+            },
+            {
+                  "name": "Masjid Al Sultan Hassan Izzudhdhdeen",
+                  "text": "Egy modern iszlám imahely, amely tágas imatermeket kínál a kikötői munkások és a közeli lakosok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        73.503777,
+                        4.176621
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ransfannu Beach",
+                  "text": "O întindere de nisip creată artificial la marginea vestică a capitalei, populară printre localnici pentru plimbările de seară și vizionarea apusului de soare.",
+                  "category": "recreational",
+                  "coords": [
+                        73.501573,
+                        4.175243
+                  ]
+            },
+            {
+                  "name": "Eedhu Miskiy",
+                  "text": "Această mică moschee de cartier, decorată complex, se află liniștită în mijlocul aglomeratului district portuar comercial.",
+                  "category": "landmark",
+                  "coords": [
+                        73.504295,
+                        4.174817
+                  ]
+            },
+            {
+                  "name": "Masjid Al Sultan Hassan Izzudhdhdeen",
+                  "text": "Un lăcaș de cult islamic modern, care oferă săli de rugăciune spațioase pentru muncitorii din port și locuitorii din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        73.503777,
+                        4.176621
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ransfannu Beach",
+                  "text": "An artificially created sandy stretch on the western edge of the capital, popular with locals for evening strolls and sunset viewing.",
+                  "category": "recreational",
+                  "coords": [
+                        73.501573,
+                        4.175243
+                  ]
+            },
+            {
+                  "name": "Eedhu Miskiy",
+                  "text": "This small, intricately decorated neighborhood mosque stands quietly amidst the bustling commercial harbour district.",
+                  "category": "landmark",
+                  "coords": [
+                        73.504295,
+                        4.174817
+                  ]
+            },
+            {
+                  "name": "Masjid Al Sultan Hassan Izzudhdhdeen",
+                  "text": "A modern Islamic worship site offering spacious prayer halls for port workers and nearby residents.",
+                  "category": "landmark",
+                  "coords": [
+                        73.503777,
+                        4.176621
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "MV-MLE",
     coords: [73.5041, 4.1755],
@@ -111,7 +228,52 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
     },
   },
   {
-    id: "thilafushi-industrial-zone-economic-v2",
+    id: "thilafushi-industrial-zone-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Velassaru Caves",
+                  "text": "Diese Unterwasserhöhlen nahe dem Velassaru-Riff sind ein beliebtes Ziel für Taucher, um die lokale Meeresfauna zu beobachten.",
+                  "category": "landmark",
+                  "coords": [
+                        73.433551,
+                        4.125016
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Velassaru Caves",
+                  "text": "A Velassaru-zátony közeli víz alatti barlangok a búvárok kedvelt célpontjai a helyi tengeri élővilág megfigyelésére.",
+                  "category": "landmark",
+                  "coords": [
+                        73.433551,
+                        4.125016
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Velassaru Caves",
+                  "text": "Aceste peșteri submarine de lângă reciful Velassaru sunt o destinație populară pentru scafandri pentru a observa fauna marină locală.",
+                  "category": "landmark",
+                  "coords": [
+                        73.433551,
+                        4.125016
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Velassaru Caves",
+                  "text": "These underwater caves near the Velassaru reef are a popular spot for divers to observe local marine life.",
+                  "category": "landmark",
+                  "coords": [
+                        73.433551,
+                        4.125016
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "MV-MLE",
     coords: [73.4355, 4.1833],
@@ -147,7 +309,88 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
     },
   },
   {
-    id: "kooddoo-fish-processing-economic-v2",
+    id: "kooddoo-fish-processing-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid Al Wahda",
+                  "text": "Eine Moschee auf der Insel Kooddoo, die den Arbeitern der nahen Fischverarbeitungsanlagen für ihre Gebete zur Verfügung steht.",
+                  "category": "religious",
+                  "coords": [
+                        73.43808,
+                        0.716661
+                  ]
+            },
+            {
+                  "name": "Masjid Khalid Bin Walid",
+                  "text": "Dieses islamische Gotteshaus auf der maledivischen Insel Kooddoo ist ein wichtiges spirituelles Zentrum für die lokale Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        73.437884,
+                        0.713996
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid Al Wahda",
+                  "text": "Kooddoo szigetén található mecset, amely a közeli halfeldolgozó üzemek dolgozói számára biztosít imádkozási lehetőséget.",
+                  "category": "religious",
+                  "coords": [
+                        73.43808,
+                        0.716661
+                  ]
+            },
+            {
+                  "name": "Masjid Khalid Bin Walid",
+                  "text": "Ez az iszlám imahely a maldív Kooddoo szigetén a helyi közösség fontos spirituális központja.",
+                  "category": "religious",
+                  "coords": [
+                        73.437884,
+                        0.713996
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid Al Wahda",
+                  "text": "O moschee pe insula Kooddoo, care este la dispoziția lucrătorilor de la fabricile de prelucrare a peștelui din apropiere pentru rugăciunile lor.",
+                  "category": "religious",
+                  "coords": [
+                        73.43808,
+                        0.716661
+                  ]
+            },
+            {
+                  "name": "Masjid Khalid Bin Walid",
+                  "text": "Acest lăcaș de cult islamic de pe insula maldiviană Kooddoo este un important centru spiritual pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        73.437884,
+                        0.713996
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjid Al Wahda",
+                  "text": "A mosque on the island of Kooddoo, providing a place for prayer for the workers of the nearby fish processing facilities.",
+                  "category": "religious",
+                  "coords": [
+                        73.43808,
+                        0.716661
+                  ]
+            },
+            {
+                  "name": "Masjid Khalid Bin Walid",
+                  "text": "This Islamic house of worship on the Maldivian island of Kooddoo is an important spiritual center for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        73.437884,
+                        0.713996
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "MV-05",
     coords: [73.4333, 0.7333],
@@ -183,7 +426,124 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
     },
   },
   {
-    id: "stelco-male-power-plant-economic-v2",
+    id: "stelco-male-power-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid Ali Hussain",
+                  "text": "Diese Moschee im dicht bebauten Malé bietet eine spirituelle Oase unweit der modernen städtischen Infrastruktur.",
+                  "category": "landmark",
+                  "coords": [
+                        73.506403,
+                        4.173878
+                  ]
+            },
+            {
+                  "name": "Masjidhul Jalaaluhdheen",
+                  "text": "Ein islamisches Gotteshaus in der maledivischen Hauptstadt, das von den Anwohnern des geschäftigen Stadtzentrums von Malé genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        73.508076,
+                        4.172785
+                  ]
+            },
+            {
+                  "name": "Aa Sahara Mosque",
+                  "text": "Die Aa Sahara Moschee liegt im geschäftigen Malé und ist eng mit den historischen und kulturellen Wurzeln der Stadt verbunden.",
+                  "category": "landmark",
+                  "coords": [
+                        73.507884,
+                        4.170871
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid Ali Hussain",
+                  "text": "Ez a mecset a sűrűn beépített Maléban egy spirituális oázist kínál, nem messze a modern városi infrastruktúrától.",
+                  "category": "landmark",
+                  "coords": [
+                        73.506403,
+                        4.173878
+                  ]
+            },
+            {
+                  "name": "Masjidhul Jalaaluhdheen",
+                  "text": "Egy iszlám imahely a maldív fővárosban, amelyet Malé nyüzsgő városközpontjának lakói használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        73.508076,
+                        4.172785
+                  ]
+            },
+            {
+                  "name": "Aa Sahara Mosque",
+                  "text": "Az Aa Sahara mecset a nyüzsgő Maléban található, és szorosan kötődik a város történelmi és kulturális gyökereihez.",
+                  "category": "landmark",
+                  "coords": [
+                        73.507884,
+                        4.170871
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid Ali Hussain",
+                  "text": "Această moschee din orașul dens construit Malé oferă o oază spirituală nu departe de infrastructura urbană modernă.",
+                  "category": "landmark",
+                  "coords": [
+                        73.506403,
+                        4.173878
+                  ]
+            },
+            {
+                  "name": "Masjidhul Jalaaluhdheen",
+                  "text": "Un lăcaș de cult islamic din capitala maldiviană, folosit de locuitorii centrului aglomerat al orașului Malé.",
+                  "category": "landmark",
+                  "coords": [
+                        73.508076,
+                        4.172785
+                  ]
+            },
+            {
+                  "name": "Aa Sahara Mosque",
+                  "text": "Moscheea Aa Sahara este situată în aglomeratul Malé și este strâns legată de rădăcinile istorice și culturale ale orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        73.507884,
+                        4.170871
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjid Ali Hussain",
+                  "text": "This mosque in the densely built-up city of Malé offers a spiritual oasis not far from the modern urban infrastructure.",
+                  "category": "landmark",
+                  "coords": [
+                        73.506403,
+                        4.173878
+                  ]
+            },
+            {
+                  "name": "Masjidhul Jalaaluhdheen",
+                  "text": "An Islamic house of worship in the Maldivian capital, utilized by residents of Malé's bustling city center.",
+                  "category": "landmark",
+                  "coords": [
+                        73.508076,
+                        4.172785
+                  ]
+            },
+            {
+                  "name": "Aa Sahara Mosque",
+                  "text": "The Aa Sahara Mosque is located in bustling Malé and is deeply connected to the city's historical and cultural roots.",
+                  "category": "landmark",
+                  "coords": [
+                        73.507884,
+                        4.170871
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "MV-MLE",
     coords: [73.5070, 4.1720],
@@ -327,7 +687,412 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
     },
   },
   {
-    id: "addu-city-fisheries-economic-v2",
+    id: "addu-city-fisheries-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kanbihaa Beach",
+                  "text": "Kanbihaa Beach ist ein malerischer lokaler Strandabschnitt in addu-city-fisheries-economic-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.099577,
+                        -0.620815
+                  ]
+            },
+            {
+                  "name": "Rujjehere Beach",
+                  "text": "Rujjehere Beach ist ein malerischer lokaler Strandabschnitt in addu-city-fisheries-economic-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.104233,
+                        -0.643674
+                  ]
+            },
+            {
+                  "name": "Maradhoo Rashikede Beach",
+                  "text": "Maradhoo Rashikede Beach ist ein malerischer lokaler Strandabschnitt in addu-city-fisheries-economic-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.114618,
+                        -0.658725
+                  ]
+            },
+            {
+                  "name": "AEH Mosque",
+                  "text": "Die AEH Mosque ist ein islamisches Gotteshaus in addu-city-fisheries-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.095211,
+                        -0.621313
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ibrahim",
+                  "text": "Die in addu-city-fisheries-economic-v2 gelegene Masjid Al-Ibrahim ist eine Moschee für lokale Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        73.098607,
+                        -0.618168
+                  ]
+            },
+            {
+                  "name": "Aarefe Mosque",
+                  "text": "Die Aarefe Mosque ist eine lokale Moschee für die islamische Gemeinde in addu-city-fisheries-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.099582,
+                        -0.626244
+                  ]
+            },
+            {
+                  "name": "Masjidhul Salaam",
+                  "text": "Masjidhul Salaam ist ein islamisches Gotteshaus in addu-city-fisheries-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.114765,
+                        -0.660401
+                  ]
+            },
+            {
+                  "name": "Maa Miskiy",
+                  "text": "Die in addu-city-fisheries-economic-v2 gelegene Maa Miskiy ist eine Moschee für lokale Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        73.121178,
+                        -0.666187
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Shuaib",
+                  "text": "Masjid Al-Shuaib ist eine lokale Moschee für die islamische Gemeinde in addu-city-fisheries-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.118613,
+                        -0.665956
+                  ]
+            },
+            {
+                  "name": "Masjidhul Falah",
+                  "text": "Masjidhul Falah ist ein islamisches Gotteshaus in addu-city-fisheries-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.116978,
+                        -0.665985
+                  ]
+            },
+            {
+                  "name": "Masjidh-Al-Ikhlas",
+                  "text": "Die in addu-city-fisheries-economic-v2 gelegene Masjidh-Al-Ikhlas ist eine Moschee für lokale Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        73.117655,
+                        -0.662586
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kanbihaa Beach",
+                  "text": "A Kanbihaa Beach egy festői helyi strand addu-city-fisheries-economic-v2 területén.",
+                  "category": "recreational",
+                  "coords": [
+                        73.099577,
+                        -0.620815
+                  ]
+            },
+            {
+                  "name": "Rujjehere Beach",
+                  "text": "A Rujjehere Beach egy festői helyi strand addu-city-fisheries-economic-v2 területén.",
+                  "category": "recreational",
+                  "coords": [
+                        73.104233,
+                        -0.643674
+                  ]
+            },
+            {
+                  "name": "Maradhoo Rashikede Beach",
+                  "text": "A Maradhoo Rashikede Beach egy festői helyi strand addu-city-fisheries-economic-v2 területén.",
+                  "category": "recreational",
+                  "coords": [
+                        73.114618,
+                        -0.658725
+                  ]
+            },
+            {
+                  "name": "AEH Mosque",
+                  "text": "Az AEH Mosque egy iszlám imaház addu-city-fisheries-economic-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.095211,
+                        -0.621313
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ibrahim",
+                  "text": "Az addu-city-fisheries-economic-v2 területén található Masjid Al-Ibrahim egy helyi imákra használt mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        73.098607,
+                        -0.618168
+                  ]
+            },
+            {
+                  "name": "Aarefe Mosque",
+                  "text": "Az Aarefe Mosque egy helyi mecset, amely az iszlám közösséget szolgálja addu-city-fisheries-economic-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        73.099582,
+                        -0.626244
+                  ]
+            },
+            {
+                  "name": "Masjidhul Salaam",
+                  "text": "A Masjidhul Salaam egy iszlám imaház addu-city-fisheries-economic-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.114765,
+                        -0.660401
+                  ]
+            },
+            {
+                  "name": "Maa Miskiy",
+                  "text": "Az addu-city-fisheries-economic-v2 területén található Maa Miskiy egy helyi imákra használt mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        73.121178,
+                        -0.666187
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Shuaib",
+                  "text": "A Masjid Al-Shuaib egy helyi mecset, amely az iszlám közösséget szolgálja addu-city-fisheries-economic-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        73.118613,
+                        -0.665956
+                  ]
+            },
+            {
+                  "name": "Masjidhul Falah",
+                  "text": "A Masjidhul Falah egy iszlám imaház addu-city-fisheries-economic-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.116978,
+                        -0.665985
+                  ]
+            },
+            {
+                  "name": "Masjidh-Al-Ikhlas",
+                  "text": "Az addu-city-fisheries-economic-v2 területén található Masjidh-Al-Ikhlas egy helyi imákra használt mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        73.117655,
+                        -0.662586
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kanbihaa Beach",
+                  "text": "Kanbihaa Beach este o zonă de plajă locală pitorească din addu-city-fisheries-economic-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.099577,
+                        -0.620815
+                  ]
+            },
+            {
+                  "name": "Rujjehere Beach",
+                  "text": "Rujjehere Beach este o zonă de plajă locală pitorească din addu-city-fisheries-economic-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.104233,
+                        -0.643674
+                  ]
+            },
+            {
+                  "name": "Maradhoo Rashikede Beach",
+                  "text": "Maradhoo Rashikede Beach este o zonă de plajă locală pitorească din addu-city-fisheries-economic-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.114618,
+                        -0.658725
+                  ]
+            },
+            {
+                  "name": "AEH Mosque",
+                  "text": "AEH Mosque este un lăcaș de cult islamic situat în addu-city-fisheries-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.095211,
+                        -0.621313
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ibrahim",
+                  "text": "Situată în addu-city-fisheries-economic-v2, Masjid Al-Ibrahim este o moschee folosită pentru rugăciunile locale.",
+                  "category": "landmark",
+                  "coords": [
+                        73.098607,
+                        -0.618168
+                  ]
+            },
+            {
+                  "name": "Aarefe Mosque",
+                  "text": "Aarefe Mosque este o moschee locală care deservește comunitatea islamică din addu-city-fisheries-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.099582,
+                        -0.626244
+                  ]
+            },
+            {
+                  "name": "Masjidhul Salaam",
+                  "text": "Masjidhul Salaam este un lăcaș de cult islamic situat în addu-city-fisheries-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.114765,
+                        -0.660401
+                  ]
+            },
+            {
+                  "name": "Maa Miskiy",
+                  "text": "Situată în addu-city-fisheries-economic-v2, Maa Miskiy este o moschee folosită pentru rugăciunile locale.",
+                  "category": "landmark",
+                  "coords": [
+                        73.121178,
+                        -0.666187
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Shuaib",
+                  "text": "Masjid Al-Shuaib este o moschee locală care deservește comunitatea islamică din addu-city-fisheries-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.118613,
+                        -0.665956
+                  ]
+            },
+            {
+                  "name": "Masjidhul Falah",
+                  "text": "Masjidhul Falah este un lăcaș de cult islamic situat în addu-city-fisheries-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.116978,
+                        -0.665985
+                  ]
+            },
+            {
+                  "name": "Masjidh-Al-Ikhlas",
+                  "text": "Situată în addu-city-fisheries-economic-v2, Masjidh-Al-Ikhlas este o moschee folosită pentru rugăciunile locale.",
+                  "category": "landmark",
+                  "coords": [
+                        73.117655,
+                        -0.662586
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kanbihaa Beach",
+                  "text": "Kanbihaa Beach is a scenic local beach destination situated in addu-city-fisheries-economic-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.099577,
+                        -0.620815
+                  ]
+            },
+            {
+                  "name": "Rujjehere Beach",
+                  "text": "Rujjehere Beach is a scenic local beach destination situated in addu-city-fisheries-economic-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.104233,
+                        -0.643674
+                  ]
+            },
+            {
+                  "name": "Maradhoo Rashikede Beach",
+                  "text": "Maradhoo Rashikede Beach is a scenic local beach destination situated in addu-city-fisheries-economic-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.114618,
+                        -0.658725
+                  ]
+            },
+            {
+                  "name": "AEH Mosque",
+                  "text": "AEH Mosque is a place of Islamic worship located in addu-city-fisheries-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.095211,
+                        -0.621313
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ibrahim",
+                  "text": "Located in addu-city-fisheries-economic-v2, Masjid Al-Ibrahim is a mosque used for local prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        73.098607,
+                        -0.618168
+                  ]
+            },
+            {
+                  "name": "Aarefe Mosque",
+                  "text": "Aarefe Mosque is a local mosque serving the Islamic community in addu-city-fisheries-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.099582,
+                        -0.626244
+                  ]
+            },
+            {
+                  "name": "Masjidhul Salaam",
+                  "text": "Masjidhul Salaam is a place of Islamic worship located in addu-city-fisheries-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.114765,
+                        -0.660401
+                  ]
+            },
+            {
+                  "name": "Maa Miskiy",
+                  "text": "Located in addu-city-fisheries-economic-v2, Maa Miskiy is a mosque used for local prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        73.121178,
+                        -0.666187
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Shuaib",
+                  "text": "Masjid Al-Shuaib is a local mosque serving the Islamic community in addu-city-fisheries-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.118613,
+                        -0.665956
+                  ]
+            },
+            {
+                  "name": "Masjidhul Falah",
+                  "text": "Masjidhul Falah is a place of Islamic worship located in addu-city-fisheries-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.116978,
+                        -0.665985
+                  ]
+            },
+            {
+                  "name": "Masjidh-Al-Ikhlas",
+                  "text": "Located in addu-city-fisheries-economic-v2, Masjidh-Al-Ikhlas is a mosque used for local prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        73.117655,
+                        -0.662586
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "MV-01",
     coords: [73.1000, -0.6333],
@@ -363,7 +1128,88 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
     },
   },
   {
-    id: "sto-trade-center-male-economic-v2",
+    id: "sto-trade-center-male-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Faifuhey Miskiy",
+                  "text": "Eine Moschee in Malé, günstig gelegen in der Nähe des geschäftigen STO Trade Centers.",
+                  "category": "landmark",
+                  "coords": [
+                        73.507127,
+                        4.178139
+                  ]
+            },
+            {
+                  "name": "Fandiyaaru Mosque",
+                  "text": "Eine bedeutende islamische Kultstätte im wirtschaftlichen Herzen von Malé.",
+                  "category": "landmark",
+                  "coords": [
+                        73.506693,
+                        4.176094
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Faifuhey Miskiy",
+                  "text": "Egy mecset Maléban, amely a forgalmas STO Trade Center közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        73.507127,
+                        4.178139
+                  ]
+            },
+            {
+                  "name": "Fandiyaaru Mosque",
+                  "text": "Jelentős iszlám istentiszteleti hely Malé gazdasági szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        73.506693,
+                        4.176094
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Faifuhey Miskiy",
+                  "text": "O moschee în Malé, situată convenabil lângă aglomeratul STO Trade Center.",
+                  "category": "landmark",
+                  "coords": [
+                        73.507127,
+                        4.178139
+                  ]
+            },
+            {
+                  "name": "Fandiyaaru Mosque",
+                  "text": "Un lăcaș de cult islamic proeminent în inima economică a orașului Malé.",
+                  "category": "landmark",
+                  "coords": [
+                        73.506693,
+                        4.176094
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Faifuhey Miskiy",
+                  "text": "A mosque in Male, conveniently located near the bustling STO Trade Center.",
+                  "category": "landmark",
+                  "coords": [
+                        73.507127,
+                        4.178139
+                  ]
+            },
+            {
+                  "name": "Fandiyaaru Mosque",
+                  "text": "A prominent Islamic place of worship situated in the economic heart of Male.",
+                  "category": "landmark",
+                  "coords": [
+                        73.506693,
+                        4.176094
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "MV-MLE",
     coords: [73.5065, 4.1760],
@@ -399,7 +1245,160 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
     },
   },
   {
-    id: "hulhumale-yacht-marina-economic-v2",
+    id: "hulhumale-yacht-marina-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "މަސްޖިދު ހަސަން އާދަމް",
+                  "text": "Eine Nachbarschaftsmoschee in der geplanten Inselstadt Hulhumalé, die tägliche Gebetsmöglichkeiten in der Nähe des lokalen Jachthafens bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        73.547753,
+                        4.227989
+                  ]
+            },
+            {
+                  "name": "Masjid Rasheed",
+                  "text": "Im modernen Bezirk von Hulhumalé gelegen, bietet dieses islamische Gotteshaus der lokalen maledivischen Bevölkerung Platz für Gemeindegebete.",
+                  "category": "landmark",
+                  "coords": [
+                        73.541673,
+                        4.215027
+                  ]
+            },
+            {
+                  "name": "Masjid al Sheikh Qasim bin Al-Thani",
+                  "text": "Mit ihrer ausgeprägten islamischen Architektur dient diese prominente Moschee in Hulhumalé als wichtiges religiöses Zentrum für die Inselbewohner.",
+                  "category": "landmark",
+                  "coords": [
+                        73.543783,
+                        4.21799
+                  ]
+            },
+            {
+                  "name": "އުމަރު މިސްކަތް",
+                  "text": "Eine friedliche Gemeindemoschee, die einen speziellen Raum für tägliche islamische Andachten im städtischen Küstenumfeld von Hulhumalé bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        73.544594,
+                        4.221067
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "މަސްޖިދު ހަސަން އާދަމް",
+                  "text": "A tervezett Hulhumalé szigetvárosában található szomszédsági mecset, amely napi imádkozási lehetőséget biztosít a helyi kikötő közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        73.547753,
+                        4.227989
+                  ]
+            },
+            {
+                  "name": "Masjid Rasheed",
+                  "text": "Hulhumalé modern negyedében található ez az iszlám istentiszteleti hely, amely a helyi maldív lakosságot szolgálja ki a gyülekezeti imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        73.541673,
+                        4.215027
+                  ]
+            },
+            {
+                  "name": "Masjid al Sheikh Qasim bin Al-Thani",
+                  "text": "A jellegzetes iszlám építészettel rendelkező, kiemelkedő Hulhumalé-i mecset a szigetlakók egyik fő vallási központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        73.543783,
+                        4.21799
+                  ]
+            },
+            {
+                  "name": "އުމަރު މިސްކަތް",
+                  "text": "Egy békés közösségi mecset, amely dedikált teret kínál a napi iszlám áhítathoz Hulhumalé tengerparti városi környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        73.544594,
+                        4.221067
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "މަސްޖިދު ހަސަން އާދަމް",
+                  "text": "O moschee de cartier situată în orașul insular planificat Hulhumalé, oferind facilități de rugăciune zilnică lângă portul de agrement local.",
+                  "category": "landmark",
+                  "coords": [
+                        73.547753,
+                        4.227989
+                  ]
+            },
+            {
+                  "name": "Masjid Rasheed",
+                  "text": "Situat în districtul modern Hulhumalé, acest lăcaș de cult islamic găzduiește populația locală maldiviană pentru rugăciuni comune.",
+                  "category": "landmark",
+                  "coords": [
+                        73.541673,
+                        4.215027
+                  ]
+            },
+            {
+                  "name": "Masjid al Sheikh Qasim bin Al-Thani",
+                  "text": "Având o arhitectură islamică distinctă, această moschee proeminentă din Hulhumalé servește drept un centru religios major pentru locuitorii insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        73.543783,
+                        4.21799
+                  ]
+            },
+            {
+                  "name": "އުމަރު މިސްކަތް",
+                  "text": "O moschee comunitară pașnică, care oferă un spațiu dedicat pentru devoțiunile islamice zilnice în cadrul urban de coastă din Hulhumalé.",
+                  "category": "landmark",
+                  "coords": [
+                        73.544594,
+                        4.221067
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjid Hassan Adam",
+                  "text": "A neighborhood mosque situated in the planned island city of Hulhumalé, providing daily prayer facilities near the local marina.",
+                  "category": "landmark",
+                  "coords": [
+                        73.547753,
+                        4.227989
+                  ]
+            },
+            {
+                  "name": "Masjid Rasheed",
+                  "text": "Located in the modern district of Hulhumalé, this Islamic house of worship accommodates the local Maldivian population for congregational prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        73.541673,
+                        4.215027
+                  ]
+            },
+            {
+                  "name": "Masjid al Sheikh Qasim bin Al-Thani",
+                  "text": "Featuring distinct Islamic architecture, this prominent mosque in Hulhumalé serves as a major religious hub for island residents.",
+                  "category": "landmark",
+                  "coords": [
+                        73.543783,
+                        4.21799
+                  ]
+            },
+            {
+                  "name": "Masjid Umar",
+                  "text": "A peaceful community mosque offering a dedicated space for daily Islamic devotions in the coastal urban setting of Hulhumalé.",
+                  "category": "landmark",
+                  "coords": [
+                        73.544594,
+                        4.221067
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "MV-MLE",
     coords: [73.5380, 4.2180],
@@ -507,7 +1506,52 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
     },
   },
   {
-    id: "dhiffushi-solar-power-economic-v2",
+    id: "dhiffushi-solar-power-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sting ray feeding point",
+                  "text": "Der Sting ray feeding point ist ein ausgewiesener Strandbereich in dhiffushi-solar-power-economic-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.715046,
+                        4.445416
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sting ray feeding point",
+                  "text": "A Sting ray feeding point egy kijelölt partszakasz dhiffushi-solar-power-economic-v2 területén.",
+                  "category": "recreational",
+                  "coords": [
+                        73.715046,
+                        4.445416
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sting ray feeding point",
+                  "text": "Sting ray feeding point este o zonă de plajă desemnată în dhiffushi-solar-power-economic-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.715046,
+                        4.445416
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sting ray feeding point",
+                  "text": "Sting ray feeding point is a designated beach area in dhiffushi-solar-power-economic-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.715046,
+                        4.445416
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "MV-26",
     coords: [73.7167, 4.4417],
@@ -579,7 +1623,52 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
     },
   },
   {
-    id: "fenaka-thinadhoo-power-economic-v2",
+    id: "fenaka-thinadhoo-power-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid al-Barakat",
+                  "text": "Diese Moschee auf der maledivischen Insel Thinadhoo zeichnet sich durch ihr an das tropische Inselklima angepasste Design aus.",
+                  "category": "religious",
+                  "coords": [
+                        72.999264,
+                        0.458295
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid al-Barakat",
+                  "text": "Ez a maldív Thinadhoo szigetén található mecset a trópusi szigeti éghajlathoz igazodó kialakításával tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        72.999264,
+                        0.458295
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid al-Barakat",
+                  "text": "Această moschee de pe insula maldiviană Thinadhoo se remarcă prin designul său adaptat la clima tropicală insulară.",
+                  "category": "religious",
+                  "coords": [
+                        72.999264,
+                        0.458295
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjid al-Barakat",
+                  "text": "This mosque on the Maldivian island of Thinadhoo is characterized by its design adapted to the tropical island climate.",
+                  "category": "religious",
+                  "coords": [
+                        72.999264,
+                        0.458295
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "MV-02",
     coords: [73.0000, 0.5333],
@@ -615,7 +1704,124 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
     },
   },
   {
-    id: "ensis-fisheries-processing-economic-v2",
+    id: "ensis-fisheries-processing-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hulumale Beach",
+                  "text": "Dieser weitläufige, palmengesäumte östliche Küstenstreifen ist ein aufgeschüttetes Inselprojekt, das den steigenden Meeresspiegel abmildern soll.",
+                  "category": "landmark",
+                  "coords": [
+                        73.543552,
+                        4.209631
+                  ]
+            },
+            {
+                  "name": "Masjid Al Asdiqaa",
+                  "text": "Die Masjid Al Asdiqaa ist eine islamische Kultstätte, die der muslimischen Gemeinschaft in der Nähe der Küstenanlagen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        73.53697,
+                        4.212518
+                  ]
+            },
+            {
+                  "name": "Saharaa Miskiy",
+                  "text": "Die Saharaa Miskiy ist eine lokale islamische Moschee, in der sich die Gläubigen zum täglichen Gebet versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        73.539011,
+                        4.207484
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hulumale Beach",
+                  "text": "Ez a kiterjedt, pálmafákkal szegélyezett keleti partszakasz egy feltöltött szigetfejlesztés, amelynek célja a tengerszint emelkedésének mérséklése.",
+                  "category": "landmark",
+                  "coords": [
+                        73.543552,
+                        4.209631
+                  ]
+            },
+            {
+                  "name": "Masjid Al Asdiqaa",
+                  "text": "A Masjid Al Asdiqaa egy iszlám imahely, amely a parti létesítmények közelében élő muszlim közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        73.53697,
+                        4.212518
+                  ]
+            },
+            {
+                  "name": "Saharaa Miskiy",
+                  "text": "A Saharaa Miskiy egy helyi iszlám mecset, ahol a hívők összegyűlnek a napi imákra.",
+                  "category": "landmark",
+                  "coords": [
+                        73.539011,
+                        4.207484
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hulumale Beach",
+                  "text": "Această zonă de coastă estică expansivă, mărginită de palmieri, este o dezvoltare insulară recuperată, concepută pentru a atenua creșterea nivelului mării.",
+                  "category": "landmark",
+                  "coords": [
+                        73.543552,
+                        4.209631
+                  ]
+            },
+            {
+                  "name": "Masjid Al Asdiqaa",
+                  "text": "Masjid Al Asdiqaa este un lăcaș de cult islamic care deservește comunitatea musulmană din apropierea facilităților de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        73.53697,
+                        4.212518
+                  ]
+            },
+            {
+                  "name": "Saharaa Miskiy",
+                  "text": "Saharaa Miskiy este o moschee islamică locală unde credincioșii se adună pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        73.539011,
+                        4.207484
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hulumale Beach",
+                  "text": "This expansive, palm-fringed eastern shoreline is a reclaimed island development designed to mitigate rising sea levels.",
+                  "category": "landmark",
+                  "coords": [
+                        73.543552,
+                        4.209631
+                  ]
+            },
+            {
+                  "name": "Masjid Al Asdiqaa",
+                  "text": "The Masjid Al Asdiqaa is an Islamic place of worship serving the Muslim community near the coastal facilities.",
+                  "category": "landmark",
+                  "coords": [
+                        73.53697,
+                        4.212518
+                  ]
+            },
+            {
+                  "name": "Saharaa Miskiy",
+                  "text": "The Saharaa Miskiy is a local Islamic mosque where worshippers gather for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        73.539011,
+                        4.207484
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "MV-MLE",
     coords: [73.5355, 4.2120],
@@ -651,7 +1857,268 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
     },
   },
   {
-    id: "kulhudhuffushi-regional-port-economic-v2",
+    id: "kulhudhuffushi-regional-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Artificial Beach",
+                  "text": "Artificial Beach ist ein künstlich angelegter Sandstrand in kulhudhuffushi-regional-port-economic-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.069223,
+                        6.613305
+                  ]
+            },
+            {
+                  "name": "Dhekunu kulhi",
+                  "text": "Dhekunu kulhi ist ein geschütztes Naturschutzgebiet in kulhudhuffushi-regional-port-economic-v2.",
+                  "category": "natural",
+                  "coords": [
+                        73.070217,
+                        6.614075
+                  ]
+            },
+            {
+                  "name": "Masjidhul Hasanaath Mosque",
+                  "text": "Die Masjidhul Hasanaath Mosque ist eine islamische Gebetsstätte in kulhudhuffushi-regional-port-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.070729,
+                        6.617022
+                  ]
+            },
+            {
+                  "name": "Masjid Halarai (Friday Mosque)",
+                  "text": "Masjid Halarai, auch als Freitagsmoschee bekannt, dient der muslimischen Gemeinde in kulhudhuffushi-regional-port-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.070488,
+                        6.622057
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ula",
+                  "text": "Masjid Al-Ula ist eine Moschee in kulhudhuffushi-regional-port-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.072284,
+                        6.623182
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Firdhaus",
+                  "text": "Masjid Al-Firdhaus ist eine lokale Moschee für die Bewohner in kulhudhuffushi-regional-port-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.065439,
+                        6.62557
+                  ]
+            },
+            {
+                  "name": "Baa Hukuru Miskiyy",
+                  "text": "Baa Hukuru Miskiyy ist eine bemerkenswerte Moschee in kulhudhuffushi-regional-port-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.082929,
+                        6.662503
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Artificial Beach",
+                  "text": "Az Artificial Beach egy mesterséges homokos part kulhudhuffushi-regional-port-economic-v2 területén.",
+                  "category": "recreational",
+                  "coords": [
+                        73.069223,
+                        6.613305
+                  ]
+            },
+            {
+                  "name": "Dhekunu kulhi",
+                  "text": "A Dhekunu kulhi egy védett természetvédelmi terület kulhudhuffushi-regional-port-economic-v2 régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        73.070217,
+                        6.614075
+                  ]
+            },
+            {
+                  "name": "Masjidhul Hasanaath Mosque",
+                  "text": "A Masjidhul Hasanaath Mosque egy iszlám vallási helyszín kulhudhuffushi-regional-port-economic-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.070729,
+                        6.617022
+                  ]
+            },
+            {
+                  "name": "Masjid Halarai (Friday Mosque)",
+                  "text": "A Masjid Halarai, vagy Pénteki mecset, a muszlim közösséget szolgálja kulhudhuffushi-regional-port-economic-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.070488,
+                        6.622057
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ula",
+                  "text": "A Masjid Al-Ula egy mecset kulhudhuffushi-regional-port-economic-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.072284,
+                        6.623182
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Firdhaus",
+                  "text": "A Masjid Al-Firdhaus egy helyi mecset, amely a lakosokat szolgálja kulhudhuffushi-regional-port-economic-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.065439,
+                        6.62557
+                  ]
+            },
+            {
+                  "name": "Baa Hukuru Miskiyy",
+                  "text": "A Baa Hukuru Miskiyy egy jelentős mecset kulhudhuffushi-regional-port-economic-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.082929,
+                        6.662503
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Artificial Beach",
+                  "text": "Artificial Beach este o zonă de nisip artificială din kulhudhuffushi-regional-port-economic-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.069223,
+                        6.613305
+                  ]
+            },
+            {
+                  "name": "Dhekunu kulhi",
+                  "text": "Dhekunu kulhi este o rezervație naturală protejată, situată în kulhudhuffushi-regional-port-economic-v2.",
+                  "category": "natural",
+                  "coords": [
+                        73.070217,
+                        6.614075
+                  ]
+            },
+            {
+                  "name": "Masjidhul Hasanaath Mosque",
+                  "text": "Moscheea Masjidhul Hasanaath este un loc de cult islamic din kulhudhuffushi-regional-port-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.070729,
+                        6.617022
+                  ]
+            },
+            {
+                  "name": "Masjid Halarai (Friday Mosque)",
+                  "text": "Masjid Halarai, cunoscută și sub numele de Moscheea de Vineri, servește comunității musulmane din kulhudhuffushi-regional-port-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.070488,
+                        6.622057
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ula",
+                  "text": "Masjid Al-Ula este o moschee situată în kulhudhuffushi-regional-port-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.072284,
+                        6.623182
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Firdhaus",
+                  "text": "Masjid Al-Firdhaus este o moschee locală care deservește locuitorii din kulhudhuffushi-regional-port-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.065439,
+                        6.62557
+                  ]
+            },
+            {
+                  "name": "Baa Hukuru Miskiyy",
+                  "text": "Baa Hukuru Miskiyy este o moschee notabilă situată în kulhudhuffushi-regional-port-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.082929,
+                        6.662503
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Artificial Beach",
+                  "text": "Artificial Beach is a man-made stretch of sand in kulhudhuffushi-regional-port-economic-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.069223,
+                        6.613305
+                  ]
+            },
+            {
+                  "name": "Dhekunu kulhi",
+                  "text": "Dhekunu kulhi is a protected nature reserve situated in kulhudhuffushi-regional-port-economic-v2.",
+                  "category": "natural",
+                  "coords": [
+                        73.070217,
+                        6.614075
+                  ]
+            },
+            {
+                  "name": "Masjidhul Hasanaath Mosque",
+                  "text": "Masjidhul Hasanaath Mosque is a religious site for Islamic worship in kulhudhuffushi-regional-port-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.070729,
+                        6.617022
+                  ]
+            },
+            {
+                  "name": "Masjid Halarai (Friday Mosque)",
+                  "text": "Masjid Halarai, also known as the Friday Mosque, serves the Muslim community in kulhudhuffushi-regional-port-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.070488,
+                        6.622057
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ula",
+                  "text": "Masjid Al-Ula is a mosque located in kulhudhuffushi-regional-port-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.072284,
+                        6.623182
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Firdhaus",
+                  "text": "Masjid Al-Firdhaus is a local mosque serving residents in kulhudhuffushi-regional-port-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.065439,
+                        6.62557
+                  ]
+            },
+            {
+                  "name": "Baa Hukuru Miskiyy",
+                  "text": "Baa Hukuru Miskiyy is a notable mosque situated in kulhudhuffushi-regional-port-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.082929,
+                        6.662503
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "MV-02",
     coords: [73.0667, 6.6222],

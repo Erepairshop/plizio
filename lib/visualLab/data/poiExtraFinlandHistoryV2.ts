@@ -7,7 +7,7 @@ export const finlandHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Raadelman ranta",
-                  "text": "Raadelman ranta ist ein Strand nahe den Kuusisto Burgruinen.",
+                  "text": "Strand nahe der mittelalterlichen Burgruine Kuusisto.",
                   "category": "recreational",
                   "coords": [
                         22.461511,
@@ -52,7 +52,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Kuusiston kartano",
-                  "text": "Ein historisches Gutshaus und Museum in Kuusisto.",
+                  "text": "Herrenhausmuseum zur Geschichte des Gutes Kuusisto.",
                   "category": "museum",
                   "coords": [
                         22.466499,
@@ -61,7 +61,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Kaarina-Teatteri",
-                  "text": "Ein lokales Theater in der Gemeinde Kaarina bei Kuusisto.",
+                  "text": "Freilichttheater in den mittelalterlichen Ruinen der Burg Kuusisto.",
                   "category": "cultural",
                   "coords": [
                         22.373104,
@@ -72,7 +72,7 @@ export const finlandHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Raadelman ranta",
-                  "text": "Raadelman ranta egy strand a Kuusisto várromok közelében.",
+                  "text": "Strand a középkori Kuusisto várrom közelében.",
                   "category": "recreational",
                   "coords": [
                         22.461511,
@@ -117,7 +117,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Kuusiston kartano",
-                  "text": "Történelmi udvarház és múzeum Kuusistóban.",
+                  "text": "Kúriamúzeum a Kuusisto birtok történetéről.",
                   "category": "museum",
                   "coords": [
                         22.466499,
@@ -126,7 +126,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Kaarina-Teatteri",
-                  "text": "Helyi színház Kaarina községben, Kuusisto közelében.",
+                  "text": "Szabadtéri színház a kuusistói vár középkori romjai között.",
                   "category": "cultural",
                   "coords": [
                         22.373104,
@@ -137,7 +137,7 @@ export const finlandHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Raadelman ranta",
-                  "text": "Raadelman ranta este o plajă lângă ruinele castelului Kuusisto.",
+                  "text": "Plajă lângă ruinele medievale ale castelului Kuusisto.",
                   "category": "recreational",
                   "coords": [
                         22.461511,
@@ -182,7 +182,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Kuusiston kartano",
-                  "text": "Un conac istoric și muzeu situat în Kuusisto.",
+                  "text": "Muzeu conac care prezintă istoria moșiei Kuusisto.",
                   "category": "museum",
                   "coords": [
                         22.466499,
@@ -191,7 +191,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Kaarina-Teatteri",
-                  "text": "Un teatru local în Kaarina, situat lângă Kuusisto.",
+                  "text": "Teatru în aer liber printre ruinele medievale ale castelului Kuusisto.",
                   "category": "cultural",
                   "coords": [
                         22.373104,
@@ -202,7 +202,7 @@ export const finlandHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Raadelman ranta",
-                  "text": "Raadelman ranta is a beach near the Kuusisto Castle ruins.",
+                  "text": "Beach near the medieval Kuusisto castle ruins.",
                   "category": "recreational",
                   "coords": [
                         22.461511,
@@ -247,7 +247,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Kuusiston kartano",
-                  "text": "A historic manor and museum located in Kuusisto.",
+                  "text": "Manor museum showcasing the history of the Kuusisto estate.",
                   "category": "museum",
                   "coords": [
                         22.466499,
@@ -256,7 +256,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Kaarina-Teatteri",
-                  "text": "A local theatre in Kaarina, near Kuusisto.",
+                  "text": "Outdoor theatre set among the medieval ruins of Kuusisto Castle.",
                   "category": "cultural",
                   "coords": [
                         22.373104,
@@ -322,7 +322,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Maatalousmuseo",
-                  "text": "Ein Landwirtschaftsmuseum in der Region Liperi.",
+                  "text": "Landwirtschaftsmuseum auf dem alten Feld von Liperi.",
                   "category": "museum",
                   "coords": [
                         29.369428,
@@ -331,7 +331,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Luonnonsuojelualue",
-                  "text": "Ein Naturschutzgebiet in der Region Liperi.",
+                  "text": "Naturschutzgebiet, das die alte Feldlandschaft von Liperi bewahrt.",
                   "category": "natural",
                   "coords": [
                         29.41803,
@@ -340,7 +340,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Härkinlammen lintutorni",
-                  "text": "Ein Aussichtsturm zur Vogelbeobachtung am Härkinlampi in Liperi.",
+                  "text": "Vogelbeobachtungsturm mit Blick auf den Härkinlampi-See.",
                   "category": "natural",
                   "coords": [
                         29.423591,
@@ -349,7 +349,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Liperin kirkko",
-                  "text": "Die historische Hauptkirche der Gemeinde Liperi.",
+                  "text": "Eine historische Holzkirche in Liperi.",
                   "category": "religious",
                   "coords": [
                         29.387896,
@@ -378,7 +378,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Maatalousmuseo",
-                  "text": "Mezőgazdasági múzeum Liperi térségében.",
+                  "text": "Mezőgazdasági múzeum a liperi ősi mezőn.",
                   "category": "museum",
                   "coords": [
                         29.369428,
@@ -387,7 +387,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Luonnonsuojelualue",
-                  "text": "Természetvédelmi terület Liperi térségében.",
+                  "text": "Természetvédelmi terület, amely a liperi ősi mező táját védi.",
                   "category": "natural",
                   "coords": [
                         29.41803,
@@ -396,7 +396,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Härkinlammen lintutorni",
-                  "text": "Madármegfigyelő torony a Liperi-beli Härkinlampi-nál.",
+                  "text": "Madármegfigyelő torony a Härkinlampi-tóra nézve.",
                   "category": "natural",
                   "coords": [
                         29.423591,
@@ -405,7 +405,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Liperin kirkko",
-                  "text": "Liperi község történelmi főtemploma.",
+                  "text": "Történelmi fatemplom Liperissä.",
                   "category": "religious",
                   "coords": [
                         29.387896,
@@ -434,7 +434,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Maatalousmuseo",
-                  "text": "Un muzeu al agriculturii situat în regiunea Liperi.",
+                  "text": "Muzeu agricol amplasat pe vechiul câmp al Liperiului.",
                   "category": "museum",
                   "coords": [
                         29.369428,
@@ -443,7 +443,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Luonnonsuojelualue",
-                  "text": "O rezervație naturală situată în regiunea Liperi.",
+                  "text": "Rezervație naturală ce protejează peisajul câmpului străvechi al Liperiului.",
                   "category": "natural",
                   "coords": [
                         29.41803,
@@ -452,7 +452,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Härkinlammen lintutorni",
-                  "text": "Un turn de observare a păsărilor situat la Härkinlampi, în Liperi.",
+                  "text": "Turn de observare a păsărilor care domină lacul Härkinlampi.",
                   "category": "natural",
                   "coords": [
                         29.423591,
@@ -461,7 +461,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Liperin kirkko",
-                  "text": "Biserica principală istorică a municipiului Liperi.",
+                  "text": "O biserică istorică de lemn în Liperi.",
                   "category": "religious",
                   "coords": [
                         29.387896,
@@ -490,7 +490,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Maatalousmuseo",
-                  "text": "An agricultural museum located in the Liperi region.",
+                  "text": "Agricultural museum located on the ancient field site of Liperi.",
                   "category": "museum",
                   "coords": [
                         29.369428,
@@ -499,7 +499,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Luonnonsuojelualue",
-                  "text": "A nature reserve located in the Liperi region.",
+                  "text": "Nature reserve protecting the ancient field landscape of Liperi.",
                   "category": "natural",
                   "coords": [
                         29.41803,
@@ -508,7 +508,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Härkinlammen birdwatching tower",
-                  "text": "A birdwatching tower located at Härkinlampi in Liperi.",
+                  "text": "Birdwatching tower overlooking Härkinlampi lake.",
                   "category": "natural",
                   "coords": [
                         29.423591,
@@ -517,7 +517,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Liperin kirkko",
-                  "text": "The historic main church of the Liperi municipality.",
+                  "text": "A historic wooden church in Liperi.",
                   "category": "religious",
                   "coords": [
                         29.387896,
@@ -592,7 +592,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Tapaninvainion uimaranta",
-                  "text": "Ein Strand in Tapaninvainio bei Helsinki/Vantaa.",
+                  "text": "Badestrand am Tapaninvainio-Teich nahe der Pyhän Laurin Kirche.",
                   "category": "recreational",
                   "coords": [
                         24.977297,
@@ -601,7 +601,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Pakilan uimaranta",
-                  "text": "Strand im Stadtteil Pakila in der Nähe von Helsinki.",
+                  "text": "Badestrand am Pakila-Teich nahe der Pyhän Laurin Kirche.",
                   "category": "recreational",
                   "coords": [
                         24.972514,
@@ -621,7 +621,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Tapaninvainion uimaranta",
-                  "text": "Strand Tapaninvainio-ban, Helsinki/Vantaa közelében.",
+                  "text": "Strand a Tapaninvainio-tónál a Pyhän Laurin templom közelében.",
                   "category": "recreational",
                   "coords": [
                         24.977297,
@@ -630,7 +630,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Pakilan uimaranta",
-                  "text": "Strand Pakila városrészben, Helsinki közelében.",
+                  "text": "Strand a Pakila-tónál a Pyhän Laurin templom közelében.",
                   "category": "recreational",
                   "coords": [
                         24.972514,
@@ -650,7 +650,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Tapaninvainion uimaranta",
-                  "text": "O plajă în Tapaninvainio, lângă Helsinki/Vantaa.",
+                  "text": "Plajă pe iazul Tapaninvainio lângă Biserica Pyhän Laurin.",
                   "category": "recreational",
                   "coords": [
                         24.977297,
@@ -659,7 +659,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Pakilan uimaranta",
-                  "text": "Plajă în districtul Pakila, lângă Helsinki.",
+                  "text": "Plajă pe iazul Pakila lângă Biserica Pyhän Laurin.",
                   "category": "recreational",
                   "coords": [
                         24.972514,
@@ -679,7 +679,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Tapaninvainion uimaranta",
-                  "text": "A beach in Tapaninvainio near Helsinki/Vantaa.",
+                  "text": "Beach on Tapaninvainio pond near Pyhän Laurin Church.",
                   "category": "recreational",
                   "coords": [
                         24.977297,
@@ -688,7 +688,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Pakilan uimaranta",
-                  "text": "Beach in the Pakila district near Helsinki.",
+                  "text": "Beach on Pakila pond near Pyhän Laurin Church.",
                   "category": "recreational",
                   "coords": [
                         24.972514,
@@ -952,7 +952,7 @@ export const finlandHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Niuvan uimaranta",
-                  "text": "Ein Strand im Stadtteil Niuva in Kuopio.",
+                  "text": "Badestrand auf der Halbinsel Niuvanniemi nahe der Burg Muurahaisvuori.",
                   "category": "recreational",
                   "coords": [
                         27.62361,
@@ -961,7 +961,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Iso-Valkeisen uimaranta",
-                  "text": "Strand am See Iso-Valkeinen in Kuopio.",
+                  "text": "Badestrand am Iso-Valkeinen-See nahe der Burg Muurahaisvuori.",
                   "category": "recreational",
                   "coords": [
                         27.682965,
@@ -970,7 +970,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Keinänlahden uimaranta",
-                  "text": "Strand in der Bucht Keinänlahti bei Kuopio.",
+                  "text": "Badestrand an der Keinänlahti-Bucht nahe der Burg Muurahaisvuori.",
                   "category": "recreational",
                   "coords": [
                         27.626524,
@@ -979,7 +979,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Harjulanrannan veneranta",
-                  "text": "Strand bei Kuopio Muurahaisvuori.",
+                  "text": "Bootshafen am Harjulannanta nahe der Burg Muurahaisvuori.",
                   "category": "recreational",
                   "coords": [
                         27.631525,
@@ -988,7 +988,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Miettilänpellon ranta",
-                  "text": "Uferbereich bei der Festung Muurahaisvuori in Kuopio.",
+                  "text": "Badestrand auf dem Feld Miettilänpelto nahe der Burg Muurahaisvuori.",
                   "category": "recreational",
                   "coords": [
                         27.628771,
@@ -997,7 +997,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Sammakkolammen uimaranta",
-                  "text": "Sammakkolampi-Badestrand in der Nähe der Festung Kuopio Muurahaisvuori.",
+                  "text": "Badestrand am Sammakkolampi-Teich nahe der Burg Muurahaisvuori.",
                   "category": "recreational",
                   "coords": [
                         27.643376,
@@ -1017,7 +1017,7 @@ export const finlandHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Niuvan uimaranta",
-                  "text": "Strand Kuopio Niuva városrészében.",
+                  "text": "Strand a Niuvanniemi-félszigeten a Muurahaisvuori erőd közelében.",
                   "category": "recreational",
                   "coords": [
                         27.62361,
@@ -1026,7 +1026,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Iso-Valkeisen uimaranta",
-                  "text": "Strand az Iso-Valkeinen tónál, Kuopióban.",
+                  "text": "Strand az Iso-Valkeinen-tónál a Muurahaisvuori erőd közelében.",
                   "category": "recreational",
                   "coords": [
                         27.682965,
@@ -1035,7 +1035,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Keinänlahden uimaranta",
-                  "text": "Strand a Keinänlahti-öbölben, Kuopio mellett.",
+                  "text": "Strand a Keinänlahti-öbölben a Muurahaisvuori erőd közelében.",
                   "category": "recreational",
                   "coords": [
                         27.626524,
@@ -1044,7 +1044,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Harjulanrannan veneranta",
-                  "text": "Strand a kuopiói Muurahaisvuori erődnél.",
+                  "text": "Csónakkikötő a Harjulannantánál a Muurahaisvuori erőd közelében.",
                   "category": "recreational",
                   "coords": [
                         27.631525,
@@ -1053,7 +1053,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Miettilänpellon ranta",
-                  "text": "Vízpart a kuopiói Muurahaisvuori erődnél.",
+                  "text": "Strand a Miettilänpelto mezőn a Muurahaisvuori erőd közelében.",
                   "category": "recreational",
                   "coords": [
                         27.628771,
@@ -1062,7 +1062,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Sammakkolammen uimaranta",
-                  "text": "Sammakkolampi strand a Kuopio Muurahaisvuori erőd közelében.",
+                  "text": "Strand a Sammakkolampi-tónál a Muurahaisvuori erőd közelében.",
                   "category": "recreational",
                   "coords": [
                         27.643376,
@@ -1082,7 +1082,7 @@ export const finlandHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Niuvan uimaranta",
-                  "text": "O plajă în districtul Niuva din Kuopio.",
+                  "text": "Plajă pe peninsula Niuvanniemi lângă fortăreața Muurahaisvuori.",
                   "category": "recreational",
                   "coords": [
                         27.62361,
@@ -1091,7 +1091,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Iso-Valkeisen uimaranta",
-                  "text": "Plajă la lacul Iso-Valkeinen din Kuopio.",
+                  "text": "Plajă pe lacul Iso-Valkeinen lângă fortăreața Muurahaisvuori.",
                   "category": "recreational",
                   "coords": [
                         27.682965,
@@ -1100,7 +1100,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Keinänlahden uimaranta",
-                  "text": "Plajă în golful Keinänlahti lângă Kuopio.",
+                  "text": "Plajă pe golful Keinänlahti lângă fortăreața Muurahaisvuori.",
                   "category": "recreational",
                   "coords": [
                         27.626524,
@@ -1109,7 +1109,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Harjulanrannan veneranta",
-                  "text": "Plajă lângă fortăreața Muurahaisvuori din Kuopio.",
+                  "text": "Port pentru bărci la Harjulannanta lângă fortăreața Muurahaisvuori.",
                   "category": "recreational",
                   "coords": [
                         27.631525,
@@ -1118,7 +1118,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Miettilänpellon ranta",
-                  "text": "Zonă de țărm lângă fortăreața Muurahaisvuori din Kuopio.",
+                  "text": "Plajă pe câmpul Miettilänpelto lângă fortăreața Muurahaisvuori.",
                   "category": "recreational",
                   "coords": [
                         27.628771,
@@ -1127,7 +1127,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Sammakkolammen uimaranta",
-                  "text": "Plaja Sammakkolampi lângă fortăreața Kuopio Muurahaisvuori.",
+                  "text": "Plajă pe iazul Sammakkolampi lângă fortăreața Muurahaisvuori.",
                   "category": "recreational",
                   "coords": [
                         27.643376,
@@ -1147,7 +1147,7 @@ export const finlandHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Niuvan uimaranta",
-                  "text": "A beach in the Niuva district of Kuopio.",
+                  "text": "Beach on Niuvanniemi peninsula near Muurahaisvuori Fort.",
                   "category": "recreational",
                   "coords": [
                         27.62361,
@@ -1156,7 +1156,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Iso-Valkeisen uimaranta",
-                  "text": "Beach at lake Iso-Valkeinen in Kuopio.",
+                  "text": "Beach on Iso-Valkeinen lake near Muurahaisvuori Fort.",
                   "category": "recreational",
                   "coords": [
                         27.682965,
@@ -1165,7 +1165,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Keinänlahden uimaranta",
-                  "text": "Beach in the Keinänlahti bay near Kuopio.",
+                  "text": "Beach on Keinänlahti bay near Muurahaisvuori Fort.",
                   "category": "recreational",
                   "coords": [
                         27.626524,
@@ -1174,7 +1174,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Harjulanrannan veneranta",
-                  "text": "Beach near Kuopio Muurahaisvuori fort.",
+                  "text": "Boat harbor at Harjulannanta near Muurahaisvuori Fort.",
                   "category": "recreational",
                   "coords": [
                         27.631525,
@@ -1183,7 +1183,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Miettilänpellon ranta",
-                  "text": "Shore area by the Muurahaisvuori fortress in Kuopio.",
+                  "text": "Beach at Miettilänpelto field near Muurahaisvuori Fort.",
                   "category": "recreational",
                   "coords": [
                         27.628771,
@@ -1192,7 +1192,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Sammakkolammen uimaranta",
-                  "text": "Sammakkolampi beach near Kuopio Muurahaisvuori Fort.",
+                  "text": "Beach on Sammakkolampi pond near Muurahaisvuori Fort.",
                   "category": "recreational",
                   "coords": [
                         27.643376,
@@ -1254,7 +1254,520 @@ export const finlandHistoryV2: POI[] = [
     image: "/poi-images/finland-kuopio-muurahaisvuori-fort-history-v2.webp",
   },
   {
-    id: "finland-tammisaari-old-town-history-v2", "sights": {"de": [{"name": "Knipnäs strand", "text": "In unmittelbarer Nähe zur historischen Altstadt von Tammisaari lädt der Knipnäs strand zu einer gemütlichen Pause am finnischen Ufer ein. Die ruhige Umgebung eignet sich wunderbar zum Verweilen, Sonnenbaden oder für ein kühles Bad in der Natur. Ein frühzeitiges Ankommen sichert oft die besten Plätze für einen erholsamen Nachmittag.", "category": "recreational", "coords": [23.470894, 59.970751]}, {"name": "Smögen", "text": "Ein lokales Museum in der Altstadt von Tammisaari.", "category": "museum", "coords": [23.438051, 59.977392]}, {"name": "Tryckerimuséet", "text": "Ein Museum in Tammisaari, das der Geschichte der Druckkunst gewidmet ist.", "category": "museum", "coords": [23.463345, 59.982385]}, {"name": "Fågelskyddsomr.", "text": "Ein ausgewiesenes Vogelschutzgebiet in der Region Tammisaari.", "category": "natural", "coords": [23.409678, 59.981439]}, {"name": "Hvassbukstorget", "text": "Ein kleiner Strandabschnitt in der Altstadt von Tammisaari.", "category": "recreational", "coords": [23.430287, 59.97149]}, {"name": "Badstrand för hundar", "text": "Ein spezieller Strandabschnitt in Tammisaari, an dem Hunde schwimmen dürfen.", "category": "recreational", "coords": [23.429468, 59.974241]}, {"name": "Ormnäs campings badstrand", "text": "Der Badestrand beim Campingplatz Ormnäs in Tammisaari.", "category": "recreational", "coords": [23.446669, 59.965232]}, {"name": "Chappe", "text": "Ein Kunstmuseum in Tammisaari, das zeitgenössische Werke präsentiert.", "category": "museum", "coords": [23.43761, 59.973953]}, {"name": "Galleria W. Werner", "text": "Eine Kunstgalerie in Tammisaari, die lokale und regionale Werke ausstellt.", "category": "museum", "coords": [23.437581, 59.975813]}, {"name": "Brunnsberget", "text": "Brunnsberget ist ein natürlicher Aussichtspunkt mit Blick auf die Altstadt von Tammisaari in Finnland. Dieser Ort bietet Besuchern einen weiten Blick über die historische Stadt und ihre Umgebung. Es ist ein ausgezeichneter Ort, um die lokale Landschaft von oben zu betrachten.", "category": "natural", "coords": [23.433252, 59.967426]}, {"name": "Ekenäs kyrka", "text": "Die historische lutherische Kirche von Ekenäs im Zentrum der Altstadt.", "category": "religious", "coords": [23.433631, 59.973844]}, {"name": "Ekenäs svenska metodistförsamling", "text": "Die methodistische Kirche der schwedischsprachigen Gemeinde in Tammisaari.", "category": "religious", "coords": [23.436845, 59.977249]}, {"name": "Stadsfjärden", "text": "Eine Beobachtungshütte zur Vogelbeobachtung am Stadsfjärden in Tammisaari.", "category": "landmark", "coords": [23.409121, 59.980135]}, {"name": "Knipans badstrand", "text": "Ein beliebter Strand in Tammisaari, der ideal für einen entspannten Familientag am Meer ist.", "category": "family", "coords": [23.430304, 59.975807]}], "hu": [{"name": "Knipnäs strand", "text": "A történelmi Tammisaari óvárosától csak egy kőhajításnyira található Knipnäs strand hangulatos pihenésre csábít a finn tengerparton. A békés környezet kiválóan alkalmas az időtöltésre, napozásra vagy egy frissítő csobbanásra a természetben. A korai érkezés gyakran a legjobb helyeket biztosítja egy pihentető délutánhoz a vízparton.", "category": "recreational", "coords": [23.470894, 59.970751]}, {"name": "Smögen", "text": "Helyi múzeum Tammisaari óvárosában.", "category": "museum", "coords": [23.438051, 59.977392]}, {"name": "Tryckerimuséet", "text": "A nyomdászat történetét bemutató múzeum Tammisaari városában.", "category": "museum", "coords": [23.463345, 59.982385]}, {"name": "Fågelskyddsomr.", "text": "Kijelölt madárvédelmi terület Tammisaari régiójában.", "category": "natural", "coords": [23.409678, 59.981439]}, {"name": "Hvassbukstorget", "text": "Egy kisebb partszakasz Tammisaari óvárosi részén.", "category": "recreational", "coords": [23.430287, 59.97149]}, {"name": "Badstrand för hundar", "text": "Speciális kutyastrand Tammisaari városában, ahol az állatok is fürödhetnek.", "category": "recreational", "coords": [23.429468, 59.974241]}, {"name": "Ormnäs campings badstrand", "text": "Fürdőhely az Ormnäs kemping területén, Tammisaari városában.", "category": "recreational", "coords": [23.446669, 59.965232]}, {"name": "Chappe", "text": "Kortárs művészeti múzeum Tammisaari városában.", "category": "museum", "coords": [23.43761, 59.973953]}, {"name": "Galleria W. Werner", "text": "Művészeti galéria Tammisaariban, amely helyi alkotók műveit mutatja be.", "category": "museum", "coords": [23.437581, 59.975813]}, {"name": "Brunnsberget", "text": "A finnországi Tammisaari óvárosának területére néző Brunnsberget egy természetes kilátó. Ez a helyszín kiterjedt kilátást nyújt a látogatóknak a történelmi városra és annak környékére. Kiváló hely, hogy fentről csodáljuk meg a helyi tájat.", "category": "natural", "coords": [23.433252, 59.967426]}, {"name": "Ekenäs kyrka", "text": "Ekenäs történelmi evangélikus temploma az óváros központjában.", "category": "religious", "coords": [23.433631, 59.973844]}, {"name": "Ekenäs svenska metodistförsamling", "text": "A svéd nyelvű metodista közösség temploma Tammisaari városában.", "category": "religious", "coords": [23.436845, 59.977249]}, {"name": "Stadsfjärden", "text": "Madármegfigyelő kunyhó a Tammisaari melletti Stadsfjärden öbölben.", "category": "landmark", "coords": [23.409121, 59.980135]}, {"name": "Knipans badstrand", "text": "Népszerű strand Tammisaariban, amely ideális egy pihentető családi naphoz a tengerparton.", "category": "family", "coords": [23.430304, 59.975807]}], "ro": [{"name": "Knipnäs strand", "text": "La doar o aruncătură de băț de Centrul Vechi istoric din Tammisaari, plaja Knipnäs vă invită la o pauză confortabilă pe malul finlandez. Împrejurimile liniștite sunt minunat de potrivite pentru a zăbovi, a face plajă sau pentru o baie răcoritoare în natură. Sosirea devreme vă asigură adesea cele mai bune locuri pentru o după-amiază odihnitoare lângă apă.", "category": "recreational", "coords": [23.470894, 59.970751]}, {"name": "Smögen", "text": "Un muzeu local situat în orașul vechi din Tammisaari.", "category": "museum", "coords": [23.438051, 59.977392]}, {"name": "Tryckerimuséet", "text": "Un muzeu din Tammisaari dedicat istoriei tiparului.", "category": "museum", "coords": [23.463345, 59.982385]}, {"name": "Fågelskyddsomr.", "text": "O zonă desemnată pentru protecția păsărilor în regiunea Tammisaari.", "category": "natural", "coords": [23.409678, 59.981439]}, {"name": "Hvassbukstorget", "text": "O mică secțiune de plajă în orașul vechi din Tammisaari.", "category": "recreational", "coords": [23.430287, 59.97149]}, {"name": "Badstrand för hundar", "text": "O secțiune specială de plajă în Tammisaari unde câinii au voie să înoate.", "category": "recreational", "coords": [23.429468, 59.974241]}, {"name": "Ormnäs campings badstrand", "text": "Plaja de înot de la campingul Ormnäs din Tammisaari.", "category": "recreational", "coords": [23.446669, 59.965232]}, {"name": "Chappe", "text": "Un muzeu de artă din Tammisaari care prezintă lucrări contemporane.", "category": "museum", "coords": [23.43761, 59.973953]}, {"name": "Galleria W. Werner", "text": "O galerie de artă din Tammisaari care expune lucrări locale și regionale.", "category": "museum", "coords": [23.437581, 59.975813]}, {"name": "Brunnsberget", "text": "Având vedere la zona orașului vechi Tammisaari din Finlanda, Brunnsberget este un punct de belvedere natural. Această locație oferă vizitatorilor o vedere vastă asupra orașului istoric și a împrejurimilor sale. Este un loc excelent pentru a aprecia peisajul local de sus.", "category": "natural", "coords": [23.433252, 59.967426]}, {"name": "Ekenäs kyrka", "text": "Biserica istorică luterană din Ekenäs, situată în centrul orașului vechi.", "category": "religious", "coords": [23.433631, 59.973844]}, {"name": "Ekenäs svenska metodistförsamling", "text": "Biserica metodistă a comunității de limbă suedeză din Tammisaari.", "category": "religious", "coords": [23.436845, 59.977249]}, {"name": "Stadsfjärden", "text": "Un observator pentru păsări situat la Stadsfjärden în Tammisaari.", "category": "landmark", "coords": [23.409121, 59.980135]}, {"name": "Knipans badstrand", "text": "O plajă populară în Tammisaari, ideală pentru o zi relaxantă în familie la malul mării.", "category": "family", "coords": [23.430304, 59.975807]}], "en": [{"name": "Knipnäs strand", "text": "Just a stone's throw from the historic Old Town of Tammisaari, Knipnäs strand invites you for a cozy break along the Finnish shore. The tranquil surroundings are beautifully suited for lingering, sunbathing, or a refreshing dip in nature. Arriving early often secures the best spots for a restful afternoon by the water.", "category": "recreational", "coords": [23.470894, 59.970751]}, {"name": "Smögen", "text": "A local museum located in the old town of Tammisaari.", "category": "museum", "coords": [23.438051, 59.977392]}, {"name": "Tryckerimuséet", "text": "A museum in Tammisaari dedicated to the history of the printing industry.", "category": "museum", "coords": [23.463345, 59.982385]}, {"name": "Fågelskyddsomr.", "text": "A designated bird protection area in the Tammisaari region.", "category": "natural", "coords": [23.409678, 59.981439]}, {"name": "Hvassbukstorget", "text": "A small beach area located in the old town of Tammisaari.", "category": "recreational", "coords": [23.430287, 59.97149]}, {"name": "Swimming beach for dogs", "text": "A dedicated beach section in Tammisaari where dogs are allowed to swim.", "category": "recreational", "coords": [23.429468, 59.974241]}, {"name": "Ormnäs camping's swimming beach", "text": "The swimming beach at the Ormnäs camping site in Tammisaari.", "category": "recreational", "coords": [23.446669, 59.965232]}, {"name": "Chappe", "text": "An art museum in Tammisaari showcasing contemporary works.", "category": "museum", "coords": [23.43761, 59.973953]}, {"name": "Galleria W. Werner", "text": "An art gallery in Tammisaari exhibiting local and regional works.", "category": "museum", "coords": [23.437581, 59.975813]}, {"name": "Brunnsberget", "text": "Overlooking the area of Tammisaari Old Town in Finland, Brunnsberget is a natural viewpoint. This location provides visitors with a sweeping, expansive view over the historic town and its surroundings. It is an excellent spot to appreciate the local landscape from above.", "category": "natural", "coords": [23.433252, 59.967426]}, {"name": "Ekenäs kyrka", "text": "The historical Lutheran church of Ekenäs, located in the heart of the old town.", "category": "religious", "coords": [23.433631, 59.973844]}, {"name": "Ekenäs svenska metodistförsamling", "text": "The Methodist church of the Swedish-speaking congregation in Tammisaari.", "category": "religious", "coords": [23.436845, 59.977249]}, {"name": "Stadsfjärden", "text": "A bird hide for wildlife observation at Stadsfjärden in Tammisaari.", "category": "landmark", "coords": [23.409121, 59.980135]}, {"name": "Knipans badstrand", "text": "A popular beach in Tammisaari, ideal for a relaxing family day by the sea.", "category": "family", "coords": [23.430304, 59.975807]}]},
+    id: "finland-tammisaari-old-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Knipnäs strand",
+                  "text": "In unmittelbarer Nähe zur historischen Altstadt von Tammisaari lädt der Knipnäs strand zu einer gemütlichen Pause am finnischen Ufer ein. Die ruhige Umgebung eignet sich wunderbar zum Verweilen, Sonnenbaden oder für ein kühles Bad in der Natur. Ein frühzeitiges Ankommen sichert oft die besten Plätze für einen erholsamen Nachmittag.",
+                  "category": "recreational",
+                  "coords": [
+                        23.470894,
+                        59.970751
+                  ]
+            },
+            {
+                  "name": "Smögen",
+                  "text": "Museum über das Archipel- und Fischerleben in der Altstadt von Tammisaari.",
+                  "category": "museum",
+                  "coords": [
+                        23.438051,
+                        59.977392
+                  ]
+            },
+            {
+                  "name": "Tryckerimuséet",
+                  "text": "Ein Museum in Tammisaari, das der Geschichte der Druckkunst gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        23.463345,
+                        59.982385
+                  ]
+            },
+            {
+                  "name": "Fågelskyddsomr.",
+                  "text": "Ein ausgewiesenes Vogelschutzgebiet in der Region Tammisaari.",
+                  "category": "natural",
+                  "coords": [
+                        23.409678,
+                        59.981439
+                  ]
+            },
+            {
+                  "name": "Hvassbukstorget",
+                  "text": "Ein kleiner Strandabschnitt in der Altstadt von Tammisaari.",
+                  "category": "recreational",
+                  "coords": [
+                        23.430287,
+                        59.97149
+                  ]
+            },
+            {
+                  "name": "Badstrand för hundar",
+                  "text": "Ein spezieller Strandabschnitt in Tammisaari, an dem Hunde schwimmen dürfen.",
+                  "category": "recreational",
+                  "coords": [
+                        23.429468,
+                        59.974241
+                  ]
+            },
+            {
+                  "name": "Ormnäs campings badstrand",
+                  "text": "Badestrand am Campingplatz Ormnäs nahe der Altstadt von Tammisaari.",
+                  "category": "recreational",
+                  "coords": [
+                        23.446669,
+                        59.965232
+                  ]
+            },
+            {
+                  "name": "Chappe",
+                  "text": "Ein Kunstmuseum in Tammisaari, das zeitgenössische Werke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        23.43761,
+                        59.973953
+                  ]
+            },
+            {
+                  "name": "Galleria W. Werner",
+                  "text": "Eine Kunstgalerie in Tammisaari, die lokale und regionale Werke ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        23.437581,
+                        59.975813
+                  ]
+            },
+            {
+                  "name": "Brunnsberget",
+                  "text": "Brunnsberget ist ein natürlicher Aussichtspunkt mit Blick auf die Altstadt von Tammisaari in Finnland. Dieser Ort bietet Besuchern einen weiten Blick über die historische Stadt und ihre Umgebung. Es ist ein ausgezeichneter Ort, um die lokale Landschaft von oben zu betrachten.",
+                  "category": "natural",
+                  "coords": [
+                        23.433252,
+                        59.967426
+                  ]
+            },
+            {
+                  "name": "Ekenäs kyrka",
+                  "text": "Die historische lutherische Kirche von Ekenäs im Zentrum der Altstadt.",
+                  "category": "religious",
+                  "coords": [
+                        23.433631,
+                        59.973844
+                  ]
+            },
+            {
+                  "name": "Ekenäs svenska metodistförsamling",
+                  "text": "Die methodistische Kirche der schwedischsprachigen Gemeinde in Tammisaari.",
+                  "category": "religious",
+                  "coords": [
+                        23.436845,
+                        59.977249
+                  ]
+            },
+            {
+                  "name": "Stadsfjärden",
+                  "text": "Eine Beobachtungshütte zur Vogelbeobachtung am Stadsfjärden in Tammisaari.",
+                  "category": "landmark",
+                  "coords": [
+                        23.409121,
+                        59.980135
+                  ]
+            },
+            {
+                  "name": "Knipans badstrand",
+                  "text": "Ein beliebter Strand in Tammisaari, der ideal für einen entspannten Familientag am Meer ist.",
+                  "category": "family",
+                  "coords": [
+                        23.430304,
+                        59.975807
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Knipnäs strand",
+                  "text": "A történelmi Tammisaari óvárosától csak egy kőhajításnyira található Knipnäs strand hangulatos pihenésre csábít a finn tengerparton. A békés környezet kiválóan alkalmas az időtöltésre, napozásra vagy egy frissítő csobbanásra a természetben. A korai érkezés gyakran a legjobb helyeket biztosítja egy pihentető délutánhoz a vízparton.",
+                  "category": "recreational",
+                  "coords": [
+                        23.470894,
+                        59.970751
+                  ]
+            },
+            {
+                  "name": "Smögen",
+                  "text": "Múzeum a szigetvilág és halászati életről Tammisaari óvárosában.",
+                  "category": "museum",
+                  "coords": [
+                        23.438051,
+                        59.977392
+                  ]
+            },
+            {
+                  "name": "Tryckerimuséet",
+                  "text": "A nyomdászat történetét bemutató múzeum Tammisaari városában.",
+                  "category": "museum",
+                  "coords": [
+                        23.463345,
+                        59.982385
+                  ]
+            },
+            {
+                  "name": "Fågelskyddsomr.",
+                  "text": "Kijelölt madárvédelmi terület Tammisaari régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        23.409678,
+                        59.981439
+                  ]
+            },
+            {
+                  "name": "Hvassbukstorget",
+                  "text": "Egy kisebb partszakasz Tammisaari óvárosi részén.",
+                  "category": "recreational",
+                  "coords": [
+                        23.430287,
+                        59.97149
+                  ]
+            },
+            {
+                  "name": "Badstrand för hundar",
+                  "text": "Speciális kutyastrand Tammisaari városában, ahol az állatok is fürödhetnek.",
+                  "category": "recreational",
+                  "coords": [
+                        23.429468,
+                        59.974241
+                  ]
+            },
+            {
+                  "name": "Ormnäs campings badstrand",
+                  "text": "Strand az Ormnäs kempingnél Tammisaari óvárosa közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        23.446669,
+                        59.965232
+                  ]
+            },
+            {
+                  "name": "Chappe",
+                  "text": "Kortárs művészeti múzeum Tammisaari városában.",
+                  "category": "museum",
+                  "coords": [
+                        23.43761,
+                        59.973953
+                  ]
+            },
+            {
+                  "name": "Galleria W. Werner",
+                  "text": "Művészeti galéria Tammisaariban, amely helyi alkotók műveit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.437581,
+                        59.975813
+                  ]
+            },
+            {
+                  "name": "Brunnsberget",
+                  "text": "A finnországi Tammisaari óvárosának területére néző Brunnsberget egy természetes kilátó. Ez a helyszín kiterjedt kilátást nyújt a látogatóknak a történelmi városra és annak környékére. Kiváló hely, hogy fentről csodáljuk meg a helyi tájat.",
+                  "category": "natural",
+                  "coords": [
+                        23.433252,
+                        59.967426
+                  ]
+            },
+            {
+                  "name": "Ekenäs kyrka",
+                  "text": "Ekenäs történelmi evangélikus temploma az óváros központjában.",
+                  "category": "religious",
+                  "coords": [
+                        23.433631,
+                        59.973844
+                  ]
+            },
+            {
+                  "name": "Ekenäs svenska metodistförsamling",
+                  "text": "A svéd nyelvű metodista közösség temploma Tammisaari városában.",
+                  "category": "religious",
+                  "coords": [
+                        23.436845,
+                        59.977249
+                  ]
+            },
+            {
+                  "name": "Stadsfjärden",
+                  "text": "Madármegfigyelő kunyhó a Tammisaari melletti Stadsfjärden öbölben.",
+                  "category": "landmark",
+                  "coords": [
+                        23.409121,
+                        59.980135
+                  ]
+            },
+            {
+                  "name": "Knipans badstrand",
+                  "text": "Népszerű strand Tammisaariban, amely ideális egy pihentető családi naphoz a tengerparton.",
+                  "category": "family",
+                  "coords": [
+                        23.430304,
+                        59.975807
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Knipnäs strand",
+                  "text": "La doar o aruncătură de băț de Centrul Vechi istoric din Tammisaari, plaja Knipnäs vă invită la o pauză confortabilă pe malul finlandez. Împrejurimile liniștite sunt minunat de potrivite pentru a zăbovi, a face plajă sau pentru o baie răcoritoare în natură. Sosirea devreme vă asigură adesea cele mai bune locuri pentru o după-amiază odihnitoare lângă apă.",
+                  "category": "recreational",
+                  "coords": [
+                        23.470894,
+                        59.970751
+                  ]
+            },
+            {
+                  "name": "Smögen",
+                  "text": "Muzeu al vieții de arhipelag și pescuit în orașul vechi Tammisaari.",
+                  "category": "museum",
+                  "coords": [
+                        23.438051,
+                        59.977392
+                  ]
+            },
+            {
+                  "name": "Tryckerimuséet",
+                  "text": "Un muzeu din Tammisaari dedicat istoriei tiparului.",
+                  "category": "museum",
+                  "coords": [
+                        23.463345,
+                        59.982385
+                  ]
+            },
+            {
+                  "name": "Fågelskyddsomr.",
+                  "text": "O zonă desemnată pentru protecția păsărilor în regiunea Tammisaari.",
+                  "category": "natural",
+                  "coords": [
+                        23.409678,
+                        59.981439
+                  ]
+            },
+            {
+                  "name": "Hvassbukstorget",
+                  "text": "O mică secțiune de plajă în orașul vechi din Tammisaari.",
+                  "category": "recreational",
+                  "coords": [
+                        23.430287,
+                        59.97149
+                  ]
+            },
+            {
+                  "name": "Badstrand för hundar",
+                  "text": "O secțiune specială de plajă în Tammisaari unde câinii au voie să înoate.",
+                  "category": "recreational",
+                  "coords": [
+                        23.429468,
+                        59.974241
+                  ]
+            },
+            {
+                  "name": "Ormnäs campings badstrand",
+                  "text": "Plajă de înot la campingul Ormnäs lângă orașul vechi Tammisaari.",
+                  "category": "recreational",
+                  "coords": [
+                        23.446669,
+                        59.965232
+                  ]
+            },
+            {
+                  "name": "Chappe",
+                  "text": "Un muzeu de artă din Tammisaari care prezintă lucrări contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        23.43761,
+                        59.973953
+                  ]
+            },
+            {
+                  "name": "Galleria W. Werner",
+                  "text": "O galerie de artă din Tammisaari care expune lucrări locale și regionale.",
+                  "category": "museum",
+                  "coords": [
+                        23.437581,
+                        59.975813
+                  ]
+            },
+            {
+                  "name": "Brunnsberget",
+                  "text": "Având vedere la zona orașului vechi Tammisaari din Finlanda, Brunnsberget este un punct de belvedere natural. Această locație oferă vizitatorilor o vedere vastă asupra orașului istoric și a împrejurimilor sale. Este un loc excelent pentru a aprecia peisajul local de sus.",
+                  "category": "natural",
+                  "coords": [
+                        23.433252,
+                        59.967426
+                  ]
+            },
+            {
+                  "name": "Ekenäs kyrka",
+                  "text": "Biserica istorică luterană din Ekenäs, situată în centrul orașului vechi.",
+                  "category": "religious",
+                  "coords": [
+                        23.433631,
+                        59.973844
+                  ]
+            },
+            {
+                  "name": "Ekenäs svenska metodistförsamling",
+                  "text": "Biserica metodistă a comunității de limbă suedeză din Tammisaari.",
+                  "category": "religious",
+                  "coords": [
+                        23.436845,
+                        59.977249
+                  ]
+            },
+            {
+                  "name": "Stadsfjärden",
+                  "text": "Un observator pentru păsări situat la Stadsfjärden în Tammisaari.",
+                  "category": "landmark",
+                  "coords": [
+                        23.409121,
+                        59.980135
+                  ]
+            },
+            {
+                  "name": "Knipans badstrand",
+                  "text": "O plajă populară în Tammisaari, ideală pentru o zi relaxantă în familie la malul mării.",
+                  "category": "family",
+                  "coords": [
+                        23.430304,
+                        59.975807
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Knipnäs strand",
+                  "text": "Just a stone's throw from the historic Old Town of Tammisaari, Knipnäs strand invites you for a cozy break along the Finnish shore. The tranquil surroundings are beautifully suited for lingering, sunbathing, or a refreshing dip in nature. Arriving early often secures the best spots for a restful afternoon by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        23.470894,
+                        59.970751
+                  ]
+            },
+            {
+                  "name": "Smögen",
+                  "text": "Museum of archipelago life and fishing in Tammisaari Old Town.",
+                  "category": "museum",
+                  "coords": [
+                        23.438051,
+                        59.977392
+                  ]
+            },
+            {
+                  "name": "Tryckerimuséet",
+                  "text": "A museum in Tammisaari dedicated to the history of the printing industry.",
+                  "category": "museum",
+                  "coords": [
+                        23.463345,
+                        59.982385
+                  ]
+            },
+            {
+                  "name": "Fågelskyddsomr.",
+                  "text": "A designated bird protection area in the Tammisaari region.",
+                  "category": "natural",
+                  "coords": [
+                        23.409678,
+                        59.981439
+                  ]
+            },
+            {
+                  "name": "Hvassbukstorget",
+                  "text": "A small beach area located in the old town of Tammisaari.",
+                  "category": "recreational",
+                  "coords": [
+                        23.430287,
+                        59.97149
+                  ]
+            },
+            {
+                  "name": "Swimming beach for dogs",
+                  "text": "A dedicated beach section in Tammisaari where dogs are allowed to swim.",
+                  "category": "recreational",
+                  "coords": [
+                        23.429468,
+                        59.974241
+                  ]
+            },
+            {
+                  "name": "Ormnäs camping's swimming beach",
+                  "text": "Swimming beach at Ormnäs camping near Tammisaari Old Town.",
+                  "category": "recreational",
+                  "coords": [
+                        23.446669,
+                        59.965232
+                  ]
+            },
+            {
+                  "name": "Chappe",
+                  "text": "An art museum in Tammisaari showcasing contemporary works.",
+                  "category": "museum",
+                  "coords": [
+                        23.43761,
+                        59.973953
+                  ]
+            },
+            {
+                  "name": "Galleria W. Werner",
+                  "text": "An art gallery in Tammisaari exhibiting local and regional works.",
+                  "category": "museum",
+                  "coords": [
+                        23.437581,
+                        59.975813
+                  ]
+            },
+            {
+                  "name": "Brunnsberget",
+                  "text": "Overlooking the area of Tammisaari Old Town in Finland, Brunnsberget is a natural viewpoint. This location provides visitors with a sweeping, expansive view over the historic town and its surroundings. It is an excellent spot to appreciate the local landscape from above.",
+                  "category": "natural",
+                  "coords": [
+                        23.433252,
+                        59.967426
+                  ]
+            },
+            {
+                  "name": "Ekenäs kyrka",
+                  "text": "The historical Lutheran church of Ekenäs, located in the heart of the old town.",
+                  "category": "religious",
+                  "coords": [
+                        23.433631,
+                        59.973844
+                  ]
+            },
+            {
+                  "name": "Ekenäs svenska metodistförsamling",
+                  "text": "The Methodist church of the Swedish-speaking congregation in Tammisaari.",
+                  "category": "religious",
+                  "coords": [
+                        23.436845,
+                        59.977249
+                  ]
+            },
+            {
+                  "name": "Stadsfjärden",
+                  "text": "A bird hide for wildlife observation at Stadsfjärden in Tammisaari.",
+                  "category": "landmark",
+                  "coords": [
+                        23.409121,
+                        59.980135
+                  ]
+            },
+            {
+                  "name": "Knipans badstrand",
+                  "text": "A popular beach in Tammisaari, ideal for a relaxing family day by the sea.",
+                  "category": "family",
+                  "coords": [
+                        23.430304,
+                        59.975807
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Altstadt von Tammisaari", hu: "Tammisaari óvárosa", ro: "Centrul vechi din Tammisaari", en: "Tammisaari Old Town" },
@@ -1303,7 +1816,7 @@ export const finlandHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Ristikallion uimaranta",
-                  "text": "Ristikallion uimaranta liegt beim Lieto Vanhalinna Fort.",
+                  "text": "Badestrand am Ufer nahe Ristikallio, in der Nähe der Burg Vanhalinna.",
                   "category": "recreational",
                   "coords": [
                         22.397773,
@@ -1314,7 +1827,7 @@ export const finlandHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Ristikallion uimaranta",
-                  "text": "Ristikallion uimaranta a Lieto Vanhalinna erőd közelében fekszik.",
+                  "text": "Strand a parton Ristikallio közelében, a Vanhalinna erőd mellett.",
                   "category": "recreational",
                   "coords": [
                         22.397773,
@@ -1325,7 +1838,7 @@ export const finlandHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Ristikallion uimaranta",
-                  "text": "Ristikallion uimaranta se află lângă fortăreața Lieto Vanhalinna.",
+                  "text": "Plajă pe mal lângă Ristikallio, aproape de fortăreața Vanhalinna.",
                   "category": "recreational",
                   "coords": [
                         22.397773,
@@ -1336,7 +1849,7 @@ export const finlandHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Ristikallion uimaranta",
-                  "text": "Ristikallion uimaranta is near the Lieto Vanhalinna fort.",
+                  "text": "Beach on the shore near Ristikallio, close to Vanhalinna Fort.",
                   "category": "recreational",
                   "coords": [
                         22.397773,
@@ -1528,7 +2041,7 @@ export const finlandHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Leivolankylän uimaranta",
-                  "text": "Strand Leivolankylä bei Sotkamo.",
+                  "text": "Badestrand im Dorf Leivolankylä nahe der alten Kirche von Sotkamo.",
                   "category": "recreational",
                   "coords": [
                         28.339838,
@@ -1537,7 +2050,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Raunilan uimaranta",
-                  "text": "Strand Raunila bei Sotkamo.",
+                  "text": "Badestrand im Gebiet Raunila nahe der alten Kirche von Sotkamo.",
                   "category": "recreational",
                   "coords": [
                         28.335473,
@@ -1638,7 +2151,7 @@ export const finlandHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Leivolankylän uimaranta",
-                  "text": "Leivolankylä strand Sotkamo közelében.",
+                  "text": "Strand Leivolankylä faluban a Sotkamo régi templom közelében.",
                   "category": "recreational",
                   "coords": [
                         28.339838,
@@ -1647,7 +2160,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Raunilan uimaranta",
-                  "text": "Raunila strand Sotkamo közelében.",
+                  "text": "Strand a Raunila területen a Sotkamo régi templom közelében.",
                   "category": "recreational",
                   "coords": [
                         28.335473,
@@ -1748,7 +2261,7 @@ export const finlandHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Leivolankylän uimaranta",
-                  "text": "Plaja Leivolankylä lângă Sotkamo.",
+                  "text": "Plajă în satul Leivolankylä lângă Biserica Veche din Sotkamo.",
                   "category": "recreational",
                   "coords": [
                         28.339838,
@@ -1757,7 +2270,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Raunilan uimaranta",
-                  "text": "Plaja Raunila lângă Sotkamo.",
+                  "text": "Plajă în zona Raunila lângă Biserica Veche din Sotkamo.",
                   "category": "recreational",
                   "coords": [
                         28.335473,
@@ -1858,7 +2371,7 @@ export const finlandHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Leivolankylän uimaranta",
-                  "text": "Leivolankylä beach near Sotkamo.",
+                  "text": "Beach at Leivolankylä village near Sotkamo Old Church.",
                   "category": "recreational",
                   "coords": [
                         28.339838,
@@ -1867,7 +2380,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Raunilan uimaranta",
-                  "text": "Raunila beach near Sotkamo.",
+                  "text": "Beach at Raunila area near Sotkamo Old Church.",
                   "category": "recreational",
                   "coords": [
                         28.335473,
@@ -2014,7 +2527,7 @@ export const finlandHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Björnholmen",
-                  "text": "Björnholmen liegt bei der Pedersore Kirche in Pietarsaari.",
+                  "text": "Inselerholungsgebiet mit Stränden, über eine Brücke von der Pedersore Kirche erreichbar.",
                   "category": "recreational",
                   "coords": [
                         22.741308,
@@ -2034,7 +2547,7 @@ export const finlandHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Björnholmen",
-                  "text": "Björnholmen a Pietarsaari Pedersore templom közelében található.",
+                  "text": "Szigeti pihenőhely strandokkal, hídon át elérhető a Pedersore templomtól.",
                   "category": "recreational",
                   "coords": [
                         22.741308,
@@ -2054,7 +2567,7 @@ export const finlandHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Björnholmen",
-                  "text": "Björnholmen se află lângă biserica Pedersore din Pietarsaari.",
+                  "text": "Zonă de agrement pe insulă cu plaje, accesibilă printr-un pod de la Biserica Pedersore.",
                   "category": "recreational",
                   "coords": [
                         22.741308,
@@ -2074,7 +2587,7 @@ export const finlandHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Björnholmen",
-                  "text": "Björnholmen is near the Pedersore Church in Pietarsaari.",
+                  "text": "Island recreation area with beaches, accessible by a bridge from near Pedersore Church.",
                   "category": "recreational",
                   "coords": [
                         22.741308,
@@ -2230,7 +2743,7 @@ export const finlandHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Radansuu uimaranta",
-                  "text": "Radansuu uimaranta ist ein Strand in der Nähe von Iitti.",
+                  "text": "Badestrand an der Mündung des Radanjoki nahe der alten Kirche von Iitti.",
                   "category": "recreational",
                   "coords": [
                         26.387216,
@@ -2241,7 +2754,7 @@ export const finlandHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Radansuu uimaranta",
-                  "text": "A Radansuu uimaranta egy strand Iitti közelében.",
+                  "text": "Strand a Radanjoki folyó torkolatánál az Iitti régi templom közelében.",
                   "category": "recreational",
                   "coords": [
                         26.387216,
@@ -2252,7 +2765,7 @@ export const finlandHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Radansuu uimaranta",
-                  "text": "Radansuu uimaranta este o plajă lângă Iitti.",
+                  "text": "Plajă la vărsarea râului Radanjoki lângă Biserica Veche din Iitti.",
                   "category": "recreational",
                   "coords": [
                         26.387216,
@@ -2263,7 +2776,7 @@ export const finlandHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Radansuu uimaranta",
-                  "text": "Radansuu uimaranta is a beach near Iitti.",
+                  "text": "Beach at the mouth of Radanjoki river near Iitti Old Church.",
                   "category": "recreational",
                   "coords": [
                         26.387216,
@@ -2329,7 +2842,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Suojalampi",
-                  "text": "Suojalampi ist ein Strand in der Nähe von Mikkeli.",
+                  "text": "Bade-Teich (Suojalampi) nahe dem Hauptquartier-Museum von Mikkeli.",
                   "category": "recreational",
                   "coords": [
                         27.295102,
@@ -2349,7 +2862,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Suojalampi",
-                  "text": "A Suojalampi egy strand Mikkeli közelében.",
+                  "text": "Fürdő-tó (Suojalampi) a Mikkeli főhadiszállás múzeum közelében.",
                   "category": "recreational",
                   "coords": [
                         27.295102,
@@ -2369,7 +2882,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Suojalampi",
-                  "text": "Suojalampi este o plajă lângă Mikkeli.",
+                  "text": "Iaz de înot (Suojalampi) lângă Muzeul Cartierului General din Mikkeli.",
                   "category": "recreational",
                   "coords": [
                         27.295102,
@@ -2389,7 +2902,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Suojalampi",
-                  "text": "Suojalampi is a beach near Mikkeli.",
+                  "text": "Swimming pond (Suojalampi) near Mikkeli Headquarters Museum.",
                   "category": "recreational",
                   "coords": [
                         27.295102,
@@ -2500,7 +3013,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Forngårdenin talomuseo",
-                  "text": "Ein Freilichtmuseum für lokale Geschichte und bäuerliche Kultur.",
+                  "text": "Freilichtmuseum historischer Bauernhäuser an den Ruinen der Burg Raasepori.",
                   "category": "museum",
                   "coords": [
                         23.649288,
@@ -2518,7 +3031,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Persöfladan",
-                  "text": "Eine flache Küstenbucht in der Nähe von Snappertuna.",
+                  "text": "Eine geschützte Bucht im Schärengebiet von Raasepori, beliebt zum Bootfahren.",
                   "category": "landmark",
                   "coords": [
                         23.610795,
@@ -2527,7 +3040,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Snappertuna kyrka",
-                  "text": "Eine hölzerne Kreuzkirche aus dem 17. Jahrhundert.",
+                  "text": "Eine mittelalterliche Steinkirche in Snappertuna aus dem 15. Jahrhundert.",
                   "category": "religious",
                   "coords": [
                         23.652334,
@@ -2547,7 +3060,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Forngårdenin talomuseo",
-                  "text": "Helytörténeti és néprajzi szabadtéri múzeum.",
+                  "text": "Történelmi parasztházak szabadtéri múzeuma a raasepori vár romjainál.",
                   "category": "museum",
                   "coords": [
                         23.649288,
@@ -2565,7 +3078,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Persöfladan",
-                  "text": "Sekély tengerparti öböl Snappertuna közelében.",
+                  "text": "Védett öböl a Raasepori-szigetvilágban, népszerű hajózásra.",
                   "category": "landmark",
                   "coords": [
                         23.610795,
@@ -2574,7 +3087,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Snappertuna kyrka",
-                  "text": "17. századi fából készült keresztalaprajzú templom.",
+                  "text": "Középkori kőtemplom Snappertunában, a 15. századból.",
                   "category": "religious",
                   "coords": [
                         23.652334,
@@ -2594,7 +3107,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Forngårdenin talomuseo",
-                  "text": "Un muzeu în aer liber al istoriei locale și culturii rurale.",
+                  "text": "Muzeu în aer liber de clădiri agricole istorice la ruinele castelului Raasepori.",
                   "category": "museum",
                   "coords": [
                         23.649288,
@@ -2612,7 +3125,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Persöfladan",
-                  "text": "Un golf de coastă puțin adânc în apropiere de Snappertuna.",
+                  "text": "Un golf adăpostit în arhipelagul Raasepori, popular pentru plimbări cu barca.",
                   "category": "landmark",
                   "coords": [
                         23.610795,
@@ -2621,7 +3134,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Snappertuna kyrka",
-                  "text": "O biserică de lemn în formă de cruce din secolul al XVII-lea.",
+                  "text": "O biserică medievală de piatră în Snappertuna, datând din secolul al XV-lea.",
                   "category": "religious",
                   "coords": [
                         23.652334,
@@ -2641,7 +3154,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Forngårdenin talomuseo",
-                  "text": "An open-air museum of local history and rural culture.",
+                  "text": "Open-air museum of historic farm buildings at Raasepori Castle ruins.",
                   "category": "museum",
                   "coords": [
                         23.649288,
@@ -2659,7 +3172,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Persöfladan",
-                  "text": "A shallow coastal bay located near Snappertuna.",
+                  "text": "A sheltered bay in the Raasepori archipelago, popular for boating.",
                   "category": "landmark",
                   "coords": [
                         23.610795,
@@ -2668,7 +3181,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Snappertuna kyrka",
-                  "text": "A wooden cross-church dating from the 17th century.",
+                  "text": "A medieval stone church in Snappertuna, dating from the 15th century.",
                   "category": "religious",
                   "coords": [
                         23.652334,
@@ -2770,7 +3283,7 @@ export const finlandHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Vanhasatamanlahden uimaranta",
-                  "text": "Vanhasatamanlahden uimaranta ist ein Strand in der Nähe von Kokkola.",
+                  "text": "Badestrand an der Bucht Vanhasatamanlahti im Stadtteil Neristan von Kokkola.",
                   "category": "recreational",
                   "coords": [
                         23.113594,
@@ -2779,7 +3292,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Suntinsuun uimaranta",
-                  "text": "Badestrand Suntinsuun in Kokkola Neristan.",
+                  "text": "Badestrand am Suntinsuu (Bachmündung) im Stadtteil Neristan von Kokkola.",
                   "category": "recreational",
                   "coords": [
                         23.110867,
@@ -2923,7 +3436,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Päiväjärvi",
-                  "text": "Ein kleiner See im Stadtteil Neristan in Kokkola.",
+                  "text": "See Päiväjärvi im Stadtteil Neristan von Kokkola.",
                   "category": "natural",
                   "coords": [
                         23.246227,
@@ -2977,7 +3490,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Laaksopuisto",
-                  "text": "Ein schöner Spielplatz im Grünen in Kokkola.",
+                  "text": "Park in einem Tal (Laakso) im Stadtteil Neristan von Kokkola.",
                   "category": "family",
                   "coords": [
                         23.154123,
@@ -2995,7 +3508,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Riskanpuisto",
-                  "text": "Ein familienfreundlicher Park mit Spielgeräten in Kokkola.",
+                  "text": "Nach Riska benannter Park im Stadtteil Neristan von Kokkola.",
                   "category": "family",
                   "coords": [
                         23.10582,
@@ -3004,7 +3517,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Kaaripuisto",
-                  "text": "Ein gut ausgestatteter Spielplatz in Kokkola.",
+                  "text": "Bogenförmiger Park (Kaari) im Stadtteil Neristan von Kokkola.",
                   "category": "family",
                   "coords": [
                         23.123887,
@@ -3022,7 +3535,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Brennerinpuisto",
-                  "text": "Ein beliebter Treffpunkt für Familien in Kokkola.",
+                  "text": "Nach Brenner benannter Park im Stadtteil Neristan von Kokkola.",
                   "category": "family",
                   "coords": [
                         23.1072,
@@ -3031,7 +3544,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Kallenpuisto",
-                  "text": "Ein kleiner Spielplatz in der Nachbarschaft von Kokkola.",
+                  "text": "Nach Kalle benannter Park im Stadtteil Neristan von Kokkola.",
                   "category": "family",
                   "coords": [
                         23.157366,
@@ -3049,7 +3562,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Aurinkopuisto",
-                  "text": "Ein sonniger Ort für Kinder zum Spielen in Kokkola.",
+                  "text": "Sonniger Park (Aurinko) im Stadtteil Neristan von Kokkola.",
                   "category": "family",
                   "coords": [
                         23.162642,
@@ -3058,7 +3571,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Ulkometsän puisto",
-                  "text": "Ein ruhiger Spielplatz in einer Parkanlage in Kokkola.",
+                  "text": "Park im Außenwald (Ulkometsä) im Stadtteil Neristan von Kokkola.",
                   "category": "family",
                   "coords": [
                         23.149853,
@@ -3067,7 +3580,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Torkinmäenpuisto",
-                  "text": "Ein moderner Spielbereich für Kinder in Kokkola.",
+                  "text": "Park auf dem Hügel Torkinmäki im Stadtteil Neristan von Kokkola.",
                   "category": "family",
                   "coords": [
                         23.154554,
@@ -3076,7 +3589,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Alapuisto",
-                  "text": "Ein gut besuchter Spielplatz im Zentrum von Kokkola.",
+                  "text": "Unterer Park (Alapuisto) im Stadtteil Neristan von Kokkola.",
                   "category": "family",
                   "coords": [
                         23.168229,
@@ -3085,7 +3598,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Pajupillin puisto",
-                  "text": "Ein kleiner, feiner Spielplatz für Kinder in Kokkola.",
+                  "text": "Nach Pajupilli benannter Park im Stadtteil Neristan von Kokkola.",
                   "category": "family",
                   "coords": [
                         23.168376,
@@ -3103,7 +3616,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Säveltäjänpuisto",
-                  "text": "Ein thematisch gestalteter Spielplatz in Kokkola.",
+                  "text": "Komponistenpark (Säveltäjä) im Stadtteil Neristan von Kokkola.",
                   "category": "family",
                   "coords": [
                         23.148252,
@@ -3112,7 +3625,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Kulimäenpuisto",
-                  "text": "Ein schöner Ort für Familien im Stadtteil Kokkola.",
+                  "text": "Park auf dem Hügel Kulimäki im Stadtteil Neristan von Kokkola.",
                   "category": "family",
                   "coords": [
                         23.184066,
@@ -3121,7 +3634,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Karpalopuisto",
-                  "text": "Ein Spielplatz in Kokkola, umgeben von Natur.",
+                  "text": "Preiselbeerpark (Karpalo) im Stadtteil Neristan von Kokkola.",
                   "category": "family",
                   "coords": [
                         23.181571,
@@ -3130,7 +3643,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Korpinpuisto",
-                  "text": "Ein lokaler Spielpark für Kinder in Kokkola.",
+                  "text": "Rabenpark (Korppi) im Stadtteil Neristan von Kokkola.",
                   "category": "family",
                   "coords": [
                         23.180675,
@@ -3139,7 +3652,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Suomuurainpuisto",
-                  "text": "Ein einladender Spielbereich in Kokkola für Familien.",
+                  "text": "Moltebeerenpark (Suomuurain) im Stadtteil Neristan von Kokkola.",
                   "category": "family",
                   "coords": [
                         23.185332,
@@ -3150,7 +3663,7 @@ export const finlandHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Vanhasatamanlahden uimaranta",
-                  "text": "A Vanhasatamanlahden uimaranta egy strand Kokkola közelében.",
+                  "text": "Strand a Vanhasatamanlahti-öbölben Kokkola Neristan negyedében.",
                   "category": "recreational",
                   "coords": [
                         23.113594,
@@ -3159,7 +3672,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Suntinsuun uimaranta",
-                  "text": "Suntinsuun strand Kokkola Neristanban.",
+                  "text": "Strand a Suntinsuu-nál (patak torkolata) Kokkola Neristan negyedében.",
                   "category": "recreational",
                   "coords": [
                         23.110867,
@@ -3303,7 +3816,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Päiväjärvi",
-                  "text": "Egy kis tó Kokkola Neristan negyedében.",
+                  "text": "Päiväjärvi-tó Kokkola Neristan negyedében.",
                   "category": "natural",
                   "coords": [
                         23.246227,
@@ -3357,7 +3870,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Laaksopuisto",
-                  "text": "Szép játszótér zöld környezetben Kokkolában.",
+                  "text": "Park egy völgyben (Laakso) Kokkola Neristan negyedében.",
                   "category": "family",
                   "coords": [
                         23.154123,
@@ -3375,7 +3888,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Riskanpuisto",
-                  "text": "Családbarát park játszóeszközökkel Kokkolában.",
+                  "text": "Riskáról elnevezett park Kokkola Neristan negyedében.",
                   "category": "family",
                   "coords": [
                         23.10582,
@@ -3384,7 +3897,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Kaaripuisto",
-                  "text": "Jól felszerelt játszótér Kokkolában.",
+                  "text": "Ív alakú park (Kaari) Kokkola Neristan negyedében.",
                   "category": "family",
                   "coords": [
                         23.123887,
@@ -3402,7 +3915,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Brennerinpuisto",
-                  "text": "Népszerű találkozóhely családok számára Kokkolában.",
+                  "text": "Brennerről elnevezett park Kokkola Neristan negyedében.",
                   "category": "family",
                   "coords": [
                         23.1072,
@@ -3411,7 +3924,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Kallenpuisto",
-                  "text": "Egy kis játszótér Kokkola egyik környékén.",
+                  "text": "Kalléról elnevezett park Kokkola Neristan negyedében.",
                   "category": "family",
                   "coords": [
                         23.157366,
@@ -3429,7 +3942,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Aurinkopuisto",
-                  "text": "Napsütötte hely gyerekeknek a játékhoz Kokkolában.",
+                  "text": "Napos park (Aurinko) Kokkola Neristan negyedében.",
                   "category": "family",
                   "coords": [
                         23.162642,
@@ -3438,7 +3951,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Ulkometsän puisto",
-                  "text": "Nyugodt játszótér egy kokkolai parkban.",
+                  "text": "Park a külső erdőben (Ulkometsä) Kokkola Neristan negyedében.",
                   "category": "family",
                   "coords": [
                         23.149853,
@@ -3447,7 +3960,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Torkinmäenpuisto",
-                  "text": "Modern játszóhely gyerekeknek Kokkolában.",
+                  "text": "Park a Torkinmäki dombon Kokkola Neristan negyedében.",
                   "category": "family",
                   "coords": [
                         23.154554,
@@ -3456,7 +3969,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Alapuisto",
-                  "text": "Kedvelt játszótér Kokkola központjában.",
+                  "text": "Alsó park (Alapuisto) Kokkola Neristan negyedében.",
                   "category": "family",
                   "coords": [
                         23.168229,
@@ -3465,7 +3978,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Pajupillin puisto",
-                  "text": "Kicsi, de igényes játszótér gyerekeknek Kokkolában.",
+                  "text": "Pajupilliről elnevezett park Kokkola Neristan negyedében.",
                   "category": "family",
                   "coords": [
                         23.168376,
@@ -3483,7 +3996,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Säveltäjänpuisto",
-                  "text": "Tematikusan kialakított játszótér Kokkolában.",
+                  "text": "Zeneszerzői park (Säveltäjä) Kokkola Neristan negyedében.",
                   "category": "family",
                   "coords": [
                         23.148252,
@@ -3492,7 +4005,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Kulimäenpuisto",
-                  "text": "Szép hely családok számára Kokkola városrészében.",
+                  "text": "Park a Kulimäki dombon Kokkola Neristan negyedében.",
                   "category": "family",
                   "coords": [
                         23.184066,
@@ -3501,7 +4014,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Karpalopuisto",
-                  "text": "Játszótér Kokkolában, természettel körülvéve.",
+                  "text": "Áfonyapark (Karpalo) Kokkola Neristan negyedében.",
                   "category": "family",
                   "coords": [
                         23.181571,
@@ -3510,7 +4023,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Korpinpuisto",
-                  "text": "Helyi játszópark gyerekeknek Kokkolában.",
+                  "text": "Hollópark (Korppi) Kokkola Neristan negyedében.",
                   "category": "family",
                   "coords": [
                         23.180675,
@@ -3519,7 +4032,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Suomuurainpuisto",
-                  "text": "Hívogató játszóhely családok számára Kokkolában.",
+                  "text": "Törpeáfonya-park (Suomuurain) Kokkola Neristan negyedében.",
                   "category": "family",
                   "coords": [
                         23.185332,
@@ -3530,7 +4043,7 @@ export const finlandHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Vanhasatamanlahden uimaranta",
-                  "text": "Vanhasatamanlahden uimaranta este o plajă lângă Kokkola.",
+                  "text": "Plajă pe golful Vanhasatamanlahti în cartierul Neristan din Kokkola.",
                   "category": "recreational",
                   "coords": [
                         23.113594,
@@ -3539,7 +4052,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Suntinsuun uimaranta",
-                  "text": "Plaja Suntinsuun din Kokkola Neristan.",
+                  "text": "Plajă la Suntinsuu (gura pârâului) în cartierul Neristan din Kokkola.",
                   "category": "recreational",
                   "coords": [
                         23.110867,
@@ -3683,7 +4196,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Päiväjärvi",
-                  "text": "Un lac mic în districtul Neristan din Kokkola.",
+                  "text": "Lacul Päiväjärvi în cartierul Neristan din Kokkola.",
                   "category": "natural",
                   "coords": [
                         23.246227,
@@ -3737,7 +4250,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Laaksopuisto",
-                  "text": "Un teren de joacă plăcut într-o zonă verde din Kokkola.",
+                  "text": "Parc într-o vale (Laakso) în cartierul Neristan din Kokkola.",
                   "category": "family",
                   "coords": [
                         23.154123,
@@ -3755,7 +4268,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Riskanpuisto",
-                  "text": "Un parc primitor pentru familii cu echipamente de joacă în Kokkola.",
+                  "text": "Parc numit după Riska în cartierul Neristan din Kokkola.",
                   "category": "family",
                   "coords": [
                         23.10582,
@@ -3764,7 +4277,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Kaaripuisto",
-                  "text": "Un teren de joacă bine echipat în Kokkola.",
+                  "text": "Parc în formă de arc (Kaari) în cartierul Neristan din Kokkola.",
                   "category": "family",
                   "coords": [
                         23.123887,
@@ -3782,7 +4295,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Brennerinpuisto",
-                  "text": "Un loc de întâlnire popular pentru familii în Kokkola.",
+                  "text": "Parc numit după Brenner în cartierul Neristan din Kokkola.",
                   "category": "family",
                   "coords": [
                         23.1072,
@@ -3791,7 +4304,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Kallenpuisto",
-                  "text": "Un mic teren de joacă într-un cartier din Kokkola.",
+                  "text": "Parc numit după Kalle în cartierul Neristan din Kokkola.",
                   "category": "family",
                   "coords": [
                         23.157366,
@@ -3809,7 +4322,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Aurinkopuisto",
-                  "text": "Un loc însorit pentru copii unde se pot juca în Kokkola.",
+                  "text": "Parc însorit (Aurinko) în cartierul Neristan din Kokkola.",
                   "category": "family",
                   "coords": [
                         23.162642,
@@ -3818,7 +4331,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Ulkometsän puisto",
-                  "text": "Un teren de joacă liniștit într-un parc din Kokkola.",
+                  "text": "Parc în pădurea exterioară (Ulkometsä) în cartierul Neristan din Kokkola.",
                   "category": "family",
                   "coords": [
                         23.149853,
@@ -3827,7 +4340,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Torkinmäenpuisto",
-                  "text": "O zonă de joacă modernă pentru copii în Kokkola.",
+                  "text": "Parc pe dealul Torkinmäki în cartierul Neristan din Kokkola.",
                   "category": "family",
                   "coords": [
                         23.154554,
@@ -3836,7 +4349,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Alapuisto",
-                  "text": "Un teren de joacă popular în centrul orașului Kokkola.",
+                  "text": "Parc inferior (Alapuisto) în cartierul Neristan din Kokkola.",
                   "category": "family",
                   "coords": [
                         23.168229,
@@ -3845,7 +4358,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Pajupillin puisto",
-                  "text": "Un teren de joacă mic și cochet pentru copii în Kokkola.",
+                  "text": "Parc numit după Pajupilli în cartierul Neristan din Kokkola.",
                   "category": "family",
                   "coords": [
                         23.168376,
@@ -3863,7 +4376,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Säveltäjänpuisto",
-                  "text": "Un teren de joacă tematic în Kokkola.",
+                  "text": "Parc al compozitorilor (Säveltäjä) în cartierul Neristan din Kokkola.",
                   "category": "family",
                   "coords": [
                         23.148252,
@@ -3872,7 +4385,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Kulimäenpuisto",
-                  "text": "Un loc plăcut pentru familii în districtul Kokkola.",
+                  "text": "Parc pe dealul Kulimäki în cartierul Neristan din Kokkola.",
                   "category": "family",
                   "coords": [
                         23.184066,
@@ -3881,7 +4394,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Karpalopuisto",
-                  "text": "Un teren de joacă în Kokkola, înconjurat de natură.",
+                  "text": "Parc de merișoare (Karpalo) în cartierul Neristan din Kokkola.",
                   "category": "family",
                   "coords": [
                         23.181571,
@@ -3890,7 +4403,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Korpinpuisto",
-                  "text": "Un parc de joacă local pentru copii în Kokkola.",
+                  "text": "Parc de corbi (Korppi) în cartierul Neristan din Kokkola.",
                   "category": "family",
                   "coords": [
                         23.180675,
@@ -3899,7 +4412,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Suomuurainpuisto",
-                  "text": "O zonă de joacă primitoare pentru familii în Kokkola.",
+                  "text": "Parc de mure arctice (Suomuurain) în cartierul Neristan din Kokkola.",
                   "category": "family",
                   "coords": [
                         23.185332,
@@ -3910,7 +4423,7 @@ export const finlandHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Vanhasatamanlahden uimaranta",
-                  "text": "Vanhasatamanlahden uimaranta is a beach near Kokkola.",
+                  "text": "Beach on Vanhasatamanlahti bay in Kokkola's Neristan district.",
                   "category": "recreational",
                   "coords": [
                         23.113594,
@@ -3919,7 +4432,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Suntinsuun uimaranta",
-                  "text": "Suntinsuun beach in Kokkola Neristan.",
+                  "text": "Beach at Suntinsuu (stream mouth) in Kokkola's Neristan district.",
                   "category": "recreational",
                   "coords": [
                         23.110867,
@@ -4063,7 +4576,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Päiväjärvi",
-                  "text": "A small lake in the Neristan district of Kokkola.",
+                  "text": "Lake Päiväjärvi in Kokkola's Neristan district.",
                   "category": "natural",
                   "coords": [
                         23.246227,
@@ -4117,7 +4630,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Laaksopuisto",
-                  "text": "A nice playground in a green area in Kokkola.",
+                  "text": "Park in a valley (Laakso) in Kokkola's Neristan district.",
                   "category": "family",
                   "coords": [
                         23.154123,
@@ -4135,7 +4648,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Riskanpuisto",
-                  "text": "A family-friendly park with play equipment in Kokkola.",
+                  "text": "Park named after Riska in Kokkola's Neristan district.",
                   "category": "family",
                   "coords": [
                         23.10582,
@@ -4144,7 +4657,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Kaaripuisto",
-                  "text": "A well-equipped playground in Kokkola.",
+                  "text": "Arch-shaped park (Kaari) in Kokkola's Neristan district.",
                   "category": "family",
                   "coords": [
                         23.123887,
@@ -4162,7 +4675,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Brennerinpuisto",
-                  "text": "A popular meeting place for families in Kokkola.",
+                  "text": "Park named after Brenner in Kokkola's Neristan district.",
                   "category": "family",
                   "coords": [
                         23.1072,
@@ -4171,7 +4684,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Kallenpuisto",
-                  "text": "A small playground in a neighborhood of Kokkola.",
+                  "text": "Park named after Kalle in Kokkola's Neristan district.",
                   "category": "family",
                   "coords": [
                         23.157366,
@@ -4189,7 +4702,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Aurinkopuisto",
-                  "text": "A sunny spot for children to play in Kokkola.",
+                  "text": "Sunny park (Aurinko) in Kokkola's Neristan district.",
                   "category": "family",
                   "coords": [
                         23.162642,
@@ -4198,7 +4711,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Ulkometsän puisto",
-                  "text": "A quiet playground in a park area in Kokkola.",
+                  "text": "Park in the outer forest (Ulkometsä) in Kokkola's Neristan district.",
                   "category": "family",
                   "coords": [
                         23.149853,
@@ -4207,7 +4720,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Torkinmäenpuisto",
-                  "text": "A modern play area for children in Kokkola.",
+                  "text": "Park on Torkinmäki hill in Kokkola's Neristan district.",
                   "category": "family",
                   "coords": [
                         23.154554,
@@ -4216,7 +4729,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Alapuisto",
-                  "text": "A popular playground in the center of Kokkola.",
+                  "text": "Lower park (Alapuisto) in Kokkola's Neristan district.",
                   "category": "family",
                   "coords": [
                         23.168229,
@@ -4225,7 +4738,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Pajupillin puisto",
-                  "text": "A small, fine playground for children in Kokkola.",
+                  "text": "Park named after Pajupilli in Kokkola's Neristan district.",
                   "category": "family",
                   "coords": [
                         23.168376,
@@ -4243,7 +4756,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Säveltäjänpuisto",
-                  "text": "A themed playground in Kokkola.",
+                  "text": "Composer's park (Säveltäjä) in Kokkola's Neristan district.",
                   "category": "family",
                   "coords": [
                         23.148252,
@@ -4252,7 +4765,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Kulimäenpuisto",
-                  "text": "A nice place for families in the Kokkola district.",
+                  "text": "Park on Kulimäki hill in Kokkola's Neristan district.",
                   "category": "family",
                   "coords": [
                         23.184066,
@@ -4261,7 +4774,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Karpalopuisto",
-                  "text": "A playground in Kokkola, surrounded by nature.",
+                  "text": "Cranberry park (Karpalo) in Kokkola's Neristan district.",
                   "category": "family",
                   "coords": [
                         23.181571,
@@ -4270,7 +4783,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Korpinpuisto",
-                  "text": "A local play park for children in Kokkola.",
+                  "text": "Raven park (Korppi) in Kokkola's Neristan district.",
                   "category": "family",
                   "coords": [
                         23.180675,
@@ -4279,7 +4792,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Suomuurainpuisto",
-                  "text": "An inviting play area for families in Kokkola.",
+                  "text": "Cloudberry park (Suomuurain) in Kokkola's Neristan district.",
                   "category": "family",
                   "coords": [
                         23.185332,
@@ -4336,7 +4849,7 @@ export const finlandHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Mältinranta",
-                  "text": "Ein Strand am Ufer in Tampere.",
+                  "text": "Badestrand an den Tammerkoski-Stromschnellen im Finlayson-Viertel von Tampere.",
                   "category": "recreational",
                   "coords": [
                         23.755309,
@@ -4347,7 +4860,7 @@ export const finlandHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Mältinranta",
-                  "text": "Vízparti strand Tampere városában.",
+                  "text": "Strand a Tammerkoski-zúgónál Tampere Finlayson negyedében.",
                   "category": "recreational",
                   "coords": [
                         23.755309,
@@ -4358,7 +4871,7 @@ export const finlandHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Mältinranta",
-                  "text": "O plajă pe malul apei în Tampere.",
+                  "text": "Plajă pe repezișurile Tammerkoski în cartierul Finlayson din Tampere.",
                   "category": "recreational",
                   "coords": [
                         23.755309,
@@ -4369,7 +4882,7 @@ export const finlandHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Mältinranta",
-                  "text": "A beach on the waterfront in Tampere.",
+                  "text": "Beach on Tammerkoski rapids in Tampere's Finlayson district.",
                   "category": "recreational",
                   "coords": [
                         23.755309,
@@ -4426,7 +4939,7 @@ export const finlandHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Miemalan uimaranta",
-                  "text": "Miemalan Uimaranta ist ein Strand in der Nähe der Umgebung des Schlosses Hämeenlinna.",
+                  "text": "Strand am Miemala-See nahe der Burg Hämeenlinna.",
                   "category": "recreational",
                   "coords": [
                         24.499741,
@@ -4435,7 +4948,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Matkalammen uimaranta",
-                  "text": "Ein ruhiger Badeplatz nahe der Burg Hämeenlinna.",
+                  "text": "Strand am Matkalampi-See in der Umgebung der Burg Hämeenlinna.",
                   "category": "recreational",
                   "coords": [
                         24.535329,
@@ -4444,7 +4957,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Katumajärvi, OTK:n ranta",
-                  "text": "Strand am Katumajärvi bei Hämeenlinna.",
+                  "text": "Strand am Katumajärvi-See, der OTK-Gelegenschaft.",
                   "category": "recreational",
                   "coords": [
                         24.519725,
@@ -4455,7 +4968,7 @@ export const finlandHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Miemalan uimaranta",
-                  "text": "Miemalan Uimaranta egy strand Hämeenlinna várának közelében.",
+                  "text": "Miemala-tó partján, a hameenlinnalai vár közelében.",
                   "category": "recreational",
                   "coords": [
                         24.499741,
@@ -4464,7 +4977,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Matkalammen uimaranta",
-                  "text": "Csendes fürdőhely a Hämeenlinna vár közelében.",
+                  "text": "Matkalampi-tó partján, a hameenlinnalai vár közelében.",
                   "category": "recreational",
                   "coords": [
                         24.535329,
@@ -4473,7 +4986,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Katumajärvi, OTK:n ranta",
-                  "text": "Katumajärvi strand, Hämeenlinna közelében.",
+                  "text": "Katumajärvi-tó partján, az OTK területén.",
                   "category": "recreational",
                   "coords": [
                         24.519725,
@@ -4484,7 +4997,7 @@ export const finlandHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Miemalan uimaranta",
-                  "text": "Miemalan Uimaranta este o plajă situată în apropierea Castelului Hämeenlinna.",
+                  "text": "Plajă pe lacul Miemala, lângă castelul Hämeenlinna.",
                   "category": "recreational",
                   "coords": [
                         24.499741,
@@ -4493,7 +5006,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Matkalammen uimaranta",
-                  "text": "Un loc liniștit de scăldat lângă castelul Hämeenlinna.",
+                  "text": "Plajă pe lacul Matkalampi, lângă castelul Hämeenlinna.",
                   "category": "recreational",
                   "coords": [
                         24.535329,
@@ -4502,7 +5015,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Katumajärvi, OTK:n ranta",
-                  "text": "Plajă la Katumajärvi lângă Hämeenlinna.",
+                  "text": "Plajă pe lacul Katumajärvi, zona OTK.",
                   "category": "recreational",
                   "coords": [
                         24.519725,
@@ -4513,7 +5026,7 @@ export const finlandHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Miemalan uimaranta",
-                  "text": "Miemalan Uimaranta is a beach near the surroundings of Hämeenlinna Castle.",
+                  "text": "Beach on Lake Miemala near Hämeenlinna Castle.",
                   "category": "recreational",
                   "coords": [
                         24.499741,
@@ -4522,7 +5035,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Matkalammen uimaranta",
-                  "text": "A quiet bathing spot near Hämeenlinna Castle.",
+                  "text": "Beach on Lake Matkalampi near Hämeenlinna Castle.",
                   "category": "recreational",
                   "coords": [
                         24.535329,
@@ -4531,7 +5044,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Katumajärvi, OTK:n ranta",
-                  "text": "Beach at Katumajärvi near Hämeenlinna.",
+                  "text": "Beach on Lake Katumajärvi, OTK area.",
                   "category": "recreational",
                   "coords": [
                         24.519725,
@@ -4588,7 +5101,7 @@ export const finlandHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Mansikkaniemen uimaranta",
-                  "text": "Mansikkaniemen uimaranta ist ein Strand beim Alten Kirchpark von Iisalmi.",
+                  "text": "Strand an der Spitze Mansikkaniemi im Park der alten Kirche von Iisalmi.",
                   "category": "recreational",
                   "coords": [
                         27.16645,
@@ -4597,7 +5110,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Pöllösenlahti",
-                  "text": "Pöllösenlahti ist ein Strand in der Nähe von Iisalmi.",
+                  "text": "Strand in der Bucht Pöllösenlahti im Park der alten Kirche von Iisalmi.",
                   "category": "recreational",
                   "coords": [
                         27.221565,
@@ -4608,7 +5121,7 @@ export const finlandHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Mansikkaniemen uimaranta",
-                  "text": "Mansikkaniemen uimaranta egy strand az Iisalmi Öreg Templomkertnél.",
+                  "text": "Mansikkaniemi-foknál, az iisalmii ótemplom parkjában.",
                   "category": "recreational",
                   "coords": [
                         27.16645,
@@ -4617,7 +5130,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Pöllösenlahti",
-                  "text": "A Pöllösenlahti egy strand Iisalmi közelében.",
+                  "text": "Pöllösenlahti-öbölben, az iisalmii ótemplom parkjában.",
                   "category": "recreational",
                   "coords": [
                         27.221565,
@@ -4628,7 +5141,7 @@ export const finlandHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Mansikkaniemen uimaranta",
-                  "text": "Mansikkaniemen uimaranta este o plajă lângă Parcul Bisericii Vechi din Iisalmi.",
+                  "text": "Plajă la capul Mansikkaniemi, în parcul vechii biserici din Iisalmi.",
                   "category": "recreational",
                   "coords": [
                         27.16645,
@@ -4637,7 +5150,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Pöllösenlahti",
-                  "text": "Pöllösenlahti este o plajă lângă Iisalmi.",
+                  "text": "Plajă în golful Pöllösenlahti, în parcul vechii biserici din Iisalmi.",
                   "category": "recreational",
                   "coords": [
                         27.221565,
@@ -4648,7 +5161,7 @@ export const finlandHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Mansikkaniemen uimaranta",
-                  "text": "Mansikkaniemen uimaranta is a beach at Iisalmi Old Church Park.",
+                  "text": "Beach at Mansikkaniemi point in Iisalmi Old Church Park.",
                   "category": "recreational",
                   "coords": [
                         27.16645,
@@ -4657,7 +5170,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Pöllösenlahti",
-                  "text": "Pöllösenlahti is a beach near Iisalmi.",
+                  "text": "Beach in Pöllösenlahti bay, Iisalmi Old Church Park.",
                   "category": "recreational",
                   "coords": [
                         27.221565,
@@ -4714,7 +5227,7 @@ export const finlandHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Rampsinkarin uimaranta",
-                  "text": "Strand in Hamina.",
+                  "text": "Strand am Skerry Rampsinkari im Haminer Stadtplan.",
                   "category": "recreational",
                   "coords": [
                         27.183356,
@@ -4723,7 +5236,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Savilahden uimaranta",
-                  "text": "Savilahti-Badestrand in Hamina.",
+                  "text": "Strand an der Bucht Savilahti im Haminer Stadtplan.",
                   "category": "recreational",
                   "coords": [
                         27.184119,
@@ -4750,7 +5263,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Haminan kaupunginmuseo",
-                  "text": "Das Stadtmuseum von Hamina, untergebracht in einem historischen Gebäude.",
+                  "text": "Stadtmuseum von Hamina im Zentrum des kreisförmigen Stadtplans.",
                   "category": "museum",
                   "coords": [
                         27.199359,
@@ -4797,7 +5310,7 @@ export const finlandHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Rampsinkarin uimaranta",
-                  "text": "Strand Haminában.",
+                  "text": "Rampsinkari-sziklánál, a haminai városrendezési tervben.",
                   "category": "recreational",
                   "coords": [
                         27.183356,
@@ -4806,7 +5319,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Savilahden uimaranta",
-                  "text": "Savilahti strand Haminában.",
+                  "text": "Savilahti-öbölben, a haminai városrendezési tervben.",
                   "category": "recreational",
                   "coords": [
                         27.184119,
@@ -4833,7 +5346,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Haminan kaupunginmuseo",
-                  "text": "Hamina városi múzeuma, amely egy történelmi épületben található.",
+                  "text": "Hamina városi múzeuma a kör alakú városrendezési terv közepén.",
                   "category": "museum",
                   "coords": [
                         27.199359,
@@ -4880,7 +5393,7 @@ export const finlandHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Rampsinkarin uimaranta",
-                  "text": "Plajă în Hamina.",
+                  "text": "Plajă la insula Rampsinkari, în planul urbanistic al Haminei.",
                   "category": "recreational",
                   "coords": [
                         27.183356,
@@ -4889,7 +5402,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Savilahden uimaranta",
-                  "text": "Plaja Savilahti în Hamina.",
+                  "text": "Plajă în golful Savilahti, în planul urbanistic al Haminei.",
                   "category": "recreational",
                   "coords": [
                         27.184119,
@@ -4916,7 +5429,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Haminan kaupunginmuseo",
-                  "text": "Muzeul orașului Hamina, găzduit într-o clădire istorică.",
+                  "text": "Muzeul orașului Hamina în centrul planului urbanistic circular.",
                   "category": "museum",
                   "coords": [
                         27.199359,
@@ -4963,7 +5476,7 @@ export const finlandHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Rampsinkarin uimaranta",
-                  "text": "Beach in Hamina.",
+                  "text": "Beach at Rampsinkari skerry in Hamina Town Plan.",
                   "category": "recreational",
                   "coords": [
                         27.183356,
@@ -4972,7 +5485,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Savilahden uimaranta",
-                  "text": "Savilahti beach in Hamina.",
+                  "text": "Beach in Savilahti bay, Hamina Town Plan.",
                   "category": "recreational",
                   "coords": [
                         27.184119,
@@ -4999,7 +5512,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Haminan kaupunginmuseo",
-                  "text": "Hamina's city museum, housed in a historic building.",
+                  "text": "Hamina city museum in the centre of the circular town plan.",
                   "category": "museum",
                   "coords": [
                         27.199359,
@@ -5254,7 +5767,7 @@ export const finlandHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Jynkän uimaranta",
-                  "text": "Ein kleinerer Strand im Gebiet Jynkkä in Kuopio.",
+                  "text": "Strand am Kallavesi-See in der Nähe des Kuopio-Museums.",
                   "category": "recreational",
                   "coords": [
                         27.654139,
@@ -5263,7 +5776,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Särkilahden uimaranta",
-                  "text": "Särkilahden uimaranta ist ein Strand nahe dem Kuopio Museum.",
+                  "text": "Strand in der Bucht Särkilahti in der Nähe des Kuopio-Museums.",
                   "category": "recreational",
                   "coords": [
                         27.64336,
@@ -5272,7 +5785,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Rauhanlahden uimaranta",
-                  "text": "Rauhanlahden uimaranta ist ein Strand nahe dem Kuopio Museum.",
+                  "text": "Strand in der Bucht Rauhanlahti in der Nähe des Kuopio-Museums.",
                   "category": "recreational",
                   "coords": [
                         27.645022,
@@ -5281,7 +5794,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Paloniemen uimaranta",
-                  "text": "Strand nahe dem Museum in Kuopio.",
+                  "text": "Badestrand, eröffnet im Juni 2018.",
                   "category": "recreational",
                   "coords": [
                         27.68683,
@@ -5292,7 +5805,7 @@ export const finlandHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Jynkän uimaranta",
-                  "text": "Kisebb strand a kuopiói Jynkkä területen.",
+                  "text": "Kallavesi-tó partján, a kuopiói múzeum közelében.",
                   "category": "recreational",
                   "coords": [
                         27.654139,
@@ -5301,7 +5814,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Särkilahden uimaranta",
-                  "text": "Särkilahden uimaranta egy strand a Kuopio Múzeum közelében.",
+                  "text": "Särkilahti-öbölben, a kuopiói múzeum közelében.",
                   "category": "recreational",
                   "coords": [
                         27.64336,
@@ -5310,7 +5823,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Rauhanlahden uimaranta",
-                  "text": "Rauhanlahden uimaranta egy strand a Kuopio Múzeum közelében.",
+                  "text": "Rauhanlahti-öbölben, a kuopiói múzeum közelében.",
                   "category": "recreational",
                   "coords": [
                         27.645022,
@@ -5319,7 +5832,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Paloniemen uimaranta",
-                  "text": "Strand a kuopiói múzeum közelében.",
+                  "text": "Strand, 2018 júniusában nyílt meg.",
                   "category": "recreational",
                   "coords": [
                         27.68683,
@@ -5330,7 +5843,7 @@ export const finlandHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Jynkän uimaranta",
-                  "text": "O plajă mai mică în zona Jynkkä din Kuopio.",
+                  "text": "Plajă pe lacul Kallavesi, lângă Muzeul Kuopio.",
                   "category": "recreational",
                   "coords": [
                         27.654139,
@@ -5339,7 +5852,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Särkilahden uimaranta",
-                  "text": "Särkilahden uimaranta este o plajă situată lângă Muzeul din Kuopio.",
+                  "text": "Plajă în golful Särkilahti, lângă Muzeul Kuopio.",
                   "category": "recreational",
                   "coords": [
                         27.64336,
@@ -5348,7 +5861,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Rauhanlahden uimaranta",
-                  "text": "Rauhanlahden uimaranta este o plajă situată lângă Muzeul din Kuopio.",
+                  "text": "Plajă în golful Rauhanlahti, lângă Muzeul Kuopio.",
                   "category": "recreational",
                   "coords": [
                         27.645022,
@@ -5357,7 +5870,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Paloniemen uimaranta",
-                  "text": "Plajă lângă muzeul din Kuopio.",
+                  "text": "Plajă deschisă în iunie 2018.",
                   "category": "recreational",
                   "coords": [
                         27.68683,
@@ -5368,7 +5881,7 @@ export const finlandHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Jynkän uimaranta",
-                  "text": "A smaller beach in the Jynkkä area of Kuopio.",
+                  "text": "Beach on Lake Kallavesi near Kuopio Museum.",
                   "category": "recreational",
                   "coords": [
                         27.654139,
@@ -5377,7 +5890,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Särkilahden uimaranta",
-                  "text": "Särkilahden uimaranta is a beach near the Kuopio Museum.",
+                  "text": "Beach in Särkilahti bay near Kuopio Museum.",
                   "category": "recreational",
                   "coords": [
                         27.64336,
@@ -5386,7 +5899,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Rauhanlahden uimaranta",
-                  "text": "Rauhanlahden uimaranta is a beach near the Kuopio Museum.",
+                  "text": "Beach in Rauhanlahti bay near Kuopio Museum.",
                   "category": "recreational",
                   "coords": [
                         27.645022,
@@ -5395,7 +5908,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Paloniemen uimaranta",
-                  "text": "Beach near the museum in Kuopio.",
+                  "text": "Beach opened in June 2018.",
                   "category": "recreational",
                   "coords": [
                         27.68683,
@@ -5452,7 +5965,7 @@ export const finlandHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Kesäniemen uimaranta",
-                  "text": "Der Kesäniemen uimaranta liegt bei der Kirche von Kajaani.",
+                  "text": "Strand an der Spitze Kesäniemi in der Nähe der Kajaani-Kirche.",
                   "category": "recreational",
                   "coords": [
                         27.763322,
@@ -5463,7 +5976,7 @@ export const finlandHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Kesäniemen uimaranta",
-                  "text": "Kesäniemen uimaranta a kajaanii templom közelében található.",
+                  "text": "Kesäniemi-foknál, a kajaanii templom közelében.",
                   "category": "recreational",
                   "coords": [
                         27.763322,
@@ -5474,7 +5987,7 @@ export const finlandHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Kesäniemen uimaranta",
-                  "text": "Kesäniemen uimaranta se află lângă biserica din Kajaani.",
+                  "text": "Plajă la capul Kesäniemi, lângă biserica din Kajaani.",
                   "category": "recreational",
                   "coords": [
                         27.763322,
@@ -5485,7 +5998,7 @@ export const finlandHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Kesäniemen uimaranta",
-                  "text": "Kesäniemen uimaranta is near the church in Kajaani.",
+                  "text": "Beach at Kesäniemi point near Kajaani Church.",
                   "category": "recreational",
                   "coords": [
                         27.763322,
@@ -5542,7 +6055,7 @@ export const finlandHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Myllärinpuiston uimaranta",
-                  "text": "Strand bei der Kirche in Viitasaari.",
+                  "text": "Strand im Myllärinpuisto-Park in der Nähe der Viitasaari-Kirche.",
                   "category": "recreational",
                   "coords": [
                         25.84529,
@@ -5551,7 +6064,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Hiekan uimala",
-                  "text": "Strand Hiekan uimala in Viitasaari.",
+                  "text": "Sandstrand in Viitasaari in der Nähe der Kirche.",
                   "category": "recreational",
                   "coords": [
                         25.838182,
@@ -5560,7 +6073,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Kurkelan uimaranta",
-                  "text": "Strand Kurkela in Viitasaari.",
+                  "text": "Strand in der Bucht Kurkela in der Nähe der Viitasaari-Kirche.",
                   "category": "recreational",
                   "coords": [
                         25.829985,
@@ -5571,7 +6084,7 @@ export const finlandHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Myllärinpuiston uimaranta",
-                  "text": "Strand a Viitasaari templom közelében.",
+                  "text": "Myllärinpuisto parkban, a viitasaarii templom közelében.",
                   "category": "recreational",
                   "coords": [
                         25.84529,
@@ -5580,7 +6093,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Hiekan uimala",
-                  "text": "Hiekan uimala strand Viitasaariban.",
+                  "text": "Homokos strand Viitasaariban a templom közelében.",
                   "category": "recreational",
                   "coords": [
                         25.838182,
@@ -5589,7 +6102,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Kurkelan uimaranta",
-                  "text": "Kurkela strand Viitasaariban.",
+                  "text": "Kurkela-öbölben, a viitasaarii templom közelében.",
                   "category": "recreational",
                   "coords": [
                         25.829985,
@@ -5600,7 +6113,7 @@ export const finlandHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Myllärinpuiston uimaranta",
-                  "text": "Plajă lângă biserica din Viitasaari.",
+                  "text": "Plajă în parcul Myllärinpuisto, lângă biserica din Viitasaari.",
                   "category": "recreational",
                   "coords": [
                         25.84529,
@@ -5609,7 +6122,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Hiekan uimala",
-                  "text": "Plaja Hiekan uimala din Viitasaari.",
+                  "text": "Plajă de nisip în Viitasaari, lângă biserică.",
                   "category": "recreational",
                   "coords": [
                         25.838182,
@@ -5618,7 +6131,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Kurkelan uimaranta",
-                  "text": "Plaja Kurkela din Viitasaari.",
+                  "text": "Plajă în golful Kurkela, lângă biserica din Viitasaari.",
                   "category": "recreational",
                   "coords": [
                         25.829985,
@@ -5629,7 +6142,7 @@ export const finlandHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Myllärinpuiston uimaranta",
-                  "text": "Beach near the church in Viitasaari.",
+                  "text": "Beach in Myllärinpuisto park near Viitasaari Church.",
                   "category": "recreational",
                   "coords": [
                         25.84529,
@@ -5638,7 +6151,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Hiekan uimala",
-                  "text": "Hiekan uimala beach in Viitasaari.",
+                  "text": "Sandy beach in Viitasaari near the church.",
                   "category": "recreational",
                   "coords": [
                         25.838182,
@@ -5647,7 +6160,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Kurkelan uimaranta",
-                  "text": "Kurkela beach in Viitasaari.",
+                  "text": "Beach in Kurkela bay near Viitasaari Church.",
                   "category": "recreational",
                   "coords": [
                         25.829985,
@@ -5758,7 +6271,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Kesäranta",
-                  "text": "Kesäranta ist ein Strand nahe der Klosterkirche von Naantali.",
+                  "text": "Sommerstrand am Schärenmeer bei der Naantali-Klosterkirche.",
                   "category": "recreational",
                   "coords": [
                         21.93953,
@@ -5778,7 +6291,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Kesäranta",
-                  "text": "Kesäranta egy strand a naantali kolostortemplom közelében.",
+                  "text": "Nyári strand a Naantali kolostortemplom mellett a Saaristomeri partján.",
                   "category": "recreational",
                   "coords": [
                         21.93953,
@@ -5798,7 +6311,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Kesäranta",
-                  "text": "Kesäranta este o plajă situată lângă biserica mănăstirii din Naantali.",
+                  "text": "Plajă de vară pe coasta Mării Arhipelag, lângă Biserica Conventuală din Naantali.",
                   "category": "recreational",
                   "coords": [
                         21.93953,
@@ -5818,7 +6331,7 @@ export const finlandHistoryV2: POI[] = [
             },
             {
                   "name": "Kesäranta",
-                  "text": "Kesäranta is a beach near the Naantali Convent Church.",
+                  "text": "Summer beach on the Archipelago Sea near Naantali Convent Church.",
                   "category": "recreational",
                   "coords": [
                         21.93953,

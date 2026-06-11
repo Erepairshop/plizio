@@ -7,7 +7,7 @@ export const norwayEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Greipingen naturreservat",
-                  "text": "Ein Naturschutzgebiet in der Nähe der Gasanlage Kollsnes.",
+                  "text": "Naturschutzgebiet neben der Gasanlage Kollsnes, seit 1987 geschützt.",
                   "category": "natural",
                   "coords": [
                         4.831884,
@@ -16,7 +16,7 @@ export const norwayEconomicV2: POI[] = [
             },
             {
                   "name": "Ullebroten naturreservat",
-                  "text": "Ein geschütztes Naturareal bei der Kollsnes-Gasanlage.",
+                  "text": "Naturschutzgebiet Ullebroten bei der Kollsnes-Gasanlage, eingerichtet 1987.",
                   "category": "natural",
                   "coords": [
                         4.85038,
@@ -25,7 +25,7 @@ export const norwayEconomicV2: POI[] = [
             },
             {
                   "name": "Rambogen",
-                  "text": "Ein Aussichtspunkt in der Nähe der Kollsnes-Gasanlage.",
+                  "text": "Das Naturgebiet Rambogen nahe der Gasanlage Kollsnes.",
                   "category": "natural",
                   "coords": [
                         4.860071,
@@ -54,7 +54,7 @@ export const norwayEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Greipingen naturreservat",
-                  "text": "Természetvédelmi terület a Kollsnes gázüzem közelében.",
+                  "text": "Természetvédelmi terület a Kollsnes-i gázüzem mellett, 1987 óta védett.",
                   "category": "natural",
                   "coords": [
                         4.831884,
@@ -63,7 +63,7 @@ export const norwayEconomicV2: POI[] = [
             },
             {
                   "name": "Ullebroten naturreservat",
-                  "text": "Védett természeti terület a Kollsnes gázüzemnél.",
+                  "text": "Ullebroten természetvédelmi terület a Kollsnes-i gázüzem közelében, 1987-ben létesítve.",
                   "category": "natural",
                   "coords": [
                         4.85038,
@@ -72,7 +72,7 @@ export const norwayEconomicV2: POI[] = [
             },
             {
                   "name": "Rambogen",
-                  "text": "Kilátópont a Kollsnes gázüzem közelében.",
+                  "text": "A Rambogen természeti terület a Kollsnes gázüzem közelében.",
                   "category": "natural",
                   "coords": [
                         4.860071,
@@ -101,7 +101,7 @@ export const norwayEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Greipingen naturreservat",
-                  "text": "O rezervație naturală în apropierea stației de gaz Kollsnes.",
+                  "text": "Rezervație naturală lângă instalația de gaze Kollsnes, protejată din 1987.",
                   "category": "natural",
                   "coords": [
                         4.831884,
@@ -110,7 +110,7 @@ export const norwayEconomicV2: POI[] = [
             },
             {
                   "name": "Ullebroten naturreservat",
-                  "text": "O zonă naturală protejată lângă stația de gaz Kollsnes.",
+                  "text": "Rezervația naturală Ullebroten lângă instalația de gaze Kollsnes, înființată în 1987.",
                   "category": "natural",
                   "coords": [
                         4.85038,
@@ -119,7 +119,7 @@ export const norwayEconomicV2: POI[] = [
             },
             {
                   "name": "Rambogen",
-                  "text": "Un punct de belvedere în apropierea stației de gaz Kollsnes.",
+                  "text": "Zona naturală Rambogen lângă uzina de gaz Kollsnes.",
                   "category": "natural",
                   "coords": [
                         4.860071,
@@ -148,7 +148,7 @@ export const norwayEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Greipingen naturreservat",
-                  "text": "A nature reserve located near the Kollsnes Gas Plant.",
+                  "text": "Nature reserve adjacent to the Kollsnes gas plant, protected since 1987.",
                   "category": "natural",
                   "coords": [
                         4.831884,
@@ -157,7 +157,7 @@ export const norwayEconomicV2: POI[] = [
             },
             {
                   "name": "Ullebroten naturreservat",
-                  "text": "A protected nature area by the Kollsnes Gas Plant.",
+                  "text": "Ullebroten nature reserve near the Kollsnes gas plant, established in 1987.",
                   "category": "natural",
                   "coords": [
                         4.85038,
@@ -166,7 +166,7 @@ export const norwayEconomicV2: POI[] = [
             },
             {
                   "name": "Rambogen",
-                  "text": "A viewpoint located near the Kollsnes Gas Plant.",
+                  "text": "Rambogen natural area near Kollsnes gas plant.",
                   "category": "natural",
                   "coords": [
                         4.860071,
@@ -349,7 +349,7 @@ export const norwayEconomicV2: POI[] = [
             },
             {
                   "name": "Rødåsen",
-                  "text": "Eine lokale Naturattraktion in der Gegend von Orkanger.",
+                  "text": "Der Hügel Rødåsen im Industriegebiet Orkanger.",
                   "category": "landmark",
                   "coords": [
                         9.873246,
@@ -423,7 +423,7 @@ export const norwayEconomicV2: POI[] = [
             },
             {
                   "name": "Rødåsen",
-                  "text": "Helyi természeti látványosság Orkanger környékén.",
+                  "text": "A Rødåsen domb az Orkanger ipari parkban.",
                   "category": "landmark",
                   "coords": [
                         9.873246,
@@ -497,7 +497,7 @@ export const norwayEconomicV2: POI[] = [
             },
             {
                   "name": "Rødåsen",
-                  "text": "O atracție naturală locală în zona Orkanger.",
+                  "text": "Dealul Rødåsen în parcul industrial Orkanger.",
                   "category": "landmark",
                   "coords": [
                         9.873246,
@@ -571,7 +571,7 @@ export const norwayEconomicV2: POI[] = [
             },
             {
                   "name": "Rødåsen",
-                  "text": "A local natural attraction in the Orkanger area.",
+                  "text": "Rødåsen hill landmark in Orkanger industry park.",
                   "category": "landmark",
                   "coords": [
                         9.873246,
@@ -979,7 +979,7 @@ export const norwayEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Kongsvinger festning",
-                  "text": "Die Festung Kongsvinger ist eine historische Verteidigungsanlage, die über der Stadt Kongsvinger thront.",
+                  "text": "Die Kongsvinger festning ist eine sternförmige Festung aus dem 17. Jahrhundert auf einem Hügel über Kongsvinger.",
                   "category": "fortress",
                   "coords": [
                         12.011818,
@@ -1044,7 +1044,7 @@ export const norwayEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Kongsvinger festning",
-                  "text": "Kongsvinger erődítménye egy történelmi védmű, amely Kongsvinger városa felett magasodik.",
+                  "text": "A Kongsvinger festning egy 17. századi csillag alakú erőd a Kongsvinger fölé magasodó dombon.",
                   "category": "fortress",
                   "coords": [
                         12.011818,
@@ -1109,7 +1109,7 @@ export const norwayEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Kongsvinger festning",
-                  "text": "Cetatea Kongsvinger este o fortificație istorică ce domină orașul Kongsvinger.",
+                  "text": "Kongsvinger festning este o fortăreață în formă de stea din secolul al XVII-lea, pe un deal deasupra Kongsvingerului.",
                   "category": "fortress",
                   "coords": [
                         12.011818,
@@ -1174,7 +1174,7 @@ export const norwayEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Kongsvinger festning",
-                  "text": "Kongsvinger festning is a historic fortress overlooking the town of Kongsvinger.",
+                  "text": "Kongsvinger festning is a 17th-century star-shaped fortress on a hill above Kongsvinger.",
                   "category": "fortress",
                   "coords": [
                         12.011818,
@@ -1357,7 +1357,7 @@ export const norwayEconomicV2: POI[] = [
             },
             {
                   "name": "Aslaksvikjo",
-                  "text": "Aslaksvikjo ist ein Strand in Stord Maritime Industry.",
+                  "text": "Die Bucht Aslaksvikjo als Erholungsgebiet bei der Stord-Schifffahrtsindustrie.",
                   "category": "recreational",
                   "coords": [
                         5.520862,
@@ -1476,7 +1476,7 @@ export const norwayEconomicV2: POI[] = [
             },
             {
                   "name": "Aslaksvikjo",
-                  "text": "Az Aslaksvikjo egy strand Stord Maritime Industry területén.",
+                  "text": "Az Aslaksvikjo-öböl rekreációs terület a Stord tengeri ipar közelében.",
                   "category": "recreational",
                   "coords": [
                         5.520862,
@@ -1595,7 +1595,7 @@ export const norwayEconomicV2: POI[] = [
             },
             {
                   "name": "Aslaksvikjo",
-                  "text": "Aslaksvikjo este o plajă din Stord Maritime Industry.",
+                  "text": "Golful Aslaksvikjo, zonă de agrement lângă industria maritimă Stord.",
                   "category": "recreational",
                   "coords": [
                         5.520862,
@@ -1714,7 +1714,7 @@ export const norwayEconomicV2: POI[] = [
             },
             {
                   "name": "Aslaksvikjo",
-                  "text": "Aslaksvikjo is a beach in Stord Maritime Industry.",
+                  "text": "Aslaksvikjo bay recreational area near Stord maritime industry.",
                   "category": "recreational",
                   "coords": [
                         5.520862,
@@ -2635,7 +2635,7 @@ export const norwayEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Stranda",
-                  "text": "Ein Strand bei Hammerfest.",
+                  "text": "Der Strand Stranda als Erholungsgebiet nahe dem Gasterminal Hammerfest.",
                   "category": "recreational",
                   "coords": [
                         23.706052,
@@ -2644,7 +2644,7 @@ export const norwayEconomicV2: POI[] = [
             },
             {
                   "name": "Storvannet",
-                  "text": "Ein See bei Hammerfest.",
+                  "text": "Der See Storvannet nahe dem Gasterminal Hammerfest.",
                   "category": "landmark",
                   "coords": [
                         23.703509,
@@ -2655,7 +2655,7 @@ export const norwayEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Stranda",
-                  "text": "Egy strand Hammerfest közelében.",
+                  "text": "A Stranda strand rekreációs terület a Hammerfest gázterminál közelében.",
                   "category": "recreational",
                   "coords": [
                         23.706052,
@@ -2664,7 +2664,7 @@ export const norwayEconomicV2: POI[] = [
             },
             {
                   "name": "Storvannet",
-                  "text": "Egy tó Hammerfest közelében.",
+                  "text": "A Storvannet-tó a Hammerfest gázterminál közelében.",
                   "category": "landmark",
                   "coords": [
                         23.703509,
@@ -2675,7 +2675,7 @@ export const norwayEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Stranda",
-                  "text": "O plajă lângă Hammerfest.",
+                  "text": "Plaja Stranda, zonă de agrement lângă terminalul de gaz Hammerfest.",
                   "category": "recreational",
                   "coords": [
                         23.706052,
@@ -2684,7 +2684,7 @@ export const norwayEconomicV2: POI[] = [
             },
             {
                   "name": "Storvannet",
-                  "text": "Un lac lângă Hammerfest.",
+                  "text": "Lacul Storvannet lângă terminalul de gaz Hammerfest.",
                   "category": "landmark",
                   "coords": [
                         23.703509,
@@ -2695,7 +2695,7 @@ export const norwayEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Stranda",
-                  "text": "A beach near Hammerfest.",
+                  "text": "Stranda beach recreational area near Hammerfest gas terminal.",
                   "category": "recreational",
                   "coords": [
                         23.706052,
@@ -2704,7 +2704,7 @@ export const norwayEconomicV2: POI[] = [
             },
             {
                   "name": "Storvannet",
-                  "text": "A lake located near Hammerfest.",
+                  "text": "Storvannet lake near Hammerfest gas terminal.",
                   "category": "landmark",
                   "coords": [
                         23.703509,

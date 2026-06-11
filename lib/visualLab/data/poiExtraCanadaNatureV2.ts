@@ -16,7 +16,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Nub Peak",
-                  "text": "Nub Peak ist ein Gipfel im Mount-Assiniboine-Gebiet.",
+                  "text": "Ein markanter Gipfel im Assiniboine Provincial Park der kanadischen Rocky Mountains.",
                   "category": "natural",
                   "coords": [
                         -115.657868,
@@ -25,7 +25,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "The Nublet",
-                  "text": "The Nublet ist ein kleinerer Gipfel in der Nähe des Nub Peak.",
+                  "text": "Ein Nebengipfel des Nub Peak im Assiniboine-Gebirge.",
                   "category": "natural",
                   "coords": [
                         -115.649715,
@@ -34,7 +34,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Cave Mountain",
-                  "text": "Cave Mountain ist ein Gipfel, der nach seinen höhlenartigen Merkmalen benannt ist.",
+                  "text": "Ein Berg mit Höhlen im Assiniboine Provincial Park.",
                   "category": "natural",
                   "coords": [
                         -115.5975,
@@ -43,7 +43,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Strom",
-                  "text": "Mount Strom ist ein Berg im Mount-Assiniboine-Gebiet.",
+                  "text": "Ein Gipfel im Assiniboine Provincial Park.",
                   "category": "natural",
                   "coords": [
                         -115.6658,
@@ -52,7 +52,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Indian Peak",
-                  "text": "Indian Peak ist ein Gipfel mit einem indigenen Namen.",
+                  "text": "Ein nach Indian Peak benannter Gipfel im Assiniboine-Gebirge.",
                   "category": "natural",
                   "coords": [
                         -115.750114,
@@ -61,7 +61,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Assiniboine Provincial Park",
-                  "text": "Der Mount Assiniboine Provincial Park ist ein Provinzpark in British Columbia, bekannt für den Mount Assiniboine.",
+                  "text": "Ein Provinzpark in British Columbia um den Mount Assiniboine, bekannt als 'Matterhorn der Rockies'.",
                   "category": "natural",
                   "coords": [
                         -115.760902,
@@ -81,7 +81,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Nub Peak",
-                  "text": "A Nub Peak egy csúcs a Mount Assiniboine területen.",
+                  "text": "Egy kiemelkedő csúcs az Assiniboine Provincial Parkban, a kanadai Sziklás-hegységben.",
                   "category": "natural",
                   "coords": [
                         -115.657868,
@@ -90,7 +90,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "The Nublet",
-                  "text": "A The Nublet egy kisebb csúcs a Nub Peak közelében.",
+                  "text": "A Nub Peak mellékcsúcsa az Assiniboine-hegységben.",
                   "category": "natural",
                   "coords": [
                         -115.649715,
@@ -99,7 +99,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Cave Mountain",
-                  "text": "A Cave Mountain egy csúcs, melyet barlangszerű jellemzőiről neveztek el.",
+                  "text": "Egy barlangokkal rendelkező hegy az Assiniboine Provincial Parkban.",
                   "category": "natural",
                   "coords": [
                         -115.5975,
@@ -108,7 +108,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Strom",
-                  "text": "A Mount Strom egy hegy a Mount Assiniboine területen.",
+                  "text": "Egy csúcs az Assiniboine Provincial Parkban.",
                   "category": "natural",
                   "coords": [
                         -115.6658,
@@ -117,7 +117,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Indian Peak",
-                  "text": "Az Indian Peak egy csúcs őslakos névvel.",
+                  "text": "Egy Indian Peak nevű csúcs az Assiniboine-hegységben.",
                   "category": "natural",
                   "coords": [
                         -115.750114,
@@ -126,7 +126,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Assiniboine Provincial Park",
-                  "text": "A Mount Assiniboine Provincial Park egy tartományi park Brit-Kolumbiában, híres a Mount Assiniboine-ról.",
+                  "text": "Egy tartományi park Brit Columbiában a Mount Assiniboine körül, a 'Sziklás-hegység Matterhornja' néven ismert.",
                   "category": "natural",
                   "coords": [
                         -115.760902,
@@ -146,7 +146,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Nub Peak",
-                  "text": "Nub Peak este un vârf în zona Mount Assiniboine.",
+                  "text": "Un vârf proeminent în Parcul Provincial Assiniboine din Munții Stâncoși canadieni.",
                   "category": "natural",
                   "coords": [
                         -115.657868,
@@ -155,7 +155,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "The Nublet",
-                  "text": "The Nublet este un vârf mai mic lângă Nub Peak.",
+                  "text": "Un vârf secundar al Nub Peak în masivul Assiniboine.",
                   "category": "natural",
                   "coords": [
                         -115.649715,
@@ -164,7 +164,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Cave Mountain",
-                  "text": "Cave Mountain este un vârf numit după caracteristicile sale asemănătoare peșterilor.",
+                  "text": "Un munte cu peșteri în Parcul Provincial Assiniboine.",
                   "category": "natural",
                   "coords": [
                         -115.5975,
@@ -173,7 +173,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Strom",
-                  "text": "Mount Strom este un munte în zona Mount Assiniboine.",
+                  "text": "Un vârf în Parcul Provincial Assiniboine.",
                   "category": "natural",
                   "coords": [
                         -115.6658,
@@ -182,7 +182,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Indian Peak",
-                  "text": "Indian Peak este un vârf cu nume indigen.",
+                  "text": "Un vârf numit Indian Peak în masivul Assiniboine.",
                   "category": "natural",
                   "coords": [
                         -115.750114,
@@ -191,7 +191,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Assiniboine Provincial Park",
-                  "text": "Parcul Provincial Mount Assiniboine este un parc provincial în Columbia Britanică, cunoscut pentru Mount Assiniboine.",
+                  "text": "Un parc provincial în Columbia Britanică, în jurul Muntelui Assiniboine, cunoscut drept 'Matterhorn al Munților Stâncoși'.",
                   "category": "natural",
                   "coords": [
                         -115.760902,
@@ -211,7 +211,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Nub Peak",
-                  "text": "Nub Peak is a peak in the Mount Assiniboine area.",
+                  "text": "A prominent peak in Assiniboine Provincial Park in the Canadian Rockies.",
                   "category": "natural",
                   "coords": [
                         -115.657868,
@@ -220,7 +220,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "The Nublet",
-                  "text": "The Nublet is a smaller peak near Nub Peak.",
+                  "text": "A subsidiary peak of Nub Peak in the Assiniboine range.",
                   "category": "natural",
                   "coords": [
                         -115.649715,
@@ -229,7 +229,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Cave Mountain",
-                  "text": "Cave Mountain is a peak named for its cave-like features.",
+                  "text": "A mountain with caves in Assiniboine Provincial Park.",
                   "category": "natural",
                   "coords": [
                         -115.5975,
@@ -238,7 +238,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Strom",
-                  "text": "Mount Strom is a mountain in the Mount Assiniboine area.",
+                  "text": "A peak in Assiniboine Provincial Park.",
                   "category": "natural",
                   "coords": [
                         -115.6658,
@@ -247,7 +247,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Indian Peak",
-                  "text": "Indian Peak is a peak with an indigenous name.",
+                  "text": "A peak named Indian Peak in the Assiniboine range.",
                   "category": "natural",
                   "coords": [
                         -115.750114,
@@ -256,7 +256,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Assiniboine Provincial Park",
-                  "text": "Mount Assiniboine Provincial Park is a provincial park in British Columbia known for Mount Assiniboine.",
+                  "text": "A provincial park in British Columbia around Mount Assiniboine, known as the 'Matterhorn of the Rockies'.",
                   "category": "natural",
                   "coords": [
                         -115.760902,
@@ -388,7 +388,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       "de": [
             {
                   "name": "Newcombe Peak",
-                  "text": "Newcombe Peak ist ein Gipfel in Haida Gwaii.",
+                  "text": "Ein nach Newcombe benannter Gipfel auf den Gwaii-Inseln (Haida Gwaii).",
                   "category": "natural",
                   "coords": [
                         -131.987781,
@@ -397,7 +397,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mosquito Lake Recreation Site",
-                  "text": "Mosquito Lake Recreation Site ist ein Campingplatz in Haida Gwaii.",
+                  "text": "Ein Erholungsgebiet am Mosquito Lake auf den Gwaii-Inseln.",
                   "category": "landmark",
                   "coords": [
                         -132.070873,
@@ -406,7 +406,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Sɢ̱aay Taw Siiwaay K'adjuu Heritage Site/Conservancy",
-                  "text": "Sɢ̱aay Taw Siiwaay K'adjuu Heritage Site/Conservancy ist ein Naturschutzgebiet in Haida Gwaii.",
+                  "text": "Ein Naturerbe-Schutzgebiet auf den Gwaii-Inseln mit kulturellen und ökologischen Werten.",
                   "category": "natural",
                   "coords": [
                         -132.06305,
@@ -417,7 +417,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       "hu": [
             {
                   "name": "Newcombe Peak",
-                  "text": "A Newcombe Peak egy csúcs Haida Gwaii-n.",
+                  "text": "Egy Newcombe-ról elnevezett csúcs a Gwaii-szigeteken (Haida Gwaii).",
                   "category": "natural",
                   "coords": [
                         -131.987781,
@@ -426,7 +426,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mosquito Lake Recreation Site",
-                  "text": "A Mosquito Lake Recreation Site egy kemping Haida Gwaii-n.",
+                  "text": "Egy pihenőhely a Mosquito-tónál a Gwaii-szigeteken.",
                   "category": "landmark",
                   "coords": [
                         -132.070873,
@@ -435,7 +435,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Sɢ̱aay Taw Siiwaay K'adjuu Heritage Site/Conservancy",
-                  "text": "A Sɢ̱aay Taw Siiwaay K'adjuu Heritage Site/Conservancy egy természetvédelmi terület Haida Gwaii-n.",
+                  "text": "Egy természeti örökségvédelmi terület a Gwaii-szigeteken, amely kulturális és ökológiai értékeket véd.",
                   "category": "natural",
                   "coords": [
                         -132.06305,
@@ -446,7 +446,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       "ro": [
             {
                   "name": "Newcombe Peak",
-                  "text": "Newcombe Peak este un vârf în Haida Gwaii.",
+                  "text": "Un vârf numit după Newcombe pe insulele Gwaii (Haida Gwaii).",
                   "category": "natural",
                   "coords": [
                         -131.987781,
@@ -455,7 +455,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mosquito Lake Recreation Site",
-                  "text": "Mosquito Lake Recreation Site este un loc de campare în Haida Gwaii.",
+                  "text": "Un loc de agrement pe lacul Mosquito din Insulele Gwaii.",
                   "category": "landmark",
                   "coords": [
                         -132.070873,
@@ -464,7 +464,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Sɢ̱aay Taw Siiwaay K'adjuu Heritage Site/Conservancy",
-                  "text": "Sɢ̱aay Taw Siiwaay K'adjuu Heritage Site/Conservancy este o rezervație naturală în Haida Gwaii.",
+                  "text": "O arie naturală protejată pe Insulele Gwaii, care protejează valori culturale și ecologice.",
                   "category": "natural",
                   "coords": [
                         -132.06305,
@@ -475,7 +475,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       "en": [
             {
                   "name": "Newcombe Peak",
-                  "text": "Newcombe Peak is a peak in Haida Gwaii.",
+                  "text": "A peak named after Newcombe on the Gwaii Islands (Haida Gwaii).",
                   "category": "natural",
                   "coords": [
                         -131.987781,
@@ -484,7 +484,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mosquito Lake Recreation Site",
-                  "text": "Mosquito Lake Recreation Site is a camp site in Haida Gwaii.",
+                  "text": "A recreation site on Mosquito Lake in the Gwaii Islands.",
                   "category": "landmark",
                   "coords": [
                         -132.070873,
@@ -493,7 +493,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Sɢ̱aay Taw Siiwaay K'adjuu Heritage Site/Conservancy",
-                  "text": "Sɢ̱aay Taw Siiwaay K'adjuu Heritage Site/Conservancy is a nature reserve in Haida Gwaii.",
+                  "text": "A natural heritage conservancy on the Gwaii Islands, protecting cultural and ecological values.",
                   "category": "natural",
                   "coords": [
                         -132.06305,
@@ -554,7 +554,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Old Radio Building",
-                  "text": "Eine Attraktion im Pacific Rim National Park.",
+                  "text": "Ein historisches Funkhaus-Wahrzeichen im Rim National Park Forest.",
                   "category": "landmark",
                   "coords": [
                         -125.820123,
@@ -563,7 +563,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Radar Hill",
-                  "text": "Ein Hügel im Pacific Rim National Park.",
+                  "text": "Ein Hügel mit einer ehemaligen Radarstation im Pacific Rim National Park Reserve.",
                   "category": "natural",
                   "coords": [
                         -125.841275,
@@ -572,7 +572,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Vargas Cone",
-                  "text": "Ein Gipfel im Pacific Rim National Park.",
+                  "text": "Ein Vulkankegel im Pacific Rim National Park Reserve.",
                   "category": "natural",
                   "coords": [
                         -125.867184,
@@ -581,7 +581,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Kwisitis Beach",
-                  "text": "Ein Strand im Pacific Rim National Park.",
+                  "text": "Ein Erholungsstrand an der Küste des Rim National Park Forest.",
                   "category": "recreational",
                   "coords": [
                         -125.676193,
@@ -590,7 +590,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Wickaninnish Beach",
-                  "text": "Ein Strand im Pacific Rim National Park.",
+                  "text": "Ein Sandstrand an der Westküste von Vancouver Island im Pacific Rim National Park Reserve.",
                   "category": "recreational",
                   "coords": [
                         -125.683526,
@@ -599,7 +599,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "South Beach",
-                  "text": "Ein Strand im Pacific Rim National Park.",
+                  "text": "South Beach, ein sandiger Erholungsstrand im Rim National Park Forest.",
                   "category": "recreational",
                   "coords": [
                         -125.67605,
@@ -608,7 +608,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Long Beach",
-                  "text": "Ein Strand im Pacific Rim National Park.",
+                  "text": "Ein langer Sandstrand im Pacific Rim National Park Reserve.",
                   "category": "recreational",
                   "coords": [
                         -125.76077,
@@ -617,7 +617,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Grice Bay",
-                  "text": "Eine Bucht im Pacific Rim National Park.",
+                  "text": "Eine Bucht im Pacific Rim National Park Reserve.",
                   "category": "landmark",
                   "coords": [
                         -125.745803,
@@ -626,7 +626,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Schooner Cove",
-                  "text": "Eine Bucht im Pacific Rim National Park.",
+                  "text": "Eine kleine Bucht (Cove) im Pacific Rim National Park Reserve.",
                   "category": "landmark",
                   "coords": [
                         -125.803726,
@@ -635,7 +635,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Schooner Cove Beach",
-                  "text": "Ein Strand im Pacific Rim National Park.",
+                  "text": "Schooner Cove Beach, ein malerischer Strand im Rim National Park Forest.",
                   "category": "recreational",
                   "coords": [
                         -125.801412,
@@ -644,7 +644,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Pacific Rim National Park Reserve - Long Beach Unit",
-                  "text": "Ein Naturschutzgebiet im Pacific Rim National Park.",
+                  "text": "Der Long Beach-Abschnitt des Pacific Rim National Park Reserve mit weitläufigen Sandstränden.",
                   "category": "natural",
                   "coords": [
                         -125.736362,
@@ -662,7 +662,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Combers Beach",
-                  "text": "Combers Beach ist ein Sandstrand im Pacific-Rim-Nationalpark.",
+                  "text": "Ein breiter Strand mit Treibholz und Dünen im Pacific Rim National Park Reserve.",
                   "category": "recreational",
                   "coords": [
                         -125.71439,
@@ -691,7 +691,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Old Radio Building",
-                  "text": "Egy látványosság a Pacific Rim Nemzeti Parkban.",
+                  "text": "Egy történelmi rádióépület nevezetesség a Rim National Park Forestben.",
                   "category": "landmark",
                   "coords": [
                         -125.820123,
@@ -700,7 +700,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Radar Hill",
-                  "text": "Egy domb a Pacific Rim Nemzeti Parkban.",
+                  "text": "Egy domb egykori radarállomással a Pacific Rim National Park Reserve területén.",
                   "category": "natural",
                   "coords": [
                         -125.841275,
@@ -709,7 +709,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Vargas Cone",
-                  "text": "Egy csúcs a Pacific Rim Nemzeti Parkban.",
+                  "text": "Egy vulkáni kúp a Pacific Rim National Park Reserve területén.",
                   "category": "natural",
                   "coords": [
                         -125.867184,
@@ -718,7 +718,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Kwisitis Beach",
-                  "text": "Egy strand a Pacific Rim Nemzeti Parkban.",
+                  "text": "Egy szabadidős strand a Rim National Park Forest partján.",
                   "category": "recreational",
                   "coords": [
                         -125.676193,
@@ -727,7 +727,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Wickaninnish Beach",
-                  "text": "Egy strand a Pacific Rim Nemzeti Parkban.",
+                  "text": "Egy homokos strand Vancouver Island nyugati partján a Pacific Rim National Park Reserve területén.",
                   "category": "recreational",
                   "coords": [
                         -125.683526,
@@ -736,7 +736,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "South Beach",
-                  "text": "Egy strand a Pacific Rim Nemzeti Parkban.",
+                  "text": "A South Beach egy homokos szabadidős strand a Rim National Park Forestben.",
                   "category": "recreational",
                   "coords": [
                         -125.67605,
@@ -745,7 +745,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Long Beach",
-                  "text": "Egy strand a Pacific Rim Nemzeti Parkban.",
+                  "text": "Egy hosszú homokos strand a Pacific Rim National Park Reserve területén.",
                   "category": "recreational",
                   "coords": [
                         -125.76077,
@@ -754,7 +754,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Grice Bay",
-                  "text": "Egy öböl a Pacific Rim Nemzeti Parkban.",
+                  "text": "Egy öböl a Pacific Rim National Park Reserve területén.",
                   "category": "landmark",
                   "coords": [
                         -125.745803,
@@ -763,7 +763,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Schooner Cove",
-                  "text": "Egy öböl a Pacific Rim Nemzeti Parkban.",
+                  "text": "Egy kis öböl a Pacific Rim National Park Reserve területén.",
                   "category": "landmark",
                   "coords": [
                         -125.803726,
@@ -772,7 +772,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Schooner Cove Beach",
-                  "text": "Egy strand a Pacific Rim Nemzeti Parkban.",
+                  "text": "A Schooner Cove Beach festői strand a Rim National Park Forestben.",
                   "category": "recreational",
                   "coords": [
                         -125.801412,
@@ -781,7 +781,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Pacific Rim National Park Reserve - Long Beach Unit",
-                  "text": "Egy természetvédelmi terület a Pacific Rim Nemzeti Parkban.",
+                  "text": "A Pacific Rim Nemzeti Parkrezervátum Long Beach egysége hatalmas homokos partokkal.",
                   "category": "natural",
                   "coords": [
                         -125.736362,
@@ -799,7 +799,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Combers Beach",
-                  "text": "A Combers Beach egy homokos strand a Pacific Rim Nemzeti Parkban.",
+                  "text": "Egy széles strand sodort fával és dűnékkel a Pacific Rim National Park Reserve területén.",
                   "category": "recreational",
                   "coords": [
                         -125.71439,
@@ -828,7 +828,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Old Radio Building",
-                  "text": "O atracție în Parcul Național Pacific Rim.",
+                  "text": "Un reper istoric al clădirii radio în Pădurea Parcului Național Rim.",
                   "category": "landmark",
                   "coords": [
                         -125.820123,
@@ -837,7 +837,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Radar Hill",
-                  "text": "Un deal în Parcul Național Pacific Rim.",
+                  "text": "Un deal cu o fostă stație radar în Rezervația Parcului Național Pacific Rim.",
                   "category": "natural",
                   "coords": [
                         -125.841275,
@@ -846,7 +846,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Vargas Cone",
-                  "text": "Un vârf în Parcul Național Pacific Rim.",
+                  "text": "Un con vulcanic în Rezervația Parcului Național Pacific Rim.",
                   "category": "natural",
                   "coords": [
                         -125.867184,
@@ -855,7 +855,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Kwisitis Beach",
-                  "text": "O plajă în Parcul Național Pacific Rim.",
+                  "text": "O plajă de agrement pe coasta Pădurii Parcului Național Rim.",
                   "category": "recreational",
                   "coords": [
                         -125.676193,
@@ -864,7 +864,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Wickaninnish Beach",
-                  "text": "O plajă în Parcul Național Pacific Rim.",
+                  "text": "O plajă nisipoasă pe coasta de vest a insulei Vancouver în Rezervația Parcului Național Pacific Rim.",
                   "category": "recreational",
                   "coords": [
                         -125.683526,
@@ -873,7 +873,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "South Beach",
-                  "text": "O plajă în Parcul Național Pacific Rim.",
+                  "text": "South Beach, o plajă nisipoasă de agrement în Pădurea Parcului Național Rim.",
                   "category": "recreational",
                   "coords": [
                         -125.67605,
@@ -882,7 +882,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Long Beach",
-                  "text": "O plajă în Parcul Național Pacific Rim.",
+                  "text": "O plajă lungă nisipoasă în Rezervația Parcului Național Pacific Rim.",
                   "category": "recreational",
                   "coords": [
                         -125.76077,
@@ -891,7 +891,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Grice Bay",
-                  "text": "Un golf în Parcul Național Pacific Rim.",
+                  "text": "Un golf în Rezervația Parcului Național Pacific Rim.",
                   "category": "landmark",
                   "coords": [
                         -125.745803,
@@ -900,7 +900,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Schooner Cove",
-                  "text": "Un golf în Parcul Național Pacific Rim.",
+                  "text": "Un mic golf în Rezervația Parcului Național Pacific Rim.",
                   "category": "landmark",
                   "coords": [
                         -125.803726,
@@ -909,7 +909,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Schooner Cove Beach",
-                  "text": "O plajă în Parcul Național Pacific Rim.",
+                  "text": "Schooner Cove Beach, o plajă pitorească în Pădurea Parcului Național Rim.",
                   "category": "recreational",
                   "coords": [
                         -125.801412,
@@ -918,7 +918,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Pacific Rim National Park Reserve - Long Beach Unit",
-                  "text": "O rezervație naturală în Parcul Național Pacific Rim.",
+                  "text": "Unitatea Long Beach a Rezervației Parcului Național Pacific Rim, cu plaje nisipoase întinse.",
                   "category": "natural",
                   "coords": [
                         -125.736362,
@@ -936,7 +936,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Combers Beach",
-                  "text": "Combers Beach este o plajă cu nisip în Parcul Național Pacific Rim.",
+                  "text": "O plajă largă cu lemne aduse de apă și dune în Rezervația Parcului Național Pacific Rim.",
                   "category": "recreational",
                   "coords": [
                         -125.71439,
@@ -965,7 +965,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Old Radio Building",
-                  "text": "An attraction in Pacific Rim National Park.",
+                  "text": "A historic radio building landmark within Rim National Park Forest.",
                   "category": "landmark",
                   "coords": [
                         -125.820123,
@@ -974,7 +974,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Radar Hill",
-                  "text": "A hill in Pacific Rim National Park.",
+                  "text": "A hill that once held a radar station in Pacific Rim National Park Reserve.",
                   "category": "natural",
                   "coords": [
                         -125.841275,
@@ -983,7 +983,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Vargas Cone",
-                  "text": "A peak in Pacific Rim National Park.",
+                  "text": "A volcanic cone in Pacific Rim National Park Reserve.",
                   "category": "natural",
                   "coords": [
                         -125.867184,
@@ -992,7 +992,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Kwisitis Beach",
-                  "text": "A beach in Pacific Rim National Park.",
+                  "text": "A recreational beach on the coast of Rim National Park Forest.",
                   "category": "recreational",
                   "coords": [
                         -125.676193,
@@ -1001,7 +1001,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Wickaninnish Beach",
-                  "text": "A beach in Pacific Rim National Park.",
+                  "text": "A sandy beach on the west coast of Vancouver Island in Pacific Rim National Park Reserve.",
                   "category": "recreational",
                   "coords": [
                         -125.683526,
@@ -1010,7 +1010,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "South Beach",
-                  "text": "A beach in Pacific Rim National Park.",
+                  "text": "South Beach, a sandy recreational beach in Rim National Park Forest.",
                   "category": "recreational",
                   "coords": [
                         -125.67605,
@@ -1019,7 +1019,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Long Beach",
-                  "text": "A beach in Pacific Rim National Park.",
+                  "text": "A long sandy beach in Pacific Rim National Park Reserve.",
                   "category": "recreational",
                   "coords": [
                         -125.76077,
@@ -1028,7 +1028,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Grice Bay",
-                  "text": "A bay in Pacific Rim National Park.",
+                  "text": "A bay in Pacific Rim National Park Reserve.",
                   "category": "landmark",
                   "coords": [
                         -125.745803,
@@ -1037,7 +1037,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Schooner Cove",
-                  "text": "A bay in Pacific Rim National Park.",
+                  "text": "A small cove in Pacific Rim National Park Reserve.",
                   "category": "landmark",
                   "coords": [
                         -125.803726,
@@ -1046,7 +1046,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Schooner Cove Beach",
-                  "text": "A beach in Pacific Rim National Park.",
+                  "text": "Schooner Cove Beach, a scenic beach in Rim National Park Forest.",
                   "category": "recreational",
                   "coords": [
                         -125.801412,
@@ -1055,7 +1055,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Pacific Rim National Park Reserve - Long Beach Unit",
-                  "text": "A nature reserve in Pacific Rim National Park.",
+                  "text": "The Long Beach Unit of Pacific Rim National Park Reserve, featuring expansive sandy shores.",
                   "category": "natural",
                   "coords": [
                         -125.736362,
@@ -1073,7 +1073,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Combers Beach",
-                  "text": "Combers Beach is a sandy beach in Pacific Rim National Park.",
+                  "text": "A wide beach with driftwood and dunes in Pacific Rim National Park Reserve.",
                   "category": "recreational",
                   "coords": [
                         -125.71439,
@@ -1191,7 +1191,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Aberdeen",
-                  "text": "Mount Aberdeen ist ein Gipfel im Mount-Temple-Gebiet in der Bow Range.",
+                  "text": "Ein Berg in der Bow Range der kanadischen Rocky Mountains nahe Lake Louise.",
                   "category": "natural",
                   "coords": [
                         -116.247833,
@@ -1200,7 +1200,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Pope's Peak",
-                  "text": "Pope’s Peak ist ein Gipfel im Mount-Temple-Gebiet.",
+                  "text": "Ein Gipfel in der Bow Range der Rocky Mountains, benannt nach Papst Pius X.",
                   "category": "natural",
                   "coords": [
                         -116.295188,
@@ -1209,7 +1209,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Collier Peak",
-                  "text": "Collier Peak ist ein Gipfel im Mount-Temple-Gebiet.",
+                  "text": "Ein Berg in der Bow Range, benannt nach einem kanadischen Geologen.",
                   "category": "natural",
                   "coords": [
                         -116.303319,
@@ -1218,7 +1218,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Huber",
-                  "text": "Mount Huber ist ein Gipfel im Mount-Temple-Gebiet.",
+                  "text": "Ein Gipfel in der Bow Range, benannt nach einem Schweizer Bergführer.",
                   "category": "natural",
                   "coords": [
                         -116.313073,
@@ -1227,7 +1227,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Victoria",
-                  "text": "Mount Victoria ist ein Gipfel im Mount-Temple-Gebiet.",
+                  "text": "Ein Berg in der Bow Range mit Blick auf den Lake Louise.",
                   "category": "natural",
                   "coords": [
                         -116.307735,
@@ -1236,7 +1236,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Lefroy",
-                  "text": "Mount Lefroy ist ein Gipfel im Mount-Temple-Gebiet.",
+                  "text": "Ein Berg in der Bow Range mit charakteristischer Pyramidenform, ein beliebtes Kletterziel.",
                   "category": "natural",
                   "coords": [
                         -116.279963,
@@ -1245,7 +1245,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Haddo Peak",
-                  "text": "Haddo Peak ist ein Gipfel im Mount-Temple-Gebiet.",
+                  "text": "Ein Gipfel in der Bow Range, benannt nach dem Earl of Haddo.",
                   "category": "natural",
                   "coords": [
                         -116.237219,
@@ -1263,7 +1263,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount St. Piran",
-                  "text": "Mount St. Piran ist ein Gipfel im Mount-Temple-Gebiet.",
+                  "text": "Der Mount St. Piran ist einer der Zehn Gipfel im Banff-Nationalpark und erhebt sich über dem Lake Louise.",
                   "category": "natural",
                   "coords": [
                         -116.253373,
@@ -1272,7 +1272,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Niblock",
-                  "text": "Mount Niblock ist ein Gipfel im Mount-Temple-Gebiet.",
+                  "text": "Der Mount Niblock ist ein weiterer der Zehn Gipfel, benachbart zum Mount St. Piran.",
                   "category": "natural",
                   "coords": [
                         -116.272033,
@@ -1281,7 +1281,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Bident Mountain",
-                  "text": "Bident Mountain ist ein Gipfel im Mount-Temple-Gebiet.",
+                  "text": "Der Bident Mountain in der Bow Range ist nach seinen zwei Gipfeln benannt.",
                   "category": "natural",
                   "coords": [
                         -116.140873,
@@ -1290,7 +1290,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Quadra Mountain",
-                  "text": "Quadra Mountain ist ein Gipfel im Mount-Temple-Gebiet.",
+                  "text": "Der Quadra Mountain, Teil der Zehn Gipfel, hat vier markante Gipfel.",
                   "category": "natural",
                   "coords": [
                         -116.153389,
@@ -1299,7 +1299,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Bowlen",
-                  "text": "Mount Bowlen ist ein Gipfel im Mount-Temple-Gebiet.",
+                  "text": "Der Mount Bowlen, benannt nach einem Schweizer Bergführer, gehört zu den Zehn Gipfeln.",
                   "category": "natural",
                   "coords": [
                         -116.1894,
@@ -1308,7 +1308,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Tuzo",
-                  "text": "Mount Tuzo ist ein Gipfel im Mount-Temple-Gebiet.",
+                  "text": "Der Mount Tuzo, benannt nach einer frühen Kletterin, gehört zu den Zehn Gipfeln.",
                   "category": "natural",
                   "coords": [
                         -116.227948,
@@ -1317,7 +1317,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Allen",
-                  "text": "Mount Allen ist ein Gipfel im Mount-Temple-Gebiet.",
+                  "text": "Der Mount Allen, benannt nach einem Geologen, ist einer der Zehn Gipfel.",
                   "category": "natural",
                   "coords": [
                         -116.220657,
@@ -1326,7 +1326,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Perren",
-                  "text": "Mount Perren ist ein Gipfel im Mount-Temple-Gebiet.",
+                  "text": "Der Mount Perren, benannt nach einem Schweizer Bergführer, gehört zu den Zehn Gipfeln.",
                   "category": "natural",
                   "coords": [
                         -116.208524,
@@ -1335,7 +1335,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Deltaform Mountain",
-                  "text": "Einer der Zehn Gipfel nahe dem Mount Temple.",
+                  "text": "Der Deltaform Mountain ist nach seiner dreieckigen Form wie der griechische Buchstabe Delta benannt.",
                   "category": "natural",
                   "coords": [
                         -116.244827,
@@ -1344,7 +1344,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Neptuak Mountain",
-                  "text": "Einer der Zehn Gipfel nahe dem Mount Temple.",
+                  "text": "Der Neptuak Mountain bedeutet in der Sprache der Stoney „elf“ und gehört zu den Zehn Gipfeln.",
                   "category": "natural",
                   "coords": [
                         -116.258297,
@@ -1380,7 +1380,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Wenkchemna Peak",
-                  "text": "Einer der Zehn Gipfel nahe dem Mount Temple.",
+                  "text": "Der Wenkchemna Peak bedeutet in der Sprache der Stoney „zehn” und gibt den Zehn Gipfeln ihren Namen.",
                   "category": "natural",
                   "coords": [
                         -116.27632,
@@ -1389,7 +1389,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Watch Tower",
-                  "text": "Ein Gipfel nahe dem Mount Temple.",
+                  "text": "Eine markante Felsnadel in der Temple-Region des Banff-Nationalparks.",
                   "category": "natural",
                   "coords": [
                         -116.319786,
@@ -1398,7 +1398,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Sheol Mountain",
-                  "text": "Ein Gipfel nahe dem Mount Temple.",
+                  "text": "Ein Berg namens Sheol in der Temple-Region des Banff-Nationalparks.",
                   "category": "natural",
                   "coords": [
                         -116.222004,
@@ -1407,7 +1407,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Saddle Mountain",
-                  "text": "Ein Gipfel nahe dem Mount Temple.",
+                  "text": "Ein Berg mit sattelförmigem Gipfel in der Temple-Region des Banff-Nationalparks.",
                   "category": "natural",
                   "coords": [
                         -116.209214,
@@ -1416,7 +1416,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Little Temple",
-                  "text": "Ein kleinerer Gipfel nahe dem Mount Temple.",
+                  "text": "Ein kleinerer Gipfel nahe des Mount Temple im Banff-Nationalpark.",
                   "category": "natural",
                   "coords": [
                         -116.1867,
@@ -1443,7 +1443,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Devil's Thumb",
-                  "text": "Ein auffälliger Gipfel nahe dem Mount Temple.",
+                  "text": "Eine markante Felsformation (Teufelsdaumen) in der Temple-Region des Banff-Nationalparks.",
                   "category": "natural",
                   "coords": [
                         -116.252574,
@@ -1452,7 +1452,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Whyte",
-                  "text": "Ein Berg nahe dem Mount Temple in der Bow Range.",
+                  "text": "Ein nach Whyte benannter Berg in der Temple-Region des Banff-Nationalparks.",
                   "category": "natural",
                   "coords": [
                         -116.272135,
@@ -1461,7 +1461,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Babel",
-                  "text": "Ein Gipfel in der Bow Range nahe dem Mount Temple.",
+                  "text": "Ein nach dem biblischen Turm benannter Berg in der Temple-Region des Banff-Nationalparks.",
                   "category": "natural",
                   "coords": [
                         -116.163726,
@@ -1470,7 +1470,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Tonsa Peak",
-                  "text": "Ein Gipfel nahe dem Mount Temple.",
+                  "text": "Ein Gipfel im Temple-Gebirge des Banff-Nationalparks.",
                   "category": "natural",
                   "coords": [
                         -116.199643,
@@ -1479,7 +1479,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Pinnacle Mountain",
-                  "text": "Ein Gipfel nahe dem Mount Temple.",
+                  "text": "Ein Berg mit einem pinnakelartigen Gipfel in der Temple-Region des Banff-Nationalparks.",
                   "category": "natural",
                   "coords": [
                         -116.227471,
@@ -1488,7 +1488,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Ringrose Peak",
-                  "text": "Einer der Zehn Gipfel nahe dem Mount Temple.",
+                  "text": "Ein Gipfel in der Ringrose-Gruppe der Temple-Region des Banff-Nationalparks.",
                   "category": "natural",
                   "coords": [
                         -116.28921,
@@ -1497,7 +1497,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Eagle Eyrie",
-                  "text": "Ein Gipfel nahe dem Mount Temple.",
+                  "text": "Ein hoher Punkt mit Adlerblick in der Temple-Region des Banff-Nationalparks.",
                   "category": "natural",
                   "coords": [
                         -116.286806,
@@ -1506,7 +1506,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Schaffer",
-                  "text": "Ein Gipfel nahe dem Mount Temple.",
+                  "text": "Ein nach Schaffer benannter Berg in der Temple-Region des Banff-Nationalparks.",
                   "category": "natural",
                   "coords": [
                         -116.339855,
@@ -1524,7 +1524,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Minnestima Lakes",
-                  "text": "Eine Reihe von Seen nahe dem Mount Temple.",
+                  "text": "Eine Seenplatte namens Minnestima Lakes in der Nähe von Temple.",
                   "category": "landmark",
                   "coords": [
                         -116.219626,
@@ -1544,7 +1544,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Aberdeen",
-                  "text": "A Mount Aberdeen egy csúcs a Mount Temple területen, a Bow Range-ben.",
+                  "text": "Egy hegy a Bow Range-ben, a kanadai Sziklás-hegységben, Lake Louise közelében.",
                   "category": "natural",
                   "coords": [
                         -116.247833,
@@ -1553,7 +1553,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Pope's Peak",
-                  "text": "A Pope’s Peak egy csúcs a Mount Temple területen.",
+                  "text": "Egy csúcs a Bow Range-ben, a Sziklás-hegységben, X. Piusz pápáról elnevezve.",
                   "category": "natural",
                   "coords": [
                         -116.295188,
@@ -1562,7 +1562,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Collier Peak",
-                  "text": "A Collier Peak egy csúcs a Mount Temple területen.",
+                  "text": "Egy hegy a Bow Range-ben, egy kanadai geológusról elnevezve.",
                   "category": "natural",
                   "coords": [
                         -116.303319,
@@ -1571,7 +1571,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Huber",
-                  "text": "A Mount Huber egy csúcs a Mount Temple területen.",
+                  "text": "Egy csúcs a Bow Range-ben, egy svájci hegyi vezetőről elnevezve.",
                   "category": "natural",
                   "coords": [
                         -116.313073,
@@ -1580,7 +1580,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Victoria",
-                  "text": "A Mount Victoria egy csúcs a Mount Temple területen.",
+                  "text": "Egy hegy a Bow Range-ben, amely a Lake Louise-ra néz.",
                   "category": "natural",
                   "coords": [
                         -116.307735,
@@ -1589,7 +1589,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Lefroy",
-                  "text": "A Mount Lefroy egy csúcs a Mount Temple területen.",
+                  "text": "Egy hegy a Bow Range-ben, jellegzetes piramis alakú, népszerű mászóhely.",
                   "category": "natural",
                   "coords": [
                         -116.279963,
@@ -1598,7 +1598,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Haddo Peak",
-                  "text": "A Haddo Peak egy csúcs a Mount Temple területen.",
+                  "text": "Egy csúcs a Bow Range-ben, a Haddo grófjáról elnevezve.",
                   "category": "natural",
                   "coords": [
                         -116.237219,
@@ -1616,7 +1616,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount St. Piran",
-                  "text": "A Mount St. Piran egy csúcs a Mount Temple területen.",
+                  "text": "A Mount St. Piran a Banff Nemzeti Park Tíz Csúcsa egyike, a Louise-tó fölé magasodva.",
                   "category": "natural",
                   "coords": [
                         -116.253373,
@@ -1625,7 +1625,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Niblock",
-                  "text": "A Mount Niblock egy csúcs a Mount Temple területen.",
+                  "text": "A Mount Niblock a Tíz Csúcs egy másik tagja, a Mount St. Piran szomszédja.",
                   "category": "natural",
                   "coords": [
                         -116.272033,
@@ -1634,7 +1634,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Bident Mountain",
-                  "text": "A Bident Mountain egy csúcs a Mount Temple területen.",
+                  "text": "A Bident Mountain a Bow-hegységben található, két csúcsa után nevezték el.",
                   "category": "natural",
                   "coords": [
                         -116.140873,
@@ -1643,7 +1643,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Quadra Mountain",
-                  "text": "A Quadra Mountain egy csúcs a Mount Temple területen.",
+                  "text": "A Quadra Mountain a Tíz Csúcs része, négy különálló csúccsal.",
                   "category": "natural",
                   "coords": [
                         -116.153389,
@@ -1652,7 +1652,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Bowlen",
-                  "text": "A Mount Bowlen egy csúcs a Mount Temple területen.",
+                  "text": "A Mount Bowlen, egy svájci hegyi vezetőről elnevezve, a Tíz Csúcs része.",
                   "category": "natural",
                   "coords": [
                         -116.1894,
@@ -1661,7 +1661,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Tuzo",
-                  "text": "A Mount Tuzo egy csúcs a Mount Temple területen.",
+                  "text": "A Mount Tuzo, egy korai mászóról elnevezve, a Tíz Csúcs része.",
                   "category": "natural",
                   "coords": [
                         -116.227948,
@@ -1670,7 +1670,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Allen",
-                  "text": "A Mount Allen egy csúcs a Mount Temple területen.",
+                  "text": "A Mount Allen, egy geológusról elnevezve, a Tíz Csúcs egyike.",
                   "category": "natural",
                   "coords": [
                         -116.220657,
@@ -1679,7 +1679,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Perren",
-                  "text": "A Mount Perren egy csúcs a Mount Temple területen.",
+                  "text": "A Mount Perren, egy svájci hegyi vezetőről elnevezve, a Tíz Csúcs része.",
                   "category": "natural",
                   "coords": [
                         -116.208524,
@@ -1688,7 +1688,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Deltaform Mountain",
-                  "text": "A Tíz Csúcs egyike a Mount Temple közelében.",
+                  "text": "A Deltaform Mountain a görög delta betűhöz hasonló háromszög alakjáról kapta a nevét.",
                   "category": "natural",
                   "coords": [
                         -116.244827,
@@ -1697,7 +1697,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Neptuak Mountain",
-                  "text": "A Tíz Csúcs egyike a Mount Temple közelében.",
+                  "text": "A Neptuak Mountain jelentése a stoney nyelvben „tizenegy”, a Tíz Csúcs része.",
                   "category": "natural",
                   "coords": [
                         -116.258297,
@@ -1733,7 +1733,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Wenkchemna Peak",
-                  "text": "A Tíz Csúcs egyike a Mount Temple közelében.",
+                  "text": "A Wenkchemna Peak jelentése a stoney nyelvben „tíz”, innen kapta a Tíz Csúcs a nevét.",
                   "category": "natural",
                   "coords": [
                         -116.27632,
@@ -1742,7 +1742,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Watch Tower",
-                  "text": "Egy csúcs a Mount Temple közelében.",
+                  "text": "Egy jellegzetes sziklatű a Temple régióban, a Banff Nemzeti Parkban.",
                   "category": "natural",
                   "coords": [
                         -116.319786,
@@ -1751,7 +1751,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Sheol Mountain",
-                  "text": "Egy csúcs a Mount Temple közelében.",
+                  "text": "Egy Sheol nevű hegy a Temple régióban, a Banff Nemzeti Parkban.",
                   "category": "natural",
                   "coords": [
                         -116.222004,
@@ -1760,7 +1760,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Saddle Mountain",
-                  "text": "Egy csúcs a Mount Temple közelében.",
+                  "text": "Egy nyereg alakú csúcsú hegy a Temple régióban, a Banff Nemzeti Parkban.",
                   "category": "natural",
                   "coords": [
                         -116.209214,
@@ -1769,7 +1769,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Little Temple",
-                  "text": "Egy kisebb csúcs a Mount Temple közelében.",
+                  "text": "Egy kisebb csúcs a Mount Temple közelében a Banff Nemzeti Parkban.",
                   "category": "natural",
                   "coords": [
                         -116.1867,
@@ -1796,7 +1796,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Devil's Thumb",
-                  "text": "Egy jellegzetes csúcs a Mount Temple közelében.",
+                  "text": "Egy jellegzetes sziklaformáció (Ördög hüvelykujja) a Temple régióban, a Banff Nemzeti Parkban.",
                   "category": "natural",
                   "coords": [
                         -116.252574,
@@ -1805,7 +1805,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Whyte",
-                  "text": "Egy hegy a Mount Temple közelében a Bow-hegységben.",
+                  "text": "Egy Whyte-ról elnevezett hegy a Temple régióban, a Banff Nemzeti Parkban.",
                   "category": "natural",
                   "coords": [
                         -116.272135,
@@ -1814,7 +1814,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Babel",
-                  "text": "Egy csúcs a Bow-hegységben, a Mount Temple közelében.",
+                  "text": "Egy a bibliai toronyról elnevezett hegy a Temple régióban, a Banff Nemzeti Parkban.",
                   "category": "natural",
                   "coords": [
                         -116.163726,
@@ -1823,7 +1823,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Tonsa Peak",
-                  "text": "Egy csúcs a Mount Temple közelében.",
+                  "text": "Egy csúcs a Temple-hegységben, a Banff Nemzeti Parkban.",
                   "category": "natural",
                   "coords": [
                         -116.199643,
@@ -1832,7 +1832,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Pinnacle Mountain",
-                  "text": "Egy csúcs a Mount Temple közelében.",
+                  "text": "Egy tornyos csúcsú hegy a Temple régióban, a Banff Nemzeti Parkban.",
                   "category": "natural",
                   "coords": [
                         -116.227471,
@@ -1841,7 +1841,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Ringrose Peak",
-                  "text": "A Tíz Csúcs egyike a Mount Temple közelében.",
+                  "text": "Egy csúcs a Ringrose-csoportban, a Temple régióban, a Banff Nemzeti Parkban.",
                   "category": "natural",
                   "coords": [
                         -116.28921,
@@ -1850,7 +1850,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Eagle Eyrie",
-                  "text": "Egy csúcs a Mount Temple közelében.",
+                  "text": "Egy magas pont sas szemszögű kilátással a Temple régióban, a Banff Nemzeti Parkban.",
                   "category": "natural",
                   "coords": [
                         -116.286806,
@@ -1859,7 +1859,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Schaffer",
-                  "text": "Egy csúcs a Mount Temple közelében.",
+                  "text": "Egy Schaffer-ról elnevezett hegy a Temple régióban, a Banff Nemzeti Parkban.",
                   "category": "natural",
                   "coords": [
                         -116.339855,
@@ -1877,7 +1877,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Minnestima Lakes",
-                  "text": "Tavak sorozata a Mount Temple közelében.",
+                  "text": "Egy Minnestima-tavaknak nevezett tórendszer Temple közelében.",
                   "category": "landmark",
                   "coords": [
                         -116.219626,
@@ -1897,7 +1897,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Aberdeen",
-                  "text": "Mount Aberdeen este un vârf în zona Mount Temple, în lanțul Bow.",
+                  "text": "Un munte în lanțul Bow Range din Munții Stâncoși canadieni, lângă Lacul Louise.",
                   "category": "natural",
                   "coords": [
                         -116.247833,
@@ -1906,7 +1906,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Pope's Peak",
-                  "text": "Pope's Peak este un vârf în zona Mount Temple.",
+                  "text": "Un vârf în lanțul Bow Range al Munților Stâncoși, numit după Papa Pius al X-lea.",
                   "category": "natural",
                   "coords": [
                         -116.295188,
@@ -1915,7 +1915,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Collier Peak",
-                  "text": "Collier Peak este un vârf în zona Mount Temple.",
+                  "text": "Un munte în lanțul Bow Range, numit după un geolog canadian.",
                   "category": "natural",
                   "coords": [
                         -116.303319,
@@ -1924,7 +1924,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Huber",
-                  "text": "Mount Huber este un vârf în zona Mount Temple.",
+                  "text": "Un vârf în lanțul Bow Range, numit după un ghid elvețian de munte.",
                   "category": "natural",
                   "coords": [
                         -116.313073,
@@ -1933,7 +1933,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Victoria",
-                  "text": "Mount Victoria este un vârf în zona Mount Temple.",
+                  "text": "Un munte în lanțul Bow Range, cu vedere spre Lacul Louise.",
                   "category": "natural",
                   "coords": [
                         -116.307735,
@@ -1942,7 +1942,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Lefroy",
-                  "text": "Mount Lefroy este un vârf în zona Mount Temple.",
+                  "text": "Un munte în lanțul Bow Range, cu o formă piramidală distinctivă, destinație populară de alpinism.",
                   "category": "natural",
                   "coords": [
                         -116.279963,
@@ -1951,7 +1951,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Haddo Peak",
-                  "text": "Haddo Peak este un vârf în zona Mount Temple.",
+                  "text": "Un vârf în lanțul Bow Range, numit după Contele de Haddo.",
                   "category": "natural",
                   "coords": [
                         -116.237219,
@@ -1969,7 +1969,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount St. Piran",
-                  "text": "Mount St. Piran este un vârf în zona Mount Temple.",
+                  "text": "Muntele St. Piran este unul dintre Cei Zece Vârfuri din Parcul Național Banff, ridicându-se deasupra lacului Louise.",
                   "category": "natural",
                   "coords": [
                         -116.253373,
@@ -1978,7 +1978,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Niblock",
-                  "text": "Mount Niblock este un vârf în zona Mount Temple.",
+                  "text": "Muntele Niblock este un altul dintre Cei Zece Vârfuri, vecin cu Muntele St. Piran.",
                   "category": "natural",
                   "coords": [
                         -116.272033,
@@ -1987,7 +1987,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Bident Mountain",
-                  "text": "Bident Mountain este un vârf în zona Mount Temple.",
+                  "text": "Bident Mountain din Munții Bow este numit după cele două vârfuri ale sale.",
                   "category": "natural",
                   "coords": [
                         -116.140873,
@@ -1996,7 +1996,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Quadra Mountain",
-                  "text": "Quadra Mountain este un vârf în zona Mount Temple.",
+                  "text": "Quadra Mountain, parte din Cei Zece Vârfuri, are patru vârfuri distincte.",
                   "category": "natural",
                   "coords": [
                         -116.153389,
@@ -2005,7 +2005,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Bowlen",
-                  "text": "Mount Bowlen este un vârf în zona Mount Temple.",
+                  "text": "Muntele Bowlen, numit după un ghid elvețian, face parte din Cei Zece Vârfuri.",
                   "category": "natural",
                   "coords": [
                         -116.1894,
@@ -2014,7 +2014,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Tuzo",
-                  "text": "Mount Tuzo este un vârf în zona Mount Temple.",
+                  "text": "Muntele Tuzo, numit după o alpinistă timpurie, face parte din Cei Zece Vârfuri.",
                   "category": "natural",
                   "coords": [
                         -116.227948,
@@ -2023,7 +2023,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Allen",
-                  "text": "Mount Allen este un vârf în zona Mount Temple.",
+                  "text": "Muntele Allen, numit după un geolog, este unul dintre Cei Zece Vârfuri.",
                   "category": "natural",
                   "coords": [
                         -116.220657,
@@ -2032,7 +2032,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Perren",
-                  "text": "Mount Perren este un vârf în zona Mount Temple.",
+                  "text": "Muntele Perren, numit după un ghid elvețian, face parte din Cei Zece Vârfuri.",
                   "category": "natural",
                   "coords": [
                         -116.208524,
@@ -2041,7 +2041,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Deltaform Mountain",
-                  "text": "Unul dintre Cele Zece Vârfuri lângă Mount Temple.",
+                  "text": "Deltaform Mountain este numit după forma sa triunghiulară asemănătoare literei grecești delta.",
                   "category": "natural",
                   "coords": [
                         -116.244827,
@@ -2050,7 +2050,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Neptuak Mountain",
-                  "text": "Unul dintre Cele Zece Vârfuri lângă Mount Temple.",
+                  "text": "Neptuak Mountain înseamnă „unsprezece” în limba stoney și face parte din Cei Zece Vârfuri.",
                   "category": "natural",
                   "coords": [
                         -116.258297,
@@ -2086,7 +2086,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Wenkchemna Peak",
-                  "text": "Unul dintre Cele Zece Vârfuri lângă Mount Temple.",
+                  "text": "Wenkchemna Peak înseamnă „zece” în limba stoney, dând numele Celor Zece Vârfuri.",
                   "category": "natural",
                   "coords": [
                         -116.27632,
@@ -2095,7 +2095,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Watch Tower",
-                  "text": "Un vârf lângă Mount Temple.",
+                  "text": "O agulă de stâncă proeminentă în regiunea Temple a Parcului Național Banff.",
                   "category": "natural",
                   "coords": [
                         -116.319786,
@@ -2104,7 +2104,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Sheol Mountain",
-                  "text": "Un vârf lângă Mount Temple.",
+                  "text": "Un munte numit Sheol în regiunea Temple a Parcului Național Banff.",
                   "category": "natural",
                   "coords": [
                         -116.222004,
@@ -2113,7 +2113,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Saddle Mountain",
-                  "text": "Un vârf lângă Mount Temple.",
+                  "text": "Un munte cu vârf în formă de șa în regiunea Temple a Parcului Național Banff.",
                   "category": "natural",
                   "coords": [
                         -116.209214,
@@ -2122,7 +2122,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Little Temple",
-                  "text": "Un vârf mai mic lângă Mount Temple.",
+                  "text": "Un vârf mai mic în apropiere de Mount Temple în Parcul Național Banff.",
                   "category": "natural",
                   "coords": [
                         -116.1867,
@@ -2149,7 +2149,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Devil's Thumb",
-                  "text": "Un vârf distinctiv lângă Mount Temple.",
+                  "text": "O formațiune stâncoasă distinctivă (Degetul Diavolului) în regiunea Temple a Parcului Național Banff.",
                   "category": "natural",
                   "coords": [
                         -116.252574,
@@ -2158,7 +2158,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Whyte",
-                  "text": "Un munte lângă Mount Temple în Masivul Bow.",
+                  "text": "Un munte numit după Whyte în regiunea Temple a Parcului Național Banff.",
                   "category": "natural",
                   "coords": [
                         -116.272135,
@@ -2167,7 +2167,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Babel",
-                  "text": "Un vârf în Masivul Bow lângă Mount Temple.",
+                  "text": "Un munte numit după turnul biblic în regiunea Temple a Parcului Național Banff.",
                   "category": "natural",
                   "coords": [
                         -116.163726,
@@ -2176,7 +2176,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Tonsa Peak",
-                  "text": "Un vârf lângă Mount Temple.",
+                  "text": "Un vârf în masivul Temple al Parcului Național Banff.",
                   "category": "natural",
                   "coords": [
                         -116.199643,
@@ -2185,7 +2185,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Pinnacle Mountain",
-                  "text": "Un vârf lângă Mount Temple.",
+                  "text": "Un munte cu un vârf asemănător unui pinaclu în regiunea Temple a Parcului Național Banff.",
                   "category": "natural",
                   "coords": [
                         -116.227471,
@@ -2194,7 +2194,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Ringrose Peak",
-                  "text": "Unul dintre Cele Zece Vârfuri lângă Mount Temple.",
+                  "text": "Un vârf în grupul Ringrose din regiunea Temple a Parcului Național Banff.",
                   "category": "natural",
                   "coords": [
                         -116.28921,
@@ -2203,7 +2203,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Eagle Eyrie",
-                  "text": "Un vârf lângă Mount Temple.",
+                  "text": "Un punct înalt cu vedere de vultur în regiunea Temple a Parcului Național Banff.",
                   "category": "natural",
                   "coords": [
                         -116.286806,
@@ -2212,7 +2212,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Schaffer",
-                  "text": "Un vârf lângă Mount Temple.",
+                  "text": "Un munte numit după Schaffer în regiunea Temple a Parcului Național Banff.",
                   "category": "natural",
                   "coords": [
                         -116.339855,
@@ -2230,7 +2230,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Minnestima Lakes",
-                  "text": "O serie de lacuri lângă Mount Temple.",
+                  "text": "Un sistem de lacuri numit Minnestima Lakes, lângă Temple.",
                   "category": "landmark",
                   "coords": [
                         -116.219626,
@@ -2250,7 +2250,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Aberdeen",
-                  "text": "Mount Aberdeen is a peak in the Mount Temple area in the Bow Range.",
+                  "text": "A mountain in the Bow Range of the Canadian Rockies near Lake Louise.",
                   "category": "natural",
                   "coords": [
                         -116.247833,
@@ -2259,7 +2259,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Pope's Peak",
-                  "text": "Pope's Peak is a peak in the Mount Temple area.",
+                  "text": "A peak in the Bow Range of the Rockies, named after Pope Pius X.",
                   "category": "natural",
                   "coords": [
                         -116.295188,
@@ -2268,7 +2268,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Collier Peak",
-                  "text": "Collier Peak is a peak in the Mount Temple area.",
+                  "text": "A mountain in the Bow Range named after a Canadian geologist.",
                   "category": "natural",
                   "coords": [
                         -116.303319,
@@ -2277,7 +2277,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Huber",
-                  "text": "Mount Huber is a peak in the Mount Temple area.",
+                  "text": "A peak in the Bow Range named after a Swiss mountain guide.",
                   "category": "natural",
                   "coords": [
                         -116.313073,
@@ -2286,7 +2286,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Victoria",
-                  "text": "Mount Victoria is a peak in the Mount Temple area.",
+                  "text": "A mountain in the Bow Range overlooking Lake Louise.",
                   "category": "natural",
                   "coords": [
                         -116.307735,
@@ -2295,7 +2295,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Lefroy",
-                  "text": "Mount Lefroy is a peak in the Mount Temple area.",
+                  "text": "A mountain in the Bow Range with a distinctive pyramidal shape, popular for climbing.",
                   "category": "natural",
                   "coords": [
                         -116.279963,
@@ -2304,7 +2304,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Haddo Peak",
-                  "text": "Haddo Peak is a peak in the Mount Temple area.",
+                  "text": "A peak in the Bow Range named after the Earl of Haddo.",
                   "category": "natural",
                   "coords": [
                         -116.237219,
@@ -2322,7 +2322,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount St. Piran",
-                  "text": "Mount St. Piran is a peak in the Mount Temple area.",
+                  "text": "Mount St. Piran is one of the Ten Peaks in Banff National Park, rising above Lake Louise.",
                   "category": "natural",
                   "coords": [
                         -116.253373,
@@ -2331,7 +2331,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Niblock",
-                  "text": "Mount Niblock is a peak in the Mount Temple area.",
+                  "text": "Mount Niblock is another of the Ten Peaks, adjacent to Mount St. Piran.",
                   "category": "natural",
                   "coords": [
                         -116.272033,
@@ -2340,7 +2340,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Bident Mountain",
-                  "text": "Bident Mountain is a peak in the Mount Temple area.",
+                  "text": "Bident Mountain in the Bow Range is named for its twin summits.",
                   "category": "natural",
                   "coords": [
                         -116.140873,
@@ -2349,7 +2349,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Quadra Mountain",
-                  "text": "Quadra Mountain is a peak in the Mount Temple area.",
+                  "text": "Quadra Mountain, part of the Ten Peaks, has four distinct summits.",
                   "category": "natural",
                   "coords": [
                         -116.153389,
@@ -2358,7 +2358,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Bowlen",
-                  "text": "Mount Bowlen is a peak in the Mount Temple area.",
+                  "text": "Mount Bowlen, named after a Swiss guide, is part of the Ten Peaks.",
                   "category": "natural",
                   "coords": [
                         -116.1894,
@@ -2367,7 +2367,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Tuzo",
-                  "text": "Mount Tuzo is a peak in the Mount Temple area.",
+                  "text": "Mount Tuzo, named after an early climber, is part of the Ten Peaks.",
                   "category": "natural",
                   "coords": [
                         -116.227948,
@@ -2376,7 +2376,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Allen",
-                  "text": "Mount Allen is a peak in the Mount Temple area.",
+                  "text": "Mount Allen, named after a geologist, is one of the Ten Peaks.",
                   "category": "natural",
                   "coords": [
                         -116.220657,
@@ -2385,7 +2385,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Perren",
-                  "text": "Mount Perren is a peak in the Mount Temple area.",
+                  "text": "Mount Perren, named after a Swiss guide, is part of the Ten Peaks.",
                   "category": "natural",
                   "coords": [
                         -116.208524,
@@ -2394,7 +2394,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Deltaform Mountain",
-                  "text": "One of the Ten Peaks near Mount Temple.",
+                  "text": "Deltaform Mountain is named for its triangular shape like the Greek letter delta.",
                   "category": "natural",
                   "coords": [
                         -116.244827,
@@ -2403,7 +2403,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Neptuak Mountain",
-                  "text": "One of the Ten Peaks near Mount Temple.",
+                  "text": "Neptuak Mountain means 'eleven' in Stoney, part of the Ten Peaks.",
                   "category": "natural",
                   "coords": [
                         -116.258297,
@@ -2439,7 +2439,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Wenkchemna Peak",
-                  "text": "One of the Ten Peaks near Mount Temple.",
+                  "text": "Wenkchemna Peak means 'ten' in Stoney, giving the Ten Peaks their name.",
                   "category": "natural",
                   "coords": [
                         -116.27632,
@@ -2448,7 +2448,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Watch Tower",
-                  "text": "A peak near Mount Temple.",
+                  "text": "A prominent rock pinnacle in the Temple region of Banff National Park.",
                   "category": "natural",
                   "coords": [
                         -116.319786,
@@ -2457,7 +2457,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Sheol Mountain",
-                  "text": "A peak near Mount Temple.",
+                  "text": "A mountain named Sheol in the Temple area of Banff National Park.",
                   "category": "natural",
                   "coords": [
                         -116.222004,
@@ -2466,7 +2466,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Saddle Mountain",
-                  "text": "A peak near Mount Temple.",
+                  "text": "A mountain with a saddle-shaped summit in the Temple area of Banff National Park.",
                   "category": "natural",
                   "coords": [
                         -116.209214,
@@ -2475,7 +2475,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Little Temple",
-                  "text": "A smaller peak near Mount Temple.",
+                  "text": "A smaller peak near Mount Temple in Banff National Park.",
                   "category": "natural",
                   "coords": [
                         -116.1867,
@@ -2502,7 +2502,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Devil's Thumb",
-                  "text": "A distinctive peak near Mount Temple.",
+                  "text": "A distinctive rock formation (Devil's Thumb) in the Temple area of Banff National Park.",
                   "category": "natural",
                   "coords": [
                         -116.252574,
@@ -2511,7 +2511,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Whyte",
-                  "text": "A mountain near Mount Temple in the Bow Range.",
+                  "text": "A mountain named after Whyte in the Temple region of Banff National Park.",
                   "category": "natural",
                   "coords": [
                         -116.272135,
@@ -2520,7 +2520,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Babel",
-                  "text": "A peak in the Bow Range near Mount Temple.",
+                  "text": "A mountain named after the biblical tower in the Temple area of Banff National Park.",
                   "category": "natural",
                   "coords": [
                         -116.163726,
@@ -2529,7 +2529,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Tonsa Peak",
-                  "text": "A peak near Mount Temple.",
+                  "text": "A peak in the Temple range of Banff National Park.",
                   "category": "natural",
                   "coords": [
                         -116.199643,
@@ -2538,7 +2538,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Pinnacle Mountain",
-                  "text": "A peak near Mount Temple.",
+                  "text": "A peak with a pinnacle-like summit in the Temple area of Banff National Park.",
                   "category": "natural",
                   "coords": [
                         -116.227471,
@@ -2547,7 +2547,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Ringrose Peak",
-                  "text": "One of the Ten Peaks near Mount Temple.",
+                  "text": "A peak in the Ringrose group of the Temple region in Banff National Park.",
                   "category": "natural",
                   "coords": [
                         -116.28921,
@@ -2556,7 +2556,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Eagle Eyrie",
-                  "text": "A peak near Mount Temple.",
+                  "text": "A high point offering eagle-eye views in the Temple area of Banff National Park.",
                   "category": "natural",
                   "coords": [
                         -116.286806,
@@ -2565,7 +2565,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Schaffer",
-                  "text": "A peak near Mount Temple.",
+                  "text": "A mountain named after Schaffer in the Temple area of Banff National Park.",
                   "category": "natural",
                   "coords": [
                         -116.339855,
@@ -2583,7 +2583,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Minnestima Lakes",
-                  "text": "A series of lakes near Mount Temple.",
+                  "text": "A series of lakes known as Minnestima Lakes, located near Temple.",
                   "category": "landmark",
                   "coords": [
                         -116.219626,
@@ -2781,7 +2781,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Phare du Borgot",
-                  "text": "Dieser Leuchtturm ist ein Wahrzeichen auf den Magdalenen-Inseln.",
+                  "text": "Ein Leuchtturm auf der Insel Borgot im Golf von St. Lawrence (Îles-de-la-Madeleine).",
                   "category": "landmark",
                   "coords": [
                         -61.959317,
@@ -2909,7 +2909,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Phare du Borgot",
-                  "text": "Ez a világítótorony a Magdalen-szigetek egyik nevezetessége.",
+                  "text": "Egy világítótorony Borgot szigetén a Szent Lőrinc-öbölben (Magdolna-szigetek).",
                   "category": "landmark",
                   "coords": [
                         -61.959317,
@@ -3037,7 +3037,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Phare du Borgot",
-                  "text": "Acest far este un reper pe Insulele Magdalen.",
+                  "text": "Un far pe insula Borgot în Golful Sfântului Laurențiu (Insulele Magdalena).",
                   "category": "landmark",
                   "coords": [
                         -61.959317,
@@ -3165,7 +3165,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Phare du Borgot",
-                  "text": "This lighthouse is a landmark on the Magdalen Islands.",
+                  "text": "A lighthouse on the island of Borgot in the Gulf of St. Lawrence (Îles-de-la-Madeleine).",
                   "category": "landmark",
                   "coords": [
                         -61.959317,
@@ -3381,7 +3381,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Tiedemann",
-                  "text": "Mount Tiedemann ist ein Gipfel im Mount-Waddington-Gebiet.",
+                  "text": "Ein markanter Gipfel im Waddington Range, einer der höchsten des Gebirges.",
                   "category": "natural",
                   "coords": [
                         -125.237187,
@@ -3419,7 +3419,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Tiedemann",
-                  "text": "A Mount Tiedemann egy csúcs a Mount Waddington térségében.",
+                  "text": "Egy kiemelkedő csúcs a Waddington-hegységben, a vonulat egyik legmagasabbika.",
                   "category": "natural",
                   "coords": [
                         -125.237187,
@@ -3457,7 +3457,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Tiedemann",
-                  "text": "Mount Tiedemann este un vârf în zona Mount Waddington.",
+                  "text": "Un vârf proeminent în Masivul Waddington, unul dintre cele mai înalte din lanț.",
                   "category": "natural",
                   "coords": [
                         -125.237187,
@@ -3495,7 +3495,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Tiedemann",
-                  "text": "Mount Tiedemann is a peak in the Mount Waddington area.",
+                  "text": "A prominent peak in the Waddington Range, one of the highest in the range.",
                   "category": "natural",
                   "coords": [
                         -125.237187,
@@ -3774,7 +3774,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       "de": [
             {
                   "name": "Blooming Point Beach",
-                  "text": "Blooming Point Beach ist ein Strand auf der Prinz-Edward-Insel.",
+                  "text": "Blooming Point Beach, ein beliebter Sandstrand auf Edward Island.",
                   "category": "recreational",
                   "coords": [
                         -62.950037,
@@ -3785,7 +3785,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       "hu": [
             {
                   "name": "Blooming Point Beach",
-                  "text": "A Blooming Point Beach egy strand a Prince Edward-szigeten.",
+                  "text": "A Blooming Point Beach egy népszerű homokos strand Edward Islandon.",
                   "category": "recreational",
                   "coords": [
                         -62.950037,
@@ -3796,7 +3796,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       "ro": [
             {
                   "name": "Blooming Point Beach",
-                  "text": "Plaja Blooming Point este o plajă pe Insula Prințului Eduard.",
+                  "text": "Blooming Point Beach, o plajă nisipoasă populară pe Insula Edward.",
                   "category": "recreational",
                   "coords": [
                         -62.950037,
@@ -3807,7 +3807,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       "en": [
             {
                   "name": "Blooming Point Beach",
-                  "text": "Blooming Point Beach is a beach on Prince Edward Island.",
+                  "text": "Blooming Point Beach, a popular sandy beach on Edward Island.",
                   "category": "recreational",
                   "coords": [
                         -62.950037,
@@ -3863,7 +3863,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       "de": [
             {
                   "name": "Carmanah Mountain",
-                  "text": "Ein Berg im Carmanah Walbran Provincial Park.",
+                  "text": "Ein Berg im Carmanah Valley, Teil des Walbran Provincial Park.",
                   "category": "natural",
                   "coords": [
                         -124.710042,
@@ -3872,7 +3872,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Monster Jam",
-                  "text": "Eine Attraktion im Carmanah Walbran Provincial Park.",
+                  "text": "Ein Wahrzeichen mit Monstertruck-Shows im Walbran Provincial Park Forest.",
                   "category": "landmark",
                   "coords": [
                         -124.608153,
@@ -3881,7 +3881,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Marble Canyon",
-                  "text": "Eine Schlucht im Carmanah Walbran Provincial Park.",
+                  "text": "Marble Canyon, eine dramatische Kalksteinschlucht im Walbran Provincial Park Forest.",
                   "category": "landmark",
                   "coords": [
                         -124.60729,
@@ -3890,7 +3890,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Tolkien Giant",
-                  "text": "Eine Attraktion im Carmanah Walbran Provincial Park.",
+                  "text": "Ein Riesen-Wahrzeichen benannt nach J.R.R. Tolkien im Walbran Provincial Park Forest.",
                   "category": "landmark",
                   "coords": [
                         -124.601618,
@@ -3899,7 +3899,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Walbran Falls",
-                  "text": "Ein Wasserfall im Carmanah Walbran Provincial Park.",
+                  "text": "Walbran Falls, ein malerischer Wasserfall im Walbran Provincial Park Forest.",
                   "category": "landmark",
                   "coords": [
                         -124.590197,
@@ -3908,7 +3908,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Medicine Wheel",
-                  "text": "Eine Attraktion im Carmanah Walbran Provincial Park.",
+                  "text": "Ein indigenes Medizinrad-Wahrzeichen im Walbran Provincial Park Forest.",
                   "category": "landmark",
                   "coords": [
                         -124.596222,
@@ -3917,7 +3917,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "House Cone",
-                  "text": "Ein Gipfel im Carmanah Walbran Provincial Park.",
+                  "text": "Ein kegelförmiger Gipfel im Walbran Provincial Park.",
                   "category": "natural",
                   "coords": [
                         -124.533545,
@@ -3926,7 +3926,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Castle Grove",
-                  "text": "Eine Attraktion im Carmanah Walbran Provincial Park.",
+                  "text": "Ein Baumhain namens Castle Grove im Walbran Provincial Park Forest.",
                   "category": "landmark",
                   "coords": [
                         -124.584527,
@@ -3935,7 +3935,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Castle Giant",
-                  "text": "Eine Attraktion im Carmanah Walbran Provincial Park.",
+                  "text": "Eine riesige Naturformation namens Castle Giant im Walbran Provincial Park Forest.",
                   "category": "landmark",
                   "coords": [
                         -124.582558,
@@ -3944,7 +3944,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "cell spot (rogers)",
-                  "text": "Ein Aussichtspunkt im Carmanah Walbran Provincial Park.",
+                  "text": "Ein Naturgebiet mit einem Mobilfunk-Hotspot für Rogers im Walbran Provincial Park Forest.",
                   "category": "natural",
                   "coords": [
                         -124.502308,
@@ -3953,7 +3953,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Walbran",
-                  "text": "Ein Berg im Carmanah Walbran Provincial Park.",
+                  "text": "Der höchste Gipfel im Walbran Provincial Park.",
                   "category": "natural",
                   "coords": [
                         -124.508167,
@@ -3962,7 +3962,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Rosander",
-                  "text": "Ein Berg im Carmanah Walbran Provincial Park.",
+                  "text": "Ein Gipfel im Walbran Provincial Park.",
                   "category": "natural",
                   "coords": [
                         -124.691881,
@@ -3971,7 +3971,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Smokehouse Mountain",
-                  "text": "Ein Berg im Carmanah Walbran Provincial Park.",
+                  "text": "Ein Berg im Walbran Provincial Park.",
                   "category": "natural",
                   "coords": [
                         -124.681361,
@@ -3991,7 +3991,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       "hu": [
             {
                   "name": "Carmanah Mountain",
-                  "text": "Egy hegy a Carmanah Walbran Tartományi Parkban.",
+                  "text": "Egy hegy a Carmanah-völgyben, a Walbran Provincial Park része.",
                   "category": "natural",
                   "coords": [
                         -124.710042,
@@ -4000,7 +4000,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Monster Jam",
-                  "text": "Egy látványosság a Carmanah Walbran Tartományi Parkban.",
+                  "text": "Egy nevezetesség szörnyautó-bemutatókkal a Walbran Provincial Park Forestben.",
                   "category": "landmark",
                   "coords": [
                         -124.608153,
@@ -4009,7 +4009,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Marble Canyon",
-                  "text": "Egy kanyon a Carmanah Walbran Tartományi Parkban.",
+                  "text": "A Marble Canyon egy látványos mészkőszurdok a Walbran Provincial Park Forestben.",
                   "category": "landmark",
                   "coords": [
                         -124.60729,
@@ -4018,7 +4018,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Tolkien Giant",
-                  "text": "Egy látványosság a Carmanah Walbran Tartományi Parkban.",
+                  "text": "Egy J.R.R. Tolkienről elnevezett óriás nevezetesség a Walbran Provincial Park Forestben.",
                   "category": "landmark",
                   "coords": [
                         -124.601618,
@@ -4027,7 +4027,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Walbran Falls",
-                  "text": "Egy vízesés a Carmanah Walbran Tartományi Parkban.",
+                  "text": "A Walbran Falls festői vízesés a Walbran Provincial Park Forestben.",
                   "category": "landmark",
                   "coords": [
                         -124.590197,
@@ -4036,7 +4036,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Medicine Wheel",
-                  "text": "Egy látványosság a Carmanah Walbran Tartományi Parkban.",
+                  "text": "Egy őslakos orvosi kerék nevezetesség a Walbran Provincial Park Forestben.",
                   "category": "landmark",
                   "coords": [
                         -124.596222,
@@ -4045,7 +4045,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "House Cone",
-                  "text": "Egy csúcs a Carmanah Walbran Tartományi Parkban.",
+                  "text": "Egy kúp alakú csúcs a Walbran Provincial Parkban.",
                   "category": "natural",
                   "coords": [
                         -124.533545,
@@ -4054,7 +4054,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Castle Grove",
-                  "text": "Egy látványosság a Carmanah Walbran Tartományi Parkban.",
+                  "text": "Egy Castle Grove nevű liget a Walbran Provincial Park Forestben.",
                   "category": "landmark",
                   "coords": [
                         -124.584527,
@@ -4063,7 +4063,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Castle Giant",
-                  "text": "Egy látványosság a Carmanah Walbran Tartományi Parkban.",
+                  "text": "Egy Castle Giant nevű óriási természeti képződmény a Walbran Provincial Park Forestben.",
                   "category": "landmark",
                   "coords": [
                         -124.582558,
@@ -4072,7 +4072,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "cell spot (rogers)",
-                  "text": "Egy kilátópont a Carmanah Walbran Tartományi Parkban.",
+                  "text": "Egy természeti terület Rogers mobiltávközlési ponttal a Walbran Provincial Park Forestben.",
                   "category": "natural",
                   "coords": [
                         -124.502308,
@@ -4081,7 +4081,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Walbran",
-                  "text": "Egy hegy a Carmanah Walbran Tartományi Parkban.",
+                  "text": "A Walbran Provincial Park legmagasabb csúcsa.",
                   "category": "natural",
                   "coords": [
                         -124.508167,
@@ -4090,7 +4090,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Rosander",
-                  "text": "Egy hegy a Carmanah Walbran Tartományi Parkban.",
+                  "text": "Egy csúcs a Walbran Provincial Parkban.",
                   "category": "natural",
                   "coords": [
                         -124.691881,
@@ -4099,7 +4099,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Smokehouse Mountain",
-                  "text": "Egy hegy a Carmanah Walbran Tartományi Parkban.",
+                  "text": "Egy hegy a Walbran Provincial Parkban.",
                   "category": "natural",
                   "coords": [
                         -124.681361,
@@ -4119,7 +4119,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       "ro": [
             {
                   "name": "Carmanah Mountain",
-                  "text": "Un munte în Parcul Provincial Carmanah Walbran.",
+                  "text": "Un munte în Valea Carmanah, parte a Parcului Provincial Walbran.",
                   "category": "natural",
                   "coords": [
                         -124.710042,
@@ -4128,7 +4128,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Monster Jam",
-                  "text": "O atracție în Parcul Provincial Carmanah Walbran.",
+                  "text": "Un reper cu demonstrații de camioane monstru în Pădurea Parcului Provincial Walbran.",
                   "category": "landmark",
                   "coords": [
                         -124.608153,
@@ -4137,7 +4137,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Marble Canyon",
-                  "text": "Un canion în Parcul Provincial Carmanah Walbran.",
+                  "text": "Marble Canyon, un canion spectaculos de calcar în Pădurea Parcului Provincial Walbran.",
                   "category": "landmark",
                   "coords": [
                         -124.60729,
@@ -4146,7 +4146,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Tolkien Giant",
-                  "text": "O atracție în Parcul Provincial Carmanah Walbran.",
+                  "text": "Un reper uriaș numit după J.R.R. Tolkien în Pădurea Parcului Provincial Walbran.",
                   "category": "landmark",
                   "coords": [
                         -124.601618,
@@ -4155,7 +4155,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Walbran Falls",
-                  "text": "O cascadă în Parcul Provincial Carmanah Walbran.",
+                  "text": "Walbran Falls, o cascadă pitorească în Pădurea Parcului Provincial Walbran.",
                   "category": "landmark",
                   "coords": [
                         -124.590197,
@@ -4164,7 +4164,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Medicine Wheel",
-                  "text": "O atracție în Parcul Provincial Carmanah Walbran.",
+                  "text": "Un reper al roții medicinale indigene în Pădurea Parcului Provincial Walbran.",
                   "category": "landmark",
                   "coords": [
                         -124.596222,
@@ -4173,7 +4173,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "House Cone",
-                  "text": "Un vârf în Parcul Provincial Carmanah Walbran.",
+                  "text": "Un vârf conic în Parcul Provincial Walbran.",
                   "category": "natural",
                   "coords": [
                         -124.533545,
@@ -4182,7 +4182,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Castle Grove",
-                  "text": "O atracție în Parcul Provincial Carmanah Walbran.",
+                  "text": "Un crâng numit Castle Grove în Pădurea Parcului Provincial Walbran.",
                   "category": "landmark",
                   "coords": [
                         -124.584527,
@@ -4191,7 +4191,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Castle Giant",
-                  "text": "O atracție în Parcul Provincial Carmanah Walbran.",
+                  "text": "O formațiune naturală gigantică numită Castle Giant în Pădurea Parcului Provincial Walbran.",
                   "category": "landmark",
                   "coords": [
                         -124.582558,
@@ -4200,7 +4200,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "cell spot (rogers)",
-                  "text": "Un punct de belvedere în Parcul Provincial Carmanah Walbran.",
+                  "text": "O zonă naturală cu un punct de acces pentru telefoane mobile Rogers în Pădurea Parcului Provincial Walbran.",
                   "category": "natural",
                   "coords": [
                         -124.502308,
@@ -4209,7 +4209,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Walbran",
-                  "text": "Un munte în Parcul Provincial Carmanah Walbran.",
+                  "text": "Cel mai înalt vârf din Parcul Provincial Walbran.",
                   "category": "natural",
                   "coords": [
                         -124.508167,
@@ -4218,7 +4218,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Rosander",
-                  "text": "Un munte în Parcul Provincial Carmanah Walbran.",
+                  "text": "Un vârf în Parcul Provincial Walbran.",
                   "category": "natural",
                   "coords": [
                         -124.691881,
@@ -4227,7 +4227,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Smokehouse Mountain",
-                  "text": "Un munte în Parcul Provincial Carmanah Walbran.",
+                  "text": "Un munte în Parcul Provincial Walbran.",
                   "category": "natural",
                   "coords": [
                         -124.681361,
@@ -4247,7 +4247,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       "en": [
             {
                   "name": "Carmanah Mountain",
-                  "text": "A mountain in Carmanah Walbran Provincial Park.",
+                  "text": "A mountain in Carmanah Valley, part of Walbran Provincial Park.",
                   "category": "natural",
                   "coords": [
                         -124.710042,
@@ -4256,7 +4256,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Monster Jam",
-                  "text": "An attraction in Carmanah Walbran Provincial Park.",
+                  "text": "A landmark featuring monster truck displays in Walbran Provincial Park Forest.",
                   "category": "landmark",
                   "coords": [
                         -124.608153,
@@ -4265,7 +4265,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Marble Canyon",
-                  "text": "A canyon in Carmanah Walbran Provincial Park.",
+                  "text": "Marble Canyon, a dramatic limestone canyon in Walbran Provincial Park Forest.",
                   "category": "landmark",
                   "coords": [
                         -124.60729,
@@ -4274,7 +4274,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Tolkien Giant",
-                  "text": "An attraction in Carmanah Walbran Provincial Park.",
+                  "text": "A giant landmark named after J.R.R. Tolkien in Walbran Provincial Park Forest.",
                   "category": "landmark",
                   "coords": [
                         -124.601618,
@@ -4283,7 +4283,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Walbran Falls",
-                  "text": "A waterfall in Carmanah Walbran Provincial Park.",
+                  "text": "Walbran Falls, a scenic waterfall in Walbran Provincial Park Forest.",
                   "category": "landmark",
                   "coords": [
                         -124.590197,
@@ -4292,7 +4292,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Medicine Wheel",
-                  "text": "An attraction in Carmanah Walbran Provincial Park.",
+                  "text": "An indigenous medicine wheel landmark in Walbran Provincial Park Forest.",
                   "category": "landmark",
                   "coords": [
                         -124.596222,
@@ -4301,7 +4301,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "House Cone",
-                  "text": "A peak in Carmanah Walbran Provincial Park.",
+                  "text": "A conical peak in Walbran Provincial Park.",
                   "category": "natural",
                   "coords": [
                         -124.533545,
@@ -4310,7 +4310,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Castle Grove",
-                  "text": "An attraction in Carmanah Walbran Provincial Park.",
+                  "text": "A grove of trees known as Castle Grove in Walbran Provincial Park Forest.",
                   "category": "landmark",
                   "coords": [
                         -124.584527,
@@ -4319,7 +4319,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Castle Giant",
-                  "text": "An attraction in Carmanah Walbran Provincial Park.",
+                  "text": "A giant natural feature called Castle Giant in Walbran Provincial Park Forest.",
                   "category": "landmark",
                   "coords": [
                         -124.582558,
@@ -4328,7 +4328,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "cell spot (rogers)",
-                  "text": "A viewpoint in Carmanah Walbran Provincial Park.",
+                  "text": "A natural area with a cell phone spot for Rogers in Walbran Provincial Park Forest.",
                   "category": "natural",
                   "coords": [
                         -124.502308,
@@ -4337,7 +4337,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Walbran",
-                  "text": "A mountain in Carmanah Walbran Provincial Park.",
+                  "text": "The highest peak in Walbran Provincial Park.",
                   "category": "natural",
                   "coords": [
                         -124.508167,
@@ -4346,7 +4346,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Rosander",
-                  "text": "A mountain in Carmanah Walbran Provincial Park.",
+                  "text": "A peak in Walbran Provincial Park.",
                   "category": "natural",
                   "coords": [
                         -124.691881,
@@ -4355,7 +4355,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Smokehouse Mountain",
-                  "text": "A mountain in Carmanah Walbran Provincial Park.",
+                  "text": "A mountain in Walbran Provincial Park.",
                   "category": "natural",
                   "coords": [
                         -124.681361,
@@ -4420,7 +4420,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       "de": [
             {
                   "name": "Mount Allenby",
-                  "text": "Mount Allenby ist ein Gipfel im Mount-Assiniboine-Parkwald.",
+                  "text": "Ein Gipfel im Assiniboine Provincial Park.",
                   "category": "natural",
                   "coords": [
                         -115.533084,
@@ -4429,7 +4429,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Cascade Rock",
-                  "text": "Cascade Rock ist ein felsiger Gipfel im Mount-Assiniboine-Gebiet.",
+                  "text": "Eine Felsformation mit Wasserfall im Assiniboine Provincial Park.",
                   "category": "natural",
                   "coords": [
                         -115.576882,
@@ -4438,7 +4438,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Marvel Peak",
-                  "text": "Marvel Peak ist ein Gipfel in den kanadischen Rocky Mountains.",
+                  "text": "Der Marvel Peak im Assiniboine Park Forest ist für seine beeindruckende Erscheinung bekannt.",
                   "category": "natural",
                   "coords": [
                         -115.551389,
@@ -4456,7 +4456,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Terrapin Mountain",
-                  "text": "Terrapin Mountain ist ein Berg in British Columbia.",
+                  "text": "Der Terrapin Mountain im Assiniboine Park Forest ist nach seiner Schildkrötenform benannt.",
                   "category": "natural",
                   "coords": [
                         -115.617309,
@@ -4465,7 +4465,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Magog",
-                  "text": "Mount Magog ist ein Berg in der Nähe des Mount Assiniboine.",
+                  "text": "Der Mount Magog liegt im Mount-Assiniboine-Provinzpark nahe dem Lake Magog.",
                   "category": "natural",
                   "coords": [
                         -115.635513,
@@ -4483,7 +4483,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Lunette Peak",
-                  "text": "Lunette Peak ist ein Gipfel neben dem Mount Assiniboine.",
+                  "text": "Der Lunette Peak im Assiniboine Park Forest ist nach seiner halbmondförmigen Silhouette benannt.",
                   "category": "natural",
                   "coords": [
                         -115.649269,
@@ -4492,7 +4492,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Sturdee",
-                  "text": "Mount Sturdee ist ein Gipfel im Mount-Assiniboine-Gebiet.",
+                  "text": "Ein Berg im Assiniboine Provincial Park.",
                   "category": "natural",
                   "coords": [
                         -115.664448,
@@ -4501,7 +4501,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Eon Mountain",
-                  "text": "Eon Mountain ist ein Berg in British Columbia.",
+                  "text": "Der Eon Mountain im Assiniboine Park Forest ist vermutlich nach einem geologischen Zeitalter benannt.",
                   "category": "natural",
                   "coords": [
                         -115.625116,
@@ -4510,7 +4510,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Aye Mountain",
-                  "text": "Aye Mountain ist ein Berg in den kanadischen Rocky Mountains.",
+                  "text": "Der Aye Mountain ist ein Gipfel im Assiniboine Park Forest, British Columbia.",
                   "category": "natural",
                   "coords": [
                         -115.64308,
@@ -4519,7 +4519,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Gloria SE1",
-                  "text": "Mount Gloria SE1 ist ein Nebengipfel des Mount Gloria.",
+                  "text": "Der Mount Gloria SE1 ist ein Nebengipfel des Mount Gloria im Assiniboine Park Forest.",
                   "category": "natural",
                   "coords": [
                         -115.607241,
@@ -4528,7 +4528,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Aurora Mountain",
-                  "text": "Aurora Mountain ist ein Berg, dessen Name an das Polarlicht erinnert.",
+                  "text": "Ein Gipfel im Assiniboine Provincial Park.",
                   "category": "natural",
                   "coords": [
                         -115.543001,
@@ -4537,7 +4537,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Byng",
-                  "text": "Mount Byng ist ein Berg in British Columbia.",
+                  "text": "Der Mount Byng im Assiniboine Park Forest ist nach einem kanadischen Generalgouverneur benannt.",
                   "category": "natural",
                   "coords": [
                         -115.526602,
@@ -4546,7 +4546,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Cone Mountain",
-                  "text": "Cone Mountain ist ein kegelförmiger Berg in den Rocky Mountains.",
+                  "text": "Der Cone Mountain im Assiniboine Park Forest hat eine kegelförmige Spitze.",
                   "category": "natural",
                   "coords": [
                         -115.463369,
@@ -4557,7 +4557,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       "hu": [
             {
                   "name": "Mount Allenby",
-                  "text": "A Mount Allenby egy csúcs a Mount Assiniboine Parkerdőben.",
+                  "text": "Egy csúcs az Assiniboine Provincial Parkban.",
                   "category": "natural",
                   "coords": [
                         -115.533084,
@@ -4566,7 +4566,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Cascade Rock",
-                  "text": "A Cascade Rock egy sziklás csúcs a Mount Assiniboine területen.",
+                  "text": "Egy sziklaformáció vízeséssel az Assiniboine Provincial Parkban.",
                   "category": "natural",
                   "coords": [
                         -115.576882,
@@ -4575,7 +4575,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Marvel Peak",
-                  "text": "A Marvel Peak egy csúcs a kanadai Sziklás-hegységben.",
+                  "text": "A Marvel Peak az Assiniboine Park Forestben található, lenyűgöző megjelenéséről ismert.",
                   "category": "natural",
                   "coords": [
                         -115.551389,
@@ -4593,7 +4593,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Terrapin Mountain",
-                  "text": "A Terrapin Mountain egy hegy Brit-Kolumbiában.",
+                  "text": "A Terrapin Mountain az Assiniboine Park Forestben található, teknősbéka alakjáról nevezték el.",
                   "category": "natural",
                   "coords": [
                         -115.617309,
@@ -4602,7 +4602,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Magog",
-                  "text": "A Mount Magog egy hegy a Mount Assiniboine közelében.",
+                  "text": "A Mount Magog a Mount Assiniboine Tartományi Parkban található, a Magog-tó közelében.",
                   "category": "natural",
                   "coords": [
                         -115.635513,
@@ -4620,7 +4620,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Lunette Peak",
-                  "text": "A Lunette Peak egy csúcs a Mount Assiniboine mellett.",
+                  "text": "A Lunette Peak az Assiniboine Park Forestben található, félhold alakú sziluettjéről kapta a nevét.",
                   "category": "natural",
                   "coords": [
                         -115.649269,
@@ -4629,7 +4629,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Sturdee",
-                  "text": "A Mount Sturdee egy csúcs a Mount Assiniboine területen.",
+                  "text": "Egy hegy az Assiniboine Provincial Parkban.",
                   "category": "natural",
                   "coords": [
                         -115.664448,
@@ -4638,7 +4638,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Eon Mountain",
-                  "text": "Az Eon Mountain egy hegy Brit-Kolumbiában.",
+                  "text": "Az Eon Mountain az Assiniboine Park Forestben található, valószínűleg egy geológiai korról nevezték el.",
                   "category": "natural",
                   "coords": [
                         -115.625116,
@@ -4647,7 +4647,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Aye Mountain",
-                  "text": "Az Aye Mountain egy hegy a kanadai Sziklás-hegységben.",
+                  "text": "Az Aye Mountain egy csúcs az Assiniboine Park Forestben, Brit Columbiában.",
                   "category": "natural",
                   "coords": [
                         -115.64308,
@@ -4656,7 +4656,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Gloria SE1",
-                  "text": "A Mount Gloria SE1 a Mount Gloria egyik alcsúcsa.",
+                  "text": "A Mount Gloria SE1 a Mount Gloria mellékcsúcsa az Assiniboine Park Forestben.",
                   "category": "natural",
                   "coords": [
                         -115.607241,
@@ -4665,7 +4665,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Aurora Mountain",
-                  "text": "Az Aurora Mountain egy hegy, melynek neve az északi fényre utal.",
+                  "text": "Egy csúcs az Assiniboine Provincial Parkban.",
                   "category": "natural",
                   "coords": [
                         -115.543001,
@@ -4674,7 +4674,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Byng",
-                  "text": "A Mount Byng egy hegy Brit-Kolumbiában.",
+                  "text": "A Mount Byng az Assiniboine Park Forestben található, egy kanadai főkormányzóról nevezték el.",
                   "category": "natural",
                   "coords": [
                         -115.526602,
@@ -4683,7 +4683,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Cone Mountain",
-                  "text": "A Cone Mountain egy kúp alakú hegy a Sziklás-hegységben.",
+                  "text": "A Cone Mountain az Assiniboine Park Forestben található, kúp alakú csúccsal.",
                   "category": "natural",
                   "coords": [
                         -115.463369,
@@ -4694,7 +4694,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       "ro": [
             {
                   "name": "Mount Allenby",
-                  "text": "Mount Allenby este un vârf în pădurea-parc Mount Assiniboine.",
+                  "text": "Un vârf în Parcul Provincial Assiniboine.",
                   "category": "natural",
                   "coords": [
                         -115.533084,
@@ -4703,7 +4703,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Cascade Rock",
-                  "text": "Cascade Rock este un vârf stâncos în zona Mount Assiniboine.",
+                  "text": "O formațiune stâncoasă cu cascadă în Parcul Provincial Assiniboine.",
                   "category": "natural",
                   "coords": [
                         -115.576882,
@@ -4712,7 +4712,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Marvel Peak",
-                  "text": "Marvel Peak este un vârf în Munții Stâncoși canadieni.",
+                  "text": "Marvel Peak din Pădurea Parcului Assiniboine este cunoscut pentru aspectul său impresionant.",
                   "category": "natural",
                   "coords": [
                         -115.551389,
@@ -4730,7 +4730,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Terrapin Mountain",
-                  "text": "Terrapin Mountain este un munte în Columbia Britanică.",
+                  "text": "Terrapin Mountain din Pădurea Parcului Assiniboine este numit după forma sa de broască țestoasă.",
                   "category": "natural",
                   "coords": [
                         -115.617309,
@@ -4739,7 +4739,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Magog",
-                  "text": "Mount Magog este un munte lângă Mount Assiniboine.",
+                  "text": "Muntele Magog se află în Parcul Provincial Mount Assiniboine, lângă lacul Magog.",
                   "category": "natural",
                   "coords": [
                         -115.635513,
@@ -4757,7 +4757,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Lunette Peak",
-                  "text": "Lunette Peak este un vârf adiacent Mount Assiniboine.",
+                  "text": "Lunette Peak din Pădurea Parcului Assiniboine este numit după silueta sa în formă de semilună.",
                   "category": "natural",
                   "coords": [
                         -115.649269,
@@ -4766,7 +4766,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Sturdee",
-                  "text": "Mount Sturdee este un vârf în zona Mount Assiniboine.",
+                  "text": "Un munte în Parcul Provincial Assiniboine.",
                   "category": "natural",
                   "coords": [
                         -115.664448,
@@ -4775,7 +4775,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Eon Mountain",
-                  "text": "Eon Mountain este un munte în Columbia Britanică.",
+                  "text": "Eon Mountain din Pădurea Parcului Assiniboine este probabil numit după o eră geologică.",
                   "category": "natural",
                   "coords": [
                         -115.625116,
@@ -4784,7 +4784,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Aye Mountain",
-                  "text": "Aye Mountain este un munte în Munții Stâncoși canadieni.",
+                  "text": "Aye Mountain este un vârf din Pădurea Parcului Assiniboine, Columbia Britanică.",
                   "category": "natural",
                   "coords": [
                         -115.64308,
@@ -4793,7 +4793,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Gloria SE1",
-                  "text": "Mount Gloria SE1 este un subvârf al Mount Gloria.",
+                  "text": "Mount Gloria SE1 este un vârf secundar al Muntelui Gloria din Pădurea Parcului Assiniboine.",
                   "category": "natural",
                   "coords": [
                         -115.607241,
@@ -4802,7 +4802,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Aurora Mountain",
-                  "text": "Aurora Mountain este un munte al cărui nume amintește de aurora boreală.",
+                  "text": "Un vârf în Parcul Provincial Assiniboine.",
                   "category": "natural",
                   "coords": [
                         -115.543001,
@@ -4811,7 +4811,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Byng",
-                  "text": "Mount Byng este un munte în Columbia Britanică.",
+                  "text": "Muntele Byng din Pădurea Parcului Assiniboine este numit după un guvernator general canadian.",
                   "category": "natural",
                   "coords": [
                         -115.526602,
@@ -4820,7 +4820,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Cone Mountain",
-                  "text": "Cone Mountain este un munte în formă de con în Munții Stâncoși.",
+                  "text": "Cone Mountain din Pădurea Parcului Assiniboine are un vârf conic.",
                   "category": "natural",
                   "coords": [
                         -115.463369,
@@ -4831,7 +4831,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       "en": [
             {
                   "name": "Mount Allenby",
-                  "text": "Mount Allenby is a peak in the Mount Assiniboine park forest.",
+                  "text": "A peak in Assiniboine Provincial Park.",
                   "category": "natural",
                   "coords": [
                         -115.533084,
@@ -4840,7 +4840,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Cascade Rock",
-                  "text": "Cascade Rock is a rocky peak in the Mount Assiniboine area.",
+                  "text": "A rock formation with a waterfall in Assiniboine Provincial Park.",
                   "category": "natural",
                   "coords": [
                         -115.576882,
@@ -4849,7 +4849,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Marvel Peak",
-                  "text": "Marvel Peak is a peak in the Canadian Rockies.",
+                  "text": "Marvel Peak in Assiniboine Park Forest is known for its impressive appearance.",
                   "category": "natural",
                   "coords": [
                         -115.551389,
@@ -4867,7 +4867,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Terrapin Mountain",
-                  "text": "Terrapin Mountain is a mountain in British Columbia.",
+                  "text": "Terrapin Mountain in Assiniboine Park Forest is named for its turtle-like shape.",
                   "category": "natural",
                   "coords": [
                         -115.617309,
@@ -4876,7 +4876,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Magog",
-                  "text": "Mount Magog is a mountain near Mount Assiniboine.",
+                  "text": "Mount Magog is in Mount Assiniboine Provincial Park, near Lake Magog.",
                   "category": "natural",
                   "coords": [
                         -115.635513,
@@ -4894,7 +4894,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Lunette Peak",
-                  "text": "Lunette Peak is a peak adjacent to Mount Assiniboine.",
+                  "text": "Lunette Peak in Assiniboine Park Forest is named for its crescent-shaped silhouette.",
                   "category": "natural",
                   "coords": [
                         -115.649269,
@@ -4903,7 +4903,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Sturdee",
-                  "text": "Mount Sturdee is a peak in the Mount Assiniboine area.",
+                  "text": "A mountain in Assiniboine Provincial Park.",
                   "category": "natural",
                   "coords": [
                         -115.664448,
@@ -4912,7 +4912,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Eon Mountain",
-                  "text": "Eon Mountain is a mountain in British Columbia.",
+                  "text": "Eon Mountain in Assiniboine Park Forest is likely named for a geological eon.",
                   "category": "natural",
                   "coords": [
                         -115.625116,
@@ -4921,7 +4921,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Aye Mountain",
-                  "text": "Aye Mountain is a mountain in the Canadian Rockies.",
+                  "text": "Aye Mountain is a peak in Assiniboine Park Forest, British Columbia.",
                   "category": "natural",
                   "coords": [
                         -115.64308,
@@ -4930,7 +4930,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Gloria SE1",
-                  "text": "Mount Gloria SE1 is a subpeak of Mount Gloria.",
+                  "text": "Mount Gloria SE1 is a subsidiary summit of Mount Gloria in Assiniboine Park Forest.",
                   "category": "natural",
                   "coords": [
                         -115.607241,
@@ -4939,7 +4939,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Aurora Mountain",
-                  "text": "Aurora Mountain is a mountain with an aurora-related name.",
+                  "text": "A peak in Assiniboine Provincial Park.",
                   "category": "natural",
                   "coords": [
                         -115.543001,
@@ -4948,7 +4948,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Byng",
-                  "text": "Mount Byng is a mountain in British Columbia.",
+                  "text": "Mount Byng in Assiniboine Park Forest is named after a Canadian governor general.",
                   "category": "natural",
                   "coords": [
                         -115.526602,
@@ -4957,7 +4957,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Cone Mountain",
-                  "text": "Cone Mountain is a cone-shaped mountain in the Rockies.",
+                  "text": "Cone Mountain in Assiniboine Park Forest has a conical peak.",
                   "category": "natural",
                   "coords": [
                         -115.463369,
@@ -5279,7 +5279,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       "de": [
             {
                   "name": "Spotted Mountain",
-                  "text": "Der Spotted Mountain ist ein Gipfel auf Cape Breton Island.",
+                  "text": "Spotted Mountain ist ein markanter Berg auf Breton Island.",
                   "category": "natural",
                   "coords": [
                         -60.686238,
@@ -5288,7 +5288,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "North River Wilderness Area",
-                  "text": "Das North River Wilderness Area ist ein Naturschutzgebiet auf Cape Breton Island.",
+                  "text": "Ein geschütztes Wildnisgebiet entlang des North River auf Breton Island.",
                   "category": "natural",
                   "coords": [
                         -60.688414,
@@ -5299,7 +5299,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       "hu": [
             {
                   "name": "Spotted Mountain",
-                  "text": "A Spotted Mountain egy csúcs Cape Breton-szigeten.",
+                  "text": "A Spotted Mountain egy jellegzetes hegy Breton Islanden.",
                   "category": "natural",
                   "coords": [
                         -60.686238,
@@ -5308,7 +5308,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "North River Wilderness Area",
-                  "text": "A North River Wilderness Area egy természetvédelmi terület Cape Breton-szigeten.",
+                  "text": "Egy védett vadon terület a North River mentén Breton Islanden.",
                   "category": "natural",
                   "coords": [
                         -60.688414,
@@ -5319,7 +5319,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       "ro": [
             {
                   "name": "Spotted Mountain",
-                  "text": "Spotted Mountain este un vârf pe Insula Cape Breton.",
+                  "text": "Spotted Mountain este un munte proeminent pe Insula Breton.",
                   "category": "natural",
                   "coords": [
                         -60.686238,
@@ -5328,7 +5328,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "North River Wilderness Area",
-                  "text": "North River Wilderness Area este o rezervație naturală pe Insula Cape Breton.",
+                  "text": "O zonă sălbatică protejată de-a lungul râului North pe Insula Breton.",
                   "category": "natural",
                   "coords": [
                         -60.688414,
@@ -5339,7 +5339,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       "en": [
             {
                   "name": "Spotted Mountain",
-                  "text": "Spotted Mountain is a peak on Cape Breton Island.",
+                  "text": "Spotted Mountain is a prominent peak on Breton Island.",
                   "category": "natural",
                   "coords": [
                         -60.686238,
@@ -5348,7 +5348,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "North River Wilderness Area",
-                  "text": "North River Wilderness Area is a nature reserve on Cape Breton Island.",
+                  "text": "A protected wilderness area along the North River on Breton Island.",
                   "category": "natural",
                   "coords": [
                         -60.688414,
@@ -5404,7 +5404,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       "de": [
             {
                   "name": "Dominion Bay",
-                  "text": "Eine Bucht auf der Manitoulin-Insel.",
+                  "text": "Dominion Bay ist eine Bucht an der Küste von Island.",
                   "category": "landmark",
                   "coords": [
                         -82.416386,
@@ -5413,7 +5413,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Melville Bay",
-                  "text": "Eine Bucht auf der Manitoulin-Insel.",
+                  "text": "Melville Bay ist eine Bucht an der Küste von Island.",
                   "category": "landmark",
                   "coords": [
                         -82.401701,
@@ -5422,7 +5422,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Portage Bay",
-                  "text": "Eine Bucht auf der Manitoulin-Insel.",
+                  "text": "Portage Bay ist eine Bucht an der Küste von Island.",
                   "category": "landmark",
                   "coords": [
                         -82.535287,
@@ -5433,7 +5433,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       "hu": [
             {
                   "name": "Dominion Bay",
-                  "text": "Egy öböl a Manitoulin-szigeten.",
+                  "text": "A Dominion Bay egy öböl Island partjainál.",
                   "category": "landmark",
                   "coords": [
                         -82.416386,
@@ -5442,7 +5442,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Melville Bay",
-                  "text": "Egy öböl a Manitoulin-szigeten.",
+                  "text": "A Melville Bay egy öböl Island partjainál.",
                   "category": "landmark",
                   "coords": [
                         -82.401701,
@@ -5451,7 +5451,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Portage Bay",
-                  "text": "Egy öböl a Manitoulin-szigeten.",
+                  "text": "A Portage Bay egy öböl Island partjainál.",
                   "category": "landmark",
                   "coords": [
                         -82.535287,
@@ -5462,7 +5462,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       "ro": [
             {
                   "name": "Dominion Bay",
-                  "text": "Un golf pe insula Manitoulin.",
+                  "text": "Dominion Bay este un golf pe coasta insulei Island.",
                   "category": "landmark",
                   "coords": [
                         -82.416386,
@@ -5471,7 +5471,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Melville Bay",
-                  "text": "Un golf pe insula Manitoulin.",
+                  "text": "Melville Bay este un golf pe coasta insulei Island.",
                   "category": "landmark",
                   "coords": [
                         -82.401701,
@@ -5480,7 +5480,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Portage Bay",
-                  "text": "Un golf pe insula Manitoulin.",
+                  "text": "Portage Bay este un golf pe coasta insulei Island.",
                   "category": "landmark",
                   "coords": [
                         -82.535287,
@@ -5491,7 +5491,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       "en": [
             {
                   "name": "Dominion Bay",
-                  "text": "A bay on Manitoulin Island.",
+                  "text": "Dominion Bay is a bay on the coast of Island.",
                   "category": "landmark",
                   "coords": [
                         -82.416386,
@@ -5500,7 +5500,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Melville Bay",
-                  "text": "A bay on Manitoulin Island.",
+                  "text": "Melville Bay is a bay on the coast of Island.",
                   "category": "landmark",
                   "coords": [
                         -82.401701,
@@ -5509,7 +5509,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Portage Bay",
-                  "text": "A bay on Manitoulin Island.",
+                  "text": "Portage Bay is a bay on the coast of Island.",
                   "category": "landmark",
                   "coords": [
                         -82.535287,
@@ -5565,7 +5565,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       "de": [
             {
                   "name": "Miles Canyon Viewpoint",
-                  "text": "Miles Canyon Viewpoint ist ein Aussichtspunkt entlang des Yukon River.",
+                  "text": "Ein Aussichtspunkt über den Miles Canyon am Fluss.",
                   "category": "natural",
                   "coords": [
                         -135.032053,
@@ -5583,7 +5583,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Wigan",
-                  "text": "Wigan ist eine Attraktion entlang des Yukon River.",
+                  "text": "Ein Wahrzeichen namens Wigan entlang des Flusses.",
                   "category": "landmark",
                   "coords": [
                         -135.0,
@@ -5592,7 +5592,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Paddlewheel",
-                  "text": "Paddlewheel ist eine Attraktion mit einem Schaufelrad entlang des Yukon River.",
+                  "text": "Ein Schaufelraddampfer-Wahrzeichen auf dem Fluss.",
                   "category": "landmark",
                   "coords": [
                         -135.052956,
@@ -5612,7 +5612,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       "hu": [
             {
                   "name": "Miles Canyon Viewpoint",
-                  "text": "A Miles Canyon Viewpoint egy kilátó a Yukon folyó mentén.",
+                  "text": "Egy kilátópont a Miles Canyonra a folyónál.",
                   "category": "natural",
                   "coords": [
                         -135.032053,
@@ -5630,7 +5630,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Wigan",
-                  "text": "A Wigan egy látványosság a Yukon folyó mentén.",
+                  "text": "Egy Wigan nevű nevezetesség a folyó mentén.",
                   "category": "landmark",
                   "coords": [
                         -135.0,
@@ -5639,7 +5639,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Paddlewheel",
-                  "text": "A Paddlewheel egy látványosság egy lapátkerékkel a Yukon folyó mentén.",
+                  "text": "Egy lapátkerekes gőzhajó nevezetesség a folyón.",
                   "category": "landmark",
                   "coords": [
                         -135.052956,
@@ -5659,7 +5659,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       "ro": [
             {
                   "name": "Miles Canyon Viewpoint",
-                  "text": "Miles Canyon Viewpoint este un punct de belvedere de-a lungul râului Yukon.",
+                  "text": "Un punct de belvedere peste cheile Miles de pe râu.",
                   "category": "natural",
                   "coords": [
                         -135.032053,
@@ -5677,7 +5677,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Wigan",
-                  "text": "Wigan este o atracție de-a lungul râului Yukon.",
+                  "text": "Un reper numit Wigan de-a lungul râului.",
                   "category": "landmark",
                   "coords": [
                         -135.0,
@@ -5686,7 +5686,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Paddlewheel",
-                  "text": "Paddlewheel este o atracție cu o roată cu zbaturi de-a lungul râului Yukon.",
+                  "text": "Un reper de vapor cu zbaturi pe râu.",
                   "category": "landmark",
                   "coords": [
                         -135.052956,
@@ -5706,7 +5706,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       "en": [
             {
                   "name": "Miles Canyon Viewpoint",
-                  "text": "Miles Canyon Viewpoint is a viewpoint along the Yukon River.",
+                  "text": "A viewpoint overlooking Miles Canyon on the River.",
                   "category": "natural",
                   "coords": [
                         -135.032053,
@@ -5724,7 +5724,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Wigan",
-                  "text": "Wigan is an attraction along the Yukon River.",
+                  "text": "A landmark named Wigan along the River.",
                   "category": "landmark",
                   "coords": [
                         -135.0,
@@ -5733,7 +5733,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Paddlewheel",
-                  "text": "Paddlewheel is an attraction featuring a paddlewheel along the Yukon River.",
+                  "text": "A paddlewheel boat landmark on the River.",
                   "category": "landmark",
                   "coords": [
                         -135.052956,
@@ -5887,7 +5887,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       "de": [
             {
                   "name": "Lookout Point",
-                  "text": "Ein Aussichtspunkt entlang des Saint John River.",
+                  "text": "Ein natürlicher Aussichtspunkt mit Blick auf den John River.",
                   "category": "natural",
                   "coords": [
                         -66.04808,
@@ -5896,7 +5896,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "New Brunswick Museum",
-                  "text": "Ein Museum in der Region des Saint John River.",
+                  "text": "Das New Brunswick Museum zeigt die Geschichte der Provinz am John River.",
                   "category": "museum",
                   "coords": [
                         -66.082244,
@@ -5914,7 +5914,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Anchor",
-                  "text": "Das Anchor ist ein Denkmal in Saint John.",
+                  "text": "Ein historisches Anker-Denkmal entlang des John River.",
                   "category": "historical",
                   "coords": [
                         -66.062768,
@@ -5923,7 +5923,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Cobalt Art Gallery",
-                  "text": "Die Cobalt Art Gallery ist eine Kunstgalerie in Saint John.",
+                  "text": "Die Cobalt Art Gallery zeigt zeitgenössische Kunst in John River.",
                   "category": "museum",
                   "coords": [
                         -66.062054,
@@ -5932,7 +5932,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Blink",
-                  "text": "Blink ist ein Kunstzentrum in Saint John.",
+                  "text": "Ein Kulturort namens Blink in John River.",
                   "category": "cultural",
                   "coords": [
                         -66.059286,
@@ -5941,7 +5941,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Peter Buckland Gallery",
-                  "text": "Die Peter Buckland Gallery ist ein Kunstzentrum in Saint John.",
+                  "text": "Die Peter Buckland Gallery zeigt bildende Kunst in John River.",
                   "category": "cultural",
                   "coords": [
                         -66.060742,
@@ -5950,7 +5950,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Frank & Ella Hatheway Labour Exhibit",
-                  "text": "Die Frank & Ella Hatheway Labour Exhibit ist ein Museum in Saint John, das sich mit der Arbeitsgeschichte befasst.",
+                  "text": "Eine Museumsausstellung zur Geschichte der Arbeiterbewegung in John River.",
                   "category": "museum",
                   "coords": [
                         -66.056596,
@@ -5959,7 +5959,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Phoenix Dinner Theatre",
-                  "text": "Das Phoenix Dinner Theatre ist ein Theater mit Abendessen in Saint John.",
+                  "text": "Das Phoenix Dinner Theatre bietet Speisen und Aufführungen in John River.",
                   "category": "cultural",
                   "coords": [
                         -66.053995,
@@ -5968,7 +5968,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Punch Lines Comedy Club",
-                  "text": "Der Punch Lines Comedy Club ist ein Comedy-Club in Saint John.",
+                  "text": "Punch Lines Comedy Club, ein Veranstaltungsort für Stand-up-Comedy in John River.",
                   "category": "cultural",
                   "coords": [
                         -66.057734,
@@ -5977,7 +5977,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Reversing Falls Lookout",
-                  "text": "Der Reversing Falls Lookout ist ein Aussichtspunkt auf die Reversing Falls in Saint John.",
+                  "text": "Aussichtspunkt über die umkehrenden Gezeitenstromschnellen des Saint John River.",
                   "category": "natural",
                   "coords": [
                         -66.085768,
@@ -5986,7 +5986,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Tucker Park Beach",
-                  "text": "Der Tucker Park Beach ist ein Strand in Saint John.",
+                  "text": "Tucker Park Beach ist ein Sandstrand am John River.",
                   "category": "recreational",
                   "coords": [
                         -66.098785,
@@ -5995,7 +5995,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Fisher Lake Beach",
-                  "text": "Der Fisher Lake Beach ist ein Strand am Fisher Lake in Saint John.",
+                  "text": "Sandstrand am Ufer des Fisher Lake.",
                   "category": "recreational",
                   "coords": [
                         -66.056223,
@@ -6004,7 +6004,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Ragged Point Beach",
-                  "text": "Der Ragged Point Beach ist ein Strand in Saint John.",
+                  "text": "Strand am Ragged Point mit zerklüfteter Küste.",
                   "category": "recreational",
                   "coords": [
                         -66.126502,
@@ -6013,7 +6013,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Sea Dog Cove Nature Preserve",
-                  "text": "Das Sea Dog Cove Nature Preserve ist ein Naturschutzgebiet in Saint John.",
+                  "text": "Das Sea Dog Cove Naturschutzgebiet am John River, eingerichtet 2006.",
                   "category": "natural",
                   "coords": [
                         -66.097457,
@@ -6022,7 +6022,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Turners Flats",
-                  "text": "Die Turners Flats sind ein Strand in Saint John.",
+                  "text": "Turners Flats ist eine flache Erholungsfläche am John River.",
                   "category": "recreational",
                   "coords": [
                         -66.081139,
@@ -6031,7 +6031,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Rockwood Park",
-                  "text": "Der Rockwood Park ist ein großer Stadtpark in Saint John.",
+                  "text": "Der Rockwood Park in Saint John bietet Wanderwege und einen See mitten in der Stadt.",
                   "category": "park",
                   "coords": [
                         -66.05971,
@@ -6049,7 +6049,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Fort La Tour",
-                  "text": "Das Fort La Tour ist ein historisches Fort in Saint John.",
+                  "text": "Fort La Tour ist ein historisches Fort am John River.",
                   "category": "fortress",
                   "coords": [
                         -66.072286,
@@ -6058,7 +6058,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Imperial Theatre",
-                  "text": "Das Imperial Theatre ist ein historisches Theater in Saint John.",
+                  "text": "Das Imperial Theatre ist ein historisches Beaux-Arts-Theater in der Innenstadt von Saint John.",
                   "category": "cultural",
                   "coords": [
                         -66.05775,
@@ -6067,7 +6067,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Kings Square",
-                  "text": "Der Kings Square ist ein Park im Herzen von Saint John.",
+                  "text": "Kings Square ist ein Park im Zentrum von John River.",
                   "category": "park",
                   "coords": [
                         -66.058038,
@@ -6085,7 +6085,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Saint John Jewish Historical Museum",
-                  "text": "Das Saint John Jewish Historical Museum ist ein Museum zur jüdischen Geschichte in Saint John.",
+                  "text": "Museum zur jüdischen Geschichte von Saint John, New Brunswick.",
                   "category": "museum",
                   "coords": [
                         -66.053677,
@@ -6094,7 +6094,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Cathedral of the Immaculate Conception",
-                  "text": "Die Cathedral of the Immaculate Conception ist eine katholische Kathedrale in Saint John.",
+                  "text": "Cathedral of the Immaculate Conception ist die römisch-katholische Kathedrale in John River.",
                   "category": "religious",
                   "coords": [
                         -66.0566,
@@ -6103,7 +6103,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Loyalist Burial Ground",
-                  "text": "Der Loyalist Burial Ground ist ein historischer Friedhof und Park in Saint John.",
+                  "text": "Loyalist Burial Ground ist ein historischer Friedhof der Loyalisten in John River.",
                   "category": "park",
                   "coords": [
                         -66.056447,
@@ -6112,7 +6112,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Stone Church",
-                  "text": "Die Stone Church ist eine Steinkirche in Saint John.",
+                  "text": "Stone Church ist eine Kirche aus Stein in John River.",
                   "category": "religious",
                   "coords": [
                         -66.061586,
@@ -6121,7 +6121,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Loyalist House",
-                  "text": "Das Loyalist House ist ein Museum in einem historischen Haus der Loyalisten in Saint John.",
+                  "text": "Loyalist House ist ein Hausmuseum aus der Loyalistenzeit in John River.",
                   "category": "museum",
                   "coords": [
                         -66.0613,
@@ -6139,7 +6139,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Reversing Falls Railway Bridge",
-                  "text": "Die Reversing Falls Railway Bridge ist eine Eisenbahnbrücke über die Reversing Falls in Saint John.",
+                  "text": "Die Reversing Falls Railway Bridge überspannt die Schlucht der Reversing Falls am Saint John River.",
                   "category": "landmark",
                   "coords": [
                         -66.08675,
@@ -6148,7 +6148,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Crow Island",
-                  "text": "Die Crow Island ist eine Klippe in Saint John.",
+                  "text": "Crow Island ist eine Insel im John River.",
                   "category": "landmark",
                   "coords": [
                         -66.089335,
@@ -6157,7 +6157,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Wolastoq Park",
-                  "text": "Der Wolastoq Park ist ein Park entlang des Wolastoq (Saint John River) in Saint John.",
+                  "text": "Wolastoq Park ist ein Park am Wolastoq (Saint John River) in John River.",
                   "category": "park",
                   "coords": [
                         -66.090007,
@@ -6166,7 +6166,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Sand Cove",
-                  "text": "Der Sand Cove ist ein Strand in Saint John.",
+                  "text": "Sandbuchtstrand entlang der Küste.",
                   "category": "recreational",
                   "coords": [
                         -66.124516,
@@ -6175,7 +6175,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Boars Head Nature Preserve",
-                  "text": "Das Boars Head Nature Preserve ist ein Naturschutzgebiet in Saint John.",
+                  "text": "Naturschutzgebiet mit der Felsformation Boars Head.",
                   "category": "natural",
                   "coords": [
                         -66.124695,
@@ -6184,7 +6184,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Boars Head Beach",
-                  "text": "Der Boars Head Beach ist ein Strand in Saint John.",
+                  "text": "Boars Head Beach ist ein Strand am John River.",
                   "category": "recreational",
                   "coords": [
                         -66.131197,
@@ -6193,7 +6193,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Martinon Beach",
-                  "text": "Der Martinon Beach ist ein Strand in Saint John.",
+                  "text": "Martinon Beach ist ein Strand am John River.",
                   "category": "recreational",
                   "coords": [
                         -66.180124,
@@ -6202,7 +6202,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Saints Rest Marsh-F. Gordon Carvell Nature Preserve",
-                  "text": "Das Saints Rest Marsh-F. Gordon Carvell Nature Preserve ist ein Naturschutzgebiet in Saint John.",
+                  "text": "Das Saints Rest Marsh-F. Gordon Carvell Naturschutzgebiet am John River, eingerichtet 1996.",
                   "category": "natural",
                   "coords": [
                         -66.139438,
@@ -6213,7 +6213,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       "hu": [
             {
                   "name": "Lookout Point",
-                  "text": "Egy kilátópont a Saint John River mentén.",
+                  "text": "Egy természetes kilátópont a John folyóra.",
                   "category": "natural",
                   "coords": [
                         -66.04808,
@@ -6222,7 +6222,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "New Brunswick Museum",
-                  "text": "Egy múzeum a Saint John River régióban.",
+                  "text": "A New Brunswick Múzeum bemutatja a tartomány történelmét a John folyónál.",
                   "category": "museum",
                   "coords": [
                         -66.082244,
@@ -6240,7 +6240,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Anchor",
-                  "text": "Az Anchor egy emlékmű Saint Johnban.",
+                  "text": "Egy történelmi horgony emlékmű a John folyó mentén.",
                   "category": "historical",
                   "coords": [
                         -66.062768,
@@ -6249,7 +6249,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Cobalt Art Gallery",
-                  "text": "A Cobalt Art Gallery egy művészeti galéria Saint Johnban.",
+                  "text": "A Cobalt Art Gallery kortárs művészetet mutat be John River-ben.",
                   "category": "museum",
                   "coords": [
                         -66.062054,
@@ -6258,7 +6258,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Blink",
-                  "text": "A Blink egy művészeti központ Saint Johnban.",
+                  "text": "Egy Blink nevű kulturális helyszín John River-ben.",
                   "category": "cultural",
                   "coords": [
                         -66.059286,
@@ -6267,7 +6267,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Peter Buckland Gallery",
-                  "text": "A Peter Buckland Gallery egy művészeti központ Saint Johnban.",
+                  "text": "A Peter Buckland Gallery képzőművészetet mutat be John River-ben.",
                   "category": "cultural",
                   "coords": [
                         -66.060742,
@@ -6276,7 +6276,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Frank & Ella Hatheway Labour Exhibit",
-                  "text": "A Frank & Ella Hatheway Labour Exhibit egy múzeum Saint Johnban, amely a munka történetével foglalkozik.",
+                  "text": "Egy múzeumi kiállítás a munkásmozgalom történetéről John River-ben.",
                   "category": "museum",
                   "coords": [
                         -66.056596,
@@ -6285,7 +6285,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Phoenix Dinner Theatre",
-                  "text": "A Phoenix Dinner Theatre egy színház Saint Johnban, ahol vacsorát is szolgálnak fel.",
+                  "text": "A Phoenix Dinner Theatre étkezést és előadásokat kínál John River-ben.",
                   "category": "cultural",
                   "coords": [
                         -66.053995,
@@ -6294,7 +6294,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Punch Lines Comedy Club",
-                  "text": "A Punch Lines Comedy Club egy komédia klub Saint Johnban.",
+                  "text": "A Punch Lines Comedy Club stand-up comedy helyszín John River-ben.",
                   "category": "cultural",
                   "coords": [
                         -66.057734,
@@ -6303,7 +6303,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Reversing Falls Lookout",
-                  "text": "A Reversing Falls Lookout egy kilátópont a Reversing Fallsre Saint Johnban.",
+                  "text": "Kilátó a Saint John folyó árapály által megfordított zuhatagaira.",
                   "category": "natural",
                   "coords": [
                         -66.085768,
@@ -6312,7 +6312,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Tucker Park Beach",
-                  "text": "A Tucker Park Beach egy strand Saint Johnban.",
+                  "text": "A Tucker Park Beach egy homokos strand a John River mentén.",
                   "category": "recreational",
                   "coords": [
                         -66.098785,
@@ -6321,7 +6321,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Fisher Lake Beach",
-                  "text": "A Fisher Lake Beach egy strand a Fisher Lake-nél Saint Johnban.",
+                  "text": "Homokos strand a Fisher-tó partján.",
                   "category": "recreational",
                   "coords": [
                         -66.056223,
@@ -6330,7 +6330,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Ragged Point Beach",
-                  "text": "A Ragged Point Beach egy strand Saint Johnban.",
+                  "text": "Strand a Ragged Point-nál, tagolt partszakasszal.",
                   "category": "recreational",
                   "coords": [
                         -66.126502,
@@ -6339,7 +6339,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Sea Dog Cove Nature Preserve",
-                  "text": "A Sea Dog Cove Nature Preserve egy természetvédelmi terület Saint Johnban.",
+                  "text": "A Sea Dog Cove Természetvédelmi Terület a John River mellett, 2006-ban létesítve.",
                   "category": "natural",
                   "coords": [
                         -66.097457,
@@ -6348,7 +6348,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Turners Flats",
-                  "text": "A Turners Flats egy strand Saint Johnban.",
+                  "text": "A Turners Flats egy lapos rekreációs terület a John River mentén.",
                   "category": "recreational",
                   "coords": [
                         -66.081139,
@@ -6357,7 +6357,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Rockwood Park",
-                  "text": "A Rockwood Park egy nagy városi park Saint Johnban.",
+                  "text": "A Rockwood Park Saint Johnban túraútvonalakat és egy tavat kínál a város szívében.",
                   "category": "park",
                   "coords": [
                         -66.05971,
@@ -6375,7 +6375,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Fort La Tour",
-                  "text": "A Fort La Tour egy történelmi erőd Saint Johnban.",
+                  "text": "A Fort La Tour egy történelmi erőd a John River mentén.",
                   "category": "fortress",
                   "coords": [
                         -66.072286,
@@ -6384,7 +6384,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Imperial Theatre",
-                  "text": "Az Imperial Theatre egy történelmi színház Saint Johnban.",
+                  "text": "Az Imperial Theatre egy történelmi Beaux-Arts színház Saint John belvárosában.",
                   "category": "cultural",
                   "coords": [
                         -66.05775,
@@ -6393,7 +6393,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Kings Square",
-                  "text": "A Kings Square egy park Saint John szívében.",
+                  "text": "A Kings Square egy park John River központjában.",
                   "category": "park",
                   "coords": [
                         -66.058038,
@@ -6411,7 +6411,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Saint John Jewish Historical Museum",
-                  "text": "A Saint John Jewish Historical Museum egy múzeum a zsidó történelemről Saint Johnban.",
+                  "text": "Múzeum, amely a Saint John-i zsidó közösség történetét mutatja be.",
                   "category": "museum",
                   "coords": [
                         -66.053677,
@@ -6420,7 +6420,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Cathedral of the Immaculate Conception",
-                  "text": "A Cathedral of the Immaculate Conception egy katolikus székesegyház Saint Johnban.",
+                  "text": "A Szeplőtelen Fogantatás-székesegyház a római katolikus katedrális John Riverben.",
                   "category": "religious",
                   "coords": [
                         -66.0566,
@@ -6429,7 +6429,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Loyalist Burial Ground",
-                  "text": "A Loyalist Burial Ground egy történelmi temető és park Saint Johnban.",
+                  "text": "A Loyalist Burial Ground egy történelmi lojalista temető John Riverben.",
                   "category": "park",
                   "coords": [
                         -66.056447,
@@ -6438,7 +6438,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Stone Church",
-                  "text": "A Stone Church egy kőtemplom Saint Johnban.",
+                  "text": "A Stone Church egy kőből épült templom John Riverben.",
                   "category": "religious",
                   "coords": [
                         -66.061586,
@@ -6447,7 +6447,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Loyalist House",
-                  "text": "A Loyalist House egy múzeum egy történelmi lojalista házban Saint Johnban.",
+                  "text": "A Loyalist House egy lojalista kori házmúzeum John Riverben.",
                   "category": "museum",
                   "coords": [
                         -66.0613,
@@ -6465,7 +6465,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Reversing Falls Railway Bridge",
-                  "text": "A Reversing Falls Railway Bridge egy vasúti híd a Reversing Falls felett Saint Johnban.",
+                  "text": "A Reversing Falls Railway Bridge a Reversing Falls szurdokán ível át a Saint John folyón.",
                   "category": "landmark",
                   "coords": [
                         -66.08675,
@@ -6474,7 +6474,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Crow Island",
-                  "text": "A Crow Island egy szikla Saint Johnban.",
+                  "text": "A Crow Island egy sziget a John Riverben.",
                   "category": "landmark",
                   "coords": [
                         -66.089335,
@@ -6483,7 +6483,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Wolastoq Park",
-                  "text": "A Wolastoq Park egy park a Wolastoq (Saint John folyó) mentén Saint Johnban.",
+                  "text": "A Wolastoq Park egy park a Wolastoq (Saint John River) mentén John Riverben.",
                   "category": "park",
                   "coords": [
                         -66.090007,
@@ -6492,7 +6492,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Sand Cove",
-                  "text": "A Sand Cove egy strand Saint Johnban.",
+                  "text": "Homokos öböl strand a part mentén.",
                   "category": "recreational",
                   "coords": [
                         -66.124516,
@@ -6501,7 +6501,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Boars Head Nature Preserve",
-                  "text": "A Boars Head Nature Preserve egy természetvédelmi terület Saint Johnban.",
+                  "text": "Természetvédelmi terület a Boars Head sziklaformációval.",
                   "category": "natural",
                   "coords": [
                         -66.124695,
@@ -6510,7 +6510,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Boars Head Beach",
-                  "text": "A Boars Head Beach egy strand Saint Johnban.",
+                  "text": "A Boars Head Beach egy strand a John River mentén.",
                   "category": "recreational",
                   "coords": [
                         -66.131197,
@@ -6519,7 +6519,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Martinon Beach",
-                  "text": "A Martinon Beach egy strand Saint Johnban.",
+                  "text": "A Martinon Beach egy strand a John River mentén.",
                   "category": "recreational",
                   "coords": [
                         -66.180124,
@@ -6528,7 +6528,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Saints Rest Marsh-F. Gordon Carvell Nature Preserve",
-                  "text": "A Saints Rest Marsh-F. Gordon Carvell Nature Preserve egy természetvédelmi terület Saint Johnban.",
+                  "text": "A Saints Rest Marsh-F. Gordon Carvell Természetvédelmi Terület a John River mellett, 1996-ban létesítve.",
                   "category": "natural",
                   "coords": [
                         -66.139438,
@@ -6539,7 +6539,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       "ro": [
             {
                   "name": "Lookout Point",
-                  "text": "Un punct de belvedere de-a lungul râului Saint John.",
+                  "text": "Un punct de belvedere natural peste râul John.",
                   "category": "natural",
                   "coords": [
                         -66.04808,
@@ -6548,7 +6548,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "New Brunswick Museum",
-                  "text": "Un muzeu în regiunea râului Saint John.",
+                  "text": "Muzeul New Brunswick prezintă istoria provinciei pe râul John.",
                   "category": "museum",
                   "coords": [
                         -66.082244,
@@ -6566,7 +6566,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Anchor",
-                  "text": "Anchor este un monument în Saint John.",
+                  "text": "Un monument istoric de ancoră de-a lungul râului John.",
                   "category": "historical",
                   "coords": [
                         -66.062768,
@@ -6575,7 +6575,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Cobalt Art Gallery",
-                  "text": "Cobalt Art Gallery este o galerie de artă în Saint John.",
+                  "text": "Galeria de artă Cobalt expune artă contemporană în John River.",
                   "category": "museum",
                   "coords": [
                         -66.062054,
@@ -6584,7 +6584,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Blink",
-                  "text": "Blink este un centru de artă în Saint John.",
+                  "text": "Un loc cultural numit Blink în John River.",
                   "category": "cultural",
                   "coords": [
                         -66.059286,
@@ -6593,7 +6593,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Peter Buckland Gallery",
-                  "text": "Peter Buckland Gallery este un centru de artă în Saint John.",
+                  "text": "Galeria Peter Buckland prezintă artă plastică în John River.",
                   "category": "cultural",
                   "coords": [
                         -66.060742,
@@ -6602,7 +6602,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Frank & Ella Hatheway Labour Exhibit",
-                  "text": "Frank & Ella Hatheway Labour Exhibit este un muzeu în Saint John dedicat istoriei muncii.",
+                  "text": "O expoziție muzeală despre istoria muncii în John River.",
                   "category": "museum",
                   "coords": [
                         -66.056596,
@@ -6611,7 +6611,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Phoenix Dinner Theatre",
-                  "text": "Phoenix Dinner Theatre este un teatru cu cină în Saint John.",
+                  "text": "Teatrul-cină Phoenix oferă mese și spectacole în John River.",
                   "category": "cultural",
                   "coords": [
                         -66.053995,
@@ -6620,7 +6620,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Punch Lines Comedy Club",
-                  "text": "Punch Lines Comedy Club este un club de comedie în Saint John.",
+                  "text": "Punch Lines Comedy Club, un loc pentru comedie stand-up în John River.",
                   "category": "cultural",
                   "coords": [
                         -66.057734,
@@ -6629,7 +6629,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Reversing Falls Lookout",
-                  "text": "Reversing Falls Lookout este un punct de belvedere asupra Reversing Falls în Saint John.",
+                  "text": "Punct de belvedere asupra cascadelor cu reflux ale râului Saint John.",
                   "category": "natural",
                   "coords": [
                         -66.085768,
@@ -6638,7 +6638,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Tucker Park Beach",
-                  "text": "Tucker Park Beach este o plajă în Saint John.",
+                  "text": "Tucker Park Beach este o plajă nisipoasă pe malul râului John.",
                   "category": "recreational",
                   "coords": [
                         -66.098785,
@@ -6647,7 +6647,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Fisher Lake Beach",
-                  "text": "Fisher Lake Beach este o plajă la Fisher Lake în Saint John.",
+                  "text": "Plajă nisipoasă pe malul lacului Fisher.",
                   "category": "recreational",
                   "coords": [
                         -66.056223,
@@ -6656,7 +6656,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Ragged Point Beach",
-                  "text": "Ragged Point Beach este o plajă în Saint John.",
+                  "text": "Plajă la Ragged Point cu țărm accidentat.",
                   "category": "recreational",
                   "coords": [
                         -66.126502,
@@ -6665,7 +6665,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Sea Dog Cove Nature Preserve",
-                  "text": "Sea Dog Cove Nature Preserve este o rezervație naturală în Saint John.",
+                  "text": "Rezervația naturală Sea Dog Cove de pe râul John River, înființată în 2006.",
                   "category": "natural",
                   "coords": [
                         -66.097457,
@@ -6674,7 +6674,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Turners Flats",
-                  "text": "Turners Flats este o plajă în Saint John.",
+                  "text": "Turners Flats este o zonă plată de recreere pe malul râului John.",
                   "category": "recreational",
                   "coords": [
                         -66.081139,
@@ -6683,7 +6683,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Rockwood Park",
-                  "text": "Rockwood Park este un mare parc urban în Saint John.",
+                  "text": "Rockwood Park din Saint John oferă trasee de drumeție și un lac în mijlocul orașului.",
                   "category": "park",
                   "coords": [
                         -66.05971,
@@ -6701,7 +6701,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Fort La Tour",
-                  "text": "Fort La Tour este un fort istoric în Saint John.",
+                  "text": "Fort La Tour este un fort istoric pe malul râului John.",
                   "category": "fortress",
                   "coords": [
                         -66.072286,
@@ -6710,7 +6710,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Imperial Theatre",
-                  "text": "Imperial Theatre este un teatru istoric în Saint John.",
+                  "text": "Imperial Theatre este un teatru istoric Beaux-Arts în centrul orașului Saint John.",
                   "category": "cultural",
                   "coords": [
                         -66.05775,
@@ -6719,7 +6719,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Kings Square",
-                  "text": "Kings Square este un parc în centrul orașului Saint John.",
+                  "text": "Kings Square este un parc în centrul orașului John River.",
                   "category": "park",
                   "coords": [
                         -66.058038,
@@ -6737,7 +6737,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Saint John Jewish Historical Museum",
-                  "text": "Saint John Jewish Historical Museum este un muzeu al istoriei evreiești în Saint John.",
+                  "text": "Muzeu care documentează istoria evreilor din Saint John, New Brunswick.",
                   "category": "museum",
                   "coords": [
                         -66.053677,
@@ -6746,7 +6746,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Cathedral of the Immaculate Conception",
-                  "text": "Cathedral of the Immaculate Conception este o catedrală catolică în Saint John.",
+                  "text": "Catedrala Neprihănitei Zămisliri este catedrala romano-catolică din John River.",
                   "category": "religious",
                   "coords": [
                         -66.0566,
@@ -6755,7 +6755,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Loyalist Burial Ground",
-                  "text": "Loyalist Burial Ground este un cimitir istoric și parc în Saint John.",
+                  "text": "Loyalist Burial Ground este un cimitir istoric loialist în John River.",
                   "category": "park",
                   "coords": [
                         -66.056447,
@@ -6764,7 +6764,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Stone Church",
-                  "text": "Stone Church este o biserică de piatră în Saint John.",
+                  "text": "Stone Church este o biserică de piatră în John River.",
                   "category": "religious",
                   "coords": [
                         -66.061586,
@@ -6773,7 +6773,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Loyalist House",
-                  "text": "Loyalist House este un muzeu într-o casă istorică loialistă în Saint John.",
+                  "text": "Loyalist House este un muzeu-casă din perioada loialistă în John River.",
                   "category": "museum",
                   "coords": [
                         -66.0613,
@@ -6791,7 +6791,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Reversing Falls Railway Bridge",
-                  "text": "Reversing Falls Railway Bridge este un pod de cale ferată peste Reversing Falls în Saint John.",
+                  "text": "Podul feroviar Reversing Falls traversează defileul Reversing Falls pe râul Saint John.",
                   "category": "landmark",
                   "coords": [
                         -66.08675,
@@ -6800,7 +6800,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Crow Island",
-                  "text": "Crow Island este o stâncă în Saint John.",
+                  "text": "Crow Island este o insulă în râul John.",
                   "category": "landmark",
                   "coords": [
                         -66.089335,
@@ -6809,7 +6809,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Wolastoq Park",
-                  "text": "Wolastoq Park este un parc de-a lungul Wolastoq (râul Saint John) în Saint John.",
+                  "text": "Wolastoq Park este un parc pe malul râului Wolastoq (Saint John) în John River.",
                   "category": "park",
                   "coords": [
                         -66.090007,
@@ -6818,7 +6818,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Sand Cove",
-                  "text": "Sand Cove este o plajă în Saint John.",
+                  "text": "Plajă în golf nisipos de-a lungul coastei.",
                   "category": "recreational",
                   "coords": [
                         -66.124516,
@@ -6827,7 +6827,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Boars Head Nature Preserve",
-                  "text": "Boars Head Nature Preserve este o rezervație naturală în Saint John.",
+                  "text": "Rezervație naturală cu formațiunea de stâncă Boars Head.",
                   "category": "natural",
                   "coords": [
                         -66.124695,
@@ -6836,7 +6836,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Boars Head Beach",
-                  "text": "Boars Head Beach este o plajă în Saint John.",
+                  "text": "Boars Head Beach este o plajă pe malul râului John.",
                   "category": "recreational",
                   "coords": [
                         -66.131197,
@@ -6845,7 +6845,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Martinon Beach",
-                  "text": "Martinon Beach este o plajă în Saint John.",
+                  "text": "Martinon Beach este o plajă pe malul râului John.",
                   "category": "recreational",
                   "coords": [
                         -66.180124,
@@ -6854,7 +6854,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Saints Rest Marsh-F. Gordon Carvell Nature Preserve",
-                  "text": "Saints Rest Marsh-F. Gordon Carvell Nature Preserve este o rezervație naturală în Saint John.",
+                  "text": "Rezervația naturală Saints Rest Marsh-F. Gordon Carvell de pe râul John River, înființată în 1996.",
                   "category": "natural",
                   "coords": [
                         -66.139438,
@@ -6865,7 +6865,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       "en": [
             {
                   "name": "Lookout Point",
-                  "text": "A lookout point along the Saint John River.",
+                  "text": "A natural lookout point overlooking the John River.",
                   "category": "natural",
                   "coords": [
                         -66.04808,
@@ -6874,7 +6874,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "New Brunswick Museum",
-                  "text": "A museum in the Saint John River region.",
+                  "text": "The New Brunswick Museum, showcasing the province's history, located on the John River.",
                   "category": "museum",
                   "coords": [
                         -66.082244,
@@ -6892,7 +6892,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Anchor",
-                  "text": "Anchor is a monument in Saint John.",
+                  "text": "A historical anchor monument along the John River.",
                   "category": "historical",
                   "coords": [
                         -66.062768,
@@ -6901,7 +6901,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Cobalt Art Gallery",
-                  "text": "Cobalt Art Gallery is an art gallery in Saint John.",
+                  "text": "Cobalt Art Gallery, exhibiting contemporary art in John River.",
                   "category": "museum",
                   "coords": [
                         -66.062054,
@@ -6910,7 +6910,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Blink",
-                  "text": "Blink is an arts centre in Saint John.",
+                  "text": "A cultural venue called Blink in John River.",
                   "category": "cultural",
                   "coords": [
                         -66.059286,
@@ -6919,7 +6919,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Peter Buckland Gallery",
-                  "text": "Peter Buckland Gallery is an arts centre in Saint John.",
+                  "text": "Peter Buckland Gallery, featuring fine art in John River.",
                   "category": "cultural",
                   "coords": [
                         -66.060742,
@@ -6928,7 +6928,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Frank & Ella Hatheway Labour Exhibit",
-                  "text": "Frank & Ella Hatheway Labour Exhibit is a museum in Saint John focusing on labour history.",
+                  "text": "A museum exhibit about labour history in John River.",
                   "category": "museum",
                   "coords": [
                         -66.056596,
@@ -6937,7 +6937,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Phoenix Dinner Theatre",
-                  "text": "Phoenix Dinner Theatre is a dinner theatre in Saint John.",
+                  "text": "Phoenix Dinner Theatre offering dining and performances in John River.",
                   "category": "cultural",
                   "coords": [
                         -66.053995,
@@ -6946,7 +6946,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Punch Lines Comedy Club",
-                  "text": "Punch Lines Comedy Club is a comedy club in Saint John.",
+                  "text": "Punch Lines Comedy Club, a venue for stand-up comedy in John River.",
                   "category": "cultural",
                   "coords": [
                         -66.057734,
@@ -6955,7 +6955,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Reversing Falls Lookout",
-                  "text": "Reversing Falls Lookout is a viewpoint overlooking the Reversing Falls in Saint John.",
+                  "text": "Lookout over the reversing tidal rapids of the Saint John River.",
                   "category": "natural",
                   "coords": [
                         -66.085768,
@@ -6964,7 +6964,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Tucker Park Beach",
-                  "text": "Tucker Park Beach is a beach in Saint John.",
+                  "text": "Tucker Park Beach is a sandy beach along the John River.",
                   "category": "recreational",
                   "coords": [
                         -66.098785,
@@ -6973,7 +6973,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Fisher Lake Beach",
-                  "text": "Fisher Lake Beach is a beach at Fisher Lake in Saint John.",
+                  "text": "Sandy beach on the shores of Fisher Lake.",
                   "category": "recreational",
                   "coords": [
                         -66.056223,
@@ -6982,7 +6982,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Ragged Point Beach",
-                  "text": "Ragged Point Beach is a beach in Saint John.",
+                  "text": "Beach at Ragged Point with rugged shoreline.",
                   "category": "recreational",
                   "coords": [
                         -66.126502,
@@ -6991,7 +6991,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Sea Dog Cove Nature Preserve",
-                  "text": "Sea Dog Cove Nature Preserve is a nature preserve in Saint John.",
+                  "text": "Sea Dog Cove Nature Preserve established in 2006 along the John River.",
                   "category": "natural",
                   "coords": [
                         -66.097457,
@@ -7000,7 +7000,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Turners Flats",
-                  "text": "Turners Flats is a beach in Saint John.",
+                  "text": "Turners Flats is a flat recreational area along the John River.",
                   "category": "recreational",
                   "coords": [
                         -66.081139,
@@ -7009,7 +7009,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Rockwood Park",
-                  "text": "Rockwood Park is a large urban park in Saint John.",
+                  "text": "Rockwood Park in Saint John offers hiking trails and a lake in the city center.",
                   "category": "park",
                   "coords": [
                         -66.05971,
@@ -7027,7 +7027,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Fort La Tour",
-                  "text": "Fort La Tour is a historic fort in Saint John.",
+                  "text": "Fort La Tour is a historic fort on the John River.",
                   "category": "fortress",
                   "coords": [
                         -66.072286,
@@ -7036,7 +7036,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Imperial Theatre",
-                  "text": "Imperial Theatre is a historic theatre in Saint John.",
+                  "text": "Imperial Theatre is a historic Beaux-Arts theatre in downtown Saint John.",
                   "category": "cultural",
                   "coords": [
                         -66.05775,
@@ -7045,7 +7045,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Kings Square",
-                  "text": "Kings Square is a park in the heart of Saint John.",
+                  "text": "Kings Square is a park in the centre of John River.",
                   "category": "park",
                   "coords": [
                         -66.058038,
@@ -7063,7 +7063,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Saint John Jewish Historical Museum",
-                  "text": "Saint John Jewish Historical Museum is a museum of Jewish history in Saint John.",
+                  "text": "Museum documenting the Jewish history of Saint John, New Brunswick.",
                   "category": "museum",
                   "coords": [
                         -66.053677,
@@ -7072,7 +7072,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Cathedral of the Immaculate Conception",
-                  "text": "Cathedral of the Immaculate Conception is a Catholic cathedral in Saint John.",
+                  "text": "Cathedral of the Immaculate Conception is the Roman Catholic cathedral in John River.",
                   "category": "religious",
                   "coords": [
                         -66.0566,
@@ -7081,7 +7081,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Loyalist Burial Ground",
-                  "text": "Loyalist Burial Ground is a historic burial ground and park in Saint John.",
+                  "text": "Loyalist Burial Ground is a historic Loyalist cemetery in John River.",
                   "category": "park",
                   "coords": [
                         -66.056447,
@@ -7090,7 +7090,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Stone Church",
-                  "text": "Stone Church is a stone church in Saint John.",
+                  "text": "Stone Church is a stone church in John River.",
                   "category": "religious",
                   "coords": [
                         -66.061586,
@@ -7099,7 +7099,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Loyalist House",
-                  "text": "Loyalist House is a museum in a historic Loyalist house in Saint John.",
+                  "text": "Loyalist House is a Loyalist-era house museum in John River.",
                   "category": "museum",
                   "coords": [
                         -66.0613,
@@ -7117,7 +7117,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Reversing Falls Railway Bridge",
-                  "text": "Reversing Falls Railway Bridge is a railway bridge spanning the Reversing Falls in Saint John.",
+                  "text": "Reversing Falls Railway Bridge spans the Reversing Falls gorge on the Saint John River.",
                   "category": "landmark",
                   "coords": [
                         -66.08675,
@@ -7126,7 +7126,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Crow Island",
-                  "text": "Crow Island is a cliff in Saint John.",
+                  "text": "Crow Island is an island in the John River.",
                   "category": "landmark",
                   "coords": [
                         -66.089335,
@@ -7135,7 +7135,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Wolastoq Park",
-                  "text": "Wolastoq Park is a park along the Wolastoq (Saint John River) in Saint John.",
+                  "text": "Wolastoq Park is a park on the Wolastoq (Saint John River) in John River.",
                   "category": "park",
                   "coords": [
                         -66.090007,
@@ -7144,7 +7144,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Sand Cove",
-                  "text": "Sand Cove is a beach in Saint John.",
+                  "text": "Sandy cove beach along the coast.",
                   "category": "recreational",
                   "coords": [
                         -66.124516,
@@ -7153,7 +7153,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Boars Head Nature Preserve",
-                  "text": "Boars Head Nature Preserve is a nature preserve in Saint John.",
+                  "text": "Nature preserve featuring the Boars Head rock formation.",
                   "category": "natural",
                   "coords": [
                         -66.124695,
@@ -7162,7 +7162,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Boars Head Beach",
-                  "text": "Boars Head Beach is a beach in Saint John.",
+                  "text": "Boars Head Beach is a beach along the John River.",
                   "category": "recreational",
                   "coords": [
                         -66.131197,
@@ -7171,7 +7171,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Martinon Beach",
-                  "text": "Martinon Beach is a beach in Saint John.",
+                  "text": "Martinon Beach is a beach along the John River.",
                   "category": "recreational",
                   "coords": [
                         -66.180124,
@@ -7180,7 +7180,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Saints Rest Marsh-F. Gordon Carvell Nature Preserve",
-                  "text": "Saints Rest Marsh-F. Gordon Carvell Nature Preserve is a nature preserve in Saint John.",
+                  "text": "Saints Rest Marsh-F. Gordon Carvell Nature Preserve established in 1996 along the John River.",
                   "category": "natural",
                   "coords": [
                         -66.139438,
@@ -7361,7 +7361,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       "de": [
             {
                   "name": "Como se Dice Collective",
-                  "text": "Das Como se Dice Collective ist ein Kunstkollektivzentrum in Calgary.",
+                  "text": "Kulturkollektiv mit Sprach- und Kunstprogrammen.",
                   "category": "cultural",
                   "coords": [
                         -114.062065,
@@ -7370,7 +7370,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Wall of Names",
-                  "text": "Die Wall of Names ist ein Monument in Calgary.",
+                  "text": "Gedenkwand mit den Namen der Gefallenen.",
                   "category": "historical",
                   "coords": [
                         -114.064667,
@@ -7379,7 +7379,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "ATB Main Stage",
-                  "text": "Die ATB Main Stage ist eine Theaterbühne in Calgary.",
+                  "text": "ATB Main Stage ist eine Open-Air-Bühne in River.",
                   "category": "cultural",
                   "coords": [
                         -114.075362,
@@ -7388,7 +7388,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "iFLY Calgary",
-                  "text": "iFLY Calgary ist eine Indoor-Fallschirmsprung-Anlage in Calgary.",
+                  "text": "Indoor-Fallschirmsprunganlage mit vertikalem Windkanal.",
                   "category": "landmark",
                   "coords": [
                         -114.045272,
@@ -7397,7 +7397,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Centre Street Church - Central Campus",
-                  "text": "Die Centre Street Church - Central Campus ist eine Kirche in Calgary.",
+                  "text": "Centre Street Church - Central Campus ist die Hauptkirche der Centre Street Church in River.",
                   "category": "religious",
                   "coords": [
                         -114.056163,
@@ -7406,7 +7406,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Centre Street Bridge",
-                  "text": "Die Centre Street Bridge ist eine historische Brücke in Calgary.",
+                  "text": "Die Centre Street Bridge in Calgary ist eine historische Brücke über den Bow River mit Löwenstatuen.",
                   "category": "landmark",
                   "coords": [
                         -114.062553,
@@ -7415,7 +7415,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Prince's Island Park",
-                  "text": "Der Prince's Island Park ist ein Inselpark im Bow River in Calgary.",
+                  "text": "Der Prince's Island Park liegt auf einer Insel im Bow River in Calgary und hat Gärten und Wege.",
                   "category": "park",
                   "coords": [
                         -114.07061,
@@ -7424,7 +7424,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Knox United Church",
-                  "text": "Die Knox United Church ist eine United Church in Calgary.",
+                  "text": "Die Knox United Church in Calgary ist eine historische Kirche im neugotischen Stil.",
                   "category": "religious",
                   "coords": [
                         -114.071083,
@@ -7435,7 +7435,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       "hu": [
             {
                   "name": "Como se Dice Collective",
-                  "text": "A Como se Dice Collective egy művészeti kollektív központ Calgaryban.",
+                  "text": "Kulturális kollektíva nyelvi és művészeti programokkal.",
                   "category": "cultural",
                   "coords": [
                         -114.062065,
@@ -7444,7 +7444,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Wall of Names",
-                  "text": "A Wall of Names egy emlékmű Calgaryban.",
+                  "text": "Emlékfal a hősi halottak neveivel.",
                   "category": "historical",
                   "coords": [
                         -114.064667,
@@ -7453,7 +7453,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "ATB Main Stage",
-                  "text": "Az ATB Main Stage egy színházi színpad Calgaryban.",
+                  "text": "Az ATB Main Stage egy szabadtéri színpad Riverben.",
                   "category": "cultural",
                   "coords": [
                         -114.075362,
@@ -7462,7 +7462,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "iFLY Calgary",
-                  "text": "Az iFLY Calgary egy beltéri ejtőernyőzési létesítmény Calgaryban.",
+                  "text": "Beltéri ejtőernyőzési létesítmény függőleges szélcsatornával.",
                   "category": "landmark",
                   "coords": [
                         -114.045272,
@@ -7471,7 +7471,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Centre Street Church - Central Campus",
-                  "text": "A Centre Street Church - Central Campus egy templom Calgaryban.",
+                  "text": "A Centre Street Church – Central Campus a Centre Street Church fő temploma Riverben.",
                   "category": "religious",
                   "coords": [
                         -114.056163,
@@ -7480,7 +7480,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Centre Street Bridge",
-                  "text": "A Centre Street híd egy történelmi híd Calgaryban.",
+                  "text": "A Centre Street Bridge Calgaryban egy történelmi híd a Bow folyón, oroszlánszobrokkal.",
                   "category": "landmark",
                   "coords": [
                         -114.062553,
@@ -7489,7 +7489,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Prince's Island Park",
-                  "text": "A Prince's Island Park egy szigetpark a Bow folyóban Calgaryban.",
+                  "text": "A Prince's Island Park egy szigeten található a Bow folyón Calgaryban, kertekkel és ösvényekkel.",
                   "category": "park",
                   "coords": [
                         -114.07061,
@@ -7498,7 +7498,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Knox United Church",
-                  "text": "A Knox United Church egy egyesült egyház Calgaryban.",
+                  "text": "A Knox United Church Calgaryban egy történelmi neogótikus stílusú templom.",
                   "category": "religious",
                   "coords": [
                         -114.071083,
@@ -7509,7 +7509,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       "ro": [
             {
                   "name": "Como se Dice Collective",
-                  "text": "Como se Dice Collective este un centru de artă colectiv în Calgary.",
+                  "text": "Colectiv cultural care oferă programe de limbă și arte.",
                   "category": "cultural",
                   "coords": [
                         -114.062065,
@@ -7518,7 +7518,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Wall of Names",
-                  "text": "Zidul Numelor este un monument în Calgary.",
+                  "text": "Zid memorial cu numele celor căzuți.",
                   "category": "historical",
                   "coords": [
                         -114.064667,
@@ -7527,7 +7527,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "ATB Main Stage",
-                  "text": "Scena Principală ATB este o scenă de teatru în Calgary.",
+                  "text": "ATB Main Stage este o scenă în aer liber în River.",
                   "category": "cultural",
                   "coords": [
                         -114.075362,
@@ -7536,7 +7536,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "iFLY Calgary",
-                  "text": "iFLY Calgary este o facilitate de parașutism interior în Calgary.",
+                  "text": "Facilitate de parașutism interior cu tunel de vânt vertical.",
                   "category": "landmark",
                   "coords": [
                         -114.045272,
@@ -7545,7 +7545,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Centre Street Church - Central Campus",
-                  "text": "Biserica Centre Street - Campusul Central este o biserică în Calgary.",
+                  "text": "Centre Street Church – Central Campus este biserica principală a Centre Street Church în River.",
                   "category": "religious",
                   "coords": [
                         -114.056163,
@@ -7554,7 +7554,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Centre Street Bridge",
-                  "text": "Podul Centre Street este un pod istoric în Calgary.",
+                  "text": "Podul Centre Street din Calgary este un pod istoric peste râul Bow, cu statui de lei.",
                   "category": "landmark",
                   "coords": [
                         -114.062553,
@@ -7563,7 +7563,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Prince's Island Park",
-                  "text": "Parcul Insula Prince este un parc pe insulă în râul Bow din Calgary.",
+                  "text": "Parcul Prince's Island se află pe o insulă în râul Bow din Calgary, cu grădini și poteci.",
                   "category": "park",
                   "coords": [
                         -114.07061,
@@ -7572,7 +7572,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Knox United Church",
-                  "text": "Biserica Unită Knox este o biserică unită în Calgary.",
+                  "text": "Knox United Church din Calgary este o biserică istorică în stil gotic revival.",
                   "category": "religious",
                   "coords": [
                         -114.071083,
@@ -7583,7 +7583,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       "en": [
             {
                   "name": "Como se Dice Collective",
-                  "text": "Como se Dice Collective is an arts collective centre in Calgary.",
+                  "text": "Cultural collective offering language and arts programming.",
                   "category": "cultural",
                   "coords": [
                         -114.062065,
@@ -7592,7 +7592,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Wall of Names",
-                  "text": "Wall of Names is a monument in Calgary.",
+                  "text": "Memorial wall inscribed with names of the fallen.",
                   "category": "historical",
                   "coords": [
                         -114.064667,
@@ -7601,7 +7601,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "ATB Main Stage",
-                  "text": "ATB Main Stage is a theatre stage in Calgary.",
+                  "text": "ATB Main Stage is an outdoor stage in River.",
                   "category": "cultural",
                   "coords": [
                         -114.075362,
@@ -7610,7 +7610,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "iFLY Calgary",
-                  "text": "iFLY Calgary is an indoor skydiving facility in Calgary.",
+                  "text": "Indoor skydiving facility with a vertical wind tunnel.",
                   "category": "landmark",
                   "coords": [
                         -114.045272,
@@ -7619,7 +7619,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Centre Street Church - Central Campus",
-                  "text": "Centre Street Church - Central Campus is a church in Calgary.",
+                  "text": "Centre Street Church – Central Campus is the main campus of Centre Street Church in River.",
                   "category": "religious",
                   "coords": [
                         -114.056163,
@@ -7628,7 +7628,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Centre Street Bridge",
-                  "text": "Centre Street Bridge is a historic bridge in Calgary.",
+                  "text": "Centre Street Bridge in Calgary is a historic bridge over the Bow River with lion statues.",
                   "category": "landmark",
                   "coords": [
                         -114.062553,
@@ -7637,7 +7637,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Prince's Island Park",
-                  "text": "Prince's Island Park is an island park in the Bow River in Calgary.",
+                  "text": "Prince's Island Park is on an island in the Bow River in Calgary, with gardens and pathways.",
                   "category": "park",
                   "coords": [
                         -114.07061,
@@ -7646,7 +7646,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
             },
             {
                   "name": "Knox United Church",
-                  "text": "Knox United Church is a United Church in Calgary.",
+                  "text": "Knox United Church in Calgary is a historic Gothic Revival church.",
                   "category": "religious",
                   "coords": [
                         -114.071083,

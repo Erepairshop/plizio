@@ -259,7 +259,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
             },
             {
                   "name": "moulin pour Mais",
-                  "text": "Eine traditionelle Mühle in Aného, die zur Verarbeitung von Mais genutzt wird.",
+                  "text": "Historische Mais-Mühle in Aneho, ein Wahrzeichen.",
                   "category": "landmark",
                   "coords": [
                         1.620113,
@@ -333,7 +333,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
             },
             {
                   "name": "moulin pour Mais",
-                  "text": "Hagyományos malom Anéhóban, amelyet kukorica feldolgozására használnak.",
+                  "text": "Történelmi kukoricamalom Aneho-ban, nevezetesség.",
                   "category": "landmark",
                   "coords": [
                         1.620113,
@@ -407,7 +407,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
             },
             {
                   "name": "moulin pour Mais",
-                  "text": "O moară tradițională în Aného, utilizată pentru procesarea porumbului.",
+                  "text": "Moară istorică de porumb în Aneho, un reper.",
                   "category": "landmark",
                   "coords": [
                         1.620113,
@@ -481,7 +481,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
             },
             {
                   "name": "moulin pour Mais",
-                  "text": "A traditional mill in Aného used for processing corn.",
+                  "text": "A historic corn mill in Aneho, a local landmark.",
                   "category": "landmark",
                   "coords": [
                         1.620113,
@@ -758,7 +758,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Farver's house",
-                  "text": "Farver's house ist eine Burg in Sansanné-Mango.",
+                  "text": "Schlossartiges Haus des Färbers in Mango, umgeben von alten Bäumen.",
                   "category": "castle",
                   "coords": [
                         0.453632,
@@ -767,7 +767,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
             },
             {
                   "name": "Farver's 2.0",
-                  "text": "Farver's 2.0 ist eine Attraktion in Sansanné-Mango.",
+                  "text": "Modernes Wahrzeichen in Mango, Nachfolger des Farver-Hauses.",
                   "category": "landmark",
                   "coords": [
                         0.459585,
@@ -778,7 +778,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Farver's house",
-                  "text": "A Farver's house egy vár Sansanné-Mango városában.",
+                  "text": "A festő kastélyszerű háza Mangóban, régi fák között.",
                   "category": "castle",
                   "coords": [
                         0.453632,
@@ -787,7 +787,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
             },
             {
                   "name": "Farver's 2.0",
-                  "text": "A Farver's 2.0 egy látványosság Sansanné-Mango városában.",
+                  "text": "Modern nevezetesség Mangóban, a Farver-ház utódja.",
                   "category": "landmark",
                   "coords": [
                         0.459585,
@@ -798,7 +798,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Farver's house",
-                  "text": "Farver's house este un castel situat în Sansanné-Mango.",
+                  "text": "Casa de tip castel a vopsitorului în Mango, înconjurată de copaci bătrâni.",
                   "category": "castle",
                   "coords": [
                         0.453632,
@@ -807,7 +807,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
             },
             {
                   "name": "Farver's 2.0",
-                  "text": "Farver's 2.0 este o atracție situată în Sansanné-Mango.",
+                  "text": "Reper modern în Mango, succesor al casei Farver.",
                   "category": "landmark",
                   "coords": [
                         0.459585,
@@ -818,7 +818,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Farver's house",
-                  "text": "Farver's house is a castle located in Sansanné-Mango.",
+                  "text": "A castle-like house of the dyer in Mango, set among old trees.",
                   "category": "castle",
                   "coords": [
                         0.453632,
@@ -827,7 +827,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
             },
             {
                   "name": "Farver's 2.0",
-                  "text": "Farver's 2.0 is an attraction located in Sansanné-Mango.",
+                  "text": "A modern landmark in Mango, successor to Farver's house.",
                   "category": "landmark",
                   "coords": [
                         0.459585,
@@ -1192,7 +1192,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Centre Culturel et de Loisir de Sotouboua",
-                  "text": "Ein Zentrum für Kultur und Freizeitaktivitäten in Sotouboua.",
+                  "text": "Kultur- und Freizeitzentrum in Sotouboua mit Veranstaltungen.",
                   "category": "cultural",
                   "coords": [
                         0.975541,
@@ -1203,7 +1203,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Centre Culturel et de Loisir de Sotouboua",
-                  "text": "Kulturális és szabadidős központ Sotoubouában.",
+                  "text": "Kulturális és szabadidős központ Sotoubouában, rendezvényekkel.",
                   "category": "cultural",
                   "coords": [
                         0.975541,
@@ -1214,7 +1214,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Centre Culturel et de Loisir de Sotouboua",
-                  "text": "Un centru pentru cultură și activități de recreere în Sotouboua.",
+                  "text": "Centru cultural și de agrement în Sotouboua, cu evenimente.",
                   "category": "cultural",
                   "coords": [
                         0.975541,
@@ -1225,7 +1225,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Centre Culturel et de Loisir de Sotouboua",
-                  "text": "A centre for culture and leisure activities in Sotouboua.",
+                  "text": "A cultural and leisure centre in Sotouboua hosting events.",
                   "category": "cultural",
                   "coords": [
                         0.975541,
@@ -1941,7 +1941,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Maison des jeunes et de la culture de Pagouda",
-                  "text": "Ein lokales Kulturzentrum für Jugend und Künste in Pagouda.",
+                  "text": "Jugend- und Kulturhaus in Pagouda mit Bildungsaktivitäten.",
                   "category": "cultural",
                   "coords": [
                         1.325816,
@@ -1952,7 +1952,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Maison des jeunes et de la culture de Pagouda",
-                  "text": "Helyi kulturális központ az ifjúság és a művészetek számára Pagoudában.",
+                  "text": "Ifjúsági és kulturális ház Pagoudában, oktatási tevékenységekkel.",
                   "category": "cultural",
                   "coords": [
                         1.325816,
@@ -1963,7 +1963,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Maison des jeunes et de la culture de Pagouda",
-                  "text": "Un centru cultural local pentru tineret și arte în Pagouda.",
+                  "text": "Casă a tineretului și culturii în Pagouda, cu activități educaționale.",
                   "category": "cultural",
                   "coords": [
                         1.325816,
@@ -1974,7 +1974,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Maison des jeunes et de la culture de Pagouda",
-                  "text": "A local cultural center for youth and arts in Pagouda.",
+                  "text": "A youth and cultural centre in Pagouda offering educational activities.",
                   "category": "cultural",
                   "coords": [
                         1.325816,
@@ -2383,7 +2383,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Martyrs de Pya Hodo",
-                  "text": "Martyrs de Pya Hodo ist ein Denkmal in Yadé.",
+                  "text": "Gedenkstätte für die Märtyrer von Pya Hodo in Yade.",
                   "category": "historical",
                   "coords": [
                         1.17237,
@@ -2394,7 +2394,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Martyrs de Pya Hodo",
-                  "text": "A Martyrs de Pya Hodo egy emlékmű Yadé városában.",
+                  "text": "A pya hodo-i vértanúk emlékhelye Yade-ben.",
                   "category": "historical",
                   "coords": [
                         1.17237,
@@ -2405,7 +2405,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Martyrs de Pya Hodo",
-                  "text": "Martyrs de Pya Hodo este un monument situat în Yadé.",
+                  "text": "Loc de memorial pentru martirii de la Pya Hodo în Yade.",
                   "category": "historical",
                   "coords": [
                         1.17237,
@@ -2416,7 +2416,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Martyrs de Pya Hodo",
-                  "text": "Martyrs de Pya Hodo is a monument located in Yadé.",
+                  "text": "A memorial site for the martyrs of Pya Hodo in Yade.",
                   "category": "historical",
                   "coords": [
                         1.17237,
@@ -2472,7 +2472,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Fosse aux lions",
-                  "text": "Ein Naturschutzgebiet in Biankouri, das für seine Tierwelt bekannt ist.",
+                  "text": "Naturhöhle namens 'Löwengrube' in Biankouri, Kalksteinformation.",
                   "category": "natural",
                   "coords": [
                         0.196555,
@@ -2483,7 +2483,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Fosse aux lions",
-                  "text": "Természetvédelmi terület Biankouriban, amely vadvilágáról ismert.",
+                  "text": "Természetes barlang, 'Oroszlánverem' Biankouriban, mészkőképződmény.",
                   "category": "natural",
                   "coords": [
                         0.196555,
@@ -2494,7 +2494,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Fosse aux lions",
-                  "text": "O rezervație naturală în Biankouri, cunoscută pentru viața sa sălbatică.",
+                  "text": "Peșteră naturală numită 'Groapa leilor' în Biankouri, formațiune de calcar.",
                   "category": "natural",
                   "coords": [
                         0.196555,
@@ -2505,7 +2505,7 @@ export const poiExtraTogoCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Fosse aux lions",
-                  "text": "A nature reserve in Biankouri known for its wildlife.",
+                  "text": "A natural cave called 'Lion Pit' in Biankouri, a limestone formation.",
                   "category": "natural",
                   "coords": [
                         0.196555,

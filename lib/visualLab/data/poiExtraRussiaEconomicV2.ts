@@ -49,7 +49,844 @@ imageHint: "Industrial skyline of Magnitogorsk Iron and Steel Works",
     },
     image: "/poi-images/russia-magnitogorsk-steel-economic-v2.webp",
 },  {
-    id: "russia-norilsk-nickel-economic-v2",
+    id: "russia-norilsk-nickel-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khudozhestvennaia gallereia",
+                  "text": "Diese Kunstgalerie in Norilsk zeigt Werke regionaler Künstler inmitten der industriellen Arktis-Landschaft.",
+                  "category": "cultural",
+                  "coords": [
+                        88.194671,
+                        69.361968
+                  ]
+            },
+            {
+                  "name": "Tropikana",
+                  "text": "Ein Indoor-Wasserpark, der einen tropischen Rückzugsort im extremen Klima von Norilsk bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        88.182674,
+                        69.359116
+                  ]
+            },
+            {
+                  "name": "Muzei stroitel'stva i razvitiia Noril'skoi zheleznoi dorogi",
+                  "text": "Dieses Museum dokumentiert den Bau und den isolierten Betrieb des nördlichsten Eisenbahnnetzes der Welt.",
+                  "category": "museum",
+                  "coords": [
+                        88.136975,
+                        69.357258
+                  ]
+            },
+            {
+                  "name": "Teplovoz vyezzhaiushchii iz tonnelia",
+                  "text": "Ein Denkmal, das eine aus einem Tunnel ausfahrende Diesellokomotive darstellt und die Eisenbahngeschichte der Region symbolisiert.",
+                  "category": "landmark",
+                  "coords": [
+                        88.142407,
+                        69.356709
+                  ]
+            },
+            {
+                  "name": "Noril'skii zapoliarnyi teatr dramy im. Vl. Maiakovskogo",
+                  "text": "Das nördlichste professionelle Theater der Welt, benannt nach dem russischen Dichter Wladimir Majakowski.",
+                  "category": "cultural",
+                  "coords": [
+                        88.196166,
+                        69.352829
+                  ]
+            },
+            {
+                  "name": "studiia-teatr Artistionok",
+                  "text": "Ein lokales Studiotheater in Norilsk, das sich auf zeitgenössische Aufführungen und Jugendproduktionen konzentriert.",
+                  "category": "cultural",
+                  "coords": [
+                        88.191065,
+                        69.344806
+                  ]
+            },
+            {
+                  "name": "Nia tansa",
+                  "text": "Ein Kulturzentrum in Norilsk, das regionale Tanz- und Kunstformen im hohen Norden fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        88.228664,
+                        69.343072
+                  ]
+            },
+            {
+                  "name": "Shtorm",
+                  "text": "Ein Unterhaltungszentrum in der Industriestadt Norilsk, das Freizeitaktivitäten für die lokale Bevölkerung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        88.23137,
+                        69.340299
+                  ]
+            },
+            {
+                  "name": "5 i 6 shestoe otdeleniia Noril'laga",
+                  "text": "Ruinen der 5. und 6. Abteilung von Norillag, die an die dunkle Geschichte des sowjetischen Gulag-Systems erinnern.",
+                  "category": "historical",
+                  "coords": [
+                        88.258805,
+                        69.308761
+                  ]
+            },
+            {
+                  "name": "Ruiny issledovatel'skogo iadernogo reaktora RG-1M",
+                  "text": "Die verlassenen Überreste des RG-1M-Forschungsreaktors, der einst für kerntechnische Tests in der Arktis genutzt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        88.244921,
+                        69.303194
+                  ]
+            },
+            {
+                  "name": "Ruiny geologicheskogo posiolka Noril'sk-2",
+                  "text": "Überreste einer ehemaligen Geologensiedlung in der Nähe von Norilsk, die von der frühen Erschließung der Region zeugen.",
+                  "category": "historical",
+                  "coords": [
+                        88.268956,
+                        69.267459
+                  ]
+            },
+            {
+                  "name": "Gorodskoi Tsentr Kul'tury",
+                  "text": "Das städtische Kulturzentrum von Norilsk, ein Hauptveranstaltungsort für Konzerte und Gemeinschaftsevents.",
+                  "category": "cultural",
+                  "coords": [
+                        88.191733,
+                        69.360622
+                  ]
+            },
+            {
+                  "name": "Pervyi dom Noril'ska",
+                  "text": "Das erste Haus von Norilsk, eine kleine Holzhütte, die 1921 vom Entdecker Nikolai Urwanzew errichtet wurde.",
+                  "category": "museum",
+                  "coords": [
+                        88.209176,
+                        69.346129
+                  ]
+            },
+            {
+                  "name": "Nurd-Kamal-Moschee",
+                  "text": "Die nördlichste Moschee der Welt, die durch ihr auffälliges smaragdgrünes Minarett besticht.",
+                  "category": "religious",
+                  "coords": [
+                        88.200682,
+                        69.340933
+                  ]
+            },
+            {
+                  "name": "Tserkov' evangel'skikh khristian baptistov <<Primirenie>>",
+                  "text": "Eine baptistische Kirche in Norilsk, die ein geistliches Zentrum für die evangelische Gemeinde der Stadt bildet.",
+                  "category": "landmark",
+                  "coords": [
+                        88.172356,
+                        69.3641
+                  ]
+            },
+            {
+                  "name": "Khram Sviatitelia Luki Arkhiepiskopa Krasnoiarskogo",
+                  "text": "Eine orthodoxe Kirche, gewidmet dem heiligen Lukas, einem berühmten Chirurgen und Erzbischof, der in Sibirien im Exil lebte.",
+                  "category": "landmark",
+                  "coords": [
+                        88.190041,
+                        69.34623
+                  ]
+            },
+            {
+                  "name": "Khram Novomuchennikov i Ispovednikov Tserkvi Russkoi",
+                  "text": "Diese 2018 geweihte Kirche erinnert an die Opfer der politischen Repressionen in der Sowjetunion.",
+                  "category": "landmark",
+                  "coords": [
+                        88.197779,
+                        69.354515
+                  ]
+            },
+            {
+                  "name": "Kafedral'nyi Sobor ikony Bozhiei Materi <<Vsekh skorbiashchikh Radost'>>",
+                  "text": "Eine bedeutende russisch-orthodoxe Kathedrale in Norilsk, benannt nach einer berühmten Marienikone.",
+                  "category": "landmark",
+                  "coords": [
+                        88.223655,
+                        69.343508
+                  ]
+            },
+            {
+                  "name": "Meridian",
+                  "text": "Ein lokales Einkaufszentrum und Marktplatz, der eine wichtige Versorgungsquelle in der abgelegenen Stadt Norilsk darstellt.",
+                  "category": "cultural",
+                  "coords": [
+                        88.171852,
+                        69.356547
+                  ]
+            },
+            {
+                  "name": "Promploshchadka Urvantseva",
+                  "text": "Ein Handels- und Marktgebiet in Norilsk, benannt nach dem Entdecker der lokalen Erzlagerstätten.",
+                  "category": "cultural",
+                  "coords": [
+                        88.215025,
+                        69.365201
+                  ]
+            },
+            {
+                  "name": "Torgovyi dom Medved'",
+                  "text": "Ein bekanntes Handelshaus in Norilsk, das eine Vielzahl von Waren für die Bewohner der Polarregion anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        88.179714,
+                        69.361296
+                  ]
+            },
+            {
+                  "name": "ATOLL",
+                  "text": "Ein modernes Einkaufszentrum in Norilsk, das verschiedene Geschäfte unter einem Dach vereint.",
+                  "category": "cultural",
+                  "coords": [
+                        88.17514,
+                        69.357596
+                  ]
+            },
+            {
+                  "name": "Ovoshchebaza",
+                  "text": "Ein lokaler Lebensmittelmarkt und Verteilerzentrum, das für die Versorgung von Norilsk entscheidend ist.",
+                  "category": "cultural",
+                  "coords": [
+                        88.201008,
+                        69.324997
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khudozhestvennaia gallereia",
+                  "text": "Ez a norilszki művészeti galéria a régió művészeinek alkotásait mutatja be az ipari sarkvidéki környezetben.",
+                  "category": "cultural",
+                  "coords": [
+                        88.194671,
+                        69.361968
+                  ]
+            },
+            {
+                  "name": "Tropikana",
+                  "text": "Fedett vízipark, amely trópusi kikapcsolódást kínál Norilszk szélsőséges éghajlati viszonyai között.",
+                  "category": "recreational",
+                  "coords": [
+                        88.182674,
+                        69.359116
+                  ]
+            },
+            {
+                  "name": "Muzei stroitel'stva i razvitiia Noril'skoi zheleznoi dorogi",
+                  "text": "Ez a múzeum a világ legészakibb vasúthálózatának építését és elszigetelt működését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        88.136975,
+                        69.357258
+                  ]
+            },
+            {
+                  "name": "Teplovoz vyezzhaiushchii iz tonnelia",
+                  "text": "Emlékmű, amely egy alagútból kifutó dízelmozdonyt ábrázol, szimbolizálva a régió vasúti történelmét.",
+                  "category": "landmark",
+                  "coords": [
+                        88.142407,
+                        69.356709
+                  ]
+            },
+            {
+                  "name": "Noril'skii zapoliarnyi teatr dramy im. Vl. Maiakovskogo",
+                  "text": "A világ legészakibb profi színháza, amely Vlagyimir Majakovszkij orosz költő nevét viseli.",
+                  "category": "cultural",
+                  "coords": [
+                        88.196166,
+                        69.352829
+                  ]
+            },
+            {
+                  "name": "studiia-teatr Artistionok",
+                  "text": "Helyi stúdiószínház Norilszkban, amely kortárs előadásokra és ifjúsági produkciókra összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        88.191065,
+                        69.344806
+                  ]
+            },
+            {
+                  "name": "Nia tansa",
+                  "text": "Kulturális központ Norilszkban, amely a helyi tánc- és művészeti formákat népszerűsíti a távoli északon.",
+                  "category": "cultural",
+                  "coords": [
+                        88.228664,
+                        69.343072
+                  ]
+            },
+            {
+                  "name": "Shtorm",
+                  "text": "Szórakoztató központ Norilszk iparvárosában, amely szabadidős tevékenységeket kínál a helyi lakosságnak.",
+                  "category": "landmark",
+                  "coords": [
+                        88.23137,
+                        69.340299
+                  ]
+            },
+            {
+                  "name": "5 i 6 shestoe otdeleniia Noril'laga",
+                  "text": "A Norillag 5. és 6. részlegének romjai, amelyek a szovjet Gulag-rendszer sötét történelmére emlékeztetnek.",
+                  "category": "historical",
+                  "coords": [
+                        88.258805,
+                        69.308761
+                  ]
+            },
+            {
+                  "name": "Ruiny issledovatel'skogo iadernogo reaktora RG-1M",
+                  "text": "Az RG-1M kutatóreaktor elhagyatott maradványai, amelyet egykor nukleáris tesztelésre használtak az Arktiszon.",
+                  "category": "historical",
+                  "coords": [
+                        88.244921,
+                        69.303194
+                  ]
+            },
+            {
+                  "name": "Ruiny geologicheskogo posiolka Noril'sk-2",
+                  "text": "Egy egykori geológus település maradványai Norilszk közelében, amelyek a régió korai feltárásáról tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        88.268956,
+                        69.267459
+                  ]
+            },
+            {
+                  "name": "Gorodskoi Tsentr Kul'tury",
+                  "text": "Norilszk városi kulturális központja, amely koncertek és közösségi események fő helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        88.191733,
+                        69.360622
+                  ]
+            },
+            {
+                  "name": "Pervyi dom Noril'ska",
+                  "text": "Norilszk legelső háza, egy kis rönkkunyhó, amelyet 1921-ben épített Nyikolaj Urvancev felfedező.",
+                  "category": "museum",
+                  "coords": [
+                        88.209176,
+                        69.346129
+                  ]
+            },
+            {
+                  "name": "Nurd-Kamal'",
+                  "text": "A világ legészakibb mecsetje, amely feltűnő smaragdzöld minaretjével hívja fel magára a figyelmet.",
+                  "category": "religious",
+                  "coords": [
+                        88.200682,
+                        69.340933
+                  ]
+            },
+            {
+                  "name": "Tserkov' evangel'skikh khristian baptistov <<Primirenie>>",
+                  "text": "Norilszki baptista templom, amely a város evangéliumi közösségének szellemi központja.",
+                  "category": "landmark",
+                  "coords": [
+                        88.172356,
+                        69.3641
+                  ]
+            },
+            {
+                  "name": "Khram Sviatitelia Luki Arkhiepiskopa Krasnoiarskogo",
+                  "text": "Ortodox templom, amelyet Szent Lukács tiszteletére szenteltek, aki híres sebész és érsek volt a szibériai száműzetésben.",
+                  "category": "landmark",
+                  "coords": [
+                        88.190041,
+                        69.34623
+                  ]
+            },
+            {
+                  "name": "Khram Novomuchennikov i Ispovednikov Tserkvi Russkoi",
+                  "text": "A 2018-ban felszentelt templom a Szovjetunió politikai elnyomásának áldozataira emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        88.197779,
+                        69.354515
+                  ]
+            },
+            {
+                  "name": "Kafedral'nyi Sobor ikony Bozhiei Materi <<Vsekh skorbiashchikh Radost'>>",
+                  "text": "Norilszk egyik jelentős orosz ortodox székesegyháza, amelyet egy híres Mária-ikonról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        88.223655,
+                        69.343508
+                  ]
+            },
+            {
+                  "name": "Meridian",
+                  "text": "Helyi bevásárlóközpont és piac, amely fontos ellátási forrás a távoli Norilszk városában.",
+                  "category": "cultural",
+                  "coords": [
+                        88.171852,
+                        69.356547
+                  ]
+            },
+            {
+                  "name": "Promploshchadka Urvantseva",
+                  "text": "Kereskedelmi és piaci övezet Norilszkban, amelyet a helyi érclelőhelyek felfedezőjéről neveztek el.",
+                  "category": "cultural",
+                  "coords": [
+                        88.215025,
+                        69.365201
+                  ]
+            },
+            {
+                  "name": "Torgovyi dom Medved'",
+                  "text": "Ismert kereskedőház Norilszkban, amely áruk széles választékát kínálja a sarkvidéki lakosoknak.",
+                  "category": "cultural",
+                  "coords": [
+                        88.179714,
+                        69.361296
+                  ]
+            },
+            {
+                  "name": "ATOLL",
+                  "text": "Modern bevásárlóközpont Norilszkban, amely különféle üzleteket tömörít egy fedél alatt.",
+                  "category": "cultural",
+                  "coords": [
+                        88.17514,
+                        69.357596
+                  ]
+            },
+            {
+                  "name": "Ovoshchebaza",
+                  "text": "Helyi élelmiszerpiac és elosztó központ, amely kulcsfontosságú Norilszk ellátása szempontjából.",
+                  "category": "cultural",
+                  "coords": [
+                        88.201008,
+                        69.324997
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khudozhestvennaia gallereia",
+                  "text": "Această galerie de artă din Norilsk expune lucrări ale artiștilor regionali în mijlocul peisajului industrial arctic.",
+                  "category": "cultural",
+                  "coords": [
+                        88.194671,
+                        69.361968
+                  ]
+            },
+            {
+                  "name": "Tropikana",
+                  "text": "Un parc acvatic acoperit care oferă o evadare tropicală în climatul extrem din Norilsk.",
+                  "category": "recreational",
+                  "coords": [
+                        88.182674,
+                        69.359116
+                  ]
+            },
+            {
+                  "name": "Muzei stroitel'stva i razvitiia Noril'skoi zheleznoi dorogi",
+                  "text": "Acest muzeu documentează construcția și operarea izolată a celei mai nordice rețele feroviare din lume.",
+                  "category": "museum",
+                  "coords": [
+                        88.136975,
+                        69.357258
+                  ]
+            },
+            {
+                  "name": "Teplovoz vyezzhaiushchii iz tonnelia",
+                  "text": "Un monument care înfățișează o locomotivă diesel ieșind dintr-un tunel, simbolizând istoria feroviară a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        88.142407,
+                        69.356709
+                  ]
+            },
+            {
+                  "name": "Noril'skii zapoliarnyi teatr dramy im. Vl. Maiakovskogo",
+                  "text": "Cel mai nordic teatru profesionist din lume, numit după poetul rus Vladimir Maiakovski.",
+                  "category": "cultural",
+                  "coords": [
+                        88.196166,
+                        69.352829
+                  ]
+            },
+            {
+                  "name": "studiia-teatr Artistionok",
+                  "text": "Un teatru studio local din Norilsk, concentrat pe spectacole contemporane și producții pentru tineret.",
+                  "category": "cultural",
+                  "coords": [
+                        88.191065,
+                        69.344806
+                  ]
+            },
+            {
+                  "name": "Nia tansa",
+                  "text": "Un centru cultural din Norilsk care promovează formele regionale de dans și artă în extremul nord.",
+                  "category": "cultural",
+                  "coords": [
+                        88.228664,
+                        69.343072
+                  ]
+            },
+            {
+                  "name": "Shtorm",
+                  "text": "Un centru de divertisment în orașul industrial Norilsk, care oferă activități de agrement pentru populația locală.",
+                  "category": "landmark",
+                  "coords": [
+                        88.23137,
+                        69.340299
+                  ]
+            },
+            {
+                  "name": "5 i 6 shestoe otdeleniia Noril'laga",
+                  "text": "Ruinele secțiilor 5 și 6 ale Norillag, care servesc drept amintire a istoriei întunecate a sistemului sovietic Gulag.",
+                  "category": "historical",
+                  "coords": [
+                        88.258805,
+                        69.308761
+                  ]
+            },
+            {
+                  "name": "Ruiny issledovatel'skogo iadernogo reaktora RG-1M",
+                  "text": "Ruinele abandonate ale reactorului de cercetare RG-1M, folosit odinioară pentru teste nucleare în regiunea arctică.",
+                  "category": "historical",
+                  "coords": [
+                        88.244921,
+                        69.303194
+                  ]
+            },
+            {
+                  "name": "Ruiny geologicheskogo posiolka Noril'sk-2",
+                  "text": "Rămășițele unei foste așezări geologice de lângă Norilsk, care atestă explorarea timpurie a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        88.268956,
+                        69.267459
+                  ]
+            },
+            {
+                  "name": "Gorodskoi Tsentr Kul'tury",
+                  "text": "Centrul cultural municipal din Norilsk, un loc principal pentru concerte și evenimente comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        88.191733,
+                        69.360622
+                  ]
+            },
+            {
+                  "name": "Pervyi dom Noril'ska",
+                  "text": "Prima casă din Norilsk, o mică cabană de lemn construită în 1921 de exploratorul Nikolai Urvanțev.",
+                  "category": "museum",
+                  "coords": [
+                        88.209176,
+                        69.346129
+                  ]
+            },
+            {
+                  "name": "Nurd-Kamal'",
+                  "text": "Cea mai nordică moschee din lume, care impresionează prin minaretul său de un verde smarald izbitor.",
+                  "category": "religious",
+                  "coords": [
+                        88.200682,
+                        69.340933
+                  ]
+            },
+            {
+                  "name": "Tserkov' evangel'skikh khristian baptistov <<Primirenie>>",
+                  "text": "O biserică baptistă din Norilsk, care constituie un centru spiritual pentru comunitatea evanghelică a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        88.172356,
+                        69.3641
+                  ]
+            },
+            {
+                  "name": "Khram Sviatitelia Luki Arkhiepiskopa Krasnoiarskogo",
+                  "text": "O biserică ortodoxă dedicată Sfântului Luca, un celebru chirurg și arhiepiscop care a trăit în exil în Siberia.",
+                  "category": "landmark",
+                  "coords": [
+                        88.190041,
+                        69.34623
+                  ]
+            },
+            {
+                  "name": "Khram Novomuchennikov i Ispovednikov Tserkvi Russkoi",
+                  "text": "Această biserică sfințită în 2018 îi onorează pe cei care au suferit în timpul represiunilor politice din Uniunea Sovietică.",
+                  "category": "landmark",
+                  "coords": [
+                        88.197779,
+                        69.354515
+                  ]
+            },
+            {
+                  "name": "Kafedral'nyi Sobor ikony Bozhiei Materi <<Vsekh skorbiashchikh Radost'>>",
+                  "text": "O importantă catedrală ortodoxă rusă din Norilsk, numită după o celebră icoană a Maicii Domnului.",
+                  "category": "landmark",
+                  "coords": [
+                        88.223655,
+                        69.343508
+                  ]
+            },
+            {
+                  "name": "Meridian",
+                  "text": "Un centru comercial și piață locală, reprezentând o sursă importantă de aprovizionare în orașul izolat Norilsk.",
+                  "category": "cultural",
+                  "coords": [
+                        88.171852,
+                        69.356547
+                  ]
+            },
+            {
+                  "name": "Promploshchadka Urvantseva",
+                  "text": "O zonă comercială și de piață din Norilsk, numită după exploratorul zăcămintelor locale de minereu.",
+                  "category": "cultural",
+                  "coords": [
+                        88.215025,
+                        69.365201
+                  ]
+            },
+            {
+                  "name": "Torgovyi dom Medved'",
+                  "text": "O casă comercială cunoscută în Norilsk, care oferă o varietate de mărfuri pentru locuitorii regiunii polare.",
+                  "category": "cultural",
+                  "coords": [
+                        88.179714,
+                        69.361296
+                  ]
+            },
+            {
+                  "name": "ATOLL",
+                  "text": "Un centru comercial modern în Norilsk, care reunește diverse magazine sub același acoperiș.",
+                  "category": "cultural",
+                  "coords": [
+                        88.17514,
+                        69.357596
+                  ]
+            },
+            {
+                  "name": "Ovoshchebaza",
+                  "text": "O piață locală de alimente și centru de distribuție, crucial pentru aprovizionarea orașului Norilsk.",
+                  "category": "cultural",
+                  "coords": [
+                        88.201008,
+                        69.324997
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khudozhestvennaia gallereia",
+                  "text": "This art gallery in Norilsk showcases works by regional artists amidst the industrial Arctic landscape.",
+                  "category": "cultural",
+                  "coords": [
+                        88.194671,
+                        69.361968
+                  ]
+            },
+            {
+                  "name": "Tropikana",
+                  "text": "An indoor water park offering a tropical escape within the extreme climate of Norilsk.",
+                  "category": "recreational",
+                  "coords": [
+                        88.182674,
+                        69.359116
+                  ]
+            },
+            {
+                  "name": "Muzei stroitel'stva i razvitiia Noril'skoi zheleznoi dorogi",
+                  "text": "This museum documents the construction and isolated operation of the northernmost railway network in the world.",
+                  "category": "museum",
+                  "coords": [
+                        88.136975,
+                        69.357258
+                  ]
+            },
+            {
+                  "name": "Teplovoz vyezzhaiushchii iz tonnelia",
+                  "text": "A monument featuring a diesel locomotive emerging from a tunnel, symbolizing the region's railway history.",
+                  "category": "landmark",
+                  "coords": [
+                        88.142407,
+                        69.356709
+                  ]
+            },
+            {
+                  "name": "Noril'skii zapoliarnyi teatr dramy im. Vl. Maiakovskogo",
+                  "text": "The northernmost professional theater in the world, named after the Russian poet Vladimir Mayakovsky.",
+                  "category": "cultural",
+                  "coords": [
+                        88.196166,
+                        69.352829
+                  ]
+            },
+            {
+                  "name": "studiia-teatr Artistionok",
+                  "text": "A local studio theater in Norilsk focusing on contemporary performances and youth productions.",
+                  "category": "cultural",
+                  "coords": [
+                        88.191065,
+                        69.344806
+                  ]
+            },
+            {
+                  "name": "Nia tansa",
+                  "text": "A cultural center in Norilsk promoting regional dance and art forms in the Far North.",
+                  "category": "cultural",
+                  "coords": [
+                        88.228664,
+                        69.343072
+                  ]
+            },
+            {
+                  "name": "Shtorm",
+                  "text": "An entertainment center in the industrial city of Norilsk, providing leisure activities for the local population.",
+                  "category": "landmark",
+                  "coords": [
+                        88.23137,
+                        69.340299
+                  ]
+            },
+            {
+                  "name": "5 i 6 shestoe otdeleniia Noril'laga",
+                  "text": "Ruins of the 5th and 6th sections of Norillag, serving as a reminder of the dark history of the Soviet Gulag system.",
+                  "category": "historical",
+                  "coords": [
+                        88.258805,
+                        69.308761
+                  ]
+            },
+            {
+                  "name": "Ruiny issledovatel'skogo iadernogo reaktora RG-1M",
+                  "text": "The abandoned remains of the RG-1M research reactor, once used for nuclear testing in the Arctic.",
+                  "category": "historical",
+                  "coords": [
+                        88.244921,
+                        69.303194
+                  ]
+            },
+            {
+                  "name": "Ruiny geologicheskogo posiolka Noril'sk-2",
+                  "text": "Remains of a former geological settlement near Norilsk, testifying to the early exploration of the region.",
+                  "category": "historical",
+                  "coords": [
+                        88.268956,
+                        69.267459
+                  ]
+            },
+            {
+                  "name": "Gorodskoi Tsentr Kul'tury",
+                  "text": "The municipal cultural center of Norilsk, a primary venue for concerts and community events.",
+                  "category": "cultural",
+                  "coords": [
+                        88.191733,
+                        69.360622
+                  ]
+            },
+            {
+                  "name": "Pervyi dom Noril'ska",
+                  "text": "The first house of Norilsk, a small wooden cabin built in 1921 by the explorer Nikolay Urvantsev.",
+                  "category": "museum",
+                  "coords": [
+                        88.209176,
+                        69.346129
+                  ]
+            },
+            {
+                  "name": "Nord Kamal Mosque",
+                  "text": "The northernmost mosque in the world, featuring a striking emerald-green minaret.",
+                  "category": "religious",
+                  "coords": [
+                        88.200682,
+                        69.340933
+                  ]
+            },
+            {
+                  "name": "Tserkov' evangel'skikh khristian baptistov <<Primirenie>>",
+                  "text": "A Baptist church in Norilsk, providing a spiritual center for the city's evangelical community.",
+                  "category": "landmark",
+                  "coords": [
+                        88.172356,
+                        69.3641
+                  ]
+            },
+            {
+                  "name": "Church of St. Luke Archbishop of Krasnoyarsk",
+                  "text": "An Orthodox church dedicated to St. Luke, a famous surgeon and archbishop who lived in exile in Siberia.",
+                  "category": "landmark",
+                  "coords": [
+                        88.190041,
+                        69.34623
+                  ]
+            },
+            {
+                  "name": "Church of New Martyrs and Confessors of Russia",
+                  "text": "Consecrated in 2018, this church honors those who suffered during the political repressions in the Soviet Union.",
+                  "category": "landmark",
+                  "coords": [
+                        88.197779,
+                        69.354515
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Icon of the Mother of God \"Joy of All Who Sorrow\"",
+                  "text": "A major Russian Orthodox cathedral in Norilsk, named after a famous icon of the Mother of God.",
+                  "category": "landmark",
+                  "coords": [
+                        88.223655,
+                        69.343508
+                  ]
+            },
+            {
+                  "name": "Meridian",
+                  "text": "A local shopping center and marketplace, providing a vital source of supplies in the remote city of Norilsk.",
+                  "category": "cultural",
+                  "coords": [
+                        88.171852,
+                        69.356547
+                  ]
+            },
+            {
+                  "name": "Promploshchadka Urvantseva",
+                  "text": "A commercial and market area in Norilsk named after the discoverer of local ore deposits.",
+                  "category": "cultural",
+                  "coords": [
+                        88.215025,
+                        69.365201
+                  ]
+            },
+            {
+                  "name": "Torgovyi dom Medved'",
+                  "text": "A well-known trading house in Norilsk offering a variety of goods for the residents of the polar region.",
+                  "category": "cultural",
+                  "coords": [
+                        88.179714,
+                        69.361296
+                  ]
+            },
+            {
+                  "name": "ATOLL",
+                  "text": "A modern shopping mall in Norilsk, bringing various retail stores together under one roof.",
+                  "category": "cultural",
+                  "coords": [
+                        88.17514,
+                        69.357596
+                  ]
+            },
+            {
+                  "name": "Ovoshchebaza",
+                  "text": "A local food market and distribution center, crucial for the supply of Norilsk.",
+                  "category": "cultural",
+                  "coords": [
+                        88.201008,
+                        69.324997
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "mine",
     name: { de: "Nornickel Bergbaukomplex", hu: "Nornickel bányászati komplexum", ro: "Complexul minier Nornickel", en: "Nornickel Mining Complex"},
@@ -233,7 +1070,592 @@ imageHint: "Kamaz truck manufacturing plant or heavy truck",
     },
     image: "/poi-images/russia-kamaz-factory-economic-v2.webp",
 },  {
-    id: "russia-mir-mine-economic-v2",
+    id: "russia-mir-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument pervootkryvateliam almaznoi trubki <<Mir>>",
+                  "text": "Ein 1970 errichtetes Denkmal zu Ehren der Entdecker des Mir-Diamantenschlots in der jakutischen Stadt Mirny.",
+                  "category": "historical",
+                  "coords": [
+                        113.991214,
+                        62.539299
+                  ]
+            },
+            {
+                  "name": "Kar'er \"Mir\"",
+                  "text": "Ein spektakulärer Aussichtspunkt über den 525 Meter tiefen Mir-Krater, eine der weltweit größten Diamantenminen.",
+                  "category": "natural",
+                  "coords": [
+                        114.002701,
+                        62.52654
+                  ]
+            },
+            {
+                  "name": "Mirninskii teatr",
+                  "text": "Das lokale Theater von Mirny, das kulturelle Aufführungen in der sogenannten Diamantenhauptstadt Russlands bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        113.976021,
+                        62.535565
+                  ]
+            },
+            {
+                  "name": "Istoriko-proizvodstvennyi muzei AK \"ALROSA\"",
+                  "text": "Ein Museum, das die technische Geschichte des Diamantenabbaus durch das Unternehmen ALROSA in Jakutien zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        113.979477,
+                        62.54147
+                  ]
+            },
+            {
+                  "name": "Spasi i sokhrani",
+                  "text": "Ein traditionelles orthodoxes Gedenkkreuz, das am Rande des riesigen Kraters der Diamantenmine Mir steht.",
+                  "category": "landmark",
+                  "coords": [
+                        113.955136,
+                        62.567143
+                  ]
+            },
+            {
+                  "name": "Stela \"Mirnyi\"",
+                  "text": "Eine hohe Gedenkstele, die den Eingang zur Diamantenstadt Mirny markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        114.012028,
+                        62.494265
+                  ]
+            },
+            {
+                  "name": "Botanicheskii sad",
+                  "text": "Ein spezialisierter botanischer Garten, der Pflanzen zeigt, die im rauen subarktischen Klima Jakutiens überleben können.",
+                  "category": "landmark",
+                  "coords": [
+                        113.967415,
+                        62.534977
+                  ]
+            },
+            {
+                  "name": "Kraevedcheskii muzei",
+                  "text": "Ein Heimatmuseum mit Exponaten über die Entdeckung von Diamanten im jakutischen Permafrost.",
+                  "category": "museum",
+                  "coords": [
+                        113.967728,
+                        62.534066
+                  ]
+            },
+            {
+                  "name": "Viliuiskoe kol'tso",
+                  "text": "Ein im Jahr 2005 in einem Kreisverkehr errichtetes Denkmal, das den Pionieren der Diamantenindustrie gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        113.97316,
+                        62.518623
+                  ]
+            },
+            {
+                  "name": "Smotrovaia ploshchad'",
+                  "text": "Eine Aussichtsplattform mit einem überwältigenden Blick in den 525 Meter tiefen Krater der Kimberlit-Röhre Mir.",
+                  "category": "landmark",
+                  "coords": [
+                        114.000052,
+                        62.524022
+                  ]
+            },
+            {
+                  "name": "Chasovnia v chest' ikony Bozhiei Materi <<Neopalimaia kupina>>",
+                  "text": "Eine kleine orthodoxe Kapelle, die der Ikone der „Unverbrannte Dornbusch“ gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        113.970354,
+                        62.529701
+                  ]
+            },
+            {
+                  "name": "Dreifaltigkeitskirche",
+                  "text": "Eine goldgekrönte orthodoxe Kirche, die als geistliches Zentrum für die Bewohner von Mirny dient.",
+                  "category": "landmark",
+                  "coords": [
+                        113.974385,
+                        62.536281
+                  ]
+            },
+            {
+                  "name": "Chasovnia v chest' sviatykh Petra i Pavla",
+                  "text": "Eine friedliche christliche Kapelle, die den Heiligen Peter und Paul gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        113.998764,
+                        62.537963
+                  ]
+            },
+            {
+                  "name": "Khram Sviatogo apostola Andreia Pervozvannogo",
+                  "text": "Eine 1996 erbaute orthodoxe Kirche mit traditioneller russischer Sakralarchitektur im hohen Norden.",
+                  "category": "landmark",
+                  "coords": [
+                        113.976924,
+                        62.511234
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "Eine lokale Moschee, die als Gebetsstätte für die muslimische Bevölkerung von Mirny dient.",
+                  "category": "landmark",
+                  "coords": [
+                        113.961653,
+                        62.535137
+                  ]
+            },
+            {
+                  "name": "Iubileinyi",
+                  "text": "Ein belebter zentraler Marktplatz, auf dem Einheimische mit frischen Produkten aus der Arktis handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        113.981855,
+                        62.536974
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument pervootkryvateliam almaznoi trubki <<Mir>>",
+                  "text": "A Mir gyémántkürtő felfedezőinek tiszteletére 1970-ben emelt emlékmű a jakutföldi Mirnij városában.",
+                  "category": "historical",
+                  "coords": [
+                        113.991214,
+                        62.539299
+                  ]
+            },
+            {
+                  "name": "Kar'er \"Mir\"",
+                  "text": "Látványos kilátóhely az 525 méter mély Mir-kráterre, amely a világ egyik legnagyobb gyémántbányája.",
+                  "category": "natural",
+                  "coords": [
+                        114.002701,
+                        62.52654
+                  ]
+            },
+            {
+                  "name": "Mirninskii teatr",
+                  "text": "Mirnij helyi színháza, amely kulturális előadásokat kínál Oroszország úgynevezett gyémántfővárosában.",
+                  "category": "cultural",
+                  "coords": [
+                        113.976021,
+                        62.535565
+                  ]
+            },
+            {
+                  "name": "Istoriko-proizvodstvennyi muzei AK \"ALROSA\"",
+                  "text": "Múzeum, amely az ALROSA vállalat jakutföldi gyémántbányászatának műszaki történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        113.979477,
+                        62.54147
+                  ]
+            },
+            {
+                  "name": "Spasi i sokhrani",
+                  "text": "Hagyományos ortodox emlékkereszt a hatalmas Mir gyémántbánya pereménél.",
+                  "category": "landmark",
+                  "coords": [
+                        113.955136,
+                        62.567143
+                  ]
+            },
+            {
+                  "name": "Stela \"Mirnyi\"",
+                  "text": "Magas emlékoszlop, amely a gyémántbányász város, Mirnij bejáratát jelzi.",
+                  "category": "landmark",
+                  "coords": [
+                        114.012028,
+                        62.494265
+                  ]
+            },
+            {
+                  "name": "Botanicheskii sad",
+                  "text": "Speciális botanikus kert, amely Jakutföld zord szubarktikus éghajlatát tűrő növényvilágát mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        113.967415,
+                        62.534977
+                  ]
+            },
+            {
+                  "name": "Kraevedcheskii muzei",
+                  "text": "Helytörténeti múzeum, amely a jakutföldi örökfagyban talált gyémántok felfedezését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        113.967728,
+                        62.534066
+                  ]
+            },
+            {
+                  "name": "Viliuiskoe kol'tso",
+                  "text": "Egy 2005-ben felállított emlékmű egy körforgalomban, amelyet a gyémántipar úttörőinek szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        113.97316,
+                        62.518623
+                  ]
+            },
+            {
+                  "name": "Smotrovaia ploshchad'",
+                  "text": "Kilátóterasz, ahonnan megdöbbentő kilátás nyílik a Mir kimberlitcső 525 méter mély külszíni fejtésére.",
+                  "category": "landmark",
+                  "coords": [
+                        114.000052,
+                        62.524022
+                  ]
+            },
+            {
+                  "name": "Chasovnia v chest' ikony Bozhiei Materi <<Neopalimaia kupina>>",
+                  "text": "Kisméretű ortodox kápolna, amelyet az „Égő csipkebokor” ikonnak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        113.970354,
+                        62.529701
+                  ]
+            },
+            {
+                  "name": "Khram Sviatoi Troitsy",
+                  "text": "Aranykupolás ortodox templom, amely Mirnij lakóinak fő szellemi központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        113.974385,
+                        62.536281
+                  ]
+            },
+            {
+                  "name": "Chasovnia v chest' sviatykh Petra i Pavla",
+                  "text": "Békés keresztény kápolna Szent Péter és Pál tiszteletére.",
+                  "category": "landmark",
+                  "coords": [
+                        113.998764,
+                        62.537963
+                  ]
+            },
+            {
+                  "name": "Khram Sviatogo apostola Andreia Pervozvannogo",
+                  "text": "1996-ban épült ortodox templom, amely a hagyományos orosz egyházi építészetet képviseli a távoli északon.",
+                  "category": "landmark",
+                  "coords": [
+                        113.976924,
+                        62.511234
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "Helyi mecset, amely istentiszteleti helyet biztosít Mirnij muszlim lakosságának.",
+                  "category": "landmark",
+                  "coords": [
+                        113.961653,
+                        62.535137
+                  ]
+            },
+            {
+                  "name": "Iubileinyi",
+                  "text": "Nyüzsgő központi piactér, ahol a helyiek friss árukkal kereskednek az északi régióban.",
+                  "category": "cultural",
+                  "coords": [
+                        113.981855,
+                        62.536974
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument pervootkryvateliam almaznoi trubki <<Mir>>",
+                  "text": "Un monument ridicat în 1970 în onoarea descoperitorilor coșului de diamant Mir, în orașul Mirnîi din Iacuția.",
+                  "category": "historical",
+                  "coords": [
+                        113.991214,
+                        62.539299
+                  ]
+            },
+            {
+                  "name": "Kar'er \"Mir\"",
+                  "text": "Un punct de belvedere spectaculos peste craterul Mir, adânc de 525 de metri, una dintre cele mai mari mine de diamante din lume.",
+                  "category": "natural",
+                  "coords": [
+                        114.002701,
+                        62.52654
+                  ]
+            },
+            {
+                  "name": "Mirninskii teatr",
+                  "text": "Teatrul local din Mirnîi, care oferă spectacole culturale în așa-numita capitală a diamantelor din Rusia.",
+                  "category": "cultural",
+                  "coords": [
+                        113.976021,
+                        62.535565
+                  ]
+            },
+            {
+                  "name": "Istoriko-proizvodstvennyi muzei AK \"ALROSA\"",
+                  "text": "Un muzeu care prezintă istoria tehnică a minieritului de diamante realizat de compania ALROSA în Iacuția.",
+                  "category": "museum",
+                  "coords": [
+                        113.979477,
+                        62.54147
+                  ]
+            },
+            {
+                  "name": "Spasi i sokhrani",
+                  "text": "O cruce memorială ortodoxă tradițională situată lângă marginea craterului masiv al minei de diamante Mir.",
+                  "category": "landmark",
+                  "coords": [
+                        113.955136,
+                        62.567143
+                  ]
+            },
+            {
+                  "name": "Stela \"Mirnyi\"",
+                  "text": "O stelă comemorativă înaltă care marchează intrarea în orașul minier de diamante Mirnîi.",
+                  "category": "landmark",
+                  "coords": [
+                        114.012028,
+                        62.494265
+                  ]
+            },
+            {
+                  "name": "Botanicheskii sad",
+                  "text": "O grădină botanică specializată care prezintă plante capabile să supraviețuiască în climatul subarctic aspru al Iacuției.",
+                  "category": "landmark",
+                  "coords": [
+                        113.967415,
+                        62.534977
+                  ]
+            },
+            {
+                  "name": "Kraevedcheskii muzei",
+                  "text": "Un muzeu de istorie locală cu exponate despre descoperirea diamantelor în permafrostul iacut.",
+                  "category": "museum",
+                  "coords": [
+                        113.967728,
+                        62.534066
+                  ]
+            },
+            {
+                  "name": "Viliuiskoe kol'tso",
+                  "text": "Un monument ridicat în 2005 într-un sens giratoriu, dedicat pionierilor industriei diamantelor.",
+                  "category": "historical",
+                  "coords": [
+                        113.97316,
+                        62.518623
+                  ]
+            },
+            {
+                  "name": "Smotrovaia ploshchad'",
+                  "text": "O platformă de observare care oferă o vedere uluitoare în craterul adânc de 525 de metri al minei Mir.",
+                  "category": "landmark",
+                  "coords": [
+                        114.000052,
+                        62.524022
+                  ]
+            },
+            {
+                  "name": "Chasovnia v chest' ikony Bozhiei Materi <<Neopalimaia kupina>>",
+                  "text": "O mică chapelă ortodoxă dedicată icoanei „Rugul Aprins”.",
+                  "category": "landmark",
+                  "coords": [
+                        113.970354,
+                        62.529701
+                  ]
+            },
+            {
+                  "name": "Khram Sviatoi Troitsy",
+                  "text": "O biserică ortodoxă cu cupole aurii care servește ca principal centru spiritual pentru locuitorii din Mirnîi.",
+                  "category": "landmark",
+                  "coords": [
+                        113.974385,
+                        62.536281
+                  ]
+            },
+            {
+                  "name": "Chasovnia v chest' sviatykh Petra i Pavla",
+                  "text": "O capelă creștină liniștită dedicată Sfinților Petru și Pavel.",
+                  "category": "landmark",
+                  "coords": [
+                        113.998764,
+                        62.537963
+                  ]
+            },
+            {
+                  "name": "Khram Sviatogo apostola Andreia Pervozvannogo",
+                  "text": "O biserică ortodoxă construită în 1996, prezentând arhitectura ecleziastică rusă tradițională în Extremul Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        113.976924,
+                        62.511234
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "O moschee locală care oferă un loc de rugăciune pentru populația musulmană din Mirnîi.",
+                  "category": "landmark",
+                  "coords": [
+                        113.961653,
+                        62.535137
+                  ]
+            },
+            {
+                  "name": "Iubileinyi",
+                  "text": "O piață centrală plină de viață, unde localnicii fac comerț cu produse proaspete din regiunea arctică.",
+                  "category": "cultural",
+                  "coords": [
+                        113.981855,
+                        62.536974
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument pervootkryvateliam almaznoi trubki <<Mir>>",
+                  "text": "A monument erected in 1970 to honor the discoverers of the Mir diamond pipe in the Yakutian city of Mirny.",
+                  "category": "historical",
+                  "coords": [
+                        113.991214,
+                        62.539299
+                  ]
+            },
+            {
+                  "name": "Kar'er \"Mir\"",
+                  "text": "A spectacular viewpoint over the 525-meter deep Mir crater, one of the world's largest diamond mines.",
+                  "category": "natural",
+                  "coords": [
+                        114.002701,
+                        62.52654
+                  ]
+            },
+            {
+                  "name": "Mirninsky theatre",
+                  "text": "The local theater of Mirny, offering cultural performances in Russia's so-called diamond capital.",
+                  "category": "cultural",
+                  "coords": [
+                        113.976021,
+                        62.535565
+                  ]
+            },
+            {
+                  "name": "Istoriko-proizvodstvennyi muzei AK \"ALROSA\"",
+                  "text": "A museum showcasing the technical history of diamond mining by the ALROSA company in Yakutia.",
+                  "category": "museum",
+                  "coords": [
+                        113.979477,
+                        62.54147
+                  ]
+            },
+            {
+                  "name": "Spasi i sokhrani",
+                  "text": "A traditional Orthodox memorial cross standing near the edge of the massive Mir diamond mine pit.",
+                  "category": "landmark",
+                  "coords": [
+                        113.955136,
+                        62.567143
+                  ]
+            },
+            {
+                  "name": "Stela \"Mirnyi\"",
+                  "text": "A tall commemorative stela marking the entrance to the diamond-mining city of Mirny.",
+                  "category": "landmark",
+                  "coords": [
+                        114.012028,
+                        62.494265
+                  ]
+            },
+            {
+                  "name": "Botanicheskii sad",
+                  "text": "A specialized botanical garden showcasing flora capable of surviving the harsh subarctic climate of Yakutia.",
+                  "category": "landmark",
+                  "coords": [
+                        113.967415,
+                        62.534977
+                  ]
+            },
+            {
+                  "name": "Kraevedcheskii muzei",
+                  "text": "A local history museum featuring exhibits on the discovery of diamonds in the Yakutian permafrost.",
+                  "category": "museum",
+                  "coords": [
+                        113.967728,
+                        62.534066
+                  ]
+            },
+            {
+                  "name": "Viliuiskoe kol'tso",
+                  "text": "A monument erected in 2005 on a traffic circle, dedicated to the pioneers of the diamond industry.",
+                  "category": "historical",
+                  "coords": [
+                        113.97316,
+                        62.518623
+                  ]
+            },
+            {
+                  "name": "Smotrovaia ploshchad'",
+                  "text": "An observation deck providing a staggering view into the 525-meter deep pit of the Mir kimberlite pipe.",
+                  "category": "landmark",
+                  "coords": [
+                        114.000052,
+                        62.524022
+                  ]
+            },
+            {
+                  "name": "Chasovnia v chest' ikony Bozhiei Materi <<Neopalimaia kupina>>",
+                  "text": "A small Orthodox chapel dedicated to the \"Burning Bush\" icon.",
+                  "category": "landmark",
+                  "coords": [
+                        113.970354,
+                        62.529701
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Trinity",
+                  "text": "A gold-domed Orthodox church serving as the main spiritual center for the residents of Mirny.",
+                  "category": "landmark",
+                  "coords": [
+                        113.974385,
+                        62.536281
+                  ]
+            },
+            {
+                  "name": "Chasovnia v chest' sviatykh Petra i Pavla",
+                  "text": "A peaceful Christian chapel dedicated to Saints Peter and Paul.",
+                  "category": "landmark",
+                  "coords": [
+                        113.998764,
+                        62.537963
+                  ]
+            },
+            {
+                  "name": "Khram Sviatogo apostola Andreia Pervozvannogo",
+                  "text": "An Orthodox church built in 1996, featuring traditional Russian ecclesiastical architecture in the Far North.",
+                  "category": "landmark",
+                  "coords": [
+                        113.976924,
+                        62.511234
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "A local mosque providing a place of worship for the Muslim population of Mirny.",
+                  "category": "landmark",
+                  "coords": [
+                        113.961653,
+                        62.535137
+                  ]
+            },
+            {
+                  "name": "Iubileinyi",
+                  "text": "A bustling central marketplace where locals trade fresh produce in the Arctic region.",
+                  "category": "cultural",
+                  "coords": [
+                        113.981855,
+                        62.536974
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "mine",
     name: { de: "Mir Diamantenmine", hu: "Mir gyémántbánya", ro: "Mina de diamante Mir", en: "Mir Diamond Mine"},
@@ -406,7 +1828,376 @@ imageHint: "Cargo ships and cranes at Port of Novorossiysk",
     },
     image: "/poi-images/russia-port-novorossiysk-economic-v2.webp",
 },  {
-    id: "russia-sayano-shushenskaya-dam-economic-v2",
+    id: "russia-sayano-shushenskaya-dam-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vid na SShGES",
+                  "text": "Ein malerischer Bereich, der einen Blick auf die gewaltige Bogen-Gewichtsstaumauer über den Jenissei ermöglicht.",
+                  "category": "landmark",
+                  "coords": [
+                        91.381851,
+                        52.805301
+                  ]
+            },
+            {
+                  "name": "Otlichnyi vid na vodosbros SShGES",
+                  "text": "Ein erstklassiger Aussichtspunkt, um das dramatische Ablassen des Wassers aus der gewaltigen Hochwasserentlastungsanlage der Talsperre zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        91.396979,
+                        52.831322
+                  ]
+            },
+            {
+                  "name": "Smotrovaia ploshchadka Saiano-Shushenskoi GES",
+                  "text": "Die Hauptaussichtsplattform mit einem Denkmal für die Erbauer und Panoramablick auf die 242 Meter hohe Betonstaumauer.",
+                  "category": "natural",
+                  "coords": [
+                        91.38933,
+                        52.835495
+                  ]
+            },
+            {
+                  "name": "Sekretnaia smotrovaia SSh GES",
+                  "text": "Ein versteckter, weniger überlaufener Ort, der eine alternative Seitenperspektive auf das Wasserkraftwerk bietet.",
+                  "category": "natural",
+                  "coords": [
+                        91.389326,
+                        52.839462
+                  ]
+            },
+            {
+                  "name": "Otlichnyi vid na Saiano-Shushenskuiu GES",
+                  "text": "Ein Aussichtspunkt, der einen klaren, weiten Blick auf die gewaltige Betonmauer im schroffen Jenissei-Canyon bietet.",
+                  "category": "natural",
+                  "coords": [
+                        91.388351,
+                        52.844743
+                  ]
+            },
+            {
+                  "name": "Muzei gidroenergetiki",
+                  "text": "Dieses Museum bietet Einblicke in den Bau und die Technik der gewaltigen Sajano-Schuschensker Talsperre.",
+                  "category": "museum",
+                  "coords": [
+                        91.423818,
+                        52.854913
+                  ]
+            },
+            {
+                  "name": "Natsional'nyi park \"Shushenskii Bor\"",
+                  "text": "Dieser Nationalpark umfasst weite Kiefernwälder und eine vielfältige Tierwelt am Ufer des Jenissei.",
+                  "category": "landmark",
+                  "coords": [
+                        91.416757,
+                        52.835076
+                  ]
+            },
+            {
+                  "name": "Arochno - gravitatsionnaia plotina Saiano-Shushenskoi GES",
+                  "text": "Mit 242 Metern Höhe ist diese Bogen-Gewichtsmauer die höchste in Russland und speist ein bedeutendes Wasserkraftwerk.",
+                  "category": "landmark",
+                  "coords": [
+                        91.371188,
+                        52.825806
+                  ]
+            },
+            {
+                  "name": "Chasovnia",
+                  "text": "Eine kleine Holzkapelle auf einem Hügel, die einen friedlichen Aussichtspunkt über den Jenissei bietet.",
+                  "category": "religious",
+                  "coords": [
+                        91.373187,
+                        52.828979
+                  ]
+            },
+            {
+                  "name": "Rynok",
+                  "text": "Ein lebhafter lokaler Marktplatz, auf dem Besucher regionale sibirische Produkte und frische Lebensmittel finden können.",
+                  "category": "cultural",
+                  "coords": [
+                        91.420436,
+                        52.84934
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vid na SShGES",
+                  "text": "Festői terület, ahonnan rálátás nyílik a Jenyiszej-folyón átívelő hatalmas íves gravitációs gátra.",
+                  "category": "landmark",
+                  "coords": [
+                        91.381851,
+                        52.805301
+                  ]
+            },
+            {
+                  "name": "Otlichnyi vid na vodosbros SShGES",
+                  "text": "Kiváló kilátópont a gát hatalmas árapasztó rendszeréből feltörő látványos víztömeg megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        91.396979,
+                        52.831322
+                  ]
+            },
+            {
+                  "name": "Smotrovaia ploshchadka Saiano-Shushenskoi GES",
+                  "text": "A fő kilátóterasz az építők emlékművével és panorámás kilátással a 242 méter magas betongátra.",
+                  "category": "natural",
+                  "coords": [
+                        91.38933,
+                        52.835495
+                  ]
+            },
+            {
+                  "name": "Sekretnaia smotrovaia SSh GES",
+                  "text": "Rejtett, kevésbé zsúfolt hely, amely alternatív oldalsó perspektívát kínál a vízerőműre.",
+                  "category": "natural",
+                  "coords": [
+                        91.389326,
+                        52.839462
+                  ]
+            },
+            {
+                  "name": "Otlichnyi vid na Saiano-Shushenskuiu GES",
+                  "text": "Kilátópont, amely tiszta, tágas kilátást nyújt a zord Jenyiszej-kanyonban álló hatalmas betonfalra.",
+                  "category": "natural",
+                  "coords": [
+                        91.388351,
+                        52.844743
+                  ]
+            },
+            {
+                  "name": "Muzei gidroenergetiki",
+                  "text": "Ez a múzeum a hatalmas Szajano-Susenszkaja-gát építésébe és technológiájába nyújt betekintést.",
+                  "category": "museum",
+                  "coords": [
+                        91.423818,
+                        52.854913
+                  ]
+            },
+            {
+                  "name": "Natsional'nyi park \"Shushenskii Bor\"",
+                  "text": "Ez a nemzeti park kiterjedt fenyőerdőkkel és változatos élővilággal rendelkezik a Jenyiszej partján.",
+                  "category": "landmark",
+                  "coords": [
+                        91.416757,
+                        52.835076
+                  ]
+            },
+            {
+                  "name": "Arochno - gravitatsionnaia plotina Saiano-Shushenskoi GES",
+                  "text": "A 242 méter magas íves gravitációs gát Oroszország legmagasabbja, amely egy jelentős vízerőművet táplál.",
+                  "category": "landmark",
+                  "coords": [
+                        91.371188,
+                        52.825806
+                  ]
+            },
+            {
+                  "name": "Chasovnia",
+                  "text": "Egy domboldalon álló kis fatemplom, amely békés kilátást nyújt a Jenyiszej folyóra.",
+                  "category": "religious",
+                  "coords": [
+                        91.373187,
+                        52.828979
+                  ]
+            },
+            {
+                  "name": "Rynok",
+                  "text": "Egy nyüzsgő helyi piactér, ahol a látogatók szibériai regionális termékeket és friss élelmiszereket találhatnak.",
+                  "category": "cultural",
+                  "coords": [
+                        91.420436,
+                        52.84934
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vid na SShGES",
+                  "text": "O zonă pitorească ce oferă o perspectivă asupra structurii masive a barajului în arc de pe râul Enisei.",
+                  "category": "landmark",
+                  "coords": [
+                        91.381851,
+                        52.805301
+                  ]
+            },
+            {
+                  "name": "Otlichnyi vid na vodosbros SShGES",
+                  "text": "Un punct de observație privilegiat pentru a urmări evacuarea dramatică a apei din sistemul masiv de deversare al barajului.",
+                  "category": "natural",
+                  "coords": [
+                        91.396979,
+                        52.831322
+                  ]
+            },
+            {
+                  "name": "Smotrovaia ploshchadka Saiano-Shushenskoi GES",
+                  "text": "Platforma principală de observație, cu un monument dedicat constructorilor și vederi panoramice ale barajului de beton înalt de 242 de metri.",
+                  "category": "natural",
+                  "coords": [
+                        91.38933,
+                        52.835495
+                  ]
+            },
+            {
+                  "name": "Sekretnaia smotrovaia SSh GES",
+                  "text": "Un loc ascuns și mai puțin aglomerat, care oferă o perspectivă laterală alternativă asupra hidrocentralei.",
+                  "category": "natural",
+                  "coords": [
+                        91.389326,
+                        52.839462
+                  ]
+            },
+            {
+                  "name": "Otlichnyi vid na Saiano-Shushenskuiu GES",
+                  "text": "Un punct de belvedere care oferă o vedere clară și largă asupra peretelui masiv de beton situat în canionul accidentat al râului Enisei.",
+                  "category": "natural",
+                  "coords": [
+                        91.388351,
+                        52.844743
+                  ]
+            },
+            {
+                  "name": "Muzei gidroenergetiki",
+                  "text": "Acest muzeu oferă informații despre construcția și tehnologia masivului baraj Saiano-Șușenskaia.",
+                  "category": "museum",
+                  "coords": [
+                        91.423818,
+                        52.854913
+                  ]
+            },
+            {
+                  "name": "Natsional'nyi park \"Shushenskii Bor\"",
+                  "text": "Acest parc național cuprinde păduri vaste de pini și o faună diversă de-a lungul malurilor râului Enisei.",
+                  "category": "landmark",
+                  "coords": [
+                        91.416757,
+                        52.835076
+                  ]
+            },
+            {
+                  "name": "Arochno - gravitatsionnaia plotina Saiano-Shushenskoi GES",
+                  "text": "Cu o înălțime de 242 de metri, acest baraj în arc-greutate este cel mai înalt din Rusia și alimentează o hidrocentrală majoră.",
+                  "category": "landmark",
+                  "coords": [
+                        91.371188,
+                        52.825806
+                  ]
+            },
+            {
+                  "name": "Chasovnia",
+                  "text": "O mică capelă de lemn situată pe un deal, oferind un punct de observație liniștit asupra râului Enisei.",
+                  "category": "religious",
+                  "coords": [
+                        91.373187,
+                        52.828979
+                  ]
+            },
+            {
+                  "name": "Rynok",
+                  "text": "O piață locală plină de viață unde vizitatorii pot găsi produse regionale siberiene și alimente proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        91.420436,
+                        52.84934
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "View",
+                  "text": "A scenic area providing a perspective on the massive arch-gravity dam structure across the Yenisei River.",
+                  "category": "landmark",
+                  "coords": [
+                        91.381851,
+                        52.805301
+                  ]
+            },
+            {
+                  "name": "Otlichnyi vid na vodosbros SShGES",
+                  "text": "A prime vantage point for watching the dramatic water release from the dam’s massive spillway system.",
+                  "category": "natural",
+                  "coords": [
+                        91.396979,
+                        52.831322
+                  ]
+            },
+            {
+                  "name": "Smotrovaia ploshchadka Saiano-Shushenskoi GES",
+                  "text": "The main observation deck featuring a monument to the builders and panoramic views of the 242-meter-high concrete dam.",
+                  "category": "natural",
+                  "coords": [
+                        91.38933,
+                        52.835495
+                  ]
+            },
+            {
+                  "name": "Sekretnaia smotrovaia SSh GES",
+                  "text": "A hidden, less-crowded spot offering an alternative side perspective of the hydroelectric power station.",
+                  "category": "natural",
+                  "coords": [
+                        91.389326,
+                        52.839462
+                  ]
+            },
+            {
+                  "name": "Otlichnyi vid na Saiano-Shushenskuiu GES",
+                  "text": "A viewpoint offering a clear, broad view of the massive concrete wall set within the rugged Yenisei River canyon.",
+                  "category": "natural",
+                  "coords": [
+                        91.388351,
+                        52.844743
+                  ]
+            },
+            {
+                  "name": "Muzei gidroenergetiki",
+                  "text": "This museum offers insights into the construction and technology of the massive Sayano-Shushenskaya dam.",
+                  "category": "museum",
+                  "coords": [
+                        91.423818,
+                        52.854913
+                  ]
+            },
+            {
+                  "name": "Natsional'nyi park \"Shushenskii Bor\"",
+                  "text": "This national park features vast pine forests and diverse wildlife along the banks of the Yenisei River.",
+                  "category": "landmark",
+                  "coords": [
+                        91.416757,
+                        52.835076
+                  ]
+            },
+            {
+                  "name": "Arochno - gravitatsionnaia plotina Saiano-Shushenskoi GES",
+                  "text": "Standing at 242 meters, this arch-gravity dam is the tallest in Russia and powers a major hydroelectric station.",
+                  "category": "landmark",
+                  "coords": [
+                        91.371188,
+                        52.825806
+                  ]
+            },
+            {
+                  "name": "Chasovnia",
+                  "text": "A small wooden chapel located on a hillside, offering a peaceful vantage point over the Yenisei River.",
+                  "category": "religious",
+                  "coords": [
+                        91.373187,
+                        52.828979
+                  ]
+            },
+            {
+                  "name": "Rynok",
+                  "text": "A bustling local marketplace where visitors can find regional Siberian products and fresh food.",
+                  "category": "cultural",
+                  "coords": [
+                        91.420436,
+                        52.84934
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "industry",
     name: { de: "Sajano-Schuschensker Wasserkraftwerk", hu: "Szajano-susenszkojei vízerőmű", ro: "Hidrocentrala Saiano-Șușenskaia", en: "Sayano-Shushenskaya Hydroelectric Station"},
@@ -452,7 +2243,1168 @@ imageHint: "Massive concrete dam of Sayano-Shushenskaya power station",
     },
     image: "/poi-images/russia-sayano-shushenskaya-dam-economic-v2.webp",
 },  {
-    id: "russia-surgut-oil-gas-economic-v2",
+    id: "russia-surgut-oil-gas-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sterkh",
+                  "text": "Sterkh ist eine Galerie für zeitgenössische Kunst in der Stadt Surgut.",
+                  "category": "museum",
+                  "coords": [
+                        73.375119,
+                        61.258231
+                  ]
+            },
+            {
+                  "name": "Muzei PAO \"Surgutneftegaz\"",
+                  "text": "Das Surgutneftegaz-Museum dokumentiert die Geschichte und Entwicklung des bedeutenden Öl- und Gasunternehmens in Surgut.",
+                  "category": "museum",
+                  "coords": [
+                        73.373404,
+                        61.263344
+                  ]
+            },
+            {
+                  "name": "Surgutskii kraevedcheskii muzei",
+                  "text": "Das Heimatmuseum Surgut zeigt Sammlungen zur regionalen Geschichte, Kultur und Natur von Surgut.",
+                  "category": "museum",
+                  "coords": [
+                        73.422913,
+                        61.253858
+                  ]
+            },
+            {
+                  "name": "Rossiia - Moia istoriia. Iugra",
+                  "text": "„Russland - Meine Geschichte. Jugra“ ist ein interaktives multimediales historisches Museum in Surgut.",
+                  "category": "museum",
+                  "coords": [
+                        73.43766,
+                        61.233032
+                  ]
+            },
+            {
+                  "name": "<<Kupecheskaia usad'ba. Dom kuptsa G.S. Klepikova>>",
+                  "text": "Das Kaufmannsanwesen ist ein Museum in Surgut, das im historischen Haus des Kaufmanns G.S. Klepikov erhalten geblieben ist.",
+                  "category": "museum",
+                  "coords": [
+                        73.403301,
+                        61.234948
+                  ]
+            },
+            {
+                  "name": "Memorial'nyi kompleks geologov-pervoprokhodtsev Dom F.K.Salmanova",
+                  "text": "Dieser Gedenkkomplex in Surgut ehrt die Pioniergeologen und befindet sich im ehemaligen Haus von F.K. Salmanov.",
+                  "category": "museum",
+                  "coords": [
+                        73.475665,
+                        61.240594
+                  ]
+            },
+            {
+                  "name": "Staryi Surgut",
+                  "text": "Alt-Surgut ist ein historischer und ethnographischer Freilichtkomplex, der die traditionelle Holzarchitektur in Surgut zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        73.40869,
+                        61.236696
+                  ]
+            },
+            {
+                  "name": "Chasovnia v chest' Sviatoi Troitsy",
+                  "text": "Die Kapelle zu Ehren der Heiligen Dreifaltigkeit dient als markante Gedenkstätte in Surgut.",
+                  "category": "historical",
+                  "coords": [
+                        73.394923,
+                        61.237503
+                  ]
+            },
+            {
+                  "name": "Advance",
+                  "text": "Advance ist ein Kunstzentrum, das kulturelle Aktivitäten und kreative Räume in Surgut bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        73.422898,
+                        61.261211
+                  ]
+            },
+            {
+                  "name": "Teatr SurGU",
+                  "text": "Teatr SurGU ist ein der Staatlichen Universität Surgut angegliedertes Theater, in dem verschiedene Bühnenaufführungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        73.410955,
+                        61.239536
+                  ]
+            },
+            {
+                  "name": "Dvorets iskusstv \"Neftianik\"",
+                  "text": "Der Kunstpalast „Neftjanik“ ist ein wichtiger kultureller Veranstaltungsort und ein Theater in Surgut.",
+                  "category": "cultural",
+                  "coords": [
+                        73.347936,
+                        61.263219
+                  ]
+            },
+            {
+                  "name": "Petrushka",
+                  "text": "Petruschka ist ein bekanntes Puppentheater, das Kinder und Erwachsene in Surgut unterhält.",
+                  "category": "cultural",
+                  "coords": [
+                        73.393061,
+                        61.240083
+                  ]
+            },
+            {
+                  "name": "Kamerton",
+                  "text": "Kamerton ist ein Kunstzentrum für musikalische Bildung und kulturelle Aufführungen in Surgut.",
+                  "category": "cultural",
+                  "coords": [
+                        73.401512,
+                        61.260784
+                  ]
+            },
+            {
+                  "name": "Tsentr molodezhnogo dizaina",
+                  "text": "Das Jugend-Designzentrum ist ein kultureller Veranstaltungsort für Kunst in Surgut.",
+                  "category": "cultural",
+                  "coords": [
+                        73.43969,
+                        61.258716
+                  ]
+            },
+            {
+                  "name": "Surgutskii muzykal'no-dramaticheskii teatr",
+                  "text": "Dieses Musik- und Dramatheater ist ein bekannter Veranstaltungsort für darstellende Künste in Surgut.",
+                  "category": "cultural",
+                  "coords": [
+                        73.328235,
+                        61.288552
+                  ]
+            },
+            {
+                  "name": "Surgutskaia filarmoniia",
+                  "text": "Die Philharmonie Surgut ist eine wichtige kulturelle Einrichtung, die verschiedene künstlerische Aufführungen in der Stadt veranstaltet.",
+                  "category": "cultural",
+                  "coords": [
+                        73.390882,
+                        61.241202
+                  ]
+            },
+            {
+                  "name": "School of Rock",
+                  "text": "Die School of Rock ist ein lokales Kunstzentrum in Surgut, das der Musik gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        73.384421,
+                        61.2419
+                  ]
+            },
+            {
+                  "name": "Armianskaia apostol'skaia tserkov' Sviatogo Grigoriia Prosvetitelia",
+                  "text": "Die Armenische Apostolische Kirche des Heiligen Gregor des Erleuchters dient der lokalen Religionsgemeinschaft in Surgut.",
+                  "category": "religious",
+                  "coords": [
+                        73.403801,
+                        61.325052
+                  ]
+            },
+            {
+                  "name": "Rynok",
+                  "text": "Dieser Markt in Surgut bietet eine Vielzahl lokaler Waren und Dinge des täglichen Bedarfs.",
+                  "category": "cultural",
+                  "coords": [
+                        73.250804,
+                        61.261506
+                  ]
+            },
+            {
+                  "name": "Tsentral'nyi rynok",
+                  "text": "Der Zentralmarkt ist ein belebter lokaler Marktplatz im Herzen von Surgut.",
+                  "category": "cultural",
+                  "coords": [
+                        73.399721,
+                        61.258295
+                  ]
+            },
+            {
+                  "name": "Kitaiskii rynok",
+                  "text": "Der Chinesische Markt ist ein lebhafter lokaler Handelsplatz in Surgut.",
+                  "category": "cultural",
+                  "coords": [
+                        73.377034,
+                        61.280454
+                  ]
+            },
+            {
+                  "name": "Narodnaia baza",
+                  "text": "Narodnaja Baza wird als öffentlicher Marktplatz in Surgut betrieben.",
+                  "category": "cultural",
+                  "coords": [
+                        73.48393,
+                        61.241019
+                  ]
+            },
+            {
+                  "name": "Svadebnaia kareta",
+                  "text": "Die Hochzeitskutsche ist eine beliebte dekorative Attraktion für Besucher und Einheimische in Surgut.",
+                  "category": "landmark",
+                  "coords": [
+                        73.399772,
+                        61.248069
+                  ]
+            },
+            {
+                  "name": "Solnechnye chasy",
+                  "text": "Die Sonnenuhr ist eine bemerkenswerte öffentliche Attraktion in der Stadt Surgut.",
+                  "category": "landmark",
+                  "coords": [
+                        73.35526,
+                        61.285617
+                  ]
+            },
+            {
+                  "name": "Tserkov' Nikolaia Chudotvortsa",
+                  "text": "Die Kirche des Heiligen Nikolaus des Wundertäters ist eine christliche Kultstätte in Surgut.",
+                  "category": "landmark",
+                  "coords": [
+                        73.252266,
+                        61.262015
+                  ]
+            },
+            {
+                  "name": "Tserkov' ikony Bozhiei Materi <<Umilenie>>",
+                  "text": "Die Kirche der Ikone der Gottesmutter „Zärtlichkeit“ ist eine religiöse Stätte in Surgut.",
+                  "category": "landmark",
+                  "coords": [
+                        73.33862,
+                        61.284217
+                  ]
+            },
+            {
+                  "name": "Rimsko-katolicheskaia tserkov' Sviatogo Iosifa Truzhennika",
+                  "text": "Die römisch-katholische Kirche St. Josef der Arbeiter ist eine religiöse Stätte in Surgut.",
+                  "category": "landmark",
+                  "coords": [
+                        73.35982,
+                        61.250854
+                  ]
+            },
+            {
+                  "name": "Khram v chest' ikony Bozh'ei materi Vsekh skorbiashchikh radosti",
+                  "text": "Diese Kirche in Surgut ist der Ikone der Gottesmutter „Freude aller Trauernden“ gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        73.360842,
+                        61.254122
+                  ]
+            },
+            {
+                  "name": "Kafedral'nyi sobor Troitsy Zhivonachal'noi",
+                  "text": "Die Kathedrale der lebenspendenden Dreifaltigkeit ist eine bedeutende christliche Stätte in Surgut.",
+                  "category": "landmark",
+                  "coords": [
+                        73.39812,
+                        61.260505
+                  ]
+            },
+            {
+                  "name": "Tserkov' Luki Voino-Iasenetskogo",
+                  "text": "Die Kirche von Lukas Woino-Jassenezki dient der christlichen Gemeinde in Surgut.",
+                  "category": "landmark",
+                  "coords": [
+                        73.407596,
+                        61.269669
+                  ]
+            },
+            {
+                  "name": "Zal slavy svidetelei Iegovy",
+                  "text": "Dieser Königreichssaal der Zeugen Jehovas ist eine religiöse Einrichtung in Surgut.",
+                  "category": "landmark",
+                  "coords": [
+                        73.428198,
+                        61.277648
+                  ]
+            },
+            {
+                  "name": "Tserkov' Lazaria Chetverodnevnogo",
+                  "text": "Die Kirche des Lazarus des Viertägigen ist ein christlicher Gottesdienstort in Surgut.",
+                  "category": "landmark",
+                  "coords": [
+                        73.377948,
+                        61.318537
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sterkh",
+                  "text": "A Sztyerh egy kortárs művészeti galéria Szurgut városában.",
+                  "category": "museum",
+                  "coords": [
+                        73.375119,
+                        61.258231
+                  ]
+            },
+            {
+                  "name": "Muzei PAO \"Surgutneftegaz\"",
+                  "text": "A Szurgutnyeftyegaz Múzeum a jelentős szurguti olaj- és gázipari vállalat történetét és fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        73.373404,
+                        61.263344
+                  ]
+            },
+            {
+                  "name": "Surgutskii kraevedcheskii muzei",
+                  "text": "A Szurguti Helytörténeti Múzeum Szurgut regionális történelmével, kultúrájával és természetével kapcsolatos gyűjteményeket állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        73.422913,
+                        61.253858
+                  ]
+            },
+            {
+                  "name": "Rossiia - Moia istoriia. Iugra",
+                  "text": "A „Oroszország - Az én történelmem. Jugra” egy interaktív multimédiás történelmi múzeum Szurgutban.",
+                  "category": "museum",
+                  "coords": [
+                        73.43766,
+                        61.233032
+                  ]
+            },
+            {
+                  "name": "<<Kupecheskaia usad'ba. Dom kuptsa G.S. Klepikova>>",
+                  "text": "A Kereskedőudvarház egy múzeum Szurgutban, amelyet G. S. Klepikov kereskedő történelmi házában őriztek meg.",
+                  "category": "museum",
+                  "coords": [
+                        73.403301,
+                        61.234948
+                  ]
+            },
+            {
+                  "name": "Memorial'nyi kompleks geologov-pervoprokhodtsev Dom F.K.Salmanova",
+                  "text": "Ez a szurguti emlékkomplexum az úttörő geológusok előtt tiszteleg, és F. K. Salmanov egykori otthonában található.",
+                  "category": "museum",
+                  "coords": [
+                        73.475665,
+                        61.240594
+                  ]
+            },
+            {
+                  "name": "Staryi Surgut",
+                  "text": "Az Ó-Szurgut egy szabadtéri történelmi és néprajzi komplexum, amely a hagyományos faépítészetet mutatja be Szurgutban.",
+                  "category": "museum",
+                  "coords": [
+                        73.40869,
+                        61.236696
+                  ]
+            },
+            {
+                  "name": "Chasovnia v chest' Sviatoi Troitsy",
+                  "text": "A Szentháromság tiszteletére szentelt kápolna kiemelkedő emlékhelyként szolgál Szurgutban.",
+                  "category": "historical",
+                  "coords": [
+                        73.394923,
+                        61.237503
+                  ]
+            },
+            {
+                  "name": "Advance",
+                  "text": "Az Advance egy művészeti központ, amely kulturális tevékenységeket és kreatív tereket kínál Szurgutban.",
+                  "category": "cultural",
+                  "coords": [
+                        73.422898,
+                        61.261211
+                  ]
+            },
+            {
+                  "name": "Teatr SurGU",
+                  "text": "A Teatr SurGU a Szurguti Állami Egyetemhez tartozó színház, amely különféle színpadi előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        73.410955,
+                        61.239536
+                  ]
+            },
+            {
+                  "name": "Dvorets iskusstv \"Neftianik\"",
+                  "text": "A „Neftyanik” Művészetek Palotája egy jelentős kulturális helyszín és színház Szurgutban.",
+                  "category": "cultural",
+                  "coords": [
+                        73.347936,
+                        61.263219
+                  ]
+            },
+            {
+                  "name": "Petrushka",
+                  "text": "A Petruska egy neves bábszínház, amely gyermekeket és felnőtteket egyaránt szórakoztat Szurgutban.",
+                  "category": "cultural",
+                  "coords": [
+                        73.393061,
+                        61.240083
+                  ]
+            },
+            {
+                  "name": "Kamerton",
+                  "text": "A Kamerton a zenei oktatásnak és kulturális előadásoknak szentelt művészeti központ Szurgutban.",
+                  "category": "cultural",
+                  "coords": [
+                        73.401512,
+                        61.260784
+                  ]
+            },
+            {
+                  "name": "Tsentr molodezhnogo dizaina",
+                  "text": "Az Ifjúsági Tervezőközpont egy művészeti és kulturális helyszín Szurgutban.",
+                  "category": "cultural",
+                  "coords": [
+                        73.43969,
+                        61.258716
+                  ]
+            },
+            {
+                  "name": "Surgutskii muzykal'no-dramaticheskii teatr",
+                  "text": "Ez a zenei és drámai színház egy kiemelkedő előadóművészeti helyszín Szurgutban.",
+                  "category": "cultural",
+                  "coords": [
+                        73.328235,
+                        61.288552
+                  ]
+            },
+            {
+                  "name": "Surgutskaia filarmoniia",
+                  "text": "A Szurguti Filharmónia egy fontos kulturális intézmény, amely különféle művészeti előadásoknak ad otthont a városban.",
+                  "category": "cultural",
+                  "coords": [
+                        73.390882,
+                        61.241202
+                  ]
+            },
+            {
+                  "name": "School of Rock",
+                  "text": "A School of Rock egy helyi művészeti központ Szurgutban, amelyet a zenének szenteltek.",
+                  "category": "cultural",
+                  "coords": [
+                        73.384421,
+                        61.2419
+                  ]
+            },
+            {
+                  "name": "Armianskaia apostol'skaia tserkov' Sviatogo Grigoriia Prosvetitelia",
+                  "text": "A Világosító Szent Gergely örmény apostoli templom a helyi vallási közösséget szolgálja Szurgutban.",
+                  "category": "religious",
+                  "coords": [
+                        73.403801,
+                        61.325052
+                  ]
+            },
+            {
+                  "name": "Rynok",
+                  "text": "Ez a szurguti piac különféle helyi árukat és mindennapi szükségleti cikkeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        73.250804,
+                        61.261506
+                  ]
+            },
+            {
+                  "name": "Tsentral'nyi rynok",
+                  "text": "A Központi Piac egy nyüzsgő helyi piactér Szurgut szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        73.399721,
+                        61.258295
+                  ]
+            },
+            {
+                  "name": "Kitaiskii rynok",
+                  "text": "A Kínai Piac egy nyüzsgő helyi kereskedelmi terület Szurgutban.",
+                  "category": "cultural",
+                  "coords": [
+                        73.377034,
+                        61.280454
+                  ]
+            },
+            {
+                  "name": "Narodnaia baza",
+                  "text": "A Narodnaja Baza nyilvános piacként működik Szurgutban.",
+                  "category": "cultural",
+                  "coords": [
+                        73.48393,
+                        61.241019
+                  ]
+            },
+            {
+                  "name": "Svadebnaia kareta",
+                  "text": "Az Esküvői Hintó egy népszerű dekoratív látványosság a látogatók és a helyiek számára Szurgutban.",
+                  "category": "landmark",
+                  "coords": [
+                        73.399772,
+                        61.248069
+                  ]
+            },
+            {
+                  "name": "Solnechnye chasy",
+                  "text": "A Napóra egy jelentős köztéri látványosság Szurgut városában.",
+                  "category": "landmark",
+                  "coords": [
+                        73.35526,
+                        61.285617
+                  ]
+            },
+            {
+                  "name": "Tserkov' Nikolaia Chudotvortsa",
+                  "text": "A Csodatévő Szent Miklós-templom egy keresztény istentiszteleti hely Szurgutban.",
+                  "category": "landmark",
+                  "coords": [
+                        73.252266,
+                        61.262015
+                  ]
+            },
+            {
+                  "name": "Tserkov' ikony Bozhiei Materi <<Umilenie>>",
+                  "text": "Az Istenanya „Gyengédség” ikonjának temploma egy vallási helyszín Szurgutban.",
+                  "category": "landmark",
+                  "coords": [
+                        73.33862,
+                        61.284217
+                  ]
+            },
+            {
+                  "name": "Rimsko-katolicheskaia tserkov' Sviatogo Iosifa Truzhennika",
+                  "text": "A Munkás Szent József római katolikus templom egy vallási helyszín Szurgutban.",
+                  "category": "landmark",
+                  "coords": [
+                        73.35982,
+                        61.250854
+                  ]
+            },
+            {
+                  "name": "Khram v chest' ikony Bozh'ei materi Vsekh skorbiashchikh radosti",
+                  "text": "Ez a szurguti templom az Istenanya „Minden Szomorkodó Öröme” ikonjának van szentelve.",
+                  "category": "landmark",
+                  "coords": [
+                        73.360842,
+                        61.254122
+                  ]
+            },
+            {
+                  "name": "Kafedral'nyi sobor Troitsy Zhivonachal'noi",
+                  "text": "Az Életadó Szentháromság-székesegyház egy kiemelkedő keresztény helyszín Szurgutban.",
+                  "category": "landmark",
+                  "coords": [
+                        73.39812,
+                        61.260505
+                  ]
+            },
+            {
+                  "name": "Tserkov' Luki Voino-Iasenetskogo",
+                  "text": "A Luka Vojno-Jaszenyetszkij-templom a keresztény közösséget szolgálja Szurgutban.",
+                  "category": "landmark",
+                  "coords": [
+                        73.407596,
+                        61.269669
+                  ]
+            },
+            {
+                  "name": "Zal slavy svidetelei Iegovy",
+                  "text": "A Jehova Tanúi Királyság-terme egy vallási létesítmény Szurgutban.",
+                  "category": "landmark",
+                  "coords": [
+                        73.428198,
+                        61.277648
+                  ]
+            },
+            {
+                  "name": "Tserkov' Lazaria Chetverodnevnogo",
+                  "text": "A Négynapos Lázár-templom egy keresztény istentiszteleti hely Szurgutban.",
+                  "category": "landmark",
+                  "coords": [
+                        73.377948,
+                        61.318537
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sterkh",
+                  "text": "Sterkh este o galerie de artă contemporană situată în orașul Surgut.",
+                  "category": "museum",
+                  "coords": [
+                        73.375119,
+                        61.258231
+                  ]
+            },
+            {
+                  "name": "Muzei PAO \"Surgutneftegaz\"",
+                  "text": "Muzeul Surgutneftegaz prezintă istoria și dezvoltarea proeminentei companii de petrol și gaze din Surgut.",
+                  "category": "museum",
+                  "coords": [
+                        73.373404,
+                        61.263344
+                  ]
+            },
+            {
+                  "name": "Surgutskii kraevedcheskii muzei",
+                  "text": "Muzeul de Istorie Locală din Surgut expune colecții legate de istoria, cultura și natura regională a Surgutului.",
+                  "category": "museum",
+                  "coords": [
+                        73.422913,
+                        61.253858
+                  ]
+            },
+            {
+                  "name": "Rossiia - Moia istoriia. Iugra",
+                  "text": "„Rusia - Istoria mea. Iugra” este un muzeu istoric multimedia interactiv situat în Surgut.",
+                  "category": "museum",
+                  "coords": [
+                        73.43766,
+                        61.233032
+                  ]
+            },
+            {
+                  "name": "<<Kupecheskaia usad'ba. Dom kuptsa G.S. Klepikova>>",
+                  "text": "Conacul Negustorului este un muzeu din Surgut, păstrat în casa istorică a negustorului G.S. Klepikov.",
+                  "category": "museum",
+                  "coords": [
+                        73.403301,
+                        61.234948
+                  ]
+            },
+            {
+                  "name": "Memorial'nyi kompleks geologov-pervoprokhodtsev Dom F.K.Salmanova",
+                  "text": "Acest complex memorial din Surgut onorează pionierii geologi și este situat în fosta casă a lui F.K. Salmanov.",
+                  "category": "museum",
+                  "coords": [
+                        73.475665,
+                        61.240594
+                  ]
+            },
+            {
+                  "name": "Staryi Surgut",
+                  "text": "Vechiul Surgut este un complex istoric și etnografic în aer liber care prezintă arhitectura tradițională din lemn în Surgut.",
+                  "category": "museum",
+                  "coords": [
+                        73.40869,
+                        61.236696
+                  ]
+            },
+            {
+                  "name": "Chasovnia v chest' Sviatoi Troitsy",
+                  "text": "Capela în Onoarea Sfintei Treimi servește drept loc memorial proeminent în Surgut.",
+                  "category": "historical",
+                  "coords": [
+                        73.394923,
+                        61.237503
+                  ]
+            },
+            {
+                  "name": "Advance",
+                  "text": "Advance este un centru de arte care oferă activități culturale și spații creative în Surgut.",
+                  "category": "cultural",
+                  "coords": [
+                        73.422898,
+                        61.261211
+                  ]
+            },
+            {
+                  "name": "Teatr SurGU",
+                  "text": "Teatr SurGU este un teatru afiliat Universității de Stat din Surgut, care găzduiește diverse spectacole de scenă.",
+                  "category": "cultural",
+                  "coords": [
+                        73.410955,
+                        61.239536
+                  ]
+            },
+            {
+                  "name": "Dvorets iskusstv \"Neftianik\"",
+                  "text": "Palatul Artelor „Neftyanik” este o locație culturală majoră și un teatru în Surgut.",
+                  "category": "cultural",
+                  "coords": [
+                        73.347936,
+                        61.263219
+                  ]
+            },
+            {
+                  "name": "Petrushka",
+                  "text": "Petrushka este un teatru de păpuși notabil, care distrează atât copiii, cât și adulții în Surgut.",
+                  "category": "cultural",
+                  "coords": [
+                        73.393061,
+                        61.240083
+                  ]
+            },
+            {
+                  "name": "Kamerton",
+                  "text": "Kamerton este un centru de arte dedicat educației muzicale și spectacolelor culturale din Surgut.",
+                  "category": "cultural",
+                  "coords": [
+                        73.401512,
+                        61.260784
+                  ]
+            },
+            {
+                  "name": "Tsentr molodezhnogo dizaina",
+                  "text": "Centrul de Design pentru Tineret este un spațiu cultural dedicat artelor, situat în Surgut.",
+                  "category": "cultural",
+                  "coords": [
+                        73.43969,
+                        61.258716
+                  ]
+            },
+            {
+                  "name": "Surgutskii muzykal'no-dramaticheskii teatr",
+                  "text": "Acest teatru de muzică și dramă este un loc important pentru artele spectacolului în Surgut.",
+                  "category": "cultural",
+                  "coords": [
+                        73.328235,
+                        61.288552
+                  ]
+            },
+            {
+                  "name": "Surgutskaia filarmoniia",
+                  "text": "Filarmonica din Surgut este o instituție culturală importantă care găzduiește diverse spectacole artistice în oraș.",
+                  "category": "cultural",
+                  "coords": [
+                        73.390882,
+                        61.241202
+                  ]
+            },
+            {
+                  "name": "School of Rock",
+                  "text": "School of Rock este un centru de arte local din Surgut dedicat muzicii.",
+                  "category": "cultural",
+                  "coords": [
+                        73.384421,
+                        61.2419
+                  ]
+            },
+            {
+                  "name": "Armianskaia apostol'skaia tserkov' Sviatogo Grigoriia Prosvetitelia",
+                  "text": "Biserica Apostolică Armeană Sfântul Grigorie Luminătorul servește comunitatea religioasă locală din Surgut.",
+                  "category": "religious",
+                  "coords": [
+                        73.403801,
+                        61.325052
+                  ]
+            },
+            {
+                  "name": "Rynok",
+                  "text": "Această piață din Surgut oferă o varietate de bunuri locale și necesități zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        73.250804,
+                        61.261506
+                  ]
+            },
+            {
+                  "name": "Tsentral'nyi rynok",
+                  "text": "Piața Centrală este o piață locală animată situată în inima orașului Surgut.",
+                  "category": "cultural",
+                  "coords": [
+                        73.399721,
+                        61.258295
+                  ]
+            },
+            {
+                  "name": "Kitaiskii rynok",
+                  "text": "Piața Chineză este o zonă comercială locală plină de viață situată în Surgut.",
+                  "category": "cultural",
+                  "coords": [
+                        73.377034,
+                        61.280454
+                  ]
+            },
+            {
+                  "name": "Narodnaia baza",
+                  "text": "Narodnaia Baza funcționează ca o piață publică în Surgut.",
+                  "category": "cultural",
+                  "coords": [
+                        73.48393,
+                        61.241019
+                  ]
+            },
+            {
+                  "name": "Svadebnaia kareta",
+                  "text": "Trăsura de Nuntă este o atracție decorativă populară pentru vizitatori și localnici în Surgut.",
+                  "category": "landmark",
+                  "coords": [
+                        73.399772,
+                        61.248069
+                  ]
+            },
+            {
+                  "name": "Solnechnye chasy",
+                  "text": "Ceasul Solar este o atracție publică notabilă situată în orașul Surgut.",
+                  "category": "landmark",
+                  "coords": [
+                        73.35526,
+                        61.285617
+                  ]
+            },
+            {
+                  "name": "Tserkov' Nikolaia Chudotvortsa",
+                  "text": "Biserica Sfântul Nicolae Făcătorul de Minuni este un lăcaș de cult creștin în Surgut.",
+                  "category": "landmark",
+                  "coords": [
+                        73.252266,
+                        61.262015
+                  ]
+            },
+            {
+                  "name": "Tserkov' ikony Bozhiei Materi <<Umilenie>>",
+                  "text": "Biserica Icoanei Maicii Domnului „Tandrețe” este un lăcaș religios din Surgut.",
+                  "category": "landmark",
+                  "coords": [
+                        73.33862,
+                        61.284217
+                  ]
+            },
+            {
+                  "name": "Rimsko-katolicheskaia tserkov' Sviatogo Iosifa Truzhennika",
+                  "text": "Biserica Romano-Catolică Sfântul Iosif Muncitorul este un sit religios din Surgut.",
+                  "category": "landmark",
+                  "coords": [
+                        73.35982,
+                        61.250854
+                  ]
+            },
+            {
+                  "name": "Khram v chest' ikony Bozh'ei materi Vsekh skorbiashchikh radosti",
+                  "text": "Această biserică din Surgut este dedicată icoanei Maicii Domnului „Bucuria tuturor celor necăjiți”.",
+                  "category": "landmark",
+                  "coords": [
+                        73.360842,
+                        61.254122
+                  ]
+            },
+            {
+                  "name": "Kafedral'nyi sobor Troitsy Zhivonachal'noi",
+                  "text": "Catedrala Sfintei Treimi de Viață Făcătoare este un important sit creștin din Surgut.",
+                  "category": "landmark",
+                  "coords": [
+                        73.39812,
+                        61.260505
+                  ]
+            },
+            {
+                  "name": "Tserkov' Luki Voino-Iasenetskogo",
+                  "text": "Biserica Luca Voino-Iasenețki servește comunitatea creștină din Surgut.",
+                  "category": "landmark",
+                  "coords": [
+                        73.407596,
+                        61.269669
+                  ]
+            },
+            {
+                  "name": "Zal slavy svidetelei Iegovy",
+                  "text": "Această Sală a Regatului a Martorilor lui Iehova este o unitate religioasă situată în Surgut.",
+                  "category": "landmark",
+                  "coords": [
+                        73.428198,
+                        61.277648
+                  ]
+            },
+            {
+                  "name": "Tserkov' Lazaria Chetverodnevnogo",
+                  "text": "Biserica lui Lazăr cel de a Patra Zi este un lăcaș de cult creștin în Surgut.",
+                  "category": "landmark",
+                  "coords": [
+                        73.377948,
+                        61.318537
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sterkh",
+                  "text": "Sterkh is a contemporary art gallery located in the city of Surgut.",
+                  "category": "museum",
+                  "coords": [
+                        73.375119,
+                        61.258231
+                  ]
+            },
+            {
+                  "name": "Muzei PAO \"Surgutneftegaz\"",
+                  "text": "The Surgutneftegaz Museum chronicles the history and development of the prominent oil and gas company in Surgut.",
+                  "category": "museum",
+                  "coords": [
+                        73.373404,
+                        61.263344
+                  ]
+            },
+            {
+                  "name": "Surgutskii kraevedcheskii muzei",
+                  "text": "The Surgut Local Lore Museum exhibits collections related to the regional history, culture, and nature of Surgut.",
+                  "category": "museum",
+                  "coords": [
+                        73.422913,
+                        61.253858
+                  ]
+            },
+            {
+                  "name": "Rossiia - Moia istoriia. Iugra",
+                  "text": "\"Russia - My History. Yugra\" is an interactive multimedia historical museum located in Surgut.",
+                  "category": "museum",
+                  "coords": [
+                        73.43766,
+                        61.233032
+                  ]
+            },
+            {
+                  "name": "\"Merchant's manor. The house of the merchant G.S.Klepikov\"",
+                  "text": "The Merchant's Manor is a museum in Surgut preserved in the historical house of merchant G.S. Klepikov.",
+                  "category": "museum",
+                  "coords": [
+                        73.403301,
+                        61.234948
+                  ]
+            },
+            {
+                  "name": "Memorial'nyi kompleks geologov-pervoprokhodtsev Dom F.K.Salmanova",
+                  "text": "This memorial complex in Surgut honors the pioneer geologists and is located in the former home of F.K. Salmanov.",
+                  "category": "museum",
+                  "coords": [
+                        73.475665,
+                        61.240594
+                  ]
+            },
+            {
+                  "name": "Staryi Surgut",
+                  "text": "Old Surgut is an open-air historical and ethnographic complex showcasing traditional wooden architecture in Surgut.",
+                  "category": "museum",
+                  "coords": [
+                        73.40869,
+                        61.236696
+                  ]
+            },
+            {
+                  "name": "Chasovnia v chest' Sviatoi Troitsy",
+                  "text": "The Chapel in Honor of the Holy Trinity serves as a prominent memorial site in Surgut.",
+                  "category": "historical",
+                  "coords": [
+                        73.394923,
+                        61.237503
+                  ]
+            },
+            {
+                  "name": "Advance",
+                  "text": "Advance is an arts centre offering cultural activities and creative spaces in Surgut.",
+                  "category": "cultural",
+                  "coords": [
+                        73.422898,
+                        61.261211
+                  ]
+            },
+            {
+                  "name": "Teatr SurGU",
+                  "text": "Teatr SurGU is a theater affiliated with the Surgut State University, hosting various stage performances.",
+                  "category": "cultural",
+                  "coords": [
+                        73.410955,
+                        61.239536
+                  ]
+            },
+            {
+                  "name": "Dvorets iskusstv \"Neftianik\"",
+                  "text": "The \"Neftyanik\" Palace of Arts is a major cultural venue and theater in Surgut.",
+                  "category": "cultural",
+                  "coords": [
+                        73.347936,
+                        61.263219
+                  ]
+            },
+            {
+                  "name": "Petrushka",
+                  "text": "Petrushka is a notable puppet theater entertaining both children and adults in Surgut.",
+                  "category": "cultural",
+                  "coords": [
+                        73.393061,
+                        61.240083
+                  ]
+            },
+            {
+                  "name": "Kamerton",
+                  "text": "Kamerton is an arts centre dedicated to musical education and cultural performances in Surgut.",
+                  "category": "cultural",
+                  "coords": [
+                        73.401512,
+                        61.260784
+                  ]
+            },
+            {
+                  "name": "Tsentr molodezhnogo dizaina",
+                  "text": "The Youth Design Center is a cultural venue for the arts located in Surgut.",
+                  "category": "cultural",
+                  "coords": [
+                        73.43969,
+                        61.258716
+                  ]
+            },
+            {
+                  "name": "Surgutskii muzykal'no-dramaticheskii teatr",
+                  "text": "This music and drama theater is a prominent venue for performing arts in Surgut.",
+                  "category": "cultural",
+                  "coords": [
+                        73.328235,
+                        61.288552
+                  ]
+            },
+            {
+                  "name": "Surgutskaia filarmoniia",
+                  "text": "The Surgut Philharmonic is an important cultural institution hosting various artistic performances in the city.",
+                  "category": "cultural",
+                  "coords": [
+                        73.390882,
+                        61.241202
+                  ]
+            },
+            {
+                  "name": "School of Rock",
+                  "text": "School of Rock is a local arts center in Surgut dedicated to music.",
+                  "category": "cultural",
+                  "coords": [
+                        73.384421,
+                        61.2419
+                  ]
+            },
+            {
+                  "name": "Armianskaia apostol'skaia tserkov' Sviatogo Grigoriia Prosvetitelia",
+                  "text": "The Armenian Apostolic Church of Saint Gregory the Illuminator serves the local religious community in Surgut.",
+                  "category": "religious",
+                  "coords": [
+                        73.403801,
+                        61.325052
+                  ]
+            },
+            {
+                  "name": "Rynok",
+                  "text": "This marketplace in Surgut offers a variety of local goods and daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        73.250804,
+                        61.261506
+                  ]
+            },
+            {
+                  "name": "Tsentral'nyi rynok",
+                  "text": "The Central Market is a bustling local marketplace situated in the heart of Surgut.",
+                  "category": "cultural",
+                  "coords": [
+                        73.399721,
+                        61.258295
+                  ]
+            },
+            {
+                  "name": "Kitaiskii rynok",
+                  "text": "The Chinese Market is a lively local trading area located in Surgut.",
+                  "category": "cultural",
+                  "coords": [
+                        73.377034,
+                        61.280454
+                  ]
+            },
+            {
+                  "name": "Narodnaia baza",
+                  "text": "Narodnaia Baza operates as a public marketplace in Surgut.",
+                  "category": "cultural",
+                  "coords": [
+                        73.48393,
+                        61.241019
+                  ]
+            },
+            {
+                  "name": "Svadebnaia kareta",
+                  "text": "The Wedding Carriage is a popular decorative attraction for visitors and locals in Surgut.",
+                  "category": "landmark",
+                  "coords": [
+                        73.399772,
+                        61.248069
+                  ]
+            },
+            {
+                  "name": "Solnechnye chasy",
+                  "text": "The Sundial is a notable public attraction located in the city of Surgut.",
+                  "category": "landmark",
+                  "coords": [
+                        73.35526,
+                        61.285617
+                  ]
+            },
+            {
+                  "name": "Tserkov' Nikolaia Chudotvortsa",
+                  "text": "The Church of St. Nicholas the Wonderworker is a Christian place of worship in Surgut.",
+                  "category": "landmark",
+                  "coords": [
+                        73.252266,
+                        61.262015
+                  ]
+            },
+            {
+                  "name": "Tserkov' ikony Bozhiei Materi <<Umilenie>>",
+                  "text": "The Church of the Icon of the Mother of God \"Tenderness\" is a religious site in Surgut.",
+                  "category": "landmark",
+                  "coords": [
+                        73.33862,
+                        61.284217
+                  ]
+            },
+            {
+                  "name": "Rimsko-katolicheskaia tserkov' Sviatogo Iosifa Truzhennika",
+                  "text": "The Roman Catholic Church of St. Joseph the Worker is a religious site in Surgut.",
+                  "category": "landmark",
+                  "coords": [
+                        73.35982,
+                        61.250854
+                  ]
+            },
+            {
+                  "name": "Khram v chest' ikony Bozh'ei materi Vsekh skorbiashchikh radosti",
+                  "text": "This church in Surgut is dedicated to the icon of the Mother of God \"Joy of All Who Sorrow.\"",
+                  "category": "landmark",
+                  "coords": [
+                        73.360842,
+                        61.254122
+                  ]
+            },
+            {
+                  "name": "Kafedral'nyi sobor Troitsy Zhivonachal'noi",
+                  "text": "The Cathedral of the Life-Giving Trinity is a prominent Christian site in Surgut.",
+                  "category": "landmark",
+                  "coords": [
+                        73.39812,
+                        61.260505
+                  ]
+            },
+            {
+                  "name": "Tserkov' Luki Voino-Iasenetskogo",
+                  "text": "The Church of Luke Voyno-Yasenetsky serves the Christian community in Surgut.",
+                  "category": "landmark",
+                  "coords": [
+                        73.407596,
+                        61.269669
+                  ]
+            },
+            {
+                  "name": "Zal slavy svidetelei Iegovy",
+                  "text": "This Jehovah's Witnesses Kingdom Hall is a religious facility located in Surgut.",
+                  "category": "landmark",
+                  "coords": [
+                        73.428198,
+                        61.277648
+                  ]
+            },
+            {
+                  "name": "Tserkov' Lazaria Chetverodnevnogo",
+                  "text": "The Church of Lazarus of the Four Days is a place of Christian worship in Surgut.",
+                  "category": "landmark",
+                  "coords": [
+                        73.377948,
+                        61.318537
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "industry",
     name: { de: "Erdölzentrum Surgut", hu: "Szurgut olajipari központ", ro: "Centrul petrolier Surgut", en: "Surgut Oil and Gas Hub"},
@@ -544,7 +3496,1240 @@ imageHint: "Launch pad and rocket assembly at Vostochny Cosmodrome",
     },
     image: "/poi-images/russia-vostochny-cosmodrome-economic-v2.webp",
 },  {
-    id: "russia-uralvagonzavod-economic-v2",
+    id: "russia-uralvagonzavod-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzei-usad'ba \"Demidovskaia dacha\"",
+                  "text": "Dieses hölzerne Herrenhaus aus dem 19. Jahrhundert war der Landsitz der Industriellenfamilie Demidow.",
+                  "category": "museum",
+                  "coords": [
+                        59.990023,
+                        57.903358
+                  ]
+            },
+            {
+                  "name": "Nizhnetagil'skaia filarmoniia",
+                  "text": "Das wichtigste Musikzentrum der Stadt, in dem regelmäßig klassische Konzerte und philharmonische Abende stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        59.966955,
+                        57.907096
+                  ]
+            },
+            {
+                  "name": "Muzei boevoi slavy metallurgov",
+                  "text": "Dieses Museum ehrt den militärischen Einsatz und die Leistungen der Metallarbeiter während des Krieges.",
+                  "category": "museum",
+                  "coords": [
+                        60.018789,
+                        57.936595
+                  ]
+            },
+            {
+                  "name": "Muzeino-vystavochnyi kompleks AO <<EVRAZ NTMK>>",
+                  "text": "Eine moderne Ausstellung, die die industrielle Entwicklung des EVRAZ-Stahlwerks zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        60.014791,
+                        57.93787
+                  ]
+            },
+            {
+                  "name": "Muzei kamennykh tsvetov",
+                  "text": "Dieses Museum zeigt eine beeindruckende Sammlung von Ural-Mineralien und kunstvollen Steinschnitzereien.",
+                  "category": "museum",
+                  "coords": [
+                        59.993196,
+                        57.936868
+                  ]
+            },
+            {
+                  "name": "Memorial'no-literaturnyi muzei A. P. Bondina",
+                  "text": "Das ehemalige Wohnhaus des Schriftstellers Alexej Bondin bewahrt seine persönlichen Gegenstände und literarischen Werke.",
+                  "category": "museum",
+                  "coords": [
+                        59.961666,
+                        57.904137
+                  ]
+            },
+            {
+                  "name": "Nizhnetagil'skii istoriko-kraevedcheskii muzei",
+                  "text": "Das Regionalmuseum ist in einem ehemaligen Bergbauamt untergebracht, das im Jahr 1841 erbaut wurde.",
+                  "category": "museum",
+                  "coords": [
+                        59.951428,
+                        57.905637
+                  ]
+            },
+            {
+                  "name": "Nizhnetagil'skii gorodskoi muzei-zapovednik \"Gornozavodskoi Ural\"",
+                  "text": "Ein großflächiges Freilichtmuseum, das die historische Bergbaulandschaft und alte Industrieanlagen bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        59.950393,
+                        57.905443
+                  ]
+            },
+            {
+                  "name": "Muzei prirody i okhrany okruzhaiushchei sredy",
+                  "text": "Das Museum widmet sich der Flora und Fauna des Urals sowie der Geschichte des lokalen Umweltschutzes.",
+                  "category": "museum",
+                  "coords": [
+                        59.952855,
+                        57.90596
+                  ]
+            },
+            {
+                  "name": "Muzei-zavod im. Kuibysheva",
+                  "text": "Dieses ehemalige Eisenwerk aus dem 18. Jahrhundert ist heute als einzigartiges Industriedenkmal erhalten.",
+                  "category": "museum",
+                  "coords": [
+                        59.947579,
+                        57.903739
+                  ]
+            },
+            {
+                  "name": "Eko-industrial'nyi tekhnopark",
+                  "text": "Ein Industriepark mit massiven Maschinen und Ausrüstungen aus der Geschichte der Schwerindustrie.",
+                  "category": "museum",
+                  "coords": [
+                        59.94319,
+                        57.907791
+                  ]
+            },
+            {
+                  "name": "Muzei istorii podnosnogo promysla dom khudozhnikov Khudoiarovykh",
+                  "text": "Ein spezialisiertes Museum, das die traditionelle russische Kunst der bemalten Metalltabletts aus Nischni Tagil zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        59.938673,
+                        57.908057
+                  ]
+            },
+            {
+                  "name": "Muzei byta i remiosel gornozavodskogo naseleniia",
+                  "text": "Die Sammlung zeigt traditionelles urallisches Kunsthandwerk, Textilien und historische Haushaltsgeräte.",
+                  "category": "museum",
+                  "coords": [
+                        59.937652,
+                        57.907952
+                  ]
+            },
+            {
+                  "name": "Muzei istorii tekhniki \"Dom Cherepanovykh\"",
+                  "text": "Dieses Haus gehörte den Erfindern Tscherepanow, die die erste russische Dampflokomotive bauten.",
+                  "category": "museum",
+                  "coords": [
+                        59.93511,
+                        57.926905
+                  ]
+            },
+            {
+                  "name": "Muzei FKP \"NTIIM\"",
+                  "text": "Dieses Museum auf dem Staratel-Testgelände stellt Artillerie und verschiedene Militärtechnologien aus.",
+                  "category": "museum",
+                  "coords": [
+                        60.061047,
+                        57.85455
+                  ]
+            },
+            {
+                  "name": "Muzei istorii Uralvagonzavoda",
+                  "text": "Das Museum dokumentiert die Geschichte der Panzer- und Waggonherstellung im riesigen Uralwagonsawod-Werk.",
+                  "category": "museum",
+                  "coords": [
+                        60.09702,
+                        57.926865
+                  ]
+            },
+            {
+                  "name": "Muzei bronetankovoi tekhniki",
+                  "text": "Hier ist eine umfangreiche Sammlung sowjetischer Panzer ausgestellt, darunter die legendären T-34-Modelle.",
+                  "category": "museum",
+                  "coords": [
+                        60.094302,
+                        57.926035
+                  ]
+            },
+            {
+                  "name": "Dom khudozhnika",
+                  "text": "Ein Zentrum für lokale Künstler mit Galerien und Ateliers des russischen Künstlerverbandes.",
+                  "category": "museum",
+                  "coords": [
+                        59.954781,
+                        57.905583
+                  ]
+            },
+            {
+                  "name": "Gorodskoi dvorets tvorchestva iunykh",
+                  "text": "Ein großes Kulturzentrum, das eine Vielzahl von kreativen Workshops und Kursen für Jugendliche anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        59.992609,
+                        57.899556
+                  ]
+            },
+            {
+                  "name": "Dom detskogo tvorchestva leninskogo raiona",
+                  "text": "Eine Einrichtung zur Förderung der künstlerischen Talente von Kindern durch Handwerk und außerschulische Aktivitäten.",
+                  "category": "cultural",
+                  "coords": [
+                        59.948229,
+                        57.928144
+                  ]
+            },
+            {
+                  "name": "Dom detskogo tvorchestva Tagilstroevskogo raiona",
+                  "text": "Dieses Zentrum bietet kreative Bildungsprogramme für Kinder im industriellen Stadtteil Tagilstrojewski an.",
+                  "category": "cultural",
+                  "coords": [
+                        60.001949,
+                        57.947336
+                  ]
+            },
+            {
+                  "name": "Nizhnetagil'skii dramaticheskii teatr im. D. N. Mamina-Sibiriaka",
+                  "text": "Das nach dem Schriftsteller Mamin-Sibirjak benannte Theater ist in einem prächtigen neoklassizistischen Gebäude untergebracht.",
+                  "category": "cultural",
+                  "coords": [
+                        59.969719,
+                        57.907532
+                  ]
+            },
+            {
+                  "name": "Nizhnetagil'skii tsirk",
+                  "text": "Dieser permanente Zirkusbau ist für seine spektakulären Akrobatikshows und Tierdarbietungen bekannt.",
+                  "category": "cultural",
+                  "coords": [
+                        59.966168,
+                        57.904561
+                  ]
+            },
+            {
+                  "name": "Nizhnetagil'skii teatr kukol",
+                  "text": "Dieses professionelle Puppentheater bietet märchenhafte Aufführungen für Kinder und Familien im Herzen der Industriestadt.",
+                  "category": "cultural",
+                  "coords": [
+                        59.9589,
+                        57.908454
+                  ]
+            },
+            {
+                  "name": "Molodiozhnyi teatr",
+                  "text": "Dieses Theater konzentriert sich auf zeitgenössische Stücke und Aufführungen für ein junges Publikum.",
+                  "category": "cultural",
+                  "coords": [
+                        60.120593,
+                        57.922966
+                  ]
+            },
+            {
+                  "name": "Dvorets detskogo i iunosheskogo tvorchestva",
+                  "text": "Ein Zentrum für außerschulische Bildung und kulturelle Workshops für Kinder und Jugendliche.",
+                  "category": "cultural",
+                  "coords": [
+                        60.108147,
+                        57.918485
+                  ]
+            },
+            {
+                  "name": "Poklonnyi krest",
+                  "text": "Ein traditionelles orthodoxes Gedenkkreuz, das als religiöses Denkmal und Ort des stillen Gebets dient.",
+                  "category": "religious",
+                  "coords": [
+                        60.080914,
+                        57.896411
+                  ]
+            },
+            {
+                  "name": "Pamiatnik Iapontsam pavshim na etoi zemle",
+                  "text": "Ein Denkmal für die japanischen Kriegsgefangenen, die in dieser Region verstorben sind.",
+                  "category": "religious",
+                  "coords": [
+                        59.999979,
+                        57.973036
+                  ]
+            },
+            {
+                  "name": "Storozhevaia bashnia",
+                  "text": "Dieser historische steinerne Wachturm auf dem Berg Lisja Gora ist ein Wahrzeichen der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        59.946718,
+                        57.89955
+                  ]
+            },
+            {
+                  "name": "rynok Tagilstroevskii",
+                  "text": "Ein belebter Stadtmarkt im Bezirk Tagilstrojewski, bekannt für regionale Lebensmittel und Haushaltswaren.",
+                  "category": "cultural",
+                  "coords": [
+                        59.99921,
+                        57.940037
+                  ]
+            },
+            {
+                  "name": "Privokzal'nyi",
+                  "text": "Ein Marktplatz in der Nähe des Bahnhofs, ideal für Reisende und den täglichen Einkauf.",
+                  "category": "cultural",
+                  "coords": [
+                        59.991355,
+                        57.91063
+                  ]
+            },
+            {
+                  "name": "Feniks",
+                  "text": "Ein lokaler Handelsplatz mit verschiedenen Ständen für frisches Obst, Gemüse und Haushaltswaren.",
+                  "category": "cultural",
+                  "coords": [
+                        59.942436,
+                        57.922454
+                  ]
+            },
+            {
+                  "name": "Molodezhnyi",
+                  "text": "Ein kleinerer Marktplatz, der vor allem die Anwohner der umliegenden Wohngebiete mit Lebensmitteln versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        60.114343,
+                        57.923614
+                  ]
+            },
+            {
+                  "name": "Tagilstroevskii raion",
+                  "text": "Dieser Industriebezirk ist geprägt von monumentalen sowjetischen Fabrikanlagen und historischer Arbeiterarchitektur.",
+                  "category": "landmark",
+                  "coords": [
+                        59.983536,
+                        57.918784
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzei-usad'ba \"Demidovskaia dacha\"",
+                  "text": "Ez a 19. századi fából készült kúria a híres Demidov gyáros család vidéki birtoka volt.",
+                  "category": "museum",
+                  "coords": [
+                        59.990023,
+                        57.903358
+                  ]
+            },
+            {
+                  "name": "Nizhnetagil'skaia filarmoniia",
+                  "text": "A város legfontosabb zenei központja, amely rendszeresen ad otthont klasszikus koncerteknek és filharmonikus esteknek.",
+                  "category": "cultural",
+                  "coords": [
+                        59.966955,
+                        57.907096
+                  ]
+            },
+            {
+                  "name": "Muzei boevoi slavy metallurgov",
+                  "text": "Ez a múzeum a fémkohászok háború alatti katonai szolgálatának és teljesítményének állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        60.018789,
+                        57.936595
+                  ]
+            },
+            {
+                  "name": "Muzeino-vystavochnyi kompleks AO <<EVRAZ NTMK>>",
+                  "text": "Modern kiállítás, amely az EVRAZ acélmű ipari fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        60.014791,
+                        57.93787
+                  ]
+            },
+            {
+                  "name": "Muzei kamennykh tsvetov",
+                  "text": "Ez a múzeum az uráli ásványok és a művészi kőfaragások lenyűgöző gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        59.993196,
+                        57.936868
+                  ]
+            },
+            {
+                  "name": "Memorial'no-literaturnyi muzei A. P. Bondina",
+                  "text": "Alekszej Bondin író egykori lakóháza, amely megőrzi személyes tárgyait és irodalmi munkáit.",
+                  "category": "museum",
+                  "coords": [
+                        59.961666,
+                        57.904137
+                  ]
+            },
+            {
+                  "name": "Nizhnetagil'skii istoriko-kraevedcheskii muzei",
+                  "text": "A regionális múzeum egy egykori bányászati hivatal épületében kapott helyet, amely 1841-ben épült.",
+                  "category": "museum",
+                  "coords": [
+                        59.951428,
+                        57.905637
+                  ]
+            },
+            {
+                  "name": "Nizhnetagil'skii gorodskoi muzei-zapovednik \"Gornozavodskoi Ural\"",
+                  "text": "Nagy kiterjedésű szabadtéri múzeum, amely megőrzi a történelmi bányászati tájat és a régi ipari létesítményeket.",
+                  "category": "museum",
+                  "coords": [
+                        59.950393,
+                        57.905443
+                  ]
+            },
+            {
+                  "name": "Muzei prirody i okhrany okruzhaiushchei sredy",
+                  "text": "A múzeum az Urál élővilágának és a helyi környezetvédelem történetének bemutatására összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        59.952855,
+                        57.90596
+                  ]
+            },
+            {
+                  "name": "Muzei-zavod im. Kuibysheva",
+                  "text": "Ez az 18. századi egykori vasmű ma egyedülálló ipari műemlékként látogatható.",
+                  "category": "museum",
+                  "coords": [
+                        59.947579,
+                        57.903739
+                  ]
+            },
+            {
+                  "name": "Eko-industrial'nyi tekhnopark",
+                  "text": "Ipari park hatalmas gépekkel és berendezésekkel a nehézipar történetéből.",
+                  "category": "museum",
+                  "coords": [
+                        59.94319,
+                        57.907791
+                  ]
+            },
+            {
+                  "name": "Muzei istorii podnosnogo promysla dom khudozhnikov Khudoiarovykh",
+                  "text": "Szakmúzeum, amely a lakkozott, festett fém tálcák hagyományos orosz művészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        59.938673,
+                        57.908057
+                  ]
+            },
+            {
+                  "name": "Muzei byta i remiosel gornozavodskogo naseleniia",
+                  "text": "A gyűjtemény hagyományos uráli kézműves termékeket, textileket és történelmi háztartási eszközöket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        59.937652,
+                        57.907952
+                  ]
+            },
+            {
+                  "name": "Muzei istorii tekhniki \"Dom Cherepanovykh\"",
+                  "text": "Ez a ház a Cserepanov feltalálóké volt, akik megépítették az első orosz gőzmozdonyt.",
+                  "category": "museum",
+                  "coords": [
+                        59.93511,
+                        57.926905
+                  ]
+            },
+            {
+                  "name": "Muzei FKP \"NTIIM\"",
+                  "text": "Ez a múzeum a Sztratyel lőtéren található, ahol tüzérségi eszközöket és katonai technológiákat állítanak ki.",
+                  "category": "museum",
+                  "coords": [
+                        60.061047,
+                        57.85455
+                  ]
+            },
+            {
+                  "name": "Muzei istorii Uralvagonzavoda",
+                  "text": "A múzeum a harckocsi- és vagongyártás történetét mutatja be a hatalmas Uralvagonzavod gyárban.",
+                  "category": "museum",
+                  "coords": [
+                        60.09702,
+                        57.926865
+                  ]
+            },
+            {
+                  "name": "Muzei bronetankovoi tekhniki",
+                  "text": "Itt szovjet harckocsik kiterjedt gyűjteménye látható, beleértve a legendás T-34-es modelleket is.",
+                  "category": "museum",
+                  "coords": [
+                        60.094302,
+                        57.926035
+                  ]
+            },
+            {
+                  "name": "Dom khudozhnika",
+                  "text": "Helyi művészeti központ galériákkal és az Orosz Művészek Szövetségének műhelyeivel.",
+                  "category": "museum",
+                  "coords": [
+                        59.954781,
+                        57.905583
+                  ]
+            },
+            {
+                  "name": "Gorodskoi dvorets tvorchestva iunykh",
+                  "text": "Nagy kulturális központ, amely kreatív műhelyek és tanfolyamok széles választékát kínálja fiataloknak.",
+                  "category": "cultural",
+                  "coords": [
+                        59.992609,
+                        57.899556
+                  ]
+            },
+            {
+                  "name": "Dom detskogo tvorchestva leninskogo raiona",
+                  "text": "A gyermekek művészi tehetségét gondozó intézmény, amely kézműves foglalkozásokat és iskolán kívüli tevékenységeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        59.948229,
+                        57.928144
+                  ]
+            },
+            {
+                  "name": "Dom detskogo tvorchestva Tagilstroevskogo raiona",
+                  "text": "Ez a központ kreatív oktatási programokat kínál gyermekeknek a Tagilsztrojevszkij ipari negyedben.",
+                  "category": "cultural",
+                  "coords": [
+                        60.001949,
+                        57.947336
+                  ]
+            },
+            {
+                  "name": "Nizhnetagil'skii dramaticheskii teatr im. D. N. Mamina-Sibiriaka",
+                  "text": "A Mamin-Sibirjak íróról elnevezett színház egy impozáns neoklasszicista épületben kapott helyet.",
+                  "category": "cultural",
+                  "coords": [
+                        59.969719,
+                        57.907532
+                  ]
+            },
+            {
+                  "name": "Nizhnetagil'skii tsirk",
+                  "text": "Ez az állandó cirkuszépület látványos akrobata-mutatványairól és állatos előadásairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        59.966168,
+                        57.904561
+                  ]
+            },
+            {
+                  "name": "Nizhnetagil'skii teatr kukol",
+                  "text": "Ez a professzionális bábszínház mesebeli előadásokat kínál gyermekeknek és családoknak az ipari város szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        59.9589,
+                        57.908454
+                  ]
+            },
+            {
+                  "name": "Molodiozhnyi teatr",
+                  "text": "Ez a színház a kortárs darabokra és a fiatal közönségnek szóló előadásokra összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        60.120593,
+                        57.922966
+                  ]
+            },
+            {
+                  "name": "Dvorets detskogo i iunosheskogo tvorchestva",
+                  "text": "Gyermekek és fiatalok számára létrehozott iskolán kívüli oktatási és kulturális műhelyközpont.",
+                  "category": "cultural",
+                  "coords": [
+                        60.108147,
+                        57.918485
+                  ]
+            },
+            {
+                  "name": "Poklonnyi krest",
+                  "text": "Hagyományos ortodox emlékkereszt, amely vallási emlékműként és a csendes ima helyszíneként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        60.080914,
+                        57.896411
+                  ]
+            },
+            {
+                  "name": "Pamiatnik Iapontsam pavshim na etoi zemle",
+                  "text": "Emlékmű az ebben a régióban elhunyt japán hadifoglyok tiszteletére.",
+                  "category": "religious",
+                  "coords": [
+                        59.999979,
+                        57.973036
+                  ]
+            },
+            {
+                  "name": "Storozhevaia bashnia",
+                  "text": "Ez a Liszja Gora dombon álló történelmi kő őrtorony a város egyik ikonikus jelképe.",
+                  "category": "religious",
+                  "coords": [
+                        59.946718,
+                        57.89955
+                  ]
+            },
+            {
+                  "name": "rynok Tagilstroevskii",
+                  "text": "Nyüzsgő városi piac a Tagilsztrojevszkij negyedben, amely regionális élelmiszereiről és háztartási cikkeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        59.99921,
+                        57.940037
+                  ]
+            },
+            {
+                  "name": "Privokzal'nyi",
+                  "text": "A vasútállomás közelében található piactér, amely ideális az utazók és a napi bevásárlás számára.",
+                  "category": "cultural",
+                  "coords": [
+                        59.991355,
+                        57.91063
+                  ]
+            },
+            {
+                  "name": "Feniks",
+                  "text": "Helyi kereskedelmi hely különféle standokkal, ahol friss gyümölcsöt, zöldséget és háztartási cikkeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        59.942436,
+                        57.922454
+                  ]
+            },
+            {
+                  "name": "Molodezhnyi",
+                  "text": "Kisebb piactér, amely elsősorban a környező lakónegyedek lakóit látja el élelmiszerrel.",
+                  "category": "cultural",
+                  "coords": [
+                        60.114343,
+                        57.923614
+                  ]
+            },
+            {
+                  "name": "Tagilstroevskii raion",
+                  "text": "Ezt az ipari negyedet monumentális szovjet gyártelepek és történelmi munkásépítészet jellemzi.",
+                  "category": "landmark",
+                  "coords": [
+                        59.983536,
+                        57.918784
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzei-usad'ba \"Demidovskaia dacha\"",
+                  "text": "Această casă boierească din lemn din secolul al XIX-la a fost reședința de vară a familiei de industriași Demidov.",
+                  "category": "museum",
+                  "coords": [
+                        59.990023,
+                        57.903358
+                  ]
+            },
+            {
+                  "name": "Nizhnetagil'skaia filarmoniia",
+                  "text": "Cel mai important centru muzical al orașului, care găzduiește regulat concerte clasice și seri filarmonice.",
+                  "category": "cultural",
+                  "coords": [
+                        59.966955,
+                        57.907096
+                  ]
+            },
+            {
+                  "name": "Muzei boevoi slavy metallurgov",
+                  "text": "Acest muzeu onorează serviciul militar și realizările metalurgiștilor în timpul războiului.",
+                  "category": "museum",
+                  "coords": [
+                        60.018789,
+                        57.936595
+                  ]
+            },
+            {
+                  "name": "Muzeino-vystavochnyi kompleks AO <<EVRAZ NTMK>>",
+                  "text": "O expoziție modernă care prezintă dezvoltarea industrială a combinatului siderurgic EVRAZ.",
+                  "category": "museum",
+                  "coords": [
+                        60.014791,
+                        57.93787
+                  ]
+            },
+            {
+                  "name": "Muzei kamennykh tsvetov",
+                  "text": "Acest muzeu expune o colecție impresionantă de minerale din Ural și sculpturi artistice în piatră.",
+                  "category": "museum",
+                  "coords": [
+                        59.993196,
+                        57.936868
+                  ]
+            },
+            {
+                  "name": "Memorial'no-literaturnyi muzei A. P. Bondina",
+                  "text": "Fosta casă a scriitorului Alexei Bondin păstrează obiectele sale personale și operele literare.",
+                  "category": "museum",
+                  "coords": [
+                        59.961666,
+                        57.904137
+                  ]
+            },
+            {
+                  "name": "Nizhnetagil'skii istoriko-kraevedcheskii muzei",
+                  "text": "Muzeul regional este găzduit într-o fostă clădire a biroului minier, construită în anul 1841.",
+                  "category": "museum",
+                  "coords": [
+                        59.951428,
+                        57.905637
+                  ]
+            },
+            {
+                  "name": "Nizhnetagil'skii gorodskoi muzei-zapovednik \"Gornozavodskoi Ural\"",
+                  "text": "Un muzeu în aer liber de mari dimensiuni care conservă peisajul minier istoric și vechile instalații industriale.",
+                  "category": "museum",
+                  "coords": [
+                        59.950393,
+                        57.905443
+                  ]
+            },
+            {
+                  "name": "Muzei prirody i okhrany okruzhaiushchei sredy",
+                  "text": "Muzeul este dedicat florei și faunei din Ural, precum și istoriei protecției mediului înconjurător.",
+                  "category": "museum",
+                  "coords": [
+                        59.952855,
+                        57.90596
+                  ]
+            },
+            {
+                  "name": "Muzei-zavod im. Kuibysheva",
+                  "text": "Această fostă uzină de fier din secolul al XVIII-lea este astăzi conservată ca un monument industrial unic.",
+                  "category": "museum",
+                  "coords": [
+                        59.947579,
+                        57.903739
+                  ]
+            },
+            {
+                  "name": "Eko-industrial'nyi tekhnopark",
+                  "text": "Un parc industrial cu utilaje masive și echipamente din istoria industriei grele.",
+                  "category": "museum",
+                  "coords": [
+                        59.94319,
+                        57.907791
+                  ]
+            },
+            {
+                  "name": "Muzei istorii podnosnogo promysla dom khudozhnikov Khudoiarovykh",
+                  "text": "Un muzeu specializat care prezintă arta tradițională rusească a tăvilor de metal pictate din Nijni Taghil.",
+                  "category": "museum",
+                  "coords": [
+                        59.938673,
+                        57.908057
+                  ]
+            },
+            {
+                  "name": "Muzei byta i remiosel gornozavodskogo naseleniia",
+                  "text": "Colecția prezintă meșteșuguri tradiționale din Ural, textile și obiecte de uz casnic istorice.",
+                  "category": "museum",
+                  "coords": [
+                        59.937652,
+                        57.907952
+                  ]
+            },
+            {
+                  "name": "Muzei istorii tekhniki \"Dom Cherepanovykh\"",
+                  "text": "Această casă a aparținut inventatorilor Cerepanov, care au construit prima locomotivă cu aburi rusească.",
+                  "category": "museum",
+                  "coords": [
+                        59.93511,
+                        57.926905
+                  ]
+            },
+            {
+                  "name": "Muzei FKP \"NTIIM\"",
+                  "text": "Acest muzeu situat în poligonul de testare Staratel expune artilerie și diverse tehnologii militare.",
+                  "category": "museum",
+                  "coords": [
+                        60.061047,
+                        57.85455
+                  ]
+            },
+            {
+                  "name": "Muzei istorii Uralvagonzavoda",
+                  "text": "Muzeul documentează istoria producției de tancuri și vagoane în uriașa uzină Uralvagonzavod.",
+                  "category": "museum",
+                  "coords": [
+                        60.09702,
+                        57.926865
+                  ]
+            },
+            {
+                  "name": "Muzei bronetankovoi tekhniki",
+                  "text": "Aici este expusă o colecție vastă de tancuri sovietice, inclusiv legendarele modele T-34.",
+                  "category": "museum",
+                  "coords": [
+                        60.094302,
+                        57.926035
+                  ]
+            },
+            {
+                  "name": "Dom khudozhnika",
+                  "text": "Un centru pentru artiștii locali, cu galerii și ateliere ale Uniunii Artiștilor din Rusia.",
+                  "category": "museum",
+                  "coords": [
+                        59.954781,
+                        57.905583
+                  ]
+            },
+            {
+                  "name": "Gorodskoi dvorets tvorchestva iunykh",
+                  "text": "Un mare centru cultural care oferă o varietate de ateliere creative și cursuri pentru tineri.",
+                  "category": "cultural",
+                  "coords": [
+                        59.992609,
+                        57.899556
+                  ]
+            },
+            {
+                  "name": "Dom detskogo tvorchestva leninskogo raiona",
+                  "text": "O instituție dedicată dezvoltării talentelor artistice ale copiilor prin meșteșuguri și activități extrașcolare.",
+                  "category": "cultural",
+                  "coords": [
+                        59.948229,
+                        57.928144
+                  ]
+            },
+            {
+                  "name": "Dom detskogo tvorchestva Tagilstroevskogo raiona",
+                  "text": "Acest centru oferă programe educaționale creative pentru copii în districtul industrial Taghilstroievski.",
+                  "category": "cultural",
+                  "coords": [
+                        60.001949,
+                        57.947336
+                  ]
+            },
+            {
+                  "name": "Nizhnetagil'skii dramaticheskii teatr im. D. N. Mamina-Sibiriaka",
+                  "text": "Teatrul numit după scriitorul Mamin-Sibiriak este găzduit într-o clădire neoclasică impunătoare.",
+                  "category": "cultural",
+                  "coords": [
+                        59.969719,
+                        57.907532
+                  ]
+            },
+            {
+                  "name": "Nizhnetagil'skii tsirk",
+                  "text": "Această clădire permanentă de circ este cunoscută pentru spectacolele sale acrobatice și reprezentațiile cu animale.",
+                  "category": "cultural",
+                  "coords": [
+                        59.966168,
+                        57.904561
+                  ]
+            },
+            {
+                  "name": "Nizhnetagil'skii teatr kukol",
+                  "text": "Acest teatru profesionist de păpuși oferă spectacole de basm pentru copii și familii în inima orașului industrial.",
+                  "category": "cultural",
+                  "coords": [
+                        59.9589,
+                        57.908454
+                  ]
+            },
+            {
+                  "name": "Molodiozhnyi teatr",
+                  "text": "Acest teatru se concentrează pe piese contemporane și spectacole dedicate unui public tânăr.",
+                  "category": "cultural",
+                  "coords": [
+                        60.120593,
+                        57.922966
+                  ]
+            },
+            {
+                  "name": "Dvorets detskogo i iunosheskogo tvorchestva",
+                  "text": "Un centru pentru educație extracurriculară și ateliere culturale destinat copiilor și tinerilor.",
+                  "category": "cultural",
+                  "coords": [
+                        60.108147,
+                        57.918485
+                  ]
+            },
+            {
+                  "name": "Poklonnyi krest",
+                  "text": "O cruce memorială ortodoxă tradițională care servește ca monument religios și loc de rugăciune discretă.",
+                  "category": "religious",
+                  "coords": [
+                        60.080914,
+                        57.896411
+                  ]
+            },
+            {
+                  "name": "Pamiatnik Iapontsam pavshim na etoi zemle",
+                  "text": "Un monument dedicat prizonierilor de război japonezi care au murit în această regiune.",
+                  "category": "religious",
+                  "coords": [
+                        59.999979,
+                        57.973036
+                  ]
+            },
+            {
+                  "name": "Storozhevaia bashnia",
+                  "text": "Acest turn de veghe istoric din piatră de pe dealul Lisya Gora este un simbol iconic al orașului.",
+                  "category": "religious",
+                  "coords": [
+                        59.946718,
+                        57.89955
+                  ]
+            },
+            {
+                  "name": "rynok Tagilstroevskii",
+                  "text": "O piață urbană animată în districtul Tagilstroevsky, cunoscută pentru alimente regionale și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        59.99921,
+                        57.940037
+                  ]
+            },
+            {
+                  "name": "Privokzal'nyi",
+                  "text": "O piață situată lângă gară, ideală pentru călători și pentru cumpărăturile zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        59.991355,
+                        57.91063
+                  ]
+            },
+            {
+                  "name": "Feniks",
+                  "text": "Un spațiu comercial local cu diverse tarabe pentru fructe proaspete, legume și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        59.942436,
+                        57.922454
+                  ]
+            },
+            {
+                  "name": "Molodezhnyi",
+                  "text": "O piață mai mică care deservește în special locuitorii din cartierele învecinate cu produse alimentare.",
+                  "category": "cultural",
+                  "coords": [
+                        60.114343,
+                        57.923614
+                  ]
+            },
+            {
+                  "name": "Tagilstroevskii raion",
+                  "text": "Acest district industrial este marcat de fabrici sovietice monumentale și arhitectură istorică a muncitorilor.",
+                  "category": "landmark",
+                  "coords": [
+                        59.983536,
+                        57.918784
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzei-usad'ba \"Demidovskaia dacha\"",
+                  "text": "This 19th-century wooden manor house served as the country estate for the industrialist Demidov family.",
+                  "category": "museum",
+                  "coords": [
+                        59.990023,
+                        57.903358
+                  ]
+            },
+            {
+                  "name": "Nizhnetagil'skaia filarmoniia",
+                  "text": "The city's primary musical venue, hosting regular classical concerts and philharmonic performances.",
+                  "category": "cultural",
+                  "coords": [
+                        59.966955,
+                        57.907096
+                  ]
+            },
+            {
+                  "name": "Muzei boevoi slavy metallurgov",
+                  "text": "This museum honors the military service and achievements of metalworkers during the war.",
+                  "category": "museum",
+                  "coords": [
+                        60.018789,
+                        57.936595
+                  ]
+            },
+            {
+                  "name": "Muzeino-vystavochnyi kompleks AO <<EVRAZ NTMK>>",
+                  "text": "A modern exhibition showcasing the industrial development of the EVRAZ steelworks.",
+                  "category": "museum",
+                  "coords": [
+                        60.014791,
+                        57.93787
+                  ]
+            },
+            {
+                  "name": "Muzei kamennykh tsvetov",
+                  "text": "This museum displays an impressive collection of Ural minerals and intricate artistic stone carvings.",
+                  "category": "museum",
+                  "coords": [
+                        59.993196,
+                        57.936868
+                  ]
+            },
+            {
+                  "name": "Memorial'no-literaturnyi muzei A. P. Bondina",
+                  "text": "The former home of writer Alexey Bondin preserves his personal belongings and literary works.",
+                  "category": "museum",
+                  "coords": [
+                        59.961666,
+                        57.904137
+                  ]
+            },
+            {
+                  "name": "Nizhnetagil'skii istoriko-kraevedcheskii muzei",
+                  "text": "The regional museum is housed in a former mining office building constructed in 1841.",
+                  "category": "museum",
+                  "coords": [
+                        59.951428,
+                        57.905637
+                  ]
+            },
+            {
+                  "name": "Nizhnetagil'skii gorodskoi muzei-zapovednik \"Gornozavodskoi Ural\"",
+                  "text": "A large-scale open-air museum complex preserving the historic mining landscape and old industrial facilities.",
+                  "category": "museum",
+                  "coords": [
+                        59.950393,
+                        57.905443
+                  ]
+            },
+            {
+                  "name": "Muzei prirody i okhrany okruzhaiushchei sredy",
+                  "text": "The museum focuses on Ural flora and fauna as well as the history of local environmental protection.",
+                  "category": "museum",
+                  "coords": [
+                        59.952855,
+                        57.90596
+                  ]
+            },
+            {
+                  "name": "Muzei-zavod im. Kuibysheva",
+                  "text": "This former 18th-century ironworks plant is preserved today as a unique industrial monument.",
+                  "category": "museum",
+                  "coords": [
+                        59.947579,
+                        57.903739
+                  ]
+            },
+            {
+                  "name": "Eko-industrial'nyi tekhnopark",
+                  "text": "An industrial park featuring massive machinery and equipment from the history of heavy industry.",
+                  "category": "museum",
+                  "coords": [
+                        59.94319,
+                        57.907791
+                  ]
+            },
+            {
+                  "name": "Muzei istorii podnosnogo promysla dom khudozhnikov Khudoiarovykh",
+                  "text": "A specialized museum showcasing the traditional Russian craft of painted metal trays from Nizhny Tagil.",
+                  "category": "museum",
+                  "coords": [
+                        59.938673,
+                        57.908057
+                  ]
+            },
+            {
+                  "name": "Muzei byta i remiosel gornozavodskogo naseleniia",
+                  "text": "The collection displays traditional Ural crafts, textiles, and historical household items.",
+                  "category": "museum",
+                  "coords": [
+                        59.937652,
+                        57.907952
+                  ]
+            },
+            {
+                  "name": "Muzei istorii tekhniki \"Dom Cherepanovykh\"",
+                  "text": "This house belonged to the Cherepanov inventors, who built the first Russian steam locomotive.",
+                  "category": "museum",
+                  "coords": [
+                        59.93511,
+                        57.926905
+                  ]
+            },
+            {
+                  "name": "Muzei FKP \"NTIIM\"",
+                  "text": "Located at the Staratel testing range, this museum displays artillery and military technologies.",
+                  "category": "museum",
+                  "coords": [
+                        60.061047,
+                        57.85455
+                  ]
+            },
+            {
+                  "name": "Muzei istorii Uralvagonzavoda",
+                  "text": "The museum documents the history of tank and railcar production at the massive Uralvagonzavod plant.",
+                  "category": "museum",
+                  "coords": [
+                        60.09702,
+                        57.926865
+                  ]
+            },
+            {
+                  "name": "Muzei bronetankovoi tekhniki",
+                  "text": "An extensive collection of Soviet tanks is displayed here, including the legendary T-34 models.",
+                  "category": "museum",
+                  "coords": [
+                        60.094302,
+                        57.926035
+                  ]
+            },
+            {
+                  "name": "Dom khudozhnika",
+                  "text": "A hub for local artists featuring galleries and workshops of the Russian Artists' Union.",
+                  "category": "museum",
+                  "coords": [
+                        59.954781,
+                        57.905583
+                  ]
+            },
+            {
+                  "name": "Gorodskoi dvorets tvorchestva iunykh",
+                  "text": "A large cultural center offering a variety of creative workshops and classes for youth.",
+                  "category": "cultural",
+                  "coords": [
+                        59.992609,
+                        57.899556
+                  ]
+            },
+            {
+                  "name": "Dom detskogo tvorchestva leninskogo raiona",
+                  "text": "An institution nurturing children's artistic talents through crafts and extracurricular activities.",
+                  "category": "cultural",
+                  "coords": [
+                        59.948229,
+                        57.928144
+                  ]
+            },
+            {
+                  "name": "Dom detskogo tvorchestva Tagilstroevskogo raiona",
+                  "text": "This center provides creative educational programs for children in the Tagilstroevsky industrial district.",
+                  "category": "cultural",
+                  "coords": [
+                        60.001949,
+                        57.947336
+                  ]
+            },
+            {
+                  "name": "Nizhnetagil'skii dramaticheskii teatr im. D. N. Mamina-Sibiriaka",
+                  "text": "Named after the writer Mamin-Sibiryak, this theatre is housed in a grand neoclassical building.",
+                  "category": "cultural",
+                  "coords": [
+                        59.969719,
+                        57.907532
+                  ]
+            },
+            {
+                  "name": "Nizhnetagil'skii tsirk",
+                  "text": "This permanent circus building is known for hosting spectacular acrobatic shows and animal performances.",
+                  "category": "cultural",
+                  "coords": [
+                        59.966168,
+                        57.904561
+                  ]
+            },
+            {
+                  "name": "Nizhnetagil'skii teatr kukol",
+                  "text": "This professional puppet theatre offers fairy-tale performances for children and families in the heart of the industrial city.",
+                  "category": "cultural",
+                  "coords": [
+                        59.9589,
+                        57.908454
+                  ]
+            },
+            {
+                  "name": "Molodiozhnyi teatr",
+                  "text": "This theatre focuses on contemporary plays and performances dedicated to a young audience.",
+                  "category": "cultural",
+                  "coords": [
+                        60.120593,
+                        57.922966
+                  ]
+            },
+            {
+                  "name": "Dvorets detskogo i iunosheskogo tvorchestva",
+                  "text": "A centre for extracurricular education and cultural workshops for children and youth.",
+                  "category": "cultural",
+                  "coords": [
+                        60.108147,
+                        57.918485
+                  ]
+            },
+            {
+                  "name": "Poklonnyi krest",
+                  "text": "A traditional Orthodox memorial cross that serves as a religious monument and a place for quiet prayer.",
+                  "category": "religious",
+                  "coords": [
+                        60.080914,
+                        57.896411
+                  ]
+            },
+            {
+                  "name": "Pamiatnik Iapontsam pavshim na etoi zemle",
+                  "text": "A monument dedicated to the Japanese prisoners of war who passed away in this region.",
+                  "category": "religious",
+                  "coords": [
+                        59.999979,
+                        57.973036
+                  ]
+            },
+            {
+                  "name": "Storozhevaia bashnia",
+                  "text": "This historic stone watchtower on Lisya Gora hill is an iconic landmark of the city.",
+                  "category": "religious",
+                  "coords": [
+                        59.946718,
+                        57.89955
+                  ]
+            },
+            {
+                  "name": "rynok Tagilstroevskii",
+                  "text": "A busy city market in the Tagilstroevsky district, known for regional food and household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        59.99921,
+                        57.940037
+                  ]
+            },
+            {
+                  "name": "Privokzal'nyi",
+                  "text": "A marketplace located near the railway station, ideal for travelers and daily shopping.",
+                  "category": "cultural",
+                  "coords": [
+                        59.991355,
+                        57.91063
+                  ]
+            },
+            {
+                  "name": "Feniks",
+                  "text": "A local trading spot with various stalls for fresh fruit, vegetables, and household items.",
+                  "category": "cultural",
+                  "coords": [
+                        59.942436,
+                        57.922454
+                  ]
+            },
+            {
+                  "name": "Molodezhnyi",
+                  "text": "A smaller marketplace that primarily supplies residents of the surrounding residential areas with food.",
+                  "category": "cultural",
+                  "coords": [
+                        60.114343,
+                        57.923614
+                  ]
+            },
+            {
+                  "name": "Tagilstroevskii raion",
+                  "text": "This industrial district is characterized by monumental Soviet factory complexes and historic worker architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        59.983536,
+                        57.918784
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "factory",
     name: { de: "Uralvagonzawod Maschinenbau", hu: "Uralvagonzavod gépgyár", ro: "Uzina Uralvagonzavod", en: "Uralvagonzavod Machine Building"},
@@ -590,7 +4775,52 @@ imageHint: "Industrial complex of Uralvagonzavod in Nizhny Tagil",
     },
     image: "/poi-images/russia-uralvagonzavod-economic-v2.webp",
 },  {
-    id: "russia-yamal-lng-sabetta-economic-v2",
+    id: "russia-yamal-lng-sabetta-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sviato-Troitskii khram",
+                  "text": "Diese christliche Kirche dient als spiritueller Zufluchtsort für Arbeiter und Anwohner in der Nähe der abgelegenen Yamal LNG-Anlage in Sabetta.",
+                  "category": "landmark",
+                  "coords": [
+                        72.127084,
+                        71.236159
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sviato-Troitskii khram",
+                  "text": "Ez a keresztény templom spirituális menedékként szolgál a szabettai távoli Yamal LNG létesítmény közelében lévő munkások és lakosok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        72.127084,
+                        71.236159
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sviato-Troitskii khram",
+                  "text": "Această biserică creștină servește drept refugiu spiritual pentru lucrătorii și rezidenții din apropierea facilității izolate Yamal LNG din Sabetta.",
+                  "category": "landmark",
+                  "coords": [
+                        72.127084,
+                        71.236159
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sviato-Troitskii khram",
+                  "text": "This Christian church serves as a spiritual refuge for workers and residents near the remote Yamal LNG facility in Sabetta.",
+                  "category": "landmark",
+                  "coords": [
+                        72.127084,
+                        71.236159
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "industry",
     name: { de: "Yamal LNG Anlage Sabetta", hu: "Jamal LNG üzem, Szabetta", ro: "Instalația Yamal LNG Sabetta", en: "Yamal LNG Plant Sabetta"},
@@ -682,7 +4912,844 @@ imageHint: "LNG processing facility and port at Sabetta Arctic",
     }
   },
   {
-    id: "russia-omsk-oil-refinery-economic-v2",
+    id: "russia-omsk-oil-refinery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Baken",
+                  "text": "Ein nautisches Leuchtfeuer am Ufer des Irtysch, das als markanter Orientierungspunkt in Omsk dient.",
+                  "category": "landmark",
+                  "coords": [
+                        73.22123,
+                        54.988296
+                  ]
+            },
+            {
+                  "name": "Nedostroennoe upravlenie mekhanizatsii No. 7",
+                  "text": "Diese industriellen Ruinen einer unvollendeten Mechanisierungsverwaltung sind ein Zeugnis sowjetischer Bauprojekte in Omsk.",
+                  "category": "historical",
+                  "coords": [
+                        73.199229,
+                        54.992875
+                  ]
+            },
+            {
+                  "name": "Pamiatnik uchastnikam VOV",
+                  "text": "Dieses Denkmal für die Teilnehmer des Zweiten Weltkriegs bietet einen weiten Blick über den Fluss Irtysch in Omsk.",
+                  "category": "natural",
+                  "coords": [
+                        73.150202,
+                        55.031358
+                  ]
+            },
+            {
+                  "name": "Strannyi krug",
+                  "text": "Ein ungewöhnlicher kreisförmiger Aussichtspunkt, der eine interessante Perspektive auf die Industrielandschaft von Omsk bietet.",
+                  "category": "natural",
+                  "coords": [
+                        73.236001,
+                        55.007502
+                  ]
+            },
+            {
+                  "name": "Nedostroennye ochistnye sooruzheniia",
+                  "text": "Die verlassenen Betonstrukturen unvollendeter Kläranlagen bilden eine markante industrielle Ruine am Stadtrand von Omsk.",
+                  "category": "historical",
+                  "coords": [
+                        73.296606,
+                        55.012395
+                  ]
+            },
+            {
+                  "name": "Zviozdnyi",
+                  "text": "Das Zviozdnyi-Theater in Omsk ist ein lokales Kulturzentrum, das Filmvorführungen und Gemeindeveranstaltungen anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        73.280804,
+                        55.042838
+                  ]
+            },
+            {
+                  "name": "Studiia L. Ermolaevoi",
+                  "text": "Dieses professionelle Drama-Theater in Omsk ist für seine engagierten Aufführungen im L.-Ermolaeva-Studio bekannt.",
+                  "category": "cultural",
+                  "coords": [
+                        73.28779,
+                        55.035245
+                  ]
+            },
+            {
+                  "name": "Attraktsiony",
+                  "text": "Dieser Jahrmarktbereich im Sowjetski-Park von Omsk bietet verschiedene Fahrgeschäfte und Unterhaltung für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        73.281301,
+                        55.025105
+                  ]
+            },
+            {
+                  "name": "Sovetskii pliazh",
+                  "text": "Der Sowjetski-Strand ist ein beliebter Sandstreifen am Irtysch, der im Sommer zum Schwimmen und Sonnenbaden einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        73.280596,
+                        55.022202
+                  ]
+            },
+            {
+                  "name": "Tsentr detskogo tvorchestva",
+                  "text": "Ein kreatives Zentrum in Omsk, das Workshops und Kunstunterricht für Kinder und Jugendliche anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        73.304266,
+                        55.04387
+                  ]
+            },
+            {
+                  "name": "Chasovnia",
+                  "text": "Eine kleine, friedliche orthodoxe Kapelle, die als Ort für kurzes Gebet und Besinnung in Omsk dient.",
+                  "category": "landmark",
+                  "coords": [
+                        73.198786,
+                        54.965358
+                  ]
+            },
+            {
+                  "name": "Tserkov' Zhatva",
+                  "text": "Die christliche Zhatva-Kirche in Omsk ist ein modernes religiöses Zentrum für die örtliche protestantische Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        73.281507,
+                        55.031709
+                  ]
+            },
+            {
+                  "name": "Khram sviatoi muchenitsy Tatiany",
+                  "text": "Diese der heiligen Märtyrerin Tatiana gewidmete orthodoxe Kirche befindet sich in der Nähe der Universität von Omsk.",
+                  "category": "landmark",
+                  "coords": [
+                        73.261446,
+                        55.026553
+                  ]
+            },
+            {
+                  "name": "Armianskaia apostol'skaia tserkov'",
+                  "text": "Diese armenisch-apostolische Kirche in Omsk zeichnet sich durch ihre traditionelle Architektur aus rosa Tuffstein aus.",
+                  "category": "landmark",
+                  "coords": [
+                        73.231172,
+                        54.982255
+                  ]
+            },
+            {
+                  "name": "Tserkov' patriarkha Tikhona",
+                  "text": "Eine orthodoxe Holzkirche in Omsk, die dem Patriarchen Tikhon gewidmet ist und eine traditionelle Bauweise aufweist.",
+                  "category": "landmark",
+                  "coords": [
+                        73.255846,
+                        54.978792
+                  ]
+            },
+            {
+                  "name": "Dom molitvy evangel'skikh khristian-baptistov",
+                  "text": "Ein schlichtes christliches Gebetshaus der Evangeliumschristen-Baptisten für Gottesdienste in Omsk.",
+                  "category": "landmark",
+                  "coords": [
+                        73.165913,
+                        54.951223
+                  ]
+            },
+            {
+                  "name": "Tserkov' Iverskoi ikony Bozhiei Materi",
+                  "text": "Diese orthodoxe Kirche in Omsk ist der Iverskaja-Ikone der Muttergottes gewidmet und ein Ort lokaler Verehrung.",
+                  "category": "landmark",
+                  "coords": [
+                        73.171937,
+                        54.95029
+                  ]
+            },
+            {
+                  "name": "Khram Spasa Nerukotvornogo",
+                  "text": "Eine orthodoxe Kirche in Omsk, die nach dem Christusbild „Nicht von Menschenhand geschaffen“ benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        73.298598,
+                        55.047941
+                  ]
+            },
+            {
+                  "name": "Produktoriia",
+                  "text": "Ein lokaler Lebensmittelmarkt in Omsk, der eine Auswahl an frischen Erzeugnissen und Alltagsgütern anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        73.170079,
+                        54.950257
+                  ]
+            },
+            {
+                  "name": "Druzhnyi",
+                  "text": "Ein kleinerer Nachbarschaftsmarkt in Omsk, bekannt für seine persönliche Atmosphäre und lokale Produkte.",
+                  "category": "cultural",
+                  "coords": [
+                        73.168614,
+                        55.009545
+                  ]
+            },
+            {
+                  "name": "Rynok \"Zabaikal'skii\"",
+                  "text": "Der Sabaikalski-Markt in Omsk ist ein geschäftiger Handelsort für Kleidung, Schuhe und Haushaltswaren.",
+                  "category": "cultural",
+                  "coords": [
+                        73.244237,
+                        55.027259
+                  ]
+            },
+            {
+                  "name": "Pervomaiskii rynok",
+                  "text": "Der Pervomaisky-Markt ist einer der größten Marktplätze in Omsk für frische Lebensmittel und Textilien.",
+                  "category": "cultural",
+                  "coords": [
+                        73.317005,
+                        55.047797
+                  ]
+            },
+            {
+                  "name": "Stroitel'nyi rynok \"Stroigorod\"",
+                  "text": "Ein spezialisierter Baumarkt in Omsk, der eine große Auswahl an Materialien für Renovierungen und Bauvorhaben bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        73.312878,
+                        55.035281
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Baken",
+                  "text": "Egy hajózási jelzőfény az Irtis partján, amely jellegzetes tájékozódási pontként szolgál Omszkban.",
+                  "category": "landmark",
+                  "coords": [
+                        73.22123,
+                        54.988296
+                  ]
+            },
+            {
+                  "name": "Nedostroennoe upravlenie mekhanizatsii No. 7",
+                  "text": "Egy befejezetlen gépesítési igazgatóság ipari romjai, amelyek a szovjet építkezési projektek emlékét őrzik Omszkban.",
+                  "category": "historical",
+                  "coords": [
+                        73.199229,
+                        54.992875
+                  ]
+            },
+            {
+                  "name": "Pamiatnik uchastnikam VOV",
+                  "text": "A második világháború résztvevőinek emlékműve, ahonnan tágas kilátás nyílik az Irtis folyóra Omszkban.",
+                  "category": "natural",
+                  "coords": [
+                        73.150202,
+                        55.031358
+                  ]
+            },
+            {
+                  "name": "Strannyi krug",
+                  "text": "Egy szokatlan, kör alakú kilátópont, amely érdekes perspektívát nyújt Omszk ipari tájára.",
+                  "category": "natural",
+                  "coords": [
+                        73.236001,
+                        55.007502
+                  ]
+            },
+            {
+                  "name": "Nedostroennye ochistnye sooruzheniia",
+                  "text": "Befejezetlen szennyvíztisztító telepek elhagyatott betonszerkezetei alkotnak jellegzetes ipari romot Omszk szélén.",
+                  "category": "historical",
+                  "coords": [
+                        73.296606,
+                        55.012395
+                  ]
+            },
+            {
+                  "name": "Zviozdnyi",
+                  "text": "Az omszki Zvjozdnij színház helyi kulturális központ, amely filmvetítéseknek és közösségi eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        73.280804,
+                        55.042838
+                  ]
+            },
+            {
+                  "name": "Studiia L. Ermolaevoi",
+                  "text": "Ez az omszki professzionális drámai színház az L. Jermolajeva stúdió elkötelezett előadásairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        73.28779,
+                        55.035245
+                  ]
+            },
+            {
+                  "name": "Attraktsiony",
+                  "text": "Az omszki Szovjetszkij parkban található vidámpark különféle játékokkal és szórakozási lehetőségekkel várja a családokat.",
+                  "category": "recreational",
+                  "coords": [
+                        73.281301,
+                        55.025105
+                  ]
+            },
+            {
+                  "name": "Sovetskii pliazh",
+                  "text": "A Szovjetszkij strand az Irtis kedvelt homokos partvonala, amely nyáron úszásra és napozásra hívogat.",
+                  "category": "recreational",
+                  "coords": [
+                        73.280596,
+                        55.022202
+                  ]
+            },
+            {
+                  "name": "Tsentr detskogo tvorchestva",
+                  "text": "Kreatív központ Omszkban, amely művészeti foglalkozásokat és workshopokat kínál gyermekek és fiatalok számára.",
+                  "category": "cultural",
+                  "coords": [
+                        73.304266,
+                        55.04387
+                  ]
+            },
+            {
+                  "name": "Chasovnia",
+                  "text": "Kicsiny, békés ortodox kápolna Omszkban, amely rövid imádságok és elcsendesedés helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        73.198786,
+                        54.965358
+                  ]
+            },
+            {
+                  "name": "Tserkov' Zhatva",
+                  "text": "Az omszki Zsatva keresztény templom a helyi protestáns közösség modern vallási központja.",
+                  "category": "landmark",
+                  "coords": [
+                        73.281507,
+                        55.031709
+                  ]
+            },
+            {
+                  "name": "Khram sviatoi muchenitsy Tatiany",
+                  "text": "Ez a Szent Tatiána vértanúnak szentelt ortodox templom az omszki egyetem közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        73.261446,
+                        55.026553
+                  ]
+            },
+            {
+                  "name": "Armianskaia apostol'skaia tserkov'",
+                  "text": "Ez az omszki örmény apostoli templom jellegzetes, rózsaszín tufából készült hagyományos építészetével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        73.231172,
+                        54.982255
+                  ]
+            },
+            {
+                  "name": "Tserkov' patriarkha Tikhona",
+                  "text": "Tyihon patriárkának szentelt ortodox fatemplom Omszkban, amely hagyományos építési stílust képvisel.",
+                  "category": "landmark",
+                  "coords": [
+                        73.255846,
+                        54.978792
+                  ]
+            },
+            {
+                  "name": "Dom molitvy evangel'skikh khristian-baptistov",
+                  "text": "Az evangéliumi keresztény-baptisták egyszerű omszki imaháza, amely istentiszteletek helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        73.165913,
+                        54.951223
+                  ]
+            },
+            {
+                  "name": "Tserkov' Iverskoi ikony Bozhiei Materi",
+                  "text": "Ez az omszki ortodox templom az Iveroni Szűzanya ikonjának van szentelve, és a helyi hitélet fontos helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        73.171937,
+                        54.95029
+                  ]
+            },
+            {
+                  "name": "Khram Spasa Nerukotvornogo",
+                  "text": "Omszki ortodox templom, amelyet a Krisztus „nem kézzel alkotott” arcáról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        73.298598,
+                        55.047941
+                  ]
+            },
+            {
+                  "name": "Produktoriia",
+                  "text": "Helyi élelmiszerpiac Omszkban, amely friss termékek és napi cikkek választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        73.170079,
+                        54.950257
+                  ]
+            },
+            {
+                  "name": "Druzhnyi",
+                  "text": "Kisebb szomszédsági piac Omszkban, amely barátságos légköréről és helyi termékeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        73.168614,
+                        55.009545
+                  ]
+            },
+            {
+                  "name": "Rynok \"Zabaikal'skii\"",
+                  "text": "Az omszki Zabajkalszkij piac ruházati cikkek, cipők és háztartási eszközök forgalmas kereskedőhelye.",
+                  "category": "cultural",
+                  "coords": [
+                        73.244237,
+                        55.027259
+                  ]
+            },
+            {
+                  "name": "Pervomaiskii rynok",
+                  "text": "A Pervomajszkij piac Omszk egyik legnagyobb piactere, ahol friss élelmiszerek és textíliák várják a vásárlókat.",
+                  "category": "cultural",
+                  "coords": [
+                        73.317005,
+                        55.047797
+                  ]
+            },
+            {
+                  "name": "Stroitel'nyi rynok \"Stroigorod\"",
+                  "text": "Speciális építőanyag-piac Omszkban, amely felújításhoz és építkezéshez kínál kellékek széles választékát.",
+                  "category": "cultural",
+                  "coords": [
+                        73.312878,
+                        55.035281
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Baken",
+                  "text": "Un far nautic pe malul Irtîșului, care servește ca punct de orientare distinctiv în Omsk.",
+                  "category": "landmark",
+                  "coords": [
+                        73.22123,
+                        54.988296
+                  ]
+            },
+            {
+                  "name": "Nedostroennoe upravlenie mekhanizatsii No. 7",
+                  "text": "Aceste ruine industriale ale unei administrații de mecanizare neterminate sunt o mărturie a proiectelor de construcție sovietice din Omsk.",
+                  "category": "historical",
+                  "coords": [
+                        73.199229,
+                        54.992875
+                  ]
+            },
+            {
+                  "name": "Pamiatnik uchastnikam VOV",
+                  "text": "Acest monument dedicat participanților la cel de-al Doilea Război Mondial oferă o panoramă largă asupra râului Irtîș în Omsk.",
+                  "category": "natural",
+                  "coords": [
+                        73.150202,
+                        55.031358
+                  ]
+            },
+            {
+                  "name": "Strannyi krug",
+                  "text": "Un punct de observare circular neobișnuit care oferă o perspectivă interesantă asupra peisajului industrial din Omsk.",
+                  "category": "natural",
+                  "coords": [
+                        73.236001,
+                        55.007502
+                  ]
+            },
+            {
+                  "name": "Nedostroennye ochistnye sooruzheniia",
+                  "text": "Structurile de beton abandonate ale unor instalații de epurare neterminate formează o ruină industrială distinctă la periferia Omsk-ului.",
+                  "category": "historical",
+                  "coords": [
+                        73.296606,
+                        55.012395
+                  ]
+            },
+            {
+                  "name": "Zviozdnyi",
+                  "text": "Teatrul Zviozdnîi din Omsk este un centru cultural local care oferă proiecții de filme și evenimente comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        73.280804,
+                        55.042838
+                  ]
+            },
+            {
+                  "name": "Studiia L. Ermolaevoi",
+                  "text": "Acest teatru dramatic profesionist din Omsk este cunoscut pentru spectacolele sale dedicate din cadrul studioului L. Ermolaeva.",
+                  "category": "cultural",
+                  "coords": [
+                        73.28779,
+                        55.035245
+                  ]
+            },
+            {
+                  "name": "Attraktsiony",
+                  "text": "Această zonă de divertisment din parcul Sovețki din Omsk oferă diverse atracții și distracție pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        73.281301,
+                        55.025105
+                  ]
+            },
+            {
+                  "name": "Sovetskii pliazh",
+                  "text": "Plaja Sovețki este o fâșie de nisip populară pe malul Irtîșului, ideală pentru înot și plajă în timpul verii.",
+                  "category": "recreational",
+                  "coords": [
+                        73.280596,
+                        55.022202
+                  ]
+            },
+            {
+                  "name": "Tsentr detskogo tvorchestva",
+                  "text": "Un centru creativ din Omsk care oferă ateliere și cursuri de artă pentru copii și tineri.",
+                  "category": "cultural",
+                  "coords": [
+                        73.304266,
+                        55.04387
+                  ]
+            },
+            {
+                  "name": "Chasovnia",
+                  "text": "O mică și liniștită capelă ortodoxă, care servește ca loc pentru rugăciune scurtă și reflecție în Omsk.",
+                  "category": "landmark",
+                  "coords": [
+                        73.198786,
+                        54.965358
+                  ]
+            },
+            {
+                  "name": "Tserkov' Zhatva",
+                  "text": "Biserica creștină Jătva din Omsk este un centru religios modern pentru comunitatea protestantă locală.",
+                  "category": "landmark",
+                  "coords": [
+                        73.281507,
+                        55.031709
+                  ]
+            },
+            {
+                  "name": "Khram sviatoi muchenitsy Tatiany",
+                  "text": "Această biserică ortodoxă dedicată Sfintei Mucenice Tatiana se află în apropierea universității din Omsk.",
+                  "category": "landmark",
+                  "coords": [
+                        73.261446,
+                        55.026553
+                  ]
+            },
+            {
+                  "name": "Armianskaia apostol'skaia tserkov'",
+                  "text": "Această biserică apostolică armeană din Omsk se remarcă prin arhitectura sa tradițională din tuf roz.",
+                  "category": "landmark",
+                  "coords": [
+                        73.231172,
+                        54.982255
+                  ]
+            },
+            {
+                  "name": "Tserkov' patriarkha Tikhona",
+                  "text": "O biserică ortodoxă din lemn în Omsk, dedicată Patriarhului Tihon, prezentând un stil de construcție tradițional.",
+                  "category": "landmark",
+                  "coords": [
+                        73.255846,
+                        54.978792
+                  ]
+            },
+            {
+                  "name": "Dom molitvy evangel'skikh khristian-baptistov",
+                  "text": "O casă de rugăciune simplă a creștinilor evanghelici baptiști pentru serviciile religioase din Omsk.",
+                  "category": "landmark",
+                  "coords": [
+                        73.165913,
+                        54.951223
+                  ]
+            },
+            {
+                  "name": "Tserkov' Iverskoi ikony Bozhiei Materi",
+                  "text": "Această biserică ortodoxă din Omsk este dedicată Icoanei Maicii Domnului din Iviron, fiind un loc de venerație locală.",
+                  "category": "landmark",
+                  "coords": [
+                        73.171937,
+                        54.95029
+                  ]
+            },
+            {
+                  "name": "Khram Spasa Nerukotvornogo",
+                  "text": "O biserică ortodoxă din Omsk, numită după icoana lui Hristos „nefăcută de mână omenească”.",
+                  "category": "landmark",
+                  "coords": [
+                        73.298598,
+                        55.047941
+                  ]
+            },
+            {
+                  "name": "Produktoriia",
+                  "text": "O piață alimentară locală din Omsk, care oferă o selecție de produse proaspete și bunuri de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        73.170079,
+                        54.950257
+                  ]
+            },
+            {
+                  "name": "Druzhnyi",
+                  "text": "O piață de cartier mai mică în Omsk, cunoscută pentru atmosfera sa personală și produsele locale.",
+                  "category": "cultural",
+                  "coords": [
+                        73.168614,
+                        55.009545
+                  ]
+            },
+            {
+                  "name": "Rynok \"Zabaikal'skii\"",
+                  "text": "Piața Zabaikalski din Omsk este un loc de comerț aglomerat pentru haine, încălțăminte și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        73.244237,
+                        55.027259
+                  ]
+            },
+            {
+                  "name": "Pervomaiskii rynok",
+                  "text": "Piața Pervomaiski este una dintre cele mai mari piețe din Omsk pentru alimente proaspete și textile.",
+                  "category": "cultural",
+                  "coords": [
+                        73.317005,
+                        55.047797
+                  ]
+            },
+            {
+                  "name": "Stroitel'nyi rynok \"Stroigorod\"",
+                  "text": "O piață specializată de construcții din Omsk, care oferă o gamă largă de materiale pentru renovări și proiecte de construcție.",
+                  "category": "cultural",
+                  "coords": [
+                        73.312878,
+                        55.035281
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Baken",
+                  "text": "A nautical beacon on the banks of the Irtysh river, serving as a distinct navigational landmark in Omsk.",
+                  "category": "landmark",
+                  "coords": [
+                        73.22123,
+                        54.988296
+                  ]
+            },
+            {
+                  "name": "Nedostroennoe upravlenie mekhanizatsii No. 7",
+                  "text": "These industrial ruins of an unfinished mechanization management building stand as a relic of Soviet construction in Omsk.",
+                  "category": "historical",
+                  "coords": [
+                        73.199229,
+                        54.992875
+                  ]
+            },
+            {
+                  "name": "Pamiatnik uchastnikam VOV",
+                  "text": "This monument to the participants of World War II offers a wide view over the Irtysh River in Omsk.",
+                  "category": "natural",
+                  "coords": [
+                        73.150202,
+                        55.031358
+                  ]
+            },
+            {
+                  "name": "Strannyi krug",
+                  "text": "An unusual circular viewpoint providing an interesting perspective on Omsk's industrial landscape.",
+                  "category": "natural",
+                  "coords": [
+                        73.236001,
+                        55.007502
+                  ]
+            },
+            {
+                  "name": "Nedostroennye ochistnye sooruzheniia",
+                  "text": "The abandoned concrete structures of unfinished treatment plants form a distinct industrial ruin on the outskirts of Omsk.",
+                  "category": "historical",
+                  "coords": [
+                        73.296606,
+                        55.012395
+                  ]
+            },
+            {
+                  "name": "Zviozdnyi",
+                  "text": "The Zviozdnyi theatre in Omsk is a local cultural hub hosting film screenings and community events.",
+                  "category": "cultural",
+                  "coords": [
+                        73.280804,
+                        55.042838
+                  ]
+            },
+            {
+                  "name": "Studiia L. Ermolaevoi",
+                  "text": "This professional drama theatre in Omsk is known for its dedicated performances at the L. Ermolaeva studio.",
+                  "category": "cultural",
+                  "coords": [
+                        73.28779,
+                        55.035245
+                  ]
+            },
+            {
+                  "name": "Attraktsiony",
+                  "text": "This amusement area within Omsk's Sovetsky Park offers various rides and entertainment for families.",
+                  "category": "recreational",
+                  "coords": [
+                        73.281301,
+                        55.025105
+                  ]
+            },
+            {
+                  "name": "Sovetskii pliazh",
+                  "text": "Sovetsky Beach is a popular sandy stretch on the Irtysh River, favored for summer swimming and sunbathing.",
+                  "category": "recreational",
+                  "coords": [
+                        73.280596,
+                        55.022202
+                  ]
+            },
+            {
+                  "name": "Tsentr detskogo tvorchestva",
+                  "text": "A creative hub in Omsk offering workshops and art classes for children and youth.",
+                  "category": "cultural",
+                  "coords": [
+                        73.304266,
+                        55.04387
+                  ]
+            },
+            {
+                  "name": "Chasovnia",
+                  "text": "A small, peaceful Orthodox chapel serving as a spot for brief prayer and reflection in Omsk.",
+                  "category": "landmark",
+                  "coords": [
+                        73.198786,
+                        54.965358
+                  ]
+            },
+            {
+                  "name": "Tserkov' Zhatva",
+                  "text": "The Zhatva Christian church in Omsk is a modern religious center for the local Protestant community.",
+                  "category": "landmark",
+                  "coords": [
+                        73.281507,
+                        55.031709
+                  ]
+            },
+            {
+                  "name": "Khram sviatoi muchenitsy Tatiany",
+                  "text": "This Orthodox church dedicated to the Holy Martyr Tatiana is located near the Omsk university.",
+                  "category": "landmark",
+                  "coords": [
+                        73.261446,
+                        55.026553
+                  ]
+            },
+            {
+                  "name": "Armianskaia apostol'skaia tserkov'",
+                  "text": "This Armenian Apostolic church in Omsk features traditional architecture built from pink tuff stone.",
+                  "category": "landmark",
+                  "coords": [
+                        73.231172,
+                        54.982255
+                  ]
+            },
+            {
+                  "name": "Tserkov' patriarkha Tikhona",
+                  "text": "An Orthodox wooden church in Omsk dedicated to Patriarch Tikhon, showcasing traditional construction.",
+                  "category": "landmark",
+                  "coords": [
+                        73.255846,
+                        54.978792
+                  ]
+            },
+            {
+                  "name": "Dom molitvy evangel'skikh khristian-baptistov",
+                  "text": "A modest Christian prayer house of the Evangelical Christian-Baptists for services in Omsk.",
+                  "category": "landmark",
+                  "coords": [
+                        73.165913,
+                        54.951223
+                  ]
+            },
+            {
+                  "name": "Tserkov' Iverskoi ikony Bozhiei Materi",
+                  "text": "This Orthodox church in Omsk is dedicated to the Iver Icon of the Mother of God and serves as a site of local devotion.",
+                  "category": "landmark",
+                  "coords": [
+                        73.171937,
+                        54.95029
+                  ]
+            },
+            {
+                  "name": "Khram Spasa Nerukotvornogo",
+                  "text": "An Orthodox church in Omsk named after the Savior Not Made by Hands icon.",
+                  "category": "landmark",
+                  "coords": [
+                        73.298598,
+                        55.047941
+                  ]
+            },
+            {
+                  "name": "Produktoriia",
+                  "text": "A local food market in Omsk offering a selection of fresh produce and everyday goods.",
+                  "category": "cultural",
+                  "coords": [
+                        73.170079,
+                        54.950257
+                  ]
+            },
+            {
+                  "name": "Druzhnyi",
+                  "text": "A smaller neighborhood market in Omsk known for its personal atmosphere and local products.",
+                  "category": "cultural",
+                  "coords": [
+                        73.168614,
+                        55.009545
+                  ]
+            },
+            {
+                  "name": "Rynok \"Zabaikal'skii\"",
+                  "text": "The Zabaikalsky market in Omsk is a busy trading spot for clothing, footwear, and household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        73.244237,
+                        55.027259
+                  ]
+            },
+            {
+                  "name": "Pervomaiskii rynok",
+                  "text": "The Pervomaisky market is one of the largest marketplaces in Omsk for fresh food and textiles.",
+                  "category": "cultural",
+                  "coords": [
+                        73.317005,
+                        55.047797
+                  ]
+            },
+            {
+                  "name": "Stroitel'nyi rynok \"Stroigorod\"",
+                  "text": "A specialized construction market in Omsk offering a vast selection of materials for renovations and building projects.",
+                  "category": "cultural",
+                  "coords": [
+                        73.312878,
+                        55.035281
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "factory",
     name: { de: "Raffinerie Omsk", hu: "Omszki olajfinomító", ro: "Rafinăria de petrol Omsk", en: "Omsk Oil Refinery"},
@@ -728,7 +5795,124 @@ imageHint: "Vast industrial oil refinery complex in Omsk",
     },
     image: "/poi-images/russia-omsk-oil-refinery-economic-v2.webp",
 },  {
-    id: "russia-bratsk-aluminum-smelter-economic-v2",
+    id: "russia-bratsk-aluminum-smelter-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzei istorii politicheskoi ssylki",
+                  "text": "Dieses Freilichtmuseum in Bratsk dokumentiert das Leben der politischen Gefangenen, die im 19. Jahrhundert nach Sibirien verbannt wurden.",
+                  "category": "museum",
+                  "coords": [
+                        101.605239,
+                        56.157411
+                  ]
+            },
+            {
+                  "name": "Prikhod Sviatykh Kirilla i Mefodiia",
+                  "text": "Eine moderne orthodoxe Steinkirche in Bratsk, die den Heiligen Kyrill und Method gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        101.594979,
+                        56.157749
+                  ]
+            },
+            {
+                  "name": "Tserkov' Evangel'skikh-Khristian Baptistov",
+                  "text": "Die Gebetshalle der Evangeliumschristen-Baptisten in Bratsk zeichnet sich durch ihre schlichte Architektur und die aktive Gemeinde aus.",
+                  "category": "landmark",
+                  "coords": [
+                        101.597,
+                        56.16145
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzei istorii politicheskoi ssylki",
+                  "text": "Ez a bratszki szabadtéri múzeum a 19. században Szibériába száműzött politikai foglyok életét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        101.605239,
+                        56.157411
+                  ]
+            },
+            {
+                  "name": "Prikhod Sviatykh Kirilla i Mefodiia",
+                  "text": "Modern ortodox kőtemplom Bratszkban, amelyet Szent Cirill és Metód tiszteletére szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        101.594979,
+                        56.157749
+                  ]
+            },
+            {
+                  "name": "Tserkov' Evangel'skikh-Khristian Baptistov",
+                  "text": "A bratszki evangéliumi keresztény baptisták imaháza letisztult építészetéről és aktív közösségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        101.597,
+                        56.16145
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzei istorii politicheskoi ssylki",
+                  "text": "Acest muzeu în aer liber din Bratsk documentează viața deținuților politici exilați în Siberia în secolul al XIX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        101.605239,
+                        56.157411
+                  ]
+            },
+            {
+                  "name": "Prikhod Sviatykh Kirilla i Mefodiia",
+                  "text": "O biserică ortodoxă modernă din piatră în Bratsk, sfințită în onoarea Sfinților Chiril și Metodiu.",
+                  "category": "landmark",
+                  "coords": [
+                        101.594979,
+                        56.157749
+                  ]
+            },
+            {
+                  "name": "Tserkov' Evangel'skikh-Khristian Baptistov",
+                  "text": "Casa de rugăciune a creștinilor evanghelici baptiști din Bratsk se remarcă prin arhitectura sa simplă și comunitatea activă.",
+                  "category": "landmark",
+                  "coords": [
+                        101.597,
+                        56.16145
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzei istorii politicheskoi ssylki",
+                  "text": "This open-air museum in Bratsk documents the lives of political prisoners exiled to Siberia in the 19th century.",
+                  "category": "museum",
+                  "coords": [
+                        101.605239,
+                        56.157411
+                  ]
+            },
+            {
+                  "name": "Prikhod Sviatykh Kirilla i Mefodiia",
+                  "text": "A modern Orthodox stone church in Bratsk dedicated to Saints Cyril and Methodius.",
+                  "category": "landmark",
+                  "coords": [
+                        101.594979,
+                        56.157749
+                  ]
+            },
+            {
+                  "name": "Tserkov' Evangel'skikh-Khristian Baptistov",
+                  "text": "The prayer house of Evangelical Christian Baptists in Bratsk is noted for its simple architecture and active congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        101.597,
+                        56.16145
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "factory",
     name: { de: "Aluminiumhütte Bratsk", hu: "Bratszki alumíniumkohó", ro: "Topitoria de aluminiu Bratsk", en: "Bratsk Aluminum Smelter"},
@@ -820,7 +6004,88 @@ imageHint: "Modern shipping terminals at Port of Ust-Luga",
     },
     image: "/poi-images/russia-ust-luga-port-economic-v2.webp",
 },  {
-    id: "russia-udachnaya-pipe-economic-v2",
+    id: "russia-udachnaya-pipe-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vid na kar'er",
+                  "text": "Ein Aussichtspunkt mit Blick auf den massiven Diamantentagebau Udatschnaja, eine der tiefsten Minen Jakutiens.",
+                  "category": "natural",
+                  "coords": [
+                        112.291493,
+                        66.436346
+                  ]
+            },
+            {
+                  "name": "Gorodskoi rynok",
+                  "text": "Ein lokaler Marktplatz in der abgelegenen Diamantenbergbaustadt Udatschny im Norden Russlands.",
+                  "category": "cultural",
+                  "coords": [
+                        112.250988,
+                        66.411428
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vid na kar'er",
+                  "text": "Kilátóhely, ahonnan rálátás nyílik a hatalmas Udacsnaja gyémántkürtőre, Jakutföld egyik legmélyebb bányájára.",
+                  "category": "natural",
+                  "coords": [
+                        112.291493,
+                        66.436346
+                  ]
+            },
+            {
+                  "name": "Gorodskoi rynok",
+                  "text": "Helyi piac az észak-oroszországi Udacsnyij távoli gyémántbányász városában.",
+                  "category": "cultural",
+                  "coords": [
+                        112.250988,
+                        66.411428
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vid na kar'er",
+                  "text": "Un punct de observație cu vedere spre masivul coș de diamant Udacinaia, una dintre cele mai adânci mine din Iacuția.",
+                  "category": "natural",
+                  "coords": [
+                        112.291493,
+                        66.436346
+                  ]
+            },
+            {
+                  "name": "Gorodskoi rynok",
+                  "text": "O piață locală situată în orașul minier izolat Udacinîi din nordul Rusiei.",
+                  "category": "cultural",
+                  "coords": [
+                        112.250988,
+                        66.411428
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vid na kar'er",
+                  "text": "A viewpoint overlooking the massive Udachnaya open-pit diamond pipe, one of the deepest mines in Yakutia.",
+                  "category": "natural",
+                  "coords": [
+                        112.291493,
+                        66.436346
+                  ]
+            },
+            {
+                  "name": "Gorodskoi rynok",
+                  "text": "A local marketplace located in the remote diamond-mining town of Udachny in northern Russia.",
+                  "category": "cultural",
+                  "coords": [
+                        112.250988,
+                        66.411428
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "mine",
     name: { de: "Diamantenmine Udatschnaja", hu: "Udacsnaja gyémántbánya", ro: "Mina de diamante Udacinaia", en: "Udachnaya Diamond Pipe"},
@@ -866,7 +6131,448 @@ imageHint: "Modern shipping terminals at Port of Ust-Luga",
     }
   },
   {
-    id: "russia-beloyarsk-nuclear-economic-v2",
+    id: "russia-beloyarsk-nuclear-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pamiatnik vliublionnym",
+                  "text": "Pamiatnik vliublionnym ist ein romantisches Denkmal in Belojarsk.",
+                  "category": "landmark",
+                  "coords": [
+                        61.314581,
+                        56.799365
+                  ]
+            },
+            {
+                  "name": "Del'fin",
+                  "text": "Del'fin ist eine lokale Attraktion und Sehenswürdigkeit in der Stadt Belojarsk.",
+                  "category": "landmark",
+                  "coords": [
+                        61.281135,
+                        56.860476
+                  ]
+            },
+            {
+                  "name": "Goluboi zaliv",
+                  "text": "Goluboi zaliv dient als Erholungsattraktion in der Region Belojarsk.",
+                  "category": "landmark",
+                  "coords": [
+                        61.302518,
+                        56.853473
+                  ]
+            },
+            {
+                  "name": "Atom",
+                  "text": "Atom ist eine Attraktion in Belojarsk, die wahrscheinlich das Erbe der Nuklearindustrie der Stadt widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        61.31589,
+                        56.814967
+                  ]
+            },
+            {
+                  "name": "Muzei mineralogii, kamnereznogo i iuvelirnogo iskusstva",
+                  "text": "Das Museum für Mineralogie, Steinschnitzerei und Juwelierkunst zeigt regionale Geologie und Handwerkskunst in Belojarsk.",
+                  "category": "museum",
+                  "coords": [
+                        61.320628,
+                        56.798917
+                  ]
+            },
+            {
+                  "name": "Kraevedcheskii muzei",
+                  "text": "Das Kraevedcheskii muzei ist ein Heimatmuseum, das das Erbe der Region Belojarsk bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        61.324034,
+                        56.807884
+                  ]
+            },
+            {
+                  "name": "Riv'era",
+                  "text": "Riv'era ist ein schöner örtlicher Strand, der Entspannung am Wasser in Belojarsk bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        61.3122,
+                        56.808119
+                  ]
+            },
+            {
+                  "name": "Teatr iunogo zritelia",
+                  "text": "Das Teatr iunogo zritelia ist ein Jugendtheater in Belojarsk, das Aufführungen für ein jüngeres Publikum widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        61.310892,
+                        56.800927
+                  ]
+            },
+            {
+                  "name": "Tserkov' Nikolaia Chudotvortsa",
+                  "text": "Die Tserkov' Nikolaia Chudotvortsa ist eine orthodoxe Kirche in Belojarsk, die dem Heiligen Nikolaus geweiht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        61.330794,
+                        56.799065
+                  ]
+            },
+            {
+                  "name": "Khram vo imia Sviatitelia Nikolaia Chudotvortsa",
+                  "text": "Khram vo imia Sviatitelia Nikolaia Chudotvortsa ist ein christliches Gotteshaus in der Gegend von Belojarsk.",
+                  "category": "landmark",
+                  "coords": [
+                        61.322688,
+                        56.751908
+                  ]
+            },
+            {
+                  "name": "Tserkov' Pokrova Presviatoi Bogoroditsy",
+                  "text": "Die Tserkov' Pokrova Presviatoi Bogoroditsy ist eine traditionelle orthodoxe Kirche in Belojarsk.",
+                  "category": "landmark",
+                  "coords": [
+                        61.319128,
+                        56.80809
+                  ]
+            },
+            {
+                  "name": "Apel'sin",
+                  "text": "Apel'sin ist ein lokaler Marktplatz, auf dem Einwohner und Besucher in Belojarsk einkaufen können.",
+                  "category": "cultural",
+                  "coords": [
+                        61.330019,
+                        56.810817
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pamiatnik vliublionnym",
+                  "text": "A Pamiatnik vliublionnym egy szerelmeseket ábrázoló emlékmű Belojarszk városában.",
+                  "category": "landmark",
+                  "coords": [
+                        61.314581,
+                        56.799365
+                  ]
+            },
+            {
+                  "name": "Del'fin",
+                  "text": "A Del'fin egy helyi látványosság és érdekes hely Belojarszk városában.",
+                  "category": "landmark",
+                  "coords": [
+                        61.281135,
+                        56.860476
+                  ]
+            },
+            {
+                  "name": "Goluboi zaliv",
+                  "text": "A Goluboi zaliv egy szabadidős látványosság a Belojarszk területen.",
+                  "category": "landmark",
+                  "coords": [
+                        61.302518,
+                        56.853473
+                  ]
+            },
+            {
+                  "name": "Atom",
+                  "text": "Az Atom egy látványosság Belojarszkban, amely valószínűleg a város nukleáris ipari örökségét tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        61.31589,
+                        56.814967
+                  ]
+            },
+            {
+                  "name": "Muzei mineralogii, kamnereznogo i iuvelirnogo iskusstva",
+                  "text": "Az Ásványtani, Kőfaragó- és Ékszerművészeti Múzeum a regionális geológiát és kézművességet mutatja be Belojarszkban.",
+                  "category": "museum",
+                  "coords": [
+                        61.320628,
+                        56.798917
+                  ]
+            },
+            {
+                  "name": "Kraevedcheskii muzei",
+                  "text": "A Kraevedcheskii muzei egy helytörténeti múzeum, amely a Belojarszk régió örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        61.324034,
+                        56.807884
+                  ]
+            },
+            {
+                  "name": "Riv'era",
+                  "text": "A Riv'era egy kellemes helyi strand, amely vízparti pihenést kínál Belojarszkban.",
+                  "category": "recreational",
+                  "coords": [
+                        61.3122,
+                        56.808119
+                  ]
+            },
+            {
+                  "name": "Teatr iunogo zritelia",
+                  "text": "A Teatr iunogo zritelia egy ifjúsági színház Belojarszkban, amely a fiatalabb közönségnek szóló előadásoknak szenteli magát.",
+                  "category": "cultural",
+                  "coords": [
+                        61.310892,
+                        56.800927
+                  ]
+            },
+            {
+                  "name": "Tserkov' Nikolaia Chudotvortsa",
+                  "text": "A Tserkov' Nikolaia Chudotvortsa egy Szent Miklósnak szentelt ortodox templom Belojarszkban.",
+                  "category": "landmark",
+                  "coords": [
+                        61.330794,
+                        56.799065
+                  ]
+            },
+            {
+                  "name": "Khram vo imia Sviatitelia Nikolaia Chudotvortsa",
+                  "text": "A Khram vo imia Sviatitelia Nikolaia Chudotvortsa egy keresztény istentiszteleti hely Belojarszk területén.",
+                  "category": "landmark",
+                  "coords": [
+                        61.322688,
+                        56.751908
+                  ]
+            },
+            {
+                  "name": "Tserkov' Pokrova Presviatoi Bogoroditsy",
+                  "text": "A Tserkov' Pokrova Presviatoi Bogoroditsy egy hagyományos ortodox templom Belojarszkban.",
+                  "category": "landmark",
+                  "coords": [
+                        61.319128,
+                        56.80809
+                  ]
+            },
+            {
+                  "name": "Apel'sin",
+                  "text": "Az Apel'sin egy helyi piac, ahol a lakosok és a látogatók vásárolhatnak Belojarszkban.",
+                  "category": "cultural",
+                  "coords": [
+                        61.330019,
+                        56.810817
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pamiatnik vliublionnym",
+                  "text": "Pamiatnik vliublionnym este un monument romantic situat în Beloiarsk.",
+                  "category": "landmark",
+                  "coords": [
+                        61.314581,
+                        56.799365
+                  ]
+            },
+            {
+                  "name": "Del'fin",
+                  "text": "Del'fin este o atracție locală și un punct de interes în orașul Beloiarsk.",
+                  "category": "landmark",
+                  "coords": [
+                        61.281135,
+                        56.860476
+                  ]
+            },
+            {
+                  "name": "Goluboi zaliv",
+                  "text": "Goluboi zaliv servește ca atracție de agrement în zona Beloiarsk.",
+                  "category": "landmark",
+                  "coords": [
+                        61.302518,
+                        56.853473
+                  ]
+            },
+            {
+                  "name": "Atom",
+                  "text": "Atom este o atracție în Beloiarsk, reflectând probabil moștenirea industriei nucleare a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        61.31589,
+                        56.814967
+                  ]
+            },
+            {
+                  "name": "Muzei mineralogii, kamnereznogo i iuvelirnogo iskusstva",
+                  "text": "Muzeul de Mineralogie, Sculptură în Piatră și Artă a Bijuteriilor prezintă geologia regională și măiestria meșteșugărească din Beloiarsk.",
+                  "category": "museum",
+                  "coords": [
+                        61.320628,
+                        56.798917
+                  ]
+            },
+            {
+                  "name": "Kraevedcheskii muzei",
+                  "text": "Kraevedcheskii muzei este un muzeu de istorie locală care păstrează moștenirea regiunii Beloiarsk.",
+                  "category": "museum",
+                  "coords": [
+                        61.324034,
+                        56.807884
+                  ]
+            },
+            {
+                  "name": "Riv'era",
+                  "text": "Riv'era este o plajă locală plăcută care oferă relaxare la malul apei în Beloiarsk.",
+                  "category": "recreational",
+                  "coords": [
+                        61.3122,
+                        56.808119
+                  ]
+            },
+            {
+                  "name": "Teatr iunogo zritelia",
+                  "text": "Teatr iunogo zritelia este un teatru de tineret din Beloiarsk dedicat spectacolelor pentru un public mai tânăr.",
+                  "category": "cultural",
+                  "coords": [
+                        61.310892,
+                        56.800927
+                  ]
+            },
+            {
+                  "name": "Tserkov' Nikolaia Chudotvortsa",
+                  "text": "Tserkov' Nikolaia Chudotvortsa este o biserică ortodoxă închinată Sfântului Nicolae din Beloiarsk.",
+                  "category": "landmark",
+                  "coords": [
+                        61.330794,
+                        56.799065
+                  ]
+            },
+            {
+                  "name": "Khram vo imia Sviatitelia Nikolaia Chudotvortsa",
+                  "text": "Khram vo imia Sviatitelia Nikolaia Chudotvortsa este un lăcaș de cult creștin în zona Beloiarsk.",
+                  "category": "landmark",
+                  "coords": [
+                        61.322688,
+                        56.751908
+                  ]
+            },
+            {
+                  "name": "Tserkov' Pokrova Presviatoi Bogoroditsy",
+                  "text": "Tserkov' Pokrova Presviatoi Bogoroditsy este o biserică ortodoxă tradițională situată în Beloiarsk.",
+                  "category": "landmark",
+                  "coords": [
+                        61.319128,
+                        56.80809
+                  ]
+            },
+            {
+                  "name": "Apel'sin",
+                  "text": "Apel'sin este o piață locală unde locuitorii și vizitatorii pot face cumpărături în Beloiarsk.",
+                  "category": "cultural",
+                  "coords": [
+                        61.330019,
+                        56.810817
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pamiatnik vliublionnym",
+                  "text": "Pamiatnik vliublionnym is a romantic monument attraction located in Beloyarsk.",
+                  "category": "landmark",
+                  "coords": [
+                        61.314581,
+                        56.799365
+                  ]
+            },
+            {
+                  "name": "Del'fin",
+                  "text": "Del'fin is a local attraction and point of interest in the town of Beloyarsk.",
+                  "category": "landmark",
+                  "coords": [
+                        61.281135,
+                        56.860476
+                  ]
+            },
+            {
+                  "name": "Goluboi zaliv",
+                  "text": "Goluboi zaliv serves as a recreational attraction in the Beloyarsk area.",
+                  "category": "landmark",
+                  "coords": [
+                        61.302518,
+                        56.853473
+                  ]
+            },
+            {
+                  "name": "Atom",
+                  "text": "Atom is an attraction in Beloyarsk, likely reflecting the town's nuclear industry heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        61.31589,
+                        56.814967
+                  ]
+            },
+            {
+                  "name": "Muzei mineralogii, kamnereznogo i iuvelirnogo iskusstva",
+                  "text": "The Museum of Mineralogy, Stone Carving and Jewelry Art showcases regional geology and craftsmanship in Beloyarsk.",
+                  "category": "museum",
+                  "coords": [
+                        61.320628,
+                        56.798917
+                  ]
+            },
+            {
+                  "name": "Kraevedcheskii muzei",
+                  "text": "The Kraevedcheskii muzei is a local history museum preserving the heritage of the Beloyarsk region.",
+                  "category": "museum",
+                  "coords": [
+                        61.324034,
+                        56.807884
+                  ]
+            },
+            {
+                  "name": "Riv'era",
+                  "text": "Riv'era is a pleasant local beach offering waterside relaxation in Beloyarsk.",
+                  "category": "recreational",
+                  "coords": [
+                        61.3122,
+                        56.808119
+                  ]
+            },
+            {
+                  "name": "Teatr iunogo zritelia",
+                  "text": "Teatr iunogo zritelia is a youth theater in Beloyarsk dedicated to performances for younger audiences.",
+                  "category": "cultural",
+                  "coords": [
+                        61.310892,
+                        56.800927
+                  ]
+            },
+            {
+                  "name": "Tserkov' Nikolaia Chudotvortsa",
+                  "text": "Tserkov' Nikolaia Chudotvortsa is an Orthodox church dedicated to St. Nicholas in Beloyarsk.",
+                  "category": "landmark",
+                  "coords": [
+                        61.330794,
+                        56.799065
+                  ]
+            },
+            {
+                  "name": "Khram vo imia Sviatitelia Nikolaia Chudotvortsa",
+                  "text": "Khram vo imia Sviatitelia Nikolaia Chudotvortsa is a Christian place of worship in the Beloyarsk area.",
+                  "category": "landmark",
+                  "coords": [
+                        61.322688,
+                        56.751908
+                  ]
+            },
+            {
+                  "name": "Tserkov' Pokrova Presviatoi Bogoroditsy",
+                  "text": "Tserkov' Pokrova Presviatoi Bogoroditsy is a traditional Orthodox church located in Beloyarsk.",
+                  "category": "landmark",
+                  "coords": [
+                        61.319128,
+                        56.80809
+                  ]
+            },
+            {
+                  "name": "Apel'sin",
+                  "text": "Apel'sin is a local marketplace where residents and visitors can shop in Beloyarsk.",
+                  "category": "cultural",
+                  "coords": [
+                        61.330019,
+                        56.810817
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "industry",
     name: { de: "Kernkraftwerk Belojarsk", hu: "Belojarszki atomerőmű", ro: "Centrala nucleară Beloiarsk", en: "Beloyarsk Nuclear Power Station"},
@@ -958,7 +6664,52 @@ imageHint: "Modern industrial warehouses and factories in Alabuga SEZ",
     },
     image: "/poi-images/russia-alabuga-sez-economic-v2.webp",
 },  {
-    id: "russia-innopolis-tech-economic-v2", "sights": {"de": [{"name": "Kommunalka", "text": "Kommunalka ist ein Kunstzentrum in der Innopolis Technologiestadt.", "category": "cultural", "coords": [48.744103, 55.748547]}], "hu": [{"name": "Kommunalka", "text": "A Kommunalka egy művészeti központ Innopolisz Technológiai Városban.", "category": "cultural", "coords": [48.744103, 55.748547]}], "ro": [{"name": "Kommunalka", "text": "Kommunalka este un centru de arte situat în Innopolis Technologiestadt.", "category": "cultural", "coords": [48.744103, 55.748547]}], "en": [{"name": "Kommunalka", "text": "Kommunalka is an arts centre situated in Innopolis Technologiestadt.", "category": "cultural", "coords": [48.744103, 55.748547]}]},
+    id: "russia-innopolis-tech-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kommunalka",
+                  "text": "Die Kommunalka ist eine kulturelle Nachbildung einer sowjetischen Gemeinschaftswohnung in Innopolis Tech.",
+                  "category": "cultural",
+                  "coords": [
+                        48.744103,
+                        55.748547
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kommunalka",
+                  "text": "A Kommunalka egy szovjet kommunális lakás kulturális rekonstrukciója az Innopolis Tech-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        48.744103,
+                        55.748547
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kommunalka",
+                  "text": "Kommunalka este o reconstituire culturală a unui apartament sovietic comun în Innopolis Tech.",
+                  "category": "cultural",
+                  "coords": [
+                        48.744103,
+                        55.748547
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kommunalka",
+                  "text": "Kommunalka is a cultural recreation of a Soviet communal apartment in Innopolis Tech.",
+                  "category": "cultural",
+                  "coords": [
+                        48.744103,
+                        55.748547
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "city",
     name: { de: "Innopolis Technologiestadt", hu: "Innopolis technológiai város", ro: "Orașul tehnologic Innopolis", en: "Innopolis Tech City"},
@@ -1004,7 +6755,1132 @@ imageHint: "Modern university building and tech campus in Innopolis",
     },
     image: "/poi-images/russia-innopolis-tech-economic-v2.webp",
 },  {
-    id: "russia-angarsk-petrochemical-economic-v2",
+    id: "russia-angarsk-petrochemical-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Beskhoznoe zdanie",
+                  "text": "Ein verlassenes Gebäude in Angarsk, das als eindringliche Erinnerung an den postindustriellen Wandel der Stadt dient.",
+                  "category": "historical",
+                  "coords": [
+                        103.867952,
+                        52.53953
+                  ]
+            },
+            {
+                  "name": "Park 10-letiia Angarska",
+                  "text": "Ein weitläufiger grüner Park, der anlässlich des ersten Jahrzehnts von Angarsk angelegt wurde und Freizeitwege sowie Gedenkmonumente bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        103.869556,
+                        52.539266
+                  ]
+            },
+            {
+                  "name": "Energetik DK",
+                  "text": "Ein klassischer Kulturpalast aus der Sowjetzeit, der für die Kraftwerksmitarbeiter der Stadt mit einer imposanten Säulenfassade errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        103.875778,
+                        52.548347
+                  ]
+            },
+            {
+                  "name": "Muzei Chasov",
+                  "text": "Russlands erstes Uhrenmuseum, das eine riesige Sammlung von europäischen Uhren aus dem 18. Jahrhundert bis hin zu modernen Zeitmessern zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        103.88972,
+                        52.542241
+                  ]
+            },
+            {
+                  "name": "Muzei mineralov",
+                  "text": "Ein spezialisiertes Museum, das Edelsteine und geologische Proben aus der Baikalregion zeigt, darunter der seltene fliederfarbene Charoit.",
+                  "category": "museum",
+                  "coords": [
+                        103.884736,
+                        52.542236
+                  ]
+            },
+            {
+                  "name": "Zoopark pri dvortse tvorchestva",
+                  "text": "Ein kleiner pädagogischer Zoo auf dem Gelände des Jugendkreativzentrums in Angarsk.",
+                  "category": "recreational",
+                  "coords": [
+                        103.880761,
+                        52.542297
+                  ]
+            },
+            {
+                  "name": "Surok",
+                  "text": "Ein lokales Wahrzeichen in Angarsk mit einem charmanten Denkmal für das Murmeltier, ein in der Region verbreitetes Tier.",
+                  "category": "natural",
+                  "coords": [
+                        103.878012,
+                        52.537891
+                  ]
+            },
+            {
+                  "name": "Klass! Park",
+                  "text": "Ein moderner Freizeitpark in Angarsk für Familien mit zeitgemäßen Spielplätzen und aktiven Erholungsbereichen.",
+                  "category": "recreational",
+                  "coords": [
+                        103.881736,
+                        52.522177
+                  ]
+            },
+            {
+                  "name": "Perspektiva",
+                  "text": "Eine moderne kulturelle Einrichtung in Angarsk, in der verschiedene Gemeinschaftsveranstaltungen und kreative Ausstellungen stattfinden.",
+                  "category": "landmark",
+                  "coords": [
+                        103.860595,
+                        52.518295
+                  ]
+            },
+            {
+                  "name": "Muzei Pobedy",
+                  "text": "Ein Gedenkmuseum, das dem sowjetischen Sieg im Zweiten Weltkrieg gewidmet ist und militärische Ausrüstung sowie lokale Kriegsgeschichte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        103.862014,
+                        52.512538
+                  ]
+            },
+            {
+                  "name": "Razvlekatel'nyi park <<Skai Tsentr>>",
+                  "text": "Ein Indoor-Trampolin- und Erlebniszentrum in Angarsk, das verschiedene aktive Unterhaltungsmöglichkeiten für Jugendliche bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        103.837376,
+                        52.503912
+                  ]
+            },
+            {
+                  "name": "Sovremennik",
+                  "text": "Ein beliebter sozialer und kultureller Veranstaltungsort in Angarsk, der häufig für Kinovorführungen und Gemeinschaftstreffen genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        103.835303,
+                        52.508684
+                  ]
+            },
+            {
+                  "name": "Krugozor",
+                  "text": "Ein familienfreundlicher Freizeitpark in Angarsk mit malerischen Wanderwegen und traditionellen Vergnügungsgeschäften.",
+                  "category": "recreational",
+                  "coords": [
+                        103.871791,
+                        52.542398
+                  ]
+            },
+            {
+                  "name": "Lapki",
+                  "text": "Ein freundlicher Streichelzoo in Angarsk, in dem Kinder mit kleinen Haus- und Nutztieren interagieren können.",
+                  "category": "recreational",
+                  "coords": [
+                        103.822549,
+                        52.530065
+                  ]
+            },
+            {
+                  "name": "Zal tsarstva Svidetelei Iegovy",
+                  "text": "Eine zeitgenössische Anbetungsstätte für die Gemeinschaft der Zeugen Jehovas in Angarsk.",
+                  "category": "landmark",
+                  "coords": [
+                        103.88758,
+                        52.561252
+                  ]
+            },
+            {
+                  "name": "Khram sviatitelia Nikolaia Chudotvortsa",
+                  "text": "Eine traditionelle russisch-orthodoxe Kirche in Angarsk, die dem Heiligen Nikolaus gewidmet ist und klassische Zwiebeltürme besitzt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.874763,
+                        52.555589
+                  ]
+            },
+            {
+                  "name": "Blagoslovenie",
+                  "text": "Eine moderne christliche Kirche in Angarsk, die der lokalen protestantischen Gemeinde mit regelmäßigen Gottesdiensten dient.",
+                  "category": "landmark",
+                  "coords": [
+                        103.884878,
+                        52.550274
+                  ]
+            },
+            {
+                  "name": "Prikhod Sviatogo Iosifa",
+                  "text": "Das spirituelle Zentrum für die katholische Gemeinde in Angarsk, das dem Heiligen Josef gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        103.893844,
+                        52.544082
+                  ]
+            },
+            {
+                  "name": "Tserkov' Baikal'skaia",
+                  "text": "Eine lokale christliche Kirche in Angarsk, die nach dem nahe gelegenen, weltberühmten Baikalsee benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        103.886222,
+                        52.518107
+                  ]
+            },
+            {
+                  "name": "Troitskii sobor",
+                  "text": "Eine markante orthodoxe Kathedrale in Angarsk, die für ihre hohen weißen Mauern und glänzenden goldenen Kuppeln bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        103.870932,
+                        52.52802
+                  ]
+            },
+            {
+                  "name": "Spasskaia chasovnia",
+                  "text": "Eine kleine und friedliche orthodoxe Kapelle in Angarsk, die dem Erlöser gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        103.864021,
+                        52.512138
+                  ]
+            },
+            {
+                  "name": "Tserkov' Blagoslovenie",
+                  "text": "Eine gemeinschaftsorientierte christliche Kirche in Angarsk, die spirituelle Führung und soziale Unterstützung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.869606,
+                        52.50362
+                  ]
+            },
+            {
+                  "name": "Khram Uspeniia Bozhei Materi",
+                  "text": "Eine orthodoxe Kirche in Angarsk mit traditionellen blauen Kuppeln, die der Entschlafung der Jungfrau Maria gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        103.840019,
+                        52.484673
+                  ]
+            },
+            {
+                  "name": "Tserkov' Serafima Sarovskogo",
+                  "text": "Eine hölzerne orthodoxe Kirche in Angarsk, die im traditionellen Stil erbaut und dem Heiligen Seraphim von Sarow gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        103.828355,
+                        52.512241
+                  ]
+            },
+            {
+                  "name": "TTs Torgservis",
+                  "text": "Ein großer Indoor-Marktplatz in Angarsk mit einer riesigen Auswahl an Haushaltswaren und lokalen Lebensmitteln.",
+                  "category": "cultural",
+                  "coords": [
+                        103.910734,
+                        52.545468
+                  ]
+            },
+            {
+                  "name": "Zal 1",
+                  "text": "Diese Markthalle in Angarsk bietet eine Vielzahl lokaler Produkte und Waren in einem funktionalen sowjetischen Gebäude.",
+                  "category": "cultural",
+                  "coords": [
+                        103.90964,
+                        52.545735
+                  ]
+            },
+            {
+                  "name": "Zal 5",
+                  "text": "Dieser lokale Handelsplatz in Angarsk ist bekannt für seine Auswahl an Kleidung und regionalen Spezialitäten.",
+                  "category": "cultural",
+                  "coords": [
+                        103.912365,
+                        52.54529
+                  ]
+            },
+            {
+                  "name": "Rynochek u Angary",
+                  "text": "Ein kleiner Marktplatz in der Nähe des Angara-Ufers, der frischen Fisch und regionale Erzeugnisse anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        103.868513,
+                        52.537045
+                  ]
+            },
+            {
+                  "name": "Novyi",
+                  "text": "Ein moderner Marktplatz in Angarsk, der für seine organisierte Struktur und große Auswahl an Kurzwaren bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        103.841695,
+                        52.515983
+                  ]
+            },
+            {
+                  "name": "Skazka",
+                  "text": "Dieser nach einem Märchen benannte Markt in Angarsk ist für seine farbenfrohen Stände und Spielwarenabteilungen bekannt.",
+                  "category": "cultural",
+                  "coords": [
+                        103.863158,
+                        52.506301
+                  ]
+            },
+            {
+                  "name": "TD Iunost'",
+                  "text": "Ein zentrales Handelshaus in Angarsk, das vor allem bei der Jugend für Mode und trendige Accessoires beliebt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        103.837801,
+                        52.507262
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Beskhoznoe zdanie",
+                  "text": "Elhagyatott épület Angarszkban, amely a város posztindusztriális átalakulásának éles emlékeztetője.",
+                  "category": "historical",
+                  "coords": [
+                        103.867952,
+                        52.53953
+                  ]
+            },
+            {
+                  "name": "Park 10-letiia Angarska",
+                  "text": "Angarszk első évtizedének tiszteletére alapított tágas zöldpark pihenőutakkal és emlékművekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        103.869556,
+                        52.539266
+                  ]
+            },
+            {
+                  "name": "Energetik DK",
+                  "text": "Klasszikus szovjet korszakbeli kultúrpalota, amelyet a város erőművi dolgozói számára építettek impozáns oszlopos homlokzattal.",
+                  "category": "landmark",
+                  "coords": [
+                        103.875778,
+                        52.548347
+                  ]
+            },
+            {
+                  "name": "Muzei Chasov",
+                  "text": "Oroszország első óramúzeuma, amely hatalmas gyűjteményt mutat be a 18. századi európai óráktól a modern űrkorszaki időmérőkig.",
+                  "category": "museum",
+                  "coords": [
+                        103.88972,
+                        52.542241
+                  ]
+            },
+            {
+                  "name": "Muzei mineralov",
+                  "text": "Speciális múzeum, amely a Bajkál-vidék drágaköveit és geológiai példányait mutatja be, beleértve a ritka lila csaroitot.",
+                  "category": "museum",
+                  "coords": [
+                        103.884736,
+                        52.542236
+                  ]
+            },
+            {
+                  "name": "Zoopark pri dvortse tvorchestva",
+                  "text": "Kis oktató állatkert az angarszki ifjúsági alkotóközpont területén.",
+                  "category": "recreational",
+                  "coords": [
+                        103.880761,
+                        52.542297
+                  ]
+            },
+            {
+                  "name": "Surok",
+                  "text": "Helyi nevezetesség Angarszkban, egy bűbájos emlékművel, amelyet a régióban gyakori mormotának szenteltek.",
+                  "category": "natural",
+                  "coords": [
+                        103.878012,
+                        52.537891
+                  ]
+            },
+            {
+                  "name": "Klass! Park",
+                  "text": "Modern szabadidőpark Angarszkban családok számára, kortárs játszóterekkel és aktív pihenőhelyekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        103.881736,
+                        52.522177
+                  ]
+            },
+            {
+                  "name": "Perspektiva",
+                  "text": "Modern kulturális létesítmény Angarszkban, amely különféle közösségi eseményeknek és kreatív kiállításoknak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        103.860595,
+                        52.518295
+                  ]
+            },
+            {
+                  "name": "Muzei Pobedy",
+                  "text": "A második világháborús szovjet győzelemnek szentelt emlékúzeum, amely katonai felszereléseket és a helyi hadtörténetet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        103.862014,
+                        52.512538
+                  ]
+            },
+            {
+                  "name": "Razvlekatel'nyi park <<Skai Tsentr>>",
+                  "text": "Fedett trambulin- és kalandközpont Angarszkban, amely különféle aktív szórakozási lehetőségeket kínál a fiataloknak.",
+                  "category": "recreational",
+                  "coords": [
+                        103.837376,
+                        52.503912
+                  ]
+            },
+            {
+                  "name": "Sovremennik",
+                  "text": "Népszerű közösségi és kulturális helyszín Angarszkban, amelyet gyakran használnak mozielőadásokra és közösségi összejövetelekre.",
+                  "category": "landmark",
+                  "coords": [
+                        103.835303,
+                        52.508684
+                  ]
+            },
+            {
+                  "name": "Krugozor",
+                  "text": "Családbarát szabadidőpark Angarszkban, amely festői sétákat és hagyományos vidámparki játékokat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        103.871791,
+                        52.542398
+                  ]
+            },
+            {
+                  "name": "Lapki",
+                  "text": "Barátságos állatsimogató Angarszkban, ahol a gyerekek kis házi- és haszonállatokkal ismerkedhetnek meg.",
+                  "category": "recreational",
+                  "coords": [
+                        103.822549,
+                        52.530065
+                  ]
+            },
+            {
+                  "name": "Zal tsarstva Svidetelei Iegovy",
+                  "text": "Jehova Tanúi közösségének kortárs imaháza Angarszkban.",
+                  "category": "landmark",
+                  "coords": [
+                        103.88758,
+                        52.561252
+                  ]
+            },
+            {
+                  "name": "Khram sviatitelia Nikolaia Chudotvortsa",
+                  "text": "Hagyományos orosz ortodox templom Angarszkban, amelyet Szent Miklósnak szenteltek, klasszikus hagymakupolákkal.",
+                  "category": "landmark",
+                  "coords": [
+                        103.874763,
+                        52.555589
+                  ]
+            },
+            {
+                  "name": "Blagoslovenie",
+                  "text": "Modern keresztény templom Angarszkban, amely rendszeres istentiszteletekkel szolgálja a helyi protestáns közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        103.884878,
+                        52.550274
+                  ]
+            },
+            {
+                  "name": "Prikhod Sviatogo Iosifa",
+                  "text": "Az angarszki katolikus közösség lelki központja, amelyet Szent Józsefnek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        103.893844,
+                        52.544082
+                  ]
+            },
+            {
+                  "name": "Tserkov' Baikal'skaia",
+                  "text": "Helyi keresztény templom Angarszkban, amely a közeli, világhírű Bajkál-tóról kapta a nevét.",
+                  "category": "landmark",
+                  "coords": [
+                        103.886222,
+                        52.518107
+                  ]
+            },
+            {
+                  "name": "Troitskii sobor",
+                  "text": "Angarszk egyik prominens ortodox székesegyháza, amely magas fehér falairól és csillogó aranykupoláiról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        103.870932,
+                        52.52802
+                  ]
+            },
+            {
+                  "name": "Spasskaia chasovnia",
+                  "text": "Kicsi és békés ortodox kápolna Angarszkban, amelyet a Megváltónak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        103.864021,
+                        52.512138
+                  ]
+            },
+            {
+                  "name": "Tserkov' Blagoslovenie",
+                  "text": "Közösségközpontú keresztény templom Angarszkban, amely lelki vezetést és szociális támogatást nyújt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.869606,
+                        52.50362
+                  ]
+            },
+            {
+                  "name": "Khram Uspeniia Bozhei Materi",
+                  "text": "Ortodox templom Angarszkban hagyományos kék kupolákkal, a Szűz Mária elszenderedésének szentelve.",
+                  "category": "landmark",
+                  "coords": [
+                        103.840019,
+                        52.484673
+                  ]
+            },
+            {
+                  "name": "Tserkov' Serafima Sarovskogo",
+                  "text": "Hagyományos stílusban épült ortodox fatemplom Angarszkban, Szarovi Szent Szerafimnak szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        103.828355,
+                        52.512241
+                  ]
+            },
+            {
+                  "name": "TTs Torgservis",
+                  "text": "Nagy fedett piactér Angarszkban, amely háztartási cikkek és helyi élelmiszerek hatalmas választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        103.910734,
+                        52.545468
+                  ]
+            },
+            {
+                  "name": "Zal 1",
+                  "text": "Ez az angarszki vásárcsarnok helyi termékek és áruk széles választékát kínálja egy funkcionális szovjet épületben.",
+                  "category": "cultural",
+                  "coords": [
+                        103.90964,
+                        52.545735
+                  ]
+            },
+            {
+                  "name": "Zal 5",
+                  "text": "Ez a helyi angarszki kereskedelmi központ ruházati cikkeiről és regionális különlegességeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        103.912365,
+                        52.54529
+                  ]
+            },
+            {
+                  "name": "Rynochek u Angary",
+                  "text": "Egy kis piac az Angara-part közelében, ahol friss halat és regionális terményeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        103.868513,
+                        52.537045
+                  ]
+            },
+            {
+                  "name": "Novyi",
+                  "text": "Modern angarszki piactér, amely szervezett felépítéséről és széles rövidáru-választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        103.841695,
+                        52.515983
+                  ]
+            },
+            {
+                  "name": "Skazka",
+                  "text": "Ez a meséről elnevezett angarszki piac színes standjairól és játékosztályairól nevezetes.",
+                  "category": "cultural",
+                  "coords": [
+                        103.863158,
+                        52.506301
+                  ]
+            },
+            {
+                  "name": "TD Iunost'",
+                  "text": "Központi kereskedőház Angarszkban, amely a fiatalok körében népszerű divatcikkeiről és trendi kiegészítőiről.",
+                  "category": "cultural",
+                  "coords": [
+                        103.837801,
+                        52.507262
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Beskhoznoe zdanie",
+                  "text": "O clădire părăsită din Angarsk care servește ca o reamintire izbitoare a transformării post-industriale a orașului.",
+                  "category": "historical",
+                  "coords": [
+                        103.867952,
+                        52.53953
+                  ]
+            },
+            {
+                  "name": "Park 10-letiia Angarska",
+                  "text": "Un parc verde spațios înființat pentru a marca prima decadă a orașului Angarsk, oferind alei de agrement și monumente comemorative.",
+                  "category": "recreational",
+                  "coords": [
+                        103.869556,
+                        52.539266
+                  ]
+            },
+            {
+                  "name": "Energetik DK",
+                  "text": "Un palat al culturii clasic din epoca sovietică, construit pentru lucrătorii centralei electrice din oraș, cu o fațadă grandioasă cu coloane.",
+                  "category": "landmark",
+                  "coords": [
+                        103.875778,
+                        52.548347
+                  ]
+            },
+            {
+                  "name": "Muzei Chasov",
+                  "text": "Primul muzeu al ceasurilor din Rusia, care expune o colecție imensă, de la ceasuri europene din secolul al XVIII-lea până la cronometre moderne.",
+                  "category": "museum",
+                  "coords": [
+                        103.88972,
+                        52.542241
+                  ]
+            },
+            {
+                  "name": "Muzei mineralov",
+                  "text": "Un muzeu specializat care prezintă nestate și specimene geologice din regiunea Baikal, inclusiv rariul caroite liliachiu.",
+                  "category": "museum",
+                  "coords": [
+                        103.884736,
+                        52.542236
+                  ]
+            },
+            {
+                  "name": "Zoopark pri dvortse tvorchestva",
+                  "text": "O mică grădină zoologică educațională situată în incinta centrului de creație pentru tineret din Angarsk.",
+                  "category": "recreational",
+                  "coords": [
+                        103.880761,
+                        52.542297
+                  ]
+            },
+            {
+                  "name": "Surok",
+                  "text": "Un punct de reper local din Angarsk, cu un monument fermecător dedicat marmotei, un animal comun în regiune.",
+                  "category": "natural",
+                  "coords": [
+                        103.878012,
+                        52.537891
+                  ]
+            },
+            {
+                  "name": "Klass! Park",
+                  "text": "Un parc recreativ modern în Angarsk conceput pentru familii, cu locuri de joacă contemporane și zone de agrement activ.",
+                  "category": "recreational",
+                  "coords": [
+                        103.881736,
+                        52.522177
+                  ]
+            },
+            {
+                  "name": "Perspektiva",
+                  "text": "O facilitate culturală modernă din Angarsk care găzduiește diverse evenimente comunitare și expoziții creative.",
+                  "category": "landmark",
+                  "coords": [
+                        103.860595,
+                        52.518295
+                  ]
+            },
+            {
+                  "name": "Muzei Pobedy",
+                  "text": "Un muzeu memorial dedicat victoriei sovietice în cel de-al Doilea Război Mondial, expunând echipamente militare și istoria locală de război.",
+                  "category": "museum",
+                  "coords": [
+                        103.862014,
+                        52.512538
+                  ]
+            },
+            {
+                  "name": "Razvlekatel'nyi park <<Skai Tsentr>>",
+                  "text": "Un centru de trambuline și aventură de interior din Angarsk, care oferă diverse opțiuni de divertisment activ pentru tineri.",
+                  "category": "recreational",
+                  "coords": [
+                        103.837376,
+                        52.503912
+                  ]
+            },
+            {
+                  "name": "Sovremennik",
+                  "text": "Un loc social și cultural popular în Angarsk, folosit adesea pentru proiecții de cinema și întâlniri comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        103.835303,
+                        52.508684
+                  ]
+            },
+            {
+                  "name": "Krugozor",
+                  "text": "Un parc de agrement pentru familii din Angarsk, care oferă plimbări pitorești și atracții tradiționale de divertisment.",
+                  "category": "recreational",
+                  "coords": [
+                        103.871791,
+                        52.542398
+                  ]
+            },
+            {
+                  "name": "Lapki",
+                  "text": "O grădină zoologică prietenoasă din Angarsk, unde copiii pot interacționa cu animale domestice mici și de fermă.",
+                  "category": "recreational",
+                  "coords": [
+                        103.822549,
+                        52.530065
+                  ]
+            },
+            {
+                  "name": "Zal tsarstva Svidetelei Iegovy",
+                  "text": "Un lăcaș de cult contemporan pentru comunitatea Martorilor lui Iehova situat în Angarsk.",
+                  "category": "landmark",
+                  "coords": [
+                        103.88758,
+                        52.561252
+                  ]
+            },
+            {
+                  "name": "Khram sviatitelia Nikolaia Chudotvortsa",
+                  "text": "O biserică ortodoxă rusă tradițională din Angarsk dedicată Sfântului Nicolae, cu cupole clasice în formă de ceapă.",
+                  "category": "landmark",
+                  "coords": [
+                        103.874763,
+                        52.555589
+                  ]
+            },
+            {
+                  "name": "Blagoslovenie",
+                  "text": "O biserică creștină modernă din Angarsk care deservește comunitatea protestantă locală cu servicii regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        103.884878,
+                        52.550274
+                  ]
+            },
+            {
+                  "name": "Prikhod Sviatogo Iosifa",
+                  "text": "Centrul spiritual al comunității catolice din Angarsk, dedicat Sfântului Iosif.",
+                  "category": "landmark",
+                  "coords": [
+                        103.893844,
+                        52.544082
+                  ]
+            },
+            {
+                  "name": "Tserkov' Baikal'skaia",
+                  "text": "O biserică creștină locală din Angarsk, numită după faimosul lac Baikal din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        103.886222,
+                        52.518107
+                  ]
+            },
+            {
+                  "name": "Troitskii sobor",
+                  "text": "O catedrală ortodoxă proeminentă din Angarsk, cunoscută pentru zidurile sale albe înalte și cupolele aurii strălucitoare.",
+                  "category": "landmark",
+                  "coords": [
+                        103.870932,
+                        52.52802
+                  ]
+            },
+            {
+                  "name": "Spasskaia chasovnia",
+                  "text": "O capelă ortodoxă mică și liniștită din Angarsk dedicată Mântuitorului.",
+                  "category": "landmark",
+                  "coords": [
+                        103.864021,
+                        52.512138
+                  ]
+            },
+            {
+                  "name": "Tserkov' Blagoslovenie",
+                  "text": "O biserică creștină orientată spre comunitate din Angarsk, care oferă îndrumare spirituală și sprijin social.",
+                  "category": "landmark",
+                  "coords": [
+                        103.869606,
+                        52.50362
+                  ]
+            },
+            {
+                  "name": "Khram Uspeniia Bozhei Materi",
+                  "text": "O biserică ortodoxă din Angarsk cu cupole albastre tradiționale, dedicată Adormirii Maicii Domnului.",
+                  "category": "landmark",
+                  "coords": [
+                        103.840019,
+                        52.484673
+                  ]
+            },
+            {
+                  "name": "Tserkov' Serafima Sarovskogo",
+                  "text": "O biserică ortodoxă din lemn din Angarsk, construită în stil tradițional și dedicată Sfântului Serafim de Sarov.",
+                  "category": "religious",
+                  "coords": [
+                        103.828355,
+                        52.512241
+                  ]
+            },
+            {
+                  "name": "TTs Torgservis",
+                  "text": "O piață interioară mare din Angarsk, care oferă o gamă vastă de articole de uz casnic și produse alimentare locale.",
+                  "category": "cultural",
+                  "coords": [
+                        103.910734,
+                        52.545468
+                  ]
+            },
+            {
+                  "name": "Zal 1",
+                  "text": "Această hală comercială din Angarsk oferă o varietate de produse locale și mărfuri într-o clădire sovietică funcțională.",
+                  "category": "cultural",
+                  "coords": [
+                        103.90964,
+                        52.545735
+                  ]
+            },
+            {
+                  "name": "Zal 5",
+                  "text": "Acest punct comercial local din Angarsk este cunoscut pentru selecția sa de îmbrăcăminte și specialități regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        103.912365,
+                        52.54529
+                  ]
+            },
+            {
+                  "name": "Rynochek u Angary",
+                  "text": "O mică piață lângă malul râului Angara, care oferă pește proaspăt și produse regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        103.868513,
+                        52.537045
+                  ]
+            },
+            {
+                  "name": "Novyi",
+                  "text": "O piață modernă în Angarsk, cunoscută pentru structura sa organizată și gama largă de galanterie.",
+                  "category": "cultural",
+                  "coords": [
+                        103.841695,
+                        52.515983
+                  ]
+            },
+            {
+                  "name": "Skazka",
+                  "text": "Această piață din Angarsk, numită după un basm, este cunoscută pentru tarabele sale colorate și secțiunile de jucării.",
+                  "category": "cultural",
+                  "coords": [
+                        103.863158,
+                        52.506301
+                  ]
+            },
+            {
+                  "name": "TD Iunost'",
+                  "text": "O casă comercială centrală din Angarsk, populară în rândul tinerilor pentru modă și accesorii moderne.",
+                  "category": "cultural",
+                  "coords": [
+                        103.837801,
+                        52.507262
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Beskhoznoe zdanie",
+                  "text": "A derelict building in Angarsk that stands as a stark reminder of the city's post-industrial transformation.",
+                  "category": "historical",
+                  "coords": [
+                        103.867952,
+                        52.53953
+                  ]
+            },
+            {
+                  "name": "Park 10-letiia Angarska",
+                  "text": "A spacious green park established to mark Angarsk's first decade, featuring leisure paths and commemorative monuments.",
+                  "category": "recreational",
+                  "coords": [
+                        103.869556,
+                        52.539266
+                  ]
+            },
+            {
+                  "name": "Energetik DK",
+                  "text": "A classic Soviet-era Palace of Culture built for the city's power plant workers with a grand colonnaded facade.",
+                  "category": "landmark",
+                  "coords": [
+                        103.875778,
+                        52.548347
+                  ]
+            },
+            {
+                  "name": "Muzei Chasov",
+                  "text": "Russia's first clock museum, displaying an immense collection from 18th-century European clocks to modern space-age timers.",
+                  "category": "museum",
+                  "coords": [
+                        103.88972,
+                        52.542241
+                  ]
+            },
+            {
+                  "name": "Muzei mineralov",
+                  "text": "A specialized museum showcasing gems and geological specimens from the Baikal region, including rare lilac charoite.",
+                  "category": "museum",
+                  "coords": [
+                        103.884736,
+                        52.542236
+                  ]
+            },
+            {
+                  "name": "Zoopark pri dvortse tvorchestva",
+                  "text": "A small educational zoo located within the grounds of the youth creative center in Angarsk.",
+                  "category": "recreational",
+                  "coords": [
+                        103.880761,
+                        52.542297
+                  ]
+            },
+            {
+                  "name": "Surok",
+                  "text": "A local landmark in Angarsk featuring a charming monument dedicated to the marmot, a common animal in the region.",
+                  "category": "natural",
+                  "coords": [
+                        103.878012,
+                        52.537891
+                  ]
+            },
+            {
+                  "name": "Klass! Park",
+                  "text": "A modern recreational park in Angarsk designed for families, featuring contemporary playgrounds and active leisure areas.",
+                  "category": "recreational",
+                  "coords": [
+                        103.881736,
+                        52.522177
+                  ]
+            },
+            {
+                  "name": "Perspektiva",
+                  "text": "A modern cultural facility in Angarsk that hosts various community events and creative exhibitions.",
+                  "category": "landmark",
+                  "coords": [
+                        103.860595,
+                        52.518295
+                  ]
+            },
+            {
+                  "name": "Muzei Pobedy",
+                  "text": "A memorial museum dedicated to the Soviet victory in WWII, showcasing military equipment and local war history.",
+                  "category": "museum",
+                  "coords": [
+                        103.862014,
+                        52.512538
+                  ]
+            },
+            {
+                  "name": "Razvlekatel'nyi park <<Skai Tsentr>>",
+                  "text": "An indoor trampoline and adventure center in Angarsk offering various active entertainment options for youth.",
+                  "category": "recreational",
+                  "coords": [
+                        103.837376,
+                        52.503912
+                  ]
+            },
+            {
+                  "name": "Sovremennik",
+                  "text": "A popular social and cultural venue in Angarsk, often used for cinema screenings and community gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        103.835303,
+                        52.508684
+                  ]
+            },
+            {
+                  "name": "Krugozor",
+                  "text": "A family-friendly leisure park in Angarsk offering scenic walks and traditional amusement rides.",
+                  "category": "recreational",
+                  "coords": [
+                        103.871791,
+                        52.542398
+                  ]
+            },
+            {
+                  "name": "Lapki",
+                  "text": "A friendly petting zoo in Angarsk where children can interact with small domestic and farm animals.",
+                  "category": "recreational",
+                  "coords": [
+                        103.822549,
+                        52.530065
+                  ]
+            },
+            {
+                  "name": "Zal tsarstva Svidetelei Iegovy",
+                  "text": "A contemporary place of worship for the Jehovah's Witnesses community located in Angarsk.",
+                  "category": "landmark",
+                  "coords": [
+                        103.88758,
+                        52.561252
+                  ]
+            },
+            {
+                  "name": "Khram sviatitelia Nikolaia Chudotvortsa",
+                  "text": "A traditional Russian Orthodox church in Angarsk dedicated to Saint Nicholas, featuring classic onion domes.",
+                  "category": "landmark",
+                  "coords": [
+                        103.874763,
+                        52.555589
+                  ]
+            },
+            {
+                  "name": "Blagoslovenie",
+                  "text": "A modern Christian church in Angarsk serving the local Protestant community with regular services.",
+                  "category": "landmark",
+                  "coords": [
+                        103.884878,
+                        52.550274
+                  ]
+            },
+            {
+                  "name": "Prikhod Sviatogo Iosifa",
+                  "text": "The spiritual center for the Catholic community in Angarsk, dedicated to Saint Joseph.",
+                  "category": "landmark",
+                  "coords": [
+                        103.893844,
+                        52.544082
+                  ]
+            },
+            {
+                  "name": "Tserkov' Baikal'skaia",
+                  "text": "A local Christian church in Angarsk named after the nearby world-famous Lake Baikal.",
+                  "category": "landmark",
+                  "coords": [
+                        103.886222,
+                        52.518107
+                  ]
+            },
+            {
+                  "name": "Troitskii sobor",
+                  "text": "A prominent Orthodox cathedral in Angarsk, known for its tall white walls and gleaming golden domes.",
+                  "category": "landmark",
+                  "coords": [
+                        103.870932,
+                        52.52802
+                  ]
+            },
+            {
+                  "name": "Spasskaia chasovnia",
+                  "text": "A small and peaceful Orthodox chapel in Angarsk dedicated to the Savior.",
+                  "category": "landmark",
+                  "coords": [
+                        103.864021,
+                        52.512138
+                  ]
+            },
+            {
+                  "name": "Tserkov' Blagoslovenie",
+                  "text": "A community-focused Christian church in Angarsk providing spiritual guidance and social support.",
+                  "category": "landmark",
+                  "coords": [
+                        103.869606,
+                        52.50362
+                  ]
+            },
+            {
+                  "name": "Khram Uspeniia Bozhei Materi",
+                  "text": "An Orthodox church in Angarsk featuring traditional blue domes, dedicated to the Assumption of the Virgin Mary.",
+                  "category": "landmark",
+                  "coords": [
+                        103.840019,
+                        52.484673
+                  ]
+            },
+            {
+                  "name": "Tserkov' Serafima Sarovskogo",
+                  "text": "A wooden Orthodox church in Angarsk built in the traditional style and dedicated to Saint Seraphim of Sarov.",
+                  "category": "religious",
+                  "coords": [
+                        103.828355,
+                        52.512241
+                  ]
+            },
+            {
+                  "name": "TTs Torgservis",
+                  "text": "A large indoor marketplace in Angarsk offering a vast array of household goods and local groceries.",
+                  "category": "cultural",
+                  "coords": [
+                        103.910734,
+                        52.545468
+                  ]
+            },
+            {
+                  "name": "Zal 1",
+                  "text": "This indoor market hall in Angarsk offers a variety of local products and goods within a functional Soviet-era building.",
+                  "category": "cultural",
+                  "coords": [
+                        103.90964,
+                        52.545735
+                  ]
+            },
+            {
+                  "name": "Zal 5",
+                  "text": "This local trading spot in Angarsk is known for its selection of clothing and regional specialties.",
+                  "category": "cultural",
+                  "coords": [
+                        103.912365,
+                        52.54529
+                  ]
+            },
+            {
+                  "name": "Rynochek u Angary",
+                  "text": "A small marketplace located near the banks of the Angara River, offering fresh fish and regional produce.",
+                  "category": "cultural",
+                  "coords": [
+                        103.868513,
+                        52.537045
+                  ]
+            },
+            {
+                  "name": "Novyi",
+                  "text": "A modern marketplace in Angarsk known for its organized layout and wide range of haberdashery.",
+                  "category": "cultural",
+                  "coords": [
+                        103.841695,
+                        52.515983
+                  ]
+            },
+            {
+                  "name": "Skazka",
+                  "text": "Named after a fairytale, this market in Angarsk is known for its colorful stalls and toy sections.",
+                  "category": "cultural",
+                  "coords": [
+                        103.863158,
+                        52.506301
+                  ]
+            },
+            {
+                  "name": "TD Iunost'",
+                  "text": "A central trade house in Angarsk, popular among youth for fashion and trendy accessories.",
+                  "category": "cultural",
+                  "coords": [
+                        103.837801,
+                        52.507262
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "factory",
     name: { de: "Petrochemisches Kombinat Angarsk", hu: "Angarszki petrolkémiai kombinát", ro: "Combinatul petrochimic Angarsk", en: "Angarsk Petrochemical Complex"},
@@ -1188,7 +8064,1096 @@ imageHint: "NLMK industrial steel factory panorama in Lipetsk",
     },
     image: "/poi-images/russia-nlmk-lipetsk-economic-v2.webp",
 },  {
-    id: "russia-chelyabinsk-tractor-economic-v2",
+    id: "russia-chelyabinsk-tractor-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Smotrovaia ploshchadka",
+                  "text": "Dieser Aussichtspunkt bietet einen weiten Blick über den Industriekomplex und das Stadtviertel.",
+                  "category": "natural",
+                  "coords": [
+                        61.44911,
+                        55.114376
+                  ]
+            },
+            {
+                  "name": "Muzei istorii ChKPZ",
+                  "text": "Das Museum dokumentiert die industrielle Geschichte und die Produktion des örtlichen Schmiedewerks.",
+                  "category": "museum",
+                  "coords": [
+                        61.51247,
+                        55.122889
+                  ]
+            },
+            {
+                  "name": "Pervyi Legioner",
+                  "text": "Diese Attraktion ist ein beliebter Treffpunkt für historische Reenactments und Freizeitaktivitäten.",
+                  "category": "landmark",
+                  "coords": [
+                        61.458303,
+                        55.13776
+                  ]
+            },
+            {
+                  "name": "Muzei pamiati voinov-internatsionalistov",
+                  "text": "Dieses Museum ehrt die Soldaten, die in internationalen Konflikten wie in Afghanistan dienten.",
+                  "category": "museum",
+                  "coords": [
+                        61.434957,
+                        55.13208
+                  ]
+            },
+            {
+                  "name": "Kinoteatral'noe ob'edinenie <<Kirovets>>",
+                  "text": "Dieses nach einem Revolutionär benannte Kulturzentrum vereint Kino und Theater unter einem Dach.",
+                  "category": "cultural",
+                  "coords": [
+                        61.453035,
+                        55.159038
+                  ]
+            },
+            {
+                  "name": "Voskhod",
+                  "text": "Dieser Sandstrand am Ufer des Smolino-Sees ist ein beliebter Ort für sommerliche Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        61.455082,
+                        55.113264
+                  ]
+            },
+            {
+                  "name": "Priboi",
+                  "text": "Die Küste bietet einen ruhigen Platz zum Sonnenbaden und Schwimmen im Süßwasser des Sees.",
+                  "category": "recreational",
+                  "coords": [
+                        61.464041,
+                        55.110651
+                  ]
+            },
+            {
+                  "name": "Pliazh",
+                  "text": "Dieser Erholungsort am See bietet Freizeiteinrichtungen und gepflegte Strandabschnitte.",
+                  "category": "recreational",
+                  "coords": [
+                        61.571057,
+                        55.196771
+                  ]
+            },
+            {
+                  "name": "Basseika",
+                  "text": "Ein lokaler Badeplatz, der für sein seichtes Wasser und die familiäre Atmosphäre bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        61.585244,
+                        55.122117
+                  ]
+            },
+            {
+                  "name": "Gorodskoi pliazh Sovetskogo raiona",
+                  "text": "Der städtische Strand bietet weite Sandflächen und Sportmöglichkeiten am Seeufer.",
+                  "category": "recreational",
+                  "coords": [
+                        61.406102,
+                        55.073644
+                  ]
+            },
+            {
+                  "name": "Smolino Park",
+                  "text": "Diese Parkanlage am Wasser kombiniert Grünflächen mit einem beliebten öffentlichen Badestrand.",
+                  "category": "recreational",
+                  "coords": [
+                        61.406258,
+                        55.076408
+                  ]
+            },
+            {
+                  "name": "Sportivnyi",
+                  "text": "Dieser Strand ist auf aktive Erholung spezialisiert und verfügt über Volleyballplätze und Fitnessgeräte.",
+                  "category": "recreational",
+                  "coords": [
+                        61.46837,
+                        55.108315
+                  ]
+            },
+            {
+                  "name": "Odigitrievskii zhenskii monastyr'",
+                  "text": "Dieses am südlichen Stadtrand gelegene orthodoxe Frauenkloster ist ein Zentrum religiöser Einkehr.",
+                  "category": "religious",
+                  "coords": [
+                        61.452338,
+                        55.133292
+                  ]
+            },
+            {
+                  "name": "Solnechnyi bereg",
+                  "text": "Der Strand trägt den Namen 'Sonniges Ufer' und bietet weite Ausblicke über den See.",
+                  "category": "recreational",
+                  "coords": [
+                        61.424311,
+                        55.109607
+                  ]
+            },
+            {
+                  "name": "Pliazh <<Churilovskii>>",
+                  "text": "Dieser am nordöstlichen Ufer gelegene Strand ist ein beliebter Treffpunkt für die Bewohner der Vororte.",
+                  "category": "recreational",
+                  "coords": [
+                        61.51615,
+                        55.178896
+                  ]
+            },
+            {
+                  "name": "Pliazh Vostochnyi bereg",
+                  "text": "Dieser Strand am Ostufer ist bekannt für seine ruhige Lage und die natürliche Ufervegetation.",
+                  "category": "recreational",
+                  "coords": [
+                        61.493595,
+                        55.178077
+                  ]
+            },
+            {
+                  "name": "Khram Arkhistratiga Bozhiia Mikhaila",
+                  "text": "Diese orthodoxe Kirche ist dem Erzengel Michael geweiht und bildet ein spirituelles Zentrum des Viertels.",
+                  "category": "landmark",
+                  "coords": [
+                        61.480069,
+                        55.179336
+                  ]
+            },
+            {
+                  "name": "Mechet' Makhallia No. 879",
+                  "text": "Diese Moschee dient der örtlichen muslimischen Gemeinde als zentraler Ort des Gebets und der Begegnung.",
+                  "category": "landmark",
+                  "coords": [
+                        61.60223,
+                        55.122383
+                  ]
+            },
+            {
+                  "name": "Khram v chest' Sviatogo Ravnoapostol'nogo Kniazia Vladimira",
+                  "text": "Die dem Heiligen Wladimir geweihte Kirche ist ein markantes Beispiel moderner Sakralarchitektur in der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        61.39329,
+                        55.073193
+                  ]
+            },
+            {
+                  "name": "Khram sviatoi blazhennoi Ksenii Peterburgskoi",
+                  "text": "Diese orthodoxe Kirche in Tscheljabinsk ist der heiligen Ksenia von St. Petersburg gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        61.492905,
+                        55.100052
+                  ]
+            },
+            {
+                  "name": "Dom molitvy Evangel'skikh Khristian-Baptistov",
+                  "text": "Ein schlichtes Bethaus der Evangeliums-Christen-Baptisten im Traktorsawodski-Viertel.",
+                  "category": "landmark",
+                  "coords": [
+                        61.442533,
+                        55.125597
+                  ]
+            },
+            {
+                  "name": "Khram ikony Bozhiei Materi <<Neupivaemaia chasha>>",
+                  "text": "Diese Kirche ist der Ikone der Gottesmutter 'Der unerschöpfliche Kelch' gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        61.422328,
+                        55.111521
+                  ]
+            },
+            {
+                  "name": "Khram ikony Bozhiei Materi <<Utoli moia pechali>>",
+                  "text": "Eine orthodoxe Kirche, die nach der Ikone 'Linderung meiner Leiden' benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        61.426462,
+                        55.11163
+                  ]
+            },
+            {
+                  "name": "Chasovnia ikony Bozhiei Materi <<Zhivonosnyi istochnik>>",
+                  "text": "Diese kleine orthodoxe Kapelle wurde Ende der 1990er Jahre erbaut.",
+                  "category": "landmark",
+                  "coords": [
+                        61.454966,
+                        55.160417
+                  ]
+            },
+            {
+                  "name": "Rynok <<Meridian>>",
+                  "text": "Ein lokaler Marktplatz in Tscheljabinsk, der als wichtiger Handelsplatz für die Bewohner dient.",
+                  "category": "cultural",
+                  "coords": [
+                        61.423325,
+                        55.140209
+                  ]
+            },
+            {
+                  "name": "Gorodskoi rynok",
+                  "text": "Der zentrale Stadtmarkt bietet eine große Auswahl an regionalen Lebensmitteln und Waren.",
+                  "category": "cultural",
+                  "coords": [
+                        61.607161,
+                        55.119874
+                  ]
+            },
+            {
+                  "name": "Kopeiskii rynok",
+                  "text": "Ein belebter Markt im Stadtteil Kopeisk, bekannt für frische Produkte und Haushaltswaren.",
+                  "category": "cultural",
+                  "coords": [
+                        61.553809,
+                        55.118854
+                  ]
+            },
+            {
+                  "name": "Iur'evskii rynok",
+                  "text": "Ein traditioneller Einzelhandelsmarkt, der die lokale Gemeinde mit Gütern des täglichen Bedarfs versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        61.432201,
+                        55.132783
+                  ]
+            },
+            {
+                  "name": "Stroitel'nyi rynok <<Stantsionnyi>>",
+                  "text": "Dieser spezialisierte Markt in der Nähe des Bahnhofs konzentriert sich auf Bau- und Konstruktionsmaterialien.",
+                  "category": "cultural",
+                  "coords": [
+                        61.422655,
+                        55.141352
+                  ]
+            },
+            {
+                  "name": "Severo-vostochnyi rynok",
+                  "text": "Ein großer Marktplatz, der den nordöstlichen Bezirk von Tscheljabinsk mit Waren bedient.",
+                  "category": "cultural",
+                  "coords": [
+                        61.485533,
+                        55.187345
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Smotrovaia ploshchadka",
+                  "text": "Erről a kilátóhelyről széles panoráma nyílik az ipari negyedre és a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        61.44911,
+                        55.114376
+                  ]
+            },
+            {
+                  "name": "Muzei istorii ChKPZ",
+                  "text": "A múzeum a helyi kovácsműhely ipartörténetét és gyártási folyamatait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        61.51247,
+                        55.122889
+                  ]
+            },
+            {
+                  "name": "Pervyi Legioner",
+                  "text": "Ez a látványosság a történelmi hagyományőrzés és szabadidős tevékenységek kedvelt helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        61.458303,
+                        55.13776
+                  ]
+            },
+            {
+                  "name": "Muzei pamiati voinov-internatsionalistov",
+                  "text": "Ez a múzeum a nemzetközi konfliktusokban, például Afganisztánban szolgált katonáknak állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        61.434957,
+                        55.13208
+                  ]
+            },
+            {
+                  "name": "Kinoteatral'noe ob'edinenie <<Kirovets>>",
+                  "text": "Ez a forradalmárról elnevezett kulturális központ mozit és színházat is magában foglal.",
+                  "category": "cultural",
+                  "coords": [
+                        61.453035,
+                        55.159038
+                  ]
+            },
+            {
+                  "name": "Voskhod",
+                  "text": "Ez a Szmolino-tó partján fekvő homokos strand a nyári kikapcsolódás kedvelt helyszíne.",
+                  "category": "recreational",
+                  "coords": [
+                        61.455082,
+                        55.113264
+                  ]
+            },
+            {
+                  "name": "Priboi",
+                  "text": "A tópart nyugalmas helyet kínál a napozáshoz és az édesvízi úszáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        61.464041,
+                        55.110651
+                  ]
+            },
+            {
+                  "name": "Pliazh",
+                  "text": "Ez a tóparti üdülőhely szabadidős létesítményeket és gondozott strandrészeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        61.571057,
+                        55.196771
+                  ]
+            },
+            {
+                  "name": "Basseika",
+                  "text": "Helyi fürdőhely, amely sekély vizéről és családias hangulatáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        61.585244,
+                        55.122117
+                  ]
+            },
+            {
+                  "name": "Gorodskoi pliazh Sovetskogo raiona",
+                  "text": "A városi strand tágas homokos területeket és sportolási lehetőségeket kínál a tóparton.",
+                  "category": "recreational",
+                  "coords": [
+                        61.406102,
+                        55.073644
+                  ]
+            },
+            {
+                  "name": "Smolino Park",
+                  "text": "Ez a vízparti park zöldterületeket és egy népszerű nyilvános strandot ötvöz.",
+                  "category": "recreational",
+                  "coords": [
+                        61.406258,
+                        55.076408
+                  ]
+            },
+            {
+                  "name": "Sportivnyi",
+                  "text": "Ez a strand az aktív kikapcsolódásra épít, röplabdapályákkal és fitneszeszközökkel felszerelt.",
+                  "category": "recreational",
+                  "coords": [
+                        61.46837,
+                        55.108315
+                  ]
+            },
+            {
+                  "name": "Odigitrievskii zhenskii monastyr'",
+                  "text": "A déli városrészen fekvő ortodox női kolostor a vallási elmélyülés központja.",
+                  "category": "religious",
+                  "coords": [
+                        61.452338,
+                        55.133292
+                  ]
+            },
+            {
+                  "name": "Solnechnyi bereg",
+                  "text": "A 'Napsütötte part' nevű strand tágas kilátást nyújt a tóra.",
+                  "category": "recreational",
+                  "coords": [
+                        61.424311,
+                        55.109607
+                  ]
+            },
+            {
+                  "name": "Pliazh <<Churilovskii>>",
+                  "text": "Az északkeleti parton fekvő strand a külvárosi lakosok kedvelt találkozóhelye.",
+                  "category": "recreational",
+                  "coords": [
+                        61.51615,
+                        55.178896
+                  ]
+            },
+            {
+                  "name": "Pliazh Vostochnyi bereg",
+                  "text": "A keleti parton fekvő strand nyugodt fekvéséről és természetes parti növényzetéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        61.493595,
+                        55.178077
+                  ]
+            },
+            {
+                  "name": "Khram Arkhistratiga Bozhiia Mikhaila",
+                  "text": "Ez az ortodox templom Mihály arkangyal tiszteletére épült, és a negyed spirituális központja.",
+                  "category": "landmark",
+                  "coords": [
+                        61.480069,
+                        55.179336
+                  ]
+            },
+            {
+                  "name": "Mechet' Makhallia No. 879",
+                  "text": "Ez a mecset a helyi muszlim közösség központi imahelyeként és találkozóhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        61.60223,
+                        55.122383
+                  ]
+            },
+            {
+                  "name": "Khram v chest' Sviatogo Ravnoapostol'nogo Kniazia Vladimira",
+                  "text": "A Szent Vlagyimir tiszteletére szentelt templom a modern szakrális építészet jellegzetes példája a régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        61.39329,
+                        55.073193
+                  ]
+            },
+            {
+                  "name": "Khram sviatoi blazhennoi Ksenii Peterburgskoi",
+                  "text": "Ez a cseljabinszki ortodox templom Szent Szentpétervári Kszenia tiszteletére épült.",
+                  "category": "landmark",
+                  "coords": [
+                        61.492905,
+                        55.100052
+                  ]
+            },
+            {
+                  "name": "Dom molitvy Evangel'skikh Khristian-Baptistov",
+                  "text": "Az evangéliumi keresztény baptisták egyszerű imaháza a Traktorszavodszkij negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        61.442533,
+                        55.125597
+                  ]
+            },
+            {
+                  "name": "Khram ikony Bozhiei Materi <<Neupivaemaia chasha>>",
+                  "text": "Ezt a templomot az Istenanyja 'Kimeríthetetlen kehely' ikonjának szentelték.",
+                  "category": "landmark",
+                  "coords": [
+                        61.422328,
+                        55.111521
+                  ]
+            },
+            {
+                  "name": "Khram ikony Bozhiei Materi <<Utoli moia pechali>>",
+                  "text": "Egy ortodox templom, amelyet az 'Enyhítsd fájdalmamat' ikonról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        61.426462,
+                        55.11163
+                  ]
+            },
+            {
+                  "name": "Chasovnia ikony Bozhiei Materi <<Zhivonosnyi istochnik>>",
+                  "text": "Ez a kis ortodox kápolna az 1990-es évek végén épült.",
+                  "category": "landmark",
+                  "coords": [
+                        61.454966,
+                        55.160417
+                  ]
+            },
+            {
+                  "name": "Rynok <<Meridian>>",
+                  "text": "Egy helyi piac Cseljabinszkban, amely fontos kereskedelmi csomópontként szolgál a lakosok számára.",
+                  "category": "cultural",
+                  "coords": [
+                        61.423325,
+                        55.140209
+                  ]
+            },
+            {
+                  "name": "Gorodskoi rynok",
+                  "text": "A központi városi piac regionális élelmiszerek és áruk széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        61.607161,
+                        55.119874
+                  ]
+            },
+            {
+                  "name": "Kopeiskii rynok",
+                  "text": "Egy nyüzsgő piac Kopejszk negyedében, amely friss termékeiről és háztartási cikkeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        61.553809,
+                        55.118854
+                  ]
+            },
+            {
+                  "name": "Iur'evskii rynok",
+                  "text": "Egy hagyományos kiskereskedelmi piac, amely napi szükségleti cikkekkel látja el a helyi közösséget.",
+                  "category": "cultural",
+                  "coords": [
+                        61.432201,
+                        55.132783
+                  ]
+            },
+            {
+                  "name": "Stroitel'nyi rynok <<Stantsionnyi>>",
+                  "text": "Ez a vasútállomás közelében található szakosodott piac építőanyagokra összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        61.422655,
+                        55.141352
+                  ]
+            },
+            {
+                  "name": "Severo-vostochnyi rynok",
+                  "text": "Egy nagy piactér, amely Cseljabinszk északkeleti negyedét szolgálja ki árukkal.",
+                  "category": "cultural",
+                  "coords": [
+                        61.485533,
+                        55.187345
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Smotrovaia ploshchadka",
+                  "text": "Acest punct de observație oferă o vedere largă asupra complexului industrial și a cartierului.",
+                  "category": "natural",
+                  "coords": [
+                        61.44911,
+                        55.114376
+                  ]
+            },
+            {
+                  "name": "Muzei istorii ChKPZ",
+                  "text": "Muzeul documentează istoria industrială și producția uzinei locale de forjă și presă.",
+                  "category": "museum",
+                  "coords": [
+                        61.51247,
+                        55.122889
+                  ]
+            },
+            {
+                  "name": "Pervyi Legioner",
+                  "text": "Această atracție este un loc popular pentru reconstituiri istorice și activități de agrement.",
+                  "category": "landmark",
+                  "coords": [
+                        61.458303,
+                        55.13776
+                  ]
+            },
+            {
+                  "name": "Muzei pamiati voinov-internatsionalistov",
+                  "text": "Acest muzeu onorează soldații care au servit în conflicte internaționale, precum cel din Afganistan.",
+                  "category": "museum",
+                  "coords": [
+                        61.434957,
+                        55.13208
+                  ]
+            },
+            {
+                  "name": "Kinoteatral'noe ob'edinenie <<Kirovets>>",
+                  "text": "Numit după un revoluționar, acest centru cultural reunește un cinematograf și un teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        61.453035,
+                        55.159038
+                  ]
+            },
+            {
+                  "name": "Voskhod",
+                  "text": "Această plajă cu nisip de pe malul lacului Smolino este un loc popular pentru recreere estivală.",
+                  "category": "recreational",
+                  "coords": [
+                        61.455082,
+                        55.113264
+                  ]
+            },
+            {
+                  "name": "Priboi",
+                  "text": "Țărmul oferă un loc liniștit pentru plajă și înot în apa dulce a lacului.",
+                  "category": "recreational",
+                  "coords": [
+                        61.464041,
+                        55.110651
+                  ]
+            },
+            {
+                  "name": "Pliazh",
+                  "text": "Această stațiune de pe malul lacului oferă facilități de agrement și porțiuni de plajă amenajate.",
+                  "category": "recreational",
+                  "coords": [
+                        61.571057,
+                        55.196771
+                  ]
+            },
+            {
+                  "name": "Basseika",
+                  "text": "Un loc de scăldat local, cunoscut pentru apele sale puțin adânci și atmosfera familială.",
+                  "category": "recreational",
+                  "coords": [
+                        61.585244,
+                        55.122117
+                  ]
+            },
+            {
+                  "name": "Gorodskoi pliazh Sovetskogo raiona",
+                  "text": "Plaja municipală oferă zone întinse cu nisip și facilități sportive pe malul lacului.",
+                  "category": "recreational",
+                  "coords": [
+                        61.406102,
+                        55.073644
+                  ]
+            },
+            {
+                  "name": "Smolino Park",
+                  "text": "Acest parc de pe malul apei combină spațiile verzi cu o plajă publică populară.",
+                  "category": "recreational",
+                  "coords": [
+                        61.406258,
+                        55.076408
+                  ]
+            },
+            {
+                  "name": "Sportivnyi",
+                  "text": "Această plajă este specializată în recreere activă, având terenuri de volei și echipamente de fitness.",
+                  "category": "recreational",
+                  "coords": [
+                        61.46837,
+                        55.108315
+                  ]
+            },
+            {
+                  "name": "Odigitrievskii zhenskii monastyr'",
+                  "text": "Această mănăstire ortodoxă de maici, situată la periferia sudică, este un centru de reculegere religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        61.452338,
+                        55.133292
+                  ]
+            },
+            {
+                  "name": "Solnechnyi bereg",
+                  "text": "Plaja poartă numele de 'Țărmul Însorit' și oferă vederi largi asupra lacului.",
+                  "category": "recreational",
+                  "coords": [
+                        61.424311,
+                        55.109607
+                  ]
+            },
+            {
+                  "name": "Pliazh <<Churilovskii>>",
+                  "text": "Situată pe malul de nord-est, această plajă este un loc de întâlnire popular pentru locuitorii din suburbii.",
+                  "category": "recreational",
+                  "coords": [
+                        61.51615,
+                        55.178896
+                  ]
+            },
+            {
+                  "name": "Pliazh Vostochnyi bereg",
+                  "text": "Această plajă de pe malul estic este cunoscută pentru locația liniștită și vegetația naturală de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        61.493595,
+                        55.178077
+                  ]
+            },
+            {
+                  "name": "Khram Arkhistratiga Bozhiia Mikhaila",
+                  "text": "Această biserică ortodoxă este închinată Arhanghelului Mihail și reprezintă un centru spiritual al cartierului.",
+                  "category": "landmark",
+                  "coords": [
+                        61.480069,
+                        55.179336
+                  ]
+            },
+            {
+                  "name": "Mechet' Makhallia No. 879",
+                  "text": "Această moschee servește comunitatea musulmană locală ca loc central de rugăciune și întâlnire.",
+                  "category": "landmark",
+                  "coords": [
+                        61.60223,
+                        55.122383
+                  ]
+            },
+            {
+                  "name": "Khram v chest' Sviatogo Ravnoapostol'nogo Kniazia Vladimira",
+                  "text": "Biserica închinată Sfântului Vladimir este un exemplu distinctiv de arhitectură sacră modernă în regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        61.39329,
+                        55.073193
+                  ]
+            },
+            {
+                  "name": "Khram sviatoi blazhennoi Ksenii Peterburgskoi",
+                  "text": "Această biserică ortodoxă din Celeabinsk este dedicată Sfintei Xenia din Sankt Petersburg.",
+                  "category": "landmark",
+                  "coords": [
+                        61.492905,
+                        55.100052
+                  ]
+            },
+            {
+                  "name": "Dom molitvy Evangel'skikh Khristian-Baptistov",
+                  "text": "O casă de rugăciune simplă a creștinilor evanghelici baptiști din cartierul Traktorozavodski.",
+                  "category": "landmark",
+                  "coords": [
+                        61.442533,
+                        55.125597
+                  ]
+            },
+            {
+                  "name": "Khram ikony Bozhiei Materi <<Neupivaemaia chasha>>",
+                  "text": "Această biserică este dedicată icoanei Maicii Domnului „Potirul nepieritor”.",
+                  "category": "landmark",
+                  "coords": [
+                        61.422328,
+                        55.111521
+                  ]
+            },
+            {
+                  "name": "Khram ikony Bozhiei Materi <<Utoli moia pechali>>",
+                  "text": "O biserică ortodoxă numită după icoana „Potolește-mi întristările”.",
+                  "category": "landmark",
+                  "coords": [
+                        61.426462,
+                        55.11163
+                  ]
+            },
+            {
+                  "name": "Chasovnia ikony Bozhiei Materi <<Zhivonosnyi istochnik>>",
+                  "text": "Această mică capelă ortodoxă a fost construită la sfârșitul anilor 1990.",
+                  "category": "landmark",
+                  "coords": [
+                        61.454966,
+                        55.160417
+                  ]
+            },
+            {
+                  "name": "Rynok <<Meridian>>",
+                  "text": "O piață locală din Celeabinsk, care servește ca un important nod comercial pentru locuitori.",
+                  "category": "cultural",
+                  "coords": [
+                        61.423325,
+                        55.140209
+                  ]
+            },
+            {
+                  "name": "Gorodskoi rynok",
+                  "text": "Piața centrală a orașului oferă o gamă largă de alimente și mărfuri regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        61.607161,
+                        55.119874
+                  ]
+            },
+            {
+                  "name": "Kopeiskii rynok",
+                  "text": "O piață animată din districtul Kopeisk, cunoscută pentru produse proaspete și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        61.553809,
+                        55.118854
+                  ]
+            },
+            {
+                  "name": "Iur'evskii rynok",
+                  "text": "O piață tradițională de retail care deservește comunitatea locală cu bunuri de necesitate zilnică.",
+                  "category": "cultural",
+                  "coords": [
+                        61.432201,
+                        55.132783
+                  ]
+            },
+            {
+                  "name": "Stroitel'nyi rynok <<Stantsionnyi>>",
+                  "text": "Această piață specializată de lângă gară se concentrează pe materiale de construcție.",
+                  "category": "cultural",
+                  "coords": [
+                        61.422655,
+                        55.141352
+                  ]
+            },
+            {
+                  "name": "Severo-vostochnyi rynok",
+                  "text": "O piață mare care deservește districtul de nord-est al orașului Celeabinsk.",
+                  "category": "cultural",
+                  "coords": [
+                        61.485533,
+                        55.187345
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Smotrovaia ploshchadka",
+                  "text": "This viewpoint offers a broad look over the industrial complex and the surrounding district.",
+                  "category": "natural",
+                  "coords": [
+                        61.44911,
+                        55.114376
+                  ]
+            },
+            {
+                  "name": "Muzei istorii ChKPZ",
+                  "text": "The museum documents the industrial history and production of the local forge and press plant.",
+                  "category": "museum",
+                  "coords": [
+                        61.51247,
+                        55.122889
+                  ]
+            },
+            {
+                  "name": "Pervyi Legioner",
+                  "text": "This attraction is a popular spot for historical reenactments and leisure activities.",
+                  "category": "landmark",
+                  "coords": [
+                        61.458303,
+                        55.13776
+                  ]
+            },
+            {
+                  "name": "Muzei pamiati voinov-internatsionalistov",
+                  "text": "This museum honors the soldiers who served in international conflicts such as Afghanistan.",
+                  "category": "museum",
+                  "coords": [
+                        61.434957,
+                        55.13208
+                  ]
+            },
+            {
+                  "name": "Kinoteatral'noe ob'edinenie <<Kirovets>>",
+                  "text": "Named after a revolutionary, this cultural center combines a cinema and theatre under one roof.",
+                  "category": "cultural",
+                  "coords": [
+                        61.453035,
+                        55.159038
+                  ]
+            },
+            {
+                  "name": "Voskhod",
+                  "text": "This sandy beach on the shores of Lake Smolino is a popular spot for summer recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        61.455082,
+                        55.113264
+                  ]
+            },
+            {
+                  "name": "Priboy",
+                  "text": "The shoreline offers a quiet spot for sunbathing and swimming in the lake's fresh water.",
+                  "category": "recreational",
+                  "coords": [
+                        61.464041,
+                        55.110651
+                  ]
+            },
+            {
+                  "name": "Pliazh",
+                  "text": "This lakeside resort area provides leisure facilities and well-maintained beach sections.",
+                  "category": "recreational",
+                  "coords": [
+                        61.571057,
+                        55.196771
+                  ]
+            },
+            {
+                  "name": "Basseika",
+                  "text": "A local bathing spot known for its shallow waters and family-friendly atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        61.585244,
+                        55.122117
+                  ]
+            },
+            {
+                  "name": "Gorodskoi pliazh Sovetskogo raiona",
+                  "text": "The municipal beach features wide sandy areas and sports facilities on the lakefront.",
+                  "category": "recreational",
+                  "coords": [
+                        61.406102,
+                        55.073644
+                  ]
+            },
+            {
+                  "name": "Smolino Park",
+                  "text": "This waterfront park area combines green spaces with a popular public bathing beach.",
+                  "category": "recreational",
+                  "coords": [
+                        61.406258,
+                        55.076408
+                  ]
+            },
+            {
+                  "name": "Sportivny",
+                  "text": "This beach focuses on active recreation, featuring volleyball courts and fitness equipment.",
+                  "category": "recreational",
+                  "coords": [
+                        61.46837,
+                        55.108315
+                  ]
+            },
+            {
+                  "name": "Odigitrievsky women Monastery",
+                  "text": "Located on the southern outskirts, this Orthodox women's monastery is a center of religious retreat.",
+                  "category": "religious",
+                  "coords": [
+                        61.452338,
+                        55.133292
+                  ]
+            },
+            {
+                  "name": "Solnechny bereg",
+                  "text": "The beach is named 'Sunny Shore' and offers wide views across the lake waters.",
+                  "category": "recreational",
+                  "coords": [
+                        61.424311,
+                        55.109607
+                  ]
+            },
+            {
+                  "name": "Pliazh <<Churilovskii>>",
+                  "text": "Located on the northeastern shore, this beach is a popular meeting spot for suburban residents.",
+                  "category": "recreational",
+                  "coords": [
+                        61.51615,
+                        55.178896
+                  ]
+            },
+            {
+                  "name": "Pliazh Vostochnyi bereg",
+                  "text": "This beach on the eastern bank is known for its quiet location and natural shoreline vegetation.",
+                  "category": "recreational",
+                  "coords": [
+                        61.493595,
+                        55.178077
+                  ]
+            },
+            {
+                  "name": "Khram Arkhistratiga Bozhiia Mikhaila",
+                  "text": "This Orthodox church is dedicated to the Archangel Michael and serves as a spiritual center for the district.",
+                  "category": "landmark",
+                  "coords": [
+                        61.480069,
+                        55.179336
+                  ]
+            },
+            {
+                  "name": "Mechet' Makhallia No. 879",
+                  "text": "This mosque serves the local Muslim community as a central place of prayer and gathering.",
+                  "category": "landmark",
+                  "coords": [
+                        61.60223,
+                        55.122383
+                  ]
+            },
+            {
+                  "name": "Khram v chest' Sviatogo Ravnoapostol'nogo Kniazia Vladimira",
+                  "text": "Dedicated to Saint Vladimir, this church is a distinctive example of modern sacral architecture in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        61.39329,
+                        55.073193
+                  ]
+            },
+            {
+                  "name": "Khram sviatoi blazhennoi Ksenii Peterburgskoi",
+                  "text": "This Orthodox church in Chelyabinsk is dedicated to St. Xenia of St. Petersburg.",
+                  "category": "landmark",
+                  "coords": [
+                        61.492905,
+                        55.100052
+                  ]
+            },
+            {
+                  "name": "Dom molitvy Evangel'skikh Khristian-Baptistov",
+                  "text": "A simple prayer house of the Evangelical Christian Baptists in the Traktorozavodsky district.",
+                  "category": "landmark",
+                  "coords": [
+                        61.442533,
+                        55.125597
+                  ]
+            },
+            {
+                  "name": "Khram ikony Bozhiei Materi <<Neupivaemaia chasha>>",
+                  "text": "This church is dedicated to the icon of the Mother of God 'The Inexhaustible Cup'.",
+                  "category": "landmark",
+                  "coords": [
+                        61.422328,
+                        55.111521
+                  ]
+            },
+            {
+                  "name": "Khram ikony Bozhiei Materi <<Utoli moia pechali>>",
+                  "text": "An Orthodox church named after the icon of the Mother of God 'Soothe My Sorrows'.",
+                  "category": "landmark",
+                  "coords": [
+                        61.426462,
+                        55.11163
+                  ]
+            },
+            {
+                  "name": "Chapel of the icon of the Mother of God \"Life-Giving Spring\"",
+                  "text": "This small Orthodox chapel was constructed in the late 1990s.",
+                  "category": "landmark",
+                  "coords": [
+                        61.454966,
+                        55.160417
+                  ]
+            },
+            {
+                  "name": "Rynok <<Meridian>>",
+                  "text": "A local marketplace in Chelyabinsk serving as a key trading hub for residents.",
+                  "category": "cultural",
+                  "coords": [
+                        61.423325,
+                        55.140209
+                  ]
+            },
+            {
+                  "name": "Gorodskoi rynok",
+                  "text": "The central city market offers a wide range of regional food and goods.",
+                  "category": "cultural",
+                  "coords": [
+                        61.607161,
+                        55.119874
+                  ]
+            },
+            {
+                  "name": "Kopeiskii rynok",
+                  "text": "A bustling market in the Kopeysk district, known for fresh produce and household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        61.553809,
+                        55.118854
+                  ]
+            },
+            {
+                  "name": "Iur'evskii rynok",
+                  "text": "A traditional retail market serving the local community with daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        61.432201,
+                        55.132783
+                  ]
+            },
+            {
+                  "name": "Stroitel'nyi rynok <<Stantsionnyi>>",
+                  "text": "This specialized market near the station focuses on building and construction materials.",
+                  "category": "cultural",
+                  "coords": [
+                        61.422655,
+                        55.141352
+                  ]
+            },
+            {
+                  "name": "Severo-vostochnyi rynok",
+                  "text": "A large marketplace serving the north-eastern district of Chelyabinsk.",
+                  "category": "cultural",
+                  "coords": [
+                        61.485533,
+                        55.187345
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "factory",
     name: { de: "Tscheljabinsker Traktorenwerk", hu: "Cseljabinszki Traktorgyár", ro: "Uzina de tractoare din Celeabinsk", en: "Chelyabinsk Tractor Plant"},
@@ -1280,7 +9245,628 @@ imageHint: "Stacks of large steel pipes at Volzhsky factory",
     },
     image: "/poi-images/russia-volzhsky-pipe-economic-v2.webp",
 },  {
-    id: "russia-krasnoyarsk-aluminum-economic-v2",
+    id: "russia-krasnoyarsk-aluminum-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mim-teatr <<Za dvumia Zaitsami>>",
+                  "text": "Ein professionelles Pantomimentheater, bekannt für seine ausdrucksstarken stummen Aufführungen und plastische Kunst.",
+                  "category": "cultural",
+                  "coords": [
+                        92.972584,
+                        56.052945
+                  ]
+            },
+            {
+                  "name": "Krasnoiarskii stounkhendzh",
+                  "text": "Eine moderne künstlerische Nachbildung des prähistorischen Steinkreises, die als kurioses Wahrzeichen der Stadt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        92.975705,
+                        56.039523
+                  ]
+            },
+            {
+                  "name": "SkyFly",
+                  "text": "Ein vertikaler Indoor-Windkanal, der ein spannendes aerodynamisches Erlebnis und simuliertes Fallschirmspringen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        92.960153,
+                        56.072346
+                  ]
+            },
+            {
+                  "name": "Most \"777\"",
+                  "text": "Eine massive kombinierte Straßen- und Eisenbahnbrücke aus dem Jahr 1984, die den Jenissei überspannt.",
+                  "category": "landmark",
+                  "coords": [
+                        93.009249,
+                        56.06599
+                  ]
+            },
+            {
+                  "name": "Khram-chasovnia Sviatogo Fedora Tomskogo",
+                  "text": "Eine ruhige orthodoxe Kapelle im russischen Stil, gewidmet dem gerechten Heiligen Theodor von Tomsk.",
+                  "category": "landmark",
+                  "coords": [
+                        93.013223,
+                        56.021591
+                  ]
+            },
+            {
+                  "name": "Apostola Andreia pervozvannogo",
+                  "text": "Eine moderne orthodoxe Kirche, benannt nach dem Heiligen Andreas, mit traditionellen goldenen Kuppeln.",
+                  "category": "landmark",
+                  "coords": [
+                        92.964497,
+                        56.0499
+                  ]
+            },
+            {
+                  "name": "Sviato-Vvedenskii khram",
+                  "text": "Eine weiß getünchte orthodoxe Kirche, gewidmet dem Gedenktag Unserer Lieben Frau in Jerusalem.",
+                  "category": "landmark",
+                  "coords": [
+                        93.127661,
+                        56.043852
+                  ]
+            },
+            {
+                  "name": "Sobornaia mechet'",
+                  "text": "Die zentrale Kathedralmoschee der Region mit einem markanten Minarett als geistliches Zentrum für Muslime.",
+                  "category": "landmark",
+                  "coords": [
+                        92.943013,
+                        56.042956
+                  ]
+            },
+            {
+                  "name": "Khram-chasovnia Sviatogo pravednogo Daniila Achinskogo",
+                  "text": "Eine kleine und friedliche Holzkapelle, die dem lokalen sibirischen Heiligen Daniel von Achinsk gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        92.932801,
+                        56.086598
+                  ]
+            },
+            {
+                  "name": "Krasnoiarskaia baptistskaia tserkov'",
+                  "text": "Eine zeitgenössische Baptistenkirche, die als Zentrum für die evangelisch-christliche Gemeinde der Stadt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        92.933847,
+                        56.069627
+                  ]
+            },
+            {
+                  "name": "Evangelichesko-liuteranskii prikhod <<Sviatoi Troitsy>>",
+                  "text": "Eine protestantische Pfarrkirche der Heiligen Dreifaltigkeit, die die lutherische Tradition in Krasnojarsk vertritt.",
+                  "category": "landmark",
+                  "coords": [
+                        92.972178,
+                        56.059102
+                  ]
+            },
+            {
+                  "name": "Chasovnia Ilii Muromtsa",
+                  "text": "Eine religiöse Kapelle, gewidmet dem Volkshelden Ilja Muromez, gelegen in der Nähe eines Militärinstituts.",
+                  "category": "landmark",
+                  "coords": [
+                        92.983782,
+                        56.05578
+                  ]
+            },
+            {
+                  "name": "Khram Voskreseniia Khristova",
+                  "text": "Eine stattliche orthodoxe Auferstehungskirche mit eleganter Architektur und religiösen Wandmalereien.",
+                  "category": "landmark",
+                  "coords": [
+                        92.922423,
+                        56.12139
+                  ]
+            },
+            {
+                  "name": "Katolicheskaia tserkov' prikhoda Sviatogo Semeistva",
+                  "text": "Eine katholische Backsteinkirche der Pfarrei Heilige Familie mit regelmäßigen lateinischen Gottesdiensten.",
+                  "category": "landmark",
+                  "coords": [
+                        92.934558,
+                        56.114898
+                  ]
+            },
+            {
+                  "name": "Khram Dvenadtsati apostolov",
+                  "text": "Eine traditionelle orthodoxe Kirche, die den Zwölf Aposteln gewidmet ist und für ihre ruhige Atmosphäre bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        92.925002,
+                        56.110958
+                  ]
+            },
+            {
+                  "name": "rynok Vostochnyi",
+                  "text": "Ein geschäftiger Marktplatz im östlichen Stil, auf dem Einheimische Textilien und Gewürze kaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        93.018845,
+                        56.022736
+                  ]
+            },
+            {
+                  "name": "Zelionnyi bazar",
+                  "text": "Ein lebendiger Frischemarkt, beliebt für saisonales Obst, Gemüse und sibirische Köstlichkeiten.",
+                  "category": "cultural",
+                  "coords": [
+                        93.020977,
+                        56.024824
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mim-teatr <<Za dvumia Zaitsami>>",
+                  "text": "Professzionális pantomimszínház, amely kifejező néma előadásairól és egyedi mozgásművészeti stílusáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        92.972584,
+                        56.052945
+                  ]
+            },
+            {
+                  "name": "Krasnoiarskii stounkhendzh",
+                  "text": "A történelem előtti kőkör modern művészi újragondolása, amely a város különleges látnivalója.",
+                  "category": "landmark",
+                  "coords": [
+                        92.975705,
+                        56.039523
+                  ]
+            },
+            {
+                  "name": "SkyFly",
+                  "text": "Beltéri függőleges szélcsatorna, amely izgalmas aerodinamikai élményt és szimulált ejtőernyőzést kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        92.960153,
+                        56.072346
+                  ]
+            },
+            {
+                  "name": "Most \"777\"",
+                  "text": "Hatalmas, 1984-ben megnyitott közúti és vasúti híd, amely a Jenyiszej folyón ível át.",
+                  "category": "landmark",
+                  "coords": [
+                        93.009249,
+                        56.06599
+                  ]
+            },
+            {
+                  "name": "Khram-chasovnia Sviatogo Fedora Tomskogo",
+                  "text": "Hagyományos orosz stílusban épült békés ortodox kápolna, Tomszki Szent Teodor tiszteletére.",
+                  "category": "landmark",
+                  "coords": [
+                        93.013223,
+                        56.021591
+                  ]
+            },
+            {
+                  "name": "Apostola Andreia pervozvannogo",
+                  "text": "Szent András apostolról elnevezett modern ortodox templom jellegzetes aranykupolákkal.",
+                  "category": "landmark",
+                  "coords": [
+                        92.964497,
+                        56.0499
+                  ]
+            },
+            {
+                  "name": "Sviato-Vvedenskii khram",
+                  "text": "Fehér falú ortodox templom, amelyet Szűz Mária templomi bemutatásának tiszteletére szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        93.127661,
+                        56.043852
+                  ]
+            },
+            {
+                  "name": "Sobornaia mechet'",
+                  "text": "A régió központi mecsetje kiemelkedő minarettel, amely a muszlimok hitéleti központja.",
+                  "category": "landmark",
+                  "coords": [
+                        92.943013,
+                        56.042956
+                  ]
+            },
+            {
+                  "name": "Khram-chasovnia Sviatogo pravednogo Daniila Achinskogo",
+                  "text": "Kicsi és békés fakápolna, amelyet a helyi szibériai szentnek, Acskinszki Dánielnek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        92.932801,
+                        56.086598
+                  ]
+            },
+            {
+                  "name": "Krasnoiarskaia baptistskaia tserkov'",
+                  "text": "Kortárs baptista templom, amely a város evangéliumi keresztény közösségének központja.",
+                  "category": "landmark",
+                  "coords": [
+                        92.933847,
+                        56.069627
+                  ]
+            },
+            {
+                  "name": "Evangelichesko-liuteranskii prikhod <<Sviatoi Troitsy>>",
+                  "text": "A Szentháromság tiszteletére szentelt protestáns plébániatemplom, amely a lutheránus hagyományt képviseli.",
+                  "category": "landmark",
+                  "coords": [
+                        92.972178,
+                        56.059102
+                  ]
+            },
+            {
+                  "name": "Chasovnia Ilii Muromtsa",
+                  "text": "Ilja Muromec népi hősnek és szentnek szentelt vallási kápolna egy katonai intézet közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        92.983782,
+                        56.05578
+                  ]
+            },
+            {
+                  "name": "Khram Voskreseniia Khristova",
+                  "text": "Méltóságteljes ortodox Feltámadás-templom elegáns építészettel és vallási falfestményekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        92.922423,
+                        56.12139
+                  ]
+            },
+            {
+                  "name": "Katolicheskaia tserkov' prikhoda Sviatogo Semeistva",
+                  "text": "Téglaépítésű katolikus templom, amely a Szent Család plébániát szolgálja rendszeres misékkel.",
+                  "category": "landmark",
+                  "coords": [
+                        92.934558,
+                        56.114898
+                  ]
+            },
+            {
+                  "name": "Khram Dvenadtsati apostolov",
+                  "text": "A Tizenkét apostolnak szentelt hagyományos ortodox templom, amely békés hangulatáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        92.925002,
+                        56.110958
+                  ]
+            },
+            {
+                  "name": "rynok Vostochnyi",
+                  "text": "Nyüzsgő, keleti stílusú piactér, ahol a helyiek textileket, fűszereket és háztartási cikkeket vásárolnak.",
+                  "category": "cultural",
+                  "coords": [
+                        93.018845,
+                        56.022736
+                  ]
+            },
+            {
+                  "name": "Zelionnyi bazar",
+                  "text": "Élénk frissáru-piac, amely népszerű szezonális gyümölcsei, zöldségei és szibériai finomságai miatt.",
+                  "category": "cultural",
+                  "coords": [
+                        93.020977,
+                        56.024824
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mim-teatr <<Za dvumia Zaitsami>>",
+                  "text": "Un teatru profesionist de mimă, cunoscut pentru spectacolele sale tăcute expresive și stilul plastic unic.",
+                  "category": "cultural",
+                  "coords": [
+                        92.972584,
+                        56.052945
+                  ]
+            },
+            {
+                  "name": "Krasnoiarskii stounkhendzh",
+                  "text": "O replică artistică modernă a cercului preistoric de piatră, servind ca un reper curios în oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        92.975705,
+                        56.039523
+                  ]
+            },
+            {
+                  "name": "SkyFly",
+                  "text": "Un tunel de vânt vertical de interior, care oferă o experiență aerodinamică palpitantă și parașutism simulat.",
+                  "category": "landmark",
+                  "coords": [
+                        92.960153,
+                        56.072346
+                  ]
+            },
+            {
+                  "name": "Most \"777\"",
+                  "text": "Un pod masiv combinat rutier și feroviar deschis în 1984, traversând râul Enisei.",
+                  "category": "landmark",
+                  "coords": [
+                        93.009249,
+                        56.06599
+                  ]
+            },
+            {
+                  "name": "Khram-chasovnia Sviatogo Fedora Tomskogo",
+                  "text": "O capelă ortodoxă senină în stil rusesc, dedicată Sfântului Teodor de Tomsk.",
+                  "category": "landmark",
+                  "coords": [
+                        93.013223,
+                        56.021591
+                  ]
+            },
+            {
+                  "name": "Apostola Andreia pervozvannogo",
+                  "text": "O biserică ortodoxă modernă purtând numele Sfântului Andrei, cu cupole aurii tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        92.964497,
+                        56.0499
+                  ]
+            },
+            {
+                  "name": "Sviato-Vvedenskii khram",
+                  "text": "O biserică ortodoxă cu ziduri albe, dedicată Intrării în Biserică a Maicii Domnului.",
+                  "category": "landmark",
+                  "coords": [
+                        93.127661,
+                        56.043852
+                  ]
+            },
+            {
+                  "name": "Sobornaia mechet'",
+                  "text": "Moscheea catedrală centrală a regiunii, cu un minaret proeminent, fiind un centru spiritual pentru musulmani.",
+                  "category": "landmark",
+                  "coords": [
+                        92.943013,
+                        56.042956
+                  ]
+            },
+            {
+                  "name": "Khram-chasovnia Sviatogo pravednogo Daniila Achinskogo",
+                  "text": "O capelă mică și liniștită din lemn, dedicată sfântului siberian local Daniel din Acinsk.",
+                  "category": "landmark",
+                  "coords": [
+                        92.932801,
+                        56.086598
+                  ]
+            },
+            {
+                  "name": "Krasnoiarskaia baptistskaia tserkov'",
+                  "text": "O biserică baptistă contemporană, servind drept centru pentru comunitatea creștină evanghelică din oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        92.933847,
+                        56.069627
+                  ]
+            },
+            {
+                  "name": "Evangelichesko-liuteranskii prikhod <<Sviatoi Troitsy>>",
+                  "text": "O biserică parohială protestantă a Sfintei Treimi, reprezentând tradiția luterană în Krasnoiarsk.",
+                  "category": "landmark",
+                  "coords": [
+                        92.972178,
+                        56.059102
+                  ]
+            },
+            {
+                  "name": "Chasovnia Ilii Muromtsa",
+                  "text": "O capelă religioasă dedicată eroului popular Ilia Muromeț, situată lângă un institut militar.",
+                  "category": "landmark",
+                  "coords": [
+                        92.983782,
+                        56.05578
+                  ]
+            },
+            {
+                  "name": "Khram Voskreseniia Khristova",
+                  "text": "O biserică ortodoxă impunătoare a Învierii, cu o arhitectură elegantă și picturi murale religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        92.922423,
+                        56.12139
+                  ]
+            },
+            {
+                  "name": "Katolicheskaia tserkov' prikhoda Sviatogo Semeistva",
+                  "text": "O biserică catolică din cărămidă ce deservește parohia Sfânta Familie, cu slujbe regulate în latină.",
+                  "category": "landmark",
+                  "coords": [
+                        92.934558,
+                        56.114898
+                  ]
+            },
+            {
+                  "name": "Khram Dvenadtsati apostolov",
+                  "text": "O biserică ortodoxă tradițională dedicată celor Doisprezece Apostoli, cunoscută pentru liniștea sa.",
+                  "category": "landmark",
+                  "coords": [
+                        92.925002,
+                        56.110958
+                  ]
+            },
+            {
+                  "name": "rynok Vostochnyi",
+                  "text": "O piață plină de viață în stil oriental, unde localnicii cumpără textile, condimente și bunuri de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        93.018845,
+                        56.022736
+                  ]
+            },
+            {
+                  "name": "Zelionnyi bazar",
+                  "text": "O piață vibrantă de produse proaspete, populară pentru fructele de sezon și delicatesele siberiene.",
+                  "category": "cultural",
+                  "coords": [
+                        93.020977,
+                        56.024824
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mim-teatr <<Za dvumia Zaitsami>>",
+                  "text": "A professional mime theatre known for its expressive silent performances and unique plastic arts style.",
+                  "category": "cultural",
+                  "coords": [
+                        92.972584,
+                        56.052945
+                  ]
+            },
+            {
+                  "name": "Krasnoyarsk Stonehenge",
+                  "text": "A modern artistic recreation of the prehistoric stone circle, serving as a curious landmark in the city.",
+                  "category": "landmark",
+                  "coords": [
+                        92.975705,
+                        56.039523
+                  ]
+            },
+            {
+                  "name": "SkyFly",
+                  "text": "An indoor vertical wind tunnel offering a thrilling aerodynamic experience and simulated skydiving.",
+                  "category": "landmark",
+                  "coords": [
+                        92.960153,
+                        56.072346
+                  ]
+            },
+            {
+                  "name": "Most \"777\"",
+                  "text": "A massive combined road and rail bridge opened in 1984, spanning the Yenisei River to connect the city's districts.",
+                  "category": "landmark",
+                  "coords": [
+                        93.009249,
+                        56.06599
+                  ]
+            },
+            {
+                  "name": "Khram-chasovnia Sviatogo Fedora Tomskogo",
+                  "text": "A serene Orthodox chapel built in traditional Russian style, dedicated to the righteous Saint Theodore of Tomsk.",
+                  "category": "landmark",
+                  "coords": [
+                        93.013223,
+                        56.021591
+                  ]
+            },
+            {
+                  "name": "Apostola Andreia pervozvannogo",
+                  "text": "A modern Orthodox church named after Saint Andrew the First-Called, featuring traditional golden domes.",
+                  "category": "landmark",
+                  "coords": [
+                        92.964497,
+                        56.0499
+                  ]
+            },
+            {
+                  "name": "Sviato-Vvedenskii khram",
+                  "text": "A white-walled Orthodox church dedicated to the Presentation of the Blessed Virgin Mary in the Temple.",
+                  "category": "landmark",
+                  "coords": [
+                        93.127661,
+                        56.043852
+                  ]
+            },
+            {
+                  "name": "Sobornaia mechet'",
+                  "text": "The central cathedral mosque of the region, featuring a prominent minaret and serving as a spiritual hub for Muslims.",
+                  "category": "landmark",
+                  "coords": [
+                        92.943013,
+                        56.042956
+                  ]
+            },
+            {
+                  "name": "Khram-chasovnia Sviatogo pravednogo Daniila Achinskogo",
+                  "text": "A small and peaceful wooden chapel dedicated to the local Siberian saint, Daniel of Achinsk.",
+                  "category": "landmark",
+                  "coords": [
+                        92.932801,
+                        56.086598
+                  ]
+            },
+            {
+                  "name": "Krasnoiarskaia baptistskaia tserkov'",
+                  "text": "A contemporary Baptist church serving as a center for the city's Evangelical Christian community.",
+                  "category": "landmark",
+                  "coords": [
+                        92.933847,
+                        56.069627
+                  ]
+            },
+            {
+                  "name": "Evangelichesko-liuteranskii prikhod <<Sviatoi Troitsy>>",
+                  "text": "A Protestant parish church of the Holy Trinity, representing the Lutheran tradition in Krasnoyarsk.",
+                  "category": "landmark",
+                  "coords": [
+                        92.972178,
+                        56.059102
+                  ]
+            },
+            {
+                  "name": "Chasovnia Ilii Muromtsa",
+                  "text": "A religious chapel dedicated to the folk hero and saint Ilya Muromets, located near a military institute.",
+                  "category": "landmark",
+                  "coords": [
+                        92.983782,
+                        56.05578
+                  ]
+            },
+            {
+                  "name": "Khram Voskreseniia Khristova",
+                  "text": "A stately Orthodox church of the Resurrection, featuring elegant architecture and religious murals.",
+                  "category": "landmark",
+                  "coords": [
+                        92.922423,
+                        56.12139
+                  ]
+            },
+            {
+                  "name": "Katolicheskaia tserkov' prikhoda Sviatogo Semeistva",
+                  "text": "A brick Catholic church serving the local Holy Family parish with regular Latin and Russian services.",
+                  "category": "landmark",
+                  "coords": [
+                        92.934558,
+                        56.114898
+                  ]
+            },
+            {
+                  "name": "Khram Dvenadtsati apostolov",
+                  "text": "A traditional Orthodox church dedicated to the Twelve Apostles, known for its serene atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        92.925002,
+                        56.110958
+                  ]
+            },
+            {
+                  "name": "rynok Vostochnyi",
+                  "text": "A bustling eastern-style marketplace where locals shop for diverse textiles, spices, and household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        93.018845,
+                        56.022736
+                  ]
+            },
+            {
+                  "name": "Zelionnyi bazar",
+                  "text": "A vibrant fresh produce market popular for its seasonal fruits, vegetables, and regional Siberian delicacies.",
+                  "category": "cultural",
+                  "coords": [
+                        93.020977,
+                        56.024824
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "factory",
     name: { de: "Aluminiumhütte Krasnojarsk", hu: "Krasznojarszki alumíniumkohó", ro: "Topitoria de aluminiu Krasnoiarsk", en: "Krasnoyarsk Aluminum Smelter"},
@@ -1326,7 +9912,340 @@ imageHint: "Stacks of large steel pipes at Volzhsky factory",
     }
   },
   {
-    id: "russia-sakhalin-2-lng-economic-v2",
+    id: "russia-sakhalin-2-lng-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Voenno-patrioticheskii park \"Patriot\"",
+                  "text": "Ein Freilichtmuseum, das sowjetische und russische Militärtechnik und historische Exponate zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        142.814316,
+                        46.628063
+                  ]
+            },
+            {
+                  "name": "Iaponskii shkol'nyi pavil'on",
+                  "text": "Ein architektonisches Überbleibsel eines japanischen Schulgebäudes aus der Karafuto-Ära.",
+                  "category": "landmark",
+                  "coords": [
+                        142.788088,
+                        46.645903
+                  ]
+            },
+            {
+                  "name": "Iunony",
+                  "text": "Ein Aussichtspunkt mit Panoramablick auf die Aniwa-Bucht und die große Flüssigerdgasanlage.",
+                  "category": "natural",
+                  "coords": [
+                        142.969306,
+                        46.628506
+                  ]
+            },
+            {
+                  "name": "Pliazh Prigorodnyi",
+                  "text": "Ein Sandstrand an der Aniwa-Bucht, der im Sommer ein beliebtes Ausflugsziel bei Korsakow ist.",
+                  "category": "recreational",
+                  "coords": [
+                        142.882791,
+                        46.627351
+                  ]
+            },
+            {
+                  "name": "Korsakovskii el'nik",
+                  "text": "Ein 1980 gegründetes Fichten-Naturschutzgebiet zur Erhaltung der einheimischen Nadelbäume Sachalins.",
+                  "category": "natural",
+                  "coords": [
+                        142.899237,
+                        46.645722
+                  ]
+            },
+            {
+                  "name": "dom kul'tury \"Okean\"",
+                  "text": "Ein zentrales Gemeindezentrum in Korsakow für Theater, Tanz und lokale Kunstausstellungen.",
+                  "category": "cultural",
+                  "coords": [
+                        142.783951,
+                        46.635734
+                  ]
+            },
+            {
+                  "name": "dom tvorchestva",
+                  "text": "Ein örtliches Kunstzentrum, das sich der Jugendbildung und regionalen Handwerksworkshops widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        142.783831,
+                        46.634399
+                  ]
+            },
+            {
+                  "name": "rynok",
+                  "text": "Ein traditioneller Markt, auf dem Einheimische mit Meeresfrüchten und saisonalen Waren handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        142.781441,
+                        46.628546
+                  ]
+            },
+            {
+                  "name": "ovoshchnoi rynok",
+                  "text": "Ein spezialisierter lokaler Markt für frisches Gemüse und Erzeugnisse regionaler Bauernhöfe.",
+                  "category": "cultural",
+                  "coords": [
+                        142.781467,
+                        46.633729
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Voenno-patrioticheskii park \"Patriot\"",
+                  "text": "Szabadtéri múzeum, amely szovjet és orosz haditechnikát és történelmi kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        142.814316,
+                        46.628063
+                  ]
+            },
+            {
+                  "name": "Iaponskii shkol'nyi pavil'on",
+                  "text": "Egy Karafuto-korszakbeli japán iskolaépület építészeti maradványa.",
+                  "category": "landmark",
+                  "coords": [
+                        142.788088,
+                        46.645903
+                  ]
+            },
+            {
+                  "name": "Iunony",
+                  "text": "Kilátópont, ahonnan panorámás kilátás nyílik az Aniva-öbölre és a hatalmas földgázüzemre.",
+                  "category": "natural",
+                  "coords": [
+                        142.969306,
+                        46.628506
+                  ]
+            },
+            {
+                  "name": "Pliazh Prigorodnyi",
+                  "text": "Homokos tengerparti szakasz az Aniva-öbölben, népszerű nyári pihenőhely Korszakov közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        142.882791,
+                        46.627351
+                  ]
+            },
+            {
+                  "name": "Korsakovskii el'nik",
+                  "text": "1980-ban alapított fenyőerdő-rezervátum, amely Szahalin őshonos tűlevelű flóráját védi.",
+                  "category": "natural",
+                  "coords": [
+                        142.899237,
+                        46.645722
+                  ]
+            },
+            {
+                  "name": "dom kul'tury \"Okean\"",
+                  "text": "Korszakov központi közösségi csomópontja színházi, táncos és művészeti eseményekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        142.783951,
+                        46.635734
+                  ]
+            },
+            {
+                  "name": "dom tvorchestva",
+                  "text": "Helyi művészeti központ, amely ifjúsági oktatással és kézműves foglalkozásokkal foglalkozik.",
+                  "category": "cultural",
+                  "coords": [
+                        142.783831,
+                        46.634399
+                  ]
+            },
+            {
+                  "name": "rynok",
+                  "text": "Hagyományos városi piac, ahol szahalini tengeri ételeket és szezonális termékeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        142.781441,
+                        46.628546
+                  ]
+            },
+            {
+                  "name": "ovoshchnoi rynok",
+                  "text": "Friss zöldségekre és a régió mezőgazdasági termékeire szakosodott helyi piac.",
+                  "category": "cultural",
+                  "coords": [
+                        142.781467,
+                        46.633729
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Voenno-patrioticheskii park \"Patriot\"",
+                  "text": "Un muzeu în aer liber care expune tehnică militară sovietică și rusă și exponate istorice.",
+                  "category": "museum",
+                  "coords": [
+                        142.814316,
+                        46.628063
+                  ]
+            },
+            {
+                  "name": "Iaponskii shkol'nyi pavil'on",
+                  "text": "O rămășiță arhitecturală din piatră a unei clădiri școlare japoneze din epoca Karafuto.",
+                  "category": "landmark",
+                  "coords": [
+                        142.788088,
+                        46.645903
+                  ]
+            },
+            {
+                  "name": "Iunony",
+                  "text": "Un punct de belvedere ce oferă vederi panoramice asupra golfului Aniva și a masivei uzine de GNL.",
+                  "category": "natural",
+                  "coords": [
+                        142.969306,
+                        46.628506
+                  ]
+            },
+            {
+                  "name": "Pliazh Prigorodnyi",
+                  "text": "O fâșie de coastă nisipoasă în golful Aniva, populară pentru recreere estivală lângă Korsakov.",
+                  "category": "recreational",
+                  "coords": [
+                        142.882791,
+                        46.627351
+                  ]
+            },
+            {
+                  "name": "Korsakovskii el'nik",
+                  "text": "O rezervație de pădure de molid înființată în 1980 pentru a proteja flora nativă de conifere.",
+                  "category": "natural",
+                  "coords": [
+                        142.899237,
+                        46.645722
+                  ]
+            },
+            {
+                  "name": "dom kul'tury \"Okean\"",
+                  "text": "Un centru comunitar central din Korsakov ce găzduiește teatru, dans și expoziții de artă locale.",
+                  "category": "cultural",
+                  "coords": [
+                        142.783951,
+                        46.635734
+                  ]
+            },
+            {
+                  "name": "dom tvorchestva",
+                  "text": "Un centru de artă local dedicat educației tineretului și atelierelor de meșteșuguri regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        142.783831,
+                        46.634399
+                  ]
+            },
+            {
+                  "name": "rynok",
+                  "text": "O piață municipală tradițională unde localnicii vând fructe de mare din Sahalin și produse sezoniere.",
+                  "category": "cultural",
+                  "coords": [
+                        142.781441,
+                        46.628546
+                  ]
+            },
+            {
+                  "name": "ovoshchnoi rynok",
+                  "text": "O piață locală specializată, concentrată pe legume proaspete și produse agricole regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        142.781467,
+                        46.633729
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Voenno-patrioticheskii park \"Patriot\"",
+                  "text": "An outdoor museum displaying Soviet and Russian military hardware and historical exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        142.814316,
+                        46.628063
+                  ]
+            },
+            {
+                  "name": "Iaponskii shkol'nyi pavil'on",
+                  "text": "An architectural remnant of a Japanese school building from the Karafuto era.",
+                  "category": "landmark",
+                  "coords": [
+                        142.788088,
+                        46.645903
+                  ]
+            },
+            {
+                  "name": "Iunony",
+                  "text": "A scenic lookout point offering panoramic views of Aniva Bay and the massive LNG plant.",
+                  "category": "natural",
+                  "coords": [
+                        142.969306,
+                        46.628506
+                  ]
+            },
+            {
+                  "name": "Pliazh Prigorodnyi",
+                  "text": "A sandy coastal stretch on Aniva Bay popular for summer recreation near Korsakov.",
+                  "category": "recreational",
+                  "coords": [
+                        142.882791,
+                        46.627351
+                  ]
+            },
+            {
+                  "name": "Korsakovskii el'nik",
+                  "text": "A protected spruce forest reserve established in 1980 to preserve Sakhalin's native coniferous flora.",
+                  "category": "natural",
+                  "coords": [
+                        142.899237,
+                        46.645722
+                  ]
+            },
+            {
+                  "name": "dom kul'tury \"Okean\"",
+                  "text": "A central community hub hosting theatre, dance, and local art exhibitions in Korsakov.",
+                  "category": "cultural",
+                  "coords": [
+                        142.783951,
+                        46.635734
+                  ]
+            },
+            {
+                  "name": "dom tvorchestva",
+                  "text": "A local arts centre dedicated to youth education and regional handicraft workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        142.783831,
+                        46.634399
+                  ]
+            },
+            {
+                  "name": "rynok",
+                  "text": "A traditional municipal market where locals trade Sakhalin seafood and seasonal goods.",
+                  "category": "cultural",
+                  "coords": [
+                        142.781441,
+                        46.628546
+                  ]
+            },
+            {
+                  "name": "ovoshchnoi rynok",
+                  "text": "A specialised local market focused on fresh vegetables and regional farm products.",
+                  "category": "cultural",
+                  "coords": [
+                        142.781467,
+                        46.633729
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "industry",
     name: { de: "Sakhalin-2 LNG-Anlage", hu: "Szahalin-2 LNG-üzem", ro: "Instalația GNL Sahalin-2", en: "Sakhalin-2 LNG Plant"},
@@ -1372,7 +10291,124 @@ imageHint: "LNG storage tanks and shipping terminal on Sakhalin Island",
     },
     image: "/poi-images/russia-sakhalin-2-lng-economic-v2.webp",
 },  {
-    id: "russia-bilibino-nuclear-economic-v2",
+    id: "russia-bilibino-nuclear-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kraevedcheskii muzei",
+                  "text": "Das Heimatmuseum von Bilibino dokumentiert die Geschichte des Goldabbaus in der Region und die Entwicklung des nahegelegenen Kernkraftwerks.",
+                  "category": "museum",
+                  "coords": [
+                        166.451674,
+                        68.054405
+                  ]
+            },
+            {
+                  "name": "Orbita",
+                  "text": "Dieser Aussichtspunkt in Bilibino bietet weite Blicke auf das umliegende Kolyma-Gebirge und die industrielle Infrastruktur der abgelegenen Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        166.439966,
+                        68.075186
+                  ]
+            },
+            {
+                  "name": "Dom kul'tury",
+                  "text": "Als kulturelles Zentrum von Bilibino veranstaltet dieses Theater lokale Aufführungen und Gemeindeveranstaltungen im extremen nordischen Klima.",
+                  "category": "cultural",
+                  "coords": [
+                        166.455427,
+                        68.056821
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kraevedcheskii muzei",
+                  "text": "Bilibino helytörténeti múzeuma a régió aranybányászati örökségét és a közeli atomerőmű fejlesztését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        166.451674,
+                        68.054405
+                  ]
+            },
+            {
+                  "name": "Orbita",
+                  "text": "A Bilibinóban található kilátópontról pazar kilátás nyílik a környező Kolima-hegységre és a távoli város ipari létesítményeire.",
+                  "category": "natural",
+                  "coords": [
+                        166.439966,
+                        68.075186
+                  ]
+            },
+            {
+                  "name": "Dom kul'tury",
+                  "text": "Bilibino kulturális központjaként ez a színház helyi előadásoknak és közösségi eseményeknek ad otthont az extrém északi éghajlaton.",
+                  "category": "cultural",
+                  "coords": [
+                        166.455427,
+                        68.056821
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kraevedcheskii muzei",
+                  "text": "Muzeul de istorie locală din Bilibino detaliază moștenirea minieră de aur a regiunii și dezvoltarea centralei nucleare din apropiere.",
+                  "category": "museum",
+                  "coords": [
+                        166.451674,
+                        68.054405
+                  ]
+            },
+            {
+                  "name": "Orbita",
+                  "text": "Situat în Bilibino, acest punct de belvedere oferă o panoramă asupra munților Kolyma înconjurători și a infrastructurii industriale a orașului izolat.",
+                  "category": "natural",
+                  "coords": [
+                        166.439966,
+                        68.075186
+                  ]
+            },
+            {
+                  "name": "Dom kul'tury",
+                  "text": "Servind drept centru cultural pentru Bilibino, acest teatru găzduiește spectacole locale și evenimente comunitare în climatul extrem nordic.",
+                  "category": "cultural",
+                  "coords": [
+                        166.455427,
+                        68.056821
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kraevedcheskii muzei",
+                  "text": "Bilibino's local history museum details the region's gold mining heritage and the development of the nearby nuclear power plant.",
+                  "category": "museum",
+                  "coords": [
+                        166.451674,
+                        68.054405
+                  ]
+            },
+            {
+                  "name": "Orbita",
+                  "text": "Situated in Bilibino, this viewpoint offers sweeping views of the surrounding Kolyma mountains and the remote town's industrial infrastructure.",
+                  "category": "natural",
+                  "coords": [
+                        166.439966,
+                        68.075186
+                  ]
+            },
+            {
+                  "name": "Dom kul'tury",
+                  "text": "Serving as Bilibino's cultural hub, this theater hosts local performances and community events in the extreme northern climate.",
+                  "category": "cultural",
+                  "coords": [
+                        166.455427,
+                        68.056821
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "industry",
     name: { de: "Kernkraftwerk Bilibino", hu: "Bilibinói atomerőmű", ro: "Centrala nucleară Bilibino", en: "Bilibino Nuclear Power Plant"},
@@ -1510,7 +10546,736 @@ imageHint: "Bilibino nuclear power plant in the snowy Arctic tundra",
     image: "/poi-images/russia-tolyatti-avto-economic-v2.webp",
   },
   {
-    id: "russia-salekhard-arctic-port-economic-v2",
+    id: "russia-salekhard-arctic-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "DK Rybnik",
+                  "text": "Ein bedeutendes lokales Theater und Kulturzentrum in der arktischen Stadt Salechard.",
+                  "category": "cultural",
+                  "coords": [
+                        66.583402,
+                        66.544013
+                  ]
+            },
+            {
+                  "name": "Iak-40",
+                  "text": "Ein als Denkmal aufgestelltes Jak-40-Flugzeug, das die Bedeutung der Polarluftfahrt würdigt.",
+                  "category": "landmark",
+                  "coords": [
+                        66.571655,
+                        66.585886
+                  ]
+            },
+            {
+                  "name": "Poliarnyi Krug",
+                  "text": "Diese Stele markiert den Breitengrad des Polarkreises, der direkt durch Salechard verläuft.",
+                  "category": "landmark",
+                  "coords": [
+                        66.626363,
+                        66.550998
+                  ]
+            },
+            {
+                  "name": "BTR-60",
+                  "text": "Ein sowjetischer Schützenpanzerwagen BTR-60, der als Teil einer Freilichtausstellung für Militärtechnik ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        66.607755,
+                        66.545218
+                  ]
+            },
+            {
+                  "name": "ZIS-2",
+                  "text": "Diese 57-mm-Panzerabwehrkanone ZIS-2 erinnert an die militärische Geschichte des 20. Jahrhunderts.",
+                  "category": "landmark",
+                  "coords": [
+                        66.604907,
+                        66.544883
+                  ]
+            },
+            {
+                  "name": "MiG-27D",
+                  "text": "Ein ausgestelltes MiG-27D-Jagdbombenflugzeug, ein markantes Beispiel sowjetischer Luftfahrttechnik.",
+                  "category": "landmark",
+                  "coords": [
+                        66.606144,
+                        66.54366
+                  ]
+            },
+            {
+                  "name": "Su-22M4",
+                  "text": "Dieses Kampfflugzeug vom Typ Su-22M4 ist als technisches Monument im Freien zu besichtigen.",
+                  "category": "landmark",
+                  "coords": [
+                        66.608713,
+                        66.544275
+                  ]
+            },
+            {
+                  "name": "Byvshee zdanie teatra 501-i stroiki",
+                  "text": "Dieses historische Gebäude gehörte zum Theater des berüchtigten Eisenbahnprojekts 501 aus der Stalin-Ära.",
+                  "category": "landmark",
+                  "coords": [
+                        66.641287,
+                        66.52867
+                  ]
+            },
+            {
+                  "name": "Muzei Iuriia Neiolova",
+                  "text": "Ein Museum, das dem Leben und Wirken von Juri Nejclow, einem ehemaligen Gouverneur der Region, gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        66.63892,
+                        66.526925
+                  ]
+            },
+            {
+                  "name": "Kul'turno-delovoi tsentr",
+                  "text": "Ein modernes Zentrum für kulturelle Veranstaltungen und Geschäftstreffen in Salechard.",
+                  "category": "cultural",
+                  "coords": [
+                        66.608785,
+                        66.534774
+                  ]
+            },
+            {
+                  "name": "Okruzhnoi tsentr natsional'nykh kul'tur",
+                  "text": "Dieses Theater widmet sich der Bewahrung und Präsentation der vielfältigen nationalen Kulturen der Region.",
+                  "category": "cultural",
+                  "coords": [
+                        66.624851,
+                        66.529195
+                  ]
+            },
+            {
+                  "name": "Sezonnyi ledovyi gorodok",
+                  "text": "Ein winterlicher Vergnügungspark mit aufwendigen Skulpturen und Gebäuden aus Eis.",
+                  "category": "landmark",
+                  "coords": [
+                        66.625066,
+                        66.536278
+                  ]
+            },
+            {
+                  "name": "Vystavochnyi tsentr im. Shemanovskogo",
+                  "text": "Ein Informationszentrum und Museum, das Einblicke in die lokale Geschichte und Traditionen bietet.",
+                  "category": "museum",
+                  "coords": [
+                        66.607011,
+                        66.536051
+                  ]
+            },
+            {
+                  "name": "Staryi obdorskii dom",
+                  "text": "Ein seltenes Beispiel für die traditionelle Holzarchitektur des alten Obdorsk aus der Siedlungszeit.",
+                  "category": "historical",
+                  "coords": [
+                        66.589377,
+                        66.52575
+                  ]
+            },
+            {
+                  "name": "Park pobedy",
+                  "text": "Ein Freilichtmuseum am Polarkreis, das militärische Ausrüstung und Denkmäler zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        66.606418,
+                        66.545081
+                  ]
+            },
+            {
+                  "name": "Ostrog ili Gorod masterov",
+                  "text": "Eine hölzerne Rekonstruktion der Obdorsk-Festung aus dem 16. Jahrhundert mit traditionellen Wachtürmen.",
+                  "category": "museum",
+                  "coords": [
+                        66.588826,
+                        66.522272
+                  ]
+            },
+            {
+                  "name": "Tserkov' Petra i Pavla",
+                  "text": "Diese 1894 erbaute Kirche ist die einzige Steinkirche des 19. Jahrhunderts in der Region Jamal.",
+                  "category": "landmark",
+                  "coords": [
+                        66.591724,
+                        66.524761
+                  ]
+            },
+            {
+                  "name": "Preobrazheniia Gospodnia",
+                  "text": "Eine moderne orthodoxe Kathedrale mit blauen Kuppeln, die als geistliches Zentrum in Salechard dient.",
+                  "category": "landmark",
+                  "coords": [
+                        66.623929,
+                        66.539435
+                  ]
+            },
+            {
+                  "name": "Molel'nyi dom baptistov",
+                  "text": "Ein bescheidenes christliches Gebetshaus für die örtliche Baptistengemeinde in der Arktisstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        66.6123,
+                        66.533153
+                  ]
+            },
+            {
+                  "name": "Dary Iamala",
+                  "text": "Ein lokaler Marktplatz, bekannt für arktische Delikatessen wie Rentierfleisch und nördlichen Fisch.",
+                  "category": "cultural",
+                  "coords": [
+                        66.606842,
+                        66.535132
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "DK Rybnik",
+                  "text": "Jelentős helyi színház és kulturális központ az arktiszi Szalehard városában.",
+                  "category": "cultural",
+                  "coords": [
+                        66.583402,
+                        66.544013
+                  ]
+            },
+            {
+                  "name": "Iak-40",
+                  "text": "Emlékműként felállított Jak-40-es repülőgép, amely a sarki repülés jelentősége előtt tiszteleg.",
+                  "category": "landmark",
+                  "coords": [
+                        66.571655,
+                        66.585886
+                  ]
+            },
+            {
+                  "name": "Poliarnyi Krug",
+                  "text": "Ez a sztélé jelzi az északi sarkkör szélességi körét, amely közvetlenül átszeli Szalehardot.",
+                  "category": "landmark",
+                  "coords": [
+                        66.626363,
+                        66.550998
+                  ]
+            },
+            {
+                  "name": "BTR-60",
+                  "text": "Egy szovjet BTR-60-as páncélozott szállító jármű, amelyet egy szabadtéri haditechnikai kiállítás részeként állítottak ki.",
+                  "category": "landmark",
+                  "coords": [
+                        66.607755,
+                        66.545218
+                  ]
+            },
+            {
+                  "name": "ZIS-2",
+                  "text": "Ez a ZISZ-2-es 57 mm-es páncéltörő ágyú a 20. század hadi történelmére emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        66.604907,
+                        66.544883
+                  ]
+            },
+            {
+                  "name": "MiG-27D",
+                  "text": "Kiállított MiG-27D vadászbombázó repülőgép, a szovjet repüléstechnika markáns példája.",
+                  "category": "landmark",
+                  "coords": [
+                        66.606144,
+                        66.54366
+                  ]
+            },
+            {
+                  "name": "Su-22M4",
+                  "text": "Ez a Szu-22M4 típusú vadászgép szabadtéri technikai műemlékként tekinthető meg.",
+                  "category": "landmark",
+                  "coords": [
+                        66.608713,
+                        66.544275
+                  ]
+            },
+            {
+                  "name": "Byvshee zdanie teatra 501-i stroiki",
+                  "text": "Ez a történelmi épület a sztálini korszak hírhedt 501-es vasútépítési projektjének színházához tartozott.",
+                  "category": "landmark",
+                  "coords": [
+                        66.641287,
+                        66.52867
+                  ]
+            },
+            {
+                  "name": "Muzei Iuriia Neiolova",
+                  "text": "Múzeum, amelyet a régió korábbi kormányzója, Jurij Nyejolov életének és munkásságának szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        66.63892,
+                        66.526925
+                  ]
+            },
+            {
+                  "name": "Kul'turno-delovoi tsentr",
+                  "text": "Modern központ kulturális rendezvények és üzleti találkozók számára Szalehardban.",
+                  "category": "cultural",
+                  "coords": [
+                        66.608785,
+                        66.534774
+                  ]
+            },
+            {
+                  "name": "Okruzhnoi tsentr natsional'nykh kul'tur",
+                  "text": "Ez a színház a régió sokszínű nemzeti kultúráinak megőrzésének és bemutatásának szenteli magát.",
+                  "category": "cultural",
+                  "coords": [
+                        66.624851,
+                        66.529195
+                  ]
+            },
+            {
+                  "name": "Sezonnyi ledovyi gorodok",
+                  "text": "Téli vidámpark látványos jégszobrokkal és jégből készült építményekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        66.625066,
+                        66.536278
+                  ]
+            },
+            {
+                  "name": "Vystavochnyi tsentr im. Shemanovskogo",
+                  "text": "Információs központ és múzeum, amely betekintést nyújt a helyi történelembe és hagyományokba.",
+                  "category": "museum",
+                  "coords": [
+                        66.607011,
+                        66.536051
+                  ]
+            },
+            {
+                  "name": "Staryi obdorskii dom",
+                  "text": "A régi Obdorszk hagyományos faépítészetének ritka példája a betelepülés korából.",
+                  "category": "historical",
+                  "coords": [
+                        66.589377,
+                        66.52575
+                  ]
+            },
+            {
+                  "name": "Park pobedy",
+                  "text": "Szabadtéri múzeum katonai felszerelésekkel és emlékművekkel a sarkkör közelében.",
+                  "category": "museum",
+                  "coords": [
+                        66.606418,
+                        66.545081
+                  ]
+            },
+            {
+                  "name": "Ostrog ili Gorod masterov",
+                  "text": "A 16. századi Obdorszk erőd fa rekonstrukciója hagyományos őrtornyokkal.",
+                  "category": "museum",
+                  "coords": [
+                        66.588826,
+                        66.522272
+                  ]
+            },
+            {
+                  "name": "Tserkov' Petra i Pavla",
+                  "text": "Ez az 1894-ben épült templom az egyetlen 19. századi kőtemplom a Jamal-vidéken.",
+                  "category": "landmark",
+                  "coords": [
+                        66.591724,
+                        66.524761
+                  ]
+            },
+            {
+                  "name": "Preobrazheniia Gospodnia",
+                  "text": "Modern ortodox székesegyház kék kupolákkal, Szalehard szellemi központja.",
+                  "category": "landmark",
+                  "coords": [
+                        66.623929,
+                        66.539435
+                  ]
+            },
+            {
+                  "name": "Molel'nyi dom baptistov",
+                  "text": "Szerény keresztény imaház a helyi baptista közösség számára az északi városban.",
+                  "category": "landmark",
+                  "coords": [
+                        66.6123,
+                        66.533153
+                  ]
+            },
+            {
+                  "name": "Dary Iamala",
+                  "text": "Helyi piac, amely olyan északi különlegességekről hírt, mint a rénszarvashús és a tavi halak.",
+                  "category": "cultural",
+                  "coords": [
+                        66.606842,
+                        66.535132
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "DK Rybnik",
+                  "text": "Un teatru local important și centru cultural în orașul arctic Salehard.",
+                  "category": "cultural",
+                  "coords": [
+                        66.583402,
+                        66.544013
+                  ]
+            },
+            {
+                  "name": "Iak-40",
+                  "text": "Un avion Iak-40 expus ca monument, onorând importanța aviației polare.",
+                  "category": "landmark",
+                  "coords": [
+                        66.571655,
+                        66.585886
+                  ]
+            },
+            {
+                  "name": "Poliarnyi Krug",
+                  "text": "Această stelă marchează latitudinea Cercului Polar, care trece chiar prin Salehard.",
+                  "category": "landmark",
+                  "coords": [
+                        66.626363,
+                        66.550998
+                  ]
+            },
+            {
+                  "name": "BTR-60",
+                  "text": "Un transportor blindat sovietic BTR-60, expus ca parte a unei expoziții în aer liber de tehnică militară.",
+                  "category": "landmark",
+                  "coords": [
+                        66.607755,
+                        66.545218
+                  ]
+            },
+            {
+                  "name": "ZIS-2",
+                  "text": "Acest tun antitanc ZIS-2 de 57 mm amintește de istoria militară a secolului XX.",
+                  "category": "landmark",
+                  "coords": [
+                        66.604907,
+                        66.544883
+                  ]
+            },
+            {
+                  "name": "MiG-27D",
+                  "text": "Un avion de vânătoare-bombardament MiG-27D expus, un exemplu marcant al tehnologiei aviatice sovietice.",
+                  "category": "landmark",
+                  "coords": [
+                        66.606144,
+                        66.54366
+                  ]
+            },
+            {
+                  "name": "Su-22M4",
+                  "text": "Acest avion de luptă de tip Su-22M4 poate fi vizitat ca monument tehnic în aer liber.",
+                  "category": "landmark",
+                  "coords": [
+                        66.608713,
+                        66.544275
+                  ]
+            },
+            {
+                  "name": "Byvshee zdanie teatra 501-i stroiki",
+                  "text": "Această clădire istorică a aparținut teatrului infamului proiect feroviar 501 din epoca stalinistă.",
+                  "category": "landmark",
+                  "coords": [
+                        66.641287,
+                        66.52867
+                  ]
+            },
+            {
+                  "name": "Muzei Iuriia Neiolova",
+                  "text": "Un muzeu dedicat vieții și activității lui Iuri Neiolov, fost guvernator al regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        66.63892,
+                        66.526925
+                  ]
+            },
+            {
+                  "name": "Kul'turno-delovoi tsentr",
+                  "text": "Un centru modern pentru evenimente culturale și întâlniri de afaceri în Salehard.",
+                  "category": "cultural",
+                  "coords": [
+                        66.608785,
+                        66.534774
+                  ]
+            },
+            {
+                  "name": "Okruzhnoi tsentr natsional'nykh kul'tur",
+                  "text": "Acest teatru este dedicat conservării și prezentării diverselor culturi naționale din regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        66.624851,
+                        66.529195
+                  ]
+            },
+            {
+                  "name": "Sezonnyi ledovyi gorodok",
+                  "text": "Un parc de distracții de iarnă cu sculpturi elaborate și clădiri realizate din gheață.",
+                  "category": "landmark",
+                  "coords": [
+                        66.625066,
+                        66.536278
+                  ]
+            },
+            {
+                  "name": "Vystavochnyi tsentr im. Shemanovskogo",
+                  "text": "Un centru de informare și muzeu care oferă perspective asupra istoriei și tradițiilor locale.",
+                  "category": "museum",
+                  "coords": [
+                        66.607011,
+                        66.536051
+                  ]
+            },
+            {
+                  "name": "Staryi obdorskii dom",
+                  "text": "Un exemplu rar de arhitectură tradițională din lemn a vechiului Obdorsk din perioada colonizării.",
+                  "category": "historical",
+                  "coords": [
+                        66.589377,
+                        66.52575
+                  ]
+            },
+            {
+                  "name": "Park pobedy",
+                  "text": "Un muzeu în aer liber care expune echipament militar și monumente lângă Cercul Polar.",
+                  "category": "museum",
+                  "coords": [
+                        66.606418,
+                        66.545081
+                  ]
+            },
+            {
+                  "name": "Ostrog ili Gorod masterov",
+                  "text": "O reconstrucție din lemn a cetății Obdorsk din secolul al XVI-lea, cu turnuri de veghe tradiționale.",
+                  "category": "museum",
+                  "coords": [
+                        66.588826,
+                        66.522272
+                  ]
+            },
+            {
+                  "name": "Tserkov' Petra i Pavla",
+                  "text": "Construită în 1894, aceasta este singura biserică de piatră din secolul al XIX-lea din regiunea Iamal.",
+                  "category": "landmark",
+                  "coords": [
+                        66.591724,
+                        66.524761
+                  ]
+            },
+            {
+                  "name": "Preobrazheniia Gospodnia",
+                  "text": "O catedrală ortodoxă modernă cu cupole albastre, servind ca centru spiritual în Salehard.",
+                  "category": "landmark",
+                  "coords": [
+                        66.623929,
+                        66.539435
+                  ]
+            },
+            {
+                  "name": "Molel'nyi dom baptistov",
+                  "text": "O casă de rugăciune creștină modestă pentru comunitatea baptistă locală din orașul arctic.",
+                  "category": "landmark",
+                  "coords": [
+                        66.6123,
+                        66.533153
+                  ]
+            },
+            {
+                  "name": "Dary Iamala",
+                  "text": "O piață locală renumită pentru vânzarea deliciilor arctice, cum ar fi carnea de ren și peștele nordic.",
+                  "category": "cultural",
+                  "coords": [
+                        66.606842,
+                        66.535132
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "DK Rybnik",
+                  "text": "A prominent local theatre and cultural hub in the Arctic city of Salekhard.",
+                  "category": "cultural",
+                  "coords": [
+                        66.583402,
+                        66.544013
+                  ]
+            },
+            {
+                  "name": "Iak-40",
+                  "text": "A Yak-40 aircraft displayed as a monument, honoring the importance of polar aviation.",
+                  "category": "landmark",
+                  "coords": [
+                        66.571655,
+                        66.585886
+                  ]
+            },
+            {
+                  "name": "Poliarnyi Krug",
+                  "text": "This stele marks the latitude of the Arctic Circle, which passes directly through Salekhard.",
+                  "category": "landmark",
+                  "coords": [
+                        66.626363,
+                        66.550998
+                  ]
+            },
+            {
+                  "name": "BTR-60",
+                  "text": "A Soviet BTR-60 armored personnel carrier displayed as part of an open-air military technology exhibit.",
+                  "category": "landmark",
+                  "coords": [
+                        66.607755,
+                        66.545218
+                  ]
+            },
+            {
+                  "name": "ZIS-2",
+                  "text": "This ZIS-2 57mm anti-tank gun commemorates 20th-century military history.",
+                  "category": "landmark",
+                  "coords": [
+                        66.604907,
+                        66.544883
+                  ]
+            },
+            {
+                  "name": "MiG-27D",
+                  "text": "An exhibited MiG-27D fighter-bomber jet, a striking example of Soviet aviation technology.",
+                  "category": "landmark",
+                  "coords": [
+                        66.606144,
+                        66.54366
+                  ]
+            },
+            {
+                  "name": "Su-22M4",
+                  "text": "This Su-22M4 fighter jet is on display as an open-air technical monument.",
+                  "category": "landmark",
+                  "coords": [
+                        66.608713,
+                        66.544275
+                  ]
+            },
+            {
+                  "name": "Byvshee zdanie teatra 501-i stroiki",
+                  "text": "This historic building belonged to the theatre of the notorious Stalin-era '501 construction' railway project.",
+                  "category": "landmark",
+                  "coords": [
+                        66.641287,
+                        66.52867
+                  ]
+            },
+            {
+                  "name": "Muzei Iuriia Neiolova",
+                  "text": "A museum dedicated to the life and work of Yuri Neyelov, a former governor of the region.",
+                  "category": "museum",
+                  "coords": [
+                        66.63892,
+                        66.526925
+                  ]
+            },
+            {
+                  "name": "Kul'turno-delovoi tsentr",
+                  "text": "A modern center for cultural events and business meetings in Salekhard.",
+                  "category": "cultural",
+                  "coords": [
+                        66.608785,
+                        66.534774
+                  ]
+            },
+            {
+                  "name": "Okruzhnoi tsentr natsional'nykh kul'tur",
+                  "text": "This theatre is dedicated to preserving and showcasing the diverse national cultures of the region.",
+                  "category": "cultural",
+                  "coords": [
+                        66.624851,
+                        66.529195
+                  ]
+            },
+            {
+                  "name": "Sezonnyi ledovyi gorodok",
+                  "text": "A winter amusement park featuring elaborate sculptures and buildings made of ice.",
+                  "category": "landmark",
+                  "coords": [
+                        66.625066,
+                        66.536278
+                  ]
+            },
+            {
+                  "name": "Posetit'",
+                  "text": "An information center and museum providing insights into local history and traditions.",
+                  "category": "museum",
+                  "coords": [
+                        66.607011,
+                        66.536051
+                  ]
+            },
+            {
+                  "name": "Staryi obdorskii dom",
+                  "text": "A rare example of traditional wooden architecture from old Obdorsk dating back to the settlement era.",
+                  "category": "historical",
+                  "coords": [
+                        66.589377,
+                        66.52575
+                  ]
+            },
+            {
+                  "name": "Park pobedy",
+                  "text": "An open-air museum displaying military equipment and memorials near the Arctic Circle.",
+                  "category": "museum",
+                  "coords": [
+                        66.606418,
+                        66.545081
+                  ]
+            },
+            {
+                  "name": "Ostrog ili Gorod masterov",
+                  "text": "A wooden reconstruction of the 16th-century Obdorsk fortress with traditional watchtowers.",
+                  "category": "museum",
+                  "coords": [
+                        66.588826,
+                        66.522272
+                  ]
+            },
+            {
+                  "name": "Tserkov' Petra i Pavla",
+                  "text": "Built in 1894, this is the only 19th-century stone church standing in the Yamal region.",
+                  "category": "landmark",
+                  "coords": [
+                        66.591724,
+                        66.524761
+                  ]
+            },
+            {
+                  "name": "Preobrazheniia Gospodnia",
+                  "text": "A modern Orthodox cathedral with blue domes, serving as a spiritual center in Salekhard.",
+                  "category": "landmark",
+                  "coords": [
+                        66.623929,
+                        66.539435
+                  ]
+            },
+            {
+                  "name": "Molel'nyi dom baptistov",
+                  "text": "A modest Christian prayer house for the local Baptist community in the Arctic city.",
+                  "category": "landmark",
+                  "coords": [
+                        66.6123,
+                        66.533153
+                  ]
+            },
+            {
+                  "name": "Dary Iamala",
+                  "text": "A local marketplace famous for selling Arctic delicacies like reindeer meat and northern fish.",
+                  "category": "cultural",
+                  "coords": [
+                        66.606842,
+                        66.535132
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "RU",
     name: { de: "Hafen Salekhard", hu: "Szalehardi kikötő", ro: "Portul Salekhard", en: "Port of Salekhard" },

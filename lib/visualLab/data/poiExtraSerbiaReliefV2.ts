@@ -250,7 +250,7 @@ export const serbiaReliefV2: POI[] = [
             },
             {
                   "name": "Panchitshev vrkh",
-                  "text": "Der höchste Gipfel des Kopaonik-Gebirges in Serbien.",
+                  "text": "Panchichev vrh ist der höchste Gipfel des Kopaonik-Gebirges.",
                   "category": "landmark",
                   "coords": [
                         20.823663,
@@ -259,7 +259,7 @@ export const serbiaReliefV2: POI[] = [
             },
             {
                   "name": "Obelisk",
-                  "text": "Ein Denkmal auf dem Pančićev vrh.",
+                  "text": "Der Obelisk auf dem Pančić-Gipfel (2017 m) markiert den höchsten Punkt des Kopaonik-Gebirges.",
                   "category": "historical",
                   "coords": [
                         20.818674,
@@ -279,7 +279,7 @@ export const serbiaReliefV2: POI[] = [
             },
             {
                   "name": "Panchitshev vrkh",
-                  "text": "A szerbiai Kopaonik-hegység legmagasabb csúcsa.",
+                  "text": "A Panchichev vrh a Kopaonik-hegység legmagasabb csúcsa.",
                   "category": "landmark",
                   "coords": [
                         20.823663,
@@ -288,7 +288,7 @@ export const serbiaReliefV2: POI[] = [
             },
             {
                   "name": "Obelisk",
-                  "text": "Emlékmű a Pančićev vrh csúcson.",
+                  "text": "A Pančić-csúcson (2017 m) lévő obeliszk a Kopaonik-hegység legmagasabb pontját jelöli.",
                   "category": "historical",
                   "coords": [
                         20.818674,
@@ -308,7 +308,7 @@ export const serbiaReliefV2: POI[] = [
             },
             {
                   "name": "Panchitshev vrkh",
-                  "text": "Cel mai înalt vârf din munții Kopaonik din Serbia.",
+                  "text": "Panchichev vrh este cel mai înalt vârf al masivului Kopaonik.",
                   "category": "landmark",
                   "coords": [
                         20.823663,
@@ -317,7 +317,7 @@ export const serbiaReliefV2: POI[] = [
             },
             {
                   "name": "Obelisk",
-                  "text": "Un monument pe vârful Pančićev.",
+                  "text": "Obeliscul de pe Vârful Pančić (2017 m) marchează cel mai înalt punct al Munților Kopaonik.",
                   "category": "historical",
                   "coords": [
                         20.818674,
@@ -337,7 +337,7 @@ export const serbiaReliefV2: POI[] = [
             },
             {
                   "name": "Panchichev vrh",
-                  "text": "The highest peak of the Kopaonik Mountains in Serbia.",
+                  "text": "Panchichev vrh is the highest peak of the Kopaonik mountain range.",
                   "category": "landmark",
                   "coords": [
                         20.823663,
@@ -346,7 +346,7 @@ export const serbiaReliefV2: POI[] = [
             },
             {
                   "name": "Obelisk",
-                  "text": "A monument on the Pančić Peak.",
+                  "text": "The obelisk on Pančić Peak (2017 m) marks the highest point of the Kopaonik Mountains.",
                   "category": "historical",
                   "coords": [
                         20.818674,
@@ -610,7 +610,7 @@ export const serbiaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Crkva",
-                  "text": "Die Ruinen einer alten Kirche auf dem Vince Peak.",
+                  "text": "Die Crkva (Kirche) steht auf dem Vince-Gipfel im Kopaonik-Gebirge.",
                   "category": "historical",
                   "coords": [
                         22.362944,
@@ -621,7 +621,7 @@ export const serbiaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Crkva",
-                  "text": "Egy régi templom romjai a Vince-csúcson.",
+                  "text": "A Crkva (templom) a Vince-csúcson található a Kopaonik-hegységben.",
                   "category": "historical",
                   "coords": [
                         22.362944,
@@ -632,7 +632,7 @@ export const serbiaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Crkva",
-                  "text": "Ruinele unei vechi biserici situate pe vârful Vince.",
+                  "text": "Biserica (Crkva) se află pe Vârful Vince în Munții Kopaonik.",
                   "category": "historical",
                   "coords": [
                         22.362944,
@@ -643,7 +643,7 @@ export const serbiaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Crkva",
-                  "text": "The ruins of an old church located on Vince Peak.",
+                  "text": "The church (Crkva) stands on Vince Peak in the Kopaonik Mountains.",
                   "category": "historical",
                   "coords": [
                         22.362944,
@@ -2707,7 +2707,7 @@ export const serbiaReliefV2: POI[] = [
             },
             {
                   "name": "Rimski bunar",
-                  "text": "Antike Ruinen eines römischen Brunnens in der Nähe von Sokobanja.",
+                  "text": "Der römische Brunnen liegt an den Hängen des Ozren-Gebirges.",
                   "category": "historical",
                   "coords": [
                         21.886297,
@@ -2781,7 +2781,7 @@ export const serbiaReliefV2: POI[] = [
             },
             {
                   "name": "Rimski bunar",
-                  "text": "Egy római kori kút ókori romjai Sokobanja közelében.",
+                  "text": "A római kút az Ozren-hegység lejtőin található.",
                   "category": "historical",
                   "coords": [
                         21.886297,
@@ -2855,7 +2855,7 @@ export const serbiaReliefV2: POI[] = [
             },
             {
                   "name": "Rimski bunar",
-                  "text": "Ruinele antice ale unei fântâni romane în apropiere de Sokobanja.",
+                  "text": "Fântâna romană se află pe versanții Munților Ozren.",
                   "category": "historical",
                   "coords": [
                         21.886297,
@@ -2929,7 +2929,7 @@ export const serbiaReliefV2: POI[] = [
             },
             {
                   "name": "Roman Well",
-                  "text": "Ancient ruins of a Roman well located near Sokobanja.",
+                  "text": "The Roman well is located on the slopes of Ozren Mountain.",
                   "category": "historical",
                   "coords": [
                         21.886297,
@@ -3049,7 +3049,7 @@ export const serbiaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Sportsko rekreativni centar - Samar",
-                  "text": "Ein Freizeit- und Wasserpark in Mali Jastrebac.",
+                  "text": "Das Sport- und Erholungszentrum Samar liegt im Mali-Jastrebac-Gebirge.",
                   "category": "recreational",
                   "coords": [
                         21.511433,
@@ -3060,7 +3060,7 @@ export const serbiaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Sportsko rekreativni centar - Samar",
-                  "text": "Szabadidős központ és vízipark Mali Jastrebacban.",
+                  "text": "A Samar Sport- és Rekreációs Központ a Mali Jastrebac-hegységben található.",
                   "category": "recreational",
                   "coords": [
                         21.511433,
@@ -3071,7 +3071,7 @@ export const serbiaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Sportsko rekreativni centar - Samar",
-                  "text": "Un centru de recreere și parc acvatic în Mali Jastrebac.",
+                  "text": "Centrul Sportiv și de Recreere Samar se află în Munții Mali Jastrebac.",
                   "category": "recreational",
                   "coords": [
                         21.511433,
@@ -3082,7 +3082,7 @@ export const serbiaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Sportsko rekreativni centar - Samar",
-                  "text": "A recreation and water park in Mali Jastrebac.",
+                  "text": "The Sports and Recreation Center Samar is located in the Mali Jastrebac mountains.",
                   "category": "recreational",
                   "coords": [
                         21.511433,
@@ -3832,7 +3832,7 @@ export const serbiaReliefV2: POI[] = [
             },
             {
                   "name": "Obelisk",
-                  "text": "Ein Gedenkmonument in der Region Krčmar.",
+                  "text": "Ein Obelisk in der Ortschaft Krčmar auf dem Kopaonik.",
                   "category": "historical",
                   "coords": [
                         20.818674,
@@ -3861,7 +3861,7 @@ export const serbiaReliefV2: POI[] = [
             },
             {
                   "name": "Obelisk",
-                  "text": "Emlékmű Krčmar régiójában.",
+                  "text": "Egy obeliszk a Kopaonik Krčmar településén.",
                   "category": "historical",
                   "coords": [
                         20.818674,
@@ -3890,7 +3890,7 @@ export const serbiaReliefV2: POI[] = [
             },
             {
                   "name": "Obelisk",
-                  "text": "Un monument memorial în regiunea Krčmar.",
+                  "text": "Un obelisc în localitatea Krčmar de pe Kopaonik.",
                   "category": "historical",
                   "coords": [
                         20.818674,
@@ -3919,7 +3919,7 @@ export const serbiaReliefV2: POI[] = [
             },
             {
                   "name": "Obelisk",
-                  "text": "A memorial monument located in the Krčmar region.",
+                  "text": "An obelisk in the Krčmar locality on Kopaonik.",
                   "category": "historical",
                   "coords": [
                         20.818674,
@@ -3976,7 +3976,7 @@ export const serbiaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Midzhur / Midzhor",
-                  "text": "Der höchste Gipfel des Balkangebirges auf serbischem Staatsgebiet.",
+                  "text": "Midžor, mit 2.169 m der höchste Gipfel des Balkangebirges, auf der Stara Planina nahe Bratin Vrh.",
                   "category": "landmark",
                   "coords": [
                         22.67757,
@@ -3987,7 +3987,7 @@ export const serbiaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Midzhur / Midzhor",
-                  "text": "A Balkán-hegység legmagasabb csúcsa Szerbiában.",
+                  "text": "Midžor, a Balkán-hegység legmagasabb csúcsa (2169 m), a Stara Planina hegységben, Bratin Vrh közelében.",
                   "category": "landmark",
                   "coords": [
                         22.67757,
@@ -3998,7 +3998,7 @@ export const serbiaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Midzhur / Midzhor",
-                  "text": "Cel mai înalt vârf din Munții Balcani pe teritoriul Serbiei.",
+                  "text": "Midžor, cel mai înalt vârf al Munților Balcani (2.169 m), pe Stara Planina, lângă Bratin Vrh.",
                   "category": "landmark",
                   "coords": [
                         22.67757,
@@ -4009,7 +4009,7 @@ export const serbiaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Midzhur / Midžor",
-                  "text": "The highest peak of the Balkan Mountains in Serbia.",
+                  "text": "Midžor, at 2,169 m the highest peak of the Balkan mountain range, on Stara Planina near Bratin Vrh.",
                   "category": "landmark",
                   "coords": [
                         22.67757,
@@ -4435,7 +4435,7 @@ export const serbiaReliefV2: POI[] = [
             },
             {
                   "name": "Dino park Zlatibor",
-                  "text": "Ein Abenteuerpark zum Thema Dinosaurier im Ferienort Zlatibor.",
+                  "text": "Der Dino Park Zlatibor bietet Dinosaurier-Modelle im Erholungsgebiet Zlatibor bei Cicot.",
                   "category": "recreational",
                   "coords": [
                         19.703472,
@@ -4473,7 +4473,7 @@ export const serbiaReliefV2: POI[] = [
             },
             {
                   "name": "Dino park Zlatibor",
-                  "text": "Dinoszaurusz-tematikájú kalandpark a Zlatibor üdülőhelyen.",
+                  "text": "A Dino Park Zlatibor dinoszaurusz-modelleket kínál a Zlatibor üdülőterületen, Cicot közelében.",
                   "category": "recreational",
                   "coords": [
                         19.703472,
@@ -4511,7 +4511,7 @@ export const serbiaReliefV2: POI[] = [
             },
             {
                   "name": "Dino park Zlatibor",
-                  "text": "Un parc de aventură cu tematică despre dinozauri situat în stațiunea montană Zlatibor.",
+                  "text": "Dino Park Zlatibor oferă modele de dinozauri în stațiunea Zlatibor, lângă Cicot.",
                   "category": "recreational",
                   "coords": [
                         19.703472,
@@ -4549,7 +4549,7 @@ export const serbiaReliefV2: POI[] = [
             },
             {
                   "name": "Dino park Zlatibor",
-                  "text": "A dinosaur-themed adventure park located in the Zlatibor mountain resort.",
+                  "text": "Dino Park Zlatibor offers dinosaur models in the Zlatibor resort area near Cicot.",
                   "category": "recreational",
                   "coords": [
                         19.703472,
@@ -4606,7 +4606,7 @@ export const serbiaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Vodenica",
-                  "text": "Eine traditionelle Wassermühle in Vučak.",
+                  "text": "Eine traditionelle Wassermühle im Tal Vučak am Kopaonik.",
                   "category": "landmark",
                   "coords": [
                         20.881507,
@@ -4617,7 +4617,7 @@ export const serbiaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Vodenica",
-                  "text": "Hagyományos vízimalom Vučak településen.",
+                  "text": "Egy hagyományos vízimalom a Kopaonik Vučak völgyében.",
                   "category": "landmark",
                   "coords": [
                         20.881507,
@@ -4628,7 +4628,7 @@ export const serbiaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Vodenica",
-                  "text": "O moară de apă tradițională în Vučak.",
+                  "text": "O moară de apă tradițională în valea Vučak de pe Kopaonik.",
                   "category": "landmark",
                   "coords": [
                         20.881507,
@@ -4639,7 +4639,7 @@ export const serbiaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Watermill",
-                  "text": "A traditional watermill located in Vučak.",
+                  "text": "A traditional watermill in the Vučak valley on Kopaonik.",
                   "category": "landmark",
                   "coords": [
                         20.881507,
@@ -4975,7 +4975,7 @@ export const serbiaReliefV2: POI[] = [
             },
             {
                   "name": "Kod Komshe",
-                  "text": "Eine öffentliche Badeanlage im Gebiet Gruda.",
+                  "text": "Kod Komshe ist ein Freizeitbereich nahe Gruda auf Zlatibor.",
                   "category": "recreational",
                   "coords": [
                         19.645126,
@@ -4984,7 +4984,7 @@ export const serbiaReliefV2: POI[] = [
             },
             {
                   "name": "Dino park Zlatibor",
-                  "text": "Ein Dinosaurier-Themenpark in Gruda bei Zlatibor.",
+                  "text": "Der Dino Park Zlatibor (bei Gruda) zeigt lebensgroße Dinosaurier-Modelle.",
                   "category": "recreational",
                   "coords": [
                         19.703472,
@@ -5022,7 +5022,7 @@ export const serbiaReliefV2: POI[] = [
             },
             {
                   "name": "Kod Komshe",
-                  "text": "Nyilvános fürdőhely Gruda területén.",
+                  "text": "A Kod Komshe egy pihenőterület Gruda közelében, Zlatiboron.",
                   "category": "recreational",
                   "coords": [
                         19.645126,
@@ -5031,7 +5031,7 @@ export const serbiaReliefV2: POI[] = [
             },
             {
                   "name": "Dino park Zlatibor",
-                  "text": "Dinoszaurusz-témapark Gruda területén, Zlatiborban.",
+                  "text": "A Dino Park Zlatibor (Gruda mellett) életnagyságú dinoszaurusz-modelleket mutat be.",
                   "category": "recreational",
                   "coords": [
                         19.703472,
@@ -5069,7 +5069,7 @@ export const serbiaReliefV2: POI[] = [
             },
             {
                   "name": "Kod Komshe",
-                  "text": "O baie publică situată în zona Gruda.",
+                  "text": "Kod Komshe este o zonă de agrement lângă Gruda pe Zlatibor.",
                   "category": "recreational",
                   "coords": [
                         19.645126,
@@ -5078,7 +5078,7 @@ export const serbiaReliefV2: POI[] = [
             },
             {
                   "name": "Dino park Zlatibor",
-                  "text": "Un parc tematic cu dinozauri situat în Gruda, Zlatibor.",
+                  "text": "Dino Park Zlatibor (lângă Gruda) prezintă modele de dinozauri la scară naturală.",
                   "category": "recreational",
                   "coords": [
                         19.703472,
@@ -5116,7 +5116,7 @@ export const serbiaReliefV2: POI[] = [
             },
             {
                   "name": "Kod Komshe",
-                  "text": "A public bath facility located in the Gruda area.",
+                  "text": "Kod Komshe is a leisure area near Gruda on Zlatibor.",
                   "category": "recreational",
                   "coords": [
                         19.645126,
@@ -5125,7 +5125,7 @@ export const serbiaReliefV2: POI[] = [
             },
             {
                   "name": "Dino park Zlatibor",
-                  "text": "A dinosaur-themed adventure park located in Gruda, Zlatibor.",
+                  "text": "Dino Park Zlatibor (near Gruda) features life-sized dinosaur models.",
                   "category": "recreational",
                   "coords": [
                         19.703472,

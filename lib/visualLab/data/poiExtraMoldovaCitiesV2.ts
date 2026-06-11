@@ -70,7 +70,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Catedrala Sfinții Împărați Constantin și Elena",
-                  "text": "Eine markante Kathedrale in Bălți, gewidmet den Heiligen Konstantin und Helena.",
+                  "text": "Eine orthodoxe Kathedrale, den Heiligen Konstantin und Helena geweiht, im Zentrum von Balti.",
                   "category": "landmark",
                   "coords": [
                         27.920209,
@@ -180,7 +180,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Catedrala Sfinții Împărați Constantin și Elena",
-                  "text": "Bălți jellegzetes székesegyháza, amelyet Szent Konstantin és Heléna tiszteletére szenteltek.",
+                  "text": "Szent Konstantin és Szent Heléna ortodox székesegyház Balti központjában.",
                   "category": "landmark",
                   "coords": [
                         27.920209,
@@ -290,7 +290,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Catedrala Sfinții Împărați Constantin și Elena",
-                  "text": "O catedrală impunătoare din Bălți, dedicată Sfinților Constantin și Elena.",
+                  "text": "O catedrală ortodoxă dedicată Sfinților Constantin și Elena în centrul orașului Balti.",
                   "category": "landmark",
                   "coords": [
                         27.920209,
@@ -400,7 +400,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Constantine and Elena Cathedral",
-                  "text": "A prominent cathedral in Bălți dedicated to Saints Constantine and Elena.",
+                  "text": "An Orthodox cathedral dedicated to Saints Constantine and Helen in the center of Balti.",
                   "category": "landmark",
                   "coords": [
                         27.920209,
@@ -495,7 +495,7 @@ export const moldovaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Dolphin",
-                  "text": "Ein Ort zum Schwimmen und für Wassererholung in Bender.",
+                  "text": "Eine familienfreundliche Delfin-Attraktion in Bender.",
                   "category": "family",
                   "coords": [
                         29.477029,
@@ -558,7 +558,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Memorial revoliutsionnoi, boevoi i trudovoi slavy zheleznodorozhnikov",
-                  "text": "Denkmal der Eisenbahner, eine Gedenkstätte und Parkanlage zur Eisenbahngeschichte der Stadt.",
+                  "text": "Ein Park und Denkmal zu Ehren der Eisenbahner in Bender.",
                   "category": "park",
                   "coords": [
                         29.471434,
@@ -578,7 +578,7 @@ export const moldovaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Dolphin",
-                  "text": "Úszásra és vízi kikapcsolódásra alkalmas hely Bender településen.",
+                  "text": "Családbarát delfin attrakció Benderben.",
                   "category": "family",
                   "coords": [
                         29.477029,
@@ -641,7 +641,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Memorial revoliutsionnoi, boevoi i trudovoi slavy zheleznodorozhnikov",
-                  "text": "Vasutasok emlékműve, emlékhely és park a város vasúti történelmének tiszteletére.",
+                  "text": "Egy park és emlékmű a vasúti dolgozók tiszteletére Benderben.",
                   "category": "park",
                   "coords": [
                         29.471434,
@@ -661,7 +661,7 @@ export const moldovaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Delfin",
-                  "text": "Un loc pentru înot și recreere acvatică în Bender.",
+                  "text": "O atracție cu delfini prietenoasă cu familiile în Bender.",
                   "category": "family",
                   "coords": [
                         29.477029,
@@ -724,7 +724,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Memorial revoliutsionnoi, boevoi i trudovoi slavy zheleznodorozhnikov",
-                  "text": "Memorialul Feroviarilor, un monument și parc dedicat istoriei feroviare a orașului.",
+                  "text": "Un parc și un memorial în onoarea lucrătorilor feroviari din Bender.",
                   "category": "park",
                   "coords": [
                         29.471434,
@@ -744,7 +744,7 @@ export const moldovaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Dolphin",
-                  "text": "A place for swimming and water recreation in Bender.",
+                  "text": "A family-friendly dolphin attraction in Bender.",
                   "category": "family",
                   "coords": [
                         29.477029,
@@ -807,7 +807,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Memorial to the revolutionary, combat, and labor glory of the railway workers",
-                  "text": "Memorial park and monument dedicated to the history and labor of railway workers.",
+                  "text": "A park and memorial honoring railway workers in Bender.",
                   "category": "park",
                   "coords": [
                         29.471434,
@@ -976,7 +976,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Sovârca",
-                  "text": "Das Lacul Sovârca in Cahul ist ein ruhiger See für Naturliebhaber.",
+                  "text": "Der See Sovârca in Cahul.",
                   "category": "natural",
                   "coords": [
                         28.104781,
@@ -985,7 +985,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Secția balneologică",
-                  "text": "Ein balneologisches Schwimmbad in Cahul.",
+                  "text": "Balneologische Abteilung mit Thermalwasser in Cahul.",
                   "category": "recreational",
                   "coords": [
                         28.204125,
@@ -1059,7 +1059,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Sovârca",
-                  "text": "A Lacul Sovârca Cahul területén egy nyugodt tó a természet szerelmeseinek.",
+                  "text": "Sovârca-tó Cahulban.",
                   "category": "natural",
                   "coords": [
                         28.104781,
@@ -1068,7 +1068,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Secția balneologică",
-                  "text": "Balneológiai úszómedence Cahulban.",
+                  "text": "Balneológiai részleg termálvízzel Cahulban.",
                   "category": "recreational",
                   "coords": [
                         28.204125,
@@ -1142,7 +1142,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Sovârca",
-                  "text": "Lacul Sovârca din Cahul este un lac liniștit pentru iubitorii de natură.",
+                  "text": "Lacul Sovârca din Cahul.",
                   "category": "natural",
                   "coords": [
                         28.104781,
@@ -1151,7 +1151,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Secția balneologică",
-                  "text": "O secție balneologică cu piscină în Cahul.",
+                  "text": "Secția balneologică cu ape termale din Cahul.",
                   "category": "recreational",
                   "coords": [
                         28.204125,
@@ -1225,7 +1225,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Sovârca",
-                  "text": "Lacul Sovârca in Cahul is a peaceful lake for nature lovers.",
+                  "text": "Lake Sovârca in Cahul.",
                   "category": "natural",
                   "coords": [
                         28.104781,
@@ -1234,7 +1234,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Secția balneologică",
-                  "text": "A balneological swimming pool facility in Cahul.",
+                  "text": "Balneological section with thermal waters in Cahul.",
                   "category": "recreational",
                   "coords": [
                         28.204125,
@@ -2411,14 +2411,279 @@ export const moldovaCitiesV2: POI[] = [
       pt: ["Fundada em 1789", "Capital da Gagaúzia", "Sede da Universidade Estatal de Comrat", "Altitude de 64 m acima do mar"],
       fr: ["Fondée en 1789", "Capitale de la Gagaouzie", "Siège de l'université d'État de Comrat", "Altitude de 64 m au-dessus de la mer"],
     },
-    "sights": {"de": [{"name": "Staatsuniversität Comrat", "text": "Das bedeutendste Bildungszentrum der Region, das eine zentrale Rolle bei der Bewahrung der gagausischen Sprache und Kultur spielt.", "category": "famous buildings/residences", "confidence": "high", "coords": [28.653509, 46.29972]}, {"name": "Muzeul de Istorie și Etnografie", "text": "Das Regionalmuseum für Geschichte der Gagausien befindet sich in Comrat.", "category": "museum", "coords": [28.656071, 46.302235]}, {"name": "Monumentul lui Lenin", "text": "Das Lenin-Denkmal ist eine historische Sehenswürdigkeit in Comrat.", "category": "landmark", "coords": [28.655626, 46.298817]}, {"name": "Galeria de artă", "text": "Die Kunstgalerie in Comrat stellt lokale Werke aus.", "category": "museum", "coords": [28.657918, 46.300728]}, {"name": "Monumentul soldaților din cel de-al Doilea Război Mondial", "text": "Das Denkmal für die Soldaten des Zweiten Weltkriegs erinnert an die Gefallenen in Comrat.", "category": "historical", "coords": [28.651483, 46.295081]}, {"name": "Vinuri de Comrat", "text": "Comrat Wines ist ein bekanntes Weingut in der Stadt Komrat.", "category": "landmark", "coords": [28.674974, 46.30171]}, {"name": "Tank T-34/85", "text": "Dieser T-34/85 Panzer erinnert an die militärische Geschichte in Komrat.", "category": "landmark", "coords": [28.625642, 46.304854]}], "hu": [{"name": "Komráti Állami Egyetem", "text": "A régió legfontosabb oktatási intézménye, amely központi szerepet játszik a gagauz nyelv és identitás megőrzésében.", "category": "famous buildings/residences", "confidence": "high", "coords": [28.653509, 46.29972]}, {"name": "Muzeul de Istorie și Etnografie", "text": "A Gagauzia Regionális Történeti Múzeum Comratban található.", "category": "museum", "coords": [28.656071, 46.302235]}, {"name": "Monumentul lui Lenin", "text": "A Lenin-emlékmű egy történelmi nevezetesség Comratban.", "category": "landmark", "coords": [28.655626, 46.298817]}, {"name": "Galeria de artă", "text": "A comrati művészeti galéria helyi alkotásokat mutat be.", "category": "museum", "coords": [28.657918, 46.300728]}, {"name": "Monumentul soldaților din cel de-al Doilea Război Mondial", "text": "A második világháborús emlékmű Comrat elesett katonáinak állít emléket.", "category": "historical", "coords": [28.651483, 46.295081]}, {"name": "Vinuri de Comrat", "text": "A Comrat Wines egy jól ismert borászat Komrat városában.", "category": "landmark", "coords": [28.674974, 46.30171]}, {"name": "Tank T-34/85", "text": "Ez a T-34/85-ös harckocsi Komrat katonai történelmét idézi.", "category": "landmark", "coords": [28.625642, 46.304854]}], "ro": [{"name": "Universitatea de Stat din Comrat", "text": "Cel mai important centru educațional din regiune, având un rol crucial în conservarea limbii și culturii găgăuze.", "category": "famous buildings/residences", "confidence": "high", "coords": [28.653509, 46.29972]}, {"name": "Muzeu de Istorie Naturală", "text": "Muzeul Regional de Istorie al Găgăuziei este situat în Comrat.", "category": "museum", "coords": [28.656071, 46.302235]}, {"name": "Monumentul lui Lenin", "text": "Monumentul lui Lenin este un punct de interes istoric din Comrat.", "category": "landmark", "coords": [28.655626, 46.298817]}, {"name": "Galeria de artă", "text": "Galeria de artă din Comrat expune lucrări locale.", "category": "museum", "coords": [28.657918, 46.300728]}, {"name": "Monumentul soldaților din cel de-al Doilea Război Mondial", "text": "Monumentul soldaților din cel de-al Doilea Război Mondial comemorează eroii din Comrat.", "category": "historical", "coords": [28.651483, 46.295081]}, {"name": "Vinuri de Comrat", "text": "Comrat Wines este o cramă cunoscută în orașul Comrat.", "category": "landmark", "coords": [28.674974, 46.30171]}, {"name": "Tanc T-34/85", "text": "Acest tanc T-34/85 amintește de istoria militară din Comrat.", "category": "landmark", "coords": [28.625642, 46.304854]}], "en": [{"name": "Comrat State University", "text": "The region's leading educational center, which plays a vital role in preserving the Gagauz language and heritage.", "category": "famous buildings/residences", "confidence": "high", "coords": [28.653509, 46.29972]}, {"name": "Regional History Museum of Gagauzia", "text": "The Regional History Museum of Gagauzia is located in Comrat.", "category": "museum", "coords": [28.656071, 46.302235]}, {"name": "Monumentul lui Lenin", "text": "The Lenin Monument is a historical point of interest in Comrat.", "category": "landmark", "coords": [28.655626, 46.298817]}, {"name": "Galeria de artă", "text": "The art gallery in Comrat exhibits local works.", "category": "museum", "coords": [28.657918, 46.300728]}, {"name": "Monumentul soldaților din cel de-al Doilea Război Mondial", "text": "The monument to the soldiers of the Second World War commemorates the fallen in Comrat.", "category": "historical", "coords": [28.651483, 46.295081]}, {"name": "Comrat Wines", "text": "Comrat Wines is a well-known winery located in the city of Comrat.", "category": "landmark", "coords": [28.674974, 46.30171]}, {"name": "Tank T-34/85", "text": "This T-34/85 tank serves as a historical military monument in Comrat.", "category": "landmark", "coords": [28.625642, 46.304854]}]}
+    "sights": {
+      "de": [
+            {
+                  "name": "Staatsuniversität Comrat",
+                  "text": "Das bedeutendste Bildungszentrum der Region, das eine zentrale Rolle bei der Bewahrung der gagausischen Sprache und Kultur spielt.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high",
+                  "coords": [
+                        28.653509,
+                        46.29972
+                  ]
+            },
+            {
+                  "name": "Muzeul de Istorie și Etnografie",
+                  "text": "Regionalmuseum der Gagausischen Autonomie in Comrat.",
+                  "category": "museum",
+                  "coords": [
+                        28.656071,
+                        46.302235
+                  ]
+            },
+            {
+                  "name": "Monumentul lui Lenin",
+                  "text": "Lenin-Denkmal im Zentrum von Comrat.",
+                  "category": "landmark",
+                  "coords": [
+                        28.655626,
+                        46.298817
+                  ]
+            },
+            {
+                  "name": "Galeria de artă",
+                  "text": "Kunstgalerie mit Werken lokaler Künstler in Comrat.",
+                  "category": "museum",
+                  "coords": [
+                        28.657918,
+                        46.300728
+                  ]
+            },
+            {
+                  "name": "Monumentul soldaților din cel de-al Doilea Război Mondial",
+                  "text": "Das Denkmal für die Soldaten des Zweiten Weltkriegs erinnert an die Gefallenen in Comrat.",
+                  "category": "historical",
+                  "coords": [
+                        28.651483,
+                        46.295081
+                  ]
+            },
+            {
+                  "name": "Vinuri de Comrat",
+                  "text": "Weinkellerei Comrat mit Verkostung lokaler Weine.",
+                  "category": "landmark",
+                  "coords": [
+                        28.674974,
+                        46.30171
+                  ]
+            },
+            {
+                  "name": "Tank T-34/85",
+                  "text": "Weingut Comrat Wines in Comrat, mit Verkostungen lokaler moldauischer Weine.",
+                  "category": "landmark",
+                  "coords": [
+                        28.625642,
+                        46.304854
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Komráti Állami Egyetem",
+                  "text": "A régió legfontosabb oktatási intézménye, amely központi szerepet játszik a gagauz nyelv és identitás megőrzésében.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high",
+                  "coords": [
+                        28.653509,
+                        46.29972
+                  ]
+            },
+            {
+                  "name": "Muzeul de Istorie și Etnografie",
+                  "text": "Gagauz Autonómia Regionális Múzeuma Comratban.",
+                  "category": "museum",
+                  "coords": [
+                        28.656071,
+                        46.302235
+                  ]
+            },
+            {
+                  "name": "Monumentul lui Lenin",
+                  "text": "Lenin-szobor Comrat központjában.",
+                  "category": "landmark",
+                  "coords": [
+                        28.655626,
+                        46.298817
+                  ]
+            },
+            {
+                  "name": "Galeria de artă",
+                  "text": "Művészeti galéria helyi alkotók munkáival Comratban.",
+                  "category": "museum",
+                  "coords": [
+                        28.657918,
+                        46.300728
+                  ]
+            },
+            {
+                  "name": "Monumentul soldaților din cel de-al Doilea Război Mondial",
+                  "text": "A második világháborús emlékmű Comrat elesett katonáinak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        28.651483,
+                        46.295081
+                  ]
+            },
+            {
+                  "name": "Vinuri de Comrat",
+                  "text": "Comrat-i borászat helyi borok kóstolásával.",
+                  "category": "landmark",
+                  "coords": [
+                        28.674974,
+                        46.30171
+                  ]
+            },
+            {
+                  "name": "Tank T-34/85",
+                  "text": "Comrat Wines borászat Comratban, helyi moldvai borok kóstolójával.",
+                  "category": "landmark",
+                  "coords": [
+                        28.625642,
+                        46.304854
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Universitatea de Stat din Comrat",
+                  "text": "Cel mai important centru educațional din regiune, având un rol crucial în conservarea limbii și culturii găgăuze.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high",
+                  "coords": [
+                        28.653509,
+                        46.29972
+                  ]
+            },
+            {
+                  "name": "Muzeu de Istorie Naturală",
+                  "text": "Muzeul Regional al Găgăuziei din Comrat.",
+                  "category": "museum",
+                  "coords": [
+                        28.656071,
+                        46.302235
+                  ]
+            },
+            {
+                  "name": "Monumentul lui Lenin",
+                  "text": "Monumentul lui Lenin din centrul Comratului.",
+                  "category": "landmark",
+                  "coords": [
+                        28.655626,
+                        46.298817
+                  ]
+            },
+            {
+                  "name": "Galeria de artă",
+                  "text": "Galerie de artă cu lucrări ale artiștilor locali din Comrat.",
+                  "category": "museum",
+                  "coords": [
+                        28.657918,
+                        46.300728
+                  ]
+            },
+            {
+                  "name": "Monumentul soldaților din cel de-al Doilea Război Mondial",
+                  "text": "Monumentul soldaților din cel de-al Doilea Război Mondial comemorează eroii din Comrat.",
+                  "category": "historical",
+                  "coords": [
+                        28.651483,
+                        46.295081
+                  ]
+            },
+            {
+                  "name": "Vinuri de Comrat",
+                  "text": "Crama Comrat cu degustare de vinuri locale.",
+                  "category": "landmark",
+                  "coords": [
+                        28.674974,
+                        46.30171
+                  ]
+            },
+            {
+                  "name": "Tanc T-34/85",
+                  "text": "Crama Comrat Wines din Comrat, oferind degustări de vinuri locale moldovenești.",
+                  "category": "landmark",
+                  "coords": [
+                        28.625642,
+                        46.304854
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Comrat State University",
+                  "text": "The region's leading educational center, which plays a vital role in preserving the Gagauz language and heritage.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high",
+                  "coords": [
+                        28.653509,
+                        46.29972
+                  ]
+            },
+            {
+                  "name": "Regional History Museum of Gagauzia",
+                  "text": "Regional History Museum of Gagauzia in Comrat.",
+                  "category": "museum",
+                  "coords": [
+                        28.656071,
+                        46.302235
+                  ]
+            },
+            {
+                  "name": "Monumentul lui Lenin",
+                  "text": "Lenin monument in the center of Comrat.",
+                  "category": "landmark",
+                  "coords": [
+                        28.655626,
+                        46.298817
+                  ]
+            },
+            {
+                  "name": "Galeria de artă",
+                  "text": "Art gallery featuring works of local artists in Comrat.",
+                  "category": "museum",
+                  "coords": [
+                        28.657918,
+                        46.300728
+                  ]
+            },
+            {
+                  "name": "Monumentul soldaților din cel de-al Doilea Război Mondial",
+                  "text": "The monument to the soldiers of the Second World War commemorates the fallen in Comrat.",
+                  "category": "historical",
+                  "coords": [
+                        28.651483,
+                        46.295081
+                  ]
+            },
+            {
+                  "name": "Comrat Wines",
+                  "text": "Comrat Wines winery offering tastings of local wines.",
+                  "category": "landmark",
+                  "coords": [
+                        28.674974,
+                        46.30171
+                  ]
+            },
+            {
+                  "name": "Tank T-34/85",
+                  "text": "This T-34/85 tank serves as a historical military monument in Comrat.",
+                  "category": "landmark",
+                  "coords": [
+                        28.625642,
+                        46.304854
+                  ]
+            }
+      ]
+}
   },
   {
     id: "moldova-edinet-cities-v2", "sights": {
       "de": [
             {
                   "name": "Lacul Berchino",
-                  "text": "Ein See in Edinet, der eine friedliche Umgebung bietet.",
+                  "text": "Berchino-See, ein ruhiger See in der Nähe von Edineț.",
                   "category": "natural",
                   "coords": [
                         27.325878,
@@ -2474,7 +2739,7 @@ export const moldovaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Lacul Berchino",
-                  "text": "Tó Edinetben, amely békés környezetet kínál.",
+                  "text": "Berchino-tó, egy csendes tó Edineț közelében.",
                   "category": "natural",
                   "coords": [
                         27.325878,
@@ -2530,7 +2795,7 @@ export const moldovaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Lacul Berchino",
-                  "text": "Un lac în Edinet care oferă un cadru pașnic.",
+                  "text": "Lacul Berchino, un lac liniștit lângă Edineț.",
                   "category": "natural",
                   "coords": [
                         27.325878,
@@ -2586,7 +2851,7 @@ export const moldovaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Lacul Berchino",
-                  "text": "A lake in Edinet offering a peaceful setting.",
+                  "text": "Berchino Lake, a quiet lake near Edineț.",
                   "category": "natural",
                   "coords": [
                         27.325878,
@@ -2845,7 +3110,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Taraclia",
-                  "text": "Das Lacul Taraclia ist ein bedeutendes Gewässer in der Region Taraclia.",
+                  "text": "Taraclia-See, ein Badesee in der Stadt.",
                   "category": "natural",
                   "coords": [
                         28.60093,
@@ -2883,7 +3148,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Taraclia",
-                  "text": "A Lacul Taraclia egy jelentős állóvíz Taraclia régiójában.",
+                  "text": "Taraclia-tó, egy fürdőtó a városban.",
                   "category": "natural",
                   "coords": [
                         28.60093,
@@ -2921,7 +3186,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul de acumulare Taraclia",
-                  "text": "Lacul Taraclia este un corp de apă important în regiunea Taraclia.",
+                  "text": "Lacul Taraclia, un lac de înot în oraș.",
                   "category": "natural",
                   "coords": [
                         28.60093,
@@ -2959,7 +3224,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Taraclia",
-                  "text": "Lacul Taraclia is a significant body of water in the Taraclia region.",
+                  "text": "Taraclia Lake, a swimming lake within the town.",
                   "category": "natural",
                   "coords": [
                         28.60093,
@@ -3054,7 +3319,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Durlești",
-                  "text": "Ein lokales Wahrzeichen oder Denkmal im Stadtgebiet von Durlești.",
+                  "text": "Historischer Ort Durlești mit alter Architektur.",
                   "category": "historical",
                   "coords": [
                         28.784594,
@@ -3117,7 +3382,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Iazul Tortuga",
-                  "text": "Ein See in Durlesti, der zu einem Spaziergang einlädt.",
+                  "text": "Tortuga-See, ein kleiner See in Durlești.",
                   "category": "natural",
                   "coords": [
                         28.791122,
@@ -3126,7 +3391,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Bazinul de înot al USM",
-                  "text": "Ein Wasserbecken in Durlesti in ruhiger Lage.",
+                  "text": "Schwimmbad der Staatlichen Universität Moldaus in Durlești.",
                   "category": "natural",
                   "coords": [
                         28.837208,
@@ -3144,7 +3409,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul nr. 4 (Traktornîi)",
-                  "text": "Ein kleiner See in Durlesti für Naturliebhaber.",
+                  "text": "See Nr. 4 in Durlești, ein künstlicher See.",
                   "category": "natural",
                   "coords": [
                         28.81581,
@@ -3153,7 +3418,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Iazul Hârtoape",
-                  "text": "Ein lokales Gewässer in Durlesti mit natürlichem Charme.",
+                  "text": "Tal-See in Durlești, umgeben von Hügeln.",
                   "category": "natural",
                   "coords": [
                         28.798866,
@@ -3162,7 +3427,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul nr. 3",
-                  "text": "Ein ruhiger See in der Umgebung von Durlesti.",
+                  "text": "See Nr. 3 in Durlești, Teil einer Seenkette.",
                   "category": "natural",
                   "coords": [
                         28.857157,
@@ -3189,7 +3454,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Bazin",
-                  "text": "Ein Ort zum Schwimmen und für Wassererholung in Durlesti.",
+                  "text": "Familienbad in Durlești mit Kinderbereich.",
                   "category": "family",
                   "coords": [
                         28.774168,
@@ -3245,7 +3510,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Durlești",
-                  "text": "Helyi jelkép vagy emlékmű Durlești városában.",
+                  "text": "Történelmi helyszín Durlești régi épületekkel.",
                   "category": "historical",
                   "coords": [
                         28.784594,
@@ -3308,7 +3573,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Iazul Tortuga",
-                  "text": "Tó Durlestiben, amely sétára hívogat.",
+                  "text": "Tortuga-tó, egy kis tó Durlești-ben.",
                   "category": "natural",
                   "coords": [
                         28.791122,
@@ -3317,7 +3582,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Bazinul de înot al USM",
-                  "text": "Vízmedence Durlestiben, csendes helyen.",
+                  "text": "A Moldovai Állami Egyetem uszodája Durlești-ben.",
                   "category": "natural",
                   "coords": [
                         28.837208,
@@ -3335,7 +3600,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul nr. 4 (Traktornîi)",
-                  "text": "Kisméretű tó Durlestiben a természet kedvelőinek.",
+                  "text": "4-es tó Durlești-ben, egy mesterséges tó.",
                   "category": "natural",
                   "coords": [
                         28.81581,
@@ -3344,7 +3609,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Iazul Hârtoape",
-                  "text": "Helyi vízfelület Durlestiben, természetes bájjal.",
+                  "text": "Völgy-tó Durlești-ben, dombokkal körülvéve.",
                   "category": "natural",
                   "coords": [
                         28.798866,
@@ -3353,7 +3618,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul nr. 3",
-                  "text": "Csendes tó Durlesti környékén.",
+                  "text": "3-as tó Durlești-ben, egy tólánc része.",
                   "category": "natural",
                   "coords": [
                         28.857157,
@@ -3380,7 +3645,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Bazin",
-                  "text": "Úszásra és vízi kikapcsolódásra alkalmas hely Durlesti településen.",
+                  "text": "Családi fürdő Durlești-ben gyermekrésszel.",
                   "category": "family",
                   "coords": [
                         28.774168,
@@ -3436,7 +3701,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Durlești",
-                  "text": "Un simbol local sau monument situat în orașul Durlești.",
+                  "text": "Localitatea istorică Durlești cu arhitectură veche.",
                   "category": "historical",
                   "coords": [
                         28.784594,
@@ -3499,7 +3764,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Iazul Tortuga",
-                  "text": "Un lac în Durlesti care invită la o plimbare.",
+                  "text": "Lacul Tortuga, un lac mic în Durlești.",
                   "category": "natural",
                   "coords": [
                         28.791122,
@@ -3508,7 +3773,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Bazinul de înot al USM",
-                  "text": "Un bazin de apă în Durlesti, situat într-o zonă liniștită.",
+                  "text": "Bazinul de înot al Universității de Stat din Moldova, în Durlești.",
                   "category": "natural",
                   "coords": [
                         28.837208,
@@ -3526,7 +3791,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul nr. 4 (Traktornîi)",
-                  "text": "Un mic lac în Durlesti pentru iubitorii de natură.",
+                  "text": "Lacul nr. 4 din Durlești, un lac artificial.",
                   "category": "natural",
                   "coords": [
                         28.81581,
@@ -3535,7 +3800,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Iazul Hârtoape",
-                  "text": "O apă locală în Durlesti cu farmec natural.",
+                  "text": "Lacul Văii din Durlești, înconjurat de dealuri.",
                   "category": "natural",
                   "coords": [
                         28.798866,
@@ -3544,7 +3809,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul nr. 3",
-                  "text": "Un lac liniștit în împrejurimile localității Durlesti.",
+                  "text": "Lacul nr. 3 din Durlești, parte a unui lanț de lacuri.",
                   "category": "natural",
                   "coords": [
                         28.857157,
@@ -3571,7 +3836,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Bazin",
-                  "text": "Un loc pentru înot și recreere acvatică în Durlesti.",
+                  "text": "Bazin familial în Durlești cu zonă pentru copii.",
                   "category": "family",
                   "coords": [
                         28.774168,
@@ -3627,7 +3892,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Durlești",
-                  "text": "A local landmark or monument located in the town of Durlești.",
+                  "text": "Historical site of Durlești with old architecture.",
                   "category": "historical",
                   "coords": [
                         28.784594,
@@ -3690,7 +3955,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Tortuga Lake",
-                  "text": "A lake in Durlesti that invites a stroll.",
+                  "text": "Tortuga Lake, a small lake in Durlești.",
                   "category": "natural",
                   "coords": [
                         28.791122,
@@ -3699,7 +3964,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Bazinul de înot al USM",
-                  "text": "A water basin in Durlesti in a quiet location.",
+                  "text": "Swimming pool of the State University of Moldova in Durlești.",
                   "category": "natural",
                   "coords": [
                         28.837208,
@@ -3717,7 +3982,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Lake No. 4",
-                  "text": "A small lake in Durlesti for nature lovers.",
+                  "text": "Lake No. 4 in Durlești, an artificial lake.",
                   "category": "natural",
                   "coords": [
                         28.81581,
@@ -3726,7 +3991,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Valley's Lake",
-                  "text": "A local water body in Durlesti with natural charm.",
+                  "text": "Valley's Lake in Durlești, surrounded by hills.",
                   "category": "natural",
                   "coords": [
                         28.798866,
@@ -3735,7 +4000,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul nr. 3",
-                  "text": "A peaceful lake in the surroundings of Durlesti.",
+                  "text": "Lake No. 3 in Durlești, part of a chain of lakes.",
                   "category": "natural",
                   "coords": [
                         28.857157,
@@ -3762,7 +4027,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Bazin",
-                  "text": "A place for swimming and water recreation in Durlesti.",
+                  "text": "Family pool in Durlești with a children's area.",
                   "category": "family",
                   "coords": [
                         28.774168,
@@ -3857,7 +4122,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumentul Vulturului",
-                  "text": "Das Adler-Monument ist ein markantes Denkmal in Fălești.",
+                  "text": "Adlerdenkmal in Fălești, ein Symbol der Stadt.",
                   "category": "historical",
                   "coords": [
                         27.706759,
@@ -3904,7 +4169,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumentul Vulturului",
-                  "text": "A Sas-emlékmű egy jellegzetes emlékmű Fălești városában.",
+                  "text": "Sas-emlékmű Fălești-ben, a város jelképe.",
                   "category": "historical",
                   "coords": [
                         27.706759,
@@ -3951,7 +4216,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumentul Vulturului",
-                  "text": "Monumentul Vulturului este un monument distinctiv din Fălești.",
+                  "text": "Monumentul Vulturului din Fălești, un simbol al orașului.",
                   "category": "historical",
                   "coords": [
                         27.706759,
@@ -3998,7 +4263,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumentul Vulturului",
-                  "text": "The Eagle Monument is a distinctive landmark in Fălești.",
+                  "text": "Eagle Monument in Fălești, a symbol of the city.",
                   "category": "historical",
                   "coords": [
                         27.706759,
@@ -4102,7 +4367,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Bazin Riviera",
-                  "text": "Ein Schwimmbad in Hîncești für sportliche Aktivitäten.",
+                  "text": "Riviera-Schwimmbad in Hîncești mit Wasserrutschen.",
                   "category": "recreational",
                   "coords": [
                         28.585288,
@@ -4149,7 +4414,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Bazin Riviera",
-                  "text": "Hîncești úszómedencéje sportolásra és kikapcsolódásra.",
+                  "text": "Riviera fürdő Hîncești-ben csúszdákkal.",
                   "category": "recreational",
                   "coords": [
                         28.585288,
@@ -4196,7 +4461,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Bazin Riviera",
-                  "text": "O piscină în Hîncești destinată activităților sportive.",
+                  "text": "Bazin Riviera în Hîncești cu tobogane acvatice.",
                   "category": "recreational",
                   "coords": [
                         28.585288,
@@ -4243,7 +4508,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Bazin Riviera",
-                  "text": "A swimming pool in Hîncești for sports and leisure.",
+                  "text": "Riviera pool in Hîncești with water slides.",
                   "category": "recreational",
                   "coords": [
                         28.585288,
@@ -4298,7 +4563,196 @@ export const moldovaCitiesV2: POI[] = [
     },
   },
   {
-    id: "moldova-vulcanesti-cities-v2", "sights": {"de": [{"name": "Muzeul de istorie și studiere a ținutului - orașul Vulcănești", "text": "Das Muzeul de istorie și studiere a ținutului - orașul Vulcănești widmet sich voll und ganz der Vergangenheit der Region. In diesem Museum in Vulcănești, Republik Moldau, wird die lokale Geschichte lebendig gehalten. Es bietet spannende Einblicke in die traditionelle Kultur der Stadt und ihrer Umgebung.", "category": "museum", "coords": [28.402221, 45.683329]}, {"name": "Coloana „Bătălia de la Cahul 1770”", "text": "Ein hohes Denkmal zur Erinnerung an die historische Schlacht von Cahul im Jahr 1770.", "category": "historical", "coords": [28.426357, 45.688322]}, {"name": "Monumentul bătăliei de la Cahul (Semion Voronțov)", "text": "Ein Gedenkort zu Ehren der Helden der Schlacht von Cahul.", "category": "landmark", "coords": [28.419614, 45.689869]}, {"name": "Îmi place Vulcănești", "text": "Ein dekoratives Stadtzeichen, das die lokale Identität feiert.", "category": "landmark", "coords": [28.406604, 45.683608]}, {"name": "Monumentul lui Lenin", "text": "Eine Statue aus der Sowjetzeit, die Wladimir Lenin darstellt.", "category": "landmark", "coords": [28.405115, 45.682908]}], "hu": [{"name": "Muzeul de istorie și studiere a ținutului - orașul Vulcănești", "text": "A Muzeul de istorie și studiere a ținutului - orașul Vulcănești teljes mértékben a régió múltjának szenteli magát. Ebben a moldovai Vulcănești városában található múzeumban életben tartják a helyi történelmet. Izgalmas betekintést nyújt a város és környéke hagyományos kultúrájába.", "category": "museum", "coords": [28.402221, 45.683329]}, {"name": "Coloana „Bătălia de la Cahul 1770”", "text": "Magas emlékmű az 1770-es történelmi kahu-i csata emlékére.", "category": "historical", "coords": [28.426357, 45.688322]}, {"name": "Monumentul bătăliei de la Cahul (Semion Voronțov)", "text": "Emlékhely a kahu-i csata hőseinek tiszteletére.", "category": "landmark", "coords": [28.419614, 45.689869]}, {"name": "Îmi place Vulcănești", "text": "Dekoratív városi jelkép, amely a helyi identitást ünnepli.", "category": "landmark", "coords": [28.406604, 45.683608]}, {"name": "Monumentul lui Lenin", "text": "Szovjet korszakból származó szobor, amely Vlagyimir Lenint ábrázolja.", "category": "landmark", "coords": [28.405115, 45.682908]}], "ro": [{"name": "Muzeul de istorie și studiere a ținutului - orașul Vulcănești", "text": "Muzeul de istorie și studiere a ținutului - orașul Vulcănești este dedicat în întregime trecutului regiunii. În acest muzeu din Vulcănești, Republica Moldova, istoria locală este menținută vie. Oferă o privire captivantă asupra culturii tradiționale a orașului și a împrejurimilor sale.", "category": "museum", "coords": [28.402221, 45.683329]}, {"name": "Coloana „Bătălia de la Cahul 1770”", "text": "Un monument înalt care comemorează bătălia istorică de la Cahul din 1770.", "category": "historical", "coords": [28.426357, 45.688322]}, {"name": "Monumentul bătăliei de la Cahul (Semion Voronțov)", "text": "Un loc memorial ridicat în onoarea eroilor bătăliei de la Cahul.", "category": "landmark", "coords": [28.419614, 45.689869]}, {"name": "Îmi place Vulcănești", "text": "O emblemă decorativă a orașului care celebrează identitatea locală.", "category": "landmark", "coords": [28.406604, 45.683608]}, {"name": "Monumentul lui Lenin", "text": "O statuie din epoca sovietică care îl reprezintă pe Vladimir Lenin.", "category": "landmark", "coords": [28.405115, 45.682908]}], "en": [{"name": "Muzeul de istorie și studiere a ținutului - orașul Vulcănești", "text": "The Muzeul de istorie și studiere a ținutului - orașul Vulcănești is fully dedicated to the region's past. In this museum in Vulcanesti, Moldova, local history is kept alive. It offers exciting insights into the traditional culture of the city and its surroundings.", "category": "museum", "coords": [28.402221, 45.683329]}, {"name": "Coloana „Bătălia de la Cahul 1770”", "text": "A tall monument commemorating the historic Battle of Cahul in 1770.", "category": "historical", "coords": [28.426357, 45.688322]}, {"name": "Monumentul bătăliei de la Cahul (Semion Voronțov)", "text": "A memorial site honoring the heroes of the Battle of Cahul.", "category": "landmark", "coords": [28.419614, 45.689869]}, {"name": "I love Vulkanesti", "text": "A decorative city sign celebrating local identity.", "category": "landmark", "coords": [28.406604, 45.683608]}, {"name": "Monumentul lui Lenin", "text": "A Soviet-era statue representing Vladimir Lenin.", "category": "landmark", "coords": [28.405115, 45.682908]}]},
+    id: "moldova-vulcanesti-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzeul de istorie și studiere a ținutului - orașul Vulcănești",
+                  "text": "Das Muzeul de istorie și studiere a ținutului - orașul Vulcănești widmet sich voll und ganz der Vergangenheit der Region. In diesem Museum in Vulcănești, Republik Moldau, wird die lokale Geschichte lebendig gehalten. Es bietet spannende Einblicke in die traditionelle Kultur der Stadt und ihrer Umgebung.",
+                  "category": "museum",
+                  "coords": [
+                        28.402221,
+                        45.683329
+                  ]
+            },
+            {
+                  "name": "Coloana „Bătălia de la Cahul 1770”",
+                  "text": "Ein hohes Denkmal zur Erinnerung an die historische Schlacht von Cahul im Jahr 1770.",
+                  "category": "historical",
+                  "coords": [
+                        28.426357,
+                        45.688322
+                  ]
+            },
+            {
+                  "name": "Monumentul bătăliei de la Cahul (Semion Voronțov)",
+                  "text": "Ein Gedenkort zu Ehren der Helden der Schlacht von Cahul.",
+                  "category": "landmark",
+                  "coords": [
+                        28.419614,
+                        45.689869
+                  ]
+            },
+            {
+                  "name": "Îmi place Vulcănești",
+                  "text": "I love Vulcănești-Zeichen, ein beliebtes Fotomotiv.",
+                  "category": "landmark",
+                  "coords": [
+                        28.406604,
+                        45.683608
+                  ]
+            },
+            {
+                  "name": "Monumentul lui Lenin",
+                  "text": "Lenin-Denkmal in Vulcănești, ein Überbleibsel der Sowjetzeit.",
+                  "category": "landmark",
+                  "coords": [
+                        28.405115,
+                        45.682908
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzeul de istorie și studiere a ținutului - orașul Vulcănești",
+                  "text": "A Muzeul de istorie și studiere a ținutului - orașul Vulcănești teljes mértékben a régió múltjának szenteli magát. Ebben a moldovai Vulcănești városában található múzeumban életben tartják a helyi történelmet. Izgalmas betekintést nyújt a város és környéke hagyományos kultúrájába.",
+                  "category": "museum",
+                  "coords": [
+                        28.402221,
+                        45.683329
+                  ]
+            },
+            {
+                  "name": "Coloana „Bătălia de la Cahul 1770”",
+                  "text": "Magas emlékmű az 1770-es történelmi kahu-i csata emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        28.426357,
+                        45.688322
+                  ]
+            },
+            {
+                  "name": "Monumentul bătăliei de la Cahul (Semion Voronțov)",
+                  "text": "Emlékhely a kahu-i csata hőseinek tiszteletére.",
+                  "category": "landmark",
+                  "coords": [
+                        28.419614,
+                        45.689869
+                  ]
+            },
+            {
+                  "name": "Îmi place Vulcănești",
+                  "text": "I love Vulcănești felirat, népszerű fotótéma.",
+                  "category": "landmark",
+                  "coords": [
+                        28.406604,
+                        45.683608
+                  ]
+            },
+            {
+                  "name": "Monumentul lui Lenin",
+                  "text": "Lenin-szobor Vulcănești-ben, a szovjet korszak emléke.",
+                  "category": "landmark",
+                  "coords": [
+                        28.405115,
+                        45.682908
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeul de istorie și studiere a ținutului - orașul Vulcănești",
+                  "text": "Muzeul de istorie și studiere a ținutului - orașul Vulcănești este dedicat în întregime trecutului regiunii. În acest muzeu din Vulcănești, Republica Moldova, istoria locală este menținută vie. Oferă o privire captivantă asupra culturii tradiționale a orașului și a împrejurimilor sale.",
+                  "category": "museum",
+                  "coords": [
+                        28.402221,
+                        45.683329
+                  ]
+            },
+            {
+                  "name": "Coloana „Bătălia de la Cahul 1770”",
+                  "text": "Un monument înalt care comemorează bătălia istorică de la Cahul din 1770.",
+                  "category": "historical",
+                  "coords": [
+                        28.426357,
+                        45.688322
+                  ]
+            },
+            {
+                  "name": "Monumentul bătăliei de la Cahul (Semion Voronțov)",
+                  "text": "Un loc memorial ridicat în onoarea eroilor bătăliei de la Cahul.",
+                  "category": "landmark",
+                  "coords": [
+                        28.419614,
+                        45.689869
+                  ]
+            },
+            {
+                  "name": "Îmi place Vulcănești",
+                  "text": "Inscripția „I love Vulcănești”, un loc popular pentru poze.",
+                  "category": "landmark",
+                  "coords": [
+                        28.406604,
+                        45.683608
+                  ]
+            },
+            {
+                  "name": "Monumentul lui Lenin",
+                  "text": "Monumentul lui Lenin din Vulcănești, o rămășiță din perioada sovietică.",
+                  "category": "landmark",
+                  "coords": [
+                        28.405115,
+                        45.682908
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzeul de istorie și studiere a ținutului - orașul Vulcănești",
+                  "text": "The Muzeul de istorie și studiere a ținutului - orașul Vulcănești is fully dedicated to the region's past. In this museum in Vulcanesti, Moldova, local history is kept alive. It offers exciting insights into the traditional culture of the city and its surroundings.",
+                  "category": "museum",
+                  "coords": [
+                        28.402221,
+                        45.683329
+                  ]
+            },
+            {
+                  "name": "Coloana „Bătălia de la Cahul 1770”",
+                  "text": "A tall monument commemorating the historic Battle of Cahul in 1770.",
+                  "category": "historical",
+                  "coords": [
+                        28.426357,
+                        45.688322
+                  ]
+            },
+            {
+                  "name": "Monumentul bătăliei de la Cahul (Semion Voronțov)",
+                  "text": "A memorial site honoring the heroes of the Battle of Cahul.",
+                  "category": "landmark",
+                  "coords": [
+                        28.419614,
+                        45.689869
+                  ]
+            },
+            {
+                  "name": "I love Vulkanesti",
+                  "text": "I love Vulcănești sign, a popular photo spot.",
+                  "category": "landmark",
+                  "coords": [
+                        28.406604,
+                        45.683608
+                  ]
+            },
+            {
+                  "name": "Monumentul lui Lenin",
+                  "text": "Lenin monument in Vulcănești, a relic of the Soviet era.",
+                  "category": "landmark",
+                  "coords": [
+                        28.405115,
+                        45.682908
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "city",
     name: { de: "Vulcănești", hu: "Vulcănești", ro: "Vulcănești", en: "Vulcănești"},
@@ -4477,7 +4931,7 @@ export const moldovaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Galeria Colecțiilor „Petru Costin” a Consiliului Raional Ialoveni",
-                  "text": "Ein Museum in Ialoveni, das die Sammlungen von Petru Costin beherbergt.",
+                  "text": "Petru-Costin-Sammlungsgalerie des Rajonsrates Ialoveni.",
                   "category": "museum",
                   "coords": [
                         28.778279,
@@ -4495,7 +4949,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Ialoveni",
-                  "text": "Ein markanter Punkt oder eine Sehenswürdigkeit in der Stadt Ialoveni.",
+                  "text": "Die Stadt Ialoveni mit ihrem zentralen Platz.",
                   "category": "landmark",
                   "coords": [
                         28.781998,
@@ -4506,7 +4960,7 @@ export const moldovaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Galeria Colecțiilor „Petru Costin” a Consiliului Raional Ialoveni",
-                  "text": "Múzeum Ialoveniben, amely Petru Costin gyűjteményeinek ad otthont.",
+                  "text": "Petru Costin Gyűjteményi Galéria, a Ialoveni-i Rajoni Tanácsé.",
                   "category": "museum",
                   "coords": [
                         28.778279,
@@ -4524,7 +4978,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Ialoveni",
-                  "text": "Jellegzetes pont vagy látnivaló Ialoveni városában.",
+                  "text": "Ialoveni városa a központi terével.",
                   "category": "landmark",
                   "coords": [
                         28.781998,
@@ -4535,7 +4989,7 @@ export const moldovaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Galeria Colecțiilor „Petru Costin” a Consiliului Raional Ialoveni",
-                  "text": "Un muzeu din Ialoveni care adăpostește colecțiile lui Petru Costin.",
+                  "text": "Galeria Colecțiilor „Petru Costin” a Consiliului Raional Ialoveni.",
                   "category": "museum",
                   "coords": [
                         28.778279,
@@ -4553,7 +5007,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Ialoveni",
-                  "text": "Un punct de interes sau o atracție în orașul Ialoveni.",
+                  "text": "Orașul Ialoveni cu piața sa centrală.",
                   "category": "landmark",
                   "coords": [
                         28.781998,
@@ -4564,7 +5018,7 @@ export const moldovaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Galeria Colecțiilor „Petru Costin” a Consiliului Raional Ialoveni",
-                  "text": "A museum in Ialoveni housing the collections of Petru Costin.",
+                  "text": "Petru Costin Collection Gallery of the Ialoveni District Council.",
                   "category": "museum",
                   "coords": [
                         28.778279,
@@ -4582,7 +5036,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Ialoveni",
-                  "text": "A prominent landmark or attraction in the city of Ialoveni.",
+                  "text": "The town of Ialoveni with its central square.",
                   "category": "landmark",
                   "coords": [
                         28.781998,
@@ -4796,7 +5250,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Baie",
-                  "text": "Eine öffentliche Badeanstalt in der Stadt Ocnița.",
+                  "text": "Badeanstalt in Ocnița mit Mineralwasser.",
                   "category": "recreational",
                   "coords": [
                         27.477216,
@@ -4834,7 +5288,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Baie",
-                  "text": "Egy nyilvános fürdő Ocnița városában.",
+                  "text": "Fürdő Ocnița-ban ásványvízzel.",
                   "category": "recreational",
                   "coords": [
                         27.477216,
@@ -4872,7 +5326,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Baie",
-                  "text": "O baie publică situată în orașul Ocnița.",
+                  "text": "Baie în Ocnița cu apă minerală.",
                   "category": "recreational",
                   "coords": [
                         27.477216,
@@ -4910,7 +5364,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Baie",
-                  "text": "A public bath facility located in the town of Ocnița.",
+                  "text": "Bathhouse in Ocnița with mineral water.",
                   "category": "recreational",
                   "coords": [
                         27.477216,
@@ -4965,7 +5419,124 @@ export const moldovaCitiesV2: POI[] = [
     },
   },
   {
-    id: "moldova-briceni-cities-v2", "sights": {"de": [{"name": "Jüdischer Friedhof Briceni", "text": "Historischer jüdischer Friedhof in Briceni.", "category": "landmark", "coords": [27.106699, 48.35924]}, {"name": "Zona Otdykha", "text": "Ein lokales Erholungsgebiet in Briceni.", "category": "landmark", "coords": [27.078652, 48.361111]}, {"name": "Tractor", "text": "Ein Denkmal in Form eines Traktors in Briceni.", "category": "historical", "coords": [27.100393, 48.351722]}], "hu": [{"name": "Cimitirul evreiesc", "text": "Történelmi zsidó temető Briceniben.", "category": "landmark", "coords": [27.106699, 48.35924]}, {"name": "Zona Otdykha", "text": "Helyi pihenőhely Briceniben.", "category": "landmark", "coords": [27.078652, 48.361111]}, {"name": "Tractor", "text": "Traktort ábrázoló emlékmű Briceniben.", "category": "historical", "coords": [27.100393, 48.351722]}], "ro": [{"name": "Cimitirul evreiesc", "text": "Cimitir evreiesc istoric din Briceni.", "category": "landmark", "coords": [27.106699, 48.35924]}, {"name": "Zona Otdykha", "text": "O zonă locală de recreere în Briceni.", "category": "landmark", "coords": [27.078652, 48.361111]}, {"name": "Tractor", "text": "Un monument sub formă de tractor în Briceni.", "category": "historical", "coords": [27.100393, 48.351722]}], "en": [{"name": "Briceni Jewish Cemetery", "text": "Historical Jewish cemetery in Briceni.", "category": "landmark", "coords": [27.106699, 48.35924]}, {"name": "Zona Otdykha", "text": "A local recreation area in Briceni.", "category": "landmark", "coords": [27.078652, 48.361111]}, {"name": "Tractor", "text": "A monument in the form of a tractor in Briceni.", "category": "historical", "coords": [27.100393, 48.351722]}]},
+    id: "moldova-briceni-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jüdischer Friedhof Briceni",
+                  "text": "Der jüdische Friedhof in Briceni, eine historische Begräbnisstätte.",
+                  "category": "landmark",
+                  "coords": [
+                        27.106699,
+                        48.35924
+                  ]
+            },
+            {
+                  "name": "Zona Otdykha",
+                  "text": "Erholungszone in Briceni mit Grünflächen und Spielplätzen.",
+                  "category": "landmark",
+                  "coords": [
+                        27.078652,
+                        48.361111
+                  ]
+            },
+            {
+                  "name": "Tractor",
+                  "text": "Traktoren-Denkmal in Briceni, ein Zeugnis der Landwirtschaftsgeschichte.",
+                  "category": "historical",
+                  "coords": [
+                        27.100393,
+                        48.351722
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cimitirul evreiesc",
+                  "text": "A briceni zsidó temető, egy történelmi temetkezési hely.",
+                  "category": "landmark",
+                  "coords": [
+                        27.106699,
+                        48.35924
+                  ]
+            },
+            {
+                  "name": "Zona Otdykha",
+                  "text": "Pihenőövezet Briceni-ben zöldterületekkel és játszóterekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        27.078652,
+                        48.361111
+                  ]
+            },
+            {
+                  "name": "Tractor",
+                  "text": "Traktor-emlékmű Briceni-ben, a mezőgazdasági múlt emléke.",
+                  "category": "historical",
+                  "coords": [
+                        27.100393,
+                        48.351722
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cimitirul evreiesc",
+                  "text": "Cimitirul evreiesc din Briceni, un loc de înmormântare istoric.",
+                  "category": "landmark",
+                  "coords": [
+                        27.106699,
+                        48.35924
+                  ]
+            },
+            {
+                  "name": "Zona Otdykha",
+                  "text": "Zonă de odihnă în Briceni, cu spații verzi și locuri de joacă.",
+                  "category": "landmark",
+                  "coords": [
+                        27.078652,
+                        48.361111
+                  ]
+            },
+            {
+                  "name": "Tractor",
+                  "text": "Monumentul tractorului din Briceni, o mărturie a istoriei agricole.",
+                  "category": "historical",
+                  "coords": [
+                        27.100393,
+                        48.351722
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Briceni Jewish Cemetery",
+                  "text": "The Jewish cemetery in Briceni, a historic burial ground.",
+                  "category": "landmark",
+                  "coords": [
+                        27.106699,
+                        48.35924
+                  ]
+            },
+            {
+                  "name": "Zona Otdykha",
+                  "text": "Recreation zone in Briceni with green spaces and playgrounds.",
+                  "category": "landmark",
+                  "coords": [
+                        27.078652,
+                        48.361111
+                  ]
+            },
+            {
+                  "name": "Tractor",
+                  "text": "Tractor monument in Briceni, a testament to agricultural history.",
+                  "category": "historical",
+                  "coords": [
+                        27.100393,
+                        48.351722
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "city",
     name: { de: "Briceni", hu: "Briceni", ro: "Briceni", en: "Briceni"},
@@ -5016,7 +5587,7 @@ export const moldovaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Fosta uzină de beton armat",
-                  "text": "Die verlassenen Überreste einer ehemaligen Industrieanlage für Stahlbeton.",
+                  "text": "Ehemalige Stahlbetonfabrik in Drochia, ein Industriedenkmal.",
                   "category": "historical",
                   "coords": [
                         27.784341,
@@ -5027,7 +5598,7 @@ export const moldovaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Fosta uzină de beton armat",
-                  "text": "Egy egykori vasbetongyár elhagyatott maradványai.",
+                  "text": "Egykori vasbetongyár Drochia-ban, ipari műemlék.",
                   "category": "historical",
                   "coords": [
                         27.784341,
@@ -5038,7 +5609,7 @@ export const moldovaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Fosta uzină de beton armat",
-                  "text": "Rămășițele abandonate ale unei foste fabrici de beton armat.",
+                  "text": "Fosta fabrică de beton armat din Drochia, un monument industrial.",
                   "category": "historical",
                   "coords": [
                         27.784341,
@@ -5049,7 +5620,7 @@ export const moldovaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Former reinforced concrete factory",
-                  "text": "The abandoned remains of a former reinforced concrete factory.",
+                  "text": "Former reinforced concrete factory in Drochia, an industrial heritage site.",
                   "category": "historical",
                   "coords": [
                         27.784341,
@@ -5304,7 +5875,448 @@ export const moldovaCitiesV2: POI[] = [
     },
   },
   {
-    id: "moldova-rezina-cities-v2", "sights": {"de": [{"name": "Gorodskoi plyazh", "text": "Der städtische Strand von Rezina am Flussufer.", "category": "recreational", "coords": [28.984159, 47.763242]}, {"name": "Casa de Creație Rezina", "text": "Ein lokales Kunstzentrum für kreative Aktivitäten in Rezina.", "category": "cultural", "coords": [28.961307, 47.743444]}, {"name": "Ruined gigantic factory", "text": "Die Überreste einer großen ehemaligen Fabrik in Rezina.", "category": "historical", "coords": [28.949395, 47.75528]}, {"name": "Evreiskoe kladbishche", "text": "Ein historischer jüdischer Friedhof in Rezina.", "category": "landmark", "coords": [28.997107, 47.75601]}, {"name": "Pod suspendat", "text": "Eine markante Hängebrücke, die Rezina mit dem anderen Ufer verbindet.", "category": "landmark", "coords": [28.954702, 47.760547]}, {"name": "Memorial Voinskoi Slavy", "text": "Der Мемориал Воинской Славы ist ein bedeutender historischer Ort in Rezina in der Republik Moldau. Dieses Denkmal ehrt die gefallenen Soldaten und bewahrt ihr Andenken für zukünftige Generationen. Ein Ort der Stille und des Respekts, der zum Innehalten einlädt.", "category": "historical", "coords": [28.997357, 47.759931]}, {"name": "Pogibshim za Pridnestrove", "text": "Ein Denkmal für die Gefallenen des Transnistrien-Konflikts in Rezina.", "category": "historical", "coords": [28.994589, 47.759059]}, {"name": "Cimitir vechi evreesc", "text": "Ein alter jüdischer Friedhof in der Stadt Rezina.", "category": "landmark", "coords": [28.974727, 47.752571]}, {"name": "Kostel imeni Svyatogo Iosifa", "text": "Die katholische Kirche St. Joseph in Rezina (Rîbnița).", "category": "religious", "coords": [28.998348, 47.760233]}, {"name": "Komsomolskoe ozero", "text": "Der Komsomol-See in Rezina ist ein schöner Ort für Spaziergänge am Ufer.", "category": "natural", "coords": [29.062214, 47.75655]}, {"name": "Zapretka", "text": "Der See Zapretka in Rezina bietet eine ruhige Umgebung in Stadtnähe.", "category": "natural", "coords": [28.987928, 47.750993]}, {"name": "Teren de joacă", "text": "Ein öffentlicher Spielplatz in Rezina für Kinder zum Spielen im Freien.", "category": "family", "coords": [28.957001, 47.746308]}], "hu": [{"name": "Gorodskoi plyazh", "text": "Rezina városi strandja a folyóparton.", "category": "recreational", "coords": [28.984159, 47.763242]}, {"name": "Casa de Creație Rezina", "text": "Helyi művészeti központ kreatív tevékenységekhez Rezinában.", "category": "cultural", "coords": [28.961307, 47.743444]}, {"name": "Ruined gigantic factory", "text": "Egy nagy egykori gyár romjai Rezinában.", "category": "historical", "coords": [28.949395, 47.75528]}, {"name": "Evreiskoe kladbishche", "text": "Történelmi zsidó temető Rezinában.", "category": "landmark", "coords": [28.997107, 47.75601]}, {"name": "Pod suspendat", "text": "Rezina városát a túlsó parttal összekötő függőhíd.", "category": "landmark", "coords": [28.954702, 47.760547]}, {"name": "Memorial Voinskoi Slavy", "text": "A Мемориал Воинской Славы egy jelentős történelmi hely a moldovai Rezinában. Ez az emlékmű a hősi halált halt katonák előtt tiszteleg, és megőrzi emléküket a jövő generációi számára. A csend és a tisztelet helye, amely megállásra késztet.", "category": "historical", "coords": [28.997357, 47.759931]}, {"name": "Pogibshim za Pridnestrove", "text": "A transznisztriai konfliktus áldozatainak emlékműve Rezinában.", "category": "historical", "coords": [28.994589, 47.759059]}, {"name": "Cimitir vechi evreesc", "text": "Régi zsidó temető Rezina városában.", "category": "landmark", "coords": [28.974727, 47.752571]}, {"name": "Kostel imeni Svyatogo Iosifa", "text": "Szent József katolikus templom Rezinában (Rîbnița).", "category": "religious", "coords": [28.998348, 47.760233]}, {"name": "Komsomolskoe ozero", "text": "A Komszomol-tó Rezinában egy szép hely a vízparti sétákhoz.", "category": "natural", "coords": [29.062214, 47.75655]}, {"name": "Zapretka", "text": "A Zapretka-tó Rezinában nyugodt környezetet kínál a város közelében.", "category": "natural", "coords": [28.987928, 47.750993]}, {"name": "Teren de joacă", "text": "Egy nyilvános játszótér Rezinában a gyerekek szabadtéri játékához.", "category": "family", "coords": [28.957001, 47.746308]}], "ro": [{"name": "Plaja orășenească", "text": "Plaja orășenească din Rezina pe malul râului.", "category": "recreational", "coords": [28.984159, 47.763242]}, {"name": "Casa de Creație Rezina", "text": "Un centru de artă local pentru activități creative din Rezina.", "category": "cultural", "coords": [28.961307, 47.743444]}, {"name": "Ruined gigantic factory", "text": "Ruinele unei foste fabrici mari din Rezina.", "category": "historical", "coords": [28.949395, 47.75528]}, {"name": "Cimitirul Evreiesc", "text": "Un cimitir evreiesc istoric în Rezina.", "category": "landmark", "coords": [28.997107, 47.75601]}, {"name": "Pod metalic suspendat", "text": "Un pod suspendat care leagă Rezina de malul opus.", "category": "landmark", "coords": [28.954702, 47.760547]}, {"name": "Memorial Voinskoi Slavy", "text": "Мемориал Воинской Славы este un loc istoric semnificativ în Rezina, Republica Moldova. Acest monument onorează soldații căzuți și le păstrează memoria pentru generațiile viitoare. Un loc de tăcere și respect care invită la reflecție.", "category": "historical", "coords": [28.997357, 47.759931]}, {"name": "Pogibshim za Pridnestrove", "text": "Un monument dedicat celor căzuți în conflictul transnistrean în Rezina.", "category": "historical", "coords": [28.994589, 47.759059]}, {"name": "Cimitir vechi evreesc", "text": "Un vechi cimitir evreiesc din orașul Rezina.", "category": "landmark", "coords": [28.974727, 47.752571]}, {"name": "Biserica Catolică", "text": "Biserica catolică Sfântul Iosif din Rezina (Rîbnița).", "category": "religious", "coords": [28.998348, 47.760233]}, {"name": "Lacul Comsomolist", "text": "Lacul Komsomolist din Rezina este un loc frumos pentru plimbări pe malul apei.", "category": "natural", "coords": [29.062214, 47.75655]}, {"name": "Zapretka", "text": "Lacul Zapretka din Rezina oferă o ambianță liniștită în apropierea orașului.", "category": "natural", "coords": [28.987928, 47.750993]}, {"name": "Teren de joacă", "text": "Un teren de joacă public în Rezina pentru copiii care vor să se joace afară.", "category": "family", "coords": [28.957001, 47.746308]}], "en": [{"name": "Gorodskoi plyazh", "text": "The city beach of Rezina on the riverbank.", "category": "recreational", "coords": [28.984159, 47.763242]}, {"name": "Casa de Creație Rezina", "text": "A local arts centre for creative activities in Rezina.", "category": "cultural", "coords": [28.961307, 47.743444]}, {"name": "Ruined gigantic factory", "text": "The ruins of a large former factory in Rezina.", "category": "historical", "coords": [28.949395, 47.75528]}, {"name": "Evreiskoe kladbishche", "text": "A historical Jewish cemetery in Rezina.", "category": "landmark", "coords": [28.997107, 47.75601]}, {"name": "Suspension bridge", "text": "A suspension bridge connecting Rezina to the opposite bank.", "category": "landmark", "coords": [28.954702, 47.760547]}, {"name": "Memorial Voinskoi Slavy", "text": "The Мемориал Воинской Славы is a significant historical site in Rezina, Moldova. This monument honors the fallen soldiers and preserves their memory for future generations. It is a place of silence and respect that invites quiet reflection.", "category": "historical", "coords": [28.997357, 47.759931]}, {"name": "Pogibshim za Pridnestrove", "text": "A monument dedicated to those who died in the Transnistrian conflict in Rezina.", "category": "historical", "coords": [28.994589, 47.759059]}, {"name": "Cimitir vechi evreesc", "text": "An old Jewish cemetery in the city of Rezina.", "category": "landmark", "coords": [28.974727, 47.752571]}, {"name": "Kostel imeni Svyatogo Iosifa", "text": "St. Joseph's Catholic Church in Rezina (Rîbnița).", "category": "religious", "coords": [28.998348, 47.760233]}, {"name": "Komsomolskoe ozero", "text": "Komsomol Lake in Rezina is a lovely spot for walks along the shore.", "category": "natural", "coords": [29.062214, 47.75655]}, {"name": "Zapretka", "text": "Zapretka Lake in Rezina offers a quiet setting near the city.", "category": "natural", "coords": [28.987928, 47.750993]}, {"name": "Teren de joacă", "text": "A public playground in Rezina for children to enjoy outdoor activities.", "category": "family", "coords": [28.957001, 47.746308]}]},
+    id: "moldova-rezina-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gorodskoi plyazh",
+                  "text": "Stadtstrand am Dnister in Rezina.",
+                  "category": "recreational",
+                  "coords": [
+                        28.984159,
+                        47.763242
+                  ]
+            },
+            {
+                  "name": "Casa de Creație Rezina",
+                  "text": "Kulturhaus Casa de Creație in Rezina mit Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        28.961307,
+                        47.743444
+                  ]
+            },
+            {
+                  "name": "Ruined gigantic factory",
+                  "text": "Ruinen einer riesigen Fabrik in Rezina, ein industrielles Erbe.",
+                  "category": "historical",
+                  "coords": [
+                        28.949395,
+                        47.75528
+                  ]
+            },
+            {
+                  "name": "Evreiskoe kladbishche",
+                  "text": "Jüdischer Friedhof in Rezina, historische Grabstätten.",
+                  "category": "landmark",
+                  "coords": [
+                        28.997107,
+                        47.75601
+                  ]
+            },
+            {
+                  "name": "Pod suspendat",
+                  "text": "Eine markante Hängebrücke, die Rezina mit dem anderen Ufer verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        28.954702,
+                        47.760547
+                  ]
+            },
+            {
+                  "name": "Memorial Voinskoi Slavy",
+                  "text": "Der Мемориал Воинской Славы ist ein bedeutender historischer Ort in Rezina in der Republik Moldau. Dieses Denkmal ehrt die gefallenen Soldaten und bewahrt ihr Andenken für zukünftige Generationen. Ein Ort der Stille und des Respekts, der zum Innehalten einlädt.",
+                  "category": "historical",
+                  "coords": [
+                        28.997357,
+                        47.759931
+                  ]
+            },
+            {
+                  "name": "Pogibshim za Pridnestrove",
+                  "text": "Ein Denkmal für die Gefallenen des Transnistrien-Konflikts in Rezina.",
+                  "category": "historical",
+                  "coords": [
+                        28.994589,
+                        47.759059
+                  ]
+            },
+            {
+                  "name": "Cimitir vechi evreesc",
+                  "text": "Alter jüdischer Friedhof in Rezina, mit alten Grabsteinen.",
+                  "category": "landmark",
+                  "coords": [
+                        28.974727,
+                        47.752571
+                  ]
+            },
+            {
+                  "name": "Kostel imeni Svyatogo Iosifa",
+                  "text": "Eine katholische Kirche, die dem heiligen Josef geweiht ist, nahe Rezina in Moldawien.",
+                  "category": "religious",
+                  "coords": [
+                        28.998348,
+                        47.760233
+                  ]
+            },
+            {
+                  "name": "Komsomolskoe ozero",
+                  "text": "Der Komsomol-See in Rezina ist ein schöner Ort für Spaziergänge am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        29.062214,
+                        47.75655
+                  ]
+            },
+            {
+                  "name": "Zapretka",
+                  "text": "Der See Zapretka in Rezina bietet eine ruhige Umgebung in Stadtnähe.",
+                  "category": "natural",
+                  "coords": [
+                        28.987928,
+                        47.750993
+                  ]
+            },
+            {
+                  "name": "Teren de joacă",
+                  "text": "Ein öffentlicher Spielplatz in Rezina für Kinder zum Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        28.957001,
+                        47.746308
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gorodskoi plyazh",
+                  "text": "Városi strand a Dnyeszter partján Rezina-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        28.984159,
+                        47.763242
+                  ]
+            },
+            {
+                  "name": "Casa de Creație Rezina",
+                  "text": "Casa de Creație kulturház Rezina-ban rendezvényekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        28.961307,
+                        47.743444
+                  ]
+            },
+            {
+                  "name": "Ruined gigantic factory",
+                  "text": "Egy hatalmas gyár romjai Rezina-ban, ipari örökség.",
+                  "category": "historical",
+                  "coords": [
+                        28.949395,
+                        47.75528
+                  ]
+            },
+            {
+                  "name": "Evreiskoe kladbishche",
+                  "text": "Zsidó temető Rezina-ban, történelmi sírok.",
+                  "category": "landmark",
+                  "coords": [
+                        28.997107,
+                        47.75601
+                  ]
+            },
+            {
+                  "name": "Pod suspendat",
+                  "text": "Rezina városát a túlsó parttal összekötő függőhíd.",
+                  "category": "landmark",
+                  "coords": [
+                        28.954702,
+                        47.760547
+                  ]
+            },
+            {
+                  "name": "Memorial Voinskoi Slavy",
+                  "text": "A Мемориал Воинской Славы egy jelentős történelmi hely a moldovai Rezinában. Ez az emlékmű a hősi halált halt katonák előtt tiszteleg, és megőrzi emléküket a jövő generációi számára. A csend és a tisztelet helye, amely megállásra késztet.",
+                  "category": "historical",
+                  "coords": [
+                        28.997357,
+                        47.759931
+                  ]
+            },
+            {
+                  "name": "Pogibshim za Pridnestrove",
+                  "text": "A transznisztriai konfliktus áldozatainak emlékműve Rezinában.",
+                  "category": "historical",
+                  "coords": [
+                        28.994589,
+                        47.759059
+                  ]
+            },
+            {
+                  "name": "Cimitir vechi evreesc",
+                  "text": "Régi zsidó temető Rezina-ban, régi sírkövekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        28.974727,
+                        47.752571
+                  ]
+            },
+            {
+                  "name": "Kostel imeni Svyatogo Iosifa",
+                  "text": "Egy Szent Józsefnek szentelt katolikus templom Rezina közelében, Moldovában.",
+                  "category": "religious",
+                  "coords": [
+                        28.998348,
+                        47.760233
+                  ]
+            },
+            {
+                  "name": "Komsomolskoe ozero",
+                  "text": "A Komszomol-tó Rezinában egy szép hely a vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        29.062214,
+                        47.75655
+                  ]
+            },
+            {
+                  "name": "Zapretka",
+                  "text": "A Zapretka-tó Rezinában nyugodt környezetet kínál a város közelében.",
+                  "category": "natural",
+                  "coords": [
+                        28.987928,
+                        47.750993
+                  ]
+            },
+            {
+                  "name": "Teren de joacă",
+                  "text": "Egy nyilvános játszótér Rezinában a gyerekek szabadtéri játékához.",
+                  "category": "family",
+                  "coords": [
+                        28.957001,
+                        47.746308
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaja orășenească",
+                  "text": "Plajă orășenească pe malul Nistrului în Rezina.",
+                  "category": "recreational",
+                  "coords": [
+                        28.984159,
+                        47.763242
+                  ]
+            },
+            {
+                  "name": "Casa de Creație Rezina",
+                  "text": "Casa de Creație din Rezina, centru cultural cu evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        28.961307,
+                        47.743444
+                  ]
+            },
+            {
+                  "name": "Ruined gigantic factory",
+                  "text": "Ruinele unei fabrici uriașe din Rezina, un patrimoniu industrial.",
+                  "category": "historical",
+                  "coords": [
+                        28.949395,
+                        47.75528
+                  ]
+            },
+            {
+                  "name": "Cimitirul Evreiesc",
+                  "text": "Cimitir evreiesc în Rezina, morminte istorice.",
+                  "category": "landmark",
+                  "coords": [
+                        28.997107,
+                        47.75601
+                  ]
+            },
+            {
+                  "name": "Pod metalic suspendat",
+                  "text": "Un pod suspendat care leagă Rezina de malul opus.",
+                  "category": "landmark",
+                  "coords": [
+                        28.954702,
+                        47.760547
+                  ]
+            },
+            {
+                  "name": "Memorial Voinskoi Slavy",
+                  "text": "Мемориал Воинской Славы este un loc istoric semnificativ în Rezina, Republica Moldova. Acest monument onorează soldații căzuți și le păstrează memoria pentru generațiile viitoare. Un loc de tăcere și respect care invită la reflecție.",
+                  "category": "historical",
+                  "coords": [
+                        28.997357,
+                        47.759931
+                  ]
+            },
+            {
+                  "name": "Pogibshim za Pridnestrove",
+                  "text": "Un monument dedicat celor căzuți în conflictul transnistrean în Rezina.",
+                  "category": "historical",
+                  "coords": [
+                        28.994589,
+                        47.759059
+                  ]
+            },
+            {
+                  "name": "Cimitir vechi evreesc",
+                  "text": "Cimitir vechi evreiesc în Rezina, cu pietre funerare vechi.",
+                  "category": "landmark",
+                  "coords": [
+                        28.974727,
+                        47.752571
+                  ]
+            },
+            {
+                  "name": "Biserica Catolică",
+                  "text": "O biserică catolică dedicată Sfântului Iosif, lângă Rezina în Republica Moldova.",
+                  "category": "religious",
+                  "coords": [
+                        28.998348,
+                        47.760233
+                  ]
+            },
+            {
+                  "name": "Lacul Comsomolist",
+                  "text": "Lacul Komsomolist din Rezina este un loc frumos pentru plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        29.062214,
+                        47.75655
+                  ]
+            },
+            {
+                  "name": "Zapretka",
+                  "text": "Lacul Zapretka din Rezina oferă o ambianță liniștită în apropierea orașului.",
+                  "category": "natural",
+                  "coords": [
+                        28.987928,
+                        47.750993
+                  ]
+            },
+            {
+                  "name": "Teren de joacă",
+                  "text": "Un teren de joacă public în Rezina pentru copiii care vor să se joace afară.",
+                  "category": "family",
+                  "coords": [
+                        28.957001,
+                        47.746308
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gorodskoi plyazh",
+                  "text": "City beach on the Dniester River in Rezina.",
+                  "category": "recreational",
+                  "coords": [
+                        28.984159,
+                        47.763242
+                  ]
+            },
+            {
+                  "name": "Casa de Creație Rezina",
+                  "text": "Casa de Creație cultural house in Rezina hosting events.",
+                  "category": "cultural",
+                  "coords": [
+                        28.961307,
+                        47.743444
+                  ]
+            },
+            {
+                  "name": "Ruined gigantic factory",
+                  "text": "Ruins of a gigantic factory in Rezina, an industrial legacy.",
+                  "category": "historical",
+                  "coords": [
+                        28.949395,
+                        47.75528
+                  ]
+            },
+            {
+                  "name": "Evreiskoe kladbishche",
+                  "text": "Jewish cemetery in Rezina with historic graves.",
+                  "category": "landmark",
+                  "coords": [
+                        28.997107,
+                        47.75601
+                  ]
+            },
+            {
+                  "name": "Suspension bridge",
+                  "text": "A suspension bridge connecting Rezina to the opposite bank.",
+                  "category": "landmark",
+                  "coords": [
+                        28.954702,
+                        47.760547
+                  ]
+            },
+            {
+                  "name": "Memorial Voinskoi Slavy",
+                  "text": "The Мемориал Воинской Славы is a significant historical site in Rezina, Moldova. This monument honors the fallen soldiers and preserves their memory for future generations. It is a place of silence and respect that invites quiet reflection.",
+                  "category": "historical",
+                  "coords": [
+                        28.997357,
+                        47.759931
+                  ]
+            },
+            {
+                  "name": "Pogibshim za Pridnestrove",
+                  "text": "A monument dedicated to those who died in the Transnistrian conflict in Rezina.",
+                  "category": "historical",
+                  "coords": [
+                        28.994589,
+                        47.759059
+                  ]
+            },
+            {
+                  "name": "Cimitir vechi evreesc",
+                  "text": "Old Jewish cemetery in Rezina with ancient tombstones.",
+                  "category": "landmark",
+                  "coords": [
+                        28.974727,
+                        47.752571
+                  ]
+            },
+            {
+                  "name": "Kostel imeni Svyatogo Iosifa",
+                  "text": "A Catholic church dedicated to St. Joseph, located near Rezina in Moldova.",
+                  "category": "religious",
+                  "coords": [
+                        28.998348,
+                        47.760233
+                  ]
+            },
+            {
+                  "name": "Komsomolskoe ozero",
+                  "text": "Komsomol Lake in Rezina is a lovely spot for walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        29.062214,
+                        47.75655
+                  ]
+            },
+            {
+                  "name": "Zapretka",
+                  "text": "Zapretka Lake in Rezina offers a quiet setting near the city.",
+                  "category": "natural",
+                  "coords": [
+                        28.987928,
+                        47.750993
+                  ]
+            },
+            {
+                  "name": "Teren de joacă",
+                  "text": "A public playground in Rezina for children to enjoy outdoor activities.",
+                  "category": "family",
+                  "coords": [
+                        28.957001,
+                        47.746308
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "city",
     name: { de: "Rezina", hu: "Rezina", ro: "Rezina", en: "Rezina"},
@@ -5364,7 +6376,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Grotă",
-                  "text": "Eine natürliche oder künstliche Grotte von lokalem Interesse.",
+                  "text": "Grotte in Glodeni, eine natürliche Höhle.",
                   "category": "landmark",
                   "coords": [
                         27.347113,
@@ -5373,7 +6385,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Recifele de la Cobani",
-                  "text": "Uralte Kalksteinriffe, die aus einem fossilen Meer entstanden sind.",
+                  "text": "Felsenriffe von Cobani bei Glodeni, bizarre Felsformationen.",
                   "category": "landmark",
                   "coords": [
                         27.327143,
@@ -5391,7 +6403,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "La Varta Horelor",
-                  "text": "Ein Ort für traditionelle kulturelle Versammlungen und Tänze.",
+                  "text": "Tor von Varta Horelor in Glodeni, ein lokales Wahrzeichen.",
                   "category": "landmark",
                   "coords": [
                         27.32636,
@@ -5400,7 +6412,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Biserica din lemn \"Sfîntul Mihail\"",
-                  "text": "Eine historische Holzkirche, die dem Heiligen Michael gewidmet ist.",
+                  "text": "Holzkirche St. Michael in Glodeni, ein Baudenkmal.",
                   "category": "landmark",
                   "coords": [
                         27.322377,
@@ -5420,7 +6432,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Grotă",
-                  "text": "Helyi jelentőségű természetes vagy mesterséges barlang.",
+                  "text": "Barlang Glodeni-ben, egy természetes üreg.",
                   "category": "landmark",
                   "coords": [
                         27.347113,
@@ -5429,7 +6441,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Recifele de la Cobani",
-                  "text": "Ősi mészkőzátonyok, amelyek egy fosszilis tengerből maradtak fenn.",
+                  "text": "Cobani sziklazátonyai Glodeni mellett, különös sziklaformációk.",
                   "category": "landmark",
                   "coords": [
                         27.327143,
@@ -5447,7 +6459,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "La Varta Horelor",
-                  "text": "Hagyományos kulturális összejövetelek és táncok helyszíne.",
+                  "text": "Varta Horelor kapuja Glodeni-ben, helyi nevezetesség.",
                   "category": "landmark",
                   "coords": [
                         27.32636,
@@ -5456,7 +6468,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Biserica din lemn \"Sfîntul Mihail\"",
-                  "text": "Szent Mihály tiszteletére szentelt történelmi fatemplom.",
+                  "text": "Szent Mihály fatemplom Glodeni-ben, műemlék.",
                   "category": "landmark",
                   "coords": [
                         27.322377,
@@ -5476,7 +6488,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Grotă",
-                  "text": "O grotă naturală sau artificială de interes local.",
+                  "text": "Grota din Glodeni, o peșteră naturală.",
                   "category": "landmark",
                   "coords": [
                         27.347113,
@@ -5485,7 +6497,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Recifele de la Cobani",
-                  "text": "Recife antice de calcar formate într-o mare fosilă.",
+                  "text": "Recifele de la Cobani lângă Glodeni, formațiuni stâncoase bizare.",
                   "category": "landmark",
                   "coords": [
                         27.327143,
@@ -5503,7 +6515,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "La Varta Horelor",
-                  "text": "Un loc pentru adunări culturale tradiționale și dansuri populare.",
+                  "text": "Poarta Varta Horelor din Glodeni, un reper local.",
                   "category": "landmark",
                   "coords": [
                         27.32636,
@@ -5512,7 +6524,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Biserica din lemn \"Sfîntul Mihail\"",
-                  "text": "O biserică istorică din lemn dedicată Sfântului Mihail.",
+                  "text": "Biserica de lemn „Sfântul Mihail” din Glodeni, monument arhitectural.",
                   "category": "landmark",
                   "coords": [
                         27.322377,
@@ -5532,7 +6544,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Grotă",
-                  "text": "A natural or artificial grotto of local interest.",
+                  "text": "Grotto in Glodeni, a natural cave.",
                   "category": "landmark",
                   "coords": [
                         27.347113,
@@ -5541,7 +6553,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Recifele de la Cobani",
-                  "text": "Ancient limestone reefs formed in a fossil sea.",
+                  "text": "Reefs of Cobani near Glodeni, bizarre rock formations.",
                   "category": "landmark",
                   "coords": [
                         27.327143,
@@ -5559,7 +6571,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "La Varta Horelor",
-                  "text": "A site for traditional cultural gatherings and dances.",
+                  "text": "Gate of Varta Horelor in Glodeni, a local landmark.",
                   "category": "landmark",
                   "coords": [
                         27.32636,
@@ -5568,7 +6580,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Biserica din lemn \"Sfîntul Mihail\"",
-                  "text": "A historic wooden church dedicated to Saint Michael.",
+                  "text": "Wooden church of St. Michael in Glodeni, an architectural monument.",
                   "category": "landmark",
                   "coords": [
                         27.322377,
@@ -5856,7 +6868,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Biserica „Sfântul Ierarh Nicolae”",
-                  "text": "Eine lokale orthodoxe Kirche, die dem Heiligen Nikolaus gewidmet ist.",
+                  "text": "Rumänisch-orthodoxe Kirche in der Stadt Basarabeasca, Moldawien.",
                   "category": "religious",
                   "coords": [
                         28.964326,
@@ -5885,7 +6897,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Biserica „Sfântul Ierarh Nicolae”",
-                  "text": "Szent Miklós tiszteletére szentelt helyi ortodox templom.",
+                  "text": "Román ortodox templom Basarabeasca városában, Moldovában.",
                   "category": "religious",
                   "coords": [
                         28.964326,
@@ -5914,7 +6926,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Biserica „Sfântul Ierarh Nicolae”",
-                  "text": "O biserică ortodoxă locală dedicată Sfântului Ierarh Nicolae.",
+                  "text": "Biserică ortodoxă românească în orașul Basarabeasca, Moldova.",
                   "category": "religious",
                   "coords": [
                         28.964326,
@@ -5943,7 +6955,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Biserica „Sfântul Ierarh Nicolae”",
-                  "text": "A local Orthodox church dedicated to Saint Nicholas.",
+                  "text": "Romanian Orthodox church in the town of Basarabeasca, Moldova.",
                   "category": "religious",
                   "coords": [
                         28.964326,
@@ -6045,7 +7057,124 @@ export const moldovaCitiesV2: POI[] = [
     },
   },
   {
-    id: "moldova-leova-cities-v2", "sights": {"de": [{"name": "Muzeul de Istorie și Etnografie Leova", "text": "In der moldauischen Stadt Leova bietet das Muzeul de Istorie și Etnografie Leova faszinierende Einblicke in vergangene Zeiten. Als Museum für Geschichte und Ethnografie bewahrt es wertvolle lokale Traditionen. Besucher können hier die kulturelle Entwicklung der Region Leova auf eindrucksvolle Weise nachvollziehen.", "category": "museum", "coords": [28.25255, 46.481082]}, {"name": "Cimitirul Evreiesc din Leova", "text": "Historischer jüdischer Friedhof in Leova.", "category": "landmark", "coords": [28.263799, 46.471941]}, {"name": "Biserica Sfânta Parascheva", "text": "Eine orthodoxe Kirche, die der Heiligen Parascheva in Leova gewidmet ist.", "category": "religious", "coords": [28.250395, 46.47877]}], "hu": [{"name": "Muzeul de Istorie și Etnografie Leova", "text": "A moldovai Leova városában a Muzeul de Istorie și Etnografie Leova lenyűgöző bepillantást nyújt az elmúlt időkbe. Történelmi és néprajzi múzeumként őrzi az értékes helyi hagyományokat. A látogatók itt lenyűgöző módon kísérhetik figyelemmel a leovai régió kulturális fejlődését.", "category": "museum", "coords": [28.25255, 46.481082]}, {"name": "Cimitirul Evreiesc din Leova", "text": "Történelmi zsidó temető Leovában.", "category": "landmark", "coords": [28.263799, 46.471941]}, {"name": "Biserica Sfânta Parascheva", "text": "Szent Paraszkivának szentelt ortodox templom Leovában.", "category": "religious", "coords": [28.250395, 46.47877]}], "ro": [{"name": "Muzeul de Istorie și Etnografie Leova", "text": "În orașul moldovenesc Leova, Muzeul de Istorie și Etnografie Leova oferă o privire fascinantă asupra vremurilor trecute. Ca muzeu de istorie și etnografie, păstrează tradiții locale valoroase. Vizitatorii pot urmări aici într-un mod impresionant dezvoltarea culturală a regiunii Leova.", "category": "museum", "coords": [28.25255, 46.481082]}, {"name": "Cimitirul evreiesc", "text": "Cimitir evreiesc istoric din Leova.", "category": "landmark", "coords": [28.263799, 46.471941]}, {"name": "Biserica Sfânta Parascheva", "text": "O biserică ortodoxă dedicată Sfintei Parascheva din Leova.", "category": "religious", "coords": [28.250395, 46.47877]}], "en": [{"name": "Muzeul de Istorie și Etnografie Leova", "text": "In the Moldovan city of Leova, the Muzeul de Istorie și Etnografie Leova offers fascinating insights into times past. As a museum of history and ethnography, it preserves valuable local traditions. Visitors can trace the cultural development of the Leova region in an impressive way here.", "category": "museum", "coords": [28.25255, 46.481082]}, {"name": "Cimitirul Evreiesc din Leova", "text": "Historical Jewish cemetery in Leova.", "category": "landmark", "coords": [28.263799, 46.471941]}, {"name": "Biserica Sfânta Parascheva", "text": "An Orthodox church dedicated to Saint Parascheva in Leova.", "category": "religious", "coords": [28.250395, 46.47877]}]},
+    id: "moldova-leova-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzeul de Istorie și Etnografie Leova",
+                  "text": "In der moldauischen Stadt Leova bietet das Muzeul de Istorie și Etnografie Leova faszinierende Einblicke in vergangene Zeiten. Als Museum für Geschichte und Ethnografie bewahrt es wertvolle lokale Traditionen. Besucher können hier die kulturelle Entwicklung der Region Leova auf eindrucksvolle Weise nachvollziehen.",
+                  "category": "museum",
+                  "coords": [
+                        28.25255,
+                        46.481082
+                  ]
+            },
+            {
+                  "name": "Cimitirul Evreiesc din Leova",
+                  "text": "Jüdischer Friedhof in Leova mit historischen Gräbern.",
+                  "category": "landmark",
+                  "coords": [
+                        28.263799,
+                        46.471941
+                  ]
+            },
+            {
+                  "name": "Biserica Sfânta Parascheva",
+                  "text": "Eine orthodoxe Kirche, die der Heiligen Parascheva in Leova gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        28.250395,
+                        46.47877
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzeul de Istorie și Etnografie Leova",
+                  "text": "A moldovai Leova városában a Muzeul de Istorie și Etnografie Leova lenyűgöző bepillantást nyújt az elmúlt időkbe. Történelmi és néprajzi múzeumként őrzi az értékes helyi hagyományokat. A látogatók itt lenyűgöző módon kísérhetik figyelemmel a leovai régió kulturális fejlődését.",
+                  "category": "museum",
+                  "coords": [
+                        28.25255,
+                        46.481082
+                  ]
+            },
+            {
+                  "name": "Cimitirul Evreiesc din Leova",
+                  "text": "Zsidó temető Leova-ban történelmi sírokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        28.263799,
+                        46.471941
+                  ]
+            },
+            {
+                  "name": "Biserica Sfânta Parascheva",
+                  "text": "Szent Paraszkivának szentelt ortodox templom Leovában.",
+                  "category": "religious",
+                  "coords": [
+                        28.250395,
+                        46.47877
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeul de Istorie și Etnografie Leova",
+                  "text": "În orașul moldovenesc Leova, Muzeul de Istorie și Etnografie Leova oferă o privire fascinantă asupra vremurilor trecute. Ca muzeu de istorie și etnografie, păstrează tradiții locale valoroase. Vizitatorii pot urmări aici într-un mod impresionant dezvoltarea culturală a regiunii Leova.",
+                  "category": "museum",
+                  "coords": [
+                        28.25255,
+                        46.481082
+                  ]
+            },
+            {
+                  "name": "Cimitirul evreiesc",
+                  "text": "Cimitirul evreiesc din Leova cu morminte istorice.",
+                  "category": "landmark",
+                  "coords": [
+                        28.263799,
+                        46.471941
+                  ]
+            },
+            {
+                  "name": "Biserica Sfânta Parascheva",
+                  "text": "O biserică ortodoxă dedicată Sfintei Parascheva din Leova.",
+                  "category": "religious",
+                  "coords": [
+                        28.250395,
+                        46.47877
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzeul de Istorie și Etnografie Leova",
+                  "text": "In the Moldovan city of Leova, the Muzeul de Istorie și Etnografie Leova offers fascinating insights into times past. As a museum of history and ethnography, it preserves valuable local traditions. Visitors can trace the cultural development of the Leova region in an impressive way here.",
+                  "category": "museum",
+                  "coords": [
+                        28.25255,
+                        46.481082
+                  ]
+            },
+            {
+                  "name": "Cimitirul Evreiesc din Leova",
+                  "text": "Jewish cemetery in Leova with historic graves.",
+                  "category": "landmark",
+                  "coords": [
+                        28.263799,
+                        46.471941
+                  ]
+            },
+            {
+                  "name": "Biserica Sfânta Parascheva",
+                  "text": "An Orthodox church dedicated to Saint Parascheva in Leova.",
+                  "category": "religious",
+                  "coords": [
+                        28.250395,
+                        46.47877
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "city",
     name: { de: "Leova", hu: "Leova", ro: "Leova", en: "Leova"},
@@ -6096,7 +7225,7 @@ export const moldovaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "ZOO-MAGAZIN",
-                  "text": "Eine kleine lokale Tierausstellung oder Zoohandlung.",
+                  "text": "Zoo-Magazin in Nisporeni, ein kleiner Tierpark.",
                   "category": "family",
                   "coords": [
                         28.182948,
@@ -6132,7 +7261,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Maiac",
-                  "text": "Ein See in Nisporeni, der zum Verweilen in der Natur einlädt.",
+                  "text": "Maiac-Quelle in Nisporeni, eine natürliche Wasserquelle.",
                   "category": "natural",
                   "coords": [
                         28.158973,
@@ -6150,7 +7279,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "a 2-a cismea",
-                  "text": "Ein kleiner See in Nisporeni, ideal für kurze Spaziergänge.",
+                  "text": "Zweiter Brunnen in Nisporeni, ein öffentlicher Trinkbrunnen.",
                   "category": "natural",
                   "coords": [
                         28.1795,
@@ -6159,7 +7288,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "CISMEA - BOGDAN VODA",
-                  "text": "Ein See in der Region Nisporeni inmitten der Natur.",
+                  "text": "Bogdan-Voda-Brunnen in Nisporeni.",
                   "category": "natural",
                   "coords": [
                         28.186535,
@@ -6188,7 +7317,7 @@ export const moldovaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "ZOO-MAGAZIN",
-                  "text": "Kisebb helyi állatbemutató vagy kisállatkereskedés.",
+                  "text": "Zoo-Magazin Nisporeni-ben, egy kis állatkert.",
                   "category": "family",
                   "coords": [
                         28.182948,
@@ -6224,7 +7353,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Maiac",
-                  "text": "Tó Nisporeniben, amely pihenésre hív a természetben.",
+                  "text": "Maiac-forrás Nisporeni-ben, egy természetes vízforrás.",
                   "category": "natural",
                   "coords": [
                         28.158973,
@@ -6242,7 +7371,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "a 2-a cismea",
-                  "text": "Kisméretű tó Nisporeniben, ideális rövid sétákhoz.",
+                  "text": "Második kút Nisporeni-ben, egy közkút.",
                   "category": "natural",
                   "coords": [
                         28.1795,
@@ -6251,7 +7380,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "CISMEA - BOGDAN VODA",
-                  "text": "Tó Nisporeni környékén a természet lágy ölén.",
+                  "text": "Bogdan Voda-kút Nisporeni-ben.",
                   "category": "natural",
                   "coords": [
                         28.186535,
@@ -6280,7 +7409,7 @@ export const moldovaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "ZOO-MAGAZIN",
-                  "text": "O mică expoziție locală de animale sau magazin zoologic.",
+                  "text": "ZOO-MAGAZIN în Nisporeni, un mic parc zoologic.",
                   "category": "family",
                   "coords": [
                         28.182948,
@@ -6316,7 +7445,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Maiac",
-                  "text": "Un lac în Nisporeni care invită la relaxare în natură.",
+                  "text": "Izvorul Maiac din Nisporeni, o sursă naturală de apă.",
                   "category": "natural",
                   "coords": [
                         28.158973,
@@ -6334,7 +7463,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "a 2-a cismea",
-                  "text": "Un mic lac în Nisporeni, ideal pentru scurte plimbări.",
+                  "text": "A 2-a cișmea din Nisporeni, un cișmea public.",
                   "category": "natural",
                   "coords": [
                         28.1795,
@@ -6343,7 +7472,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "CISMEA - BOGDAN VODA",
-                  "text": "Un lac în regiunea Nisporeni, în mijlocul naturii.",
+                  "text": "Cișmeaua Bogdan Vodă din Nisporeni.",
                   "category": "natural",
                   "coords": [
                         28.186535,
@@ -6372,7 +7501,7 @@ export const moldovaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "ZOO-MAGAZIN",
-                  "text": "A small local animal exhibition or pet shop.",
+                  "text": "ZOO-MAGAZIN in Nisporeni, a small zoo.",
                   "category": "family",
                   "coords": [
                         28.182948,
@@ -6408,7 +7537,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Maiac",
-                  "text": "A lake in Nisporeni that invites relaxation in nature.",
+                  "text": "Maiac spring in Nisporeni, a natural water source.",
                   "category": "natural",
                   "coords": [
                         28.158973,
@@ -6426,7 +7555,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "a 2-a cismea",
-                  "text": "A small lake in Nisporeni, ideal for short walks.",
+                  "text": "Second fountain in Nisporeni, a public drinking fountain.",
                   "category": "natural",
                   "coords": [
                         28.1795,
@@ -6435,7 +7564,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "CISMEA - BOGDAN VODA",
-                  "text": "A lake in the Nisporeni region surrounded by nature.",
+                  "text": "Bogdan Vodă fountain in Nisporeni.",
                   "category": "natural",
                   "coords": [
                         28.186535,
@@ -6508,7 +7637,196 @@ export const moldovaCitiesV2: POI[] = [
     },
   },
   {
-    id: "moldova-grigoriopol-cities-v2", "sights": {"de": [{"name": "DOT № 506 TiUR", "text": "Die Ruinen eines ehemaligen Bunkers der Verteidigungslinie bei Grigoriopol.", "category": "historical", "coords": [29.297851, 47.137796]}, {"name": "DOT № 503 TiUR", "text": "Historische Überreste eines militärischen Bunkers in der Region Grigoriopol.", "category": "historical", "coords": [29.279771, 47.149037]}, {"name": "DOT № 518 TiUR", "text": "Ein weiterer Bunkerkomplex aus der Kriegszeit in der Nähe von Grigoriopol.", "category": "historical", "coords": [29.313951, 47.142281]}, {"name": "memorial Skorbyashchaya mat", "text": "Ein Denkmal in Grigoriopol, das der „trauernden Mutter“ gewidmet ist.", "category": "historical", "coords": [29.292679, 47.147228]}, {"name": "Evreiskoe kladbishche", "text": "Ein historischer jüdischer Friedhof in Grigoriopol.", "category": "landmark", "coords": [29.311175, 47.137238]}], "hu": [{"name": "DOT № 506 TiUR", "text": "Egykori védelmi vonalhoz tartozó bunker romjai Grigoriopol közelében.", "category": "historical", "coords": [29.297851, 47.137796]}, {"name": "DOT № 503 TiUR", "text": "Egy katonai bunker történelmi maradványai Grigoriopol régiójában.", "category": "historical", "coords": [29.279771, 47.149037]}, {"name": "DOT № 518 TiUR", "text": "Újabb háborús bunkermaradvány Grigoriopol környékén.", "category": "historical", "coords": [29.313951, 47.142281]}, {"name": "memorial Skorbyashchaya mat", "text": "Emlékmű Grigoriopolban, amelyet a „gyászoló anyának” szenteltek.", "category": "historical", "coords": [29.292679, 47.147228]}, {"name": "Evreiskoe kladbishche", "text": "Történelmi zsidó temető Grigoriopol városában.", "category": "landmark", "coords": [29.311175, 47.137238]}], "ro": [{"name": "Buncăr Nr 506 TiRF", "text": "Ruinele unui fost buncăr din linia de apărare de lângă Grigoriopol.", "category": "historical", "coords": [29.297851, 47.137796]}, {"name": "Buncăr Nr 503 TiRF", "text": "Rămășițe istorice ale unui buncăr militar din regiunea Grigoriopol.", "category": "historical", "coords": [29.279771, 47.149037]}, {"name": "Buncăr Nr 518 TiRF", "text": "Un alt complex de buncăre din perioada războiului în apropiere de Grigoriopol.", "category": "historical", "coords": [29.313951, 47.142281]}, {"name": "memorial Skorbyashchaya mat", "text": "Un monument din Grigoriopol dedicat „mamei îndurerate”.", "category": "historical", "coords": [29.292679, 47.147228]}, {"name": "Cimitir evreesc", "text": "Un cimitir evreiesc istoric în Grigoriopol.", "category": "landmark", "coords": [29.311175, 47.137238]}], "en": [{"name": "Bunker No 506 TiFR", "text": "The ruins of a former bunker from the defense line near Grigoriopol.", "category": "historical", "coords": [29.297851, 47.137796]}, {"name": "Bunker No 503 TiFR", "text": "Historical remains of a military bunker in the Grigoriopol region.", "category": "historical", "coords": [29.279771, 47.149037]}, {"name": "Bunker No 518 TiFR", "text": "Another wartime bunker complex located near Grigoriopol.", "category": "historical", "coords": [29.313951, 47.142281]}, {"name": "memorial Skorbyashchaya mat", "text": "A monument in Grigoriopol dedicated to the 'sorrowful mother'.", "category": "historical", "coords": [29.292679, 47.147228]}, {"name": "Evreiskoe kladbishche", "text": "A historical Jewish cemetery in Grigoriopol.", "category": "landmark", "coords": [29.311175, 47.137238]}]},
+    id: "moldova-grigoriopol-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "DOT № 506 TiUR",
+                  "text": "Die Ruinen eines ehemaligen Bunkers der Verteidigungslinie bei Grigoriopol.",
+                  "category": "historical",
+                  "coords": [
+                        29.297851,
+                        47.137796
+                  ]
+            },
+            {
+                  "name": "DOT № 503 TiUR",
+                  "text": "Historische Überreste eines militärischen Bunkers in der Region Grigoriopol.",
+                  "category": "historical",
+                  "coords": [
+                        29.279771,
+                        47.149037
+                  ]
+            },
+            {
+                  "name": "DOT № 518 TiUR",
+                  "text": "Ein weiterer Bunkerkomplex aus der Kriegszeit in der Nähe von Grigoriopol.",
+                  "category": "historical",
+                  "coords": [
+                        29.313951,
+                        47.142281
+                  ]
+            },
+            {
+                  "name": "memorial Skorbyashchaya mat",
+                  "text": "Ein Denkmal in Grigoriopol, das der „trauernden Mutter“ gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        29.292679,
+                        47.147228
+                  ]
+            },
+            {
+                  "name": "Evreiskoe kladbishche",
+                  "text": "Jüdischer Friedhof in Grigoriopol.",
+                  "category": "landmark",
+                  "coords": [
+                        29.311175,
+                        47.137238
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "DOT № 506 TiUR",
+                  "text": "Egykori védelmi vonalhoz tartozó bunker romjai Grigoriopol közelében.",
+                  "category": "historical",
+                  "coords": [
+                        29.297851,
+                        47.137796
+                  ]
+            },
+            {
+                  "name": "DOT № 503 TiUR",
+                  "text": "Egy katonai bunker történelmi maradványai Grigoriopol régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        29.279771,
+                        47.149037
+                  ]
+            },
+            {
+                  "name": "DOT № 518 TiUR",
+                  "text": "Újabb háborús bunkermaradvány Grigoriopol környékén.",
+                  "category": "historical",
+                  "coords": [
+                        29.313951,
+                        47.142281
+                  ]
+            },
+            {
+                  "name": "memorial Skorbyashchaya mat",
+                  "text": "Emlékmű Grigoriopolban, amelyet a „gyászoló anyának” szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        29.292679,
+                        47.147228
+                  ]
+            },
+            {
+                  "name": "Evreiskoe kladbishche",
+                  "text": "Zsidó temető Grigoriopol-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        29.311175,
+                        47.137238
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Buncăr Nr 506 TiRF",
+                  "text": "Ruinele unui fost buncăr din linia de apărare de lângă Grigoriopol.",
+                  "category": "historical",
+                  "coords": [
+                        29.297851,
+                        47.137796
+                  ]
+            },
+            {
+                  "name": "Buncăr Nr 503 TiRF",
+                  "text": "Rămășițe istorice ale unui buncăr militar din regiunea Grigoriopol.",
+                  "category": "historical",
+                  "coords": [
+                        29.279771,
+                        47.149037
+                  ]
+            },
+            {
+                  "name": "Buncăr Nr 518 TiRF",
+                  "text": "Un alt complex de buncăre din perioada războiului în apropiere de Grigoriopol.",
+                  "category": "historical",
+                  "coords": [
+                        29.313951,
+                        47.142281
+                  ]
+            },
+            {
+                  "name": "memorial Skorbyashchaya mat",
+                  "text": "Un monument din Grigoriopol dedicat „mamei îndurerate”.",
+                  "category": "historical",
+                  "coords": [
+                        29.292679,
+                        47.147228
+                  ]
+            },
+            {
+                  "name": "Cimitir evreesc",
+                  "text": "Cimitir evreiesc în Grigoriopol.",
+                  "category": "landmark",
+                  "coords": [
+                        29.311175,
+                        47.137238
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bunker No 506 TiFR",
+                  "text": "The ruins of a former bunker from the defense line near Grigoriopol.",
+                  "category": "historical",
+                  "coords": [
+                        29.297851,
+                        47.137796
+                  ]
+            },
+            {
+                  "name": "Bunker No 503 TiFR",
+                  "text": "Historical remains of a military bunker in the Grigoriopol region.",
+                  "category": "historical",
+                  "coords": [
+                        29.279771,
+                        47.149037
+                  ]
+            },
+            {
+                  "name": "Bunker No 518 TiFR",
+                  "text": "Another wartime bunker complex located near Grigoriopol.",
+                  "category": "historical",
+                  "coords": [
+                        29.313951,
+                        47.142281
+                  ]
+            },
+            {
+                  "name": "memorial Skorbyashchaya mat",
+                  "text": "A monument in Grigoriopol dedicated to the 'sorrowful mother'.",
+                  "category": "historical",
+                  "coords": [
+                        29.292679,
+                        47.147228
+                  ]
+            },
+            {
+                  "name": "Evreiskoe kladbishche",
+                  "text": "Jewish cemetery in Grigoriopol.",
+                  "category": "landmark",
+                  "coords": [
+                        29.311175,
+                        47.137238
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "city",
     name: { de: "Grigoriopol", hu: "Grigoriopol", ro: "Grigoriopol", en: "Grigoriopol"},
@@ -6555,7 +7873,124 @@ export const moldovaCitiesV2: POI[] = [
     },
   },
   {
-    id: "moldova-camenca-cities-v2", "sights": {"de": [{"name": "Dom-muzei Geroya Sovetskogo Soyuza I. N. Kovalya", "text": "Das Haus-Museum von I. N. Koval, einem Helden der Sowjetunion, in Camenca.", "category": "museum", "coords": [28.705417, 48.037084]}, {"name": "Dom knyagini Trubetskoi", "text": "Ein historisches Gebäude in Camenca, das mit der Prinzessin Trubezkaja verbunden ist.", "category": "landmark", "coords": [28.687124, 48.032269]}, {"name": "Staroe evreiskoe kladbishche", "text": "Ein historischer jüdischer Friedhof in Camenca.", "category": "landmark", "coords": [28.704287, 48.010015]}], "hu": [{"name": "Dom-muzei Geroya Sovetskogo Soyuza I. N. Kovalya", "text": "I. N. Kovalnak, a Szovjetunió Hősének emlékmúzeuma Camencában.", "category": "museum", "coords": [28.705417, 48.037084]}, {"name": "Dom knyagini Trubetskoi", "text": "Camencai történelmi épület, amely Trubeckaja hercegnőhöz kötődik.", "category": "landmark", "coords": [28.687124, 48.032269]}, {"name": "Staroe evreiskoe kladbishche", "text": "Történelmi zsidó temető Camencában.", "category": "landmark", "coords": [28.704287, 48.010015]}], "ro": [{"name": "Casa-muzeu a eroului Uniunii Sovietice I. N. Koval", "text": "Casa-muzeu a lui I. N. Koval, erou al Uniunii Sovietice, din Camenca.", "category": "museum", "coords": [28.705417, 48.037084]}, {"name": "Casa Prințesei Trubețkaia", "text": "O clădire istorică din Camenca, legată de prințesa Trubețkaia.", "category": "landmark", "coords": [28.687124, 48.032269]}, {"name": "Cimitir vechi evreesc", "text": "Un cimitir evreiesc istoric în Camenca.", "category": "landmark", "coords": [28.704287, 48.010015]}], "en": [{"name": "Dom-muzei Geroya Sovetskogo Soyuza I. N. Kovalya", "text": "The house-museum of I. N. Koval, a Hero of the Soviet Union, in Camenca.", "category": "museum", "coords": [28.705417, 48.037084]}, {"name": "Dom knyagini Trubetskoi", "text": "A historical building in Camenca associated with Princess Trubetskaya.", "category": "landmark", "coords": [28.687124, 48.032269]}, {"name": "Staroe evreiskoe kladbishche", "text": "A historical Jewish cemetery in Camenca.", "category": "landmark", "coords": [28.704287, 48.010015]}]},
+    id: "moldova-camenca-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dom-muzei Geroya Sovetskogo Soyuza I. N. Kovalya",
+                  "text": "Das Haus-Museum von I. N. Koval, einem Helden der Sowjetunion, in Camenca.",
+                  "category": "museum",
+                  "coords": [
+                        28.705417,
+                        48.037084
+                  ]
+            },
+            {
+                  "name": "Dom knyagini Trubetskoi",
+                  "text": "Ein historisches Gebäude in Camenca, das mit der Prinzessin Trubezkaja verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        28.687124,
+                        48.032269
+                  ]
+            },
+            {
+                  "name": "Staroe evreiskoe kladbishche",
+                  "text": "Alter jüdischer Friedhof in Camenca.",
+                  "category": "landmark",
+                  "coords": [
+                        28.704287,
+                        48.010015
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dom-muzei Geroya Sovetskogo Soyuza I. N. Kovalya",
+                  "text": "I. N. Kovalnak, a Szovjetunió Hősének emlékmúzeuma Camencában.",
+                  "category": "museum",
+                  "coords": [
+                        28.705417,
+                        48.037084
+                  ]
+            },
+            {
+                  "name": "Dom knyagini Trubetskoi",
+                  "text": "Camencai történelmi épület, amely Trubeckaja hercegnőhöz kötődik.",
+                  "category": "landmark",
+                  "coords": [
+                        28.687124,
+                        48.032269
+                  ]
+            },
+            {
+                  "name": "Staroe evreiskoe kladbishche",
+                  "text": "Régi zsidó temető Camenca-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        28.704287,
+                        48.010015
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa-muzeu a eroului Uniunii Sovietice I. N. Koval",
+                  "text": "Casa-muzeu a lui I. N. Koval, erou al Uniunii Sovietice, din Camenca.",
+                  "category": "museum",
+                  "coords": [
+                        28.705417,
+                        48.037084
+                  ]
+            },
+            {
+                  "name": "Casa Prințesei Trubețkaia",
+                  "text": "O clădire istorică din Camenca, legată de prințesa Trubețkaia.",
+                  "category": "landmark",
+                  "coords": [
+                        28.687124,
+                        48.032269
+                  ]
+            },
+            {
+                  "name": "Cimitir vechi evreesc",
+                  "text": "Cimitir vechi evreiesc în Camenca.",
+                  "category": "landmark",
+                  "coords": [
+                        28.704287,
+                        48.010015
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dom-muzei Geroya Sovetskogo Soyuza I. N. Kovalya",
+                  "text": "The house-museum of I. N. Koval, a Hero of the Soviet Union, in Camenca.",
+                  "category": "museum",
+                  "coords": [
+                        28.705417,
+                        48.037084
+                  ]
+            },
+            {
+                  "name": "Dom knyagini Trubetskoi",
+                  "text": "A historical building in Camenca associated with Princess Trubetskaya.",
+                  "category": "landmark",
+                  "coords": [
+                        28.687124,
+                        48.032269
+                  ]
+            },
+            {
+                  "name": "Staroe evreiskoe kladbishche",
+                  "text": "Old Jewish cemetery in Camenca.",
+                  "category": "landmark",
+                  "coords": [
+                        28.704287,
+                        48.010015
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "city",
     name: { de: "Camenca", hu: "Camenca", ro: "Camenca", en: "Camenca"},
@@ -6602,7 +8037,160 @@ export const moldovaCitiesV2: POI[] = [
     },
   },
   {
-    id: "moldova-slobozia-cities-v2", "sights": {"de": [{"name": "ozero Vai-Vodyna", "text": "Ein See in Slobozia, der Ruhe und Entspannung bietet.", "category": "natural", "coords": [29.643395, 46.788828]}, {"name": "Ozero", "text": "Ein lokaler See in Slobozia in natürlicher Umgebung.", "category": "natural", "coords": [29.749132, 46.672045]}, {"name": "Ryb Khoz", "text": "Ein See in Slobozia, der sich für Naturbeobachtungen eignet.", "category": "natural", "coords": [29.68409, 46.686266]}, {"name": "Nistrul Vechi", "text": "Ein Gewässer bei Slobozia, ideal für einen Ausflug ins Grüne.", "category": "natural", "coords": [29.624319, 46.679936]}], "hu": [{"name": "ozero Vai-Vodyna", "text": "Tó Sloboziában, amely nyugalmat és kikapcsolódást nyújt.", "category": "natural", "coords": [29.643395, 46.788828]}, {"name": "Ozero", "text": "Helyi tó Sloboziában, természetes környezetben.", "category": "natural", "coords": [29.749132, 46.672045]}, {"name": "Ryb Khoz", "text": "Tó Sloboziában, amely alkalmas természetmegfigyelésre.", "category": "natural", "coords": [29.68409, 46.686266]}, {"name": "Nistrul Vechi", "text": "Vízfelület Slobozia közelében, ideális egy zöld kiránduláshoz.", "category": "natural", "coords": [29.624319, 46.679936]}], "ro": [{"name": "ozero Vai-Vodyna", "text": "Un lac în Slobozia care oferă liniște și relaxare.", "category": "natural", "coords": [29.643395, 46.788828]}, {"name": "Ozero", "text": "Un lac local în Slobozia, într-un cadru natural.", "category": "natural", "coords": [29.749132, 46.672045]}, {"name": "Ryb Khoz", "text": "Un lac în Slobozia, potrivit pentru observarea naturii.", "category": "natural", "coords": [29.68409, 46.686266]}, {"name": "Nistrul Vechi", "text": "O apă lângă Slobozia, ideală pentru o excursie în natură.", "category": "natural", "coords": [29.624319, 46.679936]}], "en": [{"name": "ozero Vai-Vodyna", "text": "A lake in Slobozia offering peace and relaxation.", "category": "natural", "coords": [29.643395, 46.788828]}, {"name": "Ozero", "text": "A local lake in Slobozia set in a natural environment.", "category": "natural", "coords": [29.749132, 46.672045]}, {"name": "Ryb Khoz", "text": "A lake in Slobozia suitable for nature observation.", "category": "natural", "coords": [29.68409, 46.686266]}, {"name": "Nistrul Vechi", "text": "A water body near Slobozia, ideal for a trip into nature.", "category": "natural", "coords": [29.624319, 46.679936]}]},
+    id: "moldova-slobozia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "ozero Vai-Vodyna",
+                  "text": "Der Natursee Vai-Vodyna liegt in der flachen Agrarlandschaft nahe Slobozia.",
+                  "category": "natural",
+                  "coords": [
+                        29.643395,
+                        46.788828
+                  ]
+            },
+            {
+                  "name": "Ozero",
+                  "text": "Der schlichte 'Ozero' (See) ist ein Naturgewässer nahe Slobozia.",
+                  "category": "natural",
+                  "coords": [
+                        29.749132,
+                        46.672045
+                  ]
+            },
+            {
+                  "name": "Ryb Khoz",
+                  "text": "Das Ryb Khoz ist ein Fischteich (natürlicher Teich) in der Umgebung von Slobozia.",
+                  "category": "natural",
+                  "coords": [
+                        29.68409,
+                        46.686266
+                  ]
+            },
+            {
+                  "name": "Nistrul Vechi",
+                  "text": "Ein Gewässer bei Slobozia, ideal für einen Ausflug ins Grüne.",
+                  "category": "natural",
+                  "coords": [
+                        29.624319,
+                        46.679936
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ozero Vai-Vodyna",
+                  "text": "A Vai-Vodyna természetes tó Slobozia közelében, mezőgazdasági területen.",
+                  "category": "natural",
+                  "coords": [
+                        29.643395,
+                        46.788828
+                  ]
+            },
+            {
+                  "name": "Ozero",
+                  "text": "Az egyszerű 'Ozero' (tó) természetes víz Slobozia közelében.",
+                  "category": "natural",
+                  "coords": [
+                        29.749132,
+                        46.672045
+                  ]
+            },
+            {
+                  "name": "Ryb Khoz",
+                  "text": "A Ryb Khoz egy haltenyésztő tó (természetes halastó) Slobozia közelében.",
+                  "category": "natural",
+                  "coords": [
+                        29.68409,
+                        46.686266
+                  ]
+            },
+            {
+                  "name": "Nistrul Vechi",
+                  "text": "Vízfelület Slobozia közelében, ideális egy zöld kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        29.624319,
+                        46.679936
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ozero Vai-Vodyna",
+                  "text": "Lacul natural Vai-Vodyna este situat în peisajul agricol plat lângă Slobozia.",
+                  "category": "natural",
+                  "coords": [
+                        29.643395,
+                        46.788828
+                  ]
+            },
+            {
+                  "name": "Ozero",
+                  "text": "Simplul 'Ozero' (lac) este o apă naturală lângă Slobozia.",
+                  "category": "natural",
+                  "coords": [
+                        29.749132,
+                        46.672045
+                  ]
+            },
+            {
+                  "name": "Ryb Khoz",
+                  "text": "Ryb Khoz este un iaz piscicol natural în apropiere de Slobozia.",
+                  "category": "natural",
+                  "coords": [
+                        29.68409,
+                        46.686266
+                  ]
+            },
+            {
+                  "name": "Nistrul Vechi",
+                  "text": "O apă lângă Slobozia, ideală pentru o excursie în natură.",
+                  "category": "natural",
+                  "coords": [
+                        29.624319,
+                        46.679936
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ozero Vai-Vodyna",
+                  "text": "The natural lake Vai-Vodyna lies in the flat agricultural landscape near Slobozia.",
+                  "category": "natural",
+                  "coords": [
+                        29.643395,
+                        46.788828
+                  ]
+            },
+            {
+                  "name": "Ozero",
+                  "text": "The plain 'Ozero' (Lake) is a natural water body near Slobozia.",
+                  "category": "natural",
+                  "coords": [
+                        29.749132,
+                        46.672045
+                  ]
+            },
+            {
+                  "name": "Ryb Khoz",
+                  "text": "Ryb Khoz is a natural fish pond (fish farm) in the area of Slobozia.",
+                  "category": "natural",
+                  "coords": [
+                        29.68409,
+                        46.686266
+                  ]
+            },
+            {
+                  "name": "Nistrul Vechi",
+                  "text": "A water body near Slobozia, ideal for a trip into nature.",
+                  "category": "natural",
+                  "coords": [
+                        29.624319,
+                        46.679936
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "city",
     name: { de: "Slobozia", hu: "Slobozia", ro: "Slobozia", en: "Slobozia"},
@@ -7006,7 +8594,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Toată Puterea Sovieticilor",
-                  "text": "Ein Denkmal aus der Sowjetzeit in Codru.",
+                  "text": "Das historische Denkmal 'Toată Puterea Sovieticilor' (Alle Macht den Sowjets) steht in Codru.",
                   "category": "historical",
                   "coords": [
                         28.833592,
@@ -7015,7 +8603,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Zard Art Lab",
-                  "text": "Ein zeitgenössisches Kunstlabor und Kreativzentrum in Codru.",
+                  "text": "Zard Art Lab ist ein Kulturraum für zeitgenössische Kunst in Codru.",
                   "category": "cultural",
                   "coords": [
                         28.814547,
@@ -7042,7 +8630,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Turnurile de Apă Costiujeni",
-                  "text": "Historische Wassertürme in der Gegend von Costiujeni in Codru.",
+                  "text": "Die Costiujeni Wassertürme sind ein Wahrzeichen im Gebiet von Codru.",
                   "category": "landmark",
                   "coords": [
                         28.834777,
@@ -7051,7 +8639,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul „Vasimiorca”",
-                  "text": "Der Vasimiorca-See in Codru ist ein ruhiger Ort für Naturbeobachtungen.",
+                  "text": "Der 'Vasimiorca'-See ist ein Natursee in Codru, umgeben von Bäumen.",
                   "category": "natural",
                   "coords": [
                         28.877672,
@@ -7105,7 +8693,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Lebedelor",
-                  "text": "Der Schwanensee in Codru ist ein idyllischer Ort für ruhige Momente.",
+                  "text": "Lacul Lebedelor (Schwanensee) in Codru ist ein Natursee, oft von Schwänen besucht.",
                   "category": "natural",
                   "coords": [
                         28.794152,
@@ -7150,7 +8738,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul „Valea Morilor”",
-                  "text": "Der Valea-Morilor-See ist ein beliebtes Erholungsgebiet in der Region Codru.",
+                  "text": "Der Valea Morilor See (Mühlental-See) in Codru ist nach dem nahen Mühlental benannt.",
                   "category": "natural",
                   "coords": [
                         28.813007,
@@ -7159,7 +8747,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Panda Kids",
-                  "text": "Panda Kids in Codru ist ein fröhlicher Spielort für Kinder.",
+                  "text": "Panda Kids ist ein familienfreundlicher Spielplatz mit Panda-Motiven in Codru.",
                   "category": "family",
                   "coords": [
                         28.833081,
@@ -7177,7 +8765,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Valea Apelor Kids",
-                  "text": "Ein kindgerechter Spielbereich in Codru für Spielspaß mit der Familie.",
+                  "text": "Valea Apelor Kids ist ein Kinderspielplatz im 'Wassertal'-Viertel von Codru.",
                   "category": "family",
                   "coords": [
                         28.837149,
@@ -7186,7 +8774,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Karchevski Urban Villa",
-                  "text": "Eine architektonisch bedeutende Stadtvilla im Ort Codru.",
+                  "text": "Städtische Villa von 1897, entworfen von Alexei Sciusev in Codru.",
                   "category": "landmark",
                   "coords": [
                         28.842111,
@@ -7195,7 +8783,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Befly Garden",
-                  "text": "Ein kleiner Zoo in Codru mit verschiedenen Tierarten.",
+                  "text": "Befly Garden ist ein Erholungsgarten mit Grünflächen in Codru.",
                   "category": "recreational",
                   "coords": [
                         28.852142,
@@ -7204,7 +8792,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Energy Fitness Swimming Pool",
-                  "text": "Ein Schwimmbecken des Energy Fitness Centers in Codru.",
+                  "text": "Das Energy Fitness Schwimmbad ist ein Freizeitbad in Codru.",
                   "category": "recreational",
                   "coords": [
                         28.860654,
@@ -7233,7 +8821,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Toată Puterea Sovieticilor",
-                  "text": "Szovjet korszakból származó emlékmű Codruban.",
+                  "text": "A 'Toată Puterea Sovieticilor' (Minden hatalmat a szovjeteknek) történelmi emlékmű Codruban található.",
                   "category": "historical",
                   "coords": [
                         28.833592,
@@ -7242,7 +8830,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Zard Art Lab",
-                  "text": "Kortárs művészeti laboratórium és kreatív központ Codruban.",
+                  "text": "A Zard Art Lab kortárs művészeti kulturális tér Codruban.",
                   "category": "cultural",
                   "coords": [
                         28.814547,
@@ -7269,7 +8857,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Turnurile de Apă Costiujeni",
-                  "text": "Történelmi víztornyok Codru Costiujeni negyedében.",
+                  "text": "A Costiujeni víztornyok Codru környékének jellegzetes építményei.",
                   "category": "landmark",
                   "coords": [
                         28.834777,
@@ -7278,7 +8866,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul „Vasimiorca”",
-                  "text": "A Vasimiorca-tó Codru területén egy nyugodt hely a természet megfigyelésére.",
+                  "text": "A 'Vasimiorca' tó természetes tó Codruban, fákkal körülvéve.",
                   "category": "natural",
                   "coords": [
                         28.877672,
@@ -7332,7 +8920,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Lebedelor",
-                  "text": "A Hattyú-tó Codru területén egy idilli hely a nyugodt pillanatokhoz.",
+                  "text": "A Lacul Lebedelor (Hattyú-tó) Codruban természetes tó, gyakran látogatják hattyúk.",
                   "category": "natural",
                   "coords": [
                         28.794152,
@@ -7377,7 +8965,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul „Valea Morilor”",
-                  "text": "A Valea Morilor-tó népszerű üdülőövezet Codru régiójában.",
+                  "text": "A Valea Morilor-tó (Malomvölgy-tó) Codruban a közeli malomvölgyről kapta nevét.",
                   "category": "natural",
                   "coords": [
                         28.813007,
@@ -7386,7 +8974,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Panda Kids",
-                  "text": "A Panda Kids Codruban egy vidám játszóhely a gyermekek számára.",
+                  "text": "A Panda Kids családbarát játszótér panda témával Codruban.",
                   "category": "family",
                   "coords": [
                         28.833081,
@@ -7404,7 +8992,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Valea Apelor Kids",
-                  "text": "Gyermekbarát játszóterület Codruban a családi szórakozáshoz.",
+                  "text": "A Valea Apelor Kids egy gyermek játszótér Codru 'Víz-völgy' negyedében.",
                   "category": "family",
                   "coords": [
                         28.837149,
@@ -7413,7 +9001,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Karchevski Urban Villa",
-                  "text": "Építészetileg jelentős városi villa Codru településén.",
+                  "text": "Városi villa 1897-ből, Alexei Sciusev tervezte Codruban.",
                   "category": "landmark",
                   "coords": [
                         28.842111,
@@ -7422,7 +9010,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Befly Garden",
-                  "text": "Kisebb állatkert Codruban, különféle állatfajokkal.",
+                  "text": "A Befly Garden pihenőkert zöldterületekkel Codruban.",
                   "category": "recreational",
                   "coords": [
                         28.852142,
@@ -7431,7 +9019,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Energy Fitness Swimming Pool",
-                  "text": "Az Energy Fitness úszómedencéje Codruban.",
+                  "text": "Az Energy Fitness úszómedence szabadidős létesítmény Codruban.",
                   "category": "recreational",
                   "coords": [
                         28.860654,
@@ -7460,7 +9048,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Toată Puterea Sovieticilor",
-                  "text": "Un monument din perioada sovietică în Codru.",
+                  "text": "Monumentul istoric 'Toată Puterea Sovieticilor' se află în Codru.",
                   "category": "historical",
                   "coords": [
                         28.833592,
@@ -7469,7 +9057,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Zard Art Lab",
-                  "text": "Un laborator de artă contemporană și centru creativ în Codru.",
+                  "text": "Zard Art Lab este un spațiu cultural de artă contemporană în Codru.",
                   "category": "cultural",
                   "coords": [
                         28.814547,
@@ -7496,7 +9084,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Turnurile de Apă Costiujeni",
-                  "text": "Turnuri de apă istorice din zona Costiujeni, Codru.",
+                  "text": "Turnurile de apă Costiujeni sunt un reper în zona Codru.",
                   "category": "landmark",
                   "coords": [
                         28.834777,
@@ -7505,7 +9093,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul „Vasimiorca”",
-                  "text": "Lacul Vasimiorca din Codru este un loc liniștit pentru observarea naturii.",
+                  "text": "Lacul 'Vasimiorca' este un lac natural în Codru, înconjurat de copaci.",
                   "category": "natural",
                   "coords": [
                         28.877672,
@@ -7559,7 +9147,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Lebedelor",
-                  "text": "Lacul Lebedelor din Codru este un loc idilic pentru momente liniștite.",
+                  "text": "Lacul Lebedelor din Codru este un lac natural, adesea vizitat de lebede.",
                   "category": "natural",
                   "coords": [
                         28.794152,
@@ -7604,7 +9192,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul „Valea Morilor”",
-                  "text": "Lacul Valea Morilor este o zonă de recreere populară în regiunea Codru.",
+                  "text": "Lacul Valea Morilor din Codru este numit după valea morilor din apropiere.",
                   "category": "natural",
                   "coords": [
                         28.813007,
@@ -7613,7 +9201,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Panda Kids",
-                  "text": "Panda Kids din Codru este un spațiu de joacă vesel pentru copii.",
+                  "text": "Panda Kids este un loc de joacă pentru familii cu tematică panda în Codru.",
                   "category": "family",
                   "coords": [
                         28.833081,
@@ -7631,7 +9219,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Valea Apelor Kids",
-                  "text": "O zonă de joacă pentru copii în Codru pentru distracție cu familia.",
+                  "text": "Valea Apelor Kids este un loc de joacă pentru copii în cartierul 'Valea Apelor' din Codru.",
                   "category": "family",
                   "coords": [
                         28.837149,
@@ -7640,7 +9228,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Karchevski Urban Villa",
-                  "text": "O vilă urbană cu valoare arhitecturală situată în Codru.",
+                  "text": "Vilă urbană din 1897, proiectată de Alexei Sciusev în Codru.",
                   "category": "landmark",
                   "coords": [
                         28.842111,
@@ -7649,7 +9237,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Befly Garden",
-                  "text": "O grădină zoologică în Codru ce găzduiește diverse specii de animale.",
+                  "text": "Befly Garden este o grădină de recreere cu spații verzi în Codru.",
                   "category": "recreational",
                   "coords": [
                         28.852142,
@@ -7658,7 +9246,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Energy Fitness Swimming Pool",
-                  "text": "Piscina centrului Energy Fitness situată în Codru.",
+                  "text": "Energy Fitness Swimming Pool este o piscină recreațională în Codru.",
                   "category": "recreational",
                   "coords": [
                         28.860654,
@@ -7687,7 +9275,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Toată Puterea Sovieticilor",
-                  "text": "A monument from the Soviet era in Codru.",
+                  "text": "The historical monument 'Toată Puterea Sovieticilor' (All Power to the Soviets) stands in Codru.",
                   "category": "historical",
                   "coords": [
                         28.833592,
@@ -7696,7 +9284,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Zard Art Lab",
-                  "text": "A contemporary art lab and creative centre in Codru.",
+                  "text": "Zard Art Lab is a cultural space for contemporary art in Codru.",
                   "category": "cultural",
                   "coords": [
                         28.814547,
@@ -7723,7 +9311,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Costiujeni Water Towers",
-                  "text": "Historical water towers in the Costiujeni area of Codru.",
+                  "text": "The Costiujeni Water Towers are a landmark structure in the Codru area.",
                   "category": "landmark",
                   "coords": [
                         28.834777,
@@ -7732,7 +9320,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "\"Vasimiorca\" Lake",
-                  "text": "Vasimiorca Lake in Codru is a peaceful spot for nature observation.",
+                  "text": "Lake 'Vasimiorca' is a natural lake in Codru, surrounded by trees.",
                   "category": "natural",
                   "coords": [
                         28.877672,
@@ -7786,7 +9374,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Lebedelor",
-                  "text": "Lacul Lebedelor in Codru is an idyllic spot for quiet moments.",
+                  "text": "Lacul Lebedelor (Swan Lake) in Codru is a natural lake often visited by swans.",
                   "category": "natural",
                   "coords": [
                         28.794152,
@@ -7831,7 +9419,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Valea Morilor Lake",
-                  "text": "Valea Morilor Lake is a popular recreation area in the Codru region.",
+                  "text": "Valea Morilor Lake (Mill Valley Lake) in Codru is named after the nearby mill valley.",
                   "category": "natural",
                   "coords": [
                         28.813007,
@@ -7840,7 +9428,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Panda Kids",
-                  "text": "Panda Kids in Codru is a cheerful play area for children.",
+                  "text": "Panda Kids is a family-friendly playground with panda-themed equipment in Codru.",
                   "category": "family",
                   "coords": [
                         28.833081,
@@ -7858,7 +9446,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Valea Apelor Kids",
-                  "text": "A child-friendly play area in Codru for family fun.",
+                  "text": "Valea Apelor Kids is a children's playground in the 'Water Valley' area of Codru.",
                   "category": "family",
                   "coords": [
                         28.837149,
@@ -7867,7 +9455,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Karchevski Urban Villa",
-                  "text": "An architecturally significant urban villa located in Codru.",
+                  "text": "Urban villa built in 1897 designed by Alexei Sciusev in Codru.",
                   "category": "landmark",
                   "coords": [
                         28.842111,
@@ -7876,7 +9464,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Befly Garden",
-                  "text": "A small zoo in Codru featuring various animal species.",
+                  "text": "Befly Garden is a recreational garden with green spaces in Codru.",
                   "category": "recreational",
                   "coords": [
                         28.852142,
@@ -7885,7 +9473,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Energy Fitness Swimming Pool",
-                  "text": "A swimming pool at the Energy Fitness center in Codru.",
+                  "text": "Energy Fitness Swimming Pool is a recreational swimming facility in Codru.",
                   "category": "recreational",
                   "coords": [
                         28.860654,
@@ -7962,7 +9550,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Schema orașului vinicol subteran Cricova",
-                  "text": "Ein Plan in Cricova, der die berühmten unterirdischen Weinkeller der Stadt darstellt.",
+                  "text": "Eine historische Karte zeigt das unterirdische Weinstädtchen Cricova in Moldawien.",
                   "category": "historical",
                   "coords": [
                         28.860769,
@@ -8000,7 +9588,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Schema orașului vinicol subteran Cricova",
-                  "text": "Térkép Cricovában, amely a város híres föld alatti borospincéit mutatja be.",
+                  "text": "Egy történelmi térkép ábrázolja a Cricova földalatti borvárost Moldovában.",
                   "category": "historical",
                   "coords": [
                         28.860769,
@@ -8038,7 +9626,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Schema orașului vinicol subteran Cricova",
-                  "text": "O hartă situată în Cricova care detaliază celebrele galerii vinicole subterane.",
+                  "text": "O hartă istorică prezintă orașul subteran al vinului din Cricova, Republica Moldova.",
                   "category": "historical",
                   "coords": [
                         28.860769,
@@ -8076,7 +9664,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Map of the underground wine town Cricova",
-                  "text": "A map located in Cricova detailing the famous underground wine galleries.",
+                  "text": "A historical map shows the underground wine town of Cricova in Moldova.",
                   "category": "historical",
                   "coords": [
                         28.860769,
@@ -8712,7 +10300,7 @@ export const moldovaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "DOT № 1202 TiUR",
-                  "text": "Historische Ruinen eines Verteidigungsbunkers in Crasnoe.",
+                  "text": "Bunker Nr. 1202 TiFR ist ein historischer Militärbunker in Crasnoe.",
                   "category": "historical",
                   "coords": [
                         29.792084,
@@ -8721,7 +10309,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul putred",
-                  "text": "Ein natürlicher See in Crasnoe für ruhige Momente.",
+                  "text": "Lacul putred (Faulsee) in Crasnoe ist ein Natursee, benannt nach seinem stehenden Wasser.",
                   "category": "natural",
                   "coords": [
                         29.734664,
@@ -8730,7 +10318,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "ozero Krasnoe",
-                  "text": "Ein See in Crasnoe, eingebettet in die lokale Landschaft.",
+                  "text": "Ozero Krasnoe (Roter See) ist ein Natursee in Crasnoe.",
                   "category": "natural",
                   "coords": [
                         29.840868,
@@ -8739,7 +10327,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Ozero",
-                  "text": "Ein lokales Gewässer in Crasnoe für einen Spaziergang.",
+                  "text": "Der einfache 'Ozero' (See) liegt in der Nähe von Crasnoe.",
                   "category": "natural",
                   "coords": [
                         29.749132,
@@ -8748,7 +10336,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Korotnoye Old Bathhouse",
-                  "text": "Ein Ort zum Schwimmen und für Wassererholung in Crasnoe.",
+                  "text": "Das alte Badehaus von Korotnoye ist ein historisches öffentliches Bad in Crasnoe.",
                   "category": "family",
                   "coords": [
                         29.851406,
@@ -8759,7 +10347,7 @@ export const moldovaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "DOT № 1202 TiUR",
-                  "text": "Egy védelmi bunker történelmi romjai Crasnoe-ban.",
+                  "text": "A 1202 TiFR számú bunker egy történelmi katonai bunker Crasnoe-ban.",
                   "category": "historical",
                   "coords": [
                         29.792084,
@@ -8768,7 +10356,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul putred",
-                  "text": "Természetes tó Crasnoéban a csendes pillanatokért.",
+                  "text": "A Lacul putred (Rohadt-tó) Crasnoe-ban természetes tó, állóvizéről kapta nevét.",
                   "category": "natural",
                   "coords": [
                         29.734664,
@@ -8777,7 +10365,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "ozero Krasnoe",
-                  "text": "Tó Crasnoéban, a helyi tájba illeszkedve.",
+                  "text": "Az Ozero Krasnoe (Vörös-tó) természetes tó Crasnoe-ban.",
                   "category": "natural",
                   "coords": [
                         29.840868,
@@ -8786,7 +10374,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Ozero",
-                  "text": "Helyi vízfelület Crasnoéban egy sétához.",
+                  "text": "Az egyszerű 'Ozero' (tó) Crasnoe közelében található.",
                   "category": "natural",
                   "coords": [
                         29.749132,
@@ -8795,7 +10383,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Korotnoye Old Bathhouse",
-                  "text": "Úszásra és vízi kikapcsolódásra alkalmas hely Crasnoe településen.",
+                  "text": "A Korotnoye-i régi fürdőház történelmi nyilvános fürdő Crasnoe-ban.",
                   "category": "family",
                   "coords": [
                         29.851406,
@@ -8806,7 +10394,7 @@ export const moldovaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Buncăr Nr 1202 TiRF",
-                  "text": "Ruinele istorice ale unui buncăr de apărare situat în Crasnoe.",
+                  "text": "Buncărul Nr. 1202 TiFR este un buncăr militar istoric în Crasnoe.",
                   "category": "historical",
                   "coords": [
                         29.792084,
@@ -8815,7 +10403,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul putred",
-                  "text": "Un lac natural în Crasnoe pentru momente de liniște.",
+                  "text": "Lacul putred din Crasnoe este un lac natural, numit pentru apa sa stătătoare.",
                   "category": "natural",
                   "coords": [
                         29.734664,
@@ -8824,7 +10412,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Crasnoe",
-                  "text": "Un lac în Crasnoe, integrat în peisajul local.",
+                  "text": "Ozero Krasnoe (Lacul Roșu) este un lac natural în Crasnoe.",
                   "category": "natural",
                   "coords": [
                         29.840868,
@@ -8833,7 +10421,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Ozero",
-                  "text": "O apă locală în Crasnoe pentru o plimbare.",
+                  "text": "Simplul 'Ozero' (lac) se află lângă Crasnoe.",
                   "category": "natural",
                   "coords": [
                         29.749132,
@@ -8842,7 +10430,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Korotnoye Old Bathhouse",
-                  "text": "Un loc pentru înot și recreere acvatică în Crasnoe.",
+                  "text": "Vechea baie publică Korotnoye este o baie istorică în Crasnoe.",
                   "category": "family",
                   "coords": [
                         29.851406,
@@ -8853,7 +10441,7 @@ export const moldovaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Bunker No 1202 TiFR",
-                  "text": "Historical ruins of a defensive bunker located in Crasnoe.",
+                  "text": "Bunker No 1202 TiFR is a historical military bunker in Crasnoe.",
                   "category": "historical",
                   "coords": [
                         29.792084,
@@ -8862,7 +10450,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul putred",
-                  "text": "A natural lake in Crasnoe for quiet moments.",
+                  "text": "Lacul putred (Rotten Lake) in Crasnoe is a natural lake named for its stagnant water.",
                   "category": "natural",
                   "coords": [
                         29.734664,
@@ -8871,7 +10459,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "ozero Krasnoe",
-                  "text": "A lake in Crasnoe, nestled in the local landscape.",
+                  "text": "Ozero Krasnoe (Red Lake) is a natural lake in Crasnoe.",
                   "category": "natural",
                   "coords": [
                         29.840868,
@@ -8880,7 +10468,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Ozero",
-                  "text": "A local water body in Crasnoe for a stroll.",
+                  "text": "The simple 'Ozero' (Lake) lies near Crasnoe.",
                   "category": "natural",
                   "coords": [
                         29.749132,
@@ -8889,7 +10477,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Korotnoye Old Bathhouse",
-                  "text": "A place for swimming and water recreation in Crasnoe.",
+                  "text": "Korotnoye Old Bathhouse is a historical public bath in Crasnoe.",
                   "category": "family",
                   "coords": [
                         29.851406,
@@ -8957,7 +10545,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Gara Gîrbova",
-                  "text": "Das Bahnhofsgebäude von Gîrbova bei Frunză ist eine lokale Sehenswürdigkeit.",
+                  "text": "Gara Gîrbova ist der Bahnhof von Gîrbova in Frunza, ein Wahrzeichen.",
                   "category": "landmark",
                   "coords": [
                         27.598222,
@@ -8977,7 +10565,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Gara Gîrbova",
-                  "text": "Gîrbova vasútállomása Frunză közelében helyi nevezetesség.",
+                  "text": "A Gara Gîrbova Gîrbova vasútállomása Frunzában, egy nevezetesség.",
                   "category": "landmark",
                   "coords": [
                         27.598222,
@@ -8997,7 +10585,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Gara Gîrbova",
-                  "text": "Gara Gîrbova de lângă Frunză este o atracție locală.",
+                  "text": "Gara Gîrbova este gara din Gîrbova, Frunza, un reper local.",
                   "category": "landmark",
                   "coords": [
                         27.598222,
@@ -9017,7 +10605,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Gara Gîrbova",
-                  "text": "The Gîrbova railway station near Frunză is a local attraction.",
+                  "text": "Gara Gîrbova is the railway station of Gîrbova in Frunza, a landmark.",
                   "category": "landmark",
                   "coords": [
                         27.598222,
@@ -9085,7 +10673,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Cimitir vechi",
-                  "text": "Ein alter Friedhof in der Ortschaft Ghindești.",
+                  "text": "Cimitir vechi (Alter Friedhof) in Ghindesti ist eine historische Begräbnisstätte.",
                   "category": "landmark",
                   "coords": [
                         28.380049,
@@ -9094,7 +10682,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Cimitirul vechi",
-                  "text": "Ein historischer Friedhof in Ghindești.",
+                  "text": "Cimitirul vechi (Der alte Friedhof) in Ghindesti hat alte Grabsteine.",
                   "category": "landmark",
                   "coords": [
                         28.373044,
@@ -9114,7 +10702,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Cimitir vechi",
-                  "text": "Régi temető Ghindești településen.",
+                  "text": "A Cimitir vechi (Régi temető) Ghindesti-ben történelmi temető.",
                   "category": "landmark",
                   "coords": [
                         28.380049,
@@ -9123,7 +10711,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Cimitirul vechi",
-                  "text": "Történelmi temető Ghindeștiben.",
+                  "text": "A Cimitirul vechi (A régi temető) Ghindesti-ben régi sírkövekkel rendelkezik.",
                   "category": "landmark",
                   "coords": [
                         28.373044,
@@ -9143,7 +10731,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Cimitir vechi",
-                  "text": "Un cimitir vechi în localitatea Ghindești.",
+                  "text": "Cimitir vechi din Ghindesti este un cimitir istoric.",
                   "category": "landmark",
                   "coords": [
                         28.380049,
@@ -9152,7 +10740,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Cimitirul vechi",
-                  "text": "Cimitir istoric în Ghindești.",
+                  "text": "Cimitirul vechi din Ghindesti are pietre funerare vechi.",
                   "category": "landmark",
                   "coords": [
                         28.373044,
@@ -9172,7 +10760,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Cimitir vechi",
-                  "text": "An old cemetery in the village of Ghindești.",
+                  "text": "Cimitir vechi (Old Cemetery) in Ghindesti is a historic burial ground.",
                   "category": "landmark",
                   "coords": [
                         28.380049,
@@ -9181,7 +10769,7 @@ export const moldovaCitiesV2: POI[] = [
             },
             {
                   "name": "Cimitirul vechi",
-                  "text": "Historical cemetery in Ghindești.",
+                  "text": "Cimitirul vechi (The Old Cemetery) in Ghindesti features old tombstones.",
                   "category": "landmark",
                   "coords": [
                         28.373044,
@@ -9240,7 +10828,7 @@ export const moldovaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Sărata Nouă",
-                  "text": "Ein See bei Iargara, ideal für eine Pause in der Natur.",
+                  "text": "Sărata Nouă (Neue Salzlake) ist ein natürlicher Salzsee oder Salzmarsch bei Iargara.",
                   "category": "natural",
                   "coords": [
                         28.398169,
@@ -9251,7 +10839,7 @@ export const moldovaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Sărata Nouă",
-                  "text": "Iargara melletti tó, amely ideális egy pihenőhöz a természetben.",
+                  "text": "A Sărata Nouă (Új Sós) természetes sós tó vagy mocsár Iargara közelében.",
                   "category": "natural",
                   "coords": [
                         28.398169,
@@ -9262,7 +10850,7 @@ export const moldovaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Sărata Nouă",
-                  "text": "Un lac lângă Iargara, ideal pentru o pauză în natură.",
+                  "text": "Sărata Nouă este un lac sărat natural sau mlaștină sărată lângă Iargara.",
                   "category": "natural",
                   "coords": [
                         28.398169,
@@ -9273,7 +10861,7 @@ export const moldovaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Sărata Nouă",
-                  "text": "A lake near Iargara, ideal for a break in nature.",
+                  "text": "Sărata Nouă (New Salty) is a natural salt lake or salt marsh near Iargara.",
                   "category": "natural",
                   "coords": [
                         28.398169,
@@ -9379,7 +10967,7 @@ export const moldovaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Cimitir evreesc",
-                  "text": "Ein historischer jüdischer Friedhof in Mărculești.",
+                  "text": "Cimitir evreesc (Jüdischer Friedhof) in Marculesti ist ein historischer jüdischer Begräbnisplatz.",
                   "category": "landmark",
                   "coords": [
                         28.24163,
@@ -9390,7 +10978,7 @@ export const moldovaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Cimitir evreesc",
-                  "text": "Történelmi zsidó temető Mărculești településen.",
+                  "text": "A Cimitir evreesc (Zsidó temető) Marculesti-ben történelmi zsidó temető.",
                   "category": "landmark",
                   "coords": [
                         28.24163,
@@ -9401,7 +10989,7 @@ export const moldovaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Cimitir evreesc",
-                  "text": "Un cimitir evreiesc istoric situat în Mărculești.",
+                  "text": "Cimitir evreesc din Marculesti este un cimitir evreiesc istoric.",
                   "category": "landmark",
                   "coords": [
                         28.24163,
@@ -9412,7 +11000,7 @@ export const moldovaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Cimitir evreesc",
-                  "text": "A historic Jewish cemetery located in Mărculești.",
+                  "text": "Cimitir evreesc (Jewish Cemetery) in Marculesti is a historic Jewish burial ground.",
                   "category": "landmark",
                   "coords": [
                         28.24163,
@@ -10199,7 +11787,7 @@ export const moldovaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Cimitirul Evreiesc Călărași",
-                  "text": "Ein historischer jüdischer Friedhof in Călărași.",
+                  "text": "Der jüdische Friedhof von Călărași ist ein historischer Friedhof in Calarasi.",
                   "category": "landmark",
                   "coords": [
                         28.331051,
@@ -10210,7 +11798,7 @@ export const moldovaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Cimitirul Evreiesc Călărași",
-                  "text": "Történelmi zsidó temető Călărași városában.",
+                  "text": "A Călărași-i zsidó temető történelmi temető Calarasiban.",
                   "category": "landmark",
                   "coords": [
                         28.331051,
@@ -10221,7 +11809,7 @@ export const moldovaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Cimitirul Evreiesc Călărași",
-                  "text": "Un cimitir evreiesc istoric în Călărași.",
+                  "text": "Cimitirul Evreiesc Călărași este un cimitir istoric în Calarasi.",
                   "category": "landmark",
                   "coords": [
                         28.331051,
@@ -10232,7 +11820,7 @@ export const moldovaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Cimitirul Evreiesc Călărași",
-                  "text": "A historic Jewish cemetery in Călărași.",
+                  "text": "The Jewish Cemetery of Călărași is a historic cemetery in Calarasi.",
                   "category": "landmark",
                   "coords": [
                         28.331051,

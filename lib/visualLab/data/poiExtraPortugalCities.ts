@@ -133,7 +133,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Muralha Fernandina",
-                  "text": "Überreste der mittelalterlichen Stadtmauer von Lissabon aus dem 14. Jahrhundert.",
+                  "text": "Die Muralha Fernandina ist eine mittelalterliche Stadtmauer aus dem 14. Jahrhundert, die Lissabon umgab.",
                   "category": "historical",
                   "coords": [
                         -9.142589,
@@ -142,7 +142,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Forte de Santa Apolónia",
-                  "text": "Historische Überreste einer alten Festungsanlage in Lissabon.",
+                  "text": "Das Forte de Santa Apolónia ist eine Festung aus dem 17. Jahrhundert am Tejo in Lissabon.",
                   "category": "historical",
                   "coords": [
                         -9.116769,
@@ -673,7 +673,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Zoologischer Garten von Lissabon",
-                  "text": "Der Zoo von Lissabon beherbergt eine große Vielfalt an Tieren.",
+                  "text": "Der Zoo von Lissabon ist der älteste Zoo Portugals, gegründet 1884.",
                   "category": "family",
                   "coords": [
                         -9.171481,
@@ -682,7 +682,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Baía dos Golfinhos",
-                  "text": "Ein Schwimmbad in Lissabon, das zur Erfrischung einlädt.",
+                  "text": "Dolphin's Bay in Lissabon ist ein Meerespark mit Delfin- und Robben-Shows.",
                   "category": "family",
                   "coords": [
                         -9.170955,
@@ -855,7 +855,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Muralha Fernandina",
-                  "text": "Lisszabon 14. századi középkori városfalának maradványai.",
+                  "text": "A Muralha Fernandina egy 14. századi középkori városfal, amely Lisszabont védte.",
                   "category": "historical",
                   "coords": [
                         -9.142589,
@@ -864,7 +864,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Forte de Santa Apolónia",
-                  "text": "Egy régi erődítmény történelmi maradványai Lisszabonban.",
+                  "text": "A Forte de Santa Apolónia egy 17. századi erőd a Tajo partján, Lisszabonban.",
                   "category": "historical",
                   "coords": [
                         -9.116769,
@@ -1395,7 +1395,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Jardim Zoológico de Lisboa",
-                  "text": "A lisszaboni állatkert az állatok széles választékának ad otthont.",
+                  "text": "A lisszaboni állatkert Portugália legrégebbi állatkertje, 1884-ben alapították.",
                   "category": "family",
                   "coords": [
                         -9.171481,
@@ -1404,7 +1404,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Baía dos Golfinhos",
-                  "text": "Úszómedence Lisszabonban, amely felfrissülésre csábít.",
+                  "text": "A lisszaboni Dolphin's Bay egy tengeri park delfin- és fókabemutatókkal.",
                   "category": "family",
                   "coords": [
                         -9.170955,
@@ -1577,7 +1577,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Muralha Fernandina",
-                  "text": "Vestigii ale zidului medieval al orașului Lisabona, datând din secolul al XIV-lea.",
+                  "text": "Muralha Fernandina este un zid medieval din secolul al XIV-lea care înconjura Lisabona.",
                   "category": "historical",
                   "coords": [
                         -9.142589,
@@ -1586,7 +1586,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Forte de Santa Apolónia",
-                  "text": "Rămășițe istorice ale unei vechi fortificații din Lisabona.",
+                  "text": "Forte de Santa Apolónia este o fortificație din secolul al XVII-lea pe malul Tajo, la Lisabona.",
                   "category": "historical",
                   "coords": [
                         -9.116769,
@@ -2117,7 +2117,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Jardim Zoológico de Lisboa",
-                  "text": "Grădina zoologică din Lisabona găzduiește o mare varietate de animale.",
+                  "text": "Grădina Zoologică din Lisabona este cea mai veche grădină zoologică din Portugalia, fondată în 1884.",
                   "category": "family",
                   "coords": [
                         -9.171481,
@@ -2126,7 +2126,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Baía dos Golfinhos",
-                  "text": "O piscină în Lisabona care invită la răcorire.",
+                  "text": "Dolphin's Bay din Lisabona este un parc marin cu spectacole de delfini și foci.",
                   "category": "family",
                   "coords": [
                         -9.170955,
@@ -2299,7 +2299,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Muralha Fernandina",
-                  "text": "Remnants of Lisbon's 14th-century medieval city walls.",
+                  "text": "The Muralha Fernandina is a 14th-century medieval city wall that once encircled Lisbon.",
                   "category": "historical",
                   "coords": [
                         -9.142589,
@@ -2308,7 +2308,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Forte de Santa Apolónia",
-                  "text": "Historical remnants of an old fortification in Lisbon.",
+                  "text": "Forte de Santa Apolónia is a 17th-century fortification guarding the Tagus River in Lisbon.",
                   "category": "historical",
                   "coords": [
                         -9.116769,
@@ -2839,7 +2839,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Jardim Zoológico de Lisboa",
-                  "text": "The Lisbon Zoo is home to a wide variety of animals.",
+                  "text": "Lisbon Zoo is the oldest zoo in Portugal, founded in 1884.",
                   "category": "family",
                   "coords": [
                         -9.171481,
@@ -2848,7 +2848,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Dolphin's Bay",
-                  "text": "A swimming pool in Lisbon inviting refreshment.",
+                  "text": "Dolphin's Bay in Lisbon is a marine park with dolphin and seal shows.",
                   "category": "family",
                   "coords": [
                         -9.170955,
@@ -2948,7 +2948,7 @@ export const poiExtraPortugalCities: POI[] = [
       "de": [
             {
                   "name": "Casa-Museu Marta Ortigão Sampaio",
-                  "text": "Das Casa-Museu Marta Ortigão Sampaio ist ein Museum in Porto, das Kunst und persönliche Sammlungen ausstellt.",
+                  "text": "Die Casa-Museu Marta Ortigão Sampaio zeigt das Wohnhaus und Werk der Künstlerin Marta Ortigão Sampaio in Porto.",
                   "category": "museum",
                   "coords": [
                         -8.625505,
@@ -2966,7 +2966,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Museu Municipal de Numismática",
-                  "text": "Das Museu Municipal de Numismática ist ein Museum in Porto, das sich Münzen und Währungen widmet.",
+                  "text": "Das Museu Municipal de Numismática in Porto widmet sich der Geschichte von Münzen und Medaillen.",
                   "category": "museum",
                   "coords": [
                         -8.615343,
@@ -2975,7 +2975,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Museu de Arte Contemporânea de Serralves",
-                  "text": "Das Serralves Museum ist ein Museum für zeitgenössische Kunst in Porto.",
+                  "text": "Das Serralves Museum in Porto ist ein Museum für zeitgenössische Kunst in einer Art-déco-Villa mit Park.",
                   "category": "museum",
                   "coords": [
                         -8.659406,
@@ -2984,7 +2984,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Centro Português de Fotografia",
-                  "text": "Das portugiesische Fotografiezentrum ist ein Museum in Porto, das in einem ehemaligen Gefängnisgebäude untergebracht ist.",
+                  "text": "Das Portugiesische Zentrum für Fotografie ist in einem ehemaligen Gefängnis aus dem 19. Jahrhundert untergebracht.",
                   "category": "museum",
                   "coords": [
                         -8.615892,
@@ -3002,7 +3002,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Galeria da Biodiversidade",
-                  "text": "Die Galeria da Biodiversidade ist ein Naturkunde- und Wissenschaftsmuseum in Porto.",
+                  "text": "Die Galeria da Biodiversidade in Porto zeigt Biodiversität im ehemaligen Blindenhaus.",
                   "category": "museum",
                   "coords": [
                         -8.642456,
@@ -3056,7 +3056,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Museu dos Transportes e Comunicações",
-                  "text": "Das Museu dos Transportes e Comunicações ist ein Museum in Porto, das die Geschichte von Verkehr und Kommunikation beleuchtet.",
+                  "text": "Das Museum für Verkehr und Kommunikation in Porto befindet sich im Alfândega-Gebäude und zeigt die Geschichte des Verkehrs.",
                   "category": "museum",
                   "coords": [
                         -8.621009,
@@ -3083,7 +3083,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Teatro Sá da Bandeira",
-                  "text": "Das Teatro Sá da Bandeira ist ein bedeutendes historisches Theater in Porto.",
+                  "text": "Das Teatro Sá da Bandeira in Porto ist ein Theater aus dem 19. Jahrhundert mit reicher Ornamentik.",
                   "category": "cultural",
                   "coords": [
                         -8.608734,
@@ -3344,7 +3344,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Jardim de Arca d'Água",
-                  "text": "Jardim de Arca d'Água ist eine angenehme grüne Parkanlage in Porto.",
+                  "text": "Der Jardim de Arca d'Água in Porto ist ein historischer Garten mit einem Wasserreservoir und Springbrunnen.",
                   "category": "park",
                   "coords": [
                         -8.611964,
@@ -3353,7 +3353,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Parque do Covelo",
-                  "text": "Parque do Covelo ist ein bekannter Park in der Stadt Porto.",
+                  "text": "Der Parque do Covelo in Porto ist ein Park auf einem Hügel mit Blick auf die Stadt und den Douro.",
                   "category": "park",
                   "coords": [
                         -8.604625,
@@ -3362,7 +3362,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Lago da Pasteleira",
-                  "text": "Der Lago da Pasteleira ist ein kleiner See im Stadtgebiet von Porto.",
+                  "text": "Der Lago da Pasteleira in Porto ist ein künstlicher See im Pasteleira-Park.",
                   "category": "natural",
                   "coords": [
                         -8.659526,
@@ -3380,7 +3380,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Charca",
-                  "text": "Charca ist ein kleiner, naturnaher Teich in Porto.",
+                  "text": "Charca ist ein kleiner Teich in Porto, der oft von Vögeln besucht wird.",
                   "category": "natural",
                   "coords": [
                         -8.686963,
@@ -3398,7 +3398,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Presa de Contumil",
-                  "text": "Die Presa de Contumil ist ein ruhiges Gewässer in Porto.",
+                  "text": "Die Presa de Contumil ist eine Talsperre in Porto mit einem umliegenden Park.",
                   "category": "natural",
                   "coords": [
                         -8.578242,
@@ -3508,7 +3508,7 @@ export const poiExtraPortugalCities: POI[] = [
       "hu": [
             {
                   "name": "Casa-Museu Marta Ortigão Sampaio",
-                  "text": "A Casa-Museu Marta Ortigão Sampaio egy múzeum Portóban, amely művészeti és személyes gyűjteményeket mutat be.",
+                  "text": "A Casa-Museu Marta Ortigão Sampaio Marta Ortigão Sampaio művész otthonát és munkásságát mutatja be Portóban.",
                   "category": "museum",
                   "coords": [
                         -8.625505,
@@ -3526,7 +3526,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Museu Municipal de Numismática",
-                  "text": "A Museu Municipal de Numismática egy érméknek és fizetőeszközöknek szentelt múzeum Portóban.",
+                  "text": "A Portói Numizmatikai Múzeum az érmék és érmek történetét mutatja be.",
                   "category": "museum",
                   "coords": [
                         -8.615343,
@@ -3535,7 +3535,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Museu de Arte Contemporânea de Serralves",
-                  "text": "A Serralves Múzeum egy kortárs művészeti múzeum Portóban.",
+                  "text": "A portói Serralves Múzeum egy kortárs művészeti múzeum egy art deco villában és parkban.",
                   "category": "museum",
                   "coords": [
                         -8.659406,
@@ -3544,7 +3544,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Centro Português de Fotografia",
-                  "text": "A Portugál Fotográfiai Központ egy egykori börtönépületben működő múzeum Portóban.",
+                  "text": "A Portugál Fotográfiai Központ egy 19. századi börtönépületben kapott helyet.",
                   "category": "museum",
                   "coords": [
                         -8.615892,
@@ -3562,7 +3562,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Galeria da Biodiversidade",
-                  "text": "A Galeria da Biodiversidade egy természettudományi és tudományos múzeum Portóban.",
+                  "text": "A portói Biodiverzitás Galéria a volt Vakok Intézetében mutatja be a biológiai sokféleséget.",
                   "category": "museum",
                   "coords": [
                         -8.642456,
@@ -3616,7 +3616,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Museu dos Transportes e Comunicações",
-                  "text": "A Museu dos Transportes e Comunicações egy közlekedés- és hírkölés-történeti múzeum Portóban.",
+                  "text": "A portói Közlekedési és Kommunikációs Múzeum az Alfândega épületben található, és a közlekedés történetét mutatja be.",
                   "category": "museum",
                   "coords": [
                         -8.621009,
@@ -3643,7 +3643,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Teatro Sá da Bandeira",
-                  "text": "A Teatro Sá da Bandeira egy jelentős történelmi színház Portóban.",
+                  "text": "A portói Teatro Sá da Bandeira egy 19. századi színház gazdag díszítéssel.",
                   "category": "cultural",
                   "coords": [
                         -8.608734,
@@ -3904,7 +3904,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Jardim de Arca d'Água",
-                  "text": "A Jardim de Arca d'Água egy kellemes, zöldellő park Portóban.",
+                  "text": "A portói Jardim de Arca d'Água egy történelmi kert víztározóval és szökőkutakkal.",
                   "category": "park",
                   "coords": [
                         -8.611964,
@@ -3913,7 +3913,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Parque do Covelo",
-                  "text": "A Parque do Covelo egy ismert park Porto városában.",
+                  "text": "A portói Parque do Covelo egy dombon fekvő park, kilátással a városra és a Douro folyóra.",
                   "category": "park",
                   "coords": [
                         -8.604625,
@@ -3922,7 +3922,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Lago da Pasteleira",
-                  "text": "A Lago da Pasteleira egy kis tó Porto városi területén.",
+                  "text": "A portói Lago da Pasteleira egy mesterséges tó a Pasteleira parkban.",
                   "category": "natural",
                   "coords": [
                         -8.659526,
@@ -3940,7 +3940,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Charca",
-                  "text": "A Charca egy kicsi, természetközeli tavacska Portóban.",
+                  "text": "A Charca egy kis tó Portóban, amelyet gyakran látogatnak madarak.",
                   "category": "natural",
                   "coords": [
                         -8.686963,
@@ -3958,7 +3958,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Presa de Contumil",
-                  "text": "A Presa de Contumil egy nyugodt vízfelület Portóban.",
+                  "text": "A Presa de Contumil egy víztározó gát Portóban, körülötte parkkal.",
                   "category": "natural",
                   "coords": [
                         -8.578242,
@@ -4068,7 +4068,7 @@ export const poiExtraPortugalCities: POI[] = [
       "ro": [
             {
                   "name": "Casa-Museu Marta Ortigão Sampaio",
-                  "text": "Casa-Museu Marta Ortigão Sampaio este un muzeu din Porto care expune artă și colecții personale.",
+                  "text": "Casa-Museu Marta Ortigão Sampaio prezintă locuința și opera artistei Marta Ortigão Sampaio în Porto.",
                   "category": "museum",
                   "coords": [
                         -8.625505,
@@ -4086,7 +4086,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Museu Municipal de Numismática",
-                  "text": "Museu Municipal de Numismática este un muzeu din Porto dedicat monedelor și bancnotelor.",
+                  "text": "Muzeul Municipal de Numismatică din Porto este dedicat istoriei monedelor și medaliilor.",
                   "category": "museum",
                   "coords": [
                         -8.615343,
@@ -4095,7 +4095,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Museu de Arte Contemporânea de Serralves",
-                  "text": "Muzeul Serralves este un muzeu de artă contemporană situat în Porto.",
+                  "text": "Muzeul Serralves din Porto este un muzeu de artă contemporană într-o vilă Art Deco cu parc.",
                   "category": "museum",
                   "coords": [
                         -8.659406,
@@ -4104,7 +4104,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Centro Português de Fotografia",
-                  "text": "Centrul Portughez de Fotografie este un muzeu din Porto, găzduit într-o fostă clădire de închisoare.",
+                  "text": "Centrul Portughez de Fotografie este găzduit într-o fostă închisoare din secolul al XIX-lea.",
                   "category": "museum",
                   "coords": [
                         -8.615892,
@@ -4122,7 +4122,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Galeria da Biodiversidade",
-                  "text": "Galeria da Biodiversidade este un muzeu de istorie naturală și știință din Porto.",
+                  "text": "Galeria da Biodiversidade din Porto prezintă biodiversitatea în fosta Școală a Orbilor.",
                   "category": "museum",
                   "coords": [
                         -8.642456,
@@ -4176,7 +4176,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Museu dos Transportes e Comunicações",
-                  "text": "Museu dos Transportes e Comunicações este un muzeu din Porto care explorează istoria transporturilor și comunicațiilor.",
+                  "text": "Muzeul Transporturilor și Comunicațiilor din Porto este situat în clădirea Alfândega și prezintă istoria transporturilor.",
                   "category": "museum",
                   "coords": [
                         -8.621009,
@@ -4203,7 +4203,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Teatro Sá da Bandeira",
-                  "text": "Teatro Sá da Bandeira este un teatru istoric proeminent situat în Porto.",
+                  "text": "Teatro Sá da Bandeira din Porto este un teatru din secolul al XIX-lea cu ornamentație bogată.",
                   "category": "cultural",
                   "coords": [
                         -8.608734,
@@ -4464,7 +4464,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Jardim de Arca d'Água",
-                  "text": "Jardim de Arca d'Água este un parc verde plăcut situat în Porto.",
+                  "text": "Grădina Arca d'Água din Porto este o grădină istorică cu un rezervor de apă și fântâni.",
                   "category": "park",
                   "coords": [
                         -8.611964,
@@ -4473,7 +4473,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Parque do Covelo",
-                  "text": "Parque do Covelo este un parc cunoscut situat în orașul Porto.",
+                  "text": "Parque do Covelo din Porto este un parc pe un deal cu vedere la oraș și râul Douro.",
                   "category": "park",
                   "coords": [
                         -8.604625,
@@ -4482,7 +4482,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Lago da Pasteleira",
-                  "text": "Lago da Pasteleira este un lac mic în zona urbană a orașului Porto.",
+                  "text": "Lago da Pasteleira din Porto este un lac artificial în parcul Pasteleira.",
                   "category": "natural",
                   "coords": [
                         -8.659526,
@@ -4500,7 +4500,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Charca",
-                  "text": "Charca este un iaz mic și natural în Porto.",
+                  "text": "Charca este un mic iaz în Porto, frecventat de păsări.",
                   "category": "natural",
                   "coords": [
                         -8.686963,
@@ -4518,7 +4518,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Presa de Contumil",
-                  "text": "Presa de Contumil este o zonă cu apă liniștită în Porto.",
+                  "text": "Presa de Contumil este un baraj în Porto, cu un parc în jur.",
                   "category": "natural",
                   "coords": [
                         -8.578242,
@@ -4628,7 +4628,7 @@ export const poiExtraPortugalCities: POI[] = [
       "en": [
             {
                   "name": "Casa-Museu Marta Ortigão Sampaio",
-                  "text": "Casa-Museu Marta Ortigão Sampaio is a museum in Porto that exhibits art and personal collections.",
+                  "text": "The Casa-Museu Marta Ortigão Sampaio is the former home and studio of artist Marta Ortigão Sampaio in Porto.",
                   "category": "museum",
                   "coords": [
                         -8.625505,
@@ -4646,7 +4646,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Museu Municipal de Numismática",
-                  "text": "Museu Municipal de Numismática is a museum in Porto dedicated to coins and currency.",
+                  "text": "The Museu Municipal de Numismática in Porto is dedicated to the history of coins and medals.",
                   "category": "museum",
                   "coords": [
                         -8.615343,
@@ -4655,7 +4655,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Serralves Museum",
-                  "text": "Serralves Museum is a contemporary art museum located in Porto.",
+                  "text": "The Serralves Museum in Porto is a contemporary art museum set in an Art Deco villa and park.",
                   "category": "museum",
                   "coords": [
                         -8.659406,
@@ -4664,7 +4664,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Portuguese Photography Centre",
-                  "text": "The Portuguese Photography Centre is a museum in Porto housed in a former prison building.",
+                  "text": "The Portuguese Photography Centre is housed in a former 19th-century prison.",
                   "category": "museum",
                   "coords": [
                         -8.615892,
@@ -4682,7 +4682,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Galeria da Biodiversidade",
-                  "text": "Galeria da Biodiversidade is a natural history and science museum in Porto.",
+                  "text": "The Galeria da Biodiversidade in Porto exhibits biodiversity in the former blind institute building.",
                   "category": "museum",
                   "coords": [
                         -8.642456,
@@ -4736,7 +4736,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Museu dos Transportes e Comunicações",
-                  "text": "Museu dos Transportes e Comunicações is a museum in Porto exploring the history of transport and communication.",
+                  "text": "The Museum of Transport and Communication in Porto is located in the Alfândega building, showcasing transport history.",
                   "category": "museum",
                   "coords": [
                         -8.621009,
@@ -4763,7 +4763,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Teatro Sá da Bandeira",
-                  "text": "Teatro Sá da Bandeira is a prominent historic theatre located in Porto.",
+                  "text": "The Teatro Sá da Bandeira in Porto is a 19th-century theatre with ornate architecture.",
                   "category": "cultural",
                   "coords": [
                         -8.608734,
@@ -5024,7 +5024,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Jardim de Arca d'Água",
-                  "text": "Jardim de Arca d'Água is a pleasant green park space located in Porto.",
+                  "text": "The Jardim de Arca d'Água in Porto is a historic garden with a water reservoir and fountains.",
                   "category": "park",
                   "coords": [
                         -8.611964,
@@ -5033,7 +5033,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Parque do Covelo",
-                  "text": "Parque do Covelo is a prominent park located in the city of Porto.",
+                  "text": "Parque do Covelo in Porto is a park on a hill with views of the city and the Douro River.",
                   "category": "park",
                   "coords": [
                         -8.604625,
@@ -5042,7 +5042,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Lago da Pasteleira",
-                  "text": "Lago da Pasteleira is a small lake in the urban area of Porto.",
+                  "text": "Lago da Pasteleira in Porto is an artificial lake in Pasteleira Park.",
                   "category": "natural",
                   "coords": [
                         -8.659526,
@@ -5060,7 +5060,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Charca",
-                  "text": "Charca is a small, natural pond in Porto.",
+                  "text": "Charca is a small pond in Porto, often visited by birds.",
                   "category": "natural",
                   "coords": [
                         -8.686963,
@@ -5078,7 +5078,7 @@ export const poiExtraPortugalCities: POI[] = [
             },
             {
                   "name": "Presa de Contumil",
-                  "text": "Presa de Contumil is a calm water body in Porto.",
+                  "text": "Presa de Contumil is a dam in Porto, with a park around it.",
                   "category": "natural",
                   "coords": [
                         -8.578242,

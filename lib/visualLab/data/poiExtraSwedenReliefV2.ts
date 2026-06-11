@@ -560,7 +560,7 @@ imageHint: "Akka mountain massif above lake Akkajaure",
             },
             {
                   "name": "Templet",
-                  "text": "Ein markanter Berggipfel im Sylarna-Massiv.",
+                  "text": "Templet ist eine Berghütte und Aussichtspunkt im Sylarna-Massiv nahe der norwegischen Grenze.",
                   "category": "landmark",
                   "coords": [
                         12.228922,
@@ -569,7 +569,7 @@ imageHint: "Akka mountain massif above lake Akkajaure",
             },
             {
                   "name": "Storsola",
-                  "text": "Ein Gipfel im Sylarna-Massiv, der für Wanderer gut erreichbar ist.",
+                  "text": "Storsola ist ein 1468 Meter hoher Gipfel im Sylarna-Gebirge.",
                   "category": "landmark",
                   "coords": [
                         12.212124,
@@ -589,7 +589,7 @@ imageHint: "Akka mountain massif above lake Akkajaure",
             },
             {
                   "name": "Templet",
-                  "text": "Jellegzetes hegycsúcs a Sylarna-hegységben.",
+                  "text": "Templet egy hegyi kunyhó és kilátóhely a Sylarna hegytömbben, a norvég határ közelében.",
                   "category": "landmark",
                   "coords": [
                         12.228922,
@@ -598,7 +598,7 @@ imageHint: "Akka mountain massif above lake Akkajaure",
             },
             {
                   "name": "Storsola",
-                  "text": "A Sylarna-hegység egyik csúcsa, amely népszerű a túrázók körében.",
+                  "text": "Storsola egy 1468 méteres csúcs a Sylarna-hegységben.",
                   "category": "landmark",
                   "coords": [
                         12.212124,
@@ -618,7 +618,7 @@ imageHint: "Akka mountain massif above lake Akkajaure",
             },
             {
                   "name": "Templet",
-                  "text": "Un vârf muntos proeminent în masivul Sylarna.",
+                  "text": "Templet este o cabană montană și punct de belvedere în masivul Sylarna, aproape de granița cu Norvegia.",
                   "category": "landmark",
                   "coords": [
                         12.228922,
@@ -627,7 +627,7 @@ imageHint: "Akka mountain massif above lake Akkajaure",
             },
             {
                   "name": "Storsola",
-                  "text": "Un vârf din masivul Sylarna, popular printre excursioniști.",
+                  "text": "Storsola este un vârf de 1468 de metri în lanțul muntos Sylarna.",
                   "category": "landmark",
                   "coords": [
                         12.212124,
@@ -647,7 +647,7 @@ imageHint: "Akka mountain massif above lake Akkajaure",
             },
             {
                   "name": "Templet",
-                  "text": "A prominent mountain peak within the Sylarna massif.",
+                  "text": "Templet is a mountain hut and viewpoint in the Sylarna massif, near the Norwegian border.",
                   "category": "landmark",
                   "coords": [
                         12.228922,
@@ -656,7 +656,7 @@ imageHint: "Akka mountain massif above lake Akkajaure",
             },
             {
                   "name": "Storsola",
-                  "text": "A peak in the Sylarna massif popular among hikers.",
+                  "text": "Storsola is a 1468-metre peak in the Sylarna mountain range.",
                   "category": "landmark",
                   "coords": [
                         12.212124,
@@ -1364,7 +1364,7 @@ imageHint: "Dundret mountain near Gallivare",
       "de": [
             {
                   "name": "Settler's Hut",
-                  "text": "Ein kleines Museum über das Leben der frühen Siedler.",
+                  "text": "Eine erhaltene Siedlerhütte am Marsfjallet im Gebirge.",
                   "category": "museum",
                   "coords": [
                         15.363776,
@@ -1375,7 +1375,7 @@ imageHint: "Dundret mountain near Gallivare",
       "hu": [
             {
                   "name": "Settler's Hut",
-                  "text": "Kisméretű múzeum a korai telepesek életéről.",
+                  "text": "Megőrzött telepeskunyhó a Marsfjallet hegyvidékén.",
                   "category": "museum",
                   "coords": [
                         15.363776,
@@ -1386,7 +1386,7 @@ imageHint: "Dundret mountain near Gallivare",
       "ro": [
             {
                   "name": "Settler's Hut",
-                  "text": "Un mic muzeu despre viața primilor coloniști.",
+                  "text": "O colibă de colonist păstrată la Marsfjallet în munți.",
                   "category": "museum",
                   "coords": [
                         15.363776,
@@ -1397,7 +1397,7 @@ imageHint: "Dundret mountain near Gallivare",
       "en": [
             {
                   "name": "Settler's Hut",
-                  "text": "A small museum about the life of early settlers.",
+                  "text": "A preserved settler's hut at Marsfjallet in the mountains.",
                   "category": "museum",
                   "coords": [
                         15.363776,
@@ -1455,7 +1455,7 @@ imageHint: "Marsfjallet mountain landscape Lapland",
       "de": [
             {
                   "name": "Fäboden",
-                  "text": "Traditioneller Bauernhof oder Tierpark im Gebiet von Städjan.",
+                  "text": "Eine Alm (Fäbod) am Stadjan in Dalarna.",
                   "category": "recreational",
                   "coords": [
                         12.834212,
@@ -1484,7 +1484,7 @@ imageHint: "Marsfjallet mountain landscape Lapland",
       "hu": [
             {
                   "name": "Fäboden",
-                  "text": "Hagyományos gazdaság vagy állatpark Städjan környékén.",
+                  "text": "Hegyi legelő (fäbod) a Stadjan hegyen, Dalarnában.",
                   "category": "recreational",
                   "coords": [
                         12.834212,
@@ -1513,7 +1513,7 @@ imageHint: "Marsfjallet mountain landscape Lapland",
       "ro": [
             {
                   "name": "Fäboden",
-                  "text": "Fermă tradițională sau parc de animale în zona Städjan.",
+                  "text": "O pășune montană (fäbod) la Stadjan în Dalarna.",
                   "category": "recreational",
                   "coords": [
                         12.834212,
@@ -1542,7 +1542,7 @@ imageHint: "Marsfjallet mountain landscape Lapland",
       "en": [
             {
                   "name": "Fäboden",
-                  "text": "Traditional farm or animal park in the Städjan area.",
+                  "text": "A mountain pasture (fäbod) at Stadjan in Dalarna.",
                   "category": "recreational",
                   "coords": [
                         12.834212,
@@ -2062,7 +2062,7 @@ imageHint: "Billingen table mountain forest Skovde",
             },
             {
                   "name": "Ostmossen",
-                  "text": "Naturschutzgebiet, das für seine seltenen Pflanzen und Moore bekannt ist.",
+                  "text": "Ostmossen ist ein Hochmoor-Naturschutzgebiet auf dem Omberg-Kamm.",
                   "category": "natural",
                   "coords": [
                         14.687984,
@@ -2080,7 +2080,7 @@ imageHint: "Billingen table mountain forest Skovde",
             },
             {
                   "name": "Mörkahålkärrets naturreservat",
-                  "text": "Ein geschütztes Naturschutzgebiet in der Region Omberg.",
+                  "text": "Mörkahålkärrets naturreservat – 1998 eingerichtetes Naturschutzgebiet am Omberg.",
                   "category": "natural",
                   "coords": [
                         14.648835,
@@ -2136,7 +2136,7 @@ imageHint: "Billingen table mountain forest Skovde",
             },
             {
                   "name": "Ostmossen",
-                  "text": "Ritka növényeiről és lápjairól ismert természetvédelmi terület.",
+                  "text": "Ostmossen egy magasláp természetvédelmi terület az Omberg gerincén.",
                   "category": "natural",
                   "coords": [
                         14.687984,
@@ -2154,7 +2154,7 @@ imageHint: "Billingen table mountain forest Skovde",
             },
             {
                   "name": "Mörkahålkärrets naturreservat",
-                  "text": "Védett természetvédelmi terület az Omberg-hegyen.",
+                  "text": "Mörkahålkärrets naturreservat – 1998-ban létesített természetvédelmi terület az Ombergnél.",
                   "category": "natural",
                   "coords": [
                         14.648835,
@@ -2210,7 +2210,7 @@ imageHint: "Billingen table mountain forest Skovde",
             },
             {
                   "name": "Ostmossen",
-                  "text": "Zonă naturală protejată, cunoscută pentru flora rară și mlaștini.",
+                  "text": "Ostmossen este o rezervație naturală de turbărie înaltă pe creasta Omberg.",
                   "category": "natural",
                   "coords": [
                         14.687984,
@@ -2228,7 +2228,7 @@ imageHint: "Billingen table mountain forest Skovde",
             },
             {
                   "name": "Mörkahålkärrets naturreservat",
-                  "text": "O rezervație naturală protejată în regiunea Omberg.",
+                  "text": "Mörkahålkärrets naturreservat – rezervație naturală înființată în 1998 lângă Omberg.",
                   "category": "natural",
                   "coords": [
                         14.648835,
@@ -2284,7 +2284,7 @@ imageHint: "Billingen table mountain forest Skovde",
             },
             {
                   "name": "Ostmossen",
-                  "text": "Nature reserve known for its rare plants and wetlands.",
+                  "text": "Ostmossen is a raised bog nature reserve on the Omberg mountain ridge.",
                   "category": "natural",
                   "coords": [
                         14.687984,
@@ -2302,7 +2302,7 @@ imageHint: "Billingen table mountain forest Skovde",
             },
             {
                   "name": "Mörkahålkärrets naturreservat",
-                  "text": "A protected nature reserve in the Omberg region.",
+                  "text": "Mörkahålkärrets naturreservat – nature reserve established in 1998 near Omberg.",
                   "category": "natural",
                   "coords": [
                         14.648835,
@@ -2396,7 +2396,7 @@ imageHint: "Omberg mountain cliff Lake Vattern",
       "de": [
             {
                   "name": "Tabergs gruva",
-                  "text": "Ein Museum in einer ehemaligen Eisenerzmine in Taberg.",
+                  "text": "Ein Eisenbergwerk-Museum am Taberg.",
                   "category": "museum",
                   "coords": [
                         14.082794,
@@ -2414,7 +2414,7 @@ imageHint: "Omberg mountain cliff Lake Vattern",
             },
             {
                   "name": "Trälastenen",
-                  "text": "Ein markanter Findling aus der Eiszeit in der Nähe von Taberg.",
+                  "text": "Trälastenen ist ein großer Findling nahe Taberg in Småland.",
                   "category": "landmark",
                   "coords": [
                         14.05893,
@@ -2441,7 +2441,7 @@ imageHint: "Omberg mountain cliff Lake Vattern",
             },
             {
                   "name": "Månsarps kyrka",
-                  "text": "Die historische Kirche der Gemeinde Månsarp.",
+                  "text": "Månsarps kyrka – Kirche in Månsarp nahe Taberg.",
                   "category": "religious",
                   "coords": [
                         14.077446,
@@ -2470,7 +2470,7 @@ imageHint: "Omberg mountain cliff Lake Vattern",
       "hu": [
             {
                   "name": "Tabergs gruva",
-                  "text": "Múzeum egy korábbi vasércbányában Tabergben.",
+                  "text": "Vasbánya-múzeum a Taberg hegyen.",
                   "category": "museum",
                   "coords": [
                         14.082794,
@@ -2488,7 +2488,7 @@ imageHint: "Omberg mountain cliff Lake Vattern",
             },
             {
                   "name": "Trälastenen",
-                  "text": "Egy jellegzetes jégkorszaki vándorkő Taberg közelében.",
+                  "text": "Trälastenen egy nagy hátrahagyott sziklatömb Taberg közelében, Smålandban.",
                   "category": "landmark",
                   "coords": [
                         14.05893,
@@ -2515,7 +2515,7 @@ imageHint: "Omberg mountain cliff Lake Vattern",
             },
             {
                   "name": "Månsarps kyrka",
-                  "text": "Månsarp közösségének történelmi temploma.",
+                  "text": "Månsarps kyrka – templom Månsarpban, Taberg közelében.",
                   "category": "religious",
                   "coords": [
                         14.077446,
@@ -2544,7 +2544,7 @@ imageHint: "Omberg mountain cliff Lake Vattern",
       "ro": [
             {
                   "name": "Tabergs gruva",
-                  "text": "Un muzeu amenajat într-o fostă mină de fier din Taberg.",
+                  "text": "Un muzeu al minei de fier la Taberg.",
                   "category": "museum",
                   "coords": [
                         14.082794,
@@ -2562,7 +2562,7 @@ imageHint: "Omberg mountain cliff Lake Vattern",
             },
             {
                   "name": "Trälastenen",
-                  "text": "Un bloc erratic proeminent din epoca glaciară, lângă Taberg.",
+                  "text": "Trälastenen este un bloc erratic mare lângă Taberg, în Småland.",
                   "category": "landmark",
                   "coords": [
                         14.05893,
@@ -2589,7 +2589,7 @@ imageHint: "Omberg mountain cliff Lake Vattern",
             },
             {
                   "name": "Månsarps kyrka",
-                  "text": "Biserica istorică a comunității din Månsarp.",
+                  "text": "Månsarps kyrca – biserică în Månsarp, lângă Taberg.",
                   "category": "religious",
                   "coords": [
                         14.077446,
@@ -2618,7 +2618,7 @@ imageHint: "Omberg mountain cliff Lake Vattern",
       "en": [
             {
                   "name": "Tabergs gruva",
-                  "text": "A museum located in a former iron mine in Taberg.",
+                  "text": "An iron ore mine museum at Taberg mountain.",
                   "category": "museum",
                   "coords": [
                         14.082794,
@@ -2636,7 +2636,7 @@ imageHint: "Omberg mountain cliff Lake Vattern",
             },
             {
                   "name": "Trälastenen",
-                  "text": "A prominent glacial erratic stone located near Taberg.",
+                  "text": "Trälastenen is a large glacial erratic boulder near Taberg in Småland.",
                   "category": "landmark",
                   "coords": [
                         14.05893,
@@ -2663,7 +2663,7 @@ imageHint: "Omberg mountain cliff Lake Vattern",
             },
             {
                   "name": "Månsarps kyrka",
-                  "text": "The historic church of the Månsarp community.",
+                  "text": "Månsarps kyrka – church in Månsarp near Taberg.",
                   "category": "religious",
                   "coords": [
                         14.077446,
@@ -3227,7 +3227,7 @@ imageHint: "Kullaberg rocky cliffs and sea",
             },
             {
                   "name": "Röstångabadet",
-                  "text": "Röstångabadet ist ein Wasserpark in Söderåsen.",
+                  "text": "Ein Badesee in Röstånga nahe dem Söderåsen-Nationalpark.",
                   "category": "recreational",
                   "coords": [
                         13.280954,
@@ -3301,7 +3301,7 @@ imageHint: "Kullaberg rocky cliffs and sea",
             },
             {
                   "name": "Röstångabadet",
-                  "text": "Röstångabadet egy vízipark Söderåsenben.",
+                  "text": "Fürdő-tó Röstångában, a Söderåsen Nemzeti Park közelében.",
                   "category": "recreational",
                   "coords": [
                         13.280954,
@@ -3375,7 +3375,7 @@ imageHint: "Kullaberg rocky cliffs and sea",
             },
             {
                   "name": "Röstångabadet",
-                  "text": "Röstångabadet este un parc acvatic în Söderåsen.",
+                  "text": "Un lac de scăldat în Röstånga lângă Parcul Național Söderåsen.",
                   "category": "recreational",
                   "coords": [
                         13.280954,
@@ -3449,7 +3449,7 @@ imageHint: "Kullaberg rocky cliffs and sea",
             },
             {
                   "name": "Röstångabadet",
-                  "text": "Röstångabadet is a water park located in Söderåsen.",
+                  "text": "A bathing lake in Röstånga near Söderåsen National Park.",
                   "category": "recreational",
                   "coords": [
                         13.280954,
@@ -3925,7 +3925,7 @@ imageHint: "Kirunavaara iron ore mine mountain",
       "de": [
             {
                   "name": "Hálka-Mårsom",
-                  "text": "Ein Naturschutzgebiet in der schwedischen Bergwelt.",
+                  "text": "Hálka-Mårsom – 2024 ausgewiesenes Naturgebiet im Pieljekaise.",
                   "category": "natural",
                   "coords": [
                         18.591784,
@@ -3936,7 +3936,7 @@ imageHint: "Kirunavaara iron ore mine mountain",
       "hu": [
             {
                   "name": "Hálka-Mårsom",
-                  "text": "Természetvédelmi terület a svéd hegyekben.",
+                  "text": "Hálka-Mårsom – 2024-ben kijelölt természeti terület a Pieljekaise-ben.",
                   "category": "natural",
                   "coords": [
                         18.591784,
@@ -3947,7 +3947,7 @@ imageHint: "Kirunavaara iron ore mine mountain",
       "ro": [
             {
                   "name": "Hálka-Mårsom",
-                  "text": "O rezervație naturală în munții Suediei.",
+                  "text": "Hálka-Mårsom – zonă naturală desemnată în 2024 în Pieljekaise.",
                   "category": "natural",
                   "coords": [
                         18.591784,
@@ -3958,7 +3958,7 @@ imageHint: "Kirunavaara iron ore mine mountain",
       "en": [
             {
                   "name": "Hálka-Mårsom",
-                  "text": "A nature reserve in the Swedish mountains.",
+                  "text": "Hálka-Mårsom – natural area designated in 2024 in Pieljekaise.",
                   "category": "natural",
                   "coords": [
                         18.591784,
@@ -4334,7 +4334,7 @@ imageHint: "Kaskasatjakka rocky mountain peak",
             },
             {
                   "name": "Nállu",
-                  "text": "Ein nadelförmiger Berggipfel in Lappland, Schweden.",
+                  "text": "Nállu ist ein markanter Gipfel nahe dem Dorf Nallo.",
                   "category": "landmark",
                   "coords": [
                         18.430387,
@@ -4354,7 +4354,7 @@ imageHint: "Kaskasatjakka rocky mountain peak",
             },
             {
                   "name": "Nállu",
-                  "text": "Egy tű alakú hegycsúcs a svédországi Lappföldön.",
+                  "text": "A Nállu egy kiemelkedő csúcs a Nallo falu mellett.",
                   "category": "landmark",
                   "coords": [
                         18.430387,
@@ -4374,7 +4374,7 @@ imageHint: "Kaskasatjakka rocky mountain peak",
             },
             {
                   "name": "Nállu",
-                  "text": "Un vârf muntos în formă de ac în Laponia suedeză.",
+                  "text": "Nállu este un vârf proeminent lângă satul Nallo.",
                   "category": "landmark",
                   "coords": [
                         18.430387,
@@ -4394,7 +4394,7 @@ imageHint: "Kaskasatjakka rocky mountain peak",
             },
             {
                   "name": "Nállu",
-                  "text": "A needle-shaped mountain peak in Swedish Lapland.",
+                  "text": "Nállu is a prominent peak near the village of Nallo.",
                   "category": "landmark",
                   "coords": [
                         18.430387,
@@ -4689,7 +4689,7 @@ imageHint: "Nallo mountain peak Needle Lapland",
             },
             {
                   "name": "Valnäsbukten",
-                  "text": "Eine ruhige Bucht in Sydkoster, bekannt für ihre natürliche Schönheit.",
+                  "text": "Valnäsbukten ist eine Bucht auf der Insel Syd Koster.",
                   "category": "landmark",
                   "coords": [
                         10.988918,
@@ -4763,7 +4763,7 @@ imageHint: "Nallo mountain peak Needle Lapland",
             },
             {
                   "name": "Valnäsbukten",
-                  "text": "Egy csendes öböl Sydkosterben, amely természeti szépségéről ismert.",
+                  "text": "A Valnäsbukten egy öböl Syd Koster szigetén.",
                   "category": "landmark",
                   "coords": [
                         10.988918,
@@ -4837,7 +4837,7 @@ imageHint: "Nallo mountain peak Needle Lapland",
             },
             {
                   "name": "Valnäsbukten",
-                  "text": "Un golf liniștit în Sydkoster, cunoscut pentru frumusețea sa naturală.",
+                  "text": "Valnäsbukten este un golf pe insula Syd Koster.",
                   "category": "landmark",
                   "coords": [
                         10.988918,
@@ -4911,7 +4911,7 @@ imageHint: "Nallo mountain peak Needle Lapland",
             },
             {
                   "name": "Valnäsbukten",
-                  "text": "A quiet bay in Sydkoster known for its natural beauty.",
+                  "text": "Valnäsbukten is a bay on the island of Syd Koster.",
                   "category": "landmark",
                   "coords": [
                         10.988918,
@@ -5409,7 +5409,7 @@ imageHint: "Nallo mountain peak Needle Lapland",
             },
             {
                   "name": "Tveggelåten hunting cabin (ruins)",
-                  "text": "Die Ruinen einer alten Jagdhütte im Waldgebiet von Kilsbergen.",
+                  "text": "Ruinen einer Jagdhütte in Tveggelåten im Kilsbergen-Wald.",
                   "category": "historical",
                   "coords": [
                         14.832428,
@@ -5465,7 +5465,7 @@ imageHint: "Nallo mountain peak Needle Lapland",
             },
             {
                   "name": "Tveggelåten hunting cabin (ruins)",
-                  "text": "Egy régi vadászház romjai Kilsbergen erdei területén.",
+                  "text": "Vadászkunyhó romjai Tveggelåtenben, a Kilsbergen erdőben.",
                   "category": "historical",
                   "coords": [
                         14.832428,
@@ -5521,7 +5521,7 @@ imageHint: "Nallo mountain peak Needle Lapland",
             },
             {
                   "name": "Tveggelåten hunting cabin (ruins)",
-                  "text": "Ruinele unei vechi cabane de vânătoare situate în zona forestieră din Kilsbergen.",
+                  "text": "Ruinele unei cabane de vânătoare la Tveggelåten în pădurea Kilsbergen.",
                   "category": "historical",
                   "coords": [
                         14.832428,
@@ -5577,7 +5577,7 @@ imageHint: "Nallo mountain peak Needle Lapland",
             },
             {
                   "name": "Tveggelåten hunting cabin (ruins)",
-                  "text": "The ruins of an old hunting cabin located in the forest area of Kilsbergen.",
+                  "text": "Ruins of a hunting cabin at Tveggelåten in Kilsbergen forest.",
                   "category": "historical",
                   "coords": [
                         14.832428,
@@ -5931,7 +5931,7 @@ imageHint: "Nallo mountain peak Needle Lapland",
       "de": [
             {
                   "name": "Dalen-Hökolsberget",
-                  "text": "Ein Naturschutzgebiet mit Aussichtspunkten bei Rättvik.",
+                  "text": "Das Naturgebiet Dalen-Hökolsberget bei Rattviks Backe ist seit 2010 geschützt.",
                   "category": "natural",
                   "coords": [
                         15.135566,
@@ -5967,7 +5967,7 @@ imageHint: "Nallo mountain peak Needle Lapland",
             },
             {
                   "name": "Gammelgården",
-                  "text": "Ein Freilichtmuseum zur lokalen bäuerlichen Kultur in Rättvik.",
+                  "text": "Ein altes Bauernhofmuseum am Rattviks Backe in Dalarna.",
                   "category": "museum",
                   "coords": [
                         15.092873,
@@ -5976,7 +5976,7 @@ imageHint: "Nallo mountain peak Needle Lapland",
             },
             {
                   "name": "Hedsåsberget",
-                  "text": "Ein Aussichtsgipfel in der Nähe von Rättvik Slope.",
+                  "text": "Hedsåsberget ist ein Hügel bei Rattviks Backe.",
                   "category": "landmark",
                   "coords": [
                         15.165811,
@@ -5985,7 +5985,7 @@ imageHint: "Nallo mountain peak Needle Lapland",
             },
             {
                   "name": "Offerstenen",
-                  "text": "Ein historisches Denkmal in Rättvik Slope.",
+                  "text": "Ein Opferstein (Offersten) am Rattviks Backe in Dalarna.",
                   "category": "historical",
                   "coords": [
                         15.106815,
@@ -6005,7 +6005,7 @@ imageHint: "Nallo mountain peak Needle Lapland",
       "hu": [
             {
                   "name": "Dalen-Hökolsberget",
-                  "text": "Természetvédelmi terület kilátópontokkal Rättvik közelében.",
+                  "text": "A Dalen-Hökolsberget természetvédelmi terület Rattviks Backe közelében 2010 óta védett.",
                   "category": "natural",
                   "coords": [
                         15.135566,
@@ -6041,7 +6041,7 @@ imageHint: "Nallo mountain peak Needle Lapland",
             },
             {
                   "name": "Gammelgården",
-                  "text": "Rättvik helyi paraszti kultúráját bemutató szabadtéri múzeum.",
+                  "text": "Régi tanyamúzeum a Rattviks Backe-n, Dalarnában.",
                   "category": "museum",
                   "coords": [
                         15.092873,
@@ -6050,7 +6050,7 @@ imageHint: "Nallo mountain peak Needle Lapland",
             },
             {
                   "name": "Hedsåsberget",
-                  "text": "Kilátást nyújtó hegycsúcs Rättvik Slope közelében.",
+                  "text": "A Hedsåsberget egy domb Rattviks Backe mellett.",
                   "category": "landmark",
                   "coords": [
                         15.165811,
@@ -6059,7 +6059,7 @@ imageHint: "Nallo mountain peak Needle Lapland",
             },
             {
                   "name": "Offerstenen",
-                  "text": "Történelmi emlékmű Rättvik Slope területén.",
+                  "text": "Áldozati kő (offersten) a Rattviks Backe-n, Dalarnában.",
                   "category": "historical",
                   "coords": [
                         15.106815,
@@ -6079,7 +6079,7 @@ imageHint: "Nallo mountain peak Needle Lapland",
       "ro": [
             {
                   "name": "Dalen-Hökolsberget",
-                  "text": "O rezervație naturală cu puncte de belvedere lângă Rättvik.",
+                  "text": "Zona naturală Dalen-Hökolsberget de lângă Rattviks Backe este protejată din 2010.",
                   "category": "natural",
                   "coords": [
                         15.135566,
@@ -6115,7 +6115,7 @@ imageHint: "Nallo mountain peak Needle Lapland",
             },
             {
                   "name": "Gammelgården",
-                  "text": "Muzeu în aer liber despre cultura țărănească locală din Rättvik.",
+                  "text": "Un muzeu al unei ferme vechi la Rattviks Backe în Dalarna.",
                   "category": "museum",
                   "coords": [
                         15.092873,
@@ -6124,7 +6124,7 @@ imageHint: "Nallo mountain peak Needle Lapland",
             },
             {
                   "name": "Hedsåsberget",
-                  "text": "Un vârf muntos situat în apropiere de Rättvik Slope.",
+                  "text": "Hedsåsberget este un deal lângă Rattviks Backe.",
                   "category": "landmark",
                   "coords": [
                         15.165811,
@@ -6133,7 +6133,7 @@ imageHint: "Nallo mountain peak Needle Lapland",
             },
             {
                   "name": "Offerstenen",
-                  "text": "Un monument istoric situat în Rättvik Slope.",
+                  "text": "O piatră de sacrificiu (offersten) la Rattviks Backe în Dalarna.",
                   "category": "historical",
                   "coords": [
                         15.106815,
@@ -6153,7 +6153,7 @@ imageHint: "Nallo mountain peak Needle Lapland",
       "en": [
             {
                   "name": "Dalen-Hökolsberget",
-                  "text": "A nature reserve with viewpoints near Rättvik.",
+                  "text": "Dalen-Hökolsberget natural area near Rattviks Backe, protected since 2010.",
                   "category": "natural",
                   "coords": [
                         15.135566,
@@ -6189,7 +6189,7 @@ imageHint: "Nallo mountain peak Needle Lapland",
             },
             {
                   "name": "Gammelgården",
-                  "text": "Open-air museum about local rural culture in Rättvik.",
+                  "text": "A preserved old farmstead museum at Rattviks Backe in Dalarna.",
                   "category": "museum",
                   "coords": [
                         15.092873,
@@ -6198,7 +6198,7 @@ imageHint: "Nallo mountain peak Needle Lapland",
             },
             {
                   "name": "Hedsåsberget",
-                  "text": "A scenic peak located near Rättvik Slope.",
+                  "text": "Hedsåsberget is a hill near Rattviks Backe.",
                   "category": "landmark",
                   "coords": [
                         15.165811,
@@ -6207,7 +6207,7 @@ imageHint: "Nallo mountain peak Needle Lapland",
             },
             {
                   "name": "Offerstenen",
-                  "text": "A historical monument situated in Rättvik Slope.",
+                  "text": "A sacrificial stone (offersten) at Rattviks Backe in Dalarna.",
                   "category": "historical",
                   "coords": [
                         15.106815,
@@ -6426,7 +6426,7 @@ imageHint: "Nallo mountain peak Needle Lapland",
             },
             {
                   "name": "Tussan i arild",
-                  "text": "Tussan i arild ist ein Badeplatz im Osten von Kullaberg.",
+                  "text": "Ein Badeplatz in Arild auf der Halbinsel Kullaberg.",
                   "category": "recreational",
                   "coords": [
                         12.570795,
@@ -6500,7 +6500,7 @@ imageHint: "Nallo mountain peak Needle Lapland",
             },
             {
                   "name": "Tussan i arild",
-                  "text": "Tussan i arild egy fürdőhely Kullaberg keleti részén.",
+                  "text": "Strand Arildban, a Kullaberg-félszigeten.",
                   "category": "recreational",
                   "coords": [
                         12.570795,
@@ -6574,7 +6574,7 @@ imageHint: "Nallo mountain peak Needle Lapland",
             },
             {
                   "name": "Tussan i arild",
-                  "text": "Tussan i arild este un loc de scăldat în partea de est a Kullaberg.",
+                  "text": "O plajă în Arild pe peninsula Kullaberg.",
                   "category": "recreational",
                   "coords": [
                         12.570795,
@@ -6648,7 +6648,7 @@ imageHint: "Nallo mountain peak Needle Lapland",
             },
             {
                   "name": "Tussan i arild",
-                  "text": "Tussan i arild is a swimming spot in eastern Kullaberg.",
+                  "text": "A swimming spot at Arild on the Kullaberg peninsula.",
                   "category": "recreational",
                   "coords": [
                         12.570795,
@@ -6705,7 +6705,7 @@ imageHint: "Nallo mountain peak Needle Lapland",
       "de": [
             {
                   "name": "Camp Sveg",
-                  "text": "Ein kultureller Veranstaltungsort und Theater in der Gegend von Sveg Heights.",
+                  "text": "Ein Kulturcampingplatz in Svegs Hojder in Härjedalen.",
                   "category": "cultural",
                   "coords": [
                         14.365362,
@@ -6752,7 +6752,7 @@ imageHint: "Nallo mountain peak Needle Lapland",
       "hu": [
             {
                   "name": "Camp Sveg",
-                  "text": "Kulturális helyszín és színház Sveg Heights területén.",
+                  "text": "Kulturális kemping a Svegs Hojderben, Härjedalenben.",
                   "category": "cultural",
                   "coords": [
                         14.365362,
@@ -6799,7 +6799,7 @@ imageHint: "Nallo mountain peak Needle Lapland",
       "ro": [
             {
                   "name": "Camp Sveg",
-                  "text": "Un loc cultural și teatru situat în zona Sveg Heights.",
+                  "text": "Un camping cultural la Svegs Hojder în Härjedalen.",
                   "category": "cultural",
                   "coords": [
                         14.365362,
@@ -6846,7 +6846,7 @@ imageHint: "Nallo mountain peak Needle Lapland",
       "en": [
             {
                   "name": "Camp Sveg",
-                  "text": "A cultural venue and theatre located in the Sveg Heights area.",
+                  "text": "A cultural campsite at Svegs Hojder in Härjedalen.",
                   "category": "cultural",
                   "coords": [
                         14.365362,
@@ -7551,7 +7551,7 @@ imageHint: "Nallo mountain peak Needle Lapland",
       "de": [
             {
                   "name": "Skymninges Badplats",
-                  "text": "Skymninges Badplats liegt in der Nähe von Kristinehamn.",
+                  "text": "Ein Badeplatz in Skymninge nahe Kristinehamn.",
                   "category": "recreational",
                   "coords": [
                         14.059291,
@@ -7562,7 +7562,7 @@ imageHint: "Nallo mountain peak Needle Lapland",
       "hu": [
             {
                   "name": "Skymninges Badplats",
-                  "text": "Skymninges Badplats Kristinehamn közelében található.",
+                  "text": "Strand Skymningében, Kristinehamn közelében.",
                   "category": "recreational",
                   "coords": [
                         14.059291,
@@ -7573,7 +7573,7 @@ imageHint: "Nallo mountain peak Needle Lapland",
       "ro": [
             {
                   "name": "Skymninges Badplats",
-                  "text": "Skymninges Badplats este situată lângă Kristinehamn.",
+                  "text": "O plajă la Skymninge lângă Kristinehamn.",
                   "category": "recreational",
                   "coords": [
                         14.059291,
@@ -7584,7 +7584,7 @@ imageHint: "Nallo mountain peak Needle Lapland",
       "en": [
             {
                   "name": "Skymninges Badplats",
-                  "text": "Skymninges Badplats is located near Kristinehamn.",
+                  "text": "A bathing place at Skymninge near Kristinehamn.",
                   "category": "recreational",
                   "coords": [
                         14.059291,

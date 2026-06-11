@@ -7,7 +7,7 @@ export const mexicoEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Monumento al Minero",
-                  "text": "Monumento al Minero ist ein Denkmal für Bergleute in Lázaro Cárdenas.",
+                  "text": "Monumento al Minero: eine Bronzestatue eines Bergmanns mit einer Spitzhacke, die an das Bergbauerbe erinnert.",
                   "category": "historical",
                   "coords": [
                         -102.201217,
@@ -16,7 +16,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Kiosko Pérgola municipal",
-                  "text": "Der Kiosko Pérgola municipal ist ein kommunaler Pavillon in Lázaro Cárdenas.",
+                  "text": "Kiosko Pérgola municipal: ein schmiedeeiserner Kiosk auf dem Hauptplatz, der für Konzerte genutzt wird.",
                   "category": "landmark",
                   "coords": [
                         -102.191206,
@@ -25,7 +25,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Virgencita",
-                  "text": "Virgencita ist ein Denkmal der Jungfrau in Lázaro Cárdenas.",
+                  "text": "Virgencita: ein kleiner Schrein mit einer Statue der Jungfrau von Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -102.190328,
@@ -34,7 +34,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro APILAC",
-                  "text": "Teatro APILAC ist ein Theater in Lázaro Cárdenas.",
+                  "text": "Teatro APILAC: ein Theater, das vom Industrieverband des Hafens für Mitarbeiterveranstaltungen gebaut wurde.",
                   "category": "cultural",
                   "coords": [
                         -102.187778,
@@ -52,7 +52,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Playa Jardín",
-                  "text": "Ein Strand in Lázaro Cárdenas.",
+                  "text": "Playa Jardín: ein Strand mit angelegten Gärten und Picknickbereichen.",
                   "category": "recreational",
                   "coords": [
                         -102.227992,
@@ -61,7 +61,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Playa Eréndira",
-                  "text": "Ein Strand in Lázaro Cárdenas.",
+                  "text": "Playa Eréndira: ein nach der Purépecha-Prinzessin benannter Strand mit goldenem Sand und sanfter Brandung.",
                   "category": "recreational",
                   "coords": [
                         -102.218544,
@@ -70,7 +70,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Hotel Hacienda Jacarandas",
-                  "text": "Ruinen eines Hotels in Lázaro Cárdenas.",
+                  "text": "Hotel Hacienda Jacarandas: ein koloniales Hotel, umgeben von Jacaranda-Bäumen.",
                   "category": "historical",
                   "coords": [
                         -102.220909,
@@ -79,7 +79,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Flamingos",
-                  "text": "Ein Theater in Lázaro Cárdenas.",
+                  "text": "Centro Cultural Flamingos: ein Kulturzentrum, das Töpfer- und Malkurse anbietet.",
                   "category": "cultural",
                   "coords": [
                         -102.200481,
@@ -88,7 +88,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro al Aire Libre",
-                  "text": "Ein Freilichttheater in Lázaro Cárdenas.",
+                  "text": "Teatro al Aire Libre: ein Freilufttheater mit einer Bühne und Steinsitzen.",
                   "category": "cultural",
                   "coords": [
                         -102.196829,
@@ -108,7 +108,7 @@ export const mexicoEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Monumento al Minero",
-                  "text": "A Monumento al Minero egy bányászoknak szentelt emlékmű Lázaro Cárdenasban.",
+                  "text": "Monumento al Minero: egy bányász bronz szobra csákánnyal, a bányászati örökség emlékére.",
                   "category": "historical",
                   "coords": [
                         -102.201217,
@@ -117,7 +117,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Kiosko Pérgola municipal",
-                  "text": "A Kiosko Pérgola municipal egy önkormányzati pavilon Lázaro Cárdenasban.",
+                  "text": "Kiosko Pérgola municipal: kovácsoltvas kioszk a főtéren, amelyet koncertekre használnak.",
                   "category": "landmark",
                   "coords": [
                         -102.191206,
@@ -126,7 +126,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Virgencita",
-                  "text": "A Virgencita egy Szűz Mária-emlékmű Lázaro Cárdenasban.",
+                  "text": "Virgencita: egy kis szentély a Guadalupei Szűz szobrával.",
                   "category": "historical",
                   "coords": [
                         -102.190328,
@@ -135,7 +135,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro APILAC",
-                  "text": "A Teatro APILAC egy színház Lázaro Cárdenasban.",
+                  "text": "Teatro APILAC: a kikötő ipari szövetsége által épített színház munkavállalói eseményekre.",
                   "category": "cultural",
                   "coords": [
                         -102.187778,
@@ -153,7 +153,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Playa Jardín",
-                  "text": "Egy strand Lázaro Cárdenasban.",
+                  "text": "Playa Jardín: strand rendezett kertekkel és piknikezőhelyekkel.",
                   "category": "recreational",
                   "coords": [
                         -102.227992,
@@ -162,7 +162,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Playa Eréndira",
-                  "text": "Egy strand Lázaro Cárdenasban.",
+                  "text": "Playa Eréndira: a purépecha hercegnőről elnevezett strand arany homokkal és gyenge hullámokkal.",
                   "category": "recreational",
                   "coords": [
                         -102.218544,
@@ -171,7 +171,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Hotel Hacienda Jacarandas",
-                  "text": "Egy hotel romjai Lázaro Cárdenasban.",
+                  "text": "Hotel Hacienda Jacarandas: gyarmati stílusú szálloda, jakaranda fák övezte környezetben.",
                   "category": "historical",
                   "coords": [
                         -102.220909,
@@ -180,7 +180,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Flamingos",
-                  "text": "Egy színház Lázaro Cárdenasban.",
+                  "text": "Centro Cultural Flamingos: kulturális központ, amely fazekas- és festőműhelyeket kínál.",
                   "category": "cultural",
                   "coords": [
                         -102.200481,
@@ -189,7 +189,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro al Aire Libre",
-                  "text": "Egy szabadtéri színház Lázaro Cárdenasban.",
+                  "text": "Teatro al Aire Libre: szabadtéri színház színpaddal és kőülőhelyekkel.",
                   "category": "cultural",
                   "coords": [
                         -102.196829,
@@ -209,7 +209,7 @@ export const mexicoEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Monumento al Minero",
-                  "text": "Monumento al Minero este un monument dedicat minerilor din Lázaro Cárdenas.",
+                  "text": "Monumento al Minero: o statuie de bronz a unui miner cu o târnăcop, omagiu moștenirii miniere.",
                   "category": "historical",
                   "coords": [
                         -102.201217,
@@ -218,7 +218,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Kiosko Pérgola municipal",
-                  "text": "Kiosko Pérgola municipal este un pavilion municipal în Lázaro Cárdenas.",
+                  "text": "Kiosko Pérgola municipal: un chioșc din fier forjat în piața principală, folosit pentru concerte.",
                   "category": "landmark",
                   "coords": [
                         -102.191206,
@@ -227,7 +227,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Virgencita",
-                  "text": "Virgencita este un monument al Fecioarei în Lázaro Cárdenas.",
+                  "text": "Virgencita: un altar mic cu o statuie a Fecioarei de Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -102.190328,
@@ -236,7 +236,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro APILAC",
-                  "text": "Teatro APILAC este un teatru în Lázaro Cárdenas.",
+                  "text": "Teatro APILAC: un teatru construit de asociația industrială a portului pentru evenimente ale angajaților.",
                   "category": "cultural",
                   "coords": [
                         -102.187778,
@@ -254,7 +254,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Playa Jardín",
-                  "text": "O plajă în Lázaro Cárdenas.",
+                  "text": "Playa Jardín: o plajă cu grădini amenajate și zone de picnic.",
                   "category": "recreational",
                   "coords": [
                         -102.227992,
@@ -263,7 +263,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Playa Eréndira",
-                  "text": "O plajă în Lázaro Cárdenas.",
+                  "text": "Playa Eréndira: o plajă numită după prințesa purépecha, cu nisip auriu și valuri line.",
                   "category": "recreational",
                   "coords": [
                         -102.218544,
@@ -272,7 +272,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Hotel Hacienda Jacarandas",
-                  "text": "Ruinele unui hotel din Lázaro Cárdenas.",
+                  "text": "Hotel Hacienda Jacarandas: un hotel în stil colonial, înconjurat de arbori de jacaranda.",
                   "category": "historical",
                   "coords": [
                         -102.220909,
@@ -281,7 +281,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Flamingos",
-                  "text": "Un teatru în Lázaro Cárdenas.",
+                  "text": "Centro Cultural Flamingos: un centru cultural care oferă ateliere de olărit și pictură.",
                   "category": "cultural",
                   "coords": [
                         -102.200481,
@@ -290,7 +290,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro al Aire Libre",
-                  "text": "Un teatru în aer liber în Lázaro Cárdenas.",
+                  "text": "Teatro al Aire Libre: un teatru în aer liber cu o scenă și locuri de piatră.",
                   "category": "cultural",
                   "coords": [
                         -102.196829,
@@ -310,7 +310,7 @@ export const mexicoEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Monumento al Minero",
-                  "text": "Monumento al Minero is a monument dedicated to miners in Lázaro Cárdenas.",
+                  "text": "Monumento al Minero: a bronze statue of a miner with a pickaxe, honoring local mining heritage.",
                   "category": "historical",
                   "coords": [
                         -102.201217,
@@ -319,7 +319,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Kiosko Pérgola municipal",
-                  "text": "The Kiosko Pérgola municipal is a municipal pavilion in Lázaro Cárdenas.",
+                  "text": "Kiosko Pérgola municipal: a wrought-iron kiosk in the main square used for concerts.",
                   "category": "landmark",
                   "coords": [
                         -102.191206,
@@ -328,7 +328,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Virgencita",
-                  "text": "Virgencita is a monument of the Virgin in Lázaro Cárdenas.",
+                  "text": "Virgencita: a small shrine with a statue of the Virgin of Guadalupe.",
                   "category": "historical",
                   "coords": [
                         -102.190328,
@@ -337,7 +337,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro APILAC",
-                  "text": "Teatro APILAC is a theatre in Lázaro Cárdenas.",
+                  "text": "Teatro APILAC: a theater built by the port's industrial association for employee events.",
                   "category": "cultural",
                   "coords": [
                         -102.187778,
@@ -355,7 +355,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Playa Jardín",
-                  "text": "A beach in Lázaro Cárdenas.",
+                  "text": "Playa Jardín: a beach with landscaped gardens and picnic areas.",
                   "category": "recreational",
                   "coords": [
                         -102.227992,
@@ -364,7 +364,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Playa Eréndira",
-                  "text": "A beach in Lázaro Cárdenas.",
+                  "text": "Playa Eréndira: a beach named after the Purépecha princess, with golden sand and gentle surf.",
                   "category": "recreational",
                   "coords": [
                         -102.218544,
@@ -373,7 +373,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Hotel Hacienda Jacarandas",
-                  "text": "Ruins of a hotel in Lázaro Cárdenas.",
+                  "text": "Hotel Hacienda Jacarandas: a colonial-style hotel surrounded by jacaranda trees.",
                   "category": "historical",
                   "coords": [
                         -102.220909,
@@ -382,7 +382,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Flamingos",
-                  "text": "A theatre in Lázaro Cárdenas.",
+                  "text": "Centro Cultural Flamingos: a cultural center offering pottery and painting workshops.",
                   "category": "cultural",
                   "coords": [
                         -102.200481,
@@ -391,7 +391,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro al Aire Libre",
-                  "text": "An open-air theatre in Lázaro Cárdenas.",
+                  "text": "Teatro al Aire Libre: an outdoor amphitheater with a stage and stone seats.",
                   "category": "cultural",
                   "coords": [
                         -102.196829,
@@ -457,7 +457,7 @@ export const mexicoEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Playa El Tesoro",
-                  "text": "Playa El Tesoro ist ein Strand in Altamira, Mexiko.",
+                  "text": "Playa El Tesoro: ein abgelegener Strand mit türkisblauem Wasser und weißem Sand.",
                   "category": "recreational",
                   "coords": [
                         -97.856077,
@@ -468,7 +468,7 @@ export const mexicoEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Playa El Tesoro",
-                  "text": "Playa El Tesoro egy strand Altamirában, Mexikóban.",
+                  "text": "Playa El Tesoro: eldugott strand türkizkék vízzel és fehér homokkal.",
                   "category": "recreational",
                   "coords": [
                         -97.856077,
@@ -479,7 +479,7 @@ export const mexicoEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Playa El Tesoro",
-                  "text": "Playa El Tesoro este o plajă în Altamira, Mexic.",
+                  "text": "Playa El Tesoro: o plajă izolată cu apă turcoaz și nisip alb.",
                   "category": "recreational",
                   "coords": [
                         -97.856077,
@@ -490,7 +490,7 @@ export const mexicoEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Playa El Tesoro",
-                  "text": "Playa El Tesoro is a beach in Altamira, Mexico.",
+                  "text": "Playa El Tesoro: a secluded beach with turquoise water and white sand.",
                   "category": "recreational",
                   "coords": [
                         -97.856077,
@@ -547,7 +547,7 @@ export const mexicoEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Teatro José González Echeverría",
-                  "text": "Das Teatro José González Echeverría ist ein Theater in Fresnillo, benannt nach José González Echeverría.",
+                  "text": "Teatro José González Echeverría: ein nach einem lokalen Wohltäter benanntes Theater für Schauspiel und Konzerte.",
                   "category": "cultural",
                   "coords": [
                         -102.870661,
@@ -556,7 +556,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "El Tunal Centro Cultural",
-                  "text": "El Tunal Centro Cultural ist eine Galerie und ein Kulturzentrum in Fresnillo.",
+                  "text": "El Tunal Centro Cultural: ein Kulturzentrum in einem ehemaligen Hacienda-Gebäude mit Ausstellungen zum Silberbergbau.",
                   "category": "museum",
                   "coords": [
                         -102.864979,
@@ -565,7 +565,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Mina Turistica De Fresnillo",
-                  "text": "Die Mina Turistica De Fresnillo ist ein Besucherbergwerk und Museum in Fresnillo.",
+                  "text": "Ein ehemaliges Silberbergwerk, das heute als Museum die Bergbaugeschichte von Fresnillo zeigt.",
                   "category": "museum",
                   "coords": [
                         -102.87382,
@@ -574,7 +574,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Parque Tiro Buenos Aires",
-                  "text": "Der Parque Tiro Buenos Aires ist ein Themenpark in Fresnillo.",
+                  "text": "Ein Freizeitpark mit Sportplätzen und Erholungsfläche im Bergbaubezirk.",
                   "category": "recreational",
                   "coords": [
                         -102.882539,
@@ -583,7 +583,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Mural Homenaje a Enjambre",
-                  "text": "Das Mural Homenaje a Enjambre ist ein Wandgemälde in Fresnillo, das der Band Enjambre gewidmet ist.",
+                  "text": "Ein großes Wandgemälde, das der Band Enjambre gewidmet ist.",
                   "category": "landmark",
                   "coords": [
                         -102.862982,
@@ -592,7 +592,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Monumento EGM",
-                  "text": "Das Monumento EGM ist ein Denkmal in Fresnillo mit unbekannter Bedeutung.",
+                  "text": "Ein Denkmal mit den Initialen EGM auf einem zentralen Platz.",
                   "category": "historical",
                   "coords": [
                         -102.852834,
@@ -601,7 +601,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Torre de la Chimenea",
-                  "text": "Die Torre de la Chimenea ist ein Schornsteinturm-Denkmal in Fresnillo.",
+                  "text": "Ein historischer Schornsteinturm aus der Bergbauzeit.",
                   "category": "historical",
                   "coords": [
                         -102.84048,
@@ -610,7 +610,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Monumento a La Bandera",
-                  "text": "Das Monumento a La Bandera ist ein Denkmal für die Flagge in Fresnillo.",
+                  "text": "Ein Flaggenmonument auf dem Hauptplatz von Fresnillo.",
                   "category": "historical",
                   "coords": [
                         -102.878232,
@@ -619,7 +619,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Hemiciclo a Hidalgo",
-                  "text": "Der Hemiciclo a Hidalgo ist ein Denkmal in Fresnillo, das Miguel Hidalgo gewidmet ist.",
+                  "text": "Ein halbkreisförmiges Denkmal zu Ehren des Unabhängigkeitshelden Miguel Hidalgo.",
                   "category": "historical",
                   "coords": [
                         -102.869075,
@@ -628,7 +628,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Parque Ecológico Los Jales",
-                  "text": "Der Parque Ecológico Los Jales ist ein Naturschutzgebiet in Fresnillo.",
+                  "text": "Ein ökologischer Park, der auf alten Bergbauhalden angelegt wurde.",
                   "category": "natural",
                   "coords": [
                         -102.861072,
@@ -637,7 +637,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo Agora",
-                  "text": "Das Museo Agora ist ein Museum in Fresnillo.",
+                  "text": "Ein kleines Museum mit Ausstellungen zur lokalen Geschichte.",
                   "category": "museum",
                   "coords": [
                         -102.87085,
@@ -648,7 +648,7 @@ export const mexicoEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Teatro José González Echeverría",
-                  "text": "A Teatro José González Echeverría egy színház Fresnillóban, José González Echeverríáról elnevezve.",
+                  "text": "Teatro José González Echeverría: egy helyi jótevőről elnevezett színház színdaraboknak és koncerteknek.",
                   "category": "cultural",
                   "coords": [
                         -102.870661,
@@ -657,7 +657,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "El Tunal Centro Cultural",
-                  "text": "El Tunal Centro Cultural egy galéria és kulturális központ Fresnillóban.",
+                  "text": "El Tunal Centro Cultural: egy egykori hacienda épületében működő kulturális központ ezüstbányászati kiállításokkal.",
                   "category": "museum",
                   "coords": [
                         -102.864979,
@@ -666,7 +666,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Mina Turistica De Fresnillo",
-                  "text": "A Mina Turistica De Fresnillo egy turisztikai bánya és múzeum Fresnillóban.",
+                  "text": "Egy egykori ezüstbánya, amely ma múzeumként mutatja be Fresnillo bányászati múltját.",
                   "category": "museum",
                   "coords": [
                         -102.87382,
@@ -675,7 +675,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Parque Tiro Buenos Aires",
-                  "text": "A Parque Tiro Buenos Aires egy tematikus park Fresnillóban.",
+                  "text": "Sportpályákkal és pihenőterületekkel rendelkező szabadidőpark a bányászati negyedben.",
                   "category": "recreational",
                   "coords": [
                         -102.882539,
@@ -684,7 +684,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Mural Homenaje a Enjambre",
-                  "text": "A Mural Homenaje a Enjambre egy falfestmény Fresnillóban, amely az Enjambre zenekarnak állít emléket.",
+                  "text": "Egy nagy falfestmény, amely az Enjambre együttes előtt tiszteleg.",
                   "category": "landmark",
                   "coords": [
                         -102.862982,
@@ -693,7 +693,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Monumento EGM",
-                  "text": "A Monumento EGM egy emlékmű Fresnillóban, ismeretlen jelentéssel.",
+                  "text": "Egy EGM monogramos emlékmű egy központi téren.",
                   "category": "historical",
                   "coords": [
                         -102.852834,
@@ -702,7 +702,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Torre de la Chimenea",
-                  "text": "A Torre de la Chimenea egy kéménytorony emlékmű Fresnillóban.",
+                  "text": "Egy történelmi kéménytorony a bányászkorszakból.",
                   "category": "historical",
                   "coords": [
                         -102.84048,
@@ -711,7 +711,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Monumento a La Bandera",
-                  "text": "A Monumento a La Bandera egy zászlóemlékmű Fresnillóban.",
+                  "text": "Egy zászlóemlékmű Fresnillo főterén.",
                   "category": "historical",
                   "coords": [
                         -102.878232,
@@ -720,7 +720,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Hemiciclo a Hidalgo",
-                  "text": "A Hemiciclo a Hidalgo egy emlékmű Fresnillóban, Miguel Hidalgo tiszteletére.",
+                  "text": "Egy félkör alakú emlékmű Miguel Hidalgo függetlenségi hős tiszteletére.",
                   "category": "historical",
                   "coords": [
                         -102.869075,
@@ -729,7 +729,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Parque Ecológico Los Jales",
-                  "text": "A Parque Ecológico Los Jales egy természetvédelmi terület Fresnillóban.",
+                  "text": "Egy ökológiai park, amely régi bányameddőkre épült.",
                   "category": "natural",
                   "coords": [
                         -102.861072,
@@ -738,7 +738,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo Agora",
-                  "text": "A Museo Agora egy múzeum Fresnillóban.",
+                  "text": "Egy kis múzeum helytörténeti kiállításokkal.",
                   "category": "museum",
                   "coords": [
                         -102.87085,
@@ -749,7 +749,7 @@ export const mexicoEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Teatro José González Echeverría",
-                  "text": "Teatro José González Echeverría este un teatru în Fresnillo, numit după José González Echeverría.",
+                  "text": "Teatro José González Echeverría: un teatru numit după un binefăcător local, care găzduiește piese de teatru și concerte.",
                   "category": "cultural",
                   "coords": [
                         -102.870661,
@@ -758,7 +758,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "El Tunal Centro Cultural",
-                  "text": "El Tunal Centro Cultural este o galerie și un centru cultural în Fresnillo.",
+                  "text": "El Tunal Centro Cultural: un centru cultural într-o fostă clădire hacienda, cu exponate despre mineritul de argint.",
                   "category": "museum",
                   "coords": [
                         -102.864979,
@@ -767,7 +767,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Mina Turistica De Fresnillo",
-                  "text": "Mina Turistica De Fresnillo este o mină turistică și muzeu în Fresnillo.",
+                  "text": "O fostă mină de argint transformată în muzeu, ce prezintă istoria mineritului din Fresnillo.",
                   "category": "museum",
                   "coords": [
                         -102.87382,
@@ -776,7 +776,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Parque Tiro Buenos Aires",
-                  "text": "Parque Tiro Buenos Aires este un parc tematic în Fresnillo.",
+                  "text": "Un parc de agrement cu terenuri sportive și zone de relaxare în districtul minier.",
                   "category": "recreational",
                   "coords": [
                         -102.882539,
@@ -785,7 +785,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Mural Homenaje a Enjambre",
-                  "text": "Mural Homenaje a Enjambre este o pictură murală în Fresnillo dedicată trupei Enjambre.",
+                  "text": "Un mural mare dedicat trupei Enjambre.",
                   "category": "landmark",
                   "coords": [
                         -102.862982,
@@ -794,7 +794,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Monumento EGM",
-                  "text": "Monumento EGM este un monument în Fresnillo cu semnificație necunoscută.",
+                  "text": "Un monument cu inițialele EGM într-o piață centrală.",
                   "category": "historical",
                   "coords": [
                         -102.852834,
@@ -803,7 +803,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Torre de la Chimenea",
-                  "text": "Torre de la Chimenea este un monument turn de coș în Fresnillo.",
+                  "text": "Un turn istoric de coș de fum din era mineritului.",
                   "category": "historical",
                   "coords": [
                         -102.84048,
@@ -812,7 +812,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Monumento a La Bandera",
-                  "text": "Monumento a La Bandera este un monument dedicat steagului în Fresnillo.",
+                  "text": "Un monument al drapelului în piața principală din Fresnillo.",
                   "category": "historical",
                   "coords": [
                         -102.878232,
@@ -821,7 +821,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Hemiciclo a Hidalgo",
-                  "text": "Hemiciclo a Hidalgo este un monument în Fresnillo dedicat lui Miguel Hidalgo.",
+                  "text": "Un monument semicircular în cinstea eroului independenței Miguel Hidalgo.",
                   "category": "historical",
                   "coords": [
                         -102.869075,
@@ -830,7 +830,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Parque Ecológico Los Jales",
-                  "text": "Parque Ecológico Los Jales este o rezervație naturală în Fresnillo.",
+                  "text": "Un parc ecologic amenajat pe foste halde miniere.",
                   "category": "natural",
                   "coords": [
                         -102.861072,
@@ -839,7 +839,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo Agora",
-                  "text": "Museo Agora este un muzeu în Fresnillo.",
+                  "text": "Un muzeu mic cu expoziții de istorie locală.",
                   "category": "museum",
                   "coords": [
                         -102.87085,
@@ -850,7 +850,7 @@ export const mexicoEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Teatro José González Echeverría",
-                  "text": "Teatro José González Echeverría is a theatre in Fresnillo named after José González Echeverría.",
+                  "text": "Teatro José González Echeverría: a theater named after a local benefactor, hosting plays and concerts.",
                   "category": "cultural",
                   "coords": [
                         -102.870661,
@@ -859,7 +859,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "El Tunal Centro Cultural",
-                  "text": "El Tunal Centro Cultural is a gallery and cultural centre in Fresnillo.",
+                  "text": "El Tunal Centro Cultural: a cultural center in a former hacienda building, with exhibits on silver mining.",
                   "category": "museum",
                   "coords": [
                         -102.864979,
@@ -868,7 +868,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Mina Turistica De Fresnillo",
-                  "text": "Mina Turistica De Fresnillo is a tourist mine and museum in Fresnillo.",
+                  "text": "A former silver mine turned museum, showcasing the mining history of Fresnillo.",
                   "category": "museum",
                   "coords": [
                         -102.87382,
@@ -877,7 +877,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Parque Tiro Buenos Aires",
-                  "text": "Parque Tiro Buenos Aires is a theme park in Fresnillo.",
+                  "text": "A recreational park with sports fields and leisure areas in the mining district.",
                   "category": "recreational",
                   "coords": [
                         -102.882539,
@@ -886,7 +886,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Mural Homenaje a Enjambre",
-                  "text": "Mural Homenaje a Enjambre is a mural in Fresnillo honoring the band Enjambre.",
+                  "text": "A large mural paying homage to the band Enjambre.",
                   "category": "landmark",
                   "coords": [
                         -102.862982,
@@ -895,7 +895,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Monumento EGM",
-                  "text": "Monumento EGM is a monument in Fresnillo of unknown significance.",
+                  "text": "A monument bearing the initials EGM in a central square.",
                   "category": "historical",
                   "coords": [
                         -102.852834,
@@ -904,7 +904,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Torre de la Chimenea",
-                  "text": "Torre de la Chimenea is a chimney tower monument in Fresnillo.",
+                  "text": "A historic chimney tower from the mining era.",
                   "category": "historical",
                   "coords": [
                         -102.84048,
@@ -913,7 +913,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Monumento a La Bandera",
-                  "text": "Monumento a La Bandera is a monument to the flag in Fresnillo.",
+                  "text": "A flag monument on the main square of Fresnillo.",
                   "category": "historical",
                   "coords": [
                         -102.878232,
@@ -922,7 +922,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Hemiciclo a Hidalgo",
-                  "text": "Hemiciclo a Hidalgo is a monument in Fresnillo dedicated to Miguel Hidalgo.",
+                  "text": "A semicircular monument honoring independence hero Miguel Hidalgo.",
                   "category": "historical",
                   "coords": [
                         -102.869075,
@@ -931,7 +931,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Parque Ecológico Los Jales",
-                  "text": "Parque Ecológico Los Jales is a nature reserve in Fresnillo.",
+                  "text": "An ecological park built on old mining tailings.",
                   "category": "natural",
                   "coords": [
                         -102.861072,
@@ -940,7 +940,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo Agora",
-                  "text": "Museo Agora is a museum in Fresnillo.",
+                  "text": "A small museum featuring local history exhibits.",
                   "category": "museum",
                   "coords": [
                         -102.87085,
@@ -1051,7 +1051,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo vieja estación de ferrocarril",
-                  "text": "Das Museo vieja estación de ferrocarril ist ein Museum in der alten Eisenbahnstation in Santa Fe.",
+                  "text": "Ein Museum in einem restaurierten alten Bahnhofsgebäude.",
                   "category": "museum",
                   "coords": [
                         -99.237904,
@@ -1060,7 +1060,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo del Axolote",
-                  "text": "Das Museo del Axolote ist ein Museum, das dem Axolotl gewidmet ist, in Santa Fe.",
+                  "text": "Ein Museum, das dem Axolotl, einem endemischen Salamander, gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         -99.219784,
@@ -1069,7 +1069,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo de Sitio",
-                  "text": "Das Museo de Sitio ist ein archäologisches Museum vor Ort in Santa Fe.",
+                  "text": "Ein archäologisches Museum mit prähispanischen Fundstücken.",
                   "category": "museum",
                   "coords": [
                         -99.255051,
@@ -1078,7 +1078,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo Huixquilucan",
-                  "text": "Das Museo Huixquilucan ist ein Museum in Santa Fe, das der Geschichte von Huixquilucan gewidmet ist.",
+                  "text": "Das Heimatmuseum von Huixquilucan mit lokalen Exponaten.",
                   "category": "museum",
                   "coords": [
                         -99.341195,
@@ -1087,7 +1087,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Casa Comunitaria de San Pedro Cuajimalpa",
-                  "text": "Die Casa Comunitaria de San Pedro Cuajimalpa ist ein Gemeinschaftshaus in Santa Fe.",
+                  "text": "Ein Gemeinschaftshaus in San Pedro Cuajimalpa, das als Museum dient.",
                   "category": "museum",
                   "coords": [
                         -99.298897,
@@ -1096,7 +1096,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Ermita",
-                  "text": "Die Ermita ist eine Ruine einer Einsiedelei in Santa Fe.",
+                  "text": "Eine kleine historische Einsiedlerkapelle im Santa Fe District.",
                   "category": "historical",
                   "coords": [
                         -99.313494,
@@ -1105,7 +1105,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Mascaras Cortadas",
-                  "text": "Die Mascaras Cortadas sind ein Denkmal mit geschnittenen Masken in Santa Fe.",
+                  "text": "Eine Gruppe geschnitzter Steinmasken als Kunstinstallation.",
                   "category": "historical",
                   "coords": [
                         -99.272986,
@@ -1114,7 +1114,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Cabeza Olmeca",
-                  "text": "Die Cabeza Olmeca ist ein monumentaler Olmekenkopf in Santa Fe.",
+                  "text": "Ein monumentaler Olmekenkopf – entweder Original oder Nachbildung.",
                   "category": "historical",
                   "coords": [
                         -99.261142,
@@ -1123,7 +1123,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Pirámide Mazatepetl",
-                  "text": "Die Pirámide Mazatepetl ist eine archäologische Stätte mit einer Pyramide in Santa Fe.",
+                  "text": "Eine prähispanische Pyramide auf dem Hügel Mazatepetl.",
                   "category": "historical",
                   "coords": [
                         -99.25403,
@@ -1132,7 +1132,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Monumento a Juarez, zapata y Villa",
-                  "text": "Das Monumento a Juárez, Zapata y Villa ist ein Denkmal für Benito Juárez, Emiliano Zapata und Pancho Villa in Santa Fe.",
+                  "text": "Ein bronzenes Denkmal für Juárez, Zapata und Villa.",
                   "category": "historical",
                   "coords": [
                         -99.351703,
@@ -1141,7 +1141,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Stars Fushion Salon De Baile",
-                  "text": "Stars Fushion Salon De Baile ist ein Tanzstudio in Santa Fe.",
+                  "text": "Ein Tanzstudio, das lateinamerikanische und Gesellschaftstänze anbietet.",
                   "category": "cultural",
                   "coords": [
                         -99.254767,
@@ -1150,7 +1150,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Music Factory",
-                  "text": "Music Factory ist eine Musikschule in Santa Fe.",
+                  "text": "Ein Live-Musikclub mit Proberäumen und Konzerten.",
                   "category": "cultural",
                   "coords": [
                         -99.239099,
@@ -1159,7 +1159,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Encore Music Laboratory",
-                  "text": "Encore Music Laboratory ist ein Musiklabor in Santa Fe.",
+                  "text": "Ein Aufnahmestudio und Musikproduktionslabor.",
                   "category": "cultural",
                   "coords": [
                         -99.221483,
@@ -1168,7 +1168,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Fundacion Cadavieco",
-                  "text": "Fundacion Cadavieco ist eine Kunststiftung in Santa Fe.",
+                  "text": "Eine Kulturstiftung, die Kunstausstellungen veranstaltet.",
                   "category": "cultural",
                   "coords": [
                         -99.233917,
@@ -1177,7 +1177,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Centro de artes del moviento Butoyolotl",
-                  "text": "Das Centro de artes del moviento Butoyolotl ist ein Zentrum für Bewegungskunst in Santa Fe.",
+                  "text": "Ein Zentrum für Tanz und Bewegungskunst des Butoyolotl-Ensembles.",
                   "category": "cultural",
                   "coords": [
                         -99.227085,
@@ -1186,7 +1186,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Jazzercize Gimnasio",
-                  "text": "Jazzercize Gimnasio ist ein Fitnessstudio in Santa Fe.",
+                  "text": "Ein Fitnessstudio spezialisiert auf Jazzercise-Kurse.",
                   "category": "cultural",
                   "coords": [
                         -99.231563,
@@ -1195,7 +1195,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Zen Martial Arts",
-                  "text": "Zen Martial Arts ist eine Kampfkunstschule in Santa Fe.",
+                  "text": "Eine Kampfkunstschule, die Zen-basierte Techniken lehrt.",
                   "category": "cultural",
                   "coords": [
                         -99.231447,
@@ -1204,7 +1204,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Escuela De Canto Evocal Studio",
-                  "text": "Escuela De Canto Evocal Studio ist eine Gesangsschule in Santa Fe.",
+                  "text": "Ein Gesangsstudio mit professionellem Stimmtraining.",
                   "category": "cultural",
                   "coords": [
                         -99.242589,
@@ -1213,7 +1213,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Academia De Musica El Metronomo",
-                  "text": "Academia De Musica El Metronomo ist eine Musikakademie in Santa Fe.",
+                  "text": "Eine Musikakademie, benannt nach dem Metronom, mit verschiedenen Instrumentalkursen.",
                   "category": "cultural",
                   "coords": [
                         -99.243604,
@@ -1222,7 +1222,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Centro De Asistencia Social Infantil Lomas Quebradas",
-                  "text": "Das Centro De Asistencia Social Infantil Lomas Quebradas ist ein soziales Zentrum für Kinder in Santa Fe.",
+                  "text": "Ein soziales Zentrum mit Betreuung und Aktivitäten für Kinder.",
                   "category": "cultural",
                   "coords": [
                         -99.239271,
@@ -1231,7 +1231,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Mi Centro Talleres Y Cursos",
-                  "text": "Mi Centro Talleres Y Cursos ist ein Zentrum für Workshops und Kurse in Santa Fe.",
+                  "text": "Ein Gemeinschaftszentrum für verschiedene Workshops und Kurse.",
                   "category": "cultural",
                   "coords": [
                         -99.237033,
@@ -1240,7 +1240,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Magic Fiesta",
-                  "text": "Magic Fiesta ist ein Veranstaltungsort für Feste in Santa Fe.",
+                  "text": "Ein Veranstaltungsort für Partys und Feierlichkeiten.",
                   "category": "cultural",
                   "coords": [
                         -99.243695,
@@ -1249,7 +1249,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Actividad Dance",
-                  "text": "Actividad Dance ist ein Tanzaktivitätszentrum in Santa Fe.",
+                  "text": "Eine Tanzschule mit Unterricht in verschiedenen Stilen.",
                   "category": "cultural",
                   "coords": [
                         -99.261523,
@@ -1258,7 +1258,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Academia De Baile Taef",
-                  "text": "Academia De Baile Taef ist ein Tanzkunstzentrum in Mexiko-Stadt.",
+                  "text": "Eine Tanzakademie, die sich auf lateinamerikanische Rhythmen konzentriert.",
                   "category": "cultural",
                   "coords": [
                         -99.271612,
@@ -1303,7 +1303,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Danceology",
-                  "text": "Danceology ist ein Tanzkunstzentrum in Mexiko-Stadt.",
+                  "text": "Ein modernes Tanzstudio mit zeitgenössischen Ansätzen.",
                   "category": "cultural",
                   "coords": [
                         -99.275279,
@@ -1312,7 +1312,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Zona Danza",
-                  "text": "Zona Danza ist ein Tanzzonen-Kunstzentrum in Mexiko-Stadt.",
+                  "text": "Ein Tanzstudio für verschiedene Genres von Ballett bis Hip-Hop.",
                   "category": "cultural",
                   "coords": [
                         -99.290842,
@@ -1321,7 +1321,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Escuela De Musica Sound City",
-                  "text": "Escuela De Musica Sound City ist ein Musikschul-Kunstzentrum in Mexiko-Stadt.",
+                  "text": "Eine Musikschule namens Sound City mit Instrumental- und Gesangsunterricht.",
                   "category": "cultural",
                   "coords": [
                         -99.290438,
@@ -1350,7 +1350,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo vieja estación de ferrocarril",
-                  "text": "A Museo vieja estación de ferrocarril egy múzeum a régi vasútállomáson Santa Fében.",
+                  "text": "Egy múzeum egy felújított régi vasútállomás épületében.",
                   "category": "museum",
                   "coords": [
                         -99.237904,
@@ -1359,7 +1359,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo del Axolote",
-                  "text": "A Museo del Axolote egy axolotlnak szentelt múzeum Santa Fében.",
+                  "text": "Egy múzeum, amely az axolotl, egy endemikus szalamandra bemutatására szolgál.",
                   "category": "museum",
                   "coords": [
                         -99.219784,
@@ -1368,7 +1368,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo de Sitio",
-                  "text": "A Museo de Sitio egy helyszíni régészeti múzeum Santa Fében.",
+                  "text": "Egy régészeti múzeum prehispán leletekkel.",
                   "category": "museum",
                   "coords": [
                         -99.255051,
@@ -1377,7 +1377,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo Huixquilucan",
-                  "text": "A Museo Huixquilucan egy múzeum Santa Fében, amely Huixquilucan történetének van szentelve.",
+                  "text": "Huixquilucan helytörténeti múzeuma helyi kiállítási tárgyakkal.",
                   "category": "museum",
                   "coords": [
                         -99.341195,
@@ -1386,7 +1386,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Casa Comunitaria de San Pedro Cuajimalpa",
-                  "text": "A Casa Comunitaria de San Pedro Cuajimalpa egy közösségi ház Santa Fében.",
+                  "text": "Egy közösségi ház San Pedro Cuajimalpában, amely múzeumként működik.",
                   "category": "museum",
                   "coords": [
                         -99.298897,
@@ -1395,7 +1395,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Ermita",
-                  "text": "Az Ermita egy remetelak romja Santa Fében.",
+                  "text": "Egy kis történelmi remetekápolna a Santa Fe kerületben.",
                   "category": "historical",
                   "coords": [
                         -99.313494,
@@ -1404,7 +1404,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Mascaras Cortadas",
-                  "text": "A Mascaras Cortadas egy vágott maszkokat ábrázoló emlékmű Santa Fében.",
+                  "text": "Faragott kőmaszkokból álló művészeti installáció.",
                   "category": "historical",
                   "coords": [
                         -99.272986,
@@ -1413,7 +1413,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Cabeza Olmeca",
-                  "text": "A Cabeza Olmeca egy monumentális olmék fej Santa Fében.",
+                  "text": "Egy monumentális olmék fej – akár eredeti, akár másolat.",
                   "category": "historical",
                   "coords": [
                         -99.261142,
@@ -1422,7 +1422,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Pirámide Mazatepetl",
-                  "text": "A Pirámide Mazatepetl egy régészeti lelőhely piramissal Santa Fében.",
+                  "text": "Egy prehispán piramis a Mazatepetl-dombon.",
                   "category": "historical",
                   "coords": [
                         -99.25403,
@@ -1431,7 +1431,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Monumento a Juarez, zapata y Villa",
-                  "text": "A Monumento a Juárez, Zapata y Villa egy emlékmű Benito Juárez, Emiliano Zapata és Pancho Villa tiszteletére Santa Fében.",
+                  "text": "Egy bronz emlékmű Juárez, Zapata és Villa tiszteletére.",
                   "category": "historical",
                   "coords": [
                         -99.351703,
@@ -1440,7 +1440,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Stars Fushion Salon De Baile",
-                  "text": "A Stars Fushion Salon De Baile egy táncstúdió Santa Fében.",
+                  "text": "Egy táncstúdió, amely latin és társastánc órákat kínál.",
                   "category": "cultural",
                   "coords": [
                         -99.254767,
@@ -1449,7 +1449,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Music Factory",
-                  "text": "A Music Factory egy zeneiskola Santa Fében.",
+                  "text": "Egy élőzenei klub próbatermekkel és koncertekkel.",
                   "category": "cultural",
                   "coords": [
                         -99.239099,
@@ -1458,7 +1458,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Encore Music Laboratory",
-                  "text": "Az Encore Music Laboratory egy zenei laboratórium Santa Fében.",
+                  "text": "Egy hangstúdió és zenei producálási labor.",
                   "category": "cultural",
                   "coords": [
                         -99.221483,
@@ -1467,7 +1467,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Fundacion Cadavieco",
-                  "text": "A Fundacion Cadavieco egy művészeti alapítvány Santa Fében.",
+                  "text": "Egy kulturális alapítvány, amely művészeti kiállításokat szervez.",
                   "category": "cultural",
                   "coords": [
                         -99.233917,
@@ -1476,7 +1476,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Centro de artes del moviento Butoyolotl",
-                  "text": "A Centro de artes del moviento Butoyolotl egy mozgásművészeti központ Santa Fében.",
+                  "text": "Egy tánc- és mozgásművészeti központ a Butoyolotl együttes számára.",
                   "category": "cultural",
                   "coords": [
                         -99.227085,
@@ -1485,7 +1485,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Jazzercize Gimnasio",
-                  "text": "A Jazzercize Gimnasio egy fitneszterem Santa Fében.",
+                  "text": "Egy fitneszterem, amely kifejezetten Jazzercise órákat kínál.",
                   "category": "cultural",
                   "coords": [
                         -99.231563,
@@ -1494,7 +1494,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Zen Martial Arts",
-                  "text": "A Zen Martial Arts egy harcművészeti iskola Santa Fében.",
+                  "text": "Egy harcművészeti iskola, amely zen-alapú technikákat tanít.",
                   "category": "cultural",
                   "coords": [
                         -99.231447,
@@ -1503,7 +1503,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Escuela De Canto Evocal Studio",
-                  "text": "Az Escuela De Canto Evocal Studio egy énekiskola Santa Fében.",
+                  "text": "Egy énekstúdió professzionális hangképzéssel.",
                   "category": "cultural",
                   "coords": [
                         -99.242589,
@@ -1512,7 +1512,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Academia De Musica El Metronomo",
-                  "text": "Az Academia De Musica El Metronomo egy zeneakadémia Santa Fében.",
+                  "text": "Egy metronómról elnevezett zeneakadémia, különféle hangszerkurzusokkal.",
                   "category": "cultural",
                   "coords": [
                         -99.243604,
@@ -1521,7 +1521,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Centro De Asistencia Social Infantil Lomas Quebradas",
-                  "text": "A Centro De Asistencia Social Infantil Lomas Quebradas egy gyermekeknek szánt szociális központ Santa Fében.",
+                  "text": "Egy szociális központ gyermekek számára nyújtott gondozással és programokkal.",
                   "category": "cultural",
                   "coords": [
                         -99.239271,
@@ -1530,7 +1530,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Mi Centro Talleres Y Cursos",
-                  "text": "A Mi Centro Talleres Y Cursos egy workshopok és tanfolyamok központja Santa Fében.",
+                  "text": "Egy közösségi központ, amely különféle workshopokat és tanfolyamokat kínál.",
                   "category": "cultural",
                   "coords": [
                         -99.237033,
@@ -1539,7 +1539,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Magic Fiesta",
-                  "text": "A Magic Fiesta egy rendezvényhelyszín Santa Fében.",
+                  "text": "Egy rendezvényhelyszín bulik és ünnepségek számára.",
                   "category": "cultural",
                   "coords": [
                         -99.243695,
@@ -1548,7 +1548,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Actividad Dance",
-                  "text": "Az Actividad Dance egy táncaktivitási központ Santa Fében.",
+                  "text": "Egy tánciskola, amely különböző stílusokban kínál oktatást.",
                   "category": "cultural",
                   "coords": [
                         -99.261523,
@@ -1557,7 +1557,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Academia De Baile Taef",
-                  "text": "Academia De Baile Taef egy táncművészeti központ Mexikóvárosban.",
+                  "text": "Egy táncakadémia, amely a latin ritmusokra összpontosít.",
                   "category": "cultural",
                   "coords": [
                         -99.271612,
@@ -1602,7 +1602,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Danceology",
-                  "text": "Danceology egy táncművészeti központ Mexikóvárosban.",
+                  "text": "Egy modern táncstúdió kortárs megközelítéssel.",
                   "category": "cultural",
                   "coords": [
                         -99.275279,
@@ -1611,7 +1611,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Zona Danza",
-                  "text": "Zona Danza egy tánczóna művészeti központ Mexikóvárosban.",
+                  "text": "Egy táncstúdió különböző műfajokra, a balettoától a hip-hopig.",
                   "category": "cultural",
                   "coords": [
                         -99.290842,
@@ -1620,7 +1620,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Escuela De Musica Sound City",
-                  "text": "Escuela De Musica Sound City egy hangvárosi zeneiskola művészeti központ Mexikóvárosban.",
+                  "text": "Egy Sound City nevű zeneiskola hangszeres és énekoktatással.",
                   "category": "cultural",
                   "coords": [
                         -99.290438,
@@ -1649,7 +1649,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo vieja estación de ferrocarril",
-                  "text": "Museo vieja estación de ferrocarril este un muzeu în fosta gară din Santa Fe.",
+                  "text": "Un muzeu într-o clădire restaurată de gară veche.",
                   "category": "museum",
                   "coords": [
                         -99.237904,
@@ -1658,7 +1658,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo del Axolote",
-                  "text": "Museo del Axolote este un muzeu dedicat axolotlului în Santa Fe.",
+                  "text": "Un muzeu dedicat axolotlului, o salamandră endemică.",
                   "category": "museum",
                   "coords": [
                         -99.219784,
@@ -1667,7 +1667,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo de Sitio",
-                  "text": "Museo de Sitio este un muzeu arheologic in situ în Santa Fe.",
+                  "text": "Un muzeu de sit cu artefacte prehispanice.",
                   "category": "museum",
                   "coords": [
                         -99.255051,
@@ -1676,7 +1676,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo Huixquilucan",
-                  "text": "Museo Huixquilucan este un muzeu în Santa Fe dedicat istoriei orașului Huixquilucan.",
+                  "text": "Muzeul de istorie locală din Huixquilucan cu exponate locale.",
                   "category": "museum",
                   "coords": [
                         -99.341195,
@@ -1685,7 +1685,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Casa Comunitaria de San Pedro Cuajimalpa",
-                  "text": "Casa Comunitaria de San Pedro Cuajimalpa este o casă comunitară în Santa Fe.",
+                  "text": "O casă comunitară din San Pedro Cuajimalpa transformată în muzeu.",
                   "category": "museum",
                   "coords": [
                         -99.298897,
@@ -1694,7 +1694,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Ermita",
-                  "text": "Ermita este o ruină a unei schituri în Santa Fe.",
+                  "text": "O mică capelă istorică de sihăstrie în districtul Santa Fe.",
                   "category": "historical",
                   "coords": [
                         -99.313494,
@@ -1703,7 +1703,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Mascaras Cortadas",
-                  "text": "Mascaras Cortadas este un monument cu măști tăiate în Santa Fe.",
+                  "text": "Un ansamblu de măști de piatră sculptate ca instalație artistică.",
                   "category": "historical",
                   "coords": [
                         -99.272986,
@@ -1712,7 +1712,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Cabeza Olmeca",
-                  "text": "Cabeza Olmeca este un cap olmec monumental în Santa Fe.",
+                  "text": "Un cap olmec monumental – original sau replică.",
                   "category": "historical",
                   "coords": [
                         -99.261142,
@@ -1721,7 +1721,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Pirámide Mazatepetl",
-                  "text": "Pirámide Mazatepetl este un sit arheologic cu o piramidă în Santa Fe.",
+                  "text": "O piramidă prehispanică pe dealul Mazatepetl.",
                   "category": "historical",
                   "coords": [
                         -99.25403,
@@ -1730,7 +1730,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Monumento a Juarez, zapata y Villa",
-                  "text": "Monumento a Juárez, Zapata y Villa este un monument dedicat lui Benito Juárez, Emiliano Zapata și Pancho Villa în Santa Fe.",
+                  "text": "Un monument de bronz dedicat lui Juárez, Zapata și Villa.",
                   "category": "historical",
                   "coords": [
                         -99.351703,
@@ -1739,7 +1739,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Stars Fushion Salon De Baile",
-                  "text": "Stars Fushion Salon De Baile este un studio de dans în Santa Fe.",
+                  "text": "Un studio de dans care oferă cursuri de dans latin și de sală.",
                   "category": "cultural",
                   "coords": [
                         -99.254767,
@@ -1748,7 +1748,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Music Factory",
-                  "text": "Music Factory este o școală de muzică în Santa Fe.",
+                  "text": "Un club de muzică live cu săli de repetiții și concerte.",
                   "category": "cultural",
                   "coords": [
                         -99.239099,
@@ -1757,7 +1757,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Encore Music Laboratory",
-                  "text": "Encore Music Laboratory este un laborator muzical în Santa Fe.",
+                  "text": "Un studio de înregistrare și laborator de producție muzicală.",
                   "category": "cultural",
                   "coords": [
                         -99.221483,
@@ -1766,7 +1766,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Fundacion Cadavieco",
-                  "text": "Fundacion Cadavieco este o fundație artistică în Santa Fe.",
+                  "text": "O fundație culturală care organizează expoziții de artă.",
                   "category": "cultural",
                   "coords": [
                         -99.233917,
@@ -1775,7 +1775,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Centro de artes del moviento Butoyolotl",
-                  "text": "Centro de artes del moviento Butoyolotl este un centru de arte ale mișcării în Santa Fe.",
+                  "text": "Un centru de dans și artă a mișcării al ansamblului Butoyolotl.",
                   "category": "cultural",
                   "coords": [
                         -99.227085,
@@ -1784,7 +1784,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Jazzercize Gimnasio",
-                  "text": "Jazzercize Gimnasio este o sală de fitness în Santa Fe.",
+                  "text": "O sală de fitness specializată în cursuri de Jazzercise.",
                   "category": "cultural",
                   "coords": [
                         -99.231563,
@@ -1793,7 +1793,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Zen Martial Arts",
-                  "text": "Zen Martial Arts este o școală de arte marțiale în Santa Fe.",
+                  "text": "O școală de arte marțiale care predă tehnici bazate pe Zen.",
                   "category": "cultural",
                   "coords": [
                         -99.231447,
@@ -1802,7 +1802,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Escuela De Canto Evocal Studio",
-                  "text": "Escuela De Canto Evocal Studio este o școală de canto în Santa Fe.",
+                  "text": "Un studio de canto cu antrenament vocal profesional.",
                   "category": "cultural",
                   "coords": [
                         -99.242589,
@@ -1811,7 +1811,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Academia De Musica El Metronomo",
-                  "text": "Academia De Musica El Metronomo este o academie de muzică în Santa Fe.",
+                  "text": "O academie de muzică numită după metronom, cu cursuri de instrumente variate.",
                   "category": "cultural",
                   "coords": [
                         -99.243604,
@@ -1820,7 +1820,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Centro De Asistencia Social Infantil Lomas Quebradas",
-                  "text": "Centro De Asistencia Social Infantil Lomas Quebradas este un centru social pentru copii în Santa Fe.",
+                  "text": "Un centru de asistență socială cu îngrijire și activități pentru copii.",
                   "category": "cultural",
                   "coords": [
                         -99.239271,
@@ -1829,7 +1829,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Mi Centro Talleres Y Cursos",
-                  "text": "Mi Centro Talleres Y Cursos este un centru de ateliere și cursuri în Santa Fe.",
+                  "text": "Un centru comunitar care oferă diverse ateliere și cursuri.",
                   "category": "cultural",
                   "coords": [
                         -99.237033,
@@ -1838,7 +1838,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Magic Fiesta",
-                  "text": "Magic Fiesta este un loc de evenimente pentru petreceri în Santa Fe.",
+                  "text": "Un spațiu pentru petreceri și evenimente festive.",
                   "category": "cultural",
                   "coords": [
                         -99.243695,
@@ -1847,7 +1847,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Actividad Dance",
-                  "text": "Actividad Dance este un centru de activități de dans în Santa Fe.",
+                  "text": "O școală de dans care oferă instruire în diverse stiluri.",
                   "category": "cultural",
                   "coords": [
                         -99.261523,
@@ -1856,7 +1856,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Academia De Baile Taef",
-                  "text": "Academia De Baile Taef este un centru de arte de dans în Mexico City.",
+                  "text": "O academie de dans axată pe ritmuri latino.",
                   "category": "cultural",
                   "coords": [
                         -99.271612,
@@ -1901,7 +1901,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Danceology",
-                  "text": "Danceology este un centru de arte de dans în Mexico City.",
+                  "text": "Un studio de dans modern cu abordări contemporane.",
                   "category": "cultural",
                   "coords": [
                         -99.275279,
@@ -1910,7 +1910,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Zona Danza",
-                  "text": "Zona Danza este un centru de arte de zonă de dans în Mexico City.",
+                  "text": "Un studio de dans pentru diverse genuri, de la balet la hip-hop.",
                   "category": "cultural",
                   "coords": [
                         -99.290842,
@@ -1919,7 +1919,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Escuela De Musica Sound City",
-                  "text": "Escuela De Musica Sound City este un centru de arte de școală de muzică în Mexico City.",
+                  "text": "O școală de muzică numită Sound City, cu lecții instrumentale și de canto.",
                   "category": "cultural",
                   "coords": [
                         -99.290438,
@@ -1948,7 +1948,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo vieja estación de ferrocarril",
-                  "text": "Museo vieja estación de ferrocarril is a museum in the old railway station in Santa Fe.",
+                  "text": "A museum housed in a restored old train station.",
                   "category": "museum",
                   "coords": [
                         -99.237904,
@@ -1957,7 +1957,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo del Axolote",
-                  "text": "Museo del Axolote is a museum dedicated to the axolotl in Santa Fe.",
+                  "text": "A museum dedicated to the axolotl, an endemic salamander.",
                   "category": "museum",
                   "coords": [
                         -99.219784,
@@ -1966,7 +1966,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo de Sitio",
-                  "text": "Museo de Sitio is an on-site archaeological museum in Santa Fe.",
+                  "text": "An archaeological site museum with pre-Hispanic artifacts.",
                   "category": "museum",
                   "coords": [
                         -99.255051,
@@ -1975,7 +1975,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo Huixquilucan",
-                  "text": "Museo Huixquilucan is a museum in Santa Fe dedicated to the history of Huixquilucan.",
+                  "text": "The local history museum of Huixquilucan with regional exhibits.",
                   "category": "museum",
                   "coords": [
                         -99.341195,
@@ -1984,7 +1984,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Casa Comunitaria de San Pedro Cuajimalpa",
-                  "text": "Casa Comunitaria de San Pedro Cuajimalpa is a community house in Santa Fe.",
+                  "text": "A community house in San Pedro Cuajimalpa serving as a museum.",
                   "category": "museum",
                   "coords": [
                         -99.298897,
@@ -1993,7 +1993,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Ermita",
-                  "text": "Ermita is the ruin of a hermitage in Santa Fe.",
+                  "text": "A small historic hermitage chapel in the Santa Fe District.",
                   "category": "historical",
                   "coords": [
                         -99.313494,
@@ -2002,7 +2002,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Mascaras Cortadas",
-                  "text": "Mascaras Cortadas is a monument with cut masks in Santa Fe.",
+                  "text": "A set of carved stone masks as an art installation.",
                   "category": "historical",
                   "coords": [
                         -99.272986,
@@ -2011,7 +2011,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Cabeza Olmeca",
-                  "text": "Cabeza Olmeca is a monumental Olmec head in Santa Fe.",
+                  "text": "A monumental Olmec head – either original or replica.",
                   "category": "historical",
                   "coords": [
                         -99.261142,
@@ -2020,7 +2020,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Pirámide Mazatepetl",
-                  "text": "Pirámide Mazatepetl is an archaeological site with a pyramid in Santa Fe.",
+                  "text": "A pre-Hispanic pyramid on Mazatepetl hill.",
                   "category": "historical",
                   "coords": [
                         -99.25403,
@@ -2029,7 +2029,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Monumento a Juarez, zapata y Villa",
-                  "text": "Monumento a Juárez, Zapata y Villa is a monument to Benito Juárez, Emiliano Zapata, and Pancho Villa in Santa Fe.",
+                  "text": "A bronze monument honoring Juárez, Zapata, and Villa.",
                   "category": "historical",
                   "coords": [
                         -99.351703,
@@ -2038,7 +2038,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Stars Fushion Salon De Baile",
-                  "text": "Stars Fushion Salon De Baile is a dance studio in Santa Fe.",
+                  "text": "A dance studio offering Latin and ballroom dance classes.",
                   "category": "cultural",
                   "coords": [
                         -99.254767,
@@ -2047,7 +2047,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Music Factory",
-                  "text": "Music Factory is a music school in Santa Fe.",
+                  "text": "A live music venue with rehearsal spaces and concerts.",
                   "category": "cultural",
                   "coords": [
                         -99.239099,
@@ -2056,7 +2056,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Encore Music Laboratory",
-                  "text": "Encore Music Laboratory is a music lab in Santa Fe.",
+                  "text": "A recording studio and music production lab.",
                   "category": "cultural",
                   "coords": [
                         -99.221483,
@@ -2065,7 +2065,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Fundacion Cadavieco",
-                  "text": "Fundacion Cadavieco is an arts foundation in Santa Fe.",
+                  "text": "A cultural foundation hosting art exhibitions.",
                   "category": "cultural",
                   "coords": [
                         -99.233917,
@@ -2074,7 +2074,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Centro de artes del moviento Butoyolotl",
-                  "text": "Centro de artes del moviento Butoyolotl is a movement arts center in Santa Fe.",
+                  "text": "A movement arts center for the Butoyolotl dance ensemble.",
                   "category": "cultural",
                   "coords": [
                         -99.227085,
@@ -2083,7 +2083,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Jazzercize Gimnasio",
-                  "text": "Jazzercize Gimnasio is a fitness gym in Santa Fe.",
+                  "text": "A gym specializing in Jazzercise classes.",
                   "category": "cultural",
                   "coords": [
                         -99.231563,
@@ -2092,7 +2092,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Zen Martial Arts",
-                  "text": "Zen Martial Arts is a martial arts school in Santa Fe.",
+                  "text": "A martial arts school teaching Zen-based techniques.",
                   "category": "cultural",
                   "coords": [
                         -99.231447,
@@ -2101,7 +2101,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Escuela De Canto Evocal Studio",
-                  "text": "Escuela De Canto Evocal Studio is a singing school in Santa Fe.",
+                  "text": "A singing studio offering professional vocal training.",
                   "category": "cultural",
                   "coords": [
                         -99.242589,
@@ -2110,7 +2110,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Academia De Musica El Metronomo",
-                  "text": "Academia De Musica El Metronomo is a music academy in Santa Fe.",
+                  "text": "A music academy named after the metronome, offering diverse instrument courses.",
                   "category": "cultural",
                   "coords": [
                         -99.243604,
@@ -2119,7 +2119,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Centro De Asistencia Social Infantil Lomas Quebradas",
-                  "text": "Centro De Asistencia Social Infantil Lomas Quebradas is a social center for children in Santa Fe.",
+                  "text": "A social center offering childcare and activities for children.",
                   "category": "cultural",
                   "coords": [
                         -99.239271,
@@ -2128,7 +2128,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Mi Centro Talleres Y Cursos",
-                  "text": "Mi Centro Talleres Y Cursos is a center for workshops and courses in Santa Fe.",
+                  "text": "A community center offering various workshops and courses.",
                   "category": "cultural",
                   "coords": [
                         -99.237033,
@@ -2137,7 +2137,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Magic Fiesta",
-                  "text": "Magic Fiesta is an event venue for parties in Santa Fe.",
+                  "text": "An event venue for parties and celebrations.",
                   "category": "cultural",
                   "coords": [
                         -99.243695,
@@ -2146,7 +2146,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Actividad Dance",
-                  "text": "Actividad Dance is a dance activity center in Santa Fe.",
+                  "text": "A dance school offering instruction in various styles.",
                   "category": "cultural",
                   "coords": [
                         -99.261523,
@@ -2155,7 +2155,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Academia De Baile Taef",
-                  "text": "Academia De Baile Taef is a dance arts centre in Mexico City.",
+                  "text": "A dance academy focusing on Latin rhythms.",
                   "category": "cultural",
                   "coords": [
                         -99.271612,
@@ -2200,7 +2200,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Danceology",
-                  "text": "Danceology is a dance arts centre in Mexico City.",
+                  "text": "A modern dance studio with contemporary approaches.",
                   "category": "cultural",
                   "coords": [
                         -99.275279,
@@ -2209,7 +2209,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Zona Danza",
-                  "text": "Zona Danza is a dance zone arts centre in Mexico City.",
+                  "text": "A dance studio for various genres from ballet to hip-hop.",
                   "category": "cultural",
                   "coords": [
                         -99.290842,
@@ -2218,7 +2218,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Escuela De Musica Sound City",
-                  "text": "Escuela De Musica Sound City is a Sound City music school arts centre in Mexico City.",
+                  "text": "A music school named Sound City offering instrumental and vocal lessons.",
                   "category": "cultural",
                   "coords": [
                         -99.290438,
@@ -2329,7 +2329,7 @@ export const mexicoEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Club de Playa El Caracol",
-                  "text": "Club de Playa El Caracol ist ein Strandresort im Gebiet Dos Bocas.",
+                  "text": "Ein Strandclub mit Swimmingpools und Liegestühlen an der Küste.",
                   "category": "recreational",
                   "coords": [
                         -93.230134,
@@ -2338,7 +2338,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Playa Varadero",
-                  "text": "Playa Varadero ist ein Strand im Gebiet Dos Bocas.",
+                  "text": "Ein Sandstrand am Golf von Mexiko mit ruhigem Wasser.",
                   "category": "recreational",
                   "coords": [
                         -93.220512,
@@ -2349,7 +2349,7 @@ export const mexicoEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Club de Playa El Caracol",
-                  "text": "A Club de Playa El Caracol egy tengerparti üdülőhely a Dos Bocas térségében.",
+                  "text": "Egy strandklub úszómedencékkel és napozóágyakkal a parton.",
                   "category": "recreational",
                   "coords": [
                         -93.230134,
@@ -2358,7 +2358,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Playa Varadero",
-                  "text": "A Playa Varadero egy strand a Dos Bocas térségében.",
+                  "text": "Egy homokos strand a Mexikói-öböl mentén, nyugodt vízzel.",
                   "category": "recreational",
                   "coords": [
                         -93.220512,
@@ -2369,7 +2369,7 @@ export const mexicoEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Club de Playa El Caracol",
-                  "text": "Club de Playa El Caracol este un resort de plajă în zona Dos Bocas.",
+                  "text": "Un club de plajă cu piscine și șezlonguri pe coastă.",
                   "category": "recreational",
                   "coords": [
                         -93.230134,
@@ -2378,7 +2378,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Playa Varadero",
-                  "text": "Playa Varadero este o plajă în zona Dos Bocas.",
+                  "text": "O plajă cu nisip pe malul Golfului Mexic, cu apă liniștită.",
                   "category": "recreational",
                   "coords": [
                         -93.220512,
@@ -2389,7 +2389,7 @@ export const mexicoEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Club de Playa El Caracol",
-                  "text": "Club de Playa El Caracol is a beach resort in the Dos Bocas area.",
+                  "text": "A beach club with swimming pools and loungers on the coast.",
                   "category": "recreational",
                   "coords": [
                         -93.230134,
@@ -2398,7 +2398,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Playa Varadero",
-                  "text": "Playa Varadero is a beach in the Dos Bocas area.",
+                  "text": "A sandy beach along the Gulf of Mexico with calm waters.",
                   "category": "recreational",
                   "coords": [
                         -93.220512,
@@ -2518,7 +2518,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Jose Mataix",
-                  "text": "Jose Mataix ist eine Galerie in Mexiko-Stadt.",
+                  "text": "Ein Museum, das die Werke des Künstlers José Mataix ausstellt.",
                   "category": "museum",
                   "coords": [
                         -99.153184,
@@ -2527,7 +2527,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "El Conejo de la Luna",
-                  "text": "El Conejo de la Luna ist eine Galerie in Mexiko-Stadt.",
+                  "text": "Ein skurriles Museum mit Skulpturen und Kunstwerken rund um den Mondhasen.",
                   "category": "museum",
                   "coords": [
                         -99.154601,
@@ -2536,7 +2536,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Galeria Aguafuerte",
-                  "text": "Galeria Aguafuerte ist eine Galerie in Mexiko-Stadt.",
+                  "text": "Ein Museum, benannt nach der Ätztechnik 'Aguafuerte', im Reforma-Finanzviertel.",
                   "category": "museum",
                   "coords": [
                         -99.160076,
@@ -2545,7 +2545,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "GALERIA OMR",
-                  "text": "GALERIA OMR ist ein Museum in Mexiko-Stadt.",
+                  "text": "Die Galerie OMR, ein zeitgenössischer Kunstraum im Reforma-Finanzviertel.",
                   "category": "museum",
                   "coords": [
                         -99.158482,
@@ -2554,7 +2554,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo Padre Pro",
-                  "text": "Das Museo Padre Pro ist ein Museum in Mexiko-Stadt.",
+                  "text": "Ein Museum, das dem mexikanischen Märtyrer Padre Pro gewidmet ist, im Reforma-Finanzviertel.",
                   "category": "museum",
                   "coords": [
                         -99.16097,
@@ -2563,7 +2563,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "museo experimental el eco",
-                  "text": "Das museo experimental el eco ist ein Museum in Mexiko-Stadt.",
+                  "text": "Das experimentelle Museum 'El Eco' im Reforma-Finanzviertel.",
                   "category": "museum",
                   "coords": [
                         -99.161356,
@@ -2572,7 +2572,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Casa de Moneda",
-                  "text": "Die Casa de Moneda ist ein Museum in Mexiko-Stadt.",
+                  "text": "Ein Museum im ehemaligen Münzgebäude (Casa de Moneda) im Reforma-Finanzviertel.",
                   "category": "museum",
                   "coords": [
                         -99.165589,
@@ -2581,7 +2581,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Galerias Cristobal",
-                  "text": "Galerias Cristobal ist eine Galerie in Mexiko-Stadt.",
+                  "text": "Die Galerie Cristobal im Reforma-Finanzviertel.",
                   "category": "museum",
                   "coords": [
                         -99.166283,
@@ -2590,7 +2590,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Arca México",
-                  "text": "Arca México ist eine Galerie in Mexiko-Stadt.",
+                  "text": "Das Museum 'Arca México' (Arche Mexiko) im Reforma-Finanzviertel.",
                   "category": "museum",
                   "coords": [
                         -99.165132,
@@ -2599,7 +2599,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo de Patologia",
-                  "text": "Das Museo de Patologia ist ein Museum in Mexiko-Stadt.",
+                  "text": "Ein Museum für Pathologie im Reforma-Finanzviertel.",
                   "category": "museum",
                   "coords": [
                         -99.153728,
@@ -2608,7 +2608,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Fundación Marso",
-                  "text": "Die Fundación Marso ist eine Galerie in Mexiko-Stadt.",
+                  "text": "2012 eröffnete Museumsstiftung in der Reforma Financial Zone.",
                   "category": "museum",
                   "coords": [
                         -99.156813,
@@ -2617,7 +2617,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo de Ripley",
-                  "text": "Das Museo de Ripley ist ein Museum in Mexiko-Stadt.",
+                  "text": "Am 9. Dezember 1992 eröffnetes Ripley-Museum in der Reforma Financial Zone.",
                   "category": "museum",
                   "coords": [
                         -99.156764,
@@ -2635,7 +2635,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Capilla Británica",
-                  "text": "Das Centro Cultural Capilla Británica ist ein Denkmal in Mexiko-Stadt.",
+                  "text": "Ein Kulturzentrum in einer ehemaligen britischen Kapelle im Reforma-Finanzviertel.",
                   "category": "historical",
                   "coords": [
                         -99.165482,
@@ -2644,7 +2644,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Visita de Aristedes Royo",
-                  "text": "Visita de Aristedes Royo ist ein Denkmal in Mexiko-Stadt.",
+                  "text": "Eine historische Stätte, benannt nach dem Besuch von Aristedes Royo, im Reforma-Finanzviertel.",
                   "category": "historical",
                   "coords": [
                         -99.162937,
@@ -2653,7 +2653,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Foro Lucerna",
-                  "text": "Das Foro Lucerna ist ein Theater in Mexiko-Stadt.",
+                  "text": "Das Kulturforum 'Foro Lucerna' im Reforma-Finanzviertel.",
                   "category": "cultural",
                   "coords": [
                         -99.156706,
@@ -2662,7 +2662,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Foro37",
-                  "text": "Das Foro37 ist ein Theater in Mexiko-Stadt.",
+                  "text": "Das Kulturforum 'Foro37' im Reforma-Finanzviertel.",
                   "category": "cultural",
                   "coords": [
                         -99.159406,
@@ -2671,7 +2671,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro Benito Juárez",
-                  "text": "Das Teatro Benito Juárez ist ein Theater in Mexiko-Stadt.",
+                  "text": "Das nach Benito Juárez benannte Theater im Reforma-Finanzviertel.",
                   "category": "cultural",
                   "coords": [
                         -99.160885,
@@ -2680,7 +2680,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro Venustiano Carranza",
-                  "text": "Das Teatro Venustiano Carranza ist ein Theater in Mexiko-Stadt.",
+                  "text": "Das nach Venustiano Carranza benannte Theater im Reforma-Finanzviertel.",
                   "category": "cultural",
                   "coords": [
                         -99.15842,
@@ -2689,7 +2689,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Nuevo Teatro República",
-                  "text": "Das Nuevo Teatro República ist ein Theater in Mexiko-Stadt.",
+                  "text": "Das 'Nuevo Teatro República' (Neues Republik-Theater) im Reforma-Finanzviertel.",
                   "category": "cultural",
                   "coords": [
                         -99.157216,
@@ -2698,7 +2698,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro Jorge Negrete",
-                  "text": "Das Teatro Jorge Negrete ist ein Theater in Mexiko-Stadt.",
+                  "text": "Das nach Jorge Negrete benannte Theater im Reforma-Finanzviertel.",
                   "category": "cultural",
                   "coords": [
                         -99.163377,
@@ -2707,7 +2707,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Sala Corona",
-                  "text": "Die Sala Corona ist ein Theater in Mexiko-Stadt.",
+                  "text": "Der Veranstaltungssaal 'Sala Corona' im Reforma-Finanzviertel.",
                   "category": "cultural",
                   "coords": [
                         -99.163742,
@@ -2817,7 +2817,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Jose Mataix",
-                  "text": "A Jose Mataix egy galéria Mexikóvárosban.",
+                  "text": "Egy múzeum, amely José Mataix művész alkotásait mutatja be.",
                   "category": "museum",
                   "coords": [
                         -99.153184,
@@ -2826,7 +2826,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "El Conejo de la Luna",
-                  "text": "Az El Conejo de la Luna egy galéria Mexikóvárosban.",
+                  "text": "Egy különc múzeum, amely a holdnyúl témájú szobrokat és műalkotásokat mutat be.",
                   "category": "museum",
                   "coords": [
                         -99.154601,
@@ -2835,7 +2835,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Galeria Aguafuerte",
-                  "text": "A Galeria Aguafuerte egy galéria Mexikóvárosban.",
+                  "text": "A 'Aguafuerte' rézkarctechnikáról elnevezett múzeum a Reforma pénzügyi negyedben.",
                   "category": "museum",
                   "coords": [
                         -99.160076,
@@ -2844,7 +2844,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "GALERIA OMR",
-                  "text": "A GALERIA OMR egy múzeum Mexikóvárosban.",
+                  "text": "Az OMR galéria, egy kortárs művészeti tér a Reforma pénzügyi negyedben.",
                   "category": "museum",
                   "coords": [
                         -99.158482,
@@ -2853,7 +2853,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo Padre Pro",
-                  "text": "A Museo Padre Pro egy múzeum Mexikóvárosban.",
+                  "text": "A mexikói vértanú, Padre Pro emlékének szentelt múzeum a Reforma pénzügyi negyedben.",
                   "category": "museum",
                   "coords": [
                         -99.16097,
@@ -2862,7 +2862,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "museo experimental el eco",
-                  "text": "A museo experimental el eco egy múzeum Mexikóvárosban.",
+                  "text": "Az 'El Eco' kísérleti múzeum a Reforma pénzügyi negyedben.",
                   "category": "museum",
                   "coords": [
                         -99.161356,
@@ -2871,7 +2871,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Casa de Moneda",
-                  "text": "A Casa de Moneda egy múzeum Mexikóvárosban.",
+                  "text": "Egy múzeum a korábbi pénzverdében (Casa de Moneda) a Reforma pénzügyi negyedben.",
                   "category": "museum",
                   "coords": [
                         -99.165589,
@@ -2880,7 +2880,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Galerias Cristobal",
-                  "text": "A Galerias Cristobal egy galéria Mexikóvárosban.",
+                  "text": "A Cristobal galéria a Reforma pénzügyi negyedben.",
                   "category": "museum",
                   "coords": [
                         -99.166283,
@@ -2889,7 +2889,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Arca México",
-                  "text": "Az Arca México egy galéria Mexikóvárosban.",
+                  "text": "Az 'Arca México' (Mexikói Bárka) múzeum a Reforma pénzügyi negyedben.",
                   "category": "museum",
                   "coords": [
                         -99.165132,
@@ -2898,7 +2898,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo de Patologia",
-                  "text": "A Museo de Patologia egy múzeum Mexikóvárosban.",
+                  "text": "Patológiai múzeum a Reforma pénzügyi negyedben.",
                   "category": "museum",
                   "coords": [
                         -99.153728,
@@ -2907,7 +2907,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Fundación Marso",
-                  "text": "A Fundación Marso egy galéria Mexikóvárosban.",
+                  "text": "2012-ben megnyílt múzeumi alapítvány a Reforma Financial Zone-ban.",
                   "category": "museum",
                   "coords": [
                         -99.156813,
@@ -2916,7 +2916,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo de Ripley",
-                  "text": "A Museo de Ripley egy múzeum Mexikóvárosban.",
+                  "text": "1992. december 9-én megnyílt Ripley Múzeum a Reforma Financial Zone-ban.",
                   "category": "museum",
                   "coords": [
                         -99.156764,
@@ -2934,7 +2934,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Capilla Británica",
-                  "text": "A Centro Cultural Capilla Británica egy emlékmű Mexikóvárosban.",
+                  "text": "Egy egykori brit kápolnában kialakított kulturális központ a Reforma pénzügyi negyedben.",
                   "category": "historical",
                   "coords": [
                         -99.165482,
@@ -2943,7 +2943,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Visita de Aristedes Royo",
-                  "text": "A Visita de Aristedes Royo egy emlékmű Mexikóvárosban.",
+                  "text": "Egy történelmi hely, Aristedes Royo látogatásáról elnevezve, a Reforma pénzügyi negyedben.",
                   "category": "historical",
                   "coords": [
                         -99.162937,
@@ -2952,7 +2952,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Foro Lucerna",
-                  "text": "A Foro Lucerna egy színház Mexikóvárosban.",
+                  "text": "A 'Foro Lucerna' kulturális fórum a Reforma pénzügyi negyedben.",
                   "category": "cultural",
                   "coords": [
                         -99.156706,
@@ -2961,7 +2961,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Foro37",
-                  "text": "A Foro37 egy színház Mexikóvárosban.",
+                  "text": "A 'Foro37' kulturális fórum a Reforma pénzügyi negyedben.",
                   "category": "cultural",
                   "coords": [
                         -99.159406,
@@ -2970,7 +2970,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro Benito Juárez",
-                  "text": "A Teatro Benito Juárez egy színház Mexikóvárosban.",
+                  "text": "A Benito Juárezről elnevezett színház a Reforma pénzügyi negyedben.",
                   "category": "cultural",
                   "coords": [
                         -99.160885,
@@ -2979,7 +2979,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro Venustiano Carranza",
-                  "text": "A Teatro Venustiano Carranza egy színház Mexikóvárosban.",
+                  "text": "A Venustiano Carranzaról elnevezett színház a Reforma pénzügyi negyedben.",
                   "category": "cultural",
                   "coords": [
                         -99.15842,
@@ -2988,7 +2988,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Nuevo Teatro República",
-                  "text": "A Nuevo Teatro República egy színház Mexikóvárosban.",
+                  "text": "A 'Nuevo Teatro República' (Új Köztársaság Színház) a Reforma pénzügyi negyedben.",
                   "category": "cultural",
                   "coords": [
                         -99.157216,
@@ -2997,7 +2997,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro Jorge Negrete",
-                  "text": "A Teatro Jorge Negrete egy színház Mexikóvárosban.",
+                  "text": "A Jorge Negreteről elnevezett színház a Reforma pénzügyi negyedben.",
                   "category": "cultural",
                   "coords": [
                         -99.163377,
@@ -3006,7 +3006,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Sala Corona",
-                  "text": "A Sala Corona egy színház Mexikóvárosban.",
+                  "text": "A 'Sala Corona' rendezvényterem a Reforma pénzügyi negyedben.",
                   "category": "cultural",
                   "coords": [
                         -99.163742,
@@ -3116,7 +3116,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Jose Mataix",
-                  "text": "Jose Mataix este o galerie în Mexico City.",
+                  "text": "Un muzeu care expune lucrări ale artistului José Mataix.",
                   "category": "museum",
                   "coords": [
                         -99.153184,
@@ -3125,7 +3125,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "El Conejo de la Luna",
-                  "text": "El Conejo de la Luna este o galerie în Mexico City.",
+                  "text": "Un muzeu ciudat cu sculpturi și opere de artă legate de iepurele lunii.",
                   "category": "museum",
                   "coords": [
                         -99.154601,
@@ -3134,7 +3134,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Galeria Aguafuerte",
-                  "text": "Galeria Aguafuerte este o galerie în Mexico City.",
+                  "text": "Un muzeu numit după tehnica gravurii 'Aguafuerte' în districtul financiar Reforma.",
                   "category": "museum",
                   "coords": [
                         -99.160076,
@@ -3143,7 +3143,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "GALERIA OMR",
-                  "text": "GALERIA OMR este un muzeu în Mexico City.",
+                  "text": "Galerie OMR, un spațiu de artă contemporană în districtul financiar Reforma.",
                   "category": "museum",
                   "coords": [
                         -99.158482,
@@ -3152,7 +3152,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo Padre Pro",
-                  "text": "Museo Padre Pro este un muzeu în Mexico City.",
+                  "text": "Un muzeu dedicat martirului mexican Padre Pro în districtul financiar Reforma.",
                   "category": "museum",
                   "coords": [
                         -99.16097,
@@ -3161,7 +3161,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "museo experimental el eco",
-                  "text": "museo experimental el eco este un muzeu în Mexico City.",
+                  "text": "Muzeul experimental 'El Eco' în districtul financiar Reforma.",
                   "category": "museum",
                   "coords": [
                         -99.161356,
@@ -3170,7 +3170,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Casa de Moneda",
-                  "text": "Casa de Moneda este un muzeu în Mexico City.",
+                  "text": "Un muzeu în fosta monetărie (Casa de Moneda) în districtul financiar Reforma.",
                   "category": "museum",
                   "coords": [
                         -99.165589,
@@ -3179,7 +3179,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Galerias Cristobal",
-                  "text": "Galerias Cristobal este o galerie în Mexico City.",
+                  "text": "Galeria Cristobal în districtul financiar Reforma.",
                   "category": "museum",
                   "coords": [
                         -99.166283,
@@ -3188,7 +3188,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Arca México",
-                  "text": "Arca México este o galerie în Mexico City.",
+                  "text": "Muzeul 'Arca México' (Arca Mexicului) în districtul financiar Reforma.",
                   "category": "museum",
                   "coords": [
                         -99.165132,
@@ -3197,7 +3197,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo de Patologia",
-                  "text": "Museo de Patologia este un muzeu în Mexico City.",
+                  "text": "Un muzeu de patologie în districtul financiar Reforma.",
                   "category": "museum",
                   "coords": [
                         -99.153728,
@@ -3206,7 +3206,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Fundación Marso",
-                  "text": "Fundación Marso este o galerie în Mexico City.",
+                  "text": "Fundație muzeală deschisă în 2012 în Zona Financiară Reforma.",
                   "category": "museum",
                   "coords": [
                         -99.156813,
@@ -3215,7 +3215,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo de Ripley",
-                  "text": "Museo de Ripley este un muzeu în Mexico City.",
+                  "text": "Muzeul Ripley deschis pe 9 decembrie 1992 în Zona Financiară Reforma.",
                   "category": "museum",
                   "coords": [
                         -99.156764,
@@ -3233,7 +3233,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Capilla Británica",
-                  "text": "Centro Cultural Capilla Británica este un monument în Mexico City.",
+                  "text": "Un centru cultural găzduit într-o fostă capelă britanică în districtul financiar Reforma.",
                   "category": "historical",
                   "coords": [
                         -99.165482,
@@ -3242,7 +3242,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Visita de Aristedes Royo",
-                  "text": "Visita de Aristedes Royo este un monument în Mexico City.",
+                  "text": "Un sit istoric numit după vizita lui Aristedes Royo în districtul financiar Reforma.",
                   "category": "historical",
                   "coords": [
                         -99.162937,
@@ -3251,7 +3251,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Foro Lucerna",
-                  "text": "Foro Lucerna este un teatru în Mexico City.",
+                  "text": "Forumul cultural 'Foro Lucerna' în districtul financiar Reforma.",
                   "category": "cultural",
                   "coords": [
                         -99.156706,
@@ -3260,7 +3260,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Foro37",
-                  "text": "Foro37 este un teatru în Mexico City.",
+                  "text": "Forumul cultural 'Foro37' în districtul financiar Reforma.",
                   "category": "cultural",
                   "coords": [
                         -99.159406,
@@ -3269,7 +3269,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro Benito Juárez",
-                  "text": "Teatro Benito Juárez este un teatru în Mexico City.",
+                  "text": "Teatrul numit după Benito Juárez în districtul financiar Reforma.",
                   "category": "cultural",
                   "coords": [
                         -99.160885,
@@ -3278,7 +3278,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro Venustiano Carranza",
-                  "text": "Teatro Venustiano Carranza este un teatru în Mexico City.",
+                  "text": "Teatrul numit după Venustiano Carranza în districtul financiar Reforma.",
                   "category": "cultural",
                   "coords": [
                         -99.15842,
@@ -3287,7 +3287,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Nuevo Teatro República",
-                  "text": "Nuevo Teatro República este un teatru în Mexico City.",
+                  "text": "Teatrul 'Nuevo Teatro República' (Noul Teatru al Republicii) în districtul financiar Reforma.",
                   "category": "cultural",
                   "coords": [
                         -99.157216,
@@ -3296,7 +3296,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro Jorge Negrete",
-                  "text": "Teatro Jorge Negrete este un teatru în Mexico City.",
+                  "text": "Teatrul numit după Jorge Negrete în districtul financiar Reforma.",
                   "category": "cultural",
                   "coords": [
                         -99.163377,
@@ -3305,7 +3305,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Sala Corona",
-                  "text": "Sala Corona este un teatru în Mexico City.",
+                  "text": "Sala de evenimente 'Sala Corona' în districtul financiar Reforma.",
                   "category": "cultural",
                   "coords": [
                         -99.163742,
@@ -3415,7 +3415,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Jose Mataix",
-                  "text": "Jose Mataix is a gallery in Mexico City.",
+                  "text": "A museum showcasing the works of artist José Mataix.",
                   "category": "museum",
                   "coords": [
                         -99.153184,
@@ -3424,7 +3424,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "El Conejo de la Luna",
-                  "text": "El Conejo de la Luna is a gallery in Mexico City.",
+                  "text": "A quirky museum with sculptures and artworks themed around the moon rabbit.",
                   "category": "museum",
                   "coords": [
                         -99.154601,
@@ -3433,7 +3433,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Galeria Aguafuerte",
-                  "text": "Galeria Aguafuerte is a gallery in Mexico City.",
+                  "text": "A museum named after the etching technique 'aguafuerte' in the Reforma financial zone.",
                   "category": "museum",
                   "coords": [
                         -99.160076,
@@ -3442,7 +3442,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "GALERIA OMR",
-                  "text": "GALERIA OMR is a museum in Mexico City.",
+                  "text": "GALERIA OMR, a contemporary art space in the Reforma financial zone.",
                   "category": "museum",
                   "coords": [
                         -99.158482,
@@ -3451,7 +3451,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo Padre Pro",
-                  "text": "Museo Padre Pro is a museum in Mexico City.",
+                  "text": "A museum dedicated to the Mexican martyr Padre Pro in the Reforma financial zone.",
                   "category": "museum",
                   "coords": [
                         -99.16097,
@@ -3460,7 +3460,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "museo experimental el eco",
-                  "text": "museo experimental el eco is a museum in Mexico City.",
+                  "text": "The experimental museum 'El Eco' in the Reforma financial zone.",
                   "category": "museum",
                   "coords": [
                         -99.161356,
@@ -3469,7 +3469,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Casa de Moneda",
-                  "text": "Casa de Moneda is a museum in Mexico City.",
+                  "text": "A museum in the former mint building (Casa de Moneda) in the Reforma financial zone.",
                   "category": "museum",
                   "coords": [
                         -99.165589,
@@ -3478,7 +3478,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Galerias Cristobal",
-                  "text": "Galerias Cristobal is a gallery in Mexico City.",
+                  "text": "Galerias Cristobal, a gallery in the Reforma financial zone.",
                   "category": "museum",
                   "coords": [
                         -99.166283,
@@ -3487,7 +3487,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Arca México",
-                  "text": "Arca México is a gallery in Mexico City.",
+                  "text": "The museum 'Arca México' (Ark Mexico) in the Reforma financial zone.",
                   "category": "museum",
                   "coords": [
                         -99.165132,
@@ -3496,7 +3496,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo de Patologia",
-                  "text": "Museo de Patologia is a museum in Mexico City.",
+                  "text": "A museum of pathology in the Reforma financial zone.",
                   "category": "museum",
                   "coords": [
                         -99.153728,
@@ -3505,7 +3505,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Fundación Marso",
-                  "text": "Fundación Marso is a gallery in Mexico City.",
+                  "text": "Museum foundation opened in 2012 in the Reforma Financial Zone.",
                   "category": "museum",
                   "coords": [
                         -99.156813,
@@ -3514,7 +3514,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo de Ripley",
-                  "text": "Museo de Ripley is a museum in Mexico City.",
+                  "text": "Ripley's museum opened on 9 December 1992 in the Reforma Financial Zone.",
                   "category": "museum",
                   "coords": [
                         -99.156764,
@@ -3532,7 +3532,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Capilla Británica",
-                  "text": "Centro Cultural Capilla Británica is a monument in Mexico City.",
+                  "text": "A cultural center housed in a former British chapel in the Reforma financial zone.",
                   "category": "historical",
                   "coords": [
                         -99.165482,
@@ -3541,7 +3541,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Visita de Aristedes Royo",
-                  "text": "Visita de Aristedes Royo is a monument in Mexico City.",
+                  "text": "A historical site named after the visit of Aristedes Royo in the Reforma financial zone.",
                   "category": "historical",
                   "coords": [
                         -99.162937,
@@ -3550,7 +3550,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Foro Lucerna",
-                  "text": "Foro Lucerna is a theatre in Mexico City.",
+                  "text": "The cultural forum 'Foro Lucerna' in the Reforma financial zone.",
                   "category": "cultural",
                   "coords": [
                         -99.156706,
@@ -3559,7 +3559,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Foro37",
-                  "text": "Foro37 is a theatre in Mexico City.",
+                  "text": "The cultural forum 'Foro37' in the Reforma financial zone.",
                   "category": "cultural",
                   "coords": [
                         -99.159406,
@@ -3568,7 +3568,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro Benito Juárez",
-                  "text": "Teatro Benito Juárez is a theatre in Mexico City.",
+                  "text": "A theater named after Benito Juárez in the Reforma financial zone.",
                   "category": "cultural",
                   "coords": [
                         -99.160885,
@@ -3577,7 +3577,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro Venustiano Carranza",
-                  "text": "Teatro Venustiano Carranza is a theatre in Mexico City.",
+                  "text": "A theater named after Venustiano Carranza in the Reforma financial zone.",
                   "category": "cultural",
                   "coords": [
                         -99.15842,
@@ -3586,7 +3586,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Nuevo Teatro República",
-                  "text": "Nuevo Teatro República is a theatre in Mexico City.",
+                  "text": "The 'Nuevo Teatro República' (New Republic Theater) in the Reforma financial zone.",
                   "category": "cultural",
                   "coords": [
                         -99.157216,
@@ -3595,7 +3595,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro Jorge Negrete",
-                  "text": "Teatro Jorge Negrete is a theatre in Mexico City.",
+                  "text": "A theater named after Jorge Negrete in the Reforma financial zone.",
                   "category": "cultural",
                   "coords": [
                         -99.163377,
@@ -3604,7 +3604,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Sala Corona",
-                  "text": "Sala Corona is a theatre in Mexico City.",
+                  "text": "The event hall 'Sala Corona' in the Reforma financial zone.",
                   "category": "cultural",
                   "coords": [
                         -99.163742,
@@ -3706,7 +3706,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Victoria Alada",
-                  "text": "Ein Denkmal in Silao, das den geflügelten Sieg darstellt.",
+                  "text": "Ein 'Geflügelter Sieg'-Monument im Silao-Automobilcluster.",
                   "category": "historical",
                   "coords": [
                         -101.362979,
@@ -3715,7 +3715,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo José y Tomás Chávez Morado",
-                  "text": "Ein Museum in Silao, das den Werken von José und Tomás Chávez Morado gewidmet ist.",
+                  "text": "Ein Museum, das den Künstlern José und Tomás Chávez Morado gewidmet ist, im Silao-Automobilcluster.",
                   "category": "museum",
                   "coords": [
                         -101.428566,
@@ -3724,7 +3724,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Splash",
-                  "text": "Ein Wasserpark in Silao namens Splash.",
+                  "text": "Der Wasserpark 'Splash' im Silao-Automobilcluster.",
                   "category": "recreational",
                   "coords": [
                         -101.469935,
@@ -3733,7 +3733,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Mirador del Cactus",
-                  "text": "Ein Aussichtspunkt in Silao mit Blick auf Kakteenlandschaften.",
+                  "text": "Ein Aussichtspunkt mit Kakteen ('Mirador del Cactus') im Silao-Automobilcluster.",
                   "category": "natural",
                   "coords": [
                         -101.506419,
@@ -3742,7 +3742,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "BALNEARIO LA CHIRIPA",
-                  "text": "Ein Badeort in Silao namens La Chiripa.",
+                  "text": "Das Thermalbad 'La Chiripa' im Silao-Automobilcluster.",
                   "category": "recreational",
                   "coords": [
                         -101.483287,
@@ -3751,7 +3751,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "BALNEARIO SANTA CECILIA",
-                  "text": "Ein Badeort in Silao namens Santa Cecilia.",
+                  "text": "Das Thermalbad 'Santa Cecilia' im Silao-Automobilcluster.",
                   "category": "recreational",
                   "coords": [
                         -101.499392,
@@ -3760,7 +3760,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Anfiteatro Correcaminos",
-                  "text": "Ein Amphitheater in Silao namens Correcaminos.",
+                  "text": "Das Amphitheater 'Correcaminos' (Roadrunner) im Silao-Automobilcluster.",
                   "category": "cultural",
                   "coords": [
                         -101.445715,
@@ -3769,7 +3769,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Área de Preservación Ecológica Cerro del Cubilete",
-                  "text": "Ein Naturschutzgebiet in Silao rund um den Cerro del Cubilete.",
+                  "text": "Ein ökologisches Schutzgebiet auf dem Cerro del Cubilete im Silao-Automobilcluster.",
                   "category": "natural",
                   "coords": [
                         -101.364755,
@@ -3778,7 +3778,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro Silao de la Victoria",
-                  "text": "Ein Theater in der Stadt Silao de la Victoria.",
+                  "text": "Das Theater von Silao de la Victoria im Silao-Automobilcluster.",
                   "category": "cultural",
                   "coords": [
                         -101.429527,
@@ -3798,7 +3798,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Victoria Alada",
-                  "text": "Egy emlékmű Silao városában, amely a szárnyas győzelmet ábrázolja.",
+                  "text": "Egy 'Szárnyas győzelem' emlékmű a Silao autóipari klaszterben.",
                   "category": "historical",
                   "coords": [
                         -101.362979,
@@ -3807,7 +3807,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo José y Tomás Chávez Morado",
-                  "text": "Egy múzeum Silao városában, amely José és Tomás Chávez Morado műveinek van szentelve.",
+                  "text": "A José és Tomás Chávez Morado művészeknek szentelt múzeum a Silao autóipari klaszterben.",
                   "category": "museum",
                   "coords": [
                         -101.428566,
@@ -3816,7 +3816,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Splash",
-                  "text": "Egy vízipark Silao városában, Splash néven.",
+                  "text": "A 'Splash' vízipark a Silao autóipari klaszterben.",
                   "category": "recreational",
                   "coords": [
                         -101.469935,
@@ -3825,7 +3825,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Mirador del Cactus",
-                  "text": "Egy kilátó Silao városában, kaktusztájakra nyíló kilátással.",
+                  "text": "Egy kaktuszos kilátó ('Mirador del Cactus') a Silao autóipari klaszterben.",
                   "category": "natural",
                   "coords": [
                         -101.506419,
@@ -3834,7 +3834,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "BALNEARIO LA CHIRIPA",
-                  "text": "Egy üdülőhely Silao városában, La Chiripa néven.",
+                  "text": "A 'La Chiripa' termálfürdő a Silao autóipari klaszterben.",
                   "category": "recreational",
                   "coords": [
                         -101.483287,
@@ -3843,7 +3843,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "BALNEARIO SANTA CECILIA",
-                  "text": "Egy üdülőhely Silao városában, Santa Cecilia néven.",
+                  "text": "A 'Santa Cecilia' termálfürdő a Silao autóipari klaszterben.",
                   "category": "recreational",
                   "coords": [
                         -101.499392,
@@ -3852,7 +3852,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Anfiteatro Correcaminos",
-                  "text": "Egy amfiteátrum Silao városában, Correcaminos néven.",
+                  "text": "A 'Correcaminos' (futókakukk) amfiteátrum a Silao autóipari klaszterben.",
                   "category": "cultural",
                   "coords": [
                         -101.445715,
@@ -3861,7 +3861,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Área de Preservación Ecológica Cerro del Cubilete",
-                  "text": "Egy természetvédelmi terület Silao városában, a Cerro del Cubilete körül.",
+                  "text": "Egy ökológiai védett terület a Cerro del Cubilete dombon a Silao autóipari klaszterben.",
                   "category": "natural",
                   "coords": [
                         -101.364755,
@@ -3870,7 +3870,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro Silao de la Victoria",
-                  "text": "Egy színház Silao de la Victoria városában.",
+                  "text": "A Silao de la Victoria színház a Silao autóipari klaszterben.",
                   "category": "cultural",
                   "coords": [
                         -101.429527,
@@ -3890,7 +3890,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Victoria Alada",
-                  "text": "Un monument în Silao reprezentând Victoria înaripată.",
+                  "text": "Un monument 'Victoria înaripată' în clusterul auto Silao.",
                   "category": "historical",
                   "coords": [
                         -101.362979,
@@ -3899,7 +3899,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo José y Tomás Chávez Morado",
-                  "text": "Un muzeu în Silao dedicat operelor lui José și Tomás Chávez Morado.",
+                  "text": "Un muzeu dedicat artiștilor José și Tomás Chávez Morado în clusterul auto Silao.",
                   "category": "museum",
                   "coords": [
                         -101.428566,
@@ -3908,7 +3908,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Splash",
-                  "text": "Un parc acvatic în Silao numit Splash.",
+                  "text": "Parcul acvatic 'Splash' în clusterul auto Silao.",
                   "category": "recreational",
                   "coords": [
                         -101.469935,
@@ -3917,7 +3917,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Mirador del Cactus",
-                  "text": "Un punct de belvedere în Silao cu vedere asupra peisajelor cu cactuși.",
+                  "text": "Un punct de belvedere cu cactuși ('Mirador del Cactus') în clusterul auto Silao.",
                   "category": "natural",
                   "coords": [
                         -101.506419,
@@ -3926,7 +3926,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "BALNEARIO LA CHIRIPA",
-                  "text": "O stațiune balneară în Silao numită La Chiripa.",
+                  "text": "Băile termale 'La Chiripa' în clusterul auto Silao.",
                   "category": "recreational",
                   "coords": [
                         -101.483287,
@@ -3935,7 +3935,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "BALNEARIO SANTA CECILIA",
-                  "text": "O stațiune balneară în Silao numită Santa Cecilia.",
+                  "text": "Băile termale 'Santa Cecilia' în clusterul auto Silao.",
                   "category": "recreational",
                   "coords": [
                         -101.499392,
@@ -3944,7 +3944,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Anfiteatro Correcaminos",
-                  "text": "Un amfiteatru în Silao numit Correcaminos.",
+                  "text": "Amfiteatrul 'Correcaminos' (Alergătorul) în clusterul auto Silao.",
                   "category": "cultural",
                   "coords": [
                         -101.445715,
@@ -3953,7 +3953,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Área de Preservación Ecológica Cerro del Cubilete",
-                  "text": "O rezervație naturală în Silao în jurul Cerro del Cubilete.",
+                  "text": "O arie de protecție ecologică pe dealul Cerro del Cubilete în clusterul auto Silao.",
                   "category": "natural",
                   "coords": [
                         -101.364755,
@@ -3962,7 +3962,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro Silao de la Victoria",
-                  "text": "Un teatru în orașul Silao de la Victoria.",
+                  "text": "Teatrul din Silao de la Victoria în clusterul auto Silao.",
                   "category": "cultural",
                   "coords": [
                         -101.429527,
@@ -3982,7 +3982,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Victoria Alada",
-                  "text": "A monument in Silao representing winged victory.",
+                  "text": "A 'Winged Victory' monument in the Silao automotive cluster.",
                   "category": "historical",
                   "coords": [
                         -101.362979,
@@ -3991,7 +3991,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo José y Tomás Chávez Morado",
-                  "text": "A museum in Silao dedicated to the works of José and Tomás Chávez Morado.",
+                  "text": "A museum dedicated to artists José and Tomás Chávez Morado in the Silao automotive cluster.",
                   "category": "museum",
                   "coords": [
                         -101.428566,
@@ -4000,7 +4000,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Splash",
-                  "text": "A water park in Silao called Splash.",
+                  "text": "The water park 'Splash' in the Silao automotive cluster.",
                   "category": "recreational",
                   "coords": [
                         -101.469935,
@@ -4009,7 +4009,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Mirador del Cactus",
-                  "text": "A viewpoint in Silao overlooking cactus landscapes.",
+                  "text": "A cactus viewpoint ('Mirador del Cactus') in the Silao automotive cluster.",
                   "category": "natural",
                   "coords": [
                         -101.506419,
@@ -4018,7 +4018,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "BALNEARIO LA CHIRIPA",
-                  "text": "A beach resort in Silao called La Chiripa.",
+                  "text": "The thermal spa 'La Chiripa' in the Silao automotive cluster.",
                   "category": "recreational",
                   "coords": [
                         -101.483287,
@@ -4027,7 +4027,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "BALNEARIO SANTA CECILIA",
-                  "text": "A beach resort in Silao called Santa Cecilia.",
+                  "text": "The thermal spa 'Santa Cecilia' in the Silao automotive cluster.",
                   "category": "recreational",
                   "coords": [
                         -101.499392,
@@ -4036,7 +4036,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Anfiteatro Correcaminos",
-                  "text": "An amphitheatre in Silao named Correcaminos.",
+                  "text": "The 'Correcaminos' (Roadrunner) amphitheater in the Silao automotive cluster.",
                   "category": "cultural",
                   "coords": [
                         -101.445715,
@@ -4045,7 +4045,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Área de Preservación Ecológica Cerro del Cubilete",
-                  "text": "A nature reserve in Silao around Cerro del Cubilete.",
+                  "text": "An ecological preserve on Cerro del Cubilete hill in the Silao automotive cluster.",
                   "category": "natural",
                   "coords": [
                         -101.364755,
@@ -4054,7 +4054,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro Silao de la Victoria",
-                  "text": "A theatre in the city of Silao de la Victoria.",
+                  "text": "The theater of Silao de la Victoria in the Silao automotive cluster.",
                   "category": "cultural",
                   "coords": [
                         -101.429527,
@@ -4165,7 +4165,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo de las Culturas",
-                  "text": "Das Museo de las Culturas ist ein Museum in Mexiko-Stadt, das verschiedene Kulturen präsentiert.",
+                  "text": "Ein Museum der Weltkulturen im Central-de-Abasto-Viertel von Mexiko-Stadt.",
                   "category": "museum",
                   "coords": [
                         -99.087637,
@@ -4228,7 +4228,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "La Carpa",
-                  "text": "La Carpa ist ein Denkmal in Mexiko-Stadt.",
+                  "text": "Die historische Stätte 'La Carpa' (Das Zelt) im Central-de-Abasto-Viertel.",
                   "category": "historical",
                   "coords": [
                         -99.103148,
@@ -4237,7 +4237,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Irving Alvarez",
-                  "text": "Irving Alvarez ist ein Denkmal in Mexiko-Stadt.",
+                  "text": "Die nach Irving Alvarez benannte historische Stätte im Central-de-Abasto-Viertel.",
                   "category": "historical",
                   "coords": [
                         -99.020972,
@@ -4246,7 +4246,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Arcos de colonial, entrada Ermita",
-                  "text": "Arcos de colonial, entrada Ermita sind ein Denkmal in Mexiko-Stadt.",
+                  "text": "Kolonialbögen am Eingang Ermita im Central-de-Abasto-Viertel.",
                   "category": "historical",
                   "coords": [
                         -99.057627,
@@ -4264,7 +4264,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Quiosco Casual",
-                  "text": "Quiosco Casual ist ein Denkmal in Mexiko-Stadt.",
+                  "text": "Der historische Kiosk 'Quiosco Casual' im Central-de-Abasto-Viertel.",
                   "category": "historical",
                   "coords": [
                         -99.105531,
@@ -4273,7 +4273,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro Fausto Vega",
-                  "text": "Teatro Fausto Vega ist ein Theater in Mexiko-Stadt.",
+                  "text": "Das nach Fausto Vega benannte Theater im Central-de-Abasto-Viertel.",
                   "category": "cultural",
                   "coords": [
                         -99.111137,
@@ -4282,7 +4282,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Foro del Sótano",
-                  "text": "Foro del Sótano ist ein Theater in Mexiko-Stadt.",
+                  "text": "Das Kulturforum 'Foro del Sótano' (Kellerforum) im Central-de-Abasto-Viertel.",
                   "category": "cultural",
                   "coords": [
                         -99.073473,
@@ -4291,7 +4291,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro del Fuego Nuevo",
-                  "text": "Teatro del Fuego Nuevo ist ein Theater in Mexiko-Stadt.",
+                  "text": "Das Theater 'Teatro del Fuego Nuevo' (Theater des neuen Feuers) im Central-de-Abasto-Viertel.",
                   "category": "cultural",
                   "coords": [
                         -99.072694,
@@ -4300,7 +4300,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Faro de Oriente",
-                  "text": "Faro de Oriente ist ein Theater in Mexiko-Stadt.",
+                  "text": "Das Kulturzentrum 'Faro de Oriente' (Leuchtturm des Ostens) im Central-de-Abasto-Viertel.",
                   "category": "cultural",
                   "coords": [
                         -99.06549,
@@ -4309,7 +4309,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro del parque",
-                  "text": "Teatro del parque ist ein Theater in Mexiko-Stadt.",
+                  "text": "Das Theater im Park ('Teatro del parque') im Central-de-Abasto-Viertel.",
                   "category": "cultural",
                   "coords": [
                         -99.026702,
@@ -4318,7 +4318,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Auditorio Quetzalcoatl",
-                  "text": "Auditorio Quetzalcoatl ist ein Theater in Mexiko-Stadt.",
+                  "text": "Das nach dem aztekischen Gott Quetzalcoatl benannte Auditorium im Central-de-Abasto-Viertel.",
                   "category": "cultural",
                   "coords": [
                         -99.090517,
@@ -4327,7 +4327,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Auditorio al aire libre",
-                  "text": "Auditorio al aire libre ist ein Theater in Mexiko-Stadt.",
+                  "text": "Ein Freiluft-Auditorium ('Auditorio al aire libre') im Central-de-Abasto-Viertel.",
                   "category": "cultural",
                   "coords": [
                         -99.07219,
@@ -4336,7 +4336,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Centro Cultural de las Artes",
-                  "text": "Centro Cultural de las Artes ist ein Kunstzentrum in Mexiko-Stadt.",
+                  "text": "Das Kulturzentrum der Künste ('Centro Cultural de las Artes') im Central-de-Abasto-Viertel.",
                   "category": "cultural",
                   "coords": [
                         -99.093767,
@@ -4345,7 +4345,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Auditorio \"Enrique Ruelas Espinosa\"",
-                  "text": "Auditorio \"Enrique Ruelas Espinosa\" ist ein Theater in Mexiko-Stadt.",
+                  "text": "Das nach Enrique Ruelas Espinosa benannte Auditorium im Central-de-Abasto-Viertel.",
                   "category": "cultural",
                   "coords": [
                         -99.099736,
@@ -4354,7 +4354,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Auditorio Campo II",
-                  "text": "Auditorio Campo II ist ein Theater in Mexiko-Stadt.",
+                  "text": "Ein Auditorium im riesigen Großmarkt Central de Abasto in Mexiko-Stadt.",
                   "category": "cultural",
                   "coords": [
                         -99.033179,
@@ -4363,7 +4363,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Foro al Aire Libre \"Coyolchiuhqui",
-                  "text": "Foro al Aire Libre \"Coyolchiuhqui\" ist ein Theater in Mexiko-Stadt.",
+                  "text": "Ein Open-Air-Forum, benannt nach der aztekischen Mondgöttin Coyolxauhqui, im Central de Abasto.",
                   "category": "cultural",
                   "coords": [
                         -99.043261,
@@ -4372,7 +4372,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Iztapalapa",
-                  "text": "Centro Cultural Iztapalapa ist ein Kunstzentrum in Mexiko-Stadt.",
+                  "text": "Ein Kulturzentrum für den Bezirk Iztapalapa in Mexiko-Stadt, gelegen im Central de Abasto.",
                   "category": "cultural",
                   "coords": [
                         -99.050783,
@@ -4381,7 +4381,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Ágora",
-                  "text": "Ágora ist ein Theater in Mexiko-Stadt.",
+                  "text": "Ein öffentlicher Platz für kulturelle Veranstaltungen im Central de Abasto-Markt.",
                   "category": "cultural",
                   "coords": [
                         -99.056382,
@@ -4390,7 +4390,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Lomas Estrella",
-                  "text": "Centro Cultural Lomas Estrella ist ein Kunstzentrum in Mexiko-Stadt.",
+                  "text": "Ein Kulturzentrum im Viertel Lomas Estrella, Teil des Central de Abasto-Gebiets.",
                   "category": "cultural",
                   "coords": [
                         -99.092343,
@@ -4399,7 +4399,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Letras Iztapalapa",
-                  "text": "Letras Iztapalapa ist eine Attraktion in Mexiko-Stadt.",
+                  "text": "Riesige Buchstaben-Skulpturen, die „Iztapalapa“ buchstabieren, am Central de Abasto.",
                   "category": "landmark",
                   "coords": [
                         -99.085003,
@@ -4464,7 +4464,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo de las Culturas",
-                  "text": "A Museo de las Culturas egy múzeum Mexikóvárosban, amely különböző kultúrákat mutat be.",
+                  "text": "Világkultúrák múzeuma a Central de Abasto negyedben.",
                   "category": "museum",
                   "coords": [
                         -99.087637,
@@ -4527,7 +4527,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "La Carpa",
-                  "text": "La Carpa egy emlékmű Mexikóvárosban.",
+                  "text": "A 'La Carpa' (A Sátor) történelmi hely a Central de Abasto negyedben.",
                   "category": "historical",
                   "coords": [
                         -99.103148,
@@ -4536,7 +4536,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Irving Alvarez",
-                  "text": "Irving Alvarez egy emlékmű Mexikóvárosban.",
+                  "text": "Irving Alvarezről elnevezett történelmi hely a Central de Abasto negyedben.",
                   "category": "historical",
                   "coords": [
                         -99.020972,
@@ -4545,7 +4545,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Arcos de colonial, entrada Ermita",
-                  "text": "Arcos de colonial, entrada Ermita egy emlékmű Mexikóvárosban.",
+                  "text": "Gyarmati boltívek az Ermita bejáratnál a Central de Abasto negyedben.",
                   "category": "historical",
                   "coords": [
                         -99.057627,
@@ -4563,7 +4563,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Quiosco Casual",
-                  "text": "Quiosco Casual egy emlékmű Mexikóvárosban.",
+                  "text": "A 'Quiosco Casual' történelmi kioszk a Central de Abasto negyedben.",
                   "category": "historical",
                   "coords": [
                         -99.105531,
@@ -4572,7 +4572,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro Fausto Vega",
-                  "text": "Teatro Fausto Vega egy színház Mexikóvárosban.",
+                  "text": "Fausto Vegáról elnevezett színház a Central de Abasto negyedben.",
                   "category": "cultural",
                   "coords": [
                         -99.111137,
@@ -4581,7 +4581,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Foro del Sótano",
-                  "text": "Foro del Sótano egy színház Mexikóvárosban.",
+                  "text": "A 'Foro del Sótano' (Pincefórum) kulturális fórum a Central de Abasto negyedben.",
                   "category": "cultural",
                   "coords": [
                         -99.073473,
@@ -4590,7 +4590,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro del Fuego Nuevo",
-                  "text": "Teatro del Fuego Nuevo egy színház Mexikóvárosban.",
+                  "text": "A 'Teatro del Fuego Nuevo' (Új Tűz Színháza) a Central de Abasto negyedben.",
                   "category": "cultural",
                   "coords": [
                         -99.072694,
@@ -4599,7 +4599,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Faro de Oriente",
-                  "text": "Faro de Oriente egy színház Mexikóvárosban.",
+                  "text": "A 'Faro de Oriente' (Keleti Világítótorony) kulturális központ a Central de Abasto negyedben.",
                   "category": "cultural",
                   "coords": [
                         -99.06549,
@@ -4608,7 +4608,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro del parque",
-                  "text": "Teatro del parque egy színház Mexikóvárosban.",
+                  "text": "A park színháza ('Teatro del parque') a Central de Abasto negyedben.",
                   "category": "cultural",
                   "coords": [
                         -99.026702,
@@ -4617,7 +4617,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Auditorio Quetzalcoatl",
-                  "text": "Auditorio Quetzalcoatl egy színház Mexikóvárosban.",
+                  "text": "A Quetzalcoatl azték istenről elnevezett előadóterem a Central de Abasto negyedben.",
                   "category": "cultural",
                   "coords": [
                         -99.090517,
@@ -4626,7 +4626,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Auditorio al aire libre",
-                  "text": "Auditorio al aire libre egy színház Mexikóvárosban.",
+                  "text": "Egy szabadtéri előadóterem ('Auditorio al aire libre') a Central de Abasto negyedben.",
                   "category": "cultural",
                   "coords": [
                         -99.07219,
@@ -4635,7 +4635,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Centro Cultural de las Artes",
-                  "text": "Centro Cultural de las Artes egy művészeti központ Mexikóvárosban.",
+                  "text": "A Művészetek Kulturális Központja ('Centro Cultural de las Artes') a Central de Abasto negyedben.",
                   "category": "cultural",
                   "coords": [
                         -99.093767,
@@ -4644,7 +4644,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Auditorio \"Enrique Ruelas Espinosa\"",
-                  "text": "Auditorio \"Enrique Ruelas Espinosa\" egy színház Mexikóvárosban.",
+                  "text": "Enrique Ruelas Espinosáról elnevezett előadóterem a Central de Abasto negyedben.",
                   "category": "cultural",
                   "coords": [
                         -99.099736,
@@ -4653,7 +4653,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Auditorio Campo II",
-                  "text": "Auditorio Campo II egy színház Mexikóvárosban.",
+                  "text": "Egy előadóterem a hatalmas Central de Abasto nagykereskedelmi piacon, Mexikóvárosban.",
                   "category": "cultural",
                   "coords": [
                         -99.033179,
@@ -4662,7 +4662,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Foro al Aire Libre \"Coyolchiuhqui",
-                  "text": "Foro al Aire Libre \"Coyolchiuhqui\" egy színház Mexikóvárosban.",
+                  "text": "Egy szabadtéri fórum, amely az azték holdistennőről, Coyolxauhquiról kapta a nevét, a Central de Abastoban.",
                   "category": "cultural",
                   "coords": [
                         -99.043261,
@@ -4671,7 +4671,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Iztapalapa",
-                  "text": "Centro Cultural Iztapalapa egy művészeti központ Mexikóvárosban.",
+                  "text": "Egy kulturális központ, amely Mexikóváros Iztapalapa kerületét szolgálja, a Central de Abastoban található.",
                   "category": "cultural",
                   "coords": [
                         -99.050783,
@@ -4680,7 +4680,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Ágora",
-                  "text": "Ágora egy színház Mexikóvárosban.",
+                  "text": "Nyilvános tér kulturális események számára a Central de Abasto piacon.",
                   "category": "cultural",
                   "coords": [
                         -99.056382,
@@ -4689,7 +4689,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Lomas Estrella",
-                  "text": "Centro Cultural Lomas Estrella egy művészeti központ Mexikóvárosban.",
+                  "text": "Kulturális központ a Lomas Estrella negyedben, a Central de Abasto terület része.",
                   "category": "cultural",
                   "coords": [
                         -99.092343,
@@ -4698,7 +4698,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Letras Iztapalapa",
-                  "text": "Letras Iztapalapa egy látványosság Mexikóvárosban.",
+                  "text": "Óriás betűszobrok, amelyek az „Iztapalapa” szót formálják a Central de Abastoban.",
                   "category": "landmark",
                   "coords": [
                         -99.085003,
@@ -4763,7 +4763,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo de las Culturas",
-                  "text": "Museo de las Culturas este un muzeu în Mexico City care prezintă diverse culturi.",
+                  "text": "Un muzeu al culturilor lumii în cartierul Central de Abasto din Mexico City.",
                   "category": "museum",
                   "coords": [
                         -99.087637,
@@ -4826,7 +4826,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "La Carpa",
-                  "text": "La Carpa este un monument în Mexico City.",
+                  "text": "Situl istoric 'La Carpa' (Cortul) în cartierul Central de Abasto.",
                   "category": "historical",
                   "coords": [
                         -99.103148,
@@ -4835,7 +4835,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Irving Alvarez",
-                  "text": "Irving Alvarez este un monument în Mexico City.",
+                  "text": "Situl istoric numit după Irving Alvarez în cartierul Central de Abasto.",
                   "category": "historical",
                   "coords": [
                         -99.020972,
@@ -4844,7 +4844,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Arcos de colonial, entrada Ermita",
-                  "text": "Arcos de colonial, entrada Ermita este un monument în Mexico City.",
+                  "text": "Arcuri coloniale la intrarea Ermita în cartierul Central de Abasto.",
                   "category": "historical",
                   "coords": [
                         -99.057627,
@@ -4862,7 +4862,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Quiosco Casual",
-                  "text": "Quiosco Casual este un monument în Mexico City.",
+                  "text": "Chioșcul istoric 'Quiosco Casual' în cartierul Central de Abasto.",
                   "category": "historical",
                   "coords": [
                         -99.105531,
@@ -4871,7 +4871,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro Fausto Vega",
-                  "text": "Teatro Fausto Vega este un teatru în Mexico City.",
+                  "text": "Teatrul numit după Fausto Vega în cartierul Central de Abasto.",
                   "category": "cultural",
                   "coords": [
                         -99.111137,
@@ -4880,7 +4880,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Foro del Sótano",
-                  "text": "Foro del Sótano este un teatru în Mexico City.",
+                  "text": "Forumul cultural 'Foro del Sótano' (Forumul subsolului) în cartierul Central de Abasto.",
                   "category": "cultural",
                   "coords": [
                         -99.073473,
@@ -4889,7 +4889,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro del Fuego Nuevo",
-                  "text": "Teatro del Fuego Nuevo este un teatru în Mexico City.",
+                  "text": "Teatrul 'Teatro del Fuego Nuevo' (Teatrul Focului Nou) în cartierul Central de Abasto.",
                   "category": "cultural",
                   "coords": [
                         -99.072694,
@@ -4898,7 +4898,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Faro de Oriente",
-                  "text": "Faro de Oriente este un teatru în Mexico City.",
+                  "text": "Centrul cultural 'Faro de Oriente' (Farul de Est) în cartierul Central de Abasto.",
                   "category": "cultural",
                   "coords": [
                         -99.06549,
@@ -4907,7 +4907,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro del parque",
-                  "text": "Teatro del parque este un teatru în Mexico City.",
+                  "text": "Teatrul din parc ('Teatro del parque') în cartierul Central de Abasto.",
                   "category": "cultural",
                   "coords": [
                         -99.026702,
@@ -4916,7 +4916,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Auditorio Quetzalcoatl",
-                  "text": "Auditorio Quetzalcoatl este un teatru în Mexico City.",
+                  "text": "Auditoriul numit după zeul aztec Quetzalcoatl în cartierul Central de Abasto.",
                   "category": "cultural",
                   "coords": [
                         -99.090517,
@@ -4925,7 +4925,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Auditorio al aire libre",
-                  "text": "Auditorio al aire libre este un teatru în Mexico City.",
+                  "text": "Un auditoriu în aer liber ('Auditorio al aire libre') în cartierul Central de Abasto.",
                   "category": "cultural",
                   "coords": [
                         -99.07219,
@@ -4934,7 +4934,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Centro Cultural de las Artes",
-                  "text": "Centro Cultural de las Artes este un centru de artă în Mexico City.",
+                  "text": "Centrul Cultural al Artelor ('Centro Cultural de las Artes') în cartierul Central de Abasto.",
                   "category": "cultural",
                   "coords": [
                         -99.093767,
@@ -4943,7 +4943,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Auditorio \"Enrique Ruelas Espinosa\"",
-                  "text": "Auditorio \"Enrique Ruelas Espinosa\" este un teatru în Mexico City.",
+                  "text": "Auditoriul numit după Enrique Ruelas Espinosa în cartierul Central de Abasto.",
                   "category": "cultural",
                   "coords": [
                         -99.099736,
@@ -4952,7 +4952,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Auditorio Campo II",
-                  "text": "Auditorio Campo II este un teatru în Mexico City.",
+                  "text": "Un auditoriu în cadrul vastului magazin en-gros Central de Abasto din Mexico City.",
                   "category": "cultural",
                   "coords": [
                         -99.033179,
@@ -4961,7 +4961,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Foro al Aire Libre \"Coyolchiuhqui",
-                  "text": "Foro al Aire Libre \"Coyolchiuhqui\" este un teatru în Mexico City.",
+                  "text": "Un forum în aer liber numit după zeița lunară aztecă Coyolxauhqui în Central de Abasto.",
                   "category": "cultural",
                   "coords": [
                         -99.043261,
@@ -4970,7 +4970,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Iztapalapa",
-                  "text": "Centro Cultural Iztapalapa este un centru de artă în Mexico City.",
+                  "text": "Un centru cultural care deservește districtul Iztapalapa din Mexico City, situat în Central de Abasto.",
                   "category": "cultural",
                   "coords": [
                         -99.050783,
@@ -4979,7 +4979,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Ágora",
-                  "text": "Ágora este un teatru în Mexico City.",
+                  "text": "O piață publică pentru evenimente culturale în cadrul pieței Central de Abasto.",
                   "category": "cultural",
                   "coords": [
                         -99.056382,
@@ -4988,7 +4988,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Lomas Estrella",
-                  "text": "Centro Cultural Lomas Estrella este un centru de artă în Mexico City.",
+                  "text": "Un centru cultural în cartierul Lomas Estrella, parte a zonei Central de Abasto.",
                   "category": "cultural",
                   "coords": [
                         -99.092343,
@@ -4997,7 +4997,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Letras Iztapalapa",
-                  "text": "Letras Iztapalapa este o atracție în Mexico City.",
+                  "text": "Sculpturi uriașe de litere care scriu „Iztapalapa” la Central de Abasto.",
                   "category": "landmark",
                   "coords": [
                         -99.085003,
@@ -5062,7 +5062,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo de las Culturas",
-                  "text": "Museo de las Culturas is a museum in Mexico City showcasing various cultures.",
+                  "text": "A museum of world cultures in the Central de Abasto district of Mexico City.",
                   "category": "museum",
                   "coords": [
                         -99.087637,
@@ -5125,7 +5125,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "La Carpa",
-                  "text": "La Carpa is a monument in Mexico City.",
+                  "text": "The historical site 'La Carpa' (The Tent) in the Central de Abasto district.",
                   "category": "historical",
                   "coords": [
                         -99.103148,
@@ -5134,7 +5134,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Irving Alvarez",
-                  "text": "Irving Alvarez is a monument in Mexico City.",
+                  "text": "A historical site named after Irving Alvarez in the Central de Abasto district.",
                   "category": "historical",
                   "coords": [
                         -99.020972,
@@ -5143,7 +5143,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Arcos de colonial, entrada Ermita",
-                  "text": "Arcos de colonial, entrada Ermita is a monument in Mexico City.",
+                  "text": "Colonial arches at the Ermita entrance in the Central de Abasto district.",
                   "category": "historical",
                   "coords": [
                         -99.057627,
@@ -5161,7 +5161,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Quiosco Casual",
-                  "text": "Quiosco Casual is a monument in Mexico City.",
+                  "text": "The historical kiosk 'Quiosco Casual' in the Central de Abasto district.",
                   "category": "historical",
                   "coords": [
                         -99.105531,
@@ -5170,7 +5170,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro Fausto Vega",
-                  "text": "Teatro Fausto Vega is a theatre in Mexico City.",
+                  "text": "A theater named after Fausto Vega in the Central de Abasto district.",
                   "category": "cultural",
                   "coords": [
                         -99.111137,
@@ -5179,7 +5179,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Foro del Sótano",
-                  "text": "Foro del Sótano is a theatre in Mexico City.",
+                  "text": "The cultural forum 'Foro del Sótano' (Basement Forum) in the Central de Abasto district.",
                   "category": "cultural",
                   "coords": [
                         -99.073473,
@@ -5188,7 +5188,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro del Fuego Nuevo",
-                  "text": "Teatro del Fuego Nuevo is a theatre in Mexico City.",
+                  "text": "The theater 'Teatro del Fuego Nuevo' (New Fire Theater) in the Central de Abasto district.",
                   "category": "cultural",
                   "coords": [
                         -99.072694,
@@ -5197,7 +5197,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Faro de Oriente",
-                  "text": "Faro de Oriente is a theatre in Mexico City.",
+                  "text": "The cultural venue 'Faro de Oriente' (Eastern Lighthouse) in the Central de Abasto district.",
                   "category": "cultural",
                   "coords": [
                         -99.06549,
@@ -5206,7 +5206,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro del parque",
-                  "text": "Teatro del parque is a theatre in Mexico City.",
+                  "text": "The park theater ('Teatro del parque') in the Central de Abasto district.",
                   "category": "cultural",
                   "coords": [
                         -99.026702,
@@ -5215,7 +5215,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Auditorio Quetzalcoatl",
-                  "text": "Auditorio Quetzalcoatl is a theatre in Mexico City.",
+                  "text": "An auditorium named after the Aztec god Quetzalcoatl in the Central de Abasto district.",
                   "category": "cultural",
                   "coords": [
                         -99.090517,
@@ -5224,7 +5224,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Auditorio al aire libre",
-                  "text": "Auditorio al aire libre is a theatre in Mexico City.",
+                  "text": "An open-air auditorium in the Central de Abasto district.",
                   "category": "cultural",
                   "coords": [
                         -99.07219,
@@ -5233,7 +5233,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Centro Cultural de las Artes",
-                  "text": "Centro Cultural de las Artes is an arts centre in Mexico City.",
+                  "text": "The Cultural Center of the Arts in the Central de Abasto district.",
                   "category": "cultural",
                   "coords": [
                         -99.093767,
@@ -5242,7 +5242,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Auditorio \"Enrique Ruelas Espinosa\"",
-                  "text": "Auditorio \"Enrique Ruelas Espinosa\" is a theatre in Mexico City.",
+                  "text": "An auditorium named after Enrique Ruelas Espinosa in the Central de Abasto district.",
                   "category": "cultural",
                   "coords": [
                         -99.099736,
@@ -5251,7 +5251,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Auditorio Campo II",
-                  "text": "Auditorio Campo II is a theatre in Mexico City.",
+                  "text": "An auditorium within the vast Central de Abasto wholesale market in Mexico City.",
                   "category": "cultural",
                   "coords": [
                         -99.033179,
@@ -5260,7 +5260,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Foro al Aire Libre \"Coyolchiuhqui",
-                  "text": "Foro al Aire Libre \"Coyolchiuhqui\" is a theatre in Mexico City.",
+                  "text": "An open-air forum named after the Aztec moon goddess Coyolxauhqui in Central de Abasto.",
                   "category": "cultural",
                   "coords": [
                         -99.043261,
@@ -5269,7 +5269,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Iztapalapa",
-                  "text": "Centro Cultural Iztapalapa is an arts centre in Mexico City.",
+                  "text": "A cultural center serving the Iztapalapa district of Mexico City, located in the Central de Abasto.",
                   "category": "cultural",
                   "coords": [
                         -99.050783,
@@ -5278,7 +5278,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Ágora",
-                  "text": "Ágora is a theatre in Mexico City.",
+                  "text": "A public square for cultural events within the Central de Abasto market.",
                   "category": "cultural",
                   "coords": [
                         -99.056382,
@@ -5287,7 +5287,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Lomas Estrella",
-                  "text": "Centro Cultural Lomas Estrella is an arts centre in Mexico City.",
+                  "text": "A cultural center in the Lomas Estrella neighborhood, part of the Central de Abasto area.",
                   "category": "cultural",
                   "coords": [
                         -99.092343,
@@ -5296,7 +5296,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Letras Iztapalapa",
-                  "text": "Letras Iztapalapa is an attraction in Mexico City.",
+                  "text": "Giant letter sculptures spelling 'Iztapalapa' at the Central de Abasto.",
                   "category": "landmark",
                   "coords": [
                         -99.085003,
@@ -5407,7 +5407,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Mirador de Playa Abierta",
-                  "text": "Ein Aussichtspunkt mit Blick auf den Playa Abierta in Salina Cruz.",
+                  "text": "Ein Aussichtspunkt mit Blick auf den offenen Strand am Hafen von Salina Cruz.",
                   "category": "natural",
                   "coords": [
                         -95.180257,
@@ -5425,7 +5425,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Cheche Galeria",
-                  "text": "Cheche Galeria ist ein Museum in Salina Cruz.",
+                  "text": "Eine Kunstgalerie, die lokale Werke im Hafen von Salina Cruz ausstellt.",
                   "category": "museum",
                   "coords": [
                         -95.191015,
@@ -5452,7 +5452,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Playa Brasil",
-                  "text": "Der Brasil-Strand ist ein Sandstrand in Salina Cruz.",
+                  "text": "Ein Sandstrand namens Brasil am Hafen von Salina Cruz.",
                   "category": "recreational",
                   "coords": [
                         -95.273008,
@@ -5461,7 +5461,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Las Escolleras",
-                  "text": "Las Escolleras ist ein Strand in Salina Cruz.",
+                  "text": "Ein Erholungsgebiet entlang der Wellenbrecher am Hafen von Salina Cruz.",
                   "category": "recreational",
                   "coords": [
                         -95.23559,
@@ -5470,7 +5470,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Punta Conejo",
-                  "text": "Punta Conejo ist ein Strand in Salina Cruz.",
+                  "text": "Eine Landspitze und ein Strand namens Punta Conejo (Kaninchenspitze) am Hafen von Salina Cruz.",
                   "category": "recreational",
                   "coords": [
                         -95.250938,
@@ -5490,7 +5490,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Mirador de Playa Abierta",
-                  "text": "Egy kilátó a Playa Abierta-ra nézve Salina Cruzban.",
+                  "text": "Egy kilátó, mely a nyílt strandot kínáló kilátással rendelkezik a Salina Cruz kikötőben.",
                   "category": "natural",
                   "coords": [
                         -95.180257,
@@ -5508,7 +5508,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Cheche Galeria",
-                  "text": "Cheche Galeria egy múzeum Salina Cruzban.",
+                  "text": "Művészeti galéria, amely helyi alkotásokat mutat be a Salina Cruz kikötőben.",
                   "category": "museum",
                   "coords": [
                         -95.191015,
@@ -5535,7 +5535,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Playa Brasil",
-                  "text": "A Brazil strand egy homokos part Salina Cruzban.",
+                  "text": "Egy Brasil nevű homokos strand a Salina Cruz kikötőben.",
                   "category": "recreational",
                   "coords": [
                         -95.273008,
@@ -5544,7 +5544,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Las Escolleras",
-                  "text": "Las Escolleras egy strand Salina Cruzban.",
+                  "text": "Egy rekreációs terület a hullámtörők mentén a Salina Cruz kikötőben.",
                   "category": "recreational",
                   "coords": [
                         -95.23559,
@@ -5553,7 +5553,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Punta Conejo",
-                  "text": "Punta Conejo egy strand Salina Cruzban.",
+                  "text": "Egy Punta Conejo (Nyúl-fok) néven ismert földnyelv és strand a Salina Cruz kikötőben.",
                   "category": "recreational",
                   "coords": [
                         -95.250938,
@@ -5573,7 +5573,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Mirador de Playa Abierta",
-                  "text": "Un punct de belvedere cu vedere spre Playa Abierta în Salina Cruz.",
+                  "text": "Un punct de belvedere cu vedere spre plaja deschisă din Portul Salina Cruz.",
                   "category": "natural",
                   "coords": [
                         -95.180257,
@@ -5591,7 +5591,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Cheche Galeria",
-                  "text": "Cheche Galeria este un muzeu în Salina Cruz.",
+                  "text": "O galerie de artă care expune lucrări locale în Portul Salina Cruz.",
                   "category": "museum",
                   "coords": [
                         -95.191015,
@@ -5618,7 +5618,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Playa Brasil",
-                  "text": "Plaja Brazil este o plajă nisipoasă în Salina Cruz.",
+                  "text": "O plajă nisipoasă numită Brasil în Portul Salina Cruz.",
                   "category": "recreational",
                   "coords": [
                         -95.273008,
@@ -5627,7 +5627,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Las Escolleras",
-                  "text": "Las Escolleras este o plajă în Salina Cruz.",
+                  "text": "O zonă de agrement de-a lungul digurilor de protecție din Portul Salina Cruz.",
                   "category": "recreational",
                   "coords": [
                         -95.23559,
@@ -5636,7 +5636,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Punta Conejo",
-                  "text": "Punta Conejo este o plajă în Salina Cruz.",
+                  "text": "Un promontoriu și o plajă cunoscută sub numele de Punta Conejo (Punctul Iepurelui) în Portul Salina Cruz.",
                   "category": "recreational",
                   "coords": [
                         -95.250938,
@@ -5656,7 +5656,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Mirador de Playa Abierta",
-                  "text": "A viewpoint overlooking Open Beach in Salina Cruz.",
+                  "text": "A scenic overlook offering views of the open beach at Salina Cruz Port.",
                   "category": "natural",
                   "coords": [
                         -95.180257,
@@ -5674,7 +5674,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Cheche Galeria",
-                  "text": "Cheche Galeria is a museum in Salina Cruz.",
+                  "text": "An art gallery showcasing local works in Salina Cruz Port.",
                   "category": "museum",
                   "coords": [
                         -95.191015,
@@ -5701,7 +5701,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Playa Brasil",
-                  "text": "Brazil Beach is a sandy shore in Salina Cruz.",
+                  "text": "A sandy beach named Brasil at Salina Cruz Port.",
                   "category": "recreational",
                   "coords": [
                         -95.273008,
@@ -5710,7 +5710,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Las Escolleras",
-                  "text": "Las Escolleras is a beach in Salina Cruz.",
+                  "text": "A recreational area along the breakwaters at Salina Cruz Port.",
                   "category": "recreational",
                   "coords": [
                         -95.23559,
@@ -5719,7 +5719,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Punta Conejo",
-                  "text": "Punta Conejo is a beach in Salina Cruz.",
+                  "text": "A point and beach known as Punta Conejo (Rabbit Point) at Salina Cruz Port.",
                   "category": "recreational",
                   "coords": [
                         -95.250938,
@@ -5776,7 +5776,7 @@ export const mexicoEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Ángel de la Independencia",
-                  "text": "Ein Denkmal in Guaymas.",
+                  "text": "Eine Nachbildung des ikonischen Unabhängigkeitsengel-Denkmals im Hafen von Guaymas.",
                   "category": "historical",
                   "coords": [
                         -110.803893,
@@ -5785,7 +5785,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "El Pescador",
-                  "text": "Ein Denkmal in Guaymas.",
+                  "text": "Eine Statue eines Fischers, die das Fischereierbe von Guaymas symbolisiert.",
                   "category": "historical",
                   "coords": [
                         -110.887421,
@@ -5794,7 +5794,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Plaza de los 3 Presidentes",
-                  "text": "Ein Denkmalplatz in Guaymas.",
+                  "text": "Ein Platz zu Ehren von drei mexikanischen Präsidenten im Hafen von Guaymas.",
                   "category": "historical",
                   "coords": [
                         -110.888554,
@@ -5803,7 +5803,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "La Locomotora de Vapor",
-                  "text": "Ein Dampflokomotiv-Denkmal in Guaymas.",
+                  "text": "Eine historische Dampflokomotive, die im Hafen von Guaymas ausgestellt ist.",
                   "category": "historical",
                   "coords": [
                         -110.826679,
@@ -5812,7 +5812,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "FARO CABO HARO GUAYMAS",
-                  "text": "Ein Leuchtturm in Guaymas.",
+                  "text": "Ein Leuchtturm am Cabo Haro, der Schiffe in den Hafen von Guaymas führt.",
                   "category": "landmark",
                   "coords": [
                         -110.884866,
@@ -5821,7 +5821,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Monumento a Miguel Hidalgo",
-                  "text": "Ein Denkmal für Miguel Hidalgo in Guaymas.",
+                  "text": "Ein Denkmal für Miguel Hidalgo, den Vater der mexikanischen Unabhängigkeit, im Hafen von Guaymas.",
                   "category": "historical",
                   "coords": [
                         -110.818897,
@@ -5830,7 +5830,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo Ferrocarrilero",
-                  "text": "Ein Eisenbahnmuseum in Guaymas.",
+                  "text": "Ein Museum zur Eisenbahngeschichte im Hafen von Guaymas.",
                   "category": "museum",
                   "coords": [
                         -110.815907,
@@ -5848,7 +5848,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Playa San Carlos",
-                  "text": "Ein Strand in Guaymas.",
+                  "text": "Ein beliebter Sandstrand in San Carlos nahe dem Hafen von Guaymas.",
                   "category": "recreational",
                   "coords": [
                         -110.982862,
@@ -5857,7 +5857,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Área de Sujeta a Protección Ecológica Estero El Soldado",
-                  "text": "Ein ökologisches Schutzgebiet in Guaymas.",
+                  "text": "Ein geschütztes Flussmündungs-Ökosystem namens Estero El Soldado nahe dem Hafen von Guaymas.",
                   "category": "natural",
                   "coords": [
                         -110.975814,
@@ -5866,7 +5866,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Delfinario Sonora",
-                  "text": "Ein Delfinarium in Guaymas, das Shows mit Delfinen bietet.",
+                  "text": "Ein Delfinarium mit Delfinshows im Hafen von Guaymas.",
                   "category": "recreational",
                   "coords": [
                         -110.969717,
@@ -5877,7 +5877,7 @@ export const mexicoEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Ángel de la Independencia",
-                  "text": "Egy emlékmű Guaymasban.",
+                  "text": "A függetlenségi angyal ikonikus emlékművének másolata a Guaymas kikötőben.",
                   "category": "historical",
                   "coords": [
                         -110.803893,
@@ -5886,7 +5886,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "El Pescador",
-                  "text": "Egy emlékmű Guaymasban.",
+                  "text": "Egy halász szobra, amely Guaymas halászati örökségét szimbolizálja.",
                   "category": "historical",
                   "coords": [
                         -110.887421,
@@ -5895,7 +5895,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Plaza de los 3 Presidentes",
-                  "text": "Egy emlékmű-tér Guaymasban.",
+                  "text": "Egy tér, amely három mexikói elnök előtt tiszteleg a Guaymas kikötőben.",
                   "category": "historical",
                   "coords": [
                         -110.888554,
@@ -5904,7 +5904,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "La Locomotora de Vapor",
-                  "text": "Egy gőzmozdony-emlékmű Guaymasban.",
+                  "text": "Egy történelmi gőzmozdony kiállítva a Guaymas kikötőben.",
                   "category": "historical",
                   "coords": [
                         -110.826679,
@@ -5913,7 +5913,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "FARO CABO HARO GUAYMAS",
-                  "text": "Egy világítótorony Guaymasban.",
+                  "text": "Egy világítótorony a Cabo Haro-nál, amely a hajókat a Guaymas kikötőbe irányítja.",
                   "category": "landmark",
                   "coords": [
                         -110.884866,
@@ -5922,7 +5922,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Monumento a Miguel Hidalgo",
-                  "text": "Egy emlékmű Miguel Hidalgo számára Guaymasban.",
+                  "text": "Miguel Hidalgo, a mexikói függetlenség atyjának emlékműve a Guaymas kikötőben.",
                   "category": "historical",
                   "coords": [
                         -110.818897,
@@ -5931,7 +5931,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo Ferrocarrilero",
-                  "text": "Egy vasúti múzeum Guaymasban.",
+                  "text": "A vasúttörténetnek szentelt múzeum a Guaymas kikötőben.",
                   "category": "museum",
                   "coords": [
                         -110.815907,
@@ -5949,7 +5949,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Playa San Carlos",
-                  "text": "Egy strand Guaymasban.",
+                  "text": "Egy népszerű homokos strand San Carlosban, Guaymas kikötő közelében.",
                   "category": "recreational",
                   "coords": [
                         -110.982862,
@@ -5958,7 +5958,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Área de Sujeta a Protección Ecológica Estero El Soldado",
-                  "text": "Egy ökológiai védett terület Guaymasban.",
+                  "text": "Védett torkolat-ökoszisztéma, az Estero El Soldado, Guaymas kikötő közelében.",
                   "category": "natural",
                   "coords": [
                         -110.975814,
@@ -5967,7 +5967,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Delfinario Sonora",
-                  "text": "Delfinárium Guaymasban, ahol delfinbemutatókat tartanak.",
+                  "text": "Delfinárium delfinbemutatókkal a Guaymas kikötőben.",
                   "category": "recreational",
                   "coords": [
                         -110.969717,
@@ -5978,7 +5978,7 @@ export const mexicoEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Ángel de la Independencia",
-                  "text": "Un monument în Guaymas.",
+                  "text": "O replică a emblematicului monument al Îngerului Independenței din Portul Guaymas.",
                   "category": "historical",
                   "coords": [
                         -110.803893,
@@ -5987,7 +5987,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "El Pescador",
-                  "text": "Un monument în Guaymas.",
+                  "text": "O statuie a unui pescar care simbolizează moștenirea piscicolă a Guaymasului.",
                   "category": "historical",
                   "coords": [
                         -110.887421,
@@ -5996,7 +5996,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Plaza de los 3 Presidentes",
-                  "text": "O piață monument în Guaymas.",
+                  "text": "O piață care onorează trei președinți mexicani în Portul Guaymas.",
                   "category": "historical",
                   "coords": [
                         -110.888554,
@@ -6005,7 +6005,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "La Locomotora de Vapor",
-                  "text": "Un monument al locomotivei cu abur în Guaymas.",
+                  "text": "O locomotivă cu abur istorică expusă în Portul Guaymas.",
                   "category": "historical",
                   "coords": [
                         -110.826679,
@@ -6014,7 +6014,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "FARO CABO HARO GUAYMAS",
-                  "text": "Un far în Guaymas.",
+                  "text": "Un far la Cabo Haro care ghidează navele în Portul Guaymas.",
                   "category": "landmark",
                   "coords": [
                         -110.884866,
@@ -6023,7 +6023,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Monumento a Miguel Hidalgo",
-                  "text": "Un monument dedicat lui Miguel Hidalgo în Guaymas.",
+                  "text": "Un monument dedicat lui Miguel Hidalgo, părintele independenței mexicane, în Portul Guaymas.",
                   "category": "historical",
                   "coords": [
                         -110.818897,
@@ -6032,7 +6032,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo Ferrocarrilero",
-                  "text": "Un muzeu feroviar în Guaymas.",
+                  "text": "Un muzeu dedicat istoriei căilor ferate în Portul Guaymas.",
                   "category": "museum",
                   "coords": [
                         -110.815907,
@@ -6050,7 +6050,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Playa San Carlos",
-                  "text": "O plajă în Guaymas.",
+                  "text": "O plajă nisipoasă populară în San Carlos, lângă Portul Guaymas.",
                   "category": "recreational",
                   "coords": [
                         -110.982862,
@@ -6059,7 +6059,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Área de Sujeta a Protección Ecológica Estero El Soldado",
-                  "text": "O arie de protecție ecologică în Guaymas.",
+                  "text": "Un ecosistem de estuar protejat numit Estero El Soldado lângă Portul Guaymas.",
                   "category": "natural",
                   "coords": [
                         -110.975814,
@@ -6068,7 +6068,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Delfinario Sonora",
-                  "text": "Un delfinariu din Guaymas, care oferă spectacole cu delfini.",
+                  "text": "Un delfinariu cu spectacole de delfini în Portul Guaymas.",
                   "category": "recreational",
                   "coords": [
                         -110.969717,
@@ -6079,7 +6079,7 @@ export const mexicoEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Ángel de la Independencia",
-                  "text": "A monument in Guaymas.",
+                  "text": "A replica of the iconic Angel of Independence monument in Guaymas Port.",
                   "category": "historical",
                   "coords": [
                         -110.803893,
@@ -6088,7 +6088,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "El Pescador",
-                  "text": "A monument in Guaymas.",
+                  "text": "A statue of a fisherman symbolizing Guaymas' fishing heritage.",
                   "category": "historical",
                   "coords": [
                         -110.887421,
@@ -6097,7 +6097,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Plaza de los 3 Presidentes",
-                  "text": "A monument square in Guaymas.",
+                  "text": "A plaza honoring three Mexican presidents in Guaymas Port.",
                   "category": "historical",
                   "coords": [
                         -110.888554,
@@ -6106,7 +6106,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "La Locomotora de Vapor",
-                  "text": "A steam locomotive monument in Guaymas.",
+                  "text": "A historic steam locomotive on display in Guaymas Port.",
                   "category": "historical",
                   "coords": [
                         -110.826679,
@@ -6115,7 +6115,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "FARO CABO HARO GUAYMAS",
-                  "text": "A lighthouse in Guaymas.",
+                  "text": "A lighthouse at Cabo Haro guiding ships into Guaymas Port.",
                   "category": "landmark",
                   "coords": [
                         -110.884866,
@@ -6124,7 +6124,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Monumento a Miguel Hidalgo",
-                  "text": "A monument to Miguel Hidalgo in Guaymas.",
+                  "text": "A monument to Miguel Hidalgo, father of Mexican independence, in Guaymas Port.",
                   "category": "historical",
                   "coords": [
                         -110.818897,
@@ -6133,7 +6133,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo Ferrocarrilero",
-                  "text": "A railway museum in Guaymas.",
+                  "text": "A museum dedicated to railroad history in Guaymas Port.",
                   "category": "museum",
                   "coords": [
                         -110.815907,
@@ -6151,7 +6151,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Playa San Carlos",
-                  "text": "A beach in Guaymas.",
+                  "text": "A popular sandy beach at San Carlos near Guaymas Port.",
                   "category": "recreational",
                   "coords": [
                         -110.982862,
@@ -6160,7 +6160,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Área de Sujeta a Protección Ecológica Estero El Soldado",
-                  "text": "An ecological protection area in Guaymas.",
+                  "text": "A protected estuary ecosystem known as Estero El Soldado near Guaymas Port.",
                   "category": "natural",
                   "coords": [
                         -110.975814,
@@ -6169,7 +6169,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Delfinario Sonora",
-                  "text": "A dolphinarium in Guaymas featuring dolphin shows.",
+                  "text": "A dolphinarium featuring dolphin shows in Guaymas Port.",
                   "category": "recreational",
                   "coords": [
                         -110.969717,
@@ -6226,7 +6226,7 @@ export const mexicoEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Letras Gigantes PROGRESO",
-                  "text": "Riesige Letras Gigantes PROGRESO in Progreso.",
+                  "text": "Riesige Buchstaben, die „PROGRESO“ buchstabieren, am Hafen von Progreso.",
                   "category": "landmark",
                   "coords": [
                         -89.67569,
@@ -6235,7 +6235,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Busto de Felipe Carrillo Puerto",
-                  "text": "Büste von Felipe Carrillo Puerto in Progreso.",
+                  "text": "Eine Büste des Revolutionärs Felipe Carrillo Puerto im Hafen von Progreso.",
                   "category": "historical",
                   "coords": [
                         -89.677702,
@@ -6244,7 +6244,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Estatua de Miguel Hidalgo y Costilla",
-                  "text": "Statue von Miguel Hidalgo y Costilla in Progreso.",
+                  "text": "Eine Statue von Miguel Hidalgo y Costilla im Hafen von Progreso.",
                   "category": "historical",
                   "coords": [
                         -89.662944,
@@ -6253,7 +6253,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Estatua de Juan Miguel Castro",
-                  "text": "Statue von Juan Miguel Castro in Progreso.",
+                  "text": "Eine Statue des lokalen Würdenträgers Juan Miguel Castro im Hafen von Progreso.",
                   "category": "historical",
                   "coords": [
                         -89.663542,
@@ -6262,7 +6262,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Callejón del Amor",
-                  "text": "Gasse der Liebe in Progreso.",
+                  "text": "Eine romantische Gasse im Hafen von Progreso.",
                   "category": "landmark",
                   "coords": [
                         -89.662886,
@@ -6271,7 +6271,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Faro de Progreso",
-                  "text": "Leuchtturm in Progreso.",
+                  "text": "Der Leuchtturm des Hafens von Progreso.",
                   "category": "landmark",
                   "coords": [
                         -89.663505,
@@ -6280,7 +6280,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo del Meteorito",
-                  "text": "Meteoritenmuseum in Progreso.",
+                  "text": "Ein Museum zum Chicxulub-Meteoriten-Einschlag im Hafen von Progreso.",
                   "category": "museum",
                   "coords": [
                         -89.656154,
@@ -6289,7 +6289,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "El Corchito",
-                  "text": "Aussichtspunkt in Progreso.",
+                  "text": "Ein Naturschutzgebiet mit Mangroven und Cenoten nahe dem Hafen von Progreso.",
                   "category": "natural",
                   "coords": [
                         -89.644258,
@@ -6298,7 +6298,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Sendero Jurásico Chicxulub",
-                  "text": "Jurassicher Pfad zum Chicxulub in Progreso.",
+                  "text": "Ein Wanderweg zum Thema Chicxulub-Asteroideneinschlag nahe dem Hafen von Progreso.",
                   "category": "landmark",
                   "coords": [
                         -89.603194,
@@ -6307,7 +6307,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Trincheras coloniales",
-                  "text": "Kolonialgräben in Progreso.",
+                  "text": "Koloniale Verteidigungsgräben im Hafen von Progreso.",
                   "category": "historical",
                   "coords": [
                         -89.582978,
@@ -6316,7 +6316,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "El Cerrito",
-                  "text": "Ruine El Cerrito in Progreso.",
+                  "text": "Ein historischer Hügel im Hafen von Progreso.",
                   "category": "historical",
                   "coords": [
                         -89.683765,
@@ -6325,7 +6325,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Yucalpetén",
-                  "text": "Ruine Yucalpetén in Progreso.",
+                  "text": "Ein historisches Hafenviertel im Hafen von Progreso.",
                   "category": "historical",
                   "coords": [
                         -89.722754,
@@ -6334,7 +6334,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Reserva Api",
-                  "text": "Naturschutzgebiet Api in Progreso.",
+                  "text": "Ein Naturschutzgebiet im Hafen von Progreso.",
                   "category": "natural",
                   "coords": [
                         -89.672485,
@@ -6343,7 +6343,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Las Trincheras",
-                  "text": "Die Gräben-Ruinen in Progreso.",
+                  "text": "Historische Schützengräben im Hafen von Progreso.",
                   "category": "historical",
                   "coords": [
                         -89.582007,
@@ -6363,7 +6363,7 @@ export const mexicoEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Letras Gigantes PROGRESO",
-                  "text": "Óriás PROGRESO betűk Progresóban.",
+                  "text": "Óriás betűk, amelyek a „PROGRESO” szót formálják a Progreso kikötőben.",
                   "category": "landmark",
                   "coords": [
                         -89.67569,
@@ -6372,7 +6372,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Busto de Felipe Carrillo Puerto",
-                  "text": "Felipe Carrillo Puerto mellszobra Progresóban.",
+                  "text": "Felipe Carrillo Puerto forradalmár mellszobra a Progreso kikötőben.",
                   "category": "historical",
                   "coords": [
                         -89.677702,
@@ -6381,7 +6381,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Estatua de Miguel Hidalgo y Costilla",
-                  "text": "Miguel Hidalgo y Costilla szobra Progresóban.",
+                  "text": "Miguel Hidalgo y Costilla szobra a Progreso kikötőben.",
                   "category": "historical",
                   "coords": [
                         -89.662944,
@@ -6390,7 +6390,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Estatua de Juan Miguel Castro",
-                  "text": "Juan Miguel Castro szobra Progresóban.",
+                  "text": "Juan Miguel Castro helyi személyiség szobra a Progreso kikötőben.",
                   "category": "historical",
                   "coords": [
                         -89.663542,
@@ -6399,7 +6399,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Callejón del Amor",
-                  "text": "A szerelem sikátora Progresóban.",
+                  "text": "Romantikus sikátor a Progreso kikötőben.",
                   "category": "landmark",
                   "coords": [
                         -89.662886,
@@ -6408,7 +6408,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Faro de Progreso",
-                  "text": "Világítótorony Progresóban.",
+                  "text": "A Progreso kikötő világítótornya.",
                   "category": "landmark",
                   "coords": [
                         -89.663505,
@@ -6417,7 +6417,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo del Meteorito",
-                  "text": "Meteoritmúzeum Progresóban.",
+                  "text": "A Chicxulub-meteorit becsapódásának szentelt múzeum a Progreso kikötőben.",
                   "category": "museum",
                   "coords": [
                         -89.656154,
@@ -6426,7 +6426,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "El Corchito",
-                  "text": "Kilátópont Progresóban.",
+                  "text": "Mangrove- és cenotész-rezervátum a Progreso kikötő közelében.",
                   "category": "natural",
                   "coords": [
                         -89.644258,
@@ -6435,7 +6435,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Sendero Jurásico Chicxulub",
-                  "text": "Jura-ösvény a Chicxulubhoz Progresóban.",
+                  "text": "A Chicxulub aszteroida becsapódása témájú ösvény a Progreso kikötő közelében.",
                   "category": "landmark",
                   "coords": [
                         -89.603194,
@@ -6444,7 +6444,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Trincheras coloniales",
-                  "text": "Gyarmati árkok Progresóban.",
+                  "text": "Gyarmati kori védőárkok a Progreso kikötőben.",
                   "category": "historical",
                   "coords": [
                         -89.582978,
@@ -6453,7 +6453,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "El Cerrito",
-                  "text": "El Cerrito romjai Progresóban.",
+                  "text": "Történelmi domb a Progreso kikötőben.",
                   "category": "historical",
                   "coords": [
                         -89.683765,
@@ -6462,7 +6462,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Yucalpetén",
-                  "text": "Yucalpetén romjai Progresóban.",
+                  "text": "Történelmi kikötőterület a Progreso kikötőben.",
                   "category": "historical",
                   "coords": [
                         -89.722754,
@@ -6471,7 +6471,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Reserva Api",
-                  "text": "Api természetvédelmi terület Progresóban.",
+                  "text": "Természetvédelmi terület a Progreso kikötőben.",
                   "category": "natural",
                   "coords": [
                         -89.672485,
@@ -6480,7 +6480,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Las Trincheras",
-                  "text": "Az árkok romjai Progresóban.",
+                  "text": "Történelmi árkok a Progreso kikötőben.",
                   "category": "historical",
                   "coords": [
                         -89.582007,
@@ -6500,7 +6500,7 @@ export const mexicoEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Letras Gigantes PROGRESO",
-                  "text": "Litere uriașe PROGRESO în Progreso.",
+                  "text": "Litere gigantice care scriu „PROGRESO” în Portul Progreso.",
                   "category": "landmark",
                   "coords": [
                         -89.67569,
@@ -6509,7 +6509,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Busto de Felipe Carrillo Puerto",
-                  "text": "Bustul lui Felipe Carrillo Puerto în Progreso.",
+                  "text": "Un bust al revoluționarului Felipe Carrillo Puerto în Portul Progreso.",
                   "category": "historical",
                   "coords": [
                         -89.677702,
@@ -6518,7 +6518,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Estatua de Miguel Hidalgo y Costilla",
-                  "text": "Statuia lui Miguel Hidalgo y Costilla în Progreso.",
+                  "text": "O statuie a lui Miguel Hidalgo y Costilla în Portul Progreso.",
                   "category": "historical",
                   "coords": [
                         -89.662944,
@@ -6527,7 +6527,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Estatua de Juan Miguel Castro",
-                  "text": "Statuia lui Juan Miguel Castro în Progreso.",
+                  "text": "O statuie a personalității locale Juan Miguel Castro în Portul Progreso.",
                   "category": "historical",
                   "coords": [
                         -89.663542,
@@ -6536,7 +6536,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Callejón del Amor",
-                  "text": "Aleea dragostei în Progreso.",
+                  "text": "O alee romantică în Portul Progreso.",
                   "category": "landmark",
                   "coords": [
                         -89.662886,
@@ -6545,7 +6545,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Faro de Progreso",
-                  "text": "Far în Progreso.",
+                  "text": "Farul Portului Progreso.",
                   "category": "landmark",
                   "coords": [
                         -89.663505,
@@ -6554,7 +6554,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo del Meteorito",
-                  "text": "Muzeul meteoritului în Progreso.",
+                  "text": "Un muzeu dedicat impactului meteoritului Chicxulub în Portul Progreso.",
                   "category": "museum",
                   "coords": [
                         -89.656154,
@@ -6563,7 +6563,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "El Corchito",
-                  "text": "Punct de belvedere în Progreso.",
+                  "text": "O rezervație naturală de mangrove și cenote lângă Portul Progreso.",
                   "category": "natural",
                   "coords": [
                         -89.644258,
@@ -6572,7 +6572,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Sendero Jurásico Chicxulub",
-                  "text": "Poteca jurasică Chicxulub în Progreso.",
+                  "text": "Un traseu tematic despre impactul asteroidului Chicxulub lângă Portul Progreso.",
                   "category": "landmark",
                   "coords": [
                         -89.603194,
@@ -6581,7 +6581,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Trincheras coloniales",
-                  "text": "Șanțuri coloniale în Progreso.",
+                  "text": "Șanțuri defensive din epoca colonială în Portul Progreso.",
                   "category": "historical",
                   "coords": [
                         -89.582978,
@@ -6590,7 +6590,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "El Cerrito",
-                  "text": "Ruinele El Cerrito în Progreso.",
+                  "text": "Un sit istoric pe deal în Portul Progreso.",
                   "category": "historical",
                   "coords": [
                         -89.683765,
@@ -6599,7 +6599,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Yucalpetén",
-                  "text": "Ruinele Yucalpetén în Progreso.",
+                  "text": "O zonă portuară istorică în Portul Progreso.",
                   "category": "historical",
                   "coords": [
                         -89.722754,
@@ -6608,7 +6608,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Reserva Api",
-                  "text": "Rezervația naturală Api în Progreso.",
+                  "text": "O rezervație naturală în Portul Progreso.",
                   "category": "natural",
                   "coords": [
                         -89.672485,
@@ -6617,7 +6617,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Las Trincheras",
-                  "text": "Ruinele șanțurilor în Progreso.",
+                  "text": "Șanțuri istorice în Portul Progreso.",
                   "category": "historical",
                   "coords": [
                         -89.582007,
@@ -6637,7 +6637,7 @@ export const mexicoEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Letras Gigantes PROGRESO",
-                  "text": "Giant letters spelling PROGRESO in Progreso.",
+                  "text": "Giant letters spelling 'PROGRESO' at the Progreso Port.",
                   "category": "landmark",
                   "coords": [
                         -89.67569,
@@ -6646,7 +6646,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Busto de Felipe Carrillo Puerto",
-                  "text": "Bust monument of Felipe Carrillo Puerto in Progreso.",
+                  "text": "A bust of revolutionary Felipe Carrillo Puerto in Progreso Port.",
                   "category": "historical",
                   "coords": [
                         -89.677702,
@@ -6655,7 +6655,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Estatua de Miguel Hidalgo y Costilla",
-                  "text": "Statue of Miguel Hidalgo y Costilla in Progreso.",
+                  "text": "A statue of Miguel Hidalgo y Costilla in Progreso Port.",
                   "category": "historical",
                   "coords": [
                         -89.662944,
@@ -6664,7 +6664,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Estatua de Juan Miguel Castro",
-                  "text": "Statue of Juan Miguel Castro in Progreso.",
+                  "text": "A statue of local figure Juan Miguel Castro in Progreso Port.",
                   "category": "historical",
                   "coords": [
                         -89.663542,
@@ -6673,7 +6673,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Callejón del Amor",
-                  "text": "Alley of Love in Progreso.",
+                  "text": "A romantic alleyway in Progreso Port.",
                   "category": "landmark",
                   "coords": [
                         -89.662886,
@@ -6682,7 +6682,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Faro de Progreso",
-                  "text": "Lighthouse in Progreso.",
+                  "text": "The lighthouse of Progreso Port.",
                   "category": "landmark",
                   "coords": [
                         -89.663505,
@@ -6691,7 +6691,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo del Meteorito",
-                  "text": "Meteorite museum in Progreso.",
+                  "text": "A museum dedicated to the Chicxulub meteorite impact in Progreso Port.",
                   "category": "museum",
                   "coords": [
                         -89.656154,
@@ -6700,7 +6700,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "El Corchito",
-                  "text": "Viewpoint in Progreso.",
+                  "text": "A natural reserve of mangroves and cenotes near Progreso Port.",
                   "category": "natural",
                   "coords": [
                         -89.644258,
@@ -6709,7 +6709,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Sendero Jurásico Chicxulub",
-                  "text": "Jurassic trail related to Chicxulub in Progreso.",
+                  "text": "A trail themed around the Chicxulub asteroid impact near Progreso Port.",
                   "category": "landmark",
                   "coords": [
                         -89.603194,
@@ -6718,7 +6718,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Trincheras coloniales",
-                  "text": "Colonial trenches in Progreso.",
+                  "text": "Colonial-era defensive trenches in Progreso Port.",
                   "category": "historical",
                   "coords": [
                         -89.582978,
@@ -6727,7 +6727,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "El Cerrito",
-                  "text": "Ruins called El Cerrito in Progreso.",
+                  "text": "A historical hill site in Progreso Port.",
                   "category": "historical",
                   "coords": [
                         -89.683765,
@@ -6736,7 +6736,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Yucalpetén",
-                  "text": "Ruins of Yucalpetén in Progreso.",
+                  "text": "A historical port area in Progreso Port.",
                   "category": "historical",
                   "coords": [
                         -89.722754,
@@ -6745,7 +6745,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Reserva Api",
-                  "text": "Api nature reserve in Progreso.",
+                  "text": "A nature reserve in Progreso Port.",
                   "category": "natural",
                   "coords": [
                         -89.672485,
@@ -6754,7 +6754,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Las Trincheras",
-                  "text": "The trenches ruins in Progreso.",
+                  "text": "Historical trenches in Progreso Port.",
                   "category": "historical",
                   "coords": [
                         -89.582007,
@@ -6829,7 +6829,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo de la Amistad Cuba y Mexico",
-                  "text": "Das Museo de la Amistad Cuba y Mexico ist ein Museum der Freundschaft zwischen Kuba und Mexiko in mexico-tuxpan-port-economic-v2.",
+                  "text": "Ein Museum, das die Freundschaft zwischen Kuba und Mexiko im Hafen von Tuxpan feiert.",
                   "category": "museum",
                   "coords": [
                         -97.412609,
@@ -6838,7 +6838,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Gran Patio Tuxpan",
-                  "text": "Der Gran Patio Tuxpan ist eine Attraktion in mexico-tuxpan-port-economic-v2.",
+                  "text": "Ein großer öffentlicher Platz im Hafen von Tuxpan.",
                   "category": "landmark",
                   "coords": [
                         -97.433232,
@@ -6858,7 +6858,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo de la Amistad Cuba y Mexico",
-                  "text": "A Museo de la Amistad Cuba y Mexico a Kuba és Mexikó közötti barátság múzeuma mexico-tuxpan-port-economic-v2 városban.",
+                  "text": "A Kuba és Mexikó közötti barátságot ünneplő múzeum a Tuxpan kikötőben.",
                   "category": "museum",
                   "coords": [
                         -97.412609,
@@ -6867,7 +6867,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Gran Patio Tuxpan",
-                  "text": "A Gran Patio Tuxpan egy látványosság mexico-tuxpan-port-economic-v2 városban.",
+                  "text": "Nagy nyilvános tér a Tuxpan kikötőben.",
                   "category": "landmark",
                   "coords": [
                         -97.433232,
@@ -6887,7 +6887,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo de la Amistad Cuba y Mexico",
-                  "text": "Museo de la Amistad Cuba y Mexico este un muzeu al prieteniei dintre Cuba și Mexic în mexico-tuxpan-port-economic-v2.",
+                  "text": "Un muzeu care celebrează prietenia dintre Cuba și Mexic în Portul Tuxpan.",
                   "category": "museum",
                   "coords": [
                         -97.412609,
@@ -6896,7 +6896,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Gran Patio Tuxpan",
-                  "text": "Gran Patio Tuxpan este o atracție în mexico-tuxpan-port-economic-v2.",
+                  "text": "O piață publică mare în Portul Tuxpan.",
                   "category": "landmark",
                   "coords": [
                         -97.433232,
@@ -6916,7 +6916,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo de la Amistad Cuba y Mexico",
-                  "text": "Museo de la Amistad Cuba y Mexico is a museum of friendship between Cuba and Mexico in mexico-tuxpan-port-economic-v2.",
+                  "text": "A museum celebrating the friendship between Cuba and Mexico in Tuxpan Port.",
                   "category": "museum",
                   "coords": [
                         -97.412609,
@@ -6925,7 +6925,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Gran Patio Tuxpan",
-                  "text": "Gran Patio Tuxpan is an attraction in mexico-tuxpan-port-economic-v2.",
+                  "text": "A large public plaza in Tuxpan Port.",
                   "category": "landmark",
                   "coords": [
                         -97.433232,
@@ -6982,7 +6982,7 @@ export const mexicoEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Rotonda Domino Cumbres",
-                  "text": "Die Rotonda Domino Cumbres ist ein Monument (Kreisverkehr) in mexico-santa-catarina-industrial-economic-v2.",
+                  "text": "Ein Rotunden-Denkmal im Industriegebiet Santa Catarina.",
                   "category": "historical",
                   "coords": [
                         -100.459884,
@@ -6991,7 +6991,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "El Blanqueo",
-                  "text": "El Blanqueo ist ein Museum in mexico-santa-catarina-industrial-economic-v2.",
+                  "text": "Ein Museum im Industriegebiet Santa Catarina.",
                   "category": "museum",
                   "coords": [
                         -100.441143,
@@ -7000,7 +7000,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Petroglifos",
-                  "text": "Petroglifos ist eine archäologische Stätte mit Petroglyphen in mexico-santa-catarina-industrial-economic-v2.",
+                  "text": "Alte Petroglyphen im Industriegebiet Santa Catarina.",
                   "category": "historical",
                   "coords": [
                         -100.507405,
@@ -7009,7 +7009,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Castillo de Santa Catarina",
-                  "text": "Das Castillo de Santa Catarina ist ein Schloss in mexico-santa-catarina-industrial-economic-v2.",
+                  "text": "Eine steinerne Burg im Industriegebiet von Santa Catarina.",
                   "category": "castle",
                   "coords": [
                         -100.469346,
@@ -7018,7 +7018,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Rotonda de las Mariposas🦋",
-                  "text": "Die Rotonda de las Mariposas ist eine Attraktion (Schmetterlingskreisel) in mexico-santa-catarina-industrial-economic-v2.",
+                  "text": "Eine mit Schmetterlingsstatuen geschmückte Rotunde in Santa Catarina Industrial.",
                   "category": "landmark",
                   "coords": [
                         -100.463898,
@@ -7027,7 +7027,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Reserva Natural Estatal Sierra Las Mitras",
-                  "text": "Die Reserva Natural Estatal Sierra Las Mitras ist ein Naturschutzgebiet in mexico-santa-catarina-industrial-economic-v2.",
+                  "text": "Ein staatliches Naturschutzgebiet in der Sierra Las Mitras Bergkette bei Santa Catarina.",
                   "category": "natural",
                   "coords": [
                         -100.432343,
@@ -7036,7 +7036,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro de la Ciudad - Santa Catarina",
-                  "text": "Das Teatro de la Ciudad - Santa Catarina ist ein Theater in mexico-santa-catarina-industrial-economic-v2.",
+                  "text": "Das städtische Haupttheater von Santa Catarina.",
                   "category": "cultural",
                   "coords": [
                         -100.424937,
@@ -7045,7 +7045,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "La Puerta de Monterrey",
-                  "text": "La Puerta de Monterrey ist eine Attraktion (das Tor von Monterrey) in mexico-santa-catarina-industrial-economic-v2.",
+                  "text": "Ein monumentales Tor, das den Eingang nach Monterrey in Santa Catarina Industrial markiert.",
                   "category": "landmark",
                   "coords": [
                         -100.488109,
@@ -7054,7 +7054,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Quinta",
-                  "text": "Ein Strandresort in Santa Catarina.",
+                  "text": "Ein Freizeitanwesen mit Gärten in Santa Catarina Industrial.",
                   "category": "recreational",
                   "coords": [
                         -100.464608,
@@ -7065,7 +7065,7 @@ export const mexicoEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Rotonda Domino Cumbres",
-                  "text": "A Rotonda Domino Cumbres egy emlékmű (körforgalom) mexico-santa-catarina-industrial-economic-v2 városban.",
+                  "text": "Egy rotunda emlékmű a Santa Catarina Ipari területen.",
                   "category": "historical",
                   "coords": [
                         -100.459884,
@@ -7074,7 +7074,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "El Blanqueo",
-                  "text": "Az El Blanqueo egy múzeum mexico-santa-catarina-industrial-economic-v2 városban.",
+                  "text": "Egy múzeum a Santa Catarina Ipari területen.",
                   "category": "museum",
                   "coords": [
                         -100.441143,
@@ -7083,7 +7083,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Petroglifos",
-                  "text": "A Petroglifos egy régészeti lelőhely petroglifákkal mexico-santa-catarina-industrial-economic-v2 városban.",
+                  "text": "Ősi sziklarajzok a Santa Catarina Ipari területen.",
                   "category": "historical",
                   "coords": [
                         -100.507405,
@@ -7092,7 +7092,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Castillo de Santa Catarina",
-                  "text": "A Castillo de Santa Catarina egy kastély mexico-santa-catarina-industrial-economic-v2 városban.",
+                  "text": "Egy kővár Santa Catarina ipari negyedében.",
                   "category": "castle",
                   "coords": [
                         -100.469346,
@@ -7101,7 +7101,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Rotonda de las Mariposas🦋",
-                  "text": "A Rotonda de las Mariposas egy látványosság (pillangó körforgalom) mexico-santa-catarina-industrial-economic-v2 városban.",
+                  "text": "Lepkészobrokkal díszített rotunda Santa Catarina Industrialban.",
                   "category": "landmark",
                   "coords": [
                         -100.463898,
@@ -7110,7 +7110,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Reserva Natural Estatal Sierra Las Mitras",
-                  "text": "A Reserva Natural Estatal Sierra Las Mitras egy természetvédelmi terület mexico-santa-catarina-industrial-economic-v2 városban.",
+                  "text": "Állami természetvédelmi terület a Sierra Las Mitras hegyvidékén, Santa Catarina közelében.",
                   "category": "natural",
                   "coords": [
                         -100.432343,
@@ -7119,7 +7119,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro de la Ciudad - Santa Catarina",
-                  "text": "A Teatro de la Ciudad - Santa Catarina egy színház mexico-santa-catarina-industrial-economic-v2 városban.",
+                  "text": "Santa Catarina fő városi színháza.",
                   "category": "cultural",
                   "coords": [
                         -100.424937,
@@ -7128,7 +7128,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "La Puerta de Monterrey",
-                  "text": "A La Puerta de Monterrey egy látványosság (Monterrey kapuja) mexico-santa-catarina-industrial-economic-v2 városban.",
+                  "text": "Egy monumentális kapu, amely Monterrey bejáratát jelzi Santa Catarina Industrialban.",
                   "category": "landmark",
                   "coords": [
                         -100.488109,
@@ -7137,7 +7137,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Quinta",
-                  "text": "Strandresort Santa Catarinában.",
+                  "text": "Egy rekreációs birtok kertekkel Santa Catarina Industrialban.",
                   "category": "recreational",
                   "coords": [
                         -100.464608,
@@ -7148,7 +7148,7 @@ export const mexicoEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Rotonda Domino Cumbres",
-                  "text": "Rotonda Domino Cumbres este un monument (sens giratoriu) în mexico-santa-catarina-industrial-economic-v2.",
+                  "text": "Un monument rotondă în zona industrială Santa Catarina.",
                   "category": "historical",
                   "coords": [
                         -100.459884,
@@ -7157,7 +7157,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "El Blanqueo",
-                  "text": "El Blanqueo este un muzeu în mexico-santa-catarina-industrial-economic-v2.",
+                  "text": "Un muzeu în zona industrială Santa Catarina.",
                   "category": "museum",
                   "coords": [
                         -100.441143,
@@ -7166,7 +7166,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Petroglifos",
-                  "text": "Petroglifos este un sit arheologic cu petroglife în mexico-santa-catarina-industrial-economic-v2.",
+                  "text": "Petroglife antice în zona industrială Santa Catarina.",
                   "category": "historical",
                   "coords": [
                         -100.507405,
@@ -7175,7 +7175,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Castillo de Santa Catarina",
-                  "text": "Castillo de Santa Catarina este un castel în mexico-santa-catarina-industrial-economic-v2.",
+                  "text": "Un castel de piatră situat în cartierul industrial din Santa Catarina.",
                   "category": "castle",
                   "coords": [
                         -100.469346,
@@ -7184,7 +7184,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Rotonda de las Mariposas🦋",
-                  "text": "Rotonda de las Mariposas este o atracție (sens giratoriu cu fluturi) în mexico-santa-catarina-industrial-economic-v2.",
+                  "text": "O rotondă împodobită cu statui de fluturi în Santa Catarina Industrial.",
                   "category": "landmark",
                   "coords": [
                         -100.463898,
@@ -7193,7 +7193,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Reserva Natural Estatal Sierra Las Mitras",
-                  "text": "Reserva Natural Estatal Sierra Las Mitras este o rezervație naturală în mexico-santa-catarina-industrial-economic-v2.",
+                  "text": "O rezervație naturală de stat în lanțul muntos Sierra Las Mitras lângă Santa Catarina.",
                   "category": "natural",
                   "coords": [
                         -100.432343,
@@ -7202,7 +7202,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro de la Ciudad - Santa Catarina",
-                  "text": "Teatro de la Ciudad - Santa Catarina este un teatru în mexico-santa-catarina-industrial-economic-v2.",
+                  "text": "Teatrul municipal principal din Santa Catarina.",
                   "category": "cultural",
                   "coords": [
                         -100.424937,
@@ -7211,7 +7211,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "La Puerta de Monterrey",
-                  "text": "La Puerta de Monterrey este o atracție (Poarta Monterrey) în mexico-santa-catarina-industrial-economic-v2.",
+                  "text": "O poartă monumentală care marchează intrarea în Monterrey în Santa Catarina Industrial.",
                   "category": "landmark",
                   "coords": [
                         -100.488109,
@@ -7220,7 +7220,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Quinta",
-                  "text": "Un resort de plajă în Santa Catarina.",
+                  "text": "Un domeniu de agrement cu grădini în Santa Catarina Industrial.",
                   "category": "recreational",
                   "coords": [
                         -100.464608,
@@ -7231,7 +7231,7 @@ export const mexicoEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Rotonda Domino Cumbres",
-                  "text": "Rotonda Domino Cumbres is a roundabout monument in mexico-santa-catarina-industrial-economic-v2.",
+                  "text": "A rotunda monument in the Santa Catarina Industrial area.",
                   "category": "historical",
                   "coords": [
                         -100.459884,
@@ -7240,7 +7240,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "El Blanqueo",
-                  "text": "El Blanqueo is a museum in mexico-santa-catarina-industrial-economic-v2.",
+                  "text": "A museum in Santa Catarina Industrial.",
                   "category": "museum",
                   "coords": [
                         -100.441143,
@@ -7249,7 +7249,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Petroglifos",
-                  "text": "Petroglifos is an archaeological site with petroglyphs in mexico-santa-catarina-industrial-economic-v2.",
+                  "text": "Ancient petroglyphs in Santa Catarina Industrial.",
                   "category": "historical",
                   "coords": [
                         -100.507405,
@@ -7258,7 +7258,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Castillo de Santa Catarina",
-                  "text": "Castillo de Santa Catarina is a castle in mexico-santa-catarina-industrial-economic-v2.",
+                  "text": "A stone castle situated in the industrial district of Santa Catarina.",
                   "category": "castle",
                   "coords": [
                         -100.469346,
@@ -7267,7 +7267,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Rotonda de las Mariposas🦋",
-                  "text": "Rotonda de las Mariposas is a butterfly-themed roundabout attraction in mexico-santa-catarina-industrial-economic-v2.",
+                  "text": "A rotunda adorned with butterfly statues in Santa Catarina Industrial.",
                   "category": "landmark",
                   "coords": [
                         -100.463898,
@@ -7276,7 +7276,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Reserva Natural Estatal Sierra Las Mitras",
-                  "text": "Reserva Natural Estatal Sierra Las Mitras is a state natural reserve in mexico-santa-catarina-industrial-economic-v2.",
+                  "text": "A state natural reserve in the Sierra Las Mitras mountain range near Santa Catarina.",
                   "category": "natural",
                   "coords": [
                         -100.432343,
@@ -7285,7 +7285,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro de la Ciudad - Santa Catarina",
-                  "text": "Teatro de la Ciudad - Santa Catarina is a theatre in mexico-santa-catarina-industrial-economic-v2.",
+                  "text": "The main municipal theater in Santa Catarina.",
                   "category": "cultural",
                   "coords": [
                         -100.424937,
@@ -7294,7 +7294,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "La Puerta de Monterrey",
-                  "text": "La Puerta de Monterrey is an attraction known as the Door of Monterrey in mexico-santa-catarina-industrial-economic-v2.",
+                  "text": "A monumental gateway marking the entrance to Monterrey in Santa Catarina Industrial.",
                   "category": "landmark",
                   "coords": [
                         -100.488109,
@@ -7303,7 +7303,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Quinta",
-                  "text": "A beach resort in Santa Catarina.",
+                  "text": "A recreational estate with gardens in Santa Catarina Industrial.",
                   "category": "recreational",
                   "coords": [
                         -100.464608,
@@ -7360,7 +7360,7 @@ export const mexicoEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Letras",
-                  "text": "Letras ist ein Monument (Buchstaben) in mexico-pesqueria-industrial-hub-economic-v2.",
+                  "text": "Eine Skulptur aus großen Buchstaben, die den Stadtnamen im Pesqueria Industrial Hub buchstabiert.",
                   "category": "historical",
                   "coords": [
                         -100.120227,
@@ -7378,7 +7378,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro Comunale",
-                  "text": "Das Teatro Comunale ist ein Theater in mexico-pesqueria-industrial-hub-economic-v2.",
+                  "text": "Das Gemeinschaftstheater des Pesqueria Industrial Hub.",
                   "category": "cultural",
                   "coords": [
                         -100.05801,
@@ -7389,7 +7389,7 @@ export const mexicoEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Letras",
-                  "text": "A Letras egy emlékmű (betűk) mexico-pesqueria-industrial-hub-economic-v2 városban.",
+                  "text": "Nagybetűkkel kirakott városnév-szobor a Pesqueria Industrial Hubban.",
                   "category": "historical",
                   "coords": [
                         -100.120227,
@@ -7407,7 +7407,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro Comunale",
-                  "text": "A Teatro Comunale egy színház mexico-pesqueria-industrial-hub-economic-v2 városban.",
+                  "text": "A Pesqueria Industrial Hub közösségi színháza.",
                   "category": "cultural",
                   "coords": [
                         -100.05801,
@@ -7418,7 +7418,7 @@ export const mexicoEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Letras",
-                  "text": "Letras este un monument (litere) în mexico-pesqueria-industrial-hub-economic-v2.",
+                  "text": "O sculptură cu litere mari care scriu numele orașului în Pesqueria Industrial Hub.",
                   "category": "historical",
                   "coords": [
                         -100.120227,
@@ -7436,7 +7436,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro Comunale",
-                  "text": "Teatro Comunale este un teatru în mexico-pesqueria-industrial-hub-economic-v2.",
+                  "text": "Teatrul comunitar din Pesqueria Industrial Hub.",
                   "category": "cultural",
                   "coords": [
                         -100.05801,
@@ -7447,7 +7447,7 @@ export const mexicoEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Letras",
-                  "text": "Letras is a monument of letters in mexico-pesqueria-industrial-hub-economic-v2.",
+                  "text": "A sculpture of large letters spelling the city name in Pesqueria Industrial Hub.",
                   "category": "historical",
                   "coords": [
                         -100.120227,
@@ -7465,7 +7465,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro Comunale",
-                  "text": "Teatro Comunale is a theatre in mexico-pesqueria-industrial-hub-economic-v2.",
+                  "text": "The community theater of Pesqueria Industrial Hub.",
                   "category": "cultural",
                   "coords": [
                         -100.05801,
@@ -7666,7 +7666,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo de la Moneda",
-                  "text": "Das Museo de la Moneda ist ein Münzmuseum in Torreón.",
+                  "text": "Ein numismatisches Museum in der Milchwirtschaftsregion La Laguna.",
                   "category": "museum",
                   "coords": [
                         -103.462299,
@@ -7675,7 +7675,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "La Casa del Cerro",
-                  "text": "Das Federico wolf house's ist ein Museum im ehemaligen Haus von Federico Wolf in Torreón.",
+                  "text": "Das ehemalige Wohnhaus von Federico Wolf, jetzt ein Museum in der Milchwirtschaftsregion La Laguna.",
                   "category": "museum",
                   "coords": [
                         -103.467854,
@@ -7684,7 +7684,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo Regional de La Laguna",
-                  "text": "Das Museo Regional de La Laguna ist ein Regionalmuseum in Torreón.",
+                  "text": "Ein Regionalmuseum zur Geschichte und Kultur von La Laguna in der Milchwirtschaftsregion La Laguna.",
                   "category": "museum",
                   "coords": [
                         -103.432664,
@@ -7693,7 +7693,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Antigua Jabonera",
-                  "text": "Die Antigua Jabonera ist ein Museum in einer ehemaligen Seifenfabrik in Torreón.",
+                  "text": "Eine ehemalige Seifenfabrik, umgewandelt in ein Museum in der Milchwirtschaftsregion La Laguna.",
                   "category": "museum",
                   "coords": [
                         -103.495496,
@@ -7702,7 +7702,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo de la Revolución",
-                  "text": "Das Museo de la Revolución ist ein Museum zur mexikanischen Revolution in Torreón.",
+                  "text": "Ein Museum, das der mexikanischen Revolution in der Milchwirtschaftsregion La Laguna gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         -103.436977,
@@ -7711,7 +7711,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo Arocena",
-                  "text": "Das Museo Arocena ist ein Museum in Torreón.",
+                  "text": "Das Arocena-Museum mit Kunst- und historischen Ausstellungen in der Milchwirtschaftsregion La Laguna.",
                   "category": "museum",
                   "coords": [
                         -103.461969,
@@ -7720,7 +7720,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Galería del deporte lagunero",
-                  "text": "Sportgalerie der Region La Laguna.",
+                  "text": "Eine Galerie, die der lokalen Sportgeschichte in der Milchwirtschaftsregion La Laguna gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         -103.411748,
@@ -7729,7 +7729,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo de los Metales",
-                  "text": "Museum der Metalle in der Region La Laguna.",
+                  "text": "Ein Museum über Bergbau und Metallurgie in der Milchwirtschaftsregion La Laguna.",
                   "category": "museum",
                   "coords": [
                         -103.44494,
@@ -7756,7 +7756,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo de Arte Moderno",
-                  "text": "Museum für moderne Kunst in der Region La Laguna.",
+                  "text": "Ein Museum für moderne Kunst in der Milchwirtschaftsregion La Laguna.",
                   "category": "museum",
                   "coords": [
                         -103.500809,
@@ -7774,7 +7774,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Centro de Artes \"Casa Faya\"",
-                  "text": "Kunstzentrum Casa Faya in der Region La Laguna.",
+                  "text": "1912 gegründetes Kunstzentrum in der La Laguna Dairy Region.",
                   "category": "museum",
                   "coords": [
                         -103.497791,
@@ -7792,7 +7792,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "El Acertijo Museo Interactivo Laguna Durango",
-                  "text": "Interaktives Museum in der Region La Laguna.",
+                  "text": "Ein interaktives Rätselmuseum in der Milchwirtschaftsregion La Laguna.",
                   "category": "museum",
                   "coords": [
                         -103.494281,
@@ -7801,7 +7801,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Manto de la Virgen",
-                  "text": "Ein religiöses Monument in der Region La Laguna.",
+                  "text": "Eine historische religiöse Stätte, die den Mantel der Jungfrau Maria in der Milchwirtschaftsregion La Laguna darstellt.",
                   "category": "historical",
                   "coords": [
                         -103.325602,
@@ -7810,7 +7810,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Pedro Valdez Fernández",
-                  "text": "Denkmal für Pedro Valdez Fernández in der Region La Laguna.",
+                  "text": "Ein Denkmal für Pedro Valdez Fernández in der Milchwirtschaftsregion La Laguna.",
                   "category": "historical",
                   "coords": [
                         -103.411304,
@@ -7819,7 +7819,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "La flor",
-                  "text": "Ein Blumen-Monument in der Region La Laguna.",
+                  "text": "Eine große Blumenskulptur in der Milchwirtschaftsregion La Laguna.",
                   "category": "historical",
                   "coords": [
                         -103.442212,
@@ -7828,7 +7828,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "El Torreón",
-                  "text": "Turm-Monument in der Region La Laguna.",
+                  "text": "Ein historischer Turm in der Milchwirtschaftsregion La Laguna.",
                   "category": "historical",
                   "coords": [
                         -103.468653,
@@ -7837,7 +7837,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Torre Eiffel",
-                  "text": "Nachbildung des Eiffelturms in der Region La Laguna.",
+                  "text": "Eine Nachbildung des Eiffelturms in der Milchwirtschaftsregion La Laguna.",
                   "category": "historical",
                   "coords": [
                         -103.479045,
@@ -7846,7 +7846,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Al Maestro",
-                  "text": "Denkmal zu Ehren von Lehrern in der Region La Laguna.",
+                  "text": "Ein Denkmal für Lehrer in der Milchwirtschaftsregion La Laguna.",
                   "category": "historical",
                   "coords": [
                         -103.493443,
@@ -7873,7 +7873,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Casa del Artista",
-                  "text": "Kunstzentrum in der Region La Laguna.",
+                  "text": "Ein Kulturzentrum im ehemaligen Wohnhaus eines Künstlers in der Milchwirtschaftsregion La Laguna.",
                   "category": "cultural",
                   "coords": [
                         -103.446282,
@@ -7882,7 +7882,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro Isauro Martínez",
-                  "text": "Theater in der Region La Laguna.",
+                  "text": "Das Isauro Martínez Theater, ein historischer Aufführungsort in der Milchwirtschaftsregion La Laguna.",
                   "category": "cultural",
                   "coords": [
                         -103.452254,
@@ -7909,7 +7909,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Centro de Convenciones Francisco Zarco",
-                  "text": "Kongresszentrum in der Region La Laguna.",
+                  "text": "Das Francisco Zarco Kongresszentrum in der Milchwirtschaftsregion La Laguna.",
                   "category": "cultural",
                   "coords": [
                         -103.476928,
@@ -7929,7 +7929,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo de la Moneda",
-                  "text": "A Museo de la Moneda egy érmemúzeum Torreónban.",
+                  "text": "Numizmatikai múzeum a La Laguna tejtermelő régióban.",
                   "category": "museum",
                   "coords": [
                         -103.462299,
@@ -7938,7 +7938,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "La Casa del Cerro",
-                  "text": "A Federico wolf house's egy múzeum Federico Wolf egykori házában Torreónban.",
+                  "text": "Federico Wolf egykori otthona, ma múzeum a La Laguna tejtermelő régióban.",
                   "category": "museum",
                   "coords": [
                         -103.467854,
@@ -7947,7 +7947,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo Regional de La Laguna",
-                  "text": "A Museo Regional de La Laguna egy regionális múzeum Torreónban.",
+                  "text": "Regionális múzeum, amely La Laguna történelmét és kultúráját mutatja be a La Laguna tejtermelő régióban.",
                   "category": "museum",
                   "coords": [
                         -103.432664,
@@ -7956,7 +7956,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Antigua Jabonera",
-                  "text": "Az Antigua Jabonera egy múzeum egy egykori szappangyárban Torreónban.",
+                  "text": "Egykori szappangyár, amelyet múzeummá alakítottak át a La Laguna tejtermelő régióban.",
                   "category": "museum",
                   "coords": [
                         -103.495496,
@@ -7965,7 +7965,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo de la Revolución",
-                  "text": "A Museo de la Revolución a mexikói forradalomnak szentelt múzeum Torreónban.",
+                  "text": "Mexikói forradalomnak szentelt múzeum a La Laguna tejtermelő régióban.",
                   "category": "museum",
                   "coords": [
                         -103.436977,
@@ -7974,7 +7974,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo Arocena",
-                  "text": "A Museo Arocena egy múzeum Torreónban.",
+                  "text": "Az Arocena Múzeum, amely művészeti és történelmi kiállításokat kínál a La Laguna tejtermelő régióban.",
                   "category": "museum",
                   "coords": [
                         -103.461969,
@@ -7983,7 +7983,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Galería del deporte lagunero",
-                  "text": "A La Laguna régió sportgalériája.",
+                  "text": "Helyi sporttörténetnek szentelt galéria a La Laguna tejtermelő régióban.",
                   "category": "museum",
                   "coords": [
                         -103.411748,
@@ -7992,7 +7992,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo de los Metales",
-                  "text": "Fémek Múzeuma a La Laguna régióban.",
+                  "text": "Bányászatról és kohászatról szóló múzeum a La Laguna tejtermelő régióban.",
                   "category": "museum",
                   "coords": [
                         -103.44494,
@@ -8019,7 +8019,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo de Arte Moderno",
-                  "text": "Modern Művészetek Múzeuma a La Laguna régióban.",
+                  "text": "Modern művészeti múzeum a La Laguna tejtermelő régióban.",
                   "category": "museum",
                   "coords": [
                         -103.500809,
@@ -8037,7 +8037,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Centro de Artes \"Casa Faya\"",
-                  "text": "Casa Faya Művészeti Központ a La Laguna régióban.",
+                  "text": "1912-ben alapított művészeti központ a La Laguna tejipari régióban.",
                   "category": "museum",
                   "coords": [
                         -103.497791,
@@ -8055,7 +8055,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "El Acertijo Museo Interactivo Laguna Durango",
-                  "text": "Interaktív Múzeum a La Laguna régióban.",
+                  "text": "Interaktív rejtvénymúzeum a La Laguna tejtermelő régióban.",
                   "category": "museum",
                   "coords": [
                         -103.494281,
@@ -8064,7 +8064,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Manto de la Virgen",
-                  "text": "Vallási emlékmű a La Laguna régióban.",
+                  "text": "Történelmi vallási helyszín, amely Szűz Mária palástját ábrázolja a La Laguna tejtermelő régióban.",
                   "category": "historical",
                   "coords": [
                         -103.325602,
@@ -8073,7 +8073,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Pedro Valdez Fernández",
-                  "text": "Pedro Valdez Fernández emlékműve a La Laguna régióban.",
+                  "text": "Pedro Valdez Fernández emlékműve a La Laguna tejtermelő régióban.",
                   "category": "historical",
                   "coords": [
                         -103.411304,
@@ -8082,7 +8082,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "La flor",
-                  "text": "Virág-emlékmű a La Laguna régióban.",
+                  "text": "Egy nagy virágszobor a La Laguna tejtermelő régióban.",
                   "category": "historical",
                   "coords": [
                         -103.442212,
@@ -8091,7 +8091,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "El Torreón",
-                  "text": "Torony-emlékmű a La Laguna régióban.",
+                  "text": "Egy történelmi torony a La Laguna tejtermelő régióban.",
                   "category": "historical",
                   "coords": [
                         -103.468653,
@@ -8100,7 +8100,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Torre Eiffel",
-                  "text": "Eiffel-torony másolata a La Laguna régióban.",
+                  "text": "Az Eiffel-torony másolata a La Laguna tejtermelő régióban.",
                   "category": "historical",
                   "coords": [
                         -103.479045,
@@ -8109,7 +8109,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Al Maestro",
-                  "text": "Tanárok tiszteletére állított emlékmű a La Laguna régióban.",
+                  "text": "Tanároknak szentelt emlékmű a La Laguna tejtermelő régióban.",
                   "category": "historical",
                   "coords": [
                         -103.493443,
@@ -8136,7 +8136,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Casa del Artista",
-                  "text": "Művészeti Központ a La Laguna régióban.",
+                  "text": "Kulturális központ egy művész egykori otthonában a La Laguna tejtermelő régióban.",
                   "category": "cultural",
                   "coords": [
                         -103.446282,
@@ -8145,7 +8145,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro Isauro Martínez",
-                  "text": "Színház a La Laguna régióban.",
+                  "text": "Isauro Martínez Színház, egy történelmi előadóhely a La Laguna tejtermelő régióban.",
                   "category": "cultural",
                   "coords": [
                         -103.452254,
@@ -8172,7 +8172,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Centro de Convenciones Francisco Zarco",
-                  "text": "Konferencia-központ a La Laguna régióban.",
+                  "text": "Francisco Zarco Kongresszusi Központ a La Laguna tejtermelő régióban.",
                   "category": "cultural",
                   "coords": [
                         -103.476928,
@@ -8192,7 +8192,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo de la Moneda",
-                  "text": "Museo de la Moneda este un muzeu al monedelor în Torreón.",
+                  "text": "Un muzeu numismatic în regiunea lactată La Laguna.",
                   "category": "museum",
                   "coords": [
                         -103.462299,
@@ -8201,7 +8201,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "La Casa del Cerro",
-                  "text": "Federico wolf house's este un muzeu în fosta casă a lui Federico Wolf din Torreón.",
+                  "text": "Fosta casă a lui Federico Wolf, acum muzeu în regiunea lactată La Laguna.",
                   "category": "museum",
                   "coords": [
                         -103.467854,
@@ -8210,7 +8210,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo Regional de La Laguna",
-                  "text": "Museo Regional de La Laguna este un muzeu regional în Torreón.",
+                  "text": "Un muzeu regional care prezintă istoria și cultura La Lagunei în regiunea lactată La Laguna.",
                   "category": "museum",
                   "coords": [
                         -103.432664,
@@ -8219,7 +8219,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Antigua Jabonera",
-                  "text": "Antigua Jabonera este un muzeu într-o fostă fabrică de săpun în Torreón.",
+                  "text": "O fostă fabrică de săpun transformată în muzeu în regiunea lactată La Laguna.",
                   "category": "museum",
                   "coords": [
                         -103.495496,
@@ -8228,7 +8228,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo de la Revolución",
-                  "text": "Museo de la Revolución este un muzeu dedicat revoluției mexicane în Torreón.",
+                  "text": "Un muzeu dedicat Revoluției Mexicane în regiunea lactată La Laguna.",
                   "category": "museum",
                   "coords": [
                         -103.436977,
@@ -8237,7 +8237,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo Arocena",
-                  "text": "Museo Arocena este un muzeu în Torreón.",
+                  "text": "Muzeul Arocena, cu expoziții de artă și istorie în regiunea lactată La Laguna.",
                   "category": "museum",
                   "coords": [
                         -103.461969,
@@ -8246,7 +8246,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Galería del deporte lagunero",
-                  "text": "Galerie sportivă a regiunii La Laguna.",
+                  "text": "O galerie dedicată istoriei sportului local în regiunea lactată La Laguna.",
                   "category": "museum",
                   "coords": [
                         -103.411748,
@@ -8255,7 +8255,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo de los Metales",
-                  "text": "Muzeul Metalelor din regiunea La Laguna.",
+                  "text": "Un muzeu despre minerit și metalurgie în regiunea lactată La Laguna.",
                   "category": "museum",
                   "coords": [
                         -103.44494,
@@ -8282,7 +8282,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo de Arte Moderno",
-                  "text": "Muzeul de Artă Modernă din regiunea La Laguna.",
+                  "text": "Un muzeu de artă modernă în regiunea lactată La Laguna.",
                   "category": "museum",
                   "coords": [
                         -103.500809,
@@ -8300,7 +8300,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Centro de Artes \"Casa Faya\"",
-                  "text": "Centrul de Arte Casa Faya din regiunea La Laguna.",
+                  "text": "Centru de artă fondat în 1912 în Regiunea Lactate La Laguna.",
                   "category": "museum",
                   "coords": [
                         -103.497791,
@@ -8318,7 +8318,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "El Acertijo Museo Interactivo Laguna Durango",
-                  "text": "Muzeul Interactiv El Acertijo din regiunea La Laguna.",
+                  "text": "Un muzeu interactiv de puzzle-uri în regiunea lactată La Laguna.",
                   "category": "museum",
                   "coords": [
                         -103.494281,
@@ -8327,7 +8327,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Manto de la Virgen",
-                  "text": "Un monument religios în regiunea La Laguna.",
+                  "text": "Un sit religios istoric care înfățișează mantia Fecioarei Maria în regiunea lactată La Laguna.",
                   "category": "historical",
                   "coords": [
                         -103.325602,
@@ -8336,7 +8336,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Pedro Valdez Fernández",
-                  "text": "Monumentul lui Pedro Valdez Fernández în regiunea La Laguna.",
+                  "text": "Un monument dedicat lui Pedro Valdez Fernández în regiunea lactată La Laguna.",
                   "category": "historical",
                   "coords": [
                         -103.411304,
@@ -8345,7 +8345,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "La flor",
-                  "text": "Monumentul Florii în regiunea La Laguna.",
+                  "text": "O sculptură mare de floare în regiunea lactată La Laguna.",
                   "category": "historical",
                   "coords": [
                         -103.442212,
@@ -8354,7 +8354,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "El Torreón",
-                  "text": "Monumentul Turnului în regiunea La Laguna.",
+                  "text": "Un turn istoric în regiunea lactată La Laguna.",
                   "category": "historical",
                   "coords": [
                         -103.468653,
@@ -8363,7 +8363,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Torre Eiffel",
-                  "text": "O replică a Turnului Eiffel în regiunea La Laguna.",
+                  "text": "O replică a Turnului Eiffel în regiunea lactată La Laguna.",
                   "category": "historical",
                   "coords": [
                         -103.479045,
@@ -8372,7 +8372,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Al Maestro",
-                  "text": "Monument în cinstea profesorilor în regiunea La Laguna.",
+                  "text": "Un monument dedicat profesorilor în regiunea lactată La Laguna.",
                   "category": "historical",
                   "coords": [
                         -103.493443,
@@ -8399,7 +8399,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Casa del Artista",
-                  "text": "Centrul de Artă Casa del Artista în regiunea La Laguna.",
+                  "text": "Un centru cultural în fosta casă a unui artist în regiunea lactată La Laguna.",
                   "category": "cultural",
                   "coords": [
                         -103.446282,
@@ -8408,7 +8408,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro Isauro Martínez",
-                  "text": "Teatrul Isauro Martínez în regiunea La Laguna.",
+                  "text": "Teatrul Isauro Martínez, un loc istoric de spectacole în regiunea lactată La Laguna.",
                   "category": "cultural",
                   "coords": [
                         -103.452254,
@@ -8435,7 +8435,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Centro de Convenciones Francisco Zarco",
-                  "text": "Centrul de Convenții Francisco Zarco în regiunea La Laguna.",
+                  "text": "Centrul de Convenții Francisco Zarco în regiunea lactată La Laguna.",
                   "category": "cultural",
                   "coords": [
                         -103.476928,
@@ -8455,7 +8455,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo de la Moneda",
-                  "text": "Museo de la Moneda is a coin museum in Torreón.",
+                  "text": "A numismatic museum in the dairy region of La Laguna.",
                   "category": "museum",
                   "coords": [
                         -103.462299,
@@ -8464,7 +8464,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Federico wolf house's",
-                  "text": "Federico wolf house's is a museum in the former home of Federico Wolf in Torreón.",
+                  "text": "The former home of Federico Wolf, now a museum in La Laguna Dairy Region.",
                   "category": "museum",
                   "coords": [
                         -103.467854,
@@ -8473,7 +8473,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo Regional de La Laguna",
-                  "text": "Museo Regional de La Laguna is a regional museum in Torreón.",
+                  "text": "A regional museum showcasing the history and culture of La Laguna in La Laguna Dairy Region.",
                   "category": "museum",
                   "coords": [
                         -103.432664,
@@ -8482,7 +8482,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Antigua Jabonera",
-                  "text": "Antigua Jabonera is a museum in a former soap factory in Torreón.",
+                  "text": "A former soap factory converted into a museum in La Laguna Dairy Region.",
                   "category": "museum",
                   "coords": [
                         -103.495496,
@@ -8491,7 +8491,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo de la Revolución",
-                  "text": "Museo de la Revolución is a museum about the Mexican Revolution in Torreón.",
+                  "text": "A museum dedicated to the Mexican Revolution in La Laguna Dairy Region.",
                   "category": "museum",
                   "coords": [
                         -103.436977,
@@ -8500,7 +8500,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo Arocena",
-                  "text": "Museo Arocena is a museum in Torreón.",
+                  "text": "The Arocena Museum featuring art and historical exhibits in La Laguna Dairy Region.",
                   "category": "museum",
                   "coords": [
                         -103.461969,
@@ -8509,7 +8509,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Galería del deporte lagunero",
-                  "text": "Sports gallery of the La Laguna region.",
+                  "text": "A gallery dedicated to local sports history in La Laguna Dairy Region.",
                   "category": "museum",
                   "coords": [
                         -103.411748,
@@ -8518,7 +8518,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo de los Metales",
-                  "text": "Museum of Metals in the La Laguna region.",
+                  "text": "A museum about mining and metallurgy in La Laguna Dairy Region.",
                   "category": "museum",
                   "coords": [
                         -103.44494,
@@ -8545,7 +8545,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo de Arte Moderno",
-                  "text": "Modern art museum in the La Laguna region.",
+                  "text": "A modern art museum in La Laguna Dairy Region.",
                   "category": "museum",
                   "coords": [
                         -103.500809,
@@ -8563,7 +8563,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Centro de Artes \"Casa Faya\"",
-                  "text": "Casa Faya Arts Centre in the La Laguna region.",
+                  "text": "Arts centre founded in 1912 in the La Laguna Dairy Region.",
                   "category": "museum",
                   "coords": [
                         -103.497791,
@@ -8581,7 +8581,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "El Acertijo Museo Interactivo Laguna Durango",
-                  "text": "Interactive museum in the La Laguna region.",
+                  "text": "An interactive puzzle museum in La Laguna Dairy Region.",
                   "category": "museum",
                   "coords": [
                         -103.494281,
@@ -8590,7 +8590,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Manto de la Virgen",
-                  "text": "A religious monument in the La Laguna region.",
+                  "text": "A historical religious site depicting the mantle of the Virgin Mary in La Laguna Dairy Region.",
                   "category": "historical",
                   "coords": [
                         -103.325602,
@@ -8599,7 +8599,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Pedro Valdez Fernández",
-                  "text": "Monument to Pedro Valdez Fernández in the La Laguna region.",
+                  "text": "A monument to Pedro Valdez Fernández in La Laguna Dairy Region.",
                   "category": "historical",
                   "coords": [
                         -103.411304,
@@ -8608,7 +8608,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "La flor",
-                  "text": "Flower monument in the La Laguna region.",
+                  "text": "A large flower sculpture in La Laguna Dairy Region.",
                   "category": "historical",
                   "coords": [
                         -103.442212,
@@ -8617,7 +8617,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "El Torreón",
-                  "text": "Tower monument in the La Laguna region.",
+                  "text": "A historic tower in La Laguna Dairy Region.",
                   "category": "historical",
                   "coords": [
                         -103.468653,
@@ -8626,7 +8626,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Torre Eiffel",
-                  "text": "Replica of the Eiffel Tower in the La Laguna region.",
+                  "text": "A replica of the Eiffel Tower in La Laguna Dairy Region.",
                   "category": "historical",
                   "coords": [
                         -103.479045,
@@ -8635,7 +8635,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Al Maestro",
-                  "text": "Monument honouring teachers in the La Laguna region.",
+                  "text": "A monument dedicated to teachers in La Laguna Dairy Region.",
                   "category": "historical",
                   "coords": [
                         -103.493443,
@@ -8662,7 +8662,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Casa del Artista",
-                  "text": "Arts centre in the La Laguna region.",
+                  "text": "A cultural center in the former home of an artist in La Laguna Dairy Region.",
                   "category": "cultural",
                   "coords": [
                         -103.446282,
@@ -8671,7 +8671,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro Isauro Martínez",
-                  "text": "Theatre in the La Laguna region.",
+                  "text": "The Isauro Martínez Theater, a historic performance venue in La Laguna Dairy Region.",
                   "category": "cultural",
                   "coords": [
                         -103.452254,
@@ -8698,7 +8698,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Centro de Convenciones Francisco Zarco",
-                  "text": "Convention centre in the La Laguna region.",
+                  "text": "The Francisco Zarco Convention Center in La Laguna Dairy Region.",
                   "category": "cultural",
                   "coords": [
                         -103.476928,
@@ -8755,7 +8755,7 @@ export const mexicoEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Puente Peatonal de Cosoleacaque",
-                  "text": "Eine Fußgängerbrücke in Minatitlán.",
+                  "text": "Eine Fußgängerbrücke in Cosoleacaque, nahe der Raffinerie Minatitlan.",
                   "category": "historical",
                   "coords": [
                         -94.639122,
@@ -8764,7 +8764,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Martin Lancero",
-                  "text": "Ein Denkmal in Minatitlán, das Martín Lancero gewidmet ist.",
+                  "text": "Ein Denkmal für Martin Lancero in der Raffinerie Minatitlan.",
                   "category": "historical",
                   "coords": [
                         -94.62665,
@@ -8773,7 +8773,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro Usos Multiples",
-                  "text": "Ein Mehrzwecktheater in Minatitlán, Mexiko.",
+                  "text": "Ein Mehrzwecktheater in der Raffinerie Minatitlan.",
                   "category": "cultural",
                   "coords": [
                         -94.526398,
@@ -8809,7 +8809,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Monumento Soto Ines",
-                  "text": "Ein Denkmal zu Ehren von Soto Inés in Minatitlán.",
+                  "text": "Ein Denkmal für Soto Ines in der Raffinerie Minatitlan.",
                   "category": "historical",
                   "coords": [
                         -94.539762,
@@ -8827,7 +8827,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Aqua Splash",
-                  "text": "Ein Wasserpark in Minatitlán.",
+                  "text": "Ein Wasserpark mit Rutschen und Becken in der Raffinerie Minatitlan.",
                   "category": "recreational",
                   "coords": [
                         -94.570628,
@@ -8856,7 +8856,7 @@ export const mexicoEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Puente Peatonal de Cosoleacaque",
-                  "text": "Gyalogoshíd Minatitlánban.",
+                  "text": "Gyalogoshíd Cosoleacaque-ban, a Minatitlan Finomító közelében.",
                   "category": "historical",
                   "coords": [
                         -94.639122,
@@ -8865,7 +8865,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Martin Lancero",
-                  "text": "Martín Lancerónak szentelt emlékmű Minatitlánban.",
+                  "text": "Martin Lancero emlékműve a Minatitlan Finomítóban.",
                   "category": "historical",
                   "coords": [
                         -94.62665,
@@ -8874,7 +8874,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro Usos Multiples",
-                  "text": "Többcélú színház a mexikói Minatitlánban.",
+                  "text": "Többcélú színház a Minatitlan Finomítóban.",
                   "category": "cultural",
                   "coords": [
                         -94.526398,
@@ -8910,7 +8910,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Monumento Soto Ines",
-                  "text": "Soto Inés tiszteletére állított emlékmű Minatitlánban.",
+                  "text": "Soto Ines emlékműve a Minatitlan Finomítóban.",
                   "category": "historical",
                   "coords": [
                         -94.539762,
@@ -8928,7 +8928,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Aqua Splash",
-                  "text": "Vidámpark Minatitlánban.",
+                  "text": "Vidámpark csúszdákkal és medencékkel a Minatitlan Finomítóban.",
                   "category": "recreational",
                   "coords": [
                         -94.570628,
@@ -8957,7 +8957,7 @@ export const mexicoEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Puente Peatonal de Cosoleacaque",
-                  "text": "Un pod pietonal în Minatitlán.",
+                  "text": "Un pod pietonal în Cosoleacaque, lângă Rafinăria Minatitlan.",
                   "category": "historical",
                   "coords": [
                         -94.639122,
@@ -8966,7 +8966,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Martin Lancero",
-                  "text": "Un monument în Minatitlán dedicat lui Martín Lancero.",
+                  "text": "Un monument dedicat lui Martin Lancero în Rafinăria Minatitlan.",
                   "category": "historical",
                   "coords": [
                         -94.62665,
@@ -8975,7 +8975,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro Usos Multiples",
-                  "text": "Un teatru multifuncțional în Minatitlán, Mexic.",
+                  "text": "Un teatru multifuncțional în Rafinăria Minatitlan.",
                   "category": "cultural",
                   "coords": [
                         -94.526398,
@@ -9011,7 +9011,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Monumento Soto Ines",
-                  "text": "Un monument în onoarea lui Soto Inés în Minatitlán.",
+                  "text": "Un monument dedicat lui Soto Ines în Rafinăria Minatitlan.",
                   "category": "historical",
                   "coords": [
                         -94.539762,
@@ -9029,7 +9029,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Aqua Splash",
-                  "text": "Un parc acvatic în Minatitlán.",
+                  "text": "Un parc acvatic cu tobogane și piscine în Rafinăria Minatitlan.",
                   "category": "recreational",
                   "coords": [
                         -94.570628,
@@ -9058,7 +9058,7 @@ export const mexicoEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Puente Peatonal de Cosoleacaque",
-                  "text": "A pedestrian bridge in Minatitlan.",
+                  "text": "A pedestrian bridge in Cosoleacaque, near the Minatitlan Refinery.",
                   "category": "historical",
                   "coords": [
                         -94.639122,
@@ -9067,7 +9067,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Martin Lancero",
-                  "text": "A monument in Minatitlan dedicated to Martin Lancero.",
+                  "text": "A monument to Martin Lancero in Minatitlan Refinery.",
                   "category": "historical",
                   "coords": [
                         -94.62665,
@@ -9076,7 +9076,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro Usos Multiples",
-                  "text": "A multi-purpose theatre in Minatitlán, Mexico.",
+                  "text": "A multipurpose theater in Minatitlan Refinery.",
                   "category": "cultural",
                   "coords": [
                         -94.526398,
@@ -9112,7 +9112,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Monumento Soto Ines",
-                  "text": "A monument honoring Soto Inés in Minatitlán.",
+                  "text": "A monument to Soto Ines in Minatitlan Refinery.",
                   "category": "historical",
                   "coords": [
                         -94.539762,
@@ -9130,7 +9130,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Aqua Splash",
-                  "text": "A water park in Minatitlán.",
+                  "text": "A water park with slides and pools in Minatitlan Refinery.",
                   "category": "recreational",
                   "coords": [
                         -94.570628,
@@ -9250,7 +9250,7 @@ export const mexicoEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Parque Recreativo CTM Region Norte",
-                  "text": "Ein Freizeitpark in der Region Piedras Negras.",
+                  "text": "Ein Freizeitpark in der nördlichen Region von Piedras Negras Coal.",
                   "category": "recreational",
                   "coords": [
                         -100.594276,
@@ -9259,7 +9259,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Monumento Villa Real",
-                  "text": "Ein Denkmal in Piedras Negras.",
+                  "text": "Ein Denkmal für Villa Real in Piedras Negras Coal.",
                   "category": "historical",
                   "coords": [
                         -100.586745,
@@ -9268,7 +9268,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Plaza de las Culturas",
-                  "text": "Ein Denkmalplatz in Piedras Negras.",
+                  "text": "Ein Platz, der die Vielfalt der Kulturen in Piedras Negras Coal feiert.",
                   "category": "historical",
                   "coords": [
                         -100.522608,
@@ -9286,7 +9286,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Airplane Monument",
-                  "text": "Ein Flugzeugdenkmal in Piedras Negras.",
+                  "text": "Ein Denkmal mit einem echten Flugzeug in Piedras Negras Coal.",
                   "category": "historical",
                   "coords": [
                         -100.480012,
@@ -9295,7 +9295,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Asta Bandera",
-                  "text": "Ein Fahnenmastdenkmal in Piedras Negras.",
+                  "text": "Ein monumentaler Fahnenmast in Piedras Negras Coal.",
                   "category": "historical",
                   "coords": [
                         -100.529194,
@@ -9304,7 +9304,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Fort Duncan Infantry Barracks",
-                  "text": "Infanteriekasernen in Fort Duncan in der Region Piedras Negras.",
+                  "text": "Eine historische Infanteriekaserne aus der Zeit von Fort Duncan in Piedras Negras Coal.",
                   "category": "fortress",
                   "coords": [
                         -100.505689,
@@ -9322,7 +9322,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Pirámide",
-                  "text": "Ein Pyramidendenkmal in Piedras Negras.",
+                  "text": "Ein pyramidenförmiges Denkmal in Piedras Negras Coal.",
                   "category": "historical",
                   "coords": [
                         -100.523259,
@@ -9340,7 +9340,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Hal F. Bowles Amphitheater",
-                  "text": "Ein Amphitheater in Piedras Negras.",
+                  "text": "Ein nach Hal F. Bowles benanntes Amphitheater in Piedras Negras Coal.",
                   "category": "cultural",
                   "coords": [
                         -100.502901,
@@ -9376,7 +9376,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Cabeza Olmeca",
-                  "text": "Ein Olmekenkopf-Denkmal in Piedras Negras.",
+                  "text": "Ein monumentaler Olmeken-Steinkopf aus basaltischem Gestein in der Kohlebergbauregion Piedras Negras.",
                   "category": "historical",
                   "coords": [
                         -100.523626,
@@ -9394,7 +9394,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Splash Pad",
-                  "text": "Ein Wasserspielplatz in Piedras Negras.",
+                  "text": "Ein Wasserspielplatz mit Springbrunnen und Sprinklern für Kinder in Piedras Negras.",
                   "category": "recreational",
                   "coords": [
                         -100.479896,
@@ -9405,7 +9405,7 @@ export const mexicoEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Parque Recreativo CTM Region Norte",
-                  "text": "Egy vidámpark Piedras Negras térségében.",
+                  "text": "Szabadidőpark Piedras Negras Coal északi régiójában.",
                   "category": "recreational",
                   "coords": [
                         -100.594276,
@@ -9414,7 +9414,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Monumento Villa Real",
-                  "text": "Egy emlékmű Piedras Negrasban.",
+                  "text": "Villa Real emlékműve Piedras Negras Coalban.",
                   "category": "historical",
                   "coords": [
                         -100.586745,
@@ -9423,7 +9423,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Plaza de las Culturas",
-                  "text": "Egy emlékmű tér Piedras Negrasban.",
+                  "text": "Egy tér, amely a kultúrák sokszínűségét ünnepli Piedras Negras Coalban.",
                   "category": "historical",
                   "coords": [
                         -100.522608,
@@ -9441,7 +9441,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Airplane Monument",
-                  "text": "Egy repülőgép-emlékmű Piedras Negrasban.",
+                  "text": "Egy műemlék egy valódi repülőgéppel Piedras Negras Coalban.",
                   "category": "historical",
                   "coords": [
                         -100.480012,
@@ -9450,7 +9450,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Asta Bandera",
-                  "text": "Egy zászlórúd emlékmű Piedras Negrasban.",
+                  "text": "Egy monumentális zászlórúd Piedras Negras Coalban.",
                   "category": "historical",
                   "coords": [
                         -100.529194,
@@ -9459,7 +9459,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Fort Duncan Infantry Barracks",
-                  "text": "Gyalogsági laktanya a Fort Duncanben Piedras Negras térségében.",
+                  "text": "Történelmi gyalogsági laktanya a Fort Duncan korszakából Piedras Negras Coalban.",
                   "category": "fortress",
                   "coords": [
                         -100.505689,
@@ -9477,7 +9477,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Pirámide",
-                  "text": "Egy piramis alakú emlékmű Piedras Negrasban.",
+                  "text": "Piramis alakú emlékmű Piedras Negras Coalban.",
                   "category": "historical",
                   "coords": [
                         -100.523259,
@@ -9495,7 +9495,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Hal F. Bowles Amphitheater",
-                  "text": "Egy amfiteátrum Piedras Negrasban.",
+                  "text": "Hal F. Bowles-ról elnevezett amfiteátrum Piedras Negras Coalban.",
                   "category": "cultural",
                   "coords": [
                         -100.502901,
@@ -9531,7 +9531,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Cabeza Olmeca",
-                  "text": "Olmék fej emlékmű Piedras Negrasban.",
+                  "text": "Egy hatalmas, bazaltból faragott olmék kőfej a Piedras Negras-i szénbányászati régióban.",
                   "category": "historical",
                   "coords": [
                         -100.523626,
@@ -9549,7 +9549,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Splash Pad",
-                  "text": "Egy splash pad vízi játszótér Piedras Negrasban.",
+                  "text": "Szökőkutakkal és permetezőkkel ellátott vízi játszótér gyerekeknek Piedras Negrasban.",
                   "category": "recreational",
                   "coords": [
                         -100.479896,
@@ -9560,7 +9560,7 @@ export const mexicoEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Parque Recreativo CTM Region Norte",
-                  "text": "Un parc tematic în zona Piedras Negras.",
+                  "text": "Un parc de agrement în regiunea de nord a Piedras Negras Coal.",
                   "category": "recreational",
                   "coords": [
                         -100.594276,
@@ -9569,7 +9569,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Monumento Villa Real",
-                  "text": "Un monument în Piedras Negras.",
+                  "text": "Un monument dedicat lui Villa Real în Piedras Negras Coal.",
                   "category": "historical",
                   "coords": [
                         -100.586745,
@@ -9578,7 +9578,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Plaza de las Culturas",
-                  "text": "O piață monument în Piedras Negras.",
+                  "text": "O piață care sărbătorește diversitatea culturală în Piedras Negras Coal.",
                   "category": "historical",
                   "coords": [
                         -100.522608,
@@ -9596,7 +9596,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Airplane Monument",
-                  "text": "Un monument cu avion în Piedras Negras.",
+                  "text": "Un monument cu un avion real în Piedras Negras Coal.",
                   "category": "historical",
                   "coords": [
                         -100.480012,
@@ -9605,7 +9605,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Asta Bandera",
-                  "text": "Un monument cu catarg de steag în Piedras Negras.",
+                  "text": "Un catarg monumental de steag în Piedras Negras Coal.",
                   "category": "historical",
                   "coords": [
                         -100.529194,
@@ -9614,7 +9614,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Fort Duncan Infantry Barracks",
-                  "text": "Barăci de infanterie la Fort Duncan în regiunea Piedras Negras.",
+                  "text": "O cazarmă istorică de infanterie din epoca Fort Duncan în Piedras Negras Coal.",
                   "category": "fortress",
                   "coords": [
                         -100.505689,
@@ -9632,7 +9632,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Pirámide",
-                  "text": "Un monument în formă de piramidă în Piedras Negras.",
+                  "text": "Un monument în formă de piramidă în Piedras Negras Coal.",
                   "category": "historical",
                   "coords": [
                         -100.523259,
@@ -9650,7 +9650,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Hal F. Bowles Amphitheater",
-                  "text": "Un amfiteatru în Piedras Negras.",
+                  "text": "Un amfiteatru numit după Hal F. Bowles în Piedras Negras Coal.",
                   "category": "cultural",
                   "coords": [
                         -100.502901,
@@ -9686,7 +9686,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Cabeza Olmeca",
-                  "text": "Un monument cu cap olmec în Piedras Negras.",
+                  "text": "Un cap colosal olmec din piatră, sculptat în bazalt, în zona minieră de cărbune Piedras Negras.",
                   "category": "historical",
                   "coords": [
                         -100.523626,
@@ -9704,7 +9704,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Splash Pad",
-                  "text": "Un parc acvatic cu jocuri de apă în Piedras Negras.",
+                  "text": "O zonă de joacă acvatică cu fântâni și stropitori pentru copii în Piedras Negras.",
                   "category": "recreational",
                   "coords": [
                         -100.479896,
@@ -9715,7 +9715,7 @@ export const mexicoEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Parque Recreativo CTM Region Norte",
-                  "text": "A theme park in the Piedras Negras area.",
+                  "text": "A recreational park in the northern region of Piedras Negras Coal.",
                   "category": "recreational",
                   "coords": [
                         -100.594276,
@@ -9724,7 +9724,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Monumento Villa Real",
-                  "text": "A monument in Piedras Negras.",
+                  "text": "A monument to Villa Real in Piedras Negras Coal.",
                   "category": "historical",
                   "coords": [
                         -100.586745,
@@ -9733,7 +9733,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Plaza de las Culturas",
-                  "text": "A monument square in Piedras Negras.",
+                  "text": "A plaza celebrating diverse cultures in Piedras Negras Coal.",
                   "category": "historical",
                   "coords": [
                         -100.522608,
@@ -9751,7 +9751,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Airplane Monument",
-                  "text": "An airplane monument in Piedras Negras.",
+                  "text": "A monument featuring a real airplane in Piedras Negras Coal.",
                   "category": "historical",
                   "coords": [
                         -100.480012,
@@ -9760,7 +9760,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Asta Bandera",
-                  "text": "A flagpole monument in Piedras Negras.",
+                  "text": "A monumental flagpole in Piedras Negras Coal.",
                   "category": "historical",
                   "coords": [
                         -100.529194,
@@ -9769,7 +9769,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Fort Duncan Infantry Barracks",
-                  "text": "Infantry barracks at Fort Duncan in the Piedras Negras region.",
+                  "text": "A historic infantry barracks from the Fort Duncan era in Piedras Negras Coal.",
                   "category": "fortress",
                   "coords": [
                         -100.505689,
@@ -9787,7 +9787,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Pirámide",
-                  "text": "A pyramid monument in Piedras Negras.",
+                  "text": "A pyramid-shaped monument in Piedras Negras Coal.",
                   "category": "historical",
                   "coords": [
                         -100.523259,
@@ -9805,7 +9805,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Hal F. Bowles Amphitheater",
-                  "text": "An amphitheater in Piedras Negras.",
+                  "text": "An amphitheater named after Hal F. Bowles in Piedras Negras Coal.",
                   "category": "cultural",
                   "coords": [
                         -100.502901,
@@ -9841,7 +9841,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Cabeza Olmeca",
-                  "text": "An Olmec head monument in Piedras Negras.",
+                  "text": "A giant Olmec stone head carved from basalt in the Piedras Negras coal mining region.",
                   "category": "historical",
                   "coords": [
                         -100.523626,
@@ -9859,7 +9859,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Splash Pad",
-                  "text": "A splash pad water park in Piedras Negras.",
+                  "text": "A water play area with fountains and sprinklers for children in Piedras Negras.",
                   "category": "recreational",
                   "coords": [
                         -100.479896,
@@ -9916,7 +9916,7 @@ export const mexicoEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Las Palapas",
-                  "text": "Las Palapas ist ein Wasserpark in San Luis Río Colorado.",
+                  "text": "Ein Park mit palmenbedeckten Palapa-Strukturen, der Schatten und Erholung in San Luis Río Colorado bietet.",
                   "category": "recreational",
                   "coords": [
                         -114.735351,
@@ -9927,7 +9927,7 @@ export const mexicoEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Las Palapas",
-                  "text": "Las Palapas egy vízipark San Luis Río Coloradóban.",
+                  "text": "Pálmalevél-fedésű palapa építményekkel teli park, árnyékot és pihenést nyújtva San Luis Río Coloradóban.",
                   "category": "recreational",
                   "coords": [
                         -114.735351,
@@ -9938,7 +9938,7 @@ export const mexicoEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Las Palapas",
-                  "text": "Las Palapas este un parc acvatic în San Luis Río Colorado.",
+                  "text": "Un parc cu structuri de tip palapa din palmier, oferind umbră și relaxare în San Luis Río Colorado.",
                   "category": "recreational",
                   "coords": [
                         -114.735351,
@@ -9949,7 +9949,7 @@ export const mexicoEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Las Palapas",
-                  "text": "Las Palapas is a water park in San Luis Río Colorado.",
+                  "text": "A park with palm-thatched palapa structures providing shade and relaxation in San Luis Río Colorado.",
                   "category": "recreational",
                   "coords": [
                         -114.735351,
@@ -10015,7 +10015,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Cerro Cañedo",
-                  "text": "Ein Berggipfel in der Nähe von Caborca.",
+                  "text": "Cerro Cañedo ist ein Hügel im Golddistrikt Caborca.",
                   "category": "natural",
                   "coords": [
                         -112.126591,
@@ -10024,7 +10024,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Cerro Grande",
-                  "text": "Ein Berggipfel in der Nähe von Caborca.",
+                  "text": "Cerro Grande ist ein großer Hügel im Golddistrikt Caborca.",
                   "category": "natural",
                   "coords": [
                         -112.114194,
@@ -10033,7 +10033,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Cerro La Zorra",
-                  "text": "Ein Berggipfel in der Nähe von Caborca.",
+                  "text": "Cerro La Zorra ist ein Hügel namens La Zorra im Golddistrikt Caborca.",
                   "category": "natural",
                   "coords": [
                         -112.183788,
@@ -10053,7 +10053,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Cerro Cañedo",
-                  "text": "Egy hegycsúcs Caborca közelében.",
+                  "text": "A Cerro Cañedo egy domb a Caborca-aranyvidéken.",
                   "category": "natural",
                   "coords": [
                         -112.126591,
@@ -10062,7 +10062,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Cerro Grande",
-                  "text": "Egy hegycsúcs Caborca közelében.",
+                  "text": "A Cerro Grande egy nagy domb a Caborca-aranyvidéken.",
                   "category": "natural",
                   "coords": [
                         -112.114194,
@@ -10071,7 +10071,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Cerro La Zorra",
-                  "text": "Egy hegycsúcs Caborca közelében.",
+                  "text": "A Cerro La Zorra egy La Zorra nevű domb a Caborca-aranyvidéken.",
                   "category": "natural",
                   "coords": [
                         -112.183788,
@@ -10091,7 +10091,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Cerro Cañedo",
-                  "text": "Un vârf muntos lângă Caborca.",
+                  "text": "Cerro Cañedo este un deal în districtul aurifer Caborca.",
                   "category": "natural",
                   "coords": [
                         -112.126591,
@@ -10100,7 +10100,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Cerro Grande",
-                  "text": "Un vârf muntos lângă Caborca.",
+                  "text": "Cerro Grande este un deal mare în districtul aurifer Caborca.",
                   "category": "natural",
                   "coords": [
                         -112.114194,
@@ -10109,7 +10109,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Cerro La Zorra",
-                  "text": "Un vârf muntos lângă Caborca.",
+                  "text": "Cerro La Zorra este un deal numit La Zorra în districtul aurifer Caborca.",
                   "category": "natural",
                   "coords": [
                         -112.183788,
@@ -10129,7 +10129,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Cerro Cañedo",
-                  "text": "A mountain peak near Caborca.",
+                  "text": "Cerro Cañedo is a hill in the Caborca Gold District.",
                   "category": "natural",
                   "coords": [
                         -112.126591,
@@ -10138,7 +10138,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Cerro Grande",
-                  "text": "A mountain peak near Caborca.",
+                  "text": "Cerro Grande is a large hill in the Caborca Gold District.",
                   "category": "natural",
                   "coords": [
                         -112.114194,
@@ -10147,7 +10147,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Cerro La Zorra",
-                  "text": "A mountain peak near Caborca.",
+                  "text": "Cerro La Zorra is a hill called La Zorra in the Caborca Gold District.",
                   "category": "natural",
                   "coords": [
                         -112.183788,
@@ -10204,7 +10204,7 @@ export const mexicoEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Monumento a la Madre",
-                  "text": "Ein Denkmal für die Mütter in Navojoa.",
+                  "text": "Ein Denkmal zu Ehren der Mütter, dargestellt als Statue einer Mutter mit Kindern in Navojoa.",
                   "category": "historical",
                   "coords": [
                         -109.44487,
@@ -10213,7 +10213,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Monumento a Alvaro Obregón",
-                  "text": "Ein Denkmal für Álvaro Obregón in Navojoa.",
+                  "text": "Ein bronzenes Denkmal für Präsident Álvaro Obregón in Navojoa, umgeben von einem kleinen Platz.",
                   "category": "historical",
                   "coords": [
                         -109.453473,
@@ -10222,7 +10222,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Angel de la Independencia",
-                  "text": "Eine Nachbildung des Engels der Unabhängigkeit in Navojoa.",
+                  "text": "Eine geflügelte Engelsstatue auf einer Säule, Symbol der mexikanischen Unabhängigkeit in Navojoa.",
                   "category": "historical",
                   "coords": [
                         -109.446213,
@@ -10231,7 +10231,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Cerro de la Virgen",
-                  "text": "Ein Hügel namens Cerro de la Virgen in Navojoa.",
+                  "text": "Ein Hügel mit einer Marienstatue auf dem Gipfel, der einen Panoramablick über Navojoa bietet.",
                   "category": "landmark",
                   "coords": [
                         -109.393282,
@@ -10242,7 +10242,7 @@ export const mexicoEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Monumento a la Madre",
-                  "text": "Egy anyák emlékműve Navojoában.",
+                  "text": "Anyák tiszteletére emelt emlékmű, egy anyát és gyermekeit ábrázoló szobor Navojoában.",
                   "category": "historical",
                   "coords": [
                         -109.44487,
@@ -10251,7 +10251,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Monumento a Alvaro Obregón",
-                  "text": "Álvaro Obregón emlékműve Navojoában.",
+                  "text": "Álvaro Obregón elnök bronzszobra Navojoában, egy kis térrel körülvéve.",
                   "category": "historical",
                   "coords": [
                         -109.453473,
@@ -10260,7 +10260,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Angel de la Independencia",
-                  "text": "A Függetlenség Angyala másolata Navojoában.",
+                  "text": "Szárnyas angyalszobor egy oszlopon, a mexikói függetlenség jelképe Navojoában.",
                   "category": "historical",
                   "coords": [
                         -109.446213,
@@ -10269,7 +10269,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Cerro de la Virgen",
-                  "text": "Egy domb, a Cerro de la Virgen Navojoában.",
+                  "text": "Egy domb, amelynek tetején Szűz Mária szobra áll, panorámás kilátással Navojoára.",
                   "category": "landmark",
                   "coords": [
                         -109.393282,
@@ -10280,7 +10280,7 @@ export const mexicoEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Monumento a la Madre",
-                  "text": "Un monument dedicat mamelor în Navojoa.",
+                  "text": "Un monument în onoarea mamelor, reprezentat de o statuie a unei mame cu copii în Navojoa.",
                   "category": "historical",
                   "coords": [
                         -109.44487,
@@ -10289,7 +10289,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Monumento a Alvaro Obregón",
-                  "text": "Un monument dedicat lui Álvaro Obregón în Navojoa.",
+                  "text": "Un monument de bronz dedicat președintelui Álvaro Obregón în Navojoa, înconjurat de o piațetă.",
                   "category": "historical",
                   "coords": [
                         -109.453473,
@@ -10298,7 +10298,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Angel de la Independencia",
-                  "text": "O replică a Îngerului Independenței din Navojoa.",
+                  "text": "O statuie de înger înaripat pe o coloană, simbol al independenței mexicane în Navojoa.",
                   "category": "historical",
                   "coords": [
                         -109.446213,
@@ -10307,7 +10307,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Cerro de la Virgen",
-                  "text": "Un deal numit Cerro de la Virgen în Navojoa.",
+                  "text": "Un deal cu o statuie a Fecioarei Maria pe vârf, oferind o priveliște panoramică asupra Navojoa.",
                   "category": "landmark",
                   "coords": [
                         -109.393282,
@@ -10318,7 +10318,7 @@ export const mexicoEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Monumento a la Madre",
-                  "text": "A monument to mothers in Navojoa.",
+                  "text": "A monument honoring mothers, depicted as a statue of a mother with children in Navojoa.",
                   "category": "historical",
                   "coords": [
                         -109.44487,
@@ -10327,7 +10327,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Monumento a Alvaro Obregón",
-                  "text": "A monument to Álvaro Obregón in Navojoa.",
+                  "text": "A bronze monument to President Álvaro Obregón in Navojoa, set in a small plaza.",
                   "category": "historical",
                   "coords": [
                         -109.453473,
@@ -10336,7 +10336,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Angel de la Independencia",
-                  "text": "A replica of the Angel of Independence in Navojoa.",
+                  "text": "A winged angel statue atop a column, symbol of Mexican independence in Navojoa.",
                   "category": "historical",
                   "coords": [
                         -109.446213,
@@ -10345,7 +10345,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Cerro de la Virgen",
-                  "text": "A hill named Cerro de la Virgen in Navojoa.",
+                  "text": "A hill crowned with a statue of the Virgin Mary, offering panoramic views of Navojoa.",
                   "category": "landmark",
                   "coords": [
                         -109.393282,
@@ -10402,7 +10402,7 @@ export const mexicoEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Monumento UM",
-                  "text": "Das Monumento UM ist ein Denkmal in Querétaro.",
+                  "text": "Ein Denkmal mit den Buchstaben 'UM' auf einem Platz im Intermodal Terminal Querétaro.",
                   "category": "historical",
                   "coords": [
                         -100.276542,
@@ -10411,7 +10411,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Tuneles los Encinos",
-                  "text": "Die Los Encinos Tunnels sind eine Tunnel-Attraktion in Querétaro.",
+                  "text": "Eine Reihe von Tunneln, die durch eichenbewachsene Hügel führen und Teil einer historischen Eisenbahnstrecke sind.",
                   "category": "landmark",
                   "coords": [
                         -100.266097,
@@ -10422,7 +10422,7 @@ export const mexicoEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Monumento UM",
-                  "text": "A Monumento UM egy emlékmű Querétaróban.",
+                  "text": "Egy emlékmű, amelyen az 'UM' betűk láthatók, a querétarói intermodális terminál terén.",
                   "category": "historical",
                   "coords": [
                         -100.276542,
@@ -10431,7 +10431,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Tuneles los Encinos",
-                  "text": "A Los Encinos Tunnels egy alagút-látványosság Querétaróban.",
+                  "text": "Tölgyes dombokon átvezető alagútsorozat, amely egy történelmi vasútvonal része.",
                   "category": "landmark",
                   "coords": [
                         -100.266097,
@@ -10442,7 +10442,7 @@ export const mexicoEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Monumento UM",
-                  "text": "Monumento UM este un monument în Querétaro.",
+                  "text": "Un monument cu literele 'UM' pe o piață din Terminalul Intermodal Querétaro.",
                   "category": "historical",
                   "coords": [
                         -100.276542,
@@ -10451,7 +10451,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Tuneles los Encinos",
-                  "text": "Los Encinos Tunnels sunt o atracție de tuneluri în Querétaro.",
+                  "text": "O serie de tuneluri săpate prin dealuri acoperite de stejari, parte a unui drum de fier istoric.",
                   "category": "landmark",
                   "coords": [
                         -100.266097,
@@ -10462,7 +10462,7 @@ export const mexicoEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Monumento UM",
-                  "text": "Monumento UM is a monument in Querétaro.",
+                  "text": "A monument featuring the letters 'UM' in a plaza at the Intermodal Terminal Querétaro.",
                   "category": "historical",
                   "coords": [
                         -100.276542,
@@ -10471,7 +10471,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Los Encinos Tunnels",
-                  "text": "Los Encinos Tunnels is a tunnel attraction in Querétaro.",
+                  "text": "A series of tunnels carved through oak-covered hills, part of a historic railway line.",
                   "category": "landmark",
                   "coords": [
                         -100.266097,
@@ -10537,7 +10537,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo de historia",
-                  "text": "Ein Geschichtsmuseum in Mexiko-Stadt.",
+                  "text": "Ein lokales Geschichtsmuseum in einem ehemaligen Gasanlagengebäude, das regionale Artefakte zeigt.",
                   "category": "museum",
                   "coords": [
                         -93.377111,
@@ -10546,7 +10546,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro al aire libre",
-                  "text": "Ein Freilichttheater in Mexiko-Stadt.",
+                  "text": "Ein Freilufttheater mit terrassierten Sitzplätzen, umgeben von Kakteengärten.",
                   "category": "cultural",
                   "coords": [
                         -93.368761,
@@ -10566,7 +10566,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo de historia",
-                  "text": "Történeti múzeum Mexikóvárosban.",
+                  "text": "Helytörténeti múzeum egy egykori gázüzem épületében, regionális tárgyakkal.",
                   "category": "museum",
                   "coords": [
                         -93.377111,
@@ -10575,7 +10575,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro al aire libre",
-                  "text": "Szabadtéri színház Mexikóvárosban.",
+                  "text": "Szabadtéri színház teraszos ülőhelyekkel, kaktuszkertekkel körülvéve.",
                   "category": "cultural",
                   "coords": [
                         -93.368761,
@@ -10595,7 +10595,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo de historia",
-                  "text": "Un muzeu de istorie în Ciudad de México.",
+                  "text": "Un muzeu de istorie locală într-o fostă clădire a uzinei de gaz, cu artefacte regionale.",
                   "category": "museum",
                   "coords": [
                         -93.377111,
@@ -10604,7 +10604,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro al aire libre",
-                  "text": "Un teatru în aer liber în Ciudad de México.",
+                  "text": "Un teatru în aer liber cu locuri în trepte, înconjurat de grădini de cactuși.",
                   "category": "cultural",
                   "coords": [
                         -93.368761,
@@ -10624,7 +10624,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Museo de historia",
-                  "text": "A history museum in Mexico City.",
+                  "text": "A local history museum housed in a former gas plant building, displaying regional artifacts.",
                   "category": "museum",
                   "coords": [
                         -93.377111,
@@ -10633,7 +10633,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro al aire libre",
-                  "text": "An open-air theatre in Mexico City.",
+                  "text": "An open-air theater with tiered seating, surrounded by cactus gardens.",
                   "category": "cultural",
                   "coords": [
                         -93.368761,
@@ -10690,7 +10690,7 @@ export const mexicoEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Ex-Hacienda Sihoplaya",
-                  "text": "Ruinen einer ehemaligen Hacienda in Seybaplaya.",
+                  "text": "Die Ruinen einer kolonialzeitlichen Hazienda nahe dem Hafen von Seybaplaya mit verwitterten Steinmauern.",
                   "category": "historical",
                   "coords": [
                         -90.704585,
@@ -10699,7 +10699,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Costa Blanca",
-                  "text": "Ein Strand in Seybaplaya.",
+                  "text": "Ein weißer Sandstrand an der Golfküste, beliebt zum Schwimmen und Sonnenbaden in Seybaplaya.",
                   "category": "recreational",
                   "coords": [
                         -90.704416,
@@ -10708,7 +10708,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Xpicob",
-                  "text": "Ein Strand in Seybaplaya.",
+                  "text": "Eine ruhige Lagune mit klarem Wasser, ideal zum Kajakfahren und zur Vogelbeobachtung in Seybaplaya.",
                   "category": "recreational",
                   "coords": [
                         -90.667601,
@@ -10717,7 +10717,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "El Sombrerón",
-                  "text": "Ein Badeort in Seybaplaya.",
+                  "text": "Eine große sombreroförmige Felsformation direkt am Strand von Seybaplaya.",
                   "category": "recreational",
                   "coords": [
                         -90.684794,
@@ -10726,7 +10726,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Payucán",
-                  "text": "Ein Badeort in Seybaplaya.",
+                  "text": "Ein Mangrovenwald mit Holzstegen, der Spaziergänge inmitten der Natur in Seybaplaya ermöglicht.",
                   "category": "recreational",
                   "coords": [
                         -90.703455,
@@ -10735,7 +10735,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Parador Fotografico Cultural \"Dzaptún\"",
-                  "text": "Ein kultureller Fotohalt in Seybaplaya.",
+                  "text": "Ein kultureller Aussichtspunkt mit einer Fotoplattform, die einen Blick auf die Küste von Seybaplaya bietet.",
                   "category": "landmark",
                   "coords": [
                         -90.68845,
@@ -10744,7 +10744,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Monumento a Cristo Rey",
-                  "text": "Ein Denkmal für Christus den König in Seybaplaya.",
+                  "text": "Eine große Christus-König-Statue mit ausgebreiteten Armen, die den Hafen von Seybaplaya überblickt.",
                   "category": "historical",
                   "coords": [
                         -90.685978,
@@ -10753,7 +10753,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Monumento Solidaridad",
-                  "text": "Ein Solidaritätsdenkmal in Seybaplaya.",
+                  "text": "Ein Denkmal der Solidarität, dargestellt durch ineinandergreifende Hände aus Bronze in Seybaplaya.",
                   "category": "historical",
                   "coords": [
                         -90.672186,
@@ -10762,7 +10762,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Faro del Morro",
-                  "text": "Ein Leuchtturm in Seybaplaya.",
+                  "text": "Ein historischer Leuchtturm auf einer felsigen Landzunge, der Schiffe am Hafen von Seybaplaya leitet.",
                   "category": "landmark",
                   "coords": [
                         -90.7061,
@@ -10773,7 +10773,7 @@ export const mexicoEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Ex-Hacienda Sihoplaya",
-                  "text": "Egykori hacienda romjai Seybaplayában.",
+                  "text": "Egy gyarmati kori hacienda romjai a Seybaplaya-i kikötő közelében, kopott kőfalakkal.",
                   "category": "historical",
                   "coords": [
                         -90.704585,
@@ -10782,7 +10782,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Costa Blanca",
-                  "text": "Egy strand Seybaplayában.",
+                  "text": "Fehér homokos tengerpart a Golf-parton, népszerű úszásra és napozásra Seybaplayában.",
                   "category": "recreational",
                   "coords": [
                         -90.704416,
@@ -10791,7 +10791,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Xpicob",
-                  "text": "Egy strand Seybaplayában.",
+                  "text": "Csendes lagúna tiszta vízzel, ideális kajakozáshoz és madármegfigyeléshez Seybaplayában.",
                   "category": "recreational",
                   "coords": [
                         -90.667601,
@@ -10800,7 +10800,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "El Sombrerón",
-                  "text": "Tengerparti üdülőhely Seybaplayában.",
+                  "text": "Egy nagy, sombrero alakú sziklaformáció közvetlenül a Seybaplaya-i strandon.",
                   "category": "recreational",
                   "coords": [
                         -90.684794,
@@ -10809,7 +10809,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Payucán",
-                  "text": "Tengerparti üdülőhely Seybaplayában.",
+                  "text": "Mangroveerdő fa sétányokkal, lehetővé téve a természetjárást Seybaplayában.",
                   "category": "recreational",
                   "coords": [
                         -90.703455,
@@ -10818,7 +10818,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Parador Fotografico Cultural \"Dzaptún\"",
-                  "text": "Kulturális fényképezőhely Seybaplayában.",
+                  "text": "Kulturális kilátópont fényképezőhelylyel, kilátással a Seybaplaya-i partra.",
                   "category": "landmark",
                   "coords": [
                         -90.68845,
@@ -10827,7 +10827,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Monumento a Cristo Rey",
-                  "text": "Krisztus Király emlékmű Seybaplayában.",
+                  "text": "Egy nagy Krisztus Király szobor kitárt karokkal, amely a Seybaplaya-i kikötőre tekint.",
                   "category": "historical",
                   "coords": [
                         -90.685978,
@@ -10836,7 +10836,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Monumento Solidaridad",
-                  "text": "Szolidaritás emlékmű Seybaplayában.",
+                  "text": "A szolidaritás emlékműve, egymásba fonódó bronz kezekkel ábrázolva Seybaplayában.",
                   "category": "historical",
                   "coords": [
                         -90.672186,
@@ -10845,7 +10845,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Faro del Morro",
-                  "text": "Világítótorony Seybaplayában.",
+                  "text": "Történelmi világítótorony egy sziklás földnyelven, amely a Seybaplaya-i kikötő hajóit irányítja.",
                   "category": "landmark",
                   "coords": [
                         -90.7061,
@@ -10856,7 +10856,7 @@ export const mexicoEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Ex-Hacienda Sihoplaya",
-                  "text": "Ruinele unei foste hacienda în Seybaplaya.",
+                  "text": "Ruinele unei haciende coloniale lângă portul Seybaplaya, cu ziduri de piatră erodate.",
                   "category": "historical",
                   "coords": [
                         -90.704585,
@@ -10865,7 +10865,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Costa Blanca",
-                  "text": "O plajă în Seybaplaya.",
+                  "text": "O plajă cu nisip alb pe coasta Golfului, populară pentru înot și plajă în Seybaplaya.",
                   "category": "recreational",
                   "coords": [
                         -90.704416,
@@ -10874,7 +10874,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Xpicob",
-                  "text": "O plajă în Seybaplaya.",
+                  "text": "O lagună liniștită cu apă limpede, ideală pentru caiac și observarea păsărilor în Seybaplaya.",
                   "category": "recreational",
                   "coords": [
                         -90.667601,
@@ -10883,7 +10883,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "El Sombrerón",
-                  "text": "O stațiune de plajă în Seybaplaya.",
+                  "text": "O formațiune mare de stâncă în formă de sombrero chiar pe plaja din Seybaplaya.",
                   "category": "recreational",
                   "coords": [
                         -90.684794,
@@ -10892,7 +10892,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Payucán",
-                  "text": "O stațiune de plajă în Seybaplaya.",
+                  "text": "O pădure de mangrove cu promenade din lemn, oferind plimbări în natură în Seybaplaya.",
                   "category": "recreational",
                   "coords": [
                         -90.703455,
@@ -10901,7 +10901,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Parador Fotografico Cultural \"Dzaptún\"",
-                  "text": "Un popas fotografic cultural în Seybaplaya.",
+                  "text": "Un punct de belvedere cultural cu o platformă foto, oferind vedere spre coasta Seybaplaya.",
                   "category": "landmark",
                   "coords": [
                         -90.68845,
@@ -10910,7 +10910,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Monumento a Cristo Rey",
-                  "text": "Un monument al lui Cristos Rege în Seybaplaya.",
+                  "text": "O statuie mare a lui Hristos Regele cu brațele deschise, privind portul Seybaplaya.",
                   "category": "historical",
                   "coords": [
                         -90.685978,
@@ -10919,7 +10919,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Monumento Solidaridad",
-                  "text": "Un monument al solidarității în Seybaplaya.",
+                  "text": "Un monument al solidarității, reprezentat de mâini de bronz împletite în Seybaplaya.",
                   "category": "historical",
                   "coords": [
                         -90.672186,
@@ -10928,7 +10928,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Faro del Morro",
-                  "text": "Un far în Seybaplaya.",
+                  "text": "Un far istoric pe o promontoriu stâncos, ghidând navele în portul Seybaplaya.",
                   "category": "landmark",
                   "coords": [
                         -90.7061,
@@ -10939,7 +10939,7 @@ export const mexicoEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Ex-Hacienda Sihoplaya",
-                  "text": "Ruins of a former hacienda in Seybaplaya.",
+                  "text": "The ruins of a colonial-era hacienda near Seybaplaya port, with weathered stone walls.",
                   "category": "historical",
                   "coords": [
                         -90.704585,
@@ -10948,7 +10948,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Costa Blanca",
-                  "text": "A beach in Seybaplaya.",
+                  "text": "A white-sand beach along the Gulf coast, popular for swimming and sunbathing in Seybaplaya.",
                   "category": "recreational",
                   "coords": [
                         -90.704416,
@@ -10957,7 +10957,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Xpicob",
-                  "text": "A beach in Seybaplaya.",
+                  "text": "A calm lagoon with clear water, ideal for kayaking and birdwatching in Seybaplaya.",
                   "category": "recreational",
                   "coords": [
                         -90.667601,
@@ -10966,7 +10966,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "El Sombrerón",
-                  "text": "A beach resort in Seybaplaya.",
+                  "text": "A large sombrero-shaped rock formation right on the beach in Seybaplaya.",
                   "category": "recreational",
                   "coords": [
                         -90.684794,
@@ -10975,7 +10975,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Payucán",
-                  "text": "A beach resort in Seybaplaya.",
+                  "text": "A mangrove forest with wooden boardwalks for nature walks in Seybaplaya.",
                   "category": "recreational",
                   "coords": [
                         -90.703455,
@@ -10984,7 +10984,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Parador Fotografico Cultural \"Dzaptún\"",
-                  "text": "A cultural photographic stop in Seybaplaya.",
+                  "text": "A cultural viewpoint with a photographic lookout overlooking the Seybaplaya coast.",
                   "category": "landmark",
                   "coords": [
                         -90.68845,
@@ -10993,7 +10993,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Monumento a Cristo Rey",
-                  "text": "A monument to Christ the King in Seybaplaya.",
+                  "text": "A large Christ the King statue with outstretched arms overlooking the Seybaplaya port.",
                   "category": "historical",
                   "coords": [
                         -90.685978,
@@ -11002,7 +11002,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Monumento Solidaridad",
-                  "text": "A solidarity monument in Seybaplaya.",
+                  "text": "A monument to solidarity, depicted as interlocking bronze hands in Seybaplaya.",
                   "category": "historical",
                   "coords": [
                         -90.672186,
@@ -11011,7 +11011,7 @@ export const mexicoEconomicV2: POI[] = [
             },
             {
                   "name": "Faro del Morro",
-                  "text": "A lighthouse in Seybaplaya.",
+                  "text": "A historic lighthouse on a rocky headland, guiding ships at the Seybaplaya port.",
                   "category": "landmark",
                   "coords": [
                         -90.7061,

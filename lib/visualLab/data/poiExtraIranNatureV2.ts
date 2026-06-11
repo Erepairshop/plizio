@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraIranNatureV2: POI[] = [
   {
-    id: "mount-damavand-nature-v2",
+    id: "mount-damavand-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Heiße Quelle",
+                  "text": "Diese geothermische heiße Quelle liegt an den zerklüfteten Hängen des Berges Damavand und bietet warmes Mineralwasser mit Blick auf den höchsten Gipfel des Irans.",
+                  "category": "natural",
+                  "coords": [
+                        52.193478,
+                        35.90677
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Heiße Quelle",
+                  "text": "A Damavand-hegy zord lejtőin található geotermikus hőforrás meleg ásványvizet kínál, kilátással Irán legmagasabb csúcsára.",
+                  "category": "natural",
+                  "coords": [
+                        52.193478,
+                        35.90677
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Heiße Quelle",
+                  "text": "Situat pe versanții stâncoși ai Muntelui Damavand, acest izvor termal geotermal oferă ape minerale calde cu vedere la cel mai înalt vârf al Iranului.",
+                  "category": "natural",
+                  "coords": [
+                        52.193478,
+                        35.90677
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Heiße Quelle",
+                  "text": "Located on the rugged slopes of Mount Damavand, this geothermal hot spring offers warm mineral waters with views of Iran's highest peak.",
+                  "category": "natural",
+                  "coords": [
+                        52.193478,
+                        35.90677
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IR-02",
     coords: [52.1125, 35.9525],
@@ -132,7 +177,88 @@ export const poiExtraIranNatureV2: POI[] = [
       fr: ["Possède une longueur totale estimée à environ 950 kilomètres.", "Prend sa source dans les monts Zard-Kuh à plus de 4 000 mètres d'altitude.", "Est le seul fleuve d'Iran navigable pour les grands navires.", "La partie navigable s'étend sur 190 kilomètres jusqu'à Ahvaz.", "Le barrage Shahid Abbaspour sur le fleuve fournit d'importantes quantités d'électricité.", "La vallée du fleuve était le centre historique de l'ancien empire élamite.", "Se jette dans le Chatt-el-Arab à proximité de la frontière irakienne."],
     }, image: "/poi-images/karun-river-nature-v2.webp"},
   {
-    id: "golestan-national-park-nature-v2",
+    id: "golestan-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tafarohgah Abshar Jangal Golestan",
+                  "text": "Ein Erholungsgebiet am Rande des Golestan-Waldes mit einem malerischen Wasserfall.",
+                  "category": "recreational",
+                  "coords": [
+                        55.969229,
+                        37.373305
+                  ]
+            },
+            {
+                  "name": "Golestan-Nationalpark",
+                  "text": "Irans ältester Nationalpark beherbergt Persische Leoparden und eine große Artenvielfalt.",
+                  "category": "natural",
+                  "coords": [
+                        55.97171,
+                        37.401878
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tafarohgah Abshar Jangal Golestan",
+                  "text": "Pihenőhely a Golesztán-erdő szélén, egy festői vízeséssel.",
+                  "category": "recreational",
+                  "coords": [
+                        55.969229,
+                        37.373305
+                  ]
+            },
+            {
+                  "name": "Golestan National Park",
+                  "text": "Irán legrégebbi nemzeti parkja, amely perzsa leopárdoknak és gazdag élővilágnak ad otthont.",
+                  "category": "natural",
+                  "coords": [
+                        55.97171,
+                        37.401878
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tafarohgah Abshar Jangal Golestan",
+                  "text": "O zonă de recreere la marginea pădurii Golestan, cu o cascadă pitorească.",
+                  "category": "recreational",
+                  "coords": [
+                        55.969229,
+                        37.373305
+                  ]
+            },
+            {
+                  "name": "Golestan National Park",
+                  "text": "Cel mai vechi parc național din Iran, adăpost pentru leoparzii persani și o biodiversitate bogată.",
+                  "category": "natural",
+                  "coords": [
+                        55.97171,
+                        37.401878
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tafarohgah Abshar Jangal Golestan",
+                  "text": "A recreational area at the edge of the Golestan forest featuring a scenic waterfall.",
+                  "category": "recreational",
+                  "coords": [
+                        55.969229,
+                        37.373305
+                  ]
+            },
+            {
+                  "name": "Golestan National Park",
+                  "text": "Iran's oldest national park, home to Persian leopards and vast biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        55.97171,
+                        37.401878
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "IR-27",
     coords: [55.9333, 37.3833],
@@ -218,7 +344,52 @@ export const poiExtraIranNatureV2: POI[] = [
       fr: ["La zone forestière s'étend sur une longueur d'environ 850 kilomètres.", "Les forêts existent de manière continue depuis environ 25 à 50 millions d'années.", "Elles couvrent une superficie totale de près de 1,9 million d'hectares.", "Ont été officiellement inscrites au patrimoine mondial de l'UNESCO en 2019.", "Les précipitations annuelles peuvent atteindre 2 000 millimètres.", "Le hêtre d'Orient est l'une des essences les plus répandues.", "La région est un habitat important pour le léopard de Perse."],
     }, image: "/poi-images/hyrcanian-forests-nature-v2.webp"},
   {
-    id: "kavir-national-park-nature-v2",
+    id: "kavir-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kavir National Park",
+                  "text": "Eine ausgedehnte geschützte Ökozone im Nordiran, die wegen ihrer Tierwelt, darunter asiatische Geparde, oft als \"Klein-Afrika\" bezeichnet wird.",
+                  "category": "natural",
+                  "coords": [
+                        52.459038,
+                        34.647108
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kavir National Park",
+                  "text": "Egy hatalmas védett ökológiai övezet Észak-Iránban, amelyet az ázsiai gepárdhoz hasonló vadvilága miatt gyakran „Kis-Afrikának” is neveznek.",
+                  "category": "natural",
+                  "coords": [
+                        52.459038,
+                        34.647108
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kavir National Park",
+                  "text": "O vastă zonă ecologică protejată din nordul Iranului, adesea cunoscută sub numele de „Mica Africă” pentru fauna sa sălbatică, cum ar fi ghepardul asiatic.",
+                  "category": "natural",
+                  "coords": [
+                        52.459038,
+                        34.647108
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kavir National Park",
+                  "text": "A vast protected ecological zone in northern Iran often known as \"Little Africa\" for its wildlife like the Asiatic cheetah.",
+                  "category": "natural",
+                  "coords": [
+                        52.459038,
+                        34.647108
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "IR-23",
     coords: [52.5, 34.6667],
@@ -261,7 +432,124 @@ export const poiExtraIranNatureV2: POI[] = [
       fr: ["La zone protégée couvre une superficie totale d'environ 4 000 kilomètres carrés.", "Le parc national est situé à la bordure occidentale du désert Dasht-e Kavir.", "Offre un habitat vital au rare guépard d'Asie.", "La région s'étend sur des parties de quatre provinces iraniennes différentes.", "Le lac Namak se trouve immédiatement à la limite du parc.", "Les variations de température entre le jour et la nuit peuvent être extrêmement élevées.", "Constitue un refuge important pour l'onagre de Perse sauvage."],
     }, image: "/poi-images/kavir-national-park-nature-v2.webp"},
   {
-    id: "zayanderud-river-nature-v2",
+    id: "zayanderud-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chaharbagh School",
+                  "text": "Diese theologische Schule aus der Safawiden-Ära ist für ihre prächtige türkisgeflieste Kuppel und den weiten Innenhof bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        51.669105,
+                        32.651465
+                  ]
+            },
+            {
+                  "name": "Soltanzadeh Ansari Mosque",
+                  "text": "Eine muslimische Gebetsstätte im Zayanderud-Gebiet, die sich durch ihre traditionelle persische Moscheenarchitektur auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        51.66745,
+                        32.650853
+                  ]
+            },
+            {
+                  "name": "alhadi",
+                  "text": "Diese Moschee bietet den Bewohnern am Ufer des Zayanderud einen Ort für das tägliche Gebet.",
+                  "category": "landmark",
+                  "coords": [
+                        51.668599,
+                        32.648373
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chaharbagh School",
+                  "text": "Ez a szafavida-kori teológiai iskola pompás türkizkék csempézett kupolájáról és tágas belső udvaráról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        51.669105,
+                        32.651465
+                  ]
+            },
+            {
+                  "name": "Soltanzadeh Ansari Mosque",
+                  "text": "Muszlim imahely a Zajanderud-folyó térségében, amelyet hagyományos perzsa mecsetépítészet jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        51.66745,
+                        32.650853
+                  ]
+            },
+            {
+                  "name": "alhadi",
+                  "text": "Ez a mecset a napi imádságok helyszínét biztosítja a Zajanderud-folyó partján élők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        51.668599,
+                        32.648373
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chaharbagh School",
+                  "text": "Această școală teologică din epoca safavidă este cunoscută pentru cupola sa splendidă cu plăci de turcoaz și curtea interioară vastă.",
+                  "category": "religious",
+                  "coords": [
+                        51.669105,
+                        32.651465
+                  ]
+            },
+            {
+                  "name": "Soltanzadeh Ansari Mosque",
+                  "text": "Un lăcaș de rugăciune musulman în zona Zayanderud, caracterizat prin arhitectura tradițională a moscheilor persane.",
+                  "category": "landmark",
+                  "coords": [
+                        51.66745,
+                        32.650853
+                  ]
+            },
+            {
+                  "name": "alhadi",
+                  "text": "Această moschee oferă un loc pentru rugăciunile zilnice locuitorilor de pe malul râului Zayanderud.",
+                  "category": "landmark",
+                  "coords": [
+                        51.668599,
+                        32.648373
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chaharbagh School",
+                  "text": "This Safavid-era theological school is known for its magnificent turquoise-tiled dome and vast inner courtyard.",
+                  "category": "religious",
+                  "coords": [
+                        51.669105,
+                        32.651465
+                  ]
+            },
+            {
+                  "name": "Soltanzadeh Ansari Mosque",
+                  "text": "A Muslim prayer site in the Zayanderud area, characterized by traditional Persian mosque architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        51.66745,
+                        32.650853
+                  ]
+            },
+            {
+                  "name": "alhadi",
+                  "text": "This mosque provides a location for daily prayers for residents along the Zayanderud river.",
+                  "category": "landmark",
+                  "coords": [
+                        51.668599,
+                        32.648373
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "IR-14",
     coords: [51.6667, 32.65],
@@ -304,7 +592,52 @@ export const poiExtraIranNatureV2: POI[] = [
       fr: ["Atteint une longueur totale d'environ 400 km sur le plateau central.", "Prend sa source dans les monts Zard-Kuh à plusieurs milliers de mètres.", "Se jette dans le marais salé saisonnier du lac Gavkhouni.", "L'historique pont Khadjou a été construit au XVIIe siècle.", "Enjambé par le célèbre pont Si-o-se Pol et ses 33 arches.", "L'utilisation excessive de l'eau entraîne son assèchement fréquent en été.", "Était historiquement la source d'eau vitale pour le développement d'Ispahan."],
     }, image: "/poi-images/zayanderud-river-nature-v2.webp"},
   {
-    id: "mount-sabalan-nature-v2",
+    id: "mount-sabalan-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jeyran Gölı",
+                  "text": "Ein malerischer Hochgebirgssee an den Hängen des Vulkans Sabalan, der für sein kristallklares Wasser bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        47.836876,
+                        38.350248
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jeyran Gölı",
+                  "text": "Gleccsertó a Sabalan-vulkán lejtőin, amely kristálytiszta vizéről és festői magashegyi környezetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        47.836876,
+                        38.350248
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jeyran Gölı",
+                  "text": "Un lac montan pitoresc pe versanții vulcanului Sabalan, cunoscut pentru apa sa cristalină.",
+                  "category": "landmark",
+                  "coords": [
+                        47.836876,
+                        38.350248
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jeyran Gölı",
+                  "text": "A picturesque high-altitude lake on the slopes of the Sabalan volcano, known for its crystal-clear water.",
+                  "category": "landmark",
+                  "coords": [
+                        47.836876,
+                        38.350248
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IR-03",
     coords: [47.8344, 38.2683],
@@ -347,7 +680,160 @@ export const poiExtraIranNatureV2: POI[] = [
       fr: ["Atteint une altitude exacte de 4 811 mètres au-dessus du niveau de la mer.", "Est le troisième plus haut sommet à l'intérieur des frontières de l'Iran.", "Possède un lac de cratère permanent, gelé presque toute l'année.", "De nombreuses sources thermales minérales jaillissent des flancs.", "Situé principalement dans le territoire de la province d'Ardabil.", "Souvent vénéré comme montagne sacrée dans les traditions zoroastriennes.", "Les pâturages d'été sont utilisés par des tribus nomades traditionnelles."],
     }, image: "/poi-images/mount-sabalan-nature-v2.webp"},
   {
-    id: "zarivar-lake-nature-v2",
+    id: "zarivar-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zarivar Wildlife Refuge",
+                  "text": "Das Zarivar Wildlife Refuge schützt das vielfältige Ökosystem rund um den Zarivar-See und dient als wesentliches Brutgebiet für wandernde Wasservögel. Die ausgedehnten Schilfgürtel des Reservats bieten natürlichen Schutz für die aquatische Tierwelt der Region.",
+                  "category": "natural",
+                  "coords": [
+                        46.122726,
+                        35.543832
+                  ]
+            },
+            {
+                  "name": "Qods Mosque",
+                  "text": "Die in der Nähe des Zarivar-Sees gelegene Qods-Moschee dient der örtlichen islamischen Gemeinde mit einem speziellen Raum für die täglichen Gebete. Ihre Architektur umfasst ein markantes Minarett, das die Gläubigen zum Gebet ruft.",
+                  "category": "landmark",
+                  "coords": [
+                        46.191442,
+                        35.52225
+                  ]
+            },
+            {
+                  "name": "Mawlawi Mosque",
+                  "text": "Die Mawlawi-Moschee ist ein Zentrum der islamischen Andacht, das sich durch seinen gemeinsamen Gebetssaal auszeichnet, der den Bewohnern in der Nähe des Zarivar-Sees dient. Sie fungiert als wichtiger spiritueller Versammlungsort für den lokalen religiösen Diskurs.",
+                  "category": "landmark",
+                  "coords": [
+                        46.198896,
+                        35.51955
+                  ]
+            },
+            {
+                  "name": "Imam hasan mosque",
+                  "text": "Diese dem Imam Hasan gewidmete lokale muslimische Moschee bietet einen ruhigen Rahmen für die tägliche Versammlung. Sie verankert das spirituelle Leben der nahegelegenen Gemeinde mit regelmäßigen islamischen Gottesdiensten.",
+                  "category": "landmark",
+                  "coords": [
+                        46.182671,
+                        35.514209
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zarivar Wildlife Refuge",
+                  "text": "A Zarivar Vadvédelmi Terület a Zarivar-tó körüli változatos ökoszisztémát védi, és a vándorló vízimadarak alapvető költőhelyeként szolgál. A rezervátum kiterjedt nádasai természetes menedéket nyújtanak a régió vízi vadvilága számára.",
+                  "category": "natural",
+                  "coords": [
+                        46.122726,
+                        35.543832
+                  ]
+            },
+            {
+                  "name": "Qods Mosque",
+                  "text": "A Zarivar-tó környékén található Qods-mecset a helyi iszlám közösséget szolgálja a napi imáknak szentelt hellyel. Építészete magában foglal egy jellegzetes minaretet, amely istentiszteletre hívja a hívőket.",
+                  "category": "landmark",
+                  "coords": [
+                        46.191442,
+                        35.52225
+                  ]
+            },
+            {
+                  "name": "Mawlawi Mosque",
+                  "text": "A Mawlawi-mecset az iszlám áhítat központja, melyet a Zarivar-tó környéki lakosokat szolgáló közösségi imaterme tesz különlegessé. Fontos spirituális gyülekezőhelyként működik a helyi vallási diskurzusokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        46.198896,
+                        35.51955
+                  ]
+            },
+            {
+                  "name": "Imam hasan mosque",
+                  "text": "Az Imam Haszánnak szentelt helyi muszlim mecset nyugodt környezetet biztosít a napi gyülekezéshez. Rendszeres iszlám istentiszteletekkel horgonyozza le a közeli közösség spirituális életét.",
+                  "category": "landmark",
+                  "coords": [
+                        46.182671,
+                        35.514209
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zarivar Wildlife Refuge",
+                  "text": "Refugiul Faunei Sălbatice Zarivar protejează ecosistemul divers care înconjoară Lacul Zarivar, servind drept loc de reproducere esențial pentru păsările acvatice migratoare. Stufărișurile extinse ale rezervației oferă adăpost natural pentru fauna acvatică a regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        46.122726,
+                        35.543832
+                  ]
+            },
+            {
+                  "name": "Qods Mosque",
+                  "text": "Situată în apropierea zonei lacului Zarivar, Moscheea Qods servește comunitatea islamică locală cu un spațiu dedicat rugăciunilor zilnice. Arhitectura sa include un minaret distinctiv care cheamă credincioșii la închinare.",
+                  "category": "landmark",
+                  "coords": [
+                        46.191442,
+                        35.52225
+                  ]
+            },
+            {
+                  "name": "Mawlawi Mosque",
+                  "text": "Moscheea Mawlawi este un centru pentru devoțiunea islamică, remarcată prin sala sa de rugăciune comunitară care servește locuitorii din apropierea lacului Zarivar. Ea funcționează ca un loc important de adunare spirituală pentru discursul religios local.",
+                  "category": "landmark",
+                  "coords": [
+                        46.198896,
+                        35.51955
+                  ]
+            },
+            {
+                  "name": "Imam hasan mosque",
+                  "text": "Dedicată Imamului Hasan, această moschee musulmană locală oferă un cadru liniștit pentru congregația zilnică. Ea ancorează viața spirituală a comunității din apropiere cu slujbe islamice regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        46.182671,
+                        35.514209
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zarivar Wildlife Refuge",
+                  "text": "The Zarivar Wildlife Refuge protects the diverse ecosystem surrounding Zarivar Lake, serving as an essential breeding ground for migratory waterfowl. The reserve's extensive reed beds provide natural shelter for the region's aquatic wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        46.122726,
+                        35.543832
+                  ]
+            },
+            {
+                  "name": "Qods Mosque",
+                  "text": "Located near the Zarivar Lake area, the Qods Mosque serves the local Islamic community with a dedicated space for daily prayers. Its architecture includes a distinctive minaret that calls the faithful to worship.",
+                  "category": "landmark",
+                  "coords": [
+                        46.191442,
+                        35.52225
+                  ]
+            },
+            {
+                  "name": "Mawlawi Mosque",
+                  "text": "The Mawlawi Mosque is a center for Islamic devotion, distinguished by its community prayer hall serving residents near Zarivar Lake. It functions as an important spiritual gathering place for local religious discourse.",
+                  "category": "landmark",
+                  "coords": [
+                        46.198896,
+                        35.51955
+                  ]
+            },
+            {
+                  "name": "Imam hasan mosque",
+                  "text": "Dedicated to Imam Hasan, this local Muslim mosque provides a tranquil setting for daily congregation. It anchors the spiritual life of the nearby community with regular Islamic services.",
+                  "category": "landmark",
+                  "coords": [
+                        46.182671,
+                        35.514209
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "IR-12",
     coords: [46.126, 35.538],
@@ -433,7 +919,124 @@ export const poiExtraIranNatureV2: POI[] = [
       fr: ["La réserve couvre une superficie terrestre massive de plus de 14 000 kilomètres carrés.", "A été officiellement reconnue par l'UNESCO comme une importante réserve de biosphère.", "Les précipitations annuelles dans la région sont souvent inférieures à 150 millimètres.", "Abrite la plus grande population connue de guépards d'Asie, une espèce en grand danger.", "Constitue un habitat majeur pour de grands troupeaux d'onagres de Perse.", "Situé dans la partie sud-est de la province de Semnan, en bordure du désert.", "La structure du paysage est dominée par de vastes étendues salines et des dunes de sable sec."],
     }, image: "/poi-images/khar-turan-national-park-nature-v2.webp"},
   {
-    id: "mount-tochal-nature-v2",
+    id: "mount-tochal-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tochal",
+                  "text": "Ein markanter Gipfel im Alborz-Gebirge, der durch eine der längsten Kabinenseilbahnen der Welt erschlossen wird und als beliebtes Skigebiet dient.",
+                  "category": "natural",
+                  "coords": [
+                        51.419877,
+                        35.884349
+                  ]
+            },
+            {
+                  "name": "Bazarak",
+                  "text": "Ein hoher Gipfel im zentralen Alborz-Massiv, der Wanderern einen weiten Blick über die Berglandschaft nördlich von Teheran bietet.",
+                  "category": "natural",
+                  "coords": [
+                        51.358731,
+                        35.910132
+                  ]
+            },
+            {
+                  "name": "Qal'eh Dokhtar",
+                  "text": "Dieser nach einer historischen Festung benannte Gipfel im Alborz-Gebirge ist ein beliebtes Ziel für Bergsteiger in der Nähe von Teheran.",
+                  "category": "natural",
+                  "coords": [
+                        51.40522,
+                        35.961762
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tochal",
+                  "text": "Az Alborz-hegység egyik kiemelkedő csúcsa, amely a világ egyik leghosszabb kabinos felvonójával érhető el, és népszerű síterepként szolgál.",
+                  "category": "natural",
+                  "coords": [
+                        51.419877,
+                        35.884349
+                  ]
+            },
+            {
+                  "name": "Bazarak",
+                  "text": "A központi Alborz-masszívum egyik magas csúcsa, amely tágas kilátást nyújt a túrázóknak a Teherántól északra fekvő hegyvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        51.358731,
+                        35.910132
+                  ]
+            },
+            {
+                  "name": "Qal'eh Dokhtar",
+                  "text": "Ez a történelmi erődről elnevezett csúcs az Alborz-hegységben a hegymászók kedvelt célpontja Teherán közelében.",
+                  "category": "natural",
+                  "coords": [
+                        51.40522,
+                        35.961762
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tochal",
+                  "text": "Un vârf proeminent din munții Alborz, deservit de una dintre cele mai lungi linii de telegondolă din lume și folosit ca stațiune populară de schi.",
+                  "category": "natural",
+                  "coords": [
+                        51.419877,
+                        35.884349
+                  ]
+            },
+            {
+                  "name": "Bazarak",
+                  "text": "Un vârf înalt din masivul central Alborz, care oferă drumeților o vedere panoramică asupra peisajului montan de la nord de Teheran.",
+                  "category": "natural",
+                  "coords": [
+                        51.358731,
+                        35.910132
+                  ]
+            },
+            {
+                  "name": "Qal'eh Dokhtar",
+                  "text": "Acest vârf din munții Alborz, numit după o fortăreață istorică, este o destinație populară pentru alpiniști în apropiere de Teheran.",
+                  "category": "natural",
+                  "coords": [
+                        51.40522,
+                        35.961762
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tochal",
+                  "text": "A prominent peak in the Alborz mountain range reached by one of the world's longest gondola lifts and serving as a popular ski resort.",
+                  "category": "natural",
+                  "coords": [
+                        51.419877,
+                        35.884349
+                  ]
+            },
+            {
+                  "name": "Bazarak",
+                  "text": "A high peak in the central Alborz massif, offering hikers wide views over the mountain landscape north of Tehran.",
+                  "category": "natural",
+                  "coords": [
+                        51.358731,
+                        35.910132
+                  ]
+            },
+            {
+                  "name": "Qal'eh Dokhtar",
+                  "text": "Named after a historic fortress, this peak in the Alborz range is a popular destination for mountaineers near Tehran.",
+                  "category": "natural",
+                  "coords": [
+                        51.40522,
+                        35.961762
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IR-21",
     coords: [51.416, 35.883],
@@ -519,7 +1122,88 @@ export const poiExtraIranNatureV2: POI[] = [
       fr: ["La zone protégée s'étend sur une superficie de 73 500 hectares.", "A été officiellement désigné parc national de l'Iran en 1976.", "Le réservoir fournit de grandes quantités d'eau potable à Téhéran.", "Les pentes sont réputées pour leurs coquelicots rouges à la fin du printemps.", "L'eau froide des montagnes offre un habitat idéal pour la truite fario.", "Les routes d'accès sont souvent fermées en hiver par des mètres de neige.", "Le parc borde directement les contreforts du massif du mont Damavand."],
     }, image: "/poi-images/lar-national-park-nature-v2.webp"},
   {
-    id: "alimastan-forest-nature-v2",
+    id: "alimastan-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Siah Bisheh No Hunting Area",
+                  "text": "Das Siah Bisheh No Hunting Area im Alimastan-Wald ist ein bewaldetes Schutzgebiet, das der Bewahrung der empfindlichen Flora und Fauna der Bergregion dient.",
+                  "category": "natural",
+                  "coords": [
+                        52.394975,
+                        36.093673
+                  ]
+            },
+            {
+                  "name": "Emamzade Ghassem",
+                  "text": "Das Mausoleum Emamzade Ghassem im Naturgebiet des Alimastan-Waldes ist ein von Bäumen umgebener islamischer Schrein.",
+                  "category": "landmark",
+                  "coords": [
+                        52.414103,
+                        36.151252
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Siah Bisheh No Hunting Area",
+                  "text": "Az Alimastan-erdőben található Siah Bisheh vadászati tilalmi övezet egy fás szárú természetvédelmi terület, amely a hegyvidéki régió érzékeny növény- és állatvilágát védi.",
+                  "category": "natural",
+                  "coords": [
+                        52.394975,
+                        36.093673
+                  ]
+            },
+            {
+                  "name": "Emamzade Ghassem",
+                  "text": "Az Alimastan-erdő természeti környezetében fekvő Emamzade Ghassem mauzóleum egy fákkal körülvett, történelmi iszlám szentély.",
+                  "category": "landmark",
+                  "coords": [
+                        52.414103,
+                        36.151252
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Siah Bisheh No Hunting Area",
+                  "text": "Zona interzisă vânătorii Siah Bisheh din Pădurea Alimastan este o rezervație împădurită destinată conservării florei și faunei montane sensibile.",
+                  "category": "natural",
+                  "coords": [
+                        52.394975,
+                        36.093673
+                  ]
+            },
+            {
+                  "name": "Emamzade Ghassem",
+                  "text": "Mausoleul Emamzade Ghassem din zona naturală a Pădurii Alimastan este un sanctuar islamic izolat, înconjurat de arbori.",
+                  "category": "landmark",
+                  "coords": [
+                        52.414103,
+                        36.151252
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Siah Bisheh No Hunting Area",
+                  "text": "The Siah Bisheh No Hunting Area in the Alimastan Forest is a wooded reserve dedicated to preserving the fragile flora and fauna of the mountainous region.",
+                  "category": "natural",
+                  "coords": [
+                        52.394975,
+                        36.093673
+                  ]
+            },
+            {
+                  "name": "Emamzade Ghassem",
+                  "text": "The Emamzade Ghassem mausoleum, set within the natural surroundings of the Alimastan Forest, is an Islamic shrine shaded by surrounding trees.",
+                  "category": "landmark",
+                  "coords": [
+                        52.414103,
+                        36.151252
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "IR-10",
     coords: [52.383, 36.116],
@@ -562,7 +1246,88 @@ export const poiExtraIranNatureV2: POI[] = [
       fr: ["Fait partie de l'écorégion des forêts hyrcaniennes historiques du nord de l'Iran.", "Les itinéraires de randonnée typiques commencent à une altitude d'environ 1 500 mètres.", "Situé dans la province montagneuse de Mazandéran, près de la ville d'Amol.", "Nommé d'après la plante sauvage comestible Alima, qui pousse au printemps.", "Offre une vue dégagée sur le sommet du Damavand depuis la crête de la montagne.", "Le microclimat engendre souvent un brouillard extrêmement dense et des températures fraîches.", "En automne, la forêt est célèbre pour la coloration intense et chatoyante de son feuillage."],
     }, image: "/poi-images/alimastan-forest-nature-v2.webp"},
   {
-    id: "hara-forests-nature-v2",
+    id: "hara-forests-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hara Jungle",
+                  "text": "Ein ausgedehnter Mangrovenwald im Salzwasser des Persischen Golfs, der per Boot erkundet werden kann.",
+                  "category": "landmark",
+                  "coords": [
+                        55.80346,
+                        26.822703
+                  ]
+            },
+            {
+                  "name": "Naderi Castle",
+                  "text": "Ruinen einer Festung aus der Safawiden-Zeit auf einem Hügel mit Blick auf den Hafen von Laft.",
+                  "category": "historical",
+                  "coords": [
+                        55.761951,
+                        26.893779
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hara Jungle",
+                  "text": "Kiterjedt mangroveerdő a Perzsa-öböl sós vizében, amely csónakkal fedezhető fel.",
+                  "category": "landmark",
+                  "coords": [
+                        55.80346,
+                        26.822703
+                  ]
+            },
+            {
+                  "name": "Naderi Castle",
+                  "text": "Egy szafavida-kori erőd romjai egy dombon, kilátással Laft kikötőjére.",
+                  "category": "historical",
+                  "coords": [
+                        55.761951,
+                        26.893779
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hara Jungle",
+                  "text": "O pădure întinsă de mangrove în apele sărate ale Golfului Persic, care poate fi explorată cu barca.",
+                  "category": "landmark",
+                  "coords": [
+                        55.80346,
+                        26.822703
+                  ]
+            },
+            {
+                  "name": "Naderi Castle",
+                  "text": "Ruinele unei cetăți din epoca Safavidă pe un deal care domină portul Laft.",
+                  "category": "historical",
+                  "coords": [
+                        55.761951,
+                        26.893779
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hara Jungle",
+                  "text": "An extensive mangrove forest in the salt waters of the Persian Gulf, exploreable by boat.",
+                  "category": "landmark",
+                  "coords": [
+                        55.80346,
+                        26.822703
+                  ]
+            },
+            {
+                  "name": "Naderi Castle",
+                  "text": "Ruins of a Safavid-era fortress on a hill overlooking the harbor of Laft.",
+                  "category": "historical",
+                  "coords": [
+                        55.761951,
+                        26.893779
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "IR-22",
     coords: [55.733, 26.833],
@@ -605,7 +1370,160 @@ export const poiExtraIranNatureV2: POI[] = [
       fr: ["La zone de mangroves protégée s'étend sur environ 20 000 hectares.", "A été déclarée réserve de biosphère par l'UNESCO en reconnaissance de son importance écologique.", "Les racines des arbres s'enfoncent généralement de trois à six mètres dans le sol.", "Sert de lieu de repos et de nidification pour plus de 100 espèces d'oiseaux migrateurs différentes.", "Les palétuviers ont la capacité biologique de dessaler l'eau de mer.", "À marée haute, les arbres sont presque immergés jusqu'à la cime.", "Situé au large de la côte nord de la grande île iranienne de Qeshm."],
     }, image: "/poi-images/hara-forests-nature-v2.webp"},
   {
-    id: "sefid-rud-nature-v2",
+    id: "sefid-rud-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stone bridge",
+                  "text": "Eine historische Steinbrücke, die den Fluss Sefid-Rud überspannt und ein Zeugnis alter Baukunst in der Region ist.",
+                  "category": "landmark",
+                  "coords": [
+                        49.968181,
+                        37.442964
+                  ]
+            },
+            {
+                  "name": "Ezhdeha Balouch No Hunting Area",
+                  "text": "Dieses Schutzgebiet ist ein Rückzugsort für Wildtiere in der Nähe des Kaspischen Meeres, wo die Jagd streng verboten ist.",
+                  "category": "natural",
+                  "coords": [
+                        49.864725,
+                        37.397636
+                  ]
+            },
+            {
+                  "name": "Boujagh National Park",
+                  "text": "Dieser Nationalpark am Delta des Sefid-Rud umfasst wichtige Feuchtgebiete und Lagunen für Wasservögel.",
+                  "category": "natural",
+                  "coords": [
+                        49.934924,
+                        37.454377
+                  ]
+            },
+            {
+                  "name": "Safrabasteh Forest",
+                  "text": "Dieser Wald ist berühmt für seine Straße, die von hohen Erlen gesäumt ist und einen natürlichen grünen Tunnel bildet.",
+                  "category": "landmark",
+                  "coords": [
+                        49.962298,
+                        37.341319
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stone bridge",
+                  "text": "Történelmi kőhíd a Sefid-Rud folyó felett, amely a régió ősi mérnöki tudásának emléke.",
+                  "category": "landmark",
+                  "coords": [
+                        49.968181,
+                        37.442964
+                  ]
+            },
+            {
+                  "name": "Ezhdeha Balouch No Hunting Area",
+                  "text": "Ez a védett terület a Kaszpi-tenger közeli vadvilág menedéke, ahol a vadászat szigorúan tilos.",
+                  "category": "natural",
+                  "coords": [
+                        49.864725,
+                        37.397636
+                  ]
+            },
+            {
+                  "name": "Boujagh National Park",
+                  "text": "A Sefid-Rud deltájánál fekvő nemzeti park fontos mocsaras területeket és lagúnákat foglal magában a vízimadarak számára.",
+                  "category": "natural",
+                  "coords": [
+                        49.934924,
+                        37.454377
+                  ]
+            },
+            {
+                  "name": "Safrabasteh Forest",
+                  "text": "Ez az erdő a magas égerekkel szegélyezett útjáról híres, amely természetes zöld alagutat alkot.",
+                  "category": "landmark",
+                  "coords": [
+                        49.962298,
+                        37.341319
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stone bridge",
+                  "text": "Un pod istoric din piatră care traversează râul Sefid-Rud, fiind o mărturie a ingineriei antice din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        49.968181,
+                        37.442964
+                  ]
+            },
+            {
+                  "name": "Ezhdeha Balouch No Hunting Area",
+                  "text": "Această zonă protejată este un refugiu pentru viața sălbatică de lângă Marea Caspică, unde vânătoarea este strict interzisă.",
+                  "category": "natural",
+                  "coords": [
+                        49.864725,
+                        37.397636
+                  ]
+            },
+            {
+                  "name": "Boujagh National Park",
+                  "text": "Acest parc național de la delta Sefid-Rud cuprinde zone umede și lagune vitale pentru păsările de apă.",
+                  "category": "natural",
+                  "coords": [
+                        49.934924,
+                        37.454377
+                  ]
+            },
+            {
+                  "name": "Safrabasteh Forest",
+                  "text": "Această pădure este celebră pentru drumul său mărginit de arini înalți, care formează un tunel verde natural.",
+                  "category": "landmark",
+                  "coords": [
+                        49.962298,
+                        37.341319
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stone bridge",
+                  "text": "A historical stone bridge spanning the Sefid-Rud river, standing as a testament to ancient engineering in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        49.968181,
+                        37.442964
+                  ]
+            },
+            {
+                  "name": "Ezhdeha Balouch No Hunting Area",
+                  "text": "This protected area is a sanctuary for wildlife near the Caspian Sea, where hunting is strictly prohibited.",
+                  "category": "natural",
+                  "coords": [
+                        49.864725,
+                        37.397636
+                  ]
+            },
+            {
+                  "name": "Boujagh National Park",
+                  "text": "This national park at the Sefid-Rud delta encompasses vital wetlands and lagoons for waterfowl.",
+                  "category": "natural",
+                  "coords": [
+                        49.934924,
+                        37.454377
+                  ]
+            },
+            {
+                  "name": "Safrabasteh Forest",
+                  "text": "This forest is famous for its road lined with tall alders, forming a natural green tunnel.",
+                  "category": "landmark",
+                  "coords": [
+                        49.962298,
+                        37.341319
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "IR-08",
     coords: [49.933, 37.4],
@@ -765,7 +1683,52 @@ export const poiExtraIranNatureV2: POI[] = [
       fr: ["Créé en 2007 comme le premier parc national marin officiel d'Iran.", "La zone protégée couvre une surface terrestre et marine de 42 000 hectares.", "Abrite d'importantes plages de nidification pour la tortue imbriquée.", "La baie de Nayband se distingue par ses eaux calmes et ses mangroves.", "La réserve est située sur la côte de la province méridionale de Bouchehr.", "De vastes récifs coralliens s'épanouissent dans les eaux côtières peu profondes.", "Borde géologiquement les installations industrielles gazières de South Pars."],
     }, image: "/poi-images/nayband-national-park-nature-v2.webp"},
   {
-    id: "alam-kuh-nature-v2",
+    id: "alam-kuh-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Odayzen",
+                  "text": "Ein kaskadenförmiger Bergwasserfall und eine Quelle in der Nähe des majestätischen Alam-Kuh-Gipfels.",
+                  "category": "landmark",
+                  "coords": [
+                        51.026725,
+                        36.322991
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Odayzen",
+                  "text": "Lépcsőzetes hegyi vízesés és forrás a fenséges Alam-Kuh csúcs közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        51.026725,
+                        36.322991
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Odayzen",
+                  "text": "O cascadă montană și un izvor situate în apropierea maiestuosului vârf Alam-Kuh.",
+                  "category": "landmark",
+                  "coords": [
+                        51.026725,
+                        36.322991
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Odayzen",
+                  "text": "A cascading mountain waterfall and spring located near the majestic Alam-Kuh peak.",
+                  "category": "landmark",
+                  "coords": [
+                        51.026725,
+                        36.322991
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IR-10",
     coords: [51.016, 36.366],
@@ -808,7 +1771,52 @@ export const poiExtraIranNatureV2: POI[] = [
       fr: ["Atteint une altitude maximale de 4 848 mètres au-dessus du niveau de la mer.", "Est officiellement le deuxième plus haut sommet à l'intérieur des frontières de l'Iran.", "La célèbre face nord abrupte en granit a une hauteur de plus de 800 mètres.", "La région abrite certains des rares glaciers iraniens subsistants.", "La face nord a été gravie avec succès pour la première fois dans les années 1930.", "Situé dans le massif de Takht-e Soleyman, dans la province septentrionale de Mazandéran.", "Désigné comme le centre de l'alpinisme du pays en raison de ses parois abruptes."],
     }, image: "/poi-images/alam-kuh-nature-v2.webp"},
   {
-    id: "sisangan-national-park-nature-v2",
+    id: "sisangan-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Si Sangan Beach",
+                  "text": "Dieser Sandstrand an der Küste des Kaspischen Meeres bietet eine malerische Uferlinie neben den dichten Wäldern des Sisangan-Nationalparks.",
+                  "category": "recreational",
+                  "coords": [
+                        51.806715,
+                        36.584551
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Si Sangan Beach",
+                  "text": "Ez a Kaszpi-tenger partján fekvő homokos strand festői partszakaszt kínál a Sisangan Nemzeti Park sűrű erdei mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        51.806715,
+                        36.584551
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Si Sangan Beach",
+                  "text": "Această plajă de nisip de-a lungul coastei Mării Caspice oferă un țărm pitoresc lângă pădurile dense ale Parcului Național Sisangan.",
+                  "category": "recreational",
+                  "coords": [
+                        51.806715,
+                        36.584551
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Si Sangan Beach",
+                  "text": "This sandy beach along the Caspian Sea coast provides a scenic shoreline beside the dense forests of Sisangan National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        51.806715,
+                        36.584551
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "IR-10",
     coords: [51.8, 36.566],

@@ -46,7 +46,52 @@ export const poiExtraKazakhstanHistoryV2: POI[] = [
       fr: ["Construit aux XIe-XIIe siècles sous les Qarakhanides.", "Plus de 60 types de motifs différents en terre cuite sur la façade.", "Légende d'Aïcha et du Khan Karakhan.", "Aïcha serait morte d'une morsure de serpent selon la légende.", "Restauration soviétique à partir de 1936.", "La région intègre l'Empire russe en 1731.", "A pris sa forme actuelle en 2002 (après l'indépendance de 1991).", "Situé à 18 km à l'ouest de la ville de Taraz."],
     }, image: "/poi-images/kz-aisha-bibi-mausoleum-history-v2.webp"},
   {
-    id: "kz-jochi-khan-mausoleum-history-v2",
+    id: "kz-jochi-khan-mausoleum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dombaul",
+                  "text": "Ein altes, jurtenförmiges Steinmausoleum in der Region Ulytau, das als eines der ältesten monumentalen Bauwerke in Kasachstan gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        67.844824,
+                        48.193371
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dombaul",
+                  "text": "Egy ősi, jurta alakú kőmauzóleum az Ulitau régióban, amely feltehetően Kazahsztán egyik legrégebbi monumentális építménye.",
+                  "category": "landmark",
+                  "coords": [
+                        67.844824,
+                        48.193371
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dombaul",
+                  "text": "Un vechi mausoleu de piatră în formă de iurtă din regiunea Ulytau, considerat a fi una dintre cele mai vechi structuri monumentale din Kazahstan.",
+                  "category": "landmark",
+                  "coords": [
+                        67.844824,
+                        48.193371
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dombaul",
+                  "text": "An ancient, yurt-shaped stone mausoleum in the Ulytau region, believed to be one of the oldest monumental structures in Kazakhstan.",
+                  "category": "landmark",
+                  "coords": [
+                        67.844824,
+                        48.193371
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "KZ-KAR",
     coords: [67.8183, 48.1563],
@@ -89,7 +134,52 @@ export const poiExtraKazakhstanHistoryV2: POI[] = [
       fr: ["Lieu de repos du fils aîné de Gengis Khan.", "Djötchi Khan est mort vers 1227.", "Érigé au XIIIe siècle dans la région d'Ulytau.", "Fondateur de l'Horde d'Or, qui a régné jusqu'au XVe siècle.", "Région passée sous souveraineté russe en 1731.", "Fouilles soviétiques dès 1946.", "Architecture classique en briques islamiques.", "Restauré après l'indépendance de 1991."],
     }, image: "/poi-images/kz-jochi-khan-mausoleum-history-v2.webp"},
   {
-    id: "kz-alzhir-memorial-history-v2",
+    id: "kz-alzhir-memorial-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rynok",
+                  "text": "Dieser Markt in der Nähe der historischen ALZHIR-Gedenkstätte bietet lokalen Händlern Platz, um Bewohner und Besucher mit dem Nötigsten zu versorgen.",
+                  "category": "cultural",
+                  "coords": [
+                        70.97596,
+                        51.0721
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rynok",
+                  "text": "A történelmi ALZHIR emlékmű közelében fekvő piac teret biztosít a helyi árusoknak, hogy alapvető élelmiszereket adjanak el a lakosoknak és a látogatóknak.",
+                  "category": "cultural",
+                  "coords": [
+                        70.97596,
+                        51.0721
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rynok",
+                  "text": "Situată lângă memorialul istoric ALZHIR, această piață oferă vânzătorilor locali un spațiu pentru a vinde provizii esențiale locuitorilor și vizitatorilor.",
+                  "category": "cultural",
+                  "coords": [
+                        70.97596,
+                        51.0721
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rynok",
+                  "text": "Situated near the historical ALZHIR memorial, this market offers local vendors a space to sell essential provisions to residents and visitors.",
+                  "category": "cultural",
+                  "coords": [
+                        70.97596,
+                        51.0721
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "KZ-AKM",
     coords: [71.0772, 51.0786],
@@ -132,7 +222,268 @@ export const poiExtraKazakhstanHistoryV2: POI[] = [
       fr: ["Le camp ALZHIR a fonctionné de 1937 à 1953.", "Plus de 18 000 femmes y ont été détenues.", "Faisait partie du système stalinien du Goulag.", "Situé à environ 30 km à l'ouest de la capitale Astana.", "Fermé après la mort de Staline en 1953.", "Le travail de mémoire a commencé après l'indépendance de 1991.", "Le mémorial a été inauguré en 2007.", "Astana a été proclamée capitale en 1997."],
     }, image: "/poi-images/kz-alzhir-memorial-history-v2.webp"},
   {
-    id: "kz-issyk-kurgan-history-v2",
+    id: "kz-issyk-kurgan-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Strausinaia ferma",
+                  "text": "Diese Straußenfarm ermöglicht es Besuchern, die großen flugunfähigen Vögel aus nächster Nähe in der kasachischen Landschaft zu beobachten.",
+                  "category": "landmark",
+                  "coords": [
+                        77.482632,
+                        43.447724
+                  ]
+            },
+            {
+                  "name": "Arkheologo-Kraevedcheskii muzei",
+                  "text": "Das Archäologische und Heimatmuseum stellt antike Artefakte aus, die in den nahegelegenen Issyk-Kurganen entdeckt wurden.",
+                  "category": "museum",
+                  "coords": [
+                        77.45053,
+                        43.368048
+                  ]
+            },
+            {
+                  "name": "<<Esik>> memlekettik tarikhi-m@deni muzei-k'oryg'y",
+                  "text": "Das Staatliche Historisch-Kulturelle Museumsreservat Issyk befasst sich mit dem reichen skythischen Erbe und der berühmten Entdeckung des Goldenen Mannes.",
+                  "category": "museum",
+                  "coords": [
+                        77.395991,
+                        43.391071
+                  ]
+            },
+            {
+                  "name": "Arka",
+                  "text": "Das Arka-Denkmal ist ein markanter architektonischer Torbogen, der die regionale Geschichte in Issyk würdigt.",
+                  "category": "historical",
+                  "coords": [
+                        77.391762,
+                        43.394966
+                  ]
+            },
+            {
+                  "name": "Sviato-Pokrovskii khram Presviatoi Bogoroditsy",
+                  "text": "Die Mariä-Schutz-und-Fürbitte-Kirche ist ein orthodoxes Gotteshaus, das mit traditionellen religiösen Fresken geschmückt ist.",
+                  "category": "religious",
+                  "coords": [
+                        77.464218,
+                        43.353832
+                  ]
+            },
+            {
+                  "name": "Tsentral'naia mechet'",
+                  "text": "Die Zentralmoschee dient der örtlichen muslimischen Gemeinde mit ihrem geräumigen Gebetssaal und dem markanten Minarett.",
+                  "category": "landmark",
+                  "coords": [
+                        77.464109,
+                        43.351582
+                  ]
+            },
+            {
+                  "name": "Amangel'dy",
+                  "text": "Die Amangeldy-Moschee zeichnet sich durch islamische Architekturdetails aus und bietet einen ruhigen Raum für die täglichen Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        77.448164,
+                        43.364061
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Strausinaia ferma",
+                  "text": "Ez a struccfarm lehetővé teszi a látogatók számára, hogy testközelből figyeljék meg a nagy röpképtelen madarakat a kazah vidéken.",
+                  "category": "landmark",
+                  "coords": [
+                        77.482632,
+                        43.447724
+                  ]
+            },
+            {
+                  "name": "Arkheologo-Kraevedcheskii muzei",
+                  "text": "A Régészeti és Helytörténeti Múzeum a közeli Iszik kurgánokból előkerült ősi leleteket állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        77.45053,
+                        43.368048
+                  ]
+            },
+            {
+                  "name": "<<Esik>> memlekettik tarikhi-m@deni muzei-k'oryg'y",
+                  "text": "Az Iszik Állami Történelmi és Kulturális Múzeum-Rezervátum a gazdag szkíta örökséget és az Aranyember híres felfedezését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        77.395991,
+                        43.391071
+                  ]
+            },
+            {
+                  "name": "Arka",
+                  "text": "Az Arka emlékmű egy kiemelkedő építészeti boltív, amely Iszik regionális történelmét ünnepli.",
+                  "category": "historical",
+                  "coords": [
+                        77.391762,
+                        43.394966
+                  ]
+            },
+            {
+                  "name": "Sviato-Pokrovskii khram Presviatoi Bogoroditsy",
+                  "text": "A Legszentebb Istenanya Oltalma templom egy ortodox templom, amelyet hagyományos vallási freskók díszítenek.",
+                  "category": "religious",
+                  "coords": [
+                        77.464218,
+                        43.353832
+                  ]
+            },
+            {
+                  "name": "Tsentral'naia mechet'",
+                  "text": "A Központi Mecset tágas imatermével és kiemelkedő minaretjével szolgálja a helyi muszlim közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        77.464109,
+                        43.351582
+                  ]
+            },
+            {
+                  "name": "Amangel'dy",
+                  "text": "Az Amangeldy mecset iszlám építészeti részletekkel rendelkezik, és csendes teret biztosít a napi imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        77.448164,
+                        43.364061
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Strausinaia ferma",
+                  "text": "Această fermă de struți permite vizitatorilor să observe îndeaproape marile păsări care nu zboară, în mediul rural kazah.",
+                  "category": "landmark",
+                  "coords": [
+                        77.482632,
+                        43.447724
+                  ]
+            },
+            {
+                  "name": "Arkheologo-Kraevedcheskii muzei",
+                  "text": "Muzeul Arheologic și de Istorie Locală expune artefacte antice descoperite în kurganele din apropiere de la Issyk.",
+                  "category": "museum",
+                  "coords": [
+                        77.45053,
+                        43.368048
+                  ]
+            },
+            {
+                  "name": "<<Esik>> memlekettik tarikhi-m@deni muzei-k'oryg'y",
+                  "text": "Rezervația-Muzeu de Stat Istoric și Cultural Issyk explorează bogata moștenire scitică și celebra descoperire a Omului de Aur.",
+                  "category": "museum",
+                  "coords": [
+                        77.395991,
+                        43.391071
+                  ]
+            },
+            {
+                  "name": "Arka",
+                  "text": "Monumentul Arka este o arcadă arhitecturală proeminentă care celebrează istoria regională în Issyk.",
+                  "category": "historical",
+                  "coords": [
+                        77.391762,
+                        43.394966
+                  ]
+            },
+            {
+                  "name": "Sviato-Pokrovskii khram Presviatoi Bogoroditsy",
+                  "text": "Biserica Acoperământul Maicii Domnului este un lăcaș de cult ortodox împodobit cu fresce religioase tradiționale.",
+                  "category": "religious",
+                  "coords": [
+                        77.464218,
+                        43.353832
+                  ]
+            },
+            {
+                  "name": "Tsentral'naia mechet'",
+                  "text": "Moscheea Centrală deservește comunitatea musulmană locală cu sala sa spațioasă de rugăciune și minaretul proeminent.",
+                  "category": "landmark",
+                  "coords": [
+                        77.464109,
+                        43.351582
+                  ]
+            },
+            {
+                  "name": "Amangel'dy",
+                  "text": "Moscheea Amangel'dy prezintă detalii arhitecturale islamice și oferă un spațiu liniștit pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        77.448164,
+                        43.364061
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Strausinaia ferma",
+                  "text": "This ostrich farm allows visitors to observe the large flightless birds up close in the Kazakh countryside.",
+                  "category": "landmark",
+                  "coords": [
+                        77.482632,
+                        43.447724
+                  ]
+            },
+            {
+                  "name": "Arkheologo-Kraevedcheskii muzei",
+                  "text": "The Archaeological and Local History Museum exhibits ancient artifacts uncovered from the nearby Issyk kurgans.",
+                  "category": "museum",
+                  "coords": [
+                        77.45053,
+                        43.368048
+                  ]
+            },
+            {
+                  "name": "State Historical-Cultural Museum-Reserve Issyk",
+                  "text": "The State Historical-Cultural Museum-Reserve Issyk explores the rich Scythian heritage and the famous discovery of the Golden Man.",
+                  "category": "museum",
+                  "coords": [
+                        77.395991,
+                        43.391071
+                  ]
+            },
+            {
+                  "name": "Arka",
+                  "text": "The Arka monument stands as a prominent architectural archway celebrating regional history in Issyk.",
+                  "category": "historical",
+                  "coords": [
+                        77.391762,
+                        43.394966
+                  ]
+            },
+            {
+                  "name": "Sviato-Pokrovskii khram Presviatoi Bogoroditsy",
+                  "text": "The Holy Protection Temple of the Holy Virgin is an Orthodox church adorned with traditional religious frescoes.",
+                  "category": "religious",
+                  "coords": [
+                        77.464218,
+                        43.353832
+                  ]
+            },
+            {
+                  "name": "Central Mosque",
+                  "text": "The Central Mosque serves the local Muslim community with its spacious prayer hall and prominent minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        77.464109,
+                        43.351582
+                  ]
+            },
+            {
+                  "name": "Amangel'dy",
+                  "text": "The Amangel'dy mosque features Islamic architectural details and provides a quiet space for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        77.448164,
+                        43.364061
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "KZ-ALM",
     coords: [77.3997, 43.4022],
@@ -175,7 +526,52 @@ export const poiExtraKazakhstanHistoryV2: POI[] = [
       fr: ["Fouillé en 1969 sous la direction de Kemal Akishev.", "Tombe d'un guerrier saka du IVe-Ve siècle av. J.-C.", "Le costume d'or comprend plus de 4 000 plaquettes.", "\"L'Homme d'or\" est devenu symbole national après 1991.", "Situé à 50 km à l'est d'Almaty.", "Les découvertes originales sont exposées à Astana.", "Le guerrier avait environ 18 ans à sa mort.", "La culture saka a fleuri bien avant l'ère mongole (XIIIe s.)."],
     }, image: "/poi-images/kz-issyk-kurgan-history-v2.webp"},
   {
-    id: "kz-beket-ata-history-v2",
+    id: "kz-beket-ata-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Beket-Ata",
+                  "text": "Beket-Ata ist eine außergewöhnliche unterirdische muslimische Moschee, die direkt in die Kalksteinfelsen gehauen wurde und als wichtiger historischer Pilgerort dient.",
+                  "category": "landmark",
+                  "coords": [
+                        54.081179,
+                        43.594791
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Beket-Ata",
+                  "text": "Beket-Ata egy rendkívüli földalatti muszlim mecset, amelyet közvetlenül a mészkősziklákba vájtak, és fontos történelmi zarándokhelyként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        54.081179,
+                        43.594791
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Beket-Ata",
+                  "text": "Beket-Ata este o extraordinară moschee musulmană subterană sculptată direct în stâncile de calcar, servind ca un important loc istoric de pelerinaj.",
+                  "category": "landmark",
+                  "coords": [
+                        54.081179,
+                        43.594791
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Beket-Ata",
+                  "text": "Beket-Ata is an extraordinary underground Muslim mosque carved directly into the limestone cliffs, serving as an important historic pilgrimage site.",
+                  "category": "landmark",
+                  "coords": [
+                        54.081179,
+                        43.594791
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "KZ-MAN",
     coords: [54.07, 43.59],
@@ -219,7 +615,52 @@ export const poiExtraKazakhstanHistoryV2: POI[] = [
     },
   },
   {
-    id: "kz-sauran-ruins-history-v2",
+    id: "kz-sauran-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sauran",
+                  "text": "Die Ruinen der mittelalterlichen Stadt Sauran sind für ihre ungewöhnlich gut erhaltenen Stadtmauern berühmt.",
+                  "category": "landmark",
+                  "coords": [
+                        67.772566,
+                        43.51862
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sauran",
+                  "text": "Szauran középkori városának romjai a szokatlanul jól megőrzött városfalairól híresek.",
+                  "category": "landmark",
+                  "coords": [
+                        67.772566,
+                        43.51862
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sauran",
+                  "text": "Ruinele orașului medieval Sauran sunt faimoase pentru zidurile sale de apărare neobișnuit de bine conservate.",
+                  "category": "landmark",
+                  "coords": [
+                        67.772566,
+                        43.51862
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sauran",
+                  "text": "The ruins of the medieval city of Sauran are famous for their unusually well-preserved city walls.",
+                  "category": "landmark",
+                  "coords": [
+                        67.772566,
+                        43.51862
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "KZ-YUZ",
     coords: [67.765, 43.515],
@@ -305,7 +746,124 @@ export const poiExtraKazakhstanHistoryV2: POI[] = [
       fr: ["Construit à l'origine au XIIe siècle.", "Reconstruit au XIVe siècle sous Timour (Tamerlan).", "Saint maître soufi de Khoja Ahmed Yasavi.", "Les pèlerins visitent d'abord Arystan Bab, puis Turkestan.", "Détruit à plusieurs reprises par des séismes.", "Colonnes caractéristiques en bois de mûrier.", "Pratique religieuse entravée à l'époque soviétique (1936).", "Restauré après l'indépendance de 1991."],
     }, image: "/poi-images/kz-arystan-bab-history-v2.webp"},
   {
-    id: "kz-akyrtas-palace-history-v2",
+    id: "kz-akyrtas-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Historical Watchtower",
+                  "text": "Beeindruckende rote Sandsteinruinen eines unvollendeten Palastkomplexes aus dem 8. Jahrhundert.",
+                  "category": "historical",
+                  "coords": [
+                        71.791547,
+                        42.953797
+                  ]
+            },
+            {
+                  "name": "Akyrtas",
+                  "text": "Diese rätselhafte Ruinenstätte an der Seidenstraße beeindruckt durch die Überreste eines massiven Palastkomplexes aus riesigen roten Sandsteinblöcken.",
+                  "category": "landmark",
+                  "coords": [
+                        71.801534,
+                        42.953761
+                  ]
+            },
+            {
+                  "name": "Ak'yrtas",
+                  "text": "Der archäologische Komplex zeigt die monumentalen, unvollendeten Grundmauern einer weitläufigen Anlage aus dem 8. bis 9. Jahrhundert.",
+                  "category": "historical",
+                  "coords": [
+                        71.802779,
+                        42.953539
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Historical Watchtower",
+                  "text": "Egy befejezetlen, 8. századi palotakomplexum lenyűgöző vörös homokkő romjai.",
+                  "category": "historical",
+                  "coords": [
+                        71.791547,
+                        42.953797
+                  ]
+            },
+            {
+                  "name": "Akyrtas",
+                  "text": "Ez a Selyemút menti rejtélyes romterület egy hatalmas, vörös homokkőtömbökből épült palotakomplexum maradványaival nyűgözi le a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        71.801534,
+                        42.953761
+                  ]
+            },
+            {
+                  "name": "Ak'yrtas",
+                  "text": "A régészeti komplexum egy 8-9. századi hatalmas építmény monumentális, befejezetlen alapfalait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        71.802779,
+                        42.953539
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Historical Watchtower",
+                  "text": "Ruine impresionante din gresie roșie ale unui complex palatinal neterminat din secolul al VIII-lea.",
+                  "category": "historical",
+                  "coords": [
+                        71.791547,
+                        42.953797
+                  ]
+            },
+            {
+                  "name": "Akyrtas",
+                  "text": "Acest sit de ruine misterioase de pe Drumul Mătăsii impresionează prin vestigiile unui complex palatial masiv construit din blocuri uriașe de gresie roșie.",
+                  "category": "landmark",
+                  "coords": [
+                        71.801534,
+                        42.953761
+                  ]
+            },
+            {
+                  "name": "Ak'yrtas",
+                  "text": "Complexul arheologic prezintă fundațiile monumentale și neterminate ale unei structuri vaste din secolele VIII-IX.",
+                  "category": "historical",
+                  "coords": [
+                        71.802779,
+                        42.953539
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Historical Watchtower",
+                  "text": "Impressive red sandstone ruins of an unfinished 8th-century palace complex.",
+                  "category": "historical",
+                  "coords": [
+                        71.791547,
+                        42.953797
+                  ]
+            },
+            {
+                  "name": "Akyrtas",
+                  "text": "This enigmatic Silk Road site features the remains of a massive palace complex constructed from enormous red sandstone blocks.",
+                  "category": "landmark",
+                  "coords": [
+                        71.801534,
+                        42.953761
+                  ]
+            },
+            {
+                  "name": "Akyrtas Architectural and archaeological complex",
+                  "text": "The archaeological complex showcases the monumental, unfinished foundations of a vast 8th to 9th-century structure.",
+                  "category": "historical",
+                  "coords": [
+                        71.802779,
+                        42.953539
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "KZ-ZHA",
     coords: [71.8105, 42.9519],
@@ -389,7 +947,52 @@ export const poiExtraKazakhstanHistoryV2: POI[] = [
       fr: ["Capitale de l'Horde Nogaï aux XVe-XVIe siècles.", "Centre commercial entre la Chine, la Perse et la Russie.", "Lieu de sépulture de plusieurs khans de l'Horde d'Or.", "Détruite par les Cosaques au XVIe siècle.", "Située sur le cours inférieur du fleuve Oural.", "La région a été intégrée à l'Empire russe en 1731.", "Les fouilles soviétiques ont commencé en 1937.", "Recherches relancées après l'indépendance de 1991."],
     }, image: "/poi-images/kz-saraichik-ruins-history-v2.webp"},
   {
-    id: "kz-shakpak-ata-history-v2",
+    id: "kz-shakpak-ata-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shakpak-Ata",
+                  "text": "Eine einzigartige unterirdische Moschee, die direkt in die Kreidefelsen der Region Mangystau gehauen wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        51.138911,
+                        44.433413
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shakpak-Ata",
+                  "text": "Különleges föld alatti mecset, amelyet közvetlenül a Mangisztau-régió krétafalába vájtak.",
+                  "category": "landmark",
+                  "coords": [
+                        51.138911,
+                        44.433413
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shakpak-Ata",
+                  "text": "O moschee subterană unică, săpată direct în stâncile de cretă din regiunea Mangistau.",
+                  "category": "landmark",
+                  "coords": [
+                        51.138911,
+                        44.433413
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shakpak-ata",
+                  "text": "A unique underground mosque carved directly into the chalk cliffs of the Mangystau region.",
+                  "category": "landmark",
+                  "coords": [
+                        51.138911,
+                        44.433413
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "KZ-MAN",
     coords: [51.144, 44.425],
@@ -516,7 +1119,52 @@ export const poiExtraKazakhstanHistoryV2: POI[] = [
       fr: ["La bataille s'est déroulée en 1729.", "Les tribus kazakhes unies ont vaincu les Dzoungars.", "Les chefs étaient Aboulkhaïr Khan et Boghenbaï Batyr.", "La \"Grande Catastrophe\" (Aktaban-Schubyryndy) a duré de 1723.", "Aboulkhaïr a demandé la protection de l'Empire russe en 1731.", "Tournant décisif dans l'histoire kazakhe.", "La commémoration était limitée à l'époque soviétique (dès 1936).", "Réhabilitation nationale après l'indépendance de 1991."],
     }, image: "/poi-images/kz-anyrakay-battlefield-history-v2.webp"},
   {
-    id: "kz-karlag-memorial-history-v2",
+    id: "kz-karlag-memorial-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pamiatnik pavshim v Velikoi Otechestvennoi",
+                  "text": "Dieses Denkmal in der Nähe des ehemaligen Karlag-Lagers erinnert an die gefallenen Soldaten des Zweiten Weltkriegs.",
+                  "category": "historical",
+                  "coords": [
+                        72.874171,
+                        49.631893
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pamiatnik pavshim v Velikoi Otechestvennoi",
+                  "text": "Ez a második világháborús emlékmű az egykori Karlag kényszermunkatábor közelében tiszteleg az elesett szovjet katonák előtt.",
+                  "category": "historical",
+                  "coords": [
+                        72.874171,
+                        49.631893
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pamiatnik pavshim v Velikoi Otechestvennoi",
+                  "text": "Acest monument situat lângă fostul lagăr Karlag onorează memoria soldaților căzuți în timpul celui de-al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        72.874171,
+                        49.631893
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pamiatnik pavshim v Velikoi Otechestvennoi",
+                  "text": "This monument near the former Karlag labor camp honors the memory of soldiers who fell during the Great Patriotic War.",
+                  "category": "historical",
+                  "coords": [
+                        72.874171,
+                        49.631893
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "KZ-KAR",
     coords: [72.84, 49.66],
@@ -644,7 +1292,88 @@ export const poiExtraKazakhstanHistoryV2: POI[] = [
       fr: ["Sépultures datant du XIIIe au XIXe siècle.", "Tombes les plus anciennes datant de l'époque de la Horde d'Or.", "Des milliers de stèles « kulpytas » sculptées avec art.", "Lieu de sépulture privilégié des tribus Adaï et Turkmènes.", "Intégration de la région à l'Empire russe en 1731.", "Interruption des traditions funéraires à partir de 1936 (ère soviétique).", "Début des recherches archéologiques systématiques dans les années 1950.", "Patrimoine culturel protégé depuis l'indépendance en 1991."],
     }, image: "/poi-images/kz-sisem-ata-history-v2.webp"},
   {
-    id: "kz-sygnak-ruins-history-v2",
+    id: "kz-sygnak-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Syg'anak' k'alashyg'y",
+                  "text": "Die einstige Hauptstadt der Weißen Horde, heute eine bedeutende Ruinenstätte mit markanten Ziegelbauten.",
+                  "category": "historical",
+                  "coords": [
+                        66.95872,
+                        44.157308
+                  ]
+            },
+            {
+                  "name": "Syg'anak' mechet'",
+                  "text": "Die ehrwürdigen Ruinen einer Moschee in der antiken Seidenstraßenstadt Syghnaq.",
+                  "category": "landmark",
+                  "coords": [
+                        66.977647,
+                        44.137075
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Syg'anak' k'alashyg'y",
+                  "text": "A Fehér Horda egykori fővárosa, ma jelentős romterület jellegzetes téglaépítményekkel.",
+                  "category": "historical",
+                  "coords": [
+                        66.95872,
+                        44.157308
+                  ]
+            },
+            {
+                  "name": "Syg'anak' mechet'",
+                  "text": "Egy mecset tiszteletreméltó romjai az ősi Selyemút menti Szignak városában.",
+                  "category": "landmark",
+                  "coords": [
+                        66.977647,
+                        44.137075
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Syg'anak' k'alashyg'y",
+                  "text": "Fosta capitală a Hoardei Albe, astăzi un sit arheologic important cu structuri distinctive din cărămidă.",
+                  "category": "historical",
+                  "coords": [
+                        66.95872,
+                        44.157308
+                  ]
+            },
+            {
+                  "name": "Syg'anak' mechet'",
+                  "text": "Ruinele venerabile ale unei moschei din orașul antic Syghnaq, situat pe Drumul Mătăsii.",
+                  "category": "landmark",
+                  "coords": [
+                        66.977647,
+                        44.137075
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sighnaq town",
+                  "text": "The former capital of the White Horde, now a significant archaeological site with distinctive brick structures.",
+                  "category": "historical",
+                  "coords": [
+                        66.95872,
+                        44.157308
+                  ]
+            },
+            {
+                  "name": "Syg'anak' mechet'",
+                  "text": "The venerable ruins of a mosque in the ancient Silk Road city of Syghnaq.",
+                  "category": "landmark",
+                  "coords": [
+                        66.977647,
+                        44.137075
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "KZ-KZY",
     coords: [66.97, 44.15],

@@ -3,7 +3,268 @@ import type { POI } from "./poi";
 
 export const poiExtraBelizeCitiesV2: POI[] = [
   {
-    id: "corozal-town-cities-v2", "sights": {"de": [{"name": "Santa Rita Archaeological Site", "text": "Ruinen einer antiken Maya-Siedlung in Corozal Town.", "category": "historical", "coords": [-88.395049, 18.402299]}, {"name": "House of Culture", "text": "Ein Museum in Corozal, das die lokale Kultur und Geschichte präsentiert.", "category": "museum", "coords": [-88.386447, 18.389752]}, {"name": "Maya Beach", "text": "Maya Beach in Corozal lockt mit seinem Sandstrand direkt an der malerischen Küste des Karibischen Meeres. Besucher können hier wunderbar in der warmen Sonne entspannen und die sanfte Meeresbrise genießen. Ein herrlicher Ort, um die Seele baumeln zu lassen oder ausgedehnte Strandspaziergänge zu unternehmen. Am besten genießt man die friedliche Atmosphäre an einem sonnigen Nachmittag.", "category": "recreational", "coords": [-88.393045, 18.384816]}, {"name": "Miami Beach", "text": "Miami Beach ist ein beliebter Küstenabschnitt in Corozal Town, der zum Verweilen am Karibischen Meer einlädt. Die entspannte Umgebung bietet ideale Voraussetzungen für sonnige Stunden am Wasser. Gäste schätzen die Nähe zur Natur und das sanfte Rauschen der Wellen. Ein Besuch in den frühen Morgenstunden verspricht besonders idyllische Momente.", "category": "recreational", "coords": [-88.390545, 18.385784]}, {"name": "Tilt-a-Dock Resort", "text": "Ein Strandresort für Urlauber in Corozal.", "category": "recreational", "coords": [-88.371538, 18.396917]}, {"name": "Fort Barlee", "text": "Die historischen Überreste einer Befestigung in Corozal Town.", "category": "historical", "coords": [-88.387253, 18.392294]}, {"name": "Tony's Inn & Beach Resort", "text": "Tony's Inn & Beach Resort bietet eine wunderbare Unterkunft mit direktem Strandzugang im malerischen Corozal. Die einladende Anlage verbindet Erholung mit der unmittelbaren Nähe zum Karibischen Meer. Urlauber können hier unbeschwerte Tage mit Schwimmen und ausgiebigen Sonnenbädern verbringen. Es empfiehlt sich, die ruhigen Abendstunden für einen romantischen Spaziergang am Strand zu nutzen.", "category": "recreational", "coords": [-88.397187, 18.381035]}], "hu": [{"name": "Santa Rita Archaeological Site", "text": "Egy ősi maja település romjai Corozal Townban.", "category": "historical", "coords": [-88.395049, 18.402299]}, {"name": "House of Culture", "text": "Múzeum Corozalban, amely a helyi kultúrát és történelmet mutatja be.", "category": "museum", "coords": [-88.386447, 18.389752]}, {"name": "Maya Beach", "text": "A Maya Beach Corozal városában található homokos part, amely közvetlenül a Karib-tenger festői partvonalán fekszik. A látogatók a meleg napsütésben pihenhetnek, miközben a tenger lágy szellőjét élvezik. Kiváló helyszín a lazításra vagy egy hosszú tengerparti sétára. A legérdemesebb egy napsütéses délutánon felkeresni, amikor a legszebb a tenger.", "category": "recreational", "coords": [-88.393045, 18.384816]}, {"name": "Miami Beach", "text": "A Miami Beach egy kedvelt partszakasz Corozal Townban, amely a Karib-tenger melletti időtöltésre invitál. A nyugodt környezet ideális feltételeket teremt a vízparti napsütés élvezetéhez. A vendégek nagyra értékelik a természet közelségét és a hullámok lágy morajlását. A kora reggeli látogatás különösen idilli pillanatokat ígér.", "category": "recreational", "coords": [-88.390545, 18.385784]}, {"name": "Tilt-a-Dock Resort", "text": "Tengerparti üdülőhely Corozalban.", "category": "recreational", "coords": [-88.371538, 18.396917]}, {"name": "Fort Barlee", "text": "Egy erődítmény történelmi maradványai Corozal Townban.", "category": "historical", "coords": [-88.387253, 18.392294]}, {"name": "Tony's Inn & Beach Resort", "text": "A Tony's Inn & Beach Resort egy csodálatos szálláshely, amely közvetlen hozzáférést biztosít a tengerparthoz a festői Corozalban. A hívogató komplexum a pihenést a Karib-tenger közvetlen közelségével ötvözi. A nyaralók gondtalan napokat tölthetnek itt úszással és bőséges napozással. Érdemes a csendes esti órákat egy romantikus tengerparti sétára felhasználni.", "category": "recreational", "coords": [-88.397187, 18.381035]}], "ro": [{"name": "Santa Rita Archaeological Site", "text": "Ruinele unei așezări mayașe antice în Corozal Town.", "category": "historical", "coords": [-88.395049, 18.402299]}, {"name": "House of Culture", "text": "Un muzeu în Corozal care prezintă cultura și istoria locală.", "category": "museum", "coords": [-88.386447, 18.389752]}, {"name": "Maya Beach", "text": "Maya Beach din Corozal atrage prin plaja sa de nisip situată chiar pe coasta pitorească a Mării Caraibelor. Vizitatorii se pot relaxa sub soarele cald, bucurându-se de briza blândă a mării. Este un loc minunat pentru o plimbare lungă pe țărm sau pur și simplu pentru a privi valurile. Cel mai bine este să vizitați plaja într-o după-amiază senină pentru a vă bucura de o atmosferă liniștită.", "category": "recreational", "coords": [-88.393045, 18.384816]}, {"name": "Miami Beach", "text": "Miami Beach este o porțiune populară de coastă în Corozal Town, perfectă pentru a petrece timpul la Marea Caraibelor. Mediul relaxant oferă condiții ideale pentru ore însorite petrecute pe malul apei. Oaspeții apreciază apropierea de natură și sunetul blând al valurilor. O vizită la primele ore ale dimineții promite momente deosebit de idilice.", "category": "recreational", "coords": [-88.390545, 18.385784]}, {"name": "Tilt-a-Dock Resort", "text": "O stațiune de plajă pentru turiști în Corozal.", "category": "recreational", "coords": [-88.371538, 18.396917]}, {"name": "Fort Barlee", "text": "Rămășițele istorice ale unei fortificații în Corozal Town.", "category": "historical", "coords": [-88.387253, 18.392294]}, {"name": "Tony's Inn & Beach Resort", "text": "Tony's Inn & Beach Resort oferă o cazare minunată cu acces direct la plajă în pitorescul Corozal. Complexul primitor îmbină relaxarea cu proximitatea imediată a Mării Caraibelor. Turiștii pot petrece aici zile fără griji, înotând și făcând plajă din plin. Este recomandat să profitați de orele liniștite ale serii pentru o plimbare romantică pe plajă.", "category": "recreational", "coords": [-88.397187, 18.381035]}], "en": [{"name": "Santa Rita Archaeological Site", "text": "Ruins of an ancient Maya settlement in Corozal Town.", "category": "historical", "coords": [-88.395049, 18.402299]}, {"name": "House of Culture", "text": "A museum in Corozal showcasing local culture and history.", "category": "museum", "coords": [-88.386447, 18.389752]}, {"name": "Maya Beach", "text": "Maya Beach in Corozal features a sandy stretch set right along the picturesque coast of the Caribbean Sea. Visitors can relax in the warm sunshine while enjoying the gentle sea breeze. It offers a wonderful setting for unwinding or taking leisurely walks along the shoreline. Arriving on a sunny afternoon is the perfect way to experience its peaceful atmosphere.", "category": "recreational", "coords": [-88.393045, 18.384816]}, {"name": "Miami Beach", "text": "Miami Beach is a popular coastal stretch in Corozal Town, inviting visitors to linger by the Caribbean Sea. The relaxed setting provides ideal conditions for soaking up the sun by the water. Guests appreciate the closeness to nature and the soothing sound of the waves. Visiting during the early morning hours promises particularly idyllic moments.", "category": "recreational", "coords": [-88.390545, 18.385784]}, {"name": "Tilt-a-Dock Resort", "text": "A beach resort for vacationers in Corozal.", "category": "recreational", "coords": [-88.371538, 18.396917]}, {"name": "Fort Barlee", "text": "The historical remains of a fortification in Corozal Town.", "category": "historical", "coords": [-88.387253, 18.392294]}, {"name": "Tony's Inn & Beach Resort", "text": "Tony's Inn & Beach Resort offers wonderful accommodation with direct beach access in picturesque Corozal. The inviting property seamlessly blends relaxation with the immediate proximity of the Caribbean Sea. Holidaymakers can spend carefree days swimming and basking in the abundant sunshine. Taking advantage of the quiet evening hours for a romantic walk along the beach is highly recommended.", "category": "recreational", "coords": [-88.397187, 18.381035]}]},
+    id: "corozal-town-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Santa Rita Archaeological Site",
+                  "text": "Maya-Ruinenstätte Santa Rita nahe der Stadt Corozal.",
+                  "category": "historical",
+                  "coords": [
+                        -88.395049,
+                        18.402299
+                  ]
+            },
+            {
+                  "name": "House of Culture",
+                  "text": "Ein Museum in Corozal, das die lokale Kultur und Geschichte präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -88.386447,
+                        18.389752
+                  ]
+            },
+            {
+                  "name": "Maya Beach",
+                  "text": "Maya Beach in Corozal lockt mit seinem Sandstrand direkt an der malerischen Küste des Karibischen Meeres. Besucher können hier wunderbar in der warmen Sonne entspannen und die sanfte Meeresbrise genießen. Ein herrlicher Ort, um die Seele baumeln zu lassen oder ausgedehnte Strandspaziergänge zu unternehmen. Am besten genießt man die friedliche Atmosphäre an einem sonnigen Nachmittag.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.393045,
+                        18.384816
+                  ]
+            },
+            {
+                  "name": "Miami Beach",
+                  "text": "Miami Beach ist ein beliebter Küstenabschnitt in Corozal Town, der zum Verweilen am Karibischen Meer einlädt. Die entspannte Umgebung bietet ideale Voraussetzungen für sonnige Stunden am Wasser. Gäste schätzen die Nähe zur Natur und das sanfte Rauschen der Wellen. Ein Besuch in den frühen Morgenstunden verspricht besonders idyllische Momente.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.390545,
+                        18.385784
+                  ]
+            },
+            {
+                  "name": "Tilt-a-Dock Resort",
+                  "text": "Vergnügungsresort mit Tilt-a-Dock-Fahrgeschäft in Corozal.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.371538,
+                        18.396917
+                  ]
+            },
+            {
+                  "name": "Fort Barlee",
+                  "text": "Die historischen Überreste einer Befestigung in Corozal Town.",
+                  "category": "historical",
+                  "coords": [
+                        -88.387253,
+                        18.392294
+                  ]
+            },
+            {
+                  "name": "Tony's Inn & Beach Resort",
+                  "text": "Tony's Inn & Beach Resort bietet eine wunderbare Unterkunft mit direktem Strandzugang im malerischen Corozal. Die einladende Anlage verbindet Erholung mit der unmittelbaren Nähe zum Karibischen Meer. Urlauber können hier unbeschwerte Tage mit Schwimmen und ausgiebigen Sonnenbädern verbringen. Es empfiehlt sich, die ruhigen Abendstunden für einen romantischen Spaziergang am Strand zu nutzen.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.397187,
+                        18.381035
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Santa Rita Archaeological Site",
+                  "text": "Santa Rita maja romvárosa Corozal közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -88.395049,
+                        18.402299
+                  ]
+            },
+            {
+                  "name": "House of Culture",
+                  "text": "Múzeum Corozalban, amely a helyi kultúrát és történelmet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -88.386447,
+                        18.389752
+                  ]
+            },
+            {
+                  "name": "Maya Beach",
+                  "text": "A Maya Beach Corozal városában található homokos part, amely közvetlenül a Karib-tenger festői partvonalán fekszik. A látogatók a meleg napsütésben pihenhetnek, miközben a tenger lágy szellőjét élvezik. Kiváló helyszín a lazításra vagy egy hosszú tengerparti sétára. A legérdemesebb egy napsütéses délutánon felkeresni, amikor a legszebb a tenger.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.393045,
+                        18.384816
+                  ]
+            },
+            {
+                  "name": "Miami Beach",
+                  "text": "A Miami Beach egy kedvelt partszakasz Corozal Townban, amely a Karib-tenger melletti időtöltésre invitál. A nyugodt környezet ideális feltételeket teremt a vízparti napsütés élvezetéhez. A vendégek nagyra értékelik a természet közelségét és a hullámok lágy morajlását. A kora reggeli látogatás különösen idilli pillanatokat ígér.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.390545,
+                        18.385784
+                  ]
+            },
+            {
+                  "name": "Tilt-a-Dock Resort",
+                  "text": "Tilt-a-Dock vidámparki játékkal rendelkező üdülőhely Corozalban.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.371538,
+                        18.396917
+                  ]
+            },
+            {
+                  "name": "Fort Barlee",
+                  "text": "Egy erődítmény történelmi maradványai Corozal Townban.",
+                  "category": "historical",
+                  "coords": [
+                        -88.387253,
+                        18.392294
+                  ]
+            },
+            {
+                  "name": "Tony's Inn & Beach Resort",
+                  "text": "A Tony's Inn & Beach Resort egy csodálatos szálláshely, amely közvetlen hozzáférést biztosít a tengerparthoz a festői Corozalban. A hívogató komplexum a pihenést a Karib-tenger közvetlen közelségével ötvözi. A nyaralók gondtalan napokat tölthetnek itt úszással és bőséges napozással. Érdemes a csendes esti órákat egy romantikus tengerparti sétára felhasználni.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.397187,
+                        18.381035
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Santa Rita Archaeological Site",
+                  "text": "Situl arheologic maya Santa Rita lângă orașul Corozal.",
+                  "category": "historical",
+                  "coords": [
+                        -88.395049,
+                        18.402299
+                  ]
+            },
+            {
+                  "name": "House of Culture",
+                  "text": "Un muzeu în Corozal care prezintă cultura și istoria locală.",
+                  "category": "museum",
+                  "coords": [
+                        -88.386447,
+                        18.389752
+                  ]
+            },
+            {
+                  "name": "Maya Beach",
+                  "text": "Maya Beach din Corozal atrage prin plaja sa de nisip situată chiar pe coasta pitorească a Mării Caraibelor. Vizitatorii se pot relaxa sub soarele cald, bucurându-se de briza blândă a mării. Este un loc minunat pentru o plimbare lungă pe țărm sau pur și simplu pentru a privi valurile. Cel mai bine este să vizitați plaja într-o după-amiază senină pentru a vă bucura de o atmosferă liniștită.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.393045,
+                        18.384816
+                  ]
+            },
+            {
+                  "name": "Miami Beach",
+                  "text": "Miami Beach este o porțiune populară de coastă în Corozal Town, perfectă pentru a petrece timpul la Marea Caraibelor. Mediul relaxant oferă condiții ideale pentru ore însorite petrecute pe malul apei. Oaspeții apreciază apropierea de natură și sunetul blând al valurilor. O vizită la primele ore ale dimineții promite momente deosebit de idilice.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.390545,
+                        18.385784
+                  ]
+            },
+            {
+                  "name": "Tilt-a-Dock Resort",
+                  "text": "Complex de agrement cu atracția Tilt-a-Dock în Corozal.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.371538,
+                        18.396917
+                  ]
+            },
+            {
+                  "name": "Fort Barlee",
+                  "text": "Rămășițele istorice ale unei fortificații în Corozal Town.",
+                  "category": "historical",
+                  "coords": [
+                        -88.387253,
+                        18.392294
+                  ]
+            },
+            {
+                  "name": "Tony's Inn & Beach Resort",
+                  "text": "Tony's Inn & Beach Resort oferă o cazare minunată cu acces direct la plajă în pitorescul Corozal. Complexul primitor îmbină relaxarea cu proximitatea imediată a Mării Caraibelor. Turiștii pot petrece aici zile fără griji, înotând și făcând plajă din plin. Este recomandat să profitați de orele liniștite ale serii pentru o plimbare romantică pe plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.397187,
+                        18.381035
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Santa Rita Archaeological Site",
+                  "text": "Santa Rita Maya archaeological site near Corozal town.",
+                  "category": "historical",
+                  "coords": [
+                        -88.395049,
+                        18.402299
+                  ]
+            },
+            {
+                  "name": "House of Culture",
+                  "text": "A museum in Corozal showcasing local culture and history.",
+                  "category": "museum",
+                  "coords": [
+                        -88.386447,
+                        18.389752
+                  ]
+            },
+            {
+                  "name": "Maya Beach",
+                  "text": "Maya Beach in Corozal features a sandy stretch set right along the picturesque coast of the Caribbean Sea. Visitors can relax in the warm sunshine while enjoying the gentle sea breeze. It offers a wonderful setting for unwinding or taking leisurely walks along the shoreline. Arriving on a sunny afternoon is the perfect way to experience its peaceful atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.393045,
+                        18.384816
+                  ]
+            },
+            {
+                  "name": "Miami Beach",
+                  "text": "Miami Beach is a popular coastal stretch in Corozal Town, inviting visitors to linger by the Caribbean Sea. The relaxed setting provides ideal conditions for soaking up the sun by the water. Guests appreciate the closeness to nature and the soothing sound of the waves. Visiting during the early morning hours promises particularly idyllic moments.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.390545,
+                        18.385784
+                  ]
+            },
+            {
+                  "name": "Tilt-a-Dock Resort",
+                  "text": "Resort with a Tilt-a-Dock amusement ride in Corozal.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.371538,
+                        18.396917
+                  ]
+            },
+            {
+                  "name": "Fort Barlee",
+                  "text": "The historical remains of a fortification in Corozal Town.",
+                  "category": "historical",
+                  "coords": [
+                        -88.387253,
+                        18.392294
+                  ]
+            },
+            {
+                  "name": "Tony's Inn & Beach Resort",
+                  "text": "Tony's Inn & Beach Resort offers wonderful accommodation with direct beach access in picturesque Corozal. The inviting property seamlessly blends relaxation with the immediate proximity of the Caribbean Sea. Holidaymakers can spend carefree days swimming and basking in the abundant sunshine. Taking advantage of the quiet evening hours for a romantic walk along the beach is highly recommended.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.397187,
+                        18.381035
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BZ-CZL",
     coords: [-88.3885, 18.3927],
@@ -595,7 +856,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Centro de Salud",
-                  "text": "Ein lokales Gesundheitszentrum in Benque Viejo del Carmen.",
+                  "text": "Gesundheitszentrum in Viejo Del Carmen.",
                   "category": "landmark",
                   "coords": [
                         -89.157589,
@@ -613,7 +874,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Group C ruins (overgrown)",
-                  "text": "Überwachsene Ruinen der Gruppe C in Benque Viejo del Carmen.",
+                  "text": "Überwachsene Ruinen der Gruppe C in Viejo Del Carmen.",
                   "category": "landmark",
                   "coords": [
                         -89.141626,
@@ -622,7 +883,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Marshallek Cancha",
-                  "text": "Ein Zentrum für Kunst und Kultur in Benque Viejo del Carmen.",
+                  "text": "Sportplatz (Cancha) in Viejo Del Carmen.",
                   "category": "cultural",
                   "coords": [
                         -89.138644,
@@ -687,7 +948,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Centro de Salud",
-                  "text": "Helyi egészségügyi központ Benque Viejo del Carmenben.",
+                  "text": "Egészségügyi központ Viejo Del Carmenben.",
                   "category": "landmark",
                   "coords": [
                         -89.157589,
@@ -705,7 +966,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Group C ruins (overgrown)",
-                  "text": "A C csoport benőtt romjai Benque Viejo del Carmenben.",
+                  "text": "Bennőtt romok (C csoport) Viejo Del Carmenben.",
                   "category": "landmark",
                   "coords": [
                         -89.141626,
@@ -714,7 +975,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Marshallek Cancha",
-                  "text": "Művészeti és kulturális központ Benque Viejo del Carmenben.",
+                  "text": "Sportpálya (Cancha) Viejo Del Carmenben.",
                   "category": "cultural",
                   "coords": [
                         -89.138644,
@@ -779,7 +1040,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Centro de Salud",
-                  "text": "Un centru de sănătate local în Benque Viejo del Carmen.",
+                  "text": "Centru de sănătate în Viejo Del Carmen.",
                   "category": "landmark",
                   "coords": [
                         -89.157589,
@@ -797,7 +1058,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Group C ruins (overgrown)",
-                  "text": "Ruinele grupului C, acoperite de vegetație, în Benque Viejo del Carmen.",
+                  "text": "Ruine acoperite de vegetație (Grupul C) în Viejo Del Carmen.",
                   "category": "landmark",
                   "coords": [
                         -89.141626,
@@ -806,7 +1067,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Marshallek Cancha",
-                  "text": "Un centru cultural și de artă în Benque Viejo del Carmen.",
+                  "text": "Teren de sport (cancha) în Viejo Del Carmen.",
                   "category": "cultural",
                   "coords": [
                         -89.138644,
@@ -871,7 +1132,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Health Centre",
-                  "text": "A local health center in Benque Viejo del Carmen.",
+                  "text": "Health centre in Viejo Del Carmen.",
                   "category": "landmark",
                   "coords": [
                         -89.157589,
@@ -889,7 +1150,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Group C ruins (overgrown)",
-                  "text": "Overgrown ruins of Group C in Benque Viejo del Carmen.",
+                  "text": "Overgrown ruins of Group C in Viejo Del Carmen.",
                   "category": "landmark",
                   "coords": [
                         -89.141626,
@@ -898,7 +1159,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Marshallek Cancha",
-                  "text": "An arts and culture center in Benque Viejo del Carmen.",
+                  "text": "Sports court (cancha) in Viejo Del Carmen.",
                   "category": "cultural",
                   "coords": [
                         -89.138644,
@@ -1189,7 +1450,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Belize Natural History Archive",
-                  "text": "Ein Archiv und Museum in Santa Elena, das die Naturgeschichte von Belize dokumentiert.",
+                  "text": "Naturhistorisches Archiv von Belize in Elena.",
                   "category": "museum",
                   "coords": [
                         -89.060392,
@@ -1234,7 +1495,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "El Cayó Boardwalk",
-                  "text": "Eine beliebte Promenade am Flussufer in Santa Elena.",
+                  "text": "Holzpromenade El Cayó in Elena.",
                   "category": "landmark",
                   "coords": [
                         -89.068157,
@@ -1263,7 +1524,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Belize Natural History Archive",
-                  "text": "Levéltár és múzeum Santa Elenában, amely Belize természetrajzát dokumentálja.",
+                  "text": "Belize Természetrajzi Archívuma Elenában.",
                   "category": "museum",
                   "coords": [
                         -89.060392,
@@ -1308,7 +1569,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "El Cayó Boardwalk",
-                  "text": "Népszerű folyóparti sétány Santa Elenában.",
+                  "text": "El Cayó fedélzeti sétány Elenában.",
                   "category": "landmark",
                   "coords": [
                         -89.068157,
@@ -1337,7 +1598,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Belize Natural History Archive",
-                  "text": "O arhivă și un muzeu în Santa Elena care documentează istoria naturală a Belizei.",
+                  "text": "Arhiva de Istorie Naturală a Belize-ului în Elena.",
                   "category": "museum",
                   "coords": [
                         -89.060392,
@@ -1382,7 +1643,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "El Cayó Boardwalk",
-                  "text": "O promenadă populară pe malul râului în Santa Elena.",
+                  "text": "Promenada de lemn El Cayó în Elena.",
                   "category": "landmark",
                   "coords": [
                         -89.068157,
@@ -1411,7 +1672,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Belize Natural History Archive",
-                  "text": "An archive and museum in Santa Elena documenting the natural history of Belize.",
+                  "text": "Belize Natural History Archive in Elena.",
                   "category": "museum",
                   "coords": [
                         -89.060392,
@@ -1456,7 +1717,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "El Cayó Boardwalk",
-                  "text": "A popular riverside boardwalk in Santa Elena.",
+                  "text": "El Cayó boardwalk in Elena.",
                   "category": "landmark",
                   "coords": [
                         -89.068157,
@@ -1602,7 +1863,340 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       fr: ["Le célèbre 'Sidewalk' mesure environ un mètre à son point le plus étroit.", "Situé sur une longue et étroite péninsule dans le district de Stann Creek.", "Le site offre un accès aux plus belles plages du Belize.", "Point de départ pour des excursions vers les îles Laughing Bird Caye.", "L'économie locale dépend presque entièrement du tourisme.", "Propose une large gamme d'hébergements, du bungalow au complexe hôtelier."],
     }, image: "/poi-images/placencia-village-cities-v2.webp"},
   {
-    id: "caye-caulker-village-cities-v2", "sights": {"de": [{"name": "Caye Caulker BTIA Mini Reserve", "text": "Ein kleines Naturschutzgebiet auf Caye Caulker, das sich dem Erhalt der lokalen Flora und Fauna widmet.", "category": "natural", "coords": [-88.027483, 17.735579]}, {"name": "Tarpon viewing", "text": "Ein beliebter Ort auf Caye Caulker, um Tarpune in ihrem natürlichen Lebensraum zu beobachten.", "category": "landmark", "coords": [-88.024888, 17.747202]}, {"name": "Ras Creek", "text": "Eine lokale Attraktion auf Caye Caulker, die für ihre entspannte Atmosphäre bekannt ist.", "category": "landmark", "coords": [-88.024704, 17.75009]}, {"name": "Caribbean Sprinter Water Taxi", "text": "Ein Wassertaxi-Dienst auf Caye Caulker, der Verbindungen zu benachbarten Inseln bietet.", "category": "landmark", "coords": [-88.023235, 17.742602]}, {"name": "S. P. Express ticketing", "text": "Ein Fahrkartenschalter für Express-Bootstransporte auf Caye Caulker.", "category": "landmark", "coords": [-88.0242, 17.743768]}, {"name": "San Pedro Belize Express", "text": "Ein wichtiger Wassertaxi-Terminal auf Caye Caulker für Reisen zum Festland und zu anderen Inseln.", "category": "landmark", "coords": [-88.023071, 17.74354]}, {"name": "Playa Del Nino", "text": "Playa Del Nino auf der Insel Caye Caulker ist ein charmanter Strandbereich, der zum gemütlichen Verweilen am Meer einlädt. Die ungezwungene Atmosphäre der Insel spiegelt sich auch hier wider und lockt Besucher an die karibische Küste. Man kann sich wunderbar im Sand ausruhen oder das klare Wasser bei einem erfrischenden Bad genießen. Ein entspannter Nachmittag an diesem Ort fängt das wahre Inselflair bestens ein.", "category": "landmark", "coords": [-88.023443, 17.74564]}, {"name": "Caballito de Mar", "text": "Eine charmante lokale Sehenswürdigkeit auf der Insel Caye Caulker.", "category": "landmark", "coords": [-88.025647, 17.745598]}, {"name": "Willian house", "text": "Ein markantes lokales Gebäude und Orientierungspunkt auf Caye Caulker.", "category": "landmark", "coords": [-88.02594, 17.739772]}], "hu": [{"name": "Caye Caulker BTIA Mini Reserve", "text": "Egy kis természetvédelmi terület Caye Caulkeren, amely a helyi növeĺny- és állatvilág megőrzésére összpontosít.", "category": "natural", "coords": [-88.027483, 17.735579]}, {"name": "Tarpon viewing", "text": "Népszerű hely Caye Caulkeren a tarponhalak megfigyelésére természetes környezetükben.", "category": "landmark", "coords": [-88.024888, 17.747202]}, {"name": "Ras Creek", "text": "Helyi látványosság Caye Caulkeren, amely nyugodt légköréről ismert.", "category": "landmark", "coords": [-88.024704, 17.75009]}, {"name": "Caribbean Sprinter Water Taxi", "text": "Vízi taxi szolgáltatás Caye Caulkeren, amely összeköttetést biztosít a szomszédos szigetekkel.", "category": "landmark", "coords": [-88.023235, 17.742602]}, {"name": "S. P. Express ticketing", "text": "Expressz hajójáratok jegyértékesítő pontja Caye Caulkeren.", "category": "landmark", "coords": [-88.0242, 17.743768]}, {"name": "San Pedro Belize Express", "text": "Fontos vízi taxi terminál Caye Caulkeren a szárazföldre és más szigetekre irányuló utazásokhoz.", "category": "landmark", "coords": [-88.023071, 17.74354]}, {"name": "Playa Del Nino", "text": "A Caye Caulker szigetén található Playa Del Nino egy hangulatos strand, amely kellemes időtöltésre csábít a tengerparton. A sziget kötetlen atmoszférája itt is visszatükröződik, és a karibi partvidékre vonzza a látogatókat. Kiválóan lehet pihenni a homokban, vagy élvezni a tiszta vizet egy frissítő fürdőzés során. Egy laza délután ezen a helyen tökéletesen megragadja az igazi szigeti hangulatot.", "category": "landmark", "coords": [-88.023443, 17.74564]}, {"name": "Caballito de Mar", "text": "Bájos helyi látványosság Caye Caulker szigetén.", "category": "landmark", "coords": [-88.025647, 17.745598]}, {"name": "Willian house", "text": "Jellegzetes helyi épület és tájékozódási pont Caye Caulkeren.", "category": "landmark", "coords": [-88.02594, 17.739772]}], "ro": [{"name": "Caye Caulker BTIA Mini Reserve", "text": "O mică rezervație naturală pe Caye Caulker, dedicată conservării florei și faunei locale.", "category": "natural", "coords": [-88.027483, 17.735579]}, {"name": "Tarpon viewing", "text": "Un loc popular pe Caye Caulker pentru a observa peștii tarpon în habitatul lor natural.", "category": "landmark", "coords": [-88.024888, 17.747202]}, {"name": "Ras Creek", "text": "O atracție locală pe Caye Caulker, cunoscută pentru atmosfera sa relaxată.", "category": "landmark", "coords": [-88.024704, 17.75009]}, {"name": "Caribbean Sprinter Water Taxi", "text": "Un serviciu de taxi pe apă în Caye Caulker, care oferă conexiuni către insulele învecinate.", "category": "landmark", "coords": [-88.023235, 17.742602]}, {"name": "S. P. Express ticketing", "text": "Un punct de ticketing pentru transportul rapid cu barca în Caye Caulker.", "category": "landmark", "coords": [-88.0242, 17.743768]}, {"name": "San Pedro Belize Express", "text": "Un terminal important de taxi pe apă în Caye Caulker pentru călătorii către continent și alte insule.", "category": "landmark", "coords": [-88.023071, 17.74354]}, {"name": "Playa Del Nino", "text": "Playa Del Nino de pe insula Caye Caulker este o zonă de plajă fermecătoare, care vă invită să vă relaxați la malul mării. Atmosfera relaxată a insulei se reflectă și aici, atrăgând vizitatorii pe coasta caraibiană. Vă puteți odihni minunat pe nisip sau vă puteți bucura de apa limpede cu o baie răcoritoare. O după-amiază relaxantă în acest loc surprinde perfect adevăratul aer insular.", "category": "landmark", "coords": [-88.023443, 17.74564]}, {"name": "Caballito de Mar", "text": "O atracție locală fermecătoare pe insula Caye Caulker.", "category": "landmark", "coords": [-88.025647, 17.745598]}, {"name": "Willian house", "text": "O clădire locală distinctivă și un punct de reper pe Caye Caulker.", "category": "landmark", "coords": [-88.02594, 17.739772]}], "en": [{"name": "Caye Caulker BTIA Mini Reserve", "text": "A small nature reserve on Caye Caulker focused on preserving local flora and fauna.", "category": "natural", "coords": [-88.027483, 17.735579]}, {"name": "Tarpon viewing", "text": "A popular spot on Caye Caulker for observing tarpon fish in their natural habitat.", "category": "landmark", "coords": [-88.024888, 17.747202]}, {"name": "Ras Creek", "text": "A local attraction on Caye Caulker known for its relaxed atmosphere.", "category": "landmark", "coords": [-88.024704, 17.75009]}, {"name": "Caribbean Sprinter Water Taxi", "text": "A water taxi service in Caye Caulker providing connections to neighboring islands.", "category": "landmark", "coords": [-88.023235, 17.742602]}, {"name": "S. P. Express ticketing", "text": "A ticketing point for express boat transportation on Caye Caulker.", "category": "landmark", "coords": [-88.0242, 17.743768]}, {"name": "San Pedro Belize Express", "text": "A key water taxi terminal on Caye Caulker for travel to the mainland and other islands.", "category": "landmark", "coords": [-88.023071, 17.74354]}, {"name": "Playa Del Nino", "text": "Playa Del Nino on Caye Caulker is a charming beach area that invites you to comfortably linger by the sea. The island's casual atmosphere is wonderfully reflected here, drawing visitors to the beautiful Caribbean coastline. You can comfortably rest in the sand or enjoy the clear water with a refreshing swim. Spending a relaxed afternoon at this spot perfectly captures the true island vibe.", "category": "landmark", "coords": [-88.023443, 17.74564]}, {"name": "Caballito de Mar", "text": "A charming local attraction on Caye Caulker island.", "category": "landmark", "coords": [-88.025647, 17.745598]}, {"name": "Willian house", "text": "A distinctive local building and landmark on Caye Caulker.", "category": "landmark", "coords": [-88.02594, 17.739772]}]},
+    id: "caye-caulker-village-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Caye Caulker BTIA Mini Reserve",
+                  "text": "Ein kleines Naturschutzgebiet auf Caye Caulker, das sich dem Erhalt der lokalen Flora und Fauna widmet.",
+                  "category": "natural",
+                  "coords": [
+                        -88.027483,
+                        17.735579
+                  ]
+            },
+            {
+                  "name": "Tarpon viewing",
+                  "text": "Ein beliebter Ort auf Caye Caulker, um Tarpune in ihrem natürlichen Lebensraum zu beobachten.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.024888,
+                        17.747202
+                  ]
+            },
+            {
+                  "name": "Ras Creek",
+                  "text": "Eine lokale Attraktion auf Caye Caulker, die für ihre entspannte Atmosphäre bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.024704,
+                        17.75009
+                  ]
+            },
+            {
+                  "name": "Caribbean Sprinter Water Taxi",
+                  "text": "Ein Wassertaxi-Dienst auf Caye Caulker, der Verbindungen zu benachbarten Inseln bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.023235,
+                        17.742602
+                  ]
+            },
+            {
+                  "name": "S. P. Express ticketing",
+                  "text": "Ein Fahrkartenschalter für Express-Bootstransporte auf Caye Caulker.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.0242,
+                        17.743768
+                  ]
+            },
+            {
+                  "name": "San Pedro Belize Express",
+                  "text": "Ein wichtiger Wassertaxi-Terminal auf Caye Caulker für Reisen zum Festland und zu anderen Inseln.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.023071,
+                        17.74354
+                  ]
+            },
+            {
+                  "name": "Playa Del Nino",
+                  "text": "Playa Del Nino auf der Insel Caye Caulker ist ein charmanter Strandbereich, der zum gemütlichen Verweilen am Meer einlädt. Die ungezwungene Atmosphäre der Insel spiegelt sich auch hier wider und lockt Besucher an die karibische Küste. Man kann sich wunderbar im Sand ausruhen oder das klare Wasser bei einem erfrischenden Bad genießen. Ein entspannter Nachmittag an diesem Ort fängt das wahre Inselflair bestens ein.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.023443,
+                        17.74564
+                  ]
+            },
+            {
+                  "name": "Caballito de Mar",
+                  "text": "Seepferdchen-Skulptur in Caulker Village.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.025647,
+                        17.745598
+                  ]
+            },
+            {
+                  "name": "Willian house",
+                  "text": "Ein markantes lokales Gebäude und Orientierungspunkt auf Caye Caulker.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.02594,
+                        17.739772
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Caye Caulker BTIA Mini Reserve",
+                  "text": "Egy kis természetvédelmi terület Caye Caulkeren, amely a helyi növeĺny- és állatvilág megőrzésére összpontosít.",
+                  "category": "natural",
+                  "coords": [
+                        -88.027483,
+                        17.735579
+                  ]
+            },
+            {
+                  "name": "Tarpon viewing",
+                  "text": "Népszerű hely Caye Caulkeren a tarponhalak megfigyelésére természetes környezetükben.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.024888,
+                        17.747202
+                  ]
+            },
+            {
+                  "name": "Ras Creek",
+                  "text": "Helyi látványosság Caye Caulkeren, amely nyugodt légköréről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.024704,
+                        17.75009
+                  ]
+            },
+            {
+                  "name": "Caribbean Sprinter Water Taxi",
+                  "text": "Vízi taxi szolgáltatás Caye Caulkeren, amely összeköttetést biztosít a szomszédos szigetekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.023235,
+                        17.742602
+                  ]
+            },
+            {
+                  "name": "S. P. Express ticketing",
+                  "text": "Expressz hajójáratok jegyértékesítő pontja Caye Caulkeren.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.0242,
+                        17.743768
+                  ]
+            },
+            {
+                  "name": "San Pedro Belize Express",
+                  "text": "Fontos vízi taxi terminál Caye Caulkeren a szárazföldre és más szigetekre irányuló utazásokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.023071,
+                        17.74354
+                  ]
+            },
+            {
+                  "name": "Playa Del Nino",
+                  "text": "A Caye Caulker szigetén található Playa Del Nino egy hangulatos strand, amely kellemes időtöltésre csábít a tengerparton. A sziget kötetlen atmoszférája itt is visszatükröződik, és a karibi partvidékre vonzza a látogatókat. Kiválóan lehet pihenni a homokban, vagy élvezni a tiszta vizet egy frissítő fürdőzés során. Egy laza délután ezen a helyen tökéletesen megragadja az igazi szigeti hangulatot.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.023443,
+                        17.74564
+                  ]
+            },
+            {
+                  "name": "Caballito de Mar",
+                  "text": "Tengeri csikó szobor Caulker Village-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.025647,
+                        17.745598
+                  ]
+            },
+            {
+                  "name": "Willian house",
+                  "text": "Jellegzetes helyi épület és tájékozódási pont Caye Caulkeren.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.02594,
+                        17.739772
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Caye Caulker BTIA Mini Reserve",
+                  "text": "O mică rezervație naturală pe Caye Caulker, dedicată conservării florei și faunei locale.",
+                  "category": "natural",
+                  "coords": [
+                        -88.027483,
+                        17.735579
+                  ]
+            },
+            {
+                  "name": "Tarpon viewing",
+                  "text": "Un loc popular pe Caye Caulker pentru a observa peștii tarpon în habitatul lor natural.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.024888,
+                        17.747202
+                  ]
+            },
+            {
+                  "name": "Ras Creek",
+                  "text": "O atracție locală pe Caye Caulker, cunoscută pentru atmosfera sa relaxată.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.024704,
+                        17.75009
+                  ]
+            },
+            {
+                  "name": "Caribbean Sprinter Water Taxi",
+                  "text": "Un serviciu de taxi pe apă în Caye Caulker, care oferă conexiuni către insulele învecinate.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.023235,
+                        17.742602
+                  ]
+            },
+            {
+                  "name": "S. P. Express ticketing",
+                  "text": "Un punct de ticketing pentru transportul rapid cu barca în Caye Caulker.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.0242,
+                        17.743768
+                  ]
+            },
+            {
+                  "name": "San Pedro Belize Express",
+                  "text": "Un terminal important de taxi pe apă în Caye Caulker pentru călătorii către continent și alte insule.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.023071,
+                        17.74354
+                  ]
+            },
+            {
+                  "name": "Playa Del Nino",
+                  "text": "Playa Del Nino de pe insula Caye Caulker este o zonă de plajă fermecătoare, care vă invită să vă relaxați la malul mării. Atmosfera relaxată a insulei se reflectă și aici, atrăgând vizitatorii pe coasta caraibiană. Vă puteți odihni minunat pe nisip sau vă puteți bucura de apa limpede cu o baie răcoritoare. O după-amiază relaxantă în acest loc surprinde perfect adevăratul aer insular.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.023443,
+                        17.74564
+                  ]
+            },
+            {
+                  "name": "Caballito de Mar",
+                  "text": "Sculptură de căluț de mare în Caulker Village.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.025647,
+                        17.745598
+                  ]
+            },
+            {
+                  "name": "Willian house",
+                  "text": "O clădire locală distinctivă și un punct de reper pe Caye Caulker.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.02594,
+                        17.739772
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Caye Caulker BTIA Mini Reserve",
+                  "text": "A small nature reserve on Caye Caulker focused on preserving local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        -88.027483,
+                        17.735579
+                  ]
+            },
+            {
+                  "name": "Tarpon viewing",
+                  "text": "A popular spot on Caye Caulker for observing tarpon fish in their natural habitat.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.024888,
+                        17.747202
+                  ]
+            },
+            {
+                  "name": "Ras Creek",
+                  "text": "A local attraction on Caye Caulker known for its relaxed atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.024704,
+                        17.75009
+                  ]
+            },
+            {
+                  "name": "Caribbean Sprinter Water Taxi",
+                  "text": "A water taxi service in Caye Caulker providing connections to neighboring islands.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.023235,
+                        17.742602
+                  ]
+            },
+            {
+                  "name": "S. P. Express ticketing",
+                  "text": "A ticketing point for express boat transportation on Caye Caulker.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.0242,
+                        17.743768
+                  ]
+            },
+            {
+                  "name": "San Pedro Belize Express",
+                  "text": "A key water taxi terminal on Caye Caulker for travel to the mainland and other islands.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.023071,
+                        17.74354
+                  ]
+            },
+            {
+                  "name": "Playa Del Nino",
+                  "text": "Playa Del Nino on Caye Caulker is a charming beach area that invites you to comfortably linger by the sea. The island's casual atmosphere is wonderfully reflected here, drawing visitors to the beautiful Caribbean coastline. You can comfortably rest in the sand or enjoy the clear water with a refreshing swim. Spending a relaxed afternoon at this spot perfectly captures the true island vibe.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.023443,
+                        17.74564
+                  ]
+            },
+            {
+                  "name": "Caballito de Mar",
+                  "text": "Sea horse sculpture in Caulker Village.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.025647,
+                        17.745598
+                  ]
+            },
+            {
+                  "name": "Willian house",
+                  "text": "A distinctive local building and landmark on Caye Caulker.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.02594,
+                        17.739772
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BZ-BZ",
     coords: [-88.025, 17.742],
@@ -1649,7 +2243,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Hawai'i",
-                  "text": "Ein Strandabschnitt namens Hawai'i in Hopkins.",
+                  "text": "Erholungsgebiet namens Hawaii in einem Dorf in Belize.",
                   "category": "recreational",
                   "coords": [
                         -88.288416,
@@ -1658,7 +2252,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Happy Go Luckie Tours",
-                  "text": "Ein lokaler Anbieter für Touren und Ausflüge in Hopkins.",
+                  "text": "Büro des Reiseveranstalters Happy Go Luckie Tours in einem Dorf.",
                   "category": "landmark",
                   "coords": [
                         -88.28334,
@@ -1667,7 +2261,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Seemore Adventures Dive Shop",
-                  "text": "Ein Tauchgeschäft und Anbieter von Abenteuertouren in Hopkins.",
+                  "text": "Tauchshop Seemore Adventures in einem Dorf.",
                   "category": "landmark",
                   "coords": [
                         -88.280054,
@@ -1676,7 +2270,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Toronto Transit Commission (TTC) Bus Stop Pole",
-                  "text": "Eine ungewöhnliche Bushaltestelle-Attraktion in Hopkins.",
+                  "text": "Bushaltestelle mit der Aufschrift „Toronto Transit Commission“ in einem Dorf.",
                   "category": "landmark",
                   "coords": [
                         -88.281372,
@@ -1685,7 +2279,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Hopkins Bay",
-                  "text": "Ein Strandresort in der Bucht von Hopkins.",
+                  "text": "Bucht Hopkins in einem Dorf in Belize.",
                   "category": "recreational",
                   "coords": [
                         -88.287817,
@@ -1696,7 +2290,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Hawai'i",
-                  "text": "Hawai'i elnevezésű tengerparti szakasz Hopkinsban.",
+                  "text": "Hawaii nevű üdülőhely egy belize-i faluban.",
                   "category": "recreational",
                   "coords": [
                         -88.288416,
@@ -1705,7 +2299,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Happy Go Luckie Tours",
-                  "text": "Helyi túra- és kirándulásszervező Hopkinsban.",
+                  "text": "A Happy Go Luckie Tours utazásszervező irodája egy faluban.",
                   "category": "landmark",
                   "coords": [
                         -88.28334,
@@ -1714,7 +2308,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Seemore Adventures Dive Shop",
-                  "text": "Búvárbolt és kalandtúra-szervező Hopkinsban.",
+                  "text": "Seemore Adventures búvárbolt egy faluban.",
                   "category": "landmark",
                   "coords": [
                         -88.280054,
@@ -1723,7 +2317,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Toronto Transit Commission (TTC) Bus Stop Pole",
-                  "text": "Egy különleges buszmegálló-látványosság Hopkinsban.",
+                  "text": "Toronto Transit Commission feliratú buszmegálló egy faluban.",
                   "category": "landmark",
                   "coords": [
                         -88.281372,
@@ -1732,7 +2326,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Hopkins Bay",
-                  "text": "Tengerparti üdülőhely a Hopkins-öbölben.",
+                  "text": "Hopkins-öböl egy belize-i faluban.",
                   "category": "recreational",
                   "coords": [
                         -88.287817,
@@ -1743,7 +2337,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Hawai'i",
-                  "text": "O porțiune de plajă numită Hawai'i în Hopkins.",
+                  "text": "Zonă de agrement numită Hawaii într-un sat din Belize.",
                   "category": "recreational",
                   "coords": [
                         -88.288416,
@@ -1752,7 +2346,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Happy Go Luckie Tours",
-                  "text": "Un operator local de tururi și excursii în Hopkins.",
+                  "text": "Oficiul agenției de turism Happy Go Luckie Tours într-un sat.",
                   "category": "landmark",
                   "coords": [
                         -88.28334,
@@ -1761,7 +2355,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Seemore Adventures Dive Shop",
-                  "text": "Un magazin de scufundări și organizator de tururi de aventură în Hopkins.",
+                  "text": "Magazin de scufundări Seemore Adventures într-un sat.",
                   "category": "landmark",
                   "coords": [
                         -88.280054,
@@ -1770,7 +2364,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Toronto Transit Commission (TTC) Bus Stop Pole",
-                  "text": "O stație de autobuz transformată în atracție în Hopkins.",
+                  "text": "Stație de autobuz inscripționată „Toronto Transit Commission” într-un sat.",
                   "category": "landmark",
                   "coords": [
                         -88.281372,
@@ -1779,7 +2373,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Hopkins Bay",
-                  "text": "O stațiune de coastă în golful Hopkins.",
+                  "text": "Golful Hopkins într-un sat din Belize.",
                   "category": "recreational",
                   "coords": [
                         -88.287817,
@@ -1790,7 +2384,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Hawai'i",
-                  "text": "A beach area known as Hawai'i in Hopkins.",
+                  "text": "Recreation area called Hawaii in a Belize village.",
                   "category": "recreational",
                   "coords": [
                         -88.288416,
@@ -1799,7 +2393,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Happy Go Luckie Tours",
-                  "text": "A local tour and excursion operator in Hopkins.",
+                  "text": "Happy Go Luckie Tours office in a village.",
                   "category": "landmark",
                   "coords": [
                         -88.28334,
@@ -1808,7 +2402,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Seemore Adventures Dive Shop",
-                  "text": "A dive shop and adventure tour provider in Hopkins.",
+                  "text": "Seemore Adventures dive shop in a village.",
                   "category": "landmark",
                   "coords": [
                         -88.280054,
@@ -1817,7 +2411,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Toronto Transit Commission Bus Stop",
-                  "text": "A unique bus stop attraction in Hopkins.",
+                  "text": "Bus stop marked 'Toronto Transit Commission' in a village.",
                   "category": "landmark",
                   "coords": [
                         -88.281372,
@@ -1826,7 +2420,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Hopkins Bay",
-                  "text": "A beach resort located at Hopkins Bay.",
+                  "text": "Hopkins Bay in a Belize village.",
                   "category": "recreational",
                   "coords": [
                         -88.287817,
@@ -2517,7 +3111,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Naia Resort",
-                  "text": "Das Naia Resort, ein Erholungsziel in Seine Bight.",
+                  "text": "Naia Resort in der Siedlung Bight.",
                   "category": "landmark",
                   "coords": [
                         -88.358117,
@@ -2528,7 +3122,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Naia Resort",
-                  "text": "A Naia Resort, egy pihenőhely Seine Bightban.",
+                  "text": "Naia Resort Bight településen.",
                   "category": "landmark",
                   "coords": [
                         -88.358117,
@@ -2539,7 +3133,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Naia Resort",
-                  "text": "Naia Resort, o destinație de vacanță în Seine Bight.",
+                  "text": "Naia Resort în localitatea Bight.",
                   "category": "landmark",
                   "coords": [
                         -88.358117,
@@ -2550,7 +3144,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Naia Resort",
-                  "text": "Naia Resort, a vacation destination in Seine Bight.",
+                  "text": "Naia Resort in Bight.",
                   "category": "landmark",
                   "coords": [
                         -88.358117,
@@ -2799,7 +3393,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Cunil",
-                  "text": "Cunil, eine lokale Sehenswürdigkeit in San Jose Palmar.",
+                  "text": "Archäologische Stätte der Cunil-Kultur in Jose Palmar.",
                   "category": "landmark",
                   "coords": [
                         -88.569503,
@@ -2808,7 +3402,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Marcus Canul Monument",
-                  "text": "Ein Denkmal für Marcus Canul in San Jose Palmar.",
+                  "text": "Denkmal für den Maya-Widerstandskämpfer Marcus Canul in Jose Palmar.",
                   "category": "historical",
                   "coords": [
                         -88.5618,
@@ -2817,7 +3411,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Shuga City",
-                  "text": "Shuga City, ein lokales Monument in San Jose Palmar.",
+                  "text": "Historische Stätte Shuga City (ehemalige Zuckerfabrik?) in Jose Palmar.",
                   "category": "historical",
                   "coords": [
                         -88.565557,
@@ -2826,7 +3420,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Tourist Info Booth",
-                  "text": "Ein Informationsstand für Touristen in San Jose Palmar.",
+                  "text": "Touristeninformationsstand in Jose Palmar.",
                   "category": "landmark",
                   "coords": [
                         -88.561141,
@@ -2855,7 +3449,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Cunil",
-                  "text": "Cunil, egy helyi látnivaló San Jose Palmarban.",
+                  "text": "Cunil-kultúra régészeti lelőhelye Jose Palmar-ban.",
                   "category": "landmark",
                   "coords": [
                         -88.569503,
@@ -2864,7 +3458,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Marcus Canul Monument",
-                  "text": "Marcus Canul emlékműve San Jose Palmarban.",
+                  "text": "Marcus Canul maja ellenálló emlékműve Jose Palmar-ban.",
                   "category": "historical",
                   "coords": [
                         -88.5618,
@@ -2873,7 +3467,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Shuga City",
-                  "text": "Shuga City, egy helyi emlékmű San Jose Palmarban.",
+                  "text": "Shuga City történelmi helyszín (régi cukorgyár?) Jose Palmar-ban.",
                   "category": "historical",
                   "coords": [
                         -88.565557,
@@ -2882,7 +3476,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Tourist Info Booth",
-                  "text": "Turisztikai információs bódé San Jose Palmarban.",
+                  "text": "Turisztikai információs pont Jose Palmar-ban.",
                   "category": "landmark",
                   "coords": [
                         -88.561141,
@@ -2911,7 +3505,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Cunil",
-                  "text": "Cunil, o atracție locală în San Jose Palmar.",
+                  "text": "Sit arheologic al culturii Cunil în Jose Palmar.",
                   "category": "landmark",
                   "coords": [
                         -88.569503,
@@ -2920,7 +3514,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Marcus Canul Monument",
-                  "text": "Monumentul lui Marcus Canul din San Jose Palmar.",
+                  "text": "Monumentul lui Marcus Canul, luptător maya, în Jose Palmar.",
                   "category": "historical",
                   "coords": [
                         -88.5618,
@@ -2929,7 +3523,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Shuga City",
-                  "text": "Shuga City, un monument local în San Jose Palmar.",
+                  "text": "Sit istoric Shuga City (fosta fabrică de zahăr?) în Jose Palmar.",
                   "category": "historical",
                   "coords": [
                         -88.565557,
@@ -2938,7 +3532,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Tourist Info Booth",
-                  "text": "Un chioșc de informații turistice în San Jose Palmar.",
+                  "text": "Punct de informare turistică în Jose Palmar.",
                   "category": "landmark",
                   "coords": [
                         -88.561141,
@@ -2967,7 +3561,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Cunil",
-                  "text": "Cunil, a local attraction in San Jose Palmar.",
+                  "text": "Cunil culture archaeological site in Jose Palmar.",
                   "category": "landmark",
                   "coords": [
                         -88.569503,
@@ -2976,7 +3570,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Marcus Canul Monument",
-                  "text": "A monument honoring Marcus Canul in San Jose Palmar.",
+                  "text": "Monument to Maya resistance leader Marcus Canul in Jose Palmar.",
                   "category": "historical",
                   "coords": [
                         -88.5618,
@@ -2985,7 +3579,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Shuga City",
-                  "text": "Shuga City, a local monument in San Jose Palmar.",
+                  "text": "Shuga City historic site (former sugar mill?) in Jose Palmar.",
                   "category": "historical",
                   "coords": [
                         -88.565557,
@@ -2994,7 +3588,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Tourist Info Booth",
-                  "text": "A tourist information booth in San Jose Palmar.",
+                  "text": "Tourist info booth in Jose Palmar.",
                   "category": "landmark",
                   "coords": [
                         -88.561141,
@@ -4264,7 +4858,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Tapir Mountain Nature Reserve",
-                  "text": "Das Naturschutzgebiet Tapir Mountain bei San Roman (Cayo).",
+                  "text": "Naturreservat an den Hängen des Tapir Mountain, das Wildtiere im Cayo-Distrikt schützt.",
                   "category": "natural",
                   "coords": [
                         -88.886739,
@@ -4275,7 +4869,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Tapir Mountain Nature Reserve",
-                  "text": "A Tapir Mountain természetvédelmi terület San Roman (Cayo) közelében.",
+                  "text": "Természetvédelmi terület a Tapir-hegy lejtőin, a Cayo kerület vadvilágának védelmére.",
                   "category": "natural",
                   "coords": [
                         -88.886739,
@@ -4286,7 +4880,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Tapir Mountain Nature Reserve",
-                  "text": "Rezervația naturală Tapir Mountain din San Roman (Cayo).",
+                  "text": "Rezervație naturală pe versanții Muntelui Tapir, care protejează fauna din districtul Cayo.",
                   "category": "natural",
                   "coords": [
                         -88.886739,
@@ -4297,7 +4891,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Tapir Mountain Nature Reserve",
-                  "text": "The Tapir Mountain Nature Reserve in San Roman (Cayo).",
+                  "text": "Nature reserve on the slopes of Tapir Mountain, protecting local wildlife in the Cayo district.",
                   "category": "natural",
                   "coords": [
                         -88.886739,
@@ -4656,7 +5250,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "de": [
             {
                   "name": "XAIBE",
-                  "text": "Das XAIBE Monument in Santa Clara (Corozal).",
+                  "text": "Historische Ruinen einer präkolumbischen Siedlung in Clara.",
                   "category": "historical",
                   "coords": [
                         -88.433609,
@@ -4667,7 +5261,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "XAIBE",
-                  "text": "A XAIBE emlékmű Santa Clara (Corozal) településen.",
+                  "text": "Prekolumbi település történelmi romjai Clara településen.",
                   "category": "historical",
                   "coords": [
                         -88.433609,
@@ -4678,7 +5272,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "XAIBE",
-                  "text": "Monumentul XAIBE din Santa Clara (Corozal).",
+                  "text": "Ruine istorice ale unei așezări precolumbiene din Clara.",
                   "category": "historical",
                   "coords": [
                         -88.433609,
@@ -4689,7 +5283,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "en": [
             {
                   "name": "XAIBE",
-                  "text": "The XAIBE monument in Santa Clara (Corozal).",
+                  "text": "Historic ruins of a pre-Columbian settlement in Clara.",
                   "category": "historical",
                   "coords": [
                         -88.433609,
@@ -5098,7 +5692,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Rock Farm",
-                  "text": "Rock Farm, ein Naturschutzgebiet in Roaring Creek.",
+                  "text": "Natürliches Gebiet mit felsigen Aufschlüssen und Ackerland entlang des Creek.",
                   "category": "natural",
                   "coords": [
                         -88.79955,
@@ -5107,7 +5701,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Belize Monument",
-                  "text": "Das Belize Monument in Roaring Creek.",
+                  "text": "Historisches Denkmal in Creek, das an ein wichtiges Ereignis der belizischen Geschichte erinnert.",
                   "category": "historical",
                   "coords": [
                         -88.773055,
@@ -5116,7 +5710,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Evangelical Quest Church",
-                  "text": "Die Evangelical Quest Church, eine Sehenswürdigkeit in Roaring Creek.",
+                  "text": "Evangelische Kirche in Creek, bekannt für ihre schlichte Holzbauweise.",
                   "category": "landmark",
                   "coords": [
                         -88.804192,
@@ -5125,7 +5719,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Clock Tower",
-                  "text": "Ein Uhrturm-Denkmal in Roaring Creek.",
+                  "text": "Historischer Uhrturm im Zentrum von Creek, ein lokaler Zeitmesser.",
                   "category": "historical",
                   "coords": [
                         -88.784767,
@@ -5134,7 +5728,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Christ Lutheran Church",
-                  "text": "Die lutherische Christuskirche in Roaring Creek.",
+                  "text": "Lutherische Kirche in Creek mit einem traditionellen Kirchturm und Buntglasfenstern.",
                   "category": "landmark",
                   "coords": [
                         -88.793811,
@@ -5143,7 +5737,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Our Lady of Guadalupe Cathedral",
-                  "text": "Die Kathedrale Unserer Lieben Frau von Guadalupe in Roaring Creek.",
+                  "text": "Kathedrale in Creek, der Jungfrau von Guadalupe geweiht, mit reicher Innenausstattung.",
                   "category": "religious",
                   "coords": [
                         -88.763503,
@@ -5163,7 +5757,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Rock Farm",
-                  "text": "Rock Farm, egy természetvédelmi terület Roaring Creekben.",
+                  "text": "Természetes terület sziklás kibúvásokkal és mezőgazdasági földekkel a Creek patak mentén.",
                   "category": "natural",
                   "coords": [
                         -88.79955,
@@ -5172,7 +5766,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Belize Monument",
-                  "text": "A Belize emlékmű Roaring Creekben.",
+                  "text": "Történelmi emlékmű Creekben, amely Belize történelmének egy fontos eseményére emlékeztet.",
                   "category": "historical",
                   "coords": [
                         -88.773055,
@@ -5181,7 +5775,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Evangelical Quest Church",
-                  "text": "Az Evangelical Quest templom, egy látnivaló Roaring Creekben.",
+                  "text": "Evangélikus templom Creekben, egyszerű faépítészetéről ismert.",
                   "category": "landmark",
                   "coords": [
                         -88.804192,
@@ -5190,7 +5784,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Clock Tower",
-                  "text": "Egy óratorony emlékmű Roaring Creekben.",
+                  "text": "Történelmi óratorony Creek központjában, helyi időmérő.",
                   "category": "historical",
                   "coords": [
                         -88.784767,
@@ -5199,7 +5793,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Christ Lutheran Church",
-                  "text": "A Krisztus Evangélikus Templom Roaring Creekben.",
+                  "text": "Lutheránus templom Creekben, hagyományos toronnyal és színes üvegablakokkal.",
                   "category": "landmark",
                   "coords": [
                         -88.793811,
@@ -5208,7 +5802,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Our Lady of Guadalupe Cathedral",
-                  "text": "Guadalupei Miasszonyunk székesegyház Roaring Creekben.",
+                  "text": "Székesegyház Creekben, a guadalupei Szűzanya tiszteletére, gazdag belsővel.",
                   "category": "religious",
                   "coords": [
                         -88.763503,
@@ -5228,7 +5822,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Rock Farm",
-                  "text": "Rock Farm, o rezervație naturală în Roaring Creek.",
+                  "text": "Zonă naturală cu aflorimente stâncoase și terenuri agricole de-a lungul pârâului Creek.",
                   "category": "natural",
                   "coords": [
                         -88.79955,
@@ -5237,7 +5831,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Belize Monument",
-                  "text": "Monumentul Belize din Roaring Creek.",
+                  "text": "Monument istoric din Creek, care comemorează un eveniment-cheie din istoria Belizei.",
                   "category": "historical",
                   "coords": [
                         -88.773055,
@@ -5246,7 +5840,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Evangelical Quest Church",
-                  "text": "Biserica Evangelical Quest, o atracție în Roaring Creek.",
+                  "text": "Biserică evanghelică din Creek, remarcată pentru arhitectura simplă din lemn.",
                   "category": "landmark",
                   "coords": [
                         -88.804192,
@@ -5255,7 +5849,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Clock Tower",
-                  "text": "Un monument sub formă de turn cu ceas în Roaring Creek.",
+                  "text": "Turnul cu ceas istoric din centrul localității Creek, un reper local pentru oră.",
                   "category": "historical",
                   "coords": [
                         -88.784767,
@@ -5264,7 +5858,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Christ Lutheran Church",
-                  "text": "Biserica Lutherană Christ din Roaring Creek.",
+                  "text": "Biserică luterană din Creek, cu un turn tradițional și vitralii.",
                   "category": "landmark",
                   "coords": [
                         -88.793811,
@@ -5273,7 +5867,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Our Lady of Guadalupe Cathedral",
-                  "text": "Catedrala Maica Domnului de Guadalupe din Roaring Creek.",
+                  "text": "Catedrală din Creek, dedicată Fecioarei din Guadalupe, cu interior ornamentat.",
                   "category": "religious",
                   "coords": [
                         -88.763503,
@@ -5293,7 +5887,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Rock Farm",
-                  "text": "Rock Farm, a nature reserve in Roaring Creek.",
+                  "text": "Natural area with rocky outcrops and farmland along Creek.",
                   "category": "natural",
                   "coords": [
                         -88.79955,
@@ -5302,7 +5896,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Belize Monument",
-                  "text": "The Belize Monument in Roaring Creek.",
+                  "text": "Historical monument in Creek commemorating a key event in Belize's history.",
                   "category": "historical",
                   "coords": [
                         -88.773055,
@@ -5311,7 +5905,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Evangelical Quest Church",
-                  "text": "The Evangelical Quest Church, an attraction in Roaring Creek.",
+                  "text": "Evangelical church in Creek, noted for its simple wooden architecture.",
                   "category": "landmark",
                   "coords": [
                         -88.804192,
@@ -5320,7 +5914,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Clock Tower",
-                  "text": "A clock tower monument in Roaring Creek.",
+                  "text": "Historic clock tower in the center of Creek, a local landmark for telling time.",
                   "category": "historical",
                   "coords": [
                         -88.784767,
@@ -5329,7 +5923,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Christ Lutheran Church",
-                  "text": "Christ Lutheran Church in Roaring Creek.",
+                  "text": "Lutheran church in Creek featuring a traditional steeple and stained glass windows.",
                   "category": "landmark",
                   "coords": [
                         -88.793811,
@@ -5338,7 +5932,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             },
             {
                   "name": "Our Lady of Guadalupe Cathedral",
-                  "text": "Our Lady of Guadalupe Cathedral in Roaring Creek.",
+                  "text": "Cathedral in Creek dedicated to Our Lady of Guadalupe, with ornate interior.",
                   "category": "religious",
                   "coords": [
                         -88.763503,

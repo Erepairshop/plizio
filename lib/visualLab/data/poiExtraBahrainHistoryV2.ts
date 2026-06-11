@@ -4,7 +4,88 @@ import type { POI } from "./poi";
 
 export const poiExtraBahrainHistoryV2: POI[] = [
   {
-    id: "bahrain-fort-history-v2",
+    id: "bahrain-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Harris Cafe",
+                  "text": "Ein beliebtes Café in der Nähe des Forts von Bahrain, bekannt für seine traditionelle Atmosphäre.",
+                  "category": "landmark",
+                  "coords": [
+                        50.5242,
+                        26.220636
+                  ]
+            },
+            {
+                  "name": "Qal'at al-Bahrain Fort",
+                  "text": "Diese UNESCO-Welterbestätte umfasst ein im 16. Jahrhundert von den Portugiesen erbautes Fort auf einem antiken Dilmun-Hügel.",
+                  "category": "museum",
+                  "coords": [
+                        50.522547,
+                        26.235248
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Harris Cafe",
+                  "text": "Népszerű kávézó a bahreini erőd közelében, amely tradicionális hangulatáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        50.5242,
+                        26.220636
+                  ]
+            },
+            {
+                  "name": "Qal'at al-Bahrain Fort",
+                  "text": "Ez az UNESCO világörökségi helyszín egy 16. századi portugál erődöt mutat be egy ősi Dilmun-halmon.",
+                  "category": "museum",
+                  "coords": [
+                        50.522547,
+                        26.235248
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Harris Cafe",
+                  "text": "O cafenea populară lângă Fortul Bahrain, cunoscută pentru atmosfera sa tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        50.5242,
+                        26.220636
+                  ]
+            },
+            {
+                  "name": "Qal'at al-Bahrain Fort",
+                  "text": "Acest sit din patrimoniul mondial UNESCO cuprinde un fort construit de portughezi în secolul al XVI-lea pe un vechi dâmb Dilmun.",
+                  "category": "museum",
+                  "coords": [
+                        50.522547,
+                        26.235248
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Harris Cafe",
+                  "text": "A popular cafe located near the Bahrain Fort, offering a traditional atmosphere for visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        50.5242,
+                        26.220636
+                  ]
+            },
+            {
+                  "name": "Qal'at al-Bahrain Fort",
+                  "text": "A UNESCO World Heritage site featuring a 16th-century Portuguese fort built atop an ancient Dilmun archaeological mound.",
+                  "category": "museum",
+                  "coords": [
+                        50.522547,
+                        26.235248
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "BH-17",
     coords: [50.5231, 26.2333],
@@ -107,7 +188,88 @@ export const poiExtraBahrainHistoryV2: POI[] = [
       fr: ["Patrimoine mondial de l'UNESCO depuis 2005.", "Représente la capitale de la culture Dilmun.", "Forteresse portugaise du XVIe siècle.", "Découvertes allant de 2300 av. J.-C. à nos jours.", "Composé de sept couches d'occupation humaine.", "Comprend des structures résidentielles, commerciales et militaires.", "Un musée adjacent présente les artefacts.", "Position stratégique sur le golfe Persique."],
     }, image: "/poi-images/bahrain-fort-history-v2.webp"},
   {
-    id: "arad-fort-history-v2",
+    id: "arad-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Arad Fort",
+                  "text": "Diese bedeutende Verteidigungsfestung aus dem 15. Jahrhundert zeichnet sich durch ihren typischen quadratischen Grundriss und ihre massiven Ecktürme aus, die die Küstenwasserstraßen überblicken.",
+                  "category": "landmark",
+                  "coords": [
+                        50.627167,
+                        26.25248
+                  ]
+            },
+            {
+                  "name": "Osama Bin Zaid Mosque",
+                  "text": "Eine aktive islamische Gemeindemoschee, die inmitten der historischen Umgebung des Bezirks einen Raum für Versammlungen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        50.630811,
+                        26.255451
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Arad Fort",
+                  "text": "Ezt a jelentős 15. századi védelmi erődöt jellegzetes négyzetes alaprajza és a part menti vízi utakra néző robusztus saroktornyai jellemzik.",
+                  "category": "landmark",
+                  "coords": [
+                        50.627167,
+                        26.25248
+                  ]
+            },
+            {
+                  "name": "Osama Bin Zaid Mosque",
+                  "text": "Aktív iszlám közösségi mecset, amely a negyed történelmi környezetében biztosít helyet a gyülekezetnek.",
+                  "category": "landmark",
+                  "coords": [
+                        50.630811,
+                        26.255451
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Arad Fort",
+                  "text": "Această fortăreață defensivă notabilă din secolul al XV-lea se caracterizează prin planul său tipic pătrat și turnurile de colț robuste care domină căile navigabile de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        50.627167,
+                        26.25248
+                  ]
+            },
+            {
+                  "name": "Osama Bin Zaid Mosque",
+                  "text": "O moschee comunitară islamică activă care oferă un spațiu de adunare în mijlocul împrejurimilor istorice ale cartierului.",
+                  "category": "landmark",
+                  "coords": [
+                        50.630811,
+                        26.255451
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arad Fort",
+                  "text": "This notable 15th-century defensive stronghold is characterized by its typical square layout and robust corner towers overlooking the coastal waterways.",
+                  "category": "landmark",
+                  "coords": [
+                        50.627167,
+                        26.25248
+                  ]
+            },
+            {
+                  "name": "Osama Bin Zaid Mosque",
+                  "text": "An active Islamic community mosque offering a space for congregation amidst the district's historic surroundings.",
+                  "category": "landmark",
+                  "coords": [
+                        50.630811,
+                        26.255451
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "BH-15",
     coords: [50.6272, 26.2522],
@@ -196,7 +358,160 @@ export const poiExtraBahrainHistoryV2: POI[] = [
       fr: ["Construit au XVe siècle dans le style islamique.", "Plan carré avec quatre tours cylindriques.", "Servait à contrôler les voies maritimes autour de Muharraq.", "Renforcé par les Omanais au début du XIXe siècle.", "Entièrement restauré dans les années 1980.", "Utilisation de matériaux traditionnels comme la pierre de corail.", "Lieu privilégié pour les événements culturels.", "Le fort bénéficie d'une mise en lumière spectaculaire la nuit."],
     }, image: "/poi-images/arad-fort-history-v2.webp"},
   {
-    id: "riffa-fort-history-v2",
+    id: "riffa-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Military Museum",
+                  "text": "Dieses Museum stellt historische Waffen, Uniformen und Artefakte aus, die die Entwicklung der bahrainischen Verteidigungsstreitkräfte detailliert beschreiben.",
+                  "category": "museum",
+                  "coords": [
+                        50.562924,
+                        26.120011
+                  ]
+            },
+            {
+                  "name": "Rifa Fort",
+                  "text": "Diese historische Festung wurde im frühen 19. Jahrhundert von Scheich Salman bin Ahmed Al Khalifa erbaut und bietet einen herrlichen Blick über das Hunanaiya-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        50.562955,
+                        26.117816
+                  ]
+            },
+            {
+                  "name": "Ibn Rush Mosque",
+                  "text": "Dieses lokale muslimische Gotteshaus ist ein wichtiger spiritueller Treffpunkt für die Bewohner rund um die Festung.",
+                  "category": "landmark",
+                  "coords": [
+                        50.563663,
+                        26.121625
+                  ]
+            },
+            {
+                  "name": "Hamad bin Abdulla Al-Ghatam Mosque",
+                  "text": "Diese Moschee mit klassischen islamischen Architekturelementen ist ein ruhiger Gemeindestandort für die täglichen Gebete in der Region Riffa.",
+                  "category": "landmark",
+                  "coords": [
+                        50.573064,
+                        26.118745
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Military Museum",
+                  "text": "Ez a múzeum történelmi fegyvereket, egyenruhákat és műtárgyakat állít ki, amelyek a bahreini védelmi erők fejlődését mutatják be.",
+                  "category": "museum",
+                  "coords": [
+                        50.562924,
+                        26.120011
+                  ]
+            },
+            {
+                  "name": "Rifa Fort",
+                  "text": "A Szalmán bin Ahmed Al Kalifa sejk által a 19. század elején építtetett történelmi erőd lenyűgöző kilátást nyújt a Hunanaiya-völgyre.",
+                  "category": "landmark",
+                  "coords": [
+                        50.562955,
+                        26.117816
+                  ]
+            },
+            {
+                  "name": "Ibn Rush Mosque",
+                  "text": "Ez a helyi muszlim istentiszteleti hely fontos spirituális gyülekezési pontot biztosít az erőd környékén élők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        50.563663,
+                        26.121625
+                  ]
+            },
+            {
+                  "name": "Hamad bin Abdulla Al-Ghatam Mosque",
+                  "text": "A klasszikus iszlám építészeti elemekkel díszített mecset a napi imák nyugodt közösségi helyszíne Riffa környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        50.573064,
+                        26.118745
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Military Museum",
+                  "text": "Acest muzeu expune arme istorice, uniforme și artefacte care detaliază evoluția Forței de Apărare din Bahrain.",
+                  "category": "museum",
+                  "coords": [
+                        50.562924,
+                        26.120011
+                  ]
+            },
+            {
+                  "name": "Rifa Fort",
+                  "text": "Construită de șeicul Salman bin Ahmed Al Khalifa la începutul secolului al XIX-lea, această fortificație istorică oferă vederi panoramice asupra văii Hunanaiya.",
+                  "category": "landmark",
+                  "coords": [
+                        50.562955,
+                        26.117816
+                  ]
+            },
+            {
+                  "name": "Ibn Rush Mosque",
+                  "text": "Acest lăcaș de cult musulman local oferă un important punct de adunare spirituală pentru rezidenții din jurul fortului.",
+                  "category": "landmark",
+                  "coords": [
+                        50.563663,
+                        26.121625
+                  ]
+            },
+            {
+                  "name": "Hamad bin Abdulla Al-Ghatam Mosque",
+                  "text": "Având elemente arhitecturale islamice clasice, această moschee este un loc comunitar seren pentru rugăciunile zilnice din zona Riffa.",
+                  "category": "landmark",
+                  "coords": [
+                        50.573064,
+                        26.118745
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Military Museum",
+                  "text": "This museum exhibits historical weaponry, uniforms, and artifacts detailing the evolution of the Bahrain Defence Force.",
+                  "category": "museum",
+                  "coords": [
+                        50.562924,
+                        26.120011
+                  ]
+            },
+            {
+                  "name": "Rifa Fort",
+                  "text": "Built by Sheikh Salman bin Ahmed Al Khalifa in the early 19th century, this historic fortification offers commanding views over the Hunanaiya valley.",
+                  "category": "landmark",
+                  "coords": [
+                        50.562955,
+                        26.117816
+                  ]
+            },
+            {
+                  "name": "Ibn Rush Mosque",
+                  "text": "This local Muslim place of worship provides an important spiritual gathering point for the residents around the fort.",
+                  "category": "landmark",
+                  "coords": [
+                        50.563663,
+                        26.121625
+                  ]
+            },
+            {
+                  "name": "Hamad bin Abdulla Al-Ghatam Mosque",
+                  "text": "Featuring classic Islamic architectural elements, this mosque is a serene community site for daily prayers in the Riffa area.",
+                  "category": "landmark",
+                  "coords": [
+                        50.573064,
+                        26.118745
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "BH-14",
     coords: [50.5594, 26.1189],
@@ -299,7 +614,268 @@ export const poiExtraBahrainHistoryV2: POI[] = [
       fr: ["Construit en 1812 par le Cheikh Salman bin Ahmed Al Khalifa.", "Résidence des souverains Al-Khalifa au XIXe siècle.", "Emplacement stratégique surplombant la vallée de Hunanaiya.", "Architecture classique de forteresse bahreïnie.", "Comprend une cour, des espaces de vie et une mosquée.", "Lieu de naissance du futur souverain Cheikh Isa bin Ali.", "Récemment restauré et transformé en musée.", "Offre un aperçu de la vie royale au XIXe siècle."],
     }, image: "/poi-images/riffa-fort-history-v2.webp"},
   {
-    id: "barbar-temple-history-v2",
+    id: "barbar-temple-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Barbar-Tempel",
+                  "text": "Der Barbar-Tempel ist eine archäologische Stätte, die drei aufeinanderfolgende Dilmun-Tempel aus dem 3. Jahrtausend v. Chr. umfasst.",
+                  "category": "landmark",
+                  "coords": [
+                        50.484099,
+                        26.226169
+                  ]
+            },
+            {
+                  "name": "Abo nashwan mosque",
+                  "text": "Die Abo-Nashwan-Moschee ist ein aktiver Ort des täglichen islamischen Gottesdienstes in der Nähe der historischen Siedlung Barbar.",
+                  "category": "landmark",
+                  "coords": [
+                        50.501802,
+                        26.210814
+                  ]
+            },
+            {
+                  "name": "Alwatia Mosque",
+                  "text": "Die Alwatia-Moschee dient der lokalen muslimischen Gemeinde mit einem strukturierten Gebetsraum, der in das Viertel Barbar integriert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        50.504426,
+                        26.211079
+                  ]
+            },
+            {
+                  "name": "Juffair Mosque",
+                  "text": "Ausgestattet mit wesentlichen rituellen Waschanlagen, unterstützt die Juffair-Moschee die regelmäßigen Gemeindegebete für die Anwohner.",
+                  "category": "landmark",
+                  "coords": [
+                        50.503487,
+                        26.210014
+                  ]
+            },
+            {
+                  "name": "ALKhuder Mosque",
+                  "text": "Die ALKhuder-Moschee bietet den islamischen Gläubigen in der Nähe der alten archäologischen Stätten von Barbar einen tief verwurzelten gemeinschaftlichen Anker.",
+                  "category": "landmark",
+                  "coords": [
+                        50.50592,
+                        26.215848
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "Diese Imam Ali gewidmete Moschee ist ein wichtiges spirituelles Zentrum für schiitische Gläubige in der historischen Region Barbar.",
+                  "category": "landmark",
+                  "coords": [
+                        50.503141,
+                        26.215525
+                  ]
+            },
+            {
+                  "name": "Sheikh Ali Hammad Mosque",
+                  "text": "Die Sheikh Ali Hammad Moschee fungiert als ausgewiesener Gebetssaal und bietet der islamischen Gemeinde in der Gegend von Barbar tägliche Gottesdienste an.",
+                  "category": "landmark",
+                  "coords": [
+                        50.479309,
+                        26.230745
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Barbar Temple",
+                  "text": "A Barbar-templom egy régészeti lelőhely, amely három egymást követő Dilmun-templomot foglal magában az időszámításunk előtti 3. évezredből.",
+                  "category": "landmark",
+                  "coords": [
+                        50.484099,
+                        26.226169
+                  ]
+            },
+            {
+                  "name": "Abo nashwan mosque",
+                  "text": "Az Abo Nashwan mecset a mindennapi iszlám imádat aktív helyszíne a történelmi Barbar település közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        50.501802,
+                        26.210814
+                  ]
+            },
+            {
+                  "name": "Alwatia Mosque",
+                  "text": "Az Alwatia mecset a helyi muszlim közösséget szolgálja egy strukturált imatérrel, amely a barbari szomszédságba van integrálva.",
+                  "category": "landmark",
+                  "coords": [
+                        50.504426,
+                        26.211079
+                  ]
+            },
+            {
+                  "name": "Juffair Mosque",
+                  "text": "Az alapvető rituális mosdási létesítményekkel felszerelt Juffair mecset támogatja a helyi lakosok rendszeres gyülekezeti imáit.",
+                  "category": "landmark",
+                  "coords": [
+                        50.503487,
+                        26.210014
+                  ]
+            },
+            {
+                  "name": "ALKhuder Mosque",
+                  "text": "Az ALKhuder mecset mélyen gyökerező közösségi horgonyként szolgál az iszlám hívők számára az ókori barbari régészeti lelőhelyek közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        50.50592,
+                        26.215848
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "Ez az Imam Alinak szentelt mecset a síita hívők jelentős spirituális központja a történelmi Barbar régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        50.503141,
+                        26.215525
+                  ]
+            },
+            {
+                  "name": "Sheikh Ali Hammad Mosque",
+                  "text": "A Sheikh Ali Hammad mecset kijelölt imateremként működik, amely napi istentiszteleteket kínál a barbar környéki iszlám gyülekezetnek.",
+                  "category": "landmark",
+                  "coords": [
+                        50.479309,
+                        26.230745
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Barbar Temple",
+                  "text": "Templul Barbar este un sit arheologic care cuprinde trei temple succesive Dilmun datând din mileniul III î.Hr.",
+                  "category": "landmark",
+                  "coords": [
+                        50.484099,
+                        26.226169
+                  ]
+            },
+            {
+                  "name": "Abo nashwan mosque",
+                  "text": "Moscheea Abo Nashwan este un loc activ de cult islamic zilnic, situat în vecinătatea așezării istorice Barbar.",
+                  "category": "landmark",
+                  "coords": [
+                        50.501802,
+                        26.210814
+                  ]
+            },
+            {
+                  "name": "Alwatia Mosque",
+                  "text": "Moscheea Alwatia servește comunitatea musulmană locală cu un spațiu de rugăciune structurat, integrat în cartierul Barbar.",
+                  "category": "landmark",
+                  "coords": [
+                        50.504426,
+                        26.211079
+                  ]
+            },
+            {
+                  "name": "Juffair Mosque",
+                  "text": "Echipată cu facilități esențiale pentru abluțiunea rituală, Moscheea Juffair sprijină rugăciunile regulate ale congregației pentru locuitorii din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        50.503487,
+                        26.210014
+                  ]
+            },
+            {
+                  "name": "ALKhuder Mosque",
+                  "text": "Moscheea ALKhuder oferă o ancoră comunitară adânc înrădăcinată pentru credincioșii islamici din apropierea siturilor arheologice antice din Barbar.",
+                  "category": "landmark",
+                  "coords": [
+                        50.50592,
+                        26.215848
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "Dedicată Imamului Ali, această moschee este un centru spiritual semnificativ pentru credincioșii șiiți din regiunea istorică Barbar.",
+                  "category": "landmark",
+                  "coords": [
+                        50.503141,
+                        26.215525
+                  ]
+            },
+            {
+                  "name": "Sheikh Ali Hammad Mosque",
+                  "text": "Moscheea Șeicului Ali Hammad funcționează ca o sală de rugăciune desemnată, oferind slujbe zilnice congregației islamice din zona Barbar.",
+                  "category": "landmark",
+                  "coords": [
+                        50.479309,
+                        26.230745
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Barbar Temple",
+                  "text": "The Barbar Temple is an archaeological site comprising three successive Dilmun temples dating back to the 3rd millennium BC.",
+                  "category": "landmark",
+                  "coords": [
+                        50.484099,
+                        26.226169
+                  ]
+            },
+            {
+                  "name": "Abo nashwan mosque",
+                  "text": "Abo Nashwan Mosque is an active place of daily Islamic worship situated in the vicinity of the historic Barbar settlement.",
+                  "category": "landmark",
+                  "coords": [
+                        50.501802,
+                        26.210814
+                  ]
+            },
+            {
+                  "name": "Alwatia Mosque",
+                  "text": "The Alwatia Mosque serves the local Muslim community with a structured prayer space integrated into the neighborhood of Barbar.",
+                  "category": "landmark",
+                  "coords": [
+                        50.504426,
+                        26.211079
+                  ]
+            },
+            {
+                  "name": "Juffair Mosque",
+                  "text": "Equipped with essential ritual ablution facilities, the Juffair Mosque supports regular congregational prayers for local residents.",
+                  "category": "landmark",
+                  "coords": [
+                        50.503487,
+                        26.210014
+                  ]
+            },
+            {
+                  "name": "ALKhuder Mosque",
+                  "text": "ALKhuder Mosque provides a deeply rooted communal anchor for the Islamic faithful near the ancient archaeological sites of Barbar.",
+                  "category": "landmark",
+                  "coords": [
+                        50.50592,
+                        26.215848
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "Dedicated to Imam Ali, this mosque is a significant spiritual center for Shia worshippers in the historical region of Barbar.",
+                  "category": "landmark",
+                  "coords": [
+                        50.503141,
+                        26.215525
+                  ]
+            },
+            {
+                  "name": "Sheikh Ali Hammad Mosque",
+                  "text": "The Sheikh Ali Hammad Mosque acts as a designated prayer hall offering daily services to the Islamic congregation in the Barbar area.",
+                  "category": "landmark",
+                  "coords": [
+                        50.479309,
+                        26.230745
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "BH-17",
     coords: [50.485, 26.2255],
@@ -379,7 +955,340 @@ export const poiExtraBahrainHistoryV2: POI[] = [
       fr: ["Appartient à la culture Dilmun, daté d'environ 3000 av. J.-C.", "Composé de trois temples successifs.", "Dédié au dieu sumérien Enki.", "Un puits sacré est l'élément central.", "Les découvertes attestent d'échanges avec la Mésopotamie.", "Découvert par une équipe d'archéologues danois en 1954.", "Témoigne de techniques de construction avancées.", "Lieu majeur pour les rituels religieux de l'époque Dilmun."],
     }, image: "/poi-images/barbar-temple-history-v2.webp"},
   {
-    id: "dilmun-burial-mounds-history-v2",
+    id: "dilmun-burial-mounds-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Burial mound",
+                  "text": "Eine antike kreisförmige Grabstruktur der Dilmun-Zivilisation, die in der Wüstenlandschaft verteilt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        50.515008,
+                        26.157578
+                  ]
+            },
+            {
+                  "name": "Royal Mound 15",
+                  "text": "Ein markantes prähistorisches Grab der Dilmun-Könige im archäologischen Feld von A'ali.",
+                  "category": "historical",
+                  "coords": [
+                        50.514691,
+                        26.156499
+                  ]
+            },
+            {
+                  "name": "Madinat Hamad 1 Burial Mound Field",
+                  "text": "Eine weitläufige antike Nekropole, in der Tausende von Grabhügeln aus der Dilmun-Ära inmitten moderner Häuser erhalten sind.",
+                  "category": "historical",
+                  "coords": [
+                        50.503221,
+                        26.140318
+                  ]
+            },
+            {
+                  "name": "A'ali Burial Mounds",
+                  "text": "Diese prähistorischen Dilmun-Gräber bilden einen der größten antiken Friedhöfe der Welt.",
+                  "category": "historical",
+                  "coords": [
+                        50.511396,
+                        26.148171
+                  ]
+            },
+            {
+                  "name": "Royal Mound 2",
+                  "text": "Eine große, bedeutende antike Grabstätte im königlichen Bereich der Nekropole von A'ali.",
+                  "category": "historical",
+                  "coords": [
+                        50.514917,
+                        26.159921
+                  ]
+            },
+            {
+                  "name": "Al Rasool Al Aadham mosque (p)",
+                  "text": "Eine lokale Moschee nahe der historischen Dilmun-Hügel im Bezirk Madinat Hamad.",
+                  "category": "landmark",
+                  "coords": [
+                        50.500647,
+                        26.144418
+                  ]
+            },
+            {
+                  "name": "Wadi Alsail Mosque",
+                  "text": "Ein Gotteshaus für das Wohnviertel im Wüstental von Wadi Alsail.",
+                  "category": "landmark",
+                  "coords": [
+                        50.523291,
+                        26.132266
+                  ]
+            },
+            {
+                  "name": "Moudhi Mosque",
+                  "text": "Eine Stadtviertel-Moschee, die den Bewohnern von Madinat Hamad einen spirituellen Raum bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        50.534006,
+                        26.153445
+                  ]
+            },
+            {
+                  "name": "Imam Al-Rida Mosque",
+                  "text": "Ein modernes islamisches Zentrum und eine Moschee in der städtischen Umgebung von Madinat Hamad.",
+                  "category": "landmark",
+                  "coords": [
+                        50.528467,
+                        26.153528
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Burial mound",
+                  "text": "A Dilmun-civilizációból származó ősi kör alakú sírhely a sivatagi tájon.",
+                  "category": "landmark",
+                  "coords": [
+                        50.515008,
+                        26.157578
+                  ]
+            },
+            {
+                  "name": "Royal Mound 15",
+                  "text": "A Dilmun-királyi családhoz tartozó kiemelkedő őskori sír az A'ali régészeti lelőhelyen.",
+                  "category": "historical",
+                  "coords": [
+                        50.514691,
+                        26.156499
+                  ]
+            },
+            {
+                  "name": "Madinat Hamad 1 Burial Mound Field",
+                  "text": "Kiterjedt ősi nekropolisz, ahol Dilmun-kori sírhalmok ezrei maradtak fenn a modern házak között.",
+                  "category": "historical",
+                  "coords": [
+                        50.503221,
+                        26.140318
+                  ]
+            },
+            {
+                  "name": "A'ali Burial Mounds",
+                  "text": "Ezek az őskori Dilmun-sírok a világ egyik legnagyobb ókori temetőjét alkotják.",
+                  "category": "historical",
+                  "coords": [
+                        50.511396,
+                        26.148171
+                  ]
+            },
+            {
+                  "name": "Royal Mound 2",
+                  "text": "Nagy, jelentős ókori temetkezési hely az A'ali nekropolisz királyi részén.",
+                  "category": "historical",
+                  "coords": [
+                        50.514917,
+                        26.159921
+                  ]
+            },
+            {
+                  "name": "Al Rasool Al Aadham mosque (p)",
+                  "text": "Helyi mecset a történelmi Dilmun-halmok közelében, Madinat Hamad negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        50.500647,
+                        26.144418
+                  ]
+            },
+            {
+                  "name": "Wadi Alsail Mosque",
+                  "text": "Istentiszteleti hely Wadi Alsail sivatagi völgyének lakónegyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        50.523291,
+                        26.132266
+                  ]
+            },
+            {
+                  "name": "Moudhi Mosque",
+                  "text": "Környékbeli mecset, amely lelki helyszínt biztosít Madinat Hamad lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        50.534006,
+                        26.153445
+                  ]
+            },
+            {
+                  "name": "Imam Al-Rida Mosque",
+                  "text": "Modern iszlám központ és mecset Madinat Hamad városi környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        50.528467,
+                        26.153528
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Burial mound",
+                  "text": "O structură funerară circulară antică din civilizația Dilmun, răspândită în peisajul deșertic.",
+                  "category": "landmark",
+                  "coords": [
+                        50.515008,
+                        26.157578
+                  ]
+            },
+            {
+                  "name": "Royal Mound 15",
+                  "text": "Un mormânt preistoric proeminent aparținând regalității Dilmun din situl arheologic A'ali.",
+                  "category": "historical",
+                  "coords": [
+                        50.514691,
+                        26.156499
+                  ]
+            },
+            {
+                  "name": "Madinat Hamad 1 Burial Mound Field",
+                  "text": "O vastă necropolă antică unde mii de movile din epoca Dilmun sunt conservate printre locuințele moderne.",
+                  "category": "historical",
+                  "coords": [
+                        50.503221,
+                        26.140318
+                  ]
+            },
+            {
+                  "name": "A'ali Burial Mounds",
+                  "text": "Aceste morminte preistorice Dilmun formează unul dintre cele mai mari cimitire antice din lume.",
+                  "category": "historical",
+                  "coords": [
+                        50.511396,
+                        26.148171
+                  ]
+            },
+            {
+                  "name": "Royal Mound 2",
+                  "text": "Un sit funerar antic mare și semnificativ în secțiunea regală a necropolei A'ali.",
+                  "category": "historical",
+                  "coords": [
+                        50.514917,
+                        26.159921
+                  ]
+            },
+            {
+                  "name": "Al Rasool Al Aadham mosque (p)",
+                  "text": "O moschee locală situată lângă movilele istorice Dilmun din districtul Madinat Hamad.",
+                  "category": "landmark",
+                  "coords": [
+                        50.500647,
+                        26.144418
+                  ]
+            },
+            {
+                  "name": "Wadi Alsail Mosque",
+                  "text": "Un lăcaș de cult care deservește cartierul rezidențial din valea deșertică Wadi Alsail.",
+                  "category": "landmark",
+                  "coords": [
+                        50.523291,
+                        26.132266
+                  ]
+            },
+            {
+                  "name": "Moudhi Mosque",
+                  "text": "O moschee de cartier care oferă un spațiu spiritual pentru locuitorii din zona Madinat Hamad.",
+                  "category": "landmark",
+                  "coords": [
+                        50.534006,
+                        26.153445
+                  ]
+            },
+            {
+                  "name": "Imam Al-Rida Mosque",
+                  "text": "Un centru islamic modern și o moschee situată în cadrul urban din Madinat Hamad.",
+                  "category": "landmark",
+                  "coords": [
+                        50.528467,
+                        26.153528
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Burial mound",
+                  "text": "An ancient circular grave structure from the Dilmun civilization scattered across the desert landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        50.515008,
+                        26.157578
+                  ]
+            },
+            {
+                  "name": "Royal Mound 15",
+                  "text": "A prominent prehistoric tomb belonging to the Dilmun royalty in the A'ali archaeological field.",
+                  "category": "historical",
+                  "coords": [
+                        50.514691,
+                        26.156499
+                  ]
+            },
+            {
+                  "name": "Madinat Hamad 1 Burial Mound Field",
+                  "text": "An extensive ancient necropolis where thousands of Dilmun-era mounds are preserved amidst modern housing.",
+                  "category": "historical",
+                  "coords": [
+                        50.503221,
+                        26.140318
+                  ]
+            },
+            {
+                  "name": "A'ali Burial Mounds",
+                  "text": "These prehistoric Dilmun tombs form one of the largest ancient cemeteries in the world.",
+                  "category": "historical",
+                  "coords": [
+                        50.511396,
+                        26.148171
+                  ]
+            },
+            {
+                  "name": "Royal Mound 2",
+                  "text": "A large, significant ancient burial site within the royal section of the A'ali necropolis.",
+                  "category": "historical",
+                  "coords": [
+                        50.514917,
+                        26.159921
+                  ]
+            },
+            {
+                  "name": "Al Rasool Al Aadham mosque (p)",
+                  "text": "A local mosque situated near the historic Dilmun mounds in the Madinat Hamad district.",
+                  "category": "landmark",
+                  "coords": [
+                        50.500647,
+                        26.144418
+                  ]
+            },
+            {
+                  "name": "Wadi Alsail Mosque",
+                  "text": "A place of worship serving the residential neighborhood in the desert valley of Wadi Alsail.",
+                  "category": "landmark",
+                  "coords": [
+                        50.523291,
+                        26.132266
+                  ]
+            },
+            {
+                  "name": "Moudhi Mosque",
+                  "text": "A neighborhood mosque providing a spiritual space for residents in the Madinat Hamad area.",
+                  "category": "landmark",
+                  "coords": [
+                        50.534006,
+                        26.153445
+                  ]
+            },
+            {
+                  "name": "Imam Al-Rida Mosque",
+                  "text": "A modern Islamic center and mosque located in the urban setting of Madinat Hamad.",
+                  "category": "landmark",
+                  "coords": [
+                        50.528467,
+                        26.153528
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "BH-17",
     coords: [50.518, 26.146],
@@ -483,7 +1392,376 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     }
   },
   {
-    id: "al-khamis-mosque-history-v2",
+    id: "al-khamis-mosque-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Adhari Theme Park",
+                  "text": "Ein Vergnügungspark für Familien, der um die historische Ain Adhari, eine berühmte natürliche Süßwasserquelle, herum gebaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        50.544343,
+                        26.197661
+                  ]
+            },
+            {
+                  "name": "Khamis Mosque",
+                  "text": "Gilt als die erste Moschee Bahrains und zeichnet sich durch ihre Zwillingsminarette aus dem 14. Jahrhundert aus.",
+                  "category": "religious",
+                  "coords": [
+                        50.54832,
+                        26.20817
+                  ]
+            },
+            {
+                  "name": "Adhari Park",
+                  "text": "Ein beliebtes Freizeitziel mit Fahrgeschäften und Attraktionen nahe einer legendären antiken Wüstenquelle.",
+                  "category": "recreational",
+                  "coords": [
+                        50.545673,
+                        26.198474
+                  ]
+            },
+            {
+                  "name": "Khamis Mosque Visitor Centre",
+                  "text": "Dieses Zentrum bietet Einblicke in die Geschichte der Khamis-Moschee, einer der ältesten islamischen Stätten der Region.",
+                  "category": "museum",
+                  "coords": [
+                        50.549245,
+                        26.208324
+                  ]
+            },
+            {
+                  "name": "Al-Darawish mosque",
+                  "text": "Eine lokale muslimische Gebetsstätte in der Nähe der historischen Khamis-Moschee.",
+                  "category": "landmark",
+                  "coords": [
+                        50.533385,
+                        26.215575
+                  ]
+            },
+            {
+                  "name": "Al Ali/Al Kuwaiti mosque",
+                  "text": "Eine traditionelle Moschee für die lokale Gemeinschaft im Viertel Al-Khamis.",
+                  "category": "landmark",
+                  "coords": [
+                        50.530315,
+                        26.212806
+                  ]
+            },
+            {
+                  "name": "Al Hoota Al Sharqi mosque",
+                  "text": "Eine muslimische Gebetsstätte im Stadtteil Al Hoota.",
+                  "category": "landmark",
+                  "coords": [
+                        50.531427,
+                        26.215966
+                  ]
+            },
+            {
+                  "name": "Amar Mosque",
+                  "text": "Eine lokale Moschee im historischen Gebiet Bilad Al Qadeem.",
+                  "category": "landmark",
+                  "coords": [
+                        50.552568,
+                        26.203246
+                  ]
+            },
+            {
+                  "name": "Al Ghadeer Mosque",
+                  "text": "Eine muslimische Gebetsstätte für die Bewohner des Al-Khamis-Viertels.",
+                  "category": "landmark",
+                  "coords": [
+                        50.528167,
+                        26.211499
+                  ]
+            },
+            {
+                  "name": "Shaikh Isaac Grand Mosque",
+                  "text": "Eine bedeutende lokale Moschee im Viertel Bilad Al Qadeem.",
+                  "category": "landmark",
+                  "coords": [
+                        50.523003,
+                        26.209774
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Adhari Theme Park",
+                  "text": "Családi vidámpark, amely a történelmi Ain Adhari, egy híres természetes édesvízforrás köré épült.",
+                  "category": "landmark",
+                  "coords": [
+                        50.544343,
+                        26.197661
+                  ]
+            },
+            {
+                  "name": "Khamis Mosque",
+                  "text": "Úgy tartják, ez Bahrein első mecsetje, amelyet 14. századi ikerminarétjai tesznek különlegessé.",
+                  "category": "religious",
+                  "coords": [
+                        50.54832,
+                        26.20817
+                  ]
+            },
+            {
+                  "name": "Adhari Park",
+                  "text": "Népszerű kikapcsolódási hely vidámparki játékokkal egy legendás ősi sivatagi forrás közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        50.545673,
+                        26.198474
+                  ]
+            },
+            {
+                  "name": "Khamis Mosque Visitor Centre",
+                  "text": "A látogatóközpont a régió egyik legrégebbi iszlám emlékhelyének, a Khamis-mecsetnek a történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        50.549245,
+                        26.208324
+                  ]
+            },
+            {
+                  "name": "Al-Darawish mosque",
+                  "text": "Egy helyi muszlim imaház a történelmi Khamis-negyed közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        50.533385,
+                        26.215575
+                  ]
+            },
+            {
+                  "name": "Al Ali/Al Kuwaiti mosque",
+                  "text": "A helyi közösséget szolgáló hagyományos mecset Al-Khamis városrészében.",
+                  "category": "landmark",
+                  "coords": [
+                        50.530315,
+                        26.212806
+                  ]
+            },
+            {
+                  "name": "Al Hoota Al Sharqi mosque",
+                  "text": "Muszlim imaház Al Hoota városrészében.",
+                  "category": "landmark",
+                  "coords": [
+                        50.531427,
+                        26.215966
+                  ]
+            },
+            {
+                  "name": "Amar Mosque",
+                  "text": "Egy helyi mecset a történelmi Bilad Al Qadeem területén.",
+                  "category": "landmark",
+                  "coords": [
+                        50.552568,
+                        26.203246
+                  ]
+            },
+            {
+                  "name": "Al Ghadeer Mosque",
+                  "text": "Muszlim imaház az Al-Khamis negyed lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        50.528167,
+                        26.211499
+                  ]
+            },
+            {
+                  "name": "Shaikh Isaac Grand Mosque",
+                  "text": "Egy jelentős helyi mecset Bilad Al Qadeem városrészében.",
+                  "category": "landmark",
+                  "coords": [
+                        50.523003,
+                        26.209774
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Adhari Theme Park",
+                  "text": "Un parc de distracții pentru familii construit în jurul istoricului Ain Adhari, un faimos izvor natural de apă dulce.",
+                  "category": "landmark",
+                  "coords": [
+                        50.544343,
+                        26.197661
+                  ]
+            },
+            {
+                  "name": "Khamis Mosque",
+                  "text": "Considerată a fi prima moschee din Bahrain, aceasta se distinge prin minaretele sale gemene din secolul al XIV-lea.",
+                  "category": "religious",
+                  "coords": [
+                        50.54832,
+                        26.20817
+                  ]
+            },
+            {
+                  "name": "Adhari Park",
+                  "text": "O destinație populară de recreere, cu atracții și divertisment lângă un legendar izvor antic din deșert.",
+                  "category": "recreational",
+                  "coords": [
+                        50.545673,
+                        26.198474
+                  ]
+            },
+            {
+                  "name": "Khamis Mosque Visitor Centre",
+                  "text": "Acest centru oferă informații despre istoria Moscheii Khamis, unul dintre cele mai vechi situri islamice din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        50.549245,
+                        26.208324
+                  ]
+            },
+            {
+                  "name": "Al-Darawish mosque",
+                  "text": "O moschee locală situată în apropierea zonei istorice Khamis.",
+                  "category": "landmark",
+                  "coords": [
+                        50.533385,
+                        26.215575
+                  ]
+            },
+            {
+                  "name": "Al Ali/Al Kuwaiti mosque",
+                  "text": "O moschee tradițională care deservește comunitatea locală din cartierul Al-Khamis.",
+                  "category": "landmark",
+                  "coords": [
+                        50.530315,
+                        26.212806
+                  ]
+            },
+            {
+                  "name": "Al Hoota Al Sharqi mosque",
+                  "text": "O lăcaș de cult musulman situat în cartierul Al Hoota.",
+                  "category": "landmark",
+                  "coords": [
+                        50.531427,
+                        26.215966
+                  ]
+            },
+            {
+                  "name": "Amar Mosque",
+                  "text": "O moschee locală aflată în zona istorică Bilad Al Qadeem.",
+                  "category": "landmark",
+                  "coords": [
+                        50.552568,
+                        26.203246
+                  ]
+            },
+            {
+                  "name": "Al Ghadeer Mosque",
+                  "text": "O moschee care deservește locuitorii din cartierul Al-Khamis.",
+                  "category": "landmark",
+                  "coords": [
+                        50.528167,
+                        26.211499
+                  ]
+            },
+            {
+                  "name": "Shaikh Isaac Grand Mosque",
+                  "text": "O moschee locală proeminentă situată în cartierul Bilad Al Qadeem.",
+                  "category": "landmark",
+                  "coords": [
+                        50.523003,
+                        26.209774
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Adhari Theme Park",
+                  "text": "A family amusement park built around the historic Ain Adhari, a famous natural freshwater spring.",
+                  "category": "landmark",
+                  "coords": [
+                        50.544343,
+                        26.197661
+                  ]
+            },
+            {
+                  "name": "Khamis Mosque",
+                  "text": "Believed to be the first mosque in Bahrain, it is distinguished by its twin 14th-century minarets.",
+                  "category": "religious",
+                  "coords": [
+                        50.54832,
+                        26.20817
+                  ]
+            },
+            {
+                  "name": "Adhari Park",
+                  "text": "A popular recreation destination featuring rides and attractions near a legendary ancient desert spring.",
+                  "category": "recreational",
+                  "coords": [
+                        50.545673,
+                        26.198474
+                  ]
+            },
+            {
+                  "name": "Khamis Mosque Visitor Centre",
+                  "text": "This centre provides historical insights and exhibits regarding the nearby Khamis Mosque, one of the region's oldest Islamic sites.",
+                  "category": "museum",
+                  "coords": [
+                        50.549245,
+                        26.208324
+                  ]
+            },
+            {
+                  "name": "Al-Darawish mosque",
+                  "text": "A local Muslim place of worship located near the historic Khamis area.",
+                  "category": "landmark",
+                  "coords": [
+                        50.533385,
+                        26.215575
+                  ]
+            },
+            {
+                  "name": "Al Ali/Al Kuwaiti mosque",
+                  "text": "A traditional mosque serving the local community in the Al-Khamis district.",
+                  "category": "landmark",
+                  "coords": [
+                        50.530315,
+                        26.212806
+                  ]
+            },
+            {
+                  "name": "Al Hoota Al Sharqi mosque",
+                  "text": "A Muslim place of worship located in the Al Hoota district.",
+                  "category": "landmark",
+                  "coords": [
+                        50.531427,
+                        26.215966
+                  ]
+            },
+            {
+                  "name": "Amar Mosque",
+                  "text": "A local mosque located within the historical Bilad Al Qadeem area.",
+                  "category": "landmark",
+                  "coords": [
+                        50.552568,
+                        26.203246
+                  ]
+            },
+            {
+                  "name": "Al Ghadeer Mosque",
+                  "text": "A Muslim place of worship serving the residents of the Al-Khamis neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        50.528167,
+                        26.211499
+                  ]
+            },
+            {
+                  "name": "Shaikh Isaac Grand Mosque",
+                  "text": "A prominent local mosque located in the Bilad Al Qadeem district.",
+                  "category": "landmark",
+                  "coords": [
+                        50.523003,
+                        26.209774
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "BH-17",
     coords: [50.548, 26.208],
@@ -586,7 +1864,340 @@ export const poiExtraBahrainHistoryV2: POI[] = [
       fr: ["L'une des plus anciennes mosquées de la région du Golfe.", "Fondée au VIIe siècle sous la dynastie des Omeyyades.", "La structure actuelle date des XIVe-XVe siècles.", "Possède deux minarets distinctifs construits à des époques différentes.", "Comprend une ancienne salle de prière et des restes d'une madrasa.", "Les découvertes archéologiques incluent des inscriptions coufiques.", "Témoignage de l'islamisation précoce de Bahreïn.", "Aujourd'hui un site historique, n'est plus utilisé pour la prière."],
     }, image: "/poi-images/al-khamis-mosque-history-v2.webp"},
   {
-    id: "bab-al-bahrain-history-v2",
+    id: "bab-al-bahrain-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Souk Bab al Bahrain",
+                  "text": "Eine belebte traditionelle Marktattraktion, die man durch ein ikonisches Tor betritt und auf der Händler Gewürze, Textilien und lokales Kunsthandwerk verkaufen.",
+                  "category": "landmark",
+                  "coords": [
+                        50.576059,
+                        26.233298
+                  ]
+            },
+            {
+                  "name": "Matam Bin Rajab",
+                  "text": "Eine wichtige islamische Trauerversammlungsstätte, die sich durch ihre besondere zeremonielle Rolle in den lokalen schiitischen Traditionen auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        50.579346,
+                        26.232374
+                  ]
+            },
+            {
+                  "name": "Haji Daif Alhalwachi Mosque",
+                  "text": "Diese im geschäftigen Marktviertel versteckte islamische Gebetsstätte bietet Händlern und Käufern gleichermaßen eine ruhige Atempause.",
+                  "category": "landmark",
+                  "coords": [
+                        50.575219,
+                        26.228098
+                  ]
+            },
+            {
+                  "name": "Mo'min mosque",
+                  "text": "Eine traditionelle islamische Moschee, die eigene Räumlichkeiten für die täglichen Gebete im pulsierenden städtischen Umfeld bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        50.577243,
+                        26.22781
+                  ]
+            },
+            {
+                  "name": "Matam Aljahromiya",
+                  "text": "Dieses islamische Versammlungsgebäude beherbergt kulturelle und religiöse Feierlichkeiten, die tief in den Traditionen der Gemeinde verwurzelt sind.",
+                  "category": "landmark",
+                  "coords": [
+                        50.5756,
+                        26.229542
+                  ]
+            },
+            {
+                  "name": "Yateem Mosque",
+                  "text": "Diese wunderschöne Moschee in der Nähe des historischen Souks kümmert sich um die spirituellen Bedürfnisse der lokalen muslimischen Bewohner und Händler.",
+                  "category": "landmark",
+                  "coords": [
+                        50.576256,
+                        26.234739
+                  ]
+            },
+            {
+                  "name": "Manama Central Market",
+                  "text": "Ein massives Handelszentrum, in dem Verkäufer eine farbenfrohe Auswahl an frischem Gemüse, Obst und Großhandelsprodukten anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        50.565415,
+                        26.229817
+                  ]
+            },
+            {
+                  "name": "Central Fish Market Manama",
+                  "text": "Ein lebhafter und aromatischer überdachter Marktplatz, der sich auf eine große Auswahl an tagesfrischem Fisch aus dem Golf spezialisiert hat.",
+                  "category": "cultural",
+                  "coords": [
+                        50.563341,
+                        26.230375
+                  ]
+            },
+            {
+                  "name": "GUARDIAN SYSTEMS W.L.L.",
+                  "text": "Ein spezialisiertes Handelsunternehmen, das sich im geschäftigen städtischen Marktviertel befindet und spezielle Geschäftsdienstleistungen anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        50.572026,
+                        26.226829
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Souk Bab al Bahrain",
+                  "text": "A nyüzsgő hagyományos piacra egy ikonikus kapun keresztül lehet belépni, ahol árusok kínálják fűszereiket, textíliáikat és helyi kézműves termékeiket.",
+                  "category": "landmark",
+                  "coords": [
+                        50.576059,
+                        26.233298
+                  ]
+            },
+            {
+                  "name": "Matam Bin Rajab",
+                  "text": "Fontos iszlám gyászgyülekezeti terem, amelyet a helyi síita hagyományokban betöltött különleges ceremoniális szerepe jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        50.579346,
+                        26.232374
+                  ]
+            },
+            {
+                  "name": "Haji Daif Alhalwachi Mosque",
+                  "text": "A forgalmas negyedben megbúvó iszlám imádkozóhely csendes pihenést kínál a kereskedőknek és a vásárlóknak egyaránt.",
+                  "category": "landmark",
+                  "coords": [
+                        50.575219,
+                        26.228098
+                  ]
+            },
+            {
+                  "name": "Mo'min mosque",
+                  "text": "Hagyományos iszlám mecset, amely külön tereket biztosít a napi imákhoz a nyüzsgő városi környezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        50.577243,
+                        26.22781
+                  ]
+            },
+            {
+                  "name": "Matam Aljahromiya",
+                  "text": "Ez az iszlám gyülekezeti épület olyan kulturális és vallási szertartásoknak ad otthont, amelyek mélyen gyökereznek a közösségi hagyományokban.",
+                  "category": "landmark",
+                  "coords": [
+                        50.5756,
+                        26.229542
+                  ]
+            },
+            {
+                  "name": "Yateem Mosque",
+                  "text": "A történelmi bazár közelében található gyönyörű mecset a helyi muszlim lakosok és kereskedők spirituális igényeit elégíti ki.",
+                  "category": "landmark",
+                  "coords": [
+                        50.576256,
+                        26.234739
+                  ]
+            },
+            {
+                  "name": "Manama Central Market",
+                  "text": "Hatalmas kereskedelmi központ, ahol az árusok friss zöldségek, gyümölcsök és nagykereskedelmi termékek színes választékát árulják.",
+                  "category": "cultural",
+                  "coords": [
+                        50.565415,
+                        26.229817
+                  ]
+            },
+            {
+                  "name": "Central Fish Market Manama",
+                  "text": "Élénk és aromás fedett piac, amely a tengerből származó napi friss fogások hatalmas választékára specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        50.563341,
+                        26.230375
+                  ]
+            },
+            {
+                  "name": "GUARDIAN SYSTEMS W.L.L.",
+                  "text": "Egy speciális kereskedelmi vállalkozás a forgalmas városi piacnegyedben, amely különleges üzleti szolgáltatásokat nyújt.",
+                  "category": "cultural",
+                  "coords": [
+                        50.572026,
+                        26.226829
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Souk Bab al Bahrain",
+                  "text": "O atracție de piață tradițională plină de viață, în care se intră printr-o poartă emblematică, plină de comercianți care vând condimente, textile și obiecte de artizanat local.",
+                  "category": "landmark",
+                  "coords": [
+                        50.576059,
+                        26.233298
+                  ]
+            },
+            {
+                  "name": "Matam Bin Rajab",
+                  "text": "O importantă sală de congregație islamică pentru doliu, caracterizată prin rolul său ceremonial distinct în tradițiile șiite locale.",
+                  "category": "landmark",
+                  "coords": [
+                        50.579346,
+                        26.232374
+                  ]
+            },
+            {
+                  "name": "Haji Daif Alhalwachi Mosque",
+                  "text": "Ascunsă în cartierul aglomerat al pieței, această locație de rugăciune islamică oferă un răgaz liniștit comercianților și cumpărătorilor deopotrivă.",
+                  "category": "landmark",
+                  "coords": [
+                        50.575219,
+                        26.228098
+                  ]
+            },
+            {
+                  "name": "Mo'min mosque",
+                  "text": "O moschee islamică tradițională care oferă spații dedicate rugăciunilor zilnice în mediul urban vibrant.",
+                  "category": "landmark",
+                  "coords": [
+                        50.577243,
+                        26.22781
+                  ]
+            },
+            {
+                  "name": "Matam Aljahromiya",
+                  "text": "Această clădire de congregație islamică găzduiește ceremonii culturale și religioase profund înrădăcinate în tradițiile comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        50.5756,
+                        26.229542
+                  ]
+            },
+            {
+                  "name": "Yateem Mosque",
+                  "text": "Situată în apropierea istoricului souq, această frumoasă moschee satisface nevoile spirituale ale rezidenților și comercianților musulmani locali.",
+                  "category": "landmark",
+                  "coords": [
+                        50.576256,
+                        26.234739
+                  ]
+            },
+            {
+                  "name": "Manama Central Market",
+                  "text": "Un centru comercial masiv unde vânzătorii comercializează o gamă variată de legume proaspete, fructe și produse en-gros.",
+                  "category": "cultural",
+                  "coords": [
+                        50.565415,
+                        26.229817
+                  ]
+            },
+            {
+                  "name": "Central Fish Market Manama",
+                  "text": "O piață interioară plină de viață și aromată, specializată într-o mare varietate de capturi zilnice proaspete din Golf.",
+                  "category": "cultural",
+                  "coords": [
+                        50.563341,
+                        26.230375
+                  ]
+            },
+            {
+                  "name": "GUARDIAN SYSTEMS W.L.L.",
+                  "text": "O întreprindere comercială specializată situată în cartierul urban aglomerat al pieței, care oferă servicii de afaceri specializate.",
+                  "category": "cultural",
+                  "coords": [
+                        50.572026,
+                        26.226829
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Souk Bab al Bahrain",
+                  "text": "A bustling traditional market attraction entered through an iconic gateway, filled with vendors selling spices, textiles, and local crafts.",
+                  "category": "landmark",
+                  "coords": [
+                        50.576059,
+                        26.233298
+                  ]
+            },
+            {
+                  "name": "Matam Bin Rajab",
+                  "text": "An important Islamic mourning congregation hall characterized by its distinct ceremonial role in local Shia traditions.",
+                  "category": "landmark",
+                  "coords": [
+                        50.579346,
+                        26.232374
+                  ]
+            },
+            {
+                  "name": "Haji Daif Alhalwachi Mosque",
+                  "text": "Tucked within the busy market district, this Islamic prayer site offers quiet respite for merchants and shoppers alike.",
+                  "category": "landmark",
+                  "coords": [
+                        50.575219,
+                        26.228098
+                  ]
+            },
+            {
+                  "name": "Mo'min mosque",
+                  "text": "A traditional Islamic mosque providing dedicated spaces for daily prayers within the vibrant urban environment.",
+                  "category": "landmark",
+                  "coords": [
+                        50.577243,
+                        26.22781
+                  ]
+            },
+            {
+                  "name": "Matam Aljahromiya",
+                  "text": "This Islamic congregation building hosts cultural and religious observances deeply rooted in community traditions.",
+                  "category": "landmark",
+                  "coords": [
+                        50.5756,
+                        26.229542
+                  ]
+            },
+            {
+                  "name": "Yateem Mosque",
+                  "text": "Located near the historic souq, this beautiful mosque caters to the spiritual needs of local Muslim residents and traders.",
+                  "category": "landmark",
+                  "coords": [
+                        50.576256,
+                        26.234739
+                  ]
+            },
+            {
+                  "name": "Manama Central Market",
+                  "text": "A massive trading hub where vendors sell a colorful array of fresh vegetables, fruits, and wholesale produce.",
+                  "category": "cultural",
+                  "coords": [
+                        50.565415,
+                        26.229817
+                  ]
+            },
+            {
+                  "name": "Central Fish Market Manama",
+                  "text": "A lively and aromatic indoor marketplace specializing in an extensive variety of fresh daily catches from the Gulf.",
+                  "category": "cultural",
+                  "coords": [
+                        50.563341,
+                        26.230375
+                  ]
+            },
+            {
+                  "name": "GUARDIAN SYSTEMS W.L.L.",
+                  "text": "A specialized commercial enterprise situated within the busy urban marketplace district providing specialized business services.",
+                  "category": "cultural",
+                  "coords": [
+                        50.572026,
+                        26.226829
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "BH-13",
     coords: [50.5756, 26.2344],
@@ -689,7 +2300,88 @@ export const poiExtraBahrainHistoryV2: POI[] = [
       fr: ["Signifie 'Porte de Bahreïn'.", "Construite en 1949, conçue par Charles Belgrave.", "Initialement au bord de l'eau, aujourd'hui dans les terres.", "Entrée principale du souk de Manama.", "Réaménagée en 1986 dans un style islamique.", "Abrite aujourd'hui l'office du tourisme.", "Relie la Manama moderne au vieux marché.", "Un point de rencontre social et commercial majeur."],
     }, image: "/poi-images/bab-al-bahrain-history-v2.webp"},
   {
-    id: "beit-al-quran-history-v2",
+    id: "beit-al-quran-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sail Monument",
+                  "text": "Ein Denkmal in Form eines Segels, das an Bahrains Seefahrts- und Perlenfischertradition erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        50.593722,
+                        26.241102
+                  ]
+            },
+            {
+                  "name": "Bait Al Quran",
+                  "text": "Ein Museum, das sich der Bewahrung seltener Koranhandschriften aus verschiedenen Epochen widmet.",
+                  "category": "museum",
+                  "coords": [
+                        50.59153,
+                        26.239755
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sail Monument",
+                  "text": "Vitorla alakú emlékmű, amely Bahrein tengerészeti és gyöngyhalász múltját idézi.",
+                  "category": "historical",
+                  "coords": [
+                        50.593722,
+                        26.241102
+                  ]
+            },
+            {
+                  "name": "Bait Al Quran",
+                  "text": "A különböző korszakokból származó ritka Korán-kéziratok megőrzésének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        50.59153,
+                        26.239755
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sail Monument",
+                  "text": "Un monument în formă de velă care comemorează tradiția maritimă și a pescuitului de perle din Bahrain.",
+                  "category": "historical",
+                  "coords": [
+                        50.593722,
+                        26.241102
+                  ]
+            },
+            {
+                  "name": "Bait Al Quran",
+                  "text": "Un muzeu dedicat conservării manuscriselor rare ale Coranului din diverse epoci.",
+                  "category": "museum",
+                  "coords": [
+                        50.59153,
+                        26.239755
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sail Monument",
+                  "text": "A monument shaped like a sail, commemorating Bahrain's maritime and pearling heritage.",
+                  "category": "historical",
+                  "coords": [
+                        50.593722,
+                        26.241102
+                  ]
+            },
+            {
+                  "name": "Bait Al Quran",
+                  "text": "A museum dedicated to the preservation of rare Quranic manuscripts from various eras.",
+                  "category": "museum",
+                  "coords": [
+                        50.59153,
+                        26.239755
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "BH-13",
     coords: [50.590, 26.241],
@@ -792,7 +2484,52 @@ export const poiExtraBahrainHistoryV2: POI[] = [
       fr: ["Signifie 'Maison du Coran'.", "Ouvert en 1990 à Manama.", "Abrite une précieuse collection de Corans et de manuscrits.", "Objets allant du VIIe siècle à nos jours.", "Contient le premier Coran imprimé en Allemagne en 1694.", "Architecture inspirée des mosquées traditionnelles.", "Comprend une mosquée, une bibliothèque et une madrasa.", "Fondé sur la collection privée du Dr Abdul Latif Jassim Kanoo."],
     }, image: "/poi-images/beit-al-quran-history-v2.webp"},
   {
-    id: "muharraq-pearling-path-history-v2",
+    id: "muharraq-pearling-path-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Taylos Discount",
+                  "text": "Ein lokaler Discount-Marktplatz entlang des historischen Muharraq Pearling Path.",
+                  "category": "cultural",
+                  "coords": [
+                        50.608601,
+                        26.247561
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Taylos Discount",
+                  "text": "Egy helyi diszkontpiac a történelmi Muharraq Pearling Path mentén.",
+                  "category": "cultural",
+                  "coords": [
+                        50.608601,
+                        26.247561
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Taylos Discount",
+                  "text": "O piață locală de reduceri situată de-a lungul traseului istoric Muharraq Pearling Path.",
+                  "category": "cultural",
+                  "coords": [
+                        50.608601,
+                        26.247561
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Taylos Discount",
+                  "text": "A local discount marketplace located along the historic Muharraq Pearling Path.",
+                  "category": "cultural",
+                  "coords": [
+                        50.608601,
+                        26.247561
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "BH-15",
     coords: [50.613, 26.248],
@@ -998,7 +2735,124 @@ export const poiExtraBahrainHistoryV2: POI[] = [
       fr: ["Résidence du Cheikh Isa bin Ali Al Khalifa (1869-1932).", "Construite vers 1800 à Muharraq.", "Exemple d'architecture traditionnelle du Golfe.", "Dispose de plusieurs cours et de tours à vent.", "Murs en pierre de corail ornés de plâtre et de bois.", "Servait de demeure et de siège du gouvernement.", "Divisée en quatre zones principales.", "Aujourd'hui un musée présentant la vie au XIXe siècle."],
     }, image: "/poi-images/shaikh-isa-house-history-v2.webp"},
   {
-    id: "siyadi-house-history-v2",
+    id: "siyadi-house-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Imam Abu Haneefa Al Nouman Mosque",
+                  "text": "Die Al-Imam-Abu-Haneefa-Al-Nouman-Moschee ist ein elegantes islamisches Gotteshaus, das sich durch sein traditionelles Minarett in der Nähe des historischen Siyadi-Hauses auszeichnet.",
+                  "category": "religious",
+                  "coords": [
+                        50.60315,
+                        26.272371
+                  ]
+            },
+            {
+                  "name": "Shaikha Bint Abdulrahman Mosque",
+                  "text": "Dieses islamische Gotteshaus bietet einen ruhigen Gebetsraum für die Gemeinde inmitten des historischen Siyadi-Haus-Viertels.",
+                  "category": "landmark",
+                  "coords": [
+                        50.596861,
+                        26.268583
+                  ]
+            },
+            {
+                  "name": "Muharraq Central Market",
+                  "text": "Der Muharraq Central Market ist ein geschäftiges überdachtes Handelszentrum mit zahlreichen Verkaufsständen, an denen frische lokale Produkte und Fisch angeboten werden.",
+                  "category": "cultural",
+                  "coords": [
+                        50.605554,
+                        26.255633
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Imam Abu Haneefa Al Nouman Mosque",
+                  "text": "Az Al Imam Abu Haneefa Al Nouman mecset egy elegáns iszlám istentiszteleti hely, amelyet hagyományos minaretje jellemez a történelmi Siyadi-ház közelében.",
+                  "category": "religious",
+                  "coords": [
+                        50.60315,
+                        26.272371
+                  ]
+            },
+            {
+                  "name": "Shaikha Bint Abdulrahman Mosque",
+                  "text": "Ez az iszlám istentiszteleti hely egy csendes közösségi imateret kínál a történelmi Siyadi-ház negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        50.596861,
+                        26.268583
+                  ]
+            },
+            {
+                  "name": "Muharraq Central Market",
+                  "text": "A Muharraq központi piac egy nyüzsgő fedett kereskedelmi központ, ahol számos árusítóstand kínál friss helyi termékeket és halat.",
+                  "category": "cultural",
+                  "coords": [
+                        50.605554,
+                        26.255633
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Imam Abu Haneefa Al Nouman Mosque",
+                  "text": "Moscheea Al Imam Abu Haneefa Al Nouman este un loc de cult islamic elegant, caracterizat prin minaretul său tradițional situat în apropierea zonei istorice Casa Siyadi.",
+                  "category": "religious",
+                  "coords": [
+                        50.60315,
+                        26.272371
+                  ]
+            },
+            {
+                  "name": "Shaikha Bint Abdulrahman Mosque",
+                  "text": "Acest loc de cult islamic oferă un spațiu liniștit de rugăciune comunitară în mijlocul cartierului istoric Casa Siyadi.",
+                  "category": "landmark",
+                  "coords": [
+                        50.596861,
+                        26.268583
+                  ]
+            },
+            {
+                  "name": "Muharraq Central Market",
+                  "text": "Piața Centrală Muharraq este un centru comercial acoperit plin de viață, cu numeroase tarabe ale vânzătorilor care oferă produse locale proaspete și pește.",
+                  "category": "cultural",
+                  "coords": [
+                        50.605554,
+                        26.255633
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Imam Abu Haneefa Al Nouman Mosque",
+                  "text": "The Al Imam Abu Haneefa Al Nouman Mosque is an elegant Islamic place of worship characterized by its traditional minaret near the historic Siyadi House area.",
+                  "category": "religious",
+                  "coords": [
+                        50.60315,
+                        26.272371
+                  ]
+            },
+            {
+                  "name": "Shaikha Bint Abdulrahman Mosque",
+                  "text": "This Islamic place of worship offers a quiet community prayer space set amidst the historic Siyadi House neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        50.596861,
+                        26.268583
+                  ]
+            },
+            {
+                  "name": "Muharraq Central Market",
+                  "text": "Muharraq Central Market is a bustling indoor commercial hub featuring numerous vendor stalls selling fresh local produce and fish.",
+                  "category": "cultural",
+                  "coords": [
+                        50.605554,
+                        26.255633
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "BH-15",
     coords: [50.610, 26.258],
@@ -1206,7 +3060,52 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     }
   },
   {
-    id: "ain-umm-sujoor-history-v2",
+    id: "ain-umm-sujoor-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Diraz Temple",
+                  "text": "Der Diraz-Tempel ist eine prähistorische Megalithstätte, die sich durch ihre großen zylindrischen Kalksteinsäulen aus dem 3. Jahrtausend v. Chr. auszeichnet.",
+                  "category": "historical",
+                  "coords": [
+                        50.474599,
+                        26.217007
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Diraz Temple",
+                  "text": "A Diraz templom egy őskori megalitikus lelőhely, amelyet a Kr. e. 3. évezredből származó nagy hengeres mészkőoszlopok jellemeznek.",
+                  "category": "historical",
+                  "coords": [
+                        50.474599,
+                        26.217007
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Diraz Temple",
+                  "text": "Templul Diraz este un sit megalitic preistoric remarcat prin coloanele sale mari cilindrice din calcar, care datează din mileniul III î.Hr.",
+                  "category": "historical",
+                  "coords": [
+                        50.474599,
+                        26.217007
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Diraz Temple",
+                  "text": "The Diraz Temple is a prehistoric megalithic site distinguished by its large cylindrical limestone columns that date back to the 3rd millennium BC.",
+                  "category": "historical",
+                  "coords": [
+                        50.474599,
+                        26.217007
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "BH-17",
     coords: [50.475, 26.218],
@@ -1412,7 +3311,52 @@ export const poiExtraBahrainHistoryV2: POI[] = [
       fr: ["Établissement bien conservé de la période Dilmun précoce.", "Daté d'environ 2100-1800 av. J.-C.", "Présente un plan d'urbanisme en damier clair.", "Maisons uniformes avec plan en forme de L.", "Un temple central était le cœur religieux.", "Fouillé dans les années 1990 par des archéologues britanniques.", "Les découvertes prouvent un commerce et une société organisée.", "Offre un aperçu de la vie quotidienne de la culture Dilmun."],
     }, image: "/poi-images/saar-settlement-history-v2.webp"},
   {
-    id: "abu-mahir-fort-history-v2",
+    id: "abu-mahir-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bu Maher Fort",
+                  "text": "Diese historische Küstenburg, die hauptsächlich mit dem Boot erreichbar ist, spielte eine zentrale Rolle in der traditionellen Perlentauchergeschichte der Region.",
+                  "category": "castle",
+                  "coords": [
+                        50.613526,
+                        26.241326
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bu Maher Fort",
+                  "text": "Az elsősorban hajóval megközelíthető történelmi parti kastély központi szerepet játszott a régió hagyományos gyöngyhalászatának történetében.",
+                  "category": "castle",
+                  "coords": [
+                        50.613526,
+                        26.241326
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bu Maher Fort",
+                  "text": "Accesibil în primul rând cu barca, acest castel istoric de coastă a jucat un rol central în istoria tradițională a pescuitului de perle din regiune.",
+                  "category": "castle",
+                  "coords": [
+                        50.613526,
+                        26.241326
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bu Maher Fort",
+                  "text": "Accessible primarily by boat, this historic coastal castle played a central role in the region's traditional pearling history.",
+                  "category": "castle",
+                  "coords": [
+                        50.613526,
+                        26.241326
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "BH-15",
     coords: [50.614, 26.242],
@@ -1613,7 +3557,124 @@ export const poiExtraBahrainHistoryV2: POI[] = [
       fr: ["Lieu de naissance de l'émir Cheikh Isa bin Salman Al Khalifa (1933).", "Construite en 1907 dans le village d'Al Jasra.", "Exemple d'architecture traditionnelle bahreïnite.", "Bâtie en pierre de corail et troncs de palmier.", "Conçue pour le climat chaud avec une cour intérieure.", "Restaurée dans les années 1970.", "Offre un aperçu de la vie rurale avant le boom pétrolier.", "Le centre d'artisanat d'Al Jasra se trouve à proximité."],
     }, image: "/poi-images/al-jasra-house-history-v2.webp"},
   {
-    id: "ibrahim-al-arrayed-house-history-v2",
+    id: "ibrahim-al-arrayed-house-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "National Evangelical Church",
+                  "text": "Eine historische evangelische Kirche in Manama, die englische und arabische Gottesdienste sowohl für die ausländische als auch für die lokale christliche Gemeinde anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        50.582723,
+                        26.232038
+                  ]
+            },
+            {
+                  "name": "Farooq Moschee",
+                  "text": "Ein islamisches Gotteshaus in der Nachbarschaft, das den täglichen Gebetsbedürfnissen der Gemeinde inmitten der historischen Wohnstraßen von Manama dient.",
+                  "category": "landmark",
+                  "coords": [
+                        50.583787,
+                        26.232488
+                  ]
+            },
+            {
+                  "name": "Al Thuwawdh Mosque",
+                  "text": "Diese lokale bahrainische Moschee bietet eine ruhige Umgebung für die islamische Andacht inmitten des reichen kulturellen Erbes der Stadtlandschaft von Manama.",
+                  "category": "landmark",
+                  "coords": [
+                        50.586775,
+                        26.235107
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "National Evangelical Church",
+                  "text": "Történelmi protestáns templom Manamában, amely angol és arab nyelvű istentiszteleteket kínál a külföldi és a helyi keresztény közösség számára egyaránt.",
+                  "category": "landmark",
+                  "coords": [
+                        50.582723,
+                        26.232038
+                  ]
+            },
+            {
+                  "name": "Farooq Mosque",
+                  "text": "Környékbeli iszlám istentiszteleti hely, amely a közösség napi imaigényeit szolgálja Manama történelmi lakóutcái között.",
+                  "category": "landmark",
+                  "coords": [
+                        50.583787,
+                        26.232488
+                  ]
+            },
+            {
+                  "name": "Al Thuwawdh Mosque",
+                  "text": "Ez a helyi bahreini mecset nyugodt környezetet kínál az iszlám áhítathoz a manamai városkép gazdag kulturális öröksége közepette.",
+                  "category": "landmark",
+                  "coords": [
+                        50.586775,
+                        26.235107
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "National Evangelical Church",
+                  "text": "O biserică protestantă istorică din Manama care oferă slujbe de cult în engleză și arabă atât comunității creștine expatriate, cât și celei locale.",
+                  "category": "landmark",
+                  "coords": [
+                        50.582723,
+                        26.232038
+                  ]
+            },
+            {
+                  "name": "Farooq Mosque",
+                  "text": "Un lăcaș de cult islamic de cartier care servește nevoilor de rugăciune zilnică ale comunității în mijlocul străzilor rezidențiale istorice din Manama.",
+                  "category": "landmark",
+                  "coords": [
+                        50.583787,
+                        26.232488
+                  ]
+            },
+            {
+                  "name": "Al Thuwawdh Mosque",
+                  "text": "Această moschee locală din Bahrain oferă un mediu liniștit pentru devoțiunea islamică în mijlocul bogatei moșteniri culturale a peisajului urban din Manama.",
+                  "category": "landmark",
+                  "coords": [
+                        50.586775,
+                        26.235107
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Evangelical Church",
+                  "text": "A historic Protestant church in Manama providing English and Arabic worship services to both the expatriate and local Christian community.",
+                  "category": "landmark",
+                  "coords": [
+                        50.582723,
+                        26.232038
+                  ]
+            },
+            {
+                  "name": "Farooq Mosque",
+                  "text": "A neighborhood Islamic house of worship serving the daily prayer needs of the community amid the historic residential streets of Manama.",
+                  "category": "landmark",
+                  "coords": [
+                        50.583787,
+                        26.232488
+                  ]
+            },
+            {
+                  "name": "Al Thuwawdh Mosque",
+                  "text": "This local Bahraini mosque offers a tranquil environment for Islamic devotion amidst the rich cultural heritage of the Manama cityscape.",
+                  "category": "landmark",
+                  "coords": [
+                        50.586775,
+                        26.235107
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "BH-13",
     coords: [50.584, 26.235],
@@ -1716,7 +3777,124 @@ export const poiExtraBahrainHistoryV2: POI[] = [
       fr: ["Dédiée au poète bahreïni Ibrahim Al-Arrayed.", "Connue sous le nom de 'Maison de la Poésie'.", "Centre culturel et lieu de rencontre littéraire à Manama.", "Expose des objets personnels et des manuscrits du poète.", "Organise des lectures de poésie et des ateliers.", "Promeut la culture littéraire de Bahreïn.", "Exemple d'architecture traditionnelle de maison de ville.", "Préserve l'héritage d'un poète arabe majeur."],
     }, image: "/poi-images/ibrahim-al-arrayed-house-history-v2.webp"},
   {
-    id: "qaisariya-market-history-v2",
+    id: "qaisariya-market-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "View on Dou ships",
+                  "text": "Dieser Standort bietet einen Panoramablick auf die traditionellen hölzernen Dau-Schiffe.",
+                  "category": "natural",
+                  "coords": [
+                        50.620574,
+                        26.248693
+                  ]
+            },
+            {
+                  "name": "AL Moosa Mosqe",
+                  "text": "Eine kleine, historische Moschee am Rande des traditionellen Qaisariya-Marktes.",
+                  "category": "landmark",
+                  "coords": [
+                        50.617485,
+                        26.2473
+                  ]
+            },
+            {
+                  "name": "Mosque Maglees Bin Ali",
+                  "text": "Ein Ort der Andacht, der die klassische Architektur des alten Bahrains widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        50.61735,
+                        26.249162
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "View on Dou ships",
+                  "text": "Erről a helyről panorámás kilátás nyílik a hagyományos fából készült dhow hajókra.",
+                  "category": "natural",
+                  "coords": [
+                        50.620574,
+                        26.248693
+                  ]
+            },
+            {
+                  "name": "AL Moosa Mosqe",
+                  "text": "Kicsi, történelmi mecset a hagyományos Qaisariya piac szélén.",
+                  "category": "landmark",
+                  "coords": [
+                        50.617485,
+                        26.2473
+                  ]
+            },
+            {
+                  "name": "Mosque Maglees Bin Ali",
+                  "text": "Imaház, amely a régi Bahrein klasszikus építészetét tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        50.61735,
+                        26.249162
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "View on Dou ships",
+                  "text": "Această locație oferă o vedere panoramică asupra bărcilor tradiționale din lemn de tip dhow.",
+                  "category": "natural",
+                  "coords": [
+                        50.620574,
+                        26.248693
+                  ]
+            },
+            {
+                  "name": "AL Moosa Mosqe",
+                  "text": "O mică moschee istorică la marginea pieței tradiționale Qaisariya.",
+                  "category": "landmark",
+                  "coords": [
+                        50.617485,
+                        26.2473
+                  ]
+            },
+            {
+                  "name": "Mosque Maglees Bin Ali",
+                  "text": "Un lăcaș de cult care reflectă arhitectura clasică a vechiului Bahrain.",
+                  "category": "landmark",
+                  "coords": [
+                        50.61735,
+                        26.249162
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "View on Dou ships",
+                  "text": "This location offers a panoramic view of the traditional wooden dhow ships in the harbor.",
+                  "category": "natural",
+                  "coords": [
+                        50.620574,
+                        26.248693
+                  ]
+            },
+            {
+                  "name": "AL Moosa Mosqe",
+                  "text": "A small, historic mosque located on the edge of the traditional Qaisariya Market.",
+                  "category": "landmark",
+                  "coords": [
+                        50.617485,
+                        26.2473
+                  ]
+            },
+            {
+                  "name": "Mosque Maglees Bin Ali",
+                  "text": "A place of worship reflecting the classic architecture of old Bahrain.",
+                  "category": "landmark",
+                  "coords": [
+                        50.61735,
+                        26.249162
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "BH-15",
     coords: [50.615, 26.246],
@@ -1819,7 +3997,88 @@ export const poiExtraBahrainHistoryV2: POI[] = [
       fr: ["L'une des parties les plus anciennes du souk de Muharraq.", "Fait partie de la Route de la perle (UNESCO).", "Architecture de marché traditionnelle avec ruelles couvertes.", "Ancien centre du commerce perlier.", "Soigneusement restauré pour préserver son caractère original.", "Mélange aujourd'hui boutiques traditionnelles et modernes.", "Murs en pierre de corail et plafonds en poutres de bois.", "Offre un aperçu authentique du vieux Muharraq."],
     }, image: "/poi-images/qaisariya-market-history-v2.webp"},
   {
-    id: "kurar-house-history-v2",
+    id: "kurar-house-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abdulla Al Zayed House for Bahrain Press Heritage",
+                  "text": "Ein restauriertes traditionelles Haus, das die Geschichte des frühen Journalismus in Bahrain dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        50.610713,
+                        26.253898
+                  ]
+            },
+            {
+                  "name": "Eslah Society Mosque",
+                  "text": "Ein traditionelles muslimisches Gotteshaus im historischen Viertel Kurar House.",
+                  "category": "landmark",
+                  "coords": [
+                        50.607134,
+                        26.253164
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abdulla Al Zayed House for Bahrain Press Heritage",
+                  "text": "Restaurált hagyományos ház, amely a korai bahreini újságírás történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        50.610713,
+                        26.253898
+                  ]
+            },
+            {
+                  "name": "Eslah Society Mosque",
+                  "text": "Hagyományos muszlim istentiszteleti hely a történelmi Kurar-ház környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        50.607134,
+                        26.253164
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abdulla Al Zayed House for Bahrain Press Heritage",
+                  "text": "O casă tradițională restaurată care documentează istoria jurnalismului timpuriu din Bahrain.",
+                  "category": "museum",
+                  "coords": [
+                        50.610713,
+                        26.253898
+                  ]
+            },
+            {
+                  "name": "Eslah Society Mosque",
+                  "text": "Un lăcaș de cult musulman tradițional situat în zona istorică Kurar House.",
+                  "category": "landmark",
+                  "coords": [
+                        50.607134,
+                        26.253164
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abdulla Al Zayed House for Bahrain Press Heritage",
+                  "text": "A restored traditional house documenting the history of early journalism in Bahrain.",
+                  "category": "museum",
+                  "coords": [
+                        50.610713,
+                        26.253898
+                  ]
+            },
+            {
+                  "name": "Eslah Society Mosque",
+                  "text": "A traditional Muslim place of worship located in the historic Kurar House area.",
+                  "category": "landmark",
+                  "coords": [
+                        50.607134,
+                        26.253164
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "BH-15",
     coords: [50.611, 26.255],

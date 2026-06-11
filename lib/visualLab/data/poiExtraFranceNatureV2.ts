@@ -430,7 +430,7 @@ export const franceNatureV2: POI[] = [
             },
             {
                   "name": "Pène Nègre",
-                  "text": "Ein Gipfel in den Pyrenäen mit zerklüfteter alpiner Landschaft.",
+                  "text": "Bergpass in der Nähe des Col du Tourmalet.",
                   "category": "landmark",
                   "coords": [
                         0.186373,
@@ -495,7 +495,7 @@ export const franceNatureV2: POI[] = [
             },
             {
                   "name": "Pène Nègre",
-                  "text": "Hegycsúcs a Pireneusokban, zord alpesi tájjal.",
+                  "text": "Hegyi hágó a Tourmalet-hágó közelében.",
                   "category": "landmark",
                   "coords": [
                         0.186373,
@@ -560,7 +560,7 @@ export const franceNatureV2: POI[] = [
             },
             {
                   "name": "Pène Nègre",
-                  "text": "Un vârf din Pirinei care oferă un peisaj alpin accidentat.",
+                  "text": "Pas montan lângă Col du Tourmalet.",
                   "category": "landmark",
                   "coords": [
                         0.186373,
@@ -625,7 +625,7 @@ export const franceNatureV2: POI[] = [
             },
             {
                   "name": "Pène Nègre",
-                  "text": "A peak in the Pyrenees offering rugged alpine scenery.",
+                  "text": "Mountain pass near Col du Tourmalet.",
                   "category": "landmark",
                   "coords": [
                         0.186373,
@@ -709,7 +709,7 @@ export const franceNatureV2: POI[] = [
       "de": [
             {
                   "name": "AIguille Occidentale de la Saussaz",
-                  "text": "Ein Berggipfel im Massiv der Aiguilles d'Arves.",
+                  "text": "Westliche Nadel der Saussaz in den Aiguilles d’Arves.",
                   "category": "landmark",
                   "coords": [
                         6.313834,
@@ -718,7 +718,7 @@ export const franceNatureV2: POI[] = [
             },
             {
                   "name": "Aiguille Méridionale d'Arves",
-                  "text": "Ein markanter Berggipfel in den französischen Alpen.",
+                  "text": "Südliche Nadel der Arves in den Aiguilles d’Arves.",
                   "category": "landmark",
                   "coords": [
                         6.335283,
@@ -727,7 +727,7 @@ export const franceNatureV2: POI[] = [
             },
             {
                   "name": "Pointe Salvador",
-                  "text": "Ein Berggipfel in der Nähe der Aiguilles d'Arves.",
+                  "text": "Spitze im Arves-Massiv.",
                   "category": "landmark",
                   "coords": [
                         6.339928,
@@ -736,7 +736,7 @@ export const franceNatureV2: POI[] = [
             },
             {
                   "name": "Bec de Grenier",
-                  "text": "Ein Berggipfel in der Region Aiguilles d'Arves.",
+                  "text": "Gipfel im Arves-Massiv.",
                   "category": "landmark",
                   "coords": [
                         6.314971,
@@ -745,7 +745,7 @@ export const franceNatureV2: POI[] = [
             },
             {
                   "name": "Mont Falcon",
-                  "text": "Ein Berggipfel in den Savoyer Alpen.",
+                  "text": "Berg in der Arves-Kette.",
                   "category": "landmark",
                   "coords": [
                         6.307714,
@@ -754,7 +754,7 @@ export const franceNatureV2: POI[] = [
             },
             {
                   "name": "Aiguille Centrale de la Saussaz",
-                  "text": "Ein Berggipfel im Bereich der Aiguilles d'Arves.",
+                  "text": "Zentrale Nadel der Saussaz in den Aiguilles d’Arves.",
                   "category": "landmark",
                   "coords": [
                         6.319396,
@@ -772,7 +772,7 @@ export const franceNatureV2: POI[] = [
             },
             {
                   "name": "Aiguille Septentrionale d'Arves",
-                  "text": "Ein Berggipfel, der auch als Tête de Chat bekannt ist.",
+                  "text": "Nördliche Nadel der Arves in den Aiguilles d’Arves.",
                   "category": "landmark",
                   "coords": [
                         6.340996,
@@ -783,7 +783,7 @@ export const franceNatureV2: POI[] = [
       "hu": [
             {
                   "name": "AIguille Occidentale de la Saussaz",
-                  "text": "Hegycsúcs az Aiguilles d'Arves hegységben.",
+                  "text": "A Saussaz nyugati tűje az Aiguilles d’Arves-ben.",
                   "category": "landmark",
                   "coords": [
                         6.313834,
@@ -792,7 +792,7 @@ export const franceNatureV2: POI[] = [
             },
             {
                   "name": "Aiguille Méridionale d'Arves",
-                  "text": "Jellegzetes hegycsúcs a francia Alpokban.",
+                  "text": "Az Arves déli tűje az Aiguilles d’Arves-ben.",
                   "category": "landmark",
                   "coords": [
                         6.335283,
@@ -801,7 +801,7 @@ export const franceNatureV2: POI[] = [
             },
             {
                   "name": "Pointe Salvador",
-                  "text": "Hegycsúcs az Aiguilles d'Arves közelében.",
+                  "text": "Csúcs az Arves-masszívumban.",
                   "category": "landmark",
                   "coords": [
                         6.339928,
@@ -810,7 +810,7 @@ export const franceNatureV2: POI[] = [
             },
             {
                   "name": "Bec de Grenier",
-                  "text": "Hegycsúcs az Aiguilles d'Arves régióban.",
+                  "text": "Hegycsúcs az Arves-masszívumban.",
                   "category": "landmark",
                   "coords": [
                         6.314971,
@@ -819,7 +819,7 @@ export const franceNatureV2: POI[] = [
             },
             {
                   "name": "Mont Falcon",
-                  "text": "Hegycsúcs a Savoyai-Alpokban.",
+                  "text": "Hegy az Arves-hegységben.",
                   "category": "landmark",
                   "coords": [
                         6.307714,
@@ -828,7 +828,7 @@ export const franceNatureV2: POI[] = [
             },
             {
                   "name": "Aiguille Centrale de la Saussaz",
-                  "text": "Hegycsúcs az Aiguilles d'Arves területén.",
+                  "text": "A Saussaz középső tűje az Aiguilles d’Arves-ben.",
                   "category": "landmark",
                   "coords": [
                         6.319396,
@@ -846,7 +846,7 @@ export const franceNatureV2: POI[] = [
             },
             {
                   "name": "Aiguille Septentrionale d'Arves",
-                  "text": "Hegycsúcs, amely Tête de Chat néven is ismert.",
+                  "text": "Az Arves északi tűje az Aiguilles d’Arves-ben.",
                   "category": "landmark",
                   "coords": [
                         6.340996,
@@ -857,7 +857,7 @@ export const franceNatureV2: POI[] = [
       "ro": [
             {
                   "name": "AIguille Occidentale de la Saussaz",
-                  "text": "Un vârf montan în masivul Aiguilles d'Arves.",
+                  "text": "Acul vestic al Saussaz în Aiguilles d’Arves.",
                   "category": "landmark",
                   "coords": [
                         6.313834,
@@ -866,7 +866,7 @@ export const franceNatureV2: POI[] = [
             },
             {
                   "name": "Aiguille Méridionale d'Arves",
-                  "text": "Un vârf montan proeminent în Alpii francezi.",
+                  "text": "Acul sudic al Arves în Aiguilles d’Arves.",
                   "category": "landmark",
                   "coords": [
                         6.335283,
@@ -875,7 +875,7 @@ export const franceNatureV2: POI[] = [
             },
             {
                   "name": "Pointe Salvador",
-                  "text": "Un vârf montan în apropiere de Aiguilles d'Arves.",
+                  "text": "Vârf în masivul Arves.",
                   "category": "landmark",
                   "coords": [
                         6.339928,
@@ -884,7 +884,7 @@ export const franceNatureV2: POI[] = [
             },
             {
                   "name": "Bec de Grenier",
-                  "text": "Un vârf montan în regiunea Aiguilles d'Arves.",
+                  "text": "Vârf în masivul Arves.",
                   "category": "landmark",
                   "coords": [
                         6.314971,
@@ -893,7 +893,7 @@ export const franceNatureV2: POI[] = [
             },
             {
                   "name": "Mont Falcon",
-                  "text": "Un vârf montan în Alpii Savoiei.",
+                  "text": "Munte în lanțul Arves.",
                   "category": "landmark",
                   "coords": [
                         6.307714,
@@ -902,7 +902,7 @@ export const franceNatureV2: POI[] = [
             },
             {
                   "name": "Aiguille Centrale de la Saussaz",
-                  "text": "Un vârf montan în zona Aiguilles d'Arves.",
+                  "text": "Acul central al Saussaz în Aiguilles d’Arves.",
                   "category": "landmark",
                   "coords": [
                         6.319396,
@@ -920,7 +920,7 @@ export const franceNatureV2: POI[] = [
             },
             {
                   "name": "Aiguille Septentrionale d'Arves",
-                  "text": "Un vârf montan cunoscut și sub numele de Tête de Chat.",
+                  "text": "Acul nordic al Arves în Aiguilles d’Arves.",
                   "category": "landmark",
                   "coords": [
                         6.340996,
@@ -931,7 +931,7 @@ export const franceNatureV2: POI[] = [
       "en": [
             {
                   "name": "AIguille Occidentale de la Saussaz",
-                  "text": "A mountain peak in the Aiguilles d'Arves massif.",
+                  "text": "Western needle of the Saussaz in the Aiguilles d’Arves.",
                   "category": "landmark",
                   "coords": [
                         6.313834,
@@ -940,7 +940,7 @@ export const franceNatureV2: POI[] = [
             },
             {
                   "name": "Aiguille Méridionale d'Arves",
-                  "text": "A prominent mountain peak in the French Alps.",
+                  "text": "Southern needle of the Arves in the Aiguilles d’Arves.",
                   "category": "landmark",
                   "coords": [
                         6.335283,
@@ -949,7 +949,7 @@ export const franceNatureV2: POI[] = [
             },
             {
                   "name": "Pointe Salvador",
-                  "text": "A mountain peak located near the Aiguilles d'Arves.",
+                  "text": "Point in the Arves massif.",
                   "category": "landmark",
                   "coords": [
                         6.339928,
@@ -958,7 +958,7 @@ export const franceNatureV2: POI[] = [
             },
             {
                   "name": "Bec de Grenier",
-                  "text": "A mountain peak in the Aiguilles d'Arves region.",
+                  "text": "Peak in the Arves massif.",
                   "category": "landmark",
                   "coords": [
                         6.314971,
@@ -967,7 +967,7 @@ export const franceNatureV2: POI[] = [
             },
             {
                   "name": "Mont Falcon",
-                  "text": "A mountain peak in the Savoy Alps.",
+                  "text": "Mountain in the Arves range.",
                   "category": "landmark",
                   "coords": [
                         6.307714,
@@ -976,7 +976,7 @@ export const franceNatureV2: POI[] = [
             },
             {
                   "name": "Aiguille Centrale de la Saussaz",
-                  "text": "A mountain peak in the Aiguilles d'Arves area.",
+                  "text": "Central needle of the Saussaz in the Aiguilles d’Arves.",
                   "category": "landmark",
                   "coords": [
                         6.319396,
@@ -994,7 +994,7 @@ export const franceNatureV2: POI[] = [
             },
             {
                   "name": "Aiguille Septentrionale d'Arves",
-                  "text": "A mountain peak also known as Tête de Chat.",
+                  "text": "Northern needle of the Arves in the Aiguilles d’Arves.",
                   "category": "landmark",
                   "coords": [
                         6.340996,
@@ -1501,7 +1501,7 @@ export const franceNatureV2: POI[] = [
             },
             {
                   "name": "Pataugeoire",
-                  "text": "Ein Schwimmbad auf dem Plateau von Valensole.",
+                  "text": "Planschbecken auf dem Plateau von Valensole.",
                   "category": "recreational",
                   "coords": [
                         5.994068,
@@ -1557,7 +1557,7 @@ export const franceNatureV2: POI[] = [
             },
             {
                   "name": "Pataugeoire",
-                  "text": "Úszómedence a Valensole-fennsíkon.",
+                  "text": "Pancsolómedence a Valensole-fennsíkon.",
                   "category": "recreational",
                   "coords": [
                         5.994068,
@@ -1613,7 +1613,7 @@ export const franceNatureV2: POI[] = [
             },
             {
                   "name": "Pataugeoire",
-                  "text": "O piscină pe platoul Valensole.",
+                  "text": "Bazin de joacă pentru copii pe Platoul Valensole.",
                   "category": "recreational",
                   "coords": [
                         5.994068,
@@ -1669,7 +1669,7 @@ export const franceNatureV2: POI[] = [
             },
             {
                   "name": "Pataugeoire",
-                  "text": "A swimming pool on the Valensole Plateau.",
+                  "text": "A paddling pool on the Valensole plateau.",
                   "category": "recreational",
                   "coords": [
                         5.994068,

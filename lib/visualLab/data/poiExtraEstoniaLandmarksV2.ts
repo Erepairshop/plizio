@@ -16,7 +16,7 @@ export const estoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Muinastaide Koda",
-                  "text": "Ein Zentrum für Kunst und Kultur beim Herrenhaus Sagadi.",
+                  "text": "Museum für prähistorische Kunst im Herrenhaus Sagadi.",
                   "category": "museum",
                   "coords": [
                         25.964645,
@@ -36,7 +36,7 @@ export const estoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Muinastaide Koda",
-                  "text": "Művészeti és kulturális központ a Sagadi-kastélynál.",
+                  "text": "Őskori Művészeti Központ a Sagadi-kastélyban.",
                   "category": "museum",
                   "coords": [
                         25.964645,
@@ -56,7 +56,7 @@ export const estoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Muinastaide Koda",
-                  "text": "Un centru de artă și cultură situat lângă conacul Sagadi.",
+                  "text": "Centrul de Artă Preistorică în conacul Sagadi.",
                   "category": "museum",
                   "coords": [
                         25.964645,
@@ -76,7 +76,7 @@ export const estoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Prehistoric Art Centre",
-                  "text": "An art and culture center located at the Sagadi Manor.",
+                  "text": "Prehistoric Art Centre housed in Sagadi Manor.",
                   "category": "museum",
                   "coords": [
                         25.964645,
@@ -313,7 +313,7 @@ export const estoniaLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Toolse supelrand",
-                  "text": "Toolse-Badestrand in der Nähe der Kirche von Kunda.",
+                  "text": "Badestrand nahe der Kirche von Kunda.",
                   "category": "recreational",
                   "coords": [
                         26.466672,
@@ -324,7 +324,7 @@ export const estoniaLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Toolse supelrand",
-                  "text": "Toolse strand a kunda-i templom közelében.",
+                  "text": "Strand a Kunda templom közelében.",
                   "category": "recreational",
                   "coords": [
                         26.466672,
@@ -335,7 +335,7 @@ export const estoniaLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Toolse supelrand",
-                  "text": "Plaja Toolse lângă biserica din Kunda.",
+                  "text": "Plajă lângă biserica Kunda.",
                   "category": "recreational",
                   "coords": [
                         26.466672,
@@ -346,7 +346,7 @@ export const estoniaLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Toolse supelrand",
-                  "text": "Toolse beach near the church in Kunda.",
+                  "text": "Beach near Kunda Church.",
                   "category": "recreational",
                   "coords": [
                         26.466672,
@@ -448,7 +448,7 @@ export const estoniaLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Karula järve supelrand",
-                  "text": "Badestrand am Karula-See bei Viljandi.",
+                  "text": "Badestrand am Karula-See nahe dem Viljandi-Museum.",
                   "category": "recreational",
                   "coords": [
                         25.601344,
@@ -459,7 +459,7 @@ export const estoniaLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Karula järve supelrand",
-                  "text": "Strand a Karula-tónál, Viljandi közelében.",
+                  "text": "Strand a Karula-tónál, a Viljandi Múzeum közelében.",
                   "category": "recreational",
                   "coords": [
                         25.601344,
@@ -470,7 +470,7 @@ export const estoniaLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Karula järve supelrand",
-                  "text": "Plajă la lacul Karula, lângă Viljandi.",
+                  "text": "Plajă pe lacul Karula, lângă Muzeul Viljandi.",
                   "category": "recreational",
                   "coords": [
                         25.601344,
@@ -481,7 +481,7 @@ export const estoniaLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Karula järve supelrand",
-                  "text": "Beach at Karula Lake near Viljandi.",
+                  "text": "Beach on Karula Lake near Viljandi Museum.",
                   "category": "recreational",
                   "coords": [
                         25.601344,
@@ -673,7 +673,7 @@ export const estoniaLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Kalarand",
-                  "text": "Kalarand-Strand in Tallinn.",
+                  "text": "Stadtstrand Kalarand direkt neben dem Flugzeughafen Tallinn.",
                   "category": "recreational",
                   "coords": [
                         24.748266,
@@ -684,7 +684,7 @@ export const estoniaLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Kalarand",
-                  "text": "Kalarand strand Tallinnban.",
+                  "text": "Kalarand városi strand a tallinni repülőgéphajó-kikötő mellett.",
                   "category": "recreational",
                   "coords": [
                         24.748266,
@@ -695,7 +695,7 @@ export const estoniaLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Kalarand",
-                  "text": "Plaja Kalarand în Tallinn.",
+                  "text": "Plaja Kalarand lângă Portul Hidroavioanelor din Tallinn.",
                   "category": "recreational",
                   "coords": [
                         24.748266,
@@ -706,7 +706,7 @@ export const estoniaLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Kalarand",
-                  "text": "Kalarand beach in Tallinn.",
+                  "text": "Kalarand city beach next to the Tallinn Seaplane Harbour.",
                   "category": "recreational",
                   "coords": [
                         24.748266,
@@ -871,7 +871,7 @@ export const estoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Wpark Põltsamaa supelrand",
-                  "text": "Ein Freizeitstrand und Wassersportgebiet in der Stadt Põltsamaa.",
+                  "text": "Wpark-Badestrand nahe der Kirche von Põltsamaa.",
                   "category": "recreational",
                   "coords": [
                         25.987293,
@@ -918,7 +918,7 @@ export const estoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Wpark Põltsamaa supelrand",
-                  "text": "Szabadidős strand és vízisport-terület Põltsamaa városában.",
+                  "text": "Wpark strand a Põltsamaa templom közelében.",
                   "category": "recreational",
                   "coords": [
                         25.987293,
@@ -965,7 +965,7 @@ export const estoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Wpark Põltsamaa supelrand",
-                  "text": "O plajă de agrement și o zonă de sporturi nautice situată în orașul Põltsamaa.",
+                  "text": "Plaja Wpark lângă biserica Põltsamaa.",
                   "category": "recreational",
                   "coords": [
                         25.987293,
@@ -1012,7 +1012,7 @@ export const estoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Wpark Põltsamaa beach",
-                  "text": "A recreational beach and water sports area located in the town of Põltsamaa.",
+                  "text": "Wpark beach near Põltsamaa Church.",
                   "category": "recreational",
                   "coords": [
                         25.987293,
@@ -1177,7 +1177,7 @@ export const estoniaLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Paide supelrand - rannavollekeskus",
-                  "text": "Strand in Paide.",
+                  "text": "Strand mit Beachvolleyballplatz nahe der Kirche von Paide.",
                   "category": "recreational",
                   "coords": [
                         25.583982,
@@ -1186,7 +1186,7 @@ export const estoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Paide supelrand - lasterand",
-                  "text": "Kinderstrand in Paide.",
+                  "text": "Kinderstrand nahe der Kirche von Paide.",
                   "category": "recreational",
                   "coords": [
                         25.583416,
@@ -1197,7 +1197,7 @@ export const estoniaLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Paide supelrand - rannavollekeskus",
-                  "text": "Strand Paidéban.",
+                  "text": "Strand röplabdapályával a Paide templom közelében.",
                   "category": "recreational",
                   "coords": [
                         25.583982,
@@ -1206,7 +1206,7 @@ export const estoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Paide supelrand - lasterand",
-                  "text": "Gyermekstrand Paidéban.",
+                  "text": "Gyermekstrand a Paide templom közelében.",
                   "category": "recreational",
                   "coords": [
                         25.583416,
@@ -1217,7 +1217,7 @@ export const estoniaLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Paide supelrand - rannavollekeskus",
-                  "text": "Plajă în Paide.",
+                  "text": "Plajă cu teren de volei pe plajă lângă biserica Paide.",
                   "category": "recreational",
                   "coords": [
                         25.583982,
@@ -1226,7 +1226,7 @@ export const estoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Paide supelrand - lasterand",
-                  "text": "Plajă pentru copii în Paide.",
+                  "text": "Plajă pentru copii lângă biserica Paide.",
                   "category": "recreational",
                   "coords": [
                         25.583416,
@@ -1237,7 +1237,7 @@ export const estoniaLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Paide supelrand - rannavollekeskus",
-                  "text": "Beach in Paide.",
+                  "text": "Beach with volleyball court near Paide Church.",
                   "category": "recreational",
                   "coords": [
                         25.583982,
@@ -1246,7 +1246,7 @@ export const estoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Paide supelrand - lasterand",
-                  "text": "Children's beach in Paide.",
+                  "text": "Children's beach near Paide Church.",
                   "category": "recreational",
                   "coords": [
                         25.583416,
@@ -1303,7 +1303,7 @@ export const estoniaLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Vesiroosi supelrand",
-                  "text": "Strand bei der Kirche von Rapla.",
+                  "text": "Badestrand nahe der Kirche von Rapla.",
                   "category": "recreational",
                   "coords": [
                         24.81288,
@@ -1312,7 +1312,7 @@ export const estoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Öökulli järve supelrand",
-                  "text": "Strand am See Öökulli bei der Kirche Rapla.",
+                  "text": "Badestrand am Öökulli-See nahe der Kirche von Rapla.",
                   "category": "recreational",
                   "coords": [
                         24.851772,
@@ -1323,7 +1323,7 @@ export const estoniaLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Vesiroosi supelrand",
-                  "text": "Strand a raplai templom mellett.",
+                  "text": "Strand a Rapla templom közelében.",
                   "category": "recreational",
                   "coords": [
                         24.81288,
@@ -1332,7 +1332,7 @@ export const estoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Öökulli järve supelrand",
-                  "text": "Strand az Öökulli-tónál, a raplai templom közelében.",
+                  "text": "Strand az Öökulli-tónál, a Rapla templom közelében.",
                   "category": "recreational",
                   "coords": [
                         24.851772,
@@ -1343,7 +1343,7 @@ export const estoniaLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Vesiroosi supelrand",
-                  "text": "Plajă lângă biserica din Rapla.",
+                  "text": "Plajă lângă biserica Rapla.",
                   "category": "recreational",
                   "coords": [
                         24.81288,
@@ -1352,7 +1352,7 @@ export const estoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Öökulli järve supelrand",
-                  "text": "Plajă la lacul Öökulli lângă biserica din Rapla.",
+                  "text": "Plajă pe lacul Öökulli lângă biserica Rapla.",
                   "category": "recreational",
                   "coords": [
                         24.851772,
@@ -1372,7 +1372,7 @@ export const estoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Öökulli järve supelrand",
-                  "text": "Beach at Öökulli Lake near Rapla Church.",
+                  "text": "Beach on Öökulli Lake near Rapla Church.",
                   "category": "recreational",
                   "coords": [
                         24.851772,
@@ -1474,7 +1474,7 @@ export const estoniaLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Kuressaare rand",
-                  "text": "Strand in Kuressaare.",
+                  "text": "Badestrand in Kuressaare unweit des Rathauses.",
                   "category": "recreational",
                   "coords": [
                         22.476702,
@@ -1485,7 +1485,7 @@ export const estoniaLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Kuressaare rand",
-                  "text": "Kuressaare strand.",
+                  "text": "Kuressaarei strand a városháza közelében.",
                   "category": "recreational",
                   "coords": [
                         22.476702,
@@ -1496,7 +1496,7 @@ export const estoniaLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Kuressaare rand",
-                  "text": "Plaja Kuressaare.",
+                  "text": "Plaja din Kuressaare lângă primărie.",
                   "category": "recreational",
                   "coords": [
                         22.476702,
@@ -1507,7 +1507,7 @@ export const estoniaLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Kuressaare rand",
-                  "text": "Kuressaare beach.",
+                  "text": "Kuressaare beach near the town hall.",
                   "category": "recreational",
                   "coords": [
                         22.476702,

@@ -142,7 +142,7 @@ export const netherlandsReliefV2: POI[] = [
       "de": [
             {
                   "name": "Rhederlaag (naaktstrand)",
-                  "text": "Naturistenstrand am Rhederlaag bei Posbank.",
+                  "text": "FKK-Strand am Rhederlaag-See bei Posbank.",
                   "category": "recreational",
                   "coords": [
                         6.042587,
@@ -151,7 +151,7 @@ export const netherlandsReliefV2: POI[] = [
             },
             {
                   "name": "Rhederlaag",
-                  "text": "Strand am Rhederlaag bei Posbank.",
+                  "text": "Hauptstrand am Rhederlaag-See in Posbank.",
                   "category": "recreational",
                   "coords": [
                         6.037582,
@@ -162,7 +162,7 @@ export const netherlandsReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Rhederlaag (naaktstrand)",
-                  "text": "Természetes strand a Rhederlaag-nál, Posbank közelében.",
+                  "text": "Nudista strand a Rhederlaag-tónál Posbank közelében.",
                   "category": "recreational",
                   "coords": [
                         6.042587,
@@ -171,7 +171,7 @@ export const netherlandsReliefV2: POI[] = [
             },
             {
                   "name": "Rhederlaag",
-                  "text": "Strand a Rhederlaag-nál, Posbank közelében.",
+                  "text": "Fő strand a Rhederlaag-tónál Posbankban.",
                   "category": "recreational",
                   "coords": [
                         6.037582,
@@ -182,7 +182,7 @@ export const netherlandsReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Rhederlaag (naaktstrand)",
-                  "text": "Plajă pentru nudiști pe Rhederlaag, lângă Posbank.",
+                  "text": "Plajă nudistă pe lacul Rhederlaag lângă Posbank.",
                   "category": "recreational",
                   "coords": [
                         6.042587,
@@ -191,7 +191,7 @@ export const netherlandsReliefV2: POI[] = [
             },
             {
                   "name": "Rhederlaag",
-                  "text": "Plajă pe Rhederlaag, lângă Posbank.",
+                  "text": "Plaja principală pe lacul Rhederlaag la Posbank.",
                   "category": "recreational",
                   "coords": [
                         6.037582,
@@ -202,7 +202,7 @@ export const netherlandsReliefV2: POI[] = [
       "en": [
             {
                   "name": "Rhederlaag (naaktstrand)",
-                  "text": "Nudist beach on the Rhederlaag near Posbank.",
+                  "text": "Nudist beach on the Rhederlaag lake near Posbank.",
                   "category": "recreational",
                   "coords": [
                         6.042587,
@@ -211,7 +211,7 @@ export const netherlandsReliefV2: POI[] = [
             },
             {
                   "name": "Rhederlaag",
-                  "text": "Beach on the Rhederlaag near Posbank.",
+                  "text": "Main beach on the Rhederlaag lake at Posbank.",
                   "category": "recreational",
                   "coords": [
                         6.037582,
@@ -979,7 +979,7 @@ export const netherlandsReliefV2: POI[] = [
             },
             {
                   "name": "Dierense Speeltuin",
-                  "text": "Ein Spielplatz in der Region Veluwezoom Moraine.",
+                  "text": "Spielplatz in der Veluwezoom-Moränenlandschaft.",
                   "category": "recreational",
                   "coords": [
                         6.09657,
@@ -1062,7 +1062,7 @@ export const netherlandsReliefV2: POI[] = [
             },
             {
                   "name": "Dierense Speeltuin",
-                  "text": "Játszótér a Veluwezoom Moraine régióban.",
+                  "text": "Játszótér a Veluwezoom moréna táján.",
                   "category": "recreational",
                   "coords": [
                         6.09657,
@@ -1145,7 +1145,7 @@ export const netherlandsReliefV2: POI[] = [
             },
             {
                   "name": "Dierense Speeltuin",
-                  "text": "Un teren de joacă în regiunea Veluwezoom Moraine.",
+                  "text": "Loc de joacă în peisajul morenic Veluwezoom.",
                   "category": "recreational",
                   "coords": [
                         6.09657,
@@ -1228,7 +1228,7 @@ export const netherlandsReliefV2: POI[] = [
             },
             {
                   "name": "Dierense Speeltuin",
-                  "text": "A playground in the Veluwezoom Moraine region.",
+                  "text": "Playground in the Veluwezoom moraine landscape.",
                   "category": "recreational",
                   "coords": [
                         6.09657,
@@ -1281,7 +1281,88 @@ export const netherlandsReliefV2: POI[] = [
     image: "/poi-images/netherlands-veluwezoom-moraine-relief-v2.webp",
   },
   {
-    id: "netherlands-schoorlse-duinen-relief-v2", "sights": {"de": [{"name": "Nude Beach - Schoorl aan Zee", "text": "Versteckt in der natürlichen Schönheit der Schoorlse Duinen, bietet dieser ausgewiesene FKK-Strand Privatsphäre und beeindruckende Landschaften. Die Umgebung ist bemerkenswert friedlich, geprägt von sanften Dünen und brechenden Wellen. Besucher kommen hierher, um ungestört sonnenzubaden und achtsame Spaziergänge entlang der unberührten Küste zu unternehmen. Um diesen Ort zu erreichen, ist eine kleine Wanderung oder Fahrradtour nötig, daher ist bequemes Schuhwerk unerlässlich.", "category": "recreational", "coords": [4.634759, 52.694035]}, {"name": "De Kerf", "text": "Strand De Kerf in den Schoorlse Duinen.", "category": "recreational", "coords": [4.636814, 52.684112]}], "hu": [{"name": "Nude Beach - Schoorl aan Zee", "text": "A Schoorlse Duinen természeti szépségei között megbúvó, kijelölt naturista strand magánszférát és lenyűgöző tájat kínál. A környezet figyelemre méltóan békés, melyet a hullámzó dűnék és a megtörő hullámok jellemeznek. A látogatók a zavartalan napozás és az érintetlen partvonalon tett tudatos séták miatt érkeznek ide. A helyszín megközelítése egy kis túrázást vagy kerékpározást igényel, ezért a kényelmes lábbeli elengedhetetlen.", "category": "recreational", "coords": [4.634759, 52.694035]}, {"name": "De Kerf", "text": "De Kerf strand a Schoorlse dűnékben.", "category": "recreational", "coords": [4.636814, 52.684112]}], "ro": [{"name": "Nude Beach - Schoorl aan Zee", "text": "Ascunsă în frumusețea naturală a dunelor Schoorlse Duinen, această plajă de nudiști desemnată oferă intimitate și peisaje uimitoare. Mediul este remarcabil de pașnic, caracterizat de dune ondulate și valuri care se sparg. Vizitatorii vin aici pentru băi de soare neîntrerupte și plimbări conștiente de-a lungul coastei nealterate. Ajungerea în acest loc necesită o scurtă drumeție sau o plimbare cu bicicleta, așa că încălțămintea confortabilă este esențială.", "category": "recreational", "coords": [4.634759, 52.694035]}, {"name": "De Kerf", "text": "Plaja De Kerf din dunele Schoorlse.", "category": "recreational", "coords": [4.636814, 52.684112]}], "en": [{"name": "Nude Beach - Schoorl aan Zee", "text": "Tucked away within the natural beauty of the Schoorlse Duinen, this designated naturist beach offers privacy and stunning landscapes. The environment is remarkably peaceful, characterized by rolling dunes and crashing waves. Visitors come here for uninterrupted sunbathing and mindful walks along the unspoiled coastline. Reaching this spot requires a bit of a hike or bike ride, so comfortable footwear is essential.", "category": "recreational", "coords": [4.634759, 52.694035]}, {"name": "De Kerf", "text": "De Kerf beach in the Schoorlse Duinen.", "category": "recreational", "coords": [4.636814, 52.684112]}]},
+    id: "netherlands-schoorlse-duinen-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nude Beach - Schoorl aan Zee",
+                  "text": "Versteckt in der natürlichen Schönheit der Schoorlse Duinen, bietet dieser ausgewiesene FKK-Strand Privatsphäre und beeindruckende Landschaften. Die Umgebung ist bemerkenswert friedlich, geprägt von sanften Dünen und brechenden Wellen. Besucher kommen hierher, um ungestört sonnenzubaden und achtsame Spaziergänge entlang der unberührten Küste zu unternehmen. Um diesen Ort zu erreichen, ist eine kleine Wanderung oder Fahrradtour nötig, daher ist bequemes Schuhwerk unerlässlich.",
+                  "category": "recreational",
+                  "coords": [
+                        4.634759,
+                        52.694035
+                  ]
+            },
+            {
+                  "name": "De Kerf",
+                  "text": "Dünendurchbruch im Naturschutzgebiet Schoorlse Duinen.",
+                  "category": "recreational",
+                  "coords": [
+                        4.636814,
+                        52.684112
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nude Beach - Schoorl aan Zee",
+                  "text": "A Schoorlse Duinen természeti szépségei között megbúvó, kijelölt naturista strand magánszférát és lenyűgöző tájat kínál. A környezet figyelemre méltóan békés, melyet a hullámzó dűnék és a megtörő hullámok jellemeznek. A látogatók a zavartalan napozás és az érintetlen partvonalon tett tudatos séták miatt érkeznek ide. A helyszín megközelítése egy kis túrázást vagy kerékpározást igényel, ezért a kényelmes lábbeli elengedhetetlen.",
+                  "category": "recreational",
+                  "coords": [
+                        4.634759,
+                        52.694035
+                  ]
+            },
+            {
+                  "name": "De Kerf",
+                  "text": "Dűneáttörés a Schoorlse Duinen természetvédelmi területen.",
+                  "category": "recreational",
+                  "coords": [
+                        4.636814,
+                        52.684112
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nude Beach - Schoorl aan Zee",
+                  "text": "Ascunsă în frumusețea naturală a dunelor Schoorlse Duinen, această plajă de nudiști desemnată oferă intimitate și peisaje uimitoare. Mediul este remarcabil de pașnic, caracterizat de dune ondulate și valuri care se sparg. Vizitatorii vin aici pentru băi de soare neîntrerupte și plimbări conștiente de-a lungul coastei nealterate. Ajungerea în acest loc necesită o scurtă drumeție sau o plimbare cu bicicleta, așa că încălțămintea confortabilă este esențială.",
+                  "category": "recreational",
+                  "coords": [
+                        4.634759,
+                        52.694035
+                  ]
+            },
+            {
+                  "name": "De Kerf",
+                  "text": "Breșă de dună în rezervația naturală Schoorlse Duinen.",
+                  "category": "recreational",
+                  "coords": [
+                        4.636814,
+                        52.684112
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nude Beach - Schoorl aan Zee",
+                  "text": "Tucked away within the natural beauty of the Schoorlse Duinen, this designated naturist beach offers privacy and stunning landscapes. The environment is remarkably peaceful, characterized by rolling dunes and crashing waves. Visitors come here for uninterrupted sunbathing and mindful walks along the unspoiled coastline. Reaching this spot requires a bit of a hike or bike ride, so comfortable footwear is essential.",
+                  "category": "recreational",
+                  "coords": [
+                        4.634759,
+                        52.694035
+                  ]
+            },
+            {
+                  "name": "De Kerf",
+                  "text": "Dune gap (inlet) in the Schoorlse Duinen nature reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        4.636814,
+                        52.684112
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NL",
     name: { de: "Schoorlse Dünen", hu: "Schoorlse-dűnék", ro: "Dunele Schoorl", en: "Schoorl Dunes" },
@@ -1807,7 +1888,7 @@ export const netherlandsReliefV2: POI[] = [
       "de": [
             {
                   "name": "De Oerkap",
-                  "text": "Strand De Oerkap in Haarlemmerliede.",
+                  "text": "Gezeitenbach oder See in den Haarlemmerliede-Hügeln.",
                   "category": "recreational",
                   "coords": [
                         4.647169,
@@ -1818,7 +1899,7 @@ export const netherlandsReliefV2: POI[] = [
       "hu": [
             {
                   "name": "De Oerkap",
-                  "text": "De Oerkap strand Haarlemmerliedében.",
+                  "text": "Árapálycsatorna vagy tó a Haarlemmerliede-gerincek területén.",
                   "category": "recreational",
                   "coords": [
                         4.647169,
@@ -1829,7 +1910,7 @@ export const netherlandsReliefV2: POI[] = [
       "ro": [
             {
                   "name": "De Oerkap",
-                  "text": "Plaja De Oerkap din Haarlemmerliede.",
+                  "text": "Canal de maree sau lac în zona dealurilor Haarlemmerliede.",
                   "category": "recreational",
                   "coords": [
                         4.647169,
@@ -1840,7 +1921,7 @@ export const netherlandsReliefV2: POI[] = [
       "en": [
             {
                   "name": "De Oerkap",
-                  "text": "De Oerkap beach in Haarlemmerliede.",
+                  "text": "Tidal inlet or lake in the Haarlemmerliede ridges area.",
                   "category": "recreational",
                   "coords": [
                         4.647169,
@@ -2752,7 +2833,7 @@ export const netherlandsReliefV2: POI[] = [
             },
             {
                   "name": "Mariëndael",
-                  "text": "Ein Kulturzentrum und Theater in Schijndel.",
+                  "text": "Historischer Garten und Kulturensemble in Esberg.",
                   "category": "cultural",
                   "coords": [
                         5.458078,
@@ -2761,7 +2842,7 @@ export const netherlandsReliefV2: POI[] = [
             },
             {
                   "name": "Hertenkamp",
-                  "text": "Ein Wildgehege in Esberg, in dem Hirsche beobachtet werden können.",
+                  "text": "Hirschpark in Esberg.",
                   "category": "recreational",
                   "coords": [
                         5.459038,
@@ -2835,7 +2916,7 @@ export const netherlandsReliefV2: POI[] = [
             },
             {
                   "name": "Mariëndael",
-                  "text": "Kulturális központ és színház Schijndelben.",
+                  "text": "Történelmi kert és kulturális birtok Esbergben.",
                   "category": "cultural",
                   "coords": [
                         5.458078,
@@ -2844,7 +2925,7 @@ export const netherlandsReliefV2: POI[] = [
             },
             {
                   "name": "Hertenkamp",
-                  "text": "Vadaspark Esbergben, ahol szarvasok láthatók.",
+                  "text": "Szarvaspark Esbergben.",
                   "category": "recreational",
                   "coords": [
                         5.459038,
@@ -2918,7 +2999,7 @@ export const netherlandsReliefV2: POI[] = [
             },
             {
                   "name": "Mariëndael",
-                  "text": "Un centru cultural și teatru situat în Schijndel.",
+                  "text": "Grădină istorică și complex cultural în Esberg.",
                   "category": "cultural",
                   "coords": [
                         5.458078,
@@ -2927,7 +3008,7 @@ export const netherlandsReliefV2: POI[] = [
             },
             {
                   "name": "Hertenkamp",
-                  "text": "Un parc cu cerbi în Esberg, unde pot fi observați cerbii.",
+                  "text": "Parc cu cerbi în Esberg.",
                   "category": "recreational",
                   "coords": [
                         5.459038,
@@ -3001,7 +3082,7 @@ export const netherlandsReliefV2: POI[] = [
             },
             {
                   "name": "Mariëndael",
-                  "text": "A cultural center and theatre located in Schijndel.",
+                  "text": "Historic garden and cultural estate in Esberg.",
                   "category": "cultural",
                   "coords": [
                         5.458078,
@@ -3010,7 +3091,7 @@ export const netherlandsReliefV2: POI[] = [
             },
             {
                   "name": "Hertenkamp",
-                  "text": "A deer park in Esberg where deer can be observed.",
+                  "text": "Deer park in Esberg.",
                   "category": "recreational",
                   "coords": [
                         5.459038,
@@ -3175,7 +3256,7 @@ export const netherlandsReliefV2: POI[] = [
             },
             {
                   "name": "Kasteel Oost",
-                  "text": "Ein historisches Schloss und Landgut in Schaelsberg.",
+                  "text": "Kasteel Oost ist eine verfallene Höhenburg auf dem Schaelsberg oberhalb von Valkenburg.",
                   "category": "castle",
                   "coords": [
                         5.841752,
@@ -3276,7 +3357,7 @@ export const netherlandsReliefV2: POI[] = [
             },
             {
                   "name": "Kasteel Oost",
-                  "text": "Egy történelmi kastély és birtok Schaelsbergben.",
+                  "text": "A Kasteel Oost egy romos hegyi vár a Schaelsbergen, Valkenburg felett.",
                   "category": "castle",
                   "coords": [
                         5.841752,
@@ -3377,7 +3458,7 @@ export const netherlandsReliefV2: POI[] = [
             },
             {
                   "name": "Kasteel Oost",
-                  "text": "Un castel și domeniu istoric în Schaelsberg.",
+                  "text": "Kasteel Oost este o cetate ruinată pe dealul Schaelsberg deasupra Valkenburgului.",
                   "category": "castle",
                   "coords": [
                         5.841752,
@@ -3478,7 +3559,7 @@ export const netherlandsReliefV2: POI[] = [
             },
             {
                   "name": "Kasteel Oost",
-                  "text": "A historic castle and estate in Schaelsberg.",
+                  "text": "Kasteel Oost is a ruined hilltop castle on Schaelsberg above Valkenburg.",
                   "category": "castle",
                   "coords": [
                         5.841752,

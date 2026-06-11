@@ -52,7 +52,7 @@ export const maltaNatureV2: POI[] = [
       "de": [
             {
                   "name": "Xrobb l-Għagin",
-                  "text": "Xrobb l-Għagin ist eine Bucht im Xrobb l-Għagin Naturpark.",
+                  "text": "Küsten-Naturschutzgebiet mit dramatischen Klippen und Wanderwegen in Xrobb l-Għagin.",
                   "category": "recreational",
                   "coords": [
                         14.568406,
@@ -63,7 +63,7 @@ export const maltaNatureV2: POI[] = [
       "hu": [
             {
                   "name": "Xrobb l-Għagin",
-                  "text": "Xrobb l-Għagin egy öböl a Xrobb l-Għagin természetvédelmi parkban.",
+                  "text": "Tengerparti természetvédelmi terület drámai sziklákkal és gyalogutakkal Xrobb l-Għaginban.",
                   "category": "recreational",
                   "coords": [
                         14.568406,
@@ -74,7 +74,7 @@ export const maltaNatureV2: POI[] = [
       "ro": [
             {
                   "name": "Xrobb l-Għagin",
-                  "text": "Xrobb l-Għagin este un golf situat în parcul natural Xrobb l-Għagin.",
+                  "text": "Rezervație naturală de coastă cu stânci spectaculoase și trasee de drumeție în Xrobb l-Għagin.",
                   "category": "recreational",
                   "coords": [
                         14.568406,
@@ -85,7 +85,7 @@ export const maltaNatureV2: POI[] = [
       "en": [
             {
                   "name": "Xrobb l-Għagin",
-                  "text": "Xrobb l-Għagin is a bay located within the Xrobb l-Għagin coastal park.",
+                  "text": "Coastal nature reserve with dramatic cliffs and walking trails in Xrobb l-Għagin.",
                   "category": "recreational",
                   "coords": [
                         14.568406,
@@ -151,7 +151,7 @@ export const maltaNatureV2: POI[] = [
             },
             {
                   "name": "Bajja tal-Fekruna",
-                  "text": "Fekruna Bay ist eine ruhige Bucht in Malta, ideal zum Schnorcheln und Schwimmen.",
+                  "text": "Kleine, felsige Bucht im Mistra-Tal, ideal zum Schwimmen und Sonnenbaden.",
                   "category": "recreational",
                   "coords": [
                         14.389228,
@@ -171,7 +171,7 @@ export const maltaNatureV2: POI[] = [
             },
             {
                   "name": "Bajja tal-Fekruna",
-                  "text": "A Fekruna-öböl egy csendes öböl Máltán, amely ideális búvárkodásra és úszásra.",
+                  "text": "Kis, sziklás öböl a Mistra-völgyben, fürdőzésre és napozásra alkalmas.",
                   "category": "recreational",
                   "coords": [
                         14.389228,
@@ -191,7 +191,7 @@ export const maltaNatureV2: POI[] = [
             },
             {
                   "name": "Bajja tal-Fekruna",
-                  "text": "Golful Fekruna este un golf liniștit din Malta, ideal pentru snorkeling și înot.",
+                  "text": "Golf mic stâncos în Valea Mistra, ideal pentru înot și plajă.",
                   "category": "recreational",
                   "coords": [
                         14.389228,
@@ -211,7 +211,7 @@ export const maltaNatureV2: POI[] = [
             },
             {
                   "name": "Fekruna Bay",
-                  "text": "Fekruna Bay is a quiet bay in Malta ideal for snorkeling and swimming.",
+                  "text": "Small rocky bay in Mistra Valley, ideal for swimming and sunbathing.",
                   "category": "recreational",
                   "coords": [
                         14.389228,

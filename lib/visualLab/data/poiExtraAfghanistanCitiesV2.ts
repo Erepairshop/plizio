@@ -3,7 +3,160 @@ import type { POI } from "./poi";
 
 export const poiExtraAfghanistanCitiesV2: POI[] = [
   {
-    id: "kabul-cities-v2",
+    id: "kabul-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qalai Fatullah 4th Street Masjid",
+                  "text": "Eine Nachbarschaftsmoschee, die sich direkt in der 4. Straße von Qalai Fatullah in Kabul befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        69.165989,
+                        34.54568
+                  ]
+            },
+            {
+                  "name": "Yaghoob Mosque",
+                  "text": "Eine städtische Moschee in Kabul, die der lokalen islamischen Gemeinde für die täglichen Gebete dient.",
+                  "category": "landmark",
+                  "coords": [
+                        69.164312,
+                        34.543233
+                  ]
+            },
+            {
+                  "name": "Masjid Haji Yaqub",
+                  "text": "Ein herausragender Ort der islamischen Anbetung, der direkt in das geschäftige Stadtbild von Kabul eingebettet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        69.168526,
+                        34.53613
+                  ]
+            },
+            {
+                  "name": "Madina Bazar",
+                  "text": "Ein lebhafter lokaler Marktplatz in Kabul, auf dem städtische Händler eine breite Palette von Waren verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        69.167872,
+                        34.542419
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qalai Fatullah 4th Street Masjid",
+                  "text": "Szomszédsági mecset, amely Kabul Qalai Fatullah negyedének 4. utcájában található.",
+                  "category": "landmark",
+                  "coords": [
+                        69.165989,
+                        34.54568
+                  ]
+            },
+            {
+                  "name": "Yaghoob Mosque",
+                  "text": "Városi mecset Kabulban, amely napi imákkal szolgálja a helyi iszlám gyülekezetet.",
+                  "category": "landmark",
+                  "coords": [
+                        69.164312,
+                        34.543233
+                  ]
+            },
+            {
+                  "name": "Masjid Haji Yaqub",
+                  "text": "Kiemelkedő iszlám istentiszteleti hely, amely közvetlenül Kabul nyüzsgő városképébe ágyazódik.",
+                  "category": "landmark",
+                  "coords": [
+                        69.168526,
+                        34.53613
+                  ]
+            },
+            {
+                  "name": "Madina Bazar",
+                  "text": "Élénk helyi piac Kabulban, ahol a városi kereskedők áruk széles választékát kínálják.",
+                  "category": "cultural",
+                  "coords": [
+                        69.167872,
+                        34.542419
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qalai Fatullah 4th Street Masjid",
+                  "text": "O moschee de cartier situată chiar pe strada a 4-a din Qalai Fatullah, în Kabul.",
+                  "category": "landmark",
+                  "coords": [
+                        69.165989,
+                        34.54568
+                  ]
+            },
+            {
+                  "name": "Yaghoob Mosque",
+                  "text": "O moschee urbană din Kabul care servește congregația islamică locală cu rugăciuni zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        69.164312,
+                        34.543233
+                  ]
+            },
+            {
+                  "name": "Masjid Haji Yaqub",
+                  "text": "Un loc proeminent de cult islamic, așezat direct în peisajul urban aglomerat din Kabul.",
+                  "category": "landmark",
+                  "coords": [
+                        69.168526,
+                        34.53613
+                  ]
+            },
+            {
+                  "name": "Madina Bazar",
+                  "text": "O piață locală plină de viață din Kabul, unde comercianții urbani vând o gamă largă de bunuri.",
+                  "category": "cultural",
+                  "coords": [
+                        69.167872,
+                        34.542419
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qalai Fatullah 4th Street Masjid",
+                  "text": "A neighborhood mosque located specifically on the 4th street of Qalai Fatullah in Kabul.",
+                  "category": "landmark",
+                  "coords": [
+                        69.165989,
+                        34.54568
+                  ]
+            },
+            {
+                  "name": "Yaghoob Mosque",
+                  "text": "An urban mosque in Kabul serving the local Islamic congregation with daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        69.164312,
+                        34.543233
+                  ]
+            },
+            {
+                  "name": "Masjid Haji Yaqub",
+                  "text": "A prominent place of Islamic worship nestled directly within the bustling cityscape of Kabul.",
+                  "category": "landmark",
+                  "coords": [
+                        69.168526,
+                        34.53613
+                  ]
+            },
+            {
+                  "name": "Madina Bazar",
+                  "text": "A lively local marketplace in Kabul where urban merchants sell a wide array of goods.",
+                  "category": "cultural",
+                  "coords": [
+                        69.167872,
+                        34.542419
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "AF-KAB",
     coords: [69.1722, 34.5333],
@@ -44,7 +197,88 @@ export const poiExtraAfghanistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "kandahar-cities-v2",
+    id: "kandahar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rahmat Jamia Masjid",
+                  "text": "Eine große Freitagsmoschee, die einen architektonischen und spirituellen Mittelpunkt in Kandahar bildet.",
+                  "category": "landmark",
+                  "coords": [
+                        65.777712,
+                        31.601693
+                  ]
+            },
+            {
+                  "name": "Kandahar Eidgah Jama",
+                  "text": "Ein großer Freiluft-Versammlungsplatz in Kandahar, der speziell für gemeinsame Eid-Gebete konzipiert wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        65.697415,
+                        31.63812
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rahmat Jamia Masjid",
+                  "text": "Nagy gyülekezeti mecset, amely Kandahár egyik építészeti és spirituális fókuszpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        65.777712,
+                        31.601693
+                  ]
+            },
+            {
+                  "name": "Kandahar Eidgah Jama",
+                  "text": "Nagy szabadtéri gyülekezőhely Kandahárban, amelyet kifejezetten a közösségi ünnepi imákra alakítottak ki.",
+                  "category": "landmark",
+                  "coords": [
+                        65.697415,
+                        31.63812
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rahmat Jamia Masjid",
+                  "text": "O moschee principală a congregației, care reprezintă un punct de atracție arhitectural și spiritual în Kandahar.",
+                  "category": "landmark",
+                  "coords": [
+                        65.777712,
+                        31.601693
+                  ]
+            },
+            {
+                  "name": "Kandahar Eidgah Jama",
+                  "text": "Un spațiu mare de adunare în aer liber din Kandahar, conceput special pentru rugăciunile comunale de Eid.",
+                  "category": "landmark",
+                  "coords": [
+                        65.697415,
+                        31.63812
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rahmat Jamia Masjid",
+                  "text": "A major congregational mosque providing an architectural and spiritual focal point in Kandahar.",
+                  "category": "landmark",
+                  "coords": [
+                        65.777712,
+                        31.601693
+                  ]
+            },
+            {
+                  "name": "Kandahar Eidgah Jama",
+                  "text": "A large open-air gathering space in Kandahar specifically designed for communal Eid prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        65.697415,
+                        31.63812
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "AF-KAN",
     coords: [65.7158, 31.6289],
@@ -86,7 +320,124 @@ export const poiExtraAfghanistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "herat-cities-v2",
+    id: "herat-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Große Moschee von Herat",
+                  "text": "Die um 1200 errichtete Große Moschee von Herat ist ein riesiger islamischer Komplex, der für seine exquisiten geometrischen Mosaikfliesen bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        62.195589,
+                        34.343114
+                  ]
+            },
+            {
+                  "name": "Tomb of Ali Mowaffaq",
+                  "text": "Das Grabmal von Ali Mowaffaq ist ein historisches Mausoleum, das die Ruhestätte einer angesehenen lokalen Persönlichkeit in Herat bewahrt.",
+                  "category": "landmark",
+                  "coords": [
+                        62.2004,
+                        34.349108
+                  ]
+            },
+            {
+                  "name": "Masjid Jamia Park",
+                  "text": "Der Masjid Jamia Park bietet eine landschaftlich gestaltete Grünfläche, die als friedlicher Rückzugsort direkt neben Herats islamischer Hauptgemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        62.213183,
+                        34.346772
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Great Mosque of Herat",
+                  "text": "Az 1200-ra visszanyúló heráti Nagymecset egy hatalmas iszlám komplexum, amely lenyűgöző geometriai mozaikcsempéiről híres.",
+                  "category": "religious",
+                  "coords": [
+                        62.195589,
+                        34.343114
+                  ]
+            },
+            {
+                  "name": "Tomb of Ali Mowaffaq",
+                  "text": "Az Ali Mowaffaq-sír egy történelmi mauzóleum Herátban, amely egy tisztelt helyi személyiség nyughelyét őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        62.2004,
+                        34.349108
+                  ]
+            },
+            {
+                  "name": "Masjid Jamia Park",
+                  "text": "A Masjid Jamia Park egy parkosított zöldterület, amely békés menedéket nyújt közvetlenül Herát fő iszlám gyülekezeti helye mellett.",
+                  "category": "landmark",
+                  "coords": [
+                        62.213183,
+                        34.346772
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Great Mosque of Herat",
+                  "text": "Datând din anul 1200, Marea Moschee din Herat este un complex islamic masiv, renumit pentru plăcile sale mozaicate cu motive geometrice.",
+                  "category": "religious",
+                  "coords": [
+                        62.195589,
+                        34.343114
+                  ]
+            },
+            {
+                  "name": "Tomb of Ali Mowaffaq",
+                  "text": "Mormântul lui Ali Mowaffaq este un mausoleu istoric care păstrează locul de veci al unei personalități locale respectate din Herat.",
+                  "category": "landmark",
+                  "coords": [
+                        62.2004,
+                        34.349108
+                  ]
+            },
+            {
+                  "name": "Masjid Jamia Park",
+                  "text": "Parcul Masjid Jamia oferă un spațiu verde amenajat care asigură un refugiu liniștit chiar lângă principala congregație islamică din Herat.",
+                  "category": "landmark",
+                  "coords": [
+                        62.213183,
+                        34.346772
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Great Mosque of Herat",
+                  "text": "Dating back to 1200, the Great Mosque of Herat is a massive Islamic complex renowned for its exquisite geometric mosaic tiles.",
+                  "category": "religious",
+                  "coords": [
+                        62.195589,
+                        34.343114
+                  ]
+            },
+            {
+                  "name": "Tomb of Ali Mowaffaq",
+                  "text": "The Tomb of Ali Mowaffaq is a historic mausoleum structure preserving the resting place of a respected local figure in Herat.",
+                  "category": "landmark",
+                  "coords": [
+                        62.2004,
+                        34.349108
+                  ]
+            },
+            {
+                  "name": "Masjid Jamia Park",
+                  "text": "Masjid Jamia Park offers a landscaped green space providing a peaceful retreat directly adjacent to Herat's main Islamic congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        62.213183,
+                        34.346772
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "AF-HER",
     coords: [62.204, 34.3419],
@@ -127,7 +478,52 @@ export const poiExtraAfghanistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "mazar-i-sharif-cities-v2",
+    id: "mazar-i-sharif-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Blue Mosque",
+                  "text": "Die Blaue Moschee ist eine markante Attraktion aus dem 15. Jahrhundert in Mazar-i-Sharif, die für ihre kunstvollen azurblauen Kacheln berühmt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        67.110894,
+                        36.708966
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Blue Mosque",
+                  "text": "A Kék Mecset egy lenyűgöző 15. századi látványosság Mazar-i-Sharifban, amelyet bonyolult azúrkék csempézése tesz híressé.",
+                  "category": "landmark",
+                  "coords": [
+                        67.110894,
+                        36.708966
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Blue Mosque",
+                  "text": "Moscheea Albastră este o atracție impresionantă din secolul al XV-lea din Mazar-i-Sharif, celebră pentru complexitatea faianței sale de un albastru azuriu.",
+                  "category": "landmark",
+                  "coords": [
+                        67.110894,
+                        36.708966
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Blue Mosque",
+                  "text": "The Blue Mosque is a striking 15th-century attraction in Mazar-i-Sharif, celebrated for its intricate azure tilework.",
+                  "category": "landmark",
+                  "coords": [
+                        67.110894,
+                        36.708966
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "AF-BAL",
     coords: [67.1109, 36.709],
@@ -169,7 +565,124 @@ export const poiExtraAfghanistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "kunduz-cities-v2",
+    id: "kunduz-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chehel Dukhtaran A (BALL-194-1)",
+                  "text": "Diese spezifische archäologische Stätte in Kunduz enthält vergrabene Fundamentreste, die auf die antike Stadtstruktur der Region hinweisen.",
+                  "category": "historical",
+                  "coords": [
+                        68.858083,
+                        36.747698
+                  ]
+            },
+            {
+                  "name": "Chehel Dukhtaran B (BALL-194-2)",
+                  "text": "Als Teil eines größeren historischen Komplexes in Kunduz bewahrt diese archäologische Zone die strukturellen Echos früher Siedlungen.",
+                  "category": "historical",
+                  "coords": [
+                        68.835701,
+                        36.754761
+                  ]
+            },
+            {
+                  "name": "Gozar-e-Sayed Abad Mosque",
+                  "text": "Dieser lokale muslimische Andachtsraum in Kunduz bietet einen zentralen Sammelpunkt für tägliche Gebete und Besinnung der Gemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        68.876322,
+                        36.727227
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chehel Dukhtaran A (BALL-194-1)",
+                  "text": "Ez a konkrét kunduzi régészeti lelőhely eltemetett alapmaradványokat tartalmaz, amelyek a régió ősi városi elrendezésére utalnak.",
+                  "category": "historical",
+                  "coords": [
+                        68.858083,
+                        36.747698
+                  ]
+            },
+            {
+                  "name": "Chehel Dukhtaran B (BALL-194-2)",
+                  "text": "A nagyobb kunduzi történelmi komplexum részét képező régészeti övezet a korai települések szerkezeti visszhangjait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        68.835701,
+                        36.754761
+                  ]
+            },
+            {
+                  "name": "Gozar-e-Sayed Abad Mosque",
+                  "text": "Ez a helyi muszlim istentiszteleti hely Kunduzban központi találkozási pontot biztosít a mindennapi imákhoz és a közösségi elmélkedéshez.",
+                  "category": "landmark",
+                  "coords": [
+                        68.876322,
+                        36.727227
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chehel Dukhtaran A (BALL-194-1)",
+                  "text": "Acest sit arheologic specific din Kunduz conține rămășițe fundamentale îngropate care sugerează vechea structură urbană a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        68.858083,
+                        36.747698
+                  ]
+            },
+            {
+                  "name": "Chehel Dukhtaran B (BALL-194-2)",
+                  "text": "Parte a unui complex istoric mai mare din Kunduz, această zonă arheologică păstrează ecourile structurale ale așezărilor timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        68.835701,
+                        36.754761
+                  ]
+            },
+            {
+                  "name": "Gozar-e-Sayed Abad Mosque",
+                  "text": "Acest spațiu local de cult musulman din Kunduz oferă un punct central de adunare pentru rugăciunile zilnice și reflecția comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        68.876322,
+                        36.727227
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chehel Dukhtaran A (BALL-194-1)",
+                  "text": "This specific archaeological site in Kunduz contains buried foundational remnants hinting at the ancient urban layout of the region.",
+                  "category": "historical",
+                  "coords": [
+                        68.858083,
+                        36.747698
+                  ]
+            },
+            {
+                  "name": "Chehel Dukhtaran B (BALL-194-2)",
+                  "text": "Part of a larger historical complex in Kunduz, this archaeological zone preserves the structural echoes of early settlements.",
+                  "category": "historical",
+                  "coords": [
+                        68.835701,
+                        36.754761
+                  ]
+            },
+            {
+                  "name": "Gozar-e-Sayed Abad Mosque",
+                  "text": "This local Muslim worship space in Kunduz provides a central gathering point for daily prayers and community reflection.",
+                  "category": "landmark",
+                  "coords": [
+                        68.876322,
+                        36.727227
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "AF-KDZ",
     coords: [68.868, 36.729],
@@ -210,7 +723,340 @@ export const poiExtraAfghanistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "jalalabad-cities-v2",
+    id: "jalalabad-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qal`a Logari",
+                  "text": "Historische Festungsruinen, die sich in der Nähe des Stadtzentrums von Dschalalabad befinden.",
+                  "category": "historical",
+                  "coords": [
+                        70.445641,
+                        34.341194
+                  ]
+            },
+            {
+                  "name": "Hadda",
+                  "text": "Berühmte griechisch-buddhistische Ausgrabungsstätte, bekannt für ihre antiken Stupas und Gandhara-Kunst.",
+                  "category": "landmark",
+                  "coords": [
+                        70.468991,
+                        34.366056
+                  ]
+            },
+            {
+                  "name": "Said Jamal Uddin Afghan Mosque",
+                  "text": "Bedeutende Moschee in Dschalalabad, benannt nach dem berühmten islamischen Denker Jamal ad-Din al-Afghani.",
+                  "category": "landmark",
+                  "coords": [
+                        70.463112,
+                        34.412276
+                  ]
+            },
+            {
+                  "name": "Abobakar Masque",
+                  "text": "Eine lokale Gemeindemoschee, die den Gläubigen im Stadtgebiet von Dschalalabad dient.",
+                  "category": "landmark",
+                  "coords": [
+                        70.428074,
+                        34.35093
+                  ]
+            },
+            {
+                  "name": "Eid ga Mosque",
+                  "text": "Eine große Freiluftmoschee, die speziell für die festlichen Gebete zum Opferfest genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        70.466273,
+                        34.425915
+                  ]
+            },
+            {
+                  "name": "Abubaker Jama Jumat",
+                  "text": "Eine traditionelle Freitagsmoschee, die als zentraler Gebetsort für das umliegende Viertel dient.",
+                  "category": "landmark",
+                  "coords": [
+                        70.426953,
+                        34.349771
+                  ]
+            },
+            {
+                  "name": "JAA-Wheat Stock",
+                  "text": "Ein spezialisierter Großhandelsmarkt für die Lagerung und den Vertrieb von regionalem Weizen.",
+                  "category": "cultural",
+                  "coords": [
+                        70.449963,
+                        34.389225
+                  ]
+            },
+            {
+                  "name": "JAA-Vegetable Market",
+                  "text": "Ein belebter Basar, auf dem frisches Obst und Gemüse aus den Gärten der Provinz Nangarhar verkauft wird.",
+                  "category": "cultural",
+                  "coords": [
+                        70.46434,
+                        34.430796
+                  ]
+            },
+            {
+                  "name": "Jalalabad Exchange Market",
+                  "text": "Das wichtigste Finanzzentrum der Stadt für Geldwechsel und informelle Bankgeschäfte.",
+                  "category": "cultural",
+                  "coords": [
+                        70.457545,
+                        34.428882
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qal`a Logari",
+                  "text": "Történelmi erődromok Dzsalálábád városközpontjának közelében.",
+                  "category": "historical",
+                  "coords": [
+                        70.445641,
+                        34.341194
+                  ]
+            },
+            {
+                  "name": "Hadda",
+                  "text": "Híres gréko-buddhista régészeti lelőhely, amely ókori sztúpáiról és gandhárai művészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        70.468991,
+                        34.366056
+                  ]
+            },
+            {
+                  "name": "Said Jamal Uddin Afghan Mosque",
+                  "text": "Dzsalálábád jelentős mecsete, amely a híres iszlám gondolkodóról, Dzsamál ad-Dín al-Afghániról kapta nevét.",
+                  "category": "landmark",
+                  "coords": [
+                        70.463112,
+                        34.412276
+                  ]
+            },
+            {
+                  "name": "Abobakar Masque",
+                  "text": "Helyi közösségi mecset, amely Dzsalálábád városi területének hívőit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        70.428074,
+                        34.35093
+                  ]
+            },
+            {
+                  "name": "Eid ga Mosque",
+                  "text": "Nagyméretű szabadtéri mecset, amelyet kifejezetten az ünnepi Eid imádságokhoz használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        70.466273,
+                        34.425915
+                  ]
+            },
+            {
+                  "name": "Abubaker Jama Jumat",
+                  "text": "Hagyományos pénteki mecset, amely a környező negyed központi imahelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        70.426953,
+                        34.349771
+                  ]
+            },
+            {
+                  "name": "JAA-Wheat Stock",
+                  "text": "Speciális nagykereskedelmi piac a regionális búza tárolására és elosztására.",
+                  "category": "cultural",
+                  "coords": [
+                        70.449963,
+                        34.389225
+                  ]
+            },
+            {
+                  "name": "JAA-Vegetable Market",
+                  "text": "Nyüzsgő bazár, ahol Nangarhar tartomány kertjeiből származó friss zöldségeket és gyümölcsöket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        70.46434,
+                        34.430796
+                  ]
+            },
+            {
+                  "name": "Jalalabad Exchange Market",
+                  "text": "A város legfontosabb pénzügyi központja a valutaváltáshoz és az informális banki műveletekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        70.457545,
+                        34.428882
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qal`a Logari",
+                  "text": "Ruinele unei fortărețe istorice situate în apropierea centrului orașului Jalalabad.",
+                  "category": "historical",
+                  "coords": [
+                        70.445641,
+                        34.341194
+                  ]
+            },
+            {
+                  "name": "Hadda",
+                  "text": "Slavă sit arheologic greco-budist, cunoscut pentru stupele sale antice și arta Gandhara.",
+                  "category": "landmark",
+                  "coords": [
+                        70.468991,
+                        34.366056
+                  ]
+            },
+            {
+                  "name": "Said Jamal Uddin Afghan Mosque",
+                  "text": "O moschee proeminentă în Jalalabad, numită după faimosul gânditor islamic Jamal ad-Din al-Afghani.",
+                  "category": "landmark",
+                  "coords": [
+                        70.463112,
+                        34.412276
+                  ]
+            },
+            {
+                  "name": "Abobakar Masque",
+                  "text": "O moschee comunitară locală care servește credincioșii din zona urbană a orașului Jalalabad.",
+                  "category": "landmark",
+                  "coords": [
+                        70.428074,
+                        34.35093
+                  ]
+            },
+            {
+                  "name": "Eid ga Mosque",
+                  "text": "O moschee mare în aer liber, utilizată special pentru rugăciunile festive de Eid.",
+                  "category": "landmark",
+                  "coords": [
+                        70.466273,
+                        34.425915
+                  ]
+            },
+            {
+                  "name": "Abubaker Jama Jumat",
+                  "text": "O moschee tradițională de vineri, care servește ca loc central de rugăciune pentru cartierul din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        70.426953,
+                        34.349771
+                  ]
+            },
+            {
+                  "name": "JAA-Wheat Stock",
+                  "text": "O piață angro specializată pentru depozitarea și distribuția grâului regional.",
+                  "category": "cultural",
+                  "coords": [
+                        70.449963,
+                        34.389225
+                  ]
+            },
+            {
+                  "name": "JAA-Vegetable Market",
+                  "text": "Un bazar plin de viață care vinde fructe și legume proaspete din grădinile provinciei Nangarhar.",
+                  "category": "cultural",
+                  "coords": [
+                        70.46434,
+                        34.430796
+                  ]
+            },
+            {
+                  "name": "Jalalabad Exchange Market",
+                  "text": "Principalul centru financiar al orașului pentru schimb valutar și operațiuni bancare informale.",
+                  "category": "cultural",
+                  "coords": [
+                        70.457545,
+                        34.428882
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qal`a Logari",
+                  "text": "Historic fort remains located near the urban center of Jalalabad city.",
+                  "category": "historical",
+                  "coords": [
+                        70.445641,
+                        34.341194
+                  ]
+            },
+            {
+                  "name": "Hadda",
+                  "text": "Famous Greco-Buddhist archaeological site known for its ancient stupas and Gandhara art.",
+                  "category": "landmark",
+                  "coords": [
+                        70.468991,
+                        34.366056
+                  ]
+            },
+            {
+                  "name": "Said Jamal Uddin Afghan Mosque",
+                  "text": "Prominent mosque in Jalalabad named after the famous Islamic thinker Jamal ad-Din al-Afghani.",
+                  "category": "landmark",
+                  "coords": [
+                        70.463112,
+                        34.412276
+                  ]
+            },
+            {
+                  "name": "abu baker",
+                  "text": "A local community mosque serving the faithful in the Jalalabad urban area.",
+                  "category": "landmark",
+                  "coords": [
+                        70.428074,
+                        34.35093
+                  ]
+            },
+            {
+                  "name": "Eid ga Mosque",
+                  "text": "A large open-air mosque used specifically for the festive Eid prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        70.466273,
+                        34.425915
+                  ]
+            },
+            {
+                  "name": "Abubaker Jama Jumat",
+                  "text": "A traditional Friday mosque serving as a central place of worship for the surrounding neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        70.426953,
+                        34.349771
+                  ]
+            },
+            {
+                  "name": "JAA-Wheat Stock",
+                  "text": "A specialized wholesale market for the storage and distribution of regional wheat.",
+                  "category": "cultural",
+                  "coords": [
+                        70.449963,
+                        34.389225
+                  ]
+            },
+            {
+                  "name": "JAA-Vegetable Market",
+                  "text": "A bustling bazaar selling fresh produce from the orchards of Nangarhar province.",
+                  "category": "cultural",
+                  "coords": [
+                        70.46434,
+                        34.430796
+                  ]
+            },
+            {
+                  "name": "Jalalabad Exchange Market",
+                  "text": "The city's main financial hub for currency exchange and informal banking services.",
+                  "category": "cultural",
+                  "coords": [
+                        70.457545,
+                        34.428882
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "AF-NAN",
     coords: [70.4515, 34.4262],
@@ -251,7 +1097,124 @@ export const poiExtraAfghanistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "taloqan-cities-v2",
+    id: "taloqan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aboayoub Ansari Mosque",
+                  "text": "Eine muslimische Kultstätte in Taloqan, benannt nach Abu Ayyub al-Ansari, einem prominenten Gefährten des islamischen Propheten Mohammed.",
+                  "category": "landmark",
+                  "coords": [
+                        69.571493,
+                        36.732633
+                  ]
+            },
+            {
+                  "name": "Masjid Jami Dilger say",
+                  "text": "Eine Freitagsmoschee in Taloqan, die als wichtiges spirituelles Zentrum für große Gemeinschaftsgebete in der Stadt fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        69.605282,
+                        36.736002
+                  ]
+            },
+            {
+                  "name": "Central Grand Mosque of Taloqan",
+                  "text": "Die Hauptfreitagsmoschee von Taloqan, die als primäres religiöses und gesellschaftliches Zentrum für die muslimische Bevölkerung der Stadt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        69.536914,
+                        36.732022
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aboayoub Ansari Mosque",
+                  "text": "Muszlim istentiszteleti hely Taloqanban, amelyet Abu Ajjúb al-Anszáriról, az iszlám próféta, Mohamed egyik kiemelkedő társáról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        69.571493,
+                        36.732633
+                  ]
+            },
+            {
+                  "name": "Masjid Jami Dilger say",
+                  "text": "Egy Jami (pénteki) mecset Taloqanban, amely a város nagy gyülekezeti imáinak fontos spirituális központjaként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        69.605282,
+                        36.736002
+                  ]
+            },
+            {
+                  "name": "Central Grand Mosque of Taloqan",
+                  "text": "Taloqan fő gyülekezeti mecsete, amely a város muszlim lakosságának elsődleges vallási és közösségi központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        69.536914,
+                        36.732022
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aboayoub Ansari Mosque",
+                  "text": "Un lăcaș de cult musulman în Taloqan, numit după Abu Ayyub al-Ansari, un companion proeminent al profetului islamic Mahomed.",
+                  "category": "landmark",
+                  "coords": [
+                        69.571493,
+                        36.732633
+                  ]
+            },
+            {
+                  "name": "Masjid Jami Dilger say",
+                  "text": "O moschee Jami (de vineri) situată în Taloqan, funcționând ca un important centru spiritual pentru marile rugăciuni congregaționale din oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        69.605282,
+                        36.736002
+                  ]
+            },
+            {
+                  "name": "Central Grand Mosque of Taloqan",
+                  "text": "Principala moschee congregațională din Taloqan, acționând ca principalul centru religios și comunitar pentru populația musulmană a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        69.536914,
+                        36.732022
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aboayoub Ansari Mosque",
+                  "text": "A Muslim place of worship in Taloqan, named after Abu Ayyub al-Ansari, a prominent companion of the Islamic prophet Muhammad.",
+                  "category": "landmark",
+                  "coords": [
+                        69.571493,
+                        36.732633
+                  ]
+            },
+            {
+                  "name": "Masjid Jami Dilger say",
+                  "text": "A Jami (Friday) mosque located in Taloqan, functioning as an important spiritual hub for large congregational prayers in the city.",
+                  "category": "landmark",
+                  "coords": [
+                        69.605282,
+                        36.736002
+                  ]
+            },
+            {
+                  "name": "Central Grand Mosque of Taloqan",
+                  "text": "The main congregational mosque of Taloqan, acting as the primary religious and community center for the city's Muslim population.",
+                  "category": "landmark",
+                  "coords": [
+                        69.536914,
+                        36.732022
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "AF-TAK",
     coords: [69.5345, 36.736],
@@ -374,7 +1337,88 @@ export const poiExtraAfghanistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "lashkargah-cities-v2",
+    id: "lashkargah-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mokhattar Kala",
+                  "text": "Die Lehmziegelruinen einer alten Siedlung im Helmand-Flusstal.",
+                  "category": "historical",
+                  "coords": [
+                        64.466667,
+                        31.6
+                  ]
+            },
+            {
+                  "name": "Abu Bakr Sadiq Mosque",
+                  "text": "Eine moderne islamische Gebetsstätte für die Einwohner von Laschkargah.",
+                  "category": "landmark",
+                  "coords": [
+                        64.377872,
+                        31.590356
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mokhattar Kala",
+                  "text": "Egy ősi település vályogtégla romjai a Helmand-folyó völgyében.",
+                  "category": "historical",
+                  "coords": [
+                        64.466667,
+                        31.6
+                  ]
+            },
+            {
+                  "name": "Abu Bakr Sadiq Mosque",
+                  "text": "Modern iszlám istentiszteleti hely Laskargah lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        64.377872,
+                        31.590356
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mokhattar Kala",
+                  "text": "Ruinele din cărămidă de lut ale unei așezări antice situate în valea râului Helmand.",
+                  "category": "historical",
+                  "coords": [
+                        64.466667,
+                        31.6
+                  ]
+            },
+            {
+                  "name": "Abu Bakr Sadiq Mosque",
+                  "text": "Un lăcaș de cult islamic modern care deservește locuitorii din Lashkargah.",
+                  "category": "landmark",
+                  "coords": [
+                        64.377872,
+                        31.590356
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mokhattar Kala",
+                  "text": "The mud-brick ruins of an ancient settlement located in the Helmand River valley.",
+                  "category": "historical",
+                  "coords": [
+                        64.466667,
+                        31.6
+                  ]
+            },
+            {
+                  "name": "Abu Bakr Sadiq Mosque",
+                  "text": "A modern Islamic place of worship serving the local residents of Lashkargah.",
+                  "category": "landmark",
+                  "coords": [
+                        64.377872,
+                        31.590356
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "AF-HEL",
     coords: [64.3667, 31.583],
@@ -415,7 +1459,124 @@ export const poiExtraAfghanistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "sheberghan-cities-v2",
+    id: "sheberghan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Emshi-tepe",
+                  "text": "Emshi-tepe, auch bekannt als Yemshi Tepe, ist eine bemerkenswerte archäologische Stätte mit antiken Ruinen in der Nähe von Scheberghan.",
+                  "category": "historical",
+                  "coords": [
+                        65.787073,
+                        36.706685
+                  ]
+            },
+            {
+                  "name": "Tillya Tepe",
+                  "text": "Tillya Tepe ist eine berühmte archäologische Stätte in der Nähe von Scheberghan, an der ein spektakulärer Schatz aus antikem baktrischem Gold entdeckt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        65.789707,
+                        36.694598
+                  ]
+            },
+            {
+                  "name": "Grand Mosque",
+                  "text": "Die Große Moschee ist das zentrale muslimische Gotteshaus für die örtliche Gemeinde in Scheberghan.",
+                  "category": "landmark",
+                  "coords": [
+                        65.751628,
+                        36.663717
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Emshi-tepe",
+                  "text": "Az Emshi-tepe, más néven Yemshi Tepe, egy figyelemre méltó régészeti lelőhely, amely ősi romokat rejt Sheberghan közelében.",
+                  "category": "historical",
+                  "coords": [
+                        65.787073,
+                        36.706685
+                  ]
+            },
+            {
+                  "name": "Tillya Tepe",
+                  "text": "A Tillya Tepe egy híres régészeti lelőhely Sheberghan közelében, ahol egy látványos ókori baktriai aranykincset fedeztek fel.",
+                  "category": "historical",
+                  "coords": [
+                        65.789707,
+                        36.694598
+                  ]
+            },
+            {
+                  "name": "Grand Mosque",
+                  "text": "A Nagy Mecset a helyi közösséget szolgáló központi muszlim istentiszteleti hely Sheberghanban.",
+                  "category": "landmark",
+                  "coords": [
+                        65.751628,
+                        36.663717
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Emshi-tepe",
+                  "text": "Emshi-tepe, cunoscut și sub numele de Yemshi Tepe, este un sit arheologic notabil cu ruine antice în apropiere de Sheberghan.",
+                  "category": "historical",
+                  "coords": [
+                        65.787073,
+                        36.706685
+                  ]
+            },
+            {
+                  "name": "Tillya Tepe",
+                  "text": "Tillya Tepe este un renumit sit arheologic lângă Sheberghan, unde a fost descoperită o comoară spectaculoasă de aur bactrian antic.",
+                  "category": "historical",
+                  "coords": [
+                        65.789707,
+                        36.694598
+                  ]
+            },
+            {
+                  "name": "Grand Mosque",
+                  "text": "Marea Moschee este lăcașul central de cult musulman care deservește comunitatea locală din Sheberghan.",
+                  "category": "landmark",
+                  "coords": [
+                        65.751628,
+                        36.663717
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Emshi-tepe",
+                  "text": "Emshi-tepe, also known as Yemshi Tepe, is a notable archaeological site featuring ancient ruins near Sheberghan.",
+                  "category": "historical",
+                  "coords": [
+                        65.787073,
+                        36.706685
+                  ]
+            },
+            {
+                  "name": "Tillya Tepe",
+                  "text": "Tillya Tepe is a renowned archaeological site near Sheberghan where a spectacular hoard of ancient Bactrian gold was discovered.",
+                  "category": "historical",
+                  "coords": [
+                        65.789707,
+                        36.694598
+                  ]
+            },
+            {
+                  "name": "Grand Mosque",
+                  "text": "The Grand Mosque is the central Muslim place of worship serving the local community in Sheberghan.",
+                  "category": "landmark",
+                  "coords": [
+                        65.751628,
+                        36.663717
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "AF-JOW",
     coords: [65.7365, 36.6676],
@@ -456,7 +1617,88 @@ export const poiExtraAfghanistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "ghazni-cities-v2",
+    id: "ghazni-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Citadel of Ghazni",
+                  "text": "Diese massive mittelalterliche Festungsanlage zeugt von der einstigen militärischen Bedeutung und Macht der historischen Stadt Ghazni.",
+                  "category": "castle",
+                  "coords": [
+                        68.423479,
+                        33.556397
+                  ]
+            },
+            {
+                  "name": "Tepe Sardar",
+                  "text": "Diese bedeutende Ausgrabungsstätte in der Nähe von Ghazni offenbart die faszinierenden Ruinen eines alten buddhistischen Klosters und einer Stupa.",
+                  "category": "landmark",
+                  "coords": [
+                        68.456539,
+                        33.558437
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Citadel of Ghazni",
+                  "text": "Ez a hatalmas középkori erődítmény a történelmi Ghazni város egykori kiemelkedő katonai jelentőségét és hatalmát hirdeti.",
+                  "category": "castle",
+                  "coords": [
+                        68.423479,
+                        33.556397
+                  ]
+            },
+            {
+                  "name": "Tepe Sardar",
+                  "text": "Ez a Ghazni közelében fekvő jelentős lelőhely egy ősi buddhista kolostor és egy sztúpa lenyűgöző romjait tárja a látogatók elé.",
+                  "category": "landmark",
+                  "coords": [
+                        68.456539,
+                        33.558437
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Citadel of Ghazni",
+                  "text": "Această fortăreață medievală masivă stă mărturie pentru fosta importanță militară și putere a orașului istoric Ghazni.",
+                  "category": "castle",
+                  "coords": [
+                        68.423479,
+                        33.556397
+                  ]
+            },
+            {
+                  "name": "Tepe Sardar",
+                  "text": "Acest important sit arheologic de lângă Ghazni dezvăluie ruinele fascinante ale unei vechi mănăstiri budiste și ale unei stupe.",
+                  "category": "landmark",
+                  "coords": [
+                        68.456539,
+                        33.558437
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Citadel of Ghazni",
+                  "text": "This massive medieval fortress stands as a testament to the former military importance and defensive power of the historic city of Ghazni.",
+                  "category": "castle",
+                  "coords": [
+                        68.423479,
+                        33.556397
+                  ]
+            },
+            {
+                  "name": "Tepe Sardar",
+                  "text": "This significant archaeological site near Ghazni reveals the fascinating, excavated ruins of an ancient Buddhist monastery and stupa complex.",
+                  "category": "landmark",
+                  "coords": [
+                        68.456539,
+                        33.558437
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "AF-GHA",
     coords: [68.4234, 33.5539],
@@ -497,7 +1739,52 @@ export const poiExtraAfghanistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "khost-cities-v2",
+    id: "khost-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khost Great Mosque",
+                  "text": "Diese geräumige islamische Große Moschee ist für ihre eindrucksvolle Architektur bekannt und dient als der zentrale Versammlungsort in Khost.",
+                  "category": "religious",
+                  "coords": [
+                        69.916904,
+                        33.339256
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khost Great Mosque",
+                  "text": "Ez a tágas iszlám Nagymecset lenyűgöző építészetéről ismert, és Khost városának központi vallási gyülekezési helye.",
+                  "category": "religious",
+                  "coords": [
+                        69.916904,
+                        33.339256
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khost Great Mosque",
+                  "text": "Această Mare Moschee islamică spațioasă este recunoscută pentru arhitectura sa impresionantă și servește drept principal loc de adunare în Khost.",
+                  "category": "religious",
+                  "coords": [
+                        69.916904,
+                        33.339256
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khost Great Mosque",
+                  "text": "Known for its impressive architecture and large capacity, this Great Mosque serves as the central Islamic gathering place in Khost.",
+                  "category": "religious",
+                  "coords": [
+                        69.916904,
+                        33.339256
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "AF-KHO",
     coords: [69.9278, 33.3395],
@@ -579,7 +1866,52 @@ export const poiExtraAfghanistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "chaghcharan-cities-v2",
+    id: "chaghcharan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pozalich Masjid Jame (Mosque)",
+                  "text": "Eine zentrale Versammlungsmoschee, die den Muslimen von Chaghcharan als Haupttreffpunkt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        65.297225,
+                        34.524457
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pozalich Masjid Jame (Mosque)",
+                  "text": "Központi gyülekezeti mecset, amely Chaghcharan muszlimjainak elsődleges gyülekezőhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        65.297225,
+                        34.524457
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pozalich Masjid Jame (Mosque)",
+                  "text": "O moschee de congregație centrală care oferă un loc principal de adunare pentru musulmanii din Chaghcharan.",
+                  "category": "landmark",
+                  "coords": [
+                        65.297225,
+                        34.524457
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pozalich Masjid Jame (Mosque)",
+                  "text": "A central congregational mosque providing a primary gathering place for the Muslims of Chaghcharan.",
+                  "category": "landmark",
+                  "coords": [
+                        65.297225,
+                        34.524457
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "AF-GHO",
     coords: [65.2513, 34.5204],
@@ -703,7 +2035,124 @@ export const poiExtraAfghanistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "puli-alam-cities-v2",
+    id: "puli-alam-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Karayz-e Wazir",
+                  "text": "Zerfallende Überreste einer historischen Siedlung in der Nähe der Stadt Puli Alam.",
+                  "category": "historical",
+                  "coords": [
+                        69.086944,
+                        34.001903
+                  ]
+            },
+            {
+                  "name": "Khalilabad",
+                  "text": "Die verlassenen Ruinen eines befestigten historischen Dorfes in der Provinz Logar.",
+                  "category": "historical",
+                  "coords": [
+                        69.080656,
+                        34.044983
+                  ]
+            },
+            {
+                  "name": "Pa'inqal`a-i-Wazir",
+                  "text": "Eine historische untere Festungsanlage im Wazir-Gebiet der Provinz Logar.",
+                  "category": "landmark",
+                  "coords": [
+                        69.074122,
+                        34.012106
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Karayz-e Wazir",
+                  "text": "Egy történelmi település pusztuló maradványai Puli Alam városa közelében.",
+                  "category": "historical",
+                  "coords": [
+                        69.086944,
+                        34.001903
+                  ]
+            },
+            {
+                  "name": "Khalilabad",
+                  "text": "Egy megerődített történelmi falu elhagyatott romjai Logar tartományban.",
+                  "category": "historical",
+                  "coords": [
+                        69.080656,
+                        34.044983
+                  ]
+            },
+            {
+                  "name": "Pa'inqal`a-i-Wazir",
+                  "text": "Történelmi alsó erődhelyszín Logar tartomány Wazir területén.",
+                  "category": "landmark",
+                  "coords": [
+                        69.074122,
+                        34.012106
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Karayz-e Wazir",
+                  "text": "Rămășițele dărâmate ale unei așezări istorice situate lângă orașul Puli Alam.",
+                  "category": "historical",
+                  "coords": [
+                        69.086944,
+                        34.001903
+                  ]
+            },
+            {
+                  "name": "Khalilabad",
+                  "text": "Ruinele părăsite ale unui sat istoric fortificat din provincia Logar.",
+                  "category": "historical",
+                  "coords": [
+                        69.080656,
+                        34.044983
+                  ]
+            },
+            {
+                  "name": "Pa'inqal`a-i-Wazir",
+                  "text": "Un sit istoric al unei cetăți de jos în zona Wazir din provincia Logar.",
+                  "category": "landmark",
+                  "coords": [
+                        69.074122,
+                        34.012106
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Karayz-e Wazir",
+                  "text": "Crumbling remains of a historical settlement located near the town of Puli Alam.",
+                  "category": "historical",
+                  "coords": [
+                        69.086944,
+                        34.001903
+                  ]
+            },
+            {
+                  "name": "Khalilabad",
+                  "text": "The deserted ruins of a fortified historical village in Logar Province.",
+                  "category": "historical",
+                  "coords": [
+                        69.080656,
+                        34.044983
+                  ]
+            },
+            {
+                  "name": "Pa'inqal`a-i-Wazir",
+                  "text": "A historical lower fortress site in the Wazir area of Logar Province.",
+                  "category": "landmark",
+                  "coords": [
+                        69.074122,
+                        34.012106
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "AF-LOG",
     coords: [69.0227, 33.9953],
@@ -744,7 +2193,124 @@ export const poiExtraAfghanistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "aybak-cities-v2",
+    id: "aybak-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mosque",
+                  "text": "Eine alltägliche islamische Kultstätte, die der lokalen Gemeinde in Aybak dient.",
+                  "category": "landmark",
+                  "coords": [
+                        68.023682,
+                        36.275171
+                  ]
+            },
+            {
+                  "name": "Karta-e Sulh Mosque",
+                  "text": "Eine Gemeindemoschee im Viertel Karta-e Sulh in Aybak.",
+                  "category": "landmark",
+                  "coords": [
+                        68.022798,
+                        36.271523
+                  ]
+            },
+            {
+                  "name": "Ahmad Khan therm",
+                  "text": "Ein belebtes lokales Marktgebiet in Aybak, das als kommerzielles Zentrum dient.",
+                  "category": "cultural",
+                  "coords": [
+                        68.023886,
+                        36.268432
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mosque",
+                  "text": "Egy mindennapi iszlám istentiszteleti hely, amely a helyi közösséget szolgálja Aybakban.",
+                  "category": "landmark",
+                  "coords": [
+                        68.023682,
+                        36.275171
+                  ]
+            },
+            {
+                  "name": "Karta-e Sulh Mosque",
+                  "text": "Egy közösségi mecset az aybaki Karta-e Sulh negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        68.022798,
+                        36.271523
+                  ]
+            },
+            {
+                  "name": "Ahmad Khan therm",
+                  "text": "Egy nyüzsgő helyi piactér Aybakban, amely kereskedelmi központként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        68.023886,
+                        36.268432
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mosque",
+                  "text": "Un lăcaș de cult islamic de zi cu zi care servește comunitatea locală din Aybak.",
+                  "category": "landmark",
+                  "coords": [
+                        68.023682,
+                        36.275171
+                  ]
+            },
+            {
+                  "name": "Karta-e Sulh Mosque",
+                  "text": "O moschee comunitară situată în cartierul Karta-e Sulh din Aybak.",
+                  "category": "landmark",
+                  "coords": [
+                        68.022798,
+                        36.271523
+                  ]
+            },
+            {
+                  "name": "Ahmad Khan therm",
+                  "text": "O zonă de piață locală animată în Aybak, care servește drept centru comercial.",
+                  "category": "cultural",
+                  "coords": [
+                        68.023886,
+                        36.268432
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mosque",
+                  "text": "An everyday Islamic place of worship serving the local community in Aybak.",
+                  "category": "landmark",
+                  "coords": [
+                        68.023682,
+                        36.275171
+                  ]
+            },
+            {
+                  "name": "Karta-e Sulh Mosque",
+                  "text": "A community mosque located in the Karta-e Sulh neighborhood of Aybak.",
+                  "category": "landmark",
+                  "coords": [
+                        68.022798,
+                        36.271523
+                  ]
+            },
+            {
+                  "name": "Ahmad Khan therm",
+                  "text": "A lively local marketplace area in Aybak serving as a commercial hub.",
+                  "category": "cultural",
+                  "coords": [
+                        68.023886,
+                        36.268432
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "AF-SAM",
     coords: [68.0155, 36.2647],
@@ -785,7 +2351,160 @@ export const poiExtraAfghanistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "asadabad-cities-v2",
+    id: "asadabad-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kac Bari Sar",
+                  "text": "Ein Berggipfel in der Provinz Kunar bei Asadabad, der Teil der zerklüfteten Ausläufer des Hindukusch ist.",
+                  "category": "natural",
+                  "coords": [
+                        71.157524,
+                        34.948746
+                  ]
+            },
+            {
+                  "name": "Lahor Sar",
+                  "text": "Ein markanter Gipfel bei Asadabad, der steil über dem Kunar-Flusstal im Osten Afghanistans aufragt.",
+                  "category": "natural",
+                  "coords": [
+                        71.191036,
+                        34.846821
+                  ]
+            },
+            {
+                  "name": "Nasawa Sar",
+                  "text": "Ein karger Berggipfel in der Region Asadabad, typisch für das Hochlandgelände der Provinz Kunar.",
+                  "category": "natural",
+                  "coords": [
+                        71.208205,
+                        34.806232
+                  ]
+            },
+            {
+                  "name": "Nakhas Sar",
+                  "text": "Ein Gipfel im Hindukusch bei Asadabad, der einen strategischen Blick über das Pech-Flusstal bietet.",
+                  "category": "natural",
+                  "coords": [
+                        71.075584,
+                        34.874756
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kac Bari Sar",
+                  "text": "Hegycsúcs Kunar tartományban, Asadabad közelében, amely a Hindu Kush rögös nyúlványainak része.",
+                  "category": "natural",
+                  "coords": [
+                        71.157524,
+                        34.948746
+                  ]
+            },
+            {
+                  "name": "Lahor Sar",
+                  "text": "Jellegzetes csúcs Asadabad közelében, amely meredeken emelkedik a Kunar-folyó völgye fölé Kelet-Afganisztánban.",
+                  "category": "natural",
+                  "coords": [
+                        71.191036,
+                        34.846821
+                  ]
+            },
+            {
+                  "name": "Nasawa Sar",
+                  "text": "Sivatagos hegycsúcs Asadabad régiójában, amely Kunar tartomány magashegyi terepére jellemző.",
+                  "category": "natural",
+                  "coords": [
+                        71.208205,
+                        34.806232
+                  ]
+            },
+            {
+                  "name": "Nakhas Sar",
+                  "text": "A Hindu Kush egyik csúcsa Asadabad közelében, amely stratégiai kilátópontot kínál a Pech-folyó völgye felett.",
+                  "category": "natural",
+                  "coords": [
+                        71.075584,
+                        34.874756
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kac Bari Sar",
+                  "text": "Un vârf montan din provincia Kunar, lângă Asadabad, făcând parte din contraforturile accidentate ale munților Hindu Kush.",
+                  "category": "natural",
+                  "coords": [
+                        71.157524,
+                        34.948746
+                  ]
+            },
+            {
+                  "name": "Lahor Sar",
+                  "text": "Un vârf proeminent de lângă Asadabad, care se înalță abrupt deasupra văii râului Kunar din estul Afganistanului.",
+                  "category": "natural",
+                  "coords": [
+                        71.191036,
+                        34.846821
+                  ]
+            },
+            {
+                  "name": "Nasawa Sar",
+                  "text": "Un vârf montan arid din regiunea Asadabad, tipic pentru terenul de mare altitudine din provincia Kunar.",
+                  "category": "natural",
+                  "coords": [
+                        71.208205,
+                        34.806232
+                  ]
+            },
+            {
+                  "name": "Nakhas Sar",
+                  "text": "Un vârf din lanțul Hindu Kush, lângă Asadabad, oferind un punct de observație strategic asupra văii râului Pech.",
+                  "category": "natural",
+                  "coords": [
+                        71.075584,
+                        34.874756
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kac Bari Sar",
+                  "text": "A mountain peak in the Kunar province near Asadabad, forming part of the rugged Hindu Kush foothills.",
+                  "category": "natural",
+                  "coords": [
+                        71.157524,
+                        34.948746
+                  ]
+            },
+            {
+                  "name": "Lahor Sar",
+                  "text": "A prominent summit near Asadabad, rising steeply above the Kunar River valley in eastern Afghanistan.",
+                  "category": "natural",
+                  "coords": [
+                        71.191036,
+                        34.846821
+                  ]
+            },
+            {
+                  "name": "Nasawa Sar",
+                  "text": "An arid mountain peak in the Asadabad region, typical of the high-altitude terrain in the Kunar province.",
+                  "category": "natural",
+                  "coords": [
+                        71.208205,
+                        34.806232
+                  ]
+            },
+            {
+                  "name": "Nakhas Sar",
+                  "text": "A peak in the Hindu Kush range near Asadabad, offering a strategic vantage point over the Pech River valley.",
+                  "category": "natural",
+                  "coords": [
+                        71.075584,
+                        34.874756
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "AF-KNR",
     coords: [71.1468, 34.8731],
@@ -826,7 +2545,52 @@ export const poiExtraAfghanistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "faizabad-cities-v2",
+    id: "faizabad-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Market",
+                  "text": "Ein lokaler Handelsmarktplatz, der regionale Produkte in Faizabad anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        70.561671,
+                        37.10851
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Market",
+                  "text": "Egy helyi kereskedelmi piac, amely regionális termékeket biztosít Faizabadban.",
+                  "category": "cultural",
+                  "coords": [
+                        70.561671,
+                        37.10851
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Market",
+                  "text": "O piață comercială locală care furnizează produse regionale în Faizabad.",
+                  "category": "cultural",
+                  "coords": [
+                        70.561671,
+                        37.10851
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Market",
+                  "text": "A local trading marketplace providing regional produce in Faizabad.",
+                  "category": "cultural",
+                  "coords": [
+                        70.561671,
+                        37.10851
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "AF-BDS",
     coords: [70.58, 37.1166],
@@ -908,7 +2672,52 @@ export const poiExtraAfghanistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "mahmud-e-raqi-cities-v2",
+    id: "mahmud-e-raqi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Alexandria pròs Kaukásōi",
+                  "text": "Ruinen einer hellenistischen Stadt, die von Alexander dem Großen am Fuße des Hindukusch gegründet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        69.310516,
+                        34.992572
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alexandria pròs Kaukásōi",
+                  "text": "Nagy Sándor által a Hindukus lábánál alapított hellenisztikus város romjai.",
+                  "category": "historical",
+                  "coords": [
+                        69.310516,
+                        34.992572
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alexandria pròs Kaukásōi",
+                  "text": "Ruinele unui oraș elenistic fondat de Alexandru cel Mare la poalele munților Hindu Kush.",
+                  "category": "historical",
+                  "coords": [
+                        69.310516,
+                        34.992572
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alexandria pròs Kaukásōi",
+                  "text": "Ruins of a Hellenistic city founded by Alexander the Great at the foot of the Hindu Kush.",
+                  "category": "historical",
+                  "coords": [
+                        69.310516,
+                        34.992572
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "AF-KAP",
     coords: [69.3248, 35.0163],
@@ -949,7 +2758,88 @@ export const poiExtraAfghanistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "zaranj-cities-v2",
+    id: "zaranj-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qala-e Keiy, NadAli",
+                  "text": "Qala-e Keiy ist ein befestigter Lehmziegel-Burgkomplex, der sich über den trockenen Ebenen rund um Nad Ali erhebt.",
+                  "category": "castle",
+                  "coords": [
+                        61.849347,
+                        31.006394
+                  ]
+            },
+            {
+                  "name": "Zaranj",
+                  "text": "Die archäologischen Überreste des alten Zaranj offenbaren die Fundamente eines historisch bedeutsamen Handelszentrums nahe der modernen iranischen Grenze.",
+                  "category": "historical",
+                  "coords": [
+                        61.848744,
+                        30.999926
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qala-e Keiy, NadAli",
+                  "text": "A Qala-e Keiy egy erődített vályogtégla várkomplexum, amely a Nad Ali körüli kietlen síkság fölé magasodik.",
+                  "category": "castle",
+                  "coords": [
+                        61.849347,
+                        31.006394
+                  ]
+            },
+            {
+                  "name": "Zaranj",
+                  "text": "A régi Zaranj régészeti maradványai egy történelmileg jelentős kereskedelmi központ alapjait tárják fel a mai iráni határ közelében.",
+                  "category": "historical",
+                  "coords": [
+                        61.848744,
+                        30.999926
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qala-e Keiy, NadAli",
+                  "text": "Qala-e Keiy este un complex de castele fortificate din cărămidă de lut, care se înalță deasupra câmpiilor aride din jurul orașului Nad Ali.",
+                  "category": "castle",
+                  "coords": [
+                        61.849347,
+                        31.006394
+                  ]
+            },
+            {
+                  "name": "Zaranj",
+                  "text": "Vestigiile arheologice ale vechiului Zaranj dezvăluie fundațiile unui centru comercial cu o importanță istorică deosebită, situat în apropierea graniței moderne cu Iranul.",
+                  "category": "historical",
+                  "coords": [
+                        61.848744,
+                        30.999926
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qala-e Keiy, NadAli",
+                  "text": "Qala-e Keiy is a fortified mud-brick castle complex rising above the arid plains surrounding Nad Ali.",
+                  "category": "castle",
+                  "coords": [
+                        61.849347,
+                        31.006394
+                  ]
+            },
+            {
+                  "name": "Zaranj",
+                  "text": "The archaeological remnants of old Zaranj reveal the foundations of a historically significant trading hub near the modern Iranian border.",
+                  "category": "historical",
+                  "coords": [
+                        61.848744,
+                        30.999926
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "AF-NIM",
     coords: [61.8604, 30.96],
@@ -1072,7 +2962,52 @@ export const poiExtraAfghanistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "gardez-cities-v2",
+    id: "gardez-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gardez Bala Hesar",
+                  "text": "Diese alte Zitadelle, die auf einem massiven Erdhügel errichtet wurde, beherrscht seit Jahrhunderten das historische Stadtbild von Gardez.",
+                  "category": "landmark",
+                  "coords": [
+                        69.231662,
+                        33.597692
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gardez Bala Hesar",
+                  "text": "Ez a hatalmas földhalomra épült ősi fellegvár évszázadok óta uralja Gardez történelmi városképét.",
+                  "category": "landmark",
+                  "coords": [
+                        69.231662,
+                        33.597692
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gardez Bala Hesar",
+                  "text": "Această veche citadelă, construită deasupra unei masive movile de pământ, domină peisajul istoric al orașului Gardez de secole.",
+                  "category": "landmark",
+                  "coords": [
+                        69.231662,
+                        33.597692
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gardez Bala Hesar",
+                  "text": "Built atop a massive earthen mound, this ancient citadel has dominated the historic skyline of Gardez for centuries.",
+                  "category": "landmark",
+                  "coords": [
+                        69.231662,
+                        33.597692
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "AF-PKA",
     coords: [69.2259, 33.5974],
@@ -1113,7 +3048,52 @@ export const poiExtraAfghanistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "maidan-shar-cities-v2",
+    id: "maidan-shar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Apple Roundabout",
+                  "text": "Ein Wahrzeichen mit einer großen Apfelskulptur, das die lokale Obstproduktion der Region feiert.",
+                  "category": "historical",
+                  "coords": [
+                        68.869723,
+                        34.397294
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Apple Roundabout",
+                  "text": "Egy nagy almaszoborral díszített csomópont, amely a régió gyümölcstermesztését hirdeti.",
+                  "category": "historical",
+                  "coords": [
+                        68.869723,
+                        34.397294
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Apple Roundabout",
+                  "text": "Un punct de reper cu o sculptură mare în formă de măr, care celebrează producția locală de fructe a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        68.869723,
+                        34.397294
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Apple Roundabout",
+                  "text": "A landmark featuring a large apple sculpture, celebrating the region's local fruit production.",
+                  "category": "historical",
+                  "coords": [
+                        68.869723,
+                        34.397294
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "AF-WAR",
     coords: [68.8667, 34.3956],
@@ -1154,7 +3134,52 @@ export const poiExtraAfghanistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "qalat-cities-v2",
+    id: "qalat-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cokhay",
+                  "text": "Antike Ruinen auf einem Hügel mit Blick auf die Hauptstraße durch die Provinz Sabul.",
+                  "category": "historical",
+                  "coords": [
+                        66.839555,
+                        32.110574
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cokhay",
+                  "text": "Ókori dombtetői romok, amelyek a Zabul tartományon áthaladó főútra néznek.",
+                  "category": "historical",
+                  "coords": [
+                        66.839555,
+                        32.110574
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cokhay",
+                  "text": "Ruine antice pe un deal, cu vedere spre drumul principal prin provincia Zabul.",
+                  "category": "historical",
+                  "coords": [
+                        66.839555,
+                        32.110574
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cokhay",
+                  "text": "Ancient hilltop ruins overlooking the main road through Zabul Province.",
+                  "category": "historical",
+                  "coords": [
+                        66.839555,
+                        32.110574
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "AF-ZAB",
     coords: [66.8986, 32.1058],
@@ -1195,7 +3220,52 @@ export const poiExtraAfghanistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "bamyan-cities-v2",
+    id: "bamyan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Remains Bamyan Valley",
+                  "text": "Eine UNESCO-Welterbestätte, die für die Nischen der zerstörten riesigen Buddhas bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        67.811658,
+                        34.82966
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Remains Bamyan Valley",
+                  "text": "UNESCO Világörökségi helyszín, amely az elpusztított óriás Buddhák fülkéiről híres.",
+                  "category": "historical",
+                  "coords": [
+                        67.811658,
+                        34.82966
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Remains Bamyan Valley",
+                  "text": "Un sit din patrimoniul mondial UNESCO, faimos pentru nișele uriașilor Buddha distruși.",
+                  "category": "historical",
+                  "coords": [
+                        67.811658,
+                        34.82966
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Remains Bamyan Valley",
+                  "text": "A UNESCO World Heritage site famous for the niches of the destroyed giant Buddhas.",
+                  "category": "historical",
+                  "coords": [
+                        67.811658,
+                        34.82966
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "AF-BAM",
     coords: [67.8213, 34.8217],

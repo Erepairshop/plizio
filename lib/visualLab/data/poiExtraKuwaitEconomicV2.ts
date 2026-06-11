@@ -68,7 +68,124 @@ export const poiExtraKuwaitEconomicV2: POI[] = [
     "Strategische Lage am Persischen Golf."
 ]},
   {
-    id: "mina-abdullah-refinery-economic-v2",
+    id: "mina-abdullah-refinery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abdullah Hussain Al Mabkot",
+                  "text": "Abdullah Hussain Al Mabkot dient als eigens errichtete islamische Moschee in der Nähe der Mina-Abdullah-Raffinerie.",
+                  "category": "landmark",
+                  "coords": [
+                        48.136484,
+                        29.001845
+                  ]
+            },
+            {
+                  "name": "Ahmad Abdullah Al Ajeel",
+                  "text": "Ahmad Abdullah Al Ajeel ist eine islamische Gebetsstätte in der Nähe des Industriekomplexes der Mina Abdullah Raffinerie.",
+                  "category": "landmark",
+                  "coords": [
+                        48.131236,
+                        28.982928
+                  ]
+            },
+            {
+                  "name": "Al Ashij Al Munther",
+                  "text": "Die Al Ashij Al Munther ist ein muslimisches Gotteshaus im Viertel der Mina Abdullah Raffinerie.",
+                  "category": "landmark",
+                  "coords": [
+                        48.166304,
+                        28.986466
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abdullah Hussain Al Mabkot",
+                  "text": "Az Abdullah Hussain Al Mabkot egy dedikált iszlám mecsetként működik a Mina Abdullah finomító közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.136484,
+                        29.001845
+                  ]
+            },
+            {
+                  "name": "Ahmad Abdullah Al Ajeel",
+                  "text": "Az Ahmad Abdullah Al Ajeel egy iszlám imádkozóhely a Mina Abdullah ipari finomító komplexum közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.131236,
+                        28.982928
+                  ]
+            },
+            {
+                  "name": "Al Ashij Al Munther",
+                  "text": "Az Al Ashij Al Munther egy muszlim istentiszteleti hely a Mina Abdullah finomító negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.166304,
+                        28.986466
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abdullah Hussain Al Mabkot",
+                  "text": "Abdullah Hussain Al Mabkot servește ca o moschee islamică dedicată în apropierea rafinăriei Mina Abdullah.",
+                  "category": "landmark",
+                  "coords": [
+                        48.136484,
+                        29.001845
+                  ]
+            },
+            {
+                  "name": "Ahmad Abdullah Al Ajeel",
+                  "text": "Ahmad Abdullah Al Ajeel este un loc de rugăciune islamic situat în apropierea complexului industrial al rafinăriei Mina Abdullah.",
+                  "category": "landmark",
+                  "coords": [
+                        48.131236,
+                        28.982928
+                  ]
+            },
+            {
+                  "name": "Al Ashij Al Munther",
+                  "text": "Al Ashij Al Munther este un lăcaș de cult musulman situat în cartierul rafinăriei Mina Abdullah.",
+                  "category": "landmark",
+                  "coords": [
+                        48.166304,
+                        28.986466
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abdullah Hussain Al Mabkot",
+                  "text": "Abdullah Hussain Al Mabkot serves as a dedicated Islamic mosque near the Mina Abdullah Refinery.",
+                  "category": "landmark",
+                  "coords": [
+                        48.136484,
+                        29.001845
+                  ]
+            },
+            {
+                  "name": "Ahmad Abdullah Al Ajeel",
+                  "text": "Ahmad Abdullah Al Ajeel is an Islamic prayer site providing a place of worship near the Mina Abdullah industrial refinery complex.",
+                  "category": "landmark",
+                  "coords": [
+                        48.131236,
+                        28.982928
+                  ]
+            },
+            {
+                  "name": "Al Ashij Al Munther",
+                  "text": "The Al Ashij Al Munther is a Muslim place of worship situated within the Mina Abdullah refinery district.",
+                  "category": "landmark",
+                  "coords": [
+                        48.166304,
+                        28.986466
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "KW-AH",
     coords: [48.1633, 29.0278],
@@ -133,7 +250,88 @@ export const poiExtraKuwaitEconomicV2: POI[] = [
     "Trägt zur Erfüllung von Euro-5-Normen bei."
 ]},
   {
-    id: "shuaiba-port-economic-v2",
+    id: "shuaiba-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Osama Sultan Ahmed Sultan Al-Khalaf",
+                  "text": "Eine islamische Kultstätte, die in der Nähe der Küstenschifffahrtsanlagen von Shuaiba Port errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        48.093025,
+                        29.005119
+                  ]
+            },
+            {
+                  "name": "Shikah Ltefa Khaled Mallek Al Sabah",
+                  "text": "Eine Moschee, die den im Hafen von Shuaiba tätigen See- und Industriearbeitern dient.",
+                  "category": "landmark",
+                  "coords": [
+                        48.096798,
+                        29.006058
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Osama Sultan Ahmed Sultan Al-Khalaf",
+                  "text": "Iszlám istentiszteleti hely a Shuaiba kikötő tengerparti hajózási létesítményei közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.093025,
+                        29.005119
+                  ]
+            },
+            {
+                  "name": "Shikah Ltefa Khaled Mallek Al Sabah",
+                  "text": "A Shuaiba kikötőben dolgozó tengerészeti és ipari munkásokat kiszolgáló mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        48.096798,
+                        29.006058
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Osama Sultan Ahmed Sultan Al-Khalaf",
+                  "text": "Un lăcaș de cult islamic înființat în apropierea facilităților de navigație de coastă din portul Shuaiba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.093025,
+                        29.005119
+                  ]
+            },
+            {
+                  "name": "Shikah Ltefa Khaled Mallek Al Sabah",
+                  "text": "O moschee care deservește lucrătorii maritimi și industriali care operează în portul Shuaiba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.096798,
+                        29.006058
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Osama Sultan Ahmed Sultan Al-Khalaf",
+                  "text": "An Islamic place of worship established near the coastal shipping facilities of Shuaiba Port.",
+                  "category": "landmark",
+                  "coords": [
+                        48.093025,
+                        29.005119
+                  ]
+            },
+            {
+                  "name": "Shikah Ltefa Khaled Mallek Al Sabah",
+                  "text": "A mosque serving the maritime and industrial workers operating at Shuaiba Port.",
+                  "category": "landmark",
+                  "coords": [
+                        48.096798,
+                        29.006058
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "KW-AH",
     coords: [48.1569, 29.0381],
@@ -197,7 +395,52 @@ export const poiExtraKuwaitEconomicV2: POI[] = [
     "Wichtiger Standort für den Export von Chemikalien."
 ]},
   {
-    id: "shuwaikh-port-economic-v2",
+    id: "shuwaikh-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shuwaikh Port Main Mosque",
+                  "text": "Eine zentrale islamische Moschee für Hafenarbeiter und Besucher im Hafen von Shuwaikh.",
+                  "category": "landmark",
+                  "coords": [
+                        47.931861,
+                        29.349572
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shuwaikh Port Main Mosque",
+                  "text": "Központi iszlám mecset, amely a kikötői munkásokat és látogatókat szolgálja ki Shuwaikh kikötőjében.",
+                  "category": "landmark",
+                  "coords": [
+                        47.931861,
+                        29.349572
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shuwaikh Port Main Mosque",
+                  "text": "O moschee islamică centrală care găzduiește lucrătorii portuari și vizitatorii în Portul Shuwaikh.",
+                  "category": "landmark",
+                  "coords": [
+                        47.931861,
+                        29.349572
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shuwaikh Port Main Mosque",
+                  "text": "A central Islamic mosque accommodating port workers and visitors at Shuwaikh Port.",
+                  "category": "landmark",
+                  "coords": [
+                        47.931861,
+                        29.349572
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "KW-KU",
     coords: [47.9250, 29.3517],
@@ -389,7 +632,52 @@ export const poiExtraKuwaitEconomicV2: POI[] = [
     "Machte Kuwait zu einem globalen Energielieferanten."
 ]},
   {
-    id: "raudhatain-field-economic-v2",
+    id: "raudhatain-field-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rawdatain Mosque",
+                  "text": "Ein islamisches Gotteshaus in der Nähe der wirtschaftlichen Infrastruktur des Raudhatain-Ölfeldes.",
+                  "category": "landmark",
+                  "coords": [
+                        47.682477,
+                        29.871865
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rawdatain Mosque",
+                  "text": "Iszlám istentiszteleti hely a Raudhatain olajmező gazdasági infrastruktúrájának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        47.682477,
+                        29.871865
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rawdatain Mosque",
+                  "text": "Un lăcaș de cult islamic situat în apropierea infrastructurii economice a câmpului petrolier Raudhatain.",
+                  "category": "landmark",
+                  "coords": [
+                        47.682477,
+                        29.871865
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rawdatain Mosque",
+                  "text": "A place of Islamic worship situated near the economic infrastructure of the Raudhatain oil field.",
+                  "category": "landmark",
+                  "coords": [
+                        47.682477,
+                        29.871865
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "KW-JA",
     coords: [47.7167, 29.8167],
@@ -645,7 +933,52 @@ export const poiExtraKuwaitEconomicV2: POI[] = [
     "Strategisch wichtig für die westliche Region."
 ]},
   {
-    id: "kuwait-free-trade-zone-economic-v2",
+    id: "kuwait-free-trade-zone-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Akkaz",
+                  "text": "Diese archäologische Stätte auf einer kleinen Insel bewahrt Spuren antiker Siedlungen aus prähistorischer Zeit.",
+                  "category": "historical",
+                  "coords": [
+                        47.914617,
+                        29.36008
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Akkaz",
+                  "text": "Ez a kis szigeten található régészeti lelőhely őskori települések nyomait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        47.914617,
+                        29.36008
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Akkaz",
+                  "text": "Acest sit arheologic de pe o mică insulă păstrează urme ale așezărilor antice din timpurile preistorice.",
+                  "category": "historical",
+                  "coords": [
+                        47.914617,
+                        29.36008
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Akkaz",
+                  "text": "This archaeological site on a small island preserves traces of ancient settlements from prehistoric times.",
+                  "category": "historical",
+                  "coords": [
+                        47.914617,
+                        29.36008
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "KW-KU",
     coords: [47.9250, 29.3550],
@@ -774,7 +1107,88 @@ export const poiExtraKuwaitEconomicV2: POI[] = [
     "Betrieben vom Ministerium für Elektrizität und Wasser."
 ]},
   {
-    id: "az-zour-north-power-plant-economic-v2",
+    id: "az-zour-north-power-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abdullaziz Al Khaled",
+                  "text": "Abdullaziz Al Khaled ist eine islamische Moschee in der Nähe des Kraftwerks Az-Zour North.",
+                  "category": "landmark",
+                  "coords": [
+                        48.373775,
+                        28.735417
+                  ]
+            },
+            {
+                  "name": "Muhammad Ali Al-Alimi",
+                  "text": "Die Muhammad-Ali-Al-Alimi-Moschee dient den muslimischen Arbeitern und Bewohnern rund um die Anlage Az-Zour North.",
+                  "category": "landmark",
+                  "coords": [
+                        48.331134,
+                        28.750896
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abdullaziz Al Khaled",
+                  "text": "Az Abdullaziz Al Khaled egy iszlám mecset az Az-Zour North erőmű közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.373775,
+                        28.735417
+                  ]
+            },
+            {
+                  "name": "Muhammad Ali Al-Alimi",
+                  "text": "A Muhammad Ali Al-Alimi mecset a muszlim munkásokat és az Az-Zour North létesítmény környékén élőket szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        48.331134,
+                        28.750896
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abdullaziz Al Khaled",
+                  "text": "Abdullaziz Al Khaled este o moschee islamică situată lângă centrala electrică Az-Zour North.",
+                  "category": "landmark",
+                  "coords": [
+                        48.373775,
+                        28.735417
+                  ]
+            },
+            {
+                  "name": "Muhammad Ali Al-Alimi",
+                  "text": "Moscheea Muhammad Ali Al-Alimi deservește muncitorii și rezidenții musulmani din jurul unității Az-Zour North.",
+                  "category": "landmark",
+                  "coords": [
+                        48.331134,
+                        28.750896
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abdullaziz Al Khaled",
+                  "text": "Abdullaziz Al Khaled is an Islamic mosque located near the Az-Zour North Power Plant.",
+                  "category": "landmark",
+                  "coords": [
+                        48.373775,
+                        28.735417
+                  ]
+            },
+            {
+                  "name": "Muhammad Ali Al-Alimi",
+                  "text": "The Muhammad Ali Al-Alimi Mosque serves Muslim workers and residents around the Az-Zour North facility.",
+                  "category": "landmark",
+                  "coords": [
+                        48.331134,
+                        28.750896
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "KW-AH",
     coords: [48.3667, 28.7333],
@@ -839,7 +1253,268 @@ export const poiExtraKuwaitEconomicV2: POI[] = [
     "Ein Konsortium internationaler Unternehmen ist beteiligt."
 ]},
   {
-    id: "doha-west-power-plant-economic-v2",
+    id: "doha-west-power-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Marzoug Al-Shrayyan Mosque",
+                  "text": "Eine muslimische Kultstätte im Gebiet des Kraftwerks Doha West.",
+                  "category": "landmark",
+                  "coords": [
+                        47.801695,
+                        29.324948
+                  ]
+            },
+            {
+                  "name": "Al Imam Al Khattabi",
+                  "text": "Dieser islamische Gebetssaal dient den örtlichen Arbeitskräften in der Nähe des Kraftwerks Doha West.",
+                  "category": "landmark",
+                  "coords": [
+                        47.779518,
+                        29.333958
+                  ]
+            },
+            {
+                  "name": "'Uwaym ibn Sa'ida Mosque",
+                  "text": "Eine Moschee, die inmitten der Industrielandschaft des Kraftwerks Doha West einen spirituellen Zufluchtsort bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        47.811999,
+                        29.332582
+                  ]
+            },
+            {
+                  "name": "Al-Tufail ibn Al-Harith Mosque",
+                  "text": "Eine muslimische religiöse Stätte auf dem Gelände der Kraftwerkszone Doha West.",
+                  "category": "landmark",
+                  "coords": [
+                        47.81025,
+                        29.328351
+                  ]
+            },
+            {
+                  "name": "Abu Murthad al-Ghanoy Mosque",
+                  "text": "Diese Moschee bietet einen eigenen Raum für die täglichen Gebete im Viertel des Kraftwerks Doha West.",
+                  "category": "landmark",
+                  "coords": [
+                        47.803371,
+                        29.332935
+                  ]
+            },
+            {
+                  "name": "Khadija Bint Khuwaylid Mosque",
+                  "text": "Ein muslimisches Gebetszentrum inmitten der industriellen Umgebung des Kraftwerks Doha West.",
+                  "category": "landmark",
+                  "coords": [
+                        47.801259,
+                        29.326649
+                  ]
+            },
+            {
+                  "name": "Shujaʿ ibn Wahab Al-Asadi Mosque",
+                  "text": "Eine markante Moschee, die den religiösen Bedürfnissen der Menschen im Kraftwerk Doha West dient.",
+                  "category": "religious",
+                  "coords": [
+                        47.805317,
+                        29.324978
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marzoug Al-Shrayyan Mosque",
+                  "text": "Muszlim istentiszteleti hely a Doha West erőmű területén.",
+                  "category": "landmark",
+                  "coords": [
+                        47.801695,
+                        29.324948
+                  ]
+            },
+            {
+                  "name": "Al Imam Al Khattabi",
+                  "text": "Ez az iszlám imaterem a Doha West erőmű közelében dolgozókat szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.779518,
+                        29.333958
+                  ]
+            },
+            {
+                  "name": "'Uwaym ibn Sa'ida Mosque",
+                  "text": "Mecset, amely spirituális menedéket kínál a Doha West erőmű ipari tájában.",
+                  "category": "landmark",
+                  "coords": [
+                        47.811999,
+                        29.332582
+                  ]
+            },
+            {
+                  "name": "Al-Tufail ibn Al-Harith Mosque",
+                  "text": "Muszlim vallási helyszín a Doha West erőmű övezetének peremén.",
+                  "category": "landmark",
+                  "coords": [
+                        47.81025,
+                        29.328351
+                  ]
+            },
+            {
+                  "name": "Abu Murthad al-Ghanoy Mosque",
+                  "text": "Ez a mecset dedikált teret biztosít a napi imákhoz a Doha West erőmű negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        47.803371,
+                        29.332935
+                  ]
+            },
+            {
+                  "name": "Khadija Bint Khuwaylid Mosque",
+                  "text": "Muszlim imaközpont a Doha West erőmű ipari környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        47.801259,
+                        29.326649
+                  ]
+            },
+            {
+                  "name": "Shujaʿ ibn Wahab Al-Asadi Mosque",
+                  "text": "Kiemelkedő mecset, amely a Doha West erőműben dolgozók vallási igényeit szolgálja ki.",
+                  "category": "religious",
+                  "coords": [
+                        47.805317,
+                        29.324978
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marzoug Al-Shrayyan Mosque",
+                  "text": "Un lăcaș de cult musulman situat în zona centralei electrice Doha West.",
+                  "category": "landmark",
+                  "coords": [
+                        47.801695,
+                        29.324948
+                  ]
+            },
+            {
+                  "name": "Al Imam Al Khattabi",
+                  "text": "Această sală de rugăciune islamică deservește forța de muncă locală din apropierea centralei electrice Doha West.",
+                  "category": "landmark",
+                  "coords": [
+                        47.779518,
+                        29.333958
+                  ]
+            },
+            {
+                  "name": "'Uwaym ibn Sa'ida Mosque",
+                  "text": "O moschee care oferă un sanctuar spiritual în mijlocul peisajului industrial al centralei electrice Doha West.",
+                  "category": "landmark",
+                  "coords": [
+                        47.811999,
+                        29.332582
+                  ]
+            },
+            {
+                  "name": "Al-Tufail ibn Al-Harith Mosque",
+                  "text": "Un sit religios musulman situat în perimetrul zonei centralei electrice Doha West.",
+                  "category": "landmark",
+                  "coords": [
+                        47.81025,
+                        29.328351
+                  ]
+            },
+            {
+                  "name": "Abu Murthad al-Ghanoy Mosque",
+                  "text": "Această moschee oferă un spațiu dedicat pentru rugăciunile zilnice în cartierul centralei electrice Doha West.",
+                  "category": "landmark",
+                  "coords": [
+                        47.803371,
+                        29.332935
+                  ]
+            },
+            {
+                  "name": "Khadija Bint Khuwaylid Mosque",
+                  "text": "Un centru de rugăciune musulman amplasat în mediul industrial al centralei electrice Doha West.",
+                  "category": "landmark",
+                  "coords": [
+                        47.801259,
+                        29.326649
+                  ]
+            },
+            {
+                  "name": "Shujaʿ ibn Wahab Al-Asadi Mosque",
+                  "text": "O moschee proeminentă care deservește nevoile religioase ale celor de la centrala electrică Doha West.",
+                  "category": "religious",
+                  "coords": [
+                        47.805317,
+                        29.324978
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marzoug Al-Shrayyan Mosque",
+                  "text": "A Muslim place of worship situated in the Doha West Power Plant area.",
+                  "category": "landmark",
+                  "coords": [
+                        47.801695,
+                        29.324948
+                  ]
+            },
+            {
+                  "name": "Al Imam Al Khattabi",
+                  "text": "This Islamic prayer hall serves the local workforce near the Doha West Power Plant.",
+                  "category": "landmark",
+                  "coords": [
+                        47.779518,
+                        29.333958
+                  ]
+            },
+            {
+                  "name": "'Uwaym ibn Sa'ida Mosque",
+                  "text": "A mosque offering spiritual sanctuary amidst the industrial landscape of the Doha West Power Plant.",
+                  "category": "landmark",
+                  "coords": [
+                        47.811999,
+                        29.332582
+                  ]
+            },
+            {
+                  "name": "Al-Tufail ibn Al-Harith Mosque",
+                  "text": "A Muslim religious site located within the perimeter of the Doha West Power Plant zone.",
+                  "category": "landmark",
+                  "coords": [
+                        47.81025,
+                        29.328351
+                  ]
+            },
+            {
+                  "name": "Abu Murthad al-Ghanoy Mosque",
+                  "text": "This mosque provides a dedicated space for daily prayers in the Doha West Power Plant district.",
+                  "category": "landmark",
+                  "coords": [
+                        47.803371,
+                        29.332935
+                  ]
+            },
+            {
+                  "name": "Khadija Bint Khuwaylid Mosque",
+                  "text": "A Muslim prayer center nestled within the industrial surroundings of the Doha West Power Plant.",
+                  "category": "landmark",
+                  "coords": [
+                        47.801259,
+                        29.326649
+                  ]
+            },
+            {
+                  "name": "Shujaʿ ibn Wahab Al-Asadi Mosque",
+                  "text": "A prominent mosque serving the religious needs of those at the Doha West Power Plant.",
+                  "category": "religious",
+                  "coords": [
+                        47.805317,
+                        29.324978
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "KW-KU",
     coords: [47.7833, 29.3667],
@@ -904,7 +1579,52 @@ export const poiExtraKuwaitEconomicV2: POI[] = [
     "Wird kontinuierlich modernisiert."
 ]},
   {
-    id: "shuaiba-industrial-area-economic-v2",
+    id: "shuaiba-industrial-area-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Anas Bin Malik",
+                  "text": "Anas Bin Malik ist eine funktionale islamische Moschee im Industriegebiet Shuaiba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.120437,
+                        29.035286
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Anas Bin Malik",
+                  "text": "Az Anas Bin Malik egy funkcionális iszlám mecset, amely a shuaibai ipari területen helyezkedik el.",
+                  "category": "landmark",
+                  "coords": [
+                        48.120437,
+                        29.035286
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Anas Bin Malik",
+                  "text": "Anas Bin Malik este o moschee islamică funcțională situată în zona industrială Shuaiba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.120437,
+                        29.035286
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Anas Bin Malik",
+                  "text": "Anas Bin Malik is a functional Islamic mosque positioned within the Shuaiba Industrial Area.",
+                  "category": "landmark",
+                  "coords": [
+                        48.120437,
+                        29.035286
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "KW-AH",
     coords: [48.1500, 29.0500],
@@ -969,7 +1689,88 @@ export const poiExtraKuwaitEconomicV2: POI[] = [
     "Standort von Großunternehmen wie KNPC und Equate."
 ]},
   {
-    id: "amghara-industrial-area-economic-v2",
+    id: "amghara-industrial-area-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fahad Al-Fahad Mosque",
+                  "text": "Eine lokale Moschee, die für die täglichen spirituellen Bedürfnisse der Arbeiter im Industriegebiet Amghara sorgt.",
+                  "category": "landmark",
+                  "coords": [
+                        47.748393,
+                        29.298008
+                  ]
+            },
+            {
+                  "name": "Yousef Al-Roumi Mosque",
+                  "text": "Ein islamisches Gotteshaus, das sich direkt im geschäftigen Industriegebiet Amghara befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        47.740589,
+                        29.30797
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fahad Al-Fahad Mosque",
+                  "text": "Helyi mecset, amely az amgharai ipari terület munkásainak mindennapi spirituális igényeit elégíti ki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.748393,
+                        29.298008
+                  ]
+            },
+            {
+                  "name": "Yousef Al-Roumi Mosque",
+                  "text": "Iszlám istentiszteleti központ, amely közvetlenül az amgharai nyüzsgő ipari negyedben található.",
+                  "category": "landmark",
+                  "coords": [
+                        47.740589,
+                        29.30797
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fahad Al-Fahad Mosque",
+                  "text": "O moschee locală care răspunde nevoilor spirituale zilnice ale lucrătorilor din zona industrială Amghara.",
+                  "category": "landmark",
+                  "coords": [
+                        47.748393,
+                        29.298008
+                  ]
+            },
+            {
+                  "name": "Yousef Al-Roumi Mosque",
+                  "text": "Un centru de cult islamic situat direct în districtul industrial aglomerat Amghara.",
+                  "category": "landmark",
+                  "coords": [
+                        47.740589,
+                        29.30797
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fahad Al-Fahad Mosque",
+                  "text": "A local mosque catering to the daily spiritual needs of workers in the Amghara industrial area.",
+                  "category": "landmark",
+                  "coords": [
+                        47.748393,
+                        29.298008
+                  ]
+            },
+            {
+                  "name": "Yousef Al-Roumi Mosque",
+                  "text": "An Islamic worship center located directly within the bustling Amghara industrial district.",
+                  "category": "landmark",
+                  "coords": [
+                        47.740589,
+                        29.30797
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "KW-JA",
     coords: [47.7167, 29.2833],
@@ -1033,7 +1834,52 @@ export const poiExtraKuwaitEconomicV2: POI[] = [
     "Verwaltet von der Public Authority for Industry (PAI)."
 ]},
   {
-    id: "sabhan-industrial-area-economic-v2",
+    id: "sabhan-industrial-area-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Faris F. Alwagayan Mosque",
+                  "text": "Die Faris-F.-Alwagayan-Moschee bietet Arbeitern im Industriegebiet Sabhan ein islamisches spirituelles Zentrum.",
+                  "category": "landmark",
+                  "coords": [
+                        48.010704,
+                        29.229588
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Faris F. Alwagayan Mosque",
+                  "text": "A Faris F. Alwagayan mecset iszlám spirituális központot biztosít a sabhani ipari területen dolgozó munkások számára.",
+                  "category": "landmark",
+                  "coords": [
+                        48.010704,
+                        29.229588
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Faris F. Alwagayan Mosque",
+                  "text": "Moscheea Faris F. Alwagayan oferă un centru spiritual islamic pentru lucrătorii din zona industrială Sabhan.",
+                  "category": "landmark",
+                  "coords": [
+                        48.010704,
+                        29.229588
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Faris F. Alwagayan Mosque",
+                  "text": "Faris F. Alwagayan Mosque provides an Islamic spiritual center for workers in the Sabhan Industrial Area.",
+                  "category": "landmark",
+                  "coords": [
+                        48.010704,
+                        29.229588
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "KW-FA",
     coords: [48.0000, 29.2333],

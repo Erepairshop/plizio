@@ -258,7 +258,7 @@ export const czechrepublicLandmarksV2: POI[] = [
             },
             {
                   "name": "PP Cvičák",
-                  "text": "PP Cvičák ist ein geschütztes Naturgebiet in der Umgebung von Český Krumlov.",
+                  "text": "Naturdenkmal PP Cvičák (ausgewiesen 2016) bei der Burg Český Krumlov.",
                   "category": "natural",
                   "coords": [
                         14.318389,
@@ -332,7 +332,7 @@ export const czechrepublicLandmarksV2: POI[] = [
             },
             {
                   "name": "PP Cvičák",
-                  "text": "A PP Cvičák egy védett természeti terület Český Krumlov környékén.",
+                  "text": "PP Cvičák természeti emlék (2016-ban kijelölve) a Český Krumlov-i vár mellett.",
                   "category": "natural",
                   "coords": [
                         14.318389,
@@ -406,7 +406,7 @@ export const czechrepublicLandmarksV2: POI[] = [
             },
             {
                   "name": "PP Cvičák",
-                  "text": "PP Cvičák este o arie naturală protejată din împrejurimile orașului Český Krumlov.",
+                  "text": "Monumentul natural PP Cvičák (desemnat 2016) lângă Castelul Český Krumlov.",
                   "category": "natural",
                   "coords": [
                         14.318389,
@@ -480,7 +480,7 @@ export const czechrepublicLandmarksV2: POI[] = [
             },
             {
                   "name": "PP Cvičák",
-                  "text": "PP Cvičák is a protected natural area in the vicinity of Český Krumlov.",
+                  "text": "Natural monument PP Cvičák (established 2016) near Český Krumlov Castle.",
                   "category": "natural",
                   "coords": [
                         14.318389,
@@ -743,7 +743,7 @@ export const czechrepublicLandmarksV2: POI[] = [
             },
             {
                   "name": "Kaple Nejsvětější Trojice",
-                  "text": "Eine kleine Kapelle, die der Heiligen Dreifaltigkeit gewidmet ist.",
+                  "text": "Die Kapelle der Heiligen Dreifaltigkeit auf der Burg Bouzov ist eine Kapelle im Burggelände.",
                   "category": "religious",
                   "coords": [
                         16.928927,
@@ -817,7 +817,7 @@ export const czechrepublicLandmarksV2: POI[] = [
             },
             {
                   "name": "Kaple Nejsvětější Trojice",
-                  "text": "A Szentháromság tiszteletére szentelt kis kápolna.",
+                  "text": "A Szentháromság kápolna a Bouzov váron egy kápolna a vár területén.",
                   "category": "religious",
                   "coords": [
                         16.928927,
@@ -891,7 +891,7 @@ export const czechrepublicLandmarksV2: POI[] = [
             },
             {
                   "name": "Kaple Nejsvětější Trojice",
-                  "text": "O mică capelă dedicată Sfintei Treimi.",
+                  "text": "Capela Sfintei Treimi de la Castelul Bouzov este o capelă în incinta castelului.",
                   "category": "religious",
                   "coords": [
                         16.928927,
@@ -965,7 +965,7 @@ export const czechrepublicLandmarksV2: POI[] = [
             },
             {
                   "name": "Kaple Nejsvětější Trojice",
-                  "text": "A small chapel dedicated to the Holy Trinity.",
+                  "text": "The Chapel of the Holy Trinity at Bouzov Castle is a chapel within the castle grounds.",
                   "category": "religious",
                   "coords": [
                         16.928927,
@@ -1351,7 +1351,7 @@ export const czechrepublicLandmarksV2: POI[] = [
             },
             {
                   "name": "kamenný most",
-                  "text": "Eine historische Steinbrücke in der Umgebung von Vranov nad Dyjí.",
+                  "text": "Steinbrücke in der Nähe des Schlosses Vranov nad Dyjí.",
                   "category": "landmark",
                   "coords": [
                         15.793622,
@@ -1425,7 +1425,7 @@ export const czechrepublicLandmarksV2: POI[] = [
             },
             {
                   "name": "kamenný most",
-                  "text": "Történelmi kőhíd Vranov nad Dyjí környékén.",
+                  "text": "Kőhíd a vranov nad dyjí-i kastély közelében.",
                   "category": "landmark",
                   "coords": [
                         15.793622,
@@ -1499,7 +1499,7 @@ export const czechrepublicLandmarksV2: POI[] = [
             },
             {
                   "name": "kamenný most",
-                  "text": "Un pod istoric de piatră în zona Vranov nad Dyjí.",
+                  "text": "Pod de piatră lângă Castelul Vranov nad Dyjí.",
                   "category": "landmark",
                   "coords": [
                         15.793622,
@@ -1573,7 +1573,7 @@ export const czechrepublicLandmarksV2: POI[] = [
             },
             {
                   "name": "kamenný most",
-                  "text": "A historic stone bridge in the Vranov nad Dyjí area.",
+                  "text": "Stone bridge near Vranov nad Dyjí Chateau.",
                   "category": "landmark",
                   "coords": [
                         15.793622,

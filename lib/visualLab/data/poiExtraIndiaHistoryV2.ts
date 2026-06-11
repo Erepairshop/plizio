@@ -4,7 +4,1204 @@ import type { POI } from "./poi";
 
 export const poiExtraIndiaHistoryV2: POI[] = [
   {
-    id: "in-hampi-history-v2",
+    id: "in-hampi-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gruppe von Denkmälern in Hampi",
+                  "text": "Eine UNESCO-Welterbestätte mit den Ruinen der Hauptstadt des großen Vijayanagara-Reiches.",
+                  "category": "landmark",
+                  "coords": [
+                        76.472901,
+                        15.330578
+                  ]
+            },
+            {
+                  "name": "Matanga Hill",
+                  "text": "Der höchste Punkt in Hampi, der einen Panoramablick auf die Tempelruinen und den Fluss Tungabhadra bietet.",
+                  "category": "natural",
+                  "coords": [
+                        76.468304,
+                        15.331351
+                  ]
+            },
+            {
+                  "name": "Open Air Sculpture Museum",
+                  "text": "Eine Sammlung von Steinmetzarbeiten und Götzenbildern, die aus den umliegenden Ruinen geborgen wurden.",
+                  "category": "museum",
+                  "coords": [
+                        76.469729,
+                        15.319602
+                  ]
+            },
+            {
+                  "name": "Sculpture museum",
+                  "text": "Eine Galerie im Innenbereich, die filigrane Schnitzereien und Artefakte aus der Vijayanagara-Zeit ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        76.472253,
+                        15.321674
+                  ]
+            },
+            {
+                  "name": "Archaelogical Museum",
+                  "text": "Beherbergt ein detailliertes Modell der Hampi-Ruinen sowie Steinskulpturen und antike Münzen.",
+                  "category": "museum",
+                  "coords": [
+                        76.477209,
+                        15.307375
+                  ]
+            },
+            {
+                  "name": "Photo Museum",
+                  "text": "Eine Galerie mit historischen Fotografien und Skizzen der Ruinen von Hampi aus dem 19. Jahrhundert.",
+                  "category": "museum",
+                  "coords": [
+                        76.466357,
+                        15.334071
+                  ]
+            },
+            {
+                  "name": "Vijaya Vitthala Temple",
+                  "text": "Berühmt für seinen ikonischen Steinwagen und die „musikalischen Säulen“, die Töne erzeugen.",
+                  "category": "museum",
+                  "coords": [
+                        76.475493,
+                        15.342271
+                  ]
+            },
+            {
+                  "name": "Kinnereshwara",
+                  "text": "Eine historische Tempelanlage gewidmet Lord Shiva mit traditionellen dravidischen Architekturelementen.",
+                  "category": "historical",
+                  "coords": [
+                        76.533794,
+                        15.368246
+                  ]
+            },
+            {
+                  "name": "Sudha tirta",
+                  "text": "Ein heiliger Ritualwassertank, der von Pilgern für zeremonielle Bäder im Hampi-Komplex genutzt wird.",
+                  "category": "historical",
+                  "coords": [
+                        76.487883,
+                        15.406738
+                  ]
+            },
+            {
+                  "name": "Vaanibhadreshwara",
+                  "text": "Ein historischer Schrein am Flussufer mit typischer Steinarchitektur und Schnitzereien aus Vijayanagara.",
+                  "category": "historical",
+                  "coords": [
+                        76.487278,
+                        15.405745
+                  ]
+            },
+            {
+                  "name": "Sunkada Bagilu",
+                  "text": "Ein antikes „Zolltor“, das als wichtiger Eingang durch die befestigten Stadtmauern diente.",
+                  "category": "historical",
+                  "coords": [
+                        76.496615,
+                        15.362489
+                  ]
+            },
+            {
+                  "name": "Purandara Mandapa",
+                  "text": "Ein Pavillon am Flussufer, in dem der Komponist Purandara Dasa seine religiösen Lieder schrieb.",
+                  "category": "historical",
+                  "coords": [
+                        76.472437,
+                        15.341993
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Ein verfallener Steinschrein in Hampi mit den typischen Schnitzereien des Vijayanagara-Stils.",
+                  "category": "historical",
+                  "coords": [
+                        76.527083,
+                        15.282458
+                  ]
+            },
+            {
+                  "name": "Bhojanasala",
+                  "text": "Eine antike Gemeinschaftsküche mit runden, direkt in den Fels gehauenen Tellern.",
+                  "category": "historical",
+                  "coords": [
+                        76.468633,
+                        15.313857
+                  ]
+            },
+            {
+                  "name": "Koteshankara Gateway",
+                  "text": "Ein monumentaler Steineingang, der einst Teil des Verteidigungsnetzwerks von Hampi war.",
+                  "category": "historical",
+                  "coords": [
+                        76.461727,
+                        15.319039
+                  ]
+            },
+            {
+                  "name": "Band Tower",
+                  "text": "Ein verfallener Steinturm, der sich im königlichen Bezirk von Hampi befindet.",
+                  "category": "historical",
+                  "coords": [
+                        76.467038,
+                        15.316926
+                  ]
+            },
+            {
+                  "name": "Guards' Barracks",
+                  "text": "Langes bogenförmiges Gebäude, das einst als Unterkunft für die Palastwachen diente.",
+                  "category": "historical",
+                  "coords": [
+                        76.46962,
+                        15.314921
+                  ]
+            },
+            {
+                  "name": "Underground Chamber",
+                  "text": "Eine geheime unterirdische Ratshalle, die von den Königen für private Treffen genutzt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        76.469922,
+                        15.315909
+                  ]
+            },
+            {
+                  "name": "Stone Doors",
+                  "text": "Massive monolithische Granittüren, die einst den Eingang zum königlichen Viertel markierten.",
+                  "category": "historical",
+                  "coords": [
+                        76.470896,
+                        15.316461
+                  ]
+            },
+            {
+                  "name": "Horse Stables",
+                  "text": "Elegante, gewölbte Steinkammern, die als Stallungen für die königlichen Pferde dienten.",
+                  "category": "historical",
+                  "coords": [
+                        76.469756,
+                        15.317424
+                  ]
+            },
+            {
+                  "name": "Tenali Rama Pavilion",
+                  "text": "Ein kleiner ruinierter Pavillon, benannt nach dem berühmten Hofdichter Tenali Rama.",
+                  "category": "historical",
+                  "coords": [
+                        76.469647,
+                        15.322477
+                  ]
+            },
+            {
+                  "name": "Vaishnava temple",
+                  "text": "Ein antikes Denkmal mit Steinsäulen, die mit kunstvollen religiösen Schnitzereien verziert sind.",
+                  "category": "historical",
+                  "coords": [
+                        76.471883,
+                        15.31942
+                  ]
+            },
+            {
+                  "name": "Vaishnava temple",
+                  "text": "Ein historischer Tempel, der Lord Vishnu gewidmet ist und Darstellungen seiner Inkarnationen zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        76.474329,
+                        15.320951
+                  ]
+            },
+            {
+                  "name": "Shringarada hebbagilu",
+                  "text": "Ein prächtiges Ziertor, das als Haupteingang zur befestigten Stadt diente.",
+                  "category": "historical",
+                  "coords": [
+                        76.476345,
+                        15.32222
+                  ]
+            },
+            {
+                  "name": "Somavarada hebbagilu",
+                  "text": "Ein historisches Tor, durch das montags traditionell die königlichen Prozessionen zogen.",
+                  "category": "historical",
+                  "coords": [
+                        76.477716,
+                        15.319264
+                  ]
+            },
+            {
+                  "name": "Palace Ruins (possibly an ancient guest house)",
+                  "text": "Archäologische Fundamente eines großen Steingebäudes, das möglicherweise als Gästehaus diente.",
+                  "category": "historical",
+                  "coords": [
+                        76.474894,
+                        15.317415
+                  ]
+            },
+            {
+                  "name": "Naddkall Durgamma Temple",
+                  "text": "Ein kleiner Tempel für die lokale Göttin Durgamma, der inmitten der Ruinen liegt.",
+                  "category": "historical",
+                  "coords": [
+                        76.478784,
+                        15.318231
+                  ]
+            },
+            {
+                  "name": "Jain temple",
+                  "text": "Ein Jain-Tempel aus dem 14. Jahrhundert mit einem charakteristischen Stufenpyramidendach.",
+                  "category": "historical",
+                  "coords": [
+                        76.481212,
+                        15.326171
+                  ]
+            },
+            {
+                  "name": "Raghunatha Temple",
+                  "text": "Ein Tempel auf einem Hügel, umgeben von riesigen Felsbrocken, gewidmet Lord Rama.",
+                  "category": "historical",
+                  "coords": [
+                        76.48781,
+                        15.324517
+                  ]
+            },
+            {
+                  "name": "Ruined Temple",
+                  "text": "Archäologische Stätte mit verstreuten Steinsäulen und Resten eines eingestürzten Tempels.",
+                  "category": "historical",
+                  "coords": [
+                        76.470363,
+                        15.334773
+                  ]
+            },
+            {
+                  "name": "Small Temple (no-named)",
+                  "text": "Ein kleiner, namenloser Schrein, der den minimalistischen Baustil der Epoche zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        76.471244,
+                        15.332239
+                  ]
+            },
+            {
+                  "name": "Chakra Tirtha",
+                  "text": "Ein heiliger Badestrand (Ghat) an einer malerischen Biegung des Tungabhadra-Flusses.",
+                  "category": "historical",
+                  "coords": [
+                        76.467847,
+                        15.336179
+                  ]
+            },
+            {
+                  "name": "Mula Virupaksha",
+                  "text": "Der ursprüngliche Standort des Virupaksha-Tempels, einer der ältesten der Region.",
+                  "category": "historical",
+                  "coords": [
+                        76.459661,
+                        15.333238
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Group of Monuments at Hampi",
+                  "text": "UNESCO világörökségi helyszín a hatalmas Vidzsajanagara Birodalom fővárosának romjaival.",
+                  "category": "landmark",
+                  "coords": [
+                        76.472901,
+                        15.330578
+                  ]
+            },
+            {
+                  "name": "Matanga Hill",
+                  "text": "Hampi legmagasabb pontja, ahonnan panorámás kilátás nyílik a templomromokra és a folyóra.",
+                  "category": "natural",
+                  "coords": [
+                        76.468304,
+                        15.331351
+                  ]
+            },
+            {
+                  "name": "Open Air Sculpture Museum",
+                  "text": "Kőfaragások és bálványok gyűjteménye, amelyeket Hampi környező romjai közül mentettek ki.",
+                  "category": "museum",
+                  "coords": [
+                        76.469729,
+                        15.319602
+                  ]
+            },
+            {
+                  "name": "Sculpture museum",
+                  "text": "Fedett galéria, amely a Vidzsajanagara-korszak bonyolult faragványait és leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        76.472253,
+                        15.321674
+                  ]
+            },
+            {
+                  "name": "Archaelogical Museum",
+                  "text": "A Hampi romjainak részletes makettjét, kőszobrokat és ókori érméket bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        76.477209,
+                        15.307375
+                  ]
+            },
+            {
+                  "name": "Photo Museum",
+                  "text": "Galéria, amely Hampi romjairól készült 19. századi történelmi fotókat és vázlatokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        76.466357,
+                        15.334071
+                  ]
+            },
+            {
+                  "name": "Vijaya Vitthala Temple",
+                  "text": "Híres kőszekeréről és a „zenélő oszlopokról”, amelyek ütésre hangokat adnak ki.",
+                  "category": "museum",
+                  "coords": [
+                        76.475493,
+                        15.342271
+                  ]
+            },
+            {
+                  "name": "Kinnereshwara",
+                  "text": "Úr Sivának szentelt történelmi templomhelyszín, hagyományos dravida építészeti elemekkel.",
+                  "category": "historical",
+                  "coords": [
+                        76.533794,
+                        15.368246
+                  ]
+            },
+            {
+                  "name": "Sudha tirta",
+                  "text": "Szent rituális víztározó, amelyet a zarándokok szertartásos fürdésre használnak Hampiban.",
+                  "category": "historical",
+                  "coords": [
+                        76.487883,
+                        15.406738
+                  ]
+            },
+            {
+                  "name": "Vaanibhadreshwara",
+                  "text": "Történelmi folyóparti szentély a Vidzsajanagara-stílusra jellemző kőépítészettel és faragásokkal.",
+                  "category": "historical",
+                  "coords": [
+                        76.487278,
+                        15.405745
+                  ]
+            },
+            {
+                  "name": "Sunkada Bagilu",
+                  "text": "Antik „vámszedő kapu”, amely a város erődített falainak egyik fontos bejárata volt.",
+                  "category": "historical",
+                  "coords": [
+                        76.496615,
+                        15.362489
+                  ]
+            },
+            {
+                  "name": "Purandara Mandapa",
+                  "text": "Folyóparti oszlopos pavilon, ahol a neves zeneszerző, Purandara Dasa írta vallásos dalait.",
+                  "category": "historical",
+                  "coords": [
+                        76.472437,
+                        15.341993
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Romos kőszentély Hampiban, oszlopain a Vidzsajanagara-stílusra jellemző faragásokkal.",
+                  "category": "historical",
+                  "coords": [
+                        76.527083,
+                        15.282458
+                  ]
+            },
+            {
+                  "name": "Bhojanasala",
+                  "text": "Antik közösségi konyha és étkező, közvetlenül a sziklába vájt kerek tányérokkal.",
+                  "category": "historical",
+                  "coords": [
+                        76.468633,
+                        15.313857
+                  ]
+            },
+            {
+                  "name": "Koteshankara Gateway",
+                  "text": "Monumentális kőkapu, amely egykor Hampi kiterjedt védelmi hálózatának részét képezte.",
+                  "category": "historical",
+                  "coords": [
+                        76.461727,
+                        15.319039
+                  ]
+            },
+            {
+                  "name": "Band Tower",
+                  "text": "Hampi királyi negyedében található romos kőtorony.",
+                  "category": "historical",
+                  "coords": [
+                        76.467038,
+                        15.316926
+                  ]
+            },
+            {
+                  "name": "Guards' Barracks",
+                  "text": "Hosszú, boltíves épület, amely egykor a vidzsajanagarai palotaőrség szállása volt.",
+                  "category": "historical",
+                  "coords": [
+                        76.46962,
+                        15.314921
+                  ]
+            },
+            {
+                  "name": "Underground Chamber",
+                  "text": "Titkos föld alatti tanácsterem, amelyet az uralkodók magánmegbeszélésekre használtak.",
+                  "category": "historical",
+                  "coords": [
+                        76.469922,
+                        15.315909
+                  ]
+            },
+            {
+                  "name": "Stone Doors",
+                  "text": "Hatalmas, monolit gránit ajtók, amelyek egykor a királyi terület bejáratát alkották.",
+                  "category": "historical",
+                  "coords": [
+                        76.470896,
+                        15.316461
+                  ]
+            },
+            {
+                  "name": "Horse Stables",
+                  "text": "Elegáns, kupolás kőkamrák, amelyeket a királyi lovasság lovainak számára építettek.",
+                  "category": "historical",
+                  "coords": [
+                        76.469756,
+                        15.317424
+                  ]
+            },
+            {
+                  "name": "Tenali Rama Pavilion",
+                  "text": "Egy kis romos pavilon, amely a híres udvari költőről, Tenali Ramáról kapta a nevét.",
+                  "category": "historical",
+                  "coords": [
+                        76.469647,
+                        15.322477
+                  ]
+            },
+            {
+                  "name": "Vaishnava temple",
+                  "text": "Ősi műemlék kőoszlopokkal, amelyeket bonyolult vallási faragványok díszítenek.",
+                  "category": "historical",
+                  "coords": [
+                        76.471883,
+                        15.31942
+                  ]
+            },
+            {
+                  "name": "Vaishnava temple",
+                  "text": "Visnu istennek szentelt történelmi templom, amely különböző inkarnációit ábrázolja.",
+                  "category": "historical",
+                  "coords": [
+                        76.474329,
+                        15.320951
+                  ]
+            },
+            {
+                  "name": "Shringarada hebbagilu",
+                  "text": "Díszes nagy kapu, amely az erődített város főbejárataként szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        76.476345,
+                        15.32222
+                  ]
+            },
+            {
+                  "name": "Somavarada hebbagilu",
+                  "text": "Történelmi kapu, amelyen keresztül hagyományosan hétfőnként haladtak át a királyi menetek.",
+                  "category": "historical",
+                  "coords": [
+                        76.477716,
+                        15.319264
+                  ]
+            },
+            {
+                  "name": "Palace Ruins (possibly an ancient guest house)",
+                  "text": "Egy nagy kőépület régészeti alapjai, amelyet valószínűleg királyi vendégházként használtak.",
+                  "category": "historical",
+                  "coords": [
+                        76.474894,
+                        15.317415
+                  ]
+            },
+            {
+                  "name": "Naddkall Durgamma Temple",
+                  "text": "A helyi Durgamma istennőnek szentelt kis templom a romok között.",
+                  "category": "historical",
+                  "coords": [
+                        76.478784,
+                        15.318231
+                  ]
+            },
+            {
+                  "name": "Jain temple",
+                  "text": "14. századi dzsain templom, amely jellegzetes lépcsős piramis tetővel rendelkezik.",
+                  "category": "historical",
+                  "coords": [
+                        76.481212,
+                        15.326171
+                  ]
+            },
+            {
+                  "name": "Raghunatha Temple",
+                  "text": "Hatalmas sziklákkal körülvett dombtetői templom, amelyet Ráma istennek szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        76.48781,
+                        15.324517
+                  ]
+            },
+            {
+                  "name": "Ruined Temple",
+                  "text": "Régészeti lelőhely szétszórt kőoszlopokkal és egy összeomlott templom maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        76.470363,
+                        15.334773
+                  ]
+            },
+            {
+                  "name": "Small Temple (no-named)",
+                  "text": "Kicsi, név nélküli kőszentély, amely a korszak minimalista építészeti stílusát mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        76.471244,
+                        15.332239
+                  ]
+            },
+            {
+                  "name": "Chakra Tirtha",
+                  "text": "Szent fürdőhely (ghat) a Tungabhadra-folyó egyik látványos kanyarulatánál.",
+                  "category": "historical",
+                  "coords": [
+                        76.467847,
+                        15.336179
+                  ]
+            },
+            {
+                  "name": "Mula Virupaksha",
+                  "text": "A Virupaksha-templom eredeti helyszíne, amelyet a régió egyik legrégebbiének tartanak.",
+                  "category": "historical",
+                  "coords": [
+                        76.459661,
+                        15.333238
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Group of Monuments at Hampi",
+                  "text": "Sit din patrimoniul mondial UNESCO ce cuprinde ruinele capitalei Imperiului Vijayanagara.",
+                  "category": "landmark",
+                  "coords": [
+                        76.472901,
+                        15.330578
+                  ]
+            },
+            {
+                  "name": "Matanga Hill",
+                  "text": "Cel mai înalt punct din Hampi, oferind vederi panoramice asupra ruinelor și râului Tungabhadra.",
+                  "category": "natural",
+                  "coords": [
+                        76.468304,
+                        15.331351
+                  ]
+            },
+            {
+                  "name": "Open Air Sculpture Museum",
+                  "text": "O colecție de sculpturi în piatră și idoli salvați din ruinele înconjurătoare ale Hampi.",
+                  "category": "museum",
+                  "coords": [
+                        76.469729,
+                        15.319602
+                  ]
+            },
+            {
+                  "name": "Sculpture museum",
+                  "text": "Galerie interioară care expune sculpturi complexe și artefacte din perioada Vijayanagara.",
+                  "category": "museum",
+                  "coords": [
+                        76.472253,
+                        15.321674
+                  ]
+            },
+            {
+                  "name": "Archaelogical Museum",
+                  "text": "Găzduiește un model detaliat al ruinelor Hampi, alături de sculpturi în piatră și monede antice.",
+                  "category": "museum",
+                  "coords": [
+                        76.477209,
+                        15.307375
+                  ]
+            },
+            {
+                  "name": "Photo Museum",
+                  "text": "Galerie ce prezintă fotografii și schițe istorice ale ruinelor din Hampi din secolul al XIX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        76.466357,
+                        15.334071
+                  ]
+            },
+            {
+                  "name": "Vijaya Vitthala Temple",
+                  "text": "Renumit pentru carul său iconic de piatră și „stâlpii muzicali” care scot sunete la atingere.",
+                  "category": "museum",
+                  "coords": [
+                        76.475493,
+                        15.342271
+                  ]
+            },
+            {
+                  "name": "Kinnereshwara",
+                  "text": "Sit istoric de templu dedicat zeului Shiva, cu elemente de arhitectură dravidiană tradițională.",
+                  "category": "historical",
+                  "coords": [
+                        76.533794,
+                        15.368246
+                  ]
+            },
+            {
+                  "name": "Sudha tirta",
+                  "text": "Rezervor sacru de apă folosit de pelerini pentru băile ceremoniale în complexul Hampi.",
+                  "category": "historical",
+                  "coords": [
+                        76.487883,
+                        15.406738
+                  ]
+            },
+            {
+                  "name": "Vaanibhadreshwara",
+                  "text": "Sanctuar istoric pe malul râului, cu arhitectură de piatră și sculpturi tipice pentru Vijayanagara.",
+                  "category": "historical",
+                  "coords": [
+                        76.487278,
+                        15.405745
+                  ]
+            },
+            {
+                  "name": "Sunkada Bagilu",
+                  "text": "O poartă vamală antică ce serveva drept intrare cheie prin zidurile fortificate ale orașului.",
+                  "category": "historical",
+                  "coords": [
+                        76.496615,
+                        15.362489
+                  ]
+            },
+            {
+                  "name": "Purandara Mandapa",
+                  "text": "Pavilion cu piloni pe malul râului, unde compozitorul Purandara Dasa și-a scris cântecele.",
+                  "category": "historical",
+                  "coords": [
+                        76.472437,
+                        15.341993
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Sanctuar de piatră în ruină, cu sculpturi tipice stilului Vijayanagara pe coloanele sale.",
+                  "category": "historical",
+                  "coords": [
+                        76.527083,
+                        15.282458
+                  ]
+            },
+            {
+                  "name": "Bhojanasala",
+                  "text": "Bucătărie și sală de mese antică, cu farfurii circulare sculptate direct în stâncă.",
+                  "category": "historical",
+                  "coords": [
+                        76.468633,
+                        15.313857
+                  ]
+            },
+            {
+                  "name": "Koteshankara Gateway",
+                  "text": "Poartă monumentală de piatră care făcea parte din rețeaua defensivă extinsă a Hampi.",
+                  "category": "historical",
+                  "coords": [
+                        76.461727,
+                        15.319039
+                  ]
+            },
+            {
+                  "name": "Band Tower",
+                  "text": "Un turn de piatră ruinat situat în incinta regală din Hampi.",
+                  "category": "historical",
+                  "coords": [
+                        76.467038,
+                        15.316926
+                  ]
+            },
+            {
+                  "name": "Guards' Barracks",
+                  "text": "O structură lungă cu arcade, folosită odinioară pentru a găzdui garda palatului.",
+                  "category": "historical",
+                  "coords": [
+                        76.46962,
+                        15.314921
+                  ]
+            },
+            {
+                  "name": "Underground Chamber",
+                  "text": "O cameră de consiliu subterană secretă, folosită de regi pentru întâlniri private.",
+                  "category": "historical",
+                  "coords": [
+                        76.469922,
+                        15.315909
+                  ]
+            },
+            {
+                  "name": "Stone Doors",
+                  "text": "Uși masive monolitice din granit care marcau odinioară intrarea în zona regală.",
+                  "category": "historical",
+                  "coords": [
+                        76.470896,
+                        15.316461
+                  ]
+            },
+            {
+                  "name": "Horse Stables",
+                  "text": "Camere elegante din piatră cu cupolă, construite pentru a găzdui caii cavaleriei regale.",
+                  "category": "historical",
+                  "coords": [
+                        76.469756,
+                        15.317424
+                  ]
+            },
+            {
+                  "name": "Tenali Rama Pavilion",
+                  "text": "Un mic pavilion ruinat, numit după celebrul poet de curte Tenali Rama.",
+                  "category": "historical",
+                  "coords": [
+                        76.469647,
+                        15.322477
+                  ]
+            },
+            {
+                  "name": "Vaishnava temple",
+                  "text": "Un monument antic cu stâlpi de piatră decorați cu sculpturi religioase complexe.",
+                  "category": "historical",
+                  "coords": [
+                        76.471883,
+                        15.31942
+                  ]
+            },
+            {
+                  "name": "Vaishnava temple",
+                  "text": "Un templu istoric dedicat zeului Vishnu, prezentând reprezentări ale diferitelor sale încarnări.",
+                  "category": "historical",
+                  "coords": [
+                        76.474329,
+                        15.320951
+                  ]
+            },
+            {
+                  "name": "Shringarada hebbagilu",
+                  "text": "O poartă ornamentală grandioasă care servea drept intrare principală în orașul fortificat.",
+                  "category": "historical",
+                  "coords": [
+                        76.476345,
+                        15.32222
+                  ]
+            },
+            {
+                  "name": "Somavarada hebbagilu",
+                  "text": "O poartă istorică prin care procesiunile regale treceau în mod tradițional lunea.",
+                  "category": "historical",
+                  "coords": [
+                        76.477716,
+                        15.319264
+                  ]
+            },
+            {
+                  "name": "Palace Ruins (possibly an ancient guest house)",
+                  "text": "Fundații arheologice ale unei mari structuri de piatră, folosită probabil ca oaspete regală.",
+                  "category": "historical",
+                  "coords": [
+                        76.474894,
+                        15.317415
+                  ]
+            },
+            {
+                  "name": "Naddkall Durgamma Temple",
+                  "text": "Un mic templu dedicat zeiței locale Durgamma, situat printre ruine.",
+                  "category": "historical",
+                  "coords": [
+                        76.478784,
+                        15.318231
+                  ]
+            },
+            {
+                  "name": "Jain temple",
+                  "text": "Un templu jainist din secolul al XIV-lea, cu un acoperiș distinct în stil piramidă în trepte.",
+                  "category": "historical",
+                  "coords": [
+                        76.481212,
+                        15.326171
+                  ]
+            },
+            {
+                  "name": "Raghunatha Temple",
+                  "text": "Un templu pe deal înconjurat de bolovani masivi, dedicat zeului Rama.",
+                  "category": "historical",
+                  "coords": [
+                        76.48781,
+                        15.324517
+                  ]
+            },
+            {
+                  "name": "Ruined Temple",
+                  "text": "Sit arheologic care conține stâlpi de piatră împrăștiați și rămășițele unui templu prăbușit.",
+                  "category": "historical",
+                  "coords": [
+                        76.470363,
+                        15.334773
+                  ]
+            },
+            {
+                  "name": "Small Temple (no-named)",
+                  "text": "Un mic altar de piatră fără nume, care prezintă stilul arhitectural minimalist al epocii.",
+                  "category": "historical",
+                  "coords": [
+                        76.471244,
+                        15.332239
+                  ]
+            },
+            {
+                  "name": "Chakra Tirtha",
+                  "text": "Un ghat sacru de scăldat situat la o cotitură pitorească a râului Tungabhadra.",
+                  "category": "historical",
+                  "coords": [
+                        76.467847,
+                        15.336179
+                  ]
+            },
+            {
+                  "name": "Mula Virupaksha",
+                  "text": "Locul original al templului Virupaksha, considerat unul dintre cele mai vechi din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        76.459661,
+                        15.333238
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Group of Monuments at Hampi",
+                  "text": "A UNESCO World Heritage site containing the ruins of the grand Vijayanagara Empire capital.",
+                  "category": "landmark",
+                  "coords": [
+                        76.472901,
+                        15.330578
+                  ]
+            },
+            {
+                  "name": "Matanga Hill",
+                  "text": "The highest point in Hampi, offering panoramic views of the temple ruins and the Tungabhadra River.",
+                  "category": "natural",
+                  "coords": [
+                        76.468304,
+                        15.331351
+                  ]
+            },
+            {
+                  "name": "Open Air Sculpture Museum",
+                  "text": "A collection of stone carvings and idols salvaged from the surrounding ruins of Hampi.",
+                  "category": "museum",
+                  "coords": [
+                        76.469729,
+                        15.319602
+                  ]
+            },
+            {
+                  "name": "Sculpture museum",
+                  "text": "An indoor gallery displaying intricate carvings and artifacts from the Vijayanagara period.",
+                  "category": "museum",
+                  "coords": [
+                        76.472253,
+                        15.321674
+                  ]
+            },
+            {
+                  "name": "Archaelogical Museum",
+                  "text": "Houses a detailed scale model of the Hampi ruins along with stone sculptures and ancient coins.",
+                  "category": "museum",
+                  "coords": [
+                        76.477209,
+                        15.307375
+                  ]
+            },
+            {
+                  "name": "Photo Museum",
+                  "text": "A gallery showcasing historical photographs and sketches of Hampi's ruins from the 19th century.",
+                  "category": "museum",
+                  "coords": [
+                        76.466357,
+                        15.334071
+                  ]
+            },
+            {
+                  "name": "Vijaya Vitthala Temple",
+                  "text": "Famous for its iconic stone chariot and \"musical pillars\" that produce notes when tapped.",
+                  "category": "museum",
+                  "coords": [
+                        76.475493,
+                        15.342271
+                  ]
+            },
+            {
+                  "name": "Kinnereshwara",
+                  "text": "A historic temple site dedicated to Lord Shiva, featuring traditional Dravidian architectural elements.",
+                  "category": "historical",
+                  "coords": [
+                        76.533794,
+                        15.368246
+                  ]
+            },
+            {
+                  "name": "Sudha tirta",
+                  "text": "A sacred ritual water tank used by pilgrims for ceremonial bathing in the Hampi complex.",
+                  "category": "historical",
+                  "coords": [
+                        76.487883,
+                        15.406738
+                  ]
+            },
+            {
+                  "name": "Vaanibhadreshwara",
+                  "text": "A historic riverside shrine featuring typical Vijayanagara stone architecture and carvings.",
+                  "category": "historical",
+                  "coords": [
+                        76.487278,
+                        15.405745
+                  ]
+            },
+            {
+                  "name": "Sunkada Bagilu",
+                  "text": "An ancient \"Customs Gate\" that served as a key entrance through the city's fortified walls.",
+                  "category": "historical",
+                  "coords": [
+                        76.496615,
+                        15.362489
+                  ]
+            },
+            {
+                  "name": "Purandara Mandapa",
+                  "text": "A riverside pillared pavilion where the legendary composer Purandara Dasa wrote his devotional songs.",
+                  "category": "historical",
+                  "coords": [
+                        76.472437,
+                        15.341993
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "A ruined stone shrine at Hampi featuring typical Vijayanagara-style carvings on its pillars.",
+                  "category": "historical",
+                  "coords": [
+                        76.527083,
+                        15.282458
+                  ]
+            },
+            {
+                  "name": "Bhojanasala",
+                  "text": "An ancient community kitchen and dining hall with circular plates carved directly into the rock.",
+                  "category": "historical",
+                  "coords": [
+                        76.468633,
+                        15.313857
+                  ]
+            },
+            {
+                  "name": "Koteshankara Gateway",
+                  "text": "A monumental stone entrance that once formed part of the extensive defensive network of Hampi.",
+                  "category": "historical",
+                  "coords": [
+                        76.461727,
+                        15.319039
+                  ]
+            },
+            {
+                  "name": "Band Tower",
+                  "text": "A ruined stone tower located within the royal enclosure of Hampi.",
+                  "category": "historical",
+                  "coords": [
+                        76.467038,
+                        15.316926
+                  ]
+            },
+            {
+                  "name": "Guards' Barracks",
+                  "text": "Long arched structure once used to house the guards of the Vijayanagara palace.",
+                  "category": "historical",
+                  "coords": [
+                        76.46962,
+                        15.314921
+                  ]
+            },
+            {
+                  "name": "Underground Chamber",
+                  "text": "A secret underground council chamber used by the kings for private meetings.",
+                  "category": "historical",
+                  "coords": [
+                        76.469922,
+                        15.315909
+                  ]
+            },
+            {
+                  "name": "Stone Doors",
+                  "text": "Massive monolithic granite doors that once marked the entrance to the royal area.",
+                  "category": "historical",
+                  "coords": [
+                        76.470896,
+                        15.316461
+                  ]
+            },
+            {
+                  "name": "Horse Stables",
+                  "text": "Elegant domed stone chambers built to house the royal cavalry horses.",
+                  "category": "historical",
+                  "coords": [
+                        76.469756,
+                        15.317424
+                  ]
+            },
+            {
+                  "name": "Tenali Rama Pavilion",
+                  "text": "A small ruined pavilion named after the famous court poet and jester Tenali Rama.",
+                  "category": "historical",
+                  "coords": [
+                        76.469647,
+                        15.322477
+                  ]
+            },
+            {
+                  "name": "Ranga Temple",
+                  "text": "An ancient monument featuring stone pillars decorated with intricate religious carvings.",
+                  "category": "historical",
+                  "coords": [
+                        76.471883,
+                        15.31942
+                  ]
+            },
+            {
+                  "name": "Vaishnava temple",
+                  "text": "A historic temple dedicated to Lord Vishnu, featuring depictions of his various incarnations.",
+                  "category": "historical",
+                  "coords": [
+                        76.474329,
+                        15.320951
+                  ]
+            },
+            {
+                  "name": "Shringarada hebbagilu",
+                  "text": "A grand ornamental gateway that served as the main entrance to the fortified city.",
+                  "category": "historical",
+                  "coords": [
+                        76.476345,
+                        15.32222
+                  ]
+            },
+            {
+                  "name": "Somavarada hebbagilu",
+                  "text": "A historic gateway through which royal processions traditionally passed on Mondays.",
+                  "category": "historical",
+                  "coords": [
+                        76.477716,
+                        15.319264
+                  ]
+            },
+            {
+                  "name": "Palace Ruins (possibly an ancient guest house)",
+                  "text": "Archaeological foundations of a large stone structure, possibly used as a royal guest house.",
+                  "category": "historical",
+                  "coords": [
+                        76.474894,
+                        15.317415
+                  ]
+            },
+            {
+                  "name": "Naddkall Durgamma Temple",
+                  "text": "A small temple dedicated to the local goddess Durgamma, located amidst the ruins.",
+                  "category": "historical",
+                  "coords": [
+                        76.478784,
+                        15.318231
+                  ]
+            },
+            {
+                  "name": "Jain temple",
+                  "text": "A 14th-century Jain temple featuring a distinct stepped pyramid-style roof.",
+                  "category": "historical",
+                  "coords": [
+                        76.481212,
+                        15.326171
+                  ]
+            },
+            {
+                  "name": "Raghunatha Temple",
+                  "text": "A hill-top temple surrounded by massive boulders, dedicated to Lord Rama.",
+                  "category": "historical",
+                  "coords": [
+                        76.48781,
+                        15.324517
+                  ]
+            },
+            {
+                  "name": "Ruined Temple",
+                  "text": "Archaeological site containing scattered stone pillars and remains of a collapsed temple.",
+                  "category": "historical",
+                  "coords": [
+                        76.470363,
+                        15.334773
+                  ]
+            },
+            {
+                  "name": "Small Temple (no-named)",
+                  "text": "A small, nameless stone shrine showcasing the minimalist architectural style of the era.",
+                  "category": "historical",
+                  "coords": [
+                        76.471244,
+                        15.332239
+                  ]
+            },
+            {
+                  "name": "Chakra Tirtha",
+                  "text": "A sacred bathing ghat located at a scenic bend of the Tungabhadra River.",
+                  "category": "historical",
+                  "coords": [
+                        76.467847,
+                        15.336179
+                  ]
+            },
+            {
+                  "name": "Mula Virupaksha",
+                  "text": "The original site of the Virupaksha temple, considered one of the oldest in the region.",
+                  "category": "historical",
+                  "coords": [
+                        76.459661,
+                        15.333238
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "IN-KA",
     coords: [76.46, 15.335],
@@ -52,7 +1249,124 @@ export const poiExtraIndiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "in-ajanta-caves-history-v2",
+    id: "in-ajanta-caves-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rudreshwar caves",
+                  "text": "Alte, in den Fels gehauene Höhlen in der Nähe des Ajanta-Komplexes, die mit buddhistischen Traditionen verbunden sind.",
+                  "category": "landmark",
+                  "coords": [
+                        75.644752,
+                        20.557793
+                  ]
+            },
+            {
+                  "name": "Ajanta Caves",
+                  "text": "Diese UNESCO-Welterbestätte umfasst 30 buddhistische, in den Fels gehauene Höhlenmonumente aus dem 2. Jahrhundert v. Chr.",
+                  "category": "landmark",
+                  "coords": [
+                        75.700641,
+                        20.552609
+                  ]
+            },
+            {
+                  "name": "Baitulwadi Kila",
+                  "text": "Eine historische Bergfestung in der Nähe von Ajanta, die weite Ausblicke über die umliegende Dekkan-Landschaft bietet.",
+                  "category": "fortress",
+                  "coords": [
+                        75.621631,
+                        20.554363
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rudreshwar caves",
+                  "text": "Az Adzsanta-komplexum közelében található ősi, sziklába vájt barlangok, amelyek buddhista hagyományokhoz kötődnek.",
+                  "category": "landmark",
+                  "coords": [
+                        75.644752,
+                        20.557793
+                  ]
+            },
+            {
+                  "name": "Ajanta Caves",
+                  "text": "Ez az UNESCO világörökségi helyszín 30 buddhista, sziklába vájt barlangmonumentumot foglal magában az i. e. 2. századból.",
+                  "category": "landmark",
+                  "coords": [
+                        75.700641,
+                        20.552609
+                  ]
+            },
+            {
+                  "name": "Baitulwadi Kila",
+                  "text": "Történelmi hegyi erőd Adzsanta közelében, amely széles kilátást nyújt a környező Dekkán-fennsíkra.",
+                  "category": "fortress",
+                  "coords": [
+                        75.621631,
+                        20.554363
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rudreshwar caves",
+                  "text": "Vechile peșteri săpate în stâncă lângă complexul Ajanta, asociate cu tradițiile budiste.",
+                  "category": "landmark",
+                  "coords": [
+                        75.644752,
+                        20.557793
+                  ]
+            },
+            {
+                  "name": "Ajanta Caves",
+                  "text": "Acest sit din patrimoniul mondial UNESCO cuprinde 30 de monumente budiste în peșteri săpate în stâncă, datând din secolul al II-lea î.Hr.",
+                  "category": "landmark",
+                  "coords": [
+                        75.700641,
+                        20.552609
+                  ]
+            },
+            {
+                  "name": "Baitulwadi Kila",
+                  "text": "O fortăreață istorică pe deal lângă Ajanta, oferind vederi largi asupra peisajului înconjurător din Deccan.",
+                  "category": "fortress",
+                  "coords": [
+                        75.621631,
+                        20.554363
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rudreshwar caves",
+                  "text": "Ancient rock-cut caves located near the Ajanta complex, associated with Buddhist traditions.",
+                  "category": "landmark",
+                  "coords": [
+                        75.644752,
+                        20.557793
+                  ]
+            },
+            {
+                  "name": "Ajanta Caves",
+                  "text": "This UNESCO World Heritage site comprises 30 Buddhist rock-cut cave monuments dating from the 2nd century BCE.",
+                  "category": "landmark",
+                  "coords": [
+                        75.700641,
+                        20.552609
+                  ]
+            },
+            {
+                  "name": "Baitulwadi Kila",
+                  "text": "A historic hill fort near Ajanta offering wide views over the surrounding Deccan landscape.",
+                  "category": "fortress",
+                  "coords": [
+                        75.621631,
+                        20.554363
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "IN-MH",
     coords: [75.703, 20.552],
@@ -100,7 +1414,556 @@ export const poiExtraIndiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "in-ellora-caves-history-v2",
+    id: "in-ellora-caves-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Daulatabad Fort",
+                  "text": "Diese massive Festung auf einem Hügel verfügt über ein komplexes Verteidigungssystem mit einem tiefen Graben.",
+                  "category": "fortress",
+                  "coords": [
+                        75.212702,
+                        19.942468
+                  ]
+            },
+            {
+                  "name": "Chwnd Minar",
+                  "text": "Dieser 64 Meter hohe Siegesturm aus dem Jahr 1445 besticht durch seine leuchtend ockerfarbene Fassade.",
+                  "category": "tower",
+                  "coords": [
+                        75.217434,
+                        19.944447
+                  ]
+            },
+            {
+                  "name": "Ellora caves",
+                  "text": "Diese UNESCO-Welterbestätte umfasst 34 aus dem Fels gehauene Tempel der buddhistischen, hinduistischen und Jain-Tradition.",
+                  "category": "landmark",
+                  "coords": [
+                        75.176719,
+                        20.028086
+                  ]
+            },
+            {
+                  "name": "Kailasa Temple",
+                  "text": "Dieses architektonische Wunderwerk ist das weltweit größte monolithische Bauwerk, das aus einer einzigen Felswand gehauen wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        75.179341,
+                        20.023747
+                  ]
+            },
+            {
+                  "name": "Ghrishneshwar Mandir",
+                  "text": "Dieser heilige Hindutempel beherbergt einen der zwölf verehrten Jyotirlingas des Gottes Shiva.",
+                  "category": "religious",
+                  "coords": [
+                        75.169794,
+                        20.024923
+                  ]
+            },
+            {
+                  "name": "Cave 17",
+                  "text": "Dieser hinduistische Höhlentempel aus dem 7. Jahrhundert verfügt über eine geräumige Halle mit kunstvoll geschnitzten Säulen.",
+                  "category": "historical",
+                  "coords": [
+                        75.178242,
+                        20.0252
+                  ]
+            },
+            {
+                  "name": "Telika Ghana",
+                  "text": "Diese historische Steinölmühle in der Nähe der Höhlen spiegelt die alten Industriepraktiken der Region wider.",
+                  "category": "historical",
+                  "coords": [
+                        75.177477,
+                        20.026563
+                  ]
+            },
+            {
+                  "name": "dabagav roade",
+                  "text": "Diese lokale Kultstätte an der Straße zu den Höhlen ist traditionellen Dorfgottheiten gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        75.111736,
+                        20.083984
+                  ]
+            },
+            {
+                  "name": "Cave 2",
+                  "text": "Diese große buddhistische Klosterhöhle verfügt über zwölf massive Säulen und eine sitzende Buddha-Statue.",
+                  "category": "landmark",
+                  "coords": [
+                        75.179561,
+                        20.020089
+                  ]
+            },
+            {
+                  "name": "Cave 11",
+                  "text": "Diese beeindruckende dreistöckige buddhistische Höhle, bekannt als Do Thal, diente als klösterlicher Wohnsitz.",
+                  "category": "landmark",
+                  "coords": [
+                        75.179637,
+                        20.021334
+                  ]
+            },
+            {
+                  "name": "Ravan Ki Khai",
+                  "text": "Diese hinduistische Höhle ist berühmt für ihre großen Reliefplatten, die Szenen aus dem Ramayana darstellen.",
+                  "category": "landmark",
+                  "coords": [
+                        75.179256,
+                        20.022367
+                  ]
+            },
+            {
+                  "name": "Chhota Kailash",
+                  "text": "Dieser Jain-Tempel wurde als verkleinerte Nachahmung des berühmten hinduistischen Kailasa-Tempels entworfen.",
+                  "category": "landmark",
+                  "coords": [
+                        75.175597,
+                        20.032316
+                  ]
+            },
+            {
+                  "name": "Jain group",
+                  "text": "Diese Gruppe ist bekannt für ihre äußerst detaillierten und feinen Schnitzereien der Jain-Tirthankaras.",
+                  "category": "landmark",
+                  "coords": [
+                        75.173883,
+                        20.033035
+                  ]
+            },
+            {
+                  "name": "Bhadra maruti mandir",
+                  "text": "Dieser einzigartige Tempel beherbergt eine seltene liegende Statue des Affengottes Hanuman.",
+                  "category": "landmark",
+                  "coords": [
+                        75.195673,
+                        20.009813
+                  ]
+            },
+            {
+                  "name": "Tomb of Sufi Saint Bahar-ud-din",
+                  "text": "Dieses historische islamische Grabmal befindet sich im nahe gelegenen „Tal der Heiligen“.",
+                  "category": "landmark",
+                  "coords": [
+                        75.191474,
+                        20.005113
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Daulatabad Fort",
+                  "text": "Ez a hatalmas hegyi erődítmény összetett védelmi rendszerrel és mély vizesárokkal rendelkezik.",
+                  "category": "fortress",
+                  "coords": [
+                        75.212702,
+                        19.942468
+                  ]
+            },
+            {
+                  "name": "Chwnd Minar",
+                  "text": "Ez az 1445-ben épült, 64 méter magas győzelmi torony élénk okkersárga színével tűnik ki az erődben.",
+                  "category": "tower",
+                  "coords": [
+                        75.217434,
+                        19.944447
+                  ]
+            },
+            {
+                  "name": "Ellora caves",
+                  "text": "Ez az UNESCO világörökségi helyszín 34 sziklába vájt buddhista, hindu és dzsain templomot foglal magában.",
+                  "category": "landmark",
+                  "coords": [
+                        75.176719,
+                        20.028086
+                  ]
+            },
+            {
+                  "name": "Kailasa Temple",
+                  "text": "Ez az építészeti csoda a világ legnagyobb monolit építménye, amelyet egyetlen sziklafalból faragtak ki.",
+                  "category": "landmark",
+                  "coords": [
+                        75.179341,
+                        20.023747
+                  ]
+            },
+            {
+                  "name": "Ghrishneshwar Mandir",
+                  "text": "Ez a szent hindu templom ad otthont Shiva isten tizenkét tisztelt Jyotirlingájának egyike számára.",
+                  "category": "religious",
+                  "coords": [
+                        75.169794,
+                        20.024923
+                  ]
+            },
+            {
+                  "name": "Cave 17",
+                  "text": "Ez a 7. századi hindu barlangtemplom tágas csarnokkal és művészien faragott oszlopokkal rendelkezik.",
+                  "category": "historical",
+                  "coords": [
+                        75.178242,
+                        20.0252
+                  ]
+            },
+            {
+                  "name": "Telika Ghana",
+                  "text": "Ez a barlangok közelében található történelmi kőolajütő a régió ősi ipari gyakorlatát tükrözi.",
+                  "category": "historical",
+                  "coords": [
+                        75.177477,
+                        20.026563
+                  ]
+            },
+            {
+                  "name": "dabagav roade",
+                  "text": "Ez a barlangokhoz vezető út mentén található helyi istentiszteleti hely a hagyományos falusi istenségeknek van szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        75.111736,
+                        20.083984
+                  ]
+            },
+            {
+                  "name": "Cave 2",
+                  "text": "Ez a hatalmas buddhista kolostorbarlang tizenkét masszív oszloppal és egy ülő Buddha-szoborral rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        75.179561,
+                        20.020089
+                  ]
+            },
+            {
+                  "name": "Cave 11",
+                  "text": "Ez a Do Thal néven ismert, lenyűgöző háromszintes buddhista barlang szerzetesi lakhelyként szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        75.179637,
+                        20.021334
+                  ]
+            },
+            {
+                  "name": "Ravan Ki Khai",
+                  "text": "Ez a hindu barlang a Rámájana jeleneteit ábrázoló hatalmas domborműveiről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        75.179256,
+                        20.022367
+                  ]
+            },
+            {
+                  "name": "Chhota Kailash",
+                  "text": "Ezt a dzsain templomot a híres hindu Kailasa-templom kisebb léptékű utánzataként tervezték.",
+                  "category": "landmark",
+                  "coords": [
+                        75.175597,
+                        20.032316
+                  ]
+            },
+            {
+                  "name": "Jain group",
+                  "text": "Ez a csoport a dzsain Tirthankarák rendkívül részletes és finom faragványairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        75.173883,
+                        20.033035
+                  ]
+            },
+            {
+                  "name": "Bhadra maruti mandir",
+                  "text": "Ez az egyedülálló templom a majomisten, Hanumán ritka, fekvő szobrát őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        75.195673,
+                        20.009813
+                  ]
+            },
+            {
+                  "name": "Tomb of Sufi Saint Bahar-ud-din",
+                  "text": "Ez a történelmi iszlám síremlék a közeli „Szentek Völgyében” található.",
+                  "category": "landmark",
+                  "coords": [
+                        75.191474,
+                        20.005113
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Daulatabad Fort",
+                  "text": "Această fortăreață masivă de pe deal dispune de un sistem defensiv complex, cu un șanț adânc.",
+                  "category": "fortress",
+                  "coords": [
+                        75.212702,
+                        19.942468
+                  ]
+            },
+            {
+                  "name": "Chwnd Minar",
+                  "text": "Acest turn al victoriei înalt de 64 de metri, construit în 1445, se remarcă prin culoarea sa ocru strălucitoare.",
+                  "category": "tower",
+                  "coords": [
+                        75.217434,
+                        19.944447
+                  ]
+            },
+            {
+                  "name": "Ellora caves",
+                  "text": "Acest sit din patrimoniul mondial UNESCO cuprinde 34 de temple săpate în stâncă din tradițiile budistă, hindusă și jainistă.",
+                  "category": "landmark",
+                  "coords": [
+                        75.176719,
+                        20.028086
+                  ]
+            },
+            {
+                  "name": "Kailasa Temple",
+                  "text": "Această minune arhitecturală este cea mai mare structură monolitică din lume, sculptată dintr-o singură stâncă.",
+                  "category": "landmark",
+                  "coords": [
+                        75.179341,
+                        20.023747
+                  ]
+            },
+            {
+                  "name": "Ghrishneshwar Mandir",
+                  "text": "Acest templu hindus sacru găzduiește unul dintre cei doisprezece Jyotirlingas venerați ai zeului Shiva.",
+                  "category": "religious",
+                  "coords": [
+                        75.169794,
+                        20.024923
+                  ]
+            },
+            {
+                  "name": "Cave 17",
+                  "text": "Acest templu hindus din peșteră din secolul al VII-lea are o sală spațioasă cu coloane sculptate complex.",
+                  "category": "historical",
+                  "coords": [
+                        75.178242,
+                        20.0252
+                  ]
+            },
+            {
+                  "name": "Telika Ghana",
+                  "text": "Această moară de ulei istorică din piatră de lângă peșteri reflectă vechile practici industriale din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        75.177477,
+                        20.026563
+                  ]
+            },
+            {
+                  "name": "dabagav roade",
+                  "text": "Acest loc local de cult de pe drumul spre peșteri este dedicat zeităților tradiționale ale satului.",
+                  "category": "religious",
+                  "coords": [
+                        75.111736,
+                        20.083984
+                  ]
+            },
+            {
+                  "name": "Cave 2",
+                  "text": "Această mare peșteră mănăstirească budistă are douăsprezece coloane masive și o statuie a lui Buddha așezat.",
+                  "category": "landmark",
+                  "coords": [
+                        75.179561,
+                        20.020089
+                  ]
+            },
+            {
+                  "name": "Cave 11",
+                  "text": "Cunoscută sub numele de Do Thal, această impresionantă peșteră budistă cu trei etaje a servit ca reședință monastică.",
+                  "category": "landmark",
+                  "coords": [
+                        75.179637,
+                        20.021334
+                  ]
+            },
+            {
+                  "name": "Ravan Ki Khai",
+                  "text": "Această peșteră hindusă este faimoasă pentru panourile sale mari în relief care înfățișează scene din Ramayana.",
+                  "category": "landmark",
+                  "coords": [
+                        75.179256,
+                        20.022367
+                  ]
+            },
+            {
+                  "name": "Chhota Kailash",
+                  "text": "Acest templu jainist a fost proiectat ca o imitație la scară mai mică a faimosului templu hindus Kailasa.",
+                  "category": "landmark",
+                  "coords": [
+                        75.175597,
+                        20.032316
+                  ]
+            },
+            {
+                  "name": "Jain group",
+                  "text": "Acest grup este renumit pentru sculpturile sale extrem de detaliate și fine ale Tirthankara-șilor jainiști.",
+                  "category": "landmark",
+                  "coords": [
+                        75.173883,
+                        20.033035
+                  ]
+            },
+            {
+                  "name": "Bhadra maruti mandir",
+                  "text": "Acest templu unic prezintă o statuie rară a zeului maimuță Hanuman într-o poziție culcată.",
+                  "category": "landmark",
+                  "coords": [
+                        75.195673,
+                        20.009813
+                  ]
+            },
+            {
+                  "name": "Tomb of Sufi Saint Bahar-ud-din",
+                  "text": "Acest mormânt islamic istoric se află în apropiere, în „Valea Sfinților”.",
+                  "category": "landmark",
+                  "coords": [
+                        75.191474,
+                        20.005113
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Daulatabad Fort",
+                  "text": "This massive hilltop fortress features a complex defense system with a deep moat and hidden passages.",
+                  "category": "fortress",
+                  "coords": [
+                        75.212702,
+                        19.942468
+                  ]
+            },
+            {
+                  "name": "Chand Minar",
+                  "text": "Built in 1445, this 64-meter-high victory tower is notable for its bright ochre color within the fort.",
+                  "category": "tower",
+                  "coords": [
+                        75.217434,
+                        19.944447
+                  ]
+            },
+            {
+                  "name": "Ellora caves",
+                  "text": "This UNESCO site consists of 34 rock-cut temples representing Buddhist, Hindu, and Jain traditions.",
+                  "category": "landmark",
+                  "coords": [
+                        75.176719,
+                        20.028086
+                  ]
+            },
+            {
+                  "name": "Kailasanath Temple",
+                  "text": "This architectural marvel is the world's largest monolithic structure, carved from a single rock face.",
+                  "category": "landmark",
+                  "coords": [
+                        75.179341,
+                        20.023747
+                  ]
+            },
+            {
+                  "name": "Ghrishneshwar Mandir",
+                  "text": "This sacred Hindu temple houses one of the twelve revered Jyotirlingas of Lord Shiva.",
+                  "category": "religious",
+                  "coords": [
+                        75.169794,
+                        20.024923
+                  ]
+            },
+            {
+                  "name": "Cave 17",
+                  "text": "This 7th-century Hindu cave temple features a spacious hall with intricately carved pillars and a lingam.",
+                  "category": "historical",
+                  "coords": [
+                        75.178242,
+                        20.0252
+                  ]
+            },
+            {
+                  "name": "Telika Ghana",
+                  "text": "This historic stone oil mill near the caves reflects the ancient industrial practices of the region.",
+                  "category": "historical",
+                  "coords": [
+                        75.177477,
+                        20.026563
+                  ]
+            },
+            {
+                  "name": "dabagav roade",
+                  "text": "This local place of worship along the road to the caves is dedicated to traditional village deities.",
+                  "category": "religious",
+                  "coords": [
+                        75.111736,
+                        20.083984
+                  ]
+            },
+            {
+                  "name": "Cave 2",
+                  "text": "This large Buddhist monastery cave features twelve massive columns and a seated Buddha statue.",
+                  "category": "landmark",
+                  "coords": [
+                        75.179561,
+                        20.020089
+                  ]
+            },
+            {
+                  "name": "Cave 11",
+                  "text": "Known as Do Thal, this impressive three-story Buddhist cave served as a monastic residence.",
+                  "category": "landmark",
+                  "coords": [
+                        75.179637,
+                        20.021334
+                  ]
+            },
+            {
+                  "name": "Ravan Ki Khai",
+                  "text": "This Hindu cave features large relief panels depicting scenes from the Ramayana and Vishnu's avatars.",
+                  "category": "landmark",
+                  "coords": [
+                        75.179256,
+                        20.022367
+                  ]
+            },
+            {
+                  "name": "Chhota Kailash",
+                  "text": "This Jain temple was designed as a smaller-scale imitation of the famous Hindu Kailasa temple.",
+                  "category": "landmark",
+                  "coords": [
+                        75.175597,
+                        20.032316
+                  ]
+            },
+            {
+                  "name": "Jain group",
+                  "text": "This group is renowned for its extremely detailed and fine carvings of Jain Tirthankaras.",
+                  "category": "landmark",
+                  "coords": [
+                        75.173883,
+                        20.033035
+                  ]
+            },
+            {
+                  "name": "Bhadra maruti mandir",
+                  "text": "This unique Hindu temple features a rare reclining statue of the monkey god Hanuman.",
+                  "category": "landmark",
+                  "coords": [
+                        75.195673,
+                        20.009813
+                  ]
+            },
+            {
+                  "name": "Tomb of Sufi Saint Bahar-ud-din",
+                  "text": "This historic Islamic tomb is located in the nearby Valley of Saints honoring a Sufi mystic.",
+                  "category": "landmark",
+                  "coords": [
+                        75.191474,
+                        20.005113
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "IN-MH",
     coords: [75.178, 20.025],
@@ -148,7 +2011,1276 @@ export const poiExtraIndiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "in-qutb-minar-history-v2",
+    id: "in-qutb-minar-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kiran Nadar Museum of Art",
+                  "text": "Indiens erstes privates Museum für moderne Kunst mit einer bedeutenden Sammlung zeitgenössischer südasiatischer Werke.",
+                  "category": "museum",
+                  "coords": [
+                        77.220374,
+                        28.528876
+                  ]
+            },
+            {
+                  "name": "Titus Museum",
+                  "text": "Ein privates Museum in Delhi, das eine beeindruckende Sammlung von Oldtimern und historischen Erinnerungsstücken ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        77.156633,
+                        28.456635
+                  ]
+            },
+            {
+                  "name": "Jahaz Mahal",
+                  "text": "Ein Monument aus der Lodi-Ära in Mehrauli, das wegen seiner Spiegelung im angrenzenden See als 'Schiffspalast' bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        77.178558,
+                        28.514372
+                  ]
+            },
+            {
+                  "name": "Jamali Kamali Tomb",
+                  "text": "Ein prächtiges Grabmal und eine Moschee aus rotem Sandstein aus dem 16. Jahrhundert, gewidmet dem Sufi-Dichter Jamali.",
+                  "category": "historical",
+                  "coords": [
+                        77.187176,
+                        28.519864
+                  ]
+            },
+            {
+                  "name": "Eiserne Säule",
+                  "text": "Eine 7 Meter hohe antike Säule aus der Gupta-Zeit, berühmt für ihre rostbeständige Eisenlegierung.",
+                  "category": "historical",
+                  "coords": [
+                        77.184965,
+                        28.524749
+                  ]
+            },
+            {
+                  "name": "Hauz Khas Complex",
+                  "text": "Mittelalterliche Ruinen aus der Khalji-Dynastie, die ein Wasserreservoir, eine Madrasa und prachtvolle Gräber umfassen.",
+                  "category": "historical",
+                  "coords": [
+                        77.193524,
+                        28.553201
+                  ]
+            },
+            {
+                  "name": "Qila Rai Pithora",
+                  "text": "Die erste befestigte Stadt von Delhi mit massiven Steinmauern aus dem 12. Jahrhundert, erbaut von Prithviraj Chauhan.",
+                  "category": "fortress",
+                  "coords": [
+                        77.193765,
+                        28.519644
+                  ]
+            },
+            {
+                  "name": "Tomb Of Balban",
+                  "text": "Dieses Grabmal aus dem 13. Jahrhundert ist architekturgeschichtlich bedeutend für den ersten echten Bogen in der indoislamischen Baukunst.",
+                  "category": "historical",
+                  "coords": [
+                        77.188786,
+                        28.519675
+                  ]
+            },
+            {
+                  "name": "Azim Khan's Tomb",
+                  "text": "Ein Grabmal aus der Mogulzeit, das auf einem kleinen Hügel thront und einen weiten Blick über die Straße bietet.",
+                  "category": "historical",
+                  "coords": [
+                        77.190542,
+                        28.521778
+                  ]
+            },
+            {
+                  "name": "Mehrauli Archaeological Park",
+                  "text": "Ein über 80 Hektar großer Park, der mehr als 100 historische Denkmäler aus verschiedenen Dynastien beherbergt.",
+                  "category": "historical",
+                  "coords": [
+                        77.186053,
+                        28.520642
+                  ]
+            },
+            {
+                  "name": "Adham Khan's Tomb",
+                  "text": "Ein achteckiges Grabmal aus dem 16. Jahrhundert, das wegen seiner vielen Gänge im Inneren auch als Irrgarten bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        77.181955,
+                        28.523066
+                  ]
+            },
+            {
+                  "name": "Yogmaya Temple",
+                  "text": "Ein antiker Hindu-Tempel, der der Schwester von Krishna gewidmet ist und das Zentrum des Phool-Walon-Ki-Sair-Festivals bildet.",
+                  "category": "religious",
+                  "coords": [
+                        77.182218,
+                        28.525702
+                  ]
+            },
+            {
+                  "name": "Moti Masjid",
+                  "text": "Eine kleine Moschee aus weißem Marmor, die sich innerhalb des religiösen Komplexes von Qutbuddin Bakhtiar Kaki befindet.",
+                  "category": "religious",
+                  "coords": [
+                        77.180127,
+                        28.519159
+                  ]
+            },
+            {
+                  "name": "St. Mary Orthodox Cathedral",
+                  "text": "Eine bedeutende orthodoxe Kirche der syrisch-malankarischen Gemeinde im Stadtteil Hauz Khas.",
+                  "category": "religious",
+                  "coords": [
+                        77.200435,
+                        28.550252
+                  ]
+            },
+            {
+                  "name": "Jagannath Temple",
+                  "text": "Ein Tempel aus weißem Stein, der dem Original in Puri nachempfunden ist und ein Zentrum für die Odia-Gemeinde bildet.",
+                  "category": "religious",
+                  "coords": [
+                        77.199958,
+                        28.553346
+                  ]
+            },
+            {
+                  "name": "Siri Fort Auditorium",
+                  "text": "Ein großes staatliches Kulturzentrum und Theater, das in der Nähe der Ruinen der Siri-Festung aus dem 14. Jahrhundert liegt.",
+                  "category": "cultural",
+                  "coords": [
+                        77.213178,
+                        28.553056
+                  ]
+            },
+            {
+                  "name": "Qutub Minar Complex",
+                  "text": "Eine UNESCO-Stätte mit der berühmten Eisensäule und Ruinen der ersten muslimischen Bauwerke in Indien.",
+                  "category": "landmark",
+                  "coords": [
+                        77.185937,
+                        28.52467
+                  ]
+            },
+            {
+                  "name": "Chor Minar",
+                  "text": "Ein Turm aus dem 13. Jahrhundert mit 225 Löchern, in denen einst die Köpfe hingerichteter Diebe zur Schau gestellt wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        77.205641,
+                        28.547684
+                  ]
+            },
+            {
+                  "name": "Khirki Masjid",
+                  "text": "Eine ungewöhnliche, festungsähnliche Moschee mit überdachten Höfen und 81 kleinen Kuppeln auf dem Dach.",
+                  "category": "landmark",
+                  "coords": [
+                        77.219747,
+                        28.531464
+                  ]
+            },
+            {
+                  "name": "Lal Kot",
+                  "text": "Die ursprüngliche Zitadelle der ersten Stadt von Delhi, erkennbar an ihren massiven, verwitterten Steinwällen.",
+                  "category": "castle",
+                  "coords": [
+                        77.181359,
+                        28.527653
+                  ]
+            },
+            {
+                  "name": "ASI Children's Museum",
+                  "text": "Ein Museum für Kinder, das Nachbildungen berühmter indischer Skulpturen und archäologische Exponate zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        77.215125,
+                        28.552487
+                  ]
+            },
+            {
+                  "name": "Munda Gumbad",
+                  "text": "Ein schlichtes Kuppelgebäude aus der Tughlaq-Zeit im Stadtteil Hauz Khas, das durch seine fehlenden Verzierungen auffällt.",
+                  "category": "historical",
+                  "coords": [
+                        77.191705,
+                        28.556616
+                  ]
+            },
+            {
+                  "name": "Neela Gumbad",
+                  "text": "Ein Grabmal aus der Lodi-Zeit im Green-Park-Viertel, das eine imposante zentrale Kuppel aufweist.",
+                  "category": "historical",
+                  "coords": [
+                        77.202926,
+                        28.555515
+                  ]
+            },
+            {
+                  "name": "Sakri Gumti",
+                  "text": "Ein kleines, schmales Torhaus aus der Lodi-Dynastie mit einer einzigen Kuppel im Viertel Hauz Khas.",
+                  "category": "historical",
+                  "coords": [
+                        77.201306,
+                        28.553369
+                  ]
+            },
+            {
+                  "name": "Deer Park",
+                  "text": "Eine grüne Oase in Hauz Khas mit einem See, Wanderwegen und einer großen Herde Axishirsche.",
+                  "category": "park",
+                  "coords": [
+                        77.193997,
+                        28.556592
+                  ]
+            },
+            {
+                  "name": "The Garden of Five Senses",
+                  "text": "Ein 20 Hektar großer Landschaftspark, der mit Skulpturen, Blumen und Düften alle fünf Sinne anspricht.",
+                  "category": "park",
+                  "coords": [
+                        77.198361,
+                        28.513413
+                  ]
+            },
+            {
+                  "name": "Dhoomimal Art Gallery",
+                  "text": "Eine der ältesten Galerien Indiens für zeitgenössische Kunst, die Werke bedeutender indischer Meister zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        77.143272,
+                        28.491623
+                  ]
+            },
+            {
+                  "name": "OPS",
+                  "text": "Ein moderner Kunstraum in Süd-Delhi, der sich auf zeitgenössische Fotografie und visuelle Experimente konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        77.215579,
+                        28.54854
+                  ]
+            },
+            {
+                  "name": "Lokayata Art Gallery",
+                  "text": "Ein Gemeinschaftszentrum in Hauz Khas Village, das volkstümliche und traditionelle indische Handwerkskunst fördert.",
+                  "category": "museum",
+                  "coords": [
+                        77.195442,
+                        28.554946
+                  ]
+            },
+            {
+                  "name": "Air Force Museum",
+                  "text": "Dieses Museum am Flughafen Palam zeigt eine Sammlung historischer Flugzeuge, Uniformen und Orden der indischen Luftwaffe.",
+                  "category": "museum",
+                  "coords": [
+                        77.116901,
+                        28.574227
+                  ]
+            },
+            {
+                  "name": "Gumti",
+                  "text": "Ein typisches kuppelgekröntes Grabmal aus der Lodi-Zeit, wie sie überall im archäologischen Gebiet von Mehrauli zu finden sind.",
+                  "category": "historical",
+                  "coords": [
+                        77.187942,
+                        28.518722
+                  ]
+            },
+            {
+                  "name": "Chaumukha Darwaza",
+                  "text": "Ein historisches vierseitiges Tor innerhalb der alten Festungsmauern von Lal Kot.",
+                  "category": "historical",
+                  "coords": [
+                        77.187442,
+                        28.523472
+                  ]
+            },
+            {
+                  "name": "Anangtal",
+                  "text": "Ein historischer Stufenbrunnen oder Wassertank aus dem 11. Jahrhundert, erbaut von Anangpal Tomar, dem Gründer von Delhi.",
+                  "category": "historical",
+                  "coords": [
+                        77.183268,
+                        28.527234
+                  ]
+            },
+            {
+                  "name": "Gateway Guest House (Metcalfe's Retreat)",
+                  "text": "Ein britisches Gebäude aus dem 19. Jahrhundert, das um ein älteres Mogul-Grab als Sommerhaus errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        77.186312,
+                        28.523042
+                  ]
+            },
+            {
+                  "name": "Tombs",
+                  "text": "Eine Gruppe vielfältiger Grabstätten aus der Zeit des Sultanats und der Moguln im Mehrauli-Park.",
+                  "category": "historical",
+                  "coords": [
+                        77.183284,
+                        28.521012
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kiran Nadar Museum of Art",
+                  "text": "India első magán modern művészeti múzeuma, kortárs dél-ázsiai alkotások jelentős gyűjteményével.",
+                  "category": "museum",
+                  "coords": [
+                        77.220374,
+                        28.528876
+                  ]
+            },
+            {
+                  "name": "Titus Museum",
+                  "text": "Magánmúzeum Delhiben, amely veterán autók és történelmi emléktárgyak lenyűgöző gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        77.156633,
+                        28.456635
+                  ]
+            },
+            {
+                  "name": "Jahaz Mahal",
+                  "text": "Lodi-korszakbeli műemlék Mehrauli-ban, amelyet a szomszédos tóban való tükröződése miatt „Hajópalotaként” ismernek.",
+                  "category": "historical",
+                  "coords": [
+                        77.178558,
+                        28.514372
+                  ]
+            },
+            {
+                  "name": "Jamali Kamali Tomb",
+                  "text": "Pompás, 16. századi vörös homokkő síremlék és mecset, amelyet Jamali szúfi költőnek szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        77.187176,
+                        28.519864
+                  ]
+            },
+            {
+                  "name": "Iron Pillar",
+                  "text": "7 méter magas antik oszlop a Gupta-korszakból, amely rozsdaálló vasötvözetéről híres.",
+                  "category": "historical",
+                  "coords": [
+                        77.184965,
+                        28.524749
+                  ]
+            },
+            {
+                  "name": "Hauz Khas Complex",
+                  "text": "Középkori romok a Khalji-dinasztia idejéből, amelyek víztározót, medreszét és pompás sírokat foglalnak magukban.",
+                  "category": "historical",
+                  "coords": [
+                        77.193524,
+                        28.553201
+                  ]
+            },
+            {
+                  "name": "Qila Rai Pithora",
+                  "text": "Delhi első erődített városa masszív, 12. századi kőfalakkal, melyeket Prithviraj Chauhan építtetett.",
+                  "category": "fortress",
+                  "coords": [
+                        77.193765,
+                        28.519644
+                  ]
+            },
+            {
+                  "name": "Tomb Of Balban",
+                  "text": "Ez a 13. századi síremlék az indo-iszlám építészet első valódi boltíve miatt kiemelkedő jelentőségű.",
+                  "category": "historical",
+                  "coords": [
+                        77.188786,
+                        28.519675
+                  ]
+            },
+            {
+                  "name": "Azim Khan's Tomb",
+                  "text": "Egy mogul korszakból származó síremlék, amely egy kis dombon állva tekint az alatta lévő útra.",
+                  "category": "historical",
+                  "coords": [
+                        77.190542,
+                        28.521778
+                  ]
+            },
+            {
+                  "name": "Mehrauli Archaeological Park",
+                  "text": "Egy több mint 80 hektáros park, amely több mint 100 történelmi műemléket őriz különböző dinasztiák idejéből.",
+                  "category": "historical",
+                  "coords": [
+                        77.186053,
+                        28.520642
+                  ]
+            },
+            {
+                  "name": "Adham Khan's Tomb",
+                  "text": "Egy 16. századi nyolcszögletű síremlék, amely belső folyosói miatt „útvesztőként” is ismert.",
+                  "category": "historical",
+                  "coords": [
+                        77.181955,
+                        28.523066
+                  ]
+            },
+            {
+                  "name": "Yogmaya Temple",
+                  "text": "Ősi hindu templom Krishna nővérének szentelve, amely a Phool Walon Ki Sair fesztivál központja.",
+                  "category": "religious",
+                  "coords": [
+                        77.182218,
+                        28.525702
+                  ]
+            },
+            {
+                  "name": "Moti Masjid",
+                  "text": "Egy kisméretű fehér márvány mecset Qutbuddin Bakhtiar Kaki vallási komplexumán belül.",
+                  "category": "religious",
+                  "coords": [
+                        77.180127,
+                        28.519159
+                  ]
+            },
+            {
+                  "name": "St. Mary Orthodox Cathedral",
+                  "text": "A malankara ortodox szír közösség jelentős temploma Hauz Khas negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        77.200435,
+                        28.550252
+                  ]
+            },
+            {
+                  "name": "Jagannath Temple",
+                  "text": "Fehér kőtemplom a puri templom mintájára, amely az odia közösség fontos központja.",
+                  "category": "religious",
+                  "coords": [
+                        77.199958,
+                        28.553346
+                  ]
+            },
+            {
+                  "name": "Siri Fort Auditorium",
+                  "text": "Hatalmas állami kulturális központ és színház, amely a 14. századi Siri-erőd romjai mellett található.",
+                  "category": "cultural",
+                  "coords": [
+                        77.213178,
+                        28.553056
+                  ]
+            },
+            {
+                  "name": "Qutub Minar Complex",
+                  "text": "UNESCO Világörökségi helyszín a híres vasoszloppal és India első muszlim építményeinek romjaival.",
+                  "category": "landmark",
+                  "coords": [
+                        77.185937,
+                        28.52467
+                  ]
+            },
+            {
+                  "name": "Chor Minar",
+                  "text": "Egy 13. századi torony 225 lyukkal, melyekben egykor a kivégzett tolvajok fejét állították ki közszemlére.",
+                  "category": "landmark",
+                  "coords": [
+                        77.205641,
+                        28.547684
+                  ]
+            },
+            {
+                  "name": "Khirki Masjid",
+                  "text": "Szokatlan, erődszerű mecset fedett udvarokkal és 81 kis kupolával a tetején.",
+                  "category": "landmark",
+                  "coords": [
+                        77.219747,
+                        28.531464
+                  ]
+            },
+            {
+                  "name": "Lal Kot",
+                  "text": "Delhi első városának eredeti citadellája, amely masszív, málló kőfalaival emelkedik ki.",
+                  "category": "castle",
+                  "coords": [
+                        77.181359,
+                        28.527653
+                  ]
+            },
+            {
+                  "name": "ASI Children's Museum",
+                  "text": "Gyermekmúzeum, amely híres indiai szobrok másolatait és régészeti kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        77.215125,
+                        28.552487
+                  ]
+            },
+            {
+                  "name": "Munda Gumbad",
+                  "text": "Egyszerű, kupolás épület a Tughlaq-korszakból Hauz Khas negyedében, amely dísztelen külsejéről nevezetes.",
+                  "category": "historical",
+                  "coords": [
+                        77.191705,
+                        28.556616
+                  ]
+            },
+            {
+                  "name": "Neela Gumbad",
+                  "text": "Lodi-korszakból származó síremlék a Green Park környékén, amely impozáns központi kupolával rendelkezik.",
+                  "category": "historical",
+                  "coords": [
+                        77.202926,
+                        28.555515
+                  ]
+            },
+            {
+                  "name": "Sakri Gumti",
+                  "text": "Kisméretű, keskeny Lodi-dinasztia korabeli kapuépítmény egyetlen kupolával Hauz Khas negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        77.201306,
+                        28.553369
+                  ]
+            },
+            {
+                  "name": "Deer Park",
+                  "text": "Zöld oázis Hauz Khas szívében tóval, sétautakkal és egy nagy csorda pettyes szarvassal.",
+                  "category": "park",
+                  "coords": [
+                        77.193997,
+                        28.556592
+                  ]
+            },
+            {
+                  "name": "The Garden of Five Senses",
+                  "text": "Egy 20 hektáros tájpark, amelyet szobrokkal, virágokkal és illatokkal terveztek mind az öt érzékszerv ösztönzésére.",
+                  "category": "park",
+                  "coords": [
+                        77.198361,
+                        28.513413
+                  ]
+            },
+            {
+                  "name": "Dhoomimal Art Gallery",
+                  "text": "India egyik legrégebbi kortárs művészeti galériája, amely neves indiai mesterek munkáit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        77.143272,
+                        28.491623
+                  ]
+            },
+            {
+                  "name": "OPS",
+                  "text": "Dél-Delhi modern művészeti tere, amely a kortárs fotográfiára és vizuális kísérletekre összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        77.215579,
+                        28.54854
+                  ]
+            },
+            {
+                  "name": "Lokayata Art Gallery",
+                  "text": "Közösségi művészeti központ Hauz Khas Village-ben, amely a népi és hagyományos indiai kézművességet népszerűsíti.",
+                  "category": "museum",
+                  "coords": [
+                        77.195442,
+                        28.554946
+                  ]
+            },
+            {
+                  "name": "Air Force Museum",
+                  "text": "A Palam repülőtérnél található múzeum történelmi repülőgépek, egyenruhák és kitüntetések gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        77.116901,
+                        28.574227
+                  ]
+            },
+            {
+                  "name": "Gumti",
+                  "text": "Jellegzetes kupolás síremlék a Lodi-korszakból, amilyenből számos található a Mehrauli régészeti területen.",
+                  "category": "historical",
+                  "coords": [
+                        77.187942,
+                        28.518722
+                  ]
+            },
+            {
+                  "name": "Chaumukha Darwaza",
+                  "text": "Történelmi, négyoldalú kapu Lal Kot ősi várfalain belül.",
+                  "category": "historical",
+                  "coords": [
+                        77.187442,
+                        28.523472
+                  ]
+            },
+            {
+                  "name": "Anangtal",
+                  "text": "11. századi történelmi lépcsős kút vagy víztározó, melyet Delhi alapítója, Anangpal Tomar építtetett.",
+                  "category": "historical",
+                  "coords": [
+                        77.183268,
+                        28.527234
+                  ]
+            },
+            {
+                  "name": "Gateway Guest House (Metcalfe's Retreat)",
+                  "text": "19. századi brit épület, amelyet egy korábbi mogul sír köré építettek nyári lakként.",
+                  "category": "historical",
+                  "coords": [
+                        77.186312,
+                        28.523042
+                  ]
+            },
+            {
+                  "name": "Tombs",
+                  "text": "A szultanátus és a mogul korszak változatos síremlékeinek csoportja a Mehrauli parkban.",
+                  "category": "historical",
+                  "coords": [
+                        77.183284,
+                        28.521012
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kiran Nadar Museum of Art",
+                  "text": "Primul muzeu privat de artă modernă din India, cu o colecție semnificativă de lucrări contemporane din Asia de Sud.",
+                  "category": "museum",
+                  "coords": [
+                        77.220374,
+                        28.528876
+                  ]
+            },
+            {
+                  "name": "Titus Museum",
+                  "text": "Un muzeu privat din Delhi care expune o colecție impresionantă de mașini de epocă și suveniruri istorice.",
+                  "category": "museum",
+                  "coords": [
+                        77.156633,
+                        28.456635
+                  ]
+            },
+            {
+                  "name": "Jahaz Mahal",
+                  "text": "Un monument din epoca Lodi în Mehrauli, cunoscut sub numele de „Palatul Navă” datorită reflexiei sale în lacul adiacent.",
+                  "category": "historical",
+                  "coords": [
+                        77.178558,
+                        28.514372
+                  ]
+            },
+            {
+                  "name": "Jamali Kamali Tomb",
+                  "text": "Un mormânt și o moschee magnifice din gresie roșie din secolul al XVI-lea, dedicate poetului sufit Jamali.",
+                  "category": "historical",
+                  "coords": [
+                        77.187176,
+                        28.519864
+                  ]
+            },
+            {
+                  "name": "Iron Pillar",
+                  "text": "O coloană antică de 7 metri înălțime din perioada Gupta, faimoasă pentru compoziția sa de fier rezistentă la rugină.",
+                  "category": "historical",
+                  "coords": [
+                        77.184965,
+                        28.524749
+                  ]
+            },
+            {
+                  "name": "Hauz Khas Complex",
+                  "text": "Ruine medievale din dinastia Khalji, cuprinzând un rezervor de apă, o madrasa și morminte magnifice.",
+                  "category": "historical",
+                  "coords": [
+                        77.193524,
+                        28.553201
+                  ]
+            },
+            {
+                  "name": "Qila Rai Pithora",
+                  "text": "Prima cetate fortificată din Delhi, cu ziduri masive de piatră din secolul al XII-lea construite de Prithviraj Chauhan.",
+                  "category": "fortress",
+                  "coords": [
+                        77.193765,
+                        28.519644
+                  ]
+            },
+            {
+                  "name": "Tomb Of Balban",
+                  "text": "Acest monument din secolul al XIII-lea este semnificativ pentru găzduirea primului arc adevărat din arhitectura indo-islamică.",
+                  "category": "historical",
+                  "coords": [
+                        77.188786,
+                        28.519675
+                  ]
+            },
+            {
+                  "name": "Azim Khan's Tomb",
+                  "text": "Un mormânt din epoca mogulă cocoțat pe un mic dâmb, oferind o vedere panoramică asupra drumului.",
+                  "category": "historical",
+                  "coords": [
+                        77.190542,
+                        28.521778
+                  ]
+            },
+            {
+                  "name": "Mehrauli Archaeological Park",
+                  "text": "Un parc de peste 80 de hectare care adăpostește peste 100 de monumente istorice din diverse dinastii.",
+                  "category": "historical",
+                  "coords": [
+                        77.186053,
+                        28.520642
+                  ]
+            },
+            {
+                  "name": "Adham Khan's Tomb",
+                  "text": "Un mormânt octogonal din secolul al XVI-lea, cunoscut sub numele de labirint datorită coridoarelor sale interioare.",
+                  "category": "historical",
+                  "coords": [
+                        77.181955,
+                        28.523066
+                  ]
+            },
+            {
+                  "name": "Yogmaya Temple",
+                  "text": "Un templu hindu antic dedicat surorii lui Krishna, fiind punctul central al festivalului Phool Walon Ki Sair.",
+                  "category": "religious",
+                  "coords": [
+                        77.182218,
+                        28.525702
+                  ]
+            },
+            {
+                  "name": "Moti Masjid",
+                  "text": "O mică moschee din marmură albă situată în cadrul complexului religios al lui Qutbuddin Bakhtiar Kaki.",
+                  "category": "religious",
+                  "coords": [
+                        77.180127,
+                        28.519159
+                  ]
+            },
+            {
+                  "name": "St. Mary Orthodox Cathedral",
+                  "text": "O importantă biserică ortodoxă a comunității siriene malankara din cartierul Hauz Khas.",
+                  "category": "religious",
+                  "coords": [
+                        77.200435,
+                        28.550252
+                  ]
+            },
+            {
+                  "name": "Jagannath Temple",
+                  "text": "Un templu din piatră albă modelat după originalul din Puri, fiind un centru pentru comunitatea Odia.",
+                  "category": "religious",
+                  "coords": [
+                        77.199958,
+                        28.553346
+                  ]
+            },
+            {
+                  "name": "Siri Fort Auditorium",
+                  "text": "Un mare centru cultural de stat și teatru, situat lângă ruinele fortăreței Siri din secolul al XIV-lea.",
+                  "category": "cultural",
+                  "coords": [
+                        77.213178,
+                        28.553056
+                  ]
+            },
+            {
+                  "name": "Qutub Minar Complex",
+                  "text": "Un sit UNESCO care cuprinde celebra coloană de fier și ruinele primelor structuri musulmane din India.",
+                  "category": "landmark",
+                  "coords": [
+                        77.185937,
+                        28.52467
+                  ]
+            },
+            {
+                  "name": "Chor Minar",
+                  "text": "Un turn din secolul al XIII-lea cu 225 de găuri în care odinioară erau expuse capetele hoților executați.",
+                  "category": "landmark",
+                  "coords": [
+                        77.205641,
+                        28.547684
+                  ]
+            },
+            {
+                  "name": "Khirki Masjid",
+                  "text": "O moschee neobișnuită, asemănătoare unei fortărețe, cu curți acoperite și 81 de mici cupole pe acoperiș.",
+                  "category": "landmark",
+                  "coords": [
+                        77.219747,
+                        28.531464
+                  ]
+            },
+            {
+                  "name": "Lal Kot",
+                  "text": "Citadela originală a primei cetăți din Delhi, recunoscută după meterezele sale masive de piatră erodată.",
+                  "category": "castle",
+                  "coords": [
+                        77.181359,
+                        28.527653
+                  ]
+            },
+            {
+                  "name": "ASI Children's Museum",
+                  "text": "Un muzeu pentru copii care expune replici ale unor sculpturi indiene celebre și exponate arheologice.",
+                  "category": "museum",
+                  "coords": [
+                        77.215125,
+                        28.552487
+                  ]
+            },
+            {
+                  "name": "Munda Gumbad",
+                  "text": "O structură simplă cu cupolă din epoca Tughlaq în cartierul Hauz Khas, remarcabilă prin lipsa decorațiunilor.",
+                  "category": "historical",
+                  "coords": [
+                        77.191705,
+                        28.556616
+                  ]
+            },
+            {
+                  "name": "Neela Gumbad",
+                  "text": "Un mormânt din epoca Lodi în zona Green Park, care prezintă o cupolă centrală impunătoare.",
+                  "category": "historical",
+                  "coords": [
+                        77.202926,
+                        28.555515
+                  ]
+            },
+            {
+                  "name": "Sakri Gumti",
+                  "text": "O poartă mică și îngustă din dinastia Lodi, cu o singură cupolă, situată în cartierul Hauz Khas.",
+                  "category": "historical",
+                  "coords": [
+                        77.201306,
+                        28.553369
+                  ]
+            },
+            {
+                  "name": "Deer Park",
+                  "text": "O oază verde în Hauz Khas, cu un lac, trasee de alergare și o turmă mare de cerbi pătați.",
+                  "category": "park",
+                  "coords": [
+                        77.193997,
+                        28.556592
+                  ]
+            },
+            {
+                  "name": "The Garden of Five Senses",
+                  "text": "Un parc peisagistic de 20 de acri conceput pentru a stimula toate cele cinci simțuri prin sculpturi și flori.",
+                  "category": "park",
+                  "coords": [
+                        77.198361,
+                        28.513413
+                  ]
+            },
+            {
+                  "name": "Dhoomimal Art Gallery",
+                  "text": "Una dintre cele mai vechi galerii de artă contemporană din India, expunând lucrări ale marilor maeștri indieni.",
+                  "category": "museum",
+                  "coords": [
+                        77.143272,
+                        28.491623
+                  ]
+            },
+            {
+                  "name": "OPS",
+                  "text": "Un spațiu de artă modern în sudul Delhi, axat pe fotografia contemporană și experimente vizuale.",
+                  "category": "museum",
+                  "coords": [
+                        77.215579,
+                        28.54854
+                  ]
+            },
+            {
+                  "name": "Lokayata Art Gallery",
+                  "text": "Un centru de artă comunitar în satul Hauz Khas, care promovează meșteșugurile populare și tradiționale indiene.",
+                  "category": "museum",
+                  "coords": [
+                        77.195442,
+                        28.554946
+                  ]
+            },
+            {
+                  "name": "Air Force Museum",
+                  "text": "Situat la aeroportul Palam, acest muzeu expune o colecție de aeronave istorice, uniforme și medalii.",
+                  "category": "museum",
+                  "coords": [
+                        77.116901,
+                        28.574227
+                  ]
+            },
+            {
+                  "name": "Gumti",
+                  "text": "Un mormânt tipic cu cupolă din epoca Lodi, similar celor găsite în întreaga zonă arheologică Mehrauli.",
+                  "category": "historical",
+                  "coords": [
+                        77.187942,
+                        28.518722
+                  ]
+            },
+            {
+                  "name": "Chaumukha Darwaza",
+                  "text": "O poartă istorică cu patru fețe situată în interiorul zidurilor vechii cetăți Lal Kot.",
+                  "category": "historical",
+                  "coords": [
+                        77.187442,
+                        28.523472
+                  ]
+            },
+            {
+                  "name": "Anangtal",
+                  "text": "Un puț istoric cu trepte sau rezervor din secolul al XI-lea, construit de Anangpal Tomar, fondatorul Delhi-ului.",
+                  "category": "historical",
+                  "coords": [
+                        77.183268,
+                        28.527234
+                  ]
+            },
+            {
+                  "name": "Gateway Guest House (Metcalfe's Retreat)",
+                  "text": "O structură britanică din secolul al XIX-lea construită în jurul unui mormânt mogul anterior ca reședință de vară.",
+                  "category": "historical",
+                  "coords": [
+                        77.186312,
+                        28.523042
+                  ]
+            },
+            {
+                  "name": "Tombs",
+                  "text": "Un grup de diverse morminte din perioadele Sultanatului și Mogulilor situate în parcul Mehrauli.",
+                  "category": "historical",
+                  "coords": [
+                        77.183284,
+                        28.521012
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kiran Nadar Museum of Art",
+                  "text": "India's first private modern art museum, housing a significant collection of contemporary South Asian works.",
+                  "category": "museum",
+                  "coords": [
+                        77.220374,
+                        28.528876
+                  ]
+            },
+            {
+                  "name": "Titus Museum",
+                  "text": "A private museum in Delhi exhibiting an impressive collection of vintage cars and historical memorabilia.",
+                  "category": "museum",
+                  "coords": [
+                        77.156633,
+                        28.456635
+                  ]
+            },
+            {
+                  "name": "Jahaz Mahal",
+                  "text": "A Lodi-era monument in Mehrauli known as the 'Ship Palace' due to its reflection in the adjacent lake.",
+                  "category": "historical",
+                  "coords": [
+                        77.178558,
+                        28.514372
+                  ]
+            },
+            {
+                  "name": "Jamali Kamali Tomb",
+                  "text": "A magnificent 16th-century red sandstone tomb and mosque dedicated to the Sufi poet Jamali.",
+                  "category": "historical",
+                  "coords": [
+                        77.187176,
+                        28.519864
+                  ]
+            },
+            {
+                  "name": "Iron Pillar",
+                  "text": "A 7-meter tall ancient pillar from the Gupta era, famous for its rust-resistant iron composition.",
+                  "category": "historical",
+                  "coords": [
+                        77.184965,
+                        28.524749
+                  ]
+            },
+            {
+                  "name": "Hauz Khas Complex",
+                  "text": "Medieval ruins from the Khalji dynasty, comprising a water reservoir, a madrasa, and magnificent tombs.",
+                  "category": "historical",
+                  "coords": [
+                        77.193524,
+                        28.553201
+                  ]
+            },
+            {
+                  "name": "Qila Rai Pithora",
+                  "text": "The first fortified city of Delhi, featuring massive 12th-century stone ramparts built by Prithviraj Chauhan.",
+                  "category": "fortress",
+                  "coords": [
+                        77.193765,
+                        28.519644
+                  ]
+            },
+            {
+                  "name": "Tomb Of Balban",
+                  "text": "This 13th-century monument is architecturally significant for housing the first true arch in Indo-Islamic architecture.",
+                  "category": "historical",
+                  "coords": [
+                        77.188786,
+                        28.519675
+                  ]
+            },
+            {
+                  "name": "Azim Khan's Tomb",
+                  "text": "A Mughal-era tomb perched on a small hillock, offering a prominent view over the surrounding road.",
+                  "category": "historical",
+                  "coords": [
+                        77.190542,
+                        28.521778
+                  ]
+            },
+            {
+                  "name": "Mehrauli Archaeological Park",
+                  "text": "A sprawling 200-acre park containing over 100 historical monuments spanning various dynasties.",
+                  "category": "historical",
+                  "coords": [
+                        77.186053,
+                        28.520642
+                  ]
+            },
+            {
+                  "name": "Adham Khan's Tomb",
+                  "text": "A 16th-century octagonal tomb known as the maze due to the many passages within its structure.",
+                  "category": "historical",
+                  "coords": [
+                        77.181955,
+                        28.523066
+                  ]
+            },
+            {
+                  "name": "Yogmaya Temple",
+                  "text": "An ancient Hindu temple dedicated to the sister of Krishna, serving as the focal point of the Phool Walon Ki Sair festival.",
+                  "category": "religious",
+                  "coords": [
+                        77.182218,
+                        28.525702
+                  ]
+            },
+            {
+                  "name": "Moti Masjid",
+                  "text": "A small white marble mosque located within the religious complex of Qutbuddin Bakhtiar Kaki.",
+                  "category": "religious",
+                  "coords": [
+                        77.180127,
+                        28.519159
+                  ]
+            },
+            {
+                  "name": "St. Mary Orthodox Cathedral",
+                  "text": "A prominent orthodox church serving the Malankara Syrian community in the Hauz Khas area.",
+                  "category": "religious",
+                  "coords": [
+                        77.200435,
+                        28.550252
+                  ]
+            },
+            {
+                  "name": "Jagannath Temple",
+                  "text": "A white stone temple modeled after the original in Puri, serving as a hub for the Odia community.",
+                  "category": "religious",
+                  "coords": [
+                        77.199958,
+                        28.553346
+                  ]
+            },
+            {
+                  "name": "Siri Fort Auditorium",
+                  "text": "A major government cultural center and theater located near the 14th-century ruins of Siri Fort.",
+                  "category": "cultural",
+                  "coords": [
+                        77.213178,
+                        28.553056
+                  ]
+            },
+            {
+                  "name": "Qutub Minar Complex",
+                  "text": "A UNESCO site encompassing the famous Iron Pillar and ruins of the first Muslim structures in India.",
+                  "category": "landmark",
+                  "coords": [
+                        77.185937,
+                        28.52467
+                  ]
+            },
+            {
+                  "name": "Chor Minar",
+                  "text": "A 13th-century tower with 225 holes once used to display the severed heads of executed thieves.",
+                  "category": "landmark",
+                  "coords": [
+                        77.205641,
+                        28.547684
+                  ]
+            },
+            {
+                  "name": "Khirki Masjid",
+                  "text": "An unusual, fortress-like mosque featuring roofed courtyards and 81 small domes on its roof.",
+                  "category": "landmark",
+                  "coords": [
+                        77.219747,
+                        28.531464
+                  ]
+            },
+            {
+                  "name": "Lal Kot",
+                  "text": "The original citadel of the first city of Delhi, marked by its massive, weathered stone ramparts.",
+                  "category": "castle",
+                  "coords": [
+                        77.181359,
+                        28.527653
+                  ]
+            },
+            {
+                  "name": "ASI Children's Museum",
+                  "text": "A museum for children featuring replicas of famous Indian sculptures and archaeological exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        77.215125,
+                        28.552487
+                  ]
+            },
+            {
+                  "name": "Munda Gumbad",
+                  "text": "A plain Tughlaq-era domed structure in Hauz Khas, notable for its lack of decorative elements.",
+                  "category": "historical",
+                  "coords": [
+                        77.191705,
+                        28.556616
+                  ]
+            },
+            {
+                  "name": "Biran Ka Gumbad",
+                  "text": "A Lodi-era tomb located in the Green Park area, featuring an imposing central dome.",
+                  "category": "historical",
+                  "coords": [
+                        77.202926,
+                        28.555515
+                  ]
+            },
+            {
+                  "name": "Sakri Gumti",
+                  "text": "A small, narrow Lodi-dynasty gateway with a single dome located in the Hauz Khas vicinity.",
+                  "category": "historical",
+                  "coords": [
+                        77.201306,
+                        28.553369
+                  ]
+            },
+            {
+                  "name": "Deer Park",
+                  "text": "A green oasis in Hauz Khas featuring a lake, walking paths, and a large herd of spotted deer.",
+                  "category": "park",
+                  "coords": [
+                        77.193997,
+                        28.556592
+                  ]
+            },
+            {
+                  "name": "The Garden of Five Senses",
+                  "text": "A 20-acre landscaped park designed to stimulate all five senses through sculptures, flowers, and fragrances.",
+                  "category": "park",
+                  "coords": [
+                        77.198361,
+                        28.513413
+                  ]
+            },
+            {
+                  "name": "Dhoomimal Art Gallery",
+                  "text": "One of India's oldest contemporary art galleries, showcasing works by modern Indian masters.",
+                  "category": "museum",
+                  "coords": [
+                        77.143272,
+                        28.491623
+                  ]
+            },
+            {
+                  "name": "OPS",
+                  "text": "A modern art space in South Delhi focusing on contemporary photography and visual experiments.",
+                  "category": "museum",
+                  "coords": [
+                        77.215579,
+                        28.54854
+                  ]
+            },
+            {
+                  "name": "Lokayata Art Gallery",
+                  "text": "A community art center in Hauz Khas Village promoting folk and traditional Indian crafts.",
+                  "category": "museum",
+                  "coords": [
+                        77.195442,
+                        28.554946
+                  ]
+            },
+            {
+                  "name": "Air Force Museum",
+                  "text": "Located at Palam airport, this museum displays a collection of historic aircraft, uniforms, and medals.",
+                  "category": "museum",
+                  "coords": [
+                        77.116901,
+                        28.574227
+                  ]
+            },
+            {
+                  "name": "Gumti",
+                  "text": "A typical Lodi-era domed tomb structure found throughout the Mehrauli archaeological area.",
+                  "category": "historical",
+                  "coords": [
+                        77.187942,
+                        28.518722
+                  ]
+            },
+            {
+                  "name": "Chaumukha Darwaza",
+                  "text": "A historic four-faced gateway located within the ancient Lal Kot citadel walls.",
+                  "category": "historical",
+                  "coords": [
+                        77.187442,
+                        28.523472
+                  ]
+            },
+            {
+                  "name": "Anangtal",
+                  "text": "An 11th-century historical stepwell or water tank built by Anangpal Tomar, the founder of Delhi.",
+                  "category": "historical",
+                  "coords": [
+                        77.183268,
+                        28.527234
+                  ]
+            },
+            {
+                  "name": "Gateway Guest House (Metcalfe's Retreat)",
+                  "text": "A 19th-century British building constructed around an earlier Mughal tomb as a summer retreat.",
+                  "category": "historical",
+                  "coords": [
+                        77.186312,
+                        28.523042
+                  ]
+            },
+            {
+                  "name": "Tombs",
+                  "text": "A group of diverse Sultanate and Mughal period funerary structures within the Mehrauli park.",
+                  "category": "historical",
+                  "coords": [
+                        77.183284,
+                        28.521012
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "IN-DL",
     coords: [77.1855, 28.5245],
@@ -196,7 +3328,1240 @@ export const poiExtraIndiaHistoryV2: POI[] = [
     },
   },
     {
-    id: "in-mahabodhi-temple-history-v2",
+    id: "in-mahabodhi-temple-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sujata Stupa",
+                  "text": "Dieser antike Stupa in Bakraur erinnert an die Milchmagd Sujata, die dem Buddha vor seiner Erleuchtung Reisbrei opferte.",
+                  "category": "historical",
+                  "coords": [
+                        85.003385,
+                        24.697923
+                  ]
+            },
+            {
+                  "name": "Mahabodhi Tempel",
+                  "text": "Die UNESCO-Welterbestätte markiert den genauen Ort unter dem Bodhi-Baum, an dem Siddhartha Gautama die Erleuchtung erlangte.",
+                  "category": "religious",
+                  "coords": [
+                        84.991383,
+                        24.695926
+                  ]
+            },
+            {
+                  "name": "Prachin Bharat Multimedia Museum",
+                  "text": "Das Museum nutzt 3D-Animationen und audiovisuelle Präsentationen, um das Leben und die Lehren des Buddha anschaulich zu erklären.",
+                  "category": "museum",
+                  "coords": [
+                        84.991341,
+                        24.697136
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum",
+                  "text": "Es beherbergt eine bedeutende Sammlung von Skulpturen und Artefakten, die bei Ausgrabungen am Mahabodhi-Tempel entdeckt wurden.",
+                  "category": "museum",
+                  "coords": [
+                        84.987463,
+                        24.69483
+                  ]
+            },
+            {
+                  "name": "Taridih Excavated Site",
+                  "text": "Die archäologische Ausgrabungsstätte zeigt Siedlungsspuren, die von der Jungsteinzeit bis zur mittelalterlichen Pala-Dynastie reichen.",
+                  "category": "historical",
+                  "coords": [
+                        84.988688,
+                        24.693794
+                  ]
+            },
+            {
+                  "name": "wat pa Mujalin Vihar",
+                  "text": "Dieses thailändische Waldkloster bietet eine friedliche Umgebung für die Meditation in der Theravada-Tradition.",
+                  "category": "religious",
+                  "coords": [
+                        84.98737,
+                        24.685513
+                  ]
+            },
+            {
+                  "name": "Dhamma Bodhi",
+                  "text": "Das 18 Hektar große Zentrum bietet Schweigemeditationskurse in der Vipassana-Tradition von S.N. Goenka an.",
+                  "category": "religious",
+                  "coords": [
+                        84.967755,
+                        24.676063
+                  ]
+            },
+            {
+                  "name": "Mucalinda Lake",
+                  "text": "Der heilige Teich zeigt eine Statue des Buddha, der während eines Sturms vom Schlangenkönig Mucalinda beschützt wird.",
+                  "category": "religious",
+                  "coords": [
+                        84.992083,
+                        24.680506
+                  ]
+            },
+            {
+                  "name": "Bodhi Raja Monastery",
+                  "text": "Dieses buddhistische Kloster in der Nähe des Haupttempels dient als ruhiger Rückzugsort für Mönche und Pilger.",
+                  "category": "religious",
+                  "coords": [
+                        84.985565,
+                        24.693516
+                  ]
+            },
+            {
+                  "name": "Nichiren Sect Tashozan Isshinji Temple",
+                  "text": "Dieser japanische Tempel widmet sich dem Lotus-Sutra und beherbergt eine Friedensklinik für die örtliche Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        84.985185,
+                        24.691433
+                  ]
+            },
+            {
+                  "name": "တည်းခိုကျောင်း၊KANAKHO Hotelအနောက်ဘက်",
+                  "text": "Diese traditionelle Unterkunft hinter dem Kanakho Hotel dient seit Generationen als Herberge für birmanische Pilger.",
+                  "category": "religious",
+                  "coords": [
+                        84.980944,
+                        24.689447
+                  ]
+            },
+            {
+                  "name": "Tara Temple",
+                  "text": "Der Hindu-Tempel ist der Göttin Tara gewidmet, einer bedeutenden Gottheit sowohl im Hinduismus als auch im Buddhismus.",
+                  "category": "religious",
+                  "coords": [
+                        84.977976,
+                        24.705911
+                  ]
+            },
+            {
+                  "name": "Tipitaka Chanting",
+                  "text": "Bei dieser jährlichen internationalen Zeremonie versammeln sich Tausende Mönche unter dem Bodhi-Baum, um buddhistische Schriften zu rezitieren.",
+                  "category": "religious",
+                  "coords": [
+                        84.989886,
+                        24.699288
+                  ]
+            },
+            {
+                  "name": "Jai Shree Mahabodhi Vihara",
+                  "text": "Das von der Maha Bodhi Society gegründete Kloster beherbergt heilige Reliquien des Buddha und seiner Hauptschüler.",
+                  "category": "religious",
+                  "coords": [
+                        84.989836,
+                        24.696951
+                  ]
+            },
+            {
+                  "name": "မဟန့်နန်းတော်မင်းတုန်းမင်း",
+                  "text": "Dieses im 19. Jahrhundert vom birmanischen König Mindon Min errichtete Gebäude diente ursprünglich als Rasthaus für Pilger.",
+                  "category": "religious",
+                  "coords": [
+                        84.994078,
+                        24.697812
+                  ]
+            },
+            {
+                  "name": "Baba Vishwanth Mandir",
+                  "text": "Der kleine Hindu-Tempel ist Lord Shiva gewidmet und wird besonders von den Einheimischen in Bodh Gaya verehrt.",
+                  "category": "religious",
+                  "coords": [
+                        84.958956,
+                        24.768823
+                  ]
+            },
+            {
+                  "name": "Gaya Kali Bari",
+                  "text": "Dieser traditionelle Kali-Tempel im nahegelegenen Gaya ist ein wichtiges Zentrum für die bengali-hinduistische Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        85.003717,
+                        24.783778
+                  ]
+            },
+            {
+                  "name": "Uruvela Forest Meditation Vihara",
+                  "text": "Das Vihara liegt in der Nähe der Dungeshwari-Hügel, wo Siddhartha Gautama vor seiner Erleuchtung jahrelang asketisch lebte.",
+                  "category": "religious",
+                  "coords": [
+                        85.039076,
+                        24.739196
+                  ]
+            },
+            {
+                  "name": "Prak Bodhi Temple",
+                  "text": "Ein bescheidener buddhistischer Tempel, der eine ruhige Atmosphäre abseits der belebten Pilgerpfade von Bodh Gaya bietet.",
+                  "category": "religious",
+                  "coords": [
+                        85.043184,
+                        24.736478
+                  ]
+            },
+            {
+                  "name": "ဥရုဝေရတောဒုက္ကရစရိယကျင့်ရာတောင်",
+                  "text": "In diesen Höhlen auf dem Berg praktizierte Siddhartha sechs Jahre lang strenge Askese, bevor er den „Mittleren Weg“ wählte.",
+                  "category": "religious",
+                  "coords": [
+                        85.047423,
+                        24.736805
+                  ]
+            },
+            {
+                  "name": "Bodhi tree",
+                  "text": "Der heilige Feigenbaum ist ein direkter Nachkomme des Baumes, unter dem der Buddha vor über 2500 Jahren Erleuchtung fand.",
+                  "category": "religious",
+                  "coords": [
+                        85.000913,
+                        24.696553
+                  ]
+            },
+            {
+                  "name": "Royal Bhutanese Monastery",
+                  "text": "Das Kloster beeindruckt durch seine traditionelle bhutanische Dzong-Architektur und farbenprächtige Wandmalereien aus dem Leben Buddhas.",
+                  "category": "religious",
+                  "coords": [
+                        84.984311,
+                        24.692527
+                  ]
+            },
+            {
+                  "name": "Bodhgaya Main Market",
+                  "text": "Der belebte Markt ist der ideale Ort, um handgefertigte Gebetsmühlen, Statuen und religiöse Souvenirs zu erwerben.",
+                  "category": "cultural",
+                  "coords": [
+                        84.992604,
+                        24.696413
+                  ]
+            },
+            {
+                  "name": "Mahabodhi Shopping Complex",
+                  "text": "Das moderne Einkaufszentrum bietet Pilgern eine Vielzahl von Geschäften für Textilien, Bücher und lokale Handwerkskunst.",
+                  "category": "cultural",
+                  "coords": [
+                        84.979277,
+                        24.694329
+                  ]
+            },
+            {
+                  "name": "Veg/Fruits market",
+                  "text": "Ein lebhafter lokaler Markt, auf dem Bauern aus der Umgebung täglich frisches Obst und Gemüse sowie exotische Gewürze anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        84.992446,
+                        24.698548
+                  ]
+            },
+            {
+                  "name": "Maa Mangla Gauri Temple",
+                  "text": "Der Tempel auf dem Manglagauri-Hügel zählt zu den 18 bedeutendsten Shakti Peethas und ist ein wichtiger hinduistischer Wallfahrtsort.",
+                  "category": "landmark",
+                  "coords": [
+                        85.002491,
+                        24.77495
+                  ]
+            },
+            {
+                  "name": "Totoro tree",
+                  "text": "Dieser riesige Banyan-Baum ist der Ort, an dem der Buddha der Überlieferung nach seine fünfte Woche nach der Erleuchtung verbrachte.",
+                  "category": "landmark",
+                  "coords": [
+                        85.012785,
+                        24.716196
+                  ]
+            },
+            {
+                  "name": "Buddist Temple",
+                  "text": "Ein friedlicher buddhistischer Tempel mit einer kunstvoll verzierten Gebetshalle, die zur stillen Kontemplation einlädt.",
+                  "category": "landmark",
+                  "coords": [
+                        84.990413,
+                        24.690614
+                  ]
+            },
+            {
+                  "name": "Vietnamese Mahaprajapati Nunnery",
+                  "text": "Dieses Nonnenkloster ist Mahaprajapati gewidmet, der ersten Frau, die vom Buddha ordiniert wurde, und zeigt typisch vietnamesische Bauelemente.",
+                  "category": "landmark",
+                  "coords": [
+                        84.974419,
+                        24.677436
+                  ]
+            },
+            {
+                  "name": "Sakya Monastery",
+                  "text": "Das tibetische Kloster der Sakya-Schule ist an seinen charakteristischen rot, weiß und grau gestreiften Außenwänden erkennbar.",
+                  "category": "landmark",
+                  "coords": [
+                        84.974234,
+                        24.679596
+                  ]
+            },
+            {
+                  "name": "Vajrasana Temple Katorwa",
+                  "text": "Ein moderner buddhistischer Tempel im Viertel Katorwa, der als lokales Zentrum für Gebete und religiöse Zeremonien dient.",
+                  "category": "landmark",
+                  "coords": [
+                        84.976488,
+                        24.677043
+                  ]
+            },
+            {
+                  "name": "Buddhagaya Banavihara Meditation Centre",
+                  "text": "Dieses im Wald gelegene Meditationszentrum bietet eine abgeschiedene Umgebung für tiefe spirituelle Praxis in der Theravada-Tradition.",
+                  "category": "landmark",
+                  "coords": [
+                        84.979349,
+                        24.685552
+                  ]
+            },
+            {
+                  "name": "Anatta Meditation Monastery Myanmar",
+                  "text": "Ein birmanisches Kloster, das spezialisierte Meditationsprogramme und Unterkünfte für ernsthafte Praktizierende aus aller Welt bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        84.978895,
+                        24.687748
+                  ]
+            },
+            {
+                  "name": "Buddhist Temple",
+                  "text": "Dieser kunstvoll gestaltete Tempel dient als friedlicher Ort der Andacht und beherbergt eine beeindruckende goldene Buddha-Statue.",
+                  "category": "landmark",
+                  "coords": [
+                        84.983806,
+                        24.687801
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sujata Stupa",
+                  "text": "Ez a bakrauri ősi sztúpa Szudzsátának, a pásztorlánynak állít emléket, aki rizskásával táplálta Buddhát a megvilágosodása előtt.",
+                  "category": "historical",
+                  "coords": [
+                        85.003385,
+                        24.697923
+                  ]
+            },
+            {
+                  "name": "Mahabodhi Temple",
+                  "text": "Ez az UNESCO világörökségi helyszín pontosan azt a helyet jelöli a Bodhi-fa alatt, ahol Sziddhártha Gautama megvilágosodott.",
+                  "category": "religious",
+                  "coords": [
+                        84.991383,
+                        24.695926
+                  ]
+            },
+            {
+                  "name": "Prachin Bharat Multimedia Museum",
+                  "text": "A múzeum 3D-s animációkkal és audiovizuális bemutatókkal szemlélteti Buddha életét és tanításait.",
+                  "category": "museum",
+                  "coords": [
+                        84.991341,
+                        24.697136
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum",
+                  "text": "A múzeum a Mahabodhi-templom feltárása során talált szobrok és műtárgyak jelentős gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        84.987463,
+                        24.69483
+                  ]
+            },
+            {
+                  "name": "Taridih Excavated Site",
+                  "text": "Ez a régészeti lelőhely az újkőkorszaktól a középkori Pála-dinasztia koráig terjedő településnyomokat mutat be.",
+                  "category": "historical",
+                  "coords": [
+                        84.988688,
+                        24.693794
+                  ]
+            },
+            {
+                  "name": "wat pa Mujalin Vihar",
+                  "text": "Ez a thai erdei kolostor békés környezetet biztosít a therváda hagyomány szerinti meditációhoz.",
+                  "category": "religious",
+                  "coords": [
+                        84.98737,
+                        24.685513
+                  ]
+            },
+            {
+                  "name": "Dhamma Bodhi",
+                  "text": "Ez a 18 hektáros központ csendes meditációs kurzusokat kínál az S.N. Goenka-féle vipasszaná hagyomány szerint.",
+                  "category": "religious",
+                  "coords": [
+                        84.967755,
+                        24.676063
+                  ]
+            },
+            {
+                  "name": "Mucalinda Lake",
+                  "text": "A szent tó közepén egy szobor látható, amely a Buddhát vihar idején oltalmazó Mucsalinda kígyókirályt ábrázolja.",
+                  "category": "religious",
+                  "coords": [
+                        84.992083,
+                        24.680506
+                  ]
+            },
+            {
+                  "name": "Bodhi Raja Monastery",
+                  "text": "Ez a főtemplom közelében található buddhista kolostor csendes menedéket nyújt a szerzetesek és zarándokok számára.",
+                  "category": "religious",
+                  "coords": [
+                        84.985565,
+                        24.693516
+                  ]
+            },
+            {
+                  "name": "Nichiren Sect Tashozan Isshinji Temple",
+                  "text": "Ez a japán templom a Lótusz-szútra tanításainak szentelték, és egy békeklinikának is otthont ad a helyi közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        84.985185,
+                        24.691433
+                  ]
+            },
+            {
+                  "name": "တည်းခိုကျောင်း၊KANAKHO Hotelအနောက်ဘက်",
+                  "text": "Ez a Kanakho Hotel mögötti hagyományos szálláshely generációk óta szolgál menedékként a burmai zarándokoknak.",
+                  "category": "religious",
+                  "coords": [
+                        84.980944,
+                        24.689447
+                  ]
+            },
+            {
+                  "name": "Tara Temple",
+                  "text": "Ez a hindu templom Tara istennőnek szentelték, aki a hinduizmusban és a buddhizmusban egyaránt fontos istenség.",
+                  "category": "religious",
+                  "coords": [
+                        84.977976,
+                        24.705911
+                  ]
+            },
+            {
+                  "name": "Tipitaka Chanting",
+                  "text": "Ezen az évente megrendezett nemzetközi szertartáson szerzetesek ezrei gyűlnek össze a Bodhi-fa alatt, hogy buddhista szentiratokat kántáljanak.",
+                  "category": "religious",
+                  "coords": [
+                        84.989886,
+                        24.699288
+                  ]
+            },
+            {
+                  "name": "Jai Shree Mahabodhi Vihara",
+                  "text": "A Maha Bodhi Társaság által alapított kolostor Buddha és legfőbb tanítványainak szent ereklyéit őrzi.",
+                  "category": "religious",
+                  "coords": [
+                        84.989836,
+                        24.696951
+                  ]
+            },
+            {
+                  "name": "မဟန့်နန်းတော်မင်းတုန်းမင်း",
+                  "text": "Ezt a 19. században Mindon Min burmai király által építtetett épületet eredetileg zarándokok pihenőházának szánták.",
+                  "category": "religious",
+                  "coords": [
+                        84.994078,
+                        24.697812
+                  ]
+            },
+            {
+                  "name": "Baba Vishwanth Mandir",
+                  "text": "Ez a kis hindu templom az Úr Sivának szentelték, és különösen a helyiek körében népszerű Bodh-Gajában.",
+                  "category": "religious",
+                  "coords": [
+                        84.958956,
+                        24.768823
+                  ]
+            },
+            {
+                  "name": "Gaya Kali Bari",
+                  "text": "Ez a közeli Gajában található hagyományos Káli-templom a bengáli hindu közösség egyik fontos központja.",
+                  "category": "religious",
+                  "coords": [
+                        85.003717,
+                        24.783778
+                  ]
+            },
+            {
+                  "name": "Uruvela Forest Meditation Vihara",
+                  "text": "Ez a vihára a Dungeshwari-hegyek közelében fekszik, ahol Sziddhártha Gautama évekig aszkéta életet folytatott a megvilágosodása előtt.",
+                  "category": "religious",
+                  "coords": [
+                        85.039076,
+                        24.739196
+                  ]
+            },
+            {
+                  "name": "Prak Bodhi Temple",
+                  "text": "Egy szerény buddhista templom, amely nyugodt légkört kínál a Bodh-Gaja forgalmas zarándokútvonalaitól távol.",
+                  "category": "religious",
+                  "coords": [
+                        85.043184,
+                        24.736478
+                  ]
+            },
+            {
+                  "name": "ဥရုဝေရတောဒုက္ကရစရိယကျင့်ရာတောင်",
+                  "text": "Ezekben a hegyi barlangokban folytatott Sziddhártha hat évig tartó szigorú aszkézist, mielőtt a „Középső Utat” választotta volna.",
+                  "category": "religious",
+                  "coords": [
+                        85.047423,
+                        24.736805
+                  ]
+            },
+            {
+                  "name": "Bodhi tree",
+                  "text": "Ez a szent fügefa annak a fának a közvetlen leszármazottja, amely alatt Buddha több mint 2500 évvel ezelőtt megvilágosodott.",
+                  "category": "religious",
+                  "coords": [
+                        85.000913,
+                        24.696553
+                  ]
+            },
+            {
+                  "name": "Royal Bhutanese Monastery",
+                  "text": "A kolostor hagyományos bhutáni dzong építészetével és a Buddha életét ábrázoló színes falfestményeivel nyűgözi le a látogatókat.",
+                  "category": "religious",
+                  "coords": [
+                        84.984311,
+                        24.692527
+                  ]
+            },
+            {
+                  "name": "Bodhgaya Main Market",
+                  "text": "Ez a nyüzsgő piac ideális hely kézzel készült imakerekek, szobrok és vallási szuvenírek vásárlására.",
+                  "category": "cultural",
+                  "coords": [
+                        84.992604,
+                        24.696413
+                  ]
+            },
+            {
+                  "name": "Mahabodhi Shopping Complex",
+                  "text": "Ez a modern bevásárlóközpont számos üzletet kínál a zarándokoknak textíliákkal, könyvekkel és helyi kézműves termékekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        84.979277,
+                        24.694329
+                  ]
+            },
+            {
+                  "name": "Veg/Fruits market",
+                  "text": "Egy élénk helyi piac, ahol a környékbeli gazdák naponta kínálnak friss gyümölcsöket, zöldségeket és egzotikus fűszereket.",
+                  "category": "cultural",
+                  "coords": [
+                        84.992446,
+                        24.698548
+                  ]
+            },
+            {
+                  "name": "Maa Mangla Gauri Temple",
+                  "text": "A Manglagauri-dombon álló templom a 18 legjelentősebb Sakti-pítha egyike, és fontos hindu zarándokhely.",
+                  "category": "landmark",
+                  "coords": [
+                        85.002491,
+                        24.77495
+                  ]
+            },
+            {
+                  "name": "Totoro tree",
+                  "text": "Ennél a hatalmas banyánfánál töltötte a hagyomány szerint Buddha a megvilágosodását követő ötödik hetet.",
+                  "category": "landmark",
+                  "coords": [
+                        85.012785,
+                        24.716196
+                  ]
+            },
+            {
+                  "name": "Buddist Temple",
+                  "text": "Egy békés buddhista templom díszes imateremmel, amely csendes elmélkedésre hívja a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        84.990413,
+                        24.690614
+                  ]
+            },
+            {
+                  "name": "Vietnamese Mahaprajapati Nunnery",
+                  "text": "Ez az apácakolostor Mahapradzsápatinak, az első nőnek lett szentelve, akit Buddha szerzetessé avatott, és jellegzetes vietnámi építészeti stílusú.",
+                  "category": "landmark",
+                  "coords": [
+                        84.974419,
+                        24.677436
+                  ]
+            },
+            {
+                  "name": "Sakya Monastery",
+                  "text": "A szakja iskola tibeti kolostora jellegzetes piros, fehér és szürke csíkozású külső falairól ismerhető fel.",
+                  "category": "landmark",
+                  "coords": [
+                        84.974234,
+                        24.679596
+                  ]
+            },
+            {
+                  "name": "Vajrasana Temple Katorwa",
+                  "text": "Egy modern buddhista templom a Katorwa negyedben, amely imádságok és vallási szertartások helyi központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        84.976488,
+                        24.677043
+                  ]
+            },
+            {
+                  "name": "Buddhagaya Banavihara Meditation Centre",
+                  "text": "Ez az erdőben fekvő meditációs központ elszigetelt környezetet biztosít a therváda hagyomány szerinti mély spirituális gyakorlatokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        84.979349,
+                        24.685552
+                  ]
+            },
+            {
+                  "name": "Anatta Meditation Monastery Myanmar",
+                  "text": "Egy burmai kolostor, amely speciális meditációs programokat és szállást kínál komoly gyakorlók számára a világ minden tájáról.",
+                  "category": "landmark",
+                  "coords": [
+                        84.978895,
+                        24.687748
+                  ]
+            },
+            {
+                  "name": "Buddhist Temple",
+                  "text": "Ez a művészien kialakított templom békés áhítati helyként szolgál, és egy lenyűgöző arany Buddha-szobornak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        84.983806,
+                        24.687801
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sujata Stupa",
+                  "text": "Această stupă antică din Bakraur este dedicată lui Sujata, fata care i-a oferit lui Buddha orez cu lapte înainte de iluminare.",
+                  "category": "historical",
+                  "coords": [
+                        85.003385,
+                        24.697923
+                  ]
+            },
+            {
+                  "name": "Mahabodhi Temple",
+                  "text": "Acest sit din patrimoniul mondial UNESCO marchează locul exact sub arborele Bodhi unde Siddhartha Gautama a atins iluminarea.",
+                  "category": "religious",
+                  "coords": [
+                        84.991383,
+                        24.695926
+                  ]
+            },
+            {
+                  "name": "Prachin Bharat Multimedia Museum",
+                  "text": "Muzeul folosește animații 3D și prezentări audiovizuale pentru a explica viața și învățăturile lui Buddha.",
+                  "category": "museum",
+                  "coords": [
+                        84.991341,
+                        24.697136
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum",
+                  "text": "Găzduiește o colecție importantă de sculpturi și artefacte descoperite în timpul săpăturilor de la Templul Mahabodhi.",
+                  "category": "museum",
+                  "coords": [
+                        84.987463,
+                        24.69483
+                  ]
+            },
+            {
+                  "name": "Taridih Excavated Site",
+                  "text": "Acest sit arheologic prezintă urme de locuire care datează din neolitic până în perioada medievală a dinastiei Pala.",
+                  "category": "historical",
+                  "coords": [
+                        84.988688,
+                        24.693794
+                  ]
+            },
+            {
+                  "name": "wat pa Mujalin Vihar",
+                  "text": "Această mănăstire thailandeză de pădure oferă un cadru liniștit pentru meditație în tradiția Theravada.",
+                  "category": "religious",
+                  "coords": [
+                        84.98737,
+                        24.685513
+                  ]
+            },
+            {
+                  "name": "Dhamma Bodhi",
+                  "text": "Acest centru de 18 hectare oferă cursuri de meditație tăcută în tradiția Vipassana a lui S.N. Goenka.",
+                  "category": "religious",
+                  "coords": [
+                        84.967755,
+                        24.676063
+                  ]
+            },
+            {
+                  "name": "Mucalinda Lake",
+                  "text": "Lacul sacru prezintă o statuie a lui Buddha protejat de regele șarpe Mucalinda în timpul unei furtuni.",
+                  "category": "religious",
+                  "coords": [
+                        84.992083,
+                        24.680506
+                  ]
+            },
+            {
+                  "name": "Bodhi Raja Monastery",
+                  "text": "Această mănăstire budistă de lângă templul principal servește ca refugiu liniștit pentru călugări și pelerini.",
+                  "category": "religious",
+                  "coords": [
+                        84.985565,
+                        24.693516
+                  ]
+            },
+            {
+                  "name": "Nichiren Sect Tashozan Isshinji Temple",
+                  "text": "Acest templu japonez este dedicat Sutrei Lotusului și găzduiește o clinică a păcii pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        84.985185,
+                        24.691433
+                  ]
+            },
+            {
+                  "name": "တည်းခိုကျောင်း၊KANAKHO Hotelအနောက်ဘက်",
+                  "text": "Această unitate de cazare tradițională din spatele hotelului Kanakho servește de generații ca han pentru pelerinii birmani.",
+                  "category": "religious",
+                  "coords": [
+                        84.980944,
+                        24.689447
+                  ]
+            },
+            {
+                  "name": "Tara Temple",
+                  "text": "Acest templu hindu este dedicat zeiței Tara, o divinitate importantă atât în hinduism, cât și în budism.",
+                  "category": "religious",
+                  "coords": [
+                        84.977976,
+                        24.705911
+                  ]
+            },
+            {
+                  "name": "Tipitaka Chanting",
+                  "text": "La această ceremonie internațională anuală, mii de călugări se adună sub arborele Bodhi pentru a recita scripturile budiste.",
+                  "category": "religious",
+                  "coords": [
+                        84.989886,
+                        24.699288
+                  ]
+            },
+            {
+                  "name": "Jai Shree Mahabodhi Vihara",
+                  "text": "Fondată de Societatea Maha Bodhi, mănăstirea adăpostește relicve sacre ale lui Buddha și ale discipolilor săi principali.",
+                  "category": "religious",
+                  "coords": [
+                        84.989836,
+                        24.696951
+                  ]
+            },
+            {
+                  "name": "မဟန့်နန်းတော်မင်းတုန်းမင်း",
+                  "text": "Această clădire, construită în secolul al XIX-lea de regele birman Mindon Min, a servit inițial ca casă de odihnă pentru pelerini.",
+                  "category": "religious",
+                  "coords": [
+                        84.994078,
+                        24.697812
+                  ]
+            },
+            {
+                  "name": "Baba Vishwanth Mandir",
+                  "text": "Acest mic templu hindu este dedicat Domnului Shiva și este venerat în special de localnicii din Bodh Gaya.",
+                  "category": "religious",
+                  "coords": [
+                        84.958956,
+                        24.768823
+                  ]
+            },
+            {
+                  "name": "Gaya Kali Bari",
+                  "text": "Acest templu tradițional Kali din Gaya este un centru important pentru comunitatea hindusă bengaleză.",
+                  "category": "religious",
+                  "coords": [
+                        85.003717,
+                        24.783778
+                  ]
+            },
+            {
+                  "name": "Uruvela Forest Meditation Vihara",
+                  "text": "Acest vihara este situat lângă dealurile Dungeshwari, unde Siddhartha Gautama a practicat ascetismul ani de zile înainte de iluminare.",
+                  "category": "religious",
+                  "coords": [
+                        85.039076,
+                        24.739196
+                  ]
+            },
+            {
+                  "name": "Prak Bodhi Temple",
+                  "text": "Un templu budist modest care oferă o atmosferă liniștită, departe de traseele aglomerate de pelerinaj din Bodh Gaya.",
+                  "category": "religious",
+                  "coords": [
+                        85.043184,
+                        24.736478
+                  ]
+            },
+            {
+                  "name": "ဥရုဝေရတောဒုက္ကရစရိယကျင့်ရာတောင်",
+                  "text": "În aceste peșteri de pe munte, Siddhartha a practicat un ascetism sever timp de șase ani înainte de a alege „Calea de Mijloc”.",
+                  "category": "religious",
+                  "coords": [
+                        85.047423,
+                        24.736805
+                  ]
+            },
+            {
+                  "name": "Bodhi tree",
+                  "text": "Acest smochin sacru este un descendent direct al copacului sub care Buddha a atins iluminarea în urmă cu peste 2500 de ani.",
+                  "category": "religious",
+                  "coords": [
+                        85.000913,
+                        24.696553
+                  ]
+            },
+            {
+                  "name": "Royal Bhutanese Monastery",
+                  "text": "Mănăstirea impresionează prin arhitectura sa tradițională bhutaneză Dzong și frescele colorate care înfățișează viața lui Buddha.",
+                  "category": "religious",
+                  "coords": [
+                        84.984311,
+                        24.692527
+                  ]
+            },
+            {
+                  "name": "Bodhgaya Main Market",
+                  "text": "Această piață plină de viață este locul ideal pentru a achiziționa roți de rugăciune artizanale, statui și suveniruri religioase.",
+                  "category": "cultural",
+                  "coords": [
+                        84.992604,
+                        24.696413
+                  ]
+            },
+            {
+                  "name": "Mahabodhi Shopping Complex",
+                  "text": "Acest complex comercial modern oferă pelerinilor o varietate de magazine pentru textile, cărți și meșteșuguri locale.",
+                  "category": "cultural",
+                  "coords": [
+                        84.979277,
+                        24.694329
+                  ]
+            },
+            {
+                  "name": "Veg/Fruits market",
+                  "text": "O piață locală plină de viață unde fermierii din împrejurimi oferă zilnic fructe și legume proaspete, precum și condimente exotice.",
+                  "category": "cultural",
+                  "coords": [
+                        84.992446,
+                        24.698548
+                  ]
+            },
+            {
+                  "name": "Maa Mangla Gauri Temple",
+                  "text": "Templul de pe dealul Manglagauri este unul dintre cele 18 Shakti Peethas majore și un important loc de pelerinaj hindu.",
+                  "category": "landmark",
+                  "coords": [
+                        85.002491,
+                        24.77495
+                  ]
+            },
+            {
+                  "name": "Totoro tree",
+                  "text": "Acest banyan uriaș este locul unde, conform tradiției, Buddha și-a petrecut a cincea săptămână după iluminare.",
+                  "category": "landmark",
+                  "coords": [
+                        85.012785,
+                        24.716196
+                  ]
+            },
+            {
+                  "name": "Buddist Temple",
+                  "text": "Un templu budist liniștit, cu o sală de rugăciune ornamentată, care invită la contemplare tăcută.",
+                  "category": "landmark",
+                  "coords": [
+                        84.990413,
+                        24.690614
+                  ]
+            },
+            {
+                  "name": "Vietnamese Mahaprajapati Nunnery",
+                  "text": "Această mănăstire de maici este dedicată lui Mahaprajapati, prima femeie hirotonită de Buddha, și prezintă elemente arhitecturale vietnameze.",
+                  "category": "landmark",
+                  "coords": [
+                        84.974419,
+                        24.677436
+                  ]
+            },
+            {
+                  "name": "Sakya Monastery",
+                  "text": "Mănăstirea tibetană a școlii Sakya este ușor de recunoscut după pereții săi exteriori vopsiți cu dungi roșii, albe și gri.",
+                  "category": "landmark",
+                  "coords": [
+                        84.974234,
+                        24.679596
+                  ]
+            },
+            {
+                  "name": "Vajrasana Temple Katorwa",
+                  "text": "Un templu budist modern în cartierul Katorwa, care servește ca centru local pentru rugăciuni și ceremonii religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        84.976488,
+                        24.677043
+                  ]
+            },
+            {
+                  "name": "Buddhagaya Banavihara Meditation Centre",
+                  "text": "Acest centru de meditație situat în pădure oferă un cadru izolat pentru practici spirituale profunde în tradiția Theravada.",
+                  "category": "landmark",
+                  "coords": [
+                        84.979349,
+                        24.685552
+                  ]
+            },
+            {
+                  "name": "Anatta Meditation Monastery Myanmar",
+                  "text": "O mănăstire birmaneză care oferă programe specializate de meditație și cazare pentru practicanți dedicați din întreaga lume.",
+                  "category": "landmark",
+                  "coords": [
+                        84.978895,
+                        24.687748
+                  ]
+            },
+            {
+                  "name": "Buddhist Temple",
+                  "text": "Acest templu conceput artistic servește ca loc de cult liniștit și adăpostește o statuie impresionantă a lui Buddha aurit.",
+                  "category": "landmark",
+                  "coords": [
+                        84.983806,
+                        24.687801
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sujata Stupa",
+                  "text": "This ancient stupa in Bakraur commemorates Sujata, the milkmaid who offered rice milk to Buddha before his enlightenment.",
+                  "category": "historical",
+                  "coords": [
+                        85.003385,
+                        24.697923
+                  ]
+            },
+            {
+                  "name": "Mahabodhi Temple",
+                  "text": "This UNESCO World Heritage site marks the exact spot under the Bodhi tree where Siddhartha Gautama attained enlightenment.",
+                  "category": "religious",
+                  "coords": [
+                        84.991383,
+                        24.695926
+                  ]
+            },
+            {
+                  "name": "Prachin Bharat Multimedia Museum",
+                  "text": "The museum uses 3D animations and audio-visual presentations to narrate the life and teachings of the Buddha.",
+                  "category": "museum",
+                  "coords": [
+                        84.991341,
+                        24.697136
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum",
+                  "text": "It houses a significant collection of sculptures and artifacts discovered during excavations at the Mahabodhi Temple.",
+                  "category": "museum",
+                  "coords": [
+                        84.987463,
+                        24.69483
+                  ]
+            },
+            {
+                  "name": "Taridih Excavated Site",
+                  "text": "This archaeological excavation site reveals traces of habitation ranging from the Neolithic period to the medieval Pala dynasty.",
+                  "category": "historical",
+                  "coords": [
+                        84.988688,
+                        24.693794
+                  ]
+            },
+            {
+                  "name": "wat pa Mujalin Vihar",
+                  "text": "This Thai forest monastery provides a peaceful environment for meditation in the Theravada tradition.",
+                  "category": "religious",
+                  "coords": [
+                        84.98737,
+                        24.685513
+                  ]
+            },
+            {
+                  "name": "Dhamma Bodhi",
+                  "text": "This 18-acre center offers silent meditation courses in the Vipassana tradition of S.N. Goenka.",
+                  "category": "religious",
+                  "coords": [
+                        84.967755,
+                        24.676063
+                  ]
+            },
+            {
+                  "name": "Mucalinda Lake",
+                  "text": "The sacred pond features a statue of Buddha being protected by the serpent king Mucalinda during a storm.",
+                  "category": "religious",
+                  "coords": [
+                        84.992083,
+                        24.680506
+                  ]
+            },
+            {
+                  "name": "Bodhi Raja Monastery",
+                  "text": "This Buddhist monastery near the main temple serves as a quiet retreat for monks and pilgrims.",
+                  "category": "religious",
+                  "coords": [
+                        84.985565,
+                        24.693516
+                  ]
+            },
+            {
+                  "name": "Nichiren Sect Tashozan Isshinji Temple",
+                  "text": "This Japanese temple is dedicated to the Lotus Sutra and houses a peace clinic for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        84.985185,
+                        24.691433
+                  ]
+            },
+            {
+                  "name": "တည်းခိုကျောင်း၊KANAKHO Hotelအနောက်ဘက်",
+                  "text": "This traditional accommodation behind the Kanakho Hotel has served as a rest house for Burmese pilgrims for generations.",
+                  "category": "religious",
+                  "coords": [
+                        84.980944,
+                        24.689447
+                  ]
+            },
+            {
+                  "name": "Tara Devi Temple",
+                  "text": "This Hindu temple is dedicated to Goddess Tara, a significant deity in both Hinduism and Buddhism.",
+                  "category": "religious",
+                  "coords": [
+                        84.977976,
+                        24.705911
+                  ]
+            },
+            {
+                  "name": "Tipitaka Chanting",
+                  "text": "At this annual international ceremony, thousands of monks gather under the Bodhi tree to chant Buddhist scriptures.",
+                  "category": "religious",
+                  "coords": [
+                        84.989886,
+                        24.699288
+                  ]
+            },
+            {
+                  "name": "Jai Shree Mahabodhi Vihara",
+                  "text": "Founded by the Maha Bodhi Society, this monastery houses sacred relics of the Buddha and his chief disciples.",
+                  "category": "religious",
+                  "coords": [
+                        84.989836,
+                        24.696951
+                  ]
+            },
+            {
+                  "name": "မဟန့်နန်းတော်မင်းတုန်းမင်း",
+                  "text": "Built in the 19th century by the Burmese King Mindon Min, this structure originally served as a rest house for pilgrims.",
+                  "category": "religious",
+                  "coords": [
+                        84.994078,
+                        24.697812
+                  ]
+            },
+            {
+                  "name": "Baba Vishwanth Mandir",
+                  "text": "This small Hindu temple is dedicated to Lord Shiva and is particularly revered by the locals in Bodh Gaya.",
+                  "category": "religious",
+                  "coords": [
+                        84.958956,
+                        24.768823
+                  ]
+            },
+            {
+                  "name": "Gaya Kali Bari",
+                  "text": "This traditional Kali temple in nearby Gaya is an important center for the Bengali Hindu community.",
+                  "category": "religious",
+                  "coords": [
+                        85.003717,
+                        24.783778
+                  ]
+            },
+            {
+                  "name": "Uruvela Forest Meditation Vihara",
+                  "text": "This vihara is located near the Dungeshwari Hills, where Siddhartha Gautama practiced extreme asceticism for years before his enlightenment.",
+                  "category": "religious",
+                  "coords": [
+                        85.039076,
+                        24.739196
+                  ]
+            },
+            {
+                  "name": "Prak Bodhi Temple",
+                  "text": "A modest Buddhist temple offering a serene atmosphere away from the busy pilgrimage paths of Bodh Gaya.",
+                  "category": "religious",
+                  "coords": [
+                        85.043184,
+                        24.736478
+                  ]
+            },
+            {
+                  "name": "ဥရုဝေရတောဒုက္ကရစရိယကျင့်ရာတောင်",
+                  "text": "In these caves on the mountain, Siddhartha practiced severe asceticism for six years before choosing the \"Middle Way.\"",
+                  "category": "religious",
+                  "coords": [
+                        85.047423,
+                        24.736805
+                  ]
+            },
+            {
+                  "name": "Bodhi tree",
+                  "text": "This sacred fig tree is a direct descendant of the tree under which the Buddha attained enlightenment over 2500 years ago.",
+                  "category": "religious",
+                  "coords": [
+                        85.000913,
+                        24.696553
+                  ]
+            },
+            {
+                  "name": "Royal Bhutanese Monastery",
+                  "text": "The monastery impresses with its traditional Bhutanese Dzong architecture and colorful frescoes depicting the life of Buddha.",
+                  "category": "religious",
+                  "coords": [
+                        84.984311,
+                        24.692527
+                  ]
+            },
+            {
+                  "name": "Bodhgaya Main Market",
+                  "text": "This bustling market is the ideal place to purchase handcrafted prayer wheels, statues, and religious souvenirs.",
+                  "category": "cultural",
+                  "coords": [
+                        84.992604,
+                        24.696413
+                  ]
+            },
+            {
+                  "name": "Mahabodhi Shopping Complex",
+                  "text": "This modern shopping complex offers pilgrims a variety of shops for textiles, books, and local handicrafts.",
+                  "category": "cultural",
+                  "coords": [
+                        84.979277,
+                        24.694329
+                  ]
+            },
+            {
+                  "name": "Veg/Fruits market",
+                  "text": "A lively local market where nearby farmers offer fresh fruits, vegetables, and exotic spices every day.",
+                  "category": "cultural",
+                  "coords": [
+                        84.992446,
+                        24.698548
+                  ]
+            },
+            {
+                  "name": "Maa Mangla Gauri Temple",
+                  "text": "Situated atop Manglagauri Hill, this temple is one of the 18 major Shakti Peethas and a significant Hindu pilgrimage site.",
+                  "category": "landmark",
+                  "coords": [
+                        85.002491,
+                        24.77495
+                  ]
+            },
+            {
+                  "name": "Totoro tree",
+                  "text": "This massive banyan tree is where, according to tradition, Buddha spent his fifth week after enlightenment.",
+                  "category": "landmark",
+                  "coords": [
+                        85.012785,
+                        24.716196
+                  ]
+            },
+            {
+                  "name": "Buddist Temple",
+                  "text": "A peaceful Buddhist temple featuring an ornately decorated prayer hall that invites quiet contemplation.",
+                  "category": "landmark",
+                  "coords": [
+                        84.990413,
+                        24.690614
+                  ]
+            },
+            {
+                  "name": "Vietnamese Mahaprajapati Nunnery",
+                  "text": "This nunnery is dedicated to Mahaprajapati, the first woman ordained by the Buddha, and features typical Vietnamese architectural elements.",
+                  "category": "landmark",
+                  "coords": [
+                        84.974419,
+                        24.677436
+                  ]
+            },
+            {
+                  "name": "Sakya Monastery",
+                  "text": "This Tibetan monastery of the Sakya school is recognizable by its distinctive red, white, and grey striped exterior walls.",
+                  "category": "landmark",
+                  "coords": [
+                        84.974234,
+                        24.679596
+                  ]
+            },
+            {
+                  "name": "Vajrasana Temple Katorwa",
+                  "text": "A modern Buddhist temple in the Katorwa area that serves as a local center for prayers and religious ceremonies.",
+                  "category": "landmark",
+                  "coords": [
+                        84.976488,
+                        24.677043
+                  ]
+            },
+            {
+                  "name": "Buddhagaya Banavihara Meditation Centre",
+                  "text": "This forest-based meditation center provides a secluded environment for deep spiritual practice in the Theravada tradition.",
+                  "category": "landmark",
+                  "coords": [
+                        84.979349,
+                        24.685552
+                  ]
+            },
+            {
+                  "name": "Anatta Meditation Monastery Myanmar",
+                  "text": "A Burmese monastery offering specialized meditation programs and accommodation for dedicated practitioners from around the world.",
+                  "category": "landmark",
+                  "coords": [
+                        84.978895,
+                        24.687748
+                  ]
+            },
+            {
+                  "name": "Buddhist Temple",
+                  "text": "This artistically designed temple serves as a peaceful place of worship and houses an impressive golden Buddha statue.",
+                  "category": "landmark",
+                  "coords": [
+                        84.983806,
+                        24.687801
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "IN-BR",
     coords: [84.9912, 24.6959],
@@ -232,7 +4597,268 @@ export const poiExtraIndiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "in-fatehpur-sikri-history-v2",
+    id: "in-fatehpur-sikri-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hiran Minar",
+                  "text": "Ein einzigartiger Rundturm mit steinernen Elefantenstoßzähnen, der einst als Jagdmarkierung diente.",
+                  "category": "historical",
+                  "coords": [
+                        77.662587,
+                        27.098734
+                  ]
+            },
+            {
+                  "name": "Diwan Khana-i Am",
+                  "text": "Die majestätische Halle der öffentlichen Audienz, in der die Mogulkaiser ihre Untertanen empfingen.",
+                  "category": "landmark",
+                  "coords": [
+                        77.666894,
+                        27.097538
+                  ]
+            },
+            {
+                  "name": "Buland Darwaza",
+                  "text": "Das „Tor der Pracht“, das höchste Tor der Welt, errichtet zur Feier eines militärischen Sieges.",
+                  "category": "historical",
+                  "coords": [
+                        77.662794,
+                        27.094312
+                  ]
+            },
+            {
+                  "name": "Agra Gate",
+                  "text": "Einer der imposanten befestigten Eingänge durch die roten Sandsteinmauern der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        77.676044,
+                        27.101795
+                  ]
+            },
+            {
+                  "name": "Jodha Bai palace",
+                  "text": "Der größte Wohnpalast in Fatehpur Sikri, erbaut für Akbars Rajputen-Königin.",
+                  "category": "landmark",
+                  "coords": [
+                        77.664854,
+                        27.096497
+                  ]
+            },
+            {
+                  "name": "Daulat Khana",
+                  "text": "Die kaiserlichen Privatgemächer von Kaiser Akbar innerhalb des Palastkomplexes.",
+                  "category": "landmark",
+                  "coords": [
+                        77.665834,
+                        27.097821
+                  ]
+            },
+            {
+                  "name": "Kinari Bazaar",
+                  "text": "Ein traditionelles Marktviertel nahe dem historischen Komplex, in dem lokales Handwerk verkauft wird.",
+                  "category": "cultural",
+                  "coords": [
+                        77.663851,
+                        27.095922
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hiran Minar",
+                  "text": "Különleges kerek torony kő elefántagyarakkal, amely egykor vadászati jelzőpontként szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        77.662587,
+                        27.098734
+                  ]
+            },
+            {
+                  "name": "Diwan Khana-i Am",
+                  "text": "A fenséges nyilvános kihallgatási csarnok, ahol a mogul uralkodók fogadták alattvalóikat.",
+                  "category": "landmark",
+                  "coords": [
+                        77.666894,
+                        27.097538
+                  ]
+            },
+            {
+                  "name": "Buland Darwaza",
+                  "text": "A „Pompás kapu”, a világ legmagasabb kapuja, amelyet egy katonai győzelem emlékére emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        77.662794,
+                        27.094312
+                  ]
+            },
+            {
+                  "name": "Agra Gate",
+                  "text": "A város vörös homokkő falaiba épített egyik impozáns, erődített bejárat.",
+                  "category": "historical",
+                  "coords": [
+                        77.676044,
+                        27.101795
+                  ]
+            },
+            {
+                  "name": "Jodha Bai palace",
+                  "text": "Fatehpur Szíkri legnagyobb lakópalotája, amely Akbar rádzsput királynéja számára épült.",
+                  "category": "landmark",
+                  "coords": [
+                        77.664854,
+                        27.096497
+                  ]
+            },
+            {
+                  "name": "Daulat Khana",
+                  "text": "Akbar császár személyi lakosztályai a palotakomplexumon belül.",
+                  "category": "landmark",
+                  "coords": [
+                        77.665834,
+                        27.097821
+                  ]
+            },
+            {
+                  "name": "Kinari Bazaar",
+                  "text": "Hagyományos piacnegyed a történelmi komplexum közelében, ahol helyi kézműves termékeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        77.663851,
+                        27.095922
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hiran Minar",
+                  "text": "Un turn circular unic, decorat cu colți de elefant din piatră, folosit odinioară ca reper de vânătoare.",
+                  "category": "historical",
+                  "coords": [
+                        77.662587,
+                        27.098734
+                  ]
+            },
+            {
+                  "name": "Diwan Khana-i Am",
+                  "text": "Majestuoasa Sală de Audiențe Publice, unde împărații moguli se întâlneau cu supușii lor.",
+                  "category": "landmark",
+                  "coords": [
+                        77.666894,
+                        27.097538
+                  ]
+            },
+            {
+                  "name": "Buland Darwaza",
+                  "text": "„Poarta Magnificenței”, cea mai înaltă poartă din lume, construită pentru a celebra o victorie militară.",
+                  "category": "historical",
+                  "coords": [
+                        77.662794,
+                        27.094312
+                  ]
+            },
+            {
+                  "name": "Agra Gate",
+                  "text": "Una dintre intrările fortificate impunătoare prin zidurile de gresie roșie ale orașului.",
+                  "category": "historical",
+                  "coords": [
+                        77.676044,
+                        27.101795
+                  ]
+            },
+            {
+                  "name": "Jodha Bai palace",
+                  "text": "Cel mai mare palat rezidențial din Fatehpur Sikri, construit pentru regina Rajput a lui Akbar.",
+                  "category": "landmark",
+                  "coords": [
+                        77.664854,
+                        27.096497
+                  ]
+            },
+            {
+                  "name": "Daulat Khana",
+                  "text": "Apartamentele private imperiale ale împăratului Akbar din cadrul complexului palatului.",
+                  "category": "landmark",
+                  "coords": [
+                        77.665834,
+                        27.097821
+                  ]
+            },
+            {
+                  "name": "Kinari Bazaar",
+                  "text": "O zonă de piață tradițională lângă complexul istoric, unde se vând obiecte de artizanat local.",
+                  "category": "cultural",
+                  "coords": [
+                        77.663851,
+                        27.095922
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hiran Minar",
+                  "text": "A unique circular tower bristling with stone elephant tusks, used as a hunting marker.",
+                  "category": "historical",
+                  "coords": [
+                        77.662587,
+                        27.098734
+                  ]
+            },
+            {
+                  "name": "Diwan Khana-i Am",
+                  "text": "The majestic Hall of Public Audience where Mughal emperors met their subjects.",
+                  "category": "landmark",
+                  "coords": [
+                        77.666894,
+                        27.097538
+                  ]
+            },
+            {
+                  "name": "Buland Darwaza",
+                  "text": "The \"Gate of Magnificence,\" the world's highest gateway, built to celebrate a military victory.",
+                  "category": "historical",
+                  "coords": [
+                        77.662794,
+                        27.094312
+                  ]
+            },
+            {
+                  "name": "Agra Gate",
+                  "text": "One of the imposing fortified entrances through the red sandstone walls of the city.",
+                  "category": "historical",
+                  "coords": [
+                        77.676044,
+                        27.101795
+                  ]
+            },
+            {
+                  "name": "Jodha Bai palace",
+                  "text": "The largest residential palace in Fatehpur Sikri, built for Akbar's Rajput queen.",
+                  "category": "landmark",
+                  "coords": [
+                        77.664854,
+                        27.096497
+                  ]
+            },
+            {
+                  "name": "Daulat Khana",
+                  "text": "The imperial private quarters of Emperor Akbar within the palace complex.",
+                  "category": "landmark",
+                  "coords": [
+                        77.665834,
+                        27.097821
+                  ]
+            },
+            {
+                  "name": "Kinari Bazaar",
+                  "text": "A traditional market area near the historic complex selling local handicrafts.",
+                  "category": "cultural",
+                  "coords": [
+                        77.663851,
+                        27.095922
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "IN-UP",
     coords: [77.6613, 27.0945],
@@ -280,7 +4906,412 @@ export const poiExtraIndiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "in-sanchi-stupa-history-v2",
+    id: "in-sanchi-stupa-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khamb Baba - Heliodorus coloum",
+                  "text": "Eine Steinsäule aus dem Jahr 113 v. Chr., die von einem griechischen Gesandten zu Ehren des Gottes Vishnu errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        77.800139,
+                        23.549514
+                  ]
+            },
+            {
+                  "name": "Cave 5 (Varāha Cave)",
+                  "text": "Diese archäologische Stätte ist berühmt für ein monumentales Relief des Gottes Vishnu in seiner Eber-Inkarnation Varaha.",
+                  "category": "historical",
+                  "coords": [
+                        77.772406,
+                        23.536313
+                  ]
+            },
+            {
+                  "name": "Cave 1",
+                  "text": "Die einzige Höhle der Anlage, die ein teilweise angepasstes natürliches Felsband nutzt und über einen kleinen Portikus verfügt.",
+                  "category": "historical",
+                  "coords": [
+                        77.770636,
+                        23.532559
+                  ]
+            },
+            {
+                  "name": "Cave 19 (Viṣṇupada cave)",
+                  "text": "Die größte Höhle des Komplexes, die für ein Relief bekannt ist, das das mythologische Quirlen des Milchozeans darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        77.771837,
+                        23.540412
+                  ]
+            },
+            {
+                  "name": "Temple 40",
+                  "text": "Ruinen eines der ältesten freistehenden Tempel Indiens aus dem 3. Jahrhundert v. Chr., der ursprünglich als apsidiale Holzhalle erbaut wurde.",
+                  "category": "historical",
+                  "coords": [
+                        77.73994,
+                        23.478259
+                  ]
+            },
+            {
+                  "name": "Bhāillasvāmin temple mound",
+                  "text": "Ein gewaltiger Tempelhügel, der die Überreste eines prächtigen Sonnentempels aus dem 11. Jahrhundert verbirgt.",
+                  "category": "historical",
+                  "coords": [
+                        77.77165,
+                        23.535173
+                  ]
+            },
+            {
+                  "name": "Vaiṣṇava Temple",
+                  "text": "Die archäologischen Überreste eines frühen Vishnu-Tempels, der in der Nähe der berühmten buddhistischen Monumente liegt.",
+                  "category": "historical",
+                  "coords": [
+                        77.771175,
+                        23.539452
+                  ]
+            },
+            {
+                  "name": "Great Stupa",
+                  "text": "Dieses ikonische buddhistische Denkmal aus dem 3. Jahrhundert v. Chr. ist berühmt für seine massiven Steintore mit kunstvollen Reliefs.",
+                  "category": "landmark",
+                  "coords": [
+                        77.739603,
+                        23.479356
+                  ]
+            },
+            {
+                  "name": "Sanchi Museum",
+                  "text": "Dieses Museum beherbergt seltene Artefakte, darunter das berühmte Löwenkapitell von Ashoka, das als nationales Emblem Indiens dient.",
+                  "category": "museum",
+                  "coords": [
+                        77.739397,
+                        23.484181
+                  ]
+            },
+            {
+                  "name": "Stupa 2",
+                  "text": "Dieser Stupa ist bekannt für seine gut erhaltenen Steinmedaillons, die Pflanzenmotive und Fabelwesen darstellen.",
+                  "category": "landmark",
+                  "coords": [
+                        77.736269,
+                        23.480642
+                  ]
+            },
+            {
+                  "name": "Gurudwara Vidisha",
+                  "text": "Ein bedeutendes sikhistisches Gebetshaus in Vidisha, das für seine Gastfreundschaft und den täglichen Langar bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        77.809958,
+                        23.524034
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khamb Baba - Heliodorus coloum",
+                  "text": "Egy i. e. 113-ból származó kőoszlop, amelyet egy görög nagykövet emeltetett Visnu isten tiszteletére.",
+                  "category": "landmark",
+                  "coords": [
+                        77.800139,
+                        23.549514
+                  ]
+            },
+            {
+                  "name": "Cave 5 (Varāha Cave)",
+                  "text": "Ez a régészeti lelőhely Visnu isten monumentális domborművéről híres, amely vadkan (Varaha) alakjában ábrázolja őt.",
+                  "category": "historical",
+                  "coords": [
+                        77.772406,
+                        23.536313
+                  ]
+            },
+            {
+                  "name": "Cave 1",
+                  "text": "A komplexum egyetlen barlangja, amely egy részben átalakított természetes párkányt használ és kis oszlopcsarnokkal rendelkezik.",
+                  "category": "historical",
+                  "coords": [
+                        77.770636,
+                        23.532559
+                  ]
+            },
+            {
+                  "name": "Cave 19 (Viṣṇupada cave)",
+                  "text": "A komplexum legnagyobb barlangja, amely a tejóceán mitológiai köpülését ábrázoló domborművéről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        77.771837,
+                        23.540412
+                  ]
+            },
+            {
+                  "name": "Temple 40",
+                  "text": "India egyik legrégebbi, i. e. 3. századból származó szabadon álló templomának romjai, amely eredetileg apszisos facsarnokként épült.",
+                  "category": "historical",
+                  "coords": [
+                        77.73994,
+                        23.478259
+                  ]
+            },
+            {
+                  "name": "Bhāillasvāmin temple mound",
+                  "text": "Egy hatalmas templomdomb, amely egy pompás, 11. századi Naptemplom maradványait rejti.",
+                  "category": "historical",
+                  "coords": [
+                        77.77165,
+                        23.535173
+                  ]
+            },
+            {
+                  "name": "Vaiṣṇava Temple",
+                  "text": "Egy korai Visnu-templom régészeti maradványai, amely a híres buddhista műemlékek közelében található.",
+                  "category": "historical",
+                  "coords": [
+                        77.771175,
+                        23.539452
+                  ]
+            },
+            {
+                  "name": "Great Stupa",
+                  "text": "Ez az i. e. 3. századból származó ikonikus buddhista emlékhely híres masszív, díszes domborművekkel ellátott kőkapuiról.",
+                  "category": "landmark",
+                  "coords": [
+                        77.739603,
+                        23.479356
+                  ]
+            },
+            {
+                  "name": "Sanchi Museum",
+                  "text": "Ez a múzeum ritka műtárgyaknak ad otthont, köztük Asóka híres oroszlános oszlopfőjének, amely India nemzeti jelképe.",
+                  "category": "museum",
+                  "coords": [
+                        77.739397,
+                        23.484181
+                  ]
+            },
+            {
+                  "name": "Stupa 2",
+                  "text": "Ez a sztúpa jól megőrzött kőmedallonjairól ismert, amelyek növényi motívumokat és mitológiai lényeket ábrázolnak.",
+                  "category": "landmark",
+                  "coords": [
+                        77.736269,
+                        23.480642
+                  ]
+            },
+            {
+                  "name": "Gurudwara Vidisha",
+                  "text": "Vidisha jelentős szikh imaháza, amely vendégszeretetéről és a napi közösségi étkezésekről (langar) ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        77.809958,
+                        23.524034
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khamb Baba - Heliodorus coloum",
+                  "text": "O coloană de piatră ridicată în anul 113 î.Hr. de către un ambasador grec în onoarea zeului Vishnu.",
+                  "category": "landmark",
+                  "coords": [
+                        77.800139,
+                        23.549514
+                  ]
+            },
+            {
+                  "name": "Cave 5 (Varāha Cave)",
+                  "text": "Acest sit arheologic este renumit pentru un relief monumental al zeului Vishnu în încarnarea sa de mistreț, Varaha.",
+                  "category": "historical",
+                  "coords": [
+                        77.772406,
+                        23.536313
+                  ]
+            },
+            {
+                  "name": "Cave 1",
+                  "text": "Singura peșteră din complex care folosește o cornișă naturală adaptată parțial și dispune de un mic portic.",
+                  "category": "historical",
+                  "coords": [
+                        77.770636,
+                        23.532559
+                  ]
+            },
+            {
+                  "name": "Cave 19 (Viṣṇupada cave)",
+                  "text": "Cea mai mare peșteră din complex, cunoscută pentru un relief care înfățișează baterea mitologică a oceanului de lapte.",
+                  "category": "historical",
+                  "coords": [
+                        77.771837,
+                        23.540412
+                  ]
+            },
+            {
+                  "name": "Temple 40",
+                  "text": "Ruinele unuia dintre cele mai vechi temple de sine stătătoare din India, din secolul al III-lea î.Hr., construit inițial ca o sală absidală din lemn.",
+                  "category": "historical",
+                  "coords": [
+                        77.73994,
+                        23.478259
+                  ]
+            },
+            {
+                  "name": "Bhāillasvāmin temple mound",
+                  "text": "O movilă imensă de templu care ascunde rămășițele unui splendid templu al Soarelui din secolul al XI-lea.",
+                  "category": "historical",
+                  "coords": [
+                        77.77165,
+                        23.535173
+                  ]
+            },
+            {
+                  "name": "Vaiṣṇava Temple",
+                  "text": "Rămășițele arheologice ale unui templu timpuriu dedicat lui Vishnu, situat în apropierea faimoaselor monumente budiste.",
+                  "category": "historical",
+                  "coords": [
+                        77.771175,
+                        23.539452
+                  ]
+            },
+            {
+                  "name": "Great Stupa",
+                  "text": "Acest monument budist iconic din secolul al III-lea î.Hr. este faimos pentru porțile sale masive de piatră cu reliefuri elaborate.",
+                  "category": "landmark",
+                  "coords": [
+                        77.739603,
+                        23.479356
+                  ]
+            },
+            {
+                  "name": "Sanchi Museum",
+                  "text": "Acest muzeu găzduiește artefacte rare, inclusiv celebrul capitel cu lei al lui Ashoka, care servește drept emblemă națională a Indiei.",
+                  "category": "museum",
+                  "coords": [
+                        77.739397,
+                        23.484181
+                  ]
+            },
+            {
+                  "name": "Stupa 2",
+                  "text": "Această stupă este cunoscută pentru medalioanele sale de piatră bine conservate, care înfățișează motive florale și creaturi mitologice.",
+                  "category": "landmark",
+                  "coords": [
+                        77.736269,
+                        23.480642
+                  ]
+            },
+            {
+                  "name": "Gurudwara Vidisha",
+                  "text": "O casă de rugăciune sikh semnificativă în Vidisha, cunoscută pentru ospitalitatea sa și serviciul zilnic de masă comunitară (langar).",
+                  "category": "landmark",
+                  "coords": [
+                        77.809958,
+                        23.524034
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khamb Baba - Heliodorus coloum",
+                  "text": "A historic stone pillar erected around 113 BCE by a Greek ambassador in honor of Lord Vishnu.",
+                  "category": "landmark",
+                  "coords": [
+                        77.800139,
+                        23.549514
+                  ]
+            },
+            {
+                  "name": "Cave 5 (Varāha Cave)",
+                  "text": "This archaeological site is famous for its colossal relief of Lord Vishnu in his boar incarnation, Varaha, rescuing the Earth.",
+                  "category": "historical",
+                  "coords": [
+                        77.772406,
+                        23.536313
+                  ]
+            },
+            {
+                  "name": "Cave 1",
+                  "text": "The only cave at the site featuring a partially adapted natural rock ledge and a small decorative portico.",
+                  "category": "historical",
+                  "coords": [
+                        77.770636,
+                        23.532559
+                  ]
+            },
+            {
+                  "name": "Cave 19 (Viṣṇupada cave)",
+                  "text": "The largest cave in the complex, famous for its detailed lintel carving depicting the mythological Churning of the Ocean.",
+                  "category": "historical",
+                  "coords": [
+                        77.771837,
+                        23.540412
+                  ]
+            },
+            {
+                  "name": "Temple 40",
+                  "text": "Ruins of one of India's oldest free-standing temples (3rd century BCE), originally built as an apsidal wooden hall.",
+                  "category": "historical",
+                  "coords": [
+                        77.73994,
+                        23.478259
+                  ]
+            },
+            {
+                  "name": "Bhāillasvāmin temple mound",
+                  "text": "A massive archaeological mound containing the remains of a grand 11th-century Sun temple that rivaled Konark in scale.",
+                  "category": "historical",
+                  "coords": [
+                        77.77165,
+                        23.535173
+                  ]
+            },
+            {
+                  "name": "Vaiṣṇava Temple",
+                  "text": "The archaeological remains of an early Vaishnava temple located in close proximity to the main Buddhist complex.",
+                  "category": "historical",
+                  "coords": [
+                        77.771175,
+                        23.539452
+                  ]
+            },
+            {
+                  "name": "Great Stupa",
+                  "text": "This iconic 3rd-century BCE Buddhist monument is world-renowned for its massive stone gateways covered in intricate reliefs.",
+                  "category": "landmark",
+                  "coords": [
+                        77.739603,
+                        23.479356
+                  ]
+            },
+            {
+                  "name": "Sanchi Museum",
+                  "text": "This museum houses rare artifacts, including the famous Ashokan Lion Capital which serves as India's national emblem.",
+                  "category": "museum",
+                  "coords": [
+                        77.739397,
+                        23.484181
+                  ]
+            },
+            {
+                  "name": "Stupa 2",
+                  "text": "This stupa is notable for its well-preserved stone medallions depicting floral motifs and diverse mythological creatures.",
+                  "category": "landmark",
+                  "coords": [
+                        77.736269,
+                        23.480642
+                  ]
+            },
+            {
+                  "name": "Gurudwara Vidisha",
+                  "text": "A prominent Sikh place of worship in Vidisha, known for its serene atmosphere and the tradition of community service.",
+                  "category": "landmark",
+                  "coords": [
+                        77.809958,
+                        23.524034
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "IN-MP",
     coords: [77.7399, 23.4791],
@@ -328,7 +5359,484 @@ export const poiExtraIndiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "in-konark-sun-temple-history-v2",
+    id: "in-konark-sun-temple-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Archeological Museum, Konark",
+                  "text": "Dieses Museum zeigt Skulpturen und dekorative Steinarbeiten, die aus dem Sonnentempel von Konark geborgen wurden.",
+                  "category": "museum",
+                  "coords": [
+                        86.094478,
+                        19.891141
+                  ]
+            },
+            {
+                  "name": "Arka Kshetra",
+                  "text": "Ein kultureller Raum, der dem religiösen Erbe des 'Landes der Sonne' gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        86.098067,
+                        19.887231
+                  ]
+            },
+            {
+                  "name": "Chandrabhaga",
+                  "text": "Ein markanter Leuchtturm nahe der Küste, der einen weiten Blick über den Golf von Bengalen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        86.108103,
+                        19.867836
+                  ]
+            },
+            {
+                  "name": "Open Air Auditorium",
+                  "text": "Ein Freilichttheater, das als Veranstaltungsort für das berühmte Konark-Tanzfestival vor der Kulisse des Tempels dient.",
+                  "category": "cultural",
+                  "coords": [
+                        86.094526,
+                        19.889766
+                  ]
+            },
+            {
+                  "name": "Balukhand Konark WLS",
+                  "text": "Dieses Naturschutzgebiet an der Küste ist bekannt für seine Herden von Hirschziegenantilopen.",
+                  "category": "natural",
+                  "coords": [
+                        86.027298,
+                        19.858694
+                  ]
+            },
+            {
+                  "name": "Urban Hata",
+                  "text": "Ein lokaler Marktplatz, auf dem traditionelles Kunsthandwerk und Textilien aus der Region Odisha verkauft werden.",
+                  "category": "landmark",
+                  "coords": [
+                        86.098802,
+                        19.886265
+                  ]
+            },
+            {
+                  "name": "Konark Sun Temple",
+                  "text": "Ein UNESCO-Weltkulturerbe aus dem 13. Jahrhundert, erbaut als gigantischer steinerner Streitwagen mit 24 Rädern.",
+                  "category": "landmark",
+                  "coords": [
+                        86.094511,
+                        19.887565
+                  ]
+            },
+            {
+                  "name": "Chandrabhaga Beach",
+                  "text": "Ein weiter Sandstrand am Golf von Bengalen, berühmt für seine malerischen Sonnenaufgänge.",
+                  "category": "recreational",
+                  "coords": [
+                        86.112238,
+                        19.865392
+                  ]
+            },
+            {
+                  "name": "Maa Bhagabati Temple",
+                  "text": "Ein hinduistischer Tempel, der der Göttin Bhagabati, einer Form der Shakti, gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        86.081036,
+                        19.889945
+                  ]
+            },
+            {
+                  "name": "Maa Mangala temple",
+                  "text": "Ein bedeutender Schrein der Göttin Mangala, der eng mit den Ritualen des Jagannath-Tempels verbunden ist.",
+                  "category": "religious",
+                  "coords": [
+                        86.098346,
+                        19.888345
+                  ]
+            },
+            {
+                  "name": "Navagraha temple",
+                  "text": "Ein kleiner Tempel mit einem massiven Steinrelief, das die neun Planeten der hinduistischen Astrologie darstellt.",
+                  "category": "religious",
+                  "coords": [
+                        86.095606,
+                        19.888613
+                  ]
+            },
+            {
+                  "name": "Gundicha Temple Konark",
+                  "text": "Ein lokaler hinduistischer Tempel in Konark, benannt nach dem berühmten Gundicha-Tempel in Puri.",
+                  "category": "landmark",
+                  "coords": [
+                        86.113442,
+                        19.897635
+                  ]
+            },
+            {
+                  "name": "Baba Bateswar Temple",
+                  "text": "Ein Bateshwar gewidmeter Hindu-Tempel in der historischen Region von Konark.",
+                  "category": "landmark",
+                  "coords": [
+                        86.14966,
+                        19.909217
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Archeological Museum, Konark",
+                  "text": "Ez a múzeum a konarki Naptemplomból származó szobrokat és díszes kőfaragványokat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        86.094478,
+                        19.891141
+                  ]
+            },
+            {
+                  "name": "Arka Kshetra",
+                  "text": "Kulturális tér, amelyet a 'Nap Földje' vallási és történelmi örökségének szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        86.098067,
+                        19.887231
+                  ]
+            },
+            {
+                  "name": "Chandrabhaga",
+                  "text": "Jellegzetes világítótorony a part közelében, amely széles kilátást nyújt a Bengáli-öbölre.",
+                  "category": "landmark",
+                  "coords": [
+                        86.108103,
+                        19.867836
+                  ]
+            },
+            {
+                  "name": "Open Air Auditorium",
+                  "text": "Szabadtéri színpad, amely a híres Konark Táncfesztivál helyszíne a templom előterében.",
+                  "category": "cultural",
+                  "coords": [
+                        86.094526,
+                        19.889766
+                  ]
+            },
+            {
+                  "name": "Balukhand Konark WLS",
+                  "text": "Ez a tengerparti természetvédelmi terület a fekete antilopok csordáiról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        86.027298,
+                        19.858694
+                  ]
+            },
+            {
+                  "name": "Urban Hata",
+                  "text": "Helyi piactér, ahol Odisha hagyományos kézműves termékeit és textíliáit árusítják.",
+                  "category": "landmark",
+                  "coords": [
+                        86.098802,
+                        19.886265
+                  ]
+            },
+            {
+                  "name": "Konark Sun Temple",
+                  "text": "13. századi UNESCO világörökségi helyszín, amely egy óriási, 24 kerekű kő harci szekeret formáz.",
+                  "category": "landmark",
+                  "coords": [
+                        86.094511,
+                        19.887565
+                  ]
+            },
+            {
+                  "name": "Chandrabhaga Beach",
+                  "text": "Hatalmas homokos tengerpart a Bengáli-öböl mentén, amely festői napfelkeltéiről nevezetes.",
+                  "category": "recreational",
+                  "coords": [
+                        86.112238,
+                        19.865392
+                  ]
+            },
+            {
+                  "name": "Maa Bhagabati Temple",
+                  "text": "Bhagabati istennőnek, a Sakti egyik formájának szentelt hindu templom Konark közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        86.081036,
+                        19.889945
+                  ]
+            },
+            {
+                  "name": "Maa Mangala temple",
+                  "text": "Mangala istennő jelentős szentélye, amely szorosan kapcsolódik a Jagannath-templom rituáléihoz.",
+                  "category": "religious",
+                  "coords": [
+                        86.098346,
+                        19.888345
+                  ]
+            },
+            {
+                  "name": "Navagraha temple",
+                  "text": "Kicsiny templom egy hatalmas kődomborművel, amely a hindu asztrológia kilenc bolygóját ábrázolja.",
+                  "category": "religious",
+                  "coords": [
+                        86.095606,
+                        19.888613
+                  ]
+            },
+            {
+                  "name": "Gundicha Temple Konark",
+                  "text": "Helyi hindu templom Konarkban, amelyet a híres puri Gundicha-templom után neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        86.113442,
+                        19.897635
+                  ]
+            },
+            {
+                  "name": "Baba Bateswar Temple",
+                  "text": "Bateswarnak szentelt hindu templom Konark történelmi régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        86.14966,
+                        19.909217
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Archeological Museum, Konark",
+                  "text": "Acest muzeu expune sculpturi și lucrări ornamentale în piatră recuperate de la Templul Soarelui din Konark.",
+                  "category": "museum",
+                  "coords": [
+                        86.094478,
+                        19.891141
+                  ]
+            },
+            {
+                  "name": "Arka Kshetra",
+                  "text": "Un spațiu cultural dedicat moștenirii religioase a „Ținutului Soarelui” din Konark.",
+                  "category": "museum",
+                  "coords": [
+                        86.098067,
+                        19.887231
+                  ]
+            },
+            {
+                  "name": "Chandrabhaga",
+                  "text": "Un far proeminent lângă coastă, oferind o vedere largă asupra Golfului Bengal.",
+                  "category": "landmark",
+                  "coords": [
+                        86.108103,
+                        19.867836
+                  ]
+            },
+            {
+                  "name": "Open Air Auditorium",
+                  "text": "Un amfiteatru în aer liber care găzduiește celebrul Festival de Dans Konark, având templul ca fundal.",
+                  "category": "cultural",
+                  "coords": [
+                        86.094526,
+                        19.889766
+                  ]
+            },
+            {
+                  "name": "Balukhand Konark WLS",
+                  "text": "Această rezervație naturală de coastă este cunoscută pentru efectivele sale de antilope negre.",
+                  "category": "natural",
+                  "coords": [
+                        86.027298,
+                        19.858694
+                  ]
+            },
+            {
+                  "name": "Urban Hata",
+                  "text": "O piață locală unde se vând obiecte de artizanat tradițional și textile din regiunea Odisha.",
+                  "category": "landmark",
+                  "coords": [
+                        86.098802,
+                        19.886265
+                  ]
+            },
+            {
+                  "name": "Konark Sun Temple",
+                  "text": "Un sit UNESCO din secolul al XIII-lea, construit sub forma unui car de luptă gigantic din piatră cu 24 de roți.",
+                  "category": "landmark",
+                  "coords": [
+                        86.094511,
+                        19.887565
+                  ]
+            },
+            {
+                  "name": "Chandrabhaga Beach",
+                  "text": "O plajă de nisip întinsă la Golful Bengal, faimoasă pentru răsăriturile sale pitorești.",
+                  "category": "recreational",
+                  "coords": [
+                        86.112238,
+                        19.865392
+                  ]
+            },
+            {
+                  "name": "Maa Bhagabati Temple",
+                  "text": "Un templu hindu dedicat zeiței Bhagabati, o formă a energiei divine Shakti.",
+                  "category": "landmark",
+                  "coords": [
+                        86.081036,
+                        19.889945
+                  ]
+            },
+            {
+                  "name": "Maa Mangala temple",
+                  "text": "Un altar important al zeiței Mangala, strâns legat de ritualurile templului Jagannath.",
+                  "category": "religious",
+                  "coords": [
+                        86.098346,
+                        19.888345
+                  ]
+            },
+            {
+                  "name": "Navagraha temple",
+                  "text": "Un mic templu ce adăpostește un basorelief masiv din piatră reprezentând cele nouă planete ale astrologiei hinduse.",
+                  "category": "religious",
+                  "coords": [
+                        86.095606,
+                        19.888613
+                  ]
+            },
+            {
+                  "name": "Gundicha Temple Konark",
+                  "text": "Un templu hindu local din Konark, numit după faimosul templu Gundicha din Puri.",
+                  "category": "landmark",
+                  "coords": [
+                        86.113442,
+                        19.897635
+                  ]
+            },
+            {
+                  "name": "Baba Bateswar Temple",
+                  "text": "Un templu hindu dedicat lui Bateswar în regiunea istorică Konark.",
+                  "category": "landmark",
+                  "coords": [
+                        86.14966,
+                        19.909217
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Archeological Museum, Konark",
+                  "text": "This museum displays sculptures and decorative stone works salvaged from the Konark Sun Temple.",
+                  "category": "museum",
+                  "coords": [
+                        86.094478,
+                        19.891141
+                  ]
+            },
+            {
+                  "name": "Arka Kshetra",
+                  "text": "A cultural space dedicated to the religious heritage of the 'Land of the Sun' in Konark.",
+                  "category": "museum",
+                  "coords": [
+                        86.098067,
+                        19.887231
+                  ]
+            },
+            {
+                  "name": "Chandrabhaga",
+                  "text": "A prominent lighthouse near the coast, offering a wide view over the Bay of Bengal.",
+                  "category": "landmark",
+                  "coords": [
+                        86.108103,
+                        19.867836
+                  ]
+            },
+            {
+                  "name": "Open Air Auditorium",
+                  "text": "An open-air auditorium that hosts the famous Konark Dance Festival against the backdrop of the temple.",
+                  "category": "cultural",
+                  "coords": [
+                        86.094526,
+                        19.889766
+                  ]
+            },
+            {
+                  "name": "Balukhand Konark WLS",
+                  "text": "This coastal nature reserve is known for its herds of blackbuck antelopes.",
+                  "category": "natural",
+                  "coords": [
+                        86.027298,
+                        19.858694
+                  ]
+            },
+            {
+                  "name": "Urban Hata",
+                  "text": "A local marketplace selling traditional handicrafts and textiles from the Odisha region.",
+                  "category": "landmark",
+                  "coords": [
+                        86.098802,
+                        19.886265
+                  ]
+            },
+            {
+                  "name": "Konark Sun Temple",
+                  "text": "A 13th-century UNESCO World Heritage site built as a giant stone chariot with twenty-four wheels.",
+                  "category": "landmark",
+                  "coords": [
+                        86.094511,
+                        19.887565
+                  ]
+            },
+            {
+                  "name": "Chandrabhaga Beach",
+                  "text": "A wide sandy beach on the Bay of Bengal, famous for its picturesque sunrise views.",
+                  "category": "recreational",
+                  "coords": [
+                        86.112238,
+                        19.865392
+                  ]
+            },
+            {
+                  "name": "Maa Bhagabati Temple",
+                  "text": "A Hindu temple dedicated to Goddess Bhagabati, a form of divine Shakti energy.",
+                  "category": "landmark",
+                  "coords": [
+                        86.081036,
+                        19.889945
+                  ]
+            },
+            {
+                  "name": "Maa Mangala temple",
+                  "text": "An important shrine of Goddess Mangala, closely linked to the rituals of the Jagannath Temple.",
+                  "category": "religious",
+                  "coords": [
+                        86.098346,
+                        19.888345
+                  ]
+            },
+            {
+                  "name": "Navagraha temple",
+                  "text": "A small temple housing a massive stone relief depicting the nine planets of Hindu astrology.",
+                  "category": "religious",
+                  "coords": [
+                        86.095606,
+                        19.888613
+                  ]
+            },
+            {
+                  "name": "Gundicha Temple Konark",
+                  "text": "A local Hindu temple in Konark, named after the famous Gundicha Temple in Puri.",
+                  "category": "landmark",
+                  "coords": [
+                        86.113442,
+                        19.897635
+                  ]
+            },
+            {
+                  "name": "Baba Bateswar Temple",
+                  "text": "A Hindu temple dedicated to Bateswar in the historic region of Konark.",
+                  "category": "landmark",
+                  "coords": [
+                        86.14966,
+                        19.909217
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "IN-OR",
     coords: [86.0945, 19.8876],
@@ -376,7 +5884,844 @@ export const poiExtraIndiaHistoryV2: POI[] = [
     },
   },
     {
-    id: "in-khajuraho-temples-history-v2",
+    id: "in-khajuraho-temples-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lalguan Mahadev Temple",
+                  "text": "Ein ruinierter Shiva-Tempel aus Granit und Sandstein, der eine Übergangsphase in der Architektur von Khajuraho darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        79.911312,
+                        24.85081
+                  ]
+            },
+            {
+                  "name": "Chaunsath Yogini temple",
+                  "text": "Der älteste erhaltene Tempel in Khajuraho, der aus Granit erbaut wurde und 64 kleine Zellen für weibliche Gottheiten besitzt.",
+                  "category": "historical",
+                  "coords": [
+                        79.918095,
+                        24.84972
+                  ]
+            },
+            {
+                  "name": "Matangeshwar Temple",
+                  "text": "Ein aktiver hinduistischer Tempel, der einen gewaltigen, über 2,5 Meter hohen Shiva-Lingam aus Sandstein beherbergt.",
+                  "category": "landmark",
+                  "coords": [
+                        79.921614,
+                        24.852016
+                  ]
+            },
+            {
+                  "name": "Hanuman Statue",
+                  "text": "Eine kolossale antike Statue des Affengottes Hanuman, die vollständig mit leuchtend oranger Zinnoberpaste bedeckt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        79.922716,
+                        24.852241
+                  ]
+            },
+            {
+                  "name": "Chaterbuja",
+                  "text": "Ein nach Westen ausgerichteter Tempel, in dem die Abendsonne das über 2,7 Meter hohe Idol des Gottes Vishnu beleuchtet.",
+                  "category": "landmark",
+                  "coords": [
+                        79.930997,
+                        24.825174
+                  ]
+            },
+            {
+                  "name": "Sunset viewpoint over the water reservoir",
+                  "text": "Ein Aussichtspunkt, der einen weiten Blick über den Shiv-Sagar-See und die westliche Tempelgruppe von Khajuraho bietet.",
+                  "category": "natural",
+                  "coords": [
+                        79.87335,
+                        24.792152
+                  ]
+            },
+            {
+                  "name": "Chitragupta Temple",
+                  "text": "Dieser dem Sonnengott Surya gewidmete Tempel ist exakt nach Osten ausgerichtet, um das erste Morgenlicht einzufangen.",
+                  "category": "landmark",
+                  "coords": [
+                        79.920103,
+                        24.854391
+                  ]
+            },
+            {
+                  "name": "Jagadambi Temple",
+                  "text": "Der Tempel liegt nördlich des Kandariya-Mahadev-Komplexes und ist berühmt für seine exquisit geschnitzten erotischen Figuren.",
+                  "category": "landmark",
+                  "coords": [
+                        79.919722,
+                        24.853399
+                  ]
+            },
+            {
+                  "name": "Western Group of Temples",
+                  "text": "Diese UNESCO-Weltkulturerbestätte umfasst die am besten erhaltenen und am aufwendigsten verzierten Tempel von Khajuraho.",
+                  "category": "landmark",
+                  "coords": [
+                        79.920829,
+                        24.853169
+                  ]
+            },
+            {
+                  "name": "Vamana Temple",
+                  "text": "Dieser isoliert stehende Tempel ist Vamana gewidmet, der Zwerg-Inkarnation des Gottes Vishnu.",
+                  "category": "landmark",
+                  "coords": [
+                        79.934976,
+                        24.85152
+                  ]
+            },
+            {
+                  "name": "Jawari Temple",
+                  "text": "Dieser kleine, gut proportionierte Tempel in der östlichen Gruppe ist für seinen reich verzierten Eingang bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        79.935285,
+                        24.849464
+                  ]
+            },
+            {
+                  "name": "Brahma Temple",
+                  "text": "Dieser aus Granit und Sandstein erbaute Tempel ist eines der ältesten Bauwerke in der östlichen Gruppe.",
+                  "category": "landmark",
+                  "coords": [
+                        79.932763,
+                        24.849201
+                  ]
+            },
+            {
+                  "name": "Parshwanath Temple",
+                  "text": "Es ist der größte Jaina-Tempel in Khajuraho und berühmt für seine kunstvollen Reliefs himmlischer Nymphen.",
+                  "category": "landmark",
+                  "coords": [
+                        79.936509,
+                        24.844913
+                  ]
+            },
+            {
+                  "name": "Ghantai Temple",
+                  "text": "Die Ruinen dieses Tempels sind für seine markanten Säulen mit Glocken- und Kettenmotiven bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        79.933401,
+                        24.846138
+                  ]
+            },
+            {
+                  "name": "Duladeo Shiva Temple",
+                  "text": "Dieser Shiva-Tempel zeichnet sich durch seinen ungewöhnlichen, sternförmigen Grundriss und fliegende Apsara-Figuren aus.",
+                  "category": "landmark",
+                  "coords": [
+                        79.931729,
+                        24.839035
+                  ]
+            },
+            {
+                  "name": "Nandi Temple",
+                  "text": "Der Pavillon beherbergt eine massive, polierte Skulptur des Stieres Nandi, dem Reittier des Gottes Shiva.",
+                  "category": "landmark",
+                  "coords": [
+                        79.922713,
+                        24.853355
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum Khajuraho New Bldg. Complex",
+                  "text": "Das Museum stellt bedeutende archäologische Fundstücke aus, darunter steinerne Statuen und architektonische Fragmente aus Khajuraho.",
+                  "category": "museum",
+                  "coords": [
+                        79.920579,
+                        24.858923
+                  ]
+            },
+            {
+                  "name": "Tribal Museum",
+                  "text": "Es präsentiert eine lebendige Sammlung von Masken, Malereien und Kunsthandwerk der indigenen Stämme von Madhya Pradesh.",
+                  "category": "museum",
+                  "coords": [
+                        79.924359,
+                        24.856976
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum",
+                  "text": "Dieses Institut bewahrt eine Vielzahl mittelalterlicher Skulpturen, die den künstlerischen Reichtum der Region widerspiegeln.",
+                  "category": "museum",
+                  "coords": [
+                        79.923634,
+                        24.851286
+                  ]
+            },
+            {
+                  "name": "Beejamandal Temple ruins",
+                  "text": "Diese Ausgrabungsstätte zeigt die massiven Fundamente eines unvollendeten Tempels, der einst einer der größten Indiens werden sollte.",
+                  "category": "landmark",
+                  "coords": [
+                        79.934501,
+                        24.829408
+                  ]
+            },
+            {
+                  "name": "Baghraajan Temple",
+                  "text": "Ein lokaler Hindutempel, der in der religiösen Praxis der Gemeinde von Khajuraho eine wichtige Rolle spielt.",
+                  "category": "landmark",
+                  "coords": [
+                        79.922398,
+                        24.830519
+                  ]
+            },
+            {
+                  "name": "Bhaurveer Hanuman Temple",
+                  "text": "Dieser Tempel beherbergt eine prominente, orangefarbene Statue des Affengottes Hanuman, die bei Einheimischen sehr verehrt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        79.9286,
+                        24.85004
+                  ]
+            },
+            {
+                  "name": "Jain Dharmashala",
+                  "text": "Diese Herberge bietet traditionelle Unterkünfte und Verpflegung für Jaina-Pilger, die die Tempelanlagen besuchen.",
+                  "category": "landmark",
+                  "coords": [
+                        79.935916,
+                        24.843768
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lalguan Mahadev Temple",
+                  "text": "Egy romos, gránitból és homokkőből épült Siva-templom, amely a khadzsuráhói építészet átmeneti szakaszát képviseli.",
+                  "category": "landmark",
+                  "coords": [
+                        79.911312,
+                        24.85081
+                  ]
+            },
+            {
+                  "name": "Chaunsath Yogini temple",
+                  "text": "Khadzsuráhó legrégebbi fennmaradt temploma, amely gránitból épült és 64 kis cellát tartalmaz a női istenségek számára.",
+                  "category": "historical",
+                  "coords": [
+                        79.918095,
+                        24.84972
+                  ]
+            },
+            {
+                  "name": "Matangeshwar Temple",
+                  "text": "Egy ma is működő hindu templom, amely egy hatalmas, több mint 2,5 méter magas homokkő Siva-lingamot őriz.",
+                  "category": "landmark",
+                  "coords": [
+                        79.921614,
+                        24.852016
+                  ]
+            },
+            {
+                  "name": "Hanuman Statue",
+                  "text": "Hanuman majomisten hatalmas, ókori szobra, amelyet teljes egészében élénk narancssárga cinóberpaszta borít.",
+                  "category": "landmark",
+                  "coords": [
+                        79.922716,
+                        24.852241
+                  ]
+            },
+            {
+                  "name": "Chaterbuja",
+                  "text": "Egy nyugatra néző templom, ahol a lemenő nap megvilágítja Visnu isten több mint 2,7 méter magas szobrát.",
+                  "category": "landmark",
+                  "coords": [
+                        79.930997,
+                        24.825174
+                  ]
+            },
+            {
+                  "name": "Sunset viewpoint over the water reservoir",
+                  "text": "Egy kilátópont, ahonnan pazar kilátás nyílik a Siv Szagar-tóra és Khadzsuráhó nyugati templomcsoportjára.",
+                  "category": "natural",
+                  "coords": [
+                        79.87335,
+                        24.792152
+                  ]
+            },
+            {
+                  "name": "Chitragupta Temple",
+                  "text": "Ezt a Szúrja napistennek szentelt templomot pontosan kelet felé tájolták, hogy befogadja a hajnal első sugarait.",
+                  "category": "landmark",
+                  "coords": [
+                        79.920103,
+                        24.854391
+                  ]
+            },
+            {
+                  "name": "Jagadambi Temple",
+                  "text": "A templom a Kandarija-Mahádéva-komplexumtól északra található, és finoman kifaragott erotikus alakjairól híres.",
+                  "category": "landmark",
+                  "coords": [
+                        79.919722,
+                        24.853399
+                  ]
+            },
+            {
+                  "name": "Western Group of Temples",
+                  "text": "Ez az UNESCO Világörökség részét képező helyszín Khajuraho legjobb állapotban maradt és legdíszesebb templomait foglalja magában.",
+                  "category": "landmark",
+                  "coords": [
+                        79.920829,
+                        24.853169
+                  ]
+            },
+            {
+                  "name": "Vamana Temple",
+                  "text": "Ez az elkülönülten álló templom Vámanának, Visnu isten törpe inkarnációjának van szentelve.",
+                  "category": "landmark",
+                  "coords": [
+                        79.934976,
+                        24.85152
+                  ]
+            },
+            {
+                  "name": "Jawari Temple",
+                  "text": "Ez a keleti csoportban található kicsi, jó arányú templom gazdagon díszített bejáratáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        79.935285,
+                        24.849464
+                  ]
+            },
+            {
+                  "name": "Brahma Temple",
+                  "text": "Ez a gránitból és homokkőből épült templom a keleti csoport egyik legrégebbi építménye.",
+                  "category": "landmark",
+                  "coords": [
+                        79.932763,
+                        24.849201
+                  ]
+            },
+            {
+                  "name": "Parshwanath Temple",
+                  "text": "Ez Khajuraho legnagyobb dzsáina temploma, amely az égi nimfákat ábrázoló művészi domborműveiről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        79.936509,
+                        24.844913
+                  ]
+            },
+            {
+                  "name": "Ghantai Temple",
+                  "text": "A templom romjai a harang- és láncmotívumokkal díszített, jellegzetes oszlopairól ismertek.",
+                  "category": "landmark",
+                  "coords": [
+                        79.933401,
+                        24.846138
+                  ]
+            },
+            {
+                  "name": "Duladeo Shiva Temple",
+                  "text": "Ez a Siva-templom szokatlan, csillag alakú alaprajzával és repülő apszara-alakjaival tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        79.931729,
+                        24.839035
+                  ]
+            },
+            {
+                  "name": "Nandi Temple",
+                  "text": "A pavilon Siva isten hátasállatának, Nandinak, a bikának egy masszív, csiszolt szobrát őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        79.922713,
+                        24.853355
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum Khajuraho New Bldg. Complex",
+                  "text": "A múzeum jelentős régészeti leleteket mutat be, többek között kőszobrokat és építészeti töredékeket Khajurahóból.",
+                  "category": "museum",
+                  "coords": [
+                        79.920579,
+                        24.858923
+                  ]
+            },
+            {
+                  "name": "Tribal Museum",
+                  "text": "Madhya Pradesh őslakos törzseinek maszkjaiból, festményeiből és kézműves termékeiből álló élénk gyűjteményt mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        79.924359,
+                        24.856976
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum",
+                  "text": "Ez az intézmény számos középkori szobrot őriz, amelyek a régió művészi gazdagságát tükrözik.",
+                  "category": "museum",
+                  "coords": [
+                        79.923634,
+                        24.851286
+                  ]
+            },
+            {
+                  "name": "Beejamandal Temple ruins",
+                  "text": "Ez a régészeti helyszín egy befejezetlen templom masszív alapjait mutatja be, amely egykor India egyik legnagyobbja lett volna.",
+                  "category": "landmark",
+                  "coords": [
+                        79.934501,
+                        24.829408
+                  ]
+            },
+            {
+                  "name": "Baghraajan Temple",
+                  "text": "Egy helyi hindu templom, amely fontos szerepet játszik Khajuraho közösségének vallási életében.",
+                  "category": "landmark",
+                  "coords": [
+                        79.922398,
+                        24.830519
+                  ]
+            },
+            {
+                  "name": "Bhaurveer Hanuman Temple",
+                  "text": "Ez a templom Hanumán majomisten jellegzetes narancssárga szobrát őrzi, amelyet a helyiek nagy tiszteletben tartanak.",
+                  "category": "landmark",
+                  "coords": [
+                        79.9286,
+                        24.85004
+                  ]
+            },
+            {
+                  "name": "Jain Dharmashala",
+                  "text": "Ez a szálláshely hagyományos szállást és étkezést biztosít a templomokat látogató dzsáina zarándokok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        79.935916,
+                        24.843768
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lalguan Mahadev Temple",
+                  "text": "Un templu ruinat dedicat lui Shiva, construit din granit și gresie, reprezentând o fază de tranziție în arhitectura din Khajuraho.",
+                  "category": "landmark",
+                  "coords": [
+                        79.911312,
+                        24.85081
+                  ]
+            },
+            {
+                  "name": "Chaunsath Yogini temple",
+                  "text": "Cel mai vechi templu supraviețuitor din Khajuraho, construit din granit, având 64 de chilii mici pentru divinitățile feminine.",
+                  "category": "historical",
+                  "coords": [
+                        79.918095,
+                        24.84972
+                  ]
+            },
+            {
+                  "name": "Matangeshwar Temple",
+                  "text": "Un templu hindu activ care găzduiește un lingam masiv al lui Shiva, din gresie, înalt de peste 2,5 metri.",
+                  "category": "landmark",
+                  "coords": [
+                        79.921614,
+                        24.852016
+                  ]
+            },
+            {
+                  "name": "Hanuman Statue",
+                  "text": "O statuie antică colosală a zeului maimuță Hanuman, acoperită în întregime cu o pastă de cinabru portocaliu strălucitor.",
+                  "category": "landmark",
+                  "coords": [
+                        79.922716,
+                        24.852241
+                  ]
+            },
+            {
+                  "name": "Chaterbuja",
+                  "text": "Un templu orientat spre vest, unde soarele de seară luminează idolul zeului Vishnu, înalt de peste 2,7 metri.",
+                  "category": "landmark",
+                  "coords": [
+                        79.930997,
+                        24.825174
+                  ]
+            },
+            {
+                  "name": "Sunset viewpoint over the water reservoir",
+                  "text": "Un punct de observație care oferă o vedere panoramică asupra lacului Shiv Sagar și a grupului de vest al templelor din Khajuraho.",
+                  "category": "natural",
+                  "coords": [
+                        79.87335,
+                        24.792152
+                  ]
+            },
+            {
+                  "name": "Chitragupta Temple",
+                  "text": "Acest templu dedicat zeului soarelui Surya este orientat exact spre est pentru a capta prima lumină a dimineții.",
+                  "category": "landmark",
+                  "coords": [
+                        79.920103,
+                        24.854391
+                  ]
+            },
+            {
+                  "name": "Jagadambi Temple",
+                  "text": "Templul este situat la nord de complexul Kandariya Mahadev și este faimos pentru figurile sale erotice sculptate rafinat.",
+                  "category": "landmark",
+                  "coords": [
+                        79.919722,
+                        24.853399
+                  ]
+            },
+            {
+                  "name": "Western Group of Temples",
+                  "text": "Acest sit din patrimoniul mondial UNESCO cuprinde cele mai bine conservate și bogat decorate temple din Khajuraho.",
+                  "category": "landmark",
+                  "coords": [
+                        79.920829,
+                        24.853169
+                  ]
+            },
+            {
+                  "name": "Vamana Temple",
+                  "text": "Acest templu izolat este dedicat lui Vamana, încarnarea pitic a zeului Vishnu.",
+                  "category": "landmark",
+                  "coords": [
+                        79.934976,
+                        24.85152
+                  ]
+            },
+            {
+                  "name": "Jawari Temple",
+                  "text": "Acest templu mic și bine proporționat din grupul de est este cunoscut pentru intrarea sa bogat decorată.",
+                  "category": "landmark",
+                  "coords": [
+                        79.935285,
+                        24.849464
+                  ]
+            },
+            {
+                  "name": "Brahma Temple",
+                  "text": "Construit din granit și gresie, acest templu este una dintre cele mai vechi structuri din grupul de est.",
+                  "category": "landmark",
+                  "coords": [
+                        79.932763,
+                        24.849201
+                  ]
+            },
+            {
+                  "name": "Parshwanath Temple",
+                  "text": "Este cel mai mare templu jainist din Khajuraho, renumit pentru reliefurile sale artistice cu nimfe cerești.",
+                  "category": "landmark",
+                  "coords": [
+                        79.936509,
+                        24.844913
+                  ]
+            },
+            {
+                  "name": "Ghantai Temple",
+                  "text": "Ruinele acestui templu sunt cunoscute pentru coloanele sale distinctive cu motive de clopote și lanțuri.",
+                  "category": "landmark",
+                  "coords": [
+                        79.933401,
+                        24.846138
+                  ]
+            },
+            {
+                  "name": "Duladeo Shiva Temple",
+                  "text": "Acest templu dedicat lui Shiva se remarcă prin planul său neobișnuit în formă de stea și figurile de apsara zburătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        79.931729,
+                        24.839035
+                  ]
+            },
+            {
+                  "name": "Nandi Temple",
+                  "text": "Pavilionul adăpostește o sculptură masivă și lustruită a taurului Nandi, vehiculul zeului Shiva.",
+                  "category": "landmark",
+                  "coords": [
+                        79.922713,
+                        24.853355
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum Khajuraho New Bldg. Complex",
+                  "text": "Muzeul expune descoperiri arheologice importante, inclusiv statui de piatră și fragmente arhitecturale din Khajuraho.",
+                  "category": "museum",
+                  "coords": [
+                        79.920579,
+                        24.858923
+                  ]
+            },
+            {
+                  "name": "Tribal Museum",
+                  "text": "Prezintă o colecție vibrantă de măști, picturi și obiecte de artizanat ale triburilor indigene din Madhya Pradesh.",
+                  "category": "museum",
+                  "coords": [
+                        79.924359,
+                        24.856976
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum",
+                  "text": "Această instituție păstrează o varietate de sculpturi medievale care reflectă bogăția artistică a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        79.923634,
+                        24.851286
+                  ]
+            },
+            {
+                  "name": "Beejamandal Temple ruins",
+                  "text": "Acest sit arheologic prezintă fundațiile masive ale unui templu neterminat, care urma să fie unul dintre cele mai mari din India.",
+                  "category": "landmark",
+                  "coords": [
+                        79.934501,
+                        24.829408
+                  ]
+            },
+            {
+                  "name": "Baghraajan Temple",
+                  "text": "Un templu hindu local care joacă un rol important în practica religioasă a comunității din Khajuraho.",
+                  "category": "landmark",
+                  "coords": [
+                        79.922398,
+                        24.830519
+                  ]
+            },
+            {
+                  "name": "Bhaurveer Hanuman Temple",
+                  "text": "Acest templu găzduiește o statuie portocalie proeminentă a zeului maimuță Hanuman, foarte venerată de localnici.",
+                  "category": "landmark",
+                  "coords": [
+                        79.9286,
+                        24.85004
+                  ]
+            },
+            {
+                  "name": "Jain Dharmashala",
+                  "text": "Acest han oferă cazare și masă tradițională pentru pelerinii jainiști care vizitează complexele de temple.",
+                  "category": "landmark",
+                  "coords": [
+                        79.935916,
+                        24.843768
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lalguan Mahadev Temple",
+                  "text": "A 10th-century ruined Shiva temple built of granite and sandstone near the banks of a dry reservoir.",
+                  "category": "landmark",
+                  "coords": [
+                        79.911312,
+                        24.85081
+                  ]
+            },
+            {
+                  "name": "Chausath Yogini Temple",
+                  "text": "The oldest surviving temple in Khajuraho, uniquely built of granite with 64 small cells dedicated to the Yoginis.",
+                  "category": "historical",
+                  "coords": [
+                        79.918095,
+                        24.84972
+                  ]
+            },
+            {
+                  "name": "Matangeshwar Temple",
+                  "text": "An active Hindu temple housing a massive 8-foot tall sandstone Shiva lingam that is still worshipped today.",
+                  "category": "landmark",
+                  "coords": [
+                        79.921614,
+                        24.852016
+                  ]
+            },
+            {
+                  "name": "Hanuman Statue",
+                  "text": "A colossal ancient statue of the monkey god Hanuman, traditionally covered in thick layers of bright orange vermilion.",
+                  "category": "landmark",
+                  "coords": [
+                        79.922716,
+                        24.852241
+                  ]
+            },
+            {
+                  "name": "Chaterbuja",
+                  "text": "A west-facing temple where the evening sun illuminates a 2.7-meter tall, four-armed idol of Lord Vishnu.",
+                  "category": "landmark",
+                  "coords": [
+                        79.930997,
+                        24.825174
+                  ]
+            },
+            {
+                  "name": "Sunset viewpoint over the water reservoir",
+                  "text": "A scenic vantage point offering panoramic views over the Shiv Sagar Lake and the iconic Western Group of temples.",
+                  "category": "natural",
+                  "coords": [
+                        79.87335,
+                        24.792152
+                  ]
+            },
+            {
+                  "name": "Chitragupta Temple",
+                  "text": "This temple dedicated to the sun god Surya is oriented exactly to the east to capture the first light of dawn.",
+                  "category": "landmark",
+                  "coords": [
+                        79.920103,
+                        24.854391
+                  ]
+            },
+            {
+                  "name": "Jagadambi Temple",
+                  "text": "The temple is located north of the Kandariya Mahadev complex and is famous for its exquisitely carved erotic figures.",
+                  "category": "landmark",
+                  "coords": [
+                        79.919722,
+                        24.853399
+                  ]
+            },
+            {
+                  "name": "Western Group of Temples",
+                  "text": "This UNESCO World Heritage site comprises the best-preserved and most elaborately decorated temples of Khajuraho.",
+                  "category": "landmark",
+                  "coords": [
+                        79.920829,
+                        24.853169
+                  ]
+            },
+            {
+                  "name": "Vamana Temple",
+                  "text": "This isolated temple is dedicated to Vamana, the dwarf incarnation of the god Vishnu.",
+                  "category": "landmark",
+                  "coords": [
+                        79.934976,
+                        24.85152
+                  ]
+            },
+            {
+                  "name": "Jawari Temple",
+                  "text": "This small, well-proportioned temple in the eastern group is known for its richly decorated entrance.",
+                  "category": "landmark",
+                  "coords": [
+                        79.935285,
+                        24.849464
+                  ]
+            },
+            {
+                  "name": "Brahma Temple",
+                  "text": "Built of granite and sandstone, this temple is one of the oldest structures in the eastern group.",
+                  "category": "landmark",
+                  "coords": [
+                        79.932763,
+                        24.849201
+                  ]
+            },
+            {
+                  "name": "Parshwanath Temple",
+                  "text": "The largest Jain temple in Khajuraho, it is famous for its artistic reliefs of celestial nymphs.",
+                  "category": "landmark",
+                  "coords": [
+                        79.936509,
+                        24.844913
+                  ]
+            },
+            {
+                  "name": "Ghantai Temple",
+                  "text": "The ruins of this temple are known for its distinctive pillars decorated with bell and chain motifs.",
+                  "category": "landmark",
+                  "coords": [
+                        79.933401,
+                        24.846138
+                  ]
+            },
+            {
+                  "name": "Duladeo Shiva Temple",
+                  "text": "This Shiva temple stands out with its unusual star-shaped ground plan and flying apsara figures.",
+                  "category": "landmark",
+                  "coords": [
+                        79.931729,
+                        24.839035
+                  ]
+            },
+            {
+                  "name": "Nandi Temple",
+                  "text": "The pavilion houses a massive, polished sculpture of the bull Nandi, the mount of the god Shiva.",
+                  "category": "landmark",
+                  "coords": [
+                        79.922713,
+                        24.853355
+                  ]
+            },
+            {
+                  "name": "Khajuraho Archaeological Museum",
+                  "text": "The museum exhibits significant archaeological finds, including stone statues and architectural fragments from Khajuraho.",
+                  "category": "museum",
+                  "coords": [
+                        79.920579,
+                        24.858923
+                  ]
+            },
+            {
+                  "name": "Tribal Art Museum",
+                  "text": "It presents a vibrant collection of masks, paintings, and handicrafts of the indigenous tribes of Madhya Pradesh.",
+                  "category": "museum",
+                  "coords": [
+                        79.924359,
+                        24.856976
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum",
+                  "text": "This institution preserves a variety of medieval sculptures that reflect the artistic richness of the region.",
+                  "category": "museum",
+                  "coords": [
+                        79.923634,
+                        24.851286
+                  ]
+            },
+            {
+                  "name": "Beejamandal Temple ruins",
+                  "text": "This archaeological site shows the massive foundations of an unfinished temple that was once intended to be one of India's largest.",
+                  "category": "landmark",
+                  "coords": [
+                        79.934501,
+                        24.829408
+                  ]
+            },
+            {
+                  "name": "Baghraajan Temple",
+                  "text": "A local Hindu temple that plays an important role in the religious practice of the Khajuraho community.",
+                  "category": "landmark",
+                  "coords": [
+                        79.922398,
+                        24.830519
+                  ]
+            },
+            {
+                  "name": "Bhaurveer Hanuman Temple",
+                  "text": "This temple houses a prominent orange statue of the monkey god Hanuman, which is highly revered by locals.",
+                  "category": "landmark",
+                  "coords": [
+                        79.9286,
+                        24.85004
+                  ]
+            },
+            {
+                  "name": "Jain Dharmashala",
+                  "text": "This hostel provides traditional accommodation and food for Jain pilgrims visiting the temple complexes.",
+                  "category": "landmark",
+                  "coords": [
+                        79.935916,
+                        24.843768
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "IN-MP",
     coords: [79.923, 24.852],
@@ -424,7 +6769,196 @@ export const poiExtraIndiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "in-nalanda-university-history-v2",
+    id: "in-nalanda-university-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nalanda museum",
+                  "text": "Dieses Museum beherbergt bedeutende buddhistische Skulpturen und Artefakte, die aus den Ruinen der antiken Universität Nalanda Mahavihara ausgegraben wurden.",
+                  "category": "museum",
+                  "coords": [
+                        85.448322,
+                        25.135701
+                  ]
+            },
+            {
+                  "name": "Wat Thai Nalanda",
+                  "text": "Ein thailändisch-buddhistischer Tempel, der für seine prunkvolle goldene Buddha-Statue und die traditionelle siamesische Architektur bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        85.442826,
+                        25.128185
+                  ]
+            },
+            {
+                  "name": "Tomb of Malik Ibrahim Bayu",
+                  "text": "Ein Mausoleum aus dem 14. Jahrhundert auf dem Hügel Badi Pahari, das Malik Ibrahim Bayu, dem ersten muslimischen Eroberer von Bihar, gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        85.504074,
+                        25.205317
+                  ]
+            },
+            {
+                  "name": "Nalanda",
+                  "text": "Ein UNESCO-Weltkulturerbe mit den weitläufigen Backsteinruinen einer buddhistischen Klosteruniversität aus dem 5. Jahrhundert.",
+                  "category": "landmark",
+                  "coords": [
+                        85.443466,
+                        25.13615
+                  ]
+            },
+            {
+                  "name": "Jain temple",
+                  "text": "Ein heiliger Ort für Jain-Pilger, der an die historischen Besuche des Tirthankara Mahavira in diesem alten Lernzentrum erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        85.448013,
+                        25.147301
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nalanda museum",
+                  "text": "A múzeum a Nalanda Mahavihara ősi egyetem romjai közül feltárt jelentős buddhista szobrokat és műtárgyakat őriz.",
+                  "category": "museum",
+                  "coords": [
+                        85.448322,
+                        25.135701
+                  ]
+            },
+            {
+                  "name": "Wat Thai Nalanda",
+                  "text": "Egy thaiföldi buddhista templom, amely pompás arany Buddha-szobráról és hagyományos sziámi építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        85.442826,
+                        25.128185
+                  ]
+            },
+            {
+                  "name": "Tomb of Malik Ibrahim Bayu",
+                  "text": "Egy 14. századi mauzóleum a Badi Pahari-dombon, amelyet Bihar első muszlim hódítójának, Malik Ibrahim Bayu-nak szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        85.504074,
+                        25.205317
+                  ]
+            },
+            {
+                  "name": "Nalanda",
+                  "text": "Az UNESCO Világörökség része, amely egy 5. századi buddhista kolostoregyetem kiterjedt téglaromjait mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        85.443466,
+                        25.13615
+                  ]
+            },
+            {
+                  "name": "Jain temple",
+                  "text": "A dzsain zarándokok szent helye, amely Mahávíra tirthankara történelmi látogatásaira emlékeztet ebben az ősi tudásközpontban.",
+                  "category": "landmark",
+                  "coords": [
+                        85.448013,
+                        25.147301
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nalanda museum",
+                  "text": "Acest muzeu adăpostește sculpturi și artefacte budiste semnificative excavate din ruinele vechii universități Nalanda Mahavihara.",
+                  "category": "museum",
+                  "coords": [
+                        85.448322,
+                        25.135701
+                  ]
+            },
+            {
+                  "name": "Wat Thai Nalanda",
+                  "text": "Un templu budist thailandez cunoscut pentru statuia sa aurie a lui Buddha și arhitectura tradițională siameză.",
+                  "category": "religious",
+                  "coords": [
+                        85.442826,
+                        25.128185
+                  ]
+            },
+            {
+                  "name": "Tomb of Malik Ibrahim Bayu",
+                  "text": "Un mauzoleu din secolul al XIV-lea de pe dealul Badi Pahari, dedicat lui Malik Ibrahim Bayu, primul cuceritor musulman al Biharului.",
+                  "category": "historical",
+                  "coords": [
+                        85.504074,
+                        25.205317
+                  ]
+            },
+            {
+                  "name": "Nalanda",
+                  "text": "Un sit inclus în patrimoniul mondial UNESCO, prezentând ruinele de cărămidă ale unei universități monahale budiste din secolul al V-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        85.443466,
+                        25.13615
+                  ]
+            },
+            {
+                  "name": "Jain temple",
+                  "text": "Un loc sacru pentru pelerinii jainiști, amintind de vizitele istorice ale lui Mahavira în acest vechi centru de învățare.",
+                  "category": "landmark",
+                  "coords": [
+                        85.448013,
+                        25.147301
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nalanda museum",
+                  "text": "This museum houses significant Buddhist sculptures and artifacts excavated from the ruins of the ancient Nalanda Mahavihara university.",
+                  "category": "museum",
+                  "coords": [
+                        85.448322,
+                        25.135701
+                  ]
+            },
+            {
+                  "name": "Wat Thai Nalanda",
+                  "text": "A Thai Buddhist temple known for its resplendent golden Buddha statue and traditional Siamese architecture.",
+                  "category": "religious",
+                  "coords": [
+                        85.442826,
+                        25.128185
+                  ]
+            },
+            {
+                  "name": "Tomb of Malik Ibrahim Bayu",
+                  "text": "A 14th-century mausoleum on Badi Pahari hill dedicated to Malik Ibrahim Bayu, the first Muslim conqueror of Bihar.",
+                  "category": "historical",
+                  "coords": [
+                        85.504074,
+                        25.205317
+                  ]
+            },
+            {
+                  "name": "Nalanda",
+                  "text": "A UNESCO World Heritage site featuring the extensive red-brick ruins of a 5th-century Buddhist monastic university.",
+                  "category": "landmark",
+                  "coords": [
+                        85.443466,
+                        25.13615
+                  ]
+            },
+            {
+                  "name": "Jain temple",
+                  "text": "A sacred site for Jain pilgrims, commemorating Mahavira's historical visits to this ancient center of learning.",
+                  "category": "landmark",
+                  "coords": [
+                        85.448013,
+                        25.147301
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "IN-BR",
     coords: [85.444, 25.135],
@@ -472,7 +7006,628 @@ export const poiExtraIndiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "in-jallianwala-bagh-history-v2",
+    id: "in-jallianwala-bagh-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Summer Palace of Maharaja Ranjit Singh",
+                  "text": "Ein Bauwerk aus rotem Sandstein im Ram-Bagh-Garten, das einst Maharaja Ranjit Singh als kühler Sommerrückzugsort diente.",
+                  "category": "castle",
+                  "coords": [
+                        74.87886,
+                        31.637785
+                  ]
+            },
+            {
+                  "name": "The Martyr's Gallery",
+                  "text": "Eine Galerie innerhalb von Jallianwala Bagh, die durch Fotos und Gemälde an die Opfer des Massakers von 1919 erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        74.880471,
+                        31.621165
+                  ]
+            },
+            {
+                  "name": "Maharaja Ranjit Singh",
+                  "text": "Ein Denkmal zu Ehren des Gründers des Sikh-Reiches, das seine historische Bedeutung für die Stadt Amritsar würdigt.",
+                  "category": "landmark",
+                  "coords": [
+                        74.879565,
+                        31.623851
+                  ]
+            },
+            {
+                  "name": "ਸ਼ਹਿਰ ਭਵਨ, ਅੰਮ੍ਰਿਤਸਰ",
+                  "text": "Das im 19. Jahrhundert erbaute Rathaus ist ein Wahrzeichen der Kolonialzeit und beherbergt heute kulturelle Ausstellungen.",
+                  "category": "historical",
+                  "coords": [
+                        74.87883,
+                        31.625512
+                  ]
+            },
+            {
+                  "name": "Golden Gate",
+                  "text": "Ein prächtiges, goldfarbenes Tor, das den Eingang zum heiligen Bezirk und der Altstadt von Amritsar markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        74.93317,
+                        31.605755
+                  ]
+            },
+            {
+                  "name": "Jallianwala Bagh",
+                  "text": "Ein Gedenkpark, der an das tragische Massaker von 1919 erinnert und durch die Flamme der Freiheit gekennzeichnet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        74.880507,
+                        31.62021
+                  ]
+            },
+            {
+                  "name": "Sadioura's villa",
+                  "text": "Ein historisches Anwesen in Amritsar, das Einblicke in die traditionelle Wohnarchitektur und den Lebensstil vergangener Zeiten bietet.",
+                  "category": "museum",
+                  "coords": [
+                        74.904286,
+                        31.616815
+                  ]
+            },
+            {
+                  "name": "Gopal Mandir-Sri Krishna Temple",
+                  "text": "Ein farbenfroher Hindutempel in Amritsar, der Lord Krishna gewidmet ist und für seine kunstvollen Statuen und seine andächtige Atmosphäre bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        74.88963,
+                        31.646924
+                  ]
+            },
+            {
+                  "name": "Baba Sher Singh Gurudwara",
+                  "text": "Eine Gebetsstätte der Sikhs in Amritsar, die dem Gedenken an Baba Sher Singh gewidmet ist und über eine traditionelle Gebetshalle verfügt.",
+                  "category": "landmark",
+                  "coords": [
+                        74.898838,
+                        31.648435
+                  ]
+            },
+            {
+                  "name": "Shiv Mandir",
+                  "text": "Ein ruhiger Hindutempel, der Lord Shiva gewidmet ist und sich durch sein heiliges Lingam und seine traditionelle Architektur auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        74.897749,
+                        31.642745
+                  ]
+            },
+            {
+                  "name": "Gurudwara Sadh Sangat",
+                  "text": "Ein auf die Gemeinschaft ausgerichteter Sikh-Schrein in Amritsar, in dem sich Gläubige zu gemeinsamen Gebeten und Kirtan versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        74.895389,
+                        31.647282
+                  ]
+            },
+            {
+                  "name": "Gurudwara Sri Kalgidhar Sahib",
+                  "text": "Ein Sikh-Gurdwara in Amritsar, benannt nach Guru Gobind Singh, der oft an seinem hohen Nishan-Sahib-Fahnenmast erkennbar ist.",
+                  "category": "landmark",
+                  "coords": [
+                        74.888916,
+                        31.644965
+                  ]
+            },
+            {
+                  "name": "Gurudwara Sri Har Rai Sahib Ji",
+                  "text": "Eine heilige Sikh-Stätte, die dem siebten Guru, Har Rai, gewidmet ist und einen friedlichen Raum für Meditation bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        74.886318,
+                        31.649609
+                  ]
+            },
+            {
+                  "name": "Toot Sahib Gurdwara",
+                  "text": "Dieser Gurdwara ist berühmt für einen alten Maulbeerbaum (Toot), unter dem Guru Arjan Dev während der Bauarbeiten geruht haben soll.",
+                  "category": "religious",
+                  "coords": [
+                        74.892781,
+                        31.608712
+                  ]
+            },
+            {
+                  "name": "Gurudwara Shahidan",
+                  "text": "Ein historischer Schrein zu Ehren der Sikh-Märtyrer, die bei der Verteidigung von Amritsar fielen und für ihre spirituelle Bedeutung verehrt werden.",
+                  "category": "landmark",
+                  "coords": [
+                        74.880549,
+                        31.613125
+                  ]
+            },
+            {
+                  "name": "Gurudwara Bibeksar Sahib",
+                  "text": "Dieser von Guru Hargobind am Ufer eines Sarovars errichtete Schrein war ein Ort für spirituelle Diskurse und 'Bibek' (Weisheit).",
+                  "category": "landmark",
+                  "coords": [
+                        74.880999,
+                        31.614998
+                  ]
+            },
+            {
+                  "name": "Jama Masjid Jaan Mohammad",
+                  "text": "Eine historische Moschee in Amritsar mit traditioneller islamischer Architektur, einer zentralen Kuppel und schlanken Minaretten.",
+                  "category": "landmark",
+                  "coords": [
+                        74.878351,
+                        31.626624
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Summer Palace of Maharaja Ranjit Singh",
+                  "text": "Vörös homokkő épület a Ram Bagh kertben, amely egykor Maharaja Ranjit Singh hűvös nyári menedékéül szolgált.",
+                  "category": "castle",
+                  "coords": [
+                        74.87886,
+                        31.637785
+                  ]
+            },
+            {
+                  "name": "The Martyr's Gallery",
+                  "text": "Galéria a Jallianwala Baghon belül, amely fotókkal és festményekkel emlékezik az 1919-es mészárlás áldozataira.",
+                  "category": "landmark",
+                  "coords": [
+                        74.880471,
+                        31.621165
+                  ]
+            },
+            {
+                  "name": "Maharaja Ranjit Singh",
+                  "text": "A szikh birodalom alapítójának tiszteletére emelt emlékmű, amely Amritszár városa számára fontos történelmi jelentőségét hirdeti.",
+                  "category": "landmark",
+                  "coords": [
+                        74.879565,
+                        31.623851
+                  ]
+            },
+            {
+                  "name": "ਸ਼ਹਿਰ ਭਵਨ, ਅੰਮ੍ਰਿਤਸਰ",
+                  "text": "A 19. században épült városháza a gyarmati korszak mérföldköve, amely ma kulturális kiállításoknak ad otthont.",
+                  "category": "historical",
+                  "coords": [
+                        74.87883,
+                        31.625512
+                  ]
+            },
+            {
+                  "name": "Golden Gate",
+                  "text": "Pompás, aranyszínű kapu, amely Amritszár szent negyedének és óvárosának bejáratát jelzi.",
+                  "category": "landmark",
+                  "coords": [
+                        74.93317,
+                        31.605755
+                  ]
+            },
+            {
+                  "name": "Jallianwala Bagh",
+                  "text": "Emlékpark, amely az 1919-es tragikus mészárlásnak állít emléket, jelképe a Szabadság Lángja.",
+                  "category": "landmark",
+                  "coords": [
+                        74.880507,
+                        31.62021
+                  ]
+            },
+            {
+                  "name": "Sadioura's villa",
+                  "text": "Történelmi birtok Amritszárban, amely betekintést nyújt a hagyományos lakóépítészetbe és a múltbeli életmódba.",
+                  "category": "museum",
+                  "coords": [
+                        74.904286,
+                        31.616815
+                  ]
+            },
+            {
+                  "name": "Gopal Mandir-Sri Krishna Temple",
+                  "text": "Srí Krisna tiszteletére emelt színes hindu templom Amritszárban, amely díszes szobrairol és áhítatos légköréről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        74.88963,
+                        31.646924
+                  ]
+            },
+            {
+                  "name": "Baba Sher Singh Gurudwara",
+                  "text": "Baba Sér Szingh emlékének szentelt szikh gurudvara Amritszárban, hagyományos imateremmel.",
+                  "category": "landmark",
+                  "coords": [
+                        74.898838,
+                        31.648435
+                  ]
+            },
+            {
+                  "name": "Shiv Mandir",
+                  "text": "Úr Sivának szentelt békés hindu templom, amelyet szent lingam és hagyományos építészet jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        74.897749,
+                        31.642745
+                  ]
+            },
+            {
+                  "name": "Gurudwara Sadh Sangat",
+                  "text": "Közösségi szikh szentély Amritszárban, ahol a hívők közös imádságra és kírtanra gyűlnek össze.",
+                  "category": "landmark",
+                  "coords": [
+                        74.895389,
+                        31.647282
+                  ]
+            },
+            {
+                  "name": "Gurudwara Sri Kalgidhar Sahib",
+                  "text": "Guru Gobind Szingh tiszteletére elnevezett szikh gurudvara Amritszárban, amelyet magas Nisán Száhib zászlaja jelez.",
+                  "category": "landmark",
+                  "coords": [
+                        74.888916,
+                        31.644965
+                  ]
+            },
+            {
+                  "name": "Gurudwara Sri Har Rai Sahib Ji",
+                  "text": "A hetedik gurunak, Har Rainak szentelt szikh emlékhely, amely békés teret biztosít a meditációhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        74.886318,
+                        31.649609
+                  ]
+            },
+            {
+                  "name": "Toot Sahib Gurdwara",
+                  "text": "Ez a gurudvara egy ősi eperfa (toot) köré épült, amely alatt a hagyomány szerint Guru Arjan Dev megpihent.",
+                  "category": "religious",
+                  "coords": [
+                        74.892781,
+                        31.608712
+                  ]
+            },
+            {
+                  "name": "Gurudwara Shahidan",
+                  "text": "Az Amritszár védelmében elesett szikh mártírok tiszteletére emelt történelmi szentély, amely fontos zarándokhely.",
+                  "category": "landmark",
+                  "coords": [
+                        74.880549,
+                        31.613125
+                  ]
+            },
+            {
+                  "name": "Gurudwara Bibeksar Sahib",
+                  "text": "Guru Hargobind építtette egy szent tó partján; a szentély a spirituális tanítások és a bölcsesség (bibek) helyszíne volt.",
+                  "category": "landmark",
+                  "coords": [
+                        74.880999,
+                        31.614998
+                  ]
+            },
+            {
+                  "name": "Jama Masjid Jaan Mohammad",
+                  "text": "Történelmi mecset Amritszárban, hagyományos iszlám építészettel, központi kupolával és karcsú minaretekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        74.878351,
+                        31.626624
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Summer Palace of Maharaja Ranjit Singh",
+                  "text": "O structură din gresie roșie în Grădina Ram Bagh, care a servit cândva drept refugiu de vară răcoros pentru Maharaja Ranjit Singh.",
+                  "category": "castle",
+                  "coords": [
+                        74.87886,
+                        31.637785
+                  ]
+            },
+            {
+                  "name": "The Martyr's Gallery",
+                  "text": "O galerie în interiorul Jallianwala Bagh care comemorează victimele masacrului din 1919 prin fotografii și picturi.",
+                  "category": "landmark",
+                  "coords": [
+                        74.880471,
+                        31.621165
+                  ]
+            },
+            {
+                  "name": "Maharaja Ranjit Singh",
+                  "text": "Un monument în onoarea fondatorului Imperiului Sikh, care îi celebrează importanța istorică pentru orașul Amritsar.",
+                  "category": "landmark",
+                  "coords": [
+                        74.879565,
+                        31.623851
+                  ]
+            },
+            {
+                  "name": "ਸ਼ਹਿਰ ਭਵਨ, ਅੰਮ੍ਰਿਤਸਰ",
+                  "text": "Primăria, construită în secolul al XIX-lea, este un reper al epocii coloniale și găzduiește astăzi expoziții culturale.",
+                  "category": "historical",
+                  "coords": [
+                        74.87883,
+                        31.625512
+                  ]
+            },
+            {
+                  "name": "Golden Gate",
+                  "text": "O poartă aurie splendidă care marchează intrarea în districtul sacru și orașul vechi din Amritsar.",
+                  "category": "landmark",
+                  "coords": [
+                        74.93317,
+                        31.605755
+                  ]
+            },
+            {
+                  "name": "Jallianwala Bagh",
+                  "text": "Un parc memorial care comemorează masacrul tragic din 1919, marcat de Flacăra Libertății.",
+                  "category": "landmark",
+                  "coords": [
+                        74.880507,
+                        31.62021
+                  ]
+            },
+            {
+                  "name": "Sadioura's villa",
+                  "text": "O proprietate istorică din Amritsar care oferă o perspectivă asupra arhitecturii rezidențiale tradiționale și a stilului de viață de altădată.",
+                  "category": "museum",
+                  "coords": [
+                        74.904286,
+                        31.616815
+                  ]
+            },
+            {
+                  "name": "Gopal Mandir-Sri Krishna Temple",
+                  "text": "Un templu hindu colorat în Amritsar dedicat Domnului Krishna, cunoscut pentru statuile sale complicate și atmosfera devoțională.",
+                  "category": "landmark",
+                  "coords": [
+                        74.88963,
+                        31.646924
+                  ]
+            },
+            {
+                  "name": "Baba Sher Singh Gurudwara",
+                  "text": "Un lăcaș de cult sikh în Amritsar dedicat memoriei lui Baba Sher Singh, cu o sală de rugăciune tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        74.898838,
+                        31.648435
+                  ]
+            },
+            {
+                  "name": "Shiv Mandir",
+                  "text": "Un templu hindu liniștit dedicat Domnului Shiva, caracterizat prin lingam-ul său sacru și arhitectura tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        74.897749,
+                        31.642745
+                  ]
+            },
+            {
+                  "name": "Gurudwara Sadh Sangat",
+                  "text": "Un sanctuar sikh orientat spre comunitate în Amritsar, unde credincioșii se adună pentru rugăciuni colective și Kirtan.",
+                  "category": "landmark",
+                  "coords": [
+                        74.895389,
+                        31.647282
+                  ]
+            },
+            {
+                  "name": "Gurudwara Sri Kalgidhar Sahib",
+                  "text": "Un gurdwara sikh în Amritsar numit după Guru Gobind Singh, adesea recunoscut după steagul său înalt Nishan Sahib.",
+                  "category": "landmark",
+                  "coords": [
+                        74.888916,
+                        31.644965
+                  ]
+            },
+            {
+                  "name": "Gurudwara Sri Har Rai Sahib Ji",
+                  "text": "Un sit sacru sikh dedicat celui de-al șaptelea Guru, Har Rai, oferind un spațiu liniștit pentru meditație.",
+                  "category": "landmark",
+                  "coords": [
+                        74.886318,
+                        31.649609
+                  ]
+            },
+            {
+                  "name": "Toot Sahib Gurdwara",
+                  "text": "Acest gurdwara este faimos pentru un dud vechi (Toot) sub care se spune că s-ar fi odihnit Guru Arjan Dev.",
+                  "category": "religious",
+                  "coords": [
+                        74.892781,
+                        31.608712
+                  ]
+            },
+            {
+                  "name": "Gurudwara Shahidan",
+                  "text": "Un sanctuar istoric care îi onorează pe martirii sikh care au murit apărând Amritsar, venerat pentru semnificația sa spirituală.",
+                  "category": "landmark",
+                  "coords": [
+                        74.880549,
+                        31.613125
+                  ]
+            },
+            {
+                  "name": "Gurudwara Bibeksar Sahib",
+                  "text": "Construit de Guru Hargobind pe malul unui sarovar, acest sanctuar era un loc pentru discursuri spirituale și înțelepciune (bibek).",
+                  "category": "landmark",
+                  "coords": [
+                        74.880999,
+                        31.614998
+                  ]
+            },
+            {
+                  "name": "Jama Masjid Jaan Mohammad",
+                  "text": "O moschee istorică în Amritsar, cu arhitectură islamică tradițională, un dom central și minarete subțiri.",
+                  "category": "landmark",
+                  "coords": [
+                        74.878351,
+                        31.626624
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Summer Palace of Maharaja Ranjit Singh",
+                  "text": "A red sandstone structure in Ram Bagh Gardens that once served as the cool summer retreat for Maharaja Ranjit Singh.",
+                  "category": "castle",
+                  "coords": [
+                        74.87886,
+                        31.637785
+                  ]
+            },
+            {
+                  "name": "The Martyr's Gallery",
+                  "text": "A gallery inside Jallianwala Bagh that commemorates the victims of the 1919 massacre through photographs and paintings.",
+                  "category": "landmark",
+                  "coords": [
+                        74.880471,
+                        31.621165
+                  ]
+            },
+            {
+                  "name": "Maharaja Ranjit Singh",
+                  "text": "A memorial honoring the founder of the Sikh Empire, celebrating his historical significance to the city of Amritsar.",
+                  "category": "landmark",
+                  "coords": [
+                        74.879565,
+                        31.623851
+                  ]
+            },
+            {
+                  "name": "Town Hall",
+                  "text": "Built in the 19th century, the Town Hall is a landmark of the colonial era and now houses cultural exhibits.",
+                  "category": "historical",
+                  "coords": [
+                        74.87883,
+                        31.625512
+                  ]
+            },
+            {
+                  "name": "Golden Gate",
+                  "text": "A magnificent gold-colored gate marking the entrance to the sacred district and old city of Amritsar.",
+                  "category": "landmark",
+                  "coords": [
+                        74.93317,
+                        31.605755
+                  ]
+            },
+            {
+                  "name": "Jallianwala Bagh",
+                  "text": "A memorial park commemorating the tragic 1919 massacre, marked by the eternal Flame of Liberty.",
+                  "category": "landmark",
+                  "coords": [
+                        74.880507,
+                        31.62021
+                  ]
+            },
+            {
+                  "name": "Sadioura's villa",
+                  "text": "A historic estate in Amritsar providing a glimpse into traditional residential architecture and past lifestyles.",
+                  "category": "museum",
+                  "coords": [
+                        74.904286,
+                        31.616815
+                  ]
+            },
+            {
+                  "name": "Gopal Mandir-Sri Krishna Temple",
+                  "text": "A colorful Hindu temple in Amritsar dedicated to Lord Krishna, known for its intricate statues and devotional atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        74.88963,
+                        31.646924
+                  ]
+            },
+            {
+                  "name": "Baba Sher Singh Gurudwara",
+                  "text": "A Sikh place of worship in Amritsar dedicated to the memory of Baba Sher Singh, featuring a traditional prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        74.898838,
+                        31.648435
+                  ]
+            },
+            {
+                  "name": "Shiv Mandir",
+                  "text": "A serene Hindu temple dedicated to Lord Shiva, characterized by its sacred lingam and traditional architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        74.897749,
+                        31.642745
+                  ]
+            },
+            {
+                  "name": "Gurudwara Sadh Sangat",
+                  "text": "A community-focused Sikh shrine in Amritsar where devotees gather for congregational prayers and Kirtan.",
+                  "category": "landmark",
+                  "coords": [
+                        74.895389,
+                        31.647282
+                  ]
+            },
+            {
+                  "name": "Gurudwara Sri Kalgidhar Sahib",
+                  "text": "A Sikh gurdwara in Amritsar named after Guru Gobind Singh, often recognized by its tall Nishan Sahib flagstaff.",
+                  "category": "landmark",
+                  "coords": [
+                        74.888916,
+                        31.644965
+                  ]
+            },
+            {
+                  "name": "Gurudwara Sri Har Rai Sahib Ji",
+                  "text": "A sacred Sikh site dedicated to the seventh Guru, Har Rai, providing a peaceful space for meditation.",
+                  "category": "landmark",
+                  "coords": [
+                        74.886318,
+                        31.649609
+                  ]
+            },
+            {
+                  "name": "Toot Sahib Gurdwara",
+                  "text": "This gurdwara is famous for an ancient 'Toot' (mulberry) tree under which Guru Arjan Dev is said to have rested.",
+                  "category": "religious",
+                  "coords": [
+                        74.892781,
+                        31.608712
+                  ]
+            },
+            {
+                  "name": "Gurudwara Shahidan",
+                  "text": "A historic shrine honoring the Sikh martyrs who died defending Amritsar, revered for its spiritual significance.",
+                  "category": "landmark",
+                  "coords": [
+                        74.880549,
+                        31.613125
+                  ]
+            },
+            {
+                  "name": "Gurudwara Bibeksar Sahib",
+                  "text": "Built by Guru Hargobind on the banks of a sarovar, this shrine was a place for spiritual discourse and 'bibek' (wisdom).",
+                  "category": "landmark",
+                  "coords": [
+                        74.880999,
+                        31.614998
+                  ]
+            },
+            {
+                  "name": "Jama Masjid Jaan Mohammad",
+                  "text": "A historic mosque in Amritsar featuring traditional Islamic architecture with a central dome and slender minarets.",
+                  "category": "landmark",
+                  "coords": [
+                        74.878351,
+                        31.626624
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "IN-PB",
     coords: [74.880, 31.620],
@@ -520,7 +7675,988 @@ export const poiExtraIndiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "in-cellular-jail-history-v2",
+    id: "in-cellular-jail-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Emrald viewpoint",
+                  "text": "Dieser Aussichtspunkt bietet einen weiten Blick über das türkisfarbene Wasser der Andamanensee.",
+                  "category": "natural",
+                  "coords": [
+                        92.734173,
+                        11.721217
+                  ]
+            },
+            {
+                  "name": "Semiramis Bay",
+                  "text": "Eine malerische Bucht in der Nähe von Port Blair, die für ihr ruhiges tropisches Wasser bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        92.730943,
+                        11.695914
+                  ]
+            },
+            {
+                  "name": "Stewartganj Creek",
+                  "text": "Ein ruhiger Wasserweg, der von dichten Mangrovenwäldern und lokalen Siedlungen gesäumt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        92.7,
+                        11.70001
+                  ]
+            },
+            {
+                  "name": "Aquarium",
+                  "text": "Dieses Aquarium zeigt die vielfältige Meereswelt des Indopazifiks, darunter Korallenfische und Meeresschildkröten.",
+                  "category": "recreational",
+                  "coords": [
+                        92.74684,
+                        11.6719
+                  ]
+            },
+            {
+                  "name": "Veer Savarkar Prison Cell",
+                  "text": "Die Zelle im Cellular Jail, in der der indische Freiheitskämpfer Vinayak Damodar Savarkar inhaftiert war.",
+                  "category": "landmark",
+                  "coords": [
+                        92.748322,
+                        11.673891
+                  ]
+            },
+            {
+                  "name": "Clock tower",
+                  "text": "Ein Wahrzeichen aus der Kolonialzeit im Zentrum von Port Blair, das an die Anwohner erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        92.742776,
+                        11.669941
+                  ]
+            },
+            {
+                  "name": "Gandhi statue",
+                  "text": "Eine markante Bronzestatue von Mahatma Gandhi, die sich in einem zentralen öffentlichen Park befindet.",
+                  "category": "historical",
+                  "coords": [
+                        92.73949,
+                        11.669074
+                  ]
+            },
+            {
+                  "name": "Zonal Anthropological Museum",
+                  "text": "Dieses Museum zeigt Artefakte und die Geschichte der indigenen Stämme der Andamanen und Nikobaren.",
+                  "category": "museum",
+                  "coords": [
+                        92.740233,
+                        11.66438
+                  ]
+            },
+            {
+                  "name": "Mathoma Church Complex",
+                  "text": "Ein religiöser Komplex mit traditioneller Architektur, der der örtlichen christlichen Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        92.73266,
+                        11.6651
+                  ]
+            },
+            {
+                  "name": "Samdurine Marine Museum",
+                  "text": "Das von der indischen Marine geführte Museum zeigt ein Blauwalskelett und Exponate zur Meeresökologie.",
+                  "category": "museum",
+                  "coords": [
+                        92.72615,
+                        11.67188
+                  ]
+            },
+            {
+                  "name": "Mini Zoo",
+                  "text": "Eine kleine Anlage, in der endemische Arten der Inseln, wie das Andamanen-Schwein, beheimatet sind.",
+                  "category": "recreational",
+                  "coords": [
+                        92.72536,
+                        11.67744
+                  ]
+            },
+            {
+                  "name": "Forest Museum",
+                  "text": "In Chatham gelegen, zeigt dieses Museum Holzartefakte und Informationen über die tropische Forstwirtschaft.",
+                  "category": "museum",
+                  "coords": [
+                        92.724009,
+                        11.677396
+                  ]
+            },
+            {
+                  "name": "बथु बस्ती",
+                  "text": "Ein lebhaftes Wohn- und Geschäftsviertel, das für seine lokalen Märkte bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        92.716978,
+                        11.621143
+                  ]
+            },
+            {
+                  "name": "Kala Pani",
+                  "text": "Das berüchtigte koloniale Gefängnismuseum dokumentiert die Leiden der politischen Gefangenen.",
+                  "category": "museum",
+                  "coords": [
+                        92.704093,
+                        11.614789
+                  ]
+            },
+            {
+                  "name": "Smrutika",
+                  "text": "Ein Museum, das der Geschichte der Indian National Army und Netaji Subhash Chandra Bose gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        92.761379,
+                        11.673877
+                  ]
+            },
+            {
+                  "name": "Science Centre",
+                  "text": "Ein interaktiver Wissenschaftspark mit einer Jura-Galerie und Ausstellungen zur Meeresforschung.",
+                  "category": "museum",
+                  "coords": [
+                        92.756353,
+                        11.654973
+                  ]
+            },
+            {
+                  "name": "Farzand Ali Shop",
+                  "text": "Ruinen einer historischen Bäckerei auf Ross Island, die den britischen Kolonialstil widerspiegeln.",
+                  "category": "historical",
+                  "coords": [
+                        92.760663,
+                        11.676413
+                  ]
+            },
+            {
+                  "name": "Gandhi Park",
+                  "text": "Eine zentrale Grünanlage mit einem See, Wanderwegen und einer Statue von Mahatma Gandhi.",
+                  "category": "natural",
+                  "coords": [
+                        92.742756,
+                        11.663448
+                  ]
+            },
+            {
+                  "name": "Delanipur Park",
+                  "text": "Ein Park im Viertel, der Meerblick und Erholungsraum für die Einheimischen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        92.728996,
+                        11.668908
+                  ]
+            },
+            {
+                  "name": "Shri Veer Hanuman Temple",
+                  "text": "Ein beliebter Hindu-Tempel, der Lord Hanuman gewidmet ist und für seine leuchtenden Safranfarben bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        92.7424,
+                        11.66763
+                  ]
+            },
+            {
+                  "name": "Radhakrishna",
+                  "text": "Ein Hindu-Tempel, der Radha und Krishna gewidmet ist und eine traditionelle Architektur aufweist.",
+                  "category": "landmark",
+                  "coords": [
+                        92.74826,
+                        11.66345
+                  ]
+            },
+            {
+                  "name": "Rajastan",
+                  "text": "Eine religiöse Stätte für die lokale Rajasthani-Gemeinde in Port Blair.",
+                  "category": "religious",
+                  "coords": [
+                        92.74478,
+                        11.66134
+                  ]
+            },
+            {
+                  "name": "Ramakrishna Mission",
+                  "text": "Ein spirituelles Zentrum, das Meditation und soziale Dienste basierend auf den Lehren von Ramakrishna anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        92.749582,
+                        11.666576
+                  ]
+            },
+            {
+                  "name": "Kali",
+                  "text": "Ein der Göttin Kali geweihter Tempel, der für die bengalische Gemeinde auf den Inseln von zentraler Bedeutung ist.",
+                  "category": "religious",
+                  "coords": [
+                        92.72706,
+                        11.66325
+                  ]
+            },
+            {
+                  "name": "Ayyappa",
+                  "text": "Ein im südindischen Stil erbauter Tempel, der Lord Ayyappa gewidmet ist und oft von Pilgern besucht wird.",
+                  "category": "religious",
+                  "coords": [
+                        92.721254,
+                        11.674504
+                  ]
+            },
+            {
+                  "name": "Ganesh",
+                  "text": "Ein kleiner Schrein, der dem elefantenköpfigen Gott Ganesha gewidmet ist und für tägliche Gebete beliebt ist.",
+                  "category": "religious",
+                  "coords": [
+                        92.71927,
+                        11.62328
+                  ]
+            },
+            {
+                  "name": "Sabzi Mandi",
+                  "text": "Ein lebhafter Gemüsemarkt, auf dem frische lokale Erzeugnisse und tropische Früchte verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        92.740905,
+                        11.669349
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Emrald viewpoint",
+                  "text": "Ez a kilátópont pazar kilátást nyújt az Andamán-tenger türkizkék vizére.",
+                  "category": "natural",
+                  "coords": [
+                        92.734173,
+                        11.721217
+                  ]
+            },
+            {
+                  "name": "Semiramis Bay",
+                  "text": "Egy festői öböl Port Blair közelében, amely nyugodt, trópusi vizéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        92.730943,
+                        11.695914
+                  ]
+            },
+            {
+                  "name": "Stewartganj Creek",
+                  "text": "Nyugodt vízi út, amelyet sűrű mangroveerdők és helyi települések szegélyeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        92.7,
+                        11.70001
+                  ]
+            },
+            {
+                  "name": "Aquarium",
+                  "text": "Ez az akvárium az Indopacifikus-térség változatos élővilágát, többek között korallhalakat és teknősöket mutat be.",
+                  "category": "recreational",
+                  "coords": [
+                        92.74684,
+                        11.6719
+                  ]
+            },
+            {
+                  "name": "Veer Savarkar Prison Cell",
+                  "text": "A Cellular Jail azon cellája, ahol Vinayak Damodar Savarkar indiai szabadságharcost tartották fogva.",
+                  "category": "landmark",
+                  "coords": [
+                        92.748322,
+                        11.673891
+                  ]
+            },
+            {
+                  "name": "Clock tower",
+                  "text": "Gyarmati korabeli óratorony Port Blair központjában, amely a helyi lakosoknak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        92.742776,
+                        11.669941
+                  ]
+            },
+            {
+                  "name": "Gandhi statue",
+                  "text": "Mahatma Gandhi jellegzetes bronzszobra egy központi nyilvános parkban.",
+                  "category": "historical",
+                  "coords": [
+                        92.73949,
+                        11.669074
+                  ]
+            },
+            {
+                  "name": "Zonal Anthropological Museum",
+                  "text": "Ez a múzeum az Andamán- és Nikobár-szigetek őslakos törzseinek tárgyait és történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        92.740233,
+                        11.66438
+                  ]
+            },
+            {
+                  "name": "Mathoma Church Complex",
+                  "text": "Hagyományos építészetű vallási komplexum, amely a helyi keresztény közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        92.73266,
+                        11.6651
+                  ]
+            },
+            {
+                  "name": "Samdurine Marine Museum",
+                  "text": "Az indiai haditengerészet által fenntartott múzeumban egy kék bálna csontváza és tengeri ökológiai kiállítások láthatók.",
+                  "category": "museum",
+                  "coords": [
+                        92.72615,
+                        11.67188
+                  ]
+            },
+            {
+                  "name": "Mini Zoo",
+                  "text": "Kis létesítmény, amely a szigetek endemikus fajainak, például az andamáni disznónak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        92.72536,
+                        11.67744
+                  ]
+            },
+            {
+                  "name": "Forest Museum",
+                  "text": "A Chathamban található múzeum faipari tárgyakat és a trópusi erdészetről szóló információkat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        92.724009,
+                        11.677396
+                  ]
+            },
+            {
+                  "name": "बथु बस्ती",
+                  "text": "Nyüzsgő lakó- és kereskedelmi negyed, amely helyi piacairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        92.716978,
+                        11.621143
+                  ]
+            },
+            {
+                  "name": "Kala Pani",
+                  "text": "A hírhedt gyarmati börtönmúzeum a politikai foglyok megpróbáltatásait dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        92.704093,
+                        11.614789
+                  ]
+            },
+            {
+                  "name": "Smrutika",
+                  "text": "Az Indiai Nemzeti Hadsereg és Netaji Subhash Chandra Bose történetének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        92.761379,
+                        11.673877
+                  ]
+            },
+            {
+                  "name": "Science Centre",
+                  "text": "Interaktív tudományos park dinoszaurusz-galériával és óceanográfiai kiállításokkal.",
+                  "category": "museum",
+                  "coords": [
+                        92.756353,
+                        11.654973
+                  ]
+            },
+            {
+                  "name": "Farzand Ali Shop",
+                  "text": "Egy történelmi pékség romjai a Ross-szigeten, amely a brit gyarmati életmódot tükrözi.",
+                  "category": "historical",
+                  "coords": [
+                        92.760663,
+                        11.676413
+                  ]
+            },
+            {
+                  "name": "Gandhi Park",
+                  "text": "Központi zöldterület tóval, sétányokkal és Mahatma Gandhi szobrával.",
+                  "category": "natural",
+                  "coords": [
+                        92.742756,
+                        11.663448
+                  ]
+            },
+            {
+                  "name": "Delanipur Park",
+                  "text": "Környékbeli park, amely tengeri kilátást és kikapcsolódási lehetőséget kínál a helyieknek.",
+                  "category": "natural",
+                  "coords": [
+                        92.728996,
+                        11.668908
+                  ]
+            },
+            {
+                  "name": "Shri Veer Hanuman Temple",
+                  "text": "Népszerű, Hanuman Úrnak szentelt hindu templom, amely élénk sáfrányszínéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        92.7424,
+                        11.66763
+                  ]
+            },
+            {
+                  "name": "Radhakrishna",
+                  "text": "Radhának és Krisnának szentelt hindu templom, hagyományos szakrális építészettel.",
+                  "category": "landmark",
+                  "coords": [
+                        92.74826,
+                        11.66345
+                  ]
+            },
+            {
+                  "name": "Rajastan",
+                  "text": "Vallási hely a Port Blair-i helyi radzsasztáni közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        92.74478,
+                        11.66134
+                  ]
+            },
+            {
+                  "name": "Ramakrishna Mission",
+                  "text": "Spirituális központ, amely meditációt és szociális szolgáltatásokat kínál Ramakrishna tanításai alapján.",
+                  "category": "religious",
+                  "coords": [
+                        92.749582,
+                        11.666576
+                  ]
+            },
+            {
+                  "name": "Kali",
+                  "text": "Kali istennőnek szentelt templom, amely a szigetek bengáli közösségének központi helye.",
+                  "category": "religious",
+                  "coords": [
+                        92.72706,
+                        11.66325
+                  ]
+            },
+            {
+                  "name": "Ayyappa",
+                  "text": "Dél-indiai stílusú, Ayyappa Úrnak szentelt templom, amelyet gyakran látogatnak zarándokok.",
+                  "category": "religious",
+                  "coords": [
+                        92.721254,
+                        11.674504
+                  ]
+            },
+            {
+                  "name": "Ganesh",
+                  "text": "Az elefántfejű Ganésa istennek szentelt kis szentély, amely népszerű a napi imádságokhoz.",
+                  "category": "religious",
+                  "coords": [
+                        92.71927,
+                        11.62328
+                  ]
+            },
+            {
+                  "name": "Sabzi Mandi",
+                  "text": "Nyüzsgő zöldségpiac, ahol friss helyi termékeket és trópusi gyümölcsöket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        92.740905,
+                        11.669349
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Emrald viewpoint",
+                  "text": "Acest punct de belvedere oferă o vedere panoramică asupra apelor turcoaz ale Mării Andaman.",
+                  "category": "natural",
+                  "coords": [
+                        92.734173,
+                        11.721217
+                  ]
+            },
+            {
+                  "name": "Semiramis Bay",
+                  "text": "Un golf pitoresc lângă Port Blair, cunoscut pentru apele sale tropicale liniștite.",
+                  "category": "landmark",
+                  "coords": [
+                        92.730943,
+                        11.695914
+                  ]
+            },
+            {
+                  "name": "Stewartganj Creek",
+                  "text": "O cale navigabilă liniștită, mărginită de păduri de mangrove și așezări locale.",
+                  "category": "landmark",
+                  "coords": [
+                        92.7,
+                        11.70001
+                  ]
+            },
+            {
+                  "name": "Aquarium",
+                  "text": "Acest acvariu prezintă viața marină diversă din Indo-Pacific, inclusiv pești de corali și țestoase marine.",
+                  "category": "recreational",
+                  "coords": [
+                        92.74684,
+                        11.6719
+                  ]
+            },
+            {
+                  "name": "Veer Savarkar Prison Cell",
+                  "text": "Celula din închisoarea Cellular Jail unde a fost încarcerat luptătorul pentru libertate indian Vinayak Damodar Savarkar.",
+                  "category": "landmark",
+                  "coords": [
+                        92.748322,
+                        11.673891
+                  ]
+            },
+            {
+                  "name": "Clock tower",
+                  "text": "Un reper din epoca colonială în centrul orașului Port Blair, ridicat în memoria locuitorilor locali.",
+                  "category": "historical",
+                  "coords": [
+                        92.742776,
+                        11.669941
+                  ]
+            },
+            {
+                  "name": "Gandhi statue",
+                  "text": "O statuie proeminentă din bronz a lui Mahatma Gandhi, situată într-un parc public central.",
+                  "category": "historical",
+                  "coords": [
+                        92.73949,
+                        11.669074
+                  ]
+            },
+            {
+                  "name": "Zonal Anthropological Museum",
+                  "text": "Acest muzeu expune artefacte și istoria triburilor indigene din Insulele Andaman și Nicobar.",
+                  "category": "museum",
+                  "coords": [
+                        92.740233,
+                        11.66438
+                  ]
+            },
+            {
+                  "name": "Mathoma Church Complex",
+                  "text": "Un complex religios cu arhitectură tradițională care deservește comunitatea creștină locală.",
+                  "category": "landmark",
+                  "coords": [
+                        92.73266,
+                        11.6651
+                  ]
+            },
+            {
+                  "name": "Samdurine Marine Museum",
+                  "text": "Muzeul administrat de marina indiană prezintă un schelet de balenă albastră și expoziții despre ecologia oceanică.",
+                  "category": "museum",
+                  "coords": [
+                        92.72615,
+                        11.67188
+                  ]
+            },
+            {
+                  "name": "Mini Zoo",
+                  "text": "O unitate mică ce adăpostește specii endemice ale insulelor, cum ar fi porcul de Andaman.",
+                  "category": "recreational",
+                  "coords": [
+                        92.72536,
+                        11.67744
+                  ]
+            },
+            {
+                  "name": "Forest Museum",
+                  "text": "Situat în Chatham, acest muzeu expune artefacte din lemn și informații despre silvicultura tropicală.",
+                  "category": "museum",
+                  "coords": [
+                        92.724009,
+                        11.677396
+                  ]
+            },
+            {
+                  "name": "बथु बस्ती",
+                  "text": "Un cartier rezidențial și comercial plin de viață, cunoscut pentru piețele sale locale.",
+                  "category": "landmark",
+                  "coords": [
+                        92.716978,
+                        11.621143
+                  ]
+            },
+            {
+                  "name": "Kala Pani",
+                  "text": "Infamul muzeu al închisorii coloniale care documentează suferințele prizonierilor politici.",
+                  "category": "museum",
+                  "coords": [
+                        92.704093,
+                        11.614789
+                  ]
+            },
+            {
+                  "name": "Smrutika",
+                  "text": "Un muzeu dedicat istoriei Armatei Naționale Indiene și lui Netaji Subhash Chandra Bose.",
+                  "category": "museum",
+                  "coords": [
+                        92.761379,
+                        11.673877
+                  ]
+            },
+            {
+                  "name": "Science Centre",
+                  "text": "Un parc științific interactiv cu o galerie jurasică și exponate despre știința oceanelor.",
+                  "category": "museum",
+                  "coords": [
+                        92.756353,
+                        11.654973
+                  ]
+            },
+            {
+                  "name": "Farzand Ali Shop",
+                  "text": "Ruinele unei brutării istorice de pe insula Ross, reflectând stilul de viață colonial britanic.",
+                  "category": "historical",
+                  "coords": [
+                        92.760663,
+                        11.676413
+                  ]
+            },
+            {
+                  "name": "Gandhi Park",
+                  "text": "Un spațiu verde central cu un lac, alei de plimbare și o statuie a lui Mahatma Gandhi.",
+                  "category": "natural",
+                  "coords": [
+                        92.742756,
+                        11.663448
+                  ]
+            },
+            {
+                  "name": "Delanipur Park",
+                  "text": "Un parc de cartier care oferă vedere la mare și spațiu de recreere pentru localnici.",
+                  "category": "natural",
+                  "coords": [
+                        92.728996,
+                        11.668908
+                  ]
+            },
+            {
+                  "name": "Shri Veer Hanuman Temple",
+                  "text": "Un templu hindu popular dedicat Domnului Hanuman, cunoscut pentru culorile sale vibrante de șofran.",
+                  "category": "landmark",
+                  "coords": [
+                        92.7424,
+                        11.66763
+                  ]
+            },
+            {
+                  "name": "Radhakrishna",
+                  "text": "Un templu hindu dedicat lui Radha și Krishna, cu o arhitectură devoțională tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        92.74826,
+                        11.66345
+                  ]
+            },
+            {
+                  "name": "Rajastan",
+                  "text": "Un sit religios pentru comunitatea locală Rajasthani din Port Blair.",
+                  "category": "religious",
+                  "coords": [
+                        92.74478,
+                        11.66134
+                  ]
+            },
+            {
+                  "name": "Ramakrishna Mission",
+                  "text": "Un centru spiritual care oferă meditație și servicii sociale bazate pe învățăturile lui Ramakrishna.",
+                  "category": "religious",
+                  "coords": [
+                        92.749582,
+                        11.666576
+                  ]
+            },
+            {
+                  "name": "Kali",
+                  "text": "Un templu dedicat zeiței Kali, central pentru comunitatea bengaleză din insule.",
+                  "category": "religious",
+                  "coords": [
+                        92.72706,
+                        11.66325
+                  ]
+            },
+            {
+                  "name": "Ayyappa",
+                  "text": "Un templu în stil sud-indian dedicat Domnului Ayyappa, vizitat adesea de pelerini.",
+                  "category": "religious",
+                  "coords": [
+                        92.721254,
+                        11.674504
+                  ]
+            },
+            {
+                  "name": "Ganesh",
+                  "text": "Un mic altar dedicat zeului cu cap de elefant, Ganesha, popular pentru rugăciunile zilnice.",
+                  "category": "religious",
+                  "coords": [
+                        92.71927,
+                        11.62328
+                  ]
+            },
+            {
+                  "name": "Sabzi Mandi",
+                  "text": "O piață vibrantă de legume care vinde produse locale proaspete și fructe tropicale.",
+                  "category": "cultural",
+                  "coords": [
+                        92.740905,
+                        11.669349
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Emrald viewpoint",
+                  "text": "This viewpoint offers panoramic vistas over the turquoise waters of the Andaman Sea.",
+                  "category": "natural",
+                  "coords": [
+                        92.734173,
+                        11.721217
+                  ]
+            },
+            {
+                  "name": "Semiramis Bay",
+                  "text": "A scenic bay near Port Blair known for its calm tropical waters.",
+                  "category": "landmark",
+                  "coords": [
+                        92.730943,
+                        11.695914
+                  ]
+            },
+            {
+                  "name": "Stewartganj Creek",
+                  "text": "A tranquil waterway lined with dense mangrove forests and local settlements.",
+                  "category": "landmark",
+                  "coords": [
+                        92.7,
+                        11.70001
+                  ]
+            },
+            {
+                  "name": "Aquarium",
+                  "text": "This aquarium showcases the diverse marine life of the Indo-Pacific, including coral reef fish and sea turtles.",
+                  "category": "recreational",
+                  "coords": [
+                        92.74684,
+                        11.6719
+                  ]
+            },
+            {
+                  "name": "Veer Savarkar Prison Cell",
+                  "text": "The specific cell in Cellular Jail where the Indian freedom fighter Vinayak Damodar Savarkar was incarcerated.",
+                  "category": "landmark",
+                  "coords": [
+                        92.748322,
+                        11.673891
+                  ]
+            },
+            {
+                  "name": "Clock tower",
+                  "text": "A colonial-era landmark in the center of Port Blair, commemorating local residents.",
+                  "category": "historical",
+                  "coords": [
+                        92.742776,
+                        11.669941
+                  ]
+            },
+            {
+                  "name": "Gandhi statue",
+                  "text": "A prominent bronze statue of Mahatma Gandhi located in a central public park.",
+                  "category": "historical",
+                  "coords": [
+                        92.73949,
+                        11.669074
+                  ]
+            },
+            {
+                  "name": "Zonal Anthropological Museum",
+                  "text": "This museum displays artifacts and history of the indigenous tribes of the Andaman and Nicobar Islands.",
+                  "category": "museum",
+                  "coords": [
+                        92.740233,
+                        11.66438
+                  ]
+            },
+            {
+                  "name": "Mathoma Church Complex",
+                  "text": "A religious complex with traditional architecture serving the local Christian community.",
+                  "category": "landmark",
+                  "coords": [
+                        92.73266,
+                        11.6651
+                  ]
+            },
+            {
+                  "name": "Samudrika marine museum",
+                  "text": "Run by the Indian Navy, this museum features a blue whale skeleton and displays on ocean ecology.",
+                  "category": "museum",
+                  "coords": [
+                        92.72615,
+                        11.67188
+                  ]
+            },
+            {
+                  "name": "Mini Zoo",
+                  "text": "A small facility housing endemic species of the islands, such as the Andaman pig.",
+                  "category": "recreational",
+                  "coords": [
+                        92.72536,
+                        11.67744
+                  ]
+            },
+            {
+                  "name": "Forest Museum",
+                  "text": "Located at Chatham, this museum displays timber artifacts and information on tropical forestry.",
+                  "category": "museum",
+                  "coords": [
+                        92.724009,
+                        11.677396
+                  ]
+            },
+            {
+                  "name": "Bathu Basti",
+                  "text": "A bustling residential and commercial neighborhood known for its local markets.",
+                  "category": "landmark",
+                  "coords": [
+                        92.716978,
+                        11.621143
+                  ]
+            },
+            {
+                  "name": "Kala Pani",
+                  "text": "The infamous colonial prison museum documenting the hardships of political prisoners.",
+                  "category": "museum",
+                  "coords": [
+                        92.704093,
+                        11.614789
+                  ]
+            },
+            {
+                  "name": "Smrutika",
+                  "text": "A museum dedicated to the history of the Indian National Army and Netaji Subhash Chandra Bose.",
+                  "category": "museum",
+                  "coords": [
+                        92.761379,
+                        11.673877
+                  ]
+            },
+            {
+                  "name": "Science Centre",
+                  "text": "An interactive science park featuring a Jurassic gallery and exhibits on ocean science.",
+                  "category": "museum",
+                  "coords": [
+                        92.756353,
+                        11.654973
+                  ]
+            },
+            {
+                  "name": "Farzand Ali Shop",
+                  "text": "Ruins of a historic bakery on Ross Island, reflecting the British colonial lifestyle.",
+                  "category": "historical",
+                  "coords": [
+                        92.760663,
+                        11.676413
+                  ]
+            },
+            {
+                  "name": "Gandhi Park",
+                  "text": "A central green space with a lake, walking paths, and a statue of Mahatma Gandhi.",
+                  "category": "natural",
+                  "coords": [
+                        92.742756,
+                        11.663448
+                  ]
+            },
+            {
+                  "name": "Delanipur Park",
+                  "text": "A neighborhood park offering sea views and recreational space for locals.",
+                  "category": "natural",
+                  "coords": [
+                        92.728996,
+                        11.668908
+                  ]
+            },
+            {
+                  "name": "Shri Veer Hanuman Temple",
+                  "text": "A popular Hindu temple dedicated to Lord Hanuman, known for its vibrant saffron colors.",
+                  "category": "landmark",
+                  "coords": [
+                        92.7424,
+                        11.66763
+                  ]
+            },
+            {
+                  "name": "Radhakrishna",
+                  "text": "A Hindu temple dedicated to Radha and Krishna, featuring traditional devotional architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        92.74826,
+                        11.66345
+                  ]
+            },
+            {
+                  "name": "Rajastan",
+                  "text": "A religious site for the local Rajasthani community in Port Blair.",
+                  "category": "religious",
+                  "coords": [
+                        92.74478,
+                        11.66134
+                  ]
+            },
+            {
+                  "name": "Ramakrishna Mission",
+                  "text": "A spiritual center offering meditation and social services based on the teachings of Ramakrishna.",
+                  "category": "religious",
+                  "coords": [
+                        92.749582,
+                        11.666576
+                  ]
+            },
+            {
+                  "name": "Kali",
+                  "text": "A temple dedicated to the goddess Kali, central to the Bengali community in the islands.",
+                  "category": "religious",
+                  "coords": [
+                        92.72706,
+                        11.66325
+                  ]
+            },
+            {
+                  "name": "Ayyappa",
+                  "text": "A South Indian style temple dedicated to Lord Ayyappa, often visited by pilgrims.",
+                  "category": "religious",
+                  "coords": [
+                        92.721254,
+                        11.674504
+                  ]
+            },
+            {
+                  "name": "Ganesh",
+                  "text": "A small shrine dedicated to the elephant-headed god Ganesha, popular for daily prayers.",
+                  "category": "religious",
+                  "coords": [
+                        92.71927,
+                        11.62328
+                  ]
+            },
+            {
+                  "name": "Sabzi Mandi",
+                  "text": "A vibrant vegetable market selling fresh local produce and tropical fruits.",
+                  "category": "cultural",
+                  "coords": [
+                        92.740905,
+                        11.669349
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "IN-AN",
     coords: [92.743, 11.673],
@@ -568,7 +8704,1204 @@ export const poiExtraIndiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "in-gateway-of-india-history-v2",
+    id: "in-gateway-of-india-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "नॅशनल गॅलरी ऑफ मॉडर्न आर्ट",
+                  "text": "Die National Gallery of Modern Art ist ein bedeutendes Kunstmuseum im historischen Gebiet des Gateway of India, das zeitgenössische indische Kunstwerke ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        72.831385,
+                        18.925838
+                  ]
+            },
+            {
+                  "name": "भाऊ दाजी लाड संग्रहालय",
+                  "text": "Das Bhau Daji Lad Museum, ehemals das Victoria & Albert Museum, ist das älteste Museum in der historischen Umgebung des Gateway of India.",
+                  "category": "museum",
+                  "coords": [
+                        72.834801,
+                        18.979164
+                  ]
+            },
+            {
+                  "name": "Nehru Science Centre",
+                  "text": "Das Nehru Science Centre ist ein interaktives Wissenschaftsmuseum in der historischen Gegend des Gateway of India.",
+                  "category": "museum",
+                  "coords": [
+                        72.818463,
+                        18.99066
+                  ]
+            },
+            {
+                  "name": "Mani Bhavan",
+                  "text": "Mani Bhavan ist ein Museum im historischen Bereich des Gateway of India, das Mahatma Gandhi als Zentrum für politische Aktivitäten diente.",
+                  "category": "museum",
+                  "coords": [
+                        72.811498,
+                        18.95989
+                  ]
+            },
+            {
+                  "name": "Jehangir Art Gallery",
+                  "text": "Die Jehangir Art Gallery ist eine renommierte Kunstgalerie und Kulturinstitution in der historischen Umgebung des Gateway of India.",
+                  "category": "museum",
+                  "coords": [
+                        72.831674,
+                        18.927327
+                  ]
+            },
+            {
+                  "name": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
+                  "text": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya ist ein bedeutendes Museum im historischen Gebiet des Gateway of India, das Indiens Geschichte und Kunst zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        72.832605,
+                        18.92684
+                  ]
+            },
+            {
+                  "name": "Mazagaon Fort",
+                  "text": "Die Ruinen des Mazagaon Fort markieren die historische Stätte einer ehemaligen britischen Verteidigungsanlage in der historischen Umgebung des Gateway of India.",
+                  "category": "historical",
+                  "coords": [
+                        72.8429,
+                        18.967037
+                  ]
+            },
+            {
+                  "name": "Khada Parsi",
+                  "text": "Khada Parsi ist ein gusseisernes Denkmal der Kategorie I im historischen Viertel des Gateway of India.",
+                  "category": "historical",
+                  "coords": [
+                        72.832448,
+                        18.971581
+                  ]
+            },
+            {
+                  "name": "Flora Fountain",
+                  "text": "Flora Fountain ist ein kunstvoll geformtes architektonisches Denkmal in der historischen Umgebung des Gateway of India.",
+                  "category": "historical",
+                  "coords": [
+                        72.8315,
+                        18.932491
+                  ]
+            },
+            {
+                  "name": "हाजी अली दर्गा",
+                  "text": "Die Haji Ali Dargah ist eine berühmte Moschee mit Grabmal auf einer kleinen Insel vor der Küste des historischen Viertels des Gateway of India.",
+                  "category": "religious",
+                  "coords": [
+                        72.808993,
+                        18.982823
+                  ]
+            },
+            {
+                  "name": "Experimental Theatre",
+                  "text": "Das Experimental Theatre ist ein bekannter Veranstaltungsort für darstellende Künste in der historischen Umgebung des Gateway of India.",
+                  "category": "cultural",
+                  "coords": [
+                        72.820117,
+                        18.925476
+                  ]
+            },
+            {
+                  "name": "Afghan Church",
+                  "text": "Die Afghan Church ist eine historische anglikanische Kultstätte im historischen Viertel des Gateway of India, die zum Gedenken an den Ersten Afghanistankrieg erbaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        72.8162,
+                        18.906454
+                  ]
+            },
+            {
+                  "name": "Gloria Church",
+                  "text": "Die Gloria Church ist eine beeindruckende neugotische römisch-katholische Kirche in der historischen Umgebung des Gateway of India.",
+                  "category": "religious",
+                  "coords": [
+                        72.834327,
+                        18.975119
+                  ]
+            },
+            {
+                  "name": "Magen David Synagogue",
+                  "text": "Die Magen David Synagogue ist eine bedeutende jüdische Kultstätte mit wunderschöner viktorianischer Architektur in der historischen Gegend des Gateway of India.",
+                  "category": "religious",
+                  "coords": [
+                        72.832078,
+                        18.96695
+                  ]
+            },
+            {
+                  "name": "Mahalakshmi Mandir",
+                  "text": "Mahalakshmi Mandir ist ein bedeutender Hindu-Tempel, der der Göttin des Reichtums gewidmet ist und im historischen Viertel des Gateway of India liegt.",
+                  "category": "religious",
+                  "coords": [
+                        72.806463,
+                        18.977366
+                  ]
+            },
+            {
+                  "name": "Walkeshwar Temple",
+                  "text": "Der Walkeshwar-Tempel ist ein historischer Hindu-Schrein in der Nähe des Banganga-Wassertanks im historischen Viertel des Gateway of India.",
+                  "category": "religious",
+                  "coords": [
+                        72.793201,
+                        18.945614
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Holy Name",
+                  "text": "Die Cathedral of the Holy Name ist der Sitz des römisch-katholischen Erzbischofs in der historischen Umgebung des Gateway of India.",
+                  "category": "religious",
+                  "coords": [
+                        72.830636,
+                        18.92341
+                  ]
+            },
+            {
+                  "name": "St Thomas Cathedral",
+                  "text": "Die St Thomas Cathedral ist eine historische anglikanische Kathedrale und eines der ältesten britischen Gebäude im historischen Viertel des Gateway of India.",
+                  "category": "religious",
+                  "coords": [
+                        72.83366,
+                        18.931856
+                  ]
+            },
+            {
+                  "name": "Nariman Point",
+                  "text": "Nariman Point ist ein wichtiges Geschäftsviertel und eine prominente Attraktion am Wasser im historischen Viertel des Gateway of India.",
+                  "category": "landmark",
+                  "coords": [
+                        72.818028,
+                        18.925343
+                  ]
+            },
+            {
+                  "name": "Marine Drive, Mumbai",
+                  "text": "Marine Drive ist ein weitläufiger Küstenboulevard in der historischen Umgebung des Gateway of India, der als Queen's Necklace bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        72.823846,
+                        18.941487
+                  ]
+            },
+            {
+                  "name": "Doordarshan TV Tower",
+                  "text": "Der Doordarshan TV Tower ist eine markante Fernsehsendestation im historischen Viertel des Gateway of India.",
+                  "category": "tower",
+                  "coords": [
+                        72.820199,
+                        19.0074
+                  ]
+            },
+            {
+                  "name": "Horniman Circle Garden",
+                  "text": "Der Horniman Circle Garden ist ein großer Stadtpark, der eine grüne Oase inmitten der historischen Gebäude des Gateway of India bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        72.835024,
+                        18.931976
+                  ]
+            },
+            {
+                  "name": "Chhatrapati Shivaji Maharaj Terminus",
+                  "text": "Der Chhatrapati Shivaji Maharaj Terminus ist ein historischer Bahnhof und UNESCO-Weltkulturerbe im historischen Viertel des Gateway of India.",
+                  "category": "landmark",
+                  "coords": [
+                        72.835456,
+                        18.939868
+                  ]
+            },
+            {
+                  "name": "Mahatma Jyotiba Phule Mandai",
+                  "text": "Der Mahatma Jyotiba Phule Market, historisch als Crawford Market bekannt, ist ein belebtes Einkaufsziel im historischen Viertel des Gateway of India.",
+                  "category": "landmark",
+                  "coords": [
+                        72.8346,
+                        18.947233
+                  ]
+            },
+            {
+                  "name": "August Kranti Maidan",
+                  "text": "Der August Kranti Maidan ist ein historischer Park im historischen Viertel des Gateway of India, wo 1942 die Quit-India-Bewegung begann.",
+                  "category": "park",
+                  "coords": [
+                        72.810116,
+                        18.962335
+                  ]
+            },
+            {
+                  "name": "Pherozeshah Mehta Gardens (Hanging Gardens)",
+                  "text": "Die Pherozeshah Mehta Gardens, auch bekannt als die Hängenden Gärten, bieten terrassenförmiges Grün mit Blick auf den Sonnenuntergang im historischen Viertel des Gateway of India.",
+                  "category": "park",
+                  "coords": [
+                        72.804897,
+                        18.956597
+                  ]
+            },
+            {
+                  "name": "Taraporewala Aquarium",
+                  "text": "Das Taraporewala Aquarium ist das älteste Aquarium in der historischen Umgebung des Gateway of India und beherbergt eine Vielzahl von Meeres- und Süßwasserfischen.",
+                  "category": "recreational",
+                  "coords": [
+                        72.819922,
+                        18.949188
+                  ]
+            },
+            {
+                  "name": "Brihanmumbai Municipal Corporation",
+                  "text": "Das Gebäude der Brihanmumbai Municipal Corporation dient als städtischer Hauptsitz in der historischen Gegend des Gateway of India.",
+                  "category": "historical",
+                  "coords": [
+                        72.833949,
+                        18.940896
+                  ]
+            },
+            {
+                  "name": "बॉम्बे वाडा",
+                  "text": "Das Bombay Castle ist eine historische Festung, die einen Einblick in die Verteidigungsgeschichte des historischen Gebiets des Gateway of India bietet.",
+                  "category": "fortress",
+                  "coords": [
+                        72.837991,
+                        18.931656
+                  ]
+            },
+            {
+                  "name": "Bowen Memorial Methodist Church",
+                  "text": "Die Bowen Memorial Methodist Church ist eine Andachtsstätte in in-gateway-of-india-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        72.832656,
+                        18.92333
+                  ]
+            },
+            {
+                  "name": "Keneseth Eliyahoo Synagogue",
+                  "text": "Die Keneseth Eliyahoo Synagogue ist eine Andachtsstätte in in-gateway-of-india-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        72.832604,
+                        18.928109
+                  ]
+            },
+            {
+                  "name": "Veermata Jijabai Bhosale Zoo & Botanical Garden",
+                  "text": "Veermata Jijabai Bhosale Zoo & Botanical Garden ist ein Zoo in in-gateway-of-india-history-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        72.836975,
+                        18.978552
+                  ]
+            },
+            {
+                  "name": "Chemould Prescott Road",
+                  "text": "Chemould Prescott Road ist eine Galerie in in-gateway-of-india-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        72.832187,
+                        18.935378
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "नॅशनल गॅलरी ऑफ मॉडर्न आर्ट",
+                  "text": "A National Gallery of Modern Art egy kiemelkedő művészeti múzeum a Gateway of India történelmi negyedében, amely kortárs indiai műalkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        72.831385,
+                        18.925838
+                  ]
+            },
+            {
+                  "name": "भाऊ दाजी लाड संग्रहालय",
+                  "text": "A Bhau Daji Lad Múzeum, korábban Victoria & Albert Múzeum, a legrégebbi múzeum a Gateway of India történelmi térségében.",
+                  "category": "museum",
+                  "coords": [
+                        72.834801,
+                        18.979164
+                  ]
+            },
+            {
+                  "name": "Nehru Science Centre",
+                  "text": "A Nehru Science Centre egy interaktív tudományos múzeum a Gateway of India történelmi negyedében.",
+                  "category": "museum",
+                  "coords": [
+                        72.818463,
+                        18.99066
+                  ]
+            },
+            {
+                  "name": "Mani Bhavan",
+                  "text": "A Mani Bhavan egy múzeum a Gateway of India történelmi térségében, amely Mahatma Gandhi politikai tevékenységének központjaként szolgált.",
+                  "category": "museum",
+                  "coords": [
+                        72.811498,
+                        18.95989
+                  ]
+            },
+            {
+                  "name": "Jehangir Art Gallery",
+                  "text": "A Jehangir Art Gallery egy rangos művészeti galéria és kulturális intézmény a Gateway of India történelmi negyedében.",
+                  "category": "museum",
+                  "coords": [
+                        72.831674,
+                        18.927327
+                  ]
+            },
+            {
+                  "name": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
+                  "text": "A Chhatrapati Shivaji Maharaj Vastu Sangrahalaya egy kiemelkedő múzeum a Gateway of India történelmi területén, amely India történelmét és művészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        72.832605,
+                        18.92684
+                  ]
+            },
+            {
+                  "name": "Mazagaon Fort",
+                  "text": "A Mazagaon-erőd romjai egy egykori brit védelmi építmény történelmi helyszínét jelölik a Gateway of India térségében.",
+                  "category": "historical",
+                  "coords": [
+                        72.8429,
+                        18.967037
+                  ]
+            },
+            {
+                  "name": "Khada Parsi",
+                  "text": "A Khada Parsi egy első osztályú műemlék öntöttvas szobor a Gateway of India történelmi negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        72.832448,
+                        18.971581
+                  ]
+            },
+            {
+                  "name": "Flora Fountain",
+                  "text": "A Flora Fountain egy bonyolultan faragott építészeti örökségi emlékmű a Gateway of India történelmi térségében.",
+                  "category": "historical",
+                  "coords": [
+                        72.8315,
+                        18.932491
+                  ]
+            },
+            {
+                  "name": "हाजी अली दर्गा",
+                  "text": "A Haji Ali Dargah egy híres mecset és sírhely, amely egy kis szigeten fekszik a Gateway of India történelmi negyedének partjainál.",
+                  "category": "religious",
+                  "coords": [
+                        72.808993,
+                        18.982823
+                  ]
+            },
+            {
+                  "name": "Experimental Theatre",
+                  "text": "Az Experimental Theatre egy jól ismert előadó-művészeti helyszín a Gateway of India történelmi területén belül.",
+                  "category": "cultural",
+                  "coords": [
+                        72.820117,
+                        18.925476
+                  ]
+            },
+            {
+                  "name": "Afghan Church",
+                  "text": "Az afgán templom egy történelmi anglikán imahely, amelyet a Gateway of India térségében építettek az első afgán háború emlékére.",
+                  "category": "religious",
+                  "coords": [
+                        72.8162,
+                        18.906454
+                  ]
+            },
+            {
+                  "name": "Gloria Church",
+                  "text": "A Gloria templom egy lenyűgöző neogótikus római katolikus templom a Gateway of India történelmi térségében.",
+                  "category": "religious",
+                  "coords": [
+                        72.834327,
+                        18.975119
+                  ]
+            },
+            {
+                  "name": "Magen David Synagogue",
+                  "text": "A Magen David zsinagóga egy figyelemre méltó zsidó istentiszteleti hely, gyönyörű viktoriánus építészettel a Gateway of India történelmi negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        72.832078,
+                        18.96695
+                  ]
+            },
+            {
+                  "name": "Mahalakshmi Mandir",
+                  "text": "A Mahalakshmi Mandir egy kiemelkedő hindu templom a gazdagság istennőjének szentelve, amely a Gateway of India történelmi negyedében található.",
+                  "category": "religious",
+                  "coords": [
+                        72.806463,
+                        18.977366
+                  ]
+            },
+            {
+                  "name": "Walkeshwar Temple",
+                  "text": "A Walkeshwar-templom egy történelmi hindu szentély, amely a Banganga víztározó közelében található a Gateway of India térségében.",
+                  "category": "religious",
+                  "coords": [
+                        72.793201,
+                        18.945614
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Holy Name",
+                  "text": "A Cathedral of the Holy Name a római katolikus érsek székhelye a Gateway of India történelmi negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        72.830636,
+                        18.92341
+                  ]
+            },
+            {
+                  "name": "St Thomas Cathedral",
+                  "text": "A St Thomas Cathedral egy történelmi anglikán katedrális, és az egyik legrégebbi brit épület a Gateway of India történelmi térségében.",
+                  "category": "religious",
+                  "coords": [
+                        72.83366,
+                        18.931856
+                  ]
+            },
+            {
+                  "name": "Nariman Point",
+                  "text": "A Nariman Point egy jelentős üzleti negyed és kiemelkedő vízparti látványosság a Gateway of India történelmi területén.",
+                  "category": "landmark",
+                  "coords": [
+                        72.818028,
+                        18.925343
+                  ]
+            },
+            {
+                  "name": "Marine Drive, Mumbai",
+                  "text": "A Marine Drive egy széles tengerparti körút a Gateway of India történelmi negyedében, amely a Királynő nyaklánca néven ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        72.823846,
+                        18.941487
+                  ]
+            },
+            {
+                  "name": "Doordarshan TV Tower",
+                  "text": "A Doordarshan TV-torony egy jól látható televíziós műsorszóró építmény a Gateway of India történelmi negyedében.",
+                  "category": "tower",
+                  "coords": [
+                        72.820199,
+                        19.0074
+                  ]
+            },
+            {
+                  "name": "Horniman Circle Garden",
+                  "text": "A Horniman Circle Garden egy nagy városi park, amely zöld oázist kínál a Gateway of India történelmi negyedének épületei között.",
+                  "category": "landmark",
+                  "coords": [
+                        72.835024,
+                        18.931976
+                  ]
+            },
+            {
+                  "name": "Chhatrapati Shivaji Maharaj Terminus",
+                  "text": "A Chhatrapati Shivaji Maharaj Terminus egy történelmi pályaudvar és az UNESCO Világörökség része a Gateway of India történelmi területén.",
+                  "category": "landmark",
+                  "coords": [
+                        72.835456,
+                        18.939868
+                  ]
+            },
+            {
+                  "name": "Mahatma Jyotiba Phule Mandai",
+                  "text": "A Mahatma Jyotiba Phule Piac, történelmi nevén Crawford Market, egy nyüzsgő bevásárlóhely a Gateway of India történelmi negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        72.8346,
+                        18.947233
+                  ]
+            },
+            {
+                  "name": "August Kranti Maidan",
+                  "text": "Az August Kranti Maidan egy történelmi park a Gateway of India térségében, ahol 1942-ben elindult a Quit India mozgalom.",
+                  "category": "park",
+                  "coords": [
+                        72.810116,
+                        18.962335
+                  ]
+            },
+            {
+                  "name": "Pherozeshah Mehta Gardens (Hanging Gardens)",
+                  "text": "A Pherozeshah Mehta Gardens, más néven Függőkertek, teraszos zöldterületeivel csodálatos naplementét kínálnak a Gateway of India történelmi területén.",
+                  "category": "park",
+                  "coords": [
+                        72.804897,
+                        18.956597
+                  ]
+            },
+            {
+                  "name": "Taraporewala Aquarium",
+                  "text": "A Taraporewala Akvárium a legrégebbi akvárium a Gateway of India történelmi térségében, amely tengeri és édesvízi halak széles választékának ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        72.819922,
+                        18.949188
+                  ]
+            },
+            {
+                  "name": "Brihanmumbai Municipal Corporation",
+                  "text": "A Brihanmumbai Municipal Corporation épülete a polgári önkormányzat központjaként szolgál a Gateway of India történelmi térségében.",
+                  "category": "historical",
+                  "coords": [
+                        72.833949,
+                        18.940896
+                  ]
+            },
+            {
+                  "name": "बॉम्बे वाडा",
+                  "text": "A Bombay-kastély egy történelmi erődítmény, amely bepillantást enged a Gateway of India térségének védelmi múltjába.",
+                  "category": "fortress",
+                  "coords": [
+                        72.837991,
+                        18.931656
+                  ]
+            },
+            {
+                  "name": "Bowen Memorial Methodist Church",
+                  "text": "A Bowen Memorial Methodist Church egy istentiszteleti hely in-gateway-of-india-history-v2 területén.",
+                  "category": "religious",
+                  "coords": [
+                        72.832656,
+                        18.92333
+                  ]
+            },
+            {
+                  "name": "Keneseth Eliyahoo Synagogue",
+                  "text": "A Keneseth Eliyahoo Synagogue egy istentiszteleti hely in-gateway-of-india-history-v2 területén.",
+                  "category": "religious",
+                  "coords": [
+                        72.832604,
+                        18.928109
+                  ]
+            },
+            {
+                  "name": "Veermata Jijabai Bhosale Zoo & Botanical Garden",
+                  "text": "A Veermata Jijabai Bhosale Zoo & Botanical Garden egy állatkert in-gateway-of-india-history-v2 területén.",
+                  "category": "recreational",
+                  "coords": [
+                        72.836975,
+                        18.978552
+                  ]
+            },
+            {
+                  "name": "Chemould Prescott Road",
+                  "text": "A Chemould Prescott Road egy galéria in-gateway-of-india-history-v2 területén.",
+                  "category": "museum",
+                  "coords": [
+                        72.832187,
+                        18.935378
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "नॅशनल गॅलरी ऑफ मॉडर्न आर्ट",
+                  "text": "National Gallery of Modern Art este un muzeu de artă proeminent în zona istorică Gateway of India, care expune o colecție vastă de opere de artă indiene contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        72.831385,
+                        18.925838
+                  ]
+            },
+            {
+                  "name": "भाऊ दाजी लाड संग्रहालय",
+                  "text": "Muzeul Bhau Daji Lad, fostul Muzeu Victoria & Albert, este cel mai vechi muzeu din zona istorică Gateway of India.",
+                  "category": "museum",
+                  "coords": [
+                        72.834801,
+                        18.979164
+                  ]
+            },
+            {
+                  "name": "Nehru Science Centre",
+                  "text": "Nehru Science Centre este un muzeu interactiv de știință situat în zona istorică Gateway of India.",
+                  "category": "museum",
+                  "coords": [
+                        72.818463,
+                        18.99066
+                  ]
+            },
+            {
+                  "name": "Mani Bhavan",
+                  "text": "Mani Bhavan este un muzeu în zona istorică Gateway of India care a servit drept punct central pentru activitățile politice ale lui Mahatma Gandhi.",
+                  "category": "museum",
+                  "coords": [
+                        72.811498,
+                        18.95989
+                  ]
+            },
+            {
+                  "name": "Jehangir Art Gallery",
+                  "text": "Galeria de Artă Jehangir este o prestigioasă galerie de artă și instituție culturală din zona istorică Gateway of India.",
+                  "category": "museum",
+                  "coords": [
+                        72.831674,
+                        18.927327
+                  ]
+            },
+            {
+                  "name": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
+                  "text": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya este un muzeu de prim rang din zona istorică Gateway of India, care detaliază istoria și arta Indiei.",
+                  "category": "museum",
+                  "coords": [
+                        72.832605,
+                        18.92684
+                  ]
+            },
+            {
+                  "name": "Mazagaon Fort",
+                  "text": "Ruinele fortului Mazagaon marchează locul istoric al unei foste structuri defensive britanice din zona istorică Gateway of India.",
+                  "category": "historical",
+                  "coords": [
+                        72.8429,
+                        18.967037
+                  ]
+            },
+            {
+                  "name": "Khada Parsi",
+                  "text": "Khada Parsi este un monument istoric din fontă de gradul I, situat în zona istorică Gateway of India.",
+                  "category": "historical",
+                  "coords": [
+                        72.832448,
+                        18.971581
+                  ]
+            },
+            {
+                  "name": "Flora Fountain",
+                  "text": "Fântâna Flora este un monument arhitectural de patrimoniu, sculptat cu complexitate, din zona istorică Gateway of India.",
+                  "category": "historical",
+                  "coords": [
+                        72.8315,
+                        18.932491
+                  ]
+            },
+            {
+                  "name": "हाजी अली दर्गा",
+                  "text": "Haji Ali Dargah este o renumită moschee și mormânt situat pe o insuliță în largul coastei zonei istorice Gateway of India.",
+                  "category": "religious",
+                  "coords": [
+                        72.808993,
+                        18.982823
+                  ]
+            },
+            {
+                  "name": "Experimental Theatre",
+                  "text": "Experimental Theatre este o sală de spectacole binecunoscută, situată în zona istorică Gateway of India.",
+                  "category": "cultural",
+                  "coords": [
+                        72.820117,
+                        18.925476
+                  ]
+            },
+            {
+                  "name": "Afghan Church",
+                  "text": "Biserica Afgană este un lăcaș de cult anglican istoric construit în zona istorică Gateway of India pentru a comemora Primul Război Afgan.",
+                  "category": "religious",
+                  "coords": [
+                        72.8162,
+                        18.906454
+                  ]
+            },
+            {
+                  "name": "Gloria Church",
+                  "text": "Biserica Gloria este o impresionantă biserică romano-catolică neogotică situată în zona istorică Gateway of India.",
+                  "category": "religious",
+                  "coords": [
+                        72.834327,
+                        18.975119
+                  ]
+            },
+            {
+                  "name": "Magen David Synagogue",
+                  "text": "Sinagoga Magen David este un lăcaș de cult evreiesc notabil, cu o frumoasă arhitectură victoriană, din zona istorică Gateway of India.",
+                  "category": "religious",
+                  "coords": [
+                        72.832078,
+                        18.96695
+                  ]
+            },
+            {
+                  "name": "Mahalakshmi Mandir",
+                  "text": "Mahalakshmi Mandir este un important templu hindus dedicat zeiței bogăției, situat în zona istorică Gateway of India.",
+                  "category": "religious",
+                  "coords": [
+                        72.806463,
+                        18.977366
+                  ]
+            },
+            {
+                  "name": "Walkeshwar Temple",
+                  "text": "Templul Walkeshwar este un altar hindus istoric situat lângă bazinul Banganga din zona istorică Gateway of India.",
+                  "category": "religious",
+                  "coords": [
+                        72.793201,
+                        18.945614
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Holy Name",
+                  "text": "Catedrala Sfântului Nume este sediul Arhiepiscopului Romano-Catolic din zona istorică Gateway of India.",
+                  "category": "religious",
+                  "coords": [
+                        72.830636,
+                        18.92341
+                  ]
+            },
+            {
+                  "name": "St Thomas Cathedral",
+                  "text": "Catedrala St Thomas este o catedrală anglicană istorică și una dintre cele mai vechi clădiri britanice din zona istorică Gateway of India.",
+                  "category": "religious",
+                  "coords": [
+                        72.83366,
+                        18.931856
+                  ]
+            },
+            {
+                  "name": "Nariman Point",
+                  "text": "Nariman Point este un district de afaceri major și o atracție proeminentă pe malul apei din zona istorică Gateway of India.",
+                  "category": "landmark",
+                  "coords": [
+                        72.818028,
+                        18.925343
+                  ]
+            },
+            {
+                  "name": "Marine Drive, Mumbai",
+                  "text": "Marine Drive este un bulevard de coastă amplu din zona istorică Gateway of India, cunoscut sub numele de Colierul Reginei.",
+                  "category": "landmark",
+                  "coords": [
+                        72.823846,
+                        18.941487
+                  ]
+            },
+            {
+                  "name": "Doordarshan TV Tower",
+                  "text": "Turnul TV Doordarshan este o structură de televiziune proeminentă situată în zona istorică Gateway of India.",
+                  "category": "tower",
+                  "coords": [
+                        72.820199,
+                        19.0074
+                  ]
+            },
+            {
+                  "name": "Horniman Circle Garden",
+                  "text": "Horniman Circle Garden este un mare parc urban care oferă o oază verde în mijlocul clădirilor din zona istorică Gateway of India.",
+                  "category": "landmark",
+                  "coords": [
+                        72.835024,
+                        18.931976
+                  ]
+            },
+            {
+                  "name": "Chhatrapati Shivaji Maharaj Terminus",
+                  "text": "Chhatrapati Shivaji Maharaj Terminus este o gară istorică și un sit al Patrimoniului Mondial UNESCO din zona istorică Gateway of India.",
+                  "category": "landmark",
+                  "coords": [
+                        72.835456,
+                        18.939868
+                  ]
+            },
+            {
+                  "name": "Mahatma Jyotiba Phule Mandai",
+                  "text": "Piața Mahatma Jyotiba Phule, cunoscută istoric ca Piața Crawford, este o destinație de cumpărături aglomerată din zona istorică Gateway of India.",
+                  "category": "landmark",
+                  "coords": [
+                        72.8346,
+                        18.947233
+                  ]
+            },
+            {
+                  "name": "August Kranti Maidan",
+                  "text": "August Kranti Maidan este un parc istoric din zona Gateway of India unde a fost lansată mișcarea Quit India în 1942.",
+                  "category": "park",
+                  "coords": [
+                        72.810116,
+                        18.962335
+                  ]
+            },
+            {
+                  "name": "Pherozeshah Mehta Gardens (Hanging Gardens)",
+                  "text": "Grădinile Pherozeshah Mehta, cunoscute și sub numele de Grădinile Suspendate, prezintă spații verzi terasate care oferă priveliști la apus în zona istorică Gateway of India.",
+                  "category": "park",
+                  "coords": [
+                        72.804897,
+                        18.956597
+                  ]
+            },
+            {
+                  "name": "Taraporewala Aquarium",
+                  "text": "Acvariul Taraporewala este cel mai vechi acvariu din zona istorică Gateway of India, găzduind o gamă diversă de pești marini și de apă dulce.",
+                  "category": "recreational",
+                  "coords": [
+                        72.819922,
+                        18.949188
+                  ]
+            },
+            {
+                  "name": "Brihanmumbai Municipal Corporation",
+                  "text": "Clădirea Brihanmumbai Municipal Corporation servește drept sediu civic în zona istorică Gateway of India.",
+                  "category": "historical",
+                  "coords": [
+                        72.833949,
+                        18.940896
+                  ]
+            },
+            {
+                  "name": "बॉम्बे वाडा",
+                  "text": "Castelul Bombay este o fortificație istorică ce oferă o privire în trecutul defensiv al zonei istorice Gateway of India.",
+                  "category": "fortress",
+                  "coords": [
+                        72.837991,
+                        18.931656
+                  ]
+            },
+            {
+                  "name": "Bowen Memorial Methodist Church",
+                  "text": "Bowen Memorial Methodist Church este un lăcaș de cult situat în in-gateway-of-india-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        72.832656,
+                        18.92333
+                  ]
+            },
+            {
+                  "name": "Keneseth Eliyahoo Synagogue",
+                  "text": "Keneseth Eliyahoo Synagogue este un lăcaș de cult situat în in-gateway-of-india-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        72.832604,
+                        18.928109
+                  ]
+            },
+            {
+                  "name": "Veermata Jijabai Bhosale Zoo & Botanical Garden",
+                  "text": "Veermata Jijabai Bhosale Zoo & Botanical Garden este o grădină zoologică situată în in-gateway-of-india-history-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        72.836975,
+                        18.978552
+                  ]
+            },
+            {
+                  "name": "Chemould Prescott Road",
+                  "text": "Chemould Prescott Road este o galerie de artă situată în in-gateway-of-india-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        72.832187,
+                        18.935378
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Gallery of Modern Art",
+                  "text": "The National Gallery of Modern Art is a prominent art museum in the Gateway of India history area, showcasing an extensive collection of contemporary Indian artworks.",
+                  "category": "museum",
+                  "coords": [
+                        72.831385,
+                        18.925838
+                  ]
+            },
+            {
+                  "name": "Bhau Daji Lad Museum (Victoria & Albert Museum)",
+                  "text": "The Bhau Daji Lad Museum, formerly the Victoria & Albert Museum, is the oldest museum in the Gateway of India history area.",
+                  "category": "museum",
+                  "coords": [
+                        72.834801,
+                        18.979164
+                  ]
+            },
+            {
+                  "name": "Nehru Science Centre",
+                  "text": "The Nehru Science Centre is an interactive science museum located in the Gateway of India history area.",
+                  "category": "museum",
+                  "coords": [
+                        72.818463,
+                        18.99066
+                  ]
+            },
+            {
+                  "name": "Mani Bhavan",
+                  "text": "Mani Bhavan is a museum in the Gateway of India history area that served as Mahatma Gandhi's focal point for political activities.",
+                  "category": "museum",
+                  "coords": [
+                        72.811498,
+                        18.95989
+                  ]
+            },
+            {
+                  "name": "Jehangir Art Gallery",
+                  "text": "Jehangir Art Gallery is a prestigious art gallery and cultural institution in the Gateway of India history area.",
+                  "category": "museum",
+                  "coords": [
+                        72.831674,
+                        18.927327
+                  ]
+            },
+            {
+                  "name": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
+                  "text": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya is a premier museum in the Gateway of India history area detailing India's history and art.",
+                  "category": "museum",
+                  "coords": [
+                        72.832605,
+                        18.92684
+                  ]
+            },
+            {
+                  "name": "Mazagaon Fort",
+                  "text": "The ruins of Mazagaon Fort mark the historical site of a former British defensive structure in the Gateway of India history area.",
+                  "category": "historical",
+                  "coords": [
+                        72.8429,
+                        18.967037
+                  ]
+            },
+            {
+                  "name": "Khada Parsi",
+                  "text": "Khada Parsi is a Grade I heritage cast-iron monument located in the Gateway of India history area.",
+                  "category": "historical",
+                  "coords": [
+                        72.832448,
+                        18.971581
+                  ]
+            },
+            {
+                  "name": "Flora Fountain",
+                  "text": "Flora Fountain is an intricately sculpted architectural heritage monument in the Gateway of India history area.",
+                  "category": "historical",
+                  "coords": [
+                        72.8315,
+                        18.932491
+                  ]
+            },
+            {
+                  "name": "Haji Ali Dargah",
+                  "text": "The Haji Ali Dargah is a renowned mosque and tomb situated on an islet off the coast of the Gateway of India history area.",
+                  "category": "religious",
+                  "coords": [
+                        72.808993,
+                        18.982823
+                  ]
+            },
+            {
+                  "name": "Experimental Theatre",
+                  "text": "The Experimental Theatre is a well-known performing arts venue located within the Gateway of India history area.",
+                  "category": "cultural",
+                  "coords": [
+                        72.820117,
+                        18.925476
+                  ]
+            },
+            {
+                  "name": "Afghan Church",
+                  "text": "The Afghan Church is a historic Anglican place of worship built in the Gateway of India history area to commemorate the First Afghan War.",
+                  "category": "religious",
+                  "coords": [
+                        72.8162,
+                        18.906454
+                  ]
+            },
+            {
+                  "name": "Gloria Church",
+                  "text": "Gloria Church is an impressive Neo-Gothic Roman Catholic church situated in the Gateway of India history area.",
+                  "category": "religious",
+                  "coords": [
+                        72.834327,
+                        18.975119
+                  ]
+            },
+            {
+                  "name": "Magen David Synagogue",
+                  "text": "The Magen David Synagogue is a notable Jewish place of worship with beautiful Victorian architecture in the Gateway of India history area.",
+                  "category": "religious",
+                  "coords": [
+                        72.832078,
+                        18.96695
+                  ]
+            },
+            {
+                  "name": "Mahalakshmi Mandir",
+                  "text": "Mahalakshmi Mandir is a prominent Hindu temple dedicated to the goddess of wealth, located in the Gateway of India history area.",
+                  "category": "religious",
+                  "coords": [
+                        72.806463,
+                        18.977366
+                  ]
+            },
+            {
+                  "name": "Walkeshwar Temple",
+                  "text": "Walkeshwar Temple is a historic Hindu shrine located near the Banganga Tank in the Gateway of India history area.",
+                  "category": "religious",
+                  "coords": [
+                        72.793201,
+                        18.945614
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Holy Name",
+                  "text": "The Cathedral of the Holy Name is the seat of the Roman Catholic Archbishop in the Gateway of India history area.",
+                  "category": "religious",
+                  "coords": [
+                        72.830636,
+                        18.92341
+                  ]
+            },
+            {
+                  "name": "St Thomas Cathedral",
+                  "text": "St Thomas Cathedral is a historic Anglican cathedral and one of the oldest British buildings in the Gateway of India history area.",
+                  "category": "religious",
+                  "coords": [
+                        72.83366,
+                        18.931856
+                  ]
+            },
+            {
+                  "name": "Nariman Point",
+                  "text": "Nariman Point is a major business district and prominent waterfront attraction in the Gateway of India history area.",
+                  "category": "landmark",
+                  "coords": [
+                        72.818028,
+                        18.925343
+                  ]
+            },
+            {
+                  "name": "Marine Drive, Mumbai",
+                  "text": "Marine Drive is a sweeping coastal boulevard in the Gateway of India history area, famously known as the Queen's Necklace.",
+                  "category": "landmark",
+                  "coords": [
+                        72.823846,
+                        18.941487
+                  ]
+            },
+            {
+                  "name": "Doordarshan TV Tower",
+                  "text": "The Doordarshan TV Tower is a prominent television broadcasting structure located in the Gateway of India history area.",
+                  "category": "tower",
+                  "coords": [
+                        72.820199,
+                        19.0074
+                  ]
+            },
+            {
+                  "name": "Horniman Circle Garden",
+                  "text": "Horniman Circle Garden is a large urban park offering a green oasis amidst the historic buildings of the Gateway of India history area.",
+                  "category": "landmark",
+                  "coords": [
+                        72.835024,
+                        18.931976
+                  ]
+            },
+            {
+                  "name": "Chhatrapati Shivaji Maharaj Terminus",
+                  "text": "Chhatrapati Shivaji Maharaj Terminus is a historic railway station and UNESCO World Heritage site in the Gateway of India history area.",
+                  "category": "landmark",
+                  "coords": [
+                        72.835456,
+                        18.939868
+                  ]
+            },
+            {
+                  "name": "Mahatma Jyotiba Phule Market",
+                  "text": "Mahatma Jyotiba Phule Market, historically known as Crawford Market, is a bustling shopping destination in the Gateway of India history area.",
+                  "category": "landmark",
+                  "coords": [
+                        72.8346,
+                        18.947233
+                  ]
+            },
+            {
+                  "name": "August Kranti Maidan",
+                  "text": "August Kranti Maidan is a historic park in the Gateway of India history area where the Quit India Movement was launched in 1942.",
+                  "category": "park",
+                  "coords": [
+                        72.810116,
+                        18.962335
+                  ]
+            },
+            {
+                  "name": "Pherozeshah Mehta Gardens (Hanging Gardens)",
+                  "text": "The Pherozeshah Mehta Gardens, also known as the Hanging Gardens, feature terraced greenery offering sunset views in the Gateway of India history area.",
+                  "category": "park",
+                  "coords": [
+                        72.804897,
+                        18.956597
+                  ]
+            },
+            {
+                  "name": "Taraporewala Aquarium",
+                  "text": "The Taraporewala Aquarium is the oldest aquarium in the Gateway of India history area, housing a diverse range of marine and freshwater fishes.",
+                  "category": "recreational",
+                  "coords": [
+                        72.819922,
+                        18.949188
+                  ]
+            },
+            {
+                  "name": "Brihanmumbai Municipal Corporation",
+                  "text": "The Brihanmumbai Municipal Corporation building serves as the civic headquarters in the Gateway of India history area.",
+                  "category": "historical",
+                  "coords": [
+                        72.833949,
+                        18.940896
+                  ]
+            },
+            {
+                  "name": "Bombay Castle",
+                  "text": "Bombay Castle is a historic fortification offering a glimpse into the defensive past of the Gateway of India history area.",
+                  "category": "fortress",
+                  "coords": [
+                        72.837991,
+                        18.931656
+                  ]
+            },
+            {
+                  "name": "Bowen Memorial Methodist Church",
+                  "text": "The Bowen Memorial Methodist Church is a place of worship located in in-gateway-of-india-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        72.832656,
+                        18.92333
+                  ]
+            },
+            {
+                  "name": "Keneseth Eliyahoo Synagogue",
+                  "text": "Keneseth Eliyahoo Synagogue is a place of worship located in in-gateway-of-india-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        72.832604,
+                        18.928109
+                  ]
+            },
+            {
+                  "name": "Veermata Jijabai Bhosale Zoo & Botanical Garden",
+                  "text": "Veermata Jijabai Bhosale Zoo & Botanical Garden is a zoo located in in-gateway-of-india-history-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        72.836975,
+                        18.978552
+                  ]
+            },
+            {
+                  "name": "Chemould Prescott Road",
+                  "text": "Chemould Prescott Road is a gallery located in in-gateway-of-india-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        72.832187,
+                        18.935378
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "IN-MH",
     coords: [72.8347, 18.9220],
@@ -616,7 +9949,268 @@ export const poiExtraIndiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "in-dholavira-history-v2",
+    id: "in-dholavira-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fossil Trees",
+                  "text": "Versteinerte Baumstämme aus prähistorischer Zeit liegen hier in der kargen Landschaft von Kutch.",
+                  "category": "landmark",
+                  "coords": [
+                        70.188273,
+                        23.939706
+                  ]
+            },
+            {
+                  "name": "Pakistan view",
+                  "text": "Dieser Aussichtspunkt bietet einen weiten Blick über die Salzwüste Rann of Kutch bis zur Grenze.",
+                  "category": "natural",
+                  "coords": [
+                        70.176452,
+                        23.936166
+                  ]
+            },
+            {
+                  "name": "Dholavira Museum",
+                  "text": "Das Museum zeigt Harappa-Artefakte und Schmuck aus der nahe gelegenen Indus-Kultur-Stätte.",
+                  "category": "museum",
+                  "coords": [
+                        70.216665,
+                        23.885455
+                  ]
+            },
+            {
+                  "name": "Dholavira",
+                  "text": "Eine bedeutende Stadt der Indus-Kultur, bekannt für ihre fortschrittlichen Wasserspeichersysteme.",
+                  "category": "landmark",
+                  "coords": [
+                        70.211575,
+                        23.888591
+                  ]
+            },
+            {
+                  "name": "Castle",
+                  "text": "Die Ruinen der hochgelegenen Zitadelle bildeten einst das Zentrum der Harappa-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        70.213304,
+                        23.88706
+                  ]
+            },
+            {
+                  "name": "South Reservoirs",
+                  "text": "Diese massiven, in den Fels gehauenen Becken dienten einst zum Sammeln von Regenwasser.",
+                  "category": "historical",
+                  "coords": [
+                        70.213417,
+                        23.886087
+                  ]
+            },
+            {
+                  "name": "Kutch Fossil Park",
+                  "text": "Der Park zeigt vielfältige Fossilien, darunter Ammoniten und Hölzer aus der Jurazeit.",
+                  "category": "landmark",
+                  "coords": [
+                        70.186978,
+                        23.939002
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fossil Trees",
+                  "text": "Prehisztorikus korból származó megkövesedett fatörzsek fekszenek Kutch kopár táján.",
+                  "category": "landmark",
+                  "coords": [
+                        70.188273,
+                        23.939706
+                  ]
+            },
+            {
+                  "name": "Pakistan view",
+                  "text": "Ez a kilátópont messzi tekintetet enged a Rann of Kutch sós mocsárvidékére a határ felé.",
+                  "category": "natural",
+                  "coords": [
+                        70.176452,
+                        23.936166
+                  ]
+            },
+            {
+                  "name": "Dholavira Museum",
+                  "text": "A múzeum harappa-i leleteket és ékszereket mutat be a közeli Indus-völgyi lelőhelyről.",
+                  "category": "museum",
+                  "coords": [
+                        70.216665,
+                        23.885455
+                  ]
+            },
+            {
+                  "name": "Dholavira",
+                  "text": "Az Indus-völgyi civilizáció jelentős városa, amely fejlett víztározó rendszereiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        70.211575,
+                        23.888591
+                  ]
+            },
+            {
+                  "name": "Castle",
+                  "text": "A magasan fekvő citadella romjai alkották egykor a harappa-i város központját.",
+                  "category": "historical",
+                  "coords": [
+                        70.213304,
+                        23.88706
+                  ]
+            },
+            {
+                  "name": "South Reservoirs",
+                  "text": "Ezek a hatalmas, sziklába vájt medencék egykor esővíz gyűjtésére szolgáltak.",
+                  "category": "historical",
+                  "coords": [
+                        70.213417,
+                        23.886087
+                  ]
+            },
+            {
+                  "name": "Kutch Fossil Park",
+                  "text": "A park változatos fosszíliákat mutat be, köztük ammoniteszeket és jura kori fákat.",
+                  "category": "landmark",
+                  "coords": [
+                        70.186978,
+                        23.939002
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fossil Trees",
+                  "text": "Trunchiuri de copaci pietrificați din epoca preistorică se află în peisajul arid din Kutch.",
+                  "category": "landmark",
+                  "coords": [
+                        70.188273,
+                        23.939706
+                  ]
+            },
+            {
+                  "name": "Pakistan view",
+                  "text": "Acest punct de observație oferă o vedere panoramică asupra deșertului de sare Rann of Kutch către graniță.",
+                  "category": "natural",
+                  "coords": [
+                        70.176452,
+                        23.936166
+                  ]
+            },
+            {
+                  "name": "Dholavira Museum",
+                  "text": "Muzeul expune artefacte și bijuterii harappane din situl învecinat al civilizației de pe Valea Indului.",
+                  "category": "museum",
+                  "coords": [
+                        70.216665,
+                        23.885455
+                  ]
+            },
+            {
+                  "name": "Dholavira",
+                  "text": "Un oraș major al civilizației de pe Valea Indului, cunoscut pentru sistemele sale avansate de gestionare a apei.",
+                  "category": "landmark",
+                  "coords": [
+                        70.211575,
+                        23.888591
+                  ]
+            },
+            {
+                  "name": "Castle",
+                  "text": "Ruinele citadelei ridicate formau odinioară centrul orașului harappan.",
+                  "category": "historical",
+                  "coords": [
+                        70.213304,
+                        23.88706
+                  ]
+            },
+            {
+                  "name": "South Reservoirs",
+                  "text": "Aceste bazine masive tăiate în stâncă serveau odinioară la colectarea apei de ploaie.",
+                  "category": "historical",
+                  "coords": [
+                        70.213417,
+                        23.886087
+                  ]
+            },
+            {
+                  "name": "Kutch Fossil Park",
+                  "text": "Parcul prezintă diverse fosile, inclusiv amoniți și lemn din perioada jurasicului.",
+                  "category": "landmark",
+                  "coords": [
+                        70.186978,
+                        23.939002
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fossil Trees",
+                  "text": "Prehistoric petrified tree trunks lie in the barren landscape of Kutch.",
+                  "category": "landmark",
+                  "coords": [
+                        70.188273,
+                        23.939706
+                  ]
+            },
+            {
+                  "name": "Pakistan view",
+                  "text": "This viewpoint offers a vast gaze across the Rann of Kutch salt flats toward the border.",
+                  "category": "natural",
+                  "coords": [
+                        70.176452,
+                        23.936166
+                  ]
+            },
+            {
+                  "name": "Dholavira Museum",
+                  "text": "The museum displays Harappan artifacts and jewelry from the nearby Indus Valley site.",
+                  "category": "museum",
+                  "coords": [
+                        70.216665,
+                        23.885455
+                  ]
+            },
+            {
+                  "name": "Dholavira",
+                  "text": "A major Indus Valley Civilization city known for its advanced water management systems.",
+                  "category": "landmark",
+                  "coords": [
+                        70.211575,
+                        23.888591
+                  ]
+            },
+            {
+                  "name": "Castle",
+                  "text": "The ruins of the elevated citadel once formed the center of the Harappan city.",
+                  "category": "historical",
+                  "coords": [
+                        70.213304,
+                        23.88706
+                  ]
+            },
+            {
+                  "name": "South Reservoirs",
+                  "text": "These massive rock-cut basins were once used to collect and store rainwater.",
+                  "category": "historical",
+                  "coords": [
+                        70.213417,
+                        23.886087
+                  ]
+            },
+            {
+                  "name": "Kutch Fossil Park",
+                  "text": "The park features diverse fossils, including ammonites and wood from the Jurassic era.",
+                  "category": "landmark",
+                  "coords": [
+                        70.186978,
+                        23.939002
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "IN-GJ",
     coords: [70.213, 23.886],
@@ -664,7 +10258,448 @@ export const poiExtraIndiaHistoryV2: POI[] = [
     },
   },
     {
-    id: "in-panipat-battlefield-history-v2",
+    id: "in-panipat-battlefield-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Panipat Museum",
+                  "text": "Ein Museum, das Waffen, Rüstungen und Artefakte aus den drei historischen Schlachten von Panipat ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        76.953982,
+                        29.356635
+                  ]
+            },
+            {
+                  "name": "Ibrahim Lodhi's grave",
+                  "text": "Das schlichte Grabmal von Ibrahim Lodhi, dem Sultan von Delhi, der 1526 in der Schlacht fiel.",
+                  "category": "historical",
+                  "coords": [
+                        76.97288,
+                        29.401568
+                  ]
+            },
+            {
+                  "name": "Purana Quila",
+                  "text": "Die Überreste einer alten Festung, die Zeugnis von der strategischen militärischen Vergangenheit Panipats ablegen.",
+                  "category": "castle",
+                  "coords": [
+                        76.976694,
+                        29.393376
+                  ]
+            },
+            {
+                  "name": "Noorani Masjid",
+                  "text": "Eine lokale Moschee, die als wichtiges religiöses Zentrum für die muslimische Gemeinschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        76.947124,
+                        29.352871
+                  ]
+            },
+            {
+                  "name": "Sai Baba chowk",
+                  "text": "Ein öffentlicher Platz und Schrein, der dem indischen Heiligen Sai Baba von Shirdi gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        76.982529,
+                        29.384817
+                  ]
+            },
+            {
+                  "name": "Shrine of Hazrat Bu-Ali Shah Qalandar",
+                  "text": "Ein Sufi-Heiligtum aus dem 13. Jahrhundert mit kunstvollen Marmorschnitzereien und einem heiligen Grab.",
+                  "category": "landmark",
+                  "coords": [
+                        76.979302,
+                        29.39227
+                  ]
+            },
+            {
+                  "name": "Shree Anandpur Mandir",
+                  "text": "Ein weitläufiger hinduistischer Tempelkomplex, der für spirituelle Versammlungen und Gebete genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        76.977379,
+                        29.394615
+                  ]
+            },
+            {
+                  "name": "Kabuli Bagh",
+                  "text": "Eine Moschee und Gartenanlage, die Kaiser Babur 1526 nach seinem Sieg über Ibrahim Lodhi errichten ließ.",
+                  "category": "landmark",
+                  "coords": [
+                        76.989287,
+                        29.395983
+                  ]
+            },
+            {
+                  "name": "Shiv Temple Bhisan Shrup colony",
+                  "text": "Ein hinduistischer Gemeindetempel in der Bhisan-Shrup-Kolonie, der Lord Shiva geweiht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        76.964531,
+                        29.397367
+                  ]
+            },
+            {
+                  "name": "Devi Mandir",
+                  "text": "Ein alter hinduistischer Tempel mit einem großen rituellen Becken, der der Muttergöttin gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        76.9746,
+                        29.40047
+                  ]
+            },
+            {
+                  "name": "Gandhi Mandi",
+                  "text": "Ein lebhafter lokaler Marktplatz, der ein zentraler Ort für den täglichen Handel in Panipat ist.",
+                  "category": "cultural",
+                  "coords": [
+                        76.972722,
+                        29.377258
+                  ]
+            },
+            {
+                  "name": "choura bazaar",
+                  "text": "Ein historisches, enges Marktviertel, das für Textilien und traditionelle indische Waren bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        76.969816,
+                        29.393229
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Panipat Museum",
+                  "text": "Múzeum, amely a három történelmi panipati csata fegyvereit, páncéljait és műtárgyait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        76.953982,
+                        29.356635
+                  ]
+            },
+            {
+                  "name": "Ibrahim Lodhi's grave",
+                  "text": "Ibrahim Lodhi delhi szultán egyszerű sírhelye, aki az 1526-os csatában esett el.",
+                  "category": "historical",
+                  "coords": [
+                        76.97288,
+                        29.401568
+                  ]
+            },
+            {
+                  "name": "Purana Quila",
+                  "text": "Egy ősi erőd maradványai, amelyek Panipat stratégiai katonai múltjáról tanúskodnak.",
+                  "category": "castle",
+                  "coords": [
+                        76.976694,
+                        29.393376
+                  ]
+            },
+            {
+                  "name": "Noorani Masjid",
+                  "text": "Helyi mecset, amely a muszlim közösség fontos vallási központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        76.947124,
+                        29.352871
+                  ]
+            },
+            {
+                  "name": "Sai Baba chowk",
+                  "text": "Nyilvános tér és szentély, amelyet a sirdi Sai Babának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        76.982529,
+                        29.384817
+                  ]
+            },
+            {
+                  "name": "Shrine of Hazrat Bu-Ali Shah Qalandar",
+                  "text": "13. századi szúfi szentély díszes márványfaragványokkal és szent sírral.",
+                  "category": "landmark",
+                  "coords": [
+                        76.979302,
+                        29.39227
+                  ]
+            },
+            {
+                  "name": "Shree Anandpur Mandir",
+                  "text": "Kiterjedt hindu templomkomplexum, amelyet spirituális összejövetelekre és imákra használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        76.977379,
+                        29.394615
+                  ]
+            },
+            {
+                  "name": "Kabuli Bagh",
+                  "text": "Mecset és kert, amelyet Babur császár építtetett 1526-ban, az Ibrahim Lodhi feletti győzelme után.",
+                  "category": "landmark",
+                  "coords": [
+                        76.989287,
+                        29.395983
+                  ]
+            },
+            {
+                  "name": "Shiv Temple Bhisan Shrup colony",
+                  "text": "Hindu közösségi templom a Bhisan Shrup kolóniában, amelyet az Úr Sivának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        76.964531,
+                        29.397367
+                  ]
+            },
+            {
+                  "name": "Devi Mandir",
+                  "text": "Ősi hindu templom nagy rituális medencével, amelyet az Anyaistennőnek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        76.9746,
+                        29.40047
+                  ]
+            },
+            {
+                  "name": "Gandhi Mandi",
+                  "text": "Nyüzsgő helyi piactér, amely a napi kereskedelem központja Panipatban.",
+                  "category": "cultural",
+                  "coords": [
+                        76.972722,
+                        29.377258
+                  ]
+            },
+            {
+                  "name": "choura bazaar",
+                  "text": "Történelmi, szűk piaci negyed, amely textíliáiról és hagyományos indiai áruiról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        76.969816,
+                        29.393229
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Panipat Museum",
+                  "text": "Un muzeu care expune arme, armuri și artefacte din cele trei bătălii istorice de la Panipat.",
+                  "category": "museum",
+                  "coords": [
+                        76.953982,
+                        29.356635
+                  ]
+            },
+            {
+                  "name": "Ibrahim Lodhi's grave",
+                  "text": "Mormântul simplu al lui Ibrahim Lodhi, sultanul Delhiului care a căzut în bătălia din 1526.",
+                  "category": "historical",
+                  "coords": [
+                        76.97288,
+                        29.401568
+                  ]
+            },
+            {
+                  "name": "Purana Quila",
+                  "text": "Rămășițele unei vechi cetăți care atestă trecutul militar strategic al Panipatului.",
+                  "category": "castle",
+                  "coords": [
+                        76.976694,
+                        29.393376
+                  ]
+            },
+            {
+                  "name": "Noorani Masjid",
+                  "text": "O moschee locală care servește ca centru religios important pentru comunitatea musulmană.",
+                  "category": "landmark",
+                  "coords": [
+                        76.947124,
+                        29.352871
+                  ]
+            },
+            {
+                  "name": "Sai Baba chowk",
+                  "text": "O piață publică și un altar dedicate sfântului indian Sai Baba din Shirdi.",
+                  "category": "religious",
+                  "coords": [
+                        76.982529,
+                        29.384817
+                  ]
+            },
+            {
+                  "name": "Shrine of Hazrat Bu-Ali Shah Qalandar",
+                  "text": "Un sanctuar sufit din secolul al XIII-lea, cu sculpturi ornamentate în marmură și un mormânt sacru.",
+                  "category": "landmark",
+                  "coords": [
+                        76.979302,
+                        29.39227
+                  ]
+            },
+            {
+                  "name": "Shree Anandpur Mandir",
+                  "text": "Un complex vast de temple hindu folosit pentru adunări spirituale și rugăciuni.",
+                  "category": "landmark",
+                  "coords": [
+                        76.977379,
+                        29.394615
+                  ]
+            },
+            {
+                  "name": "Kabuli Bagh",
+                  "text": "O moschee și o grădină construite de împăratul Babur în 1526, după victoria sa asupra lui Ibrahim Lodhi.",
+                  "category": "landmark",
+                  "coords": [
+                        76.989287,
+                        29.395983
+                  ]
+            },
+            {
+                  "name": "Shiv Temple Bhisan Shrup colony",
+                  "text": "Un templu hindu comunitar în colonia Bhisan Shrup, sfințit în onoarea zeului Shiva.",
+                  "category": "landmark",
+                  "coords": [
+                        76.964531,
+                        29.397367
+                  ]
+            },
+            {
+                  "name": "Devi Mandir",
+                  "text": "Un vechi templu hindu cu un bazin ritualic mare, dedicat Zeiței Mamă.",
+                  "category": "landmark",
+                  "coords": [
+                        76.9746,
+                        29.40047
+                  ]
+            },
+            {
+                  "name": "Gandhi Mandi",
+                  "text": "O piață locală plină de viață, care este un punct central pentru comerțul zilnic în Panipat.",
+                  "category": "cultural",
+                  "coords": [
+                        76.972722,
+                        29.377258
+                  ]
+            },
+            {
+                  "name": "choura bazaar",
+                  "text": "Un cartier istoric cu străzi înguste, renumit pentru textile și mărfuri tradiționale indiene.",
+                  "category": "cultural",
+                  "coords": [
+                        76.969816,
+                        29.393229
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Panipat Museum",
+                  "text": "A museum displaying weapons, armor, and artifacts from the three historic battles of Panipat.",
+                  "category": "museum",
+                  "coords": [
+                        76.953982,
+                        29.356635
+                  ]
+            },
+            {
+                  "name": "Ibrahim Lodhi's grave",
+                  "text": "The simple tomb of Ibrahim Lodhi, the Sultan of Delhi who fell in the battle of 1526.",
+                  "category": "historical",
+                  "coords": [
+                        76.97288,
+                        29.401568
+                  ]
+            },
+            {
+                  "name": "Purana Quila",
+                  "text": "The remains of an ancient fort reflecting Panipat's strategic military past.",
+                  "category": "castle",
+                  "coords": [
+                        76.976694,
+                        29.393376
+                  ]
+            },
+            {
+                  "name": "Noorani Masjid",
+                  "text": "A local mosque serving as an important religious center for the Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        76.947124,
+                        29.352871
+                  ]
+            },
+            {
+                  "name": "Sai Baba chowk",
+                  "text": "A public square and shrine dedicated to the Indian saint Sai Baba of Shirdi.",
+                  "category": "religious",
+                  "coords": [
+                        76.982529,
+                        29.384817
+                  ]
+            },
+            {
+                  "name": "Shrine of Hazrat Bu-Ali Shah Qalandar",
+                  "text": "A 13th-century Sufi shrine featuring ornate marble carvings and a sacred tomb.",
+                  "category": "landmark",
+                  "coords": [
+                        76.979302,
+                        29.39227
+                  ]
+            },
+            {
+                  "name": "Shree Anandpur Mandir",
+                  "text": "An expansive Hindu temple complex used for spiritual gatherings and prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        76.977379,
+                        29.394615
+                  ]
+            },
+            {
+                  "name": "Kabuli Bagh",
+                  "text": "A mosque and garden built by Emperor Babur in 1526 after his victory over Ibrahim Lodhi.",
+                  "category": "landmark",
+                  "coords": [
+                        76.989287,
+                        29.395983
+                  ]
+            },
+            {
+                  "name": "Shiv Temple Bhisan Shrup colony",
+                  "text": "A community Hindu temple in the Bhisan Shrup colony, consecrated to Lord Shiva.",
+                  "category": "landmark",
+                  "coords": [
+                        76.964531,
+                        29.397367
+                  ]
+            },
+            {
+                  "name": "Devi Mandir",
+                  "text": "An ancient Hindu temple with a large ritual pool, dedicated to the Mother Goddess.",
+                  "category": "landmark",
+                  "coords": [
+                        76.9746,
+                        29.40047
+                  ]
+            },
+            {
+                  "name": "Gandhi Mandi",
+                  "text": "A bustling local marketplace that is a central spot for daily commerce in Panipat.",
+                  "category": "cultural",
+                  "coords": [
+                        76.972722,
+                        29.377258
+                  ]
+            },
+            {
+                  "name": "choura bazaar",
+                  "text": "A historic, narrow market district famous for textiles and traditional Indian goods.",
+                  "category": "cultural",
+                  "coords": [
+                        76.969816,
+                        29.393229
+                  ]
+            }
+      ]
+},
     type: "battlefield",
     parent: "IN-HR",
     coords: [76.97, 29.39],
@@ -760,7 +10795,1168 @@ export const poiExtraIndiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "in-charminar-history-v2",
+    id: "in-charminar-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Salar Jung Museum",
+                  "text": "Eines der größten Museen Indiens, das die riesige Kunstsammlung der Salar-Jung-Familie beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        78.480441,
+                        17.37137
+                  ]
+            },
+            {
+                  "name": "State Library",
+                  "text": "Ein prächtiges Gebäude im indo-sarazenischen Stil am Fluss Musi, das eine der größten Bibliotheken des Staates beherbergt.",
+                  "category": "historical",
+                  "coords": [
+                        78.47822,
+                        17.374157
+                  ]
+            },
+            {
+                  "name": "High Court of Telangana",
+                  "text": "Ein imposantes Bauwerk aus rotem Stein am Ufer des Musi, das im indo-sarazenischen Architekturstil erbaut wurde.",
+                  "category": "historical",
+                  "coords": [
+                        78.472133,
+                        17.369165
+                  ]
+            },
+            {
+                  "name": "Sai Baba Temple",
+                  "text": "Ein bedeutender Sai-Baba-Tempel in Dilsukhnagar, der als wichtiger Pilgerort für Tausende von Gläubigen gilt.",
+                  "category": "religious",
+                  "coords": [
+                        78.527249,
+                        17.367823
+                  ]
+            },
+            {
+                  "name": "Bhagyalaxmi Temple",
+                  "text": "Ein kleiner hinduistischer Tempel, der sich direkt am Fuße des ikonischen Charminar-Denkmals befindet.",
+                  "category": "religious",
+                  "coords": [
+                        78.474839,
+                        17.361532
+                  ]
+            },
+            {
+                  "name": "Mehboob Chowk Clock Tower",
+                  "text": "Ein im türkischen Stil erbauter Uhrturm aus dem 19. Jahrhundert, der sich in der Nähe des Laad-Basars befindet.",
+                  "category": "historical",
+                  "coords": [
+                        78.470913,
+                        17.361879
+                  ]
+            },
+            {
+                  "name": "Chowmahalla Palace",
+                  "text": "Der ehemalige Sitz der Nizame, bekannt für seine prunkvolle Durbar-Halle und die Sammlung antiker Autos.",
+                  "category": "landmark",
+                  "coords": [
+                        78.471607,
+                        17.357449
+                  ]
+            },
+            {
+                  "name": "Mecca Masjid",
+                  "text": "Eine der ältesten und größten Moscheen Indiens, deren Ziegel aus Erde aus Mekka gebrannt wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        78.473562,
+                        17.360473
+                  ]
+            },
+            {
+                  "name": "The Nizam's Museum",
+                  "text": "Ein Museum im Purani Haveli, das die persönlichen Geschenke und Besitztümer des letzten Nizams ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        78.48327,
+                        17.365044
+                  ]
+            },
+            {
+                  "name": "Raja Dhanrajgir Palace",
+                  "text": "Ein historisches Herrenhaus aus der Ära der Nizame, das ein Beispiel für die aristokratische Architektur Hyderabads ist.",
+                  "category": "castle",
+                  "coords": [
+                        78.465584,
+                        17.379938
+                  ]
+            },
+            {
+                  "name": "Nehru statue",
+                  "text": "Ein Denkmal für Jawaharlal Nehru, den ersten Premierminister Indiens, in einem zentralen Teil der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        78.472902,
+                        17.35071
+                  ]
+            },
+            {
+                  "name": "shaik faiz kaman",
+                  "text": "Einer der vier historischen Torbögen der Altstadt, der einst Teil des königlichen Ensembles war.",
+                  "category": "historical",
+                  "coords": [
+                        78.486427,
+                        17.36182
+                  ]
+            },
+            {
+                  "name": "Dabeerpura darwaza",
+                  "text": "Eines der wenigen erhaltenen Stadttore der alten Stadtmauer von Hyderabad.",
+                  "category": "historical",
+                  "coords": [
+                        78.485169,
+                        17.367922
+                  ]
+            },
+            {
+                  "name": "Mozam Jahi Market Clock Tower",
+                  "text": "Der markante Uhrturm des Mozam Jahi Marktes, ein Wahrzeichen aus der Zeit der Nizame im Herzen der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        78.47505,
+                        17.384561
+                  ]
+            },
+            {
+                  "name": "madina building;Ajfan",
+                  "text": "Ein markantes Gebäude, das als moderner Orientierungspunkt für den Handel mit nahöstlichen Delikatessen dient.",
+                  "category": "historical",
+                  "coords": [
+                        78.475739,
+                        17.368476
+                  ]
+            },
+            {
+                  "name": "Gulzar houz (fountain)",
+                  "text": "Ein historischer achteckiger Brunnen im Zentrum der Altstadt, gelegen an der Kreuzung bei Pathergatti.",
+                  "category": "historical",
+                  "coords": [
+                        78.474999,
+                        17.363451
+                  ]
+            },
+            {
+                  "name": "Pooja store",
+                  "text": "Dieses Denkmal dient als lokaler Andachtsort und Geschäft für spirituelle Gegenstände in der Nähe des Charminar.",
+                  "category": "historical",
+                  "coords": [
+                        78.468797,
+                        17.373571
+                  ]
+            },
+            {
+                  "name": "Moghalpura Tomb",
+                  "text": "Eine historische Grabstätte im Moghalpura-Viertel, die die traditionelle indo-islamische Grabarchitektur zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        78.476429,
+                        17.357295
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Ein modernes Freilufttheater, das für kulturelle Aufführungen und Gemeinschaftsveranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        78.555364,
+                        17.382621
+                  ]
+            },
+            {
+                  "name": "Super Theatre",
+                  "text": "Ein lokales Theaterzentrum im Herzen des Charminar-Viertels, bekannt für regionale Filmvorführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        78.51879,
+                        17.317794
+                  ]
+            },
+            {
+                  "name": "Yadagiri Theater",
+                  "text": "Dieses traditionelle Kino ist ein beliebter Treffpunkt für Einheimische zur Unterhaltung in der Altstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        78.508431,
+                        17.346754
+                  ]
+            },
+            {
+                  "name": "vivekanda nagarr",
+                  "text": "Ein ruhiger Gebetsort im Wohnviertel Vivekananda Nagar für die lokale Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        78.548206,
+                        17.344735
+                  ]
+            },
+            {
+                  "name": "Hanuman temple",
+                  "text": "Dieser Hindu-Tempel ist Lord Hanuman gewidmet und ein Zentrum für tägliche Rituale im Charminar-Viertel.",
+                  "category": "religious",
+                  "coords": [
+                        78.533045,
+                        17.342431
+                  ]
+            },
+            {
+                  "name": "Shiva Temple",
+                  "text": "Ein dem Gott Shiva geweihter Tempel, der für seine meditative Atmosphäre und traditionelle Schreine bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        78.559008,
+                        17.350066
+                  ]
+            },
+            {
+                  "name": "Dhathatriya Swamy temple",
+                  "text": "Dieser Tempel ehrt Dattatreya, die Inkarnation der Trimurti, in einer schlichten städtischen Umgebung.",
+                  "category": "religious",
+                  "coords": [
+                        78.473425,
+                        17.349629
+                  ]
+            },
+            {
+                  "name": "SImhavahini Mahankali Temple",
+                  "text": "Ein farbenfroher Mahankali-Tempel, der während des Bonalu-Festivals zum lebhaften Zentrum der Stadt wird.",
+                  "category": "religious",
+                  "coords": [
+                        78.473967,
+                        17.348395
+                  ]
+            },
+            {
+                  "name": "Akkaanna Madanna Temple",
+                  "text": "Ein historischer Tempel, der im 17. Jahrhundert von den berühmten Ministern des Golkonda-Sultanats erbaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        78.476245,
+                        17.351903
+                  ]
+            },
+            {
+                  "name": "Shirdi Sai Baba",
+                  "text": "Ein beschaulicher Ort der Verehrung für Shirdi Sai Baba inmitten des geschäftigen Stadtteils.",
+                  "category": "religious",
+                  "coords": [
+                        78.514306,
+                        17.346259
+                  ]
+            },
+            {
+                  "name": "Sri Shiridi Sai Baba",
+                  "text": "Ein lokales Heiligtum, das den Lehren von Sai Baba gewidmet ist und tägliche spirituelle Gesänge bietet.",
+                  "category": "religious",
+                  "coords": [
+                        78.513374,
+                        17.349645
+                  ]
+            },
+            {
+                  "name": "Veeranjaneya mandiram",
+                  "text": "Dieser Veeranjaneya gewidmete Mandiram ist bekannt für seine kraftvollen Hanuman-Gebete am Dienstag.",
+                  "category": "religious",
+                  "coords": [
+                        78.505291,
+                        17.36038
+                  ]
+            },
+            {
+                  "name": "Pochamma",
+                  "text": "Dieser Pochamma-Tempel ist einer lokalen Schutzgöttin geweiht und spielt eine wichtige Rolle in der Stadtteilkultur.",
+                  "category": "religious",
+                  "coords": [
+                        78.50715,
+                        17.359833
+                  ]
+            },
+            {
+                  "name": "Bilal Masjid",
+                  "text": "Eine elegante Moschee, die der muslimischen Gemeinde als zentraler Ort für die Freitagsgebete dient.",
+                  "category": "religious",
+                  "coords": [
+                        78.512329,
+                        17.36548
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Salar Jung Museum",
+                  "text": "India egyik legnagyobb múzeuma, amely a Salar Jung család hatalmas művészeti gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        78.480441,
+                        17.37137
+                  ]
+            },
+            {
+                  "name": "State Library",
+                  "text": "Pazar indo-szaracén stílusú épület a Musi-folyó partján, amely az állam egyik legnagyobb könyvtárának ad otthont.",
+                  "category": "historical",
+                  "coords": [
+                        78.47822,
+                        17.374157
+                  ]
+            },
+            {
+                  "name": "High Court of Telangana",
+                  "text": "Impozáns vörös kőépület a Musi partján, amely indo-szaracén építészeti stílusban épült.",
+                  "category": "historical",
+                  "coords": [
+                        78.472133,
+                        17.369165
+                  ]
+            },
+            {
+                  "name": "Sai Baba Temple",
+                  "text": "Jelentős Sai Baba-templom Dilsukhnagarban, amely hívők ezrei számára fontos zarándokhely.",
+                  "category": "religious",
+                  "coords": [
+                        78.527249,
+                        17.367823
+                  ]
+            },
+            {
+                  "name": "Bhagyalaxmi Temple",
+                  "text": "Kisméretű hindu templom, amely közvetlenül az ikonikus Charminar emlékmű lábánál található.",
+                  "category": "religious",
+                  "coords": [
+                        78.474839,
+                        17.361532
+                  ]
+            },
+            {
+                  "name": "Mehboob Chowk Clock Tower",
+                  "text": "19. századi, török stílusban épült óratorony, amely a Laad bazár közelében található.",
+                  "category": "historical",
+                  "coords": [
+                        78.470913,
+                        17.361879
+                  ]
+            },
+            {
+                  "name": "Chowmahalla Palace",
+                  "text": "A Nizamok egykori székhelye, amely pazar Durbar-terméről és antik autógyűjteményéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        78.471607,
+                        17.357449
+                  ]
+            },
+            {
+                  "name": "Mecca Masjid",
+                  "text": "India egyik legrégebbi és legnagyobb mecsete, amelynek téglái Mekkából származó földből készültek.",
+                  "category": "landmark",
+                  "coords": [
+                        78.473562,
+                        17.360473
+                  ]
+            },
+            {
+                  "name": "The Nizam's Museum",
+                  "text": "A Purani Haveli-ben található múzeum, amely az utolsó Nizam személyes ajándékait és tárgyait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        78.48327,
+                        17.365044
+                  ]
+            },
+            {
+                  "name": "Raja Dhanrajgir Palace",
+                  "text": "Történelmi kúria a Nizam-korszakból, amely Hyderabad arisztokratikus építészetének példája.",
+                  "category": "castle",
+                  "coords": [
+                        78.465584,
+                        17.379938
+                  ]
+            },
+            {
+                  "name": "Nehru statue",
+                  "text": "Jawaharlal Nehru-nak, India első miniszterelnökének emlékműve a város egyik központi részén.",
+                  "category": "historical",
+                  "coords": [
+                        78.472902,
+                        17.35071
+                  ]
+            },
+            {
+                  "name": "shaik faiz kaman",
+                  "text": "Az óváros négy történelmi boltívének egyike, amely egykor a királyi együttes része volt.",
+                  "category": "historical",
+                  "coords": [
+                        78.486427,
+                        17.36182
+                  ]
+            },
+            {
+                  "name": "Dabeerpura darwaza",
+                  "text": "Hyderabad régi városfalának egyik kevés fennmaradt városkapuja.",
+                  "category": "historical",
+                  "coords": [
+                        78.485169,
+                        17.367922
+                  ]
+            },
+            {
+                  "name": "Mozam Jahi Market Clock Tower",
+                  "text": "A Mozam Jahi piac jellegzetes óratornya, a Nizam-korszak egyik nevezetessége a város szívében.",
+                  "category": "historical",
+                  "coords": [
+                        78.47505,
+                        17.384561
+                  ]
+            },
+            {
+                  "name": "madina building;Ajfan",
+                  "text": "Jellegzetes épület, amely a közel-keleti csemegék kereskedelmének modern tájékozódási pontjaként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        78.475739,
+                        17.368476
+                  ]
+            },
+            {
+                  "name": "Gulzar houz (fountain)",
+                  "text": "Történelmi nyolcszögletű szökőkút az óváros központjában, a Pathergatti melletti kereszteződésnél.",
+                  "category": "historical",
+                  "coords": [
+                        78.474999,
+                        17.363451
+                  ]
+            },
+            {
+                  "name": "Pooja store",
+                  "text": "Ez az emlékmű helyi vallási helyszínként és spirituális kellékek boltjaként szolgál a Charminar közelében.",
+                  "category": "historical",
+                  "coords": [
+                        78.468797,
+                        17.373571
+                  ]
+            },
+            {
+                  "name": "Moghalpura Tomb",
+                  "text": "Történelmi síremlék Moghalpura negyedében, amely a hagyományos indo-iszlám építészet stílusjegyeit hordozza.",
+                  "category": "historical",
+                  "coords": [
+                        78.476429,
+                        17.357295
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Modern szabadtéri színház, amelyet kulturális előadásokra és közösségi eseményekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        78.555364,
+                        17.382621
+                  ]
+            },
+            {
+                  "name": "Super Theatre",
+                  "text": "Helyi színházi központ a Charminar negyed szívében, amely regionális filmvetítéseiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        78.51879,
+                        17.317794
+                  ]
+            },
+            {
+                  "name": "Yadagiri Theater",
+                  "text": "Ez a hagyományos mozi a helyiek kedvelt szórakozóhelye az óvárosban.",
+                  "category": "cultural",
+                  "coords": [
+                        78.508431,
+                        17.346754
+                  ]
+            },
+            {
+                  "name": "vivekanda nagarr",
+                  "text": "Nyugodt imádságos hely a Vivekananda Nagar lakónegyedben a helyi közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        78.548206,
+                        17.344735
+                  ]
+            },
+            {
+                  "name": "Hanuman temple",
+                  "text": "Ez az Úr Hanumannak szentelt hindu templom a napi rituálék központja a Charminar negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        78.533045,
+                        17.342431
+                  ]
+            },
+            {
+                  "name": "Shiva Temple",
+                  "text": "Siva istennek szentelt templom, amely meditatív légköréről és hagyományos szentélyeiről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        78.559008,
+                        17.350066
+                  ]
+            },
+            {
+                  "name": "Dhathatriya Swamy temple",
+                  "text": "Ez a templom Dattatréját, a Trimúrti inkarnációját tiszteli egyszerű városi környezetben.",
+                  "category": "religious",
+                  "coords": [
+                        78.473425,
+                        17.349629
+                  ]
+            },
+            {
+                  "name": "SImhavahini Mahankali Temple",
+                  "text": "Színes Mahankáli-templom, amely a Bonalu fesztivál idején a város vibráló központjává válik.",
+                  "category": "religious",
+                  "coords": [
+                        78.473967,
+                        17.348395
+                  ]
+            },
+            {
+                  "name": "Akkaanna Madanna Temple",
+                  "text": "Történelmi templom, amelyet a 17. században építettek a Golkonda Szultanátus híres miniszterei.",
+                  "category": "religious",
+                  "coords": [
+                        78.476245,
+                        17.351903
+                  ]
+            },
+            {
+                  "name": "Shirdi Sai Baba",
+                  "text": "Shirdi Sai Baba tiszteletére emelt békés kegyhely a nyüzsgő városrész közepén.",
+                  "category": "religious",
+                  "coords": [
+                        78.514306,
+                        17.346259
+                  ]
+            },
+            {
+                  "name": "Sri Shiridi Sai Baba",
+                  "text": "Sai Baba tanításainak szentelt helyi szentély, ahol naponta spirituális énekek hangzanak el.",
+                  "category": "religious",
+                  "coords": [
+                        78.513374,
+                        17.349645
+                  ]
+            },
+            {
+                  "name": "Veeranjaneya mandiram",
+                  "text": "Ez a Veerandzsaneja-mandiram a keddi erőteljes Hanumán-imáiról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        78.505291,
+                        17.36038
+                  ]
+            },
+            {
+                  "name": "Pochamma",
+                  "text": "Ez a Pocsamma-templom egy helyi védelmező istennőnek van szentelve, és fontos szerepet játszik a környék kultúrájában.",
+                  "category": "religious",
+                  "coords": [
+                        78.50715,
+                        17.359833
+                  ]
+            },
+            {
+                  "name": "Bilal Masjid",
+                  "text": "Elegáns mecset, amely a muszlim közösség központi helyszínéül szolgál a pénteki imákhoz.",
+                  "category": "religious",
+                  "coords": [
+                        78.512329,
+                        17.36548
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Salar Jung Museum",
+                  "text": "Unul dintre cele mai mari muzee din India, care găzduiește vasta colecție de artă a familiei Salar Jung.",
+                  "category": "museum",
+                  "coords": [
+                        78.480441,
+                        17.37137
+                  ]
+            },
+            {
+                  "name": "State Library",
+                  "text": "O clădire somptuoasă în stil indo-sarazin pe malul râului Musi, care găzduiește una dintre cele mai mari biblioteci din stat.",
+                  "category": "historical",
+                  "coords": [
+                        78.47822,
+                        17.374157
+                  ]
+            },
+            {
+                  "name": "High Court of Telangana",
+                  "text": "O structură impunătoare din piatră roșie pe malul râului Musi, construită în stil arhitectural indo-sarazin.",
+                  "category": "historical",
+                  "coords": [
+                        78.472133,
+                        17.369165
+                  ]
+            },
+            {
+                  "name": "Sai Baba Temple",
+                  "text": "Un important templu Sai Baba din Dilsukhnagar, considerat un loc de pelerinaj major pentru mii de credincioși.",
+                  "category": "religious",
+                  "coords": [
+                        78.527249,
+                        17.367823
+                  ]
+            },
+            {
+                  "name": "Bhagyalaxmi Temple",
+                  "text": "Un mic templu hindu situat chiar la baza iconicului monument Charminar.",
+                  "category": "religious",
+                  "coords": [
+                        78.474839,
+                        17.361532
+                  ]
+            },
+            {
+                  "name": "Mehboob Chowk Clock Tower",
+                  "text": "Un turn cu ceas din secolul al XIX-lea, construit în stil turcesc, situat în apropierea bazarului Laad.",
+                  "category": "historical",
+                  "coords": [
+                        78.470913,
+                        17.361879
+                  ]
+            },
+            {
+                  "name": "Chowmahalla Palace",
+                  "text": "Fostul sediu al Nizamilor, cunoscut pentru somptuoasa sa sală Durbar și colecția de mașini antice.",
+                  "category": "landmark",
+                  "coords": [
+                        78.471607,
+                        17.357449
+                  ]
+            },
+            {
+                  "name": "Mecca Masjid",
+                  "text": "Una dintre cele mai vechi și mai mari moschei din India, ale cărei cărămizi au fost arse din pământ adus de la Mecca.",
+                  "category": "landmark",
+                  "coords": [
+                        78.473562,
+                        17.360473
+                  ]
+            },
+            {
+                  "name": "The Nizam's Museum",
+                  "text": "Un muzeu situat în Purani Haveli, care expune cadourile și obiectele personale ale ultimului Nizam.",
+                  "category": "museum",
+                  "coords": [
+                        78.48327,
+                        17.365044
+                  ]
+            },
+            {
+                  "name": "Raja Dhanrajgir Palace",
+                  "text": "Un conac istoric din epoca Nizam, reprezentativ pentru arhitectura aristocratică din Hyderabad.",
+                  "category": "castle",
+                  "coords": [
+                        78.465584,
+                        17.379938
+                  ]
+            },
+            {
+                  "name": "Nehru statue",
+                  "text": "Un monument dedicat lui Jawaharlal Nehru, primul prim-ministru al Indiei, situat într-o zonă centrală a orașului.",
+                  "category": "historical",
+                  "coords": [
+                        78.472902,
+                        17.35071
+                  ]
+            },
+            {
+                  "name": "shaik faiz kaman",
+                  "text": "Unul dintre cele patru arcuri istorice ale orașului vechi, care a făcut parte odinioară din ansamblul regal.",
+                  "category": "historical",
+                  "coords": [
+                        78.486427,
+                        17.36182
+                  ]
+            },
+            {
+                  "name": "Dabeerpura darwaza",
+                  "text": "Una dintre puținele porți rămase ale vechiului zid al orașului Hyderabad.",
+                  "category": "historical",
+                  "coords": [
+                        78.485169,
+                        17.367922
+                  ]
+            },
+            {
+                  "name": "Mozam Jahi Market Clock Tower",
+                  "text": "Turnul cu ceas distinctiv al pieței Mozam Jahi, un punct de reper din epoca Nizam în inima orașului.",
+                  "category": "historical",
+                  "coords": [
+                        78.47505,
+                        17.384561
+                  ]
+            },
+            {
+                  "name": "madina building;Ajfan",
+                  "text": "O clădire distinctivă care servește ca punct de reper modern pentru comerțul cu delicatese din Orientul Mijlociu.",
+                  "category": "historical",
+                  "coords": [
+                        78.475739,
+                        17.368476
+                  ]
+            },
+            {
+                  "name": "Gulzar houz (fountain)",
+                  "text": "O fântână octogonală istorică în centrul orașului vechi, situată la intersecția de lângă Pathergatti.",
+                  "category": "historical",
+                  "coords": [
+                        78.474999,
+                        17.363451
+                  ]
+            },
+            {
+                  "name": "Pooja store",
+                  "text": "Acest monument servește ca loc de devoțiune local și magazin pentru obiecte spirituale lângă Charminar.",
+                  "category": "historical",
+                  "coords": [
+                        78.468797,
+                        17.373571
+                  ]
+            },
+            {
+                  "name": "Moghalpura Tomb",
+                  "text": "Un sit funerar istoric în cartierul Moghalpura, care prezintă arhitectura tradițională indo-islamică.",
+                  "category": "historical",
+                  "coords": [
+                        78.476429,
+                        17.357295
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Un amfiteatru modern în aer liber, utilizat pentru spectacole culturale și evenimente comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        78.555364,
+                        17.382621
+                  ]
+            },
+            {
+                  "name": "Super Theatre",
+                  "text": "Un centru teatral local în inima cartierului Charminar, cunoscut pentru proiecțiile de filme regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        78.51879,
+                        17.317794
+                  ]
+            },
+            {
+                  "name": "Yadagiri Theater",
+                  "text": "Acest cinematograf tradițional este un loc popular de întâlnire pentru localnici în orașul vechi.",
+                  "category": "cultural",
+                  "coords": [
+                        78.508431,
+                        17.346754
+                  ]
+            },
+            {
+                  "name": "vivekanda nagarr",
+                  "text": "Un loc liniștit de rugăciune în cartierul rezidențial Vivekananda Nagar pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        78.548206,
+                        17.344735
+                  ]
+            },
+            {
+                  "name": "Hanuman temple",
+                  "text": "Acest templu hindu este dedicat zeului Hanuman și este un centru pentru ritualurile zilnice în districtul Charminar.",
+                  "category": "religious",
+                  "coords": [
+                        78.533045,
+                        17.342431
+                  ]
+            },
+            {
+                  "name": "Shiva Temple",
+                  "text": "Un templu dedicat zeului Shiva, cunoscut pentru atmosfera sa meditativă și sanctuarele tradiționale.",
+                  "category": "religious",
+                  "coords": [
+                        78.559008,
+                        17.350066
+                  ]
+            },
+            {
+                  "name": "Dhathatriya Swamy temple",
+                  "text": "Acest templu îl onorează pe Dattatreya, încarnarea Trimurti, într-un cadru urban simplu.",
+                  "category": "religious",
+                  "coords": [
+                        78.473425,
+                        17.349629
+                  ]
+            },
+            {
+                  "name": "SImhavahini Mahankali Temple",
+                  "text": "Un templu colorat dedicat zeiței Mahankali, care devine un centru vibrant în timpul festivalului Bonalu.",
+                  "category": "religious",
+                  "coords": [
+                        78.473967,
+                        17.348395
+                  ]
+            },
+            {
+                  "name": "Akkaanna Madanna Temple",
+                  "text": "Un templu istoric construit în secolul al XVII-lea de miniștrii celebri ai Sultanatului Golkonda.",
+                  "category": "religious",
+                  "coords": [
+                        78.476245,
+                        17.351903
+                  ]
+            },
+            {
+                  "name": "Shirdi Sai Baba",
+                  "text": "Un loc liniștit de venerare pentru Shirdi Sai Baba în mijlocul cartierului aglomerat.",
+                  "category": "religious",
+                  "coords": [
+                        78.514306,
+                        17.346259
+                  ]
+            },
+            {
+                  "name": "Sri Shiridi Sai Baba",
+                  "text": "Un sanctuar local dedicat învățăturilor lui Sai Baba, oferind cântări spirituale zilnice.",
+                  "category": "religious",
+                  "coords": [
+                        78.513374,
+                        17.349645
+                  ]
+            },
+            {
+                  "name": "Veeranjaneya mandiram",
+                  "text": "Acest mandiram dedicat lui Veeranjaneya este cunoscut pentru rugăciunile puternice către Hanuman de marți.",
+                  "category": "religious",
+                  "coords": [
+                        78.505291,
+                        17.36038
+                  ]
+            },
+            {
+                  "name": "Pochamma",
+                  "text": "Acest templu Pochamma este dedicat unei zeițe protectoare locale și joacă un rol important în cultura cartierului.",
+                  "category": "religious",
+                  "coords": [
+                        78.50715,
+                        17.359833
+                  ]
+            },
+            {
+                  "name": "Bilal Masjid",
+                  "text": "O moschee elegantă care servește comunității musulmane ca loc central pentru rugăciunile de vineri.",
+                  "category": "religious",
+                  "coords": [
+                        78.512329,
+                        17.36548
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Salar Jung Museum",
+                  "text": "One of India's largest museums, housing the vast private art collection of the Salar Jung family.",
+                  "category": "museum",
+                  "coords": [
+                        78.480441,
+                        17.37137
+                  ]
+            },
+            {
+                  "name": "State Library",
+                  "text": "A magnificent Indo-Saracenic building on the Musi River, housing one of the state's largest libraries.",
+                  "category": "historical",
+                  "coords": [
+                        78.47822,
+                        17.374157
+                  ]
+            },
+            {
+                  "name": "High Court of Telangana",
+                  "text": "An imposing red stone structure on the Musi riverbank, built in the Indo-Saracenic architectural style.",
+                  "category": "historical",
+                  "coords": [
+                        78.472133,
+                        17.369165
+                  ]
+            },
+            {
+                  "name": "Sai Baba Temple",
+                  "text": "A prominent Sai Baba temple in Dilsukhnagar, serving as a major pilgrimage site for thousands of devotees.",
+                  "category": "religious",
+                  "coords": [
+                        78.527249,
+                        17.367823
+                  ]
+            },
+            {
+                  "name": "Bhagyalaxmi Temple",
+                  "text": "A small Hindu temple located right at the base of the iconic Charminar monument.",
+                  "category": "religious",
+                  "coords": [
+                        78.474839,
+                        17.361532
+                  ]
+            },
+            {
+                  "name": "Mehboob Chowk Clock Tower",
+                  "text": "A 19th-century clock tower built in Turkish style, located near the Laad Bazaar.",
+                  "category": "historical",
+                  "coords": [
+                        78.470913,
+                        17.361879
+                  ]
+            },
+            {
+                  "name": "Chowmahalla Palace",
+                  "text": "The former seat of the Nizams, known for its opulent Durbar Hall and antique car collection.",
+                  "category": "landmark",
+                  "coords": [
+                        78.471607,
+                        17.357449
+                  ]
+            },
+            {
+                  "name": "Mecca Masjid",
+                  "text": "One of India's oldest and largest mosques, with bricks made from soil brought from Mecca.",
+                  "category": "landmark",
+                  "coords": [
+                        78.473562,
+                        17.360473
+                  ]
+            },
+            {
+                  "name": "The Nizam's Museum",
+                  "text": "A museum in Purani Haveli showcasing the personal gifts and belongings of the last Nizam.",
+                  "category": "museum",
+                  "coords": [
+                        78.48327,
+                        17.365044
+                  ]
+            },
+            {
+                  "name": "Raja Dhanrajgir Palace",
+                  "text": "A historic mansion from the Nizam era, representing the aristocratic architecture of Hyderabad.",
+                  "category": "castle",
+                  "coords": [
+                        78.465584,
+                        17.379938
+                  ]
+            },
+            {
+                  "name": "Nehru statue",
+                  "text": "A monument dedicated to Jawaharlal Nehru, India's first Prime Minister, located in a central part of the city.",
+                  "category": "historical",
+                  "coords": [
+                        78.472902,
+                        17.35071
+                  ]
+            },
+            {
+                  "name": "shaik faiz kaman",
+                  "text": "One of the four historic arches of the old city, which was once part of the royal ensemble.",
+                  "category": "historical",
+                  "coords": [
+                        78.486427,
+                        17.36182
+                  ]
+            },
+            {
+                  "name": "Dabeerpura darwaza",
+                  "text": "One of the few surviving gateways of the old walled city of Hyderabad.",
+                  "category": "historical",
+                  "coords": [
+                        78.485169,
+                        17.367922
+                  ]
+            },
+            {
+                  "name": "Mozam Jahi Market Clock Tower",
+                  "text": "The distinctive clock tower of the Mozam Jahi Market, a Nizam-era landmark in the heart of the city.",
+                  "category": "historical",
+                  "coords": [
+                        78.47505,
+                        17.384561
+                  ]
+            },
+            {
+                  "name": "Ajfan",
+                  "text": "A distinctive building serving as a modern landmark for the trade of Middle Eastern delicacies.",
+                  "category": "historical",
+                  "coords": [
+                        78.475739,
+                        17.368476
+                  ]
+            },
+            {
+                  "name": "Gulzar houz (fountain)",
+                  "text": "A historic octagonal fountain in the center of the old city, located at the crossroads near Pathergatti.",
+                  "category": "historical",
+                  "coords": [
+                        78.474999,
+                        17.363451
+                  ]
+            },
+            {
+                  "name": "Pooja store",
+                  "text": "This monument serves as a local devotional site and shop for spiritual items near Charminar.",
+                  "category": "historical",
+                  "coords": [
+                        78.468797,
+                        17.373571
+                  ]
+            },
+            {
+                  "name": "Moghalpura Tomb",
+                  "text": "A historic burial site in the Moghalpura district showcasing traditional Indo-Islamic funerary architecture.",
+                  "category": "historical",
+                  "coords": [
+                        78.476429,
+                        17.357295
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "A modern open-air amphitheatre used for cultural performances and community events.",
+                  "category": "cultural",
+                  "coords": [
+                        78.555364,
+                        17.382621
+                  ]
+            },
+            {
+                  "name": "Super Theatre",
+                  "text": "A local theatre hub in the heart of the Charminar district, known for regional film screenings.",
+                  "category": "cultural",
+                  "coords": [
+                        78.51879,
+                        17.317794
+                  ]
+            },
+            {
+                  "name": "Yadagiri Theater",
+                  "text": "This traditional cinema is a popular gathering spot for locals for entertainment in the old city.",
+                  "category": "cultural",
+                  "coords": [
+                        78.508431,
+                        17.346754
+                  ]
+            },
+            {
+                  "name": "vivekanda nagarr",
+                  "text": "A serene place of worship located in the Vivekananda Nagar residential area for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        78.548206,
+                        17.344735
+                  ]
+            },
+            {
+                  "name": "Hanuman temple",
+                  "text": "This Hindu temple is dedicated to Lord Hanuman and is a center for daily rituals in the Charminar district.",
+                  "category": "religious",
+                  "coords": [
+                        78.533045,
+                        17.342431
+                  ]
+            },
+            {
+                  "name": "Shiva Temple",
+                  "text": "A temple dedicated to Lord Shiva, known for its meditative atmosphere and traditional shrines.",
+                  "category": "religious",
+                  "coords": [
+                        78.559008,
+                        17.350066
+                  ]
+            },
+            {
+                  "name": "Dhathatriya Swamy temple",
+                  "text": "This temple honors Dattatreya, the incarnation of the Trimurti, in a simple urban setting.",
+                  "category": "religious",
+                  "coords": [
+                        78.473425,
+                        17.349629
+                  ]
+            },
+            {
+                  "name": "SImhavahini Mahankali Temple",
+                  "text": "A colorful Mahankali temple that becomes a vibrant center during the Bonalu festival.",
+                  "category": "religious",
+                  "coords": [
+                        78.473967,
+                        17.348395
+                  ]
+            },
+            {
+                  "name": "Akkaanna Madanna Temple",
+                  "text": "A historic temple built in the 17th century by the famous ministers of the Golconda Sultanate.",
+                  "category": "religious",
+                  "coords": [
+                        78.476245,
+                        17.351903
+                  ]
+            },
+            {
+                  "name": "Shirdi Sai Baba",
+                  "text": "A serene place of worship for Shirdi Sai Baba amidst the bustling city district.",
+                  "category": "religious",
+                  "coords": [
+                        78.514306,
+                        17.346259
+                  ]
+            },
+            {
+                  "name": "Sri Shiridi Sai Baba",
+                  "text": "A local sanctuary dedicated to the teachings of Sai Baba, featuring daily spiritual chants.",
+                  "category": "religious",
+                  "coords": [
+                        78.513374,
+                        17.349645
+                  ]
+            },
+            {
+                  "name": "Veeranjaneya mandiram",
+                  "text": "This mandiram dedicated to Veeranjaneya is known for its powerful Hanuman prayers on Tuesdays.",
+                  "category": "religious",
+                  "coords": [
+                        78.505291,
+                        17.36038
+                  ]
+            },
+            {
+                  "name": "Pochamma",
+                  "text": "This Pochamma temple is dedicated to a local protector goddess and plays a key role in neighborhood culture.",
+                  "category": "religious",
+                  "coords": [
+                        78.50715,
+                        17.359833
+                  ]
+            },
+            {
+                  "name": "Bilal Masjid",
+                  "text": "An elegant mosque serving the Muslim community as a central location for Friday prayers.",
+                  "category": "religious",
+                  "coords": [
+                        78.512329,
+                        17.36548
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "IN-TG",
     coords: [78.4747, 17.3616],
@@ -808,7 +12004,1276 @@ export const poiExtraIndiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "in-golconda-fort-history-v2",
+    id: "in-golconda-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Peddamma Temple",
+                  "text": "Ein bedeutender Tempel in Jubilee Hills, der der Muttergöttin Peddamma Thalli gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        78.404906,
+                        17.430604
+                  ]
+            },
+            {
+                  "name": "Taramati Baradari",
+                  "text": "Ein historischer Pavillon mit zwei Stockwerken und zwölf Bögen, der für seine hervorragende Akustik bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        78.378163,
+                        17.376124
+                  ]
+            },
+            {
+                  "name": "Golconda Fort",
+                  "text": "Eine massive mittelalterliche Festung, die für ihre bahnbrechende Akustik und als Zentrum des Diamantenhandels bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        78.40112,
+                        17.383422
+                  ]
+            },
+            {
+                  "name": "Kasu Brahmananda Reddy National Park",
+                  "text": "Ein weitläufiger Stadtpark mit Pfauenschutzgebieten und dem historischen Chiraan-Palast in seinem Inneren.",
+                  "category": "landmark",
+                  "coords": [
+                        78.420298,
+                        17.420444
+                  ]
+            },
+            {
+                  "name": "Durgam Cheruvu",
+                  "text": "Ein versteckter Süßwassersee, der von markanten Granitfelsen umgeben ist und als \"Secret Lake\" bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        78.389915,
+                        17.430211
+                  ]
+            },
+            {
+                  "name": "Durgam Cheruvu Bridge",
+                  "text": "Eine moderne Schrägseilbrücke, die das \"Secret Lake\" überspannt und nachts farbenfroh beleuchtet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        78.389942,
+                        17.431713
+                  ]
+            },
+            {
+                  "name": "Botanical Gardens",
+                  "text": "Ein botanischer Garten mit weitläufigen Bambus- und Heilpflanzenbereichen in der Nähe von Kondapur.",
+                  "category": "park",
+                  "coords": [
+                        78.356859,
+                        17.454538
+                  ]
+            },
+            {
+                  "name": "Biodiversity Park",
+                  "text": "Ein Park in Gachibowli mit einem Gedenkpylon, der die Entwicklung der Arten darstellt.",
+                  "category": "park",
+                  "coords": [
+                        78.376592,
+                        17.429046
+                  ]
+            },
+            {
+                  "name": "State Art Gallery",
+                  "text": "Eine Galerie in Kavuri Hills, die zeitgenössische Kunst und traditionelle indische Kunsthandwerke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        78.397918,
+                        17.436384
+                  ]
+            },
+            {
+                  "name": "Svk art gallery",
+                  "text": "Eine lokale Kunstgalerie, die Werke regionaler Künstler und wechselnde Ausstellungen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        78.359666,
+                        17.434119
+                  ]
+            },
+            {
+                  "name": "Tanjore Paintings Art Gallery",
+                  "text": "Eine spezialisierte Kunstgalerie, die traditionelle südindische Gemälde mit Goldblatt-Reliefs ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        78.393183,
+                        17.446826
+                  ]
+            },
+            {
+                  "name": "Mushroom Rock",
+                  "text": "Eine natürliche Granitformation im Nationalpark, die durch Erosion die Form eines Pilzes erhalten hat.",
+                  "category": "historical",
+                  "coords": [
+                        78.338987,
+                        17.441099
+                  ]
+            },
+            {
+                  "name": "18 Steps",
+                  "text": "Ein archäologischer Ort in der Festung Golconda, bestehend aus einer Reihe monumentaler Treppenstufen.",
+                  "category": "historical",
+                  "coords": [
+                        78.395062,
+                        17.38974
+                  ]
+            },
+            {
+                  "name": "Golconda Jail",
+                  "text": "Historische Gefängniszellen in der Festung, in denen der Heilige Bhakta Ramadasu im 17. Jahrhundert gefangen gehalten wurde.",
+                  "category": "historical",
+                  "coords": [
+                        78.396405,
+                        17.38966
+                  ]
+            },
+            {
+                  "name": "Tomb",
+                  "text": "Ein historisches Steingrab aus der Qutub-Shahi-Ära, das sich in der Nähe der äußeren Verteidigungsanlagen der Festung befindet.",
+                  "category": "historical",
+                  "coords": [
+                        78.400028,
+                        17.403425
+                  ]
+            },
+            {
+                  "name": "Qutub Shahi Tombs",
+                  "text": "Diese prächtigen Kuppelbauten bilden eine majestätische Nekropole für die Gründerväter des Golkonda-Sultanats.",
+                  "category": "historical",
+                  "coords": [
+                        78.396786,
+                        17.395399
+                  ]
+            },
+            {
+                  "name": "Golkonda Reservoir",
+                  "text": "Ein antiker Wasserspeicher mit Steinwällen, der einst zur Versorgung der strategischen Bergfestung diente.",
+                  "category": "historical",
+                  "coords": [
+                        78.401562,
+                        17.388812
+                  ]
+            },
+            {
+                  "name": "SVK Amphitheater",
+                  "text": "Ein modernes Open-Air-Gelände für kulturelle Aufführungen und universitäre Versammlungen im Gebiet von Hyderabad.",
+                  "category": "cultural",
+                  "coords": [
+                        78.360492,
+                        17.435523
+                  ]
+            },
+            {
+                  "name": "Rangbhoomi",
+                  "text": "Ein lebendiger Veranstaltungsort im Freien, der sich den darstellenden Künsten und Theaterworkshops in Gachibowli widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        78.37117,
+                        17.431208
+                  ]
+            },
+            {
+                  "name": "Aaromale",
+                  "text": "Ein kreatives Gemeinschaftszentrum in einer renovierten Villa, das intime Theaterstücke und kulturelle Veranstaltungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        78.406553,
+                        17.412792
+                  ]
+            },
+            {
+                  "name": "open air theater police line",
+                  "text": "Ein öffentlicher Aufführungsort im Freien, der für offizielle Veranstaltungen und lokale kulturelle Treffen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        78.420086,
+                        17.437004
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "Ein stufenförmiger Sitzbereich im Freien, der für öffentliche Präsentationen und festliche Versammlungen konzipiert wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        78.347925,
+                        17.448006
+                  ]
+            },
+            {
+                  "name": "Open Air Amphitheatre",
+                  "text": "Ein weitläufiger Veranstaltungsort mit terrassierten Sitzplätzen, auf denen Zuschauer abendliche Aufführungen genießen können.",
+                  "category": "cultural",
+                  "coords": [
+                        78.343715,
+                        17.43192
+                  ]
+            },
+            {
+                  "name": "Manuu OAT",
+                  "text": "Das große Freilichttheater der Maulana Azad National Urdu University, das für bedeutende studentische Veranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        78.360557,
+                        17.42602
+                  ]
+            },
+            {
+                  "name": "High Fields Amphetheatre",
+                  "text": "Eine moderne Freilichtbühne für Freizeitaufführungen innerhalb eines zeitgenössischen Wohn- oder Schulkomplexes.",
+                  "category": "cultural",
+                  "coords": [
+                        78.340388,
+                        17.413599
+                  ]
+            },
+            {
+                  "name": "Ravi Narayana Reddy Auditorium",
+                  "text": "Ein bedeutendes kulturelles Zentrum in Hyderabad, das für klassische Tanzaufführungen und politische Versammlungen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        78.421549,
+                        17.413835
+                  ]
+            },
+            {
+                  "name": "Shilpakala Vedika",
+                  "text": "Ein prachtvolles Auditorium im Kunsthandwerkerdorf Shilparamam, berühmt für seine traditionelle Architektur mit Terrakotta-Ziegeln.",
+                  "category": "cultural",
+                  "coords": [
+                        78.379395,
+                        17.451482
+                  ]
+            },
+            {
+                  "name": "Sri Enugula Maisamma Temple",
+                  "text": "Ein traditioneller Hindu-Tempel, der einer lokalen Dorfgöttin gewidmet ist, mit farbenfrohen Schnitzereien und einem rituellen Innenhof.",
+                  "category": "religious",
+                  "coords": [
+                        78.41371,
+                        17.365021
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Ein ruhiger Schrein im Viertel mit einem traditionellen Gopuram-Eingang und einer kleinen Gebetshalle.",
+                  "category": "religious",
+                  "coords": [
+                        78.361162,
+                        17.440162
+                  ]
+            },
+            {
+                  "name": "siri womens pg",
+                  "text": "Ein kleiner lokaler Gebetsraum oder Schrein, der von den Bewohnern für tägliche spirituelle Opfergaben genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        78.359664,
+                        17.440123
+                  ]
+            },
+            {
+                  "name": "Hafeez sab",
+                  "text": "Ein lokaler spiritueller Ort oder Dargah, der einer angesehenen Persönlichkeit der Gemeinschaft gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        78.387599,
+                        17.39234
+                  ]
+            },
+            {
+                  "name": "Peli Dargha",
+                  "text": "Ein traditioneller Sufi-Schrein, der für seinen bogenförmigen Eingang und seine friedliche, andächtige Atmosphäre bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        78.408703,
+                        17.452459
+                  ]
+            },
+            {
+                  "name": "Hexagon",
+                  "text": "Ein architektonisch einzigartiger Gebetsraum, der mit einer markanten sechsseitigen Geometrie entworfen wurde.",
+                  "category": "religious",
+                  "coords": [
+                        78.373899,
+                        17.4436
+                  ]
+            },
+            {
+                  "name": "Sri Jagadamba Mahakali Temple",
+                  "text": "Ein jahrhundertealter Hindu-Tempel auf der Festung Golkonda, der für seine lebhaften Bonalu-Festlichkeiten bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        78.39954,
+                        17.383445
+                  ]
+            },
+            {
+                  "name": "Great Mosque",
+                  "text": "Eine majestätische Gebetshalle aus der Qutub-Shahi-Ära mit prachtvollen Steinbögen und feiner Kalligraphie.",
+                  "category": "religious",
+                  "coords": [
+                        78.396669,
+                        17.396919
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Peddamma Temple",
+                  "text": "A Jubilee Hills negyed jelentős temploma, amelyet Peddamma Thalli anyaistennőnek szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        78.404906,
+                        17.430604
+                  ]
+            },
+            {
+                  "name": "Taramati Baradari",
+                  "text": "Történelmi pavilon két szinttel és tizenkét ívvel, amely kiváló akusztikájáról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        78.378163,
+                        17.376124
+                  ]
+            },
+            {
+                  "name": "Golconda Fort",
+                  "text": "Hatalmas középkori erődítmény, amely úttörő akusztikájáról és a gyémántkereskedelem központjaként ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        78.40112,
+                        17.383422
+                  ]
+            },
+            {
+                  "name": "Kasu Brahmananda Reddy National Park",
+                  "text": "Kiterjedt városi park páva-rezervátummal és a területén található történelmi Chiraan-palotával.",
+                  "category": "landmark",
+                  "coords": [
+                        78.420298,
+                        17.420444
+                  ]
+            },
+            {
+                  "name": "Durgam Cheruvu",
+                  "text": "Markáns gránitsziklákkal körülvett, rejtett édesvízi tó, amelyet „Titkos tóként” is ismernek.",
+                  "category": "landmark",
+                  "coords": [
+                        78.389915,
+                        17.430211
+                  ]
+            },
+            {
+                  "name": "Durgam Cheruvu Bridge",
+                  "text": "A „Titkos tavon” átívelő modern ferdekábeles híd, amely éjszaka színes kivilágítást kap.",
+                  "category": "landmark",
+                  "coords": [
+                        78.389942,
+                        17.431713
+                  ]
+            },
+            {
+                  "name": "Botanical Gardens",
+                  "text": "Botanikus kert kiterjedt bambusz- és gyógynövény-szekciókkal Kondapur közelében.",
+                  "category": "park",
+                  "coords": [
+                        78.356859,
+                        17.454538
+                  ]
+            },
+            {
+                  "name": "Biodiversity Park",
+                  "text": "Park Gachibowliban, amelynek emlékoszlopa a fajok fejlődését jelképezi.",
+                  "category": "park",
+                  "coords": [
+                        78.376592,
+                        17.429046
+                  ]
+            },
+            {
+                  "name": "State Art Gallery",
+                  "text": "A Kavuri Hills negyed galériája, amely kortárs művészetet és hagyományos indiai kézműves alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        78.397918,
+                        17.436384
+                  ]
+            },
+            {
+                  "name": "Svk art gallery",
+                  "text": "Helyi művészeti galéria, amely regionális művészek alkotásait és időszaki kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        78.359666,
+                        17.434119
+                  ]
+            },
+            {
+                  "name": "Tanjore Paintings Art Gallery",
+                  "text": "Hagyományos dél-indiai, aranyfüsttel domborított festményeket bemutató specializált művészeti galéria.",
+                  "category": "museum",
+                  "coords": [
+                        78.393183,
+                        17.446826
+                  ]
+            },
+            {
+                  "name": "Mushroom Rock",
+                  "text": "Természetes gránitképződmény a nemzeti parkban, amely az erózió révén gomba alakot öltött.",
+                  "category": "historical",
+                  "coords": [
+                        78.338987,
+                        17.441099
+                  ]
+            },
+            {
+                  "name": "18 Steps",
+                  "text": "Régészeti helyszín a Golconda-erődben, amely monumentális lépcsőfokok sorozatából áll.",
+                  "category": "historical",
+                  "coords": [
+                        78.395062,
+                        17.38974
+                  ]
+            },
+            {
+                  "name": "Golconda Jail",
+                  "text": "Történelmi börtöncellák az erődben, ahol a 17. században Bhakta Ramadasu szent raboskodott.",
+                  "category": "historical",
+                  "coords": [
+                        78.396405,
+                        17.38966
+                  ]
+            },
+            {
+                  "name": "Tomb",
+                  "text": "Egy történelmi kősír a Qutub Shahi korszakból, amely az erőd külső védművei közelében található.",
+                  "category": "historical",
+                  "coords": [
+                        78.400028,
+                        17.403425
+                  ]
+            },
+            {
+                  "name": "Qutub Shahi Tombs",
+                  "text": "Ezek a hatalmas kupolás építmények a Golkonda Szultanátus alapító uralkodóinak fenséges nekropoliszát alkotják.",
+                  "category": "historical",
+                  "coords": [
+                        78.396786,
+                        17.395399
+                  ]
+            },
+            {
+                  "name": "Golkonda Reservoir",
+                  "text": "Egy ősi víztározó kőgátakkal, amely egykor a stratégiai hegyi erőd ellátására szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        78.401562,
+                        17.388812
+                  ]
+            },
+            {
+                  "name": "SVK Amphitheater",
+                  "text": "Egy modern szabadtéri helyszín, amelyet kulturális előadásokra és egyetemi összejövetelekre használnak Hyderabad környékén.",
+                  "category": "cultural",
+                  "coords": [
+                        78.360492,
+                        17.435523
+                  ]
+            },
+            {
+                  "name": "Rangbhoomi",
+                  "text": "Egy vibráló szabadtéri helyszín Gachibowlisban, amely az előadóművészeteknek és színházi műhelyeknek van szentelve.",
+                  "category": "cultural",
+                  "coords": [
+                        78.37117,
+                        17.431208
+                  ]
+            },
+            {
+                  "name": "Aaromale",
+                  "text": "Egy kreatív közösségi központ egy felújított villában, amely intim színdaraboknak és kulturális eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        78.406553,
+                        17.412792
+                  ]
+            },
+            {
+                  "name": "open air theater police line",
+                  "text": "Egy nyilvános szabadtéri előadóhely, amelyet hivatalos eseményekre és helyi kulturális találkozókra használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        78.420086,
+                        17.437004
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "Egy lépcsőzetes szabadtéri ülőhely, amelyet nyilvános bemutatókra és ünnepi összejövetelekre terveztek.",
+                  "category": "cultural",
+                  "coords": [
+                        78.347925,
+                        17.448006
+                  ]
+            },
+            {
+                  "name": "Open Air Amphitheatre",
+                  "text": "Egy tágas szabadtéri helyszín teraszos ülőhelyekkel, ahol a nézők esti előadásokat élvezhetnek.",
+                  "category": "cultural",
+                  "coords": [
+                        78.343715,
+                        17.43192
+                  ]
+            },
+            {
+                  "name": "Manuu OAT",
+                  "text": "A Maulana Azad Nemzeti Urdu Egyetem nagy szabadtéri színháza, amelyet jelentős hallgatói rendezvényekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        78.360557,
+                        17.42602
+                  ]
+            },
+            {
+                  "name": "High Fields Amphetheatre",
+                  "text": "Egy modern szabadtéri színpad szabadidős előadásokhoz egy kortárs lakó- vagy iskolakomplexumon belül.",
+                  "category": "cultural",
+                  "coords": [
+                        78.340388,
+                        17.413599
+                  ]
+            },
+            {
+                  "name": "Ravi Narayana Reddy Auditorium",
+                  "text": "Hyderabad egyik jelentős kulturális központja, amely klasszikus táncelőadásokról és politikai gyűlésekről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        78.421549,
+                        17.413835
+                  ]
+            },
+            {
+                  "name": "Shilpakala Vedika",
+                  "text": "Pompás auditórium a Shilparamam kézműves faluban, amely hagyományos terrakotta cserepes építészetéről híres.",
+                  "category": "cultural",
+                  "coords": [
+                        78.379395,
+                        17.451482
+                  ]
+            },
+            {
+                  "name": "Sri Enugula Maisamma Temple",
+                  "text": "Egy hagyományos hindu templom, amelyet egy helyi falusi istennőnek szenteltek, színes faragványokkal és szertartási udvarral.",
+                  "category": "religious",
+                  "coords": [
+                        78.41371,
+                        17.365021
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Egy békés környékbeli szentély hagyományos gopuram bejárattal és egy kis imateremmel.",
+                  "category": "religious",
+                  "coords": [
+                        78.361162,
+                        17.440162
+                  ]
+            },
+            {
+                  "name": "siri womens pg",
+                  "text": "Egy kis helyi imaszoba vagy szentély, amelyet a lakók napi spirituális felajánlásokra használnak.",
+                  "category": "religious",
+                  "coords": [
+                        78.359664,
+                        17.440123
+                  ]
+            },
+            {
+                  "name": "Hafeez sab",
+                  "text": "Egy helyi spirituális hely vagy dargah, amelyet a közösség egy tisztelt alakjának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        78.387599,
+                        17.39234
+                  ]
+            },
+            {
+                  "name": "Peli Dargha",
+                  "text": "Egy hagyományos szúfi szentély, amely boltíves bejáratáról és békés, áhítatos légköréről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        78.408703,
+                        17.452459
+                  ]
+            },
+            {
+                  "name": "Hexagon",
+                  "text": "Egy építészetileg egyedülálló imatér, amelyet jellegzetes hatoldalú geometriával terveztek.",
+                  "category": "religious",
+                  "coords": [
+                        78.373899,
+                        17.4436
+                  ]
+            },
+            {
+                  "name": "Sri Jagadamba Mahakali Temple",
+                  "text": "Egy évszázados hindu templom a Golkonda-erőd tetején, amely a vibráló Bonalu fesztivál ünnepségeiről híres.",
+                  "category": "religious",
+                  "coords": [
+                        78.39954,
+                        17.383445
+                  ]
+            },
+            {
+                  "name": "Great Mosque",
+                  "text": "Egy fenséges imaterem a Qutub Shahi korszakból, nagyszerű kőívekkel és finom kalligráfiával.",
+                  "category": "religious",
+                  "coords": [
+                        78.396669,
+                        17.396919
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Peddamma Temple",
+                  "text": "Un templu important din Jubilee Hills, dedicat zeiței mamă Peddamma Thalli.",
+                  "category": "religious",
+                  "coords": [
+                        78.404906,
+                        17.430604
+                  ]
+            },
+            {
+                  "name": "Taramati Baradari",
+                  "text": "Un pavilion istoric cu două etaje și douăsprezece arcade, renumit pentru acustica sa excelentă.",
+                  "category": "landmark",
+                  "coords": [
+                        78.378163,
+                        17.376124
+                  ]
+            },
+            {
+                  "name": "Golconda Fort",
+                  "text": "O fortăreață medievală masivă, cunoscută pentru acustica sa ingenioasă și ca centru al comerțului cu diamante.",
+                  "category": "landmark",
+                  "coords": [
+                        78.40112,
+                        17.383422
+                  ]
+            },
+            {
+                  "name": "Kasu Brahmananda Reddy National Park",
+                  "text": "Un parc național urban vast, cu sanctuare pentru păuni și palatul istoric Chiraan în incinta sa.",
+                  "category": "landmark",
+                  "coords": [
+                        78.420298,
+                        17.420444
+                  ]
+            },
+            {
+                  "name": "Durgam Cheruvu",
+                  "text": "Un lac de apă dulce ascuns, înconjurat de stânci de granit proeminente, cunoscut sub numele de „Secret Lake”.",
+                  "category": "landmark",
+                  "coords": [
+                        78.389915,
+                        17.430211
+                  ]
+            },
+            {
+                  "name": "Durgam Cheruvu Bridge",
+                  "text": "Un pod modern hobanat care traversează lacul Durgam Cheruvu, iluminat colorat pe timp de noapte.",
+                  "category": "landmark",
+                  "coords": [
+                        78.389942,
+                        17.431713
+                  ]
+            },
+            {
+                  "name": "Botanical Gardens",
+                  "text": "O grădină botanică cu secțiuni întinse de bambus și plante medicinale, situată lângă Kondapur.",
+                  "category": "park",
+                  "coords": [
+                        78.356859,
+                        17.454538
+                  ]
+            },
+            {
+                  "name": "Biodiversity Park",
+                  "text": "Un parc în Gachibowli cu un pilon comemorativ care reprezintă evoluția speciilor.",
+                  "category": "park",
+                  "coords": [
+                        78.376592,
+                        17.429046
+                  ]
+            },
+            {
+                  "name": "State Art Gallery",
+                  "text": "O galerie din Kavuri Hills care prezintă artă contemporană și meșteșuguri tradiționale indiene.",
+                  "category": "museum",
+                  "coords": [
+                        78.397918,
+                        17.436384
+                  ]
+            },
+            {
+                  "name": "Svk art gallery",
+                  "text": "O galerie de artă locală care prezintă lucrări ale artiștilor regionali și expoziții temporare.",
+                  "category": "museum",
+                  "coords": [
+                        78.359666,
+                        17.434119
+                  ]
+            },
+            {
+                  "name": "Tanjore Paintings Art Gallery",
+                  "text": "O galerie de artă specializată care expune picturi tradiționale din sudul Indiei, cu reliefuri din foiță de aur.",
+                  "category": "museum",
+                  "coords": [
+                        78.393183,
+                        17.446826
+                  ]
+            },
+            {
+                  "name": "Mushroom Rock",
+                  "text": "O formațiune naturală de granit din parcul național, care a căpătat forma unei ciuperci prin eroziune.",
+                  "category": "historical",
+                  "coords": [
+                        78.338987,
+                        17.441099
+                  ]
+            },
+            {
+                  "name": "18 Steps",
+                  "text": "Un sit arheologic din interiorul fortăreței Golconda, format dintr-o serie de trepte monumentale.",
+                  "category": "historical",
+                  "coords": [
+                        78.395062,
+                        17.38974
+                  ]
+            },
+            {
+                  "name": "Golconda Jail",
+                  "text": "Celule istorice de închisoare din fortăreață, unde sfântul Bhakta Ramadasu a fost întemnițat în secolul al XVII-lea.",
+                  "category": "historical",
+                  "coords": [
+                        78.396405,
+                        17.38966
+                  ]
+            },
+            {
+                  "name": "Tomb",
+                  "text": "Un mormânt istoric din piatră din epoca Qutub Shahi, situat lângă apărările exterioare ale cetății.",
+                  "category": "historical",
+                  "coords": [
+                        78.400028,
+                        17.403425
+                  ]
+            },
+            {
+                  "name": "Qutub Shahi Tombs",
+                  "text": "Aceste structuri grandioase cu cupolă formează o necropolă maiestuoasă pentru conducătorii fondatori ai Sultanatului Golconda.",
+                  "category": "historical",
+                  "coords": [
+                        78.396786,
+                        17.395399
+                  ]
+            },
+            {
+                  "name": "Golkonda Reservoir",
+                  "text": "Un rezervor antic de apă cu diguri de piatră, care servea odinioară la alimentarea cetății strategice de pe deal.",
+                  "category": "historical",
+                  "coords": [
+                        78.401562,
+                        17.388812
+                  ]
+            },
+            {
+                  "name": "SVK Amphitheater",
+                  "text": "Un loc modern în aer liber, folosit pentru spectacole culturale și întâlniri universitare în zona Hyderabad.",
+                  "category": "cultural",
+                  "coords": [
+                        78.360492,
+                        17.435523
+                  ]
+            },
+            {
+                  "name": "Rangbhoomi",
+                  "text": "Un loc vibrant în aer liber, dedicat artelor spectacolului și atelierelor de teatru din Gachibowli.",
+                  "category": "cultural",
+                  "coords": [
+                        78.37117,
+                        17.431208
+                  ]
+            },
+            {
+                  "name": "Aaromale",
+                  "text": "Un centru comunitar creativ într-o vilă renovată, care găzduiește piese de teatru intime și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        78.406553,
+                        17.412792
+                  ]
+            },
+            {
+                  "name": "open air theater police line",
+                  "text": "Un loc public de spectacole în aer liber, folosit pentru evenimente oficiale și întâlniri culturale locale.",
+                  "category": "cultural",
+                  "coords": [
+                        78.420086,
+                        17.437004
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "O zonă de relaxare în aer liber, cu trepte, concepută pentru prezentări publice și adunări festive.",
+                  "category": "cultural",
+                  "coords": [
+                        78.347925,
+                        17.448006
+                  ]
+            },
+            {
+                  "name": "Open Air Amphitheatre",
+                  "text": "Un loc spațios în aer liber, cu locuri terasate, unde spectatorii se pot bucura de spectacole de seară.",
+                  "category": "cultural",
+                  "coords": [
+                        78.343715,
+                        17.43192
+                  ]
+            },
+            {
+                  "name": "Manuu OAT",
+                  "text": "Teatrul mare în aer liber al Universității Naționale de Urdu Maulana Azad, folosit pentru evenimente studențești majore.",
+                  "category": "cultural",
+                  "coords": [
+                        78.360557,
+                        17.42602
+                  ]
+            },
+            {
+                  "name": "High Fields Amphetheatre",
+                  "text": "O scenă modernă în aer liber pentru spectacole recreative, situată într-un complex rezidențial sau școlar contemporan.",
+                  "category": "cultural",
+                  "coords": [
+                        78.340388,
+                        17.413599
+                  ]
+            },
+            {
+                  "name": "Ravi Narayana Reddy Auditorium",
+                  "text": "Un centru cultural major din Hyderabad, cunoscut pentru găzduirea spectacolelor de dans clasic și a adunărilor politice.",
+                  "category": "cultural",
+                  "coords": [
+                        78.421549,
+                        17.413835
+                  ]
+            },
+            {
+                  "name": "Shilpakala Vedika",
+                  "text": "Un auditorium grandios în satul de artizanat Shilparamam, renumit pentru arhitectura sa tradițională cu țigle de teracotă.",
+                  "category": "cultural",
+                  "coords": [
+                        78.379395,
+                        17.451482
+                  ]
+            },
+            {
+                  "name": "Sri Enugula Maisamma Temple",
+                  "text": "Un templu hindu tradițional dedicat unei zeițe locale a satului, cu sculpturi colorate și o curte rituală.",
+                  "category": "religious",
+                  "coords": [
+                        78.41371,
+                        17.365021
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Un altar liniștit de cartier, cu o intrare tradițională gopuram și o mică sală de rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        78.361162,
+                        17.440162
+                  ]
+            },
+            {
+                  "name": "siri womens pg",
+                  "text": "O mică sală locală de rugăciune sau un altar folosit de rezidenți pentru ofrande spirituale zilnice.",
+                  "category": "religious",
+                  "coords": [
+                        78.359664,
+                        17.440123
+                  ]
+            },
+            {
+                  "name": "Hafeez sab",
+                  "text": "Un loc spiritual local sau dargah dedicat unei figuri respectate a comunității.",
+                  "category": "religious",
+                  "coords": [
+                        78.387599,
+                        17.39234
+                  ]
+            },
+            {
+                  "name": "Peli Dargha",
+                  "text": "Un altar sufi tradițional, cunoscut pentru intrarea sa arcuită și atmosfera pașnică de devoțiune.",
+                  "category": "religious",
+                  "coords": [
+                        78.408703,
+                        17.452459
+                  ]
+            },
+            {
+                  "name": "Hexagon",
+                  "text": "Un spațiu de rugăciune unic din punct de vedere arhitectural, proiectat cu o geometrie distinctă cu șase laturi.",
+                  "category": "religious",
+                  "coords": [
+                        78.373899,
+                        17.4436
+                  ]
+            },
+            {
+                  "name": "Sri Jagadamba Mahakali Temple",
+                  "text": "Un templu hindu vechi de secole, situat pe cetatea Golconda, renumit pentru sărbătorile sale vibrante din timpul festivalului Bonalu.",
+                  "category": "religious",
+                  "coords": [
+                        78.39954,
+                        17.383445
+                  ]
+            },
+            {
+                  "name": "Great Mosque",
+                  "text": "O sală de rugăciune maiestuoasă din epoca Qutub Shahi, care prezintă arcuri mari de piatră și caligrafie fină.",
+                  "category": "religious",
+                  "coords": [
+                        78.396669,
+                        17.396919
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Peddamma Temple",
+                  "text": "A prominent temple in Jubilee Hills dedicated to the mother goddess Peddamma Thalli.",
+                  "category": "religious",
+                  "coords": [
+                        78.404906,
+                        17.430604
+                  ]
+            },
+            {
+                  "name": "Taramati Baradari",
+                  "text": "A historical pavilion with two stories and twelve arches, famous for its excellent acoustics.",
+                  "category": "landmark",
+                  "coords": [
+                        78.378163,
+                        17.376124
+                  ]
+            },
+            {
+                  "name": "Golconda Fort",
+                  "text": "A massive medieval fortress known for its ingenious acoustics and as a center of the diamond trade.",
+                  "category": "landmark",
+                  "coords": [
+                        78.40112,
+                        17.383422
+                  ]
+            },
+            {
+                  "name": "Kasu Brahmananda Reddy National Park",
+                  "text": "A vast urban national park featuring peacock sanctuaries and the historical Chiraan Palace within its grounds.",
+                  "category": "landmark",
+                  "coords": [
+                        78.420298,
+                        17.420444
+                  ]
+            },
+            {
+                  "name": "Durgam Cheruvu",
+                  "text": "A hidden freshwater lake surrounded by prominent granite rocks, known as the \"Secret Lake\".",
+                  "category": "landmark",
+                  "coords": [
+                        78.389915,
+                        17.430211
+                  ]
+            },
+            {
+                  "name": "Durgam Cheruvu Bridge",
+                  "text": "A modern cable-stayed bridge spanning the \"Secret Lake\", featuring colorful illumination at night.",
+                  "category": "landmark",
+                  "coords": [
+                        78.389942,
+                        17.431713
+                  ]
+            },
+            {
+                  "name": "Botanical Gardens",
+                  "text": "A botanical garden featuring extensive bamboo and medicinal plant sectors near Kondapur.",
+                  "category": "park",
+                  "coords": [
+                        78.356859,
+                        17.454538
+                  ]
+            },
+            {
+                  "name": "Biodiversity Park",
+                  "text": "A park in Gachibowli featuring a commemorative pylon representing the evolution of species.",
+                  "category": "park",
+                  "coords": [
+                        78.376592,
+                        17.429046
+                  ]
+            },
+            {
+                  "name": "State Art Gallery",
+                  "text": "A gallery in Kavuri Hills showcasing contemporary art and traditional Indian handicrafts.",
+                  "category": "museum",
+                  "coords": [
+                        78.397918,
+                        17.436384
+                  ]
+            },
+            {
+                  "name": "Svk art gallery",
+                  "text": "A local art gallery showcasing works by regional artists and rotating exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        78.359666,
+                        17.434119
+                  ]
+            },
+            {
+                  "name": "Tanjore Paintings Art Gallery",
+                  "text": "A specialized art gallery exhibiting traditional South Indian paintings with gold leaf embossing.",
+                  "category": "museum",
+                  "coords": [
+                        78.393183,
+                        17.446826
+                  ]
+            },
+            {
+                  "name": "Mushroom Rock",
+                  "text": "A natural granite formation in the national park that has taken the shape of a mushroom through erosion.",
+                  "category": "historical",
+                  "coords": [
+                        78.338987,
+                        17.441099
+                  ]
+            },
+            {
+                  "name": "18 Steps",
+                  "text": "An archaeological site within the Golconda Fort, consisting of a series of monumental stone steps.",
+                  "category": "historical",
+                  "coords": [
+                        78.395062,
+                        17.38974
+                  ]
+            },
+            {
+                  "name": "Golconda Jail",
+                  "text": "Historical prison cells within the fort where the saint Bhakta Ramadasu was imprisoned in the 17th century.",
+                  "category": "historical",
+                  "coords": [
+                        78.396405,
+                        17.38966
+                  ]
+            },
+            {
+                  "name": "Tomb",
+                  "text": "A historic stone tomb dating back to the Qutub Shahi era, located near the fort's outer defenses.",
+                  "category": "historical",
+                  "coords": [
+                        78.400028,
+                        17.403425
+                  ]
+            },
+            {
+                  "name": "Qutub Shahi Tombs",
+                  "text": "These grand domed structures form a majestic necropolis for the founding rulers of the Golconda Sultanate.",
+                  "category": "historical",
+                  "coords": [
+                        78.396786,
+                        17.395399
+                  ]
+            },
+            {
+                  "name": "Golkonda Reservoir",
+                  "text": "An ancient water reservoir with stone embankments that once served to supply the strategic hilltop fortress.",
+                  "category": "historical",
+                  "coords": [
+                        78.401562,
+                        17.388812
+                  ]
+            },
+            {
+                  "name": "SVK Amphitheater",
+                  "text": "A modern open-air venue used for cultural performances and university gatherings in the Hyderabad area.",
+                  "category": "cultural",
+                  "coords": [
+                        78.360492,
+                        17.435523
+                  ]
+            },
+            {
+                  "name": "Rangbhoomi",
+                  "text": "A vibrant outdoor venue dedicated to performing arts and theatrical workshops in Gachibowli.",
+                  "category": "cultural",
+                  "coords": [
+                        78.37117,
+                        17.431208
+                  ]
+            },
+            {
+                  "name": "Aaromale",
+                  "text": "A creative community hub set in a refurbished villa, hosting intimate plays and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        78.406553,
+                        17.412792
+                  ]
+            },
+            {
+                  "name": "open air theater police line",
+                  "text": "A public open-air performance space used for official events and local cultural gatherings.",
+                  "category": "cultural",
+                  "coords": [
+                        78.420086,
+                        17.437004
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "A tiered outdoor seating area designed for public presentations and festive gatherings.",
+                  "category": "cultural",
+                  "coords": [
+                        78.347925,
+                        17.448006
+                  ]
+            },
+            {
+                  "name": "Open Air Amphitheatre",
+                  "text": "A spacious outdoor venue with terraced seating for spectators to enjoy evening performances.",
+                  "category": "cultural",
+                  "coords": [
+                        78.343715,
+                        17.43192
+                  ]
+            },
+            {
+                  "name": "Manuu OAT",
+                  "text": "The large open-air theatre of the Maulana Azad National Urdu University, used for major student events.",
+                  "category": "cultural",
+                  "coords": [
+                        78.360557,
+                        17.42602
+                  ]
+            },
+            {
+                  "name": "High Fields Amphetheatre",
+                  "text": "A modern open-air stage for recreational performances located within a contemporary residential or school complex.",
+                  "category": "cultural",
+                  "coords": [
+                        78.340388,
+                        17.413599
+                  ]
+            },
+            {
+                  "name": "Ravi Narayana Reddy Auditorium",
+                  "text": "A major cultural venue in Hyderabad known for hosting classical dance performances and political gatherings.",
+                  "category": "cultural",
+                  "coords": [
+                        78.421549,
+                        17.413835
+                  ]
+            },
+            {
+                  "name": "Shilpakala Vedika",
+                  "text": "A grand auditorium in the Shilparamam arts and crafts village, famous for its traditional terracotta-tiled architecture.",
+                  "category": "cultural",
+                  "coords": [
+                        78.379395,
+                        17.451482
+                  ]
+            },
+            {
+                  "name": "Sri Enugula Maisamma Temple",
+                  "text": "A traditional Hindu temple dedicated to a local village goddess, featuring colorful carvings and a ritual courtyard.",
+                  "category": "religious",
+                  "coords": [
+                        78.41371,
+                        17.365021
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "A serene neighborhood shrine featuring a traditional gopuram entrance and a small prayer hall.",
+                  "category": "religious",
+                  "coords": [
+                        78.361162,
+                        17.440162
+                  ]
+            },
+            {
+                  "name": "siri womens pg",
+                  "text": "A small local prayer room or shrine used by residents for daily spiritual offerings.",
+                  "category": "religious",
+                  "coords": [
+                        78.359664,
+                        17.440123
+                  ]
+            },
+            {
+                  "name": "Hafeez sab",
+                  "text": "A local spiritual site or dargah dedicated to a respected community figure.",
+                  "category": "religious",
+                  "coords": [
+                        78.387599,
+                        17.39234
+                  ]
+            },
+            {
+                  "name": "Peli Dargha",
+                  "text": "A traditional Sufi shrine known for its arched entrance and peaceful devotional atmosphere.",
+                  "category": "religious",
+                  "coords": [
+                        78.408703,
+                        17.452459
+                  ]
+            },
+            {
+                  "name": "Hexagon",
+                  "text": "An architecturally unique prayer space designed with a distinct six-sided geometry.",
+                  "category": "religious",
+                  "coords": [
+                        78.373899,
+                        17.4436
+                  ]
+            },
+            {
+                  "name": "Sri Jagadamba Mahakali Temple",
+                  "text": "A centuries-old Hindu temple located atop the Golconda Fort, famous for its vibrant Bonalu festival celebrations.",
+                  "category": "religious",
+                  "coords": [
+                        78.39954,
+                        17.383445
+                  ]
+            },
+            {
+                  "name": "Great Mosque",
+                  "text": "A majestic prayer hall from the Qutub Shahi era, showcasing grand stone arches and fine calligraphy.",
+                  "category": "religious",
+                  "coords": [
+                        78.396669,
+                        17.396919
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "IN-TG",
     coords: [78.401, 17.383],
@@ -856,7 +13321,1348 @@ export const poiExtraIndiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "in-victoria-memorial-history-v2",
+    id: "in-victoria-memorial-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "ভিক্টোরিয়া মেমোরিয়াল হল",
+                  "text": "Das Victoria Memorial in in-victoria-memorial-history-v2 ist ein großes Marmormuseum, das Königin Victoria gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        88.342549,
+                        22.544945
+                  ]
+            },
+            {
+                  "name": "Indian Museum",
+                  "text": "Das Indian Museum in in-victoria-memorial-history-v2 ist das größte und älteste Museum in Indien.",
+                  "category": "museum",
+                  "coords": [
+                        88.350949,
+                        22.557675
+                  ]
+            },
+            {
+                  "name": "Birla Industrial & Technological Museum",
+                  "text": "Das Birla Industrial & Technological Museum ist ein interaktives Wissenschaftsmuseum in in-victoria-memorial-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        88.363755,
+                        22.534711
+                  ]
+            },
+            {
+                  "name": "Netaji Bhavan",
+                  "text": "Netaji Bhavan in in-victoria-memorial-history-v2 ist ein historisches Haus und Museum, das Subhas Chandra Bose gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        88.351001,
+                        22.537533
+                  ]
+            },
+            {
+                  "name": "Lascar War Memorial",
+                  "text": "Das Lascar War Memorial in in-victoria-memorial-history-v2 ehrt indische Seeleute, die im Ersten Weltkrieg fielen.",
+                  "category": "historical",
+                  "coords": [
+                        88.328799,
+                        22.553012
+                  ]
+            },
+            {
+                  "name": "Kalighat Kali Temple",
+                  "text": "Der Kalighat Kali Temple ist ein bedeutender Hindu-Tempel in in-victoria-memorial-history-v2, der der Göttin Kali gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        88.342056,
+                        22.52028
+                  ]
+            },
+            {
+                  "name": "Rabindra Sadan",
+                  "text": "Rabindra Sadan ist ein wichtiges Kulturzentrum und Theater in in-victoria-memorial-history-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        88.344725,
+                        22.541907
+                  ]
+            },
+            {
+                  "name": "Saint Thomas' Catholic Church",
+                  "text": "Die Saint Thomas' Catholic Church ist ein christliches Gotteshaus in in-victoria-memorial-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        88.352205,
+                        22.550186
+                  ]
+            },
+            {
+                  "name": "Birla Mandir",
+                  "text": "Der Birla Mandir in in-victoria-memorial-history-v2 ist ein großer und kunstvoller Hindu-Tempel, der von der Birla-Familie erbaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        88.364957,
+                        22.530494
+                  ]
+            },
+            {
+                  "name": "Alipore Zoo",
+                  "text": "Der Alipore Zoo in in-victoria-memorial-history-v2 ist der älteste zoologische Park Indiens.",
+                  "category": "park",
+                  "coords": [
+                        88.331829,
+                        22.537234
+                  ]
+            },
+            {
+                  "name": "National Library",
+                  "text": "Die National Library in in-victoria-memorial-history-v2 ist die größte Bibliothek Indiens.",
+                  "category": "park",
+                  "coords": [
+                        88.333464,
+                        22.532544
+                  ]
+            },
+            {
+                  "name": "Maidan",
+                  "text": "Der Maidan ist der größte Stadtpark in in-victoria-memorial-history-v2 und bietet weite Grünflächen.",
+                  "category": "park",
+                  "coords": [
+                        88.345635,
+                        22.553203
+                  ]
+            },
+            {
+                  "name": "Deshapriya Park",
+                  "text": "Der Deshapriya Park ist ein beliebter Stadtpark und Spielplatz in in-victoria-memorial-history-v2.",
+                  "category": "park",
+                  "coords": [
+                        88.353515,
+                        22.51842
+                  ]
+            },
+            {
+                  "name": "Centre for International Modern Art",
+                  "text": "Das Centre for International Modern Art ist ein Museum in in-victoria-memorial-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        88.364694,
+                        22.531581
+                  ]
+            },
+            {
+                  "name": "Vijay Durg",
+                  "text": "Vijay Durg ist eine historische Festung in in-victoria-memorial-history-v2.",
+                  "category": "fortress",
+                  "coords": [
+                        88.337522,
+                        22.555037
+                  ]
+            },
+            {
+                  "name": "Tazaung",
+                  "text": "Tazaung ist eine Kultstätte in in-victoria-memorial-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        88.339593,
+                        22.5642
+                  ]
+            },
+            {
+                  "name": "Harish Park",
+                  "text": "Der Harish Park ist ein öffentlicher Park in in-victoria-memorial-history-v2.",
+                  "category": "park",
+                  "coords": [
+                        88.343729,
+                        22.530563
+                  ]
+            },
+            {
+                  "name": "Mohor Kunja",
+                  "text": "Mohor Kunja ist eine Parkanlage in in-victoria-memorial-history-v2.",
+                  "category": "park",
+                  "coords": [
+                        88.344619,
+                        22.543672
+                  ]
+            },
+            {
+                  "name": "Park Circus Maidan",
+                  "text": "Das Park Circus Maidan ist ein Naherholungspark in in-victoria-memorial-history-v2.",
+                  "category": "park",
+                  "coords": [
+                        88.370067,
+                        22.543249
+                  ]
+            },
+            {
+                  "name": "Maddox Square",
+                  "text": "Maddox Square ist ein städtischer Park in in-victoria-memorial-history-v2.",
+                  "category": "park",
+                  "coords": [
+                        88.354658,
+                        22.526284
+                  ]
+            },
+            {
+                  "name": "Film Memorabilia Display Museum চলচ্চিত্র সংগ্রহ প্রদর্শন কেন্দ্র",
+                  "text": "Das Film Memorabilia Display Museum চলচ্চিত্র সংগ্রহ প্রদর্শন কেন্দ্র ist ein Museum in in-victoria-memorial-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        88.346303,
+                        22.498931
+                  ]
+            },
+            {
+                  "name": "State Archeological Museum",
+                  "text": "Das State Archeological Museum ist ein Museum für regionale Funde in in-victoria-memorial-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        88.318064,
+                        22.499349
+                  ]
+            },
+            {
+                  "name": "Kolkata Police Museum",
+                  "text": "Das Kolkata Police Museum befindet sich in in-victoria-memorial-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        88.355652,
+                        22.554119
+                  ]
+            },
+            {
+                  "name": "Ahuja Museum for Arts",
+                  "text": "Das Ahuja Museum for Arts ist ein Kunstmuseum in in-victoria-memorial-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        88.349234,
+                        22.538091
+                  ]
+            },
+            {
+                  "name": "Durga Museum (Maa Phire Elo)",
+                  "text": "Das Durga Museum (Maa Phire Elo) ist ein Museum in in-victoria-memorial-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        88.359042,
+                        22.50942
+                  ]
+            },
+            {
+                  "name": "Gallery Sanskriti",
+                  "text": "Die Gallery Sanskriti fungiert als Museum in in-victoria-memorial-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        88.32979,
+                        22.520509
+                  ]
+            },
+            {
+                  "name": "Palace of Maharaja Barddhaman",
+                  "text": "Der Palace of Maharaja Barddhaman ist ein historischer Schlossbau in in-victoria-memorial-history-v2.",
+                  "category": "castle",
+                  "coords": [
+                        88.325773,
+                        22.523914
+                  ]
+            },
+            {
+                  "name": "Nehru Children's Museum",
+                  "text": "Das Nehru Children's Museum ist ein Kindermuseum in in-victoria-memorial-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        88.347138,
+                        22.542544
+                  ]
+            },
+            {
+                  "name": "Emperor Edward VII Memorial Arch",
+                  "text": "Der Emperor Edward VII Memorial Arch ist ein Denkmal in in-victoria-memorial-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        88.342169,
+                        22.542876
+                  ]
+            },
+            {
+                  "name": "Indira Ghandi Statue",
+                  "text": "Dieses der Indira Gandhi gewidmete Denkmal steht in in-victoria-memorial-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        88.347517,
+                        22.546181
+                  ]
+            },
+            {
+                  "name": "Statue of Mahatma Gandhi",
+                  "text": "Die Statue of Mahatma Gandhi ist ein bekanntes Denkmal in in-victoria-memorial-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        88.348198,
+                        22.559577
+                  ]
+            },
+            {
+                  "name": "Ghosh house",
+                  "text": "Das Ghosh house ist ein Baudenkmal in in-victoria-memorial-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        88.367767,
+                        22.603093
+                  ]
+            },
+            {
+                  "name": "James Princep Memorial",
+                  "text": "Das James Princep Memorial ist ein architektonisches Denkmal in in-victoria-memorial-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        88.331145,
+                        22.555231
+                  ]
+            },
+            {
+                  "name": "Sarat Sadan",
+                  "text": "Sarat Sadan ist ein Theaterhaus in in-victoria-memorial-history-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        88.315977,
+                        22.494539
+                  ]
+            },
+            {
+                  "name": "Satyajit Ray Auditorium",
+                  "text": "Das Satyajit Ray Auditorium dient als Theater in in-victoria-memorial-history-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        88.351623,
+                        22.547446
+                  ]
+            },
+            {
+                  "name": "Mahanayak Uttam Manch",
+                  "text": "Mahanayak Uttam Manch ist eine Bühne für Theateraufführungen in in-victoria-memorial-history-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        88.348797,
+                        22.522328
+                  ]
+            },
+            {
+                  "name": "Ramkrishna Mission Institute of Culture",
+                  "text": "Das Ramkrishna Mission Institute of Culture ist ein Kunstzentrum in in-victoria-memorial-history-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        88.366416,
+                        22.515074
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ভিক্টোরিয়া মেমোরিয়াল হল",
+                  "text": "Az in-victoria-memorial-history-v2 városában található Victoria Memorial egy hatalmas márványmúzeum, amelyet Viktória királynő emlékére emeltek.",
+                  "category": "museum",
+                  "coords": [
+                        88.342549,
+                        22.544945
+                  ]
+            },
+            {
+                  "name": "Indian Museum",
+                  "text": "A(z) in-victoria-memorial-history-v2 városában található Indian Museum India legnagyobb és legrégebbi múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        88.350949,
+                        22.557675
+                  ]
+            },
+            {
+                  "name": "Birla Industrial & Technological Museum",
+                  "text": "A Birla Industrial & Technological Museum egy interaktív tudományos múzeum in-victoria-memorial-history-v2 városában.",
+                  "category": "museum",
+                  "coords": [
+                        88.363755,
+                        22.534711
+                  ]
+            },
+            {
+                  "name": "Netaji Bhavan",
+                  "text": "A Netaji Bhavan egy Subhas Chandra Bose-nak szentelt emlékmúzeum in-victoria-memorial-history-v2 városában.",
+                  "category": "museum",
+                  "coords": [
+                        88.351001,
+                        22.537533
+                  ]
+            },
+            {
+                  "name": "Lascar War Memorial",
+                  "text": "Az in-victoria-memorial-history-v2 városában található Lascar War Memorial az első világháborúban elesett indiai tengerészeknek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        88.328799,
+                        22.553012
+                  ]
+            },
+            {
+                  "name": "Kalighat Kali Temple",
+                  "text": "A Kalighat Kali Temple egy jelentős hindu templom in-victoria-memorial-history-v2 városában, amelyet Káli istennőnek szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        88.342056,
+                        22.52028
+                  ]
+            },
+            {
+                  "name": "Rabindra Sadan",
+                  "text": "A Rabindra Sadan egy kiemelkedő kulturális központ és színház in-victoria-memorial-history-v2 városában.",
+                  "category": "cultural",
+                  "coords": [
+                        88.344725,
+                        22.541907
+                  ]
+            },
+            {
+                  "name": "Saint Thomas' Catholic Church",
+                  "text": "A Saint Thomas' Catholic Church egy jelentős keresztény templom in-victoria-memorial-history-v2 városában.",
+                  "category": "religious",
+                  "coords": [
+                        88.352205,
+                        22.550186
+                  ]
+            },
+            {
+                  "name": "Birla Mandir",
+                  "text": "Az in-victoria-memorial-history-v2 városában álló Birla Mandir egy hatalmas, díszes hindu templom.",
+                  "category": "religious",
+                  "coords": [
+                        88.364957,
+                        22.530494
+                  ]
+            },
+            {
+                  "name": "Alipore Zoo",
+                  "text": "Az in-victoria-memorial-history-v2 területén működő Alipore Zoo India legrégebbi állatkertje.",
+                  "category": "park",
+                  "coords": [
+                        88.331829,
+                        22.537234
+                  ]
+            },
+            {
+                  "name": "National Library",
+                  "text": "A National Library India legnagyobb könyvtára, amely in-victoria-memorial-history-v2 városában található.",
+                  "category": "park",
+                  "coords": [
+                        88.333464,
+                        22.532544
+                  ]
+            },
+            {
+                  "name": "Maidan",
+                  "text": "A Maidan hatalmas zöldterületeivel a legnagyobb városi park in-victoria-memorial-history-v2 városában.",
+                  "category": "park",
+                  "coords": [
+                        88.345635,
+                        22.553203
+                  ]
+            },
+            {
+                  "name": "Deshapriya Park",
+                  "text": "A Deshapriya Park egy népszerű városi park és játszótér in-victoria-memorial-history-v2 területén.",
+                  "category": "park",
+                  "coords": [
+                        88.353515,
+                        22.51842
+                  ]
+            },
+            {
+                  "name": "Centre for International Modern Art",
+                  "text": "A Centre for International Modern Art egy múzeum in-victoria-memorial-history-v2 területén.",
+                  "category": "museum",
+                  "coords": [
+                        88.364694,
+                        22.531581
+                  ]
+            },
+            {
+                  "name": "Vijay Durg",
+                  "text": "A Vijay Durg egy történelmi erőd in-victoria-memorial-history-v2 régiójában.",
+                  "category": "fortress",
+                  "coords": [
+                        88.337522,
+                        22.555037
+                  ]
+            },
+            {
+                  "name": "Tazaung",
+                  "text": "A Tazaung egy vallási imahely in-victoria-memorial-history-v2 városrészben.",
+                  "category": "religious",
+                  "coords": [
+                        88.339593,
+                        22.5642
+                  ]
+            },
+            {
+                  "name": "Harish Park",
+                  "text": "A Harish Park egy közpark in-victoria-memorial-history-v2 területén.",
+                  "category": "park",
+                  "coords": [
+                        88.343729,
+                        22.530563
+                  ]
+            },
+            {
+                  "name": "Mohor Kunja",
+                  "text": "A Mohor Kunja egy park in-victoria-memorial-history-v2 területén.",
+                  "category": "park",
+                  "coords": [
+                        88.344619,
+                        22.543672
+                  ]
+            },
+            {
+                  "name": "Park Circus Maidan",
+                  "text": "A Park Circus Maidan egy pihenőpark in-victoria-memorial-history-v2 területén.",
+                  "category": "park",
+                  "coords": [
+                        88.370067,
+                        22.543249
+                  ]
+            },
+            {
+                  "name": "Maddox Square",
+                  "text": "A Maddox Square egy városi park in-victoria-memorial-history-v2 területén.",
+                  "category": "park",
+                  "coords": [
+                        88.354658,
+                        22.526284
+                  ]
+            },
+            {
+                  "name": "Film Memorabilia Display Museum চলচ্চিত্র সংগ্রহ প্রদর্শন কেন্দ্র",
+                  "text": "A Film Memorabilia Display Museum চলচ্চিত্র সংগ্রহ প্রদর্শন কেন্দ্র egy múzeum in-victoria-memorial-history-v2 régiójában.",
+                  "category": "museum",
+                  "coords": [
+                        88.346303,
+                        22.498931
+                  ]
+            },
+            {
+                  "name": "State Archeological Museum",
+                  "text": "A State Archeological Museum egy régészeti múzeum in-victoria-memorial-history-v2 városrészben.",
+                  "category": "museum",
+                  "coords": [
+                        88.318064,
+                        22.499349
+                  ]
+            },
+            {
+                  "name": "Kolkata Police Museum",
+                  "text": "A Kolkata Police Museum egy rendőrségi múzeum in-victoria-memorial-history-v2 területén.",
+                  "category": "museum",
+                  "coords": [
+                        88.355652,
+                        22.554119
+                  ]
+            },
+            {
+                  "name": "Ahuja Museum for Arts",
+                  "text": "Az Ahuja Museum for Arts egy művészeti múzeum in-victoria-memorial-history-v2 területén.",
+                  "category": "museum",
+                  "coords": [
+                        88.349234,
+                        22.538091
+                  ]
+            },
+            {
+                  "name": "Durga Museum (Maa Phire Elo)",
+                  "text": "A Durga Museum (Maa Phire Elo) egy helyi múzeum in-victoria-memorial-history-v2 régiójában.",
+                  "category": "museum",
+                  "coords": [
+                        88.359042,
+                        22.50942
+                  ]
+            },
+            {
+                  "name": "Gallery Sanskriti",
+                  "text": "A Gallery Sanskriti egy múzeumként működő kiállítótér in-victoria-memorial-history-v2 területén.",
+                  "category": "museum",
+                  "coords": [
+                        88.32979,
+                        22.520509
+                  ]
+            },
+            {
+                  "name": "Palace of Maharaja Barddhaman",
+                  "text": "A Palace of Maharaja Barddhaman egy palotaépület in-victoria-memorial-history-v2 területén.",
+                  "category": "castle",
+                  "coords": [
+                        88.325773,
+                        22.523914
+                  ]
+            },
+            {
+                  "name": "Nehru Children's Museum",
+                  "text": "A Nehru Children's Museum egy gyermekeknek szóló múzeum in-victoria-memorial-history-v2 régiójában.",
+                  "category": "museum",
+                  "coords": [
+                        88.347138,
+                        22.542544
+                  ]
+            },
+            {
+                  "name": "Emperor Edward VII Memorial Arch",
+                  "text": "Az Emperor Edward VII Memorial Arch egy emlékmű in-victoria-memorial-history-v2 területén.",
+                  "category": "historical",
+                  "coords": [
+                        88.342169,
+                        22.542876
+                  ]
+            },
+            {
+                  "name": "Indira Ghandi Statue",
+                  "text": "Ez az Indira Gandhi előtt tisztelgő emlékmű in-victoria-memorial-history-v2 területén található.",
+                  "category": "historical",
+                  "coords": [
+                        88.347517,
+                        22.546181
+                  ]
+            },
+            {
+                  "name": "Statue of Mahatma Gandhi",
+                  "text": "A Statue of Mahatma Gandhi egy ismert szoboremlékmű in-victoria-memorial-history-v2 városrészben.",
+                  "category": "historical",
+                  "coords": [
+                        88.348198,
+                        22.559577
+                  ]
+            },
+            {
+                  "name": "Ghosh house",
+                  "text": "A Ghosh house egy műemlék in-victoria-memorial-history-v2 területén.",
+                  "category": "historical",
+                  "coords": [
+                        88.367767,
+                        22.603093
+                  ]
+            },
+            {
+                  "name": "James Princep Memorial",
+                  "text": "A James Princep Memorial egy építészeti emlékmű in-victoria-memorial-history-v2 területén.",
+                  "category": "historical",
+                  "coords": [
+                        88.331145,
+                        22.555231
+                  ]
+            },
+            {
+                  "name": "Sarat Sadan",
+                  "text": "A Sarat Sadan egy színház in-victoria-memorial-history-v2 régiójában.",
+                  "category": "cultural",
+                  "coords": [
+                        88.315977,
+                        22.494539
+                  ]
+            },
+            {
+                  "name": "Satyajit Ray Auditorium",
+                  "text": "A Satyajit Ray Auditorium egy színházterem in-victoria-memorial-history-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        88.351623,
+                        22.547446
+                  ]
+            },
+            {
+                  "name": "Mahanayak Uttam Manch",
+                  "text": "A Mahanayak Uttam Manch egy színházi előadóhely in-victoria-memorial-history-v2 városrészben.",
+                  "category": "cultural",
+                  "coords": [
+                        88.348797,
+                        22.522328
+                  ]
+            },
+            {
+                  "name": "Ramkrishna Mission Institute of Culture",
+                  "text": "A Ramkrishna Mission Institute of Culture egy művészeti központ in-victoria-memorial-history-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        88.366416,
+                        22.515074
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ভিক্টোরিয়া মেমোরিয়াল হল",
+                  "text": "Victoria Memorial din in-victoria-memorial-history-v2 este un mare muzeu de marmură dedicat Reginei Victoria.",
+                  "category": "museum",
+                  "coords": [
+                        88.342549,
+                        22.544945
+                  ]
+            },
+            {
+                  "name": "Indian Museum",
+                  "text": "Indian Museum din in-victoria-memorial-history-v2 este cel mai mare și cel mai vechi muzeu din India.",
+                  "category": "museum",
+                  "coords": [
+                        88.350949,
+                        22.557675
+                  ]
+            },
+            {
+                  "name": "Birla Industrial & Technological Museum",
+                  "text": "Birla Industrial & Technological Museum este un muzeu științific interactiv situat în in-victoria-memorial-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        88.363755,
+                        22.534711
+                  ]
+            },
+            {
+                  "name": "Netaji Bhavan",
+                  "text": "Netaji Bhavan din in-victoria-memorial-history-v2 este o casă memorială și un muzeu dedicat lui Subhas Chandra Bose.",
+                  "category": "museum",
+                  "coords": [
+                        88.351001,
+                        22.537533
+                  ]
+            },
+            {
+                  "name": "Lascar War Memorial",
+                  "text": "Lascar War Memorial din in-victoria-memorial-history-v2 onorează marinarii indieni căzuți în Primul Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        88.328799,
+                        22.553012
+                  ]
+            },
+            {
+                  "name": "Kalighat Kali Temple",
+                  "text": "Kalighat Kali Temple este un important templu hindus dedicat zeiței Kali în in-victoria-memorial-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        88.342056,
+                        22.52028
+                  ]
+            },
+            {
+                  "name": "Rabindra Sadan",
+                  "text": "Rabindra Sadan este un centru cultural și un teatru proeminent din in-victoria-memorial-history-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        88.344725,
+                        22.541907
+                  ]
+            },
+            {
+                  "name": "Saint Thomas' Catholic Church",
+                  "text": "Saint Thomas' Catholic Church este un lăcaș de cult creștin notabil din in-victoria-memorial-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        88.352205,
+                        22.550186
+                  ]
+            },
+            {
+                  "name": "Birla Mandir",
+                  "text": "Birla Mandir din in-victoria-memorial-history-v2 este un templu hindus mare și ornamentat.",
+                  "category": "religious",
+                  "coords": [
+                        88.364957,
+                        22.530494
+                  ]
+            },
+            {
+                  "name": "Alipore Zoo",
+                  "text": "Grădina Zoologică Alipore din in-victoria-memorial-history-v2 este cel mai vechi parc zoologic din India.",
+                  "category": "park",
+                  "coords": [
+                        88.331829,
+                        22.537234
+                  ]
+            },
+            {
+                  "name": "National Library",
+                  "text": "National Library din in-victoria-memorial-history-v2 este cea mai mare bibliotecă din India.",
+                  "category": "park",
+                  "coords": [
+                        88.333464,
+                        22.532544
+                  ]
+            },
+            {
+                  "name": "Maidan",
+                  "text": "Maidan este cel mai mare parc urban din in-victoria-memorial-history-v2, oferind spații verzi vaste.",
+                  "category": "park",
+                  "coords": [
+                        88.345635,
+                        22.553203
+                  ]
+            },
+            {
+                  "name": "Deshapriya Park",
+                  "text": "Deshapriya Park este un parc urban și loc de joacă popular din in-victoria-memorial-history-v2.",
+                  "category": "park",
+                  "coords": [
+                        88.353515,
+                        22.51842
+                  ]
+            },
+            {
+                  "name": "Centre for International Modern Art",
+                  "text": "Centre for International Modern Art este un muzeu situat în in-victoria-memorial-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        88.364694,
+                        22.531581
+                  ]
+            },
+            {
+                  "name": "Vijay Durg",
+                  "text": "Vijay Durg este un fort istoric din in-victoria-memorial-history-v2.",
+                  "category": "fortress",
+                  "coords": [
+                        88.337522,
+                        22.555037
+                  ]
+            },
+            {
+                  "name": "Tazaung",
+                  "text": "Tazaung este un lăcaș de cult situat în in-victoria-memorial-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        88.339593,
+                        22.5642
+                  ]
+            },
+            {
+                  "name": "Harish Park",
+                  "text": "Harish Park este un parc public din in-victoria-memorial-history-v2.",
+                  "category": "park",
+                  "coords": [
+                        88.343729,
+                        22.530563
+                  ]
+            },
+            {
+                  "name": "Mohor Kunja",
+                  "text": "Mohor Kunja este un parc din in-victoria-memorial-history-v2.",
+                  "category": "park",
+                  "coords": [
+                        88.344619,
+                        22.543672
+                  ]
+            },
+            {
+                  "name": "Park Circus Maidan",
+                  "text": "Park Circus Maidan este un parc de agrement din in-victoria-memorial-history-v2.",
+                  "category": "park",
+                  "coords": [
+                        88.370067,
+                        22.543249
+                  ]
+            },
+            {
+                  "name": "Maddox Square",
+                  "text": "Maddox Square este un parc urban din in-victoria-memorial-history-v2.",
+                  "category": "park",
+                  "coords": [
+                        88.354658,
+                        22.526284
+                  ]
+            },
+            {
+                  "name": "Film Memorabilia Display Museum চলচ্চিত্র সংগ্রহ প্রদর্শন কেন্দ্র",
+                  "text": "Film Memorabilia Display Museum চলচ্চিত্র সংগ্রহ প্রদর্শন কেন্দ্র este un muzeu din in-victoria-memorial-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        88.346303,
+                        22.498931
+                  ]
+            },
+            {
+                  "name": "State Archeological Museum",
+                  "text": "State Archeological Museum este un muzeu de arheologie din in-victoria-memorial-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        88.318064,
+                        22.499349
+                  ]
+            },
+            {
+                  "name": "Kolkata Police Museum",
+                  "text": "Kolkata Police Museum este un muzeu tematic din in-victoria-memorial-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        88.355652,
+                        22.554119
+                  ]
+            },
+            {
+                  "name": "Ahuja Museum for Arts",
+                  "text": "Ahuja Museum for Arts este un muzeu de artă în in-victoria-memorial-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        88.349234,
+                        22.538091
+                  ]
+            },
+            {
+                  "name": "Durga Museum (Maa Phire Elo)",
+                  "text": "Durga Museum (Maa Phire Elo) este un muzeu situat în in-victoria-memorial-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        88.359042,
+                        22.50942
+                  ]
+            },
+            {
+                  "name": "Gallery Sanskriti",
+                  "text": "Gallery Sanskriti este un spațiu expozițional tip muzeu din in-victoria-memorial-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        88.32979,
+                        22.520509
+                  ]
+            },
+            {
+                  "name": "Palace of Maharaja Barddhaman",
+                  "text": "Palace of Maharaja Barddhaman este un castel istoric din in-victoria-memorial-history-v2.",
+                  "category": "castle",
+                  "coords": [
+                        88.325773,
+                        22.523914
+                  ]
+            },
+            {
+                  "name": "Nehru Children's Museum",
+                  "text": "Nehru Children's Museum este un muzeu dedicat copiilor din in-victoria-memorial-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        88.347138,
+                        22.542544
+                  ]
+            },
+            {
+                  "name": "Emperor Edward VII Memorial Arch",
+                  "text": "Emperor Edward VII Memorial Arch este un monument comemorativ în in-victoria-memorial-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        88.342169,
+                        22.542876
+                  ]
+            },
+            {
+                  "name": "Indira Ghandi Statue",
+                  "text": "Acest monument dedicat Indirei Gandhi se află în in-victoria-memorial-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        88.347517,
+                        22.546181
+                  ]
+            },
+            {
+                  "name": "Statue of Mahatma Gandhi",
+                  "text": "Statue of Mahatma Gandhi este un monument notabil din in-victoria-memorial-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        88.348198,
+                        22.559577
+                  ]
+            },
+            {
+                  "name": "Ghosh house",
+                  "text": "Ghosh house este un monument arhitectural din in-victoria-memorial-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        88.367767,
+                        22.603093
+                  ]
+            },
+            {
+                  "name": "James Princep Memorial",
+                  "text": "James Princep Memorial este un monument de patrimoniu în in-victoria-memorial-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        88.331145,
+                        22.555231
+                  ]
+            },
+            {
+                  "name": "Sarat Sadan",
+                  "text": "Sarat Sadan este un teatru din in-victoria-memorial-history-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        88.315977,
+                        22.494539
+                  ]
+            },
+            {
+                  "name": "Satyajit Ray Auditorium",
+                  "text": "Satyajit Ray Auditorium funcționează ca un teatru în in-victoria-memorial-history-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        88.351623,
+                        22.547446
+                  ]
+            },
+            {
+                  "name": "Mahanayak Uttam Manch",
+                  "text": "Mahanayak Uttam Manch este o sală de teatru din in-victoria-memorial-history-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        88.348797,
+                        22.522328
+                  ]
+            },
+            {
+                  "name": "Ramkrishna Mission Institute of Culture",
+                  "text": "Ramkrishna Mission Institute of Culture este un centru de arte din in-victoria-memorial-history-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        88.366416,
+                        22.515074
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Victoria Memorial",
+                  "text": "The Victoria Memorial in in-victoria-memorial-history-v2 is a large marble museum dedicated to Queen Victoria.",
+                  "category": "museum",
+                  "coords": [
+                        88.342549,
+                        22.544945
+                  ]
+            },
+            {
+                  "name": "Indian Museum",
+                  "text": "The Indian Museum in in-victoria-memorial-history-v2 is the largest and oldest museum in India.",
+                  "category": "museum",
+                  "coords": [
+                        88.350949,
+                        22.557675
+                  ]
+            },
+            {
+                  "name": "Birla Industrial & Technological Museum",
+                  "text": "The Birla Industrial & Technological Museum is an interactive science museum located in in-victoria-memorial-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        88.363755,
+                        22.534711
+                  ]
+            },
+            {
+                  "name": "Netaji Bhavan",
+                  "text": "Netaji Bhavan in in-victoria-memorial-history-v2 is a historic house and museum dedicated to Subhas Chandra Bose.",
+                  "category": "museum",
+                  "coords": [
+                        88.351001,
+                        22.537533
+                  ]
+            },
+            {
+                  "name": "Lascar War Memorial",
+                  "text": "The Lascar War Memorial in in-victoria-memorial-history-v2 honors Indian sailors who died during World War I.",
+                  "category": "historical",
+                  "coords": [
+                        88.328799,
+                        22.553012
+                  ]
+            },
+            {
+                  "name": "Kalighat Kali Temple",
+                  "text": "The Kalighat Kali Temple is a significant Hindu temple dedicated to the goddess Kali in in-victoria-memorial-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        88.342056,
+                        22.52028
+                  ]
+            },
+            {
+                  "name": "Rabindra Sadan",
+                  "text": "Rabindra Sadan is a prominent cultural center and theatre located in in-victoria-memorial-history-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        88.344725,
+                        22.541907
+                  ]
+            },
+            {
+                  "name": "Saint Thomas' Catholic Church",
+                  "text": "Saint Thomas' Catholic Church is a notable Christian place of worship in in-victoria-memorial-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        88.352205,
+                        22.550186
+                  ]
+            },
+            {
+                  "name": "Birla Mandir",
+                  "text": "The Birla Mandir in in-victoria-memorial-history-v2 is a large and ornate Hindu temple.",
+                  "category": "religious",
+                  "coords": [
+                        88.364957,
+                        22.530494
+                  ]
+            },
+            {
+                  "name": "Alipore Zoo",
+                  "text": "The Alipore Zoo in in-victoria-memorial-history-v2 is the oldest zoological park in India.",
+                  "category": "park",
+                  "coords": [
+                        88.331829,
+                        22.537234
+                  ]
+            },
+            {
+                  "name": "National Library",
+                  "text": "The National Library in in-victoria-memorial-history-v2 is the largest library in India.",
+                  "category": "park",
+                  "coords": [
+                        88.333464,
+                        22.532544
+                  ]
+            },
+            {
+                  "name": "Maidan",
+                  "text": "The Maidan is the largest urban park in in-victoria-memorial-history-v2, featuring vast green fields.",
+                  "category": "park",
+                  "coords": [
+                        88.345635,
+                        22.553203
+                  ]
+            },
+            {
+                  "name": "Deshapriya Park",
+                  "text": "Deshapriya Park is a popular urban park and playground located in in-victoria-memorial-history-v2.",
+                  "category": "park",
+                  "coords": [
+                        88.353515,
+                        22.51842
+                  ]
+            },
+            {
+                  "name": "Centre for International Modern Art",
+                  "text": "The Centre for International Modern Art is a museum located in in-victoria-memorial-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        88.364694,
+                        22.531581
+                  ]
+            },
+            {
+                  "name": "Vijay Durg",
+                  "text": "Vijay Durg is a historic fort in in-victoria-memorial-history-v2.",
+                  "category": "fortress",
+                  "coords": [
+                        88.337522,
+                        22.555037
+                  ]
+            },
+            {
+                  "name": "Tazaung",
+                  "text": "Tazaung is a place of worship situated in in-victoria-memorial-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        88.339593,
+                        22.5642
+                  ]
+            },
+            {
+                  "name": "Harish Park",
+                  "text": "Harish Park is a public park located in in-victoria-memorial-history-v2.",
+                  "category": "park",
+                  "coords": [
+                        88.343729,
+                        22.530563
+                  ]
+            },
+            {
+                  "name": "Mohor Kunja",
+                  "text": "Mohor Kunja is a green park in in-victoria-memorial-history-v2.",
+                  "category": "park",
+                  "coords": [
+                        88.344619,
+                        22.543672
+                  ]
+            },
+            {
+                  "name": "Park Circus Maidan",
+                  "text": "Park Circus Maidan is a recreational park located in in-victoria-memorial-history-v2.",
+                  "category": "park",
+                  "coords": [
+                        88.370067,
+                        22.543249
+                  ]
+            },
+            {
+                  "name": "Maddox Square",
+                  "text": "Maddox Square is a municipal park in in-victoria-memorial-history-v2.",
+                  "category": "park",
+                  "coords": [
+                        88.354658,
+                        22.526284
+                  ]
+            },
+            {
+                  "name": "Film Memorabilia Display Museum চলচ্চিত্র সংগ্রহ প্রদর্শন কেন্দ্র",
+                  "text": "The Film Memorabilia Display Museum চলচ্চিত্র সংগ্রহ প্রদর্শন কেন্দ্র is a dedicated museum in in-victoria-memorial-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        88.346303,
+                        22.498931
+                  ]
+            },
+            {
+                  "name": "State Archeological Museum",
+                  "text": "The State Archeological Museum exhibits local artifacts in in-victoria-memorial-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        88.318064,
+                        22.499349
+                  ]
+            },
+            {
+                  "name": "Kolkata Police Museum",
+                  "text": "The Kolkata Police Museum is located in in-victoria-memorial-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        88.355652,
+                        22.554119
+                  ]
+            },
+            {
+                  "name": "Ahuja Museum for Arts",
+                  "text": "The Ahuja Museum for Arts is an art museum in in-victoria-memorial-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        88.349234,
+                        22.538091
+                  ]
+            },
+            {
+                  "name": "Durga Museum (Maa Phire Elo)",
+                  "text": "Durga Museum (Maa Phire Elo) is a museum situated in in-victoria-memorial-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        88.359042,
+                        22.50942
+                  ]
+            },
+            {
+                  "name": "Gallery Sanskriti",
+                  "text": "Gallery Sanskriti operates as a museum in in-victoria-memorial-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        88.32979,
+                        22.520509
+                  ]
+            },
+            {
+                  "name": "Palace of Maharaja Barddhaman",
+                  "text": "The Palace of Maharaja Barddhaman is a castle located in in-victoria-memorial-history-v2.",
+                  "category": "castle",
+                  "coords": [
+                        88.325773,
+                        22.523914
+                  ]
+            },
+            {
+                  "name": "Nehru Children's Museum",
+                  "text": "The Nehru Children's Museum is an educational museum found in in-victoria-memorial-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        88.347138,
+                        22.542544
+                  ]
+            },
+            {
+                  "name": "Emperor Edward VII Memorial Arch",
+                  "text": "The Emperor Edward VII Memorial Arch is a historical monument in in-victoria-memorial-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        88.342169,
+                        22.542876
+                  ]
+            },
+            {
+                  "name": "Indira Gandhi",
+                  "text": "This monument dedicated to Indira Gandhi is located in in-victoria-memorial-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        88.347517,
+                        22.546181
+                  ]
+            },
+            {
+                  "name": "Statue of Mahatma Gandhi",
+                  "text": "The Statue of Mahatma Gandhi is a notable monument situated in in-victoria-memorial-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        88.348198,
+                        22.559577
+                  ]
+            },
+            {
+                  "name": "Ghosh house",
+                  "text": "Ghosh house stands as a local monument in in-victoria-memorial-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        88.367767,
+                        22.603093
+                  ]
+            },
+            {
+                  "name": "James Princep Memorial",
+                  "text": "The James Princep Memorial is an architectural monument located in in-victoria-memorial-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        88.331145,
+                        22.555231
+                  ]
+            },
+            {
+                  "name": "Sarat Sadan",
+                  "text": "Sarat Sadan is a performance theatre in in-victoria-memorial-history-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        88.315977,
+                        22.494539
+                  ]
+            },
+            {
+                  "name": "Satyajit Ray Auditorium",
+                  "text": "The Satyajit Ray Auditorium serves as a theatre space in in-victoria-memorial-history-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        88.351623,
+                        22.547446
+                  ]
+            },
+            {
+                  "name": "Mahanayak Uttam Manch",
+                  "text": "Mahanayak Uttam Manch is a venue for theatrical performances in in-victoria-memorial-history-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        88.348797,
+                        22.522328
+                  ]
+            },
+            {
+                  "name": "Ramkrishna Mission Institute of Culture",
+                  "text": "The Ramkrishna Mission Institute of Culture is an arts centre in in-victoria-memorial-history-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        88.366416,
+                        22.515074
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "IN-WB",
     coords: [88.3426, 22.5448],
@@ -904,7 +14710,124 @@ export const poiExtraIndiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "in-lothal-history-v2",
+    id: "in-lothal-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lothal Port",
+                  "text": "Diese antike Hafenanlage der Indus-Kultur ist für ihr weltweit frühestes bekanntes künstliches Dock bekannt.",
+                  "category": "historical",
+                  "coords": [
+                        72.249921,
+                        22.522773
+                  ]
+            },
+            {
+                  "name": "National Maritime Heritage Complex",
+                  "text": "Dieses groß angelegte Museumsprojekt widmet sich der über 4.500-jährigen Seefahrtsgeschichte Indiens.",
+                  "category": "museum",
+                  "coords": [
+                        72.240537,
+                        22.498229
+                  ]
+            },
+            {
+                  "name": "Lothal Museum",
+                  "text": "Das Museum zeigt bedeutende Fundstücke wie Siegel, Schmuck und Töpferwaren aus der Ausgrabungsstätte von Lothal.",
+                  "category": "museum",
+                  "coords": [
+                        72.25074,
+                        22.520733
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lothal Port",
+                  "text": "Az Indus-völgyi civilizáció ezen ősi kikötője a világ legkorábbi ismert mesterséges dokkjáról nevezetes.",
+                  "category": "historical",
+                  "coords": [
+                        72.249921,
+                        22.522773
+                  ]
+            },
+            {
+                  "name": "National Maritime Heritage Complex",
+                  "text": "Ez a nagyszabású múzeumi projekt India több mint 4500 éves tengerészeti múltját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        72.240537,
+                        22.498229
+                  ]
+            },
+            {
+                  "name": "Lothal Museum",
+                  "text": "A múzeum a lothali ásatások során talált jelentős leleteket, például pecséteket, ékszereket és edényeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        72.25074,
+                        22.520733
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lothal Port",
+                  "text": "Acest port antic al civilizației de pe Valea Indului este cunoscut pentru cel mai vechi doc artificial din lume.",
+                  "category": "historical",
+                  "coords": [
+                        72.249921,
+                        22.522773
+                  ]
+            },
+            {
+                  "name": "National Maritime Heritage Complex",
+                  "text": "Acest complex muzeal de amploare este dedicat istoriei maritime a Indiei, care se întinde pe mai mult de 4.500 de ani.",
+                  "category": "museum",
+                  "coords": [
+                        72.240537,
+                        22.498229
+                  ]
+            },
+            {
+                  "name": "Lothal Museum",
+                  "text": "Muzeul expune artefacte importante, precum sigilii, bijuterii și ceramică, descoperite în situl arheologic Lothal.",
+                  "category": "museum",
+                  "coords": [
+                        72.25074,
+                        22.520733
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lothal Port",
+                  "text": "This ancient Indus Valley port site is famous for containing the world's earliest known artificial dock.",
+                  "category": "historical",
+                  "coords": [
+                        72.249921,
+                        22.522773
+                  ]
+            },
+            {
+                  "name": "National Maritime Heritage Complex",
+                  "text": "This large-scale museum complex is dedicated to showcasing over 4,500 years of India's maritime history.",
+                  "category": "museum",
+                  "coords": [
+                        72.240537,
+                        22.498229
+                  ]
+            },
+            {
+                  "name": "Lothal Museum",
+                  "text": "The museum displays significant artifacts including seals, jewelry, and pottery recovered from the Lothal excavation site.",
+                  "category": "museum",
+                  "coords": [
+                        72.25074,
+                        22.520733
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "IN-GJ",
     coords: [72.249, 22.521],

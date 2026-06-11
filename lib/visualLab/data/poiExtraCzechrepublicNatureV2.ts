@@ -820,7 +820,7 @@ export const czechrepublicNatureV2: POI[] = [
             },
             {
                   "name": "Zámek Doksy",
-                  "text": "Ein Renaissanceschloss in Doksy, das für Besucher zugänglich ist.",
+                  "text": "Renaissanceschloss Doksy am Ufer des Máchovo jezero (Macha-See).",
                   "category": "castle",
                   "coords": [
                         14.652616,
@@ -847,7 +847,7 @@ export const czechrepublicNatureV2: POI[] = [
             },
             {
                   "name": "Doksyland",
-                  "text": "Ein kleiner Tierpark in Doksy, der sich an Familien richtet.",
+                  "text": "Wasserpark Doksyland am Mácha-See.",
                   "category": "recreational",
                   "coords": [
                         14.654836,
@@ -930,7 +930,7 @@ export const czechrepublicNatureV2: POI[] = [
             },
             {
                   "name": "Zámek Doksy",
-                  "text": "Doksy reneszánsz kastélya, amely látogatható a közönség számára.",
+                  "text": "Doksy reneszánsz kastély a Máchovo-tó partján.",
                   "category": "castle",
                   "coords": [
                         14.652616,
@@ -957,7 +957,7 @@ export const czechrepublicNatureV2: POI[] = [
             },
             {
                   "name": "Doksyland",
-                  "text": "Kisebb állatkert Doksyban, amely elsősorban családoknak kínál kikapcsolódást.",
+                  "text": "Doksyland vízipark a Mácha-tónál.",
                   "category": "recreational",
                   "coords": [
                         14.654836,
@@ -1040,7 +1040,7 @@ export const czechrepublicNatureV2: POI[] = [
             },
             {
                   "name": "Zámek Doksy",
-                  "text": "Un castel renascentist din Doksy, deschis vizitatorilor.",
+                  "text": "Castelul renascentist Doksy pe malul lacului Máchovo jezero.",
                   "category": "castle",
                   "coords": [
                         14.652616,
@@ -1067,7 +1067,7 @@ export const czechrepublicNatureV2: POI[] = [
             },
             {
                   "name": "Doksyland",
-                  "text": "O mică grădină zoologică din Doksy, destinată familiilor.",
+                  "text": "Parcul acvatic Doksyland pe lacul Mácha.",
                   "category": "recreational",
                   "coords": [
                         14.654836,
@@ -1150,7 +1150,7 @@ export const czechrepublicNatureV2: POI[] = [
             },
             {
                   "name": "Zámek Doksy",
-                  "text": "A Renaissance castle located in Doksy that is open to visitors.",
+                  "text": "Renaissance chateau Doksy on the shore of Máchovo Lake.",
                   "category": "castle",
                   "coords": [
                         14.652616,
@@ -1177,7 +1177,7 @@ export const czechrepublicNatureV2: POI[] = [
             },
             {
                   "name": "Doksyland",
-                  "text": "A small zoo located in Doksy, catering to families.",
+                  "text": "Doksyland water park on Macha Lake.",
                   "category": "recreational",
                   "coords": [
                         14.654836,
@@ -1681,7 +1681,7 @@ export const czechrepublicNatureV2: POI[] = [
       "de": [
             {
                   "name": "Geofyzikální expozice Skalná",
-                  "text": "Ein geophysikalisches Museum in Skalná beim Naturschutzgebiet Soos.",
+                  "text": "Die geophysikalische Ausstellung in Skalná wurde 2015 eröffnet und liegt nahe dem Nationalen Naturreservat Soos.",
                   "category": "museum",
                   "coords": [
                         12.364887,
@@ -1699,7 +1699,7 @@ export const czechrepublicNatureV2: POI[] = [
             },
             {
                   "name": "Děvín",
-                  "text": "Ein Naturschutzgebiet in der Region Soos.",
+                  "text": "Der Děvín im Soos-Nationalreservat, eingerichtet 1990.",
                   "category": "natural",
                   "coords": [
                         12.427055,
@@ -1708,7 +1708,7 @@ export const czechrepublicNatureV2: POI[] = [
             },
             {
                   "name": "Rozhledna Zámeček",
-                  "text": "Ein Schlossgebäude im Bereich des Naturschutzgebiets Soos.",
+                  "text": "Aussichtsturm Zámeček in der Nähe des Naturschutzgebiets Soos.",
                   "category": "castle",
                   "coords": [
                         12.368106,
@@ -1726,7 +1726,7 @@ export const czechrepublicNatureV2: POI[] = [
             },
             {
                   "name": "Motýlí dům",
-                  "text": "Ein Schmetterlingshaus im Soos-Gebiet.",
+                  "text": "Schmetterlingshaus in der Nähe des Naturschutzgebiets Soos.",
                   "category": "landmark",
                   "coords": [
                         12.368239,
@@ -1755,7 +1755,7 @@ export const czechrepublicNatureV2: POI[] = [
       "hu": [
             {
                   "name": "Geofyzikální expozice Skalná",
-                  "text": "Geofizikai múzeum Skalnában, a Soos természetvédelmi terület mellett.",
+                  "text": "A Skalnái geofizikai kiállítás 2015-ben nyílt meg, a Soos Nemzeti Természeti Rezervátum közelében.",
                   "category": "museum",
                   "coords": [
                         12.364887,
@@ -1773,7 +1773,7 @@ export const czechrepublicNatureV2: POI[] = [
             },
             {
                   "name": "Děvín",
-                  "text": "Természetvédelmi terület a Soos régióban.",
+                  "text": "A Děvín a Soos Nemzeti Rezervátumban, 1990-ben létesítve.",
                   "category": "natural",
                   "coords": [
                         12.427055,
@@ -1782,7 +1782,7 @@ export const czechrepublicNatureV2: POI[] = [
             },
             {
                   "name": "Rozhledna Zámeček",
-                  "text": "Egy kastélyépület a Soos természetvédelmi területen.",
+                  "text": "Zámeček kilátótorony a Soos természetvédelmi terület közelében.",
                   "category": "castle",
                   "coords": [
                         12.368106,
@@ -1800,7 +1800,7 @@ export const czechrepublicNatureV2: POI[] = [
             },
             {
                   "name": "Motýlí dům",
-                  "text": "Lepkeház a Soos területén.",
+                  "text": "Pillangóház a Soos természetvédelmi terület közelében.",
                   "category": "landmark",
                   "coords": [
                         12.368239,
@@ -1829,7 +1829,7 @@ export const czechrepublicNatureV2: POI[] = [
       "ro": [
             {
                   "name": "Geofyzikální expozice Skalná",
-                  "text": "Un muzeu de geofizică situat în Skalná, lângă Rezervația Naturală Soos.",
+                  "text": "Expoziția geofizică din Skalná a fost deschisă în 2015, situată lângă Rezervația Naturală Națională Soos.",
                   "category": "museum",
                   "coords": [
                         12.364887,
@@ -1847,7 +1847,7 @@ export const czechrepublicNatureV2: POI[] = [
             },
             {
                   "name": "Děvín",
-                  "text": "O rezervație naturală situată în regiunea Soos.",
+                  "text": "Děvínul din Rezervația Națională Soos, înființată în 1990.",
                   "category": "natural",
                   "coords": [
                         12.427055,
@@ -1856,7 +1856,7 @@ export const czechrepublicNatureV2: POI[] = [
             },
             {
                   "name": "Rozhledna Zámeček",
-                  "text": "O clădire de tip castel în zona Rezervației Naturale Soos.",
+                  "text": "Turnul de observație Zámeček lângă Rezervația Naturală Soos.",
                   "category": "castle",
                   "coords": [
                         12.368106,
@@ -1874,7 +1874,7 @@ export const czechrepublicNatureV2: POI[] = [
             },
             {
                   "name": "Motýlí dům",
-                  "text": "O casă a fluturilor situată în zona Soos.",
+                  "text": "Casa fluturilor lângă Rezervația Naturală Soos.",
                   "category": "landmark",
                   "coords": [
                         12.368239,
@@ -1903,7 +1903,7 @@ export const czechrepublicNatureV2: POI[] = [
       "en": [
             {
                   "name": "Geofyzikální expozice Skalná",
-                  "text": "A geophysical museum situated in Skalná near the Soos Nature Reserve.",
+                  "text": "The geophysical exhibition in Skalná opened in 2015, located near the Soos National Nature Reserve.",
                   "category": "museum",
                   "coords": [
                         12.364887,
@@ -1921,7 +1921,7 @@ export const czechrepublicNatureV2: POI[] = [
             },
             {
                   "name": "Děvín",
-                  "text": "A nature reserve located within the Soos region.",
+                  "text": "Děvín hill within the Soos National Nature Reserve, established in 1990.",
                   "category": "natural",
                   "coords": [
                         12.427055,
@@ -1930,7 +1930,7 @@ export const czechrepublicNatureV2: POI[] = [
             },
             {
                   "name": "Rozhledna Zámeček",
-                  "text": "A castle building in the Soos Nature Reserve area.",
+                  "text": "Zámeček observation tower near Soos Nature Reserve.",
                   "category": "castle",
                   "coords": [
                         12.368106,
@@ -1948,7 +1948,7 @@ export const czechrepublicNatureV2: POI[] = [
             },
             {
                   "name": "Motýlí dům",
-                  "text": "A butterfly house attraction located in the Soos area.",
+                  "text": "Butterfly house near Soos Nature Reserve.",
                   "category": "landmark",
                   "coords": [
                         12.368239,
@@ -2821,7 +2821,7 @@ export const czechrepublicNatureV2: POI[] = [
             },
             {
                   "name": "Gebirgsbad",
-                  "text": "Ein Schwimmbad in den Bergen, das Erholung in der Natur bietet.",
+                  "text": "Bergfreibad im Lausitzer Gebirge.",
                   "category": "recreational",
                   "coords": [
                         14.705587,
@@ -2904,7 +2904,7 @@ export const czechrepublicNatureV2: POI[] = [
             },
             {
                   "name": "Gebirgsbad",
-                  "text": "Hegyi úszómedence, amely kikapcsolódást nyújt a természetben.",
+                  "text": "Hegyi szabadtéri uszoda a Lausitzi-hegységben.",
                   "category": "recreational",
                   "coords": [
                         14.705587,
@@ -2987,7 +2987,7 @@ export const czechrepublicNatureV2: POI[] = [
             },
             {
                   "name": "Gebirgsbad",
-                  "text": "O piscină la munte care oferă recreere în mijlocul naturii.",
+                  "text": "Piscină montană în Munții Lusatieni.",
                   "category": "recreational",
                   "coords": [
                         14.705587,
@@ -3070,7 +3070,7 @@ export const czechrepublicNatureV2: POI[] = [
             },
             {
                   "name": "Mountain Swimming Pool",
-                  "text": "A swimming pool in the mountains offering recreation in nature.",
+                  "text": "Mountain swimming pool in the Lusatian Mountains.",
                   "category": "recreational",
                   "coords": [
                         14.705587,
@@ -4348,7 +4348,7 @@ export const czechrepublicNatureV2: POI[] = [
             },
             {
                   "name": "Trmovský vrch",
-                  "text": "Der Trmovský vrch ist eine Erhebung im Duppauer Gebirge in der Tschechischen Republik.",
+                  "text": "Der Trmovský vrch im Doupov-Gebirge ist ein Hügel in diesem Bergland.",
                   "category": "landmark",
                   "coords": [
                         13.149583,
@@ -4368,7 +4368,7 @@ export const czechrepublicNatureV2: POI[] = [
             },
             {
                   "name": "Trmovský vrch",
-                  "text": "A Trmovský vrch egy magaslat a csehországi Doupov-hegységben.",
+                  "text": "A Trmovský vrch a Doupov-hegységben egy domb ezen a vidéken.",
                   "category": "landmark",
                   "coords": [
                         13.149583,
@@ -4388,7 +4388,7 @@ export const czechrepublicNatureV2: POI[] = [
             },
             {
                   "name": "Trmovský vrch",
-                  "text": "Trmovský vrch este o culme din Munții Doupov, situată în Republica Cehă.",
+                  "text": "Trmovský vrch din Munții Doupov este un deal în această regiune muntoasă.",
                   "category": "landmark",
                   "coords": [
                         13.149583,
@@ -4408,7 +4408,7 @@ export const czechrepublicNatureV2: POI[] = [
             },
             {
                   "name": "Trmovský vrch",
-                  "text": "Trmovský vrch is an elevation in the Doupov Mountains in the Czech Republic.",
+                  "text": "Trmovský vrch in the Doupov Mountains is a hill in that mountain range.",
                   "category": "landmark",
                   "coords": [
                         13.149583,

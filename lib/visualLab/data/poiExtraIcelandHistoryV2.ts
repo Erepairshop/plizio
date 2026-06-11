@@ -296,7 +296,7 @@ imageHint: "Thingvellir national park assembly site Iceland",
             },
             {
                   "name": "Mosfellskirkja",
-                  "text": "Eine ländliche Kirche in der Region Skálholt.",
+                  "text": "Kirche am historischen Ort Skálholt.",
                   "category": "religious",
                   "coords": [
                         -20.603757,
@@ -334,7 +334,7 @@ imageHint: "Thingvellir national park assembly site Iceland",
             },
             {
                   "name": "Mosfellskirkja",
-                  "text": "Vidéki templom Skálholt régiójában.",
+                  "text": "Templom a történelmi Skálholt helyszínén.",
                   "category": "religious",
                   "coords": [
                         -20.603757,
@@ -372,7 +372,7 @@ imageHint: "Thingvellir national park assembly site Iceland",
             },
             {
                   "name": "Mosfellskirkja",
-                  "text": "O biserică rurală în regiunea Skálholt.",
+                  "text": "Biserică la situl istoric Skálholt.",
                   "category": "religious",
                   "coords": [
                         -20.603757,
@@ -410,7 +410,7 @@ imageHint: "Thingvellir national park assembly site Iceland",
             },
             {
                   "name": "Mosfellskirkja",
-                  "text": "A rural church in the Skálholt region.",
+                  "text": "Church at the historic site of Skálholt.",
                   "category": "religious",
                   "coords": [
                         -20.603757,
@@ -477,7 +477,7 @@ imageHint: "Skalholt cathedral historic site Iceland",
       "de": [
             {
                   "name": "Nýibær",
-                  "text": "Ein traditionelles isländisches Torfhausmuseum in Hólar.",
+                  "text": "Nýibær, ein restaurierter Torfbauernhof aus dem 19. Jahrhundert in Hólar.",
                   "category": "museum",
                   "coords": [
                         -19.111012,
@@ -486,7 +486,7 @@ imageHint: "Skalholt cathedral historic site Iceland",
             },
             {
                   "name": "Auðunarstofa",
-                  "text": "Rekonstruktion eines mittelalterlichen Holzgebäudes in Hólar.",
+                  "text": "Auðunarstofa, ein historisches Holzgebäude in Hólar.",
                   "category": "landmark",
                   "coords": [
                         -19.114276,
@@ -497,7 +497,7 @@ imageHint: "Skalholt cathedral historic site Iceland",
       "hu": [
             {
                   "name": "Nýibær",
-                  "text": "Tradicionális izlandi gyepház-múzeum Hólarban.",
+                  "text": "Nýibær, egy 19. századi, helyreállított tanyasi tőzegből épült ház Hólarban.",
                   "category": "museum",
                   "coords": [
                         -19.111012,
@@ -506,7 +506,7 @@ imageHint: "Skalholt cathedral historic site Iceland",
             },
             {
                   "name": "Auðunarstofa",
-                  "text": "Egy középkori faház rekonstrukciója Hólarban.",
+                  "text": "Auðunarstofa, egy történelmi faház Hólarban.",
                   "category": "landmark",
                   "coords": [
                         -19.114276,
@@ -517,7 +517,7 @@ imageHint: "Skalholt cathedral historic site Iceland",
       "ro": [
             {
                   "name": "Nýibær",
-                  "text": "Un muzeu tradițional islandez amenajat într-o casă de turbă în Hólar.",
+                  "text": "Nýibær, o fermă de turbă restaurată din secolul al XIX-lea în Hólar.",
                   "category": "museum",
                   "coords": [
                         -19.111012,
@@ -526,7 +526,7 @@ imageHint: "Skalholt cathedral historic site Iceland",
             },
             {
                   "name": "Auðunarstofa",
-                  "text": "Reconstrucția unei clădiri medievale din bârne în Hólar.",
+                  "text": "Auðunarstofa, o clădire istorică din lemn în Hólar.",
                   "category": "landmark",
                   "coords": [
                         -19.114276,
@@ -537,7 +537,7 @@ imageHint: "Skalholt cathedral historic site Iceland",
       "en": [
             {
                   "name": "Nýibær",
-                  "text": "A traditional Icelandic turf house museum in Hólar.",
+                  "text": "Nýibær, a restored 19th-century turf farmhouse at Hólar.",
                   "category": "museum",
                   "coords": [
                         -19.111012,
@@ -546,7 +546,7 @@ imageHint: "Skalholt cathedral historic site Iceland",
             },
             {
                   "name": "Auðunarstofa",
-                  "text": "Reconstruction of a medieval timber building in Hólar.",
+                  "text": "Auðunarstofa, a historic timber building in Hólar.",
                   "category": "landmark",
                   "coords": [
                         -19.114276,
@@ -1824,7 +1824,7 @@ imageHint: "Helgafell mountain and church Snaefellsnes",
       "de": [
             {
                   "name": "Ytri-Selbunga",
-                  "text": "Ein Berggipfel in der Region Hofstaðir.",
+                  "text": "Felshügel in der Gegend von Hofstaðir.",
                   "category": "landmark",
                   "coords": [
                         -17.216583,
@@ -1844,7 +1844,7 @@ imageHint: "Helgafell mountain and church Snaefellsnes",
       "hu": [
             {
                   "name": "Ytri-Selbunga",
-                  "text": "Hegycsúcs Hofstaðir régiójában.",
+                  "text": "Sziklás domb a Hofstaðir környékén.",
                   "category": "landmark",
                   "coords": [
                         -17.216583,
@@ -1864,7 +1864,7 @@ imageHint: "Helgafell mountain and church Snaefellsnes",
       "ro": [
             {
                   "name": "Ytri-Selbunga",
-                  "text": "Un vârf muntos situat în regiunea Hofstaðir.",
+                  "text": "Deal stâncos în zona Hofstaðir.",
                   "category": "landmark",
                   "coords": [
                         -17.216583,
@@ -1884,7 +1884,7 @@ imageHint: "Helgafell mountain and church Snaefellsnes",
       "en": [
             {
                   "name": "Ytri-Selbunga",
-                  "text": "A mountain peak located in the Hofstaðir region.",
+                  "text": "Rocky hill in the Hofstaðir area.",
                   "category": "landmark",
                   "coords": [
                         -17.216583,
@@ -2464,7 +2464,7 @@ imageHint: "Hitardalur valley and historic farm Iceland",
             },
             {
                   "name": "Tófuhorn",
-                  "text": "Ein spitzer Berggipfel in der Nähe von Þvottá.",
+                  "text": "Gipfel im Þjórsá-Tal nahe Þvotta.",
                   "category": "landmark",
                   "coords": [
                         -14.543667,
@@ -2484,7 +2484,7 @@ imageHint: "Hitardalur valley and historic farm Iceland",
             },
             {
                   "name": "Tófuhorn",
-                  "text": "Hegyes hegycsúcs Þvottá közelében.",
+                  "text": "Csúcs a Þjórsá-völgyben Þvotta közelében.",
                   "category": "landmark",
                   "coords": [
                         -14.543667,
@@ -2504,7 +2504,7 @@ imageHint: "Hitardalur valley and historic farm Iceland",
             },
             {
                   "name": "Tófuhorn",
-                  "text": "Un vârf muntos ascuțit în apropiere de Þvottá.",
+                  "text": "Vârf în valea Þjórsá lângă Þvotta.",
                   "category": "landmark",
                   "coords": [
                         -14.543667,
@@ -2524,7 +2524,7 @@ imageHint: "Hitardalur valley and historic farm Iceland",
             },
             {
                   "name": "Tófuhorn",
-                  "text": "A sharp mountain peak near Þvottá.",
+                  "text": "Peak in the Þjórsá valley near Þvotta.",
                   "category": "landmark",
                   "coords": [
                         -14.543667,

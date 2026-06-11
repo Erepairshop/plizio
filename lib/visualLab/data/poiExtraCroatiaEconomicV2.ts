@@ -412,7 +412,7 @@ imageHint: "Brodosplit shipyard with large ships under construction",
       "de": [
             {
                   "name": "Doričići dog beach",
-                  "text": "Ein hundefreundlicher Strand in der Nähe der Viktor-Lenac-Werft.",
+                  "text": "Hundestrand mit Kieselsteinen an der Küste von Viktor Lenac.",
                   "category": "recreational",
                   "coords": [
                         14.4999,
@@ -423,7 +423,7 @@ imageHint: "Brodosplit shipyard with large ships under construction",
       "hu": [
             {
                   "name": "Doričići dog beach",
-                  "text": "Kutyabarát tengerpart a Viktor Lenac hajógyár közelében.",
+                  "text": "Kutyás strand kavicsos parttal Viktor Lenac partján.",
                   "category": "recreational",
                   "coords": [
                         14.4999,
@@ -434,7 +434,7 @@ imageHint: "Brodosplit shipyard with large ships under construction",
       "ro": [
             {
                   "name": "Doričići dog beach",
-                  "text": "O plajă prietenoasă cu câinii în apropierea șantierului naval Viktor Lenac.",
+                  "text": "Plajă pentru câini cu pietriș pe coasta Viktor Lenac.",
                   "category": "recreational",
                   "coords": [
                         14.4999,
@@ -445,7 +445,7 @@ imageHint: "Brodosplit shipyard with large ships under construction",
       "en": [
             {
                   "name": "Doričići dog beach",
-                  "text": "A dog-friendly beach near the Viktor Lenac shipyard.",
+                  "text": "Pebble dog beach on the coast of Viktor Lenac.",
                   "category": "recreational",
                   "coords": [
                         14.4999,
@@ -2295,7 +2295,7 @@ imageHint: "Modern industrial plant in Postira on Brač",
       "de": [
             {
                   "name": "Razbojna",
-                  "text": "Ein Strand in Rijeka.",
+                  "text": "Waldgebiet mit Wanderwegen und Picknickplätzen nahe Jgl Pharmaceuticals.",
                   "category": "recreational",
                   "coords": [
                         14.362909,
@@ -2304,7 +2304,7 @@ imageHint: "Modern industrial plant in Postira on Brač",
             },
             {
                   "name": "Bivio",
-                  "text": "Ein Strand in Rijeka.",
+                  "text": "Malerischer Straßenkreuzungspunkt mit Bänken und Aussicht.",
                   "category": "recreational",
                   "coords": [
                         14.355519,
@@ -2315,7 +2315,7 @@ imageHint: "Modern industrial plant in Postira on Brač",
       "hu": [
             {
                   "name": "Razbojna",
-                  "text": "Egy strand Fiumében.",
+                  "text": "Erdős pihenőövezet túraútvonalakkal és piknikezőhelyekkel Jgl Pharmaceuticals közelében.",
                   "category": "recreational",
                   "coords": [
                         14.362909,
@@ -2324,7 +2324,7 @@ imageHint: "Modern industrial plant in Postira on Brač",
             },
             {
                   "name": "Bivio",
-                  "text": "Egy strand Fiumében.",
+                  "text": "Festői útkereszteződés padokkal és kilátással.",
                   "category": "recreational",
                   "coords": [
                         14.355519,
@@ -2335,7 +2335,7 @@ imageHint: "Modern industrial plant in Postira on Brač",
       "ro": [
             {
                   "name": "Razbojna",
-                  "text": "O plajă în Rijeka.",
+                  "text": "Zonă de agrement împădurită cu trasee și locuri de picnic lângă Jgl Pharmaceuticals.",
                   "category": "recreational",
                   "coords": [
                         14.362909,
@@ -2344,7 +2344,7 @@ imageHint: "Modern industrial plant in Postira on Brač",
             },
             {
                   "name": "Bivio",
-                  "text": "O plajă în Rijeka.",
+                  "text": "Intersecție pitorească de drumuri cu bănci și vedere.",
                   "category": "recreational",
                   "coords": [
                         14.355519,
@@ -2355,7 +2355,7 @@ imageHint: "Modern industrial plant in Postira on Brač",
       "en": [
             {
                   "name": "Razbojna",
-                  "text": "A beach in Rijeka.",
+                  "text": "Forested recreation area with hiking trails and picnic spots near Jgl Pharmaceuticals.",
                   "category": "recreational",
                   "coords": [
                         14.362909,
@@ -2364,7 +2364,7 @@ imageHint: "Modern industrial plant in Postira on Brač",
             },
             {
                   "name": "Bivio",
-                  "text": "A beach in Rijeka.",
+                  "text": "Scenic road junction with benches and a viewpoint.",
                   "category": "recreational",
                   "coords": [
                         14.355519,

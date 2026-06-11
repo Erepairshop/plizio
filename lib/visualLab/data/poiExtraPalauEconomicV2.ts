@@ -52,7 +52,7 @@ export const palauEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Belau National Museum",
-                  "text": "Nationalmuseum in Koror.",
+                  "text": "Das Belau Nationalmuseum im Geschäftsviertel von Koror zeigt palauische Kultur und einen Nachbau eines Bai.",
                   "category": "museum",
                   "coords": [
                         134.476344,
@@ -61,7 +61,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Etpison Museum",
-                  "text": "Museum in Koror.",
+                  "text": "Das Etpison Museum im Geschäftsviertel von Koror zeigt palauische Kunst und historische Fotografien.",
                   "category": "museum",
                   "coords": [
                         134.483163,
@@ -70,7 +70,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Palau International Coral Reef Centre",
-                  "text": "Aquarium in Koror.",
+                  "text": "Meeresforschungszentrum mit Aquarium und Korallenausstellungen im Geschäftsviertel von Koror.",
                   "category": "family",
                   "coords": [
                         134.466229,
@@ -79,7 +79,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Ngerunguikl",
-                  "text": "Berggipfel in Koror.",
+                  "text": "Kalksteininsel in der Lagune von Koror.",
                   "category": "natural",
                   "coords": [
                         134.498354,
@@ -88,7 +88,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Tibedul",
-                  "text": "Berggipfel in Koror.",
+                  "text": "Felsige Insel in der Koror-Lagune.",
                   "category": "natural",
                   "coords": [
                         134.49762,
@@ -97,7 +97,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Tuker",
-                  "text": "Berggipfel in Koror.",
+                  "text": "Natürliche Erhebung in der Koror-Lagune.",
                   "category": "natural",
                   "coords": [
                         134.490894,
@@ -106,7 +106,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Asahi Baseball Field",
-                  "text": "Park in Koror.",
+                  "text": "Baseballfeld im Stadtzentrum von Koror.",
                   "category": "park",
                   "coords": [
                         134.47446,
@@ -115,7 +115,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Belau Art Gallery",
-                  "text": "Galerie in Koror.",
+                  "text": "Kunstgalerie mit traditionellen und zeitgenössischen Werken aus Palau im Geschäftsviertel von Koror.",
                   "category": "museum",
                   "coords": [
                         134.475056,
@@ -124,7 +124,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Swimming pool ruins",
-                  "text": "Ruinen in Koror.",
+                  "text": "Ruinen eines japanischen Schwimmbeckens aus der Besatzungszeit im Geschäftsviertel von Koror.",
                   "category": "historical",
                   "coords": [
                         134.47991,
@@ -133,7 +133,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Mother and Child Stone",
-                  "text": "Die Mutter-Kind-Skulptur in Koror ist ein interessantes lokales Denkmal.",
+                  "text": "Natürliche Felsformation, die einer Mutter mit Kind ähnelt, im Geschäftsviertel von Koror.",
                   "category": "landmark",
                   "coords": [
                         134.503484,
@@ -142,7 +142,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "PillBox",
-                  "text": "Überreste einer alten Verteidigungsanlage in Koror.",
+                  "text": "Japanischer Bunker aus dem Zweiten Weltkrieg mit Blick auf das Meer im Geschäftsviertel von Koror.",
                   "category": "historical",
                   "coords": [
                         134.464431,
@@ -151,7 +151,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Ngarachamayong Cultural Center",
-                  "text": "Das Ngarachamayong Kulturzentrum ist ein bedeutender Ort für kulturelle Veranstaltungen in Koror.",
+                  "text": "Kulturzentrum mit traditionellen Tänzen und Handwerksvorführungen im Geschäftsviertel von Koror.",
                   "category": "cultural",
                   "coords": [
                         134.468148,
@@ -160,7 +160,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Nan'yō Shinto Shrine",
-                  "text": "Ein historischer japanischer Schrein in Koror.",
+                  "text": "Vorkriegs-Shinto-Schrein aus der japanischen Mandatszeit.",
                   "category": "religious",
                   "coords": [
                         134.496873,
@@ -169,7 +169,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Sacred Heart Church",
-                  "text": "Eine christliche Kirche in Koror.",
+                  "text": "Von Missionaren erbaute katholische Kirche in Koror.",
                   "category": "religious",
                   "coords": [
                         134.484952,
@@ -180,7 +180,7 @@ export const palauEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Belau National Museum",
-                  "text": "Nemzeti múzeum Kororban.",
+                  "text": "A Belau Nemzeti Múzeum Koror üzleti negyedében palaui kultúrát és egy Bai másolatát mutatja be.",
                   "category": "museum",
                   "coords": [
                         134.476344,
@@ -189,7 +189,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Etpison Museum",
-                  "text": "Múzeum Kororban.",
+                  "text": "Az Etpison Múzeum Koror üzleti negyedében palaui művészetet és történelmi fényképeket mutat be.",
                   "category": "museum",
                   "coords": [
                         134.483163,
@@ -198,7 +198,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Palau International Coral Reef Centre",
-                  "text": "Akvárium Kororban.",
+                  "text": "Tengerkutató központ akváriummal és korallkiállításokkal Koror üzleti negyedében.",
                   "category": "family",
                   "coords": [
                         134.466229,
@@ -207,7 +207,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Ngerunguikl",
-                  "text": "Hegycsúcs Kororban.",
+                  "text": "Mészkő sziget a Koror-i lagúnában.",
                   "category": "natural",
                   "coords": [
                         134.498354,
@@ -216,7 +216,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Tibedul",
-                  "text": "Hegycsúcs Kororban.",
+                  "text": "Sziklás sziget a Koror-i lagúnában.",
                   "category": "natural",
                   "coords": [
                         134.49762,
@@ -225,7 +225,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Tuker",
-                  "text": "Hegycsúcs Kororban.",
+                  "text": "Természetes kiemelkedés a Koror-i lagúnában.",
                   "category": "natural",
                   "coords": [
                         134.490894,
@@ -234,7 +234,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Asahi Baseball Field",
-                  "text": "Park Kororban.",
+                  "text": "Baseballpálya Koror központjában.",
                   "category": "park",
                   "coords": [
                         134.47446,
@@ -243,7 +243,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Belau Art Gallery",
-                  "text": "Galéria Kororban.",
+                  "text": "Művészeti galéria palaui hagyományos és kortárs alkotásokkal Koror üzleti negyedében.",
                   "category": "museum",
                   "coords": [
                         134.475056,
@@ -252,7 +252,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Swimming pool ruins",
-                  "text": "Romok Kororban.",
+                  "text": "Japán kori úszómedence romjai Koror üzleti negyedében.",
                   "category": "historical",
                   "coords": [
                         134.47991,
@@ -261,7 +261,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Mother and Child Stone",
-                  "text": "A korori Anya és Gyermek szobor egy látványos helyi emlékmű.",
+                  "text": "Természetes sziklaalakzat, amely egy anyát és gyermeket formáz, Koror üzleti negyedében.",
                   "category": "landmark",
                   "coords": [
                         134.503484,
@@ -270,7 +270,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "PillBox",
-                  "text": "Egy régi védelmi állás maradványai Kororban.",
+                  "text": "Japán második világháborús bunker tengerre néző kilátással Koror üzleti negyedében.",
                   "category": "historical",
                   "coords": [
                         134.464431,
@@ -279,7 +279,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Ngarachamayong Cultural Center",
-                  "text": "A Ngarachamayong Kulturális Központ Koror fontos kulturális rendezvényhelyszíne.",
+                  "text": "Kulturális központ hagyományos táncokkal és kézműves bemutatókkal Koror üzleti negyedében.",
                   "category": "cultural",
                   "coords": [
                         134.468148,
@@ -288,7 +288,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Nan'yō Shinto Shrine",
-                  "text": "Egy történelmi japán szentély Kororban.",
+                  "text": "Japán mandátum idejéből származó sintó szentély.",
                   "category": "religious",
                   "coords": [
                         134.496873,
@@ -297,7 +297,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Sacred Heart Church",
-                  "text": "Egy keresztény templom Kororban.",
+                  "text": "Misszionáriusok által épített katolikus templom Kororban.",
                   "category": "religious",
                   "coords": [
                         134.484952,
@@ -308,7 +308,7 @@ export const palauEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Belau National Museum",
-                  "text": "Muzeu național în Koror.",
+                  "text": "Muzeul Național Belau din cartierul de afaceri Koror prezintă cultura palauană și o replică a unui bai.",
                   "category": "museum",
                   "coords": [
                         134.476344,
@@ -317,7 +317,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Etpison Museum",
-                  "text": "Muzeu în Koror.",
+                  "text": "Muzeul Etpison din cartierul de afaceri Koror expune artă palauană și fotografii istorice.",
                   "category": "museum",
                   "coords": [
                         134.483163,
@@ -326,7 +326,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Palau International Coral Reef Centre",
-                  "text": "Acvariu în Koror.",
+                  "text": "Centru de cercetare marină cu acvariu și expoziții de corali în districtul de afaceri Koror.",
                   "category": "family",
                   "coords": [
                         134.466229,
@@ -335,7 +335,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Ngerunguikl",
-                  "text": "Vârf montan în Koror.",
+                  "text": "Insulă de calcar în laguna Koror.",
                   "category": "natural",
                   "coords": [
                         134.498354,
@@ -344,7 +344,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Tibedul",
-                  "text": "Vârf montan în Koror.",
+                  "text": "Insulă stâncoasă în laguna Koror.",
                   "category": "natural",
                   "coords": [
                         134.49762,
@@ -353,7 +353,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Tuker",
-                  "text": "Vârf montan în Koror.",
+                  "text": "Formațiune naturală în laguna Koror.",
                   "category": "natural",
                   "coords": [
                         134.490894,
@@ -362,7 +362,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Asahi Baseball Field",
-                  "text": "Parc în Koror.",
+                  "text": "Teren de baseball în centrul orașului Koror.",
                   "category": "park",
                   "coords": [
                         134.47446,
@@ -371,7 +371,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Belau Art Gallery",
-                  "text": "Galerie în Koror.",
+                  "text": "Galerie de artă cu lucrări tradiționale și contemporane din Palau în districtul de afaceri Koror.",
                   "category": "museum",
                   "coords": [
                         134.475056,
@@ -380,7 +380,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Swimming pool ruins",
-                  "text": "Ruine în Koror.",
+                  "text": "Ruinele unui bazin de înot din perioada japoneză în districtul de afaceri Koror.",
                   "category": "historical",
                   "coords": [
                         134.47991,
@@ -389,7 +389,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Mother and Child Stone",
-                  "text": "Statuia Mamă și Copil din Koror este un monument local interesant.",
+                  "text": "Formațiune naturală de stâncă asemănătoare unei mame cu copil, în districtul de afaceri Koror.",
                   "category": "landmark",
                   "coords": [
                         134.503484,
@@ -398,7 +398,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "PillBox",
-                  "text": "Rămășițele unei vechi structuri defensive în Koror.",
+                  "text": "Buncăr japonez din al Doilea Război Mondial cu vedere la mare în districtul de afaceri Koror.",
                   "category": "historical",
                   "coords": [
                         134.464431,
@@ -407,7 +407,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Ngarachamayong Cultural Center",
-                  "text": "Centrul Cultural Ngarachamayong este un loc important pentru evenimente culturale în Koror.",
+                  "text": "Centru cultural cu dansuri tradiționale și demonstrații de meșteșuguri în districtul de afaceri Koror.",
                   "category": "cultural",
                   "coords": [
                         134.468148,
@@ -416,7 +416,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Nan'yō Shinto Shrine",
-                  "text": "Un altar istoric japonez în Koror.",
+                  "text": "Altar șintoist din perioada mandatului japonez.",
                   "category": "religious",
                   "coords": [
                         134.496873,
@@ -425,7 +425,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Sacred Heart Church",
-                  "text": "O biserică creștină în Koror.",
+                  "text": "Biserică catolică construită de misionari în Koror.",
                   "category": "religious",
                   "coords": [
                         134.484952,
@@ -436,7 +436,7 @@ export const palauEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Belau National Museum",
-                  "text": "National museum in Koror.",
+                  "text": "Belau National Museum in the Koror Business District showcases Palauan culture and a replica of a bai.",
                   "category": "museum",
                   "coords": [
                         134.476344,
@@ -445,7 +445,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Etpison Museum",
-                  "text": "Museum in Koror.",
+                  "text": "Etpison Museum in the Koror Business District displays Palauan art and historical photographs.",
                   "category": "museum",
                   "coords": [
                         134.483163,
@@ -454,7 +454,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Palau International Coral Reef Centre",
-                  "text": "Aquarium in Koror.",
+                  "text": "Marine research centre with aquarium and coral exhibits in Koror Business District.",
                   "category": "family",
                   "coords": [
                         134.466229,
@@ -463,7 +463,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Ngerunguikl",
-                  "text": "Mountain peak in Koror.",
+                  "text": "Limestone islet in the Koror lagoon.",
                   "category": "natural",
                   "coords": [
                         134.498354,
@@ -472,7 +472,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Tibedul",
-                  "text": "Mountain peak in Koror.",
+                  "text": "Rocky island in the Koror lagoon.",
                   "category": "natural",
                   "coords": [
                         134.49762,
@@ -481,7 +481,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Tuker",
-                  "text": "Mountain peak in Koror.",
+                  "text": "Natural rise in the Koror lagoon.",
                   "category": "natural",
                   "coords": [
                         134.490894,
@@ -490,7 +490,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Asahi Baseball Field",
-                  "text": "Park in Koror.",
+                  "text": "Baseball field in central Koror.",
                   "category": "park",
                   "coords": [
                         134.47446,
@@ -499,7 +499,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Belau Art Gallery",
-                  "text": "Gallery in Koror.",
+                  "text": "Art gallery featuring traditional and contemporary Palauan works in Koror Business District.",
                   "category": "museum",
                   "coords": [
                         134.475056,
@@ -508,7 +508,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Swimming pool ruins",
-                  "text": "Ruins in Koror.",
+                  "text": "Ruins of a Japanese-era swimming pool in Koror Business District.",
                   "category": "historical",
                   "coords": [
                         134.47991,
@@ -517,7 +517,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Mother and Child Stone",
-                  "text": "The Mother and Child Stone in Koror is an interesting local monument.",
+                  "text": "Natural rock formation resembling a mother and child, in Koror Business District.",
                   "category": "landmark",
                   "coords": [
                         134.503484,
@@ -526,7 +526,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "PillBox",
-                  "text": "Remains of an old defensive structure in Koror.",
+                  "text": "Japanese WWII pillbox bunker overlooking the ocean in Koror Business District.",
                   "category": "historical",
                   "coords": [
                         134.464431,
@@ -535,7 +535,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Ngarachamayong Cultural Center",
-                  "text": "The Ngarachamayong Cultural Center is a significant venue for cultural events in Koror.",
+                  "text": "Cultural centre hosting traditional dance and craft demonstrations in Koror Business District.",
                   "category": "cultural",
                   "coords": [
                         134.468148,
@@ -544,7 +544,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Nan'yō Shinto Shrine",
-                  "text": "A historic Japanese shrine located in Koror.",
+                  "text": "Pre-war Shinto shrine from the Japanese mandate era.",
                   "category": "religious",
                   "coords": [
                         134.496873,
@@ -553,7 +553,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Sacred Heart Church",
-                  "text": "A Christian church located in Koror.",
+                  "text": "Catholic church built by missionaries in Koror.",
                   "category": "religious",
                   "coords": [
                         134.484952,
@@ -880,7 +880,7 @@ export const palauEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Tochobei",
-                  "text": "Tochobei ist ein Berggipfel in Regierungsviertel Ngerulmud.",
+                  "text": "Hügel mit Aussicht über die Hauptstadt Ngerulmud.",
                   "category": "natural",
                   "coords": [
                         134.628634,
@@ -898,7 +898,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Melekeok Bai",
-                  "text": "Melekeok Bai ist eine Sehenswürdigkeit in Regierungsviertel Ngerulmud.",
+                  "text": "Traditionelles palauisches Versammlungshaus mit kunstvollen Holzschnitzereien im Verwaltungsbezirk Ngerulmud.",
                   "category": "landmark",
                   "coords": [
                         134.633317,
@@ -909,7 +909,7 @@ export const palauEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Tochobei",
-                  "text": "A Tochobei egy hegycsúcs a Regierungsviertel Ngerulmudban.",
+                  "text": "Domb, ahonnan kilátás nyílik a fővárosra, Ngerulmudra.",
                   "category": "natural",
                   "coords": [
                         134.628634,
@@ -927,7 +927,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Melekeok Bai",
-                  "text": "A Melekeok Bai egy látványosság a Regierungsviertel Ngerulmudban.",
+                  "text": "Hagyományos palaui gyűlésház díszes faragványokkal Ngerulmud közigazgatási negyedében.",
                   "category": "landmark",
                   "coords": [
                         134.633317,
@@ -938,7 +938,7 @@ export const palauEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Tochobei",
-                  "text": "Tochobei este un vârf de munte situat în Regierungsviertel Ngerulmud.",
+                  "text": "Deal cu vedere asupra capitalei Ngerulmud.",
                   "category": "natural",
                   "coords": [
                         134.628634,
@@ -956,7 +956,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Melekeok Bai",
-                  "text": "Melekeok Bai este o atracție situată în Regierungsviertel Ngerulmud.",
+                  "text": "Casă tradițională de adunări palauziană cu sculpturi ornamentale în districtul administrativ Ngerulmud.",
                   "category": "landmark",
                   "coords": [
                         134.633317,
@@ -967,7 +967,7 @@ export const palauEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Tochobei",
-                  "text": "Tochobei is a mountain peak located in Regierungsviertel Ngerulmud.",
+                  "text": "Hill offering views over the capital Ngerulmud.",
                   "category": "natural",
                   "coords": [
                         134.628634,
@@ -985,7 +985,7 @@ export const palauEconomicV2: POI[] = [
             },
             {
                   "name": "Melekeok Bai",
-                  "text": "Melekeok Bai is an attraction located in Regierungsviertel Ngerulmud.",
+                  "text": "Traditional Palauan meeting house with intricate woodcarvings in Ngerulmud Administrative.",
                   "category": "landmark",
                   "coords": [
                         134.633317,

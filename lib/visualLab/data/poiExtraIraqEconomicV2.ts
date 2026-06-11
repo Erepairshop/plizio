@@ -38,7 +38,52 @@ export const poiExtraIraqEconomicV2: POI[] = [
       fr: ["Le champ a été officiellement découvert en 1953.", "C'est le troisième plus grand champ pétrolifère au monde en termes de réserves et de superficie.", "Rumaila dispose de réserves récupérables estimées à 17 milliards de barils.", "La production quotidienne est d'environ 1,4 à 1,5 million de barils de pétrole brut.", "Le champ pétrolifère a été un point de litige central lors du déclenchement de la seconde guerre du Golfe en 1990.", "Plus de 30 000 personnes sont employées directement ou indirectement dans l'exploitation du champ."],
     }, image: "/poi-images/rumaila-oil-field-economic-v2.webp"},
   {
-    id: "majnoon-oil-field-economic-v2",
+    id: "majnoon-oil-field-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "PC Masjid",
+                  "text": "Eine Moschee, die den Arbeitern auf dem Majnoon-Ölfeld einen wichtigen Ort für das tägliche Gebet bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        47.610398,
+                        31.073453
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "PC Masjid",
+                  "text": "Mecset, amely elengedhetetlen mindennapi imádkozóhelyet biztosít a majnuni olajmező munkásainak.",
+                  "category": "landmark",
+                  "coords": [
+                        47.610398,
+                        31.073453
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "PC Masjid",
+                  "text": "O moschee care oferă un spațiu de rugăciune zilnic esențial pentru muncitorii de pe câmpul petrolier Majnoon.",
+                  "category": "landmark",
+                  "coords": [
+                        47.610398,
+                        31.073453
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "PC Masjid",
+                  "text": "A mosque providing an essential daily prayer space for workers at the Majnoon oil field.",
+                  "category": "landmark",
+                  "coords": [
+                        47.610398,
+                        31.073453
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "IQ-BA",
     coords: [47.66, 31.06],
@@ -74,7 +119,52 @@ export const poiExtraIraqEconomicV2: POI[] = [
     },
   },
   {
-    id: "umm-qasr-port-economic-v2",
+    id: "umm-qasr-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zehn Sonar",
+                  "text": "Ein Aussichtspunkt über den Hafen von Umm Qasr, der den Blick auf die massiven Containerschiffe und Kräne freigibt.",
+                  "category": "natural",
+                  "coords": [
+                        47.923386,
+                        30.060268
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ten sonar",
+                  "text": "Kilátópont az Umm Qasr-i kikötő felett, ahonnan rálátni a hatalmas konténerszállító hajókra és darukra.",
+                  "category": "natural",
+                  "coords": [
+                        47.923386,
+                        30.060268
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ten sonar",
+                  "text": "Un punct de observație deasupra portului Umm Qasr, care oferă o vedere asupra navelor portcontainer masive și a macaralelor.",
+                  "category": "natural",
+                  "coords": [
+                        47.923386,
+                        30.060268
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ten sonar",
+                  "text": "A viewpoint overlooking Umm Qasr port, offering a look at the massive container ships and cranes.",
+                  "category": "natural",
+                  "coords": [
+                        47.923386,
+                        30.060268
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "IQ-BA",
     coords: [47.93, 30.04],
@@ -109,7 +199,88 @@ export const poiExtraIraqEconomicV2: POI[] = [
       fr: ["Umm Qasr a été fondé en 1958 comme alternative au port de Bassorah.", "Le port dispose d'une profondeur d'eau allant jusqu'à 12,5 mètres.", "En 2003, Umm Qasr a été le théâtre de la première grande bataille navale de la guerre d'Irak.", "Plus de 80 % des importations de céréales irakiennes transitent par ce port.", "Le port est directement relié à Bagdad par une ligne ferroviaire stratégique.", "L'administration est divisée en un port nord et un port sud avec un total de 21 postes d'amarrage."],
     }, image: "/poi-images/umm-qasr-port-economic-v2.webp"},
   {
-    id: "al-faw-grand-port-economic-v2",
+    id: "al-faw-grand-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "AL Faw Gate",
+                  "text": "Das AL Faw Gate ist ein markantes bauliches Denkmal, das den Eingang zum strategischen Entwicklungsgebiet des Al Faw Grand Port markiert.",
+                  "category": "historical",
+                  "coords": [
+                        48.46349,
+                        29.974203
+                  ]
+            },
+            {
+                  "name": "Fischmarkt",
+                  "text": "In der Nähe des geschäftigen Hafens gelegen, bietet dieser lebhafte Fischmarkt den frischesten Fang des Tages direkt von lokalen Golf-Fischern.",
+                  "category": "cultural",
+                  "coords": [
+                        48.483597,
+                        29.974998
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "AL Faw Gate",
+                  "text": "Az AL Faw Gate egy kiemelkedő építészeti emlékmű, amely a stratégiai jelentőségű Al Faw Grand Port fejlesztési terület bejáratát jelzi.",
+                  "category": "historical",
+                  "coords": [
+                        48.46349,
+                        29.974203
+                  ]
+            },
+            {
+                  "name": "Fish market",
+                  "text": "A forgalmas kikötő közelében található pezsgő halpiac a nap legfrissebb fogását kínálja közvetlenül a helyi öböl menti halászoktól.",
+                  "category": "cultural",
+                  "coords": [
+                        48.483597,
+                        29.974998
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "AL Faw Gate",
+                  "text": "Poarta AL Faw este un monument structural proeminent care marchează intrarea în zona de dezvoltare strategică Al Faw Grand Port.",
+                  "category": "historical",
+                  "coords": [
+                        48.46349,
+                        29.974203
+                  ]
+            },
+            {
+                  "name": "Fish market",
+                  "text": "Situată în apropierea portului aglomerat, această piață vibrantă de pește oferă cea mai proaspătă captură a zilei direct de la pescarii locali din Golf.",
+                  "category": "cultural",
+                  "coords": [
+                        48.483597,
+                        29.974998
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "AL Faw Gate",
+                  "text": "AL Faw Gate is a prominent structural monument marking the entrance to the strategic Al Faw Grand Port development area.",
+                  "category": "historical",
+                  "coords": [
+                        48.46349,
+                        29.974203
+                  ]
+            },
+            {
+                  "name": "Fish market",
+                  "text": "Located near the busy port, this vibrant fish market offers the day's freshest catch directly from local Gulf fishermen.",
+                  "category": "cultural",
+                  "coords": [
+                        48.483597,
+                        29.974998
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "IQ-BA",
     coords: [48.48, 29.98],
@@ -214,7 +385,124 @@ export const poiExtraIraqEconomicV2: POI[] = [
       fr: ["Le terminal a été initialement mis en service en 1975.", "Il dispose de quatre postes d'amarrage pouvant charger simultanément des pétroliers VLCC.", "La capacité d'exportation maximale dépasse 1,6 million de barils par jour.", "L'installation est située dans des eaux d'une profondeur d'environ 30 mètres.", "Il est relié à la station côtière d'Al-Faw par trois oléoducs de 48 pouces.", "Le terminal génère plus de 70 % des revenus d'exportation totaux de l'Irak."],
     }, image: "/poi-images/basra-oil-terminal-economic-v2.webp"},
   {
-    id: "baiji-oil-refinery-economic-v2",
+    id: "baiji-oil-refinery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Imam Shafi`i Mosque",
+                  "text": "Ein bedeutendes religiöses Denkmal in Baiji, das an die Lehren eines der vier großen Imame des sunnitischen Islam erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        43.563459,
+                        35.012313
+                  ]
+            },
+            {
+                  "name": "Al Fatha",
+                  "text": "Diese Ruinen liegen nahe der strategischen Fatha-Schlucht, wo der Tigris das Hamrin-Gebirge durchbricht.",
+                  "category": "historical",
+                  "coords": [
+                        43.5525,
+                        35.063611
+                  ]
+            },
+            {
+                  "name": "Mosque Farouk",
+                  "text": "Diese Moschee dient als lokales islamisches Gotteshaus für die Gemeinde in der Nähe der Baiji-Raffinerie.",
+                  "category": "landmark",
+                  "coords": [
+                        43.464362,
+                        35.006129
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Imam Shafi`i Mosque",
+                  "text": "Jelentős vallási emlékmű Baidzsiban, amely a szunnita iszlám négy nagy imámja egyikének tanításaira emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        43.563459,
+                        35.012313
+                  ]
+            },
+            {
+                  "name": "Al Fatha",
+                  "text": "Ezek a romok a stratégiai fontosságú Fatha-szoros közelében fekszenek, ahol a Tigris áttöri a Hamrin-hegységet.",
+                  "category": "historical",
+                  "coords": [
+                        43.5525,
+                        35.063611
+                  ]
+            },
+            {
+                  "name": "Mosque Farouk",
+                  "text": "Helyi iszlám imaház a Baiji olajfinomító közelében élő közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        43.464362,
+                        35.006129
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Imam Shafi`i Mosque",
+                  "text": "Un monument religios important în Baiji, care amintește de învățăturile unuia dintre cei patru mari imami ai islamului sunnit.",
+                  "category": "historical",
+                  "coords": [
+                        43.563459,
+                        35.012313
+                  ]
+            },
+            {
+                  "name": "Al Fatha",
+                  "text": "Aceste ruine sunt situate lângă defileul strategic Fatha, unde fluviul Tigru străpunge munții Hamrin.",
+                  "category": "historical",
+                  "coords": [
+                        43.5525,
+                        35.063611
+                  ]
+            },
+            {
+                  "name": "Mosque Farouk",
+                  "text": "Această moschee servește ca lăcaș de cult islamic local pentru comunitatea din apropierea rafinăriei Baiji.",
+                  "category": "landmark",
+                  "coords": [
+                        43.464362,
+                        35.006129
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Imam Shafi`i Mosque",
+                  "text": "An important religious monument in Baiji, commemorating the teachings of one of the four great imams of Sunni Islam.",
+                  "category": "historical",
+                  "coords": [
+                        43.563459,
+                        35.012313
+                  ]
+            },
+            {
+                  "name": "Al Fatha",
+                  "text": "These ruins are located near the strategic Fatha Gorge, where the Tigris river cuts through the Hamrin Mountains.",
+                  "category": "historical",
+                  "coords": [
+                        43.5525,
+                        35.063611
+                  ]
+            },
+            {
+                  "name": "Mosque Farouk",
+                  "text": "A local Islamic place of worship serving the community near the Baiji oil refinery.",
+                  "category": "landmark",
+                  "coords": [
+                        43.464362,
+                        35.006129
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "IQ-SD",
     coords: [43.51, 35.01],
@@ -249,7 +537,1348 @@ export const poiExtraIraqEconomicV2: POI[] = [
       fr: ["Baïji avait une capacité de pointe de 310 000 barils par jour avant la guerre.", "Le complexe s'étend sur une superficie de plusieurs kilomètres carrés.", "La raffinerie a été officiellement inaugurée en 1982.", "Lors du siège de 2014, l'installation a été lourdement endommagée par l'artillerie.", "Plus de 3 000 ouvriers travaillaient dans la raffinerie avant les destructions.", "La réouverture de l'unité Salahuddin en 2021 a été une étape historique."],
     }, image: "/poi-images/baiji-oil-refinery-economic-v2.webp"},
   {
-    id: "daura-refinery-economic-v2",
+    id: "daura-refinery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mamal Tahin al Ahar",
+                  "text": "Eine traditionelle Windmühle, die historisch für die Verarbeitung von Sesam zu Tahini genutzt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        44.369027,
+                        33.174993
+                  ]
+            },
+            {
+                  "name": "Tall Aswad",
+                  "text": "Ein natürlicher Hügel, der sich über die Landschaft in der Nähe des Raffineriegeländes von Daura erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        44.316043,
+                        33.228249
+                  ]
+            },
+            {
+                  "name": "washout",
+                  "text": "Ein Aussichtspunkt mit Blick auf die erodierten Ufer und die Landschaft entlang des Tigris.",
+                  "category": "natural",
+                  "coords": [
+                        44.325822,
+                        33.229864
+                  ]
+            },
+            {
+                  "name": "Node 31",
+                  "text": "Ein ausgewiesener Aussichtspunkt, der einen erhöhten Blick auf das umliegende Stadt- und Industrieviertel bietet.",
+                  "category": "natural",
+                  "coords": [
+                        44.30965,
+                        33.247177
+                  ]
+            },
+            {
+                  "name": "center Baghdad restaurant",
+                  "text": "Ein Platz am Flussufer mit freiem Blick auf die Skyline des Zentrums von Bagdad.",
+                  "category": "natural",
+                  "coords": [
+                        44.334731,
+                        33.248366
+                  ]
+            },
+            {
+                  "name": "Wonderland Baghdad",
+                  "text": "Ein großer, familienfreundlicher Vergnügungspark mit verschiedenen Fahrgeschäften und Attraktionen in der Hauptstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        44.364684,
+                        33.267531
+                  ]
+            },
+            {
+                  "name": "Taqwa Mosque",
+                  "text": "Eine lokale Moschee, die der Gemeinde mit ihrer markanten Kuppel und ihrem Minarett dient.",
+                  "category": "religious",
+                  "coords": [
+                        44.37434,
+                        33.24083
+                  ]
+            },
+            {
+                  "name": "New Day Park",
+                  "text": "Eine gestaltete Grünanlage, die einen ruhigen Rückzugsort in der städtischen Umgebung von Daura bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        44.410969,
+                        33.243331
+                  ]
+            },
+            {
+                  "name": "Dijlah neighborhood",
+                  "text": "Ein Viertel am Flussufer, bekannt für seine Nähe zum Tigris und seine malerische Atmosphäre am Wasser.",
+                  "category": "landmark",
+                  "coords": [
+                        44.422371,
+                        33.234801
+                  ]
+            },
+            {
+                  "name": "Tall Rahab Jar",
+                  "text": "Eine markante Hügelformation am Rande des Bezirks Daura.",
+                  "category": "natural",
+                  "coords": [
+                        44.413687,
+                        33.199413
+                  ]
+            },
+            {
+                  "name": "Tall Zuaytir",
+                  "text": "Eine natürliche Erhebung, die ein geografisches Wahrzeichen im südlichen Teil von Bagdad darstellt.",
+                  "category": "natural",
+                  "coords": [
+                        44.41993,
+                        33.202299
+                  ]
+            },
+            {
+                  "name": "Al-Karkh Waterpark",
+                  "text": "Eine beliebte Freizeiteinrichtung mit Schwimmbecken und Wasserrutschen für die sommerliche Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        44.341337,
+                        33.25688
+                  ]
+            },
+            {
+                  "name": "Al-Karkh Amusement Park",
+                  "text": "Ein städtischer Freizeitpark, der traditionelle Jahrmarktsgeschäfte und Unterhaltung für einheimische Familien bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        44.340583,
+                        33.255093
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Ein Veranstaltungsort unter freiem Himmel, der für öffentliche Aufführungen und kulturelle Zusammenkünfte im Viertel konzipiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        44.363767,
+                        33.266755
+                  ]
+            },
+            {
+                  "name": "Two Stories Bridge",
+                  "text": "Ein einzigartiges, doppelstöckiges Ingenieurbauwerk, das den Verkehr auf zwei Ebenen über den Tigris führt.",
+                  "category": "landmark",
+                  "coords": [
+                        44.406558,
+                        33.280104
+                  ]
+            },
+            {
+                  "name": "The Oppining Mind Arch",
+                  "text": "Ein modernes Gedenktor, das als symbolisches Wahrzeichen im Gebiet von Daura steht.",
+                  "category": "historical",
+                  "coords": [
+                        44.385532,
+                        33.279892
+                  ]
+            },
+            {
+                  "name": "Imam Ali mosque",
+                  "text": "Eine Gemeindemoschee, die dem ersten Imam des schiitischen Islam gewidmet ist und ein traditionelles islamisches Design aufweist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.300665,
+                        33.231973
+                  ]
+            },
+            {
+                  "name": "Lady Ruqayya Mosque",
+                  "text": "Eine Gebetsstätte, die zu Ehren von Lady Ruqayya benannt wurde, einer bedeutenden Figur der islamischen Geschichte.",
+                  "category": "landmark",
+                  "coords": [
+                        44.309986,
+                        33.234536
+                  ]
+            },
+            {
+                  "name": "The Heart of Jesus Orthodox Church",
+                  "text": "Eine christliche Gebetsstätte, die der lokalen orthodoxen Gemeinde mit traditionellen liturgischen Diensten dient.",
+                  "category": "religious",
+                  "coords": [
+                        44.304448,
+                        33.246731
+                  ]
+            },
+            {
+                  "name": "alftian",
+                  "text": "Ein lokales geistliches Zentrum, das Raum für Gebete und religiöse Versammlungen im Viertel bietet.",
+                  "category": "religious",
+                  "coords": [
+                        44.352408,
+                        33.252443
+                  ]
+            },
+            {
+                  "name": "Mosque of Sadiq Al Amin",
+                  "text": "Eine religiöse Stätte mit dem Namen „Der Wahrhaftige und Vertrauenswürdige“, die klassische islamische Bauelemente widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        44.339992,
+                        33.263338
+                  ]
+            },
+            {
+                  "name": "Collector Balat al-Shuhada",
+                  "text": "Eine Moschee und ein Gemeinschaftsraum, benannt zum Gedenken an historische Persönlichkeiten, der für tägliche Gebete genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        44.362583,
+                        33.261516
+                  ]
+            },
+            {
+                  "name": "Masjid Al Huda",
+                  "text": "Eine Stadtviertelmoschee, die religiöse Orientierung und eine ruhige Atmosphäre für die Kontemplation bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        44.3568,
+                        33.240391
+                  ]
+            },
+            {
+                  "name": "Al-Bustani Mosque",
+                  "text": "Eine Gemeindemoschee, die sich in der Wohnlandschaft des Viertels Daura befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        44.340416,
+                        33.219229
+                  ]
+            },
+            {
+                  "name": "Walaya Ali Mosque",
+                  "text": "Eine schiitische Gebetsstätte, die die geistliche Führung von Imam Ali betont.",
+                  "category": "landmark",
+                  "coords": [
+                        44.342996,
+                        33.217531
+                  ]
+            },
+            {
+                  "name": "Um Al-Banin Mosque",
+                  "text": "Eine religiöse Stätte, die dem Gedenken an Um Al-Banin gewidmet ist, die in der islamischen Tradition für ihr Opfer verehrt wird.",
+                  "category": "religious",
+                  "coords": [
+                        44.3999,
+                        33.2226
+                  ]
+            },
+            {
+                  "name": "Ahmed Almoktar Mosque",
+                  "text": "Ein modernes islamisches Gebäude, das als Zentrum für Gottesdienste und soziale Interaktion für die Bewohner dient.",
+                  "category": "landmark",
+                  "coords": [
+                        44.406516,
+                        33.231516
+                  ]
+            },
+            {
+                  "name": "Al-Arqam Ben Abi Al-Arqam",
+                  "text": "Eine Moschee, benannt nach einer wichtigen frühen Figur des Islam, bekannt dafür, die geheimen Treffen des Propheten beherbergt zu haben.",
+                  "category": "landmark",
+                  "coords": [
+                        44.395302,
+                        33.239999
+                  ]
+            },
+            {
+                  "name": "Makka Al Mukrma Mosque",
+                  "text": "Eine Gebetsstätte, benannt nach der heiligsten Stadt des Islam, mit einer traditionellen Gebetshalle.",
+                  "category": "landmark",
+                  "coords": [
+                        44.378467,
+                        33.255925
+                  ]
+            },
+            {
+                  "name": "Mu'tasim Bellah Mosque",
+                  "text": "Eine Moschee im historischen Stil, benannt nach dem achten abbasidischen Kalifen, der Samarra gründete.",
+                  "category": "landmark",
+                  "coords": [
+                        44.41169,
+                        33.252786
+                  ]
+            },
+            {
+                  "name": "Saint-Mart Shmoni Church",
+                  "text": "Eine Kirche, die der syrischen Heiligen Mart Shmoni gewidmet ist, die für ihren unerschütterlichen Glauben verehrt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        44.382609,
+                        33.257705
+                  ]
+            },
+            {
+                  "name": "Jesus The King Church",
+                  "text": "Eine lokale christliche Pfarrkirche, die der Gemeinde mit ihrer markanten architektonischen Präsenz dient.",
+                  "category": "landmark",
+                  "coords": [
+                        44.407245,
+                        33.285441
+                  ]
+            },
+            {
+                  "name": "omar bin al-khatab",
+                  "text": "Eine markante Moschee, benannt nach dem zweiten rechtgeleiteten Kalifen, die als Zentrum für sunnitische Gebete dient.",
+                  "category": "landmark",
+                  "coords": [
+                        44.332656,
+                        33.245115
+                  ]
+            },
+            {
+                  "name": "Al-Habib Al-Mustafa Mosque",
+                  "text": "Eine wunderschön gestaltete Moschee zu Ehren des Propheten Mohammed, die für spirituelle Zusammenkünfte der Gemeinde genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        44.329937,
+                        33.233553
+                  ]
+            },
+            {
+                  "name": "Saint Jacob Bishop Of Nisibis Church",
+                  "text": "Eine heilige Stätte, die dem syrischen Heiligen aus dem 4. Jahrhundert gewidmet ist, der für seine Anwesenheit beim Konzil von Nicäa bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.410428,
+                        33.236132
+                  ]
+            },
+            {
+                  "name": "Saint John Chaldean Church",
+                  "text": "Eine Pfarrkirche der chaldäisch-katholischen Gemeinde, bekannt für ihre traditionelle aramäische Liturgie.",
+                  "category": "landmark",
+                  "coords": [
+                        44.383804,
+                        33.252551
+                  ]
+            },
+            {
+                  "name": "Abu Disher Marketplace",
+                  "text": "Ein belebter lokaler Basar, auf dem die Bewohner mit frischen Produkten, traditionellen Gewürzen und Waren des täglichen Bedarfs handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        44.386077,
+                        33.21382
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mamal Tahin al Ahar",
+                  "text": "Hagyományos szélmalom, amelyet történelmileg szezámmag tahinivá történő feldolgozására használtak.",
+                  "category": "landmark",
+                  "coords": [
+                        44.369027,
+                        33.174993
+                  ]
+            },
+            {
+                  "name": "Tall Aswad",
+                  "text": "Természetes domb, amely kiemelkedik a tájból a Daura finomító közelében.",
+                  "category": "natural",
+                  "coords": [
+                        44.316043,
+                        33.228249
+                  ]
+            },
+            {
+                  "name": "washout",
+                  "text": "Kilátópont, ahonnan rálátás nyílik a Tigris menti erodált partokra és a tájra.",
+                  "category": "natural",
+                  "coords": [
+                        44.325822,
+                        33.229864
+                  ]
+            },
+            {
+                  "name": "Node 31",
+                  "text": "Kijelölt kilátóhely, ahonnan belátható a környező városi és ipari negyed.",
+                  "category": "natural",
+                  "coords": [
+                        44.30965,
+                        33.247177
+                  ]
+            },
+            {
+                  "name": "center Baghdad restaurant",
+                  "text": "Folyóparti helyszín, ahonnan tiszta kilátás nyílik Bagdad központjának panorámájára.",
+                  "category": "natural",
+                  "coords": [
+                        44.334731,
+                        33.248366
+                  ]
+            },
+            {
+                  "name": "Wonderland Baghdad",
+                  "text": "Nagy, családbarát vidámpark különféle játékokkal és kikapcsolódási lehetőségekkel a fővárosban.",
+                  "category": "recreational",
+                  "coords": [
+                        44.364684,
+                        33.267531
+                  ]
+            },
+            {
+                  "name": "Taqwa Mosque",
+                  "text": "Helyi mecset, amely jellegzetes kupolájával és minaretjével szolgálja a közösséget.",
+                  "category": "religious",
+                  "coords": [
+                        44.37434,
+                        33.24083
+                  ]
+            },
+            {
+                  "name": "New Day Park",
+                  "text": "Parkosított zöldterület, amely csendes menedéket nyújt Daura városi környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        44.410969,
+                        33.243331
+                  ]
+            },
+            {
+                  "name": "Dijlah neighborhood",
+                  "text": "Folyóparti negyed, amely a Tigris közelségéről és festői vízparti hangulatáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        44.422371,
+                        33.234801
+                  ]
+            },
+            {
+                  "name": "Tall Rajab hat",
+                  "text": "Jellegzetes dombformáció Daura negyed külvárosában.",
+                  "category": "natural",
+                  "coords": [
+                        44.413687,
+                        33.199413
+                  ]
+            },
+            {
+                  "name": "Tall Abu Mellah",
+                  "text": "Természetes magaslat, amely földrajzi tájékozódási pontként szolgál Bagdad déli részén.",
+                  "category": "natural",
+                  "coords": [
+                        44.41993,
+                        33.202299
+                  ]
+            },
+            {
+                  "name": "Al-Karkh Waterpark",
+                  "text": "Népszerű szabadidős létesítmény úszómedencékkel és csúszdákkal a nyári kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        44.341337,
+                        33.25688
+                  ]
+            },
+            {
+                  "name": "Al-Karkh Amusement Park",
+                  "text": "Városi vidámpark, amely hagyományos búcsúi játékokat és szórakozást kínál a helyi családoknak.",
+                  "category": "recreational",
+                  "coords": [
+                        44.340583,
+                        33.255093
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Szabadtéri helyszín, amelyet közösségi előadásokra és kulturális összejövetelekre terveztek a negyedben.",
+                  "category": "cultural",
+                  "coords": [
+                        44.363767,
+                        33.266755
+                  ]
+            },
+            {
+                  "name": "Two Stories Bridge",
+                  "text": "Egyedülálló kétszintes mérnöki alkotás, amely két szinten vezeti át a forgalmat a Tigris folyó felett.",
+                  "category": "landmark",
+                  "coords": [
+                        44.406558,
+                        33.280104
+                  ]
+            },
+            {
+                  "name": "The Oppining Mind Arch",
+                  "text": "Modern emlékkapu, amely Daura környékének szimbolikus nevezetessége.",
+                  "category": "historical",
+                  "coords": [
+                        44.385532,
+                        33.279892
+                  ]
+            },
+            {
+                  "name": "Imam Ali mosque",
+                  "text": "A síita iszlám első imámjának szentelt közösségi mecset, hagyományos iszlám építészeti stílusban.",
+                  "category": "landmark",
+                  "coords": [
+                        44.300665,
+                        33.231973
+                  ]
+            },
+            {
+                  "name": "Lady Ruqayya Mosque",
+                  "text": "Az iszlám történelem jelentős alakja, Ruqayya asszony tiszteletére elnevezett kegyhely.",
+                  "category": "landmark",
+                  "coords": [
+                        44.309986,
+                        33.234536
+                  ]
+            },
+            {
+                  "name": "The Heart of Jesus Orthodox Church",
+                  "text": "Keresztény templom, amely a helyi ortodox közösséget szolgálja hagyományos liturgikus szertartásokkal.",
+                  "category": "religious",
+                  "coords": [
+                        44.304448,
+                        33.246731
+                  ]
+            },
+            {
+                  "name": "alftian",
+                  "text": "Helyi szellemi központ, amely imádságra és vallási összejövetelekre ad helyet a negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        44.352408,
+                        33.252443
+                  ]
+            },
+            {
+                  "name": "Mosque of Sadiq Al Amin",
+                  "text": "Az „Igazmondó és Megbízható” nevet viselő vallási helyszín, amely a klasszikus iszlám építészet elemeit tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        44.339992,
+                        33.263338
+                  ]
+            },
+            {
+                  "name": "Collector Balat al-Shuhada",
+                  "text": "Történelmi alakok emlékére elnevezett mecset és közösségi tér, amelyet napi imádságokra használnak.",
+                  "category": "religious",
+                  "coords": [
+                        44.362583,
+                        33.261516
+                  ]
+            },
+            {
+                  "name": "Masjid Al Huda",
+                  "text": "Környékbeli mecset, amely vallási útmutatást és nyugodt légkört biztosít az elmélkedéshez.",
+                  "category": "landmark",
+                  "coords": [
+                        44.3568,
+                        33.240391
+                  ]
+            },
+            {
+                  "name": "Al-Bustani Mosque",
+                  "text": "Közösségi mecset Daura lakónegyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        44.340416,
+                        33.219229
+                  ]
+            },
+            {
+                  "name": "Walaya Ali Mosque",
+                  "text": "Síita kegyhely, amely Ali imám szellemi vezetését hangsúlyozza.",
+                  "category": "landmark",
+                  "coords": [
+                        44.342996,
+                        33.217531
+                  ]
+            },
+            {
+                  "name": "Um Al-Banin Mosque",
+                  "text": "Um Al-Banin emlékének szentelt vallási helyszín, akit az iszlám hagyományban áldozatkészségéért tisztelnek.",
+                  "category": "religious",
+                  "coords": [
+                        44.3999,
+                        33.2226
+                  ]
+            },
+            {
+                  "name": "Ahmed Almoktar Mosque",
+                  "text": "Modern iszlám építmény, amely istentiszteleti és társadalmi központként szolgál a lakosok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        44.406516,
+                        33.231516
+                  ]
+            },
+            {
+                  "name": "Al-Arqam Ben Abi Al-Arqam",
+                  "text": "Az iszlám egy fontos korai alakjáról elnevezett mecset, aki a Próféta titkos találkozóinak befogadásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        44.395302,
+                        33.239999
+                  ]
+            },
+            {
+                  "name": "Makka Al Mukrma Mosque",
+                  "text": "Az iszlám legszentebb városáról elnevezett imáhely, hagyományos imateremmel.",
+                  "category": "landmark",
+                  "coords": [
+                        44.378467,
+                        33.255925
+                  ]
+            },
+            {
+                  "name": "Mu'tasim Bellah Mosque",
+                  "text": "Történelmi stílusú mecset, amelyet a Szamarrát alapító nyolcadik abbászida kalifáról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        44.41169,
+                        33.252786
+                  ]
+            },
+            {
+                  "name": "Saint-Mart Shmoni Church",
+                  "text": "Mart Shmoni szír szentnek szentelt templom, akit rendíthetetlen hitéért tisztelnek.",
+                  "category": "landmark",
+                  "coords": [
+                        44.382609,
+                        33.257705
+                  ]
+            },
+            {
+                  "name": "Jesus The King Church",
+                  "text": "Helyi keresztény plébániatemplom, amely jellegzetes építészeti megjelenésével szolgálja a közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        44.407245,
+                        33.285441
+                  ]
+            },
+            {
+                  "name": "omar bin al-khatab",
+                  "text": "A második rásidun kalifáról elnevezett jelentős mecset, amely a helyi szunnita vallásgyakorlat központja.",
+                  "category": "landmark",
+                  "coords": [
+                        44.332656,
+                        33.245115
+                  ]
+            },
+            {
+                  "name": "Al-Habib Al-Mustafa Mosque",
+                  "text": "Szépen kialakított mecset Mohamed próféta tiszteletére, amelyet közösségi spirituális találkozókra használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        44.329937,
+                        33.233553
+                  ]
+            },
+            {
+                  "name": "Saint Jacob Bishop Of Nisibis Church",
+                  "text": "A 4. századi szír szentnek szentelt szakrális hely, aki a nikaiai zsinaton való részvételéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        44.410428,
+                        33.236132
+                  ]
+            },
+            {
+                  "name": "Saint John Chaldean Church",
+                  "text": "A káld katolikus közösség plébániatemploma, amely hagyományos arámi liturgiájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        44.383804,
+                        33.252551
+                  ]
+            },
+            {
+                  "name": "Abu Disher Marketplace",
+                  "text": "Nyüzsgő helyi bazár, ahol a lakosok friss termékekkel, hagyományos fűszerekkel és mindennapi cikkekkel kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        44.386077,
+                        33.21382
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mamal Tahin al Ahar",
+                  "text": "O moară de vânt tradițională, utilizată istoric pentru procesarea susanului în tahini.",
+                  "category": "landmark",
+                  "coords": [
+                        44.369027,
+                        33.174993
+                  ]
+            },
+            {
+                  "name": "Tall Aswad",
+                  "text": "O colină naturală care se ridică deasupra peisajului din apropierea zonei rafinăriei Daura.",
+                  "category": "natural",
+                  "coords": [
+                        44.316043,
+                        33.228249
+                  ]
+            },
+            {
+                  "name": "washout",
+                  "text": "Un punct de observare care oferă o panoramă asupra malurilor erodate și a peisajului de-a lungul Tigrului.",
+                  "category": "natural",
+                  "coords": [
+                        44.325822,
+                        33.229864
+                  ]
+            },
+            {
+                  "name": "Node 31",
+                  "text": "Un punct de belvedere care oferă o vedere panoramică asupra districtului urban și industrial din jur.",
+                  "category": "natural",
+                  "coords": [
+                        44.30965,
+                        33.247177
+                  ]
+            },
+            {
+                  "name": "center Baghdad restaurant",
+                  "text": "Un loc pe malul râului care oferă o vedere clară spre orizontul centrului Bagdadului.",
+                  "category": "natural",
+                  "coords": [
+                        44.334731,
+                        33.248366
+                  ]
+            },
+            {
+                  "name": "Wonderland Baghdad",
+                  "text": "Un parc de distracții mare pentru familii, cu diverse carusele și atracții recreative în capitală.",
+                  "category": "recreational",
+                  "coords": [
+                        44.364684,
+                        33.267531
+                  ]
+            },
+            {
+                  "name": "Taqwa Mosque",
+                  "text": "O moschee locală care deservește comunitatea, având o cupolă și un minaret distinctive.",
+                  "category": "religious",
+                  "coords": [
+                        44.37434,
+                        33.24083
+                  ]
+            },
+            {
+                  "name": "New Day Park",
+                  "text": "Un spațiu verde amenajat care oferă un refugiu liniștit în mediul urban din Daura.",
+                  "category": "landmark",
+                  "coords": [
+                        44.410969,
+                        33.243331
+                  ]
+            },
+            {
+                  "name": "Dijlah neighborhood",
+                  "text": "Un district situat pe malul râului, cunoscut pentru proximitatea sa față de Tigru și atmosfera pitorească de pe faleză.",
+                  "category": "landmark",
+                  "coords": [
+                        44.422371,
+                        33.234801
+                  ]
+            },
+            {
+                  "name": "Tall Rajab hat",
+                  "text": "O formațiune deluroasă notabilă situată la periferia districtului Daura.",
+                  "category": "natural",
+                  "coords": [
+                        44.413687,
+                        33.199413
+                  ]
+            },
+            {
+                  "name": "Tall Abu Mellah",
+                  "text": "O elevație naturală care reprezintă un reper geografic în regiunea de sud a Bagdadului.",
+                  "category": "natural",
+                  "coords": [
+                        44.41993,
+                        33.202299
+                  ]
+            },
+            {
+                  "name": "Al-Karkh Waterpark",
+                  "text": "O facilitate recreativă populară, cu piscine și tobogane de apă pentru petrecerea timpului liber în timpul verii.",
+                  "category": "recreational",
+                  "coords": [
+                        44.341337,
+                        33.25688
+                  ]
+            },
+            {
+                  "name": "Al-Karkh Amusement Park",
+                  "text": "Un parc de distracții urban care oferă carusele tradiționale și divertisment pentru familiile locale.",
+                  "category": "recreational",
+                  "coords": [
+                        44.340583,
+                        33.255093
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Un loc în aer liber conceput pentru spectacole publice și adunări culturale în cartier.",
+                  "category": "cultural",
+                  "coords": [
+                        44.363767,
+                        33.266755
+                  ]
+            },
+            {
+                  "name": "Two Stories Bridge",
+                  "text": "O realizare inginerească unică, un pod cu două etaje care transportă traficul pe două niveluri peste râul Tigru.",
+                  "category": "landmark",
+                  "coords": [
+                        44.406558,
+                        33.280104
+                  ]
+            },
+            {
+                  "name": "The Oppining Mind Arch",
+                  "text": "Un arc comemorativ modern, care servește drept reper simbolic în zona Daura.",
+                  "category": "historical",
+                  "coords": [
+                        44.385532,
+                        33.279892
+                  ]
+            },
+            {
+                  "name": "Imam Ali mosque",
+                  "text": "O moschee comunitară dedicată primului imam al islamului șiit, cu un design islamic tradițional.",
+                  "category": "landmark",
+                  "coords": [
+                        44.300665,
+                        33.231973
+                  ]
+            },
+            {
+                  "name": "Lady Ruqayya Mosque",
+                  "text": "Un lăcaș de cult numit în onoarea Doamnei Ruqayya, o figură semnificativă în istoria islamică.",
+                  "category": "landmark",
+                  "coords": [
+                        44.309986,
+                        33.234536
+                  ]
+            },
+            {
+                  "name": "The Heart of Jesus Orthodox Church",
+                  "text": "Un lăcaș de cult creștin care deservește comunitatea ortodoxă locală cu servicii liturgice tradiționale.",
+                  "category": "religious",
+                  "coords": [
+                        44.304448,
+                        33.246731
+                  ]
+            },
+            {
+                  "name": "alftian",
+                  "text": "Un centru spiritual local care oferă spațiu pentru rugăciune și adunări religioase în district.",
+                  "category": "religious",
+                  "coords": [
+                        44.352408,
+                        33.252443
+                  ]
+            },
+            {
+                  "name": "Mosque of Sadiq Al Amin",
+                  "text": "Un sit religios numit „Cel Sincer și Demn de Încredere”, care reflectă elemente arhitecturale islamice clasice.",
+                  "category": "landmark",
+                  "coords": [
+                        44.339992,
+                        33.263338
+                  ]
+            },
+            {
+                  "name": "Collector Balat al-Shuhada",
+                  "text": "O moschee și spațiu comunitar numit în memoria unor figuri istorice, utilizat pentru rugăciunile zilnice.",
+                  "category": "religious",
+                  "coords": [
+                        44.362583,
+                        33.261516
+                  ]
+            },
+            {
+                  "name": "Masjid Al Huda",
+                  "text": "O moschee de cartier care oferă îndrumare religioasă și o atmosferă liniștită pentru contemplație.",
+                  "category": "landmark",
+                  "coords": [
+                        44.3568,
+                        33.240391
+                  ]
+            },
+            {
+                  "name": "Al-Bustani Mosque",
+                  "text": "O moschee comunitară situată în peisajul rezidențial al cartierului Daura.",
+                  "category": "landmark",
+                  "coords": [
+                        44.340416,
+                        33.219229
+                  ]
+            },
+            {
+                  "name": "Walaya Ali Mosque",
+                  "text": "Un lăcaș de cult șiit care pune accent pe conducerea spirituală a Imamului Ali.",
+                  "category": "landmark",
+                  "coords": [
+                        44.342996,
+                        33.217531
+                  ]
+            },
+            {
+                  "name": "Um Al-Banin Mosque",
+                  "text": "Un sit religios dedicat memoriei lui Um Al-Banin, respectată pentru sacrificiul său în tradiția islamică.",
+                  "category": "religious",
+                  "coords": [
+                        44.3999,
+                        33.2226
+                  ]
+            },
+            {
+                  "name": "Ahmed Almoktar Mosque",
+                  "text": "O structură islamică modernă care servește drept centru pentru cult și interacțiune socială pentru rezidenți.",
+                  "category": "landmark",
+                  "coords": [
+                        44.406516,
+                        33.231516
+                  ]
+            },
+            {
+                  "name": "Al-Arqam Ben Abi Al-Arqam",
+                  "text": "O moschee numită după o figură cheie timpurie a islamului, cunoscută pentru găzduirea întâlnirilor secrete ale Profetului.",
+                  "category": "landmark",
+                  "coords": [
+                        44.395302,
+                        33.239999
+                  ]
+            },
+            {
+                  "name": "Makka Al Mukrma Mosque",
+                  "text": "Un lăcaș de rugăciune numit după cel mai sfânt oraș al islamului, având o sală de rugăciune tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        44.378467,
+                        33.255925
+                  ]
+            },
+            {
+                  "name": "Mu'tasim Bellah Mosque",
+                  "text": "O moschee în stil istoric, numită după al optulea calif abasid care a fondat Samarra.",
+                  "category": "landmark",
+                  "coords": [
+                        44.41169,
+                        33.252786
+                  ]
+            },
+            {
+                  "name": "Saint-Mart Shmoni Church",
+                  "text": "O biserică dedicată sfintei siriene Mart Shmoni, venerată pentru credința ei neclintită.",
+                  "category": "landmark",
+                  "coords": [
+                        44.382609,
+                        33.257705
+                  ]
+            },
+            {
+                  "name": "Jesus The King Church",
+                  "text": "O biserică parohială creștină locală care deservește comunitatea prin prezența sa arhitecturală distinctivă.",
+                  "category": "landmark",
+                  "coords": [
+                        44.407245,
+                        33.285441
+                  ]
+            },
+            {
+                  "name": "omar bin al-khatab",
+                  "text": "O moschee proeminentă numită după al doilea calif Rashidun, servind ca centru pentru cultul sunnit local.",
+                  "category": "landmark",
+                  "coords": [
+                        44.332656,
+                        33.245115
+                  ]
+            },
+            {
+                  "name": "Al-Habib Al-Mustafa Mosque",
+                  "text": "O moschee frumos proiectată care îl onorează pe Profetul Mahomed, utilizată pentru adunări spirituale ale comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        44.329937,
+                        33.233553
+                  ]
+            },
+            {
+                  "name": "Saint Jacob Bishop Of Nisibis Church",
+                  "text": "Un sit sacru dedicat sfântului sirian din secolul al IV-lea, cunoscut pentru prezența sa la Conciliul de la Niceea.",
+                  "category": "landmark",
+                  "coords": [
+                        44.410428,
+                        33.236132
+                  ]
+            },
+            {
+                  "name": "Saint John Chaldean Church",
+                  "text": "O biserică parohială a comunității caldeene catolice, cunoscută pentru liturghia sa tradițională în aramaică.",
+                  "category": "landmark",
+                  "coords": [
+                        44.383804,
+                        33.252551
+                  ]
+            },
+            {
+                  "name": "Abu Disher Marketplace",
+                  "text": "Un bazar local plin de viață, unde locuitorii fac schimb de produse proaspete, condimente tradiționale și bunuri de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        44.386077,
+                        33.21382
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mamal Tahin al Ahar",
+                  "text": "A traditional windmill structure historically used for processing sesame into tahini.",
+                  "category": "landmark",
+                  "coords": [
+                        44.369027,
+                        33.174993
+                  ]
+            },
+            {
+                  "name": "Tall Aswad",
+                  "text": "A natural mound rising above the landscape near the Daura refinery area.",
+                  "category": "natural",
+                  "coords": [
+                        44.316043,
+                        33.228249
+                  ]
+            },
+            {
+                  "name": "washout",
+                  "text": "A scenic viewpoint offering a vista over the eroded banks and landscape along the Tigris.",
+                  "category": "natural",
+                  "coords": [
+                        44.325822,
+                        33.229864
+                  ]
+            },
+            {
+                  "name": "Node 31",
+                  "text": "A designated vantage point providing an elevated view of the surrounding urban and industrial district.",
+                  "category": "natural",
+                  "coords": [
+                        44.30965,
+                        33.247177
+                  ]
+            },
+            {
+                  "name": "center Baghdad restaurant",
+                  "text": "A riverside spot offering a clear view towards the skyline of central Baghdad.",
+                  "category": "natural",
+                  "coords": [
+                        44.334731,
+                        33.248366
+                  ]
+            },
+            {
+                  "name": "Wonderland Baghdad",
+                  "text": "A large family-oriented amusement park featuring various rides and recreational attractions in the capital.",
+                  "category": "recreational",
+                  "coords": [
+                        44.364684,
+                        33.267531
+                  ]
+            },
+            {
+                  "name": "Taqwa Mosque",
+                  "text": "A local mosque serving the community with its distinctive architectural dome and minaret.",
+                  "category": "religious",
+                  "coords": [
+                        44.37434,
+                        33.24083
+                  ]
+            },
+            {
+                  "name": "New Day Park",
+                  "text": "A landscaped green space providing a quiet retreat amidst the urban environment of Daura.",
+                  "category": "landmark",
+                  "coords": [
+                        44.410969,
+                        33.243331
+                  ]
+            },
+            {
+                  "name": "Dijlah neighborhood",
+                  "text": "A riverside district known for its proximity to the Tigris and its scenic waterfront atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        44.422371,
+                        33.234801
+                  ]
+            },
+            {
+                  "name": "Tall Rajab hat",
+                  "text": "A notable hill formation located in the outskirts of the Daura district.",
+                  "category": "natural",
+                  "coords": [
+                        44.413687,
+                        33.199413
+                  ]
+            },
+            {
+                  "name": "Tall Abu Mellah",
+                  "text": "A natural elevation providing a geographical landmark in the southern Baghdad region.",
+                  "category": "natural",
+                  "coords": [
+                        44.41993,
+                        33.202299
+                  ]
+            },
+            {
+                  "name": "Al-Karkh Waterpark",
+                  "text": "A popular recreational facility featuring swimming pools and water slides for summer leisure.",
+                  "category": "recreational",
+                  "coords": [
+                        44.341337,
+                        33.25688
+                  ]
+            },
+            {
+                  "name": "Al-Karkh Amusement Park",
+                  "text": "An urban theme park offering traditional fairground rides and entertainment for local families.",
+                  "category": "recreational",
+                  "coords": [
+                        44.340583,
+                        33.255093
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "An open-air venue designed for public performances and cultural gatherings in the neighborhood.",
+                  "category": "cultural",
+                  "coords": [
+                        44.363767,
+                        33.266755
+                  ]
+            },
+            {
+                  "name": "Two Stories Bridge",
+                  "text": "A unique double-decker engineering feat carrying traffic on two levels across the Tigris River.",
+                  "category": "landmark",
+                  "coords": [
+                        44.406558,
+                        33.280104
+                  ]
+            },
+            {
+                  "name": "The Oppining Mind Arch",
+                  "text": "A modern commemorative archway standing as a symbolic landmark in the Daura area.",
+                  "category": "historical",
+                  "coords": [
+                        44.385532,
+                        33.279892
+                  ]
+            },
+            {
+                  "name": "Imam Ali mosque",
+                  "text": "A community mosque dedicated to the first Imam of Shia Islam, featuring traditional Islamic design.",
+                  "category": "landmark",
+                  "coords": [
+                        44.300665,
+                        33.231973
+                  ]
+            },
+            {
+                  "name": "Lady Ruqayya Mosque",
+                  "text": "A place of worship named in honor of Lady Ruqayya, a significant figure in Islamic history.",
+                  "category": "landmark",
+                  "coords": [
+                        44.309986,
+                        33.234536
+                  ]
+            },
+            {
+                  "name": "The Heart of Jesus Orthodox Church",
+                  "text": "A Christian place of worship serving the local Orthodox community with traditional liturgical services.",
+                  "category": "religious",
+                  "coords": [
+                        44.304448,
+                        33.246731
+                  ]
+            },
+            {
+                  "name": "alftian",
+                  "text": "A local spiritual center providing a space for prayer and religious gathering in the district.",
+                  "category": "religious",
+                  "coords": [
+                        44.352408,
+                        33.252443
+                  ]
+            },
+            {
+                  "name": "Mosque of Sadiq Al Amin",
+                  "text": "A religious site named \"The Truthful and Trustworthy,\" reflecting classic Islamic architectural elements.",
+                  "category": "landmark",
+                  "coords": [
+                        44.339992,
+                        33.263338
+                  ]
+            },
+            {
+                  "name": "Collector Balat al-Shuhada",
+                  "text": "A mosque and communal space named in memory of historical figures, used for daily prayers.",
+                  "category": "religious",
+                  "coords": [
+                        44.362583,
+                        33.261516
+                  ]
+            },
+            {
+                  "name": "Masjid Al Huda",
+                  "text": "A neighborhood mosque offering religious guidance and a quiet atmosphere for contemplation.",
+                  "category": "landmark",
+                  "coords": [
+                        44.3568,
+                        33.240391
+                  ]
+            },
+            {
+                  "name": "Al-Bustani Mosque",
+                  "text": "A community mosque situated within the residential landscape of the Daura neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        44.340416,
+                        33.219229
+                  ]
+            },
+            {
+                  "name": "Walaya Ali Mosque",
+                  "text": "A Shia place of worship emphasizing the spiritual leadership of Imam Ali.",
+                  "category": "landmark",
+                  "coords": [
+                        44.342996,
+                        33.217531
+                  ]
+            },
+            {
+                  "name": "Um Al-Banin Mosque",
+                  "text": "A religious site dedicated to the memory of Um Al-Banin, respected for her sacrifice in Islamic tradition.",
+                  "category": "religious",
+                  "coords": [
+                        44.3999,
+                        33.2226
+                  ]
+            },
+            {
+                  "name": "Ahmed Almoktar Mosque",
+                  "text": "A modern Islamic structure serving as a center for worship and social interaction for residents.",
+                  "category": "landmark",
+                  "coords": [
+                        44.406516,
+                        33.231516
+                  ]
+            },
+            {
+                  "name": "Al-Arqam Ben Abi Al-Arqam",
+                  "text": "A mosque named after a key early figure in Islam, known for hosting the Prophet's secret meetings.",
+                  "category": "landmark",
+                  "coords": [
+                        44.395302,
+                        33.239999
+                  ]
+            },
+            {
+                  "name": "Makka Al Mukrma Mosque",
+                  "text": "A place of prayer named after the holiest city in Islam, featuring a traditional prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        44.378467,
+                        33.255925
+                  ]
+            },
+            {
+                  "name": "Mu'tasim Bellah Mosque",
+                  "text": "A historic-style mosque named after the eighth Abbasid Caliph who founded Samarra.",
+                  "category": "landmark",
+                  "coords": [
+                        44.41169,
+                        33.252786
+                  ]
+            },
+            {
+                  "name": "Saint-Mart Shmoni Church",
+                  "text": "A church dedicated to the Syriac saint Mart Shmoni, revered for her unwavering faith.",
+                  "category": "landmark",
+                  "coords": [
+                        44.382609,
+                        33.257705
+                  ]
+            },
+            {
+                  "name": "Jesus The King Church",
+                  "text": "A local Christian parish church serving the community with its distinctive architectural presence.",
+                  "category": "landmark",
+                  "coords": [
+                        44.407245,
+                        33.285441
+                  ]
+            },
+            {
+                  "name": "omar bin al-khatab",
+                  "text": "A prominent mosque named after the second Rashidun Caliph, serving as a center for local Sunni worship.",
+                  "category": "landmark",
+                  "coords": [
+                        44.332656,
+                        33.245115
+                  ]
+            },
+            {
+                  "name": "Al-Habib Al-Mustafa Mosque",
+                  "text": "A beautifully designed mosque honoring the Prophet Muhammad, used for community spiritual gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        44.329937,
+                        33.233553
+                  ]
+            },
+            {
+                  "name": "Saint Jacob Bishop Of Nisibis Church",
+                  "text": "A sacred site dedicated to the 4th-century Syriac saint known for his presence at the Council of Nicaea.",
+                  "category": "landmark",
+                  "coords": [
+                        44.410428,
+                        33.236132
+                  ]
+            },
+            {
+                  "name": "Saint John Chaldean Church",
+                  "text": "A parish church of the Chaldean Catholic community, known for its traditional Aramaic liturgy.",
+                  "category": "landmark",
+                  "coords": [
+                        44.383804,
+                        33.252551
+                  ]
+            },
+            {
+                  "name": "Abu Disher Marketplace",
+                  "text": "A bustling local bazaar where residents trade fresh produce, traditional spices, and everyday goods.",
+                  "category": "cultural",
+                  "coords": [
+                        44.386077,
+                        33.21382
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "IQ-BG",
     coords: [44.40, 33.26],
@@ -285,7 +1914,340 @@ export const poiExtraIraqEconomicV2: POI[] = [
     },
   },
   {
-    id: "basra-refinery-economic-v2",
+    id: "basra-refinery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Iraq oxygen plant",
+                  "text": "Ein markanter Industriekomplex innerhalb der Raffinerie von Basra, der für die regionale Wirtschaft von Bedeutung ist.",
+                  "category": "landmark",
+                  "coords": [
+                        47.861322,
+                        30.444776
+                  ]
+            },
+            {
+                  "name": "Husseiniya Bani Amer Al Bahadria",
+                  "text": "Ein schiitisches Gebetshaus in der Region Basra, das für religiöse Versammlungen und Trauerfeiern genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        47.870771,
+                        30.47051
+                  ]
+            },
+            {
+                  "name": "Husseiniya Bani Amer / Mullah Hamid",
+                  "text": "Diese schiitische Gebetshalle im Raffinerieviertel dient als Zentrum für religiöse Versammlungen und Trauerzeremonien.",
+                  "category": "religious",
+                  "coords": [
+                        47.869457,
+                        30.466644
+                  ]
+            },
+            {
+                  "name": "Husseiniyah of Imam Hassan Al-Mujtaba (peace be upon him)",
+                  "text": "Ein lokales Husseiniya-Gebäude, das der schiitischen Gemeinschaft für Gebete und Gedenkfeiern zur Verfügung steht.",
+                  "category": "religious",
+                  "coords": [
+                        47.861237,
+                        30.467299
+                  ]
+            },
+            {
+                  "name": "Umm Al-Qura Mosque",
+                  "text": "Diese Moschee bietet den Arbeitern im Industriegebiet von Basra einen zentralen Ort für das tägliche Gebet.",
+                  "category": "religious",
+                  "coords": [
+                        47.844765,
+                        30.469536
+                  ]
+            },
+            {
+                  "name": "Husseiniyah, protector of Sharia",
+                  "text": "Ein schiitisches religiöses Zentrum, das der Bewahrung der Scharia gewidmet ist und Versammlungen in der Nähe der Raffinerie beherbergt.",
+                  "category": "religious",
+                  "coords": [
+                        47.81962,
+                        30.463089
+                  ]
+            },
+            {
+                  "name": "Husseiniyat Al-Walaa",
+                  "text": "Diese religiöse Einrichtung dient als Treffpunkt für schiitische Gläubige im südlichen Industriegebiet von Basra.",
+                  "category": "religious",
+                  "coords": [
+                        47.812444,
+                        30.460673
+                  ]
+            },
+            {
+                  "name": "Husseiniyah Dar Al-Zahraa",
+                  "text": "Ein schiitischer Ort der Andacht, der für seine religiösen Vorträge und Gemeinschaftsveranstaltungen bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        47.779875,
+                        30.45733
+                  ]
+            },
+            {
+                  "name": "Al-Mustafa Mosque",
+                  "text": "Eine muslimische Moschee mit markanter Architektur, die als spiritueller Ankerpunkt im Raffinerieviertel fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        47.801587,
+                        30.469979
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Iraq oxygen plant",
+                  "text": "Jellegzetes ipari komplexum a bászrai finomító területén, amely jelentős a regionális gazdaság számára.",
+                  "category": "landmark",
+                  "coords": [
+                        47.861322,
+                        30.444776
+                  ]
+            },
+            {
+                  "name": "Husseiniya Bani Amer Al Bahadria",
+                  "text": "Síita imahely a Bászra régióban, amelyet vallási gyűlésekre és gyászszertartásokra használnak.",
+                  "category": "religious",
+                  "coords": [
+                        47.870771,
+                        30.47051
+                  ]
+            },
+            {
+                  "name": "Husseiniya Bani Amer / Mullah Hamid",
+                  "text": "Ez a finomító negyedében található síita imaház vallási gyülekezetek és gyászszertartások központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        47.869457,
+                        30.466644
+                  ]
+            },
+            {
+                  "name": "Husseiniyah of Imam Hassan Al-Mujtaba (peace be upon him)",
+                  "text": "Helyi huszeinijja épület, amely a síita közösség imádságainak és megemlékezéseinek ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        47.861237,
+                        30.467299
+                  ]
+            },
+            {
+                  "name": "Umm Al-Qura Mosque",
+                  "text": "Ez a mecset központi helyszínt biztosít a napi imádkozáshoz a Baszra ipari övezetében dolgozók számára.",
+                  "category": "religious",
+                  "coords": [
+                        47.844765,
+                        30.469536
+                  ]
+            },
+            {
+                  "name": "Husseiniyah, protector of Sharia",
+                  "text": "A saría megőrzésének szentelt síita vallási központ, amely a finomító közelében ad otthont a gyülekezeteknek.",
+                  "category": "religious",
+                  "coords": [
+                        47.81962,
+                        30.463089
+                  ]
+            },
+            {
+                  "name": "Husseiniyat Al-Walaa",
+                  "text": "Ez a vallási intézmény a síita hívők találkozóhelyeként szolgál Baszra déli ipari övezetében.",
+                  "category": "religious",
+                  "coords": [
+                        47.812444,
+                        30.460673
+                  ]
+            },
+            {
+                  "name": "Husseiniyah Dar Al-Zahraa",
+                  "text": "Síita áhítati hely, amely vallási előadásairól és közösségi eseményeiről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        47.779875,
+                        30.45733
+                  ]
+            },
+            {
+                  "name": "Al-Mustafa Mosque",
+                  "text": "Jellegzetes építészetű muszlim mecset, amely spirituális pontként szolgál a finomító negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        47.801587,
+                        30.469979
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Iraq oxygen plant",
+                  "text": "Un complex industrial distinctiv în cadrul rafinăriei din Basra, semnificativ pentru economia regională.",
+                  "category": "landmark",
+                  "coords": [
+                        47.861322,
+                        30.444776
+                  ]
+            },
+            {
+                  "name": "Husseiniya Bani Amer Al Bahadria",
+                  "text": "O casă de rugăciune șiită în regiunea Basra, utilizată pentru adunări religioase și ceremonii de doliu.",
+                  "category": "religious",
+                  "coords": [
+                        47.870771,
+                        30.47051
+                  ]
+            },
+            {
+                  "name": "Husseiniya Bani Amer / Mullah Hamid",
+                  "text": "Această sală de rugăciune șiită din zona rafinăriei servește ca centru pentru adunări religioase și ceremonii de doliu.",
+                  "category": "religious",
+                  "coords": [
+                        47.869457,
+                        30.466644
+                  ]
+            },
+            {
+                  "name": "Husseiniyah of Imam Hassan Al-Mujtaba (peace be upon him)",
+                  "text": "O clădire locală Husseiniyah, pusă la dispoziția comunității șiite pentru rugăciuni și comemorări.",
+                  "category": "religious",
+                  "coords": [
+                        47.861237,
+                        30.467299
+                  ]
+            },
+            {
+                  "name": "Umm Al-Qura Mosque",
+                  "text": "Această moschee oferă lucrătorilor din zona industrială a Basrei un loc central pentru rugăciunile zilnice.",
+                  "category": "religious",
+                  "coords": [
+                        47.844765,
+                        30.469536
+                  ]
+            },
+            {
+                  "name": "Husseiniyah, protector of Sharia",
+                  "text": "Un centru religios șiit dedicat păstrării Sharia, care găzduiește adunări în apropierea rafinăriei.",
+                  "category": "religious",
+                  "coords": [
+                        47.81962,
+                        30.463089
+                  ]
+            },
+            {
+                  "name": "Husseiniyat Al-Walaa",
+                  "text": "Această instituție religioasă servește ca loc de întâlnire pentru credincioșii șiți din zona industrială de sud a Basrei.",
+                  "category": "religious",
+                  "coords": [
+                        47.812444,
+                        30.460673
+                  ]
+            },
+            {
+                  "name": "Husseiniyah Dar Al-Zahraa",
+                  "text": "Un loc de devoțiune șiit, cunoscut pentru prelegerile sale religioase și evenimentele comunitare.",
+                  "category": "religious",
+                  "coords": [
+                        47.779875,
+                        30.45733
+                  ]
+            },
+            {
+                  "name": "Al-Mustafa Mosque",
+                  "text": "O moschee musulmană cu o arhitectură distinctivă, care funcționează ca punct spiritual în cartierul rafinăriei.",
+                  "category": "landmark",
+                  "coords": [
+                        47.801587,
+                        30.469979
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Iraq oxygen plant",
+                  "text": "A distinctive industrial complex within the Basra refinery, significant for the regional economy.",
+                  "category": "landmark",
+                  "coords": [
+                        47.861322,
+                        30.444776
+                  ]
+            },
+            {
+                  "name": "Husseiniya Bani Amer Al Bahadria",
+                  "text": "A Shia prayer hall in the Basra region, used for religious gatherings and mourning ceremonies.",
+                  "category": "religious",
+                  "coords": [
+                        47.870771,
+                        30.47051
+                  ]
+            },
+            {
+                  "name": "Husseiniya Bani Amer / Mullah Hamid",
+                  "text": "This Shiite prayer hall in the refinery district serves as a center for religious gatherings and mourning ceremonies.",
+                  "category": "religious",
+                  "coords": [
+                        47.869457,
+                        30.466644
+                  ]
+            },
+            {
+                  "name": "Husseiniyah of Imam Hassan Al-Mujtaba (peace be upon him)",
+                  "text": "A local Husseiniyah building dedicated to the Shiite community for prayers and commemorations.",
+                  "category": "religious",
+                  "coords": [
+                        47.861237,
+                        30.467299
+                  ]
+            },
+            {
+                  "name": "Umm Al-Qura Mosque",
+                  "text": "This mosque provides workers in the Basra industrial area with a central location for daily prayers.",
+                  "category": "religious",
+                  "coords": [
+                        47.844765,
+                        30.469536
+                  ]
+            },
+            {
+                  "name": "Husseiniyah, protector of Sharia",
+                  "text": "A Shiite religious center dedicated to the preservation of Sharia, hosting gatherings near the refinery.",
+                  "category": "religious",
+                  "coords": [
+                        47.81962,
+                        30.463089
+                  ]
+            },
+            {
+                  "name": "Husseiniyat Al-Walaa",
+                  "text": "This religious facility serves as a meeting place for Shiite believers in the southern industrial area of Basra.",
+                  "category": "religious",
+                  "coords": [
+                        47.812444,
+                        30.460673
+                  ]
+            },
+            {
+                  "name": "Husseiniyah Dar Al-Zahraa",
+                  "text": "A Shiite place of worship known for its religious lectures and community events.",
+                  "category": "religious",
+                  "coords": [
+                        47.779875,
+                        30.45733
+                  ]
+            },
+            {
+                  "name": "Al-Mustafa Mosque",
+                  "text": "A Muslim mosque with distinctive architecture that serves as a spiritual anchor in the refinery district.",
+                  "category": "landmark",
+                  "coords": [
+                        47.801587,
+                        30.469979
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "IQ-BA",
     coords: [47.78, 30.45],
@@ -355,7 +2317,124 @@ export const poiExtraIraqEconomicV2: POI[] = [
       fr: ["L'inauguration officielle de l'installation a eu lieu le 1er avril 2023.", "La capacité de traitement est de 140 000 barils de pétrole brut par jour.", "Le projet a été réalisé avec un investissement de plus de 6 milliards USD.", "Un consortium de quatre entreprises sud-coréennes a construit la raffinerie.", "L'usine produit des carburants conformes à la norme antipollution Euro 5.", "La raffinerie comprend plus de 30 unités de production différentes."],
     }, image: "/poi-images/karbala-refinery-economic-v2.webp"},
   {
-    id: "mishraq-sulphur-mine-economic-v2",
+    id: "mishraq-sulphur-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Safina Village",
+                  "text": "Ein Aussichtspunkt mit malerischem Blick über die traditionelle Siedlung Safina und das nahe gelegene Tigristal.",
+                  "category": "natural",
+                  "coords": [
+                        43.30343,
+                        35.973474
+                  ]
+            },
+            {
+                  "name": "Ayn al Jarad al Athariyah",
+                  "text": "Die historischen Ruinen einer antiken Siedlung in der trockenen Landschaft in der Nähe von Mischrak.",
+                  "category": "historical",
+                  "coords": [
+                        43.260617,
+                        35.992206
+                  ]
+            },
+            {
+                  "name": "Arfilah masquest",
+                  "text": "Eine lokale muslimische Moschee für die Gemeinde in der Nähe des Schwefelminen-Gebiets von Mischrak.",
+                  "category": "landmark",
+                  "coords": [
+                        43.318559,
+                        35.90857
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Safina Village",
+                  "text": "Kilátópont, amely festői kilátást nyújt Safina hagyományos településére és a közeli Tigris-völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        43.30343,
+                        35.973474
+                  ]
+            },
+            {
+                  "name": "Ayn al Jarad al Athariyah",
+                  "text": "Egy ősi település történelmi romjai a Misrak közelében fekvő száraz vidéken.",
+                  "category": "historical",
+                  "coords": [
+                        43.260617,
+                        35.992206
+                  ]
+            },
+            {
+                  "name": "Arfilah masquest",
+                  "text": "Helyi muszlim mecset, amely a közösséget szolgálja a misraki kénbánya közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        43.318559,
+                        35.90857
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Safina Village",
+                  "text": "Un punct de belvedere care oferă priveliști pitorești asupra așezării tradiționale Safina și a văii Tigrului din apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        43.30343,
+                        35.973474
+                  ]
+            },
+            {
+                  "name": "Ayn al Jarad al Athariyah",
+                  "text": "Ruinele istorice ale unei așezări antice situate în peisajele aride din apropiere de Mishraq.",
+                  "category": "historical",
+                  "coords": [
+                        43.260617,
+                        35.992206
+                  ]
+            },
+            {
+                  "name": "Arfilah masquest",
+                  "text": "O moschee musulmană locală care deservește comunitatea din vecinătatea zonei minei de sulf Mishraq.",
+                  "category": "landmark",
+                  "coords": [
+                        43.318559,
+                        35.90857
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Safina Village",
+                  "text": "A viewpoint offering scenic vistas over the traditional settlement of Safina and the nearby Tigris valley.",
+                  "category": "natural",
+                  "coords": [
+                        43.30343,
+                        35.973474
+                  ]
+            },
+            {
+                  "name": "Ayn al Jarad al Athariyah",
+                  "text": "The historic ruins of an ancient settlement located in the arid landscapes near Mishraq.",
+                  "category": "historical",
+                  "coords": [
+                        43.260617,
+                        35.992206
+                  ]
+            },
+            {
+                  "name": "Arfilah masquest",
+                  "text": "A local Muslim mosque serving the community in the vicinity of the Mishraq sulphur mine area.",
+                  "category": "landmark",
+                  "coords": [
+                        43.318559,
+                        35.90857
+                  ]
+            }
+      ]
+},
     type: "mine",
     parent: "IQ-NI",
     coords: [43.32, 35.98],
@@ -460,7 +2539,88 @@ export const poiExtraIraqEconomicV2: POI[] = [
       fr: ["La longueur de crête du barrage est d'environ 9 kilomètres.", "Le barrage atteint 57 mètres à son point le plus haut.", "Le lac Qadisiyah possède un volume de stockage maximal de 8,3 kilomètres cubes.", "Des ingénieurs soviétiques ont dirigé la conception de la centrale hydroélectrique.", "Le projet a été officiellement achevé en 1988.", "Le barrage est équipé d'un évacuateur de crues à six vannes segments."],
     }, image: "/poi-images/haditha-dam-economic-v2.webp"},
   {
-    id: "mosul-dam-economic-v2",
+    id: "mosul-dam-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kharab Walad",
+                  "text": "Diese antiken Ruinen liegen an den fruchtbaren Ufern in der Nähe des Mossul-Staudamms.",
+                  "category": "historical",
+                  "coords": [
+                        42.862017,
+                        36.55962
+                  ]
+            },
+            {
+                  "name": "Village of mustah",
+                  "text": "Eine traditionelle Siedlung, die weite Ausblicke auf das Reservoir des Mossul-Staudamms bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        42.802816,
+                        36.576875
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kharab Walad",
+                  "text": "Ezek az ősi romok a Moszul-gát melletti termékeny partvidéken találhatóak.",
+                  "category": "historical",
+                  "coords": [
+                        42.862017,
+                        36.55962
+                  ]
+            },
+            {
+                  "name": "Village of mustah",
+                  "text": "Hagyományos település, amely széles kilátást nyújt a Moszul-gát víztározójára.",
+                  "category": "landmark",
+                  "coords": [
+                        42.802816,
+                        36.576875
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kharab Walad",
+                  "text": "Aceste ruine antice sunt situate pe malurile fertile din apropierea barajului de la Mosul.",
+                  "category": "historical",
+                  "coords": [
+                        42.862017,
+                        36.55962
+                  ]
+            },
+            {
+                  "name": "Village of mustah",
+                  "text": "O așezare tradițională care oferă vederi panoramice asupra rezervorului barajului de la Mosul.",
+                  "category": "landmark",
+                  "coords": [
+                        42.802816,
+                        36.576875
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kharab Walad",
+                  "text": "These ancient ruins are situated on the fertile banks near the Mosul Dam.",
+                  "category": "historical",
+                  "coords": [
+                        42.862017,
+                        36.55962
+                  ]
+            },
+            {
+                  "name": "Village of mustah",
+                  "text": "A traditional settlement offering wide views over the Mosul Dam reservoir.",
+                  "category": "landmark",
+                  "coords": [
+                        42.802816,
+                        36.576875
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "IQ-NI",
     coords: [42.82, 36.63],
@@ -495,7 +2655,268 @@ export const poiExtraIraqEconomicV2: POI[] = [
       fr: ["La hauteur maximale du barrage est de 113 mètres.", "Le réservoir a une capacité maximale de 11,1 kilomètres cubes.", "La construction a débuté en 1981 et s'est achevée en 1986.", "Le consortium italien GIE-Impregilo a dirigé les travaux de construction.", "Chaque jour, des tonnes de mélanges de ciment sont pompées dans les fondations.", "Le barrage mesure environ 3,4 kilomètres de long."],
     }, image: "/poi-images/mosul-dam-economic-v2.webp"},
   {
-    id: "dukan-dam-economic-v2",
+    id: "dukan-dam-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sana Promenade",
+                  "text": "Ein malerischer Spazierweg in der Nähe der Dukan-Talsperre, der weite Ausblicke auf den Kleinen Zab bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        44.974505,
+                        35.917786
+                  ]
+            },
+            {
+                  "name": "Sartka",
+                  "text": "Ein ruhiger Ort der Andacht in der Nähe von Dukan, der in die bergige Landschaft eingebettet ist.",
+                  "category": "religious",
+                  "coords": [
+                        44.974962,
+                        35.896148
+                  ]
+            },
+            {
+                  "name": "Haji Mala Shekh Mosque",
+                  "text": "Eine muslimische Moschee bei Dukan, die Reisenden und Einheimischen einen Ort für die Einkehr bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        44.980076,
+                        35.902611
+                  ]
+            },
+            {
+                  "name": "Shekh Ahmad Msoque",
+                  "text": "Diese Moschee in der Dukan-Region ist ein wichtiger religiöser Ankerpunkt für die umliegenden Dörfer.",
+                  "category": "landmark",
+                  "coords": [
+                        44.969304,
+                        35.931796
+                  ]
+            },
+            {
+                  "name": "Bakhshnda Mosque",
+                  "text": "Ein schlichtes muslimisches Gotteshaus bei Dukan, das für seine gastfreundliche Atmosphäre bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.957228,
+                        35.936313
+                  ]
+            },
+            {
+                  "name": "Dukan Big Mosque",
+                  "text": "Die Hauptmoschee von Dukan, die durch ihre Größe und ihre Bedeutung für Freitagsgebete besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        44.962255,
+                        35.929724
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Eine örtliche Moschee in der Nähe des Dukan-Sees, die von der malerischen Kulisse der Region profitiert.",
+                  "category": "religious",
+                  "coords": [
+                        44.96466,
+                        35.94411
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sana Promenade",
+                  "text": "Gleccserfolyó menti sétány a Dukan-gát közelében, ahonnan szép kilátás nyílik a Kis-Záb folyóra.",
+                  "category": "landmark",
+                  "coords": [
+                        44.974505,
+                        35.917786
+                  ]
+            },
+            {
+                  "name": "Sartka",
+                  "text": "Csendes imaház Dukan közelében, amely a hegyvidéki tájba simul.",
+                  "category": "religious",
+                  "coords": [
+                        44.974962,
+                        35.896148
+                  ]
+            },
+            {
+                  "name": "Haji Mala Shekh Mosque",
+                  "text": "Muszlim mecset Dukan mellett, amely a hívőknek és az átutazóknak kínál lelki megnyugvást.",
+                  "category": "landmark",
+                  "coords": [
+                        44.980076,
+                        35.902611
+                  ]
+            },
+            {
+                  "name": "Shekh Ahmad Msoque",
+                  "text": "Ez a Dukan-régióban található mecset a környező falvak fontos vallási támaszpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        44.969304,
+                        35.931796
+                  ]
+            },
+            {
+                  "name": "Bakhshnda Mosque",
+                  "text": "Egyszerű muszlim imaház Dukan közelében, amely vendégszerető légköréről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        44.957228,
+                        35.936313
+                  ]
+            },
+            {
+                  "name": "Dukan Big Mosque",
+                  "text": "Dukan főmecsetje, amely méretével és a pénteki imádságok során betöltött szerepével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        44.962255,
+                        35.929724
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Helyi mecset a Dukan-tó közelében, amely a régió festői környezetében található.",
+                  "category": "religious",
+                  "coords": [
+                        44.96466,
+                        35.94411
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sana Promenade",
+                  "text": "O promenadă pitorească lângă barajul Dukan, care oferă vederi largi asupra râului Micul Zab.",
+                  "category": "landmark",
+                  "coords": [
+                        44.974505,
+                        35.917786
+                  ]
+            },
+            {
+                  "name": "Sartka",
+                  "text": "Un loc liniștit de rugăciune lângă Dukan, cuibărit în peisajul muntos.",
+                  "category": "religious",
+                  "coords": [
+                        44.974962,
+                        35.896148
+                  ]
+            },
+            {
+                  "name": "Haji Mala Shekh Mosque",
+                  "text": "O moschee musulmană lângă Dukan, care oferă călătorilor și localnicilor un loc de reculegere.",
+                  "category": "landmark",
+                  "coords": [
+                        44.980076,
+                        35.902611
+                  ]
+            },
+            {
+                  "name": "Shekh Ahmad Msoque",
+                  "text": "Această moschee din regiunea Dukan este un punct de ancorare religios important pentru satele din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        44.969304,
+                        35.931796
+                  ]
+            },
+            {
+                  "name": "Bakhshnda Mosque",
+                  "text": "Un lăcaș de cult musulman simplu lângă Dukan, cunoscut pentru atmosfera sa primitoare.",
+                  "category": "landmark",
+                  "coords": [
+                        44.957228,
+                        35.936313
+                  ]
+            },
+            {
+                  "name": "Dukan Big Mosque",
+                  "text": "Moscheea principală din Dukan, care impresionează prin dimensiunea sa și importanța pentru rugăciunile de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        44.962255,
+                        35.929724
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "O moschee locală lângă lacul Dukan, care beneficiază de cadrul pitoresc al regiunii.",
+                  "category": "religious",
+                  "coords": [
+                        44.96466,
+                        35.94411
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sana Promenade",
+                  "text": "A scenic walking path near the Dukan Dam offering wide views of the Little Zab river.",
+                  "category": "landmark",
+                  "coords": [
+                        44.974505,
+                        35.917786
+                  ]
+            },
+            {
+                  "name": "Sartka",
+                  "text": "A quiet place of worship near Dukan, nestled within the mountainous landscape.",
+                  "category": "religious",
+                  "coords": [
+                        44.974962,
+                        35.896148
+                  ]
+            },
+            {
+                  "name": "Haji Mala Shekh Mosque",
+                  "text": "A Muslim mosque near Dukan, offering a place for reflection for both travelers and locals.",
+                  "category": "landmark",
+                  "coords": [
+                        44.980076,
+                        35.902611
+                  ]
+            },
+            {
+                  "name": "Shekh Ahmad Msoque",
+                  "text": "This mosque in the Dukan region is an important religious anchor for the surrounding villages.",
+                  "category": "landmark",
+                  "coords": [
+                        44.969304,
+                        35.931796
+                  ]
+            },
+            {
+                  "name": "Bakhshnda Mosque",
+                  "text": "A simple Muslim place of worship near Dukan, known for its welcoming atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        44.957228,
+                        35.936313
+                  ]
+            },
+            {
+                  "name": "Dukan Big Mosque",
+                  "text": "The main mosque of Dukan, notable for its size and its significance for Friday prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        44.962255,
+                        35.929724
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "A local mosque near Dukan Lake, benefiting from the scenic backdrop of the region.",
+                  "category": "religious",
+                  "coords": [
+                        44.96466,
+                        35.94411
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "IQ-SU",
     coords: [44.96, 35.95],
@@ -530,7 +2951,304 @@ export const poiExtraIraqEconomicV2: POI[] = [
       fr: ["La hauteur du barrage voûte est de 116,5 mètres.", "La longueur de crête du barrage est de 360 mètres.", "Le lac Dukan possède une capacité d'environ 6,8 kilomètres cubes.", "La centrale hydroélectrique dispose de cinq unités de production.", "Le projet du barrage a été finalisé avant la révolution irakienne de 1958.", "L'évacuateur de crues a un diamètre de 40 mètres à l'entrée."],
     }, image: "/poi-images/dukan-dam-economic-v2.webp"},
   {
-    id: "derbendikhan-dam-economic-v2",
+    id: "derbendikhan-dam-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Darbandikhan City Hall",
+                  "text": "Ein lokaler Kulturort und Gemeindesaal, der für öffentliche Veranstaltungen und Aufführungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        45.683422,
+                        35.113609
+                  ]
+            },
+            {
+                  "name": "Goma bahry",
+                  "text": "Ein natürliches Becken und eine malerische Wasserattraktion in der Nähe des Darbandikhan-Staudamms.",
+                  "category": "landmark",
+                  "coords": [
+                        45.688075,
+                        35.11521
+                  ]
+            },
+            {
+                  "name": "Sirwan river tour site",
+                  "text": "Ein Erholungsort mit Bootstouren und Ausblicken entlang des Ufers des Sirwan-Flusses.",
+                  "category": "landmark",
+                  "coords": [
+                        45.701576,
+                        35.104507
+                  ]
+            },
+            {
+                  "name": "Mzgawti Gawra",
+                  "text": "Eine zentrale Freitagsmoschee, die als bedeutendes religiöses Wahrzeichen der Stadt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        45.68803,
+                        35.108043
+                  ]
+            },
+            {
+                  "name": "Hasanarashy Bazrgan Mosque",
+                  "text": "Eine lokale Gemeindemoschee für das tägliche Gebet in Derbendikhan.",
+                  "category": "landmark",
+                  "coords": [
+                        45.682749,
+                        35.117721
+                  ]
+            },
+            {
+                  "name": "Eman mosque",
+                  "text": "Ein schlichter islamischer Gebetsort für die Anwohner von Derbendikhan.",
+                  "category": "landmark",
+                  "coords": [
+                        45.685912,
+                        35.114249
+                  ]
+            },
+            {
+                  "name": "Omary Kwri Khatab Mosque",
+                  "text": "Eine nach Omar benannte Nachbarschaftsmoschee in der Nähe des Staudamms.",
+                  "category": "landmark",
+                  "coords": [
+                        45.679794,
+                        35.116188
+                  ]
+            },
+            {
+                  "name": "mzgawti exlas",
+                  "text": "Ein lokaler muslimischer Gebetsraum in der Gemeinde Derbendikhan.",
+                  "category": "landmark",
+                  "coords": [
+                        45.679089,
+                        35.111221
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Darbandikhan City Hall",
+                  "text": "Helyi kulturális helyszín és közösségi terem, amelyet nyilvános eseményekre és előadásokra használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        45.683422,
+                        35.113609
+                  ]
+            },
+            {
+                  "name": "Goma bahry",
+                  "text": "Természetes medence és festői vízi látványosság a Darbandikhan-gát közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        45.688075,
+                        35.11521
+                  ]
+            },
+            {
+                  "name": "Sirwan river tour site",
+                  "text": "Rekreációs helyszín hajótúrákkal és kilátással a Sirwan-folyó partján.",
+                  "category": "landmark",
+                  "coords": [
+                        45.701576,
+                        35.104507
+                  ]
+            },
+            {
+                  "name": "Mzgawti Gawra",
+                  "text": "Központi pénteki mecset, amely a város jelentős vallási jelképeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        45.68803,
+                        35.108043
+                  ]
+            },
+            {
+                  "name": "Hasanarashy Bazrgan Mosque",
+                  "text": "Helyi közösségi mecset a napi imádságokhoz Derbendikhanban.",
+                  "category": "landmark",
+                  "coords": [
+                        45.682749,
+                        35.117721
+                  ]
+            },
+            {
+                  "name": "Eman mosque",
+                  "text": "Egyszerű iszlám imaház Derbendikhan lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        45.685912,
+                        35.114249
+                  ]
+            },
+            {
+                  "name": "Omary Kwri Khatab Mosque",
+                  "text": "Omárról elnevezett környékbeli mecset a gát közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        45.679794,
+                        35.116188
+                  ]
+            },
+            {
+                  "name": "mzgawti exlas",
+                  "text": "Helyi muszlim imaterem Derbendikhan közösségében.",
+                  "category": "landmark",
+                  "coords": [
+                        45.679089,
+                        35.111221
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Darbandikhan City Hall",
+                  "text": "Un loc cultural local și o sală comunitară folosită pentru evenimente publice și spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        45.683422,
+                        35.113609
+                  ]
+            },
+            {
+                  "name": "Goma bahry",
+                  "text": "O piscină naturală și o atracție acvatică pitorească situată lângă barajul Darbandikhan.",
+                  "category": "landmark",
+                  "coords": [
+                        45.688075,
+                        35.11521
+                  ]
+            },
+            {
+                  "name": "Sirwan river tour site",
+                  "text": "Un loc de recreere care oferă tururi cu barca și vederi de-a lungul malurilor râului Sirwan.",
+                  "category": "landmark",
+                  "coords": [
+                        45.701576,
+                        35.104507
+                  ]
+            },
+            {
+                  "name": "Mzgawti Gawra",
+                  "text": "O moschee centrală de vineri, care servește ca un reper religios important al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        45.68803,
+                        35.108043
+                  ]
+            },
+            {
+                  "name": "Hasanarashy Bazrgan Mosque",
+                  "text": "O moschee a comunității locale pentru rugăciunile zilnice în Derbendikhan.",
+                  "category": "landmark",
+                  "coords": [
+                        45.682749,
+                        35.117721
+                  ]
+            },
+            {
+                  "name": "Eman mosque",
+                  "text": "Un loc de rugăciune islamic simplu pentru locuitorii din Derbendikhan.",
+                  "category": "landmark",
+                  "coords": [
+                        45.685912,
+                        35.114249
+                  ]
+            },
+            {
+                  "name": "Omary Kwri Khatab Mosque",
+                  "text": "O moschee de cartier numită după Omar, situată în apropierea barajului.",
+                  "category": "landmark",
+                  "coords": [
+                        45.679794,
+                        35.116188
+                  ]
+            },
+            {
+                  "name": "mzgawti exlas",
+                  "text": "O sală de rugăciune musulmană locală în comunitatea Derbendikhan.",
+                  "category": "landmark",
+                  "coords": [
+                        45.679089,
+                        35.111221
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Darbandikhan City Hall",
+                  "text": "A local cultural venue and community hall used for public events and performances.",
+                  "category": "cultural",
+                  "coords": [
+                        45.683422,
+                        35.113609
+                  ]
+            },
+            {
+                  "name": "Goma bahry",
+                  "text": "A natural pool and scenic water attraction located near the Darbandikhan Dam.",
+                  "category": "landmark",
+                  "coords": [
+                        45.688075,
+                        35.11521
+                  ]
+            },
+            {
+                  "name": "Sirwan river tour site",
+                  "text": "A recreational spot offering boat tours and views along the banks of the Sirwan River.",
+                  "category": "landmark",
+                  "coords": [
+                        45.701576,
+                        35.104507
+                  ]
+            },
+            {
+                  "name": "Big Mosque",
+                  "text": "A central Friday mosque serving as a significant religious landmark of the town.",
+                  "category": "landmark",
+                  "coords": [
+                        45.68803,
+                        35.108043
+                  ]
+            },
+            {
+                  "name": "Hasanarashy Bazrgan Mosque",
+                  "text": "A local community mosque for daily prayers in Derbendikhan.",
+                  "category": "landmark",
+                  "coords": [
+                        45.682749,
+                        35.117721
+                  ]
+            },
+            {
+                  "name": "Eman mosque",
+                  "text": "A simple Islamic prayer site for the residents of Derbendikhan.",
+                  "category": "landmark",
+                  "coords": [
+                        45.685912,
+                        35.114249
+                  ]
+            },
+            {
+                  "name": "Omary Kwri Khatab Mosque",
+                  "text": "A neighborhood mosque named after Omar, located near the dam area.",
+                  "category": "landmark",
+                  "coords": [
+                        45.679794,
+                        35.116188
+                  ]
+            },
+            {
+                  "name": "mzgawti exlas",
+                  "text": "A local Muslim prayer hall within the Derbendikhan community.",
+                  "category": "landmark",
+                  "coords": [
+                        45.679089,
+                        35.111221
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "IQ-SU",
     coords: [45.71, 35.12],
@@ -565,7 +3283,160 @@ export const poiExtraIraqEconomicV2: POI[] = [
       fr: ["La hauteur du barrage est de 128 mètres au-dessus du point le plus bas.", "Le barrage possède une longueur de crête de 445 mètres.", "Le volume de stockage maximal du lac est d'environ 3 kilomètres cubes.", "La centrale hydroélectrique dispose d'une puissance installée de 249 mégawatts.", "La construction a été dirigée par un consortium international sous supervision américaine.", "Le séisme de 2017 avait une magnitude de 7,3 sur l'échelle de Richter."],
     }, image: "/poi-images/derbendikhan-dam-economic-v2.webp"},
   {
-    id: "ibrahim-khalil-border-crossing-economic-v2",
+    id: "ibrahim-khalil-border-crossing-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Firat",
+                  "text": "Ein Aussichtspunkt in der Nähe des Grenzübergangs Ibrahim Khalil mit Blick auf die Grenzregion.",
+                  "category": "landmark",
+                  "coords": [
+                        42.608493,
+                        37.138511
+                  ]
+            },
+            {
+                  "name": "Bakrma Mosque",
+                  "text": "Eine muslimische Gebetsstätte im Grenzdorf Bakrma nahe der türkisch-irakischen Grenze.",
+                  "category": "landmark",
+                  "coords": [
+                        42.596121,
+                        37.138748
+                  ]
+            },
+            {
+                  "name": "Ibrahim Khalil Mosque",
+                  "text": "Diese Moschee befindet sich am wichtigen Grenzübergang Ibrahim Khalil zwischen der Türkei und dem Irak.",
+                  "category": "landmark",
+                  "coords": [
+                        42.57174,
+                        37.137882
+                  ]
+            },
+            {
+                  "name": "Hicret Camii",
+                  "text": "Ein islamisches Gotteshaus im geschäftigen Handelsgebiet am Grenzübergang.",
+                  "category": "landmark",
+                  "coords": [
+                        42.509239,
+                        37.210051
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Firat",
+                  "text": "Kilátópont az Ibrahim Khalil határátkelő közelében, kilátással a határvidékre.",
+                  "category": "landmark",
+                  "coords": [
+                        42.608493,
+                        37.138511
+                  ]
+            },
+            {
+                  "name": "Bakrma Mosque",
+                  "text": "Muszlim imaház Bakrma faluban, a török-iraki határ közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        42.596121,
+                        37.138748
+                  ]
+            },
+            {
+                  "name": "Ibrahim Khalil Mosque",
+                  "text": "Ez a mecset a Törökország és Irak közötti fontos Ibrahim Khalil határátkelőnél található.",
+                  "category": "landmark",
+                  "coords": [
+                        42.57174,
+                        37.137882
+                  ]
+            },
+            {
+                  "name": "Hicret Camii",
+                  "text": "Iszlám templom a határátkelő forgalmas kereskedelmi övezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        42.509239,
+                        37.210051
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Firat",
+                  "text": "Un punct de observație lângă punctul de trecere a frontierei Ibrahim Khalil, cu vedere spre regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        42.608493,
+                        37.138511
+                  ]
+            },
+            {
+                  "name": "Bakrma Mosque",
+                  "text": "Un lăcaș de cult musulman în satul de frontieră Bakrma, lângă granița turco-irakiană.",
+                  "category": "landmark",
+                  "coords": [
+                        42.596121,
+                        37.138748
+                  ]
+            },
+            {
+                  "name": "Ibrahim Khalil Mosque",
+                  "text": "Această moschee este situată la importantul punct de trecere a frontierei Ibrahim Khalil dintre Turcia și Irak.",
+                  "category": "landmark",
+                  "coords": [
+                        42.57174,
+                        37.137882
+                  ]
+            },
+            {
+                  "name": "Hicret Camii",
+                  "text": "Un lăcaș de cult islamic în zona comercială aglomerată de la punctul de trecere a frontierei.",
+                  "category": "landmark",
+                  "coords": [
+                        42.509239,
+                        37.210051
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Firat",
+                  "text": "A viewpoint near the Ibrahim Khalil border crossing overlooking the frontier region.",
+                  "category": "landmark",
+                  "coords": [
+                        42.608493,
+                        37.138511
+                  ]
+            },
+            {
+                  "name": "Bakrma Mosque",
+                  "text": "A Muslim place of worship in the border village of Bakrma near the Turkey-Iraq frontier.",
+                  "category": "landmark",
+                  "coords": [
+                        42.596121,
+                        37.138748
+                  ]
+            },
+            {
+                  "name": "Ibrahim Khalil Mosque",
+                  "text": "This mosque is situated at the major Ibrahim Khalil border crossing between Turkey and Iraq.",
+                  "category": "landmark",
+                  "coords": [
+                        42.57174,
+                        37.137882
+                  ]
+            },
+            {
+                  "name": "Hicret Camii",
+                  "text": "An Islamic place of worship located within the busy commercial area of the border crossing.",
+                  "category": "landmark",
+                  "coords": [
+                        42.509239,
+                        37.210051
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "IQ-DA",
     coords: [42.56, 37.14],
@@ -635,7 +3506,52 @@ export const poiExtraIraqEconomicV2: POI[] = [
       fr: ["Le poste se trouve à environ 570 kilomètres à l'ouest de Bagdad.", "Du côté jordanien, le poste frontière correspondant s'appelle al-Karameh.", "La réouverture officielle après l'occupation par l'EI a eu lieu le 30 août 2017.", "Le trajet Bagdad-Amman est long d'environ 800 kilomètres.", "Chaque jour, des centaines de camions franchissent le poste dans les deux sens.", "Trebil est le seul poste frontière terrestre officiel entre les deux pays."],
     }, image: "/poi-images/trebil-border-crossing-economic-v2.webp"},
   {
-    id: "safwan-border-crossing-economic-v2",
+    id: "safwan-border-crossing-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abdulaziz Abdullah Al-Sanad",
+                  "text": "Eine Moschee, die sowohl Reisenden als auch lokalen Grenzarbeitern in der Nähe des Grenzübergangs Safwan dient.",
+                  "category": "landmark",
+                  "coords": [
+                        47.70099,
+                        30.077972
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abdulaziz Abdullah Al-Sanad",
+                  "text": "Mecset, amely utazókat és helyi határőröket egyaránt kiszolgál a szafwani határátkelő közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        47.70099,
+                        30.077972
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abdulaziz Abdullah Al-Sanad",
+                  "text": "O moschee care deservește atât călătorii, cât și lucrătorii de frontieră locali în apropierea punctului de trecere a frontierei Safwan.",
+                  "category": "landmark",
+                  "coords": [
+                        47.70099,
+                        30.077972
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abdulaziz Abdullah Al-Sanad",
+                  "text": "A mosque serving both travelers and local border workers near the Safwan border crossing.",
+                  "category": "landmark",
+                  "coords": [
+                        47.70099,
+                        30.077972
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "IQ-BA",
     coords: [47.72, 30.11],
@@ -670,7 +3586,196 @@ export const poiExtraIraqEconomicV2: POI[] = [
       fr: ["Safwan est le seul poste frontière terrestre officiel entre l'Irak et le Koweït.", "Le poste frontière se situe directement sur l'autoroute 1 au sud de l'Irak.", "En mars 1991, la célèbre rencontre des chefs militaires a eu lieu ici.", "Du côté koweïtien, le poste frontière correspondant s'appelle Abdally.", "Chaque jour, des centaines de camions transportant des marchandises d'importation franchissent la frontière.", "Le poste se trouve à environ 45 kilomètres au sud-ouest de la ville de Bassorah."],
     }, image: "/poi-images/safwan-border-crossing-economic-v2.webp"},
   {
-    id: "iskandariya-industrial-complex-economic-v2",
+    id: "iskandariya-industrial-complex-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "chik point",
+                  "text": "Ein erhöhter Punkt in Iskandariya, der einen Überblick über die Industrielandschaft und die umliegenden Siedlungen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        44.372317,
+                        32.909314
+                  ]
+            },
+            {
+                  "name": "Al-Salam Mosque",
+                  "text": "Eine Friedensmoschee in Iskandariya, die als wichtiges religiöses Zentrum für die lokale Gemeinschaft dient.",
+                  "category": "religious",
+                  "coords": [
+                        44.365217,
+                        32.967654
+                  ]
+            },
+            {
+                  "name": "Al-Basheer Al-Nadheer 2 Mosque",
+                  "text": "Ein schlichter Gebetsort in Iskandariya, der den Bewohnern des Viertels für die täglichen Gebete zur Verfügung steht.",
+                  "category": "religious",
+                  "coords": [
+                        44.361739,
+                        32.964974
+                  ]
+            },
+            {
+                  "name": "Imam Ibn al Hasan",
+                  "text": "Eine religiöse Stätte in Iskandariya, die Imam Ibn al Hasan gewidmet ist und lokale Gläubige anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        44.284425,
+                        32.835158
+                  ]
+            },
+            {
+                  "name": "Mecca Mosque",
+                  "text": "Diese Moschee in Iskandariya ist nach der heiligen Stadt Mekka benannt und bildet ein spirituelles Zentrum im Industriegebiet.",
+                  "category": "religious",
+                  "coords": [
+                        44.352556,
+                        32.974946
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "chik point",
+                  "text": "Magaslati pont Iszkandarijában, ahonnan rálátás nyílik az ipari negyedre és a környező településekre.",
+                  "category": "natural",
+                  "coords": [
+                        44.372317,
+                        32.909314
+                  ]
+            },
+            {
+                  "name": "Al-Salam Mosque",
+                  "text": "A béke mecsetje Iszkandarijában, amely a helyi közösség fontos vallási központjaként működik.",
+                  "category": "religious",
+                  "coords": [
+                        44.365217,
+                        32.967654
+                  ]
+            },
+            {
+                  "name": "Al-Basheer Al-Nadheer 2 Mosque",
+                  "text": "Egyszerű imádságos hely Iszkandarijában, amely a környék lakóinak biztosít helyszínt a napi imákhoz.",
+                  "category": "religious",
+                  "coords": [
+                        44.361739,
+                        32.964974
+                  ]
+            },
+            {
+                  "name": "Imam Ibn al Hasan",
+                  "text": "Imám Ibn al-Haszannak szentelt vallási helyszín Iszkandarijában, amely vonzza a helyi hívőket.",
+                  "category": "landmark",
+                  "coords": [
+                        44.284425,
+                        32.835158
+                  ]
+            },
+            {
+                  "name": "Mecca Mosque",
+                  "text": "Ez az Iszkandarijában található mecset a szent város, Mekka nevét viseli, és spirituális központ az ipari zónában.",
+                  "category": "religious",
+                  "coords": [
+                        44.352556,
+                        32.974946
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "chik point",
+                  "text": "Un punct înalt în Iskandariya, oferind o perspectivă asupra peisajului industrial și a așezărilor din jur.",
+                  "category": "natural",
+                  "coords": [
+                        44.372317,
+                        32.909314
+                  ]
+            },
+            {
+                  "name": "Al-Salam Mosque",
+                  "text": "Moscheea păcii din Iskandariya, care servește drept centru religios important pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        44.365217,
+                        32.967654
+                  ]
+            },
+            {
+                  "name": "Al-Basheer Al-Nadheer 2 Mosque",
+                  "text": "Un loc de rugăciune modest în Iskandariya, pus la dispoziția locuitorilor din cartier pentru rugăciunile zilnice.",
+                  "category": "religious",
+                  "coords": [
+                        44.361739,
+                        32.964974
+                  ]
+            },
+            {
+                  "name": "Imam Ibn al Hasan",
+                  "text": "Un sit religios în Iskandariya dedicat Imamului Ibn al Hasan, atrăgând credincioșii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        44.284425,
+                        32.835158
+                  ]
+            },
+            {
+                  "name": "Mecca Mosque",
+                  "text": "Această moschee din Iskandariya poartă numele orașului sfânt Mecca și reprezintă un centru spiritual în zona industrială.",
+                  "category": "religious",
+                  "coords": [
+                        44.352556,
+                        32.974946
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "chik point",
+                  "text": "An elevated spot in Iskandariya providing a view over the industrial landscape and the surrounding residential areas.",
+                  "category": "natural",
+                  "coords": [
+                        44.372317,
+                        32.909314
+                  ]
+            },
+            {
+                  "name": "Al-Salam Mosque",
+                  "text": "The Al-Salam Mosque in Iskandariya serves as a key religious and social hub for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        44.365217,
+                        32.967654
+                  ]
+            },
+            {
+                  "name": "Al-Basheer Al-Nadheer 2 Mosque",
+                  "text": "A local place of worship in Iskandariya providing a space for daily prayers for the neighborhood residents.",
+                  "category": "religious",
+                  "coords": [
+                        44.361739,
+                        32.964974
+                  ]
+            },
+            {
+                  "name": "Imam Ibn al Hasan",
+                  "text": "A religious site in Iskandariya dedicated to Imam Ibn al Hasan, attracting local worshippers for prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        44.284425,
+                        32.835158
+                  ]
+            },
+            {
+                  "name": "Mecca Mosque",
+                  "text": "Named after the holy city of Mecca, this mosque in Iskandariya serves as a spiritual center within the industrial district.",
+                  "category": "religious",
+                  "coords": [
+                        44.352556,
+                        32.974946
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "IQ-BB",
     coords: [44.35, 32.90],

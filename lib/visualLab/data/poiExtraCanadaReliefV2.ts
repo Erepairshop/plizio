@@ -7,7 +7,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Francois Lake Protected Area",
-                  "text": "Francois Lake Protected Area ist ein Schutzgebiet in den Coast Mountains.",
+                  "text": "Schutzgebiet rund um den Francois Lake in den Bergen.",
                   "category": "natural",
                   "coords": [
                         -125.03993,
@@ -16,7 +16,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Stellako River Wildlife Management Area",
-                  "text": "Stellako River Wildlife Management Area ist ein Wildtiermanagementgebiet entlang des Stellako River in den Coast Mountains.",
+                  "text": "Wildtierbewirtschaftungsgebiet entlang des Stellako River.",
                   "category": "natural",
                   "coords": [
                         -124.9687,
@@ -27,7 +27,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Francois Lake Protected Area",
-                  "text": "Francois Lake Protected Area egy védett terület a Coast Mountainsben.",
+                  "text": "Védett terület a Francois-tó körül a hegyekben.",
                   "category": "natural",
                   "coords": [
                         -125.03993,
@@ -36,7 +36,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Stellako River Wildlife Management Area",
-                  "text": "Stellako River Wildlife Management Area egy vadvédelmi terület a Stellako folyó mentén a Coast Mountainsben.",
+                  "text": "Vadgazdálkodási terület a Stellako folyó mentén.",
                   "category": "natural",
                   "coords": [
                         -124.9687,
@@ -47,7 +47,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Francois Lake Protected Area",
-                  "text": "Francois Lake Protected Area este o arie protejată în Munții Coast.",
+                  "text": "Arie protejată în jurul lacului Francois în munți.",
                   "category": "natural",
                   "coords": [
                         -125.03993,
@@ -56,7 +56,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Stellako River Wildlife Management Area",
-                  "text": "Stellako River Wildlife Management Area este o zonă de gestionare a faunei sălbatice de-a lungul râului Stellako în Munții Coast.",
+                  "text": "Zonă de gestionare a faunei sălbatice de-a lungul râului Stellako.",
                   "category": "natural",
                   "coords": [
                         -124.9687,
@@ -67,7 +67,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Francois Lake Protected Area",
-                  "text": "Francois Lake Protected Area is a protected area in the Coast Mountains.",
+                  "text": "Protected area surrounding Francois Lake in the mountains.",
                   "category": "natural",
                   "coords": [
                         -125.03993,
@@ -76,7 +76,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Stellako River Wildlife Management Area",
-                  "text": "Stellako River Wildlife Management Area is a wildlife management area along the Stellako River in the Coast Mountains.",
+                  "text": "Wildlife management area along the Stellako River.",
                   "category": "natural",
                   "coords": [
                         -124.9687,
@@ -131,7 +131,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Baie du Lac Monette",
-                  "text": "Eine Bucht in laurentian-mountains-relief-v2 am Lac Monette.",
+                  "text": "Bucht des Lac Monette in der Bergregion, umgeben von bewaldeten Hügeln.",
                   "category": "landmark",
                   "coords": [
                         -73.937091,
@@ -140,7 +140,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Baie des Loups",
-                  "text": "Eine Bucht in laurentian-mountains-relief-v2.",
+                  "text": "Wolfsbucht in der Bergregion, bekannt für ihre abgelegene Lage und wilde Landschaft.",
                   "category": "landmark",
                   "coords": [
                         -73.950374,
@@ -151,7 +151,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Baie du Lac Monette",
-                  "text": "Egy öböl a laurentian-mountains-relief-v2-ben, a Lac Monette-nél.",
+                  "text": "A Monette-tó öble a hegyvidéken, erdős dombokkal körülvéve.",
                   "category": "landmark",
                   "coords": [
                         -73.937091,
@@ -160,7 +160,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Baie des Loups",
-                  "text": "Egy öböl a laurentian-mountains-relief-v2-ben.",
+                  "text": "Farkas-öböl a hegyvidéken, eldugott fekvéséről és vadregényes tájáról ismert.",
                   "category": "landmark",
                   "coords": [
                         -73.950374,
@@ -171,7 +171,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Baie du Lac Monette",
-                  "text": "Un golf în laurentian-mountains-relief-v2 pe Lacul Monette.",
+                  "text": "Golful lacului Monette, în regiunea montană, înconjurat de dealuri împădurite.",
                   "category": "landmark",
                   "coords": [
                         -73.937091,
@@ -180,7 +180,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Baie des Loups",
-                  "text": "Un golf în laurentian-mountains-relief-v2.",
+                  "text": "Golful Lupilor, în regiunea montană, cunoscut pentru izolarea și peisajul sălbatic.",
                   "category": "landmark",
                   "coords": [
                         -73.950374,
@@ -191,7 +191,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Baie du Lac Monette",
-                  "text": "A bay in laurentian-mountains-relief-v2 on Lake Monette.",
+                  "text": "Baie du Lac Monette: a bay on Lake Monette in the Mountains region, surrounded by forested hills.",
                   "category": "landmark",
                   "coords": [
                         -73.937091,
@@ -200,7 +200,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Baie des Loups",
-                  "text": "A bay in laurentian-mountains-relief-v2.",
+                  "text": "Baie des Loups: Wolf Bay in the Mountains region, known for its remote setting and wild landscape.",
                   "category": "landmark",
                   "coords": [
                         -73.950374,
@@ -282,7 +282,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Big Bend Peak",
-                  "text": "Der Big Bend Peak ist ein Gipfel im Columbia Icefield-Gebiet mit einer charakteristischen großen Biegung.",
+                  "text": "Gipfel im Columbia-Eisfeld mit einer markanten Biegung, daher der Name 'Big Bend'.",
                   "category": "natural",
                   "coords": [
                         -117.111663,
@@ -320,7 +320,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Big Bend Peak",
-                  "text": "A Big Bend Peak egy csúcs a Columbia Icefield területén, jellegzetes nagy kanyar formával.",
+                  "text": "Csúcs a Columbia-jégmezőn, jellegzetes kanyarulatáról kapta a nevét.",
                   "category": "natural",
                   "coords": [
                         -117.111663,
@@ -358,7 +358,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Big Bend Peak",
-                  "text": "Big Bend Peak este un vârf în zona Columbia Icefield cu o formă distinctivă de cot mare.",
+                  "text": "Vârf în Câmpul de Gheață Columbia, numit după curbura sa pronunțată.",
                   "category": "natural",
                   "coords": [
                         -117.111663,
@@ -396,7 +396,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Big Bend Peak",
-                  "text": "Big Bend Peak is a peak in the Columbia Icefield area with a distinctive big bend shape.",
+                  "text": "Big Bend Peak: a summit in the Columbia Icefield, named for its distinctive bend.",
                   "category": "natural",
                   "coords": [
                         -117.111663,
@@ -494,7 +494,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Innuit Mountain",
-                  "text": "Der Innuit Mountain ist ein prominenter Gipfel in den Torngat Mountains von Labrador.",
+                  "text": "Der Innuit Mountain liegt in den Coast Mountains von British Columbia nahe der Grenze zu den USA.",
                   "category": "natural",
                   "coords": [
                         -64.11605,
@@ -503,7 +503,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Idyutak Mountain",
-                  "text": "Ein Berg in den Torngat Mountains von Labrador.",
+                  "text": "Berg in der Baffin-Gebirgskette, ein Teil der arktischen Tundra-Landschaft.",
                   "category": "natural",
                   "coords": [
                         -63.863128,
@@ -512,7 +512,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Kutyautak Mountain",
-                  "text": "Ein weiterer Berg in den Torngat Mountains von Labrador.",
+                  "text": "Berg in den Baffin Mountains, geprägt durch steile Felshänge und Gletscher.",
                   "category": "natural",
                   "coords": [
                         -63.92953,
@@ -523,7 +523,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Innuit Mountain",
-                  "text": "Az Innuit-hegy egy kiemelkedő csúcs a labradori Torngat-hegységben.",
+                  "text": "Az Innuit Mountain Brit Columbia Parti-hegységében található, az USA határához közel.",
                   "category": "natural",
                   "coords": [
                         -64.11605,
@@ -532,7 +532,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Idyutak Mountain",
-                  "text": "Egy hegy a labradori Torngat-hegységben.",
+                  "text": "Hegy a Baffin-hegységben, része a sarkvidéki tundra tájának.",
                   "category": "natural",
                   "coords": [
                         -63.863128,
@@ -541,7 +541,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Kutyautak Mountain",
-                  "text": "Egy másik hegy a labradori Torngat-hegységben.",
+                  "text": "Hegy a Baffin-hegységben, meredek sziklafalakkal és gleccserekkel.",
                   "category": "natural",
                   "coords": [
                         -63.92953,
@@ -552,7 +552,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Innuit Mountain",
-                  "text": "Muntele Innuit este un vârf proeminent în Munții Torngat din Labrador.",
+                  "text": "Muntele Innuit se află în Munții de Coastă ai Columbiei Britanice, aproape de granița cu SUA.",
                   "category": "natural",
                   "coords": [
                         -64.11605,
@@ -561,7 +561,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Idyutak Mountain",
-                  "text": "Un munte în Munții Torngat din Labrador.",
+                  "text": "Munte în lanțul Baffin, parte a peisajului de tundră arctică.",
                   "category": "natural",
                   "coords": [
                         -63.863128,
@@ -570,7 +570,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Kutyautak Mountain",
-                  "text": "Un alt munte în Munții Torngat din Labrador.",
+                  "text": "Munte în Munții Baffin, caracterizat de pereți stâncoși abrupți și ghețari.",
                   "category": "natural",
                   "coords": [
                         -63.92953,
@@ -581,7 +581,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Innuit Mountain",
-                  "text": "Innuit Mountain is a prominent peak in the Torngat Mountains of Labrador.",
+                  "text": "Innuit Mountain is in the Coast Mountains of British Columbia, near the US border.",
                   "category": "natural",
                   "coords": [
                         -64.11605,
@@ -590,7 +590,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Idyutak Mountain",
-                  "text": "A mountain in the Torngat Mountains of Labrador.",
+                  "text": "Idyutak Mountain: a peak in the Baffin Mountains, part of the Arctic tundra landscape.",
                   "category": "natural",
                   "coords": [
                         -63.863128,
@@ -599,7 +599,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Kutyautak Mountain",
-                  "text": "Another mountain in the Torngat Mountains of Labrador.",
+                  "text": "Kutyautak Mountain: a peak in the Baffin Mountains with steep rock faces and glaciers.",
                   "category": "natural",
                   "coords": [
                         -63.92953,
@@ -690,7 +690,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Ziptrek Écotours",
-                  "text": "Eine Seilrücken-Ökotour-Attraktion in mont-tremblant-relief-v2.",
+                  "text": "Öko-Tour-Anbieter mit Seilrutschen durch das Blätterdach der Laurentinischen Wälder.",
                   "category": "landmark",
                   "coords": [
                         -74.584307,
@@ -699,7 +699,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Mission Laser",
-                  "text": "Eine Lasertag-Attraktion in mont-tremblant-relief-v2.",
+                  "text": "Laser-Tag-Arena mit futuristischen Missionen.",
                   "category": "landmark",
                   "coords": [
                         -74.585451,
@@ -726,7 +726,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Belvédère des Chutes",
-                  "text": "Ein Aussichtspunkt in mont-tremblant-relief-v2 mit Blick auf Wasserfälle.",
+                  "text": "Aussichtsplattform mit Blick auf die Wasserfälle.",
                   "category": "natural",
                   "coords": [
                         -74.60061,
@@ -780,7 +780,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Sentier des cimes Laurentides",
-                  "text": "Eine Baumwipfelpfad-Attraktion in mont-tremblant-relief-v2.",
+                  "text": "Baumkronenpfad im Blätterdach der Laurentinischen Wälder.",
                   "category": "landmark",
                   "coords": [
                         -74.505097,
@@ -798,7 +798,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "B&T - Beach & Tennis Club",
-                  "text": "Ein Strand- und Tennisclub in mont-tremblant-relief-v2.",
+                  "text": "Privater Strand- und Tennisclub mit Plätzen und Seezugang.",
                   "category": "recreational",
                   "coords": [
                         -74.595215,
@@ -807,7 +807,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Plage du Pinoteau",
-                  "text": "Ein Strand in mont-tremblant-relief-v2 am Lake Pinoteau.",
+                  "text": "Sandstrand am Pinoteau-See.",
                   "category": "recreational",
                   "coords": [
                         -74.597801,
@@ -816,7 +816,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Plage Municipale",
-                  "text": "Ein öffentlicher Strand in mont-tremblant-relief-v2.",
+                  "text": "Öffentlicher Gemeindestrand an einem See.",
                   "category": "recreational",
                   "coords": [
                         -74.473659,
@@ -825,7 +825,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Plage du Lac-Équerre",
-                  "text": "Ein Strand in mont-tremblant-relief-v2 am Lac-Équerre.",
+                  "text": "Strand am Ufer des Lac-Équerre.",
                   "category": "recreational",
                   "coords": [
                         -74.486195,
@@ -881,7 +881,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Ziptrek Écotours",
-                  "text": "Cipzeles ökotúra-attrakció a mont-tremblant-relief-v2-ben.",
+                  "text": "Ökotúra-szolgáltató kötélpályákkal a Laurenti erdő lombkoronáján át.",
                   "category": "landmark",
                   "coords": [
                         -74.584307,
@@ -890,7 +890,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Mission Laser",
-                  "text": "Laser tag attrakció a mont-tremblant-relief-v2-ben.",
+                  "text": "Laser tag aréna futurisztikus küldetésekkel.",
                   "category": "landmark",
                   "coords": [
                         -74.585451,
@@ -917,7 +917,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Belvédère des Chutes",
-                  "text": "Kilátópont a mont-tremblant-relief-v2-ben, vízesésekre néző kilátással.",
+                  "text": "Kilátóplatform a vízesésekre nyíló kilátással.",
                   "category": "natural",
                   "coords": [
                         -74.60061,
@@ -971,7 +971,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Sentier des cimes Laurentides",
-                  "text": "Fakoronasétány-attrakció a mont-tremblant-relief-v2-ben.",
+                  "text": "Fatetőn vezető ösvény a Laurenti erdő lombkoronájában.",
                   "category": "landmark",
                   "coords": [
                         -74.505097,
@@ -989,7 +989,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "B&T - Beach & Tennis Club",
-                  "text": "Strand- és teniszklub a mont-tremblant-relief-v2-ben.",
+                  "text": "Privát strand- és teniszklub pályákkal és tóhozzáféréssel.",
                   "category": "recreational",
                   "coords": [
                         -74.595215,
@@ -998,7 +998,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Plage du Pinoteau",
-                  "text": "Strand a mont-tremblant-relief-v2-ben, a Pinoteau-tó partján.",
+                  "text": "Homokos strand a Pinoteau-tónál.",
                   "category": "recreational",
                   "coords": [
                         -74.597801,
@@ -1007,7 +1007,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Plage Municipale",
-                  "text": "Önkormányzati strand a mont-tremblant-relief-v2-ben.",
+                  "text": "Nyilvános községi strand egy tónál.",
                   "category": "recreational",
                   "coords": [
                         -74.473659,
@@ -1016,7 +1016,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Plage du Lac-Équerre",
-                  "text": "Strand a mont-tremblant-relief-v2-ben, a Lac-Équerre partján.",
+                  "text": "Strand a Lac-Équerre partján.",
                   "category": "recreational",
                   "coords": [
                         -74.486195,
@@ -1072,7 +1072,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Ziptrek Écotours",
-                  "text": "O atracție de tiroliană ecoturism în mont-tremblant-relief-v2.",
+                  "text": "Companie de eco-tur cu tiroliene prin coronamentul pădurii Laurentiene.",
                   "category": "landmark",
                   "coords": [
                         -74.584307,
@@ -1081,7 +1081,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Mission Laser",
-                  "text": "O atracție de laser tag în mont-tremblant-relief-v2.",
+                  "text": "Arenă de laser tag cu misiuni futuriste.",
                   "category": "landmark",
                   "coords": [
                         -74.585451,
@@ -1108,7 +1108,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Belvédère des Chutes",
-                  "text": "Un punct de belvedere în mont-tremblant-relief-v2 cu vedere la cascade.",
+                  "text": "Platformă de belvedere cu vedere la cascade.",
                   "category": "natural",
                   "coords": [
                         -74.60061,
@@ -1162,7 +1162,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Sentier des cimes Laurentides",
-                  "text": "O atracție de promenadă pe coroanele copacilor în mont-tremblant-relief-v2.",
+                  "text": "Potecă în coronamentul pădurii Laurentiene.",
                   "category": "landmark",
                   "coords": [
                         -74.505097,
@@ -1180,7 +1180,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "B&T - Beach & Tennis Club",
-                  "text": "Un club de plajă și tenis în mont-tremblant-relief-v2.",
+                  "text": "Club privat de plajă și tenis cu terenuri și acces la lac.",
                   "category": "recreational",
                   "coords": [
                         -74.595215,
@@ -1189,7 +1189,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Plage du Pinoteau",
-                  "text": "O plajă în mont-tremblant-relief-v2 pe Lacul Pinoteau.",
+                  "text": "Plajă nisipoasă pe lacul Pinoteau.",
                   "category": "recreational",
                   "coords": [
                         -74.597801,
@@ -1198,7 +1198,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Plage Municipale",
-                  "text": "O plajă municipală în mont-tremblant-relief-v2.",
+                  "text": "Plajă publică municipală pe un lac.",
                   "category": "recreational",
                   "coords": [
                         -74.473659,
@@ -1207,7 +1207,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Plage du Lac-Équerre",
-                  "text": "O plajă în mont-tremblant-relief-v2 pe Lacul Équerre.",
+                  "text": "Plajă pe malul lacului Équerre.",
                   "category": "recreational",
                   "coords": [
                         -74.486195,
@@ -1263,7 +1263,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Ziptrek Écotours",
-                  "text": "A zipline ecotour attraction in mont-tremblant-relief-v2.",
+                  "text": "Eco-tour company with zip lines through the Laurentian forest canopy.",
                   "category": "landmark",
                   "coords": [
                         -74.584307,
@@ -1272,7 +1272,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Mission Laser",
-                  "text": "A laser tag attraction in mont-tremblant-relief-v2.",
+                  "text": "Laser tag arena with futuristic missions.",
                   "category": "landmark",
                   "coords": [
                         -74.585451,
@@ -1299,7 +1299,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Belvédère des Chutes",
-                  "text": "A viewpoint in mont-tremblant-relief-v2 overlooking waterfalls.",
+                  "text": "Lookout platform offering views of the waterfalls.",
                   "category": "natural",
                   "coords": [
                         -74.60061,
@@ -1353,7 +1353,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Sentier des cimes Laurentides",
-                  "text": "A treetop walkway attraction in mont-tremblant-relief-v2.",
+                  "text": "Treetop walkway in the Laurentian forest canopy.",
                   "category": "landmark",
                   "coords": [
                         -74.505097,
@@ -1371,7 +1371,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "B&T - Beach & Tennis Club",
-                  "text": "A beach and tennis club in mont-tremblant-relief-v2.",
+                  "text": "Private beach and tennis club with courts and lake access.",
                   "category": "recreational",
                   "coords": [
                         -74.595215,
@@ -1380,7 +1380,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Plage du Pinoteau",
-                  "text": "A beach in mont-tremblant-relief-v2 on Lake Pinoteau.",
+                  "text": "Sandy beach on Lake Pinoteau.",
                   "category": "recreational",
                   "coords": [
                         -74.597801,
@@ -1389,7 +1389,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Plage Municipale",
-                  "text": "A municipal beach in mont-tremblant-relief-v2.",
+                  "text": "Public municipal beach on a lake.",
                   "category": "recreational",
                   "coords": [
                         -74.473659,
@@ -1398,7 +1398,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Plage du Lac-Équerre",
-                  "text": "A beach in mont-tremblant-relief-v2 on Lake Équerre.",
+                  "text": "Beach on the shores of Lac-Équerre.",
                   "category": "recreational",
                   "coords": [
                         -74.486195,
@@ -1507,7 +1507,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "de": [
             {
                   "name": "The Sharkfin",
-                  "text": "Ein Gipfel im Garibaldi-Gebiet, der wie eine Haifischflosse geformt ist.",
+                  "text": "Haifischflossen-förmiger Felsgipfel im Garibaldi Provincial Park, ein beliebtes Kletterziel.",
                   "category": "natural",
                   "coords": [
                         -122.989215,
@@ -1516,7 +1516,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Round Mountain",
-                  "text": "Ein abgerundeter Berggipfel im Garibaldi-Gebiet.",
+                  "text": "Runder Berg im Garibaldi-Gebiet, ein Überbleibsel eines erodierten Vulkans.",
                   "category": "natural",
                   "coords": [
                         -123.024059,
@@ -1534,7 +1534,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "The Tent",
-                  "text": "Ein Gipfel im Garibaldi-Gebiet, der an ein Zelt erinnert.",
+                  "text": "Zeltförmiger Berggipfel im Garibaldi Provincial Park, benannt nach seiner Silhouette.",
                   "category": "natural",
                   "coords": [
                         -122.996428,
@@ -1543,7 +1543,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Atwell Peak",
-                  "text": "Ein vulkanischer Gipfel im Garibaldi-Vulkangürtel.",
+                  "text": "Der Atwell Peak ist ein Vulkangipfel im Garibaldi-Provinzpark am Garibaldi Lake.",
                   "category": "natural",
                   "coords": [
                         -123.007778,
@@ -1561,7 +1561,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Daedalus Ridge",
-                  "text": "Daedalus Ridge ist ein Aussichtspunkt im Mount-Garibaldi-Gebiet.",
+                  "text": "Bergrücken, benannt nach dem mythischen Daedalus.",
                   "category": "natural",
                   "coords": [
                         -123.081154,
@@ -1570,7 +1570,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "David Reid Ski Bench",
-                  "text": "Die David Reid Ski Bench ist ein Aussichtspunkt im Mount-Garibaldi-Gebiet.",
+                  "text": "Gedenkbank mit Blick auf die Skipisten von Garibaldi.",
                   "category": "natural",
                   "coords": [
                         -123.079625,
@@ -1579,7 +1579,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Icarus Ridge",
-                  "text": "Icarus Ridge ist ein Aussichtspunkt im Mount-Garibaldi-Gebiet.",
+                  "text": "Bergrücken, benannt nach Ikarus, mit Panoramablick auf die Berge.",
                   "category": "natural",
                   "coords": [
                         -123.079848,
@@ -1606,7 +1606,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Brohm Lake Interpretive Forest Trails",
-                  "text": "Lehrreiche Waldpfade im Brohm Lake Interpretive Forest im Mount-Garibaldi-Gebiet.",
+                  "text": "Lehrpfade durch den Wald rund um den Brohm Lake.",
                   "category": "natural",
                   "coords": [
                         -123.136258,
@@ -1615,7 +1615,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Brohm Lake Day Use Recreation Site",
-                  "text": "Ein Tagesnutzungsgebiet am Brohm Lake im Mount-Garibaldi-Gebiet.",
+                  "text": "Tagesausflugsgebiet mit Schwimmen und Picknick am Brohm Lake.",
                   "category": "natural",
                   "coords": [
                         -123.130109,
@@ -1624,7 +1624,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Cat Lake Recreation Site",
-                  "text": "Das Cat Lake Recreation Site ist ein Erholungsgebiet im Mount-Garibaldi-Gebiet.",
+                  "text": "Erholungsgebiet am Cat Lake mit Camping und Wandern.",
                   "category": "natural",
                   "coords": [
                         -123.109334,
@@ -1642,7 +1642,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Raffuse Creek Recreation Reserve",
-                  "text": "Das Raffuse Creek Recreation Reserve ist ein Naturschutzgebiet im Mount-Garibaldi-Gebiet.",
+                  "text": "Erholungsreservat entlang des Raffuse Creek mit Wanderwegen.",
                   "category": "natural",
                   "coords": [
                         -123.046732,
@@ -1653,7 +1653,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "The Sharkfin",
-                  "text": "Egy csúcs a Garibaldi térségében, amely cápaúszó alakú.",
+                  "text": "Cápaúszó alakú sziklacsúcs a Garibaldi Tartományi Parkban, népszerű mászóhellyel.",
                   "category": "natural",
                   "coords": [
                         -122.989215,
@@ -1662,7 +1662,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Round Mountain",
-                  "text": "Egy lekerekített hegycsúcs a Garibaldi térségében.",
+                  "text": "Kerek hegy a Garibaldi régióban, egy erodálódott vulkán maradványa.",
                   "category": "natural",
                   "coords": [
                         -123.024059,
@@ -1680,7 +1680,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "The Tent",
-                  "text": "Egy csúcs a Garibaldi térségében, amely sátorra emlékeztet.",
+                  "text": "Sátor alakú hegycsúcs a Garibaldi Tartományi Parkban, sziluettje után elnevezve.",
                   "category": "natural",
                   "coords": [
                         -122.996428,
@@ -1689,7 +1689,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Atwell Peak",
-                  "text": "Egy vulkáni csúcs a Garibaldi vulkáni övben.",
+                  "text": "Az Atwell Peak egy vulkáni csúcs a Garibaldi Tartományi Parkban, a Garibaldi-tó mellett.",
                   "category": "natural",
                   "coords": [
                         -123.007778,
@@ -1707,7 +1707,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Daedalus Ridge",
-                  "text": "A Daedalus Ridge egy kilátópont a Mount Garibaldi régióban.",
+                  "text": "Hegygerinc, amely a mitológiai Daidaloszról kapta nevét.",
                   "category": "natural",
                   "coords": [
                         -123.081154,
@@ -1716,7 +1716,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "David Reid Ski Bench",
-                  "text": "A David Reid Ski Bench egy kilátópont a Mount Garibaldi régióban.",
+                  "text": "Emlékpad kilátással a Garibaldi sípályákra.",
                   "category": "natural",
                   "coords": [
                         -123.079625,
@@ -1725,7 +1725,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Icarus Ridge",
-                  "text": "Az Icarus Ridge egy kilátópont a Mount Garibaldi régióban.",
+                  "text": "Ikaruszról elnevezett hegygerinc, panorámás hegyi kilátással.",
                   "category": "natural",
                   "coords": [
                         -123.079848,
@@ -1752,7 +1752,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Brohm Lake Interpretive Forest Trails",
-                  "text": "Tanösvények a Brohm Lake Interpretive Forestben a Mount Garibaldi régióban.",
+                  "text": "Ismeretterjesztő túraútvonalak a Brohm-tó körüli erdőben.",
                   "category": "natural",
                   "coords": [
                         -123.136258,
@@ -1761,7 +1761,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Brohm Lake Day Use Recreation Site",
-                  "text": "Nappali használatú rekreációs terület a Brohm-tónál a Mount Garibaldi régióban.",
+                  "text": "Nappali használatú kikapcsolódási hely úszással és piknikezéssel a Brohm-tónál.",
                   "category": "natural",
                   "coords": [
                         -123.130109,
@@ -1770,7 +1770,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Cat Lake Recreation Site",
-                  "text": "A Cat Lake Recreation Site egy pihenőhely a Mount Garibaldi régióban.",
+                  "text": "Kikapcsolódási hely a Cat-tónál kempingezéssel és túrázással.",
                   "category": "natural",
                   "coords": [
                         -123.109334,
@@ -1788,7 +1788,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Raffuse Creek Recreation Reserve",
-                  "text": "A Raffuse Creek Recreation Reserve egy természetvédelmi terület a Mount Garibaldi régióban.",
+                  "text": "Kikapcsolódási rezervátum a Raffuse-patak mentén túraútvonalakkal.",
                   "category": "natural",
                   "coords": [
                         -123.046732,
@@ -1799,7 +1799,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "The Sharkfin",
-                  "text": "Un vârf în zona Garibaldi, în formă de aripioară de rechin.",
+                  "text": "Vârf stâncos în formă de aripă de rechin în Parcul Provincial Garibaldi, destinație populară de alpinism.",
                   "category": "natural",
                   "coords": [
                         -122.989215,
@@ -1808,7 +1808,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Round Mountain",
-                  "text": "Un vârf de munte rotunjit în zona Garibaldi.",
+                  "text": "Muntele Rotund, în regiunea Garibaldi, rămășița unui vulcan erodat.",
                   "category": "natural",
                   "coords": [
                         -123.024059,
@@ -1826,7 +1826,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "The Tent",
-                  "text": "Un vârf în zona Garibaldi, care amintește de o cort.",
+                  "text": "Vârf montan în formă de cort în Parcul Provincial Garibaldi, numit după silueta sa.",
                   "category": "natural",
                   "coords": [
                         -122.996428,
@@ -1835,7 +1835,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Atwell Peak",
-                  "text": "Un vârf vulcanic în Centura Vulcanică Garibaldi.",
+                  "text": "Atwell Peak este un vârf vulcanic în Parcul Provincial Garibaldi, lângă lacul Garibaldi.",
                   "category": "natural",
                   "coords": [
                         -123.007778,
@@ -1853,7 +1853,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Daedalus Ridge",
-                  "text": "Daedalus Ridge este un punct de belvedere în zona Mount Garibaldi.",
+                  "text": "Creasta de munte numită după miticul Dedal.",
                   "category": "natural",
                   "coords": [
                         -123.081154,
@@ -1862,7 +1862,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "David Reid Ski Bench",
-                  "text": "David Reid Ski Bench este un punct de belvedere în zona Mount Garibaldi.",
+                  "text": "Bancă memorială cu vedere la pârtiile de schi Garibaldi.",
                   "category": "natural",
                   "coords": [
                         -123.079625,
@@ -1871,7 +1871,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Icarus Ridge",
-                  "text": "Icarus Ridge este un punct de belvedere în zona Mount Garibaldi.",
+                  "text": "Creasta numită după Icar, cu vedere panoramică la munți.",
                   "category": "natural",
                   "coords": [
                         -123.079848,
@@ -1898,7 +1898,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Brohm Lake Interpretive Forest Trails",
-                  "text": "Trasee forestiere educaționale în Pădurea Interpretivă Brohm Lake din zona Mount Garibaldi.",
+                  "text": "Trasee de drumeție interpretative prin pădurea din jurul lacului Brohm.",
                   "category": "natural",
                   "coords": [
                         -123.136258,
@@ -1907,7 +1907,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Brohm Lake Day Use Recreation Site",
-                  "text": "Un loc de agrement pentru utilizare zilnică la Lacul Brohm în zona Mount Garibaldi.",
+                  "text": "Loc de recreere de zi cu înot și picnic la lacul Brohm.",
                   "category": "natural",
                   "coords": [
                         -123.130109,
@@ -1916,7 +1916,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Cat Lake Recreation Site",
-                  "text": "Cat Lake Recreation Site este o zonă de agrement în zona Mount Garibaldi.",
+                  "text": "Loc de recreere la lacul Cat cu camping și drumeții.",
                   "category": "natural",
                   "coords": [
                         -123.109334,
@@ -1934,7 +1934,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Raffuse Creek Recreation Reserve",
-                  "text": "Rezervația de agrement Raffuse Creek este o rezervație naturală în zona Mount Garibaldi.",
+                  "text": "Rezervație de recreere de-a lungul pârâului Raffuse cu trasee.",
                   "category": "natural",
                   "coords": [
                         -123.046732,
@@ -1945,7 +1945,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "en": [
             {
                   "name": "The Sharkfin",
-                  "text": "A peak in the Garibaldi area shaped like a shark fin.",
+                  "text": "The Sharkfin: a shark-fin-shaped rock peak in Garibaldi Provincial Park, popular with climbers.",
                   "category": "natural",
                   "coords": [
                         -122.989215,
@@ -1954,7 +1954,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Round Mountain",
-                  "text": "A rounded mountain peak in the Garibaldi area.",
+                  "text": "Round Mountain: a rounded peak in the Garibaldi area, remnant of an eroded volcano.",
                   "category": "natural",
                   "coords": [
                         -123.024059,
@@ -1972,7 +1972,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "The Tent",
-                  "text": "A peak in the Garibaldi area resembling a tent.",
+                  "text": "The Tent: a tent-shaped mountain summit in Garibaldi Provincial Park, named for its silhouette.",
                   "category": "natural",
                   "coords": [
                         -122.996428,
@@ -1981,7 +1981,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Atwell Peak",
-                  "text": "A volcanic peak in the Garibaldi Volcanic Belt.",
+                  "text": "Atwell Peak is a volcanic peak in Garibaldi Provincial Park, near Garibaldi Lake.",
                   "category": "natural",
                   "coords": [
                         -123.007778,
@@ -1999,7 +1999,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Daedalus Ridge",
-                  "text": "Daedalus Ridge is a viewpoint in the Mount Garibaldi area.",
+                  "text": "Mountain ridge named after the mythical Daedalus.",
                   "category": "natural",
                   "coords": [
                         -123.081154,
@@ -2008,7 +2008,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "David Reid Ski Bench",
-                  "text": "The David Reid Ski Bench is a viewpoint in the Mount Garibaldi area.",
+                  "text": "Memorial bench offering views of the Garibaldi ski slopes.",
                   "category": "natural",
                   "coords": [
                         -123.079625,
@@ -2017,7 +2017,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Icarus Ridge",
-                  "text": "Icarus Ridge is a viewpoint in the Mount Garibaldi area.",
+                  "text": "Ridge named after Icarus, with panoramic mountain views.",
                   "category": "natural",
                   "coords": [
                         -123.079848,
@@ -2044,7 +2044,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Brohm Lake Interpretive Forest Trails",
-                  "text": "Interpretive forest trails in the Brohm Lake Interpretive Forest in the Mount Garibaldi area.",
+                  "text": "Interpretive hiking trails through the forest around Brohm Lake.",
                   "category": "natural",
                   "coords": [
                         -123.136258,
@@ -2053,7 +2053,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Brohm Lake Day Use Recreation Site",
-                  "text": "A day-use recreation site at Brohm Lake in the Mount Garibaldi area.",
+                  "text": "Day-use recreation site with swimming and picnicking at Brohm Lake.",
                   "category": "natural",
                   "coords": [
                         -123.130109,
@@ -2062,7 +2062,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Cat Lake Recreation Site",
-                  "text": "Cat Lake Recreation Site is a recreation area in the Mount Garibaldi area.",
+                  "text": "Recreation site at Cat Lake with camping and hiking.",
                   "category": "natural",
                   "coords": [
                         -123.109334,
@@ -2080,7 +2080,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Raffuse Creek Recreation Reserve",
-                  "text": "Raffuse Creek Recreation Reserve is a nature reserve in the Mount Garibaldi area.",
+                  "text": "Recreation reserve along Raffuse Creek with trails.",
                   "category": "natural",
                   "coords": [
                         -123.046732,
@@ -2315,7 +2315,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Grassi Knob",
-                  "text": "Ein Aussichtspunkt auf dem Grassi Knob im Mount Rundle-Gebiet.",
+                  "text": "Grasbewachsener Hügel mit Blick auf das Rundle-Gebiet.",
                   "category": "natural",
                   "coords": [
                         -115.360111,
@@ -2351,7 +2351,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Rundle Forebay",
-                  "text": "Rundle Forebay ist ein Aussichtspunkt nahe Canmore mit Blick auf das Vorbecken und den Mount Rundle.",
+                  "text": "Stausee-Vorbecken am Rundle River.",
                   "category": "natural",
                   "coords": [
                         -115.383158,
@@ -2369,7 +2369,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Princess Margaret Mountain",
-                  "text": "Princess Margaret Mountain ist ein Gipfel in den kanadischen Rocky Mountains nahe Canmore.",
+                  "text": "Berg im Rundle-Massiv, benannt nach Prinzessin Margaret, einer Schwester von Königin Elisabeth II.",
                   "category": "natural",
                   "coords": [
                         -115.368118,
@@ -2414,7 +2414,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Wildlife Corridor",
-                  "text": "Der Wildlife Corridor ist ein geschützter Korridor für die Tierwanderung im Bow Valley nahe Canmore.",
+                  "text": "Geschützter Wildtierkorridor, der natürliche Lebensräume verbindet.",
                   "category": "natural",
                   "coords": [
                         -115.336372,
@@ -2443,7 +2443,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Grassi Knob",
-                  "text": "Egy kilátóhely a Grassi Knob-on a Mount Rundle területen.",
+                  "text": "Füves domb kilátással a Rundle környékére.",
                   "category": "natural",
                   "coords": [
                         -115.360111,
@@ -2479,7 +2479,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Rundle Forebay",
-                  "text": "A Rundle Forebay egy kilátóhely Canmore közelében, ahonnan a előtározóra és a Mount Rundle-re nyílik kilátás.",
+                  "text": "Víztározó előmedence a Rundle folyón.",
                   "category": "natural",
                   "coords": [
                         -115.383158,
@@ -2497,7 +2497,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Princess Margaret Mountain",
-                  "text": "A Princess Margaret Mountain egy csúcs a kanadai Sziklás-hegységben, Canmore közelében.",
+                  "text": "Hegy a Rundle-hegységben, Margaret hercegnőről, II. Erzsébet királynő testvéréről elnevezve.",
                   "category": "natural",
                   "coords": [
                         -115.368118,
@@ -2542,7 +2542,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Wildlife Corridor",
-                  "text": "A Wildlife Corridor egy védett folyosó a vadállomány mozgásához a Bow Valley-ben, Canmore közelében.",
+                  "text": "Védett vadfolyosó, amely természetes élőhelyeket köt össze.",
                   "category": "natural",
                   "coords": [
                         -115.336372,
@@ -2571,7 +2571,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Grassi Knob",
-                  "text": "Un punct de belvedere pe Grassi Knob în zona Mount Rundle.",
+                  "text": "Deal ierbos cu vedere spre zona Rundle.",
                   "category": "natural",
                   "coords": [
                         -115.360111,
@@ -2607,7 +2607,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Rundle Forebay",
-                  "text": "Rundle Forebay este un punct de belvedere lângă Canmore, cu vedere la lacul de acumulare și la Mount Rundle.",
+                  "text": "Zonă de retenție pe râul Rundle.",
                   "category": "natural",
                   "coords": [
                         -115.383158,
@@ -2625,7 +2625,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Princess Margaret Mountain",
-                  "text": "Princess Margaret Mountain este un vârf în Munții Stâncoși canadieni, lângă Canmore.",
+                  "text": "Munte în masivul Rundle, numit după Prințesa Margaret, sora reginei Elisabeta a II-a.",
                   "category": "natural",
                   "coords": [
                         -115.368118,
@@ -2670,7 +2670,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Wildlife Corridor",
-                  "text": "Wildlife Corridor este un coridor protejat pentru deplasarea faunei sălbatice în Bow Valley, lângă Canmore.",
+                  "text": "Coridor protejat pentru fauna sălbatică care leagă habitate naturale.",
                   "category": "natural",
                   "coords": [
                         -115.336372,
@@ -2699,7 +2699,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Grassi Knob",
-                  "text": "A viewpoint on Grassi Knob in the Mount Rundle area.",
+                  "text": "Grassy knob offering views of the Rundle area.",
                   "category": "natural",
                   "coords": [
                         -115.360111,
@@ -2735,7 +2735,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Rundle Forebay",
-                  "text": "Rundle Forebay is a viewpoint near Canmore overlooking the forebay and Mount Rundle.",
+                  "text": "Reservoir forebay on the Rundle River.",
                   "category": "natural",
                   "coords": [
                         -115.383158,
@@ -2753,7 +2753,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Princess Margaret Mountain",
-                  "text": "Princess Margaret Mountain is a peak in the Canadian Rockies near Canmore.",
+                  "text": "Princess Margaret Mountain: a peak in the Rundle range, named after Princess Margaret, sister of Queen Elizabeth II.",
                   "category": "natural",
                   "coords": [
                         -115.368118,
@@ -2798,7 +2798,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Wildlife Corridor",
-                  "text": "Wildlife Corridor is a protected corridor for wildlife movement in the Bow Valley near Canmore.",
+                  "text": "Protected wildlife corridor connecting natural habitats.",
                   "category": "natural",
                   "coords": [
                         -115.336372,
@@ -2854,7 +2854,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Jim Kelly Peak",
-                  "text": "Der Jim Kelly Peak ist ein prominenter Gipfel in der Cascade Range.",
+                  "text": "Der Jim Kelly Peak in der Tuya Range von British Columbia ist nach einem lokalen Führer benannt.",
                   "category": "natural",
                   "coords": [
                         -121.040895,
@@ -2863,7 +2863,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Coquihalla Mountain",
-                  "text": "Der Coquihalla Mountain ist ein prominenter Gipfel in der Cascade Range.",
+                  "text": "Der Coquihalla Mountain in der Kaskadenkette von British Columbia liegt nahe dem Coquihalla Highway.",
                   "category": "natural",
                   "coords": [
                         -121.060592,
@@ -2872,7 +2872,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Tulameen Falls Recreation Site",
-                  "text": "Der Tulameen Falls Recreation Site ist ein Naturschutzgebiet in der Cascade Range.",
+                  "text": "Erholungsgebiet an den Tulameen Falls mit Wanderwegen.",
                   "category": "natural",
                   "coords": [
                         -120.985852,
@@ -2881,7 +2881,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Sutter Creek Recreation Site",
-                  "text": "Der Sutter Creek Recreation Site ist ein Campingplatz in der Cascade Range.",
+                  "text": "Erholungsgebiet am Sutter Creek mit Camping.",
                   "category": "landmark",
                   "coords": [
                         -121.012869,
@@ -2890,7 +2890,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Vuich Falls Recreation Site",
-                  "text": "Der Vuich Falls Recreation Site ist ein Campingplatz in der Cascade Range.",
+                  "text": "Erholungsgebiet an den Vuich Falls mit malerischem Ausblick.",
                   "category": "landmark",
                   "coords": [
                         -121.004783,
@@ -2901,7 +2901,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Jim Kelly Peak",
-                  "text": "A Jim Kelly Peak egy kiemelkedő csúcs a Cascade hegységben.",
+                  "text": "A Jim Kelly Peak Brit Columbia Tuya-hegységében található, egy helyi vezetőről nevezték el.",
                   "category": "natural",
                   "coords": [
                         -121.040895,
@@ -2910,7 +2910,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Coquihalla Mountain",
-                  "text": "A Coquihalla Mountain egy kiemelkedő csúcs a Cascade hegységben.",
+                  "text": "A Coquihalla Mountain Brit Columbia Kaszkád-hegységében található, a Coquihalla autópálya közelében.",
                   "category": "natural",
                   "coords": [
                         -121.060592,
@@ -2919,7 +2919,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Tulameen Falls Recreation Site",
-                  "text": "A Tulameen Falls Recreation Site egy természetvédelmi terület a Cascade hegységben.",
+                  "text": "Kikapcsolódási hely a Tulameen-vízesésnél túraútvonalakkal.",
                   "category": "natural",
                   "coords": [
                         -120.985852,
@@ -2928,7 +2928,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Sutter Creek Recreation Site",
-                  "text": "A Sutter Creek Recreation Site egy kemping a Cascade hegységben.",
+                  "text": "Kikapcsolódási hely a Sutter-patak mentén kempingezéssel.",
                   "category": "landmark",
                   "coords": [
                         -121.012869,
@@ -2937,7 +2937,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Vuich Falls Recreation Site",
-                  "text": "A Vuich Falls Recreation Site egy kemping a Cascade hegységben.",
+                  "text": "Kikapcsolódási hely a Vuich-vízesésnél festői kilátással.",
                   "category": "landmark",
                   "coords": [
                         -121.004783,
@@ -2948,7 +2948,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Jim Kelly Peak",
-                  "text": "Jim Kelly Peak este un vârf proeminent în lanțul Cascade.",
+                  "text": "Jim Kelly Peak din Munții Tuya din Columbia Britanică este numit după un ghid local.",
                   "category": "natural",
                   "coords": [
                         -121.040895,
@@ -2957,7 +2957,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Coquihalla Mountain",
-                  "text": "Coquihalla Mountain este un vârf proeminent în lanțul Cascade.",
+                  "text": "Coquihalla Mountain din Munții Cascadelor din Columbia Britanică se află lângă autostrada Coquihalla.",
                   "category": "natural",
                   "coords": [
                         -121.060592,
@@ -2966,7 +2966,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Tulameen Falls Recreation Site",
-                  "text": "Tulameen Falls Recreation Site este o rezervație naturală în lanțul Cascade.",
+                  "text": "Loc de recreere la cascada Tulameen cu trasee de drumeție.",
                   "category": "natural",
                   "coords": [
                         -120.985852,
@@ -2975,7 +2975,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Sutter Creek Recreation Site",
-                  "text": "Sutter Creek Recreation Site este un loc de campare în lanțul Cascade.",
+                  "text": "Loc de recreere de-a lungul pârâului Sutter cu camping.",
                   "category": "landmark",
                   "coords": [
                         -121.012869,
@@ -2984,7 +2984,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Vuich Falls Recreation Site",
-                  "text": "Vuich Falls Recreation Site este un loc de campare în lanțul Cascade.",
+                  "text": "Loc de recreere la cascada Vuich cu vederi pitorești.",
                   "category": "landmark",
                   "coords": [
                         -121.004783,
@@ -2995,7 +2995,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Jim Kelly Peak",
-                  "text": "Jim Kelly Peak is a prominent peak in the Cascade Range.",
+                  "text": "Jim Kelly Peak in the Tuya Range of British Columbia is named after a local guide.",
                   "category": "natural",
                   "coords": [
                         -121.040895,
@@ -3004,7 +3004,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Coquihalla Mountain",
-                  "text": "Coquihalla Mountain is a prominent peak in the Cascade Range.",
+                  "text": "Coquihalla Mountain in the Cascade Range of British Columbia is near the Coquihalla Highway.",
                   "category": "natural",
                   "coords": [
                         -121.060592,
@@ -3013,7 +3013,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Tulameen Falls Recreation Site",
-                  "text": "Tulameen Falls Recreation Site is a nature reserve in the Cascade Range.",
+                  "text": "Recreation site at Tulameen Falls with hiking trails.",
                   "category": "natural",
                   "coords": [
                         -120.985852,
@@ -3022,7 +3022,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Sutter Creek Recreation Site",
-                  "text": "Sutter Creek Recreation Site is a camp site in the Cascade Range.",
+                  "text": "Recreation site along Sutter Creek with camping.",
                   "category": "landmark",
                   "coords": [
                         -121.012869,
@@ -3031,7 +3031,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Vuich Falls Recreation Site",
-                  "text": "Vuich Falls Recreation Site is a camp site in the Cascade Range.",
+                  "text": "Recreation site at Vuich Falls with scenic views.",
                   "category": "landmark",
                   "coords": [
                         -121.004783,
@@ -3087,7 +3087,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Lew Creek Ecological Reserve",
-                  "text": "Lew Creek Ecological Reserve ist ein ökologisches Reservat in den Selkirk Mountains.",
+                  "text": "Ökologisches Reservat entlang des Lew Creek, schützt seltene alpine Pflanzen und Tierwelt.",
                   "category": "natural",
                   "coords": [
                         -117.442768,
@@ -3098,7 +3098,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Lew Creek Ecological Reserve",
-                  "text": "Lew Creek Ecological Reserve egy ökológiai rezervátum a Selkirk Mountainsben.",
+                  "text": "Ökológiai rezervátum a Lew-patak mentén, ritka alpesi növények és vadon élő állatok védelmére.",
                   "category": "natural",
                   "coords": [
                         -117.442768,
@@ -3109,7 +3109,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Lew Creek Ecological Reserve",
-                  "text": "Lew Creek Ecological Reserve este o rezervație ecologică în Munții Selkirk.",
+                  "text": "Rezervație ecologică de-a lungul pârâului Lew, protejând plante alpine rare și fauna sălbatică.",
                   "category": "natural",
                   "coords": [
                         -117.442768,
@@ -3120,7 +3120,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Lew Creek Ecological Reserve",
-                  "text": "Lew Creek Ecological Reserve is an ecological reserve in the Selkirk Mountains.",
+                  "text": "Lew Creek Ecological Reserve: protected area along Lew Creek, conserving rare alpine plants and wildlife.",
                   "category": "natural",
                   "coords": [
                         -117.442768,
@@ -3220,7 +3220,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Michichi Dam Recreation Area",
-                  "text": "Ein Erholungsgebiet am Michichi-Damm in den Alberta Badlands.",
+                  "text": "Ein Staudamm- und Erholungsgebiet in den Badlands mit Wassersport und Aussicht.",
                   "category": "landmark",
                   "coords": [
                         -112.533963,
@@ -3231,7 +3231,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Michichi Dam Recreation Area",
-                  "text": "Egy rekreációs terület a Michichi-gátnál az Alberta Badlandsben.",
+                  "text": "Gát és üdülőterület a Badlands területén, vízi sportokkal és kilátással.",
                   "category": "landmark",
                   "coords": [
                         -112.533963,
@@ -3242,7 +3242,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Michichi Dam Recreation Area",
-                  "text": "O zonă de agrement lângă barajul Michichi în Badlands-ul din Alberta.",
+                  "text": "Un baraj și o zonă de agrement în Badlands, cu activități acvatice și priveliști.",
                   "category": "landmark",
                   "coords": [
                         -112.533963,
@@ -3253,7 +3253,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Michichi Dam Recreation Area",
-                  "text": "A recreation area near Michichi Dam in the Alberta Badlands.",
+                  "text": "A dam and recreation area located in the Badlands, offering water activities and scenic views.",
                   "category": "landmark",
                   "coords": [
                         -112.533963,
@@ -3353,7 +3353,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Eagle Pass Mountain",
-                  "text": "Der Eagle Pass Mountain ist ein Gipfel in den Monashee Mountains.",
+                  "text": "Berg oberhalb des Eagle Pass in den Monashee Mountains, ein historischer Gebirgspass.",
                   "category": "natural",
                   "coords": [
                         -118.542472,
@@ -3362,7 +3362,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "The Enchanted Forest",
-                  "text": "Der Enchanted Forest ist eine Attraktion in den Monashee Mountains mit einem verwunschenen Wald.",
+                  "text": "Ein üppiger Wald in den Bergen mit malerischen Wanderwegen.",
                   "category": "landmark",
                   "coords": [
                         -118.565541,
@@ -3371,7 +3371,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "SkyTrek Adventure Park",
-                  "text": "Der SkyTrek Adventure Park ist ein Abenteuerpark in den Monashee Mountains.",
+                  "text": "Ein Abenteuerpark in den Bergen mit Seilrutschen und Kletterparcours.",
                   "category": "landmark",
                   "coords": [
                         -118.566611,
@@ -3380,7 +3380,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Victor Lake Provincial Park",
-                  "text": "Der Victor Lake Provincial Park ist ein Naturschutzgebiet in den Monashee Mountains und umgibt den Victor Lake.",
+                  "text": "Der Victor Lake Provincial Park in British Columbia umfasst den Victor Lake und bietet Camping und Angeln.",
                   "category": "natural",
                   "coords": [
                         -118.402439,
@@ -3391,7 +3391,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Eagle Pass Mountain",
-                  "text": "Az Eagle Pass Mountain egy csúcs a Monashee-hegységben.",
+                  "text": "Hegy az Eagle-hágó felett a Monashee-hegységben, történelmi hegyi hágó.",
                   "category": "natural",
                   "coords": [
                         -118.542472,
@@ -3400,7 +3400,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "The Enchanted Forest",
-                  "text": "Az Enchanted Forest egy látványosság a Monashee-hegységben, egy varázslatos erdő.",
+                  "text": "Egy buja erdő a Hegyekben, festői túraútvonalakkal.",
                   "category": "landmark",
                   "coords": [
                         -118.565541,
@@ -3409,7 +3409,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "SkyTrek Adventure Park",
-                  "text": "A SkyTrek Adventure Park egy kalandpark a Monashee-hegységben.",
+                  "text": "Egy kalandpark a Hegyekben, kötélpályákkal és csúszdákkal.",
                   "category": "landmark",
                   "coords": [
                         -118.566611,
@@ -3418,7 +3418,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Victor Lake Provincial Park",
-                  "text": "A Victor Lake Provincial Park természetvédelmi terület a Monashee-hegységben, a Victor Lake körül.",
+                  "text": "A Victor Lake Provincial Park Brit Columbiában magában foglalja a Victor-tavat, kempingezési és horgászási lehetőséggel.",
                   "category": "natural",
                   "coords": [
                         -118.402439,
@@ -3429,7 +3429,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Eagle Pass Mountain",
-                  "text": "Eagle Pass Mountain este un vârf în Munții Monashee.",
+                  "text": "Munte deasupra trecătorii Eagle din Munții Monashee, o trecătoare istorică.",
                   "category": "natural",
                   "coords": [
                         -118.542472,
@@ -3438,7 +3438,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "The Enchanted Forest",
-                  "text": "Pădurea Fermecată este o atracție în Munții Monashee cu o pădure fermecată.",
+                  "text": "O pădure luxuriantă în Munți, cu trasee pitorești de drumeții.",
                   "category": "landmark",
                   "coords": [
                         -118.565541,
@@ -3447,7 +3447,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "SkyTrek Adventure Park",
-                  "text": "SkyTrek Adventure Park este un parc de aventură în Munții Monashee.",
+                  "text": "Un parc de aventură în Munți, cu tiroliene și trasee cu frânghii.",
                   "category": "landmark",
                   "coords": [
                         -118.566611,
@@ -3456,7 +3456,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Victor Lake Provincial Park",
-                  "text": "Parcul Provincial Victor Lake este o rezervație naturală în Munții Monashee, în jurul Lacului Victor.",
+                  "text": "Parcul Provincial Victor Lake din Columbia Britanică include lacul Victor, oferind camping și pescuit.",
                   "category": "natural",
                   "coords": [
                         -118.402439,
@@ -3467,7 +3467,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Eagle Pass Mountain",
-                  "text": "Eagle Pass Mountain is a peak in the Monashee Mountains.",
+                  "text": "Eagle Pass Mountain: a peak overlooking Eagle Pass in the Monashee Mountains, a historic mountain pass.",
                   "category": "natural",
                   "coords": [
                         -118.542472,
@@ -3476,7 +3476,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "The Enchanted Forest",
-                  "text": "The Enchanted Forest is an attraction in the Monashee Mountains featuring a magical forest.",
+                  "text": "A lush forest in the Mountains with scenic hiking trails.",
                   "category": "landmark",
                   "coords": [
                         -118.565541,
@@ -3485,7 +3485,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "SkyTrek Adventure Park",
-                  "text": "SkyTrek Adventure Park is an adventure park in the Monashee Mountains.",
+                  "text": "An adventure park in the Mountains featuring zip lines and rope courses.",
                   "category": "landmark",
                   "coords": [
                         -118.566611,
@@ -3494,7 +3494,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Victor Lake Provincial Park",
-                  "text": "Victor Lake Provincial Park is a nature reserve in the Monashee Mountains, surrounding Victor Lake.",
+                  "text": "Victor Lake Provincial Park in British Columbia encompasses Victor Lake, offering camping and fishing.",
                   "category": "natural",
                   "coords": [
                         -118.402439,
@@ -3559,7 +3559,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Cypress Hills Provincial Park",
-                  "text": "Der Cypress Hills Provincial Park ist ein Naturschutzgebiet in den Cypress Hills.",
+                  "text": "Ein Provinzpark in den Cypress Hills, bekannt für sein bewaldetes Plateau und die Tierwelt.",
                   "category": "natural",
                   "coords": [
                         -109.911915,
@@ -3577,7 +3577,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Cypress Hills Massacre National Site",
-                  "text": "Die Cypress Hills Massacre National Site ist ein Denkmal in den Cypress Hills.",
+                  "text": "Eine nationale historische Stätte in den Cypress Hills, die an das Massaker von 1873 erinnert.",
                   "category": "historical",
                   "coords": [
                         -109.868916,
@@ -3586,7 +3586,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Simons/Noble Cabin",
-                  "text": "Die Simons/Noble Cabin sind die Ruinen einer alten Hütte im Cypress Hills Gebiet.",
+                  "text": "Eine historische Hütte in den Cypress Hills, einst von frühen Siedlern genutzt.",
                   "category": "historical",
                   "coords": [
                         -109.995142,
@@ -3595,7 +3595,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Cypress Hills Interprovincial Park (West Block)",
-                  "text": "Der Cypress Hills Interprovincial Park (West Block) ist ein Naturschutzgebiet, das sich über die Grenze zwischen Alberta und Saskatchewan erstreckt.",
+                  "text": "Interprovinzieller Park auf einem Hochplateau in Südalberta und Saskatchewan, bekannt für seinen Bestand an Drehkiefern.",
                   "category": "natural",
                   "coords": [
                         -109.905414,
@@ -3633,7 +3633,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Cypress Hills Provincial Park",
-                  "text": "A Cypress Hills Provincial Park egy természetvédelmi terület a Cypress Hillsben.",
+                  "text": "Egy tartományi park a Cypress Hills-ben, ismert erdős fennsíkjáról és vadon élő állatairól.",
                   "category": "natural",
                   "coords": [
                         -109.911915,
@@ -3651,7 +3651,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Cypress Hills Massacre National Site",
-                  "text": "A Cypress Hills Massacre National Site egy emlékmű a Cypress Hillsben.",
+                  "text": "Nemzeti történelmi emlékhely a Cypress Hills-ben, az 1873-as Cypress Hills-i mészárlás emlékére.",
                   "category": "historical",
                   "coords": [
                         -109.868916,
@@ -3660,7 +3660,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Simons/Noble Cabin",
-                  "text": "A Simons/Noble Cabin egy régi kunyhó romjai a Cypress Hills területén.",
+                  "text": "Egy történelmi kunyhó a Cypress Hills-ben, amelyet egykor korai telepesek használtak.",
                   "category": "historical",
                   "coords": [
                         -109.995142,
@@ -3669,7 +3669,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Cypress Hills Interprovincial Park (West Block)",
-                  "text": "A Cypress Hills Interprovincial Park (West Block) egy természetvédelmi terület, amely Alberta és Saskatchewan határán átnyúlik.",
+                  "text": "Tartományközi park egy magas fennsíkon Albertában és Saskatchewanban, híres kanadai nyárfás erdeiről.",
                   "category": "natural",
                   "coords": [
                         -109.905414,
@@ -3707,7 +3707,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Cypress Hills Provincial Park",
-                  "text": "Cypress Hills Provincial Park este o rezervație naturală în Cypress Hills.",
+                  "text": "Un parc provincial în Cypress Hills, cunoscut pentru platoul său împădurit și fauna sălbatică.",
                   "category": "natural",
                   "coords": [
                         -109.911915,
@@ -3725,7 +3725,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Cypress Hills Massacre National Site",
-                  "text": "Cypress Hills Massacre National Site este un monument în Cypress Hills.",
+                  "text": "Un sit istoric național în Cypress Hills, care comemorează masacrul din 1873 de la Cypress Hills.",
                   "category": "historical",
                   "coords": [
                         -109.868916,
@@ -3734,7 +3734,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Simons/Noble Cabin",
-                  "text": "Simons/Noble Cabin sunt ruinele unei vechi cabane în zona Cypress Hills.",
+                  "text": "O cabină istorică în Cypress Hills, folosită odată de primii coloniști.",
                   "category": "historical",
                   "coords": [
                         -109.995142,
@@ -3743,7 +3743,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Cypress Hills Interprovincial Park (West Block)",
-                  "text": "Parcul Interprovincial Cypress Hills (West Block) este o rezervație naturală care se întinde peste granița dintre Alberta și Saskatchewan.",
+                  "text": "Parcul interprovincial pe un platou înalt din sudul Albertai și Saskatchewan, cunoscut pentru pădurile sale de pin lodepol.",
                   "category": "natural",
                   "coords": [
                         -109.905414,
@@ -3781,7 +3781,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Cypress Hills Provincial Park",
-                  "text": "Cypress Hills Provincial Park is a nature reserve in the Cypress Hills area.",
+                  "text": "A provincial park in the Cypress Hills, known for its forested plateau and wildlife.",
                   "category": "natural",
                   "coords": [
                         -109.911915,
@@ -3799,7 +3799,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Cypress Hills Massacre National Site",
-                  "text": "The Cypress Hills Massacre National Site is a monument in the Cypress Hills area.",
+                  "text": "A national historic site in the Cypress Hills commemorating the 1873 Cypress Hills Massacre.",
                   "category": "historical",
                   "coords": [
                         -109.868916,
@@ -3808,7 +3808,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Simons/Noble Cabin",
-                  "text": "Simons/Noble Cabin is the ruins of an old cabin in the Cypress Hills area.",
+                  "text": "A historic cabin in the Cypress Hills, once used by early settlers.",
                   "category": "historical",
                   "coords": [
                         -109.995142,
@@ -3817,7 +3817,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Cypress Hills Interprovincial Park (West Block)",
-                  "text": "Cypress Hills Interprovincial Park (West Block) is a nature reserve that straddles the Alberta-Saskatchewan border.",
+                  "text": "Interprovincial park on a high plateau in southern Alberta and Saskatchewan, known for its lodgepole pine forest.",
                   "category": "natural",
                   "coords": [
                         -109.905414,
@@ -3891,7 +3891,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Upper Raush Protected Area",
-                  "text": "Upper Raush Protected Area ist ein Schutzgebiet in den Cariboo Mountains.",
+                  "text": "Ein geschütztes Naturgebiet in den Bergen, das alpine Lebensräume bewahrt.",
                   "category": "natural",
                   "coords": [
                         -119.987043,
@@ -3902,7 +3902,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Upper Raush Protected Area",
-                  "text": "Upper Raush Protected Area egy védett terület a Cariboo Mountainsben.",
+                  "text": "Egy védett természeti terület a Hegyekben, amely megőrzi az alpesi élőhelyeket.",
                   "category": "natural",
                   "coords": [
                         -119.987043,
@@ -3913,7 +3913,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Upper Raush Protected Area",
-                  "text": "Upper Raush Protected Area este o arie protejată în Munții Cariboo.",
+                  "text": "O arie naturală protejată în Munți, care păstrează habitatele alpine.",
                   "category": "natural",
                   "coords": [
                         -119.987043,
@@ -3924,7 +3924,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Upper Raush Protected Area",
-                  "text": "Upper Raush Protected Area is a protected area in the Cariboo Mountains.",
+                  "text": "A protected natural area in the Mountains, preserving alpine habitats.",
                   "category": "natural",
                   "coords": [
                         -119.987043,
@@ -4068,7 +4068,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Mont Olivine",
-                  "text": "Ein Gipfel in den Chic-Choc Mountains.",
+                  "text": "Ein Gipfel in den Choc Mountains von Québec, benannt nach dem Mineral Olivin.",
                   "category": "natural",
                   "coords": [
                         -66.114143,
@@ -4077,7 +4077,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Chute du Diable",
-                  "text": "Ein Aussichtspunkt auf einen Wasserfall in den Chic-Choc Mountains.",
+                  "text": "Ein Wasserfall in den Choc Mountains, der in eine felsige Schlucht stürzt.",
                   "category": "natural",
                   "coords": [
                         -66.115395,
@@ -4086,7 +4086,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Mont Xalibu",
-                  "text": "Ein Berg in der Chic-Choc-Kette.",
+                  "text": "Berg in den Chic-Chocs (Gaspésie), Teil eines Wandergebiets mit atemberaubender Aussicht.",
                   "category": "natural",
                   "coords": [
                         -66.01168,
@@ -4095,7 +4095,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "lac aux Américains",
-                  "text": "Ein See-Aussichtspunkt in den Chic-Choc Mountains.",
+                  "text": "Ein See in den Choc Mountains, bekannt für sein klares Wasser und Angeln.",
                   "category": "natural",
                   "coords": [
                         -66.026329,
@@ -4104,7 +4104,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Point de vue",
-                  "text": "Ein Aussichtspunkt in den Chic-Choc Mountains.",
+                  "text": "Ein Aussichtspunkt in den Choc Mountains mit Panoramablick.",
                   "category": "natural",
                   "coords": [
                         -66.018981,
@@ -4113,7 +4113,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Mont Ernest-Laforce",
-                  "text": "Ein Berg-Aussichtspunkt in den Chic-Choc Mountains.",
+                  "text": "Ein Berggipfel in den Choc Mountains mit Wanderwegen zum Gipfel.",
                   "category": "natural",
                   "coords": [
                         -66.081419,
@@ -4122,7 +4122,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Le Brulé",
-                  "text": "Ein Aussichtspunkt in den Chic-Choc Mountains.",
+                  "text": "Ein verbranntes Waldgebiet in den Choc Mountains, das sich jetzt regeneriert.",
                   "category": "natural",
                   "coords": [
                         -66.050143,
@@ -4133,7 +4133,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Mont Olivine",
-                  "text": "Egy csúcs a Chic-Choc-hegységben.",
+                  "text": "Egy csúcs a québeci Choc-hegységben, az olivin ásványról elnevezve.",
                   "category": "natural",
                   "coords": [
                         -66.114143,
@@ -4142,7 +4142,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Chute du Diable",
-                  "text": "Egy kilátópont egy vízesésre a Chic-Choc-hegységben.",
+                  "text": "Egy vízesés a Choc-hegységben, amely egy sziklás szurdokba zuhan.",
                   "category": "natural",
                   "coords": [
                         -66.115395,
@@ -4151,7 +4151,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Mont Xalibu",
-                  "text": "Egy hegy a Chic-Choc láncban.",
+                  "text": "Hegy a Chic-Chocs-hegységben (Gaspésie), túrázóhely, lenyűgöző kilátással.",
                   "category": "natural",
                   "coords": [
                         -66.01168,
@@ -4160,7 +4160,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "lac aux Américains",
-                  "text": "Egy tó-kilátópont a Chic-Choc-hegységben.",
+                  "text": "Egy tó a Choc-hegységben, ismert tiszta vizéről és horgászati lehetőségeiről.",
                   "category": "natural",
                   "coords": [
                         -66.026329,
@@ -4169,7 +4169,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Point de vue",
-                  "text": "Egy kilátópont a Chic-Choc-hegységben.",
+                  "text": "Egy kilátópont a Choc-hegységben, panorámás kilátással.",
                   "category": "natural",
                   "coords": [
                         -66.018981,
@@ -4178,7 +4178,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Mont Ernest-Laforce",
-                  "text": "Egy hegyi kilátópont a Chic-Choc-hegységben.",
+                  "text": "Egy hegycsúcs a Choc-hegységben, túraútvonalakkal a csúcsra.",
                   "category": "natural",
                   "coords": [
                         -66.081419,
@@ -4187,7 +4187,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Le Brulé",
-                  "text": "Egy kilátópont a Chic-Choc-hegységben.",
+                  "text": "Egy leégett erdőterület a Choc-hegységben, amely most regenerálódik.",
                   "category": "natural",
                   "coords": [
                         -66.050143,
@@ -4198,7 +4198,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Mont Olivine",
-                  "text": "Un vârf în Munții Chic-Choc.",
+                  "text": "Un vârf în Munții Choc din Quebec, numit după mineralul olivin.",
                   "category": "natural",
                   "coords": [
                         -66.114143,
@@ -4207,7 +4207,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Chute du Diable",
-                  "text": "Un punct de vedere al unei cascade în Munții Chic-Choc.",
+                  "text": "O cascadă în Munții Choc, care se prăbușește într-o cheie stâncoasă.",
                   "category": "natural",
                   "coords": [
                         -66.115395,
@@ -4216,7 +4216,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Mont Xalibu",
-                  "text": "Un munte în lanțul Chic-Choc.",
+                  "text": "Munte în Munții Chic-Chocs (Gaspésie), parte dintr-o zonă de drumeții cu vedere spectaculoasă.",
                   "category": "natural",
                   "coords": [
                         -66.01168,
@@ -4225,7 +4225,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "lac aux Américains",
-                  "text": "Un punct de vedere la un lac în Munții Chic-Choc.",
+                  "text": "Un lac în Munții Choc, cunoscut pentru apele sale limpezi și pescuit.",
                   "category": "natural",
                   "coords": [
                         -66.026329,
@@ -4234,7 +4234,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Point de vue",
-                  "text": "Un punct de vedere în Munții Chic-Choc.",
+                  "text": "Un punct de belvedere în Munții Choc, cu vederi panoramice.",
                   "category": "natural",
                   "coords": [
                         -66.018981,
@@ -4243,7 +4243,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Mont Ernest-Laforce",
-                  "text": "Un punct de vedere montan în Munții Chic-Choc.",
+                  "text": "Un vârf de munte în Munții Choc, cu trasee de drumeție spre vârf.",
                   "category": "natural",
                   "coords": [
                         -66.081419,
@@ -4252,7 +4252,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Le Brulé",
-                  "text": "Un punct de vedere în Munții Chic-Choc.",
+                  "text": "O zonă de pădure arsă în Munții Choc, acum în regenerare.",
                   "category": "natural",
                   "coords": [
                         -66.050143,
@@ -4263,7 +4263,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Mont Olivine",
-                  "text": "A peak in the Chic-Choc Mountains.",
+                  "text": "A summit in the Choc Mountains of Quebec, named after the mineral olivine.",
                   "category": "natural",
                   "coords": [
                         -66.114143,
@@ -4272,7 +4272,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Chute du Diable",
-                  "text": "A viewpoint of a waterfall in the Chic-Choc Mountains.",
+                  "text": "A waterfall in the Choc Mountains, plunging into a rocky gorge.",
                   "category": "natural",
                   "coords": [
                         -66.115395,
@@ -4281,7 +4281,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Mont Xalibu",
-                  "text": "A mountain in the Chic-Choc range.",
+                  "text": "Mont Xalibu: a mountain in the Chic-Chocs range of the Gaspé Peninsula, offering scenic hiking.",
                   "category": "natural",
                   "coords": [
                         -66.01168,
@@ -4290,7 +4290,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "lac aux Américains",
-                  "text": "A lake viewpoint in the Chic-Choc Mountains.",
+                  "text": "A lake in the Choc Mountains, known for its clear waters and fishing.",
                   "category": "natural",
                   "coords": [
                         -66.026329,
@@ -4299,7 +4299,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Point de vue",
-                  "text": "A viewpoint in the Chic-Choc Mountains.",
+                  "text": "A scenic viewpoint in the Choc Mountains offering panoramic vistas.",
                   "category": "natural",
                   "coords": [
                         -66.018981,
@@ -4308,7 +4308,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Mont Ernest-Laforce",
-                  "text": "A mountain viewpoint in the Chic-Choc Mountains.",
+                  "text": "A mountain peak in the Choc Mountains with hiking trails to the summit.",
                   "category": "natural",
                   "coords": [
                         -66.081419,
@@ -4317,7 +4317,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Le Brulé",
-                  "text": "A viewpoint in the Chic-Choc Mountains.",
+                  "text": "A burned forest area in the Choc Mountains, now regenerating.",
                   "category": "natural",
                   "coords": [
                         -66.050143,
@@ -4391,7 +4391,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "North Terminal Peak",
-                  "text": "Der North Terminal Peak ist ein Berg in den Selkirk Mountains nahe dem Rogers Pass.",
+                  "text": "Ein Gipfel in den Selkirk Mountains von British Columbia, Teil des Illecillewaet Neve.",
                   "category": "natural",
                   "coords": [
                         -117.429135,
@@ -4400,7 +4400,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Uto Peak",
-                  "text": "Der Uto Peak ist ein Berg in der Hermit Range der Selkirk Mountains.",
+                  "text": "Ein markanter Gipfel in den Selkirk Mountains, neben dem Mount Sir Donald in British Columbia.",
                   "category": "natural",
                   "coords": [
                         -117.440633,
@@ -4519,7 +4519,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "North Terminal Peak",
-                  "text": "A North Terminal Peak egy hegy a Selkirk-hegységben, a Rogers Pass közelében.",
+                  "text": "Egy csúcs a Brit Columbia-i Selkirk-hegységben, az Illecillewaet-hómező része.",
                   "category": "natural",
                   "coords": [
                         -117.429135,
@@ -4528,7 +4528,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Uto Peak",
-                  "text": "Az Uto Peak egy hegy a Hermit Range-ben, a Selkirk-hegységben.",
+                  "text": "Egy kiemelkedő csúcs a Selkirk-hegységben, a Mount Sir Donald mellett Brit Columbiában.",
                   "category": "natural",
                   "coords": [
                         -117.440633,
@@ -4647,7 +4647,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "North Terminal Peak",
-                  "text": "North Terminal Peak este un munte în Munții Selkirk lângă Rogers Pass.",
+                  "text": "Un vârf în Munții Selkirk din Columbia Britanică, parte a câmpului de zăpadă Illecillewaet.",
                   "category": "natural",
                   "coords": [
                         -117.429135,
@@ -4656,7 +4656,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Uto Peak",
-                  "text": "Uto Peak este un munte în Hermit Range din Munții Selkirk.",
+                  "text": "Un vârf proeminent în Munții Selkirk, lângă Mount Sir Donald în Columbia Britanică.",
                   "category": "natural",
                   "coords": [
                         -117.440633,
@@ -4775,7 +4775,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "North Terminal Peak",
-                  "text": "North Terminal Peak is a mountain in the Selkirk Mountains near Rogers Pass.",
+                  "text": "A summit in the Selkirk Mountains of British Columbia, part of the Illecillewaet Neve.",
                   "category": "natural",
                   "coords": [
                         -117.429135,
@@ -4784,7 +4784,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Uto Peak",
-                  "text": "Uto Peak is a mountain in the Hermit Range of the Selkirk Mountains.",
+                  "text": "A prominent peak in the Selkirk Mountains, adjacent to Mount Sir Donald in British Columbia.",
                   "category": "natural",
                   "coords": [
                         -117.440633,
@@ -4930,7 +4930,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Green Point Hill",
-                  "text": "Green Point Hill ist ein Gipfel im Gros-Morne-Gebiet.",
+                  "text": "Hügel in den Long Range Mountains nahe Gros Morne, mit Blick auf die Küste.",
                   "category": "natural",
                   "coords": [
                         -57.800686,
@@ -4939,7 +4939,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Baker's Brook Fall",
-                  "text": "Baker's Brook Fall ist ein Wasserfall im Gros-Morne-Gebiet.",
+                  "text": "Ein Wasserfall am Baker's Brook im Morne Mountain Gebiet, der über Felsen stürzt.",
                   "category": "landmark",
                   "coords": [
                         -57.898488,
@@ -4948,7 +4948,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Photographer's Lookout",
-                  "text": "Photographer's Lookout ist ein beliebter Aussichtspunkt für Fotografen.",
+                  "text": "Ein beliebter Aussichtspunkt im Morne Mountain mit erstklassigen Fotospots der Landschaft.",
                   "category": "natural",
                   "coords": [
                         -57.882755,
@@ -4957,7 +4957,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Gros Morne Wildlife Museum",
-                  "text": "Das Gros Morne Wildlife Museum zeigt die Tierwelt der Region.",
+                  "text": "Ein Museum in Gros Morne, das die Tierwelt und Naturgeschichte der Region zeigt.",
                   "category": "museum",
                   "coords": [
                         -57.917443,
@@ -4966,7 +4966,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Berry Hill",
-                  "text": "Berry Hill ist ein Hügel mit einem Aussichtspunkt.",
+                  "text": "Ein Hügel im Morne Mountain, bedeckt mit Beerensträuchern und mit Aussicht.",
                   "category": "natural",
                   "coords": [
                         -57.932303,
@@ -4975,7 +4975,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Gros Morne",
-                  "text": "Gros Morne ist der höchste Gipfel im Gros-Morne-Nationalpark.",
+                  "text": "Der zweithöchste Gipfel Neufundlands, Teil des Gros-Morne-Nationalparks mit tiefen Fjorden.",
                   "category": "natural",
                   "coords": [
                         -57.783879,
@@ -4984,7 +4984,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Ten Mile Pond Lookout",
-                  "text": "Ten Mile Pond Lookout bietet einen Blick auf den Ten Mile Pond.",
+                  "text": "Ein Aussichtspunkt über den Ten Mile Pond im Morne Mountain mit Blick auf das Wasser und die umliegenden Hügel.",
                   "category": "natural",
                   "coords": [
                         -57.781099,
@@ -4993,7 +4993,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Parc national du Gros-Morne",
-                  "text": "Der Parc national du Gros-Morne ist ein Naturschutzgebiet in Québec.",
+                  "text": "Ein Nationalpark in Neufundland, UNESCO-Weltkulturerbe, bekannt für seine Fjorde und Geologie.",
                   "category": "natural",
                   "coords": [
                         -57.748288,
@@ -5002,7 +5002,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Bakeapple Pond Viewpoint",
-                  "text": "Bakeapple Pond Viewpoint ist ein Aussichtspunkt über den Bakeapple Pond.",
+                  "text": "Ein Aussichtspunkt über den Bakeapple Pond im Morne Mountain, benannt nach der lokalen Moltebeere.",
                   "category": "natural",
                   "coords": [
                         -57.734344,
@@ -5011,7 +5011,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Crow Cliff",
-                  "text": "Crow Cliff ist eine Klippe im Gros-Morne-Gebiet.",
+                  "text": "Klippe an der Küste Neufundlands im Gros-Morne-Gebiet, bekannt für Vogelkolonien.",
                   "category": "landmark",
                   "coords": [
                         -57.798434,
@@ -5020,7 +5020,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Outhouse",
-                  "text": "Outhouse ist ein Aussichtspunkt im Gros-Morne-Gebiet.",
+                  "text": "Eine rustikale Außentoilette entlang der Wege im Morne Mountain.",
                   "category": "natural",
                   "coords": [
                         -57.815855,
@@ -5029,7 +5029,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Lookout",
-                  "text": "Lookout ist ein Aussichtspunkt im Gros-Morne-Gebiet.",
+                  "text": "Ein malerischer Aussichtspunkt im Morne Mountain mit Blick auf die umliegenden Gipfel.",
                   "category": "natural",
                   "coords": [
                         -57.82577,
@@ -5038,7 +5038,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Hike Grose Morne Mountain",
-                  "text": "Die Wanderung auf den Gros Morne ist eine beliebte Attraktion.",
+                  "text": "Ein beliebter Wanderweg auf den Gros Morne Mountain mit anspruchsvollen Aufstiegen und Gipfelausblicken.",
                   "category": "landmark",
                   "coords": [
                         -57.831649,
@@ -5047,7 +5047,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Gull Rocks",
-                  "text": "Gull Rocks sind Felsformationen im Gros-Morne-Gebiet.",
+                  "text": "Felsige Klippen im Morne Mountain, oft Heimat von nistenden Möwen.",
                   "category": "landmark",
                   "coords": [
                         -57.809279,
@@ -5056,7 +5056,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Gros Morne National Park",
-                  "text": "Der Gros Morne Nationalpark ist ein UNESCO-Weltnaturerbe.",
+                  "text": "UNESCO-Weltnaturerbe in Neufundland mit den Tablelands, einem seltenen freiliegenden Stück Erdmantel.",
                   "category": "natural",
                   "coords": [
                         -57.739921,
@@ -5065,7 +5065,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Eastern Arm",
-                  "text": "Eastern Arm ist eine Bucht im Gros-Morne-Gebiet.",
+                  "text": "Östlicher Arm der Bonne Bay im Gros-Morne-Nationalpark, ein eiszeitlicher Fjord.",
                   "category": "landmark",
                   "coords": [
                         -57.840665,
@@ -5074,7 +5074,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Bailers Cove",
-                  "text": "Bailers Cove ist eine Bucht im Gros-Morne-Gebiet.",
+                  "text": "Kleine Bucht an der Great-Northern-Halbinsel Neufundlands, ein ruhiger Ankerplatz.",
                   "category": "landmark",
                   "coords": [
                         -57.830792,
@@ -5083,7 +5083,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Bread and Butter Cove",
-                  "text": "Bread and Butter Cove ist eine Bucht im Gros-Morne-Gebiet.",
+                  "text": "Bucht in der Region Gros Morne, benannt nach den traditionellen Brot-und-Butter-Vorräten der Fischer.",
                   "category": "landmark",
                   "coords": [
                         -57.817614,
@@ -5094,7 +5094,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Green Point Hill",
-                  "text": "A Green Point Hill egy csúcs a Gros-Morne régióban.",
+                  "text": "Domb a Long Range-hegységben, Gros Morne közelében, kilátással a tengerpartra.",
                   "category": "natural",
                   "coords": [
                         -57.800686,
@@ -5103,7 +5103,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Baker's Brook Fall",
-                  "text": "A Baker's Brook Fall egy vízesés a Gros-Morne régióban.",
+                  "text": "Egy vízesés a Baker's Brook-on a Morne Mountain területén, amely sziklákon zuhan alá.",
                   "category": "landmark",
                   "coords": [
                         -57.898488,
@@ -5112,7 +5112,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Photographer's Lookout",
-                  "text": "A Photographer's Lookout népszerű kilátóhely fotósok számára.",
+                  "text": "Egy népszerű kilátó a Morne Mountain-ben, kiváló fotóhelyekkel a tájról.",
                   "category": "natural",
                   "coords": [
                         -57.882755,
@@ -5121,7 +5121,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Gros Morne Wildlife Museum",
-                  "text": "A Gros Morne Wildlife Museum a régió vadon élő állatait mutatja be.",
+                  "text": "Egy múzeum Gros Morne-ban, amely a régió vadon élő állatait és természetrajzát mutatja be.",
                   "category": "museum",
                   "coords": [
                         -57.917443,
@@ -5130,7 +5130,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Berry Hill",
-                  "text": "A Berry Hill egy domb kilátóval.",
+                  "text": "Egy domb a Morne Mountain-ben, bogyós bokrokkal borítva, kilátással.",
                   "category": "natural",
                   "coords": [
                         -57.932303,
@@ -5139,7 +5139,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Gros Morne",
-                  "text": "A Gros Morne a Gros-Morne Nemzeti Park legmagasabb csúcsa.",
+                  "text": "Új-Fundland második legmagasabb csúcsa, a Gros Morne Nemzeti Park része mély fjordokkal.",
                   "category": "natural",
                   "coords": [
                         -57.783879,
@@ -5148,7 +5148,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Ten Mile Pond Lookout",
-                  "text": "A Ten Mile Pond Lookout kilátást nyújt a Ten Mile Pondra.",
+                  "text": "Egy kilátópont a Ten Mile Pond-ra a Morne Mountain-ben, kilátással a vízre és a környező dombokra.",
                   "category": "natural",
                   "coords": [
                         -57.781099,
@@ -5157,7 +5157,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Parc national du Gros-Morne",
-                  "text": "A Parc national du Gros-Morne egy természetvédelmi terület Québecben.",
+                  "text": "Nemzeti park Új-Fundlandon, UNESCO Világörökség, ismert fjordjairól és geológiájáról.",
                   "category": "natural",
                   "coords": [
                         -57.748288,
@@ -5166,7 +5166,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Bakeapple Pond Viewpoint",
-                  "text": "A Bakeapple Pond Viewpoint egy kilátóhely a Bakeapple Pond felett.",
+                  "text": "Egy kilátópont a Bakeapple Pond felett a Morne Mountain-ben, amely a helyi törpemálnáról kapta a nevét.",
                   "category": "natural",
                   "coords": [
                         -57.734344,
@@ -5175,7 +5175,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Crow Cliff",
-                  "text": "A Crow Cliff egy szikla a Gros-Morne régióban.",
+                  "text": "Sziklaszirt Új-Fundland partján, a Gros Morne régióban, madárkolóniáiról ismert.",
                   "category": "landmark",
                   "coords": [
                         -57.798434,
@@ -5184,7 +5184,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Outhouse",
-                  "text": "Az Outhouse egy kilátóhely a Gros-Morne régióban.",
+                  "text": "Egy rusztikus kinti WC a Morne Mountain-i ösvények mentén.",
                   "category": "natural",
                   "coords": [
                         -57.815855,
@@ -5193,7 +5193,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Lookout",
-                  "text": "A Lookout egy kilátóhely a Gros-Morne régióban.",
+                  "text": "Egy festői kilátópont a Morne Mountain-ben, kilátással a környező csúcsokra.",
                   "category": "natural",
                   "coords": [
                         -57.82577,
@@ -5202,7 +5202,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Hike Grose Morne Mountain",
-                  "text": "A Gros Morne megmászása népszerű túraútvonal.",
+                  "text": "Egy népszerű túraútvonal a Gros Morne-hegyre, kihívást jelentő emelkedőkkel és csúcskilátással.",
                   "category": "landmark",
                   "coords": [
                         -57.831649,
@@ -5211,7 +5211,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Gull Rocks",
-                  "text": "A Gull Rocks sziklák a Gros-Morne régióban.",
+                  "text": "Sziklás kibúvók a Morne Mountain-ben, gyakran fészkelő sirályok otthona.",
                   "category": "landmark",
                   "coords": [
                         -57.809279,
@@ -5220,7 +5220,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Gros Morne National Park",
-                  "text": "A Gros Morne Nemzeti Park az UNESCO Világörökség része.",
+                  "text": "UNESCO világörökségi helyszín Új-Fundlandon, a Tablelands-szel, a földköpeny ritka felszíni darabjával.",
                   "category": "natural",
                   "coords": [
                         -57.739921,
@@ -5229,7 +5229,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Eastern Arm",
-                  "text": "Az Eastern Arm egy öböl a Gros-Morne régióban.",
+                  "text": "A Bonne-öböl keleti ága a Gros Morne Nemzeti Parkban, jégkorszaki fjord.",
                   "category": "landmark",
                   "coords": [
                         -57.840665,
@@ -5238,7 +5238,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Bailers Cove",
-                  "text": "A Bailers Cove egy öböl a Gros-Morne régióban.",
+                  "text": "Kis öböl Új-Fundland Great Northern-félszigetén, csendes horgonyzóhely.",
                   "category": "landmark",
                   "coords": [
                         -57.830792,
@@ -5247,7 +5247,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Bread and Butter Cove",
-                  "text": "A Bread and Butter Cove egy öböl a Gros-Morne régióban.",
+                  "text": "Öböl a Gros Morne régióban, a halászok hagyományos kenyér-és-vaj készleteiről elnevezve.",
                   "category": "landmark",
                   "coords": [
                         -57.817614,
@@ -5258,7 +5258,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Green Point Hill",
-                  "text": "Green Point Hill este un vârf în zona Gros-Morne.",
+                  "text": "Deal în Munții Long Range, lângă Gros Morne, cu vedere spre coastă.",
                   "category": "natural",
                   "coords": [
                         -57.800686,
@@ -5267,7 +5267,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Baker's Brook Fall",
-                  "text": "Baker's Brook Fall este o cascadă în zona Gros-Morne.",
+                  "text": "O cascadă pe pârâul Baker's Brook în zona Morne Mountain, care se prăvălește peste stânci.",
                   "category": "landmark",
                   "coords": [
                         -57.898488,
@@ -5276,7 +5276,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Photographer's Lookout",
-                  "text": "Photographer's Lookout este un punct de belvedere popular pentru fotografi.",
+                  "text": "Un punct de observație popular în Morne Mountain, oferind locuri excelente pentru fotografii ale peisajului.",
                   "category": "natural",
                   "coords": [
                         -57.882755,
@@ -5285,7 +5285,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Gros Morne Wildlife Museum",
-                  "text": "Muzeul Gros Morne Wildlife prezintă fauna sălbatică a regiunii.",
+                  "text": "Un muzeu în Gros Morne care prezintă fauna și istoria naturală a regiunii.",
                   "category": "museum",
                   "coords": [
                         -57.917443,
@@ -5294,7 +5294,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Berry Hill",
-                  "text": "Berry Hill este un deal cu un punct de belvedere.",
+                  "text": "Un deal în Morne Mountain, acoperit cu tufe de fructe de pădure, cu vedere.",
                   "category": "natural",
                   "coords": [
                         -57.932303,
@@ -5303,7 +5303,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Gros Morne",
-                  "text": "Gros Morne este cel mai înalt vârf din Parcul Național Gros-Morne.",
+                  "text": "Al doilea vârf ca înălțime din Newfoundland, parte a Parcului Național Gros Morne, cu fiorduri adânci.",
                   "category": "natural",
                   "coords": [
                         -57.783879,
@@ -5312,7 +5312,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Ten Mile Pond Lookout",
-                  "text": "Ten Mile Pond Lookout oferă o vedere asupra lacului Ten Mile Pond.",
+                  "text": "Un punct de belvedere care domină Ten Mile Pond în Morne Mountain, cu vedere la apă și dealurile din jur.",
                   "category": "natural",
                   "coords": [
                         -57.781099,
@@ -5321,7 +5321,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Parc national du Gros-Morne",
-                  "text": "Parc national du Gros-Morne este o rezervație naturală în Québec.",
+                  "text": "Un parc național în Newfoundland, sit UNESCO, cunoscut pentru fiordurile și geologia sa.",
                   "category": "natural",
                   "coords": [
                         -57.748288,
@@ -5330,7 +5330,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Bakeapple Pond Viewpoint",
-                  "text": "Bakeapple Pond Viewpoint este un punct de belvedere deasupra iazului Bakeapple.",
+                  "text": "Un punct de belvedere care domină Bakeapple Pond în Morne Mountain, numit după zmeura locală.",
                   "category": "natural",
                   "coords": [
                         -57.734344,
@@ -5339,7 +5339,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Crow Cliff",
-                  "text": "Crow Cliff este o stâncă în zona Gros-Morne.",
+                  "text": "Stâncă pe coasta Newfoundlandului în zona Gros Morne, cunoscută pentru coloniile de păsări.",
                   "category": "landmark",
                   "coords": [
                         -57.798434,
@@ -5348,7 +5348,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Outhouse",
-                  "text": "Outhouse este un punct de belvedere în zona Gros-Morne.",
+                  "text": "O toaletă rustică în aer liber situată de-a lungul traseelor din Morne Mountain.",
                   "category": "natural",
                   "coords": [
                         -57.815855,
@@ -5357,7 +5357,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Lookout",
-                  "text": "Lookout este un punct de belvedere în zona Gros-Morne.",
+                  "text": "Un punct de belvedere pitoresc în Morne Mountain, cu vedere la vârfurile din jur.",
                   "category": "natural",
                   "coords": [
                         -57.82577,
@@ -5366,7 +5366,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Hike Grose Morne Mountain",
-                  "text": "Drumeția pe Gros Morne este o atracție populară.",
+                  "text": "Un traseu popular de drumeție pe Muntele Gros Morne, cu urcări provocatoare și vederi de pe vârf.",
                   "category": "landmark",
                   "coords": [
                         -57.831649,
@@ -5375,7 +5375,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Gull Rocks",
-                  "text": "Gull Rocks sunt formațiuni stâncoase în zona Gros-Morne.",
+                  "text": "Aflorimente stâncoase în Morne Mountain, adesea casă pentru pescăruși cuibărind.",
                   "category": "landmark",
                   "coords": [
                         -57.809279,
@@ -5384,7 +5384,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Gros Morne National Park",
-                  "text": "Parcul Național Gros Morne este un sit al Patrimoniului Mondial UNESCO.",
+                  "text": "Sit UNESCO în Newfoundland, cu Tablelands, o porțiune rară de manta terestră expusă.",
                   "category": "natural",
                   "coords": [
                         -57.739921,
@@ -5393,7 +5393,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Eastern Arm",
-                  "text": "Eastern Arm este un golf în zona Gros-Morne.",
+                  "text": "Brațul estic al golfului Bonne din Parcul Național Gros Morne, un fiord glaciar.",
                   "category": "landmark",
                   "coords": [
                         -57.840665,
@@ -5402,7 +5402,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Bailers Cove",
-                  "text": "Bailers Cove este un golf în zona Gros-Morne.",
+                  "text": "Golfuleț pe peninsula Great Northern din Newfoundland, loc de ancoraj liniștit.",
                   "category": "landmark",
                   "coords": [
                         -57.830792,
@@ -5411,7 +5411,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Bread and Butter Cove",
-                  "text": "Bread and Butter Cove este un golf în zona Gros-Morne.",
+                  "text": "Golf în regiunea Gros Morne, numit după proviziile tradiționale de pâine și unt ale pescarilor.",
                   "category": "landmark",
                   "coords": [
                         -57.817614,
@@ -5422,7 +5422,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Green Point Hill",
-                  "text": "Green Point Hill is a peak in the Gros Morne area.",
+                  "text": "Green Point Hill: a hill in the Long Range Mountains near Gros Morne, overlooking the coast.",
                   "category": "natural",
                   "coords": [
                         -57.800686,
@@ -5431,7 +5431,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Baker's Brook Fall",
-                  "text": "Baker's Brook Fall is a waterfall in the Gros Morne area.",
+                  "text": "A waterfall on Baker's Brook in the Morne Mountain area, cascading over rocks.",
                   "category": "landmark",
                   "coords": [
                         -57.898488,
@@ -5440,7 +5440,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Photographer's Lookout",
-                  "text": "Photographer's Lookout is a popular viewpoint for photographers.",
+                  "text": "A popular lookout in Morne Mountain offering prime photography spots of the landscape.",
                   "category": "natural",
                   "coords": [
                         -57.882755,
@@ -5449,7 +5449,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Gros Morne Wildlife Museum",
-                  "text": "Gros Morne Wildlife Museum exhibits local wildlife.",
+                  "text": "A museum in Gros Morne showcasing the region's wildlife and natural history.",
                   "category": "museum",
                   "coords": [
                         -57.917443,
@@ -5458,7 +5458,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Berry Hill",
-                  "text": "Berry Hill is a hill with a viewpoint.",
+                  "text": "A hill in Morne Mountain, covered in berry bushes and offering views.",
                   "category": "natural",
                   "coords": [
                         -57.932303,
@@ -5467,7 +5467,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Gros Morne",
-                  "text": "Gros Morne is the highest peak in Gros Morne National Park.",
+                  "text": "Gros Morne: the second-highest peak in Newfoundland, within Gros Morne National Park, featuring deep fjords.",
                   "category": "natural",
                   "coords": [
                         -57.783879,
@@ -5476,7 +5476,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Ten Mile Pond Lookout",
-                  "text": "Ten Mile Pond Lookout provides a view over Ten Mile Pond.",
+                  "text": "A lookout point overlooking Ten Mile Pond in Morne Mountain, with views of the water and surrounding hills.",
                   "category": "natural",
                   "coords": [
                         -57.781099,
@@ -5485,7 +5485,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Parc national du Gros-Morne",
-                  "text": "Parc national du Gros-Morne is a nature reserve in Quebec.",
+                  "text": "A national park in Newfoundland, a UNESCO World Heritage site known for its fjords and geology.",
                   "category": "natural",
                   "coords": [
                         -57.748288,
@@ -5494,7 +5494,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Bakeapple Pond Viewpoint",
-                  "text": "Bakeapple Pond Viewpoint overlooks Bakeapple Pond.",
+                  "text": "A viewpoint overlooking Bakeapple Pond in Morne Mountain, named after the local cloudberry.",
                   "category": "natural",
                   "coords": [
                         -57.734344,
@@ -5503,7 +5503,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Crow Cliff",
-                  "text": "Crow Cliff is a cliff formation in the Gros Morne area.",
+                  "text": "Crow Cliff: a seaside cliff in the Gros Morne area, known for seabird colonies.",
                   "category": "landmark",
                   "coords": [
                         -57.798434,
@@ -5512,7 +5512,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Outhouse",
-                  "text": "Outhouse is a viewpoint in the Gros Morne area.",
+                  "text": "A rustic outhouse facility located along the trails in Morne Mountain.",
                   "category": "natural",
                   "coords": [
                         -57.815855,
@@ -5521,7 +5521,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Lookout",
-                  "text": "Lookout is a viewpoint in the Gros Morne area.",
+                  "text": "A scenic lookout point in Morne Mountain with views of the surrounding peaks.",
                   "category": "natural",
                   "coords": [
                         -57.82577,
@@ -5530,7 +5530,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Hike Grose Morne Mountain",
-                  "text": "Hiking Gros Morne Mountain is a popular attraction.",
+                  "text": "A popular hiking trail up Gros Morne Mountain, offering challenging climbs and summit views.",
                   "category": "landmark",
                   "coords": [
                         -57.831649,
@@ -5539,7 +5539,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Gull Rocks",
-                  "text": "Gull Rocks are rock formations in the Gros Morne area.",
+                  "text": "Rocky outcrops in Morne Mountain, often home to nesting gulls.",
                   "category": "landmark",
                   "coords": [
                         -57.809279,
@@ -5548,7 +5548,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Gros Morne National Park",
-                  "text": "Gros Morne National Park is a UNESCO World Heritage site.",
+                  "text": "UNESCO World Heritage site in Newfoundland featuring the Tablelands, a rare exposed piece of Earth's mantle.",
                   "category": "natural",
                   "coords": [
                         -57.739921,
@@ -5557,7 +5557,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Eastern Arm",
-                  "text": "Eastern Arm is a bay in the Gros Morne area.",
+                  "text": "Eastern Arm: the eastern arm of Bonne Bay in Gros Morne National Park, a glacially carved fjord.",
                   "category": "landmark",
                   "coords": [
                         -57.840665,
@@ -5566,7 +5566,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Bailers Cove",
-                  "text": "Bailers Cove is a bay in the Gros Morne area.",
+                  "text": "Bailers Cove: a small cove on Newfoundland's Great Northern Peninsula, a quiet anchorage.",
                   "category": "landmark",
                   "coords": [
                         -57.830792,
@@ -5575,7 +5575,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Bread and Butter Cove",
-                  "text": "Bread and Butter Cove is a bay in the Gros Morne area.",
+                  "text": "Bread and Butter Cove: a cove in the Gros Morne region, named after fishermen's staple provisions.",
                   "category": "landmark",
                   "coords": [
                         -57.817614,
@@ -5640,7 +5640,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "View point",
-                  "text": "View point ist ein Aussichtspunkt im Gebiet des Cascade Mountain mit Panoramablick.",
+                  "text": "Ein Aussichtspunkt in der Bergregion mit weiter Aussicht.",
                   "category": "natural",
                   "coords": [
                         -115.498682,
@@ -5667,7 +5667,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Banff Hoodoos Viewpoint",
-                  "text": "Der Banff Hoodoos Viewpoint ist ein Aussichtspunkt in Banff mit Blick auf die Hoodoos-Felsformationen.",
+                  "text": "Ein Aussichtspunkt in Banff mit ikonischem Blick auf die Hoodoo-Felsformationen.",
                   "category": "natural",
                   "coords": [
                         -115.520055,
@@ -5676,7 +5676,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Path to Hoodoos",
-                  "text": "Der Path to Hoodoos ist ein Weg zu den Banff Hoodoos mit malerischen Ausblicken.",
+                  "text": "Ein Wanderweg, der von der Stadt zu den Banff Hoodoos führt.",
                   "category": "natural",
                   "coords": [
                         -115.521039,
@@ -5685,7 +5685,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Waterfall",
-                  "text": "Waterfall ist ein Aussichtspunkt mit Blick auf einen Wasserfall im Gebiet des Cascade Mountain.",
+                  "text": "Ein malerischer Wasserfall in der Bergregion, der eine Felsklippe hinabstürzt.",
                   "category": "natural",
                   "coords": [
                         -115.54329,
@@ -5694,7 +5694,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Tunnel Mountain Amphitheater",
-                  "text": "Das Tunnel Mountain Amphitheater ist ein Freilichttheater auf dem Tunnel Mountain in Banff, das für Veranstaltungen genutzt wird.",
+                  "text": "Ein Freilufttheater am Tunnel Mountain in Banff, das für Konzerte und Veranstaltungen genutzt wird.",
                   "category": "cultural",
                   "coords": [
                         -115.520447,
@@ -5714,7 +5714,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "View point",
-                  "text": "A View point egy kilátóhely a Cascade-hegység területén, panorámás kilátással.",
+                  "text": "Egy kilátópont a Hegyvidéken, széles kilátással.",
                   "category": "natural",
                   "coords": [
                         -115.498682,
@@ -5741,7 +5741,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Banff Hoodoos Viewpoint",
-                  "text": "A Banff Hoodoos Viewpoint egy kilátóhely Banff-ban, ahonnan a hoodoos sziklaformációkra nyílik kilátás.",
+                  "text": "Egy kilátópont Banff-ban, ikonikus kilátással a hoodoo sziklaformációkra.",
                   "category": "natural",
                   "coords": [
                         -115.520055,
@@ -5750,7 +5750,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Path to Hoodoos",
-                  "text": "A Path to Hoodoos egy ösvény a Banff Hoodoos-hoz, festői kilátással.",
+                  "text": "Egy túraösvény, amely a városból a Banff Hoodoos-hoz vezet.",
                   "category": "natural",
                   "coords": [
                         -115.521039,
@@ -5759,7 +5759,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Waterfall",
-                  "text": "A Waterfall egy kilátóhely, ahonnan egy vízesésre nyílik kilátás a Cascade-hegység területén.",
+                  "text": "Egy festői vízesés a Hegyvidéken, amely egy sziklás szirten zuhan le.",
                   "category": "natural",
                   "coords": [
                         -115.54329,
@@ -5768,7 +5768,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Tunnel Mountain Amphitheater",
-                  "text": "A Tunnel Mountain Amphitheater egy szabadtéri színház a Tunnel Mountain-en Banff-ban, rendezvények számára.",
+                  "text": "Egy szabadtéri színház a Tunnel Mountain-en Banff-ban, koncertek és rendezvények számára.",
                   "category": "cultural",
                   "coords": [
                         -115.520447,
@@ -5788,7 +5788,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "View point",
-                  "text": "View point este un punct de belvedere în zona Cascade Mountain, cu vedere panoramică.",
+                  "text": "Un punct de vedere în regiunea Munte, oferind peisaje largi.",
                   "category": "natural",
                   "coords": [
                         -115.498682,
@@ -5815,7 +5815,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Banff Hoodoos Viewpoint",
-                  "text": "Banff Hoodoos Viewpoint este un punct de belvedere în Banff, cu vedere la formațiunile stâncoase hoodoos.",
+                  "text": "Un punct de belvedere în Banff, cu vederi iconice asupra formațiunilor stâncoase hoodoo.",
                   "category": "natural",
                   "coords": [
                         -115.520055,
@@ -5824,7 +5824,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Path to Hoodoos",
-                  "text": "Path to Hoodoos este o potecă spre Hoodoos din Banff, cu priveliști pitorești.",
+                  "text": "Un traseu de drumeție care duce de la oraș la Hoodoos-ii din Banff.",
                   "category": "natural",
                   "coords": [
                         -115.521039,
@@ -5833,7 +5833,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Waterfall",
-                  "text": "Waterfall este un punct de belvedere cu vedere la o cascadă în zona Cascade Mountain.",
+                  "text": "O cascadă pitorească în regiunea Munte, care se prăvălește pe o stâncă.",
                   "category": "natural",
                   "coords": [
                         -115.54329,
@@ -5842,7 +5842,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Tunnel Mountain Amphitheater",
-                  "text": "Tunnel Mountain Amphitheater este un teatru în aer liber pe Tunnel Mountain în Banff, folosit pentru evenimente.",
+                  "text": "Un amfiteatru în aer liber pe Tunnel Mountain în Banff, folosit pentru concerte și evenimente.",
                   "category": "cultural",
                   "coords": [
                         -115.520447,
@@ -5862,7 +5862,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "View point",
-                  "text": "View point is a viewpoint in the Cascade Mountain area offering panoramic views.",
+                  "text": "A viewpoint in the Mountain region offering broad scenery.",
                   "category": "natural",
                   "coords": [
                         -115.498682,
@@ -5889,7 +5889,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Banff Hoodoos Viewpoint",
-                  "text": "Banff Hoodoos Viewpoint is a viewpoint in Banff overlooking the hoodoos rock formations.",
+                  "text": "A viewpoint in Banff offering iconic views of the hoodoo rock formations.",
                   "category": "natural",
                   "coords": [
                         -115.520055,
@@ -5898,7 +5898,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Path to Hoodoos",
-                  "text": "Path to Hoodoos is a trail leading to the Banff Hoodoos with scenic views.",
+                  "text": "A hiking path leading to the Banff Hoodoos from the town.",
                   "category": "natural",
                   "coords": [
                         -115.521039,
@@ -5907,7 +5907,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Waterfall",
-                  "text": "Waterfall is a viewpoint of a waterfall in the Cascade Mountain area.",
+                  "text": "A scenic waterfall in the Mountain region, cascading down a rocky cliff.",
                   "category": "natural",
                   "coords": [
                         -115.54329,
@@ -5916,7 +5916,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Tunnel Mountain Amphitheater",
-                  "text": "Tunnel Mountain Amphitheater is an outdoor theatre on Tunnel Mountain in Banff, used for events.",
+                  "text": "An outdoor amphitheater on Tunnel Mountain in Banff, used for concerts and events.",
                   "category": "cultural",
                   "coords": [
                         -115.520447,
@@ -5972,7 +5972,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Graham Beach",
-                  "text": "Der Graham Beach ist ein Strand in notre-dame-mountains-relief-v2.",
+                  "text": "Ein Sandstrand an einem See oder Fluss in den Dame Mountains, beliebt zum Schwimmen.",
                   "category": "recreational",
                   "coords": [
                         -67.607095,
@@ -5981,7 +5981,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Théâtre Montcalm",
-                  "text": "Das Théâtre Montcalm ist ein Theater in notre-dame-mountains-relief-v2.",
+                  "text": "Ein historisches Theater in der Region Dame Mountains, das Aufführungen und Shows veranstaltet.",
                   "category": "cultural",
                   "coords": [
                         -67.391266,
@@ -5999,7 +5999,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Gare de Saint-Quentin",
-                  "text": "Die Gare de Saint-Quentin ist ein Bahnhof in notre-dame-mountains-relief-v2.",
+                  "text": "Ein Bahnhof in Saint-Quentin, der die Region der Dame Mountains bedient.",
                   "category": "landmark",
                   "coords": [
                         -67.391622,
@@ -6010,7 +6010,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Graham Beach",
-                  "text": "A Graham Beach egy strand notre-dame-mountains-relief-v2-ben.",
+                  "text": "Egy homokos strand egy tó vagy folyó partján a Dame-hegységben, népszerű úszásra.",
                   "category": "recreational",
                   "coords": [
                         -67.607095,
@@ -6019,7 +6019,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Théâtre Montcalm",
-                  "text": "A Théâtre Montcalm egy színház notre-dame-mountains-relief-v2-ben.",
+                  "text": "Egy történelmi színház a Dame-hegység régiójában, előadások és show-k helyszíne.",
                   "category": "cultural",
                   "coords": [
                         -67.391266,
@@ -6037,7 +6037,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Gare de Saint-Quentin",
-                  "text": "A Gare de Saint-Quentin egy vasútállomás notre-dame-mountains-relief-v2-ben.",
+                  "text": "Egy vasútállomás Saint-Quentin-ben, amely a Dame-hegység régióját szolgálja ki.",
                   "category": "landmark",
                   "coords": [
                         -67.391622,
@@ -6048,7 +6048,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Graham Beach",
-                  "text": "Plaja Graham este o plajă în notre-dame-mountains-relief-v2.",
+                  "text": "O plajă nisipoasă pe un lac sau râu în Munții Dame, populară pentru înot.",
                   "category": "recreational",
                   "coords": [
                         -67.607095,
@@ -6057,7 +6057,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Théâtre Montcalm",
-                  "text": "Teatrul Montcalm este un teatru în notre-dame-mountains-relief-v2.",
+                  "text": "Un teatru istoric în zona Munților Dame, care găzduiește spectacole și show-uri.",
                   "category": "cultural",
                   "coords": [
                         -67.391266,
@@ -6075,7 +6075,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Gare de Saint-Quentin",
-                  "text": "Gara Saint-Quentin este o gară în notre-dame-mountains-relief-v2.",
+                  "text": "O gară în Saint-Quentin, care deservește zona Munților Dame.",
                   "category": "landmark",
                   "coords": [
                         -67.391622,
@@ -6086,7 +6086,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Graham Beach",
-                  "text": "Graham Beach is a beach in notre-dame-mountains-relief-v2.",
+                  "text": "A sandy beach on a lake or river in the Dame Mountains, popular for swimming.",
                   "category": "recreational",
                   "coords": [
                         -67.607095,
@@ -6095,7 +6095,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Théâtre Montcalm",
-                  "text": "Théâtre Montcalm is a theatre in notre-dame-mountains-relief-v2.",
+                  "text": "A historic theatre in the Dame Mountains area, hosting performances and shows.",
                   "category": "cultural",
                   "coords": [
                         -67.391266,
@@ -6113,7 +6113,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
             },
             {
                   "name": "Gare de Saint-Quentin",
-                  "text": "Gare de Saint-Quentin is a train station in notre-dame-mountains-relief-v2.",
+                  "text": "A railway station in Saint-Quentin, serving the Dame Mountains area.",
                   "category": "landmark",
                   "coords": [
                         -67.391622,

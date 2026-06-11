@@ -128,7 +128,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "The Market Square",
-                  "text": "The Market Square ist ein renommiertes Theater und Veranstaltungsort in Johannesburg.",
+                  "text": "Ein historischer Theaterkomplex im Newtown-Viertel von Johannesburg.",
                   "category": "cultural",
                   "coords": [
                         28.032238,
@@ -137,7 +137,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Origins Centre",
-                  "text": "Das Origins Centre ist ein Museum in Johannesburg.",
+                  "text": "Museum auf dem Campus der Witwatersrand-Universität mit Fossilien aus der Wiege der Menschheit.",
                   "category": "museum",
                   "coords": [
                         28.028309,
@@ -146,7 +146,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Johannesburg Art Gallery",
-                  "text": "Die Johannesburg Art Gallery ist ein bedeutendes Kunstmuseum in Johannesburg.",
+                  "text": "Südafrikas älteste Kunstgalerie mit europäischer und südafrikanischer Kunst.",
                   "category": "museum",
                   "coords": [
                         28.047049,
@@ -155,7 +155,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Wits Art Museum",
-                  "text": "Das Wits Art Museum ist ein Museum in Johannesburg.",
+                  "text": "Museum an der Universität Witwatersrand mit einer Sammlung afrikanischer zeitgenössischer und historischer Kunst.",
                   "category": "museum",
                   "coords": [
                         28.032864,
@@ -164,7 +164,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Santarama Miniland",
-                  "text": "Santarama Miniland ist ein Freizeitpark in Johannesburg.",
+                  "text": "Santarama Miniland ist ein Miniaturpark in Johannesburg mit Nachbildungen südafrikanischer Wahrzeichen.",
                   "category": "family",
                   "coords": [
                         28.05343,
@@ -173,7 +173,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Nelson Mandela Theatre",
-                  "text": "Das Nelson Mandela Theatre ist ein Theater in Johannesburg.",
+                  "text": "Nelson Mandela Theatre ist ein Theater am Nelson-Mandela-Platz in Sandton, Johannesburg.",
                   "category": "cultural",
                   "coords": [
                         28.038427,
@@ -182,7 +182,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Alahambra Theatre",
-                  "text": "Das Alahambra Theatre ist ein Theater in Johannesburg.",
+                  "text": "Alahambra Theatre ist ein historisches Kino in Doornfontein, jetzt ein Ort für Live-Aufführungen.",
                   "category": "cultural",
                   "coords": [
                         28.058499,
@@ -191,7 +191,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Windybrow Theatre",
-                  "text": "Das Windybrow Theatre ist ein Theater in Johannesburg.",
+                  "text": "Windybrow Theatre ist ein Kulturzentrum in einem viktorianischen Haus in Hillbrow, Johannesburg.",
                   "category": "cultural",
                   "coords": [
                         28.050805,
@@ -200,7 +200,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Sci-Bono Centre",
-                  "text": "Das Sci-Bono Centre ist ein Museum in Johannesburg.",
+                  "text": "Sci-Bono Centre ist ein interaktives Wissenschaftsmuseum im Newtown-Viertel von Johannesburg.",
                   "category": "museum",
                   "coords": [
                         28.03286,
@@ -209,7 +209,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Gauteng Opera",
-                  "text": "Die Gauteng Opera ist ein Theater in Johannesburg.",
+                  "text": "Gauteng Opera ist eine Opernkompanie mit Sitz in Johannesburg, die in verschiedenen Spielstätten auftritt.",
                   "category": "cultural",
                   "coords": [
                         28.034045,
@@ -218,7 +218,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "POPART Performing Arts Centre",
-                  "text": "Das POPART Performing Arts Centre ist ein Theater in Johannesburg.",
+                  "text": "POPART Performing Arts Centre ist ein Gemeinschaftskunstzentrum im Hillbrow-Viertel von Johannesburg.",
                   "category": "cultural",
                   "coords": [
                         28.059452,
@@ -227,7 +227,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Hillbrow Theatre",
-                  "text": "Das Hillbrow Theatre ist ein lokales Theater in Johannesburg.",
+                  "text": "Hillbrow Theatre ist ein kleines Theater in Hillbrow, Johannesburg, das experimentelle Stücke zeigt.",
                   "category": "cultural",
                   "coords": [
                         28.047102,
@@ -236,7 +236,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Number Four Prison",
-                  "text": "Das Number Four Prison ist ein historisches Museum in Johannesburg.",
+                  "text": "Number Four Prison ist ein ehemaliges Gefängnis auf dem Constitution Hill, heute Museum zur Apartheid-Geschichte.",
                   "category": "museum",
                   "coords": [
                         28.04253,
@@ -245,7 +245,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Old Fort Prison",
-                  "text": "Das Old Fort Prison dient als Museum in Johannesburg.",
+                  "text": "Ehemaliges Gefängnis von 1893, heute Museum in Johannesburg.",
                   "category": "museum",
                   "coords": [
                         28.043046,
@@ -254,7 +254,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Johannesburg Planetarium",
-                  "text": "Das Johannesburg Planetarium ist ein Wissenschaftsmuseum in Johannesburg.",
+                  "text": "Johannesburg Planetarium ist ein Kuppeltheater an der Wits-Universität mit Astronomieshows.",
                   "category": "museum",
                   "coords": [
                         28.02835,
@@ -263,7 +263,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Wits Linder Auditorium",
-                  "text": "Das Wits Linder Auditorium ist ein Theater und Veranstaltungsort in Johannesburg.",
+                  "text": "Wits Linder Auditorium ist ein Konzertsaal auf dem Campus der Wits-Universität in Johannesburg.",
                   "category": "cultural",
                   "coords": [
                         28.042077,
@@ -272,7 +272,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Workers Museum",
-                  "text": "Das Workers Museum ist ein Museum für Arbeitergeschichte in Johannesburg.",
+                  "text": "Workers Museum ist ein Museum in Newtown, Johannesburg, das dem Leben der Wanderarbeiter gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         28.032222,
@@ -281,7 +281,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Museum Of African Design",
-                  "text": "Das Museum Of African Design ist eine kulturelle Einrichtung in Johannesburg.",
+                  "text": "Museum Of African Design ist ein Designmuseum in Johannesburg, das zeitgenössische afrikanische Kreativität zeigt.",
                   "category": "museum",
                   "coords": [
                         28.059807,
@@ -290,7 +290,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Women's Jail",
-                  "text": "Das Women's Jail ist als Museum in Johannesburg erhalten geblieben.",
+                  "text": "Frauengefängnis von 1910, heute Museum in Johannesburg.",
                   "category": "museum",
                   "coords": [
                         28.041734,
@@ -299,7 +299,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Beyers Naudé Square",
-                  "text": "Der Beyers Naudé Square ist ein bekannter öffentlicher Platz und Park im Zentrum von Johannesburg.",
+                  "text": "Ein öffentlicher Platz in Johannesburg, benannt nach dem Anti-Apartheid-Geistlichen Beyers Naudé.",
                   "category": "park",
                   "coords": [
                         28.039447,
@@ -308,7 +308,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Gilfillan Park",
-                  "text": "Der Gilfillan Park ist eine öffentliche Grünfläche in Johannesburg.",
+                  "text": "Kleiner öffentlicher Park im Berea-Viertel von Johannesburg mit alten Bäumen.",
                   "category": "park",
                   "coords": [
                         28.064785,
@@ -317,7 +317,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Pioneers' Park",
-                  "text": "Der Pioneers' Park ist ein Erholungspark in Johannesburg.",
+                  "text": "Pioneers' Park ist eine Grünfläche in Johannesburg, die an die frühen Siedler erinnert.",
                   "category": "park",
                   "coords": [
                         28.058,
@@ -326,7 +326,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Pro Patria",
-                  "text": "Pro Patria ist ein Denkmal in Johannesburg.",
+                  "text": "Pro Patria ist ein historisches Gebäude in Johannesburg, ursprünglich ein Kino aus den 1940er Jahren.",
                   "category": "historical",
                   "coords": [
                         28.045415,
@@ -335,7 +335,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "The Miner's Monument",
-                  "text": "Das Miner's Monument ist ein bedeutendes Denkmal in Johannesburg.",
+                  "text": "The Miner's Monument ist eine Statue in Johannesburg, die an die Goldgräber erinnert.",
                   "category": "historical",
                   "coords": [
                         28.040434,
@@ -344,7 +344,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "langlaagte stamp battery",
-                  "text": "Die Langlaagte Stamp Battery ist eine industriegeschichtliche Attraktion in Johannesburg.",
+                  "text": "Langlaagte stamp battery ist eine erhaltene Stampfmühle aus dem Goldrausch in Langlaagte, Johannesburg.",
                   "category": "landmark",
                   "coords": [
                         28.038956,
@@ -371,7 +371,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Old Johannesburg Station",
-                  "text": "Die Old Johannesburg Station ist als historische Ruine in Johannesburg erhalten geblieben.",
+                  "text": "Old Johannesburg Station ist der historische Bahnhof von Johannesburg, heute ein Markt und Veranstaltungsort.",
                   "category": "historical",
                   "coords": [
                         28.033889,
@@ -380,7 +380,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Standard Bank Gallery",
-                  "text": "Die Standard Bank Gallery ist ein Kunstausstellungsraum in Johannesburg.",
+                  "text": "Standard Bank Gallery ist eine Kunstgalerie im Standard-Bank-Gebäude in Johannesburg.",
                   "category": "museum",
                   "coords": [
                         28.040718,
@@ -389,7 +389,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "AGOG Gallery",
-                  "text": "Die AGOG Gallery ist eine lokale Kunstgalerie in Johannesburg.",
+                  "text": "AGOG Gallery ist ein zeitgenössischer Kunstraum in Johannesburg mit wechselnden Ausstellungen.",
                   "category": "museum",
                   "coords": [
                         28.05908,
@@ -407,7 +407,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "The Turbine Hall",
-                  "text": "Die Turbine Hall ist ein architektonisches Wahrzeichen und eine Attraktion in Johannesburg.",
+                  "text": "The Turbine Hall ist ein umgebautes Kraftwerk in Newtown, Johannesburg, das als Veranstaltungsort dient.",
                   "category": "landmark",
                   "coords": [
                         28.033732,
@@ -416,7 +416,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Hillbrow tower",
-                  "text": "Der Hillbrow Tower ist ein markanter Fernmeldeturm in Johannesburg.",
+                  "text": "269 m hoher Telekommunikationsturm, das höchste Gebäude Afrikas.",
                   "category": "tower",
                   "coords": [
                         28.049276,
@@ -443,7 +443,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Kwa Mai Mai Traditional Market",
-                  "text": "Der Kwa Mai Mai Traditional Market ist ein lebhafter lokaler Markt in Johannesburg.",
+                  "text": "Traditioneller afrikanischer Markt in der Innenstadt, bekannt für Muthi (traditionelle Medizin) und Kunsthandwerk.",
                   "category": "landmark",
                   "coords": [
                         28.059213,
@@ -463,7 +463,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "The Market Square",
-                  "text": "A The Market Square egy híres színház és előadóhely Johannesburgban.",
+                  "text": "Egy történelmi színházkomplexum a johannesburgi Newtown negyedben.",
                   "category": "cultural",
                   "coords": [
                         28.032238,
@@ -472,7 +472,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Origins Centre",
-                  "text": "Az Origins Centre egy múzeum Johannesburgban.",
+                  "text": "Múzeum a Witwatersrand Egyetem campusán, az Emberiség Bölcsőjéből származó fosszíliákkal.",
                   "category": "museum",
                   "coords": [
                         28.028309,
@@ -481,7 +481,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Johannesburg Art Gallery",
-                  "text": "A Johannesburg Art Gallery egy kiemelkedő művészeti múzeum Johannesburgban.",
+                  "text": "Dél-Afrika legrégebbi művészeti galériája európai és dél-afrikai művészeti gyűjteménnyel.",
                   "category": "museum",
                   "coords": [
                         28.047049,
@@ -490,7 +490,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Wits Art Museum",
-                  "text": "A Wits Art Museum egy múzeum Johannesburgban.",
+                  "text": "Múzeum a Witwatersrand Egyetemen, afrikai kortárs és történelmi művészeti gyűjteménnyel.",
                   "category": "museum",
                   "coords": [
                         28.032864,
@@ -499,7 +499,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Santarama Miniland",
-                  "text": "A Santarama Miniland egy vidámpark Johannesburgban.",
+                  "text": "A Santarama Miniland egy miniatűr park Johannesburgban, dél-afrikai nevezetességek másolataival.",
                   "category": "family",
                   "coords": [
                         28.05343,
@@ -508,7 +508,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Nelson Mandela Theatre",
-                  "text": "A Nelson Mandela Theatre egy színház Johannesburgban.",
+                  "text": "A Nelson Mandela Színház a Nelson Mandela téren található Sandtonban, Johannesburgban.",
                   "category": "cultural",
                   "coords": [
                         28.038427,
@@ -517,7 +517,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Alahambra Theatre",
-                  "text": "Az Alahambra Theatre egy színház Johannesburgban.",
+                  "text": "Az Alahambra Színház egy történelmi mozi Doornfonteinben, ma élő előadások helyszíne.",
                   "category": "cultural",
                   "coords": [
                         28.058499,
@@ -526,7 +526,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Windybrow Theatre",
-                  "text": "A Windybrow Theatre egy színház Johannesburgban.",
+                  "text": "A Windybrow Színház egy viktoriánus házban működő kulturális központ Hillbrowban, Johannesburgban.",
                   "category": "cultural",
                   "coords": [
                         28.050805,
@@ -535,7 +535,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Sci-Bono Centre",
-                  "text": "A Sci-Bono Centre egy múzeum Johannesburgban.",
+                  "text": "A Sci-Bono Központ egy interaktív tudományos múzeum Johannesburg Newtown negyedében.",
                   "category": "museum",
                   "coords": [
                         28.03286,
@@ -544,7 +544,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Gauteng Opera",
-                  "text": "A Gauteng Opera egy színház Johannesburg városában.",
+                  "text": "A Gauteng Opera egy johannesburgi operatársulat, amely több helyszínen is fellép.",
                   "category": "cultural",
                   "coords": [
                         28.034045,
@@ -553,7 +553,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "POPART Performing Arts Centre",
-                  "text": "A POPART Performing Arts Centre egy színház Johannesburgban.",
+                  "text": "A POPART Előadóművészeti Központ egy közösségi művészeti központ Johannesburg Hillbrow negyedében.",
                   "category": "cultural",
                   "coords": [
                         28.059452,
@@ -562,7 +562,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Hillbrow Theatre",
-                  "text": "A Hillbrow Theatre egy helyi színház Johannesburgban.",
+                  "text": "A Hillbrow Színház egy kicsi színház Hillbrowban, Johannesburgban, kísérleti darabokkal.",
                   "category": "cultural",
                   "coords": [
                         28.047102,
@@ -571,7 +571,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Number Four Prison",
-                  "text": "A Number Four Prison egy történelmi múzeum Johannesburgban.",
+                  "text": "A Number Four Börtön egykori börtön a Constitution Hillen, ma az apartheid történetének múzeuma.",
                   "category": "museum",
                   "coords": [
                         28.04253,
@@ -580,7 +580,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Old Fort Prison",
-                  "text": "Az Old Fort Prison múzeumként működik Johannesburgban.",
+                  "text": "1893-ban épült egykori börtön, ma múzeum Johannesburgban.",
                   "category": "museum",
                   "coords": [
                         28.043046,
@@ -589,7 +589,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Johannesburg Planetarium",
-                  "text": "A Johannesburg Planetarium egy tudományos múzeum Johannesburgban.",
+                  "text": "A Johannesburgi Planetárium egy kupolás színház a Wits Egyetemen, csillagászati előadásokkal.",
                   "category": "museum",
                   "coords": [
                         28.02835,
@@ -598,7 +598,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Wits Linder Auditorium",
-                  "text": "A Wits Linder Auditorium egy színház és előadóterem Johannesburgban.",
+                  "text": "A Wits Linder Auditorium egy koncertterem a Wits Egyetem campusán Johannesburgban.",
                   "category": "cultural",
                   "coords": [
                         28.042077,
@@ -607,7 +607,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Workers Museum",
-                  "text": "A Workers Museum egy munkástörténeti múzeum Johannesburgban.",
+                  "text": "A Workers Museum egy múzeum Newtownban, Johannesburgban, a vendégmunkások életének szentelve.",
                   "category": "museum",
                   "coords": [
                         28.032222,
@@ -616,7 +616,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Museum Of African Design",
-                  "text": "A Museum Of African Design egy kulturális intézmény Johannesburgban.",
+                  "text": "Az Afrikai Design Múzeum egy designmúzeum Johannesburgban, a kortárs afrikai kreativitást bemutatva.",
                   "category": "museum",
                   "coords": [
                         28.059807,
@@ -625,7 +625,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Women's Jail",
-                  "text": "A Women's Jail múzeumként van fenntartva Johannesburgban.",
+                  "text": "Női börtön 1910-ből, ma múzeum Johannesburgban.",
                   "category": "museum",
                   "coords": [
                         28.041734,
@@ -634,7 +634,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Beyers Naudé Square",
-                  "text": "A Beyers Naudé Square egy nevezetes középület és park Johannesburg központjában.",
+                  "text": "Egy közösségi tér Johannesburgban, Beyers Naudé apartheid-ellenes lelkészről elnevezve.",
                   "category": "park",
                   "coords": [
                         28.039447,
@@ -643,7 +643,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Gilfillan Park",
-                  "text": "A Gilfillan Park egy nyilvános zöldterület Johannesburgban.",
+                  "text": "Kis közpark Johannesburg Berea negyedében, idős fákkal.",
                   "category": "park",
                   "coords": [
                         28.064785,
@@ -652,7 +652,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Pioneers' Park",
-                  "text": "A Pioneers' Park egy rekreációs park Johannesburgban.",
+                  "text": "A Pioneers' Park egy zöldterület Johannesburgban, amely a korai telepesekre emlékezik.",
                   "category": "park",
                   "coords": [
                         28.058,
@@ -661,7 +661,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Pro Patria",
-                  "text": "A Pro Patria egy emlékmű Johannesburgban.",
+                  "text": "A Pro Patria egy történelmi épület Johannesburgban, eredetileg az 1940-es évek mozija.",
                   "category": "historical",
                   "coords": [
                         28.045415,
@@ -670,7 +670,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "The Miner's Monument",
-                  "text": "A Miner's Monument egy nevezetes emlékmű Johannesburgban.",
+                  "text": "A The Miner's Monument egy szobor Johannesburgban, amely az aranybányászokra emlékezik.",
                   "category": "historical",
                   "coords": [
                         28.040434,
@@ -679,7 +679,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "langlaagte stamp battery",
-                  "text": "A Langlaagte stamp battery egy ipari örökségi látványosság Johannesburgban.",
+                  "text": "A langlaagte-i bélyegzőmalom egy megőrzött bélyegzőmalom az aranylázból Langlaagtében, Johannesburgban.",
                   "category": "landmark",
                   "coords": [
                         28.038956,
@@ -706,7 +706,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Old Johannesburg Station",
-                  "text": "Az Old Johannesburg Station történelmi romként van megőrizve Johannesburgban.",
+                  "text": "Az Old Johannesburg Station Johannesburg történelmi vasútállomása, ma piac és rendezvényhelyszín.",
                   "category": "historical",
                   "coords": [
                         28.033889,
@@ -715,7 +715,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Standard Bank Gallery",
-                  "text": "A Standard Bank Gallery egy művészeti kiállítótér Johannesburgban.",
+                  "text": "A Standard Bank Gallery egy művészeti galéria a Standard Bank épületében Johannesburgban.",
                   "category": "museum",
                   "coords": [
                         28.040718,
@@ -724,7 +724,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "AGOG Gallery",
-                  "text": "Az AGOG Gallery egy helyi művészeti galéria Johannesburgban.",
+                  "text": "Az AGOG Gallery egy kortárs művészeti tér Johannesburgban, változó kiállításokkal.",
                   "category": "museum",
                   "coords": [
                         28.05908,
@@ -742,7 +742,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "The Turbine Hall",
-                  "text": "A Turbine Hall egy építészeti mérföldkő és látványosság Johannesburgban.",
+                  "text": "A Turbine Hall egy átalakított erőmű Newtownban, Johannesburgban, rendezvényhelyszínként szolgál.",
                   "category": "landmark",
                   "coords": [
                         28.033732,
@@ -751,7 +751,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Hillbrow tower",
-                  "text": "A Hillbrow tower egy kiemelkedő távközlési torony Johannesburgban.",
+                  "text": "269 m magas távközlési torony, Afrika legmagasabb épülete.",
                   "category": "tower",
                   "coords": [
                         28.049276,
@@ -778,7 +778,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Kwa Mai Mai Traditional Market",
-                  "text": "A Kwa Mai Mai Traditional Market egy nyüzsgő helyi piac Johannesburgban.",
+                  "text": "Hagyományos afrikai piac a belvárosban, ismert muthiról (hagyományos orvosság) és kézműves termékekről.",
                   "category": "landmark",
                   "coords": [
                         28.059213,
@@ -798,7 +798,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "The Market Square",
-                  "text": "The Market Square este un teatru și o locație de spectacole renumită din Johannesburg.",
+                  "text": "Un complex teatral istoric în cartierul Newtown din Johannesburg.",
                   "category": "cultural",
                   "coords": [
                         28.032238,
@@ -807,7 +807,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Origins Centre",
-                  "text": "Origins Centre este un muzeu situat în Johannesburg.",
+                  "text": "Muzeu pe campusul Universității Witwatersrand, cu fosile din Leagănul Omenirii.",
                   "category": "museum",
                   "coords": [
                         28.028309,
@@ -816,7 +816,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Johannesburg Art Gallery",
-                  "text": "Johannesburg Art Gallery este un important muzeu de artă situat în Johannesburg.",
+                  "text": "Cea mai veche galerie de artă din Africa de Sud, cu colecții de artă europeană și sud-africană.",
                   "category": "museum",
                   "coords": [
                         28.047049,
@@ -825,7 +825,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Wits Art Museum",
-                  "text": "Wits Art Museum este un muzeu situat în Johannesburg.",
+                  "text": "Muzeu la Universitatea Witwatersrand, cu o colecție de artă africană contemporană și istorică.",
                   "category": "museum",
                   "coords": [
                         28.032864,
@@ -834,7 +834,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Santarama Miniland",
-                  "text": "Santarama Miniland este un parc tematic situat în Johannesburg.",
+                  "text": "Santarama Miniland este un parc în miniatură în Johannesburg, cu replici ale reperelor sud-africane.",
                   "category": "family",
                   "coords": [
                         28.05343,
@@ -843,7 +843,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Nelson Mandela Theatre",
-                  "text": "Nelson Mandela Theatre este un teatru situat în Johannesburg.",
+                  "text": "Teatrul Nelson Mandela este un teatru pe Piața Nelson Mandela din Sandton, Johannesburg.",
                   "category": "cultural",
                   "coords": [
                         28.038427,
@@ -852,7 +852,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Alahambra Theatre",
-                  "text": "Alahambra Theatre este un teatru situat în Johannesburg.",
+                  "text": "Teatrul Alahambra este un cinematograf istoric din Doornfontein, acum loc de spectacole live.",
                   "category": "cultural",
                   "coords": [
                         28.058499,
@@ -861,7 +861,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Windybrow Theatre",
-                  "text": "Windybrow Theatre este un teatru situat în Johannesburg.",
+                  "text": "Teatrul Windybrow este un centru cultural într-o casă victoriană din Hillbrow, Johannesburg.",
                   "category": "cultural",
                   "coords": [
                         28.050805,
@@ -870,7 +870,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Sci-Bono Centre",
-                  "text": "Sci-Bono Centre este un muzeu situat în Johannesburg.",
+                  "text": "Centrul Sci-Bono este un muzeu interactiv de știință în cartierul Newtown din Johannesburg.",
                   "category": "museum",
                   "coords": [
                         28.03286,
@@ -879,7 +879,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Gauteng Opera",
-                  "text": "Gauteng Opera este un teatru situat în Johannesburg.",
+                  "text": "Gauteng Opera este o companie de operă cu sediul în Johannesburg, care cântă în diverse locații.",
                   "category": "cultural",
                   "coords": [
                         28.034045,
@@ -888,7 +888,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "POPART Performing Arts Centre",
-                  "text": "POPART Performing Arts Centre este un teatru din Johannesburg.",
+                  "text": "Centrul de Arte Performative POPART este un centru de artă comunitară în cartierul Hillbrow din Johannesburg.",
                   "category": "cultural",
                   "coords": [
                         28.059452,
@@ -897,7 +897,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Hillbrow Theatre",
-                  "text": "Hillbrow Theatre este un teatru local situat în Johannesburg.",
+                  "text": "Teatrul Hillbrow este un teatru mic în Hillbrow, Johannesburg, care prezintă piese experimentale.",
                   "category": "cultural",
                   "coords": [
                         28.047102,
@@ -906,7 +906,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Number Four Prison",
-                  "text": "Number Four Prison este un muzeu istoric situat în Johannesburg.",
+                  "text": "Închisoarea Number Four este o fostă închisoare pe Constitution Hill, acum muzeu al istoriei apartheidului.",
                   "category": "museum",
                   "coords": [
                         28.04253,
@@ -915,7 +915,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Old Fort Prison",
-                  "text": "Old Fort Prison servește ca muzeu în Johannesburg.",
+                  "text": "Fostă închisoare construită în 1893, acum muzeu în Johannesburg.",
                   "category": "museum",
                   "coords": [
                         28.043046,
@@ -924,7 +924,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Johannesburg Planetarium",
-                  "text": "Johannesburg Planetarium este un muzeu de știință situat în Johannesburg.",
+                  "text": "Planetariul din Johannesburg este un teatru cu dom la Universitatea Wits, cu spectacole de astronomie.",
                   "category": "museum",
                   "coords": [
                         28.02835,
@@ -933,7 +933,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Wits Linder Auditorium",
-                  "text": "Wits Linder Auditorium este un teatru și o sală de evenimente din Johannesburg.",
+                  "text": "Wits Linder Auditorium este o sală de concerte pe campusul Universității Wits din Johannesburg.",
                   "category": "cultural",
                   "coords": [
                         28.042077,
@@ -942,7 +942,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Workers Museum",
-                  "text": "Workers Museum este un muzeu din Johannesburg dedicat istoriei muncii.",
+                  "text": "Muzeul Muncitorilor este un muzeu în Newtown, Johannesburg, dedicat vieții muncitorilor migranți.",
                   "category": "museum",
                   "coords": [
                         28.032222,
@@ -951,7 +951,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Museum Of African Design",
-                  "text": "Museum Of African Design este o instituție culturală din Johannesburg.",
+                  "text": "Muzeul Designului African este un muzeu de design în Johannesburg, prezentând creativitatea africană contemporană.",
                   "category": "museum",
                   "coords": [
                         28.059807,
@@ -960,7 +960,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Women's Jail",
-                  "text": "Women's Jail este conservată ca muzeu în Johannesburg.",
+                  "text": "Închisoare pentru femei construită în 1910, acum muzeu în Johannesburg.",
                   "category": "museum",
                   "coords": [
                         28.041734,
@@ -969,7 +969,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Beyers Naudé Square",
-                  "text": "Beyers Naudé Square este o piață publică și un parc important din centrul orașului Johannesburg.",
+                  "text": "O piață publică în Johannesburg, numită după clericul anti-apartheid Beyers Naudé.",
                   "category": "park",
                   "coords": [
                         28.039447,
@@ -978,7 +978,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Gilfillan Park",
-                  "text": "Gilfillan Park este un spațiu verde public situat în Johannesburg.",
+                  "text": "Parc public mic în cartierul Berea din Johannesburg, cu copaci maturi.",
                   "category": "park",
                   "coords": [
                         28.064785,
@@ -987,7 +987,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Pioneers' Park",
-                  "text": "Pioneers' Park este un parc de agrement situat în Johannesburg.",
+                  "text": "Pioneers' Park este un spațiu verde din Johannesburg, care comemorează primii coloniști.",
                   "category": "park",
                   "coords": [
                         28.058,
@@ -996,7 +996,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Pro Patria",
-                  "text": "Pro Patria este un monument situat în Johannesburg.",
+                  "text": "Pro Patria este o clădire istorică din Johannesburg, inițial un cinematograf din anii 1940.",
                   "category": "historical",
                   "coords": [
                         28.045415,
@@ -1005,7 +1005,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "The Miner's Monument",
-                  "text": "The Miner's Monument este un monument important situat în Johannesburg.",
+                  "text": "Monumentul Minerului este o statuie în Johannesburg care comemorează minerii de aur.",
                   "category": "historical",
                   "coords": [
                         28.040434,
@@ -1014,7 +1014,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "langlaagte stamp battery",
-                  "text": "Bateria Langlaagte este o atracție de patrimoniu industrial din Johannesburg.",
+                  "text": "Bateria de ștampilare Langlaagte este o moară de ștampilă păstrată din goana după aur din Langlaagte, Johannesburg.",
                   "category": "landmark",
                   "coords": [
                         28.038956,
@@ -1041,7 +1041,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Old Johannesburg Station",
-                  "text": "Old Johannesburg Station este conservată ca un sit istoric în ruine din Johannesburg.",
+                  "text": "Old Johannesburg Station este gara istorică a Johannesburgului, acum piață și loc de evenimente.",
                   "category": "historical",
                   "coords": [
                         28.033889,
@@ -1050,7 +1050,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Standard Bank Gallery",
-                  "text": "Standard Bank Gallery este un spațiu de expoziții de artă situat în Johannesburg.",
+                  "text": "Standard Bank Gallery este o galerie de artă în clădirea Standard Bank din Johannesburg.",
                   "category": "museum",
                   "coords": [
                         28.040718,
@@ -1059,7 +1059,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "AGOG Gallery",
-                  "text": "AGOG Gallery este o galerie de artă locală din Johannesburg.",
+                  "text": "AGOG Gallery este un spațiu de artă contemporană din Johannesburg, cu expoziții temporare.",
                   "category": "museum",
                   "coords": [
                         28.05908,
@@ -1077,7 +1077,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "The Turbine Hall",
-                  "text": "Turbine Hall este un reper arhitectural și o atracție din Johannesburg.",
+                  "text": "Turbine Hall este o centrală electrică transformată în Newtown, Johannesburg, folosită ca loc de evenimente.",
                   "category": "landmark",
                   "coords": [
                         28.033732,
@@ -1086,7 +1086,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Hillbrow tower",
-                  "text": "Turnul Hillbrow este un turn proeminent de telecomunicații din Johannesburg.",
+                  "text": "Turn de telecomunicații de 269 m, cea mai înaltă clădire din Africa.",
                   "category": "tower",
                   "coords": [
                         28.049276,
@@ -1113,7 +1113,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Kwa Mai Mai Traditional Market",
-                  "text": "Kwa Mai Mai Traditional Market este o piață locală plină de viață situată în Johannesburg.",
+                  "text": "Piață tradițională africană în centrul orașului, cunoscută pentru muthi (medicină tradițională) și meșteșuguri.",
                   "category": "landmark",
                   "coords": [
                         28.059213,
@@ -1133,7 +1133,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "The Market Square",
-                  "text": "The Market Square is a renowned theatre and performance venue in Johannesburg.",
+                  "text": "A historic theatre complex in the Newtown district of Johannesburg.",
                   "category": "cultural",
                   "coords": [
                         28.032238,
@@ -1142,7 +1142,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Origins Centre",
-                  "text": "Origins Centre is a museum situated in Johannesburg.",
+                  "text": "Museum on the University of the Witwatersrand campus, showcasing fossils from the Cradle of Humankind.",
                   "category": "museum",
                   "coords": [
                         28.028309,
@@ -1151,7 +1151,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Johannesburg Art Gallery",
-                  "text": "The Johannesburg Art Gallery is a prominent art museum located in Johannesburg.",
+                  "text": "South Africa's oldest art gallery, housing European and South African art.",
                   "category": "museum",
                   "coords": [
                         28.047049,
@@ -1160,7 +1160,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Wits Art Museum",
-                  "text": "Wits Art Museum is a museum located in Johannesburg.",
+                  "text": "Museum at the University of the Witwatersrand, featuring a collection of African contemporary and historic art.",
                   "category": "museum",
                   "coords": [
                         28.032864,
@@ -1169,7 +1169,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Santarama Miniland",
-                  "text": "Santarama Miniland is a theme park located in Johannesburg.",
+                  "text": "Santarama Miniland is a miniature park in Johannesburg featuring replicas of South African landmarks.",
                   "category": "family",
                   "coords": [
                         28.05343,
@@ -1178,7 +1178,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Nelson Mandela Theatre",
-                  "text": "Nelson Mandela Theatre is a theatre venue situated in Johannesburg.",
+                  "text": "Nelson Mandela Theatre is a theatre on Nelson Mandela Square in Sandton, Johannesburg.",
                   "category": "cultural",
                   "coords": [
                         28.038427,
@@ -1187,7 +1187,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Alahambra Theatre",
-                  "text": "Alahambra Theatre is a theatre located in Johannesburg.",
+                  "text": "Alahambra Theatre is a historic cinema in Doornfontein, now a live performance venue.",
                   "category": "cultural",
                   "coords": [
                         28.058499,
@@ -1196,7 +1196,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Windybrow Theatre",
-                  "text": "Windybrow Theatre is a theatre situated in Johannesburg.",
+                  "text": "Windybrow Theatre is a cultural centre in a Victorian house in Hillbrow, Johannesburg.",
                   "category": "cultural",
                   "coords": [
                         28.050805,
@@ -1205,7 +1205,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Sci-Bono Centre",
-                  "text": "Sci-Bono Centre is a museum located in Johannesburg.",
+                  "text": "Sci-Bono Centre is an interactive science museum in the Newtown district of Johannesburg.",
                   "category": "museum",
                   "coords": [
                         28.03286,
@@ -1214,7 +1214,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Gauteng Opera",
-                  "text": "Gauteng Opera is a theatre located in Johannesburg.",
+                  "text": "Gauteng Opera is an opera company based in Johannesburg, performing at various venues.",
                   "category": "cultural",
                   "coords": [
                         28.034045,
@@ -1223,7 +1223,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "POPART Performing Arts Centre",
-                  "text": "POPART Performing Arts Centre is a theatre in Johannesburg.",
+                  "text": "POPART Performing Arts Centre is a community arts hub in the Hillbrow district of Johannesburg.",
                   "category": "cultural",
                   "coords": [
                         28.059452,
@@ -1232,7 +1232,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Hillbrow Theatre",
-                  "text": "Hillbrow Theatre is a local theatre situated in Johannesburg.",
+                  "text": "Hillbrow Theatre is a small theatre in Hillbrow, Johannesburg, showcasing experimental plays.",
                   "category": "cultural",
                   "coords": [
                         28.047102,
@@ -1241,7 +1241,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Number Four Prison",
-                  "text": "Number Four Prison is a historical museum located in Johannesburg.",
+                  "text": "Number Four Prison is a former prison on Constitution Hill, now a museum of apartheid history.",
                   "category": "museum",
                   "coords": [
                         28.04253,
@@ -1250,7 +1250,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Old Fort Prison",
-                  "text": "Old Fort Prison serves as a museum in Johannesburg.",
+                  "text": "Former prison built in 1893, now a museum in Johannesburg.",
                   "category": "museum",
                   "coords": [
                         28.043046,
@@ -1259,7 +1259,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Johannesburg Planetarium",
-                  "text": "Johannesburg Planetarium is a science museum situated in Johannesburg.",
+                  "text": "Johannesburg Planetarium is a domed theatre at Wits University presenting astronomy shows.",
                   "category": "museum",
                   "coords": [
                         28.02835,
@@ -1268,7 +1268,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Wits Linder Auditorium",
-                  "text": "Wits Linder Auditorium is a theatre and performance venue in Johannesburg.",
+                  "text": "Wits Linder Auditorium is a concert hall on the campus of Wits University in Johannesburg.",
                   "category": "cultural",
                   "coords": [
                         28.042077,
@@ -1277,7 +1277,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Workers Museum",
-                  "text": "Workers Museum is an institution dedicated to labor history in Johannesburg.",
+                  "text": "Workers Museum is a museum in Newtown, Johannesburg, dedicated to the lives of migrant workers.",
                   "category": "museum",
                   "coords": [
                         28.032222,
@@ -1286,7 +1286,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Museum Of African Design",
-                  "text": "The Museum Of African Design is a cultural institution in Johannesburg.",
+                  "text": "Museum Of African Design is a design museum in Johannesburg showcasing contemporary African creativity.",
                   "category": "museum",
                   "coords": [
                         28.059807,
@@ -1295,7 +1295,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Women's Jail",
-                  "text": "The Women's Jail is preserved as a museum in Johannesburg.",
+                  "text": "Women's prison built in 1910, now a museum in Johannesburg.",
                   "category": "museum",
                   "coords": [
                         28.041734,
@@ -1304,7 +1304,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Beyers Naudé Square",
-                  "text": "Beyers Naudé Square is a notable public square and park in central Johannesburg.",
+                  "text": "A public square in Johannesburg named after anti-apartheid cleric Beyers Naudé.",
                   "category": "park",
                   "coords": [
                         28.039447,
@@ -1313,7 +1313,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Gilfillan Park",
-                  "text": "Gilfillan Park is a public green space located in Johannesburg.",
+                  "text": "Small public park in the Berea neighbourhood of Johannesburg with mature trees.",
                   "category": "park",
                   "coords": [
                         28.064785,
@@ -1322,7 +1322,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Pioneers' Park",
-                  "text": "Pioneers' Park is a recreational park located in Johannesburg.",
+                  "text": "Pioneers' Park is a green space in Johannesburg commemorating early settlers.",
                   "category": "park",
                   "coords": [
                         28.058,
@@ -1331,7 +1331,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Pro Patria",
-                  "text": "Pro Patria is a monument situated in Johannesburg.",
+                  "text": "Pro Patria is a historical building in Johannesburg, originally a cinema from the 1940s.",
                   "category": "historical",
                   "coords": [
                         28.045415,
@@ -1340,7 +1340,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "The Miner's Monument",
-                  "text": "The Miner's Monument is a notable landmark located in Johannesburg.",
+                  "text": "The Miner's Monument is a statue in Johannesburg honoring gold miners.",
                   "category": "historical",
                   "coords": [
                         28.040434,
@@ -1349,7 +1349,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "langlaagte stamp battery",
-                  "text": "The Langlaagte stamp battery is an industrial heritage attraction in Johannesburg.",
+                  "text": "Langlaagte stamp battery is a preserved stamp mill from the gold rush era in Langlaagte, Johannesburg.",
                   "category": "landmark",
                   "coords": [
                         28.038956,
@@ -1376,7 +1376,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Old Johannesburg Station",
-                  "text": "The Old Johannesburg Station is preserved as a ruined historical site in Johannesburg.",
+                  "text": "Old Johannesburg Station is the historic railway station of Johannesburg, now a market and event venue.",
                   "category": "historical",
                   "coords": [
                         28.033889,
@@ -1385,7 +1385,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Standard Bank Gallery",
-                  "text": "The Standard Bank Gallery is an art exhibition space situated in Johannesburg.",
+                  "text": "Standard Bank Gallery is an art gallery in the Standard Bank building in Johannesburg.",
                   "category": "museum",
                   "coords": [
                         28.040718,
@@ -1394,7 +1394,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "AGOG Gallery",
-                  "text": "AGOG Gallery is a local art gallery based in Johannesburg.",
+                  "text": "AGOG Gallery is a contemporary art space in Johannesburg with rotating exhibitions.",
                   "category": "museum",
                   "coords": [
                         28.05908,
@@ -1412,7 +1412,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "The Turbine Hall",
-                  "text": "The Turbine Hall is an architectural landmark and attraction in Johannesburg.",
+                  "text": "The Turbine Hall is a converted power station in Newtown, Johannesburg, used as an event venue.",
                   "category": "landmark",
                   "coords": [
                         28.033732,
@@ -1421,7 +1421,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Hillbrow tower",
-                  "text": "The Hillbrow tower is a prominent telecommunications tower in Johannesburg.",
+                  "text": "269 m tall telecommunications tower, the tallest building in Africa.",
                   "category": "tower",
                   "coords": [
                         28.049276,
@@ -1448,7 +1448,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Kwa Mai Mai Traditional Market",
-                  "text": "Kwa Mai Mai Traditional Market is a bustling local marketplace situated in Johannesburg.",
+                  "text": "Traditional African market in the inner city, known for muthi (traditional medicine) and crafts.",
                   "category": "landmark",
                   "coords": [
                         28.059213,
@@ -1500,7 +1500,988 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     },
   },
   {
-    id: "southafrica-durban-cities-v2", "sights": {"de": [{"name": "Natal Maritime Museum", "text": "Natal Maritime Museum ist ein Museum in Durban.", "category": "museum", "coords": [31.028702, -29.861592]}, {"name": "Mini Town", "text": "Mini Town ist ein Freizeitpark in Durban.", "category": "family", "coords": [31.035574, -29.844562]}, {"name": "Old House Museum", "text": "Old House Museum ist ein historisches Museum in Durban.", "category": "museum", "coords": [31.017508, -29.863065]}, {"name": "Amphitheatre", "text": "Amphitheatre ist ein bemerkenswertes Theater in Durban.", "category": "cultural", "coords": [31.006178, -29.845177]}, {"name": "Natal Playhouse", "text": "Natal Playhouse ist ein etabliertes Theater in Durban.", "category": "cultural", "coords": [31.027087, -29.859537]}, {"name": "Amphitheater", "text": "Amphitheater ist ein lokales Theater in Durban.", "category": "cultural", "coords": [31.035585, -29.84672]}, {"name": "Durban Holocaust & Genocide Centre", "text": "Durban Holocaust & Genocide Centre ist ein lehrreiches Museum in Durban.", "category": "museum", "coords": [31.033974, -29.849291]}, {"name": "New Beach", "text": "Direkt an der geschäftigen Strandpromenade von Durban gelegen, repräsentiert der New Beach einen äußerst lebhaften Abschnitt der südafrikanischen Küste. Die Energie an diesem Ort ist unbestreitbar pulsierend und zieht ganzjährig ein bunt gemischtes Publikum an. Man kann hier wunderbar in die anrollenden Ozeanwellen eintauchen, auf den Sandflächen faulenzen oder das Treiben auf der nahen Promenade genießen. Aufgrund der intensiven Sonneneinstrahlung ist es eine kluge Entscheidung, einen Sonnenschirm mitzubringen.", "category": "recreational", "coords": [31.040701, -29.855792]}, {"name": "Suncoast Beach", "text": "Als beliebtes Ziel in Durban ist der Suncoast Beach ein erstklassiger Ort an der Küste. Die Atmosphäre ist sehr energiegeladen, wodurch Entspannung und maritimes Vergnügen perfekt verschmelzen. Besucher verbringen hier gerne Stunden mit Schwimmen, faulenzen unter Sonnenschirmen oder beobachten das bunte Treiben am Strand. Wenn man bereits am Vormittag anreist, sichert man sich die besten Plätze.", "category": "recreational", "coords": [31.036642, -29.834593]}, {"name": "Ushaka Wet 'n Wild", "text": "Ushaka Wet 'n Wild ist ein aufregender Wasserpark in Durban.", "category": "family", "coords": [31.045054, -29.867265]}, {"name": "Durban Funworld", "text": "Durban Funworld ist ein ansprechender Freizeitpark in Durban.", "category": "family", "coords": [31.039044, -29.854101]}, {"name": "Old Court House Museum", "text": "Old Court House Museum ist ein bedeutendes Museum in Durban.", "category": "museum", "coords": [31.027583, -29.858343]}, {"name": "The Old Fort", "text": "The Old Fort ist ein Park in Durban. Ursprünglich war es ein Militärlager, das 1842 errichtet wurde.", "category": "park", "coords": [31.025769, -29.850824]}, {"name": "Durban Botanic Gardens", "text": "Durban Botanic Gardens ist ein historischer Garten in Durban. Es ist der älteste noch existierende botanische Garten in Afrika.", "category": "park", "coords": [31.006698, -29.846944]}, {"name": "Kwa Muhle museum", "text": "Kwa Muhle museum ist eine markante Attraktion in Durban.", "category": "landmark", "coords": [31.023869, -29.85286]}, {"name": "Fish and meat market", "text": "Fish and meat market ist eine lebendige Attraktion in Durban.", "category": "landmark", "coords": [31.015339, -29.856499]}, {"name": "Botanic Gazebo", "text": "Der Botanic Gazebo ist ein Denkmal in Durban.", "category": "historical", "coords": [31.007919, -29.847546]}, {"name": "Lake Area - Currie's Fountain", "text": "Lake Area - Currie's Fountain ist ein Denkmal in Durban.", "category": "historical", "coords": [31.006827, -29.848013]}, {"name": "uMphafa", "text": "Das uMphafa ist ein Denkmal in Durban.", "category": "historical", "coords": [31.00811, -29.848574]}, {"name": "Botanise Tuine", "text": "Botanise Tuine ist ein Denkmal in Durban.", "category": "historical", "coords": [31.007925, -29.845426]}, {"name": "Durban Elephants Art", "text": "Durban Elephants Art ist eine Attraktion in Durban.", "category": "landmark", "coords": [31.033376, -29.854202]}, {"name": "Kiss the City", "text": "Kiss the City ist eine Touristenattraktion in Durban.", "category": "landmark", "coords": [31.033808, -29.853123]}, {"name": "Anton Lembede Graffiti", "text": "Das Anton Lembede Graffiti ist eine Attraktion in Durban.", "category": "landmark", "coords": [31.023975, -29.859666]}, {"name": "KZNSA Gallery and Cafe", "text": "Die KZNSA Gallery and Cafe ist eine Galerie in Durban.", "category": "museum", "coords": [30.996883, -29.85995]}, {"name": "Durban City Hall", "text": "Die Durban City Hall ist ein historisches Rathaus und Wahrzeichen von Durban.", "category": "historical", "coords": [31.026467, -29.858515]}, {"name": "Emmanuel Cathedral", "text": "Die Emmanuel Cathedral ist eine bedeutende Kultstätte in Durban.", "category": "religious", "coords": [31.015683, -29.857512]}, {"name": "Grey Street Mosque", "text": "Die Grey Street Mosque ist eine bekannte Kultstätte in Durban.", "category": "religious", "coords": [31.016704, -29.857263]}], "hu": [{"name": "Natal Maritime Museum", "text": "A Natal Maritime Museum egy múzeum Durban területén.", "category": "museum", "coords": [31.028702, -29.861592]}, {"name": "Mini Town", "text": "A Mini Town egy vidámpark Durban városában.", "category": "family", "coords": [31.035574, -29.844562]}, {"name": "Old House Museum", "text": "Az Old House Museum egy történelmi múzeum Durban területén.", "category": "museum", "coords": [31.017508, -29.863065]}, {"name": "Amphitheatre", "text": "Az Amphitheatre egy figyelemre méltó színház Durban városában.", "category": "cultural", "coords": [31.006178, -29.845177]}, {"name": "Natal Playhouse", "text": "A Natal Playhouse egy elismert színház Durban területén.", "category": "cultural", "coords": [31.027087, -29.859537]}, {"name": "Amphitheater", "text": "Az Amphitheater egy helyi színház Durban városában.", "category": "cultural", "coords": [31.035585, -29.84672]}, {"name": "Durban Holocaust & Genocide Centre", "text": "A Durban Holocaust & Genocide Centre egy oktatási múzeum Durban területén.", "category": "museum", "coords": [31.033974, -29.849291]}, {"name": "New Beach", "text": "A nyüzsgő durbani tengerparton található New Beach a dél-afrikai partvidék egy rendkívül pezsgő szakaszát képviseli. Az itteni energia vitathatatlanul élénk, amely egész évben változatos közönséget vonz. A látogatók lelkesen vethetik bele magukat a hullámzó óceánba, kényelmesen elnyúlhatnak a homokos strandon, vagy egyszerűen csak élvezhetik a közeli, élettel teli sétányt. Az intenzív napsütés miatt mindig okos döntés egy napernyőt magunkkal hozni.", "category": "recreational", "coords": [31.040701, -29.855792]}, {"name": "Suncoast Beach", "text": "Népszerű durbani célpontként a Suncoast Beach egy igazán elsőrangú tengerparti helyszín. Az általános hangulat energikus, ahol a mindennapi kikapcsolódás tökéletesen ötvöződik a tengerparti szórakozással. A látogatók imádnak órákat tölteni a hullámokban való úszással, a napernyők alatti lazítással, vagy pusztán a nyüzsgő strandélet megfigyelésével. A délelőtti érkezés szinte garantálja a legjobb helyek megszerzését.", "category": "recreational", "coords": [31.036642, -29.834593]}, {"name": "Ushaka Wet 'n Wild", "text": "Az Ushaka Wet 'n Wild egy izgalmas vízi park Durban városában.", "category": "family", "coords": [31.045054, -29.867265]}, {"name": "Durban Funworld", "text": "A Durban Funworld egy vonzó vidámpark Durban területén.", "category": "family", "coords": [31.039044, -29.854101]}, {"name": "Old Court House Museum", "text": "Az Old Court House Museum egy jelentős múzeum Durban városában.", "category": "museum", "coords": [31.027583, -29.858343]}, {"name": "The Old Fort", "text": "A The Old Fort egy park Durban területén. Eredetileg egy 1842-ben alapított katonai tábor volt.", "category": "park", "coords": [31.025769, -29.850824]}, {"name": "Durban Botanic Gardens", "text": "A Durban Botanic Gardens egy történelmi kert Durban városában. Ez Afrika legrégebbi fennmaradt botanikus kertje.", "category": "park", "coords": [31.006698, -29.846944]}, {"name": "Kwa Muhle museum", "text": "A Kwa Muhle museum egy kiemelkedő látványosság Durban területén.", "category": "landmark", "coords": [31.023869, -29.85286]}, {"name": "Fish and meat market", "text": "A Fish and meat market egy nyüzsgő látványosság Durban városában.", "category": "landmark", "coords": [31.015339, -29.856499]}, {"name": "Botanic Gazebo", "text": "A Botanic Gazebo egy műemlék Durban városában.", "category": "historical", "coords": [31.007919, -29.847546]}, {"name": "Lake Area - Currie's Fountain", "text": "A Lake Area - Currie's Fountain egy emlékmű Durbanban.", "category": "historical", "coords": [31.006827, -29.848013]}, {"name": "uMphafa", "text": "Az uMphafa egy műemlék Durbanban.", "category": "historical", "coords": [31.00811, -29.848574]}, {"name": "Botanise Tuine", "text": "A Botanise Tuine egy műemlék Durban városában.", "category": "historical", "coords": [31.007925, -29.845426]}, {"name": "Durban Elephants Art", "text": "A Durban Elephants Art egy látványosság Durban városában.", "category": "landmark", "coords": [31.033376, -29.854202]}, {"name": "Kiss the City", "text": "A Kiss the City egy látványosság Durbanban.", "category": "landmark", "coords": [31.033808, -29.853123]}, {"name": "Anton Lembede Graffiti", "text": "Az Anton Lembede Graffiti egy látványosság Durbanban.", "category": "landmark", "coords": [31.023975, -29.859666]}, {"name": "KZNSA Gallery and Cafe", "text": "A KZNSA Gallery and Cafe egy galéria Durbanban.", "category": "museum", "coords": [30.996883, -29.85995]}, {"name": "Durban City Hall", "text": "A Durban City Hall egy történelmi városháza és mérföldkő Durban városában.", "category": "historical", "coords": [31.026467, -29.858515]}, {"name": "Emmanuel Cathedral", "text": "Az Emmanuel Cathedral egy jelentős istentiszteleti hely Durban városában.", "category": "religious", "coords": [31.015683, -29.857512]}, {"name": "Grey Street Mosque", "text": "A Grey Street Mosque egy híres mecset Durban városában.", "category": "religious", "coords": [31.016704, -29.857263]}], "ro": [{"name": "Natal Maritime Museum", "text": "Natal Maritime Museum este un muzeu situat în Durban.", "category": "museum", "coords": [31.028702, -29.861592]}, {"name": "Mini Town", "text": "Mini Town este un parc tematic situat în Durban.", "category": "family", "coords": [31.035574, -29.844562]}, {"name": "Old House Museum", "text": "Old House Museum este un muzeu istoric situat în Durban.", "category": "museum", "coords": [31.017508, -29.863065]}, {"name": "Amphitheatre", "text": "Amphitheatre este un teatru notabil aflat în Durban.", "category": "cultural", "coords": [31.006178, -29.845177]}, {"name": "Natal Playhouse", "text": "Natal Playhouse este un teatru consacrat situat în Durban.", "category": "cultural", "coords": [31.027087, -29.859537]}, {"name": "Amphitheater", "text": "Amphitheater este un teatru local situat în Durban.", "category": "cultural", "coords": [31.035585, -29.84672]}, {"name": "Durban Holocaust & Genocide Centre", "text": "Durban Holocaust & Genocide Centre este un muzeu educațional din Durban.", "category": "museum", "coords": [31.033974, -29.849291]}, {"name": "New Beach", "text": "Situată chiar pe faleza plină de viață din Durban, New Beach reprezintă o întindere extrem de vibrantă a coastei sud-africane. Energia de aici este incontestabil de animată, atrăgând un public divers pe tot parcursul anului. Vă puteți scufunda cu nerăbdare în valurile unduitoare ale oceanului, vă puteți relaxa confortabil pe nisip sau vă puteți bucura de promenada animată din apropiere. Din cauza soarelui intens, aducerea unei umbrele de soare este întotdeauna o decizie înțeleaptă.", "category": "recreational", "coords": [31.040701, -29.855792]}, {"name": "Suncoast Beach", "text": "Ca destinație populară în Durban, Suncoast Beach este un loc de coastă cu adevărat de primă clasă. Atmosfera generală este plină de energie, îmbinând perfect timpul liber cu distracția maritimă antrenantă. Vizitatorilor le place la nebunie să petreacă ore întregi înotând, relaxându-se sub umbrele sau pur și simplu privind activitățile pline de viață de pe plajă. Sosirea dimineața garantează practic asigurarea celor mai bune locuri.", "category": "recreational", "coords": [31.036642, -29.834593]}, {"name": "Ushaka Wet 'n Wild", "text": "Ushaka Wet 'n Wild este un parc acvatic captivant situat în Durban.", "category": "family", "coords": [31.045054, -29.867265]}, {"name": "Durban Funworld", "text": "Durban Funworld este un parc tematic captivant situat în Durban.", "category": "family", "coords": [31.039044, -29.854101]}, {"name": "Old Court House Museum", "text": "Old Court House Museum este un muzeu important situat în Durban.", "category": "museum", "coords": [31.027583, -29.858343]}, {"name": "The Old Fort", "text": "The Old Fort este un parc situat în Durban. A fost inițial o tabără militară înființată în 1842.", "category": "park", "coords": [31.025769, -29.850824]}, {"name": "Durban Botanic Gardens", "text": "Durban Botanic Gardens este o grădină istorică situată în Durban. Este cea mai veche grădină botanică supraviețuitoare din Africa.", "category": "park", "coords": [31.006698, -29.846944]}, {"name": "Kwa Muhle museum", "text": "Kwa Muhle museum este o atracție proeminentă în Durban.", "category": "landmark", "coords": [31.023869, -29.85286]}, {"name": "Fish and meat market", "text": "Fish and meat market este o atracție plină de viață situată în Durban.", "category": "landmark", "coords": [31.015339, -29.856499]}, {"name": "Botanic Gazebo", "text": "Botanic Gazebo este un monument situat în Durban.", "category": "historical", "coords": [31.007919, -29.847546]}, {"name": "Lake Area - Currie's Fountain", "text": "Lake Area - Currie's Fountain este un monument în Durban.", "category": "historical", "coords": [31.006827, -29.848013]}, {"name": "uMphafa", "text": "uMphafa este un monument în Durban.", "category": "historical", "coords": [31.00811, -29.848574]}, {"name": "Botanise Tuine", "text": "Botanise Tuine este un monument în Durban.", "category": "historical", "coords": [31.007925, -29.845426]}, {"name": "Durban Elephants Art", "text": "Durban Elephants Art este o atracție în Durban.", "category": "landmark", "coords": [31.033376, -29.854202]}, {"name": "Kiss the City", "text": "Kiss the City este o atracție în Durban.", "category": "landmark", "coords": [31.033808, -29.853123]}, {"name": "Anton Lembede Graffiti", "text": "Anton Lembede Graffiti este o atracție în Durban.", "category": "landmark", "coords": [31.023975, -29.859666]}, {"name": "KZNSA Gallery and Cafe", "text": "KZNSA Gallery and Cafe este o galerie în Durban.", "category": "museum", "coords": [30.996883, -29.85995]}, {"name": "Durban City Hall", "text": "Durban City Hall este o primărie istorică și un punct de reper în Durban.", "category": "historical", "coords": [31.026467, -29.858515]}, {"name": "Emmanuel Cathedral", "text": "Emmanuel Cathedral este un lăcaș de cult proeminent situat în Durban.", "category": "religious", "coords": [31.015683, -29.857512]}, {"name": "Grey Street Mosque", "text": "Grey Street Mosque este un lăcaș de cult remarcabil în Durban.", "category": "religious", "coords": [31.016704, -29.857263]}], "en": [{"name": "Natal Maritime Museum", "text": "Natal Maritime Museum is a museum located in Durban.", "category": "museum", "coords": [31.028702, -29.861592]}, {"name": "Mini Town", "text": "Mini Town is a theme park situated in Durban.", "category": "family", "coords": [31.035574, -29.844562]}, {"name": "Old House Museum", "text": "Old House Museum is a historical museum located in Durban.", "category": "museum", "coords": [31.017508, -29.863065]}, {"name": "Amphitheatre", "text": "Amphitheatre is a notable theatre found in Durban.", "category": "cultural", "coords": [31.006178, -29.845177]}, {"name": "Natal Playhouse", "text": "Natal Playhouse is an established theatre located in Durban.", "category": "cultural", "coords": [31.027087, -29.859537]}, {"name": "Amphitheater", "text": "Amphitheater is a local theatre situated in Durban.", "category": "cultural", "coords": [31.035585, -29.84672]}, {"name": "Durban Holocaust & Genocide Centre", "text": "Durban Holocaust & Genocide Centre is an educational museum in Durban.", "category": "museum", "coords": [31.033974, -29.849291]}, {"name": "New Beach", "text": "Located right on the bustling Durban beachfront, New Beach represents a highly vibrant stretch of the South African coast. The energy here is undeniably lively, drawing a diverse crowd all year round. You can eagerly dive into the rolling ocean waves, lounge comfortably on the sand, or simply enjoy the lively nearby promenade. Because of the intense sunshine, bringing along a sturdy parasol is always a very smart decision.", "category": "recreational", "coords": [31.040701, -29.855792]}, {"name": "Suncoast Beach", "text": "As a popular destination in Durban, Suncoast Beach is a truly premier coastal spot. The overall atmosphere is energetic, perfectly fusing everyday leisure with upbeat seaside fun. Visitors absolutely love to spend hours swimming, lounging under umbrellas, or just watching the lively beach activities. Arriving in the morning practically guarantees securing the best spots to relax.", "category": "recreational", "coords": [31.036642, -29.834593]}, {"name": "Ushaka Wet 'n Wild", "text": "Ushaka Wet 'n Wild is an exciting water park located in Durban.", "category": "family", "coords": [31.045054, -29.867265]}, {"name": "Durban Funworld", "text": "Durban Funworld is an engaging theme park situated in Durban.", "category": "family", "coords": [31.039044, -29.854101]}, {"name": "Old Court House Museum", "text": "Old Court House Museum is a significant museum located in Durban.", "category": "museum", "coords": [31.027583, -29.858343]}, {"name": "The Old Fort", "text": "The Old Fort is a park located in Durban. It was originally a military camp established in 1842.", "category": "park", "coords": [31.025769, -29.850824]}, {"name": "Durban Botanic Gardens", "text": "Durban Botanic Gardens is a historic garden situated in Durban. It is the oldest surviving botanic garden in Africa.", "category": "park", "coords": [31.006698, -29.846944]}, {"name": "Kwa Muhle museum", "text": "Kwa Muhle museum is a prominent attraction in Durban.", "category": "landmark", "coords": [31.023869, -29.85286]}, {"name": "Fish and meat market", "text": "Fish and meat market is a lively attraction located in Durban.", "category": "landmark", "coords": [31.015339, -29.856499]}, {"name": "Botanic Gazebo", "text": "The Botanic Gazebo is a monument located in Durban.", "category": "historical", "coords": [31.007919, -29.847546]}, {"name": "Lake Area - Currie's Fountain", "text": "Lake Area - Currie's Fountain is a monument in Durban.", "category": "historical", "coords": [31.006827, -29.848013]}, {"name": "uMphafa", "text": "The uMphafa is a monument in Durban.", "category": "historical", "coords": [31.00811, -29.848574]}, {"name": "Botanise Tuine", "text": "Botanise Tuine is a monument in Durban.", "category": "historical", "coords": [31.007925, -29.845426]}, {"name": "Durban Elephants Art", "text": "Durban Elephants Art is an attraction in Durban.", "category": "landmark", "coords": [31.033376, -29.854202]}, {"name": "Kiss the City", "text": "Kiss the City is an attraction in Durban.", "category": "landmark", "coords": [31.033808, -29.853123]}, {"name": "Anton Lembede Graffiti", "text": "The Anton Lembede Graffiti is an attraction in Durban.", "category": "landmark", "coords": [31.023975, -29.859666]}, {"name": "KZNSA Gallery and Cafe", "text": "The KZNSA Gallery and Cafe is a gallery in Durban.", "category": "museum", "coords": [30.996883, -29.85995]}, {"name": "Durban City Hall", "text": "Durban City Hall is a historic town hall and major landmark in Durban.", "category": "historical", "coords": [31.026467, -29.858515]}, {"name": "Emmanuel Cathedral", "text": "The Emmanuel Cathedral is a prominent place of worship in Durban.", "category": "religious", "coords": [31.015683, -29.857512]}, {"name": "Grey Street Mosque", "text": "The Grey Street Mosque is a well-known place of worship located in Durban.", "category": "religious", "coords": [31.016704, -29.857263]}]},
+    id: "southafrica-durban-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Natal Maritime Museum",
+                  "text": "Natal Maritime Museum ist ein Museum im Hafen von Durban mit historischen Schiffen und maritimer Ausstattung.",
+                  "category": "museum",
+                  "coords": [
+                        31.028702,
+                        -29.861592
+                  ]
+            },
+            {
+                  "name": "Mini Town",
+                  "text": "Mini Town ist eine Miniaturmodellstadt in Durban, die Nachbildungen der wichtigsten Wahrzeichen der Stadt zeigt.",
+                  "category": "family",
+                  "coords": [
+                        31.035574,
+                        -29.844562
+                  ]
+            },
+            {
+                  "name": "Old House Museum",
+                  "text": "Old House Museum ist ein kolonialzeitliches Haus in Durban's Berea, heute ein Museum zum Alltagsleben der Kolonialzeit.",
+                  "category": "museum",
+                  "coords": [
+                        31.017508,
+                        -29.863065
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Freiluft-Amphitheater im Zentrum von Durban für Konzerte und Theater.",
+                  "category": "cultural",
+                  "coords": [
+                        31.006178,
+                        -29.845177
+                  ]
+            },
+            {
+                  "name": "Natal Playhouse",
+                  "text": "Historisches Theater in der Innenstadt von Durban mit Aufführungen und Konzerten.",
+                  "category": "cultural",
+                  "coords": [
+                        31.027087,
+                        -29.859537
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "Großes Amphitheater in Durban, genutzt für kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        31.035585,
+                        -29.84672
+                  ]
+            },
+            {
+                  "name": "Durban Holocaust & Genocide Centre",
+                  "text": "Museum in Durban mit Ausstellungen über den Holocaust und Völkermorde.",
+                  "category": "museum",
+                  "coords": [
+                        31.033974,
+                        -29.849291
+                  ]
+            },
+            {
+                  "name": "New Beach",
+                  "text": "Direkt an der geschäftigen Strandpromenade von Durban gelegen, repräsentiert der New Beach einen äußerst lebhaften Abschnitt der südafrikanischen Küste. Die Energie an diesem Ort ist unbestreitbar pulsierend und zieht ganzjährig ein bunt gemischtes Publikum an. Man kann hier wunderbar in die anrollenden Ozeanwellen eintauchen, auf den Sandflächen faulenzen oder das Treiben auf der nahen Promenade genießen. Aufgrund der intensiven Sonneneinstrahlung ist es eine kluge Entscheidung, einen Sonnenschirm mitzubringen.",
+                  "category": "recreational",
+                  "coords": [
+                        31.040701,
+                        -29.855792
+                  ]
+            },
+            {
+                  "name": "Suncoast Beach",
+                  "text": "Als beliebtes Ziel in Durban ist der Suncoast Beach ein erstklassiger Ort an der Küste. Die Atmosphäre ist sehr energiegeladen, wodurch Entspannung und maritimes Vergnügen perfekt verschmelzen. Besucher verbringen hier gerne Stunden mit Schwimmen, faulenzen unter Sonnenschirmen oder beobachten das bunte Treiben am Strand. Wenn man bereits am Vormittag anreist, sichert man sich die besten Plätze.",
+                  "category": "recreational",
+                  "coords": [
+                        31.036642,
+                        -29.834593
+                  ]
+            },
+            {
+                  "name": "Ushaka Wet 'n Wild",
+                  "text": "Wasserpark im uShaka Marine World in Durban mit Rutschen und Pools.",
+                  "category": "family",
+                  "coords": [
+                        31.045054,
+                        -29.867265
+                  ]
+            },
+            {
+                  "name": "Durban Funworld",
+                  "text": "Vergnügungspark an Durbans Golden Mile mit Fahrgeschäften und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        31.039044,
+                        -29.854101
+                  ]
+            },
+            {
+                  "name": "Old Court House Museum",
+                  "text": "Museum im ehemaligen Kolonialgerichtsgebäude von Durban, zeigt Stadtgeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        31.027583,
+                        -29.858343
+                  ]
+            },
+            {
+                  "name": "The Old Fort",
+                  "text": "The Old Fort ist ein Park in Durban. Ursprünglich war es ein Militärlager, das 1842 errichtet wurde.",
+                  "category": "park",
+                  "coords": [
+                        31.025769,
+                        -29.850824
+                  ]
+            },
+            {
+                  "name": "Durban Botanic Gardens",
+                  "text": "Durban Botanic Gardens ist ein historischer Garten in Durban. Es ist der älteste noch existierende botanische Garten in Afrika.",
+                  "category": "park",
+                  "coords": [
+                        31.006698,
+                        -29.846944
+                  ]
+            },
+            {
+                  "name": "Kwa Muhle museum",
+                  "text": "Museum im ehemaligen Kwa Muhle-Gebäude in Durban zur Apartheid-Verwaltung.",
+                  "category": "landmark",
+                  "coords": [
+                        31.023869,
+                        -29.85286
+                  ]
+            },
+            {
+                  "name": "Fish and meat market",
+                  "text": "Historischer Fisch- und Fleischmarkt in der Innenstadt von Durban, noch aktiv.",
+                  "category": "landmark",
+                  "coords": [
+                        31.015339,
+                        -29.856499
+                  ]
+            },
+            {
+                  "name": "Botanic Gazebo",
+                  "text": "Historischer Gartenpavillon in den Durban Botanic Gardens.",
+                  "category": "historical",
+                  "coords": [
+                        31.007919,
+                        -29.847546
+                  ]
+            },
+            {
+                  "name": "Lake Area - Currie's Fountain",
+                  "text": "Currie's Fountain, historischer Platz und Verkehrsknotenpunkt in Durban.",
+                  "category": "historical",
+                  "coords": [
+                        31.006827,
+                        -29.848013
+                  ]
+            },
+            {
+                  "name": "uMphafa",
+                  "text": "Historische Gedenkstätte in Durban, gewidmet dem Zulu-uMphafa-Baum.",
+                  "category": "historical",
+                  "coords": [
+                        31.00811,
+                        -29.848574
+                  ]
+            },
+            {
+                  "name": "Botanise Tuine",
+                  "text": "Durbans ältester noch erhaltener botanischer Garten, gegründet 1849.",
+                  "category": "historical",
+                  "coords": [
+                        31.007925,
+                        -29.845426
+                  ]
+            },
+            {
+                  "name": "Durban Elephants Art",
+                  "text": "Große Elefantenskulpturen an der Strandpromenade von Durban.",
+                  "category": "landmark",
+                  "coords": [
+                        31.033376,
+                        -29.854202
+                  ]
+            },
+            {
+                  "name": "Kiss the City",
+                  "text": "Kuss-Skulptur in Durban, beliebter Foto-Hotspot.",
+                  "category": "landmark",
+                  "coords": [
+                        31.033808,
+                        -29.853123
+                  ]
+            },
+            {
+                  "name": "Anton Lembede Graffiti",
+                  "text": "Graffiti-Wandbild des Anti-Apartheid-Aktivisten Anton Lembede in Durban.",
+                  "category": "landmark",
+                  "coords": [
+                        31.023975,
+                        -29.859666
+                  ]
+            },
+            {
+                  "name": "KZNSA Gallery and Cafe",
+                  "text": "Zeitgenössische Kunstgalerie mit Café in Durban, zeigt Künstler aus KwaZulu-Natal.",
+                  "category": "museum",
+                  "coords": [
+                        30.996883,
+                        -29.85995
+                  ]
+            },
+            {
+                  "name": "Durban City Hall",
+                  "text": "Ein historisches Gebäude im Edwardianischen Stil im Zentrum von Durban.",
+                  "category": "historical",
+                  "coords": [
+                        31.026467,
+                        -29.858515
+                  ]
+            },
+            {
+                  "name": "Emmanuel Cathedral",
+                  "text": "Die katholische Kathedrale von Durban, dem Heiligsten Herzen Jesu geweiht.",
+                  "category": "religious",
+                  "coords": [
+                        31.015683,
+                        -29.857512
+                  ]
+            },
+            {
+                  "name": "Grey Street Mosque",
+                  "text": "Die Grey Street Mosque ist eine bekannte Kultstätte in Durban.",
+                  "category": "religious",
+                  "coords": [
+                        31.016704,
+                        -29.857263
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Natal Maritime Museum",
+                  "text": "A Natal Maritime Museum egy múzeum a durbani kikötőben, történelmi hajókkal és tengeri felszereléssel.",
+                  "category": "museum",
+                  "coords": [
+                        31.028702,
+                        -29.861592
+                  ]
+            },
+            {
+                  "name": "Mini Town",
+                  "text": "A Mini Town egy miniatűr modellváros Durbanben, amely a város fő nevezetességeinek másolatait mutatja be.",
+                  "category": "family",
+                  "coords": [
+                        31.035574,
+                        -29.844562
+                  ]
+            },
+            {
+                  "name": "Old House Museum",
+                  "text": "Az Old House Museum egy gyarmati kori ház Durban Berea negyedében, ma a gyarmati mindennapi élet múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        31.017508,
+                        -29.863065
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Szabadtéri amfiteátrum Durban központjában koncertek és színházi előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        31.006178,
+                        -29.845177
+                  ]
+            },
+            {
+                  "name": "Natal Playhouse",
+                  "text": "Történelmi színház Durban belvárosában, előadásokkal és koncertekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        31.027087,
+                        -29.859537
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "Nagy amfiteátrum Durbanban, kulturális események számára.",
+                  "category": "cultural",
+                  "coords": [
+                        31.035585,
+                        -29.84672
+                  ]
+            },
+            {
+                  "name": "Durban Holocaust & Genocide Centre",
+                  "text": "Múzeum Durbanban, amely a holokauszt és a népirtások történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        31.033974,
+                        -29.849291
+                  ]
+            },
+            {
+                  "name": "New Beach",
+                  "text": "A nyüzsgő durbani tengerparton található New Beach a dél-afrikai partvidék egy rendkívül pezsgő szakaszát képviseli. Az itteni energia vitathatatlanul élénk, amely egész évben változatos közönséget vonz. A látogatók lelkesen vethetik bele magukat a hullámzó óceánba, kényelmesen elnyúlhatnak a homokos strandon, vagy egyszerűen csak élvezhetik a közeli, élettel teli sétányt. Az intenzív napsütés miatt mindig okos döntés egy napernyőt magunkkal hozni.",
+                  "category": "recreational",
+                  "coords": [
+                        31.040701,
+                        -29.855792
+                  ]
+            },
+            {
+                  "name": "Suncoast Beach",
+                  "text": "Népszerű durbani célpontként a Suncoast Beach egy igazán elsőrangú tengerparti helyszín. Az általános hangulat energikus, ahol a mindennapi kikapcsolódás tökéletesen ötvöződik a tengerparti szórakozással. A látogatók imádnak órákat tölteni a hullámokban való úszással, a napernyők alatti lazítással, vagy pusztán a nyüzsgő strandélet megfigyelésével. A délelőtti érkezés szinte garantálja a legjobb helyek megszerzését.",
+                  "category": "recreational",
+                  "coords": [
+                        31.036642,
+                        -29.834593
+                  ]
+            },
+            {
+                  "name": "Ushaka Wet 'n Wild",
+                  "text": "Vízipark a durbani uShaka Marine Worldben csúszdákkal és medencékkel.",
+                  "category": "family",
+                  "coords": [
+                        31.045054,
+                        -29.867265
+                  ]
+            },
+            {
+                  "name": "Durban Funworld",
+                  "text": "Vidámpark Durban Golden Mile-ján, játékokkal és attrakciókkal.",
+                  "category": "family",
+                  "coords": [
+                        31.039044,
+                        -29.854101
+                  ]
+            },
+            {
+                  "name": "Old Court House Museum",
+                  "text": "Múzeum Durban egykori gyarmati bírósági épületében, várostörténeti kiállítással.",
+                  "category": "museum",
+                  "coords": [
+                        31.027583,
+                        -29.858343
+                  ]
+            },
+            {
+                  "name": "The Old Fort",
+                  "text": "A The Old Fort egy park Durban területén. Eredetileg egy 1842-ben alapított katonai tábor volt.",
+                  "category": "park",
+                  "coords": [
+                        31.025769,
+                        -29.850824
+                  ]
+            },
+            {
+                  "name": "Durban Botanic Gardens",
+                  "text": "A Durban Botanic Gardens egy történelmi kert Durban városában. Ez Afrika legrégebbi fennmaradt botanikus kertje.",
+                  "category": "park",
+                  "coords": [
+                        31.006698,
+                        -29.846944
+                  ]
+            },
+            {
+                  "name": "Kwa Muhle museum",
+                  "text": "Múzeum a durbani egykori Kwa Muhle épületben, az apartheid-közigazgatás történetéről.",
+                  "category": "landmark",
+                  "coords": [
+                        31.023869,
+                        -29.85286
+                  ]
+            },
+            {
+                  "name": "Fish and meat market",
+                  "text": "Történelmi hal- és hús piac Durban belvárosában, ma is működik.",
+                  "category": "landmark",
+                  "coords": [
+                        31.015339,
+                        -29.856499
+                  ]
+            },
+            {
+                  "name": "Botanic Gazebo",
+                  "text": "Történelmi kerti pavilon a Durban Botanikus Kertben.",
+                  "category": "historical",
+                  "coords": [
+                        31.007919,
+                        -29.847546
+                  ]
+            },
+            {
+                  "name": "Lake Area - Currie's Fountain",
+                  "text": "Currie's Fountain, történelmi tér és közlekedési csomópont Durbanban.",
+                  "category": "historical",
+                  "coords": [
+                        31.006827,
+                        -29.848013
+                  ]
+            },
+            {
+                  "name": "uMphafa",
+                  "text": "Történelmi emlékhely Durbanban, a zulu uMphafa fának szentelve.",
+                  "category": "historical",
+                  "coords": [
+                        31.00811,
+                        -29.848574
+                  ]
+            },
+            {
+                  "name": "Botanise Tuine",
+                  "text": "Afrika legrégebbi fennmaradt botanikus kertje Durbanban, 1849-ben alapították.",
+                  "category": "historical",
+                  "coords": [
+                        31.007925,
+                        -29.845426
+                  ]
+            },
+            {
+                  "name": "Durban Elephants Art",
+                  "text": "Nagy elefántszobrok a durbani tengerparti sétányon.",
+                  "category": "landmark",
+                  "coords": [
+                        31.033376,
+                        -29.854202
+                  ]
+            },
+            {
+                  "name": "Kiss the City",
+                  "text": "Csók-szobor Durbanban, népszerű fotópont.",
+                  "category": "landmark",
+                  "coords": [
+                        31.033808,
+                        -29.853123
+                  ]
+            },
+            {
+                  "name": "Anton Lembede Graffiti",
+                  "text": "Graffiti falfestmény Anton Lembede apartheid-ellenes aktivistáról Durbanban.",
+                  "category": "landmark",
+                  "coords": [
+                        31.023975,
+                        -29.859666
+                  ]
+            },
+            {
+                  "name": "KZNSA Gallery and Cafe",
+                  "text": "Kortárs művészeti galéria kávézóval Durbanban, KwaZulu-Natal művészeit bemutatva.",
+                  "category": "museum",
+                  "coords": [
+                        30.996883,
+                        -29.85995
+                  ]
+            },
+            {
+                  "name": "Durban City Hall",
+                  "text": "Egy történelmi, edwardiánus stílusú épület Durban központjában.",
+                  "category": "historical",
+                  "coords": [
+                        31.026467,
+                        -29.858515
+                  ]
+            },
+            {
+                  "name": "Emmanuel Cathedral",
+                  "text": "Durban katolikus székesegyháza, a Szent Szívnek szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        31.015683,
+                        -29.857512
+                  ]
+            },
+            {
+                  "name": "Grey Street Mosque",
+                  "text": "A Grey Street Mosque egy híres mecset Durban városában.",
+                  "category": "religious",
+                  "coords": [
+                        31.016704,
+                        -29.857263
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Natal Maritime Museum",
+                  "text": "Muzeul Maritim Natal este un muzeu în portul Durban, cu nave istorice și echipamente maritime.",
+                  "category": "museum",
+                  "coords": [
+                        31.028702,
+                        -29.861592
+                  ]
+            },
+            {
+                  "name": "Mini Town",
+                  "text": "Mini Town este un oraș model în miniatură în Durban, care prezintă replici ale principalelor repere ale orașului.",
+                  "category": "family",
+                  "coords": [
+                        31.035574,
+                        -29.844562
+                  ]
+            },
+            {
+                  "name": "Old House Museum",
+                  "text": "Old House Museum este o casă colonială în Berea, Durban, acum muzeu al vieții cotidiene coloniale.",
+                  "category": "museum",
+                  "coords": [
+                        31.017508,
+                        -29.863065
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Amfiteatru în aer liber în centrul orașului Durban, pentru concerte și teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        31.006178,
+                        -29.845177
+                  ]
+            },
+            {
+                  "name": "Natal Playhouse",
+                  "text": "Teatru istoric în centrul orașului Durban, cu spectacole și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        31.027087,
+                        -29.859537
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "Amfiteatru mare în Durban, folosit pentru evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        31.035585,
+                        -29.84672
+                  ]
+            },
+            {
+                  "name": "Durban Holocaust & Genocide Centre",
+                  "text": "Muzeu în Durban dedicat Holocaustului și genocidurilor, cu exponate educative.",
+                  "category": "museum",
+                  "coords": [
+                        31.033974,
+                        -29.849291
+                  ]
+            },
+            {
+                  "name": "New Beach",
+                  "text": "Situată chiar pe faleza plină de viață din Durban, New Beach reprezintă o întindere extrem de vibrantă a coastei sud-africane. Energia de aici este incontestabil de animată, atrăgând un public divers pe tot parcursul anului. Vă puteți scufunda cu nerăbdare în valurile unduitoare ale oceanului, vă puteți relaxa confortabil pe nisip sau vă puteți bucura de promenada animată din apropiere. Din cauza soarelui intens, aducerea unei umbrele de soare este întotdeauna o decizie înțeleaptă.",
+                  "category": "recreational",
+                  "coords": [
+                        31.040701,
+                        -29.855792
+                  ]
+            },
+            {
+                  "name": "Suncoast Beach",
+                  "text": "Ca destinație populară în Durban, Suncoast Beach este un loc de coastă cu adevărat de primă clasă. Atmosfera generală este plină de energie, îmbinând perfect timpul liber cu distracția maritimă antrenantă. Vizitatorilor le place la nebunie să petreacă ore întregi înotând, relaxându-se sub umbrele sau pur și simplu privind activitățile pline de viață de pe plajă. Sosirea dimineața garantează practic asigurarea celor mai bune locuri.",
+                  "category": "recreational",
+                  "coords": [
+                        31.036642,
+                        -29.834593
+                  ]
+            },
+            {
+                  "name": "Ushaka Wet 'n Wild",
+                  "text": "Parac apă în uShaka Marine World din Durban, cu tobogane și piscine.",
+                  "category": "family",
+                  "coords": [
+                        31.045054,
+                        -29.867265
+                  ]
+            },
+            {
+                  "name": "Durban Funworld",
+                  "text": "Parac de distracții pe Golden Mile din Durban, cu jocuri și atracții.",
+                  "category": "family",
+                  "coords": [
+                        31.039044,
+                        -29.854101
+                  ]
+            },
+            {
+                  "name": "Old Court House Museum",
+                  "text": "Muzeu în fosta clădire a tribunalului colonial din Durban, cu istoria orașului.",
+                  "category": "museum",
+                  "coords": [
+                        31.027583,
+                        -29.858343
+                  ]
+            },
+            {
+                  "name": "The Old Fort",
+                  "text": "The Old Fort este un parc situat în Durban. A fost inițial o tabără militară înființată în 1842.",
+                  "category": "park",
+                  "coords": [
+                        31.025769,
+                        -29.850824
+                  ]
+            },
+            {
+                  "name": "Durban Botanic Gardens",
+                  "text": "Durban Botanic Gardens este o grădină istorică situată în Durban. Este cea mai veche grădină botanică supraviețuitoare din Africa.",
+                  "category": "park",
+                  "coords": [
+                        31.006698,
+                        -29.846944
+                  ]
+            },
+            {
+                  "name": "Kwa Muhle museum",
+                  "text": "Muzeu în fosta clădire Kwa Muhle din Durban, despre administrația apartheidului.",
+                  "category": "landmark",
+                  "coords": [
+                        31.023869,
+                        -29.85286
+                  ]
+            },
+            {
+                  "name": "Fish and meat market",
+                  "text": "Piață istorică de pește și carne în centrul Durbanului, încă activă.",
+                  "category": "landmark",
+                  "coords": [
+                        31.015339,
+                        -29.856499
+                  ]
+            },
+            {
+                  "name": "Botanic Gazebo",
+                  "text": "Chioșc istoric în Grădinile Botanice din Durban.",
+                  "category": "historical",
+                  "coords": [
+                        31.007919,
+                        -29.847546
+                  ]
+            },
+            {
+                  "name": "Lake Area - Currie's Fountain",
+                  "text": "Currie's Fountain, piață istorică și nod de transport în Durban.",
+                  "category": "historical",
+                  "coords": [
+                        31.006827,
+                        -29.848013
+                  ]
+            },
+            {
+                  "name": "uMphafa",
+                  "text": "Sit istoric în Durban dedicat copacului uMphafa al culturii zulu.",
+                  "category": "historical",
+                  "coords": [
+                        31.00811,
+                        -29.848574
+                  ]
+            },
+            {
+                  "name": "Botanise Tuine",
+                  "text": "Cele mai vechi grădini botanice din Africa, fondate în 1849 în Durban.",
+                  "category": "historical",
+                  "coords": [
+                        31.007925,
+                        -29.845426
+                  ]
+            },
+            {
+                  "name": "Durban Elephants Art",
+                  "text": "Sculpturi mari de elefanți pe faleza din Durban.",
+                  "category": "landmark",
+                  "coords": [
+                        31.033376,
+                        -29.854202
+                  ]
+            },
+            {
+                  "name": "Kiss the City",
+                  "text": "Sculptură a unui sărut în Durban, punct popular pentru fotografii.",
+                  "category": "landmark",
+                  "coords": [
+                        31.033808,
+                        -29.853123
+                  ]
+            },
+            {
+                  "name": "Anton Lembede Graffiti",
+                  "text": "Graffiti mural al activistului anti-apartheid Anton Lembede în Durban.",
+                  "category": "landmark",
+                  "coords": [
+                        31.023975,
+                        -29.859666
+                  ]
+            },
+            {
+                  "name": "KZNSA Gallery and Cafe",
+                  "text": "Galerie de artă contemporană cu cafenea în Durban, prezentând artiști din KwaZulu-Natal.",
+                  "category": "museum",
+                  "coords": [
+                        30.996883,
+                        -29.85995
+                  ]
+            },
+            {
+                  "name": "Durban City Hall",
+                  "text": "O clădire istorică în stil edwardian în centrul orașului Durban.",
+                  "category": "historical",
+                  "coords": [
+                        31.026467,
+                        -29.858515
+                  ]
+            },
+            {
+                  "name": "Emmanuel Cathedral",
+                  "text": "Catedrala catolică din Durban, dedicată Inimii Sacre.",
+                  "category": "religious",
+                  "coords": [
+                        31.015683,
+                        -29.857512
+                  ]
+            },
+            {
+                  "name": "Grey Street Mosque",
+                  "text": "Grey Street Mosque este un lăcaș de cult remarcabil în Durban.",
+                  "category": "religious",
+                  "coords": [
+                        31.016704,
+                        -29.857263
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Natal Maritime Museum",
+                  "text": "Natal Maritime Museum is a museum in Durban harbour featuring historic ships and maritime equipment.",
+                  "category": "museum",
+                  "coords": [
+                        31.028702,
+                        -29.861592
+                  ]
+            },
+            {
+                  "name": "Mini Town",
+                  "text": "Mini Town is a miniature model city in Durban, displaying replicas of the city's major landmarks.",
+                  "category": "family",
+                  "coords": [
+                        31.035574,
+                        -29.844562
+                  ]
+            },
+            {
+                  "name": "Old House Museum",
+                  "text": "Old House Museum is a colonial-era house in Durban's Berea, now a museum of colonial domestic life.",
+                  "category": "museum",
+                  "coords": [
+                        31.017508,
+                        -29.863065
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Open-air amphitheatre in central Durban for concerts and theatre.",
+                  "category": "cultural",
+                  "coords": [
+                        31.006178,
+                        -29.845177
+                  ]
+            },
+            {
+                  "name": "Natal Playhouse",
+                  "text": "Historic theatre in downtown Durban hosting plays and concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        31.027087,
+                        -29.859537
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "Large amphitheatre in Durban used for cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        31.035585,
+                        -29.84672
+                  ]
+            },
+            {
+                  "name": "Durban Holocaust & Genocide Centre",
+                  "text": "Museum in Durban documenting the Holocaust and genocides through educational exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        31.033974,
+                        -29.849291
+                  ]
+            },
+            {
+                  "name": "New Beach",
+                  "text": "Located right on the bustling Durban beachfront, New Beach represents a highly vibrant stretch of the South African coast. The energy here is undeniably lively, drawing a diverse crowd all year round. You can eagerly dive into the rolling ocean waves, lounge comfortably on the sand, or simply enjoy the lively nearby promenade. Because of the intense sunshine, bringing along a sturdy parasol is always a very smart decision.",
+                  "category": "recreational",
+                  "coords": [
+                        31.040701,
+                        -29.855792
+                  ]
+            },
+            {
+                  "name": "Suncoast Beach",
+                  "text": "As a popular destination in Durban, Suncoast Beach is a truly premier coastal spot. The overall atmosphere is energetic, perfectly fusing everyday leisure with upbeat seaside fun. Visitors absolutely love to spend hours swimming, lounging under umbrellas, or just watching the lively beach activities. Arriving in the morning practically guarantees securing the best spots to relax.",
+                  "category": "recreational",
+                  "coords": [
+                        31.036642,
+                        -29.834593
+                  ]
+            },
+            {
+                  "name": "Ushaka Wet 'n Wild",
+                  "text": "Water park at uShaka Marine World in Durban with slides and pools.",
+                  "category": "family",
+                  "coords": [
+                        31.045054,
+                        -29.867265
+                  ]
+            },
+            {
+                  "name": "Durban Funworld",
+                  "text": "Amusement park on Durban's Golden Mile beachfront with rides and games.",
+                  "category": "family",
+                  "coords": [
+                        31.039044,
+                        -29.854101
+                  ]
+            },
+            {
+                  "name": "Old Court House Museum",
+                  "text": "Museum in Durban's former colonial courthouse building, showcasing city history.",
+                  "category": "museum",
+                  "coords": [
+                        31.027583,
+                        -29.858343
+                  ]
+            },
+            {
+                  "name": "The Old Fort",
+                  "text": "The Old Fort is a park located in Durban. It was originally a military camp established in 1842.",
+                  "category": "park",
+                  "coords": [
+                        31.025769,
+                        -29.850824
+                  ]
+            },
+            {
+                  "name": "Durban Botanic Gardens",
+                  "text": "Durban Botanic Gardens is a historic garden situated in Durban. It is the oldest surviving botanic garden in Africa.",
+                  "category": "park",
+                  "coords": [
+                        31.006698,
+                        -29.846944
+                  ]
+            },
+            {
+                  "name": "Kwa Muhle museum",
+                  "text": "Museum in the former Kwa Muhle building in Durban, documenting apartheid administration.",
+                  "category": "landmark",
+                  "coords": [
+                        31.023869,
+                        -29.85286
+                  ]
+            },
+            {
+                  "name": "Fish and meat market",
+                  "text": "Historic fish and meat market in central Durban, still operating.",
+                  "category": "landmark",
+                  "coords": [
+                        31.015339,
+                        -29.856499
+                  ]
+            },
+            {
+                  "name": "Botanic Gazebo",
+                  "text": "Historic gazebo within Durban's Botanic Gardens.",
+                  "category": "historical",
+                  "coords": [
+                        31.007919,
+                        -29.847546
+                  ]
+            },
+            {
+                  "name": "Lake Area - Currie's Fountain",
+                  "text": "Currie's Fountain, a historic public square and transport hub in Durban.",
+                  "category": "historical",
+                  "coords": [
+                        31.006827,
+                        -29.848013
+                  ]
+            },
+            {
+                  "name": "uMphafa",
+                  "text": "Historical site in Durban dedicated to the Zulu uMphafa tree.",
+                  "category": "historical",
+                  "coords": [
+                        31.00811,
+                        -29.848574
+                  ]
+            },
+            {
+                  "name": "Botanise Tuine",
+                  "text": "Africa's oldest surviving botanic gardens, founded in 1849 in Durban.",
+                  "category": "historical",
+                  "coords": [
+                        31.007925,
+                        -29.845426
+                  ]
+            },
+            {
+                  "name": "Durban Elephants Art",
+                  "text": "Large elephant art sculptures on Durban's beachfront.",
+                  "category": "landmark",
+                  "coords": [
+                        31.033376,
+                        -29.854202
+                  ]
+            },
+            {
+                  "name": "Kiss the City",
+                  "text": "Kissing sculpture in Durban, a popular photo spot.",
+                  "category": "landmark",
+                  "coords": [
+                        31.033808,
+                        -29.853123
+                  ]
+            },
+            {
+                  "name": "Anton Lembede Graffiti",
+                  "text": "Graffiti mural of anti-apartheid activist Anton Lembede in Durban.",
+                  "category": "landmark",
+                  "coords": [
+                        31.023975,
+                        -29.859666
+                  ]
+            },
+            {
+                  "name": "KZNSA Gallery and Cafe",
+                  "text": "Contemporary art gallery and café in Durban, showcasing KwaZulu-Natal artists.",
+                  "category": "museum",
+                  "coords": [
+                        30.996883,
+                        -29.85995
+                  ]
+            },
+            {
+                  "name": "Durban City Hall",
+                  "text": "A historic Edwardian-style building in central Durban.",
+                  "category": "historical",
+                  "coords": [
+                        31.026467,
+                        -29.858515
+                  ]
+            },
+            {
+                  "name": "Emmanuel Cathedral",
+                  "text": "The Catholic cathedral of Durban, dedicated to the Sacred Heart.",
+                  "category": "religious",
+                  "coords": [
+                        31.015683,
+                        -29.857512
+                  ]
+            },
+            {
+                  "name": "Grey Street Mosque",
+                  "text": "The Grey Street Mosque is a well-known place of worship located in Durban.",
+                  "category": "religious",
+                  "coords": [
+                        31.016704,
+                        -29.857263
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ZA-NL",
     coords: [31.0218, -29.8587],
@@ -1548,7 +2529,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "South End Museum",
-                  "text": "South End Museum ist ein Museum in Gqeberha.",
+                  "text": "Museum zur Geschichte des multikulturellen Südviertels, das während der Apartheid zerstört wurde.",
                   "category": "museum",
                   "coords": [
                         25.62929,
@@ -1557,7 +2538,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Mandela Bay Theatre ComplexHouse",
-                  "text": "Mandela Bay Theatre ComplexHouse ist ein Theater in Gqeberha.",
+                  "text": "Veranstaltungsort für darstellende Künste in Gqeberha, benannt nach der Mandela-Bay-Region.",
                   "category": "cultural",
                   "coords": [
                         25.621641,
@@ -1575,7 +2556,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Mannville Open Air Theatre",
-                  "text": "Mannville Open Air Theatre ist ein Theater in Gqeberha.",
+                  "text": "Freilichttheater im Mannville Park in Gqeberha für Open-Air-Veranstaltungen.",
                   "category": "cultural",
                   "coords": [
                         25.605728,
@@ -1584,7 +2565,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "The Little Theatre",
-                  "text": "The Little Theatre ist ein Theater in Gqeberha.",
+                  "text": "Intimes Theater in Gqeberha für Schauspiel und Musik.",
                   "category": "cultural",
                   "coords": [
                         25.620189,
@@ -1593,7 +2574,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "The Savoy Theatre and Conference Centre",
-                  "text": "The Savoy Theatre and Conference Centre ist ein Theater in Gqeberha.",
+                  "text": "Historisches Theater und Konferenzzentrum in Gqeberha.",
                   "category": "cultural",
                   "coords": [
                         25.58586,
@@ -1602,7 +2583,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "No 7 Castle Hill",
-                  "text": "No 7 Castle Hill ist ein Museum in Gqeberha.",
+                  "text": "Museum in einem viktorianischen Cottage am Castle Hill in Gqeberha.",
                   "category": "museum",
                   "coords": [
                         25.621568,
@@ -1620,7 +2601,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Queen Victoria Statue",
-                  "text": "Queen Victoria Statue ist ein Denkmal in Gqeberha.",
+                  "text": "Eine 1903 errichtete Statue von Königin Victoria in Gqeberha.",
                   "category": "historical",
                   "coords": [
                         25.622951,
@@ -1629,7 +2610,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint George's Park",
-                  "text": "Saint George's Park ist ein Park in Gqeberha, der als ältester Park der Stadt bekannt ist.",
+                  "text": "Städtischer Park in Gqeberha mit dem historischen St. George's Park Cricket Ground.",
                   "category": "park",
                   "coords": [
                         25.607382,
@@ -1638,7 +2619,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Prince Alfred's Guard Memorial",
-                  "text": "Prince Alfred's Guard Memorial ist ein historisches Denkmal in Gqeberha.",
+                  "text": "Ein Kriegerdenkmal in Gqeberha zum Gedenken an die Prince Alfred's Guard.",
                   "category": "historical",
                   "coords": [
                         25.60621,
@@ -1656,7 +2637,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Telescope",
-                  "text": "Telescope ist eine Attraktion in Gqeberha.",
+                  "text": "Wahrzeichen in Form eines Teleskops in Gqeberha, über der Algoa-Bucht.",
                   "category": "landmark",
                   "coords": [
                         25.579588,
@@ -1665,7 +2646,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Old Post Office",
-                  "text": "Old Post Office ist eine Ruinenstätte in Gqeberha.",
+                  "text": "Historisches Postamt in Gqeberha aus dem 19. Jahrhundert.",
                   "category": "historical",
                   "coords": [
                         25.62389,
@@ -1674,7 +2655,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "E.P.S.A. & C. Arts Hall",
-                  "text": "E.P.S.A. & C. Arts Hall ist ein Kunstzentrum in Gqeberha.",
+                  "text": "Kunsthalle in Gqeberha, genutzt von der Eastern Province Society of Arts.",
                   "category": "cultural",
                   "coords": [
                         25.611091,
@@ -1683,7 +2664,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Pearson Conservatory",
-                  "text": "Pearson Conservatory ist eine Attraktion in Gqeberha.",
+                  "text": "Viktorianisches Gewächshaus im St. George's Park in Gqeberha.",
                   "category": "landmark",
                   "coords": [
                         25.606064,
@@ -1692,7 +2673,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Peters Church Ruins",
-                  "text": "Saint Peters Church Ruins ist eine Ruinenstätte in Gqeberha.",
+                  "text": "Ruinen einer anglikanischen Kirche aus dem 19. Jahrhundert in Gqeberha.",
                   "category": "historical",
                   "coords": [
                         25.625801,
@@ -1701,7 +2682,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Masjid Azîez",
-                  "text": "Masjid Azîez ist eine Kultstätte in Gqeberha.",
+                  "text": "Eine 1901 erbaute Moschee in Gqeberha.",
                   "category": "religious",
                   "coords": [
                         25.628327,
@@ -1710,7 +2691,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Holy Trinity Anglican",
-                  "text": "Holy Trinity Anglican ist eine Kultstätte in Gqeberha.",
+                  "text": "Historische anglikanische Kirche aus dem 19. Jahrhundert im Central District von Gqeberha.",
                   "category": "religious",
                   "coords": [
                         25.616375,
@@ -1719,7 +2700,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Raleigh Street Synagogue",
-                  "text": "Raleigh Street Synagogue ist eine Kultstätte in Gqeberha.",
+                  "text": "Byzantinische Synagoge von 1906, die erste in der Stadt Gqeberha.",
                   "category": "religious",
                   "coords": [
                         25.61333,
@@ -1728,7 +2709,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Masjid ul-Akbar",
-                  "text": "Masjid ul-Akbar ist eine Kultstätte in Gqeberha.",
+                  "text": "Eine 1855 erbaute Moschee in Gqeberha.",
                   "category": "religious",
                   "coords": [
                         25.622909,
@@ -1739,7 +2720,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "South End Museum",
-                  "text": "A South End Museum egy múzeum Gqeberha városában.",
+                  "text": "Múzeum a multikulturális South End negyed történetéről, amelyet az apartheid idején romboltak le.",
                   "category": "museum",
                   "coords": [
                         25.62929,
@@ -1748,7 +2729,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Mandela Bay Theatre ComplexHouse",
-                  "text": "A Mandela Bay Theatre ComplexHouse egy színház Gqeberha városában.",
+                  "text": "Előadóművészeti helyszín Gqeberhában, a Mandela-öböl régióról elnevezve.",
                   "category": "cultural",
                   "coords": [
                         25.621641,
@@ -1766,7 +2747,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Mannville Open Air Theatre",
-                  "text": "A Mannville Open Air Theatre egy színház Gqeberha városában.",
+                  "text": "Szabadtéri színház a Mannville Parkban Gqeberhában, szabadtéri előadásokhoz.",
                   "category": "cultural",
                   "coords": [
                         25.605728,
@@ -1775,7 +2756,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "The Little Theatre",
-                  "text": "A The Little Theatre egy színház Gqeberha városában.",
+                  "text": "Meghitt színház Gqeberhában színdarabok és zene számára.",
                   "category": "cultural",
                   "coords": [
                         25.620189,
@@ -1784,7 +2765,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "The Savoy Theatre and Conference Centre",
-                  "text": "A The Savoy Theatre and Conference Centre egy színház Gqeberha városában.",
+                  "text": "Történelmi színház és konferencia-központ Gqeberhában.",
                   "category": "cultural",
                   "coords": [
                         25.58586,
@@ -1793,7 +2774,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "No 7 Castle Hill",
-                  "text": "A No 7 Castle Hill egy múzeum Gqeberha városában.",
+                  "text": "Múzeum egy viktoriánus házban a Castle Hillen, Gqeberhában.",
                   "category": "museum",
                   "coords": [
                         25.621568,
@@ -1811,7 +2792,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Queen Victoria Statue",
-                  "text": "A Queen Victoria Statue egy emlékmű Gqeberha városában.",
+                  "text": "Egy 1903-ban felállított Viktória királynő szobor Gqeberhában.",
                   "category": "historical",
                   "coords": [
                         25.622951,
@@ -1820,7 +2801,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint George's Park",
-                  "text": "A Saint George's Park egy park Gqeberha városában, amely a város legrégebbi parkjaként ismert.",
+                  "text": "Városi park Gqeberhában, otthona a történelmi St. George's Park krikettpályának.",
                   "category": "park",
                   "coords": [
                         25.607382,
@@ -1829,7 +2810,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Prince Alfred's Guard Memorial",
-                  "text": "A Prince Alfred's Guard Memorial egy történelmi emlékmű Gqeberha városában.",
+                  "text": "Egy háborús emlékmű Gqeberhában, a Prince Alfred's Guard tiszteletére.",
                   "category": "historical",
                   "coords": [
                         25.60621,
@@ -1847,7 +2828,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Telescope",
-                  "text": "A Telescope egy látványosság Gqeberha városában.",
+                  "text": "Távcső formájú nevezetesség Gqeberhában, az Algoa-öbölre nézve.",
                   "category": "landmark",
                   "coords": [
                         25.579588,
@@ -1856,7 +2837,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Old Post Office",
-                  "text": "Az Old Post Office egy rom Gqeberha városában.",
+                  "text": "Történelmi postahivatal Gqeberhában a 19. századból.",
                   "category": "historical",
                   "coords": [
                         25.62389,
@@ -1865,7 +2846,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "E.P.S.A. & C. Arts Hall",
-                  "text": "Az E.P.S.A. & C. Arts Hall egy művészeti központ Gqeberha városában.",
+                  "text": "Művészeti csarnok Gqeberhában, az Eastern Province Society of Arts használja.",
                   "category": "cultural",
                   "coords": [
                         25.611091,
@@ -1874,7 +2855,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Pearson Conservatory",
-                  "text": "A Pearson Conservatory egy látványosság Gqeberha városában.",
+                  "text": "Viktoriánus üvegház a St. George's Parkban, Gqeberhában.",
                   "category": "landmark",
                   "coords": [
                         25.606064,
@@ -1883,7 +2864,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Peters Church Ruins",
-                  "text": "A Saint Peters Church Ruins egy rom Gqeberha városában.",
+                  "text": "Egy 19. századi anglikán templom romjai Gqeberhában.",
                   "category": "historical",
                   "coords": [
                         25.625801,
@@ -1892,7 +2873,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Masjid Azîez",
-                  "text": "A Masjid Azîez egy istentiszteleti hely Gqeberha városában.",
+                  "text": "Egy 1901-ben épült mecset Gqeberhában.",
                   "category": "religious",
                   "coords": [
                         25.628327,
@@ -1901,7 +2882,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Holy Trinity Anglican",
-                  "text": "A Holy Trinity Anglican egy istentiszteleti hely Gqeberha városában.",
+                  "text": "Történelmi anglikán templom a 19. századból Gqeberha központi kerületében.",
                   "category": "religious",
                   "coords": [
                         25.616375,
@@ -1910,7 +2891,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Raleigh Street Synagogue",
-                  "text": "A Raleigh Street Synagogue egy istentiszteleti hely Gqeberha városában.",
+                  "text": "Bizánci stílusú zsinagóga 1906-ból, az első a városban Gqeberhában.",
                   "category": "religious",
                   "coords": [
                         25.61333,
@@ -1919,7 +2900,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Masjid ul-Akbar",
-                  "text": "A Masjid ul-Akbar egy istentiszteleti hely Gqeberha városában.",
+                  "text": "Egy 1855-ben épült mecset Gqeberhában.",
                   "category": "religious",
                   "coords": [
                         25.622909,
@@ -1930,7 +2911,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "South End Museum",
-                  "text": "South End Museum este un muzeu situat în Gqeberha.",
+                  "text": "Muzeu care documentează istoria cartierului multicultural South End, distrus în timpul apartheidului.",
                   "category": "museum",
                   "coords": [
                         25.62929,
@@ -1939,7 +2920,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Mandela Bay Theatre ComplexHouse",
-                  "text": "Mandela Bay Theatre ComplexHouse este un teatru situat în Gqeberha.",
+                  "text": "Locație pentru artele spectacolului în Gqeberha, numită după regiunea Golfului Mandela.",
                   "category": "cultural",
                   "coords": [
                         25.621641,
@@ -1957,7 +2938,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Mannville Open Air Theatre",
-                  "text": "Mannville Open Air Theatre este un teatru situat în Gqeberha.",
+                  "text": "Teatru în aer liber în Parcul Mannville din Gqeberha, pentru spectacole în aer liber.",
                   "category": "cultural",
                   "coords": [
                         25.605728,
@@ -1966,7 +2947,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "The Little Theatre",
-                  "text": "The Little Theatre este un teatru situat în Gqeberha.",
+                  "text": "Teatru intim în Gqeberha pentru piese de teatru și muzică.",
                   "category": "cultural",
                   "coords": [
                         25.620189,
@@ -1975,7 +2956,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "The Savoy Theatre and Conference Centre",
-                  "text": "The Savoy Theatre and Conference Centre este un teatru situat în Gqeberha.",
+                  "text": "Teatru istoric și centru de conferințe în Gqeberha.",
                   "category": "cultural",
                   "coords": [
                         25.58586,
@@ -1984,7 +2965,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "No 7 Castle Hill",
-                  "text": "No 7 Castle Hill este un muzeu situat în Gqeberha.",
+                  "text": "Muzeu într-o cabană victoriană pe Castle Hill în Gqeberha.",
                   "category": "museum",
                   "coords": [
                         25.621568,
@@ -2002,7 +2983,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Queen Victoria Statue",
-                  "text": "Queen Victoria Statue este un monument situat în Gqeberha.",
+                  "text": "O statuie a Reginei Victoria ridicată în 1903 în Gqeberha.",
                   "category": "historical",
                   "coords": [
                         25.622951,
@@ -2011,7 +2992,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint George's Park",
-                  "text": "Saint George's Park este un parc situat în Gqeberha, recunoscut drept cel mai vechi parc din oraș.",
+                  "text": "Parc urban în Gqeberha, găzduind celebrul teren de cricket St. George's Park.",
                   "category": "park",
                   "coords": [
                         25.607382,
@@ -2020,7 +3001,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Prince Alfred's Guard Memorial",
-                  "text": "Prince Alfred's Guard Memorial este un monument istoric situat în Gqeberha.",
+                  "text": "Un monument de război în Gqeberha în memoria Gărzii Prince Alfred.",
                   "category": "historical",
                   "coords": [
                         25.60621,
@@ -2038,7 +3019,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Telescope",
-                  "text": "Telescope este o atracție turistică situată în Gqeberha.",
+                  "text": "Reper turistic în formă de telescop în Gqeberha, cu vedere spre Golful Algoa.",
                   "category": "landmark",
                   "coords": [
                         25.579588,
@@ -2047,7 +3028,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Old Post Office",
-                  "text": "Old Post Office este o ruină situată în Gqeberha.",
+                  "text": "Oficiu poștal istoric în Gqeberha, datând din secolul al XIX-lea.",
                   "category": "historical",
                   "coords": [
                         25.62389,
@@ -2056,7 +3037,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "E.P.S.A. & C. Arts Hall",
-                  "text": "E.P.S.A. & C. Arts Hall este un centru de arte situat în Gqeberha.",
+                  "text": "Sala de arte în Gqeberha, folosită de Societatea de Arte din Provincia Eastern Cape.",
                   "category": "cultural",
                   "coords": [
                         25.611091,
@@ -2065,7 +3046,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Pearson Conservatory",
-                  "text": "Pearson Conservatory este o atracție turistică situată în Gqeberha.",
+                  "text": "Seră victoriană în Parcul St. George's din Gqeberha.",
                   "category": "landmark",
                   "coords": [
                         25.606064,
@@ -2074,7 +3055,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Peters Church Ruins",
-                  "text": "Saint Peters Church Ruins este o ruină situată în Gqeberha.",
+                  "text": "Ruinele unei biserici anglicane din secolul al XIX-lea în Gqeberha.",
                   "category": "historical",
                   "coords": [
                         25.625801,
@@ -2083,7 +3064,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Masjid Azîez",
-                  "text": "Masjid Azîez este un lăcaș de cult situat în Gqeberha.",
+                  "text": "O moschee construită în 1901 în Gqeberha.",
                   "category": "religious",
                   "coords": [
                         25.628327,
@@ -2092,7 +3073,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Holy Trinity Anglican",
-                  "text": "Holy Trinity Anglican este un lăcaș de cult situat în Gqeberha.",
+                  "text": "Biserică anglicană istorică din secolul al XIX-lea în districtul central al Gqeberhei.",
                   "category": "religious",
                   "coords": [
                         25.616375,
@@ -2101,7 +3082,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Raleigh Street Synagogue",
-                  "text": "Raleigh Street Synagogue este un lăcaș de cult situat în Gqeberha.",
+                  "text": "Sinagogă în stil bizantin din 1906, prima din orașul Gqeberha.",
                   "category": "religious",
                   "coords": [
                         25.61333,
@@ -2110,7 +3091,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Masjid ul-Akbar",
-                  "text": "Masjid ul-Akbar este un lăcaș de cult situat în Gqeberha.",
+                  "text": "O moschee construită în 1855 în Gqeberha.",
                   "category": "religious",
                   "coords": [
                         25.622909,
@@ -2121,7 +3102,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "South End Museum",
-                  "text": "South End Museum is a museum located in Gqeberha.",
+                  "text": "Museum documenting the history of the multicultural South End neighbourhood, destroyed during apartheid.",
                   "category": "museum",
                   "coords": [
                         25.62929,
@@ -2130,7 +3111,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Mandela Bay Theatre ComplexHouse",
-                  "text": "Mandela Bay Theatre ComplexHouse is a theatre located in Gqeberha.",
+                  "text": "Performing arts venue in Gqeberha, named after the Mandela Bay region.",
                   "category": "cultural",
                   "coords": [
                         25.621641,
@@ -2148,7 +3129,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Mannville Open Air Theatre",
-                  "text": "Mannville Open Air Theatre is a theatre located in Gqeberha.",
+                  "text": "Open-air theatre in Mannville Park, Gqeberha, for outdoor performances.",
                   "category": "cultural",
                   "coords": [
                         25.605728,
@@ -2157,7 +3138,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "The Little Theatre",
-                  "text": "The Little Theatre is a theatre located in Gqeberha.",
+                  "text": "Intimate theatre venue in Gqeberha for plays and music.",
                   "category": "cultural",
                   "coords": [
                         25.620189,
@@ -2166,7 +3147,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "The Savoy Theatre and Conference Centre",
-                  "text": "The Savoy Theatre and Conference Centre is a theatre located in Gqeberha.",
+                  "text": "Historic theatre and conference centre in Gqeberha.",
                   "category": "cultural",
                   "coords": [
                         25.58586,
@@ -2175,7 +3156,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "No 7 Castle Hill",
-                  "text": "No 7 Castle Hill is a museum located in Gqeberha.",
+                  "text": "Museum in a 19th-century cottage on Castle Hill in Gqeberha.",
                   "category": "museum",
                   "coords": [
                         25.621568,
@@ -2193,7 +3174,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Queen Victoria Statue",
-                  "text": "Queen Victoria Statue is a monument located in Gqeberha.",
+                  "text": "A statue of Queen Victoria erected in 1903 in Gqeberha.",
                   "category": "historical",
                   "coords": [
                         25.622951,
@@ -2202,7 +3183,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint George's Park",
-                  "text": "Saint George's Park is a park located in Gqeberha, known as the oldest park in the city.",
+                  "text": "Urban park in Gqeberha, home to the historic St George's Park Cricket Ground.",
                   "category": "park",
                   "coords": [
                         25.607382,
@@ -2211,7 +3192,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Prince Alfred's Guard Memorial",
-                  "text": "Prince Alfred's Guard Memorial is a historic monument located in Gqeberha.",
+                  "text": "A war memorial in Gqeberha commemorating the Prince Alfred's Guard.",
                   "category": "historical",
                   "coords": [
                         25.60621,
@@ -2229,7 +3210,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Telescope",
-                  "text": "Telescope is an attraction located in Gqeberha.",
+                  "text": "Telescope-shaped landmark in Gqeberha overlooking Algoa Bay.",
                   "category": "landmark",
                   "coords": [
                         25.579588,
@@ -2238,7 +3219,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Old Post Office",
-                  "text": "Old Post Office is a ruins site located in Gqeberha.",
+                  "text": "Historic post office building in Gqeberha, dating from the 19th century.",
                   "category": "historical",
                   "coords": [
                         25.62389,
@@ -2247,7 +3228,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "E.P.S.A. & C. Arts Hall",
-                  "text": "E.P.S.A. & C. Arts Hall is an arts centre located in Gqeberha.",
+                  "text": "Arts hall in Gqeberha used by the Eastern Province Society of Arts.",
                   "category": "cultural",
                   "coords": [
                         25.611091,
@@ -2256,7 +3237,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Pearson Conservatory",
-                  "text": "Pearson Conservatory is an attraction located in Gqeberha.",
+                  "text": "Victorian conservatory in St George's Park, Gqeberha.",
                   "category": "landmark",
                   "coords": [
                         25.606064,
@@ -2265,7 +3246,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Peters Church Ruins",
-                  "text": "Saint Peters Church Ruins is a ruins site located in Gqeberha.",
+                  "text": "Ruins of a 19th-century Anglican church in Gqeberha.",
                   "category": "historical",
                   "coords": [
                         25.625801,
@@ -2274,7 +3255,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Masjid Azîez",
-                  "text": "Masjid Azîez is a place of worship located in Gqeberha.",
+                  "text": "A mosque built in 1901 in Gqeberha.",
                   "category": "religious",
                   "coords": [
                         25.628327,
@@ -2283,7 +3264,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Holy Trinity Anglican",
-                  "text": "Holy Trinity Anglican is a place of worship located in Gqeberha.",
+                  "text": "Historic 19th-century Anglican church in the Central district of Gqeberha.",
                   "category": "religious",
                   "coords": [
                         25.616375,
@@ -2292,7 +3273,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Raleigh Street Synagogue",
-                  "text": "Raleigh Street Synagogue is a place of worship located in Gqeberha.",
+                  "text": "Byzantine-style synagogue built in 1906, the first in the city of Gqeberha.",
                   "category": "religious",
                   "coords": [
                         25.61333,
@@ -2301,7 +3282,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Masjid ul-Akbar",
-                  "text": "Masjid ul-Akbar is a place of worship located in Gqeberha.",
+                  "text": "A mosque built in 1855 in Gqeberha.",
                   "category": "religious",
                   "coords": [
                         25.622909,
@@ -2353,7 +3334,376 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     },
   },
   {
-    id: "southafrica-east-london-cities-v2", "sights": {"de": [{"name": "Gately House Museum", "text": "Das Gately House Museum ist ein Museum in East London.", "category": "museum", "coords": [27.901398, -33.018898]}, {"name": "Orient Beach", "text": "Sanft in die Küstenlinie von East London eingebettet, ist der Orient Beach ein ganz klassischer südafrikanischer Strandabschnitt. Er bewahrt sich eine durchweg einladende, entspannte Atmosphäre, die seit jeher einheimische Familien und Urlauber anzieht. Man kann herrlich in den Ozean springen, im Sand spielen oder einfach gemütlich an der Wasserkante entlangschlendern. Das Mitführen einer leichten Windjacke ist hier durchaus nützlich, da die Meeresbrise gelegentlich etwas frischer ausfallen kann.", "category": "recreational", "coords": [27.915131, -33.024952]}, {"name": "Queens Park Zoological Gardens", "text": "Die Queens Park Zoological Gardens sind ein Tierpark in East London.", "category": "family", "coords": [27.89829, -33.017337]}, {"name": "Potters Pass Nature Reserve", "text": "Das Potters Pass Nature Reserve ist ein kleines Naturschutzgebiet in East London.", "category": "natural", "coords": [27.886113, -33.041916]}, {"name": "Guild Theatre", "text": "Das Guild Theatre ist ein Theater in East London.", "category": "cultural", "coords": [27.897172, -32.994677]}, {"name": "The Arts Theatre", "text": "Das Arts Theatre ist ein lokales Theater in East London.", "category": "cultural", "coords": [27.903171, -33.008252]}, {"name": "East London Aquarium", "text": "Das East London Aquarium ist ein zoologischer Park in East London.", "category": "family", "coords": [27.920948, -33.016874]}, {"name": "Kimmerling Plaque", "text": "Die Kimmerling Plaque ist ein lokales Denkmal in East London.", "category": "historical", "coords": [27.926066, -32.995026]}, {"name": "Miriam Makeba Centre for the Performing Arts", "text": "Das Miriam Makeba Centre for the Performing Arts ist ein Kunstzentrum in East London.", "category": "cultural", "coords": [27.904038, -33.021618]}, {"name": "KuGompo City Hall", "text": "Die KuGompo City Hall ist ein Rathausgebäude in East London.", "category": "historical", "coords": [27.904441, -33.014634]}], "hu": [{"name": "Gately House Museum", "text": "A Gately House Museum egy múzeum East London városában.", "category": "museum", "coords": [27.901398, -33.018898]}, {"name": "Orient Beach", "text": "Az East London partvidékébe simuló Orient Beach egy klasszikus dél-afrikai tengerparti szakasz. Folyamatosan hívogató, kellemesen laza hangulatot áraszt, amely régóta sikeresen vonzza a helyi családokat és a nyaralókat. A vendégek lelkesen vethetik bele magukat az óceánba, játszhatnak a homokban, vagy csupán lassú sétát tehetnek a víz szélén. Egy könnyű széldzseki viselése itt igen hasznos lehet, mivel a tengeri szellő időnként meglepően felerősödhet.", "category": "recreational", "coords": [27.915131, -33.024952]}, {"name": "Queens Park Zoological Gardens", "text": "A Queens Park Zoological Gardens egy állatkert East London városában.", "category": "family", "coords": [27.89829, -33.017337]}, {"name": "Potters Pass Nature Reserve", "text": "A Potters Pass Nature Reserve egy kis természetvédelmi terület East Londonban.", "category": "natural", "coords": [27.886113, -33.041916]}, {"name": "Guild Theatre", "text": "A Guild Theatre egy színház East Londonban.", "category": "cultural", "coords": [27.897172, -32.994677]}, {"name": "The Arts Theatre", "text": "Az Arts Theatre egy helyi színház East Londonban.", "category": "cultural", "coords": [27.903171, -33.008252]}, {"name": "East London Aquarium", "text": "Az East London Aquarium egy zoológiai park East London városában.", "category": "family", "coords": [27.920948, -33.016874]}, {"name": "Kimmerling Plaque", "text": "A Kimmerling Plaque egy helyi emlékmű East London városában.", "category": "historical", "coords": [27.926066, -32.995026]}, {"name": "Miriam Makeba Centre for the Performing Arts", "text": "A Miriam Makeba Centre for the Performing Arts egy művészeti központ East Londonban.", "category": "cultural", "coords": [27.904038, -33.021618]}, {"name": "KuGompo City Hall", "text": "A KuGompo City Hall egy városháza East Londonban.", "category": "historical", "coords": [27.904441, -33.014634]}], "ro": [{"name": "Gately House Museum", "text": "Gately House Museum este un muzeu situat în East London.", "category": "museum", "coords": [27.901398, -33.018898]}, {"name": "Orient Beach", "text": "Ascunsă frumos în linia de coastă din East London, Orient Beach servește ca o plajă sud-africană clasică. Menține în mod constant o atmosferă primitoare, plăcut de relaxată, care a atras familiile locale și turiștii de mult timp. Oaspeții pot sări cu entuziasm în ocean, se pot juca în nisip sau pur și simplu se pot plimba încet de-a lungul apei. Purtarea unei jachete ușoare de vânt este foarte utilă aici, deoarece briza de coastă poate deveni uneori aspră.", "category": "recreational", "coords": [27.915131, -33.024952]}, {"name": "Queens Park Zoological Gardens", "text": "Queens Park Zoological Gardens este un parc zoologic situat în East London.", "category": "family", "coords": [27.89829, -33.017337]}, {"name": "Potters Pass Nature Reserve", "text": "Rezervația Naturală Potters Pass este o mică rezervație naturală din East London.", "category": "natural", "coords": [27.886113, -33.041916]}, {"name": "Guild Theatre", "text": "Guild Theatre este un teatru din East London.", "category": "cultural", "coords": [27.897172, -32.994677]}, {"name": "The Arts Theatre", "text": "The Arts Theatre este un teatru local din East London.", "category": "cultural", "coords": [27.903171, -33.008252]}, {"name": "East London Aquarium", "text": "East London Aquarium este un parc zoologic din East London.", "category": "family", "coords": [27.920948, -33.016874]}, {"name": "Kimmerling Plaque", "text": "Placa Kimmerling este un monument local situat în East London.", "category": "historical", "coords": [27.926066, -32.995026]}, {"name": "Miriam Makeba Centre for the Performing Arts", "text": "Centrul Miriam Makeba pentru Artele Spectacolului este un centru de arte din East London.", "category": "cultural", "coords": [27.904038, -33.021618]}, {"name": "KuGompo City Hall", "text": "Primăria KuGompo este o clădire administrativă din East London.", "category": "historical", "coords": [27.904441, -33.014634]}], "en": [{"name": "Gately House Museum", "text": "Gately House Museum is a museum located in East London.", "category": "museum", "coords": [27.901398, -33.018898]}, {"name": "Orient Beach", "text": "Nestled neatly into the coastline of East London, Orient Beach serves as a classic South African shorefront. It consistently maintains a welcoming, pleasantly laid-back vibe that has successfully drawn local families and holidaymakers for a long time. Guests can enthusiastically jump into the ocean, play in the sand, or simply stroll slowly along the edge of the water. Carrying a light windbreaker is highly useful here, as the coastal breeze can sometimes become brisk.", "category": "recreational", "coords": [27.915131, -33.024952]}, {"name": "Queens Park Zoological Gardens", "text": "Queens Park Zoological Gardens is an animal park located in East London.", "category": "family", "coords": [27.89829, -33.017337]}, {"name": "Potters Pass Nature Reserve", "text": "Potters Pass Nature Reserve is a small designated nature reserve in East London.", "category": "natural", "coords": [27.886113, -33.041916]}, {"name": "Guild Theatre", "text": "Guild Theatre is a theatre located in East London.", "category": "cultural", "coords": [27.897172, -32.994677]}, {"name": "The Arts Theatre", "text": "The Arts Theatre is a local theatre in East London.", "category": "cultural", "coords": [27.903171, -33.008252]}, {"name": "East London Aquarium", "text": "East London Aquarium is a zoological park located in East London.", "category": "family", "coords": [27.920948, -33.016874]}, {"name": "Kimmerling Plaque", "text": "The Kimmerling Plaque is a local monument situated in East London.", "category": "historical", "coords": [27.926066, -32.995026]}, {"name": "Miriam Makeba Centre for the Performing Arts", "text": "The Miriam Makeba Centre for the Performing Arts is an arts centre in East London.", "category": "cultural", "coords": [27.904038, -33.021618]}, {"name": "KuGompo City Hall", "text": "KuGompo City Hall is a municipal townhall building in East London.", "category": "historical", "coords": [27.904441, -33.014634]}]},
+    id: "southafrica-east-london-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gately House Museum",
+                  "text": "Ehemaliges Wohnhaus der Familie Gately, heute Museum mit viktorianischem Alltagsleben in East London.",
+                  "category": "museum",
+                  "coords": [
+                        27.901398,
+                        -33.018898
+                  ]
+            },
+            {
+                  "name": "Orient Beach",
+                  "text": "Sanft in die Küstenlinie von East London eingebettet, ist der Orient Beach ein ganz klassischer südafrikanischer Strandabschnitt. Er bewahrt sich eine durchweg einladende, entspannte Atmosphäre, die seit jeher einheimische Familien und Urlauber anzieht. Man kann herrlich in den Ozean springen, im Sand spielen oder einfach gemütlich an der Wasserkante entlangschlendern. Das Mitführen einer leichten Windjacke ist hier durchaus nützlich, da die Meeresbrise gelegentlich etwas frischer ausfallen kann.",
+                  "category": "recreational",
+                  "coords": [
+                        27.915131,
+                        -33.024952
+                  ]
+            },
+            {
+                  "name": "Queens Park Zoological Gardens",
+                  "text": "Kleiner Zoo und botanischer Garten im Queens Park in East London.",
+                  "category": "family",
+                  "coords": [
+                        27.89829,
+                        -33.017337
+                  ]
+            },
+            {
+                  "name": "Potters Pass Nature Reserve",
+                  "text": "Naturschutzgebiet in East London mit Küsten-Fynbos und Wanderwegen.",
+                  "category": "natural",
+                  "coords": [
+                        27.886113,
+                        -33.041916
+                  ]
+            },
+            {
+                  "name": "Guild Theatre",
+                  "text": "Theater in East London für Aufführungen, Konzerte und Filme.",
+                  "category": "cultural",
+                  "coords": [
+                        27.897172,
+                        -32.994677
+                  ]
+            },
+            {
+                  "name": "The Arts Theatre",
+                  "text": "Theater für darstellende Kunst im Stadtzentrum von East London.",
+                  "category": "cultural",
+                  "coords": [
+                        27.903171,
+                        -33.008252
+                  ]
+            },
+            {
+                  "name": "East London Aquarium",
+                  "text": "Öffentliches Aquarium in East London mit Meeresleben des Indischen Ozeans.",
+                  "category": "family",
+                  "coords": [
+                        27.920948,
+                        -33.016874
+                  ]
+            },
+            {
+                  "name": "Kimmerling Plaque",
+                  "text": "Gedenktafel für die Familie Kimmerling im historischen Viertel von East London.",
+                  "category": "historical",
+                  "coords": [
+                        27.926066,
+                        -32.995026
+                  ]
+            },
+            {
+                  "name": "Miriam Makeba Centre for the Performing Arts",
+                  "text": "Kulturzentrum in East London, benannt nach der südafrikanischen Musiklegende Miriam Makeba.",
+                  "category": "cultural",
+                  "coords": [
+                        27.904038,
+                        -33.021618
+                  ]
+            },
+            {
+                  "name": "KuGompo City Hall",
+                  "text": "Historisches Rathaus mit Uhrturm im Geschäftsviertel von East London.",
+                  "category": "historical",
+                  "coords": [
+                        27.904441,
+                        -33.014634
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gately House Museum",
+                  "text": "A Gately család egykori otthona, ma múzeum a viktoriánus hétköznapi életről East Londonban.",
+                  "category": "museum",
+                  "coords": [
+                        27.901398,
+                        -33.018898
+                  ]
+            },
+            {
+                  "name": "Orient Beach",
+                  "text": "Az East London partvidékébe simuló Orient Beach egy klasszikus dél-afrikai tengerparti szakasz. Folyamatosan hívogató, kellemesen laza hangulatot áraszt, amely régóta sikeresen vonzza a helyi családokat és a nyaralókat. A vendégek lelkesen vethetik bele magukat az óceánba, játszhatnak a homokban, vagy csupán lassú sétát tehetnek a víz szélén. Egy könnyű széldzseki viselése itt igen hasznos lehet, mivel a tengeri szellő időnként meglepően felerősödhet.",
+                  "category": "recreational",
+                  "coords": [
+                        27.915131,
+                        -33.024952
+                  ]
+            },
+            {
+                  "name": "Queens Park Zoological Gardens",
+                  "text": "Kis állatkert és botanikus kert a Queens Parkban, East Londonban.",
+                  "category": "family",
+                  "coords": [
+                        27.89829,
+                        -33.017337
+                  ]
+            },
+            {
+                  "name": "Potters Pass Nature Reserve",
+                  "text": "Természetvédelmi terület East Londonban, partmenti fynbos növényzettel és túraútvonalakkal.",
+                  "category": "natural",
+                  "coords": [
+                        27.886113,
+                        -33.041916
+                  ]
+            },
+            {
+                  "name": "Guild Theatre",
+                  "text": "Színház East Londonban színdarabok, koncertek és filmek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        27.897172,
+                        -32.994677
+                  ]
+            },
+            {
+                  "name": "The Arts Theatre",
+                  "text": "Előadóművészeti színház East London belvárosában.",
+                  "category": "cultural",
+                  "coords": [
+                        27.903171,
+                        -33.008252
+                  ]
+            },
+            {
+                  "name": "East London Aquarium",
+                  "text": "Nyilvános akvárium East Londonban, az Indiai-óceán tengeri élővilágával.",
+                  "category": "family",
+                  "coords": [
+                        27.920948,
+                        -33.016874
+                  ]
+            },
+            {
+                  "name": "Kimmerling Plaque",
+                  "text": "Kimmerling család emléktáblája East London történelmi negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        27.926066,
+                        -32.995026
+                  ]
+            },
+            {
+                  "name": "Miriam Makeba Centre for the Performing Arts",
+                  "text": "Előadóművészeti központ East Londonban, a dél-afrikai zenei ikon Miriam Makeba nevét viselve.",
+                  "category": "cultural",
+                  "coords": [
+                        27.904038,
+                        -33.021618
+                  ]
+            },
+            {
+                  "name": "KuGompo City Hall",
+                  "text": "Történelmi városháza óratoronnyal East London üzleti negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        27.904441,
+                        -33.014634
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gately House Museum",
+                  "text": "Fosta casă a familiei Gately, acum muzeu al vieții cotidiene victoriene în East London.",
+                  "category": "museum",
+                  "coords": [
+                        27.901398,
+                        -33.018898
+                  ]
+            },
+            {
+                  "name": "Orient Beach",
+                  "text": "Ascunsă frumos în linia de coastă din East London, Orient Beach servește ca o plajă sud-africană clasică. Menține în mod constant o atmosferă primitoare, plăcut de relaxată, care a atras familiile locale și turiștii de mult timp. Oaspeții pot sări cu entuziasm în ocean, se pot juca în nisip sau pur și simplu se pot plimba încet de-a lungul apei. Purtarea unei jachete ușoare de vânt este foarte utilă aici, deoarece briza de coastă poate deveni uneori aspră.",
+                  "category": "recreational",
+                  "coords": [
+                        27.915131,
+                        -33.024952
+                  ]
+            },
+            {
+                  "name": "Queens Park Zoological Gardens",
+                  "text": "Grădină zoologică mică și grădini botanice în Queens Park, East London.",
+                  "category": "family",
+                  "coords": [
+                        27.89829,
+                        -33.017337
+                  ]
+            },
+            {
+                  "name": "Potters Pass Nature Reserve",
+                  "text": "Rezervație naturală în East London, cu fynbos de coastă și trasee de drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        27.886113,
+                        -33.041916
+                  ]
+            },
+            {
+                  "name": "Guild Theatre",
+                  "text": "Teatru în East London pentru spectacole, concerte și filme.",
+                  "category": "cultural",
+                  "coords": [
+                        27.897172,
+                        -32.994677
+                  ]
+            },
+            {
+                  "name": "The Arts Theatre",
+                  "text": "Teatru de arte spectacolului în centrul orașului East London.",
+                  "category": "cultural",
+                  "coords": [
+                        27.903171,
+                        -33.008252
+                  ]
+            },
+            {
+                  "name": "East London Aquarium",
+                  "text": "Acvariu public în East London, cu viață marină din Oceanul Indian.",
+                  "category": "family",
+                  "coords": [
+                        27.920948,
+                        -33.016874
+                  ]
+            },
+            {
+                  "name": "Kimmerling Plaque",
+                  "text": "Plașă memorială dedicată familiei Kimmerling în districtul istoric din East London.",
+                  "category": "historical",
+                  "coords": [
+                        27.926066,
+                        -32.995026
+                  ]
+            },
+            {
+                  "name": "Miriam Makeba Centre for the Performing Arts",
+                  "text": "Centru de arte spectacolului în East London, numit după legenda muzicii sud-africane Miriam Makeba.",
+                  "category": "cultural",
+                  "coords": [
+                        27.904038,
+                        -33.021618
+                  ]
+            },
+            {
+                  "name": "KuGompo City Hall",
+                  "text": "Primărie istorică cu turn de ceas în centrul de afaceri al East Londonului.",
+                  "category": "historical",
+                  "coords": [
+                        27.904441,
+                        -33.014634
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gately House Museum",
+                  "text": "Former home of the Gately family, now a museum showcasing Victorian-era domestic life in East London.",
+                  "category": "museum",
+                  "coords": [
+                        27.901398,
+                        -33.018898
+                  ]
+            },
+            {
+                  "name": "Orient Beach",
+                  "text": "Nestled neatly into the coastline of East London, Orient Beach serves as a classic South African shorefront. It consistently maintains a welcoming, pleasantly laid-back vibe that has successfully drawn local families and holidaymakers for a long time. Guests can enthusiastically jump into the ocean, play in the sand, or simply stroll slowly along the edge of the water. Carrying a light windbreaker is highly useful here, as the coastal breeze can sometimes become brisk.",
+                  "category": "recreational",
+                  "coords": [
+                        27.915131,
+                        -33.024952
+                  ]
+            },
+            {
+                  "name": "Queens Park Zoological Gardens",
+                  "text": "Small zoo and gardens in East London's Queens Park.",
+                  "category": "family",
+                  "coords": [
+                        27.89829,
+                        -33.017337
+                  ]
+            },
+            {
+                  "name": "Potters Pass Nature Reserve",
+                  "text": "Nature reserve in East London with coastal fynbos and hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        27.886113,
+                        -33.041916
+                  ]
+            },
+            {
+                  "name": "Guild Theatre",
+                  "text": "Theatre in East London hosting plays, concerts and films.",
+                  "category": "cultural",
+                  "coords": [
+                        27.897172,
+                        -32.994677
+                  ]
+            },
+            {
+                  "name": "The Arts Theatre",
+                  "text": "Performing arts theatre in East London's city centre.",
+                  "category": "cultural",
+                  "coords": [
+                        27.903171,
+                        -33.008252
+                  ]
+            },
+            {
+                  "name": "East London Aquarium",
+                  "text": "Public aquarium in East London showcasing Indian Ocean marine life.",
+                  "category": "family",
+                  "coords": [
+                        27.920948,
+                        -33.016874
+                  ]
+            },
+            {
+                  "name": "Kimmerling Plaque",
+                  "text": "Plaque commemorating the Kimmerling family in East London's historic district.",
+                  "category": "historical",
+                  "coords": [
+                        27.926066,
+                        -32.995026
+                  ]
+            },
+            {
+                  "name": "Miriam Makeba Centre for the Performing Arts",
+                  "text": "Performing arts centre in East London named after South African music icon Miriam Makeba.",
+                  "category": "cultural",
+                  "coords": [
+                        27.904038,
+                        -33.021618
+                  ]
+            },
+            {
+                  "name": "KuGompo City Hall",
+                  "text": "Historic city hall building with a clock tower in East London's central business district.",
+                  "category": "historical",
+                  "coords": [
+                        27.904441,
+                        -33.014634
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ZA-EC",
     coords: [27.9116, -33.0153],
@@ -2553,7 +3903,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Dutch Reformed Church",
-                  "text": "Die Dutch Reformed Church ist eine historische Kirche in Rustenburg.",
+                  "text": "Ein historisches Gebäude der Niederländisch-reformierten Kirche in Rustenburg.",
                   "category": "religious",
                   "coords": [
                         27.245565,
@@ -2564,7 +3914,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Dutch Reformed Church",
-                  "text": "A Dutch Reformed Church egy történelmi templom Rustenburg városában.",
+                  "text": "Egy történelmi holland református templomépület Rustenburgban.",
                   "category": "religious",
                   "coords": [
                         27.245565,
@@ -2575,7 +3925,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Dutch Reformed Church",
-                  "text": "Dutch Reformed Church este o biserică istorică din Rustenburg.",
+                  "text": "O clădire istorică a Bisericii Reformate Olandeze din Rustenburg.",
                   "category": "religious",
                   "coords": [
                         27.245565,
@@ -2586,7 +3936,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Dutch Reformed Church",
-                  "text": "The Dutch Reformed Church is a historic church located in Rustenburg.",
+                  "text": "A historic Dutch Reformed church building in Rustenburg.",
                   "category": "religious",
                   "coords": [
                         27.245565,
@@ -2718,7 +4068,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Kalahari-Oranje Museum",
-                  "text": "Kalahari-Oranje Museum ist ein Museum in Upington.",
+                  "text": "Museum in Upington über die Geschichte der Kalahari- und Oranje-Region.",
                   "category": "museum",
                   "coords": [
                         21.24367,
@@ -2729,7 +4079,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Kalahari-Oranje Museum",
-                  "text": "A Kalahari-Oranje Museum egy múzeum Upington városában.",
+                  "text": "Múzeum Upingtonban a Kalahári és az Oranje régió történelméről.",
                   "category": "museum",
                   "coords": [
                         21.24367,
@@ -2740,7 +4090,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Kalahari-Oranje Museum",
-                  "text": "Kalahari-Oranje Museum este un muzeu situat în Upington.",
+                  "text": "Muzeu în Upington despre istoria regiunii Kalahari și a râului Orange.",
                   "category": "museum",
                   "coords": [
                         21.24367,
@@ -2751,7 +4101,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Kalahari-Oranje Museum",
-                  "text": "Kalahari-Oranje Museum is a museum located in Upington.",
+                  "text": "Museum in Upington on the history of the Kalahari and Orange River regions.",
                   "category": "museum",
                   "coords": [
                         21.24367,
@@ -2895,7 +4245,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Heemkring Archive",
-                  "text": "Heemkring Archive ist ein Museum in Paarl.",
+                  "text": "Lokalgeschichtliches Archiv und Museum in Paarl, betrieben vom Heemkring.",
                   "category": "museum",
                   "coords": [
                         18.962397,
@@ -2904,7 +4254,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Paarlberg Natuurreservaat",
-                  "text": "Das Paarl Mountain Nature Reserve ist ein Naturschutzgebiet in der Stadt Paarl.",
+                  "text": "Naturschutzgebiet auf dem Paarl Mountain mit Granitkuppeln und Fynbos-Vegetation.",
                   "category": "natural",
                   "coords": [
                         18.930442,
@@ -2913,7 +4263,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Paarl Museum",
-                  "text": "Das Paarl Museum ist ein Museum in der Stadt Paarl.",
+                  "text": "Museum in Paarl in einem historischen Gebäude, zeigt Stadtgeschichte.",
                   "category": "museum",
                   "coords": [
                         18.964243,
@@ -2922,7 +4272,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Afrikaanse Taalmuseum",
-                  "text": "Das Afrikaanse Taalmuseum ist ein Museum in Paarl.",
+                  "text": "Museum in Paarl zur Geschichte der Afrikaans-Sprache, im Haus der ersten Sprachbewegung.",
                   "category": "museum",
                   "coords": [
                         18.963433,
@@ -2942,7 +4292,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Heemkring Archive",
-                  "text": "A Heemkring Archive egy múzeum Paarl városában.",
+                  "text": "Helytörténeti levéltár és múzeum Paarlban, a Heemkring üzemeltetésében.",
                   "category": "museum",
                   "coords": [
                         18.962397,
@@ -2951,7 +4301,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Paarlberg Natuurreservaat",
-                  "text": "A Paarl Mountain Nature Reserve egy természetvédelmi terület Paarl városában.",
+                  "text": "Természetvédelmi terület a Paarl-hegyen, gránitkupolákkal és fynbos növényzettel.",
                   "category": "natural",
                   "coords": [
                         18.930442,
@@ -2960,7 +4310,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Paarl Museum",
-                  "text": "A Paarl Museum egy múzeum Paarl városában.",
+                  "text": "Múzeum Paarlban egy történelmi épületben, várostörténeti kiállítással.",
                   "category": "museum",
                   "coords": [
                         18.964243,
@@ -2969,7 +4319,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Afrikaanse Taalmuseum",
-                  "text": "Az Afrikaanse Taalmuseum egy múzeum Paarl városában.",
+                  "text": "Múzeum Paarlban az afrikaans nyelv történetéről, az első nyelvi mozgalom házában.",
                   "category": "museum",
                   "coords": [
                         18.963433,
@@ -2989,7 +4339,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Heemkring Archive",
-                  "text": "Heemkring Archive este un muzeu situat în Paarl.",
+                  "text": "Arhivă și muzeu de istorie locală în Paarl, administrat de Heemkring.",
                   "category": "museum",
                   "coords": [
                         18.962397,
@@ -2998,7 +4348,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Paarlberg Natuurreservaat",
-                  "text": "Paarl Mountain Nature Reserve este o rezervație naturală situată în orașul Paarl.",
+                  "text": "Rezervație naturală pe Muntele Paarl, cu domuri de granit și vegetație fynbos.",
                   "category": "natural",
                   "coords": [
                         18.930442,
@@ -3007,7 +4357,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Paarl Museum",
-                  "text": "Paarl Museum este un muzeu situat în orașul Paarl.",
+                  "text": "Muzeu în Paarl într-o clădire istorică, cu istoria orașului.",
                   "category": "museum",
                   "coords": [
                         18.964243,
@@ -3016,7 +4366,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Afrikaanse Taalmuseum",
-                  "text": "Afrikaanse Taalmuseum este un muzeu situat în Paarl.",
+                  "text": "Muzeu în Paarl dedicat istoriei limbii afrikaans, în casa primei mișcări lingvistice.",
                   "category": "museum",
                   "coords": [
                         18.963433,
@@ -3036,7 +4386,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Heemkring Archive",
-                  "text": "Heemkring Archive is a museum located in Paarl.",
+                  "text": "Local history archive and museum in Paarl, run by the Heemkring society.",
                   "category": "museum",
                   "coords": [
                         18.962397,
@@ -3045,7 +4395,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Paarl Mountain Nature Reserve",
-                  "text": "Paarl Mountain Nature Reserve is a protected nature area located in the city of Paarl.",
+                  "text": "Nature reserve on Paarl Mountain with granite domes and fynbos vegetation.",
                   "category": "natural",
                   "coords": [
                         18.930442,
@@ -3054,7 +4404,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Paarl Museum",
-                  "text": "Paarl Museum is a museum situated in the city of Paarl.",
+                  "text": "Museum in Paarl housed in a historic building, showcasing local history.",
                   "category": "museum",
                   "coords": [
                         18.964243,
@@ -3063,7 +4413,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Afrikaanse Taalmuseum",
-                  "text": "Afrikaanse Taalmuseum is a museum located in Paarl.",
+                  "text": "Museum in Paarl dedicated to Afrikaans language history, in the house where the first language movement began.",
                   "category": "museum",
                   "coords": [
                         18.963433,
@@ -3128,7 +4478,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Worcester Museum (Kleinplasie)",
-                  "text": "Das Worcester Museum (Kleinplasie) ist ein Museum in Worcester.",
+                  "text": "Freilichtmuseum in Worcester mit Darstellung des Farmlebens im 19. Jahrhundert am Kap.",
                   "category": "museum",
                   "coords": [
                         19.467418,
@@ -3137,7 +4487,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Worcester Veld Reserve",
-                  "text": "Das Worcester Veld Reserve ist ein Naturschutzgebiet in Worcester.",
+                  "text": "Ein geschütztes Veldgebiet mit typischer Kap-Vegetation nahe Worcester.",
                   "category": "natural",
                   "coords": [
                         19.470416,
@@ -3146,7 +4496,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Voortrekker",
-                  "text": "Voortrekker ist ein historisches Denkmal in der Stadt Worcester.",
+                  "text": "Ein Steinmonument zur Erinnerung an die Voortrekker-Pioniere in Worcester.",
                   "category": "historical",
                   "coords": [
                         19.443552,
@@ -3157,7 +4507,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Worcester Museum (Kleinplasie)",
-                  "text": "A Worcester Museum (Kleinplasie) egy múzeum Worcester városában.",
+                  "text": "Szabadtéri múzeum Worcesterben a 19. századi fokföldi farmélet bemutatásával.",
                   "category": "museum",
                   "coords": [
                         19.467418,
@@ -3166,7 +4516,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Worcester Veld Reserve",
-                  "text": "A Worcester Veld Reserve egy természetvédelmi terület Worcesterben.",
+                  "text": "Védett veld terület, jellegzetes fokföldi növényzettel Worcester közelében.",
                   "category": "natural",
                   "coords": [
                         19.470416,
@@ -3175,7 +4525,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Voortrekker",
-                  "text": "A Voortrekker egy történelmi emlékmű Worcester városában.",
+                  "text": "Kőemlékmű a voortrekker úttörők tiszteletére Worcesterben.",
                   "category": "historical",
                   "coords": [
                         19.443552,
@@ -3186,7 +4536,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Worcester Museum (Kleinplasie)",
-                  "text": "Worcester Museum (Kleinplasie) este un muzeu situat în Worcester.",
+                  "text": "Muzeu în aer liber în Worcester, prezentând viața la fermă din secolul al XIX-lea în Cap.",
                   "category": "museum",
                   "coords": [
                         19.467418,
@@ -3195,7 +4545,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Worcester Veld Reserve",
-                  "text": "Worcester Veld Reserve este o rezervație naturală din Worcester.",
+                  "text": "O arie protejată de veld, cu vegetație tipică a Capului, lângă Worcester.",
                   "category": "natural",
                   "coords": [
                         19.470416,
@@ -3204,7 +4554,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Voortrekker",
-                  "text": "Voortrekker este un monument istoric situat în orașul Worcester.",
+                  "text": "Un monument de piatră în memoria pionierilor Voortrekker din Worcester.",
                   "category": "historical",
                   "coords": [
                         19.443552,
@@ -3215,7 +4565,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Worcester Museum (Kleinplasie)",
-                  "text": "Worcester Museum (Kleinplasie) is a museum located in Worcester.",
+                  "text": "Open-air museum in Worcester showcasing 19th-century Cape farm life.",
                   "category": "museum",
                   "coords": [
                         19.467418,
@@ -3224,7 +4574,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Worcester Veld Reserve",
-                  "text": "Worcester Veld Reserve is a nature reserve in Worcester.",
+                  "text": "A protected veld reserve with typical Cape vegetation near Worcester.",
                   "category": "natural",
                   "coords": [
                         19.470416,
@@ -3233,7 +4583,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Voortrekker",
-                  "text": "Voortrekker is a historical monument located in the city of Worcester.",
+                  "text": "A stone monument commemorating the Voortrekker pioneers in Worcester.",
                   "category": "historical",
                   "coords": [
                         19.443552,
@@ -3298,7 +4648,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Greystone Game Park",
-                  "text": "Der Greystone Game Park ist ein Naturschutzgebiet in Oudtshoorn.",
+                  "text": "Ein privates Wildreservat in der Kleinen Karoo mit Springböcken und Kudus.",
                   "category": "natural",
                   "coords": [
                         22.220278,
@@ -3307,7 +4657,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Le Roux Town House",
-                  "text": "Das Le Roux Town House ist ein Museum in Oudtshoorn.",
+                  "text": "Ein restauriertes viktorianisches Stadthausmuseum zur Oudtshoorn-Straußenfeder-Ära.",
                   "category": "museum",
                   "coords": [
                         22.20596,
@@ -3316,7 +4666,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Cango Wildlife Ranch",
-                  "text": "Die Cango Wildlife Ranch ist ein Zoo in Oudtshoorn.",
+                  "text": "Ein Wildtier-Schutzgebiet mit Geparden-Begegnungen und Krokodilfütterungen nahe den Cango-Höhlen.",
                   "category": "family",
                   "coords": [
                         22.213558,
@@ -3325,7 +4675,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "St Jude's Anglican Church",
-                  "text": "Die St Jude's Anglican Church ist eine Kultstätte in Oudtshoorn.",
+                  "text": "Eine 1863 erbaute anglikanische Kirche in Oudtshoorn.",
                   "category": "religious",
                   "coords": [
                         22.203194,
@@ -3345,7 +4695,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Greystone Game Park",
-                  "text": "A Greystone Game Park egy természetvédelmi terület Oudtshoornban.",
+                  "text": "Magán vadaspark a Kis-Karoo-ban springbokokkal és kudu antilopokkal.",
                   "category": "natural",
                   "coords": [
                         22.220278,
@@ -3354,7 +4704,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Le Roux Town House",
-                  "text": "A Le Roux Town House egy múzeum Oudtshoorn városában.",
+                  "text": "Helyreállított viktoriánus városi házmúzeum Oudtshoorn strucctoll-korszakáról.",
                   "category": "museum",
                   "coords": [
                         22.20596,
@@ -3363,7 +4713,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Cango Wildlife Ranch",
-                  "text": "A Cango Wildlife Ranch egy állatkert Oudtshoornban.",
+                  "text": "Vadvédelmi központ gepárd interakciókkal és krokodiletetésekkel a Cango-barlangok közelében.",
                   "category": "family",
                   "coords": [
                         22.213558,
@@ -3372,7 +4722,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "St Jude's Anglican Church",
-                  "text": "A St Jude's Anglican Church egy istentiszteleti hely Oudtshoorn városában.",
+                  "text": "Egy 1863-ban épült anglikán templom Oudtshoornban.",
                   "category": "religious",
                   "coords": [
                         22.203194,
@@ -3392,7 +4742,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Greystone Game Park",
-                  "text": "Greystone Game Park este o rezervație naturală în Oudtshoorn.",
+                  "text": "Un rezervație privată de vânat în Klein Karoo, cu springbok și kudu.",
                   "category": "natural",
                   "coords": [
                         22.220278,
@@ -3401,7 +4751,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Le Roux Town House",
-                  "text": "Le Roux Town House este un muzeu din Oudtshoorn.",
+                  "text": "Un muzeu într-o casă victoriană restaurată, dedicat epocii penelor de struț din Oudtshoorn.",
                   "category": "museum",
                   "coords": [
                         22.20596,
@@ -3410,7 +4760,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Cango Wildlife Ranch",
-                  "text": "Cango Wildlife Ranch este o grădină zoologică din Oudtshoorn.",
+                  "text": "Un sanctuar de animale sălbatice cu interacțiuni cu gheparzi și hrăniri de crocodili lângă Peșterile Cango.",
                   "category": "family",
                   "coords": [
                         22.213558,
@@ -3419,7 +4769,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "St Jude's Anglican Church",
-                  "text": "St Jude's Anglican Church este un lăcaș de cult în Oudtshoorn.",
+                  "text": "O biserică anglicană construită în 1863 în Oudtshoorn.",
                   "category": "religious",
                   "coords": [
                         22.203194,
@@ -3439,7 +4789,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Greystone Game Park",
-                  "text": "The Greystone Game Park is a nature reserve in Oudtshoorn.",
+                  "text": "A private game park in the Klein Karoo, home to springbok and kudu.",
                   "category": "natural",
                   "coords": [
                         22.220278,
@@ -3448,7 +4798,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Le Roux Town House",
-                  "text": "The Le Roux Town House is a museum located in Oudtshoorn.",
+                  "text": "A restored Victorian townhouse museum showcasing Oudtshoorn's ostrich-feather boom era.",
                   "category": "museum",
                   "coords": [
                         22.20596,
@@ -3457,7 +4807,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Cango Wildlife Ranch",
-                  "text": "The Cango Wildlife Ranch is a zoo in Oudtshoorn.",
+                  "text": "A wildlife sanctuary featuring cheetah interactions and crocodile feeding near the Cango Caves.",
                   "category": "family",
                   "coords": [
                         22.213558,
@@ -3466,7 +4816,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "St Jude's Anglican Church",
-                  "text": "St Jude's Anglican Church is a place of worship in Oudtshoorn.",
+                  "text": "An Anglican church built in 1863 in Oudtshoorn.",
                   "category": "religious",
                   "coords": [
                         22.203194,
@@ -3566,7 +4916,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Pledge Nature Reserve",
-                  "text": "Das Pledge Nature Reserve ist ein kleines Naturschutzgebiet in Knysna.",
+                  "text": "Ein Küsten-Naturschutzgebiet, das Milkwood-Wald und den Knysna-Seepferdchen-Lebensraum schützt.",
                   "category": "natural",
                   "coords": [
                         23.043359,
@@ -3575,7 +4925,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "The Motorcycle Room",
-                  "text": "Der Motorcycle Room ist ein Museum in Knysna.",
+                  "text": "Ein Museum mit einer privaten Sammlung von Vintage- und klassischen Motorrädern in Knysna.",
                   "category": "museum",
                   "coords": [
                         23.048187,
@@ -3584,7 +4934,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Eastford Private Nature Reserve",
-                  "text": "Das Eastford Private Nature Reserve ist ein Naturschutzgebiet in Knysna.",
+                  "text": "Ein privates Naturschutzgebiet mit Küsten-Fynbos und Waldwegen nahe Eastford in Knysna.",
                   "category": "natural",
                   "coords": [
                         23.016103,
@@ -3593,7 +4943,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Skuilte Private Nature Reserve",
-                  "text": "Das Skuilte Private Nature Reserve ist ein Naturschutzgebiet in der Umgebung von Knysna.",
+                  "text": "Ein privates Naturschutzgebiet am Knysna-Fluss mit Feuchtgebieten und Vogelbeobachtung.",
                   "category": "natural",
                   "coords": [
                         23.03376,
@@ -3602,7 +4952,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Knysna Waterfront",
-                  "text": "Die Knysna Waterfront ist eine lokale Attraktion in Knysna.",
+                  "text": "Ein belebter Uferkomplex mit Restaurants, Geschäften und Blick auf die Knysna Heads.",
                   "category": "landmark",
                   "coords": [
                         23.045064,
@@ -3611,7 +4961,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Friday Market",
-                  "text": "Der Friday Market ist eine Attraktion in Knysna.",
+                  "text": "Ein wöchentlicher Abendmarkt am Freitag mit lokalen Handwerken, Produkten und Straßenessen an der Knysna Waterfront.",
                   "category": "landmark",
                   "coords": [
                         23.020574,
@@ -3620,7 +4970,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Featherbed Tours",
-                  "text": "Featherbed Tours ist eine beliebte Attraktion in Knysna.",
+                  "text": "Eine Boots- und Fahrzeugtour zum Featherbed Nature Reserve auf dem Westkopf von Knysna.",
                   "category": "landmark",
                   "coords": [
                         23.040892,
@@ -3631,7 +4981,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Pledge Nature Reserve",
-                  "text": "A Pledge Nature Reserve egy kis természetvédelmi terület Knysnában.",
+                  "text": "Parti természetvédelmi terület, amely a milkwood erdőt és a knysnai csikóhal élőhelyét védi.",
                   "category": "natural",
                   "coords": [
                         23.043359,
@@ -3640,7 +4990,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "The Motorcycle Room",
-                  "text": "A Motorcycle Room egy múzeum Knysnában.",
+                  "text": "Múzeum, amely privát gyűjteményt mutat be a veterán és klasszikus motorkerékpárokból Knysnában.",
                   "category": "museum",
                   "coords": [
                         23.048187,
@@ -3649,7 +4999,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Eastford Private Nature Reserve",
-                  "text": "Az Eastford Private Nature Reserve egy természetvédelmi terület Knysnában.",
+                  "text": "Magán természetvédelmi terület tengerparti fynbossal és erdei ösvényekkel Knysna Eastford negyede közelében.",
                   "category": "natural",
                   "coords": [
                         23.016103,
@@ -3658,7 +5008,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Skuilte Private Nature Reserve",
-                  "text": "A Skuilte Private Nature Reserve egy természetvédelmi terület Knysna környékén.",
+                  "text": "Magán természetvédelmi terület a Knysna-folyó mentén, vizes élőhelyekkel és madármegfigyelési lehetőségekkel.",
                   "category": "natural",
                   "coords": [
                         23.03376,
@@ -3667,7 +5017,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Knysna Waterfront",
-                  "text": "A Knysna Waterfront egy helyi látványosság Knysnában.",
+                  "text": "Nyüzsgő vízparti komplexum éttermekkel, üzletekkel és kilátással a Knysna-fokokra.",
                   "category": "landmark",
                   "coords": [
                         23.045064,
@@ -3676,7 +5026,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Friday Market",
-                  "text": "A Friday Market egy látványosság Knysnában.",
+                  "text": "Heti péntek esti piac helyi kézműves termékekkel, terményekkel és utcai ételekkel a knysnai vízparton.",
                   "category": "landmark",
                   "coords": [
                         23.020574,
@@ -3685,7 +5035,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Featherbed Tours",
-                  "text": "A Featherbed Tours egy népszerű látványosság Knysnában.",
+                  "text": "Hajó- és járműtúra a Featherbed Természetvédelmi Területre a knysnai nyugati-fokon.",
                   "category": "landmark",
                   "coords": [
                         23.040892,
@@ -3696,7 +5046,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Pledge Nature Reserve",
-                  "text": "Rezervația Naturală Pledge este o mică rezervație naturală din Knysna.",
+                  "text": "O rezervație naturală de coastă care protejează pădurea de milkwood și habitatul căluțului de mare din Knysna.",
                   "category": "natural",
                   "coords": [
                         23.043359,
@@ -3705,7 +5055,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "The Motorcycle Room",
-                  "text": "The Motorcycle Room este un muzeu din Knysna.",
+                  "text": "Un muzeu care găzduiește o colecție privată de motociclete vintage și clasice în Knysna.",
                   "category": "museum",
                   "coords": [
                         23.048187,
@@ -3714,7 +5064,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Eastford Private Nature Reserve",
-                  "text": "Rezervația naturală privată Eastford este o rezervație naturală din Knysna.",
+                  "text": "O rezervație naturală privată cu fynbos de coastă și trasee forestiere lângă Eastford, Knysna.",
                   "category": "natural",
                   "coords": [
                         23.016103,
@@ -3723,7 +5073,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Skuilte Private Nature Reserve",
-                  "text": "Rezervația naturală privată Skuilte este o rezervație naturală din zona Knysna.",
+                  "text": "O rezervație naturală privată pe râul Knysna, cu zone umede și observarea păsărilor.",
                   "category": "natural",
                   "coords": [
                         23.03376,
@@ -3732,7 +5082,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Knysna Waterfront",
-                  "text": "Knysna Waterfront este o atracție locală în Knysna.",
+                  "text": "Un complex animat pe malul apei, cu restaurante, magazine și vedere către Capurile Knysna.",
                   "category": "landmark",
                   "coords": [
                         23.045064,
@@ -3741,7 +5091,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Friday Market",
-                  "text": "Friday Market este o atracție din Knysna.",
+                  "text": "O piață săptămânală vineri seara, cu meșteșuguri locale, produse și mâncare stradală la Knysna Waterfront.",
                   "category": "landmark",
                   "coords": [
                         23.020574,
@@ -3750,7 +5100,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Featherbed Tours",
-                  "text": "Featherbed Tours este o atracție populară din Knysna.",
+                  "text": "Un tur cu barca și vehicul către Rezervația Naturală Featherbed de pe Capul de Vest al Knysnei.",
                   "category": "landmark",
                   "coords": [
                         23.040892,
@@ -3761,7 +5111,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Pledge Nature Reserve",
-                  "text": "Pledge Nature Reserve is a designated nature reserve situated within Knysna.",
+                  "text": "A coastal nature reserve protecting milkwood forest and Knysna seahorse habitat.",
                   "category": "natural",
                   "coords": [
                         23.043359,
@@ -3770,7 +5120,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "The Motorcycle Room",
-                  "text": "The Motorcycle Room is a museum located in Knysna.",
+                  "text": "A museum housing a private collection of vintage and classic motorcycles in Knysna.",
                   "category": "museum",
                   "coords": [
                         23.048187,
@@ -3779,7 +5129,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Eastford Private Nature Reserve",
-                  "text": "Eastford Private Nature Reserve is a nature reserve in Knysna.",
+                  "text": "A private nature reserve with coastal fynbos and forest trails near Knysna's Eastford area.",
                   "category": "natural",
                   "coords": [
                         23.016103,
@@ -3788,7 +5138,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Skuilte Private Nature Reserve",
-                  "text": "Skuilte Private Nature Reserve is a nature reserve located in Knysna.",
+                  "text": "A private nature reserve on the Knysna River with wetland habitats and birdwatching.",
                   "category": "natural",
                   "coords": [
                         23.03376,
@@ -3797,7 +5147,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Knysna Waterfront",
-                  "text": "Knysna Waterfront is a local attraction situated in Knysna.",
+                  "text": "A bustling waterfront complex with shops, restaurants, and views of the Knysna Heads.",
                   "category": "landmark",
                   "coords": [
                         23.045064,
@@ -3806,7 +5156,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Friday Market",
-                  "text": "Friday Market is a local market attraction in Knysna.",
+                  "text": "A weekly Friday evening market offering local crafts, produce, and street food at the Knysna Waterfront.",
                   "category": "landmark",
                   "coords": [
                         23.020574,
@@ -3815,7 +5165,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Featherbed Tours",
-                  "text": "Featherbed Tours is a popular attraction situated in Knysna.",
+                  "text": "A boat-and-vehicle tour to the Featherbed Nature Reserve on the Western Head of Knysna.",
                   "category": "landmark",
                   "coords": [
                         23.040892,
@@ -3867,7 +5217,412 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     },
   },
   {
-    id: "southafrica-mossel-bay-cities-v2", "sights": {"de": [{"name": "Maritime Museum", "text": "Das Maritime Museum in Mossel Bay ist Teil des bekannten Bartolomeu Dias Museum Complex.", "category": "museum", "coords": [22.141812, -34.179955]}, {"name": "Madiba Beach (former Santos Beach)", "text": "An der malerischen Bucht von Mossel Bay gelegen, ist der Madiba Beach ein atemberaubend schöner Sandstrand. Die Umgebung ist bemerkenswert ruhig und sicher, weshalb sie besonders bei Erholungssuchenden für sanfte Küstenausflüge hoch im Kurs steht. Besucher schätzen das ruhige Wasser zum Schwimmen, sonnen sich im Sand oder beobachten die Landschaft. Ein entspannter Nachmittag an diesem Ort ist eine wahre Wohltat für Körper und Geist.", "category": "recreational", "coords": [22.138063, -34.177062]}, {"name": "Cape St Blaize", "text": "Cape St Blaize ist ein historischer Leuchtturm in Mossel Bay.", "category": "landmark", "coords": [22.156373, -34.186112]}, {"name": "The Shark Lab", "text": "Das Shark Lab ist ein Aquarium in Mossel Bay.", "category": "family", "coords": [22.159071, -34.186043]}, {"name": "De Bakke Water Trough", "text": "Der De Bakke Water Trough ist eine Attraktion in Mossel Bay.", "category": "landmark", "coords": [22.129497, -34.173041]}, {"name": "Graves", "text": "Graves ist eine Attraktion in Mossel Bay.", "category": "landmark", "coords": [22.143167, -34.194325]}, {"name": "White Shark Africa", "text": "White Shark Africa ist eine Attraktion in Mossel Bay.", "category": "landmark", "coords": [22.143075, -34.18052]}, {"name": "Love Cross Viewpoint", "text": "Der Love Cross Viewpoint ist ein Aussichtspunkt in Mossel Bay.", "category": "natural", "coords": [22.153722, -34.185121]}, {"name": "Aquada de São Bras", "text": "Aquada de São Bras ist eine Attraktion in Mossel Bay.", "category": "landmark", "coords": [22.140626, -34.179906]}, {"name": "The Padrão", "text": "The Padrão ist eine Attraktion in Mossel Bay.", "category": "landmark", "coords": [22.139295, -34.180018]}, {"name": "Historical Cemetery", "text": "Der Historical Cemetery ist eine historische Attraktion in Mossel Bay.", "category": "landmark", "coords": [22.153742, -34.181159]}], "hu": [{"name": "Maritime Museum", "text": "A mossel bay-i Maritime Museum a híres Bartolomeu Dias Múzeumkomplexum része.", "category": "museum", "coords": [22.141812, -34.179955]}, {"name": "Madiba Beach (former Santos Beach)", "text": "A Mossel Bay festői öbölrészét díszítő Madiba Beach az aranyhomok egy igazán lenyűgöző szakasza. A környezet figyelemre méltóan nyugodt és biztonságos, így a gyengéd tengerparti menedéket keresők nagyra értékelik. A látogatók rendkívül élvezhetik a békés fürdőzési lehetőségeket, napozhatnak a homokon, vagy csendben figyelhetik a tájat. Egy pihentető délután ezen a helyszínen igazi felüdülés a testnek és a léleknek.", "category": "recreational", "coords": [22.138063, -34.177062]}, {"name": "Cape St Blaize", "text": "A Cape St Blaize egy történelmi világítótorony Mossel Bay városában.", "category": "landmark", "coords": [22.156373, -34.186112]}, {"name": "The Shark Lab", "text": "A The Shark Lab egy akvárium Mossel Bay városában.", "category": "family", "coords": [22.159071, -34.186043]}, {"name": "De Bakke Water Trough", "text": "A De Bakke Water Trough egy látványosság Mossel Bay-ben.", "category": "landmark", "coords": [22.129497, -34.173041]}, {"name": "Graves", "text": "A Graves egy látványosság Mossel Bay-ben.", "category": "landmark", "coords": [22.143167, -34.194325]}, {"name": "White Shark Africa", "text": "A White Shark Africa egy látványosság Mossel Bay városában.", "category": "landmark", "coords": [22.143075, -34.18052]}, {"name": "Love Cross Viewpoint", "text": "A Love Cross Viewpoint egy kilátó Mossel Bay-ben.", "category": "natural", "coords": [22.153722, -34.185121]}, {"name": "Aquada de São Bras", "text": "Az Aquada de São Bras egy látványosság Mossel Bay városában.", "category": "landmark", "coords": [22.140626, -34.179906]}, {"name": "The Padrão", "text": "A The Padrão egy látványosság Mossel Bay-ben.", "category": "landmark", "coords": [22.139295, -34.180018]}, {"name": "Historical Cemetery", "text": "A Historical Cemetery egy történelmi látványosság Mossel Bay városában.", "category": "landmark", "coords": [22.153742, -34.181159]}], "ro": [{"name": "Maritime Museum", "text": "Maritime Museum din Mossel Bay face parte din renumitul Complex Muzeal Bartolomeu Dias.", "category": "museum", "coords": [22.141812, -34.179955]}, {"name": "Madiba Beach (former Santos Beach)", "text": "Decorând zona pitorească a golfului din Mossel Bay, Madiba Beach este o întindere cu adevărat uimitoare de nisip. Mediul este remarcabil de liniștit și sigur, foarte apreciat de cei care caută un refugiu de coastă blând. Vizitatorii se pot bucura din plin de condițiile calme de înot, pot face plajă pe nisip sau pot privi în liniște peisajul. O după-amiază relaxantă în această locație este un adevărat răsfăț pentru minte și corp.", "category": "recreational", "coords": [22.138063, -34.177062]}, {"name": "Cape St Blaize", "text": "Cape St Blaize este un far istoric situat în Mossel Bay.", "category": "landmark", "coords": [22.156373, -34.186112]}, {"name": "The Shark Lab", "text": "The Shark Lab este un acvariu din Mossel Bay.", "category": "family", "coords": [22.159071, -34.186043]}, {"name": "De Bakke Water Trough", "text": "De Bakke Water Trough este o atracție în Mossel Bay.", "category": "landmark", "coords": [22.129497, -34.173041]}, {"name": "Graves", "text": "Graves este o atracție din Mossel Bay.", "category": "landmark", "coords": [22.143167, -34.194325]}, {"name": "White Shark Africa", "text": "White Shark Africa este o atracție în Mossel Bay.", "category": "landmark", "coords": [22.143075, -34.18052]}, {"name": "Love Cross Viewpoint", "text": "Love Cross Viewpoint este un punct de belvedere în Mossel Bay.", "category": "natural", "coords": [22.153722, -34.185121]}, {"name": "Aquada de São Bras", "text": "Aquada de São Bras este o atracție în Mossel Bay.", "category": "landmark", "coords": [22.140626, -34.179906]}, {"name": "The Padrão", "text": "The Padrão este o atracție în Mossel Bay.", "category": "landmark", "coords": [22.139295, -34.180018]}, {"name": "Historical Cemetery", "text": "Historical Cemetery este o atracție în Mossel Bay.", "category": "landmark", "coords": [22.153742, -34.181159]}], "en": [{"name": "Maritime Museum", "text": "The Maritime Museum in Mossel Bay is part of the well-known Bartolomeu Dias Museum Complex.", "category": "museum", "coords": [22.141812, -34.179955]}, {"name": "Madiba Beach (former Santos Beach)", "text": "Gracing the scenic bay area in Mossel Bay, Madiba Beach is a truly stunning stretch of sand. The environment is remarkably tranquil and safe, highly praised by those seeking a gentle, stress-free coastal retreat. Visitors can greatly enjoy the calm swimming conditions, sunbathe on the sand, or peacefully watch the scenery. A relaxing afternoon spent at this location is a wonderful treat for the mind and body.", "category": "recreational", "coords": [22.138063, -34.177062]}, {"name": "Cape St Blaize", "text": "Cape St Blaize is a historic lighthouse located in Mossel Bay.", "category": "landmark", "coords": [22.156373, -34.186112]}, {"name": "The Shark Lab", "text": "The Shark Lab is an aquarium located in Mossel Bay.", "category": "family", "coords": [22.159071, -34.186043]}, {"name": "De Bakke Water Trough", "text": "The De Bakke Water Trough is an attraction in Mossel Bay.", "category": "landmark", "coords": [22.129497, -34.173041]}, {"name": "Graves", "text": "Graves is an attraction in Mossel Bay.", "category": "landmark", "coords": [22.143167, -34.194325]}, {"name": "White Shark Africa", "text": "White Shark Africa is an attraction in Mossel Bay.", "category": "landmark", "coords": [22.143075, -34.18052]}, {"name": "Love Cross Viewpoint", "text": "The Love Cross Viewpoint is a viewpoint in Mossel Bay.", "category": "natural", "coords": [22.153722, -34.185121]}, {"name": "Aquada de São Bras", "text": "Aquada de São Bras is an attraction in Mossel Bay.", "category": "landmark", "coords": [22.140626, -34.179906]}, {"name": "The Padrão", "text": "The Padrão is an attraction in Mossel Bay.", "category": "landmark", "coords": [22.139295, -34.180018]}, {"name": "Historical Cemetery", "text": "The Historical Cemetery is an attraction in Mossel Bay.", "category": "landmark", "coords": [22.153742, -34.181159]}]},
+    id: "southafrica-mossel-bay-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maritime Museum",
+                  "text": "Das Maritime Museum in Mossel Bay ist Teil des bekannten Bartolomeu Dias Museum Complex.",
+                  "category": "museum",
+                  "coords": [
+                        22.141812,
+                        -34.179955
+                  ]
+            },
+            {
+                  "name": "Madiba Beach (former Santos Beach)",
+                  "text": "An der malerischen Bucht von Mossel Bay gelegen, ist der Madiba Beach ein atemberaubend schöner Sandstrand. Die Umgebung ist bemerkenswert ruhig und sicher, weshalb sie besonders bei Erholungssuchenden für sanfte Küstenausflüge hoch im Kurs steht. Besucher schätzen das ruhige Wasser zum Schwimmen, sonnen sich im Sand oder beobachten die Landschaft. Ein entspannter Nachmittag an diesem Ort ist eine wahre Wohltat für Körper und Geist.",
+                  "category": "recreational",
+                  "coords": [
+                        22.138063,
+                        -34.177062
+                  ]
+            },
+            {
+                  "name": "Cape St Blaize",
+                  "text": "Cape St Blaize ist ein historischer Leuchtturm in Mossel Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        22.156373,
+                        -34.186112
+                  ]
+            },
+            {
+                  "name": "The Shark Lab",
+                  "text": "Ein interaktives Meereszentrum im Hafen von Mossel Bay, in dem Haie und Rochen beobachtet werden können.",
+                  "category": "family",
+                  "coords": [
+                        22.159071,
+                        -34.186043
+                  ]
+            },
+            {
+                  "name": "De Bakke Water Trough",
+                  "text": "Ein historischer steinerner Wassertrog aus dem 19. Jahrhundert am De Bakke Strand in Mossel Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        22.129497,
+                        -34.173041
+                  ]
+            },
+            {
+                  "name": "Graves",
+                  "text": "Eine historische Grabstätte aus der Frühzeit von Mossel Bay, mit Gräbern von Siedlern und Seeleuten.",
+                  "category": "landmark",
+                  "coords": [
+                        22.143167,
+                        -34.194325
+                  ]
+            },
+            {
+                  "name": "White Shark Africa",
+                  "text": "Ein Käfigtauchunternehmen vor der Küste von Mossel Bay, bekannt für Begegnungen mit dem Weißen Hai.",
+                  "category": "landmark",
+                  "coords": [
+                        22.143075,
+                        -34.18052
+                  ]
+            },
+            {
+                  "name": "Love Cross Viewpoint",
+                  "text": "Ein Aussichtspunkt mit einem Gedenkkreuz mit Blick auf die Küste von Mossel Bay.",
+                  "category": "natural",
+                  "coords": [
+                        22.153722,
+                        -34.185121
+                  ]
+            },
+            {
+                  "name": "Aquada de São Bras",
+                  "text": "Ein portugiesischer Stein-Aquädukt aus dem 16. Jahrhundert, der Mossel Bay mit Frischwasser versorgt.",
+                  "category": "landmark",
+                  "coords": [
+                        22.140626,
+                        -34.179906
+                  ]
+            },
+            {
+                  "name": "The Padrão",
+                  "text": "Eine Nachbildung von Bartolomeu Dias' Padrão (Steinkreuz) zur Markierung seiner Landung von 1488 in Mossel Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        22.139295,
+                        -34.180018
+                  ]
+            },
+            {
+                  "name": "Historical Cemetery",
+                  "text": "Der historische Friedhof von Mossel Bay, Ruhestätte früher Siedler und portugiesischer Seeleute.",
+                  "category": "landmark",
+                  "coords": [
+                        22.153742,
+                        -34.181159
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maritime Museum",
+                  "text": "A mossel bay-i Maritime Museum a híres Bartolomeu Dias Múzeumkomplexum része.",
+                  "category": "museum",
+                  "coords": [
+                        22.141812,
+                        -34.179955
+                  ]
+            },
+            {
+                  "name": "Madiba Beach (former Santos Beach)",
+                  "text": "A Mossel Bay festői öbölrészét díszítő Madiba Beach az aranyhomok egy igazán lenyűgöző szakasza. A környezet figyelemre méltóan nyugodt és biztonságos, így a gyengéd tengerparti menedéket keresők nagyra értékelik. A látogatók rendkívül élvezhetik a békés fürdőzési lehetőségeket, napozhatnak a homokon, vagy csendben figyelhetik a tájat. Egy pihentető délután ezen a helyszínen igazi felüdülés a testnek és a léleknek.",
+                  "category": "recreational",
+                  "coords": [
+                        22.138063,
+                        -34.177062
+                  ]
+            },
+            {
+                  "name": "Cape St Blaize",
+                  "text": "A Cape St Blaize egy történelmi világítótorony Mossel Bay városában.",
+                  "category": "landmark",
+                  "coords": [
+                        22.156373,
+                        -34.186112
+                  ]
+            },
+            {
+                  "name": "The Shark Lab",
+                  "text": "Interaktív tengeri központ a Mossel Bay-i kikötőben, ahol cápákat és rájákat lehet megfigyelni.",
+                  "category": "family",
+                  "coords": [
+                        22.159071,
+                        -34.186043
+                  ]
+            },
+            {
+                  "name": "De Bakke Water Trough",
+                  "text": "Történelmi kő vízvályú a 19. századból a De Bakke strandon, Mossel Bay-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        22.129497,
+                        -34.173041
+                  ]
+            },
+            {
+                  "name": "Graves",
+                  "text": "Történelmi temetkezési hely Mossel Bay korai időszakából, telepesek és tengerészek sírjaival.",
+                  "category": "landmark",
+                  "coords": [
+                        22.143167,
+                        -34.194325
+                  ]
+            },
+            {
+                  "name": "White Shark Africa",
+                  "text": "Kalitkás merülési vállalkozás Mossel Bay partjainál, híres nagy fehér cápás találkozásokról.",
+                  "category": "landmark",
+                  "coords": [
+                        22.143075,
+                        -34.18052
+                  ]
+            },
+            {
+                  "name": "Love Cross Viewpoint",
+                  "text": "Kilátóhely emlékkereszttel, rálátással Mossel Bay partvonalára.",
+                  "category": "natural",
+                  "coords": [
+                        22.153722,
+                        -34.185121
+                  ]
+            },
+            {
+                  "name": "Aquada de São Bras",
+                  "text": "16. századi portugál kő vízvezeték, amely friss vizet szállított Mossel Bay-be.",
+                  "category": "landmark",
+                  "coords": [
+                        22.140626,
+                        -34.179906
+                  ]
+            },
+            {
+                  "name": "The Padrão",
+                  "text": "Bartolomeu Dias padrãojának (kőkereszt) másolata, amely 1488-as partraszállását jelöli Mossel Bay-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        22.139295,
+                        -34.180018
+                  ]
+            },
+            {
+                  "name": "Historical Cemetery",
+                  "text": "Mossel Bay történelmi temetője, a korai telepesek és portugál tengerészek nyughelye.",
+                  "category": "landmark",
+                  "coords": [
+                        22.153742,
+                        -34.181159
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maritime Museum",
+                  "text": "Maritime Museum din Mossel Bay face parte din renumitul Complex Muzeal Bartolomeu Dias.",
+                  "category": "museum",
+                  "coords": [
+                        22.141812,
+                        -34.179955
+                  ]
+            },
+            {
+                  "name": "Madiba Beach (former Santos Beach)",
+                  "text": "Decorând zona pitorească a golfului din Mossel Bay, Madiba Beach este o întindere cu adevărat uimitoare de nisip. Mediul este remarcabil de liniștit și sigur, foarte apreciat de cei care caută un refugiu de coastă blând. Vizitatorii se pot bucura din plin de condițiile calme de înot, pot face plajă pe nisip sau pot privi în liniște peisajul. O după-amiază relaxantă în această locație este un adevărat răsfăț pentru minte și corp.",
+                  "category": "recreational",
+                  "coords": [
+                        22.138063,
+                        -34.177062
+                  ]
+            },
+            {
+                  "name": "Cape St Blaize",
+                  "text": "Cape St Blaize este un far istoric situat în Mossel Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        22.156373,
+                        -34.186112
+                  ]
+            },
+            {
+                  "name": "The Shark Lab",
+                  "text": "Un centru marin interactiv în portul Mossel Bay, unde vizitatorii pot observa rechini și raze.",
+                  "category": "family",
+                  "coords": [
+                        22.159071,
+                        -34.186043
+                  ]
+            },
+            {
+                  "name": "De Bakke Water Trough",
+                  "text": "Un jgheab de apă istoric din piatră, din secolul al XIX-lea, la Plaja De Bakke din Mossel Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        22.129497,
+                        -34.173041
+                  ]
+            },
+            {
+                  "name": "Graves",
+                  "text": "Un loc de înmormântare istoric din perioada timpurie a orașului Mossel Bay, cu morminte ale coloniștilor și marinarilor.",
+                  "category": "landmark",
+                  "coords": [
+                        22.143167,
+                        -34.194325
+                  ]
+            },
+            {
+                  "name": "White Shark Africa",
+                  "text": "O companie de scufundări în cușcă în largul coastei Mossel Bay, renumită pentru întâlnirile cu rechini albi mari.",
+                  "category": "landmark",
+                  "coords": [
+                        22.143075,
+                        -34.18052
+                  ]
+            },
+            {
+                  "name": "Love Cross Viewpoint",
+                  "text": "Un punct de belvedere cu o cruce memorială, având vedere spre coasta orașului Mossel Bay.",
+                  "category": "natural",
+                  "coords": [
+                        22.153722,
+                        -34.185121
+                  ]
+            },
+            {
+                  "name": "Aquada de São Bras",
+                  "text": "Un apeduct de piatră portughez din secolul al XVI-lea, care alimenta cu apă proaspătă orașul Mossel Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        22.140626,
+                        -34.179906
+                  ]
+            },
+            {
+                  "name": "The Padrão",
+                  "text": "O replică a padrãoului (cruce de piatră) lui Bartolomeu Dias, marcând debarcarea sa din 1488 la Mossel Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        22.139295,
+                        -34.180018
+                  ]
+            },
+            {
+                  "name": "Historical Cemetery",
+                  "text": "Cimitirul istoric al orașului Mossel Bay, locul de odihnă al coloniștilor timpurii și marinarilor portughezi.",
+                  "category": "landmark",
+                  "coords": [
+                        22.153742,
+                        -34.181159
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maritime Museum",
+                  "text": "The Maritime Museum in Mossel Bay is part of the well-known Bartolomeu Dias Museum Complex.",
+                  "category": "museum",
+                  "coords": [
+                        22.141812,
+                        -34.179955
+                  ]
+            },
+            {
+                  "name": "Madiba Beach (former Santos Beach)",
+                  "text": "Gracing the scenic bay area in Mossel Bay, Madiba Beach is a truly stunning stretch of sand. The environment is remarkably tranquil and safe, highly praised by those seeking a gentle, stress-free coastal retreat. Visitors can greatly enjoy the calm swimming conditions, sunbathe on the sand, or peacefully watch the scenery. A relaxing afternoon spent at this location is a wonderful treat for the mind and body.",
+                  "category": "recreational",
+                  "coords": [
+                        22.138063,
+                        -34.177062
+                  ]
+            },
+            {
+                  "name": "Cape St Blaize",
+                  "text": "Cape St Blaize is a historic lighthouse located in Mossel Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        22.156373,
+                        -34.186112
+                  ]
+            },
+            {
+                  "name": "The Shark Lab",
+                  "text": "An interactive marine centre at Mossel Bay Harbour where visitors can observe sharks and rays.",
+                  "category": "family",
+                  "coords": [
+                        22.159071,
+                        -34.186043
+                  ]
+            },
+            {
+                  "name": "De Bakke Water Trough",
+                  "text": "A historic stone water trough from the 19th century at De Bakke Beach in Mossel Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        22.129497,
+                        -34.173041
+                  ]
+            },
+            {
+                  "name": "Graves",
+                  "text": "A historic burial ground from Mossel Bay's early days, with graves of settlers and sailors.",
+                  "category": "landmark",
+                  "coords": [
+                        22.143167,
+                        -34.194325
+                  ]
+            },
+            {
+                  "name": "White Shark Africa",
+                  "text": "A shark cage diving company off Mossel Bay, famous for great white shark encounters.",
+                  "category": "landmark",
+                  "coords": [
+                        22.143075,
+                        -34.18052
+                  ]
+            },
+            {
+                  "name": "Love Cross Viewpoint",
+                  "text": "A viewpoint with a memorial cross overlooking the Mossel Bay coastline.",
+                  "category": "natural",
+                  "coords": [
+                        22.153722,
+                        -34.185121
+                  ]
+            },
+            {
+                  "name": "Aquada de São Bras",
+                  "text": "A 16th-century Portuguese stone aqueduct supplying fresh water to Mossel Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        22.140626,
+                        -34.179906
+                  ]
+            },
+            {
+                  "name": "The Padrão",
+                  "text": "A replica of Bartolomeu Dias' padrão (stone cross) marking his 1488 landing at Mossel Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        22.139295,
+                        -34.180018
+                  ]
+            },
+            {
+                  "name": "Historical Cemetery",
+                  "text": "The historic Mossel Bay Cemetery, resting place of early settlers and Portuguese sailors.",
+                  "category": "landmark",
+                  "coords": [
+                        22.153742,
+                        -34.181159
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ZA-WC",
     coords: [22.145, -34.1831],
@@ -3959,7 +5714,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Namakwaland Museum",
-                  "text": "Das Namakwaland Museum ist ein Museum in Springbok.",
+                  "text": "Ein Regionalmuseum, das die Bergbaugeschichte und die einheimische Flora Namaqualands in Springbok zeigt.",
                   "category": "museum",
                   "coords": [
                         17.880742,
@@ -3968,7 +5723,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Die Klipkoppie",
-                  "text": "Die Klipkoppie ist ein Denkmal in Springbok.",
+                  "text": "Ein historischer Granithügel, der als Aussichtspunkt im Zweiten Burenkrieg diente, nahe Springbok.",
                   "category": "historical",
                   "coords": [
                         17.883354,
@@ -3979,7 +5734,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Namakwaland Museum",
-                  "text": "A Namakwaland Museum egy múzeum Springbokban.",
+                  "text": "Regionális múzeum, amely bemutatja Namaqualand bányászattörténetét és őshonos növényvilágát Springbokban.",
                   "category": "museum",
                   "coords": [
                         17.880742,
@@ -3988,7 +5743,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Die Klipkoppie",
-                  "text": "A Die Klipkoppie egy emlékmű Springbok városában.",
+                  "text": "Történelmi gránitdomb, amely kilátóként szolgált a második búr háború alatt, Springbok közelében.",
                   "category": "historical",
                   "coords": [
                         17.883354,
@@ -3999,7 +5754,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Namakwaland Museum",
-                  "text": "Namakwaland Museum este un muzeu din Springbok.",
+                  "text": "Un muzeu regional care prezintă istoria mineritului și flora indigenă din Namaqualand, în Springbok.",
                   "category": "museum",
                   "coords": [
                         17.880742,
@@ -4008,7 +5763,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Die Klipkoppie",
-                  "text": "Die Klipkoppie este un monument din Springbok.",
+                  "text": "Un deal istoric de granit, folosit ca punct de observație în timpul celui de-al Doilea Război al Burilor, lângă Springbok.",
                   "category": "historical",
                   "coords": [
                         17.883354,
@@ -4019,7 +5774,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Namakwaland Museum",
-                  "text": "Namakwaland Museum is a local museum in Springbok.",
+                  "text": "A regional museum displaying Namaqualand's mining history and indigenous flora in Springbok.",
                   "category": "museum",
                   "coords": [
                         17.880742,
@@ -4028,7 +5783,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Die Klipkoppie",
-                  "text": "Die Klipkoppie is a monument located in Springbok.",
+                  "text": "A historic granite kopje used as a lookout during the Second Boer War, near Springbok.",
                   "category": "historical",
                   "coords": [
                         17.883354,
@@ -4128,7 +5883,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Billy Duvenhage Nature Reserve",
-                  "text": "Das Billy Duvenhage Nature Reserve ist ein Naturschutzgebiet in Kuruman.",
+                  "text": "Ein Naturschutzgebiet, das die Feuchtgebiete und Quellvegetation rund um das Auge von Kuruman bewahrt.",
                   "category": "natural",
                   "coords": [
                         23.395507,
@@ -4139,7 +5894,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Billy Duvenhage Nature Reserve",
-                  "text": "A Billy Duvenhage Nature Reserve egy természetvédelmi terület Kuruman városában.",
+                  "text": "Természetvédelmi terület, amely megőrzi a kurumani szem körüli vizes élőhelyeket és forrásnövényzetet.",
                   "category": "natural",
                   "coords": [
                         23.395507,
@@ -4150,7 +5905,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Billy Duvenhage Nature Reserve",
-                  "text": "Billy Duvenhage Nature Reserve este o rezervație naturală din Kuruman.",
+                  "text": "O rezervație naturală care păstrează zonele umede și vegetația de izvor din jurul Ochiului Kurumanului.",
                   "category": "natural",
                   "coords": [
                         23.395507,
@@ -4161,7 +5916,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Billy Duvenhage Nature Reserve",
-                  "text": "Billy Duvenhage Nature Reserve is a protected natural environment located in Kuruman.",
+                  "text": "A nature reserve preserving the wetlands and spring-fed vegetation around the Eye of Kuruman.",
                   "category": "natural",
                   "coords": [
                         23.395507,
@@ -4261,7 +6016,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Colesberg Kemper Museum",
-                  "text": "Das Colesberg Kemper Museum ist ein Museum in Colesberg.",
+                  "text": "Ein Museum in einem Kirchengebäude aus dem 19. Jahrhundert, das die Pioniergeschichte von Colesberg zeigt.",
                   "category": "museum",
                   "coords": [
                         25.097011,
@@ -4270,7 +6025,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Queen Victoria Diamond Jubilee Lighting",
-                  "text": "Die Queen Victoria Diamond Jubilee Lighting ist eine Attraktion in Colesberg.",
+                  "text": "Beleuchtungsanlage zum Diamantenen Thronjubiläum von Königin Victoria, errichtet am 20. Juni 1897 in Colesberg.",
                   "category": "landmark",
                   "coords": [
                         25.096012,
@@ -4281,7 +6036,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Colesberg Kemper Museum",
-                  "text": "A Colesberg Kemper Museum egy múzeum Colesberg városában.",
+                  "text": "Múzeum egy 19. századi templomépületben, amely Colesberg határmenti történelmét mutatja be.",
                   "category": "museum",
                   "coords": [
                         25.097011,
@@ -4290,7 +6045,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Queen Victoria Diamond Jubilee Lighting",
-                  "text": "A Queen Victoria Diamond Jubilee Lighting egy látványosság Colesbergben.",
+                  "text": "Világítási rendszer, amelyet Viktória királynő gyémánt jubileumára állítottak 1897. június 20-án Colesbergben.",
                   "category": "landmark",
                   "coords": [
                         25.096012,
@@ -4301,7 +6056,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Colesberg Kemper Museum",
-                  "text": "Colesberg Kemper Museum este un muzeu din Colesberg.",
+                  "text": "Un muzeu găzduit într-o clădire de biserică din secolul al XIX-lea, care prezintă istoria de frontieră a orașului Colesberg.",
                   "category": "museum",
                   "coords": [
                         25.097011,
@@ -4310,7 +6065,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Queen Victoria Diamond Jubilee Lighting",
-                  "text": "Queen Victoria Diamond Jubilee Lighting este o atracție în Colesberg.",
+                  "text": "Instalație de iluminat ridicată pentru Jubileul de Diamant al Reginei Victoria la 20 iunie 1897 în Colesberg.",
                   "category": "landmark",
                   "coords": [
                         25.096012,
@@ -4321,7 +6076,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Colesberg Kemper Museum",
-                  "text": "The Colesberg Kemper Museum is a museum located in Colesberg.",
+                  "text": "A museum housed in a 19th-century church building, showcasing Colesberg's frontier history.",
                   "category": "museum",
                   "coords": [
                         25.097011,
@@ -4330,7 +6085,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Queen Victoria Diamond Jubilee Lighting",
-                  "text": "The Queen Victoria Diamond Jubilee Lighting is an attraction in Colesberg.",
+                  "text": "Lighting installation erected for Queen Victoria's Diamond Jubilee on 20 June 1897 in Colesberg.",
                   "category": "landmark",
                   "coords": [
                         25.096012,
@@ -4386,7 +6141,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Historic Steam Engine",
-                  "text": "Die Historic Steam Engine ist eine Touristenattraktion in Vryburg.",
+                  "text": "Eine erhaltene Dampflokomotive aus dem frühen 20. Jahrhundert, ausgestellt in der Hauptstraße von Vryburg.",
                   "category": "landmark",
                   "coords": [
                         24.735971,
@@ -4397,7 +6152,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Historic Steam Engine",
-                  "text": "A Historic Steam Engine egy turisztikai látványosság Vryburg városában.",
+                  "text": "Egy megőrzött gőzmozdony a 20. század elejéről, kiállítva Vryburg főutcáján.",
                   "category": "landmark",
                   "coords": [
                         24.735971,
@@ -4408,7 +6163,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Historic Steam Engine",
-                  "text": "Historic Steam Engine este o atracție turistică situată în Vryburg.",
+                  "text": "O locomotivă cu abur păstrată de la începutul secolului al XX-lea, expusă pe strada principală din Vryburg.",
                   "category": "landmark",
                   "coords": [
                         24.735971,
@@ -4419,7 +6174,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Historic Steam Engine",
-                  "text": "Historic Steam Engine is a tourist attraction located in Vryburg.",
+                  "text": "A preserved steam locomotive from the early 20th century, displayed on Vryburg's main street.",
                   "category": "landmark",
                   "coords": [
                         24.735971,
@@ -4475,7 +6230,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Goudkop Museum",
-                  "text": "Das Goudkop Museum ist ein lokales Museum in Klerksdorp.",
+                  "text": "Ein Museum, das der Goldminengeschichte der Region Klerksdorp gewidmet ist und in einem ehemaligen Minenbüro untergebracht ist.",
                   "category": "museum",
                   "coords": [
                         26.685124,
@@ -4484,7 +6239,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Klerksdorp Museum",
-                  "text": "Das Klerksdorp Museum ist ein Museum in Klerksdorp.",
+                  "text": "Das Stadtmuseum von Klerksdorp mit Exponaten zu lokalen Fossilien und kulturellen Artefakten.",
                   "category": "museum",
                   "coords": [
                         26.66957,
@@ -4495,7 +6250,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Goudkop Museum",
-                  "text": "A Goudkop Museum egy helyi múzeum Klerksdorpban.",
+                  "text": "Múzeum, amely a klerksdorpi régió aranybányászatának történetét mutatja be, egy egykori bányaépületben.",
                   "category": "museum",
                   "coords": [
                         26.685124,
@@ -4504,7 +6259,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Klerksdorp Museum",
-                  "text": "A Klerksdorp Museum egy múzeum Klerksdorp városában.",
+                  "text": "Klerksdorp városi múzeuma, amely helyi fosszíliákat és kulturális tárgyakat mutat be.",
                   "category": "museum",
                   "coords": [
                         26.66957,
@@ -4515,7 +6270,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Goudkop Museum",
-                  "text": "Goudkop Museum este un muzeu local din Klerksdorp.",
+                  "text": "Un muzeu dedicat istoriei mineritului de aur din regiunea Klerksdorp, găzduit într-un fost birou minier.",
                   "category": "museum",
                   "coords": [
                         26.685124,
@@ -4524,7 +6279,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Klerksdorp Museum",
-                  "text": "Klerksdorp Museum este un muzeu situat în Klerksdorp.",
+                  "text": "Muzeul municipal din Klerksdorp, care expune fosile locale și artefacte culturale.",
                   "category": "museum",
                   "coords": [
                         26.66957,
@@ -4535,7 +6290,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Goudkop Museum",
-                  "text": "Goudkop Museum is a local museum exhibiting in Klerksdorp.",
+                  "text": "A museum dedicated to the gold mining history of the Klerksdorp region, housed in a former mine office.",
                   "category": "museum",
                   "coords": [
                         26.685124,
@@ -4544,7 +6299,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Klerksdorp Museum",
-                  "text": "Klerksdorp Museum is a museum operating in Klerksdorp.",
+                  "text": "The municipal museum of Klerksdorp, exhibiting local fossils and cultural artefacts.",
                   "category": "museum",
                   "coords": [
                         26.66957,
@@ -4609,7 +6364,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Snowflake Factory",
-                  "text": "Die Snowflake Factory ist eine Attraktion in Potchefstroom.",
+                  "text": "Ein historisches Mühlengebäude, einst die Snowflake-Fabrik, heute ein Wahrzeichen in Potchefstroom.",
                   "category": "landmark",
                   "coords": [
                         27.089143,
@@ -4618,7 +6373,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Old Fort",
-                  "text": "Das Old Fort ist eine historische Attraktion in Potchefstroom.",
+                  "text": "Ein Fort aus dem 19. Jahrhundert, das während des Anglo-Buren-Krieges genutzt wurde, in Potchefstroom.",
                   "category": "landmark",
                   "coords": [
                         27.086617,
@@ -4627,7 +6382,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Hervormde kerk Die Wilge",
-                  "text": "Die Hervormde kerk Die Wilge ist eine bekannte Reformierte Kirche in Potchefstroom.",
+                  "text": "Weiße niederländisch-reformierte Kirche mit einem Kirchturm im Vorort Die Wilge von Potchefstroom.",
                   "category": "religious",
                   "coords": [
                         27.098105,
@@ -4647,7 +6402,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Snowflake Factory",
-                  "text": "A Snowflake Factory egy látványosság Potchefstroom városában.",
+                  "text": "Történelmi malomépület, egykor a Snowflake gyár, ma Potchefstroom nevezetessége.",
                   "category": "landmark",
                   "coords": [
                         27.089143,
@@ -4656,7 +6411,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Old Fort",
-                  "text": "Az Old Fort egy történelmi látványosság Potchefstroomban.",
+                  "text": "Egy 19. századi erőd, amelyet az angol-búr háború alatt használtak Potchefstroomban.",
                   "category": "landmark",
                   "coords": [
                         27.086617,
@@ -4665,7 +6420,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Hervormde kerk Die Wilge",
-                  "text": "A Hervormde kerk Die Wilge egy ismert református templom Potchefstroom városában.",
+                  "text": "Fehér holland református templom toronnyal Potchefstroom Die Wilge negyedében.",
                   "category": "religious",
                   "coords": [
                         27.098105,
@@ -4685,7 +6440,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Snowflake Factory",
-                  "text": "Snowflake Factory este o atracție în Potchefstroom.",
+                  "text": "O clădire istorică de moară, fostă fabrică Snowflake, acum un reper în Potchefstroom.",
                   "category": "landmark",
                   "coords": [
                         27.089143,
@@ -4694,7 +6449,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Old Fort",
-                  "text": "Old Fort este o atracție din Potchefstroom.",
+                  "text": "Un fort din secolul al XIX-lea, folosit în timpul Războiului Anglo-Bur, în Potchefstroom.",
                   "category": "landmark",
                   "coords": [
                         27.086617,
@@ -4703,7 +6458,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Hervormde kerk Die Wilge",
-                  "text": "Hervormde kerk Die Wilge este o biserică reformată cunoscută din Potchefstroom.",
+                  "text": "Biserică reformată olandeză albă cu un turn în suburbia Die Wilge a Potchefstroomului.",
                   "category": "religious",
                   "coords": [
                         27.098105,
@@ -4723,7 +6478,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Snowflake Factory",
-                  "text": "The Snowflake Factory is an attraction in Potchefstroom.",
+                  "text": "A historic mill building, once the Snowflake brand factory, now a landmark in Potchefstroom.",
                   "category": "landmark",
                   "coords": [
                         27.089143,
@@ -4732,7 +6487,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Old Fort",
-                  "text": "The Old Fort is an attraction in Potchefstroom.",
+                  "text": "A 19th-century fort used during the Anglo-Boer War, located in Potchefstroom.",
                   "category": "landmark",
                   "coords": [
                         27.086617,
@@ -4741,7 +6496,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Hervormde kerk Die Wilge",
-                  "text": "The Hervormde kerk Die Wilge is a prominent Reformed church in Potchefstroom.",
+                  "text": "White Dutch Reformed church with a steeple in the Die Wilge suburb of Potchefstroom.",
                   "category": "religious",
                   "coords": [
                         27.098105,
@@ -4841,7 +6596,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Welkom city museum",
-                  "text": "Das Welkom city museum ist ein Museum in Welkom.",
+                  "text": "Ein Museum in Welkom, das die Goldrausch-Geschichte und Gründung der Stadt dokumentiert.",
                   "category": "museum",
                   "coords": [
                         26.737515,
@@ -4850,7 +6605,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Ernest Oppenheimer Theatre",
-                  "text": "Das Ernest Oppenheimer Theatre ist ein Theater in Welkom.",
+                  "text": "Ein nach Ernest Oppenheimer benanntes Theater mit markanter moderner Architektur in Welkom.",
                   "category": "cultural",
                   "coords": [
                         26.738952,
@@ -4861,7 +6616,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Welkom city museum",
-                  "text": "A Welkom city museum egy múzeum Welkom városában.",
+                  "text": "Múzeum Welkom városában, amely az aranyláz történetét és a város alapítását mutatja be.",
                   "category": "museum",
                   "coords": [
                         26.737515,
@@ -4870,7 +6625,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Ernest Oppenheimer Theatre",
-                  "text": "Az Ernest Oppenheimer Theatre egy színház Welkom városában.",
+                  "text": "Ernest Oppenheimerről elnevezett színház jellegzetes modernista építészettel Welkomban.",
                   "category": "cultural",
                   "coords": [
                         26.738952,
@@ -4881,7 +6636,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Welkom city museum",
-                  "text": "Welkom city museum este un muzeu în Welkom.",
+                  "text": "Un muzeu în Welkom care documentează istoria goanei după aur și întemeierea orașului.",
                   "category": "museum",
                   "coords": [
                         26.737515,
@@ -4890,7 +6645,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Ernest Oppenheimer Theatre",
-                  "text": "Ernest Oppenheimer Theatre este un teatru din Welkom.",
+                  "text": "Un teatru de arte performative numit după Ernest Oppenheimer, cu un design modernist distinctiv în Welkom.",
                   "category": "cultural",
                   "coords": [
                         26.738952,
@@ -4901,7 +6656,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Welkom city museum",
-                  "text": "Welkom city museum is a museum located in Welkom.",
+                  "text": "A museum in Welkom chronicling the city's gold rush heritage and founding.",
                   "category": "museum",
                   "coords": [
                         26.737515,
@@ -4910,7 +6665,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Ernest Oppenheimer Theatre",
-                  "text": "Ernest Oppenheimer Theatre is a theatre in Welkom.",
+                  "text": "A performing arts theatre named after Ernest Oppenheimer, featuring a distinctive modernist design in Welkom.",
                   "category": "cultural",
                   "coords": [
                         26.738952,
@@ -4966,7 +6721,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Sarel Cilliers Monument",
-                  "text": "Das Sarel Cilliers Monument ist ein Denkmal in Kroonstad.",
+                  "text": "Ein Steinmonument zu Ehren des Voortrekker-Führers Sarel Cilliers auf dem Stadtplatz von Kroonstad.",
                   "category": "historical",
                   "coords": [
                         27.234554,
@@ -4977,7 +6732,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Sarel Cilliers Monument",
-                  "text": "A Sarel Cilliers Monument egy emlékmű Kroonstad városában.",
+                  "text": "Kőemlékmű a voortrekker vezér Sarel Cilliers tiszteletére Kroonstad főterén.",
                   "category": "historical",
                   "coords": [
                         27.234554,
@@ -4988,7 +6743,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Sarel Cilliers Monument",
-                  "text": "Sarel Cilliers Monument este un monument în Kroonstad.",
+                  "text": "Un monument de piatră în cinstea conducătorului Voortrekker Sarel Cilliers, în piața orașului Kroonstad.",
                   "category": "historical",
                   "coords": [
                         27.234554,
@@ -4999,7 +6754,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Sarel Cilliers Monument",
-                  "text": "The Sarel Cilliers Monument is a monument in Kroonstad.",
+                  "text": "A stone monument honoring Voortrekker leader Sarel Cilliers, located in Kroonstad's town square.",
                   "category": "historical",
                   "coords": [
                         27.234554,
@@ -5099,7 +6854,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Bongani Mabaso Ecopark",
-                  "text": "Der Bongani Mabaso Ecopark ist ein Naturschutzgebiet in Sasolburg.",
+                  "text": "Ein städtischer Ökopark in Sasolburg mit Wanderwegen und Vogelbeobachtung am Vaal River.",
                   "category": "natural",
                   "coords": [
                         27.832586,
@@ -5110,7 +6865,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Bongani Mabaso Ecopark",
-                  "text": "A Bongani Mabaso Ecopark egy természetvédelmi terület Sasolburgban.",
+                  "text": "Városi ökopark Sasolburgban, sétányokkal és madármegfigyeléssel a Vaal folyó mentén.",
                   "category": "natural",
                   "coords": [
                         27.832586,
@@ -5121,7 +6876,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Bongani Mabaso Ecopark",
-                  "text": "Bongani Mabaso Ecopark este o rezervație naturală în Sasolburg.",
+                  "text": "Un parc ecologic urban în Sasolburg, cu trasee de mers pe jos și observarea păsărilor de-a lungul râului Vaal.",
                   "category": "natural",
                   "coords": [
                         27.832586,
@@ -5132,7 +6887,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Bongani Mabaso Ecopark",
-                  "text": "Bongani Mabaso Ecopark is a nature reserve in Sasolburg.",
+                  "text": "An urban ecological park in Sasolburg with walking trails and birdwatching along the Vaal River.",
                   "category": "natural",
                   "coords": [
                         27.832586,
@@ -5285,7 +7040,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Newcastle Magistrates Court",
-                  "text": "Der Newcastle Magistrates Court ist ein Denkmal in Newcastle.",
+                  "text": "Ein historisches Sandsteingebäude, das seit dem späten 19. Jahrhundert als Amtsgericht von Newcastle dient.",
                   "category": "historical",
                   "coords": [
                         29.93199,
@@ -5305,7 +7060,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Newcastle Magistrates Court",
-                  "text": "A Newcastle Magistrates Court egy emlékmű Newcastle városában.",
+                  "text": "Történelmi homokkő épület, amely a 19. század vége óta szolgál Newcastle bíróságaként.",
                   "category": "historical",
                   "coords": [
                         29.93199,
@@ -5325,7 +7080,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Newcastle Magistrates Court",
-                  "text": "Newcastle Magistrates Court este un monument din Newcastle.",
+                  "text": "O clădire istorică de gresie care servește ca tribunal al orașului Newcastle de la sfârșitul secolului al XIX-lea.",
                   "category": "historical",
                   "coords": [
                         29.93199,
@@ -5345,7 +7100,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Newcastle Magistrates Court",
-                  "text": "Newcastle Magistrates Court is a monument in Newcastle.",
+                  "text": "A historic sandstone building serving as Newcastle's magistrate court since the late 19th century.",
                   "category": "historical",
                   "coords": [
                         29.93199,
@@ -5401,7 +7156,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Richards Bay",
-                  "text": "Richards Bay ist eine Bucht in der gleichnamigen Stadt Richards Bay.",
+                  "text": "Großer natürlicher Hafen und Hafenstadt am Indischen Ozean, bekannt als Kohleexport-Terminal.",
                   "category": "landmark",
                   "coords": [
                         32.058333,
@@ -5412,7 +7167,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Richards Bay",
-                  "text": "Richards Bay egy öböl a névadó Richards Bay városában.",
+                  "text": "Nagy természetes kikötő és város az Indiai-óceán partján, szénexport-termináljáról ismert.",
                   "category": "landmark",
                   "coords": [
                         32.058333,
@@ -5423,7 +7178,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Richards Bay",
-                  "text": "Richards Bay este un golf situat în orașul cu același nume, Richards Bay.",
+                  "text": "Port natural mare și oraș portuar pe Oceanul Indian, cunoscut pentru terminalul de export de cărbune.",
                   "category": "landmark",
                   "coords": [
                         32.058333,
@@ -5434,7 +7189,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Richards Bay",
-                  "text": "Richards Bay is a bay located in the city of Richards Bay.",
+                  "text": "Large natural harbour and port city on the Indian Ocean, known for its coal export terminal.",
                   "category": "landmark",
                   "coords": [
                         32.058333,
@@ -5578,7 +7333,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Sandspit Bay",
-                  "text": "Sandspit Bay ist eine Bucht in Port Shepstone.",
+                  "text": "Sandige Meeresbucht an der Küste von KwaZulu-Natal nahe Port Shepstone.",
                   "category": "landmark",
                   "coords": [
                         30.460547,
@@ -5587,7 +7342,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Station Bay",
-                  "text": "Station Bay ist eine Bucht in Port Shepstone.",
+                  "text": "Kleine Bucht nahe der Mündung des Mzimkhulu-Flusses in Port Shepstone.",
                   "category": "landmark",
                   "coords": [
                         30.458443,
@@ -5596,7 +7351,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Whale Deck - Umtentweni Conservancy",
-                  "text": "Das Whale Deck - Umtentweni Conservancy ist ein Aussichtspunkt in Port Shepstone.",
+                  "text": "Eine hölzerne Aussichtsplattform an der Küste von Umtentweni, ideal zur Beobachtung wandernder Südkaper.",
                   "category": "natural",
                   "coords": [
                         30.463493,
@@ -5607,7 +7362,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Sandspit Bay",
-                  "text": "A Sandspit Bay egy öböl Port Shepstone városában.",
+                  "text": "Homokos tengeri öböl KwaZulu-Natal partján, Port Shepstone közelében.",
                   "category": "landmark",
                   "coords": [
                         30.460547,
@@ -5616,7 +7371,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Station Bay",
-                  "text": "A Station Bay egy öböl Port Shepstone-ban.",
+                  "text": "Kis öböl a Mzimkhulu folyó torkolata közelében Port Shepstone-ban.",
                   "category": "landmark",
                   "coords": [
                         30.458443,
@@ -5625,7 +7380,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Whale Deck - Umtentweni Conservancy",
-                  "text": "A Whale Deck - Umtentweni Conservancy egy kilátó Port Shepstone városában.",
+                  "text": "Fából készült kilátó a parton Umtentweni közelében, ideális a vándorló déli bálnák megfigyelésére.",
                   "category": "natural",
                   "coords": [
                         30.463493,
@@ -5636,7 +7391,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Sandspit Bay",
-                  "text": "Sandspit Bay este un golf din Port Shepstone.",
+                  "text": "Golf nisipos pe coasta KwaZulu-Natal, lângă Port Shepstone.",
                   "category": "landmark",
                   "coords": [
                         30.460547,
@@ -5645,7 +7400,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Station Bay",
-                  "text": "Station Bay este un golf situat în Port Shepstone.",
+                  "text": "Golf mic lângă gura râului Mzimkhulu din Port Shepstone.",
                   "category": "landmark",
                   "coords": [
                         30.458443,
@@ -5654,7 +7409,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Whale Deck - Umtentweni Conservancy",
-                  "text": "Whale Deck - Umtentweni Conservancy este un punct de belvedere în Port Shepstone.",
+                  "text": "O platformă de observație din lemn pe coasta Umtentweni, ideală pentru observarea balenelor australice migratoare.",
                   "category": "natural",
                   "coords": [
                         30.463493,
@@ -5665,7 +7420,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Sandspit Bay",
-                  "text": "Sandspit Bay is a bay in Port Shepstone.",
+                  "text": "Sandy marine bay on the KwaZulu-Natal coast near Port Shepstone.",
                   "category": "landmark",
                   "coords": [
                         30.460547,
@@ -5674,7 +7429,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Station Bay",
-                  "text": "Station Bay is a bay located in Port Shepstone.",
+                  "text": "Small bay near the mouth of the Mzimkhulu River in Port Shepstone.",
                   "category": "landmark",
                   "coords": [
                         30.458443,
@@ -5683,7 +7438,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Whale Deck - Umtentweni Conservancy",
-                  "text": "The Whale Deck - Umtentweni Conservancy is a viewpoint in Port Shepstone.",
+                  "text": "A wooden viewing deck on the coast at Umtentweni, ideal for watching migrating Southern Right Whales.",
                   "category": "natural",
                   "coords": [
                         30.463493,
@@ -5783,7 +7538,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Nduli Nature Reserve",
-                  "text": "Das Nduli Nature Reserve ist ein Naturschutzgebiet in Mthatha.",
+                  "text": "Ein Naturschutzgebiet, das die einheimischen Wälder und Grasländer am Stadtrand von Mthatha schützt.",
                   "category": "natural",
                   "coords": [
                         28.752146,
@@ -5792,7 +7547,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Nelson Mandela Museum",
-                  "text": "Das Nelson Mandela Museum ist ein Museum in Mthatha.",
+                  "text": "Das Nelson-Mandela-Museum in Mthatha zeigt Ausstellungen zu seinem frühen Leben, untergebracht im ehemaligen Bhunga-Gebäude.",
                   "category": "museum",
                   "coords": [
                         28.787363,
@@ -5801,7 +7556,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Grosvenor Hotel",
-                  "text": "Das Grosvenor Hotel sind Ruinen in Mthatha.",
+                  "text": "Ein historisches Kolonialhotel in Mthatha, bekannt für seine viktorianische Architektur und als Zwischenstopp für Reisende.",
                   "category": "historical",
                   "coords": [
                         28.789598,
@@ -5812,7 +7567,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Nduli Nature Reserve",
-                  "text": "A Nduli Nature Reserve egy természetvédelmi terület Mthatha területén.",
+                  "text": "Természetvédelmi terület, amely az őshonos erdőket és füves területeket védi Mthatha külterületén.",
                   "category": "natural",
                   "coords": [
                         28.752146,
@@ -5821,7 +7576,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Nelson Mandela Museum",
-                  "text": "A Nelson Mandela Museum egy múzeum Mthatha városában.",
+                  "text": "A Nelson Mandela Múzeum Mthathában kiállításokat mutat be korai életéről, a volt Bhunga épületben.",
                   "category": "museum",
                   "coords": [
                         28.787363,
@@ -5830,7 +7585,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Grosvenor Hotel",
-                  "text": "A Grosvenor Hotel egy rom Mthatha területén.",
+                  "text": "Történelmi gyarmati szálloda Mthathában, ismert viktoriánus építészetéről és utazók pihenőhelyeként.",
                   "category": "historical",
                   "coords": [
                         28.789598,
@@ -5841,7 +7596,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Nduli Nature Reserve",
-                  "text": "Nduli Nature Reserve este o rezervație naturală în Mthatha.",
+                  "text": "O rezervație naturală care protejează pădurile indigene și pajiștile de la periferia orașului Mthatha.",
                   "category": "natural",
                   "coords": [
                         28.752146,
@@ -5850,7 +7605,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Nelson Mandela Museum",
-                  "text": "Nelson Mandela Museum este un muzeu din Mthatha.",
+                  "text": "Muzeul Nelson Mandela din Mthatha expune aspecte din viața sa timpurie, găzduit în fosta clădire Bhunga.",
                   "category": "museum",
                   "coords": [
                         28.787363,
@@ -5859,7 +7614,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Grosvenor Hotel",
-                  "text": "Grosvenor Hotel este o ruină în Mthatha.",
+                  "text": "Un hotel colonial istoric în Mthatha, cunoscut pentru arhitectura sa victoriană și ca punct de oprire pentru călători.",
                   "category": "historical",
                   "coords": [
                         28.789598,
@@ -5870,7 +7625,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Nduli Nature Reserve",
-                  "text": "Nduli Nature Reserve is a nature reserve in Mthatha.",
+                  "text": "A nature reserve protecting indigenous forests and grasslands on the outskirts of Mthatha.",
                   "category": "natural",
                   "coords": [
                         28.752146,
@@ -5879,7 +7634,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Nelson Mandela Museum",
-                  "text": "Nelson Mandela Museum is a museum in Mthatha.",
+                  "text": "The Nelson Mandela Museum in Mthatha houses exhibits on his early life, housed in the former Bhunga Building.",
                   "category": "museum",
                   "coords": [
                         28.787363,
@@ -5888,7 +7643,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Grosvenor Hotel",
-                  "text": "Grosvenor Hotel is a set of ruins in Mthatha.",
+                  "text": "A historic colonial hotel in Mthatha, known for its Victorian architecture and role as a stopping point for travellers.",
                   "category": "historical",
                   "coords": [
                         28.789598,
@@ -5944,7 +7699,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Fort Selwyn",
-                  "text": "Fort Selwyn ist ein historisches Fort in Makhanda.",
+                  "text": "Sechseckiges Steinfest aus den 1830er Jahren auf dem Gunfire Hill mit Blick auf Makhanda.",
                   "category": "fortress",
                   "coords": [
                         26.518459,
@@ -5953,7 +7708,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Observatory Museum",
-                  "text": "Das Observatory Museum ist ein Museum in Makhanda.",
+                  "text": "Das Observatorium-Museum in Makhanda beherbergt eine viktorianische Camera obscura und astronomische Instrumente.",
                   "category": "museum",
                   "coords": [
                         26.529281,
@@ -5962,7 +7717,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Beethoven Room",
-                  "text": "Der Beethoven Room ist ein Theater in Makhanda.",
+                  "text": "Ein kleiner Museumsraum in Makhanda, der Ludwig van Beethoven gewidmet ist und Erinnerungsstücke und Musikgeschichte zeigt.",
                   "category": "cultural",
                   "coords": [
                         26.523528,
@@ -5971,7 +7726,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "TCP Aquaponics",
-                  "text": "TCP Aquaponics ist ein Aquarium in Makhanda.",
+                  "text": "Eine funktionierende Aquaponik-Farm in Makhanda mit Führungen durch Fisch- und Gemüseanlagen.",
                   "category": "family",
                   "coords": [
                         26.49922,
@@ -5980,7 +7735,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Rhodes University Theatre",
-                  "text": "Das Rhodes University Theatre ist ein Theater in Makhanda.",
+                  "text": "Ein Studententheater an der Rhodes University in Makhanda mit Aufführungen der Universität.",
                   "category": "cultural",
                   "coords": [
                         26.520548,
@@ -5989,7 +7744,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Albany History Museum",
-                  "text": "Das Albany History Museum ist ein Museum in Makhanda.",
+                  "text": "Ein Museum in Makhanda, das die Geschichte der Region Albany dokumentiert.",
                   "category": "museum",
                   "coords": [
                         26.522604,
@@ -5998,7 +7753,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Amazwi South African Museum of Literature",
-                  "text": "Das Amazwi South African Museum of Literature ist ein Museum in Makhanda.",
+                  "text": "Ein Museum in Makhanda, das der südafrikanischen Literatur und Schriftstellern gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         26.509386,
@@ -6007,7 +7762,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Makana Botanical Gardens",
-                  "text": "Die Makana Botanical Gardens sind ein Park in Makhanda, der mit der Rhodes University verbunden ist.",
+                  "text": "Botanischer Garten in Makhanda mit einheimischer Flora der Ostkap-Region.",
                   "category": "park",
                   "coords": [
                         26.52106,
@@ -6027,7 +7782,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Fort Selwyn",
-                  "text": "A Fort Selwyn egy erőd Makhanda városában.",
+                  "text": "Hatszögletű kőerőd az 1830-as évekből a Gunfire Hill-en, Makhanda fölé nézve.",
                   "category": "fortress",
                   "coords": [
                         26.518459,
@@ -6036,7 +7791,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Observatory Museum",
-                  "text": "Az Observatory Museum egy múzeum Makhandában.",
+                  "text": "A Makhanda-i Obszervatórium Múzeum egy viktoriánus camera obscurát és csillagászati eszközöket mutat be.",
                   "category": "museum",
                   "coords": [
                         26.529281,
@@ -6045,7 +7800,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Beethoven Room",
-                  "text": "A Beethoven Room egy színház Makhanda városában.",
+                  "text": "Egy kis múzeumi szoba Makhanda városában, Ludwig van Beethoven emlékére, relikviákkal és zenei történelemmel.",
                   "category": "cultural",
                   "coords": [
                         26.523528,
@@ -6054,7 +7809,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "TCP Aquaponics",
-                  "text": "A TCP Aquaponics egy akvárium Makhandában.",
+                  "text": "Egy működő akvaponikus farm Makhanda városában, hal- és zöldségrendszerek bemutatásával.",
                   "category": "family",
                   "coords": [
                         26.49922,
@@ -6063,7 +7818,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Rhodes University Theatre",
-                  "text": "A Rhodes University Theatre egy színház Makhanda városában.",
+                  "text": "Diákszínház a Rhodes Egyetemen Makhanda városában, egyetemi előadásokkal.",
                   "category": "cultural",
                   "coords": [
                         26.520548,
@@ -6072,7 +7827,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Albany History Museum",
-                  "text": "Az Albany History Museum egy múzeum Makhanda városában.",
+                  "text": "Múzeum Makhanda városában, amely az Albany régió történetét mutatja be.",
                   "category": "museum",
                   "coords": [
                         26.522604,
@@ -6081,7 +7836,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Amazwi South African Museum of Literature",
-                  "text": "Az Amazwi South African Museum of Literature egy múzeum Makhanda területén.",
+                  "text": "Múzeum Makhanda városában, a dél-afrikai irodalomnak és íróknak szentelve.",
                   "category": "museum",
                   "coords": [
                         26.509386,
@@ -6090,7 +7845,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Makana Botanical Gardens",
-                  "text": "A Makana Botanical Gardens egy park Makhandában, amely a Rhodes Egyetemhez kapcsolódik.",
+                  "text": "Botanikus kert Makhanda városában, amely a keleti-fokföldi őshonos növényvilágot mutatja be.",
                   "category": "park",
                   "coords": [
                         26.52106,
@@ -6110,7 +7865,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Fort Selwyn",
-                  "text": "Fort Selwyn este un fort din Makhanda.",
+                  "text": "Fort hexagonal de piatră construit în anii 1830 pe Gunfire Hill, cu vedere spre Makhanda.",
                   "category": "fortress",
                   "coords": [
                         26.518459,
@@ -6119,7 +7874,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Observatory Museum",
-                  "text": "Observatory Museum este un muzeu din Makhanda.",
+                  "text": "Muzeul Observator din Makhanda găzduiește o cameră obscură victoriană și instrumente astronomice.",
                   "category": "museum",
                   "coords": [
                         26.529281,
@@ -6128,7 +7883,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Beethoven Room",
-                  "text": "Beethoven Room este un teatru în Makhanda.",
+                  "text": "O încăpere muzeală mică în Makhanda, dedicată lui Ludwig van Beethoven, cu obiecte memoriale și istorie muzicală.",
                   "category": "cultural",
                   "coords": [
                         26.523528,
@@ -6137,7 +7892,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "TCP Aquaponics",
-                  "text": "TCP Aquaponics este un acvariu din Makhanda.",
+                  "text": "O fermă acvaponică funcțională în Makhanda, cu tururi ale sistemelor de pești și legume.",
                   "category": "family",
                   "coords": [
                         26.49922,
@@ -6146,7 +7901,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Rhodes University Theatre",
-                  "text": "Rhodes University Theatre este un teatru situat în Makhanda.",
+                  "text": "Un teatru studențesc la Universitatea Rhodes din Makhanda, cu producții universitare.",
                   "category": "cultural",
                   "coords": [
                         26.520548,
@@ -6155,7 +7910,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Albany History Museum",
-                  "text": "Albany History Museum este un muzeu situat în Makhanda.",
+                  "text": "Un muzeu în Makhanda care prezintă istoria regiunii Albany.",
                   "category": "museum",
                   "coords": [
                         26.522604,
@@ -6164,7 +7919,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Amazwi South African Museum of Literature",
-                  "text": "Amazwi South African Museum of Literature este un muzeu în Makhanda.",
+                  "text": "Un muzeu în Makhanda dedicat literaturii și scriitorilor sud-africani.",
                   "category": "museum",
                   "coords": [
                         26.509386,
@@ -6173,7 +7928,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Makana Botanical Gardens",
-                  "text": "Makana Botanical Gardens este un parc din Makhanda asociat cu Universitatea Rhodes.",
+                  "text": "Grădini botanice în Makhanda care prezintă flora indigenă din Capul de Est.",
                   "category": "park",
                   "coords": [
                         26.52106,
@@ -6193,7 +7948,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Fort Selwyn",
-                  "text": "Fort Selwyn is a fort located in Makhanda.",
+                  "text": "Hexagonal stone fort built in the 1830s on Gunfire Hill overlooking Makhanda.",
                   "category": "fortress",
                   "coords": [
                         26.518459,
@@ -6202,7 +7957,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Observatory Museum",
-                  "text": "The Observatory Museum is a museum in Makhanda.",
+                  "text": "The Observatory Museum in Makhanda features a Victorian camera obscura and a collection of astronomical instruments.",
                   "category": "museum",
                   "coords": [
                         26.529281,
@@ -6211,7 +7966,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Beethoven Room",
-                  "text": "The Beethoven Room is a theatre in Makhanda.",
+                  "text": "A small museum room in Makhanda devoted to Ludwig van Beethoven, featuring memorabilia and music history.",
                   "category": "cultural",
                   "coords": [
                         26.523528,
@@ -6220,7 +7975,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "TCP Aquaponics",
-                  "text": "TCP Aquaponics is an aquarium in Makhanda.",
+                  "text": "A working aquaponics farm in Makhanda offering tours of its fish and vegetable systems.",
                   "category": "family",
                   "coords": [
                         26.49922,
@@ -6229,7 +7984,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Rhodes University Theatre",
-                  "text": "The Rhodes University Theatre is a theatre located in Makhanda.",
+                  "text": "A student theatre at Rhodes University in Makhanda staging university productions.",
                   "category": "cultural",
                   "coords": [
                         26.520548,
@@ -6238,7 +7993,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Albany History Museum",
-                  "text": "The Albany History Museum is a museum located in Makhanda.",
+                  "text": "A museum in Makhanda tracing the history of the Albany region.",
                   "category": "museum",
                   "coords": [
                         26.522604,
@@ -6247,7 +8002,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Amazwi South African Museum of Literature",
-                  "text": "The Amazwi South African Museum of Literature is a museum situated in Makhanda.",
+                  "text": "A museum in Makhanda dedicated to South African literature and writers.",
                   "category": "museum",
                   "coords": [
                         26.509386,
@@ -6256,7 +8011,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Makana Botanical Gardens",
-                  "text": "Makana Botanical Gardens is a park in Makhanda associated with Rhodes University.",
+                  "text": "Botanical gardens in Makhanda showcasing indigenous Eastern Cape flora.",
                   "category": "park",
                   "coords": [
                         26.52106,
@@ -6321,7 +8076,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Uitenhage Old Railway Station Museum",
-                  "text": "Das Uitenhage Old Railway Station Museum ist ein lokales Museum in Kariega.",
+                  "text": "Ein Museum im ehemaligen Bahnhof von Uitenhage mit Eisenbahn-Erinnerungsstücken.",
                   "category": "museum",
                   "coords": [
                         25.398991,
@@ -6330,7 +8085,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Barkley Theatre",
-                  "text": "Das Barkley Theatre ist ein Theater in der Stadt Kariega.",
+                  "text": "Ein historisches Theater in Kariega mit Live-Aufführungen und Veranstaltungen.",
                   "category": "cultural",
                   "coords": [
                         25.401307,
@@ -6341,7 +8096,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Uitenhage Old Railway Station Museum",
-                  "text": "Az Uitenhage Old Railway Station Museum egy helyi múzeum Kariega városában.",
+                  "text": "Múzeum a régi Uitenhage vasútállomás épületében, vasúti emlékekkel.",
                   "category": "museum",
                   "coords": [
                         25.398991,
@@ -6350,7 +8105,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Barkley Theatre",
-                  "text": "A Barkley Theatre egy színház Kariega városában.",
+                  "text": "Történelmi színház Kariegában, élő előadásokkal és eseményekkel.",
                   "category": "cultural",
                   "coords": [
                         25.401307,
@@ -6361,7 +8116,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Uitenhage Old Railway Station Museum",
-                  "text": "Uitenhage Old Railway Station Museum este un muzeu local situat în Kariega.",
+                  "text": "Un muzeu găzduit în fosta gară Uitenhage, cu obiecte feroviare.",
                   "category": "museum",
                   "coords": [
                         25.398991,
@@ -6370,7 +8125,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Barkley Theatre",
-                  "text": "Barkley Theatre este un teatru din orașul Kariega.",
+                  "text": "Un teatru istoric în Kariega, care găzduiește spectacole și evenimente.",
                   "category": "cultural",
                   "coords": [
                         25.401307,
@@ -6381,7 +8136,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Uitenhage Old Railway Station Museum",
-                  "text": "Uitenhage Old Railway Station Museum is a local museum situated in Kariega.",
+                  "text": "A museum housed in the former Uitenhage railway station, featuring railway memorabilia.",
                   "category": "museum",
                   "coords": [
                         25.398991,
@@ -6390,7 +8145,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Barkley Theatre",
-                  "text": "Barkley Theatre is a performing arts venue located in Kariega.",
+                  "text": "A historic theatre in Kariega hosting live performances and events.",
                   "category": "cultural",
                   "coords": [
                         25.401307,
@@ -6446,7 +8201,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Hester Rupert Art Museum",
-                  "text": "Das Hester Rupert Art Museum ist ein Museum in Graaff-Reinet.",
+                  "text": "Kunstmuseum in Graaff-Reinet, das dem Leben und Werk der Künstlerin Hester Rupert gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         24.535971,
@@ -6455,7 +8210,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Reinet House",
-                  "text": "Das Reinet House ist ein Museum in Graaff-Reinet.",
+                  "text": "Ein Museum in einem restaurierten Haus aus dem 19. Jahrhundert in Graaff Reinet.",
                   "category": "museum",
                   "coords": [
                         24.538791,
@@ -6464,7 +8219,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Ascon Site Office",
-                  "text": "Das Ascon Site Office ist ein Schloss in Graaff-Reinet.",
+                  "text": "Das Standortbüro für die Ruinen des Ascon Castle in Graaff Reinet.",
                   "category": "castle",
                   "coords": [
                         24.537931,
@@ -6473,7 +8228,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Andries Pretorius Memorial",
-                  "text": "Das Andries Pretorius Memorial ist ein Denkmal in Graaff-Reinet.",
+                  "text": "Denkmal in Graaff-Reinet zu Ehren des Voortrekker-Anführers Andries Pretorius.",
                   "category": "historical",
                   "coords": [
                         24.536088,
@@ -6482,7 +8237,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Toposcope",
-                  "text": "Das Toposcope ist ein Aussichtspunkt in Graaff-Reinet.",
+                  "text": "Ein Aussichtspunkt in Graaff Reinet mit einem Toposkop zur Identifizierung entfernter Wahrzeichen.",
                   "category": "natural",
                   "coords": [
                         24.505729,
@@ -6491,7 +8246,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Steam Train",
-                  "text": "Der Steam Train ist eine Attraktion in Graaff-Reinet.",
+                  "text": "Eine erhaltene Dampflokomotive zur öffentlichen Besichtigung in Graaff Reinet.",
                   "category": "landmark",
                   "coords": [
                         24.539727,
@@ -6500,7 +8255,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "War Memorial",
-                  "text": "Das War Memorial ist ein Denkmal in Graaff-Reinet.",
+                  "text": "Ein Kriegerdenkmal in Graaff Reinet zu Ehren der Soldaten der Region.",
                   "category": "historical",
                   "coords": [
                         24.534678,
@@ -6509,7 +8264,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "The Union Monument",
-                  "text": "Das The Union Monument ist ein Denkmal in Graaff-Reinet.",
+                  "text": "Ein Denkmal in Graaff Reinet zur Erinnerung an die Union Südafrikas.",
                   "category": "historical",
                   "coords": [
                         24.531001,
@@ -6518,7 +8273,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Jewish Vendors",
-                  "text": "Jewish Vendors ist ein Denkmal in Graaff-Reinet.",
+                  "text": "Historische jüdische Verkaufsstände im Marktbereich von Graaff Reinet.",
                   "category": "historical",
                   "coords": [
                         24.540475,
@@ -6527,7 +8282,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Dam wall",
-                  "text": "Die Dam wall ist ein Aussichtspunkt in Graaff-Reinet.",
+                  "text": "Die Staumauer des Stausees in Graaff Reinet.",
                   "category": "natural",
                   "coords": [
                         24.526287,
@@ -6536,7 +8291,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Valley of Desolation Yellow Frame",
-                  "text": "Das Valley of Desolation Yellow Frame ist ein Aussichtspunkt in Graaff-Reinet.",
+                  "text": "Ein gelb umrahmter Aussichtspunkt im Tal der Verwüstung, Graaff Reinet.",
                   "category": "natural",
                   "coords": [
                         24.504686,
@@ -6545,7 +8300,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Jan Rupert Art Centre",
-                  "text": "Das Jan Rupert Art Centre ist eine Galerie in Graaff-Reinet.",
+                  "text": "Ein Kunstzentrum in Graaff Reinet mit Galerien und Künstlerateliers.",
                   "category": "museum",
                   "coords": [
                         24.537582,
@@ -6556,7 +8311,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Hester Rupert Art Museum",
-                  "text": "A Hester Rupert Art Museum egy múzeum Graaff-Reinet városában.",
+                  "text": "Művészeti múzeum Graaff-Reinetben, amely Hester Rupert művész életének és munkásságának állít emléket.",
                   "category": "museum",
                   "coords": [
                         24.535971,
@@ -6565,7 +8320,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Reinet House",
-                  "text": "A Reinet House egy múzeum Graaff-Reinet városában.",
+                  "text": "Múzeum egy 19. századi, felújított házban Graaff Reinetben.",
                   "category": "museum",
                   "coords": [
                         24.538791,
@@ -6574,7 +8329,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Ascon Site Office",
-                  "text": "Az Ascon Site Office egy kastély Graaff-Reinet városában.",
+                  "text": "Az Ascon kastély romjainak helyszíni irodája Graaff Reinetben.",
                   "category": "castle",
                   "coords": [
                         24.537931,
@@ -6583,7 +8338,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Andries Pretorius Memorial",
-                  "text": "Az Andries Pretorius Memorial egy emlékmű Graaff-Reinet területén.",
+                  "text": "Emlékmű Graaff-Reinetben, amely a voortrekker vezér, Andries Pretorius előtt tiszteleg.",
                   "category": "historical",
                   "coords": [
                         24.536088,
@@ -6592,7 +8347,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Toposcope",
-                  "text": "A Toposcope egy kilátó Graaff-Reinet városában.",
+                  "text": "Kilátópont Graaff Reinetben, tájékozódási táblával a távoli nevezetességek azonosításához.",
                   "category": "natural",
                   "coords": [
                         24.505729,
@@ -6601,7 +8356,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Steam Train",
-                  "text": "A Steam Train egy látványosság Graaff-Reinet területén.",
+                  "text": "Egy megőrzött gőzmozdony közszemlére Graaff Reinetben.",
                   "category": "landmark",
                   "coords": [
                         24.539727,
@@ -6610,7 +8365,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "War Memorial",
-                  "text": "A War Memorial egy emlékmű Graaff-Reinet városában.",
+                  "text": "Háborús emlékmű Graaff Reinetben, a régió katonáinak tiszteletére.",
                   "category": "historical",
                   "coords": [
                         24.534678,
@@ -6619,7 +8374,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "The Union Monument",
-                  "text": "A The Union Monument egy emlékmű Graaff-Reinet területén.",
+                  "text": "Emlékmű Graaff Reinetben, a Dél-afrikai Unió emlékére.",
                   "category": "historical",
                   "coords": [
                         24.531001,
@@ -6628,7 +8383,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Jewish Vendors",
-                  "text": "A Jewish Vendors egy emlékmű Graaff-Reinet városában.",
+                  "text": "Történelmi zsidó árusító standok Graaff Reinet piaci területén.",
                   "category": "historical",
                   "coords": [
                         24.540475,
@@ -6637,7 +8392,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Dam wall",
-                  "text": "A Dam wall egy kilátó Graaff-Reinet területén.",
+                  "text": "A graaff reineti tározó gátfala.",
                   "category": "natural",
                   "coords": [
                         24.526287,
@@ -6646,7 +8401,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Valley of Desolation Yellow Frame",
-                  "text": "A Valley of Desolation Yellow Frame egy kilátó Graaff-Reinet városában.",
+                  "text": "Sárga keretes kilátópont a Pusztulás Völgyében, Graaff Reinetben.",
                   "category": "natural",
                   "coords": [
                         24.504686,
@@ -6655,7 +8410,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Jan Rupert Art Centre",
-                  "text": "A Jan Rupert Art Centre egy galéria Graaff-Reinet területén.",
+                  "text": "Művészeti központ Graaff Reinetben galériákkal és műtermekkel.",
                   "category": "museum",
                   "coords": [
                         24.537582,
@@ -6666,7 +8421,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Hester Rupert Art Museum",
-                  "text": "Hester Rupert Art Museum este un muzeu din Graaff-Reinet.",
+                  "text": "Muzeu de artă din Graaff Reinet, dedicat vieții și operei artistei Hester Rupert.",
                   "category": "museum",
                   "coords": [
                         24.535971,
@@ -6675,7 +8430,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Reinet House",
-                  "text": "Reinet House este un muzeu din Graaff-Reinet.",
+                  "text": "Un muzeu într-o casă restaurată din secolul al XIX-lea în Graaff Reinet.",
                   "category": "museum",
                   "coords": [
                         24.538791,
@@ -6684,7 +8439,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Ascon Site Office",
-                  "text": "Ascon Site Office este un castel din Graaff-Reinet.",
+                  "text": "Biroul de șantier pentru ruinele Castelului Ascon din Graaff Reinet.",
                   "category": "castle",
                   "coords": [
                         24.537931,
@@ -6693,7 +8448,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Andries Pretorius Memorial",
-                  "text": "Andries Pretorius Memorial este un monument în Graaff-Reinet.",
+                  "text": "Monument în Graaff Reinet care comemorează liderul voortrekker Andries Pretorius.",
                   "category": "historical",
                   "coords": [
                         24.536088,
@@ -6702,7 +8457,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Toposcope",
-                  "text": "Toposcope este un punct de belvedere din Graaff-Reinet.",
+                  "text": "Un punct de belvedere în Graaff Reinet cu un toposcop pentru identificarea reperelor îndepărtate.",
                   "category": "natural",
                   "coords": [
                         24.505729,
@@ -6711,7 +8466,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Steam Train",
-                  "text": "Steam Train este o atracție în Graaff-Reinet.",
+                  "text": "O locomotivă cu abur conservată expusă publicului în Graaff Reinet.",
                   "category": "landmark",
                   "coords": [
                         24.539727,
@@ -6720,7 +8475,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "War Memorial",
-                  "text": "War Memorial este un monument din Graaff-Reinet.",
+                  "text": "Un monument al războiului în Graaff Reinet, în onoarea soldaților din regiune.",
                   "category": "historical",
                   "coords": [
                         24.534678,
@@ -6729,7 +8484,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "The Union Monument",
-                  "text": "The Union Monument este un monument în Graaff-Reinet.",
+                  "text": "Un monument în Graaff Reinet care comemorează Unirea Africii de Sud.",
                   "category": "historical",
                   "coords": [
                         24.531001,
@@ -6738,7 +8493,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Jewish Vendors",
-                  "text": "Jewish Vendors este un monument din Graaff-Reinet.",
+                  "text": "Tarabe istorice evreiești în zona pieței din Graaff Reinet.",
                   "category": "historical",
                   "coords": [
                         24.540475,
@@ -6747,7 +8502,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Dam wall",
-                  "text": "Dam wall este un punct de belvedere în Graaff-Reinet.",
+                  "text": "Zidul barajului rezervorului din Graaff Reinet.",
                   "category": "natural",
                   "coords": [
                         24.526287,
@@ -6756,7 +8511,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Valley of Desolation Yellow Frame",
-                  "text": "Valley of Desolation Yellow Frame este un punct de belvedere din Graaff-Reinet.",
+                  "text": "Un punct de belvedere cu ramă galbenă în Valea Dezolării, Graaff Reinet.",
                   "category": "natural",
                   "coords": [
                         24.504686,
@@ -6765,7 +8520,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Jan Rupert Art Centre",
-                  "text": "Jan Rupert Art Centre este o galerie în Graaff-Reinet.",
+                  "text": "Un centru de artă în Graaff Reinet cu galerii și ateliere de artiști.",
                   "category": "museum",
                   "coords": [
                         24.537582,
@@ -6776,7 +8531,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Hester Rupert Art Museum",
-                  "text": "Hester Rupert Art Museum is a museum located in Graaff-Reinet.",
+                  "text": "Art museum in Graaff Reinet dedicated to the life and work of artist Hester Rupert.",
                   "category": "museum",
                   "coords": [
                         24.535971,
@@ -6785,7 +8540,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Reinet House",
-                  "text": "Reinet House is a museum in Graaff-Reinet.",
+                  "text": "A museum in a restored 19th-century house in Graaff Reinet.",
                   "category": "museum",
                   "coords": [
                         24.538791,
@@ -6794,7 +8549,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Ascon Site Office",
-                  "text": "Ascon Site Office is a castle in Graaff-Reinet.",
+                  "text": "The site office for the Ascon Castle ruins in Graaff Reinet.",
                   "category": "castle",
                   "coords": [
                         24.537931,
@@ -6803,7 +8558,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Andries Pretorius Memorial",
-                  "text": "Andries Pretorius Memorial is a monument in Graaff-Reinet.",
+                  "text": "Monument in Graaff Reinet commemorating Voortrekker leader Andries Pretorius.",
                   "category": "historical",
                   "coords": [
                         24.536088,
@@ -6812,7 +8567,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Toposcope",
-                  "text": "Toposcope is a viewpoint in Graaff-Reinet.",
+                  "text": "A viewpoint in Graaff Reinet with a toposcope identifying distant landmarks.",
                   "category": "natural",
                   "coords": [
                         24.505729,
@@ -6821,7 +8576,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Steam Train",
-                  "text": "Steam Train is an attraction located in Graaff-Reinet.",
+                  "text": "A preserved steam locomotive on public display in Graaff Reinet.",
                   "category": "landmark",
                   "coords": [
                         24.539727,
@@ -6830,7 +8585,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "War Memorial",
-                  "text": "War Memorial is a monument in Graaff-Reinet.",
+                  "text": "A war memorial in Graaff Reinet honouring soldiers from the region.",
                   "category": "historical",
                   "coords": [
                         24.534678,
@@ -6839,7 +8594,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "The Union Monument",
-                  "text": "The Union Monument is a monument in Graaff-Reinet.",
+                  "text": "A monument in Graaff Reinet commemorating the Union of South Africa.",
                   "category": "historical",
                   "coords": [
                         24.531001,
@@ -6848,7 +8603,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Jewish Vendors",
-                  "text": "Jewish Vendors is a monument in Graaff-Reinet.",
+                  "text": "Historic Jewish vendor stalls in the Graaff Reinet market area.",
                   "category": "historical",
                   "coords": [
                         24.540475,
@@ -6857,7 +8612,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Dam wall",
-                  "text": "Dam wall is a viewpoint in Graaff-Reinet.",
+                  "text": "The dam wall of the reservoir in Graaff Reinet.",
                   "category": "natural",
                   "coords": [
                         24.526287,
@@ -6866,7 +8621,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Valley of Desolation Yellow Frame",
-                  "text": "Valley of Desolation Yellow Frame is a viewpoint in Graaff-Reinet.",
+                  "text": "A yellow-framed viewpoint at the Valley of Desolation, Graaff Reinet.",
                   "category": "natural",
                   "coords": [
                         24.504686,
@@ -6875,7 +8630,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Jan Rupert Art Centre",
-                  "text": "Jan Rupert Art Centre is a gallery in Graaff-Reinet.",
+                  "text": "An art centre in Graaff Reinet featuring galleries and artist studios.",
                   "category": "museum",
                   "coords": [
                         24.537582,
@@ -6931,7 +8686,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Queenstown and Frontier Museum",
-                  "text": "Das Queenstown and Frontier Museum ist ein lokales Museum in Komani.",
+                  "text": "Ein Museum in Queenstown, das die Grenzgeschichte der Region dokumentiert.",
                   "category": "museum",
                   "coords": [
                         26.873476,
@@ -6940,7 +8695,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Amphi",
-                  "text": "Amphi ist ein Theater in der Stadt Komani.",
+                  "text": "Ein Freiluft-Amphitheater in Queenstown für Aufführungen und Veranstaltungen.",
                   "category": "cultural",
                   "coords": [
                         26.87686,
@@ -6949,7 +8704,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Lawrance De Lange Nature Reserve",
-                  "text": "Das Lawrance De Lange Nature Reserve ist ein Naturschutzgebiet in Komani.",
+                  "text": "Ein Naturschutzgebiet nahe Queenstown mit Wanderwegen und Wildtieren.",
                   "category": "natural",
                   "coords": [
                         26.874644,
@@ -6958,7 +8713,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Steam Train",
-                  "text": "Der Steam Train ist eine Touristenattraktion in Komani.",
+                  "text": "Eine erhaltene Dampflokomotive zur Besichtigung in Queenstown.",
                   "category": "landmark",
                   "coords": [
                         26.881364,
@@ -6969,7 +8724,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Queenstown and Frontier Museum",
-                  "text": "A Queenstown and Frontier Museum egy helyi múzeum Komani városában.",
+                  "text": "Múzeum Queenstownban, a régió határvidék-történetének bemutatásával.",
                   "category": "museum",
                   "coords": [
                         26.873476,
@@ -6978,7 +8733,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Amphi",
-                  "text": "Az Amphi egy színház Komani városában.",
+                  "text": "Szabadtéri amfiteátrum Queenstownban, előadásoknak és eseményeknek.",
                   "category": "cultural",
                   "coords": [
                         26.87686,
@@ -6987,7 +8742,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Lawrance De Lange Nature Reserve",
-                  "text": "A Lawrance De Lange Nature Reserve egy természetvédelmi terület Komani városában.",
+                  "text": "Természetvédelmi terület Queenstown közelében, túraútvonalakkal és vadon élő állatokkal.",
                   "category": "natural",
                   "coords": [
                         26.874644,
@@ -6996,7 +8751,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Steam Train",
-                  "text": "A Steam Train egy turisztikai látványosság Komani városában.",
+                  "text": "Egy megőrzött gőzmozdony kiállítva Queenstownban.",
                   "category": "landmark",
                   "coords": [
                         26.881364,
@@ -7007,7 +8762,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Queenstown and Frontier Museum",
-                  "text": "Queenstown and Frontier Museum este un muzeu local din Komani.",
+                  "text": "Un muzeu în Queenstown care documentează istoria de frontieră a regiunii.",
                   "category": "museum",
                   "coords": [
                         26.873476,
@@ -7016,7 +8771,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Amphi",
-                  "text": "Amphi este un teatru situat în orașul Komani.",
+                  "text": "Un amfiteatru în aer liber în Queenstown pentru spectacole și evenimente.",
                   "category": "cultural",
                   "coords": [
                         26.87686,
@@ -7025,7 +8780,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Lawrance De Lange Nature Reserve",
-                  "text": "Lawrance De Lange Nature Reserve este o rezervație naturală în Komani.",
+                  "text": "O rezervație naturală lângă Queenstown cu trasee de drumeție și animale sălbatice.",
                   "category": "natural",
                   "coords": [
                         26.874644,
@@ -7034,7 +8789,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Steam Train",
-                  "text": "Steam Train este o atracție turistică situată în Komani.",
+                  "text": "O locomotivă cu abur conservată expusă în Queenstown.",
                   "category": "landmark",
                   "coords": [
                         26.881364,
@@ -7045,7 +8800,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Queenstown and Frontier Museum",
-                  "text": "The Queenstown and Frontier Museum is a local museum in Komani.",
+                  "text": "A museum in Queenstown documenting the frontier history of the region.",
                   "category": "museum",
                   "coords": [
                         26.873476,
@@ -7054,7 +8809,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Amphi",
-                  "text": "Amphi is a theatre located in the city of Komani.",
+                  "text": "An outdoor amphitheatre in Queenstown used for performances and events.",
                   "category": "cultural",
                   "coords": [
                         26.87686,
@@ -7063,7 +8818,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Lawrance De Lange Nature Reserve",
-                  "text": "Lawrance De Lange Nature Reserve is a protected nature reserve in Komani.",
+                  "text": "A nature reserve near Queenstown with hiking trails and wildlife.",
                   "category": "natural",
                   "coords": [
                         26.874644,
@@ -7072,7 +8827,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Steam Train",
-                  "text": "The Steam Train is a tourist attraction located in Komani.",
+                  "text": "A preserved steam locomotive on display in Queenstown.",
                   "category": "landmark",
                   "coords": [
                         26.881364,
@@ -7128,7 +8883,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Buffelspruit Nature Reserve",
-                  "text": "Das Buffelspruit Nature Reserve ist ein Naturschutzgebiet in Aliwal North.",
+                  "text": "Ein Naturschutzgebiet entlang des Buffelspruit-Flusses nahe Aliwal North.",
                   "category": "natural",
                   "coords": [
                         26.722654,
@@ -7137,7 +8892,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Sacred Heart Cath. Cathedral",
-                  "text": "Die Sacred Heart Cath. Cathedral ist eine Kultstätte in Aliwal North.",
+                  "text": "Römisch-katholische Kathedrale in Aliwal North, Sitz der Diözese Aliwal.",
                   "category": "religious",
                   "coords": [
                         26.71354,
@@ -7148,7 +8903,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Buffelspruit Nature Reserve",
-                  "text": "A Buffelspruit Nature Reserve egy természetvédelmi terület Aliwal North városában.",
+                  "text": "Természetvédelmi terület a Buffelspruit folyó mentén Aliwal North közelében.",
                   "category": "natural",
                   "coords": [
                         26.722654,
@@ -7157,7 +8912,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Sacred Heart Cath. Cathedral",
-                  "text": "A Sacred Heart Cath. Cathedral egy vallási épület Aliwal North városában.",
+                  "text": "Római katolikus székesegyház Aliwal Northban, az Aliwal-i egyházmegye székhelye.",
                   "category": "religious",
                   "coords": [
                         26.71354,
@@ -7168,7 +8923,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Buffelspruit Nature Reserve",
-                  "text": "Buffelspruit Nature Reserve este o rezervație naturală în Aliwal North.",
+                  "text": "O rezervație naturală de-a lungul râului Buffelspruit lângă Aliwal North.",
                   "category": "natural",
                   "coords": [
                         26.722654,
@@ -7177,7 +8932,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Sacred Heart Cath. Cathedral",
-                  "text": "Sacred Heart Cath. Cathedral este un lăcaș de cult din Aliwal North.",
+                  "text": "Catedrală romano-catolică în Aliwal North, reședința diecezei de Aliwal.",
                   "category": "religious",
                   "coords": [
                         26.71354,
@@ -7188,7 +8943,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Buffelspruit Nature Reserve",
-                  "text": "Buffelspruit Nature Reserve is a natural conservation area in Aliwal North.",
+                  "text": "A nature reserve along the Buffelspruit River near Aliwal North.",
                   "category": "natural",
                   "coords": [
                         26.722654,
@@ -7197,7 +8952,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "Sacred Heart Cath. Cathedral",
-                  "text": "Sacred Heart Cath. Cathedral is a religious place of worship in Aliwal North.",
+                  "text": "Roman Catholic cathedral in Aliwal North, seat of the Diocese of Aliwal.",
                   "category": "religious",
                   "coords": [
                         26.71354,
@@ -7342,7 +9097,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Emalahleni Civic Theatre",
-                  "text": "Das Emalahleni Civic Theatre ist ein Theater in eMalahleni.",
+                  "text": "Ein Stadttheater in Witbank mit Gemeinschafts- und professionellen Aufführungen.",
                   "category": "cultural",
                   "coords": [
                         29.215121,
@@ -7353,7 +9108,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Emalahleni Civic Theatre",
-                  "text": "Az Emalahleni Civic Theatre egy színház eMalahleni városában.",
+                  "text": "Városi színház Witbankban, közösségi és hivatásos előadásokkal.",
                   "category": "cultural",
                   "coords": [
                         29.215121,
@@ -7364,7 +9119,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Emalahleni Civic Theatre",
-                  "text": "Emalahleni Civic Theatre este un teatru din eMalahleni.",
+                  "text": "Un teatru civic în Witbank, care găzduiește spectacole comunitare și profesioniste.",
                   "category": "cultural",
                   "coords": [
                         29.215121,
@@ -7375,7 +9130,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Emalahleni Civic Theatre",
-                  "text": "The Emalahleni Civic Theatre is a theatre venue in eMalahleni.",
+                  "text": "A civic theatre in Witbank hosting community and professional performances.",
                   "category": "cultural",
                   "coords": [
                         29.215121,
@@ -7563,7 +9318,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Tzaneen Dam Nature Reserve",
-                  "text": "Das Tzaneen Dam Nature Reserve ist ein Naturschutzgebiet in Tzaneen.",
+                  "text": "Ein Naturschutzgebiet um den Tzaneen-Staudamm, beliebt zum Vogelbeobachten.",
                   "category": "natural",
                   "coords": [
                         30.145217,
@@ -7574,7 +9329,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Tzaneen Dam Nature Reserve",
-                  "text": "A Tzaneen Dam Nature Reserve egy természetvédelmi terület Tzaneen városában.",
+                  "text": "Természetvédelmi terület a Tzaneen-víztározó körül, kedvelt madármegfigyelésre.",
                   "category": "natural",
                   "coords": [
                         30.145217,
@@ -7585,7 +9340,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Tzaneen Dam Nature Reserve",
-                  "text": "Tzaneen Dam Nature Reserve este o rezervație naturală din Tzaneen.",
+                  "text": "O rezervație naturală în jurul barajului Tzaneen, populară pentru observarea păsărilor.",
                   "category": "natural",
                   "coords": [
                         30.145217,
@@ -7596,7 +9351,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Tzaneen Dam Nature Reserve",
-                  "text": "Tzaneen Dam Nature Reserve is a protected outdoor area located in Tzaneen.",
+                  "text": "A nature reserve surrounding the Tzaneen Dam, popular for birdwatching.",
                   "category": "natural",
                   "coords": [
                         30.145217,
@@ -7652,7 +9407,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Mokopane Biodiversity Conservation Centre",
-                  "text": "Das Mokopane Biodiversity Conservation Centre ist ein Naturschutzgebiet in Mokopane.",
+                  "text": "Ein Biodiversitäts-Schutzzentrum in Mokopane mit Forschungs- und Bildungsprogrammen.",
                   "category": "natural",
                   "coords": [
                         29.052007,
@@ -7663,7 +9418,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Mokopane Biodiversity Conservation Centre",
-                  "text": "A Mokopane Biodiversity Conservation Centre egy természetvédelmi terület Mokopane városában.",
+                  "text": "Biodiverzitás-védelmi központ Mokopane-ban, kutatási és oktatási programokkal.",
                   "category": "natural",
                   "coords": [
                         29.052007,
@@ -7674,7 +9429,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Mokopane Biodiversity Conservation Centre",
-                  "text": "Mokopane Biodiversity Conservation Centre este o rezervație naturală din Mokopane.",
+                  "text": "Un centru de conservare a biodiversității în Mokopane, cu programe de cercetare și educație.",
                   "category": "natural",
                   "coords": [
                         29.052007,
@@ -7685,7 +9440,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Mokopane Biodiversity Conservation Centre",
-                  "text": "Mokopane Biodiversity Conservation Centre is a nature reserve in Mokopane.",
+                  "text": "A biodiversity conservation centre in Mokopane with research and education programmes.",
                   "category": "natural",
                   "coords": [
                         29.052007,
@@ -7741,7 +9496,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Thohoyandou National Botanical Garden",
-                  "text": "Der Thohoyandou National Botanical Garden ist ein Garten in Thohoyandou, der die Artenvielfalt der Soutpansberg-Region schützt.",
+                  "text": "Ein nationaler botanischer Garten in Thohoyandou mit einheimischen Pflanzen der Provinz Limpopo.",
                   "category": "park",
                   "coords": [
                         30.467869,
@@ -7752,7 +9507,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Thohoyandou National Botanical Garden",
-                  "text": "A thohoyandoui Thohoyandou National Botanical Garden a Soutpansberg térség biológiai sokféleségét mutatja be.",
+                  "text": "Nemzeti botanikus kert Thohoyandouban, Limpopo őshonos növényeivel.",
                   "category": "park",
                   "coords": [
                         30.467869,
@@ -7763,7 +9518,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Thohoyandou National Botanical Garden",
-                  "text": "Thohoyandou National Botanical Garden este o grădină din Thohoyandou care conservă biodiversitatea zonei Soutpansberg.",
+                  "text": "O grădină botanică națională în Thohoyandou, care prezintă plantele indigene din Limpopo.",
                   "category": "park",
                   "coords": [
                         30.467869,
@@ -7774,7 +9529,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Thohoyandou National Botanical Garden",
-                  "text": "Thohoyandou National Botanical Garden is a garden in Thohoyandou that preserves the biodiversity of the Soutpansberg area.",
+                  "text": "A national botanical garden in Thohoyandou showcasing Limpopo's indigenous plants.",
                   "category": "park",
                   "coords": [
                         30.467869,
@@ -7839,7 +9594,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "House",
-                  "text": "Dieser Ort ist eine Attraktion in der Stadt Phalaborwa.",
+                  "text": "Ein bemerkenswertes historisches Haus in Phalaborwa, möglicherweise aus der Bergbauzeit.",
                   "category": "landmark",
                   "coords": [
                         31.132856,
@@ -7859,7 +9614,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "House",
-                  "text": "Ez a hely egy turisztikai látványosság Phalaborwa városában.",
+                  "text": "Nevezetes történelmi ház Phalaborwa-ban, valószínűleg a bányászkorszakból.",
                   "category": "landmark",
                   "coords": [
                         31.132856,
@@ -7879,7 +9634,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "House",
-                  "text": "Acest sit este o atracție situată în orașul Phalaborwa.",
+                  "text": "O casă istorică notabilă în Phalaborwa, posibil din epoca minieră.",
                   "category": "landmark",
                   "coords": [
                         31.132856,
@@ -7899,7 +9654,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
             },
             {
                   "name": "House",
-                  "text": "This site is an attraction located in the city of Phalaborwa.",
+                  "text": "A notable historic house in Phalaborwa, possibly from the mining era.",
                   "category": "landmark",
                   "coords": [
                         31.132856,

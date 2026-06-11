@@ -1173,7 +1173,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Rt Postina",
-                  "text": "Ein Küstenvorsprung in der Nähe von Hvar, der für seine malerische Aussicht bekannt ist.",
+                  "text": "Felsiges Kap auf Hvar mit Kieselstrand und Blick auf die Pakleni-Inseln.",
                   "category": "natural",
                   "coords": [
                         16.422317,
@@ -1408,7 +1408,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Rt Postina",
-                  "text": "Hvar közeli tengerparti fok, amely festői kilátásáról ismert.",
+                  "text": "Sziklás-fok Hvaron, kavicsos stranddal és kilátással a Pakleni-szigetekre.",
                   "category": "natural",
                   "coords": [
                         16.422317,
@@ -1643,7 +1643,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Rt Postina",
-                  "text": "Un cap de coastă lângă Hvar, cunoscut pentru vederile sale pitorești.",
+                  "text": "Cap stâncos pe Hvar, cu plajă de pietriș și vedere spre insulele Pakleni.",
                   "category": "natural",
                   "coords": [
                         16.422317,
@@ -1878,7 +1878,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Podstina Cape",
-                  "text": "A coastal cape near Hvar known for its scenic views.",
+                  "text": "A rocky cape on Hvar with a pebble beach and views of the Pakleni Islands.",
                   "category": "natural",
                   "coords": [
                         16.422317,
@@ -3169,7 +3169,593 @@ export const poiExtraHrV1: POI[] = [
       ]
 }},
   {"id": "mali-losinj", "type": "city", "parent": "HR-08", "coords": [14.4708, 44.5328], "population": 8116, "tier": 1, "name": {"de": "Mali Lošinj", "hu": "Mali Lošinj", "ro": "Mali Lošinj", "en": "Mali Lošinj"}, "description": {"de": "Mali Lošinj liegt in einer tiefen Bucht und ist als 'Insel der Vitalität' bekannt, berühmt für sein heilendes Klima und das Apoxyomenos-Museum.", "hu": "A mély öbölben fekvő Mali Lošinj a 'vitalitás szigeteként' ismert, gyógyító klímájáról és az Apoxüomenosz Múzeumról híres.", "ro": "Mali Lošinj este situat într-un golf adânc și este cunoscut drept 'Insula Vitalității', fiind faimos pentru climatul curativ și Muzeul Apoxyomenos.", "en": "Nestled in a deep bay, Mali Lošinj is known as the 'Island of Vitality,' famous for its healing climate and the unique Apoxyomenos Museum."}, "facts": {"de": ["8.116 Einwohner", "Größte Stadt auf den kroatischen Inseln", "Museum des Apoxyomenos", "Heilklimatischer Kurort seit 1892", "Duftender Inselgarten", "Delfin-Schutzzentrum", "Čikat-Bucht mit Villen", "Reich an Heilkräutern"], "hu": ["8 116 lakos", "A legnagyobb város a horvát szigetvilágban", "Apoxüomenosz Múzeum", "1892 óta gyógyüdülőhely", "Illatos szigeti kert", "Delfinvédelmi központ", "Čikat-öböl elegáns villákkal", "Gazdag gyógynövényvilág"], "ro": ["8.116 locuitori", "Cel mai mare oraș de pe insulele croate", "Muzeul Apoxyomenos", "Stațiune climaterică din 1892", "Grădina aromatică a insulei", "Centru de protecție a delfinilor", "Golful Čikat cu vilele sale", "Bogăție de plante medicinale"], "en": ["8,116 residents", "Largest town on the Croatian islands", "Museum of Apoxyomenos", "Health resort since 1892", "Aromatic Island Garden", "Dolphin protection center", "Čikat Bay with historic villas", "Abundance of medicinal herbs"]}, "image": "/poi-images/mali-losinj.webp", "imageHint": "The colorful harbor of Mali Losinj in a sheltered bay", "descriptionAdvanced": {"de": "Obwohl der Name 'Mali' (Klein) Lošinj lautet, ist die Stadt das größte Siedlungszentrum der kroatischen Inselwelt. Die Stadt entwickelte sich im 19. Jahrhundert zu einem bedeutenden Seehandels- und Schiffbauzentrum. Dank der über 200 Sonnentage und der mit Pinienwäldern angereicherten Meeresluft wurde sie 1892 offiziell zum Luftkurort erklärt. Das kulturelle Highlight ist das Museum des Apoxyomenos, das ausschließlich einer antiken Bronzestatue eines griechischen Athleten gewidmet ist, die 1996 im Meer vor der Insel gefunden wurde. Die Architektur am Hafen ist geprägt von farbenfrohen Kapitänshäusern. In der Bucht Čikat stehen prächtige Villen aus der Zeit der K.u.K. Monarchie, umgeben von dichten Aleppo-Kiefern. Mali Lošinj ist auch ein Zentrum für Ökotourismus; in den Gewässern um die Insel lebt eine dauerhafte Population von etwa 200 Großen Tümmlern, die vom 'Blue World Institute' erforscht und geschützt werden.", "hu": "Bár a neve 'Mali' (kicsi), valójában ez a horvát szigetvilág legnépesebb városa. Mali Lošinj a 19. században vált jelentős tengeri kikötővé és hajóépítő központtá. Kivételes mikroklímája és a fenyőerdők illatával keveredő sós tengeri levegő miatt már 1892-ben hivatalos gyógyüdülőhellyé nyilvánították. A város legnagyobb büszkesége az Apoxüomenosz Múzeum, ahol egy i. e. 2. századi görög bronzszobrot őriznek, amelyet 1996-ban találtak meg a tenger fenekén a közelben. A kikötő körüli színes házak és a Čikat-öböl monarchia-korabeli villái különleges hangulatot árasztanak. A fenntarthatóság jegyében itt található az Adria első delfinvédelmi központja is, hiszen a környék vizeiben egy népes delfinközösség él. A látogatókat ezen kívül az Illatos Kert várja, ahol a sziget több száz őshonos gyógynövényével ismerkedhetnek meg.", "ro": "Deși numele său 'Mali' înseamnă 'mic', Mali Lošinj este cea mai mare așezare de pe insulele croate. Orașul s-a dezvoltat în secolul al XIX-lea ca un centru important de comerț maritim și construcții navale. Datorită celor peste 200 de zile însorite și aerului marin îmbogățit de pădurile de pini, a fost declarat oficial stațiune climaterică în 1892. Atracția culturală majoră este Muzeul Apoxyomenos, dedicat exclusiv unei statui antice din bronz a unui atlet grec, descoperită în mare lângă insulă în 1996. Arhitectura portului este definită de casele colorate ale foștilor căpitani de vase. În golful Čikat se află vile splendide din perioada austro-ungară, înconjurate de pini de Alep deasă. Mali Lošinj este, de asemenea, un centru pentru ecoturism; în apele din jurul insulei trăiește o populație permanentă de aproximativ 200 de delfini, monitorizați de institutul 'Blue World'.", "en": "Despite its name 'Mali' (meaning Little), this town is the largest population center in the Croatian islands. In the 19th century, it flourished as a major maritime trade and shipbuilding hub. Its exceptional microclimate, where sea salt air mixes with the scent of vast pine forests, led to its official designation as a health resort in 1892. The town's cultural centerpiece is the Museum of Apoxyomenos, which houses an extraordinary 2nd-century BC Greek bronze statue found on the seabed nearby in 1996. The harbor is lined with colorful captains' houses, while the nearby Čikat Bay features opulent Austro-Hungarian villas. Mali Lošinj is also a pioneer in eco-tourism; the surrounding waters are home to a resident population of about 200 bottlenose dolphins, studied and protected by the locally based Blue World Institute."}, "factsAdvanced": {"de": ["Die Apoxyomenos-Statue lag fast 2000 Jahre auf dem Meeresgrund", "Die Insel hat über 1200 verschiedene Pflanzenarten", "Mali Lošinj hat eine der längsten Seefahrertraditionen der Adria", "Das Blue World Institut bietet Delfin-Patenschaften an", "Die Bucht Čikat ist bekannt für ihre Luxushotels", "Ein künstlicher Kanal (Privlaka) trennt die Inselteile"], "hu": ["Az Apoxüomenosz-szobor közel 2000 évet töltött a tenger fenekén", "A szigeten több mint 1200 különböző növényfaj honos", "Mali Lošinj az Adria egyik legrégebbi tengerészmúltjával bír", "A Blue World Intézetben lehetőség van delfinek örökbefogadására", "A Čikat-öböl híres luxusszállodáiról és fenyveseiről", "A Privlaka-csatorna mesterségesen vágja ketté a szigetet"], "ro": ["Statuia Apoxyomenos a stat aproape 2000 de ani pe fundul mării", "Insula are peste 1200 de specii diferite de plante", "Mali Lošinj are una dintre cele mai lungi tradiții maritime din Adriatică", "Institutul Blue World permite adoptarea simbolică a delfinilor", "Golful Čikat este renumit pentru hotelurile sale de lux", "Un canal artificial (Privlaka) desparte părțile insulei"], "en": ["The Apoxyomenos statue lay on the seabed for nearly 2,000 years", "The island is home to over 1,200 unique plant species", "Mali Lošinj has one of the richest seafaring heritages in the Adriatic", "The Blue World Institute offers dolphin adoption programs", "Čikat Bay is renowned for its high-end luxury resorts", "A small man-made canal (Privlaka) divides the island segments"]}, "sights": {"de": [{"name": "Museum des Apoxyomenos", "text": "Gewidmet der 2.000 Jahre alten Bronzestatue eines Athleten, die 1996 im Meer bei Lošinj gefunden wurde.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/mali-losinj-museum-des-apoxyomenos.webp", "coords": [14.46703, 44.534839]}, {"name": "Duftender Inselgarten", "text": "Ein Garten mit über 250 Arten von Wild- und Heilkräutern, die typisch für das milde Klima der Insel sind.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/mali-losinj-duftender-inselgarten.webp", "coords": [14.470763, 44.526056]}, {"name": "Fritzi-Palast", "text": "Ein Gebäude aus dem 19. Jahrhundert, das heute das Lošinjer Museum mit bedeutenden Kunstsammlungen beherbergt.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/mali-losinj-fritzi-palast.webp", "coords": [14.468596, 44.533605]}, {"name": "Aussichtspunkt Providenca", "text": "Bietet einen 360-Grad-Blick auf den Lošinjer Archipel und ist ein beliebter Ort für Sonnenuntergänge.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/mali-losinj-aussichtspunkt-providenca.webp", "coords": [14.481752, 44.522351]}, {"name": "Blaues Weltinstitut", "text": "Bildungszentrum, das sich der Erforschung und dem Schutz der Großen Tümmler in der Adria widmet.", "category": "theatres/cultural centres", "confidence": "high", "image": "/poi-images/sights/mali-losinj-blaues-weltinstitut.webp", "coords": [14.500578, 44.521111]}, {"name": "Ostaci tegula", "text": "Eine archäologische Fundstätte mit Überresten antiker römischer Dachziegel und Keramik.", "category": "historical", "coords": [14.44919, 44.523037]}, {"name": "Zagazinjine", "text": "Beliebter Kiesstrand mit betonierten Liegeflächen in Mali Lošinj.", "category": "recreational", "coords": [14.473723, 44.536714]}, {"name": "Male Valdarke", "text": "Kleine, ruhige Bucht mit kristallklarem Wasser unweit des Stadtzentrums.", "category": "recreational", "coords": [14.481249, 44.529785]}, {"name": "Valdarke", "text": "Schattige Bucht, die von einem dichten, alten Pinienwald umgeben ist.", "category": "recreational", "coords": [14.480158, 44.52721]}, {"name": "Aquapark Čikat", "text": "Großer Wasserpark mit Meerwasser, der sich im Waldpark Čikat befindet.", "category": "recreational", "coords": [14.448708, 44.537159]}, {"name": "Kaštel", "text": "Venezianische Festung aus dem 16. Jahrhundert, die heute ein Museum beherbergt.", "category": "historical", "coords": [14.472983, 44.532275]}, {"name": "Kadin", "text": "Felsstrand am nördlichen Eingang der Stadt mit sehr sauberem Wasser.", "category": "recreational", "coords": [14.465588, 44.542961]}, {"name": "Poljana", "text": "Natürlicher Strand in der Nähe des Campingplatzes Poljana mit klarem Meer.", "category": "recreational", "coords": [14.448295, 44.55222]}, {"name": "privlaka", "text": "Strand in der Nähe des Kanals, der die Inseln Cres und Lošinj trennt.", "category": "recreational", "coords": [14.461031, 44.545578]}, {"name": "Vela Straža", "text": "Aussichtspunkt auf einem Hügel mit weitem Blick über den Archipel.", "category": "natural", "coords": [14.450174, 44.540899]}, {"name": "Monument to Victims of Fascism", "text": "Ein Denkmal in Mali Lošinj, das den Opfern des Faschismus und den Widerstandskämpfern des Zweiten Weltkriegs gewidmet ist.", "category": "historical", "coords": [14.460813, 44.532866]}, {"name": "Veli Žal", "text": "Ein beliebter Kiesstrand in der Sunčana Uvala bei Mali Lošinj, der für sein kristallklares Wasser und die Blaue Flagge bekannt ist.", "category": "recreational", "coords": [14.458205, 44.52421]}, {"name": "Plaza Punta Veli Losinj", "text": "Nahe dem Hotel Punta in Veli Lošinj lockt dieser Strandabschnitt mit seinen charakteristischen Beton- und Felsplateaus. Sonnenanbeter finden hier ideale Liegeflächen, um entspannt in den Tag zu starten und sich anschließend im Meer zu erfrischen. Badeschuhe sind für einen bequemen Einstieg in das Wasser zu empfehlen.", "category": "recreational", "coords": [14.49725, 44.524807]}, {"name": "Poljana (a/c Poljana)", "text": "Ein Kiesstrand auf dem Campingplatz Poljana auf der Insel Lošinj mit Blick auf den Kvarner Golf.", "category": "recreational", "coords": [14.444642, 44.557056]}], "hu": [{"name": "Apoxüomenosz Múzeum", "text": "Egyetlen műtárgynak, egy 1996-ban a tengerből kiemelt, 2000 éves görög bronzszobornak szentelt múzeum.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/mali-losinj-museum-des-apoxyomenos.webp", "coords": [14.46703, 44.534839]}, {"name": "Lošinji Illatos Kert", "text": "Több mint 250 féle őshonos vad- és gyógynövényt bemutató kert, amely a sziget gyógyító klímáját jelképezi.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/mali-losinj-duftender-inselgarten.webp", "coords": [14.470763, 44.526056]}, {"name": "Fritzi-palota", "text": "19. századi épület, amely a Lošinji Múzeumnak és értékes művészeti gyűjteményeknek ad otthont.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/mali-losinj-fritzi-palast.webp", "coords": [14.468596, 44.533605]}, {"name": "Providenca kilátó", "text": "Pazar panorámát nyújtó pont a sziget felett, ahonnan az egész Lošinj-szigetcsoport belátható.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/mali-losinj-aussichtspunkt-providenca.webp", "coords": [14.481752, 44.522351]}, {"name": "Kék Világ Intézet", "text": "Oktatási és kutatóközpont, amely az adriai palackorrú delfinek védelmével foglalkozik.", "category": "theatres/cultural centres", "confidence": "high", "image": "/poi-images/sights/mali-losinj-blaues-weltinstitut.webp", "coords": [14.500578, 44.521111]}, {"name": "Ostaci tegula", "text": "Régészeti lelőhely, ahol ókori római tetőcserepek (tegula) maradványai láthatók.", "category": "historical", "coords": [14.44919, 44.523037]}, {"name": "Zagazinjine", "text": "Népszerű kavicsos strand betonozott napozórészekkel Mali Lošinjban.", "category": "recreational", "coords": [14.473723, 44.536714]}, {"name": "Male Valdarke", "text": "Kicsi, csendes öböl kristálytiszta vízzel, nem messze a városközponttól.", "category": "recreational", "coords": [14.481249, 44.529785]}, {"name": "Valdarke", "text": "Árnyas öböl, amelyet sűrű, ősi fenyőerdő vesz körül.", "category": "recreational", "coords": [14.480158, 44.52721]}, {"name": "Aquapark Čikat", "text": "Nagy tengervizes aquapark a Čikat erdei park területén.", "category": "recreational", "coords": [14.448708, 44.537159]}, {"name": "Kaštel", "text": "16. századi velencei erőd, amely ma múzeumnak ad otthont.", "category": "historical", "coords": [14.472983, 44.532275]}, {"name": "Kadin", "text": "Sziklás strand a város északi bejáratánál, rendkívül tiszta vízzel.", "category": "recreational", "coords": [14.465588, 44.542961]}, {"name": "Poljana", "text": "Természetes strand a Poljana kemping közelében, tiszta tengervízzel.", "category": "recreational", "coords": [14.448295, 44.55222]}, {"name": "privlaka", "text": "Strand a Cres és Lošinj szigeteket elválasztó csatorna közelében.", "category": "recreational", "coords": [14.461031, 44.545578]}, {"name": "Vela Straža", "text": "Kilátópont egy dombtetőn, ahonnan pazar kilátás nyílik a szigetvilágra.", "category": "natural", "coords": [14.450174, 44.540899]}, {"name": "Monument to Victims of Fascism", "text": "Mali Lošinjban található emlékmű, melyet a fasizmus áldozatainak és a második világháború ellenállóinak tiszteletére emeltek.", "category": "historical", "coords": [14.460813, 44.532866]}, {"name": "Veli Žal", "text": "Népszerű kavicsos strand Mali Lošinj közelében a Sunčana-öbölben, amely tiszta vizéről és Kék Zászló minősítéséről ismert.", "category": "recreational", "coords": [14.458205, 44.52421]}, {"name": "Plaza Punta Veli Losinj", "text": "Veli Lošinjban, a Hotel Punta közelében található ez a jellegzetes beton- és sziklaplatókkal rendelkező partszakasz. A napozás szerelmesei itt ideális fekvőhelyeket találnak a napindító pihenéshez, amit egy frissítő tengeri fürdőzés követhet. A vízbe való kényelmes bejutáshoz fürdőcipő használata javasolt.", "category": "recreational", "coords": [14.49725, 44.524807]}, {"name": "Poljana (a/c Poljana)", "text": "Kavicsos strand a Poljana kemping területén, Lošinj szigetén, kilátással a Kvarner-öbölre.", "category": "recreational", "coords": [14.444642, 44.557056]}], "ro": [{"name": "Muzeul lui Apoxyomenos", "text": "Dedicat unei statui antice de bronz de 2.000 de ani, descoperită în mare lângă Lošinj în 1996.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/mali-losinj-museum-des-apoxyomenos.webp", "coords": [14.46703, 44.534839]}, {"name": "Grădina Aromatică a Insulei", "text": "Grădină cu peste 250 de specii de plante medicinale și aromatice tipice pentru clima insulei Lošinj.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/mali-losinj-duftender-inselgarten.webp", "coords": [14.470763, 44.526056]}, {"name": "Palatul Fritzi", "text": "Clădire din secolul al XIX-lea care găzduiește Muzeul Lošinj și colecții de artă valoroase.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/mali-losinj-fritzi-palast.webp", "coords": [14.468596, 44.533605]}, {"name": "Punctul de Belvedere Providenca", "text": "Oferă o vedere de 360 de grade asupra arhipelagului Lošinj și este locul ideal pentru apusuri.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/mali-losinj-aussichtspunkt-providenca.webp", "coords": [14.481752, 44.522351]}, {"name": "Institutul Lumea Albastră", "text": "Centru educațional marin dedicat cercetării și protejării delfinilor din marea Adriatică.", "category": "theatres/cultural centres", "confidence": "high", "image": "/poi-images/sights/mali-losinj-blaues-weltinstitut.webp", "coords": [14.500578, 44.521111]}, {"name": "Ostaci tegula", "text": "Un sit arheologic unde se pot vedea rămășițele unor țigle romane antice.", "category": "historical", "coords": [14.44919, 44.523037]}, {"name": "Zagazinjine", "text": "Plajă populară cu pietriș și zone betonate pentru plajă în Mali Lošinj.", "category": "recreational", "coords": [14.473723, 44.536714]}, {"name": "Male Valdarke", "text": "Golf mic și liniștit cu apă cristalină, situat aproape de centrul orașului.", "category": "recreational", "coords": [14.481249, 44.529785]}, {"name": "Valdarke", "text": "Golf umbrit, înconjurat de o pădure de pini deasă și străveche.", "category": "recreational", "coords": [14.480158, 44.52721]}, {"name": "Aquapark Čikat", "text": "Parc acvatic mare cu apă de mare, situat în parcul forestier Čikat.", "category": "recreational", "coords": [14.448708, 44.537159]}, {"name": "Kaštel", "text": "Cetate venețiană din secolul al XVI-lea, care astăzi găzduiește un muzeu.", "category": "historical", "coords": [14.472983, 44.532275]}, {"name": "Kadin", "text": "Plajă stâncoasă la intrarea de nord a orașului, cu apă foarte curată.", "category": "recreational", "coords": [14.465588, 44.542961]}, {"name": "Poljana", "text": "Plajă naturală în apropierea campingului Poljana, cu apă limpede.", "category": "recreational", "coords": [14.448295, 44.55222]}, {"name": "privlaka", "text": "Plajă situată lângă canalul care desparte insulele Cres și Lošinj.", "category": "recreational", "coords": [14.461031, 44.545578]}, {"name": "Vela Straža", "text": "Punct de belvedere pe un deal, oferind o vedere largă asupra arhipelagului.", "category": "natural", "coords": [14.450174, 44.540899]}, {"name": "Monument to Victims of Fascism", "text": "Un monument în Mali Lošinj dedicat victimelor fascismului și luptătorilor din rezistența celui de-al Doilea Război Mondial.", "category": "historical", "coords": [14.460813, 44.532866]}, {"name": "Veli Žal", "text": "O plajă populară cu pietriš în Sunčana Uvala lângă Mali Lošinj, cunoscută pentru apa sa cristalină și steagul albastru.", "category": "recreational", "coords": [14.458205, 44.52421]}, {"name": "Plaza Punta Veli Losinj", "text": "În apropiere de Hotelul Punta din Veli Lošinj, această porțiune de coastă atrage prin platourile sale stâncoase și de beton. Iubitorii de soare găsesc aici suprafețe ideale pentru a se relaxa, înainte de a se răcori în mare. Pentru a intra confortabil în apă, se recomandă purtarea încălțămintei de baie.", "category": "recreational", "coords": [14.49725, 44.524807]}, {"name": "Poljana (a/c Poljana)", "text": "O plajă cu pietriș situată în incinta campingului Poljana de pe insula Lošinj, oferind vedere spre Golful Kvarner.", "category": "recreational", "coords": [14.444642, 44.557056]}], "en": [{"name": "Museum of Apoxyomenos", "text": "Dedicated to the 2,000-year-old bronze statue of a Greek athlete found in the sea near Lošinj.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/mali-losinj-museum-des-apoxyomenos.webp", "coords": [14.46703, 44.534839]}, {"name": "Lošinj Aromatic Garden", "text": "A garden showcasing over 250 species of wild and medicinal herbs typical for the island's mild climate.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/mali-losinj-duftender-inselgarten.webp", "coords": [14.470763, 44.526056]}, {"name": "Fritzi Palace", "text": "19th-century building housing the Lošinj Museum and various important art collections.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/mali-losinj-fritzi-palast.webp", "coords": [14.468596, 44.533605]}, {"name": "Providenca Viewpoint", "text": "Offers a 360-degree view of the Lošinj archipelago and is a famous spot for watching the sunset.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/mali-losinj-aussichtspunkt-providenca.webp", "coords": [14.481752, 44.522351]}, {"name": "Blue World Institute", "text": "Marine education center focused on research and protection of dolphins in the Adriatic Sea.", "category": "theatres/cultural centres", "confidence": "high", "image": "/poi-images/sights/mali-losinj-blaues-weltinstitut.webp", "coords": [14.500578, 44.521111]}, {"name": "Ostaci tegula", "text": "An archaeological site featuring the remains of ancient Roman roof tiles.", "category": "historical", "coords": [14.44919, 44.523037]}, {"name": "Zagazinjine", "text": "Popular pebbly beach with concrete sunbathing areas in Mali Lošinj.", "category": "recreational", "coords": [14.473723, 44.536714]}, {"name": "Male Valdarke", "text": "Small, quiet cove with crystal clear water not far from the town center.", "category": "recreational", "coords": [14.481249, 44.529785]}, {"name": "Valdarke", "text": "Shaded cove surrounded by a dense, ancient pine forest.", "category": "recreational", "coords": [14.480158, 44.52721]}, {"name": "Aquapark Čikat", "text": "Large sea water park located within the Čikat forest park.", "category": "recreational", "coords": [14.448708, 44.537159]}, {"name": "Kaštel", "text": "16th-century Venetian fortress that now houses a museum.", "category": "historical", "coords": [14.472983, 44.532275]}, {"name": "Kadin", "text": "Rocky beach at the northern entrance of the town with very clean water.", "category": "recreational", "coords": [14.465588, 44.542961]}, {"name": "Poljana", "text": "Natural beach near the Poljana campsite with clear sea water.", "category": "recreational", "coords": [14.448295, 44.55222]}, {"name": "privlaka", "text": "Beach located near the canal that separates the islands of Cres and Lošinj.", "category": "recreational", "coords": [14.461031, 44.545578]}, {"name": "Vela Straža", "text": "Hilltop viewpoint offering a wide view over the archipelago.", "category": "natural", "coords": [14.450174, 44.540899]}, {"name": "Monument to Victims of Fascism", "text": "A monument in Mali Lošinj dedicated to the victims of fascism and the resistance fighters of World War II.", "category": "historical", "coords": [14.460813, 44.532866]}, {"name": "Veli Žal", "text": "A popular pebble beach in Sunčana Uvala near Mali Lošinj, known for its crystal clear water and Blue Flag status.", "category": "recreational", "coords": [14.458205, 44.52421]}, {"name": "Plaza Punta Veli Losinj", "text": "Located near Hotel Punta in Veli Lošinj, this coastal section draws visitors with its characteristic concrete and rocky plateaus. Sun worshipers will find excellent lounging areas to relax before plunging into the refreshing sea. Wearing water shoes is highly recommended for easy access to the water.", "category": "recreational", "coords": [14.49725, 44.524807]}, {"name": "Poljana (a/c Poljana)", "text": "A pebbly beach located within the Poljana campsite on the island of Lošinj, offering views of the Kvarner Gulf.", "category": "recreational", "coords": [14.444642, 44.557056]}], "hr": [{"name": "Ostaci tegula", "text": "Arheološko nalazište s ostacima antičkih rimskih krovnih opeka (tegula).", "category": "historical", "coords": [14.44919, 44.523037]}, {"name": "Zagazinjine", "text": "Popularna šljunčana plaža s betoniranim sunčalištima u Malom Lošinju.", "category": "recreational", "coords": [14.473723, 44.536714]}, {"name": "Male Valdarke", "text": "Mala, mirna uvala s kristalno čistim morem nedaleko od centra grada.", "category": "recreational", "coords": [14.481249, 44.529785]}, {"name": "Valdarke", "text": "Sjenovita uvala okružena gustom, drevnom borovom šumom.", "category": "recreational", "coords": [14.480158, 44.52721]}, {"name": "Aquapark Čikat", "text": "Veliki vodeni park s morskom vodom smješten u park-šumi Čikat.", "category": "recreational", "coords": [14.448708, 44.537159]}, {"name": "Kaštel", "text": "Mletačka utvrda iz 16. stoljeća u kojoj se danas nalazi muzej.", "category": "historical", "coords": [14.472983, 44.532275]}, {"name": "Kadin", "text": "Stjenovita plaža na sjevernom ulazu u grad s iznimno čistim morem.", "category": "recreational", "coords": [14.465588, 44.542961]}, {"name": "Poljana", "text": "Prirodna plaža u blizini kampa Poljana s bistrim morem.", "category": "recreational", "coords": [14.448295, 44.55222]}, {"name": "privlaka", "text": "Plaža smještena u blizini kanala koji razdvaja otoke Cres i Lošinj.", "category": "recreational", "coords": [14.461031, 44.545578]}, {"name": "Vela Straža", "text": "Vidikovac na brežuljku koji nudi širok pogled na arhipelag.", "category": "natural", "coords": [14.450174, 44.540899]}, {"name": "Monument to Victims of Fascism", "text": "Spomenik žrtvama fašizma u Malom Lošinju podignut u čast palim borcima i žrtvama Drugog svjetskog rata.", "category": "historical", "coords": [14.460813, 44.532866]}, {"name": "Veli Žal", "text": "Popularna šljunčana plaža u Sunčanoj uvali kod Malog Lošinja, poznata po čistom moru i Plavoj zastavi.", "category": "recreational", "coords": [14.458205, 44.52421]}, {"name": "Plaza Punta Veli Losinj", "text": "Plaža kod Velog Lošinja u blizini hotela Punta, s uređenim betonskim plohama i stjenovitim dijelovima.", "category": "recreational", "coords": [14.49725, 44.524807]}, {"name": "Poljana (a/c Poljana)", "text": "Šljunčana plaža smještena u sklopu kampa Poljana na otoku Lošinju, s pogledom na Kvarnerski zaljev.", "category": "recreational", "coords": [14.444642, 44.557056]}]}},
-  {"id": "novalja-pag", "type": "city", "parent": "HR-09", "coords": [14.883, 44.555], "population": 3663, "tier": 1, "name": {"de": "Novalja (Pag)", "hu": "Novalja (Pag)", "ro": "Novalja (Pag)", "en": "Novalja (Pag)"}, "description": {"de": "Novalja auf der Insel Pag vereint antike römische Geschichte mit dem modernen Party-Lifestyle des berühmten Zrće-Strandes.", "hu": "A Pag-szigeti Novalja az ókori római történelmet ötvözi a modern party-életstílussal, a híres Zrće-strandnak köszönhetően.", "ro": "Novalja, pe insula Pag, îmbină istoria antică romană cu stilul modern de viață de la faimoasa plajă de petreceri Zrće.", "en": "Novalja on Pag Island blends ancient Roman history with the modern party lifestyle of the world-famous Zrće Beach."}, "facts": {"de": ["3.663 Einwohner", "Zrće Beach (bekanntester Party-Strand)", "Antikes römisches Aquädukt", "Olivenhaine von Lun (1000 Jahre alt)", "Pager Käse (Paški sir)", "Pag-Spitze (UNESCO)", "Salzgewinnung auf Pag", "Karge, mondähnliche Landschaft"], "hu": ["3 663 lakos", "Zrće strand (híres bulihelyszín)", "Ókori római vízvezeték", "Luni olajfák (akár 1000 évesek)", "Pági sajt (Paški sir)", "Pági csipke (UNESCO)", "Hagyományos sólepárlás", "Sziklás, holdszerű táj"], "ro": ["3.663 locuitori", "Plaja Zrće (celebră pentru petreceri)", "Apeduct roman antic", "Măslinii din Lun (vechi de 1000 de ani)", "Brânză de Pag (Paški sir)", "Dantela de Pag (UNESCO)", "Producție tradițională de sare", "Peisaj stâncos, selenar"], "en": ["3,663 residents", "Zrće Beach (famed party destination)", "Ancient Roman aqueduct", "Lun Olive Groves (1,000+ years old)", "Pag Cheese (Paški sir)", "Pag Lace (UNESCO)", "Traditional salt production", "Rocky, moon-like landscape"]}, "image": "/poi-images/novalja-pag.webp", "imageHint": "Novalja waterfront and the crystal clear waters of Pag island", "descriptionAdvanced": {"de": "Novalja ist das touristische Zentrum im Norden der Insel Pag und hat sich in den letzten Jahrzehnten von einem verschlafenen Ort zum 'kroatischen Ibiza' gewandelt. Dieser Ruf basiert auf dem nahegelegenen Strand Zrće, wo im Sommer weltbekannte DJs in Open-Air-Clubs auflegen. Doch Novalja hat weit mehr zu bieten als nur Nachtleben. Die Stadt blickt auf eine reiche Geschichte zurück, deren beeindruckendstes Zeugnis das antike römische Aquädukt aus dem 1. Jahrhundert ist, das von den Einheimischen 'Talijanova buža' (Italiener-Loch) genannt wird. Die Umgebung von Novalja ist geprägt von der kargen, durch den Bora-Wind gezeichneten Landschaft der Insel Pag, die an die Oberfläche des Mondes erinnert. Ein Naturphänomen sind die Olivenhaine von Lun am Nordzipfel der Insel, wo über 80.000 Olivenbäume wachsen, von denen einige über 1.000 Jahre alt sind. Kulinarisch ist die Region weltberühmt für den Pager Käse (Paški sir), der seinen besonderen Geschmack durch die salzhaltigen Kräuter erhält, die die Schafe auf den kargen Weiden fressen.", "hu": "Novalja Pag szigetének északi központja, amely az elmúlt években a 'horvát Ibiza' nevet kapta. Ez az elismerés a közeli Zrće-strandnak köszönhető, ahol világhírű klubok és fesztiválok várják a bulizni vágyókat. Novalja azonban sokkal több egy partihelyszínnél. A város alatt egy lenyűgöző ókori római vízvezeték húzódik az 1. századból, amelyet a helyiek 'Talijanova buža'-nak hívnak, és amelynek egy szakasza ma is látogatható. A környék tájképe egyedülálló: a Bóra szél és a sós permet miatt a sziget nagy része kopár és köves, ami holdszerű látványt nyújt. Északra található Lun faluja, ahol több tízezer vad olajfa él, némelyikük kora meghaladja az 1000 évet. Pag szigete híres gasztronómiájáról is; itt készül a Paški sir, a juhsajt, amely az aromás, sós gyógynövényeken legelő juhok tejétől kapja jellegzetes ízét. A város ideális keveréke az ókori örökségnek, a természeti csodáknak és a modern szórakozásnak.", "ro": "Novalja este centrul turistic din nordul insulei Pag și s-a transformat în ultimele decenii dintr-o localitate liniștită în 'Ibiza croată'. Această reputație se bazează pe plaja Zrće din apropiere, unde vara mixează DJ de renume mondial în cluburi în aer liber. Totuși, Novalja are mult mai multe de oferit decât viața de noapte. Orașul are o istorie bogată, cea mai impresionantă mărturie fiind apeductul roman antic din secolul I, numit de localnici 'Talijanova buža'. Împrejurimile localității Novalja sunt marcate de peisajul arid al insulei Pag, modelat de vântul Bora, care amintește de suprafața lunii. Un fenomen natural remarcabil sunt livezile de măslini din Lun, la vârful nordic al insulei, unde cresc peste 80.000 de măslini, unii având o vârstă de peste 1.000 de ani. Din punct de vedere gastronomic, regiunea este celebră pentru brânza de Pag (Paški sir), care își obține gustul deosebit datorită plantelor aromatice sărate consumate de oi pe pășunile aride.", "en": "Novalja is the primary tourist hub in the northern part of Pag Island, having evolved from a quiet village into the 'Croatian Ibiza.' This reputation stems from the nearby Zrće Beach, home to world-class open-air clubs and major electronic music festivals. However, Novalja offers much more than just a nightlife scene. The town boasts a rich ancient heritage, most notably its 1st-century AD Roman aqueduct, known locally as 'Talijanova buža' (The Italian Hole), a section of which can still be explored. The landscape surrounding Novalja is strikingly barren due to the salt-carrying Bora wind, creating a surreal, moon-like environment. To the north lie the Olive Groves of Lun, a botanical reserve with over 80,000 wild olive trees, some older than 1,000 years. The region is also world-famous for its culinary specialty, Pag Cheese (Paški sir), made from the milk of sheep grazing on salt-dusted aromatic herbs."}, "factsAdvanced": {"de": ["Das römische Aquädukt ist 1,2 Kilometer lang", "Die Olivenbäume von Lun gehören zu den ältesten der Welt", "Das 'Pager Dreieck' ist eine mysteriöse Bodenformation in der Nähe", "Paški sir ist einer der meistprämierten Käse Kroatiens", "Novalja war in der Antike ein wichtiger römischer Hafen", "Zrće Beach hat die 'Blaue Flagge' für Wasserqualität"], "hu": ["A római vízvezeték 1,2 kilométer hosszú és kézzel vájták ki", "A luni olajfák között van egy 1600 éves példány is", "A 'Pági-háromszög' egy rejtélyes kőalakzat a város közelében", "A Paški sir többször nyerte el a világ legjobb juhsajtja címet", "Novalja az ókorban Cissa néven fontos római kikötő volt", "A Zrće-strand Kék Zászló minősítéssel rendelkezik a víz tisztasága miatt"], "ro": ["Apeductul roman are o lungime de 1,2 kilometri", "Măslinii din Lun se numără printre cei mai vechi din lume", "Triunghiul de la Pag este o formațiune stâncoasă misterioasă", "Paški sir este una dintre cele mai premiate brânzeturi din Croația", "Novalja a fost un port roman important în antichitate sub numele Cissa", "Plaja Zrće deține Steagul Albastru pentru calitatea apei"], "en": ["The Roman aqueduct is 1.2 kilometers long and hand-carved", "The Lun Olive Groves include trees over 1,600 years old", "The 'Pag Triangle' is a mysterious land formation found nearby", "Paški sir is one of Croatia's most internationally awarded cheeses", "Novalja was an important Roman port known as Cissa in antiquity", "Zrće Beach holds a Blue Flag for its exceptional water quality"]}, "sights": {"de": [{"name": "Pag-Dreieck", "text": "Ein mysteriöses, dreieckiges Mal im Stein auf einem nahen Hügel, das 1999 entdeckt wurde.", "category": "natural features", "confidence": "medium", "image": "/poi-images/sights/novalja-pag-pag-dreieck.webp", "coords": [14.919083, 44.562556]}, {"name": "Zrće", "text": "Ein weltweit bekannter Partystrand auf der Insel Pag, der für seine zahlreichen Open-Air-Clubs und Festivals berühmt ist.", "category": "recreational", "coords": [14.91619, 44.539334]}, {"name": "Gradski muzej Novalja", "text": "Das Stadtmuseum von Novalja beherbergt bedeutende archäologische Funde, darunter den Zugang zu einer antiken römischen Wasserleitung.", "category": "museum", "coords": [14.883329, 44.558007]}, {"name": "Straško", "text": "Ein weitläufiger Kiesstrand und bekannter Campingplatz bei Novalja, umgeben von einem alten Eichen- und Olivenhain.", "category": "recreational", "coords": [14.880014, 44.539093]}, {"name": "Braničevica", "text": "Ein schöner Kiesstrand im Ferienort Gajac bei Novalja, der flach ins Meer abfällt und ideal für Familien ist.", "category": "recreational", "coords": [14.894641, 44.52882]}, {"name": "Caska", "text": "Ein geschichtsträchtiger Strand in einer Bucht bei Novalja, in deren Gewässern Reste einer versunkenen römischen Stadt liegen.", "category": "recreational", "coords": [14.916118, 44.547726]}, {"name": "Planjka", "text": "Dieser Sandstrand in Stara Novalja, auch Trinćel genannt, ist besonders bei Familien beliebt und trägt die Blaue Flagge.", "category": "recreational", "coords": [14.888093, 44.571425]}, {"name": "Babe Beach", "text": "Im westlichen Teil von Novalja erstreckt sich dieser flache Küstenstreifen, der für sein außergewöhnlich warmes Badewasser berühmt ist. Tagsüber vergnügen sich hier Badegäste im sanften Gewässer, während der Abend mit einem romantischen Sonnenuntergang lockt. Es lohnt sich, bis in die späten Stunden zu bleiben, um das Farbspektakel am Himmel zu genießen.", "category": "recreational", "coords": [14.866085, 44.567532]}, {"name": "Dog beach", "text": "Dieser speziell ausgewiesene Bereich in Novalja ist ein wunderbarer Ort, an dem Vierbeiner herzlich willkommen sind. Hunde können hier ausgelassen im Meer baden und gemeinsam mit ihren Besitzern das kühle Nass genießen. Ein Ausflug an diesen Strand macht den Urlaub für Tierfreunde besonders entspannt.", "category": "recreational", "coords": [14.877884, 44.553069]}, {"name": "Galerija Kunkera Novalja", "text": "Kunstgalerie in Novalja, die Werke lokaler und zeitgenössischer Künstler präsentiert.", "category": "museum", "coords": [14.884678, 44.556758]}, {"name": "Galerija Nevia", "text": "Kleine Galerie in Novalja, die verschiedenen künstlerischen Ausstellungen Raum bietet.", "category": "museum", "coords": [14.886327, 44.556913]}, {"name": "Old Well", "text": "Historische Überreste eines alten Brunnens in der Umgebung von Novalja.", "category": "historical", "coords": [14.883587, 44.556276]}, {"name": "seagulls", "text": "Ein Strandabschnitt in Novalja auf der Insel Pag.", "category": "recreational", "coords": [14.930435, 44.546586]}], "hu": [{"name": "Paški trokut (Pagi-háromszög)", "text": "Rejtélyes, szabályos háromszög alakú benyomódás a köves talajon, amelyet 1999-ben fedeztek fel.", "category": "natural features", "confidence": "medium", "image": "/poi-images/sights/novalja-pag-pag-dreieck.webp", "coords": [14.919083, 44.562556]}, {"name": "Zrće", "text": "Világszerte ismert partistrand Pag szigetén, amely számos szabadtéri klubjáról és nyári fesztiváljáról híres.", "category": "recreational", "coords": [14.91619, 44.539334]}, {"name": "Gradski muzej Novalja", "text": "A novaljai városi múzeum jelentős régészeti leleteket őriz, többek között innen nyílik a bejárat az ókori római vízvezetékhez.", "category": "museum", "coords": [14.883329, 44.558007]}, {"name": "Straško", "text": "Kiterjedt kavicsos strand és ismert kemping Novalja közelében, amelyet öreg tölgyesek és olajfák vesznek körül.", "category": "recreational", "coords": [14.880014, 44.539093]}, {"name": "Braničevica", "text": "Szép kavicsos strand a Novalja melletti Gajac üdülőhelyen, amely lassan mélyülő vize miatt családok számára is ideális.", "category": "recreational", "coords": [14.894641, 44.52882]}, {"name": "Caska", "text": "Történelmi jelentőségű strand Novalja közelében, amelynek öblében egy elsüllyedt római város maradványai találhatók.", "category": "recreational", "coords": [14.916118, 44.547726]}, {"name": "Planjka", "text": "Ez a Stara Novaljában található homokos strand, más néven Trinćel, különösen népszerű a családok körében és Kék Zászlóval büszkélkedhet.", "category": "recreational", "coords": [14.888093, 44.571425]}, {"name": "Babe Beach", "text": "Novalja nyugati részén húzódik ez a sekély partszakasz, amely kivételesen meleg vizéről híres. Nappal a fürdőzők élvezhetik a finoman hullámzó tengert, este pedig a romantikus naplemente nyújt felejthetetlen látványt. Érdemes a késő esti órákig maradni, hogy megcsodálhassuk az égbolt színkavalkádját.", "category": "recreational", "coords": [14.866085, 44.567532]}, {"name": "Dog beach", "text": "Ez a Novaljában található, kifejezetten kutyák számára kijelölt strand csodás helyszín, ahol a négylábúak is szívesen látott vendégek. A kutyák itt szabadon fürdőzhetnek a tengerben, és gazdáikkal együtt élvezhetik a hűsítő vizet. Az állatbarátok számára egy itteni kirándulás igazán pihentetővé teszi a nyaralást.", "category": "recreational", "coords": [14.877884, 44.553069]}, {"name": "Galerija Kunkera Novalja", "text": "Kortárs művészeti galéria Novalja központjában, helyi alkotók műveivel.", "category": "museum", "coords": [14.884678, 44.556758]}, {"name": "Galerija Nevia", "text": "Kisméretű galéria Novaljában, amely változatos művészeti kiállításoknak ad otthont.", "category": "museum", "coords": [14.886327, 44.556913]}, {"name": "Old Well", "text": "Egy régi kút történelmi maradványai Novalja területén.", "category": "historical", "coords": [14.883587, 44.556276]}, {"name": "seagulls", "text": "Strandrész Novalja településen, Pag szigetén.", "category": "recreational", "coords": [14.930435, 44.546586]}], "ro": [{"name": "Triunghiul din Pag", "text": "O amprentă misterioasă în formă de triunghi descoperită pe un deal pietros din apropiere în 1999.", "category": "natural features", "confidence": "medium", "image": "/poi-images/sights/novalja-pag-pag-dreieck.webp", "coords": [14.919083, 44.562556]}, {"name": "Zrće", "text": "O plajă de petrecere renumită la nivel mondial pe insula Pag, celebră pentru numeroasele sale cluburi în aer liber și festivaluri.", "category": "recreational", "coords": [14.91619, 44.539334]}, {"name": "Gradski muzej Novalja", "text": "Muzeul orașului Novalja adăpostește descoperiri arheologice importante, inclusiv accesul la un apeduct antic roman.", "category": "museum", "coords": [14.883329, 44.558007]}, {"name": "Straško", "text": "O plajă întinsă cu pietriš și un camping cunoscut lângă Novalja, înconjurat de o pădure veche de stejari și măslini.", "category": "recreational", "coords": [14.880014, 44.539093]}, {"name": "Braničevica", "text": "O plajă frumoasă cu pietriš în stațiunea Gajac de lângă Novalja, cu intrare lină în mare, ideală pentru familii.", "category": "recreational", "coords": [14.894641, 44.52882]}, {"name": "Caska", "text": "O plajă plină de istorie într-un golf de lângă Novalja, în ale cărei ape se află rămășițele unui oraș roman scufundat.", "category": "recreational", "coords": [14.916118, 44.547726]}, {"name": "Planjka", "text": "Această plajă cu nisip din Stara Novalja, numită și Trinćel, este populară în rândul familiilor și deține steagul albastru.", "category": "recreational", "coords": [14.888093, 44.571425]}, {"name": "Babe Beach", "text": "În partea de vest a orașului Novalja se află această fâșie de plajă plată, renumită pentru apele sale deosebit de calde. În timpul zilei, vizitatorii se bucură de înot în apele blânde, în timp ce seara aduce apusuri de soare romantice. Merită să rămâneți până târziu pentru a privi spectacolul de culori de pe cer.", "category": "recreational", "coords": [14.866085, 44.567532]}, {"name": "Dog beach", "text": "Această zonă special desemnată din Novalja este un loc minunat în care prietenii cu patru picioare sunt bineveniți. Câinii pot înota liber în mare aici, bucurându-se de apa răcoroasă alături de stăpânii lor. O vizită la această plajă face vacanța deosebit de relaxantă pentru iubitorii de animale.", "category": "recreational", "coords": [14.877884, 44.553069]}, {"name": "Galerija Kunkera Novalja", "text": "Galerie de artă din Novalja care expune lucrări ale artiștilor locali și contemporani.", "category": "museum", "coords": [14.884678, 44.556758]}, {"name": "Galerija Nevia", "text": "Mică galerie din Novalja care găzduiește diverse expoziții artistice.", "category": "museum", "coords": [14.886327, 44.556913]}, {"name": "Old Well", "text": "Vestigii istorice ale unei vechi fântâni situate în zona Novalja.", "category": "historical", "coords": [14.883587, 44.556276]}, {"name": "seagulls", "text": "O zonă de plajă situată în Novalja pe insula Pag.", "category": "recreational", "coords": [14.930435, 44.546586]}], "en": [{"name": "Pag Triangle", "text": "A mysterious triangle-shaped mark in the stone found in 1999 on a hill near Novalja.", "category": "natural features", "confidence": "medium", "image": "/poi-images/sights/novalja-pag-pag-dreieck.webp", "coords": [14.919083, 44.562556]}, {"name": "Zrće", "text": "A world-famous party beach on Pag island, renowned for its numerous open-air clubs and summer festivals.", "category": "recreational", "coords": [14.91619, 44.539334]}, {"name": "Gradski muzej Novalja", "text": "The Novalja City Museum houses significant archaeological finds, including the entrance to an ancient Roman aqueduct.", "category": "museum", "coords": [14.883329, 44.558007]}, {"name": "Straško", "text": "An extensive pebble beach and well-known campsite near Novalja, surrounded by an old oak and olive grove.", "category": "recreational", "coords": [14.880014, 44.539093]}, {"name": "Braničevica", "text": "A beautiful pebble beach in the resort of Gajac near Novalja, with shallow waters ideal for families.", "category": "recreational", "coords": [14.894641, 44.52882]}, {"name": "Caska", "text": "A beach rich in history in a bay near Novalja, where remains of a sunken Roman city lie beneath the waters.", "category": "recreational", "coords": [14.916118, 44.547726]}, {"name": "Planjka", "text": "This sandy beach in Stara Novalja, also called Trinćel, is popular with families and holds the Blue Flag award.", "category": "recreational", "coords": [14.888093, 44.571425]}, {"name": "Babe Beach", "text": "Stretching across the western part of Novalja, this flat coastal strip is renowned for its unusually warm bathing waters. By day, visitors splash in the gentle sea, while the evening promises romantic, sweeping views of the sunset. Lingering until the late hours to witness the colorful sky is a wonderful choice.", "category": "recreational", "coords": [14.866085, 44.567532]}, {"name": "Dog beach", "text": "This specially designated area in Novalja serves as a wonderful destination where four-legged friends are warmly welcomed. Dogs can splash freely in the sea, allowing both pets and their owners to enjoy the cooling water together. Planning a trip to this beach makes the holiday incredibly relaxed for animal lovers.", "category": "recreational", "coords": [14.877884, 44.553069]}, {"name": "Galerija Kunkera Novalja", "text": "Art gallery in Novalja showcasing works by local and contemporary artists.", "category": "museum", "coords": [14.884678, 44.556758]}, {"name": "Galerija Nevia", "text": "Small gallery in Novalja providing space for various artistic exhibitions.", "category": "museum", "coords": [14.886327, 44.556913]}, {"name": "Old Well", "text": "Historic remains of an old well located in the Novalja area.", "category": "historical", "coords": [14.883587, 44.556276]}, {"name": "seagulls", "text": "A beach area located in Novalja on the island of Pag.", "category": "recreational", "coords": [14.930435, 44.546586]}], "hr": [{"name": "Gradski muzej Novalja", "text": "Gradski muzej Novalja čuva bogatu arheološku zbirku, a u njemu se nalazi i ulaz u antički rimski vodovod iz 1. stoljeća.", "category": "museum", "coords": [14.883329, 44.558007]}, {"name": "Straško", "text": "Prostrana šljunčana plaža i poznati kamp kod Novalje, okruženi gustom šumom hrasta medunca i maslina.", "category": "recreational", "coords": [14.880014, 44.539093]}, {"name": "Braničevica", "text": "Lijepa šljunčana plaža u naselju Gajac kod Novalje, s blagim ulazom u more, idealna za obitelji s djecom.", "category": "recreational", "coords": [14.894641, 44.52882]}, {"name": "Caska", "text": "Plaža u povijesnoj uvali kod Novalje, u čijem se podmorju nalaze ostaci potonulog rimskog grada Caske.", "category": "recreational", "coords": [14.916118, 44.547726]}, {"name": "Planjka", "text": "Pješčana plaža u Staroj Novalji, poznata i kao Trinćel, omiljena je među obiteljima i nositeljica je Plave zastave.", "category": "recreational", "coords": [14.888093, 44.571425]}, {"name": "Babe Beach", "text": "Pliitka plaža na zapadnom dijelu Novalje, poznata po toplom moru i lijepom pogledu na zalazak sunca.", "category": "recreational", "coords": [14.866085, 44.567532]}, {"name": "Dog beach", "text": "Posebno označena plaža u Novalji namijenjena vlasnicima pasa i njihovim kućnim ljubimcima za kupanje u moru.", "category": "recreational", "coords": [14.877884, 44.553069]}, {"name": "Galerija Kunkera Novalja", "text": "Umjetnička galerija u Novalji koja izlaže djela lokalnih i suvremenih umjetnika.", "category": "museum", "coords": [14.884678, 44.556758]}, {"name": "Galerija Nevia", "text": "Mala galerija u Novalji koja ugošćuje razne umjetničke izložbe.", "category": "museum", "coords": [14.886327, 44.556913]}, {"name": "Old Well", "text": "Povijesni ostaci starog bunara na području Novalje.", "category": "historical", "coords": [14.883587, 44.556276]}, {"name": "seagulls", "text": "Dio plaže u Novalji na otoku Pagu.", "category": "recreational", "coords": [14.930435, 44.546586]}]}},
+  {"id": "novalja-pag", "type": "city", "parent": "HR-09", "coords": [14.883, 44.555], "population": 3663, "tier": 1, "name": {"de": "Novalja (Pag)", "hu": "Novalja (Pag)", "ro": "Novalja (Pag)", "en": "Novalja (Pag)"}, "description": {"de": "Novalja auf der Insel Pag vereint antike römische Geschichte mit dem modernen Party-Lifestyle des berühmten Zrće-Strandes.", "hu": "A Pag-szigeti Novalja az ókori római történelmet ötvözi a modern party-életstílussal, a híres Zrće-strandnak köszönhetően.", "ro": "Novalja, pe insula Pag, îmbină istoria antică romană cu stilul modern de viață de la faimoasa plajă de petreceri Zrće.", "en": "Novalja on Pag Island blends ancient Roman history with the modern party lifestyle of the world-famous Zrće Beach."}, "facts": {"de": ["3.663 Einwohner", "Zrće Beach (bekanntester Party-Strand)", "Antikes römisches Aquädukt", "Olivenhaine von Lun (1000 Jahre alt)", "Pager Käse (Paški sir)", "Pag-Spitze (UNESCO)", "Salzgewinnung auf Pag", "Karge, mondähnliche Landschaft"], "hu": ["3 663 lakos", "Zrće strand (híres bulihelyszín)", "Ókori római vízvezeték", "Luni olajfák (akár 1000 évesek)", "Pági sajt (Paški sir)", "Pági csipke (UNESCO)", "Hagyományos sólepárlás", "Sziklás, holdszerű táj"], "ro": ["3.663 locuitori", "Plaja Zrće (celebră pentru petreceri)", "Apeduct roman antic", "Măslinii din Lun (vechi de 1000 de ani)", "Brânză de Pag (Paški sir)", "Dantela de Pag (UNESCO)", "Producție tradițională de sare", "Peisaj stâncos, selenar"], "en": ["3,663 residents", "Zrće Beach (famed party destination)", "Ancient Roman aqueduct", "Lun Olive Groves (1,000+ years old)", "Pag Cheese (Paški sir)", "Pag Lace (UNESCO)", "Traditional salt production", "Rocky, moon-like landscape"]}, "image": "/poi-images/novalja-pag.webp", "imageHint": "Novalja waterfront and the crystal clear waters of Pag island", "descriptionAdvanced": {"de": "Novalja ist das touristische Zentrum im Norden der Insel Pag und hat sich in den letzten Jahrzehnten von einem verschlafenen Ort zum 'kroatischen Ibiza' gewandelt. Dieser Ruf basiert auf dem nahegelegenen Strand Zrće, wo im Sommer weltbekannte DJs in Open-Air-Clubs auflegen. Doch Novalja hat weit mehr zu bieten als nur Nachtleben. Die Stadt blickt auf eine reiche Geschichte zurück, deren beeindruckendstes Zeugnis das antike römische Aquädukt aus dem 1. Jahrhundert ist, das von den Einheimischen 'Talijanova buža' (Italiener-Loch) genannt wird. Die Umgebung von Novalja ist geprägt von der kargen, durch den Bora-Wind gezeichneten Landschaft der Insel Pag, die an die Oberfläche des Mondes erinnert. Ein Naturphänomen sind die Olivenhaine von Lun am Nordzipfel der Insel, wo über 80.000 Olivenbäume wachsen, von denen einige über 1.000 Jahre alt sind. Kulinarisch ist die Region weltberühmt für den Pager Käse (Paški sir), der seinen besonderen Geschmack durch die salzhaltigen Kräuter erhält, die die Schafe auf den kargen Weiden fressen.", "hu": "Novalja Pag szigetének északi központja, amely az elmúlt években a 'horvát Ibiza' nevet kapta. Ez az elismerés a közeli Zrće-strandnak köszönhető, ahol világhírű klubok és fesztiválok várják a bulizni vágyókat. Novalja azonban sokkal több egy partihelyszínnél. A város alatt egy lenyűgöző ókori római vízvezeték húzódik az 1. századból, amelyet a helyiek 'Talijanova buža'-nak hívnak, és amelynek egy szakasza ma is látogatható. A környék tájképe egyedülálló: a Bóra szél és a sós permet miatt a sziget nagy része kopár és köves, ami holdszerű látványt nyújt. Északra található Lun faluja, ahol több tízezer vad olajfa él, némelyikük kora meghaladja az 1000 évet. Pag szigete híres gasztronómiájáról is; itt készül a Paški sir, a juhsajt, amely az aromás, sós gyógynövényeken legelő juhok tejétől kapja jellegzetes ízét. A város ideális keveréke az ókori örökségnek, a természeti csodáknak és a modern szórakozásnak.", "ro": "Novalja este centrul turistic din nordul insulei Pag și s-a transformat în ultimele decenii dintr-o localitate liniștită în 'Ibiza croată'. Această reputație se bazează pe plaja Zrće din apropiere, unde vara mixează DJ de renume mondial în cluburi în aer liber. Totuși, Novalja are mult mai multe de oferit decât viața de noapte. Orașul are o istorie bogată, cea mai impresionantă mărturie fiind apeductul roman antic din secolul I, numit de localnici 'Talijanova buža'. Împrejurimile localității Novalja sunt marcate de peisajul arid al insulei Pag, modelat de vântul Bora, care amintește de suprafața lunii. Un fenomen natural remarcabil sunt livezile de măslini din Lun, la vârful nordic al insulei, unde cresc peste 80.000 de măslini, unii având o vârstă de peste 1.000 de ani. Din punct de vedere gastronomic, regiunea este celebră pentru brânza de Pag (Paški sir), care își obține gustul deosebit datorită plantelor aromatice sărate consumate de oi pe pășunile aride.", "en": "Novalja is the primary tourist hub in the northern part of Pag Island, having evolved from a quiet village into the 'Croatian Ibiza.' This reputation stems from the nearby Zrće Beach, home to world-class open-air clubs and major electronic music festivals. However, Novalja offers much more than just a nightlife scene. The town boasts a rich ancient heritage, most notably its 1st-century AD Roman aqueduct, known locally as 'Talijanova buža' (The Italian Hole), a section of which can still be explored. The landscape surrounding Novalja is strikingly barren due to the salt-carrying Bora wind, creating a surreal, moon-like environment. To the north lie the Olive Groves of Lun, a botanical reserve with over 80,000 wild olive trees, some older than 1,000 years. The region is also world-famous for its culinary specialty, Pag Cheese (Paški sir), made from the milk of sheep grazing on salt-dusted aromatic herbs."}, "factsAdvanced": {"de": ["Das römische Aquädukt ist 1,2 Kilometer lang", "Die Olivenbäume von Lun gehören zu den ältesten der Welt", "Das 'Pager Dreieck' ist eine mysteriöse Bodenformation in der Nähe", "Paški sir ist einer der meistprämierten Käse Kroatiens", "Novalja war in der Antike ein wichtiger römischer Hafen", "Zrće Beach hat die 'Blaue Flagge' für Wasserqualität"], "hu": ["A római vízvezeték 1,2 kilométer hosszú és kézzel vájták ki", "A luni olajfák között van egy 1600 éves példány is", "A 'Pági-háromszög' egy rejtélyes kőalakzat a város közelében", "A Paški sir többször nyerte el a világ legjobb juhsajtja címet", "Novalja az ókorban Cissa néven fontos római kikötő volt", "A Zrće-strand Kék Zászló minősítéssel rendelkezik a víz tisztasága miatt"], "ro": ["Apeductul roman are o lungime de 1,2 kilometri", "Măslinii din Lun se numără printre cei mai vechi din lume", "Triunghiul de la Pag este o formațiune stâncoasă misterioasă", "Paški sir este una dintre cele mai premiate brânzeturi din Croația", "Novalja a fost un port roman important în antichitate sub numele Cissa", "Plaja Zrće deține Steagul Albastru pentru calitatea apei"], "en": ["The Roman aqueduct is 1.2 kilometers long and hand-carved", "The Lun Olive Groves include trees over 1,600 years old", "The 'Pag Triangle' is a mysterious land formation found nearby", "Paški sir is one of Croatia's most internationally awarded cheeses", "Novalja was an important Roman port known as Cissa in antiquity", "Zrće Beach holds a Blue Flag for its exceptional water quality"]}, "sights": {
+      "de": [
+            {
+                  "name": "Pag-Dreieck",
+                  "text": "Ein mysteriöses, dreieckiges Mal im Stein auf einem nahen Hügel, das 1999 entdeckt wurde.",
+                  "category": "natural features",
+                  "confidence": "medium",
+                  "image": "/poi-images/sights/novalja-pag-pag-dreieck.webp",
+                  "coords": [
+                        14.919083,
+                        44.562556
+                  ]
+            },
+            {
+                  "name": "Zrće",
+                  "text": "Ein weltweit bekannter Partystrand auf der Insel Pag, der für seine zahlreichen Open-Air-Clubs und Festivals berühmt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        14.91619,
+                        44.539334
+                  ]
+            },
+            {
+                  "name": "Gradski muzej Novalja",
+                  "text": "Das Stadtmuseum von Novalja beherbergt bedeutende archäologische Funde, darunter den Zugang zu einer antiken römischen Wasserleitung.",
+                  "category": "museum",
+                  "coords": [
+                        14.883329,
+                        44.558007
+                  ]
+            },
+            {
+                  "name": "Straško",
+                  "text": "Ein weitläufiger Kiesstrand und bekannter Campingplatz bei Novalja, umgeben von einem alten Eichen- und Olivenhain.",
+                  "category": "recreational",
+                  "coords": [
+                        14.880014,
+                        44.539093
+                  ]
+            },
+            {
+                  "name": "Braničevica",
+                  "text": "Ein schöner Kiesstrand im Ferienort Gajac bei Novalja, der flach ins Meer abfällt und ideal für Familien ist.",
+                  "category": "recreational",
+                  "coords": [
+                        14.894641,
+                        44.52882
+                  ]
+            },
+            {
+                  "name": "Caska",
+                  "text": "Ein geschichtsträchtiger Strand in einer Bucht bei Novalja, in deren Gewässern Reste einer versunkenen römischen Stadt liegen.",
+                  "category": "recreational",
+                  "coords": [
+                        14.916118,
+                        44.547726
+                  ]
+            },
+            {
+                  "name": "Planjka",
+                  "text": "Dieser Sandstrand in Stara Novalja, auch Trinćel genannt, ist besonders bei Familien beliebt und trägt die Blaue Flagge.",
+                  "category": "recreational",
+                  "coords": [
+                        14.888093,
+                        44.571425
+                  ]
+            },
+            {
+                  "name": "Babe Beach",
+                  "text": "Im westlichen Teil von Novalja erstreckt sich dieser flache Küstenstreifen, der für sein außergewöhnlich warmes Badewasser berühmt ist. Tagsüber vergnügen sich hier Badegäste im sanften Gewässer, während der Abend mit einem romantischen Sonnenuntergang lockt. Es lohnt sich, bis in die späten Stunden zu bleiben, um das Farbspektakel am Himmel zu genießen.",
+                  "category": "recreational",
+                  "coords": [
+                        14.866085,
+                        44.567532
+                  ]
+            },
+            {
+                  "name": "Dog beach",
+                  "text": "Dieser speziell ausgewiesene Bereich in Novalja ist ein wunderbarer Ort, an dem Vierbeiner herzlich willkommen sind. Hunde können hier ausgelassen im Meer baden und gemeinsam mit ihren Besitzern das kühle Nass genießen. Ein Ausflug an diesen Strand macht den Urlaub für Tierfreunde besonders entspannt.",
+                  "category": "recreational",
+                  "coords": [
+                        14.877884,
+                        44.553069
+                  ]
+            },
+            {
+                  "name": "Galerija Kunkera Novalja",
+                  "text": "Kunstgalerie in Novalja, die Werke lokaler und zeitgenössischer Künstler präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        14.884678,
+                        44.556758
+                  ]
+            },
+            {
+                  "name": "Galerija Nevia",
+                  "text": "Kleine Galerie in Novalja, die verschiedenen künstlerischen Ausstellungen Raum bietet.",
+                  "category": "museum",
+                  "coords": [
+                        14.886327,
+                        44.556913
+                  ]
+            },
+            {
+                  "name": "Old Well",
+                  "text": "Historischer Steinbrunnen auf dem alten Stadtplatz von Novalja.",
+                  "category": "historical",
+                  "coords": [
+                        14.883587,
+                        44.556276
+                  ]
+            },
+            {
+                  "name": "seagulls",
+                  "text": "Küstenpromenade in Novalja mit Bänken und Blick aufs Meer, belebt von Möwen.",
+                  "category": "recreational",
+                  "coords": [
+                        14.930435,
+                        44.546586
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Paški trokut (Pagi-háromszög)",
+                  "text": "Rejtélyes, szabályos háromszög alakú benyomódás a köves talajon, amelyet 1999-ben fedeztek fel.",
+                  "category": "natural features",
+                  "confidence": "medium",
+                  "image": "/poi-images/sights/novalja-pag-pag-dreieck.webp",
+                  "coords": [
+                        14.919083,
+                        44.562556
+                  ]
+            },
+            {
+                  "name": "Zrće",
+                  "text": "Világszerte ismert partistrand Pag szigetén, amely számos szabadtéri klubjáról és nyári fesztiváljáról híres.",
+                  "category": "recreational",
+                  "coords": [
+                        14.91619,
+                        44.539334
+                  ]
+            },
+            {
+                  "name": "Gradski muzej Novalja",
+                  "text": "A novaljai városi múzeum jelentős régészeti leleteket őriz, többek között innen nyílik a bejárat az ókori római vízvezetékhez.",
+                  "category": "museum",
+                  "coords": [
+                        14.883329,
+                        44.558007
+                  ]
+            },
+            {
+                  "name": "Straško",
+                  "text": "Kiterjedt kavicsos strand és ismert kemping Novalja közelében, amelyet öreg tölgyesek és olajfák vesznek körül.",
+                  "category": "recreational",
+                  "coords": [
+                        14.880014,
+                        44.539093
+                  ]
+            },
+            {
+                  "name": "Braničevica",
+                  "text": "Szép kavicsos strand a Novalja melletti Gajac üdülőhelyen, amely lassan mélyülő vize miatt családok számára is ideális.",
+                  "category": "recreational",
+                  "coords": [
+                        14.894641,
+                        44.52882
+                  ]
+            },
+            {
+                  "name": "Caska",
+                  "text": "Történelmi jelentőségű strand Novalja közelében, amelynek öblében egy elsüllyedt római város maradványai találhatók.",
+                  "category": "recreational",
+                  "coords": [
+                        14.916118,
+                        44.547726
+                  ]
+            },
+            {
+                  "name": "Planjka",
+                  "text": "Ez a Stara Novaljában található homokos strand, más néven Trinćel, különösen népszerű a családok körében és Kék Zászlóval büszkélkedhet.",
+                  "category": "recreational",
+                  "coords": [
+                        14.888093,
+                        44.571425
+                  ]
+            },
+            {
+                  "name": "Babe Beach",
+                  "text": "Novalja nyugati részén húzódik ez a sekély partszakasz, amely kivételesen meleg vizéről híres. Nappal a fürdőzők élvezhetik a finoman hullámzó tengert, este pedig a romantikus naplemente nyújt felejthetetlen látványt. Érdemes a késő esti órákig maradni, hogy megcsodálhassuk az égbolt színkavalkádját.",
+                  "category": "recreational",
+                  "coords": [
+                        14.866085,
+                        44.567532
+                  ]
+            },
+            {
+                  "name": "Dog beach",
+                  "text": "Ez a Novaljában található, kifejezetten kutyák számára kijelölt strand csodás helyszín, ahol a négylábúak is szívesen látott vendégek. A kutyák itt szabadon fürdőzhetnek a tengerben, és gazdáikkal együtt élvezhetik a hűsítő vizet. Az állatbarátok számára egy itteni kirándulás igazán pihentetővé teszi a nyaralást.",
+                  "category": "recreational",
+                  "coords": [
+                        14.877884,
+                        44.553069
+                  ]
+            },
+            {
+                  "name": "Galerija Kunkera Novalja",
+                  "text": "Kortárs művészeti galéria Novalja központjában, helyi alkotók műveivel.",
+                  "category": "museum",
+                  "coords": [
+                        14.884678,
+                        44.556758
+                  ]
+            },
+            {
+                  "name": "Galerija Nevia",
+                  "text": "Kisméretű galéria Novaljában, amely változatos művészeti kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        14.886327,
+                        44.556913
+                  ]
+            },
+            {
+                  "name": "Old Well",
+                  "text": "Történelmi kőkút Novalja óvárosi terén.",
+                  "category": "historical",
+                  "coords": [
+                        14.883587,
+                        44.556276
+                  ]
+            },
+            {
+                  "name": "seagulls",
+                  "text": "Tengerparti sétány Novaljában, padokkal és tengerre néző kilátással, sirályokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        14.930435,
+                        44.546586
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Triunghiul din Pag",
+                  "text": "O amprentă misterioasă în formă de triunghi descoperită pe un deal pietros din apropiere în 1999.",
+                  "category": "natural features",
+                  "confidence": "medium",
+                  "image": "/poi-images/sights/novalja-pag-pag-dreieck.webp",
+                  "coords": [
+                        14.919083,
+                        44.562556
+                  ]
+            },
+            {
+                  "name": "Zrće",
+                  "text": "O plajă de petrecere renumită la nivel mondial pe insula Pag, celebră pentru numeroasele sale cluburi în aer liber și festivaluri.",
+                  "category": "recreational",
+                  "coords": [
+                        14.91619,
+                        44.539334
+                  ]
+            },
+            {
+                  "name": "Gradski muzej Novalja",
+                  "text": "Muzeul orașului Novalja adăpostește descoperiri arheologice importante, inclusiv accesul la un apeduct antic roman.",
+                  "category": "museum",
+                  "coords": [
+                        14.883329,
+                        44.558007
+                  ]
+            },
+            {
+                  "name": "Straško",
+                  "text": "O plajă întinsă cu pietriš și un camping cunoscut lângă Novalja, înconjurat de o pădure veche de stejari și măslini.",
+                  "category": "recreational",
+                  "coords": [
+                        14.880014,
+                        44.539093
+                  ]
+            },
+            {
+                  "name": "Braničevica",
+                  "text": "O plajă frumoasă cu pietriš în stațiunea Gajac de lângă Novalja, cu intrare lină în mare, ideală pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        14.894641,
+                        44.52882
+                  ]
+            },
+            {
+                  "name": "Caska",
+                  "text": "O plajă plină de istorie într-un golf de lângă Novalja, în ale cărei ape se află rămășițele unui oraș roman scufundat.",
+                  "category": "recreational",
+                  "coords": [
+                        14.916118,
+                        44.547726
+                  ]
+            },
+            {
+                  "name": "Planjka",
+                  "text": "Această plajă cu nisip din Stara Novalja, numită și Trinćel, este populară în rândul familiilor și deține steagul albastru.",
+                  "category": "recreational",
+                  "coords": [
+                        14.888093,
+                        44.571425
+                  ]
+            },
+            {
+                  "name": "Babe Beach",
+                  "text": "În partea de vest a orașului Novalja se află această fâșie de plajă plată, renumită pentru apele sale deosebit de calde. În timpul zilei, vizitatorii se bucură de înot în apele blânde, în timp ce seara aduce apusuri de soare romantice. Merită să rămâneți până târziu pentru a privi spectacolul de culori de pe cer.",
+                  "category": "recreational",
+                  "coords": [
+                        14.866085,
+                        44.567532
+                  ]
+            },
+            {
+                  "name": "Dog beach",
+                  "text": "Această zonă special desemnată din Novalja este un loc minunat în care prietenii cu patru picioare sunt bineveniți. Câinii pot înota liber în mare aici, bucurându-se de apa răcoroasă alături de stăpânii lor. O vizită la această plajă face vacanța deosebit de relaxantă pentru iubitorii de animale.",
+                  "category": "recreational",
+                  "coords": [
+                        14.877884,
+                        44.553069
+                  ]
+            },
+            {
+                  "name": "Galerija Kunkera Novalja",
+                  "text": "Galerie de artă din Novalja care expune lucrări ale artiștilor locali și contemporani.",
+                  "category": "museum",
+                  "coords": [
+                        14.884678,
+                        44.556758
+                  ]
+            },
+            {
+                  "name": "Galerija Nevia",
+                  "text": "Mică galerie din Novalja care găzduiește diverse expoziții artistice.",
+                  "category": "museum",
+                  "coords": [
+                        14.886327,
+                        44.556913
+                  ]
+            },
+            {
+                  "name": "Old Well",
+                  "text": "Fântână istorică de piatră în piața veche a orașului Novalja.",
+                  "category": "historical",
+                  "coords": [
+                        14.883587,
+                        44.556276
+                  ]
+            },
+            {
+                  "name": "seagulls",
+                  "text": "Promenadă de coastă în Novalja, cu bănci și vedere la mare, frecventată de pescăruși.",
+                  "category": "recreational",
+                  "coords": [
+                        14.930435,
+                        44.546586
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pag Triangle",
+                  "text": "A mysterious triangle-shaped mark in the stone found in 1999 on a hill near Novalja.",
+                  "category": "natural features",
+                  "confidence": "medium",
+                  "image": "/poi-images/sights/novalja-pag-pag-dreieck.webp",
+                  "coords": [
+                        14.919083,
+                        44.562556
+                  ]
+            },
+            {
+                  "name": "Zrće",
+                  "text": "A world-famous party beach on Pag island, renowned for its numerous open-air clubs and summer festivals.",
+                  "category": "recreational",
+                  "coords": [
+                        14.91619,
+                        44.539334
+                  ]
+            },
+            {
+                  "name": "Gradski muzej Novalja",
+                  "text": "The Novalja City Museum houses significant archaeological finds, including the entrance to an ancient Roman aqueduct.",
+                  "category": "museum",
+                  "coords": [
+                        14.883329,
+                        44.558007
+                  ]
+            },
+            {
+                  "name": "Straško",
+                  "text": "An extensive pebble beach and well-known campsite near Novalja, surrounded by an old oak and olive grove.",
+                  "category": "recreational",
+                  "coords": [
+                        14.880014,
+                        44.539093
+                  ]
+            },
+            {
+                  "name": "Braničevica",
+                  "text": "A beautiful pebble beach in the resort of Gajac near Novalja, with shallow waters ideal for families.",
+                  "category": "recreational",
+                  "coords": [
+                        14.894641,
+                        44.52882
+                  ]
+            },
+            {
+                  "name": "Caska",
+                  "text": "A beach rich in history in a bay near Novalja, where remains of a sunken Roman city lie beneath the waters.",
+                  "category": "recreational",
+                  "coords": [
+                        14.916118,
+                        44.547726
+                  ]
+            },
+            {
+                  "name": "Planjka",
+                  "text": "This sandy beach in Stara Novalja, also called Trinćel, is popular with families and holds the Blue Flag award.",
+                  "category": "recreational",
+                  "coords": [
+                        14.888093,
+                        44.571425
+                  ]
+            },
+            {
+                  "name": "Babe Beach",
+                  "text": "Stretching across the western part of Novalja, this flat coastal strip is renowned for its unusually warm bathing waters. By day, visitors splash in the gentle sea, while the evening promises romantic, sweeping views of the sunset. Lingering until the late hours to witness the colorful sky is a wonderful choice.",
+                  "category": "recreational",
+                  "coords": [
+                        14.866085,
+                        44.567532
+                  ]
+            },
+            {
+                  "name": "Dog beach",
+                  "text": "This specially designated area in Novalja serves as a wonderful destination where four-legged friends are warmly welcomed. Dogs can splash freely in the sea, allowing both pets and their owners to enjoy the cooling water together. Planning a trip to this beach makes the holiday incredibly relaxed for animal lovers.",
+                  "category": "recreational",
+                  "coords": [
+                        14.877884,
+                        44.553069
+                  ]
+            },
+            {
+                  "name": "Galerija Kunkera Novalja",
+                  "text": "Art gallery in Novalja showcasing works by local and contemporary artists.",
+                  "category": "museum",
+                  "coords": [
+                        14.884678,
+                        44.556758
+                  ]
+            },
+            {
+                  "name": "Galerija Nevia",
+                  "text": "Small gallery in Novalja providing space for various artistic exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        14.886327,
+                        44.556913
+                  ]
+            },
+            {
+                  "name": "Old Well",
+                  "text": "A historic stone well on the old town square of Novalja.",
+                  "category": "historical",
+                  "coords": [
+                        14.883587,
+                        44.556276
+                  ]
+            },
+            {
+                  "name": "seagulls",
+                  "text": "A coastal promenade in Novalja with benches and sea views, frequented by seagulls.",
+                  "category": "recreational",
+                  "coords": [
+                        14.930435,
+                        44.546586
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Gradski muzej Novalja",
+                  "text": "Gradski muzej Novalja čuva bogatu arheološku zbirku, a u njemu se nalazi i ulaz u antički rimski vodovod iz 1. stoljeća.",
+                  "category": "museum",
+                  "coords": [
+                        14.883329,
+                        44.558007
+                  ]
+            },
+            {
+                  "name": "Straško",
+                  "text": "Prostrana šljunčana plaža i poznati kamp kod Novalje, okruženi gustom šumom hrasta medunca i maslina.",
+                  "category": "recreational",
+                  "coords": [
+                        14.880014,
+                        44.539093
+                  ]
+            },
+            {
+                  "name": "Braničevica",
+                  "text": "Lijepa šljunčana plaža u naselju Gajac kod Novalje, s blagim ulazom u more, idealna za obitelji s djecom.",
+                  "category": "recreational",
+                  "coords": [
+                        14.894641,
+                        44.52882
+                  ]
+            },
+            {
+                  "name": "Caska",
+                  "text": "Plaža u povijesnoj uvali kod Novalje, u čijem se podmorju nalaze ostaci potonulog rimskog grada Caske.",
+                  "category": "recreational",
+                  "coords": [
+                        14.916118,
+                        44.547726
+                  ]
+            },
+            {
+                  "name": "Planjka",
+                  "text": "Pješčana plaža u Staroj Novalji, poznata i kao Trinćel, omiljena je među obiteljima i nositeljica je Plave zastave.",
+                  "category": "recreational",
+                  "coords": [
+                        14.888093,
+                        44.571425
+                  ]
+            },
+            {
+                  "name": "Babe Beach",
+                  "text": "Pliitka plaža na zapadnom dijelu Novalje, poznata po toplom moru i lijepom pogledu na zalazak sunca.",
+                  "category": "recreational",
+                  "coords": [
+                        14.866085,
+                        44.567532
+                  ]
+            },
+            {
+                  "name": "Dog beach",
+                  "text": "Posebno označena plaža u Novalji namijenjena vlasnicima pasa i njihovim kućnim ljubimcima za kupanje u moru.",
+                  "category": "recreational",
+                  "coords": [
+                        14.877884,
+                        44.553069
+                  ]
+            },
+            {
+                  "name": "Galerija Kunkera Novalja",
+                  "text": "Umjetnička galerija u Novalji koja izlaže djela lokalnih i suvremenih umjetnika.",
+                  "category": "museum",
+                  "coords": [
+                        14.884678,
+                        44.556758
+                  ]
+            },
+            {
+                  "name": "Galerija Nevia",
+                  "text": "Mala galerija u Novalji koja ugošćuje razne umjetničke izložbe.",
+                  "category": "museum",
+                  "coords": [
+                        14.886327,
+                        44.556913
+                  ]
+            },
+            {
+                  "name": "Old Well",
+                  "text": "Povijesni ostaci starog bunara na području Novalje.",
+                  "category": "historical",
+                  "coords": [
+                        14.883587,
+                        44.556276
+                  ]
+            },
+            {
+                  "name": "seagulls",
+                  "text": "Dio plaže u Novalji na otoku Pagu.",
+                  "category": "recreational",
+                  "coords": [
+                        14.930435,
+                        44.546586
+                  ]
+            }
+      ]
+}},
   {"id": "opatija", "type": "city", "parent": "HR-08", "coords": [14.305, 45.338], "population": 11659, "tier": 1, "name": {"de": "Opatija", "hu": "Abbázia (Opatija)", "ro": "Opatija", "en": "Opatija"}, "description": {"de": "Einst der exklusivste Kurort der K.u.K. Monarchie, versprüht Opatija heute noch den Glanz der Belle Époque mit seinen prachtvollen Villen.", "hu": "Az Osztrák-Magyar Monarchia egykori legelegánsabb üdülőhelye, ahol ma is érezhető a „boldog békeidők” hangulata a díszes villák között.", "ro": "Cândva cea mai exclusivistă stațiune a Monarhiei Austro-Ungare, Opatija emană și astăzi farmecul Belle Époque prin vilele sale somptuoase.", "en": "Once the most exclusive resort of the Austro-Hungarian Empire, Opatija still radiates Belle Époque glamour with its grand villas."}, "facts": {"de": ["11.659 Einwohner", "Ältester Kurort an der Adria", "12 km Lungomare-Promenade", "Belle-Époque-Architektur", "Mädchen mit der Möwe (Statue)", "Villa Angiolina (1844)", "Park Angiolina mit Kamelien", "Beliebt bei Kaisern und Königen"], "hu": ["11 659 lakos", "Az Adria legrégebbi üdülőhelye", "12 km hosszú Lungomare sétány", "Belle-Époque építészet", "Lány a sirállyal szobor", "Villa Angiolina (1844)", "Angiolina park kaméliákkal", "Császárok és királyok kedvence"], "ro": ["11.659 locuitori", "Cea mai veche stațiune de pe Adriatică", "Faleză Lungomare de 12 km", "Arhitectură Belle Époque", "Statuia Fata cu Pescărușul", "Villa Angiolina (1844)", "Parcul Angiolina cu camelii", "Preferata împăraților și regilor"], "en": ["11,659 residents", "Oldest resort on the Adriatic", "12 km Lungomare promenade", "Belle Époque architecture", "Maiden with the Seagull statue", "Villa Angiolina (1844)", "Angiolina Park with camellias", "Favored by emperors and kings"]}, "image": "/poi-images/opatija.webp", "imageHint": "Opatija waterfront with the Maiden with the Seagull statue and villas", "descriptionAdvanced": {"de": "Opatija, oft als das 'Nizza der Adria' bezeichnet, ist die Wiege des kroatischen Tourismus. Der Aufstieg begann 1844 mit dem Bau der Villa Angiolina durch den Kaufmann Iginio Scarpa. Die Stadt wurde zum Treffpunkt der europäischen Aristokratie; Kaiser Franz Joseph I. und zahlreiche Könige verbrachten hier ihre Wintermonate. Die Architektur ist geprägt von opulenten Hotels und Villen im Stil des Historismus und Jugendstils. Eines der Highlights ist der 12 Kilometer lange Küstenweg 'Lungomare', der sich von Volosko über Opatija bis nach Lovran erstreckt und atemberaubende Ausblicke auf die Kvarner-Bucht bietet. Das Wahrzeichen der Stadt ist die Statue 'Mädchen mit der Möwe', die 1956 vom Bildhauer Zvonko Car geschaffen wurde. Dank des milden Klimas und der üppigen Vegetation mit Kamelien, Palmen und Lorbeerbäumen ist Opatija das ganze Jahr über ein attraktives Reiseziel für Erholungsuchende und Kulturliebhaber.", "hu": "Abbázia (horvátul Opatija) a horvát turizmus bölcsője és az Adria egyik legelegánsabb városa. Felemelkedése 1844-ben kezdődött, amikor Iginio Scarpa fiumei kereskedő felépíttette a Villa Angiolinát. A 19. század végére a város az Osztrák-Magyar Monarchia elitjének kedvenc téli tartózkodási helyévé vált; megfordult itt Ferenc József császár, de számos király és művész is. A városképet a díszes, historizáló és szecessziós stílusú paloták és szállodák határozzák meg. Egyik legfőbb vonzereje a 12 kilométer hosszú tengerparti sétány, a Lungomare, amely Volosko és Lovran között húzódik. A város jelképe a tengerparti sziklán álló 'Lány a sirállyal' szobor. A mikroklímának köszönhetően a kertekben egzotikus növények és a város szimbólumának számító kaméliák virágoznak. Abbázia ma is az exkluzív pihenés és a kulturális rendezvények központja a Kvarner-öbölben.", "ro": "Opatija, supranumită adesea 'Nisa Adriaticii', este leagănul turismului croat. Ascensiunea sa a început în 1844, odată cu construcția Vilei Angiolina de către negustorul Iginio Scarpa. Orașul a devenit locul de întâlnire al aristocrației europene; împăratul Franz Joseph I și numeroși regi își petreceau aici lunile de iarnă. Arhitectura este dominată de hoteluri și vile opulente în stil istoricist și Art Nouveau. Unul dintre punctele de atracție este faleza 'Lungomare', o alee de 12 kilometri care se întinde de la Volosko prin Opatija până la Lovran, oferind priveliști spectaculoase asupra Golfului Kvarner. Simbolul orașului este statuia 'Fata cu Pescărușul', creată în 1956 de sculptorul Zvonko Car. Datorită climatului blând și vegetației luxuriante cu camelii, palmieri și lauri, Opatija este o destinație atractivă pe tot parcursul anului pentru cei care caută relaxare și cultură.", "en": "Opatija, often called the 'Nice of the Adriatic,' is the birthplace of Croatian tourism. Its transformation began in 1844 when merchant Iginio Scarpa built Villa Angiolina. The town quickly became the premier winter retreat for European royalty and aristocracy; Emperor Franz Joseph I and numerous kings were frequent guests. The architecture is defined by grand hotels and villas in Historicist and Art Nouveau styles. A major highlight is the 'Lungomare,' a 12-kilometer coastal promenade stretching from Volosko to Lovran, offering breathtaking views of the Kvarner Gulf. The town's most famous landmark is the 'Maiden with the Seagull' statue, erected in 1956 by sculptor Zvonko Car. Thanks to its mild microclimate and lush parks filled with camellias, palms, and laurels, Opatija remains a top destination for luxury travel and wellness year-round."}, "factsAdvanced": {"de": ["Das Hotel Kvarner war 1884 das erste Hotel an der Adria", "Die Kamelie ist das offizielle Symbol der Stadt Opatija", "Kaiser Franz Joseph I. traf hier 1894 den deutschen Kaiser Wilhelm II.", "Der Name Opatija leitet sich von einer Benediktinerabtei ab", "Isadora Duncan fand hier Inspiration für ihre Tanzbewegungen", "Die Villa Angiolina beherbergt heute das Tourismusmuseum"], "hu": ["A Hotel Kvarner 1884-ben nyílt meg, az Adria első szállodájaként", "A kamélia Abbázia városának hivatalos szimbóluma", "I. Ferenc József 1894-ben itt találkozott II. Vilmos német császárral", "A város neve (Opatija) a bencés apátságra utal", "Isadora Duncan itt talált ihletet híres táncmozdulataihoz", "A Villa Angiolina ma a Horvát Turisztikai Múzeumnak ad otthont"], "ro": ["Hotelul Kvarner, deschis în 1884, a fost primul de pe Adriatică", "Camelia este simbolul oficial al orașului Opatija", "Împăratul Franz Joseph I s-a întâlnit aici cu Wilhelm al II-lea în 1894", "Numele Opatija provine de la o mănăstire benedictină (abație)", "Isadora Duncan a găsit aici inspirație pentru mișcările sale de dans", "Vila Angiolina găzduiește astăzi Muzeul Turismului"], "en": ["Hotel Kvarner, opened in 1884, was the first hotel on the Adriatic", "The camellia flower is the official symbol of Opatija", "Emperor Franz Joseph I met German Kaiser Wilhelm II here in 1894", "The name Opatija is derived from a 15th-century Benedictine abbey", "Isadora Duncan found inspiration for her dance moves here", "Villa Angiolina now houses the Croatian Museum of Tourism"]}, "sights": {
       "de": [
             {
@@ -3449,7 +4035,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Kalac",
-                  "text": "Kalac in Opatija ist ein schöner Ort für einen Spaziergang am Wasser.",
+                  "text": "Kieselstrand in Opatija mit Strandbar und Sonnenliegen.",
                   "category": "natural",
                   "coords": [
                         14.259023,
@@ -3458,7 +4044,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Šterna",
-                  "text": "Šterna in Opatija ist ein ruhiger See für eine kurze Auszeit.",
+                  "text": "Natürliche Quelle in Opatija mit Steinbecken, umgeben von Wald.",
                   "category": "natural",
                   "coords": [
                         14.349724,
@@ -3476,7 +4062,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Igralište Bregi",
-                  "text": "Spielplatz in Bregi, Opatija.",
+                  "text": "Kinderspielplatz im Bregi-Viertel von Opatija mit Rutschen und Schaukeln.",
                   "category": "family",
                   "coords": [
                         14.300223,
@@ -3798,7 +4384,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Kalac",
-                  "text": "Az Opatija-i Kalac szép hely egy vízparti sétához.",
+                  "text": "Kavicsos strand Opatijában, strandbárral és napozóágyakkal.",
                   "category": "natural",
                   "coords": [
                         14.259023,
@@ -3807,7 +4393,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Šterna",
-                  "text": "Az Opatija-i Šterna egy csendes tó egy rövid pihenőhöz.",
+                  "text": "Természetes forrás Opatijában, kőmedencével, erdővel körülvéve.",
                   "category": "natural",
                   "coords": [
                         14.349724,
@@ -3825,7 +4411,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Igralište Bregi",
-                  "text": "Játszótér Bregiben, Opatija városában.",
+                  "text": "Gyermekjátszótér Opatija Bregi negyedében, csúszdákkal és hintákkal.",
                   "category": "family",
                   "coords": [
                         14.300223,
@@ -4147,7 +4733,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Kalac",
-                  "text": "Kalac din Opatija este un loc frumos pentru o plimbare pe malul apei.",
+                  "text": "Plajă de pietriș în Opatija, cu bar de plajă și șezlonguri.",
                   "category": "natural",
                   "coords": [
                         14.259023,
@@ -4156,7 +4742,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Šterna",
-                  "text": "Šterna din Opatija este un lac liniștit pentru o scurtă pauză.",
+                  "text": "Izvor natural în Opatija, cu un bazin de piatră, înconjurat de pădure.",
                   "category": "natural",
                   "coords": [
                         14.349724,
@@ -4174,7 +4760,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Igralište Bregi",
-                  "text": "Loc de joacă în Bregi, Opatija.",
+                  "text": "Loc de joacă pentru copii în cartierul Bregi din Opatija, cu tobogane și leagăne.",
                   "category": "family",
                   "coords": [
                         14.300223,
@@ -4496,7 +5082,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Kalac",
-                  "text": "Kalac in Opatija is a beautiful place for a walk by the water.",
+                  "text": "A pebble beach in Opatija with a beach bar and sun loungers.",
                   "category": "natural",
                   "coords": [
                         14.259023,
@@ -4505,7 +5091,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Šterna",
-                  "text": "Šterna in Opatija is a quiet lake for a short break.",
+                  "text": "A natural spring in Opatija with a stone basin surrounded by forest.",
                   "category": "natural",
                   "coords": [
                         14.349724,
@@ -4523,7 +5109,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Igralište Bregi",
-                  "text": "Playground in Bregi, Opatija.",
+                  "text": "A children's playground in the Bregi neighborhood of Opatija with slides and swings.",
                   "category": "family",
                   "coords": [
                         14.300223,
@@ -4768,7 +5354,1369 @@ export const poiExtraHrV1: POI[] = [
             }
       ]
 }},
-  {"id": "plitvicka-jezera", "type": "city", "parent": "HR-09", "coords": [15.616, 44.88], "population": 200, "tier": 1, "name": {"de": "Plitvička Jezera (Dorf)", "hu": "Plitvička Jezera (falu)", "ro": "Plitvička Jezera (sat)", "en": "Plitvička Jezera (village)"}, "description": {"de": "Diese kleine Siedlung dient als administratives Zentrum und Tor zum weltberühmten Nationalpark Plitvicer Seen. Das Dorf ist von dichten Wäldern und der unberührten Natur der Lika-Region umgeben.", "hu": "Ez a kistelepülés a világhírű Plitvicei-tavak Nemzeti Park adminisztratív központja és fő kapuja. A falu sűrű erdőkkel és a Lika-régió érintetlen természeti környezetével van körülvéve.", "ro": "Această mică așezare servește drept centru administrativ și poartă de acces către faimosul Parc Național Lacurile Plitvice. Satul este înconjurat de păduri dese și de natura neatinsă a regiunii Lika.", "en": "This small settlement serves as the administrative center and main gateway to the world-famous Plitvice Lakes National Park. The village is surrounded by dense forests and the pristine nature of the Lika region."}, "facts": {"de": ["Einwohnerzahl: ca. 200 Personen", "Liegt in der Gespanschaft Lika-Senj", "Zentrum der gleichnamigen Gemeinde", "Haupteingang zum UNESCO-Welterbe", "Befindet sich auf 550 Meter Seehöhe", "Wichtiger Knotenpunkt für Naturtouristen", "Klima ist montan geprägt", "Umgeben von jahrhundertealten Buchenwäldern"], "hu": ["Népessége körülbelül 200 fő", "Lika-Zengg megyében található", "Az azonos nevű község központja", "Az UNESCO világörökség fő bejárata", "550 méteres tengerszint feletti magasságban fekszik", "A természetjárók fontos csomópontja", "Hegyvidéki éghajlat jellemzi", "Évszázados bükkerdők veszik körül"], "ro": ["Populație: aproximativ 200 de persoane", "Situat în cantonul Lika-Senj", "Centrul comunei cu același nume", "Intrarea principală în patrimoniul UNESCO", "Se află la 550 de metri altitudine", "Punct strategic pentru turiștii iubitori de natură", "Climat montan specific zonei", "Înconjurat de păduri de fag de sute de ani"], "en": ["Population: approx. 200 people", "Located in Lika-Senj County", "Center of the municipality of the same name", "Main entry point to the UNESCO World Heritage", "Situated at 550 meters above sea level", "Crucial hub for nature tourists", "Characterized by a mountain climate", "Surrounded by centuries-old beech forests"]}, "image": "/poi-images/plitvicka-jezera.webp", "imageHint": "Entrance to Plitvice Lakes National Park with wooden signs and forest", "descriptionAdvanced": {"de": "Plitvička Jezera ist mehr als nur ein Name für den Park; es ist eine kleine Gemeinde, die das logistische Rückgrat für Kroatiens meistbesuchtes Naturwunder bildet. Das Dorf selbst ist ruhig und bewahrt die traditionelle Architektur der Lika, mit steilen Dächern, die für die schneereichen Winter der Region ausgelegt sind. Während die meisten Besucher direkt zu den Seen eilen, bietet die Umgebung des Dorfes zahlreiche Wanderwege durch den Nationalpark, die weitab von den Touristenmassen liegen. Hier erfährt man die Gastfreundschaft der Bergbevölkerung und kann lokale Spezialitäten wie den Lika-Käse (Baser) probieren. Die strategische Lage an der Staatsstraße D1 macht es zum idealen Ausgangspunkt, um die 16 kaskadenförmigen Seen und die über 90 Wasserfälle zu erkunden, die dieses Gebiet so einzigartig machen.", "hu": "Plitvička Jezera több mint egy park neve; ez egy kis közösség, amely Horvátország leglátogatottabb természeti csodájának logisztikai hátterét biztosítja. Maga a falu csendes, és őrzi a Lika-vidék hagyományos építészetét, a meredek tetőkkel, amelyeket a régió havas teleire terveztek. Bár a legtöbb látogató közvetlenül a tavakhoz siet, a falu környéke számos túraútvonalat kínál a nemzeti parkon keresztül, amelyek távol esnek a turistaáradattól. Itt megtapasztalható a hegyvidéki emberek vendégszeretete, és megkóstolhatók a helyi különlegességek, mint például a likai sajt (Baser). A D1-es főút menti stratégiai elhelyezkedése ideális kiindulóponttá teszi a 16 lépcsőzetes tó és a több mint 90 vízesés felfedezéséhez, amelyek ezt a területet egyedivé teszik.", "ro": "Plitvička Jezera este mai mult decât numele parcului; este o mică comunitate care formează coloana vertebrală logistică a celei mai vizitate minuni naturale din Croația. Satul în sine este liniștit și păstrează arhitectura tradițională din Lika, cu acoperișuri abrupte concepute pentru iernile bogate în zăpadă ale regiunii. În timp ce majoritatea vizitatorilor se grăbesc direct spre lacuri, împrejurimile satului oferă numeroase trasee de drumeție prin parcul național, departe de masele de turiști. Aici puteți experimenta ospitalitatea populației montane și puteți gusta specialități locale, cum ar fi brânza Lika (Baser). Poziția sa strategică pe drumul național D1 îl face punctul de plecare ideal pentru a explora cele 16 lacuri în cascadă și cele peste 90 de cascade care fac această zonă atât de unică.", "en": "Plitvička Jezera is more than just the name of the park; it is a small community that forms the logistical backbone for Croatia's most visited natural wonder. The village itself is quiet and preserves the traditional architecture of Lika, with steep roofs designed for the region's snowy winters. While most visitors rush straight to the lakes, the surroundings of the village offer numerous hiking trails through the national park that are far from the tourist crowds. Here, you can experience the hospitality of the mountain people and taste local specialties such as Lika cheese (Baser). Its strategic location on the D1 state road makes it the ideal starting point for exploring the 16 cascaded lakes and more than 90 waterfalls that make this area so unique."}, "factsAdvanced": {"de": ["Die Gemeinde umfasst insgesamt 41 Siedlungen in der Region", "Der Nationalpark wurde bereits 1949 gegründet", "Die Region liegt im Gebirgsmassiv der Velika Kapela", "Die Jahresdurchschnittstemperatur liegt bei kühlen 8 Grad Celsius", "In den umliegenden Wäldern leben Braunbären und Wölfe", "Die Höhendifferenz im Park beträgt insgesamt 158 Meter"], "hu": ["A község összesen 41 települést foglal magában a régióban", "A nemzeti parkot már 1949-ben megalapították", "A régió a Velika Kapela hegymasszívumban fekszik", "Az éves átlaghőmérséklet hűvös, mindössze 8 Celsius-fok", "A környező erdőkben barnamedvék és farkasok élnek", "A parkon belüli szintkülönbség összesen 158 méter"], "ro": ["Comuna cuprinde în total 41 de așezări în regiune", "Parcul național a fost înființat încă din anul 1949", "Regiunea se află în masivul muntos Velika Kapela", "Temperatura medie anuală este de răcoroase 8 grade Celsius", "În pădurile din jur trăiesc urși bruni și lupi", "Diferența de altitudine în parc este de 158 de metri în total"], "en": ["The municipality includes a total of 41 settlements in the region", "The national park was established as early as 1949", "The region lies in the Velika Kapela mountain massif", "The average annual temperature is a cool 8 degrees Celsius", "Brown bears and wolves live in the surrounding forests", "The total elevation difference within the park is 158 meters"]}, "sights": {"de": [{"name": "Veliki Slap", "text": "Mit 78 Metern der höchste Wasserfall Kroatiens, im untersten Teil des Nationalparks gelegen.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/plitvicka-jezera-veliki-slap.webp", "coords": [15.608893, 44.902374]}, {"name": "Kozjak-See", "text": "Der größte See des Parks, auf dem Elektroboote die Oberen mit den Unteren Seen verbinden.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/plitvicka-jezera-kozjak-see.webp", "coords": [15.613596, 44.884707]}, {"name": "Galovački buk", "text": "Ein beeindruckender 16 Meter hoher Wasserfall, der das Wasser in die Gornja Jezera stürzt.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/plitvicka-jezera-galova-ki-buk.webp", "coords": [15.60851, 44.87585]}, {"name": "Šupljara-Höhle", "text": "Eine faszinierende Kalksteinhöhle in den Klippen der Unteren Seen mit steilen Treppenwegen.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/plitvicka-jezera-upljara-h-hle.webp", "coords": [15.612092, 44.899925]}, {"name": "Milanovac-See", "text": "Der erste der Unteren Seen, bekannt für seine smaragdgrüne Farbe und die hohen Felswände.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/plitvicka-jezera-milanovac-see.webp", "coords": [15.610727, 44.896304]}, {"name": "Prošćansko-See", "text": "Der höchstgelegene See des Systems, umgeben von dichten Wäldern und unberührter Natur.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/plitvicka-jezera-pro-ansko-see.webp", "coords": [15.600279, 44.861556]}, {"name": "Donja Jezera", "text": "Die vier unteren Seen, eingebettet in eine tiefe Schlucht aus steilen Kalksteinfelsen.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/plitvicka-jezera-donja-jezera.webp", "coords": [15.611202, 44.897281]}, {"name": "Burget-See", "text": "Ein kleinerer, flacher See mit zahlreichen Kalktuffbarrieren und kristallklarem Wasser.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/plitvicka-jezera-burget-see.webp", "coords": [15.614111, 44.879137]}, {"name": "Burgruine Krčingrad", "text": "Die Ruinen einer mittelalterlichen Festung auf der Halbinsel zwischen den Seen Gradinsko und Kozjak in Plitvice.", "category": "castle", "coords": [15.614429, 44.877132]}, {"name": "Turčić", "text": "Ein Berggipfel in der Region der Plitvicer Seen.", "category": "natural", "coords": [15.625369, 44.897797]}, {"name": "Stubica", "text": "Ein Gipfel in der bergigen Landschaft des Nationalparks Plitvicer Seen.", "category": "natural", "coords": [15.601601, 44.875764]}, {"name": "Tavanak", "text": "Ein Berggipfel, der Teil des Gebirgsmassivs rund um die Plitvicer Seen ist.", "category": "natural", "coords": [15.595001, 44.885401]}, {"name": "Crni vrh", "text": "Ein bewaldeter Gipfel in der Nähe der Plitvicer Seen.", "category": "natural", "coords": [15.606184, 44.866227]}, {"name": "Hrnjakov vršak", "text": "Ein Berggipfel in der Region Plitvička Jezera.", "category": "natural", "coords": [15.640707, 44.871165]}, {"name": "Nacionalni park Plitvička jezera", "text": "Kroatiens ältester Nationalpark, berühmt für seine 16 kaskadenförmigen Seen und den Status als UNESCO-Welterbe.", "category": "landmark", "coords": [15.613758, 44.883484]}, {"name": "Tomićevo pogledalo", "text": "Das Tomićevo pogledalo dient als natürlicher Aussichtspunkt im Plitvicka Jezera Village. Hier können Naturliebhaber einen beeindruckenden weiten Blick über die Landschaft der Plitvicer Seen genießen.", "category": "natural", "coords": [15.596755, 44.873715]}, {"name": "Belvedere", "text": "Ein Aussichtspunkt mit Panoramablick auf die Seen und Wasserfälle des Parks.", "category": "natural", "coords": [15.60503, 44.874575]}, {"name": "Linie P2 - P3", "text": "Eine Elektrobootverbindung, die die Anlegestellen P2 und P3 auf dem Kozjak-See verbindet.", "category": "landmark", "coords": [15.609557, 44.886776]}, {"name": "Vodena dolina", "text": "Eine natürliche Wasserquelle im Gebiet der Plitvicer Seen.", "category": "natural", "coords": [15.623899, 44.892681]}, {"name": "Zigeunersee", "text": "Ciginovac ist ein See in Plitvicka Jezera Village, ideal um die Naturlandschaft zu genießen.", "category": "natural", "coords": [15.595034, 44.872567]}, {"name": "Runder See", "text": "Okrugljak ist ein See in Plitvicka Jezera Village, ideal um die Naturlandschaft zu genießen.", "category": "natural", "coords": [15.600253, 44.872883]}, {"name": "Novaković See", "text": "Novakovića brod ist ein See in Plitvicka Jezera Village, ideal um die Naturlandschaft zu genießen.", "category": "natural", "coords": [15.609901, 44.902212]}, {"name": "Kleiner See", "text": "Malo jezero ist ein See in Plitvicka Jezera Village, ideal um die Naturlandschaft zu genießen.", "category": "natural", "coords": [15.602177, 44.87454]}, {"name": "Großer See", "text": "Veliko jezero ist ein See in Plitvicka Jezera Village, ideal um die Naturlandschaft zu genießen.", "category": "natural", "coords": [15.602333, 44.873252]}, {"name": "Strudelsee", "text": "Jezero Vir ist ein See in Plitvicka Jezera Village, der Besuchern eine wunderschöne Landschaft bietet.", "category": "natural", "coords": [15.603249, 44.873611]}, {"name": "Gavans See", "text": "Gavanovac ist ein See in Plitvicka Jezera Village, der Besuchern eine wunderschöne Landschaft bietet.", "category": "natural", "coords": [15.61111, 44.899046]}, {"name": "Gestrüpp-See", "text": "Prošćansko jezero ist ein See in Plitvicka Jezera Village, der Besuchern eine wunderschöne Landschaft bietet.", "category": "natural", "coords": [15.596887, 44.861577]}, {"name": "Mönchssee", "text": "Kaluđerovac ist ein See in Plitvicka Jezera Village, der Besuchern eine wunderschöne Landschaft bietet.", "category": "natural", "coords": [15.610764, 44.901159]}, {"name": "Milans See", "text": "Milanovac ist ein See in Plitvicka Jezera Village, der Besuchern eine wunderschöne Landschaft bietet.", "category": "natural", "coords": [15.609751, 44.896303]}, {"name": "Batićs See", "text": "Batinovac ist ein See in Plitvicka Jezera Village, der Besuchern eine wunderschöne Landschaft bietet.", "category": "natural", "coords": [15.603207, 44.871818]}, {"name": "Gradina See", "text": "Lake Gradinsko ist ein See in Plitvicka Jezera Village, der Besuchern eine wunderschöne Landschaft bietet.", "category": "natural", "coords": [15.611278, 44.878235]}, {"name": "Miles' See", "text": "Milino jezero ist ein See in Plitvicka Jezera Village, der Besuchern eine wunderschöne Landschaft bietet.", "category": "natural", "coords": [15.609809, 44.876297]}, {"name": "Ziegensee", "text": "Lake Kozjak ist ein See in Plitvicka Jezera Village, der Besuchern eine wunderschöne Landschaft bietet.", "category": "natural", "coords": [15.609557, 44.884667]}], "hu": [{"name": "Veliki Slap", "text": "Horvátország legmagasabb vízesése, amely 78 méter magasból zúdul a Korana-folyó szurdokába.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/plitvicka-jezera-veliki-slap.webp", "coords": [15.608893, 44.902374]}, {"name": "Kozjak-tó", "text": "A park legnagyobb tava, ahol elektromos hajók kötik össze az alsó és felső tórendszert.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/plitvicka-jezera-kozjak-see.webp", "coords": [15.613596, 44.884707]}, {"name": "Galovački buk", "text": "Látványos, 16 méter magas vízesés a felső tavaknál, amely dús növényzet között zúdul le.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/plitvicka-jezera-galova-ki-buk.webp", "coords": [15.60851, 44.87585]}, {"name": "Šupljara-barlang", "text": "Az alsó tavak feletti sziklákban található barlang, amelybe meredek lépcsősor vezet fel.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/plitvicka-jezera-upljara-h-hle.webp", "coords": [15.612092, 44.899925]}, {"name": "Milanovac-tó", "text": "Az alsó tórendszer első tagja, amely smaragdzöld színéről és magas sziklafalairól ismert.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/plitvicka-jezera-milanovac-see.webp", "coords": [15.610727, 44.896304]}, {"name": "Prošćansko-tó", "text": "A tórendszer legmagasabban fekvő tagja, sűrű erdőkkel övezett, nyugodt természeti környezetben.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/plitvicka-jezera-pro-ansko-see.webp", "coords": [15.600279, 44.861556]}, {"name": "Alsó-tavak", "text": "Négy tóból álló szakasz egy mély mészkőszurdokban, ahol a víz látványos gátakon zúdul át.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/plitvicka-jezera-donja-jezera.webp", "coords": [15.611202, 44.897281]}, {"name": "Burget-tó", "text": "Kisebb, sekély tó számos mésztufa gáttal, amely kristálytiszta vizéről és nyugalmáról híres.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/plitvicka-jezera-burget-see.webp", "coords": [15.614111, 44.879137]}, {"name": "Krčingrad", "text": "Egy középkori erőd romjai a plitvicei Gradinsko- és Kozjak-tavak közötti félszigeten.", "category": "castle", "coords": [15.614429, 44.877132]}, {"name": "Turčić", "text": "Egy hegycsúcs a Plitvicei-tavak vidékén.", "category": "natural", "coords": [15.625369, 44.897797]}, {"name": "Stubica", "text": "Hegycsúcs a Plitvicei-tavak Nemzeti Park hegyvidéki táján.", "category": "natural", "coords": [15.601601, 44.875764]}, {"name": "Tavanak", "text": "A Plitvicei-tavakat körülvevő hegység egyik csúcsa.", "category": "natural", "coords": [15.595001, 44.885401]}, {"name": "Crni vrh", "text": "Erdős hegycsúcs a Plitvicei-tavak közelében.", "category": "natural", "coords": [15.606184, 44.866227]}, {"name": "Hrnjakov vršak", "text": "Hegycsúcs a Plitvicei-tavak környékén.", "category": "natural", "coords": [15.640707, 44.871165]}, {"name": "Nacionalni park Plitvička jezera", "text": "Horvátország legrégebbi nemzeti parkja, amely 16 teraszos taváról és UNESCO világörökségi helyszínéről híres.", "category": "landmark", "coords": [15.613758, 44.883484]}, {"name": "Tomićevo pogledalo", "text": "A Tomićevo pogledalo természetes kilátóként szolgál a Plitvička Jezera Village-ben. Itt a természet szerelmesei lenyűgöző, széles kilátást élvezhetnek a Plitvicei-tavak tájára.", "category": "natural", "coords": [15.596755, 44.873715]}, {"name": "Belvedere", "text": "Kilátóhely panorámás kilátással a park tavaira és vízeséseire.", "category": "natural", "coords": [15.60503, 44.874575]}, {"name": "Linija P2 - P3", "text": "Elektromos hajójárat, amely a P2 és P3 mólókat köti össze a Kozjak-tavon.", "category": "landmark", "coords": [15.609557, 44.886776]}, {"name": "Vodena dolina", "text": "Természetes forrás a Plitvicei-tavak területén.", "category": "natural", "coords": [15.623899, 44.892681]}, {"name": "Ciginovac", "text": "A(z) Ciginovac egy tó Plitvicka Jezera Village területén, amely ideális a természeti táj élvezetéhez.", "category": "natural", "coords": [15.595034, 44.872567]}, {"name": "Okrugljak", "text": "A(z) Okrugljak egy tó Plitvicka Jezera Village területén, amely ideális a természeti táj élvezetéhez.", "category": "natural", "coords": [15.600253, 44.872883]}, {"name": "Novakovića brod", "text": "A(z) Novakovića brod egy tó Plitvicka Jezera Village területén, amely ideális a természeti táj élvezetéhez.", "category": "natural", "coords": [15.609901, 44.902212]}, {"name": "Malo jezero", "text": "A(z) Malo jezero egy tó Plitvicka Jezera Village területén, amely ideális a természeti táj élvezetéhez.", "category": "natural", "coords": [15.602177, 44.87454]}, {"name": "Veliko jezero", "text": "A(z) Veliko jezero egy tó Plitvicka Jezera Village területén, amely ideális a természeti táj élvezetéhez.", "category": "natural", "coords": [15.602333, 44.873252]}, {"name": "Jezero Vir", "text": "A(z) Jezero Vir egy tó Plitvicka Jezera Village területén, amely gyönyörű tájat kínál a látogatóknak.", "category": "natural", "coords": [15.603249, 44.873611]}, {"name": "Gavanovac", "text": "A(z) Gavanovac egy tó Plitvicka Jezera Village területén, amely gyönyörű tájat kínál a látogatóknak.", "category": "natural", "coords": [15.61111, 44.899046]}, {"name": "Prošćansko jezero", "text": "A(z) Prošćansko jezero egy tó Plitvicka Jezera Village területén, amely gyönyörű tájat kínál a látogatóknak.", "category": "natural", "coords": [15.596887, 44.861577]}, {"name": "Kaluđerovac", "text": "A(z) Kaluđerovac egy tó Plitvicka Jezera Village területén, amely gyönyörű tájat kínál a látogatóknak.", "category": "natural", "coords": [15.610764, 44.901159]}, {"name": "Milanovac", "text": "A(z) Milanovac egy tó Plitvicka Jezera Village területén, amely gyönyörű tájat kínál a látogatóknak.", "category": "natural", "coords": [15.609751, 44.896303]}, {"name": "Batinovac", "text": "A(z) Batinovac egy tó Plitvicka Jezera Village területén, amely gyönyörű tájat kínál a látogatóknak.", "category": "natural", "coords": [15.603207, 44.871818]}, {"name": "Gradinsko jezero", "text": "A(z) Lake Gradinsko egy tó Plitvicka Jezera Village területén, amely gyönyörű tájat kínál a látogatóknak.", "category": "natural", "coords": [15.611278, 44.878235]}, {"name": "Milino jezero", "text": "A(z) Milino jezero egy tó Plitvicka Jezera Village területén, amely gyönyörű tájat kínál a látogatóknak.", "category": "natural", "coords": [15.609809, 44.876297]}, {"name": "Jezero Kozjak", "text": "A(z) Lake Kozjak egy tó Plitvicka Jezera Village területén, amely gyönyörű tájat kínál a látogatóknak.", "category": "natural", "coords": [15.609557, 44.884667]}], "ro": [{"name": "Veliki Slap", "text": "Cea mai înaltă cascadă din Croația, cu o cădere de 78 metri în canionul râului Korana.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/plitvicka-jezera-veliki-slap.webp", "coords": [15.608893, 44.902374]}, {"name": "Lacul Kozjak", "text": "Cel mai mare lac din parc, unde bărcile electrice fac legătura între lacurile de sus și jos.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/plitvicka-jezera-kozjak-see.webp", "coords": [15.613596, 44.884707]}, {"name": "Galovački buk", "text": "O cascadă impresionantă de 16 metri înălțime, situată în zona lacurilor superioare ale parcului.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/plitvicka-jezera-galova-ki-buk.webp", "coords": [15.60851, 44.87585]}, {"name": "Peștera Šupljara", "text": "O peșteră calcaroasă fascinantă situată în stâncile lacurilor inferioare, accesibilă pe trepte.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/plitvicka-jezera-upljara-h-hle.webp", "coords": [15.612092, 44.899925]}, {"name": "Lacul Milanovac", "text": "Primul dintre lacurile inferioare, renumit pentru culoarea smaraldului și pereții stâncoși înalți.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/plitvicka-jezera-milanovac-see.webp", "coords": [15.610727, 44.896304]}, {"name": "Lacul Prošćansko", "text": "Lacul situat la cea mai mare altitudine, înconjurat de păduri dese și natură virgină.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/plitvicka-jezera-pro-ansko-see.webp", "coords": [15.600279, 44.861556]}, {"name": "Lacurile Inferioare", "text": "Patru lacuri spectaculoase situate într-un canion adânc format din stânci de calcar abrupte.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/plitvicka-jezera-donja-jezera.webp", "coords": [15.611202, 44.897281]}, {"name": "Lacul Burget", "text": "Un lac mai mic și puțin adânc, cu numeroase bariere de travertin și apă extrem de clară.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/plitvicka-jezera-burget-see.webp", "coords": [15.614111, 44.879137]}, {"name": "Krčingrad", "text": "Ruinele unei cetăți medievale situate pe peninsula dintre lacurile Gradinsko și Kozjak din Plitvice.", "category": "castle", "coords": [15.614429, 44.877132]}, {"name": "Turčić", "text": "Un vârf montan situat în regiunea Lacurilor Plitvice.", "category": "natural", "coords": [15.625369, 44.897797]}, {"name": "Stubica", "text": "Un vârf în peisajul montan al Parcului Național Lacurile Plitvice.", "category": "natural", "coords": [15.601601, 44.875764]}, {"name": "Tavanak", "text": "Un vârf montan care face parte din masivul din jurul Lacurilor Plitvice.", "category": "natural", "coords": [15.595001, 44.885401]}, {"name": "Crni vrh", "text": "Un vârf împădurit situat în apropierea Lacurilor Plitvice.", "category": "natural", "coords": [15.606184, 44.866227]}, {"name": "Hrnjakov vršak", "text": "Un vârf montan în regiunea Plitvička Jezera.", "category": "natural", "coords": [15.640707, 44.871165]}, {"name": "Nacionalni park Plitvička jezera", "text": "Cel mai vechi parc național din Croația, faimos pentru cele 16 lacuri în cascadă și statutul de patrimoniu mondial UNESCO.", "category": "landmark", "coords": [15.613758, 44.883484]}, {"name": "Tomićevo pogledalo", "text": "Tomićevo pogledalo servește ca punct de belvedere natural în satul Plitvička Jezera Village. Aici, iubitorii de natură se pot bucura de o priveliște vastă și impresionantă asupra peisajului Lacurilor Plitvice.", "category": "natural", "coords": [15.596755, 44.873715]}, {"name": "Belvedere", "text": "Un punct de belvedere cu vedere panoramică asupra lacurilor și cascadelor din parc.", "category": "natural", "coords": [15.60503, 44.874575]}, {"name": "Linija P2 - P3", "text": "O rută de barcă electrică ce conectează debarcaderele P2 și P3 de pe lacul Kozjak.", "category": "landmark", "coords": [15.609557, 44.886776]}, {"name": "Vodena dolina", "text": "Un izvor natural de apă în zona Lacurilor Plitvice.", "category": "natural", "coords": [15.623899, 44.892681]}, {"name": "Ciginovac", "text": "Ciginovac este un lac situat în Plitvicka Jezera Village, perfect pentru a admira peisajul natural.", "category": "natural", "coords": [15.595034, 44.872567]}, {"name": "Okrugljak", "text": "Okrugljak este un lac situat în Plitvicka Jezera Village, perfect pentru a admira peisajul natural.", "category": "natural", "coords": [15.600253, 44.872883]}, {"name": "Novakovića brod", "text": "Novakovića brod este un lac situat în Plitvicka Jezera Village, perfect pentru a admira peisajul natural.", "category": "natural", "coords": [15.609901, 44.902212]}, {"name": "Malo jezero", "text": "Malo jezero este un lac situat în Plitvicka Jezera Village, perfect pentru a admira peisajul natural.", "category": "natural", "coords": [15.602177, 44.87454]}, {"name": "Veliko jezero", "text": "Veliko jezero este un lac situat în Plitvicka Jezera Village, perfect pentru a admira peisajul natural.", "category": "natural", "coords": [15.602333, 44.873252]}, {"name": "Jezero Vir", "text": "Jezero Vir este un lac situat în Plitvicka Jezera Village, oferind peisaje frumoase vizitatorilor.", "category": "natural", "coords": [15.603249, 44.873611]}, {"name": "Gavanovac", "text": "Gavanovac este un lac situat în Plitvicka Jezera Village, oferind peisaje frumoase vizitatorilor.", "category": "natural", "coords": [15.61111, 44.899046]}, {"name": "Prošćansko jezero", "text": "Prošćansko jezero este un lac situat în Plitvicka Jezera Village, oferind peisaje frumoase vizitatorilor.", "category": "natural", "coords": [15.596887, 44.861577]}, {"name": "Kaluđerovac", "text": "Kaluđerovac este un lac situat în Plitvicka Jezera Village, oferind peisaje frumoase vizitatorilor.", "category": "natural", "coords": [15.610764, 44.901159]}, {"name": "Milanovac", "text": "Milanovac este un lac situat în Plitvicka Jezera Village, oferind peisaje frumoase vizitatorilor.", "category": "natural", "coords": [15.609751, 44.896303]}, {"name": "Batinovac", "text": "Batinovac este un lac situat în Plitvicka Jezera Village, oferind peisaje frumoase vizitatorilor.", "category": "natural", "coords": [15.603207, 44.871818]}, {"name": "Gradinsko jezero", "text": "Lake Gradinsko este un lac situat în Plitvicka Jezera Village, oferind peisaje frumoase vizitatorilor.", "category": "natural", "coords": [15.611278, 44.878235]}, {"name": "Milino jezero", "text": "Milino jezero este un lac situat în Plitvicka Jezera Village, oferind peisaje frumoase vizitatorilor.", "category": "natural", "coords": [15.609809, 44.876297]}, {"name": "Jezero Kozjak", "text": "Lake Kozjak este un lac situat în Plitvicka Jezera Village, oferind peisaje frumoase vizitatorilor.", "category": "natural", "coords": [15.609557, 44.884667]}], "en": [{"name": "Veliki Slap", "text": "The highest waterfall in Croatia, dropping 78 meters into the stunning Korana river canyon.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/plitvicka-jezera-veliki-slap.webp", "coords": [15.608893, 44.902374]}, {"name": "Kozjak Lake", "text": "The largest lake in the park, where electric boats connect the upper and lower lake sections.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/plitvicka-jezera-kozjak-see.webp", "coords": [15.613596, 44.884707]}, {"name": "Galovački buk", "text": "An impressive 16-meter high waterfall located in the lush Upper Lakes area of the park.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/plitvicka-jezera-galova-ki-buk.webp", "coords": [15.60851, 44.87585]}, {"name": "Šupljara Cave", "text": "A fascinating limestone cave set in the Lower Lakes cliffs, featuring steep staircase paths.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/plitvicka-jezera-upljara-h-hle.webp", "coords": [15.612092, 44.899925]}, {"name": "Milanovac Lake", "text": "The first of the Lower Lakes, known for its emerald green color and high surrounding cliffs.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/plitvicka-jezera-milanovac-see.webp", "coords": [15.610727, 44.896304]}, {"name": "Prošćansko Lake", "text": "The highest lake in the system, surrounded by dense forests and offering a peaceful atmosphere.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/plitvicka-jezera-pro-ansko-see.webp", "coords": [15.600279, 44.861556]}, {"name": "Lower Lakes", "text": "A series of four lakes set in a deep canyon, where water flows over spectacular travertine barriers.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/plitvicka-jezera-donja-jezera.webp", "coords": [15.611202, 44.897281]}, {"name": "Burget Lake", "text": "A smaller, shallow lake with numerous tufa barriers and exceptionally clear, calm water.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/plitvicka-jezera-burget-see.webp", "coords": [15.614111, 44.879137]}, {"name": "Krčingrad", "text": "The ruins of a medieval fortress located on the peninsula between Gradinsko and Kozjak lakes in Plitvice.", "category": "castle", "coords": [15.614429, 44.877132]}, {"name": "Turčić", "text": "A mountain peak located in the Plitvice Lakes region.", "category": "natural", "coords": [15.625369, 44.897797]}, {"name": "Stubica", "text": "A peak in the mountainous landscape of the Plitvice Lakes National Park.", "category": "natural", "coords": [15.601601, 44.875764]}, {"name": "Tavanak", "text": "A mountain peak that is part of the massif surrounding the Plitvice Lakes.", "category": "natural", "coords": [15.595001, 44.885401]}, {"name": "Crni vrh", "text": "A forested peak located near the Plitvice Lakes.", "category": "natural", "coords": [15.606184, 44.866227]}, {"name": "Hrnjakov vršak", "text": "A mountain peak in the Plitvička Jezera region.", "category": "natural", "coords": [15.640707, 44.871165]}, {"name": "Nacionalni park Plitvička jezera", "text": "Croatia's oldest national park, famous for its 16 terraced lakes and UNESCO World Heritage status.", "category": "landmark", "coords": [15.613758, 44.883484]}, {"name": "Tomićevo pogledalo", "text": "Tomićevo pogledalo serves as a natural viewpoint in Plitvicka Jezera Village. Here, nature lovers can enjoy an impressive sweeping view over the landscape of the Plitvice Lakes.", "category": "natural", "coords": [15.596755, 44.873715]}, {"name": "Belvedere", "text": "A viewpoint with panoramic vistas of the park's lakes and waterfalls.", "category": "natural", "coords": [15.60503, 44.874575]}, {"name": "P2 - P3 line", "text": "An electric boat route connecting the P2 and P3 piers across Lake Kozjak.", "category": "landmark", "coords": [15.609557, 44.886776]}, {"name": "Vodena dolina", "text": "A natural water spring in the Plitvice Lakes area.", "category": "natural", "coords": [15.623899, 44.892681]}, {"name": "Ciginovac", "text": "Ciginovac is a lake located in Plitvicka Jezera Village, perfect for enjoying the natural scenery.", "category": "natural", "coords": [15.595034, 44.872567]}, {"name": "Okrugljak", "text": "Okrugljak is a lake located in Plitvicka Jezera Village, perfect for enjoying the natural scenery.", "category": "natural", "coords": [15.600253, 44.872883]}, {"name": "Novakovića brod", "text": "Novakovića brod is a lake located in Plitvicka Jezera Village, perfect for enjoying the natural scenery.", "category": "natural", "coords": [15.609901, 44.902212]}, {"name": "Malo jezero", "text": "Malo jezero is a lake located in Plitvicka Jezera Village, perfect for enjoying the natural scenery.", "category": "natural", "coords": [15.602177, 44.87454]}, {"name": "Veliko jezero", "text": "Veliko jezero is a lake located in Plitvicka Jezera Village, perfect for enjoying the natural scenery.", "category": "natural", "coords": [15.602333, 44.873252]}, {"name": "Jezero Vir", "text": "Jezero Vir is a lake located in Plitvicka Jezera Village, offering beautiful scenery for visitors.", "category": "natural", "coords": [15.603249, 44.873611]}, {"name": "Gavanovac", "text": "Gavanovac is a lake located in Plitvicka Jezera Village, offering beautiful scenery for visitors.", "category": "natural", "coords": [15.61111, 44.899046]}, {"name": "Prošćansko jezero", "text": "Prošćansko jezero is a lake located in Plitvicka Jezera Village, offering beautiful scenery for visitors.", "category": "natural", "coords": [15.596887, 44.861577]}, {"name": "Kaluđerovac", "text": "Kaluđerovac is a lake located in Plitvicka Jezera Village, offering beautiful scenery for visitors.", "category": "natural", "coords": [15.610764, 44.901159]}, {"name": "Milanovac", "text": "Milanovac is a lake located in Plitvicka Jezera Village, offering beautiful scenery for visitors.", "category": "natural", "coords": [15.609751, 44.896303]}, {"name": "Batinovac", "text": "Batinovac is a lake located in Plitvicka Jezera Village, offering beautiful scenery for visitors.", "category": "natural", "coords": [15.603207, 44.871818]}, {"name": "Lake Gradinsko", "text": "Lake Gradinsko is a lake located in Plitvicka Jezera Village, offering beautiful scenery for visitors.", "category": "natural", "coords": [15.611278, 44.878235]}, {"name": "Milino jezero", "text": "Milino jezero is a lake located in Plitvicka Jezera Village, offering beautiful scenery for visitors.", "category": "natural", "coords": [15.609809, 44.876297]}, {"name": "Lake Kozjak", "text": "Lake Kozjak is a lake located in Plitvicka Jezera Village, offering beautiful scenery for visitors.", "category": "natural", "coords": [15.609557, 44.884667]}], "hr": [{"name": "Krčingrad", "text": "Ruševine srednjovjekovne utvrde smještene na poluotoku između jezera Gradinsko i Kozjak na Plitvicama.", "category": "castle", "coords": [15.614429, 44.877132]}, {"name": "Turčić", "text": "Planinski vrh koji se nalazi na području Plitvičkih jezera.", "category": "natural", "coords": [15.625369, 44.897797]}, {"name": "Stubica", "text": "Vrh u planinskom krajoliku Nacionalnog parka Plitvička jezera.", "category": "natural", "coords": [15.601601, 44.875764]}, {"name": "Tavanak", "text": "Planinski vrh koji je dio masiva što okružuje Plitvička jezera.", "category": "natural", "coords": [15.595001, 44.885401]}, {"name": "Crni vrh", "text": "Šumoviti vrh smješten u blizini Plitvičkih jezera.", "category": "natural", "coords": [15.606184, 44.866227]}, {"name": "Hrnjakov vršak", "text": "Planinski vrh u regiji Plitvička Jezera.", "category": "natural", "coords": [15.640707, 44.871165]}, {"name": "Nacionalni park Plitvička jezera", "text": "Najstariji nacionalni park u Hrvatskoj, poznat po 16 kaskadnih jezera i uvršten na UNESCO-ov popis svjetske baštine.", "category": "landmark", "coords": [15.613758, 44.883484]}, {"name": "Tomićevo pogledalo", "text": "Vidikovac koji nudi široki pogled na prirodni krajolik Plitvičkih jezera.", "category": "natural", "coords": [15.596755, 44.873715]}, {"name": "Belvedere", "text": "Vidikovac s panoramskim pogledom na jezera i slapove u parku.", "category": "natural", "coords": [15.60503, 44.874575]}, {"name": "P2 - P3 line", "text": "Linija električnog broda koja povezuje pristaništa P2 i P3 na jezeru Kozjak.", "category": "landmark", "coords": [15.609557, 44.886776]}, {"name": "Vodena dolina", "text": "Prirodni izvor vode na području Plitvičkih jezera.", "category": "natural", "coords": [15.623899, 44.892681]}]}},
+  {"id": "plitvicka-jezera", "type": "city", "parent": "HR-09", "coords": [15.616, 44.88], "population": 200, "tier": 1, "name": {"de": "Plitvička Jezera (Dorf)", "hu": "Plitvička Jezera (falu)", "ro": "Plitvička Jezera (sat)", "en": "Plitvička Jezera (village)"}, "description": {"de": "Diese kleine Siedlung dient als administratives Zentrum und Tor zum weltberühmten Nationalpark Plitvicer Seen. Das Dorf ist von dichten Wäldern und der unberührten Natur der Lika-Region umgeben.", "hu": "Ez a kistelepülés a világhírű Plitvicei-tavak Nemzeti Park adminisztratív központja és fő kapuja. A falu sűrű erdőkkel és a Lika-régió érintetlen természeti környezetével van körülvéve.", "ro": "Această mică așezare servește drept centru administrativ și poartă de acces către faimosul Parc Național Lacurile Plitvice. Satul este înconjurat de păduri dese și de natura neatinsă a regiunii Lika.", "en": "This small settlement serves as the administrative center and main gateway to the world-famous Plitvice Lakes National Park. The village is surrounded by dense forests and the pristine nature of the Lika region."}, "facts": {"de": ["Einwohnerzahl: ca. 200 Personen", "Liegt in der Gespanschaft Lika-Senj", "Zentrum der gleichnamigen Gemeinde", "Haupteingang zum UNESCO-Welterbe", "Befindet sich auf 550 Meter Seehöhe", "Wichtiger Knotenpunkt für Naturtouristen", "Klima ist montan geprägt", "Umgeben von jahrhundertealten Buchenwäldern"], "hu": ["Népessége körülbelül 200 fő", "Lika-Zengg megyében található", "Az azonos nevű község központja", "Az UNESCO világörökség fő bejárata", "550 méteres tengerszint feletti magasságban fekszik", "A természetjárók fontos csomópontja", "Hegyvidéki éghajlat jellemzi", "Évszázados bükkerdők veszik körül"], "ro": ["Populație: aproximativ 200 de persoane", "Situat în cantonul Lika-Senj", "Centrul comunei cu același nume", "Intrarea principală în patrimoniul UNESCO", "Se află la 550 de metri altitudine", "Punct strategic pentru turiștii iubitori de natură", "Climat montan specific zonei", "Înconjurat de păduri de fag de sute de ani"], "en": ["Population: approx. 200 people", "Located in Lika-Senj County", "Center of the municipality of the same name", "Main entry point to the UNESCO World Heritage", "Situated at 550 meters above sea level", "Crucial hub for nature tourists", "Characterized by a mountain climate", "Surrounded by centuries-old beech forests"]}, "image": "/poi-images/plitvicka-jezera.webp", "imageHint": "Entrance to Plitvice Lakes National Park with wooden signs and forest", "descriptionAdvanced": {"de": "Plitvička Jezera ist mehr als nur ein Name für den Park; es ist eine kleine Gemeinde, die das logistische Rückgrat für Kroatiens meistbesuchtes Naturwunder bildet. Das Dorf selbst ist ruhig und bewahrt die traditionelle Architektur der Lika, mit steilen Dächern, die für die schneereichen Winter der Region ausgelegt sind. Während die meisten Besucher direkt zu den Seen eilen, bietet die Umgebung des Dorfes zahlreiche Wanderwege durch den Nationalpark, die weitab von den Touristenmassen liegen. Hier erfährt man die Gastfreundschaft der Bergbevölkerung und kann lokale Spezialitäten wie den Lika-Käse (Baser) probieren. Die strategische Lage an der Staatsstraße D1 macht es zum idealen Ausgangspunkt, um die 16 kaskadenförmigen Seen und die über 90 Wasserfälle zu erkunden, die dieses Gebiet so einzigartig machen.", "hu": "Plitvička Jezera több mint egy park neve; ez egy kis közösség, amely Horvátország leglátogatottabb természeti csodájának logisztikai hátterét biztosítja. Maga a falu csendes, és őrzi a Lika-vidék hagyományos építészetét, a meredek tetőkkel, amelyeket a régió havas teleire terveztek. Bár a legtöbb látogató közvetlenül a tavakhoz siet, a falu környéke számos túraútvonalat kínál a nemzeti parkon keresztül, amelyek távol esnek a turistaáradattól. Itt megtapasztalható a hegyvidéki emberek vendégszeretete, és megkóstolhatók a helyi különlegességek, mint például a likai sajt (Baser). A D1-es főút menti stratégiai elhelyezkedése ideális kiindulóponttá teszi a 16 lépcsőzetes tó és a több mint 90 vízesés felfedezéséhez, amelyek ezt a területet egyedivé teszik.", "ro": "Plitvička Jezera este mai mult decât numele parcului; este o mică comunitate care formează coloana vertebrală logistică a celei mai vizitate minuni naturale din Croația. Satul în sine este liniștit și păstrează arhitectura tradițională din Lika, cu acoperișuri abrupte concepute pentru iernile bogate în zăpadă ale regiunii. În timp ce majoritatea vizitatorilor se grăbesc direct spre lacuri, împrejurimile satului oferă numeroase trasee de drumeție prin parcul național, departe de masele de turiști. Aici puteți experimenta ospitalitatea populației montane și puteți gusta specialități locale, cum ar fi brânza Lika (Baser). Poziția sa strategică pe drumul național D1 îl face punctul de plecare ideal pentru a explora cele 16 lacuri în cascadă și cele peste 90 de cascade care fac această zonă atât de unică.", "en": "Plitvička Jezera is more than just the name of the park; it is a small community that forms the logistical backbone for Croatia's most visited natural wonder. The village itself is quiet and preserves the traditional architecture of Lika, with steep roofs designed for the region's snowy winters. While most visitors rush straight to the lakes, the surroundings of the village offer numerous hiking trails through the national park that are far from the tourist crowds. Here, you can experience the hospitality of the mountain people and taste local specialties such as Lika cheese (Baser). Its strategic location on the D1 state road makes it the ideal starting point for exploring the 16 cascaded lakes and more than 90 waterfalls that make this area so unique."}, "factsAdvanced": {"de": ["Die Gemeinde umfasst insgesamt 41 Siedlungen in der Region", "Der Nationalpark wurde bereits 1949 gegründet", "Die Region liegt im Gebirgsmassiv der Velika Kapela", "Die Jahresdurchschnittstemperatur liegt bei kühlen 8 Grad Celsius", "In den umliegenden Wäldern leben Braunbären und Wölfe", "Die Höhendifferenz im Park beträgt insgesamt 158 Meter"], "hu": ["A község összesen 41 települést foglal magában a régióban", "A nemzeti parkot már 1949-ben megalapították", "A régió a Velika Kapela hegymasszívumban fekszik", "Az éves átlaghőmérséklet hűvös, mindössze 8 Celsius-fok", "A környező erdőkben barnamedvék és farkasok élnek", "A parkon belüli szintkülönbség összesen 158 méter"], "ro": ["Comuna cuprinde în total 41 de așezări în regiune", "Parcul național a fost înființat încă din anul 1949", "Regiunea se află în masivul muntos Velika Kapela", "Temperatura medie anuală este de răcoroase 8 grade Celsius", "În pădurile din jur trăiesc urși bruni și lupi", "Diferența de altitudine în parc este de 158 de metri în total"], "en": ["The municipality includes a total of 41 settlements in the region", "The national park was established as early as 1949", "The region lies in the Velika Kapela mountain massif", "The average annual temperature is a cool 8 degrees Celsius", "Brown bears and wolves live in the surrounding forests", "The total elevation difference within the park is 158 meters"]}, "sights": {
+      "de": [
+            {
+                  "name": "Veliki Slap",
+                  "text": "Mit 78 Metern der höchste Wasserfall Kroatiens, im untersten Teil des Nationalparks gelegen.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/plitvicka-jezera-veliki-slap.webp",
+                  "coords": [
+                        15.608893,
+                        44.902374
+                  ]
+            },
+            {
+                  "name": "Kozjak-See",
+                  "text": "Der größte See des Parks, auf dem Elektroboote die Oberen mit den Unteren Seen verbinden.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/plitvicka-jezera-kozjak-see.webp",
+                  "coords": [
+                        15.613596,
+                        44.884707
+                  ]
+            },
+            {
+                  "name": "Galovački buk",
+                  "text": "Ein beeindruckender 16 Meter hoher Wasserfall, der das Wasser in die Gornja Jezera stürzt.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/plitvicka-jezera-galova-ki-buk.webp",
+                  "coords": [
+                        15.60851,
+                        44.87585
+                  ]
+            },
+            {
+                  "name": "Šupljara-Höhle",
+                  "text": "Eine faszinierende Kalksteinhöhle in den Klippen der Unteren Seen mit steilen Treppenwegen.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/plitvicka-jezera-upljara-h-hle.webp",
+                  "coords": [
+                        15.612092,
+                        44.899925
+                  ]
+            },
+            {
+                  "name": "Milanovac-See",
+                  "text": "Der erste der Unteren Seen, bekannt für seine smaragdgrüne Farbe und die hohen Felswände.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/plitvicka-jezera-milanovac-see.webp",
+                  "coords": [
+                        15.610727,
+                        44.896304
+                  ]
+            },
+            {
+                  "name": "Prošćansko-See",
+                  "text": "Der höchstgelegene See des Systems, umgeben von dichten Wäldern und unberührter Natur.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/plitvicka-jezera-pro-ansko-see.webp",
+                  "coords": [
+                        15.600279,
+                        44.861556
+                  ]
+            },
+            {
+                  "name": "Donja Jezera",
+                  "text": "Die vier unteren Seen, eingebettet in eine tiefe Schlucht aus steilen Kalksteinfelsen.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/plitvicka-jezera-donja-jezera.webp",
+                  "coords": [
+                        15.611202,
+                        44.897281
+                  ]
+            },
+            {
+                  "name": "Burget-See",
+                  "text": "Ein kleinerer, flacher See mit zahlreichen Kalktuffbarrieren und kristallklarem Wasser.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/plitvicka-jezera-burget-see.webp",
+                  "coords": [
+                        15.614111,
+                        44.879137
+                  ]
+            },
+            {
+                  "name": "Burgruine Krčingrad",
+                  "text": "Die Ruinen einer mittelalterlichen Festung auf der Halbinsel zwischen den Seen Gradinsko und Kozjak in Plitvice.",
+                  "category": "castle",
+                  "coords": [
+                        15.614429,
+                        44.877132
+                  ]
+            },
+            {
+                  "name": "Turčić",
+                  "text": "Ein Hügel in der Region der Plitvicer Seen.",
+                  "category": "natural",
+                  "coords": [
+                        15.625369,
+                        44.897797
+                  ]
+            },
+            {
+                  "name": "Stubica",
+                  "text": "Ein Gipfel in der bergigen Landschaft des Nationalparks Plitvicer Seen.",
+                  "category": "natural",
+                  "coords": [
+                        15.601601,
+                        44.875764
+                  ]
+            },
+            {
+                  "name": "Tavanak",
+                  "text": "Ein Berggipfel, der Teil des Gebirgsmassivs rund um die Plitvicer Seen ist.",
+                  "category": "natural",
+                  "coords": [
+                        15.595001,
+                        44.885401
+                  ]
+            },
+            {
+                  "name": "Crni vrh",
+                  "text": "Der Schwarze Gipfel (Crni vrh) in Plitvička Jezera.",
+                  "category": "natural",
+                  "coords": [
+                        15.606184,
+                        44.866227
+                  ]
+            },
+            {
+                  "name": "Hrnjakov vršak",
+                  "text": "Der Gipfel Hrnjakov vršak in Plitvička Jezera.",
+                  "category": "natural",
+                  "coords": [
+                        15.640707,
+                        44.871165
+                  ]
+            },
+            {
+                  "name": "Nacionalni park Plitvička jezera",
+                  "text": "Kroatiens ältester Nationalpark, berühmt für seine 16 kaskadenförmigen Seen und den Status als UNESCO-Welterbe.",
+                  "category": "landmark",
+                  "coords": [
+                        15.613758,
+                        44.883484
+                  ]
+            },
+            {
+                  "name": "Tomićevo pogledalo",
+                  "text": "Das Tomićevo pogledalo dient als natürlicher Aussichtspunkt im Plitvicka Jezera Village. Hier können Naturliebhaber einen beeindruckenden weiten Blick über die Landschaft der Plitvicer Seen genießen.",
+                  "category": "natural",
+                  "coords": [
+                        15.596755,
+                        44.873715
+                  ]
+            },
+            {
+                  "name": "Belvedere",
+                  "text": "Ein Aussichtspunkt mit Panoramablick auf die Seen und Wasserfälle des Parks.",
+                  "category": "natural",
+                  "coords": [
+                        15.60503,
+                        44.874575
+                  ]
+            },
+            {
+                  "name": "Linie P2 - P3",
+                  "text": "Eine Elektrobootverbindung, die die Anlegestellen P2 und P3 auf dem Kozjak-See verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        15.609557,
+                        44.886776
+                  ]
+            },
+            {
+                  "name": "Vodena dolina",
+                  "text": "Das Wassertal (Vodena dolina) in Plitvička Jezera.",
+                  "category": "natural",
+                  "coords": [
+                        15.623899,
+                        44.892681
+                  ]
+            },
+            {
+                  "name": "Zigeunersee",
+                  "text": "Kleiner türkisfarbener See in den Plitvicer Seen mit einer Holzbrücke.",
+                  "category": "natural",
+                  "coords": [
+                        15.595034,
+                        44.872567
+                  ]
+            },
+            {
+                  "name": "Runder See",
+                  "text": "Runder See in den Plitvicer Seen mit einem Wasserfall am Südende.",
+                  "category": "natural",
+                  "coords": [
+                        15.600253,
+                        44.872883
+                  ]
+            },
+            {
+                  "name": "Novaković See",
+                  "text": "Holzsteg über eine Reihe von Kaskadenwasserfällen in den Plitvicer Seen.",
+                  "category": "natural",
+                  "coords": [
+                        15.609901,
+                        44.902212
+                  ]
+            },
+            {
+                  "name": "Kleiner See",
+                  "text": "Kleiner smaragdgrüner See in den Plitvicer Seen mit versunkenen Baumstämmen.",
+                  "category": "natural",
+                  "coords": [
+                        15.602177,
+                        44.87454
+                  ]
+            },
+            {
+                  "name": "Großer See",
+                  "text": "Größter See der Plitvicer Seen mit einem Bootsanleger und Wanderwegen.",
+                  "category": "natural",
+                  "coords": [
+                        15.602333,
+                        44.873252
+                  ]
+            },
+            {
+                  "name": "Strudelsee",
+                  "text": "Jezero Vir ist ein See in Plitvicka Jezera Village, der Besuchern eine wunderschöne Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.603249,
+                        44.873611
+                  ]
+            },
+            {
+                  "name": "Gavans See",
+                  "text": "Gavanovac ist ein See in Plitvicka Jezera Village, der Besuchern eine wunderschöne Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.61111,
+                        44.899046
+                  ]
+            },
+            {
+                  "name": "Gestrüpp-See",
+                  "text": "Prošćansko jezero ist ein See in Plitvicka Jezera Village, der Besuchern eine wunderschöne Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.596887,
+                        44.861577
+                  ]
+            },
+            {
+                  "name": "Mönchssee",
+                  "text": "Kaluđerovac ist ein See in Plitvicka Jezera Village, der Besuchern eine wunderschöne Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.610764,
+                        44.901159
+                  ]
+            },
+            {
+                  "name": "Milans See",
+                  "text": "Milanovac ist ein See in Plitvicka Jezera Village, der Besuchern eine wunderschöne Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.609751,
+                        44.896303
+                  ]
+            },
+            {
+                  "name": "Batićs See",
+                  "text": "Batinovac ist ein See in Plitvicka Jezera Village, der Besuchern eine wunderschöne Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.603207,
+                        44.871818
+                  ]
+            },
+            {
+                  "name": "Gradina See",
+                  "text": "See in den Plitvicer Seen mit grasbewachsenem Ufer und einer kleinen Insel.",
+                  "category": "natural",
+                  "coords": [
+                        15.611278,
+                        44.878235
+                  ]
+            },
+            {
+                  "name": "Miles' See",
+                  "text": "Milino jezero ist ein See in Plitvicka Jezera Village, der Besuchern eine wunderschöne Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.609809,
+                        44.876297
+                  ]
+            },
+            {
+                  "name": "Ziegensee",
+                  "text": "Tiefster See der Plitvicer Seen, mit einer elektrischen Bootstour.",
+                  "category": "natural",
+                  "coords": [
+                        15.609557,
+                        44.884667
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Veliki Slap",
+                  "text": "Horvátország legmagasabb vízesése, amely 78 méter magasból zúdul a Korana-folyó szurdokába.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/plitvicka-jezera-veliki-slap.webp",
+                  "coords": [
+                        15.608893,
+                        44.902374
+                  ]
+            },
+            {
+                  "name": "Kozjak-tó",
+                  "text": "A park legnagyobb tava, ahol elektromos hajók kötik össze az alsó és felső tórendszert.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/plitvicka-jezera-kozjak-see.webp",
+                  "coords": [
+                        15.613596,
+                        44.884707
+                  ]
+            },
+            {
+                  "name": "Galovački buk",
+                  "text": "Látványos, 16 méter magas vízesés a felső tavaknál, amely dús növényzet között zúdul le.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/plitvicka-jezera-galova-ki-buk.webp",
+                  "coords": [
+                        15.60851,
+                        44.87585
+                  ]
+            },
+            {
+                  "name": "Šupljara-barlang",
+                  "text": "Az alsó tavak feletti sziklákban található barlang, amelybe meredek lépcsősor vezet fel.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/plitvicka-jezera-upljara-h-hle.webp",
+                  "coords": [
+                        15.612092,
+                        44.899925
+                  ]
+            },
+            {
+                  "name": "Milanovac-tó",
+                  "text": "Az alsó tórendszer első tagja, amely smaragdzöld színéről és magas sziklafalairól ismert.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/plitvicka-jezera-milanovac-see.webp",
+                  "coords": [
+                        15.610727,
+                        44.896304
+                  ]
+            },
+            {
+                  "name": "Prošćansko-tó",
+                  "text": "A tórendszer legmagasabban fekvő tagja, sűrű erdőkkel övezett, nyugodt természeti környezetben.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/plitvicka-jezera-pro-ansko-see.webp",
+                  "coords": [
+                        15.600279,
+                        44.861556
+                  ]
+            },
+            {
+                  "name": "Alsó-tavak",
+                  "text": "Négy tóból álló szakasz egy mély mészkőszurdokban, ahol a víz látványos gátakon zúdul át.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/plitvicka-jezera-donja-jezera.webp",
+                  "coords": [
+                        15.611202,
+                        44.897281
+                  ]
+            },
+            {
+                  "name": "Burget-tó",
+                  "text": "Kisebb, sekély tó számos mésztufa gáttal, amely kristálytiszta vizéről és nyugalmáról híres.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/plitvicka-jezera-burget-see.webp",
+                  "coords": [
+                        15.614111,
+                        44.879137
+                  ]
+            },
+            {
+                  "name": "Krčingrad",
+                  "text": "Egy középkori erőd romjai a plitvicei Gradinsko- és Kozjak-tavak közötti félszigeten.",
+                  "category": "castle",
+                  "coords": [
+                        15.614429,
+                        44.877132
+                  ]
+            },
+            {
+                  "name": "Turčić",
+                  "text": "Egy domb a Plitvicei-tavak régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        15.625369,
+                        44.897797
+                  ]
+            },
+            {
+                  "name": "Stubica",
+                  "text": "Hegycsúcs a Plitvicei-tavak Nemzeti Park hegyvidéki táján.",
+                  "category": "natural",
+                  "coords": [
+                        15.601601,
+                        44.875764
+                  ]
+            },
+            {
+                  "name": "Tavanak",
+                  "text": "A Plitvicei-tavakat körülvevő hegység egyik csúcsa.",
+                  "category": "natural",
+                  "coords": [
+                        15.595001,
+                        44.885401
+                  ]
+            },
+            {
+                  "name": "Crni vrh",
+                  "text": "A Fekete-csúcs (Crni vrh) Plitvička Jezerában.",
+                  "category": "natural",
+                  "coords": [
+                        15.606184,
+                        44.866227
+                  ]
+            },
+            {
+                  "name": "Hrnjakov vršak",
+                  "text": "A Hrnjakov vršak csúcs Plitvička Jezerában.",
+                  "category": "natural",
+                  "coords": [
+                        15.640707,
+                        44.871165
+                  ]
+            },
+            {
+                  "name": "Nacionalni park Plitvička jezera",
+                  "text": "Horvátország legrégebbi nemzeti parkja, amely 16 teraszos taváról és UNESCO világörökségi helyszínéről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        15.613758,
+                        44.883484
+                  ]
+            },
+            {
+                  "name": "Tomićevo pogledalo",
+                  "text": "A Tomićevo pogledalo természetes kilátóként szolgál a Plitvička Jezera Village-ben. Itt a természet szerelmesei lenyűgöző, széles kilátást élvezhetnek a Plitvicei-tavak tájára.",
+                  "category": "natural",
+                  "coords": [
+                        15.596755,
+                        44.873715
+                  ]
+            },
+            {
+                  "name": "Belvedere",
+                  "text": "Kilátóhely panorámás kilátással a park tavaira és vízeséseire.",
+                  "category": "natural",
+                  "coords": [
+                        15.60503,
+                        44.874575
+                  ]
+            },
+            {
+                  "name": "Linija P2 - P3",
+                  "text": "Elektromos hajójárat, amely a P2 és P3 mólókat köti össze a Kozjak-tavon.",
+                  "category": "landmark",
+                  "coords": [
+                        15.609557,
+                        44.886776
+                  ]
+            },
+            {
+                  "name": "Vodena dolina",
+                  "text": "A Völgy (Vodena dolina) Plitvička Jezerában.",
+                  "category": "natural",
+                  "coords": [
+                        15.623899,
+                        44.892681
+                  ]
+            },
+            {
+                  "name": "Ciginovac",
+                  "text": "Kis türkizkék tó a Plitvicei-tavakban, fahíddal.",
+                  "category": "natural",
+                  "coords": [
+                        15.595034,
+                        44.872567
+                  ]
+            },
+            {
+                  "name": "Okrugljak",
+                  "text": "Kerek tó a Plitvicei-tavakban, vízeséssel a déli végénél.",
+                  "category": "natural",
+                  "coords": [
+                        15.600253,
+                        44.872883
+                  ]
+            },
+            {
+                  "name": "Novakovića brod",
+                  "text": "Fasétány egy sor kaszkádvízesés felett a Plitvicei-tavakban.",
+                  "category": "natural",
+                  "coords": [
+                        15.609901,
+                        44.902212
+                  ]
+            },
+            {
+                  "name": "Malo jezero",
+                  "text": "Kis smaragdzöld tó a Plitvicei-tavakban, elsüllyedt fatörzsekkel.",
+                  "category": "natural",
+                  "coords": [
+                        15.602177,
+                        44.87454
+                  ]
+            },
+            {
+                  "name": "Veliko jezero",
+                  "text": "A Plitvicei-tavak legnagyobb tava, csónakkikötővel és sétányokkal.",
+                  "category": "natural",
+                  "coords": [
+                        15.602333,
+                        44.873252
+                  ]
+            },
+            {
+                  "name": "Jezero Vir",
+                  "text": "A(z) Jezero Vir egy tó Plitvicka Jezera Village területén, amely gyönyörű tájat kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        15.603249,
+                        44.873611
+                  ]
+            },
+            {
+                  "name": "Gavanovac",
+                  "text": "A(z) Gavanovac egy tó Plitvicka Jezera Village területén, amely gyönyörű tájat kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        15.61111,
+                        44.899046
+                  ]
+            },
+            {
+                  "name": "Prošćansko jezero",
+                  "text": "A(z) Prošćansko jezero egy tó Plitvicka Jezera Village területén, amely gyönyörű tájat kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        15.596887,
+                        44.861577
+                  ]
+            },
+            {
+                  "name": "Kaluđerovac",
+                  "text": "A(z) Kaluđerovac egy tó Plitvicka Jezera Village területén, amely gyönyörű tájat kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        15.610764,
+                        44.901159
+                  ]
+            },
+            {
+                  "name": "Milanovac",
+                  "text": "A(z) Milanovac egy tó Plitvicka Jezera Village területén, amely gyönyörű tájat kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        15.609751,
+                        44.896303
+                  ]
+            },
+            {
+                  "name": "Batinovac",
+                  "text": "A(z) Batinovac egy tó Plitvicka Jezera Village területén, amely gyönyörű tájat kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        15.603207,
+                        44.871818
+                  ]
+            },
+            {
+                  "name": "Gradinsko jezero",
+                  "text": "Tó a Plitvicei-tavakban, füves parttal és egy kis szigettel.",
+                  "category": "natural",
+                  "coords": [
+                        15.611278,
+                        44.878235
+                  ]
+            },
+            {
+                  "name": "Milino jezero",
+                  "text": "A(z) Milino jezero egy tó Plitvicka Jezera Village területén, amely gyönyörű tájat kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        15.609809,
+                        44.876297
+                  ]
+            },
+            {
+                  "name": "Jezero Kozjak",
+                  "text": "A Plitvicei-tavak legmélyebb tava, elektromos hajótúrával.",
+                  "category": "natural",
+                  "coords": [
+                        15.609557,
+                        44.884667
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Veliki Slap",
+                  "text": "Cea mai înaltă cascadă din Croația, cu o cădere de 78 metri în canionul râului Korana.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/plitvicka-jezera-veliki-slap.webp",
+                  "coords": [
+                        15.608893,
+                        44.902374
+                  ]
+            },
+            {
+                  "name": "Lacul Kozjak",
+                  "text": "Cel mai mare lac din parc, unde bărcile electrice fac legătura între lacurile de sus și jos.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/plitvicka-jezera-kozjak-see.webp",
+                  "coords": [
+                        15.613596,
+                        44.884707
+                  ]
+            },
+            {
+                  "name": "Galovački buk",
+                  "text": "O cascadă impresionantă de 16 metri înălțime, situată în zona lacurilor superioare ale parcului.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/plitvicka-jezera-galova-ki-buk.webp",
+                  "coords": [
+                        15.60851,
+                        44.87585
+                  ]
+            },
+            {
+                  "name": "Peștera Šupljara",
+                  "text": "O peșteră calcaroasă fascinantă situată în stâncile lacurilor inferioare, accesibilă pe trepte.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/plitvicka-jezera-upljara-h-hle.webp",
+                  "coords": [
+                        15.612092,
+                        44.899925
+                  ]
+            },
+            {
+                  "name": "Lacul Milanovac",
+                  "text": "Primul dintre lacurile inferioare, renumit pentru culoarea smaraldului și pereții stâncoși înalți.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/plitvicka-jezera-milanovac-see.webp",
+                  "coords": [
+                        15.610727,
+                        44.896304
+                  ]
+            },
+            {
+                  "name": "Lacul Prošćansko",
+                  "text": "Lacul situat la cea mai mare altitudine, înconjurat de păduri dese și natură virgină.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/plitvicka-jezera-pro-ansko-see.webp",
+                  "coords": [
+                        15.600279,
+                        44.861556
+                  ]
+            },
+            {
+                  "name": "Lacurile Inferioare",
+                  "text": "Patru lacuri spectaculoase situate într-un canion adânc format din stânci de calcar abrupte.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/plitvicka-jezera-donja-jezera.webp",
+                  "coords": [
+                        15.611202,
+                        44.897281
+                  ]
+            },
+            {
+                  "name": "Lacul Burget",
+                  "text": "Un lac mai mic și puțin adânc, cu numeroase bariere de travertin și apă extrem de clară.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/plitvicka-jezera-burget-see.webp",
+                  "coords": [
+                        15.614111,
+                        44.879137
+                  ]
+            },
+            {
+                  "name": "Krčingrad",
+                  "text": "Ruinele unei cetăți medievale situate pe peninsula dintre lacurile Gradinsko și Kozjak din Plitvice.",
+                  "category": "castle",
+                  "coords": [
+                        15.614429,
+                        44.877132
+                  ]
+            },
+            {
+                  "name": "Turčić",
+                  "text": "Un deal în regiunea Lacurilor Plitvice.",
+                  "category": "natural",
+                  "coords": [
+                        15.625369,
+                        44.897797
+                  ]
+            },
+            {
+                  "name": "Stubica",
+                  "text": "Un vârf în peisajul montan al Parcului Național Lacurile Plitvice.",
+                  "category": "natural",
+                  "coords": [
+                        15.601601,
+                        44.875764
+                  ]
+            },
+            {
+                  "name": "Tavanak",
+                  "text": "Un vârf montan care face parte din masivul din jurul Lacurilor Plitvice.",
+                  "category": "natural",
+                  "coords": [
+                        15.595001,
+                        44.885401
+                  ]
+            },
+            {
+                  "name": "Crni vrh",
+                  "text": "Vârful Negru (Crni vrh) în Plitvička Jezera.",
+                  "category": "natural",
+                  "coords": [
+                        15.606184,
+                        44.866227
+                  ]
+            },
+            {
+                  "name": "Hrnjakov vršak",
+                  "text": "Vârful Hrnjakov vršak în Plitvička Jezera.",
+                  "category": "natural",
+                  "coords": [
+                        15.640707,
+                        44.871165
+                  ]
+            },
+            {
+                  "name": "Nacionalni park Plitvička jezera",
+                  "text": "Cel mai vechi parc național din Croația, faimos pentru cele 16 lacuri în cascadă și statutul de patrimoniu mondial UNESCO.",
+                  "category": "landmark",
+                  "coords": [
+                        15.613758,
+                        44.883484
+                  ]
+            },
+            {
+                  "name": "Tomićevo pogledalo",
+                  "text": "Tomićevo pogledalo servește ca punct de belvedere natural în satul Plitvička Jezera Village. Aici, iubitorii de natură se pot bucura de o priveliște vastă și impresionantă asupra peisajului Lacurilor Plitvice.",
+                  "category": "natural",
+                  "coords": [
+                        15.596755,
+                        44.873715
+                  ]
+            },
+            {
+                  "name": "Belvedere",
+                  "text": "Un punct de belvedere cu vedere panoramică asupra lacurilor și cascadelor din parc.",
+                  "category": "natural",
+                  "coords": [
+                        15.60503,
+                        44.874575
+                  ]
+            },
+            {
+                  "name": "Linija P2 - P3",
+                  "text": "O rută de barcă electrică ce conectează debarcaderele P2 și P3 de pe lacul Kozjak.",
+                  "category": "landmark",
+                  "coords": [
+                        15.609557,
+                        44.886776
+                  ]
+            },
+            {
+                  "name": "Vodena dolina",
+                  "text": "Valea Apei (Vodena dolina) în Plitvička Jezera.",
+                  "category": "natural",
+                  "coords": [
+                        15.623899,
+                        44.892681
+                  ]
+            },
+            {
+                  "name": "Ciginovac",
+                  "text": "Lac mic de culoare turcoaz în Lacurile Plitvice, cu un pod de lemn.",
+                  "category": "natural",
+                  "coords": [
+                        15.595034,
+                        44.872567
+                  ]
+            },
+            {
+                  "name": "Okrugljak",
+                  "text": "Lac rotund în Lacurile Plitvice, cu o cascadă la capătul sudic.",
+                  "category": "natural",
+                  "coords": [
+                        15.600253,
+                        44.872883
+                  ]
+            },
+            {
+                  "name": "Novakovića brod",
+                  "text": "Pod de lemn peste o serie de cascade în trepte în Lacurile Plitvice.",
+                  "category": "natural",
+                  "coords": [
+                        15.609901,
+                        44.902212
+                  ]
+            },
+            {
+                  "name": "Malo jezero",
+                  "text": "Lac mic de culoare smarald în Lacurile Plitvice, cu trunchiuri de copaci scufundate.",
+                  "category": "natural",
+                  "coords": [
+                        15.602177,
+                        44.87454
+                  ]
+            },
+            {
+                  "name": "Veliko jezero",
+                  "text": "Cel mai mare lac din Lacurile Plitvice, cu un debarcader și trasee de mers pe jos.",
+                  "category": "natural",
+                  "coords": [
+                        15.602333,
+                        44.873252
+                  ]
+            },
+            {
+                  "name": "Jezero Vir",
+                  "text": "Jezero Vir este un lac situat în Plitvicka Jezera Village, oferind peisaje frumoase vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        15.603249,
+                        44.873611
+                  ]
+            },
+            {
+                  "name": "Gavanovac",
+                  "text": "Gavanovac este un lac situat în Plitvicka Jezera Village, oferind peisaje frumoase vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        15.61111,
+                        44.899046
+                  ]
+            },
+            {
+                  "name": "Prošćansko jezero",
+                  "text": "Prošćansko jezero este un lac situat în Plitvicka Jezera Village, oferind peisaje frumoase vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        15.596887,
+                        44.861577
+                  ]
+            },
+            {
+                  "name": "Kaluđerovac",
+                  "text": "Kaluđerovac este un lac situat în Plitvicka Jezera Village, oferind peisaje frumoase vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        15.610764,
+                        44.901159
+                  ]
+            },
+            {
+                  "name": "Milanovac",
+                  "text": "Milanovac este un lac situat în Plitvicka Jezera Village, oferind peisaje frumoase vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        15.609751,
+                        44.896303
+                  ]
+            },
+            {
+                  "name": "Batinovac",
+                  "text": "Batinovac este un lac situat în Plitvicka Jezera Village, oferind peisaje frumoase vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        15.603207,
+                        44.871818
+                  ]
+            },
+            {
+                  "name": "Gradinsko jezero",
+                  "text": "Lac în Lacurile Plitvice, cu mal ierbos și o insulă mică.",
+                  "category": "natural",
+                  "coords": [
+                        15.611278,
+                        44.878235
+                  ]
+            },
+            {
+                  "name": "Milino jezero",
+                  "text": "Milino jezero este un lac situat în Plitvicka Jezera Village, oferind peisaje frumoase vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        15.609809,
+                        44.876297
+                  ]
+            },
+            {
+                  "name": "Jezero Kozjak",
+                  "text": "Cel mai adânc lac din Lacurile Plitvice, cu un tur cu barca electrică.",
+                  "category": "natural",
+                  "coords": [
+                        15.609557,
+                        44.884667
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Veliki Slap",
+                  "text": "The highest waterfall in Croatia, dropping 78 meters into the stunning Korana river canyon.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/plitvicka-jezera-veliki-slap.webp",
+                  "coords": [
+                        15.608893,
+                        44.902374
+                  ]
+            },
+            {
+                  "name": "Kozjak Lake",
+                  "text": "The largest lake in the park, where electric boats connect the upper and lower lake sections.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/plitvicka-jezera-kozjak-see.webp",
+                  "coords": [
+                        15.613596,
+                        44.884707
+                  ]
+            },
+            {
+                  "name": "Galovački buk",
+                  "text": "An impressive 16-meter high waterfall located in the lush Upper Lakes area of the park.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/plitvicka-jezera-galova-ki-buk.webp",
+                  "coords": [
+                        15.60851,
+                        44.87585
+                  ]
+            },
+            {
+                  "name": "Šupljara Cave",
+                  "text": "A fascinating limestone cave set in the Lower Lakes cliffs, featuring steep staircase paths.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/plitvicka-jezera-upljara-h-hle.webp",
+                  "coords": [
+                        15.612092,
+                        44.899925
+                  ]
+            },
+            {
+                  "name": "Milanovac Lake",
+                  "text": "The first of the Lower Lakes, known for its emerald green color and high surrounding cliffs.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/plitvicka-jezera-milanovac-see.webp",
+                  "coords": [
+                        15.610727,
+                        44.896304
+                  ]
+            },
+            {
+                  "name": "Prošćansko Lake",
+                  "text": "The highest lake in the system, surrounded by dense forests and offering a peaceful atmosphere.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/plitvicka-jezera-pro-ansko-see.webp",
+                  "coords": [
+                        15.600279,
+                        44.861556
+                  ]
+            },
+            {
+                  "name": "Lower Lakes",
+                  "text": "A series of four lakes set in a deep canyon, where water flows over spectacular travertine barriers.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/plitvicka-jezera-donja-jezera.webp",
+                  "coords": [
+                        15.611202,
+                        44.897281
+                  ]
+            },
+            {
+                  "name": "Burget Lake",
+                  "text": "A smaller, shallow lake with numerous tufa barriers and exceptionally clear, calm water.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/plitvicka-jezera-burget-see.webp",
+                  "coords": [
+                        15.614111,
+                        44.879137
+                  ]
+            },
+            {
+                  "name": "Krčingrad",
+                  "text": "The ruins of a medieval fortress located on the peninsula between Gradinsko and Kozjak lakes in Plitvice.",
+                  "category": "castle",
+                  "coords": [
+                        15.614429,
+                        44.877132
+                  ]
+            },
+            {
+                  "name": "Turčić",
+                  "text": "A hill in the Plitvice Lakes region.",
+                  "category": "natural",
+                  "coords": [
+                        15.625369,
+                        44.897797
+                  ]
+            },
+            {
+                  "name": "Stubica",
+                  "text": "A peak in the mountainous landscape of the Plitvice Lakes National Park.",
+                  "category": "natural",
+                  "coords": [
+                        15.601601,
+                        44.875764
+                  ]
+            },
+            {
+                  "name": "Tavanak",
+                  "text": "A mountain peak that is part of the massif surrounding the Plitvice Lakes.",
+                  "category": "natural",
+                  "coords": [
+                        15.595001,
+                        44.885401
+                  ]
+            },
+            {
+                  "name": "Crni vrh",
+                  "text": "The Black Peak (Crni vrh) in Plitvička Jezera.",
+                  "category": "natural",
+                  "coords": [
+                        15.606184,
+                        44.866227
+                  ]
+            },
+            {
+                  "name": "Hrnjakov vršak",
+                  "text": "The peak Hrnjakov vršak in Plitvička Jezera.",
+                  "category": "natural",
+                  "coords": [
+                        15.640707,
+                        44.871165
+                  ]
+            },
+            {
+                  "name": "Nacionalni park Plitvička jezera",
+                  "text": "Croatia's oldest national park, famous for its 16 terraced lakes and UNESCO World Heritage status.",
+                  "category": "landmark",
+                  "coords": [
+                        15.613758,
+                        44.883484
+                  ]
+            },
+            {
+                  "name": "Tomićevo pogledalo",
+                  "text": "Tomićevo pogledalo serves as a natural viewpoint in Plitvicka Jezera Village. Here, nature lovers can enjoy an impressive sweeping view over the landscape of the Plitvice Lakes.",
+                  "category": "natural",
+                  "coords": [
+                        15.596755,
+                        44.873715
+                  ]
+            },
+            {
+                  "name": "Belvedere",
+                  "text": "A viewpoint with panoramic vistas of the park's lakes and waterfalls.",
+                  "category": "natural",
+                  "coords": [
+                        15.60503,
+                        44.874575
+                  ]
+            },
+            {
+                  "name": "P2 - P3 line",
+                  "text": "An electric boat route connecting the P2 and P3 piers across Lake Kozjak.",
+                  "category": "landmark",
+                  "coords": [
+                        15.609557,
+                        44.886776
+                  ]
+            },
+            {
+                  "name": "Vodena dolina",
+                  "text": "The Water Valley (Vodena dolina) in Plitvička Jezera.",
+                  "category": "natural",
+                  "coords": [
+                        15.623899,
+                        44.892681
+                  ]
+            },
+            {
+                  "name": "Ciginovac",
+                  "text": "A small turquoise lake in the Plitvice Lakes with a wooden footbridge.",
+                  "category": "natural",
+                  "coords": [
+                        15.595034,
+                        44.872567
+                  ]
+            },
+            {
+                  "name": "Okrugljak",
+                  "text": "A round lake in the Plitvice Lakes with a waterfall at its southern end.",
+                  "category": "natural",
+                  "coords": [
+                        15.600253,
+                        44.872883
+                  ]
+            },
+            {
+                  "name": "Novakovića brod",
+                  "text": "A wooden footbridge over a series of cascading waterfalls in the Plitvice Lakes.",
+                  "category": "natural",
+                  "coords": [
+                        15.609901,
+                        44.902212
+                  ]
+            },
+            {
+                  "name": "Malo jezero",
+                  "text": "A small emerald green lake in the Plitvice Lakes with submerged tree trunks.",
+                  "category": "natural",
+                  "coords": [
+                        15.602177,
+                        44.87454
+                  ]
+            },
+            {
+                  "name": "Veliko jezero",
+                  "text": "The largest lake in the Plitvice Lakes with a boat pier and walking trails.",
+                  "category": "natural",
+                  "coords": [
+                        15.602333,
+                        44.873252
+                  ]
+            },
+            {
+                  "name": "Jezero Vir",
+                  "text": "Jezero Vir is a lake located in Plitvicka Jezera Village, offering beautiful scenery for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        15.603249,
+                        44.873611
+                  ]
+            },
+            {
+                  "name": "Gavanovac",
+                  "text": "Gavanovac is a lake located in Plitvicka Jezera Village, offering beautiful scenery for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        15.61111,
+                        44.899046
+                  ]
+            },
+            {
+                  "name": "Prošćansko jezero",
+                  "text": "Prošćansko jezero is a lake located in Plitvicka Jezera Village, offering beautiful scenery for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        15.596887,
+                        44.861577
+                  ]
+            },
+            {
+                  "name": "Kaluđerovac",
+                  "text": "Kaluđerovac is a lake located in Plitvicka Jezera Village, offering beautiful scenery for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        15.610764,
+                        44.901159
+                  ]
+            },
+            {
+                  "name": "Milanovac",
+                  "text": "Milanovac is a lake located in Plitvicka Jezera Village, offering beautiful scenery for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        15.609751,
+                        44.896303
+                  ]
+            },
+            {
+                  "name": "Batinovac",
+                  "text": "Batinovac is a lake located in Plitvicka Jezera Village, offering beautiful scenery for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        15.603207,
+                        44.871818
+                  ]
+            },
+            {
+                  "name": "Lake Gradinsko",
+                  "text": "A lake in the Plitvice Lakes with a grassy shore and a small island.",
+                  "category": "natural",
+                  "coords": [
+                        15.611278,
+                        44.878235
+                  ]
+            },
+            {
+                  "name": "Milino jezero",
+                  "text": "Milino jezero is a lake located in Plitvicka Jezera Village, offering beautiful scenery for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        15.609809,
+                        44.876297
+                  ]
+            },
+            {
+                  "name": "Lake Kozjak",
+                  "text": "The deepest lake in the Plitvice Lakes with an electric boat tour.",
+                  "category": "natural",
+                  "coords": [
+                        15.609557,
+                        44.884667
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Krčingrad",
+                  "text": "Ruševine srednjovjekovne utvrde smještene na poluotoku između jezera Gradinsko i Kozjak na Plitvicama.",
+                  "category": "castle",
+                  "coords": [
+                        15.614429,
+                        44.877132
+                  ]
+            },
+            {
+                  "name": "Turčić",
+                  "text": "Planinski vrh koji se nalazi na području Plitvičkih jezera.",
+                  "category": "natural",
+                  "coords": [
+                        15.625369,
+                        44.897797
+                  ]
+            },
+            {
+                  "name": "Stubica",
+                  "text": "Vrh u planinskom krajoliku Nacionalnog parka Plitvička jezera.",
+                  "category": "natural",
+                  "coords": [
+                        15.601601,
+                        44.875764
+                  ]
+            },
+            {
+                  "name": "Tavanak",
+                  "text": "Planinski vrh koji je dio masiva što okružuje Plitvička jezera.",
+                  "category": "natural",
+                  "coords": [
+                        15.595001,
+                        44.885401
+                  ]
+            },
+            {
+                  "name": "Crni vrh",
+                  "text": "Šumoviti vrh smješten u blizini Plitvičkih jezera.",
+                  "category": "natural",
+                  "coords": [
+                        15.606184,
+                        44.866227
+                  ]
+            },
+            {
+                  "name": "Hrnjakov vršak",
+                  "text": "Planinski vrh u regiji Plitvička Jezera.",
+                  "category": "natural",
+                  "coords": [
+                        15.640707,
+                        44.871165
+                  ]
+            },
+            {
+                  "name": "Nacionalni park Plitvička jezera",
+                  "text": "Najstariji nacionalni park u Hrvatskoj, poznat po 16 kaskadnih jezera i uvršten na UNESCO-ov popis svjetske baštine.",
+                  "category": "landmark",
+                  "coords": [
+                        15.613758,
+                        44.883484
+                  ]
+            },
+            {
+                  "name": "Tomićevo pogledalo",
+                  "text": "Vidikovac koji nudi široki pogled na prirodni krajolik Plitvičkih jezera.",
+                  "category": "natural",
+                  "coords": [
+                        15.596755,
+                        44.873715
+                  ]
+            },
+            {
+                  "name": "Belvedere",
+                  "text": "Vidikovac s panoramskim pogledom na jezera i slapove u parku.",
+                  "category": "natural",
+                  "coords": [
+                        15.60503,
+                        44.874575
+                  ]
+            },
+            {
+                  "name": "P2 - P3 line",
+                  "text": "Linija električnog broda koja povezuje pristaništa P2 i P3 na jezeru Kozjak.",
+                  "category": "landmark",
+                  "coords": [
+                        15.609557,
+                        44.886776
+                  ]
+            },
+            {
+                  "name": "Vodena dolina",
+                  "text": "Prirodni izvor vode na području Plitvičkih jezera.",
+                  "category": "natural",
+                  "coords": [
+                        15.623899,
+                        44.892681
+                  ]
+            }
+      ]
+}},
   {"id": "pula", "type": "city", "parent": "HR-18", "coords": [13.8496, 44.8666], "population": 52220, "tier": 1, "name": {"de": "Pula", "hu": "Pula", "ro": "Pula", "en": "Pula"}, "description": {"de": "Pula ist eine antike Hafenstadt an der Südspitze Istriens, berühmt für ihr gewaltiges römisches Amphitheater. Die Stadt verbindet jahrtausendealte Geschichte mit industriellem Erbe.", "hu": "Pula egy ősi kikötőváros az Isztriai-félsziget déli csücskén, amely monumentális római amfiteátrumáról híres. A városban az évezredes történelem és az ipari örökség találkozik.", "ro": "Pula este un oraș portuar antic situat în sudul Istriei, renumit pentru imensul său amfiteatru roman. Orașul îmbină istoria milenară cu moștenirea industrială.", "en": "Pula is an ancient port city at the southern tip of Istria, famous for its massive Roman amphitheater. The city blends millennia-old history with industrial heritage."}, "facts": {"de": ["Einwohnerzahl: 52.220 Personen", "Römisches Amphitheater (Arena)", "Augustustempel am Forum", "Sergierbogen (Goldenes Tor)", "Wichtigster Hafen Istriens", "Österreichisch-ungarische Festungsanlagen", "Nationalpark Brijuni-Inseln nah", "Größte Stadt der Halbinsel Istrien"], "hu": ["Lakosság: 52 220 fő", "Római amfiteátrum (Arena)", "Augustus temploma a Fórumon", "Sergius-diadalív (Aranykapu)", "Isztria legfontosabb kikötője", "Osztrák-magyar erődrendszer", "Brijuni Nemzeti Park a közelben", "Az Isztriai-félsziget legnagyobb városa"], "ro": ["Populație: 52.220 de locuitori", "Amfiteatrul Roman (Arena din Pula)", "Templul lui Augustus în Forum", "Arcul lui Sergius (Poarta de Aur)", "Cel mai important port din Istria", "Sistem de fortificații austro-ungare", "Parcul Național Brijuni este aproape", "Cel mai mare oraș din peninsula Istria"], "en": ["Population: 52,220 residents", "Roman Amphitheater (The Arena)", "Temple of Augustus on the Forum", "Arch of the Sergii (Golden Gate)", "Most important port in Istria", "Austro-Hungarian fortification system", "Brijuni National Park located nearby", "Largest city on the Istrian peninsula"]}, "image": "/poi-images/pula.webp", "imageHint": "Pula Arena Roman amphitheater aerial view", "descriptionAdvanced": {"de": "Pula ist ein lebendiges Geschichtsbuch unter freiem Himmel. Das Wahrzeichen der Stadt ist die Arena, das sechstgrößte römische Amphitheater der Welt, das einst 23.000 Zuschauern Platz bot und heute für Filmfestivals und Konzerte genutzt wird. Im Zentrum liegt das Forum, der Hauptplatz der Stadt, wo der hervorragend erhaltene Augustustempel steht. Die Stadt war jahrhundertelang der wichtigste Kriegshafen der k.u.k. Monarchie, was man an den zahlreichen Festungen und dem Marinefriedhof erkennen kann. Pula bietet eine faszinierende Mischung aus römischen Ruinen, österreichischer Architektur und dem modernen Hafenbetrieb. Die umliegende Küste ist geprägt von Kiefernwäldern und kristallklarem Wasser, insbesondere im nahegelegenen Kap Kamenjak. Die Brijuni-Inseln, einst Sommerresidenz Titos, sind nur eine kurze Bootsfahrt entfernt und bieten einen Safaripark und archäologische Stätten. Die Konzertsaison 2024-2025 in der Arena Pula wurde mit Auftritten von Sting, Tom Jones und Joe Bonamassa deutlich ausgebaut, zusätzlich zum traditionellen Pula Film Festival im Juli. Tickets sind oft Monate im Voraus ausverkauft.", "hu": "Pula egy élő, szabadtéri történelemkönyv. A város jelképe az Arena, a világ hatodik legnagyobb római amfiteátruma, amely egykor 23 000 nézőt fogadott be, ma pedig filmfesztiválok és koncertek helyszíne. A központban található a Fórum, a város főtere, ahol a kiváló állapotban fennmaradt Augustus-templom áll. A város évszázadokon át az Osztrák-Magyar Monarchia legfontosabb hadikikötője volt, amiről a számos erőd és a matróztemető tanúskodik. Pula a római romok, az osztrák építészet és a modern kikötői élet különleges keverékét nyújtja. A környező partvidéket fenyőerdők és kristálytiszta víz jellemzi, különösen a közeli Kamenjak-fokon. A Brijuni-szigetek, Tito egykori nyári rezidenciája, csak egy rövid hajóútra található, szafariparkkal és régészeti lelőhelyekkel várva a látogatókat. Az Arena Pula 2024-2025 koncertszezonja jelentősen kibővült: fellépett többek között Sting, Tom Jones és Joe Bonamassa, a júliusi Pula Film Festival mellett. A jegyek gyakran hónapokkal előre elfogynak.", "ro": "Pula este o carte de istorie vie sub cerul liber. Simbolul orașului este Arena, al șaselea amfiteatru roman ca mărime din lume, care găzduia odinioară 23.000 de spectatori și servește astăzi ca scenă pentru festivaluri de film și concerte. În centru se află Forumul, piața principală, unde se ridică Templul lui Augustus, remarcabil de bine conservat. Orașul a fost timp de secole principalul port militar al Imperiului Austro-Ungar, fapt vizibil în numeroasele fortărețe și cimitirul marinei. Pula oferă un amestec fascinant de ruine romane, arhitectură austriacă și activitate portuară modernă. Coasta din jur este marcată de păduri de pini și ape limpezi, în special în rezervația Cape Kamenjak. Insulele Brijuni, fosta reședință de vară a lui Tito, se află la o scurtă călătorie cu barca și oferă un parc safari și situri arheologice. Sezonul de concerte 2024-2025 la Arena Pula a fost extins considerabil, cu Sting, Tom Jones și Joe Bonamassa, pe lângă tradiționalul Pula Film Festival din iulie. Biletele se epuizează adesea cu luni înainte.", "en": "Pula functions as a living, open-air history book. Its crown jewel is the Arena, the world's sixth-largest Roman amphitheater, which once seated 23,000 spectators and now hosts prestigious film festivals and concerts. At the city's heart lies the Forum, the main square home to the exceptionally well-preserved Temple of Augustus. For centuries, Pula served as the Austro-Hungarian Empire's primary naval port, a legacy seen in its extensive fortress network and naval cemetery. The city presents a compelling mix of Roman ruins, Austrian architecture, and a modern industrial port. The surrounding coastline is famed for its pine forests and clear waters, particularly at the nearby Cape Kamenjak. The Brijuni Islands, Tito's former summer residence, are just a short boat ride away, featuring a safari park and diverse archaeological sites. The 2024-2025 concert season at Arena Pula expanded significantly with Sting, Tom Jones and Joe Bonamassa joining the traditional July Pula Film Festival. Tickets often sell out months in advance."}, "factsAdvanced": {"de": ["Die Arena wurde im 1. Jahrhundert erbaut", "Der Augustustempel ist fast 2000 Jahre alt", "Das Doppeltor (Porta Gemina) führt zum Archäologiemuseum", "Pula war römische Kolonie 'Pietas Iulia'", "Das Kastell auf dem Hügel bietet Panoramablick", "Der Hafen war Basis für 600 k.u.k. Schiffe"], "hu": ["Az Arena az i.sz. 1. században épült", "Augustus temploma csaknem 2000 éves", "A Kettős kapu (Porta Gemina) a Régészeti Múzeumba vezet", "Pula római kolónia volt 'Pietas Iulia' néven", "A dombtetőn lévő Kastell panorámás kilátást nyújt", "A kikötő egykor 600 osztrák-magyar hajó bázisa volt"], "ro": ["Arena a fost construită în secolul I d.Hr.", "Templul lui Augustus are aproape 2.000 de ani", "Poarta Gemina duce spre Muzeul de Arheologie", "Pula a fost colonie romană sub numele 'Pietas Iulia'", "Castelul de pe deal oferă o vedere panoramică", "Portul a servit drept bază pentru 600 de nave austriece"], "en": ["The Arena was constructed in the 1st century AD", "The Temple of Augustus is nearly 2,000 years old", "The Twin Gates (Porta Gemina) lead to the Archaeology Museum", "Pula was a Roman colony named 'Pietas Iulia'", "The hilltop Venetian fortress (Kastel) offers panoramic views", "The port once served as the home base for 600 Austrian ships"]}, "sights": {
       "de": [
             {
@@ -6333,7 +8281,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Wellness & Spa Centre of the Amarin Family Hotel",
-                  "text": "Ein Wellness- und Spa-Zentrum in Rovinj, das auf die Bedürfnisse von Familien ausgerichtet ist.",
+                  "text": "Hotel-Spa in Rovinj mit einem beheizten Innenpool und einer Saunalandschaft.",
                   "category": "family",
                   "coords": [
                         13.624475,
@@ -6342,7 +8290,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Gradski bazen",
-                  "text": "Ein öffentliches Bad in Rovinj für sportliches Schwimmen und Freizeit.",
+                  "text": "Öffentliches Schwimmbad in Rovinj mit einem großen Außenbecken und Sonnendeck.",
                   "category": "family",
                   "coords": [
                         13.632378,
@@ -6559,7 +8507,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Wellness & Spa Centre of the Amarin Family Hotel",
-                  "text": "Rovinji wellness- és spaközpont, amely a családok igényeire összpontosít.",
+                  "text": "Szállodai wellness Rovinjban, fűtött beltéri medencével és szaunával.",
                   "category": "family",
                   "coords": [
                         13.624475,
@@ -6568,7 +8516,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Gradski bazen",
-                  "text": "Rovinji közfürdő sportolási célú úszáshoz és szabadidőhöz.",
+                  "text": "Nyilvános uszoda Rovinjban, nagy kültéri medencével és napozóterasszal.",
                   "category": "family",
                   "coords": [
                         13.632378,
@@ -6785,7 +8733,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Wellness & Spa Centre of the Amarin Family Hotel",
-                  "text": "Un centru de wellness și spa din Rovinj axat pe nevoile familiilor.",
+                  "text": "Spa de hotel în Rovinj, cu piscină interioară încălzită și zonă de saună.",
                   "category": "family",
                   "coords": [
                         13.624475,
@@ -6794,7 +8742,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Gradski bazen",
-                  "text": "O baie publică în Rovinj pentru înot sportiv și agrement.",
+                  "text": "Piscină publică în Rovinj, cu un bazin mare exterior și terasă de plajă.",
                   "category": "family",
                   "coords": [
                         13.632378,
@@ -7011,7 +8959,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Wellness & Spa Centre of the Amarin Family Hotel",
-                  "text": "A wellness and spa centre in Rovinj focused on the needs of families.",
+                  "text": "A hotel spa in Rovinj with a heated indoor pool and sauna area.",
                   "category": "family",
                   "coords": [
                         13.624475,
@@ -7020,7 +8968,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Gradski bazen",
-                  "text": "A public bath in Rovinj for lap swimming and leisure.",
+                  "text": "A public swimming pool in Rovinj with a large outdoor pool and sun deck.",
                   "category": "family",
                   "coords": [
                         13.632378,
@@ -8544,9 +10492,2354 @@ export const poiExtraHrV1: POI[] = [
             }
       ]
 }},
-  {"id": "crikvenica", "type": "city", "parent": "HR-08", "coords": [14.69, 45.175], "population": 11122, "tier": 2, "name": {"de": "Crikvenica", "hu": "Crikvenica", "ro": "Crikvenica", "en": "Crikvenica"}, "description": {"de": "Ein traditionsreicher Kurort an der Kvarner Bucht, bekannt für seine kilometerlangen Promenaden und das milde Heilklima. Crikvenica ist seit dem 19. Jahrhundert ein beliebtes Ziel für Erholungssuchende.", "hu": "Hagyományokban gazdag üdülőhely a Kvarner-öbölben, amely kilométernyi sétányairól és enyhe gyógyklímájáról híres. Crikvenica a 19. század óta a pihenni vágyók kedvelt célpontja.", "ro": "O stațiune balneară cu tradiție în Golful Kvarner, cunoscută pentru promenadele sale de kilometri întregi și climatul curativ blând. Crikvenica este o destinație populară pentru relaxare încă din secolul al XIX-lea.", "en": "A traditional health resort on the Kvarner Bay, famous for its miles of promenades and mild healing climate. Crikvenica has been a popular destination for relaxation since the 19th century."}, "facts": {"de": ["Einwohnerzahl: 11.122 Personen", "Name stammt von der Klosterkirche (Crkva) ab", "Erstes öffentliches Bad wurde 1888 eröffnet", "Besitzt das offizielle Prädikat 'Heilbad'", "8 Kilometer lange Küstenpromenade", "Mildes Mikroklima mit 2500 Sonnenstunden", "Enge Verbindung zur Adelsfamilie Frankopan", "Bekannt für den Hundestrand 'Podvorska'"], "hu": ["Lakossága 11 122 fő", "Neve a kolostortemplomból (Crkva) ered", "Az első nyilvános fürdő 1888-ban nyílt meg", "Hivatalos 'gyógyfürdő' ranggal rendelkezik", "8 kilométer hosszú tengerparti sétány", "Enyhe mikroklíma, évi 2500 napsütéses órával", "Szoros kapcsolat a Frangepán nemesi családdal", "A 'Podvorska' kutyás strandjáról is híres"], "ro": ["Populație: 11.122 de persoane", "Numele provine de la biserica mănăstirii (Crkva)", "Prima baie publică a fost deschisă în 1888", "Deține statutul oficial de stațiune balneară", "Promenadă de coastă lungă de 8 kilometri", "Microclimat blând cu 2500 de ore de soare", "Legătură strânsă cu familia nobiliară Frankopan", "Cunoscută pentru plaja pentru câini 'Podvorska'"], "en": ["Population: 11,122 people", "Name originates from the monastery church (Crkva)", "First public bath opened in 1888", "Holds official 'health resort' status", "8-kilometer-long coastal promenade", "Mild microclimate with 2,500 sunny hours", "Close connection to the Frankopan noble family", "Famous for the 'Podvorska' dog beach"]}, "image": "/poi-images/crikvenica.webp", "imageHint": "Crikvenica waterfront promenade with palm trees and pebble beach", "descriptionAdvanced": {"de": "Crikvenica entwickelte sich Ende des 19. Jahrhunderts von einem kleinen Fischerdorf zu einem der mondänsten Kurorte der k.u.k. Monarchie. Das historische Hotel Therapy (einst Erzherzog Joseph) zeugt noch heute von dieser glanzvollen Ära. Die Stadt profitiert von einer geschützten Lage, die kalte Winde abhält und eine besonders saubere, jodhaltige Luft garantiert. Entlang der Riviera, die auch die Orte Dramalj, Selce und Jadranovo umfasst, ziehen sich wunderschöne Kiesstrände und versteckte Buchten. Für Familien ist der Stadtstrand 'Gradsko kupalište' ideal, während Wanderer den 'Liebespfad' (Ljubavna cestica) im Hinterland schätzen, der durch dichte Wälder zu mittelalterlichen Ruinen führt. Das Aquarium im Stadtzentrum zeigt die reiche Artenvielfalt der Adria und ist ein Highlight an regnerischen Tagen.", "hu": "Crikvenica a 19. század végén egy kis halászfaluból az Osztrák-Magyar Monarchia egyik legelegánsabb üdülőhelyévé fejlődött. A történelmi Hotel Therapy (egykori József főherceg szálloda) ma is tanúskodik erről a ragyogó korszakról. A város élvezi a védett fekvést, amely távol tartja a hideg szeleket, és garantálja a különösen tiszta, jódtartalmú levegőt. A riviéra mentén, amely Dramalj, Selce és Jadranovo településeket is magában foglalja, gyönyörű kavicsos strandok és rejtett öblök húzódnak. A családok számára a 'Gradsko kupalište' városi strand ideális, míg a túrázók a hátországban található 'Szerelem-ösvényt' (Ljubavna cestica) kedvelik, amely sűrű erdőkön keresztül vezet középkori romokhoz. A városközpontban található akvárium az Adria gazdag élővilágát mutatja be, és esős napokon is remek program.", "ro": "Crikvenica s-a transformat la sfârșitul secolului al XIX-lea dintr-un mic sat pescăresc într-una dintre cele mai elegante stațiuni balneare ale monarhiei austro-ungare. Istoricul Hotel Therapy (fostul Arhiducele Iosif) depune mărturie și astăzi despre această eră glorioasă. Orașul beneficiază de o poziție protejată, care ține la distanță vânturile reci și garantează un aer deosebit de curat, bogat în iod. De-a lungul rivierei, care include și localitățile Dramalj, Selce și Jadranovo, se întind plaje superbe cu pietriș și golfuri ascunse. Pentru familii, plaja orașului 'Gradsko kupalište' este ideală, în timp ce drumeții apreciază 'Poteca Iubirii' (Ljubavna cestica) din hinterland, care duce prin păduri dese către ruine medievale. Acvariul din centrul orașului prezintă biodiversitatea bogată a Adriaticii și este un punct de atracție în zilele ploioase.", "en": "Crikvenica transformed in the late 19th century from a small fishing village into one of the most sophisticated health resorts of the Austro-Hungarian Empire. The historic Hotel Therapy (formerly Archduke Joseph) still bears witness to this glamorous era. The town benefits from a sheltered location that keeps out cold winds and guarantees particularly clean, iodine-rich air. Along the Riviera, which also includes the towns of Dramalj, Selce, and Jadranovo, run beautiful pebble beaches and hidden coves. For families, the 'Gradsko kupalište' city beach is ideal, while hikers appreciate the 'Love Path' (Ljubavna cestica) in the hinterland, which leads through dense forests to medieval ruins. The aquarium in the city center showcases the rich biodiversity of the Adriatic and is a highlight on rainy days."}, "factsAdvanced": {"de": ["Das Paulinerkloster wurde 1412 von Nikola Frankopan gegründet", "Die offizielle Ernennung zum Luftkurort erfolgte 1906", "Der Sandstrand Crni Molo ist berühmt für das Ballspiel Picigin", "Crikvenica ist Gastgeber der ältesten Schwimmregatta der Adria", "Die Stadt ist nur 35 km von der Hafenstadt Rijeka entfernt", "Die hiesige Fischereitradition reicht über 600 Jahre zurück"], "hu": ["A pálos kolostort 1412-ben Frangepán Miklós alapította", "A hivatalos gyógyüdülőhelyi kinevezést 1906-ban kapta meg", "A Crni Molo homokos strand a Picigin labdajátékról híres", "Crikvenica ad otthont az Adria legrégebbi úszóregattájának", "A város mindössze 35 km-re fekszik Fiume (Rijeka) kikötővárosától", "A helyi halászati hagyomány több mint 600 éves múltra tekint vissza"], "ro": ["Mănăstirea Paulină a fost fondată în 1412 de Nikola Frankopan", "Desemnarea oficială ca stațiune climaterică a avut loc în 1906", "Plaja cu nisip Crni Molo este faimoasă pentru jocul cu mingea Picigin", "Crikvenica găzduiește cea mai veche regată de înot de la Adriatică", "Orașul se află la doar 35 km de orașul port Rijeka", "Tradiția pescuitului local are o vechime de peste 600 de ani"], "en": ["The Pauline monastery was founded in 1412 by Nikola Frankopan", "The official designation as a climate health resort occurred in 1906", "The Crni Molo sand beach is famous for the ball game Picigin", "Crikvenica hosts the oldest swimming regatta in the Adriatic", "The city is only 35 km away from the port city of Rijeka", "The local fishing tradition dates back over 600 years"]}, "sights": {"de": [{"name": "Stadtmuseum Crikvenica", "text": "Zeigt Ausstellungen zur Geschichte, Archäologie und zum Fischereierbe der Region Vinodol.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/crikvenica-stadtmuseum-crikvenica.webp", "coords": [14.687375, 45.174863]}, {"name": "Aquarium Crikvenica", "text": "Beherbergt über 150 Fischarten aus der Adria und tropischen Gewässern in modernem Ambiente.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/crikvenica-aquarium-crikvenica.webp", "coords": [14.692127, 45.173684]}, {"name": "Stjepan-Radić-Platz", "text": "Der zentrale Platz am Meer, Mittelpunkt kultureller Veranstaltungen und des städtischen Lebens.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/crikvenica-stjepan-radi-platz.webp", "coords": [14.688957, 45.173457]}, {"name": "Stadtgalerie", "text": "Ein wichtiger kultureller Ort, der zeitgenössische Werke lokaler und nationaler Künstler zeigt.", "category": "theatres/cultural centres", "confidence": "high", "image": "/poi-images/sights/crikvenica-stadtgalerie.webp", "coords": [14.687375, 45.174863]}, {"name": "Crni molo", "text": "Crni molo ist ein beliebter Sandstrand in Crikvenica, der besonders für sein flaches Wasser und Sportangebote bekannt ist.", "category": "recreational", "coords": [14.680808, 45.181001]}, {"name": "Plaža Omorika", "text": "Mit Blick auf die Insel Krk vereint der Omorika-Strand in Crikvenica ansprechende Kies- und Felsabschnitte. Das Ufer zieht sowohl sonnenhungrige Urlauber als auch passionierte Schwimmer an. Um das klare kroatische Wasser in Ruhe zu genießen, bieten sich besonders die Vormittagsstunden an.", "category": "recreational", "coords": [14.673808, 45.187228]}, {"name": "Kaštel", "text": "Das Kaštel in Crikvenica ist ein ehemaliges Paulinerkloster aus dem 15. Jahrhundert, das heute als Hotel geführt wird.", "category": "castle", "coords": [14.694429, 45.171711]}, {"name": "Memorijalni atelje Zvonka Cara", "text": "Gedenkatelier des Bildhauers Zvonko Car in Crikvenica, das seine Werke und sein Erbe präsentiert.", "category": "museum", "coords": [14.684232, 45.179222]}, {"name": "Uvala Selce", "text": "Eine Bucht im Ort Selce bei Crikvenica, die zum Schwimmen an der Adria genutzt wird.", "category": "natural", "coords": [14.717313, 45.156728]}, {"name": "Gavranova stijena", "text": "Ein Aussichtspunkt oberhalb von Crikvenica mit Panoramablick auf die Küste und das Meer.", "category": "natural", "coords": [14.689089, 45.193808]}, {"name": "Kavranova stena", "text": "Ein Aussichtspunkt in der Nähe von Crikvenica mit Blick auf den Kvarner-Golf.", "category": "natural", "coords": [14.695202, 45.195167]}, {"name": "Crkva sv. Nikole", "text": "Überreste der historischen St.-Nikolaus-Kirche in Crikvenica, die von der lokalen Geschichte zeugen.", "category": "historical", "coords": [14.699123, 45.180695]}, {"name": "Murali", "text": "Eine Sammlung von Wandmalereien in Crikvenica, die moderne Straßenkunst im öffentlichen Raum zeigt.", "category": "museum", "coords": [14.689966, 45.173495]}, {"name": "Gradsko kupalište", "text": "Das zentrale öffentliche Bad von Crikvenica, ein Strand mit Sandabschnitten und touristischer Infrastruktur.", "category": "recreational", "coords": [14.682415, 45.178933]}, {"name": "Gradina Badanj", "text": "Ruinen einer mittelalterlichen Festungsanlage auf einem Hügel oberhalb von Crikvenica.", "category": "historical", "coords": [14.699681, 45.192927]}, {"name": "Crkva svetoga Trojstva", "text": "Überreste der einstigen Dreifaltigkeitskirche in Crikvenica, die heute als Ruine erhalten sind.", "category": "historical", "coords": [14.704708, 45.185677]}, {"name": "Crkva svetog Jurja", "text": "Die Ruinen der historischen St.-Georgs-Kirche in Crikvenica sind ein Zeugnis der alten Architektur.", "category": "historical", "coords": [14.701012, 45.182406]}, {"name": "Plaža Pazdehova-Lanterna", "text": "Dieser beliebte Küstenabschnitt in Crikvenica lädt zu ausgiebigen Sonnenbädern und Erholung am Meer ein. Es herrscht zumeist eine freundliche und entspannte Urlaubsstimmung entlang des Wassers. Für einen unbeschwerten Badetag empfiehlt sich die Mitnahme einer komfortablen Strandmatte.", "category": "recreational", "coords": [14.666783, 45.191778]}, {"name": "Kupalište Riviera", "text": "Ein gut ausgestatteter Strandabschnitt in Crikvenica mit touristischer Infrastruktur.", "category": "recreational", "coords": [14.670459, 45.189935]}, {"name": "Tunera Rt. Silo", "text": "Eine historische Thunfisch-Beobachtungsstation (Tunera) am Kap Šilo bei Crikvenica.", "category": "landmark", "coords": [14.669403, 45.15536]}, {"name": "Podvorska", "text": "Ein spezieller Hundestrand in Crikvenica, der für Haustiere und deren Besitzer konzipiert wurde.", "category": "landmark", "coords": [14.695675, 45.169474]}, {"name": "Tribaljsko jezero", "text": "Der Tribalj-See in Crikvenica bietet eine ruhige Landschaft.", "category": "natural", "coords": [14.667361, 45.224994]}], "hu": [{"name": "Crikvenicai Városi Múzeum", "text": "A régió történelmét, néprajzát és halászati hagyományait bemutató modern kiállítótér.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/crikvenica-stadtmuseum-crikvenica.webp", "coords": [14.687375, 45.174863]}, {"name": "Crikvenicai Akvárium", "text": "Több mint 150 adriai és trópusi halfajt bemutató látványos vízi világ a város központjában.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/crikvenica-aquarium-crikvenica.webp", "coords": [14.692127, 45.173684]}, {"name": "Stjepan Radić tér", "text": "A város főtere a tengerparton, amely számos koncert és fesztivál központi helyszíne.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/crikvenica-stjepan-radi-platz.webp", "coords": [14.688957, 45.173457]}, {"name": "Városi Galéria", "text": "Kulturális központ, ahol kortárs helyi és horvát művészek alkotásait tekinthetik meg a látogatók.", "category": "theatres/cultural centres", "confidence": "high", "image": "/poi-images/sights/crikvenica-stadtgalerie.webp", "coords": [14.687375, 45.174863]}, {"name": "Crni molo", "text": "A Crni molo Crikvenica kedvelt homokos strandja, amely sekély vizéről és változatos sportolási lehetőségeiről híres.", "category": "recreational", "coords": [14.680808, 45.181001]}, {"name": "Plaža Omorika", "text": "A Krk-szigetre nyíló kilátással a crikvenicai Omorika strand kellemes kavicsos és sziklás szakaszokat ötvöz. A part egyaránt vonzza a napozni vágyó nyaralókat és a szenvedélyes úszókat. A tiszta horvát víz nyugodt élvezetéhez különösen a délelőtti órák ideálisak.", "category": "recreational", "coords": [14.673808, 45.187228]}, {"name": "Kaštel", "text": "A crikvenicai Kaštel egy 15. századi egykori pálos kolostor, amely ma elegáns szállodaként működik.", "category": "castle", "coords": [14.694429, 45.171711]}, {"name": "Memorijalni atelje Zvonka Cara", "text": "Zvonko Car szobrászművész emlékműhelye Crikvenicában, amely az alkotó munkásságát mutatja be.", "category": "museum", "coords": [14.684232, 45.179222]}, {"name": "Uvala Selce", "text": "Egy öböl Selce településen, Crikvenica közelében, amely kedvelt fürdőhely az Adrián.", "category": "natural", "coords": [14.717313, 45.156728]}, {"name": "Gavranova stijena", "text": "Kilátópont Crikvenica felett, ahonnan panorámás kilátás nyílik a tengerpartra és a tengerre.", "category": "natural", "coords": [14.689089, 45.193808]}, {"name": "Kavranova stena", "text": "Kilátóhely Crikvenica közelében, kilátással a Kvarner-öbölre.", "category": "natural", "coords": [14.695202, 45.195167]}, {"name": "Crkva sv. Nikole", "text": "A történelmi Szent Miklós-templom maradványai Crikvenicában, a település múltjának emlékei.", "category": "historical", "coords": [14.699123, 45.180695]}, {"name": "Murali", "text": "Falfestmények gyűjteménye Crikvenicában, amely modern köztéri művészetet mutat be.", "category": "museum", "coords": [14.689966, 45.173495]}, {"name": "Gradsko kupalište", "text": "Crikvenica központi strandja, amely homokos parttal és kiépített infrastruktúrával rendelkezik.", "category": "recreational", "coords": [14.682415, 45.178933]}, {"name": "Gradina Badanj", "text": "Egy középkori erődrendszer romjai a Crikvenica feletti dombon.", "category": "historical", "coords": [14.699681, 45.192927]}, {"name": "Crkva svetoga Trojstva", "text": "Az egykori Szentháromság-templom maradványai Crikvenicában, amelyek romként maradtak fenn.", "category": "historical", "coords": [14.704708, 45.185677]}, {"name": "Crkva svetog Jurja", "text": "A történelmi Szent György-templom romjai Crikvenicában, a régi építészet emlékei.", "category": "historical", "coords": [14.701012, 45.182406]}, {"name": "Plaža Pazdehova-Lanterna", "text": "Ez a népszerű crikvenicai partszakasz hosszas napozásra és tengerparti pihenésre hívogat. A víz mentén többnyire barátságos és nyugodt nyaralási hangulat uralkodik. A felhőtlen strandoláshoz érdemes kényelmes gyékényt vagy strandmatracot vinni.", "category": "recreational", "coords": [14.666783, 45.191778]}, {"name": "Kupalište Riviera", "text": "Jól felszerelt strandrész Crikvenicában, turisztikai infrastruktúrával.", "category": "recreational", "coords": [14.670459, 45.189935]}, {"name": "Tunera Rt. Silo", "text": "Egy történelmi tonhalfigyelő állomás (Tunera) a Crikvenica melletti Šilo-foknál.", "category": "landmark", "coords": [14.669403, 45.15536]}, {"name": "Podvorska", "text": "Speciális kutyás strand Crikvenicában, amelyet háziállatok és gazdáik számára alakítottak ki.", "category": "landmark", "coords": [14.695675, 45.169474]}, {"name": "Tribaljsko jezero", "text": "A crikvenicai Tribalji-tó nyugodt tájat kínál.", "category": "natural", "coords": [14.667361, 45.224994]}], "ro": [{"name": "Muzeul Orașului Crikvenica", "text": "Găzduiește colecții despre istoria locală, arheologie și viața cotidiană a pescarilor de odinioară.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/crikvenica-stadtmuseum-crikvenica.webp", "coords": [14.687375, 45.174863]}, {"name": "Acvariul din Crikvenica", "text": "Prezintă peste 150 de specii de pești din Marea Adriatică și din zonele tropicale ale lumii.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/crikvenica-aquarium-crikvenica.webp", "coords": [14.692127, 45.173684]}, {"name": "Piața Stjepan Radić", "text": "Piața centrală a orașului, situată la malul mării, locul principal de întâlnire al turiștilor.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/crikvenica-stjepan-radi-platz.webp", "coords": [14.688957, 45.173457]}, {"name": "Galeria Orașului", "text": "Un spațiu cultural activ unde sunt expuse lucrări de artă ale artiștilor contemporani locali.", "category": "theatres/cultural centres", "confidence": "high", "image": "/poi-images/sights/crikvenica-stadtgalerie.webp", "coords": [14.687375, 45.174863]}, {"name": "Crni molo", "text": "Crni molo este o plajă populară de nisip din Crikvenica, apreciată pentru apele puțin adânci și facilitățile sportive.", "category": "recreational", "coords": [14.680808, 45.181001]}, {"name": "Plaža Omorika", "text": "Oferind vedere către insula Krk, plaja Omorika din Crikvenica îmbină secțiuni plăcute de pietriș și stânci. Coasta atrage atât turiștii dornici de soare, cât și pasionații de înot. Pentru a vă bucura în liniște de apele clare ale Croației, orele dimineții sunt cele mai potrivite.", "category": "recreational", "coords": [14.673808, 45.187228]}, {"name": "Kaštel", "text": "Castelul din Crikvenica este o fostă mănăstire paulină din secolul al XV-lea, transformată astăzi în hotel.", "category": "castle", "coords": [14.694429, 45.171711]}, {"name": "Memorijalni atelje Zvonka Cara", "text": "Atelierul memorial al sculptorului Zvonko Car din Crikvenica, care prezintă operele și moștenirea sa.", "category": "museum", "coords": [14.684232, 45.179222]}, {"name": "Uvala Selce", "text": "Un golf în localitatea Selce de lângă Crikvenica, folosit pentru înot la Marea Adriatică.", "category": "natural", "coords": [14.717313, 45.156728]}, {"name": "Gavranova stijena", "text": "Un punct de belvedere situat deasupra Crikvenicei, oferind o panoramă asupra coastei și a mării.", "category": "natural", "coords": [14.689089, 45.193808]}, {"name": "Kavranova stena", "text": "Un punct de observație lângă Crikvenica, cu vederi spre Golful Kvarner.", "category": "natural", "coords": [14.695202, 45.195167]}, {"name": "Crkva sv. Nikole", "text": "Ruinele bisericii istorice Sfântul Nicolae din Crikvenica, un vestigiu al istoriei locale.", "category": "historical", "coords": [14.699123, 45.180695]}, {"name": "Murali", "text": "O colecție de picturi murale din Crikvenica, prezentând arta stradală modernă în spațiul public.", "category": "museum", "coords": [14.689966, 45.173495]}, {"name": "Gradsko kupalište", "text": "Ștrandul public central din Crikvenica, o plajă cu zone cu nisip și infrastructură turistică.", "category": "recreational", "coords": [14.682415, 45.178933]}, {"name": "Gradina Badanj", "text": "Ruinele unei fortificații medievale situate pe un deal deasupra Crikvenicei.", "category": "historical", "coords": [14.699681, 45.192927]}, {"name": "Crkva svetoga Trojstva", "text": "Resturile fostei biserici Sfânta Treime din Crikvenica, păstrate astăzi sub formă de ruine.", "category": "historical", "coords": [14.704708, 45.185677]}, {"name": "Crkva svetog Jurja", "text": "Ruinele bisericii istorice Sfântul Gheorghe din Crikvenica sunt un vestigiu al arhitecturii vechi.", "category": "historical", "coords": [14.701012, 45.182406]}, {"name": "Plaža Pazdehova-Lanterna", "text": "Acest tronson de coastă popular din Crikvenica este perfect pentru băi de soare prelungite și relaxare la mare. De-a lungul apei predomină o atmosferă de vacanță prietenoasă și destinsă. Pentru o zi fără griji la plajă, este recomandat să aduceți o rogojină confortabilă.", "category": "recreational", "coords": [14.666783, 45.191778]}, {"name": "Kupalište Riviera", "text": "O secțiune de plajă bine dotată în Crikvenica, cu infrastructură turistică.", "category": "recreational", "coords": [14.670459, 45.189935]}, {"name": "Tunera Rt. Silo", "text": "O stație istorică de observare a tonului (Tunera) la Capul Šilo, lângă Crikvenica.", "category": "landmark", "coords": [14.669403, 45.15536]}, {"name": "Podvorska", "text": "O plajă specială pentru câini în Crikvenica, concepută pentru animale de companie și stăpânii lor.", "category": "landmark", "coords": [14.695675, 45.169474]}, {"name": "Tribaljsko jezero", "text": "Lacul Tribalj din Crikvenica oferă un peisaj liniștit.", "category": "natural", "coords": [14.667361, 45.224994]}], "en": [{"name": "Town Museum Crikvenica", "text": "Features exhibitions on local history, archaeology, and the fishing heritage of the region.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/crikvenica-stadtmuseum-crikvenica.webp", "coords": [14.687375, 45.174863]}, {"name": "Crikvenica Aquarium", "text": "Home to more than 150 species of fish from the Adriatic Sea and tropical waters worldwide.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/crikvenica-aquarium-crikvenica.webp", "coords": [14.692127, 45.173684]}, {"name": "Stjepan Radić Square", "text": "The main seaside square of the town, serving as the center for cultural events and festivals.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/crikvenica-stjepan-radi-platz.webp", "coords": [14.688957, 45.173457]}, {"name": "Town Gallery", "text": "A cultural venue that hosts regular exhibitions of contemporary works by Croatian artists.", "category": "theatres/cultural centres", "confidence": "high", "image": "/poi-images/sights/crikvenica-stadtgalerie.webp", "coords": [14.687375, 45.174863]}, {"name": "Crni molo", "text": "Crni molo is a popular sandy beach in Crikvenica, known for its shallow waters and various sports facilities.", "category": "recreational", "coords": [14.680808, 45.181001]}, {"name": "Omorika Beach", "text": "Boasting a view of the island of Krk, Omorika beach in Crikvenica features an appealing mix of pebble and rocky sections. The shoreline attracts both sun-seeking holidaymakers and avid swimmers. The morning hours are particularly pleasant for enjoying the clear Croatian waters in peace.", "category": "recreational", "coords": [14.673808, 45.187228]}, {"name": "Kaštel", "text": "The Kaštel in Crikvenica is a former 15th-century Pauline monastery that now operates as a hotel.", "category": "castle", "coords": [14.694429, 45.171711]}, {"name": "Memorijalni atelje Zvonka Cara", "text": "Memorial atelier of the sculptor Zvonko Car in Crikvenica, showcasing his works and artistic legacy.", "category": "museum", "coords": [14.684232, 45.179222]}, {"name": "Uvala Selce", "text": "A bay in the village of Selce near Crikvenica, used for swimming in the Adriatic Sea.", "category": "natural", "coords": [14.717313, 45.156728]}, {"name": "Gavranova stijena", "text": "A viewpoint located above Crikvenica, offering a panoramic view of the coast and the sea.", "category": "natural", "coords": [14.689089, 45.193808]}, {"name": "Kavranova stena", "text": "A vantage point near Crikvenica providing views over the Kvarner Bay.", "category": "natural", "coords": [14.695202, 45.195167]}, {"name": "Crkva sv. Nikole", "text": "Ruins of the historic St. Nicholas church in Crikvenica, reflecting the town's history.", "category": "historical", "coords": [14.699123, 45.180695]}, {"name": "Murali", "text": "A collection of murals in Crikvenica, showcasing modern street art in the public space.", "category": "museum", "coords": [14.689966, 45.173495]}, {"name": "Gradsko kupalište", "text": "The main public beach in Crikvenica, featuring sandy areas and tourist facilities.", "category": "recreational", "coords": [14.682415, 45.178933]}, {"name": "Gradina Badanj", "text": "Ruins of a medieval fortification situated on a hill overlooking Crikvenica.", "category": "historical", "coords": [14.699681, 45.192927]}, {"name": "The Church of the Holy Trinity", "text": "Remains of the former Holy Trinity church in Crikvenica, preserved as ruins.", "category": "historical", "coords": [14.704708, 45.185677]}, {"name": "Crkva svetog Jurja", "text": "The ruins of the historic St. George's church in Crikvenica are a testament to old architecture.", "category": "historical", "coords": [14.701012, 45.182406]}, {"name": "Plaža Pazdehova-Lanterna", "text": "This well-loved coastal stretch in Crikvenica invites visitors for extensive sunbathing and seaside relaxation. A friendly and laid-back holiday mood generally prevails along the water. Bringing a comfortable beach mat is recommended for a carefree day of swimming.", "category": "recreational", "coords": [14.666783, 45.191778]}, {"name": "Kupalište Riviera", "text": "A well-equipped beach area in Crikvenica with tourist infrastructure.", "category": "recreational", "coords": [14.670459, 45.189935]}, {"name": "Tunera Rt. Silo", "text": "A historical tuna observation tower (Tunera) at Cape Šilo near Crikvenica.", "category": "landmark", "coords": [14.669403, 45.15536]}, {"name": "Podvorska", "text": "A dedicated dog beach in Crikvenica, designed for pets and their owners.", "category": "landmark", "coords": [14.695675, 45.169474]}, {"name": "Lake Tribalj", "text": "Lake Tribalj in Crikvenica offers a tranquil landscape.", "category": "natural", "coords": [14.667361, 45.224994]}], "hr": [{"name": "Crni molo", "text": "Crni molo je poznata pješčana plaža u Crikvenici, idealna za obitelji zbog plitkog mora i brojnih sportskih sadržaja.", "category": "recreational", "coords": [14.680808, 45.181001]}, {"name": "Omorika Beach", "text": "Plaža Omorika u Crikvenici popularno je kupalište s kombinacijom šljunka i stijena te prekrasnim pogledom na otok Krk.", "category": "recreational", "coords": [14.673808, 45.187228]}, {"name": "Kaštel", "text": "Kaštel u Crikvenici nekadašnji je pavlinski samostan utemeljen 1412. godine, koji danas služi kao hotel.", "category": "castle", "coords": [14.694429, 45.171711]}, {"name": "Uvala Selce", "text": "Uvala u mjestu Selce kraj Crikvenice, pogodna za kupanje i rekreaciju na moru.", "category": "natural", "coords": [14.717313, 45.156728]}, {"name": "Gavranova stijena", "text": "Vidikovac smješten iznad Crikvenice s kojeg se pruža panoramski pogled na obalu.", "category": "natural", "coords": [14.689089, 45.193808]}, {"name": "Kavranova stena", "text": "Vidikovac u blizini Crikvenice s kojeg se pruža pogled na Kvarnerski zaljev.", "category": "natural", "coords": [14.695202, 45.195167]}, {"name": "Crkva sv. Nikole", "text": "Ostatci povijesne crkve svetog Nikole u Crikvenici koji svjedoče o prošlosti grada.", "category": "historical", "coords": [14.699123, 45.180695]}, {"name": "Murali", "text": "Zbirka murala u Crikvenici koja predstavlja modernu uličnu umjetnost u javnom prostoru.", "category": "museum", "coords": [14.689966, 45.173495]}, {"name": "Gradsko kupalište", "text": "Glavno gradsko kupalište u Crikvenici, pješčana plaža s uređenom turističkom infrastrukturom.", "category": "recreational", "coords": [14.682415, 45.178933]}, {"name": "Gradina Badanj", "text": "Ruševine srednjovjekovne utvrde smještene na uzvisini iznad Crikvenice.", "category": "historical", "coords": [14.699681, 45.192927]}, {"name": "The Church of the Holy Trinity", "text": "Ostatci nekadašnje crkve Presvetog Trojstva u Crikvenici koji su danas sačuvani kao ruševine.", "category": "historical", "coords": [14.704708, 45.185677]}, {"name": "Crkva svetog Jurja", "text": "Povijesne ruševine crkve svetog Jurja u Crikvenici, spomenik stare arhitekture.", "category": "historical", "coords": [14.701012, 45.182406]}, {"name": "Plaža Pazdehova-Lanterna", "text": "Popularna plaža u Crikvenici, idealna za sunčanje i opuštanje uz more.", "category": "recreational", "coords": [14.666783, 45.191778]}, {"name": "Kupalište Riviera", "text": "Dobro opremljeno kupalište u Crikvenici s turističkom infrastrukturom.", "category": "recreational", "coords": [14.670459, 45.189935]}, {"name": "Tunera Rt. Silo", "text": "Povijesna postaja za promatranje tuna (tunera) na rtu Šilo kod Crikvenice.", "category": "landmark", "coords": [14.669403, 45.15536]}, {"name": "Podvorska", "text": "Poznata plaža za pse u Crikvenici, namijenjena kućnim ljubimcima i njihovim vlasnicima.", "category": "landmark", "coords": [14.695675, 45.169474]}]}},
-  {"id": "cavtat", "type": "city", "parent": "HR-19", "coords": [18.2117, 42.5803], "population": 2117, "tier": 2, "name": {"de": "Cavtat", "hu": "Cavtat", "ro": "Cavtat", "en": "Cavtat"}, "description": {"de": "Cavtat ist eine elegante Küstenstadt südlich von Dubrovnik, die auf den Ruinen des antiken Epidaurum erbaut wurde. Die Stadt ist berühmt für ihre palmengesäumte Promenade, historische Paläste und das Mausoleum der Familie Račić.", "hu": "Cavtat egy elegáns tengerparti város Dubrovniktól délre, amely az ókori Epidaurum romjaira épült. A város pálmákkal szegélyezett sétányáról, történelmi palotáiról és a Račić család mauzóleumáról híres.", "ro": "Cavtat este un oraș de coastă elegant situat la sud de Dubrovnik, construit pe ruinele anticului Epidaurum. Orașul este faimos pentru promenada sa cu palmieri, palatele istorice și mausoleul familiei Račić.", "en": "Cavtat is an elegant coastal town south of Dubrovnik, built on the ruins of ancient Epidaurum. The town is famous for its palm-lined promenade, historic palaces, and the Račić family mausoleum."}, "facts": {"de": ["Bevölkerung: 2117 Einwohner", "Region: Gespanschaft Dubrovnik-Neretva", "Antike: Gegründet als griechische Kolonie Epidaurus", "Architektur: Mausoleum der Familie Račić von Ivan Meštrović", "Kultur: Geburtsort des Malers Vlaho Bukovac", "Geografie: Auf zwei Halbinseln gelegen (Rat und Sustjepan)", "Natur: Bekannt für die üppige mediterrane Vegetation", "Tourismus: Beliebter Jachthafen nahe Dubrovnik"], "hu": ["Lakosok száma: 2117 fő", "Régió: Dubrovnik-Neretva megye", "Ókor: Görög kolóniaként alapították (Epidaurus)", "Építészet: Ivan Meštrović által tervezett Račić mauzóleum", "Kultúra: Vlaho Bukovac festőművész szülőhelye", "Földrajz: Két félszigeten fekszik (Rat és Sustjepan)", "Természet: Gazdag mediterrán növényzetéről ismert", "Turizmus: Népszerű jachtkikötő Dubrovnik közelében"], "ro": ["Populație: 2117 de locuitori", "Regiune: Județul Dubrovnik-Neretva", "Antichitate: Fondat ca colonie greacă (Epidaurus)", "Arhitectură: Mausoleul familiei Račić de Ivan Meštrović", "Cultură: Locul de naștere al pictorului Vlaho Bukovac", "Geografie: Situat pe două peninsule (Rat și Sustjepan)", "Natură: Cunoscut pentru vegetația mediteraneană luxuriantă", "Turism: Port de iahturi popular lângă Dubrovnik"], "en": ["Population: 2,117 residents", "Region: Dubrovnik-Neretva County", "Antiquity: Founded as the Greek colony Epidaurus", "Architecture: Račić family mausoleum by Ivan Meštrović", "Culture: Birthplace of the painter Vlaho Bukovac", "Geography: Located on two peninsulas (Rat and Sustjepan)", "Nature: Known for lush Mediterranean vegetation", "Tourism: Popular yacht marina near Dubrovnik"]}, "image": "/poi-images/cavtat.webp", "imageHint": "Harbor and seaside promenade of Cavtat under the sun", "descriptionAdvanced": {"de": "Cavtat, das antike Epidaurum, ist ein Ort von zeitloser Eleganz am südlichsten Zipfel Kroatiens. Nachdem die ursprüngliche Siedlung im 7. Jahrhundert zerstört wurde, gründeten die Flüchtlinge das nahegelegene Dubrovnik, während Cavtat später unter der Herrschaft der Republik Ragusa wieder zu Blüte gelangte. Die Stadt erstreckt sich malerisch entlang zweier Halbinseln und bietet eine der schönsten Uferpromenaden der Adria, gesäumt von Palmen und historischen Gebäuden. Ein kulturelles Muss ist das Haus von Vlaho Bukovac, einem der bedeutendsten kroatischen Maler, das heute ein Museum ist. Hoch über der Stadt thront das Mausoleum der Familie Račić, ein Meisterwerk des Bildhauers Ivan Meštrović, das vollständig aus weißem Brač-Marmor ohne Metallverbindungen errichtet wurde. Der Rektorenpalast beherbergt die beeindruckende Sammlung des Gelehrten Baltazar Bogišić. Cavtat vereint den aristokratischen Geist der Vergangenheit mit einer entspannten mediterranen Atmosphäre und ist ein Rückzugsort für Kenner abseits der Massen von Dubrovnik.", "hu": "Cavtat, az ókori Epidaurum, az időtlen elegancia városa Horvátország legdélebbi csücskében. Miután az eredeti település a 7. században elpusztult, a menekültek alapították meg a közeli Dubrovnikot, míg Cavtat később a Raguzai Köztársaság fennhatósága alatt virágzott fel újra. A város festői módon két félsziget mentén terül el, és az Adria egyik legszebb, pálmákkal és történelmi épületekkel szegélyezett tengerparti sétányát kínálja. Kulturális szempontból kötelező látnivaló Vlaho Bukovac, az egyik legjelentősebb horvát festő szülőháza, amely ma múzeum. A város felett magasodik a Račić család mauzóleuma, Ivan Meštrović szobrászművész remekműve, amely teljes egészében fehér brači márványból készült, fém rögzítések nélkül. A Kormányzói palota Baltazar Bogišić tudós lenyűgöző gyűjteményének ad otthont. Cavtat egyesíti a múlt arisztokratikus szellemét a nyugodt mediterrán hangulattal, ideális menedék a Dubrovnik tömegeitől távolodni vágyóknak.", "ro": "Cavtat, anticul Epidaurum, este un loc de o eleganță atemporală în cel mai sudic punct al Croației. După ce așezarea inițială a fost distrusă în secolul al VII-lea, refugiații au fondat orașul Dubrovnik din apropiere, în timp ce Cavtat a înflorit din nou mai târziu sub stăpânirea Republicii Ragusa. Orașul se întinde pitoresc de-a lungul a două peninsule și oferă una dintre cele mai frumoase promenade de pe malul mării din Adriatica, mărginită de palmieri și clădiri istorice. O vizită culturală obligatorie este casa lui Vlaho Bukovac, unul dintre cei mai importanți pictori croați, care acum este muzeu. Deasupra orașului tronează mausoleul familiei Račić, o capodoperă a sculptorului Ivan Meštrović, construit în întregime din marmură albă de Brač, fără îmbinări metalice. Palatul Rectorului găzduiește colecția impresionantă a savantului Baltazar Bogišić. Cavtat îmbină spiritul aristocratic al trecutului cu o atmosferă mediteraneană relaxată, fiind un refugiu pentru cunoscători, departe de aglomerația din Dubrovnik.", "en": "Cavtat, the ancient Epidaurum, is a place of timeless elegance at the southernmost tip of Croatia. After the original settlement was destroyed in the 7th century, the refugees founded nearby Dubrovnik, while Cavtat later flourished again under the rule of the Republic of Ragusa. The town stretches picturesquely along two peninsulas and offers one of the most beautiful seaside promenades in the Adriatic, lined with palm trees and historic buildings. A cultural must-see is the house of Vlaho Bukovac, one of the most significant Croatian painters, which is now a museum. Perched high above the town is the Račić family mausoleum, a masterpiece by sculptor Ivan Meštrović, built entirely of white Brač marble without any metal joints. The Rector's Palace houses the impressive collection of the scholar Baltazar Bogišić. Cavtat combines the aristocratic spirit of the past with a relaxed Mediterranean atmosphere and is a retreat for connoisseurs away from the crowds of Dubrovnik."}, "factsAdvanced": {"de": ["Das Mausoleum der Familie Račić wurde 1921 ohne ein einziges Stück Metall erbaut.", "Cavtat war der wichtigste Hafen der Konavle-Region für die Republik Ragusa.", "Der Maler Vlaho Bukovac malte das berühmte Porträt der kaiserlichen Familie in Wien.", "Die St.-Nikolaus-Kirche beherbergt eine wertvolle Sammlung von Gemälden alter Meister.", "Unter dem Meeresspiegel von Cavtat befinden sich bedeutende archäologische Fundstätten antiker Amphoren.", "Der Rektorenpalast bewahrt über 30.000 Bände und seltene grafische Blätter von Bogišić auf."], "hu": ["A Račić család mauzóleuma 1921-ben épült, egyetlen darab fém felhasználása nélkül.", "Cavtat volt a Konavle régió legfontosabb kikötője a Raguzai Köztársaság számára.", "Vlaho Bukovac festőművész készítette a császári család híres portréját Bécsben.", "A Szent Miklós-templom értékes gyűjteményt őriz régi mesterek festményeiből.", "Cavtat tengerpartja alatt jelentős ókori amfora-lelőhelyek találhatók.", "A Kormányzói palota Bogišić több mint 30 000 kötetét és ritka grafikai lapjait őrzi."], "ro": ["Mausoleul familiei Račić a fost construit în 1921 fără a folosi nicio piesă de metal.", "Cavtat a fost cel mai important port al regiunii Konavle pentru Republica Ragusa.", "Pictorul Vlaho Bukovac a pictat celebrul portret al familiei imperiale la Viena.", "Biserica Sfântul Nicolae adăpostește o colecție valoroasă de picturi ale vechilor maeștri.", "Sub nivelul mării din Cavtat se află situri arheologice importante cu amfore antice.", "Palatul Rectorului păstrează peste 30.000 de volume și planșe grafice rare ale lui Bogišić."], "en": ["The Račić family mausoleum was built in 1921 without a single piece of metal.", "Cavtat was the most important port of the Konavle region for the Republic of Ragusa.", "The painter Vlaho Bukovac painted the famous portrait of the imperial family in Vienna.", "The Church of St. Nicholas houses a valuable collection of paintings by old masters.", "Under the sea level of Cavtat, there are significant archaeological sites of ancient amphorae.", "The Rector's Palace preserves over 30,000 volumes and rare graphic sheets by Bogišić."]}, "sights": {"de": [{"name": "Mausoleum der Familie Račić", "text": "Ein architektonisches Juwel des Bildhauers Ivan Meštrović aus dem Jahr 1922, das majestätisch auf einem Hügel thront.", "category": "monuments/statues", "confidence": "high", "image": "/poi-images/sights/cavtat-mausoleum-der-familie-ra-i.webp", "coords": [18.213784, 42.584739]}, {"name": "Haus Bukovac", "text": "Das Geburtshaus und Museum des Malers Vlaho Bukovac, in dem seine frühen Werke und sein Atelier besichtigt werden können.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/cavtat-haus-bukovac.webp", "coords": [18.216933, 42.58314]}, {"name": "Kirche St. Nikolaus", "text": "Die barocke Pfarrkirche im Ortskern, die bedeutende Werke lokaler Künstler sowie Gemälde von Vlaho Bukovac zeigt.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/cavtat-kirche-st-nikolaus.webp", "coords": [18.217247, 42.581422]}, {"name": "Franziskanerkloster Maria im Schnee", "text": "Ein Klosterkomplex aus dem 15. Jahrhundert mit einem friedlichen Kreuzgang und Gemälden der Renaissance.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/cavtat-franziskanerkloster-maria-im-schnee.webp", "coords": [18.214466, 42.583495]}, {"name": "Uferpromenade von Cavtat", "text": "Ein von Palmen gesäumter Weg entlang des Hafens, der wunderbare Ausblicke auf die Adria und Dubrovnik bietet.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/cavtat-uferpromenade-von-cavtat.webp", "coords": [18.214466, 42.583495]}, {"name": "Ključiće", "text": "Ein ruhiger Kieselstrand in Cavtat, umgeben von mediterraner Vegetation.", "category": "recreational", "coords": [18.213512, 42.586446]}, {"name": "Sustjepan Plaža", "text": "In der Nähe der Sustjepan-Halbinsel erstreckt sich dieser schöne Küstenabschnitt in Cavtat. Besucher erwartet eine ruhige Atmosphäre, die perfekt zum Schwimmen und für Spaziergänge am Ufer ist. Besonders im späten Nachmittagslicht entfaltet die Bucht ihren vollen Charme.", "category": "recreational", "coords": [18.213197, 42.580059]}, {"name": "Gradska Plaža", "text": "Als zentraler Stadtstrand von Cavtat erfreut sich dieser Ort großer Beliebtheit bei Besuchern. Die bequeme Erreichbarkeit und das lebendige Treiben machen ihn zum idealen Treffpunkt für Familien. Ein herrlicher Ort, um das maritime Flair der Stadt ohne große Umwege zu genießen.", "category": "recreational", "coords": [18.220706, 42.581562]}, {"name": "Žal", "text": "Ein weitläufiger Strand in Cavtat mit klarem Wasser und verschiedenen Freizeitmöglichkeiten.", "category": "recreational", "coords": [18.224772, 42.58542]}, {"name": "Nudist beach", "text": "Versteckt in der Umgebung von Cavtat bietet dieser abgelegene Strandabschnitt absolute Ruhe für FKK-Anhänger. Fernab der Menschenmassen lässt sich die Natur hier beim Sonnenbaden und Schwimmen ungestört genießen. Ein wenig Proviant und Wasser sollten für den Aufenthalt mitgebracht werden.", "category": "recreational", "coords": [18.226059, 42.594587]}, {"name": "FKK Nudist Beach", "text": "Dieser offiziell ausgewiesene FKK-Bereich bei Cavtat richtet sich an alle, die naturnahes Baden schätzen. Die entspannte Atmosphäre zieht Urlauber an, die das Meer abseits des Trubels erleben möchten. Festes Schuhwerk kann für den Zugang über mögliche Felsen nützlich sein.", "category": "recreational", "coords": [18.224088, 42.593302]}, {"name": "Obod Plaža", "text": "Im Viertel Obod gelegen, verspricht dieser lokale Strand ein entspanntes Badeerlebnis nahe Cavtat. Die ruhige Atmosphäre macht ihn zu einer wunderbaren Wahl für ausgiebige Badegänge im Meer. Ein toller Ort für gemütliche Nachmittage abseits der großen Hauptstrände.", "category": "recreational", "coords": [18.226969, 42.589788]}, {"name": "Rat", "text": "Ein beliebter Kiesstrand an der Spitze der Halbinsel Sustjepan in Cavtat.", "category": "recreational", "coords": [18.215392, 42.585913]}, {"name": "FKK", "text": "Ein ruhiger FKK-Strand für Naturisten in der Nähe von Cavtat.", "category": "recreational", "coords": [18.209664, 42.581065]}, {"name": "Kamen Mali", "text": "Ein felsiger Strand an der Küstenpromenade von Cavtat mit klarem Wasser.", "category": "recreational", "coords": [18.21156, 42.587183]}, {"name": "Južna Plaža", "text": "An der Südseite der Bucht von Cavtat lädt dieser öffentliche Strand zum Schwimmen ein. Das maritime Ambiente zieht vor allem Badegäste an, die ruhige Momente an der Küste suchen. Für einen ungestörten Platz am Wasser lohnt sich ein Besuch am frühen Vormittag.", "category": "recreational", "coords": [18.212979, 42.578044]}, {"name": "Mala greda", "text": "Eine Anhöhe bei Cavtat, die Ausblicke auf die Umgebung von Konavle bietet.", "category": "natural", "coords": [18.240279, 42.568554]}, {"name": "Humak", "text": "Ein lokaler Gipfel in den Hügeln oberhalb der Stadt Cavtat.", "category": "natural", "coords": [18.242932, 42.580458]}, {"name": "Općina Konavle", "text": "Der Verwaltungssitz der Gemeinde Konavle im historischen Zentrum von Cavtat.", "category": "landmark", "coords": [18.217133, 42.580437]}], "hu": [{"name": "Račić-család mauzóleuma", "text": "Ivan Meštrović világhírű szobrász 1922-ben készült építészeti remekműve, amely a város feletti dombtetőn áll.", "category": "monuments/statues", "confidence": "high", "image": "/poi-images/sights/cavtat-mausoleum-der-familie-ra-i.webp", "coords": [18.213784, 42.584739]}, {"name": "Bukovac-ház", "text": "Vlaho Bukovac neves horvát festőművész szülőháza és múzeuma, ahol korai alkotásai és egykori műterme látható.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/cavtat-haus-bukovac.webp", "coords": [18.216933, 42.58314]}, {"name": "Szent Miklós templom", "text": "A 15. századi plébániatemplom értékes műalkotásokat őriz, köztük Vlaho Bukovac festményeit és barokk oltárokat.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/cavtat-kirche-st-nikolaus.webp", "coords": [18.217247, 42.581422]}, {"name": "Havas Boldogasszony ferences kolostor", "text": "15. századi szerzetesi épületegyüttes békés kerengővel és reneszánsz festményekkel a kikötő végében.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/cavtat-franziskanerkloster-maria-im-schnee.webp", "coords": [18.214466, 42.583495]}, {"name": "Cavtati partmenti sétány", "text": "Pálmafákkal szegélyezett, hangulatos sétány a kikötő mentén, ahonnan csodás kilátás nyílik a nyílt tengerre.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/cavtat-uferpromenade-von-cavtat.webp", "coords": [18.214466, 42.583495]}, {"name": "Ključiće", "text": "Nyugodt kavicsos strand Cavtatban, mediterrán növényzettel körülvéve.", "category": "recreational", "coords": [18.213512, 42.586446]}, {"name": "Sustjepan Plaža", "text": "A Sustjepan-félsziget közelében húzódik ez a gyönyörű cavtati partszakasz. A látogatókat csendes légkör fogadja, amely tökéletes egy kiadós úszáshoz vagy egy parti sétához. Az öböl különösen a késő délutáni fényekben mutatja meg igazi varázsát.", "category": "recreational", "coords": [18.213197, 42.580059]}, {"name": "Gradska Plaža", "text": "Cavtat központi városi strandjaként ez a helyszín hatalmas népszerűségnek örvend a vendégek körében. A könnyű megközelíthetőség és a nyüzsgő élet ideális találkozóhellyé teszi a családok számára. Remek választás arra, hogy nagyobb kitérők nélkül élvezzük a város tengeri hangulatát.", "category": "recreational", "coords": [18.220706, 42.581562]}, {"name": "Žal", "text": "Tágas strand Cavtatban tiszta vízzel és különféle szabadidős lehetőségekkel.", "category": "recreational", "coords": [18.224772, 42.58542]}, {"name": "Nudist beach", "text": "Cavtat környékén megbújva ez a félreeső partszakasz teljes nyugalmat kínál a naturizmus kedvelőinek. A tömegtől távol itt zavartalanul lehet élvezni a természetet napozás és úszás közben. Az ittléthez érdemes némi élelmet és elegendő ivóvizet magunkkal hozni.", "category": "recreational", "coords": [18.226059, 42.594587]}, {"name": "FKK Nudist Beach", "text": "Ez a Cavtat melletti hivatalosan kijelölt naturista terület azoknak szól, akik értékelik a természetközeli fürdőzést. A pihentető légkör olyan nyaralókat vonz, akik a nyüzsgéstől távol szeretnék megtapasztalni a tengert. A sziklás részeken való megközelítéshez érdemes stabil lábbelit viselni.", "category": "recreational", "coords": [18.224088, 42.593302]}, {"name": "Obod Plaža", "text": "Az Obod negyedben található helyi strand pihentető fürdőzést ígér Cavtat közelében. A nyugodt hangulat csodás választássá teszi a hosszas tengeri fürdőzésekhez. Remek helyszín a meghitt délutánokra, távol a zsúfolt fő strandoktól.", "category": "recreational", "coords": [18.226969, 42.589788]}, {"name": "Rat", "text": "Népszerű kavicsos strand Cavtatban, a Sustjepan-félsziget csúcsán.", "category": "recreational", "coords": [18.215392, 42.585913]}, {"name": "FKK", "text": "Csendes naturista strand Cavtat közelében.", "category": "recreational", "coords": [18.209664, 42.581065]}, {"name": "Kamen Mali", "text": "Sziklás strand tiszta vízzel Cavtat tengerparti sétánya mentén.", "category": "recreational", "coords": [18.21156, 42.587183]}, {"name": "Južna Plaža", "text": "A cavtati öböl déli oldalán található ez a nyilvános strand, amely úszásra csábít. A tengerparti hangulat főként azokat a fürdőzőket vonzza, akik csendes pillanatokat keresnek a parton. A zavartalan pihenés érdekében érdemes kora délelőtt ellátogatni ide.", "category": "recreational", "coords": [18.212979, 42.578044]}, {"name": "Mala greda", "text": "Domb Cavtat közelében, ahonnan kilátás nyílik a Konavle-vidékre.", "category": "natural", "coords": [18.240279, 42.568554]}, {"name": "Humak", "text": "Helyi hegycsúcs a Cavtat feletti dombokon.", "category": "natural", "coords": [18.242932, 42.580458]}, {"name": "Općina Konavle", "text": "Konavle község közigazgatási központja Cavtat történelmi városrészében.", "category": "landmark", "coords": [18.217133, 42.580437]}], "ro": [{"name": "Mausoleul Familiei Račić", "text": "Capodoperă a sculptorului Ivan Meštrović din 1922, acest monument alb domină colina de deasupra orașului Cavtat.", "category": "monuments/statues", "confidence": "high", "image": "/poi-images/sights/cavtat-mausoleum-der-familie-ra-i.webp", "coords": [18.213784, 42.584739]}, {"name": "Casa Bukovac", "text": "Locul de naștere și muzeul pictorului Vlaho Bukovac, expunând lucrările sale timpurii și atelierul păstrat autentic.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/cavtat-haus-bukovac.webp", "coords": [18.216933, 42.58314]}, {"name": "Biserica Sfântul Nicolae", "text": "Biserică parohială din secolul al XV-lea ce deține o pinacotecă valoroasă, incluzând tablouri semnate de Vlaho Bukovac.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/cavtat-kirche-st-nikolaus.webp", "coords": [18.217247, 42.581422]}, {"name": "Mănăstirea Franciscană Maica Domnului de Zăpadă", "text": "Complex monastic din secolul al XV-lea cu un claustru liniștit și picturi renascentiste de o frumusețe rară.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/cavtat-franziskanerkloster-maria-im-schnee.webp", "coords": [18.214466, 42.583495]}, {"name": "Promenada de pe Faleză", "text": "Alee mărginită de palmieri care înconjoară portul, oferind priveliști relaxante spre Dubrovnik și marea liberă.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/cavtat-uferpromenade-von-cavtat.webp", "coords": [18.214466, 42.583495]}, {"name": "Ključiće", "text": "O plajă liniștită cu pietriș în Cavtat, înconjurată de vegetație mediteraneană.", "category": "recreational", "coords": [18.213512, 42.586446]}, {"name": "Sustjepan Plaža", "text": "În apropierea peninsulei Sustjepan se întinde această porțiune superbă de coastă din Cavtat. Vizitatorii au parte de o atmosferă liniștită, excelentă pentru înot și plimbări pe țărm. Golful își dezvăluie farmecul deplin, mai ales în lumina caldă a după-amiezii târzii.", "category": "recreational", "coords": [18.213197, 42.580059]}, {"name": "Gradska Plaža", "text": "Fiind plaja centrală a orașului Cavtat, acest loc se bucură de o mare popularitate printre vizitatori. Accesul facil și forfota animată îl transformă într-un punct de întâlnire ideal pentru familii. Este locul perfect pentru a vă bucura de flerul maritim al orașului fără drumuri ocolitoare.", "category": "recreational", "coords": [18.220706, 42.581562]}, {"name": "Žal", "text": "O plajă spațioasă în Cavtat, cu apă limpede și diverse facilități de agrement.", "category": "recreational", "coords": [18.224772, 42.58542]}, {"name": "Nudist beach", "text": "Ascunsă în împrejurimile orașului Cavtat, această porțiune de plajă izolată oferă liniște absolută pentru nudiști. Departe de aglomerație, vizitatorii se pot bucura aici netulburați de natură, făcând plajă și înotând. Este recomandat să aduceți provizii și apă pentru șederea dumneavoastră.", "category": "recreational", "coords": [18.226059, 42.594587]}, {"name": "FKK Nudist Beach", "text": "Această zonă oficială pentru nudiști de lângă Cavtat este destinată celor care apreciază scăldatul în armonie cu natura. Atmosfera relaxantă atrage turiștii care doresc să experimenteze marea departe de agitație. O încălțăminte robustă poate fi utilă pentru accesul peste eventualele stânci.", "category": "recreational", "coords": [18.224088, 42.593302]}, {"name": "Obod Plaža", "text": "Situată în cartierul Obod, această plajă locală promite o experiență de baie relaxantă aproape de Cavtat. Atmosfera liniștită o transformă într-o alegere minunată pentru înot prelungit în mare. Este un loc excelent pentru după-amiezi confortabile, departe de plajele principale mari.", "category": "recreational", "coords": [18.226969, 42.589788]}, {"name": "Rat", "text": "O plajă populară cu prundis situată în vârful peninsulei Sustjepan din Cavtat.", "category": "recreational", "coords": [18.215392, 42.585913]}, {"name": "FKK", "text": "O plajă liniștită pentru nudism situată în apropiere de Cavtat.", "category": "recreational", "coords": [18.209664, 42.581065]}, {"name": "Kamen Mali", "text": "O plajă stâncoasă cu ape limpezi de-a lungul promenadei din Cavtat.", "category": "recreational", "coords": [18.21156, 42.587183]}, {"name": "Južna Plaža", "text": "Pe partea de sud a golfului din Cavtat, această plajă publică vă invită la înot. Ambientul maritim atrage în special înotătorii aflați în căutarea unor momente liniștite pe coastă. Pentru a găsi un loc nederanjat la marginea apei, o vizită dimineața devreme este o idee excelentă.", "category": "recreational", "coords": [18.212979, 42.578044]}, {"name": "Mala greda", "text": "O colină lângă Cavtat care oferă vederi asupra regiunii Konavle.", "category": "natural", "coords": [18.240279, 42.568554]}, {"name": "Humak", "text": "Un vârf local situat în dealurile de deasupra orașului Cavtat.", "category": "natural", "coords": [18.242932, 42.580458]}, {"name": "Općina Konavle", "text": "Sediul administrativ al comunei Konavle, situat în centrul istoric din Cavtat.", "category": "landmark", "coords": [18.217133, 42.580437]}], "en": [{"name": "Račić Family Mausoleum", "text": "A 1922 masterpiece by sculptor Ivan Meštrović, built entirely of white stone on the hilltop overlooking Cavtat.", "category": "monuments/statues", "confidence": "high", "image": "/poi-images/sights/cavtat-mausoleum-der-familie-ra-i.webp", "coords": [18.213784, 42.584739]}, {"name": "Bukovac House", "text": "The birthplace and museum of renowned painter Vlaho Bukovac, featuring his early works and original artist studio.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/cavtat-haus-bukovac.webp", "coords": [18.216933, 42.58314]}, {"name": "Church of St. Nicholas", "text": "15th-century parish church in the heart of the town, housing works by Vlaho Bukovac and other notable local artists.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/cavtat-kirche-st-nikolaus.webp", "coords": [18.217247, 42.581422]}, {"name": "Franciscan Monastery of Our Lady of Snow", "text": "15th-century religious complex featuring a serene cloister and fine Renaissance paintings, located near the harbor.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/cavtat-franziskanerkloster-maria-im-schnee.webp", "coords": [18.214466, 42.583495]}, {"name": "Waterfront Promenade", "text": "A scenic palm-lined walkway along the harbor, offering beautiful views of the Adriatic sea and nearby Dubrovnik.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/cavtat-uferpromenade-von-cavtat.webp", "coords": [18.214466, 42.583495]}, {"name": "Ključiće", "text": "A quiet pebble beach in Cavtat, surrounded by Mediterranean vegetation.", "category": "recreational", "coords": [18.213512, 42.586446]}, {"name": "Sustjepan Plaža", "text": "Stretched near the Sustjepan peninsula, this beautiful coastal segment lies in Cavtat. Visitors can expect a tranquil atmosphere that is perfect for swimming and coastal strolls. The bay truly reveals its full charm in the late afternoon light.", "category": "recreational", "coords": [18.213197, 42.580059]}, {"name": "Gradska Plaža", "text": "Serving as Cavtat's central town beach, this spot enjoys immense popularity among visitors. Its easy accessibility and lively buzz make it a perfect gathering place for families. It is a wonderful location to soak up the town's maritime flair without any detours.", "category": "recreational", "coords": [18.220706, 42.581562]}, {"name": "Žal", "text": "A spacious beach in Cavtat with clear water and various leisure facilities.", "category": "recreational", "coords": [18.224772, 42.58542]}, {"name": "Nudist beach", "text": "Tucked away in the surroundings of Cavtat, this secluded beach stretch provides absolute peace for naturists. Far from the crowds, visitors can experience nature undisturbed while sunbathing and swimming. Bringing some snacks and plenty of water is highly recommended for the stay.", "category": "recreational", "coords": [18.226059, 42.594587]}, {"name": "FKK Nudist Beach", "text": "This officially designated FKK area near Cavtat caters to those who appreciate swimming close to nature. Its relaxed atmosphere attracts vacationers aiming to experience the sea away from the hustle and bustle. Sturdy footwear might be useful for navigating the access points.", "category": "recreational", "coords": [18.224088, 42.593302]}, {"name": "Obod Plaža", "text": "Situated in the Obod neighborhood, this local beach promises a relaxing swimming experience near Cavtat. The quiet atmosphere makes it a wonderful choice for extensive dips in the sea. It serves as an excellent retreat for leisurely afternoons away from the main bustling beaches.", "category": "recreational", "coords": [18.226969, 42.589788]}, {"name": "Rat", "text": "A popular pebble beach located at the tip of the Sustjepan peninsula in Cavtat.", "category": "recreational", "coords": [18.215392, 42.585913]}, {"name": "FKK", "text": "A quiet naturist beach located near Cavtat.", "category": "recreational", "coords": [18.209664, 42.581065]}, {"name": "Kamen Mali", "text": "A rocky beach with clear water along the coastal promenade of Cavtat.", "category": "recreational", "coords": [18.21156, 42.587183]}, {"name": "Južna Plaža", "text": "Located on the southern side of Cavtat's bay, this public beach is an inviting spot for swimming. Its maritime ambiance predominantly attracts bathers looking for quiet moments on the coast. Visiting in the early morning is highly recommended to secure an undisturbed spot by the water.", "category": "recreational", "coords": [18.212979, 42.578044]}, {"name": "Mala greda", "text": "A hill near Cavtat offering views over the Konavle region.", "category": "natural", "coords": [18.240279, 42.568554]}, {"name": "Humak", "text": "A local peak situated in the hills above the town of Cavtat.", "category": "natural", "coords": [18.242932, 42.580458]}, {"name": "Općina Konavle", "text": "The administrative seat of the Konavle municipality, located in Cavtat.", "category": "landmark", "coords": [18.217133, 42.580437]}], "hr": [{"name": "Ključiće", "text": "Mirna šljunčana plaža u Cavtatu, okružena mediteranskim raslinjem.", "category": "recreational", "coords": [18.213512, 42.586446]}, {"name": "Sustjepan Plaža", "text": "Lijepa obalna zona smještena u blizini poluotoka Sustjepan u Cavtatu.", "category": "recreational", "coords": [18.213197, 42.580059]}, {"name": "Gradska Plaža", "text": "Glavna gradska plaža u Cavtatu, lako dostupna i popularna među posjetiteljima.", "category": "recreational", "coords": [18.220706, 42.581562]}, {"name": "Žal", "text": "Prostrana plaža Žal u Cavtatu s čistim morem i raznim sadržajima za rekreaciju.", "category": "recreational", "coords": [18.224772, 42.58542]}, {"name": "Nudist beach", "text": "Osamljeni dio obale namijenjen nudistima u okolici Cavtata.", "category": "recreational", "coords": [18.226059, 42.594587]}, {"name": "FKK Nudist Beach", "text": "Službeno označena FKK plaža za naturiste u blizini Cavtata.", "category": "recreational", "coords": [18.224088, 42.593302]}, {"name": "Obod Plaža", "text": "Lokalna plaža u naselju Obod, idealna za opušteno kupanje u blizini Cavtata.", "category": "recreational", "coords": [18.226969, 42.589788]}, {"name": "Rat", "text": "Popularna šljunčana plaža na vrhu poluotoka Sustjepan u Cavtatu.", "category": "recreational", "coords": [18.215392, 42.585913]}, {"name": "FKK", "text": "Mirna nudistička plaža smještena u blizini Cavtata.", "category": "recreational", "coords": [18.209664, 42.581065]}, {"name": "Kamen Mali", "text": "Stjenovita plaža s čistim morem uz obalnu šetnicu u Cavtatu.", "category": "recreational", "coords": [18.21156, 42.587183]}, {"name": "Južna Plaža", "text": "Javna plaža smještena na južnoj strani uvale u Cavtatu.", "category": "recreational", "coords": [18.212979, 42.578044]}, {"name": "Mala greda", "text": "Uzvisina kod Cavtata s koje se pruža pogled na okolicu Konavala.", "category": "natural", "coords": [18.240279, 42.568554]}, {"name": "Humak", "text": "Lokalni vrh smješten u brdima iznad Cavtata.", "category": "natural", "coords": [18.242932, 42.580458]}, {"name": "Općina Konavle", "text": "Sjedište općine Konavle koje se nalazi u povijesnoj jezgri Cavtata.", "category": "landmark", "coords": [18.217133, 42.580437]}]}},
-  {"id": "cres", "type": "city", "parent": "HR-08", "coords": [14.4083, 44.9583], "population": 2880, "tier": 2, "name": {"de": "Cres", "hu": "Cres", "ro": "Cres", "en": "Cres"}, "description": {"de": "Die Inselstadt Cres besticht durch ihre engen mittelalterlichen Gassen und den zentralen Platz mit der venezianischen Loggia. Sie ist bekannt für ihre ökologische Vielfalt und die Bewahrung jahrhundertealter Traditionen.", "hu": "Cres szigetvárosa szűk középkori utcáival és a velencei loggiával díszített központi terével tűnik ki. Különleges ökológiai sokszínűségéről és az évszázados hagyományok, például a juhászat megőrzéséről ismert.", "ro": "Orașul insular Cres se remarcă prin străzile sale medievale înguste și piața centrală decorată cu o lojă venețiană. Este cunoscut pentru diversitatea sa ecologică și păstrarea tradițiilor de secole.", "en": "The island town of Cres stands out with its narrow medieval streets and central square decorated with a Venetian loggia. It is known for its ecological diversity and the preservation of centuries-old traditions."}, "facts": {"de": ["Bevölkerung: 2880 Einwohner", "Region: Gespanschaft Primorje-Gorski Kotar", "Antiker Name: Res Publica Crepsa", "Wahrzeichen: Venezianischer Uhrturm aus dem 16. Jh.", "Natur: Heimat seltener Gänsegeier", "Architektur: Drei erhaltene mittelalterliche Stadttore", "Wirtschaft: Berühmt für hochwertiges Olivenöl", "Geografie: Nahe dem Süßwassersee Vrana gelegen"], "hu": ["Lakosok száma: 2880 fő", "Régió: Tengermelléki-Hegyvidéki megye", "Ókori név: Res Publica Crepsa", "Jellegzetesség: 16. századi velencei óratorony", "Természet: Ritka fakó keselyűk fészkelőhelye", "Építészet: Három épségben maradt városkapu", "Gazdaság: Kiváló minőségű olívaolajáról híres", "Földrajz: A Vrana-édesvízi tó közelében fekszik"], "ro": ["Populație: 2880 de locuitori", "Regiune: Județul Primorje-Gorski Kotar", "Nume antic: Res Publica Crepsa", "Simbol: Turnul cu ceas venețian din sec. XVI", "Natură: Habitat al rari vulturi pleșuvi suri", "Arhitectură: Trei porți medievale conservate", "Economie: Renumit pentru uleiul de măsline de calitate", "Geografie: Situat lângă lacul cu apă dulce Vrana"], "en": ["Population: 2,880 residents", "Region: Primorje-Gorski Kotar County", "Ancient name: Res Publica Crepsa", "Landmark: 16th-century Venetian clock tower", "Nature: Home to rare griffon vultures", "Architecture: Three preserved medieval city gates", "Economy: Famous for high-quality olive oil", "Geography: Located near the freshwater Lake Vrana"]}, "image": "/poi-images/cres.webp", "imageHint": "Venetian clock tower and harbor in Cres old town", "descriptionAdvanced": {"de": "Cres ist das administrative und kulturelle Zentrum der gleichnamigen Insel, der größten in der Adria. Die Stadt blickt auf eine bewegte Geschichte zurück, die bis in die Römerzeit als Res Publica Crepsa reicht, doch ihr heutiges Erscheinungsbild wurde maßgeblich durch die Jahrhunderte unter venezianischer Herrschaft geprägt. Der historische Kern ist ein Labyrinth aus engen Gassen, in denen sich Renaissance-Paläste und kleine Fischerhäuser abwechseln. Besonders sehenswert ist der zentrale Hafenplatz, wo die Loggia aus dem 16. Jahrhundert einst als Gericht und Marktplatz diente. Abseits der Architektur ist Cres für seine Bemühungen zum Schutz des Gänsegeiers weltberühmt; das nahegelegene Beli-Besucherzentrum widmet sich dem Erhalt dieser majestätischen Vögel. Die lokale Kulinarik wird von der Schafzucht dominiert, wobei Lammfleisch und Kräuterliköre zu den Spezialitäten gehören. Cres hat sich seinen authentischen Charme bewahrt und ist ein idealer Ort für Reisende, die Ruhe und unberührte Natur suchen.", "hu": "Cres az Adria legnagyobb szigetének közigazgatási és kulturális központja. A város történelme a római korig nyúlik vissza, amikor Res Publica Crepsa néven ismerték, de mai arculatát leginkább a több évszázados velencei uralom határozta meg. A történelmi mag szűk utcák labirintusa, ahol reneszánsz paloták és apró halászházak váltják egymást. Különösen látványos a központi kikötői tér, ahol a 16. századi loggia egykor törvényszékként és piacként szolgált. Az építészeti örökség mellett Cres a fakó keselyűk védelmében tett erőfeszítéseiről is világhírű; a közeli Beli látogatóközpont e fenséges madarak megőrzésével foglalkozik. A helyi gasztronómiát a juhászat dominálja, a bárányhús és a gyógynövénypárlatok a legfőbb specialitások közé tartoznak. Cres megőrizte hiteles báját, így ideális úti cél azok számára, akik a nyugalmat és az érintetlen természetet keresik.", "ro": "Cres este centrul administrativ și cultural al insulei cu același nume, cea mai mare din Marea Adriatică. Orașul are o istorie bogată care datează din epoca romană sub numele de Res Publica Crepsa, dar aspectul său actual a fost influențat semnificativ de secolele de dominație venețiană. Nucleul istoric este un labirint de străzi înguste, unde palatele renascentiste și micile case pescărești alternează. Deosebit de spectaculoasă este piața centrală din port, unde loja din secolul al XVI-lea servea cândva drept tribunal și piață. Pe lângă arhitectură, Cres este faimos în întreaga lume pentru eforturile sale de protejare a vulturului pleșuv sur; centrul pentru vizitatori din Beli se dedică conservării acestor păsări maiestuoase. Gastronomia locală este dominată de creșterea oilor, carnea de miel și lichiorurile de plante fiind printre specialități. Cres și-a păstrat farmecul autentic, fiind o destinație ideală pentru călătorii care caută liniște și natură neatinsă.", "en": "Cres is the administrative and cultural center of the island of the same name, the largest in the Adriatic. The town's history dates back to Roman times as Res Publica Crepsa, but its current appearance was significantly shaped by centuries of Venetian rule. The historic core is a labyrinth of narrow streets where Renaissance palaces and small fisherman's houses alternate. The central harbor square is particularly noteworthy, where the 16th-century loggia once served as a courtroom and marketplace. Beyond architecture, Cres is world-famous for its efforts to protect the griffon vulture; the nearby Beli visitor center is dedicated to the conservation of these majestic birds. Local gastronomy is dominated by sheep farming, with lamb meat and herbal liqueurs being among the specialties. Cres has preserved its authentic charm, making it an ideal destination for travelers seeking peace and untouched nature."}, "factsAdvanced": {"de": ["Im 16. Jahrhundert war Cres ein wichtiges Zentrum des Glagolismus, der ältesten slawischen Schrift.", "Der nahegelegene Vrana-See ist ein Naturphänomen, dessen Boden tiefer als der Meeresspiegel liegt.", "Die venezianische Stadtmauer besaß ursprünglich fünf Tore, von denen drei noch heute stehen.", "Cres ist einer der wenigen Orte weltweit, an denen Gänsegeier direkt über dem Meer nisten.", "Das städtische Museum ist im Arsan-Palast untergebracht, dem Geburtshaus des Philosophen Petrić.", "Die Stadt erhielt 1459 den Status eines Verwaltungszentrums und löste damit Osor ab."], "hu": ["A 16. században Cres a glagolita írás, a legrégebbi szláv írásmód egyik fontos központja volt.", "A közeli Vrana-tó természeti jelenség, melynek medre mélyebben fekszik a tenger szintjénél.", "A velencei városfalnak eredetileg öt kapuja volt, ebből három ma is épségben látható.", "Cres azon kevés helyek egyike, ahol a fakó keselyűk közvetlenül a tenger felett fészkelnek.", "A városi múzeum az Arsan-palotában kapott helyet, amely Petrić filozófus szülőháza volt.", "A város 1459-ben kapta meg a közigazgatási központ státuszát, felváltva ezzel Osor városát."], "ro": ["În secolul al XVI-lea, Cres a fost un centru important al glagolitismului, cea mai veche scriere slavă.", "Lacul Vrana din apropiere este un fenomen natural, fundul său fiind mai jos decât nivelul mării.", "Zidul venețian al orașului avea inițial cinci porți, dintre care trei mai stau și astăzi în picioare.", "Cres este unul dintre puținele locuri din lume unde vulturii pleșuvi suri cuibăresc direct deasupra mării.", "Muzeul orașului este găzduit în Palatul Arsan, casa natală a filozofului Frane Petrić.", "Orașul a primit statutul de centru administrativ în 1459, înlocuind astfel localitatea Osor."], "en": ["In the 16th century, Cres was an important center of Glagolitism, the oldest known Slavic script.", "Nearby Lake Vrana is a natural phenomenon, with its bottom lying deeper than the sea level.", "The Venetian city walls originally had five gates, three of which are still standing today.", "Cres is one of the few places worldwide where griffon vultures nest directly above the sea.", "The municipal museum is housed in the Arsan Palace, the birthplace of the philosopher Petrić.", "The town gained its status as an administrative center in 1459, replacing the town of Osor."]}, "sights": {"de": [{"name": "Uferpromenade Riva", "text": "Die lebendige Hafenmeile von Cres, gesäumt von bunten Häuserfassaden, Fischerbooten und gemütlichen Cafés direkt am Wasser.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/cres-uferpromenade-riva.webp", "coords": [14.408671, 44.959228]}, {"name": "Stara Gavza", "text": "Ein Kies- und Felsstrand in der gleichnamigen Feriensiedlung auf der Insel Cres.", "category": "recreational", "coords": [14.39213, 44.969158]}, {"name": "Crkvica Sv. Šimuna", "text": "Die Überreste einer mittelalterlichen Kapelle in der Umgebung der Stadt Cres.", "category": "historical", "coords": [14.398977, 44.968995]}, {"name": "Kaštel", "text": "Überreste der venezianischen Befestigungsanlagen in der Stadt Cres.", "category": "historical", "coords": [14.395432, 44.976527]}, {"name": "Zdovice", "text": "Ein malerischer Kieselstrand in der Bucht von Valun auf der Insel Cres.", "category": "recreational", "coords": [14.363645, 44.903171]}, {"name": "Grabrovica beach", "text": "Auf der Insel Cres verbirgt sich dieser abgelegene Kiesstrand, der hauptsächlich mit dem Boot angesteuert wird. Wer die Anreise auf sich nimmt, wird mit friedlicher Abgeschiedenheit am Meer belohnt. Die Mitnahme eigener Verpflegung ist für dieses kleine Abenteuer unerlässlich.", "category": "recreational", "coords": [14.309508, 44.941458]}, {"name": "Sv. Blaž", "text": "Dieser malerische Kiesstrand unterhalb des Dorfes Lubenice bietet einen weiten Blick auf die Adria.", "category": "recreational", "coords": [14.351019, 45.006569]}, {"name": "Plaža Krušćica", "text": "In einer geschützten Bucht der Insel Cres liegt dieser kleine, versteckte Kiesstrand verborgen. Badegäste finden hier eine Oase der Ruhe, ideal für entspannte Stunden beim Rauschen der Wellen. Um die naturbelassene Küste ausgiebig zu genießen, packt man am besten Badeschuhe ein.", "category": "recreational", "coords": [14.461084, 44.952577]}, {"name": "Plaža Banja", "text": "Dank seiner Nähe zum Zentrum von Cres ist dieser stadtnahe Kiesstrand eine beliebte Wahl für spontane Badegäste. Die Lage sorgt für eine lebendige Stimmung, die zu einer schnellen Erfrischung einlädt. Ein kurzer Sprung ins klare Wasser lässt sich hier bestens in den Urlaubstag integrieren.", "category": "recreational", "coords": [14.461571, 44.940378]}, {"name": "Arcić", "text": "Ein kleiner Badestrand in der Nähe von Martinšćica an der Westküste der Insel Cres.", "category": "recreational", "coords": [14.457008, 44.926042]}, {"name": "Zela beach", "text": "Bei Martinšćica erstreckt sich dieser ruhige Strandabschnitt, der für sein klares Wasser geschätzt wird. Sonnenanbeter und Schwimmer treffen sich hier, um die natürliche Stille der Küste zu erleben. Ein Besuch verspricht Erholung pur, besonders in den milderen Morgenstunden.", "category": "recreational", "coords": [14.455314, 44.921308]}], "hu": [{"name": "Cres-i partmenti sétány", "text": "A kikötő mentén húzódó színes házsorok és halászhajók alkotta festői sétány, ahol számos hangulatos kávézó várja a látogatókat.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/cres-uferpromenade-riva.webp", "coords": [14.408671, 44.959228]}, {"name": "Stara Gavza", "text": "Kavicsos és sziklás strand az azonos nevű üdülőtelepen, Cres szigetén.", "category": "recreational", "coords": [14.39213, 44.969158]}, {"name": "Crkvica Sv. Šimuna", "text": "Egy középkori kápolna maradványai Cres városának környékén.", "category": "historical", "coords": [14.398977, 44.968995]}, {"name": "Kaštel", "text": "A velencei erődítmények maradványai Cres városában.", "category": "historical", "coords": [14.395432, 44.976527]}, {"name": "Zdovice", "text": "Festői kavicsos strand a Valun-öbölben, Cres szigetén.", "category": "recreational", "coords": [14.363645, 44.903171]}, {"name": "Grabrovica beach", "text": "Cres szigetén bújik meg ez a félreeső kavicsos strand, amelyet elsősorban hajóval lehet megközelíteni. Aki vállalja az utazást, azt békés elszigeteltség jutalmazza a tengernél. A saját étel és ital biztosítása elengedhetetlen ehhez a kis tengerparti kalandhoz.", "category": "recreational", "coords": [14.309508, 44.941458]}, {"name": "Sv. Blaž", "text": "Ez a festői kavicsos strand Lubenice falu alatt található, kilátással az Adriai-tengerre.", "category": "recreational", "coords": [14.351019, 45.006569]}, {"name": "Plaža Krušćica", "text": "Cres szigetének egy védett öblében rejtőzik ez a kicsi, rejtett kavicsos strand. A fürdőzők itt a béke oázisát találják, amely ideális a hullámok zúgása melletti pihenéshez. A természetes part maradéktalan élvezetéhez érdemes fürdőcipőt is csomagolni.", "category": "recreational", "coords": [14.461084, 44.952577]}, {"name": "Plaža Banja", "text": "A cresi központhoz való közelsége miatt ez a városi kavicsos strand a spontán fürdőzők kedvelt választása. Az elhelyezkedés nyüzsgő hangulatot biztosít, amely egy gyors felfrissülésre csábít. A tiszta vízben való fürdőzést itt nagyszerűen be lehet építeni a nyaralás napjába.", "category": "recreational", "coords": [14.461571, 44.940378]}, {"name": "Arcić", "text": "Kis fürdőhely Martinšćica közelében, Cres szigetének nyugati partján.", "category": "recreational", "coords": [14.457008, 44.926042]}, {"name": "Zela beach", "text": "Martinšćica mellett húzódik ez a csendes partszakasz, amelyet a tiszta vizéért értékelnek. Napimádók és úszók találkoznak itt, hogy megtapasztalják a part természetes nyugalmát. Egy itteni látogatás tiszta kikapcsolódást ígér, különösen az enyhébb reggeli órákban.", "category": "recreational", "coords": [14.455314, 44.921308]}], "ro": [{"name": "Promenada Riva", "text": "Faleza pitorească din Cres, mărginită de clădiri colorate și bărci de pescuit, oferind o atmosferă mediteraneană autentică.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/cres-uferpromenade-riva.webp", "coords": [14.408671, 44.959228]}, {"name": "Stara Gavza", "text": "O plajă cu prundis și stânci aflată în așezarea turistică omonimă de pe insula Cres.", "category": "recreational", "coords": [14.39213, 44.969158]}, {"name": "Crkvica Sv. Šimuna", "text": "Ruinele unei capele medievale situate în împrejurimile orașului Cres.", "category": "historical", "coords": [14.398977, 44.968995]}, {"name": "Kaštel", "text": "Ruinele fortificațiilor venețiene situate în orașul Cres.", "category": "historical", "coords": [14.395432, 44.976527]}, {"name": "Zdovice", "text": "O plajă pitorească cu pietriș în golful Valun de pe insula Cres.", "category": "recreational", "coords": [14.363645, 44.903171]}, {"name": "Grabrovica beach", "text": "Această plajă izolată de pietriș se ascunde pe insula Cres și este accesibilă în principal cu barca. Cei care fac efortul de a ajunge aici sunt răsplătiți cu o izolare pașnică la mare. Aducerea propriilor provizii este esențială pentru această mică aventură de coastă.", "category": "recreational", "coords": [14.309508, 44.941458]}, {"name": "Sv. Blaž", "text": "Această plajă pitorească cu pietriș de sub satul Lubenice oferă o vedere largă spre Marea Adriatică.", "category": "recreational", "coords": [14.351019, 45.006569]}, {"name": "Plaža Krušćica", "text": "Într-un golf protejat de pe insula Cres se ascunde această mică plajă de pietriș. Vizitatorii găsesc aici o oază de liniște, ideală pentru ore de relaxare în sunetul valurilor. Pentru a vă bucura pe deplin de coasta naturală, este bine să aveți la voi încălțăminte de apă.", "category": "recreational", "coords": [14.461084, 44.952577]}, {"name": "Plaža Banja", "text": "Datorită apropierii sale de centrul orașului Cres, această plajă urbană de pietriș este o alegere populară pentru înotătorii spontani. Locația asigură o atmosferă plină de viață, care invită la o răcorire rapidă. Aici, o baie scurtă în apa limpede poate fi integrată perfect în ziua de vacanță.", "category": "recreational", "coords": [14.461571, 44.940378]}, {"name": "Arcić", "text": "O plajă mică situată lângă Martinšćica, pe coasta de vest a insulei Cres.", "category": "recreational", "coords": [14.457008, 44.926042]}, {"name": "Zela beach", "text": "Lângă Martinšćica se află această porțiune liniștită de plajă, apreciată pentru apa sa limpede. Iubitorii de soare și înotătorii se întâlnesc aici pentru a experimenta liniștea naturală a coastei. O vizită promite relaxare pură, mai ales în orele mai blânde ale dimineții.", "category": "recreational", "coords": [14.455314, 44.921308]}], "en": [{"name": "Cres Waterfront Riva", "text": "The scenic harbor walk lined with colorful houses and fishing boats, featuring numerous cafes and a vibrant local atmosphere.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/cres-uferpromenade-riva.webp", "coords": [14.408671, 44.959228]}, {"name": "Stara Gavza", "text": "A pebble and rocky beach located in the tourist settlement of the same name on Cres.", "category": "recreational", "coords": [14.39213, 44.969158]}, {"name": "St. Simon Chapel", "text": "The remains of a medieval chapel located in the vicinity of Cres town.", "category": "historical", "coords": [14.398977, 44.968995]}, {"name": "Kaštel", "text": "Ruins of the Venetian fortifications located in the town of Cres.", "category": "historical", "coords": [14.395432, 44.976527]}, {"name": "Zdovice", "text": "A scenic pebble beach located in the Valun bay on the island of Cres.", "category": "recreational", "coords": [14.363645, 44.903171]}, {"name": "Grabrovica beach", "text": "Hidden on the island of Cres, this secluded pebble beach is primarily reached by boat. Those who make the journey are rewarded with peaceful isolation by the sea. Bringing your own provisions is essential for this coastal adventure.", "category": "recreational", "coords": [14.309508, 44.941458]}, {"name": "Sv. Blaž", "text": "This picturesque pebble beach below Lubenice village offers a wide view of the Adriatic.", "category": "recreational", "coords": [14.351019, 45.006569]}, {"name": "Plaža Krušćica", "text": "Tucked inside a protected bay on the island of Cres, this small, hidden pebble beach awaits. Swimmers will find an oasis of calm here, perfect for spending relaxing hours listening to the waves. Packing water shoes is highly recommended to fully enjoy the natural coastline.", "category": "recreational", "coords": [14.461084, 44.952577]}, {"name": "Plaža Banja", "text": "Thanks to its proximity to the center of Cres, this urban pebble beach is a popular choice for spontaneous swimmers. The location provides a lively vibe that invites a quick refreshment. A short dip in the clear waters is easily added to any holiday itinerary.", "category": "recreational", "coords": [14.461571, 44.940378]}, {"name": "Arcić", "text": "A small bathing beach located near Martinšćica on the west coast of Cres island.", "category": "recreational", "coords": [14.457008, 44.926042]}, {"name": "Zela beach", "text": "Located near Martinšćica, this quiet stretch of beach is highly regarded for its clear waters. Sunbathers and swimmers gather here to experience the natural quiet of the coastline. A visit promises pure relaxation, particularly during the milder morning hours.", "category": "recreational", "coords": [14.455314, 44.921308]}], "hr": [{"name": "Stara Gavza", "text": "Šljunčana i stjenovita plaža u istoimenom turističkom naselju na otoku Cresu.", "category": "recreational", "coords": [14.39213, 44.969158]}, {"name": "St. Simon Chapel", "text": "Ostaci srednjovjekovne kapele koji se nalaze u okolici grada Cresa.", "category": "historical", "coords": [14.398977, 44.968995]}, {"name": "Kaštel", "text": "Ostaci mletačkih utvrda smješteni u gradu Cresu.", "category": "historical", "coords": [14.395432, 44.976527]}, {"name": "Zdovice", "text": "Slikovita šljunčana plaža smještena u uvali Valun na otoku Cresu.", "category": "recreational", "coords": [14.363645, 44.903171]}, {"name": "Grabrovica beach", "text": "Udaljena šljunčana plaža na otoku Cresu, dostupna uglavnom brodom.", "category": "recreational", "coords": [14.309508, 44.941458]}, {"name": "Sv. Blaž", "text": "Slikovita šljunčana plaža ispod mjesta Lubenice s prekrasnim pogledom na more.", "category": "recreational", "coords": [14.351019, 45.006569]}, {"name": "Plaža Krušćica", "text": "Mala, skrivena šljunčana plaža smještena u zaštićenoj uvali na obali Cresa.", "category": "recreational", "coords": [14.461084, 44.952577]}, {"name": "Plaža Banja", "text": "Šljunčana plaža smještena u blizini centra grada Cresa, idealna za brzo osvježenje.", "category": "recreational", "coords": [14.461571, 44.940378]}, {"name": "Arcić", "text": "Malo kupalište smješteno u blizini Martinšćice na zapadnoj obali otoka Cresa.", "category": "recreational", "coords": [14.457008, 44.926042]}, {"name": "Zela beach", "text": "Miran dio plaže kod Martinšćice, poznat po čistom moru.", "category": "recreational", "coords": [14.455314, 44.921308]}]}},
+  {"id": "crikvenica", "type": "city", "parent": "HR-08", "coords": [14.69, 45.175], "population": 11122, "tier": 2, "name": {"de": "Crikvenica", "hu": "Crikvenica", "ro": "Crikvenica", "en": "Crikvenica"}, "description": {"de": "Ein traditionsreicher Kurort an der Kvarner Bucht, bekannt für seine kilometerlangen Promenaden und das milde Heilklima. Crikvenica ist seit dem 19. Jahrhundert ein beliebtes Ziel für Erholungssuchende.", "hu": "Hagyományokban gazdag üdülőhely a Kvarner-öbölben, amely kilométernyi sétányairól és enyhe gyógyklímájáról híres. Crikvenica a 19. század óta a pihenni vágyók kedvelt célpontja.", "ro": "O stațiune balneară cu tradiție în Golful Kvarner, cunoscută pentru promenadele sale de kilometri întregi și climatul curativ blând. Crikvenica este o destinație populară pentru relaxare încă din secolul al XIX-lea.", "en": "A traditional health resort on the Kvarner Bay, famous for its miles of promenades and mild healing climate. Crikvenica has been a popular destination for relaxation since the 19th century."}, "facts": {"de": ["Einwohnerzahl: 11.122 Personen", "Name stammt von der Klosterkirche (Crkva) ab", "Erstes öffentliches Bad wurde 1888 eröffnet", "Besitzt das offizielle Prädikat 'Heilbad'", "8 Kilometer lange Küstenpromenade", "Mildes Mikroklima mit 2500 Sonnenstunden", "Enge Verbindung zur Adelsfamilie Frankopan", "Bekannt für den Hundestrand 'Podvorska'"], "hu": ["Lakossága 11 122 fő", "Neve a kolostortemplomból (Crkva) ered", "Az első nyilvános fürdő 1888-ban nyílt meg", "Hivatalos 'gyógyfürdő' ranggal rendelkezik", "8 kilométer hosszú tengerparti sétány", "Enyhe mikroklíma, évi 2500 napsütéses órával", "Szoros kapcsolat a Frangepán nemesi családdal", "A 'Podvorska' kutyás strandjáról is híres"], "ro": ["Populație: 11.122 de persoane", "Numele provine de la biserica mănăstirii (Crkva)", "Prima baie publică a fost deschisă în 1888", "Deține statutul oficial de stațiune balneară", "Promenadă de coastă lungă de 8 kilometri", "Microclimat blând cu 2500 de ore de soare", "Legătură strânsă cu familia nobiliară Frankopan", "Cunoscută pentru plaja pentru câini 'Podvorska'"], "en": ["Population: 11,122 people", "Name originates from the monastery church (Crkva)", "First public bath opened in 1888", "Holds official 'health resort' status", "8-kilometer-long coastal promenade", "Mild microclimate with 2,500 sunny hours", "Close connection to the Frankopan noble family", "Famous for the 'Podvorska' dog beach"]}, "image": "/poi-images/crikvenica.webp", "imageHint": "Crikvenica waterfront promenade with palm trees and pebble beach", "descriptionAdvanced": {"de": "Crikvenica entwickelte sich Ende des 19. Jahrhunderts von einem kleinen Fischerdorf zu einem der mondänsten Kurorte der k.u.k. Monarchie. Das historische Hotel Therapy (einst Erzherzog Joseph) zeugt noch heute von dieser glanzvollen Ära. Die Stadt profitiert von einer geschützten Lage, die kalte Winde abhält und eine besonders saubere, jodhaltige Luft garantiert. Entlang der Riviera, die auch die Orte Dramalj, Selce und Jadranovo umfasst, ziehen sich wunderschöne Kiesstrände und versteckte Buchten. Für Familien ist der Stadtstrand 'Gradsko kupalište' ideal, während Wanderer den 'Liebespfad' (Ljubavna cestica) im Hinterland schätzen, der durch dichte Wälder zu mittelalterlichen Ruinen führt. Das Aquarium im Stadtzentrum zeigt die reiche Artenvielfalt der Adria und ist ein Highlight an regnerischen Tagen.", "hu": "Crikvenica a 19. század végén egy kis halászfaluból az Osztrák-Magyar Monarchia egyik legelegánsabb üdülőhelyévé fejlődött. A történelmi Hotel Therapy (egykori József főherceg szálloda) ma is tanúskodik erről a ragyogó korszakról. A város élvezi a védett fekvést, amely távol tartja a hideg szeleket, és garantálja a különösen tiszta, jódtartalmú levegőt. A riviéra mentén, amely Dramalj, Selce és Jadranovo településeket is magában foglalja, gyönyörű kavicsos strandok és rejtett öblök húzódnak. A családok számára a 'Gradsko kupalište' városi strand ideális, míg a túrázók a hátországban található 'Szerelem-ösvényt' (Ljubavna cestica) kedvelik, amely sűrű erdőkön keresztül vezet középkori romokhoz. A városközpontban található akvárium az Adria gazdag élővilágát mutatja be, és esős napokon is remek program.", "ro": "Crikvenica s-a transformat la sfârșitul secolului al XIX-lea dintr-un mic sat pescăresc într-una dintre cele mai elegante stațiuni balneare ale monarhiei austro-ungare. Istoricul Hotel Therapy (fostul Arhiducele Iosif) depune mărturie și astăzi despre această eră glorioasă. Orașul beneficiază de o poziție protejată, care ține la distanță vânturile reci și garantează un aer deosebit de curat, bogat în iod. De-a lungul rivierei, care include și localitățile Dramalj, Selce și Jadranovo, se întind plaje superbe cu pietriș și golfuri ascunse. Pentru familii, plaja orașului 'Gradsko kupalište' este ideală, în timp ce drumeții apreciază 'Poteca Iubirii' (Ljubavna cestica) din hinterland, care duce prin păduri dese către ruine medievale. Acvariul din centrul orașului prezintă biodiversitatea bogată a Adriaticii și este un punct de atracție în zilele ploioase.", "en": "Crikvenica transformed in the late 19th century from a small fishing village into one of the most sophisticated health resorts of the Austro-Hungarian Empire. The historic Hotel Therapy (formerly Archduke Joseph) still bears witness to this glamorous era. The town benefits from a sheltered location that keeps out cold winds and guarantees particularly clean, iodine-rich air. Along the Riviera, which also includes the towns of Dramalj, Selce, and Jadranovo, run beautiful pebble beaches and hidden coves. For families, the 'Gradsko kupalište' city beach is ideal, while hikers appreciate the 'Love Path' (Ljubavna cestica) in the hinterland, which leads through dense forests to medieval ruins. The aquarium in the city center showcases the rich biodiversity of the Adriatic and is a highlight on rainy days."}, "factsAdvanced": {"de": ["Das Paulinerkloster wurde 1412 von Nikola Frankopan gegründet", "Die offizielle Ernennung zum Luftkurort erfolgte 1906", "Der Sandstrand Crni Molo ist berühmt für das Ballspiel Picigin", "Crikvenica ist Gastgeber der ältesten Schwimmregatta der Adria", "Die Stadt ist nur 35 km von der Hafenstadt Rijeka entfernt", "Die hiesige Fischereitradition reicht über 600 Jahre zurück"], "hu": ["A pálos kolostort 1412-ben Frangepán Miklós alapította", "A hivatalos gyógyüdülőhelyi kinevezést 1906-ban kapta meg", "A Crni Molo homokos strand a Picigin labdajátékról híres", "Crikvenica ad otthont az Adria legrégebbi úszóregattájának", "A város mindössze 35 km-re fekszik Fiume (Rijeka) kikötővárosától", "A helyi halászati hagyomány több mint 600 éves múltra tekint vissza"], "ro": ["Mănăstirea Paulină a fost fondată în 1412 de Nikola Frankopan", "Desemnarea oficială ca stațiune climaterică a avut loc în 1906", "Plaja cu nisip Crni Molo este faimoasă pentru jocul cu mingea Picigin", "Crikvenica găzduiește cea mai veche regată de înot de la Adriatică", "Orașul se află la doar 35 km de orașul port Rijeka", "Tradiția pescuitului local are o vechime de peste 600 de ani"], "en": ["The Pauline monastery was founded in 1412 by Nikola Frankopan", "The official designation as a climate health resort occurred in 1906", "The Crni Molo sand beach is famous for the ball game Picigin", "Crikvenica hosts the oldest swimming regatta in the Adriatic", "The city is only 35 km away from the port city of Rijeka", "The local fishing tradition dates back over 600 years"]}, "sights": {
+      "de": [
+            {
+                  "name": "Stadtmuseum Crikvenica",
+                  "text": "Zeigt Ausstellungen zur Geschichte, Archäologie und zum Fischereierbe der Region Vinodol.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/crikvenica-stadtmuseum-crikvenica.webp",
+                  "coords": [
+                        14.687375,
+                        45.174863
+                  ]
+            },
+            {
+                  "name": "Aquarium Crikvenica",
+                  "text": "Beherbergt über 150 Fischarten aus der Adria und tropischen Gewässern in modernem Ambiente.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/crikvenica-aquarium-crikvenica.webp",
+                  "coords": [
+                        14.692127,
+                        45.173684
+                  ]
+            },
+            {
+                  "name": "Stjepan-Radić-Platz",
+                  "text": "Der zentrale Platz am Meer, Mittelpunkt kultureller Veranstaltungen und des städtischen Lebens.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/crikvenica-stjepan-radi-platz.webp",
+                  "coords": [
+                        14.688957,
+                        45.173457
+                  ]
+            },
+            {
+                  "name": "Stadtgalerie",
+                  "text": "Ein wichtiger kultureller Ort, der zeitgenössische Werke lokaler und nationaler Künstler zeigt.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/crikvenica-stadtgalerie.webp",
+                  "coords": [
+                        14.687375,
+                        45.174863
+                  ]
+            },
+            {
+                  "name": "Crni molo",
+                  "text": "Crni molo ist ein beliebter Sandstrand in Crikvenica, der besonders für sein flaches Wasser und Sportangebote bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        14.680808,
+                        45.181001
+                  ]
+            },
+            {
+                  "name": "Plaža Omorika",
+                  "text": "Mit Blick auf die Insel Krk vereint der Omorika-Strand in Crikvenica ansprechende Kies- und Felsabschnitte. Das Ufer zieht sowohl sonnenhungrige Urlauber als auch passionierte Schwimmer an. Um das klare kroatische Wasser in Ruhe zu genießen, bieten sich besonders die Vormittagsstunden an.",
+                  "category": "recreational",
+                  "coords": [
+                        14.673808,
+                        45.187228
+                  ]
+            },
+            {
+                  "name": "Kaštel",
+                  "text": "Das Kaštel in Crikvenica ist ein ehemaliges Paulinerkloster aus dem 15. Jahrhundert, das heute als Hotel geführt wird.",
+                  "category": "castle",
+                  "coords": [
+                        14.694429,
+                        45.171711
+                  ]
+            },
+            {
+                  "name": "Memorijalni atelje Zvonka Cara",
+                  "text": "Gedenkatelier des Bildhauers Zvonko Car in Crikvenica, das seine Werke und sein Erbe präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        14.684232,
+                        45.179222
+                  ]
+            },
+            {
+                  "name": "Uvala Selce",
+                  "text": "Eine Bucht im Ort Selce bei Crikvenica, die zum Schwimmen an der Adria genutzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        14.717313,
+                        45.156728
+                  ]
+            },
+            {
+                  "name": "Gavranova stijena",
+                  "text": "Ein Aussichtspunkt oberhalb von Crikvenica mit Panoramablick auf die Küste und das Meer.",
+                  "category": "natural",
+                  "coords": [
+                        14.689089,
+                        45.193808
+                  ]
+            },
+            {
+                  "name": "Kavranova stena",
+                  "text": "Ein Aussichtspunkt in der Nähe von Crikvenica mit Blick auf den Kvarner-Golf.",
+                  "category": "natural",
+                  "coords": [
+                        14.695202,
+                        45.195167
+                  ]
+            },
+            {
+                  "name": "Crkva sv. Nikole",
+                  "text": "Überreste der historischen St.-Nikolaus-Kirche in Crikvenica, die von der lokalen Geschichte zeugen.",
+                  "category": "historical",
+                  "coords": [
+                        14.699123,
+                        45.180695
+                  ]
+            },
+            {
+                  "name": "Murali",
+                  "text": "Eine Sammlung von Wandmalereien in Crikvenica, die moderne Straßenkunst im öffentlichen Raum zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        14.689966,
+                        45.173495
+                  ]
+            },
+            {
+                  "name": "Gradsko kupalište",
+                  "text": "Das zentrale öffentliche Bad von Crikvenica, ein Strand mit Sandabschnitten und touristischer Infrastruktur.",
+                  "category": "recreational",
+                  "coords": [
+                        14.682415,
+                        45.178933
+                  ]
+            },
+            {
+                  "name": "Gradina Badanj",
+                  "text": "Ruinen einer mittelalterlichen Festungsanlage auf einem Hügel oberhalb von Crikvenica.",
+                  "category": "historical",
+                  "coords": [
+                        14.699681,
+                        45.192927
+                  ]
+            },
+            {
+                  "name": "Crkva svetoga Trojstva",
+                  "text": "Überreste der einstigen Dreifaltigkeitskirche in Crikvenica, die heute als Ruine erhalten sind.",
+                  "category": "historical",
+                  "coords": [
+                        14.704708,
+                        45.185677
+                  ]
+            },
+            {
+                  "name": "Crkva svetog Jurja",
+                  "text": "Die Ruinen der historischen St.-Georgs-Kirche in Crikvenica sind ein Zeugnis der alten Architektur.",
+                  "category": "historical",
+                  "coords": [
+                        14.701012,
+                        45.182406
+                  ]
+            },
+            {
+                  "name": "Plaža Pazdehova-Lanterna",
+                  "text": "Dieser beliebte Küstenabschnitt in Crikvenica lädt zu ausgiebigen Sonnenbädern und Erholung am Meer ein. Es herrscht zumeist eine freundliche und entspannte Urlaubsstimmung entlang des Wassers. Für einen unbeschwerten Badetag empfiehlt sich die Mitnahme einer komfortablen Strandmatte.",
+                  "category": "recreational",
+                  "coords": [
+                        14.666783,
+                        45.191778
+                  ]
+            },
+            {
+                  "name": "Kupalište Riviera",
+                  "text": "Ein gut ausgestatteter Strandabschnitt in Crikvenica mit touristischer Infrastruktur.",
+                  "category": "recreational",
+                  "coords": [
+                        14.670459,
+                        45.189935
+                  ]
+            },
+            {
+                  "name": "Tunera Rt. Silo",
+                  "text": "Eine historische Thunfisch-Beobachtungsstation (Tunera) am Kap Šilo bei Crikvenica.",
+                  "category": "landmark",
+                  "coords": [
+                        14.669403,
+                        45.15536
+                  ]
+            },
+            {
+                  "name": "Podvorska",
+                  "text": "Ein spezieller Hundestrand in Crikvenica, der für Haustiere und deren Besitzer konzipiert wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        14.695675,
+                        45.169474
+                  ]
+            },
+            {
+                  "name": "Tribaljsko jezero",
+                  "text": "Süßwassersee in Tribalj bei Crikvenica mit Sandstrand und Wassersportzentrum.",
+                  "category": "natural",
+                  "coords": [
+                        14.667361,
+                        45.224994
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Crikvenicai Városi Múzeum",
+                  "text": "A régió történelmét, néprajzát és halászati hagyományait bemutató modern kiállítótér.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/crikvenica-stadtmuseum-crikvenica.webp",
+                  "coords": [
+                        14.687375,
+                        45.174863
+                  ]
+            },
+            {
+                  "name": "Crikvenicai Akvárium",
+                  "text": "Több mint 150 adriai és trópusi halfajt bemutató látványos vízi világ a város központjában.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/crikvenica-aquarium-crikvenica.webp",
+                  "coords": [
+                        14.692127,
+                        45.173684
+                  ]
+            },
+            {
+                  "name": "Stjepan Radić tér",
+                  "text": "A város főtere a tengerparton, amely számos koncert és fesztivál központi helyszíne.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/crikvenica-stjepan-radi-platz.webp",
+                  "coords": [
+                        14.688957,
+                        45.173457
+                  ]
+            },
+            {
+                  "name": "Városi Galéria",
+                  "text": "Kulturális központ, ahol kortárs helyi és horvát művészek alkotásait tekinthetik meg a látogatók.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/crikvenica-stadtgalerie.webp",
+                  "coords": [
+                        14.687375,
+                        45.174863
+                  ]
+            },
+            {
+                  "name": "Crni molo",
+                  "text": "A Crni molo Crikvenica kedvelt homokos strandja, amely sekély vizéről és változatos sportolási lehetőségeiről híres.",
+                  "category": "recreational",
+                  "coords": [
+                        14.680808,
+                        45.181001
+                  ]
+            },
+            {
+                  "name": "Plaža Omorika",
+                  "text": "A Krk-szigetre nyíló kilátással a crikvenicai Omorika strand kellemes kavicsos és sziklás szakaszokat ötvöz. A part egyaránt vonzza a napozni vágyó nyaralókat és a szenvedélyes úszókat. A tiszta horvát víz nyugodt élvezetéhez különösen a délelőtti órák ideálisak.",
+                  "category": "recreational",
+                  "coords": [
+                        14.673808,
+                        45.187228
+                  ]
+            },
+            {
+                  "name": "Kaštel",
+                  "text": "A crikvenicai Kaštel egy 15. századi egykori pálos kolostor, amely ma elegáns szállodaként működik.",
+                  "category": "castle",
+                  "coords": [
+                        14.694429,
+                        45.171711
+                  ]
+            },
+            {
+                  "name": "Memorijalni atelje Zvonka Cara",
+                  "text": "Zvonko Car szobrászművész emlékműhelye Crikvenicában, amely az alkotó munkásságát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.684232,
+                        45.179222
+                  ]
+            },
+            {
+                  "name": "Uvala Selce",
+                  "text": "Egy öböl Selce településen, Crikvenica közelében, amely kedvelt fürdőhely az Adrián.",
+                  "category": "natural",
+                  "coords": [
+                        14.717313,
+                        45.156728
+                  ]
+            },
+            {
+                  "name": "Gavranova stijena",
+                  "text": "Kilátópont Crikvenica felett, ahonnan panorámás kilátás nyílik a tengerpartra és a tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        14.689089,
+                        45.193808
+                  ]
+            },
+            {
+                  "name": "Kavranova stena",
+                  "text": "Kilátóhely Crikvenica közelében, kilátással a Kvarner-öbölre.",
+                  "category": "natural",
+                  "coords": [
+                        14.695202,
+                        45.195167
+                  ]
+            },
+            {
+                  "name": "Crkva sv. Nikole",
+                  "text": "A történelmi Szent Miklós-templom maradványai Crikvenicában, a település múltjának emlékei.",
+                  "category": "historical",
+                  "coords": [
+                        14.699123,
+                        45.180695
+                  ]
+            },
+            {
+                  "name": "Murali",
+                  "text": "Falfestmények gyűjteménye Crikvenicában, amely modern köztéri művészetet mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        14.689966,
+                        45.173495
+                  ]
+            },
+            {
+                  "name": "Gradsko kupalište",
+                  "text": "Crikvenica központi strandja, amely homokos parttal és kiépített infrastruktúrával rendelkezik.",
+                  "category": "recreational",
+                  "coords": [
+                        14.682415,
+                        45.178933
+                  ]
+            },
+            {
+                  "name": "Gradina Badanj",
+                  "text": "Egy középkori erődrendszer romjai a Crikvenica feletti dombon.",
+                  "category": "historical",
+                  "coords": [
+                        14.699681,
+                        45.192927
+                  ]
+            },
+            {
+                  "name": "Crkva svetoga Trojstva",
+                  "text": "Az egykori Szentháromság-templom maradványai Crikvenicában, amelyek romként maradtak fenn.",
+                  "category": "historical",
+                  "coords": [
+                        14.704708,
+                        45.185677
+                  ]
+            },
+            {
+                  "name": "Crkva svetog Jurja",
+                  "text": "A történelmi Szent György-templom romjai Crikvenicában, a régi építészet emlékei.",
+                  "category": "historical",
+                  "coords": [
+                        14.701012,
+                        45.182406
+                  ]
+            },
+            {
+                  "name": "Plaža Pazdehova-Lanterna",
+                  "text": "Ez a népszerű crikvenicai partszakasz hosszas napozásra és tengerparti pihenésre hívogat. A víz mentén többnyire barátságos és nyugodt nyaralási hangulat uralkodik. A felhőtlen strandoláshoz érdemes kényelmes gyékényt vagy strandmatracot vinni.",
+                  "category": "recreational",
+                  "coords": [
+                        14.666783,
+                        45.191778
+                  ]
+            },
+            {
+                  "name": "Kupalište Riviera",
+                  "text": "Jól felszerelt strandrész Crikvenicában, turisztikai infrastruktúrával.",
+                  "category": "recreational",
+                  "coords": [
+                        14.670459,
+                        45.189935
+                  ]
+            },
+            {
+                  "name": "Tunera Rt. Silo",
+                  "text": "Egy történelmi tonhalfigyelő állomás (Tunera) a Crikvenica melletti Šilo-foknál.",
+                  "category": "landmark",
+                  "coords": [
+                        14.669403,
+                        45.15536
+                  ]
+            },
+            {
+                  "name": "Podvorska",
+                  "text": "Speciális kutyás strand Crikvenicában, amelyet háziállatok és gazdáik számára alakítottak ki.",
+                  "category": "landmark",
+                  "coords": [
+                        14.695675,
+                        45.169474
+                  ]
+            },
+            {
+                  "name": "Tribaljsko jezero",
+                  "text": "Édesvizű tó Tribaljban, Crikvenica közelében, homokos stranddal és vízi sportközponttal.",
+                  "category": "natural",
+                  "coords": [
+                        14.667361,
+                        45.224994
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeul Orașului Crikvenica",
+                  "text": "Găzduiește colecții despre istoria locală, arheologie și viața cotidiană a pescarilor de odinioară.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/crikvenica-stadtmuseum-crikvenica.webp",
+                  "coords": [
+                        14.687375,
+                        45.174863
+                  ]
+            },
+            {
+                  "name": "Acvariul din Crikvenica",
+                  "text": "Prezintă peste 150 de specii de pești din Marea Adriatică și din zonele tropicale ale lumii.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/crikvenica-aquarium-crikvenica.webp",
+                  "coords": [
+                        14.692127,
+                        45.173684
+                  ]
+            },
+            {
+                  "name": "Piața Stjepan Radić",
+                  "text": "Piața centrală a orașului, situată la malul mării, locul principal de întâlnire al turiștilor.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/crikvenica-stjepan-radi-platz.webp",
+                  "coords": [
+                        14.688957,
+                        45.173457
+                  ]
+            },
+            {
+                  "name": "Galeria Orașului",
+                  "text": "Un spațiu cultural activ unde sunt expuse lucrări de artă ale artiștilor contemporani locali.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/crikvenica-stadtgalerie.webp",
+                  "coords": [
+                        14.687375,
+                        45.174863
+                  ]
+            },
+            {
+                  "name": "Crni molo",
+                  "text": "Crni molo este o plajă populară de nisip din Crikvenica, apreciată pentru apele puțin adânci și facilitățile sportive.",
+                  "category": "recreational",
+                  "coords": [
+                        14.680808,
+                        45.181001
+                  ]
+            },
+            {
+                  "name": "Plaža Omorika",
+                  "text": "Oferind vedere către insula Krk, plaja Omorika din Crikvenica îmbină secțiuni plăcute de pietriș și stânci. Coasta atrage atât turiștii dornici de soare, cât și pasionații de înot. Pentru a vă bucura în liniște de apele clare ale Croației, orele dimineții sunt cele mai potrivite.",
+                  "category": "recreational",
+                  "coords": [
+                        14.673808,
+                        45.187228
+                  ]
+            },
+            {
+                  "name": "Kaštel",
+                  "text": "Castelul din Crikvenica este o fostă mănăstire paulină din secolul al XV-lea, transformată astăzi în hotel.",
+                  "category": "castle",
+                  "coords": [
+                        14.694429,
+                        45.171711
+                  ]
+            },
+            {
+                  "name": "Memorijalni atelje Zvonka Cara",
+                  "text": "Atelierul memorial al sculptorului Zvonko Car din Crikvenica, care prezintă operele și moștenirea sa.",
+                  "category": "museum",
+                  "coords": [
+                        14.684232,
+                        45.179222
+                  ]
+            },
+            {
+                  "name": "Uvala Selce",
+                  "text": "Un golf în localitatea Selce de lângă Crikvenica, folosit pentru înot la Marea Adriatică.",
+                  "category": "natural",
+                  "coords": [
+                        14.717313,
+                        45.156728
+                  ]
+            },
+            {
+                  "name": "Gavranova stijena",
+                  "text": "Un punct de belvedere situat deasupra Crikvenicei, oferind o panoramă asupra coastei și a mării.",
+                  "category": "natural",
+                  "coords": [
+                        14.689089,
+                        45.193808
+                  ]
+            },
+            {
+                  "name": "Kavranova stena",
+                  "text": "Un punct de observație lângă Crikvenica, cu vederi spre Golful Kvarner.",
+                  "category": "natural",
+                  "coords": [
+                        14.695202,
+                        45.195167
+                  ]
+            },
+            {
+                  "name": "Crkva sv. Nikole",
+                  "text": "Ruinele bisericii istorice Sfântul Nicolae din Crikvenica, un vestigiu al istoriei locale.",
+                  "category": "historical",
+                  "coords": [
+                        14.699123,
+                        45.180695
+                  ]
+            },
+            {
+                  "name": "Murali",
+                  "text": "O colecție de picturi murale din Crikvenica, prezentând arta stradală modernă în spațiul public.",
+                  "category": "museum",
+                  "coords": [
+                        14.689966,
+                        45.173495
+                  ]
+            },
+            {
+                  "name": "Gradsko kupalište",
+                  "text": "Ștrandul public central din Crikvenica, o plajă cu zone cu nisip și infrastructură turistică.",
+                  "category": "recreational",
+                  "coords": [
+                        14.682415,
+                        45.178933
+                  ]
+            },
+            {
+                  "name": "Gradina Badanj",
+                  "text": "Ruinele unei fortificații medievale situate pe un deal deasupra Crikvenicei.",
+                  "category": "historical",
+                  "coords": [
+                        14.699681,
+                        45.192927
+                  ]
+            },
+            {
+                  "name": "Crkva svetoga Trojstva",
+                  "text": "Resturile fostei biserici Sfânta Treime din Crikvenica, păstrate astăzi sub formă de ruine.",
+                  "category": "historical",
+                  "coords": [
+                        14.704708,
+                        45.185677
+                  ]
+            },
+            {
+                  "name": "Crkva svetog Jurja",
+                  "text": "Ruinele bisericii istorice Sfântul Gheorghe din Crikvenica sunt un vestigiu al arhitecturii vechi.",
+                  "category": "historical",
+                  "coords": [
+                        14.701012,
+                        45.182406
+                  ]
+            },
+            {
+                  "name": "Plaža Pazdehova-Lanterna",
+                  "text": "Acest tronson de coastă popular din Crikvenica este perfect pentru băi de soare prelungite și relaxare la mare. De-a lungul apei predomină o atmosferă de vacanță prietenoasă și destinsă. Pentru o zi fără griji la plajă, este recomandat să aduceți o rogojină confortabilă.",
+                  "category": "recreational",
+                  "coords": [
+                        14.666783,
+                        45.191778
+                  ]
+            },
+            {
+                  "name": "Kupalište Riviera",
+                  "text": "O secțiune de plajă bine dotată în Crikvenica, cu infrastructură turistică.",
+                  "category": "recreational",
+                  "coords": [
+                        14.670459,
+                        45.189935
+                  ]
+            },
+            {
+                  "name": "Tunera Rt. Silo",
+                  "text": "O stație istorică de observare a tonului (Tunera) la Capul Šilo, lângă Crikvenica.",
+                  "category": "landmark",
+                  "coords": [
+                        14.669403,
+                        45.15536
+                  ]
+            },
+            {
+                  "name": "Podvorska",
+                  "text": "O plajă specială pentru câini în Crikvenica, concepută pentru animale de companie și stăpânii lor.",
+                  "category": "landmark",
+                  "coords": [
+                        14.695675,
+                        45.169474
+                  ]
+            },
+            {
+                  "name": "Tribaljsko jezero",
+                  "text": "Lac de apă dulce în Tribalj lângă Crikvenica, cu plajă de nisip și centru de sporturi nautice.",
+                  "category": "natural",
+                  "coords": [
+                        14.667361,
+                        45.224994
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Town Museum Crikvenica",
+                  "text": "Features exhibitions on local history, archaeology, and the fishing heritage of the region.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/crikvenica-stadtmuseum-crikvenica.webp",
+                  "coords": [
+                        14.687375,
+                        45.174863
+                  ]
+            },
+            {
+                  "name": "Crikvenica Aquarium",
+                  "text": "Home to more than 150 species of fish from the Adriatic Sea and tropical waters worldwide.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/crikvenica-aquarium-crikvenica.webp",
+                  "coords": [
+                        14.692127,
+                        45.173684
+                  ]
+            },
+            {
+                  "name": "Stjepan Radić Square",
+                  "text": "The main seaside square of the town, serving as the center for cultural events and festivals.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/crikvenica-stjepan-radi-platz.webp",
+                  "coords": [
+                        14.688957,
+                        45.173457
+                  ]
+            },
+            {
+                  "name": "Town Gallery",
+                  "text": "A cultural venue that hosts regular exhibitions of contemporary works by Croatian artists.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/crikvenica-stadtgalerie.webp",
+                  "coords": [
+                        14.687375,
+                        45.174863
+                  ]
+            },
+            {
+                  "name": "Crni molo",
+                  "text": "Crni molo is a popular sandy beach in Crikvenica, known for its shallow waters and various sports facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        14.680808,
+                        45.181001
+                  ]
+            },
+            {
+                  "name": "Omorika Beach",
+                  "text": "Boasting a view of the island of Krk, Omorika beach in Crikvenica features an appealing mix of pebble and rocky sections. The shoreline attracts both sun-seeking holidaymakers and avid swimmers. The morning hours are particularly pleasant for enjoying the clear Croatian waters in peace.",
+                  "category": "recreational",
+                  "coords": [
+                        14.673808,
+                        45.187228
+                  ]
+            },
+            {
+                  "name": "Kaštel",
+                  "text": "The Kaštel in Crikvenica is a former 15th-century Pauline monastery that now operates as a hotel.",
+                  "category": "castle",
+                  "coords": [
+                        14.694429,
+                        45.171711
+                  ]
+            },
+            {
+                  "name": "Memorijalni atelje Zvonka Cara",
+                  "text": "Memorial atelier of the sculptor Zvonko Car in Crikvenica, showcasing his works and artistic legacy.",
+                  "category": "museum",
+                  "coords": [
+                        14.684232,
+                        45.179222
+                  ]
+            },
+            {
+                  "name": "Uvala Selce",
+                  "text": "A bay in the village of Selce near Crikvenica, used for swimming in the Adriatic Sea.",
+                  "category": "natural",
+                  "coords": [
+                        14.717313,
+                        45.156728
+                  ]
+            },
+            {
+                  "name": "Gavranova stijena",
+                  "text": "A viewpoint located above Crikvenica, offering a panoramic view of the coast and the sea.",
+                  "category": "natural",
+                  "coords": [
+                        14.689089,
+                        45.193808
+                  ]
+            },
+            {
+                  "name": "Kavranova stena",
+                  "text": "A vantage point near Crikvenica providing views over the Kvarner Bay.",
+                  "category": "natural",
+                  "coords": [
+                        14.695202,
+                        45.195167
+                  ]
+            },
+            {
+                  "name": "Crkva sv. Nikole",
+                  "text": "Ruins of the historic St. Nicholas church in Crikvenica, reflecting the town's history.",
+                  "category": "historical",
+                  "coords": [
+                        14.699123,
+                        45.180695
+                  ]
+            },
+            {
+                  "name": "Murali",
+                  "text": "A collection of murals in Crikvenica, showcasing modern street art in the public space.",
+                  "category": "museum",
+                  "coords": [
+                        14.689966,
+                        45.173495
+                  ]
+            },
+            {
+                  "name": "Gradsko kupalište",
+                  "text": "The main public beach in Crikvenica, featuring sandy areas and tourist facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        14.682415,
+                        45.178933
+                  ]
+            },
+            {
+                  "name": "Gradina Badanj",
+                  "text": "Ruins of a medieval fortification situated on a hill overlooking Crikvenica.",
+                  "category": "historical",
+                  "coords": [
+                        14.699681,
+                        45.192927
+                  ]
+            },
+            {
+                  "name": "The Church of the Holy Trinity",
+                  "text": "Remains of the former Holy Trinity church in Crikvenica, preserved as ruins.",
+                  "category": "historical",
+                  "coords": [
+                        14.704708,
+                        45.185677
+                  ]
+            },
+            {
+                  "name": "Crkva svetog Jurja",
+                  "text": "The ruins of the historic St. George's church in Crikvenica are a testament to old architecture.",
+                  "category": "historical",
+                  "coords": [
+                        14.701012,
+                        45.182406
+                  ]
+            },
+            {
+                  "name": "Plaža Pazdehova-Lanterna",
+                  "text": "This well-loved coastal stretch in Crikvenica invites visitors for extensive sunbathing and seaside relaxation. A friendly and laid-back holiday mood generally prevails along the water. Bringing a comfortable beach mat is recommended for a carefree day of swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        14.666783,
+                        45.191778
+                  ]
+            },
+            {
+                  "name": "Kupalište Riviera",
+                  "text": "A well-equipped beach area in Crikvenica with tourist infrastructure.",
+                  "category": "recreational",
+                  "coords": [
+                        14.670459,
+                        45.189935
+                  ]
+            },
+            {
+                  "name": "Tunera Rt. Silo",
+                  "text": "A historical tuna observation tower (Tunera) at Cape Šilo near Crikvenica.",
+                  "category": "landmark",
+                  "coords": [
+                        14.669403,
+                        45.15536
+                  ]
+            },
+            {
+                  "name": "Podvorska",
+                  "text": "A dedicated dog beach in Crikvenica, designed for pets and their owners.",
+                  "category": "landmark",
+                  "coords": [
+                        14.695675,
+                        45.169474
+                  ]
+            },
+            {
+                  "name": "Lake Tribalj",
+                  "text": "A freshwater lake in Tribalj near Crikvenica with a sandy beach and water sports centre.",
+                  "category": "natural",
+                  "coords": [
+                        14.667361,
+                        45.224994
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Crni molo",
+                  "text": "Crni molo je poznata pješčana plaža u Crikvenici, idealna za obitelji zbog plitkog mora i brojnih sportskih sadržaja.",
+                  "category": "recreational",
+                  "coords": [
+                        14.680808,
+                        45.181001
+                  ]
+            },
+            {
+                  "name": "Omorika Beach",
+                  "text": "Plaža Omorika u Crikvenici popularno je kupalište s kombinacijom šljunka i stijena te prekrasnim pogledom na otok Krk.",
+                  "category": "recreational",
+                  "coords": [
+                        14.673808,
+                        45.187228
+                  ]
+            },
+            {
+                  "name": "Kaštel",
+                  "text": "Kaštel u Crikvenici nekadašnji je pavlinski samostan utemeljen 1412. godine, koji danas služi kao hotel.",
+                  "category": "castle",
+                  "coords": [
+                        14.694429,
+                        45.171711
+                  ]
+            },
+            {
+                  "name": "Uvala Selce",
+                  "text": "Uvala u mjestu Selce kraj Crikvenice, pogodna za kupanje i rekreaciju na moru.",
+                  "category": "natural",
+                  "coords": [
+                        14.717313,
+                        45.156728
+                  ]
+            },
+            {
+                  "name": "Gavranova stijena",
+                  "text": "Vidikovac smješten iznad Crikvenice s kojeg se pruža panoramski pogled na obalu.",
+                  "category": "natural",
+                  "coords": [
+                        14.689089,
+                        45.193808
+                  ]
+            },
+            {
+                  "name": "Kavranova stena",
+                  "text": "Vidikovac u blizini Crikvenice s kojeg se pruža pogled na Kvarnerski zaljev.",
+                  "category": "natural",
+                  "coords": [
+                        14.695202,
+                        45.195167
+                  ]
+            },
+            {
+                  "name": "Crkva sv. Nikole",
+                  "text": "Ostatci povijesne crkve svetog Nikole u Crikvenici koji svjedoče o prošlosti grada.",
+                  "category": "historical",
+                  "coords": [
+                        14.699123,
+                        45.180695
+                  ]
+            },
+            {
+                  "name": "Murali",
+                  "text": "Zbirka murala u Crikvenici koja predstavlja modernu uličnu umjetnost u javnom prostoru.",
+                  "category": "museum",
+                  "coords": [
+                        14.689966,
+                        45.173495
+                  ]
+            },
+            {
+                  "name": "Gradsko kupalište",
+                  "text": "Glavno gradsko kupalište u Crikvenici, pješčana plaža s uređenom turističkom infrastrukturom.",
+                  "category": "recreational",
+                  "coords": [
+                        14.682415,
+                        45.178933
+                  ]
+            },
+            {
+                  "name": "Gradina Badanj",
+                  "text": "Ruševine srednjovjekovne utvrde smještene na uzvisini iznad Crikvenice.",
+                  "category": "historical",
+                  "coords": [
+                        14.699681,
+                        45.192927
+                  ]
+            },
+            {
+                  "name": "The Church of the Holy Trinity",
+                  "text": "Ostatci nekadašnje crkve Presvetog Trojstva u Crikvenici koji su danas sačuvani kao ruševine.",
+                  "category": "historical",
+                  "coords": [
+                        14.704708,
+                        45.185677
+                  ]
+            },
+            {
+                  "name": "Crkva svetog Jurja",
+                  "text": "Povijesne ruševine crkve svetog Jurja u Crikvenici, spomenik stare arhitekture.",
+                  "category": "historical",
+                  "coords": [
+                        14.701012,
+                        45.182406
+                  ]
+            },
+            {
+                  "name": "Plaža Pazdehova-Lanterna",
+                  "text": "Popularna plaža u Crikvenici, idealna za sunčanje i opuštanje uz more.",
+                  "category": "recreational",
+                  "coords": [
+                        14.666783,
+                        45.191778
+                  ]
+            },
+            {
+                  "name": "Kupalište Riviera",
+                  "text": "Dobro opremljeno kupalište u Crikvenici s turističkom infrastrukturom.",
+                  "category": "recreational",
+                  "coords": [
+                        14.670459,
+                        45.189935
+                  ]
+            },
+            {
+                  "name": "Tunera Rt. Silo",
+                  "text": "Povijesna postaja za promatranje tuna (tunera) na rtu Šilo kod Crikvenice.",
+                  "category": "landmark",
+                  "coords": [
+                        14.669403,
+                        45.15536
+                  ]
+            },
+            {
+                  "name": "Podvorska",
+                  "text": "Poznata plaža za pse u Crikvenici, namijenjena kućnim ljubimcima i njihovim vlasnicima.",
+                  "category": "landmark",
+                  "coords": [
+                        14.695675,
+                        45.169474
+                  ]
+            }
+      ]
+}},
+  {"id": "cavtat", "type": "city", "parent": "HR-19", "coords": [18.2117, 42.5803], "population": 2117, "tier": 2, "name": {"de": "Cavtat", "hu": "Cavtat", "ro": "Cavtat", "en": "Cavtat"}, "description": {"de": "Cavtat ist eine elegante Küstenstadt südlich von Dubrovnik, die auf den Ruinen des antiken Epidaurum erbaut wurde. Die Stadt ist berühmt für ihre palmengesäumte Promenade, historische Paläste und das Mausoleum der Familie Račić.", "hu": "Cavtat egy elegáns tengerparti város Dubrovniktól délre, amely az ókori Epidaurum romjaira épült. A város pálmákkal szegélyezett sétányáról, történelmi palotáiról és a Račić család mauzóleumáról híres.", "ro": "Cavtat este un oraș de coastă elegant situat la sud de Dubrovnik, construit pe ruinele anticului Epidaurum. Orașul este faimos pentru promenada sa cu palmieri, palatele istorice și mausoleul familiei Račić.", "en": "Cavtat is an elegant coastal town south of Dubrovnik, built on the ruins of ancient Epidaurum. The town is famous for its palm-lined promenade, historic palaces, and the Račić family mausoleum."}, "facts": {"de": ["Bevölkerung: 2117 Einwohner", "Region: Gespanschaft Dubrovnik-Neretva", "Antike: Gegründet als griechische Kolonie Epidaurus", "Architektur: Mausoleum der Familie Račić von Ivan Meštrović", "Kultur: Geburtsort des Malers Vlaho Bukovac", "Geografie: Auf zwei Halbinseln gelegen (Rat und Sustjepan)", "Natur: Bekannt für die üppige mediterrane Vegetation", "Tourismus: Beliebter Jachthafen nahe Dubrovnik"], "hu": ["Lakosok száma: 2117 fő", "Régió: Dubrovnik-Neretva megye", "Ókor: Görög kolóniaként alapították (Epidaurus)", "Építészet: Ivan Meštrović által tervezett Račić mauzóleum", "Kultúra: Vlaho Bukovac festőművész szülőhelye", "Földrajz: Két félszigeten fekszik (Rat és Sustjepan)", "Természet: Gazdag mediterrán növényzetéről ismert", "Turizmus: Népszerű jachtkikötő Dubrovnik közelében"], "ro": ["Populație: 2117 de locuitori", "Regiune: Județul Dubrovnik-Neretva", "Antichitate: Fondat ca colonie greacă (Epidaurus)", "Arhitectură: Mausoleul familiei Račić de Ivan Meštrović", "Cultură: Locul de naștere al pictorului Vlaho Bukovac", "Geografie: Situat pe două peninsule (Rat și Sustjepan)", "Natură: Cunoscut pentru vegetația mediteraneană luxuriantă", "Turism: Port de iahturi popular lângă Dubrovnik"], "en": ["Population: 2,117 residents", "Region: Dubrovnik-Neretva County", "Antiquity: Founded as the Greek colony Epidaurus", "Architecture: Račić family mausoleum by Ivan Meštrović", "Culture: Birthplace of the painter Vlaho Bukovac", "Geography: Located on two peninsulas (Rat and Sustjepan)", "Nature: Known for lush Mediterranean vegetation", "Tourism: Popular yacht marina near Dubrovnik"]}, "image": "/poi-images/cavtat.webp", "imageHint": "Harbor and seaside promenade of Cavtat under the sun", "descriptionAdvanced": {"de": "Cavtat, das antike Epidaurum, ist ein Ort von zeitloser Eleganz am südlichsten Zipfel Kroatiens. Nachdem die ursprüngliche Siedlung im 7. Jahrhundert zerstört wurde, gründeten die Flüchtlinge das nahegelegene Dubrovnik, während Cavtat später unter der Herrschaft der Republik Ragusa wieder zu Blüte gelangte. Die Stadt erstreckt sich malerisch entlang zweier Halbinseln und bietet eine der schönsten Uferpromenaden der Adria, gesäumt von Palmen und historischen Gebäuden. Ein kulturelles Muss ist das Haus von Vlaho Bukovac, einem der bedeutendsten kroatischen Maler, das heute ein Museum ist. Hoch über der Stadt thront das Mausoleum der Familie Račić, ein Meisterwerk des Bildhauers Ivan Meštrović, das vollständig aus weißem Brač-Marmor ohne Metallverbindungen errichtet wurde. Der Rektorenpalast beherbergt die beeindruckende Sammlung des Gelehrten Baltazar Bogišić. Cavtat vereint den aristokratischen Geist der Vergangenheit mit einer entspannten mediterranen Atmosphäre und ist ein Rückzugsort für Kenner abseits der Massen von Dubrovnik.", "hu": "Cavtat, az ókori Epidaurum, az időtlen elegancia városa Horvátország legdélebbi csücskében. Miután az eredeti település a 7. században elpusztult, a menekültek alapították meg a közeli Dubrovnikot, míg Cavtat később a Raguzai Köztársaság fennhatósága alatt virágzott fel újra. A város festői módon két félsziget mentén terül el, és az Adria egyik legszebb, pálmákkal és történelmi épületekkel szegélyezett tengerparti sétányát kínálja. Kulturális szempontból kötelező látnivaló Vlaho Bukovac, az egyik legjelentősebb horvát festő szülőháza, amely ma múzeum. A város felett magasodik a Račić család mauzóleuma, Ivan Meštrović szobrászművész remekműve, amely teljes egészében fehér brači márványból készült, fém rögzítések nélkül. A Kormányzói palota Baltazar Bogišić tudós lenyűgöző gyűjteményének ad otthont. Cavtat egyesíti a múlt arisztokratikus szellemét a nyugodt mediterrán hangulattal, ideális menedék a Dubrovnik tömegeitől távolodni vágyóknak.", "ro": "Cavtat, anticul Epidaurum, este un loc de o eleganță atemporală în cel mai sudic punct al Croației. După ce așezarea inițială a fost distrusă în secolul al VII-lea, refugiații au fondat orașul Dubrovnik din apropiere, în timp ce Cavtat a înflorit din nou mai târziu sub stăpânirea Republicii Ragusa. Orașul se întinde pitoresc de-a lungul a două peninsule și oferă una dintre cele mai frumoase promenade de pe malul mării din Adriatica, mărginită de palmieri și clădiri istorice. O vizită culturală obligatorie este casa lui Vlaho Bukovac, unul dintre cei mai importanți pictori croați, care acum este muzeu. Deasupra orașului tronează mausoleul familiei Račić, o capodoperă a sculptorului Ivan Meštrović, construit în întregime din marmură albă de Brač, fără îmbinări metalice. Palatul Rectorului găzduiește colecția impresionantă a savantului Baltazar Bogišić. Cavtat îmbină spiritul aristocratic al trecutului cu o atmosferă mediteraneană relaxată, fiind un refugiu pentru cunoscători, departe de aglomerația din Dubrovnik.", "en": "Cavtat, the ancient Epidaurum, is a place of timeless elegance at the southernmost tip of Croatia. After the original settlement was destroyed in the 7th century, the refugees founded nearby Dubrovnik, while Cavtat later flourished again under the rule of the Republic of Ragusa. The town stretches picturesquely along two peninsulas and offers one of the most beautiful seaside promenades in the Adriatic, lined with palm trees and historic buildings. A cultural must-see is the house of Vlaho Bukovac, one of the most significant Croatian painters, which is now a museum. Perched high above the town is the Račić family mausoleum, a masterpiece by sculptor Ivan Meštrović, built entirely of white Brač marble without any metal joints. The Rector's Palace houses the impressive collection of the scholar Baltazar Bogišić. Cavtat combines the aristocratic spirit of the past with a relaxed Mediterranean atmosphere and is a retreat for connoisseurs away from the crowds of Dubrovnik."}, "factsAdvanced": {"de": ["Das Mausoleum der Familie Račić wurde 1921 ohne ein einziges Stück Metall erbaut.", "Cavtat war der wichtigste Hafen der Konavle-Region für die Republik Ragusa.", "Der Maler Vlaho Bukovac malte das berühmte Porträt der kaiserlichen Familie in Wien.", "Die St.-Nikolaus-Kirche beherbergt eine wertvolle Sammlung von Gemälden alter Meister.", "Unter dem Meeresspiegel von Cavtat befinden sich bedeutende archäologische Fundstätten antiker Amphoren.", "Der Rektorenpalast bewahrt über 30.000 Bände und seltene grafische Blätter von Bogišić auf."], "hu": ["A Račić család mauzóleuma 1921-ben épült, egyetlen darab fém felhasználása nélkül.", "Cavtat volt a Konavle régió legfontosabb kikötője a Raguzai Köztársaság számára.", "Vlaho Bukovac festőművész készítette a császári család híres portréját Bécsben.", "A Szent Miklós-templom értékes gyűjteményt őriz régi mesterek festményeiből.", "Cavtat tengerpartja alatt jelentős ókori amfora-lelőhelyek találhatók.", "A Kormányzói palota Bogišić több mint 30 000 kötetét és ritka grafikai lapjait őrzi."], "ro": ["Mausoleul familiei Račić a fost construit în 1921 fără a folosi nicio piesă de metal.", "Cavtat a fost cel mai important port al regiunii Konavle pentru Republica Ragusa.", "Pictorul Vlaho Bukovac a pictat celebrul portret al familiei imperiale la Viena.", "Biserica Sfântul Nicolae adăpostește o colecție valoroasă de picturi ale vechilor maeștri.", "Sub nivelul mării din Cavtat se află situri arheologice importante cu amfore antice.", "Palatul Rectorului păstrează peste 30.000 de volume și planșe grafice rare ale lui Bogišić."], "en": ["The Račić family mausoleum was built in 1921 without a single piece of metal.", "Cavtat was the most important port of the Konavle region for the Republic of Ragusa.", "The painter Vlaho Bukovac painted the famous portrait of the imperial family in Vienna.", "The Church of St. Nicholas houses a valuable collection of paintings by old masters.", "Under the sea level of Cavtat, there are significant archaeological sites of ancient amphorae.", "The Rector's Palace preserves over 30,000 volumes and rare graphic sheets by Bogišić."]}, "sights": {
+      "de": [
+            {
+                  "name": "Mausoleum der Familie Račić",
+                  "text": "Ein architektonisches Juwel des Bildhauers Ivan Meštrović aus dem Jahr 1922, das majestätisch auf einem Hügel thront.",
+                  "category": "monuments/statues",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/cavtat-mausoleum-der-familie-ra-i.webp",
+                  "coords": [
+                        18.213784,
+                        42.584739
+                  ]
+            },
+            {
+                  "name": "Haus Bukovac",
+                  "text": "Das Geburtshaus und Museum des Malers Vlaho Bukovac, in dem seine frühen Werke und sein Atelier besichtigt werden können.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/cavtat-haus-bukovac.webp",
+                  "coords": [
+                        18.216933,
+                        42.58314
+                  ]
+            },
+            {
+                  "name": "Kirche St. Nikolaus",
+                  "text": "Die barocke Pfarrkirche im Ortskern, die bedeutende Werke lokaler Künstler sowie Gemälde von Vlaho Bukovac zeigt.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/cavtat-kirche-st-nikolaus.webp",
+                  "coords": [
+                        18.217247,
+                        42.581422
+                  ]
+            },
+            {
+                  "name": "Franziskanerkloster Maria im Schnee",
+                  "text": "Ein Klosterkomplex aus dem 15. Jahrhundert mit einem friedlichen Kreuzgang und Gemälden der Renaissance.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/cavtat-franziskanerkloster-maria-im-schnee.webp",
+                  "coords": [
+                        18.214466,
+                        42.583495
+                  ]
+            },
+            {
+                  "name": "Uferpromenade von Cavtat",
+                  "text": "Ein von Palmen gesäumter Weg entlang des Hafens, der wunderbare Ausblicke auf die Adria und Dubrovnik bietet.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/cavtat-uferpromenade-von-cavtat.webp",
+                  "coords": [
+                        18.214466,
+                        42.583495
+                  ]
+            },
+            {
+                  "name": "Ključiće",
+                  "text": "Ein ruhiger Kieselstrand in Cavtat, umgeben von mediterraner Vegetation.",
+                  "category": "recreational",
+                  "coords": [
+                        18.213512,
+                        42.586446
+                  ]
+            },
+            {
+                  "name": "Sustjepan Plaža",
+                  "text": "In der Nähe der Sustjepan-Halbinsel erstreckt sich dieser schöne Küstenabschnitt in Cavtat. Besucher erwartet eine ruhige Atmosphäre, die perfekt zum Schwimmen und für Spaziergänge am Ufer ist. Besonders im späten Nachmittagslicht entfaltet die Bucht ihren vollen Charme.",
+                  "category": "recreational",
+                  "coords": [
+                        18.213197,
+                        42.580059
+                  ]
+            },
+            {
+                  "name": "Gradska Plaža",
+                  "text": "Als zentraler Stadtstrand von Cavtat erfreut sich dieser Ort großer Beliebtheit bei Besuchern. Die bequeme Erreichbarkeit und das lebendige Treiben machen ihn zum idealen Treffpunkt für Familien. Ein herrlicher Ort, um das maritime Flair der Stadt ohne große Umwege zu genießen.",
+                  "category": "recreational",
+                  "coords": [
+                        18.220706,
+                        42.581562
+                  ]
+            },
+            {
+                  "name": "Žal",
+                  "text": "Ein weitläufiger Strand in Cavtat mit klarem Wasser und verschiedenen Freizeitmöglichkeiten.",
+                  "category": "recreational",
+                  "coords": [
+                        18.224772,
+                        42.58542
+                  ]
+            },
+            {
+                  "name": "Nudist beach",
+                  "text": "Versteckt in der Umgebung von Cavtat bietet dieser abgelegene Strandabschnitt absolute Ruhe für FKK-Anhänger. Fernab der Menschenmassen lässt sich die Natur hier beim Sonnenbaden und Schwimmen ungestört genießen. Ein wenig Proviant und Wasser sollten für den Aufenthalt mitgebracht werden.",
+                  "category": "recreational",
+                  "coords": [
+                        18.226059,
+                        42.594587
+                  ]
+            },
+            {
+                  "name": "FKK Nudist Beach",
+                  "text": "Dieser offiziell ausgewiesene FKK-Bereich bei Cavtat richtet sich an alle, die naturnahes Baden schätzen. Die entspannte Atmosphäre zieht Urlauber an, die das Meer abseits des Trubels erleben möchten. Festes Schuhwerk kann für den Zugang über mögliche Felsen nützlich sein.",
+                  "category": "recreational",
+                  "coords": [
+                        18.224088,
+                        42.593302
+                  ]
+            },
+            {
+                  "name": "Obod Plaža",
+                  "text": "Im Viertel Obod gelegen, verspricht dieser lokale Strand ein entspanntes Badeerlebnis nahe Cavtat. Die ruhige Atmosphäre macht ihn zu einer wunderbaren Wahl für ausgiebige Badegänge im Meer. Ein toller Ort für gemütliche Nachmittage abseits der großen Hauptstrände.",
+                  "category": "recreational",
+                  "coords": [
+                        18.226969,
+                        42.589788
+                  ]
+            },
+            {
+                  "name": "Rat",
+                  "text": "Ein beliebter Kiesstrand an der Spitze der Halbinsel Sustjepan in Cavtat.",
+                  "category": "recreational",
+                  "coords": [
+                        18.215392,
+                        42.585913
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "FKK-Strand – ein Kieselstrand an der Küste von Cavtat.",
+                  "category": "recreational",
+                  "coords": [
+                        18.209664,
+                        42.581065
+                  ]
+            },
+            {
+                  "name": "Kamen Mali",
+                  "text": "Ein felsiger Strand an der Küstenpromenade von Cavtat mit klarem Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        18.21156,
+                        42.587183
+                  ]
+            },
+            {
+                  "name": "Južna Plaža",
+                  "text": "An der Südseite der Bucht von Cavtat lädt dieser öffentliche Strand zum Schwimmen ein. Das maritime Ambiente zieht vor allem Badegäste an, die ruhige Momente an der Küste suchen. Für einen ungestörten Platz am Wasser lohnt sich ein Besuch am frühen Vormittag.",
+                  "category": "recreational",
+                  "coords": [
+                        18.212979,
+                        42.578044
+                  ]
+            },
+            {
+                  "name": "Mala greda",
+                  "text": "Eine Anhöhe bei Cavtat, die Ausblicke auf die Umgebung von Konavle bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.240279,
+                        42.568554
+                  ]
+            },
+            {
+                  "name": "Humak",
+                  "text": "Ein lokaler Gipfel in den Hügeln oberhalb der Stadt Cavtat.",
+                  "category": "natural",
+                  "coords": [
+                        18.242932,
+                        42.580458
+                  ]
+            },
+            {
+                  "name": "Općina Konavle",
+                  "text": "Die Općina Konavle ist eine Gemeinde in Cavtat, bekannt für ihre Weinberge und ländliche Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        18.217133,
+                        42.580437
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Račić-család mauzóleuma",
+                  "text": "Ivan Meštrović világhírű szobrász 1922-ben készült építészeti remekműve, amely a város feletti dombtetőn áll.",
+                  "category": "monuments/statues",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/cavtat-mausoleum-der-familie-ra-i.webp",
+                  "coords": [
+                        18.213784,
+                        42.584739
+                  ]
+            },
+            {
+                  "name": "Bukovac-ház",
+                  "text": "Vlaho Bukovac neves horvát festőművész szülőháza és múzeuma, ahol korai alkotásai és egykori műterme látható.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/cavtat-haus-bukovac.webp",
+                  "coords": [
+                        18.216933,
+                        42.58314
+                  ]
+            },
+            {
+                  "name": "Szent Miklós templom",
+                  "text": "A 15. századi plébániatemplom értékes műalkotásokat őriz, köztük Vlaho Bukovac festményeit és barokk oltárokat.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/cavtat-kirche-st-nikolaus.webp",
+                  "coords": [
+                        18.217247,
+                        42.581422
+                  ]
+            },
+            {
+                  "name": "Havas Boldogasszony ferences kolostor",
+                  "text": "15. századi szerzetesi épületegyüttes békés kerengővel és reneszánsz festményekkel a kikötő végében.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/cavtat-franziskanerkloster-maria-im-schnee.webp",
+                  "coords": [
+                        18.214466,
+                        42.583495
+                  ]
+            },
+            {
+                  "name": "Cavtati partmenti sétány",
+                  "text": "Pálmafákkal szegélyezett, hangulatos sétány a kikötő mentén, ahonnan csodás kilátás nyílik a nyílt tengerre.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/cavtat-uferpromenade-von-cavtat.webp",
+                  "coords": [
+                        18.214466,
+                        42.583495
+                  ]
+            },
+            {
+                  "name": "Ključiće",
+                  "text": "Nyugodt kavicsos strand Cavtatban, mediterrán növényzettel körülvéve.",
+                  "category": "recreational",
+                  "coords": [
+                        18.213512,
+                        42.586446
+                  ]
+            },
+            {
+                  "name": "Sustjepan Plaža",
+                  "text": "A Sustjepan-félsziget közelében húzódik ez a gyönyörű cavtati partszakasz. A látogatókat csendes légkör fogadja, amely tökéletes egy kiadós úszáshoz vagy egy parti sétához. Az öböl különösen a késő délutáni fényekben mutatja meg igazi varázsát.",
+                  "category": "recreational",
+                  "coords": [
+                        18.213197,
+                        42.580059
+                  ]
+            },
+            {
+                  "name": "Gradska Plaža",
+                  "text": "Cavtat központi városi strandjaként ez a helyszín hatalmas népszerűségnek örvend a vendégek körében. A könnyű megközelíthetőség és a nyüzsgő élet ideális találkozóhellyé teszi a családok számára. Remek választás arra, hogy nagyobb kitérők nélkül élvezzük a város tengeri hangulatát.",
+                  "category": "recreational",
+                  "coords": [
+                        18.220706,
+                        42.581562
+                  ]
+            },
+            {
+                  "name": "Žal",
+                  "text": "Tágas strand Cavtatban tiszta vízzel és különféle szabadidős lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        18.224772,
+                        42.58542
+                  ]
+            },
+            {
+                  "name": "Nudist beach",
+                  "text": "Cavtat környékén megbújva ez a félreeső partszakasz teljes nyugalmat kínál a naturizmus kedvelőinek. A tömegtől távol itt zavartalanul lehet élvezni a természetet napozás és úszás közben. Az ittléthez érdemes némi élelmet és elegendő ivóvizet magunkkal hozni.",
+                  "category": "recreational",
+                  "coords": [
+                        18.226059,
+                        42.594587
+                  ]
+            },
+            {
+                  "name": "FKK Nudist Beach",
+                  "text": "Ez a Cavtat melletti hivatalosan kijelölt naturista terület azoknak szól, akik értékelik a természetközeli fürdőzést. A pihentető légkör olyan nyaralókat vonz, akik a nyüzsgéstől távol szeretnék megtapasztalni a tengert. A sziklás részeken való megközelítéshez érdemes stabil lábbelit viselni.",
+                  "category": "recreational",
+                  "coords": [
+                        18.224088,
+                        42.593302
+                  ]
+            },
+            {
+                  "name": "Obod Plaža",
+                  "text": "Az Obod negyedben található helyi strand pihentető fürdőzést ígér Cavtat közelében. A nyugodt hangulat csodás választássá teszi a hosszas tengeri fürdőzésekhez. Remek helyszín a meghitt délutánokra, távol a zsúfolt fő strandoktól.",
+                  "category": "recreational",
+                  "coords": [
+                        18.226969,
+                        42.589788
+                  ]
+            },
+            {
+                  "name": "Rat",
+                  "text": "Népszerű kavicsos strand Cavtatban, a Sustjepan-félsziget csúcsán.",
+                  "category": "recreational",
+                  "coords": [
+                        18.215392,
+                        42.585913
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "FKK strand – kavicsos strand Cavtat partján.",
+                  "category": "recreational",
+                  "coords": [
+                        18.209664,
+                        42.581065
+                  ]
+            },
+            {
+                  "name": "Kamen Mali",
+                  "text": "Sziklás strand tiszta vízzel Cavtat tengerparti sétánya mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        18.21156,
+                        42.587183
+                  ]
+            },
+            {
+                  "name": "Južna Plaža",
+                  "text": "A cavtati öböl déli oldalán található ez a nyilvános strand, amely úszásra csábít. A tengerparti hangulat főként azokat a fürdőzőket vonzza, akik csendes pillanatokat keresnek a parton. A zavartalan pihenés érdekében érdemes kora délelőtt ellátogatni ide.",
+                  "category": "recreational",
+                  "coords": [
+                        18.212979,
+                        42.578044
+                  ]
+            },
+            {
+                  "name": "Mala greda",
+                  "text": "Domb Cavtat közelében, ahonnan kilátás nyílik a Konavle-vidékre.",
+                  "category": "natural",
+                  "coords": [
+                        18.240279,
+                        42.568554
+                  ]
+            },
+            {
+                  "name": "Humak",
+                  "text": "Helyi hegycsúcs a Cavtat feletti dombokon.",
+                  "category": "natural",
+                  "coords": [
+                        18.242932,
+                        42.580458
+                  ]
+            },
+            {
+                  "name": "Općina Konavle",
+                  "text": "Az Općina Konavle egy község Cavtatban, szőlőültetvényeiről és vidéki építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        18.217133,
+                        42.580437
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mausoleul Familiei Račić",
+                  "text": "Capodoperă a sculptorului Ivan Meštrović din 1922, acest monument alb domină colina de deasupra orașului Cavtat.",
+                  "category": "monuments/statues",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/cavtat-mausoleum-der-familie-ra-i.webp",
+                  "coords": [
+                        18.213784,
+                        42.584739
+                  ]
+            },
+            {
+                  "name": "Casa Bukovac",
+                  "text": "Locul de naștere și muzeul pictorului Vlaho Bukovac, expunând lucrările sale timpurii și atelierul păstrat autentic.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/cavtat-haus-bukovac.webp",
+                  "coords": [
+                        18.216933,
+                        42.58314
+                  ]
+            },
+            {
+                  "name": "Biserica Sfântul Nicolae",
+                  "text": "Biserică parohială din secolul al XV-lea ce deține o pinacotecă valoroasă, incluzând tablouri semnate de Vlaho Bukovac.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/cavtat-kirche-st-nikolaus.webp",
+                  "coords": [
+                        18.217247,
+                        42.581422
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Franciscană Maica Domnului de Zăpadă",
+                  "text": "Complex monastic din secolul al XV-lea cu un claustru liniștit și picturi renascentiste de o frumusețe rară.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/cavtat-franziskanerkloster-maria-im-schnee.webp",
+                  "coords": [
+                        18.214466,
+                        42.583495
+                  ]
+            },
+            {
+                  "name": "Promenada de pe Faleză",
+                  "text": "Alee mărginită de palmieri care înconjoară portul, oferind priveliști relaxante spre Dubrovnik și marea liberă.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/cavtat-uferpromenade-von-cavtat.webp",
+                  "coords": [
+                        18.214466,
+                        42.583495
+                  ]
+            },
+            {
+                  "name": "Ključiće",
+                  "text": "O plajă liniștită cu pietriș în Cavtat, înconjurată de vegetație mediteraneană.",
+                  "category": "recreational",
+                  "coords": [
+                        18.213512,
+                        42.586446
+                  ]
+            },
+            {
+                  "name": "Sustjepan Plaža",
+                  "text": "În apropierea peninsulei Sustjepan se întinde această porțiune superbă de coastă din Cavtat. Vizitatorii au parte de o atmosferă liniștită, excelentă pentru înot și plimbări pe țărm. Golful își dezvăluie farmecul deplin, mai ales în lumina caldă a după-amiezii târzii.",
+                  "category": "recreational",
+                  "coords": [
+                        18.213197,
+                        42.580059
+                  ]
+            },
+            {
+                  "name": "Gradska Plaža",
+                  "text": "Fiind plaja centrală a orașului Cavtat, acest loc se bucură de o mare popularitate printre vizitatori. Accesul facil și forfota animată îl transformă într-un punct de întâlnire ideal pentru familii. Este locul perfect pentru a vă bucura de flerul maritim al orașului fără drumuri ocolitoare.",
+                  "category": "recreational",
+                  "coords": [
+                        18.220706,
+                        42.581562
+                  ]
+            },
+            {
+                  "name": "Žal",
+                  "text": "O plajă spațioasă în Cavtat, cu apă limpede și diverse facilități de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        18.224772,
+                        42.58542
+                  ]
+            },
+            {
+                  "name": "Nudist beach",
+                  "text": "Ascunsă în împrejurimile orașului Cavtat, această porțiune de plajă izolată oferă liniște absolută pentru nudiști. Departe de aglomerație, vizitatorii se pot bucura aici netulburați de natură, făcând plajă și înotând. Este recomandat să aduceți provizii și apă pentru șederea dumneavoastră.",
+                  "category": "recreational",
+                  "coords": [
+                        18.226059,
+                        42.594587
+                  ]
+            },
+            {
+                  "name": "FKK Nudist Beach",
+                  "text": "Această zonă oficială pentru nudiști de lângă Cavtat este destinată celor care apreciază scăldatul în armonie cu natura. Atmosfera relaxantă atrage turiștii care doresc să experimenteze marea departe de agitație. O încălțăminte robustă poate fi utilă pentru accesul peste eventualele stânci.",
+                  "category": "recreational",
+                  "coords": [
+                        18.224088,
+                        42.593302
+                  ]
+            },
+            {
+                  "name": "Obod Plaža",
+                  "text": "Situată în cartierul Obod, această plajă locală promite o experiență de baie relaxantă aproape de Cavtat. Atmosfera liniștită o transformă într-o alegere minunată pentru înot prelungit în mare. Este un loc excelent pentru după-amiezi confortabile, departe de plajele principale mari.",
+                  "category": "recreational",
+                  "coords": [
+                        18.226969,
+                        42.589788
+                  ]
+            },
+            {
+                  "name": "Rat",
+                  "text": "O plajă populară cu prundis situată în vârful peninsulei Sustjepan din Cavtat.",
+                  "category": "recreational",
+                  "coords": [
+                        18.215392,
+                        42.585913
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "Plajă FKK – o plajă cu pietriș pe coasta Cavtatului.",
+                  "category": "recreational",
+                  "coords": [
+                        18.209664,
+                        42.581065
+                  ]
+            },
+            {
+                  "name": "Kamen Mali",
+                  "text": "O plajă stâncoasă cu ape limpezi de-a lungul promenadei din Cavtat.",
+                  "category": "recreational",
+                  "coords": [
+                        18.21156,
+                        42.587183
+                  ]
+            },
+            {
+                  "name": "Južna Plaža",
+                  "text": "Pe partea de sud a golfului din Cavtat, această plajă publică vă invită la înot. Ambientul maritim atrage în special înotătorii aflați în căutarea unor momente liniștite pe coastă. Pentru a găsi un loc nederanjat la marginea apei, o vizită dimineața devreme este o idee excelentă.",
+                  "category": "recreational",
+                  "coords": [
+                        18.212979,
+                        42.578044
+                  ]
+            },
+            {
+                  "name": "Mala greda",
+                  "text": "O colină lângă Cavtat care oferă vederi asupra regiunii Konavle.",
+                  "category": "natural",
+                  "coords": [
+                        18.240279,
+                        42.568554
+                  ]
+            },
+            {
+                  "name": "Humak",
+                  "text": "Un vârf local situat în dealurile de deasupra orașului Cavtat.",
+                  "category": "natural",
+                  "coords": [
+                        18.242932,
+                        42.580458
+                  ]
+            },
+            {
+                  "name": "Općina Konavle",
+                  "text": "Općina Konavle este o comună în Cavtat, cunoscută pentru podgorii și arhitectură rurală.",
+                  "category": "landmark",
+                  "coords": [
+                        18.217133,
+                        42.580437
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Račić Family Mausoleum",
+                  "text": "A 1922 masterpiece by sculptor Ivan Meštrović, built entirely of white stone on the hilltop overlooking Cavtat.",
+                  "category": "monuments/statues",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/cavtat-mausoleum-der-familie-ra-i.webp",
+                  "coords": [
+                        18.213784,
+                        42.584739
+                  ]
+            },
+            {
+                  "name": "Bukovac House",
+                  "text": "The birthplace and museum of renowned painter Vlaho Bukovac, featuring his early works and original artist studio.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/cavtat-haus-bukovac.webp",
+                  "coords": [
+                        18.216933,
+                        42.58314
+                  ]
+            },
+            {
+                  "name": "Church of St. Nicholas",
+                  "text": "15th-century parish church in the heart of the town, housing works by Vlaho Bukovac and other notable local artists.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/cavtat-kirche-st-nikolaus.webp",
+                  "coords": [
+                        18.217247,
+                        42.581422
+                  ]
+            },
+            {
+                  "name": "Franciscan Monastery of Our Lady of Snow",
+                  "text": "15th-century religious complex featuring a serene cloister and fine Renaissance paintings, located near the harbor.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/cavtat-franziskanerkloster-maria-im-schnee.webp",
+                  "coords": [
+                        18.214466,
+                        42.583495
+                  ]
+            },
+            {
+                  "name": "Waterfront Promenade",
+                  "text": "A scenic palm-lined walkway along the harbor, offering beautiful views of the Adriatic sea and nearby Dubrovnik.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/cavtat-uferpromenade-von-cavtat.webp",
+                  "coords": [
+                        18.214466,
+                        42.583495
+                  ]
+            },
+            {
+                  "name": "Ključiće",
+                  "text": "A quiet pebble beach in Cavtat, surrounded by Mediterranean vegetation.",
+                  "category": "recreational",
+                  "coords": [
+                        18.213512,
+                        42.586446
+                  ]
+            },
+            {
+                  "name": "Sustjepan Plaža",
+                  "text": "Stretched near the Sustjepan peninsula, this beautiful coastal segment lies in Cavtat. Visitors can expect a tranquil atmosphere that is perfect for swimming and coastal strolls. The bay truly reveals its full charm in the late afternoon light.",
+                  "category": "recreational",
+                  "coords": [
+                        18.213197,
+                        42.580059
+                  ]
+            },
+            {
+                  "name": "Gradska Plaža",
+                  "text": "Serving as Cavtat's central town beach, this spot enjoys immense popularity among visitors. Its easy accessibility and lively buzz make it a perfect gathering place for families. It is a wonderful location to soak up the town's maritime flair without any detours.",
+                  "category": "recreational",
+                  "coords": [
+                        18.220706,
+                        42.581562
+                  ]
+            },
+            {
+                  "name": "Žal",
+                  "text": "A spacious beach in Cavtat with clear water and various leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        18.224772,
+                        42.58542
+                  ]
+            },
+            {
+                  "name": "Nudist beach",
+                  "text": "Tucked away in the surroundings of Cavtat, this secluded beach stretch provides absolute peace for naturists. Far from the crowds, visitors can experience nature undisturbed while sunbathing and swimming. Bringing some snacks and plenty of water is highly recommended for the stay.",
+                  "category": "recreational",
+                  "coords": [
+                        18.226059,
+                        42.594587
+                  ]
+            },
+            {
+                  "name": "FKK Nudist Beach",
+                  "text": "This officially designated FKK area near Cavtat caters to those who appreciate swimming close to nature. Its relaxed atmosphere attracts vacationers aiming to experience the sea away from the hustle and bustle. Sturdy footwear might be useful for navigating the access points.",
+                  "category": "recreational",
+                  "coords": [
+                        18.224088,
+                        42.593302
+                  ]
+            },
+            {
+                  "name": "Obod Plaža",
+                  "text": "Situated in the Obod neighborhood, this local beach promises a relaxing swimming experience near Cavtat. The quiet atmosphere makes it a wonderful choice for extensive dips in the sea. It serves as an excellent retreat for leisurely afternoons away from the main bustling beaches.",
+                  "category": "recreational",
+                  "coords": [
+                        18.226969,
+                        42.589788
+                  ]
+            },
+            {
+                  "name": "Rat",
+                  "text": "A popular pebble beach located at the tip of the Sustjepan peninsula in Cavtat.",
+                  "category": "recreational",
+                  "coords": [
+                        18.215392,
+                        42.585913
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "FKK nudist beach – a pebble beach on the coast of Cavtat.",
+                  "category": "recreational",
+                  "coords": [
+                        18.209664,
+                        42.581065
+                  ]
+            },
+            {
+                  "name": "Kamen Mali",
+                  "text": "A rocky beach with clear water along the coastal promenade of Cavtat.",
+                  "category": "recreational",
+                  "coords": [
+                        18.21156,
+                        42.587183
+                  ]
+            },
+            {
+                  "name": "Južna Plaža",
+                  "text": "Located on the southern side of Cavtat's bay, this public beach is an inviting spot for swimming. Its maritime ambiance predominantly attracts bathers looking for quiet moments on the coast. Visiting in the early morning is highly recommended to secure an undisturbed spot by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        18.212979,
+                        42.578044
+                  ]
+            },
+            {
+                  "name": "Mala greda",
+                  "text": "A hill near Cavtat offering views over the Konavle region.",
+                  "category": "natural",
+                  "coords": [
+                        18.240279,
+                        42.568554
+                  ]
+            },
+            {
+                  "name": "Humak",
+                  "text": "A local peak situated in the hills above the town of Cavtat.",
+                  "category": "natural",
+                  "coords": [
+                        18.242932,
+                        42.580458
+                  ]
+            },
+            {
+                  "name": "Općina Konavle",
+                  "text": "Općina Konavle is a municipality in Cavtat, known for its vineyards and rural architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        18.217133,
+                        42.580437
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Ključiće",
+                  "text": "Mirna šljunčana plaža u Cavtatu, okružena mediteranskim raslinjem.",
+                  "category": "recreational",
+                  "coords": [
+                        18.213512,
+                        42.586446
+                  ]
+            },
+            {
+                  "name": "Sustjepan Plaža",
+                  "text": "Lijepa obalna zona smještena u blizini poluotoka Sustjepan u Cavtatu.",
+                  "category": "recreational",
+                  "coords": [
+                        18.213197,
+                        42.580059
+                  ]
+            },
+            {
+                  "name": "Gradska Plaža",
+                  "text": "Glavna gradska plaža u Cavtatu, lako dostupna i popularna među posjetiteljima.",
+                  "category": "recreational",
+                  "coords": [
+                        18.220706,
+                        42.581562
+                  ]
+            },
+            {
+                  "name": "Žal",
+                  "text": "Prostrana plaža Žal u Cavtatu s čistim morem i raznim sadržajima za rekreaciju.",
+                  "category": "recreational",
+                  "coords": [
+                        18.224772,
+                        42.58542
+                  ]
+            },
+            {
+                  "name": "Nudist beach",
+                  "text": "Osamljeni dio obale namijenjen nudistima u okolici Cavtata.",
+                  "category": "recreational",
+                  "coords": [
+                        18.226059,
+                        42.594587
+                  ]
+            },
+            {
+                  "name": "FKK Nudist Beach",
+                  "text": "Službeno označena FKK plaža za naturiste u blizini Cavtata.",
+                  "category": "recreational",
+                  "coords": [
+                        18.224088,
+                        42.593302
+                  ]
+            },
+            {
+                  "name": "Obod Plaža",
+                  "text": "Lokalna plaža u naselju Obod, idealna za opušteno kupanje u blizini Cavtata.",
+                  "category": "recreational",
+                  "coords": [
+                        18.226969,
+                        42.589788
+                  ]
+            },
+            {
+                  "name": "Rat",
+                  "text": "Popularna šljunčana plaža na vrhu poluotoka Sustjepan u Cavtatu.",
+                  "category": "recreational",
+                  "coords": [
+                        18.215392,
+                        42.585913
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "Mirna nudistička plaža smještena u blizini Cavtata.",
+                  "category": "recreational",
+                  "coords": [
+                        18.209664,
+                        42.581065
+                  ]
+            },
+            {
+                  "name": "Kamen Mali",
+                  "text": "Stjenovita plaža s čistim morem uz obalnu šetnicu u Cavtatu.",
+                  "category": "recreational",
+                  "coords": [
+                        18.21156,
+                        42.587183
+                  ]
+            },
+            {
+                  "name": "Južna Plaža",
+                  "text": "Javna plaža smještena na južnoj strani uvale u Cavtatu.",
+                  "category": "recreational",
+                  "coords": [
+                        18.212979,
+                        42.578044
+                  ]
+            },
+            {
+                  "name": "Mala greda",
+                  "text": "Uzvisina kod Cavtata s koje se pruža pogled na okolicu Konavala.",
+                  "category": "natural",
+                  "coords": [
+                        18.240279,
+                        42.568554
+                  ]
+            },
+            {
+                  "name": "Humak",
+                  "text": "Lokalni vrh smješten u brdima iznad Cavtata.",
+                  "category": "natural",
+                  "coords": [
+                        18.242932,
+                        42.580458
+                  ]
+            },
+            {
+                  "name": "Općina Konavle",
+                  "text": "Sjedište općine Konavle koje se nalazi u povijesnoj jezgri Cavtata.",
+                  "category": "landmark",
+                  "coords": [
+                        18.217133,
+                        42.580437
+                  ]
+            }
+      ]
+}},
+  {"id": "cres", "type": "city", "parent": "HR-08", "coords": [14.4083, 44.9583], "population": 2880, "tier": 2, "name": {"de": "Cres", "hu": "Cres", "ro": "Cres", "en": "Cres"}, "description": {"de": "Die Inselstadt Cres besticht durch ihre engen mittelalterlichen Gassen und den zentralen Platz mit der venezianischen Loggia. Sie ist bekannt für ihre ökologische Vielfalt und die Bewahrung jahrhundertealter Traditionen.", "hu": "Cres szigetvárosa szűk középkori utcáival és a velencei loggiával díszített központi terével tűnik ki. Különleges ökológiai sokszínűségéről és az évszázados hagyományok, például a juhászat megőrzéséről ismert.", "ro": "Orașul insular Cres se remarcă prin străzile sale medievale înguste și piața centrală decorată cu o lojă venețiană. Este cunoscut pentru diversitatea sa ecologică și păstrarea tradițiilor de secole.", "en": "The island town of Cres stands out with its narrow medieval streets and central square decorated with a Venetian loggia. It is known for its ecological diversity and the preservation of centuries-old traditions."}, "facts": {"de": ["Bevölkerung: 2880 Einwohner", "Region: Gespanschaft Primorje-Gorski Kotar", "Antiker Name: Res Publica Crepsa", "Wahrzeichen: Venezianischer Uhrturm aus dem 16. Jh.", "Natur: Heimat seltener Gänsegeier", "Architektur: Drei erhaltene mittelalterliche Stadttore", "Wirtschaft: Berühmt für hochwertiges Olivenöl", "Geografie: Nahe dem Süßwassersee Vrana gelegen"], "hu": ["Lakosok száma: 2880 fő", "Régió: Tengermelléki-Hegyvidéki megye", "Ókori név: Res Publica Crepsa", "Jellegzetesség: 16. századi velencei óratorony", "Természet: Ritka fakó keselyűk fészkelőhelye", "Építészet: Három épségben maradt városkapu", "Gazdaság: Kiváló minőségű olívaolajáról híres", "Földrajz: A Vrana-édesvízi tó közelében fekszik"], "ro": ["Populație: 2880 de locuitori", "Regiune: Județul Primorje-Gorski Kotar", "Nume antic: Res Publica Crepsa", "Simbol: Turnul cu ceas venețian din sec. XVI", "Natură: Habitat al rari vulturi pleșuvi suri", "Arhitectură: Trei porți medievale conservate", "Economie: Renumit pentru uleiul de măsline de calitate", "Geografie: Situat lângă lacul cu apă dulce Vrana"], "en": ["Population: 2,880 residents", "Region: Primorje-Gorski Kotar County", "Ancient name: Res Publica Crepsa", "Landmark: 16th-century Venetian clock tower", "Nature: Home to rare griffon vultures", "Architecture: Three preserved medieval city gates", "Economy: Famous for high-quality olive oil", "Geography: Located near the freshwater Lake Vrana"]}, "image": "/poi-images/cres.webp", "imageHint": "Venetian clock tower and harbor in Cres old town", "descriptionAdvanced": {"de": "Cres ist das administrative und kulturelle Zentrum der gleichnamigen Insel, der größten in der Adria. Die Stadt blickt auf eine bewegte Geschichte zurück, die bis in die Römerzeit als Res Publica Crepsa reicht, doch ihr heutiges Erscheinungsbild wurde maßgeblich durch die Jahrhunderte unter venezianischer Herrschaft geprägt. Der historische Kern ist ein Labyrinth aus engen Gassen, in denen sich Renaissance-Paläste und kleine Fischerhäuser abwechseln. Besonders sehenswert ist der zentrale Hafenplatz, wo die Loggia aus dem 16. Jahrhundert einst als Gericht und Marktplatz diente. Abseits der Architektur ist Cres für seine Bemühungen zum Schutz des Gänsegeiers weltberühmt; das nahegelegene Beli-Besucherzentrum widmet sich dem Erhalt dieser majestätischen Vögel. Die lokale Kulinarik wird von der Schafzucht dominiert, wobei Lammfleisch und Kräuterliköre zu den Spezialitäten gehören. Cres hat sich seinen authentischen Charme bewahrt und ist ein idealer Ort für Reisende, die Ruhe und unberührte Natur suchen.", "hu": "Cres az Adria legnagyobb szigetének közigazgatási és kulturális központja. A város történelme a római korig nyúlik vissza, amikor Res Publica Crepsa néven ismerték, de mai arculatát leginkább a több évszázados velencei uralom határozta meg. A történelmi mag szűk utcák labirintusa, ahol reneszánsz paloták és apró halászházak váltják egymást. Különösen látványos a központi kikötői tér, ahol a 16. századi loggia egykor törvényszékként és piacként szolgált. Az építészeti örökség mellett Cres a fakó keselyűk védelmében tett erőfeszítéseiről is világhírű; a közeli Beli látogatóközpont e fenséges madarak megőrzésével foglalkozik. A helyi gasztronómiát a juhászat dominálja, a bárányhús és a gyógynövénypárlatok a legfőbb specialitások közé tartoznak. Cres megőrizte hiteles báját, így ideális úti cél azok számára, akik a nyugalmat és az érintetlen természetet keresik.", "ro": "Cres este centrul administrativ și cultural al insulei cu același nume, cea mai mare din Marea Adriatică. Orașul are o istorie bogată care datează din epoca romană sub numele de Res Publica Crepsa, dar aspectul său actual a fost influențat semnificativ de secolele de dominație venețiană. Nucleul istoric este un labirint de străzi înguste, unde palatele renascentiste și micile case pescărești alternează. Deosebit de spectaculoasă este piața centrală din port, unde loja din secolul al XVI-lea servea cândva drept tribunal și piață. Pe lângă arhitectură, Cres este faimos în întreaga lume pentru eforturile sale de protejare a vulturului pleșuv sur; centrul pentru vizitatori din Beli se dedică conservării acestor păsări maiestuoase. Gastronomia locală este dominată de creșterea oilor, carnea de miel și lichiorurile de plante fiind printre specialități. Cres și-a păstrat farmecul autentic, fiind o destinație ideală pentru călătorii care caută liniște și natură neatinsă.", "en": "Cres is the administrative and cultural center of the island of the same name, the largest in the Adriatic. The town's history dates back to Roman times as Res Publica Crepsa, but its current appearance was significantly shaped by centuries of Venetian rule. The historic core is a labyrinth of narrow streets where Renaissance palaces and small fisherman's houses alternate. The central harbor square is particularly noteworthy, where the 16th-century loggia once served as a courtroom and marketplace. Beyond architecture, Cres is world-famous for its efforts to protect the griffon vulture; the nearby Beli visitor center is dedicated to the conservation of these majestic birds. Local gastronomy is dominated by sheep farming, with lamb meat and herbal liqueurs being among the specialties. Cres has preserved its authentic charm, making it an ideal destination for travelers seeking peace and untouched nature."}, "factsAdvanced": {"de": ["Im 16. Jahrhundert war Cres ein wichtiges Zentrum des Glagolismus, der ältesten slawischen Schrift.", "Der nahegelegene Vrana-See ist ein Naturphänomen, dessen Boden tiefer als der Meeresspiegel liegt.", "Die venezianische Stadtmauer besaß ursprünglich fünf Tore, von denen drei noch heute stehen.", "Cres ist einer der wenigen Orte weltweit, an denen Gänsegeier direkt über dem Meer nisten.", "Das städtische Museum ist im Arsan-Palast untergebracht, dem Geburtshaus des Philosophen Petrić.", "Die Stadt erhielt 1459 den Status eines Verwaltungszentrums und löste damit Osor ab."], "hu": ["A 16. században Cres a glagolita írás, a legrégebbi szláv írásmód egyik fontos központja volt.", "A közeli Vrana-tó természeti jelenség, melynek medre mélyebben fekszik a tenger szintjénél.", "A velencei városfalnak eredetileg öt kapuja volt, ebből három ma is épségben látható.", "Cres azon kevés helyek egyike, ahol a fakó keselyűk közvetlenül a tenger felett fészkelnek.", "A városi múzeum az Arsan-palotában kapott helyet, amely Petrić filozófus szülőháza volt.", "A város 1459-ben kapta meg a közigazgatási központ státuszát, felváltva ezzel Osor városát."], "ro": ["În secolul al XVI-lea, Cres a fost un centru important al glagolitismului, cea mai veche scriere slavă.", "Lacul Vrana din apropiere este un fenomen natural, fundul său fiind mai jos decât nivelul mării.", "Zidul venețian al orașului avea inițial cinci porți, dintre care trei mai stau și astăzi în picioare.", "Cres este unul dintre puținele locuri din lume unde vulturii pleșuvi suri cuibăresc direct deasupra mării.", "Muzeul orașului este găzduit în Palatul Arsan, casa natală a filozofului Frane Petrić.", "Orașul a primit statutul de centru administrativ în 1459, înlocuind astfel localitatea Osor."], "en": ["In the 16th century, Cres was an important center of Glagolitism, the oldest known Slavic script.", "Nearby Lake Vrana is a natural phenomenon, with its bottom lying deeper than the sea level.", "The Venetian city walls originally had five gates, three of which are still standing today.", "Cres is one of the few places worldwide where griffon vultures nest directly above the sea.", "The municipal museum is housed in the Arsan Palace, the birthplace of the philosopher Petrić.", "The town gained its status as an administrative center in 1459, replacing the town of Osor."]}, "sights": {
+      "de": [
+            {
+                  "name": "Uferpromenade Riva",
+                  "text": "Die lebendige Hafenmeile von Cres, gesäumt von bunten Häuserfassaden, Fischerbooten und gemütlichen Cafés direkt am Wasser.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/cres-uferpromenade-riva.webp",
+                  "coords": [
+                        14.408671,
+                        44.959228
+                  ]
+            },
+            {
+                  "name": "Stara Gavza",
+                  "text": "Ein Kies- und Felsstrand in der gleichnamigen Feriensiedlung auf der Insel Cres.",
+                  "category": "recreational",
+                  "coords": [
+                        14.39213,
+                        44.969158
+                  ]
+            },
+            {
+                  "name": "Crkvica Sv. Šimuna",
+                  "text": "St. Simon Chapel – eine kleine Kapelle aus dem 15. Jahrhundert in der Altstadt von Cres.",
+                  "category": "historical",
+                  "coords": [
+                        14.398977,
+                        44.968995
+                  ]
+            },
+            {
+                  "name": "Kaštel",
+                  "text": "Kaštel – eine venezianische Festung aus dem 16. Jahrhundert über dem Hafen von Cres.",
+                  "category": "historical",
+                  "coords": [
+                        14.395432,
+                        44.976527
+                  ]
+            },
+            {
+                  "name": "Zdovice",
+                  "text": "Ein malerischer Kieselstrand in der Bucht von Valun auf der Insel Cres.",
+                  "category": "recreational",
+                  "coords": [
+                        14.363645,
+                        44.903171
+                  ]
+            },
+            {
+                  "name": "Grabrovica beach",
+                  "text": "Auf der Insel Cres verbirgt sich dieser abgelegene Kiesstrand, der hauptsächlich mit dem Boot angesteuert wird. Wer die Anreise auf sich nimmt, wird mit friedlicher Abgeschiedenheit am Meer belohnt. Die Mitnahme eigener Verpflegung ist für dieses kleine Abenteuer unerlässlich.",
+                  "category": "recreational",
+                  "coords": [
+                        14.309508,
+                        44.941458
+                  ]
+            },
+            {
+                  "name": "Sv. Blaž",
+                  "text": "Dieser malerische Kiesstrand unterhalb des Dorfes Lubenice bietet einen weiten Blick auf die Adria.",
+                  "category": "recreational",
+                  "coords": [
+                        14.351019,
+                        45.006569
+                  ]
+            },
+            {
+                  "name": "Plaža Krušćica",
+                  "text": "In einer geschützten Bucht der Insel Cres liegt dieser kleine, versteckte Kiesstrand verborgen. Badegäste finden hier eine Oase der Ruhe, ideal für entspannte Stunden beim Rauschen der Wellen. Um die naturbelassene Küste ausgiebig zu genießen, packt man am besten Badeschuhe ein.",
+                  "category": "recreational",
+                  "coords": [
+                        14.461084,
+                        44.952577
+                  ]
+            },
+            {
+                  "name": "Plaža Banja",
+                  "text": "Dank seiner Nähe zum Zentrum von Cres ist dieser stadtnahe Kiesstrand eine beliebte Wahl für spontane Badegäste. Die Lage sorgt für eine lebendige Stimmung, die zu einer schnellen Erfrischung einlädt. Ein kurzer Sprung ins klare Wasser lässt sich hier bestens in den Urlaubstag integrieren.",
+                  "category": "recreational",
+                  "coords": [
+                        14.461571,
+                        44.940378
+                  ]
+            },
+            {
+                  "name": "Arcić",
+                  "text": "Ein kleiner Badestrand in der Nähe von Martinšćica an der Westküste der Insel Cres.",
+                  "category": "recreational",
+                  "coords": [
+                        14.457008,
+                        44.926042
+                  ]
+            },
+            {
+                  "name": "Zela beach",
+                  "text": "Bei Martinšćica erstreckt sich dieser ruhige Strandabschnitt, der für sein klares Wasser geschätzt wird. Sonnenanbeter und Schwimmer treffen sich hier, um die natürliche Stille der Küste zu erleben. Ein Besuch verspricht Erholung pur, besonders in den milderen Morgenstunden.",
+                  "category": "recreational",
+                  "coords": [
+                        14.455314,
+                        44.921308
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cres-i partmenti sétány",
+                  "text": "A kikötő mentén húzódó színes házsorok és halászhajók alkotta festői sétány, ahol számos hangulatos kávézó várja a látogatókat.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/cres-uferpromenade-riva.webp",
+                  "coords": [
+                        14.408671,
+                        44.959228
+                  ]
+            },
+            {
+                  "name": "Stara Gavza",
+                  "text": "Kavicsos és sziklás strand az azonos nevű üdülőtelepen, Cres szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.39213,
+                        44.969158
+                  ]
+            },
+            {
+                  "name": "Crkvica Sv. Šimuna",
+                  "text": "Szent Simon-kápolna – egy 15. századi kápolna Cres óvárosában.",
+                  "category": "historical",
+                  "coords": [
+                        14.398977,
+                        44.968995
+                  ]
+            },
+            {
+                  "name": "Kaštel",
+                  "text": "Kaštel – egy 16. századi velencei erőd Cres kikötője fölött.",
+                  "category": "historical",
+                  "coords": [
+                        14.395432,
+                        44.976527
+                  ]
+            },
+            {
+                  "name": "Zdovice",
+                  "text": "Festői kavicsos strand a Valun-öbölben, Cres szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.363645,
+                        44.903171
+                  ]
+            },
+            {
+                  "name": "Grabrovica beach",
+                  "text": "Cres szigetén bújik meg ez a félreeső kavicsos strand, amelyet elsősorban hajóval lehet megközelíteni. Aki vállalja az utazást, azt békés elszigeteltség jutalmazza a tengernél. A saját étel és ital biztosítása elengedhetetlen ehhez a kis tengerparti kalandhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        14.309508,
+                        44.941458
+                  ]
+            },
+            {
+                  "name": "Sv. Blaž",
+                  "text": "Ez a festői kavicsos strand Lubenice falu alatt található, kilátással az Adriai-tengerre.",
+                  "category": "recreational",
+                  "coords": [
+                        14.351019,
+                        45.006569
+                  ]
+            },
+            {
+                  "name": "Plaža Krušćica",
+                  "text": "Cres szigetének egy védett öblében rejtőzik ez a kicsi, rejtett kavicsos strand. A fürdőzők itt a béke oázisát találják, amely ideális a hullámok zúgása melletti pihenéshez. A természetes part maradéktalan élvezetéhez érdemes fürdőcipőt is csomagolni.",
+                  "category": "recreational",
+                  "coords": [
+                        14.461084,
+                        44.952577
+                  ]
+            },
+            {
+                  "name": "Plaža Banja",
+                  "text": "A cresi központhoz való közelsége miatt ez a városi kavicsos strand a spontán fürdőzők kedvelt választása. Az elhelyezkedés nyüzsgő hangulatot biztosít, amely egy gyors felfrissülésre csábít. A tiszta vízben való fürdőzést itt nagyszerűen be lehet építeni a nyaralás napjába.",
+                  "category": "recreational",
+                  "coords": [
+                        14.461571,
+                        44.940378
+                  ]
+            },
+            {
+                  "name": "Arcić",
+                  "text": "Kis fürdőhely Martinšćica közelében, Cres szigetének nyugati partján.",
+                  "category": "recreational",
+                  "coords": [
+                        14.457008,
+                        44.926042
+                  ]
+            },
+            {
+                  "name": "Zela beach",
+                  "text": "Martinšćica mellett húzódik ez a csendes partszakasz, amelyet a tiszta vizéért értékelnek. Napimádók és úszók találkoznak itt, hogy megtapasztalják a part természetes nyugalmát. Egy itteni látogatás tiszta kikapcsolódást ígér, különösen az enyhébb reggeli órákban.",
+                  "category": "recreational",
+                  "coords": [
+                        14.455314,
+                        44.921308
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Promenada Riva",
+                  "text": "Faleza pitorească din Cres, mărginită de clădiri colorate și bărci de pescuit, oferind o atmosferă mediteraneană autentică.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/cres-uferpromenade-riva.webp",
+                  "coords": [
+                        14.408671,
+                        44.959228
+                  ]
+            },
+            {
+                  "name": "Stara Gavza",
+                  "text": "O plajă cu prundis și stânci aflată în așezarea turistică omonimă de pe insula Cres.",
+                  "category": "recreational",
+                  "coords": [
+                        14.39213,
+                        44.969158
+                  ]
+            },
+            {
+                  "name": "Crkvica Sv. Šimuna",
+                  "text": "Capela Sf. Simon – o capelă din secolul al XV-lea în centrul vechi al orașului Cres.",
+                  "category": "historical",
+                  "coords": [
+                        14.398977,
+                        44.968995
+                  ]
+            },
+            {
+                  "name": "Kaštel",
+                  "text": "Kaštel – o fortăreață venețiană din secolul al XVI-lea deasupra portului Cres.",
+                  "category": "historical",
+                  "coords": [
+                        14.395432,
+                        44.976527
+                  ]
+            },
+            {
+                  "name": "Zdovice",
+                  "text": "O plajă pitorească cu pietriș în golful Valun de pe insula Cres.",
+                  "category": "recreational",
+                  "coords": [
+                        14.363645,
+                        44.903171
+                  ]
+            },
+            {
+                  "name": "Grabrovica beach",
+                  "text": "Această plajă izolată de pietriș se ascunde pe insula Cres și este accesibilă în principal cu barca. Cei care fac efortul de a ajunge aici sunt răsplătiți cu o izolare pașnică la mare. Aducerea propriilor provizii este esențială pentru această mică aventură de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        14.309508,
+                        44.941458
+                  ]
+            },
+            {
+                  "name": "Sv. Blaž",
+                  "text": "Această plajă pitorească cu pietriș de sub satul Lubenice oferă o vedere largă spre Marea Adriatică.",
+                  "category": "recreational",
+                  "coords": [
+                        14.351019,
+                        45.006569
+                  ]
+            },
+            {
+                  "name": "Plaža Krušćica",
+                  "text": "Într-un golf protejat de pe insula Cres se ascunde această mică plajă de pietriș. Vizitatorii găsesc aici o oază de liniște, ideală pentru ore de relaxare în sunetul valurilor. Pentru a vă bucura pe deplin de coasta naturală, este bine să aveți la voi încălțăminte de apă.",
+                  "category": "recreational",
+                  "coords": [
+                        14.461084,
+                        44.952577
+                  ]
+            },
+            {
+                  "name": "Plaža Banja",
+                  "text": "Datorită apropierii sale de centrul orașului Cres, această plajă urbană de pietriș este o alegere populară pentru înotătorii spontani. Locația asigură o atmosferă plină de viață, care invită la o răcorire rapidă. Aici, o baie scurtă în apa limpede poate fi integrată perfect în ziua de vacanță.",
+                  "category": "recreational",
+                  "coords": [
+                        14.461571,
+                        44.940378
+                  ]
+            },
+            {
+                  "name": "Arcić",
+                  "text": "O plajă mică situată lângă Martinšćica, pe coasta de vest a insulei Cres.",
+                  "category": "recreational",
+                  "coords": [
+                        14.457008,
+                        44.926042
+                  ]
+            },
+            {
+                  "name": "Zela beach",
+                  "text": "Lângă Martinšćica se află această porțiune liniștită de plajă, apreciată pentru apa sa limpede. Iubitorii de soare și înotătorii se întâlnesc aici pentru a experimenta liniștea naturală a coastei. O vizită promite relaxare pură, mai ales în orele mai blânde ale dimineții.",
+                  "category": "recreational",
+                  "coords": [
+                        14.455314,
+                        44.921308
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cres Waterfront Riva",
+                  "text": "The scenic harbor walk lined with colorful houses and fishing boats, featuring numerous cafes and a vibrant local atmosphere.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/cres-uferpromenade-riva.webp",
+                  "coords": [
+                        14.408671,
+                        44.959228
+                  ]
+            },
+            {
+                  "name": "Stara Gavza",
+                  "text": "A pebble and rocky beach located in the tourist settlement of the same name on Cres.",
+                  "category": "recreational",
+                  "coords": [
+                        14.39213,
+                        44.969158
+                  ]
+            },
+            {
+                  "name": "St. Simon Chapel",
+                  "text": "St. Simon Chapel – a 15th-century chapel in the old town of Cres.",
+                  "category": "historical",
+                  "coords": [
+                        14.398977,
+                        44.968995
+                  ]
+            },
+            {
+                  "name": "Kaštel",
+                  "text": "Kaštel – a 16th-century Venetian fortress overlooking the harbour of Cres.",
+                  "category": "historical",
+                  "coords": [
+                        14.395432,
+                        44.976527
+                  ]
+            },
+            {
+                  "name": "Zdovice",
+                  "text": "A scenic pebble beach located in the Valun bay on the island of Cres.",
+                  "category": "recreational",
+                  "coords": [
+                        14.363645,
+                        44.903171
+                  ]
+            },
+            {
+                  "name": "Grabrovica beach",
+                  "text": "Hidden on the island of Cres, this secluded pebble beach is primarily reached by boat. Those who make the journey are rewarded with peaceful isolation by the sea. Bringing your own provisions is essential for this coastal adventure.",
+                  "category": "recreational",
+                  "coords": [
+                        14.309508,
+                        44.941458
+                  ]
+            },
+            {
+                  "name": "Sv. Blaž",
+                  "text": "This picturesque pebble beach below Lubenice village offers a wide view of the Adriatic.",
+                  "category": "recreational",
+                  "coords": [
+                        14.351019,
+                        45.006569
+                  ]
+            },
+            {
+                  "name": "Plaža Krušćica",
+                  "text": "Tucked inside a protected bay on the island of Cres, this small, hidden pebble beach awaits. Swimmers will find an oasis of calm here, perfect for spending relaxing hours listening to the waves. Packing water shoes is highly recommended to fully enjoy the natural coastline.",
+                  "category": "recreational",
+                  "coords": [
+                        14.461084,
+                        44.952577
+                  ]
+            },
+            {
+                  "name": "Plaža Banja",
+                  "text": "Thanks to its proximity to the center of Cres, this urban pebble beach is a popular choice for spontaneous swimmers. The location provides a lively vibe that invites a quick refreshment. A short dip in the clear waters is easily added to any holiday itinerary.",
+                  "category": "recreational",
+                  "coords": [
+                        14.461571,
+                        44.940378
+                  ]
+            },
+            {
+                  "name": "Arcić",
+                  "text": "A small bathing beach located near Martinšćica on the west coast of Cres island.",
+                  "category": "recreational",
+                  "coords": [
+                        14.457008,
+                        44.926042
+                  ]
+            },
+            {
+                  "name": "Zela beach",
+                  "text": "Located near Martinšćica, this quiet stretch of beach is highly regarded for its clear waters. Sunbathers and swimmers gather here to experience the natural quiet of the coastline. A visit promises pure relaxation, particularly during the milder morning hours.",
+                  "category": "recreational",
+                  "coords": [
+                        14.455314,
+                        44.921308
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Stara Gavza",
+                  "text": "Šljunčana i stjenovita plaža u istoimenom turističkom naselju na otoku Cresu.",
+                  "category": "recreational",
+                  "coords": [
+                        14.39213,
+                        44.969158
+                  ]
+            },
+            {
+                  "name": "St. Simon Chapel",
+                  "text": "Ostaci srednjovjekovne kapele koji se nalaze u okolici grada Cresa.",
+                  "category": "historical",
+                  "coords": [
+                        14.398977,
+                        44.968995
+                  ]
+            },
+            {
+                  "name": "Kaštel",
+                  "text": "Ostaci mletačkih utvrda smješteni u gradu Cresu.",
+                  "category": "historical",
+                  "coords": [
+                        14.395432,
+                        44.976527
+                  ]
+            },
+            {
+                  "name": "Zdovice",
+                  "text": "Slikovita šljunčana plaža smještena u uvali Valun na otoku Cresu.",
+                  "category": "recreational",
+                  "coords": [
+                        14.363645,
+                        44.903171
+                  ]
+            },
+            {
+                  "name": "Grabrovica beach",
+                  "text": "Udaljena šljunčana plaža na otoku Cresu, dostupna uglavnom brodom.",
+                  "category": "recreational",
+                  "coords": [
+                        14.309508,
+                        44.941458
+                  ]
+            },
+            {
+                  "name": "Sv. Blaž",
+                  "text": "Slikovita šljunčana plaža ispod mjesta Lubenice s prekrasnim pogledom na more.",
+                  "category": "recreational",
+                  "coords": [
+                        14.351019,
+                        45.006569
+                  ]
+            },
+            {
+                  "name": "Plaža Krušćica",
+                  "text": "Mala, skrivena šljunčana plaža smještena u zaštićenoj uvali na obali Cresa.",
+                  "category": "recreational",
+                  "coords": [
+                        14.461084,
+                        44.952577
+                  ]
+            },
+            {
+                  "name": "Plaža Banja",
+                  "text": "Šljunčana plaža smještena u blizini centra grada Cresa, idealna za brzo osvježenje.",
+                  "category": "recreational",
+                  "coords": [
+                        14.461571,
+                        44.940378
+                  ]
+            },
+            {
+                  "name": "Arcić",
+                  "text": "Malo kupalište smješteno u blizini Martinšćice na zapadnoj obali otoka Cresa.",
+                  "category": "recreational",
+                  "coords": [
+                        14.457008,
+                        44.926042
+                  ]
+            },
+            {
+                  "name": "Zela beach",
+                  "text": "Miran dio plaže kod Martinšćice, poznat po čistom moru.",
+                  "category": "recreational",
+                  "coords": [
+                        14.455314,
+                        44.921308
+                  ]
+            }
+      ]
+}},
   {"id": "groznjan", "type": "city", "parent": "HR-18", "coords": [13.7128, 45.3722], "population": 727, "tier": 2, "name": {"de": "Grožnjan", "hu": "Grožnjan", "ro": "Grožnjan", "en": "Grožnjan"}, "description": {"de": "Grožnjan ist als die 'Stadt der Künstler' bekannt und thront malerisch auf einem Hügel in Istrien. Die mittelalterliche Stadt ist ein Zentrum für Musik, Kunst und Kultur mit über 60 Galerien und Ateliers.", "hu": "Grožnjan a 'művészek városa' néven ismert, és festői módon magasodik egy isztriai dombtetőn. A középközépkori városka a zene, a képzőművészet és a kultúra központja több mint 60 galériával és műteremmel.", "ro": "Grožnjan este cunoscut ca 'orașul artiștilor' și tronează pitoresc pe un deal din Istria. Orașul medieval este un centru pentru muzică, artă și cultură, având peste 60 de galerii și ateliere.", "en": "Grožnjan is known as the 'Town of Artists' and perches picturesquely on a hilltop in Istria. The medieval town is a center for music, art, and culture with over 60 galleries and studios."}, "facts": {"de": ["Bevölkerung: 727 Einwohner", "Region: Gespanschaft Istrien", "Beiname: Stadt der Künstler (Grad umjetnika)", "Kultur: Sitz des Internationalen Kulturzentrums der Musikjugend", "Event: Jazz is Back! Festival (jährlich im Juli)", "Lage: Auf einem 228 Meter hohen Hügel", "Architektur: Intakter mittelalterlicher Stadtkern", "Wirtschaft: Berühmt für hochwertiges Olivenöl und Wein"], "hu": ["Lakosok száma: 727 fő", "Régió: Isztria megye", "Melléknév: A művészek városa (Grad umjetnika)", "Kultúra: Az Ifjú Zenészek Nemzetközi Kulturális Központjának székhelye", "Esemény: Jazz is Back! fesztivál (minden júliusban)", "Fekvés: Egy 228 méter magas domb tetején", "Építészet: Érintetlen középkori városmag", "Gazdaság: Kiváló minőségű olívaolajáról és boráról híres"], "ro": ["Populație: 727 de locuitori", "Regiune: Județul Istria", "Poreclă: Orașul artiștilor (Grad umjetnika)", "Cultură: Sediul Centrului Cultural Internațional al Tineretului Muzical", "Eveniment: Festivalul Jazz is Back! (anual în iulie)", "Locație: Pe un deal cu înălțimea de 228 metri", "Arhitectură: Nucleu urban medieval intact", "Economie: Renumit pentru uleiul de măsline și vinul de calitate"], "en": ["Population: 727 residents", "Region: Istria County", "Nickname: Town of Artists (Grad umjetnika)", "Culture: Seat of the International Cultural Centre of Young Musicians", "Event: Jazz is Back! Festival (annually in July)", "Location: Atop a 228-meter-high hill", "Architecture: Intact medieval urban core", "Economy: Famous for high-quality olive oil and wine"]}, "image": "/poi-images/groznjan.webp", "imageHint": "Stone houses and art galleries in the streets of Grožnjan", "descriptionAdvanced": {"de": "Grožnjan, auf einem Hügel im Hinterland Istriens gelegen, ist ein faszinierendes Beispiel für kulturelle Wiederbelebung. In den 1960er Jahren drohte die mittelalterliche Stadt nach der Abwanderung der Bevölkerung zu verfallen, bis Künstler und Musiker die leeren Steinhäuser in Ateliers und Galerien verwandelten. Heute beherbergt die Stadt über 60 private Galerien und ist der Sitz des Internationalen Kulturzentrums der Musikjugend. Jeden Sommer verwandelt sich Grožnjan in eine riesige Bühne, wenn Musiker aus aller Welt hier proben und Konzerte geben, wobei das Festival 'Jazz is Back!' ein besonderer Höhepunkt ist. Die Architektur mit ihren kopfsteingepflasterten Gassen, Renaissance-Palästen und dem venezianischen Stadttor ist nahezu unberührt geblieben. Von den Mauern aus bietet sich ein atemberaubender Blick über das Mirna-Tal bis hin zum Meer. Grožnjan ist ein Ort, an dem die Stille des Mittelalters auf die lebendige Energie zeitgenössischer Kunst trifft.", "hu": "Grožnjan, az Isztria szívében fekvő dombtetői városka, a kulturális újjáéledés lenyűgöző példája. Az 1960-as években a középkori települést az elnéptelenedés után az összeomlás fenyegette, mígnem művészek és zenészek vették birtokba az üres kőházakat, műtermekké és galériákká alakítva azokat. Ma a város több mint 60 magángalériának ad otthont, és itt található az Ifjú Zenészek Nemzetközi Kulturális Központja is. Minden nyáron Grožnjan egy hatalmas szabadtéri színpaddá alakul, ahol a világ minden tájáról érkező zenészek gyakorolnak és koncerteznek; a 'Jazz is Back!' fesztivál különleges fénypontja az évnek. A macskaköves utcák, a reneszánsz paloták és a velencei városkapu szinte érintetlenül maradtak fenn. A falakról lélegzetelállító kilátás nyílik a Mirna-völgyre, egészen a tengerig. Grožnjan az a hely, ahol a középkor csendje találkozik a kortárs művészet lüktető energiájával.", "ro": "Grožnjan, situat pe un deal în interiorul Istriei, este un exemplu fascinant de revitalizare culturală. În anii 1960, orașul medieval amenința să se ruineze după exodul populației, până când artiștii și muzicienii au transformat casele de piatră goale în ateliere și galerii. Astăzi, orașul găzduiește peste 60 de galerii private și este sediul Centrului Cultural Internațional al Tineretului Muzical. În fiecare vară, Grožnjan se transformă într-o scenă uriașă, unde muzicieni din întreaga lume repetă și susțin concerte, festivalul 'Jazz is Back!' fiind un moment culminant deosebit. Arhitectura cu străzile sale pietruite, palatele renascentiste și poarta venețiană a orașului a rămas aproape neatinsă. De pe ziduri se oferă o vedere uluitoare peste valea Mirna până la mare. Grožnjan este un loc unde liniștea Evului Mediu se întâlnește cu energia vibrantă a artei contemporane.", "en": "Grožnjan, situated on a hill in the Istrian hinterland, is a fascinating example of cultural revival. In the 1960s, the medieval town was threatened with ruin following the exodus of its population, until artists and musicians transformed the empty stone houses into studios and galleries. Today, the town houses over 60 private galleries and is the seat of the International Cultural Centre of Young Musicians. Every summer, Grožnjan transforms into a giant stage as musicians from all over the world rehearse and perform here, with the 'Jazz is Back!' festival being a particular highlight. The architecture, with its cobblestone streets, Renaissance palaces, and Venetian city gate, has remained almost untouched. From the walls, there is a breathtaking view over the Mirna Valley all the way to the sea. Grožnjan is a place where the silence of the Middle Ages meets the vibrant energy of contemporary art."}, "factsAdvanced": {"de": ["Im Jahr 1965 wurde Grožnjan offiziell zur 'Stadt der Künstler' erklärt.", "Das Stadttor aus dem 15. Jh. besitzt noch immer ein funktionsfähiges Fallgatter.", "Die Renaissanceloggia aus dem Jahr 1587 diente früher als Gerichtssitz.", "Das 'Jazz is Back! BP Festival' wurde von dem legendären Musiker Boško Petrović gegründet.", "Grožnjan ist einer der wenigen Orte Istriens, in dem Italienisch noch als Amtssprache gilt.", "Die Stadt liegt an der ehemaligen Trasse der Parenzana-Bahn, die heute ein Radweg ist."], "hu": ["1965-ben Grožnjant hivatalosan is a 'művészek városává' nyilvánították.", "A 15. századi városkapu még ma is rendelkezik egy működőképes ejtőráccsal.", "Az 1587-ből származó reneszánsz loggia egykor törvényszéki székhelyként szolgált.", "A 'Jazz is Back! BP Festival' eseményt a legendás zenész, Boško Petrović alapította.", "Grožnjan Isztria azon kevés helyeinek egyike, ahol az olasz nyelv még hivatalos státuszú.", "A város a hajdani Parenzana vasútvonal mentén fekszik, amely ma népszerű kerékpárút."], "ro": ["În anul 1965, Grožnjan a fost declarat oficial 'oraș al artiștilor'.", "Poarta orașului din secolul al XV-lea are încă o hersă funcțională.", "Loja renascentistă din anul 1587 a servit în trecut ca sediu al tribunalului.", "Festivalul 'Jazz is Back! BP' a fost fondat de legendarul muzician Boško Petrović.", "Grožnjan este unul dintre puținele locuri din Istria unde italiana este încă limbă oficială.", "Orașul este situat pe fostul traseu al căii ferate Parenzana, care astăzi este pistă de biciclete."], "en": ["In 1965, Grožnjan was officially declared the 'Town of Artists'.", "The 15th-century city gate still features a functional portcullis.", "The Renaissance loggia from 1587 formerly served as a seat of the court.", "The 'Jazz is Back! BP Festival' was founded by the legendary musician Boško Petrović.", "Grožnjan is one of the few places in Istria where Italian is still an official language.", "The town is located on the former route of the Parenzana railway, now a cycling path."]}, "sights": {
       "de": [
             {
@@ -8573,7 +12866,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Studio Porton",
-                  "text": "Eine Kunstgalerie in der für ihre Künstler bekannten Stadt Grožnjan.",
+                  "text": "Studio Porton – ein Kunstmuseum in einem mittelalterlichen Steinhaus im Hügelort Grožnjan.",
                   "category": "museum",
                   "coords": [
                         13.721929,
@@ -8582,7 +12875,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Akumulacija vode",
-                  "text": "Das Wasserspeicherbecken in Groznjan.",
+                  "text": "Akumulacija vode – ein Wasserreservoir im Tal der Mirna bei Grožnjan.",
                   "category": "natural",
                   "coords": [
                         13.76491,
@@ -8615,7 +12908,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Studio Porton",
-                  "text": "Művészeti galéria Grožnjanban, a művészek városában.",
+                  "text": "Studio Porton – egy művészeti múzeum egy középkori kőházban Grožnjan dombtetőn fekvő városában.",
                   "category": "museum",
                   "coords": [
                         13.721929,
@@ -8624,7 +12917,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Akumulacija vode",
-                  "text": "Víztározó Groznjanban.",
+                  "text": "Akumulacija vode – egy víztározó a Mirna-völgyben Grožnjan közelében.",
                   "category": "natural",
                   "coords": [
                         13.76491,
@@ -8657,7 +12950,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Studio Porton",
-                  "text": "O galerie de artă situată în orașul artiștilor, Grožnjan.",
+                  "text": "Studio Porton – un muzeu de artă într-o casă de piatră medievală în orașul de deal Grožnjan.",
                   "category": "museum",
                   "coords": [
                         13.721929,
@@ -8666,7 +12959,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Akumulacija vode",
-                  "text": "Bazin de acumulare a apei în Groznjan.",
+                  "text": "Akumulacija vode – un rezervor de apă în valea râului Mirna lângă Grožnjan.",
                   "category": "natural",
                   "coords": [
                         13.76491,
@@ -8699,7 +12992,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Studio Porton",
-                  "text": "An art gallery located in the town of artists, Grožnjan.",
+                  "text": "Studio Porton – an art museum in a medieval stone house in the hilltop town of Grožnjan.",
                   "category": "museum",
                   "coords": [
                         13.721929,
@@ -8708,7 +13001,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Akumulacija vode",
-                  "text": "Water reservoir in Groznjan.",
+                  "text": "Akumulacija vode – a water reservoir in the Mirna River valley near Grožnjan.",
                   "category": "natural",
                   "coords": [
                         13.76491,
@@ -9828,7 +14121,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Akumulacija vode",
-                  "text": "Das Wasserspeicherbecken in Motovun.",
+                  "text": "Akumulacija vode – ein Wasserreservoir nahe der mittelalterlichen Stadt Motovun.",
                   "category": "natural",
                   "coords": [
                         13.76491,
@@ -9837,7 +14130,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Butoniga Jezero",
-                  "text": "Der Butoniga-See bei Motovun ist ein ruhiges Gewässer.",
+                  "text": "Butoniga Jezero – ein künstlicher See zur Bewässerung im zentralen Istrien bei Motovun.",
                   "category": "natural",
                   "coords": [
                         13.931472,
@@ -9921,7 +14214,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Akumulacija vode",
-                  "text": "Víztározó Motovunban.",
+                  "text": "Akumulacija vode – egy víztározó a középkori Motovun közelében.",
                   "category": "natural",
                   "coords": [
                         13.76491,
@@ -9930,7 +14223,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Butoniga Jezero",
-                  "text": "A motovuni Butoniga-tó egy csendes állóvíz.",
+                  "text": "Butoniga-jező – egy mesterséges tó öntözés céljából Közép-Istriában, Motovun közelében.",
                   "category": "natural",
                   "coords": [
                         13.931472,
@@ -10014,7 +14307,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Akumulacija vode",
-                  "text": "Bazin de acumulare a apei în Motovun.",
+                  "text": "Akumulacija vode – un rezervor de apă lângă orașul medieval Motovun.",
                   "category": "natural",
                   "coords": [
                         13.76491,
@@ -10023,7 +14316,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Butoniga Jezero",
-                  "text": "Lacul Butoniga de lângă Motovun este o apă liniștită.",
+                  "text": "Butoniga Jezero – un lac artificial pentru irigații în centrul Istriei, lângă Motovun.",
                   "category": "natural",
                   "coords": [
                         13.931472,
@@ -10107,7 +14400,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Akumulacija vode",
-                  "text": "Water reservoir in Motovun.",
+                  "text": "Akumulacija vode – a water reservoir near the medieval town of Motovun.",
                   "category": "natural",
                   "coords": [
                         13.76491,
@@ -10116,7 +14409,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Butoniga Jezero",
-                  "text": "Lake Butoniga near Motovun is a quiet body of water.",
+                  "text": "Butoniga Jezero – an artificial irrigation lake in central Istria near Motovun.",
                   "category": "natural",
                   "coords": [
                         13.931472,
@@ -10769,7 +15062,1092 @@ export const poiExtraHrV1: POI[] = [
       ]
 }},
   {"id": "ston", "type": "city", "parent": "HR-19", "coords": [17.69, 42.835], "population": 2407, "tier": 2, "name": {"de": "Ston", "hu": "Ston", "ro": "Ston", "en": "Ston"}, "description": {"de": "Ston ist weltberühmt für seine monumentale Stadtmauer, die längste Europas, und seine jahrhundertealten Salinen. Die Stadt am Anfang der Halbinsel Pelješac gilt zudem als kulinarisches Mekka für Austernliebhaber.", "hu": "Ston világhírű monumentális városfaláról, amely Európa leghosszabbja, és évszázados sólepárlóiról. A Pelješac-félsziget tövében fekvő város az osztrigakedvelők kulináris mekkája is.", "ro": "Ston este faimos în întreaga lume pentru zidul său monumental, cel mai lung din Europa, și salinele sale vechi de secole. Orașul de la baza peninsulei Pelješac este, de asemenea, o mecca culinară pentru iubitorii de stridii.", "en": "Ston is world-famous for its monumental city walls, the longest in Europe, and its centuries-old salt pans. The town at the base of the Pelješac peninsula is also a culinary mecca for oyster lovers."}, "facts": {"de": ["Bevölkerung: 2407 Einwohner", "Region: Gespanschaft Dubrovnik-Neretva", "Wahrzeichen: Stadtmauer von Ston (5,5 km Länge)", "Wirtschaft: Älteste aktive Salinen im Mittelmeerraum", "Kulinarik: Berühmt für die Austern aus Mali Ston", "Geschichte: Strategischer Außenposten der Republik Ragusa", "Architektur: Festung Kaštio und Koruna", "Religiös: Vorromanische Kirche des Hl. Michael"], "hu": ["Lakosok száma: 2407 fő", "Régió: Dubrovnik-Neretva megye", "Jellegzetesség: Stoni városfal (5,5 km hosszú)", "Gazdaság: A Földközi-tenger legrégebbi aktív sólepárlói", "Gasztronómia: A Mali Ston-i osztrigáról híres", "Történelem: A Raguzai Köztársaság stratégiai őrhelye", "Építészet: Kaštio és Koruna erődök", "Vallás: Szent Mihály templom (pre-román stílus)"], "ro": ["Populație: 2407 de locuitori", "Regiune: Județul Dubrovnik-Neretva", "Simbol: Zidul din Ston (lungime de 5,5 km)", "Economie: Cele mai vechi saline active din regiunea mediteraneană", "Gastronomie: Renumit pentru stridiile din Mali Ston", "Istorie: Avanpost strategic al Republicii Ragusa", "Arhitectură: Cetățile Kaštio și Koruna", "Religie: Biserica Sfântul Mihail (pre-romanică)"], "en": ["Population: 2,407 residents", "Region: Dubrovnik-Neretva County", "Landmark: Walls of Ston (5.5 km long)", "Economy: Oldest active salt pans in the Mediterranean", "Cuisine: Famous for Mali Ston oysters", "History: Strategic outpost of the Republic of Ragusa", "Architecture: Kaštio and Koruna fortresses", "Religious: Pre-Romanesque Church of St. Michael"]}, "image": "/poi-images/ston.webp", "imageHint": "Panoramic view of the Great Wall of Ston climbing the hill", "descriptionAdvanced": {"de": "Ston ist ein architektonisches und ingenieurtechnisches Wunderwerk am Eingang zur Halbinsel Pelješac. Die im 14. Jahrhundert von der Republik Ragusa (Dubrovnik) errichtete Befestigungsanlage sollte die wertvollen Salinen schützen, die das 'weiße Gold' für den Staat produzierten. Mit einer Gesamtlänge von 5,5 Kilometern gilt die Mauer von Ston als die längste Verteidigungsanlage in Europa und wird oft als die 'Europäische Chinesische Mauer' bezeichnet. Sie verbindet Ston mit dem kleineren Mali Ston, das für seine Austernzucht von Weltruf bekannt ist. Die Stadt selbst wurde nach einem strengen geometrischen Plan erbaut, was für die mittelalterliche Zeit außergewöhnlich war. Neben den Mauern und Salinen beherbergt Ston die Kirche des Heiligen Michael, die wertvolle Fresken aus dem 11. Jahrhundert bewahrt. Heute zieht Ston Besucher an, die die beeindruckende Geschichte erwandern und die frischesten Meeresfrüchte der Adria genießen möchten.", "hu": "Ston építészeti és mérnöki csoda a Pelješac-félsziget bejáratánál. A 14. században a Raguzai Köztársaság (Dubrovnik) által épített erődrendszer feladata az értékes sólepárlók védelme volt, amelyek az állam 'fehér aranyát' termelték. Az összesen 5,5 kilométer hosszú stoni falrendszert Európa leghosszabb védelmi vonalaként tartják számon, és gyakran az 'európai kínai falnak' nevezik. A fal összeköti Stont a kisebb Mali Stonnal, amely világhírű osztrigatenyésztéséről ismert. Maga a város szigorú mértani terv szerint épült, ami kivételes volt a középkorban. A falakon és a sólepárlókon kívül Ston ad otthont a Szent Mihály-templomnak, amely értékes 11. századi freskókat őriz. Ma Ston azokat a látogatókat vonzza, akik szeretnék bejárni a lenyűgöző történelmi falakat és megkóstolni az Adria legfrissebb tengeri gyümölcseit.", "ro": "Ston este o minune arhitecturală și inginerească la intrarea în peninsula Pelješac. Sistemul de fortificații construit în secolul al XIV-lea de Republica Ragusa (Dubrovnik) avea rolul de a proteja salinele valoroase care produceau 'aurul alb' pentru stat. Cu o lungime totală de 5,5 kilometri, zidul din Ston este considerat cel mai lung sistem de apărare din Europa și este adesea numit 'Zidul Chinezesc European'. Acesta leagă Ston de localitatea mai mică Mali Ston, renumită pentru cultura sa de stridii de renume mondial. Orașul în sine a fost construit după un plan geometric strict, fapt excepțional pentru perioada medievală. Pe lângă ziduri și saline, Ston găzduiește biserica Sfântul Mihail, care păstrează fresce valoroase din secolul al XI-lea. Astăzi, Ston atrage vizitatorii care doresc să exploreze istoria impresionantă la pas și să savureze cele mai proaspete fructe de mare de la Marea Adriatică.", "en": "Ston is an architectural and engineering marvel at the entrance to the Pelješac peninsula. The fortification system built in the 14th century by the Republic of Ragusa (Dubrovnik) was intended to protect the valuable salt pans that produced 'white gold' for the state. With a total length of 5.5 kilometers, the Wall of Ston is considered the longest defensive system in Europe and is often referred to as the 'European Great Wall of China'. It connects Ston with the smaller Mali Ston, famous for its world-class oyster farming. The town itself was built according to a strict geometric plan, which was exceptional for medieval times. Besides the walls and salt pans, Ston is home to the Church of St. Michael, which preserves valuable 11th-century frescoes. Today, Ston attracts visitors who want to hike the impressive history and enjoy the freshest seafood in the Adriatic."}, "factsAdvanced": {"de": ["Die Stadtmauer von Ston wurde zwischen 1333 und 1506 errichtet und verstärkt.", "Die Salinen von Ston sind seit der Römerzeit in Betrieb und nutzen nur Sonne und Wind.", "Das Festungssystem bestand ursprünglich aus 40 Türmen und 5 Festungen.", "Die Austernzucht in der Bucht von Mali Ston ist seit der Antike dokumentiert.", "Ston wurde nach dem Vorbild von Dubrovnik als Planstadt mit rechteckigen Häuserblöcken entworfen.", "Die pre-romanische St.-Michael-Kirche enthält Porträts kroatischer Herrscher aus dem 11. Jh."], "hu": ["A stoni városfalat 1333 és 1506 között építették és folyamatosan erősítették.", "A stoni sólepárlók a római kor óta működnek, kizárólag a napot és a szelet használva.", "Az erődrendszer eredetileg 40 toronyból és 5 nagy erődből állt.", "A Mali Ston-i öbölben folytatott osztrigatenyésztés az ókor óta dokumentált.", "Ston városát Dubrovnik mintájára, téglalap alakú tömbökből álló tervezett városként hozták létre.", "A pre-román Szent Mihály-templom 11. századi horvát uralkodók portréit őrzi."], "ro": ["Zidul orașului Ston a fost ridicat și consolidat între anii 1333 și 1506.", "Salinele din Ston sunt în funcțiune încă din epoca romană, folosind doar soarele și vântul.", "Sistemul de fortificații a constat inițial din 40 de turnuri și 5 cetăți.", "Cultura de stridii din golful Mali Ston este documentată încă din antichitate.", "Ston a fost proiectat ca un oraș planificat, cu blocuri de case rectangulare, după modelul Dubrovnikului.", "Biserica pre-romanică Sfântul Mihail conține portrete ale conducătorilor croați din secolul al XI-lea."], "en": ["The Wall of Ston was constructed and reinforced between 1333 and 1506.", "The salt pans of Ston have been in operation since Roman times, using only sun and wind.", "The fortification system originally consisted of 40 towers and 5 fortresses.", "Oyster farming in the Mali Ston bay has been documented since antiquity.", "Ston was designed as a planned city with rectangular house blocks, modeled after Dubrovnik.", "The pre-Romanesque St. Michael's Church contains portraits of 11th-century Croatian rulers."]}, "sights": {"de": [{"name": "Fürstenpalast Ston", "text": "Ein gotisch-renaissancezeitlicher Verwaltungssitz aus dem 15. Jahrhundert, Zeuge der Macht der Republik Ragusa.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/ston-f-rstenpalast-ston.webp", "coords": [17.69605, 42.838693]}, {"name": "Mali Ston", "text": "Ein malerisches Fischerdorf am anderen Ende der Mauern, weltberühmt für seine Austern- und Muschelzucht.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/ston-mali-ston.webp", "coords": [17.7, 42.85]}, {"name": "Lapidarium von Ston", "text": "Eine Sammlung steinerner Fragmente und Inschriften, die die reiche mittelalterliche Geschichte der Region dokumentieren.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/ston-lapidarium-von-ston.webp", "coords": [17.695563, 42.837928]}, {"name": "Arcimun", "text": "Ein historischer Festungsturm, der Teil des beeindruckenden Verteidigungswallsystems von Ston ist.", "category": "fortress", "coords": [17.693479, 42.838519]}, {"name": "Minčeta", "text": "Einer der befestigten Türme in Ston, der zur Verteidigung der historischen Salzpfannen der Stadt beitrug.", "category": "fortress", "coords": [17.693992, 42.839638]}, {"name": "Beach Prapratno", "text": "Dieser wunderschöne Sandstrand liegt verborgen in einer tiefen Bucht bei Ston und ist von jahrhundertealten Olivenbäumen umgeben. Badegäste erwartet hier eine friedliche Atmosphäre, die zum entspannten Schwimmen und Sonnenbaden einlädt. Für einen ruhigen Tag am Meer empfiehlt es sich, frühzeitig anzureisen.", "category": "recreational", "coords": [17.675568, 42.816816]}, {"name": "Veliki Kaštio", "text": "Die größte Festung in Ston, erbaut zum Schutz der Stadt und ihrer wertvollen Salzproduktion.", "category": "castle", "coords": [17.696774, 42.836917]}, {"name": "Pozvizd", "text": "Eine Festung auf einem Hügel über Ston mit Panoramablick auf die Halbinsel Pelješac und die Salzpfannen.", "category": "fortress", "coords": [17.695827, 42.842716]}, {"name": "Koruna", "text": "Eine strategische Burg in Mali Ston, die als wichtiger Punkt in der Verteidigungslinie der Republik Ragusa diente.", "category": "castle", "coords": [17.703425, 42.845364]}, {"name": "Stoviš", "text": "Eine befestigte Bastion an der Westseite der Mauern von Ston, Teil des mittelalterlichen Erbes der Stadt.", "category": "fortress", "coords": [17.695585, 42.840288]}, {"name": "Radino brdo", "text": "Ein markanter Berggipfel bei Ston, der ein beliebtes Ziel für Wanderer auf der Halbinsel Pelješac darstellt.", "category": "natural", "coords": [17.662517, 42.842588]}, {"name": "Veliki vrh", "text": "Einer der höheren Gipfel in der Umgebung von Ston mit weitem Ausblick über die südkroatische Landschaft.", "category": "natural", "coords": [17.688374, 42.811062]}, {"name": "Bartolomija", "text": "Ein Berggipfel oberhalb von Ston, der Teil des zerklüfteten Geländes der Halbinsel Pelješac ist.", "category": "natural", "coords": [17.694787, 42.843]}, {"name": "Popina", "text": "Eine Anhöhe in der Nähe von Ston, die typisch für die Karstlandschaft Dalmatiens ist.", "category": "natural", "coords": [17.701374, 42.823138]}, {"name": "Vresovica", "text": "Ein Wanderziel bei Ston, das Ausblicke auf die Adria und die umliegenden Täler bietet.", "category": "natural", "coords": [17.724386, 42.825637]}, {"name": "Zjat", "text": "In der Nähe von Ston ragt der Berggipfel Zjat in die Höhe. Bergwanderer und Naturfreunde schätzen diesen Ort, um die Landschaft der Region Pelješac aktiv zu erleben.", "category": "natural", "coords": [17.675059, 42.852452]}, {"name": "položaj Lastva", "text": "Ein Aussichtspunkt bei Ston, von dem aus man das Panorama der Stadt und der beeindruckenden Wehrmauern bewundern kann.", "category": "natural", "coords": [17.697256, 42.841439]}], "hu": [{"name": "Stoni rektori palota", "text": "A 15. században épült gótikus-reneszánsz épület, amely a Dubrovniki Köztársaság helyi hatalmi központja volt.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/ston-f-rstenpalast-ston.webp", "coords": [17.69605, 42.838693]}, {"name": "Mali Ston", "text": "A falak északi végén fekvő bájos település, amely osztriga-tenyésztéséről és kiváló tengeri ételeiről híres.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/ston-mali-ston.webp", "coords": [17.7, 42.85]}, {"name": "Stoni Lapidárium", "text": "Kőemléktár, ahol a város és a környék történelméből származó középkori faragványokat és feliratokat mutatják be.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/ston-lapidarium-von-ston.webp", "coords": [17.695563, 42.837928]}, {"name": "Arcimun", "text": "Történelmi erődített torony, amely Ston lenyűgöző védelmi falrendszerének részét képezi.", "category": "fortress", "coords": [17.693479, 42.838519]}, {"name": "Minčeta", "text": "Ston egyik erődített tornya, amely hozzájárult a város történelmi lepárlóinak védelméhez.", "category": "fortress", "coords": [17.693992, 42.839638]}, {"name": "Beach Prapratno", "text": "Ez a gyönyörű homokos strand Ston közelében, egy mély öbölben bújik meg, ősi olajfákkal körülvéve. A látogatókat békés hangulat várja, amely tökéletes a nyugodt úszáshoz és napozáshoz. Egy tengerparti pihenéshez érdemes korán érkezni.", "category": "recreational", "coords": [17.675568, 42.816816]}, {"name": "Veliki Kaštio", "text": "Ston legnagyobb erődje, amelyet a város és az értékes sótermelés védelmére építettek.", "category": "castle", "coords": [17.696774, 42.836917]}, {"name": "Pozvizd", "text": "Dombtetőn lévő erőd Ston felett, ahonnan panorámás kilátás nyílik a Pelješac-félszigetre és a sólepárlókra.", "category": "fortress", "coords": [17.695827, 42.842716]}, {"name": "Koruna", "text": "Stratégiai vár Mali Stonban, amely a Raguzai Köztársaság védelmi vonalának egyik kulcspontja volt.", "category": "castle", "coords": [17.703425, 42.845364]}, {"name": "Stoviš", "text": "Erődített bástya Ston falainak nyugati oldalán, a város középkori örökségének része.", "category": "fortress", "coords": [17.695585, 42.840288]}, {"name": "Radino brdo", "text": "Jellegzetes hegycsúcs Ston közelében, amely a Pelješac-félszigeten túrázók kedvelt célpontja.", "category": "natural", "coords": [17.662517, 42.842588]}, {"name": "Veliki vrh", "text": "Ston környékének egyik magasabb csúcsa, ahonnan tágas kilátás nyílik a dél-horvát tájra.", "category": "natural", "coords": [17.688374, 42.811062]}, {"name": "Bartolomija", "text": "Ston feletti hegycsúcs, amely a Pelješac-félsziget sziklás terepének része.", "category": "natural", "coords": [17.694787, 42.843]}, {"name": "Popina", "text": "Ston közeli magaslat, amely jellemző a dalmát karsztvidékre.", "category": "natural", "coords": [17.701374, 42.823138]}, {"name": "Vresovica", "text": "Túraútvonal Ston közelében, ahonnan kilátás nyílik az Adriára és a környező völgyekre.", "category": "natural", "coords": [17.724386, 42.825637]}, {"name": "Zjat", "text": "Ston közelében magasodik a Zjat hegycsúcs. A hegyi túrázók és a természet szerelmesei nagyra értékelik ezt a helyet, hogy aktívan megtapasztalják a Pelješac régió táját.", "category": "natural", "coords": [17.675059, 42.852452]}, {"name": "položaj Lastva", "text": "Kilátóhely Ston közelében, ahonnan megcsodálható a város és a lenyűgöző védőfalak panorámája.", "category": "natural", "coords": [17.697256, 42.841439]}], "ro": [{"name": "Palatul Rectorului din Ston", "text": "Clădire administrativă în stil gotic-renascentist din secolul al XV-lea, reprezentând puterea Republicii Ragusa.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/ston-f-rstenpalast-ston.webp", "coords": [17.69605, 42.838693]}, {"name": "Mali Ston", "text": "Sat pitoresc situat la capătul nordic al zidurilor, renumit pe plan mondial pentru culturile de stridii și scoici.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/ston-mali-ston.webp", "coords": [17.7, 42.85]}, {"name": "Lapidariul din Ston", "text": "Colecție de fragmente de piatră sculptată și inscripții care documentează istoria medievală bogată a regiunii.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/ston-lapidarium-von-ston.webp", "coords": [17.695563, 42.837928]}, {"name": "Arcimun", "text": "Un turn de fortificație istoric care face parte din impresionantul sistem de ziduri de apărare din Ston.", "category": "fortress", "coords": [17.693479, 42.838519]}, {"name": "Minčeta", "text": "Unul dintre turnurile fortificate din Ston, care a contribuit la apărarea salinelor istorice ale orașului.", "category": "fortress", "coords": [17.693992, 42.839638]}, {"name": "Beach Prapratno", "text": "Această frumoasă plajă cu nisip se ascunde într-un golf adânc de lângă Ston, fiind înconjurată de măslini seculari. Oaspeții sunt întâmpinați de o atmosferă pașnică, ideală pentru înot relaxant și băi de soare. Pentru o zi liniștită la mare, este recomandat să sosiți devreme.", "category": "recreational", "coords": [17.675568, 42.816816]}, {"name": "Veliki Kaštio", "text": "Cea mai mare fortăreață din Ston, construită pentru a proteja orașul și producția sa valoroasă de sare.", "category": "castle", "coords": [17.696774, 42.836917]}, {"name": "Pozvizd", "text": "O fortăreață pe deal care domină orașul Ston, oferind vederi panoramice asupra peninsulei Pelješac și a salinelor.", "category": "fortress", "coords": [17.695827, 42.842716]}, {"name": "Koruna", "text": "Un castel strategic din Mali Ston care a servit ca punct cheie în linia defensivă a Republicii Ragusa.", "category": "castle", "coords": [17.703425, 42.845364]}, {"name": "Stoviš", "text": "Un bastion fortificat situat în partea de vest a zidurilor din Ston, parte a moștenirii medievale a orașului.", "category": "fortress", "coords": [17.695585, 42.840288]}, {"name": "Radino brdo", "text": "Un vârf de munte proeminent lângă Ston, fiind o destinație populară pentru drumeții pe peninsula Pelješac.", "category": "natural", "coords": [17.662517, 42.842588]}, {"name": "Veliki vrh", "text": "Unul dintre cele mai înalte vârfuri din zona Ston, oferind o vedere amplă asupra peisajului din sudul Croației.", "category": "natural", "coords": [17.688374, 42.811062]}, {"name": "Bartolomija", "text": "Un vârf de munte deasupra orașului Ston, făcând parte din terenul accidentat al peninsulei Pelješac.", "category": "natural", "coords": [17.694787, 42.843]}, {"name": "Popina", "text": "O colină în apropiere de Ston, tipică pentru peisajul carstic al Dalmației.", "category": "natural", "coords": [17.701374, 42.823138]}, {"name": "Vresovica", "text": "O destinație de drumeție lângă Ston, oferind vederi spre Marea Adriatică și văile din jur.", "category": "natural", "coords": [17.724386, 42.825637]}, {"name": "Zjat", "text": "În apropiere de Ston, se înalță vârful de munte Zjat. Pasionații de drumeții montane și iubitorii de natură apreciază acest loc pentru a experimenta activ peisajul regiunii Pelješac.", "category": "natural", "coords": [17.675059, 42.852452]}, {"name": "položaj Lastva", "text": "Un punct de belvedere lângă Ston, de unde se poate admira panorama orașului și a zidurilor de apărare impresionante.", "category": "natural", "coords": [17.697256, 42.841439]}], "en": [{"name": "Rector's Palace Ston", "text": "15th-century Gothic-Renaissance administrative building from the era of the powerful Republic of Ragusa.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/ston-f-rstenpalast-ston.webp", "coords": [17.69605, 42.838693]}, {"name": "Mali Ston", "text": "The charming village at the northern end of the walls, world-famous for its high-quality oyster and mussel farms.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/ston-mali-ston.webp", "coords": [17.7, 42.85]}, {"name": "Lapidarium of Ston", "text": "A significant collection of stone fragments and carvings documenting the town's long and rich medieval history.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/ston-lapidarium-von-ston.webp", "coords": [17.695563, 42.837928]}, {"name": "Arcimun", "text": "A historical fortification tower that forms part of the impressive defensive wall system of Ston.", "category": "fortress", "coords": [17.693479, 42.838519]}, {"name": "Minčeta", "text": "One of the fortified towers in Ston, contributing to the defense of the city's historic salt pans.", "category": "fortress", "coords": [17.693992, 42.839638]}, {"name": "Beach Prapratno", "text": "Tucked away in a deep bay near Ston, this beautiful sandy beach is surrounded by ancient olive trees. Visitors can expect a peaceful setting that perfectly accommodates relaxed swimming and sunbathing. Arriving early is recommended for a quiet day by the sea.", "category": "recreational", "coords": [17.675568, 42.816816]}, {"name": "Veliki Kaštio", "text": "The largest fortress in Ston, built to protect the town and its valuable salt production.", "category": "castle", "coords": [17.696774, 42.836917]}, {"name": "Pozvizd", "text": "A hilltop fortress overlooking Ston, offering panoramic views of the Pelješac peninsula and salt pans.", "category": "fortress", "coords": [17.695827, 42.842716]}, {"name": "Koruna", "text": "A strategic castle in Mali Ston that served as a key point in the defensive line of the Republic of Ragusa.", "category": "castle", "coords": [17.703425, 42.845364]}, {"name": "Stoviš", "text": "A fortified bastion located on the western side of the Ston walls, part of the city's medieval heritage.", "category": "fortress", "coords": [17.695585, 42.840288]}, {"name": "Radino brdo", "text": "A prominent hill peak near Ston, serving as a popular destination for hikers on the Pelješac peninsula.", "category": "natural", "coords": [17.662517, 42.842588]}, {"name": "Veliki vrh", "text": "One of the higher peaks around Ston, offering wide views over the southern Croatian landscape.", "category": "natural", "coords": [17.688374, 42.811062]}, {"name": "Bartolomija", "text": "A mountain peak above Ston, part of the rugged terrain of the Pelješac peninsula.", "category": "natural", "coords": [17.694787, 42.843]}, {"name": "Popina", "text": "An elevation near Ston, typical of the Dalmatian karst landscape.", "category": "natural", "coords": [17.701374, 42.823138]}, {"name": "Vresovica", "text": "A hiking destination near Ston offering views of the Adriatic Sea and surrounding valleys.", "category": "natural", "coords": [17.724386, 42.825637]}, {"name": "Zjat", "text": "Near Ston, the Zjat mountain peak reaches into the sky. Mountain hikers and nature lovers appreciate this place to actively experience the landscape of the Pelješac region.", "category": "natural", "coords": [17.675059, 42.852452]}, {"name": "položaj Lastva", "text": "A viewpoint near Ston from which you can admire the panorama of the town and its impressive defense walls.", "category": "natural", "coords": [17.697256, 42.841439]}], "hr": [{"name": "Arcimun", "text": "Povijesna obrambena kula koja čini dio impresivnog sustava obrambenih zidina u Stonu.", "category": "fortress", "coords": [17.693479, 42.838519]}, {"name": "Minčeta", "text": "Jedna od utvrđenih kula u Stonu koja je služila za obranu povijesnih solana.", "category": "fortress", "coords": [17.693992, 42.839638]}, {"name": "Beach Prapratno", "text": "Prekrasna pješčana plaža smještena u dubokoj uvali u blizini Stona, okružena stoljetnim maslinicima.", "category": "recreational", "coords": [17.675568, 42.816816]}, {"name": "Veliki Kaštio", "text": "Najveća utvrda u Stonu, izgrađena za zaštitu grada i njegove vrijedne proizvodnje soli.", "category": "castle", "coords": [17.696774, 42.836917]}, {"name": "Pozvizd", "text": "Utvrda na brdu iznad Stona s koje se pruža panoramski pogled na poluotok Pelješac i solane.", "category": "fortress", "coords": [17.695827, 42.842716]}, {"name": "Koruna", "text": "Strateški kaštel u Malom Stonu koji je služio kao ključna točka u obrambenoj liniji Dubrovačke Republike.", "category": "castle", "coords": [17.703425, 42.845364]}, {"name": "Stoviš", "text": "Utvrđeni bastion smješten na zapadnoj strani stonskih zidina, dio srednjovjekovne baštine grada.", "category": "fortress", "coords": [17.695585, 42.840288]}, {"name": "Radino brdo", "text": "Istaknuti brdski vrh u blizini Stona koji je omiljeno odredište za planinare na poluotoku Pelješcu.", "category": "natural", "coords": [17.662517, 42.842588]}, {"name": "Veliki vrh", "text": "Jedan od viših vrhova u okolici Stona s kojeg se pruža širok pogled na južnohrvatski krajolik.", "category": "natural", "coords": [17.688374, 42.811062]}, {"name": "Bartolomija", "text": "Brdski vrh iznad Stona, dio krševitog terena poluotoka Pelješca.", "category": "natural", "coords": [17.694787, 42.843]}, {"name": "Popina", "text": "Uzvisina u blizini Stona, tipična za dalmatinski krški krajolik.", "category": "natural", "coords": [17.701374, 42.823138]}, {"name": "Vresovica", "text": "Planinarsko odredište kod Stona s kojeg se pružaju vidici na Jadran i okolne doline.", "category": "natural", "coords": [17.724386, 42.825637]}, {"name": "Zjat", "text": "Brdski vrh u blizini Stona, idealan za ljubitelje prirode i planinare u regiji Pelješca.", "category": "natural", "coords": [17.675059, 42.852452]}, {"name": "položaj Lastva", "text": "Vidikovac kod Stona s kojeg se može diviti panorami grada i impresivnim obrambenim zidinama.", "category": "natural", "coords": [17.697256, 42.841439]}]}},
-  {"id": "komiza", "type": "city", "parent": "HR-17", "coords": [16.0883, 43.0436], "population": 1395, "tier": 2, "name": {"de": "Komiža", "hu": "Komiža", "ro": "Komiža", "en": "Komiža"}, "description": {"de": "Ein malerisches Fischerdorf am Fuße des Berges Hum auf der Insel Vis. Komiža ist bekannt für seine tiefe Fischereitradition, die einzigartigen Falkuša-Boote und als Tor zur berühmten Blauen Grotte auf Biševo.", "hu": "Gleccser alakú öbölben fekvő festői halászfalu a Hum-hegy lábánál, Vis szigetén. Komiža mély halászati hagyományairól, az egyedülálló Falkuša hajókról és a Biševo-szigeti Kék-barlang kapujaként ismert.", "ro": "Un sat pescăresc pitoresc la poalele muntelui Hum, pe insula Vis. Komiža este cunoscut pentru tradiția sa profundă în pescuit, bărcile unice Falkuša și ca poartă de acces către celebra Grota Albastră de pe Biševo.", "en": "A picturesque fishing village at the foot of Mount Hum on the island of Vis. Komiža is known for its deep fishing tradition, the unique Falkuša boats, and as the gateway to the famous Blue Cave on Biševo."}, "facts": {"de": ["Einwohnerzahl: 1.395 Personen", "Sitz der ältesten Fischereikooperative an der Adria", "Heimat des traditionellen Bootstyps 'Gajeta Falkuša'", "Das Fischerfest im August ist das größte der Region", "Befindet sich auf der sonnigen Westseite der Insel", "Besitzt einen markanten venezianischen Turm im Hafen", "Dominante Architektur aus dunklem Naturstein", "Ausgangspunkt für Boote zur Insel Biševo"], "hu": ["Lakossága 1395 fő", "Az Adria legrégebbi halászati szövetkezetének székhelye", "A 'Gajeta Falkuša' nevű hagyományos hajótípus otthona", "Az augusztusi halászfesztivál a régió legnagyobb eseménye", "A sziget napos nyugati oldalán található", "Jellegzetes velencei toronnyal rendelkezik a kikötőben", "Sötét terméskőből készült domináns építészet", "A Biševo-szigetre induló hajók kiindulópontja"], "ro": ["Populație: 1.395 de persoane", "Sediul celei mai vechi cooperative de pescuit de la Adriatică", "Patria tipului de barcă tradițională 'Gajeta Falkuša'", "Festivalul pescarilor din august este cel mai mare din regiune", "Situat pe partea vestică însorită a insulei", "Deține un turn venețian distinctiv în port", "Arhitectură dominantă din piatră naturală închisă la culoare", "Punct de plecare pentru bărcile către insula Biševo"], "en": ["Population: 1,395 people", "Seat of the oldest fishing cooperative in the Adriatic", "Home of the traditional 'Gajeta Falkuša' boat type", "The Fisherman's Night in August is the region's largest event", "Located on the sunny western side of the island", "Possesses a striking Venetian tower in the harbor", "Dominant architecture made of dark natural stone", "Starting point for boats to Biševo island"]}, "image": "/poi-images/komiza.webp", "imageHint": "Komiža waterfront with old stone houses and the Venetian tower", "descriptionAdvanced": {"de": "Komiža gilt als die Wiege der adriatischen Fischerei. Über Jahrhunderte lebten die Bewohner fast ausschließlich vom Fang von Sardinen und Hummern, was zur Entwicklung der Falkuša führte – eines schnellen Segelbootes, das weite Strecken bis zur Insel Palagruža zurücklegen konnte. Das Stadtbild wird vom venezianischen Kastell aus dem 16. Jahrhundert dominiert, das heute das Fischereimuseum beherbergt. Die engen Gassen winden sich den Hang hinauf zur Kirche St. Nikolaus (Muster), von wo aus man einen spektakulären Blick über die Bucht hat. Komiža hat eine besondere, fast mystische Atmosphäre, verstärkt durch die Nähe zum offenen Meer und die raue Schönheit des Hum-Massivs. Es ist der perfekte Ort, um fangfrischen Fisch zu essen und die Abgeschiedenheit von der Hektik der Welt zu genießen. Ein absolutes Muss ist die kurze Bootsfahrt zur Nachbarinsel Biševo, um das magische blaue Licht der Modra Špilja zu erleben.", "hu": "Komižát az adriai halászat bölcsőjének tartják. Az évszázadok során a lakosok szinte kizárólag szardínia- és homárhalászatból éltek, ami a Falkuša kifejlesztéséhez vezetett – ez egy gyors vitorlás, amely képes volt megtenni a nagy távolságot a távoli Palagruža-szigetig. A városképet a 16. századi velencei vár (Kastel) uralja, amely ma a Halászati Múzeumnak ad otthont. A szűk utcák a hegyoldalra kúsznak fel a Szent Miklós-templomig (Muster), ahonnan látványos kilátás nyílik az öbölre. Komižának különleges, szinte misztikus hangulata van, amelyet a nyílt tenger közelsége és a Hum-hegy vad szépsége tovább erősít. Ez a tökéletes hely frissen fogott halak fogyasztására és a világ zajától való elvonulásra. Kihagyhatatlan program a rövid hajóút a szomszédos Biševo-szigetre, hogy átéljük a Kék-barlang (Modra Špilja) varázslatos kék fényeit.", "ro": "Komiža este considerat leagănul pescuitului adriatic. Timp de secole, locuitorii au trăit aproape exclusiv din pescuitul de sardine și homari, ceea ce a dus la dezvoltarea Falkuša – o barcă cu pânze rapidă, capabilă să parcurgă distanțe mari până la insula Palagruža. Imaginea orașului este dominată de castelul venețian din secolul al XVI-lea, care astăzi găzduiește Muzeul Pescuitului. Străduțele înguste urcă pe versant către biserica Sf. Nicolae (Muster), de unde se oferă o vedere spectaculoasă asupra golfului. Komiža are o atmosferă specială, aproape mistică, accentuată de proximitatea mării deschise și frumusețea aspră a masivului Hum. Este locul perfect pentru a mânca pește proaspăt prins și pentru a te bucura de izolarea de agitația lumii. O vizită obligatorie este scurta călătorie cu barca spre insula vecină Biševo, pentru a experimenta lumina albastră magică din Modra Špilja.", "en": "Komiža is considered the cradle of Adriatic fishing. For centuries, inhabitants lived almost exclusively from catching sardines and lobsters, leading to the development of the Falkuša – a fast sailing boat capable of traveling long distances to Palagruža island. The cityscape is dominated by the 16th-century Venetian castle, which now houses the Fishermen's Museum. Narrow alleys wind up the slope to the Church of St. Nicholas (Muster), offering a spectacular view over the bay. Komiža has a special, almost mystical atmosphere, enhanced by its proximity to the open sea and the rugged beauty of the Hum massif. It is the perfect place to eat freshly caught fish and enjoy seclusion from the world's hustle and bustle. An absolute must is the short boat trip to the neighboring island of Biševo to experience the magical blue light of the Modra Špilja."}, "factsAdvanced": {"de": ["Die Benediktinerabtei Muster wurde im 13. Jh. gegründet", "Komiža war das erste Dorf in Dalmatien mit einer Fischkonservenfabrik", "Jedes Jahr am 6. Dezember wird ein altes Boot rituell verbrannt", "Der Hum-Gipfel ist mit 587 Metern der höchste Punkt der Insel", "Das Kastell wurde zum Schutz vor osmanischen Piraten erbaut", "Die Falkuša-Boote wurden ohne Metallnägel gebaut"], "hu": ["A Muster bencés apátságot a 13. században alapították", "Komiža volt az első dalmát falu, ahol halkonzervgyár épült", "Minden év december 6-án rituálisan elégetnek egy öreg hajót", "A Hum-csúcs 587 méterrel a sziget legmagasabb pontja", "A várat az oszmán kalózok elleni védekezésül építették", "A Falkuša hajókat fémszegek nélkül építették"], "ro": ["Abbația benedictină Muster a fost fondată în secolul al XIII-lea", "Komiža a fost primul sat din Dalmația cu o fabrică de conserve de pește", "În fiecare an, pe 6 decembrie, o barcă veche este arsă ritualic", "Vârful Hum este cel mai înalt punct al insulei, având 587 de metri", "Castelul a fost construit pentru protecție împotriva piraților otomani", "Bărcile Falkuša au fost construite fără cuie metalice"], "en": ["The Muster Benedictine abbey was founded in the 13th century", "Komiža was the first village in Dalmatia with a fish cannery", "Every year on December 6th, an old boat is ritually burned", "Hum peak is the island's highest point at 587 meters", "The castle was built for protection against Ottoman pirates", "The Falkuša boats were constructed without metal nails"]}, "sights": {"de": [{"name": "Kirche Gospa Gusarica", "text": "Die Kirche Unserer Lieben Frau der Piraten, bekannt für ihre Lage direkt am Strand und ihre Legenden.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/komiza-kirche-gospa-gusarica.webp", "coords": [16.084842, 43.048178]}, {"name": "Berg Hum", "text": "Der höchste Gipfel der Insel Vis mit einer Kapelle und einem spektakulären Blick auf die Adria.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/komiza-berg-hum.webp", "coords": [16.103976, 43.055983]}, {"name": "Riva von Komiža", "text": "Die charmante Uferpromenade, das Herz des Ortes mit traditionellen Fischerbooten und Cafés.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/komiza-riva-von-komi-a.webp", "coords": [16.089248, 43.044313]}, {"name": "Blaue Grotte", "text": "Ein Naturwunder auf der nahen Insel Biševo, berühmt für das magische blaue Lichtspiel im Wasser.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/komiza-blaue-grotte.webp", "coords": [16.0215, 42.98035]}, {"name": "Strand Gusarica", "text": "Als Hauptstrand von Komiža besticht dieser Küstenabschnitt durch feine Kieselsteine und seine Nähe zur namensgebenden Piratenkirche. Die lebhafte Umgebung zieht Einheimische und Besucher gleichermaßen an, die das erfrischende Wasser genießen möchten. Ein Spaziergang entlang der Küste rundet den sommerlichen Badeausflug wunderbar ab.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/komiza-strand-gusarica.webp", "coords": [16.085004, 43.04788]}, {"name": "Strand Kamenice", "text": "Bekannt für seine natürlichen Süßwasserquellen, bietet dieser Strand in Komiža ein ganz besonderes Badeerlebnis. Besonders bei Sonnenuntergang verwandelt sich die Küste in einen lebhaften Treffpunkt. Es lohnt sich, bis in die Abendstunden zu bleiben, um das einzigartige Flair zu genießen.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/komiza-strand-kamenice.webp", "coords": [16.092066, 43.038302]}, {"name": "Novo Pošta FKK", "text": "Ein abgelegener FKK-Strand in einer felsigen Bucht bei Komiža auf der Insel Vis.", "category": "recreational", "coords": [16.093253, 43.035882]}, {"name": "Perna", "text": "Ein kleiner, von Kies geprägter Strand in der Nähe von Komiža, bekannt für sein klares Wasser.", "category": "recreational", "coords": [16.059638, 43.048779]}, {"name": "Barjosko", "text": "Ein ruhiger Strand in einer unberührten Bucht auf der Insel Vis, ideal zum Entspannen abseits der Massen.", "category": "recreational", "coords": [16.056146, 43.051526]}, {"name": "Pizdica", "text": "Ein kleiner Kieselstrand in der Nähe von Komiža auf der Insel Vis.", "category": "recreational", "coords": [16.093553, 43.02832]}, {"name": "Velu Zolo", "text": "Ein natürlicher Strandabschnitt in einer Bucht bei Komiža.", "category": "recreational", "coords": [16.093131, 43.024719]}, {"name": "Bele Stine", "text": "Ein abgelegener, stjenoviter Küstenabschnitt in der Nähe von Komiža.", "category": "recreational", "coords": [16.078899, 43.047188]}, {"name": "Knezica", "text": "Ein ruhiger Strand in einer kleinen Bucht am Rande von Komiža.", "category": "recreational", "coords": [16.063959, 43.044233]}, {"name": "Kupinovac Mali", "text": "Ein kleiner, unberührter Kieselstrand in der malerischen Umgebung von Komiža.", "category": "recreational", "coords": [16.090028, 43.021198]}, {"name": "Mlin", "text": "Ein charmanter Strandabschnitt an der Küste der Stadt Komiža.", "category": "recreational", "coords": [16.090981, 43.040174]}, {"name": "Pol Borcića", "text": "Ein lokaler Strand in Komiža, ideal für einen entspannten Tag am Meer.", "category": "recreational", "coords": [16.059902, 43.046615]}, {"name": "Templuz FKK", "text": "Ein ausgewiesener FKK-Strand in einer ruhigen Bucht nahe Komiža.", "category": "recreational", "coords": [16.093483, 43.034478]}, {"name": "Zukamice", "text": "Ein kleiner Felsstrand in der unberührten Natur in der Nähe von Komiža.", "category": "recreational", "coords": [16.059849, 43.059014]}, {"name": "Vartalac", "text": "Ein vulkanischer Kieselstrand in Komiža, der als hundefreundlich bekannt ist.", "category": "recreational", "coords": [16.091432, 43.039248]}, {"name": "Lucica", "text": "Ein charmanter kleiner Strand im Fischerort Komiza auf der Insel Vis.", "category": "recreational", "coords": [16.088841, 43.043018]}, {"name": "Hum", "text": "Der höchste Gipfel der Insel Vis bietet einen weiten Blick über die Adria.", "category": "natural", "coords": [16.113765, 43.029628]}, {"name": "Titova špilja", "text": "Diese historische Höhle diente Josip Broz Tito im Zweiten Weltkrieg als Versteck.", "category": "natural", "coords": [16.120035, 43.03668]}, {"name": "Sv. Mihovil", "text": "Eine markante Kirche und ehemaliges Kloster aus dem 12. Jahrhundert oberhalb von Komiza.", "category": "religious", "coords": [16.11358, 43.048115]}, {"name": "Pritiscina", "text": "Eine sehr kleine und versteckte Kieselbucht auf der Insel Vis bei Komiža.", "category": "recreational", "coords": [16.113003, 43.008419]}], "hu": [{"name": "Gospa Gusarica templom", "text": "A Kalózok Boldogasszonya templom, amely közvetlenül a tengerparton épült és számos legenda övezi.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/komiza-kirche-gospa-gusarica.webp", "coords": [16.084842, 43.048178]}, {"name": "Hum-hegy", "text": "A Vis-sziget legmagasabb pontja, ahonnan tiszta időben az olasz partokig is el lehet látni.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/komiza-berg-hum.webp", "coords": [16.103976, 43.055983]}, {"name": "Komižai Riva", "text": "A város élettel teli tengerparti sétánya, ahol a hagyományos falkuša halászhajók horgonyoznak.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/komiza-riva-von-komi-a.webp", "coords": [16.089248, 43.044313]}, {"name": "Kék barlang", "text": "A közeli Biševo-szigeten található természeti csoda, amely egyedülálló fényjelenségeiről híres.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/komiza-blaue-grotte.webp", "coords": [16.0215, 42.98035]}, {"name": "Gusarica strand", "text": "Komiža fő strandjaként ez a partszakasz finom kavicsokkal és a névadó kalóztemplom közelségével varázsolja el a látogatókat. Az élénk környezet egyaránt vonzza a helyieket és az utazókat, akik a hűsítő vizet szeretnék élvezni. A tengerparti séta csodálatosan kiegészíti a nyári fürdőzést.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/komiza-strand-gusarica.webp", "coords": [16.085004, 43.04788]}, {"name": "Kamenice strand", "text": "A természetes édesvizű forrásairól ismert komižai strand igazán különleges fürdőzési élményt nyújt. Különösen naplemente idején a partvidék egy élénk találkozóhellyé alakul át. Érdemes az esti órákig maradni, hogy átéljük ezt az egyedi hangulatot.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/komiza-strand-kamenice.webp", "coords": [16.092066, 43.038302]}, {"name": "Novo Pošta FKK", "text": "Elszigetelt naturista strand egy sziklás öbölben Komiža közelében, Vis szigetén.", "category": "recreational", "coords": [16.093253, 43.035882]}, {"name": "Perna", "text": "Kicsi, kavicsos strand Komiža közelében, amely tiszta vizéről ismert.", "category": "recreational", "coords": [16.059638, 43.048779]}, {"name": "Barjosko", "text": "Nyugodt strand egy érintetlen öbölben Vis szigetén, ideális a tömegtől távoli pihenésre.", "category": "recreational", "coords": [16.056146, 43.051526]}, {"name": "Pizdica", "text": "Egy kis kavicsos strand Komiža közelében, Vis szigetén.", "category": "recreational", "coords": [16.093553, 43.02832]}, {"name": "Velu Zolo", "text": "Természetes tengerparti szakasz Komiža öblében.", "category": "recreational", "coords": [16.093131, 43.024719]}, {"name": "Bele Stine", "text": "Egy eldugott, sziklás tengerparti rész Komiža közelében.", "category": "recreational", "coords": [16.078899, 43.047188]}, {"name": "Knezica", "text": "Nyugodt tengerpart egy kis öbölben Komiža szélén.", "category": "recreational", "coords": [16.063959, 43.044233]}, {"name": "Kupinovac Mali", "text": "Egy kicsi, érintetlen kavicsos strand Komiža festői környékén.", "category": "recreational", "coords": [16.090028, 43.021198]}, {"name": "Mlin", "text": "Egy hangulatos tengerparti rész Komiža városának partjainál.", "category": "recreational", "coords": [16.090981, 43.040174]}, {"name": "Pol Borcića", "text": "Egy helyi strand Komiža városában, ideális a tengerparti pihenéshez.", "category": "recreational", "coords": [16.059902, 43.046615]}, {"name": "Templuz FKK", "text": "Kijelölt naturista strand egy csendes öbölben Komiža közelében.", "category": "recreational", "coords": [16.093483, 43.034478]}, {"name": "Zukamice", "text": "Egy apró sziklás strand az érintetlen természetben Komiža közelében.", "category": "recreational", "coords": [16.059849, 43.059014]}, {"name": "Vartalac", "text": "Vulkáni eredetű kavicsos strand Komižában, amely kutyabarát helyként ismert.", "category": "recreational", "coords": [16.091432, 43.039248]}, {"name": "Lucica", "text": "Hangulatos kis strand Komiza halászfalujában, Vis szigetén.", "category": "recreational", "coords": [16.088841, 43.043018]}, {"name": "Hum", "text": "Vis szigetének legmagasabb pontja, ahonnan pazar kilátás nyílik az Adriára.", "category": "natural", "coords": [16.113765, 43.029628]}, {"name": "Titova špilja", "text": "Ez a történelmi barlang szolgált Josip Broz Tito rejtekhelyeként a második világháborúban.", "category": "natural", "coords": [16.120035, 43.03668]}, {"name": "Sv. Mihovil", "text": "Jellegzetes 12. századi templom és egykori kolostor Komiza felett.", "category": "religious", "coords": [16.11358, 43.048115]}, {"name": "Pritiscina", "text": "Nagyon kicsi és rejtett kavicsos öböl Vis szigetén, Komiža közelében.", "category": "recreational", "coords": [16.113003, 43.008419]}], "ro": [{"name": "Biserica Gospa Gusarica", "text": "Biserica Maicii Domnului a Piraților, situată pe plajă, faimoasă pentru legendele sale maritime.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/komiza-kirche-gospa-gusarica.webp", "coords": [16.084842, 43.048178]}, {"name": "Muntele Hum", "text": "Cel mai înalt vârf de pe insula Vis, oferind panorame uluitoare asupra arhipelagului adriatic.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/komiza-berg-hum.webp", "coords": [16.103976, 43.055983]}, {"name": "Promenada Riva din Komiža", "text": "Faleza fermecătoare unde sunt ancorate bărcile de pescuit tradiționale într-un decor pitoresc.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/komiza-riva-von-komi-a.webp", "coords": [16.089248, 43.044313]}, {"name": "Grota Albastră", "text": "O minune naturală pe insula vecină Biševo, cunoscută pentru lumina albastră feerică din interior.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/komiza-blaue-grotte.webp", "coords": [16.0215, 42.98035]}, {"name": "Plaja Gusarica", "text": "Fiind plaja principală din Komiža, această porțiune de coastă impresionează prin pietrișul fin și apropierea de biserica piraților care îi dă numele. Mediul animat atrage deopotrivă localnicii și vizitatorii dornici să se bucure de apa răcoroasă. O plimbare de-a lungul coastei completează minunat o zi de vară la plajă.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/komiza-strand-gusarica.webp", "coords": [16.085004, 43.04788]}, {"name": "Plaja Kamenice", "text": "Cunoscută pentru izvoarele sale naturale de apă dulce, această plajă din Komiža oferă o experiență deosebită de scăldat. Mai ales la apus, coasta se transformă într-un loc de întâlnire plin de viață. Merită să rămâneți până seara târziu pentru a savura atmosfera unică.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/komiza-strand-kamenice.webp", "coords": [16.092066, 43.038302]}, {"name": "Novo Pošta FKK", "text": "O plajă de nudiști izolată, situată într-un golf stâncos lângă Komiža, pe insula Vis.", "category": "recreational", "coords": [16.093253, 43.035882]}, {"name": "Perna", "text": "O mică plajă cu pietriș lângă Komiža, cunoscută pentru apa sa limpede.", "category": "recreational", "coords": [16.059638, 43.048779]}, {"name": "Barjosko", "text": "O plajă liniștită într-un golf curat de pe insula Vis, ideală pentru relaxare departe de mulțime.", "category": "recreational", "coords": [16.056146, 43.051526]}, {"name": "Pizdica", "text": "O mică plajă cu pietriș situată lângă Komiža, pe insula Vis.", "category": "recreational", "coords": [16.093553, 43.02832]}, {"name": "Velu Zolo", "text": "O zonă de coastă naturală într-un golf de lângă Komiža.", "category": "recreational", "coords": [16.093131, 43.024719]}, {"name": "Bele Stine", "text": "O secțiune de coastă stâncoasă și retrasă lângă Komiža.", "category": "recreational", "coords": [16.078899, 43.047188]}, {"name": "Knezica", "text": "O plajă liniștită într-un mic golf la marginea orașului Komiža.", "category": "recreational", "coords": [16.063959, 43.044233]}, {"name": "Kupinovac Mali", "text": "O mică plajă cu pietriș, neatinsă, în împrejurimile pitorești din Komiža.", "category": "recreational", "coords": [16.090028, 43.021198]}, {"name": "Mlin", "text": "O secțiune de coastă fermecătoare la malul mării în Komiža.", "category": "recreational", "coords": [16.090981, 43.040174]}, {"name": "Pol Borcića", "text": "O plajă locală în Komiža, ideală pentru o zi relaxantă la malul mării.", "category": "recreational", "coords": [16.059902, 43.046615]}, {"name": "Templuz FKK", "text": "O plajă de naturiști desemnată, situată într-un golf liniștit lângă Komiža.", "category": "recreational", "coords": [16.093483, 43.034478]}, {"name": "Zukamice", "text": "O mică plajă stâncoasă în natura neatinsă de lângă Komiža.", "category": "recreational", "coords": [16.059849, 43.059014]}, {"name": "Vartalac", "text": "O plajă vulcanică cu pietriș în Komiža, cunoscută ca fiind prietenoasă cu câinii.", "category": "recreational", "coords": [16.091432, 43.039248]}, {"name": "Lucica", "text": "O plajă mică și fermecătoare în satul pescăresc Komiza de pe insula Vis.", "category": "recreational", "coords": [16.088841, 43.043018]}, {"name": "Hum", "text": "Cel mai înalt vârf de pe insula Vis oferă o vedere panoramică asupra Adriaticii.", "category": "natural", "coords": [16.113765, 43.029628]}, {"name": "Titova špilja", "text": "Această peșteră istorică a servit drept ascunzătoare pentru Josip Broz Tito în al Doilea Război Mondial.", "category": "natural", "coords": [16.120035, 43.03668]}, {"name": "Sv. Mihovil", "text": "O biserică emblematică și fostă mănăstire din secolul al XII-lea deasupra localității Komiza.", "category": "religious", "coords": [16.11358, 43.048115]}, {"name": "Pritiscina", "text": "Un golf foarte mic și ascuns cu pietriș pe insula Vis, lângă Komiža.", "category": "recreational", "coords": [16.113003, 43.008419]}], "en": [{"name": "Church of Our Lady of Pirates", "text": "Known as Gospa Gusarica, this unique church is located right on the beach and full of local lore.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/komiza-kirche-gospa-gusarica.webp", "coords": [16.084842, 43.048178]}, {"name": "Mount Hum Viewpoint", "text": "The highest peak on Vis Island, offering spectacular views of the Adriatic and nearby islands.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/komiza-berg-hum.webp", "coords": [16.103976, 43.055983]}, {"name": "Komiža Riva", "text": "The lively waterfront promenade, the heart of the town where traditional fishing boats dock.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/komiza-riva-von-komi-a.webp", "coords": [16.089248, 43.044313]}, {"name": "Blue Cave", "text": "A world-famous natural sea cave on Biševo island, known for its brilliant blue glowing water.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/komiza-blaue-grotte.webp", "coords": [16.0215, 42.98035]}, {"name": "Beach Gusarica", "text": "Serving as the main beach of Komiža, this stretch of coastline features fine pebbles and sits close to the pirate church it was named after. The lively environment attracts both locals and travelers looking to enjoy the refreshing water. A coastal stroll makes a wonderful addition to your summer outing.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/komiza-strand-gusarica.webp", "coords": [16.085004, 43.04788]}, {"name": "Beach Kamenice", "text": "Renowned for its natural freshwater springs, this beach in Komiža offers a very distinct swimming experience. The shoreline transforms into a lively gathering spot, especially as the sun begins to set. Sticking around until the evening hours is a great way to take in the unique vibe.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/komiza-strand-kamenice.webp", "coords": [16.092066, 43.038302]}, {"name": "Novo Pošta FKK", "text": "A secluded naturist beach in a rocky cove near Komiža on the island of Vis.", "category": "recreational", "coords": [16.093253, 43.035882]}, {"name": "Perna", "text": "A small, pebbly beach near Komiža, known for its clear waters.", "category": "recreational", "coords": [16.059638, 43.048779]}, {"name": "Barjosko", "text": "A quiet beach in a pristine cove on the island of Vis, ideal for relaxing away from the crowds.", "category": "recreational", "coords": [16.056146, 43.051526]}, {"name": "Pizdica", "text": "A small pebble beach located near Komiža on the island of Vis.", "category": "recreational", "coords": [16.093553, 43.02832]}, {"name": "Velu Zolo", "text": "A natural coastal area in a bay near Komiža.", "category": "recreational", "coords": [16.093131, 43.024719]}, {"name": "Bele Stine", "text": "A secluded rocky coastal section near Komiža.", "category": "recreational", "coords": [16.078899, 43.047188]}, {"name": "Knezica", "text": "A quiet beach in a small bay on the outskirts of Komiža.", "category": "recreational", "coords": [16.063959, 43.044233]}, {"name": "Kupinovac Mali", "text": "A small, untouched pebble beach in the picturesque surroundings of Komiža.", "category": "recreational", "coords": [16.090028, 43.021198]}, {"name": "Mlin", "text": "A charming coastal section on the seafront of Komiža.", "category": "recreational", "coords": [16.090981, 43.040174]}, {"name": "Pol Borcića", "text": "A local beach in Komiža, ideal for a relaxing day by the sea.", "category": "recreational", "coords": [16.059902, 43.046615]}, {"name": "Templuz FKK", "text": "A designated naturist beach located in a quiet bay near Komiža.", "category": "recreational", "coords": [16.093483, 43.034478]}, {"name": "Zukamice", "text": "A small rocky beach in the untouched nature near Komiža.", "category": "recreational", "coords": [16.059849, 43.059014]}, {"name": "Vartalac", "text": "A volcanic pebble beach in Komiža, known for being dog-friendly.", "category": "recreational", "coords": [16.091432, 43.039248]}, {"name": "Lucica", "text": "A charming small beach in the fishing village of Komiza on Vis island.", "category": "recreational", "coords": [16.088841, 43.043018]}, {"name": "Mount Hum", "text": "The highest peak of Vis island offers a wide view over the Adriatic Sea.", "category": "natural", "coords": [16.113765, 43.029628]}, {"name": "Titova špilja", "text": "This historic cave served as a hideout for Josip Broz Tito during World War II.", "category": "natural", "coords": [16.120035, 43.03668]}, {"name": "Sv. Mihovil", "text": "A prominent 12th-century church and former monastery located above Komiza.", "category": "religious", "coords": [16.11358, 43.048115]}, {"name": "Pritiscina", "text": "A very small and hidden pebble bay on Vis island near Komiža.", "category": "recreational", "coords": [16.113003, 43.008419]}], "hr": [{"name": "Novo Pošta FKK", "text": "Skrovita nudistička plaža u stjenovitoj uvali u blizini Komiže na otoku Visu.", "category": "recreational", "coords": [16.093253, 43.035882]}, {"name": "Perna", "text": "Mala šljunčana plaža u blizini Komiže, poznata po čistom moru.", "category": "recreational", "coords": [16.059638, 43.048779]}, {"name": "Barjosko", "text": "Mirna plaža u netaknutoj uvali na otoku Visu, idealna za opuštanje daleko od gužve.", "category": "recreational", "coords": [16.056146, 43.051526]}, {"name": "Pizdica", "text": "Mala šljunčana plaža smještena u blizini Komiže na otoku Visu.", "category": "recreational", "coords": [16.093553, 43.02832]}, {"name": "Velu Zolo", "text": "Prirodni obalni dio u uvali pored Komiže.", "category": "recreational", "coords": [16.093131, 43.024719]}, {"name": "Bele Stine", "text": "Osamljeni stjenoviti dio obale u blizini Komiže.", "category": "recreational", "coords": [16.078899, 43.047188]}, {"name": "Knezica", "text": "Mirna plaža u maloj uvali na rubu Komiže.", "category": "recreational", "coords": [16.063959, 43.044233]}, {"name": "Kupinovac Mali", "text": "Mala, netaknuta šljunčana plaža u slikovitom okruženju Komiže.", "category": "recreational", "coords": [16.090028, 43.021198]}, {"name": "Mlin", "text": "Šarmantan dio obale na samoj rivi u Komiži.", "category": "recreational", "coords": [16.090981, 43.040174]}, {"name": "Pol Borcića", "text": "Lokalna plaža u Komiži, idealna za opušten dan uz more.", "category": "recreational", "coords": [16.059902, 43.046615]}, {"name": "Templuz FKK", "text": "Označena nudistička plaža smještena u mirnoj uvali blizu Komiže.", "category": "recreational", "coords": [16.093483, 43.034478]}, {"name": "Zukamice", "text": "Mala stjenovita plaža u netaknutoj prirodi blizu Komiže.", "category": "recreational", "coords": [16.059849, 43.059014]}, {"name": "Vartalac", "text": "Vulkanska šljunčana plaža u Komiži, poznata kao službena plaža za pse.", "category": "recreational", "coords": [16.091432, 43.039248]}, {"name": "Lucica", "text": "Šarmantna mala plaža u ribarskom mjestu Komiža na otoku Visu.", "category": "recreational", "coords": [16.088841, 43.043018]}, {"name": "Mount Hum", "text": "Najviši vrh otoka Visa nudi dalekosežan pogled na Jadransko more.", "category": "natural", "coords": [16.113765, 43.029628]}, {"name": "Titova špilja", "text": "Ova povijesna špilja služila je kao skrovište Josipu Brozu Titu tijekom Drugog svjetskog rata.", "category": "natural", "coords": [16.120035, 43.03668]}, {"name": "Sv. Mihovil", "text": "Istaknuta crkva i nekadašnji samostan iz 12. stoljeća smješteni iznad Komiže.", "category": "religious", "coords": [16.11358, 43.048115]}, {"name": "Pritiscina", "text": "Vrlo mala i skrivena šljunčana uvala na otoku Visu kod Komiže.", "category": "recreational", "coords": [16.113003, 43.008419]}]}},
+  {"id": "komiza", "type": "city", "parent": "HR-17", "coords": [16.0883, 43.0436], "population": 1395, "tier": 2, "name": {"de": "Komiža", "hu": "Komiža", "ro": "Komiža", "en": "Komiža"}, "description": {"de": "Ein malerisches Fischerdorf am Fuße des Berges Hum auf der Insel Vis. Komiža ist bekannt für seine tiefe Fischereitradition, die einzigartigen Falkuša-Boote und als Tor zur berühmten Blauen Grotte auf Biševo.", "hu": "Gleccser alakú öbölben fekvő festői halászfalu a Hum-hegy lábánál, Vis szigetén. Komiža mély halászati hagyományairól, az egyedülálló Falkuša hajókról és a Biševo-szigeti Kék-barlang kapujaként ismert.", "ro": "Un sat pescăresc pitoresc la poalele muntelui Hum, pe insula Vis. Komiža este cunoscut pentru tradiția sa profundă în pescuit, bărcile unice Falkuša și ca poartă de acces către celebra Grota Albastră de pe Biševo.", "en": "A picturesque fishing village at the foot of Mount Hum on the island of Vis. Komiža is known for its deep fishing tradition, the unique Falkuša boats, and as the gateway to the famous Blue Cave on Biševo."}, "facts": {"de": ["Einwohnerzahl: 1.395 Personen", "Sitz der ältesten Fischereikooperative an der Adria", "Heimat des traditionellen Bootstyps 'Gajeta Falkuša'", "Das Fischerfest im August ist das größte der Region", "Befindet sich auf der sonnigen Westseite der Insel", "Besitzt einen markanten venezianischen Turm im Hafen", "Dominante Architektur aus dunklem Naturstein", "Ausgangspunkt für Boote zur Insel Biševo"], "hu": ["Lakossága 1395 fő", "Az Adria legrégebbi halászati szövetkezetének székhelye", "A 'Gajeta Falkuša' nevű hagyományos hajótípus otthona", "Az augusztusi halászfesztivál a régió legnagyobb eseménye", "A sziget napos nyugati oldalán található", "Jellegzetes velencei toronnyal rendelkezik a kikötőben", "Sötét terméskőből készült domináns építészet", "A Biševo-szigetre induló hajók kiindulópontja"], "ro": ["Populație: 1.395 de persoane", "Sediul celei mai vechi cooperative de pescuit de la Adriatică", "Patria tipului de barcă tradițională 'Gajeta Falkuša'", "Festivalul pescarilor din august este cel mai mare din regiune", "Situat pe partea vestică însorită a insulei", "Deține un turn venețian distinctiv în port", "Arhitectură dominantă din piatră naturală închisă la culoare", "Punct de plecare pentru bărcile către insula Biševo"], "en": ["Population: 1,395 people", "Seat of the oldest fishing cooperative in the Adriatic", "Home of the traditional 'Gajeta Falkuša' boat type", "The Fisherman's Night in August is the region's largest event", "Located on the sunny western side of the island", "Possesses a striking Venetian tower in the harbor", "Dominant architecture made of dark natural stone", "Starting point for boats to Biševo island"]}, "image": "/poi-images/komiza.webp", "imageHint": "Komiža waterfront with old stone houses and the Venetian tower", "descriptionAdvanced": {"de": "Komiža gilt als die Wiege der adriatischen Fischerei. Über Jahrhunderte lebten die Bewohner fast ausschließlich vom Fang von Sardinen und Hummern, was zur Entwicklung der Falkuša führte – eines schnellen Segelbootes, das weite Strecken bis zur Insel Palagruža zurücklegen konnte. Das Stadtbild wird vom venezianischen Kastell aus dem 16. Jahrhundert dominiert, das heute das Fischereimuseum beherbergt. Die engen Gassen winden sich den Hang hinauf zur Kirche St. Nikolaus (Muster), von wo aus man einen spektakulären Blick über die Bucht hat. Komiža hat eine besondere, fast mystische Atmosphäre, verstärkt durch die Nähe zum offenen Meer und die raue Schönheit des Hum-Massivs. Es ist der perfekte Ort, um fangfrischen Fisch zu essen und die Abgeschiedenheit von der Hektik der Welt zu genießen. Ein absolutes Muss ist die kurze Bootsfahrt zur Nachbarinsel Biševo, um das magische blaue Licht der Modra Špilja zu erleben.", "hu": "Komižát az adriai halászat bölcsőjének tartják. Az évszázadok során a lakosok szinte kizárólag szardínia- és homárhalászatból éltek, ami a Falkuša kifejlesztéséhez vezetett – ez egy gyors vitorlás, amely képes volt megtenni a nagy távolságot a távoli Palagruža-szigetig. A városképet a 16. századi velencei vár (Kastel) uralja, amely ma a Halászati Múzeumnak ad otthont. A szűk utcák a hegyoldalra kúsznak fel a Szent Miklós-templomig (Muster), ahonnan látványos kilátás nyílik az öbölre. Komižának különleges, szinte misztikus hangulata van, amelyet a nyílt tenger közelsége és a Hum-hegy vad szépsége tovább erősít. Ez a tökéletes hely frissen fogott halak fogyasztására és a világ zajától való elvonulásra. Kihagyhatatlan program a rövid hajóút a szomszédos Biševo-szigetre, hogy átéljük a Kék-barlang (Modra Špilja) varázslatos kék fényeit.", "ro": "Komiža este considerat leagănul pescuitului adriatic. Timp de secole, locuitorii au trăit aproape exclusiv din pescuitul de sardine și homari, ceea ce a dus la dezvoltarea Falkuša – o barcă cu pânze rapidă, capabilă să parcurgă distanțe mari până la insula Palagruža. Imaginea orașului este dominată de castelul venețian din secolul al XVI-lea, care astăzi găzduiește Muzeul Pescuitului. Străduțele înguste urcă pe versant către biserica Sf. Nicolae (Muster), de unde se oferă o vedere spectaculoasă asupra golfului. Komiža are o atmosferă specială, aproape mistică, accentuată de proximitatea mării deschise și frumusețea aspră a masivului Hum. Este locul perfect pentru a mânca pește proaspăt prins și pentru a te bucura de izolarea de agitația lumii. O vizită obligatorie este scurta călătorie cu barca spre insula vecină Biševo, pentru a experimenta lumina albastră magică din Modra Špilja.", "en": "Komiža is considered the cradle of Adriatic fishing. For centuries, inhabitants lived almost exclusively from catching sardines and lobsters, leading to the development of the Falkuša – a fast sailing boat capable of traveling long distances to Palagruža island. The cityscape is dominated by the 16th-century Venetian castle, which now houses the Fishermen's Museum. Narrow alleys wind up the slope to the Church of St. Nicholas (Muster), offering a spectacular view over the bay. Komiža has a special, almost mystical atmosphere, enhanced by its proximity to the open sea and the rugged beauty of the Hum massif. It is the perfect place to eat freshly caught fish and enjoy seclusion from the world's hustle and bustle. An absolute must is the short boat trip to the neighboring island of Biševo to experience the magical blue light of the Modra Špilja."}, "factsAdvanced": {"de": ["Die Benediktinerabtei Muster wurde im 13. Jh. gegründet", "Komiža war das erste Dorf in Dalmatien mit einer Fischkonservenfabrik", "Jedes Jahr am 6. Dezember wird ein altes Boot rituell verbrannt", "Der Hum-Gipfel ist mit 587 Metern der höchste Punkt der Insel", "Das Kastell wurde zum Schutz vor osmanischen Piraten erbaut", "Die Falkuša-Boote wurden ohne Metallnägel gebaut"], "hu": ["A Muster bencés apátságot a 13. században alapították", "Komiža volt az első dalmát falu, ahol halkonzervgyár épült", "Minden év december 6-án rituálisan elégetnek egy öreg hajót", "A Hum-csúcs 587 méterrel a sziget legmagasabb pontja", "A várat az oszmán kalózok elleni védekezésül építették", "A Falkuša hajókat fémszegek nélkül építették"], "ro": ["Abbația benedictină Muster a fost fondată în secolul al XIII-lea", "Komiža a fost primul sat din Dalmația cu o fabrică de conserve de pește", "În fiecare an, pe 6 decembrie, o barcă veche este arsă ritualic", "Vârful Hum este cel mai înalt punct al insulei, având 587 de metri", "Castelul a fost construit pentru protecție împotriva piraților otomani", "Bărcile Falkuša au fost construite fără cuie metalice"], "en": ["The Muster Benedictine abbey was founded in the 13th century", "Komiža was the first village in Dalmatia with a fish cannery", "Every year on December 6th, an old boat is ritually burned", "Hum peak is the island's highest point at 587 meters", "The castle was built for protection against Ottoman pirates", "The Falkuša boats were constructed without metal nails"]}, "sights": {
+      "de": [
+            {
+                  "name": "Kirche Gospa Gusarica",
+                  "text": "Die Kirche Unserer Lieben Frau der Piraten, bekannt für ihre Lage direkt am Strand und ihre Legenden.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/komiza-kirche-gospa-gusarica.webp",
+                  "coords": [
+                        16.084842,
+                        43.048178
+                  ]
+            },
+            {
+                  "name": "Berg Hum",
+                  "text": "Der höchste Gipfel der Insel Vis mit einer Kapelle und einem spektakulären Blick auf die Adria.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/komiza-berg-hum.webp",
+                  "coords": [
+                        16.103976,
+                        43.055983
+                  ]
+            },
+            {
+                  "name": "Riva von Komiža",
+                  "text": "Die charmante Uferpromenade, das Herz des Ortes mit traditionellen Fischerbooten und Cafés.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/komiza-riva-von-komi-a.webp",
+                  "coords": [
+                        16.089248,
+                        43.044313
+                  ]
+            },
+            {
+                  "name": "Blaue Grotte",
+                  "text": "Ein Naturwunder auf der nahen Insel Biševo, berühmt für das magische blaue Lichtspiel im Wasser.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/komiza-blaue-grotte.webp",
+                  "coords": [
+                        16.0215,
+                        42.98035
+                  ]
+            },
+            {
+                  "name": "Strand Gusarica",
+                  "text": "Als Hauptstrand von Komiža besticht dieser Küstenabschnitt durch feine Kieselsteine und seine Nähe zur namensgebenden Piratenkirche. Die lebhafte Umgebung zieht Einheimische und Besucher gleichermaßen an, die das erfrischende Wasser genießen möchten. Ein Spaziergang entlang der Küste rundet den sommerlichen Badeausflug wunderbar ab.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/komiza-strand-gusarica.webp",
+                  "coords": [
+                        16.085004,
+                        43.04788
+                  ]
+            },
+            {
+                  "name": "Strand Kamenice",
+                  "text": "Bekannt für seine natürlichen Süßwasserquellen, bietet dieser Strand in Komiža ein ganz besonderes Badeerlebnis. Besonders bei Sonnenuntergang verwandelt sich die Küste in einen lebhaften Treffpunkt. Es lohnt sich, bis in die Abendstunden zu bleiben, um das einzigartige Flair zu genießen.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/komiza-strand-kamenice.webp",
+                  "coords": [
+                        16.092066,
+                        43.038302
+                  ]
+            },
+            {
+                  "name": "Novo Pošta FKK",
+                  "text": "Ein abgelegener FKK-Strand in einer felsigen Bucht bei Komiža auf der Insel Vis.",
+                  "category": "recreational",
+                  "coords": [
+                        16.093253,
+                        43.035882
+                  ]
+            },
+            {
+                  "name": "Perna",
+                  "text": "Ein kleiner, von Kies geprägter Strand in der Nähe von Komiža, bekannt für sein klares Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        16.059638,
+                        43.048779
+                  ]
+            },
+            {
+                  "name": "Barjosko",
+                  "text": "Ein ruhiger Strand in einer unberührten Bucht auf der Insel Vis, ideal zum Entspannen abseits der Massen.",
+                  "category": "recreational",
+                  "coords": [
+                        16.056146,
+                        43.051526
+                  ]
+            },
+            {
+                  "name": "Pizdica",
+                  "text": "Ein kleiner Kieselstrand in der Nähe von Komiža auf der Insel Vis.",
+                  "category": "recreational",
+                  "coords": [
+                        16.093553,
+                        43.02832
+                  ]
+            },
+            {
+                  "name": "Velu Zolo",
+                  "text": "Velu Zolo – ein Kieselstrand an der Westküste der Insel Vis bei Komiža.",
+                  "category": "recreational",
+                  "coords": [
+                        16.093131,
+                        43.024719
+                  ]
+            },
+            {
+                  "name": "Bele Stine",
+                  "text": "Bele Stine – eine weiße Felsplatte als Strand bei Komiža auf Vis.",
+                  "category": "recreational",
+                  "coords": [
+                        16.078899,
+                        43.047188
+                  ]
+            },
+            {
+                  "name": "Knezica",
+                  "text": "Ein ruhiger Strand in einer kleinen Bucht am Rande von Komiža.",
+                  "category": "recreational",
+                  "coords": [
+                        16.063959,
+                        43.044233
+                  ]
+            },
+            {
+                  "name": "Kupinovac Mali",
+                  "text": "Ein kleiner, unberührter Kieselstrand in der malerischen Umgebung von Komiža.",
+                  "category": "recreational",
+                  "coords": [
+                        16.090028,
+                        43.021198
+                  ]
+            },
+            {
+                  "name": "Mlin",
+                  "text": "Mlin – ein historischer Steinmühle am Strand von Komiža, heute ein beliebter Badeplatz.",
+                  "category": "recreational",
+                  "coords": [
+                        16.090981,
+                        43.040174
+                  ]
+            },
+            {
+                  "name": "Pol Borcića",
+                  "text": "Ein lokaler Strand in Komiža, ideal für einen entspannten Tag am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        16.059902,
+                        43.046615
+                  ]
+            },
+            {
+                  "name": "Templuz FKK",
+                  "text": "Ein ausgewiesener FKK-Strand in einer ruhigen Bucht nahe Komiža.",
+                  "category": "recreational",
+                  "coords": [
+                        16.093483,
+                        43.034478
+                  ]
+            },
+            {
+                  "name": "Zukamice",
+                  "text": "Ein kleiner Felsstrand in der unberührten Natur in der Nähe von Komiža.",
+                  "category": "recreational",
+                  "coords": [
+                        16.059849,
+                        43.059014
+                  ]
+            },
+            {
+                  "name": "Vartalac",
+                  "text": "Ein vulkanischer Kieselstrand in Komiža, der als hundefreundlich bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        16.091432,
+                        43.039248
+                  ]
+            },
+            {
+                  "name": "Lucica",
+                  "text": "Ein charmanter kleiner Strand im Fischerort Komiza auf der Insel Vis.",
+                  "category": "recreational",
+                  "coords": [
+                        16.088841,
+                        43.043018
+                  ]
+            },
+            {
+                  "name": "Hum",
+                  "text": "Der höchste Gipfel der Insel Vis bietet einen weiten Blick über die Adria.",
+                  "category": "natural",
+                  "coords": [
+                        16.113765,
+                        43.029628
+                  ]
+            },
+            {
+                  "name": "Titova špilja",
+                  "text": "Diese historische Höhle diente Josip Broz Tito im Zweiten Weltkrieg als Versteck.",
+                  "category": "natural",
+                  "coords": [
+                        16.120035,
+                        43.03668
+                  ]
+            },
+            {
+                  "name": "Sv. Mihovil",
+                  "text": "Eine markante Kirche und ehemaliges Kloster aus dem 12. Jahrhundert oberhalb von Komiza.",
+                  "category": "religious",
+                  "coords": [
+                        16.11358,
+                        43.048115
+                  ]
+            },
+            {
+                  "name": "Pritiscina",
+                  "text": "Eine sehr kleine und versteckte Kieselbucht auf der Insel Vis bei Komiža.",
+                  "category": "recreational",
+                  "coords": [
+                        16.113003,
+                        43.008419
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gospa Gusarica templom",
+                  "text": "A Kalózok Boldogasszonya templom, amely közvetlenül a tengerparton épült és számos legenda övezi.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/komiza-kirche-gospa-gusarica.webp",
+                  "coords": [
+                        16.084842,
+                        43.048178
+                  ]
+            },
+            {
+                  "name": "Hum-hegy",
+                  "text": "A Vis-sziget legmagasabb pontja, ahonnan tiszta időben az olasz partokig is el lehet látni.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/komiza-berg-hum.webp",
+                  "coords": [
+                        16.103976,
+                        43.055983
+                  ]
+            },
+            {
+                  "name": "Komižai Riva",
+                  "text": "A város élettel teli tengerparti sétánya, ahol a hagyományos falkuša halászhajók horgonyoznak.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/komiza-riva-von-komi-a.webp",
+                  "coords": [
+                        16.089248,
+                        43.044313
+                  ]
+            },
+            {
+                  "name": "Kék barlang",
+                  "text": "A közeli Biševo-szigeten található természeti csoda, amely egyedülálló fényjelenségeiről híres.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/komiza-blaue-grotte.webp",
+                  "coords": [
+                        16.0215,
+                        42.98035
+                  ]
+            },
+            {
+                  "name": "Gusarica strand",
+                  "text": "Komiža fő strandjaként ez a partszakasz finom kavicsokkal és a névadó kalóztemplom közelségével varázsolja el a látogatókat. Az élénk környezet egyaránt vonzza a helyieket és az utazókat, akik a hűsítő vizet szeretnék élvezni. A tengerparti séta csodálatosan kiegészíti a nyári fürdőzést.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/komiza-strand-gusarica.webp",
+                  "coords": [
+                        16.085004,
+                        43.04788
+                  ]
+            },
+            {
+                  "name": "Kamenice strand",
+                  "text": "A természetes édesvizű forrásairól ismert komižai strand igazán különleges fürdőzési élményt nyújt. Különösen naplemente idején a partvidék egy élénk találkozóhellyé alakul át. Érdemes az esti órákig maradni, hogy átéljük ezt az egyedi hangulatot.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/komiza-strand-kamenice.webp",
+                  "coords": [
+                        16.092066,
+                        43.038302
+                  ]
+            },
+            {
+                  "name": "Novo Pošta FKK",
+                  "text": "Elszigetelt naturista strand egy sziklás öbölben Komiža közelében, Vis szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        16.093253,
+                        43.035882
+                  ]
+            },
+            {
+                  "name": "Perna",
+                  "text": "Kicsi, kavicsos strand Komiža közelében, amely tiszta vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        16.059638,
+                        43.048779
+                  ]
+            },
+            {
+                  "name": "Barjosko",
+                  "text": "Nyugodt strand egy érintetlen öbölben Vis szigetén, ideális a tömegtől távoli pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        16.056146,
+                        43.051526
+                  ]
+            },
+            {
+                  "name": "Pizdica",
+                  "text": "Egy kis kavicsos strand Komiža közelében, Vis szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        16.093553,
+                        43.02832
+                  ]
+            },
+            {
+                  "name": "Velu Zolo",
+                  "text": "Velu Zolo – kavicsos strand Vis szigetének nyugati partján, Komiža közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.093131,
+                        43.024719
+                  ]
+            },
+            {
+                  "name": "Bele Stine",
+                  "text": "Bele Stine – fehér sziklákból álló strand Komiža közelében, Vis szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        16.078899,
+                        43.047188
+                  ]
+            },
+            {
+                  "name": "Knezica",
+                  "text": "Nyugodt tengerpart egy kis öbölben Komiža szélén.",
+                  "category": "recreational",
+                  "coords": [
+                        16.063959,
+                        43.044233
+                  ]
+            },
+            {
+                  "name": "Kupinovac Mali",
+                  "text": "Egy kicsi, érintetlen kavicsos strand Komiža festői környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        16.090028,
+                        43.021198
+                  ]
+            },
+            {
+                  "name": "Mlin",
+                  "text": "Mlin – egy történelmi kőmalom Komiža strandján, ma népszerű fürdőhely.",
+                  "category": "recreational",
+                  "coords": [
+                        16.090981,
+                        43.040174
+                  ]
+            },
+            {
+                  "name": "Pol Borcića",
+                  "text": "Egy helyi strand Komiža városában, ideális a tengerparti pihenéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        16.059902,
+                        43.046615
+                  ]
+            },
+            {
+                  "name": "Templuz FKK",
+                  "text": "Kijelölt naturista strand egy csendes öbölben Komiža közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.093483,
+                        43.034478
+                  ]
+            },
+            {
+                  "name": "Zukamice",
+                  "text": "Egy apró sziklás strand az érintetlen természetben Komiža közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.059849,
+                        43.059014
+                  ]
+            },
+            {
+                  "name": "Vartalac",
+                  "text": "Vulkáni eredetű kavicsos strand Komižában, amely kutyabarát helyként ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        16.091432,
+                        43.039248
+                  ]
+            },
+            {
+                  "name": "Lucica",
+                  "text": "Hangulatos kis strand Komiza halászfalujában, Vis szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        16.088841,
+                        43.043018
+                  ]
+            },
+            {
+                  "name": "Hum",
+                  "text": "Vis szigetének legmagasabb pontja, ahonnan pazar kilátás nyílik az Adriára.",
+                  "category": "natural",
+                  "coords": [
+                        16.113765,
+                        43.029628
+                  ]
+            },
+            {
+                  "name": "Titova špilja",
+                  "text": "Ez a történelmi barlang szolgált Josip Broz Tito rejtekhelyeként a második világháborúban.",
+                  "category": "natural",
+                  "coords": [
+                        16.120035,
+                        43.03668
+                  ]
+            },
+            {
+                  "name": "Sv. Mihovil",
+                  "text": "Jellegzetes 12. századi templom és egykori kolostor Komiza felett.",
+                  "category": "religious",
+                  "coords": [
+                        16.11358,
+                        43.048115
+                  ]
+            },
+            {
+                  "name": "Pritiscina",
+                  "text": "Nagyon kicsi és rejtett kavicsos öböl Vis szigetén, Komiža közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.113003,
+                        43.008419
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica Gospa Gusarica",
+                  "text": "Biserica Maicii Domnului a Piraților, situată pe plajă, faimoasă pentru legendele sale maritime.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/komiza-kirche-gospa-gusarica.webp",
+                  "coords": [
+                        16.084842,
+                        43.048178
+                  ]
+            },
+            {
+                  "name": "Muntele Hum",
+                  "text": "Cel mai înalt vârf de pe insula Vis, oferind panorame uluitoare asupra arhipelagului adriatic.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/komiza-berg-hum.webp",
+                  "coords": [
+                        16.103976,
+                        43.055983
+                  ]
+            },
+            {
+                  "name": "Promenada Riva din Komiža",
+                  "text": "Faleza fermecătoare unde sunt ancorate bărcile de pescuit tradiționale într-un decor pitoresc.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/komiza-riva-von-komi-a.webp",
+                  "coords": [
+                        16.089248,
+                        43.044313
+                  ]
+            },
+            {
+                  "name": "Grota Albastră",
+                  "text": "O minune naturală pe insula vecină Biševo, cunoscută pentru lumina albastră feerică din interior.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/komiza-blaue-grotte.webp",
+                  "coords": [
+                        16.0215,
+                        42.98035
+                  ]
+            },
+            {
+                  "name": "Plaja Gusarica",
+                  "text": "Fiind plaja principală din Komiža, această porțiune de coastă impresionează prin pietrișul fin și apropierea de biserica piraților care îi dă numele. Mediul animat atrage deopotrivă localnicii și vizitatorii dornici să se bucure de apa răcoroasă. O plimbare de-a lungul coastei completează minunat o zi de vară la plajă.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/komiza-strand-gusarica.webp",
+                  "coords": [
+                        16.085004,
+                        43.04788
+                  ]
+            },
+            {
+                  "name": "Plaja Kamenice",
+                  "text": "Cunoscută pentru izvoarele sale naturale de apă dulce, această plajă din Komiža oferă o experiență deosebită de scăldat. Mai ales la apus, coasta se transformă într-un loc de întâlnire plin de viață. Merită să rămâneți până seara târziu pentru a savura atmosfera unică.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/komiza-strand-kamenice.webp",
+                  "coords": [
+                        16.092066,
+                        43.038302
+                  ]
+            },
+            {
+                  "name": "Novo Pošta FKK",
+                  "text": "O plajă de nudiști izolată, situată într-un golf stâncos lângă Komiža, pe insula Vis.",
+                  "category": "recreational",
+                  "coords": [
+                        16.093253,
+                        43.035882
+                  ]
+            },
+            {
+                  "name": "Perna",
+                  "text": "O mică plajă cu pietriș lângă Komiža, cunoscută pentru apa sa limpede.",
+                  "category": "recreational",
+                  "coords": [
+                        16.059638,
+                        43.048779
+                  ]
+            },
+            {
+                  "name": "Barjosko",
+                  "text": "O plajă liniștită într-un golf curat de pe insula Vis, ideală pentru relaxare departe de mulțime.",
+                  "category": "recreational",
+                  "coords": [
+                        16.056146,
+                        43.051526
+                  ]
+            },
+            {
+                  "name": "Pizdica",
+                  "text": "O mică plajă cu pietriș situată lângă Komiža, pe insula Vis.",
+                  "category": "recreational",
+                  "coords": [
+                        16.093553,
+                        43.02832
+                  ]
+            },
+            {
+                  "name": "Velu Zolo",
+                  "text": "Velu Zolo – o plajă cu pietriș pe coasta de vest a insulei Vis lângă Komiža.",
+                  "category": "recreational",
+                  "coords": [
+                        16.093131,
+                        43.024719
+                  ]
+            },
+            {
+                  "name": "Bele Stine",
+                  "text": "Bele Stine – o plajă de rocă albă lângă Komiža pe insula Vis.",
+                  "category": "recreational",
+                  "coords": [
+                        16.078899,
+                        43.047188
+                  ]
+            },
+            {
+                  "name": "Knezica",
+                  "text": "O plajă liniștită într-un mic golf la marginea orașului Komiža.",
+                  "category": "recreational",
+                  "coords": [
+                        16.063959,
+                        43.044233
+                  ]
+            },
+            {
+                  "name": "Kupinovac Mali",
+                  "text": "O mică plajă cu pietriș, neatinsă, în împrejurimile pitorești din Komiža.",
+                  "category": "recreational",
+                  "coords": [
+                        16.090028,
+                        43.021198
+                  ]
+            },
+            {
+                  "name": "Mlin",
+                  "text": "Mlin – o moară istorică de piatră pe plaja din Komiža, acum o zonă de înot populară.",
+                  "category": "recreational",
+                  "coords": [
+                        16.090981,
+                        43.040174
+                  ]
+            },
+            {
+                  "name": "Pol Borcića",
+                  "text": "O plajă locală în Komiža, ideală pentru o zi relaxantă la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        16.059902,
+                        43.046615
+                  ]
+            },
+            {
+                  "name": "Templuz FKK",
+                  "text": "O plajă de naturiști desemnată, situată într-un golf liniștit lângă Komiža.",
+                  "category": "recreational",
+                  "coords": [
+                        16.093483,
+                        43.034478
+                  ]
+            },
+            {
+                  "name": "Zukamice",
+                  "text": "O mică plajă stâncoasă în natura neatinsă de lângă Komiža.",
+                  "category": "recreational",
+                  "coords": [
+                        16.059849,
+                        43.059014
+                  ]
+            },
+            {
+                  "name": "Vartalac",
+                  "text": "O plajă vulcanică cu pietriș în Komiža, cunoscută ca fiind prietenoasă cu câinii.",
+                  "category": "recreational",
+                  "coords": [
+                        16.091432,
+                        43.039248
+                  ]
+            },
+            {
+                  "name": "Lucica",
+                  "text": "O plajă mică și fermecătoare în satul pescăresc Komiza de pe insula Vis.",
+                  "category": "recreational",
+                  "coords": [
+                        16.088841,
+                        43.043018
+                  ]
+            },
+            {
+                  "name": "Hum",
+                  "text": "Cel mai înalt vârf de pe insula Vis oferă o vedere panoramică asupra Adriaticii.",
+                  "category": "natural",
+                  "coords": [
+                        16.113765,
+                        43.029628
+                  ]
+            },
+            {
+                  "name": "Titova špilja",
+                  "text": "Această peșteră istorică a servit drept ascunzătoare pentru Josip Broz Tito în al Doilea Război Mondial.",
+                  "category": "natural",
+                  "coords": [
+                        16.120035,
+                        43.03668
+                  ]
+            },
+            {
+                  "name": "Sv. Mihovil",
+                  "text": "O biserică emblematică și fostă mănăstire din secolul al XII-lea deasupra localității Komiza.",
+                  "category": "religious",
+                  "coords": [
+                        16.11358,
+                        43.048115
+                  ]
+            },
+            {
+                  "name": "Pritiscina",
+                  "text": "Un golf foarte mic și ascuns cu pietriș pe insula Vis, lângă Komiža.",
+                  "category": "recreational",
+                  "coords": [
+                        16.113003,
+                        43.008419
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Church of Our Lady of Pirates",
+                  "text": "Known as Gospa Gusarica, this unique church is located right on the beach and full of local lore.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/komiza-kirche-gospa-gusarica.webp",
+                  "coords": [
+                        16.084842,
+                        43.048178
+                  ]
+            },
+            {
+                  "name": "Mount Hum Viewpoint",
+                  "text": "The highest peak on Vis Island, offering spectacular views of the Adriatic and nearby islands.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/komiza-berg-hum.webp",
+                  "coords": [
+                        16.103976,
+                        43.055983
+                  ]
+            },
+            {
+                  "name": "Komiža Riva",
+                  "text": "The lively waterfront promenade, the heart of the town where traditional fishing boats dock.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/komiza-riva-von-komi-a.webp",
+                  "coords": [
+                        16.089248,
+                        43.044313
+                  ]
+            },
+            {
+                  "name": "Blue Cave",
+                  "text": "A world-famous natural sea cave on Biševo island, known for its brilliant blue glowing water.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/komiza-blaue-grotte.webp",
+                  "coords": [
+                        16.0215,
+                        42.98035
+                  ]
+            },
+            {
+                  "name": "Beach Gusarica",
+                  "text": "Serving as the main beach of Komiža, this stretch of coastline features fine pebbles and sits close to the pirate church it was named after. The lively environment attracts both locals and travelers looking to enjoy the refreshing water. A coastal stroll makes a wonderful addition to your summer outing.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/komiza-strand-gusarica.webp",
+                  "coords": [
+                        16.085004,
+                        43.04788
+                  ]
+            },
+            {
+                  "name": "Beach Kamenice",
+                  "text": "Renowned for its natural freshwater springs, this beach in Komiža offers a very distinct swimming experience. The shoreline transforms into a lively gathering spot, especially as the sun begins to set. Sticking around until the evening hours is a great way to take in the unique vibe.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/komiza-strand-kamenice.webp",
+                  "coords": [
+                        16.092066,
+                        43.038302
+                  ]
+            },
+            {
+                  "name": "Novo Pošta FKK",
+                  "text": "A secluded naturist beach in a rocky cove near Komiža on the island of Vis.",
+                  "category": "recreational",
+                  "coords": [
+                        16.093253,
+                        43.035882
+                  ]
+            },
+            {
+                  "name": "Perna",
+                  "text": "A small, pebbly beach near Komiža, known for its clear waters.",
+                  "category": "recreational",
+                  "coords": [
+                        16.059638,
+                        43.048779
+                  ]
+            },
+            {
+                  "name": "Barjosko",
+                  "text": "A quiet beach in a pristine cove on the island of Vis, ideal for relaxing away from the crowds.",
+                  "category": "recreational",
+                  "coords": [
+                        16.056146,
+                        43.051526
+                  ]
+            },
+            {
+                  "name": "Pizdica",
+                  "text": "A small pebble beach located near Komiža on the island of Vis.",
+                  "category": "recreational",
+                  "coords": [
+                        16.093553,
+                        43.02832
+                  ]
+            },
+            {
+                  "name": "Velu Zolo",
+                  "text": "Velu Zolo – a pebble beach on the west coast of Vis island near Komiža.",
+                  "category": "recreational",
+                  "coords": [
+                        16.093131,
+                        43.024719
+                  ]
+            },
+            {
+                  "name": "Bele Stine",
+                  "text": "Bele Stine – a white rock slab beach near Komiža on the island of Vis.",
+                  "category": "recreational",
+                  "coords": [
+                        16.078899,
+                        43.047188
+                  ]
+            },
+            {
+                  "name": "Knezica",
+                  "text": "A quiet beach in a small bay on the outskirts of Komiža.",
+                  "category": "recreational",
+                  "coords": [
+                        16.063959,
+                        43.044233
+                  ]
+            },
+            {
+                  "name": "Kupinovac Mali",
+                  "text": "A small, untouched pebble beach in the picturesque surroundings of Komiža.",
+                  "category": "recreational",
+                  "coords": [
+                        16.090028,
+                        43.021198
+                  ]
+            },
+            {
+                  "name": "Mlin",
+                  "text": "Mlin – a historic stone mill on the beach at Komiža, now a popular swimming spot.",
+                  "category": "recreational",
+                  "coords": [
+                        16.090981,
+                        43.040174
+                  ]
+            },
+            {
+                  "name": "Pol Borcića",
+                  "text": "A local beach in Komiža, ideal for a relaxing day by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        16.059902,
+                        43.046615
+                  ]
+            },
+            {
+                  "name": "Templuz FKK",
+                  "text": "A designated naturist beach located in a quiet bay near Komiža.",
+                  "category": "recreational",
+                  "coords": [
+                        16.093483,
+                        43.034478
+                  ]
+            },
+            {
+                  "name": "Zukamice",
+                  "text": "A small rocky beach in the untouched nature near Komiža.",
+                  "category": "recreational",
+                  "coords": [
+                        16.059849,
+                        43.059014
+                  ]
+            },
+            {
+                  "name": "Vartalac",
+                  "text": "A volcanic pebble beach in Komiža, known for being dog-friendly.",
+                  "category": "recreational",
+                  "coords": [
+                        16.091432,
+                        43.039248
+                  ]
+            },
+            {
+                  "name": "Lucica",
+                  "text": "A charming small beach in the fishing village of Komiza on Vis island.",
+                  "category": "recreational",
+                  "coords": [
+                        16.088841,
+                        43.043018
+                  ]
+            },
+            {
+                  "name": "Mount Hum",
+                  "text": "The highest peak of Vis island offers a wide view over the Adriatic Sea.",
+                  "category": "natural",
+                  "coords": [
+                        16.113765,
+                        43.029628
+                  ]
+            },
+            {
+                  "name": "Titova špilja",
+                  "text": "This historic cave served as a hideout for Josip Broz Tito during World War II.",
+                  "category": "natural",
+                  "coords": [
+                        16.120035,
+                        43.03668
+                  ]
+            },
+            {
+                  "name": "Sv. Mihovil",
+                  "text": "A prominent 12th-century church and former monastery located above Komiza.",
+                  "category": "religious",
+                  "coords": [
+                        16.11358,
+                        43.048115
+                  ]
+            },
+            {
+                  "name": "Pritiscina",
+                  "text": "A very small and hidden pebble bay on Vis island near Komiža.",
+                  "category": "recreational",
+                  "coords": [
+                        16.113003,
+                        43.008419
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Novo Pošta FKK",
+                  "text": "Skrovita nudistička plaža u stjenovitoj uvali u blizini Komiže na otoku Visu.",
+                  "category": "recreational",
+                  "coords": [
+                        16.093253,
+                        43.035882
+                  ]
+            },
+            {
+                  "name": "Perna",
+                  "text": "Mala šljunčana plaža u blizini Komiže, poznata po čistom moru.",
+                  "category": "recreational",
+                  "coords": [
+                        16.059638,
+                        43.048779
+                  ]
+            },
+            {
+                  "name": "Barjosko",
+                  "text": "Mirna plaža u netaknutoj uvali na otoku Visu, idealna za opuštanje daleko od gužve.",
+                  "category": "recreational",
+                  "coords": [
+                        16.056146,
+                        43.051526
+                  ]
+            },
+            {
+                  "name": "Pizdica",
+                  "text": "Mala šljunčana plaža smještena u blizini Komiže na otoku Visu.",
+                  "category": "recreational",
+                  "coords": [
+                        16.093553,
+                        43.02832
+                  ]
+            },
+            {
+                  "name": "Velu Zolo",
+                  "text": "Prirodni obalni dio u uvali pored Komiže.",
+                  "category": "recreational",
+                  "coords": [
+                        16.093131,
+                        43.024719
+                  ]
+            },
+            {
+                  "name": "Bele Stine",
+                  "text": "Osamljeni stjenoviti dio obale u blizini Komiže.",
+                  "category": "recreational",
+                  "coords": [
+                        16.078899,
+                        43.047188
+                  ]
+            },
+            {
+                  "name": "Knezica",
+                  "text": "Mirna plaža u maloj uvali na rubu Komiže.",
+                  "category": "recreational",
+                  "coords": [
+                        16.063959,
+                        43.044233
+                  ]
+            },
+            {
+                  "name": "Kupinovac Mali",
+                  "text": "Mala, netaknuta šljunčana plaža u slikovitom okruženju Komiže.",
+                  "category": "recreational",
+                  "coords": [
+                        16.090028,
+                        43.021198
+                  ]
+            },
+            {
+                  "name": "Mlin",
+                  "text": "Šarmantan dio obale na samoj rivi u Komiži.",
+                  "category": "recreational",
+                  "coords": [
+                        16.090981,
+                        43.040174
+                  ]
+            },
+            {
+                  "name": "Pol Borcića",
+                  "text": "Lokalna plaža u Komiži, idealna za opušten dan uz more.",
+                  "category": "recreational",
+                  "coords": [
+                        16.059902,
+                        43.046615
+                  ]
+            },
+            {
+                  "name": "Templuz FKK",
+                  "text": "Označena nudistička plaža smještena u mirnoj uvali blizu Komiže.",
+                  "category": "recreational",
+                  "coords": [
+                        16.093483,
+                        43.034478
+                  ]
+            },
+            {
+                  "name": "Zukamice",
+                  "text": "Mala stjenovita plaža u netaknutoj prirodi blizu Komiže.",
+                  "category": "recreational",
+                  "coords": [
+                        16.059849,
+                        43.059014
+                  ]
+            },
+            {
+                  "name": "Vartalac",
+                  "text": "Vulkanska šljunčana plaža u Komiži, poznata kao službena plaža za pse.",
+                  "category": "recreational",
+                  "coords": [
+                        16.091432,
+                        43.039248
+                  ]
+            },
+            {
+                  "name": "Lucica",
+                  "text": "Šarmantna mala plaža u ribarskom mjestu Komiža na otoku Visu.",
+                  "category": "recreational",
+                  "coords": [
+                        16.088841,
+                        43.043018
+                  ]
+            },
+            {
+                  "name": "Mount Hum",
+                  "text": "Najviši vrh otoka Visa nudi dalekosežan pogled na Jadransko more.",
+                  "category": "natural",
+                  "coords": [
+                        16.113765,
+                        43.029628
+                  ]
+            },
+            {
+                  "name": "Titova špilja",
+                  "text": "Ova povijesna špilja služila je kao skrovište Josipu Brozu Titu tijekom Drugog svjetskog rata.",
+                  "category": "natural",
+                  "coords": [
+                        16.120035,
+                        43.03668
+                  ]
+            },
+            {
+                  "name": "Sv. Mihovil",
+                  "text": "Istaknuta crkva i nekadašnji samostan iz 12. stoljeća smješteni iznad Komiže.",
+                  "category": "religious",
+                  "coords": [
+                        16.11358,
+                        43.048115
+                  ]
+            },
+            {
+                  "name": "Pritiscina",
+                  "text": "Vrlo mala i skrivena šljunčana uvala na otoku Visu kod Komiže.",
+                  "category": "recreational",
+                  "coords": [
+                        16.113003,
+                        43.008419
+                  ]
+            }
+      ]
+}},
   {"id": "omis", "type": "city", "parent": "HR-17", "coords": [16.6889, 43.4444], "population": 14936, "tier": 2, "name": {"de": "Omiš", "hu": "Omiš", "ro": "Omiš", "en": "Omiš"}, "description": {"de": "Eine dramatisch gelegene Stadt an der Mündung des Flusses Cetina, berühmt für ihre Geschichte als Piratenhochburg und die imposanten Klippen, die die Altstadt umrahmen. Omiš ist heute ein Paradies für Aktivurlauber.", "hu": "Dramatikus fekvésű város a Cetina-folyó torkolatánál, amely kalózhajókkal teli múltjáról és az óvárost keretező impozáns szikláiról híres. Omiš ma az aktív kikapcsolódást keresők paradicsoma.", "ro": "Un oraș situat dramatic la gura de vărsare a râului Cetina, renumit pentru istoria sa ca bastion al piraților și pentru stâncile impunătoare care încadrează centrul vechi. Omiš este astăzi un paradis pentru turiștii activi.", "en": "A dramatically situated town at the mouth of the Cetina River, famous for its history as a pirate stronghold and the imposing cliffs framing the old town. Omiš is now a paradise for active travelers."}, "facts": {"de": ["Einwohnerzahl: 14.936 Personen", "Einstiges Zentrum der berüchtigten Omiš-Piraten", "Liegt genau an der Mündung der Cetina", "Besitzt zwei mittelalterliche Festungen (Mirabella & Starigrad)", "Austragungsort des Dalmatien-Klapa-Festivals", "Bekannt für Abenteuersportarten wie Ziplining", "Die Altstadt hat enge, mediterrane Gassen", "Sandstrände sind hier eine seltene Besonderheit"], "hu": ["Lakossága 14 936 fő", "A hírhedt omiši kalózok egykori központja", "Pontosan a Cetina torkolatánál fekszik", "Két középkori erőddel is büszkélkedhet (Mirabella és Starigrad)", "A dalmát Klapa-fesztivál helyszíne", "Kalandos sportokról, például a zipline-ról ismert", "Az óváros szűk, mediterrán sikátorokkal teli", "A homokos strandok ritka különlegességnek számítanak itt"], "ro": ["Populație: 14.936 de persoane", "Fost centru al infamiilor pirați din Omiš", "Situat exact la gura de vărsare a râului Cetina", "Deține două cetăți medievale (Mirabella și Starigrad)", "Gazda Festivalului Klapa din Dalmația", "Cunoscut pentru sporturi de aventură precum zipline", "Orașul vechi are străduțe mediteraneene înguste", "Plajele cu nisip sunt o raritate specifică aici"], "en": ["Population: 14,936 people", "Former center of the notorious Omiš pirates", "Located exactly at the mouth of the Cetina River", "Boasts two medieval fortresses (Mirabella & Starigrad)", "Host of the Dalmatian Klapa Festival", "Known for adventure sports like ziplining", "The old town has narrow Mediterranean alleys", "Sand beaches are a rare specialty here"]}, "image": "/poi-images/omis.webp", "imageHint": "Omiš old town at the Cetina river mouth with canyon and fortress", "descriptionAdvanced": {"de": "Omiš ist eine Stadt, in der die Berge buchstäblich ins Meer stürzen. Die Lage an der Cetina-Schlucht bot den mittelalterlichen Piraten von Omiš, den Sagittae, einen unschlagbaren strategischen Vorteil. Von ihren Festungen Mirabella (Peovica) und Starigrad (Fortica) aus kontrollierten sie jahrhundertelang den Seeverkehr in der Adria. Heute ist die Stadt das Zentrum für Aktivtourismus in Dalmatien. Besucher können auf einer der längsten Ziplines Europas über den Canyon gleiten, Rafting-Touren auf dem Fluss unternehmen oder die steilen Felswände erklettern. Die Altstadt bietet jedoch auch Ruhe mit ihren Kirchen, kleinen Plätzen und dem traditionellen mehrstimmigen Klapa-Gesang, der hier tief verwurzelt ist. Einzigartig für diese Region ist der große Sandstrand Punta, der durch Ablagerungen der Cetina entstanden ist und flach in das kristallklare Meer abfällt.", "hu": "Omiš egy olyan város, ahol a hegyek szó szerint a tengerbe szakadnak. A Cetina-szurdoknál elfoglalt fekvése az omiši középkori kalózoknak, a Sagittae-knak verhetetlen stratégiai előnyt biztosított. Mirabella (Peovica) és Starigrad (Fortica) erődjeiből évszázadokon át ellenőrizték az adriai tengeri forgalmat. Ma a város Dalmácia aktív turizmusának központja. A látogatók Európa egyik leghosszabb zipline-pályáján sikolhatnak a kanyon felett, raftingolhatnak a folyón, vagy megmászhatják a meredek sziklafalakat. Az óváros ugyanakkor nyugalmat is áraszt templomaival, kis tereivel és a hagyományos többszólamú Klapa-énekkel, amely itt mélyen gyökerezik. A régióban egyedülálló a nagy Punta homokos strand, amelyet a Cetina hordaléka alakított ki, és lassan mélyül a kristálytiszta tengerben.", "ro": "Omiš este un oraș în care munții se prăbușesc literalmente în mare. Poziția sa la canionul Cetinei le-a oferit piraților medievali din Omiš, Sagittae, un avantaj strategic imbatibil. Din cetățile lor Mirabella (Peovica) și Starigrad (Fortica), au controlat traficul maritim din Adriatica timp de secole. Astăzi, orașul este centrul turismului activ din Dalmația. Vizitatorii pot aluneca pe una dintre cele mai lungi tiroliene din Europa deasupra canionului, pot face rafting pe râu sau pot escalada pereții stâncoși abrupți. Cu toate acestea, orașul vechi oferă și liniște cu bisericile sale, piețele mici și cântul tradițional Klapa pe mai multe voci, care este profund înrădăcinat aici. Unic pentru această regiune este marea plajă cu nisip Punta, formată din sedimentele Cetinei, care coboară lin în marea de cristal.", "en": "Omiš is a city where the mountains literally tumble into the sea. Its location at the Cetina canyon provided the medieval pirates of Omiš, the Sagittae, with an unbeatable strategic advantage. From their fortresses Mirabella (Peovica) and Starigrad (Fortica), they controlled Adriatic sea traffic for centuries. Today, the city is the hub for active tourism in Dalmatia. Visitors can glide across the canyon on one of Europe's longest ziplines, go rafting on the river, or climb the steep rock faces. However, the old town also offers tranquility with its churches, small squares, and traditional polyphonic Klapa singing, which is deeply rooted here. Unique to this region is the large Punta sand beach, formed by deposits from the Cetina, which slopes gently into the crystal-clear sea."}, "factsAdvanced": {"de": ["Die Piraten von Omiš besiegten 1167 die Flotte von Venedig", "Die Festung Mirabella stammt aus dem 13. Jahrhundert", "Das Klapa-Festival wird seit 1967 jedes Jahr ausgetragen", "Die Cetina-Schlucht ist ein geschütztes Naturdenkmal", "Die Kirche St. Peter in Priko stammt aus dem 10. Jahrhundert", "Im 15. Jahrhundert fiel die Stadt unter venezianische Herrschaft"], "hu": ["Az omiši kalózok 1167-ben legyőzték Velence flottáját", "A Mirabella-erőd a 13. századból származik", "A Klapa-fesztivált 1967 óta minden évben megrendezik", "A Cetina-szurdok védett természeti emlék", "A prikói Szent Péter-templom a 10. századból való", "A 15. században a város velencei uralom alá került"], "ro": ["Pirații din Omiš au învins flota Veneției în 1167", "Cetatea Mirabella datează din secolul al XIII-lea", "Festivalul Klapa se organizează anual din 1967", "Canionul Cetinei este un monument natural protejat", "Biserica Sf. Petru din Priko datează din secolul al X-lea", "În secolul al XV-lea, orașul a intrat sub stăpânire venețiană"], "en": ["The Omiš pirates defeated the Venetian fleet in 1167", "Mirabella fortress dates back to the 13th century", "The Klapa Festival has been held annually since 1967", "The Cetina canyon is a protected natural monument", "The Church of St. Peter in Priko dates from the 10th century", "In the 15th century, the town fell under Venetian rule"]}, "sights": {"de": [{"name": "Festung Mirabella", "text": "Eine romanische Festung aus dem 13. Jahrhundert, die hoch über der Altstadt auf den Felsen thront.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/omis-festung-mirabella.webp", "coords": [16.6935, 43.44489]}, {"name": "Festung Starigrad", "text": "Eine strategische Bergfestung, die einen weiten Blick über den Brač-Kanal und das Hinterland bietet.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/omis-festung-starigrad.webp", "coords": [16.7, 43.4447]}, {"name": "Cetina-Flussschlucht", "text": "Ein spektakulärer Canyon, der für Rafting, Ziplining und seine unberührte Natur bekannt ist.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/omis-cetina-flussschlucht.webp", "coords": [16.751425, 43.438676]}, {"name": "Kirche des Hl. Michael", "text": "Die spätgotische Pfarrkirche der Stadt mit einem imposanten Glockenturm aus dem 18. Jahrhundert.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/omis-kirche-des-hl-michael.webp", "coords": [16.693446, 43.444102]}, {"name": "Haus des glücklichen Menschen", "text": "Ein Renaissancehaus, bekannt für die lateinische Inschrift über dem Portal: Ich danke Gott.", "category": "famous residences", "confidence": "high", "image": "/poi-images/sights/omis-haus-des-gl-cklichen-menschen.webp", "coords": [16.692725, 43.444667]}, {"name": "Stadtmuseum Omiš", "text": "Beherbergt archäologische Funde und Dokumente zur Geschichte der berüchtigten Piraten von Omiš.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/omis-stadtmuseum-omi.webp", "coords": [16.693989, 43.44358]}, {"name": "Franziskanerkloster", "text": "Ein Kloster aus dem 18. Jahrhundert mit einer wertvollen Bibliothek und sakralen Kunstwerken.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/omis-franziskanerkloster.webp", "coords": [16.698846, 43.438867]}, {"name": "Kirche des Hl. Peter", "text": "Eine kleine vorromanische Kirche am rechten Ufer der Cetina, ein Juwel der frühen Architektur.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/omis-kirche-des-hl-peter.webp", "coords": [16.688772, 43.447112]}, {"name": "Plaža Galeb", "text": "Dieser weitläufige Sandstrand in Omiš zieht durch seine einladende Beschaffenheit vor allem Familien an. Reichlich Platz bietet ideale Bedingungen für ausgelassenes Spielen im Sand und entspannte Bademomente im Meer. In den Sommermonaten ist dies ein hervorragendes Ziel für einen langen Tag am Wasser.", "category": "recreational", "coords": [16.680207, 43.43965]}, {"name": "Plaža Nemira - sjeverno", "text": "Im Norden von Nemira gelegen, offenbart sich dieser ruhige Kieselstrand als idealer Ort für ungestörte Erholung. Abseits des großen Trubels können Besucher hier entspannt schwimmen und die Meeresbrise genießen. Ein wunderbarer Rückzugsort für all jene, die eine kleine Auszeit am Wasser suchen.", "category": "recreational", "coords": [16.709307, 43.423252]}, {"name": "Plaža Lara", "text": "Klein und friedlich präsentiert sich dieser Küstenabschnitt bei Omiš, dessen kristallklares Wasser sofort ins Auge fällt. Die intime Atmosphäre eignet sich hervorragend für ein ruhiges Bad oder ein paar entspannte Stunden in der Sonne. Gerade für Paare oder Ruhesuchende ist dieser Abschnitt eine hervorragende Wahl.", "category": "recreational", "coords": [16.707036, 43.428123]}, {"name": "Vidilica", "text": "Ein Aussichtspunkt mit Panoramablick über die Stadt Omiš und die Mündung der Cetina.", "category": "natural", "coords": [16.708097, 43.456624]}, {"name": "San Marco", "text": "Ein Kunst- und Kulturzentrum in Omiš, das verschiedene kreative Ausstellungen beherbergt.", "category": "cultural", "coords": [16.70336, 43.435339]}, {"name": "Velika plaža", "text": "Omišs Hauptstrand zeichnet sich durch feinen Sand und bemerkenswert flaches Wasser aus. Zahlreiche Freizeiteinrichtungen sorgen dafür, dass die lebhafte Küste bei Jung und Alt gleichermaßen beliebt ist. Ein Besuch verspricht abwechslungsreiche Unterhaltung an einem sonnigen Sommertag.", "category": "recreational", "coords": [16.689672, 43.440881]}, {"name": "Cetina", "text": "Eine bedeutende Brücke über die Cetina, die verschiedene Stadtteile von Omiš miteinander verbindet.", "category": "landmark", "coords": [16.693794, 43.449401]}, {"name": "Crkva Svetoga Luke", "text": "Eine historische Stätte in Omiš mit der St.-Lukas-Kirche und den dazugehörigen Grabstätten.", "category": "landmark", "coords": [16.695078, 43.442765]}], "hu": [{"name": "Mirabella erőd", "text": "13. századi román stílusú erődítmény, amely közvetlenül az óváros feletti sziklákon magasodik.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/omis-festung-mirabella.webp", "coords": [16.6935, 43.44489]}, {"name": "Starigrad erőd", "text": "A hegycsúcson fekvő vár, ahonnan lélegzetelállító kilátás nyílik a tengerre és a Cetina-szurdokra.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/omis-festung-starigrad.webp", "coords": [16.7, 43.4447]}, {"name": "Cetina-folyó szurdoka", "text": "Lenyűgöző kanyon, amely vadvízi evezésről és vadregényes természeti szépségéről ismert.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/omis-cetina-flussschlucht.webp", "coords": [16.751425, 43.438676]}, {"name": "Szent Mihály-templom", "text": "A város főtemploma, amelynek 18. századi harangtornya meghatározza az óváros látképét.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/omis-kirche-des-hl-michael.webp", "coords": [16.693446, 43.444102]}, {"name": "Boldog ember háza", "text": "Reneszánsz épület, kapuja felett a híres felirattal: Hálát adok neked, Uram, hogy e világon éltem.", "category": "famous residences", "confidence": "high", "image": "/poi-images/sights/omis-haus-des-gl-cklichen-menschen.webp", "coords": [16.692725, 43.444667]}, {"name": "Omiši Városi Múzeum", "text": "A város történelmét és az omiši kalózok életét bemutató gazdag régészeti gyűjtemény.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/omis-stadtmuseum-omi.webp", "coords": [16.693989, 43.44358]}, {"name": "Ferences kolostor", "text": "18. századi épületegyüttes, amely értékes könyvtárral és vallási műalkotásokkal rendelkezik.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/omis-franziskanerkloster.webp", "coords": [16.698846, 43.438867]}, {"name": "Szent Péter-templom", "text": "Kisméretű, kora román stílusú templom a Cetina jobb partján, fontos építészeti emlék.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/omis-kirche-des-hl-peter.webp", "coords": [16.688772, 43.447112]}, {"name": "Plaža Galeb", "text": "Ez a tágas omiši homokos strand hívogató jellegével elsősorban a családokat vonzza. A bőséges hely ideális feltételeket teremt a homokban való felhőtlen játékhoz és a tengerben való pihentető fürdőzéshez. A nyári hónapokban kiváló úti cél egy hosszú, vízparti naphoz.", "category": "recreational", "coords": [16.680207, 43.43965]}, {"name": "Plaža Nemira - sjeverno", "text": "Nemira északi részén található ez a csendes kavicsos strand, amely ideális hely a zavartalan pihenésre. A nagy nyüzsgéstől távol a látogatók nyugodtan úszhatnak és élvezhetik a tengeri szellőt. Csodálatos menedék azok számára, akik egy kis kikapcsolódásra vágynak a vízparton.", "category": "recreational", "coords": [16.709307, 43.423252]}, {"name": "Plaža Lara", "text": "Kicsi és békés ez az omiši partszakasz, amelynek kristálytiszta vize azonnal megragadja a tekintetet. A meghitt hangulat kiválóan alkalmas egy csendes fürdőzésre vagy néhány pihentető órára a napon. Különösen pároknak vagy a nyugalmat keresőknek kitűnő választás ez a terület.", "category": "recreational", "coords": [16.707036, 43.428123]}, {"name": "Vidilica", "text": "Kilátópont, ahonnan panorámás kilátás nyílik Omiš városára és a Cetina-folyóra.", "category": "natural", "coords": [16.708097, 43.456624]}, {"name": "San Marco", "text": "Omišban található művészeti és kulturális központ, amely különféle kiállításoknak ad otthont.", "category": "cultural", "coords": [16.70336, 43.435339]}, {"name": "Velika plaža", "text": "Omiš fő strandját finom homok és figyelemreméltóan sekély víz jellemzi. A számos szabadidős létesítmény gondoskodik arról, hogy az élénk partszakasz egyaránt népszerű legyen a fiatalok és az idősebbek körében. A látogatás változatos szórakozást ígér egy napsütéses nyári napon.", "category": "recreational", "coords": [16.689672, 43.440881]}, {"name": "Cetina", "text": "Fontos híd a Cetina-folyón, amely Omiš városrészeit köti össze.", "category": "landmark", "coords": [16.693794, 43.449401]}, {"name": "Crkva Svetoga Luke", "text": "Történelmi helyszín Omišban a Szent Lukács-templommal és a hozzá tartozó sírokkal.", "category": "landmark", "coords": [16.695078, 43.442765]}], "ro": [{"name": "Fortăreața Mirabella", "text": "O fortăreață romanică din secolul al XIII-lea, cocoțată pe stâncile de deasupra orașului vechi.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/omis-festung-mirabella.webp", "coords": [16.6935, 43.44489]}, {"name": "Fortăreața Starigrad", "text": "Situată pe vârful muntelui, această cetate oferă vederi panoramice asupra insulelor și canionului.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/omis-festung-starigrad.webp", "coords": [16.7, 43.4447]}, {"name": "Canionul râului Cetina", "text": "Un defileu spectaculos renumit pentru rafting și frumusețea sălbatică a peisajului natural.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/omis-cetina-flussschlucht.webp", "coords": [16.751425, 43.438676]}, {"name": "Biserica Sfântul Mihail", "text": "Biserica parohială principală, având un turn clopotniță impunător terminat în secolul XVIII.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/omis-kirche-des-hl-michael.webp", "coords": [16.693446, 43.444102]}, {"name": "Casa Omului Fericit", "text": "Clădire renascentistă faimoasă pentru inscripția latină de mulțumire aflată deasupra porții.", "category": "famous residences", "confidence": "high", "image": "/poi-images/sights/omis-haus-des-gl-cklichen-menschen.webp", "coords": [16.692725, 43.444667]}, {"name": "Muzeul Orașului Omiš", "text": "Expune vestigii arheologice și documente despre istoria piraților care au stăpânit regiunea.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/omis-stadtmuseum-omi.webp", "coords": [16.693989, 43.44358]}, {"name": "Mănăstirea Franciscană", "text": "Construită în secolul XVIII, mănăstirea găzduiește o bibliotecă valoroasă și artă sacră.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/omis-franziskanerkloster.webp", "coords": [16.698846, 43.438867]}, {"name": "Biserica Sfântul Petru", "text": "O biserică mică preromanică situată pe malul drept al râului, o bijuterie a arhitecturii timpurii.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/omis-kirche-des-hl-peter.webp", "coords": [16.688772, 43.447112]}, {"name": "Plaža Galeb", "text": "Această plajă întinsă cu nisip din Omiš atrage în special familiile datorită caracterului său primitor. Spațiul generos oferă condiții ideale pentru joaca veselă în nisip și momente relaxante de înot în mare. În lunile de vară, acesta este un obiectiv excelent pentru o zi lungă la malul apei.", "category": "recreational", "coords": [16.680207, 43.43965]}, {"name": "Plaža Nemira - sjeverno", "text": "Situată în nordul localității Nemira, această plajă liniștită cu pietriș se dovedește a fi locul ideal pentru o relaxare netulburată. Departe de agitația mare, vizitatorii pot înota în voie și se pot bucura de briza mării. Un refugiu minunat pentru cei care caută o mică pauză la marginea apei.", "category": "recreational", "coords": [16.709307, 43.423252]}, {"name": "Plaža Lara", "text": "Această porțiune de coastă de lângă Omiš se prezintă mică și pașnică, apa sa cristalină atrăgând imediat privirea. Atmosfera intimă este excelentă pentru o baie liniștită sau câteva ore relaxante la soare. În special pentru cupluri sau pentru cei care caută liniștea, această zonă este o alegere remarcabilă.", "category": "recreational", "coords": [16.707036, 43.428123]}, {"name": "Vidilica", "text": "Un punct de belvedere care oferă o vedere panoramică asupra orașului Omiș și a râului Cetina.", "category": "natural", "coords": [16.708097, 43.456624]}, {"name": "San Marco", "text": "Un centru de artă și cultură situat în Omiș, care găzduiește diverse expoziții creative.", "category": "cultural", "coords": [16.70336, 43.435339]}, {"name": "Velika plaža", "text": "Plaja principală din Omiš se remarcă prin nisipul fin și apa surprinzător de puțin adâncă. Numeroasele facilități de agrement fac ca această coastă animată să fie iubită de tineri și vârstnici deopotrivă. O vizită aici promite divertisment variat într-o zi însorită de vară.", "category": "recreational", "coords": [16.689672, 43.440881]}, {"name": "Cetina", "text": "Un pod important peste râul Cetina, care leagă părți ale orașului Omiș.", "category": "landmark", "coords": [16.693794, 43.449401]}, {"name": "Crkva Svetoga Luke", "text": "Un sit istoric în Omiș, care cuprinde Biserica Sfântul Luca și mormintele asociate.", "category": "landmark", "coords": [16.695078, 43.442765]}], "en": [{"name": "Mirabella Fortress", "text": "A 13th-century Romanesque fortress perched on the cliffs directly above the historic old town.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/omis-festung-mirabella.webp", "coords": [16.6935, 43.44489]}, {"name": "Starigrad Fortress", "text": "A mountaintop fortress offering spectacular views over the Adriatic islands and Cetina canyon.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/omis-festung-starigrad.webp", "coords": [16.7, 43.4447]}, {"name": "Cetina River Canyon", "text": "A stunning natural gorge famous for rafting, ziplining, and its lush Mediterranean vegetation.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/omis-cetina-flussschlucht.webp", "coords": [16.751425, 43.438676]}, {"name": "St. Michael's Church", "text": "The town's main church featuring a late Gothic style and a prominent 18th-century bell tower.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/omis-kirche-des-hl-michael.webp", "coords": [16.693446, 43.444102]}, {"name": "House of the Happy Man", "text": "A Renaissance house named for the Latin inscription above its portal expressing gratitude to God.", "category": "famous residences", "confidence": "high", "image": "/poi-images/sights/omis-haus-des-gl-cklichen-menschen.webp", "coords": [16.692725, 43.444667]}, {"name": "Omiš City Museum", "text": "Displays archaeological finds and documents detailing the history of the famous Omiš pirates.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/omis-stadtmuseum-omi.webp", "coords": [16.693989, 43.44358]}, {"name": "Franciscan Monastery", "text": "An 18th-century monastery complex holding a precious library and collection of sacral art.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/omis-franziskanerkloster.webp", "coords": [16.698846, 43.438867]}, {"name": "St. Peter's Church", "text": "A small Pre-Romanesque church on the right bank of Cetina, an important Early Medieval monument.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/omis-kirche-des-hl-peter.webp", "coords": [16.688772, 43.447112]}, {"name": "Beach Galeb", "text": "This expansive sandy beach in Omiš primarily attracts families with its inviting landscape. Plenty of space creates ideal conditions for carefree playing in the sand and relaxing moments in the sea. During the summer months, it is an excellent destination for a long day by the water.", "category": "recreational", "coords": [16.680207, 43.43965]}, {"name": "Beach Nemira - north", "text": "Located in the northern part of Nemira, this quiet pebble beach serves as an ideal spot for undisturbed relaxation. Away from the heavy crowds, visitors can swim comfortably and enjoy the sea breeze. It makes for a wonderful retreat if you are seeking a peaceful break by the water.", "category": "recreational", "coords": [16.709307, 43.423252]}, {"name": "Beach Lara", "text": "Small and peaceful, this coastal section near Omiš immediately catches the eye with its crystal-clear water. The intimate setting is perfectly suited for a quiet swim or a few relaxing hours in the sun. This stretch is an outstanding choice for couples or anyone seeking tranquility.", "category": "recreational", "coords": [16.707036, 43.428123]}, {"name": "Vidilica", "text": "A scenic viewpoint offering panoramic views over the town of Omiš and the Cetina river.", "category": "natural", "coords": [16.708097, 43.456624]}, {"name": "San Marco", "text": "An arts and cultural center located in Omiš, hosting various creative exhibitions.", "category": "cultural", "coords": [16.70336, 43.435339]}, {"name": "Velika plaža", "text": "The main sandy beach of Omiš stands out with its remarkably shallow waters. Various leisure facilities keep this lively stretch of coast popular among visitors of all ages. Spending a sunny summer day here guarantees plenty of varied entertainment.", "category": "recreational", "coords": [16.689672, 43.440881]}, {"name": "Cetina", "text": "A significant bridge crossing the Cetina river, connecting parts of the town of Omiš.", "category": "landmark", "coords": [16.693794, 43.449401]}, {"name": "Church of St. Luke", "text": "A historic site in Omiš featuring the Church of St. Luke and associated burial grounds.", "category": "landmark", "coords": [16.695078, 43.442765]}], "hr": [{"name": "Beach Galeb", "text": "Prostrana pješčana plaža u Omišu koja je posebno popularna među obiteljima.", "category": "recreational", "coords": [16.680207, 43.43965]}, {"name": "Beach Nemira - north", "text": "Mirna šljunčana plaža na sjeveru Nemire, idealna za opušteno kupanje.", "category": "recreational", "coords": [16.709307, 43.423252]}, {"name": "Beach Lara", "text": "Mali, mirni dio plaže kod Omiša s kristalno čistim morem.", "category": "recreational", "coords": [16.707036, 43.428123]}, {"name": "Vidilica", "text": "Vidikovac koji nudi panoramski pogled na grad Omiš i ušće rijeke Cetine.", "category": "natural", "coords": [16.708097, 43.456624]}, {"name": "San Marco", "text": "Umjetnički i kulturni centar smješten u Omišu, koji ugošćuje razne kreativne izložbe.", "category": "cultural", "coords": [16.70336, 43.435339]}, {"name": "Velika plaža", "text": "Glavna pješčana plaža u Omišu, popularna zbog plitkog mora i brojnih sadržaja.", "category": "recreational", "coords": [16.689672, 43.440881]}, {"name": "Cetina", "text": "Značajan most preko rijeke Cetine koji povezuje dijelove grada Omiša.", "category": "landmark", "coords": [16.693794, 43.449401]}, {"name": "Church of St. Luke", "text": "Povijesno mjesto u Omišu s crkvom svetog Luke i pripadajućim grobnicama.", "category": "landmark", "coords": [16.695078, 43.442765]}]}},
   {"id": "porec", "type": "city", "parent": "HR-18", "coords": [13.5944, 45.2278], "population": 16696, "tier": 2, "name": {"de": "Poreč", "hu": "Poreč", "ro": "Poreč", "en": "Poreč"}, "description": {"de": "Eine fast 2000 Jahre alte Stadt an der Westküste Istriens, bekannt für ihre römische Stadtplanung und die UNESCO-geschützte Euphrasius-Basilika. Poreč ist eines der wichtigsten touristischen Zentren Kroatiens.", "hu": "Isztria nyugati partjának közel 2000 éves városa, amely római városszerkezetéről és az UNESCO által védett Euphrasius-bazilikájáról híres. Poreč Horvátország egyik legfontosabb turisztikai központja.", "ro": "Un oraș vechi de aproape 2000 de ani de pe coasta de vest a Istriei, cunoscut pentru planificarea sa urbană romană și Basilica Eufraziană protejată de UNESCO. Poreč este unul dintre cele mai importante centre turistice ale Croației.", "en": "A nearly 2,000-year-old city on the west coast of Istria, famous for its Roman urban planning and the UNESCO-protected Euphrasian Basilica. Poreč is one of Croatia's most significant tourist hubs."}, "facts": {"de": ["Einwohnerzahl: 16.696 Personen", "Gegründet als römisches Castrum Parentium", "Die Euphrasius-Basilika stammt aus dem 6. Jahrhundert", "Antikes Straßenlayout (Decumanus) ist erhalten", "Besitzt 37 Kilometer zerklüftete Küstenlinie", "Wichtigster Hafen für den Tourismus in Istrien", "Austragungsort zahlreicher Sportveranstaltungen", "Bekannt für hervorragende istrische Weine"], "hu": ["Lakossága 16 696 fő", "Római Castrum Parentiumként alapították", "Az Euphrasius-bazilika a 6. századból származik", "Az ókori utcaszerkezet (Decumanus) fennmaradt", "37 kilométernyi tagolt tengerparttal rendelkezik", "Isztria legfontosabb turisztikai kikötője", "Számos sportesemény helyszíne", "Kiváló isztriai borairól is nevezetes"], "ro": ["Populație: 16.696 de persoane", "Fondat ca un castrum roman numit Parentium", "Basilica Eufraziană datează din secolul al VI-lea", "Configurația antică a străzilor (Decumanus) este păstrată", "Deține 37 de kilometri de coastă dantelată", "Cel mai important port pentru turismul din Istria", "Gazda a numeroase evenimente sportive", "Cunoscut pentru vinurile istriene excelente"], "en": ["Population: 16,696 people", "Founded as a Roman castrum named Parentium", "The Euphrasian Basilica dates from the 6th century", "Ancient street layout (Decumanus) is preserved", "Possesses 37 kilometers of indented coastline", "The most important port for tourism in Istria", "Host to numerous sporting events", "Known for excellent Istrian wines"]}, "image": "/poi-images/porec.webp", "imageHint": "Aerial view of Poreč old town peninsula and the Adriatic Sea", "descriptionAdvanced": {"de": "Poreč ist ein lebendiges Denkmal der Geschichte, wo römische Architektur auf venezianische Eleganz trifft. Die Altstadt liegt auf einer schmalen Halbinsel und bewahrt noch heute die strengen Linien der antiken römischen Straßen Decumanus und Cardo Maximus. Das absolute Highlight ist die Euphrasius-Basilika, die im 6. Jahrhundert unter Bischof Euphrasius erbaut wurde und für ihre atemberaubenden Goldmosaike weltbekannt ist. Neben seinem kulturellen Erbe hat sich Poreč zu einem der modernsten Tourismusgebiete Kroatiens entwickelt, mit erstklassigen Resorts in den Buchten Zelena und Plava Laguna. Die Stadt bietet eine perfekte Mischung aus Nachtleben, Sportaktivitäten und kulinarischen Erlebnissen, wobei die istrische Trüffelkultur und frische Meeresfrüchte im Vordergrund stehen. Ein Ausflug zur vorgelagerten Insel Sveti Nikola rundet das maritime Erlebnis ab.", "hu": "Poreč a történelem élő emlékműve, ahol a római építészet találkozik a velencei eleganciával. Az óváros egy keskeny félszigeten fekszik, és ma is őrzi az ókori római utak, a Decumanus és a Cardo Maximus szigorú vonalait. A város legfőbb látnivalója az Euphrasius-bazilika, amely a 6. században épült Euphrasius püspök idején, és világhírű lenyűgöző aranymozaikjairól. Kulturális öröksége mellett Poreč Horvátország egyik legmodernebb turisztikai övezetévé vált, első osztályú üdülőhelyekkel a Zelena és Plava Laguna öblökben. A város az éjszakai élet, a sporttevékenységek és a gasztronómiai élmények tökéletes keverékét kínálja, előtérben az isztriai szarvasgomba-kultúrával és a friss tenger gyümölcseivel. A szemközti Sveti Nikola-szigetre tett kirándulás teszi teljessé a tengerparti élményt.", "ro": "Poreč este un monument viu al istoriei, unde arhitectura romană se întâlnește cu eleganța venețiană. Orașul vechi este situat pe o peninsulă îngustă și păstrează și astăzi liniile stricte ale drumurilor antice romane Decumanus și Cardo Maximus. Punctul culminant absolut este Basilica Eufraziană, construită în secolul al VI-lea sub episcopul Eufrasius și faimoasă în întreaga lume pentru mozaicurile sale de aur uluitoare. Pe lângă moștenirea sa culturală, Poreč s-a dezvoltat într-una dintre cele mai moderne zone turistice din Croația, cu resorturi de primă clasă în golfurile Zelena și Plava Laguna. Orașul oferă un amestec perfect de viață de noapte, activități sportive și experiențe culinare, cultura trufelor istriene și fructele de mare proaspete fiind în prim-plan. O excursie pe insula vecină Sveti Nikola completează experiența maritimă.", "en": "Poreč is a living monument of history, where Roman architecture meets Venetian elegance. The old town is situated on a narrow peninsula and still preserves the strict lines of the ancient Roman streets, Decumanus and Cardo Maximus. The absolute highlight is the Euphrasian Basilica, built in the 6th century under Bishop Euphrasius, and world-renowned for its stunning gold mosaics. Beside its cultural heritage, Poreč has developed into one of Croatia's most modern tourist areas, with first-class resorts in the Zelena and Plava Laguna bays. The city offers a perfect blend of nightlife, sports activities, and culinary experiences, with Istrian truffle culture and fresh seafood at the forefront. A trip to the offshore island of Sveti Nikola completes the maritime experience."}, "factsAdvanced": {"de": ["Die Euphrasius-Basilika wurde 1997 in die UNESCO-Liste aufgenommen", "Das Haus der zwei Heiligen ist ein seltenes romanisches Gebäude aus dem 13. Jh.", "Poreč war im 19. Jahrhundert Sitz des istrianischen Landtags", "Der Marafor-Platz war das einstige Forum Romanum der Stadt", "Der Ort hält den Rekord für die meisten Tourismus-Auszeichnungen in Kroatien", "Der nahegelegene Lim-Fjord ist ein Zentrum der Muschelzucht"], "hu": ["Az Euphrasius-bazilika 1997-ben került fel az UNESCO listájára", "A Két Szent Háza egy ritka, 13. századi román stílusú épület", "Poreč a 19. században az isztriai tartományi gyűlés székhelye volt", "A Marafor-tér a város egykori Forum Romanuma volt", "A település tartja a legtöbb horvátországi turisztikai díj rekordját", "A közeli Lim-fjord a kagylótenyésztés egyik központja"], "ro": ["Basilica Eufraziană a fost inclusă pe lista UNESCO în 1997", "Casa celor doi Sfinți este o clădire romanică rară din secolul al XIII-lea", "Poreč a fost sediul Dietei Istriene în secolul al XIX-lea", "Piața Marafor a fost fostul Forum Romanum al orașului", "Localitatea deține recordul pentru cele mai multe premii turistice din Croația", "Fiordul Lim din apropiere este un centru de creștere a scoicilor"], "en": ["The Euphrasian Basilica was added to the UNESCO list in 1997", "The House of Two Saints is a rare Romanesque building from the 13th century", "Poreč was the seat of the Istrian Diet in the 19th century", "Marafor Square was the site of the former Roman Forum", "The town holds the record for the most tourism awards in Croatia", "The nearby Lim Fjord is a center for shellfish farming"]}, "sights": {
       "de": [
@@ -10933,7 +16311,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Kids Water Play Area",
-                  "text": "Ein Wasserbereich für Kinder in Poreč mit sicheren Spielmöglichkeiten im Wasser.",
+                  "text": "Kids Water Play Area – ein Wasserspielplatz mit Rutschen und Springbrunnen in Poreč.",
                   "category": "family",
                   "coords": [
                         13.586941,
@@ -11102,7 +16480,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Kids Water Play Area",
-                  "text": "Gyermekvízi játszótér Porečben biztonságos vízi játéklehetőségekkel.",
+                  "text": "Gyermek vízi játszótér – csúszdákkal és szökőkutakkal Porečben.",
                   "category": "family",
                   "coords": [
                         13.586941,
@@ -11271,7 +16649,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Kids Water Play Area",
-                  "text": "O zonă de joacă acvatică pentru copii în Poreč, cu facilități sigure în apă.",
+                  "text": "Zonă de joacă cu apă pentru copii – cu tobogane și fântâni arteziene în Poreč.",
                   "category": "family",
                   "coords": [
                         13.586941,
@@ -11440,7 +16818,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Kids Water Play Area",
-                  "text": "A children's water play area in Poreč with safe water activities.",
+                  "text": "Kids Water Play Area – a water play area with slides and fountains in Poreč.",
                   "category": "family",
                   "coords": [
                         13.586941,
@@ -11912,7 +17290,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Corner",
-                  "text": "Minigolfplatz in Baska, Krk.",
+                  "text": "Corner – eine familienfreundliche Badebucht in Baška auf der Insel Krk.",
                   "category": "family",
                   "coords": [
                         14.748041,
@@ -11921,7 +17299,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "bazeni Baška",
-                  "text": "Schwimmbäder in Baška auf Krk für sportliche Betätigung und Freizeit.",
+                  "text": "bazeni Baška – beheizte Außenpools mit Meerblick in Baška auf Krk.",
                   "category": "family",
                   "coords": [
                         14.748778,
@@ -12333,7 +17711,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Corner",
-                  "text": "Minigolfpálya Baska településen, Krk szigetén.",
+                  "text": "Corner – családbarát fürdőöböl Baškában, Krk szigetén.",
                   "category": "family",
                   "coords": [
                         14.748041,
@@ -12342,7 +17720,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "bazeni Baška",
-                  "text": "Úszómedencék a Krk-szigeti Baškán sportoláshoz és kikapcsolódáshoz.",
+                  "text": "bazeni Baška – fűtött szabadtéri medencék tengeri kilátással Baškában, Krk szigetén.",
                   "category": "family",
                   "coords": [
                         14.748778,
@@ -12754,7 +18132,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Corner",
-                  "text": "Teren de minigolf în Baska, Krk.",
+                  "text": "Corner – o golfuleț de scăldat pentru familii în Baška, insula Krk.",
                   "category": "family",
                   "coords": [
                         14.748041,
@@ -12763,7 +18141,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "bazeni Baška",
-                  "text": "Piscine în Baška pe Krk pentru activități sportive și agrement.",
+                  "text": "bazeni Baška – piscine exterioare încălzite cu vedere la mare în Baška, insula Krk.",
                   "category": "family",
                   "coords": [
                         14.748778,
@@ -13175,7 +18553,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Corner",
-                  "text": "Miniature golf course in Baska, Krk.",
+                  "text": "Corner – a family-friendly bathing cove at Baška on the island of Krk.",
                   "category": "family",
                   "coords": [
                         14.748041,
@@ -13184,7 +18562,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "bazeni Baška",
-                  "text": "Swimming pools in Baška on Krk for sports and leisure.",
+                  "text": "bazeni Baška – heated outdoor pools with sea views in Baška on the island of Krk.",
                   "category": "family",
                   "coords": [
                         14.748778,
@@ -13664,7 +19042,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Vrana-See",
-                  "text": "Lake Vrana ist ein See in Biograd Na Moru, der Besuchern eine wunderschöne Landschaft bietet.",
+                  "text": "Vrana-See – Kroatiens größter natürlicher See, ein Karstsee und Vogelschutzgebiet bei Biograd.",
                   "category": "natural",
                   "coords": [
                         15.576157,
@@ -13673,7 +19051,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Kontov Mul",
-                  "text": "Ein Schwimmbad für Familien in Biograd Na Moru.",
+                  "text": "Count's Wharf – ein historischer Steinpier an der Uferpromenade von Biograd na Moru.",
                   "category": "family",
                   "coords": [
                         15.422576,
@@ -13682,7 +19060,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Crvena Luka Resort",
-                  "text": "Ein Strandresort für einen Urlaub am Meer in Biograd Na Moru.",
+                  "text": "Crvena Luka Resort – ein Familienresort mit Sandstrand in der Bucht von Crvena Luka bei Biograd.",
                   "category": "family",
                   "coords": [
                         15.477946,
@@ -13789,7 +19167,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Vránai-tó",
-                  "text": "A(z) Lake Vrana egy tó Biograd Na Moru területén, amely gyönyörű tájat kínál a látogatóknak.",
+                  "text": "Vrana-tó – Horvátország legnagyobb természetes tava, karszttó és madárrezervátum Biograd mellett.",
                   "category": "natural",
                   "coords": [
                         15.576157,
@@ -13798,7 +19176,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Kontov Mul",
-                  "text": "Úszómedence családok számára Biograd Na Moru területén.",
+                  "text": "Count's Wharf – történelmi kőrakpart Biograd na Moru tengerparti sétányán.",
                   "category": "family",
                   "coords": [
                         15.422576,
@@ -13807,7 +19185,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Crvena Luka Resort",
-                  "text": "Strandüdülő tengerparti nyaraláshoz Biograd Na Moru területén.",
+                  "text": "Crvena Luka Resort – családi üdülőhely homokos stranddal a Crvena Luka-öbölben, Biograd közelében.",
                   "category": "family",
                   "coords": [
                         15.477946,
@@ -13914,7 +19292,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Vransko jezero",
-                  "text": "Lake Vrana este un lac situat în Biograd Na Moru, oferind peisaje frumoase vizitatorilor.",
+                  "text": "Lacul Vrana – cel mai mare lac natural al Croației, lac carstic și rezervație de păsări lângă Biograd.",
                   "category": "natural",
                   "coords": [
                         15.576157,
@@ -13923,7 +19301,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Kontov Mul",
-                  "text": "O piscină pentru familii în Biograd Na Moru.",
+                  "text": "Count's Wharf – un debarcader istoric de piatră pe promenada litorală din Biograd na Moru.",
                   "category": "family",
                   "coords": [
                         15.422576,
@@ -13932,7 +19310,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Crvena Luka Resort",
-                  "text": "O stațiune de plajă pentru o vacanță la mare în Biograd Na Moru.",
+                  "text": "Crvena Luka Resort – o stațiune familială cu plajă nisipoasă în golful Crvena Luka lângă Biograd.",
                   "category": "family",
                   "coords": [
                         15.477946,
@@ -14039,7 +19417,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Lake Vrana",
-                  "text": "Lake Vrana is a lake located in Biograd Na Moru, offering beautiful scenery for visitors.",
+                  "text": "Lake Vrana – Croatia's largest natural lake, a karst lake and bird sanctuary near Biograd.",
                   "category": "natural",
                   "coords": [
                         15.576157,
@@ -14048,7 +19426,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Count's Wharf",
-                  "text": "A swimming pool for families in Biograd Na Moru.",
+                  "text": "Count's Wharf – a historic stone wharf on the waterfront promenade of Biograd na Moru.",
                   "category": "family",
                   "coords": [
                         15.422576,
@@ -14057,7 +19435,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Crvena Luka Resort",
-                  "text": "A beach resort for a seaside holiday in Biograd Na Moru.",
+                  "text": "Crvena Luka Resort – a family resort with a sandy beach in Crvena Luka bay near Biograd.",
                   "category": "family",
                   "coords": [
                         15.477946,
@@ -14227,7 +19605,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Aquapark na napuhavanje",
-                  "text": "Ein aufblasbarer Aquapark für Spaß mit der ganzen Familie.",
+                  "text": "Aquapark na napuhavanje – ein aufblasbarer Wasserpark an der Adriaküste in Novigrad (Istrien).",
                   "category": "family",
                   "coords": [
                         13.55683,
@@ -14236,7 +19614,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Murali edutainment factory",
-                  "text": "Ein unterhaltsamer Spielplatz in Novigrad.",
+                  "text": "Murali edutainment factory – ein bunter Wandmalerei- und Bildungsspielplatz in Novigrad.",
                   "category": "family",
                   "coords": [
                         13.54471,
@@ -14245,7 +19623,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Salvela",
-                  "text": "Spielplatz in Novigrad.",
+                  "text": "Salvela – ein Familienunterhaltungszentrum mit Minigolf in Novigrad (Istrien).",
                   "category": "family",
                   "coords": [
                         13.560652,
@@ -14356,7 +19734,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Aquapark na napuhavanje",
-                  "text": "Felfújható aquapark az egész család szórakozásához.",
+                  "text": "Aquapark na napuhavanje – felfújható vízi park az Adriai-tenger partján Novigradban (Isztria).",
                   "category": "family",
                   "coords": [
                         13.55683,
@@ -14365,7 +19743,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Murali edutainment factory",
-                  "text": "Szórakoztató játszótér Novigradban.",
+                  "text": "Murali edutainment factory – színes falfestményekkel és oktató játszótérrel Novigradban.",
                   "category": "family",
                   "coords": [
                         13.54471,
@@ -14374,7 +19752,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Salvela",
-                  "text": "Játszótér Novigradban.",
+                  "text": "Salvela – családi szórakoztató központ minigolffal Novigradban (Isztria).",
                   "category": "family",
                   "coords": [
                         13.560652,
@@ -14485,7 +19863,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Aquapark na napuhavanje",
-                  "text": "Un aquapark gonflabil pentru distracția întregii familii.",
+                  "text": "Aquapark na napuhavanje – un parc acvatic gonflabil pe coasta Adriaticii în Novigrad (Istria).",
                   "category": "family",
                   "coords": [
                         13.55683,
@@ -14494,7 +19872,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Murali edutainment factory",
-                  "text": "Un loc de joacă distractiv în Novigrad.",
+                  "text": "Murali edutainment factory – un loc de joacă educațional cu picturi murale colorate în Novigrad.",
                   "category": "family",
                   "coords": [
                         13.54471,
@@ -14503,7 +19881,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Salvela",
-                  "text": "Loc de joacă în Novigrad.",
+                  "text": "Salvela – un centru de divertisment familial cu minigolf în Novigrad (Istria).",
                   "category": "family",
                   "coords": [
                         13.560652,
@@ -14614,7 +19992,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Aquapark na napuhavanje",
-                  "text": "An inflatable aquapark for fun with the whole family.",
+                  "text": "Aquapark na napuhavanje – an inflatable water park on the Adriatic coast in Novigrad (Istria).",
                   "category": "family",
                   "coords": [
                         13.55683,
@@ -14623,7 +20001,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Murali edutainment factory",
-                  "text": "An entertaining playground in Novigrad.",
+                  "text": "Murali edutainment factory – a colorful mural and educational play area in Novigrad.",
                   "category": "family",
                   "coords": [
                         13.54471,
@@ -14632,7 +20010,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Salvela",
-                  "text": "Playground in Novigrad.",
+                  "text": "Salvela – a family entertainment center with mini-golf in Novigrad (Istria).",
                   "category": "family",
                   "coords": [
                         13.560652,
@@ -15621,7 +20999,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Kalac na Dolčine",
-                  "text": "Historische Ruinen von Kalac na Dolčine in der Nähe von Lovran.",
+                  "text": "Kalac na Dolčine – eine befestigte Ruine auf einem Hügel oberhalb von Lovran.",
                   "category": "historical",
                   "coords": [
                         14.258641,
@@ -15630,7 +21008,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Mlin",
-                  "text": "Die Überreste einer alten Mühle im Gebiet von Lovran.",
+                  "text": "Mlin – eine historische Steinmühle am Bach in Lovran.",
                   "category": "historical",
                   "coords": [
                         14.263077,
@@ -15666,7 +21044,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Kalac",
-                  "text": "Der Kalac-See in Lovran.",
+                  "text": "Kalac – ein natürlicher Felsen mit Aussichtspunkt über der Adria bei Lovran.",
                   "category": "natural",
                   "coords": [
                         14.259023,
@@ -15675,7 +21053,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Cipera",
-                  "text": "Spielplatz in Lovran für Kinder.",
+                  "text": "Cipera – ein Kinderspielplatz im Pinienwald von Lovran.",
                   "category": "family",
                   "coords": [
                         14.27735,
@@ -15684,7 +21062,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Hotel Ičići",
-                  "text": "Ein hoteleigenes Strandresort in Lovran mit Zugang zum Meer.",
+                  "text": "Hotel Ičići – ein familienfreundliches Hotel direkt am Strand in Ičići bei Lovran.",
                   "category": "family",
                   "coords": [
                         14.291151,
@@ -15809,7 +21187,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Kalac na Dolčine",
-                  "text": "Kalac na Dolčine történelmi romjai Lovran közelében.",
+                  "text": "Kalac na Dolčine – egy erődített rom egy dombon Lovran fölött.",
                   "category": "historical",
                   "coords": [
                         14.258641,
@@ -15818,7 +21196,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Mlin",
-                  "text": "Egy régi malom maradványai Lovran területén.",
+                  "text": "Mlin – történelmi kőmalom a pataknál Lovranban.",
                   "category": "historical",
                   "coords": [
                         14.263077,
@@ -15854,7 +21232,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Kalac",
-                  "text": "A lovrani Kalac-tó.",
+                  "text": "Kalac – egy természetes szikla kilátóval az Adriai-tenger felett Lovran közelében.",
                   "category": "natural",
                   "coords": [
                         14.259023,
@@ -15863,7 +21241,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Cipera",
-                  "text": "Játszótér Lovranban gyerekeknek.",
+                  "text": "Cipera – gyermekjátszótér Lovran fenyvesében.",
                   "category": "family",
                   "coords": [
                         14.27735,
@@ -15872,7 +21250,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Hotel Ičići",
-                  "text": "Lovrani szállodai strandüdülő tengerparti hozzáféréssel.",
+                  "text": "Hotel Ičići – családbarát szálloda közvetlenül a strandon Ičićiben, Lovran közelében.",
                   "category": "family",
                   "coords": [
                         14.291151,
@@ -15997,7 +21375,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Kalac na Dolčine",
-                  "text": "Ruinele istorice Kalac na Dolčine situate în apropiere de Lovran.",
+                  "text": "Kalac na Dolčine – o ruină fortificată pe o colină deasupra orașului Lovran.",
                   "category": "historical",
                   "coords": [
                         14.258641,
@@ -16006,7 +21384,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Mlin",
-                  "text": "Rămășițele unei vechi mori situate în zona Lovran.",
+                  "text": "Mlin – o moară istorică de piatră la pârâu în Lovran.",
                   "category": "historical",
                   "coords": [
                         14.263077,
@@ -16042,7 +21420,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Kalac",
-                  "text": "Lacul Kalac din Lovran.",
+                  "text": "Kalac – o stâncă naturală cu punct de belvedere deasupra Mării Adriatice lângă Lovran.",
                   "category": "natural",
                   "coords": [
                         14.259023,
@@ -16051,7 +21429,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Cipera",
-                  "text": "Loc de joacă în Lovran pentru copii.",
+                  "text": "Cipera – un loc de joacă pentru copii în pădurea de pini din Lovran.",
                   "category": "family",
                   "coords": [
                         14.27735,
@@ -16060,7 +21438,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Hotel Ičići",
-                  "text": "O stațiune de plajă de hotel în Lovran cu acces la mare.",
+                  "text": "Hotel Ičići – un hotel familial direct pe plajă în Ičići lângă Lovran.",
                   "category": "family",
                   "coords": [
                         14.291151,
@@ -16185,7 +21563,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Kalac na Dolčine",
-                  "text": "The historical ruins of Kalac na Dolčine located in the vicinity of Lovran.",
+                  "text": "Kalac na Dolčine – a fortified ruin on a hill above Lovran.",
                   "category": "historical",
                   "coords": [
                         14.258641,
@@ -16194,7 +21572,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Mlin",
-                  "text": "The remains of an old mill situated in the Lovran area.",
+                  "text": "Mlin – a historic stone mill on the stream in Lovran.",
                   "category": "historical",
                   "coords": [
                         14.263077,
@@ -16230,7 +21608,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Kalac",
-                  "text": "Lake Kalac in Lovran.",
+                  "text": "Kalac – a natural rock lookout point over the Adriatic Sea near Lovran.",
                   "category": "natural",
                   "coords": [
                         14.259023,
@@ -16239,7 +21617,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Cipera",
-                  "text": "Playground in Lovran for children.",
+                  "text": "Cipera – a children's playground in the pine forest of Lovran.",
                   "category": "family",
                   "coords": [
                         14.27735,
@@ -16248,7 +21626,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Hotel Ičići",
-                  "text": "A hotel beach resort in Lovran with access to the sea.",
+                  "text": "Hotel Ičići – a family-friendly hotel directly on the beach in Ičići near Lovran.",
                   "category": "family",
                   "coords": [
                         14.291151,
@@ -16385,7 +21763,860 @@ export const poiExtraHrV1: POI[] = [
             }
       ]
 }},
-  {"id": "murter", "type": "city", "parent": "HR-15", "coords": [15.5878, 43.8208], "population": 2075, "tier": 3, "name": {"de": "Murter", "hu": "Murter", "ro": "Murter", "en": "Murter"}, "description": {"de": "Die größte und älteste Stadt auf der gleichnamigen Insel, die als Tor zum Nationalpark Kornaten dient. Bekannt für ihre Schiffsbautradition und den sandigen Slanica-Strand.", "hu": "Murter szigetének legnagyobb és legrégebbi városa, amely a Kornati Nemzeti Park kapujaként szolgál. Híres a hajóépítő hagyományairól és a Slanica nevű homokos strandjáról.", "ro": "Cel mai mare și vechi oraș de pe insula cu același nume, care servește drept poartă către Parcul Național Kornati. Cunoscut pentru tradiția construcției de nave și plaja cu nisip Slanica.", "en": "The largest and oldest town on the island of the same name, serving as the gateway to the Kornati National Park. Famous for its shipbuilding tradition and the sandy Slanica beach."}, "facts": {"de": ["Bevölkerung: 2075 Einwohner", "Standort der antiken römischen Stadt Colentum", "Hauptausgangspunkt für Kornaten-Exkursionen", "Traditioneller Holzschiffbau (Gajeta)", "Sandstrand Slanica mit türkisblauem Wasser", "St. Rochus-Kirche aus dem 18. Jahrhundert", "Größter Olivenhain-Besitz in der Region", "Wichtiges nautisches Zentrum Mitteldalmatiens"], "hu": ["Lakossága 2075 fő", "Az ókori római Colentum városának helyszíne", "A Kornati-szigetek fő kiindulópontja", "Hagyományos fahajóépítés (Gajeta)", "Homokos Slanica-strand türkizkék vízzel", "18. századi Szent Rókus-templom", "A régió legnagyobb olajfaligeteinek birtokosa", "Közép-Dalmácia fontos hajózási központja"], "ro": ["Populație: 2075 de locuitori", "Situl vechiului oraș roman Colentum", "Punct principal de plecare pentru excursii în Kornati", "Construcția tradițională de nave din lemn (Gajeta)", "Plaja cu nisip Slanica cu apă turcoaz", "Biserica Sfântul Rochus din secolul al XVIII-lea", "Deține cele mai mari livezi de măslini din regiune", "Centru nautic important în Dalmația Centrală"], "en": ["Population of 2075 inhabitants", "Site of the ancient Roman city Colentum", "Main starting point for Kornati excursions", "Traditional wooden shipbuilding (Gajeta)", "Sandy Slanica beach with turquoise water", "18th-century St. Roch church", "Owners of the largest olive groves in the region", "Important nautical center of Central Dalmatia"]}, "image": "/poi-images/murter.webp", "imageHint": "Murter old town harbor with traditional wooden boats and stone houses", "descriptionAdvanced": {"de": "Murter liegt im Nordwesten der Insel und ist deren kulturelles sowie administratives Zentrum. Die Geschichte des Ortes ist tief mit dem Meer verwurzelt, was man an den Überresten der antiken römischen Siedlung Colentum am Fuße des Hügels Gradina erkennen kann. Die Bewohner von Murter gelten als die 'Herren der Kornaten', da ihnen historisch gesehen über 80% des Archipels gehören, was Murter zum wichtigsten Tor für Exkursionen in den Nationalpark macht. Eine besondere Bedeutung hat der traditionelle Holzschiffbau, insbesondere die Fertigung der 'Gajeta', eines Mehrzweckbootes, das heute als Kulturgut geschützt ist. Der Ort bietet eine lebendige Mischung aus authentischem dalmatinischem Alltag und modernem Tourismus. Der Strand Slanica ist einer der wenigen Sandstrände der Region und zieht mit seinem flachen, kristallklaren Wasser besonders Familien an. Von der Kirche des Hl. Rochus bietet sich ein Panoramablick über den Ort und die unzähligen vorgelagerten Inseln, der besonders bei Sonnenuntergang unvergesslich ist.", "hu": "Murter a sziget északi részén található, és gazdag történelmi múlttal rendelkezik, amely az ókori római Colentum városáig nyúlik vissza, melynek romjai ma is láthatók a Gradina-félszigeten. A település lakói hagyományosan mezőgazdasággal és halászattal foglalkoztak, valamint ők a tulajdonosai a közeli Kornati-szigetek nagy részének, így a város az egyik legjobb bázis a nemzeti park felfedezéséhez. A városban működik az egyik utolsó hagyományos fa-hajóépítő műhely, ahol a híres 'Gajeta' ladikok készülnek. A nyári hónapokban Murter vibráló kulturális élettel telik meg, miközben a Slanica-öböl türkizkék vize a strandolókat vonzza. A Szent Rókus-templomról nyíló panoráma az egyik legszebb a térségben, rálátást biztosítva az egész szigetvilágra. A helyi gasztronómia kiemelkedő, különösen a friss halételek és az intenzív ízű helyi olívaolaj miatt, amelyet az évszázados ültetvényeken termelnek.", "ro": "Murter este situat în nord-vestul insulei și este centrul cultural și administrativ al acesteia. Istoria localității este profund legată de mare, lucru vizibil prin resturile vechii așezări romane Colentum de la poalele dealului Gradina. Locuitorii din Murter sunt considerați „stăpânii insulelor Kornati”, deoarece dețin istoric peste 80% din arhipelag, ceea ce face din Murter principala poartă de acces pentru excursiile în Parcul Național. O importanță deosebită o are construcția tradițională de nave din lemn, în special fabricarea „Gajetei”, o barcă multifuncțională care astăzi este protejată ca bun cultural. Orașul oferă un amestec vibrant între viața cotidiană dalmată autentică și turismul modern. Plaja Slanica este una dintre puținele plaje cu nisip din regiune și atrage în special familiile datorită apei sale puțin adânci și cristaline. De la biserica Sfântul Rochus se deschide o vedere panoramică asupra orașului și a nenumăratelor insule din larg, care este de neuitat în special la apus.", "en": "Murter is located in the northwest of the island and is its cultural and administrative center. The history of the town is deeply rooted in the sea, which can be seen in the remains of the ancient Roman settlement Colentum at the foot of Gradina hill. The residents of Murter are considered the 'masters of the Kornati' because they historically own over 80% of the archipelago, making Murter the most important gateway for excursions to the National Park. Traditional wooden shipbuilding has a special significance here, particularly the construction of the 'Gajeta', a multi-purpose boat now protected as a cultural asset. The town offers a lively mix of authentic Dalmatian daily life and modern tourism. Slanica beach is one of the few sandy beaches in the region and attracts families with its shallow, crystal-clear water. From the Church of St. Roch, there is a panoramic view over the town and the countless offshore islands, which is especially unforgettable at sunset."}, "factsAdvanced": {"de": ["Colentum war eine wichtige römische Hafenstadt im 1. Jahrhundert", "Murter ist administratives Zentrum des Nationalparks Kornaten", "Die Kirche des Hl. Rochus wurde im Jahr 1760 erbaut", "Die Slanica-Bucht bietet einen der seltenen natürlichen Sandstrände", "Die Einwohnerzahl liegt laut Zählung bei 2075 Personen", "Gehört zur Gespanschaft Šibenik-Knin (HR-15)"], "hu": ["Colentum fontos római kikötőváros volt az 1. században", "Murter a Kornati Nemzeti Park adminisztratív központja", "A Szent Rókus-templomot 1760-ban emelték a dombtetőn", "A Slanica-öböl az Adria egyik ritka természetes homokos strandja", "A lakosság pontosan 2075 fő a legutóbbi statisztikák alapján", "Közigazgatásilag a Šibenik-Knin megyéhez (HR-15) tartozik"], "ro": ["Colentum a fost un oraș portuar roman important în secolul I", "Murter este centrul administrativ al Parcului Național Kornati", "Biserica Sfântul Rochus a fost construită în anul 1760", "Golful Slanica oferă una dintre rarele plaje naturale cu nisip", "Populația este de 2075 de locuitori conform recensământului", "Face parte din județul Šibenik-Knin (cod HR-15)"], "en": ["Colentum was an important Roman port city in the 1st century AD", "Murter is the administrative hub for the Kornati National Park", "The Church of St. Roch was built on the hill in 1760", "Slanica Bay features one of the few natural sandy beaches in Croatia", "The population stands at 2075 people according to the census", "Located within the Šibenik-Knin County (HR-15)"]}, "sights": {"de": [{"name": "Archäologische Stätte Colentum", "text": "Die Überreste einer antiken römischen Stadt, die direkt an der Küste am Fuße des Hügels Gradina liegen.", "category": "historical", "confidence": "high", "image": "/poi-images/sights/murter-arch-ologische-st-tte-colentum.webp", "coords": [15.59227, 43.828009]}, {"name": "Strand Slanica", "text": "Der Strand Slanica ist der bekannteste Badeort auf der Insel Murter und begeistert mit seinem feinen Sandboden. Das seichte, türkisfarbene Wasser schafft eine besonders familienfreundliche Atmosphäre an der Adria. Besucher erwartet ein idealer Ort zum Schwimmen und für entspannte Spaziergänge im weichen Sand. In der Hochsaison empfiehlt es sich, den Strandbesuch auf die Morgenstunden zu legen.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/murter-strand-slanica.webp", "coords": [15.579123, 43.816543]}, {"name": "Marina Hramina", "text": "Ein moderner Yachthafen in der geschützten Bucht, der als Tor zum Nationalpark Kornaten gilt.", "category": "port", "confidence": "high", "image": "/poi-images/sights/murter-marina-hramina.webp", "coords": [15.591752, 43.826842]}, {"name": "Strand Podvrške", "text": "Der Strand Podvrške auf Murter ist ein verstecktes Juwel, das malerisch über einen kleinen Küstenpfad erreicht wird. Umgeben von weißem Sand und kristallklarem Wasser, herrscht hier eine herrlich ruhige Atmosphäre. Badegäste können wunderbar in der Adria schwimmen oder einfach die Natur genießen. Ein perfekter Ort für unbeschwerte Sommernachmittage.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/murter-strand-podvr-ke.webp", "coords": [15.573687, 43.822834]}, {"name": "Museum für Holzschiffbau in Betina", "text": "Ein Museum in Betina, das der traditionellen lokalen Kunst des Holzschiffbaus gewidmet ist.", "category": "museum", "coords": [15.604479, 43.823258]}, {"name": "Svjetionik Prišnjak", "text": "Ein malerischer Leuchtturm, der 1896 auf der kleinen Insel Prišnjak in der Nähe von Murter erbaut wurde.", "category": "landmark", "coords": [15.558825, 43.825372]}, {"name": "Colentum-Kompleks maritimne rimske vile", "text": "Archäologische Überreste einer antiken römischen Seevilla auf dem Gelände von Colentum auf Murter.", "category": "historical", "coords": [15.593969, 43.83256]}, {"name": "Liburnsko-rimska akropola i vidikovac", "text": "Eine archäologische Ausgrabungsstätte auf einem Hügel mit den Überresten einer antiken Akropolis.", "category": "historical", "coords": [15.595079, 43.830738]}, {"name": "Rimska ulica", "text": "Eine antike Straße aus der römischen Epoche in Murter, die zur Siedlung Colentum gehört.", "category": "historical", "coords": [15.592822, 43.830411]}, {"name": "Neistraženo antičko groblje / nekropola", "text": "Eine noch nicht vollständig erforschte antike Nekropole in der Nähe von Murter.", "category": "historical", "coords": [15.593823, 43.828196]}, {"name": "Potopljeni grad i antička luka", "text": "Unterwasserruinen einer antiken römischen Hafenanlage vor der Küste von Murter.", "category": "historical", "coords": [15.59447, 43.834368]}, {"name": "Luke", "text": "Ein zentraler Strand in Murter mit flachem Zugang zum Meer und Infrastruktur.", "category": "recreational", "coords": [15.584869, 43.82198]}, {"name": "Nudist beach", "text": "Dieser FKK-Strand auf der Insel Murter bietet eine abgeschiedene Umgebung für Naturisten. Eine entspannte und tolerante Atmosphäre ermöglicht es den Gästen, die kroatische Adria ungestört zu genießen. Hier stehen nahtlose Bräune und entspanntes Schwimmen im Mittelpunkt des Besuchs. Bringen Sie ausreichend Sonnenschutz mit, um den Tag am Meer auszukosten.", "category": "recreational", "coords": [15.597639, 43.797796]}, {"name": "Betina", "text": "Ein Strand in der Nähe des Ortes Betina auf der Insel Murter.", "category": "recreational", "coords": [15.605077, 43.81959]}, {"name": "Raduč", "text": "Der höchste Gipfel der Insel Murter mit Panoramablick auf die Kornaten.", "category": "natural", "coords": [15.587041, 43.812144]}, {"name": "Drescher", "text": "Ein lokales Kunstzentrum in Murter, das Ausstellungen und kreative Workshops anbietet.", "category": "cultural", "coords": [15.590796, 43.821779]}, {"name": "Colentum", "text": "Ein Aussichtspunkt am archäologischen Park Colentum mit Blick auf die Bucht von Hramina.", "category": "natural", "coords": [15.595577, 43.833706]}, {"name": "FKK beack \"Školjić\"", "text": "Ein bekannter FKK-Strand auf der Insel Murter, der für sein klares Wasser und seine abgeschiedene Lage bekannt ist.", "category": "recreational", "coords": [15.570164, 43.821428]}, {"name": "Vrana-See", "text": "Lake Vrana ist ein See in Murter, der Besuchern eine wunderschöne Landschaft bietet.", "category": "natural", "coords": [15.576157, 43.894603]}], "hu": [{"name": "Colentum régészeti lelőhely", "text": "Egy ókori római város romjai közvetlenül a tengerparton, a Gradina-domb lábánál fekvő területen.", "category": "historical", "confidence": "high", "image": "/poi-images/sights/murter-arch-ologische-st-tte-colentum.webp", "coords": [15.59227, 43.828009]}, {"name": "Slanica strand", "text": "A Strand Slanica Murter szigetének legismertebb fürdőhelye, amely finom homokos medrével varázsolja el a látogatókat. A sekély, türkizkék víz különösen családbarát hangulatot teremt az Adrián. A vendégeket egy ideális helyszín várja az úszáshoz és a puha homokban tett sétákhoz. Főszezonban ajánlott a reggeli órákra időzíteni a látogatást.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/murter-strand-slanica.webp", "coords": [15.579123, 43.816543]}, {"name": "Hramina kikötő", "text": "Modern jachtkikötő egy védett öbölben, amely a Kornati Nemzeti Park kapujaként is szolgál.", "category": "port", "confidence": "high", "image": "/poi-images/sights/murter-marina-hramina.webp", "coords": [15.591752, 43.826842]}, {"name": "Podvrške strand", "text": "A murteri Strand Podvrške egy rejtett gyöngyszem, amely egy festői parti ösvényen keresztül közelíthető meg. A fehér homok és a kristálytiszta víz csodálatosan nyugodt légkört teremt. A fürdőzők remekül úszhatnak az Adriában, vagy egyszerűen csak élvezhetik a természetet. Tökéletes helyszín a gondtalan nyári délutánok eltöltésére.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/murter-strand-podvr-ke.webp", "coords": [15.573687, 43.822834]}, {"name": "Muzej Betinske drvene brodogradnje", "text": "Betinai múzeum, amely a fa hajóépítés hosszú múltra visszatekintő helyi hagyományait mutatja be.", "category": "museum", "coords": [15.604479, 43.823258]}, {"name": "Svjetionik Prišnjak", "text": "Festői világítótorony, amely 1896-ban épült a Murter melletti Prišnjak-szigeten.", "category": "landmark", "coords": [15.558825, 43.825372]}, {"name": "Colentum-Kompleks maritimne rimske vile", "text": "Egy ókori római tengerparti villa régészeti maradványai a murteri Colentum lelőhelyen.", "category": "historical", "coords": [15.593969, 43.83256]}, {"name": "Liburnsko-rimska akropola i vidikovac", "text": "Domboldalon fekvő régészeti lelőhely, amely egy ókori liburn és római akropolisz maradványait őrzi.", "category": "historical", "coords": [15.595079, 43.830738]}, {"name": "Rimska ulica", "text": "Az ókori Colentum településhez tartozó római kori utca maradványai Murterben.", "category": "historical", "coords": [15.592822, 43.830411]}, {"name": "Neistraženo antičko groblje / nekropola", "text": "Egy még feltáratlan ókori temető és nekropolisz Murter területén.", "category": "historical", "coords": [15.593823, 43.828196]}, {"name": "Potopljeni grad i antička luka", "text": "Egy ókori római kikötő víz alatti maradványai Murter partjainál.", "category": "historical", "coords": [15.59447, 43.834368]}, {"name": "Luke", "text": "Murter központi strandja, amely lassan mélyülő parttal és jó felszereltséggel várja a látogatókat.", "category": "recreational", "coords": [15.584869, 43.82198]}, {"name": "Nudist beach", "text": "Ez a nudista strand Murter szigetén eldugott környezetet biztosít a naturisták számára. A nyugodt és toleráns légkör lehetővé teszi a vendégeknek, hogy zavartalanul élvezzék a horvát Adriát. Itt a meztelen napozás és a pihentető úszás áll a látogatás középpontjában. Érdemes megfelelő napvédelmet hozni, hogy teljes mértékben kiélvezhessük a napot.", "category": "recreational", "coords": [15.597639, 43.797796]}, {"name": "Betina", "text": "Strand a Murter-szigeti Betina település közelében.", "category": "recreational", "coords": [15.605077, 43.81959]}, {"name": "Raduč", "text": "A Murter-sziget legmagasabb pontja, ahonnan panorámás kilátás nyílik a Kornati-szigetekre.", "category": "natural", "coords": [15.587041, 43.812144]}, {"name": "Drescher", "text": "Murter helyi művészeti központja, amely kiállításoknak és kreatív műhelyeknek ad otthont.", "category": "cultural", "coords": [15.590796, 43.821779]}, {"name": "Colentum", "text": "Kilátópont a Colentum régészeti park területén, rálátással a Hramina-öbölre.", "category": "natural", "coords": [15.595577, 43.833706]}, {"name": "FKK beack \"Školjić\"", "text": "Népszerű naturista strand Murter szigetén, amely tiszta vizéről és nyugodt környezetéről ismert.", "category": "recreational", "coords": [15.570164, 43.821428]}, {"name": "Vránai-tó", "text": "A(z) Lake Vrana egy tó Murter területén, amely gyönyörű tájat kínál a látogatóknak.", "category": "natural", "coords": [15.576157, 43.894603]}], "ro": [{"name": "Situl arheologic Colentum", "text": "Rămășițele unui oraș roman antic situat chiar pe coastă, la poalele dealului Gradina.", "category": "historical", "confidence": "high", "image": "/poi-images/sights/murter-arch-ologische-st-tte-colentum.webp", "coords": [15.59227, 43.828009]}, {"name": "Plaja Slanica", "text": "Plaja Slanica este cea mai faimoasă locație de înot de pe insula Murter, impresionând prin fundul său nisipos. Apa puțin adâncă și turcoaz creează o atmosferă deosebit de potrivită pentru familii la Marea Adriatică. Vizitatorii se pot aștepta la un loc ideal pentru înot și plimbări relaxante pe nisipul fin. În timpul sezonului de vârf, este recomandat să planificați vizita în orele dimineții.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/murter-strand-slanica.webp", "coords": [15.579123, 43.816543]}, {"name": "Marina Hramina", "text": "Un port modern situat într-un golf protejat, considerat poarta de intrare către Parcul Național Kornati.", "category": "port", "confidence": "high", "image": "/poi-images/sights/murter-marina-hramina.webp", "coords": [15.591752, 43.826842]}, {"name": "Plaja Podvrške", "text": "Plaja Podvrške din Murter este o bijuterie ascunsă, accesibilă pitoresc printr-o mică potecă de coastă. Înconjurat de nisip alb și ape cristaline, aici domnește o atmosferă minunat de liniștită. Cei prezenți pot înota în Marea Adriatică sau pot pur și simplu să se bucure de natură. Un loc perfect pentru după-amieze de vară fără griji.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/murter-strand-podvr-ke.webp", "coords": [15.573687, 43.822834]}, {"name": "Muzej Betinske drvene brodogradnje", "text": "Un muzeu din Betina dedicat tradiției locale de construcție a navelor din lemn.", "category": "museum", "coords": [15.604479, 43.823258]}, {"name": "Svjetionik Prišnjak", "text": "Un far pitoresc construit în 1896 pe insulița Prišnjak, lângă Murter.", "category": "landmark", "coords": [15.558825, 43.825372]}, {"name": "Colentum-Kompleks maritimne rimske vile", "text": "Vestigii arheologice ale unei vechi vile maritime romane situate în situl istoric Colentum.", "category": "historical", "coords": [15.593969, 43.83256]}, {"name": "Liburnsko-rimska akropola i vidikovac", "text": "Un sit arheologic situat pe un deal care prezintă rămășițele unei vechi acropole liburnice și romane.", "category": "historical", "coords": [15.595079, 43.830738]}, {"name": "Rimska ulica", "text": "O stradă antică din epoca romană în Murter, care face parte din așezarea Colentum.", "category": "historical", "coords": [15.592822, 43.830411]}, {"name": "Neistraženo antičko groblje / nekropola", "text": "O necropolă antică neexplorată complet situată în zona localității Murter.", "category": "historical", "coords": [15.593823, 43.828196]}, {"name": "Potopljeni grad i antička luka", "text": "Ruinele subacvatice ale unui port antic roman în largul coastei localității Murter.", "category": "historical", "coords": [15.59447, 43.834368]}, {"name": "Luke", "text": "O plajă centrală în Murter, cu acces facil în mare și facilități pentru turiști.", "category": "recreational", "coords": [15.584869, 43.82198]}, {"name": "Nudist beach", "text": "Această plajă de nudiști de pe insula Murter oferă un mediu retras pentru naturaliști. O atmosferă relaxată și tolerantă permite oaspeților să se bucure de Marea Adriatică croată fără a fi deranjați. Aici, bronzul uniform și înotul relaxant sunt în centrul vizitei. Aduceți suficientă protecție solară pentru a profita din plin de ziua la mare.", "category": "recreational", "coords": [15.597639, 43.797796]}, {"name": "Betina", "text": "O plajă situată în apropierea localității Betina de pe insula Murter.", "category": "recreational", "coords": [15.605077, 43.81959]}, {"name": "Raduč", "text": "Cel mai înalt vârf de pe insula Murter, oferind o vedere panoramică asupra arhipelagului Kornati.", "category": "natural", "coords": [15.587041, 43.812144]}, {"name": "Drescher", "text": "Un centru de artă local în Murter, care găzduiește expoziții și ateliere creative.", "category": "cultural", "coords": [15.590796, 43.821779]}, {"name": "Colentum", "text": "Un punct de observare situat în parcul arheologic Colentum, cu vedere spre golful Hramina.", "category": "natural", "coords": [15.595577, 43.833706]}, {"name": "FKK beack \"Školjić\"", "text": "O plajă de naturiști populară pe insula Murter, cunoscută pentru apele sale limpezi și atmosfera liniștită.", "category": "recreational", "coords": [15.570164, 43.821428]}, {"name": "Vransko jezero", "text": "Lake Vrana este un lac situat în Murter, oferind peisaje frumoase vizitatorilor.", "category": "natural", "coords": [15.576157, 43.894603]}], "en": [{"name": "Colentum Archaeological Site", "text": "The remains of an ancient Roman city located directly on the coastline at the foot of Gradina Hill.", "category": "historical", "confidence": "high", "image": "/poi-images/sights/murter-arch-ologische-st-tte-colentum.webp", "coords": [15.59227, 43.828009]}, {"name": "Slanica Beach", "text": "Strand Slanica is the most famous swimming spot on the island of Murter, impressing with its sandy seabed. The shallow, turquoise water creates a particularly family-friendly atmosphere by the Adriatic Sea. Visitors can expect an ideal place for swimming and relaxed walks on the soft sand. During the high season, it is advisable to schedule your visit for the morning hours.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/murter-strand-slanica.webp", "coords": [15.579123, 43.816543]}, {"name": "Marina Hramina", "text": "A modern yacht harbor in a sheltered bay, serving as a gateway to the Kornati National Park.", "category": "port", "confidence": "high", "image": "/poi-images/sights/murter-marina-hramina.webp", "coords": [15.591752, 43.826842]}, {"name": "Podvrške Beach", "text": "Strand Podvrške on Murter is a hidden gem, picturesquely accessed via a small coastal path. Surrounded by white sand and crystal-clear water, a wonderfully quiet atmosphere prevails here. Bathers can enjoy a great swim in the Adriatic or simply take in the surrounding nature. A perfect spot for carefree summer afternoons.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/murter-strand-podvr-ke.webp", "coords": [15.573687, 43.822834]}, {"name": "Museum of wooden shipbuilding in Bettina", "text": "A museum in Betina dedicated to the long-standing local tradition of wooden shipbuilding.", "category": "museum", "coords": [15.604479, 43.823258]}, {"name": "Svjetionik Prišnjak", "text": "A scenic lighthouse built in 1896 on the islet of Prišnjak near Murter.", "category": "landmark", "coords": [15.558825, 43.825372]}, {"name": "Colentum-Kompleks maritimne rimske vile", "text": "Archaeological remains of an ancient Roman maritime villa located within the historic Colentum site.", "category": "historical", "coords": [15.593969, 43.83256]}, {"name": "Liburnsko-rimska akropola i vidikovac", "text": "An archaeological site on a hill featuring the remains of an ancient Liburnian and Roman acropolis.", "category": "historical", "coords": [15.595079, 43.830738]}, {"name": "Rimska ulica", "text": "An ancient Roman street in Murter belonging to the archaeological settlement of Colentum.", "category": "historical", "coords": [15.592822, 43.830411]}, {"name": "Neistraženo antičko groblje / nekropola", "text": "An unexplored ancient cemetery and necropolis located in the Murter area.", "category": "historical", "coords": [15.593823, 43.828196]}, {"name": "Potopljeni grad i antička luka", "text": "Underwater remains of an ancient Roman port facility off the coast of Murter.", "category": "historical", "coords": [15.59447, 43.834368]}, {"name": "Luke", "text": "A central beach in Murter offering shallow access to the sea and tourist facilities.", "category": "recreational", "coords": [15.584869, 43.82198]}, {"name": "Nudist beach", "text": "This nudist beach on the island of Murter offers a secluded environment for naturists. A relaxed and tolerant atmosphere allows guests to enjoy the Croatian Adriatic undisturbed. Here, seamless tanning and relaxing swimming are the focus of the visit. Bring adequate sun protection to fully enjoy your day by the sea.", "category": "recreational", "coords": [15.597639, 43.797796]}, {"name": "Betina", "text": "A beach located near the village of Betina on the island of Murter.", "category": "recreational", "coords": [15.605077, 43.81959]}, {"name": "Raduč", "text": "The highest peak of Murter island, offering a panoramic view of the Kornati archipelago.", "category": "natural", "coords": [15.587041, 43.812144]}, {"name": "Drescher", "text": "A local arts centre in Murter hosting various exhibitions and creative workshops.", "category": "cultural", "coords": [15.590796, 43.821779]}, {"name": "Colentum", "text": "A viewpoint located within the Colentum archaeological park, overlooking Hramina bay.", "category": "natural", "coords": [15.595577, 43.833706]}, {"name": "FKK beack \"Školjić\"", "text": "A popular naturist beach on the island of Murter, known for its clear waters and secluded setting.", "category": "recreational", "coords": [15.570164, 43.821428]}, {"name": "Lake Vrana", "text": "Lake Vrana is a lake located in Murter, offering beautiful scenery for visitors.", "category": "natural", "coords": [15.576157, 43.894603]}], "hr": [{"name": "Museum of wooden shipbuilding in Bettina", "text": "Muzej u Betini posvećen dugogodišnjoj lokalnoj tradiciji drvene brodogradnje.", "category": "museum", "coords": [15.604479, 43.823258]}, {"name": "Svjetionik Prišnjak", "text": "Slikoviti svjetionik izgrađen 1896. godine na otočiću Prišnjaku blizu Murtera.", "category": "landmark", "coords": [15.558825, 43.825372]}, {"name": "Colentum-Kompleks maritimne rimske vile", "text": "Arheološki ostaci antičke rimske maritimne vile smješteni unutar povijesnog lokaliteta Colentum.", "category": "historical", "coords": [15.593969, 43.83256]}, {"name": "Liburnsko-rimska akropola i vidikovac", "text": "Arheološki lokalitet na uzvisini koji sadrži ostatke antičke liburnske i rimske akropole.", "category": "historical", "coords": [15.595079, 43.830738]}, {"name": "Rimska ulica", "text": "Ostatci antičke rimske ulice u Murteru koja je bila dio naselja Colentum.", "category": "historical", "coords": [15.592822, 43.830411]}, {"name": "Neistraženo antičko groblje / nekropola", "text": "Neistraženo antičko groblje i nekropola koja se nalazi na području Murtera.", "category": "historical", "coords": [15.593823, 43.828196]}, {"name": "Potopljeni grad i antička luka", "text": "Podmorski ostatci antičke rimske luke i potopljenog grada uz obalu Murtera.", "category": "historical", "coords": [15.59447, 43.834368]}, {"name": "Podvrške", "text": "Popularna šljunčana i pješčana plaža u Murteru poznata po čistom moru.", "category": "recreational", "coords": [15.57356, 43.823774]}, {"name": "Luke", "text": "Središnja plaža u Murteru s plitkim pristupom moru i turističkim sadržajima.", "category": "recreational", "coords": [15.584869, 43.82198]}, {"name": "Nudist beach", "text": "Miran dio obale u Murteru namijenjen kupačima nudistima.", "category": "recreational", "coords": [15.597639, 43.797796]}, {"name": "Betina", "text": "Plaža smještena u blizini mjesta Betina na otoku Murteru.", "category": "recreational", "coords": [15.605077, 43.81959]}, {"name": "Drescher", "text": "Lokalni centar za umjetnost u Murteru koji ugošćuje izložbe i kreativne radionice.", "category": "cultural", "coords": [15.590796, 43.821779]}, {"name": "Colentum", "text": "Vidikovac u sklopu arheološkog parka Colentum s pogledom na uvalu Hramina.", "category": "natural", "coords": [15.595577, 43.833706]}, {"name": "FKK beack \"Školjić\"", "text": "Poznata naturistička plaža na otoku Murteru, prepoznatljiva po čistom moru i mirnom okruženju.", "category": "recreational", "coords": [15.570164, 43.821428]}]}},
+  {"id": "murter", "type": "city", "parent": "HR-15", "coords": [15.5878, 43.8208], "population": 2075, "tier": 3, "name": {"de": "Murter", "hu": "Murter", "ro": "Murter", "en": "Murter"}, "description": {"de": "Die größte und älteste Stadt auf der gleichnamigen Insel, die als Tor zum Nationalpark Kornaten dient. Bekannt für ihre Schiffsbautradition und den sandigen Slanica-Strand.", "hu": "Murter szigetének legnagyobb és legrégebbi városa, amely a Kornati Nemzeti Park kapujaként szolgál. Híres a hajóépítő hagyományairól és a Slanica nevű homokos strandjáról.", "ro": "Cel mai mare și vechi oraș de pe insula cu același nume, care servește drept poartă către Parcul Național Kornati. Cunoscut pentru tradiția construcției de nave și plaja cu nisip Slanica.", "en": "The largest and oldest town on the island of the same name, serving as the gateway to the Kornati National Park. Famous for its shipbuilding tradition and the sandy Slanica beach."}, "facts": {"de": ["Bevölkerung: 2075 Einwohner", "Standort der antiken römischen Stadt Colentum", "Hauptausgangspunkt für Kornaten-Exkursionen", "Traditioneller Holzschiffbau (Gajeta)", "Sandstrand Slanica mit türkisblauem Wasser", "St. Rochus-Kirche aus dem 18. Jahrhundert", "Größter Olivenhain-Besitz in der Region", "Wichtiges nautisches Zentrum Mitteldalmatiens"], "hu": ["Lakossága 2075 fő", "Az ókori római Colentum városának helyszíne", "A Kornati-szigetek fő kiindulópontja", "Hagyományos fahajóépítés (Gajeta)", "Homokos Slanica-strand türkizkék vízzel", "18. századi Szent Rókus-templom", "A régió legnagyobb olajfaligeteinek birtokosa", "Közép-Dalmácia fontos hajózási központja"], "ro": ["Populație: 2075 de locuitori", "Situl vechiului oraș roman Colentum", "Punct principal de plecare pentru excursii în Kornati", "Construcția tradițională de nave din lemn (Gajeta)", "Plaja cu nisip Slanica cu apă turcoaz", "Biserica Sfântul Rochus din secolul al XVIII-lea", "Deține cele mai mari livezi de măslini din regiune", "Centru nautic important în Dalmația Centrală"], "en": ["Population of 2075 inhabitants", "Site of the ancient Roman city Colentum", "Main starting point for Kornati excursions", "Traditional wooden shipbuilding (Gajeta)", "Sandy Slanica beach with turquoise water", "18th-century St. Roch church", "Owners of the largest olive groves in the region", "Important nautical center of Central Dalmatia"]}, "image": "/poi-images/murter.webp", "imageHint": "Murter old town harbor with traditional wooden boats and stone houses", "descriptionAdvanced": {"de": "Murter liegt im Nordwesten der Insel und ist deren kulturelles sowie administratives Zentrum. Die Geschichte des Ortes ist tief mit dem Meer verwurzelt, was man an den Überresten der antiken römischen Siedlung Colentum am Fuße des Hügels Gradina erkennen kann. Die Bewohner von Murter gelten als die 'Herren der Kornaten', da ihnen historisch gesehen über 80% des Archipels gehören, was Murter zum wichtigsten Tor für Exkursionen in den Nationalpark macht. Eine besondere Bedeutung hat der traditionelle Holzschiffbau, insbesondere die Fertigung der 'Gajeta', eines Mehrzweckbootes, das heute als Kulturgut geschützt ist. Der Ort bietet eine lebendige Mischung aus authentischem dalmatinischem Alltag und modernem Tourismus. Der Strand Slanica ist einer der wenigen Sandstrände der Region und zieht mit seinem flachen, kristallklaren Wasser besonders Familien an. Von der Kirche des Hl. Rochus bietet sich ein Panoramablick über den Ort und die unzähligen vorgelagerten Inseln, der besonders bei Sonnenuntergang unvergesslich ist.", "hu": "Murter a sziget északi részén található, és gazdag történelmi múlttal rendelkezik, amely az ókori római Colentum városáig nyúlik vissza, melynek romjai ma is láthatók a Gradina-félszigeten. A település lakói hagyományosan mezőgazdasággal és halászattal foglalkoztak, valamint ők a tulajdonosai a közeli Kornati-szigetek nagy részének, így a város az egyik legjobb bázis a nemzeti park felfedezéséhez. A városban működik az egyik utolsó hagyományos fa-hajóépítő műhely, ahol a híres 'Gajeta' ladikok készülnek. A nyári hónapokban Murter vibráló kulturális élettel telik meg, miközben a Slanica-öböl türkizkék vize a strandolókat vonzza. A Szent Rókus-templomról nyíló panoráma az egyik legszebb a térségben, rálátást biztosítva az egész szigetvilágra. A helyi gasztronómia kiemelkedő, különösen a friss halételek és az intenzív ízű helyi olívaolaj miatt, amelyet az évszázados ültetvényeken termelnek.", "ro": "Murter este situat în nord-vestul insulei și este centrul cultural și administrativ al acesteia. Istoria localității este profund legată de mare, lucru vizibil prin resturile vechii așezări romane Colentum de la poalele dealului Gradina. Locuitorii din Murter sunt considerați „stăpânii insulelor Kornati”, deoarece dețin istoric peste 80% din arhipelag, ceea ce face din Murter principala poartă de acces pentru excursiile în Parcul Național. O importanță deosebită o are construcția tradițională de nave din lemn, în special fabricarea „Gajetei”, o barcă multifuncțională care astăzi este protejată ca bun cultural. Orașul oferă un amestec vibrant între viața cotidiană dalmată autentică și turismul modern. Plaja Slanica este una dintre puținele plaje cu nisip din regiune și atrage în special familiile datorită apei sale puțin adânci și cristaline. De la biserica Sfântul Rochus se deschide o vedere panoramică asupra orașului și a nenumăratelor insule din larg, care este de neuitat în special la apus.", "en": "Murter is located in the northwest of the island and is its cultural and administrative center. The history of the town is deeply rooted in the sea, which can be seen in the remains of the ancient Roman settlement Colentum at the foot of Gradina hill. The residents of Murter are considered the 'masters of the Kornati' because they historically own over 80% of the archipelago, making Murter the most important gateway for excursions to the National Park. Traditional wooden shipbuilding has a special significance here, particularly the construction of the 'Gajeta', a multi-purpose boat now protected as a cultural asset. The town offers a lively mix of authentic Dalmatian daily life and modern tourism. Slanica beach is one of the few sandy beaches in the region and attracts families with its shallow, crystal-clear water. From the Church of St. Roch, there is a panoramic view over the town and the countless offshore islands, which is especially unforgettable at sunset."}, "factsAdvanced": {"de": ["Colentum war eine wichtige römische Hafenstadt im 1. Jahrhundert", "Murter ist administratives Zentrum des Nationalparks Kornaten", "Die Kirche des Hl. Rochus wurde im Jahr 1760 erbaut", "Die Slanica-Bucht bietet einen der seltenen natürlichen Sandstrände", "Die Einwohnerzahl liegt laut Zählung bei 2075 Personen", "Gehört zur Gespanschaft Šibenik-Knin (HR-15)"], "hu": ["Colentum fontos római kikötőváros volt az 1. században", "Murter a Kornati Nemzeti Park adminisztratív központja", "A Szent Rókus-templomot 1760-ban emelték a dombtetőn", "A Slanica-öböl az Adria egyik ritka természetes homokos strandja", "A lakosság pontosan 2075 fő a legutóbbi statisztikák alapján", "Közigazgatásilag a Šibenik-Knin megyéhez (HR-15) tartozik"], "ro": ["Colentum a fost un oraș portuar roman important în secolul I", "Murter este centrul administrativ al Parcului Național Kornati", "Biserica Sfântul Rochus a fost construită în anul 1760", "Golful Slanica oferă una dintre rarele plaje naturale cu nisip", "Populația este de 2075 de locuitori conform recensământului", "Face parte din județul Šibenik-Knin (cod HR-15)"], "en": ["Colentum was an important Roman port city in the 1st century AD", "Murter is the administrative hub for the Kornati National Park", "The Church of St. Roch was built on the hill in 1760", "Slanica Bay features one of the few natural sandy beaches in Croatia", "The population stands at 2075 people according to the census", "Located within the Šibenik-Knin County (HR-15)"]}, "sights": {
+      "de": [
+            {
+                  "name": "Archäologische Stätte Colentum",
+                  "text": "Die Überreste einer antiken römischen Stadt, die direkt an der Küste am Fuße des Hügels Gradina liegen.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/murter-arch-ologische-st-tte-colentum.webp",
+                  "coords": [
+                        15.59227,
+                        43.828009
+                  ]
+            },
+            {
+                  "name": "Strand Slanica",
+                  "text": "Der Strand Slanica ist der bekannteste Badeort auf der Insel Murter und begeistert mit seinem feinen Sandboden. Das seichte, türkisfarbene Wasser schafft eine besonders familienfreundliche Atmosphäre an der Adria. Besucher erwartet ein idealer Ort zum Schwimmen und für entspannte Spaziergänge im weichen Sand. In der Hochsaison empfiehlt es sich, den Strandbesuch auf die Morgenstunden zu legen.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/murter-strand-slanica.webp",
+                  "coords": [
+                        15.579123,
+                        43.816543
+                  ]
+            },
+            {
+                  "name": "Marina Hramina",
+                  "text": "Ein moderner Yachthafen in der geschützten Bucht, der als Tor zum Nationalpark Kornaten gilt.",
+                  "category": "port",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/murter-marina-hramina.webp",
+                  "coords": [
+                        15.591752,
+                        43.826842
+                  ]
+            },
+            {
+                  "name": "Strand Podvrške",
+                  "text": "Der Strand Podvrške auf Murter ist ein verstecktes Juwel, das malerisch über einen kleinen Küstenpfad erreicht wird. Umgeben von weißem Sand und kristallklarem Wasser, herrscht hier eine herrlich ruhige Atmosphäre. Badegäste können wunderbar in der Adria schwimmen oder einfach die Natur genießen. Ein perfekter Ort für unbeschwerte Sommernachmittage.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/murter-strand-podvr-ke.webp",
+                  "coords": [
+                        15.573687,
+                        43.822834
+                  ]
+            },
+            {
+                  "name": "Museum für Holzschiffbau in Betina",
+                  "text": "Ein Museum in Betina, das der traditionellen lokalen Kunst des Holzschiffbaus gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        15.604479,
+                        43.823258
+                  ]
+            },
+            {
+                  "name": "Svjetionik Prišnjak",
+                  "text": "Ein malerischer Leuchtturm, der 1896 auf der kleinen Insel Prišnjak in der Nähe von Murter erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        15.558825,
+                        43.825372
+                  ]
+            },
+            {
+                  "name": "Colentum-Kompleks maritimne rimske vile",
+                  "text": "Archäologische Überreste einer antiken römischen Seevilla auf dem Gelände von Colentum auf Murter.",
+                  "category": "historical",
+                  "coords": [
+                        15.593969,
+                        43.83256
+                  ]
+            },
+            {
+                  "name": "Liburnsko-rimska akropola i vidikovac",
+                  "text": "Eine archäologische Ausgrabungsstätte auf einem Hügel mit den Überresten einer antiken Akropolis.",
+                  "category": "historical",
+                  "coords": [
+                        15.595079,
+                        43.830738
+                  ]
+            },
+            {
+                  "name": "Rimska ulica",
+                  "text": "Eine antike Straße aus der römischen Epoche in Murter, die zur Siedlung Colentum gehört.",
+                  "category": "historical",
+                  "coords": [
+                        15.592822,
+                        43.830411
+                  ]
+            },
+            {
+                  "name": "Neistraženo antičko groblje / nekropola",
+                  "text": "Eine noch nicht vollständig erforschte antike Nekropole in der Nähe von Murter.",
+                  "category": "historical",
+                  "coords": [
+                        15.593823,
+                        43.828196
+                  ]
+            },
+            {
+                  "name": "Potopljeni grad i antička luka",
+                  "text": "Unterwasserruinen einer antiken römischen Hafenanlage vor der Küste von Murter.",
+                  "category": "historical",
+                  "coords": [
+                        15.59447,
+                        43.834368
+                  ]
+            },
+            {
+                  "name": "Luke",
+                  "text": "Ein zentraler Strand in Murter mit flachem Zugang zum Meer und Infrastruktur.",
+                  "category": "recreational",
+                  "coords": [
+                        15.584869,
+                        43.82198
+                  ]
+            },
+            {
+                  "name": "Nudist beach",
+                  "text": "Dieser FKK-Strand auf der Insel Murter bietet eine abgeschiedene Umgebung für Naturisten. Eine entspannte und tolerante Atmosphäre ermöglicht es den Gästen, die kroatische Adria ungestört zu genießen. Hier stehen nahtlose Bräune und entspanntes Schwimmen im Mittelpunkt des Besuchs. Bringen Sie ausreichend Sonnenschutz mit, um den Tag am Meer auszukosten.",
+                  "category": "recreational",
+                  "coords": [
+                        15.597639,
+                        43.797796
+                  ]
+            },
+            {
+                  "name": "Betina",
+                  "text": "Ein Strand in der Nähe des Ortes Betina auf der Insel Murter.",
+                  "category": "recreational",
+                  "coords": [
+                        15.605077,
+                        43.81959
+                  ]
+            },
+            {
+                  "name": "Raduč",
+                  "text": "Der höchste Gipfel der Insel Murter mit Panoramablick auf die Kornaten.",
+                  "category": "natural",
+                  "coords": [
+                        15.587041,
+                        43.812144
+                  ]
+            },
+            {
+                  "name": "Drescher",
+                  "text": "Ein lokales Kunstzentrum in Murter, das Ausstellungen und kreative Workshops anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        15.590796,
+                        43.821779
+                  ]
+            },
+            {
+                  "name": "Colentum",
+                  "text": "Ein Aussichtspunkt am archäologischen Park Colentum mit Blick auf die Bucht von Hramina.",
+                  "category": "natural",
+                  "coords": [
+                        15.595577,
+                        43.833706
+                  ]
+            },
+            {
+                  "name": "FKK beack \"Školjić\"",
+                  "text": "Ein bekannter FKK-Strand auf der Insel Murter, der für sein klares Wasser und seine abgeschiedene Lage bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        15.570164,
+                        43.821428
+                  ]
+            },
+            {
+                  "name": "Vrana-See",
+                  "text": "Vrana-See – Kroatiens größter natürlicher See, Karstsee mit Vogelreservat in der Nähe von Murter.",
+                  "category": "natural",
+                  "coords": [
+                        15.576157,
+                        43.894603
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Colentum régészeti lelőhely",
+                  "text": "Egy ókori római város romjai közvetlenül a tengerparton, a Gradina-domb lábánál fekvő területen.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/murter-arch-ologische-st-tte-colentum.webp",
+                  "coords": [
+                        15.59227,
+                        43.828009
+                  ]
+            },
+            {
+                  "name": "Slanica strand",
+                  "text": "A Strand Slanica Murter szigetének legismertebb fürdőhelye, amely finom homokos medrével varázsolja el a látogatókat. A sekély, türkizkék víz különösen családbarát hangulatot teremt az Adrián. A vendégeket egy ideális helyszín várja az úszáshoz és a puha homokban tett sétákhoz. Főszezonban ajánlott a reggeli órákra időzíteni a látogatást.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/murter-strand-slanica.webp",
+                  "coords": [
+                        15.579123,
+                        43.816543
+                  ]
+            },
+            {
+                  "name": "Hramina kikötő",
+                  "text": "Modern jachtkikötő egy védett öbölben, amely a Kornati Nemzeti Park kapujaként is szolgál.",
+                  "category": "port",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/murter-marina-hramina.webp",
+                  "coords": [
+                        15.591752,
+                        43.826842
+                  ]
+            },
+            {
+                  "name": "Podvrške strand",
+                  "text": "A murteri Strand Podvrške egy rejtett gyöngyszem, amely egy festői parti ösvényen keresztül közelíthető meg. A fehér homok és a kristálytiszta víz csodálatosan nyugodt légkört teremt. A fürdőzők remekül úszhatnak az Adriában, vagy egyszerűen csak élvezhetik a természetet. Tökéletes helyszín a gondtalan nyári délutánok eltöltésére.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/murter-strand-podvr-ke.webp",
+                  "coords": [
+                        15.573687,
+                        43.822834
+                  ]
+            },
+            {
+                  "name": "Muzej Betinske drvene brodogradnje",
+                  "text": "Betinai múzeum, amely a fa hajóépítés hosszú múltra visszatekintő helyi hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.604479,
+                        43.823258
+                  ]
+            },
+            {
+                  "name": "Svjetionik Prišnjak",
+                  "text": "Festői világítótorony, amely 1896-ban épült a Murter melletti Prišnjak-szigeten.",
+                  "category": "landmark",
+                  "coords": [
+                        15.558825,
+                        43.825372
+                  ]
+            },
+            {
+                  "name": "Colentum-Kompleks maritimne rimske vile",
+                  "text": "Egy ókori római tengerparti villa régészeti maradványai a murteri Colentum lelőhelyen.",
+                  "category": "historical",
+                  "coords": [
+                        15.593969,
+                        43.83256
+                  ]
+            },
+            {
+                  "name": "Liburnsko-rimska akropola i vidikovac",
+                  "text": "Domboldalon fekvő régészeti lelőhely, amely egy ókori liburn és római akropolisz maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        15.595079,
+                        43.830738
+                  ]
+            },
+            {
+                  "name": "Rimska ulica",
+                  "text": "Az ókori Colentum településhez tartozó római kori utca maradványai Murterben.",
+                  "category": "historical",
+                  "coords": [
+                        15.592822,
+                        43.830411
+                  ]
+            },
+            {
+                  "name": "Neistraženo antičko groblje / nekropola",
+                  "text": "Egy még feltáratlan ókori temető és nekropolisz Murter területén.",
+                  "category": "historical",
+                  "coords": [
+                        15.593823,
+                        43.828196
+                  ]
+            },
+            {
+                  "name": "Potopljeni grad i antička luka",
+                  "text": "Egy ókori római kikötő víz alatti maradványai Murter partjainál.",
+                  "category": "historical",
+                  "coords": [
+                        15.59447,
+                        43.834368
+                  ]
+            },
+            {
+                  "name": "Luke",
+                  "text": "Murter központi strandja, amely lassan mélyülő parttal és jó felszereltséggel várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        15.584869,
+                        43.82198
+                  ]
+            },
+            {
+                  "name": "Nudist beach",
+                  "text": "Ez a nudista strand Murter szigetén eldugott környezetet biztosít a naturisták számára. A nyugodt és toleráns légkör lehetővé teszi a vendégeknek, hogy zavartalanul élvezzék a horvát Adriát. Itt a meztelen napozás és a pihentető úszás áll a látogatás középpontjában. Érdemes megfelelő napvédelmet hozni, hogy teljes mértékben kiélvezhessük a napot.",
+                  "category": "recreational",
+                  "coords": [
+                        15.597639,
+                        43.797796
+                  ]
+            },
+            {
+                  "name": "Betina",
+                  "text": "Strand a Murter-szigeti Betina település közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        15.605077,
+                        43.81959
+                  ]
+            },
+            {
+                  "name": "Raduč",
+                  "text": "A Murter-sziget legmagasabb pontja, ahonnan panorámás kilátás nyílik a Kornati-szigetekre.",
+                  "category": "natural",
+                  "coords": [
+                        15.587041,
+                        43.812144
+                  ]
+            },
+            {
+                  "name": "Drescher",
+                  "text": "Murter helyi művészeti központja, amely kiállításoknak és kreatív műhelyeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        15.590796,
+                        43.821779
+                  ]
+            },
+            {
+                  "name": "Colentum",
+                  "text": "Kilátópont a Colentum régészeti park területén, rálátással a Hramina-öbölre.",
+                  "category": "natural",
+                  "coords": [
+                        15.595577,
+                        43.833706
+                  ]
+            },
+            {
+                  "name": "FKK beack \"Školjić\"",
+                  "text": "Népszerű naturista strand Murter szigetén, amely tiszta vizéről és nyugodt környezetéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        15.570164,
+                        43.821428
+                  ]
+            },
+            {
+                  "name": "Vránai-tó",
+                  "text": "Vrana-tó – Horvátország legnagyobb természetes tava, karszttó madárrezervátummal Murter közelében.",
+                  "category": "natural",
+                  "coords": [
+                        15.576157,
+                        43.894603
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Situl arheologic Colentum",
+                  "text": "Rămășițele unui oraș roman antic situat chiar pe coastă, la poalele dealului Gradina.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/murter-arch-ologische-st-tte-colentum.webp",
+                  "coords": [
+                        15.59227,
+                        43.828009
+                  ]
+            },
+            {
+                  "name": "Plaja Slanica",
+                  "text": "Plaja Slanica este cea mai faimoasă locație de înot de pe insula Murter, impresionând prin fundul său nisipos. Apa puțin adâncă și turcoaz creează o atmosferă deosebit de potrivită pentru familii la Marea Adriatică. Vizitatorii se pot aștepta la un loc ideal pentru înot și plimbări relaxante pe nisipul fin. În timpul sezonului de vârf, este recomandat să planificați vizita în orele dimineții.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/murter-strand-slanica.webp",
+                  "coords": [
+                        15.579123,
+                        43.816543
+                  ]
+            },
+            {
+                  "name": "Marina Hramina",
+                  "text": "Un port modern situat într-un golf protejat, considerat poarta de intrare către Parcul Național Kornati.",
+                  "category": "port",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/murter-marina-hramina.webp",
+                  "coords": [
+                        15.591752,
+                        43.826842
+                  ]
+            },
+            {
+                  "name": "Plaja Podvrške",
+                  "text": "Plaja Podvrške din Murter este o bijuterie ascunsă, accesibilă pitoresc printr-o mică potecă de coastă. Înconjurat de nisip alb și ape cristaline, aici domnește o atmosferă minunat de liniștită. Cei prezenți pot înota în Marea Adriatică sau pot pur și simplu să se bucure de natură. Un loc perfect pentru după-amieze de vară fără griji.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/murter-strand-podvr-ke.webp",
+                  "coords": [
+                        15.573687,
+                        43.822834
+                  ]
+            },
+            {
+                  "name": "Muzej Betinske drvene brodogradnje",
+                  "text": "Un muzeu din Betina dedicat tradiției locale de construcție a navelor din lemn.",
+                  "category": "museum",
+                  "coords": [
+                        15.604479,
+                        43.823258
+                  ]
+            },
+            {
+                  "name": "Svjetionik Prišnjak",
+                  "text": "Un far pitoresc construit în 1896 pe insulița Prišnjak, lângă Murter.",
+                  "category": "landmark",
+                  "coords": [
+                        15.558825,
+                        43.825372
+                  ]
+            },
+            {
+                  "name": "Colentum-Kompleks maritimne rimske vile",
+                  "text": "Vestigii arheologice ale unei vechi vile maritime romane situate în situl istoric Colentum.",
+                  "category": "historical",
+                  "coords": [
+                        15.593969,
+                        43.83256
+                  ]
+            },
+            {
+                  "name": "Liburnsko-rimska akropola i vidikovac",
+                  "text": "Un sit arheologic situat pe un deal care prezintă rămășițele unei vechi acropole liburnice și romane.",
+                  "category": "historical",
+                  "coords": [
+                        15.595079,
+                        43.830738
+                  ]
+            },
+            {
+                  "name": "Rimska ulica",
+                  "text": "O stradă antică din epoca romană în Murter, care face parte din așezarea Colentum.",
+                  "category": "historical",
+                  "coords": [
+                        15.592822,
+                        43.830411
+                  ]
+            },
+            {
+                  "name": "Neistraženo antičko groblje / nekropola",
+                  "text": "O necropolă antică neexplorată complet situată în zona localității Murter.",
+                  "category": "historical",
+                  "coords": [
+                        15.593823,
+                        43.828196
+                  ]
+            },
+            {
+                  "name": "Potopljeni grad i antička luka",
+                  "text": "Ruinele subacvatice ale unui port antic roman în largul coastei localității Murter.",
+                  "category": "historical",
+                  "coords": [
+                        15.59447,
+                        43.834368
+                  ]
+            },
+            {
+                  "name": "Luke",
+                  "text": "O plajă centrală în Murter, cu acces facil în mare și facilități pentru turiști.",
+                  "category": "recreational",
+                  "coords": [
+                        15.584869,
+                        43.82198
+                  ]
+            },
+            {
+                  "name": "Nudist beach",
+                  "text": "Această plajă de nudiști de pe insula Murter oferă un mediu retras pentru naturaliști. O atmosferă relaxată și tolerantă permite oaspeților să se bucure de Marea Adriatică croată fără a fi deranjați. Aici, bronzul uniform și înotul relaxant sunt în centrul vizitei. Aduceți suficientă protecție solară pentru a profita din plin de ziua la mare.",
+                  "category": "recreational",
+                  "coords": [
+                        15.597639,
+                        43.797796
+                  ]
+            },
+            {
+                  "name": "Betina",
+                  "text": "O plajă situată în apropierea localității Betina de pe insula Murter.",
+                  "category": "recreational",
+                  "coords": [
+                        15.605077,
+                        43.81959
+                  ]
+            },
+            {
+                  "name": "Raduč",
+                  "text": "Cel mai înalt vârf de pe insula Murter, oferind o vedere panoramică asupra arhipelagului Kornati.",
+                  "category": "natural",
+                  "coords": [
+                        15.587041,
+                        43.812144
+                  ]
+            },
+            {
+                  "name": "Drescher",
+                  "text": "Un centru de artă local în Murter, care găzduiește expoziții și ateliere creative.",
+                  "category": "cultural",
+                  "coords": [
+                        15.590796,
+                        43.821779
+                  ]
+            },
+            {
+                  "name": "Colentum",
+                  "text": "Un punct de observare situat în parcul arheologic Colentum, cu vedere spre golful Hramina.",
+                  "category": "natural",
+                  "coords": [
+                        15.595577,
+                        43.833706
+                  ]
+            },
+            {
+                  "name": "FKK beack \"Školjić\"",
+                  "text": "O plajă de naturiști populară pe insula Murter, cunoscută pentru apele sale limpezi și atmosfera liniștită.",
+                  "category": "recreational",
+                  "coords": [
+                        15.570164,
+                        43.821428
+                  ]
+            },
+            {
+                  "name": "Vransko jezero",
+                  "text": "Lacul Vrana – cel mai mare lac natural al Croației, lac carstic cu rezervație de păsări lângă Murter.",
+                  "category": "natural",
+                  "coords": [
+                        15.576157,
+                        43.894603
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Colentum Archaeological Site",
+                  "text": "The remains of an ancient Roman city located directly on the coastline at the foot of Gradina Hill.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/murter-arch-ologische-st-tte-colentum.webp",
+                  "coords": [
+                        15.59227,
+                        43.828009
+                  ]
+            },
+            {
+                  "name": "Slanica Beach",
+                  "text": "Strand Slanica is the most famous swimming spot on the island of Murter, impressing with its sandy seabed. The shallow, turquoise water creates a particularly family-friendly atmosphere by the Adriatic Sea. Visitors can expect an ideal place for swimming and relaxed walks on the soft sand. During the high season, it is advisable to schedule your visit for the morning hours.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/murter-strand-slanica.webp",
+                  "coords": [
+                        15.579123,
+                        43.816543
+                  ]
+            },
+            {
+                  "name": "Marina Hramina",
+                  "text": "A modern yacht harbor in a sheltered bay, serving as a gateway to the Kornati National Park.",
+                  "category": "port",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/murter-marina-hramina.webp",
+                  "coords": [
+                        15.591752,
+                        43.826842
+                  ]
+            },
+            {
+                  "name": "Podvrške Beach",
+                  "text": "Strand Podvrške on Murter is a hidden gem, picturesquely accessed via a small coastal path. Surrounded by white sand and crystal-clear water, a wonderfully quiet atmosphere prevails here. Bathers can enjoy a great swim in the Adriatic or simply take in the surrounding nature. A perfect spot for carefree summer afternoons.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/murter-strand-podvr-ke.webp",
+                  "coords": [
+                        15.573687,
+                        43.822834
+                  ]
+            },
+            {
+                  "name": "Museum of wooden shipbuilding in Bettina",
+                  "text": "A museum in Betina dedicated to the long-standing local tradition of wooden shipbuilding.",
+                  "category": "museum",
+                  "coords": [
+                        15.604479,
+                        43.823258
+                  ]
+            },
+            {
+                  "name": "Svjetionik Prišnjak",
+                  "text": "A scenic lighthouse built in 1896 on the islet of Prišnjak near Murter.",
+                  "category": "landmark",
+                  "coords": [
+                        15.558825,
+                        43.825372
+                  ]
+            },
+            {
+                  "name": "Colentum-Kompleks maritimne rimske vile",
+                  "text": "Archaeological remains of an ancient Roman maritime villa located within the historic Colentum site.",
+                  "category": "historical",
+                  "coords": [
+                        15.593969,
+                        43.83256
+                  ]
+            },
+            {
+                  "name": "Liburnsko-rimska akropola i vidikovac",
+                  "text": "An archaeological site on a hill featuring the remains of an ancient Liburnian and Roman acropolis.",
+                  "category": "historical",
+                  "coords": [
+                        15.595079,
+                        43.830738
+                  ]
+            },
+            {
+                  "name": "Rimska ulica",
+                  "text": "An ancient Roman street in Murter belonging to the archaeological settlement of Colentum.",
+                  "category": "historical",
+                  "coords": [
+                        15.592822,
+                        43.830411
+                  ]
+            },
+            {
+                  "name": "Neistraženo antičko groblje / nekropola",
+                  "text": "An unexplored ancient cemetery and necropolis located in the Murter area.",
+                  "category": "historical",
+                  "coords": [
+                        15.593823,
+                        43.828196
+                  ]
+            },
+            {
+                  "name": "Potopljeni grad i antička luka",
+                  "text": "Underwater remains of an ancient Roman port facility off the coast of Murter.",
+                  "category": "historical",
+                  "coords": [
+                        15.59447,
+                        43.834368
+                  ]
+            },
+            {
+                  "name": "Luke",
+                  "text": "A central beach in Murter offering shallow access to the sea and tourist facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        15.584869,
+                        43.82198
+                  ]
+            },
+            {
+                  "name": "Nudist beach",
+                  "text": "This nudist beach on the island of Murter offers a secluded environment for naturists. A relaxed and tolerant atmosphere allows guests to enjoy the Croatian Adriatic undisturbed. Here, seamless tanning and relaxing swimming are the focus of the visit. Bring adequate sun protection to fully enjoy your day by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        15.597639,
+                        43.797796
+                  ]
+            },
+            {
+                  "name": "Betina",
+                  "text": "A beach located near the village of Betina on the island of Murter.",
+                  "category": "recreational",
+                  "coords": [
+                        15.605077,
+                        43.81959
+                  ]
+            },
+            {
+                  "name": "Raduč",
+                  "text": "The highest peak of Murter island, offering a panoramic view of the Kornati archipelago.",
+                  "category": "natural",
+                  "coords": [
+                        15.587041,
+                        43.812144
+                  ]
+            },
+            {
+                  "name": "Drescher",
+                  "text": "A local arts centre in Murter hosting various exhibitions and creative workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        15.590796,
+                        43.821779
+                  ]
+            },
+            {
+                  "name": "Colentum",
+                  "text": "A viewpoint located within the Colentum archaeological park, overlooking Hramina bay.",
+                  "category": "natural",
+                  "coords": [
+                        15.595577,
+                        43.833706
+                  ]
+            },
+            {
+                  "name": "FKK beack \"Školjić\"",
+                  "text": "A popular naturist beach on the island of Murter, known for its clear waters and secluded setting.",
+                  "category": "recreational",
+                  "coords": [
+                        15.570164,
+                        43.821428
+                  ]
+            },
+            {
+                  "name": "Lake Vrana",
+                  "text": "Lake Vrana – Croatia's largest natural lake, a karst lake with bird reserve near Murter.",
+                  "category": "natural",
+                  "coords": [
+                        15.576157,
+                        43.894603
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Museum of wooden shipbuilding in Bettina",
+                  "text": "Muzej u Betini posvećen dugogodišnjoj lokalnoj tradiciji drvene brodogradnje.",
+                  "category": "museum",
+                  "coords": [
+                        15.604479,
+                        43.823258
+                  ]
+            },
+            {
+                  "name": "Svjetionik Prišnjak",
+                  "text": "Slikoviti svjetionik izgrađen 1896. godine na otočiću Prišnjaku blizu Murtera.",
+                  "category": "landmark",
+                  "coords": [
+                        15.558825,
+                        43.825372
+                  ]
+            },
+            {
+                  "name": "Colentum-Kompleks maritimne rimske vile",
+                  "text": "Arheološki ostaci antičke rimske maritimne vile smješteni unutar povijesnog lokaliteta Colentum.",
+                  "category": "historical",
+                  "coords": [
+                        15.593969,
+                        43.83256
+                  ]
+            },
+            {
+                  "name": "Liburnsko-rimska akropola i vidikovac",
+                  "text": "Arheološki lokalitet na uzvisini koji sadrži ostatke antičke liburnske i rimske akropole.",
+                  "category": "historical",
+                  "coords": [
+                        15.595079,
+                        43.830738
+                  ]
+            },
+            {
+                  "name": "Rimska ulica",
+                  "text": "Ostatci antičke rimske ulice u Murteru koja je bila dio naselja Colentum.",
+                  "category": "historical",
+                  "coords": [
+                        15.592822,
+                        43.830411
+                  ]
+            },
+            {
+                  "name": "Neistraženo antičko groblje / nekropola",
+                  "text": "Neistraženo antičko groblje i nekropola koja se nalazi na području Murtera.",
+                  "category": "historical",
+                  "coords": [
+                        15.593823,
+                        43.828196
+                  ]
+            },
+            {
+                  "name": "Potopljeni grad i antička luka",
+                  "text": "Podmorski ostatci antičke rimske luke i potopljenog grada uz obalu Murtera.",
+                  "category": "historical",
+                  "coords": [
+                        15.59447,
+                        43.834368
+                  ]
+            },
+            {
+                  "name": "Podvrške",
+                  "text": "Popularna šljunčana i pješčana plaža u Murteru poznata po čistom moru.",
+                  "category": "recreational",
+                  "coords": [
+                        15.57356,
+                        43.823774
+                  ]
+            },
+            {
+                  "name": "Luke",
+                  "text": "Središnja plaža u Murteru s plitkim pristupom moru i turističkim sadržajima.",
+                  "category": "recreational",
+                  "coords": [
+                        15.584869,
+                        43.82198
+                  ]
+            },
+            {
+                  "name": "Nudist beach",
+                  "text": "Miran dio obale u Murteru namijenjen kupačima nudistima.",
+                  "category": "recreational",
+                  "coords": [
+                        15.597639,
+                        43.797796
+                  ]
+            },
+            {
+                  "name": "Betina",
+                  "text": "Plaža smještena u blizini mjesta Betina na otoku Murteru.",
+                  "category": "recreational",
+                  "coords": [
+                        15.605077,
+                        43.81959
+                  ]
+            },
+            {
+                  "name": "Drescher",
+                  "text": "Lokalni centar za umjetnost u Murteru koji ugošćuje izložbe i kreativne radionice.",
+                  "category": "cultural",
+                  "coords": [
+                        15.590796,
+                        43.821779
+                  ]
+            },
+            {
+                  "name": "Colentum",
+                  "text": "Vidikovac u sklopu arheološkog parka Colentum s pogledom na uvalu Hramina.",
+                  "category": "natural",
+                  "coords": [
+                        15.595577,
+                        43.833706
+                  ]
+            },
+            {
+                  "name": "FKK beack \"Školjić\"",
+                  "text": "Poznata naturistička plaža na otoku Murteru, prepoznatljiva po čistom moru i mirnom okruženju.",
+                  "category": "recreational",
+                  "coords": [
+                        15.570164,
+                        43.821428
+                  ]
+            }
+      ]
+}},
   {"id": "nin", "type": "city", "parent": "HR-13", "coords": [15.1797, 44.2425], "population": 2744, "tier": 3, "name": {"de": "Nin", "hu": "Nin", "ro": "Nin", "en": "Nin"}, "description": {"de": "Die älteste kroatische Königsstadt, gelegen auf einer winzigen Insel in einer flachen Lagune, bekannt für ihre reiche Geschichte und Salinen.", "hu": "A legősibb horvát királyi város, amely egy sekély lagúna apró szigetén fekszik, és híres történelmi emlékeiről, valamint sólepárlóiról.", "ro": "Cel mai vechi oraș regal croat, situat pe o insulă mică într-o lagună puțin adâncă, renumit pentru istoria sa și salinele antice.", "en": "The oldest Croatian royal town, situated on a tiny islet within a shallow lagoon, famous for its rich history and ancient salt pans."}, "facts": {"de": ["Einwohnerzahl: ca. 2.744 Personen", "Besitzt die 'kleinste Kathedrale der Welt' (Heilig-Kreuz-Kirche)", "Erste Hauptstadt der kroatischen Herzöge und Könige", "Gegründet von den Liburnern im 9. Jahrhundert v. Chr.", "Bekannt für seine jahrtausendealten Salinen (Salzgarten)", "Berühmt für das Denkmal des Bischofs Gregor von Nin", "Beherbergt den größten Heilschlamm-Standort Kroatiens", "Die Altstadt ist nur über zwei Steinbrücken erreichbar"], "hu": ["Lakossága körülbelül 2744 fő", "Itt található a 'világ legkisebb katedrálisa' (Szent Kereszt-templom)", "A horvát fejedelmek és királyok legelső székhelye", "A liburnok alapították az i. e. 9. században", "Híres a háromezer éves múltra visszatekintő sólepárlóiról", "Itt áll Nini Gergely püspök hatalmas bronzszobra", "Horvátország legnagyobb gyógyiszap-lelőhelyének otthona", "Óvárosa egy apró szigeten fekszik, két kőhídon át közelíthető meg"], "ro": ["Populație: aproximativ 2.744 de locuitori", "Găzduiește 'cea mai mică catedrală din lume' (Biserica Sfânta Cruce)", "Prima capitală a ducilor și regilor croați", "Fondat de tribul liburnilor în secolul IX î.Hr.", "Renumit pentru salinele sale cu o vechime de peste 3.000 de ani", "Găzduiește statuia monumentală a episcopului Grigore din Nin", "Deține cel mai mare sit cu nămol terapeutic din Croația", "Centrul istoric este situat pe o insulă legată de două poduri de piatră"], "en": ["Population: approximately 2,744 people", "Home to the 'smallest cathedral in the world' (Church of the Holy Cross)", "First capital city of the Croatian dukes and kings", "Founded by the Liburnians in the 9th century BC", "Famous for its salt pans dating back 3,000 years", "Features the monumental statue of Bishop Gregory of Nin", "Site of the largest medicinal mud deposits in Croatia", "The old town is on a small island connected by two stone bridges"]}, "image": "/poi-images/nin.webp", "imageHint": "Nin Church of the Holy Cross with stone walls and sunny sky", "descriptionAdvanced": {"de": "Nin ist ein Juwel der Geschichte, das auf einer nur 500 Meter breiten Insel in einer sandigen Lagune ruht. Als älteste kroatische Königsstadt war Nin im 9. Jahrhundert das politische und religiöse Zentrum des Staates. Das Wahrzeichen der Stadt ist die Heilig-Kreuz-Kirche aus dem 9. Jahrhundert, die aufgrund ihrer harmonischen Proportionen als kleinste Kathedrale der Welt gilt. Ein Spaziergang durch Nin führt vorbei an römischen Tempelruinen und dem imposanten Denkmal von Gregor von Nin, dessen goldener Zeh Glück bringen soll, wenn man ihn berührt. Doch Nin ist nicht nur Geschichte: Die umliegenden Lagunen bieten mit der 'Königinnenstrand' (Kraljičina plaža) einen der seltenen Sandstrände Kroatiens, der für sein flaches, warmes Wasser und seinen Heilschlamm (Peloid) bekannt ist. Die Saline von Nin produziert noch heute Salz auf traditionelle Weise durch Verdunstung, eine Methode, die bereits von den Römern angewandt wurde. Die Stadt verbindet auf einzigartige Weise kulturelles Erbe mit natürlichen Heilkräften.", "hu": "Nin a horvát történelem bölcsője, amely egy mindössze 500 méter átmérőjű szigeten fekszik egy sekély homokos lagúna közepén. A 9. században a horvát állam legfontosabb politikai és vallási központja volt, itt székelt az első horvát püspök. A város jelképe a 9. századi Szent Kereszt-templom, amely tökéletes arányai miatt kapta a 'világ legkisebb katedrálisa' nevet. Nin utcáin sétálva római kori templomromokba és Nini Gergely püspök monumentális szobrába botlunk, akinek fényesre koptatott nagylábujja a legenda szerint szerencsét hoz. A történelmi óváros mellett Nin természeti kincsei is vonzóak: a Királynő-strand (Kraljičina plaža) egyike a ritka horvát homokos strandoknak, amelynek sekély vize mellett gyógyiszap lelhető fel. A nini sólepárlóban a mai napig a rómaiak által is alkalmazott, természetes módon, a nap és a szél segítségével nyerik ki a tengeri sót. Nin egy varázslatos hely, ahol a dicső múlt és a természet gyógyító ereje kéz a kézben jár.", "ro": "Nin este o bijuterie istorică situată pe o insulă de doar 500 de metri lățime, în mijlocul unei lagune nisipoase. Fiind cel mai vechi oraș regal croat, Nin a fost în secolul al IX-lea centrul politic și religios al statului. Simbolul orașului este Biserica Sfânta Cruce din secolul al IX-lea, considerată cea mai mică catedrală din lume datorită proporțiilor sale armonioase. O plimbare prin Nin dezvăluie ruinele unor temple romane și monumentul impunător al lui Grigore din Nin, al cărui deget de aur se spune că aduce noroc celor care îl ating. Însă Nin nu înseamnă doar istorie: lagunele din jur adăpostesc 'Plaja Reginei' (Kraljičina plaža), una dintre puținele plaje cu nisip din Croația, renumită pentru apele sale calde și nămolul terapeutic (peloid). Salina din Nin produce și astăzi sare prin metode tradiționale de evaporare, tehnică folosită încă de pe vremea romanilor. Orașul îmbină în mod unic moștenirea culturală cu resursele naturale vindecătoare.", "en": "Nin is a historical gem resting on a tiny island just 500 meters wide, encircled by a shallow sandy lagoon. As the oldest Croatian royal town, Nin served as the political and religious epicenter of the medieval state in the 9th century. The town's crown jewel is the 9th-century Church of the Holy Cross, famously dubbed the 'smallest cathedral in the world' due to its perfectly balanced proportions. Wandering through Nin, visitors encounter Roman temple ruins and the massive bronze statue of Bishop Gregory of Nin; legend has it that rubbing his golden toe brings good luck. Beyond its history, Nin is famous for its natural wonders: the Queen's Beach (Kraljičina plaža) is one of Croatia's rare sandy stretches, known for its warm, shallow waters and medicinal mud (peloid) deposits. The Nin Saltworks still harvest salt using traditional Roman methods of sun and wind evaporation. The town uniquely blends a glorious national heritage with natural healing properties."}, "factsAdvanced": {"de": ["Die Heilig-Kreuz-Kirche diente früher auch als Sonnenuhr und Kalender", "Nin war der Sitz der ersten kroatischen Diözese im 9. Jahrhundert", "Das römische Forum in Nin war eines der größten an der östlichen Adria", "Die Salinen von Nin produzieren die wertvolle 'Salzblüte' (Flor de Sal)", "Die Kondensationsbecken der Salinen sind ein Rückzugsort für seltene Vogelarten", "Die Statuen von Gregor von Nin gibt es auch in Split und Varaždin"], "hu": ["A Szent Kereszt-templom építésekor napóraként és naptárként is funkcionált", "Nin volt az első horvát egyházmegye székhelye a 9. században", "A nini római fórum az egyik legnagyobb volt az Adria keleti partján", "A helyi sólepárlóban a mai napig kézzel szüretelik a 'sóvirágot'", "A sólepárló medencéi számos ritka vándormadár fontos fészkelőhelye", "Nini Gergely püspöknek Splitben és Varaždinban is áll monumentális szobra"], "ro": ["Biserica Sfânta Cruce a fost proiectată să servească și ca ceas solar și calendar", "Nin a fost sediul primei dieceze croate în secolul al IX-lea", "Forumul roman din Nin a fost unul dintre cele mai mari de pe coasta Adriaticii", "Salinele din Nin produc faimoasa 'floare de sare' (Flor de Sal) recoltată manual", "Bazinele de evaporare sunt un habitat protejat pentru specii rare de păsări", "Statuile lui Grigore din Nin se mai găsesc și în orașele Split și Varaždin"], "en": ["The Church of the Holy Cross was designed to function as a sundial and calendar", "Nin was the seat of the first Croatian diocese established in the 9th century", "The Roman forum in Nin was among the largest on the eastern Adriatic coast", "The Nin Saltworks produce the highly prized 'flower of salt' (Flor de Sal)", "The salt evaporation ponds are a protected habitat for rare bird species", "Duplicate statues of Bishop Gregory of Nin are also located in Split and Varaždin"]}, "sights": {"de": [{"name": "Heilig-Kreuz-Kirche", "text": "Wird oft als die 'kleinste Kathedrale der Welt' bezeichnet und stammt aus dem 9. Jahrhundert.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/nin-heilig-kreuz-kirche.webp", "coords": [15.184465, 44.242785]}, {"name": "Kirche des Heiligen Nikolaus", "text": "Eine kleine Festungskirche auf einem Hügel aus dem 11. Jahrhundert, in der früher Könige gekrönt wurden.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/nin-kirche-des-heiligen-nikolaus.webp", "coords": [15.178512, 44.230864]}, {"name": "Römischer Tempel", "text": "Die Überreste des größten römischen Tempels an der Ostadria, der im 1. Jahrhundert unter Kaiser Vespasian erbaut wurde.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/nin-r-mischer-tempel.webp", "coords": [15.183811, 44.243952]}, {"name": "Salzmuseum Nin", "text": "Zeigt die traditionelle Art der Salzgewinnung, die in Nin seit über 1500 Jahren praktiziert wird.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/nin-salzmuseum-nin.webp", "coords": [15.192057, 44.243905]}, {"name": "Königinnenstrand", "text": "Ein langer Sandstrand, der für seinen Heilschlamm und das flache, warme Wasser bekannt ist.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/nin-k-niginnenstrand.webp", "coords": [15.167374, 44.257304]}, {"name": "Condura Croatica Museum", "text": "Präsentiert zwei restaurierte kroatische Schiffe aus dem 11. Jahrhundert, die im Hafen von Nin gefunden wurden.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/nin-condura-croatica-museum.webp", "coords": [15.165851, 44.257953]}, {"name": "Kraljičina plaža", "text": "Die Kraljičina plaža in Nin ist ein beeindruckend langer Sandstrand mit Blick auf das majestätische Velebit-Gebirge. Durch den vorhandenen Heilschlamm zieht der Ort Menschen an, die Entspannung und Wohlbefinden suchen. Ein Spaziergang im flachen Wasser oder ein Bad im Meer lassen sich hier hervorragend kombinieren. Die weite Küstenlandschaft ist besonders im Sommer ein lohnendes Ausflugsziel.", "category": "recreational", "coords": [15.174215, 44.251435]}, {"name": "Plaža Bilotinjak", "text": "Die Plaža Bilotinjak nahe Nin präsentiert sich als natürlicher Sandstrand in einer reizvollen Umgebung. Die ruhige Atmosphäre macht diesen Ort besonders bei Erholungssuchenden beliebt. Das flache Wasser lädt zu entspannten Schwimmrunden und unbeschwertem Planschen ein. Es ist ein wunderbarer Rückzugsort für einen sonnigen Urlaubstag an der Adria.", "category": "recreational", "coords": [15.153492, 44.234649]}, {"name": "Plaža Škrapavac", "text": "Die Plaža Škrapavac in Nin ist ein familienfreundlicher Strand mit feinem Sand und einer sehr einladenden Ausstrahlung. Der flache Zugang zum Meer schafft eine entspannte und sichere Umgebung, besonders für jüngere Besucher. Das Sonnenbaden am Ufer und ausgiebige Badegänge gehören hier zu den beliebtesten Aktivitäten. Packen Sie Ihre Strandutensilien ein und genießen Sie einen harmonischen Tag am Wasser.", "category": "recreational", "coords": [15.14561, 44.240407]}, {"name": "Plaža Prodorica", "text": "Dieser weitläufige Küstenstreifen bei Nin, die Plaža Prodorica, wird für seine natürliche Schönheit und den weichen Sand geschätzt. Die Umgebung verströmt eine beruhigende Atmosphäre, die zum Verweilen einlädt. Besucher können hier am Strand entlangwandern, Muscheln suchen oder im Meer schwimmen. Ein Besuch am späten Nachmittag verspricht oft ein besonders schönes Licht am Wasser.", "category": "recreational", "coords": [15.200407, 44.247612]}, {"name": "Rimska kuća", "text": "Diese Ausgrabungsstätte in Nin zeigt die Überreste eines antiken römischen Wohnhauses.", "category": "historical", "coords": [15.185451, 44.243798]}, {"name": "Zaton Holiday Resort Beach", "text": "Am Strand des Zaton Holiday Resorts in Nin findet sich eine lebendige Kulisse für abwechslungsreiche Ferientage. Das gut ausgestattete Areal bietet eine fröhliche und aktive Stimmung direkt am adriatischen Meer. Neben dem klassischen Schwimmen eröffnen sich hier unzählige Sport- und Freizeitmöglichkeiten am Strand. Es lohnt sich, viel Zeit einzuplanen, um das breite Angebot voll auszukosten.", "category": "recreational", "coords": [15.163824, 44.230776]}, {"name": "Plaža Sabunike FKK", "text": "Die Plaža Sabunike FKK liegt als diskreter Rückzugsort am Ende des Sabunike-Strandes bei Nin. Diese Zone zeichnet sich durch feinen Sand und ein ruhiges, tolerantes Miteinander aus. Gäste genießen hier die Vorzüge des ungestörten Sonnenbadens und entspannte Schwimmrunden im Adriatischen Meer. Ein idealer Ort für FKK-Anhänger, die Privatsphäre an warmen Tagen schätzen.", "category": "recreational", "coords": [15.158793, 44.26616]}, {"name": "Crkva Sv. Kate", "text": "Überreste der kleinen mittelalterlichen Kirche der Heiligen Katharina in der historischen Stadt Nin.", "category": "historical", "coords": [15.150642, 44.255663]}, {"name": "Plaža Ždrijac", "text": "Der Sandstrand Ždrijac in Nin präsentiert sich als lebendiger Ort an der dalmatinischen Küste. Dank des seichten Wassers herrscht hier eine ungezwungene, familienfreundliche Stimmung vor. Die flache Adria lädt zum Baden ein und bietet zudem sehr gute Bedingungen zum Kitesurfen. Ein Besuch ist bei gutem Wetter ein tolles Erlebnis für Wassersportler und Strandläufer gleichermaßen.", "category": "recreational", "coords": [15.185182, 44.247583]}, {"name": "Crkva sv. Andrije", "text": "Archäologische Ruinen der historischen Andreaskirche in Nin, die von der langen Geschichte der Region zeugen.", "category": "historical", "coords": [15.159791, 44.232746]}, {"name": "Kaštel Zaton", "text": "Überreste eines Verteidigungsturms aus dem 16. Jahrhundert, der zum Schutz vor osmanischen Angriffen errichtet wurde.", "category": "historical", "coords": [15.165009, 44.221101]}, {"name": "Plaža Pliša", "text": "Die Plaža Pliša in der Lagune von Nin ist ein sanft abfallender Sandstrand an der Adria. Das besonders warme und seichte Wasser sorgt für eine sehr entspannte und unbeschwerte Urlaubsstimmung. Badegäste verbringen hier gerne Stunden im flachen Meer, um zu planschen oder in Ruhe zu schwimmen. Die Lage macht den Strand zu einem idealen Ziel für unkomplizierte Urlaubstage am Wasser.", "category": "recreational", "coords": [15.166125, 44.216741]}, {"name": "Bär und spielplatz", "text": "Bär und spielplatz ist ein toller Spielplatz in Nin, der eine großartige Umgebung für Kinder und Familien zum Spielen und Entspannen bietet.", "category": "family", "coords": [15.147672, 44.239097]}, {"name": "Adventure golf", "text": "Adventure golf ist eine unterhaltsame Minigolfanlage in Nin, die Spaß und spannende Herausforderungen für die ganze Familie bietet.", "category": "family", "coords": [15.166561, 44.228689]}, {"name": "Felt golf", "text": "Felt golf ist eine unterhaltsame Minigolfanlage in Nin, die Spaß und spannende Herausforderungen für die ganze Familie bietet.", "category": "family", "coords": [15.16766, 44.228282]}], "hu": [{"name": "Szent Kereszt-templom", "text": "A világ legkisebb katedrálisaként emlegetik, és a 9. századból származó kora keresztény építészet remeke.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/nin-heilig-kreuz-kirche.webp", "coords": [15.184465, 44.242785]}, {"name": "Szent Miklós-templom", "text": "Egy dombtetőn álló, 11. századi erődtemplom, ahol a legenda szerint a horvát királyokat koronázták.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/nin-kirche-des-heiligen-nikolaus.webp", "coords": [15.178512, 44.230864]}, {"name": "Római templom romjai", "text": "Az Adria keleti partjának legnagyobb római temploma volt, amelyet az 1. században, Vespasianus idején építettek.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/nin-r-mischer-tempel.webp", "coords": [15.183811, 44.243952]}, {"name": "Nini Sómúzeum", "text": "A sólepárlás több mint 1500 éves hagyományát mutatja be, ahol a látogatók megismerhetik a kézi kitermelést.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/nin-salzmuseum-nin.webp", "coords": [15.192057, 44.243905]}, {"name": "Királyné strand", "text": "Hosszú homokos tengerpart, amely gyógyiszapjáról és sekély, gyorsan melegedő vizéről híres a turisták körében.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/nin-k-niginnenstrand.webp", "coords": [15.167374, 44.257304]}, {"name": "Condura Croatica Múzeum", "text": "Két 11. századi, a nini kikötőben talált és restaurált óhorvát hajót mutat be az archeológiai gyűjteményben.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/nin-condura-croatica-museum.webp", "coords": [15.165851, 44.257953]}, {"name": "Kraljičina plaža", "text": "A nini Kraljičina plaža egy lenyűgözően hosszú homokos strand, ahonnan kilátás nyílik a fenséges Velebit-hegységre. A helyi gyógyiszap olyan embereket vonz, akik pihenésre és jóleső feltöltődésre vágynak. A sekély vízben tett séta és a tengeri fürdőzés itt kiválóan ötvözhető. A tágas tengerparti táj különösen nyáron jelent hívogató úti célt.", "category": "recreational", "coords": [15.174215, 44.251435]}, {"name": "Plaža Bilotinjak", "text": "A Nin közelében található Plaža Bilotinjak egy természetes homokos strand vonzó környezetben. A csendes atmoszféra miatt ez a hely különösen népszerű a kikapcsolódni vágyók körében. A sekély víz pihentető úszásra és gondtalan pancsolásra hívogat. Ez egy csodálatos menedék egy napfényes nyaralási naphoz az Adrián.", "category": "recreational", "coords": [15.153492, 44.234649]}, {"name": "Plaža Škrapavac", "text": "A nini Plaža Škrapavac egy családbarát strand finom homokkal és nagyon hívogató kisugárzással. A tengerbe vezető sekély lejáró nyugodt és biztonságos környezetet teremt, különösen a fiatalabb látogatók számára. A parton való napozás és a kiadós fürdőzés itt a legnépszerűbb tevékenységek közé tartozik. Csomagolja be a strandfelszerelését, és élvezze a harmonikus napot a vízparton.", "category": "recreational", "coords": [15.14561, 44.240407]}, {"name": "Plaža Prodorica", "text": "A Nin melletti tágas partszakaszt, a Plaža Prodoricát, természetes szépségéért és puha homokjáért becsülik. A környezet nyugtató atmoszférát áraszt, amely maradásra csábít. A látogatók itt sétálhatnak a parton, kagylókat kereshetnek, vagy úszhatnak a tengerben. A késő délutáni látogatás gyakran különösen szép fényviszonyokat ígér a vízparton.", "category": "recreational", "coords": [15.200407, 44.247612]}, {"name": "Rimska kuća", "text": "Ez a nini régészeti lelőhely egy ókori római lakóház maradványait mutatja be.", "category": "historical", "coords": [15.185451, 44.243798]}, {"name": "Zaton Holiday Resort Beach", "text": "A nini Zaton Holiday Resort strandján nyüzsgő díszlet várja a változatos nyaralási napokat. A jól felszerelt terület vidám és aktív hangulatot kínál közvetlenül az Adriai-tenger mellett. A klasszikus úszás mellett számtalan sport- és szabadidős lehetőség nyílik a parton. Érdemes sok időt betervezni, hogy a széles kínálatot maximálisan ki tudjuk élvezni.", "category": "recreational", "coords": [15.163824, 44.230776]}, {"name": "Plaža Sabunike FKK", "text": "A Plaža Sabunike FKK egy diszkrét menedékhely a Sabunike-strand végén, Nin közelében. Ezt a zónát finom homok és nyugodt, toleráns együttlét jellemzi. A vendégek itt élvezhetik a zavartalan napozás előnyeit és a pihentető úszást az Adriai-tengerben. Ideális hely a nudizmus kedvelőinek, akik értékelik a magánéletet a meleg napokon.", "category": "recreational", "coords": [15.158793, 44.26616]}, {"name": "Crkva Sv. Kate", "text": "Szent Katalin kis középkori templomának maradványai Nin történelmi városában találhatók.", "category": "historical", "coords": [15.150642, 44.255663]}, {"name": "Plaža Ždrijac", "text": "A nini Ždrijac homokos strand élettel teli helyszínként mutatkozik be a dalmát tengerparton. A sekély víznek köszönhetően fesztelen, családbarát hangulat uralkodik itt. A lapos Adria fürdőzésre csábít, és ezenkívül nagyon jó feltételeket kínál a kiteszörfözéshez. Jó idő esetén a látogatás remek élmény a vízi sportok szerelmeseinek és a strandolóknak egyaránt.", "category": "recreational", "coords": [15.185182, 44.247583]}, {"name": "Crkva sv. Andrije", "text": "A nini Szent András-templom régészeti romjai, amelyek a régió hosszú történelméről tanúskodnak.", "category": "historical", "coords": [15.159791, 44.232746]}, {"name": "Kaštel Zaton", "text": "Egy 16. századi védőtorony romjai, amelyet a török támadások elleni védelemre építettek.", "category": "historical", "coords": [15.165009, 44.221101]}, {"name": "Plaža Pliša", "text": "A Plaža Pliša a nini lagúnában egy lassan mélyülő homokos strand az Adrián. A különösen meleg és sekély víz nagyon nyugodt és gondtalan nyaralási hangulatot biztosít. A fürdőzők szívesen töltenek itt órákat a sekély tengerben, hogy pancsoljanak vagy nyugodtan ússzanak. Az elhelyezkedés ideális célponttá teszi a strandot a könnyed vízparti nyaralásokhoz.", "category": "recreational", "coords": [15.166125, 44.216741]}, {"name": "Bär und spielplatz", "text": "A(z) Bär und spielplatz egy vidám játszótér Nin területén, amely nagyszerű környezetet biztosít a gyerekek és családok számára a játékhoz.", "category": "family", "coords": [15.147672, 44.239097]}, {"name": "Adventure golf", "text": "A(z) Adventure golf egy élvezetes minigolf attrakció Nin városában, amely szórakoztató kihívásokat kínál az egész családnak.", "category": "family", "coords": [15.166561, 44.228689]}, {"name": "Felt golf", "text": "A(z) Felt golf egy élvezetes minigolf attrakció Nin városában, amely szórakoztató kihívásokat kínál az egész családnak.", "category": "family", "coords": [15.16766, 44.228282]}], "ro": [{"name": "Biserica Sfânta Cruce", "text": "Cunoscută sub numele de 'cea mai mică catedrală din lume', datează din secolul al IX-lea și este un simbol al orașului.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/nin-heilig-kreuz-kirche.webp", "coords": [15.184465, 44.242785]}, {"name": "Biserica Sfântul Nicolae", "text": "O biserică-fortăreață din secolul al XI-lea situată pe un deal, unde se spune că regii croați erau încoronați.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/nin-kirche-des-heiligen-nikolaus.webp", "coords": [15.178512, 44.230864]}, {"name": "Templul Roman", "text": "Vestigiile celui mai mare templul roman de pe coasta estică a Adriaticii, construit în secolul I sub Vespasian.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/nin-r-mischer-tempel.webp", "coords": [15.183811, 44.243952]}, {"name": "Muzeul Sării din Nin", "text": "Prezintă metoda tradițională de recoltare a sării, practicată în Nin de peste 1500 de ani.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/nin-salzmuseum-nin.webp", "coords": [15.192057, 44.243905]}, {"name": "Plaja Reginei", "text": "O plajă lungă cu nisip, faimoasă pentru nămolul său terapeutic și apele calde și puțin adânci.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/nin-k-niginnenstrand.webp", "coords": [15.167374, 44.257304]}, {"name": "Muzeul Condura Croatica", "text": "Expune două nave croate restaurate din secolul al XI-lea, descoperite în portul istoric al orașului.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/nin-condura-croatica-museum.webp", "coords": [15.165851, 44.257953]}, {"name": "Kraljičina plaža", "text": "Kraljičina plaža din Nin este o plajă de nisip impresionant de lungă, cu vedere la maiestuoșii munți Velebit. Datorită noroiului curativ prezent, locul atrage oameni în căutare de relaxare și stare de bine. O plimbare prin apa puțin adâncă sau o baie în mare se pot combina excelent aici. Peisajul larg de coastă este o destinație de excursie plină de satisfacții, mai ales vara.", "category": "recreational", "coords": [15.174215, 44.251435]}, {"name": "Plaža Bilotinjak", "text": "Plaža Bilotinjak, aproape de Nin, se prezintă ca o plajă naturală de nisip într-un mediu fermecător. Atmosfera liniștită face acest loc deosebit de popular printre cei care caută relaxare. Apa puțin adâncă invită la înot relaxant și bălăceală fără griji. Este un refugiu minunat pentru o zi însorită de vacanță la Marea Adriatică.", "category": "recreational", "coords": [15.153492, 44.234649]}, {"name": "Plaža Škrapavac", "text": "Plaža Škrapavac din Nin este o plajă potrivită pentru familii, cu nisip fin și o carismă foarte primitoare. Accesul treptat în mare creează un mediu relaxat și sigur, în special pentru vizitatorii mai tineri. Plaja la mal și înotul prelungit sunt printre cele mai populare activități de aici. Pregătiți-vă lucrurile de plajă și bucurați-vă de o zi armonioasă la apă.", "category": "recreational", "coords": [15.14561, 44.240407]}, {"name": "Plaža Prodorica", "text": "Această întindere vastă de coastă lângă Nin, Plaža Prodorica, este apreciată pentru frumusețea sa naturală și nisipul fin. Împrejurimile emană o atmosferă liniștitoare care te invită să zăbovești. Vizitatorii se pot plimba pe plajă aici, pot căuta scoici sau pot înota în mare. O vizită la sfârșitul după-amiezii promite adesea o lumină deosebit de frumoasă lângă apă.", "category": "recreational", "coords": [15.200407, 44.247612]}, {"name": "Rimska kuća", "text": "Acest sit arheologic din Nin prezintă rămășițele unei vechi case rezidențiale romane.", "category": "historical", "coords": [15.185451, 44.243798]}, {"name": "Zaton Holiday Resort Beach", "text": "Pe plaja complexului Zaton Holiday Resort din Nin veți găsi un cadru plin de viață pentru zile de vacanță variate. Zona bine echipată oferă o atmosferă veselă și activă chiar la Marea Adriatică. Pe lângă înotul clasic, aici se deschid nenumărate opțiuni de sport și agrement pe plajă. Merită să vă planificați mult timp pentru a vă bucura pe deplin de oferta largă.", "category": "recreational", "coords": [15.163824, 44.230776]}, {"name": "Plaža Sabunike FKK", "text": "Plaža Sabunike FKK este un refugiu discret la capătul plajei Sabunike, lângă Nin. Această zonă se caracterizează prin nisip fin și o conviețuire liniștită, tolerantă. Oaspeții se bucură aici de avantajele plajei netulburate și de înotul relaxant în Marea Adriatică. Un loc ideal pentru pasionații de nudiști care apreciază intimitatea în zilele călduroase.", "category": "recreational", "coords": [15.158793, 44.26616]}, {"name": "Crkva Sv. Kate", "text": "Vestigiile micii biserici medievale Sfânta Ecaterina sunt situate în orașul istoric Nin.", "category": "historical", "coords": [15.150642, 44.255663]}, {"name": "Plaža Ždrijac", "text": "Plaja cu nisip Ždrijac din Nin se prezintă ca o locație plină de viață pe coasta dalmată. Datorită apei puțin adânci, aici predomină o atmosferă dezinvoltă, potrivită familiilor. Marea Adriatică plată invită la înot și oferă, de asemenea, condiții foarte bune pentru kitesurfing. O vizită este o experiență grozavă pe vreme bună, atât pentru pasionații de sporturi nautice, cât și pentru cei care se plimbă pe plajă.", "category": "recreational", "coords": [15.185182, 44.247583]}, {"name": "Crkva sv. Andrije", "text": "Ruinele arheologice ale bisericii istorice Sfântul Andrei din Nin, care atestă istoria îndelungată a regiunii.", "category": "historical", "coords": [15.159791, 44.232746]}, {"name": "Kaštel Zaton", "text": "Ruinele unui turn de apărare din secolul al XVI-lea, construit pentru protecția împotriva atacurilor otomane.", "category": "historical", "coords": [15.165009, 44.221101]}, {"name": "Plaža Pliša", "text": "Plaža Pliša din laguna Nin este o plajă de nisip cu o pantă lină la Marea Adriatică. Apa deosebit de caldă și puțin adâncă asigură o dispoziție de vacanță foarte relaxată și fără griji. Oaspeții petrec cu drag ore întregi în marea plată aici, pentru a se bălăci sau a înota în liniște. Locația face din plajă o destinație ideală pentru zile de vacanță necomplicate la apă.", "category": "recreational", "coords": [15.166125, 44.216741]}, {"name": "Bär und spielplatz", "text": "Bär und spielplatz este un loc de joacă minunat în Nin, oferind un mediu excelent pentru copii și familii să se relaxeze și să se joace.", "category": "family", "coords": [15.147672, 44.239097]}, {"name": "Adventure golf", "text": "Adventure golf este o atracție plăcută de minigolf în Nin, oferind provocări distractive și captivante pentru întreaga familie.", "category": "family", "coords": [15.166561, 44.228689]}, {"name": "Felt golf", "text": "Felt golf este o atracție plăcută de minigolf în Nin, oferind provocări distractive și captivante pentru întreaga familie.", "category": "family", "coords": [15.16766, 44.228282]}], "en": [{"name": "Church of the Holy Cross", "text": "Often called the 'smallest cathedral in the world', this Pre-Romanesque church dates back to the 9th century.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/nin-heilig-kreuz-kirche.webp", "coords": [15.184465, 44.242785]}, {"name": "Church of St. Nicholas", "text": "A small 11th-century fortress-church located on a mound where Croatian kings were reportedly crowned.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/nin-kirche-des-heiligen-nikolaus.webp", "coords": [15.178512, 44.230864]}, {"name": "Roman Temple", "text": "The remains of the largest Roman temple on the eastern Adriatic coast, built in the 1st century AD.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/nin-r-mischer-tempel.webp", "coords": [15.183811, 44.243952]}, {"name": "Nin Salt Museum", "text": "Exhibits the traditional method of salt production that has been practiced in Nin for over 1500 years.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/nin-salzmuseum-nin.webp", "coords": [15.192057, 44.243905]}, {"name": "Queen's Beach", "text": "A long sandy beach famous for its medicinal mud and very shallow, warm waters ideal for families.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/nin-k-niginnenstrand.webp", "coords": [15.167374, 44.257304]}, {"name": "Condura Croatica Museum", "text": "Displays two restored 11th-century Croatian boats that were found at the entrance to Nin's harbor.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/nin-condura-croatica-museum.webp", "coords": [15.165851, 44.257953]}, {"name": "Kraljičina plaža", "text": "Kraljičina plaža in Nin is an impressively long sandy beach with a view of the majestic Velebit Mountains. Thanks to the healing mud available, the place attracts people looking for relaxation and well-being. A walk in the shallow water or a swim in the sea can be excellently combined here. The expansive coastal landscape is a rewarding excursion destination, especially in summer.", "category": "recreational", "coords": [15.174215, 44.251435]}, {"name": "Plaža Bilotinjak", "text": "Plaža Bilotinjak near Nin presents itself as a natural sandy beach in a charming environment. The quiet atmosphere makes this place particularly popular with those seeking relaxation. The shallow water invites for relaxed swimming and carefree splashing. It is a wonderful retreat for a sunny vacation day on the Adriatic Sea.", "category": "recreational", "coords": [15.153492, 44.234649]}, {"name": "Plaža Škrapavac", "text": "Plaža Škrapavac in Nin is a family-friendly beach with fine sand and a very welcoming appeal. The shallow access to the sea creates a relaxed and safe environment, especially for younger visitors. Sunbathing on the shore and extensive swimming sessions are among the most popular activities here. Pack your beach gear and enjoy a harmonious day by the water.", "category": "recreational", "coords": [15.14561, 44.240407]}, {"name": "Plaža Prodorica", "text": "This expansive stretch of coastline near Nin, Plaža Prodorica, is appreciated for its natural beauty and soft sand. The surroundings exude a soothing atmosphere that invites you to linger. Visitors can walk along the beach here, look for shells, or swim in the sea. A visit in the late afternoon often promises particularly beautiful light by the water.", "category": "recreational", "coords": [15.200407, 44.247612]}, {"name": "Roman house", "text": "This archaeological site in Nin displays the remains of an ancient Roman residential house.", "category": "historical", "coords": [15.185451, 44.243798]}, {"name": "Zaton Holiday Resort Beach", "text": "On the beach of the Zaton Holiday Resort in Nin, you will find a lively backdrop for varied holiday days. The well-equipped area offers a cheerful and active mood right on the Adriatic Sea. In addition to classic swimming, countless sports and leisure opportunities unfold on the beach. It is worth planning plenty of time to fully enjoy the wide range of offerings.", "category": "recreational", "coords": [15.163824, 44.230776]}, {"name": "Plaža Sabunike FKK", "text": "Plaža Sabunike FKK lies as a discreet retreat at the end of Sabunike Beach near Nin. This zone is characterized by fine sand and a quiet, tolerant coexistence. Guests here enjoy the benefits of undisturbed sunbathing and relaxing swimming in the Adriatic Sea. An ideal place for nudist enthusiasts who appreciate privacy on warm days.", "category": "recreational", "coords": [15.158793, 44.26616]}, {"name": "Crkva Sv. Kate", "text": "The remains of the small medieval church of Saint Catherine are located in the historic town of Nin.", "category": "historical", "coords": [15.150642, 44.255663]}, {"name": "Ždrijac beach", "text": "The sandy beach of Ždrijac in Nin presents itself as a lively location on the Dalmatian coast. Thanks to the shallow water, a casual, family-friendly atmosphere prevails here. The flat Adriatic Sea invites for swimming and also offers very good conditions for kitesurfing. A visit is a great experience in good weather for water sports enthusiasts and beachcombers alike.", "category": "recreational", "coords": [15.185182, 44.247583]}, {"name": "Crkva sv. Andrije", "text": "Archaeological ruins of the historic church of Saint Andrew in Nin, witnessing the long history of the region.", "category": "historical", "coords": [15.159791, 44.232746]}, {"name": "Kaštel Zaton", "text": "The ruins of a 16th-century defensive tower built to protect the area from Ottoman attacks.", "category": "historical", "coords": [15.165009, 44.221101]}, {"name": "Plaža Pliša", "text": "Plaža Pliša in the lagoon of Nin is a gently sloping sandy beach on the Adriatic Sea. The particularly warm and shallow water ensures a very relaxed and carefree holiday mood. Bathers gladly spend hours in the shallow sea here to splash around or swim in peace. The location makes the beach an ideal destination for uncomplicated holiday days by the water.", "category": "recreational", "coords": [15.166125, 44.216741]}, {"name": "Bär und spielplatz", "text": "Bär und spielplatz is a fun playground in Nin, providing a great environment for children and families to play and relax.", "category": "family", "coords": [15.147672, 44.239097]}, {"name": "Adventure golf", "text": "Adventure golf is an enjoyable miniature golf attraction in Nin, offering fun and engaging challenges for the whole family.", "category": "family", "coords": [15.166561, 44.228689]}, {"name": "Felt golf", "text": "Felt golf is an enjoyable miniature golf attraction in Nin, offering fun and engaging challenges for the whole family.", "category": "family", "coords": [15.16766, 44.228282]}], "hr": [{"name": "Kraljičina plaža", "text": "Duga pješčana plaža u Ninu, poznata po ljekovitom blatu i pogledu na planinu Velebit.", "category": "recreational", "coords": [15.174215, 44.251435]}, {"name": "Plaža Bilotinjak", "text": "Prirodna pješčana plaža u blizini Nina, idealna za posjetitelje koji traže mir i plitko more.", "category": "recreational", "coords": [15.153492, 44.234649]}, {"name": "Plaža Škrapavac", "text": "Pješčana plaža u Ninu pogodna za obitelji, s plitkim morem i laganim pristupom.", "category": "recreational", "coords": [15.14561, 44.240407]}, {"name": "Plaža Prodorica", "text": "Prostrana plaža kod Nina, cijenjena zbog svog prirodnog okruženja i finog pijeska.", "category": "recreational", "coords": [15.200407, 44.247612]}, {"name": "Roman house", "text": "Arheološko nalazište u Ninu koje prikazuje ostatke antičke rimske stambene kuće.", "category": "historical", "coords": [15.185451, 44.243798]}, {"name": "Zaton Holiday Resort Beach", "text": "Uređena plaža turističkog naselja u Ninu koja nudi brojne sportske i zabavne sadržaje.", "category": "recreational", "coords": [15.163824, 44.230776]}, {"name": "Plaža Sabunike FKK", "text": "Mirni naturistički dio na kraju plaže Sabunike, poznat po privatnosti i sitnom pijesku.", "category": "recreational", "coords": [15.158793, 44.26616]}, {"name": "Crkva Sv. Kate", "text": "Ostaci male srednjovjekovne crkve svete Kate nalaze se u povijesnom gradu Ninu.", "category": "historical", "coords": [15.150642, 44.255663]}, {"name": "Ždrijac beach", "text": "Ždrijac je popularna pješčana plaža u Ninu, poznata po plitkom moru i idealnim uvjetima za kitesurfing.", "category": "recreational", "coords": [15.185182, 44.247583]}, {"name": "Crkva sv. Andrije", "text": "Arheološki ostaci povijesne crkve svetog Andrije u Ninu koji svjedoče o dugoj povijesti ovoga kraja.", "category": "historical", "coords": [15.159791, 44.232746]}, {"name": "Kaštel Zaton", "text": "Ostaci obrambene kule iz 16. stoljeća koja je izgrađena za zaštitu od osmanskih napada.", "category": "historical", "coords": [15.165009, 44.221101]}, {"name": "Plaža Pliša", "text": "Pješčana plaža u ninskoj laguni, poznata po plitkom i toplom moru.", "category": "recreational", "coords": [15.166125, 44.216741]}]}},
   {"id": "orebic", "type": "city", "parent": "HR-19", "coords": [17.1758, 42.9744], "population": 1956, "tier": 3, "name": {"de": "Orebić", "hu": "Orebić", "ro": "Orebić", "en": "Orebić"}, "description": {"de": "Die größte Siedlung auf der Halbinsel Pelješac, einst die Stadt der Kapitäne. Sie erwartet Besucher mit einer reichen maritimen Vergangenheit am Fuße des Berges Sveti Ilija.", "hu": "A Pelješac-félsziget legnagyobb települése, egykor a tengeri kapitányok városa. Gazdag tengerészeti múlttal és a Szent Illés-hegy lábánál elterülő strandokkal várja a látogatókat.", "ro": "Cea mai mare așezare de pe peninsula Pelješac, odinioară orașul căpitanilor. Își așteaptă vizitatorii cu un trecut maritim bogat, la poalele muntelui Sveti Ilija.", "en": "The largest settlement on the Pelješac peninsula, once a city of sea captains. It awaits visitors with a rich maritime past at the foot of Mount Sveti Ilija."}, "facts": {"de": ["Einwohnerzahl: 1956 Personen", "Einstiges Zentrum der adriatischen Seefahrt", "Heimat prächtiger Kapitänsvillen", "Franziskanerkloster mit Aussicht auf Korčula", "Berg Sveti Ilija (961 m) ist ein Wanderziel", "Bedeutendes Schifffahrtsmuseum im Zentrum", "Tor zu den Weinregionen Dingač und Postup", "Regelmäßige Fährverbindung nach Korčula"], "hu": ["Lakossága 1956 fő", "Az adriai hajózás egykori központja", "Fényűző kapitányvillák otthona", "Ferences kolostor kilátással Korčulára", "A Szent Illés-hegy (961 m) népszerű túracélpont", "Jelentős Tengerészeti Múzeum a központban", "A Dingač és Postup borvidékek kapuja", "Rendszeres kompjárat Korčula szigetére"], "ro": ["Populație: 1956 de persoane", "Fost centru important al navigației adriatice", "Găzduiește vile luxoase ale căpitanilor", "Mănăstire franciscană cu vedere spre Korčula", "Muntele Sveti Ilija (961 m) este ideal pentru drumeții", "Muzeu maritim important în centrul orașului", "Poarta către regiunile viticole Dingač și Postup", "Legătură regulată cu feribotul către Korčula"], "en": ["Population of 1956 people", "Former center of Adriatic navigation", "Home to magnificent captain's villas", "Franciscan monastery with views over Korčula", "Mount Sveti Ilija (961 m) is a hiking destination", "Significant Maritime Museum in the center", "Gateway to Dingač and Postup wine regions", "Regular ferry service to Korčula island"]}, "image": "/poi-images/orebic.webp", "imageHint": "Orebić coastline with large stone houses and a church tower", "descriptionAdvanced": {"de": "Orebić liegt am südwestlichen Rand der Halbinsel Pelješac und blickt auf eine ruhmreiche maritime Geschichte zurück. Im 19. Jahrhundert war die Stadt ein bedeutendes Zentrum der Seefahrt, und die Wohlhabenden Kapitäne errichteten prächtige Villen, deren exotische Gärten noch heute das Stadtbild prägen. Ein Muss für jeden Besucher ist das Schifffahrtsmuseum, das die nautischen Traditionen der Region dokumentiert. Hoch über der Stadt thront das Franziskanerkloster der Muttergottes der Engel aus dem 15. Jahrhundert, von dessen Terrasse man einen der spektakulärsten Ausblicke auf den Pelješac-Kanal und die gegenüberliegende Insel Korčula genießt. Für Aktivurlauber bietet der 961 Meter hohe Berg Sveti Ilija herausfordernde Wanderwege. Orebić ist zudem weltweit bekannt als Ausgangspunkt zu den berühmten Weinanbaugebieten Dingač und Postup, wo die besten kroatischen Rotweine produziert werden. Die Kombination aus historischem Erbe, kristallklarem Wasser und den umliegenden Weinbergen verleiht Orebić eine ganz besondere Atmosphäre, die sowohl Kulturliebhaber als auch Weinkenner anzieht.", "hu": "Orebić a Pelješac-félsziget déli partján fekszik, szemben Korčula városával. A 19. században a tengeri hajózás egyik központja volt, amit a mai napig őriznek a kapitányok fényűző villái és kertjei. A Tengerészeti Múzeum bemutatja a város dicső múltját, míg a dombtetőn álló ferences kolostorból lélegzetelállító kilátás nyílik a Pelješac-csatornára és a szomszédos szigetekre. A környék a szörfösök és vitorlázók körében is népszerű az állandó misztrál szél miatt. A bor kedvelői számára Orebić a kapu a híres pelješaci vörösborok, mint a Dingač és Postup világába. A város felett tornyosuló 961 méter magas Szent Illés-hegy (Sveti Ilija) a félsziget legmagasabb pontja, ahonnan tiszta időben az olasz partokig is el lehet látni. A település homokos és kavicsos strandjai, mint például a Trstenica, a kisgyermekes családok számára is ideálisak. Orebić megőrizte nyugodt, polgári jellegét, így tökéletes választás a minőségi kikapcsolódásra vágyóknak.", "ro": "Orebić este situat pe malul sud-vestic al peninsulei Pelješac și are o istorie maritimă glorioasă. În secolul al XIX-lea, orașul era un centru important al navigației, iar căpitanii bogați au construit vile magnifice ale căror grădini exotice modelează și astăzi peisajul urban. Un punct de atracție obligatoriu pentru orice vizitator este Muzeul Maritim, care documentează tradițiile nautice ale regiunii. Sus deasupra orașului se află Mănăstirea Franciscană a Maicii Domnului Îngerilor din secolul al XV-lea, de pe a cărei terasă se poate admira una dintre cele mai spectaculoase priveliști asupra canalului Pelješac și a insulei Korčula. Pentru turiștii activi, muntele Sveti Ilija, înalt de 961 de metri, oferă trasee de drumeție provocatoare. Orebić este, de asemenea, cunoscut ca poartă de acces către faimoasele regiuni viticole Dingač și Postup, unde se produc unele dintre cele mai bune vinuri roșii croate. Combinația dintre moștenirea istorică, apa cristalină și podgoriile din jur conferă localității Orebić o atmosferă specială care atrage atât iubitorii de cultură, cât și pe cei de vin.", "en": "Orebić is located on the southwestern edge of the Pelješac peninsula and boasts a glorious maritime history. In the 19th century, the town was a significant center for seafaring, and wealthy captains built magnificent villas whose exotic gardens still characterize the cityscape today. A must-see for every visitor is the Maritime Museum, which documents the region's nautical traditions. High above the town sits the 15th-century Franciscan Monastery of Our Lady of Angels, from whose terrace you can enjoy one of the most spectacular views of the Pelješac Channel and the opposite island of Korčula. For active vacationers, the 961-meter-high Mount Sveti Ilija offers challenging hiking trails. Orebić is also world-famous as the gateway to the renowned Dingač and Postup wine regions, where Croatia's finest red wines are produced. The combination of historical heritage, crystal-clear water, and surrounding vineyards gives Orebić a unique atmosphere that attracts both culture lovers and wine enthusiasts."}, "factsAdvanced": {"de": ["Die Blütezeit als Kapitänsstadt war in der Mitte des 19. Jahrhunderts", "Das Schifffahrtsmuseum wurde im Jahr 1957 gegründet", "Das Franziskanerkloster beherbergt ein Votivmuseum für Seeleute", "Der Berg Sveti Ilija ist mit 961 m der höchste Punkt der Halbinsel", "Die Einwohnerzahl beträgt 1956 Personen laut aktueller Erhebung", "Zugehörigkeit zur Gespanschaft Dubrovnik-Neretva (HR-19)"], "hu": ["A kapitányok városa a virágkorát a 19. század közepén élte", "A Tengerészeti Múzeumot 1957-ben alapították a helyi emlékek őrzésére", "A ferences kolostor egy különleges tengerészeti fogadalmi gyűjteményt őriz", "A Szent Illés-hegy 961 méteres magasságával a félsziget csúcsa", "A lakosság lélekszáma a legutóbbi adatok szerint 1956 fő", "Közigazgatásilag a Dubrovnik-Neretva megyéhez (HR-19) tartozik"], "ro": ["Epoca de aur ca oraș al căpitanilor a fost la mijlocul secolului al XIX-lea", "Muzeul Maritim a fost fondat în anul 1957", "Mănăstirea franciscană adăpostește o colecție de ofrande votive ale marinarilor", "Muntele Sveti Ilija este cel mai înalt punct al peninsulei, având 961 m", "Populația localității este de 1956 de locuitori conform datelor recente", "Face parte din județul Dubrovnik-Neretva (cod HR-19)"], "en": ["The golden age as a captains' town was in the mid-19th century", "The Maritime Museum was established in 1957", "The Franciscan monastery houses a unique collection of maritime votive gifts", "Mount Sveti Ilija is the highest peak of the peninsula at 961 m", "The population is 1956 inhabitants according to current records", "Belongs to the Dubrovnik-Neretva County (HR-19)"]}, "sights": {
       "de": [
@@ -16476,7 +22707,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Aminess Vival Port9 Resort infinity pool",
-                  "text": "Ein Infinity-Pool im Resort in Orebić für ein besonderes Schwimmerlebnis.",
+                  "text": "Aminess Vival Port9 Resort infinity pool – ein Infinity-Pool mit Blick auf den Pelješac-Kanal bei Orebić.",
                   "category": "family",
                   "coords": [
                         17.14442,
@@ -16572,7 +22803,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Aminess Vival Port9 Resort infinity pool",
-                  "text": "Orebići üdülőhely végtelenített medencéje a különleges úszásélményért.",
+                  "text": "Aminess Vival Port9 Resort infinity pool – végtelenített medence a Pelješac-csatornára néző kilátással Orebić mellett.",
                   "category": "family",
                   "coords": [
                         17.14442,
@@ -16668,7 +22899,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Aminess Vival Port9 Resort infinity pool",
-                  "text": "O piscină de tip infinity în stațiunea din Orebić pentru o experiență de înot deosebită.",
+                  "text": "Aminess Vival Port9 Resort infinity pool – o piscină infinity cu vedere spre canalul Pelješac lângă Orebić.",
                   "category": "family",
                   "coords": [
                         17.14442,
@@ -16764,7 +22995,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Aminess Vival Port9 Resort infinity pool",
-                  "text": "An infinity pool at the resort in Orebić for a special swimming experience.",
+                  "text": "Aminess Vival Port9 Resort infinity pool – an infinity pool overlooking the Pelješac channel near Orebić.",
                   "category": "family",
                   "coords": [
                         17.14442,
@@ -16982,7 +23213,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Vrana-See",
-                  "text": "Lake Vrana ist ein See in Pakostane, der Besuchern eine wunderschöne Landschaft bietet.",
+                  "text": "Vrana-See – Kroatiens größter natürlicher See, Karstsee und Vogelschutzgebiet bei Pakoštane.",
                   "category": "natural",
                   "coords": [
                         15.576157,
@@ -17000,7 +23231,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Dalmaland Fun Park",
-                  "text": "Ein großer Freizeitpark für einen Tagesausflug in Pakostane.",
+                  "text": "Der Dalmaland Freizeitpark in Pakoštane.",
                   "category": "family",
                   "coords": [
                         15.47943,
@@ -17009,7 +23240,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Dalmaland Aquapark",
-                  "text": "Ein Wasserpark für Wasserspaß in Pakostane.",
+                  "text": "Dalmaland Aquapark – ein großer Wasserpark mit Rutschen und Wellenbad bei Pakoštane.",
                   "category": "family",
                   "coords": [
                         15.480005,
@@ -17036,7 +23267,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Plaža Kozarica",
-                  "text": "Ein Strandresort an der Küste in der Region Pakoštane.",
+                  "text": "Plaža Kozarica – ein Sandstrand in einer Bucht an der Adriaküste bei Pakoštane.",
                   "category": "recreational",
                   "coords": [
                         15.497381,
@@ -17045,7 +23276,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Plaža Pakoštane",
-                  "text": "Ein Strandresort für die Stadt Pakoštane.",
+                  "text": "Plaža Pakoštane – der Stadtstrand von Pakoštane mit flachem Wasser und Sand.",
                   "category": "recreational",
                   "coords": [
                         15.502082,
@@ -17205,7 +23436,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Vránai-tó",
-                  "text": "A(z) Lake Vrana egy tó Pakostane területén, amely gyönyörű tájat kínál a látogatóknak.",
+                  "text": "Vrana-tó – Horvátország legnagyobb természetes tava, karszttó és madárrezervátum Pakoštane mellett.",
                   "category": "natural",
                   "coords": [
                         15.576157,
@@ -17223,7 +23454,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Dalmaland Fun Park",
-                  "text": "Nagy vidámpark egy napos kiránduláshoz Pakostane területén.",
+                  "text": "A Dalmaland szórakoztató park Pakoštanéban.",
                   "category": "family",
                   "coords": [
                         15.47943,
@@ -17232,7 +23463,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Dalmaland Aquapark",
-                  "text": "Vízi park a vízi szórakozáshoz Pakostane területén.",
+                  "text": "Dalmaland Aquapark – nagy vízi park csúszdákkal és hullámmedencével Pakoštane mellett.",
                   "category": "family",
                   "coords": [
                         15.480005,
@@ -17259,7 +23490,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Plaža Kozarica",
-                  "text": "Tengerparti üdülőhely Pakoštane régiójában.",
+                  "text": "Plaža Kozarica – homokos strand egy öbölben az Adriai-tenger partján Pakoštane mellett.",
                   "category": "recreational",
                   "coords": [
                         15.497381,
@@ -17268,7 +23499,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Plaža Pakoštane",
-                  "text": "Pakoštane városát kiszolgáló tengerparti üdülőhely.",
+                  "text": "Plaža Pakoštane – Pakoštane városi strandja sekély vízzel és homokkal.",
                   "category": "recreational",
                   "coords": [
                         15.502082,
@@ -17428,7 +23659,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Vransko jezero",
-                  "text": "Lake Vrana este un lac situat în Pakostane, oferind peisaje frumoase vizitatorilor.",
+                  "text": "Lacul Vrana – cel mai mare lac natural al Croației, lac carstic și rezervație de păsări lângă Pakoštane.",
                   "category": "natural",
                   "coords": [
                         15.576157,
@@ -17446,7 +23677,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Dalmaland Fun Park",
-                  "text": "Un parc mare de distracții pentru o excursie de o zi în Pakostane.",
+                  "text": "Parcul de distracții Dalmaland în Pakoštane.",
                   "category": "family",
                   "coords": [
                         15.47943,
@@ -17455,7 +23686,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Dalmaland Aquapark",
-                  "text": "Un parc acvatic pentru distracție în apă în Pakostane.",
+                  "text": "Dalmaland Aquapark – un parc acvatic mare cu tobogane și piscină cu valuri lângă Pakoštane.",
                   "category": "family",
                   "coords": [
                         15.480005,
@@ -17482,7 +23713,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Plaža Kozarica",
-                  "text": "O stațiune de plajă la coastă situată în regiunea Pakoštane.",
+                  "text": "Plaža Kozarica – o plajă nisipoasă într-un golf pe coasta Adriaticii lângă Pakoštane.",
                   "category": "recreational",
                   "coords": [
                         15.497381,
@@ -17491,7 +23722,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Plaža Pakoštane",
-                  "text": "O zonă de stațiune de plajă care deservește orașul Pakoštane.",
+                  "text": "Plaža Pakoštane – plaja orașului Pakoštane cu apă mică și nisip.",
                   "category": "recreational",
                   "coords": [
                         15.502082,
@@ -17651,7 +23882,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Lake Vrana",
-                  "text": "Lake Vrana is a lake located in Pakostane, offering beautiful scenery for visitors.",
+                  "text": "Lake Vrana – Croatia's largest natural lake, a karst lake and bird sanctuary near Pakoštane.",
                   "category": "natural",
                   "coords": [
                         15.576157,
@@ -17669,7 +23900,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Dalmaland Fun Park",
-                  "text": "A large theme park for a day trip in Pakostane.",
+                  "text": "Dalmaland Fun Park in Pakoštane.",
                   "category": "family",
                   "coords": [
                         15.47943,
@@ -17678,7 +23909,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Dalmaland Aquapark",
-                  "text": "A water park for water fun in Pakostane.",
+                  "text": "Dalmaland Aquapark – a large water park with slides and wave pool near Pakoštane.",
                   "category": "family",
                   "coords": [
                         15.480005,
@@ -17705,7 +23936,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Plaža Kozarica",
-                  "text": "A coastal beach resort located in the Pakoštane region.",
+                  "text": "Plaža Kozarica – a sandy beach in a cove on the Adriatic coast near Pakoštane.",
                   "category": "recreational",
                   "coords": [
                         15.497381,
@@ -17714,7 +23945,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Plaža Pakoštane",
-                  "text": "A beach resort area serving the town of Pakoštane.",
+                  "text": "Plaža Pakoštane – the town beach of Pakoštane with shallow water and sand.",
                   "category": "recreational",
                   "coords": [
                         15.502082,
@@ -17885,7 +24116,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Ponikve",
-                  "text": "Der Ponikve-See bei Punat auf Krk.",
+                  "text": "Ponikve – ein Süßwasserteich auf der Insel Krk bei Punat.",
                   "category": "natural",
                   "coords": [
                         14.563596,
@@ -17979,7 +24210,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Ponikve",
-                  "text": "A krki Punat melletti Ponikve-tó.",
+                  "text": "Ponikve – édesvízi tó Krk szigetén, Punat közelében.",
                   "category": "natural",
                   "coords": [
                         14.563596,
@@ -18073,7 +24304,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Ponikve",
-                  "text": "Lacul Ponikve de lângă Punat pe Krk.",
+                  "text": "Ponikve – un iaz de apă dulce pe insula Krk lângă Punat.",
                   "category": "natural",
                   "coords": [
                         14.563596,
@@ -18167,7 +24398,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Ponikve",
-                  "text": "Lake Ponikve near Punat on Krk.",
+                  "text": "Ponikve – a freshwater pond on the island of Krk near Punat.",
                   "category": "natural",
                   "coords": [
                         14.563596,
@@ -18300,7 +24531,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Dvorac obitelji Draganić-Vrančić",
-                  "text": "Das Herrenhaus der Familie Draganić-Vrančić ist ein bedeutendes Baudenkmal in Tisno.",
+                  "text": "Dvorac obitelji Draganić-Vrančić – ein Herrenhaus aus dem 18. Jahrhundert in Tisno.",
                   "category": "historical",
                   "coords": [
                         15.668017,
@@ -18336,7 +24567,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Betina",
-                  "text": "Dieser Badebereich in Tisno ist ein lokaler Ort zum Schwimmen und Entspannen.",
+                  "text": "Betina – ein traditionelles Fischerdorf mit familienfreundlichem Strand auf der Insel Murter.",
                   "category": "family",
                   "coords": [
                         15.60545,
@@ -18345,7 +24576,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "FKK",
-                  "text": "Ein ausgewiesener FKK-Badebereich in Tisno.",
+                  "text": "FKK – ein FKK-Strand an der Küste der Insel Murter bei Tisno.",
                   "category": "recreational",
                   "coords": [
                         15.607625,
@@ -18401,7 +24632,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Dvorac obitelji Draganić-Vrančić",
-                  "text": "A Draganić-Vrančić család kúriája Tisno egyik jelentős építészeti emléke.",
+                  "text": "Dvorac obitelji Draganić-Vrančić – egy 18. századi kúria Tisnóban.",
                   "category": "historical",
                   "coords": [
                         15.668017,
@@ -18437,7 +24668,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Betina",
-                  "text": "Ez a Tisno-i fürdőhely egy helyi pont az úszáshoz és a pihenéshez.",
+                  "text": "Betina – hagyományos halászfalu családbarát stranddal Murter szigetén.",
                   "category": "family",
                   "coords": [
                         15.60545,
@@ -18446,7 +24677,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "FKK",
-                  "text": "Kijelölt naturista fürdőhely Tisno területén.",
+                  "text": "FKK – naturista strand Murter szigetének partján Tisno közelében.",
                   "category": "recreational",
                   "coords": [
                         15.607625,
@@ -18502,7 +24733,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Dvorac obitelji Draganić-Vrančić",
-                  "text": "Conacul familiei Draganić-Vrančić este un monument arhitectural semnificativ din Tisno.",
+                  "text": "Dvorac obitelji Draganić-Vrančić – un conac din secolul al XVIII-lea în Tisno.",
                   "category": "historical",
                   "coords": [
                         15.668017,
@@ -18538,7 +24769,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Betina",
-                  "text": "Această zonă de înot din Tisno este un loc local pentru înot și relaxare.",
+                  "text": "Betina – un sat tradițional de pescari cu plajă familială pe insula Murter.",
                   "category": "family",
                   "coords": [
                         15.60545,
@@ -18547,7 +24778,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "FKK",
-                  "text": "O zonă de înot pentru nudiști în Tisno.",
+                  "text": "FKK – o plajă nudist pe coasta insulei Murter lângă Tisno.",
                   "category": "recreational",
                   "coords": [
                         15.607625,
@@ -18603,7 +24834,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Dvorac obitelji Draganić-Vrančić",
-                  "text": "The manor of the Draganić-Vrančić family is a significant architectural monument in Tisno.",
+                  "text": "Dvorac obitelji Draganić-Vrančić – an 18th-century manor house in Tisno.",
                   "category": "historical",
                   "coords": [
                         15.668017,
@@ -18639,7 +24870,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "Betina",
-                  "text": "This swimming area in Tisno is a local spot for swimming and relaxation.",
+                  "text": "Betina – a traditional fishing village with a family-friendly beach on the island of Murter.",
                   "category": "family",
                   "coords": [
                         15.60545,
@@ -18648,7 +24879,7 @@ export const poiExtraHrV1: POI[] = [
             },
             {
                   "name": "FKK",
-                  "text": "A designated clothing-optional swimming area in Tisno.",
+                  "text": "FKK – a nudist beach on the coast of Murter island near Tisno.",
                   "category": "recreational",
                   "coords": [
                         15.607625,
@@ -18722,5 +24953,868 @@ export const poiExtraHrV1: POI[] = [
             }
       ]
 }},
-  {"id": "tucepi", "type": "city", "parent": "HR-17", "coords": [17.0561, 43.2728], "population": 1763, "tier": 3, "name": {"de": "Tučepi", "hu": "Tučepi", "ro": "Tučepi", "en": "Tučepi"}, "description": {"de": "Einer der beliebtesten Ferienorte an der Makarska Riviera, am Fuße des Biokovo-Gebirges. Bekannt für seinen über 4 Kilometer langen Kiesstrand und die schattigen Pinienwälder.", "hu": "A Makarskai Riviéra egyik legnépszerűbb üdülőhelye, amely a Biokovo-hegység lábánál fekszik. Híres a több mint 4 kilométer hosszú, aprókavicsos strandjáról és fenyveseiről.", "ro": "Una dintre cele mai populare stațiuni de pe Riviera Makarska, situată la poalele Muntelui Biokovo. Renumită pentru plaja sa cu pietriș de peste 4 kilometri și pădurile de pini.", "en": "One of the most popular resorts on the Makarska Riviera, nestled at the foot of Mount Biokovo. Famous for its 4-kilometer-long pebble beach and lush pine forests."}, "facts": {"de": ["Bevölkerung: 1763 Einwohner", "Längster Strand der Makarska Riviera", "Heiliger Antonius von Padua Schutzpatron", "Sommerkulturfestival im Juli und August", "Römische Spuren im Ortsteil Gradac", "Direkte Lage am Biokovo-Naturpark", "Moderne Marina für Segelyachten", "Über 3000 Sonnenstunden im Jahr"], "hu": ["Lakossága 1763 fő", "A Makarskai Riviéra leghosszabb strandja", "Páduai Szent Antal a védőszentje", "Kulturális nyári estek fesztiválja", "Római kori leletek a Gradac területén", "A Biokovo Natúrpark közvetlen közelsége", "Modern jachtkikötő a központban", "Évi több mint 3000 napsütéses óra"], "ro": ["Populație: 1763 de locuitori", "Cea mai lungă plajă de pe Riviera Makarska", "Sfântul Anton de Padova este patronul", "Festival de vară cu evenimente culturale", "Vestigii romane în zona Gradac", "Proximitate față de Parcul Natural Biokovo", "Port modern pentru iahturi", "Peste 3000 de ore de soare pe an"], "en": ["Population of 1763 inhabitants", "Longest beach on the Makarska Riviera", "St. Anthony of Padua is the patron saint", "Summer cultural evenings festival", "Roman era findings in Gradac area", "Proximity to Biokovo Nature Park", "Modern marina for sailing yachts", "Over 3000 hours of sunshine per year"]}, "image": "/poi-images/tucepi.webp", "imageHint": "Tučepi beach with pine trees and Mount Biokovo in the background", "descriptionAdvanced": {"de": "Tučepi liegt im Herzen Dalmatiens und ist ein Paradebeispiel für den kroatischen Küstentourismus. Die Siedlung erstreckt sich entlang eines schmalen Küstenstreifens, der von den imposanten Kalksteinfelsen des Biokovo-Gebirges dominiert wird. Die Geschichte des Ortes reicht bis in die Antike zurück, wovon römische Funde im Gebiet Gradac zeugen, doch seine moderne Bedeutung erlangte Tučepi erst in der zweiten Hälfte des 20. Jahrhunderts. Der Ort ist stolz auf seinen vier Kilometer langen, flach abfallenden Kiesstrand, der als einer der schönsten und sichersten für Familien gilt. Entlang der Uferpromenade reihen sich Restaurants, Cafés und Hotels aneinander, die lokalen Fisch und erstklassige Weine anbieten. Neben dem Strandtourismus ist Tučepi ein hervorragender Ausgangspunkt für Wanderungen und Klettertouren im Naturpark Biokovo. Die Gastfreundschaft der Einheimischen und die perfekte Kombination aus Gebirgslandschaft und azurblauem Meer machen Tučepi zu einem zeitlosen Ziel für Erholungssuchende.", "hu": "Tučepi a Makarskai Riviéra déli részén fekszik, és a régió leghosszabb strandjával büszkélkedhet. A település története az ókorig nyúlik vissza, amit a környéken talált római kori leletek is bizonyítanak. A modern idegenforgalom az 1960-as években indult virágzásnak, ma pedig a családok egyik kedvenc célpontja. A parti sétány mentén számos étterem, bár és üzlet várja a látogatókat, miközben a háttérben a Biokovo monumentális sziklái magasodnak. Érdemes megtekinteni a Szent Antal-templomot és a helyi kikötőt, amely a vízi sportok kedvelőinek központja. A város kitűnő kiindulópont a Biokovo Natúrpark felfedezéséhez is. A kristálytiszta víz és a part menti fenyvesek hűvöse minden évben turisták ezreit vonzza a településre, amely megőrizte mediterrán báját a modern fejlesztések mellett is.", "ro": "Tučepi este situat în inima Dalmației și reprezintă un exemplu clasic de turism de coastă croat. Așezarea se întinde de-a lungul unei fâșii înguste de litoral, dominată de stâncile impunătoare de calcar ale muntelui Biokovo. Istoria localității datează din antichitate, fapt dovedit de vestigiile romane din zona Gradac, însă importanța sa modernă a crescut în a doua jumătate a secolului al XX-lea. Orașul se mândrește cu plaja sa de pietriș lungă de patru kilometri, considerată una dintre cele mai frumoase și sigure pentru familii datorită intrării line în apă. De-a lungul promenadei de pe malul mării se găsesc numeroase restaurante, cafenele și hoteluri care servesc preparate locale din pește și vinuri de calitate superioară. Pe lângă turismul de plajă, Tučepi este un punct de plecare excelent pentru drumeții și escaladă în Parcul Natural Biokovo. Ospitalitatea localnicilor și combinația perfectă dintre peisajul montan și marea azurie fac din Tučepi o destinație atemporală.", "en": "Tučepi is located in the heart of Dalmatia and is a prime example of Croatian coastal tourism. The settlement stretches along a narrow strip of coastline dominated by the imposing limestone cliffs of the Biokovo mountain range. The history of the town dates back to ancient times, as evidenced by Roman findings in the Gradac area, but its modern significance was established in the second half of the 20th century. The town is proud of its four-kilometer-long, gently sloping pebble beach, considered one of the most beautiful and safest for families. Along the seaside promenade, numerous restaurants, cafes, and hotels line up, offering local seafood and premium wines. In addition to beach tourism, Tučepi is an excellent starting point for hiking and climbing in the Biokovo Nature Park. The hospitality of the locals and the perfect combination of mountain scenery and the azure sea make Tučepi a timeless destination for those seeking relaxation."}, "factsAdvanced": {"de": ["Der Strand von Tučepi ist mit 4 km der längste der Riviera", "Die Kirche des Hl. Antonius wurde im Jahr 1901 erbaut", "Römische Grabsteine im Ortsteil Gradac belegen antike Besiedlung", "Das Kulturfestival Tučepske ljetne večeri zieht jährlich Tausende an", "Die Einwohnerzahl beträgt laut letzter Zählung genau 1763 Personen", "Das Gebiet ist Teil der Gespanschaft Split-Dalmatien (HR-17)"], "hu": ["A strand 4 km-es hosszával a leghosszabb az egész Riviérán", "A Páduai Szent Antal-templom 1901-ben épült fel", "Római sírkövek bizonyítják az ókori település létét Gradacnál", "A Tučepi Nyári Esték kulturális fesztivál nagy népszerűségnek örvend", "A lakosság pontosan 1763 fő a legutóbbi adatok alapján", "A település a Split-Dalmácia megyéhez (HR-17) tartozik"], "ro": ["Plaja din Tučepi are 4 km, fiind cea mai lungă de pe Rivieră", "Biserica Sfântul Anton de Padova a fost construită în 1901", "Pietre funerare romane din zona Gradac atestă locuirea antică", "Festivalul cultural Serile de Vară din Tučepi atrage mii de turiști", "Populația localității este de exact 1763 de locuitori conform recensământului", "Teritoriul face parte din județul Split-Dalmația (cod HR-17)"], "en": ["The beach is 4 km long, making it the longest on the Riviera", "The Church of St. Anthony of Padua was completed in 1901", "Roman tombstones in Gradac area prove ancient settlement", "The Tučepi Summer Evenings festival is a major cultural event", "The population is exactly 1763 people according to recent data", "The town is part of the Split-Dalmatia County (HR-17)"]}, "sights": {"de": [{"name": "Kirche des Hl. Georg", "text": "Ein romanisch-gotisches Bauwerk aus dem 14. Jahrhundert, das auf den Fundamenten einer frühchristlichen Basilika errichtet wurde.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/tucepi-kirche-des-hl-georg.webp", "coords": [17.05493, 43.341652]}, {"name": "Marina Tučepi", "text": "Der moderne Yachthafen bietet Schutz für hunderte Boote und ist das pulsierende Zentrum der touristischen Promenade.", "category": "port", "confidence": "high", "image": "/poi-images/sights/tucepi-marina-tu-epi.webp", "coords": [17.057712, 43.263565]}, {"name": "Gornji Tučepi", "text": "Das alte Dorf am Fuße des Biokovo bietet traditionelle Steinhäuser und einen Einblick in das historische Landleben.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/tucepi-gornji-tu-epi.webp", "coords": [17.055655, 43.269452]}, {"name": "Nugal", "text": "Der Strand Nugal ist ein versteckter Naturstrand zwischen Tučepi und Makarska, bekannt für seine hohen Klippen.", "category": "recreational", "coords": [17.033842, 43.279337]}, {"name": "Wibit Tučepi", "text": "Der Wibit Wasserpark in Tučepi bietet verschiedene aufblasbare Hindernisse und Attraktionen auf dem Wasser.", "category": "recreational", "coords": [17.049905, 43.271387]}, {"name": "Wibit", "text": "Wibit ist ein schwimmender Abenteuerpark vor der Küste von Tučepi.", "category": "recreational", "coords": [17.060173, 43.259448]}, {"name": "Biokovski botanički vrt", "text": "Der Botanische Garten Biokovo bei Tučepi beherbergt zahlreiche einheimische Pflanzenarten des Gebirges.", "category": "natural", "coords": [17.047601, 43.291108]}, {"name": "Pliševac", "text": "Der Strand Pliševac ist ein beliebter Kiesstrand im Norden von Tučepi.", "category": "recreational", "coords": [17.067274, 43.246152]}, {"name": "Jadran", "text": "Der Strand Jadran liegt unterhalb des markanten gleichnamigen Hotels in Tučepi.", "category": "recreational", "coords": [17.044018, 43.273214]}, {"name": "Dračevac Strand", "text": "Am südlichen Ende von Tučepi lockt der Strand Dračevac mit einer angenehm ruhigen Küstenatmosphäre. Zwischen Sonnenbaden und Spaziergängen am Wasser können Besucher wunderbar in der Adria schwimmen. Die Kulisse verbindet entspanntes Urlaubsflair mit dem typischen Charme der Region. Ideal für einen entspannten Tag, bevor die abendliche Brise aufzieht.", "category": "recreational", "coords": [17.06303, 43.253249]}, {"name": "Garma", "text": "Garma ist eine idyllische Bucht mit einem Naturstrand in der Nähe von Tučepi.", "category": "recreational", "coords": [17.063199, 43.248809]}, {"name": "Veliki kaštel", "text": "Eine befestigte Anlage aus auserwählten Steinen, die im 17. Jahrhundert im Dorf Kotišina erbaut wurde.", "category": "castle", "coords": [17.04605, 43.291347]}, {"name": "Ratac", "text": "Ein beliebter Kieselstrand an der Küste von Tučepi mit klarem Wasser.", "category": "recreational", "coords": [17.055819, 43.266543]}, {"name": "sv. Tomáš", "text": "Ein Aussichtspunkt bei der St.-Thomas-Kirche, der einen Panoramablick auf das Meer bietet.", "category": "natural", "coords": [17.07119, 43.269517]}, {"name": "Mlin za masline", "text": "Die Überreste einer alten Olivenmühle, die von der landwirtschaftlichen Tradition der Region zeugen.", "category": "historical", "coords": [17.070576, 43.263063]}, {"name": "Ravna vlaška", "text": "Eine beeindruckende Aussichtsplattform mit Glasboden im Naturpark Biokovo oberhalb von Tučepi.", "category": "natural", "coords": [17.084783, 43.285419]}, {"name": "Amazing view on Nugal Beach", "text": "Von diesem beeindruckenden Aussichtspunkt bei Tučepi aus öffnet sich das Panorama auf den versteckten Nugal-Strand und die weite Adria. Wer den Blick über das Meer schweifen lässt, kann die Schönheit der steilen Küstenlinie auf sich wirken lassen. Der Platz lädt zu kurzen Pausen während eines Küstenspaziergangs ein. Ein wunderschöner Ort, um besonders am Nachmittag Erinnerungsfotos zu machen.", "category": "natural", "coords": [17.03503, 43.278929]}, {"name": "Crkva sv. Martina", "text": "Eine historische Kirche oberhalb von Tučepi, die dem Heiligen Martin gewidmet ist.", "category": "religious", "coords": [17.038487, 43.29251]}, {"name": "sv. Andrije", "text": "Eine kleine, mittelalterliche Kirche des Heiligen Andreas im Bereich von Kotišina.", "category": "religious", "coords": [17.041885, 43.280594]}], "hu": [{"name": "Szent György-templom", "text": "14. századi román-gótikus épület, amely egy korábbi ókeresztény bazilika alapjaira épült a tengerpart közelében.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/tucepi-kirche-des-hl-georg.webp", "coords": [17.05493, 43.341652]}, {"name": "Tučepi kikötő", "text": "A modern jachtkikötő több száz hajónak ad helyet, és a turisztikai sétány lüktető központjaként funkcionál.", "category": "port", "confidence": "high", "image": "/poi-images/sights/tucepi-marina-tu-epi.webp", "coords": [17.057712, 43.263565]}, {"name": "Gornji Tučepi", "text": "A Biokovo lábánál fekvő régi falu hagyományos kőházaival a vidék történelmi arcát és nyugalmát őrzi.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/tucepi-gornji-tu-epi.webp", "coords": [17.055655, 43.269452]}, {"name": "Nugal", "text": "A Nugal strand egy rejtett természetes part Tučepi és Makarska között, amely magas szikláiról ismert.", "category": "recreational", "coords": [17.033842, 43.279337]}, {"name": "Wibit Tučepi", "text": "A tučepi Wibit vízipark különféle felfújható akadályokat és vízi attrakciókat kínál.", "category": "recreational", "coords": [17.049905, 43.271387]}, {"name": "Wibit", "text": "A Wibit egy úszó kalandpark Tučepi partjainál.", "category": "recreational", "coords": [17.060173, 43.259448]}, {"name": "Biokovski botanički vrt", "text": "A Tučepi melletti Biokovo Botanikus Kert a hegység számos őshonos növényfajának ad otthont.", "category": "natural", "coords": [17.047601, 43.291108]}, {"name": "Pliševac", "text": "A Pliševac strand egy népszerű kavicsos part Tučepi északi részén.", "category": "recreational", "coords": [17.067274, 43.246152]}, {"name": "Jadran", "text": "A Jadran strand a jellegzetes azonos nevű szálloda alatt található Tučepiben.", "category": "recreational", "coords": [17.044018, 43.273214]}, {"name": "Dračevac", "text": "Tučepi déli végén a Dračevac strand kellemesen nyugodt tengerparti légkörrel csábít. A napozás és a parti séták között a látogatók remekül úszhatnak egyet az Adriai-tengerben. A festői háttér a laza nyaralási hangulatot a régió jellegzetes bájával ötvözi. Ideális helyszín egy lazítós naphoz, mielőtt a kora esti szellő feltámad.", "category": "recreational", "coords": [17.06303, 43.253249]}, {"name": "Garma", "text": "Garma egy idilli öböl természetes stranddal Tučepi közelében.", "category": "recreational", "coords": [17.063199, 43.248809]}, {"name": "Veliki kaštel", "text": "A 17. században épült kőerődítmény Tučepi felett, Kotišina falu határában.", "category": "castle", "coords": [17.04605, 43.291347]}, {"name": "Ratac", "text": "Népszerű kavicsos tengerpart Tučepi partjainál, kristálytiszta vízzel.", "category": "recreational", "coords": [17.055819, 43.266543]}, {"name": "sv. Tomáš", "text": "Kilátóhely a Szent Tamás-templomnál, ahonnan panorámás kilátás nyílik a tengerre.", "category": "natural", "coords": [17.07119, 43.269517]}, {"name": "Mlin za masline", "text": "Egy régi olajmalom maradványai, amelyek a környék mezőgazdasági múltjáról tanúskodnak.", "category": "historical", "coords": [17.070576, 43.263063]}, {"name": "Ravna vlaška", "text": "Lenyűgöző, üvegpadlós kilátóterasz a Biokovo Natúrparkban, Tučepi felett.", "category": "natural", "coords": [17.084783, 43.285419]}, {"name": "Amazing view on Nugal Beach", "text": "Ebből a lenyűgöző kilátópontból Tučepi közelében csodás panoráma nyílik a rejtett Nugal strandra és a végtelen Adriára. Ahogy a tekintetünk a tengeren időzik, igazán befogadhatjuk a meredek partvonal szépségét. A helyszín nagyszerű lehetőséget kínál egy rövid pihenőre a parti séta során. Csodás fotótéma, amelyet különösen a délutáni fények tesznek varázslatossá.", "category": "natural", "coords": [17.03503, 43.278929]}, {"name": "Crkva sv. Martina", "text": "Történelmi templom Tučepi felett, amelyet Szent Márton tiszteletére szenteltek.", "category": "religious", "coords": [17.038487, 43.29251]}, {"name": "sv. Andrije", "text": "Kisméretű, középkori eredetű Szent András-templom Kotišina területén.", "category": "religious", "coords": [17.041885, 43.280594]}], "ro": [{"name": "Biserica Sfântul Gheorghe", "text": "O structură romano-gotică din secolul XIV, construită pe fundațiile unei bazilici paleocreștine timpurii.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/tucepi-kirche-des-hl-georg.webp", "coords": [17.05493, 43.341652]}, {"name": "Marina Tučepi", "text": "Portul modern pentru iahturi oferă adăpost pentru sute de bărci și este centrul vibrant al promenadei turistice.", "category": "port", "confidence": "high", "image": "/poi-images/sights/tucepi-marina-tu-epi.webp", "coords": [17.057712, 43.263565]}, {"name": "Gornji Tučepi", "text": "Vechiul sat de la poalele muntelui Biokovo păstrează case tradiționale din piatră și o atmosferă rurală autentică.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/tucepi-gornji-tu-epi.webp", "coords": [17.055655, 43.269452]}, {"name": "Nugal", "text": "Plaja Nugal este o plajă naturală ascunsă între Tučepi și Makarska, cunoscută pentru stâncile sale înalte.", "category": "recreational", "coords": [17.033842, 43.279337]}, {"name": "Wibit Tučepi", "text": "Parcul acvatic Wibit din Tučepi oferă diverse obstacole gonflabile și atracții pe apă.", "category": "recreational", "coords": [17.049905, 43.271387]}, {"name": "Wibit", "text": "Wibit este un parc de aventură plutitor situat pe coasta din Tučepi.", "category": "recreational", "coords": [17.060173, 43.259448]}, {"name": "Biokovski botanički vrt", "text": "Grădina Botanică Biokovo de lângă Tučepi găzduiește numeroase specii de plante native ale muntelui.", "category": "natural", "coords": [17.047601, 43.291108]}, {"name": "Pliševac", "text": "Plaja Pliševac este o plajă populară cu prundiş în nordul localității Tučepi.", "category": "recreational", "coords": [17.067274, 43.246152]}, {"name": "Jadran", "text": "Plaja Jadran se află sub hotelul emblematic cu același nume din Tučepi.", "category": "recreational", "coords": [17.044018, 43.273214]}, {"name": "Dračevac", "text": "La capătul sudic al localității Tučepi, plaja Dračevac te atrage cu o atmosferă de coastă plăcut de liniștită. Între băile de soare și plimbările pe mal, vizitatorii pot înota cu plăcere în Marea Adriatică. Cadrul combină atmosfera relaxată de vacanță cu farmecul tipic al regiunii. Este ideal pentru o zi tihnită, înainte ca briza de seară să-și facă simțită prezența.", "category": "recreational", "coords": [17.06303, 43.253249]}, {"name": "Garma", "text": "Garma este un golf idilic cu o plajă naturală situată lângă Tučepi.", "category": "recreational", "coords": [17.063199, 43.248809]}, {"name": "Veliki kaštel", "text": "O fortificație din piatră construită în secolul al XVII-lea în satul Kotišina, deasupra localității Tučepi.", "category": "castle", "coords": [17.04605, 43.291347]}, {"name": "Ratac", "text": "O plajă populară cu pietriș pe coasta localității Tučepi, cu apă foarte limpede.", "category": "recreational", "coords": [17.055819, 43.266543]}, {"name": "sv. Tomáš", "text": "Un punct de observație lângă biserica Sfântul Toma, oferind o vedere panoramică spre mare.", "category": "natural", "coords": [17.07119, 43.269517]}, {"name": "Mlin za masline", "text": "Resturile unei vechi mori de măsline, martore ale tradiției agricole din regiune.", "category": "historical", "coords": [17.070576, 43.263063]}, {"name": "Ravna vlaška", "text": "O platformă de belvedere impresionantă cu podea de sticlă în Parcul Natural Biokovo, deasupra localității Tučepi.", "category": "natural", "coords": [17.084783, 43.285419]}, {"name": "Amazing view on Nugal Beach", "text": "De la acest punct de belvedere impresionant de lângă Tučepi, se deschide o panoramă superbă asupra plajei ascunse Nugal și a mării Adriatice. Cei care privesc peste ape vor fi fermecați de frumusețea liniei de coastă abrupte. Locul te invită la scurte pauze în timpul unei plimbări de-a lungul coastei. Este un loc minunat pentru a face fotografii amintire, mai ales după-amiaza.", "category": "natural", "coords": [17.03503, 43.278929]}, {"name": "Crkva sv. Martina", "text": "O biserică istorică deasupra localității Tučepi, dedicată Sfântului Martin.", "category": "religious", "coords": [17.038487, 43.29251]}, {"name": "sv. Andrije", "text": "O mică biserică medievală dedicată Sfântului Andrei în zona Kotišina.", "category": "religious", "coords": [17.041885, 43.280594]}], "en": [{"name": "Church of St. George", "text": "A Romanesque-Gothic structure from the 14th century, built on the foundations of an early Christian basilica.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/tucepi-kirche-des-hl-georg.webp", "coords": [17.05493, 43.341652]}, {"name": "Tučepi Marina", "text": "The modern yacht harbor provides berths for hundreds of boats and serves as the vibrant hub of the tourist promenade.", "category": "port", "confidence": "high", "image": "/poi-images/sights/tucepi-marina-tu-epi.webp", "coords": [17.057712, 43.263565]}, {"name": "Gornji Tučepi", "text": "The old village at the foot of Mount Biokovo features traditional stone houses and offers a glimpse into rural history.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/tucepi-gornji-tu-epi.webp", "coords": [17.055655, 43.269452]}, {"name": "Nugal", "text": "Nugal Beach is a hidden natural beach between Tučepi and Makarska, known for its high cliffs.", "category": "recreational", "coords": [17.033842, 43.279337]}, {"name": "Wibit Tučepi", "text": "The Wibit water park in Tučepi offers various inflatable obstacles and attractions on the water.", "category": "recreational", "coords": [17.049905, 43.271387]}, {"name": "Wibit", "text": "Wibit is a floating adventure park located off the coast of Tučepi.", "category": "recreational", "coords": [17.060173, 43.259448]}, {"name": "Biokovo Botanical Garden", "text": "The Biokovo Botanical Garden near Tučepi is home to numerous native plant species of the mountain.", "category": "natural", "coords": [17.047601, 43.291108]}, {"name": "Pliševac", "text": "Pliševac beach is a popular pebble beach in the north of Tučepi.", "category": "recreational", "coords": [17.067274, 43.246152]}, {"name": "Jadran", "text": "Jadran beach is located below the iconic hotel of the same name in Tučepi.", "category": "recreational", "coords": [17.044018, 43.273214]}, {"name": "Dračevac beach", "text": "At the southern end of Tučepi, Dračevac Beach attracts visitors with its pleasantly quiet coastal atmosphere. Between sunbathing and walking along the water's edge, guests can enjoy a wonderful swim in the Adriatic. The setting combines a relaxed holiday vibe with the region's typical charm. It is an ideal spot for a leisurely day before the evening breeze sets in.", "category": "recreational", "coords": [17.06303, 43.253249]}, {"name": "Garma", "text": "Garma is an idyllic cove with a natural beach located near Tučepi.", "category": "recreational", "coords": [17.063199, 43.248809]}, {"name": "Veliki kaštel", "text": "A stone fortification built in the 17th century in the village of Kotišina, above Tučepi.", "category": "castle", "coords": [17.04605, 43.291347]}, {"name": "Ratac", "text": "A popular pebble beach on the coast of Tučepi with crystal clear water.", "category": "recreational", "coords": [17.055819, 43.266543]}, {"name": "sv. Tomáš", "text": "An observation point near the St. Thomas church, offering a panoramic view of the sea.", "category": "natural", "coords": [17.07119, 43.269517]}, {"name": "Mlin za masline", "text": "The remains of an old olive mill, witnessing the agricultural tradition of the region.", "category": "historical", "coords": [17.070576, 43.263063]}, {"name": "Skywalk", "text": "An impressive glass-floored observation deck in the Biokovo Nature Park above Tučepi.", "category": "natural", "coords": [17.084783, 43.285419]}, {"name": "Amazing view on Nugal Beach", "text": "From this striking viewpoint near Tučepi, a panorama opens up over the hidden Nugal Beach and the vast Adriatic Sea. Gazing out over the water, one can truly appreciate the beauty of the steep, dramatic coastline. The spot invites walkers to take short pauses during their coastal strolls. It is a wonderful location for taking memorable photos, especially in the afternoon light.", "category": "natural", "coords": [17.03503, 43.278929]}, {"name": "Crkva sv. Martina", "text": "A historic church above Tučepi, dedicated to Saint Martin.", "category": "religious", "coords": [17.038487, 43.29251]}, {"name": "sv. Andrije", "text": "A small medieval church of Saint Andrew in the Kotišina area.", "category": "religious", "coords": [17.041885, 43.280594]}], "hr": [{"name": "Nugal", "text": "Plaža Nugal je skrivena prirodna plaža između Tučepa i Makarske, poznata po visokim liticama.", "category": "recreational", "coords": [17.033842, 43.279337]}, {"name": "Wibit Tučepi", "text": "Vodeni park Wibit u Tučepima nudi razne prepreke na napuhavanje i atrakcije na vodi.", "category": "recreational", "coords": [17.049905, 43.271387]}, {"name": "Wibit", "text": "Wibit je plutajući zabavni park smješten uz obalu Tučepa.", "category": "recreational", "coords": [17.060173, 43.259448]}, {"name": "Biokovo Botanical Garden", "text": "Botanički vrt Biokovo u blizini Tučepa dom je brojnim autohtonim biljnim vrstama ove planine.", "category": "natural", "coords": [17.047601, 43.291108]}, {"name": "Pliševac", "text": "Plaža Pliševac je popularna šljunčana plaža na sjeveru Tučepa.", "category": "recreational", "coords": [17.067274, 43.246152]}, {"name": "Jadran", "text": "Plaža Jadran nalazi se ispod kultnog istoimenog hotela u Tučepima.", "category": "recreational", "coords": [17.044018, 43.273214]}, {"name": "Dračevac beach", "text": "Plaža Dračevac je mirna šljunčana plaža na južnom kraju mjesta Tučepi.", "category": "recreational", "coords": [17.06303, 43.253249]}, {"name": "Garma", "text": "Garma je idilična uvala s prirodnom plažom koja se nalazi u blizini Tučepa.", "category": "recreational", "coords": [17.063199, 43.248809]}, {"name": "Veliki kaštel", "text": "Kamena utvrda izgrađena u 17. stoljeću u selu Kotišina iznad Tučepi.", "category": "castle", "coords": [17.04605, 43.291347]}, {"name": "Ratac", "text": "Popularna šljunčana plaža na obali Tučepi s kristalno čistim morem.", "category": "recreational", "coords": [17.055819, 43.266543]}, {"name": "sv. Tomáš", "text": "Vidikovac kod crkve svetog Tome koji nudi panoramski pogled na more.", "category": "natural", "coords": [17.07119, 43.269517]}, {"name": "Mlin za masline", "text": "Ostaci starog mlina za masline koji svjedoče o poljoprivrednoj tradiciji kraja.", "category": "historical", "coords": [17.070576, 43.263063]}, {"name": "Skywalk", "text": "Impresivna nebeska šetnica sa staklenim podom u Parku prirode Biokovo iznad Tučepi.", "category": "natural", "coords": [17.084783, 43.285419]}, {"name": "Amazing view on Nugal Beach", "text": "Spektakularan vidikovac s pogledom na skrivenu plažu Nugal i Jadransko more.", "category": "natural", "coords": [17.03503, 43.278929]}, {"name": "Crkva sv. Martina", "text": "Povijesna crkva iznad Tučepi posvećena svetom Martinu.", "category": "religious", "coords": [17.038487, 43.29251]}, {"name": "sv. Andrije", "text": "Mala srednjovjekovna crkva svetog Andrije na području Kotišine.", "category": "religious", "coords": [17.041885, 43.280594]}]}},
+  {"id": "tucepi", "type": "city", "parent": "HR-17", "coords": [17.0561, 43.2728], "population": 1763, "tier": 3, "name": {"de": "Tučepi", "hu": "Tučepi", "ro": "Tučepi", "en": "Tučepi"}, "description": {"de": "Einer der beliebtesten Ferienorte an der Makarska Riviera, am Fuße des Biokovo-Gebirges. Bekannt für seinen über 4 Kilometer langen Kiesstrand und die schattigen Pinienwälder.", "hu": "A Makarskai Riviéra egyik legnépszerűbb üdülőhelye, amely a Biokovo-hegység lábánál fekszik. Híres a több mint 4 kilométer hosszú, aprókavicsos strandjáról és fenyveseiről.", "ro": "Una dintre cele mai populare stațiuni de pe Riviera Makarska, situată la poalele Muntelui Biokovo. Renumită pentru plaja sa cu pietriș de peste 4 kilometri și pădurile de pini.", "en": "One of the most popular resorts on the Makarska Riviera, nestled at the foot of Mount Biokovo. Famous for its 4-kilometer-long pebble beach and lush pine forests."}, "facts": {"de": ["Bevölkerung: 1763 Einwohner", "Längster Strand der Makarska Riviera", "Heiliger Antonius von Padua Schutzpatron", "Sommerkulturfestival im Juli und August", "Römische Spuren im Ortsteil Gradac", "Direkte Lage am Biokovo-Naturpark", "Moderne Marina für Segelyachten", "Über 3000 Sonnenstunden im Jahr"], "hu": ["Lakossága 1763 fő", "A Makarskai Riviéra leghosszabb strandja", "Páduai Szent Antal a védőszentje", "Kulturális nyári estek fesztiválja", "Római kori leletek a Gradac területén", "A Biokovo Natúrpark közvetlen közelsége", "Modern jachtkikötő a központban", "Évi több mint 3000 napsütéses óra"], "ro": ["Populație: 1763 de locuitori", "Cea mai lungă plajă de pe Riviera Makarska", "Sfântul Anton de Padova este patronul", "Festival de vară cu evenimente culturale", "Vestigii romane în zona Gradac", "Proximitate față de Parcul Natural Biokovo", "Port modern pentru iahturi", "Peste 3000 de ore de soare pe an"], "en": ["Population of 1763 inhabitants", "Longest beach on the Makarska Riviera", "St. Anthony of Padua is the patron saint", "Summer cultural evenings festival", "Roman era findings in Gradac area", "Proximity to Biokovo Nature Park", "Modern marina for sailing yachts", "Over 3000 hours of sunshine per year"]}, "image": "/poi-images/tucepi.webp", "imageHint": "Tučepi beach with pine trees and Mount Biokovo in the background", "descriptionAdvanced": {"de": "Tučepi liegt im Herzen Dalmatiens und ist ein Paradebeispiel für den kroatischen Küstentourismus. Die Siedlung erstreckt sich entlang eines schmalen Küstenstreifens, der von den imposanten Kalksteinfelsen des Biokovo-Gebirges dominiert wird. Die Geschichte des Ortes reicht bis in die Antike zurück, wovon römische Funde im Gebiet Gradac zeugen, doch seine moderne Bedeutung erlangte Tučepi erst in der zweiten Hälfte des 20. Jahrhunderts. Der Ort ist stolz auf seinen vier Kilometer langen, flach abfallenden Kiesstrand, der als einer der schönsten und sichersten für Familien gilt. Entlang der Uferpromenade reihen sich Restaurants, Cafés und Hotels aneinander, die lokalen Fisch und erstklassige Weine anbieten. Neben dem Strandtourismus ist Tučepi ein hervorragender Ausgangspunkt für Wanderungen und Klettertouren im Naturpark Biokovo. Die Gastfreundschaft der Einheimischen und die perfekte Kombination aus Gebirgslandschaft und azurblauem Meer machen Tučepi zu einem zeitlosen Ziel für Erholungssuchende.", "hu": "Tučepi a Makarskai Riviéra déli részén fekszik, és a régió leghosszabb strandjával büszkélkedhet. A település története az ókorig nyúlik vissza, amit a környéken talált római kori leletek is bizonyítanak. A modern idegenforgalom az 1960-as években indult virágzásnak, ma pedig a családok egyik kedvenc célpontja. A parti sétány mentén számos étterem, bár és üzlet várja a látogatókat, miközben a háttérben a Biokovo monumentális sziklái magasodnak. Érdemes megtekinteni a Szent Antal-templomot és a helyi kikötőt, amely a vízi sportok kedvelőinek központja. A város kitűnő kiindulópont a Biokovo Natúrpark felfedezéséhez is. A kristálytiszta víz és a part menti fenyvesek hűvöse minden évben turisták ezreit vonzza a településre, amely megőrizte mediterrán báját a modern fejlesztések mellett is.", "ro": "Tučepi este situat în inima Dalmației și reprezintă un exemplu clasic de turism de coastă croat. Așezarea se întinde de-a lungul unei fâșii înguste de litoral, dominată de stâncile impunătoare de calcar ale muntelui Biokovo. Istoria localității datează din antichitate, fapt dovedit de vestigiile romane din zona Gradac, însă importanța sa modernă a crescut în a doua jumătate a secolului al XX-lea. Orașul se mândrește cu plaja sa de pietriș lungă de patru kilometri, considerată una dintre cele mai frumoase și sigure pentru familii datorită intrării line în apă. De-a lungul promenadei de pe malul mării se găsesc numeroase restaurante, cafenele și hoteluri care servesc preparate locale din pește și vinuri de calitate superioară. Pe lângă turismul de plajă, Tučepi este un punct de plecare excelent pentru drumeții și escaladă în Parcul Natural Biokovo. Ospitalitatea localnicilor și combinația perfectă dintre peisajul montan și marea azurie fac din Tučepi o destinație atemporală.", "en": "Tučepi is located in the heart of Dalmatia and is a prime example of Croatian coastal tourism. The settlement stretches along a narrow strip of coastline dominated by the imposing limestone cliffs of the Biokovo mountain range. The history of the town dates back to ancient times, as evidenced by Roman findings in the Gradac area, but its modern significance was established in the second half of the 20th century. The town is proud of its four-kilometer-long, gently sloping pebble beach, considered one of the most beautiful and safest for families. Along the seaside promenade, numerous restaurants, cafes, and hotels line up, offering local seafood and premium wines. In addition to beach tourism, Tučepi is an excellent starting point for hiking and climbing in the Biokovo Nature Park. The hospitality of the locals and the perfect combination of mountain scenery and the azure sea make Tučepi a timeless destination for those seeking relaxation."}, "factsAdvanced": {"de": ["Der Strand von Tučepi ist mit 4 km der längste der Riviera", "Die Kirche des Hl. Antonius wurde im Jahr 1901 erbaut", "Römische Grabsteine im Ortsteil Gradac belegen antike Besiedlung", "Das Kulturfestival Tučepske ljetne večeri zieht jährlich Tausende an", "Die Einwohnerzahl beträgt laut letzter Zählung genau 1763 Personen", "Das Gebiet ist Teil der Gespanschaft Split-Dalmatien (HR-17)"], "hu": ["A strand 4 km-es hosszával a leghosszabb az egész Riviérán", "A Páduai Szent Antal-templom 1901-ben épült fel", "Római sírkövek bizonyítják az ókori település létét Gradacnál", "A Tučepi Nyári Esték kulturális fesztivál nagy népszerűségnek örvend", "A lakosság pontosan 1763 fő a legutóbbi adatok alapján", "A település a Split-Dalmácia megyéhez (HR-17) tartozik"], "ro": ["Plaja din Tučepi are 4 km, fiind cea mai lungă de pe Rivieră", "Biserica Sfântul Anton de Padova a fost construită în 1901", "Pietre funerare romane din zona Gradac atestă locuirea antică", "Festivalul cultural Serile de Vară din Tučepi atrage mii de turiști", "Populația localității este de exact 1763 de locuitori conform recensământului", "Teritoriul face parte din județul Split-Dalmația (cod HR-17)"], "en": ["The beach is 4 km long, making it the longest on the Riviera", "The Church of St. Anthony of Padua was completed in 1901", "Roman tombstones in Gradac area prove ancient settlement", "The Tučepi Summer Evenings festival is a major cultural event", "The population is exactly 1763 people according to recent data", "The town is part of the Split-Dalmatia County (HR-17)"]}, "sights": {
+      "de": [
+            {
+                  "name": "Kirche des Hl. Georg",
+                  "text": "Ein romanisch-gotisches Bauwerk aus dem 14. Jahrhundert, das auf den Fundamenten einer frühchristlichen Basilika errichtet wurde.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tucepi-kirche-des-hl-georg.webp",
+                  "coords": [
+                        17.05493,
+                        43.341652
+                  ]
+            },
+            {
+                  "name": "Marina Tučepi",
+                  "text": "Der moderne Yachthafen bietet Schutz für hunderte Boote und ist das pulsierende Zentrum der touristischen Promenade.",
+                  "category": "port",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tucepi-marina-tu-epi.webp",
+                  "coords": [
+                        17.057712,
+                        43.263565
+                  ]
+            },
+            {
+                  "name": "Gornji Tučepi",
+                  "text": "Das alte Dorf am Fuße des Biokovo bietet traditionelle Steinhäuser und einen Einblick in das historische Landleben.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tucepi-gornji-tu-epi.webp",
+                  "coords": [
+                        17.055655,
+                        43.269452
+                  ]
+            },
+            {
+                  "name": "Nugal",
+                  "text": "Der Strand Nugal ist ein versteckter Naturstrand zwischen Tučepi und Makarska, bekannt für seine hohen Klippen.",
+                  "category": "recreational",
+                  "coords": [
+                        17.033842,
+                        43.279337
+                  ]
+            },
+            {
+                  "name": "Wibit Tučepi",
+                  "text": "Der Wibit Wasserpark in Tučepi bietet verschiedene aufblasbare Hindernisse und Attraktionen auf dem Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        17.049905,
+                        43.271387
+                  ]
+            },
+            {
+                  "name": "Wibit",
+                  "text": "Wibit ist ein schwimmender Abenteuerpark vor der Küste von Tučepi.",
+                  "category": "recreational",
+                  "coords": [
+                        17.060173,
+                        43.259448
+                  ]
+            },
+            {
+                  "name": "Biokovski botanički vrt",
+                  "text": "Der Botanische Garten Biokovo bei Tučepi beherbergt zahlreiche einheimische Pflanzenarten des Gebirges.",
+                  "category": "natural",
+                  "coords": [
+                        17.047601,
+                        43.291108
+                  ]
+            },
+            {
+                  "name": "Pliševac",
+                  "text": "Pliševac – ein Kieselstrand im Ortsteil Tučepi an der Makarska Riviera.",
+                  "category": "recreational",
+                  "coords": [
+                        17.067274,
+                        43.246152
+                  ]
+            },
+            {
+                  "name": "Jadran",
+                  "text": "Der Strand Jadran liegt unterhalb des markanten gleichnamigen Hotels in Tučepi.",
+                  "category": "recreational",
+                  "coords": [
+                        17.044018,
+                        43.273214
+                  ]
+            },
+            {
+                  "name": "Dračevac Strand",
+                  "text": "Am südlichen Ende von Tučepi lockt der Strand Dračevac mit einer angenehm ruhigen Küstenatmosphäre. Zwischen Sonnenbaden und Spaziergängen am Wasser können Besucher wunderbar in der Adria schwimmen. Die Kulisse verbindet entspanntes Urlaubsflair mit dem typischen Charme der Region. Ideal für einen entspannten Tag, bevor die abendliche Brise aufzieht.",
+                  "category": "recreational",
+                  "coords": [
+                        17.06303,
+                        43.253249
+                  ]
+            },
+            {
+                  "name": "Garma",
+                  "text": "Garma – ein abgelegener Kiesstrand nahe Tučepi an der Adria.",
+                  "category": "recreational",
+                  "coords": [
+                        17.063199,
+                        43.248809
+                  ]
+            },
+            {
+                  "name": "Veliki kaštel",
+                  "text": "Eine befestigte Anlage aus auserwählten Steinen, die im 17. Jahrhundert im Dorf Kotišina erbaut wurde.",
+                  "category": "castle",
+                  "coords": [
+                        17.04605,
+                        43.291347
+                  ]
+            },
+            {
+                  "name": "Ratac",
+                  "text": "Ein beliebter Kieselstrand an der Küste von Tučepi mit klarem Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        17.055819,
+                        43.266543
+                  ]
+            },
+            {
+                  "name": "sv. Tomáš",
+                  "text": "Ein Aussichtspunkt bei der St.-Thomas-Kirche, der einen Panoramablick auf das Meer bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.07119,
+                        43.269517
+                  ]
+            },
+            {
+                  "name": "Mlin za masline",
+                  "text": "Die Überreste einer alten Olivenmühle, die von der landwirtschaftlichen Tradition der Region zeugen.",
+                  "category": "historical",
+                  "coords": [
+                        17.070576,
+                        43.263063
+                  ]
+            },
+            {
+                  "name": "Ravna vlaška",
+                  "text": "Eine beeindruckende Aussichtsplattform mit Glasboden im Naturpark Biokovo oberhalb von Tučepi.",
+                  "category": "natural",
+                  "coords": [
+                        17.084783,
+                        43.285419
+                  ]
+            },
+            {
+                  "name": "Amazing view on Nugal Beach",
+                  "text": "Von diesem beeindruckenden Aussichtspunkt bei Tučepi aus öffnet sich das Panorama auf den versteckten Nugal-Strand und die weite Adria. Wer den Blick über das Meer schweifen lässt, kann die Schönheit der steilen Küstenlinie auf sich wirken lassen. Der Platz lädt zu kurzen Pausen während eines Küstenspaziergangs ein. Ein wunderschöner Ort, um besonders am Nachmittag Erinnerungsfotos zu machen.",
+                  "category": "natural",
+                  "coords": [
+                        17.03503,
+                        43.278929
+                  ]
+            },
+            {
+                  "name": "Crkva sv. Martina",
+                  "text": "Eine historische Kirche oberhalb von Tučepi, die dem Heiligen Martin gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        17.038487,
+                        43.29251
+                  ]
+            },
+            {
+                  "name": "sv. Andrije",
+                  "text": "Eine kleine, mittelalterliche Kirche des Heiligen Andreas im Bereich von Kotišina.",
+                  "category": "religious",
+                  "coords": [
+                        17.041885,
+                        43.280594
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szent György-templom",
+                  "text": "14. századi román-gótikus épület, amely egy korábbi ókeresztény bazilika alapjaira épült a tengerpart közelében.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tucepi-kirche-des-hl-georg.webp",
+                  "coords": [
+                        17.05493,
+                        43.341652
+                  ]
+            },
+            {
+                  "name": "Tučepi kikötő",
+                  "text": "A modern jachtkikötő több száz hajónak ad helyet, és a turisztikai sétány lüktető központjaként funkcionál.",
+                  "category": "port",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tucepi-marina-tu-epi.webp",
+                  "coords": [
+                        17.057712,
+                        43.263565
+                  ]
+            },
+            {
+                  "name": "Gornji Tučepi",
+                  "text": "A Biokovo lábánál fekvő régi falu hagyományos kőházaival a vidék történelmi arcát és nyugalmát őrzi.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tucepi-gornji-tu-epi.webp",
+                  "coords": [
+                        17.055655,
+                        43.269452
+                  ]
+            },
+            {
+                  "name": "Nugal",
+                  "text": "A Nugal strand egy rejtett természetes part Tučepi és Makarska között, amely magas szikláiról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        17.033842,
+                        43.279337
+                  ]
+            },
+            {
+                  "name": "Wibit Tučepi",
+                  "text": "A tučepi Wibit vízipark különféle felfújható akadályokat és vízi attrakciókat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        17.049905,
+                        43.271387
+                  ]
+            },
+            {
+                  "name": "Wibit",
+                  "text": "A Wibit egy úszó kalandpark Tučepi partjainál.",
+                  "category": "recreational",
+                  "coords": [
+                        17.060173,
+                        43.259448
+                  ]
+            },
+            {
+                  "name": "Biokovski botanički vrt",
+                  "text": "A Tučepi melletti Biokovo Botanikus Kert a hegység számos őshonos növényfajának ad otthont.",
+                  "category": "natural",
+                  "coords": [
+                        17.047601,
+                        43.291108
+                  ]
+            },
+            {
+                  "name": "Pliševac",
+                  "text": "Pliševac – kavicsos strand Tučepi városrészében a Makarskai riviérán.",
+                  "category": "recreational",
+                  "coords": [
+                        17.067274,
+                        43.246152
+                  ]
+            },
+            {
+                  "name": "Jadran",
+                  "text": "A Jadran strand a jellegzetes azonos nevű szálloda alatt található Tučepiben.",
+                  "category": "recreational",
+                  "coords": [
+                        17.044018,
+                        43.273214
+                  ]
+            },
+            {
+                  "name": "Dračevac",
+                  "text": "Tučepi déli végén a Dračevac strand kellemesen nyugodt tengerparti légkörrel csábít. A napozás és a parti séták között a látogatók remekül úszhatnak egyet az Adriai-tengerben. A festői háttér a laza nyaralási hangulatot a régió jellegzetes bájával ötvözi. Ideális helyszín egy lazítós naphoz, mielőtt a kora esti szellő feltámad.",
+                  "category": "recreational",
+                  "coords": [
+                        17.06303,
+                        43.253249
+                  ]
+            },
+            {
+                  "name": "Garma",
+                  "text": "Garma – eldugott kavicsos strand Tučepi közelében az Adriai-tenger partján.",
+                  "category": "recreational",
+                  "coords": [
+                        17.063199,
+                        43.248809
+                  ]
+            },
+            {
+                  "name": "Veliki kaštel",
+                  "text": "A 17. században épült kőerődítmény Tučepi felett, Kotišina falu határában.",
+                  "category": "castle",
+                  "coords": [
+                        17.04605,
+                        43.291347
+                  ]
+            },
+            {
+                  "name": "Ratac",
+                  "text": "Népszerű kavicsos tengerpart Tučepi partjainál, kristálytiszta vízzel.",
+                  "category": "recreational",
+                  "coords": [
+                        17.055819,
+                        43.266543
+                  ]
+            },
+            {
+                  "name": "sv. Tomáš",
+                  "text": "Kilátóhely a Szent Tamás-templomnál, ahonnan panorámás kilátás nyílik a tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        17.07119,
+                        43.269517
+                  ]
+            },
+            {
+                  "name": "Mlin za masline",
+                  "text": "Egy régi olajmalom maradványai, amelyek a környék mezőgazdasági múltjáról tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        17.070576,
+                        43.263063
+                  ]
+            },
+            {
+                  "name": "Ravna vlaška",
+                  "text": "Lenyűgöző, üvegpadlós kilátóterasz a Biokovo Natúrparkban, Tučepi felett.",
+                  "category": "natural",
+                  "coords": [
+                        17.084783,
+                        43.285419
+                  ]
+            },
+            {
+                  "name": "Amazing view on Nugal Beach",
+                  "text": "Ebből a lenyűgöző kilátópontból Tučepi közelében csodás panoráma nyílik a rejtett Nugal strandra és a végtelen Adriára. Ahogy a tekintetünk a tengeren időzik, igazán befogadhatjuk a meredek partvonal szépségét. A helyszín nagyszerű lehetőséget kínál egy rövid pihenőre a parti séta során. Csodás fotótéma, amelyet különösen a délutáni fények tesznek varázslatossá.",
+                  "category": "natural",
+                  "coords": [
+                        17.03503,
+                        43.278929
+                  ]
+            },
+            {
+                  "name": "Crkva sv. Martina",
+                  "text": "Történelmi templom Tučepi felett, amelyet Szent Márton tiszteletére szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        17.038487,
+                        43.29251
+                  ]
+            },
+            {
+                  "name": "sv. Andrije",
+                  "text": "Kisméretű, középkori eredetű Szent András-templom Kotišina területén.",
+                  "category": "religious",
+                  "coords": [
+                        17.041885,
+                        43.280594
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica Sfântul Gheorghe",
+                  "text": "O structură romano-gotică din secolul XIV, construită pe fundațiile unei bazilici paleocreștine timpurii.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tucepi-kirche-des-hl-georg.webp",
+                  "coords": [
+                        17.05493,
+                        43.341652
+                  ]
+            },
+            {
+                  "name": "Marina Tučepi",
+                  "text": "Portul modern pentru iahturi oferă adăpost pentru sute de bărci și este centrul vibrant al promenadei turistice.",
+                  "category": "port",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tucepi-marina-tu-epi.webp",
+                  "coords": [
+                        17.057712,
+                        43.263565
+                  ]
+            },
+            {
+                  "name": "Gornji Tučepi",
+                  "text": "Vechiul sat de la poalele muntelui Biokovo păstrează case tradiționale din piatră și o atmosferă rurală autentică.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tucepi-gornji-tu-epi.webp",
+                  "coords": [
+                        17.055655,
+                        43.269452
+                  ]
+            },
+            {
+                  "name": "Nugal",
+                  "text": "Plaja Nugal este o plajă naturală ascunsă între Tučepi și Makarska, cunoscută pentru stâncile sale înalte.",
+                  "category": "recreational",
+                  "coords": [
+                        17.033842,
+                        43.279337
+                  ]
+            },
+            {
+                  "name": "Wibit Tučepi",
+                  "text": "Parcul acvatic Wibit din Tučepi oferă diverse obstacole gonflabile și atracții pe apă.",
+                  "category": "recreational",
+                  "coords": [
+                        17.049905,
+                        43.271387
+                  ]
+            },
+            {
+                  "name": "Wibit",
+                  "text": "Wibit este un parc de aventură plutitor situat pe coasta din Tučepi.",
+                  "category": "recreational",
+                  "coords": [
+                        17.060173,
+                        43.259448
+                  ]
+            },
+            {
+                  "name": "Biokovski botanički vrt",
+                  "text": "Grădina Botanică Biokovo de lângă Tučepi găzduiește numeroase specii de plante native ale muntelui.",
+                  "category": "natural",
+                  "coords": [
+                        17.047601,
+                        43.291108
+                  ]
+            },
+            {
+                  "name": "Pliševac",
+                  "text": "Pliševac – o plajă cu pietriș în cartierul Tučepi de pe Riviera Makarska.",
+                  "category": "recreational",
+                  "coords": [
+                        17.067274,
+                        43.246152
+                  ]
+            },
+            {
+                  "name": "Jadran",
+                  "text": "Plaja Jadran se află sub hotelul emblematic cu același nume din Tučepi.",
+                  "category": "recreational",
+                  "coords": [
+                        17.044018,
+                        43.273214
+                  ]
+            },
+            {
+                  "name": "Dračevac",
+                  "text": "La capătul sudic al localității Tučepi, plaja Dračevac te atrage cu o atmosferă de coastă plăcut de liniștită. Între băile de soare și plimbările pe mal, vizitatorii pot înota cu plăcere în Marea Adriatică. Cadrul combină atmosfera relaxată de vacanță cu farmecul tipic al regiunii. Este ideal pentru o zi tihnită, înainte ca briza de seară să-și facă simțită prezența.",
+                  "category": "recreational",
+                  "coords": [
+                        17.06303,
+                        43.253249
+                  ]
+            },
+            {
+                  "name": "Garma",
+                  "text": "Garma – o plajă izolată de pietriș lângă Tučepi pe coasta Adriaticii.",
+                  "category": "recreational",
+                  "coords": [
+                        17.063199,
+                        43.248809
+                  ]
+            },
+            {
+                  "name": "Veliki kaštel",
+                  "text": "O fortificație din piatră construită în secolul al XVII-lea în satul Kotišina, deasupra localității Tučepi.",
+                  "category": "castle",
+                  "coords": [
+                        17.04605,
+                        43.291347
+                  ]
+            },
+            {
+                  "name": "Ratac",
+                  "text": "O plajă populară cu pietriș pe coasta localității Tučepi, cu apă foarte limpede.",
+                  "category": "recreational",
+                  "coords": [
+                        17.055819,
+                        43.266543
+                  ]
+            },
+            {
+                  "name": "sv. Tomáš",
+                  "text": "Un punct de observație lângă biserica Sfântul Toma, oferind o vedere panoramică spre mare.",
+                  "category": "natural",
+                  "coords": [
+                        17.07119,
+                        43.269517
+                  ]
+            },
+            {
+                  "name": "Mlin za masline",
+                  "text": "Resturile unei vechi mori de măsline, martore ale tradiției agricole din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        17.070576,
+                        43.263063
+                  ]
+            },
+            {
+                  "name": "Ravna vlaška",
+                  "text": "O platformă de belvedere impresionantă cu podea de sticlă în Parcul Natural Biokovo, deasupra localității Tučepi.",
+                  "category": "natural",
+                  "coords": [
+                        17.084783,
+                        43.285419
+                  ]
+            },
+            {
+                  "name": "Amazing view on Nugal Beach",
+                  "text": "De la acest punct de belvedere impresionant de lângă Tučepi, se deschide o panoramă superbă asupra plajei ascunse Nugal și a mării Adriatice. Cei care privesc peste ape vor fi fermecați de frumusețea liniei de coastă abrupte. Locul te invită la scurte pauze în timpul unei plimbări de-a lungul coastei. Este un loc minunat pentru a face fotografii amintire, mai ales după-amiaza.",
+                  "category": "natural",
+                  "coords": [
+                        17.03503,
+                        43.278929
+                  ]
+            },
+            {
+                  "name": "Crkva sv. Martina",
+                  "text": "O biserică istorică deasupra localității Tučepi, dedicată Sfântului Martin.",
+                  "category": "religious",
+                  "coords": [
+                        17.038487,
+                        43.29251
+                  ]
+            },
+            {
+                  "name": "sv. Andrije",
+                  "text": "O mică biserică medievală dedicată Sfântului Andrei în zona Kotišina.",
+                  "category": "religious",
+                  "coords": [
+                        17.041885,
+                        43.280594
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Church of St. George",
+                  "text": "A Romanesque-Gothic structure from the 14th century, built on the foundations of an early Christian basilica.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tucepi-kirche-des-hl-georg.webp",
+                  "coords": [
+                        17.05493,
+                        43.341652
+                  ]
+            },
+            {
+                  "name": "Tučepi Marina",
+                  "text": "The modern yacht harbor provides berths for hundreds of boats and serves as the vibrant hub of the tourist promenade.",
+                  "category": "port",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tucepi-marina-tu-epi.webp",
+                  "coords": [
+                        17.057712,
+                        43.263565
+                  ]
+            },
+            {
+                  "name": "Gornji Tučepi",
+                  "text": "The old village at the foot of Mount Biokovo features traditional stone houses and offers a glimpse into rural history.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tucepi-gornji-tu-epi.webp",
+                  "coords": [
+                        17.055655,
+                        43.269452
+                  ]
+            },
+            {
+                  "name": "Nugal",
+                  "text": "Nugal Beach is a hidden natural beach between Tučepi and Makarska, known for its high cliffs.",
+                  "category": "recreational",
+                  "coords": [
+                        17.033842,
+                        43.279337
+                  ]
+            },
+            {
+                  "name": "Wibit Tučepi",
+                  "text": "The Wibit water park in Tučepi offers various inflatable obstacles and attractions on the water.",
+                  "category": "recreational",
+                  "coords": [
+                        17.049905,
+                        43.271387
+                  ]
+            },
+            {
+                  "name": "Wibit",
+                  "text": "Wibit is a floating adventure park located off the coast of Tučepi.",
+                  "category": "recreational",
+                  "coords": [
+                        17.060173,
+                        43.259448
+                  ]
+            },
+            {
+                  "name": "Biokovo Botanical Garden",
+                  "text": "The Biokovo Botanical Garden near Tučepi is home to numerous native plant species of the mountain.",
+                  "category": "natural",
+                  "coords": [
+                        17.047601,
+                        43.291108
+                  ]
+            },
+            {
+                  "name": "Pliševac",
+                  "text": "Pliševac – a pebble beach in the Tučepi area on the Makarska Riviera.",
+                  "category": "recreational",
+                  "coords": [
+                        17.067274,
+                        43.246152
+                  ]
+            },
+            {
+                  "name": "Jadran",
+                  "text": "Jadran beach is located below the iconic hotel of the same name in Tučepi.",
+                  "category": "recreational",
+                  "coords": [
+                        17.044018,
+                        43.273214
+                  ]
+            },
+            {
+                  "name": "Dračevac beach",
+                  "text": "At the southern end of Tučepi, Dračevac Beach attracts visitors with its pleasantly quiet coastal atmosphere. Between sunbathing and walking along the water's edge, guests can enjoy a wonderful swim in the Adriatic. The setting combines a relaxed holiday vibe with the region's typical charm. It is an ideal spot for a leisurely day before the evening breeze sets in.",
+                  "category": "recreational",
+                  "coords": [
+                        17.06303,
+                        43.253249
+                  ]
+            },
+            {
+                  "name": "Garma",
+                  "text": "Garma – a secluded shingle beach near Tučepi on the Adriatic coast.",
+                  "category": "recreational",
+                  "coords": [
+                        17.063199,
+                        43.248809
+                  ]
+            },
+            {
+                  "name": "Veliki kaštel",
+                  "text": "A stone fortification built in the 17th century in the village of Kotišina, above Tučepi.",
+                  "category": "castle",
+                  "coords": [
+                        17.04605,
+                        43.291347
+                  ]
+            },
+            {
+                  "name": "Ratac",
+                  "text": "A popular pebble beach on the coast of Tučepi with crystal clear water.",
+                  "category": "recreational",
+                  "coords": [
+                        17.055819,
+                        43.266543
+                  ]
+            },
+            {
+                  "name": "sv. Tomáš",
+                  "text": "An observation point near the St. Thomas church, offering a panoramic view of the sea.",
+                  "category": "natural",
+                  "coords": [
+                        17.07119,
+                        43.269517
+                  ]
+            },
+            {
+                  "name": "Mlin za masline",
+                  "text": "The remains of an old olive mill, witnessing the agricultural tradition of the region.",
+                  "category": "historical",
+                  "coords": [
+                        17.070576,
+                        43.263063
+                  ]
+            },
+            {
+                  "name": "Skywalk",
+                  "text": "An impressive glass-floored observation deck in the Biokovo Nature Park above Tučepi.",
+                  "category": "natural",
+                  "coords": [
+                        17.084783,
+                        43.285419
+                  ]
+            },
+            {
+                  "name": "Amazing view on Nugal Beach",
+                  "text": "From this striking viewpoint near Tučepi, a panorama opens up over the hidden Nugal Beach and the vast Adriatic Sea. Gazing out over the water, one can truly appreciate the beauty of the steep, dramatic coastline. The spot invites walkers to take short pauses during their coastal strolls. It is a wonderful location for taking memorable photos, especially in the afternoon light.",
+                  "category": "natural",
+                  "coords": [
+                        17.03503,
+                        43.278929
+                  ]
+            },
+            {
+                  "name": "Crkva sv. Martina",
+                  "text": "A historic church above Tučepi, dedicated to Saint Martin.",
+                  "category": "religious",
+                  "coords": [
+                        17.038487,
+                        43.29251
+                  ]
+            },
+            {
+                  "name": "sv. Andrije",
+                  "text": "A small medieval church of Saint Andrew in the Kotišina area.",
+                  "category": "religious",
+                  "coords": [
+                        17.041885,
+                        43.280594
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Nugal",
+                  "text": "Plaža Nugal je skrivena prirodna plaža između Tučepa i Makarske, poznata po visokim liticama.",
+                  "category": "recreational",
+                  "coords": [
+                        17.033842,
+                        43.279337
+                  ]
+            },
+            {
+                  "name": "Wibit Tučepi",
+                  "text": "Vodeni park Wibit u Tučepima nudi razne prepreke na napuhavanje i atrakcije na vodi.",
+                  "category": "recreational",
+                  "coords": [
+                        17.049905,
+                        43.271387
+                  ]
+            },
+            {
+                  "name": "Wibit",
+                  "text": "Wibit je plutajući zabavni park smješten uz obalu Tučepa.",
+                  "category": "recreational",
+                  "coords": [
+                        17.060173,
+                        43.259448
+                  ]
+            },
+            {
+                  "name": "Biokovo Botanical Garden",
+                  "text": "Botanički vrt Biokovo u blizini Tučepa dom je brojnim autohtonim biljnim vrstama ove planine.",
+                  "category": "natural",
+                  "coords": [
+                        17.047601,
+                        43.291108
+                  ]
+            },
+            {
+                  "name": "Pliševac",
+                  "text": "Plaža Pliševac je popularna šljunčana plaža na sjeveru Tučepa.",
+                  "category": "recreational",
+                  "coords": [
+                        17.067274,
+                        43.246152
+                  ]
+            },
+            {
+                  "name": "Jadran",
+                  "text": "Plaža Jadran nalazi se ispod kultnog istoimenog hotela u Tučepima.",
+                  "category": "recreational",
+                  "coords": [
+                        17.044018,
+                        43.273214
+                  ]
+            },
+            {
+                  "name": "Dračevac beach",
+                  "text": "Plaža Dračevac je mirna šljunčana plaža na južnom kraju mjesta Tučepi.",
+                  "category": "recreational",
+                  "coords": [
+                        17.06303,
+                        43.253249
+                  ]
+            },
+            {
+                  "name": "Garma",
+                  "text": "Garma je idilična uvala s prirodnom plažom koja se nalazi u blizini Tučepa.",
+                  "category": "recreational",
+                  "coords": [
+                        17.063199,
+                        43.248809
+                  ]
+            },
+            {
+                  "name": "Veliki kaštel",
+                  "text": "Kamena utvrda izgrađena u 17. stoljeću u selu Kotišina iznad Tučepi.",
+                  "category": "castle",
+                  "coords": [
+                        17.04605,
+                        43.291347
+                  ]
+            },
+            {
+                  "name": "Ratac",
+                  "text": "Popularna šljunčana plaža na obali Tučepi s kristalno čistim morem.",
+                  "category": "recreational",
+                  "coords": [
+                        17.055819,
+                        43.266543
+                  ]
+            },
+            {
+                  "name": "sv. Tomáš",
+                  "text": "Vidikovac kod crkve svetog Tome koji nudi panoramski pogled na more.",
+                  "category": "natural",
+                  "coords": [
+                        17.07119,
+                        43.269517
+                  ]
+            },
+            {
+                  "name": "Mlin za masline",
+                  "text": "Ostaci starog mlina za masline koji svjedoče o poljoprivrednoj tradiciji kraja.",
+                  "category": "historical",
+                  "coords": [
+                        17.070576,
+                        43.263063
+                  ]
+            },
+            {
+                  "name": "Skywalk",
+                  "text": "Impresivna nebeska šetnica sa staklenim podom u Parku prirode Biokovo iznad Tučepi.",
+                  "category": "natural",
+                  "coords": [
+                        17.084783,
+                        43.285419
+                  ]
+            },
+            {
+                  "name": "Amazing view on Nugal Beach",
+                  "text": "Spektakularan vidikovac s pogledom na skrivenu plažu Nugal i Jadransko more.",
+                  "category": "natural",
+                  "coords": [
+                        17.03503,
+                        43.278929
+                  ]
+            },
+            {
+                  "name": "Crkva sv. Martina",
+                  "text": "Povijesna crkva iznad Tučepi posvećena svetom Martinu.",
+                  "category": "religious",
+                  "coords": [
+                        17.038487,
+                        43.29251
+                  ]
+            },
+            {
+                  "name": "sv. Andrije",
+                  "text": "Mala srednjovjekovna crkva svetog Andrije na području Kotišine.",
+                  "category": "religious",
+                  "coords": [
+                        17.041885,
+                        43.280594
+                  ]
+            }
+      ]
+}},
 ];

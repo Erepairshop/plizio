@@ -339,7 +339,52 @@ imageHint: "Volga River aerial view near Samara",
     },
     image: "/poi-images/russia-volga-river-nature-v2.webp",
 },  {
-    id: "russia-lena-pillars-nature-v2",
+    id: "russia-lena-pillars-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lenskie stolby",
+                  "text": "Spektakuläre natürliche Felssäulen, die sich senkrecht an den Ufern des Flusses Lena erheben.",
+                  "category": "landmark",
+                  "coords": [
+                        127.458352,
+                        61.12156
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lenskie stolby",
+                  "text": "Látványos természetes sziklaoszlopok, amelyek függőlegesen emelkednek a Léna folyó partján.",
+                  "category": "landmark",
+                  "coords": [
+                        127.458352,
+                        61.12156
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lenskie stolby",
+                  "text": "Stâlpi naturali de stâncă spectaculoși care se ridică vertical de-a lungul malurilor râului Lena.",
+                  "category": "landmark",
+                  "coords": [
+                        127.458352,
+                        61.12156
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lena Pillars",
+                  "text": "Spectacular natural rock pillars rising vertically along the banks of the Lena River.",
+                  "category": "landmark",
+                  "coords": [
+                        127.458352,
+                        61.12156
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "landmark",
     name: { de: "Lenasäulen", hu: "Léna-oszlopok", ro: "Coloanele Lenei", en: "Lena Pillars"},
@@ -385,7 +430,124 @@ imageHint: "Volga River aerial view near Samara",
     }
   },
   {
-    id: "russia-valley-of-geysers-nature-v2",
+    id: "russia-valley-of-geysers-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dolina smerti",
+                  "text": "Dieses tödliche Tal in der Nähe des Vulkans Kichpinitsch ist für seine vulkanischen Gasemissionen bekannt, die für die dortigen Tiere lebensgefährlich sind.",
+                  "category": "natural",
+                  "coords": [
+                        160.18602,
+                        54.469891
+                  ]
+            },
+            {
+                  "name": "Tal der Geysire",
+                  "text": "Diese berühmte Schlucht im Kronozki-Naturreservat beherbergt eine der weltweit größten Ansammlungen von aktiven Geysiren und heißen Quellen.",
+                  "category": "landmark",
+                  "coords": [
+                        160.138902,
+                        54.437755
+                  ]
+            },
+            {
+                  "name": "Vid na Bol'shoi",
+                  "text": "Von diesem malerischen Aussichtspunkt im Tal der Geysire aus können Besucher die spektakulären Ausbrüche des Bolshoi-Geysirs (Großer Geysir) beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        160.136737,
+                        54.437788
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dolina smerti",
+                  "text": "A Kihpinics vulkán közelében fekvő halálos völgy arról ismert, hogy vulkáni gázkibocsátásai veszélyt jelentenek a helyi vadvilágra.",
+                  "category": "natural",
+                  "coords": [
+                        160.18602,
+                        54.469891
+                  ]
+            },
+            {
+                  "name": "Dolina geizerov",
+                  "text": "A Kronockij Természetvédelmi Területen található híres szurdok a világ egyik legnagyobb kitörő gejzír- és hőforrás-koncentrációjával büszkélkedhet.",
+                  "category": "landmark",
+                  "coords": [
+                        160.138902,
+                        54.437755
+                  ]
+            },
+            {
+                  "name": "Vid na Bol'shoi",
+                  "text": "Ebből a Gejzírek völgyében lévő festői kilátóból a látogatók megfigyelhetik a Bolsoj (Nagy) gejzír látványos kitöréseit.",
+                  "category": "natural",
+                  "coords": [
+                        160.136737,
+                        54.437788
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dolina smerti",
+                  "text": "Situată lângă vulcanul Kikhpinych, această vale letală este cunoscută pentru emisiile de gaze vulcanice care ucid fauna locală.",
+                  "category": "natural",
+                  "coords": [
+                        160.18602,
+                        54.469891
+                  ]
+            },
+            {
+                  "name": "Dolina geizerov",
+                  "text": "Aflat în Rezervația Naturală Kronotsky, acest defileu renumit prezintă una dintre cele mai mari concentrații de gheizere și izvoare termale active din lume.",
+                  "category": "landmark",
+                  "coords": [
+                        160.138902,
+                        54.437755
+                  ]
+            },
+            {
+                  "name": "Vid na Bol'shoi",
+                  "text": "De la acest punct de observație pitoresc din Valea Gheizerelor, vizitatorii pot urmări erupțiile spectaculoase ale gheizerului Bolshoi (Marele Gheizer).",
+                  "category": "natural",
+                  "coords": [
+                        160.136737,
+                        54.437788
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Valley of Death",
+                  "text": "Nestled near the Kikhpinych volcano, this lethal valley is known for volcanic gas emissions that are deadly to local wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        160.18602,
+                        54.469891
+                  ]
+            },
+            {
+                  "name": "Valley of Geysers",
+                  "text": "Located in the Kronotsky Nature Reserve, this renowned gorge features one of the world's largest concentrations of erupting geysers and hot springs.",
+                  "category": "landmark",
+                  "coords": [
+                        160.138902,
+                        54.437755
+                  ]
+            },
+            {
+                  "name": "Vid na Bol'shoi",
+                  "text": "From this scenic vantage point in the Valley of Geysers, visitors can observe the spectacular eruptions of the Bolshoi (Big) Geyser.",
+                  "category": "natural",
+                  "coords": [
+                        160.136737,
+                        54.437788
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "valley",
     name: { de: "Tal der Geysire", hu: "Gejzírek völgye", ro: "Valea Gheizerelor", en: "Valley of Geysers"},
@@ -569,7 +731,88 @@ imageHint: "Putorana Plateau waterfalls and canyon",
     },
     image: "/poi-images/russia-putorana-plateau-nature-v2.webp",
 },  {
-    id: "russia-klyuchevskaya-sopka-nature-v2",
+    id: "russia-klyuchevskaya-sopka-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ozero Liry",
+                  "text": "Das von der wilden Landschaft des Naturparks Kljutschewskaja Sopka umgebene Liry-See ist eine abgelegene Naturattraktion, die durch alte vulkanische Aktivitäten entstanden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        160.707144,
+                        56.09718
+                  ]
+            },
+            {
+                  "name": "Ozero Kadens",
+                  "text": "Der Kadens-See liegt eingebettet in die dramatischen Landschaften nahe der Kljutschewskaja Sopka und ist ein malerisches Gewässer, das Naturliebhaber und Wanderer anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        160.699264,
+                        56.096214
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ozero Liry",
+                  "text": "A Kljucsevszkaja Szopka Natúrpark vad terepével körülvett Liry-tó egy távoli természeti látványosság, amelyet egy ősi vulkáni tevékenység hozott létre.",
+                  "category": "landmark",
+                  "coords": [
+                        160.707144,
+                        56.09718
+                  ]
+            },
+            {
+                  "name": "Ozero Kadens",
+                  "text": "A Kljucsevszkaja Szopka közelében elterülő drámai tájakon megbúvó Kadens-tó egy festői víztömeg, amely vonzza a természetrajongókat és a túrázókat.",
+                  "category": "landmark",
+                  "coords": [
+                        160.699264,
+                        56.096214
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ozero Liry",
+                  "text": "Înconjurat de terenul sălbatic al Parcului Natural Kliucevskaia Sopka, Lacul Liry este o atracție naturală izolată, formată de activitatea vulcanică antică.",
+                  "category": "landmark",
+                  "coords": [
+                        160.707144,
+                        56.09718
+                  ]
+            },
+            {
+                  "name": "Ozero Kadens",
+                  "text": "Amplasat în peisajele dramatice de lângă Kliucevskaia Sopka, Lacul Kadens este o apă pitorească care atrage pasionații de natură și drumeții.",
+                  "category": "landmark",
+                  "coords": [
+                        160.699264,
+                        56.096214
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ozero Liry",
+                  "text": "Surrounded by the wild terrain of Klyuchevskaya Sopka Nature Park, Lake Liry is a remote natural attraction formed by ancient volcanic activity.",
+                  "category": "landmark",
+                  "coords": [
+                        160.707144,
+                        56.09718
+                  ]
+            },
+            {
+                  "name": "Ozero Kadens",
+                  "text": "Nestled in the dramatic landscapes near Klyuchevskaya Sopka, Lake Kadens is a scenic body of water attracting nature enthusiasts and hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        160.699264,
+                        56.096214
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "peak",
     name: { de: "Klyuchevskaya Sopka", hu: "Klucsevszkaja-szopka", ro: "Vulcanul Kliucevskaia", en: "Klyuchevskaya Sopka"},
@@ -707,7 +950,52 @@ imageHint: "Lake Onega sunset with Kishi island",
     },
     image: "/poi-images/russia-lake-onega-nature-v2.webp",
 },  {
-    id: "russia-virgin-komi-forests-nature-v2",
+    id: "russia-virgin-komi-forests-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "vid na Manaragu",
+                  "text": "Ein Panoramablick auf den gezackten, mehrfachen Gipfel des Berges Manaraga im nördlichen Ural.",
+                  "category": "natural",
+                  "coords": [
+                        59.870027,
+                        65.026179
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "vid na Manaragu",
+                  "text": "Panorámás kilátás az Északi-Urálban található Manaraga-hegy csipkés, többágú csúcsára.",
+                  "category": "natural",
+                  "coords": [
+                        59.870027,
+                        65.026179
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "vid na Manaragu",
+                  "text": "O vedere panoramică asupra vârfului zimțat și ramificat al muntelui Manaraga din Uralii de Nord.",
+                  "category": "natural",
+                  "coords": [
+                        59.870027,
+                        65.026179
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "vid na Manaragu",
+                  "text": "A panoramic view of the jagged, multi-pronged peak of Mount Manaraga in the Northern Urals.",
+                  "category": "natural",
+                  "coords": [
+                        59.870027,
+                        65.026179
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "forest",
     name: { de: "Urwälder von Komi", hu: "Komi őserdők", ro: "Pădurile Virgine din Komi", en: "Virgin Komi Forests"},
@@ -753,7 +1041,52 @@ imageHint: "Virgin Komi Forests taiga landscape",
     },
     image: "/poi-images/russia-virgin-komi-forests-nature-v2.webp",
 },  {
-    id: "russia-sikhote-alin-nature-v2",
+    id: "russia-sikhote-alin-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sikhote-Alinskii zapovednik",
+                  "text": "Ein riesiges Biosphärenreservat, das im Februar 1935 zum Schutz des gefährdeten Amurtigers gegründet wurde.",
+                  "category": "natural",
+                  "coords": [
+                        136.195218,
+                        45.289019
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sikhote-Alinskii zapovednik",
+                  "text": "Egy hatalmas bioszféra-rezervátum, amelyet 1935 februárjában hoztak létre a veszélyeztetett amuri tigris védelmére.",
+                  "category": "natural",
+                  "coords": [
+                        136.195218,
+                        45.289019
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sikhote-Alinskii zapovednik",
+                  "text": "O vastă rezervație a biosferei înființată în februarie 1935 pentru a proteja tigrul siberian pe cale de dispariție.",
+                  "category": "natural",
+                  "coords": [
+                        136.195218,
+                        45.289019
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sikhote-Alin Nature Reserve",
+                  "text": "A vast biosphere reserve established in February 1935 to protect the endangered Amur tiger.",
+                  "category": "natural",
+                  "coords": [
+                        136.195218,
+                        45.289019
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "mountain",
     name: { de: "Sichote-Alin", hu: "Szihote-Aliny", ro: "Munții Sihote-Alin", en: "Sikhote-Alin"},
@@ -1029,7 +1362,196 @@ imageHint: "Orda Cave underwater diver gypsum walls",
     },
     image: "/poi-images/russia-orda-cave-nature-v2.webp",
 },  {
-    id: "russia-chara-sands-nature-v2",
+    id: "russia-chara-sands-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kucha kamnei iz Mramornogo ushchel'ia",
+                  "text": "Eine Ausstellung von Steinen aus dem nahe gelegenen Marmor-Canyon, einer Stätte, die mit ehemaligen sowjetischen Arbeitslagern verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        118.075704,
+                        56.817631
+                  ]
+            },
+            {
+                  "name": "2TE10M-2466",
+                  "text": "Eine historische sowjetische Diesellokomotive, die als Denkmal für die Eisenbahner der Region Tschara ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        118.27627,
+                        56.800346
+                  ]
+            },
+            {
+                  "name": "Charskie peski",
+                  "text": "Eine einzigartige Wüstenlandschaft mit gewaltigen Sanddünen, umgeben von sibirischer Taiga und hohen Gebirgsketten.",
+                  "category": "landmark",
+                  "coords": [
+                        118.139236,
+                        56.842782
+                  ]
+            },
+            {
+                  "name": "Kalarskii istoriko-kraevedcheskii muzei",
+                  "text": "Ein Regionalmuseum, das die Ethnographie der Ewenken und die Erschließung des nördlichen Baikalterritoriums zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        118.270711,
+                        56.790106
+                  ]
+            },
+            {
+                  "name": "Prikhod sviatogo apostola Andreia Pervozvannogo",
+                  "text": "Eine traditionelle orthodoxe Holzkirche, die der abgelegenen sibirischen Siedlung Tschara dient.",
+                  "category": "landmark",
+                  "coords": [
+                        118.272045,
+                        56.790057
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kucha kamnei iz Mramornogo ushchel'ia",
+                  "text": "A közeli Márvány-kanyonból származó kövek gyűjteménye, amely a korábbi szovjet munkatáborokhoz kapcsolódó helyszín.",
+                  "category": "landmark",
+                  "coords": [
+                        118.075704,
+                        56.817631
+                  ]
+            },
+            {
+                  "name": "2TE10M-2466",
+                  "text": "Egy történelmi szovjet dízelmozdony, amelyet a Csara-vidék vasutasainak emlékére állítottak fel.",
+                  "category": "landmark",
+                  "coords": [
+                        118.27627,
+                        56.800346
+                  ]
+            },
+            {
+                  "name": "Csara-i homokszivatag-szem",
+                  "text": "Egyedülálló sivatagi táj hatalmas homokdűnékkel, amelyet szibériai tajga és magas hegyláncok vesznek körül.",
+                  "category": "landmark",
+                  "coords": [
+                        118.139236,
+                        56.842782
+                  ]
+            },
+            {
+                  "name": "Kalarskii istoriko-kraevedcheskii muzei",
+                  "text": "Regionális múzeum, amely az evenki nép néprajzát és az észak-bajkáli terület fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        118.270711,
+                        56.790106
+                  ]
+            },
+            {
+                  "name": "Prikhod sviatogo apostola Andreia Pervozvannogo",
+                  "text": "Hagyományos fából készült ortodox templom, amely a távoli szibériai Csara települést szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        118.272045,
+                        56.790057
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kucha kamnei iz Mramornogo ushchel'ia",
+                  "text": "O expoziție de pietre aduse din canionul Marble din apropiere, un sit legat de fostele lagăre de muncă sovietice.",
+                  "category": "landmark",
+                  "coords": [
+                        118.075704,
+                        56.817631
+                  ]
+            },
+            {
+                  "name": "2TE10M-2466",
+                  "text": "O locomotivă diesel sovietică istorică expusă ca monument dedicat lucrătorilor feroviari din regiunea Ciara.",
+                  "category": "landmark",
+                  "coords": [
+                        118.27627,
+                        56.800346
+                  ]
+            },
+            {
+                  "name": "Charskie peski",
+                  "text": "Un peisaj deșertic unic, cu dune de nisip impunătoare, înconjurat de taiga siberiană și lanțuri muntoase înalte.",
+                  "category": "landmark",
+                  "coords": [
+                        118.139236,
+                        56.842782
+                  ]
+            },
+            {
+                  "name": "Kalarskii istoriko-kraevedcheskii muzei",
+                  "text": "Un muzeu regional care prezintă etnografia poporului evenki și dezvoltarea teritoriului de nord al Baikalului.",
+                  "category": "museum",
+                  "coords": [
+                        118.270711,
+                        56.790106
+                  ]
+            },
+            {
+                  "name": "Prikhod sviatogo apostola Andreia Pervozvannogo",
+                  "text": "O biserică ortodoxă tradițională din lemn care deservește așezarea siberiană izolată Ciara.",
+                  "category": "landmark",
+                  "coords": [
+                        118.272045,
+                        56.790057
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kucha kamnei iz Mramornogo ushchel'ia",
+                  "text": "A display of stones brought from the nearby Marble Canyon, a site linked to former Soviet labor camps.",
+                  "category": "landmark",
+                  "coords": [
+                        118.075704,
+                        56.817631
+                  ]
+            },
+            {
+                  "name": "2TE10M-2466",
+                  "text": "A historic Soviet diesel locomotive displayed as a monument to the railway workers of the Chara region.",
+                  "category": "landmark",
+                  "coords": [
+                        118.27627,
+                        56.800346
+                  ]
+            },
+            {
+                  "name": "Chara Sands",
+                  "text": "A unique desert landscape of towering sand dunes surrounded by Siberian taiga and high mountain ranges.",
+                  "category": "landmark",
+                  "coords": [
+                        118.139236,
+                        56.842782
+                  ]
+            },
+            {
+                  "name": "Kalarskii istoriko-kraevedcheskii muzei",
+                  "text": "A regional museum showcasing the ethnography of the Evenki people and the development of the northern Baikal territory.",
+                  "category": "museum",
+                  "coords": [
+                        118.270711,
+                        56.790106
+                  ]
+            },
+            {
+                  "name": "Prikhod sviatogo apostola Andreia Pervozvannogo",
+                  "text": "A traditional wooden Orthodox church serving the remote Siberian settlement of Chara.",
+                  "category": "landmark",
+                  "coords": [
+                        118.272045,
+                        56.790057
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "landmark",
     name: { de: "Tschara-Sande", hu: "Csara-homokpuszta", ro: "Nisipurile Ceara", en: "Chara Sands"},
@@ -1351,7 +1873,1096 @@ imageHint: "Sayano-Shushensky reserve mountains and lake",
     },
     image: "/poi-images/russia-sayano-shushensky-nature-v2.webp",
 },  {
-    id: "russia-ob-river-nature-v2",
+    id: "russia-ob-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Akvapark",
+                  "text": "Ein moderner Hallen-Wasserpark mit Rutschen und Becken für Erholung im sibirischen Klima.",
+                  "category": "recreational",
+                  "coords": [
+                        69.014107,
+                        60.977538
+                  ]
+            },
+            {
+                  "name": "Mamonty",
+                  "text": "Ikonische Bronzeskulpturen einer Mammutherde am Fuße des Samarowo-Hügels.",
+                  "category": "natural",
+                  "coords": [
+                        69.007814,
+                        60.98067
+                  ]
+            },
+            {
+                  "name": "Etnograficheskii muzei pod otkrytym nebom \"Torum Maa\"",
+                  "text": "Ein ethnografisches Freilichtmuseum, das traditionelle Holzhütten der Chanten und Mansen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        69.003586,
+                        60.998363
+                  ]
+            },
+            {
+                  "name": "Verevochnyi park \"Kasne Maa - Zemlia pokoritelei\"",
+                  "text": "Ein Outdoor-Abenteuerpark mit Seilparcours inmitten sibirischer Kiefern.",
+                  "category": "recreational",
+                  "coords": [
+                        69.001479,
+                        60.997593
+                  ]
+            },
+            {
+                  "name": "Etnografichekii muzei \"TorumMaa\"",
+                  "text": "Dieses Museum bewahrt das kulturelle Erbe und die Rituale der indigenen obugrischen Völker.",
+                  "category": "museum",
+                  "coords": [
+                        69.013528,
+                        61.005278
+                  ]
+            },
+            {
+                  "name": "Alleia Pochetnykh grazhdan KhMAO-Iugry",
+                  "text": "Ein Gedenkweg mit Porträts bedeutender lokaler Persönlichkeiten und Bürger.",
+                  "category": "landmark",
+                  "coords": [
+                        69.020098,
+                        61.002772
+                  ]
+            },
+            {
+                  "name": "Muzei prirody i cheloveka",
+                  "text": "Ein naturhistorisches Museum mit einem berühmten, in der Region gefundenen Mammutskelett.",
+                  "category": "museum",
+                  "coords": [
+                        69.024346,
+                        61.004875
+                  ]
+            },
+            {
+                  "name": "Ogon' sportivnoi slavy",
+                  "text": "Eine symbolische Flamme und ein Denkmal, das die sportlichen Erfolge der Region Jugra feiert.",
+                  "category": "landmark",
+                  "coords": [
+                        69.012942,
+                        61.007883
+                  ]
+            },
+            {
+                  "name": "Stella Khanty-Mansiisk",
+                  "text": "Eine dekorative Säule, die als Wahrzeichen im zentralen öffentlichen Raum der Stadt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        69.13994,
+                        61.030289
+                  ]
+            },
+            {
+                  "name": "Teatr kukol",
+                  "text": "Ein kultureller Ort, an dem Puppenspiele und Aufführungen für Kinder und Familien stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        69.030546,
+                        61.005527
+                  ]
+            },
+            {
+                  "name": "Dom-muzei narodnogo khudozhnika SSSR V.A.Igoshina",
+                  "text": "Ein Museum, das dem Leben und Werk des sowjetischen Malers Wladimir Igoschin gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        69.029351,
+                        61.004821
+                  ]
+            },
+            {
+                  "name": "Portik \"Vliublionnykh\"",
+                  "text": "Ein romantischer klassischer Portikus mit Blick auf die Stadt, beliebt bei lokalen Paaren.",
+                  "category": "natural",
+                  "coords": [
+                        69.028256,
+                        61.004082
+                  ]
+            },
+            {
+                  "name": "Muzei geologii, nefti i gaza",
+                  "text": "Ein futuristisches Museum, das die Geschichte der Ölförderung und geologische Funde in Sibirien zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        69.028023,
+                        61.00244
+                  ]
+            },
+            {
+                  "name": "Alleia portretov biatlonistov",
+                  "text": "Ein Themenweg mit Porträts berühmter Biathleten, der die Sportkultur der Stadt widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        69.030362,
+                        60.985926
+                  ]
+            },
+            {
+                  "name": "Iakhta \"Pobeda\"",
+                  "text": "Eine ausgestellte Yacht als Tribut an die lokale Schifffahrts- und Siegesgeschichte.",
+                  "category": "landmark",
+                  "coords": [
+                        69.051443,
+                        60.966332
+                  ]
+            },
+            {
+                  "name": "Pervootkryvateliam",
+                  "text": "Ein 62 Meter hohes, pyramidenförmiges Denkmal auf einem Hügel, das den Pionieren der Region gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        69.05715,
+                        60.972536
+                  ]
+            },
+            {
+                  "name": "Venkort",
+                  "text": "Ein zeitgenössisches Zentrum für Kunst und Freizeit, in dem Ausstellungen und kreative Events stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        68.985527,
+                        61.005972
+                  ]
+            },
+            {
+                  "name": "Galereia-masterskaia imeni khudozhnika G.S. Raisheva",
+                  "text": "Eine Kunstgalerie und Werkstatt, die die ausdrucksstarken Werke des mansi-Künstlers Gennadi Raischew zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        69.021511,
+                        61.000519
+                  ]
+            },
+            {
+                  "name": "Gosudarstvennyi khudozhestvennyi muzei",
+                  "text": "Dieses 2011 eröffnete Museum beherbergt eine umfangreiche Sammlung russischer Ikonen und Gemälde.",
+                  "category": "museum",
+                  "coords": [
+                        69.016643,
+                        61.001267
+                  ]
+            },
+            {
+                  "name": "Tsentr iskusstv",
+                  "text": "Ein bedeutender Ort für Musik und Theater, der als wichtigster Kulturknotenpunkt der Stadt dient.",
+                  "category": "cultural",
+                  "coords": [
+                        69.017635,
+                        61.000104
+                  ]
+            },
+            {
+                  "name": "Tserkov' v chest' sviatogo pravednogo otroka Artemiia Verkol'skogo",
+                  "text": "Eine 2005 erbaute hölzerne orthodoxe Kirche, bekannt für ihre traditionelle sibirische Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        69.042167,
+                        61.018447
+                  ]
+            },
+            {
+                  "name": "Kafedral'nyi sobor Voskreseniia Khristova",
+                  "text": "Eine majestätische weiße Kathedrale mit goldenen Kuppeln auf einer hohen Terrasse über der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        69.025015,
+                        60.998077
+                  ]
+            },
+            {
+                  "name": "Khram v chest' sviatykh blagovernykh kniazei Petra i Fevronii Muromskikh",
+                  "text": "Eine neu erbaute Kirche, die den Schutzpatronen der Ehe, den Heiligen Peter und Fewronia, gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        69.072642,
+                        61.042679
+                  ]
+            },
+            {
+                  "name": "Khram Bogoiavleniia Gospodnia",
+                  "text": "Eine im traditionellen Stil erbaute orthodoxe Kirche, die der örtlichen Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        69.151638,
+                        61.028582
+                  ]
+            },
+            {
+                  "name": "Tserkov' ikony Bozhiei Materi Znamenie",
+                  "text": "Eine christliche Kirche mit aufwendigem Mauerwerk und traditioneller orthodoxer Ikonographie.",
+                  "category": "landmark",
+                  "coords": [
+                        69.029921,
+                        61.009382
+                  ]
+            },
+            {
+                  "name": "Tserkov' Pokrova Presviatoi Bogoroditsy",
+                  "text": "Eine Ende der 1990er Jahre erbaute Pfarrkirche, typisch für das postsowjetische religiöse Revival.",
+                  "category": "landmark",
+                  "coords": [
+                        69.052845,
+                        60.970622
+                  ]
+            },
+            {
+                  "name": "Stupa prosveshcheniia",
+                  "text": "Ein weißes buddhistisches Denkmal im Wald, das Erleuchtung und Frieden symbolisiert.",
+                  "category": "landmark",
+                  "coords": [
+                        69.06717,
+                        60.97208
+                  ]
+            },
+            {
+                  "name": "Gorodskoi rynok",
+                  "text": "Ein belebter Stadtmarkt, auf dem Besucher lokale sibirische Produkte und Kunsthandwerk finden können.",
+                  "category": "cultural",
+                  "coords": [
+                        69.050258,
+                        61.003203
+                  ]
+            },
+            {
+                  "name": "Bania No. 1",
+                  "text": "Ein traditionelles öffentliches Badehaus, das sich direkt am Ufer des Flusses Ob in der sibirischen Wildnis befindet.",
+                  "category": "recreational",
+                  "coords": [
+                        69.020272,
+                        61.008893
+                  ]
+            },
+            {
+                  "name": "Bania No. 2",
+                  "text": "Eine klassische Banja-Einrichtung am Fluss Ob, die Besuchern eine authentische russische Saunaerfahrung bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        69.055838,
+                        60.969534
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Akvapark",
+                  "text": "Modern fedett vízipark csúszdákkal és medencékkel, kikapcsolódást nyújtva a szibériai éghajlaton.",
+                  "category": "recreational",
+                  "coords": [
+                        69.014107,
+                        60.977538
+                  ]
+            },
+            {
+                  "name": "Mamonty",
+                  "text": "Egy mamutcsorda ikonikus bronzszobrai a Szamarovo-domb lábánál.",
+                  "category": "natural",
+                  "coords": [
+                        69.007814,
+                        60.98067
+                  ]
+            },
+            {
+                  "name": "Etnograficheskii muzei pod otkrytym nebom \"Torum Maa\"",
+                  "text": "Néprajzi szabadtéri múzeum, amely a hanti és manysi népek hagyományos faházait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        69.003586,
+                        60.998363
+                  ]
+            },
+            {
+                  "name": "Verevochnyi park \"Kasne Maa - Zemlia pokoritelei\"",
+                  "text": "Szabadtéri kalandpark kötélpályákkal a szibériai fenyők között.",
+                  "category": "recreational",
+                  "coords": [
+                        69.001479,
+                        60.997593
+                  ]
+            },
+            {
+                  "name": "Etnografichekii muzei \"TorumMaa\"",
+                  "text": "Ez a múzeum az őshonos obi-ugor népek kulturális örökségét és rituáléit őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        69.013528,
+                        61.005278
+                  ]
+            },
+            {
+                  "name": "Alleia Pochetnykh grazhdan KhMAO-Iugry",
+                  "text": "Emléksétány a neves helyi személyiségek és polgárok portréival.",
+                  "category": "landmark",
+                  "coords": [
+                        69.020098,
+                        61.002772
+                  ]
+            },
+            {
+                  "name": "Muzei prirody i cheloveka",
+                  "text": "Természettudományi múzeum, amelyben egy híres, a régióban talált teljes mamutcsontváz látható.",
+                  "category": "museum",
+                  "coords": [
+                        69.024346,
+                        61.004875
+                  ]
+            },
+            {
+                  "name": "Ogon' sportivnoi slavy",
+                  "text": "Szimbolikus láng és emlékmű, amely az Jugra-vidék sporteredményeit ünnepli.",
+                  "category": "landmark",
+                  "coords": [
+                        69.012942,
+                        61.007883
+                  ]
+            },
+            {
+                  "name": "Stella Khanty-Mansiisk",
+                  "text": "Dekoratív oszlop, amely a város központi közterének jellegzetessége.",
+                  "category": "landmark",
+                  "coords": [
+                        69.13994,
+                        61.030289
+                  ]
+            },
+            {
+                  "name": "Teatr kukol",
+                  "text": "Kulturális helyszín, amely bábelőadásoknak ad otthont gyermekek és családok számára.",
+                  "category": "cultural",
+                  "coords": [
+                        69.030546,
+                        61.005527
+                  ]
+            },
+            {
+                  "name": "Dom-muzei narodnogo khudozhnika SSSR V.A.Igoshina",
+                  "text": "Vlagyimir Igosin szovjet festő életének és munkásságának szentelt múzeum.",
+                  "category": "landmark",
+                  "coords": [
+                        69.029351,
+                        61.004821
+                  ]
+            },
+            {
+                  "name": "Portik \"Vliublionnykh\"",
+                  "text": "Romantikus klasszikus oszlopcsarnok kilátással a városra, népszerű a helyi párok körében.",
+                  "category": "natural",
+                  "coords": [
+                        69.028256,
+                        61.004082
+                  ]
+            },
+            {
+                  "name": "Muzei geologii, nefti i gaza",
+                  "text": "Futurisztikus múzeum, amely a szibériai olajkutatás történetét és a geológiai leleteket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        69.028023,
+                        61.00244
+                  ]
+            },
+            {
+                  "name": "Alleia portretov biatlonistov",
+                  "text": "Tematikus sétány híres biatlonosok portréival, tükrözve a város sportkultúráját.",
+                  "category": "landmark",
+                  "coords": [
+                        69.030362,
+                        60.985926
+                  ]
+            },
+            {
+                  "name": "Iakhta \"Pobeda\"",
+                  "text": "Kiállított jacht a helyi tengerészeti és győzelmi történelem tiszteletére.",
+                  "category": "landmark",
+                  "coords": [
+                        69.051443,
+                        60.966332
+                  ]
+            },
+            {
+                  "name": "Pervootkryvateliam",
+                  "text": "62 méter magas piramis alakú emlékmű egy dombon, a régió úttörőinek szentelve.",
+                  "category": "historical",
+                  "coords": [
+                        69.05715,
+                        60.972536
+                  ]
+            },
+            {
+                  "name": "Venkort",
+                  "text": "Kortárs művészeti és szabadidős központ, amely kiállításoknak és kreatív eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        68.985527,
+                        61.005972
+                  ]
+            },
+            {
+                  "name": "Galereia-masterskaia imeni khudozhnika G.S. Raisheva",
+                  "text": "Művészeti galéria és műhely, amely Gennagyij Rajsev manysi művész kifejező alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        69.021511,
+                        61.000519
+                  ]
+            },
+            {
+                  "name": "Gosudarstvennyi khudozhestvennyi muzei",
+                  "text": "Ez a 2011-ben megnyílt múzeum orosz ikonok és festmények gazdag gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        69.016643,
+                        61.001267
+                  ]
+            },
+            {
+                  "name": "Tsentr iskusstv",
+                  "text": "Zenei és színházi előadások jeles helyszíne, a város legfőbb kulturális központja.",
+                  "category": "cultural",
+                  "coords": [
+                        69.017635,
+                        61.000104
+                  ]
+            },
+            {
+                  "name": "Tserkov' v chest' sviatogo pravednogo otroka Artemiia Verkol'skogo",
+                  "text": "2005-ben épült ortodox fatemplom, amely hagyományos szibériai építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        69.042167,
+                        61.018447
+                  ]
+            },
+            {
+                  "name": "Kafedral'nyi sobor Voskreseniia Khristova",
+                  "text": "Fenséges fehér székesegyház arany kupolákkal egy magas teraszon, kilátással a városra.",
+                  "category": "landmark",
+                  "coords": [
+                        69.025015,
+                        60.998077
+                  ]
+            },
+            {
+                  "name": "Khram v chest' sviatykh blagovernykh kniazei Petra i Fevronii Muromskikh",
+                  "text": "Újonnan épült templom a házasság védőszentjeinek, Szent Péternek és Fevronyijának szentelve.",
+                  "category": "landmark",
+                  "coords": [
+                        69.072642,
+                        61.042679
+                  ]
+            },
+            {
+                  "name": "Khram Bogoiavleniia Gospodnia",
+                  "text": "Hagyományos stílusban épült ortodox templom, amely a helyi egyházközséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        69.151638,
+                        61.028582
+                  ]
+            },
+            {
+                  "name": "Tserkov' ikony Bozhiei Materi Znamenie",
+                  "text": "Keresztény templom díszes téglafalakkal és hagyományos ortodox ikonográfiával.",
+                  "category": "landmark",
+                  "coords": [
+                        69.029921,
+                        61.009382
+                  ]
+            },
+            {
+                  "name": "Tserkov' Pokrova Presviatoi Bogoroditsy",
+                  "text": "Az 1990-es évek végén épült plébániatemplom, amely a posztszovjet vallási újjászületésre jellemző.",
+                  "category": "landmark",
+                  "coords": [
+                        69.052845,
+                        60.970622
+                  ]
+            },
+            {
+                  "name": "Stupa prosveshcheniia",
+                  "text": "Fehér buddhista emlékmű az erdőben, amely a megvilágosodást és a békét szimbolizálja.",
+                  "category": "landmark",
+                  "coords": [
+                        69.06717,
+                        60.97208
+                  ]
+            },
+            {
+                  "name": "Gorodskoi rynok",
+                  "text": "Nyüzsgő városi piac, ahol a látogatók helyi szibériai termékeket és kézműves tárgyakat találhatnak.",
+                  "category": "cultural",
+                  "coords": [
+                        69.050258,
+                        61.003203
+                  ]
+            },
+            {
+                  "name": "Bania No. 1",
+                  "text": "Hagyományos közfürdő, amely közvetlenül az Ob folyó partján található a szibériai természet lágy ölén.",
+                  "category": "recreational",
+                  "coords": [
+                        69.020272,
+                        61.008893
+                  ]
+            },
+            {
+                  "name": "Bania No. 2",
+                  "text": "Klasszikus szaunaház az Ob folyónál, amely hiteles orosz gőzfürdőélményt kínál a látogatóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        69.055838,
+                        60.969534
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Akvapark",
+                  "text": "Un parc acvatic interior modern, cu tobogane și piscine, oferind recreere în climatul siberian.",
+                  "category": "recreational",
+                  "coords": [
+                        69.014107,
+                        60.977538
+                  ]
+            },
+            {
+                  "name": "Mamonty",
+                  "text": "Sculpturi iconice din bronz ale unei cirezi de mamuți, la poalele dealului Samarovo.",
+                  "category": "natural",
+                  "coords": [
+                        69.007814,
+                        60.98067
+                  ]
+            },
+            {
+                  "name": "Etnograficheskii muzei pod otkrytym nebom \"Torum Maa\"",
+                  "text": "Un muzeu etnografic în aer liber care prezintă locuințe tradiționale din lemn ale hantîlor și mansilor.",
+                  "category": "museum",
+                  "coords": [
+                        69.003586,
+                        60.998363
+                  ]
+            },
+            {
+                  "name": "Verevochnyi park \"Kasne Maa - Zemlia pokoritelei\"",
+                  "text": "Un parc de aventură în aer liber cu trasee de frânghii printre pinii siberieni.",
+                  "category": "recreational",
+                  "coords": [
+                        69.001479,
+                        60.997593
+                  ]
+            },
+            {
+                  "name": "Etnografichekii muzei \"TorumMaa\"",
+                  "text": "Acest muzeu conservă moștenirea culturală și ritualurile popoarelor indigene ob-ugrice.",
+                  "category": "museum",
+                  "coords": [
+                        69.013528,
+                        61.005278
+                  ]
+            },
+            {
+                  "name": "Alleia Pochetnykh grazhdan KhMAO-Iugry",
+                  "text": "O alee memorială mărginită de portretele unor personalități și cetățeni locali de vază.",
+                  "category": "landmark",
+                  "coords": [
+                        69.020098,
+                        61.002772
+                  ]
+            },
+            {
+                  "name": "Muzei prirody i cheloveka",
+                  "text": "Un muzeu de istorie naturală care prezintă un faimos schelet complet de mamut găsit în regiune.",
+                  "category": "museum",
+                  "coords": [
+                        69.024346,
+                        61.004875
+                  ]
+            },
+            {
+                  "name": "Ogon' sportivnoi slavy",
+                  "text": "O flacără simbolică și un monument care celebrează realizările sportive ale regiunii Ugra.",
+                  "category": "landmark",
+                  "coords": [
+                        69.012942,
+                        61.007883
+                  ]
+            },
+            {
+                  "name": "Stella Khanty-Mansiisk",
+                  "text": "O coloană decorativă care servește ca punct de reper în spațiul public central al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        69.13994,
+                        61.030289
+                  ]
+            },
+            {
+                  "name": "Teatr kukol",
+                  "text": "Un spațiu cultural care găzduiește spectacole de păpuși și reprezentații pentru copii și familii.",
+                  "category": "cultural",
+                  "coords": [
+                        69.030546,
+                        61.005527
+                  ]
+            },
+            {
+                  "name": "Dom-muzei narodnogo khudozhnika SSSR V.A.Igoshina",
+                  "text": "Un muzeu dedicat vieții și operei pictorului sovietic Vladimir Igoșin.",
+                  "category": "landmark",
+                  "coords": [
+                        69.029351,
+                        61.004821
+                  ]
+            },
+            {
+                  "name": "Portik \"Vliublionnykh\"",
+                  "text": "Un portic clasic romantic cu vedere spre oraș, popular printre cuplurile locale.",
+                  "category": "natural",
+                  "coords": [
+                        69.028256,
+                        61.004082
+                  ]
+            },
+            {
+                  "name": "Muzei geologii, nefti i gaza",
+                  "text": "Un muzeu futurist care prezintă istoria explorării petrolului și descoperirile geologice din Siberia.",
+                  "category": "museum",
+                  "coords": [
+                        69.028023,
+                        61.00244
+                  ]
+            },
+            {
+                  "name": "Alleia portretov biatlonistov",
+                  "text": "O alee tematică cu portretele unor biattoniști faimoși, reflectând cultura sportivă a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        69.030362,
+                        60.985926
+                  ]
+            },
+            {
+                  "name": "Iakhta \"Pobeda\"",
+                  "text": "Un iaht scos din uz expus ca tribut adus istoriei maritime și a victoriei locale.",
+                  "category": "landmark",
+                  "coords": [
+                        69.051443,
+                        60.966332
+                  ]
+            },
+            {
+                  "name": "Pervootkryvateliam",
+                  "text": "Un monument sub formă de piramidă de 62 de metri, situat pe un deal și dedicat pionierilor regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        69.05715,
+                        60.972536
+                  ]
+            },
+            {
+                  "name": "Venkort",
+                  "text": "Un centru contemporan pentru arte și agrement, care găzduiește expoziții și evenimente creative.",
+                  "category": "cultural",
+                  "coords": [
+                        68.985527,
+                        61.005972
+                  ]
+            },
+            {
+                  "name": "Galereia-masterskaia imeni khudozhnika G.S. Raisheva",
+                  "text": "O galerie de artă și atelier care prezintă lucrările expresive ale artistului mansi Gennadi Raișev.",
+                  "category": "museum",
+                  "coords": [
+                        69.021511,
+                        61.000519
+                  ]
+            },
+            {
+                  "name": "Gosudarstvennyi khudozhestvennyi muzei",
+                  "text": "Deschis în 2011, acest muzeu găzduiește o colecție extinsă de icoane și picturi rusești.",
+                  "category": "museum",
+                  "coords": [
+                        69.016643,
+                        61.001267
+                  ]
+            },
+            {
+                  "name": "Tsentr iskusstv",
+                  "text": "Un loc de seamă pentru muzică și teatru, servind drept principal centru cultural al orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        69.017635,
+                        61.000104
+                  ]
+            },
+            {
+                  "name": "Tserkov' v chest' sviatogo pravednogo otroka Artemiia Verkol'skogo",
+                  "text": "O biserică ortodoxă din lemn construită în 2005, cunoscută pentru arhitectura sa tradițională siberiană.",
+                  "category": "landmark",
+                  "coords": [
+                        69.042167,
+                        61.018447
+                  ]
+            },
+            {
+                  "name": "Kafedral'nyi sobor Voskreseniia Khristova",
+                  "text": "O catedrală albă maiestuoasă cu cupole aurii, situată pe o terasă înaltă cu vedere spre oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        69.025015,
+                        60.998077
+                  ]
+            },
+            {
+                  "name": "Khram v chest' sviatykh blagovernykh kniazei Petra i Fevronii Muromskikh",
+                  "text": "O biserică nou construită dedicată patronilor căsătoriei, Sfinții Petru și Fevronia.",
+                  "category": "landmark",
+                  "coords": [
+                        69.072642,
+                        61.042679
+                  ]
+            },
+            {
+                  "name": "Khram Bogoiavleniia Gospodnia",
+                  "text": "O biserică ortodoxă construită în stil tradițional, care deservește parohia locală.",
+                  "category": "landmark",
+                  "coords": [
+                        69.151638,
+                        61.028582
+                  ]
+            },
+            {
+                  "name": "Tserkov' ikony Bozhiei Materi Znamenie",
+                  "text": "O biserică creștină cu o zidărie complexă și iconografie ortodoxă tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        69.029921,
+                        61.009382
+                  ]
+            },
+            {
+                  "name": "Tserkov' Pokrova Presviatoi Bogoroditsy",
+                  "text": "O biserică parohială construită la sfârșitul anilor 1990, caracteristică renașterii religioase post-sovietice.",
+                  "category": "landmark",
+                  "coords": [
+                        69.052845,
+                        60.970622
+                  ]
+            },
+            {
+                  "name": "Stupa prosveshcheniia",
+                  "text": "Un monument budist alb situat în pădure, simbolizând iluminarea și pacea.",
+                  "category": "landmark",
+                  "coords": [
+                        69.06717,
+                        60.97208
+                  ]
+            },
+            {
+                  "name": "Gorodskoi rynok",
+                  "text": "O piață orășenească plină de viață, unde vizitatorii pot găsi produse locale siberiene și obiecte de artizanat.",
+                  "category": "cultural",
+                  "coords": [
+                        69.050258,
+                        61.003203
+                  ]
+            },
+            {
+                  "name": "Bania No. 1",
+                  "text": "O baie publică tradițională situată chiar pe malul râului Obi, în mijlocul naturii siberiene.",
+                  "category": "recreational",
+                  "coords": [
+                        69.020272,
+                        61.008893
+                  ]
+            },
+            {
+                  "name": "Bania No. 2",
+                  "text": "O facilitate clasică de baie rusească de-a lungul râului Obi, oferind vizitatorilor o experiență autentică de saună.",
+                  "category": "recreational",
+                  "coords": [
+                        69.055838,
+                        60.969534
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Akvapark",
+                  "text": "A modern indoor water park with slides and pools, offering recreation in the Siberian climate.",
+                  "category": "recreational",
+                  "coords": [
+                        69.014107,
+                        60.977538
+                  ]
+            },
+            {
+                  "name": "Mamonty",
+                  "text": "Iconic bronze sculptures of a mammoth herd at the foot of the Samarovo hill.",
+                  "category": "natural",
+                  "coords": [
+                        69.007814,
+                        60.98067
+                  ]
+            },
+            {
+                  "name": "Etnograficheskii muzei pod otkrytym nebom \"Torum Maa\"",
+                  "text": "An open-air ethnographic museum showcasing traditional Khanty and Mansi wooden dwellings.",
+                  "category": "museum",
+                  "coords": [
+                        69.003586,
+                        60.998363
+                  ]
+            },
+            {
+                  "name": "Verevochnyi park \"Kasne Maa - Zemlia pokoritelei\"",
+                  "text": "An outdoor adventure park with rope courses set among the Siberian pines.",
+                  "category": "recreational",
+                  "coords": [
+                        69.001479,
+                        60.997593
+                  ]
+            },
+            {
+                  "name": "Etnografichekii muzei \"TorumMaa\"",
+                  "text": "This museum preserves the cultural heritage and rituals of the indigenous Ob-Ugric peoples.",
+                  "category": "museum",
+                  "coords": [
+                        69.013528,
+                        61.005278
+                  ]
+            },
+            {
+                  "name": "Avenue of Honourable citizens",
+                  "text": "A memorial walkway lined with portraits of notable local figures and citizens.",
+                  "category": "landmark",
+                  "coords": [
+                        69.020098,
+                        61.002772
+                  ]
+            },
+            {
+                  "name": "Muzei prirody i cheloveka",
+                  "text": "A natural history museum featuring a famous complete mammoth skeleton found in the region.",
+                  "category": "museum",
+                  "coords": [
+                        69.024346,
+                        61.004875
+                  ]
+            },
+            {
+                  "name": "Ogon' sportivnoi slavy",
+                  "text": "A symbolic flame and memorial celebrating the sporting achievements of the Ugra region.",
+                  "category": "landmark",
+                  "coords": [
+                        69.012942,
+                        61.007883
+                  ]
+            },
+            {
+                  "name": "Stel",
+                  "text": "A decorative column serving as a landmark in the city's central public space.",
+                  "category": "landmark",
+                  "coords": [
+                        69.13994,
+                        61.030289
+                  ]
+            },
+            {
+                  "name": "Teatr kukol",
+                  "text": "A cultural venue hosting puppet shows and performances for children and families.",
+                  "category": "cultural",
+                  "coords": [
+                        69.030546,
+                        61.005527
+                  ]
+            },
+            {
+                  "name": "Dom-muzei narodnogo khudozhnika SSSR V.A.Igoshina",
+                  "text": "A museum dedicated to the life and works of the Soviet painter Vladimir Igoshin.",
+                  "category": "landmark",
+                  "coords": [
+                        69.029351,
+                        61.004821
+                  ]
+            },
+            {
+                  "name": "Portik \"Vliublionnykh\"",
+                  "text": "A romantic classical portico overlooking the city, popular with local couples.",
+                  "category": "natural",
+                  "coords": [
+                        69.028256,
+                        61.004082
+                  ]
+            },
+            {
+                  "name": "Muzei geologii, nefti i gaza",
+                  "text": "A futuristic museum showcasing the history of oil exploration and geological finds in Siberia.",
+                  "category": "museum",
+                  "coords": [
+                        69.028023,
+                        61.00244
+                  ]
+            },
+            {
+                  "name": "Avenue of portraits of biathlonists",
+                  "text": "A themed walk featuring portraits of famous biathletes, reflecting the city's sports culture.",
+                  "category": "landmark",
+                  "coords": [
+                        69.030362,
+                        60.985926
+                  ]
+            },
+            {
+                  "name": "Iakhta \"Pobeda\"",
+                  "text": "A decommissioned yacht displayed as a tribute to local maritime and victory history.",
+                  "category": "landmark",
+                  "coords": [
+                        69.051443,
+                        60.966332
+                  ]
+            },
+            {
+                  "name": "Pervootkryvateliam",
+                  "text": "A 62-meter pyramid-shaped monument on a hill dedicated to the pioneers of the region.",
+                  "category": "historical",
+                  "coords": [
+                        69.05715,
+                        60.972536
+                  ]
+            },
+            {
+                  "name": "Venkort",
+                  "text": "A contemporary center for arts and leisure, hosting exhibitions and creative events.",
+                  "category": "cultural",
+                  "coords": [
+                        68.985527,
+                        61.005972
+                  ]
+            },
+            {
+                  "name": "Galereia-masterskaia imeni khudozhnika G.S. Raisheva",
+                  "text": "An art gallery and workshop showcasing the expressive works of Mansi artist Gennady Raishev.",
+                  "category": "museum",
+                  "coords": [
+                        69.021511,
+                        61.000519
+                  ]
+            },
+            {
+                  "name": "Gosudarstvennyi khudozhestvennyi muzei",
+                  "text": "Opened in 2011, this museum houses an extensive collection of Russian icons and paintings.",
+                  "category": "museum",
+                  "coords": [
+                        69.016643,
+                        61.001267
+                  ]
+            },
+            {
+                  "name": "Tsentr iskusstv",
+                  "text": "A prominent venue for music and theater, serving as the city's main cultural hub.",
+                  "category": "cultural",
+                  "coords": [
+                        69.017635,
+                        61.000104
+                  ]
+            },
+            {
+                  "name": "Tserkov' v chest' sviatogo pravednogo otroka Artemiia Verkol'skogo",
+                  "text": "A wooden Orthodox church built in 2005, known for its traditional Siberian architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        69.042167,
+                        61.018447
+                  ]
+            },
+            {
+                  "name": "Kafedral'nyi sobor Voskreseniia Khristova",
+                  "text": "A majestic white cathedral with golden domes perched on a high terrace overlooking the city.",
+                  "category": "landmark",
+                  "coords": [
+                        69.025015,
+                        60.998077
+                  ]
+            },
+            {
+                  "name": "Khram v chest' sviatykh blagovernykh kniazei Petra i Fevronii Muromskikh",
+                  "text": "A newly built church dedicated to the patrons of marriage, Saints Peter and Fevronia.",
+                  "category": "landmark",
+                  "coords": [
+                        69.072642,
+                        61.042679
+                  ]
+            },
+            {
+                  "name": "Khram Bogoiavleniia Gospodnia",
+                  "text": "An Orthodox church built in a traditional style, serving the local parish.",
+                  "category": "landmark",
+                  "coords": [
+                        69.151638,
+                        61.028582
+                  ]
+            },
+            {
+                  "name": "Tserkov' ikony Bozhiei Materi Znamenie",
+                  "text": "A Christian church featuring intricate brickwork and traditional Orthodox iconography.",
+                  "category": "landmark",
+                  "coords": [
+                        69.029921,
+                        61.009382
+                  ]
+            },
+            {
+                  "name": "Tserkov' Pokrova Presviatoi Bogoroditsy",
+                  "text": "A parish church built in the late 1990s, characteristic of post-Soviet religious revival.",
+                  "category": "landmark",
+                  "coords": [
+                        69.052845,
+                        60.970622
+                  ]
+            },
+            {
+                  "name": "Stupa prosveshcheniia",
+                  "text": "A white Buddhist monument located in the forest, symbolizing enlightenment and peace.",
+                  "category": "landmark",
+                  "coords": [
+                        69.06717,
+                        60.97208
+                  ]
+            },
+            {
+                  "name": "Gorodskoi rynok",
+                  "text": "A bustling city market where visitors can find local Siberian produce and handicrafts.",
+                  "category": "cultural",
+                  "coords": [
+                        69.050258,
+                        61.003203
+                  ]
+            },
+            {
+                  "name": "Bania No. 1",
+                  "text": "A traditional public bathhouse located right on the banks of the Ob River in the Siberian wilderness.",
+                  "category": "recreational",
+                  "coords": [
+                        69.020272,
+                        61.008893
+                  ]
+            },
+            {
+                  "name": "Bania No. 2",
+                  "text": "A classic banya facility along the Ob River, offering visitors an authentic Russian sauna experience.",
+                  "category": "recreational",
+                  "coords": [
+                        69.055838,
+                        60.969534
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "river",
     name: { de: "Ob", hu: "Ob", ro: "Râul Obi", en: "Ob River"},

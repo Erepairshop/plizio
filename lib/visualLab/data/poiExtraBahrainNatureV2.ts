@@ -3,7 +3,52 @@ import { POI } from './poi';
 export const bahrainNatureV2: POI[] = [
 
   {
-    id: "bahrain-jabal-ad-dukhan-nature-v2",
+    id: "bahrain-jabal-ad-dukhan-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal ad Dukhan",
+                  "text": "Mit 134 Metern der höchste Punkt Bahrains, oft von einem Dunstschleier umgeben, der dem „Rauchberg“ seinen Namen gab.",
+                  "category": "natural",
+                  "coords": [
+                        50.542124,
+                        26.038101
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal ad Dukhan",
+                  "text": "Bahrein legmagasabb pontja (134 méter), amelyet gyakran ködfátyol borít, innen kapta a „Füst-hegy” nevet.",
+                  "category": "natural",
+                  "coords": [
+                        50.542124,
+                        26.038101
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal ad Dukhan",
+                  "text": "Cu o înălțime de 134 de metri, este cel mai înalt punct din Bahrain, adesea învăluit într-o ceață care i-a dat numele de „Muntele Fumului”.",
+                  "category": "natural",
+                  "coords": [
+                        50.542124,
+                        26.038101
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal ad Dukhan",
+                  "text": "The highest point in Bahrain at 134 meters, often shrouded in a haze that gave the \"Mountain of Smoke\" its name.",
+                  "category": "natural",
+                  "coords": [
+                        50.542124,
+                        26.038101
+                  ]
+            }
+      ]
+},
     parent: "BH",
     type: "peak",
     name: { de: "Jabal ad-Dukhan", hu: "Jabal ad-Dukhan", ro: "Jabal ad-Dukhan", en: "Jabal ad-Dukhan" },
@@ -318,7 +363,88 @@ export const bahrainNatureV2: POI[] = [
     image: "/poi-images/bahrain-umm-an-nasan-nature-v2.webp",
   },
   {
-    id: "bahrain-jidda-island-nature-v2",
+    id: "bahrain-jidda-island-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Saudi Causeway Mosque",
+                  "text": "Die Saudi Causeway Moschee bietet Reisenden auf dem Damm nahe der Insel Jidda einen Ort für islamische Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        50.319225,
+                        26.18644
+                  ]
+            },
+            {
+                  "name": "Bahrain Causeway Mosque",
+                  "text": "Diese islamische Gebetsstätte befindet sich direkt am King Fahd Causeway auf bahrainischer Seite nahe der Insel Jidda.",
+                  "category": "landmark",
+                  "coords": [
+                        50.330876,
+                        26.182414
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saudi Causeway Mosque",
+                  "text": "A Saudi Causeway Mecset a Jidda-sziget közelében, a gáton utazóknak nyújt helyet iszlám imákra.",
+                  "category": "landmark",
+                  "coords": [
+                        50.319225,
+                        26.18644
+                  ]
+            },
+            {
+                  "name": "Bahrain Causeway Mosque",
+                  "text": "Ez az iszlám imahely közvetlenül a King Fahd gáton található bahreini oldalon, a Jidda-sziget közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        50.330876,
+                        26.182414
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saudi Causeway Mosque",
+                  "text": "Moscheea Saudi Causeway oferă călătorilor de pe digul din apropierea Insulei Jidda un loc pentru rugăciuni islamice.",
+                  "category": "landmark",
+                  "coords": [
+                        50.319225,
+                        26.18644
+                  ]
+            },
+            {
+                  "name": "Bahrain Causeway Mosque",
+                  "text": "Acest lăcaș de rugăciune islamic este situat chiar pe digul King Fahd, pe partea bahreineză, lângă Insula Jidda.",
+                  "category": "landmark",
+                  "coords": [
+                        50.330876,
+                        26.182414
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saudi Causeway Mosque",
+                  "text": "The Saudi Causeway Mosque offers travelers on the causeway near Jidda Island a place for Islamic prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        50.319225,
+                        26.18644
+                  ]
+            },
+            {
+                  "name": "Bahrain Causeway Mosque",
+                  "text": "This Islamic prayer site is located right on the King Fahd Causeway on the Bahraini side near Jidda Island.",
+                  "category": "landmark",
+                  "coords": [
+                        50.330876,
+                        26.182414
+                  ]
+            }
+      ]
+},
     parent: "BH",
     type: "landmark",
     name: { de: "Jidda-Insel", hu: "Jidda-sziget", ro: "Insula Jidda", en: "Jidda Island" },
@@ -363,7 +489,52 @@ export const bahrainNatureV2: POI[] = [
     image: "/poi-images/bahrain-jidda-island-nature-v2.webp",
   },
   {
-    id: "bahrain-al-jazaer-beach-nature-v2",
+    id: "bahrain-al-jazaer-beach-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sheikh Nasser Bicycle Loop Mosque",
+                  "text": "Diese kleine islamische Moschee am beliebten Radweg bietet Radfahrern, die auf dem Rundweg unterwegs sind, einen bequemen Zwischenstopp für das Gebet.",
+                  "category": "landmark",
+                  "coords": [
+                        50.46307,
+                        25.969488
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sheikh Nasser Bicycle Loop Mosque",
+                  "text": "A népszerű kerékpárút mentén található kis iszlám mecset kényelmes imamegállót kínál a kört teljesítő kerékpárosoknak.",
+                  "category": "landmark",
+                  "coords": [
+                        50.46307,
+                        25.969488
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sheikh Nasser Bicycle Loop Mosque",
+                  "text": "Situată de-a lungul popularei piste de ciclism, această mică moschee islamică oferă o oprire convenabilă pentru rugăciune bicicliștilor care parcurg circuitul.",
+                  "category": "landmark",
+                  "coords": [
+                        50.46307,
+                        25.969488
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sheikh Nasser Bicycle Loop Mosque",
+                  "text": "Situated along the popular cycling path, this small Islamic mosque offers a convenient prayer stop for cyclists navigating the loop.",
+                  "category": "landmark",
+                  "coords": [
+                        50.46307,
+                        25.969488
+                  ]
+            }
+      ]
+},
     parent: "BH",
     type: "landmark",
     name: { de: "Al Jazaer Strand", hu: "Al Jazaer strand", ro: "Plaja Al Jazaer", en: "Al Jazaer Beach" },
@@ -453,7 +624,124 @@ export const bahrainNatureV2: POI[] = [
     image: "/poi-images/bahrain-fasht-al-jarim-nature-v2.webp",
   },
   {
-    id: "bahrain-wadi-al-buhair-nature-v2",
+    id: "bahrain-wadi-al-buhair-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "YQ Art Center",
+                  "text": "Das YQ Art Center fungiert als kreativer Knotenpunkt in der Nähe des Wadi Al Buhair, der lokale Kunst präsentiert und kulturelle Workshops fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        50.56374,
+                        26.136601
+                  ]
+            },
+            {
+                  "name": "Al Salam Mosque",
+                  "text": "Die Al-Salam-Moschee verfügt über ein markantes Minarett, das als Wahrzeichen für die täglichen islamischen Gebete in der Nähe des Wadi Al Buhair dient.",
+                  "category": "religious",
+                  "coords": [
+                        50.567042,
+                        26.134071
+                  ]
+            },
+            {
+                  "name": "MASJID ALFERDOS",
+                  "text": "Die Masjid Alferdos bietet eine geräumige Hauptgebetshalle für die Gläubigen, die in der Umgebung von Wadi Al Buhair wohnen.",
+                  "category": "religious",
+                  "coords": [
+                        50.562344,
+                        26.133571
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "YQ Art Center",
+                  "text": "A YQ Art Center kreatív központként működik a Wadi Al Buhair közelében, bemutatva a helyi művészeteket és kulturális workshopokat szervezve.",
+                  "category": "cultural",
+                  "coords": [
+                        50.56374,
+                        26.136601
+                  ]
+            },
+            {
+                  "name": "Al Salam Mosque",
+                  "text": "Az Al Salam mecset kiemelkedő minarettel rendelkezik, amely mérföldkőként szolgál a napi iszlám imákhoz a Wadi Al Buhair területének közelében.",
+                  "category": "religious",
+                  "coords": [
+                        50.567042,
+                        26.134071
+                  ]
+            },
+            {
+                  "name": "MASJID ALFERDOS",
+                  "text": "A Masjid Alferdos tágas fő imatermet biztosít a Wadi Al Buhair környékén élő hívek számára.",
+                  "category": "religious",
+                  "coords": [
+                        50.562344,
+                        26.133571
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "YQ Art Center",
+                  "text": "Centrul de Artă YQ funcționează ca un hub creativ în apropiere de Wadi Al Buhair, prezentând arta locală și încurajând atelierele culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        50.56374,
+                        26.136601
+                  ]
+            },
+            {
+                  "name": "Al Salam Mosque",
+                  "text": "Moscheea Al Salam are un minaret proeminent care servește drept punct de reper pentru rugăciunile islamice zilnice în apropierea zonei Wadi Al Buhair.",
+                  "category": "religious",
+                  "coords": [
+                        50.567042,
+                        26.134071
+                  ]
+            },
+            {
+                  "name": "MASJID ALFERDOS",
+                  "text": "Masjid Alferdos oferă o sală principală de rugăciune spațioasă pentru credincioșii care locuiesc în împrejurimile Wadi Al Buhair.",
+                  "category": "religious",
+                  "coords": [
+                        50.562344,
+                        26.133571
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "YQ Art Center",
+                  "text": "The YQ Art Center functions as a creative hub near the Wadi Al Buhair, showcasing local arts and fostering cultural workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        50.56374,
+                        26.136601
+                  ]
+            },
+            {
+                  "name": "Al Salam Mosque",
+                  "text": "Al Salam Mosque features a prominent minaret that acts as a landmark for daily Islamic prayers near the Wadi Al Buhair area.",
+                  "category": "religious",
+                  "coords": [
+                        50.567042,
+                        26.134071
+                  ]
+            },
+            {
+                  "name": "MASJID ALFERDOS",
+                  "text": "Masjid Alferdos provides a spacious main prayer hall for the faithful residing in the environs of Wadi Al Buhair.",
+                  "category": "religious",
+                  "coords": [
+                        50.562344,
+                        26.133571
+                  ]
+            }
+      ]
+},
     parent: "BH",
     type: "valley",
     name: { de: "Wadi al Buhair", hu: "Wadi al Buhair", ro: "Wadi al Buhair", en: "Wadi al Buhair" },
@@ -1128,7 +1416,52 @@ export const bahrainNatureV2: POI[] = [
     image: "/poi-images/bahrain-jazirat-al-khisifah-nature-v2.webp",
   },
   {
-    id: "bahrain-al-hazm-plateau-nature-v2",
+    id: "bahrain-al-hazm-plateau-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dragon Rocks",
+                  "text": "Diese natürliche geologische Attraktion in Bahrain zeichnet sich durch markant geformte Kalksteinfelsformationen aus.",
+                  "category": "landmark",
+                  "coords": [
+                        50.54473,
+                        26.017774
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dragon Rocks",
+                  "text": "Ez a természetes bahreini geológiai látványosság jellegzetes alakú mészkőszikla-képződményekkel rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        50.54473,
+                        26.017774
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dragon Rocks",
+                  "text": "Această atracție geologică naturală din Bahrain prezintă formațiuni de rocă de calcar cu forme distincte.",
+                  "category": "landmark",
+                  "coords": [
+                        50.54473,
+                        26.017774
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dragon Rocks",
+                  "text": "This natural geological attraction in Bahrain features distinctively shaped limestone rock formations.",
+                  "category": "landmark",
+                  "coords": [
+                        50.54473,
+                        26.017774
+                  ]
+            }
+      ]
+},
     parent: "BH",
     type: "mountain",
     name: { de: "Al Hazm Plateau", hu: "Al Hazm-fennsík", ro: "Podișul Al Hazm", en: "Al Hazm Plateau" },

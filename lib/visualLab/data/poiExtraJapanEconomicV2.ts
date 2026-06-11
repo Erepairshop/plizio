@@ -52,7 +52,1204 @@ export const poiExtraJapanEconomicV2: POI[] = [
     
      image: "/poi-images/toyota-tahara-plant-economic-v2.webp"},
   {
-    id: "port-of-yokohama-economic-v2",
+    id: "port-of-yokohama-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Yokohama Harbor",
+                  "text": "Ein bedeutender Tiefwasserhafen, der seit dem 19. Jahrhundert als wichtiges Tor Japans zur Welt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        139.684909,
+                        35.448198
+                  ]
+            },
+            {
+                  "name": "Yokohama Port Symbol Tower",
+                  "text": "Ein weißer Aussichtsturm am Hafenrand, der der Schifffahrt als Orientierungshilfe und Besuchern als Aussichtspunkt dient.",
+                  "category": "natural",
+                  "coords": [
+                        139.68963,
+                        35.438959
+                  ]
+            },
+            {
+                  "name": "KING, QUEEN & JACK TOWERS YOKOHAMA VIEW POINT",
+                  "text": "Ein Aussichtspunkt mit Blick auf die drei markanten Türme des Zolls, der Präfektur und des Hafen-Gedächtnishalle.",
+                  "category": "natural",
+                  "coords": [
+                        139.648533,
+                        35.452688
+                  ]
+            },
+            {
+                  "name": "OSANBASHI VIEWPOINT",
+                  "text": "Ein Aussichtspunkt auf dem wellenförmigen Holzdeck des internationalen Passagierterminals mit Blick auf Minato Mirai.",
+                  "category": "natural",
+                  "coords": [
+                        139.646696,
+                        35.450985
+                  ]
+            },
+            {
+                  "name": "Japan Coast Guard Museum YOKOHAMA",
+                  "text": "Ein Schifffahrtsmuseum, das ein nordkoreanisches Spionageschiff ausstellt, das nach einem Seegefecht geborgen wurde.",
+                  "category": "museum",
+                  "coords": [
+                        139.644252,
+                        35.454282
+                  ]
+            },
+            {
+                  "name": "Remains of the former customs office",
+                  "text": "Archäologische Überreste des ersten modernen Zollgebäudes, die von der frühen Handelsgeschichte des Hafens zeugen.",
+                  "category": "historical",
+                  "coords": [
+                        139.643171,
+                        35.453418
+                  ]
+            },
+            {
+                  "name": "Tsurumi River Basin Center",
+                  "text": "Ein Informationszentrum am Tsurumi-Fluss, das sich dem Hochwasserschutz und der Ökologie des Beckens widmet.",
+                  "category": "museum",
+                  "coords": [
+                        139.599724,
+                        35.512253
+                  ]
+            },
+            {
+                  "name": "MORIUM",
+                  "text": "Ein interaktives Museum des Süßwarenherstellers Morinaga, das die Geschichte und Herstellung bekannter Snacks zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        139.673739,
+                        35.517229
+                  ]
+            },
+            {
+                  "name": "Shosenzka Shell Mound",
+                  "text": "Eine archäologische Fundstätte mit Muschelhaufen aus der prähistorischen Jomon-Zeit.",
+                  "category": "historical",
+                  "coords": [
+                        139.66278,
+                        35.520044
+                  ]
+            },
+            {
+                  "name": "Omotoyama Sojiji Treasure Hall",
+                  "text": "Eine Schatzkammer des Sojiji-Tempels, die bedeutende buddhistische Kunstwerke und religiöse Artefakte bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        139.670115,
+                        35.505539
+                  ]
+            },
+            {
+                  "name": "Misono Park Yokomizo Residence",
+                  "text": "Ein erhaltenes Bauernhaus aus der Edo-Zeit mit traditionellem Reetdach, das Einblicke in das ländliche Leben bietet.",
+                  "category": "museum",
+                  "coords": [
+                        139.642776,
+                        35.521801
+                  ]
+            },
+            {
+                  "name": "Shin-Yokohama Ramen Museum",
+                  "text": "Ein Themen-Erlebnismuseum, das eine Tokioter Straßenszene von 1958 mit verschiedenen regionalen Ramen-Läden nachbildet.",
+                  "category": "museum",
+                  "coords": [
+                        139.614527,
+                        35.50985
+                  ]
+            },
+            {
+                  "name": "Makuzu ware Museum",
+                  "text": "Ein Museum, das den kunstvollen Keramiken der Makuzu-Brennerei und den Werken von Miyagawa Kozan gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        139.629785,
+                        35.468081
+                  ]
+            },
+            {
+                  "name": "Nissan Engine Museum",
+                  "text": "Ein Technikmuseum im Nissan-Werk, das historische Motoren und die Entwicklung der Automobiltechnik ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        139.662291,
+                        35.481822
+                  ]
+            },
+            {
+                  "name": "Kirin Brewery Yokohama",
+                  "text": "Eine große Brauerei, die Führungen durch die Produktion und Einblicke in die Geschichte des Kirin-Biers bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        139.664069,
+                        35.490433
+                  ]
+            },
+            {
+                  "name": "Yokohama Bay Bridge",
+                  "text": "Eine beeindruckende Schrägseilbrücke aus dem Jahr 1989, die den Hafen überspannt und ein Wahrzeichen der Stadt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        139.673873,
+                        35.454391
+                  ]
+            },
+            {
+                  "name": "Hikawa Maru",
+                  "text": "Ein luxuriöser Ozeandampfer von 1929, der heute als Museumsschiff dauerhaft im Yamashita-Park vor Anker liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        139.651242,
+                        35.446652
+                  ]
+            },
+            {
+                  "name": "Rinko Park",
+                  "text": "Die größte Grünanlage im Viertel Minato Mirai mit weiten Rasenflächen direkt an der Uferpromenade.",
+                  "category": "park",
+                  "coords": [
+                        139.636994,
+                        35.461298
+                  ]
+            },
+            {
+                  "name": "Joshinji Temple",
+                  "text": "Ein ruhiger buddhistischer Tempel im Stadtteil Tsurumi, bekannt für seine friedliche Atmosphäre.",
+                  "category": "religious",
+                  "coords": [
+                        139.610774,
+                        35.532759
+                  ]
+            },
+            {
+                  "name": "Sojiji Temple",
+                  "text": "Einer der beiden Haupttempel der Soto-Zen-Schule mit einer weitläufigen Anlage und massiven Holzhallen.",
+                  "category": "religious",
+                  "coords": [
+                        139.670344,
+                        35.50657
+                  ]
+            },
+            {
+                  "name": "SHODAI",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über die industriellen Anlagen und das Hafenbecken von Yokohama.",
+                  "category": "natural",
+                  "coords": [
+                        139.659906,
+                        35.498231
+                  ]
+            },
+            {
+                  "name": "Kishine park",
+                  "text": "Ein familienfreundlicher Park mit einem großen zentralen Teich und weitläufigen Sportanlagen.",
+                  "category": "park",
+                  "coords": [
+                        139.614736,
+                        35.494635
+                  ]
+            },
+            {
+                  "name": "Choukouzan Myourenji",
+                  "text": "Ein buddhistischer Tempel der Nichiren-Schule, der sich direkt neben der gleichnamigen Bahnstation befindet.",
+                  "category": "religious",
+                  "coords": [
+                        139.634142,
+                        35.49831
+                  ]
+            },
+            {
+                  "name": "Shirahataike Park",
+                  "text": "Ein Stadtteilpark mit einem großen Angelteich, der bei Einheimischen für Entspannung im Grünen beliebt ist.",
+                  "category": "park",
+                  "coords": [
+                        139.628076,
+                        35.491882
+                  ]
+            },
+            {
+                  "name": "Shinohara-Enchi Park",
+                  "text": "Ein hügeliger Park mit dichten Wäldern und Wanderwegen, der besonders zur Kirschblüte beliebt ist.",
+                  "category": "park",
+                  "coords": [
+                        139.625988,
+                        35.491401
+                  ]
+            },
+            {
+                  "name": "Kanagawa Park",
+                  "text": "Eine städtische Grünanlage mit Sportplätzen und Spielbereichen in unmittelbarer Nähe zum Hafen.",
+                  "category": "park",
+                  "coords": [
+                        139.631468,
+                        35.470405
+                  ]
+            },
+            {
+                  "name": "Takashima Suisaisen Park",
+                  "text": "Ein schmaler Uferpark entlang einer ehemaligen Güterbahnlinie mit direktem Blick auf das Hafenwasser.",
+                  "category": "park",
+                  "coords": [
+                        139.629873,
+                        35.465368
+                  ]
+            },
+            {
+                  "name": "Tsurumi Tsubasa Bridge",
+                  "text": "Eine elegante Schrägseilbrücke aus dem Jahr 1994, die ein wichtiger Teil der Autobahnverbindung über den Hafen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        139.699078,
+                        35.472012
+                  ]
+            },
+            {
+                  "name": "Tsurumi Shrine",
+                  "text": "Ein alter Shinto-Schrein, der als Schutzpatron des Tsurumi-Gebiets gilt und für seine langen Traditionen bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        139.677354,
+                        35.51085
+                  ]
+            },
+            {
+                  "name": "Shinohara Hachiman Shrine",
+                  "text": "Ein auf einem Hügel gelegener Shinto-Schrein, der für seine ruhige Lage und den Blick über die Stadt geschätzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        139.623481,
+                        35.50509
+                  ]
+            },
+            {
+                  "name": "Kikuna ike benzai-ten",
+                  "text": "Ein kleiner Schrein am Rande eines Teichs, der Benzaiten, der Göttin der Musik und des Wissens, gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        139.632059,
+                        35.498979
+                  ]
+            },
+            {
+                  "name": "Kouhoku no Yu",
+                  "text": "Ein großes öffentliches Badehaus mit verschiedenen Themenbecken und Saunen zur Entspannung nach japanischer Art.",
+                  "category": "recreational",
+                  "coords": [
+                        139.591752,
+                        35.520945
+                  ]
+            },
+            {
+                  "name": "INSPA",
+                  "text": "Ein modernes Wellness- und Spa-Zentrum direkt am Hafen, das Entspannung mit Blick auf die Skyline bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        139.639096,
+                        35.468906
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Yokohama Harbor",
+                  "text": "Jelentős mélyvízi kikötő, amely a 19. század óta Japán egyik legfontosabb kapuja a világ felé.",
+                  "category": "landmark",
+                  "coords": [
+                        139.684909,
+                        35.448198
+                  ]
+            },
+            {
+                  "name": "Yokohama Port Symbol Tower",
+                  "text": "Fehér kilátótorony a kikötő szélén, amely a hajózást segíti és panorámás kilátást nyújt a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        139.68963,
+                        35.438959
+                  ]
+            },
+            {
+                  "name": "KING, QUEEN & JACK TOWERS YOKOHAMA VIEW POINT",
+                  "text": "Kilátópont, ahonnan rálátni a vámhivatal, a prefektúra és a kikötői emlékház jellegzetes tornyaira.",
+                  "category": "natural",
+                  "coords": [
+                        139.648533,
+                        35.452688
+                  ]
+            },
+            {
+                  "name": "OSANBASHI VIEWPOINT",
+                  "text": "Kilátóhely a nemzetközi utasterminál hullámzó fapadlóján, ahonnan remek rálátás nyílik a Minato Mirai negyedre.",
+                  "category": "natural",
+                  "coords": [
+                        139.646696,
+                        35.450985
+                  ]
+            },
+            {
+                  "name": "Japan Coast Guard Museum YOKOHAMA",
+                  "text": "Tengerészeti múzeum, ahol egy tengeri ütközet után kiemelt észak-koreai kémhajót állítottak ki.",
+                  "category": "museum",
+                  "coords": [
+                        139.644252,
+                        35.454282
+                  ]
+            },
+            {
+                  "name": "Remains of the former customs office",
+                  "text": "Az első modern vámhivatal régészeti maradványai, amelyek a kikötő korai kereskedelmi múltjáról tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        139.643171,
+                        35.453418
+                  ]
+            },
+            {
+                  "name": "Tsurumi River Basin Center",
+                  "text": "A Curumi-folyó partján fekvő központ, amely az árvízvédelemnek és a vízgyűjtő ökológiájának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        139.599724,
+                        35.512253
+                  ]
+            },
+            {
+                  "name": "MORIUM",
+                  "text": "A Morinaga édességgyártó interaktív múzeuma, amely a jól ismert nassolnivalók történetét és gyártását mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        139.673739,
+                        35.517229
+                  ]
+            },
+            {
+                  "name": "Shosenzka Shell Mound",
+                  "text": "Régészeti lelőhely prehisztorikus, Dzsómon-kori kagylóhalmokkal és leletekkel.",
+                  "category": "historical",
+                  "coords": [
+                        139.66278,
+                        35.520044
+                  ]
+            },
+            {
+                  "name": "Omotoyama Sojiji Treasure Hall",
+                  "text": "A Szódzsiji-templom kincstára, amely jelentős buddhista műalkotásokat és vallási tárgyakat őriz.",
+                  "category": "museum",
+                  "coords": [
+                        139.670115,
+                        35.505539
+                  ]
+            },
+            {
+                  "name": "Misono Park Yokomizo Residence",
+                  "text": "Edo-kori parasztház hagyományos nádtetővel, amely betekintést nyújt a korabeli vidéki életbe.",
+                  "category": "museum",
+                  "coords": [
+                        139.642776,
+                        35.521801
+                  ]
+            },
+            {
+                  "name": "Shin-Yokohama Ramen Museum",
+                  "text": "Tematikus múzeum, amely egy 1958-as tokiói utcaképet idéz fel különböző vidéki ramen-boltokkal.",
+                  "category": "museum",
+                  "coords": [
+                        139.614527,
+                        35.50985
+                  ]
+            },
+            {
+                  "name": "Makuzu ware Museum",
+                  "text": "A Makuzu-égetőmű díszes kerámiáinak és Mijagava Kózan műveinek szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        139.629785,
+                        35.468081
+                  ]
+            },
+            {
+                  "name": "Nissan Engine Museum",
+                  "text": "A Nissan-gyár területén található műszaki múzeum, amely történelmi motorokat és az autógyártás fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        139.662291,
+                        35.481822
+                  ]
+            },
+            {
+                  "name": "Kirin Brewery Yokohama",
+                  "text": "Hatalmas sörfőzde, amely gyárlátogatást és betekintést kínál a Kirin sör történetébe.",
+                  "category": "landmark",
+                  "coords": [
+                        139.664069,
+                        35.490433
+                  ]
+            },
+            {
+                  "name": "Yokohama Bay Bridge",
+                  "text": "Lenyűgöző, 1989-ben átadott ferdekábeles híd, amely a kikötő felett ível át és a város egyik jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        139.673873,
+                        35.454391
+                  ]
+            },
+            {
+                  "name": "Hikawa Maru",
+                  "text": "Luxus óceánjáró 1929-ből, amely ma múzeumhajóként horgonyoz állandóan a Jamasita parknál.",
+                  "category": "landmark",
+                  "coords": [
+                        139.651242,
+                        35.446652
+                  ]
+            },
+            {
+                  "name": "Rinko Park",
+                  "text": "A Minato Mirai negyed legnagyobb zöldterülete tágas gyeppel közvetlenül a vízparti sétány mellett.",
+                  "category": "park",
+                  "coords": [
+                        139.636994,
+                        35.461298
+                  ]
+            },
+            {
+                  "name": "Joshinji Temple",
+                  "text": "Csendes buddhista templom Curumi városrészben, amely békés hangulatáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        139.610774,
+                        35.532759
+                  ]
+            },
+            {
+                  "name": "Sojiji Temple",
+                  "text": "A szótó zen iskola két főtemplomának egyike, hatalmas területtel és monumentális csarnokokkal.",
+                  "category": "religious",
+                  "coords": [
+                        139.670344,
+                        35.50657
+                  ]
+            },
+            {
+                  "name": "SHODAI",
+                  "text": "Kilátóhely, ahonnan tágas rálátás nyílik Jokohama ipari létesítményeire és kikötői medencéire.",
+                  "category": "natural",
+                  "coords": [
+                        139.659906,
+                        35.498231
+                  ]
+            },
+            {
+                  "name": "Kishine park",
+                  "text": "Családbarát park nagy központi tóval és kiterjedt sportpályákkal.",
+                  "category": "park",
+                  "coords": [
+                        139.614736,
+                        35.494635
+                  ]
+            },
+            {
+                  "name": "Choukouzan Myourenji",
+                  "text": "A nicsiren iskola buddhista temploma, amely közvetlenül a hasonló nevű vasútállomás mellett található.",
+                  "category": "religious",
+                  "coords": [
+                        139.634142,
+                        35.49831
+                  ]
+            },
+            {
+                  "name": "Shirahataike Park",
+                  "text": "Városi park nagy horgásztóval, amely népszerű a helyiek körében a zöldben való pihenésre.",
+                  "category": "park",
+                  "coords": [
+                        139.628076,
+                        35.491882
+                  ]
+            },
+            {
+                  "name": "Shinohara-Enchi Park",
+                  "text": "Dombos park sűrű erdővel és sétautakkal, amely különösen a cseresznyevirágzás idején népszerű.",
+                  "category": "park",
+                  "coords": [
+                        139.625988,
+                        35.491401
+                  ]
+            },
+            {
+                  "name": "Kanagawa Park",
+                  "text": "Városi zöldterület sportpályákkal és játszóterekkel a kikötő közvetlen közelében.",
+                  "category": "park",
+                  "coords": [
+                        139.631468,
+                        35.470405
+                  ]
+            },
+            {
+                  "name": "Takashima Suisaisen Park",
+                  "text": "Keskeny vízparti park egy egykori teherautovonal mentén, közvetlen kilátással a kikötő vizére.",
+                  "category": "park",
+                  "coords": [
+                        139.629873,
+                        35.465368
+                  ]
+            },
+            {
+                  "name": "Tsurumi Tsubasa Bridge",
+                  "text": "Elegáns ferdekábeles híd 1994-ből, amely a kikötő feletti autópálya-összeköttetés fontos része.",
+                  "category": "landmark",
+                  "coords": [
+                        139.699078,
+                        35.472012
+                  ]
+            },
+            {
+                  "name": "Tsurumi Shrine",
+                  "text": "Ősi sinto szentély, amelyet a Curumi-negyed védelmezőjének tartanak és hosszú hagyományairól ismert.",
+                  "category": "religious",
+                  "coords": [
+                        139.677354,
+                        35.51085
+                  ]
+            },
+            {
+                  "name": "Shinohara Hachiman Shrine",
+                  "text": "Dombokon fekvő sinto szentély, amelyet csendes elhelyezkedése és városra néző kilátása miatt kedvelnek.",
+                  "category": "landmark",
+                  "coords": [
+                        139.623481,
+                        35.50509
+                  ]
+            },
+            {
+                  "name": "Kikuna ike benzai-ten",
+                  "text": "Kicsiny szentély egy tó partján, amelyet Benzaitennek, a zene és a tudás istennőjének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        139.632059,
+                        35.498979
+                  ]
+            },
+            {
+                  "name": "Kouhoku no Yu",
+                  "text": "Nagy közfürdő különböző tematikus medencékkel és szaunákkal a japán stílusú kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        139.591752,
+                        35.520945
+                  ]
+            },
+            {
+                  "name": "INSPA",
+                  "text": "Modern wellness- és spaközpont közvetlenül a kikötőnél, amely kilátást nyújt a városra pihenés közben.",
+                  "category": "recreational",
+                  "coords": [
+                        139.639096,
+                        35.468906
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Yokohama Harbor",
+                  "text": "Un port important de adâncime, care servește drept poartă majoră a Japoniei către lume încă din secolul al XIX-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        139.684909,
+                        35.448198
+                  ]
+            },
+            {
+                  "name": "Yokohama Port Symbol Tower",
+                  "text": "Un turn de observație alb la marginea portului, care servește drept ghid pentru navigație și punct de belvedere.",
+                  "category": "natural",
+                  "coords": [
+                        139.68963,
+                        35.438959
+                  ]
+            },
+            {
+                  "name": "KING, QUEEN & JACK TOWERS YOKOHAMA VIEW POINT",
+                  "text": "Un punct de observație cu vedere la cele trei turnuri emblematice ale vămii, prefecturii și ale clădirii memoriale a portului.",
+                  "category": "natural",
+                  "coords": [
+                        139.648533,
+                        35.452688
+                  ]
+            },
+            {
+                  "name": "OSANBASHI VIEWPOINT",
+                  "text": "Un punct de belvedere pe puntea de lemn ondulată a terminalului internațional de pasageri, cu vedere spre Minato Mirai.",
+                  "category": "natural",
+                  "coords": [
+                        139.646696,
+                        35.450985
+                  ]
+            },
+            {
+                  "name": "Japan Coast Guard Museum YOKOHAMA",
+                  "text": "Un muzeu maritim care expune o navă de spionaj nord-coreeană recuperată după o bătălie navală.",
+                  "category": "museum",
+                  "coords": [
+                        139.644252,
+                        35.454282
+                  ]
+            },
+            {
+                  "name": "Remains of the former customs office",
+                  "text": "Rămășițe arheologice ale primului birou vamal modern, care atestă istoria comercială timpurie a portului.",
+                  "category": "historical",
+                  "coords": [
+                        139.643171,
+                        35.453418
+                  ]
+            },
+            {
+                  "name": "Tsurumi River Basin Center",
+                  "text": "Un centru de informare pe malul râului Tsurumi, dedicat protecției împotriva inundațiilor și ecologiei bazinului.",
+                  "category": "museum",
+                  "coords": [
+                        139.599724,
+                        35.512253
+                  ]
+            },
+            {
+                  "name": "MORIUM",
+                  "text": "Un muzeu interactiv al producătorului de dulciuri Morinaga, care prezintă istoria și fabricarea gustărilor cunoscute.",
+                  "category": "museum",
+                  "coords": [
+                        139.673739,
+                        35.517229
+                  ]
+            },
+            {
+                  "name": "Shosenzka Shell Mound",
+                  "text": "Un sit arheologic care conservă movile de scoici din perioada preistorică Jomon.",
+                  "category": "historical",
+                  "coords": [
+                        139.66278,
+                        35.520044
+                  ]
+            },
+            {
+                  "name": "Omotoyama Sojiji Treasure Hall",
+                  "text": "O sală a tezaurului a templului Sojiji, care păstrează opere de artă budiste și artefacte religioase importante.",
+                  "category": "museum",
+                  "coords": [
+                        139.670115,
+                        35.505539
+                  ]
+            },
+            {
+                  "name": "Misono Park Yokomizo Residence",
+                  "text": "O casă de fermă din perioada Edo, cu acoperiș tradițional din stuf, care oferă o perspectivă asupra vieții rurale.",
+                  "category": "museum",
+                  "coords": [
+                        139.642776,
+                        35.521801
+                  ]
+            },
+            {
+                  "name": "Shin-Yokohama Ramen Museum",
+                  "text": "Un muzeu tematic care recreează o stradă din Tokyo din anul 1958, găzduind diverse standuri regionale de ramen.",
+                  "category": "museum",
+                  "coords": [
+                        139.614527,
+                        35.50985
+                  ]
+            },
+            {
+                  "name": "Makuzu ware Museum",
+                  "text": "Un muzeu dedicat ceramicilor artistice ale cuptorului Makuzu și lucrărilor lui Miyagawa Kozan.",
+                  "category": "museum",
+                  "coords": [
+                        139.629785,
+                        35.468081
+                  ]
+            },
+            {
+                  "name": "Nissan Engine Museum",
+                  "text": "Un muzeu tehnic situat în fabrica Nissan, care expune motoare istorice și evoluția ingineriei auto.",
+                  "category": "museum",
+                  "coords": [
+                        139.662291,
+                        35.481822
+                  ]
+            },
+            {
+                  "name": "Kirin Brewery Yokohama",
+                  "text": "O berărie mare care oferă tururi de producție și o perspectivă asupra istoriei berii Kirin.",
+                  "category": "landmark",
+                  "coords": [
+                        139.664069,
+                        35.490433
+                  ]
+            },
+            {
+                  "name": "Yokohama Bay Bridge",
+                  "text": "Un pod hobat impresionant din 1989, care traversează portul și este un simbol al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        139.673873,
+                        35.454391
+                  ]
+            },
+            {
+                  "name": "Hikawa Maru",
+                  "text": "Un pachebot de lux din 1929, ancorat permanent ca navă-muzeu în parcul Yamashita.",
+                  "category": "landmark",
+                  "coords": [
+                        139.651242,
+                        35.446652
+                  ]
+            },
+            {
+                  "name": "Rinko Park",
+                  "text": "Cea mai mare zonă verde din cartierul Minato Mirai, cu peluze vaste chiar lângă promenada de pe malul apei.",
+                  "category": "park",
+                  "coords": [
+                        139.636994,
+                        35.461298
+                  ]
+            },
+            {
+                  "name": "Joshinji Temple",
+                  "text": "Un templu budist liniștit în districtul Tsurumi, cunoscut pentru atmosfera sa pașnică.",
+                  "category": "religious",
+                  "coords": [
+                        139.610774,
+                        35.532759
+                  ]
+            },
+            {
+                  "name": "Sojiji Temple",
+                  "text": "Unul dintre cele două temple principale ale școlii Soto Zen, cu o incintă vastă și hale masive din lemn.",
+                  "category": "religious",
+                  "coords": [
+                        139.670344,
+                        35.50657
+                  ]
+            },
+            {
+                  "name": "SHODAI",
+                  "text": "Un punct de belvedere cu o vedere largă asupra facilităților industriale și a bazinului portuar din Yokohama.",
+                  "category": "natural",
+                  "coords": [
+                        139.659906,
+                        35.498231
+                  ]
+            },
+            {
+                  "name": "Kishine park",
+                  "text": "Un parc familial cu un iaz central mare și facilități sportive extinse.",
+                  "category": "park",
+                  "coords": [
+                        139.614736,
+                        35.494635
+                  ]
+            },
+            {
+                  "name": "Choukouzan Myourenji",
+                  "text": "Un templu budist al școlii Nichiren, situat chiar lângă stația de cale ferată cu același nume.",
+                  "category": "religious",
+                  "coords": [
+                        139.634142,
+                        35.49831
+                  ]
+            },
+            {
+                  "name": "Shirahataike Park",
+                  "text": "Un parc de cartier cu un iaz mare de pescuit, popular printre localnici pentru relaxare în natură.",
+                  "category": "park",
+                  "coords": [
+                        139.628076,
+                        35.491882
+                  ]
+            },
+            {
+                  "name": "Shinohara-Enchi Park",
+                  "text": "Un parc deluros cu păduri dese și poteci, deosebit de popular în timpul înfloririi cireșilor.",
+                  "category": "park",
+                  "coords": [
+                        139.625988,
+                        35.491401
+                  ]
+            },
+            {
+                  "name": "Kanagawa Park",
+                  "text": "Un spațiu verde urban cu terenuri de sport și locuri de joacă în imediata apropiere a portului.",
+                  "category": "park",
+                  "coords": [
+                        139.631468,
+                        35.470405
+                  ]
+            },
+            {
+                  "name": "Takashima Suisaisen Park",
+                  "text": "Un parc îngust pe malul apei, de-a lungul unei foste linii de cale ferată de marfă, cu vedere spre port.",
+                  "category": "park",
+                  "coords": [
+                        139.629873,
+                        35.465368
+                  ]
+            },
+            {
+                  "name": "Tsurumi Tsubasa Bridge",
+                  "text": "Un pod hobat elegant din 1994, care reprezintă o parte importantă a legăturii de autostradă peste port.",
+                  "category": "landmark",
+                  "coords": [
+                        139.699078,
+                        35.472012
+                  ]
+            },
+            {
+                  "name": "Tsurumi Shrine",
+                  "text": "Un vechi altar șintoist considerat protectorul zonei Tsurumi și cunoscut pentru tradițiile sale lungi.",
+                  "category": "religious",
+                  "coords": [
+                        139.677354,
+                        35.51085
+                  ]
+            },
+            {
+                  "name": "Shinohara Hachiman Shrine",
+                  "text": "Un altar șintoist situat pe un deal, apreciat pentru locația sa liniștită și vederea asupra orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        139.623481,
+                        35.50509
+                  ]
+            },
+            {
+                  "name": "Kikuna ike benzai-ten",
+                  "text": "Un mic altar la marginea unui iaz, dedicat lui Benzaiten, zeița muzicii și a cunoașterii.",
+                  "category": "landmark",
+                  "coords": [
+                        139.632059,
+                        35.498979
+                  ]
+            },
+            {
+                  "name": "Kouhoku no Yu",
+                  "text": "O baie publică mare, cu diverse bazine tematice și saune pentru relaxare în stil japonez.",
+                  "category": "recreational",
+                  "coords": [
+                        139.591752,
+                        35.520945
+                  ]
+            },
+            {
+                  "name": "INSPA",
+                  "text": "Un centru modern de wellness și spa chiar lângă port, care oferă relaxare cu vedere la linia orizontului.",
+                  "category": "recreational",
+                  "coords": [
+                        139.639096,
+                        35.468906
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yokohama Harbor",
+                  "text": "A major deep-water port that has served as Japan's primary gateway to the world since the 19th century.",
+                  "category": "landmark",
+                  "coords": [
+                        139.684909,
+                        35.448198
+                  ]
+            },
+            {
+                  "name": "Yokohama Port Symbol Tower",
+                  "text": "A white observation tower at the harbor's edge that serves as a navigational aid and a scenic viewpoint for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        139.68963,
+                        35.438959
+                  ]
+            },
+            {
+                  "name": "KING, QUEEN & JACK TOWERS YOKOHAMA VIEW POINT",
+                  "text": "A viewpoint overlooking the iconic King, Queen, and Jack towers of the historic port administration buildings.",
+                  "category": "natural",
+                  "coords": [
+                        139.648533,
+                        35.452688
+                  ]
+            },
+            {
+                  "name": "OSANBASHI VIEWPOINT",
+                  "text": "A viewpoint on the undulating wooden deck of the international passenger terminal with views of the Minato Mirai skyline.",
+                  "category": "natural",
+                  "coords": [
+                        139.646696,
+                        35.450985
+                  ]
+            },
+            {
+                  "name": "Japan Coast Guard Museum YOKOHAMA",
+                  "text": "A maritime museum featuring a North Korean spy ship salvaged by the Coast Guard after a naval engagement.",
+                  "category": "museum",
+                  "coords": [
+                        139.644252,
+                        35.454282
+                  ]
+            },
+            {
+                  "name": "Remains of the former customs office",
+                  "text": "Archaeological remains of the first modern customs house, witnessing the early commercial history of the port.",
+                  "category": "historical",
+                  "coords": [
+                        139.643171,
+                        35.453418
+                  ]
+            },
+            {
+                  "name": "Tsurumi River Basin Center",
+                  "text": "An information center on the Tsurumi River dedicated to flood prevention and the basin's ecology.",
+                  "category": "museum",
+                  "coords": [
+                        139.599724,
+                        35.512253
+                  ]
+            },
+            {
+                  "name": "MORIUM",
+                  "text": "An interactive museum by confectionery maker Morinaga, showcasing the history and production of famous snacks.",
+                  "category": "museum",
+                  "coords": [
+                        139.673739,
+                        35.517229
+                  ]
+            },
+            {
+                  "name": "Shosenzka Shell Mound",
+                  "text": "An archaeological site preserving shell mounds and artifacts from the prehistoric Jomon period.",
+                  "category": "historical",
+                  "coords": [
+                        139.66278,
+                        35.520044
+                  ]
+            },
+            {
+                  "name": "Omotoyama Sojiji Treasure Hall",
+                  "text": "A treasure hall of Sojiji Temple preserving significant Buddhist artworks and religious artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        139.670115,
+                        35.505539
+                  ]
+            },
+            {
+                  "name": "Misono Park Yokomizo Residence",
+                  "text": "A preserved Edo-period farmhouse with a traditional thatched roof, offering a glimpse into historic rural life.",
+                  "category": "museum",
+                  "coords": [
+                        139.642776,
+                        35.521801
+                  ]
+            },
+            {
+                  "name": "Shin-Yokohama Ramen Museum",
+                  "text": "A themed food museum recreating a 1958 Tokyo streetscape with various regional ramen shops.",
+                  "category": "museum",
+                  "coords": [
+                        139.614527,
+                        35.50985
+                  ]
+            },
+            {
+                  "name": "Makuzu ware Museum",
+                  "text": "A museum dedicated to the intricate ceramics of the Makuzu kiln and the works of Miyagawa Kozan.",
+                  "category": "museum",
+                  "coords": [
+                        139.629785,
+                        35.468081
+                  ]
+            },
+            {
+                  "name": "Nissan Engine Museum",
+                  "text": "A technical museum at the Nissan plant displaying historic engines and the evolution of automotive engineering.",
+                  "category": "museum",
+                  "coords": [
+                        139.662291,
+                        35.481822
+                  ]
+            },
+            {
+                  "name": "Kirin Brewery Yokohama",
+                  "text": "A large brewery offering factory tours and insights into the history of Kirin beer production.",
+                  "category": "landmark",
+                  "coords": [
+                        139.664069,
+                        35.490433
+                  ]
+            },
+            {
+                  "name": "Yokohama Bay Bridge",
+                  "text": "An impressive cable-stayed bridge opened in 1989 that spans the harbor and serves as a city landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        139.673873,
+                        35.454391
+                  ]
+            },
+            {
+                  "name": "Hikawa Maru",
+                  "text": "A luxury ocean liner from 1929 that is now permanently moored as a museum ship in Yamashita Park.",
+                  "category": "landmark",
+                  "coords": [
+                        139.651242,
+                        35.446652
+                  ]
+            },
+            {
+                  "name": "Rinko Park",
+                  "text": "The largest green space in the Minato Mirai district, featuring vast lawns right on the waterfront promenade.",
+                  "category": "park",
+                  "coords": [
+                        139.636994,
+                        35.461298
+                  ]
+            },
+            {
+                  "name": "Joshinji Temple",
+                  "text": "A serene Buddhist temple located in the Tsurumi ward, known for its peaceful atmosphere.",
+                  "category": "religious",
+                  "coords": [
+                        139.610774,
+                        35.532759
+                  ]
+            },
+            {
+                  "name": "Sojiji Temple",
+                  "text": "One of the two head temples of the Soto Zen school, featuring a sprawling complex and massive wooden halls.",
+                  "category": "religious",
+                  "coords": [
+                        139.670344,
+                        35.50657
+                  ]
+            },
+            {
+                  "name": "SHODAI",
+                  "text": "A viewpoint offering a wide perspective over the industrial facilities and harbor basins of Yokohama.",
+                  "category": "natural",
+                  "coords": [
+                        139.659906,
+                        35.498231
+                  ]
+            },
+            {
+                  "name": "Kishine park",
+                  "text": "A family-friendly park featuring a large central pond and extensive athletic facilities.",
+                  "category": "park",
+                  "coords": [
+                        139.614736,
+                        35.494635
+                  ]
+            },
+            {
+                  "name": "Choukouzan Myourenji",
+                  "text": "A Buddhist temple of the Nichiren school located right next to the railway station of the same name.",
+                  "category": "religious",
+                  "coords": [
+                        139.634142,
+                        35.49831
+                  ]
+            },
+            {
+                  "name": "Shirahataike Park",
+                  "text": "A neighborhood park featuring a large fishing pond, popular with locals for relaxing in nature.",
+                  "category": "park",
+                  "coords": [
+                        139.628076,
+                        35.491882
+                  ]
+            },
+            {
+                  "name": "Shinohara-Enchi Park",
+                  "text": "A hilly park with dense woods and walking paths, especially popular during the cherry blossom season.",
+                  "category": "park",
+                  "coords": [
+                        139.625988,
+                        35.491401
+                  ]
+            },
+            {
+                  "name": "Kanagawa Park",
+                  "text": "An urban green space with sports fields and play areas located in close proximity to the harbor.",
+                  "category": "park",
+                  "coords": [
+                        139.631468,
+                        35.470405
+                  ]
+            },
+            {
+                  "name": "Takashima Suisaisen Park",
+                  "text": "A linear waterfront park along a former freight rail line with direct views of the harbor waters.",
+                  "category": "park",
+                  "coords": [
+                        139.629873,
+                        35.465368
+                  ]
+            },
+            {
+                  "name": "Tsurumi Tsubasa Bridge",
+                  "text": "An elegant cable-stayed bridge opened in 1994 that forms a key part of the expressway crossing the harbor.",
+                  "category": "landmark",
+                  "coords": [
+                        139.699078,
+                        35.472012
+                  ]
+            },
+            {
+                  "name": "Tsurumi Shrine",
+                  "text": "An ancient Shinto shrine considered the protector of the Tsurumi area and known for its long traditions.",
+                  "category": "religious",
+                  "coords": [
+                        139.677354,
+                        35.51085
+                  ]
+            },
+            {
+                  "name": "Shinohara Hachiman Shrine",
+                  "text": "A Shinto shrine situated on a hill, valued for its quiet location and views over the city.",
+                  "category": "landmark",
+                  "coords": [
+                        139.623481,
+                        35.50509
+                  ]
+            },
+            {
+                  "name": "Kikuna ike benzai-ten",
+                  "text": "A small shrine on a pond's edge dedicated to Benzaiten, the goddess of music and knowledge.",
+                  "category": "landmark",
+                  "coords": [
+                        139.632059,
+                        35.498979
+                  ]
+            },
+            {
+                  "name": "Kouhoku no Yu",
+                  "text": "A large public bath facility featuring various themed tubs and saunas for Japanese-style relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        139.591752,
+                        35.520945
+                  ]
+            },
+            {
+                  "name": "INSPA",
+                  "text": "A modern wellness and spa resort located on the waterfront, offering relaxation with views of the skyline.",
+                  "category": "recreational",
+                  "coords": [
+                        139.639096,
+                        35.468906
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "JP-14",
     coords: [139.65, 35.45],
@@ -101,7 +1298,412 @@ export const poiExtraJapanEconomicV2: POI[] = [
     
      image: "/poi-images/port-of-yokohama-economic-v2.webp"},
   {
-    id: "kashima-industrial-zone-economic-v2",
+    id: "kashima-industrial-zone-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ikisu-jinja Shrine",
+                  "text": "Einer der drei großen Schreine der Region Ost-Jōyō, bekannt für seine heiligen Quellen am Fluss Tone.",
+                  "category": "religious",
+                  "coords": [
+                        140.62511,
+                        35.885815
+                  ]
+            },
+            {
+                  "name": "Ryu-jinja Shrine",
+                  "text": "Ein ruhiger Shinto-Schrein in Kamisu, der der Drachengottheit gewidmet ist und lokalen Schutz bietet.",
+                  "category": "religious",
+                  "coords": [
+                        140.627723,
+                        35.967539
+                  ]
+            },
+            {
+                  "name": "Kashima Shrine",
+                  "text": "Einer der ältesten Schreine Japans, berühmt für seinen heiligen Wald und als Schutzort der Kampfkünste.",
+                  "category": "religious",
+                  "coords": [
+                        140.631543,
+                        35.968771
+                  ]
+            },
+            {
+                  "name": "Omigawa-ohashi Bridge",
+                  "text": "Diese bedeutende Brücke überspannt den Tone-Fluss und verbindet die Präfekturen Chiba und Ibaraki.",
+                  "category": "landmark",
+                  "coords": [
+                        140.614525,
+                        35.86577
+                  ]
+            },
+            {
+                  "name": "Kamisu Central Park",
+                  "text": "Ein moderner Stadtpark, der 2014 eröffnet wurde und weite Rasenflächen sowie Sportanlagen in Kamisu bietet.",
+                  "category": "park",
+                  "coords": [
+                        140.650091,
+                        35.897445
+                  ]
+            },
+            {
+                  "name": "Shin-Jingu Bridge",
+                  "text": "Eine moderne Straßenbrücke, die das Wasser des Kita-Tone-Flusses nahe dem Kashima-Schrein überquert.",
+                  "category": "landmark",
+                  "coords": [
+                        140.605636,
+                        35.96161
+                  ]
+            },
+            {
+                  "name": "Jingu Bridge",
+                  "text": "Die ursprüngliche Brücke über den Kita-Tone-Fluss, die einen malerischen Zugang zur heiligen Stadt Kashima bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        140.606519,
+                        35.960492
+                  ]
+            },
+            {
+                  "name": "Deer Garden",
+                  "text": "Ein Gehege innerhalb des Kashima-Schreins, in dem heilige Hirsche als Boten der Götter gehalten werden.",
+                  "category": "recreational",
+                  "coords": [
+                        140.633152,
+                        35.970086
+                  ]
+            },
+            {
+                  "name": "Koden no Sato exercise park",
+                  "text": "Ein Sportpark in Kashima, benannt nach dem berühmten Schwertmeister Tsukahara Bokuden.",
+                  "category": "park",
+                  "coords": [
+                        140.643714,
+                        35.992154
+                  ]
+            },
+            {
+                  "name": "Shuzoin Temple",
+                  "text": "Ein buddhistischer Tempel in Kashima, der für seine ruhigen Gärten und traditionellen Zeremonien bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        140.689067,
+                        35.832949
+                  ]
+            },
+            {
+                  "name": "Yasaka Shrine",
+                  "text": "Ein kleiner Shinto-Schrein in Kashima, der dem Gott Susanoo gewidmet ist und für den Schutz der Gemeinde sorgt.",
+                  "category": "landmark",
+                  "coords": [
+                        140.686134,
+                        35.835191
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ikisu-jinja Shrine",
+                  "text": "Kelet-Jōyō régió három nagy szentélyének egyike, amely a Tone-folyó menti szent forrásairól ismert.",
+                  "category": "religious",
+                  "coords": [
+                        140.62511,
+                        35.885815
+                  ]
+            },
+            {
+                  "name": "Ryu-jinja Shrine",
+                  "text": "Nyugodt sintó szentély Kamiszuban, amelyet a sárkányistenségnek szenteltek a helyi védelemért.",
+                  "category": "religious",
+                  "coords": [
+                        140.627723,
+                        35.967539
+                  ]
+            },
+            {
+                  "name": "Kashima Shrine",
+                  "text": "Japán egyik legrégebbi szentélye, amely szent erdejéről és a harcművészetek védőhelyeként híres.",
+                  "category": "religious",
+                  "coords": [
+                        140.631543,
+                        35.968771
+                  ]
+            },
+            {
+                  "name": "Omigawa-ohashi Bridge",
+                  "text": "Ez a jelentős híd a Tone-folyót íveli át, összekötve Csiba és Ibaraki prefektúrákat.",
+                  "category": "landmark",
+                  "coords": [
+                        140.614525,
+                        35.86577
+                  ]
+            },
+            {
+                  "name": "Kamisu Central Park",
+                  "text": "2014-ben megnyitott modern városi park, amely tágas gyepfelületeket és sportlétesítményeket kínál Kamiszuban.",
+                  "category": "park",
+                  "coords": [
+                        140.650091,
+                        35.897445
+                  ]
+            },
+            {
+                  "name": "Shin-Jingu Bridge",
+                  "text": "Modern közúti híd, amely a Kita-Tone-folyó felett ível át a Kasima-szentély közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        140.605636,
+                        35.96161
+                  ]
+            },
+            {
+                  "name": "Jingu Bridge",
+                  "text": "Az eredeti híd a Kita-Tone-folyón, amely festői útvonalat kínál Kasima szent városába.",
+                  "category": "landmark",
+                  "coords": [
+                        140.606519,
+                        35.960492
+                  ]
+            },
+            {
+                  "name": "Deer Garden",
+                  "text": "A Kasima-szentély területén található kert, ahol szent szarvasokat tartanak az istenek hírnökeként.",
+                  "category": "recreational",
+                  "coords": [
+                        140.633152,
+                        35.970086
+                  ]
+            },
+            {
+                  "name": "Koden no Sato exercise park",
+                  "text": "Sportpark Kasimában, amelyet a híres kardforgatóról, Tsukahara Bokudenről neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        140.643714,
+                        35.992154
+                  ]
+            },
+            {
+                  "name": "Shuzoin Temple",
+                  "text": "Buddhista templom Kasimában, amely nyugodt kertjeiről és hagyományos szertartásairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        140.689067,
+                        35.832949
+                  ]
+            },
+            {
+                  "name": "Yasaka Shrine",
+                  "text": "Kicsi sintó szentély Kasimában, amelyet Szuszanoo istennek szenteltek a közösség védelmére.",
+                  "category": "landmark",
+                  "coords": [
+                        140.686134,
+                        35.835191
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ikisu-jinja Shrine",
+                  "text": "Unul dintre cele trei mari altare ale regiunii de est Jōyō, cunoscut pentru izvoarele sale sacre de pe malul râului Tone.",
+                  "category": "religious",
+                  "coords": [
+                        140.62511,
+                        35.885815
+                  ]
+            },
+            {
+                  "name": "Ryu-jinja Shrine",
+                  "text": "Un altar șintoist liniștit din Kamisu, dedicat zeității dragon, oferind protecție locală.",
+                  "category": "religious",
+                  "coords": [
+                        140.627723,
+                        35.967539
+                  ]
+            },
+            {
+                  "name": "Kashima Shrine",
+                  "text": "Unul dintre cele mai vechi altare din Japonia, renumit pentru pădurea sa sacră și ca loc de protecție a artelor marțiale.",
+                  "category": "religious",
+                  "coords": [
+                        140.631543,
+                        35.968771
+                  ]
+            },
+            {
+                  "name": "Omigawa-ohashi Bridge",
+                  "text": "Acest pod important traversează râul Tone, conectând prefecturile Chiba și Ibaraki.",
+                  "category": "landmark",
+                  "coords": [
+                        140.614525,
+                        35.86577
+                  ]
+            },
+            {
+                  "name": "Kamisu Central Park",
+                  "text": "Un parc urban modern deschis în 2014, oferind peluze largi și facilități sportive în Kamisu.",
+                  "category": "park",
+                  "coords": [
+                        140.650091,
+                        35.897445
+                  ]
+            },
+            {
+                  "name": "Shin-Jingu Bridge",
+                  "text": "Un pod rutier modern care traversează apele râului Kita-Tone lângă altarul Kashima.",
+                  "category": "landmark",
+                  "coords": [
+                        140.605636,
+                        35.96161
+                  ]
+            },
+            {
+                  "name": "Jingu Bridge",
+                  "text": "Podul original peste râul Kita-Tone, oferind un acces pitoresc către orașul sacru Kashima.",
+                  "category": "landmark",
+                  "coords": [
+                        140.606519,
+                        35.960492
+                  ]
+            },
+            {
+                  "name": "Deer Garden",
+                  "text": "O incintă din interiorul altarului Kashima, unde cerbi sacri sunt ținuți ca mesageri ai zeilor.",
+                  "category": "recreational",
+                  "coords": [
+                        140.633152,
+                        35.970086
+                  ]
+            },
+            {
+                  "name": "Koden no Sato exercise park",
+                  "text": "Un parc sportiv din Kashima, numit după faimosul maestru al sabiei Tsukahara Bokuden.",
+                  "category": "park",
+                  "coords": [
+                        140.643714,
+                        35.992154
+                  ]
+            },
+            {
+                  "name": "Shuzoin Temple",
+                  "text": "Un templu budist din Kashima, cunoscut pentru grădinile sale liniștite și ceremoniile tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        140.689067,
+                        35.832949
+                  ]
+            },
+            {
+                  "name": "Yasaka Shrine",
+                  "text": "Un mic altar șintoist din Kashima dedicat zeului Susanoo, oferind protecție comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        140.686134,
+                        35.835191
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ikisu-jinja Shrine",
+                  "text": "One of the three great shrines of the Eastern Jōyō region, known for its sacred springs by the Tone River.",
+                  "category": "religious",
+                  "coords": [
+                        140.62511,
+                        35.885815
+                  ]
+            },
+            {
+                  "name": "Ryu-jinja Shrine",
+                  "text": "A quiet Shinto shrine in Kamisu dedicated to the dragon deity for local protection.",
+                  "category": "religious",
+                  "coords": [
+                        140.627723,
+                        35.967539
+                  ]
+            },
+            {
+                  "name": "Kashima Shrine",
+                  "text": "One of Japan's oldest shrines, famous for its sacred forest and as a protective site for martial arts.",
+                  "category": "religious",
+                  "coords": [
+                        140.631543,
+                        35.968771
+                  ]
+            },
+            {
+                  "name": "Omigawa-ohashi Bridge",
+                  "text": "This major bridge spans the Tone River, connecting the Chiba and Ibaraki prefectures.",
+                  "category": "landmark",
+                  "coords": [
+                        140.614525,
+                        35.86577
+                  ]
+            },
+            {
+                  "name": "Kamisu Central Park",
+                  "text": "A modern urban park opened in 2014, offering wide lawns and sports facilities in Kamisu.",
+                  "category": "park",
+                  "coords": [
+                        140.650091,
+                        35.897445
+                  ]
+            },
+            {
+                  "name": "Shin-Jingu Bridge",
+                  "text": "A modern road bridge crossing the waters of the Kita-Tone River near the Kashima Shrine.",
+                  "category": "landmark",
+                  "coords": [
+                        140.605636,
+                        35.96161
+                  ]
+            },
+            {
+                  "name": "Jingu Bridge",
+                  "text": "The original bridge over the Kita-Tone River, providing a scenic approach to the sacred city of Kashima.",
+                  "category": "landmark",
+                  "coords": [
+                        140.606519,
+                        35.960492
+                  ]
+            },
+            {
+                  "name": "Deer Garden",
+                  "text": "An enclosure within the Kashima Shrine grounds where sacred deer are kept as messengers of the gods.",
+                  "category": "recreational",
+                  "coords": [
+                        140.633152,
+                        35.970086
+                  ]
+            },
+            {
+                  "name": "Koden no Sato exercise park",
+                  "text": "A sports park in Kashima named after the famous swordsmaster Tsukahara Bokuden.",
+                  "category": "park",
+                  "coords": [
+                        140.643714,
+                        35.992154
+                  ]
+            },
+            {
+                  "name": "Shuzoin Temple",
+                  "text": "A Buddhist temple in Kashima known for its tranquil gardens and traditional ceremonies.",
+                  "category": "landmark",
+                  "coords": [
+                        140.689067,
+                        35.832949
+                  ]
+            },
+            {
+                  "name": "Yasaka Shrine",
+                  "text": "A small Shinto shrine in Kashima dedicated to the god Susanoo, serving the local community's protection.",
+                  "category": "landmark",
+                  "coords": [
+                        140.686134,
+                        35.835191
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "JP-08",
     coords: [140.7, 35.9167],
@@ -150,7 +1752,448 @@ export const poiExtraJapanEconomicV2: POI[] = [
     
      image: "/poi-images/kashima-industrial-zone-economic-v2.webp"},
   {
-    id: "port-of-nagoya-economic-v2",
+    id: "port-of-nagoya-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nakagawa Ward",
+                  "text": "Dieses Verwaltungsgebäude im Hafenbezirk Nagoya regelt die bürgerlichen und administrativen Angelegenheiten für den Bezirk Nakagawa.",
+                  "category": "historical",
+                  "coords": [
+                        136.855079,
+                        35.141591
+                  ]
+            },
+            {
+                  "name": "Observation Tower",
+                  "text": "Dieser hohe Aussichtsturm bietet einen Panoramablick über das weitläufige Gelände des Hafens von Nagoya.",
+                  "category": "landmark",
+                  "coords": [
+                        136.844592,
+                        35.050398
+                  ]
+            },
+            {
+                  "name": "The Dragon",
+                  "text": "\"The Dragon\" ist eine aufregende Achterbahn im Legoland Japan am Hafen von Nagoya, die um eine große Lego-Ritterburg führt.",
+                  "category": "landmark",
+                  "coords": [
+                        136.842842,
+                        35.050049
+                  ]
+            },
+            {
+                  "name": "Fuji Antarctic Museum",
+                  "text": "Das Museumsschiff Fuji im Hafen von Nagoya ist ein historischer Eisbrecher, der Japans Antarktisexpeditionen dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        136.880528,
+                        35.090664
+                  ]
+            },
+            {
+                  "name": "Atsuta Ward",
+                  "text": "Dieses kommunale Verwaltungsgebäude im Großraum des Nagoyaner Hafens regelt die Belange des Bezirks Atsuta.",
+                  "category": "historical",
+                  "coords": [
+                        136.91023,
+                        35.128537
+                  ]
+            },
+            {
+                  "name": "Atsuta Shrine Treasure Hall",
+                  "text": "Dieses Museum auf dem Gelände des Atsuta-Schreins in Nagoya präsentiert eine wertvolle Sammlung historischer Shinto-Artefakte und alter Schwerter.",
+                  "category": "museum",
+                  "coords": [
+                        136.909453,
+                        35.124914
+                  ]
+            },
+            {
+                  "name": "Port of Nagoya Public Aquarium",
+                  "text": "Dieses große Schauaquarium am Hafen von Nagoya beherbergt in seinen riesigen Becken unter anderem Orcas, Belugawale und Pinguine.",
+                  "category": "recreational",
+                  "coords": [
+                        136.878033,
+                        35.09097
+                  ]
+            },
+            {
+                  "name": "Arakogawa Park",
+                  "text": "Dieser weitläufige Flusspark in Nagoya ist bei Einheimischen für seine üppigen Lavendelgärten und schattigen Kirschbäume beliebt.",
+                  "category": "park",
+                  "coords": [
+                        136.861421,
+                        35.100681
+                  ]
+            },
+            {
+                  "name": "SCMAGLEV and Railway Park",
+                  "text": "Dieses Eisenbahnmuseum der JR Central am Hafen von Nagoya stellt historische Dampflokomotiven sowie moderne Shinkansen- und Maglev-Züge aus.",
+                  "category": "museum",
+                  "coords": [
+                        136.851064,
+                        35.048983
+                  ]
+            },
+            {
+                  "name": "Maker’s Pier",
+                  "text": "Maker’s Pier ist ein unter freiem Himmel gelegener Lifestyle-Park und Gewerbekomplex in Küstennähe.",
+                  "category": "park",
+                  "coords": [
+                        136.847183,
+                        35.050538
+                  ]
+            },
+            {
+                  "name": "Jinmeisha",
+                  "text": "Dieser lokale Shinto-Schrein dient der Gemeinde mit seinen traditionellen hölzernen Torii-Toren.",
+                  "category": "landmark",
+                  "coords": [
+                        136.891844,
+                        35.122774
+                  ]
+            },
+            {
+                  "name": "Hakuho-ji",
+                  "text": "Dieser buddhistische Tempel bietet eine friedliche Meditationshalle inmitten der städtischen Umgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        136.888842,
+                        35.120101
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nakagawa Ward",
+                  "text": "Ez a nagojai kikötői negyedben található közigazgatási épület intézi a Nakagawa kerület polgári ügyeit.",
+                  "category": "historical",
+                  "coords": [
+                        136.855079,
+                        35.141591
+                  ]
+            },
+            {
+                  "name": "Observation Tower",
+                  "text": "Ez a magas kilátótorony panorámás kilátást nyújt Nagoja kiterjedt kikötőjére és az öbölre.",
+                  "category": "landmark",
+                  "coords": [
+                        136.844592,
+                        35.050398
+                  ]
+            },
+            {
+                  "name": "The Dragon",
+                  "text": "A \"The Dragon\" egy izgalmas hullámvasút a nagojai Legoland Japan parkban, amely egy hatalmas Lego-lovagvár körül kanyarog.",
+                  "category": "landmark",
+                  "coords": [
+                        136.842842,
+                        35.050049
+                  ]
+            },
+            {
+                  "name": "Fuji Antarctic Museum",
+                  "text": "A Nagoja kikötőjében horgonyzó Fuji múzeumhajó egy történelmi jégtörő, amely Japán antarktiszi expedícióit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        136.880528,
+                        35.090664
+                  ]
+            },
+            {
+                  "name": "Atsuta Ward",
+                  "text": "Ez az önkormányzati közigazgatási épület Nagoja kikötői vonzáskörzetében az Acuta kerület ügyeit intézi.",
+                  "category": "historical",
+                  "coords": [
+                        136.91023,
+                        35.128537
+                  ]
+            },
+            {
+                  "name": "Atsuta Shrine Treasure Hall",
+                  "text": "Az acutai szentély területén található múzeum történelmi sintó ereklyék és ősi kardok értékes gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        136.909453,
+                        35.124914
+                  ]
+            },
+            {
+                  "name": "Port of Nagoya Public Aquarium",
+                  "text": "A nagoja kikötőjében található nagyméretű akvárium hatalmas medencéiben többek között kardszárnyú delfinek, belugák és pingvinek élnek.",
+                  "category": "recreational",
+                  "coords": [
+                        136.878033,
+                        35.09097
+                  ]
+            },
+            {
+                  "name": "Arakogawa Park",
+                  "text": "Ez a kiterjedt folyóparti park Nagojában a helyiek körében buja levendulakertjeiről és árnyékos cseresznyefáiról ismert.",
+                  "category": "park",
+                  "coords": [
+                        136.861421,
+                        35.100681
+                  ]
+            },
+            {
+                  "name": "SCMAGLEV and Railway Park",
+                  "text": "A JR Central vasúti múzeuma Nagoja kikötőjében történelmi gőzmozdonyokat, valamint modern Sinkanszen és maglev vonatok modelljeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        136.851064,
+                        35.048983
+                  ]
+            },
+            {
+                  "name": "Maker’s Pier",
+                  "text": "A Maker’s Pier egy szabadtéri életmód- és bevásárlópark a vízpart közelében.",
+                  "category": "park",
+                  "coords": [
+                        136.847183,
+                        35.050538
+                  ]
+            },
+            {
+                  "name": "Jinmeisha",
+                  "text": "Ez a helyi sintó szentély hagyományos fa torii kapuival szolgálja a közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        136.891844,
+                        35.122774
+                  ]
+            },
+            {
+                  "name": "Hakuho-ji",
+                  "text": "Ez a buddhista templom békés meditációs csarnokot kínál a városi környezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        136.888842,
+                        35.120101
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nakagawa Ward",
+                  "text": "Această clădire administrativă din zona portuară Nagoya gestionează problemele civice pentru cartierul Nakagawa.",
+                  "category": "historical",
+                  "coords": [
+                        136.855079,
+                        35.141591
+                  ]
+            },
+            {
+                  "name": "Observation Tower",
+                  "text": "Acest turn înalt de observație oferă vederi panoramice peste zona extinsă a portului Nagoya și a golfului.",
+                  "category": "landmark",
+                  "coords": [
+                        136.844592,
+                        35.050398
+                  ]
+            },
+            {
+                  "name": "The Dragon",
+                  "text": "„The Dragon” este un montagne russe captivant la Legoland Japonia, în portul Nagoya, care se întinde în jurul unui castel mare din piese Lego.",
+                  "category": "landmark",
+                  "coords": [
+                        136.842842,
+                        35.050049
+                  ]
+            },
+            {
+                  "name": "Fuji Antarctic Museum",
+                  "text": "Nava muzeu Fuji din portul Nagoya este un spărgător de gheață istoric care documentează expedițiile japoneze în Antarctica.",
+                  "category": "museum",
+                  "coords": [
+                        136.880528,
+                        35.090664
+                  ]
+            },
+            {
+                  "name": "Atsuta Ward",
+                  "text": "Această clădire administrativă municipală din zona portuară Nagoya gestionează treburile cartierului Atsuta.",
+                  "category": "historical",
+                  "coords": [
+                        136.91023,
+                        35.128537
+                  ]
+            },
+            {
+                  "name": "Atsuta Shrine Treasure Hall",
+                  "text": "Acest muzeu din incinta Sanctuarului Atsuta din Nagoya prezintă o colecție valoroasă de artefacte istorice șintoiste și săbii antice.",
+                  "category": "museum",
+                  "coords": [
+                        136.909453,
+                        35.124914
+                  ]
+            },
+            {
+                  "name": "Port of Nagoya Public Aquarium",
+                  "text": "Acest mare acvariu public din portul Nagoya găzduiește orci, balene beluga și pinguini în bazinele sale uriașe.",
+                  "category": "recreational",
+                  "coords": [
+                        136.878033,
+                        35.09097
+                  ]
+            },
+            {
+                  "name": "Arakogawa Park",
+                  "text": "Acest parc extins de pe malul râului din Nagoya este iubit de localnici pentru grădinile sale luxuriante de lavandă și cireșii umbroși.",
+                  "category": "park",
+                  "coords": [
+                        136.861421,
+                        35.100681
+                  ]
+            },
+            {
+                  "name": "SCMAGLEV and Railway Park",
+                  "text": "Acest muzeu feroviar al JR Central din portul Nagoya expune locomotive cu aburi istorice alături de trenuri moderne Shinkansen și Maglev.",
+                  "category": "museum",
+                  "coords": [
+                        136.851064,
+                        35.048983
+                  ]
+            },
+            {
+                  "name": "Maker’s Pier",
+                  "text": "Maker’s Pier este un parc în aer liber și un complex comercial situat aproape de malul apei.",
+                  "category": "park",
+                  "coords": [
+                        136.847183,
+                        35.050538
+                  ]
+            },
+            {
+                  "name": "Jinmeisha",
+                  "text": "Acest sanctuar șintoist local servește comunitatea prin porțile sale tradiționale din lemn, torii.",
+                  "category": "landmark",
+                  "coords": [
+                        136.891844,
+                        35.122774
+                  ]
+            },
+            {
+                  "name": "Hakuho-ji",
+                  "text": "Acest templu budist oferă o sală de meditație pașnică în mijlocul mediului urban.",
+                  "category": "landmark",
+                  "coords": [
+                        136.888842,
+                        35.120101
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nakagawa Ward",
+                  "text": "This administrative building in the Nagoya port area manages the civic and municipal affairs for Nakagawa Ward.",
+                  "category": "historical",
+                  "coords": [
+                        136.855079,
+                        35.141591
+                  ]
+            },
+            {
+                  "name": "Observation Tower",
+                  "text": "This tall observation tower offers panoramic views across the expansive grounds of the Port of Nagoya.",
+                  "category": "landmark",
+                  "coords": [
+                        136.844592,
+                        35.050398
+                  ]
+            },
+            {
+                  "name": "The Dragon",
+                  "text": "\"The Dragon\" is an exciting rollercoaster at Legoland Japan in the Port of Nagoya that twists around a large Lego knight's castle.",
+                  "category": "landmark",
+                  "coords": [
+                        136.842842,
+                        35.050049
+                  ]
+            },
+            {
+                  "name": "Fuji Antarctic Museum",
+                  "text": "The Fuji museum ship moored in the Port of Nagoya is a historic icebreaker that documents Japan's Antarctic expeditions.",
+                  "category": "museum",
+                  "coords": [
+                        136.880528,
+                        35.090664
+                  ]
+            },
+            {
+                  "name": "Atsuta Ward",
+                  "text": "This municipal administrative building in the wider Nagoya Port area manages the local affairs for Atsuta Ward.",
+                  "category": "historical",
+                  "coords": [
+                        136.91023,
+                        35.128537
+                  ]
+            },
+            {
+                  "name": "Atsuta Shrine Treasure Hall",
+                  "text": "This museum within Nagoya's Atsuta Shrine grounds displays a valuable collection of historical Shinto artifacts and ancient swords.",
+                  "category": "museum",
+                  "coords": [
+                        136.909453,
+                        35.124914
+                  ]
+            },
+            {
+                  "name": "Port of Nagoya Public Aquarium",
+                  "text": "This large public aquarium at the Port of Nagoya houses orcas, beluga whales, and penguins in its massive marine tanks.",
+                  "category": "recreational",
+                  "coords": [
+                        136.878033,
+                        35.09097
+                  ]
+            },
+            {
+                  "name": "Arakogawa Park",
+                  "text": "This extensive riverside park in Nagoya is popular with locals for its lush lavender gardens and shady cherry trees.",
+                  "category": "park",
+                  "coords": [
+                        136.861421,
+                        35.100681
+                  ]
+            },
+            {
+                  "name": "SCMAGLEV and Railway Park",
+                  "text": "This JR Central railway museum at the Port of Nagoya showcases historic steam locomotives alongside modern Shinkansen and maglev trains.",
+                  "category": "museum",
+                  "coords": [
+                        136.851064,
+                        35.048983
+                  ]
+            },
+            {
+                  "name": "Maker’s Pier",
+                  "text": "Maker’s Pier is an open-air lifestyle park and commercial complex located near the waterfront.",
+                  "category": "park",
+                  "coords": [
+                        136.847183,
+                        35.050538
+                  ]
+            },
+            {
+                  "name": "Jinmeisha",
+                  "text": "This local Shinto shrine serves the community with traditional wooden torii gates.",
+                  "category": "landmark",
+                  "coords": [
+                        136.891844,
+                        35.122774
+                  ]
+            },
+            {
+                  "name": "Hakuho-ji",
+                  "text": "This Buddhist temple offers a peaceful meditation hall amid the urban environment.",
+                  "category": "landmark",
+                  "coords": [
+                        136.888842,
+                        35.120101
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "JP-23",
     coords: [136.881, 35.088],
@@ -199,7 +2242,232 @@ export const poiExtraJapanEconomicV2: POI[] = [
     
      image: "/poi-images/port-of-nagoya-economic-v2.webp"},
   {
-    id: "hitachi-mine-economic-v2",
+    id: "hitachi-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mt. Takasuzu",
+                  "text": "Ein markanter Gipfel im Hitachi-Gebirge, von dem aus man an klaren Tagen den Pazifischen Ozean sehen kann.",
+                  "category": "natural",
+                  "coords": [
+                        140.58782,
+                        36.621093
+                  ]
+            },
+            {
+                  "name": "Bando No.22 Satake-ji",
+                  "text": "Die 22. Station der Bando-Pilgerreise, bekannt für ihre Haupthalle mit einem charakteristischen Strohdach.",
+                  "category": "religious",
+                  "coords": [
+                        140.504678,
+                        36.526039
+                  ]
+            },
+            {
+                  "name": "Seizanso",
+                  "text": "Die einstige Altersresidenz des Fürsten Tokugawa Mitsukuni, die für ihren schlichten, eleganten Garten bekannt ist.",
+                  "category": "museum",
+                  "coords": [
+                        140.506964,
+                        36.541928
+                  ]
+            },
+            {
+                  "name": "Takasuzu Prefectural Natural Park",
+                  "text": "Ein Naturschutzgebiet mit dichten Wäldern und Wanderwegen rund um den Berg Takasuzu.",
+                  "category": "natural",
+                  "coords": [
+                        140.602189,
+                        36.611764
+                  ]
+            },
+            {
+                  "name": "Kamisuwa Shrine",
+                  "text": "Ein traditioneller Shinto-Schrein in Kamisuwa mit klassischer ritueller Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        140.621815,
+                        36.57401
+                  ]
+            },
+            {
+                  "name": "Okubo Kashima Jinja",
+                  "text": "Ein Shinto-Schrein in Okubo, der den Gottheiten der Kashima-Tradition gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        140.622162,
+                        36.554713
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mt. Takasuzu",
+                  "text": "A Hitachi-hegység kiemelkedő csúcsa, ahonnan tiszta napokon a Csendes-óceán is látható.",
+                  "category": "natural",
+                  "coords": [
+                        140.58782,
+                        36.621093
+                  ]
+            },
+            {
+                  "name": "Bando No.22 Satake-ji",
+                  "text": "A Bando-zarándoklat 22. állomása, amely jellegzetes nádtetős csarnokáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        140.504678,
+                        36.526039
+                  ]
+            },
+            {
+                  "name": "Seizanso",
+                  "text": "Tokugawa Micukuni nagyúr egykori visszavonulási helye, amely letisztult, elegáns kertjéről ismert.",
+                  "category": "museum",
+                  "coords": [
+                        140.506964,
+                        36.541928
+                  ]
+            },
+            {
+                  "name": "Takasuzu Prefectural Natural Park",
+                  "text": "Természetvédelmi terület sűrű erdőkkel és túraútvonalakkal a Takasuzu-hegy körül.",
+                  "category": "natural",
+                  "coords": [
+                        140.602189,
+                        36.611764
+                  ]
+            },
+            {
+                  "name": "Kamisuwa Shrine",
+                  "text": "Hagyományos sintó szentély Kamisuwában, klasszikus rituális építészettel.",
+                  "category": "landmark",
+                  "coords": [
+                        140.621815,
+                        36.57401
+                  ]
+            },
+            {
+                  "name": "Okubo Kashima Jinja",
+                  "text": "Okubóban található sintó szentély, amelyet a Kasima-hagyomány isteneinek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        140.622162,
+                        36.554713
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mt. Takasuzu",
+                  "text": "Un vârf proeminent din munții Hitachi, de unde se poate vedea Oceanul Pacific în zilele senine.",
+                  "category": "natural",
+                  "coords": [
+                        140.58782,
+                        36.621093
+                  ]
+            },
+            {
+                  "name": "Bando No.22 Satake-ji",
+                  "text": "A 22-a oprire a pelerinajului Bando, cunoscută pentru sala sa principală cu acoperiș de stuf distinctiv.",
+                  "category": "religious",
+                  "coords": [
+                        140.504678,
+                        36.526039
+                  ]
+            },
+            {
+                  "name": "Seizanso",
+                  "text": "Fosta reședință de retragere a lordului Tokugawa Mitsukuni, cunoscută pentru grădina sa simplă și elegantă.",
+                  "category": "museum",
+                  "coords": [
+                        140.506964,
+                        36.541928
+                  ]
+            },
+            {
+                  "name": "Takasuzu Prefectural Natural Park",
+                  "text": "O rezervație naturală cu păduri dese și trasee de drumeție în jurul muntelui Takasuzu.",
+                  "category": "natural",
+                  "coords": [
+                        140.602189,
+                        36.611764
+                  ]
+            },
+            {
+                  "name": "Kamisuwa Shrine",
+                  "text": "Un sanctuar shintoist tradițional în Kamisuwa, cu arhitectură rituală clasică.",
+                  "category": "landmark",
+                  "coords": [
+                        140.621815,
+                        36.57401
+                  ]
+            },
+            {
+                  "name": "Okubo Kashima Jinja",
+                  "text": "Un sanctuar shintoist în Okubo, dedicat zeităților din tradiția Kashima.",
+                  "category": "landmark",
+                  "coords": [
+                        140.622162,
+                        36.554713
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mt. Takasuzu",
+                  "text": "A prominent peak in the Hitachi mountains from which you can see the Pacific Ocean on clear days.",
+                  "category": "natural",
+                  "coords": [
+                        140.58782,
+                        36.621093
+                  ]
+            },
+            {
+                  "name": "Bando No.22 Satake-ji",
+                  "text": "The 22nd stop on the Bando pilgrimage, known for its main hall featuring a distinctive thatched roof.",
+                  "category": "religious",
+                  "coords": [
+                        140.504678,
+                        36.526039
+                  ]
+            },
+            {
+                  "name": "Seizanso",
+                  "text": "The former retirement residence of Lord Tokugawa Mitsukuni, known for its simple and elegant garden.",
+                  "category": "museum",
+                  "coords": [
+                        140.506964,
+                        36.541928
+                  ]
+            },
+            {
+                  "name": "Takasuzu Prefectural Natural Park",
+                  "text": "A nature reserve featuring dense forests and hiking trails around Mount Takasuzu.",
+                  "category": "natural",
+                  "coords": [
+                        140.602189,
+                        36.611764
+                  ]
+            },
+            {
+                  "name": "Kamisuwa Shrine",
+                  "text": "A traditional Shinto shrine in Kamisuwa featuring classic ritual architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        140.621815,
+                        36.57401
+                  ]
+            },
+            {
+                  "name": "Okubo Kashima Jinja",
+                  "text": "A Shinto shrine in Okubo dedicated to the deities of the Kashima tradition.",
+                  "category": "landmark",
+                  "coords": [
+                        140.622162,
+                        36.554713
+                  ]
+            }
+      ]
+},
     type: "mine",
     parent: "JP-08",
     coords: [140.53, 36.6],
@@ -248,7 +2516,1456 @@ export const poiExtraJapanEconomicV2: POI[] = [
     
      image: "/poi-images/hitachi-mine-economic-v2.webp"},
   {
-    id: "osaka-station-city-trade-hub-v2",
+    id: "osaka-station-city-trade-hub-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gallery Namban",
+                  "text": "Dieses hochspezialisierte Kunstmuseum konzentriert sich auf die frühen europäischen Kontakte mit Japan und stellt exklusiv seltene Namban-Artefakte und -Wandschirme aus.",
+                  "category": "museum",
+                  "coords": [
+                        135.4919,
+                        34.709457
+                  ]
+            },
+            {
+                  "name": "Osaka Museum of Housing and Living",
+                  "text": "Dieses interaktive Kulturmuseum bietet die lebensgroße, begehbare Nachbildung einer Straße aus der Edo-Zeit, die in einem modernen Hochhaus errichtet wurde.",
+                  "category": "museum",
+                  "coords": [
+                        135.511433,
+                        34.710466
+                  ]
+            },
+            {
+                  "name": "Osaka City Sewerage Science Museum",
+                  "text": "Dieses einzigartige Bildungsmuseum widmet sich der städtischen Infrastruktur und nutzt interaktive Wasserausstellungen, um die Technik hinter dem riesigen Abwassersystem der Stadt zu erklären.",
+                  "category": "museum",
+                  "coords": [
+                        135.462465,
+                        34.693465
+                  ]
+            },
+            {
+                  "name": "Amagasaki castle",
+                  "text": "Diese markante japanische Burg, die kürzlich dank der Spende eines lokalen Unternehmers rekonstruiert wurde, verfügt über einen makellosen vierstöckigen Hauptturm.",
+                  "category": "castle",
+                  "coords": [
+                        135.41877,
+                        34.716675
+                  ]
+            },
+            {
+                  "name": "Open-Air Museum Of Old Japanese Farm Houses",
+                  "text": "Dieses in einem weitläufigen Park gelegene Freilichtmuseum bewahrt ein authentisches Dorf mit traditionellen strohgedeckten Bauernhäusern, die aus verschiedenen Regionen Japans hierher umgesiedelt wurden.",
+                  "category": "museum",
+                  "coords": [
+                        135.488664,
+                        34.778994
+                  ]
+            },
+            {
+                  "name": "Amagasaki Shiyakusho",
+                  "text": "Dieses städtische Gebäude fungiert als Verwaltungszentrum der Stadt und ist für seine von Togo Murano entworfene moderne Mid-Century-Architektur bekannt.",
+                  "category": "historical",
+                  "coords": [
+                        135.406356,
+                        34.733545
+                  ]
+            },
+            {
+                  "name": "Nishiyodogawa Word Office",
+                  "text": "Dieses zivile Verwaltungszentrum bietet den Bewohnern des örtlichen Bezirks wichtige Behördendienste und öffentliche Register.",
+                  "category": "historical",
+                  "coords": [
+                        135.456194,
+                        34.711367
+                  ]
+            },
+            {
+                  "name": "Inori no Mori",
+                  "text": "Dieses feierliche Denkmal, dessen Name „Wald des Gebets“ bedeutet, markiert die Stätte der Fukuchiyama-Zugentgleisung von 2005 und bewahrt einen Teil des betroffenen Gebäudes.",
+                  "category": "historical",
+                  "coords": [
+                        135.426723,
+                        34.741092
+                  ]
+            },
+            {
+                  "name": "Kadoma Jinja",
+                  "text": "Von alten Bäumen beschattet, dient dieser traditionelle Shinto-Schrein als spiritueller Anker für die umliegende lokale Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        135.577886,
+                        34.738937
+                  ]
+            },
+            {
+                  "name": "ABC",
+                  "text": "Diese von der Asahi Broadcasting Corporation betriebene moderne Veranstaltungshalle ist Austragungsort für eine Vielzahl von Theaterproduktionen und Live-Fernsehaufzeichnungen.",
+                  "category": "cultural",
+                  "coords": [
+                        135.488453,
+                        34.69362
+                  ]
+            },
+            {
+                  "name": "Osaka Shiki Musical Theater",
+                  "text": "Dieser spezialisierte Veranstaltungsort im Herbis Plaza ENT-Komplex ist die ständige lokale Bühne für die im Broadway-Stil inszenierten Musicals der renommierten Shiki Theatre Company.",
+                  "category": "cultural",
+                  "coords": [
+                        135.494755,
+                        34.699818
+                  ]
+            },
+            {
+                  "name": "HEP Hall",
+                  "text": "Dieser vielseitige Veranstaltungsraum befindet sich in den oberen Etagen des berühmten HEP Five-Einkaufskomplexes und ist regelmäßig Schauplatz für jugendorientierte Theaterstücke und Live-Musik.",
+                  "category": "cultural",
+                  "coords": [
+                        135.499851,
+                        34.703798
+                  ]
+            },
+            {
+                  "name": "The Symphony Hall",
+                  "text": "Dieser prestigeträchtige Saal, der 1982 als erster eigens für klassische Musik erbauter Veranstaltungsort Japans eröffnet wurde, ist international für seinen makellosen zweisekündigen akustischen Nachhall bekannt.",
+                  "category": "cultural",
+                  "coords": [
+                        135.486052,
+                        34.701423
+                  ]
+            },
+            {
+                  "name": "Saizenji Temple",
+                  "text": "Dieser buddhistische Tempel im Viertel besticht durch klassisch geschwungene Traufen und dient als ruhiger Ort für spirituelle Kontemplation inmitten der städtischen Umgebung.",
+                  "category": "religious",
+                  "coords": [
+                        135.496116,
+                        34.706113
+                  ]
+            },
+            {
+                  "name": "Tsuyuno Tenjin Shrine",
+                  "text": "Dieser städtische Shinto-Schrein, umgangssprachlich Ohatsu Tenjin genannt, ist als realer Schauplatz eines tragischen Puppenspiels aus dem 18. Jahrhundert über verurteilte Liebende bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        135.500869,
+                        34.699151
+                  ]
+            },
+            {
+                  "name": "Umeda Arts Theater",
+                  "text": "Dieser große Kulturkomplex, der aus einem massiven Hauptsaal und einem intimen Black-Box-Raum besteht, ist häufig Schauplatz für schillernde Aufführungen der rein weiblichen Takarazuka Revue.",
+                  "category": "cultural",
+                  "coords": [
+                        135.499004,
+                        34.708584
+                  ]
+            },
+            {
+                  "name": "Genkoji Temple",
+                  "text": "Dieser unaufdringliche städtische Tempel widmet sich den Traditionen des Reines-Land-Buddhismus und bietet einen ruhigen, vom umliegenden Stadtverkehr abgeschirmten Innenhof.",
+                  "category": "religious",
+                  "coords": [
+                        135.501298,
+                        34.71003
+                  ]
+            },
+            {
+                  "name": "Sumiyoshi shrine",
+                  "text": "Dieser traditionelle, den Meeresgottheiten gewidmete Shinto-Schrein ist tief mit der lokalen Folklore verwoben, insbesondere mit der Legende vom Opfer eines Mädchens zur Besänftigung der Wassergeister.",
+                  "category": "religious",
+                  "coords": [
+                        135.462935,
+                        34.709474
+                  ]
+            },
+            {
+                  "name": "Amagasaki Public Wgolesale Market",
+                  "text": "Dieser weitläufige Großmarkt fungiert als wichtiges regionales Lebensmittelzentrum und erwacht vor dem Morgengrauen zum Leben, wenn die Händler frische Meeresfrüchte und saisonale Produkte versteigern.",
+                  "category": "cultural",
+                  "coords": [
+                        135.425123,
+                        34.73838
+                  ]
+            },
+            {
+                  "name": "Kurahashi sosha Shrine",
+                  "text": "Der lokalen Folklore zufolge haben die Gottheiten dieses alten Shinto-Schreins eine besondere Verbindung zu Karpfen, weshalb Generationen frommer Gläubiger auf den Verzehr dieses Fisches verzichten.",
+                  "category": "religious",
+                  "coords": [
+                        135.460725,
+                        34.743374
+                  ]
+            },
+            {
+                  "name": "Takahama Shrine",
+                  "text": "Versteckt in einem Wohnviertel, wird dieses ehrwürdige Shinto-Heiligtum von großen steinernen Torii-Toren und majestätischen, jahrhundertealten Bäumen geprägt.",
+                  "category": "religious",
+                  "coords": [
+                        135.527025,
+                        34.758666
+                  ]
+            },
+            {
+                  "name": "Ohmiya Shrine",
+                  "text": "Dieser lokale Shinto-Schrein ist historischen Persönlichkeiten wie dem tragischen Helden Minamoto no Yoshitsune gewidmet und bewahrt Samurai-Legenden in seinen ruhigen hölzernen Hallen.",
+                  "category": "religious",
+                  "coords": [
+                        135.54703,
+                        34.742039
+                  ]
+            },
+            {
+                  "name": "Water World",
+                  "text": "Basierend auf dem Sci-Fi-Film von 1995, begeistert diese spektakuläre Live-Action-Stuntshow die Freizeitparkbesucher mit feurigen Explosionen, herabstürzenden Wasserflugzeugen und rasanten Jetski-Jagden.",
+                  "category": "landmark",
+                  "coords": [
+                        135.429752,
+                        34.666768
+                  ]
+            },
+            {
+                  "name": "Harry Potter and The Forbidden Journey in 4K3D",
+                  "text": "In einer hoch aufragenden Nachbildung von Schloss Hogwarts untergebracht, nutzt diese hochmoderne Themenfahrt fortschrittliche Roboterarmtechnologie, um das Gefühl des Fliegens auf einem magischen Besen zu simulieren.",
+                  "category": "landmark",
+                  "coords": [
+                        135.43163,
+                        34.668837
+                  ]
+            },
+            {
+                  "name": "Mario Kart: Koopa's Challenge",
+                  "text": "Diese interaktive Fahrt tief im Inneren einer Nachbildung von Bowsers Festung verbindet physische Kulissen mit Augmented-Reality-Brillen, sodass die Gäste steuern und virtuelle Panzer werfen können.",
+                  "category": "landmark",
+                  "coords": [
+                        135.42987,
+                        34.668051
+                  ]
+            },
+            {
+                  "name": "Konohana ōhashi Bridge",
+                  "text": "Diese markante, selbstverankerte Hängebrücke überspannt die Hafengewässer der Stadt und bietet eine wichtige Straßenverbindung zu den künstlich aufgeschütteten Inseln.",
+                  "category": "landmark",
+                  "coords": [
+                        135.412489,
+                        34.666568
+                  ]
+            },
+            {
+                  "name": "Tsuneyoshi Ohashi Bridge",
+                  "text": "Diese funktionale Überführung über das Wasser wird von robusten Stahlpfeilern gestützt und erleichtert den schweren Industrieverkehr zwischen dem Festland und den geschäftigen Hafenanlagen.",
+                  "category": "landmark",
+                  "coords": [
+                        135.408049,
+                        34.670972
+                  ]
+            },
+            {
+                  "name": "Miyakojima Bridge",
+                  "text": "Diese ursprünglich 1956 fertiggestellte, robuste Stahlträgerbrücke bietet eine wichtige Straßenverbindung über den ruhigen Lauf des Okawa-Flusses.",
+                  "category": "landmark",
+                  "coords": [
+                        135.518363,
+                        34.708571
+                  ]
+            },
+            {
+                  "name": "Kema Bridge",
+                  "text": "Diese 1979 eröffnete, funktionale Brücke mit mehreren Spannweiten verbindet benachbarte Stadtbezirke und bietet Fußgängerwege mit Blick auf den breiten Flusslauf.",
+                  "category": "landmark",
+                  "coords": [
+                        135.519439,
+                        34.717603
+                  ]
+            },
+            {
+                  "name": "Toyosato-Ohashi Bridge",
+                  "text": "Diese markante Schrägseilbrücke ist an ihren hoch aufragenden A-förmigen Pylonen erkennbar und leitet starken Pendlerverkehr direkt über den breiten Fluss Yodo.",
+                  "category": "landmark",
+                  "coords": [
+                        135.55116,
+                        34.736833
+                  ]
+            },
+            {
+                  "name": "juusou bridge",
+                  "text": "Diese beständige Brücke aus dem Jahr 1932 ist mit klassischen, stählernen Stabbögen gestaltet und dient als wichtige historische Verkehrsader über den Fluss Yodo.",
+                  "category": "landmark",
+                  "coords": [
+                        135.486104,
+                        34.714117
+                  ]
+            },
+            {
+                  "name": "Higastakasubashi",
+                  "text": "Diese Brücke bildet eine wichtige Verkehrsverbindung über die Wasserstraßen rund um Osaka.",
+                  "category": "landmark",
+                  "coords": [
+                        135.409455,
+                        34.704942
+                  ]
+            },
+            {
+                  "name": "Shimo-fukushima Park",
+                  "text": "Dieser weitläufige Park bietet einen grünen Rückzugsort inmitten der dichten städtischen Landschaft Osakas.",
+                  "category": "park",
+                  "coords": [
+                        135.482654,
+                        34.690584
+                  ]
+            },
+            {
+                  "name": "Nishi-Umeda Park",
+                  "text": "Eine friedliche Parkanlage, die einen ruhigen Ruheplatz inmitten von Osakas belebten Geschäftsvierteln bietet.",
+                  "category": "park",
+                  "coords": [
+                        135.491104,
+                        34.697554
+                  ]
+            },
+            {
+                  "name": "Ōgimachi Park",
+                  "text": "Dieser beliebte Park in Osaka ist bekannt für seine weiten Freiflächen und Freizeiteinrichtungen in der Nähe des Stadtzentrums.",
+                  "category": "park",
+                  "coords": [
+                        135.509014,
+                        34.703986
+                  ]
+            },
+            {
+                  "name": "Buson Park",
+                  "text": "Dieser im April 2009 eröffnete Park bringt einen modernen Erholungsraum in die Gegend von Osaka.",
+                  "category": "park",
+                  "coords": [
+                        135.519949,
+                        34.718848
+                  ]
+            },
+            {
+                  "name": "Shirokita Park",
+                  "text": "Dieser malerische Park in Osaka bietet Ausblicke auf den Fluss und saisonale Blumenarrangements.",
+                  "category": "park",
+                  "coords": [
+                        135.538146,
+                        34.729563
+                  ]
+            },
+            {
+                  "name": "Daimotsu Park",
+                  "text": "Ein lokaler öffentlicher Park in der Region Osaka, der Freiflächen für die Erholung der Gemeinde bietet.",
+                  "category": "park",
+                  "coords": [
+                        135.428395,
+                        34.718065
+                  ]
+            },
+            {
+                  "name": "Zero Carbon Baseball Park",
+                  "text": "Dieser innovative Sportpark in Osaka wird im März 2025 eröffnet und konzentriert sich auf umweltfreundliche Infrastruktur.",
+                  "category": "park",
+                  "coords": [
+                        135.430521,
+                        34.71579
+                  ]
+            },
+            {
+                  "name": "Harada",
+                  "text": "Dieser Park, der als Skyland Harada bekannt ist, bietet eine hervorragende Aussicht auf startende und landende Flugzeuge am nahegelegenen Flughafen Osaka.",
+                  "category": "park",
+                  "coords": [
+                        135.444093,
+                        34.773921
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gallery Namban",
+                  "text": "A Japánnal való korai európai kapcsolatokra fókuszáló, rendkívül specializált művészeti múzeum kizárólag ritka nanban leleteket és paravánokat állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        135.4919,
+                        34.709457
+                  ]
+            },
+            {
+                  "name": "Osaka Museum of Housing and Living",
+                  "text": "Ez a magával ragadó kulturális múzeum egy Edo-kori utcakép életnagyságú, bejárható másolatát rejti egy modern toronyház belsejében.",
+                  "category": "museum",
+                  "coords": [
+                        135.511433,
+                        34.710466
+                  ]
+            },
+            {
+                  "name": "Osaka City Sewerage Science Museum",
+                  "text": "A városi infrastruktúrának szentelt egyedülálló oktatási múzeum interaktív vizes kiállításokkal mutatja be a város hatalmas csatornahálózatának mérnöki hátterét.",
+                  "category": "museum",
+                  "coords": [
+                        135.462465,
+                        34.693465
+                  ]
+            },
+            {
+                  "name": "Amagasaki castle",
+                  "text": "A nemrégiben egy helyi vállalkozó adományából újjáépített, lenyűgöző japán kastély egy makulátlan, négyszintes főtoronnyal büszkélkedhet.",
+                  "category": "castle",
+                  "coords": [
+                        135.41877,
+                        34.716675
+                  ]
+            },
+            {
+                  "name": "Open-Air Museum Of Old Japanese Farm Houses",
+                  "text": "Egy tágas parkban található ez a szabadtéri múzeum, amely Japán különböző régióiból áttelepített hagyományos, nádtetős parasztházak autentikus faluját őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        135.488664,
+                        34.778994
+                  ]
+            },
+            {
+                  "name": "Amagasaki Shiyakusho",
+                  "text": "A város közigazgatási központjaként funkcionáló önkormányzati épület Togo Murano által tervezett, századközepi modern építészetéről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        135.406356,
+                        34.733545
+                  ]
+            },
+            {
+                  "name": "Nishiyodogawa Word Office",
+                  "text": "Ez a közigazgatási civil központ alapvető kormányzati szolgáltatásokat és közhiteles nyilvántartásokat biztosít a helyi kerület lakosai számára.",
+                  "category": "historical",
+                  "coords": [
+                        135.456194,
+                        34.711367
+                  ]
+            },
+            {
+                  "name": "Inori no Mori",
+                  "text": "Az \"Imádság erdeje\" nevet viselő ünnepélyes emlékmű a 2005-ös fukucsijamai vonatkisiklás helyszínét jelöli, és az érintett épület egy részét is megőrzi.",
+                  "category": "historical",
+                  "coords": [
+                        135.426723,
+                        34.741092
+                  ]
+            },
+            {
+                  "name": "Kadoma Jinja",
+                  "text": "Az öreg fák árnyékában megbúvó hagyományos sintó szentély spirituális támaszként szolgál a környező helyi közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        135.577886,
+                        34.738937
+                  ]
+            },
+            {
+                  "name": "ABC",
+                  "text": "Az Asahi Broadcasting Corporation által üzemeltetett modern előadóterem különféle színházi produkcióknak és élő televíziós felvételeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        135.488453,
+                        34.69362
+                  ]
+            },
+            {
+                  "name": "Osaka Shiki Musical Theater",
+                  "text": "A Herbis Plaza ENT komplexumban található speciális helyszín a neves Shiki Színtársulat Broadway stílusú musicaljeinek állandó helyi színpada.",
+                  "category": "cultural",
+                  "coords": [
+                        135.494755,
+                        34.699818
+                  ]
+            },
+            {
+                  "name": "HEP Hall",
+                  "text": "Az ikonikus HEP Five bevásárlóközpont felső emeletein található sokoldalú rendezvénytér rendszeresen ad otthont ifjúsági színdaraboknak és élő zenei koncerteknek.",
+                  "category": "cultural",
+                  "coords": [
+                        135.499851,
+                        34.703798
+                  ]
+            },
+            {
+                  "name": "The Symphony Hall",
+                  "text": "A Japán első, kifejezetten klasszikus zenei célokra épült létesítményeként 1982-ben megnyílt tekintélyes terem nemzetközileg ismert hibátlan, két másodperces akusztikai utózengéséről.",
+                  "category": "cultural",
+                  "coords": [
+                        135.486052,
+                        34.701423
+                  ]
+            },
+            {
+                  "name": "Saizenji Temple",
+                  "text": "Ez a kerületi buddhista templom klasszikusan ívelt ereszekkel büszkélkedhet, és csendes teret biztosít a spirituális elmélkedéshez a városi környezetben.",
+                  "category": "religious",
+                  "coords": [
+                        135.496116,
+                        34.706113
+                  ]
+            },
+            {
+                  "name": "Tsuyuno Tenjin Shrine",
+                  "text": "A köznyelvben Ohatsu Tenjinként emlegetett városi sintó szentély egy 18. századi, tragikus sorsú szerelmesekről szóló bábelőadás valós helyszíneként vált híressé.",
+                  "category": "religious",
+                  "coords": [
+                        135.500869,
+                        34.699151
+                  ]
+            },
+            {
+                  "name": "Umeda Arts Theater",
+                  "text": "A hatalmas főtermet és egy intim kamaratermet magában foglaló nagy kulturális komplexum gyakran ad otthont a kizárólag nőkből álló Takarazuka Revue csillogó előadásainak.",
+                  "category": "cultural",
+                  "coords": [
+                        135.499004,
+                        34.708584
+                  ]
+            },
+            {
+                  "name": "Genkoji Temple",
+                  "text": "A Tiszta Föld buddhista hagyományoknak szentelt visszafogott városi templom a környező városi forgalomtól elzárt, békés belső udvarral rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        135.501298,
+                        34.71003
+                  ]
+            },
+            {
+                  "name": "Sumiyoshi shrine",
+                  "text": "A tengeri istenségeknek szentelt hagyományos sintó szentély mélyen gyökerezik a helyi folklórban, különösen a vízi szellemek lecsendesítésére hozott leányáldozat legendájában.",
+                  "category": "religious",
+                  "coords": [
+                        135.462935,
+                        34.709474
+                  ]
+            },
+            {
+                  "name": "Amagasaki Public Wgolesale Market",
+                  "text": "A létfontosságú regionális élelmiszerközpontként működő, kiterjedt nagykereskedelmi piac már hajnal előtt felébred, amikor az árusok friss tenger gyümölcseit és szezonális termékeket árvereznek.",
+                  "category": "cultural",
+                  "coords": [
+                        135.425123,
+                        34.73838
+                  ]
+            },
+            {
+                  "name": "Kurahashi sosha Shrine",
+                  "text": "A helyi folklór szerint ezen ősi sintó szentély istenségei különleges kapcsolatban állnak a pontyokkal, ami arra készteti a hűséges hívők generációit, hogy tartózkodjanak a hal fogyasztásától.",
+                  "category": "religious",
+                  "coords": [
+                        135.460725,
+                        34.743374
+                  ]
+            },
+            {
+                  "name": "Takahama Shrine",
+                  "text": "A lakóövezetben megbúvó tiszteletre méltó sintó szentélyt hatalmas kő torii kapuk és fenséges, évszázados fák szegélyezik.",
+                  "category": "religious",
+                  "coords": [
+                        135.527025,
+                        34.758666
+                  ]
+            },
+            {
+                  "name": "Ohmiya Shrine",
+                  "text": "A történelmi személyiségeknek, köztük a tragikus sorsú hősnek, Minamoto no Yoshitsunének szentelt helyi sintó szentély csendes facsarnokaiban őrzi a szamurájlegendákat.",
+                  "category": "religious",
+                  "coords": [
+                        135.54703,
+                        34.742039
+                  ]
+            },
+            {
+                  "name": "Water World",
+                  "text": "Az 1995-ös sci-fi film alapján készült látványos, élőszereplős kaszkadőrshow tüzes robbanásokkal, zuhanó hidroplánokkal és nagy sebességű jetski-üldözésekkel nyűgözi le a vidámpark vendégeit.",
+                  "category": "landmark",
+                  "coords": [
+                        135.429752,
+                        34.666768
+                  ]
+            },
+            {
+                  "name": "Harry Potter and The Forbidden Journey in 4K3D",
+                  "text": "A Roxfort kastély magasodó másolatában található élvonalbeli sötét hullámvasút fejlett robotkar-technológiát használ a varázsseprűn való repülés érzésének szimulálására.",
+                  "category": "landmark",
+                  "coords": [
+                        135.43163,
+                        34.668837
+                  ]
+            },
+            {
+                  "name": "Mario Kart: Koopa's Challenge",
+                  "text": "A Bowser kastélyának mélyén található interaktív attrakció fizikai díszleteket ötvöz kiterjesztett valóság szemüvegekkel, így a vendégek maguk kormányozhatnak és virtuális teknőspáncélokat dobálhatnak.",
+                  "category": "landmark",
+                  "coords": [
+                        135.42987,
+                        34.668051
+                  ]
+            },
+            {
+                  "name": "Konohana ōhashi Bridge",
+                  "text": "A város kikötői vizeit átívelő lenyűgöző, önhorgonyzó függőhíd kulcsfontosságú közúti kapcsolatot biztosít a mesterségesen feltöltött szigetekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        135.412489,
+                        34.666568
+                  ]
+            },
+            {
+                  "name": "Tsuneyoshi Ohashi Bridge",
+                  "text": "A robusztus acélpilléreken nyugvó, funkcionális vízi átkelő megkönnyíti a nehéz ipari forgalmat a szárazföld és a nyüzsgő kikötői létesítmények között.",
+                  "category": "landmark",
+                  "coords": [
+                        135.408049,
+                        34.670972
+                  ]
+            },
+            {
+                  "name": "Miyakojima Bridge",
+                  "text": "Az eredetileg 1956-ban átadott, robusztus acélgerendás híd létfontosságú útvonalat biztosít a békésen csörgedező Okawa folyó felett.",
+                  "category": "landmark",
+                  "coords": [
+                        135.518363,
+                        34.708571
+                  ]
+            },
+            {
+                  "name": "Kema Bridge",
+                  "text": "Az 1979-ben megnyílt funkcionális, többtámaszú híd szomszédos városrészeket köt össze, miközben a széles folyóra néző gyalogos sétányokat is kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        135.519439,
+                        34.717603
+                  ]
+            },
+            {
+                  "name": "Toyosato-Ohashi Bridge",
+                  "text": "A tornyosuló, A alakú pilonjairól felismerhető látványos ferdekábeles híd a sűrű ingázó forgalmat egyenesen a széles Yodo folyó felett vezeti át.",
+                  "category": "landmark",
+                  "coords": [
+                        135.55116,
+                        34.736833
+                  ]
+            },
+            {
+                  "name": "juusou bridge",
+                  "text": "A klasszikus alsópályás acélívekkel tervezett, 1932-ből származó tartós híd jelentős történelmi közlekedési ütőérként szolgál a Yodo folyón keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        135.486104,
+                        34.714117
+                  ]
+            },
+            {
+                  "name": "Higastakasubashi",
+                  "text": "Ez a híd fontos közlekedési kapcsolatot teremt Oszaka környéki vízi útjai felett.",
+                  "category": "landmark",
+                  "coords": [
+                        135.409455,
+                        34.704942
+                  ]
+            },
+            {
+                  "name": "Shimo-fukushima Park",
+                  "text": "Ez a kiterjedt park zöld menedéket kínál Oszaka sűrű városi tájában.",
+                  "category": "park",
+                  "coords": [
+                        135.482654,
+                        34.690584
+                  ]
+            },
+            {
+                  "name": "Nishi-Umeda Park",
+                  "text": "Békés parkterület, amely csendes pihenőhelyet biztosít Oszaka nyüzsgő üzleti negyedei közepette.",
+                  "category": "park",
+                  "coords": [
+                        135.491104,
+                        34.697554
+                  ]
+            },
+            {
+                  "name": "Ōgimachi Park",
+                  "text": "Ez a népszerű oszakai park széles nyitott tereiről és a városközpont közelében lévő szabadidős létesítményeiről ismert.",
+                  "category": "park",
+                  "coords": [
+                        135.509014,
+                        34.703986
+                  ]
+            },
+            {
+                  "name": "Buson Park",
+                  "text": "A 2009 áprilisában alapított park modern rekreációs teret hoz Oszaka környékére.",
+                  "category": "park",
+                  "coords": [
+                        135.519949,
+                        34.718848
+                  ]
+            },
+            {
+                  "name": "Shirokita Park",
+                  "text": "Ez a festői oszakai park folyóparti kilátást és szezonális virágkompozíciókat kínál.",
+                  "category": "park",
+                  "coords": [
+                        135.538146,
+                        34.729563
+                  ]
+            },
+            {
+                  "name": "Daimotsu Park",
+                  "text": "Helyi nyilvános park Oszaka régiójában, amely nyitott tereket biztosít a közösségi kikapcsolódáshoz.",
+                  "category": "park",
+                  "coords": [
+                        135.428395,
+                        34.718065
+                  ]
+            },
+            {
+                  "name": "Zero Carbon Baseball Park",
+                  "text": "A 2025 márciusában nyíló innovatív oszakai sportpark a környezetbarát infrastruktúrára összpontosít.",
+                  "category": "park",
+                  "coords": [
+                        135.430521,
+                        34.71579
+                  ]
+            },
+            {
+                  "name": "Harada",
+                  "text": "A Skyland Harada néven ismert park kiváló kilátást nyújt a közeli oszakai repülőtéren fel- és leszálló repülőgépekre.",
+                  "category": "park",
+                  "coords": [
+                        135.444093,
+                        34.773921
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gallery Namban",
+                  "text": "Concentrându-se pe primele contacte europene cu Japonia, acest muzeu de artă extrem de specializat expune exclusiv artefacte și paravane rare Namban.",
+                  "category": "museum",
+                  "coords": [
+                        135.4919,
+                        34.709457
+                  ]
+            },
+            {
+                  "name": "Osaka Museum of Housing and Living",
+                  "text": "Acest muzeu cultural captivant prezintă o recreere în mărime naturală a unui peisaj stradal din perioada Edo, construită în interiorul unui zgârie-nori modern.",
+                  "category": "museum",
+                  "coords": [
+                        135.511433,
+                        34.710466
+                  ]
+            },
+            {
+                  "name": "Osaka City Sewerage Science Museum",
+                  "text": "Dedicat infrastructurii urbane, acest muzeu educațional unic folosește exponate interactive cu apă pentru a explica ingineria din spatele vastei rețele de canalizare a orașului.",
+                  "category": "museum",
+                  "coords": [
+                        135.462465,
+                        34.693465
+                  ]
+            },
+            {
+                  "name": "Amagasaki castle",
+                  "text": "Reconstruit recent datorită donației unui antreprenor local, acest castel japonez impresionant prezintă un turn principal imaculat cu patru niveluri.",
+                  "category": "castle",
+                  "coords": [
+                        135.41877,
+                        34.716675
+                  ]
+            },
+            {
+                  "name": "Open-Air Museum Of Old Japanese Farm Houses",
+                  "text": "Situat într-un parc spațios, acest muzeu în aer liber păstrează un sat autentic de ferme tradiționale cu acoperiș de paie, aduse din diverse regiuni ale Japoniei.",
+                  "category": "museum",
+                  "coords": [
+                        135.488664,
+                        34.778994
+                  ]
+            },
+            {
+                  "name": "Amagasaki Shiyakusho",
+                  "text": "Funcționând ca centru administrativ al orașului, această clădire municipală este remarcată pentru arhitectura sa modernă de la mijlocul secolului, proiectată de Togo Murano.",
+                  "category": "historical",
+                  "coords": [
+                        135.406356,
+                        34.733545
+                  ]
+            },
+            {
+                  "name": "Nishiyodogawa Word Office",
+                  "text": "Acest centru civic administrativ oferă servicii guvernamentale esențiale și registre publice pentru rezidenții sectorului local.",
+                  "category": "historical",
+                  "coords": [
+                        135.456194,
+                        34.711367
+                  ]
+            },
+            {
+                  "name": "Inori no Mori",
+                  "text": "Tradus ca „Pădurea Rugăciunii”, acest memorial solemn marchează locul deraierii trenului Fukuchiyama din 2005 și păstrează o secțiune a clădirii afectate.",
+                  "category": "historical",
+                  "coords": [
+                        135.426723,
+                        34.741092
+                  ]
+            },
+            {
+                  "name": "Kadoma Jinja",
+                  "text": "Umbrita de copaci maturi, acest altar șintoist tradițional servește drept ancoră spirituală pentru comunitatea locală din jur.",
+                  "category": "religious",
+                  "coords": [
+                        135.577886,
+                        34.738937
+                  ]
+            },
+            {
+                  "name": "ABC",
+                  "text": "Operată de Asahi Broadcasting Corporation, această sală modernă de spectacole găzduiește o varietate de producții teatrale și înregistrări de televiziune în direct.",
+                  "category": "cultural",
+                  "coords": [
+                        135.488453,
+                        34.69362
+                  ]
+            },
+            {
+                  "name": "Osaka Shiki Musical Theater",
+                  "text": "Situată în complexul Herbis Plaza ENT, această locație specializată este scena locală permanentă pentru musicalurile în stil Broadway ale renumitei Shiki Theatre Company.",
+                  "category": "cultural",
+                  "coords": [
+                        135.494755,
+                        34.699818
+                  ]
+            },
+            {
+                  "name": "HEP Hall",
+                  "text": "Situat la etajele superioare ale emblematicului complex comercial HEP Five, acest spațiu versatil pentru evenimente găzduiește cu regularitate piese de teatru pentru tineri și muzică live.",
+                  "category": "cultural",
+                  "coords": [
+                        135.499851,
+                        34.703798
+                  ]
+            },
+            {
+                  "name": "The Symphony Hall",
+                  "text": "Deschisă în 1982 ca primă locație din Japonia construită special pentru muzica clasică, această sală prestigioasă este renumită la nivel internațional pentru reverberația sa acustică impecabilă de două secunde.",
+                  "category": "cultural",
+                  "coords": [
+                        135.486052,
+                        34.701423
+                  ]
+            },
+            {
+                  "name": "Saizenji Temple",
+                  "text": "Acest templu budist de cartier prezintă streșini curbate clasice și servește ca un spațiu liniștit pentru contemplare spirituală în mijlocul împrejurimilor urbane.",
+                  "category": "religious",
+                  "coords": [
+                        135.496116,
+                        34.706113
+                  ]
+            },
+            {
+                  "name": "Tsuyuno Tenjin Shrine",
+                  "text": "Cunoscut colocvial sub numele de Ohatsu Tenjin, acest altar șintoist urban este faimos ca decor real al unei piese de teatru de păpuși tragice din secolul al XVIII-lea despre iubiți damnați.",
+                  "category": "religious",
+                  "coords": [
+                        135.500869,
+                        34.699151
+                  ]
+            },
+            {
+                  "name": "Umeda Arts Theater",
+                  "text": "Cuprinzând o sală principală masivă și un spațiu intim de tip black-box, acest complex cultural major găzduiește frecvent spectacole strălucitoare ale trupei exclusiv feminine Takarazuka Revue.",
+                  "category": "cultural",
+                  "coords": [
+                        135.499004,
+                        34.708584
+                  ]
+            },
+            {
+                  "name": "Genkoji Temple",
+                  "text": "Dedicat tradițiilor budiste ale Tărâmului Pur, acest templu urban discret oferă o curte interioară senină, ferită de traficul urban înconjurător.",
+                  "category": "religious",
+                  "coords": [
+                        135.501298,
+                        34.71003
+                  ]
+            },
+            {
+                  "name": "Sumiyoshi shrine",
+                  "text": "Dedicat zeităților mării, acest altar șintoist tradițional este profund împletit în folclorul local, în special într-o poveste legendară despre sacrificiul unei fecioare pentru a potoli spiritele apei.",
+                  "category": "religious",
+                  "coords": [
+                        135.462935,
+                        34.709474
+                  ]
+            },
+            {
+                  "name": "Amagasaki Public Wgolesale Market",
+                  "text": "Funcționând ca un hub alimentar regional vital, această piață angro extinsă se trezește înainte de zori, pe măsură ce vânzătorii scot la licitație fructe de mare proaspete și produse de sezon.",
+                  "category": "cultural",
+                  "coords": [
+                        135.425123,
+                        34.73838
+                  ]
+            },
+            {
+                  "name": "Kurahashi sosha Shrine",
+                  "text": "Conform folclorului local, zeitățile acestui altar șintoist antic au o legătură specială cu crapii, determinând generații de credincioși devotați să se abțină de la consumul acestui pește.",
+                  "category": "religious",
+                  "coords": [
+                        135.460725,
+                        34.743374
+                  ]
+            },
+            {
+                  "name": "Takahama Shrine",
+                  "text": "Ascuns într-un cartier rezidențial, acest venerabil sanctuar șintoist este ancorat de porți mari torii din piatră și copaci maiestuoși vechi de secole.",
+                  "category": "religious",
+                  "coords": [
+                        135.527025,
+                        34.758666
+                  ]
+            },
+            {
+                  "name": "Ohmiya Shrine",
+                  "text": "Dedicat unor figuri istorice, inclusiv eroului tragic Minamoto no Yoshitsune, acest altar șintoist local păstrează legende ale samurailor în sălile sale liniștite din lemn.",
+                  "category": "religious",
+                  "coords": [
+                        135.54703,
+                        34.742039
+                  ]
+            },
+            {
+                  "name": "Water World",
+                  "text": "Bazat pe filmul SF din 1995, acest spectaculos spectacol de cascadorii live entuziasmează vizitatorii parcului de distracții cu explozii de foc, hidroavioane care se prăbușesc și urmăriri de mare viteză cu jet ski-uri.",
+                  "category": "landmark",
+                  "coords": [
+                        135.429752,
+                        34.666768
+                  ]
+            },
+            {
+                  "name": "Harry Potter and The Forbidden Journey in 4K3D",
+                  "text": "Găzduită în interiorul unei replici impunătoare a Castelului Hogwarts, această plimbare întunecată de ultimă generație folosește tehnologia avansată a brațelor robotice pentru a simula senzația zborului pe o mătură magică.",
+                  "category": "landmark",
+                  "coords": [
+                        135.43163,
+                        34.668837
+                  ]
+            },
+            {
+                  "name": "Mario Kart: Koopa's Challenge",
+                  "text": "Situată adânc în interiorul unei recreeri a castelului lui Bowser, această cursă interactivă îmbină decorurile fizice cu ochelari de realitate augmentată, astfel încât oaspeții să poată vira și arunca obuze virtuale.",
+                  "category": "landmark",
+                  "coords": [
+                        135.42987,
+                        34.668051
+                  ]
+            },
+            {
+                  "name": "Konohana ōhashi Bridge",
+                  "text": "Traversând apele portului orașului, acest impresionant pod suspendat auto-ancorat oferă o legătură rutieră crucială către insulele artificiale recuperate din mare.",
+                  "category": "landmark",
+                  "coords": [
+                        135.412489,
+                        34.666568
+                  ]
+            },
+            {
+                  "name": "Tsuneyoshi Ohashi Bridge",
+                  "text": "Susținut de piloni de oțel robuști, acest pasaj suprateran funcțional peste apă facilitează traficul industrial greu între continent și instalațiile portuare aglomerate.",
+                  "category": "landmark",
+                  "coords": [
+                        135.408049,
+                        34.670972
+                  ]
+            },
+            {
+                  "name": "Miyakojima Bridge",
+                  "text": "Finalizat inițial în 1956, acest pod robust din grinzi de oțel oferă o șosea vitală peste curgerea liniștită a râului Okawa.",
+                  "category": "landmark",
+                  "coords": [
+                        135.518363,
+                        34.708571
+                  ]
+            },
+            {
+                  "name": "Kema Bridge",
+                  "text": "Deschis în 1979, acest pod funcțional cu mai multe deschideri leagă cartiere adiacente ale orașului, oferind în același timp alei pietonale cu vedere la cursul larg al râului.",
+                  "category": "landmark",
+                  "coords": [
+                        135.519439,
+                        34.717603
+                  ]
+            },
+            {
+                  "name": "Toyosato-Ohashi Bridge",
+                  "text": "Recunoscut prin pilonii săi impunători în formă de A, acest pod hobanat impresionant transportă traficul intens al navetiștilor direct peste râul lat Yodo.",
+                  "category": "landmark",
+                  "coords": [
+                        135.55116,
+                        34.736833
+                  ]
+            },
+            {
+                  "name": "juusou bridge",
+                  "text": "Proiectat cu arcade clasice din oțel, acest pod durabil din 1932 servește ca o arteră de tranzit istorică majoră peste râul Yodo.",
+                  "category": "landmark",
+                  "coords": [
+                        135.486104,
+                        34.714117
+                  ]
+            },
+            {
+                  "name": "Higastakasubashi",
+                  "text": "Acest pod formează o conexiune importantă de transport peste căile navigabile din jurul orașului Osaka.",
+                  "category": "landmark",
+                  "coords": [
+                        135.409455,
+                        34.704942
+                  ]
+            },
+            {
+                  "name": "Shimo-fukushima Park",
+                  "text": "Acest parc extins oferă un refugiu verde în mijlocul peisajului urban dens al orașului Osaka.",
+                  "category": "park",
+                  "coords": [
+                        135.482654,
+                        34.690584
+                  ]
+            },
+            {
+                  "name": "Nishi-Umeda Park",
+                  "text": "O zonă de parc pașnică, care oferă un loc de odihnă liniștit în mijlocul cartierelor de afaceri pline de viață din Osaka.",
+                  "category": "park",
+                  "coords": [
+                        135.491104,
+                        34.697554
+                  ]
+            },
+            {
+                  "name": "Ōgimachi Park",
+                  "text": "Acest parc popular din Osaka este cunoscut pentru spațiile sale deschise largi și facilitățile de recreere din apropierea centrului orașului.",
+                  "category": "park",
+                  "coords": [
+                        135.509014,
+                        34.703986
+                  ]
+            },
+            {
+                  "name": "Buson Park",
+                  "text": "Înființat în aprilie 2009, acest parc aduce un spațiu de recreere modern în zona Osaka.",
+                  "category": "park",
+                  "coords": [
+                        135.519949,
+                        34.718848
+                  ]
+            },
+            {
+                  "name": "Shirokita Park",
+                  "text": "Acest parc pitoresc din Osaka are vedere la râu și aranjamente florale sezoniere.",
+                  "category": "park",
+                  "coords": [
+                        135.538146,
+                        34.729563
+                  ]
+            },
+            {
+                  "name": "Daimotsu Park",
+                  "text": "Un parc public local din regiunea Osaka care oferă spații deschise pentru recreerea comunității.",
+                  "category": "park",
+                  "coords": [
+                        135.428395,
+                        34.718065
+                  ]
+            },
+            {
+                  "name": "Zero Carbon Baseball Park",
+                  "text": "Deschis în martie 2025, acest parc sportiv inovator din Osaka se concentrează pe infrastructura ecologică.",
+                  "category": "park",
+                  "coords": [
+                        135.430521,
+                        34.71579
+                  ]
+            },
+            {
+                  "name": "Harada",
+                  "text": "Cunoscut sub numele de Skyland Harada, acest parc oferă vederi excelente asupra avioanelor care decolează și aterizează pe aeroportul din apropiere din Osaka.",
+                  "category": "park",
+                  "coords": [
+                        135.444093,
+                        34.773921
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gallery Namban",
+                  "text": "Focusing on early European contact with Japan, this highly specialized art museum exclusively exhibits rare Namban artifacts and screens.",
+                  "category": "museum",
+                  "coords": [
+                        135.4919,
+                        34.709457
+                  ]
+            },
+            {
+                  "name": "Osaka Museum of Housing and Living",
+                  "text": "This immersive cultural museum features a life-sized, walk-through recreation of an Edo-period streetscape constructed inside a modern high-rise.",
+                  "category": "museum",
+                  "coords": [
+                        135.511433,
+                        34.710466
+                  ]
+            },
+            {
+                  "name": "Osaka City Sewerage Science Museum",
+                  "text": "Dedicated to urban infrastructure, this unique educational museum uses interactive water exhibits to explain the engineering behind the city's vast sewer system.",
+                  "category": "museum",
+                  "coords": [
+                        135.462465,
+                        34.693465
+                  ]
+            },
+            {
+                  "name": "Amagasaki castle",
+                  "text": "Recently reconstructed thanks to a local entrepreneur's donation, this striking Japanese castle features a pristine four-tiered main keep.",
+                  "category": "castle",
+                  "coords": [
+                        135.41877,
+                        34.716675
+                  ]
+            },
+            {
+                  "name": "Open-Air Museum Of Old Japanese Farm Houses",
+                  "text": "Set within a spacious park, this open-air museum preserves an authentic village of traditional thatched-roof farmhouses relocated from regions across Japan.",
+                  "category": "museum",
+                  "coords": [
+                        135.488664,
+                        34.778994
+                  ]
+            },
+            {
+                  "name": "Amagasaki Shiyakusho",
+                  "text": "Functioning as the city's administrative center, this municipal building is noted for its mid-century modern architecture designed by Togo Murano.",
+                  "category": "historical",
+                  "coords": [
+                        135.406356,
+                        34.733545
+                  ]
+            },
+            {
+                  "name": "Nishiyodogawa Word Office",
+                  "text": "This administrative civic center provides essential government services and public registries for the residents of the local ward.",
+                  "category": "historical",
+                  "coords": [
+                        135.456194,
+                        34.711367
+                  ]
+            },
+            {
+                  "name": "Inori no Mori",
+                  "text": "Translating to the \"Forest of Prayer,\" this solemn memorial marks the site of the 2005 Fukuchiyama train derailment and preserves a section of the impacted building.",
+                  "category": "historical",
+                  "coords": [
+                        135.426723,
+                        34.741092
+                  ]
+            },
+            {
+                  "name": "Kadoma Jinja",
+                  "text": "Shaded by mature trees, this traditional Shinto shrine serves as a spiritual anchor for the surrounding local community.",
+                  "category": "religious",
+                  "coords": [
+                        135.577886,
+                        34.738937
+                  ]
+            },
+            {
+                  "name": "ABC Hall",
+                  "text": "Operated by the Asahi Broadcasting Corporation, this modern performance hall hosts a variety of theatrical productions and live television recordings.",
+                  "category": "cultural",
+                  "coords": [
+                        135.488453,
+                        34.69362
+                  ]
+            },
+            {
+                  "name": "Osaka Shiki Musical Theater",
+                  "text": "Situated within the Herbis Plaza ENT complex, this specialized venue is the permanent local stage for the renowned Shiki Theatre Company's Broadway-style musicals.",
+                  "category": "cultural",
+                  "coords": [
+                        135.494755,
+                        34.699818
+                  ]
+            },
+            {
+                  "name": "HEP Hall",
+                  "text": "Located on the upper floors of the iconic HEP Five shopping complex, this versatile event space regularly hosts youth-oriented plays and live music.",
+                  "category": "cultural",
+                  "coords": [
+                        135.499851,
+                        34.703798
+                  ]
+            },
+            {
+                  "name": "The Symphony Hall",
+                  "text": "Opened in 1982 as Japan's first venue purpose-built for classical music, this prestigious hall is internationally renowned for its flawless two-second acoustic reverberation.",
+                  "category": "cultural",
+                  "coords": [
+                        135.486052,
+                        34.701423
+                  ]
+            },
+            {
+                  "name": "Saizenji Temple",
+                  "text": "This neighborhood Buddhist temple features classic curved eaves and serves as a quiet space for spiritual contemplation amidst the urban surroundings.",
+                  "category": "religious",
+                  "coords": [
+                        135.496116,
+                        34.706113
+                  ]
+            },
+            {
+                  "name": "Tsuyuno Tenjin Shrine",
+                  "text": "Colloquially known as Ohatsu Tenjin, this urban Shinto shrine is famous as the real-life setting of a tragic 18th-century puppet play about doomed lovers.",
+                  "category": "religious",
+                  "coords": [
+                        135.500869,
+                        34.699151
+                  ]
+            },
+            {
+                  "name": "Umeda Arts Theater",
+                  "text": "Comprising a massive main hall and an intimate black-box space, this major cultural complex frequently hosts glittering performances by the all-female Takarazuka Revue.",
+                  "category": "cultural",
+                  "coords": [
+                        135.499004,
+                        34.708584
+                  ]
+            },
+            {
+                  "name": "Genkoji Temple",
+                  "text": "Dedicated to Pure Land Buddhist traditions, this understated urban temple provides a serene courtyard sheltered from the surrounding city traffic.",
+                  "category": "religious",
+                  "coords": [
+                        135.501298,
+                        34.71003
+                  ]
+            },
+            {
+                  "name": "Sumiyoshi shrine",
+                  "text": "Dedicated to sea deities, this traditional Shinto shrine is deeply woven into local folklore, particularly a legendary tale of a maiden's sacrifice to appease water spirits.",
+                  "category": "religious",
+                  "coords": [
+                        135.462935,
+                        34.709474
+                  ]
+            },
+            {
+                  "name": "Amagasaki Public Wgolesale Market",
+                  "text": "Functioning as a vital regional food hub, this sprawling wholesale market awakens before dawn as vendors auction fresh seafood and seasonal produce.",
+                  "category": "cultural",
+                  "coords": [
+                        135.425123,
+                        34.73838
+                  ]
+            },
+            {
+                  "name": "Kurahashi sosha Shrine",
+                  "text": "According to local folklore, the deities of this ancient Shinto shrine have a special connection to carp, prompting generations of devoted worshippers to abstain from eating the fish.",
+                  "category": "religious",
+                  "coords": [
+                        135.460725,
+                        34.743374
+                  ]
+            },
+            {
+                  "name": "Takahama Shrine",
+                  "text": "Tucked away in a residential neighborhood, this venerable Shinto sanctuary is anchored by grand stone torii gates and majestic centuries-old trees.",
+                  "category": "religious",
+                  "coords": [
+                        135.527025,
+                        34.758666
+                  ]
+            },
+            {
+                  "name": "Ohmiya Shrine",
+                  "text": "Dedicated to historical figures including the tragic hero Minamoto no Yoshitsune, this local Shinto shrine preserves samurai legends within its quiet wooden halls.",
+                  "category": "religious",
+                  "coords": [
+                        135.54703,
+                        34.742039
+                  ]
+            },
+            {
+                  "name": "Water World",
+                  "text": "Based on the 1995 sci-fi film, this spectacular live-action stunt show thrills theme park guests with fiery explosions, plunging seaplanes, and high-speed jet ski chases.",
+                  "category": "landmark",
+                  "coords": [
+                        135.429752,
+                        34.666768
+                  ]
+            },
+            {
+                  "name": "Harry Potter and The Forbidden Journey in 4K3D",
+                  "text": "Housed inside a towering replica of Hogwarts Castle, this cutting-edge dark ride uses advanced robotic arm technology to simulate the sensation of flying on a magical broomstick.",
+                  "category": "landmark",
+                  "coords": [
+                        135.43163,
+                        34.668837
+                  ]
+            },
+            {
+                  "name": "Mario Kart: Koopa's Challenge",
+                  "text": "Located deep inside a recreation of Bowser's Castle, this interactive ride blends physical sets with augmented reality goggles so guests can steer and throw virtual shells.",
+                  "category": "landmark",
+                  "coords": [
+                        135.42987,
+                        34.668051
+                  ]
+            },
+            {
+                  "name": "Konohana ōhashi Bridge",
+                  "text": "Spanning the city's port waters, this striking self-anchored suspension bridge provides a crucial vehicular link to the reclaimed artificial islands.",
+                  "category": "landmark",
+                  "coords": [
+                        135.412489,
+                        34.666568
+                  ]
+            },
+            {
+                  "name": "Tsuneyoshi Ohashi Bridge",
+                  "text": "Supported by robust steel piers, this functional overwater crossing facilitates heavy industrial traffic between the mainland and the bustling port facilities.",
+                  "category": "landmark",
+                  "coords": [
+                        135.408049,
+                        34.670972
+                  ]
+            },
+            {
+                  "name": "Miyakojima Bridge",
+                  "text": "Originally completed in 1956, this robust steel-girder bridge provides a vital roadway over the tranquil flow of the Okawa River.",
+                  "category": "landmark",
+                  "coords": [
+                        135.518363,
+                        34.708571
+                  ]
+            },
+            {
+                  "name": "Kema Bridge",
+                  "text": "Opened in 1979, this functional multi-span bridge links adjacent city districts while offering pedestrian walkways overlooking the wide riverway.",
+                  "category": "landmark",
+                  "coords": [
+                        135.519439,
+                        34.717603
+                  ]
+            },
+            {
+                  "name": "Toyosato-Ohashi Bridge",
+                  "text": "Recognizable by its towering A-shaped pylons, this striking cable-stayed bridge carries heavy commuter traffic directly over the broad Yodo River.",
+                  "category": "landmark",
+                  "coords": [
+                        135.55116,
+                        34.736833
+                  ]
+            },
+            {
+                  "name": "juusou bridge",
+                  "text": "Designed with classic tied-arch steel spans, this enduring 1932 bridge serves as a major historical transit artery across the Yodo River.",
+                  "category": "landmark",
+                  "coords": [
+                        135.486104,
+                        34.714117
+                  ]
+            },
+            {
+                  "name": "Higastakasubashi",
+                  "text": "This bridge forms a significant transport connection over the waterways around Osaka.",
+                  "category": "landmark",
+                  "coords": [
+                        135.409455,
+                        34.704942
+                  ]
+            },
+            {
+                  "name": "Shimo-fukushima Park",
+                  "text": "This expansive park offers a green retreat amidst the dense urban landscape of Osaka.",
+                  "category": "park",
+                  "coords": [
+                        135.482654,
+                        34.690584
+                  ]
+            },
+            {
+                  "name": "Nishi-Umeda Park",
+                  "text": "A peaceful park area providing a quiet resting spot amidst Osaka's bustling business districts.",
+                  "category": "park",
+                  "coords": [
+                        135.491104,
+                        34.697554
+                  ]
+            },
+            {
+                  "name": "Ōgimachi Park",
+                  "text": "This popular Osaka park is known for its wide open spaces and recreational facilities near the city center.",
+                  "category": "park",
+                  "coords": [
+                        135.509014,
+                        34.703986
+                  ]
+            },
+            {
+                  "name": "Buson Park",
+                  "text": "Established in April 2009, this park brings a modern recreational space to the Osaka area.",
+                  "category": "park",
+                  "coords": [
+                        135.519949,
+                        34.718848
+                  ]
+            },
+            {
+                  "name": "Shirokita Park",
+                  "text": "This picturesque park in Osaka features riverside views and seasonal floral displays.",
+                  "category": "park",
+                  "coords": [
+                        135.538146,
+                        34.729563
+                  ]
+            },
+            {
+                  "name": "Daimotsu Park",
+                  "text": "A local public park in the Osaka region providing open spaces for community recreation.",
+                  "category": "park",
+                  "coords": [
+                        135.428395,
+                        34.718065
+                  ]
+            },
+            {
+                  "name": "Zero Carbon Baseball Park",
+                  "text": "Opening in March 2025, this innovative sports park in Osaka focuses on environmentally friendly infrastructure.",
+                  "category": "park",
+                  "coords": [
+                        135.430521,
+                        34.71579
+                  ]
+            },
+            {
+                  "name": "Harada",
+                  "text": "Known as Skyland Harada, this park offers excellent views of airplanes taking off and landing at the nearby Osaka airport.",
+                  "category": "park",
+                  "coords": [
+                        135.444093,
+                        34.773921
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "JP-27",
     coords: [135.4959, 34.7025],
@@ -297,7 +4014,160 @@ export const poiExtraJapanEconomicV2: POI[] = [
     
      image: "/poi-images/osaka-station-city-trade-hub-v2.webp"},
   {
-    id: "kashiwazaki-kariwa-npp-economic-v2",
+    id: "kashiwazaki-kariwa-npp-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gyoutsuji",
+                  "text": "Eine historische Kultstätte in Kashiwazaki mit kunstvollen traditionellen religiösen Schnitzereien.",
+                  "category": "religious",
+                  "coords": [
+                        138.555093,
+                        37.353729
+                  ]
+            },
+            {
+                  "name": "Kimura Tea Ceremony Art Museum",
+                  "text": "Ein Museum für Teekeramik und Utensilien, das in einen wunderschönen japanischen Garten eingebettet ist.",
+                  "category": "museum",
+                  "coords": [
+                        138.544995,
+                        37.359795
+                  ]
+            },
+            {
+                  "name": "Kashiwazaki City Museum",
+                  "text": "Das Stadtmuseum liegt im Akasaka-Bergpark und zeigt geologische Exponate sowie die lokale Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        138.542918,
+                        37.359001
+                  ]
+            },
+            {
+                  "name": "Banjindo",
+                  "text": "Eine kleine buddhistische Halle in Kashiwazaki, die lokalen spirituellen Praktiken gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        138.528934,
+                        37.364528
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gyoutsuji",
+                  "text": "Történelmi vallási hely Kasivazakiban, díszes, hagyományos vallási faragványokkal.",
+                  "category": "religious",
+                  "coords": [
+                        138.555093,
+                        37.353729
+                  ]
+            },
+            {
+                  "name": "Kimura Tea Ceremony Art Museum",
+                  "text": "Teakerámiákat és kellékeket bemutató múzeum, amely egy gyönyörű japán kertben található.",
+                  "category": "museum",
+                  "coords": [
+                        138.544995,
+                        37.359795
+                  ]
+            },
+            {
+                  "name": "Kashiwazaki City Museum",
+                  "text": "A városházi múzeum az Akaszaka-hegyi parkban található, földtani kiállításokkal és helytörténettel.",
+                  "category": "museum",
+                  "coords": [
+                        138.542918,
+                        37.359001
+                  ]
+            },
+            {
+                  "name": "Banjindo",
+                  "text": "Kisméretű buddhista csarnok Kasivazakiban, amelyet a helyi spirituális gyakorlatoknak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        138.528934,
+                        37.364528
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gyoutsuji",
+                  "text": "Un lăcaș de cult istoric în Kashiwazaki, cu sculpturi religioase tradiționale elaborate.",
+                  "category": "religious",
+                  "coords": [
+                        138.555093,
+                        37.353729
+                  ]
+            },
+            {
+                  "name": "Kimura Tea Ceremony Art Museum",
+                  "text": "Un muzeu care expune boluri și ustensile pentru ceremonia ceaiului, într-o frumoasă grădină japoneză.",
+                  "category": "museum",
+                  "coords": [
+                        138.544995,
+                        37.359795
+                  ]
+            },
+            {
+                  "name": "Kashiwazaki City Museum",
+                  "text": "Muzeul orașului este situat în parcul montan Akasaka și prezintă exponate geologice și istorie locală.",
+                  "category": "museum",
+                  "coords": [
+                        138.542918,
+                        37.359001
+                  ]
+            },
+            {
+                  "name": "Banjindo",
+                  "text": "O mică sală budistă în Kashiwazaki dedicată practicilor spirituale locale.",
+                  "category": "landmark",
+                  "coords": [
+                        138.528934,
+                        37.364528
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gyoutsuji",
+                  "text": "A historic place of worship in Kashiwazaki featuring ornate traditional religious carvings.",
+                  "category": "religious",
+                  "coords": [
+                        138.555093,
+                        37.353729
+                  ]
+            },
+            {
+                  "name": "Kimura Tea Ceremony Art Museum",
+                  "text": "A museum showcasing tea bowls and utensils set within a beautiful Japanese garden.",
+                  "category": "museum",
+                  "coords": [
+                        138.544995,
+                        37.359795
+                  ]
+            },
+            {
+                  "name": "Kashiwazaki City Museum",
+                  "text": "The city museum is located in Akasaka Mountain Park and features geological exhibits and local history.",
+                  "category": "museum",
+                  "coords": [
+                        138.542918,
+                        37.359001
+                  ]
+            },
+            {
+                  "name": "Banjindo",
+                  "text": "A small Buddhist hall in Kashiwazaki dedicated to local spiritual practices.",
+                  "category": "landmark",
+                  "coords": [
+                        138.528934,
+                        37.364528
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "JP-15",
     coords: [138.601, 37.426],
@@ -346,7 +4216,664 @@ export const poiExtraJapanEconomicV2: POI[] = [
     
      image: "/poi-images/kashiwazaki-kariwa-npp-economic-v2.webp"},
   {
-    id: "port-of-kobe-economic-v2",
+    id: "port-of-kobe-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "AQUATEXT",
+                  "text": "Eine faszinierende Aquariumanlage, die vielfältige Meereslebewesen in der lebhaften Hafengegend von Kobe präsentiert.",
+                  "category": "recreational",
+                  "coords": [
+                        135.270565,
+                        34.690432
+                  ]
+            },
+            {
+                  "name": "Kobe Artists Museum",
+                  "text": "Dieses Museum beleuchtet die Werke und Hinterlassenschaften bedeutender Künstler, die mit der Stadt Kobe verbunden sind.",
+                  "category": "museum",
+                  "coords": [
+                        135.270328,
+                        34.68847
+                  ]
+            },
+            {
+                  "name": "Kobe City Koiso Memorial Museum of Art",
+                  "text": "Dieses Kunstmuseum ist dem berühmten Maler Ryohei Koiso gewidmet und zeigt seine Hauptwerke in Kobe.",
+                  "category": "museum",
+                  "coords": [
+                        135.267226,
+                        34.692822
+                  ]
+            },
+            {
+                  "name": "Kobe Planet Film Archive",
+                  "text": "Ein engagiertes Museum in Kobe, das eine umfangreiche Sammlung historischer Kino- und filmbezogener Artefakte aufbewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        135.146345,
+                        34.654363
+                  ]
+            },
+            {
+                  "name": "KOBE",
+                  "text": "Diese einzigartige Galerie in Kobe widmet sich den kulturellen Themen der Drei Reiche und riesigen Roboter-Anime.",
+                  "category": "museum",
+                  "coords": [
+                        135.147795,
+                        34.652139
+                  ]
+            },
+            {
+                  "name": "ASICS Museum",
+                  "text": "Dieses Unternehmensmuseum in Kobe zeigt die Geschichte und technologischen Innovationen der berühmten Sportbekleidungsmarke.",
+                  "category": "museum",
+                  "coords": [
+                        135.215892,
+                        34.668626
+                  ]
+            },
+            {
+                  "name": "Wadamisaki Battery",
+                  "text": "Diese historische Artilleriebatterie wurde 1864 erbaut, um die Küste von Kobe zu verteidigen.",
+                  "category": "fortress",
+                  "coords": [
+                        135.184935,
+                        34.652247
+                  ]
+            },
+            {
+                  "name": "RIC",
+                  "text": "Ein wunderschön gepflegter öffentlicher Garten im Gebiet der Rokko-Insel in Kobe, der saisonale Blütenpracht bietet.",
+                  "category": "park",
+                  "coords": [
+                        135.269144,
+                        34.689249
+                  ]
+            },
+            {
+                  "name": "Suma Kaihin Park",
+                  "text": "Dieser Küstenpark in Kobe verfügt über einen beliebten Sandstrand und Freizeiteinrichtungen direkt am Meer.",
+                  "category": "park",
+                  "coords": [
+                        135.127986,
+                        34.643796
+                  ]
+            },
+            {
+                  "name": "Takatori Catholic Church",
+                  "text": "Eine katholische Kultstätte in Kobe, bekannt für die Widerstandsfähigkeit ihrer Gemeinde und ihre spirituellen Zusammenkünfte.",
+                  "category": "religious",
+                  "coords": [
+                        135.138646,
+                        34.651395
+                  ]
+            },
+            {
+                  "name": "city gallery 2320",
+                  "text": "Eine Galerie für zeitgenössische Kunst in Kobe, die Werke aufstrebender lokaler Künstler präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        135.151074,
+                        34.654527
+                  ]
+            },
+            {
+                  "name": "Shinkō Temple",
+                  "text": "Eine verehrte Kultstätte in Kobe, die traditionelle architektonische Elemente und die lokale buddhistische Geschichte bewahrt.",
+                  "category": "religious",
+                  "coords": [
+                        135.170382,
+                        34.664146
+                  ]
+            },
+            {
+                  "name": "KOBE Animal Kingdom",
+                  "text": "Dieser beliebte Zoo in Kobe ermöglicht es den Besuchern, eng mit einer Vielzahl frei lebender Tiere und Vögel zu interagieren.",
+                  "category": "recreational",
+                  "coords": [
+                        135.223175,
+                        34.654169
+                  ]
+            },
+            {
+                  "name": "BANDO Kobe Science Museum",
+                  "text": "Ein interaktives Wissenschaftsmuseum in Kobe mit einem Planetarium und Ausstellungen zu Weltraum und Technologie.",
+                  "category": "museum",
+                  "coords": [
+                        135.218447,
+                        34.666079
+                  ]
+            },
+            {
+                  "name": "UCC",
+                  "text": "Dieses einzigartige Museum in Kobe erforscht die Geschichte, den Anbau und die Kultur des Kaffeetrinkens.",
+                  "category": "museum",
+                  "coords": [
+                        135.216907,
+                        34.665162
+                  ]
+            },
+            {
+                  "name": "World Memorial Hall",
+                  "text": "Eine große Mehrzweck-Indoor-Arena in Kobe, die für große Konzerte, Sportveranstaltungen und Ausstellungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        135.210144,
+                        34.663975
+                  ]
+            },
+            {
+                  "name": "Taishin-ji",
+                  "text": "Eine ruhige buddhistische Stätte in Kobe, die eine friedliche Atmosphäre für Meditation und traditionelle Rituale bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        135.137877,
+                        34.650179
+                  ]
+            },
+            {
+                  "name": "Kanan Church",
+                  "text": "Eine christliche Kultstätte in Kobe, die der lokalen Gemeinde mit regelmäßigen Gottesdiensten dient.",
+                  "category": "landmark",
+                  "coords": [
+                        135.156473,
+                        34.653308
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "AQUATEXT",
+                  "text": "Lenyűgöző akváriumi létesítmény, amely bemutatja a változatos tengeri élővilágot Kóbe nyüzsgő kikötőnegyedében.",
+                  "category": "recreational",
+                  "coords": [
+                        135.270565,
+                        34.690432
+                  ]
+            },
+            {
+                  "name": "Kobe Artists Museum",
+                  "text": "Ez a múzeum Kóbe városához kötődő kiemelkedő művészek munkáit és hagyatékait emeli ki.",
+                  "category": "museum",
+                  "coords": [
+                        135.270328,
+                        34.68847
+                  ]
+            },
+            {
+                  "name": "Kobe City Koiso Memorial Museum of Art",
+                  "text": "A híres festőnek, Ryohei Koisónak szentelt művészeti múzeum Kóbéban mutatja be főbb műveit.",
+                  "category": "museum",
+                  "coords": [
+                        135.267226,
+                        34.692822
+                  ]
+            },
+            {
+                  "name": "Kobe Planet Film Archive",
+                  "text": "Egy dedikált múzeum Kóbéban, amely történelmi mozi- és filmekhez kapcsolódó műtárgyak kiterjedt gyűjteményét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        135.146345,
+                        34.654363
+                  ]
+            },
+            {
+                  "name": "KOBE",
+                  "text": "Ez az egyedülálló kóbei galéria a Három Királyság és az óriási robot animék kulturális témáinak szentelődik.",
+                  "category": "museum",
+                  "coords": [
+                        135.147795,
+                        34.652139
+                  ]
+            },
+            {
+                  "name": "ASICS Museum",
+                  "text": "A Kóbéban található vállalati múzeum a híres sportruházati márka történetét és technológiai újításait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        135.215892,
+                        34.668626
+                  ]
+            },
+            {
+                  "name": "Wadamisaki Battery",
+                  "text": "Ezt a történelmi tüzérségi üteget 1864-ben építették Kóbe partvonalának védelmére.",
+                  "category": "fortress",
+                  "coords": [
+                        135.184935,
+                        34.652247
+                  ]
+            },
+            {
+                  "name": "RIC",
+                  "text": "Gyönyörűen karbantartott nyilvános kert Kóbe Rokko-szigetén, amely szezonális virágzást kínál.",
+                  "category": "park",
+                  "coords": [
+                        135.269144,
+                        34.689249
+                  ]
+            },
+            {
+                  "name": "Suma Kaihin Park",
+                  "text": "Ez a kóbei tengerparti park egy népszerű homokos stranddal és a tenger mentén található szabadidős létesítményekkel rendelkezik.",
+                  "category": "park",
+                  "coords": [
+                        135.127986,
+                        34.643796
+                  ]
+            },
+            {
+                  "name": "Takatori Catholic Church",
+                  "text": "Egy katolikus istentiszteleti hely Kóbéban, amely ismert közösségének rugalmasságáról és spirituális összejöveteleiről.",
+                  "category": "religious",
+                  "coords": [
+                        135.138646,
+                        34.651395
+                  ]
+            },
+            {
+                  "name": "city gallery 2320",
+                  "text": "Kortárs művészeti galéria Kóbéban, amely feltörekvő helyi művészek munkáit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        135.151074,
+                        34.654527
+                  ]
+            },
+            {
+                  "name": "Shinkō Temple",
+                  "text": "Egy tisztelt istentiszteleti hely Kóbéban, amely megőrzi a hagyományos építészeti elemeket és a helyi buddhista történelmet.",
+                  "category": "religious",
+                  "coords": [
+                        135.170382,
+                        34.664146
+                  ]
+            },
+            {
+                  "name": "KOBE Animal Kingdom",
+                  "text": "Ez a népszerű kóbei állatkert lehetővé teszi a látogatók számára, hogy szorosan kapcsolatba lépjenek a legkülönfélébb szabadon kószáló állatokkal és madarakkal.",
+                  "category": "recreational",
+                  "coords": [
+                        135.223175,
+                        34.654169
+                  ]
+            },
+            {
+                  "name": "BANDO Kobe Science Museum",
+                  "text": "Interaktív tudományos múzeum Kóbéban, amely planetáriummal és a világűrrel és technológiával kapcsolatos kiállításokkal rendelkezik.",
+                  "category": "museum",
+                  "coords": [
+                        135.218447,
+                        34.666079
+                  ]
+            },
+            {
+                  "name": "UCC",
+                  "text": "Ez az egyedülálló kóbei múzeum a kávéivás történetét, termesztését és kultúráját tárja fel.",
+                  "category": "museum",
+                  "coords": [
+                        135.216907,
+                        34.665162
+                  ]
+            },
+            {
+                  "name": "World Memorial Hall",
+                  "text": "Egy jelentős többcélú fedett aréna Kóbéban, amelyet nagy koncertek, sportesemények és kiállítások rendezésére használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        135.210144,
+                        34.663975
+                  ]
+            },
+            {
+                  "name": "Taishin-ji",
+                  "text": "Nyugodt buddhista helyszín Kóbéban, amely békés légkört kínál a meditációhoz és a hagyományos rituálékhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        135.137877,
+                        34.650179
+                  ]
+            },
+            {
+                  "name": "Kanan Church",
+                  "text": "Keresztény istentiszteleti hely Kóbéban, amely rendszeres istentiszteletekkel szolgálja a helyi gyülekezetet.",
+                  "category": "landmark",
+                  "coords": [
+                        135.156473,
+                        34.653308
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "AQUATEXT",
+                  "text": "O facilitate de acvariu captivantă care prezintă viața marină diversă în zona portuară vibrantă a orașului Kobe.",
+                  "category": "recreational",
+                  "coords": [
+                        135.270565,
+                        34.690432
+                  ]
+            },
+            {
+                  "name": "Kobe Artists Museum",
+                  "text": "Acest muzeu evidențiază lucrările și moștenirile unor artiști proeminenți asociați cu orașul Kobe.",
+                  "category": "museum",
+                  "coords": [
+                        135.270328,
+                        34.68847
+                  ]
+            },
+            {
+                  "name": "Kobe City Koiso Memorial Museum of Art",
+                  "text": "Dedicat renumitului pictor Ryohei Koiso, acest muzeu de artă expune lucrările sale majore din Kobe.",
+                  "category": "museum",
+                  "coords": [
+                        135.267226,
+                        34.692822
+                  ]
+            },
+            {
+                  "name": "Kobe Planet Film Archive",
+                  "text": "Un muzeu dedicat din Kobe care păstrează o colecție extinsă de cinematografie istorică și artefacte legate de film.",
+                  "category": "museum",
+                  "coords": [
+                        135.146345,
+                        34.654363
+                  ]
+            },
+            {
+                  "name": "KOBE",
+                  "text": "Această galerie unică din Kobe este dedicată temelor culturale ale Celor Trei Regate și anime-urilor cu roboți giganți.",
+                  "category": "museum",
+                  "coords": [
+                        135.147795,
+                        34.652139
+                  ]
+            },
+            {
+                  "name": "ASICS Museum",
+                  "text": "Situat în Kobe, acest muzeu corporativ detaliază istoria și inovațiile tehnologice ale celebrului brand de îmbrăcăminte sport.",
+                  "category": "museum",
+                  "coords": [
+                        135.215892,
+                        34.668626
+                  ]
+            },
+            {
+                  "name": "Wadamisaki Battery",
+                  "text": "Construită în 1864, această baterie istorică de artilerie a fost construită pentru a apăra coasta Kobe.",
+                  "category": "fortress",
+                  "coords": [
+                        135.184935,
+                        34.652247
+                  ]
+            },
+            {
+                  "name": "RIC",
+                  "text": "O grădină publică frumos întreținută situată în zona Insulei Rokko din Kobe, oferind înfloriri sezoniere.",
+                  "category": "park",
+                  "coords": [
+                        135.269144,
+                        34.689249
+                  ]
+            },
+            {
+                  "name": "Suma Kaihin Park",
+                  "text": "Acest parc de coastă din Kobe are o plajă populară cu nisip și facilități de agrement de-a lungul mării.",
+                  "category": "park",
+                  "coords": [
+                        135.127986,
+                        34.643796
+                  ]
+            },
+            {
+                  "name": "Takatori Catholic Church",
+                  "text": "Un lăcaș de cult catolic din Kobe, cunoscut pentru reziliența comunității sale și adunările spirituale.",
+                  "category": "religious",
+                  "coords": [
+                        135.138646,
+                        34.651395
+                  ]
+            },
+            {
+                  "name": "city gallery 2320",
+                  "text": "O galerie de artă contemporană din Kobe care prezintă lucrări ale artiștilor locali în curs de afirmare.",
+                  "category": "museum",
+                  "coords": [
+                        135.151074,
+                        34.654527
+                  ]
+            },
+            {
+                  "name": "Shinkō Temple",
+                  "text": "Un venerat lăcaș de cult din Kobe, care păstrează elemente arhitecturale tradiționale și istoria budistă locală.",
+                  "category": "religious",
+                  "coords": [
+                        135.170382,
+                        34.664146
+                  ]
+            },
+            {
+                  "name": "KOBE Animal Kingdom",
+                  "text": "Acest zoo popular din Kobe permite vizitatorilor să interacționeze îndeaproape cu o varietate de animale și păsări în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        135.223175,
+                        34.654169
+                  ]
+            },
+            {
+                  "name": "BANDO Kobe Science Museum",
+                  "text": "Un muzeu interactiv de știință din Kobe, cu un planetariu și expoziții despre spațiu și tehnologie.",
+                  "category": "museum",
+                  "coords": [
+                        135.218447,
+                        34.666079
+                  ]
+            },
+            {
+                  "name": "UCC",
+                  "text": "Acest muzeu unic din Kobe explorează istoria, cultivarea și cultura consumului de cafea.",
+                  "category": "museum",
+                  "coords": [
+                        135.216907,
+                        34.665162
+                  ]
+            },
+            {
+                  "name": "World Memorial Hall",
+                  "text": "O importantă arenă interioară polivalentă din Kobe folosită pentru concerte mari, evenimente sportive și expoziții.",
+                  "category": "cultural",
+                  "coords": [
+                        135.210144,
+                        34.663975
+                  ]
+            },
+            {
+                  "name": "Taishin-ji",
+                  "text": "Un sit budist senin din Kobe, care oferă o atmosferă liniștită pentru meditație și ritualuri tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        135.137877,
+                        34.650179
+                  ]
+            },
+            {
+                  "name": "Kanan Church",
+                  "text": "Un lăcaș de cult creștin din Kobe, care servește congregația locală cu slujbe regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        135.156473,
+                        34.653308
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "AQUATEXT",
+                  "text": "An engaging aquarium facility showcasing diverse marine life in Kobe's vibrant port area.",
+                  "category": "recreational",
+                  "coords": [
+                        135.270565,
+                        34.690432
+                  ]
+            },
+            {
+                  "name": "Kobe Artists Museum",
+                  "text": "This museum highlights the works and legacies of prominent artists associated with the city of Kobe.",
+                  "category": "museum",
+                  "coords": [
+                        135.270328,
+                        34.68847
+                  ]
+            },
+            {
+                  "name": "Kobe City Koiso Memorial Museum of Art",
+                  "text": "Dedicated to the renowned painter Ryohei Koiso, this art museum displays his major works in Kobe.",
+                  "category": "museum",
+                  "coords": [
+                        135.267226,
+                        34.692822
+                  ]
+            },
+            {
+                  "name": "Kobe Planet Film Archive",
+                  "text": "A dedicated museum in Kobe preserving an extensive collection of historical cinema and film-related artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        135.146345,
+                        34.654363
+                  ]
+            },
+            {
+                  "name": "Kobe Iron Man Three Kingdoms Gallery",
+                  "text": "This unique gallery in Kobe is dedicated to the cultural themes of the Three Kingdoms and giant robot anime.",
+                  "category": "museum",
+                  "coords": [
+                        135.147795,
+                        34.652139
+                  ]
+            },
+            {
+                  "name": "ASICS Museum",
+                  "text": "Located in Kobe, this corporate museum details the history and technological innovations of the famous sportswear brand.",
+                  "category": "museum",
+                  "coords": [
+                        135.215892,
+                        34.668626
+                  ]
+            },
+            {
+                  "name": "Wadamisaki Battery",
+                  "text": "Constructed in 1864, this historic artillery battery was built to defend the Kobe coastline.",
+                  "category": "fortress",
+                  "coords": [
+                        135.184935,
+                        34.652247
+                  ]
+            },
+            {
+                  "name": "RIC",
+                  "text": "A beautifully maintained public garden located in Kobe's Rokko Island area, offering seasonal blooms.",
+                  "category": "park",
+                  "coords": [
+                        135.269144,
+                        34.689249
+                  ]
+            },
+            {
+                  "name": "Suma Kaihin Park",
+                  "text": "This coastal park in Kobe features a popular sandy beach and recreational facilities along the sea.",
+                  "category": "park",
+                  "coords": [
+                        135.127986,
+                        34.643796
+                  ]
+            },
+            {
+                  "name": "Takatori Catholic Church",
+                  "text": "A Catholic place of worship in Kobe, known for its community resilience and spiritual gatherings.",
+                  "category": "religious",
+                  "coords": [
+                        135.138646,
+                        34.651395
+                  ]
+            },
+            {
+                  "name": "city gallery 2320",
+                  "text": "A contemporary art gallery in Kobe showcasing works by emerging local artists.",
+                  "category": "museum",
+                  "coords": [
+                        135.151074,
+                        34.654527
+                  ]
+            },
+            {
+                  "name": "Shinkō Temple",
+                  "text": "A revered place of worship in Kobe, preserving traditional architectural elements and local Buddhist history.",
+                  "category": "religious",
+                  "coords": [
+                        135.170382,
+                        34.664146
+                  ]
+            },
+            {
+                  "name": "KOBE Animal Kingdom",
+                  "text": "This popular zoo in Kobe allows visitors to interact closely with a variety of free-roaming animals and birds.",
+                  "category": "recreational",
+                  "coords": [
+                        135.223175,
+                        34.654169
+                  ]
+            },
+            {
+                  "name": "BANDO Kobe Science Museum",
+                  "text": "An interactive science museum in Kobe featuring a planetarium and exhibits on space and technology.",
+                  "category": "museum",
+                  "coords": [
+                        135.218447,
+                        34.666079
+                  ]
+            },
+            {
+                  "name": "UCC Coffee Museum",
+                  "text": "This unique Kobe museum explores the history, cultivation, and culture of coffee drinking.",
+                  "category": "museum",
+                  "coords": [
+                        135.216907,
+                        34.665162
+                  ]
+            },
+            {
+                  "name": "World Memorial Hall",
+                  "text": "A major multi-purpose indoor arena in Kobe used for large concerts, sports events, and exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        135.210144,
+                        34.663975
+                  ]
+            },
+            {
+                  "name": "Taishin-ji",
+                  "text": "A serene Buddhist site in Kobe offering a tranquil atmosphere for meditation and traditional rituals.",
+                  "category": "landmark",
+                  "coords": [
+                        135.137877,
+                        34.650179
+                  ]
+            },
+            {
+                  "name": "Kanan Church",
+                  "text": "A Christian place of worship in Kobe serving the local congregation with regular services.",
+                  "category": "landmark",
+                  "coords": [
+                        135.156473,
+                        34.653308
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "JP-28",
     coords: [135.21, 34.66],
@@ -395,7 +4922,592 @@ export const poiExtraJapanEconomicV2: POI[] = [
     
      image: "/poi-images/port-of-kobe-economic-v2.webp"},
   {
-    id: "kitakyushu-industrial-zone-economic-v2",
+    id: "kitakyushu-industrial-zone-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wakamatu Dokai Wan Ko (Entrance) Bohatei (Breakwater) Todai (Lighthouse)",
+                  "text": "Dieser auf einem Küstenwellenbrecher stehende Leuchtturm führt den Seeverkehr sicher in die Einfahrt der Dokai-Bucht.",
+                  "category": "landmark",
+                  "coords": [
+                        130.850556,
+                        33.941111
+                  ]
+            },
+            {
+                  "name": "Ishimine-yama",
+                  "text": "Ishimine-yama ist ein schroffer Berggipfel in Kitakyushu, der steile Wanderwege durch dichte regionale Wälder bietet.",
+                  "category": "natural",
+                  "coords": [
+                        130.771972,
+                        33.903387
+                  ]
+            },
+            {
+                  "name": "times",
+                  "text": "Dieser Aussichtspunkt bietet Besuchern eine weite, erhöhte Perspektive über die geschäftige Industrie- und Stadtlandschaft von Kitakyushu.",
+                  "category": "natural",
+                  "coords": [
+                        130.807913,
+                        33.903764
+                  ]
+            },
+            {
+                  "name": "Yawata Steel Works Former Head Office",
+                  "text": "Der ehemalige Hauptsitz der Yawata-Stahlwerke ist ein stattliches rotes Backsteingebäude, das Japans rasche industrielle Modernisierung symbolisiert.",
+                  "category": "landmark",
+                  "coords": [
+                        130.806813,
+                        33.873828
+                  ]
+            },
+            {
+                  "name": "Mount Sarakura",
+                  "text": "Der Berg Sarakura ist ein markanter, 622 Meter hoher Gipfel, dessen Gipfelobservatorium für einen der spektakulärsten nächtlichen Stadtblicke Japans berühmt ist.",
+                  "category": "natural",
+                  "coords": [
+                        130.79646,
+                        33.846457
+                  ]
+            },
+            {
+                  "name": "Mount Gongen",
+                  "text": "Der Berg Gongen ist ein bewaldeter Gipfel in Kitakyushu, der ruhige Naturpfade abseits der umliegenden städtischen Zersiedelung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        130.790153,
+                        33.839979
+                  ]
+            },
+            {
+                  "name": "ZENRIN Museum",
+                  "text": "Das ZENRIN-Museum ist eine einzigartige kulturelle Einrichtung, die sich der Geschichte der Kartografie und des Kartendesigns widmet.",
+                  "category": "museum",
+                  "coords": [
+                        130.875985,
+                        33.885895
+                  ]
+            },
+            {
+                  "name": "Kita-Kyushu Manga Museum",
+                  "text": "Das Kita-Kyushu Manga Museum feiert die japanische Comic-Kunst mit umfangreichen Lesezonen und Ausstellungen über lokale Künstler.",
+                  "category": "museum",
+                  "coords": [
+                        130.884731,
+                        33.887543
+                  ]
+            },
+            {
+                  "name": "Wakato Bridge",
+                  "text": "Die Wakato-Brücke ist eine markante rote Hängebrücke, die das Wasser der Dokai-Bucht überspannt, um die Bezirke Wakamatsu und Tobata zu verbinden.",
+                  "category": "landmark",
+                  "coords": [
+                        130.816642,
+                        33.90279
+                  ]
+            },
+            {
+                  "name": "Kawachi Wisteria Garden",
+                  "text": "Der Kawachi-Wisteriengarten ist international berühmt für seine faszinierenden, pastellfarbenen Blumentunnel, die jedes Frühjahr in leuchtenden Farben blühen.",
+                  "category": "park",
+                  "coords": [
+                        130.792218,
+                        33.832271
+                  ]
+            },
+            {
+                  "name": "Hibiki Hall, Kitakyushu",
+                  "text": "Die Hibiki Hall ist ein akustisch fein abgestimmter Konzertsaal in Kitakyushu, in dem hauptsächlich klassische Musikaufführungen und Liederabende stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        130.793963,
+                        33.862415
+                  ]
+            },
+            {
+                  "name": "Higashida First Blast Furnace Mark",
+                  "text": "Das Denkmal des Ersten Hochofens von Higashida ist eine monumentale Eisenkonstruktion, die die Geburtsstätte der modernen japanischen Stahlindustrie bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        130.805314,
+                        33.869832
+                  ]
+            },
+            {
+                  "name": "Kokura Castle",
+                  "text": "Die Burg Kokura ist eine rekonstruierte traditionelle Festung, die sich durch ihre einzigartige Architektur auszeichnet, bei der die fünfte Etage größer als die vierte ist.",
+                  "category": "castle",
+                  "coords": [
+                        130.874205,
+                        33.884485
+                  ]
+            },
+            {
+                  "name": "TOTO",
+                  "text": "Das TOTO-Museum zeigt die Entwicklung von Sanitäranlagen und präsentiert historische Keramikarmaturen sowie moderne Badezimmerinnovationen.",
+                  "category": "museum",
+                  "coords": [
+                        130.872061,
+                        33.87238
+                  ]
+            },
+            {
+                  "name": "Kokura Catholic Church",
+                  "text": "Die katholische Kirche von Kokura dient als spirituelles Heiligtum und zeichnet sich durch ihre mit einem Kreuz gekrönte Fassade und den friedlichen Gottesdienstraum aus.",
+                  "category": "landmark",
+                  "coords": [
+                        130.88003,
+                        33.875723
+                  ]
+            },
+            {
+                  "name": "Tanga Ichiba",
+                  "text": "Tanga Ichiba ist als „Küche von Kitakyushu“ bekannt und eine lebhafte, nostalgische Marktstraße voller Stände mit frischen lokalen Meeresfrüchten und Produkten.",
+                  "category": "cultural",
+                  "coords": [
+                        130.879677,
+                        33.881134
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wakamatu Dokai Wan Ko (Entrance) Bohatei (Breakwater) Todai (Lighthouse)",
+                  "text": "A tengerparti hullámtörőn álló világítótorony biztonságosan vezeti a tengeri forgalmat a Dokai-öböl bejáratához.",
+                  "category": "landmark",
+                  "coords": [
+                        130.850556,
+                        33.941111
+                  ]
+            },
+            {
+                  "name": "Ishimine-yama",
+                  "text": "Az Ishimine-yama egy zord hegycsúcs Kitakyushuban, amely meredek túraútvonalakat kínál a sűrű regionális erdőkön keresztül.",
+                  "category": "natural",
+                  "coords": [
+                        130.771972,
+                        33.903387
+                  ]
+            },
+            {
+                  "name": "times",
+                  "text": "Ez a kilátó tágas, magaslati perspektívát nyújt a látogatóknak Kitakyushu nyüzsgő ipari és városi tájára.",
+                  "category": "natural",
+                  "coords": [
+                        130.807913,
+                        33.903764
+                  ]
+            },
+            {
+                  "name": "Yawata Steel Works Former Head Office",
+                  "text": "A Yawata Acélművek egykori központja egy impozáns vöröstéglás épület, amely Japán gyors ipari modernizációját jelképezi.",
+                  "category": "landmark",
+                  "coords": [
+                        130.806813,
+                        33.873828
+                  ]
+            },
+            {
+                  "name": "Mount Sarakura",
+                  "text": "A Sarakura-hegy egy kiemelkedő, 622 méteres csúcs, amely arról híres, hogy a csúcsán lévő obszervatóriumból Japán egyik leglátványosabb éjszakai városképét nyújtja.",
+                  "category": "natural",
+                  "coords": [
+                        130.79646,
+                        33.846457
+                  ]
+            },
+            {
+                  "name": "Mount Gongen",
+                  "text": "A Gongen-hegy egy erdős csúcs Kitakyushuban, amely nyugodt természetjáró ösvényeket kínál a környező városi terjeszkedéstől távol.",
+                  "category": "natural",
+                  "coords": [
+                        130.790153,
+                        33.839979
+                  ]
+            },
+            {
+                  "name": "ZENRIN Museum",
+                  "text": "A ZENRIN Múzeum egy egyedülálló kulturális intézmény, amely a térképészet és a kartográfiai tervezés történetének szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        130.875985,
+                        33.885895
+                  ]
+            },
+            {
+                  "name": "Kita-Kyushu Manga Museum",
+                  "text": "A Kita-Kyushu Manga Múzeum a japán képregényművészetet ünnepli kiterjedt olvasóövezetekkel és helyi művészeket bemutató kiállításokkal.",
+                  "category": "museum",
+                  "coords": [
+                        130.884731,
+                        33.887543
+                  ]
+            },
+            {
+                  "name": "Wakato Bridge",
+                  "text": "A Wakato híd egy feltűnő piros függőhíd, amely a Dokai-öböl vizei felett ível át, összekötve Wakamatsu és Tobata kerületeket.",
+                  "category": "landmark",
+                  "coords": [
+                        130.816642,
+                        33.90279
+                  ]
+            },
+            {
+                  "name": "Kawachi Wisteria Garden",
+                  "text": "A Kawachi lilaakác-kert nemzetközileg ismert lenyűgöző, pasztellszínű virágalagútjairól, amelyek minden tavasszal élénken virágoznak.",
+                  "category": "park",
+                  "coords": [
+                        130.792218,
+                        33.832271
+                  ]
+            },
+            {
+                  "name": "Hibiki Hall, Kitakyushu",
+                  "text": "A Hibiki Hall egy kiváló akusztikájú koncertterem Kitakyushuban, amely elsősorban klasszikus zenei előadásoknak és szólóesteknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        130.793963,
+                        33.862415
+                  ]
+            },
+            {
+                  "name": "Higashida First Blast Furnace Mark",
+                  "text": "A Higashida első nagyolvasztó emlékhelye egy monumentális vasszerkezet, amely a modern japán acélipar szülőhelyét őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        130.805314,
+                        33.869832
+                  ]
+            },
+            {
+                  "name": "Kokura Castle",
+                  "text": "A Kokura kastély egy újjáépített hagyományos erőd, amely figyelemre méltó egyedi építészetéről, ahol az ötödik emelet nagyobb, mint a negyedik.",
+                  "category": "castle",
+                  "coords": [
+                        130.874205,
+                        33.884485
+                  ]
+            },
+            {
+                  "name": "TOTO",
+                  "text": "A TOTO Múzeum a vízvezeték- és szaniteráruk fejlődését mutatja be, történelmi kerámia szerelvényeket és modern fürdőszobai innovációkat kiállítva.",
+                  "category": "museum",
+                  "coords": [
+                        130.872061,
+                        33.87238
+                  ]
+            },
+            {
+                  "name": "Kokura Catholic Church",
+                  "text": "A kokurai katolikus templom spirituális menedékként szolgál, amelyet kereszttel díszített homlokzata és békés istentiszteleti terme tesz különlegessé.",
+                  "category": "landmark",
+                  "coords": [
+                        130.88003,
+                        33.875723
+                  ]
+            },
+            {
+                  "name": "Tanga Ichiba",
+                  "text": "A „Kitakyushu konyhájaként” is ismert Tanga Ichiba egy nyüzsgő retró piacutca, amely tele van friss helyi tenger gyümölcseit és terményeket árusító standokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        130.879677,
+                        33.881134
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wakamatu Dokai Wan Ko (Entrance) Bohatei (Breakwater) Todai (Lighthouse)",
+                  "text": "Stând ferm pe un dig de coastă, acest far ghidează în siguranță traficul maritim către intrarea în Golful Dokai.",
+                  "category": "landmark",
+                  "coords": [
+                        130.850556,
+                        33.941111
+                  ]
+            },
+            {
+                  "name": "Ishimine-yama",
+                  "text": "Ishimine-yama este un vârf montan accidentat din Kitakyushu, oferind trasee de drumeții abrupte prin pădurile regionale dense.",
+                  "category": "natural",
+                  "coords": [
+                        130.771972,
+                        33.903387
+                  ]
+            },
+            {
+                  "name": "times",
+                  "text": "Acest punct de belvedere pitoresc oferă vizitatorilor o perspectivă amplă, la înălțime, asupra peisajului industrial și urban plin de viață din Kitakyushu.",
+                  "category": "natural",
+                  "coords": [
+                        130.807913,
+                        33.903764
+                  ]
+            },
+            {
+                  "name": "Yawata Steel Works Former Head Office",
+                  "text": "Fostul sediu al uzinelor siderurgice Yawata este o clădire impunătoare din cărămidă roșie care simbolizează modernizarea industrială rapidă a Japoniei.",
+                  "category": "landmark",
+                  "coords": [
+                        130.806813,
+                        33.873828
+                  ]
+            },
+            {
+                  "name": "Mount Sarakura",
+                  "text": "Muntele Sarakura este un vârf proeminent de 622 de metri, celebru pentru că oferă din observatorul său una dintre cele mai spectaculoase priveliști nocturne urbane din Japonia.",
+                  "category": "natural",
+                  "coords": [
+                        130.79646,
+                        33.846457
+                  ]
+            },
+            {
+                  "name": "Mount Gongen",
+                  "text": "Muntele Gongen este un vârf împădurit din Kitakyushu care oferă trasee naturale liniștite, departe de expansiunea urbană înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        130.790153,
+                        33.839979
+                  ]
+            },
+            {
+                  "name": "ZENRIN Museum",
+                  "text": "Muzeul ZENRIN este o instituție culturală unică dedicată istoriei cartografiei și designului hărților.",
+                  "category": "museum",
+                  "coords": [
+                        130.875985,
+                        33.885895
+                  ]
+            },
+            {
+                  "name": "Kita-Kyushu Manga Museum",
+                  "text": "Muzeul Manga din Kita-Kyushu celebrează arta benzilor desenate japoneze prin zone extinse de lectură și expoziții dedicate artiștilor locali.",
+                  "category": "museum",
+                  "coords": [
+                        130.884731,
+                        33.887543
+                  ]
+            },
+            {
+                  "name": "Wakato Bridge",
+                  "text": "Podul Wakato este un pod suspendat roșu impresionant, care traversează apele Golfului Dokai pentru a conecta districtele Wakamatsu și Tobata.",
+                  "category": "landmark",
+                  "coords": [
+                        130.816642,
+                        33.90279
+                  ]
+            },
+            {
+                  "name": "Kawachi Wisteria Garden",
+                  "text": "Grădina de Glicine Kawachi este renumită la nivel internațional pentru tunelurile sale florale hipnotice, în culori pastelate, care înfloresc vibrant în fiecare primăvară.",
+                  "category": "park",
+                  "coords": [
+                        130.792218,
+                        33.832271
+                  ]
+            },
+            {
+                  "name": "Hibiki Hall, Kitakyushu",
+                  "text": "Sala Hibiki este o locație de concerte cu o acustică fin reglată din Kitakyushu, care găzduiește în principal spectacole și recitaluri de muzică clasică.",
+                  "category": "cultural",
+                  "coords": [
+                        130.793963,
+                        33.862415
+                  ]
+            },
+            {
+                  "name": "Higashida First Blast Furnace Mark",
+                  "text": "Monumentul Primului Furnal Higashida este o structură monumentală din fier care păstrează locul de naștere al industriei moderne a oțelului din Japonia.",
+                  "category": "historical",
+                  "coords": [
+                        130.805314,
+                        33.869832
+                  ]
+            },
+            {
+                  "name": "Kokura Castle",
+                  "text": "Castelul Kokura este o fortăreață tradițională reconstruită, notabilă pentru arhitectura sa unică, în care etajul cinci este mai mare decât al patrulea.",
+                  "category": "castle",
+                  "coords": [
+                        130.874205,
+                        33.884485
+                  ]
+            },
+            {
+                  "name": "TOTO",
+                  "text": "Muzeul TOTO expune evoluția instalațiilor sanitare, prezentând accesorii ceramice istorice și inovații moderne pentru băi.",
+                  "category": "museum",
+                  "coords": [
+                        130.872061,
+                        33.87238
+                  ]
+            },
+            {
+                  "name": "Kokura Catholic Church",
+                  "text": "Biserica Catolică Kokura servește ca sanctuar spiritual, remarcându-se prin fațada sa încununată cu o cruce și sala de cult pașnică.",
+                  "category": "landmark",
+                  "coords": [
+                        130.88003,
+                        33.875723
+                  ]
+            },
+            {
+                  "name": "Tanga Ichiba",
+                  "text": "Cunoscută sub numele de „bucătăria din Kitakyushu”, Tanga Ichiba este o stradă plină de viață a unei piețe retro, plină de tarabe care vând fructe de mare proaspete și produse locale.",
+                  "category": "cultural",
+                  "coords": [
+                        130.879677,
+                        33.881134
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wakamatu Dokai Wan Ko (Entrance) Bohatei (Breakwater) Todai (Lighthouse)",
+                  "text": "Standing firmly on a coastal breakwater, this lighthouse guides maritime traffic safely into the entrance of the Dokai Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        130.850556,
+                        33.941111
+                  ]
+            },
+            {
+                  "name": "Ishimine-yama",
+                  "text": "Ishimine-yama is a rugged mountain peak in Kitakyushu, offering steep hiking trails through dense regional forests.",
+                  "category": "natural",
+                  "coords": [
+                        130.771972,
+                        33.903387
+                  ]
+            },
+            {
+                  "name": "times",
+                  "text": "This scenic viewpoint provides visitors with an expansive, elevated perspective over Kitakyushu's bustling industrial and urban landscape.",
+                  "category": "natural",
+                  "coords": [
+                        130.807913,
+                        33.903764
+                  ]
+            },
+            {
+                  "name": "Yawata Steel Works Former Head Office",
+                  "text": "The Yawata Steel Works Former Head Office is a stately red-brick building that symbolizes Japan's rapid industrial modernization.",
+                  "category": "landmark",
+                  "coords": [
+                        130.806813,
+                        33.873828
+                  ]
+            },
+            {
+                  "name": "Mount Sarakura",
+                  "text": "Mount Sarakura is a prominent 622-meter peak celebrated for offering one of Japan's most spectacular nighttime city views from its summit observatory.",
+                  "category": "natural",
+                  "coords": [
+                        130.79646,
+                        33.846457
+                  ]
+            },
+            {
+                  "name": "Mount Gongen",
+                  "text": "Mount Gongen is a forested peak in Kitakyushu that provides tranquil nature trails away from the surrounding urban sprawl.",
+                  "category": "natural",
+                  "coords": [
+                        130.790153,
+                        33.839979
+                  ]
+            },
+            {
+                  "name": "ZENRIN Museum",
+                  "text": "The ZENRIN Museum is a unique cultural institution dedicated to the history of mapmaking and cartographic design.",
+                  "category": "museum",
+                  "coords": [
+                        130.875985,
+                        33.885895
+                  ]
+            },
+            {
+                  "name": "Kita-Kyushu Manga Museum",
+                  "text": "The Kita-Kyushu Manga Museum celebrates Japanese comic art with extensive reading zones and exhibitions on local artists.",
+                  "category": "museum",
+                  "coords": [
+                        130.884731,
+                        33.887543
+                  ]
+            },
+            {
+                  "name": "Wakato Bridge",
+                  "text": "The Wakato Bridge is a striking red suspension bridge that spans the waters of Dokai Bay to connect the wards of Wakamatsu and Tobata.",
+                  "category": "landmark",
+                  "coords": [
+                        130.816642,
+                        33.90279
+                  ]
+            },
+            {
+                  "name": "Kawachi Wisteria Garden",
+                  "text": "The Kawachi Wisteria Garden is internationally renowned for its mesmerizing, pastel-colored floral tunnels that bloom vibrantly each spring.",
+                  "category": "park",
+                  "coords": [
+                        130.792218,
+                        33.832271
+                  ]
+            },
+            {
+                  "name": "Hibiki Hall, Kitakyushu",
+                  "text": "Hibiki Hall is a finely tuned acoustic concert venue in Kitakyushu, primarily hosting classical music performances and recitals.",
+                  "category": "cultural",
+                  "coords": [
+                        130.793963,
+                        33.862415
+                  ]
+            },
+            {
+                  "name": "Higashida First Blast Furnace Mark",
+                  "text": "The Higashida First Blast Furnace Mark stands as a monumental iron structure preserving the birthplace of Japan's modern steel industry.",
+                  "category": "historical",
+                  "coords": [
+                        130.805314,
+                        33.869832
+                  ]
+            },
+            {
+                  "name": "Kokura Castle",
+                  "text": "Kokura Castle is a reconstructed traditional fortress, notable for its unique architecture where the fifth floor is larger than the fourth.",
+                  "category": "castle",
+                  "coords": [
+                        130.874205,
+                        33.884485
+                  ]
+            },
+            {
+                  "name": "TOTO Museum",
+                  "text": "The TOTO Museum exhibits the evolution of plumbing and sanitary ware, showcasing historic ceramic fixtures and modern bathroom innovations.",
+                  "category": "museum",
+                  "coords": [
+                        130.872061,
+                        33.87238
+                  ]
+            },
+            {
+                  "name": "Kokura Catholic Church",
+                  "text": "The Kokura Catholic Church serves as a spiritual sanctuary, distinguished by its cross-topped facade and peaceful worship hall.",
+                  "category": "landmark",
+                  "coords": [
+                        130.88003,
+                        33.875723
+                  ]
+            },
+            {
+                  "name": "Tanga Ichiba",
+                  "text": "Known as the \"kitchen of Kitakyushu\", Tanga Ichiba is a bustling retro market street packed with stalls selling fresh local seafood and produce.",
+                  "category": "cultural",
+                  "coords": [
+                        130.879677,
+                        33.881134
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "JP-40",
     coords: [130.8, 33.8833],
@@ -493,7 +5605,1384 @@ export const poiExtraJapanEconomicV2: POI[] = [
     
      image: "/poi-images/sado-gold-mine-economic-v2.webp"},
   {
-    id: "shibuya-scramble-crossing-trade-hub-v2",
+    id: "shibuya-scramble-crossing-trade-hub-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museum and Centennial Hall, Institute of Science Tokyo",
+                  "text": "In einem markanten, von Kazuo Shinohara entworfenen Gebäude untergebracht, zeigt dieses Museum wissenschaftliche Instrumente und die Universitätsgeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        139.684799,
+                        35.606783
+                  ]
+            },
+            {
+                  "name": "Meguro Museum of Art",
+                  "text": "Dieses Museum im Meguro-Park konzentriert sich auf moderne japanische Kunst und zeigt eine Sammlung vielfältiger Materialien und Farben.",
+                  "category": "museum",
+                  "coords": [
+                        139.707676,
+                        35.634925
+                  ]
+            },
+            {
+                  "name": "Meguro Parasitological Museum",
+                  "text": "Das weltweit einzige den Parasiten gewidmete Museum zeigt Tausende von Exponaten, darunter einen 8 Meter langen Bandwurm.",
+                  "category": "museum",
+                  "coords": [
+                        139.706666,
+                        35.6317
+                  ]
+            },
+            {
+                  "name": "Kume Museum of Art",
+                  "text": "In der Nähe des Bahnhofs Meguro gelegen, erinnert dieses Museum an das Werk des Historikers Kume Kunitake und seines Sohnes, eines Malers.",
+                  "category": "museum",
+                  "coords": [
+                        139.714759,
+                        35.634545
+                  ]
+            },
+            {
+                  "name": "Tokyo Photographic Art Museum",
+                  "text": "Das im Ebisu Garden Place gelegene Museum ist eines der weltweit wenigen, die sich ausschließlich der Fotografie und dem Video widmen.",
+                  "category": "museum",
+                  "coords": [
+                        139.713396,
+                        35.641543
+                  ]
+            },
+            {
+                  "name": "Yamatane Museum of Art",
+                  "text": "Dieses elegante Museum ist das erste Japans, das auf Nihonga spezialisiert ist und wunderschöne moderne Malerei im japanischen Stil zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        139.713641,
+                        35.653174
+                  ]
+            },
+            {
+                  "name": "Kokugakuin University Museum",
+                  "text": "Dieses Universitätsmuseum verfügt über eine umfangreiche Sammlung archäologischer Artefakte und Gegenstände zur Shinto-Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        139.7112,
+                        35.656217
+                  ]
+            },
+            {
+                  "name": "Local History Museum and Literature Museum",
+                  "text": "Dieses Museum erkundet die Verwandlung von Shibuya vom ländlichen Dorf zum globalen Zentrum anhand der lokalen Geschichte und Literatur.",
+                  "category": "museum",
+                  "coords": [
+                        139.712542,
+                        35.656439
+                  ]
+            },
+            {
+                  "name": "Toguri Museum of Art",
+                  "text": "Dieses Privatmuseum ist auf ostasiatische Keramik spezialisiert, mit Schwerpunkt auf historischem Imari- und Nabeshima-Porzellan.",
+                  "category": "museum",
+                  "coords": [
+                        139.6928,
+                        35.66144
+                  ]
+            },
+            {
+                  "name": "Tokyo Anime Center",
+                  "text": "Das im Shibuya-MODI-Gebäude untergebrachte Zentrum veranstaltet Ausstellungen und Events zur Feier der lebendigen japanischen Animationsindustrie.",
+                  "category": "museum",
+                  "coords": [
+                        139.70057,
+                        35.661394
+                  ]
+            },
+            {
+                  "name": "Setagaya Local History Museum",
+                  "text": "Auf dem Gelände des historischen Setagaya Daikan Yashiki gelegen, untergebracht, zeigt dieses Museum regionale Geschichte und Folklore.",
+                  "category": "museum",
+                  "coords": [
+                        139.647222,
+                        35.641461
+                  ]
+            },
+            {
+                  "name": "Hasegawa Machiko Art Museum",
+                  "text": "Dieses Museum ehrt Hasegawa Machiko, die Schöpferin des beliebten Comicstreifens Sazae-san, mit Originalzeichnungen und Kunstwerken.",
+                  "category": "museum",
+                  "coords": [
+                        139.643621,
+                        35.627983
+                  ]
+            },
+            {
+                  "name": "The Gotoh Museum",
+                  "text": "In einem wunderschönen Garten gelegen, ist dieses Museum berühmt für seine Sammlung alter ostasiatischer Kunst und Genji-Monogatari-Rollen.",
+                  "category": "museum",
+                  "coords": [
+                        139.635364,
+                        35.612436
+                  ]
+            },
+            {
+                  "name": "Setagaya Art Museum",
+                  "text": "Inmitten des üppigen Grüns des Kinuta-Parks gelegen, zeigt dieses Museum ein breites Spektrum an internationalen und modernen Kunstausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        139.6222,
+                        35.631624
+                  ]
+            },
+            {
+                  "name": "Hanawa Hokiichi Historical Museum",
+                  "text": "Dieses Museum in Shibuya ehrt das Leben des blinden Gelehrten Hanawa Hokiichi aus der Edo-Zeit.",
+                  "category": "museum",
+                  "coords": [
+                        139.71144,
+                        35.654334
+                  ]
+            },
+            {
+                  "name": "Tokiwa Matsu Imperial Villa",
+                  "text": "Diese ehemalige kaiserliche Villa in Shibuya dient heute als Residenz für das Haus Hitachi.",
+                  "category": "castle",
+                  "coords": [
+                        139.712728,
+                        35.657593
+                  ]
+            },
+            {
+                  "name": "Former Asakura Estate",
+                  "text": "Ein prächtiges Wohnhaus aus der Taisho-Ära mit einem traditionellen japanischen Garten, das 2004 als Kulturerbe anerkannt wurde.",
+                  "category": "museum",
+                  "coords": [
+                        139.700844,
+                        35.647413
+                  ]
+            },
+            {
+                  "name": "Shoto Museum of Art",
+                  "text": "Dieses von Seiichi Shirai entworfene Kunstmuseum ist für seine markante Steinarchitektur und lokalen Ausstellungen bekannt.",
+                  "category": "museum",
+                  "coords": [
+                        139.691797,
+                        35.658685
+                  ]
+            },
+            {
+                  "name": "Meguro City Hall",
+                  "text": "Das von Togo Murano entworfene Rathaus beeindruckt durch seine geschwungene Innentreppe und das moderne Design.",
+                  "category": "historical",
+                  "coords": [
+                        139.698274,
+                        35.641407
+                  ]
+            },
+            {
+                  "name": "Shibuya ward city hall",
+                  "text": "Das moderne Verwaltungszentrum des Bezirks Shibuya befindet sich in unmittelbarer Nähe zum Yoyogi-Park.",
+                  "category": "historical",
+                  "coords": [
+                        139.697758,
+                        35.663723
+                  ]
+            },
+            {
+                  "name": "Noge Ōtsuka Kofun",
+                  "text": "Eine große schlüssellochförmige Grabstätte aus dem 5. Jahrhundert, die zu den bedeutendsten Kofun-Hügeln Tokios zählt.",
+                  "category": "historical",
+                  "coords": [
+                        139.643048,
+                        35.604959
+                  ]
+            },
+            {
+                  "name": "Yukigaya Hachiman Shrine",
+                  "text": "Dieser Shinto-Schrein in Ota ist bekannt für seine lebhaften Herbstfeste und die traditionelle Atmosphäre.",
+                  "category": "religious",
+                  "coords": [
+                        139.686286,
+                        35.596723
+                  ]
+            },
+            {
+                  "name": "Myofuku Ji",
+                  "text": "Ein buddhistischer Tempel der Nichiren-Schule, der für seine ruhige Lage im Wohnviertel von Ota geschätzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        139.692021,
+                        35.601144
+                  ]
+            },
+            {
+                  "name": "Chojo-ji",
+                  "text": "Ein friedlicher Nichiren-Tempel in Shinagawa mit einer gepflegten Tempelanlage für Gebet und Meditation.",
+                  "category": "religious",
+                  "coords": [
+                        139.711441,
+                        35.621115
+                  ]
+            },
+            {
+                  "name": "Hounji Temple",
+                  "text": "Dieser kleine Zen-Tempel bietet eine Oase der Stille inmitten des geschäftigen Shibuya-Bezirks.",
+                  "category": "religious",
+                  "coords": [
+                        139.713626,
+                        35.649739
+                  ]
+            },
+            {
+                  "name": "Shitsusenji Temple",
+                  "text": "Ein Tempel der Shingon-Schule, der Gläubige mit seiner spirituellen Atmosphäre in Shibuya anzieht.",
+                  "category": "religious",
+                  "coords": [
+                        139.711672,
+                        35.650834
+                  ]
+            },
+            {
+                  "name": "KITAYA shrine",
+                  "text": "Dieser kleine Inari-Schrein liegt versteckt hinter dem Parco-Kaufhaus im Herzen von Shibuya.",
+                  "category": "religious",
+                  "coords": [
+                        139.700335,
+                        35.665397
+                  ]
+            },
+            {
+                  "name": "PARCO Theatre",
+                  "text": "Ein renommiertes Theater in Shibuya, das seit 1973 wegweisende zeitgenössische Stücke aufführt.",
+                  "category": "cultural",
+                  "coords": [
+                        139.698863,
+                        35.662194
+                  ]
+            },
+            {
+                  "name": "Yoshimoto ∞ Hall",
+                  "text": "Ein populäres Comedy-Theater, das sich auf Manzai- und Kontsu-Auftritte japanischer Nachwuchstalente konzentriert.",
+                  "category": "cultural",
+                  "coords": [
+                        139.697599,
+                        35.66136
+                  ]
+            },
+            {
+                  "name": "Josenji Temple",
+                  "text": "Ein beeindruckender moderner buddhistischer Tempelkomplex mit markanter Architektur in Shibuya.",
+                  "category": "religious",
+                  "coords": [
+                        139.701847,
+                        35.653231
+                  ]
+            },
+            {
+                  "name": "Ebisu Shrine",
+                  "text": "Ein kleiner Nachbarschaftsschrein im Stadtteil Ebisu, der dem Glücksgott Ebisu gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        139.707785,
+                        35.647223
+                  ]
+            },
+            {
+                  "name": "Tokyo Baptist Church",
+                  "text": "Eine internationale christliche Kirche in Shibuya, die Gottesdienste in englischer Sprache anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        139.697555,
+                        35.650424
+                  ]
+            },
+            {
+                  "name": "Ikejiri-inari Shrine",
+                  "text": "Ein für seine vielen Fuchs-Statuen bekannter Shinto-Schrein, der Glück und Schutz bringen soll.",
+                  "category": "religious",
+                  "coords": [
+                        139.681298,
+                        35.648536
+                  ]
+            },
+            {
+                  "name": "Mishuku Shrine",
+                  "text": "Dieser ruhige lokale Schrein liegt im Mishuku-Viertel und wird von den Anwohnern für stille Gebete genutzt.",
+                  "category": "religious",
+                  "coords": [
+                        139.674236,
+                        35.650903
+                  ]
+            },
+            {
+                  "name": "Wakabayashi Inari Shrine",
+                  "text": "Ein kleiner Inari-Schrein im Wohngebiet von Wakabayashi, erkennbar an seinen traditionellen roten Torii.",
+                  "category": "religious",
+                  "coords": [
+                        139.661603,
+                        35.648092
+                  ]
+            },
+            {
+                  "name": "Shōin Shrine",
+                  "text": "Dieser Schrein ist dem Gelehrten Yoshida Shoin gewidmet und beherbergt sein Grab sowie ein kleines Museum.",
+                  "category": "religious",
+                  "coords": [
+                        139.656124,
+                        35.64718
+                  ]
+            },
+            {
+                  "name": "Theater Tram",
+                  "text": "Ein intimes Theater im Carrot Tower von Sangenjaya, das für seine experimentellen Aufführungen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        139.669306,
+                        35.644204
+                  ]
+            },
+            {
+                  "name": "Jōkōji Temple",
+                  "text": "Ein buddhistischer Tempel der Jodo-Schule, der eine friedliche Atmosphäre im geschäftigen Setagaya bietet.",
+                  "category": "religious",
+                  "coords": [
+                        139.646757,
+                        35.640446
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum and Centennial Hall, Institute of Science Tokyo",
+                  "text": "A Kazuo Shinohara által tervezett feltűnő épületben helyet kapó múzeum tudományos műszereket és az egyetem történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        139.684799,
+                        35.606783
+                  ]
+            },
+            {
+                  "name": "Meguro Museum of Art",
+                  "text": "Ez a Meguro Parkban található múzeum a modern japán művészetre összpontosít, és változatos anyagokat és színeket bemutató gyűjteménnyel rendelkezik.",
+                  "category": "museum",
+                  "coords": [
+                        139.707676,
+                        35.634925
+                  ]
+            },
+            {
+                  "name": "Meguro Parasitological Museum",
+                  "text": "A világ egyetlen parazitáknak szentelt múzeuma, ahol több ezer példányt láthatunk, köztük egy 8 méteres galandférget.",
+                  "category": "museum",
+                  "coords": [
+                        139.706666,
+                        35.6317
+                  ]
+            },
+            {
+                  "name": "Kume Museum of Art",
+                  "text": "A Meguro állomás közelében található múzeum Kume Kunitake történész és festő fia munkásságának állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        139.714759,
+                        35.634545
+                  ]
+            },
+            {
+                  "name": "Tokyo Photographic Art Museum",
+                  "text": "Az Ebisu Garden Place-ben található intézmény a világ azon kevés múzeumainak egyike, amelyeket teljes egészében a fotográfiának és a videóművészetnek szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        139.713396,
+                        35.641543
+                  ]
+            },
+            {
+                  "name": "Yamatane Museum of Art",
+                  "text": "Ez az elegáns múzeum Japán első, Nihongára szakosodott intézménye, amely gyönyörű modern, japán stílusú festményeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        139.713641,
+                        35.653174
+                  ]
+            },
+            {
+                  "name": "Kokugakuin University Museum",
+                  "text": "Ez az egyetemi múzeum régészeti leletek és a sintó történetéhez kapcsolódó tárgyak kiterjedt gyűjteményével rendelkezik.",
+                  "category": "museum",
+                  "coords": [
+                        139.7112,
+                        35.656217
+                  ]
+            },
+            {
+                  "name": "Local History Museum and Literature Museum",
+                  "text": "Ez a múzeum Shibuya átalakulását mutatja be vidéki faluból globális központtá, a helyi történelem és irodalom tükrében.",
+                  "category": "museum",
+                  "coords": [
+                        139.712542,
+                        35.656439
+                  ]
+            },
+            {
+                  "name": "Toguri Museum of Art",
+                  "text": "Ez a magánmúzeum a kelet-ázsiai kerámiákra szakosodott, különös tekintettel a történelmi Imari és Nabeshima porcelánokra.",
+                  "category": "museum",
+                  "coords": [
+                        139.6928,
+                        35.66144
+                  ]
+            },
+            {
+                  "name": "Tokyo Anime Center",
+                  "text": "A Shibuya MODI épületében található központ kiállításoknak és eseményeknek ad otthont, Japán élénk animációs iparát ünnepelve.",
+                  "category": "museum",
+                  "coords": [
+                        139.70057,
+                        35.661394
+                  ]
+            },
+            {
+                  "name": "Setagaya Local History Museum",
+                  "text": "A történelmi Setagaya Daikan Yashiki területén található múzeum a régió történelmét és néprajzát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        139.647222,
+                        35.641461
+                  ]
+            },
+            {
+                  "name": "Hasegawa Machiko Art Museum",
+                  "text": "Ez a múzeum Hasegawa Machiko, a kedvelt Sazae-san képregény alkotója előtt tiszteleg eredeti rajzokkal és műalkotásokkal.",
+                  "category": "museum",
+                  "coords": [
+                        139.643621,
+                        35.627983
+                  ]
+            },
+            {
+                  "name": "The Gotoh Museum",
+                  "text": "A gyönyörű kertben fekvő múzeum ősi kelet-ázsiai művészeti gyűjteményéről és a Gendzsi szerelmei tekercsekről híres.",
+                  "category": "museum",
+                  "coords": [
+                        139.635364,
+                        35.612436
+                  ]
+            },
+            {
+                  "name": "Setagaya Art Museum",
+                  "text": "A Kinuta Park buja zöldjében található múzeum nemzetközi és modern művészeti kiállítások széles választékának ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        139.6222,
+                        35.631624
+                  ]
+            },
+            {
+                  "name": "Hanawa Hokiichi Historical Museum",
+                  "text": "Ez a sibuszai múzeum Hanava Hokiicsi, az Edo-kor vak tudósának életművét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        139.71144,
+                        35.654334
+                  ]
+            },
+            {
+                  "name": "Tokiwa Matsu Imperial Villa",
+                  "text": "Ez az egykori sibuszai császári villa ma a Hitacsi-ház rezidenciájaként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        139.712728,
+                        35.657593
+                  ]
+            },
+            {
+                  "name": "Former Asakura Estate",
+                  "text": "Pompás Taisó-kori lakóház hagyományos japán kerttel, amelyet 2004-ben nyilvánítottak örökségi helyszínné.",
+                  "category": "museum",
+                  "coords": [
+                        139.700844,
+                        35.647413
+                  ]
+            },
+            {
+                  "name": "Shoto Museum of Art",
+                  "text": "Ez a Szeiicsi Sirai által tervezett művészeti múzeum jellegzetes kőépítészetéről és helyi kiállításairól ismert.",
+                  "category": "museum",
+                  "coords": [
+                        139.691797,
+                        35.658685
+                  ]
+            },
+            {
+                  "name": "Meguro City Hall",
+                  "text": "A Togo Murano által tervezett városháza lenyűgöző csavart belső lépcsőjével és modern kialakításával.",
+                  "category": "historical",
+                  "coords": [
+                        139.698274,
+                        35.641407
+                  ]
+            },
+            {
+                  "name": "Shibuya ward city hall",
+                  "text": "Sibuja kerület modern adminisztratív központja a Jojogi park közvetlen közelében található.",
+                  "category": "historical",
+                  "coords": [
+                        139.697758,
+                        35.663723
+                  ]
+            },
+            {
+                  "name": "Noge Ōtsuka Kofun",
+                  "text": "Egy hatalmas, 5. századi kulcslyuk alakú sírhalom, amely Tokió egyik legjelentősebb kofun dombja.",
+                  "category": "historical",
+                  "coords": [
+                        139.643048,
+                        35.604959
+                  ]
+            },
+            {
+                  "name": "Yukigaya Hachiman Shrine",
+                  "text": "Ez az otabeli sintoista szentély élénk őszi fesztiváljairól és hagyományos hangulatáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        139.686286,
+                        35.596723
+                  ]
+            },
+            {
+                  "name": "Myofuku Ji",
+                  "text": "A nicsiren iskola egyik buddhista temploma, amelyet Ota lakónegyedében fekvő nyugodt elhelyezkedése miatt kedvelnek.",
+                  "category": "religious",
+                  "coords": [
+                        139.692021,
+                        35.601144
+                  ]
+            },
+            {
+                  "name": "Chojo-ji",
+                  "text": "Békés nicsiren templom Sinagavában, gondozott kerttel az imádsághoz és a meditációhoz.",
+                  "category": "religious",
+                  "coords": [
+                        139.711441,
+                        35.621115
+                  ]
+            },
+            {
+                  "name": "Hounji Temple",
+                  "text": "Ez a kis zen templom a nyugalom oázisát kínálja Sibuja nyüzsgő negyedének közepén.",
+                  "category": "religious",
+                  "coords": [
+                        139.713626,
+                        35.649739
+                  ]
+            },
+            {
+                  "name": "Shitsusenji Temple",
+                  "text": "A singon iskola egyik temploma, amely spirituális atmoszférájával vonzza a hívőket Sibujában.",
+                  "category": "religious",
+                  "coords": [
+                        139.711672,
+                        35.650834
+                  ]
+            },
+            {
+                  "name": "KITAYA shrine",
+                  "text": "Ez a kis Inari-szentély a Parco áruház mögött rejtőzik Sibuja szívében.",
+                  "category": "religious",
+                  "coords": [
+                        139.700335,
+                        35.665397
+                  ]
+            },
+            {
+                  "name": "PARCO Theatre",
+                  "text": "Nves sibuszai színház, amely 1973 óta mutat be úttörő kortárs darabokat.",
+                  "category": "cultural",
+                  "coords": [
+                        139.698863,
+                        35.662194
+                  ]
+            },
+            {
+                  "name": "Yoshimoto ∞ Hall",
+                  "text": "Népszerű komédiaszínház, amely a fiatal japán tehetségek manzai és koncu előadásaira összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        139.697599,
+                        35.66136
+                  ]
+            },
+            {
+                  "name": "Josenji Temple",
+                  "text": "Lenyűgöző modern buddhista templomkomplexum jellegzetes építészettel Sibujában.",
+                  "category": "religious",
+                  "coords": [
+                        139.701847,
+                        35.653231
+                  ]
+            },
+            {
+                  "name": "Ebisu Shrine",
+                  "text": "Kis szomszédsági szentély Ebiszu negyedben, amelyet Ebiszunak, a szerencse istenének szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        139.707785,
+                        35.647223
+                  ]
+            },
+            {
+                  "name": "Tokyo Baptist Church",
+                  "text": "Nemzetközi keresztény templom Sibujában, amely angol nyelvű istentiszteleteket tart.",
+                  "category": "religious",
+                  "coords": [
+                        139.697555,
+                        35.650424
+                  ]
+            },
+            {
+                  "name": "Ikejiri-inari Shrine",
+                  "text": "Számos rókaszobráról ismert sintoista szentély, amely a hiedelem szerint szerencsét és védelmet hoz.",
+                  "category": "religious",
+                  "coords": [
+                        139.681298,
+                        35.648536
+                  ]
+            },
+            {
+                  "name": "Mishuku Shrine",
+                  "text": "Ez a nyugodt helyi szentély Misuku negyedben található, és a lakók csendes imádságait szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        139.674236,
+                        35.650903
+                  ]
+            },
+            {
+                  "name": "Wakabayashi Inari Shrine",
+                  "text": "Kis Inari-szentély Vakabajasi lakóövezetében, amely hagyományos vörös torii kapuiról ismerhető fel.",
+                  "category": "religious",
+                  "coords": [
+                        139.661603,
+                        35.648092
+                  ]
+            },
+            {
+                  "name": "Shōin Shrine",
+                  "text": "Ezt a szentélyt Josida Sóin tudósnak szentelték, itt található a sírja és egy kis múzeum is.",
+                  "category": "religious",
+                  "coords": [
+                        139.656124,
+                        35.64718
+                  ]
+            },
+            {
+                  "name": "Theater Tram",
+                  "text": "Meghitt színház a szandzendzsajai Carrot Towerben, amely kísérleti előadásairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        139.669306,
+                        35.644204
+                  ]
+            },
+            {
+                  "name": "Jōkōji Temple",
+                  "text": "A dzsodo iskola buddhista temploma, amely békés környezetet biztosít a nyüzsgő Szetagajában.",
+                  "category": "religious",
+                  "coords": [
+                        139.646757,
+                        35.640446
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum and Centennial Hall, Institute of Science Tokyo",
+                  "text": "Găzduit într-o clădire frapantă proiectată de Kazuo Shinohara, acest muzeu expune instrumente științifice și istoria universității.",
+                  "category": "museum",
+                  "coords": [
+                        139.684799,
+                        35.606783
+                  ]
+            },
+            {
+                  "name": "Meguro Museum of Art",
+                  "text": "Acest muzeu din Parcul Meguro se concentrează pe arta japoneză modernă și prezintă o colecție de materiale și culori diverse.",
+                  "category": "museum",
+                  "coords": [
+                        139.707676,
+                        35.634925
+                  ]
+            },
+            {
+                  "name": "Meguro Parasitological Museum",
+                  "text": "Singurul muzeu din lume dedicat paraziților, care expune mii de specimene, inclusiv un tenie de 8 metri.",
+                  "category": "museum",
+                  "coords": [
+                        139.706666,
+                        35.6317
+                  ]
+            },
+            {
+                  "name": "Kume Museum of Art",
+                  "text": "Situat lângă gara Meguro, acest muzeu comemorează opera istoricului Kume Kunitake și a fiului său pictor.",
+                  "category": "museum",
+                  "coords": [
+                        139.714759,
+                        35.634545
+                  ]
+            },
+            {
+                  "name": "Tokyo Photographic Art Museum",
+                  "text": "Situat în Ebisu Garden Place, acesta este unul dintre puținele muzee din lume dedicate în întregime fotografiei și artei video.",
+                  "category": "museum",
+                  "coords": [
+                        139.713396,
+                        35.641543
+                  ]
+            },
+            {
+                  "name": "Yamatane Museum of Art",
+                  "text": "Acest muzeu elegant este primul din Japonia specializat în Nihonga, expunând frumoase picturi moderne în stil japonez.",
+                  "category": "museum",
+                  "coords": [
+                        139.713641,
+                        35.653174
+                  ]
+            },
+            {
+                  "name": "Kokugakuin University Museum",
+                  "text": "Acest muzeu universitar are o colecție extinsă de artefacte arheologice și obiecte legate de istoria shintoismului.",
+                  "category": "museum",
+                  "coords": [
+                        139.7112,
+                        35.656217
+                  ]
+            },
+            {
+                  "name": "Local History Museum and Literature Museum",
+                  "text": "Acest muzeu explorează transformarea cartierului Shibuya dintr-un sat rural într-un centru global prin istoria și literatura locală.",
+                  "category": "museum",
+                  "coords": [
+                        139.712542,
+                        35.656439
+                  ]
+            },
+            {
+                  "name": "Toguri Museum of Art",
+                  "text": "Acest muzeu privat este specializat în ceramică est-asiatică, cu accent pe porțelanul istoric Imari și Nabeshima.",
+                  "category": "museum",
+                  "coords": [
+                        139.6928,
+                        35.66144
+                  ]
+            },
+            {
+                  "name": "Tokyo Anime Center",
+                  "text": "Situat în clădirea Shibuya MODI, acest centru găzduiește expoziții și evenimente care celebrează industria vibrantă a animației din Japonia.",
+                  "category": "museum",
+                  "coords": [
+                        139.70057,
+                        35.661394
+                  ]
+            },
+            {
+                  "name": "Setagaya Local History Museum",
+                  "text": "Situat pe terenul istoricului Setagaya Daikan Yashiki, acest muzeu expune istoria și folclorul regional.",
+                  "category": "museum",
+                  "coords": [
+                        139.647222,
+                        35.641461
+                  ]
+            },
+            {
+                  "name": "Hasegawa Machiko Art Museum",
+                  "text": "Acest muzeu o onorează pe Hasegawa Machiko, creatoarea îndrăgitului comic Sazae-san, cu desene și artă originale.",
+                  "category": "museum",
+                  "coords": [
+                        139.643621,
+                        35.627983
+                  ]
+            },
+            {
+                  "name": "The Gotoh Museum",
+                  "text": "Situat într-o grădină frumoasă, acest muzeu este faimos pentru colecția sa de artă antică est-asiatică și manuscrisele Povestea lui Genji.",
+                  "category": "museum",
+                  "coords": [
+                        139.635364,
+                        35.612436
+                  ]
+            },
+            {
+                  "name": "Setagaya Art Museum",
+                  "text": "Situat în mijlocul vegetației luxuriante a Parcului Kinuta, acest muzeu găzduiește o gamă largă de expoziții de artă internațională și modernă.",
+                  "category": "museum",
+                  "coords": [
+                        139.6222,
+                        35.631624
+                  ]
+            },
+            {
+                  "name": "Hanawa Hokiichi Historical Museum",
+                  "text": "Acest muzeu din Shibuya onorează viața lui Hanawa Hokiichi, un învățat nevăzător din perioada Edo.",
+                  "category": "museum",
+                  "coords": [
+                        139.71144,
+                        35.654334
+                  ]
+            },
+            {
+                  "name": "Tokiwa Matsu Imperial Villa",
+                  "text": "Această fostă vilă imperială din Shibuya servește astăzi drept reședință pentru Casa Hitachi.",
+                  "category": "castle",
+                  "coords": [
+                        139.712728,
+                        35.657593
+                  ]
+            },
+            {
+                  "name": "Former Asakura Estate",
+                  "text": "O reședință magnifică din era Taisho, cu o grădină japoneză tradițională, desemnată sit de patrimoniu în 2004.",
+                  "category": "museum",
+                  "coords": [
+                        139.700844,
+                        35.647413
+                  ]
+            },
+            {
+                  "name": "Shoto Museum of Art",
+                  "text": "Acest muzeu de artă proiectat de Seiichi Shirai este cunoscut pentru arhitectura sa deosebită din piatră și expozițiile locale.",
+                  "category": "museum",
+                  "coords": [
+                        139.691797,
+                        35.658685
+                  ]
+            },
+            {
+                  "name": "Meguro City Hall",
+                  "text": "Proiectată de Togo Murano, această primărie impresionează prin scara interioară curbată și designul modern.",
+                  "category": "historical",
+                  "coords": [
+                        139.698274,
+                        35.641407
+                  ]
+            },
+            {
+                  "name": "Shibuya ward city hall",
+                  "text": "Centrul administrativ modern al cartierului Shibuya este situat în imediata apropiere a Parcului Yoyogi.",
+                  "category": "historical",
+                  "coords": [
+                        139.697758,
+                        35.663723
+                  ]
+            },
+            {
+                  "name": "Noge Ōtsuka Kofun",
+                  "text": "Un mormânt mare în formă de gaură de cheie din secolul al V-lea, unul dintre cele mai importante movile kofun din Tokyo.",
+                  "category": "historical",
+                  "coords": [
+                        139.643048,
+                        35.604959
+                  ]
+            },
+            {
+                  "name": "Yukigaya Hachiman Shrine",
+                  "text": "Acest altar șintoist din Ota este cunoscut pentru festivalurile sale de toamnă pline de viață și atmosfera tradițională.",
+                  "category": "religious",
+                  "coords": [
+                        139.686286,
+                        35.596723
+                  ]
+            },
+            {
+                  "name": "Myofuku Ji",
+                  "text": "Un templu budist al școlii Nichiren, apreciat pentru locația sa liniștită dintr-un cartier rezidențial din Ota.",
+                  "category": "religious",
+                  "coords": [
+                        139.692021,
+                        35.601144
+                  ]
+            },
+            {
+                  "name": "Chojo-ji",
+                  "text": "Un templu liniștit Nichiren din Shinagawa, cu o incintă îngrijită pentru rugăciune și meditație.",
+                  "category": "religious",
+                  "coords": [
+                        139.711441,
+                        35.621115
+                  ]
+            },
+            {
+                  "name": "Hounji Temple",
+                  "text": "Acest mic templu Zen oferă o oază de liniște în mijlocul cartierului aglomerat Shibuya.",
+                  "category": "religious",
+                  "coords": [
+                        139.713626,
+                        35.649739
+                  ]
+            },
+            {
+                  "name": "Shitsusenji Temple",
+                  "text": "Un templu al școlii Shingon care atrage credincioșii cu atmosfera sa spirituală din Shibuya.",
+                  "category": "religious",
+                  "coords": [
+                        139.711672,
+                        35.650834
+                  ]
+            },
+            {
+                  "name": "KITAYA shrine",
+                  "text": "Acest mic altar Inari este ascuns în spatele magazinului Parco, în inima cartierului Shibuya.",
+                  "category": "religious",
+                  "coords": [
+                        139.700335,
+                        35.665397
+                  ]
+            },
+            {
+                  "name": "PARCO Theatre",
+                  "text": "Un teatru renumit din Shibuya care pune în scenă piese contemporane revoluționare încă din 1973.",
+                  "category": "cultural",
+                  "coords": [
+                        139.698863,
+                        35.662194
+                  ]
+            },
+            {
+                  "name": "Yoshimoto ∞ Hall",
+                  "text": "Un teatru de comedie popular care se concentrează pe spectacolele de manzai și kontsu ale tinerelor talente japoneze.",
+                  "category": "cultural",
+                  "coords": [
+                        139.697599,
+                        35.66136
+                  ]
+            },
+            {
+                  "name": "Josenji Temple",
+                  "text": "Un complex budist modern impresionant, cu o arhitectură distinctivă în Shibuya.",
+                  "category": "religious",
+                  "coords": [
+                        139.701847,
+                        35.653231
+                  ]
+            },
+            {
+                  "name": "Ebisu Shrine",
+                  "text": "Un mic altar de cartier din districtul Ebisu, dedicat zeului norocului, Ebisu.",
+                  "category": "religious",
+                  "coords": [
+                        139.707785,
+                        35.647223
+                  ]
+            },
+            {
+                  "name": "Tokyo Baptist Church",
+                  "text": "O biserică creștină internațională din Shibuya, care oferă slujbe în limba engleză.",
+                  "category": "religious",
+                  "coords": [
+                        139.697555,
+                        35.650424
+                  ]
+            },
+            {
+                  "name": "Ikejiri-inari Shrine",
+                  "text": "Un altar șintoist cunoscut pentru numeroasele sale statui de vulpe, despre care se crede că aduc noroc și protecție.",
+                  "category": "religious",
+                  "coords": [
+                        139.681298,
+                        35.648536
+                  ]
+            },
+            {
+                  "name": "Mishuku Shrine",
+                  "text": "Acest altar local liniștit este situat în cartierul Mishuku și este folosit de rezidenți pentru rugăciuni tăcute.",
+                  "category": "religious",
+                  "coords": [
+                        139.674236,
+                        35.650903
+                  ]
+            },
+            {
+                  "name": "Wakabayashi Inari Shrine",
+                  "text": "Un mic altar Inari în zona rezidențială Wakabayashi, recunoscut după porțile sale tradiționale roșii torii.",
+                  "category": "religious",
+                  "coords": [
+                        139.661603,
+                        35.648092
+                  ]
+            },
+            {
+                  "name": "Shōin Shrine",
+                  "text": "Acest altar este dedicat învățatului Yoshida Shoin și găzduiește mormântul său și un mic muzeu.",
+                  "category": "religious",
+                  "coords": [
+                        139.656124,
+                        35.64718
+                  ]
+            },
+            {
+                  "name": "Theater Tram",
+                  "text": "Un teatru intim din Carrot Tower din Sangenjaya, cunoscut pentru spectacolele sale experimentale.",
+                  "category": "cultural",
+                  "coords": [
+                        139.669306,
+                        35.644204
+                  ]
+            },
+            {
+                  "name": "Jōkōji Temple",
+                  "text": "Un templu budist al școlii Jodo, care oferă o atmosferă liniștită în aglomerata Setagaya.",
+                  "category": "religious",
+                  "coords": [
+                        139.646757,
+                        35.640446
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum and Centennial Hall, Institute of Science Tokyo",
+                  "text": "Housed in a striking building designed by Kazuo Shinohara, this museum showcases scientific instruments and university history.",
+                  "category": "museum",
+                  "coords": [
+                        139.684799,
+                        35.606783
+                  ]
+            },
+            {
+                  "name": "Meguro Museum of Art",
+                  "text": "This museum in Meguro Park focuses on modern Japanese art and features a collection of diverse materials and colors.",
+                  "category": "museum",
+                  "coords": [
+                        139.707676,
+                        35.634925
+                  ]
+            },
+            {
+                  "name": "Meguro Parasitological Museum",
+                  "text": "The world's only museum dedicated to parasites, displaying thousands of specimens including an 8-meter tapeworm.",
+                  "category": "museum",
+                  "coords": [
+                        139.706666,
+                        35.6317
+                  ]
+            },
+            {
+                  "name": "Kume Museum of Art",
+                  "text": "Located near Meguro Station, this museum commemorates the work of historian Kume Kunitake and his painter son.",
+                  "category": "museum",
+                  "coords": [
+                        139.714759,
+                        35.634545
+                  ]
+            },
+            {
+                  "name": "Tokyo Photographic Art Museum",
+                  "text": "Situated in Ebisu Garden Place, this is one of the world's few museums entirely dedicated to photography and video.",
+                  "category": "museum",
+                  "coords": [
+                        139.713396,
+                        35.641543
+                  ]
+            },
+            {
+                  "name": "Yamatane Museum of Art",
+                  "text": "This elegant museum is Japan's first specializing in Nihonga, showcasing beautiful modern Japanese-style paintings.",
+                  "category": "museum",
+                  "coords": [
+                        139.713641,
+                        35.653174
+                  ]
+            },
+            {
+                  "name": "Kokugakuin University Museum",
+                  "text": "This university museum features an extensive collection of archaeological artifacts and items related to Shinto history.",
+                  "category": "museum",
+                  "coords": [
+                        139.7112,
+                        35.656217
+                  ]
+            },
+            {
+                  "name": "Local History Museum and Literature Museum",
+                  "text": "This museum explores Shibuya's transformation from a rural village to a global hub through local history and literature.",
+                  "category": "museum",
+                  "coords": [
+                        139.712542,
+                        35.656439
+                  ]
+            },
+            {
+                  "name": "Toguri Museum of Art",
+                  "text": "This private museum specializes in East Asian ceramics, with a focus on historic Imari and Nabeshima porcelain.",
+                  "category": "museum",
+                  "coords": [
+                        139.6928,
+                        35.66144
+                  ]
+            },
+            {
+                  "name": "Tokyo Anime Center",
+                  "text": "Located in the Shibuya MODI building, this center hosts exhibitions and events celebrating Japan's vibrant animation industry.",
+                  "category": "museum",
+                  "coords": [
+                        139.70057,
+                        35.661394
+                  ]
+            },
+            {
+                  "name": "Setagaya Local History Museum",
+                  "text": "Located on the grounds of the historic Setagaya Daikan Yashiki, this museum displays regional history and folklore.",
+                  "category": "museum",
+                  "coords": [
+                        139.647222,
+                        35.641461
+                  ]
+            },
+            {
+                  "name": "Hasegawa Machiko Art Museum",
+                  "text": "This museum honors Hasegawa Machiko, the creator of the beloved comic strip Sazae-san, with original drawings and art.",
+                  "category": "museum",
+                  "coords": [
+                        139.643621,
+                        35.627983
+                  ]
+            },
+            {
+                  "name": "The Gotoh Museum",
+                  "text": "Set in a beautiful garden, this museum is famous for its collection of ancient East Asian art and Tale of Genji scrolls.",
+                  "category": "museum",
+                  "coords": [
+                        139.635364,
+                        35.612436
+                  ]
+            },
+            {
+                  "name": "Setagaya Art Museum",
+                  "text": "Situated within the lush greenery of Kinuta Park, this museum hosts a wide range of international and modern art exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        139.6222,
+                        35.631624
+                  ]
+            },
+            {
+                  "name": "Hanawa Hokiichi Historical Museum",
+                  "text": "This museum in Shibuya honors the life of Hanawa Hokiichi, a blind scholar of the Edo period.",
+                  "category": "museum",
+                  "coords": [
+                        139.71144,
+                        35.654334
+                  ]
+            },
+            {
+                  "name": "Tokiwa Matsu Imperial Villa",
+                  "text": "This former imperial villa in Shibuya now serves as a residence for the Hitachi princely house.",
+                  "category": "castle",
+                  "coords": [
+                        139.712728,
+                        35.657593
+                  ]
+            },
+            {
+                  "name": "Former Asakura Estate",
+                  "text": "A magnificent Taisho-era residence with a traditional Japanese garden, designated as a heritage site in 2004.",
+                  "category": "museum",
+                  "coords": [
+                        139.700844,
+                        35.647413
+                  ]
+            },
+            {
+                  "name": "Shoto Museum of Art",
+                  "text": "Designed by Seiichi Shirai, this art museum is known for its distinctive stone architecture and local exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        139.691797,
+                        35.658685
+                  ]
+            },
+            {
+                  "name": "Meguro City Hall",
+                  "text": "Designed by Togo Murano, this city hall is notable for its sweeping interior staircase and modern design.",
+                  "category": "historical",
+                  "coords": [
+                        139.698274,
+                        35.641407
+                  ]
+            },
+            {
+                  "name": "Shibuya ward city hall",
+                  "text": "The modern administrative center for Shibuya ward is located in close proximity to Yoyogi Park.",
+                  "category": "historical",
+                  "coords": [
+                        139.697758,
+                        35.663723
+                  ]
+            },
+            {
+                  "name": "Noge Ōtsuka Kofun",
+                  "text": "A large 5th-century keyhole-shaped burial mound, one of the most significant kofun hills in Tokyo.",
+                  "category": "historical",
+                  "coords": [
+                        139.643048,
+                        35.604959
+                  ]
+            },
+            {
+                  "name": "Yukigaya Hachiman Shrine",
+                  "text": "This Shinto shrine in Ota is known for its lively autumn festivals and traditional atmosphere.",
+                  "category": "religious",
+                  "coords": [
+                        139.686286,
+                        35.596723
+                  ]
+            },
+            {
+                  "name": "Myofuku Ji",
+                  "text": "A Buddhist temple of the Nichiren school, valued for its peaceful location in an Ota residential neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        139.692021,
+                        35.601144
+                  ]
+            },
+            {
+                  "name": "Chojo-ji",
+                  "text": "A peaceful Nichiren temple in Shinagawa with a well-kept precinct for prayer and meditation.",
+                  "category": "religious",
+                  "coords": [
+                        139.711441,
+                        35.621115
+                  ]
+            },
+            {
+                  "name": "Hounji Temple",
+                  "text": "This small Zen temple offers an oasis of silence in the middle of the bustling Shibuya district.",
+                  "category": "religious",
+                  "coords": [
+                        139.713626,
+                        35.649739
+                  ]
+            },
+            {
+                  "name": "Shitsusenji Temple",
+                  "text": "A temple of the Shingon school that attracts practitioners with its spiritual atmosphere in Shibuya.",
+                  "category": "religious",
+                  "coords": [
+                        139.711672,
+                        35.650834
+                  ]
+            },
+            {
+                  "name": "KITAYA shrine",
+                  "text": "This small Inari shrine is tucked away behind the Parco department store in the heart of Shibuya.",
+                  "category": "religious",
+                  "coords": [
+                        139.700335,
+                        35.665397
+                  ]
+            },
+            {
+                  "name": "PARCO Theatre",
+                  "text": "A renowned theater in Shibuya that has been staging pioneering contemporary plays since 1973.",
+                  "category": "cultural",
+                  "coords": [
+                        139.698863,
+                        35.662194
+                  ]
+            },
+            {
+                  "name": "Yoshimoto ∞ Hall",
+                  "text": "A popular comedy theater focusing on manzai and kontsu performances by young Japanese talent.",
+                  "category": "cultural",
+                  "coords": [
+                        139.697599,
+                        35.66136
+                  ]
+            },
+            {
+                  "name": "Josenji Temple",
+                  "text": "An impressive modern Buddhist temple complex with striking architecture in Shibuya.",
+                  "category": "religious",
+                  "coords": [
+                        139.701847,
+                        35.653231
+                  ]
+            },
+            {
+                  "name": "Ebisu Shrine",
+                  "text": "A small neighborhood shrine in the Ebisu district dedicated to the god of luck, Ebisu.",
+                  "category": "religious",
+                  "coords": [
+                        139.707785,
+                        35.647223
+                  ]
+            },
+            {
+                  "name": "Tokyo Baptist Church",
+                  "text": "An international Christian church in Shibuya offering services in the English language.",
+                  "category": "religious",
+                  "coords": [
+                        139.697555,
+                        35.650424
+                  ]
+            },
+            {
+                  "name": "Ikejiri-inari Shrine",
+                  "text": "A Shinto shrine known for its many fox statues, believed to bring good luck and protection.",
+                  "category": "religious",
+                  "coords": [
+                        139.681298,
+                        35.648536
+                  ]
+            },
+            {
+                  "name": "Mishuku Shrine",
+                  "text": "This quiet local shrine is located in the Mishuku neighborhood and is used by residents for quiet prayer.",
+                  "category": "religious",
+                  "coords": [
+                        139.674236,
+                        35.650903
+                  ]
+            },
+            {
+                  "name": "Wakabayashi Inari Shrine",
+                  "text": "A small Inari shrine in the Wakabayashi residential area, recognizable by its traditional red torii gates.",
+                  "category": "religious",
+                  "coords": [
+                        139.661603,
+                        35.648092
+                  ]
+            },
+            {
+                  "name": "Shōin Shrine",
+                  "text": "This shrine is dedicated to the scholar Yoshida Shoin and houses his grave and a small museum.",
+                  "category": "religious",
+                  "coords": [
+                        139.656124,
+                        35.64718
+                  ]
+            },
+            {
+                  "name": "Theater Tram",
+                  "text": "An intimate theater located in the Sangenjaya Carrot Tower, known for its experimental performances.",
+                  "category": "cultural",
+                  "coords": [
+                        139.669306,
+                        35.644204
+                  ]
+            },
+            {
+                  "name": "Jōkōji Temple",
+                  "text": "A Buddhist temple of the Jodo school providing a peaceful atmosphere in bustling Setagaya.",
+                  "category": "religious",
+                  "coords": [
+                        139.646757,
+                        35.640446
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "JP-13",
     coords: [139.7005, 35.6595],
@@ -542,7 +7031,160 @@ export const poiExtraJapanEconomicV2: POI[] = [
     
      image: "/poi-images/shibuya-scramble-crossing-trade-hub-v2.webp"},
   {
-    id: "hamaoka-npp-economic-v2",
+    id: "hamaoka-npp-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Omaezaki Lighthouse",
+                  "text": "Dieser historische weiße Leuchtturm erhebt sich dramatisch von einem felsigen Vorgebirge über dem Pazifischen Ozean.",
+                  "category": "landmark",
+                  "coords": [
+                        138.225712,
+                        34.595826
+                  ]
+            },
+            {
+                  "name": "Banjidana Teahouse Ruins",
+                  "text": "Die Steinfundamente sind alles, was von diesem einst geschäftigen, traditionellen Teehaus entlang der historischen Reiseroute übrig geblieben ist.",
+                  "category": "historical",
+                  "coords": [
+                        138.163331,
+                        34.690651
+                  ]
+            },
+            {
+                  "name": "Hamaoka Nuclear Exhibition Center",
+                  "text": "Dieses interaktive Wissenschaftsmuseum bietet lebensgroße Modelle, die die Funktionsweise des nahe gelegenen Kernkraftwerks erklären.",
+                  "category": "museum",
+                  "coords": [
+                        138.141481,
+                        34.628948
+                  ]
+            },
+            {
+                  "name": "Makinohara City Historical Museum",
+                  "text": "Dieses regionale Museum stellt Artefakte aus, die die tief verwurzelte Geschichte des Teeanbaus in der Region dokumentieren.",
+                  "category": "museum",
+                  "coords": [
+                        138.19786,
+                        34.68591
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Omaezaki Lighthouse",
+                  "text": "Ez a történelmi fehér világítótorony drámaian emelkedik ki egy sziklás hegyfokból, kilátással a Csendes-óceánra.",
+                  "category": "landmark",
+                  "coords": [
+                        138.225712,
+                        34.595826
+                  ]
+            },
+            {
+                  "name": "Banjidana Teahouse Ruins",
+                  "text": "A kőalapzatok az egyetlenek, amelyek megmaradtak ebből az egykor nyüzsgő hagyományos teaházból a történelmi utazási útvonal mentén.",
+                  "category": "historical",
+                  "coords": [
+                        138.163331,
+                        34.690651
+                  ]
+            },
+            {
+                  "name": "Hamaoka Nuclear Exhibition Center",
+                  "text": "Ez az interaktív tudományos múzeum teljes méretű modellekkel mutatja be a közeli atomerőmű működését.",
+                  "category": "museum",
+                  "coords": [
+                        138.141481,
+                        34.628948
+                  ]
+            },
+            {
+                  "name": "Makinohara City Historical Museum",
+                  "text": "Ez a regionális múzeum a terület mélyen gyökerező teatermesztési történelmét dokumentáló műtárgyakat állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        138.19786,
+                        34.68591
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Omaezaki Lighthouse",
+                  "text": "Acest far alb istoric se înalță dramatic de pe un promontoriu stâncos care domină Oceanul Pacific.",
+                  "category": "landmark",
+                  "coords": [
+                        138.225712,
+                        34.595826
+                  ]
+            },
+            {
+                  "name": "Banjidana Teahouse Ruins",
+                  "text": "Fundațiile de piatră sunt tot ce a mai rămas din această ceainărie tradițională cândva plină de viață de-a lungul rutei istorice de călătorie.",
+                  "category": "historical",
+                  "coords": [
+                        138.163331,
+                        34.690651
+                  ]
+            },
+            {
+                  "name": "Hamaoka Nuclear Exhibition Center",
+                  "text": "Acest muzeu științific interactiv prezintă modele la scară reală care explică funcționarea centralei nucleare din apropiere.",
+                  "category": "museum",
+                  "coords": [
+                        138.141481,
+                        34.628948
+                  ]
+            },
+            {
+                  "name": "Makinohara City Historical Museum",
+                  "text": "Acest muzeu regional expune artefacte care documentează istoria cultivării ceaiului cu rădăcini adânci din zonă.",
+                  "category": "museum",
+                  "coords": [
+                        138.19786,
+                        34.68591
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Omaezaki Lighthouse",
+                  "text": "This historic white lighthouse rises dramatically from a rocky promontory overlooking the Pacific Ocean.",
+                  "category": "landmark",
+                  "coords": [
+                        138.225712,
+                        34.595826
+                  ]
+            },
+            {
+                  "name": "Banjidana Teahouse Ruins",
+                  "text": "The stone foundations are all that remain of this once-bustling traditional teahouse along the historical travel route.",
+                  "category": "historical",
+                  "coords": [
+                        138.163331,
+                        34.690651
+                  ]
+            },
+            {
+                  "name": "Hamaoka Nuclear Exhibition Center",
+                  "text": "This interactive science museum features full-scale models explaining the workings of the nearby nuclear power plant.",
+                  "category": "museum",
+                  "coords": [
+                        138.141481,
+                        34.628948
+                  ]
+            },
+            {
+                  "name": "Makinohara City Historical Museum",
+                  "text": "This regional museum displays artifacts documenting the area's deep-rooted tea cultivation history.",
+                  "category": "museum",
+                  "coords": [
+                        138.19786,
+                        34.68591
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "JP-22",
     coords: [138.1408, 34.6214],
@@ -592,7 +7234,1276 @@ export const poiExtraJapanEconomicV2: POI[] = [
     
      image: "/poi-images/hamaoka-npp-economic-v2.webp"},
   {
-    id: "port-of-hakata-economic-v2",
+    id: "port-of-hakata-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kashii Shrine",
+                  "text": "Dieser prestigeträchtige Shinto-Schrein zeichnet sich durch seinen einzigartigen architektonischen \"Kashii-zukuri\"-Stil aus und ist von alten, hoch aufragenden Zedernbäumen umgeben.",
+                  "category": "religious",
+                  "coords": [
+                        130.451261,
+                        33.653234
+                  ]
+            },
+            {
+                  "name": "Najima Seaplane Airport Ruins",
+                  "text": "Die Ruinen dieses ehemaligen Wasserflugzeugflughafens sind als historische Attraktion am Ufer erhalten.",
+                  "category": "landmark",
+                  "coords": [
+                        130.424589,
+                        33.648003
+                  ]
+            },
+            {
+                  "name": "Bay of Hakata",
+                  "text": "Diese markante natürliche Bucht ist historisch als Ort der alten mongolischen Invasionsversuche bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        130.316591,
+                        33.634578
+                  ]
+            },
+            {
+                  "name": "Kashii Kamome Bridge",
+                  "text": "Dieses bemerkenswerte Brückenbauwerk überspannt die lokalen Gewässer und stellt eine wichtige Verkehrsverbindung für die Region dar.",
+                  "category": "landmark",
+                  "coords": [
+                        130.411538,
+                        33.644878
+                  ]
+            },
+            {
+                  "name": "Uminonakamichi Bridge",
+                  "text": "Dieses große Brückenbauwerk verbindet das Festland mit der Sandbank Uminonakamichi.",
+                  "category": "landmark",
+                  "coords": [
+                        130.407198,
+                        33.673363
+                  ]
+            },
+            {
+                  "name": "Mt.Tachibana",
+                  "text": "Dieser markante natürliche Gipfel bietet einen Panoramablick und beherbergt die historischen Ruinen der Burg Tachibana.",
+                  "category": "natural",
+                  "coords": [
+                        130.468238,
+                        33.679761
+                  ]
+            },
+            {
+                  "name": "Uminonakamichi Seaside Park",
+                  "text": "Dieser weitläufige, 1981 angelegte Küstenpark bietet ausgedehnte Grünflächen und Freizeitbereiche an der Küste.",
+                  "category": "park",
+                  "coords": [
+                        130.362398,
+                        33.662994
+                  ]
+            },
+            {
+                  "name": "Marine World Uminonakamichi",
+                  "text": "Dieses bemerkenswerte öffentliche Aquarium zeigt die vielfältige Meeresfauna der umliegenden Küstengewässer.",
+                  "category": "recreational",
+                  "coords": [
+                        130.363472,
+                        33.661035
+                  ]
+            },
+            {
+                  "name": "Medical Museum of Kyushu University",
+                  "text": "Dieses akademische Museum bewahrt und präsentiert die reiche Medizingeschichte und Forschungsartefakte der Kyushu-Universität.",
+                  "category": "museum",
+                  "coords": [
+                        130.41648,
+                        33.607502
+                  ]
+            },
+            {
+                  "name": "East Ward Town Hall",
+                  "text": "Dieses städtische Gebäude dient als administratives Rathauszentrum für den Ostbezirk der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        130.417431,
+                        33.617744
+                  ]
+            },
+            {
+                  "name": "Al Noor Islamic Center",
+                  "text": "Diese islamische Kultstätte dient der lokalen muslimischen Gemeinschaft mit Gebetsräumen und kulturellen Veranstaltungen.",
+                  "category": "religious",
+                  "coords": [
+                        130.427137,
+                        33.619982
+                  ]
+            },
+            {
+                  "name": "Kashii-hama East Park",
+                  "text": "Dieser Nachbarschaftspark bietet eine grüne Erholungsfläche im östlichen Teil des Bezirks Kashii-hama.",
+                  "category": "park",
+                  "coords": [
+                        130.433103,
+                        33.657412
+                  ]
+            },
+            {
+                  "name": "Kaizuka Park",
+                  "text": "Dieser lokale öffentliche Park bietet Freiflächen und Spielplätze für die Bewohner der Gegend von Kaizuka.",
+                  "category": "park",
+                  "coords": [
+                        130.42462,
+                        33.632619
+                  ]
+            },
+            {
+                  "name": "Najima Sport Park",
+                  "text": "Dieser engagierte Sportpark bietet verschiedene Sportplätze und Freizeiteinrichtungen für die lokale Gemeinschaft.",
+                  "category": "park",
+                  "coords": [
+                        130.425904,
+                        33.644544
+                  ]
+            },
+            {
+                  "name": "Hakozaki Park",
+                  "text": "Dieser öffentliche Park im Viertel Hakozaki bietet eine ruhige Grünfläche für Entspannung im Freien.",
+                  "category": "park",
+                  "coords": [
+                        130.441439,
+                        33.621661
+                  ]
+            },
+            {
+                  "name": "Aoba Park",
+                  "text": "Dieser lokale Park im Wohngebiet Aoba bietet von Bäumen gesäumte Wege und familienfreundliche Freizeitbereiche.",
+                  "category": "park",
+                  "coords": [
+                        130.461703,
+                        33.648178
+                  ]
+            },
+            {
+                  "name": "Island City Central Park",
+                  "text": "Dieser weitläufige zentrale Park in Island City verfügt über einen großen Teich und wunderschön angelegte Gärten.",
+                  "category": "park",
+                  "coords": [
+                        130.421097,
+                        33.663483
+                  ]
+            },
+            {
+                  "name": "Kashii-hama South Park",
+                  "text": "Dieser lokale Park im südlichen Sektor von Kashii-hama bietet Freizeiteinrichtungen und grüne Rasenflächen.",
+                  "category": "park",
+                  "coords": [
+                        130.430694,
+                        33.653498
+                  ]
+            },
+            {
+                  "name": "Hakata Port Tower",
+                  "text": "Dieser markante Aussichtsturm, entworfen von Naitō Tachū, bietet einen weiten Panoramablick über den geschäftigen Hafen.",
+                  "category": "natural",
+                  "coords": [
+                        130.397623,
+                        33.60428
+                  ]
+            },
+            {
+                  "name": "Nokonoshima Museum",
+                  "text": "Dieses spezialisierte Museum widmet sich der Bewahrung des einzigartigen kulturellen und natürlichen Erbes der Insel Nokonoshima.",
+                  "category": "museum",
+                  "coords": [
+                        130.308049,
+                        33.614154
+                  ]
+            },
+            {
+                  "name": "Hobashira Stone",
+                  "text": "Diese archäologische Stätte beherbergt das historische Hobashira-Steinartefakt, das einen Einblick in antike lokale Praktiken bietet.",
+                  "category": "historical",
+                  "coords": [
+                        130.421372,
+                        33.645163
+                  ]
+            },
+            {
+                  "name": "Hakata Port 60 Years Memoreal",
+                  "text": "Dieses öffentliche Denkmal erinnert an den 60. Jahrestag des modernen Hafenbetriebs und der Hafenentwicklung.",
+                  "category": "historical",
+                  "coords": [
+                        130.396546,
+                        33.605173
+                  ]
+            },
+            {
+                  "name": "Rumieru2",
+                  "text": "Diese einzigartige lokale Attraktion bietet spezielle Freizeitunterhaltung für Besucher, die den Bezirk erkunden.",
+                  "category": "landmark",
+                  "coords": [
+                        130.417594,
+                        33.619583
+                  ]
+            },
+            {
+                  "name": "Cherry Blossom Trees",
+                  "text": "Diese malerische Naturattraktion zeichnet sich durch eine markante Reihe von Kirschblütenbäumen aus, die jedes Frühjahr wunderschön blühen.",
+                  "category": "landmark",
+                  "coords": [
+                        130.349726,
+                        33.658029
+                  ]
+            },
+            {
+                  "name": "Usa Shrine",
+                  "text": "Dieser Shinto-Schrein ist eine lokale Kultstätte, die historisch mit der Verehrung von Hachiman verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        130.424664,
+                        33.618538
+                  ]
+            },
+            {
+                  "name": "Matsuzaki Shrine",
+                  "text": "Dieser Shinto-Schrein im Viertel Matsuzaki bietet einen ruhigen Ort für traditionelle Zeremonien.",
+                  "category": "landmark",
+                  "coords": [
+                        130.443067,
+                        33.63705
+                  ]
+            },
+            {
+                  "name": "Kumano Shrine",
+                  "text": "Dieser traditionelle Shinto-Schrein ist den verehrten Kami des weit verbreiteten Kumano-Glaubens gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        130.457007,
+                        33.682843
+                  ]
+            },
+            {
+                  "name": "Mishima Shrine",
+                  "text": "Diese Shinto-Kultstätte dient der Gemeinschaft, indem sie Gottheiten ehrt, die mit der Mishima-Tradition in Verbindung stehen.",
+                  "category": "landmark",
+                  "coords": [
+                        130.428938,
+                        33.660497
+                  ]
+            },
+            {
+                  "name": "Shishiki Shrine",
+                  "text": "Dieser historische Shinto-Schrein bietet einen ruhigen Zufluchtsort für Gebete und traditionelle lokale Feste.",
+                  "category": "landmark",
+                  "coords": [
+                        130.406504,
+                        33.691168
+                  ]
+            },
+            {
+                  "name": "Miyajidake Shrine",
+                  "text": "Dieser lokale Shinto-Schrein dient den Gläubigen der Nachbarschaft als spiritueller Versammlungsort.",
+                  "category": "landmark",
+                  "coords": [
+                        130.30702,
+                        33.631018
+                  ]
+            },
+            {
+                  "name": "Bokushimiwa Shrine",
+                  "text": "Diese traditionelle Shinto-Kultstätte veranstaltet saisonale Rituale und bewahrt das spirituelle Erbe der Gegend.",
+                  "category": "landmark",
+                  "coords": [
+                        130.30259,
+                        33.63199
+                  ]
+            },
+            {
+                  "name": "Shirahige Shrine",
+                  "text": "Dieser der Langlebigkeit gewidmete Shinto-Schrein bietet eine alte spirituelle Atmosphäre für das tägliche Gebet.",
+                  "category": "landmark",
+                  "coords": [
+                        130.307229,
+                        33.61022
+                  ]
+            },
+            {
+                  "name": "Hakata Kibou Church",
+                  "text": "Diese 1992 gegründete christliche Kirche dient ihrer lokalen Gemeinde aktiv mit regelmäßigen Gottesdiensten.",
+                  "category": "landmark",
+                  "coords": [
+                        130.441198,
+                        33.693876
+                  ]
+            },
+            {
+                  "name": "Observation deck",
+                  "text": "Dieser hochgelegene Aussichtspunkt bietet Besuchern einen ungehinderten Panoramablick auf das umliegende Stadtbild.",
+                  "category": "natural",
+                  "coords": [
+                        130.303442,
+                        33.620816
+                  ]
+            },
+            {
+                  "name": "Najima Beach",
+                  "text": "Dieser Sandstrand in der Gegend von Najima ist ein beliebter Ort zum Entspannen und für Spaziergänge am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        130.421461,
+                        33.643511
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kashii Shrine",
+                  "text": "Az egyedülálló \"Kashii-zukuri\" építészeti stílusával kitűnő rangos sintó szentélyt ősi, tornyosuló cédrusfák veszik körül.",
+                  "category": "religious",
+                  "coords": [
+                        130.451261,
+                        33.653234
+                  ]
+            },
+            {
+                  "name": "Najima Seaplane Airport Ruins",
+                  "text": "Ennek az egykori hidroplán repülőtérnek a romjait történelmi látványosságként őrzik a vízparton.",
+                  "category": "landmark",
+                  "coords": [
+                        130.424589,
+                        33.648003
+                  ]
+            },
+            {
+                  "name": "Bay of Hakata",
+                  "text": "Ez a kiemelkedő természetes öböl történelmileg az ősi mongol inváziós kísérletek helyszíneként ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        130.316591,
+                        33.634578
+                  ]
+            },
+            {
+                  "name": "Kashii Kamome Bridge",
+                  "text": "Ez a figyelemre méltó hídszerkezet átível a helyi vizeken, létfontosságú közlekedési kapcsolatot biztosítva a terület számára.",
+                  "category": "landmark",
+                  "coords": [
+                        130.411538,
+                        33.644878
+                  ]
+            },
+            {
+                  "name": "Uminonakamichi Bridge",
+                  "text": "Ez a jelentős hídszerkezet köti össze a szárazföldet az Uminonakamichi homokpaddal.",
+                  "category": "landmark",
+                  "coords": [
+                        130.407198,
+                        33.673363
+                  ]
+            },
+            {
+                  "name": "Mt.Tachibana",
+                  "text": "Ez a kiemelkedő természetes csúcs panorámás kilátást nyújt, és a Tachibana-kastély történelmi romjait rejti.",
+                  "category": "natural",
+                  "coords": [
+                        130.468238,
+                        33.679761
+                  ]
+            },
+            {
+                  "name": "Uminonakamichi Seaside Park",
+                  "text": "Az 1981-ben alapított, kiterjedt tengerparti park hatalmas zöldterületeket és partmenti szabadidős területeket kínál.",
+                  "category": "park",
+                  "coords": [
+                        130.362398,
+                        33.662994
+                  ]
+            },
+            {
+                  "name": "Marine World Uminonakamichi",
+                  "text": "Ez a figyelemre méltó nyilvános akvárium a környező part menti vizek változatos tengeri élővilágát mutatja be.",
+                  "category": "recreational",
+                  "coords": [
+                        130.363472,
+                        33.661035
+                  ]
+            },
+            {
+                  "name": "Medical Museum of Kyushu University",
+                  "text": "Ez az egyetemi múzeum a Kjúsú Egyetem gazdag orvostörténeti és kutatási műtárgyait őrzi és mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        130.41648,
+                        33.607502
+                  ]
+            },
+            {
+                  "name": "East Ward Town Hall",
+                  "text": "Ez az önkormányzati épület a város keleti kerületének közigazgatási városházaként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        130.417431,
+                        33.617744
+                  ]
+            },
+            {
+                  "name": "Al Noor Islamic Center",
+                  "text": "Ez az iszlám istentiszteleti hely a helyi muszlim közösséget szolgálja imádkozási lehetőségekkel és kulturális eseményekkel.",
+                  "category": "religious",
+                  "coords": [
+                        130.427137,
+                        33.619982
+                  ]
+            },
+            {
+                  "name": "Kashii-hama East Park",
+                  "text": "Ez a környékbeli park zöld rekreációs teret biztosít a Kashii-hama kerület keleti részén.",
+                  "category": "park",
+                  "coords": [
+                        130.433103,
+                        33.657412
+                  ]
+            },
+            {
+                  "name": "Kaizuka Park",
+                  "text": "Ez a helyi közpark nyitott terekkel és játszótéri létesítményekkel várja a Kaizuka terület lakóit.",
+                  "category": "park",
+                  "coords": [
+                        130.42462,
+                        33.632619
+                  ]
+            },
+            {
+                  "name": "Najima Sport Park",
+                  "text": "Ez a dedikált sportpark különféle sportpályákat és rekreációs létesítményeket kínál a helyi közösség számára.",
+                  "category": "park",
+                  "coords": [
+                        130.425904,
+                        33.644544
+                  ]
+            },
+            {
+                  "name": "Hakozaki Park",
+                  "text": "A Hakozaki negyedben található nyilvános park csendes zöldterületet biztosít a szabadtéri pihenéshez.",
+                  "category": "park",
+                  "coords": [
+                        130.441439,
+                        33.621661
+                  ]
+            },
+            {
+                  "name": "Aoba Park",
+                  "text": "Az Aoba lakónegyedben található helyi park fákkal szegélyezett ösvényekkel és családbarát szabadidős terekkel rendelkezik.",
+                  "category": "park",
+                  "coords": [
+                        130.461703,
+                        33.648178
+                  ]
+            },
+            {
+                  "name": "Island City Central Park",
+                  "text": "Az Island Cityben található tágas központi parkban egy nagy tó és gyönyörűen parkosított kertek találhatók.",
+                  "category": "park",
+                  "coords": [
+                        130.421097,
+                        33.663483
+                  ]
+            },
+            {
+                  "name": "Kashii-hama South Park",
+                  "text": "A Kashii-hama déli szektorában található helyi park rekreációs kényelmi szolgáltatásokat és zöld pázsitot kínál.",
+                  "category": "park",
+                  "coords": [
+                        130.430694,
+                        33.653498
+                  ]
+            },
+            {
+                  "name": "Hakata Port Tower",
+                  "text": "Ez a Naitō Tachū által tervezett kiemelkedő kilátótorony lenyűgöző panorámát nyújt a nyüzsgő kikötőre.",
+                  "category": "natural",
+                  "coords": [
+                        130.397623,
+                        33.60428
+                  ]
+            },
+            {
+                  "name": "Nokonoshima Museum",
+                  "text": "Ez a szakmúzeum a Nokonoshima sziget egyedülálló kulturális és természeti örökségének megőrzésére szolgál.",
+                  "category": "museum",
+                  "coords": [
+                        130.308049,
+                        33.614154
+                  ]
+            },
+            {
+                  "name": "Hobashira Stone",
+                  "text": "Ezen a régészeti lelőhelyen található a történelmi Hobashira kőalkotás, amely bepillantást enged az ősi helyi szokásokba.",
+                  "category": "historical",
+                  "coords": [
+                        130.421372,
+                        33.645163
+                  ]
+            },
+            {
+                  "name": "Hakata Port 60 Years Memoreal",
+                  "text": "Ez a köztéri emlékmű a kikötő modern működésének és fejlesztésének 60. évfordulójának állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        130.396546,
+                        33.605173
+                  ]
+            },
+            {
+                  "name": "Rumieru2",
+                  "text": "Ez az egyedülálló helyi látványosság különleges szabadidős szórakozást kínál a kerületet felfedező látogatóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        130.417594,
+                        33.619583
+                  ]
+            },
+            {
+                  "name": "Cherry Blossom Trees",
+                  "text": "Ez a festői természeti látványosság egy kiemelkedő cseresznyevirágfából áll, amely minden tavasszal gyönyörűen virágzik.",
+                  "category": "landmark",
+                  "coords": [
+                        130.349726,
+                        33.658029
+                  ]
+            },
+            {
+                  "name": "Usa Shrine",
+                  "text": "Ez a sintoista szentély egy helyi istentiszteleti hely, amely történelmileg Hachiman tiszteletéhez kötődik.",
+                  "category": "landmark",
+                  "coords": [
+                        130.424664,
+                        33.618538
+                  ]
+            },
+            {
+                  "name": "Matsuzaki Shrine",
+                  "text": "A Matsuzaki negyedben található sintoista szentély nyugodt teret kínál a hagyományos szertartásokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        130.443067,
+                        33.63705
+                  ]
+            },
+            {
+                  "name": "Kumano Shrine",
+                  "text": "Ezt a hagyományos sintoista szentélyt a széles körben elterjedt Kumano hit tisztelt kamijainak szentelték.",
+                  "category": "landmark",
+                  "coords": [
+                        130.457007,
+                        33.682843
+                  ]
+            },
+            {
+                  "name": "Mishima Shrine",
+                  "text": "Ez a sintoista istentiszteleti hely a közösséget szolgálja a Mishima hagyományhoz kötődő istenségek tiszteletével.",
+                  "category": "landmark",
+                  "coords": [
+                        130.428938,
+                        33.660497
+                  ]
+            },
+            {
+                  "name": "Shishiki Shrine",
+                  "text": "Ez a történelmi sintoista szentély csendes szentélyt biztosít az imádkozáshoz és a hagyományos helyi fesztiválokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        130.406504,
+                        33.691168
+                  ]
+            },
+            {
+                  "name": "Miyajidake Shrine",
+                  "text": "Ez a helyi sintoista szentély spirituális gyülekezőhelyként szolgál a környék hívői számára.",
+                  "category": "landmark",
+                  "coords": [
+                        130.30702,
+                        33.631018
+                  ]
+            },
+            {
+                  "name": "Bokushimiwa Shrine",
+                  "text": "Ez a hagyományos sintoista istentiszteleti hely szezonális rituáléknak ad otthont, és megőrzi a terület spirituális örökségét.",
+                  "category": "landmark",
+                  "coords": [
+                        130.30259,
+                        33.63199
+                  ]
+            },
+            {
+                  "name": "Shirahige Shrine",
+                  "text": "A hosszú életnek szentelt sintoista szentély ősi spirituális atmoszférát kínál a napi istentisztelethez.",
+                  "category": "landmark",
+                  "coords": [
+                        130.307229,
+                        33.61022
+                  ]
+            },
+            {
+                  "name": "Hakata Kibou Church",
+                  "text": "Ez az 1992-ben alapított keresztény templom rendszeres istentiszteletekkel aktívan szolgálja helyi gyülekezetét.",
+                  "category": "landmark",
+                  "coords": [
+                        130.441198,
+                        33.693876
+                  ]
+            },
+            {
+                  "name": "Observation deck",
+                  "text": "Ez a magasan fekvő kilátó zavartalan, panorámás kilátást nyújt a látogatóknak a környező városképre.",
+                  "category": "natural",
+                  "coords": [
+                        130.303442,
+                        33.620816
+                  ]
+            },
+            {
+                  "name": "Najima Beach",
+                  "text": "Ez a Najima területen található tengerparti homokos strand népszerű hely a pihenésre és a tengerparti sétákra.",
+                  "category": "recreational",
+                  "coords": [
+                        130.421461,
+                        33.643511
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kashii Shrine",
+                  "text": "Distins prin stilul său arhitectural unic „Kashii-zukuri”, acest prestigios altar șintoist este înconjurat de copaci de cedru antici și impunători.",
+                  "category": "religious",
+                  "coords": [
+                        130.451261,
+                        33.653234
+                  ]
+            },
+            {
+                  "name": "Najima Seaplane Airport Ruins",
+                  "text": "Ruinele acestui fost aeroport pentru hidroavioane sunt păstrate ca atracție istorică pe malul apei.",
+                  "category": "landmark",
+                  "coords": [
+                        130.424589,
+                        33.648003
+                  ]
+            },
+            {
+                  "name": "Bay of Hakata",
+                  "text": "Această proeminentă baia naturală este faimoasă din punct de vedere istoric ca loc al vechilor tentative de invazie mongolă.",
+                  "category": "landmark",
+                  "coords": [
+                        130.316591,
+                        33.634578
+                  ]
+            },
+            {
+                  "name": "Kashii Kamome Bridge",
+                  "text": "Această structură notabilă a podului se întinde peste apele locale, oferind o legătură de transport vitală pentru zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        130.411538,
+                        33.644878
+                  ]
+            },
+            {
+                  "name": "Uminonakamichi Bridge",
+                  "text": "Această structură majoră a podului conectează continentul de bancul de nisip Uminonakamichi.",
+                  "category": "landmark",
+                  "coords": [
+                        130.407198,
+                        33.673363
+                  ]
+            },
+            {
+                  "name": "Mt.Tachibana",
+                  "text": "Acest vârf natural proeminent oferă vederi panoramice și găzduiește ruinele istorice ale Castelului Tachibana.",
+                  "category": "natural",
+                  "coords": [
+                        130.468238,
+                        33.679761
+                  ]
+            },
+            {
+                  "name": "Uminonakamichi Seaside Park",
+                  "text": "Înființat în 1981, acest vast parc pe litoral oferă spații verzi extinse și zone de agrement de coastă.",
+                  "category": "park",
+                  "coords": [
+                        130.362398,
+                        33.662994
+                  ]
+            },
+            {
+                  "name": "Marine World Uminonakamichi",
+                  "text": "Acest acvariu public notabil prezintă viața marină diversă din apele de coastă înconjurătoare.",
+                  "category": "recreational",
+                  "coords": [
+                        130.363472,
+                        33.661035
+                  ]
+            },
+            {
+                  "name": "Medical Museum of Kyushu University",
+                  "text": "Acest muzeu academic păstrează și expune istoria medicală bogată și artefactele de cercetare ale Universității Kyushu.",
+                  "category": "museum",
+                  "coords": [
+                        130.41648,
+                        33.607502
+                  ]
+            },
+            {
+                  "name": "East Ward Town Hall",
+                  "text": "Această clădire municipală servește drept centru administrativ al primăriei pentru districtul de est al orașului.",
+                  "category": "historical",
+                  "coords": [
+                        130.417431,
+                        33.617744
+                  ]
+            },
+            {
+                  "name": "Al Noor Islamic Center",
+                  "text": "Acest lăcaș de cult islamic deservește comunitatea musulmană locală cu facilități de rugăciune și evenimente culturale.",
+                  "category": "religious",
+                  "coords": [
+                        130.427137,
+                        33.619982
+                  ]
+            },
+            {
+                  "name": "Kashii-hama East Park",
+                  "text": "Acest parc de cartier oferă un spațiu verde de recreere în partea de est a cartierului Kashii-hama.",
+                  "category": "park",
+                  "coords": [
+                        130.433103,
+                        33.657412
+                  ]
+            },
+            {
+                  "name": "Kaizuka Park",
+                  "text": "Acest parc public local are spații deschise și locuri de joacă pentru locuitorii din zona Kaizuka.",
+                  "category": "park",
+                  "coords": [
+                        130.42462,
+                        33.632619
+                  ]
+            },
+            {
+                  "name": "Najima Sport Park",
+                  "text": "Acest parc sportiv dedicat oferă diverse terenuri de sport și facilități de agrement pentru comunitatea locală.",
+                  "category": "park",
+                  "coords": [
+                        130.425904,
+                        33.644544
+                  ]
+            },
+            {
+                  "name": "Hakozaki Park",
+                  "text": "Amplasat în cartierul Hakozaki, acest parc public oferă un spațiu verde liniștit pentru relaxare în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        130.441439,
+                        33.621661
+                  ]
+            },
+            {
+                  "name": "Aoba Park",
+                  "text": "Acest parc local din zona rezidențială Aoba are alei mărginite de copaci și spații de agrement pentru familii.",
+                  "category": "park",
+                  "coords": [
+                        130.461703,
+                        33.648178
+                  ]
+            },
+            {
+                  "name": "Island City Central Park",
+                  "text": "Situat în Island City, acest parc central spațios are un iaz mare și grădini frumos amenajate.",
+                  "category": "park",
+                  "coords": [
+                        130.421097,
+                        33.663483
+                  ]
+            },
+            {
+                  "name": "Kashii-hama South Park",
+                  "text": "Situat în sectorul de sud din Kashii-hama, acest parc local oferă facilități de agrement și peluze verzi.",
+                  "category": "park",
+                  "coords": [
+                        130.430694,
+                        33.653498
+                  ]
+            },
+            {
+                  "name": "Hakata Port Tower",
+                  "text": "Acest turn de observație proeminent, proiectat de Naitō Tachū, oferă vederi panoramice vaste asupra portului plin de viață.",
+                  "category": "natural",
+                  "coords": [
+                        130.397623,
+                        33.60428
+                  ]
+            },
+            {
+                  "name": "Nokonoshima Museum",
+                  "text": "Acest muzeu specializat este dedicat conservării patrimoniului cultural și natural unic al insulei Nokonoshima.",
+                  "category": "museum",
+                  "coords": [
+                        130.308049,
+                        33.614154
+                  ]
+            },
+            {
+                  "name": "Hobashira Stone",
+                  "text": "Acest sit arheologic prezintă artefactul istoric din piatră Hobashira, oferind o privire asupra practicilor locale antice.",
+                  "category": "historical",
+                  "coords": [
+                        130.421372,
+                        33.645163
+                  ]
+            },
+            {
+                  "name": "Hakata Port 60 Years Memoreal",
+                  "text": "Acest monument public comemorează a 60-a aniversare a operațiunilor moderne și a dezvoltării portului.",
+                  "category": "historical",
+                  "coords": [
+                        130.396546,
+                        33.605173
+                  ]
+            },
+            {
+                  "name": "Rumieru2",
+                  "text": "Această atracție locală unică oferă divertisment recreațional specific pentru vizitatorii care explorează districtul.",
+                  "category": "landmark",
+                  "coords": [
+                        130.417594,
+                        33.619583
+                  ]
+            },
+            {
+                  "name": "Cherry Blossom Trees",
+                  "text": "Această atracție naturală pitorească prezintă un șir proeminent de cireși care înfloresc frumos în fiecare primăvară.",
+                  "category": "landmark",
+                  "coords": [
+                        130.349726,
+                        33.658029
+                  ]
+            },
+            {
+                  "name": "Usa Shrine",
+                  "text": "Acest altar șintoist este un lăcaș de cult local, legat istoric de venerarea lui Hachiman.",
+                  "category": "landmark",
+                  "coords": [
+                        130.424664,
+                        33.618538
+                  ]
+            },
+            {
+                  "name": "Matsuzaki Shrine",
+                  "text": "Situat în cartierul Matsuzaki, acest altar șintoist oferă un spațiu liniștit pentru ceremoniile tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        130.443067,
+                        33.63705
+                  ]
+            },
+            {
+                  "name": "Kumano Shrine",
+                  "text": "Acest altar șintoist tradițional este dedicat zeităților kami venerate ale credinței răspândite Kumano.",
+                  "category": "landmark",
+                  "coords": [
+                        130.457007,
+                        33.682843
+                  ]
+            },
+            {
+                  "name": "Mishima Shrine",
+                  "text": "Acest lăcaș de cult șintoist deservește comunitatea onorând zeitățile asociate cu tradiția Mishima.",
+                  "category": "landmark",
+                  "coords": [
+                        130.428938,
+                        33.660497
+                  ]
+            },
+            {
+                  "name": "Shishiki Shrine",
+                  "text": "Acest altar șintoist istoric oferă un sanctuar liniștit pentru rugăciune și festivaluri locale tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        130.406504,
+                        33.691168
+                  ]
+            },
+            {
+                  "name": "Miyajidake Shrine",
+                  "text": "Acest altar șintoist local servește ca loc de adunare spirituală pentru credincioșii din cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        130.30702,
+                        33.631018
+                  ]
+            },
+            {
+                  "name": "Bokushimiwa Shrine",
+                  "text": "Acest lăcaș de cult șintoist tradițional găzduiește ritualuri sezoniere și menține moștenirea spirituală a zonei.",
+                  "category": "landmark",
+                  "coords": [
+                        130.30259,
+                        33.63199
+                  ]
+            },
+            {
+                  "name": "Shirahige Shrine",
+                  "text": "Dedicat longevității, acest altar șintoist oferă o atmosferă spirituală străveche pentru închinarea zilnică.",
+                  "category": "landmark",
+                  "coords": [
+                        130.307229,
+                        33.61022
+                  ]
+            },
+            {
+                  "name": "Hakata Kibou Church",
+                  "text": "Această biserică creștină, fondată în 1992, își servește activ congregația locală cu slujbe de închinare regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        130.441198,
+                        33.693876
+                  ]
+            },
+            {
+                  "name": "Observation deck",
+                  "text": "Acest punct de belvedere la mare altitudine oferă vizitatorilor o vedere panoramică neobstrucționată a peisajului urban din jur.",
+                  "category": "natural",
+                  "coords": [
+                        130.303442,
+                        33.620816
+                  ]
+            },
+            {
+                  "name": "Najima Beach",
+                  "text": "Această plajă de nisip de coastă din zona Najima este un loc popular pentru relaxare și plimbări pe litoral.",
+                  "category": "recreational",
+                  "coords": [
+                        130.421461,
+                        33.643511
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kashii Shrine",
+                  "text": "Distinguished by its unique \"Kashii-zukuri\" architectural style, this prestigious Shinto shrine is surrounded by ancient, towering cedar trees.",
+                  "category": "religious",
+                  "coords": [
+                        130.451261,
+                        33.653234
+                  ]
+            },
+            {
+                  "name": "Najima Seaplane Airport Ruins",
+                  "text": "The ruins of this former seaplane airport are preserved as a historical attraction along the waterfront.",
+                  "category": "landmark",
+                  "coords": [
+                        130.424589,
+                        33.648003
+                  ]
+            },
+            {
+                  "name": "Bay of Hakata",
+                  "text": "This prominent natural bay is historically famous as the site of ancient Mongol invasion attempts.",
+                  "category": "landmark",
+                  "coords": [
+                        130.316591,
+                        33.634578
+                  ]
+            },
+            {
+                  "name": "Kashii Kamome Bridge",
+                  "text": "This notable bridge structure spans across the local waters, providing a vital transport link for the area.",
+                  "category": "landmark",
+                  "coords": [
+                        130.411538,
+                        33.644878
+                  ]
+            },
+            {
+                  "name": "Uminonakamichi Bridge",
+                  "text": "This major bridge structure connects the mainland to the Uminonakamichi sandbank.",
+                  "category": "landmark",
+                  "coords": [
+                        130.407198,
+                        33.673363
+                  ]
+            },
+            {
+                  "name": "Mt.Tachibana",
+                  "text": "This prominent natural peak offers panoramic views and features the historic ruins of Tachibana Castle.",
+                  "category": "natural",
+                  "coords": [
+                        130.468238,
+                        33.679761
+                  ]
+            },
+            {
+                  "name": "Uminonakamichi Seaside Park",
+                  "text": "Established in 1981, this sprawling seaside park offers extensive green spaces and coastal leisure areas.",
+                  "category": "park",
+                  "coords": [
+                        130.362398,
+                        33.662994
+                  ]
+            },
+            {
+                  "name": "Marine World Uminonakamichi",
+                  "text": "This notable public aquarium showcases diverse marine life from the surrounding coastal waters.",
+                  "category": "recreational",
+                  "coords": [
+                        130.363472,
+                        33.661035
+                  ]
+            },
+            {
+                  "name": "Medical Museum of Kyushu University",
+                  "text": "This academic museum preserves and displays the rich medical history and research artifacts of Kyushu University.",
+                  "category": "museum",
+                  "coords": [
+                        130.41648,
+                        33.607502
+                  ]
+            },
+            {
+                  "name": "East Ward Town Hall",
+                  "text": "This municipal building serves as the administrative town hall center for the city's East Ward.",
+                  "category": "historical",
+                  "coords": [
+                        130.417431,
+                        33.617744
+                  ]
+            },
+            {
+                  "name": "Al Noor Islamic Center",
+                  "text": "This Islamic place of worship serves the local Muslim community with prayer facilities and cultural events.",
+                  "category": "religious",
+                  "coords": [
+                        130.427137,
+                        33.619982
+                  ]
+            },
+            {
+                  "name": "Kashii-hama East Park",
+                  "text": "This neighborhood park provides a green recreational space in the eastern part of the Kashii-hama district.",
+                  "category": "park",
+                  "coords": [
+                        130.433103,
+                        33.657412
+                  ]
+            },
+            {
+                  "name": "Kaizuka Park",
+                  "text": "This local public park features open spaces and playground facilities for residents in the Kaizuka area.",
+                  "category": "park",
+                  "coords": [
+                        130.42462,
+                        33.632619
+                  ]
+            },
+            {
+                  "name": "Najima Sport Park",
+                  "text": "This dedicated sports park offers various athletic fields and recreational facilities for the local community.",
+                  "category": "park",
+                  "coords": [
+                        130.425904,
+                        33.644544
+                  ]
+            },
+            {
+                  "name": "Hakozaki Park",
+                  "text": "Nestled in the Hakozaki neighborhood, this public park provides a quiet green space for outdoor relaxation.",
+                  "category": "park",
+                  "coords": [
+                        130.441439,
+                        33.621661
+                  ]
+            },
+            {
+                  "name": "Aoba Park",
+                  "text": "This local park in the Aoba residential area features tree-lined paths and family-friendly leisure spaces.",
+                  "category": "park",
+                  "coords": [
+                        130.461703,
+                        33.648178
+                  ]
+            },
+            {
+                  "name": "Island City Central Park",
+                  "text": "Situated in Island City, this spacious central park features a large pond and beautifully landscaped gardens.",
+                  "category": "park",
+                  "coords": [
+                        130.421097,
+                        33.663483
+                  ]
+            },
+            {
+                  "name": "Kashii-hama South Park",
+                  "text": "Located in the southern sector of Kashii-hama, this local park provides recreational amenities and green lawns.",
+                  "category": "park",
+                  "coords": [
+                        130.430694,
+                        33.653498
+                  ]
+            },
+            {
+                  "name": "Hakata Port Tower",
+                  "text": "This prominent viewpoint tower, designed by Naitō Tachū, offers sweeping panoramic vistas over the bustling harbor.",
+                  "category": "natural",
+                  "coords": [
+                        130.397623,
+                        33.60428
+                  ]
+            },
+            {
+                  "name": "Nokonoshima Museum",
+                  "text": "This specialized museum is dedicated to preserving the unique cultural and natural heritage of Nokonoshima island.",
+                  "category": "museum",
+                  "coords": [
+                        130.308049,
+                        33.614154
+                  ]
+            },
+            {
+                  "name": "Hobashira Stone",
+                  "text": "This archaeological site features the historical Hobashira stone artifact, providing a glimpse into ancient local practices.",
+                  "category": "historical",
+                  "coords": [
+                        130.421372,
+                        33.645163
+                  ]
+            },
+            {
+                  "name": "Hakata Port 60 Years Memoreal",
+                  "text": "This public monument commemorates the 60th anniversary of the port's modern operations and development.",
+                  "category": "historical",
+                  "coords": [
+                        130.396546,
+                        33.605173
+                  ]
+            },
+            {
+                  "name": "Rumieru2",
+                  "text": "This unique local attraction provides specific recreational entertainment for visitors exploring the district.",
+                  "category": "landmark",
+                  "coords": [
+                        130.417594,
+                        33.619583
+                  ]
+            },
+            {
+                  "name": "Cherry Blossom Trees",
+                  "text": "This scenic natural attraction features a prominent row of cherry blossom trees that bloom beautifully each spring.",
+                  "category": "landmark",
+                  "coords": [
+                        130.349726,
+                        33.658029
+                  ]
+            },
+            {
+                  "name": "Usa Shrine",
+                  "text": "This Shinto shrine is a local place of worship, historically linked to the worship of Hachiman.",
+                  "category": "landmark",
+                  "coords": [
+                        130.424664,
+                        33.618538
+                  ]
+            },
+            {
+                  "name": "Matsuzaki Shrine",
+                  "text": "Situated in the Matsuzaki neighborhood, this Shinto shrine offers a tranquil space for traditional ceremonies.",
+                  "category": "landmark",
+                  "coords": [
+                        130.443067,
+                        33.63705
+                  ]
+            },
+            {
+                  "name": "Kumano Shrine",
+                  "text": "This traditional Shinto shrine is dedicated to the revered kami of the widespread Kumano faith.",
+                  "category": "landmark",
+                  "coords": [
+                        130.457007,
+                        33.682843
+                  ]
+            },
+            {
+                  "name": "Mishima Shrine",
+                  "text": "This Shinto place of worship serves the community by honoring deities associated with the Mishima tradition.",
+                  "category": "landmark",
+                  "coords": [
+                        130.428938,
+                        33.660497
+                  ]
+            },
+            {
+                  "name": "Shishiki Shrine",
+                  "text": "This historical Shinto shrine provides a quiet sanctuary for prayer and traditional local festivals.",
+                  "category": "landmark",
+                  "coords": [
+                        130.406504,
+                        33.691168
+                  ]
+            },
+            {
+                  "name": "Miyajidake Shrine",
+                  "text": "This local Shinto shrine serves as a spiritual gathering place for the neighborhood's faithful.",
+                  "category": "landmark",
+                  "coords": [
+                        130.30702,
+                        33.631018
+                  ]
+            },
+            {
+                  "name": "Bokushimiwa Shrine",
+                  "text": "This traditional Shinto place of worship hosts seasonal rituals and maintains the spiritual heritage of the area.",
+                  "category": "landmark",
+                  "coords": [
+                        130.30259,
+                        33.63199
+                  ]
+            },
+            {
+                  "name": "Shirahige Shrine",
+                  "text": "Dedicated to longevity, this Shinto shrine offers an ancient spiritual atmosphere for daily worship.",
+                  "category": "landmark",
+                  "coords": [
+                        130.307229,
+                        33.61022
+                  ]
+            },
+            {
+                  "name": "Hakata Kibou Church",
+                  "text": "This Christian church, founded in 1992, actively serves its local congregation with regular worship services.",
+                  "category": "landmark",
+                  "coords": [
+                        130.441198,
+                        33.693876
+                  ]
+            },
+            {
+                  "name": "Observation deck",
+                  "text": "This high-altitude viewpoint provides visitors with an unobstructed, panoramic view of the surrounding cityscape.",
+                  "category": "natural",
+                  "coords": [
+                        130.303442,
+                        33.620816
+                  ]
+            },
+            {
+                  "name": "Najima Beach",
+                  "text": "This coastal sandy beach in the Najima area is a popular spot for relaxing and seaside strolls.",
+                  "category": "recreational",
+                  "coords": [
+                        130.421461,
+                        33.643511
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "JP-40",
     coords: [130.4, 33.6167],
@@ -641,7 +8552,916 @@ export const poiExtraJapanEconomicV2: POI[] = [
     
      image: "/poi-images/port-of-hakata-economic-v2.webp"},
   {
-    id: "j-power-isogo-thermal-plant-economic-v2",
+    id: "j-power-isogo-thermal-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Yokohama Harbor",
+                  "text": "Ein bedeutender internationaler Seehafen in Yokohama, der für seine modernen Hafenanlagen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        139.685896,
+                        35.420575
+                  ]
+            },
+            {
+                  "name": "Okamura-Tenmangu)",
+                  "text": "Ein Shinto-Schrein in Isogo, der den Gelehrten Sugawara no Michizane verehrt.",
+                  "category": "religious",
+                  "coords": [
+                        139.613118,
+                        35.415983
+                  ]
+            },
+            {
+                  "name": "Yokohama City Hasseiden Local Museum",
+                  "text": "Dieses Heimatmuseum präsentiert regionale Geschichte in einem markanten achteckigen Gebäude.",
+                  "category": "museum",
+                  "coords": [
+                        139.664813,
+                        35.415075
+                  ]
+            },
+            {
+                  "name": "Sankei-en",
+                  "text": "Ein weitläufiger japanischer Garten mit historischen Gebäuden, die aus ganz Japan hierher versetzt wurden.",
+                  "category": "museum",
+                  "coords": [
+                        139.658776,
+                        35.417037
+                  ]
+            },
+            {
+                  "name": "Yokohama Honmoku Art Museum",
+                  "text": "Ein Kunstmuseum im Stadtteil Honmoku, das sich zeitgenössischen und lokalen Werken widmet.",
+                  "category": "museum",
+                  "coords": [
+                        139.668338,
+                        35.419233
+                  ]
+            },
+            {
+                  "name": "Horse Museum",
+                  "text": "Das Museum auf dem Gelände der ehemaligen Negishi-Rennbahn widmet sich der Geschichte der Pferde in Japan.",
+                  "category": "museum",
+                  "coords": [
+                        139.639749,
+                        35.422548
+                  ]
+            },
+            {
+                  "name": "Kuraki Noh Stage",
+                  "text": "Eine traditionelle Noh-Bühne, die in der ruhigen Umgebung eines bewaldeten Parks liegt.",
+                  "category": "cultural",
+                  "coords": [
+                        139.60764,
+                        35.409626
+                  ]
+            },
+            {
+                  "name": "Former bacterial laboratory",
+                  "text": "Ein medizinhistorisches Museum in einem ehemaligen Laborgebäude für Bakteriologie.",
+                  "category": "museum",
+                  "coords": [
+                        139.636336,
+                        35.357393
+                  ]
+            },
+            {
+                  "name": "Yokohama Tram Museum",
+                  "text": "Dieses Museum zeigt historische Straßenbahnen, die einst das Rückgrat des Verkehrs in Yokohama bildeten.",
+                  "category": "museum",
+                  "coords": [
+                        139.624459,
+                        35.420388
+                  ]
+            },
+            {
+                  "name": "Negishi Racecourse",
+                  "text": "Die Ruinen der ersten modernen Pferderennbahn Japans, deren markante Tribüne noch heute sichtbar ist.",
+                  "category": "historical",
+                  "coords": [
+                        139.636282,
+                        35.424361
+                  ]
+            },
+            {
+                  "name": "Honmoku City Park",
+                  "text": "Ein Stadtpark in Honmoku mit Sportanlagen und Grünflächen für die lokale Erholung.",
+                  "category": "park",
+                  "coords": [
+                        139.661072,
+                        35.414273
+                  ]
+            },
+            {
+                  "name": "Gekkaden",
+                  "text": "Ein historisches Herrenhaus von 1603, das für seine Architektur und kulturelle Bedeutung geschützt ist.",
+                  "category": "historical",
+                  "coords": [
+                        139.657446,
+                        35.417469
+                  ]
+            },
+            {
+                  "name": "Honmoku Shrine",
+                  "text": "Ein Shinto-Schrein in Honmoku, der für seine traditionellen Sommerfestivals bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        139.659691,
+                        35.424221
+                  ]
+            },
+            {
+                  "name": "Honmokusanchō park",
+                  "text": "Ein Park auf einem Hügel mit Panoramablick über das Hafenviertel von Yokohama.",
+                  "category": "park",
+                  "coords": [
+                        139.660155,
+                        35.425308
+                  ]
+            },
+            {
+                  "name": "Tsujiyama-hachimansha",
+                  "text": "Ein lokaler Shinto-Schrein, der durch seine schlichte Holzarchitektur und ruhige Atmosphäre besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        139.531562,
+                        35.411193
+                  ]
+            },
+            {
+                  "name": "Yokodai Christian Church",
+                  "text": "Eine moderne christliche Kirche, die der Gemeinde im Stadtteil Yokodai dient.",
+                  "category": "landmark",
+                  "coords": [
+                        139.605972,
+                        35.384039
+                  ]
+            },
+            {
+                  "name": "HORIZON",
+                  "text": "Ein zeitgenössisches christliches Gemeindezentrum für Gottesdienste und lokale Versammlungen.",
+                  "category": "landmark",
+                  "coords": [
+                        139.603535,
+                        35.432571
+                  ]
+            },
+            {
+                  "name": "Seiryu Benzaiten",
+                  "text": "Ein Shinto-Heiligtum, das der Gottheit Benzaiten gewidmet ist, oft in der Nähe von Wasser gelegen.",
+                  "category": "landmark",
+                  "coords": [
+                        139.61819,
+                        35.426109
+                  ]
+            },
+            {
+                  "name": "Sankeien Tenmangu Shrine",
+                  "text": "Ein kleiner Schrein innerhalb des Sankeien-Gartens, der Sugawara no Michizane geweiht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        139.660628,
+                        35.417013
+                  ]
+            },
+            {
+                  "name": "YOKOHAMA MASONIC TEMPLE",
+                  "text": "Ein historisches Gebäude der Freimaurer in Yokohama, das die internationale Geschichte der Stadt widerspiegelt.",
+                  "category": "religious",
+                  "coords": [
+                        139.649477,
+                        35.424954
+                  ]
+            },
+            {
+                  "name": "Yokohama International Buptist Church",
+                  "text": "Eine internationale baptistische Kirche, die Gottesdienste in verschiedenen Sprachen für die Expatriate-Gemeinde anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        139.641053,
+                        35.42322
+                  ]
+            },
+            {
+                  "name": "Horinouchi Inari Jinja Shrine",
+                  "text": "Ein Inari-Schrein mit den charakteristischen roten Torii-Toren im Stadtteil Horinouchi.",
+                  "category": "landmark",
+                  "coords": [
+                        139.613544,
+                        35.42639
+                  ]
+            },
+            {
+                  "name": "Buddhist Sanctum of Old Tokeiji",
+                  "text": "Ein ehemaliges buddhistisches Heiligtum aus Kamakura, das heute im Sankeien-Garten steht.",
+                  "category": "landmark",
+                  "coords": [
+                        139.659436,
+                        35.415131
+                  ]
+            },
+            {
+                  "name": "Tamon-in",
+                  "text": "Ein buddhistischer Tempel, der für seine friedliche Gartenanlage und traditionellen Statuen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        139.666723,
+                        35.421372
+                  ]
+            },
+            {
+                  "name": "Tentoku-ji",
+                  "text": "Ein Tempel der buddhistischen Tradition, der als Ort der Stille und Meditation in Isogo dient.",
+                  "category": "landmark",
+                  "coords": [
+                        139.663394,
+                        35.426752
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Yokohama Harbor",
+                  "text": "Jelentős nemzetközi tengeri kikötő Japánban, amely Yokohama modern ipari övezetében fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        139.685896,
+                        35.420575
+                  ]
+            },
+            {
+                  "name": "Okamura-Tenmangu)",
+                  "text": "Isogo városrész Shinto szentélye, amelyet a tudós Sugawara no Michizane tiszteletére emeltek.",
+                  "category": "religious",
+                  "coords": [
+                        139.613118,
+                        35.415983
+                  ]
+            },
+            {
+                  "name": "Yokohama City Hasseiden Local Museum",
+                  "text": "Ez a helytörténeti múzeum a régió múltját mutatja be egy jellegzetes nyolcszögletű épületben.",
+                  "category": "museum",
+                  "coords": [
+                        139.664813,
+                        35.415075
+                  ]
+            },
+            {
+                  "name": "Sankei-en",
+                  "text": "Hatalmas japánkert, amelybe Japán különböző pontjairól szállítottak át értékes történelmi épületeket.",
+                  "category": "museum",
+                  "coords": [
+                        139.658776,
+                        35.417037
+                  ]
+            },
+            {
+                  "name": "Yokohama Honmoku Art Museum",
+                  "text": "Honmoku negyed művészeti múzeuma, amely kortárs és helyi alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        139.668338,
+                        35.419233
+                  ]
+            },
+            {
+                  "name": "Horse Museum",
+                  "text": "Az egykori Negishi lóversenypálya területén álló múzeum a japán lótartás történetét ismerteti.",
+                  "category": "museum",
+                  "coords": [
+                        139.639749,
+                        35.422548
+                  ]
+            },
+            {
+                  "name": "Kuraki Noh Stage",
+                  "text": "Hagyományos nó-színpad, amely egy erdős park nyugodt környezetében található.",
+                  "category": "cultural",
+                  "coords": [
+                        139.60764,
+                        35.409626
+                  ]
+            },
+            {
+                  "name": "Former bacterial laboratory",
+                  "text": "Orvostörténeti múzeum, amely egy egykori bakteriológiai laboratórium épületében kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        139.636336,
+                        35.357393
+                  ]
+            },
+            {
+                  "name": "Yokohama Tram Museum",
+                  "text": "A múzeum a Yokohama utcáin egykor közlekedő régi villamoskocsikat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        139.624459,
+                        35.420388
+                  ]
+            },
+            {
+                  "name": "Negishi Racecourse",
+                  "text": "Japán első modern lóversenypályájának romjai, melynek monumentális lelátója ma is látható.",
+                  "category": "historical",
+                  "coords": [
+                        139.636282,
+                        35.424361
+                  ]
+            },
+            {
+                  "name": "Honmoku City Park",
+                  "text": "Városi park Honmoku negyedben, sportpályákkal és pihenésre alkalmas zöldfelületekkel.",
+                  "category": "park",
+                  "coords": [
+                        139.661072,
+                        35.414273
+                  ]
+            },
+            {
+                  "name": "Gekkaden",
+                  "text": "Egy 1603-ból származó történelmi kúria, amely építészeti stílusa miatt védelem alatt áll.",
+                  "category": "historical",
+                  "coords": [
+                        139.657446,
+                        35.417469
+                  ]
+            },
+            {
+                  "name": "Honmoku Shrine",
+                  "text": "Honmoku negyed Shinto szentélye, amely a hagyományos nyári fesztiváljairól ismert.",
+                  "category": "religious",
+                  "coords": [
+                        139.659691,
+                        35.424221
+                  ]
+            },
+            {
+                  "name": "Honmokusanchō park",
+                  "text": "Domboldalon fekvő park, ahonnan panorámás kilátás nyílik Yokohama kikötői negyedére.",
+                  "category": "park",
+                  "coords": [
+                        139.660155,
+                        35.425308
+                  ]
+            },
+            {
+                  "name": "Tsujiyama-hachimansha",
+                  "text": "Helyi Shinto szentély, amely egyszerű faépítészetével és békés hangulatával tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        139.531562,
+                        35.411193
+                  ]
+            },
+            {
+                  "name": "Yokodai Christian Church",
+                  "text": "Modern keresztény templom, amely a Yokodai negyed hívő közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        139.605972,
+                        35.384039
+                  ]
+            },
+            {
+                  "name": "HORIZON",
+                  "text": "Kortárs keresztény közösségi központ, amely istentiszteleteknek és helyi gyűléseknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        139.603535,
+                        35.432571
+                  ]
+            },
+            {
+                  "name": "Seiryu Benzaiten",
+                  "text": "Shinto szentély Benzaiten istennő tiszteletére, amely gyakran víz közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        139.61819,
+                        35.426109
+                  ]
+            },
+            {
+                  "name": "Sankeien Tenmangu Shrine",
+                  "text": "A Sankeien-kerten belül található kis szentély, amelyet Sugawara no Michizane emlékének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        139.660628,
+                        35.417013
+                  ]
+            },
+            {
+                  "name": "YOKOHAMA MASONIC TEMPLE",
+                  "text": "Történelmi szabadkőműves páholy Yokohamában, amely a város nemzetközi múltját tükrözi.",
+                  "category": "religious",
+                  "coords": [
+                        139.649477,
+                        35.424954
+                  ]
+            },
+            {
+                  "name": "Yokohama International Buptist Church",
+                  "text": "Nemzetközi baptista templom, amely többnyelvű szertartásokat tart a külföldi közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        139.641053,
+                        35.42322
+                  ]
+            },
+            {
+                  "name": "Horinouchi Inari Jinja Shrine",
+                  "text": "Horinouchi negyed Inari-szentélye, a jellegzetes vörös torii kapukkal.",
+                  "category": "landmark",
+                  "coords": [
+                        139.613544,
+                        35.42639
+                  ]
+            },
+            {
+                  "name": "Buddhist Sanctum of Old Tokeiji",
+                  "text": "Kamakurából származó egykori buddhista szentély, amely ma a Sankeien-kertben látható.",
+                  "category": "landmark",
+                  "coords": [
+                        139.659436,
+                        35.415131
+                  ]
+            },
+            {
+                  "name": "Tamon-in",
+                  "text": "Buddhista templom, amely békés kertjéről és hagyományos szobrairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        139.666723,
+                        35.421372
+                  ]
+            },
+            {
+                  "name": "Tentoku-ji",
+                  "text": "Buddhista templom Isogo városrészben, amely a csend és a meditáció helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        139.663394,
+                        35.426752
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Yokohama Harbor",
+                  "text": "Un port maritim internațional major, esențial pentru comerțul și peisajul industrial al orașului Yokohama.",
+                  "category": "landmark",
+                  "coords": [
+                        139.685896,
+                        35.420575
+                  ]
+            },
+            {
+                  "name": "Okamura-Tenmangu)",
+                  "text": "Un altar Shinto situat în Isogo, dedicat memoriei învățatului Sugawara no Michizane.",
+                  "category": "religious",
+                  "coords": [
+                        139.613118,
+                        35.415983
+                  ]
+            },
+            {
+                  "name": "Yokohama City Hasseiden Local Museum",
+                  "text": "Acest muzeu de istorie locală prezintă trecutul regiunii într-o clădire octogonală distinctivă.",
+                  "category": "museum",
+                  "coords": [
+                        139.664813,
+                        35.415075
+                  ]
+            },
+            {
+                  "name": "Sankei-en",
+                  "text": "O grădină japoneză vastă ce adăpostește structuri istorice relocate din diverse regiuni ale Japoniei.",
+                  "category": "museum",
+                  "coords": [
+                        139.658776,
+                        35.417037
+                  ]
+            },
+            {
+                  "name": "Yokohama Honmoku Art Museum",
+                  "text": "Un muzeu de artă în districtul Honmoku, dedicat lucrărilor contemporane și locale.",
+                  "category": "museum",
+                  "coords": [
+                        139.668338,
+                        35.419233
+                  ]
+            },
+            {
+                  "name": "Horse Museum",
+                  "text": "Situat pe locul fostului hipodrom Negishi, acest muzeu este dedicat istoriei cabalinelor în Japonia.",
+                  "category": "museum",
+                  "coords": [
+                        139.639749,
+                        35.422548
+                  ]
+            },
+            {
+                  "name": "Kuraki Noh Stage",
+                  "text": "O scenă tradițională de teatru Noh, amplasată în cadrul liniștit al unui parc împădurit.",
+                  "category": "cultural",
+                  "coords": [
+                        139.60764,
+                        35.409626
+                  ]
+            },
+            {
+                  "name": "Former bacterial laboratory",
+                  "text": "Un muzeu de istorie medicală găzduit în clădirea unui fost laborator de bacteriologie.",
+                  "category": "museum",
+                  "coords": [
+                        139.636336,
+                        35.357393
+                  ]
+            },
+            {
+                  "name": "Yokohama Tram Museum",
+                  "text": "Acest muzeu expune tramvaie istorice care au format odinioară rețeaua de transport a orașului Yokohama.",
+                  "category": "museum",
+                  "coords": [
+                        139.624459,
+                        35.420388
+                  ]
+            },
+            {
+                  "name": "Negishi Racecourse",
+                  "text": "Ruinele primului hipodrom modern din Japonia, a cărui tribună monumentală este încă vizibilă.",
+                  "category": "historical",
+                  "coords": [
+                        139.636282,
+                        35.424361
+                  ]
+            },
+            {
+                  "name": "Honmoku City Park",
+                  "text": "Un parc urban în districtul Honmoku, dotat cu facilități sportive și spații verzi pentru recreere.",
+                  "category": "park",
+                  "coords": [
+                        139.661072,
+                        35.414273
+                  ]
+            },
+            {
+                  "name": "Gekkaden",
+                  "text": "Un conac istoric construit în 1603, protejat pentru arhitectura sa deosebită și importanța culturală.",
+                  "category": "historical",
+                  "coords": [
+                        139.657446,
+                        35.417469
+                  ]
+            },
+            {
+                  "name": "Honmoku Shrine",
+                  "text": "Un altar Shinto în Honmoku, renumit pentru festivalurile sale tradiționale de vară.",
+                  "category": "religious",
+                  "coords": [
+                        139.659691,
+                        35.424221
+                  ]
+            },
+            {
+                  "name": "Honmokusanchō park",
+                  "text": "Un parc situat pe un deal, oferind o vedere panoramică asupra zonei portuare din Yokohama.",
+                  "category": "park",
+                  "coords": [
+                        139.660155,
+                        35.425308
+                  ]
+            },
+            {
+                  "name": "Tsujiyama-hachimansha",
+                  "text": "Un altar Shinto local, remarcabil prin arhitectura sa simplă din lemn și atmosfera liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        139.531562,
+                        35.411193
+                  ]
+            },
+            {
+                  "name": "Yokodai Christian Church",
+                  "text": "O biserică creștină modernă care deservește comunitatea locală din cartierul Yokodai.",
+                  "category": "landmark",
+                  "coords": [
+                        139.605972,
+                        35.384039
+                  ]
+            },
+            {
+                  "name": "HORIZON",
+                  "text": "Un centru comunitar creștin contemporan destinat serviciilor religioase și întâlnirilor locale.",
+                  "category": "landmark",
+                  "coords": [
+                        139.603535,
+                        35.432571
+                  ]
+            },
+            {
+                  "name": "Seiryu Benzaiten",
+                  "text": "Un sanctuar Shinto dedicat zeității Benzaiten, situat într-un cadru liniștit.",
+                  "category": "landmark",
+                  "coords": [
+                        139.61819,
+                        35.426109
+                  ]
+            },
+            {
+                  "name": "Sankeien Tenmangu Shrine",
+                  "text": "Un mic altar aflat în interiorul grădinii Sankeien, dedicat lui Sugawara no Michizane.",
+                  "category": "landmark",
+                  "coords": [
+                        139.660628,
+                        35.417013
+                  ]
+            },
+            {
+                  "name": "YOKOHAMA MASONIC TEMPLE",
+                  "text": "O clădire masonică istorică din Yokohama, reflectând istoria internațională a orașului.",
+                  "category": "religious",
+                  "coords": [
+                        139.649477,
+                        35.424954
+                  ]
+            },
+            {
+                  "name": "Yokohama International Buptist Church",
+                  "text": "O biserică baptistă internațională care oferă servicii religioase pentru comunitatea de expați.",
+                  "category": "landmark",
+                  "coords": [
+                        139.641053,
+                        35.42322
+                  ]
+            },
+            {
+                  "name": "Horinouchi Inari Jinja Shrine",
+                  "text": "Un altar Inari cu porți torii roșii caracteristice, situat în districtul Horinouchi.",
+                  "category": "landmark",
+                  "coords": [
+                        139.613544,
+                        35.42639
+                  ]
+            },
+            {
+                  "name": "Buddhist Sanctum of Old Tokeiji",
+                  "text": "Un fost sanctuar budist adus din Kamakura, situat acum în incinta grădinii Sankeien.",
+                  "category": "landmark",
+                  "coords": [
+                        139.659436,
+                        35.415131
+                  ]
+            },
+            {
+                  "name": "Tamon-in",
+                  "text": "Un templu budist renumit pentru grădinile sale liniștite și statuile tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        139.666723,
+                        35.421372
+                  ]
+            },
+            {
+                  "name": "Tentoku-ji",
+                  "text": "Un templu budist situat în Isogo, servind ca loc de liniște și meditație.",
+                  "category": "landmark",
+                  "coords": [
+                        139.663394,
+                        35.426752
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yokohama Harbor",
+                  "text": "A major international seaport in Yokohama, known for its extensive modern shipping and docking facilities.",
+                  "category": "landmark",
+                  "coords": [
+                        139.685896,
+                        35.420575
+                  ]
+            },
+            {
+                  "name": "Okamura-Tenmangu)",
+                  "text": "A Shinto shrine in Isogo dedicated to the scholar Sugawara no Michizane.",
+                  "category": "religious",
+                  "coords": [
+                        139.613118,
+                        35.415983
+                  ]
+            },
+            {
+                  "name": "Yokohama City Hasseiden Local Museum",
+                  "text": "This local history museum showcases regional heritage within a distinctive octagonal building.",
+                  "category": "museum",
+                  "coords": [
+                        139.664813,
+                        35.415075
+                  ]
+            },
+            {
+                  "name": "Sankei-en",
+                  "text": "A vast Japanese garden featuring historic buildings relocated from various parts of Japan.",
+                  "category": "museum",
+                  "coords": [
+                        139.658776,
+                        35.417037
+                  ]
+            },
+            {
+                  "name": "Yokohama Honmoku Art Museum",
+                  "text": "An art museum in the Honmoku district focusing on contemporary and local Japanese works.",
+                  "category": "museum",
+                  "coords": [
+                        139.668338,
+                        35.419233
+                  ]
+            },
+            {
+                  "name": "Horse Museum",
+                  "text": "Located on the grounds of the former Negishi Racecourse, this museum explores the history of horses in Japan.",
+                  "category": "museum",
+                  "coords": [
+                        139.639749,
+                        35.422548
+                  ]
+            },
+            {
+                  "name": "Kuraki Noh Stage",
+                  "text": "A traditional Noh theater stage set within the tranquil surroundings of a wooded park.",
+                  "category": "cultural",
+                  "coords": [
+                        139.60764,
+                        35.409626
+                  ]
+            },
+            {
+                  "name": "Former bacterial laboratory",
+                  "text": "A medical history museum housed in a former laboratory building used for bacteriology studies.",
+                  "category": "museum",
+                  "coords": [
+                        139.636336,
+                        35.357393
+                  ]
+            },
+            {
+                  "name": "Yokohama Tram Museum",
+                  "text": "This museum displays vintage streetcars that once formed the backbone of Yokohama's transport network.",
+                  "category": "museum",
+                  "coords": [
+                        139.624459,
+                        35.420388
+                  ]
+            },
+            {
+                  "name": "Negishi Racecourse",
+                  "text": "The ruins of Japan's first modern racecourse, featuring the remains of its grand Western-style grandstand.",
+                  "category": "historical",
+                  "coords": [
+                        139.636282,
+                        35.424361
+                  ]
+            },
+            {
+                  "name": "Honmoku City Park",
+                  "text": "A city park in Honmoku featuring sports facilities and green spaces for local recreation.",
+                  "category": "park",
+                  "coords": [
+                        139.661072,
+                        35.414273
+                  ]
+            },
+            {
+                  "name": "Gekkaden",
+                  "text": "A historic manor dating back to 1603, protected for its traditional architecture and cultural heritage.",
+                  "category": "historical",
+                  "coords": [
+                        139.657446,
+                        35.417469
+                  ]
+            },
+            {
+                  "name": "Honmoku Shrine",
+                  "text": "A Shinto shrine in Honmoku known for its traditional rituals and summer festivals.",
+                  "category": "religious",
+                  "coords": [
+                        139.659691,
+                        35.424221
+                  ]
+            },
+            {
+                  "name": "Honmokusanchō park",
+                  "text": "A hilltop park offering panoramic views over the surrounding harbor district of Yokohama.",
+                  "category": "park",
+                  "coords": [
+                        139.660155,
+                        35.425308
+                  ]
+            },
+            {
+                  "name": "Tsujiyama-hachimansha",
+                  "text": "A local Shinto shrine characterized by its simple wooden architecture and peaceful atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        139.531562,
+                        35.411193
+                  ]
+            },
+            {
+                  "name": "Yokodai Christian Church",
+                  "text": "A modern Christian church serving the local community in the Yokodai district.",
+                  "category": "landmark",
+                  "coords": [
+                        139.605972,
+                        35.384039
+                  ]
+            },
+            {
+                  "name": "HORIZON",
+                  "text": "A contemporary Christian community center used for religious services and local gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        139.603535,
+                        35.432571
+                  ]
+            },
+            {
+                  "name": "Seiryu Benzaiten",
+                  "text": "A Shinto shrine dedicated to the deity Benzaiten, situated in a quiet local setting.",
+                  "category": "landmark",
+                  "coords": [
+                        139.61819,
+                        35.426109
+                  ]
+            },
+            {
+                  "name": "Sankeien Tenmangu Shrine",
+                  "text": "A small shrine located within the Sankeien Garden, dedicated to the spirit of Sugawara no Michizane.",
+                  "category": "landmark",
+                  "coords": [
+                        139.660628,
+                        35.417013
+                  ]
+            },
+            {
+                  "name": "YOKOHAMA MASONIC TEMPLE",
+                  "text": "A historic Masonic temple in Yokohama, reflecting the city's diverse international history.",
+                  "category": "religious",
+                  "coords": [
+                        139.649477,
+                        35.424954
+                  ]
+            },
+            {
+                  "name": "Yokohama International Buptist Church",
+                  "text": "An international Baptist church providing multilingual services for the local expatriate community.",
+                  "category": "landmark",
+                  "coords": [
+                        139.641053,
+                        35.42322
+                  ]
+            },
+            {
+                  "name": "Horinouchi Inari Jinja Shrine",
+                  "text": "An Inari shrine in the Horinouchi district, featuring characteristic red torii gates.",
+                  "category": "landmark",
+                  "coords": [
+                        139.613544,
+                        35.42639
+                  ]
+            },
+            {
+                  "name": "Buddhist Sanctum of Old Tokeiji",
+                  "text": "A former Buddhist sanctum originally from Kamakura, now preserved within the Sankeien Garden.",
+                  "category": "landmark",
+                  "coords": [
+                        139.659436,
+                        35.415131
+                  ]
+            },
+            {
+                  "name": "Tamon-in",
+                  "text": "A Buddhist temple known for its peaceful garden grounds and traditional religious statuary.",
+                  "category": "landmark",
+                  "coords": [
+                        139.666723,
+                        35.421372
+                  ]
+            },
+            {
+                  "name": "Tentoku-ji",
+                  "text": "A temple of the Buddhist tradition serving as a place of quiet reflection and meditation in Isogo.",
+                  "category": "landmark",
+                  "coords": [
+                        139.663394,
+                        35.426752
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "JP-14",
     coords: [139.638, 35.422],
@@ -690,7 +9510,1348 @@ export const poiExtraJapanEconomicV2: POI[] = [
     
      image: "/poi-images/j-power-isogo-thermal-plant-economic-v2.webp"},
   {
-    id: "tsukiji-outer-market-trade-hub-v2",
+    id: "tsukiji-outer-market-trade-hub-v2", "sights": {
+      "de": [
+            {
+                  "name": "Center of the Tokyo Raids and War Damage",
+                  "text": "Dieses Museum dokumentiert die verheerenden Luftangriffe auf Tokio im Jahr 1945 durch persönliche Gegenstände und Fotos.",
+                  "category": "museum",
+                  "coords": [
+                        139.822264,
+                        35.681744
+                  ]
+            },
+            {
+                  "name": "Art Aquarium Museum GINZA",
+                  "text": "Ein einzigartiges Museum in Ginza, das Tausende von Goldfischen in kunstvoll beleuchteten Glasgefäßen präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        139.765708,
+                        35.67138
+                  ]
+            },
+            {
+                  "name": "Advertising Museum Tokyo",
+                  "text": "Das 2002 eröffnete Museum zeigt die Geschichte der japanischen Werbung von der Edo-Zeit bis zur Gegenwart.",
+                  "category": "museum",
+                  "coords": [
+                        139.762641,
+                        35.664522
+                  ]
+            },
+            {
+                  "name": "teamLab Planets",
+                  "text": "Ein immersives digitales Kunstmuseum, in dem Besucher barfuß durch Wasser und riesige Lichtinstallationen wandern.",
+                  "category": "museum",
+                  "coords": [
+                        139.789728,
+                        35.64938
+                  ]
+            },
+            {
+                  "name": "Tagawa Suiho Norakuro Museum",
+                  "text": "Dieses Museum ist dem Manga-Künstler Tagawa Suiho und seiner berühmten Figur, dem Hund Norakuro, gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        139.802363,
+                        35.685092
+                  ]
+            },
+            {
+                  "name": "Fukagawa Edo Museum",
+                  "text": "Das Museum zeigt einen beeindruckenden lebensgroßen Nachbau eines Tokioter Viertels aus der späten Edo-Zeit.",
+                  "category": "museum",
+                  "coords": [
+                        139.800548,
+                        35.681052
+                  ]
+            },
+            {
+                  "name": "Artizon Museum",
+                  "text": "Dieses Kunstmuseum beherbergt die bedeutende Ishibashi-Stiftungssammlung mit Fokus auf Impressionismus und moderner Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        139.772129,
+                        35.678749
+                  ]
+            },
+            {
+                  "name": "National Film Archive of Japan",
+                  "text": "Japans einzige nationale Institution, die sich der Erhaltung und Ausstellung der Filmgeschichte des Landes widmet.",
+                  "category": "museum",
+                  "coords": [
+                        139.770659,
+                        35.675574
+                  ]
+            },
+            {
+                  "name": "Gas science museum",
+                  "text": "Ein interaktives Wissenschaftsmuseum, das die Entdeckung und vielfältige Nutzung von Erdgas spielerisch erklärt.",
+                  "category": "museum",
+                  "coords": [
+                        139.792101,
+                        35.651691
+                  ]
+            },
+            {
+                  "name": "Museum für zeitgenössische Kunst Tokio",
+                  "text": "Dieses am Kiba-Park gelegene Haus ist das größte Museum für zeitgenössische Kunst in ganz Japan.",
+                  "category": "museum",
+                  "coords": [
+                        139.808348,
+                        35.679743
+                  ]
+            },
+            {
+                  "name": "Police Museum",
+                  "text": "Das Museum zeigt die Geschichte der Tokioter Polizei und bietet interaktive Stationen für Kinder und Erwachsene.",
+                  "category": "museum",
+                  "coords": [
+                        139.769582,
+                        35.675123
+                  ]
+            },
+            {
+                  "name": "Minato City Hall",
+                  "text": "Das Verwaltungszentrum des Bezirks Minato befindet sich in unmittelbarer Nähe zum Shiba-Park und dem Tokyo Tower.",
+                  "category": "historical",
+                  "coords": [
+                        139.751563,
+                        35.658039
+                  ]
+            },
+            {
+                  "name": "Chuo City Hall",
+                  "text": "Das Rathaus des zentralen Bezirks Chuo liegt im Herzen des Tsukiji-Viertels nahe dem berühmten Fischmarkt.",
+                  "category": "historical",
+                  "coords": [
+                        139.771976,
+                        35.670599
+                  ]
+            },
+            {
+                  "name": "Former Shibusawa Residence",
+                  "text": "Die ehemalige Residenz von Shibusawa Eiichi, dem einflussreichen Gründervater des modernen japanischen Kapitalismus.",
+                  "category": "historical",
+                  "coords": [
+                        139.819521,
+                        35.660219
+                  ]
+            },
+            {
+                  "name": "Koto City Office",
+                  "text": "Das Hauptverwaltungsgebäude des Bezirks Koto ist ein markanter moderner Bau im Stadtteil Toyo.",
+                  "category": "historical",
+                  "coords": [
+                        139.817239,
+                        35.672799
+                  ]
+            },
+            {
+                  "name": "Shinpuku-ji",
+                  "text": "Ein buddhistischer Tempel im Bezirk Minato, der für seine klare, moderne Architektur und ruhige Atmosphäre bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        139.74933,
+                        35.665745
+                  ]
+            },
+            {
+                  "name": "Karasumori Shrine",
+                  "text": "Dieser Shinto-Schrein in Shimbashi fällt durch seine ungewöhnliche Betonarchitektur und farbenfrohen Glücksbringer auf.",
+                  "category": "religious",
+                  "coords": [
+                        139.756818,
+                        35.666795
+                  ]
+            },
+            {
+                  "name": "Hakuhinkan Theatre",
+                  "text": "Ein Theater im Obergeschoss eines berühmten Spielzeugladens in Ginza, das Musicals und Komödien zeigt.",
+                  "category": "cultural",
+                  "coords": [
+                        139.761047,
+                        35.667827
+                  ]
+            },
+            {
+                  "name": "Tokyo Takarazuka Theater",
+                  "text": "Die Tokioter Spielstätte der berühmten rein weiblichen Takarazuka Revue, die seit 1934 opulente Musicals aufführt.",
+                  "category": "cultural",
+                  "coords": [
+                        139.759205,
+                        35.672825
+                  ]
+            },
+            {
+                  "name": "Ginza Church",
+                  "text": "Eine protestantische Kirche mitten in Ginza, die für ihre regelmäßigen Orgelkonzerte in moderner Umgebung bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        139.764333,
+                        35.672999
+                  ]
+            },
+            {
+                  "name": "Kanze Noh Theater",
+                  "text": "Ein traditionelles Noh-Theater, das 2017 in das moderne Einkaufszentrum Ginza Six umgezogen ist.",
+                  "category": "cultural",
+                  "coords": [
+                        139.76429,
+                        35.669318
+                  ]
+            },
+            {
+                  "name": "Hibiya-jinja Shrine",
+                  "text": "Dieser Schrein gilt als Schutzort gegen Unheil und wurde aufgrund von Stadtentwicklungen mehrfach in Shiodome verlegt.",
+                  "category": "religious",
+                  "coords": [
+                        139.758296,
+                        35.663399
+                  ]
+            },
+            {
+                  "name": "Shimbashi Embujo Theatre",
+                  "text": "Ein traditionsreiches Theater, das vor allem für Kabuki-Aufführungen und moderne japanische Dramen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        139.766977,
+                        35.666815
+                  ]
+            },
+            {
+                  "name": "Hoju Inari Jinja",
+                  "text": "Ein winziger Inari-Schrein in Ginza, der versteckt in einer schmalen Gasse zwischen modernen Bürogebäuden liegt.",
+                  "category": "religious",
+                  "coords": [
+                        139.769367,
+                        35.670151
+                  ]
+            },
+            {
+                  "name": "Teppozu Inari Shrine",
+                  "text": "Dieser Schrein ist für seinen Miniatur-Fuji aus Lavasteinen und die jährlichen Kaltwasser-Reinigungsrituale bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        139.779764,
+                        35.67249
+                  ]
+            },
+            {
+                  "name": "Eitai-ji Temple",
+                  "text": "Ein historischer buddhistischer Tempel, der Namensgeber für die nahegelegene Eitai-Brücke über den Sumida-Fluss war.",
+                  "category": "religious",
+                  "coords": [
+                        139.798095,
+                        35.672017
+                  ]
+            },
+            {
+                  "name": "Matsushima Jinja",
+                  "text": "Ein kleiner Schrein, der Teil der Pilgerreise zu den sieben Glücksgöttern von Nihonbashi ist.",
+                  "category": "religious",
+                  "coords": [
+                        139.785439,
+                        35.684647
+                  ]
+            },
+            {
+                  "name": "Meijiza",
+                  "text": "Eines der ältesten Theater Tokios, das eine Mischung aus Kabuki, populären Stücken und Enka-Konzerten bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        139.78703,
+                        35.687864
+                  ]
+            },
+            {
+                  "name": "Fukagawa Inari Shrine",
+                  "text": "Dieser dem Gott Hotei gewidmete Schrein ist eine Station auf dem Rundweg der sieben Glücksgötter von Fukagawa.",
+                  "category": "religious",
+                  "coords": [
+                        139.796886,
+                        35.682922
+                  ]
+            },
+            {
+                  "name": "Masaki Inari Shrine",
+                  "text": "Ein friedlicher Shinto-Schrein in Fukagawa, der für seine Verbindung zum Schutz der Anwohner bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        139.794026,
+                        35.683932
+                  ]
+            },
+            {
+                  "name": "Fukagawa Shimmei Shrine",
+                  "text": "Dieser im 17. Jahrhundert gegründete Schrein gilt als historischer Ursprung des gesamten Fukagawa-Bezirks.",
+                  "category": "religious",
+                  "coords": [
+                        139.797314,
+                        35.686545
+                  ]
+            },
+            {
+                  "name": "Zorinji Temple",
+                  "text": "Ein ruhiger buddhistischer Tempel im Koto-Bezirk mit einem traditionellen, gepflegten Friedhof.",
+                  "category": "religious",
+                  "coords": [
+                        139.797554,
+                        35.677081
+                  ]
+            },
+            {
+                  "name": "Fuyuki Bentendo Temple",
+                  "text": "Ein Tempel, der der Göttin Benzaiten gewidmet ist und für die Förderung von Reichtum und Künsten aufgesucht wird.",
+                  "category": "religious",
+                  "coords": [
+                        139.800159,
+                        35.675374
+                  ]
+            },
+            {
+                  "name": "Ryukoin Temple",
+                  "text": "Dieser Tempel in Fukagawa ist seit der Edo-Zeit ein fester Bestandteil der lokalen buddhistischen Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        139.803568,
+                        35.680023
+                  ]
+            },
+            {
+                  "name": "Chisen-in Temple",
+                  "text": "Ein kleiner, beschaulicher buddhistischer Tempel im Tsukiji-Viertel, der einen Ort der Stille inmitten der Stadt bietet.",
+                  "category": "religious",
+                  "coords": [
+                        139.77931,
+                        35.680922
+                  ]
+            },
+            {
+                  "name": "Koami Shrine",
+                  "text": "Dieser Schrein ist berühmt für seine prächtigen Holzschnitzereien und gilt als Glücksort für Geldangelegenheiten.",
+                  "category": "religious",
+                  "coords": [
+                        139.780448,
+                        35.684167
+                  ]
+            },
+            {
+                  "name": "Yomiuri Otemachi Hall",
+                  "text": "Ein moderner Veranstaltungsort im Yomiuri-Shimbun-Gebäude, der für Konzerte und kulturelle Vorträge genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        139.763203,
+                        35.675514
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Center of the Tokyo Raids and War Damage",
+                  "text": "Ez a múzeum az 1945-ös tokiói bombázások emlékét őrzi személyes tárgyakon és fényképeken keresztül.",
+                  "category": "museum",
+                  "coords": [
+                        139.822264,
+                        35.681744
+                  ]
+            },
+            {
+                  "name": "Art Aquarium Museum GINZA",
+                  "text": "Egy különleges múzeum Ginzában, ahol több ezer aranyhalat láthatunk művészien megvilágított üvegedényekben.",
+                  "category": "museum",
+                  "coords": [
+                        139.765708,
+                        35.67138
+                  ]
+            },
+            {
+                  "name": "Advertising Museum Tokyo",
+                  "text": "A 2002-ben megnyílt múzeum a japán reklámok történetét mutatja be az Edo-kortól napjainkig.",
+                  "category": "museum",
+                  "coords": [
+                        139.762641,
+                        35.664522
+                  ]
+            },
+            {
+                  "name": "teamLab Planets",
+                  "text": "Magával ragadó digitális művészeti múzeum, ahol a látogatók mezítláb gázolnak át a vízen és a fényinstallációkon.",
+                  "category": "museum",
+                  "coords": [
+                        139.789728,
+                        35.64938
+                  ]
+            },
+            {
+                  "name": "Tagawa Suiho Norakuro Museum",
+                  "text": "Ez a múzeum Tagawa Szuiho manga-művésznek és híres karakterének, Norakuro kutyának állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        139.802363,
+                        35.685092
+                  ]
+            },
+            {
+                  "name": "Fukagawa Edo Museum",
+                  "text": "A múzeum a késő Edo-kori Tokió egyik negyedének lenyűgöző, életnagyságú rekonstrukcióját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        139.800548,
+                        35.681052
+                  ]
+            },
+            {
+                  "name": "Artizon Museum",
+                  "text": "Ez a művészeti múzeum ad otthont az Isibasi Alapítvány jelentős impresszionista és modern művészeti gyűjteményének.",
+                  "category": "museum",
+                  "coords": [
+                        139.772129,
+                        35.678749
+                  ]
+            },
+            {
+                  "name": "National Film Archive of Japan",
+                  "text": "Japán egyetlen nemzeti intézménye, amely az ország filmművészeti örökségének megőrzésével és bemutatásával foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        139.770659,
+                        35.675574
+                  ]
+            },
+            {
+                  "name": "Gas science museum",
+                  "text": "Interaktív természettudományi múzeum, amely játékosan mutatja be a földgáz felfedezését és sokoldalú felhasználását.",
+                  "category": "museum",
+                  "coords": [
+                        139.792101,
+                        35.651691
+                  ]
+            },
+            {
+                  "name": "Museum of Contemporary Art Tokyo",
+                  "text": "A Kiba park mellett található épület egész Japán legnagyobb kortárs művészeti múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        139.808348,
+                        35.679743
+                  ]
+            },
+            {
+                  "name": "Police Museum",
+                  "text": "A múzeum a tokiói rendőrség történetét mutatja be, interaktív állomásokkal várva kicsiket és nagyokat.",
+                  "category": "museum",
+                  "coords": [
+                        139.769582,
+                        35.675123
+                  ]
+            },
+            {
+                  "name": "Minato City Hall",
+                  "text": "Minato kerület közigazgatási központja, amely a Siba-park és a Tokió-torony közvetlen közelében található.",
+                  "category": "historical",
+                  "coords": [
+                        139.751563,
+                        35.658039
+                  ]
+            },
+            {
+                  "name": "Chuo City Hall",
+                  "text": "A központi Csúó kerület városházája a Cukidzsi negyed szívében, a híres halpiac közelében található.",
+                  "category": "historical",
+                  "coords": [
+                        139.771976,
+                        35.670599
+                  ]
+            },
+            {
+                  "name": "Former Shibusawa Residence",
+                  "text": "Sibuszava Eiicsinek, a modern japán kapitalizmus alapító atyjának egykori történelmi lakóhelye.",
+                  "category": "historical",
+                  "coords": [
+                        139.819521,
+                        35.660219
+                  ]
+            },
+            {
+                  "name": "Koto City Office",
+                  "text": "Kótó kerület fő közigazgatási épülete egy jellegzetes modern építmény Tójó városrészben.",
+                  "category": "historical",
+                  "coords": [
+                        139.817239,
+                        35.672799
+                  ]
+            },
+            {
+                  "name": "Shinpuku-ji",
+                  "text": "Egy buddhista templom Minato kerületben, amely letisztult, modern építészetéről és nyugodt légköréről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        139.74933,
+                        35.665745
+                  ]
+            },
+            {
+                  "name": "Karasumori Shrine",
+                  "text": "Ez a simbasi sinto szentély szokatlan betonépítészetével és színes szerencsehozóival hívja fel magára a figyelmet.",
+                  "category": "religious",
+                  "coords": [
+                        139.756818,
+                        35.666795
+                  ]
+            },
+            {
+                  "name": "Hakuhinkan Theatre",
+                  "text": "Egy színház egy híres ginza-i játékbolt emeletén, amely musicaleknek és komédiáknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        139.761047,
+                        35.667827
+                  ]
+            },
+            {
+                  "name": "Tokyo Takarazuka Theater",
+                  "text": "A híres, kizárólag nőkből álló Takarazuka Revue tokiói otthona, amely 1934 óta tart látványos előadásokat.",
+                  "category": "cultural",
+                  "coords": [
+                        139.759205,
+                        35.672825
+                  ]
+            },
+            {
+                  "name": "Ginza Church",
+                  "text": "Egy protestáns templom Ginza közepén, amely rendszeres orgonakoncertjeiről ismert modern környezetben.",
+                  "category": "religious",
+                  "coords": [
+                        139.764333,
+                        35.672999
+                  ]
+            },
+            {
+                  "name": "Kanze Noh Theater",
+                  "text": "Egy tradicionális nó színház, amely 2017-ben költözött be a modern Ginza Six bevásárlóközpontba.",
+                  "category": "cultural",
+                  "coords": [
+                        139.76429,
+                        35.669318
+                  ]
+            },
+            {
+                  "name": "Hibiya-jinja Shrine",
+                  "text": "Ezt a szentélyt a bajok elleni védelem helyének tartják, és a városfejlesztések miatt többször is áthelyezték Siodoméban.",
+                  "category": "religious",
+                  "coords": [
+                        139.758296,
+                        35.663399
+                  ]
+            },
+            {
+                  "name": "Shimbashi Embujo Theatre",
+                  "text": "Nagy múltú színház, amely elsősorban kabuki előadásairól és modern japán drámáiról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        139.766977,
+                        35.666815
+                  ]
+            },
+            {
+                  "name": "Hoju Inari Jinja",
+                  "text": "Egy apró Inari szentély Ginzában, amely egy szűk sikátorban rejtőzik a modern irodaházak között.",
+                  "category": "religious",
+                  "coords": [
+                        139.769367,
+                        35.670151
+                  ]
+            },
+            {
+                  "name": "Teppozu Inari Shrine",
+                  "text": "Ez a szentély a lávakövekből épült miniatűr Fudzsi-hegyéről és az éves hidegvizes tisztulási rituáléiról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        139.779764,
+                        35.67249
+                  ]
+            },
+            {
+                  "name": "Eitai-ji Temple",
+                  "text": "Történelmi buddhista templom, amely a közeli, Szumida-folyón átívelő Eitai-híd névadója volt.",
+                  "category": "religious",
+                  "coords": [
+                        139.798095,
+                        35.672017
+                  ]
+            },
+            {
+                  "name": "Matsushima Jinja",
+                  "text": "Egy kis szentély, amely a nihonbasi hét szerencseistenhez vezető zarándokút része.",
+                  "category": "religious",
+                  "coords": [
+                        139.785439,
+                        35.684647
+                  ]
+            },
+            {
+                  "name": "Meijiza",
+                  "text": "Tokió egyik legrégebbi színháza, amely kabuki előadások, népszerű darabok és enka koncertek elegyét kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        139.78703,
+                        35.687864
+                  ]
+            },
+            {
+                  "name": "Fukagawa Inari Shrine",
+                  "text": "Ez a Hotei istennek szentelt szentély a fukagawai hét szerencseisten zarándokút egyik állomása.",
+                  "category": "religious",
+                  "coords": [
+                        139.796886,
+                        35.682922
+                  ]
+            },
+            {
+                  "name": "Masaki Inari Shrine",
+                  "text": "Egy békés sinto szentély Fukagawában, amely a helyi lakosok védelmével való kapcsolatáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        139.794026,
+                        35.683932
+                  ]
+            },
+            {
+                  "name": "Fukagawa Shimmei Shrine",
+                  "text": "Ezt a 17. században alapított szentélyt tekintik az egész Fukagawa negyed történelmi bölcsőjének.",
+                  "category": "religious",
+                  "coords": [
+                        139.797314,
+                        35.686545
+                  ]
+            },
+            {
+                  "name": "Zorinji Temple",
+                  "text": "Egy csendes buddhista templom Kótó kerületben, hagyományos, gondozott temetővel.",
+                  "category": "religious",
+                  "coords": [
+                        139.797554,
+                        35.677081
+                  ]
+            },
+            {
+                  "name": "Fuyuki Bentendo Temple",
+                  "text": "Benzaiten istennőnek szentelt templom, ahová a gazdagság és a művészetek támogatásáért járnak imádkozni.",
+                  "category": "religious",
+                  "coords": [
+                        139.800159,
+                        35.675374
+                  ]
+            },
+            {
+                  "name": "Ryukoin Temple",
+                  "text": "Ez a fukagawai templom az Edo-kor óta a helyi buddhista közösség meghatározó része.",
+                  "category": "religious",
+                  "coords": [
+                        139.803568,
+                        35.680023
+                  ]
+            },
+            {
+                  "name": "Chisen-in Temple",
+                  "text": "Egy apró, békés buddhista templom a Cukidzsi negyedben, amely a nyugalom szigetét kínálja a város közepén.",
+                  "category": "religious",
+                  "coords": [
+                        139.77931,
+                        35.680922
+                  ]
+            },
+            {
+                  "name": "Koami Shrine",
+                  "text": "Ez a szentély pompás fafaragásairól híres, és a pénzügyi szerencse helyszínének tartják.",
+                  "category": "religious",
+                  "coords": [
+                        139.780448,
+                        35.684167
+                  ]
+            },
+            {
+                  "name": "Yomiuri Otemachi Hall",
+                  "text": "Modern rendezvényhelyszín a Jomiuri Simbun épületében, amelyet koncertekre és kulturális előadásokra használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        139.763203,
+                        35.675514
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Center of the Tokyo Raids and War Damage",
+                  "text": "Acest muzeu documentează raidurile aeriene devastatoare asupra orașului Tokyo din 1945 prin obiecte personale și fotografii.",
+                  "category": "museum",
+                  "coords": [
+                        139.822264,
+                        35.681744
+                  ]
+            },
+            {
+                  "name": "Art Aquarium Museum GINZA",
+                  "text": "Un muzeu unic în Ginza care expune mii de pești aurii în vase de sticlă iluminate artistic.",
+                  "category": "museum",
+                  "coords": [
+                        139.765708,
+                        35.67138
+                  ]
+            },
+            {
+                  "name": "Advertising Museum Tokyo",
+                  "text": "Deschis în 2002, acest muzeu explorează istoria publicității japoneze din perioada Edo până în prezent.",
+                  "category": "museum",
+                  "coords": [
+                        139.762641,
+                        35.664522
+                  ]
+            },
+            {
+                  "name": "teamLab Planets",
+                  "text": "Un muzeu de artă digitală imersiv unde vizitatorii merg desculți prin apă și prin instalații de lumină uriașe.",
+                  "category": "museum",
+                  "coords": [
+                        139.789728,
+                        35.64938
+                  ]
+            },
+            {
+                  "name": "Tagawa Suiho Norakuro Museum",
+                  "text": "Acest muzeu este dedicat artistului manga Tagawa Suiho și celebrului său personaj, câinele Norakuro.",
+                  "category": "museum",
+                  "coords": [
+                        139.802363,
+                        35.685092
+                  ]
+            },
+            {
+                  "name": "Fukagawa Edo Museum",
+                  "text": "Muzeul prezintă o reconstrucție impresionantă la scară naturală a unui cartier din Tokyo din perioada târzie Edo.",
+                  "category": "museum",
+                  "coords": [
+                        139.800548,
+                        35.681052
+                  ]
+            },
+            {
+                  "name": "Artizon Museum",
+                  "text": "Acest muzeu de artă găzduiește importanta colecție a Fundației Ishibashi, axată pe impresionism și artă modernă.",
+                  "category": "museum",
+                  "coords": [
+                        139.772129,
+                        35.678749
+                  ]
+            },
+            {
+                  "name": "National Film Archive of Japan",
+                  "text": "Singura instituție națională din Japonia dedicată conservării și expunerii moștenirii cinematografice a țării.",
+                  "category": "museum",
+                  "coords": [
+                        139.770659,
+                        35.675574
+                  ]
+            },
+            {
+                  "name": "Gas science museum",
+                  "text": "Un muzeu interactiv de știință care explică în mod ludic descoperirea și utilizările variate ale gazului natural.",
+                  "category": "museum",
+                  "coords": [
+                        139.792101,
+                        35.651691
+                  ]
+            },
+            {
+                  "name": "Museum of Contemporary Art Tokyo",
+                  "text": "Situată lângă Parcul Kiba, aceasta este cea mai mare instituție muzeală dedicată artei contemporane din Japonia.",
+                  "category": "museum",
+                  "coords": [
+                        139.808348,
+                        35.679743
+                  ]
+            },
+            {
+                  "name": "Police Museum",
+                  "text": "Muzeul prezintă istoria poliției din Tokyo și oferă stații interactive pentru copii și adulți deopotrivă.",
+                  "category": "museum",
+                  "coords": [
+                        139.769582,
+                        35.675123
+                  ]
+            },
+            {
+                  "name": "Minato City Hall",
+                  "text": "Centrul administrativ al sectorului Minato este situat în imediata apropiere a Parcului Shiba și a Turnului Tokyo.",
+                  "category": "historical",
+                  "coords": [
+                        139.751563,
+                        35.658039
+                  ]
+            },
+            {
+                  "name": "Chuo City Hall",
+                  "text": "Primăria sectorului central Chuo se află în inima cartierului Tsukiji, aproape de celebra piață de pește.",
+                  "category": "historical",
+                  "coords": [
+                        139.771976,
+                        35.670599
+                  ]
+            },
+            {
+                  "name": "Former Shibusawa Residence",
+                  "text": "Fosta reședință a lui Shibusawa Eiichi, influentul părinte fondator al capitalismului japonez modern.",
+                  "category": "historical",
+                  "coords": [
+                        139.819521,
+                        35.660219
+                  ]
+            },
+            {
+                  "name": "Koto City Office",
+                  "text": "Clădirea administrativă principală a sectorului Koto este o structură modernă proeminentă în zona Toyo.",
+                  "category": "historical",
+                  "coords": [
+                        139.817239,
+                        35.672799
+                  ]
+            },
+            {
+                  "name": "Shinpuku-ji",
+                  "text": "Un templu budist din sectorul Minato, cunoscut pentru arhitectura sa modernă și atmosfera liniștită.",
+                  "category": "religious",
+                  "coords": [
+                        139.74933,
+                        35.665745
+                  ]
+            },
+            {
+                  "name": "Karasumori Shrine",
+                  "text": "Acest sanctuar shintoist din Shimbashi se remarcă prin arhitectura sa neobișnuită din beton și talismanele colorate.",
+                  "category": "religious",
+                  "coords": [
+                        139.756818,
+                        35.666795
+                  ]
+            },
+            {
+                  "name": "Hakuhinkan Theatre",
+                  "text": "Un teatru situat la etajul superior al unui faimos magazin de jucării din Ginza, care găzduiește musicaluri și comedii.",
+                  "category": "cultural",
+                  "coords": [
+                        139.761047,
+                        35.667827
+                  ]
+            },
+            {
+                  "name": "Tokyo Takarazuka Theater",
+                  "text": "Sediul din Tokyo al celebrei trupe feminine Takarazuka Revue, care pune în scenă musicaluri opulente încă din 1934.",
+                  "category": "cultural",
+                  "coords": [
+                        139.759205,
+                        35.672825
+                  ]
+            },
+            {
+                  "name": "Ginza Church",
+                  "text": "O biserică protestantă în mijlocul cartierului Ginza, cunoscută pentru concertele regulate de orgă într-un cadru modern.",
+                  "category": "religious",
+                  "coords": [
+                        139.764333,
+                        35.672999
+                  ]
+            },
+            {
+                  "name": "Kanze Noh Theater",
+                  "text": "Un teatru tradițional Noh care s-a mutat în modernul complex comercial Ginza Six în anul 2017.",
+                  "category": "cultural",
+                  "coords": [
+                        139.76429,
+                        35.669318
+                  ]
+            },
+            {
+                  "name": "Hibiya-jinja Shrine",
+                  "text": "Acest sanctuar este considerat un loc de protecție împotriva nenorocirilor și a fost mutat de mai multe ori în Shiodome din cauza dezvoltării urbane.",
+                  "category": "religious",
+                  "coords": [
+                        139.758296,
+                        35.663399
+                  ]
+            },
+            {
+                  "name": "Shimbashi Embujo Theatre",
+                  "text": "Un teatru cu o bogată tradiție, cunoscut în special pentru spectacolele de kabuki și dramele japoneze moderne.",
+                  "category": "cultural",
+                  "coords": [
+                        139.766977,
+                        35.666815
+                  ]
+            },
+            {
+                  "name": "Hoju Inari Jinja",
+                  "text": "Un mic sanctuar Inari din Ginza, ascuns pe o alee îngustă între clădiri moderne de birouri.",
+                  "category": "religious",
+                  "coords": [
+                        139.769367,
+                        35.670151
+                  ]
+            },
+            {
+                  "name": "Teppozu Inari Shrine",
+                  "text": "Acest sanctuar este cunoscut pentru miniatura Muntelui Fuji din rocă vulcanică și ritualurile anuale de purificare cu apă rece.",
+                  "category": "religious",
+                  "coords": [
+                        139.779764,
+                        35.67249
+                  ]
+            },
+            {
+                  "name": "Eitai-ji Temple",
+                  "text": "Un templu budist istoric care a dat numele podului Eitai din apropiere, peste râul Sumida.",
+                  "category": "religious",
+                  "coords": [
+                        139.798095,
+                        35.672017
+                  ]
+            },
+            {
+                  "name": "Matsushima Jinja",
+                  "text": "Un mic sanctuar care face parte din pelerinajul celor șapte zei ai norocului din Nihonbashi.",
+                  "category": "religious",
+                  "coords": [
+                        139.785439,
+                        35.684647
+                  ]
+            },
+            {
+                  "name": "Meijiza",
+                  "text": "Unul dintre cele mai vechi teatre din Tokyo, oferind un amestec de kabuki, piese populare și concerte enka.",
+                  "category": "cultural",
+                  "coords": [
+                        139.78703,
+                        35.687864
+                  ]
+            },
+            {
+                  "name": "Fukagawa Inari Shrine",
+                  "text": "Acest sanctuar dedicat zeului Hotei este o oprire pe traseul pelerinajului celor șapte zei ai norocului din Fukagawa.",
+                  "category": "religious",
+                  "coords": [
+                        139.796886,
+                        35.682922
+                  ]
+            },
+            {
+                  "name": "Masaki Inari Shrine",
+                  "text": "Un sanctuar shintoist pașnic în Fukagawa, cunoscut pentru legătura sa cu protecția rezidenților locali.",
+                  "category": "religious",
+                  "coords": [
+                        139.794026,
+                        35.683932
+                  ]
+            },
+            {
+                  "name": "Fukagawa Shimmei Shrine",
+                  "text": "Fondat în secolul al XVII-lea, acest sanctuar este considerat originea istorică a întregului district Fukagawa.",
+                  "category": "religious",
+                  "coords": [
+                        139.797314,
+                        35.686545
+                  ]
+            },
+            {
+                  "name": "Zorinji Temple",
+                  "text": "Un templu budist liniștit din sectorul Koto, cu un cimitir tradițional bine întreținut.",
+                  "category": "religious",
+                  "coords": [
+                        139.797554,
+                        35.677081
+                  ]
+            },
+            {
+                  "name": "Fuyuki Bentendo Temple",
+                  "text": "Un templu dedicat zeiței Benzaiten, vizitat pentru a cere prosperitate și succes în arte.",
+                  "category": "religious",
+                  "coords": [
+                        139.800159,
+                        35.675374
+                  ]
+            },
+            {
+                  "name": "Ryukoin Temple",
+                  "text": "Acest templu din Fukagawa a fost o parte integrantă a comunității budiste locale încă din perioada Edo.",
+                  "category": "religious",
+                  "coords": [
+                        139.803568,
+                        35.680023
+                  ]
+            },
+            {
+                  "name": "Chisen-in Temple",
+                  "text": "Un mic templu budist liniștit în cartierul Tsukiji, oferind un loc de reculegere în mijlocul orașului.",
+                  "category": "religious",
+                  "coords": [
+                        139.77931,
+                        35.680922
+                  ]
+            },
+            {
+                  "name": "Koami Shrine",
+                  "text": "Acest sanctuar este faimos pentru sculpturile sale magnifice în lemn și este considerat un loc norocos pentru bani.",
+                  "category": "religious",
+                  "coords": [
+                        139.780448,
+                        35.684167
+                  ]
+            },
+            {
+                  "name": "Yomiuri Otemachi Hall",
+                  "text": "O locație modernă pentru evenimente în clădirea Yomiuri Shimbun, folosită pentru concerte și prelegeri culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        139.763203,
+                        35.675514
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Center of the Tokyo Raids and War Damage",
+                  "text": "This museum documents the devastating 1945 air raids on Tokyo through personal artifacts and photographs.",
+                  "category": "museum",
+                  "coords": [
+                        139.822264,
+                        35.681744
+                  ]
+            },
+            {
+                  "name": "Art Aquarium Museum GINZA",
+                  "text": "A unique museum in Ginza featuring thousands of goldfish displayed in artistically lit glass vessels.",
+                  "category": "museum",
+                  "coords": [
+                        139.765708,
+                        35.67138
+                  ]
+            },
+            {
+                  "name": "Advertising Museum Tokyo",
+                  "text": "Opened in 2002, this museum explores the history of Japanese advertising from the Edo period to the present day.",
+                  "category": "museum",
+                  "coords": [
+                        139.762641,
+                        35.664522
+                  ]
+            },
+            {
+                  "name": "teamLab Planets",
+                  "text": "An immersive digital art museum where visitors walk barefoot through water and massive light installations.",
+                  "category": "museum",
+                  "coords": [
+                        139.789728,
+                        35.64938
+                  ]
+            },
+            {
+                  "name": "Tagawa Suiho Norakuro Museum",
+                  "text": "This museum is dedicated to the manga artist Tagawa Suiho and his famous character, the dog Norakuro.",
+                  "category": "museum",
+                  "coords": [
+                        139.802363,
+                        35.685092
+                  ]
+            },
+            {
+                  "name": "Fukagawa Edo Museum",
+                  "text": "The museum features an impressive life-sized reconstruction of a Tokyo neighborhood from the late Edo period.",
+                  "category": "museum",
+                  "coords": [
+                        139.800548,
+                        35.681052
+                  ]
+            },
+            {
+                  "name": "Artizon Museum",
+                  "text": "This art museum houses the significant Ishibashi Foundation collection, focusing on Impressionism and modern art.",
+                  "category": "museum",
+                  "coords": [
+                        139.772129,
+                        35.678749
+                  ]
+            },
+            {
+                  "name": "National Film Archive of Japan",
+                  "text": "Japan's only national institution dedicated to preserving and exhibiting the country's cinematographic heritage.",
+                  "category": "museum",
+                  "coords": [
+                        139.770659,
+                        35.675574
+                  ]
+            },
+            {
+                  "name": "Gas science museum",
+                  "text": "An interactive science museum that playfully explains the discovery and various uses of natural gas.",
+                  "category": "museum",
+                  "coords": [
+                        139.792101,
+                        35.651691
+                  ]
+            },
+            {
+                  "name": "Museum of Contemporary Art Tokyo",
+                  "text": "Located next to Kiba Park, this is the largest museum dedicated to contemporary art in all of Japan.",
+                  "category": "museum",
+                  "coords": [
+                        139.808348,
+                        35.679743
+                  ]
+            },
+            {
+                  "name": "Police Museum",
+                  "text": "The museum showcases the history of the Tokyo police force and offers interactive stations for both children and adults.",
+                  "category": "museum",
+                  "coords": [
+                        139.769582,
+                        35.675123
+                  ]
+            },
+            {
+                  "name": "Minato City Hall",
+                  "text": "The administrative center for Minato Ward, located in close proximity to Shiba Park and Tokyo Tower.",
+                  "category": "historical",
+                  "coords": [
+                        139.751563,
+                        35.658039
+                  ]
+            },
+            {
+                  "name": "Chuo City Hall",
+                  "text": "The town hall for the central Chuo district is located in the heart of the Tsukiji area, near the famous fish market.",
+                  "category": "historical",
+                  "coords": [
+                        139.771976,
+                        35.670599
+                  ]
+            },
+            {
+                  "name": "Former Shibusawa Residence",
+                  "text": "The former historical residence of Shibusawa Eiichi, the influential founding father of modern Japanese capitalism.",
+                  "category": "historical",
+                  "coords": [
+                        139.819521,
+                        35.660219
+                  ]
+            },
+            {
+                  "name": "Koto City Office",
+                  "text": "The main administrative headquarters for Koto Ward is a prominent modern building in the Toyo area.",
+                  "category": "historical",
+                  "coords": [
+                        139.817239,
+                        35.672799
+                  ]
+            },
+            {
+                  "name": "Shinpuku-ji",
+                  "text": "A Buddhist temple in Minato Ward known for its clean, modern architecture and tranquil atmosphere.",
+                  "category": "religious",
+                  "coords": [
+                        139.74933,
+                        35.665745
+                  ]
+            },
+            {
+                  "name": "Karasumori Shrine",
+                  "text": "This Shinto shrine in Shimbashi stands out for its unusual concrete architecture and colorful lucky charms.",
+                  "category": "religious",
+                  "coords": [
+                        139.756818,
+                        35.666795
+                  ]
+            },
+            {
+                  "name": "Hakuhinkan Theatre",
+                  "text": "A theatre located on the top floor of a famous toy store in Ginza, hosting musicals and comedies.",
+                  "category": "cultural",
+                  "coords": [
+                        139.761047,
+                        35.667827
+                  ]
+            },
+            {
+                  "name": "Tokyo Takarazuka Theater",
+                  "text": "The Tokyo home of the famous all-female Takarazuka Revue, performing opulent musicals since 1934.",
+                  "category": "cultural",
+                  "coords": [
+                        139.759205,
+                        35.672825
+                  ]
+            },
+            {
+                  "name": "Ginza Church",
+                  "text": "A Protestant church in the middle of Ginza, known for its regular organ concerts in a modern setting.",
+                  "category": "religious",
+                  "coords": [
+                        139.764333,
+                        35.672999
+                  ]
+            },
+            {
+                  "name": "Kanze Noh Theater",
+                  "text": "A traditional Noh theater that moved into the modern Ginza Six shopping complex in 2017.",
+                  "category": "cultural",
+                  "coords": [
+                        139.76429,
+                        35.669318
+                  ]
+            },
+            {
+                  "name": "Hibiya-jinja Shrine",
+                  "text": "This shrine is considered a place of protection against disasters and has been relocated several times within Shiodome due to urban development.",
+                  "category": "religious",
+                  "coords": [
+                        139.758296,
+                        35.663399
+                  ]
+            },
+            {
+                  "name": "Shimbashi Embujo Theatre",
+                  "text": "A long-standing theatre primarily known for hosting kabuki performances and modern Japanese dramas.",
+                  "category": "cultural",
+                  "coords": [
+                        139.766977,
+                        35.666815
+                  ]
+            },
+            {
+                  "name": "Hoju Inari Jinja",
+                  "text": "A tiny Inari shrine in Ginza tucked away in a narrow alley between modern office buildings.",
+                  "category": "religious",
+                  "coords": [
+                        139.769367,
+                        35.670151
+                  ]
+            },
+            {
+                  "name": "Teppozu Inari Shrine",
+                  "text": "This shrine is known for its miniature Mt. Fuji made of lava rock and its annual cold-water purification rituals.",
+                  "category": "religious",
+                  "coords": [
+                        139.779764,
+                        35.67249
+                  ]
+            },
+            {
+                  "name": "Eitai-ji Temple",
+                  "text": "A historical Buddhist temple that gave its name to the nearby Eitai Bridge over the Sumida River.",
+                  "category": "religious",
+                  "coords": [
+                        139.798095,
+                        35.672017
+                  ]
+            },
+            {
+                  "name": "Matsushima Jinja",
+                  "text": "A small shrine that is part of the pilgrimage to the seven lucky gods of Nihonbashi.",
+                  "category": "religious",
+                  "coords": [
+                        139.785439,
+                        35.684647
+                  ]
+            },
+            {
+                  "name": "Meijiza",
+                  "text": "One of Tokyo's oldest theaters, offering a mix of kabuki, popular plays, and enka concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        139.78703,
+                        35.687864
+                  ]
+            },
+            {
+                  "name": "Fukagawa Inari Shrine",
+                  "text": "This shrine dedicated to the god Hotei is a stop on the Fukagawa Seven Lucky Gods pilgrimage route.",
+                  "category": "religious",
+                  "coords": [
+                        139.796886,
+                        35.682922
+                  ]
+            },
+            {
+                  "name": "Masaki Inari Shrine",
+                  "text": "A peaceful Shinto shrine in Fukagawa, known for its connection to the protection of local residents.",
+                  "category": "religious",
+                  "coords": [
+                        139.794026,
+                        35.683932
+                  ]
+            },
+            {
+                  "name": "Fukagawa Shimmei Shrine",
+                  "text": "Founded in the 17th century, this shrine is considered the historical origin of the entire Fukagawa district.",
+                  "category": "religious",
+                  "coords": [
+                        139.797314,
+                        35.686545
+                  ]
+            },
+            {
+                  "name": "Zorinji Temple",
+                  "text": "A quiet Buddhist temple in Koto Ward with a traditional, well-maintained graveyard.",
+                  "category": "religious",
+                  "coords": [
+                        139.797554,
+                        35.677081
+                  ]
+            },
+            {
+                  "name": "Fuyuki Bentendo Temple",
+                  "text": "A temple dedicated to the goddess Benzaiten, visited to pray for wealth and success in the arts.",
+                  "category": "religious",
+                  "coords": [
+                        139.800159,
+                        35.675374
+                  ]
+            },
+            {
+                  "name": "Ryukoin Temple",
+                  "text": "This temple in Fukagawa has been an integral part of the local Buddhist community since the Edo period.",
+                  "category": "religious",
+                  "coords": [
+                        139.803568,
+                        35.680023
+                  ]
+            },
+            {
+                  "name": "Chisen-in Temple",
+                  "text": "A small, contemplative Buddhist temple in the Tsukiji area, offering a place of silence in the middle of the city.",
+                  "category": "religious",
+                  "coords": [
+                        139.77931,
+                        35.680922
+                  ]
+            },
+            {
+                  "name": "Koami Shrine",
+                  "text": "This shrine is famous for its magnificent wood carvings and is considered a lucky spot for money matters.",
+                  "category": "religious",
+                  "coords": [
+                        139.780448,
+                        35.684167
+                  ]
+            },
+            {
+                  "name": "Yomiuri Otemachi Hall",
+                  "text": "A modern event venue in the Yomiuri Shimbun building, used for concerts and cultural lectures.",
+                  "category": "cultural",
+                  "coords": [
+                        139.763203,
+                        35.675514
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "JP-13",
     coords: [139.7707, 35.665],
@@ -739,7 +10900,52 @@ export const poiExtraJapanEconomicV2: POI[] = [
     
      image: "/poi-images/tsukiji-outer-market-trade-hub-v2.webp"},
   {
-    id: "iwami-silver-mine-economic-v2",
+    id: "iwami-silver-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kono Onsen",
+                  "text": "Das Kono Onsen ist eine geothermische heiße Quelle in der Nähe der historischen Iwami-Silbermine.",
+                  "category": "natural",
+                  "coords": [
+                        132.348521,
+                        35.096269
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kono Onsen",
+                  "text": "A Kono Onsen egy geotermikus melegvízű forrás a történelmi Ivami ezüstbánya közelében.",
+                  "category": "natural",
+                  "coords": [
+                        132.348521,
+                        35.096269
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kono Onsen",
+                  "text": "Kono Onsen este un izvor termal geotermal situat în apropierea minei istorice de argint Iwami.",
+                  "category": "natural",
+                  "coords": [
+                        132.348521,
+                        35.096269
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kono Onsen",
+                  "text": "Kono Onsen is a geothermal hot spring located near the historic Iwami Silver Mine.",
+                  "category": "natural",
+                  "coords": [
+                        132.348521,
+                        35.096269
+                  ]
+            }
+      ]
+},
     type: "mine",
     parent: "JP-32",
     coords: [132.333, 35.1],
@@ -788,7 +10994,1420 @@ export const poiExtraJapanEconomicV2: POI[] = [
     
      image: "/poi-images/iwami-silver-mine-economic-v2.webp"},
   {
-    id: "keihin-industrial-zone-economic-v2",
+    id: "keihin-industrial-zone-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Electric Power Historical Museum",
+                  "text": "Dieses Museum dokumentiert die Geschichte der japanischen Elektrizitätswirtschaft mit historischen Generatoren und Geräten.",
+                  "category": "museum",
+                  "coords": [
+                        139.672897,
+                        35.533874
+                  ]
+            },
+            {
+                  "name": "Showa Living History Museum",
+                  "text": "Ein erhaltenes Holzhaus aus der Mitte des 20. Jahrhunderts, das den Alltag der Showa-Ära veranschaulicht.",
+                  "category": "museum",
+                  "coords": [
+                        139.685829,
+                        35.575222
+                  ]
+            },
+            {
+                  "name": "Ota City Museum of Local History",
+                  "text": "Das Museum präsentiert archäologische Funde und volkskundliche Exponate zur Geschichte des Ota-Bezirks.",
+                  "category": "museum",
+                  "coords": [
+                        139.710666,
+                        35.588531
+                  ]
+            },
+            {
+                  "name": "Kawasaki City Peace Museum",
+                  "text": "Dieses Museum widmet sich der Friedensförderung und dokumentiert die Auswirkungen des Krieges auf Kawasaki.",
+                  "category": "museum",
+                  "coords": [
+                        139.65896,
+                        35.568788
+                  ]
+            },
+            {
+                  "name": "Ōmori Nori Museum",
+                  "text": "Ein spezialisiertes Museum, das die Geschichte der traditionellen Algenzucht (Nori) in der Bucht von Tokio zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        139.742718,
+                        35.577111
+                  ]
+            },
+            {
+                  "name": "Ota City",
+                  "text": "Das Verwaltungszentrum des Ota-Bezirks in Tokio, das in einem modernen Bürokomplex untergebracht ist.",
+                  "category": "historical",
+                  "coords": [
+                        139.716081,
+                        35.561389
+                  ]
+            },
+            {
+                  "name": "Suzugamori Execution Ground",
+                  "text": "Eine historische Hinrichtungsstätte aus der Edo-Zeit, von der heute noch steinerne Monumente erhalten sind.",
+                  "category": "historical",
+                  "coords": [
+                        139.736508,
+                        35.591813
+                  ]
+            },
+            {
+                  "name": "Haneda Koku Shrine",
+                  "text": "Ein einzigartiger Shinto-Schrein im Terminal 1 des Flughafens Haneda, der der Flugsicherheit und dem sicheren Reisen gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        139.784428,
+                        35.548748
+                  ]
+            },
+            {
+                  "name": "Kamata Hachiman Shrine",
+                  "text": "Ein traditioneller Shinto-Schrein im Bezirk Kamata, bekannt für seine lokalen Feste und die ruhige städtische Atmosphäre.",
+                  "category": "religious",
+                  "coords": [
+                        139.722445,
+                        35.560738
+                  ]
+            },
+            {
+                  "name": "Nitta Shrine",
+                  "text": "Ein historischer Shinto-Schrein, der einem Samurai aus dem 14. Jahrhundert gewidmet ist und eine gewaltige, 700 Jahre alte Zelkove beherbergt.",
+                  "category": "religious",
+                  "coords": [
+                        139.691324,
+                        35.565807
+                  ]
+            },
+            {
+                  "name": "Ikegami Honmonji",
+                  "text": "Ein bedeutender buddhistischer Tempelkomplex, der für seine fünfstöckige Pagode von 1608 und als Sterbeort des Mönchs Nichiren bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        139.705196,
+                        35.578902
+                  ]
+            },
+            {
+                  "name": "Anamori-Inari shrine",
+                  "text": "Ein lebhafter Shinto-Schrein nahe dem Flughafen Haneda, bekannt für seine roten Torii-Tore und den glückbringenden „heiligen Sand“.",
+                  "category": "religious",
+                  "coords": [
+                        139.749672,
+                        35.550261
+                  ]
+            },
+            {
+                  "name": "Enton-ji Temple",
+                  "text": "Ein friedlicher buddhistischer Tempel in Ota City mit traditioneller Tempelarchitektur und einem ruhigen Innengarten.",
+                  "category": "religious",
+                  "coords": [
+                        139.723883,
+                        35.565
+                  ]
+            },
+            {
+                  "name": "Kamata Mosque",
+                  "text": "Ein moderner islamischer Gebetsort und Gemeindezentrum, das der vielfältigen internationalen Bevölkerung im Süden Tokios dient.",
+                  "category": "religious",
+                  "coords": [
+                        139.717123,
+                        35.564427
+                  ]
+            },
+            {
+                  "name": "Tsunesakaeyama Jishouin",
+                  "text": "Ein ruhiger Shingon-buddhistischer Tempel in Ota, bemerkenswert für seine traditionellen Holzschnitzereien und seine spirituelle Atmosphäre.",
+                  "category": "religious",
+                  "coords": [
+                        139.740602,
+                        35.547418
+                  ]
+            },
+            {
+                  "name": "Jissōji",
+                  "text": "Ein ruhiger buddhistischer Nichiren-Tempel im Bezirk Ota, bekannt für seinen gepflegten traditionellen Friedhof und Garten.",
+                  "category": "religious",
+                  "coords": [
+                        139.702802,
+                        35.580099
+                  ]
+            },
+            {
+                  "name": "Anjoji)",
+                  "text": "Ein alter buddhistischer Shingon-Tempel, der inmitten der industriellen Stadtlandschaft von Ota einen spirituellen Rückzugsort bietet.",
+                  "category": "religious",
+                  "coords": [
+                        139.694706,
+                        35.582126
+                  ]
+            },
+            {
+                  "name": "Tamagawa Sengen Shrine",
+                  "text": "Ein auf einem Hügel gelegener Shinto-Schrein mit Blick auf den Tama-Fluss, berühmt für seine Aussicht auf den Fuji an klaren Tagen.",
+                  "category": "religious",
+                  "coords": [
+                        139.668832,
+                        35.587419
+                  ]
+            },
+            {
+                  "name": "Tamagawa Sky Bridge",
+                  "text": "Eine moderne, 2022 eröffnete Brücke über den Tama-Fluss, die den Flughafen Haneda mit dem Industriegebiet Kawasaki verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        139.761619,
+                        35.541545
+                  ]
+            },
+            {
+                  "name": "Haneda Sky Arch",
+                  "text": "Eine ikonische Schrägseilbrücke am Flughafen Haneda, die als markantes Tor für Reisende dient, die den Terminalbereich erreichen.",
+                  "category": "landmark",
+                  "coords": [
+                        139.786375,
+                        35.54996
+                  ]
+            },
+            {
+                  "name": "Yumemigasaki Park",
+                  "text": "Ein auf einem Hügel gelegener Park in Kawasaki mit einem kostenlosen Zoo und antiken Kofun-Grabhügeln auf dem Gelände.",
+                  "category": "park",
+                  "coords": [
+                        139.665793,
+                        35.549121
+                  ]
+            },
+            {
+                  "name": "Nakahara Peace Park",
+                  "text": "Ein öffentlicher Park auf einem ehemaligen Militärgelände, der das Friedensmuseum der Stadt Kawasaki und Kirschblütenbäume beherbergt.",
+                  "category": "park",
+                  "coords": [
+                        139.659081,
+                        35.567578
+                  ]
+            },
+            {
+                  "name": "Ukishimacho Park",
+                  "text": "Ein Park am Wasser, der bei Luftfahrtbegeisterten für den direkten Blick auf startende und landende Flugzeuge am Flughafen Haneda beliebt ist.",
+                  "category": "park",
+                  "coords": [
+                        139.788089,
+                        35.521637
+                  ]
+            },
+            {
+                  "name": "Higahi Ohgishima East Park",
+                  "text": "Ein weitläufiger Uferpark auf einer künstlichen Insel mit Blick auf die Industrieschiffe und die Skyline der Bucht von Tokio.",
+                  "category": "park",
+                  "coords": [
+                        139.772492,
+                        35.504441
+                  ]
+            },
+            {
+                  "name": "Keihinjima Tsubasa Park",
+                  "text": "Ein langgestreckter Küstenpark direkt gegenüber dem Flughafen Haneda, ideal zur Beobachtung des internationalen Flugverkehrs.",
+                  "category": "park",
+                  "coords": [
+                        139.770292,
+                        35.570801
+                  ]
+            },
+            {
+                  "name": "Tokyo Port Wildbird Park",
+                  "text": "Ein Naturschutzgebiet auf Neuland in der Bucht von Tokio mit Wattenmeer und Teichen für wandernde Wasservögel.",
+                  "category": "park",
+                  "coords": [
+                        139.764595,
+                        35.581927
+                  ]
+            },
+            {
+                  "name": "Heiwajima Park",
+                  "text": "Ein großer Freizeitpark in Ota mit einem Lagerfeuerplatz, Schwimmbädern und umfangreichen Sportanlagen für Leichtathletik.",
+                  "category": "park",
+                  "coords": [
+                        139.742526,
+                        35.582196
+                  ]
+            },
+            {
+                  "name": "Heiwa no Mori Park",
+                  "text": "Der größte Park in Ota City, bekannt für seinen anspruchsvollen Leichtathletik-Parcours und die zahlreichen schattigen Waldwege.",
+                  "category": "park",
+                  "coords": [
+                        139.740052,
+                        35.580213
+                  ]
+            },
+            {
+                  "name": "Ōmori Furusato no Hamabe Park",
+                  "text": "Tokios erster städtischer Strandpark mit einem künstlichen weißen Sandstrand, an dem Besucher entlang der inneren Bucht spazieren können.",
+                  "category": "park",
+                  "coords": [
+                        139.742248,
+                        35.5744
+                  ]
+            },
+            {
+                  "name": "Ikegami Plum Garden",
+                  "text": "Ein malerischer Hanggarten in Ota, der für seine 370 Pflaumenbäume bekannt ist, die im Vorfrühling in Rot und Weiß blühen.",
+                  "category": "park",
+                  "coords": [
+                        139.702656,
+                        35.581083
+                  ]
+            },
+            {
+                  "name": "Shinagawa community park",
+                  "text": "Ein Erholungsgebiet mit einem großen Teich, Pflaumen- und Kirschhainen sowie dem Shinagawa-Aquarium auf dem Gelände.",
+                  "category": "park",
+                  "coords": [
+                        139.738976,
+                        35.592109
+                  ]
+            },
+            {
+                  "name": "Shinagawa Aquarium",
+                  "text": "Ein 1991 eröffnetes Aquarium, bekannt für seinen Unterwasser-Glastunnel und die beliebten Delfin- und Seelöwenshows.",
+                  "category": "recreational",
+                  "coords": [
+                        139.737443,
+                        35.588614
+                  ]
+            },
+            {
+                  "name": "Hieda-jinja Shrine",
+                  "text": "Ein alter Shinto-Schrein in Ota, der vermutlich im 8. Jahrhundert gegründet wurde und für das Kamata-Gebiet von historischer Bedeutung ist.",
+                  "category": "religious",
+                  "coords": [
+                        139.722719,
+                        35.564586
+                  ]
+            },
+            {
+                  "name": "Ryushi Memorial Museum",
+                  "text": "Ein Kunstmuseum, das dem Maler Kawabata Ryushi gewidmet ist und seine großformatigen Werke in einer selbst entworfenen Galerie zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        139.715623,
+                        35.582343
+                  ]
+            },
+            {
+                  "name": "shigeyukiinari Shrine",
+                  "text": "Ein kleiner, atmosphärischer Nachbarschaftsschrein, der Inari gewidmet ist, mit traditionellen Fuchs-Statuen und roten Torii-Toren.",
+                  "category": "religious",
+                  "coords": [
+                        139.728174,
+                        35.547977
+                  ]
+            },
+            {
+                  "name": "Haginaka Shrine",
+                  "text": "Ein ruhiger lokaler Shinto-Schrein nahe dem Haginaka-Park, bekannt für sein friedliches Gelände und traditionelle Nachbarschaftsfeste.",
+                  "category": "religious",
+                  "coords": [
+                        139.728022,
+                        35.552133
+                  ]
+            },
+            {
+                  "name": "Gojukenbi Abandoned Temple",
+                  "text": "Die stimmungsvolle Stätte eines ehemaligen buddhistischen Tempels in Haneda, die heute durch Steinmonumente gekennzeichnet ist.",
+                  "category": "religious",
+                  "coords": [
+                        139.752214,
+                        35.545861
+                  ]
+            },
+            {
+                  "name": "Tamagawa Benzaiten",
+                  "text": "Ein kleiner Schrein, der Benzaiten, der Göttin des Wassers, gewidmet ist und sich nahe dem Ufer des unteren Tama-Flusses befindet.",
+                  "category": "religious",
+                  "coords": [
+                        139.750524,
+                        35.545806
+                  ]
+            },
+            {
+                  "name": "Shirauoinari Shrine",
+                  "text": "Ein kompakter städtischer Shinto-Schrein mit einer Reihe lebhafter roter Torii-Tore und steinernen Fuchswächtern.",
+                  "category": "religious",
+                  "coords": [
+                        139.750859,
+                        35.547318
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Electric Power Historical Museum",
+                  "text": "Ez a múzeum a japán villamosenergia-ipar történetét dokumentálja történelmi generátorokkal és berendezésekkel.",
+                  "category": "museum",
+                  "coords": [
+                        139.672897,
+                        35.533874
+                  ]
+            },
+            {
+                  "name": "Showa Living History Museum",
+                  "text": "Egy megőrzött 20. század közepi faház, amely a Sóva-korszak mindennapi életét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        139.685829,
+                        35.575222
+                  ]
+            },
+            {
+                  "name": "Ota City Museum of Local History",
+                  "text": "A múzeum régészeti leleteket és néprajzi tárgyakat mutat be az Ota negyed történelmével kapcsolatban.",
+                  "category": "museum",
+                  "coords": [
+                        139.710666,
+                        35.588531
+                  ]
+            },
+            {
+                  "name": "Kawasaki City Peace Museum",
+                  "text": "Ez a múzeum a béke népszerűsítésének szentelt, és a háború Kawasaki városára gyakorolt hatásait dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        139.65896,
+                        35.568788
+                  ]
+            },
+            {
+                  "name": "Ōmori Nori Museum",
+                  "text": "Speciális múzeum, amely a Tokiói-öböl hagyományos hínártermesztésének (nori) történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        139.742718,
+                        35.577111
+                  ]
+            },
+            {
+                  "name": "Ota City",
+                  "text": "A tokiói Ota negyed közigazgatási központja, amely egy modern irodakomplexumban található.",
+                  "category": "historical",
+                  "coords": [
+                        139.716081,
+                        35.561389
+                  ]
+            },
+            {
+                  "name": "Suzugamori Execution Ground",
+                  "text": "Történelmi kivégzőhely az Edo-korból, amelynek kőemlékei ma is láthatóak.",
+                  "category": "historical",
+                  "coords": [
+                        139.736508,
+                        35.591813
+                  ]
+            },
+            {
+                  "name": "Haneda Koku Shrine",
+                  "text": "A Haneda repülőtér 1-es terminálján belül található különleges sintoista szentély, amelyet a repülés biztonságának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        139.784428,
+                        35.548748
+                  ]
+            },
+            {
+                  "name": "Kamata Hachiman Shrine",
+                  "text": "Hagyományos sintoista szentély Kamata negyedben, amely helyi fesztiváljairól és nyugodt városi hangulatáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        139.722445,
+                        35.560738
+                  ]
+            },
+            {
+                  "name": "Nitta Shrine",
+                  "text": "14. századi szamuráj emlékét őrző történelmi sintoista szentély, amelynek udvarán egy hatalmas, 700 éves zelkova fa áll.",
+                  "category": "religious",
+                  "coords": [
+                        139.691324,
+                        35.565807
+                  ]
+            },
+            {
+                  "name": "Ikegami Honmonji",
+                  "text": "Jelentős buddhista templomegyüttes, amely 1608-as ötemeletes pagodájáról és Nicsiren szerzetes halálának helyszíneként ismert.",
+                  "category": "religious",
+                  "coords": [
+                        139.705196,
+                        35.578902
+                  ]
+            },
+            {
+                  "name": "Anamori-Inari shrine",
+                  "text": "A Haneda repülőtér közelében fekvő élénk sintoista szentély, amely vörös torii kapuiról és szerencsehozó „szent homokjáról” ismert.",
+                  "category": "religious",
+                  "coords": [
+                        139.749672,
+                        35.550261
+                  ]
+            },
+            {
+                  "name": "Enton-ji Temple",
+                  "text": "Békés buddhista templom Ota városában, hagyományos építészettel és csendes belső kerttel.",
+                  "category": "religious",
+                  "coords": [
+                        139.723883,
+                        35.565
+                  ]
+            },
+            {
+                  "name": "Kamata Mosque",
+                  "text": "Modern iszlám imaház és közösségi központ, amely Tokió déli részének sokszínű nemzetközi lakosságát szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        139.717123,
+                        35.564427
+                  ]
+            },
+            {
+                  "name": "Tsunesakaeyama Jishouin",
+                  "text": "Nyugodt Shingon buddhista templom Ota negyedben, amely hagyományos fafaragásairól és spirituális légköréről nevezetes.",
+                  "category": "religious",
+                  "coords": [
+                        139.740602,
+                        35.547418
+                  ]
+            },
+            {
+                  "name": "Jissōji",
+                  "text": "Csendes nicsiren buddhista templom Ota negyedben, amely jól gondozott hagyományos temetőjéről és kertjéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        139.702802,
+                        35.580099
+                  ]
+            },
+            {
+                  "name": "Anjoji)",
+                  "text": "Ősi Shingon buddhista templom, amely spirituális menedéket nyújt Ota ipari városi környezetében.",
+                  "category": "religious",
+                  "coords": [
+                        139.694706,
+                        35.582126
+                  ]
+            },
+            {
+                  "name": "Tamagawa Sengen Shrine",
+                  "text": "A Tama-folyóra néző dombtetőn álló sintoista szentély, amely tiszta napokon a Fuji-hegyre nyíló festői kilátásáról híres.",
+                  "category": "religious",
+                  "coords": [
+                        139.668832,
+                        35.587419
+                  ]
+            },
+            {
+                  "name": "Tamagawa Sky Bridge",
+                  "text": "2022-ben megnyitott modern híd a Tama-folyó felett, amely a Haneda repülőteret köti össze a kavaszaki ipari negyeddel.",
+                  "category": "landmark",
+                  "coords": [
+                        139.761619,
+                        35.541545
+                  ]
+            },
+            {
+                  "name": "Haneda Sky Arch",
+                  "text": "A Haneda repülőtér jellegzetes ferdekábeles hídja, amely látványos kapuként szolgál a terminálok felé érkező utasok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        139.786375,
+                        35.54996
+                  ]
+            },
+            {
+                  "name": "Yumemigasaki Park",
+                  "text": "Dombtetőn fekvő park Kavaszakiban, ingyenes állatkerttel és a területén szétszórt ősi kofun sírhalmokkal.",
+                  "category": "park",
+                  "coords": [
+                        139.665793,
+                        35.549121
+                  ]
+            },
+            {
+                  "name": "Nakahara Peace Park",
+                  "text": "Egy korábbi katonai területen kialakított közpark, ahol a Kavaszaki Városi Békemúzeum és cseresznyefák találhatók.",
+                  "category": "park",
+                  "coords": [
+                        139.659081,
+                        35.567578
+                  ]
+            },
+            {
+                  "name": "Ukishimacho Park",
+                  "text": "Vízparti park, amely a repülés szerelmesei körében népszerű a Haneda repülőtéren fel- és leszálló repülőgépek közeli látványa miatt.",
+                  "category": "park",
+                  "coords": [
+                        139.788089,
+                        35.521637
+                  ]
+            },
+            {
+                  "name": "Higahi Ohgishima East Park",
+                  "text": "Tágas vízparti park egy mesterséges szigeten, ahonnan kilátás nyílik az ipari hajókra és a Tokiói-öböl sziluettjére.",
+                  "category": "park",
+                  "coords": [
+                        139.772492,
+                        35.504441
+                  ]
+            },
+            {
+                  "name": "Keihinjima Tsubasa Park",
+                  "text": "Közvetlenül a Haneda repülőtérrel szemben fekvő, elnyúlt tengerparti park, amely ideális a nemzetközi repülőforgalom megfigyelésére.",
+                  "category": "park",
+                  "coords": [
+                        139.770292,
+                        35.570801
+                  ]
+            },
+            {
+                  "name": "Tokyo Port Wildbird Park",
+                  "text": "A Tokiói-öböl feltöltött területén létrehozott természetvédelmi terület, amely mocsarakkal és tavakkal várja a költöző vízimadarakat.",
+                  "category": "park",
+                  "coords": [
+                        139.764595,
+                        35.581927
+                  ]
+            },
+            {
+                  "name": "Heiwajima Park",
+                  "text": "Nagy szabadidőpark Ota negyedben, táborozóhellyel, úszómedencékkel és kiterjedt sportlétesítményekkel.",
+                  "category": "park",
+                  "coords": [
+                        139.742526,
+                        35.582196
+                  ]
+            },
+            {
+                  "name": "Heiwa no Mori Park",
+                  "text": "Ota város legnagyobb parkja, amely kihívást jelentő erdei akadálypályájáról és számos árnyas ösvényéről nevezetes.",
+                  "category": "park",
+                  "coords": [
+                        139.740052,
+                        35.580213
+                  ]
+            },
+            {
+                  "name": "Ōmori Furusato no Hamabe Park",
+                  "text": "Tokió első önkormányzati strandparkja, amelynek mesterséges fehér homokos partján a belső öböl mentén sétálhatnak a látogatók.",
+                  "category": "park",
+                  "coords": [
+                        139.742248,
+                        35.5744
+                  ]
+            },
+            {
+                  "name": "Ikegami Plum Garden",
+                  "text": "Festői domboldali kert Ota negyedben, amely kora tavasszal piros és fehér színekben pompázó 370 szilvafájáról híres.",
+                  "category": "park",
+                  "coords": [
+                        139.702656,
+                        35.581083
+                  ]
+            },
+            {
+                  "name": "Shinagawa community park",
+                  "text": "Átfogó szabadidős terület nagy tóval, szilva- és cseresznyeligetekkel, valamint a Shinagawa Akváriummal.",
+                  "category": "park",
+                  "coords": [
+                        139.738976,
+                        35.592109
+                  ]
+            },
+            {
+                  "name": "Shinagawa Aquarium",
+                  "text": "1991-ben megnyitott akvárium, amely víz alatti üvegalagútjáról, valamint népszerű delfin- és fókabemutatóiról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        139.737443,
+                        35.588614
+                  ]
+            },
+            {
+                  "name": "Hieda-jinja Shrine",
+                  "text": "Ota negyed egyik ősi sintoista szentélye, amelyet a feltételezések szerint a 8. században alapítottak.",
+                  "category": "religious",
+                  "coords": [
+                        139.722719,
+                        35.564586
+                  ]
+            },
+            {
+                  "name": "Ryushi Memorial Museum",
+                  "text": "Kavabata Rjúsi nihonga festő múzeuma, amely a művész nagyszabású mesterműveit mutatja be az általa tervezett galériában.",
+                  "category": "museum",
+                  "coords": [
+                        139.715623,
+                        35.582343
+                  ]
+            },
+            {
+                  "name": "shigeyukiinari Shrine",
+                  "text": "Kicsi, hangulatos környékbeli Inari-szentély, hagyományos rókaszobrokkal és vörös torii kapukkal.",
+                  "category": "religious",
+                  "coords": [
+                        139.728174,
+                        35.547977
+                  ]
+            },
+            {
+                  "name": "Haginaka Shrine",
+                  "text": "Csendes helyi sintoista szentély a Haginaka park közelében, amely nyugodt környezetéről és hagyományos fesztiváljairól ismert.",
+                  "category": "religious",
+                  "coords": [
+                        139.728022,
+                        35.552133
+                  ]
+            },
+            {
+                  "name": "Gojukenbi Abandoned Temple",
+                  "text": "Egy egykori buddhista templom emlékezetes helyszíne Hanedában, amelyet ma kőemlékművek és történelmi táblák jelölnek.",
+                  "category": "religious",
+                  "coords": [
+                        139.752214,
+                        35.545861
+                  ]
+            },
+            {
+                  "name": "Tamagawa Benzaiten",
+                  "text": "Benzaitennek, a víz istennőjének szentelt apró szentély a Tama-folyó alsó szakaszának partja közelében.",
+                  "category": "religious",
+                  "coords": [
+                        139.750524,
+                        35.545806
+                  ]
+            },
+            {
+                  "name": "Shirauoinari Shrine",
+                  "text": "Kisméretű városi sintoista szentély élénkvörös torii kapukkal és kőből faragott rókaőrzőkkel.",
+                  "category": "religious",
+                  "coords": [
+                        139.750859,
+                        35.547318
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Electric Power Historical Museum",
+                  "text": "Acest muzeu documentează istoria industriei energiei electrice din Japonia cu generatoare și echipamente istorice.",
+                  "category": "museum",
+                  "coords": [
+                        139.672897,
+                        35.533874
+                  ]
+            },
+            {
+                  "name": "Showa Living History Museum",
+                  "text": "O casă de lemn conservată de la mijlocul secolului XX, care ilustrează viața de zi cu zi din era Showa.",
+                  "category": "museum",
+                  "coords": [
+                        139.685829,
+                        35.575222
+                  ]
+            },
+            {
+                  "name": "Ota City Museum of Local History",
+                  "text": "Muzeul prezintă descoperiri arheologice și exponate folclorice legate de istoria districtului Ota.",
+                  "category": "museum",
+                  "coords": [
+                        139.710666,
+                        35.588531
+                  ]
+            },
+            {
+                  "name": "Kawasaki City Peace Museum",
+                  "text": "Acest muzeu este dedicat promovării păcii și documentează impactul războiului asupra orașului Kawasaki.",
+                  "category": "museum",
+                  "coords": [
+                        139.65896,
+                        35.568788
+                  ]
+            },
+            {
+                  "name": "Ōmori Nori Museum",
+                  "text": "Un muzeu specializat care prezintă istoria cultivării tradiționale a algelor (nori) în Golful Tokyo.",
+                  "category": "museum",
+                  "coords": [
+                        139.742718,
+                        35.577111
+                  ]
+            },
+            {
+                  "name": "Ota City",
+                  "text": "Centrul administrativ al districtului Ota din Tokyo, găzduit într-un complex modern de birouri.",
+                  "category": "historical",
+                  "coords": [
+                        139.716081,
+                        35.561389
+                  ]
+            },
+            {
+                  "name": "Suzugamori Execution Ground",
+                  "text": "Un loc istoric de execuție din perioada Edo, unde s-au păstrat monumente de piatră până astăzi.",
+                  "category": "historical",
+                  "coords": [
+                        139.736508,
+                        35.591813
+                  ]
+            },
+            {
+                  "name": "Haneda Koku Shrine",
+                  "text": "Un sanctuar șintoist unic situat în Terminalul 1 al Aeroportului Haneda, dedicat siguranței aviației și călătoriilor.",
+                  "category": "religious",
+                  "coords": [
+                        139.784428,
+                        35.548748
+                  ]
+            },
+            {
+                  "name": "Kamata Hachiman Shrine",
+                  "text": "Un sanctuar șintoist tradițional din districtul Kamata, cunoscut pentru festivalurile locale și atmosfera urbană liniștită.",
+                  "category": "religious",
+                  "coords": [
+                        139.722445,
+                        35.560738
+                  ]
+            },
+            {
+                  "name": "Nitta Shrine",
+                  "text": "Un sanctuar șintoist istoric ce onorează un samurai din secolul al XIV-lea, adăpostind un arbore zelkova masiv de 700 de ani.",
+                  "category": "religious",
+                  "coords": [
+                        139.691324,
+                        35.565807
+                  ]
+            },
+            {
+                  "name": "Ikegami Honmonji",
+                  "text": "Un complex de temple budiste major, faimos pentru pagoda sa cu cinci etaje din 1608 și ca locul unde a murit călugărul Nichiren.",
+                  "category": "religious",
+                  "coords": [
+                        139.705196,
+                        35.578902
+                  ]
+            },
+            {
+                  "name": "Anamori-Inari shrine",
+                  "text": "Un sanctuar șintoist vibrant de lângă Aeroportul Haneda, cunoscut pentru porțile torii roșii și „nisipul sacru” aducător de noroc.",
+                  "category": "religious",
+                  "coords": [
+                        139.749672,
+                        35.550261
+                  ]
+            },
+            {
+                  "name": "Enton-ji Temple",
+                  "text": "Un templu budist liniștit din orașul Ota, cu arhitectură tradițională și o grădină interioară calmă.",
+                  "category": "religious",
+                  "coords": [
+                        139.723883,
+                        35.565
+                  ]
+            },
+            {
+                  "name": "Kamata Mosque",
+                  "text": "Un lăcaș de cult islamic modern și centru comunitar care deservește populația internațională diversă din sudul Tokyo.",
+                  "category": "religious",
+                  "coords": [
+                        139.717123,
+                        35.564427
+                  ]
+            },
+            {
+                  "name": "Tsunesakaeyama Jishouin",
+                  "text": "Un templu budist Shingon senin din Ota, remarcabil pentru sculpturile sale tradiționale în lemn și atmosfera spirituală.",
+                  "category": "religious",
+                  "coords": [
+                        139.740602,
+                        35.547418
+                  ]
+            },
+            {
+                  "name": "Jissōji",
+                  "text": "Un templu budist Nichiren liniștit din districtul Ota, cunoscut pentru cimitirul său tradițional și grădina bine întreținută.",
+                  "category": "religious",
+                  "coords": [
+                        139.702802,
+                        35.580099
+                  ]
+            },
+            {
+                  "name": "Anjoji)",
+                  "text": "Un vechi templu budist Shingon care oferă un refugiu spiritual în mijlocul peisajului urban industrial din Ota.",
+                  "category": "religious",
+                  "coords": [
+                        139.694706,
+                        35.582126
+                  ]
+            },
+            {
+                  "name": "Tamagawa Sengen Shrine",
+                  "text": "Un sanctuar șintoist pe vârful dealului, cu vedere la râul Tama, faimos pentru panorama pitorească spre Muntele Fuji în zilele senine.",
+                  "category": "religious",
+                  "coords": [
+                        139.668832,
+                        35.587419
+                  ]
+            },
+            {
+                  "name": "Tamagawa Sky Bridge",
+                  "text": "Un pod modern deschis în 2022 care traversează râul Tama, legând Aeroportul Haneda de zona industrială Kawasaki.",
+                  "category": "landmark",
+                  "coords": [
+                        139.761619,
+                        35.541545
+                  ]
+            },
+            {
+                  "name": "Haneda Sky Arch",
+                  "text": "Un pod hobanat iconic de la Aeroportul Haneda, servind ca o poartă de acces emblematică pentru călătorii care intră în zona terminalului.",
+                  "category": "landmark",
+                  "coords": [
+                        139.786375,
+                        35.54996
+                  ]
+            },
+            {
+                  "name": "Yumemigasaki Park",
+                  "text": "Un parc pe deal din Kawasaki, ce include o grădină zoologică cu intrare liberă și morminte antice kofun presărate pe teritoriul său.",
+                  "category": "park",
+                  "coords": [
+                        139.665793,
+                        35.549121
+                  ]
+            },
+            {
+                  "name": "Nakahara Peace Park",
+                  "text": "Un parc public construit pe un fost sit militar, ce găzduiește Muzeul Păcii din Kawasaki și numeroși cireși înfloriți.",
+                  "category": "park",
+                  "coords": [
+                        139.659081,
+                        35.567578
+                  ]
+            },
+            {
+                  "name": "Ukishimacho Park",
+                  "text": "Un parc pe malul apei, popular printre entuziaștii aviației pentru vederea directă asupra avioanelor care decolează și aterizează la Aeroportul Haneda.",
+                  "category": "park",
+                  "coords": [
+                        139.788089,
+                        35.521637
+                  ]
+            },
+            {
+                  "name": "Higahi Ohgishima East Park",
+                  "text": "Un parc spațios pe malul apei, situat pe o insulă artificială, oferind priveliști spre navele industriale și orizontul Golfului Tokyo.",
+                  "category": "park",
+                  "coords": [
+                        139.772492,
+                        35.504441
+                  ]
+            },
+            {
+                  "name": "Keihinjima Tsubasa Park",
+                  "text": "Un parc de coastă alungit situat direct vis-a-vis de Aeroportul Haneda, ideal pentru observarea traficului aerian internațional.",
+                  "category": "park",
+                  "coords": [
+                        139.770292,
+                        35.570801
+                  ]
+            },
+            {
+                  "name": "Tokyo Port Wildbird Park",
+                  "text": "O rezervație naturală pe terenuri recuperate din Golful Tokyo, oferind mlaștini și iazuri pentru păsările de apă migratoare.",
+                  "category": "park",
+                  "coords": [
+                        139.764595,
+                        35.581927
+                  ]
+            },
+            {
+                  "name": "Heiwajima Park",
+                  "text": "Un mare parc recreativ în Ota, care include un loc pentru foc de tabără, piscine și facilități sportive extinse.",
+                  "category": "park",
+                  "coords": [
+                        139.742526,
+                        35.582196
+                  ]
+            },
+            {
+                  "name": "Heiwa no Mori Park",
+                  "text": "Cel mai mare parc din orașul Ota, remarcabil pentru traseul său de atletism și numeroasele poteci umbrite prin pădure.",
+                  "category": "park",
+                  "coords": [
+                        139.740052,
+                        35.580213
+                  ]
+            },
+            {
+                  "name": "Ōmori Furusato no Hamabe Park",
+                  "text": "Primul parc cu plajă municipal din Tokyo, cu un țărm artificial de nisip alb unde vizitatorii se pot plimba de-a lungul golfului interior.",
+                  "category": "park",
+                  "coords": [
+                        139.742248,
+                        35.5744
+                  ]
+            },
+            {
+                  "name": "Ikegami Plum Garden",
+                  "text": "O grădină pitorească pe deal în Ota, faimoasă pentru cei 370 de pruni care înfloresc în roșu și alb la începutul primăverii.",
+                  "category": "park",
+                  "coords": [
+                        139.702656,
+                        35.581083
+                  ]
+            },
+            {
+                  "name": "Shinagawa community park",
+                  "text": "O zonă de recreere complexă care cuprinde un iaz mare, livezi de pruni și cireși, precum și Acvariul Shinagawa.",
+                  "category": "park",
+                  "coords": [
+                        139.738976,
+                        35.592109
+                  ]
+            },
+            {
+                  "name": "Shinagawa Aquarium",
+                  "text": "Un acvariu deschis în 1991, cunoscut pentru tunelul subacvatic de sticlă și spectacolele cu delfini și lei de mare.",
+                  "category": "recreational",
+                  "coords": [
+                        139.737443,
+                        35.588614
+                  ]
+            },
+            {
+                  "name": "Hieda-jinja Shrine",
+                  "text": "Un vechi sanctuar șintoist din Ota, despre care se crede că a fost fondat în secolul al VIII-lea, fiind legat de istoria districtului Kamata.",
+                  "category": "religious",
+                  "coords": [
+                        139.722719,
+                        35.564586
+                  ]
+            },
+            {
+                  "name": "Ryushi Memorial Museum",
+                  "text": "Un muzeu de artă dedicat pictorului Kawabata Ryushi, care expune capodoperele sale de mari dimensiuni într-o galerie proiectată chiar de el.",
+                  "category": "museum",
+                  "coords": [
+                        139.715623,
+                        35.582343
+                  ]
+            },
+            {
+                  "name": "shigeyukiinari Shrine",
+                  "text": "Un sanctuar de cartier mic și atmosferic dedicat lui Inari, cu statui tradiționale de vulpi și porți torii roșii.",
+                  "category": "religious",
+                  "coords": [
+                        139.728174,
+                        35.547977
+                  ]
+            },
+            {
+                  "name": "Haginaka Shrine",
+                  "text": "Un sanctuar șintoist local liniștit lângă Parcul Haginaka, cunoscut pentru împrejurimile sale calme și festivalurile tradiționale.",
+                  "category": "religious",
+                  "coords": [
+                        139.728022,
+                        35.552133
+                  ]
+            },
+            {
+                  "name": "Gojukenbi Abandoned Temple",
+                  "text": "Situl evocator al unui fost templu budist din Haneda, marcat astăzi prin monumente de piatră și plăci istorice.",
+                  "category": "religious",
+                  "coords": [
+                        139.752214,
+                        35.545861
+                  ]
+            },
+            {
+                  "name": "Tamagawa Benzaiten",
+                  "text": "Un mic sanctuar dedicat lui Benzaiten, zeița apei, situat în apropierea malurilor cursului inferior al râului Tama.",
+                  "category": "religious",
+                  "coords": [
+                        139.750524,
+                        35.545806
+                  ]
+            },
+            {
+                  "name": "Shirauoinari Shrine",
+                  "text": "Un sanctuar șintoist urban compact, cu un șir de porți torii roșii vibrante și vulpi de piatră protectoare.",
+                  "category": "religious",
+                  "coords": [
+                        139.750859,
+                        35.547318
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Electric Power Historical Museum",
+                  "text": "This museum documents the history of Japan's electric power industry with historical generators and equipment.",
+                  "category": "museum",
+                  "coords": [
+                        139.672897,
+                        35.533874
+                  ]
+            },
+            {
+                  "name": "Showa Living History Museum",
+                  "text": "A preserved mid-20th-century wooden house illustrating daily life during the Showa era.",
+                  "category": "museum",
+                  "coords": [
+                        139.685829,
+                        35.575222
+                  ]
+            },
+            {
+                  "name": "Ota City Museum of Local History",
+                  "text": "The museum presents archaeological finds and folkloric exhibits related to the history of the Ota district.",
+                  "category": "museum",
+                  "coords": [
+                        139.710666,
+                        35.588531
+                  ]
+            },
+            {
+                  "name": "Kawasaki City Peace Museum",
+                  "text": "This museum is dedicated to promoting peace and documents the impact of war on Kawasaki City.",
+                  "category": "museum",
+                  "coords": [
+                        139.65896,
+                        35.568788
+                  ]
+            },
+            {
+                  "name": "Ōmori Nori Museum",
+                  "text": "A specialized museum detailing the history of traditional seaweed (nori) cultivation in Tokyo Bay.",
+                  "category": "museum",
+                  "coords": [
+                        139.742718,
+                        35.577111
+                  ]
+            },
+            {
+                  "name": "Ota City",
+                  "text": "The administrative center for Tokyo's Ota district, housed in a modern office complex.",
+                  "category": "historical",
+                  "coords": [
+                        139.716081,
+                        35.561389
+                  ]
+            },
+            {
+                  "name": "Suzugamori Execution Ground",
+                  "text": "A historical execution ground from the Edo period where stone monuments are still preserved today.",
+                  "category": "historical",
+                  "coords": [
+                        139.736508,
+                        35.591813
+                  ]
+            },
+            {
+                  "name": "Haneda Koku Shrine",
+                  "text": "A unique Shinto shrine located inside Haneda Airport's Terminal 1, dedicated to aviation safety and travel.",
+                  "category": "religious",
+                  "coords": [
+                        139.784428,
+                        35.548748
+                  ]
+            },
+            {
+                  "name": "Kamata Hachiman Shrine",
+                  "text": "A traditional Shinto shrine in the Kamata district known for its local festivals and serene urban atmosphere.",
+                  "category": "religious",
+                  "coords": [
+                        139.722445,
+                        35.560738
+                  ]
+            },
+            {
+                  "name": "Nitta Shrine",
+                  "text": "A historic Shinto shrine enshrining a 14th-century samurai, featuring a massive zelkova tree estimated to be 700 years old.",
+                  "category": "religious",
+                  "coords": [
+                        139.691324,
+                        35.565807
+                  ]
+            },
+            {
+                  "name": "Ikegami Honmonji",
+                  "text": "A major Buddhist temple complex famous for its 1608 five-story pagoda and as the site where the monk Nichiren passed away.",
+                  "category": "religious",
+                  "coords": [
+                        139.705196,
+                        35.578902
+                  ]
+            },
+            {
+                  "name": "Anamori-Inari shrine",
+                  "text": "A vibrant Shinto shrine near Haneda Airport known for its many red torii gates and \"sacred sand\" believed to bring prosperity.",
+                  "category": "religious",
+                  "coords": [
+                        139.749672,
+                        35.550261
+                  ]
+            },
+            {
+                  "name": "Enton-ji Temple",
+                  "text": "A peaceful Buddhist temple in Ota City featuring traditional temple architecture and a quiet inner garden.",
+                  "category": "religious",
+                  "coords": [
+                        139.723883,
+                        35.565
+                  ]
+            },
+            {
+                  "name": "Kamata Mosque",
+                  "text": "A modern Islamic place of worship and community center serving the diverse international population of southern Tokyo.",
+                  "category": "religious",
+                  "coords": [
+                        139.717123,
+                        35.564427
+                  ]
+            },
+            {
+                  "name": "Tsunesakaeyama Jishouin",
+                  "text": "A serene Shingon Buddhist temple in Ota, notable for its traditional wooden carvings and spiritual atmosphere.",
+                  "category": "religious",
+                  "coords": [
+                        139.740602,
+                        35.547418
+                  ]
+            },
+            {
+                  "name": "Jissōji",
+                  "text": "A quiet Nichiren Buddhist temple in the Ota district, known for its well-maintained traditional cemetery and garden.",
+                  "category": "religious",
+                  "coords": [
+                        139.702802,
+                        35.580099
+                  ]
+            },
+            {
+                  "name": "anjoji",
+                  "text": "An ancient Shingon Buddhist temple providing a spiritual retreat amidst the industrial urban landscape of Ota.",
+                  "category": "religious",
+                  "coords": [
+                        139.694706,
+                        35.582126
+                  ]
+            },
+            {
+                  "name": "Tamagawa Sengen Shrine",
+                  "text": "A hilltop Shinto shrine overlooking the Tama River, famous for its scenic views of Mount Fuji on clear days.",
+                  "category": "religious",
+                  "coords": [
+                        139.668832,
+                        35.587419
+                  ]
+            },
+            {
+                  "name": "Tamagawa Sky Bridge",
+                  "text": "A modern bridge opened in 2022 that spans the Tama River, connecting Haneda Airport with the Kawasaki industrial area.",
+                  "category": "landmark",
+                  "coords": [
+                        139.761619,
+                        35.541545
+                  ]
+            },
+            {
+                  "name": "Haneda Sky Arch",
+                  "text": "An iconic cable-stayed bridge at Haneda Airport, serving as a landmark gateway for travelers entering the terminal area.",
+                  "category": "landmark",
+                  "coords": [
+                        139.786375,
+                        35.54996
+                  ]
+            },
+            {
+                  "name": "Yumemigasaki Park",
+                  "text": "A hilltop park in Kawasaki featuring a free-entry zoo and ancient kofun burial mounds scattered across its grounds.",
+                  "category": "park",
+                  "coords": [
+                        139.665793,
+                        35.549121
+                  ]
+            },
+            {
+                  "name": "Nakahara Peace Park",
+                  "text": "A public park built on a former military site, featuring the Kawasaki City Peace Museum and cherry blossom trees.",
+                  "category": "park",
+                  "coords": [
+                        139.659081,
+                        35.567578
+                  ]
+            },
+            {
+                  "name": "Ukishimacho Park",
+                  "text": "A waterfront park popular with aviation enthusiasts for its close-up views of planes taking off and landing at Haneda Airport.",
+                  "category": "park",
+                  "coords": [
+                        139.788089,
+                        35.521637
+                  ]
+            },
+            {
+                  "name": "Higahi Ohgishima East Park",
+                  "text": "A spacious waterfront park on an artificial island, offering views of the industrial ships and the Tokyo Bay skyline.",
+                  "category": "park",
+                  "coords": [
+                        139.772492,
+                        35.504441
+                  ]
+            },
+            {
+                  "name": "Keihinjima Tsubasa Park",
+                  "text": "An elongated coastal park situated directly across from Haneda Airport, ideal for observing international flight activity.",
+                  "category": "park",
+                  "coords": [
+                        139.770292,
+                        35.570801
+                  ]
+            },
+            {
+                  "name": "Tokyo Port Wildbird Park",
+                  "text": "A dedicated nature reserve on reclaimed land in Tokyo Bay, providing tidal flats and ponds for migratory waterbirds.",
+                  "category": "park",
+                  "coords": [
+                        139.764595,
+                        35.581927
+                  ]
+            },
+            {
+                  "name": "Heiwajima Park",
+                  "text": "A large recreational park in Ota featuring a campfire site, swimming pools, and extensive athletic facilities.",
+                  "category": "park",
+                  "coords": [
+                        139.742526,
+                        35.582196
+                  ]
+            },
+            {
+                  "name": "Heiwa no Mori Park",
+                  "text": "The largest park in Ota City, notable for its challenging field athletic course and numerous shaded woodland trails.",
+                  "category": "park",
+                  "coords": [
+                        139.740052,
+                        35.580213
+                  ]
+            },
+            {
+                  "name": "Ōmori Furusato no Hamabe Park",
+                  "text": "Tokyo's first municipal beach park, featuring a white sandy man-made shore where visitors can walk along the inner bay.",
+                  "category": "park",
+                  "coords": [
+                        139.742248,
+                        35.5744
+                  ]
+            },
+            {
+                  "name": "Ikegami Plum Garden",
+                  "text": "A scenic hillside garden in Ota famous for its 370 plum trees that bloom in shades of red and white in early spring.",
+                  "category": "park",
+                  "coords": [
+                        139.702656,
+                        35.581083
+                  ]
+            },
+            {
+                  "name": "Shinagawa community park",
+                  "text": "A comprehensive recreation area featuring a large pond, plum and cherry groves, and the Shinagawa Aquarium.",
+                  "category": "park",
+                  "coords": [
+                        139.738976,
+                        35.592109
+                  ]
+            },
+            {
+                  "name": "Shinagawa Aquarium",
+                  "text": "A family-friendly aquarium opened in 1991, known for its underwater glass tunnel and popular dolphin and sea lion performances.",
+                  "category": "recreational",
+                  "coords": [
+                        139.737443,
+                        35.588614
+                  ]
+            },
+            {
+                  "name": "Hieda-jinja Shrine",
+                  "text": "An ancient Shinto shrine in Ota, believed to have been founded in the 8th century and holding historic significance for the Kamata area.",
+                  "category": "religious",
+                  "coords": [
+                        139.722719,
+                        35.564586
+                  ]
+            },
+            {
+                  "name": "Ryushi Memorial Museum",
+                  "text": "An art museum established by Nihonga painter Kawabata Ryushi, showcasing his large-scale masterpieces in a gallery he designed himself.",
+                  "category": "museum",
+                  "coords": [
+                        139.715623,
+                        35.582343
+                  ]
+            },
+            {
+                  "name": "shigeyukiinari Shrine",
+                  "text": "A small, atmospheric neighborhood shrine dedicated to Inari, featuring traditional fox statues and red torii gates.",
+                  "category": "religious",
+                  "coords": [
+                        139.728174,
+                        35.547977
+                  ]
+            },
+            {
+                  "name": "Haginaka Shrine",
+                  "text": "A quiet local Shinto shrine near Haginaka Park, known for its peaceful grounds and traditional neighborhood festivals.",
+                  "category": "religious",
+                  "coords": [
+                        139.728022,
+                        35.552133
+                  ]
+            },
+            {
+                  "name": "Gojukenbi Abandoned Temple",
+                  "text": "The evocative site of a former Buddhist temple in Haneda, now marked by stone monuments and historical plaques.",
+                  "category": "religious",
+                  "coords": [
+                        139.752214,
+                        35.545861
+                  ]
+            },
+            {
+                  "name": "Tamagawa Benzaiten",
+                  "text": "A small shrine dedicated to Benzaiten, the goddess of water, located near the banks of the lower Tama River.",
+                  "category": "religious",
+                  "coords": [
+                        139.750524,
+                        35.545806
+                  ]
+            },
+            {
+                  "name": "Shirauoinari Shrine",
+                  "text": "A compact urban Shinto shrine featuring a row of vibrant red torii gates and stone fox guardians.",
+                  "category": "religious",
+                  "coords": [
+                        139.750859,
+                        35.547318
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "JP-13",
     coords: [139.75, 35.55],
@@ -837,7 +12456,160 @@ export const poiExtraJapanEconomicV2: POI[] = [
     
      image: "/poi-images/keihin-industrial-zone-economic-v2.webp"},
   {
-    id: "port-of-tomakomai-economic-v2",
+    id: "port-of-tomakomai-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tomakomai Port Museum",
+                  "text": "Dieses Museum dokumentiert die Entwicklung von Tomakomai zu einem der wichtigsten Industriehäfen Japans durch Schiffsmodelle und Exponate.",
+                  "category": "museum",
+                  "coords": [
+                        141.634878,
+                        42.638235
+                  ]
+            },
+            {
+                  "name": "Tomakomai City Science Center",
+                  "text": "Dieses Wissenschaftszentrum beherbergt ein echtes Reservemodell der sowjetischen Raumstation Mir, das Besucher von innen erkunden können.",
+                  "category": "museum",
+                  "coords": [
+                        141.604882,
+                        42.631905
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "Eine Freiluftbühne in der Nähe des Hafens, die für öffentliche Aufführungen und kulturelle Veranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        141.688185,
+                        42.677826
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "Ein modernes christliches Gotteshaus in Tomakomai, das der lokalen Gemeinschaft der Heiligen der Letzten Tage dient.",
+                  "category": "landmark",
+                  "coords": [
+                        141.618105,
+                        42.654608
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tomakomai Port Museum",
+                  "text": "Ez a múzeum hajómodelleken és kiállításokon keresztül dokumentálja Tomakomai fejlődését Japán egyik legfontosabb ipari kikötőjévé.",
+                  "category": "museum",
+                  "coords": [
+                        141.634878,
+                        42.638235
+                  ]
+            },
+            {
+                  "name": "Tomakomai City Science Center",
+                  "text": "Ez a tudományos központ a szovjet Mir űrállomás valódi tartalék modelljének ad otthont, amelyet a látogatók belülről is felfedezhetnek.",
+                  "category": "museum",
+                  "coords": [
+                        141.604882,
+                        42.631905
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "A kikötő közelében található szabadtéri színpad, amelyet nyilvános előadásokra és kulturális eseményekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        141.688185,
+                        42.677826
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "Modern keresztény templom Tomakomaiban, amely az Utolsó Napi Szentek helyi közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        141.618105,
+                        42.654608
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tomakomai Port Museum",
+                  "text": "Acest muzeu documentează dezvoltarea orașului Tomakomai ca unul dintre cele mai importante porturi industriale ale Japoniei prin machete de nave și exponate.",
+                  "category": "museum",
+                  "coords": [
+                        141.634878,
+                        42.638235
+                  ]
+            },
+            {
+                  "name": "Tomakomai City Science Center",
+                  "text": "Acest centru științific găzduiește un model de rezervă real al stației spațiale sovietice Mir, pe care vizitatorii îl pot explora în interior.",
+                  "category": "museum",
+                  "coords": [
+                        141.604882,
+                        42.631905
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "O scenă în aer liber situată lângă port, utilizată pentru spectacole publice și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        141.688185,
+                        42.677826
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "Un lăcaș de cult creștin modern în Tomakomai, care deservește comunitatea locală a Sfinților din Zilele din Urmă.",
+                  "category": "landmark",
+                  "coords": [
+                        141.618105,
+                        42.654608
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tomakomai Port Museum",
+                  "text": "This museum documents Tomakomai's development into one of Japan's major industrial ports through ship models and exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        141.634878,
+                        42.638235
+                  ]
+            },
+            {
+                  "name": "Tomakomai City Science Center",
+                  "text": "This science center houses an actual backup model of the Soviet Mir space station which visitors can explore inside.",
+                  "category": "museum",
+                  "coords": [
+                        141.604882,
+                        42.631905
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "An open-air stage located near the port, used for public performances and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        141.688185,
+                        42.677826
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "A modern Christian place of worship in Tomakomai serving the local Latter-day Saint community.",
+                  "category": "landmark",
+                  "coords": [
+                        141.618105,
+                        42.654608
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "JP-01",
     coords: [141.633, 42.617],
@@ -886,7 +12658,268 @@ export const poiExtraJapanEconomicV2: POI[] = [
     
      image: "/poi-images/port-of-tomakomai-economic-v2.webp"},
   {
-    id: "yokkaichi-industrial-complex-economic-v2",
+    id: "yokkaichi-industrial-complex-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chokaidō Museum",
+                  "text": "Das Chokaidō-Museum in Yokkaichi ist auf klassische chinesische Kalligraphie und traditionelle asiatische Malerei spezialisiert.",
+                  "category": "museum",
+                  "coords": [
+                        136.618027,
+                        34.965257
+                  ]
+            },
+            {
+                  "name": "Yokkaichi port building",
+                  "text": "Dieser markante Hafenturm bietet eine Aussichtsplattform mit spektakulärem Blick auf den nächtlich beleuchteten Industriekomplex von Yokkaichi.",
+                  "category": "natural",
+                  "coords": [
+                        136.657594,
+                        34.993301
+                  ]
+            },
+            {
+                  "name": "Yokkaichi City Hall",
+                  "text": "Das 1972 eröffnete Rathaus von Yokkaichi dient als administratives Zentrum für die umliegende Industrieregion.",
+                  "category": "historical",
+                  "coords": [
+                        136.624433,
+                        34.965126
+                  ]
+            },
+            {
+                  "name": "Suwa-jinja Shrine",
+                  "text": "Dieser Shinto-Schrein in Yokkaichi ist das religiöse Zentrum der Stadt und Austragungsort des traditionellen Yokkaichi-Matsuri-Festes.",
+                  "category": "religious",
+                  "coords": [
+                        136.62249,
+                        34.968168
+                  ]
+            },
+            {
+                  "name": "Kawagoe Electric Power. Museum Tera 46",
+                  "text": "Das Museum Tera 46 am Kawagoe-Kraftwerk nahe Yokkaichi bietet interaktive Ausstellungen zur modernen Energieerzeugung.",
+                  "category": "museum",
+                  "coords": [
+                        136.68989,
+                        35.01169
+                  ]
+            },
+            {
+                  "name": "Main Hall",
+                  "text": "Die Haupthalle dieses lokalen Tempels in Yokkaichi zeichnet sich durch einen hölzernen Altarbereich für buddhistische Andachten aus.",
+                  "category": "religious",
+                  "coords": [
+                        136.621135,
+                        34.963719
+                  ]
+            },
+            {
+                  "name": "shirine",
+                  "text": "Dieser kleine Shinto-Schrein in Yokkaichi ist traditionell von einem steinernen Torii-Tor markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        136.655099,
+                        35.00992
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chokaidō Museum",
+                  "text": "A jokkicsi Chokaidō Múzeum a klasszikus kínai kalligráfiára és a hagyományos ázsiai festészetre specializálódott.",
+                  "category": "museum",
+                  "coords": [
+                        136.618027,
+                        34.965257
+                  ]
+            },
+            {
+                  "name": "Yokkaichi port building",
+                  "text": "Ez a feltűnő kikötői torony kilátóval rendelkezik, ahonnan látványos kilátás nyílik Jokkicsi éjszaka kivilágított ipari komplexumára.",
+                  "category": "natural",
+                  "coords": [
+                        136.657594,
+                        34.993301
+                  ]
+            },
+            {
+                  "name": "Yokkaichi City Hall",
+                  "text": "Az 1972-ben megnyílt jokkicsi városháza a környező ipari régió közigazgatási központjaként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        136.624433,
+                        34.965126
+                  ]
+            },
+            {
+                  "name": "Suwa-jinja Shrine",
+                  "text": "Ez a jokkicsi sintó szentély a város vallási központja és a hagyományos Yokkaichi Matsuri fesztivál helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        136.62249,
+                        34.968168
+                  ]
+            },
+            {
+                  "name": "Kawagoe Electric Power. Museum Tera 46",
+                  "text": "A Jokkicsi melletti Kawagoe Erőműnél található Tera 46 múzeum interaktív kiállításokat kínál a modern energiatermelésről.",
+                  "category": "museum",
+                  "coords": [
+                        136.68989,
+                        35.01169
+                  ]
+            },
+            {
+                  "name": "Main Hall",
+                  "text": "Ennek a helyi jokkicsi templomnak a főcsarnokát a buddhista áhítatokhoz használt fából faragott oltárrész emeli ki.",
+                  "category": "religious",
+                  "coords": [
+                        136.621135,
+                        34.963719
+                  ]
+            },
+            {
+                  "name": "shirine",
+                  "text": "Ezt a kis jokkicsi sintó szentélyt hagyományosan egy kőből épült torii kapu jelzi.",
+                  "category": "landmark",
+                  "coords": [
+                        136.655099,
+                        35.00992
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chokaidō Museum",
+                  "text": "Muzeul Chokaidō din Yokkaichi este specializat în caligrafie clasică chineză și pictură tradițională asiatică.",
+                  "category": "museum",
+                  "coords": [
+                        136.618027,
+                        34.965257
+                  ]
+            },
+            {
+                  "name": "Yokkaichi port building",
+                  "text": "Acest turn portuar izbitor oferă o punte de observație cu vederi spectaculoase asupra complexului industrial din Yokkaichi iluminat noaptea.",
+                  "category": "natural",
+                  "coords": [
+                        136.657594,
+                        34.993301
+                  ]
+            },
+            {
+                  "name": "Yokkaichi City Hall",
+                  "text": "Deschisă în 1972, Primăria din Yokkaichi servește ca centru administrativ pentru regiunea industrială înconjurătoare.",
+                  "category": "historical",
+                  "coords": [
+                        136.624433,
+                        34.965126
+                  ]
+            },
+            {
+                  "name": "Suwa-jinja Shrine",
+                  "text": "Acest sanctuar șintoist din Yokkaichi este inima spirituală a orașului și locul de desfășurare a festivalului tradițional Yokkaichi Matsuri.",
+                  "category": "religious",
+                  "coords": [
+                        136.62249,
+                        34.968168
+                  ]
+            },
+            {
+                  "name": "Kawagoe Electric Power. Museum Tera 46",
+                  "text": "Muzeul Tera 46 de la centrala electrică Kawagoe, lângă Yokkaichi, oferă expoziții interactive despre generarea modernă a energiei.",
+                  "category": "museum",
+                  "coords": [
+                        136.68989,
+                        35.01169
+                  ]
+            },
+            {
+                  "name": "Main Hall",
+                  "text": "Sala principală a acestui templu local din Yokkaichi are o zonă de altar din lemn destinată devoțiunilor budiste.",
+                  "category": "religious",
+                  "coords": [
+                        136.621135,
+                        34.963719
+                  ]
+            },
+            {
+                  "name": "shirine",
+                  "text": "Acest mic sanctuar șintoist din Yokkaichi este marcat tradițional de o poartă torii din piatră.",
+                  "category": "landmark",
+                  "coords": [
+                        136.655099,
+                        35.00992
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chokaidō Museum",
+                  "text": "The Chokaidō Museum in Yokkaichi specializes in classical Chinese calligraphy and traditional Asian paintings.",
+                  "category": "museum",
+                  "coords": [
+                        136.618027,
+                        34.965257
+                  ]
+            },
+            {
+                  "name": "Yokkaichi port building",
+                  "text": "This prominent port building features an observation deck offering spectacular views of the brightly illuminated Yokkaichi industrial complex at night.",
+                  "category": "natural",
+                  "coords": [
+                        136.657594,
+                        34.993301
+                  ]
+            },
+            {
+                  "name": "Yokkaichi City Hall",
+                  "text": "Opened in 1972, the Yokkaichi City Hall serves as the administrative nerve center for the surrounding industrial region.",
+                  "category": "historical",
+                  "coords": [
+                        136.624433,
+                        34.965126
+                  ]
+            },
+            {
+                  "name": "Suwa-jinja Shrine",
+                  "text": "This Shinto shrine in Yokkaichi is the city's spiritual center and the venue for the traditional Yokkaichi Matsuri festival.",
+                  "category": "religious",
+                  "coords": [
+                        136.62249,
+                        34.968168
+                  ]
+            },
+            {
+                  "name": "Kawagoe Electric Power. Museum Tera 46",
+                  "text": "The Tera 46 museum at the Kawagoe Power Station near Yokkaichi offers interactive exhibits on modern energy generation.",
+                  "category": "museum",
+                  "coords": [
+                        136.68989,
+                        35.01169
+                  ]
+            },
+            {
+                  "name": "Main Hall",
+                  "text": "The main hall of this local temple in Yokkaichi features a wooden altar area dedicated to Buddhist devotions.",
+                  "category": "religious",
+                  "coords": [
+                        136.621135,
+                        34.963719
+                  ]
+            },
+            {
+                  "name": "shirine",
+                  "text": "This small Shinto shrine in Yokkaichi is traditionally marked by a stone torii gate at its entrance.",
+                  "category": "landmark",
+                  "coords": [
+                        136.655099,
+                        35.00992
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "JP-24",
     coords: [136.65, 34.9667],
@@ -933,7 +12966,844 @@ export const poiExtraJapanEconomicV2: POI[] = [
       fr: ["L'un des plus grands complexes pétrochimiques du Japon. Il était historiquement connu pour sa pollution atmosphérique sévère (asthme de Yokkaichi), ce qui a conduit à des lois environnementales plus strictes au Japon.", "Situé sur le territoire de la nation insulaire du Japon dans le Pacifique Nord.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle."],
     }, image: "/poi-images/yokkaichi-industrial-complex-economic-v2.webp"},
   {
-    id: "oizumi-town-industry-economic-v2",
+    id: "oizumi-town-industry-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mt. Kanayama",
+                  "text": "Ein 239 Meter hoher Berg, auf dessen Gipfel sich die Ruinen der Burg Kanayama befinden.",
+                  "category": "natural",
+                  "coords": [
+                        139.377735,
+                        36.317459
+                  ]
+            },
+            {
+                  "name": "Shokenji",
+                  "text": "Ein buddhistischer Tempel in Oizumi, der als Ort der Stille und Anbetung dient.",
+                  "category": "religious",
+                  "coords": [
+                        139.361704,
+                        36.292115
+                  ]
+            },
+            {
+                  "name": "Jozoji",
+                  "text": "Diese religiöse Stätte in Oizumi ist ein Beispiel für lokale buddhistische Tempelarchitektur.",
+                  "category": "religious",
+                  "coords": [
+                        139.328153,
+                        36.253197
+                  ]
+            },
+            {
+                  "name": "Kangiin Kumagaya",
+                  "text": "Ein buddhistischer Tempel in Kumagaya, der für seine kunstvollen Holzschnitzereien bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        139.374675,
+                        36.228189
+                  ]
+            },
+            {
+                  "name": "Koizumi Castle",
+                  "text": "Der Standort einer mittelalterlichen Burg, der heute als Park mit erhaltenen Wassergräben dient.",
+                  "category": "landmark",
+                  "coords": [
+                        139.414001,
+                        36.261407
+                  ]
+            },
+            {
+                  "name": "Fukuju-ohashi Bridge",
+                  "text": "Eine bedeutende Brücke, die den Tone-Fluss überspannt und Oizumi mit Chiyoda verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        139.465676,
+                        36.320465
+                  ]
+            },
+            {
+                  "name": "Tanaka Bridge",
+                  "text": "Diese Brücke führt über den Watarase-Fluss und ist eine wichtige Verkehrsader der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        139.453492,
+                        36.32895
+                  ]
+            },
+            {
+                  "name": "Fukusaru Bridge",
+                  "text": "Eine Brücke über den Watarase-Fluss, die für den lokalen Verkehr zwischen Ashikaga und Ota wichtig ist.",
+                  "category": "landmark",
+                  "coords": [
+                        139.479995,
+                        36.312599
+                  ]
+            },
+            {
+                  "name": "Ashikaga Gakkō",
+                  "text": "Diese historische Stätte beherbergte Japans älteste akademische Einrichtung und Konfuzius-Schule.",
+                  "category": "landmark",
+                  "coords": [
+                        139.453315,
+                        36.335964
+                  ]
+            },
+            {
+                  "name": "Midoribashi Bridge",
+                  "text": "Eine Brücke, die den Watarase-Fluss überquert und Teil der lokalen Infrastruktur ist.",
+                  "category": "landmark",
+                  "coords": [
+                        139.434607,
+                        36.332189
+                  ]
+            },
+            {
+                  "name": "Banna Temple",
+                  "text": "Ein Shingon-buddhistischer Tempel, der 1196 gegründet wurde und als Nationalschatz Japans gilt.",
+                  "category": "religious",
+                  "coords": [
+                        139.452067,
+                        36.337491
+                  ]
+            },
+            {
+                  "name": "Nakabashi Bridge",
+                  "text": "Diese Brücke überspannt den Watarase-Fluss und ist für ihr markantes Design bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        139.448691,
+                        36.331878
+                  ]
+            },
+            {
+                  "name": "Watarasebashi Bridge",
+                  "text": "Eine bekannte Brücke über den Watarase-Fluss, die auch in der japanischen Popkultur besungen wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        139.444124,
+                        36.333497
+                  ]
+            },
+            {
+                  "name": "Kashimabashi Bridge",
+                  "text": "Eine funktionale Brücke, die die Ufer des Watarase-Flusses in der Region Oizumi verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        139.404453,
+                        36.342039
+                  ]
+            },
+            {
+                  "name": "Ota City Hall",
+                  "text": "Das Verwaltungszentrum von Ota, ein modernes Gebäude für städtische Angelegenheiten.",
+                  "category": "historical",
+                  "coords": [
+                        139.375552,
+                        36.291113
+                  ]
+            },
+            {
+                  "name": "Tousui Bridge",
+                  "text": "Eine große Brücke, die den Tone-Fluss überquert und die Präfekturen Gunma und Saitama verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        139.378189,
+                        36.239164
+                  ]
+            },
+            {
+                  "name": "Shin-Jobu Bridge",
+                  "text": "Eine moderne Straßenbrücke über den Tone-Fluss, die eine wichtige regionale Verbindung darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        139.309953,
+                        36.234837
+                  ]
+            },
+            {
+                  "name": "Kumagaya Line Bridge Pier",
+                  "text": "Überreste einer unvollendeten Eisenbahnstrecke, deren Pfeiler noch heute im Tone-Fluss stehen.",
+                  "category": "historical",
+                  "coords": [
+                        139.387734,
+                        36.239391
+                  ]
+            },
+            {
+                  "name": "Ota City Sport Park",
+                  "text": "Ein weitläufiger Sportpark in Ota mit Einrichtungen für Leichtathletik und Ballspiele.",
+                  "category": "park",
+                  "coords": [
+                        139.395408,
+                        36.27503
+                  ]
+            },
+            {
+                  "name": "Toko-ji",
+                  "text": "Ein ruhiger buddhistischer Tempel in Oizumi, der zur Besinnung einlädt.",
+                  "category": "religious",
+                  "coords": [
+                        139.457697,
+                        36.211024
+                  ]
+            },
+            {
+                  "name": "Musashi-Ōhashi Bridge",
+                  "text": "Diese Brücke ist Teil des Tone-Oozeki-Wehrs, einer der größten Wasserentnahmestellen Japans.",
+                  "category": "landmark",
+                  "coords": [
+                        139.473311,
+                        36.189334
+                  ]
+            },
+            {
+                  "name": "Ashikaga Christ's Orthodox Church",
+                  "text": "Eine kleine orthodoxe christliche Kirche in Ashikaga, ein seltenes Beispiel dieser Konfession in der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        139.440677,
+                        36.34039
+                  ]
+            },
+            {
+                  "name": "Ojima Onsen - Tone no Yu",
+                  "text": "Ein öffentliches Thermalbad in Ojima, das Entspannung mit Blick auf den Tone-Fluss bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        139.342804,
+                        36.258506
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mt. Kanayama",
+                  "text": "Egy 239 méter magas hegy, amelynek csúcsán a Kanayama-vár romjai találhatók.",
+                  "category": "natural",
+                  "coords": [
+                        139.377735,
+                        36.317459
+                  ]
+            },
+            {
+                  "name": "Shokenji",
+                  "text": "Buddhista templom Oizumiban, amely a csend és az imádság helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        139.361704,
+                        36.292115
+                  ]
+            },
+            {
+                  "name": "Jozoji",
+                  "text": "Ez a vallási helyszín Oizumiban a helyi buddhista templomépítészet egyik példája.",
+                  "category": "religious",
+                  "coords": [
+                        139.328153,
+                        36.253197
+                  ]
+            },
+            {
+                  "name": "Kangiin Kumagaya",
+                  "text": "Kumagaya buddhista temploma, amely díszes fafaragásairól ismert.",
+                  "category": "religious",
+                  "coords": [
+                        139.374675,
+                        36.228189
+                  ]
+            },
+            {
+                  "name": "Koizumi Castle",
+                  "text": "Egy középkori vár helyszíne, amely ma parkként működik megőrzött vizesárkokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        139.414001,
+                        36.261407
+                  ]
+            },
+            {
+                  "name": "Fukuju-ohashi Bridge",
+                  "text": "A Tone-folyón átívelő jelentős híd, amely Oizumit és Chiyodát köti össze.",
+                  "category": "landmark",
+                  "coords": [
+                        139.465676,
+                        36.320465
+                  ]
+            },
+            {
+                  "name": "Tanaka Bridge",
+                  "text": "Ez a híd a Watarase-folyón vezet át, és a régió fontos közlekedési útvonala.",
+                  "category": "landmark",
+                  "coords": [
+                        139.453492,
+                        36.32895
+                  ]
+            },
+            {
+                  "name": "Fukusaru Bridge",
+                  "text": "A Watarase-folyón átívelő híd, amely fontos az Ashikaga és Ota közötti helyi forgalom számára.",
+                  "category": "landmark",
+                  "coords": [
+                        139.479995,
+                        36.312599
+                  ]
+            },
+            {
+                  "name": "Ashikaga Gakkō",
+                  "text": "Ez a történelmi helyszín adott otthont Japán legrégebbi akadémiai intézményének és konfuciánus iskolájának.",
+                  "category": "landmark",
+                  "coords": [
+                        139.453315,
+                        36.335964
+                  ]
+            },
+            {
+                  "name": "Midoribashi Bridge",
+                  "text": "A Watarase-folyón átívelő híd, amely a helyi infrastruktúra része.",
+                  "category": "landmark",
+                  "coords": [
+                        139.434607,
+                        36.332189
+                  ]
+            },
+            {
+                  "name": "Banna Temple",
+                  "text": "1196-ban alapított singon buddhista templom, amely Japán nemzeti kincse.",
+                  "category": "religious",
+                  "coords": [
+                        139.452067,
+                        36.337491
+                  ]
+            },
+            {
+                  "name": "Nakabashi Bridge",
+                  "text": "Ez a híd a Watarase-folyó felett ível át, és jellegzetes kialakításáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        139.448691,
+                        36.331878
+                  ]
+            },
+            {
+                  "name": "Watarasebashi Bridge",
+                  "text": "Ismert híd a Watarase-folyón, amelyet a japán popkultúrában is megénekeltek.",
+                  "category": "landmark",
+                  "coords": [
+                        139.444124,
+                        36.333497
+                  ]
+            },
+            {
+                  "name": "Kashimabashi Bridge",
+                  "text": "Funkcionális híd, amely a Watarase-folyó partjait köti össze Oizumi régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        139.404453,
+                        36.342039
+                  ]
+            },
+            {
+                  "name": "Ota City Hall",
+                  "text": "Ota közigazgatási központja, a városi ügyek intézésére szolgáló modern épület.",
+                  "category": "historical",
+                  "coords": [
+                        139.375552,
+                        36.291113
+                  ]
+            },
+            {
+                  "name": "Tousui Bridge",
+                  "text": "A Tone-folyón átívelő nagy híd, amely Gunma és Saitama prefektúrákat köti össze.",
+                  "category": "landmark",
+                  "coords": [
+                        139.378189,
+                        36.239164
+                  ]
+            },
+            {
+                  "name": "Shin-Jobu Bridge",
+                  "text": "Modern közúti híd a Tone-folyón, amely fontos regionális kapcsolatot biztosít.",
+                  "category": "landmark",
+                  "coords": [
+                        139.309953,
+                        36.234837
+                  ]
+            },
+            {
+                  "name": "Kumagaya Line Bridge Pier",
+                  "text": "Egy befejezetlen vasútvonal maradványai, amelynek pillérei ma is a Tone-folyóban állnak.",
+                  "category": "historical",
+                  "coords": [
+                        139.387734,
+                        36.239391
+                  ]
+            },
+            {
+                  "name": "Ota City Sport Park",
+                  "text": "Kiterjedt sportpark Otában, atlétikai és labdajátékokhoz alkalmas létesítményekkel.",
+                  "category": "park",
+                  "coords": [
+                        139.395408,
+                        36.27503
+                  ]
+            },
+            {
+                  "name": "Toko-ji",
+                  "text": "Csendes buddhista templom Oizumiban, amely elmélkedésre hív.",
+                  "category": "religious",
+                  "coords": [
+                        139.457697,
+                        36.211024
+                  ]
+            },
+            {
+                  "name": "Musashi-Ōhashi Bridge",
+                  "text": "Ez a híd a Tone-Oozeki gát része, amely Japán egyik legnagyobb vízkivételi helye.",
+                  "category": "landmark",
+                  "coords": [
+                        139.473311,
+                        36.189334
+                  ]
+            },
+            {
+                  "name": "Ashikaga Christ's Orthodox Church",
+                  "text": "Kicsi ortodox keresztény templom Ashikagában, a felekezet ritka példája a régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        139.440677,
+                        36.34039
+                  ]
+            },
+            {
+                  "name": "Ojima Onsen - Tone no Yu",
+                  "text": "Nyilvános termálfürdő Ojimában, amely pihenést kínál kilátással a Tone-folyóra.",
+                  "category": "recreational",
+                  "coords": [
+                        139.342804,
+                        36.258506
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mt. Kanayama",
+                  "text": "Un vârf montan de 239 de metri înălțime, care găzduiește ruinele castelului Kanayama.",
+                  "category": "natural",
+                  "coords": [
+                        139.377735,
+                        36.317459
+                  ]
+            },
+            {
+                  "name": "Shokenji",
+                  "text": "Un templu budist în Oizumi, servind ca loc de liniște și rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        139.361704,
+                        36.292115
+                  ]
+            },
+            {
+                  "name": "Jozoji",
+                  "text": "Acest sit religios din Oizumi este un exemplu de arhitectură locală a templelor budiste.",
+                  "category": "religious",
+                  "coords": [
+                        139.328153,
+                        36.253197
+                  ]
+            },
+            {
+                  "name": "Kangiin Kumagaya",
+                  "text": "Un templu budist din Kumagaya, renumit pentru sculpturile sale elaborate în lemn.",
+                  "category": "religious",
+                  "coords": [
+                        139.374675,
+                        36.228189
+                  ]
+            },
+            {
+                  "name": "Koizumi Castle",
+                  "text": "Locul unui castel medieval, care servește astăzi ca parc cu șanțuri de apă conservate.",
+                  "category": "landmark",
+                  "coords": [
+                        139.414001,
+                        36.261407
+                  ]
+            },
+            {
+                  "name": "Fukuju-ohashi Bridge",
+                  "text": "Un pod important care traversează râul Tone, legând Oizumi de Chiyoda.",
+                  "category": "landmark",
+                  "coords": [
+                        139.465676,
+                        36.320465
+                  ]
+            },
+            {
+                  "name": "Tanaka Bridge",
+                  "text": "Acest pod traversează râul Watarase și este o arteră importantă de transport în regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        139.453492,
+                        36.32895
+                  ]
+            },
+            {
+                  "name": "Fukusaru Bridge",
+                  "text": "Un pod peste râul Watarase, important pentru traficul local între Ashikaga și Ota.",
+                  "category": "landmark",
+                  "coords": [
+                        139.479995,
+                        36.312599
+                  ]
+            },
+            {
+                  "name": "Ashikaga Gakkō",
+                  "text": "Acest sit istoric a găzduit cea mai veche instituție academică și școală confucianistă din Japonia.",
+                  "category": "landmark",
+                  "coords": [
+                        139.453315,
+                        36.335964
+                  ]
+            },
+            {
+                  "name": "Midoribashi Bridge",
+                  "text": "Un pod care traversează râul Watarase, făcând parte din infrastructura locală.",
+                  "category": "landmark",
+                  "coords": [
+                        139.434607,
+                        36.332189
+                  ]
+            },
+            {
+                  "name": "Banna Temple",
+                  "text": "Un templu budist Shingon fondat în 1196, considerat Tezaur Național al Japoniei.",
+                  "category": "religious",
+                  "coords": [
+                        139.452067,
+                        36.337491
+                  ]
+            },
+            {
+                  "name": "Nakabashi Bridge",
+                  "text": "Acest pod traversează râul Watarase și este cunoscut pentru designul său distinctiv.",
+                  "category": "landmark",
+                  "coords": [
+                        139.448691,
+                        36.331878
+                  ]
+            },
+            {
+                  "name": "Watarasebashi Bridge",
+                  "text": "Un pod cunoscut peste râul Watarase, care a fost celebrat și în cultura pop japoneză.",
+                  "category": "landmark",
+                  "coords": [
+                        139.444124,
+                        36.333497
+                  ]
+            },
+            {
+                  "name": "Kashimabashi Bridge",
+                  "text": "Un pod funcțional care leagă malurile râului Watarase în regiunea Oizumi.",
+                  "category": "landmark",
+                  "coords": [
+                        139.404453,
+                        36.342039
+                  ]
+            },
+            {
+                  "name": "Ota City Hall",
+                  "text": "Centrul administrativ din Ota, o clădire modernă pentru afacerile orașului.",
+                  "category": "historical",
+                  "coords": [
+                        139.375552,
+                        36.291113
+                  ]
+            },
+            {
+                  "name": "Tousui Bridge",
+                  "text": "Un pod mare care traversează râul Tone, legând prefecturile Gunma și Saitama.",
+                  "category": "landmark",
+                  "coords": [
+                        139.378189,
+                        36.239164
+                  ]
+            },
+            {
+                  "name": "Shin-Jobu Bridge",
+                  "text": "Un pod rutier modern peste râul Tone, reprezentând o legătură regională importantă.",
+                  "category": "landmark",
+                  "coords": [
+                        139.309953,
+                        36.234837
+                  ]
+            },
+            {
+                  "name": "Kumagaya Line Bridge Pier",
+                  "text": "Rămășițele unei linii de cale ferată neterminate, ale cărei piloni stau și astăzi în râul Tone.",
+                  "category": "historical",
+                  "coords": [
+                        139.387734,
+                        36.239391
+                  ]
+            },
+            {
+                  "name": "Ota City Sport Park",
+                  "text": "Un parc sportiv extins în Ota, cu facilități pentru atletism și jocuri cu mingea.",
+                  "category": "park",
+                  "coords": [
+                        139.395408,
+                        36.27503
+                  ]
+            },
+            {
+                  "name": "Toko-ji",
+                  "text": "Un templu budist liniștit în Oizumi, care invită la meditație.",
+                  "category": "religious",
+                  "coords": [
+                        139.457697,
+                        36.211024
+                  ]
+            },
+            {
+                  "name": "Musashi-Ōhashi Bridge",
+                  "text": "Acest pod face parte din barajul Tone-Oozeki, unul dintre cele mai mari puncte de captare a apei din Japonia.",
+                  "category": "landmark",
+                  "coords": [
+                        139.473311,
+                        36.189334
+                  ]
+            },
+            {
+                  "name": "Ashikaga Christ's Orthodox Church",
+                  "text": "O mică biserică creștină ortodoxă în Ashikaga, un exemplu rar al acestei confesiuni în regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        139.440677,
+                        36.34039
+                  ]
+            },
+            {
+                  "name": "Ojima Onsen - Tone no Yu",
+                  "text": "O baie termală publică în Ojima, oferind relaxare cu vedere la râul Tone.",
+                  "category": "recreational",
+                  "coords": [
+                        139.342804,
+                        36.258506
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mt. Kanayama",
+                  "text": "A 239-meter high peak that hosts the ruins of Kanayama Castle on its summit.",
+                  "category": "natural",
+                  "coords": [
+                        139.377735,
+                        36.317459
+                  ]
+            },
+            {
+                  "name": "Shokenji",
+                  "text": "A Buddhist temple in Oizumi, serving as a place of quietude and worship.",
+                  "category": "religious",
+                  "coords": [
+                        139.361704,
+                        36.292115
+                  ]
+            },
+            {
+                  "name": "Jozoji",
+                  "text": "This religious site in Oizumi is an example of local Buddhist temple architecture.",
+                  "category": "religious",
+                  "coords": [
+                        139.328153,
+                        36.253197
+                  ]
+            },
+            {
+                  "name": "Kangiin Kumagaya",
+                  "text": "A Buddhist temple in Kumagaya, renowned for its elaborate wood carvings.",
+                  "category": "religious",
+                  "coords": [
+                        139.374675,
+                        36.228189
+                  ]
+            },
+            {
+                  "name": "Koizumi Castle",
+                  "text": "The site of a medieval castle, now serving as a park with preserved moats.",
+                  "category": "landmark",
+                  "coords": [
+                        139.414001,
+                        36.261407
+                  ]
+            },
+            {
+                  "name": "Fukuju-ohashi Bridge",
+                  "text": "A significant bridge spanning the Tone River, connecting Oizumi and Chiyoda.",
+                  "category": "landmark",
+                  "coords": [
+                        139.465676,
+                        36.320465
+                  ]
+            },
+            {
+                  "name": "Tanaka Bridge",
+                  "text": "This bridge crosses the Watarase River and is a key transportation artery in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        139.453492,
+                        36.32895
+                  ]
+            },
+            {
+                  "name": "Fukusaru Bridge",
+                  "text": "A bridge over the Watarase River, important for local traffic between Ashikaga and Ota.",
+                  "category": "landmark",
+                  "coords": [
+                        139.479995,
+                        36.312599
+                  ]
+            },
+            {
+                  "name": "Ashikaga Gakkō",
+                  "text": "This historic site housed Japan's oldest academic institution and Confucian school.",
+                  "category": "landmark",
+                  "coords": [
+                        139.453315,
+                        36.335964
+                  ]
+            },
+            {
+                  "name": "Midoribashi Bridge",
+                  "text": "A bridge crossing the Watarase River, forming part of the local infrastructure.",
+                  "category": "landmark",
+                  "coords": [
+                        139.434607,
+                        36.332189
+                  ]
+            },
+            {
+                  "name": "Banna Temple",
+                  "text": "A Shingon Buddhist temple founded in 1196, designated as a National Treasure of Japan.",
+                  "category": "religious",
+                  "coords": [
+                        139.452067,
+                        36.337491
+                  ]
+            },
+            {
+                  "name": "Nakabashi Bridge",
+                  "text": "This bridge spans the Watarase River and is known for its distinctive design.",
+                  "category": "landmark",
+                  "coords": [
+                        139.448691,
+                        36.331878
+                  ]
+            },
+            {
+                  "name": "Watarasebashi Bridge",
+                  "text": "A well-known bridge over the Watarase River, celebrated in Japanese popular culture.",
+                  "category": "landmark",
+                  "coords": [
+                        139.444124,
+                        36.333497
+                  ]
+            },
+            {
+                  "name": "Kashimabashi Bridge",
+                  "text": "A functional bridge connecting the banks of the Watarase River in the Oizumi region.",
+                  "category": "landmark",
+                  "coords": [
+                        139.404453,
+                        36.342039
+                  ]
+            },
+            {
+                  "name": "Ota City Hall",
+                  "text": "The administrative center of Ota, a modern building for city affairs.",
+                  "category": "historical",
+                  "coords": [
+                        139.375552,
+                        36.291113
+                  ]
+            },
+            {
+                  "name": "Tousui Bridge",
+                  "text": "A large bridge crossing the Tone River, connecting Gunma and Saitama prefectures.",
+                  "category": "landmark",
+                  "coords": [
+                        139.378189,
+                        36.239164
+                  ]
+            },
+            {
+                  "name": "Shin-Jobu Bridge",
+                  "text": "A modern road bridge over the Tone River, serving as a vital regional link.",
+                  "category": "landmark",
+                  "coords": [
+                        139.309953,
+                        36.234837
+                  ]
+            },
+            {
+                  "name": "Kumagaya Line Bridge Pier",
+                  "text": "Remnants of an unfinished railway line, with piers still standing in the Tone River today.",
+                  "category": "historical",
+                  "coords": [
+                        139.387734,
+                        36.239391
+                  ]
+            },
+            {
+                  "name": "Ota City Sport Park",
+                  "text": "An extensive sports park in Ota featuring facilities for athletics and ball games.",
+                  "category": "park",
+                  "coords": [
+                        139.395408,
+                        36.27503
+                  ]
+            },
+            {
+                  "name": "Toko-ji",
+                  "text": "A quiet Buddhist temple in Oizumi, inviting contemplation.",
+                  "category": "religious",
+                  "coords": [
+                        139.457697,
+                        36.211024
+                  ]
+            },
+            {
+                  "name": "Musashi-Ōhashi Bridge",
+                  "text": "This bridge is part of the Tone-Oozeki barrage, one of Japan's largest water intake sites.",
+                  "category": "landmark",
+                  "coords": [
+                        139.473311,
+                        36.189334
+                  ]
+            },
+            {
+                  "name": "Ashikaga Christ's Orthodox Church",
+                  "text": "A small Orthodox Christian church in Ashikaga, a rare example of this denomination in the area.",
+                  "category": "landmark",
+                  "coords": [
+                        139.440677,
+                        36.34039
+                  ]
+            },
+            {
+                  "name": "Ojima Onsen - Tone no Yu",
+                  "text": "A public thermal bath in Ojima, offering relaxation with views of the Tone River.",
+                  "category": "recreational",
+                  "coords": [
+                        139.342804,
+                        36.258506
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "JP-10",
     coords: [139.41, 36.26],

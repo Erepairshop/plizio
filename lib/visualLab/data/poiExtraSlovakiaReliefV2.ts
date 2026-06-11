@@ -135,7 +135,7 @@ imageHint: "Lomnicky stit peak with observatory",
             },
             {
                   "name": "Ostrá",
-                  "text": "Ein markanter Berggipfel in der Hohen Tatra.",
+                  "text": "Ostrá ist ein scharfer Gipfel in der Hohen Tatra nahe dem Berg Kriváň.",
                   "category": "landmark",
                   "coords": [
                         20.021807,
@@ -144,7 +144,7 @@ imageHint: "Lomnicky stit peak with observatory",
             },
             {
                   "name": "Kleines Krummhorn",
-                  "text": "Ein Gipfel in der Hohen Tatra, der zum Massiv des Kriváň gehört.",
+                  "text": "Malý Kriváň ist ein Nebengipfel des Kriváň in der Hohen Tatra.",
                   "category": "landmark",
                   "coords": [
                         20.001362,
@@ -209,7 +209,7 @@ imageHint: "Lomnicky stit peak with observatory",
             },
             {
                   "name": "Ostrá",
-                  "text": "Jellegzetes hegycsúcs a Magas-Tátra vonulatában.",
+                  "text": "Az Ostrá egy éles csúcs a Magas-Tátrában, a Kriváň közelében.",
                   "category": "landmark",
                   "coords": [
                         20.021807,
@@ -218,7 +218,7 @@ imageHint: "Lomnicky stit peak with observatory",
             },
             {
                   "name": "Kis-Kriván",
-                  "text": "A Magas-Tátra egyik csúcsa, amely a Kriván-masszívum része.",
+                  "text": "A Malý Kriváň a Kriváň mellékcsúcsa a Magas-Tátrában.",
                   "category": "landmark",
                   "coords": [
                         20.001362,
@@ -283,7 +283,7 @@ imageHint: "Lomnicky stit peak with observatory",
             },
             {
                   "name": "Ostrá",
-                  "text": "Un vârf montan proeminent din Munții Tatra Înaltă.",
+                  "text": "Ostrá este un vârf ascuțit în Tatra Mare, lângă Kriváň.",
                   "category": "landmark",
                   "coords": [
                         20.021807,
@@ -292,7 +292,7 @@ imageHint: "Lomnicky stit peak with observatory",
             },
             {
                   "name": "Malý Kriváň",
-                  "text": "Un vârf din Tatra Înaltă, care face parte din masivul Kriváň.",
+                  "text": "Malý Kriváň este un vârf secundar al Kriváň în Tatra Mare.",
                   "category": "landmark",
                   "coords": [
                         20.001362,
@@ -357,7 +357,7 @@ imageHint: "Lomnicky stit peak with observatory",
             },
             {
                   "name": "Ostrá",
-                  "text": "A prominent mountain peak in the High Tatra range.",
+                  "text": "Ostrá is a sharp peak in the High Tatras, near Kriváň.",
                   "category": "landmark",
                   "coords": [
                         20.021807,
@@ -366,7 +366,7 @@ imageHint: "Lomnicky stit peak with observatory",
             },
             {
                   "name": "Malý Kriváň",
-                  "text": "A peak in the High Tatras, part of the Kriváň massif.",
+                  "text": "Malý Kriváň is a subsidiary peak of Kriváň in the High Tatras.",
                   "category": "landmark",
                   "coords": [
                         20.001362,
@@ -478,7 +478,7 @@ imageHint: "Krivan mountain peak Slovakia",
             },
             {
                   "name": "Ludárova hoľa",
-                  "text": "Ein Berggipfel in der Gebirgskette der Niederen Tatra bei Ďumbier.",
+                  "text": "Ludárova hoľa ist ein grasbewachsener Gipfel in der Niederen Tatra nahe dem Berg Ďumbier.",
                   "category": "landmark",
                   "coords": [
                         19.646252,
@@ -552,7 +552,7 @@ imageHint: "Krivan mountain peak Slovakia",
             },
             {
                   "name": "Ludárova hoľa",
-                  "text": "Hegycsúcs az Alacsony-Tátra vonulatában, a Gyömbér közelében.",
+                  "text": "A Ludárova hoľa egy füves csúcs az Alacsony-Tátrában, a Ďumbier közelében.",
                   "category": "landmark",
                   "coords": [
                         19.646252,
@@ -626,7 +626,7 @@ imageHint: "Krivan mountain peak Slovakia",
             },
             {
                   "name": "Ludárova hoľa",
-                  "text": "Un vârf muntos din lanțul Tatra Joasă, situat lângă Ďumbier.",
+                  "text": "Ludárova hoľa este un vârf ierbos în Tatra Mică, lângă Ďumbier.",
                   "category": "landmark",
                   "coords": [
                         19.646252,
@@ -700,7 +700,7 @@ imageHint: "Krivan mountain peak Slovakia",
             },
             {
                   "name": "Ludárova hoľa",
-                  "text": "A mountain peak in the Low Tatras range near Ďumbier.",
+                  "text": "Ludárova hoľa is a grassy peak in the Low Tatras, near Ďumbier.",
                   "category": "landmark",
                   "coords": [
                         19.646252,
@@ -2726,7 +2726,7 @@ imageHint: "Zahorska Lowland pine forest",
             },
             {
                   "name": "Prostredný vrch",
-                  "text": "Ein Berggipfel im Gebiet der Kleinen Karpaten.",
+                  "text": "Der Prostredný vrch (Mittelgipfel) ist ein bewaldeter Gipfel in den Kleinen Karpaten.",
                   "category": "landmark",
                   "coords": [
                         17.192974,
@@ -2735,7 +2735,7 @@ imageHint: "Zahorska Lowland pine forest",
             },
             {
                   "name": "Mešťanková",
-                  "text": "Ein Gipfel in der Region der Kleinen Karpaten.",
+                  "text": "Die Mešťanková ist ein bewaldetes Gebiet in den Kleinen Karpaten (Malé Karpaty).",
                   "category": "landmark",
                   "coords": [
                         17.202829,
@@ -2800,7 +2800,7 @@ imageHint: "Zahorska Lowland pine forest",
             },
             {
                   "name": "Prostredný vrch",
-                  "text": "Hegycsúcs a Kis-Kárpátok területén.",
+                  "text": "A Prostredný vrch (Középső-csúcs) egy erdős hegycsúcs a Kis-Kárpátokban.",
                   "category": "landmark",
                   "coords": [
                         17.192974,
@@ -2809,7 +2809,7 @@ imageHint: "Zahorska Lowland pine forest",
             },
             {
                   "name": "Mešťanková",
-                  "text": "Csúcs a Kis-Kárpátok régiójában.",
+                  "text": "A Mešťanková egy erdős terület a Kis-Kárpátokban (Malé Karpaty).",
                   "category": "landmark",
                   "coords": [
                         17.202829,
@@ -2874,7 +2874,7 @@ imageHint: "Zahorska Lowland pine forest",
             },
             {
                   "name": "Prostredný vrch",
-                  "text": "Un vârf montan în zona Carpaților Mici.",
+                  "text": "Prostredný vrch (Vârful de Mijloc) este un vârf împădurit în Munții Carpații Mici.",
                   "category": "landmark",
                   "coords": [
                         17.192974,
@@ -2883,7 +2883,7 @@ imageHint: "Zahorska Lowland pine forest",
             },
             {
                   "name": "Mešťanková",
-                  "text": "Un vârf situat în regiunea Carpaților Mici.",
+                  "text": "Mešťanková este o zonă împădurită în Munții Malé Karpaty.",
                   "category": "landmark",
                   "coords": [
                         17.202829,
@@ -2948,7 +2948,7 @@ imageHint: "Zahorska Lowland pine forest",
             },
             {
                   "name": "Prostredný vrch",
-                  "text": "A mountain peak in the Little Carpathians area.",
+                  "text": "Prostredný vrch (Middle Peak) is a wooded summit in the Little Carpathians.",
                   "category": "landmark",
                   "coords": [
                         17.192974,
@@ -2957,7 +2957,7 @@ imageHint: "Zahorska Lowland pine forest",
             },
             {
                   "name": "Mešťanková",
-                  "text": "A peak located within the Little Carpathians region.",
+                  "text": "Mešťanková is a forested area in the Malé Karpaty mountains.",
                   "category": "landmark",
                   "coords": [
                         17.202829,
@@ -3401,7 +3401,7 @@ imageHint: "Chocske vrchy mountains forest",
             },
             {
                   "name": "Čierne blato",
-                  "text": "Ein markanter Berggipfel im Vtáčnik-Gebirge.",
+                  "text": "Das Čierne blato (Schwarzmoor) ist ein Torfmoor im Vtáčnik-Gebirge.",
                   "category": "landmark",
                   "coords": [
                         18.678665,
@@ -3428,7 +3428,7 @@ imageHint: "Chocske vrchy mountains forest",
             },
             {
                   "name": "Malá Homôľka",
-                  "text": "Ein bewaldeter Berg im Gebirgszug Vtáčnik.",
+                  "text": "Die Malá Homôľka ist ein kleiner kegelförmiger Hügel im Vtáčnik-Gebirge.",
                   "category": "landmark",
                   "coords": [
                         18.64325,
@@ -3455,7 +3455,7 @@ imageHint: "Chocske vrchy mountains forest",
             },
             {
                   "name": "Magurka",
-                  "text": "Ein Berg im Hauptkamm des Vtáčnik-Gebirges.",
+                  "text": "Die Magurka ist ein felsiger Gipfel im Vtáčnik-Gebirge.",
                   "category": "landmark",
                   "coords": [
                         18.66018,
@@ -3475,7 +3475,7 @@ imageHint: "Chocske vrchy mountains forest",
             },
             {
                   "name": "Čierne blato",
-                  "text": "Jellegzetes hegycsúcs a Madaras-hegységben (Vtáčnik).",
+                  "text": "A Čierne blato (Fekete-mocsár) egy tőzegláp a Vtáčnik-hegységben.",
                   "category": "landmark",
                   "coords": [
                         18.678665,
@@ -3502,7 +3502,7 @@ imageHint: "Chocske vrchy mountains forest",
             },
             {
                   "name": "Malá Homôľka",
-                  "text": "Erdős hegycsúcs a Madaras-hegység vonulatában.",
+                  "text": "A Malá Homôľka egy kis kúp alakú domb a Vtáčnik-hegységben.",
                   "category": "landmark",
                   "coords": [
                         18.64325,
@@ -3529,7 +3529,7 @@ imageHint: "Chocske vrchy mountains forest",
             },
             {
                   "name": "Magurka",
-                  "text": "Hegycsúcs a Madaras-hegység főgerincén.",
+                  "text": "A Magurka egy sziklás csúcs a Vtáčnik-hegységben.",
                   "category": "landmark",
                   "coords": [
                         18.66018,
@@ -3549,7 +3549,7 @@ imageHint: "Chocske vrchy mountains forest",
             },
             {
                   "name": "Čierne blato",
-                  "text": "Un vârf montan în masivul Vtáčnik.",
+                  "text": "Čierne blato (Mlaștina Neagră) este o turbărie în Munții Vtacnik.",
                   "category": "landmark",
                   "coords": [
                         18.678665,
@@ -3576,7 +3576,7 @@ imageHint: "Chocske vrchy mountains forest",
             },
             {
                   "name": "Malá Homôľka",
-                  "text": "Un vârf împădurit în lanțul muntos Vtáčnik.",
+                  "text": "Malá Homôľka este un deal mic în formă de con în Munții Vtáčnik.",
                   "category": "landmark",
                   "coords": [
                         18.64325,
@@ -3603,7 +3603,7 @@ imageHint: "Chocske vrchy mountains forest",
             },
             {
                   "name": "Magurka",
-                  "text": "Un munte pe creasta principală a masivului Vtáčnik.",
+                  "text": "Magurka este un vârf stâncos în Munții Vtáčnik.",
                   "category": "landmark",
                   "coords": [
                         18.66018,
@@ -3623,7 +3623,7 @@ imageHint: "Chocske vrchy mountains forest",
             },
             {
                   "name": "Čierne blato",
-                  "text": "A mountain peak in the Vtáčnik mountain range.",
+                  "text": "Čierne blato (Black Bog) is a peat bog in the Vtáčnik mountains.",
                   "category": "landmark",
                   "coords": [
                         18.678665,
@@ -3650,7 +3650,7 @@ imageHint: "Chocske vrchy mountains forest",
             },
             {
                   "name": "Malá Homôľka",
-                  "text": "A forested mountain peak in the Vtáčnik range.",
+                  "text": "Malá Homôľka is a small conical hill in the Vtáčnik mountains.",
                   "category": "landmark",
                   "coords": [
                         18.64325,
@@ -3677,7 +3677,7 @@ imageHint: "Chocske vrchy mountains forest",
             },
             {
                   "name": "Magurka",
-                  "text": "A mountain on the main ridge of the Vtáčnik range.",
+                  "text": "Magurka is a rocky peak in the Vtáčnik range.",
                   "category": "landmark",
                   "coords": [
                         18.66018,
@@ -4180,7 +4180,7 @@ imageHint: "Chocske vrchy mountains forest",
             },
             {
                   "name": "Zadné Jatky",
-                  "text": "Ein Bergkamm-Gipfel in der Belianske Tatra in der Slowakei.",
+                  "text": "Das Zadné Jatky ist ein Gipfel in den Belaer Tatra, benannt nach seiner Lage hinter dem Hauptkamm.",
                   "category": "landmark",
                   "coords": [
                         20.232934,
@@ -4254,7 +4254,7 @@ imageHint: "Chocske vrchy mountains forest",
             },
             {
                   "name": "Hátsó-Mészárszék",
-                  "text": "Hegygerinc-csúcs a szlovákiai Bélei-Tátrában.",
+                  "text": "A Zadné Jatky egy csúcs a Bélai-Tátrában, nevét a főgerinc mögötti elhelyezkedéséről kapta.",
                   "category": "landmark",
                   "coords": [
                         20.232934,
@@ -4328,7 +4328,7 @@ imageHint: "Chocske vrchy mountains forest",
             },
             {
                   "name": "Zadné Jatky",
-                  "text": "Un vârf de creastă în Tatra Beliene din Slovacia.",
+                  "text": "Zadné Jatky este un vârf în Munții Tatra Belianska, numit după poziția sa din spatele crestei principale.",
                   "category": "landmark",
                   "coords": [
                         20.232934,
@@ -4402,7 +4402,7 @@ imageHint: "Chocske vrchy mountains forest",
             },
             {
                   "name": "Zadné Jatky",
-                  "text": "A ridge peak in the Belianske Tatras in Slovakia.",
+                  "text": "Zadné Jatky is a peak in the Belianske Tatras, named for its position behind the main ridge.",
                   "category": "landmark",
                   "coords": [
                         20.232934,
@@ -4567,7 +4567,7 @@ imageHint: "Chocske vrchy mountains forest",
             },
             {
                   "name": "Kameň spravodlivosti",
-                  "text": "Eine lokale Naturattraktion in den Slanské-Bergen.",
+                  "text": "Ein großer Felsblock im Gebirge Slanské vrchy, der mit dem Recht verbunden ist.",
                   "category": "landmark",
                   "coords": [
                         21.464938,
@@ -4632,7 +4632,7 @@ imageHint: "Chocske vrchy mountains forest",
             },
             {
                   "name": "Kameň spravodlivosti",
-                  "text": "Helyi természeti látnivaló a Szalánci-hegységben.",
+                  "text": "Egy nagy sziklatömb a Szlanske-hegységben, amely az igazsághoz kötődik.",
                   "category": "landmark",
                   "coords": [
                         21.464938,
@@ -4697,7 +4697,7 @@ imageHint: "Chocske vrchy mountains forest",
             },
             {
                   "name": "Kameň spravodlivosti",
-                  "text": "O atracție naturală locală în Munții Slanské.",
+                  "text": "Un bloc mare de piatră în munții Slanské vrchy, asociat cu dreptatea.",
                   "category": "landmark",
                   "coords": [
                         21.464938,
@@ -4762,7 +4762,7 @@ imageHint: "Chocske vrchy mountains forest",
             },
             {
                   "name": "Kameň spravodlivosti",
-                  "text": "A local natural attraction in the Slanské Mountains.",
+                  "text": "A large boulder in the Slanské vrchy mountains, traditionally linked to justice.",
                   "category": "landmark",
                   "coords": [
                         21.464938,
@@ -5209,7 +5209,7 @@ imageHint: "Chocske vrchy mountains forest",
       "de": [
             {
                   "name": "Škapová",
-                  "text": "Ein Berggipfel in den Levoča-Bergen in der Slowakei.",
+                  "text": "Škapová ist ein Berggipfel in den Levocske Vrchy.",
                   "category": "landmark",
                   "coords": [
                         20.663686,
@@ -5236,7 +5236,7 @@ imageHint: "Chocske vrchy mountains forest",
             },
             {
                   "name": "Čiernohuzec",
-                  "text": "Ein Gipfel in den slowakischen Levoča-Bergen.",
+                  "text": "Čiernohuzec ist eine bewaldete Anhöhe in den Levocske Vrchy.",
                   "category": "landmark",
                   "coords": [
                         20.700228,
@@ -5247,7 +5247,7 @@ imageHint: "Chocske vrchy mountains forest",
       "hu": [
             {
                   "name": "Škapová",
-                  "text": "Hegycsúcs a szlovákiai Lőcsei-hegységben.",
+                  "text": "Škapová egy hegycsúcs a Levocskei-hegységben.",
                   "category": "landmark",
                   "coords": [
                         20.663686,
@@ -5274,7 +5274,7 @@ imageHint: "Chocske vrchy mountains forest",
             },
             {
                   "name": "Čiernohuzec",
-                  "text": "Hegycsúcs a szlovákiai Lőcsei-hegységben.",
+                  "text": "Čiernohuzec egy erdős domb a Levocskei-hegységben.",
                   "category": "landmark",
                   "coords": [
                         20.700228,
@@ -5285,7 +5285,7 @@ imageHint: "Chocske vrchy mountains forest",
       "ro": [
             {
                   "name": "Škapová",
-                  "text": "Un vârf muntos din Munții Levoča din Slovacia.",
+                  "text": "Škapová este un vârf montan în Munții Levocske.",
                   "category": "landmark",
                   "coords": [
                         20.663686,
@@ -5312,7 +5312,7 @@ imageHint: "Chocske vrchy mountains forest",
             },
             {
                   "name": "Čiernohuzec",
-                  "text": "Un vârf din Munții Levoča din Slovacia.",
+                  "text": "Čiernohuzec este o colină împădurită în Munții Levocske.",
                   "category": "landmark",
                   "coords": [
                         20.700228,
@@ -5323,7 +5323,7 @@ imageHint: "Chocske vrchy mountains forest",
       "en": [
             {
                   "name": "Škapová",
-                  "text": "A mountain peak in the Levoča Mountains of Slovakia.",
+                  "text": "Škapová is a mountain peak in the Levocske Vrchy range.",
                   "category": "landmark",
                   "coords": [
                         20.663686,
@@ -5350,7 +5350,7 @@ imageHint: "Chocske vrchy mountains forest",
             },
             {
                   "name": "Čiernohuzec",
-                  "text": "A mountain peak in the Slovak Levoča Mountains.",
+                  "text": "Čiernohuzec is a wooded hill in the Levocske Vrchy range.",
                   "category": "landmark",
                   "coords": [
                         20.700228,

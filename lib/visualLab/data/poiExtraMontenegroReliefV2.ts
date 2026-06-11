@@ -25,7 +25,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Laguna beach",
-                  "text": "Ein lokaler Küstenabschnitt am Milocer Plateau.",
+                  "text": "Lagunenstrand auf dem Milocer-Plateau, bekannt für seine ruhige Lagune.",
                   "category": "recreational",
                   "coords": [
                         18.850115,
@@ -43,7 +43,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Drobni pijesak",
-                  "text": "Ein abgelegener Strand mit feinem Kies und klarem Wasser.",
+                  "text": "Feinsandstrand auf dem Milocer-Plateau.",
                   "category": "recreational",
                   "coords": [
                         18.902366,
@@ -61,7 +61,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Kraljichina plazha",
-                  "text": "Ein exklusiver Strand in einer geschützten Bucht in der Nähe von Milocer.",
+                  "text": "Königinstrand, ein ehemaliges königliches Bad auf dem Milocer-Plateau.",
                   "category": "recreational",
                   "coords": [
                         18.89242,
@@ -79,7 +79,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Beach House",
-                  "text": "Ein Strandresort auf dem malerischen Milocer-Plateau.",
+                  "text": "Strandclub mit Restaurant auf dem Milocer-Plateau.",
                   "category": "recreational",
                   "coords": [
                         18.862935,
@@ -153,7 +153,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Laguna beach",
-                  "text": "Helyi tengerparti szakasz a Milocer-fennsíkon.",
+                  "text": "Lagúna strand a Milocer-fennsíkon, nyugodt lagúnájáról ismert.",
                   "category": "recreational",
                   "coords": [
                         18.850115,
@@ -171,7 +171,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Drobni pijesak",
-                  "text": "Eldugott strand finom kaviccsal és tiszta vízzel.",
+                  "text": "Finom homokos strand a Milocer-fennsíkon.",
                   "category": "recreational",
                   "coords": [
                         18.902366,
@@ -189,7 +189,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Kraljichina plazha",
-                  "text": "Exkluzív strand egy védett öbölben, Milocer közelében.",
+                  "text": "Királyi strand, egykori királyi fürdő a Milocer-fennsíkon.",
                   "category": "recreational",
                   "coords": [
                         18.89242,
@@ -207,7 +207,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Beach House",
-                  "text": "A festői Milocer-fennsíkon található tengerparti üdülőhely.",
+                  "text": "Strandklub étteremmel a Milocer-fennsíkon.",
                   "category": "recreational",
                   "coords": [
                         18.862935,
@@ -281,7 +281,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Laguna beach",
-                  "text": "O porțiune de coastă locală pe platoul Milocer.",
+                  "text": "Plajă cu lagună pe Platoul Milocer, cunoscută pentru laguna sa calmă.",
                   "category": "recreational",
                   "coords": [
                         18.850115,
@@ -299,7 +299,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Drobni pijesak",
-                  "text": "O plajă retrasă cu pietriș fin și apă limpede.",
+                  "text": "Plajă cu nisip fin pe Platoul Milocer.",
                   "category": "recreational",
                   "coords": [
                         18.902366,
@@ -317,7 +317,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Plaja reginei",
-                  "text": "O plajă exclusivistă situată într-un golf protejat lângă Milocer.",
+                  "text": "Plaja Reginei, fost loc de scăldat regal pe Platoul Milocer.",
                   "category": "recreational",
                   "coords": [
                         18.89242,
@@ -335,7 +335,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Beach House",
-                  "text": "O stațiune de plajă situată pe pitoreasca platformă Milocer.",
+                  "text": "Club de plajă cu restaurant pe Platoul Milocer.",
                   "category": "recreational",
                   "coords": [
                         18.862935,
@@ -409,7 +409,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Laguna beach",
-                  "text": "A local coastal stretch on the Milocer Plateau.",
+                  "text": "Laguna beach on the Milocer plateau, known for its calm lagoon.",
                   "category": "recreational",
                   "coords": [
                         18.850115,
@@ -427,7 +427,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Drobni pijesak",
-                  "text": "A secluded beach with fine pebbles and clear water.",
+                  "text": "Fine sand beach on the Milocer plateau.",
                   "category": "recreational",
                   "coords": [
                         18.902366,
@@ -445,7 +445,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Queen's beach",
-                  "text": "An exclusive beach located in a sheltered cove near Milocer.",
+                  "text": "Queen's beach, a former royal bathing spot on the Milocer plateau.",
                   "category": "recreational",
                   "coords": [
                         18.89242,
@@ -463,7 +463,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Beach House",
-                  "text": "A beach resort situated on the scenic Milocer Plateau.",
+                  "text": "Beach club with restaurant on the Milocer plateau.",
                   "category": "recreational",
                   "coords": [
                         18.862935,
@@ -565,7 +565,7 @@ export const montenegroReliefV2: POI[] = [
       "de": [
             {
                   "name": "Rahman kula",
-                  "text": "Ein Berggipfel im Gebiet des Vraca-Massivs.",
+                  "text": "Felsturm Rahman kula nahe dem Gipfel Vraca, Montenegro.",
                   "category": "landmark",
                   "coords": [
                         19.362768,
@@ -574,7 +574,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Šejtan kula",
-                  "text": "Ein Gipfel in der Gebirgsregion des Vraca Peak.",
+                  "text": "Felsformation Šejtan kula (Satans Turm) nahe dem Gipfel Vraca, Montenegro.",
                   "category": "landmark",
                   "coords": [
                         19.365085,
@@ -583,7 +583,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Đulino brdo",
-                  "text": "Ein markanter Berggipfel in der Nähe des Vraca Peak.",
+                  "text": "Hügel Đulino brdo nahe dem Gipfel Vraca, Montenegro.",
                   "category": "landmark",
                   "coords": [
                         19.360664,
@@ -592,7 +592,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Borova glava",
-                  "text": "Ein Gipfel im Gebirgszug des Vraca-Massivs.",
+                  "text": "Kiefernbewachsener Hügel Borova glava nahe dem Gipfel Vraca, Montenegro.",
                   "category": "landmark",
                   "coords": [
                         19.344295,
@@ -610,7 +610,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Đuraševac",
-                  "text": "Ein Gipfel in den Höhenlagen der Vraca-Region.",
+                  "text": "Wahrzeichen Đuraševac nahe dem Gipfel Vraca, Montenegro.",
                   "category": "landmark",
                   "coords": [
                         19.374392,
@@ -628,7 +628,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Ljeljenak",
-                  "text": "Ein Gipfel in der Gebirgs landscapeschaft des Vraca Peak.",
+                  "text": "Wahrzeichen Ljeljenak nahe dem Gipfel Vraca, Montenegro.",
                   "category": "landmark",
                   "coords": [
                         19.412413,
@@ -639,7 +639,7 @@ export const montenegroReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Rahman kula",
-                  "text": "Hegycsúcs a Vraca-masszívum területén.",
+                  "text": "Rahman kula szikla torony a Vraca csúcs közelében, Montenegróban.",
                   "category": "landmark",
                   "coords": [
                         19.362768,
@@ -648,7 +648,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Šejtan kula",
-                  "text": "Egy hegycsúcs a Vraca-csúcs hegyvidéki régiójában.",
+                  "text": "Šejtan kula (Sátán tornya) sziklaformáció a Vraca csúcs közelében, Montenegróban.",
                   "category": "landmark",
                   "coords": [
                         19.365085,
@@ -657,7 +657,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Đulino brdo",
-                  "text": "Jellegzetes hegycsúcs a Vraca-csúcs közelében.",
+                  "text": "Đulino brdo domb a Vraca csúcs közelében, Montenegróban.",
                   "category": "landmark",
                   "coords": [
                         19.360664,
@@ -666,7 +666,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Borova glava",
-                  "text": "Hegycsúcs a Vraca-masszívum hegyláncában.",
+                  "text": "Borova glava fenyővel borított domb a Vraca csúcs közelében, Montenegróban.",
                   "category": "landmark",
                   "coords": [
                         19.344295,
@@ -684,7 +684,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Đuraševac",
-                  "text": "Hegycsúcs a Vraca-régió magaslataiban.",
+                  "text": "Đuraševac nevezetesség a Vraca csúcs közelében, Montenegróban.",
                   "category": "landmark",
                   "coords": [
                         19.374392,
@@ -702,7 +702,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Ljeljenak",
-                  "text": "Hegycsúcs a Vraca-csúcs hegyvidéki táján.",
+                  "text": "Ljeljenak nevezetesség a Vraca csúcs közelében, Montenegróban.",
                   "category": "landmark",
                   "coords": [
                         19.412413,
@@ -713,7 +713,7 @@ export const montenegroReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Rahman kula",
-                  "text": "Un vârf muntos în zona masivului Vraca.",
+                  "text": "Turn de stâncă Rahman kula lângă Vârful Vraca, Muntenegru.",
                   "category": "landmark",
                   "coords": [
                         19.362768,
@@ -722,7 +722,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Šejtan kula",
-                  "text": "Un vârf în regiunea montană a vârfului Vraca.",
+                  "text": "Formațiune stâncoasă Šejtan kula (Turnul Diavolului) lângă Vârful Vraca, Muntenegru.",
                   "category": "landmark",
                   "coords": [
                         19.365085,
@@ -731,7 +731,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Đulino brdo",
-                  "text": "Un vârf muntos proeminent în apropiere de Vraca Peak.",
+                  "text": "Dealul Đulino brdo lângă Vârful Vraca, Muntenegru.",
                   "category": "landmark",
                   "coords": [
                         19.360664,
@@ -740,7 +740,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Borova glava",
-                  "text": "Un vârf în lanțul muntos al masivului Vraca.",
+                  "text": "Deal acoperit de pini Borova glava lângă Vârful Vraca, Muntenegru.",
                   "category": "landmark",
                   "coords": [
                         19.344295,
@@ -758,7 +758,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Đuraševac",
-                  "text": "Un vârf în zonele înalte ale regiunii Vraca.",
+                  "text": "Reper Đuraševac lângă Vârful Vraca, Muntenegru.",
                   "category": "landmark",
                   "coords": [
                         19.374392,
@@ -776,7 +776,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Ljeljenak",
-                  "text": "Un vârf în peisajul montan al vârfului Vraca.",
+                  "text": "Reper Ljeljenak lângă Vârful Vraca, Muntenegru.",
                   "category": "landmark",
                   "coords": [
                         19.412413,
@@ -787,7 +787,7 @@ export const montenegroReliefV2: POI[] = [
       "en": [
             {
                   "name": "Rahman kula",
-                  "text": "A mountain peak in the area of the Vraca massif.",
+                  "text": "Rock tower Rahman kula near Vraca Peak, Montenegro.",
                   "category": "landmark",
                   "coords": [
                         19.362768,
@@ -796,7 +796,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Šejtan kula",
-                  "text": "A peak in the mountainous region of the Vraca Peak.",
+                  "text": "Rock formation Šejtan kula (Satan's Tower) near Vraca Peak, Montenegro.",
                   "category": "landmark",
                   "coords": [
                         19.365085,
@@ -805,7 +805,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Đulino brdo",
-                  "text": "A prominent mountain peak near the Vraca Peak.",
+                  "text": "Hill Đulino brdo near Vraca Peak, Montenegro.",
                   "category": "landmark",
                   "coords": [
                         19.360664,
@@ -814,7 +814,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Borova glava",
-                  "text": "A peak in the mountain range of the Vraca massif.",
+                  "text": "Pine-covered hill Borova glava near Vraca Peak, Montenegro.",
                   "category": "landmark",
                   "coords": [
                         19.344295,
@@ -832,7 +832,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Đuraševac",
-                  "text": "A peak in the high altitudes of the Vraca region.",
+                  "text": "Landmark Đuraševac near Vraca Peak, Montenegro.",
                   "category": "landmark",
                   "coords": [
                         19.374392,
@@ -850,7 +850,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Ljeljenak",
-                  "text": "A peak in the mountain landscape of the Vraca Peak.",
+                  "text": "Landmark Ljeljenak near Vraca Peak, Montenegro.",
                   "category": "landmark",
                   "coords": [
                         19.412413,
@@ -1528,7 +1528,7 @@ export const montenegroReliefV2: POI[] = [
       "de": [
             {
                   "name": "Lukanje Čelo",
-                  "text": "Ein Berggipfel im Vjeternik-Gebirgszug.",
+                  "text": "Gipfel Lukanje Čelo auf dem Vjeternik-Grat, Montenegro.",
                   "category": "landmark",
                   "coords": [
                         19.319042,
@@ -1537,7 +1537,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Lubanja glava",
-                  "text": "Ein markanter Gipfel in der Vjeternik-Region.",
+                  "text": "Eine markante Kalksteinformation auf dem Vjeternik-Kamm.",
                   "category": "landmark",
                   "coords": [
                         19.303673,
@@ -1546,7 +1546,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Korita",
-                  "text": "Eine natürliche Quelle am Vjeternik-Gebirgszug.",
+                  "text": "Eine landschaftlich reizvolle Karstsenke auf dem Vjeternik-Kamm.",
                   "category": "landmark",
                   "coords": [
                         19.335691,
@@ -1557,7 +1557,7 @@ export const montenegroReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Lukanje Čelo",
-                  "text": "Hegycsúcs a Vjeternik-hegyvonulatban.",
+                  "text": "Lukanje Čelo csúcs a Vjeternik-gerincen, Montenegróban.",
                   "category": "landmark",
                   "coords": [
                         19.319042,
@@ -1566,7 +1566,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Lubanja glava",
-                  "text": "Jellegzetes hegycsúcs a Vjeternik-régióban.",
+                  "text": "Egy feltűnő mészkő sziklaformáció a Vjeternik-gerincen.",
                   "category": "landmark",
                   "coords": [
                         19.303673,
@@ -1575,7 +1575,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Korita",
-                  "text": "Természetes forrás a Vjeternik-hegyvonulatnál.",
+                  "text": "Egy festői karsztmélyedés a Vjeternik-gerincen.",
                   "category": "landmark",
                   "coords": [
                         19.335691,
@@ -1586,7 +1586,7 @@ export const montenegroReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Lukanje Čelo",
-                  "text": "Un vârf muntos în lanțul Vjeternik.",
+                  "text": "Vârf Lukanje Čelo pe Creasta Vjeternik, Muntenegru.",
                   "category": "landmark",
                   "coords": [
                         19.319042,
@@ -1595,7 +1595,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Lubanja glava",
-                  "text": "Un vârf proeminent în regiunea Vjeternik.",
+                  "text": "O formațiune proeminentă de calcar pe creasta Vjeternik.",
                   "category": "landmark",
                   "coords": [
                         19.303673,
@@ -1604,7 +1604,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Korita",
-                  "text": "Un izvor natural situat în zona culmii Vjeternik.",
+                  "text": "O depresiune carstică pitorească pe creasta Vjeternik.",
                   "category": "landmark",
                   "coords": [
                         19.335691,
@@ -1615,7 +1615,7 @@ export const montenegroReliefV2: POI[] = [
       "en": [
             {
                   "name": "Lukanje Čelo",
-                  "text": "A mountain peak in the Vjeternik ridge.",
+                  "text": "Peak Lukanje Čelo on the Vjeternik Ridge, Montenegro.",
                   "category": "landmark",
                   "coords": [
                         19.319042,
@@ -1624,7 +1624,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Lubanja glava",
-                  "text": "A prominent peak in the Vjeternik region.",
+                  "text": "A prominent limestone rock formation on Vjeternik Ridge.",
                   "category": "landmark",
                   "coords": [
                         19.303673,
@@ -1633,7 +1633,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Korita",
-                  "text": "A natural spring located along the Vjeternik ridge.",
+                  "text": "A scenic karst depression on Vjeternik Ridge.",
                   "category": "landmark",
                   "coords": [
                         19.335691,
@@ -1690,7 +1690,7 @@ export const montenegroReliefV2: POI[] = [
       "de": [
             {
                   "name": "Treskavac",
-                  "text": "Ein Berggipfel in der Region Lise.",
+                  "text": "Ein schroffer Gipfel auf dem Lise-Gipfel.",
                   "category": "landmark",
                   "coords": [
                         19.525839,
@@ -1710,7 +1710,7 @@ export const montenegroReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Treskavac",
-                  "text": "Hegycsúcs Lise régiójában.",
+                  "text": "Egy zord csúcs a Lise-csúcson.",
                   "category": "landmark",
                   "coords": [
                         19.525839,
@@ -1730,7 +1730,7 @@ export const montenegroReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Treskavac",
-                  "text": "Un vârf montan situat în regiunea Lise.",
+                  "text": "Un vârf accidentat pe Vârful Lise.",
                   "category": "landmark",
                   "coords": [
                         19.525839,
@@ -1750,7 +1750,7 @@ export const montenegroReliefV2: POI[] = [
       "en": [
             {
                   "name": "Treskavac",
-                  "text": "A mountain peak located in the Lise region.",
+                  "text": "A rugged peak on Lise Peak.",
                   "category": "landmark",
                   "coords": [
                         19.525839,
@@ -2095,7 +2095,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Lubanja glava",
-                  "text": "Der Lubanja glava ist eine markante Erhebung in der montenegrinischen Gebirgslandschaft.",
+                  "text": "Ein felsiger Gipfel auf dem Kapa-Moračka-Kamm.",
                   "category": "landmark",
                   "coords": [
                         19.303673,
@@ -2133,7 +2133,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Lubanja glava",
-                  "text": "A Lubanja glava egy jellegzetes hegycsúcs a montenegrói hegyvidéken.",
+                  "text": "Egy sziklás csúcs a Kapa Moračka-gerincen.",
                   "category": "landmark",
                   "coords": [
                         19.303673,
@@ -2171,7 +2171,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Lubanja glava",
-                  "text": "Lubanja glava este o culme montană proeminentă din peisajul montenegrean.",
+                  "text": "Un vârf stâncos pe creasta Kapa Moracka.",
                   "category": "landmark",
                   "coords": [
                         19.303673,
@@ -2209,7 +2209,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Lubanja glava",
-                  "text": "Lubanja glava is a prominent mountain peak in the Montenegrin highlands.",
+                  "text": "A rocky summit on Kapa Moracka ridge.",
                   "category": "landmark",
                   "coords": [
                         19.303673,
@@ -2635,7 +2635,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Bavan",
-                  "text": "Ein markanter Gipfel in der bergigen Gegend von Velji Vrh.",
+                  "text": "Eine markante Felssäule am Velji-Vrh-Gipfel.",
                   "category": "landmark",
                   "coords": [
                         19.395731,
@@ -2673,7 +2673,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Bavan",
-                  "text": "Kiemelkedő hegycsúcs Velji Vrh hegyvidéki területén.",
+                  "text": "Egy jellegzetes sziklászlop a Velji Vrh-csúcson.",
                   "category": "landmark",
                   "coords": [
                         19.395731,
@@ -2711,7 +2711,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Bavan",
-                  "text": "Un vârf proeminent în zona muntoasă Velji Vrh.",
+                  "text": "Un stâlp de piatră distinctiv pe Vârful Velji Vrh.",
                   "category": "landmark",
                   "coords": [
                         19.395731,
@@ -2749,7 +2749,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Bavan",
-                  "text": "A prominent peak in the mountainous area of Velji Vrh.",
+                  "text": "A distinctive rock pillar on Velji Vrh Peak.",
                   "category": "landmark",
                   "coords": [
                         19.395731,
@@ -3166,7 +3166,7 @@ export const montenegroReliefV2: POI[] = [
       "de": [
             {
                   "name": "Tvrđava Tabija",
-                  "text": "Eine historische Festung auf einem Hügel über Sutomore.",
+                  "text": "Österreichische Festung aus dem 19. Jahrhundert auf einem Hügel über der Adriaküste bei Sutomore.",
                   "category": "castle",
                   "coords": [
                         19.04372,
@@ -3193,7 +3193,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Nudistička plaža",
-                  "text": "Ein lokaler Strandabschnitt, der für FKK-Besucher ausgewiesen ist.",
+                  "text": "FKK-Strand am Sutorman-Pass mit Blick auf die Berge.",
                   "category": "recreational",
                   "coords": [
                         19.021226,
@@ -3202,7 +3202,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Healthy mud/clay beach",
-                  "text": "Ein Strand, der für seinen mineralreichen Heilschlamm bekannt ist.",
+                  "text": "Strand mit natürlichen Schlamm- und Tonablagerungen für Heilbehandlungen am Sutorman-Pass.",
                   "category": "recreational",
                   "coords": [
                         19.025951,
@@ -3220,7 +3220,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Štrbina",
-                  "text": "Ein ruhiger Kieselstrand in einer kleinen Bucht.",
+                  "text": "Štrbina-Strand, eine felsige Bucht am Sutorman-Pass.",
                   "category": "recreational",
                   "coords": [
                         19.029163,
@@ -3229,7 +3229,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Plaža Maljevik",
-                  "text": "Ein naturbelassener Kieselstrand, umgeben von Pinienwäldern.",
+                  "text": "Maljevik-Strand, ein Sandstrand am Fuße des Sutorman-Passes.",
                   "category": "recreational",
                   "coords": [
                         19.023393,
@@ -3240,7 +3240,7 @@ export const montenegroReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Tvrđava Tabija",
-                  "text": "Történelmi erőd egy dombon Sutomore felett.",
+                  "text": "19. századi osztrák erőd egy dombon az Adriai-tenger partja felett Sutomore közelében.",
                   "category": "castle",
                   "coords": [
                         19.04372,
@@ -3267,7 +3267,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Nudistička plaža",
-                  "text": "Helyi strandszakasz, amelyet nudisták számára jelöltek ki.",
+                  "text": "Nudista strand a Sutorman-hágónál, hegyi kilátással.",
                   "category": "recreational",
                   "coords": [
                         19.021226,
@@ -3276,7 +3276,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Healthy mud/clay beach",
-                  "text": "Ásványi anyagokban gazdag gyógyiszapjáról ismert strand.",
+                  "text": "Strand természetes iszap- és agyaglerakódásokkal gyógykezelésekhez a Sutorman-hágónál.",
                   "category": "recreational",
                   "coords": [
                         19.025951,
@@ -3294,7 +3294,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Štrbina",
-                  "text": "Nyugodt kavicsos strand egy kis öbölben.",
+                  "text": "Štrbina strand, egy sziklás öböl a Sutorman-hágónál.",
                   "category": "recreational",
                   "coords": [
                         19.029163,
@@ -3303,7 +3303,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Plaža Maljevik",
-                  "text": "Természetes kavicsos strand fenyőerdőkkel körülvéve.",
+                  "text": "Maljevik strand, egy homokos strand a Sutorman-hágó lábánál.",
                   "category": "recreational",
                   "coords": [
                         19.023393,
@@ -3314,7 +3314,7 @@ export const montenegroReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Tvrđava Tabija",
-                  "text": "O cetate istorică pe un deal care domină localitatea Sutomore.",
+                  "text": "Fortăreață austriacă din secolul al XIX-lea pe un deal deasupra coastei Adriatice lângă Sutomore.",
                   "category": "castle",
                   "coords": [
                         19.04372,
@@ -3341,7 +3341,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Nudistička plaža",
-                  "text": "O secțiune de plajă locală destinată nudiștilor.",
+                  "text": "Plajă nudistă lângă Pasul Sutorman, cu vedere la munți.",
                   "category": "recreational",
                   "coords": [
                         19.021226,
@@ -3350,7 +3350,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Healthy mud/clay beach",
-                  "text": "O plajă cunoscută pentru nămolul său terapeutic bogat în minerale.",
+                  "text": "Plajă cu depozite naturale de nămol și argilă pentru tratamente de sănătate la Pasul Sutorman.",
                   "category": "recreational",
                   "coords": [
                         19.025951,
@@ -3368,7 +3368,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Štrbina",
-                  "text": "O plajă liniștită cu pietriș situată într-un golf mic.",
+                  "text": "Plaja Štrbina, un golf stâncos la Pasul Sutorman.",
                   "category": "recreational",
                   "coords": [
                         19.029163,
@@ -3377,7 +3377,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Plaža Maljevik",
-                  "text": "O plajă de pietriș naturală înconjurată de păduri de pini.",
+                  "text": "Plaja Maljevik, o plajă nisipoasă la poalele Pasului Sutorman.",
                   "category": "recreational",
                   "coords": [
                         19.023393,
@@ -3388,7 +3388,7 @@ export const montenegroReliefV2: POI[] = [
       "en": [
             {
                   "name": "Tvrđava Tabija",
-                  "text": "A historic fortress on a hill overlooking Sutomore.",
+                  "text": "19th-century Austrian fortress on a hill above the Adriatic coast near Sutomore.",
                   "category": "castle",
                   "coords": [
                         19.04372,
@@ -3415,7 +3415,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Nudistička plaža",
-                  "text": "A local beach section designated for nudist visitors.",
+                  "text": "Nudist beach near Sutorman Pass, with views of the mountains.",
                   "category": "recreational",
                   "coords": [
                         19.021226,
@@ -3424,7 +3424,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Healthy mud/clay beach",
-                  "text": "A beach known for its mineral-rich therapeutic mud.",
+                  "text": "Beach with natural mud and clay deposits for health treatments, at Sutorman Pass.",
                   "category": "recreational",
                   "coords": [
                         19.025951,
@@ -3442,7 +3442,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Štrbina",
-                  "text": "A quiet pebble beach located in a small bay.",
+                  "text": "Štrbina beach, a rocky cove at Sutorman Pass.",
                   "category": "recreational",
                   "coords": [
                         19.029163,
@@ -3451,7 +3451,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Maljevik Beach",
-                  "text": "A natural pebble beach surrounded by pine forests.",
+                  "text": "Maljevik beach, a sandy beach at the foot of Sutorman Pass.",
                   "category": "recreational",
                   "coords": [
                         19.023393,
@@ -3553,7 +3553,7 @@ export const montenegroReliefV2: POI[] = [
       "de": [
             {
                   "name": "Sedlena greda",
-                  "text": "Ein markanter Berggipfel in der Nähe des Vlaska Peak.",
+                  "text": "Ein sattelförmiger Grat auf dem Vlaška-Gipfel.",
                   "category": "landmark",
                   "coords": [
                         19.053623,
@@ -3571,7 +3571,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Ogoreli krš",
-                  "text": "Ein Berggipfel in der Nähe des Vlaska Peak in Montenegro.",
+                  "text": "Eine verbrannte Karstformation auf dem Vlaška-Gipfel.",
                   "category": "landmark",
                   "coords": [
                         19.059026,
@@ -3580,7 +3580,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Uvita greda",
-                  "text": "Ein weiterer markanter Gipfel in der Gegend des Vlaska Peak.",
+                  "text": "Ein verdrehter Felsgrat auf dem Vlaška-Gipfel.",
                   "category": "landmark",
                   "coords": [
                         19.052002,
@@ -3589,7 +3589,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Bandijerna",
-                  "text": "Ein hoher Berggipfel in der Nähe des Vlaska Peak.",
+                  "text": "Eine markante Felsformation auf dem Vlaška-Gipfel.",
                   "category": "landmark",
                   "coords": [
                         19.051661,
@@ -3598,7 +3598,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Ravnisava (Ranisava)",
-                  "text": "Ein Berggipfel in der Region um den Vlaska Peak.",
+                  "text": "Ein flacher Gipfelgrat auf dem Vlaška-Gipfel.",
                   "category": "landmark",
                   "coords": [
                         19.072302,
@@ -3607,7 +3607,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Vjetreno brdo",
-                  "text": "Ein Gipfel in der Gebirgslandschaft nahe dem Vlaska Peak.",
+                  "text": "Ein windiger Hügel auf dem Vlaška-Gipfel.",
                   "category": "landmark",
                   "coords": [
                         19.034205,
@@ -3616,7 +3616,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Lojanik",
-                  "text": "Ein Berggipfel in der Nähe des Vlaska Peak in den Dinarischen Alpen.",
+                  "text": "Ein felsiger Aufschluss auf dem Vlaška-Gipfel.",
                   "category": "landmark",
                   "coords": [
                         19.007865,
@@ -3627,7 +3627,7 @@ export const montenegroReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Sedlena greda",
-                  "text": "Jellegzetes hegycsúcs a Vlaska-csúcs közelében.",
+                  "text": "Egy nyereg alakú gerinc a Vlaška-csúcson.",
                   "category": "landmark",
                   "coords": [
                         19.053623,
@@ -3645,7 +3645,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Ogoreli krš",
-                  "text": "Hegycsúcs a Vlaska-csúcs közelében, Montenegróban.",
+                  "text": "Egy égett karsztképződmény a Vlaška-csúcson.",
                   "category": "landmark",
                   "coords": [
                         19.059026,
@@ -3654,7 +3654,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Uvita greda",
-                  "text": "Egy másik jellegzetes csúcs a Vlaska-csúcs térségében.",
+                  "text": "Egy csavart szikla gerinc a Vlaška-csúcson.",
                   "category": "landmark",
                   "coords": [
                         19.052002,
@@ -3663,7 +3663,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Bandijerna",
-                  "text": "Magas hegycsúcs a Vlaska-csúcs közelében.",
+                  "text": "Egy feltűnő sziklaformáció a Vlaška-csúcson.",
                   "category": "landmark",
                   "coords": [
                         19.051661,
@@ -3672,7 +3672,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Ravnisava (Ranisava)",
-                  "text": "Hegycsúcs a Vlaska-csúcs környéki régióban.",
+                  "text": "Egy lapos tetejű gerinc a Vlaška-csúcson.",
                   "category": "landmark",
                   "coords": [
                         19.072302,
@@ -3681,7 +3681,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Vjetreno brdo",
-                  "text": "Hegycsúcs a Vlaska-csúcs közeli hegyvidéki tájon.",
+                  "text": "Egy szeles domb a Vlaška-csúcson.",
                   "category": "landmark",
                   "coords": [
                         19.034205,
@@ -3690,7 +3690,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Lojanik",
-                  "text": "Hegycsúcs a Vlaska-csúcs közelében a Dinári-Alpokban.",
+                  "text": "Egy sziklás kibukkanás a Vlaška-csúcson.",
                   "category": "landmark",
                   "coords": [
                         19.007865,
@@ -3701,7 +3701,7 @@ export const montenegroReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Sedlena greda",
-                  "text": "Un vârf montan proeminent în apropiere de Vlaska Peak.",
+                  "text": "O creastă în formă de șa pe Vârful Vlaška.",
                   "category": "landmark",
                   "coords": [
                         19.053623,
@@ -3719,7 +3719,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Ogoreli krš",
-                  "text": "Un vârf montan lângă Vlaska Peak în Muntenegru.",
+                  "text": "O formațiune carstică arsă pe Vârful Vlaška.",
                   "category": "landmark",
                   "coords": [
                         19.059026,
@@ -3728,7 +3728,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Uvita greda",
-                  "text": "Un alt vârf proeminent în zona Vlaska Peak.",
+                  "text": "O creastă stâncoasă răsucită pe Vârful Vlaška.",
                   "category": "landmark",
                   "coords": [
                         19.052002,
@@ -3737,7 +3737,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Bandijerna",
-                  "text": "Un vârf montan înalt în apropiere de Vlaska Peak.",
+                  "text": "O formațiune stâncoasă proeminentă pe Vârful Vlaška.",
                   "category": "landmark",
                   "coords": [
                         19.051661,
@@ -3746,7 +3746,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Ravnisava (Ranisava)",
-                  "text": "Un vârf montan în regiunea din jurul Vlaska Peak.",
+                  "text": "O creastă cu vârf plat pe Vârful Vlaška.",
                   "category": "landmark",
                   "coords": [
                         19.072302,
@@ -3755,7 +3755,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Vjetreno brdo",
-                  "text": "Un vârf în peisajul montan de lângă Vlaska Peak.",
+                  "text": "Un deal bătut de vânt pe Vârful Vlaška.",
                   "category": "landmark",
                   "coords": [
                         19.034205,
@@ -3764,7 +3764,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Lojanik",
-                  "text": "Un vârf montan lângă Vlaska Peak în Alpii Dinarici.",
+                  "text": "Un afloriment stâncos pe Vârful Vlaška.",
                   "category": "landmark",
                   "coords": [
                         19.007865,
@@ -3775,7 +3775,7 @@ export const montenegroReliefV2: POI[] = [
       "en": [
             {
                   "name": "Sedlena greda",
-                  "text": "A prominent mountain peak near Vlaska Peak.",
+                  "text": "A saddle-shaped ridge on Vlaška Peak.",
                   "category": "landmark",
                   "coords": [
                         19.053623,
@@ -3793,7 +3793,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Ogoreli krš",
-                  "text": "A mountain peak near Vlaska Peak in Montenegro.",
+                  "text": "A burnt karst formation on Vlaška Peak.",
                   "category": "landmark",
                   "coords": [
                         19.059026,
@@ -3802,7 +3802,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Uvita greda",
-                  "text": "Another prominent peak in the Vlaska Peak area.",
+                  "text": "A twisted rock ridge on Vlaška Peak.",
                   "category": "landmark",
                   "coords": [
                         19.052002,
@@ -3811,7 +3811,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Bandijerna",
-                  "text": "A high mountain peak near Vlaska Peak.",
+                  "text": "A prominent rock formation on Vlaška Peak.",
                   "category": "landmark",
                   "coords": [
                         19.051661,
@@ -3820,7 +3820,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Ravnisava (Ranisava)",
-                  "text": "A mountain peak in the region around Vlaska Peak.",
+                  "text": "A flat-topped ridge on Vlaška Peak.",
                   "category": "landmark",
                   "coords": [
                         19.072302,
@@ -3829,7 +3829,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Vjetreno brdo",
-                  "text": "A peak in the mountain landscape near Vlaska Peak.",
+                  "text": "A windswept hill on Vlaška Peak.",
                   "category": "landmark",
                   "coords": [
                         19.034205,
@@ -3838,7 +3838,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Lojanik",
-                  "text": "A mountain peak near Vlaska Peak in the Dinaric Alps.",
+                  "text": "A rocky outcrop on Vlaška Peak.",
                   "category": "landmark",
                   "coords": [
                         19.007865,
@@ -4615,7 +4615,7 @@ export const montenegroReliefV2: POI[] = [
       "de": [
             {
                   "name": "Fuštićev vrh",
-                  "text": "Ein Berggipfel im Gebiet des Brada Peak.",
+                  "text": "Ein Gipfel auf dem Brada-Gipfelkamm.",
                   "category": "landmark",
                   "coords": [
                         19.453296,
@@ -4624,7 +4624,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Kuk",
-                  "text": "Ein Gipfel in der bergigen Landschaft von Montenegro.",
+                  "text": "Ein scharfer Felsenturm auf dem Brada-Gipfel.",
                   "category": "landmark",
                   "coords": [
                         19.446043,
@@ -4633,7 +4633,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Borova glava",
-                  "text": "Ein markanter Berggipfel in der Region Brada.",
+                  "text": "Ein kiefernbewachsener Gipfel auf dem Brada-Gipfel.",
                   "category": "landmark",
                   "coords": [
                         19.479045,
@@ -4642,7 +4642,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Konjska lastva",
-                  "text": "Ein weiterer Gipfel in den Bergen rund um den Brada Peak.",
+                  "text": "Eine pferdeförmige Felsformation auf dem Brada-Gipfel.",
                   "category": "landmark",
                   "coords": [
                         19.426345,
@@ -4669,7 +4669,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Studeni vrh",
-                  "text": "Ein Berggipfel in der Gebirgsregion von Montenegro.",
+                  "text": "Ein kalter, exponierter Gipfel auf dem Brada-Gipfel.",
                   "category": "landmark",
                   "coords": [
                         19.447995,
@@ -4678,7 +4678,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Galev krš",
-                  "text": "Ein Aussichtspunkt in der Nähe des Brada Peak.",
+                  "text": "Galev krš ist eine Kalkstein-Karstformation auf dem Brada-Gipfel.",
                   "category": "natural",
                   "coords": [
                         19.435302,
@@ -4689,7 +4689,7 @@ export const montenegroReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Fuštićev vrh",
-                  "text": "Hegycsúcs a Brada-csúcs vidékén.",
+                  "text": "Egy csúcs a Brada-gerincen.",
                   "category": "landmark",
                   "coords": [
                         19.453296,
@@ -4698,7 +4698,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Kuk",
-                  "text": "Hegycsúcs Montenegró hegyvidéki táján.",
+                  "text": "Egy éles sziklatorony a Brada-csúcson.",
                   "category": "landmark",
                   "coords": [
                         19.446043,
@@ -4707,7 +4707,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Borova glava",
-                  "text": "Jellegzetes hegycsúcs a Brada régióban.",
+                  "text": "Egy fenyőkkel borított csúcs a Brada-csúcson.",
                   "category": "landmark",
                   "coords": [
                         19.479045,
@@ -4716,7 +4716,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Konjska lastva",
-                  "text": "Egy újabb csúcs a Brada-csúcs körüli hegyekben.",
+                  "text": "Egy ló alakú sziklaformáció a Brada-csúcson.",
                   "category": "landmark",
                   "coords": [
                         19.426345,
@@ -4743,7 +4743,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Studeni vrh",
-                  "text": "Hegycsúcs Montenegró hegyvidéki régiójában.",
+                  "text": "Egy hideg, kitett csúcs a Brada-csúcson.",
                   "category": "landmark",
                   "coords": [
                         19.447995,
@@ -4752,7 +4752,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Galev krš",
-                  "text": "Kilátópont a Brada-csúcs közelében.",
+                  "text": "A Galev krš mészkő karsztképződmény a Brada-csúcson.",
                   "category": "natural",
                   "coords": [
                         19.435302,
@@ -4763,7 +4763,7 @@ export const montenegroReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Fuštićev vrh",
-                  "text": "Un vârf muntos în zona vârfului Brada.",
+                  "text": "Un vârf pe creasta Brada.",
                   "category": "landmark",
                   "coords": [
                         19.453296,
@@ -4772,7 +4772,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Kuk",
-                  "text": "Un vârf în peisajul montan al Muntenegrului.",
+                  "text": "Un turn de stâncă ascuțit pe Vârful Brada.",
                   "category": "landmark",
                   "coords": [
                         19.446043,
@@ -4781,7 +4781,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Borova glava",
-                  "text": "Un vârf muntos proeminent în regiunea Brada.",
+                  "text": "Un vârf acoperit de pini pe Vârful Brada.",
                   "category": "landmark",
                   "coords": [
                         19.479045,
@@ -4790,7 +4790,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Konjska lastva",
-                  "text": "Un alt vârf în munții din jurul vârfului Brada.",
+                  "text": "O formațiune stâncoasă în formă de cal pe Vârful Brada.",
                   "category": "landmark",
                   "coords": [
                         19.426345,
@@ -4817,7 +4817,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Studeni vrh",
-                  "text": "Un vârf muntos în regiunea montană a Muntenegrului.",
+                  "text": "Un vârf rece și expus pe Vârful Brada.",
                   "category": "landmark",
                   "coords": [
                         19.447995,
@@ -4826,7 +4826,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Galev krš",
-                  "text": "Un punct de belvedere în apropiere de vârful Brada.",
+                  "text": "Galev krš este o formațiune carstică de calcar pe Vârful Brada.",
                   "category": "natural",
                   "coords": [
                         19.435302,
@@ -4837,7 +4837,7 @@ export const montenegroReliefV2: POI[] = [
       "en": [
             {
                   "name": "Fuštićev vrh",
-                  "text": "A mountain peak in the Brada Peak area.",
+                  "text": "A peak on Brada Peak ridge.",
                   "category": "landmark",
                   "coords": [
                         19.453296,
@@ -4846,7 +4846,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Kuk",
-                  "text": "A peak in the mountainous landscape of Montenegro.",
+                  "text": "A sharp rock tower on Brada Peak.",
                   "category": "landmark",
                   "coords": [
                         19.446043,
@@ -4855,7 +4855,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Borova glava",
-                  "text": "A prominent mountain peak in the Brada region.",
+                  "text": "A pine-covered summit on Brada Peak.",
                   "category": "landmark",
                   "coords": [
                         19.479045,
@@ -4864,7 +4864,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Konjska lastva",
-                  "text": "Another peak in the mountains surrounding Brada Peak.",
+                  "text": "A horse-shaped rock formation on Brada Peak.",
                   "category": "landmark",
                   "coords": [
                         19.426345,
@@ -4891,7 +4891,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Studeni vrh",
-                  "text": "A mountain peak in the mountain region of Montenegro.",
+                  "text": "A cold, exposed peak on Brada Peak.",
                   "category": "landmark",
                   "coords": [
                         19.447995,
@@ -4900,7 +4900,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Galev krš",
-                  "text": "A viewpoint located near Brada Peak.",
+                  "text": "Galev krš is a limestone karst formation on Brada Peak.",
                   "category": "natural",
                   "coords": [
                         19.435302,
@@ -5020,7 +5020,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Kofiljača",
-                  "text": "Ein Gipfel in der montenegrinischen Bergwelt, ideal für Wanderungen.",
+                  "text": "Eine markante Felsformation am Visoki Vrh.",
                   "category": "landmark",
                   "coords": [
                         19.760109,
@@ -5047,7 +5047,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Vidikovac Vodotres",
-                  "text": "Ein lokaler Aussichtspunkt mit Blick auf die natürliche Landschaft.",
+                  "text": "Vidikovac Vodotres ist ein Aussichtspunkt mit einem Wasserfall auf dem Visoki Vrh.",
                   "category": "natural",
                   "coords": [
                         19.749537,
@@ -5094,7 +5094,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Kofiljača",
-                  "text": "Csúcs a montenegrói hegyekben, amely ideális túrázáshoz.",
+                  "text": "Egy feltűnő sziklaformáció a Visoki Vrh-en.",
                   "category": "landmark",
                   "coords": [
                         19.760109,
@@ -5121,7 +5121,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Vidikovac Vodotres",
-                  "text": "Helyi kilátópont, ahonnan rálátás nyílik a természeti tájra.",
+                  "text": "Vidikovac Vodotres egy kilátó vízeséssel a Visoki Vrh-on.",
                   "category": "natural",
                   "coords": [
                         19.749537,
@@ -5168,7 +5168,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Kofiljača",
-                  "text": "Un vârf în munții muntenegreni, ideal pentru drumeții.",
+                  "text": "O formațiune stâncoasă proeminentă pe Visoki Vrh.",
                   "category": "landmark",
                   "coords": [
                         19.760109,
@@ -5195,7 +5195,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Vidikovac Vodotres",
-                  "text": "Un punct de belvedere local cu vedere la peisajul natural.",
+                  "text": "Vidikovac Vodotres este un punct de belvedere cu o cascadă pe Visoki Vrh.",
                   "category": "natural",
                   "coords": [
                         19.749537,
@@ -5242,7 +5242,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Kofiljača",
-                  "text": "A peak in the Montenegrin mountains, ideal for hiking.",
+                  "text": "A prominent rock formation on Visoki Vrh.",
                   "category": "landmark",
                   "coords": [
                         19.760109,
@@ -5269,7 +5269,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Vidikovac Vodotres",
-                  "text": "A local viewpoint overlooking the natural landscape.",
+                  "text": "Vidikovac Vodotres is a viewpoint with a waterfall on Visoki Vrh.",
                   "category": "natural",
                   "coords": [
                         19.749537,
@@ -5416,7 +5416,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Runjevača",
-                  "text": "Ein hoher Gipfel in der montenegrinischen Berglandschaft.",
+                  "text": "Ein markanter Felsen am Govedji Vrh.",
                   "category": "landmark",
                   "coords": [
                         19.138333,
@@ -5490,7 +5490,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Runjevača",
-                  "text": "Magas hegycsúcs a montenegrói hegyvidéki tájon.",
+                  "text": "Egy jellegzetes szikla a Govedji Vrh-en.",
                   "category": "landmark",
                   "coords": [
                         19.138333,
@@ -5564,7 +5564,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Runjevača",
-                  "text": "Un vârf înalt în peisajul montan muntenegrean.",
+                  "text": "O stâncă distinctivă pe Govedji Vrh.",
                   "category": "landmark",
                   "coords": [
                         19.138333,
@@ -5638,7 +5638,7 @@ export const montenegroReliefV2: POI[] = [
             },
             {
                   "name": "Runjevača",
-                  "text": "A high summit in the Montenegrin mountain landscape.",
+                  "text": "A distinctive rock on Govedji Vrh.",
                   "category": "landmark",
                   "coords": [
                         19.138333,

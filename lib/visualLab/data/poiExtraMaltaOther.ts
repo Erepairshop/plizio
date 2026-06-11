@@ -627,7 +627,7 @@ export const poiExtraMaltaOther: POI[] = [
       "de": [
             {
                   "name": "Il-Bajja tal-Armier iż-Żgħir",
-                  "text": "Die Bajja tal-Armier iż-Żgħir liegt im Gebiet L-Aħrax tal-Mellieħa.",
+                  "text": "Die kleinere Armier-Bucht, eine sandige Bucht im Gebiet von Mellieħa.",
                   "category": "recreational",
                   "coords": [
                         14.359248,
@@ -636,7 +636,7 @@ export const poiExtraMaltaOther: POI[] = [
             },
             {
                   "name": "Ir-Ramla tat-Torri",
-                  "text": "Ir-Ramla tat-Torri liegt im Gebiet L-Aħrax tal-Mellieħa.",
+                  "text": "Sandstrand unterhalb eines historischen Wachturms in Mellieħa.",
                   "category": "recreational",
                   "coords": [
                         14.365342,
@@ -647,7 +647,7 @@ export const poiExtraMaltaOther: POI[] = [
       "hu": [
             {
                   "name": "Il-Bajja tal-Armier iż-Żgħir",
-                  "text": "A Bajja tal-Armier iż-Żgħir a L-Aħrax tal-Mellieħa területén található.",
+                  "text": "A kisebb Armier-öböl, egy homokos öböl Mellieħa térségében.",
                   "category": "recreational",
                   "coords": [
                         14.359248,
@@ -656,7 +656,7 @@ export const poiExtraMaltaOther: POI[] = [
             },
             {
                   "name": "Ir-Ramla tat-Torri",
-                  "text": "Ir-Ramla tat-Torri a L-Aħrax tal-Mellieħa területén található.",
+                  "text": "Homokos strand egy történelmi őrtorony alatt Mellieħában.",
                   "category": "recreational",
                   "coords": [
                         14.365342,
@@ -667,7 +667,7 @@ export const poiExtraMaltaOther: POI[] = [
       "ro": [
             {
                   "name": "Il-Bajja tal-Armier iż-Żgħir",
-                  "text": "Bajja tal-Armier iż-Żgħir este situată în zona L-Aħrax tal-Mellieħa.",
+                  "text": "Golful mai mic Armier, o plajă nisipoasă în zona Mellieħa.",
                   "category": "recreational",
                   "coords": [
                         14.359248,
@@ -676,7 +676,7 @@ export const poiExtraMaltaOther: POI[] = [
             },
             {
                   "name": "Ir-Ramla tat-Torri",
-                  "text": "Ir-Ramla tat-Torri este situată în zona L-Aħrax tal-Mellieħa.",
+                  "text": "Plajă nisipoasă sub un turn de veghe istoric în Mellieħa.",
                   "category": "recreational",
                   "coords": [
                         14.365342,
@@ -687,7 +687,7 @@ export const poiExtraMaltaOther: POI[] = [
       "en": [
             {
                   "name": "Il-Bajja tal-Armier iż-Żgħir",
-                  "text": "Bajja tal-Armier iż-Żgħir is located in the L-Aħrax tal-Mellieħa area.",
+                  "text": "The smaller Armier Bay, a sandy cove in the Mellieħa area.",
                   "category": "recreational",
                   "coords": [
                         14.359248,
@@ -696,7 +696,7 @@ export const poiExtraMaltaOther: POI[] = [
             },
             {
                   "name": "Ir-Ramla tat-Torri",
-                  "text": "Ir-Ramla tat-Torri is located in the L-Aħrax tal-Mellieħa area.",
+                  "text": "Sandy beach below a historic watchtower in Mellieħa.",
                   "category": "recreational",
                   "coords": [
                         14.365342,
@@ -2946,7 +2946,7 @@ export const poiExtraMaltaOther: POI[] = [
       "de": [
             {
                   "name": "IL-Bajja tal-Balluta",
-                  "text": "Die Balluta Bay liegt in einem bekannten touristischen Gebiet.",
+                  "text": "Balluta Bay, ein beliebter Stadtstrand mit Promenade in St. Julian’s.",
                   "category": "recreational",
                   "coords": [
                         14.493982,
@@ -2957,7 +2957,7 @@ export const poiExtraMaltaOther: POI[] = [
       "hu": [
             {
                   "name": "IL-Bajja tal-Balluta",
-                  "text": "A Balluta Bay egy jól ismert turisztikai területen található.",
+                  "text": "Balluta-öböl, népszerű városi strand sétánnyal St. Julian’s-ban.",
                   "category": "recreational",
                   "coords": [
                         14.493982,
@@ -2968,7 +2968,7 @@ export const poiExtraMaltaOther: POI[] = [
       "ro": [
             {
                   "name": "IL-Bajja tal-Balluta",
-                  "text": "Balluta Bay este situată într-o zonă turistică cunoscută.",
+                  "text": "Balluta Bay, o plajă urbană populară cu promenadă în St. Julian’s.",
                   "category": "recreational",
                   "coords": [
                         14.493982,
@@ -2979,7 +2979,7 @@ export const poiExtraMaltaOther: POI[] = [
       "en": [
             {
                   "name": "IL-Bajja tal-Balluta",
-                  "text": "Balluta Bay is located in a well-known tourist area.",
+                  "text": "Balluta Bay, a popular urban beach with a promenade in St Julian's.",
                   "category": "recreational",
                   "coords": [
                         14.493982,
@@ -4677,7 +4677,7 @@ export const poiExtraMaltaOther: POI[] = [
       "de": [
             {
                   "name": "Xifer l-Infern",
-                  "text": "Xifer l-Infern ist ein Küstengebiet in der Nähe des Kraftwerks Delimara.",
+                  "text": "Raue Küstenklippe nahe dem Kraftwerk Delimara mit dramatischem Meerblick.",
                   "category": "recreational",
                   "coords": [
                         14.561264,
@@ -4688,7 +4688,7 @@ export const poiExtraMaltaOther: POI[] = [
       "hu": [
             {
                   "name": "Xifer l-Infern",
-                  "text": "Xifer l-Infern egy tengerparti terület a Delimara erőmű közelében.",
+                  "text": "Zord tengerparti szikla a Delimara erőmű közelében, drámai tengeri kilátással.",
                   "category": "recreational",
                   "coords": [
                         14.561264,
@@ -4699,7 +4699,7 @@ export const poiExtraMaltaOther: POI[] = [
       "ro": [
             {
                   "name": "Xifer l-Infern",
-                  "text": "Xifer l-Infern este o zonă de coastă situată în apropierea centralei electrice Delimara.",
+                  "text": "Stâncă de coastă accidentată lângă Centrala Delimara, cu vedere dramatică la mare.",
                   "category": "recreational",
                   "coords": [
                         14.561264,
@@ -4710,7 +4710,7 @@ export const poiExtraMaltaOther: POI[] = [
       "en": [
             {
                   "name": "Xifer l-Infern",
-                  "text": "Xifer l-Infern is a coastal area near the Delimara power station.",
+                  "text": "Rugged coastal cliff area near Delimara Power Station, offering dramatic sea views.",
                   "category": "recreational",
                   "coords": [
                         14.561264,
@@ -5300,7 +5300,7 @@ export const poiExtraMaltaOther: POI[] = [
       "de": [
             {
                   "name": "Sliema Bay",
-                  "text": "Sliema Bay ist ein Küstenabschnitt im geschäftigen Sliema.",
+                  "text": "Sliema Bay, belebte Strandpromenade mit Bademöglichkeiten und Blick auf Valletta.",
                   "category": "recreational",
                   "coords": [
                         14.496658,
@@ -5311,7 +5311,7 @@ export const poiExtraMaltaOther: POI[] = [
       "hu": [
             {
                   "name": "Sliema Bay",
-                  "text": "Sliema Bay egy partszakasz a forgalmas Sliemában.",
+                  "text": "Sliema-öböl, nyüzsgő tengerpart fürdőhelylyel és kilátással Vallettára.",
                   "category": "recreational",
                   "coords": [
                         14.496658,
@@ -5322,7 +5322,7 @@ export const poiExtraMaltaOther: POI[] = [
       "ro": [
             {
                   "name": "Sliema Bay",
-                  "text": "Sliema Bay este o porțiune de coastă în Sliema.",
+                  "text": "Sliema Bay, o promenadă aglomerată cu locuri de înot și vedere spre Valletta.",
                   "category": "recreational",
                   "coords": [
                         14.496658,
@@ -5333,7 +5333,7 @@ export const poiExtraMaltaOther: POI[] = [
       "en": [
             {
                   "name": "Sliema Bay",
-                  "text": "Sliema Bay is a coastal area in busy Sliema.",
+                  "text": "Sliema Bay, a bustling seafront with swimming spots and views of Valletta.",
                   "category": "recreational",
                   "coords": [
                         14.496658,
@@ -6079,7 +6079,7 @@ export const poiExtraMaltaOther: POI[] = [
             },
             {
                   "name": "Merkanti Beach Club 16+",
-                  "text": "Ein Strandclub für Erwachsene im Jachthafen von Portomaso.",
+                  "text": "Nur für Erwachsene zugänglicher Strandclub im Portomaso Marina, St. Julian’s.",
                   "category": "recreational",
                   "coords": [
                         14.494667,
@@ -6099,7 +6099,7 @@ export const poiExtraMaltaOther: POI[] = [
             },
             {
                   "name": "Merkanti Beach Club 16+",
-                  "text": "Felnőtteknek fenntartott strandklub a Portomaso kikötőben.",
+                  "text": "Felnőtteknek fenntartott strandklub a Portomaso Marina területén, St. Julian’s-ban.",
                   "category": "recreational",
                   "coords": [
                         14.494667,
@@ -6119,7 +6119,7 @@ export const poiExtraMaltaOther: POI[] = [
             },
             {
                   "name": "Merkanti Beach Club 16+",
-                  "text": "Un club de plajă pentru adulți în marina Portomaso.",
+                  "text": "Club de plajă pentru adulți la Portomaso Marina în St. Julian’s, cu piscine și șezlonguri.",
                   "category": "recreational",
                   "coords": [
                         14.494667,
@@ -6139,7 +6139,7 @@ export const poiExtraMaltaOther: POI[] = [
             },
             {
                   "name": "Merkanti Beach Club 16+",
-                  "text": "An adult-only beach club located in the Portomaso Marina.",
+                  "text": "Adults-only beach club at Portomaso Marina in St Julian's, with pools and sunbeds.",
                   "category": "recreational",
                   "coords": [
                         14.494667,
@@ -6439,7 +6439,7 @@ export const poiExtraMaltaOther: POI[] = [
       "de": [
             {
                   "name": "Sensi",
-                  "text": "Ein modern gestaltetes Strandbad in der St. Thomas Bay.",
+                  "text": "Strandbar und Lounge an der St. Thomas Bay, beliebt für Drinks und Musik.",
                   "category": "recreational",
                   "coords": [
                         14.565296,
@@ -6459,7 +6459,7 @@ export const poiExtraMaltaOther: POI[] = [
       "hu": [
             {
                   "name": "Sensi",
-                  "text": "Modern kialakítású strandfürdő a Szent Tamás-öbölben.",
+                  "text": "Strandbár és lounge a St. Thomas-öbölben, népszerű italokkal és zenével.",
                   "category": "recreational",
                   "coords": [
                         14.565296,
@@ -6479,7 +6479,7 @@ export const poiExtraMaltaOther: POI[] = [
       "ro": [
             {
                   "name": "Sensi",
-                  "text": "O stațiune de plajă modernă în golful St. Thomas.",
+                  "text": "Bar și lounge pe plaja St. Thomas Bay, popular pentru băuturi și muzică.",
                   "category": "recreational",
                   "coords": [
                         14.565296,
@@ -6499,7 +6499,7 @@ export const poiExtraMaltaOther: POI[] = [
       "en": [
             {
                   "name": "Sensi",
-                  "text": "A modernly designed beach resort in St. Thomas Bay.",
+                  "text": "Beachside bar and lounge at St Thomas Bay, popular for drinks and music.",
                   "category": "recreational",
                   "coords": [
                         14.565296,
@@ -7417,7 +7417,7 @@ export const poiExtraMaltaOther: POI[] = [
       "de": [
             {
                   "name": "Ir-Ramla t' Għajn Tuffieħa",
-                  "text": "Ir-Ramla t' Għajn Tuffieħa ist eine bekannte Bucht im Nordwesten Maltas.",
+                  "text": "Roter Sandstrand mit goldenen Klippen, erreichbar über eine lange Treppe bei Għajn Tuffieħa.",
                   "category": "recreational",
                   "coords": [
                         14.344136,
@@ -7428,7 +7428,7 @@ export const poiExtraMaltaOther: POI[] = [
       "hu": [
             {
                   "name": "Ir-Ramla t' Għajn Tuffieħa",
-                  "text": "Ir-Ramla t' Għajn Tuffieħa egy népszerű öböl Málta északnyugati részén.",
+                  "text": "Vörös homokos strand arany sziklákkal, hosszú lépcsőn megközelíthető Għajn Tuffieħánál.",
                   "category": "recreational",
                   "coords": [
                         14.344136,
@@ -7439,7 +7439,7 @@ export const poiExtraMaltaOther: POI[] = [
       "ro": [
             {
                   "name": "Ir-Ramla t' Għajn Tuffieħa",
-                  "text": "Ir-Ramla t' Għajn Tuffieħa este un golf popular situat în nord-vestul Maltei.",
+                  "text": "Plajă cu nisip roșu și stânci aurii, accesibilă printr-o scară lungă la Għajn Tuffieħa.",
                   "category": "recreational",
                   "coords": [
                         14.344136,
@@ -7450,7 +7450,7 @@ export const poiExtraMaltaOther: POI[] = [
       "en": [
             {
                   "name": "Ir-Ramla t' Għajn Tuffieħa",
-                  "text": "Ir-Ramla t' Għajn Tuffieħa is a popular beach in the northwest of Malta.",
+                  "text": "Sandy red beach with golden cliffs, reached by a long staircase at Għajn Tuffieħa.",
                   "category": "recreational",
                   "coords": [
                         14.344136,
@@ -7510,7 +7510,7 @@ export const poiExtraMaltaOther: POI[] = [
       "de": [
             {
                   "name": "Ras il-Wahx",
-                  "text": "Ras il-Wahx ist ein markanter Küstenpunkt bei der Golden Bay.",
+                  "text": "Malerische Landspitze oberhalb der Golden Bay, ideal für Küstenspaziergänge.",
                   "category": "recreational",
                   "coords": [
                         14.329371,
@@ -7521,7 +7521,7 @@ export const poiExtraMaltaOther: POI[] = [
       "hu": [
             {
                   "name": "Ras il-Wahx",
-                  "text": "Ras il-Wahx egy jellegzetes partvonal Golden Bay közelében.",
+                  "text": "Festői hegyfok a Golden Bay fölött, tengerparti sétákra alkalmas.",
                   "category": "recreational",
                   "coords": [
                         14.329371,
@@ -7532,7 +7532,7 @@ export const poiExtraMaltaOther: POI[] = [
       "ro": [
             {
                   "name": "Ras il-Wahx",
-                  "text": "Ras il-Wahx este un punct de coastă distinctiv lângă Golden Bay.",
+                  "text": "Promontoriu pitoresc deasupra golfului Golden Bay, ideal pentru plimbări de coastă.",
                   "category": "recreational",
                   "coords": [
                         14.329371,
@@ -7543,7 +7543,7 @@ export const poiExtraMaltaOther: POI[] = [
       "en": [
             {
                   "name": "Ras il-Wahx",
-                  "text": "Ras il-Wahx is a prominent coastal point near Golden Bay.",
+                  "text": "Scenic headland overlooking Golden Bay, ideal for coastal walks.",
                   "category": "recreational",
                   "coords": [
                         14.329371,

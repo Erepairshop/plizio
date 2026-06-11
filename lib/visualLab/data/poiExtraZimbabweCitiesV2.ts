@@ -69,7 +69,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Maiguru Mai Vinicent Home",
-                  "text": "Maiguru Mai Vinicent Home ist eine lokale Sehenswürdigkeit in Chitungwiza.",
+                  "text": "Ein markantes Wohnhaus in Chitungwiza, das als Gemeinschaftsheim dient.",
                   "category": "landmark",
                   "coords": [
                         31.057209,
@@ -80,7 +80,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Maiguru Mai Vinicent Home",
-                  "text": "A Maiguru Mai Vinicent Home egy helyi látványosság Chitungwiza városában.",
+                  "text": "Nevezetes lakóépület Chitungwizában, közösségi otthonként szolgál.",
                   "category": "landmark",
                   "coords": [
                         31.057209,
@@ -91,7 +91,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Maiguru Mai Vinicent Home",
-                  "text": "Maiguru Mai Vinicent Home este o atracție locală situată în Chitungwiza.",
+                  "text": "O clădire de reper în Chitungwiza, folosită ca locuință comunitară.",
                   "category": "landmark",
                   "coords": [
                         31.057209,
@@ -102,7 +102,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Maiguru Mai Vinicent Home",
-                  "text": "Maiguru Mai Vinicent Home is a local attraction located in Chitungwiza.",
+                  "text": "A landmark residential building in Chitungwiza, serving as a community home.",
                   "category": "landmark",
                   "coords": [
                         31.057209,
@@ -219,7 +219,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Kwekwe Mining Museum",
-                  "text": "Museum zur Bergbaugeschichte der Region Kwekwe.",
+                  "text": "Museum zur Goldminengeschichte von Kwekwe.",
                   "category": "museum",
                   "coords": [
                         29.809136,
@@ -239,7 +239,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Kwekwe Mining Museum",
-                  "text": "Múzeum a Kwekwe régió bányászati történetéről.",
+                  "text": "Múzeum, amely Kwekwe aranybányászatának történetét mutatja be.",
                   "category": "museum",
                   "coords": [
                         29.809136,
@@ -259,7 +259,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Kwekwe Mining Museum",
-                  "text": "Muzeu dedicat istoriei miniere a regiunii Kwekwe.",
+                  "text": "Muzeu care documentează istoria mineritului de aur din Kwekwe.",
                   "category": "museum",
                   "coords": [
                         29.809136,
@@ -279,7 +279,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Kwekwe Mining Museum",
-                  "text": "Museum dedicated to the mining history of the Kwekwe region.",
+                  "text": "Museum documenting Kwekwe's gold mining history.",
                   "category": "museum",
                   "coords": [
                         29.809136,
@@ -483,7 +483,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "de": [
             {
                   "name": "ERIC",
-                  "text": "Ein historisches Herrenhaus in der Gegend von Ruwa.",
+                  "text": "Historisches Denkmal, eingeweiht im Juli 2020 in Ruwa.",
                   "category": "historical",
                   "coords": [
                         31.238195,
@@ -494,7 +494,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "ERIC",
-                  "text": "Történelmi kúria Ruwa környékén.",
+                  "text": "Történelmi emlékmű, avatva 2020 júliusában Ruwa városában.",
                   "category": "historical",
                   "coords": [
                         31.238195,
@@ -505,7 +505,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "ERIC",
-                  "text": "Un conac istoric în zona Ruwa.",
+                  "text": "Monument istoric inaugurat în iulie 2020 în Ruwa.",
                   "category": "historical",
                   "coords": [
                         31.238195,
@@ -516,7 +516,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "en": [
             {
                   "name": "ERIC",
-                  "text": "A historic manor house located in the Ruwa area.",
+                  "text": "A historical monument inaugurated in July 2020 in Ruwa.",
                   "category": "historical",
                   "coords": [
                         31.238195,
@@ -560,7 +560,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Roma",
-                  "text": "Ein Denkmal in Chegutu zur Erinnerung an lokale Ereignisse.",
+                  "text": "Historische Stätte in Chegutu, genannt ‚Roma‘, ein Überbleibsel früher europäischer Besiedlung.",
                   "category": "historical",
                   "coords": [
                         30.141327,
@@ -569,7 +569,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "mukoma art centre",
-                  "text": "Ein Zentrum in Chegutu, das lokale Kunst und Kultur fördert.",
+                  "text": "Kulturelles Kunstzentrum in Chegutu, das lokale Künstler präsentiert.",
                   "category": "cultural",
                   "coords": [
                         30.15192,
@@ -580,7 +580,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Roma",
-                  "text": "Helyi események emlékére állított emlékmű Chegutuban.",
+                  "text": "Történelmi helyszín Chegutuban, a ‚Roma’ név a korai európai településeket idézi.",
                   "category": "historical",
                   "coords": [
                         30.141327,
@@ -589,7 +589,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "mukoma art centre",
-                  "text": "Chegutuban található központ, amely a helyi művészetet és kultúrát népszerűsíti.",
+                  "text": "Kulturális művészeti központ Chegutuban, helyi művészek munkáit bemutatva.",
                   "category": "cultural",
                   "coords": [
                         30.15192,
@@ -600,7 +600,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Roma",
-                  "text": "Un monument în Chegutu care comemorează evenimente locale.",
+                  "text": "Sit istoric în Chegutu, numit ‚Roma’, vestigiu al colonizării europene timpurii.",
                   "category": "historical",
                   "coords": [
                         30.141327,
@@ -609,7 +609,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "mukoma art centre",
-                  "text": "Un centru din Chegutu care promovează arta și cultura locală.",
+                  "text": "Centru de artă culturală în Chegutu, care expune artiști locali.",
                   "category": "cultural",
                   "coords": [
                         30.15192,
@@ -620,7 +620,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Roma",
-                  "text": "A monument in Chegutu commemorating local events.",
+                  "text": "Historical site in Chegutu named 'Roma', reflecting early European settlement.",
                   "category": "historical",
                   "coords": [
                         30.141327,
@@ -629,7 +629,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "mukoma art centre",
-                  "text": "A centre in Chegutu promoting local art and culture.",
+                  "text": "Cultural art centre in Chegutu showcasing local artists.",
                   "category": "cultural",
                   "coords": [
                         30.15192,
@@ -801,7 +801,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Victoria Falls Bridge Visitor Centre",
-                  "text": "Das Victoria Falls Bridge Visitor Centre ist ein Museum, das Informationen über die Brücke in Victoria Falls bietet.",
+                  "text": "Besucherzentrum an der Victoriafälle-Brücke mit Ausstellungen zu deren Bau und der Schlucht.",
                   "category": "museum",
                   "coords": [
                         25.85768,
@@ -810,7 +810,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "The Snake Pit",
-                  "text": "The Snake Pit ist eine zoologische Einrichtung in Victoria Falls.",
+                  "text": "Familienattraktion in Victoria Falls mit einer Sammlung von Schlangen.",
                   "category": "family",
                   "coords": [
                         25.83847,
@@ -819,7 +819,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Steam Loco",
-                  "text": "Steam Loco ist eine Museumsausstellung in Victoria Falls.",
+                  "text": "Museum mit einer historischen Dampflokomotive aus der Kolonialbahnzeit.",
                   "category": "museum",
                   "coords": [
                         25.839878,
@@ -828,7 +828,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Horseshoe Falls",
-                  "text": "Horseshoe Falls ist ein markanter Klippenabschnitt der berühmten Victoriafälle.",
+                  "text": "Horseshoe Falls, ein breiter Wasserfall auf der simbabwischen Seite der Victoriafälle.",
                   "category": "landmark",
                   "coords": [
                         25.854848,
@@ -846,7 +846,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Main Falls",
-                  "text": "Main Falls ist der größte Klippenabschnitt der spektakulären Victoriafälle.",
+                  "text": "Main Falls, der zentrale und kraftvollste Abschnitt der Victoriafälle.",
                   "category": "landmark",
                   "coords": [
                         25.852124,
@@ -864,7 +864,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Rainbow Falls",
-                  "text": "Rainbow Falls ist eine bekannte Klippenkante der gewaltigen Victoriafälle.",
+                  "text": "Rainbow Falls, ein Teil der Victoriafälle, der für häufige Regenbögen bekannt ist.",
                   "category": "landmark",
                   "coords": [
                         25.857128,
@@ -873,7 +873,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Arm Chair Falls",
-                  "text": "Arm Chair Falls ist ein spezifisches Klippenmerkmal der weitläufigen Victoriafälle.",
+                  "text": "Arm Chair Falls, ein kleinerer Wasserfall entlang des Rands der Victoriafälle.",
                   "category": "landmark",
                   "coords": [
                         25.858979,
@@ -882,7 +882,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Danger Point",
-                  "text": "Danger Point ist ein Aussichtspunkt in Victoria Falls.",
+                  "text": "Danger Point, ein Klippenaussichtspunkt mit dramatischem Blick auf die Schlucht unterhalb.",
                   "category": "natural",
                   "coords": [
                         25.859155,
@@ -891,7 +891,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Boiling Pot",
-                  "text": "Boiling Pot ist ein malerischer Aussichtspunkt in Victoria Falls.",
+                  "text": "Boiling Pot, der turbulente Kessel am Fuß der Victoriafälle.",
                   "category": "natural",
                   "coords": [
                         25.859391,
@@ -900,7 +900,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Big Tree (Baobab)",
-                  "text": "Der Big Tree (Baobab) ist eine bemerkenswerte natürliche Sehenswürdigkeit in Victoria Falls.",
+                  "text": "Big Tree, ein riesiger Baobab in der Nähe der Victoriafälle, der auf über 1.000 Jahre geschätzt wird.",
                   "category": "landmark",
                   "coords": [
                         25.84125,
@@ -945,7 +945,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "13 Horse Shoe Falls",
-                  "text": "13 Horse Shoe Falls ist ein Aussichtspunkt in Victoria Falls.",
+                  "text": "13 Horseshoe Falls, eine Reihe kleiner Wasserfälle oberhalb der Victoriafälle.",
                   "category": "natural",
                   "coords": [
                         25.854963,
@@ -963,7 +963,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Bridge Swing & Zipline - End (Shearwater)",
-                  "text": "Bridge Swing & Zipline - End (Shearwater) ist eine Abenteuer-Attraktion in Victoria Falls.",
+                  "text": "Endpunkt von Shearwaters Brückenschaukel und Zipline an der Victoriafälle-Brücke.",
                   "category": "landmark",
                   "coords": [
                         25.857253,
@@ -972,7 +972,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Bridge Zipline - Beginning (Shearwater)",
-                  "text": "Bridge Zipline - Beginning (Shearwater) ist eine Abenteuersport-Attraktion in Victoria Falls.",
+                  "text": "Startpunkt von Shearwaters Zipline an der Victoriafälle-Brücke.",
                   "category": "landmark",
                   "coords": [
                         25.85659,
@@ -990,7 +990,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Zambezi river view point",
-                  "text": "Der Zambezi river view point ist ein malerischer Aussichtspunkt in Victoria Falls.",
+                  "text": "Aussichtspunkt mit Blick auf den Sambesi nahe den Victoriafällen.",
                   "category": "natural",
                   "coords": [
                         25.847457,
@@ -999,7 +999,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Chipala Cultural Experience",
-                  "text": "Chipala Cultural Experience ist eine lokale kulturelle Attraktion in Victoria Falls.",
+                  "text": "Chipala Cultural Experience, ein traditionelles Dorf mit Tanz- und Handwerksvorführungen.",
                   "category": "landmark",
                   "coords": [
                         25.839812,
@@ -1008,7 +1008,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Zambezi Horse Trails",
-                  "text": "Zambezi Horse Trails ist eine Reitattraktion in Victoria Falls.",
+                  "text": "Zambezi Horse Trails, Ausritte entlang des Sambesi.",
                   "category": "landmark",
                   "coords": [
                         25.83757,
@@ -1017,7 +1017,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Gorge Swing & Zipline (Wild Horizons)",
-                  "text": "Gorge Swing & Zipline (Wild Horizons) ist eine Abenteuer-Attraktion in Victoria Falls.",
+                  "text": "Wild Horizons‘ Schluchtschaukel und Zipline über der Batoka-Schlucht.",
                   "category": "landmark",
                   "coords": [
                         25.848257,
@@ -1026,7 +1026,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Adventure zone",
-                  "text": "Die Adventure zone ist eine Freizeitattraktion in Victoria Falls.",
+                  "text": "Abenteuerzone in Victoria Falls mit verschiedenen Nervenkitzel-Aktivitäten.",
                   "category": "landmark",
                   "coords": [
                         25.834391,
@@ -1037,7 +1037,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Victoria Falls Bridge Visitor Centre",
-                  "text": "A Victoria Falls Bridge Visitor Centre egy múzeum Victoria Falls városában, amely a hídról nyújt információkat.",
+                  "text": "Látogatóközpont a Viktória-vízesés hídjánál, a híd építését és a szurdokot bemutató kiállításokkal.",
                   "category": "museum",
                   "coords": [
                         25.85768,
@@ -1046,7 +1046,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "The Snake Pit",
-                  "text": "A The Snake Pit egy állatkerti létesítmény Victoria Falls területén.",
+                  "text": "Családi látványosság Victoria Fallsban, kígyógyűjteménnyel.",
                   "category": "family",
                   "coords": [
                         25.83847,
@@ -1055,7 +1055,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Steam Loco",
-                  "text": "A Steam Loco egy múzeumi kiállítás Victoria Falls városában.",
+                  "text": "Múzeum, amely egy történelmi gőzmozdonyt mutat be a gyarmati vasúti korszakból.",
                   "category": "museum",
                   "coords": [
                         25.839878,
@@ -1064,7 +1064,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Horseshoe Falls",
-                  "text": "A Horseshoe Falls a híres Viktória-vízesés egyik különálló sziklapereme.",
+                  "text": "Horseshoe Falls, egy széles vízesés a Viktória-vízesés zimbabwei oldalán.",
                   "category": "landmark",
                   "coords": [
                         25.854848,
@@ -1082,7 +1082,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Main Falls",
-                  "text": "A Main Falls a látványos Viktória-vízesés legnagyobb sziklapereme.",
+                  "text": "Main Falls, a Viktória-vízesés központi és legerősebb szakasza.",
                   "category": "landmark",
                   "coords": [
                         25.852124,
@@ -1100,7 +1100,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Rainbow Falls",
-                  "text": "A Rainbow Falls a hatalmas Viktória-vízesés egyik jól ismert sziklapereme.",
+                  "text": "Rainbow Falls, a Viktória-vízesés egy része, amely gyakori szivárványairól ismert.",
                   "category": "landmark",
                   "coords": [
                         25.857128,
@@ -1109,7 +1109,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Arm Chair Falls",
-                  "text": "Az Arm Chair Falls a kiterjedt Viktória-vízesés egyik jellegzetes sziklaképződménye.",
+                  "text": "Arm Chair Falls, egy kisebb vízesés a Viktória-vízesés peremén.",
                   "category": "landmark",
                   "coords": [
                         25.858979,
@@ -1118,7 +1118,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Danger Point",
-                  "text": "A Danger Point egy kilátóhely Victoria Falls területén.",
+                  "text": "Danger Point, egy sziklás kilátópont, drámai kilátással az alatta lévő szurdokra.",
                   "category": "natural",
                   "coords": [
                         25.859155,
@@ -1127,7 +1127,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Boiling Pot",
-                  "text": "A Boiling Pot egy festői kilátóhely Victoria Falls városában.",
+                  "text": "Boiling Pot, a Viktória-vízesés lábánál lévő örvénylő medence.",
                   "category": "natural",
                   "coords": [
                         25.859391,
@@ -1136,7 +1136,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Big Tree (Baobab)",
-                  "text": "A Big Tree (Baobab) egy nevezetes természeti látványosság Victoria Falls területén.",
+                  "text": "Big Tree, egy hatalmas baobabfa a Viktória-vízesés közelében, becslések szerint több mint 1000 éves.",
                   "category": "landmark",
                   "coords": [
                         25.84125,
@@ -1181,7 +1181,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "13 Horse Shoe Falls",
-                  "text": "A 13 Horse Shoe Falls egy kilátóhely Victoria Falls városában.",
+                  "text": "13 Horseshoe Falls, egy sor kisebb vízesés a Viktória-vízesés felett.",
                   "category": "natural",
                   "coords": [
                         25.854963,
@@ -1199,7 +1199,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Bridge Swing & Zipline - End (Shearwater)",
-                  "text": "A Bridge Swing & Zipline - End (Shearwater) egy kalandparki látványosság Victoria Falls városában.",
+                  "text": "A Shearwater híd-lengő és kötélpálya végpontja a Viktória-vízesés hídján.",
                   "category": "landmark",
                   "coords": [
                         25.857253,
@@ -1208,7 +1208,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Bridge Zipline - Beginning (Shearwater)",
-                  "text": "A Bridge Zipline - Beginning (Shearwater) egy kalandsport-létesítmény Victoria Falls területén.",
+                  "text": "A Shearwater kötélpálya indulópontja a Viktória-vízesés hídján.",
                   "category": "landmark",
                   "coords": [
                         25.85659,
@@ -1226,7 +1226,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Zambezi river view point",
-                  "text": "A Zambezi river view point egy festői kilátóhely Victoria Falls területén.",
+                  "text": "Kilátópont a Zambézi folyóra a Viktória-vízesés közelében.",
                   "category": "natural",
                   "coords": [
                         25.847457,
@@ -1235,7 +1235,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Chipala Cultural Experience",
-                  "text": "A Chipala Cultural Experience egy helyi kulturális látványosság Victoria Falls területén.",
+                  "text": "Chipala Cultural Experience, egy hagyományos falu tánc- és kézműves bemutatókkal.",
                   "category": "landmark",
                   "coords": [
                         25.839812,
@@ -1244,7 +1244,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Zambezi Horse Trails",
-                  "text": "A Zambezi Horse Trails egy lovas látványosság Victoria Falls városában.",
+                  "text": "Zambezi Horse Trails, lovaglás a Zambézi folyó mentén.",
                   "category": "landmark",
                   "coords": [
                         25.83757,
@@ -1253,7 +1253,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Gorge Swing & Zipline (Wild Horizons)",
-                  "text": "A Gorge Swing & Zipline (Wild Horizons) egy kalandos látványosság Victoria Falls városában.",
+                  "text": "A Wild Horizons szurdokhintája és kötélpályája a Batoka-szurdok felett.",
                   "category": "landmark",
                   "coords": [
                         25.848257,
@@ -1262,7 +1262,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Adventure zone",
-                  "text": "Az Adventure zone egy rekreációs látványosság Victoria Falls területén.",
+                  "text": "Kalandzóna Victoria Fallsban, számos izgalmas tevékenységgel.",
                   "category": "landmark",
                   "coords": [
                         25.834391,
@@ -1273,7 +1273,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Victoria Falls Bridge Visitor Centre",
-                  "text": "Victoria Falls Bridge Visitor Centre este un muzeu care oferă informații despre podul din Victoria Falls.",
+                  "text": "Centru de vizitare la Podul Cascadelor Victoria, cu exponate despre construcția sa și a defileului.",
                   "category": "museum",
                   "coords": [
                         25.85768,
@@ -1282,7 +1282,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "The Snake Pit",
-                  "text": "The Snake Pit este o facilitate zoologică situată în Victoria Falls.",
+                  "text": "Atracție pentru familii în Victoria Falls, cu o colecție de șerpi.",
                   "category": "family",
                   "coords": [
                         25.83847,
@@ -1291,7 +1291,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Steam Loco",
-                  "text": "Steam Loco este o expoziție muzeală situată în Victoria Falls.",
+                  "text": "Muzeu care adăpostește o locomotivă cu abur istorică din epoca feroviară colonială.",
                   "category": "museum",
                   "coords": [
                         25.839878,
@@ -1300,7 +1300,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Horseshoe Falls",
-                  "text": "Horseshoe Falls este o secțiune de stâncă distinctă a faimoasei Cascade Victoria.",
+                  "text": "Horseshoe Falls, o cascadă largă pe partea zimbabwiană a Cascadelor Victoria.",
                   "category": "landmark",
                   "coords": [
                         25.854848,
@@ -1318,7 +1318,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Main Falls",
-                  "text": "Main Falls este cea mai mare secțiune de stâncă a spectaculoasei Cascade Victoria.",
+                  "text": "Main Falls, secțiunea centrală și cea mai puternică a Cascadelor Victoria.",
                   "category": "landmark",
                   "coords": [
                         25.852124,
@@ -1336,7 +1336,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Rainbow Falls",
-                  "text": "Rainbow Falls este o margine de stâncă renumită a vastei Cascade Victoria.",
+                  "text": "Rainbow Falls, o parte a Cascadelor Victoria cunoscută pentru curcubeiele frecvente.",
                   "category": "landmark",
                   "coords": [
                         25.857128,
@@ -1345,7 +1345,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Arm Chair Falls",
-                  "text": "Arm Chair Falls este o caracteristică de stâncă specifică a vastei Cascade Victoria.",
+                  "text": "Arm Chair Falls, o cascadă mai mică de-a lungul marginii Cascadelor Victoria.",
                   "category": "landmark",
                   "coords": [
                         25.858979,
@@ -1354,7 +1354,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Danger Point",
-                  "text": "Danger Point este un punct de belvedere situat în Victoria Falls.",
+                  "text": "Danger Point, un punct de belvedere pe stâncă cu vederi spectaculoase asupra defileului de dedesubt.",
                   "category": "natural",
                   "coords": [
                         25.859155,
@@ -1363,7 +1363,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Boiling Pot",
-                  "text": "Boiling Pot este un punct de belvedere pitoresc situat în Victoria Falls.",
+                  "text": "Boiling Pot, bazinul turbulent de la baza Cascadelor Victoria.",
                   "category": "natural",
                   "coords": [
                         25.859391,
@@ -1372,7 +1372,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Big Tree (Baobab)",
-                  "text": "Big Tree (Baobab) este o atracție naturală notabilă din Victoria Falls.",
+                  "text": "Big Tree, un baobab uriaș lângă Cascadelor Victoria, estimat la peste 1.000 de ani.",
                   "category": "landmark",
                   "coords": [
                         25.84125,
@@ -1417,7 +1417,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "13 Horse Shoe Falls",
-                  "text": "13 Horse Shoe Falls este un punct de belvedere situat în Victoria Falls.",
+                  "text": "13 Horseshoe Falls, o serie de cascade mici în amonte de Cascadelor Victoria.",
                   "category": "natural",
                   "coords": [
                         25.854963,
@@ -1435,7 +1435,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Bridge Swing & Zipline - End (Shearwater)",
-                  "text": "Bridge Swing & Zipline - End (Shearwater) este o atracție de aventură din Victoria Falls.",
+                  "text": "Punctul final al saltului de pe pod și tirolianei Shearwater pe Podul Cascadelor Victoria.",
                   "category": "landmark",
                   "coords": [
                         25.857253,
@@ -1444,7 +1444,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Bridge Zipline - Beginning (Shearwater)",
-                  "text": "Bridge Zipline - Beginning (Shearwater) este o atracție de sporturi de aventură din Victoria Falls.",
+                  "text": "Punctul de plecare al tirolianei Shearwater pe Podul Cascadelor Victoria.",
                   "category": "landmark",
                   "coords": [
                         25.85659,
@@ -1462,7 +1462,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Zambezi river view point",
-                  "text": "Zambezi river view point este un punct pitoresc de belvedere din Victoria Falls.",
+                  "text": "Punct de belvedere cu vedere la râul Zambezi lângă Cascadelor Victoria.",
                   "category": "natural",
                   "coords": [
                         25.847457,
@@ -1471,7 +1471,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Chipala Cultural Experience",
-                  "text": "Chipala Cultural Experience este o atracție culturală locală situată în Victoria Falls.",
+                  "text": "Chipala Cultural Experience, un sat tradițional care oferă demonstrații de dans și meșteșuguri.",
                   "category": "landmark",
                   "coords": [
                         25.839812,
@@ -1480,7 +1480,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Zambezi Horse Trails",
-                  "text": "Zambezi Horse Trails este o atracție ecvestră situată în Victoria Falls.",
+                  "text": "Zambezi Horse Trails, plimbări călare de-a lungul râului Zambezi.",
                   "category": "landmark",
                   "coords": [
                         25.83757,
@@ -1489,7 +1489,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Gorge Swing & Zipline (Wild Horizons)",
-                  "text": "Gorge Swing & Zipline (Wild Horizons) este o atracție de aventură situată în Victoria Falls.",
+                  "text": "Saltul în defileu și tiroliana Wild Horizons deasupra Defileului Batoka.",
                   "category": "landmark",
                   "coords": [
                         25.848257,
@@ -1498,7 +1498,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Adventure zone",
-                  "text": "Adventure zone este o atracție de recreere situată în Victoria Falls.",
+                  "text": "Zonă de aventură în Victoria Falls, cu diverse activități de senzație.",
                   "category": "landmark",
                   "coords": [
                         25.834391,
@@ -1509,7 +1509,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Victoria Falls Bridge Visitor Centre",
-                  "text": "Victoria Falls Bridge Visitor Centre is a museum providing information about the bridge in Victoria Falls.",
+                  "text": "Visitor centre at Victoria Falls Bridge with exhibits on its construction and the gorge.",
                   "category": "museum",
                   "coords": [
                         25.85768,
@@ -1518,7 +1518,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "The Snake Pit",
-                  "text": "The Snake Pit is a zoological facility located in Victoria Falls.",
+                  "text": "Family attraction in Victoria Falls featuring a collection of snakes.",
                   "category": "family",
                   "coords": [
                         25.83847,
@@ -1527,7 +1527,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Steam Loco",
-                  "text": "Steam Loco is a museum exhibit located in Victoria Falls.",
+                  "text": "Museum housing a historic steam locomotive from the colonial railway era.",
                   "category": "museum",
                   "coords": [
                         25.839878,
@@ -1536,7 +1536,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Horseshoe Falls",
-                  "text": "Horseshoe Falls is a distinct cliff section of the famous Victoria Falls.",
+                  "text": "Horseshoe Falls, a wide cascade on the Zimbabwean side of Victoria Falls.",
                   "category": "landmark",
                   "coords": [
                         25.854848,
@@ -1554,7 +1554,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Main Falls",
-                  "text": "Main Falls is the largest cliff section of the spectacular Victoria Falls.",
+                  "text": "Main Falls, the central and most powerful section of Victoria Falls.",
                   "category": "landmark",
                   "coords": [
                         25.852124,
@@ -1572,7 +1572,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Rainbow Falls",
-                  "text": "Rainbow Falls is a renowned cliff edge of the vast Victoria Falls.",
+                  "text": "Rainbow Falls, a part of Victoria Falls known for frequent rainbows.",
                   "category": "landmark",
                   "coords": [
                         25.857128,
@@ -1581,7 +1581,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Arm Chair Falls",
-                  "text": "Arm Chair Falls is a specific cliff feature of the expansive Victoria Falls.",
+                  "text": "Arm Chair Falls, a smaller cascade along the Victoria Falls rim.",
                   "category": "landmark",
                   "coords": [
                         25.858979,
@@ -1590,7 +1590,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Danger Point",
-                  "text": "Danger Point is an observational viewpoint situated in Victoria Falls.",
+                  "text": "Danger Point, a cliff viewpoint offering dramatic views of the gorge below.",
                   "category": "natural",
                   "coords": [
                         25.859155,
@@ -1599,7 +1599,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Boiling Pot",
-                  "text": "Boiling Pot is a scenic viewpoint located in Victoria Falls.",
+                  "text": "Boiling Pot, the turbulent pool at the base of Victoria Falls.",
                   "category": "natural",
                   "coords": [
                         25.859391,
@@ -1608,7 +1608,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Big Tree (Baobab)",
-                  "text": "The Big Tree (Baobab) is a notable natural attraction in Victoria Falls.",
+                  "text": "Big Tree, a giant baobab estimated to be over 1,000 years old near Victoria Falls.",
                   "category": "landmark",
                   "coords": [
                         25.84125,
@@ -1653,7 +1653,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "13 Horse Shoe Falls",
-                  "text": "13 Horse Shoe Falls is a viewpoint situated in Victoria Falls.",
+                  "text": "13 Horseshoe Falls, a series of small waterfalls upstream of Victoria Falls.",
                   "category": "natural",
                   "coords": [
                         25.854963,
@@ -1671,7 +1671,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Bridge Swing & Zipline - End (Shearwater)",
-                  "text": "Bridge Swing & Zipline - End (Shearwater) is an adventure attraction in Victoria Falls.",
+                  "text": "End point of Shearwater's bridge swing and zipline on Victoria Falls Bridge.",
                   "category": "landmark",
                   "coords": [
                         25.857253,
@@ -1680,7 +1680,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Bridge Zipline - Beginning (Shearwater)",
-                  "text": "Bridge Zipline - Beginning (Shearwater) is an adventure sports attraction in Victoria Falls.",
+                  "text": "Start point of Shearwater's zipline on Victoria Falls Bridge.",
                   "category": "landmark",
                   "coords": [
                         25.85659,
@@ -1698,7 +1698,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Zambezi river view point",
-                  "text": "Zambezi river view point is a scenic observational point in Victoria Falls.",
+                  "text": "Viewpoint overlooking the Zambezi River near Victoria Falls.",
                   "category": "natural",
                   "coords": [
                         25.847457,
@@ -1707,7 +1707,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Chipala Cultural Experience",
-                  "text": "Chipala Cultural Experience is a local cultural attraction situated in Victoria Falls.",
+                  "text": "Chipala Cultural Experience, a traditional village offering dance and craft demonstrations.",
                   "category": "landmark",
                   "coords": [
                         25.839812,
@@ -1716,7 +1716,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Zambezi Horse Trails",
-                  "text": "Zambezi Horse Trails is an equestrian attraction located in Victoria Falls.",
+                  "text": "Zambezi Horse Trails, horseback riding along the Zambezi River.",
                   "category": "landmark",
                   "coords": [
                         25.83757,
@@ -1725,7 +1725,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Gorge Swing & Zipline (Wild Horizons)",
-                  "text": "Gorge Swing & Zipline (Wild Horizons) is an adventure attraction situated in Victoria Falls.",
+                  "text": "Wild Horizons' gorge swing and zipline over the Batoka Gorge.",
                   "category": "landmark",
                   "coords": [
                         25.848257,
@@ -1734,7 +1734,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             },
             {
                   "name": "Adventure zone",
-                  "text": "Adventure zone is a recreational attraction located in Victoria Falls.",
+                  "text": "Adventure zone in Victoria Falls offering various thrill activities.",
                   "category": "landmark",
                   "coords": [
                         25.834391,

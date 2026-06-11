@@ -7,7 +7,7 @@ export const swedenCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Fria Bad",
-                  "text": "Fria Bad ist ein beliebter Stadtstrand in Helsingborg.",
+                  "text": "Öffentliches Bad und Schwimmbereich an der Öresund-Küste in Helsingborg.",
                   "category": "recreational",
                   "coords": [
                         12.681009,
@@ -81,7 +81,7 @@ export const swedenCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Fria Bad",
-                  "text": "Fria Bad egy népszerű városi strand Helsingborgban.",
+                  "text": "Nyilvános fürdő és úszóhely az Öresund partján Helsingborgban.",
                   "category": "recreational",
                   "coords": [
                         12.681009,
@@ -155,7 +155,7 @@ export const swedenCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Fria Bad",
-                  "text": "Fria Bad este o plajă urbană populară în Helsingborg.",
+                  "text": "Baie publică și zonă de înot pe coasta Öresund din Helsingborg.",
                   "category": "recreational",
                   "coords": [
                         12.681009,
@@ -229,7 +229,7 @@ export const swedenCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Fria Bad",
-                  "text": "Fria Bad is a popular city beach in Helsingborg.",
+                  "text": "Public bath and swimming area on the Öresund coast in Helsingborg.",
                   "category": "recreational",
                   "coords": [
                         12.681009,
@@ -359,7 +359,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Norrköpings stadsmuseum",
-                  "text": "Das Stadtmuseum von Norrköping, das die reiche Industriegeschichte der Stadt in einer ehemaligen Textilfabrik dokumentiert.",
+                  "text": "Ein Stadtmuseum in Norrköping, das in einer ehemaligen Textilfabrik aus dem 19. Jahrhundert untergebracht ist.",
                   "category": "museum",
                   "coords": [
                         16.179927,
@@ -377,7 +377,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Louis De Geer Konsert & Kongress",
-                  "text": "Eine bedeutende Konzert- und Kongresshalle in Norrköping, benannt nach dem prominenten Industriellen Louis De Geer.",
+                  "text": "Eine kleine Holzkapelle in Norrköping, umgeben von Wald.",
                   "category": "cultural",
                   "coords": [
                         16.183817,
@@ -386,7 +386,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "X-Scenen",
-                  "text": "Ein Veranstaltungsort für zeitgenössisches Theater und experimentelle Aufführungen in Norrköping.",
+                  "text": "Historisches Herrenhaus Borgs in Norrköping.",
                   "category": "cultural",
                   "coords": [
                         16.189455,
@@ -404,7 +404,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Visualiseringscenter C",
-                  "text": "Ein hochmodernes Wissenschaftszentrum in Norrköping, das sich auf Visualisierungstechnologie und interaktive digitale Medien konzentriert.",
+                  "text": "Wissenschaftsmuseum mit Schwerpunkt auf Visualisierungstechnologie in Norrköping.",
                   "category": "museum",
                   "coords": [
                         16.177478,
@@ -413,7 +413,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Färgargården friluftsmuseum",
-                  "text": "Ein Freilichtmuseum in Norrköping, das einen historischen Färberhof und das Werkstattleben des 19. Jahrhunderts zeigt.",
+                  "text": "Freilichtmuseum mit einem historischen Färberhof in Norrköping.",
                   "category": "museum",
                   "coords": [
                         16.167677,
@@ -431,7 +431,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Dynamo",
-                  "text": "Ein Kulturort in Norrköping, an dem Theateraufführungen, Konzerte und jugendgerechte künstlerische Veranstaltungen stattfinden.",
+                  "text": "Kulturzentrum Dynamo mit Konzerten und Veranstaltungen in Norrköping.",
                   "category": "cultural",
                   "coords": [
                         16.177853,
@@ -440,7 +440,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Lilla teatern",
-                  "text": "Ein gemütliches Theater in Norrköping, das für kleinere Produktionen und lokale Theatergruppen bekannt ist.",
+                  "text": "Kleines Theater, bekannt für intime Aufführungen, in Norrköping.",
                   "category": "cultural",
                   "coords": [
                         16.172386,
@@ -458,7 +458,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Hällristningsmuséet",
-                  "text": "Museum in Norrköping, das sich den prähistorischen Felsritzungen widmet.",
+                  "text": "Museum für bronzezeitliche Felsritzungen in Norrköping.",
                   "category": "museum",
                   "coords": [
                         16.155239,
@@ -467,7 +467,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Norrköpings spårvägsmuseum",
-                  "text": "Museum in Norrköping, das die Geschichte der städtischen Straßenbahnen zeigt.",
+                  "text": "Norrköping Symphony Orchestra, das im Konzertsaal in Norrköping auftritt.",
                   "category": "museum",
                   "coords": [
                         16.206935,
@@ -476,7 +476,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Folkparken",
-                  "text": "Ein weitläufiger Volkspark in Norrköping für Erholung und Veranstaltungen.",
+                  "text": "Der Folkparken ist ein öffentlicher Park mit einer Freilichtbühne und einem Musikpavillon.",
                   "category": "park",
                   "coords": [
                         16.168058,
@@ -485,7 +485,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Strömparken",
-                  "text": "Ein zentral gelegener Park am Flussufer in Norrköping.",
+                  "text": "Ein Park am Motala Ström im Zentrum von Norrköping.",
                   "category": "park",
                   "coords": [
                         16.184357,
@@ -521,7 +521,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Mässhallen",
-                  "text": "Eine große Mehrzweckhalle für Veranstaltungen und Messen in Norrköping.",
+                  "text": "Große Messehalle in Norrköping für Messen und Veranstaltungen.",
                   "category": "landmark",
                   "coords": [
                         16.146759,
@@ -530,7 +530,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Ståhl Collection",
-                  "text": "Private Kunstsammlung in Norrköping mit Fokus auf zeitgenössische Kunst.",
+                  "text": "Museum Ståhl Collection mit historischen Objekten in Norrköping.",
                   "category": "museum",
                   "coords": [
                         16.183308,
@@ -566,7 +566,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Himmelstadlund",
-                  "text": "Ein Herrenhaus in Norrköping, bekannt für die angrenzenden prähistorischen Felsritzungen.",
+                  "text": "Historisches Anwesen Himmelstadlund in Norrköping.",
                   "category": "historical",
                   "coords": [
                         16.152498,
@@ -584,7 +584,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Matteus kyrka",
-                  "text": "Eine neugotische Backsteinkirche im nördlichen Teil von Norrköping.",
+                  "text": "Die Matteus kyrka ist eine neugotische Kirche mit einem markanten Turm im Stadtteil Södra.",
                   "category": "religious",
                   "coords": [
                         16.171778,
@@ -629,7 +629,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Söderledskyrkan",
-                  "text": "Ein modernes Kirchengebäude im südlichen Teil von Norrköping.",
+                  "text": "Eine moderne Kirche in Norrköping mit einem unverwechselbaren Baustil.",
                   "category": "religious",
                   "coords": [
                         16.166535,
@@ -638,7 +638,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Adventkyrkan",
-                  "text": "Das Kirchengebäude der Siebenten-Tags-Adventisten in Norrköping.",
+                  "text": "Die Adventkyrkan ist die Kirche der Siebenten-Tags-Adventisten in Norrköping.",
                   "category": "religious",
                   "coords": [
                         16.155838,
@@ -701,7 +701,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Lundshagen Minigolf",
-                  "text": "Lundshagen Minigolf ist ein Minigolfplatz in Norrkoeping für Familienspaß.",
+                  "text": "Minigolfplatz mit 18 Bahnen im Lundshagen-Viertel von Norrköping.",
                   "category": "family",
                   "coords": [
                         16.149937,
@@ -710,7 +710,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "KFUM Minigolf",
-                  "text": "KFUM Minigolf ist ein Minigolfplatz in Norrkoeping für Familienspaß.",
+                  "text": "KFUM-Minigolfplatz, ein familienfreundlicher Minigolf in Norrköping.",
                   "category": "family",
                   "coords": [
                         16.165184,
@@ -766,7 +766,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Norrköpings stadsmuseum",
-                  "text": "Norrköping városi múzeuma, amely a város gazdag ipari múltját mutatja be egy egykori textilgyár épületében.",
+                  "text": "Egy városi múzeum Norrköpingben, amely egy 19. századi textilgyárban kapott helyet.",
                   "category": "museum",
                   "coords": [
                         16.179927,
@@ -784,7 +784,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Louis De Geer Konsert & Kongress",
-                  "text": "Norrköping jelentős koncert- és kongresszusi központja, amely a neves iparosról, Louis De Geerről kapta a nevét.",
+                  "text": "Egy kis fakápolna Norrköpingben, erdővel körülvéve.",
                   "category": "cultural",
                   "coords": [
                         16.183817,
@@ -793,7 +793,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "X-Scenen",
-                  "text": "Kortárs színházi és kísérleti előadások helyszíne Norrköpingben.",
+                  "text": "Borgs történelmi kúriája Norrköpingben.",
                   "category": "cultural",
                   "coords": [
                         16.189455,
@@ -811,7 +811,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Visualiseringscenter C",
-                  "text": "Norrköpingi csúcstechnológiás tudományos központ, amely a vizualizációs technológiára és az interaktív digitális médiára összpontosít.",
+                  "text": "Tudományos múzeum, amely a vizualizációs technológiára összpontosít Norrköpingben.",
                   "category": "museum",
                   "coords": [
                         16.177478,
@@ -820,7 +820,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Färgargården friluftsmuseum",
-                  "text": "Szabadtéri múzeum Norrköpingben, amely egy történelmi kelmefestő műhelyt és a 19. századi iparoséletet mutatja be.",
+                  "text": "Szabadtéri múzeum egy történelmi festőudvar köré épülve Norrköpingben.",
                   "category": "museum",
                   "coords": [
                         16.167677,
@@ -838,7 +838,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Dynamo",
-                  "text": "Norrköpingi kulturális helyszín, amely színházi előadásoknak, koncerteknek és ifjúsági művészeti eseményeknek ad otthont.",
+                  "text": "Dynamo kulturális központ, amely koncerteknek és rendezvényeknek ad otthont Norrköpingben.",
                   "category": "cultural",
                   "coords": [
                         16.177853,
@@ -847,7 +847,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Lilla teatern",
-                  "text": "Norrköpingi meghitt színház, amely kisebb produkcióknak és helyi színtársulatoknak ad otthont.",
+                  "text": "Kis színház, amely intim előadásairól ismert Norrköpingben.",
                   "category": "cultural",
                   "coords": [
                         16.172386,
@@ -865,7 +865,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Hällristningsmuséet",
-                  "text": "Múzeum Norrköpingben, amely a prehisztorikus sziklarajzokkal foglalkozik.",
+                  "text": "Bronzkori sziklarajzoknak szentelt múzeum Norrköpingben.",
                   "category": "museum",
                   "coords": [
                         16.155239,
@@ -874,7 +874,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Norrköpings spårvägsmuseum",
-                  "text": "Múzeum Norrköpingben, amely a városi villamosok történetét mutatja be.",
+                  "text": "Norrköpingi Szimfonikus Zenekar, amely a város hangversenytermében játszik.",
                   "category": "museum",
                   "coords": [
                         16.206935,
@@ -883,7 +883,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Folkparken",
-                  "text": "Kiterjedt néppark Norrköpingben kikapcsolódáshoz és rendezvényekhez.",
+                  "text": "A Folkparken egy nyilvános park szabadtéri színpaddal és zenepavilonnal.",
                   "category": "park",
                   "coords": [
                         16.168058,
@@ -892,7 +892,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Strömparken",
-                  "text": "Központi fekvésű folyóparti park Norrköpingben.",
+                  "text": "Egy folyóparti park a Motala Ström mellett Norrköping központjában.",
                   "category": "park",
                   "coords": [
                         16.184357,
@@ -928,7 +928,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Mässhallen",
-                  "text": "Nagy többcélú csarnok rendezvények és vásárok számára Norrköpingben.",
+                  "text": "Nagy kiállítócsarnok Norrköpingben, vásárok és rendezvények számára.",
                   "category": "landmark",
                   "coords": [
                         16.146759,
@@ -937,7 +937,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Ståhl Collection",
-                  "text": "Magán művészeti gyűjtemény Norrköpingben, a kortárs művészetre összpontosítva.",
+                  "text": "Ståhl Collection múzeum, történelmi tárgyakkal Norrköpingben.",
                   "category": "museum",
                   "coords": [
                         16.183308,
@@ -973,7 +973,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Himmelstadlund",
-                  "text": "Udvarház Norrköpingben, a szomszédos prehisztorikus sziklarajzokról ismert.",
+                  "text": "Himmelstadlund történelmi birtok Norrköpingben.",
                   "category": "historical",
                   "coords": [
                         16.152498,
@@ -991,7 +991,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Matteus kyrka",
-                  "text": "Neogótikus téglatemplom Norrköping északi részén.",
+                  "text": "A Matteus-templom egy neogótikus templom, jellegzetes toronnyal a Södra negyedben.",
                   "category": "religious",
                   "coords": [
                         16.171778,
@@ -1036,7 +1036,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Söderledskyrkan",
-                  "text": "Modern templomépület Norrköping déli részén.",
+                  "text": "Egy modern templom Norrköpingben, jellegzetes építészeti stílussal.",
                   "category": "religious",
                   "coords": [
                         16.166535,
@@ -1045,7 +1045,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Adventkyrkan",
-                  "text": "A Hetednapi Adventista Egyház templomépülete Norrköpingben.",
+                  "text": "Az Adventkyrkan a Hetednapi Adventisták temploma Norrköpingben.",
                   "category": "religious",
                   "coords": [
                         16.155838,
@@ -1108,7 +1108,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Lundshagen Minigolf",
-                  "text": "A Lundshagen Minigolf egy minigolfpálya Norrkoeping városában, amely családi szórakozást kínál.",
+                  "text": "Minigolfpálya 18 lyukkal Norrköping Lundshagen negyedében.",
                   "category": "family",
                   "coords": [
                         16.149937,
@@ -1117,7 +1117,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "KFUM Minigolf",
-                  "text": "A KFUM Minigolf egy minigolfpálya Norrkoeping városában, amely családi szórakozást kínál.",
+                  "text": "KFUM minigolfpálya, családbarát minigolf Norrköpingben.",
                   "category": "family",
                   "coords": [
                         16.165184,
@@ -1173,7 +1173,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Norrköpings stadsmuseum",
-                  "text": "Muzeul orașului Norrköping, care documentează bogata istorie industrială a orașului într-o fostă fabrică de textile.",
+                  "text": "Un muzeu municipal în Norrköping găzduit într-o fostă fabrică textilă din secolul al XIX-lea.",
                   "category": "museum",
                   "coords": [
                         16.179927,
@@ -1191,7 +1191,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Louis De Geer Konsert & Kongress",
-                  "text": "O importantă sală de concerte și congrese în Norrköping, numită după proeminentul industriaș Louis De Geer.",
+                  "text": "O mică capelă de lemn în Norrköping, înconjurată de pădure.",
                   "category": "cultural",
                   "coords": [
                         16.183817,
@@ -1200,7 +1200,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "X-Scenen",
-                  "text": "Un loc pentru teatru contemporan și spectacole experimentale situat în Norrköping.",
+                  "text": "Conac istoric Borgs în Norrköping.",
                   "category": "cultural",
                   "coords": [
                         16.189455,
@@ -1218,7 +1218,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Visualiseringscenter C",
-                  "text": "Un centru științific de înaltă tehnologie în Norrköping, axat pe tehnologia de vizualizare și mediile digitale interactive.",
+                  "text": "Muzeu științific axat pe tehnologia de vizualizare în Norrköping.",
                   "category": "museum",
                   "coords": [
                         16.177478,
@@ -1227,7 +1227,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Färgargården friluftsmuseum",
-                  "text": "Un muzeu în aer liber în Norrköping, care prezintă o fermă istorică de vopsitori și viața de atelier din secolul al XIX-lea.",
+                  "text": "Muzeu în aer liber centrat pe o curte istorică de vopsitorie în Norrköping.",
                   "category": "museum",
                   "coords": [
                         16.167677,
@@ -1245,7 +1245,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Dynamo",
-                  "text": "Un spațiu cultural în Norrköping care găzduiește teatru, concerte și evenimente artistice orientate spre tineret.",
+                  "text": "Centru cultural Dynamo care găzduiește concerte și evenimente în Norrköping.",
                   "category": "cultural",
                   "coords": [
                         16.177853,
@@ -1254,7 +1254,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Lilla teatern",
-                  "text": "Un teatru intim din Norrköping, cunoscut pentru găzduirea unor producții mai mici și a grupurilor de teatru locale.",
+                  "text": "Teatru mic cunoscut pentru spectacole intime în Norrköping.",
                   "category": "cultural",
                   "coords": [
                         16.172386,
@@ -1272,7 +1272,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Hällristningsmuséet",
-                  "text": "Muzeu din Norrköping dedicat gravurilor rupestre preistorice.",
+                  "text": "Muzeu dedicat sculpturilor rupestre din epoca bronzului în Norrköping.",
                   "category": "museum",
                   "coords": [
                         16.155239,
@@ -1281,7 +1281,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Norrköpings spårvägsmuseum",
-                  "text": "Muzeu din Norrköping care prezintă istoria tramvaielor orașului.",
+                  "text": "Orchestra Simfonică Norrköping, care cântă în sala de concerte din Norrköping.",
                   "category": "museum",
                   "coords": [
                         16.206935,
@@ -1290,7 +1290,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Folkparken",
-                  "text": "Un parc public vast în Norrköping pentru recreere și evenimente.",
+                  "text": "Folkparken este un parc public cu o scenă în aer liber și un pavilion de muzică.",
                   "category": "park",
                   "coords": [
                         16.168058,
@@ -1299,7 +1299,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Strömparken",
-                  "text": "Un parc central situat pe malul râului în Norrköping.",
+                  "text": "Un parc pe malul râului Motala Ström în centrul orașului Norrköping.",
                   "category": "park",
                   "coords": [
                         16.184357,
@@ -1335,7 +1335,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Mässhallen",
-                  "text": "O sală multifuncțională mare pentru evenimente și târguri în Norrköping.",
+                  "text": "Sală mare de expoziții în Norrköping, folosită pentru târguri și evenimente.",
                   "category": "landmark",
                   "coords": [
                         16.146759,
@@ -1344,7 +1344,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Ståhl Collection",
-                  "text": "Colecție privată de artă în Norrköping, cu accent pe arta contemporană.",
+                  "text": "Colecția Ståhl, muzeu de obiecte istorice în Norrköping.",
                   "category": "museum",
                   "coords": [
                         16.183308,
@@ -1380,7 +1380,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Himmelstadlund",
-                  "text": "Un conac în Norrköping, cunoscut pentru gravurile rupestre preistorice adiacente.",
+                  "text": "Domeniu istoric Himmelstadlund în Norrköping.",
                   "category": "historical",
                   "coords": [
                         16.152498,
@@ -1398,7 +1398,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Matteus kyrka",
-                  "text": "O biserică neogotică din cărămidă în partea de nord a orașului Norrköping.",
+                  "text": "Biserica Matteus este o biserică neogotică cu un turn distinctiv în cartierul Södra.",
                   "category": "religious",
                   "coords": [
                         16.171778,
@@ -1443,7 +1443,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Söderledskyrkan",
-                  "text": "O clădire modernă de biserică în partea de sud a orașului Norrköping.",
+                  "text": "O biserică modernă în Norrköping cu un stil arhitectural distinctiv.",
                   "category": "religious",
                   "coords": [
                         16.166535,
@@ -1452,7 +1452,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Adventkyrkan",
-                  "text": "Clădirea bisericii Adventiste de Ziua a Șaptea din Norrköping.",
+                  "text": "Adventkyrkan este biserica adventiștilor de ziua a șaptea din Norrköping.",
                   "category": "religious",
                   "coords": [
                         16.155838,
@@ -1515,7 +1515,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Lundshagen Minigolf",
-                  "text": "Lundshagen Minigolf este un teren de minigolf în Norrkoeping pentru distracție în familie.",
+                  "text": "Teren de minigolf cu 18 găuri în cartierul Lundshagen din Norrköping.",
                   "category": "family",
                   "coords": [
                         16.149937,
@@ -1524,7 +1524,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "KFUM Minigolf",
-                  "text": "KFUM Minigolf este un teren de minigolf în Norrkoeping pentru distracție în familie.",
+                  "text": "Terenul de minigolf KFUM, un mini-golf pentru familii în Norrköping.",
                   "category": "family",
                   "coords": [
                         16.165184,
@@ -1580,7 +1580,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Norrköpings stadsmuseum",
-                  "text": "The city museum of Norrköping, documenting the town's rich industrial history in a former textile mill.",
+                  "text": "A city museum in Norrköping housed in a former 19th-century textile mill.",
                   "category": "museum",
                   "coords": [
                         16.179927,
@@ -1598,7 +1598,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Louis De Geer Konsert & Kongress",
-                  "text": "A major concert and congress hall in Norrköping, named after the prominent industrialist Louis De Geer.",
+                  "text": "A small wooden chapel in Norrköping surrounded by forest.",
                   "category": "cultural",
                   "coords": [
                         16.183817,
@@ -1607,7 +1607,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "X-Scenen",
-                  "text": "A venue for contemporary theater and experimental performances located in Norrköping.",
+                  "text": "Historic manor house of Borgs in Norrköping.",
                   "category": "cultural",
                   "coords": [
                         16.189455,
@@ -1625,7 +1625,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Visualiseringscenter C",
-                  "text": "A high-tech science center in Norrköping focused on visualization technology and interactive digital media.",
+                  "text": "Science museum focusing on visualization technology in Norrköping.",
                   "category": "museum",
                   "coords": [
                         16.177478,
@@ -1634,7 +1634,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Färgargården friluftsmuseum",
-                  "text": "An open-air museum in Norrköping showcasing a historic dyer's farm and 19th-century workshop life.",
+                  "text": "Open-air museum centred on a historic dyer's yard in Norrköping.",
                   "category": "museum",
                   "coords": [
                         16.167677,
@@ -1652,7 +1652,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Dynamo",
-                  "text": "A cultural venue in Norrköping hosting theater, concerts, and youth-oriented artistic events.",
+                  "text": "Dynamo cultural centre hosting concerts and events in Norrköping.",
                   "category": "cultural",
                   "coords": [
                         16.177853,
@@ -1661,7 +1661,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Lilla teatern",
-                  "text": "An intimate theater in Norrköping known for hosting smaller productions and local drama groups.",
+                  "text": "Small theatre known for intimate performances in Norrköping.",
                   "category": "cultural",
                   "coords": [
                         16.172386,
@@ -1679,7 +1679,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Hällristningsmuséet",
-                  "text": "Museum in Norrköping dedicated to prehistoric rock carvings.",
+                  "text": "Museum dedicated to Bronze Age rock carvings in Norrköping.",
                   "category": "museum",
                   "coords": [
                         16.155239,
@@ -1688,7 +1688,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Norrköpings spårvägsmuseum",
-                  "text": "Museum in Norrköping showcasing the history of the city's trams.",
+                  "text": "Norrköping Symphony Orchestra performing at the concert hall in Norrköping.",
                   "category": "museum",
                   "coords": [
                         16.206935,
@@ -1697,7 +1697,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Folkparken",
-                  "text": "A large public park in Norrköping for recreation and events.",
+                  "text": "Folkparken is a public park with an open-air stage and a music pavilion.",
                   "category": "park",
                   "coords": [
                         16.168058,
@@ -1706,7 +1706,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Strömparken",
-                  "text": "A centrally located riverside park in Norrköping.",
+                  "text": "A riverside park along the Motala Ström river in central Norrköping.",
                   "category": "park",
                   "coords": [
                         16.184357,
@@ -1742,7 +1742,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Mässhallen",
-                  "text": "A large multi-purpose hall for events and trade fairs in Norrköping.",
+                  "text": "Large exhibition hall in Norrköping used for trade fairs and events.",
                   "category": "landmark",
                   "coords": [
                         16.146759,
@@ -1751,7 +1751,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Ståhl Collection",
-                  "text": "Private art collection in Norrköping focusing on contemporary art.",
+                  "text": "Ståhl Collection museum of historical objects in Norrköping.",
                   "category": "museum",
                   "coords": [
                         16.183308,
@@ -1787,7 +1787,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Himmelstadlund",
-                  "text": "A manor in Norrköping known for the adjacent prehistoric rock carvings.",
+                  "text": "Historic estate Himmelstadlund in Norrköping.",
                   "category": "historical",
                   "coords": [
                         16.152498,
@@ -1805,7 +1805,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Matteus kyrka",
-                  "text": "A Neo-Gothic brick church in the northern part of Norrköping.",
+                  "text": "Matteus Church is a neo-Gothic church with a distinctive tower in the Södra district.",
                   "category": "religious",
                   "coords": [
                         16.171778,
@@ -1850,7 +1850,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Söderledskyrkan",
-                  "text": "A modern church building in the southern part of Norrköping.",
+                  "text": "A modern church in Norrköping with a distinctive architectural style.",
                   "category": "religious",
                   "coords": [
                         16.166535,
@@ -1859,7 +1859,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Adventkyrkan",
-                  "text": "The Seventh-day Adventist church building in Norrköping.",
+                  "text": "Adventkyrkan is the Seventh-day Adventist church in Norrköping.",
                   "category": "religious",
                   "coords": [
                         16.155838,
@@ -1922,7 +1922,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "Lundshagen Minigolf",
-                  "text": "Lundshagen Minigolf is a miniature golf course in Norrkoeping for family fun.",
+                  "text": "Minigolf course with 18 holes in the Lundshagen area of Norrköping.",
                   "category": "family",
                   "coords": [
                         16.149937,
@@ -1931,7 +1931,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
             },
             {
                   "name": "KFUM Minigolf",
-                  "text": "KFUM Minigolf is a miniature golf course in Norrkoeping for family fun.",
+                  "text": "KFUM minigolf course, a family-friendly mini-golf in Norrköping.",
                   "category": "family",
                   "coords": [
                         16.165184,
@@ -2043,7 +2043,7 @@ imageHint: "Industrial landscape of Norrköping along the river",
             },
             {
                   "name": "Folkan",
-                  "text": "Ein traditionelles Theater- und Veranstaltungsgebäude in Borås.",
+                  "text": "Folkan, eine kulturelle Veranstaltungsstätte für Konzerte und Aufführungen in Borås.",
                   "category": "cultural",
                   "coords": [
                         12.938935,
@@ -2097,7 +2097,7 @@ imageHint: "Industrial landscape of Norrköping along the river",
             },
             {
                   "name": "Hestra klint",
-                  "text": "Ein natürlicher Aussichtspunkt in der Nähe von Borås.",
+                  "text": "Hestra klint, eine Kalksteinklippe mit Panoramablick nahe Borås.",
                   "category": "natural",
                   "coords": [
                         12.91089,
@@ -2160,7 +2160,7 @@ imageHint: "Industrial landscape of Norrköping along the river",
             },
             {
                   "name": "Sankt Ansgars kapell",
-                  "text": "Eine religiöse Kapelle in der Stadt Borås.",
+                  "text": "Sankt Ansgars kapell ist eine Kapelle in Borås, erbaut 1815.",
                   "category": "religious",
                   "coords": [
                         12.935864,
@@ -2432,7 +2432,7 @@ imageHint: "Industrial landscape of Norrköping along the river",
             },
             {
                   "name": "Folkan",
-                  "text": "Hagyományos színház- és rendezvényépület Boråsban.",
+                  "text": "Folkan, kulturális helyszín koncerteknek és előadásoknak Boråsban.",
                   "category": "cultural",
                   "coords": [
                         12.938935,
@@ -2486,7 +2486,7 @@ imageHint: "Industrial landscape of Norrköping along the river",
             },
             {
                   "name": "Hestra klint",
-                  "text": "Természetes kilátópont Borås közelében.",
+                  "text": "Hestra klint, mészkőszikla panorámakilátással Borås közelében.",
                   "category": "natural",
                   "coords": [
                         12.91089,
@@ -2549,7 +2549,7 @@ imageHint: "Industrial landscape of Norrköping along the river",
             },
             {
                   "name": "Sankt Ansgars kapell",
-                  "text": "Vallási célú kápolna Borås területén.",
+                  "text": "Sankt Ansgars kapell egy kápolna Boråsban, amely 1815-ben épült.",
                   "category": "religious",
                   "coords": [
                         12.935864,
@@ -2821,7 +2821,7 @@ imageHint: "Industrial landscape of Norrköping along the river",
             },
             {
                   "name": "Folkan",
-                  "text": "O clădire tradițională de teatru și evenimente în Borås.",
+                  "text": "Folkan, un centru cultural care găzduiește concerte și spectacole în Borås.",
                   "category": "cultural",
                   "coords": [
                         12.938935,
@@ -2875,7 +2875,7 @@ imageHint: "Industrial landscape of Norrköping along the river",
             },
             {
                   "name": "Hestra klint",
-                  "text": "Un punct de belvedere natural în apropiere de Borås.",
+                  "text": "Hestra klint, o stâncă de calcar cu vedere panoramică lângă Borås.",
                   "category": "natural",
                   "coords": [
                         12.91089,
@@ -2938,7 +2938,7 @@ imageHint: "Industrial landscape of Norrköping along the river",
             },
             {
                   "name": "Sankt Ansgars kapell",
-                  "text": "O capelă religioasă situată în Borås.",
+                  "text": "Sankt Ansgars kapell este o capelă în Borås, construită în 1815.",
                   "category": "religious",
                   "coords": [
                         12.935864,
@@ -3210,7 +3210,7 @@ imageHint: "Industrial landscape of Norrköping along the river",
             },
             {
                   "name": "Folkan",
-                  "text": "A traditional theatre and event building in Borås.",
+                  "text": "Folkan, a cultural venue hosting concerts and performances in Borås.",
                   "category": "cultural",
                   "coords": [
                         12.938935,
@@ -3264,7 +3264,7 @@ imageHint: "Industrial landscape of Norrköping along the river",
             },
             {
                   "name": "Hestra klint",
-                  "text": "A natural viewpoint located near Borås.",
+                  "text": "Hestra klint, a limestone cliff with panoramic views near Borås.",
                   "category": "natural",
                   "coords": [
                         12.91089,
@@ -3327,7 +3327,7 @@ imageHint: "Industrial landscape of Norrköping along the river",
             },
             {
                   "name": "Sankt Ansgars kapell",
-                  "text": "A religious chapel located in the city of Borås.",
+                  "text": "Sankt Ansgars kapell is a chapel in Borås, built in 1815.",
                   "category": "religious",
                   "coords": [
                         12.935864,
@@ -3628,7 +3628,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
       "de": [
             {
                   "name": "Skjulstabadet",
-                  "text": "Strand in der Nähe von Eskilstuna.",
+                  "text": "Skjulstabadet, ein Seeufer-Badebereich und Strand in Eskilstuna.",
                   "category": "recreational",
                   "coords": [
                         16.491149,
@@ -3637,7 +3637,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Vilsta Badplats",
-                  "text": "Vilsta Badplats ist eine Badestelle in der Nähe von Eskilstuna.",
+                  "text": "Vilsta Badplats, ein öffentlicher Badeplatz am Mälaren-See in Eskilstuna.",
                   "category": "recreational",
                   "coords": [
                         16.505075,
@@ -3664,7 +3664,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Eskilstuna konstmuseum",
-                  "text": "Kunstmuseum mit schwedischer und internationaler Kunst.",
+                  "text": "Ein Kunstmuseum in einem ehemaligen Industriegebäude aus dem 19. Jahrhundert.",
                   "category": "museum",
                   "coords": [
                         16.510649,
@@ -3682,7 +3682,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Kronskogen-Stenby äng",
-                  "text": "Ein großes Naturschutzgebiet mit Wanderwegen und Wiesen.",
+                  "text": "Kronskogen-Stenby äng, ein Wald- und Wiesennaturschutzgebiet in Eskilstuna.",
                   "category": "natural",
                   "coords": [
                         16.476689,
@@ -3691,7 +3691,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Årby",
-                  "text": "Ein Naturgebiet in der Nähe von Eskilstuna mit vielfältiger Flora.",
+                  "text": "Årby, ein bewaldetes Naturgebiet mit Wanderwegen in Eskilstuna.",
                   "category": "natural",
                   "coords": [
                         16.519065,
@@ -3700,7 +3700,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Rademachersmedjorna",
-                  "text": "Historische Schmieden aus dem 17. Jahrhundert, heute ein lebendiges Museum.",
+                  "text": "Rademachersmedjorna ist ein historisches Schmiedewerkstatt-Museum in Eskilstuna.",
                   "category": "museum",
                   "coords": [
                         16.507853,
@@ -3718,7 +3718,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Sörmlandsgården",
-                  "text": "Ein Freilichtmuseum, das das ländliche Leben in Sörmland zeigt.",
+                  "text": "Sörmlandsgården, ein Freilichtmuseum zur ländlichen Kultur Sörmlands in Eskilstuna.",
                   "category": "museum",
                   "coords": [
                         16.536119,
@@ -3727,7 +3727,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Tropikrally",
-                  "text": "Eine Attraktion im Parken Zoo in Eskilstuna.",
+                  "text": "Tropikrally, ein tropisch thematisierter Abenteuerpark in Eskilstuna.",
                   "category": "landmark",
                   "coords": [
                         16.482838,
@@ -3736,7 +3736,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Kamel",
-                  "text": "Kamele im Zoo von Eskilstuna.",
+                  "text": "Kamel, eine große Kamelstatue in Eskilstuna.",
                   "category": "landmark",
                   "coords": [
                         16.47638,
@@ -3745,7 +3745,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Karusell",
-                  "text": "Ein klassisches Karussell für Besucher.",
+                  "text": "Karusell, ein historisches Karussell in Eskilstuna.",
                   "category": "landmark",
                   "coords": [
                         16.484508,
@@ -3754,7 +3754,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Leopard",
-                  "text": "Leopardengehege im Parken Zoo.",
+                  "text": "Leopard, eine bronzene Leopardenstatue in Eskilstuna.",
                   "category": "landmark",
                   "coords": [
                         16.478782,
@@ -3763,7 +3763,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Tiger",
-                  "text": "Tigergehege im Parken Zoo.",
+                  "text": "Tiger, eine Tigerstatue in Eskilstuna.",
                   "category": "landmark",
                   "coords": [
                         16.48014,
@@ -3772,7 +3772,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Lejon",
-                  "text": "Löwengehege im Parken Zoo.",
+                  "text": "Lejon, eine Löwenstatue in Eskilstuna.",
                   "category": "landmark",
                   "coords": [
                         16.481525,
@@ -3781,7 +3781,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "S:t Eskilskyrkan",
-                  "text": "Eine moderne Kirche in Eskilstuna.",
+                  "text": "S:t Eskilskyrkan ist eine dem heiligen Eskil geweihte Kirche in Eskilstuna.",
                   "category": "religious",
                   "coords": [
                         16.510105,
@@ -3799,7 +3799,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Klosters kyrka",
-                  "text": "Eine markante Kirche mit zwei Türmen in Eskilstuna.",
+                  "text": "Klosters kyrka ist eine ehemalige Klosterkirche in Eskilstuna.",
                   "category": "religious",
                   "coords": [
                         16.518392,
@@ -3808,7 +3808,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Elimkyrkan",
-                  "text": "Ein freikirchliches Gebäude in Eskilstuna.",
+                  "text": "Elimkyrkan ist eine Kirche namens Elim in Eskilstuna.",
                   "category": "religious",
                   "coords": [
                         16.509338,
@@ -3817,7 +3817,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Sankt Petri kyrka",
-                  "text": "Eine evangelische Kirche in Eskilstuna.",
+                  "text": "Sankt Petri kyrka ist die Petruskirche in Eskilstuna.",
                   "category": "religious",
                   "coords": [
                         16.491106,
@@ -3826,7 +3826,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Sankt Pauli kyrka",
-                  "text": "Eine christliche Gebetsstätte in Eskilstuna.",
+                  "text": "Sankt Pauli kyrka ist die Pauluskirche in Eskilstuna.",
                   "category": "religious",
                   "coords": [
                         16.542953,
@@ -3835,7 +3835,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Nybron",
-                  "text": "Eine historische Brücke über den Fluss Eskilstunaån.",
+                  "text": "Nybron ist eine Brücke in Eskilstuna.",
                   "category": "landmark",
                   "coords": [
                         16.515794,
@@ -3844,7 +3844,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Tomaskyrkan",
-                  "text": "Eine moderne Gemeindekirche in Eskilstuna.",
+                  "text": "Tomaskyrkan ist die Thomaskirche in Eskilstuna.",
                   "category": "religious",
                   "coords": [
                         16.477799,
@@ -3853,7 +3853,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Sankt Andreas kyrka",
-                  "text": "Eine lokale Kirche in der Stadt Eskilstuna.",
+                  "text": "Sankt Andreas kyrka ist die Andreaskirche in Eskilstuna.",
                   "category": "religious",
                   "coords": [
                         16.516811,
@@ -3862,7 +3862,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Ansgarskyrkan",
-                  "text": "Ein modernes Kirchengebäude in Eskilstuna.",
+                  "text": "Ansgarskyrkan ist die Ansgarkirche in Eskilstuna.",
                   "category": "religious",
                   "coords": [
                         16.499485,
@@ -3954,7 +3954,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
       "hu": [
             {
                   "name": "Skjulstabadet",
-                  "text": "Part Eskilstuna közelében.",
+                  "text": "Skjulstabadet, tóparti fürdőhely és strand Eskilstunában.",
                   "category": "recreational",
                   "coords": [
                         16.491149,
@@ -3963,7 +3963,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Vilsta Badplats",
-                  "text": "Vilsta Badplats egy strandfürdő Eskilstuna közelében.",
+                  "text": "Vilsta Badplats, nyilvános fürdőhely a Mälaren-tónál Eskilstunában.",
                   "category": "recreational",
                   "coords": [
                         16.505075,
@@ -3990,7 +3990,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Eskilstuna konstmuseum",
-                  "text": "Művészeti múzeum svéd és nemzetközi alkotásokkal.",
+                  "text": "Egy 19. századi egykori gyárépületben működő szépművészeti múzeum.",
                   "category": "museum",
                   "coords": [
                         16.510649,
@@ -4008,7 +4008,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Kronskogen-Stenby äng",
-                  "text": "Nagy természetvédelmi terület túraútvonalakkal és rétekkel.",
+                  "text": "Kronskogen-Stenby äng, erdő és rét természetvédelmi terület Eskilstunában.",
                   "category": "natural",
                   "coords": [
                         16.476689,
@@ -4017,7 +4017,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Årby",
-                  "text": "Természeti terület Eskilstuna közelében, változatos flórával.",
+                  "text": "Årby, erdős természeti terület túraútvonalakkal Eskilstunában.",
                   "category": "natural",
                   "coords": [
                         16.519065,
@@ -4026,7 +4026,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Rademachersmedjorna",
-                  "text": "17. századi történelmi kovácsműhelyek, ma élő múzeum.",
+                  "text": "Rademachersmedjorna egy történelmi kovácsműhely-múzeum Eskilstunában.",
                   "category": "museum",
                   "coords": [
                         16.507853,
@@ -4044,7 +4044,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Sörmlandsgården",
-                  "text": "A sörmlandi vidéki életet bemutató szabadtéri múzeum.",
+                  "text": "Sörmlandsgården, szabadtéri múzeum Sörmland vidéki örökségéről Eskilstunában.",
                   "category": "museum",
                   "coords": [
                         16.536119,
@@ -4053,7 +4053,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Tropikrally",
-                  "text": "Attrakció az eskilstunai Parken Zooban.",
+                  "text": "Tropikrally, trópusi tematikájú kalandpark Eskilstunában.",
                   "category": "landmark",
                   "coords": [
                         16.482838,
@@ -4062,7 +4062,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Kamel",
-                  "text": "Teve az eskilstunai állatkertben.",
+                  "text": "Kamel, egy nagy teveszobor Eskilstunában.",
                   "category": "landmark",
                   "coords": [
                         16.47638,
@@ -4071,7 +4071,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Karusell",
-                  "text": "Klasszikus körhinta a látogatók számára.",
+                  "text": "Karusell, egy történelmi körhinta Eskilstunában.",
                   "category": "landmark",
                   "coords": [
                         16.484508,
@@ -4080,7 +4080,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Leopard",
-                  "text": "Leopárdkifutó a Parken Zooban.",
+                  "text": "Leopard, egy bronz leopárd szobor Eskilstunában.",
                   "category": "landmark",
                   "coords": [
                         16.478782,
@@ -4089,7 +4089,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Tiger",
-                  "text": "Tigriskifutó a Parken Zooban.",
+                  "text": "Tiger, egy tigrisszobor Eskilstunában.",
                   "category": "landmark",
                   "coords": [
                         16.48014,
@@ -4098,7 +4098,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Lejon",
-                  "text": "Oroszlánkifutó a Parken Zooban.",
+                  "text": "Lejon, egy oroszlánszobor Eskilstunában.",
                   "category": "landmark",
                   "coords": [
                         16.481525,
@@ -4107,7 +4107,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "S:t Eskilskyrkan",
-                  "text": "Modern templom Eskilstunában.",
+                  "text": "S:t Eskilskyrkan egy Szent Eskilnek szentelt templom Eskilstunában.",
                   "category": "religious",
                   "coords": [
                         16.510105,
@@ -4125,7 +4125,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Klosters kyrka",
-                  "text": "Jellegzetes kétmilliós templom Eskilstunában.",
+                  "text": "Klosters kyrka egy egykori kolostortemplom Eskilstunában.",
                   "category": "religious",
                   "coords": [
                         16.518392,
@@ -4134,7 +4134,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Elimkyrkan",
-                  "text": "Szabadegyházi épület Eskilstunában.",
+                  "text": "Elimkyrkan egy Elim nevű templom Eskilstunában.",
                   "category": "religious",
                   "coords": [
                         16.509338,
@@ -4143,7 +4143,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Sankt Petri kyrka",
-                  "text": "Evangélikus templom Eskilstunában.",
+                  "text": "Sankt Petri kyrka a Szent Péter-templom Eskilstunában.",
                   "category": "religious",
                   "coords": [
                         16.491106,
@@ -4152,7 +4152,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Sankt Pauli kyrka",
-                  "text": "Keresztény imaház Eskilstunában.",
+                  "text": "Sankt Pauli kyrka a Szent Pál-templom Eskilstunában.",
                   "category": "religious",
                   "coords": [
                         16.542953,
@@ -4161,7 +4161,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Nybron",
-                  "text": "Történelmi híd az Eskilstunaån folyón.",
+                  "text": "Nybron egy híd Eskilstunában.",
                   "category": "landmark",
                   "coords": [
                         16.515794,
@@ -4170,7 +4170,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Tomaskyrkan",
-                  "text": "Modern egyházközségi templom Eskilstunában.",
+                  "text": "Tomaskyrkan a Tamás-templom Eskilstunában.",
                   "category": "religious",
                   "coords": [
                         16.477799,
@@ -4179,7 +4179,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Sankt Andreas kyrka",
-                  "text": "Helyi templom Eskilstuna városában.",
+                  "text": "Sankt Andreas kyrka az András-templom Eskilstunában.",
                   "category": "religious",
                   "coords": [
                         16.516811,
@@ -4188,7 +4188,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Ansgarskyrkan",
-                  "text": "Modern templomépület Eskilstunában.",
+                  "text": "Ansgarskyrkan az Ansgar-templom Eskilstunában.",
                   "category": "religious",
                   "coords": [
                         16.499485,
@@ -4280,7 +4280,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
       "ro": [
             {
                   "name": "Skjulstabadet",
-                  "text": "Plajă în apropiere de Eskilstuna.",
+                  "text": "Skjulstabadet, o zonă de înot pe malul lacului și plajă în Eskilstuna.",
                   "category": "recreational",
                   "coords": [
                         16.491149,
@@ -4289,7 +4289,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Vilsta Badplats",
-                  "text": "Vilsta Badplats este o zonă de scăldat lângă Eskilstuna.",
+                  "text": "Vilsta Badplats, un loc public de scăldat pe lacul Mälaren din Eskilstuna.",
                   "category": "recreational",
                   "coords": [
                         16.505075,
@@ -4316,7 +4316,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Eskilstuna konstmuseum",
-                  "text": "Muzeu de artă care expune lucrări suedeze și internaționale.",
+                  "text": "Un muzeu de artă într-o fostă clădire industrială din secolul al XIX-lea.",
                   "category": "museum",
                   "coords": [
                         16.510649,
@@ -4334,7 +4334,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Kronskogen-Stenby äng",
-                  "text": "O rezervație naturală mare cu trasee de drumeție și pajiști.",
+                  "text": "Kronskogen-Stenby äng, o rezervație naturală de pădure și pajiște în Eskilstuna.",
                   "category": "natural",
                   "coords": [
                         16.476689,
@@ -4343,7 +4343,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Årby",
-                  "text": "O zonă naturală lângă Eskilstuna cu o floră diversă.",
+                  "text": "Årby, o zonă naturală împădurită cu trasee în Eskilstuna.",
                   "category": "natural",
                   "coords": [
                         16.519065,
@@ -4352,7 +4352,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Rademachersmedjorna",
-                  "text": "Forje istorice din secolul al XVII-lea, astăzi un muzeu viu.",
+                  "text": "Rademachersmedjorna este un muzeu istoric al atelierelor de fierărie din Eskilstuna.",
                   "category": "museum",
                   "coords": [
                         16.507853,
@@ -4370,7 +4370,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Sörmlandsgården",
-                  "text": "Un muzeu în aer liber care prezintă viața rurală din Sörmland.",
+                  "text": "Sörmlandsgården, un muzeu în aer liber care prezintă patrimoniul rural al Sörmlandului în Eskilstuna.",
                   "category": "museum",
                   "coords": [
                         16.536119,
@@ -4379,7 +4379,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Tropikrally",
-                  "text": "O atracție în Parken Zoo din Eskilstuna.",
+                  "text": "Tropikrally, un parc de aventură cu tematică tropicală în Eskilstuna.",
                   "category": "landmark",
                   "coords": [
                         16.482838,
@@ -4388,7 +4388,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Kamel",
-                  "text": "Cămile la grădina zoologică din Eskilstuna.",
+                  "text": "Kamel, o statuie mare de cămilă în Eskilstuna.",
                   "category": "landmark",
                   "coords": [
                         16.47638,
@@ -4397,7 +4397,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Karusell",
-                  "text": "Un carusel clasic pentru vizitatori.",
+                  "text": "Karusell, un carusel istoric în Eskilstuna.",
                   "category": "landmark",
                   "coords": [
                         16.484508,
@@ -4406,7 +4406,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Leopard",
-                  "text": "Țarcul leopardului în Parken Zoo.",
+                  "text": "Leopard, o statuie de bronz a unui leopard în Eskilstuna.",
                   "category": "landmark",
                   "coords": [
                         16.478782,
@@ -4415,7 +4415,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Tiger",
-                  "text": "Țarcul tigrului în Parken Zoo.",
+                  "text": "Tiger, o sculptură a unui tigru în Eskilstuna.",
                   "category": "landmark",
                   "coords": [
                         16.48014,
@@ -4424,7 +4424,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Lejon",
-                  "text": "Țarcul leului în Parken Zoo.",
+                  "text": "Lejon, o statuie a unui leu în Eskilstuna.",
                   "category": "landmark",
                   "coords": [
                         16.481525,
@@ -4433,7 +4433,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "S:t Eskilskyrkan",
-                  "text": "O biserică modernă în Eskilstuna.",
+                  "text": "S:t Eskilskyrkan este o biserică dedicată Sfântului Eskil în Eskilstuna.",
                   "category": "religious",
                   "coords": [
                         16.510105,
@@ -4451,7 +4451,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Klosters kyrka",
-                  "text": "O biserică proeminentă cu două turnuri în Eskilstuna.",
+                  "text": "Klosters kyrka este o fostă biserică mănăstirească în Eskilstuna.",
                   "category": "religious",
                   "coords": [
                         16.518392,
@@ -4460,7 +4460,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Elimkyrkan",
-                  "text": "O clădire a bisericii libere în Eskilstuna.",
+                  "text": "Elimkyrkan este o biserică numită Elim în Eskilstuna.",
                   "category": "religious",
                   "coords": [
                         16.509338,
@@ -4469,7 +4469,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Sankt Petri kyrka",
-                  "text": "O biserică evanghelică în Eskilstuna.",
+                  "text": "Sankt Petri kyrka este biserica Sfântul Petru din Eskilstuna.",
                   "category": "religious",
                   "coords": [
                         16.491106,
@@ -4478,7 +4478,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Sankt Pauli kyrka",
-                  "text": "Un lăcaș de cult creștin în Eskilstuna.",
+                  "text": "Sankt Pauli kyrka este biserica Sfântul Pavel din Eskilstuna.",
                   "category": "religious",
                   "coords": [
                         16.542953,
@@ -4487,7 +4487,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Nybron",
-                  "text": "Un pod istoric peste râul Eskilstunaån.",
+                  "text": "Nybron este un pod în Eskilstuna.",
                   "category": "landmark",
                   "coords": [
                         16.515794,
@@ -4496,7 +4496,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Tomaskyrkan",
-                  "text": "O biserică parohială modernă în Eskilstuna.",
+                  "text": "Tomaskyrkan este biserica Sfântul Toma din Eskilstuna.",
                   "category": "religious",
                   "coords": [
                         16.477799,
@@ -4505,7 +4505,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Sankt Andreas kyrka",
-                  "text": "O biserică locală în orașul Eskilstuna.",
+                  "text": "Sankt Andreas kyrka este biserica Sfântul Andrei din Eskilstuna.",
                   "category": "religious",
                   "coords": [
                         16.516811,
@@ -4514,7 +4514,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Ansgarskyrkan",
-                  "text": "O clădire modernă de biserică în Eskilstuna.",
+                  "text": "Ansgarskyrkan este biserica Sfântul Ansgar din Eskilstuna.",
                   "category": "religious",
                   "coords": [
                         16.499485,
@@ -4606,7 +4606,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
       "en": [
             {
                   "name": "Skjulstabadet",
-                  "text": "Beach near Eskilstuna.",
+                  "text": "Skjulstabadet, a lakeside swimming area and beach in Eskilstuna.",
                   "category": "recreational",
                   "coords": [
                         16.491149,
@@ -4615,7 +4615,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Vilsta Badplats",
-                  "text": "Vilsta Badplats is a swimming area near Eskilstuna.",
+                  "text": "Vilsta Badplats, a public bathing spot on Lake Mälaren in Eskilstuna.",
                   "category": "recreational",
                   "coords": [
                         16.505075,
@@ -4642,7 +4642,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Eskilstuna konstmuseum",
-                  "text": "Art museum featuring Swedish and international works.",
+                  "text": "An art museum housed in a former industrial building from the 19th century.",
                   "category": "museum",
                   "coords": [
                         16.510649,
@@ -4660,7 +4660,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Kronskogen-Stenby äng",
-                  "text": "A large nature reserve with hiking trails and meadows.",
+                  "text": "Kronskogen-Stenby äng, a forest and meadow nature reserve in Eskilstuna.",
                   "category": "natural",
                   "coords": [
                         16.476689,
@@ -4669,7 +4669,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Årby",
-                  "text": "A nature area near Eskilstuna with diverse flora.",
+                  "text": "Årby, a wooded nature area with trails in Eskilstuna.",
                   "category": "natural",
                   "coords": [
                         16.519065,
@@ -4678,7 +4678,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Rademachersmedjorna",
-                  "text": "Historic 17th-century smithies, now a living museum.",
+                  "text": "Rademachersmedjorna is a historic blacksmith workshop museum in Eskilstuna.",
                   "category": "museum",
                   "coords": [
                         16.507853,
@@ -4696,7 +4696,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Sörmlandsgården",
-                  "text": "An open-air museum showing rural life in Sörmland.",
+                  "text": "Sörmlandsgården, an open-air museum showcasing Sörmland's rural heritage in Eskilstuna.",
                   "category": "museum",
                   "coords": [
                         16.536119,
@@ -4705,7 +4705,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Tropikrally",
-                  "text": "An attraction at Parken Zoo in Eskilstuna.",
+                  "text": "Tropikrally, a tropical-themed adventure park in Eskilstuna.",
                   "category": "landmark",
                   "coords": [
                         16.482838,
@@ -4714,7 +4714,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Kamel",
-                  "text": "Camels at the zoo in Eskilstuna.",
+                  "text": "Kamel, a large camel sculpture in Eskilstuna.",
                   "category": "landmark",
                   "coords": [
                         16.47638,
@@ -4723,7 +4723,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Karusell",
-                  "text": "A classic carousel for visitors.",
+                  "text": "Karusell, a historic carousel in Eskilstuna.",
                   "category": "landmark",
                   "coords": [
                         16.484508,
@@ -4732,7 +4732,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Leopard",
-                  "text": "Leopard enclosure at Parken Zoo.",
+                  "text": "Leopard, a bronze leopard statue in Eskilstuna.",
                   "category": "landmark",
                   "coords": [
                         16.478782,
@@ -4741,7 +4741,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Tiger",
-                  "text": "Tiger enclosure at Parken Zoo.",
+                  "text": "Tiger, a tiger sculpture in Eskilstuna.",
                   "category": "landmark",
                   "coords": [
                         16.48014,
@@ -4750,7 +4750,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Lejon",
-                  "text": "Lion enclosure at Parken Zoo.",
+                  "text": "Lejon, a lion statue in Eskilstuna.",
                   "category": "landmark",
                   "coords": [
                         16.481525,
@@ -4759,7 +4759,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "S:t Eskilskyrkan",
-                  "text": "A modern church in Eskilstuna.",
+                  "text": "S:t Eskilskyrkan is a church dedicated to Saint Eskil in Eskilstuna.",
                   "category": "religious",
                   "coords": [
                         16.510105,
@@ -4777,7 +4777,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Klosters kyrka",
-                  "text": "A prominent church with twin towers in Eskilstuna.",
+                  "text": "Klosters kyrka is a former monastery church in Eskilstuna.",
                   "category": "religious",
                   "coords": [
                         16.518392,
@@ -4786,7 +4786,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Elimkyrkan",
-                  "text": "A free church building in Eskilstuna.",
+                  "text": "Elimkyrkan is a church named Elim in Eskilstuna.",
                   "category": "religious",
                   "coords": [
                         16.509338,
@@ -4795,7 +4795,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Sankt Petri kyrka",
-                  "text": "An evangelical church in Eskilstuna.",
+                  "text": "Sankt Petri kyrka is St. Peter's Church in Eskilstuna.",
                   "category": "religious",
                   "coords": [
                         16.491106,
@@ -4804,7 +4804,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Sankt Pauli kyrka",
-                  "text": "A Christian place of worship in Eskilstuna.",
+                  "text": "Sankt Pauli kyrka is St. Paul's Church in Eskilstuna.",
                   "category": "religious",
                   "coords": [
                         16.542953,
@@ -4813,7 +4813,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Nybron",
-                  "text": "A historic bridge over the Eskilstunaån river.",
+                  "text": "Nybron is a bridge in Eskilstuna.",
                   "category": "landmark",
                   "coords": [
                         16.515794,
@@ -4822,7 +4822,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Tomaskyrkan",
-                  "text": "A modern parish church in Eskilstuna.",
+                  "text": "Tomaskyrkan is St. Thomas Church in Eskilstuna.",
                   "category": "religious",
                   "coords": [
                         16.477799,
@@ -4831,7 +4831,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Sankt Andreas kyrka",
-                  "text": "A local church in the city of Eskilstuna.",
+                  "text": "Sankt Andreas kyrka is St. Andrew's Church in Eskilstuna.",
                   "category": "religious",
                   "coords": [
                         16.516811,
@@ -4840,7 +4840,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
             },
             {
                   "name": "Ansgarskyrkan",
-                  "text": "A modern church building in Eskilstuna.",
+                  "text": "Ansgarskyrkan is St. Ansgar's Church in Eskilstuna.",
                   "category": "religious",
                   "coords": [
                         16.499485,
@@ -5096,7 +5096,7 @@ imageHint: "Eskilstuna city center river view",
             },
             {
                   "name": "Kvarnparken",
-                  "text": "Ein kleiner, gepflegter Stadtpark in Gävle.",
+                  "text": "Ein Park um eine historische Mühle in Gävle.",
                   "category": "park",
                   "coords": [
                         17.135827,
@@ -5105,7 +5105,7 @@ imageHint: "Eskilstuna city center river view",
             },
             {
                   "name": "Storvetas Park",
-                  "text": "Eine Grünanlage in Gävle für Freizeit und Erholung.",
+                  "text": "Ein Stadtteilpark im Storvet-Gebiet von Gävle.",
                   "category": "park",
                   "coords": [
                         17.14821,
@@ -5114,7 +5114,7 @@ imageHint: "Eskilstuna city center river view",
             },
             {
                   "name": "Nobelparken",
-                  "text": "Ein nach Alfred Nobel benannter Park in Gävle.",
+                  "text": "Ein Park zu Ehren von Alfred Nobel in Gävle.",
                   "category": "park",
                   "coords": [
                         17.146796,
@@ -5132,7 +5132,7 @@ imageHint: "Eskilstuna city center river view",
             },
             {
                   "name": "Navigationsparken",
-                  "text": "Ein kleiner Park im Hafenbereich von Gävle.",
+                  "text": "Ein Park am Wasser, der der Schifffahrt gewidmet ist, in Gävle.",
                   "category": "park",
                   "coords": [
                         17.151143,
@@ -5177,7 +5177,7 @@ imageHint: "Eskilstuna city center river view",
             },
             {
                   "name": "Svanar",
-                  "text": "Eine Skulptur in Gävle, die eine Gruppe von Schwänen darstellt.",
+                  "text": "Svanar ist ein historisches Areal in Gävle, benannt nach den Schwänen.",
                   "category": "historical",
                   "coords": [
                         17.145854,
@@ -5222,7 +5222,7 @@ imageHint: "Eskilstuna city center river view",
             },
             {
                   "name": "Heliga Trefaldighets kyrka",
-                  "text": "Die evangelisch-lutherische Hauptkirche im Zentrum von Gävle.",
+                  "text": "Eine Kirche aus dem 17. Jahrhundert im Zentrum von Gävle.",
                   "category": "religious",
                   "coords": [
                         17.1381,
@@ -5231,7 +5231,7 @@ imageHint: "Eskilstuna city center river view",
             },
             {
                   "name": "Betlehemskyrkan",
-                  "text": "Eine christliche Kirche der Missionsgemeinde in Gävle.",
+                  "text": "Die Bethlehem-Kirche in Gävle.",
                   "category": "religious",
                   "coords": [
                         17.15314,
@@ -5240,7 +5240,7 @@ imageHint: "Eskilstuna city center river view",
             },
             {
                   "name": "Rikets sal",
-                  "text": "Ein Versammlungsort der Zeugen Jehovas in der Stadt Gävle.",
+                  "text": "Ein Königreichssaal der Zeugen Jehovas in Gävle.",
                   "category": "religious",
                   "coords": [
                         17.153496,
@@ -5276,7 +5276,7 @@ imageHint: "Eskilstuna city center river view",
             },
             {
                   "name": "Tolvfors bruk",
-                  "text": "Ein gut erhaltenes historisches Eisenhüttengelände in Gävle.",
+                  "text": "Ein historisches Eisenwerk aus dem 19. Jahrhundert entlang der Gavleån.",
                   "category": "landmark",
                   "coords": [
                         17.10983,
@@ -5312,7 +5312,7 @@ imageHint: "Eskilstuna city center river view",
             },
             {
                   "name": "Fågeltorn",
-                  "text": "Ein hölzerner Beobachtungsturm zur Vogelbeobachtung in Gävle.",
+                  "text": "Fågeltorn ist ein Vogelbeobachtungsturm in Gävle.",
                   "category": "landmark",
                   "coords": [
                         17.190389,
@@ -5647,7 +5647,7 @@ imageHint: "Eskilstuna city center river view",
             },
             {
                   "name": "Kvarnparken",
-                  "text": "Kicsi, gondozott városi park Gävle városában.",
+                  "text": "Egy park egy történelmi malom körül Gävle-ben.",
                   "category": "park",
                   "coords": [
                         17.135827,
@@ -5656,7 +5656,7 @@ imageHint: "Eskilstuna city center river view",
             },
             {
                   "name": "Storvetas Park",
-                  "text": "Zöld terület Gävle városában szabadidőhöz és kikapcsolódáshoz.",
+                  "text": "Egy negyedi park a gävlei Storvet területen.",
                   "category": "park",
                   "coords": [
                         17.14821,
@@ -5665,7 +5665,7 @@ imageHint: "Eskilstuna city center river view",
             },
             {
                   "name": "Nobelparken",
-                  "text": "Alfred Nobelről elnevezett park Gävle városában.",
+                  "text": "Egy Alfred Nobelnek emléket állító park Gävle-ben.",
                   "category": "park",
                   "coords": [
                         17.146796,
@@ -5683,7 +5683,7 @@ imageHint: "Eskilstuna city center river view",
             },
             {
                   "name": "Navigationsparken",
-                  "text": "Kicsi park Gävle kikötői negyedében.",
+                  "text": "Egy vízparti park, amely a hajózásnak állít emléket Gävle-ben.",
                   "category": "park",
                   "coords": [
                         17.151143,
@@ -5728,7 +5728,7 @@ imageHint: "Eskilstuna city center river view",
             },
             {
                   "name": "Svanar",
-                  "text": "Szobor Gävle városában, amely egy csoport hattyút ábrázol.",
+                  "text": "Svanar egy történelmi terület Gävle-ben, a hattyúkról elnevezve.",
                   "category": "historical",
                   "coords": [
                         17.145854,
@@ -5773,7 +5773,7 @@ imageHint: "Eskilstuna city center river view",
             },
             {
                   "name": "Heliga Trefaldighets kyrka",
-                  "text": "Gävle központjának fő evangélikus temploma.",
+                  "text": "Egy 17. századi templom Gävle központjában.",
                   "category": "religious",
                   "coords": [
                         17.1381,
@@ -5782,7 +5782,7 @@ imageHint: "Eskilstuna city center river view",
             },
             {
                   "name": "Betlehemskyrkan",
-                  "text": "A missziós szövetség keresztény temploma Gävle városában.",
+                  "text": "A Betlehem templom Gävle-ben.",
                   "category": "religious",
                   "coords": [
                         17.15314,
@@ -5791,7 +5791,7 @@ imageHint: "Eskilstuna city center river view",
             },
             {
                   "name": "Rikets sal",
-                  "text": "Jehova Tanúi gyülekezeti helye Gävle városában.",
+                  "text": "Jehova Tanúi Királyság-terem Gävle-ben.",
                   "category": "religious",
                   "coords": [
                         17.153496,
@@ -5827,7 +5827,7 @@ imageHint: "Eskilstuna city center river view",
             },
             {
                   "name": "Tolvfors bruk",
-                  "text": "Egy jól megőrzött történelmi vasmű területe Gävle városában.",
+                  "text": "Egy 19. századi történelmi vasgyár a Gavleån folyó mentén.",
                   "category": "landmark",
                   "coords": [
                         17.10983,
@@ -5863,7 +5863,7 @@ imageHint: "Eskilstuna city center river view",
             },
             {
                   "name": "Fågeltorn",
-                  "text": "Fából készült kilátótorony madármegfigyeléshez Gävle területén.",
+                  "text": "Fågeltorn egy madármegfigyelő torony Gävle-ben.",
                   "category": "landmark",
                   "coords": [
                         17.190389,
@@ -6198,7 +6198,7 @@ imageHint: "Eskilstuna city center river view",
             },
             {
                   "name": "Kvarnparken",
-                  "text": "Un parc municipal mic și bine întreținut în Gävle.",
+                  "text": "Un parc în jurul unei mori istorice din Gävle.",
                   "category": "park",
                   "coords": [
                         17.135827,
@@ -6207,7 +6207,7 @@ imageHint: "Eskilstuna city center river view",
             },
             {
                   "name": "Storvetas Park",
-                  "text": "O zonă verde în Gävle pentru petrecerea timpului liber și recreere.",
+                  "text": "Un parc de cartier în zona Storvet din Gävle.",
                   "category": "park",
                   "coords": [
                         17.14821,
@@ -6216,7 +6216,7 @@ imageHint: "Eskilstuna city center river view",
             },
             {
                   "name": "Nobelparken",
-                  "text": "Un parc din Gävle numit după Alfred Nobel.",
+                  "text": "Un parc în cinstea lui Alfred Nobel în Gävle.",
                   "category": "park",
                   "coords": [
                         17.146796,
@@ -6234,7 +6234,7 @@ imageHint: "Eskilstuna city center river view",
             },
             {
                   "name": "Navigationsparken",
-                  "text": "Un parc mic în zona portuară din Gävle.",
+                  "text": "Un parc pe malul apei dedicat navigației în Gävle.",
                   "category": "park",
                   "coords": [
                         17.151143,
@@ -6279,7 +6279,7 @@ imageHint: "Eskilstuna city center river view",
             },
             {
                   "name": "Svanar",
-                  "text": "O sculptură din Gävle care înfățișează un grup de lebede.",
+                  "text": "Svanar este o zonă istorică în Gävle, numită după lebede.",
                   "category": "historical",
                   "coords": [
                         17.145854,
@@ -6324,7 +6324,7 @@ imageHint: "Eskilstuna city center river view",
             },
             {
                   "name": "Heliga Trefaldighets kyrka",
-                  "text": "Biserica luterană principală din centrul orașului Gävle.",
+                  "text": "O biserică din secolul al XVII-lea în centrul orașului Gävle.",
                   "category": "religious",
                   "coords": [
                         17.1381,
@@ -6333,7 +6333,7 @@ imageHint: "Eskilstuna city center river view",
             },
             {
                   "name": "Betlehemskyrkan",
-                  "text": "O biserică creștină a pactului misionar din Gävle.",
+                  "text": "Biserica Bethlehem din Gävle.",
                   "category": "religious",
                   "coords": [
                         17.15314,
@@ -6342,7 +6342,7 @@ imageHint: "Eskilstuna city center river view",
             },
             {
                   "name": "Rikets sal",
-                  "text": "Un lăcaș de cult al Martorilor lui Iehova din orașul Gävle.",
+                  "text": "O Sală a Regatului a Martorilor lui Iehova în Gävle.",
                   "category": "religious",
                   "coords": [
                         17.153496,
@@ -6378,7 +6378,7 @@ imageHint: "Eskilstuna city center river view",
             },
             {
                   "name": "Tolvfors bruk",
-                  "text": "Un sit istoric bine conservat al unei foste turnătorii de fier din Gävle.",
+                  "text": "O fierărie istorică din secolul al XIX-lea de-a lungul râului Gavleån.",
                   "category": "landmark",
                   "coords": [
                         17.10983,
@@ -6414,7 +6414,7 @@ imageHint: "Eskilstuna city center river view",
             },
             {
                   "name": "Fågeltorn",
-                  "text": "Un turn de observație din lemn pentru observarea păsărilor în Gävle.",
+                  "text": "Fågeltorn este un turn de observare a păsărilor în Gävle.",
                   "category": "landmark",
                   "coords": [
                         17.190389,
@@ -6749,7 +6749,7 @@ imageHint: "Eskilstuna city center river view",
             },
             {
                   "name": "Kvarnparken",
-                  "text": "A small, well-maintained city park in Gävle.",
+                  "text": "A park around a historic mill in Gävle.",
                   "category": "park",
                   "coords": [
                         17.135827,
@@ -6758,7 +6758,7 @@ imageHint: "Eskilstuna city center river view",
             },
             {
                   "name": "Storvetas Park",
-                  "text": "A green space in Gävle for leisure and recreation.",
+                  "text": "A neighborhood park in the Storvet area of Gävle.",
                   "category": "park",
                   "coords": [
                         17.14821,
@@ -6767,7 +6767,7 @@ imageHint: "Eskilstuna city center river view",
             },
             {
                   "name": "Nobelparken",
-                  "text": "A park in Gävle named after Alfred Nobel.",
+                  "text": "A park commemorating Alfred Nobel in Gävle.",
                   "category": "park",
                   "coords": [
                         17.146796,
@@ -6785,7 +6785,7 @@ imageHint: "Eskilstuna city center river view",
             },
             {
                   "name": "Navigationsparken",
-                  "text": "A small park in the harbor area of Gävle.",
+                  "text": "A waterfront park dedicated to navigation in Gävle.",
                   "category": "park",
                   "coords": [
                         17.151143,
@@ -6830,7 +6830,7 @@ imageHint: "Eskilstuna city center river view",
             },
             {
                   "name": "Svanar",
-                  "text": "A sculpture in Gävle depicting a group of swans.",
+                  "text": "Svanar is a historical area in Gävle, named after the swans.",
                   "category": "historical",
                   "coords": [
                         17.145854,
@@ -6875,7 +6875,7 @@ imageHint: "Eskilstuna city center river view",
             },
             {
                   "name": "Heliga Trefaldighets kyrka",
-                  "text": "The main Lutheran church located in central Gävle.",
+                  "text": "A 17th-century church in central Gävle.",
                   "category": "religious",
                   "coords": [
                         17.1381,
@@ -6884,7 +6884,7 @@ imageHint: "Eskilstuna city center river view",
             },
             {
                   "name": "Betlehemskyrkan",
-                  "text": "A Christian church of the Mission Covenant in Gävle.",
+                  "text": "Bethlehem Church in Gävle.",
                   "category": "religious",
                   "coords": [
                         17.15314,
@@ -6893,7 +6893,7 @@ imageHint: "Eskilstuna city center river view",
             },
             {
                   "name": "Rikets sal",
-                  "text": "A place of assembly for Jehovah's Witnesses in Gävle.",
+                  "text": "A Jehovah's Witnesses Kingdom Hall in Gävle.",
                   "category": "religious",
                   "coords": [
                         17.153496,
@@ -6929,7 +6929,7 @@ imageHint: "Eskilstuna city center river view",
             },
             {
                   "name": "Tolvfors bruk",
-                  "text": "A well-preserved historical ironworks site in Gävle.",
+                  "text": "A 19th-century historic ironworks along the Gavleån river.",
                   "category": "landmark",
                   "coords": [
                         17.10983,
@@ -6965,7 +6965,7 @@ imageHint: "Eskilstuna city center river view",
             },
             {
                   "name": "Fågeltorn",
-                  "text": "A wooden observation tower for birdwatching in Gävle.",
+                  "text": "Fågeltorn is a bird observation tower in Gävle.",
                   "category": "landmark",
                   "coords": [
                         17.190389,
@@ -7266,7 +7266,7 @@ imageHint: "Giant straw Gävle Goat in the snowy city square",
             },
             {
                   "name": "Kampa pelare",
-                  "text": "Ein Denkmal in der Stadt Växjö.",
+                  "text": "Kampa pelare sind historische Säulen in Växjö.",
                   "category": "historical",
                   "coords": [
                         14.814283,
@@ -7275,7 +7275,7 @@ imageHint: "Giant straw Gävle Goat in the snowy city square",
             },
             {
                   "name": "Högstorps kyrka",
-                  "text": "Lokale Pfarrkirche im Stadtteil Högstorp in Växjö.",
+                  "text": "Eine moderne Kirche aus dem 20. Jahrhundert in Högstorp, Växjö.",
                   "category": "religious",
                   "coords": [
                         14.840656,
@@ -7302,7 +7302,7 @@ imageHint: "Giant straw Gävle Goat in the snowy city square",
             },
             {
                   "name": "Skogslyckans kyrka",
-                  "text": "Ein Kirchengebäude auf einem Friedhof in Växjö.",
+                  "text": "Eine Holzkirche in Skogslyckan, Växjö.",
                   "category": "religious",
                   "coords": [
                         14.813061,
@@ -7311,7 +7311,7 @@ imageHint: "Giant straw Gävle Goat in the snowy city square",
             },
             {
                   "name": "Västrabokyrkan",
-                  "text": "Lokaler Sakralbau für die Gemeinde in Växjö.",
+                  "text": "Eine Kirche im Västrabö-Viertel von Växjö.",
                   "category": "religious",
                   "coords": [
                         14.784489,
@@ -7320,7 +7320,7 @@ imageHint: "Giant straw Gävle Goat in the snowy city square",
             },
             {
                   "name": "Mariakyrkan",
-                  "text": "Ein modernes religiöses Gebäude in der Stadt Växjö.",
+                  "text": "Eine moderne, der Maria geweihte Kirche in Växjö.",
                   "category": "religious",
                   "coords": [
                         14.800373,
@@ -7367,7 +7367,7 @@ imageHint: "Giant straw Gävle Goat in the snowy city square",
             },
             {
                   "name": "Kampa pelare",
-                  "text": "Emlékmű Växjö városában.",
+                  "text": "Kampa pelare történelmi oszlopok Växjö-ben.",
                   "category": "historical",
                   "coords": [
                         14.814283,
@@ -7376,7 +7376,7 @@ imageHint: "Giant straw Gävle Goat in the snowy city square",
             },
             {
                   "name": "Högstorps kyrka",
-                  "text": "Helyi plébániatemplom Växjö Högstorp városrészében.",
+                  "text": "Egy 20. századi modern templom Högstorpban, Växjöben.",
                   "category": "religious",
                   "coords": [
                         14.840656,
@@ -7403,7 +7403,7 @@ imageHint: "Giant straw Gävle Goat in the snowy city square",
             },
             {
                   "name": "Skogslyckans kyrka",
-                  "text": "Temetői templom Växjöben.",
+                  "text": "Egy fatemplom Skogslyckanban, Växjöben.",
                   "category": "religious",
                   "coords": [
                         14.813061,
@@ -7412,7 +7412,7 @@ imageHint: "Giant straw Gävle Goat in the snowy city square",
             },
             {
                   "name": "Västrabokyrkan",
-                  "text": "Helyi vallási közösségi hely Växjöben.",
+                  "text": "Egy templom Växjö Västrabö negyedében.",
                   "category": "religious",
                   "coords": [
                         14.784489,
@@ -7421,7 +7421,7 @@ imageHint: "Giant straw Gävle Goat in the snowy city square",
             },
             {
                   "name": "Mariakyrkan",
-                  "text": "Modern vallási épület Växjö városában.",
+                  "text": "Egy modern, Mária tiszteletére szentelt templom Växjöben.",
                   "category": "religious",
                   "coords": [
                         14.800373,
@@ -7468,7 +7468,7 @@ imageHint: "Giant straw Gävle Goat in the snowy city square",
             },
             {
                   "name": "Kampa pelare",
-                  "text": "Un monument situat în orașul Växjö.",
+                  "text": "Kampa pelare sunt coloane istorice în Växjö.",
                   "category": "historical",
                   "coords": [
                         14.814283,
@@ -7477,7 +7477,7 @@ imageHint: "Giant straw Gävle Goat in the snowy city square",
             },
             {
                   "name": "Högstorps kyrka",
-                  "text": "Biserică parohială locală în cartierul Högstorp din Växjö.",
+                  "text": "O biserică modernă din secolul al XX-lea în Högstorp, Växjö.",
                   "category": "religious",
                   "coords": [
                         14.840656,
@@ -7504,7 +7504,7 @@ imageHint: "Giant straw Gävle Goat in the snowy city square",
             },
             {
                   "name": "Skogslyckans kyrka",
-                  "text": "O biserică situată în cimitirul din Växjö.",
+                  "text": "O biserică de lemn în Skogslyckan, Växjö.",
                   "category": "religious",
                   "coords": [
                         14.813061,
@@ -7513,7 +7513,7 @@ imageHint: "Giant straw Gävle Goat in the snowy city square",
             },
             {
                   "name": "Västrabokyrkan",
-                  "text": "Lăcaș de cult local situat în Växjö.",
+                  "text": "O biserică în cartierul Västrabö din Växjö.",
                   "category": "religious",
                   "coords": [
                         14.784489,
@@ -7522,7 +7522,7 @@ imageHint: "Giant straw Gävle Goat in the snowy city square",
             },
             {
                   "name": "Mariakyrkan",
-                  "text": "O clădire religioasă modernă în orașul Växjö.",
+                  "text": "O biserică modernă dedicată Mariei în Växjö.",
                   "category": "religious",
                   "coords": [
                         14.800373,
@@ -7569,7 +7569,7 @@ imageHint: "Giant straw Gävle Goat in the snowy city square",
             },
             {
                   "name": "Kampa pelare",
-                  "text": "A monument located in the city of Växjö.",
+                  "text": "Kampa pelare are historical pillars in Växjö.",
                   "category": "historical",
                   "coords": [
                         14.814283,
@@ -7578,7 +7578,7 @@ imageHint: "Giant straw Gävle Goat in the snowy city square",
             },
             {
                   "name": "Högstorps kyrka",
-                  "text": "Local parish church in the Högstorp district of Växjö.",
+                  "text": "A 20th-century modern church in Högstorp, Växjö.",
                   "category": "religious",
                   "coords": [
                         14.840656,
@@ -7605,7 +7605,7 @@ imageHint: "Giant straw Gävle Goat in the snowy city square",
             },
             {
                   "name": "Skogslyckans kyrka",
-                  "text": "A church building located at a cemetery in Växjö.",
+                  "text": "A wooden church in Skogslyckan, Växjö.",
                   "category": "religious",
                   "coords": [
                         14.813061,
@@ -7614,7 +7614,7 @@ imageHint: "Giant straw Gävle Goat in the snowy city square",
             },
             {
                   "name": "Västrabokyrkan",
-                  "text": "Local place of worship serving the community in Växjö.",
+                  "text": "A church in the Västrabö area of Växjö.",
                   "category": "religious",
                   "coords": [
                         14.784489,
@@ -7623,7 +7623,7 @@ imageHint: "Giant straw Gävle Goat in the snowy city square",
             },
             {
                   "name": "Mariakyrkan",
-                  "text": "A modern religious building in the city of Växjö.",
+                  "text": "A modern church dedicated to Mary in Växjö.",
                   "category": "religious",
                   "coords": [
                         14.800373,
@@ -9159,7 +9159,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "de": [
             {
                   "name": "Strandbaden",
-                  "text": "Ein Strand bei Falun.",
+                  "text": "Strandbaden ist ein Strandbad in Falun.",
                   "category": "recreational",
                   "coords": [
                         15.676236,
@@ -9213,7 +9213,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Thunströms köpmansgård",
-                  "text": "Ein historisches Kaufmannshaus und Museum in Falun.",
+                  "text": "Thunströms köpmansgård ist ein historischer Kaufmannshof in Falun.",
                   "category": "museum",
                   "coords": [
                         15.625616,
@@ -9303,7 +9303,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Drottningens utkik",
-                  "text": "Aussichtspunkt in der Nähe des Bergbaugebiets von Falun.",
+                  "text": "Drottningens utkik ist ein natürlicher Aussichtspunkt in Falun, benannt nach einer Königin.",
                   "category": "natural",
                   "coords": [
                         15.614933,
@@ -9348,7 +9348,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Samuelsdals Herrgård",
-                  "text": "Ein historisches Herrenhaus in der Nähe der Stadt Falun.",
+                  "text": "Herrenhaus aus dem Jahr 1748 in Falun.",
                   "category": "historical",
                   "coords": [
                         15.615059,
@@ -9384,7 +9384,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sankt Örjans kapell",
-                  "text": "Eine Kapelle auf einem der Friedhöfe in Falun.",
+                  "text": "Sankt Örjans kapell ist eine Sankt-Georgs-Kapelle in Falun.",
                   "category": "religious",
                   "coords": [
                         15.63926,
@@ -9519,7 +9519,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Karlsbotjärnen",
-                  "text": "Der Karlsbotjärnen bei Falun ist ein naturbelassener See, der sich hervorragend für eine Wanderung eignet.",
+                  "text": "Karlsbotjärnen ist ein kleiner See in Falun.",
                   "category": "natural",
                   "coords": [
                         15.510067,
@@ -9647,7 +9647,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "hu": [
             {
                   "name": "Strandbaden",
-                  "text": "Strand Falun közelében.",
+                  "text": "Strandbaden egy strandfürdő Falunban.",
                   "category": "recreational",
                   "coords": [
                         15.676236,
@@ -9701,7 +9701,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Thunströms köpmansgård",
-                  "text": "Történelmi kereskedőház és múzeum Falunban.",
+                  "text": "Thunströms köpmansgård egy történelmi kereskedőház Falunban.",
                   "category": "museum",
                   "coords": [
                         15.625616,
@@ -9791,7 +9791,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Drottningens utkik",
-                  "text": "Kilátóhely a faluni bányaterület közelében.",
+                  "text": "Drottningens utkik egy természetes kilátópont Falunban, egy királynőről elnevezve.",
                   "category": "natural",
                   "coords": [
                         15.614933,
@@ -9836,7 +9836,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Samuelsdals Herrgård",
-                  "text": "Történelmi udvarház Falun közelében.",
+                  "text": "1748-ban épült kúria Falunban.",
                   "category": "historical",
                   "coords": [
                         15.615059,
@@ -9872,7 +9872,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sankt Örjans kapell",
-                  "text": "Kápolna Falun egyik temetőjében.",
+                  "text": "Sankt Örjans kapell egy Szent György-kápolna Falunban.",
                   "category": "religious",
                   "coords": [
                         15.63926,
@@ -10007,7 +10007,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Karlsbotjärnen",
-                  "text": "A Falun melletti Karlsbotjärnen egy érintetlen tó, amely kiválóan alkalmas túrázásra.",
+                  "text": "Karlsbotjärnen egy kis tó Falunban.",
                   "category": "natural",
                   "coords": [
                         15.510067,
@@ -10135,7 +10135,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "ro": [
             {
                   "name": "Strandbaden",
-                  "text": "O plajă lângă Falun.",
+                  "text": "Strandbaden este o plajă în Falun.",
                   "category": "recreational",
                   "coords": [
                         15.676236,
@@ -10189,7 +10189,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Thunströms köpmansgård",
-                  "text": "O casă istorică de negustori din Falun, transformată în muzeu.",
+                  "text": "Thunströms köpmansgård este o gospodărie istorică de negustor în Falun.",
                   "category": "museum",
                   "coords": [
                         15.625616,
@@ -10279,7 +10279,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Drottningens utkik",
-                  "text": "Punct de belvedere situat lângă zona minieră din Falun.",
+                  "text": "Drottningens utkik este un punct de belvedere natural în Falun, numit după o regină.",
                   "category": "natural",
                   "coords": [
                         15.614933,
@@ -10324,7 +10324,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Samuelsdals Herrgård",
-                  "text": "Un conac istoric situat în apropiere de orașul Falun.",
+                  "text": "Conac construit în 1748 în Falun.",
                   "category": "historical",
                   "coords": [
                         15.615059,
@@ -10360,7 +10360,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sankt Örjans kapell",
-                  "text": "O capelă situată într-unul dintre cimitirele din Falun.",
+                  "text": "Sankt Örjans kapell este o capelă a Sfântului Gheorghe în Falun.",
                   "category": "religious",
                   "coords": [
                         15.63926,
@@ -10495,7 +10495,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Karlsbotjärnen",
-                  "text": "Karlsbotjärnen de lângă Falun este un lac natural, excelent pentru o drumeție.",
+                  "text": "Karlsbotjärnen este un mic lac în Falun.",
                   "category": "natural",
                   "coords": [
                         15.510067,
@@ -10623,7 +10623,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "en": [
             {
                   "name": "Strandbaden",
-                  "text": "A beach near Falun.",
+                  "text": "Strandbaden is a beach resort in Falun.",
                   "category": "recreational",
                   "coords": [
                         15.676236,
@@ -10677,7 +10677,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Thunströms köpmansgård",
-                  "text": "A historic merchant's house and museum in Falun.",
+                  "text": "Thunströms köpmansgård is a historic merchant's homestead in Falun.",
                   "category": "museum",
                   "coords": [
                         15.625616,
@@ -10767,7 +10767,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Drottningens utkik",
-                  "text": "Viewing point located near the Falun mining area.",
+                  "text": "Drottningens utkik is a natural viewpoint in Falun, named after a queen.",
                   "category": "natural",
                   "coords": [
                         15.614933,
@@ -10812,7 +10812,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Samuelsdals Herrgård",
-                  "text": "A historic manor house located near the city of Falun.",
+                  "text": "Manor house built in 1748 in Falun.",
                   "category": "historical",
                   "coords": [
                         15.615059,
@@ -10848,7 +10848,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sankt Örjans kapell",
-                  "text": "A chapel located at one of the cemeteries in Falun.",
+                  "text": "Sankt Örjans kapell is a St. George's Chapel in Falun.",
                   "category": "religious",
                   "coords": [
                         15.63926,
@@ -10983,7 +10983,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Karlsbotjärnen",
-                  "text": "Karlsbotjärnen near Falun is a natural lake, excellent for a hike.",
+                  "text": "Karlsbotjärnen is a small lake in Falun.",
                   "category": "natural",
                   "coords": [
                         15.510067,
@@ -11204,7 +11204,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "KIKAIN",
-                  "text": "Eine kleine Galerie in Kalmar, die lokale Kunstwerke präsentiert.",
+                  "text": "KIKAIN ist ein Museum in Kalmar mit einem ungewöhnlichen Namen.",
                   "category": "museum",
                   "coords": [
                         16.355619,
@@ -11314,7 +11314,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "KIKAIN",
-                  "text": "Kisméretű galéria Kalmarban, amely helyi művészeti alkotásokat mutat be.",
+                  "text": "KIKAIN egy múzeum Kalmarban, szokatlan névvel.",
                   "category": "museum",
                   "coords": [
                         16.355619,
@@ -11424,7 +11424,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "KIKAIN",
-                  "text": "O mică galerie în Kalmar care prezintă opere de artă locale.",
+                  "text": "KIKAIN este un muzeu în Kalmar cu un nume neobișnuit.",
                   "category": "museum",
                   "coords": [
                         16.355619,
@@ -11534,7 +11534,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "KIKAIN",
-                  "text": "A small gallery in Kalmar presenting local artworks.",
+                  "text": "KIKAIN is a museum in Kalmar with an unusual name.",
                   "category": "museum",
                   "coords": [
                         16.355619,
@@ -11656,7 +11656,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Ulveksbackarna",
-                  "text": "Ein schönes Naturschutzgebiet in der Nähe von Skövde.",
+                  "text": "Ulveksbackarna ist ein hügeliges Naturgebiet in Skövde.",
                   "category": "natural",
                   "coords": [
                         13.840602,
@@ -11692,7 +11692,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "GöteborgsOperan Skövdescenen",
-                  "text": "Die regionale Bühne der Göteborger Oper in Skövde.",
+                  "text": "GöteborgsOperan Skövdescenen ist eine Außenstelle der Göteborger Oper in Skövde.",
                   "category": "cultural",
                   "coords": [
                         13.845813,
@@ -11746,7 +11746,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Skövde stadshus",
-                  "text": "Der Sitz der lokalen Verwaltung in der Innenstadt von Skövde.",
+                  "text": "Das frühe 20. Jahrhundert Rathaus von Skövde.",
                   "category": "historical",
                   "coords": [
                         13.842157,
@@ -11791,7 +11791,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Boulognersjön",
-                  "text": "Ein natürlicher Badebereich am See in Skövde.",
+                  "text": "Boulognersjön ist ein See in Skövde, benannt nach Boulogne.",
                   "category": "recreational",
                   "coords": [
                         13.860611,
@@ -11811,7 +11811,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Ulveksbackarna",
-                  "text": "Szép természetvédelmi terület Skövde közelében.",
+                  "text": "Ulveksbackarna egy dombos természeti terület Skövde-ben.",
                   "category": "natural",
                   "coords": [
                         13.840602,
@@ -11847,7 +11847,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "GöteborgsOperan Skövdescenen",
-                  "text": "A Göteborgi Opera regionális színpada Skövde városában.",
+                  "text": "GöteborgsOperan Skövdescenen a Göteborgi Opera kihelyezett tagozata Skövde-ben.",
                   "category": "cultural",
                   "coords": [
                         13.845813,
@@ -11901,7 +11901,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Skövde stadshus",
-                  "text": "A helyi önkormányzat székhelye Skövde belvárosában.",
+                  "text": "A 20. század elején épült városháza Skövde-ben.",
                   "category": "historical",
                   "coords": [
                         13.842157,
@@ -11946,7 +11946,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Boulognersjön",
-                  "text": "Természetes tavi fürdőhely Skövde városában.",
+                  "text": "Boulognersjön egy tó Skövde-ben, Boulogne-ról elnevezve.",
                   "category": "recreational",
                   "coords": [
                         13.860611,
@@ -11966,7 +11966,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Ulveksbackarna",
-                  "text": "O frumoasă rezervație naturală situată lângă Skövde.",
+                  "text": "Ulveksbackarna este o zonă naturală deluroasă în Skövde.",
                   "category": "natural",
                   "coords": [
                         13.840602,
@@ -12002,7 +12002,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "GöteborgsOperan Skövdescenen",
-                  "text": "Scena regională a Operei din Göteborg din Skövde.",
+                  "text": "GöteborgsOperan Skövdescenen este o filială a Operei din Göteborg în Skövde.",
                   "category": "cultural",
                   "coords": [
                         13.845813,
@@ -12056,7 +12056,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Skövde stadshus",
-                  "text": "Sediul administrației locale din centrul orașului Skövde.",
+                  "text": "Primăria de la începutul secolului al XX-lea din Skövde.",
                   "category": "historical",
                   "coords": [
                         13.842157,
@@ -12101,7 +12101,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Boulognersjön",
-                  "text": "O zonă naturală de scăldat pe lac în Skövde.",
+                  "text": "Boulognersjön este un lac în Skövde, numit după Boulogne.",
                   "category": "recreational",
                   "coords": [
                         13.860611,
@@ -12121,7 +12121,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Ulveksbackarna",
-                  "text": "A beautiful nature reserve located near Skövde.",
+                  "text": "Ulveksbackarna is a hilly natural area in Skövde.",
                   "category": "natural",
                   "coords": [
                         13.840602,
@@ -12157,7 +12157,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "GöteborgsOperan Skövdescenen",
-                  "text": "The regional stage of the Gothenburg Opera in Skövde.",
+                  "text": "GöteborgsOperan Skövdescenen is a branch of the Gothenburg Opera in Skövde.",
                   "category": "cultural",
                   "coords": [
                         13.845813,
@@ -12211,7 +12211,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Skövde stadshus",
-                  "text": "The seat of local government in downtown Skövde.",
+                  "text": "The early 20th-century town hall in Skövde.",
                   "category": "historical",
                   "coords": [
                         13.842157,
@@ -12256,7 +12256,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Boulognersjön",
-                  "text": "A natural lakeside swimming area in Skövde.",
+                  "text": "Boulognersjön is a lake in Skövde, named after Boulogne.",
                   "category": "recreational",
                   "coords": [
                         13.860611,
@@ -12315,7 +12315,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "de": [
             {
                   "name": "Ekenabben",
-                  "text": "Ekenabben ist ein Badebereich nahe Kristianstad.",
+                  "text": "Ekenabben ist ein Erholungsgebiet auf einer Eichenhalbinsel in Kristianstad.",
                   "category": "recreational",
                   "coords": [
                         14.190543,
@@ -12423,7 +12423,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Österbergska gården",
-                  "text": "Ein historisches Herrenhaus in Kristianstad.",
+                  "text": "Österbergska gården ist ein historischer Bauernhof in Kristianstad.",
                   "category": "historical",
                   "coords": [
                         14.155013,
@@ -12506,7 +12506,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "hu": [
             {
                   "name": "Ekenabben",
-                  "text": "Ekenabben egy strandfürdő Kristianstad közelében.",
+                  "text": "Ekenabben egy pihenőhely egy tölgyes-félszigeten Kristianstadban.",
                   "category": "recreational",
                   "coords": [
                         14.190543,
@@ -12614,7 +12614,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Österbergska gården",
-                  "text": "Egy történelmi kúria Kristianstadban.",
+                  "text": "Österbergska gården egy történelmi tanya Kristianstadban.",
                   "category": "historical",
                   "coords": [
                         14.155013,
@@ -12697,7 +12697,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "ro": [
             {
                   "name": "Ekenabben",
-                  "text": "Ekenabben este o zonă de plajă lângă Kristianstad.",
+                  "text": "Ekenabben este un loc de agrement pe un promontoriu cu stejari în Kristianstad.",
                   "category": "recreational",
                   "coords": [
                         14.190543,
@@ -12805,7 +12805,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Österbergska gården",
-                  "text": "Un conac istoric din Kristianstad.",
+                  "text": "Österbergska gården este o fermă istorică în Kristianstad.",
                   "category": "historical",
                   "coords": [
                         14.155013,
@@ -12888,7 +12888,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "en": [
             {
                   "name": "Ekenabben",
-                  "text": "Ekenabben is a swimming area near Kristianstad.",
+                  "text": "Ekenabben is a recreational area on an oak-covered headland in Kristianstad.",
                   "category": "recreational",
                   "coords": [
                         14.190543,
@@ -12996,7 +12996,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Österbergska gården",
-                  "text": "A historic manor house in Kristianstad.",
+                  "text": "Österbergska gården is a historical farm in Kristianstad.",
                   "category": "historical",
                   "coords": [
                         14.155013,
@@ -13123,7 +13123,448 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     },
   },
   {
-    id: "sweden-landskrona-cities-v2", "sights": {"de": [{"name": "Rolles Beach", "text": "In der Küstenstadt Landskrona lädt dieser gemütliche Badeplatz zu entspannten Stunden am schwedischen Meerwasser ein. Die Aussicht über die Meerenge verbindet sich hier mit einer ruhigen, freundlichen Atmosphäre, die Einheimische und Gäste gleichermaßen schätzen. Ob für ein schnelles morgendliches Bad oder einen gemütlichen Nachmittag am Ufer, der Ort bietet unkomplizierte Erholung. Ein Handtuch und etwas Proviant reichen vollkommen aus, um die maritime Auszeit zu genießen.", "category": "recreational", "coords": [12.852761, 55.856761]}, {"name": "Citadellet", "text": "Eine gut erhaltene Festung aus dem 16. Jahrhundert in Landskrona.", "category": "castle", "coords": [12.822992, 55.87306]}, {"name": "Gråens naturreservat", "text": "Ein Naturschutzgebiet auf der Insel Gråen vor Landskrona.", "category": "natural", "coords": [12.818706, 55.863421]}, {"name": "Landskrona teater", "text": "Ein elegantes Theatergebäude aus dem frühen 20. Jahrhundert in Landskrona.", "category": "cultural", "coords": [12.833374, 55.870029]}, {"name": "Öresunds Fågelförening Friflygningsvoljär", "text": "Eine Voliere für Vögel in der Nähe der Zitadelle von Landskrona.", "category": "family", "coords": [12.850398, 55.87457]}, {"name": "Landskrona konsthall", "text": "Eine für ihre Architektur bekannte Kunsthalle in Landskrona.", "category": "museum", "coords": [12.824409, 55.871178]}, {"name": "ArtGallery PeterPlato", "text": "Eine private Kunstgalerie, die zeitgenössische Werke in Landskrona ausstellt.", "category": "museum", "coords": [12.827455, 55.870226]}, {"name": "Landskrona stadshus", "text": "Das Verwaltungszentrum und Rathaus der Stadt Landskrona.", "category": "historical", "coords": [12.825767, 55.869147]}, {"name": "Sofia Albertina kyrka", "text": "Eine markante Stadtkirche aus dem 18. Jahrhundert in Landskrona.", "category": "religious", "coords": [12.826702, 55.86818]}, {"name": "Sankt Johannes kyrka", "text": "Eine moderne Gemeindekirche im Stadtgebiet von Landskrona.", "category": "religious", "coords": [12.829526, 55.882551]}, {"name": "Sankt Johannes Döparens kyrka", "text": "Katholische Kirche, die der Gemeinde in Landskrona dient.", "category": "religious", "coords": [12.83138, 55.873609]}, {"name": "Lagunen", "text": "Lagunen Skate Park ist ein Spielplatz in Landskrona, der Raum für Outdoor-Aktivitäten bietet.", "category": "family", "coords": [12.820592, 55.869938]}], "hu": [{"name": "Rolles Beach", "text": "A part menti Landskrona városában ez a hangulatos fürdőhely nyugodt órákra hívogat a svéd tengerparton. A tengerszorosra nyíló kilátás itt csendes, barátságos légkörrel párosul, amelyet a helyiek és a vendégek egyaránt nagyra értékelnek. Legyen szó egy gyors reggeli fürdőzésről vagy egy kellemes délutánról a parton, a hely gondtalan kikapcsolódást kínál. Egy törölköző és némi elemózsia is elegendő ahhoz, hogy teljes mértékben élvezze a tengerparti időt.", "category": "recreational", "coords": [12.852761, 55.856761]}, {"name": "Citadellet", "text": "Jó állapotban fennmaradt 16. századi erődítmény Landskrona városában.", "category": "castle", "coords": [12.822992, 55.87306]}, {"name": "Gråens naturreservat", "text": "Természetvédelmi terület a Landskrona előtti Gråen-szigeten.", "category": "natural", "coords": [12.818706, 55.863421]}, {"name": "Landskrona teater", "text": "Elegáns, 20. század eleji színházépület Landskrona központjában.", "category": "cultural", "coords": [12.833374, 55.870029]}, {"name": "Öresunds Fågelförening Friflygningsvoljär", "text": "Madárröpde a landskronai citadella közelében.", "category": "family", "coords": [12.850398, 55.87457]}, {"name": "Landskrona konsthall", "text": "Landskrona művészeti csarnoka, amely modern építészetéről ismert.", "category": "museum", "coords": [12.824409, 55.871178]}, {"name": "ArtGallery PeterPlato", "text": "Magángaléria Landskronában, amely kortárs alkotásokat mutat be.", "category": "museum", "coords": [12.827455, 55.870226]}, {"name": "Landskrona stadshus", "text": "Landskrona városának közigazgatási központja és városházája.", "category": "historical", "coords": [12.825767, 55.869147]}, {"name": "Sofia Albertina kyrka", "text": "Jellegzetes 18. századi városi templom Landskrona központjában.", "category": "religious", "coords": [12.826702, 55.86818]}, {"name": "Sankt Johannes kyrka", "text": "Modern egyházközségi templom Landskrona városi területén.", "category": "religious", "coords": [12.829526, 55.882551]}, {"name": "Sankt Johannes Döparens kyrka", "text": "A landskronai közösséget kiszolgáló katolikus templom.", "category": "religious", "coords": [12.83138, 55.873609]}, {"name": "Lagunen", "text": "A Lagunen Skate Park egy játszótér Landskrona városában, amely helyet biztosít a szabadtéri tevékenységekhez.", "category": "family", "coords": [12.820592, 55.869938]}], "ro": [{"name": "Rolles Beach", "text": "În orașul de coastă Landskrona, acest loc de scăldat confortabil vă invită la ore de relaxare la apa mării suedeze. Priveliștea peste strâmtoare se combină aici cu o atmosferă liniștită, prietenoasă, apreciată în egală măsură de localnici și de oaspeți. Fie că este vorba despre o baie rapidă de dimineață sau despre o după-amiază plăcută pe mal, locul oferă o relaxare necomplicată. Un prosop și câteva provizii sunt suficiente pentru a te bucura din plin de vacanța maritimă.", "category": "recreational", "coords": [12.852761, 55.856761]}, {"name": "Citadellet", "text": "O fortăreață bine conservată din secolul al XVI-lea în Landskrona.", "category": "castle", "coords": [12.822992, 55.87306]}, {"name": "Gråens naturreservat", "text": "O rezervație naturală pe insula Gråen, lângă Landskrona.", "category": "natural", "coords": [12.818706, 55.863421]}, {"name": "Landskrona teater", "text": "O clădire elegantă de teatru din secolul al XX-lea în Landskrona.", "category": "cultural", "coords": [12.833374, 55.870029]}, {"name": "Öresunds Fågelförening Friflygningsvoljär", "text": "O volieră pentru păsări situată în apropierea citadelei din Landskrona.", "category": "family", "coords": [12.850398, 55.87457]}, {"name": "Landskrona konsthall", "text": "O sală de artă din Landskrona, cunoscută pentru arhitectura sa modernă.", "category": "museum", "coords": [12.824409, 55.871178]}, {"name": "ArtGallery PeterPlato", "text": "O galerie de artă privată din Landskrona, care expune lucrări contemporane.", "category": "museum", "coords": [12.827455, 55.870226]}, {"name": "Landskrona stadshus", "text": "Centrul administrativ și primăria orașului Landskrona.", "category": "historical", "coords": [12.825767, 55.869147]}, {"name": "Sofia Albertina kyrka", "text": "O biserică urbană distinctivă din secolul al XVIII-lea în Landskrona.", "category": "religious", "coords": [12.826702, 55.86818]}, {"name": "Sankt Johannes kyrka", "text": "O biserică parohială modernă în zona urbană a Landskronei.", "category": "religious", "coords": [12.829526, 55.882551]}, {"name": "Sankt Johannes Döparens kyrka", "text": "Biserică catolică ce deservește comunitatea din Landskrona.", "category": "religious", "coords": [12.83138, 55.873609]}, {"name": "Lagunen", "text": "Lagunen Skate Park este un teren de joacă în Landskrona, oferind spațiu pentru activități în aer liber.", "category": "family", "coords": [12.820592, 55.869938]}], "en": [{"name": "Rolles Beach", "text": "In the coastal town of Landskrona, this cozy bathing spot beautifully invites you to spend relaxing hours by the Swedish seawater. The view across the strait combines flawlessly with a quiet, friendly atmosphere that locals and guests alike truly appreciate. Whether for a quick morning swim or a leisurely afternoon on the shore, the location offers uncomplicated recreation. Just bringing a towel and some snacks is perfectly enough to enjoy your maritime break.", "category": "recreational", "coords": [12.852761, 55.856761]}, {"name": "Citadellet", "text": "A well-preserved 16th-century fortress in Landskrona.", "category": "castle", "coords": [12.822992, 55.87306]}, {"name": "Gråens naturreservat", "text": "A nature reserve on the island of Gråen off the coast of Landskrona.", "category": "natural", "coords": [12.818706, 55.863421]}, {"name": "Landskrona teater", "text": "An elegant theatre building from the early 20th century in Landskrona.", "category": "cultural", "coords": [12.833374, 55.870029]}, {"name": "Öresunds Fågelförening Friflygningsvoljär", "text": "A bird aviary located near the Landskrona Citadel.", "category": "family", "coords": [12.850398, 55.87457]}, {"name": "Landskrona konsthall", "text": "An art hall in Landskrona known for its modernist architecture.", "category": "museum", "coords": [12.824409, 55.871178]}, {"name": "ArtGallery PeterPlato", "text": "A private art gallery exhibiting contemporary works in Landskrona.", "category": "museum", "coords": [12.827455, 55.870226]}, {"name": "Landskrona stadshus", "text": "The administrative centre and city hall of Landskrona.", "category": "historical", "coords": [12.825767, 55.869147]}, {"name": "Sofia Albertina kyrka", "text": "A prominent 18th-century city church in Landskrona.", "category": "religious", "coords": [12.826702, 55.86818]}, {"name": "Sankt Johannes kyrka", "text": "A modern parish church in the city area of Landskrona.", "category": "religious", "coords": [12.829526, 55.882551]}, {"name": "Saint John the Baptist Catholic Church", "text": "Catholic church serving the community in Landskrona.", "category": "religious", "coords": [12.83138, 55.873609]}, {"name": "Lagunen Skate Park", "text": "Lagunen Skate Park is a playground in Landskrona offering space for outdoor activities.", "category": "family", "coords": [12.820592, 55.869938]}]},
+    id: "sweden-landskrona-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rolles Beach",
+                  "text": "In der Küstenstadt Landskrona lädt dieser gemütliche Badeplatz zu entspannten Stunden am schwedischen Meerwasser ein. Die Aussicht über die Meerenge verbindet sich hier mit einer ruhigen, freundlichen Atmosphäre, die Einheimische und Gäste gleichermaßen schätzen. Ob für ein schnelles morgendliches Bad oder einen gemütlichen Nachmittag am Ufer, der Ort bietet unkomplizierte Erholung. Ein Handtuch und etwas Proviant reichen vollkommen aus, um die maritime Auszeit zu genießen.",
+                  "category": "recreational",
+                  "coords": [
+                        12.852761,
+                        55.856761
+                  ]
+            },
+            {
+                  "name": "Citadellet",
+                  "text": "Citadellet ist eine sternförmige Festung aus dem 16. Jahrhundert in Landskrona.",
+                  "category": "castle",
+                  "coords": [
+                        12.822992,
+                        55.87306
+                  ]
+            },
+            {
+                  "name": "Gråens naturreservat",
+                  "text": "Ein Naturschutzgebiet auf der Insel Gråen vor Landskrona.",
+                  "category": "natural",
+                  "coords": [
+                        12.818706,
+                        55.863421
+                  ]
+            },
+            {
+                  "name": "Landskrona teater",
+                  "text": "Ein elegantes Theatergebäude aus dem frühen 20. Jahrhundert in Landskrona.",
+                  "category": "cultural",
+                  "coords": [
+                        12.833374,
+                        55.870029
+                  ]
+            },
+            {
+                  "name": "Öresunds Fågelförening Friflygningsvoljär",
+                  "text": "Öresunds Fågelförening Friflygningsvoljär ist eine Freiflugvoliere der Vogelgesellschaft in Landskrona.",
+                  "category": "family",
+                  "coords": [
+                        12.850398,
+                        55.87457
+                  ]
+            },
+            {
+                  "name": "Landskrona konsthall",
+                  "text": "Eine für ihre Architektur bekannte Kunsthalle in Landskrona.",
+                  "category": "museum",
+                  "coords": [
+                        12.824409,
+                        55.871178
+                  ]
+            },
+            {
+                  "name": "ArtGallery PeterPlato",
+                  "text": "Eine private Kunstgalerie, die zeitgenössische Werke in Landskrona ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        12.827455,
+                        55.870226
+                  ]
+            },
+            {
+                  "name": "Landskrona stadshus",
+                  "text": "Landskrona stadshus ist das historische Rathaus von Landskrona.",
+                  "category": "historical",
+                  "coords": [
+                        12.825767,
+                        55.869147
+                  ]
+            },
+            {
+                  "name": "Sofia Albertina kyrka",
+                  "text": "Sofia Albertina kyrka ist eine nach Prinzessin Sofia Albertina benannte Kirche in Landskrona.",
+                  "category": "religious",
+                  "coords": [
+                        12.826702,
+                        55.86818
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes kyrka",
+                  "text": "Sankt Johannes kyrka ist die Johanneskirche in Landskrona.",
+                  "category": "religious",
+                  "coords": [
+                        12.829526,
+                        55.882551
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes Döparens kyrka",
+                  "text": "Saint John the Baptist Catholic Church ist eine katholische Kirche in Landskrona.",
+                  "category": "religious",
+                  "coords": [
+                        12.83138,
+                        55.873609
+                  ]
+            },
+            {
+                  "name": "Lagunen",
+                  "text": "Lagunen Skate Park ist ein Spielplatz in Landskrona, der Raum für Outdoor-Aktivitäten bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.820592,
+                        55.869938
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rolles Beach",
+                  "text": "A part menti Landskrona városában ez a hangulatos fürdőhely nyugodt órákra hívogat a svéd tengerparton. A tengerszorosra nyíló kilátás itt csendes, barátságos légkörrel párosul, amelyet a helyiek és a vendégek egyaránt nagyra értékelnek. Legyen szó egy gyors reggeli fürdőzésről vagy egy kellemes délutánról a parton, a hely gondtalan kikapcsolódást kínál. Egy törölköző és némi elemózsia is elegendő ahhoz, hogy teljes mértékben élvezze a tengerparti időt.",
+                  "category": "recreational",
+                  "coords": [
+                        12.852761,
+                        55.856761
+                  ]
+            },
+            {
+                  "name": "Citadellet",
+                  "text": "Citadellet egy 16. századi csillag alakú erőd Landskronában.",
+                  "category": "castle",
+                  "coords": [
+                        12.822992,
+                        55.87306
+                  ]
+            },
+            {
+                  "name": "Gråens naturreservat",
+                  "text": "Természetvédelmi terület a Landskrona előtti Gråen-szigeten.",
+                  "category": "natural",
+                  "coords": [
+                        12.818706,
+                        55.863421
+                  ]
+            },
+            {
+                  "name": "Landskrona teater",
+                  "text": "Elegáns, 20. század eleji színházépület Landskrona központjában.",
+                  "category": "cultural",
+                  "coords": [
+                        12.833374,
+                        55.870029
+                  ]
+            },
+            {
+                  "name": "Öresunds Fågelförening Friflygningsvoljär",
+                  "text": "Öresunds Fågelförening Friflygningsvoljär a madártani társaság szabadrepülő madárröpdéje Landskronában.",
+                  "category": "family",
+                  "coords": [
+                        12.850398,
+                        55.87457
+                  ]
+            },
+            {
+                  "name": "Landskrona konsthall",
+                  "text": "Landskrona művészeti csarnoka, amely modern építészetéről ismert.",
+                  "category": "museum",
+                  "coords": [
+                        12.824409,
+                        55.871178
+                  ]
+            },
+            {
+                  "name": "ArtGallery PeterPlato",
+                  "text": "Magángaléria Landskronában, amely kortárs alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        12.827455,
+                        55.870226
+                  ]
+            },
+            {
+                  "name": "Landskrona stadshus",
+                  "text": "Landskrona stadshus Landskrona történelmi városháza.",
+                  "category": "historical",
+                  "coords": [
+                        12.825767,
+                        55.869147
+                  ]
+            },
+            {
+                  "name": "Sofia Albertina kyrka",
+                  "text": "Sofia Albertina kyrka egy Sofia Albertina hercegnőről elnevezett templom Landskronában.",
+                  "category": "religious",
+                  "coords": [
+                        12.826702,
+                        55.86818
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes kyrka",
+                  "text": "Sankt Johannes kyrka a János-templom Landskronában.",
+                  "category": "religious",
+                  "coords": [
+                        12.829526,
+                        55.882551
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes Döparens kyrka",
+                  "text": "Saint John the Baptist Catholic Church egy katolikus templom Landskronában.",
+                  "category": "religious",
+                  "coords": [
+                        12.83138,
+                        55.873609
+                  ]
+            },
+            {
+                  "name": "Lagunen",
+                  "text": "A Lagunen Skate Park egy játszótér Landskrona városában, amely helyet biztosít a szabadtéri tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        12.820592,
+                        55.869938
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rolles Beach",
+                  "text": "În orașul de coastă Landskrona, acest loc de scăldat confortabil vă invită la ore de relaxare la apa mării suedeze. Priveliștea peste strâmtoare se combină aici cu o atmosferă liniștită, prietenoasă, apreciată în egală măsură de localnici și de oaspeți. Fie că este vorba despre o baie rapidă de dimineață sau despre o după-amiază plăcută pe mal, locul oferă o relaxare necomplicată. Un prosop și câteva provizii sunt suficiente pentru a te bucura din plin de vacanța maritimă.",
+                  "category": "recreational",
+                  "coords": [
+                        12.852761,
+                        55.856761
+                  ]
+            },
+            {
+                  "name": "Citadellet",
+                  "text": "Citadellet este o fortăreață în formă de stea din secolul al XVI-lea în Landskrona.",
+                  "category": "castle",
+                  "coords": [
+                        12.822992,
+                        55.87306
+                  ]
+            },
+            {
+                  "name": "Gråens naturreservat",
+                  "text": "O rezervație naturală pe insula Gråen, lângă Landskrona.",
+                  "category": "natural",
+                  "coords": [
+                        12.818706,
+                        55.863421
+                  ]
+            },
+            {
+                  "name": "Landskrona teater",
+                  "text": "O clădire elegantă de teatru din secolul al XX-lea în Landskrona.",
+                  "category": "cultural",
+                  "coords": [
+                        12.833374,
+                        55.870029
+                  ]
+            },
+            {
+                  "name": "Öresunds Fågelförening Friflygningsvoljär",
+                  "text": "Öresunds Fågelförening Friflygningsvoljär este o volieră cu zbor liber a societății de păsări din Landskrona.",
+                  "category": "family",
+                  "coords": [
+                        12.850398,
+                        55.87457
+                  ]
+            },
+            {
+                  "name": "Landskrona konsthall",
+                  "text": "O sală de artă din Landskrona, cunoscută pentru arhitectura sa modernă.",
+                  "category": "museum",
+                  "coords": [
+                        12.824409,
+                        55.871178
+                  ]
+            },
+            {
+                  "name": "ArtGallery PeterPlato",
+                  "text": "O galerie de artă privată din Landskrona, care expune lucrări contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        12.827455,
+                        55.870226
+                  ]
+            },
+            {
+                  "name": "Landskrona stadshus",
+                  "text": "Landskrona stadshus este primăria istorică a orașului Landskrona.",
+                  "category": "historical",
+                  "coords": [
+                        12.825767,
+                        55.869147
+                  ]
+            },
+            {
+                  "name": "Sofia Albertina kyrka",
+                  "text": "Sofia Albertina kyrka este o biserică numită după prințesa Sofia Albertina în Landskrona.",
+                  "category": "religious",
+                  "coords": [
+                        12.826702,
+                        55.86818
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes kyrka",
+                  "text": "Sankt Johannes kyrka este biserica Sfântul Ioan din Landskrona.",
+                  "category": "religious",
+                  "coords": [
+                        12.829526,
+                        55.882551
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes Döparens kyrka",
+                  "text": "Saint John the Baptist Catholic Church este o biserică catolică în Landskrona.",
+                  "category": "religious",
+                  "coords": [
+                        12.83138,
+                        55.873609
+                  ]
+            },
+            {
+                  "name": "Lagunen",
+                  "text": "Lagunen Skate Park este un teren de joacă în Landskrona, oferind spațiu pentru activități în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        12.820592,
+                        55.869938
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rolles Beach",
+                  "text": "In the coastal town of Landskrona, this cozy bathing spot beautifully invites you to spend relaxing hours by the Swedish seawater. The view across the strait combines flawlessly with a quiet, friendly atmosphere that locals and guests alike truly appreciate. Whether for a quick morning swim or a leisurely afternoon on the shore, the location offers uncomplicated recreation. Just bringing a towel and some snacks is perfectly enough to enjoy your maritime break.",
+                  "category": "recreational",
+                  "coords": [
+                        12.852761,
+                        55.856761
+                  ]
+            },
+            {
+                  "name": "Citadellet",
+                  "text": "Citadellet is a 16th-century star-shaped fortress in Landskrona.",
+                  "category": "castle",
+                  "coords": [
+                        12.822992,
+                        55.87306
+                  ]
+            },
+            {
+                  "name": "Gråens naturreservat",
+                  "text": "A nature reserve on the island of Gråen off the coast of Landskrona.",
+                  "category": "natural",
+                  "coords": [
+                        12.818706,
+                        55.863421
+                  ]
+            },
+            {
+                  "name": "Landskrona teater",
+                  "text": "An elegant theatre building from the early 20th century in Landskrona.",
+                  "category": "cultural",
+                  "coords": [
+                        12.833374,
+                        55.870029
+                  ]
+            },
+            {
+                  "name": "Öresunds Fågelförening Friflygningsvoljär",
+                  "text": "Öresunds Fågelförening Friflygningsvoljär is a free-flight aviary of the bird society in Landskrona.",
+                  "category": "family",
+                  "coords": [
+                        12.850398,
+                        55.87457
+                  ]
+            },
+            {
+                  "name": "Landskrona konsthall",
+                  "text": "An art hall in Landskrona known for its modernist architecture.",
+                  "category": "museum",
+                  "coords": [
+                        12.824409,
+                        55.871178
+                  ]
+            },
+            {
+                  "name": "ArtGallery PeterPlato",
+                  "text": "A private art gallery exhibiting contemporary works in Landskrona.",
+                  "category": "museum",
+                  "coords": [
+                        12.827455,
+                        55.870226
+                  ]
+            },
+            {
+                  "name": "Landskrona stadshus",
+                  "text": "Landskrona stadshus is the historic city hall of Landskrona.",
+                  "category": "historical",
+                  "coords": [
+                        12.825767,
+                        55.869147
+                  ]
+            },
+            {
+                  "name": "Sofia Albertina kyrka",
+                  "text": "Sofia Albertina kyrka is a church named after Princess Sofia Albertina in Landskrona.",
+                  "category": "religious",
+                  "coords": [
+                        12.826702,
+                        55.86818
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes kyrka",
+                  "text": "Sankt Johannes kyrka is St. John's Church in Landskrona.",
+                  "category": "religious",
+                  "coords": [
+                        12.829526,
+                        55.882551
+                  ]
+            },
+            {
+                  "name": "Saint John the Baptist Catholic Church",
+                  "text": "Saint John the Baptist Catholic Church is a Catholic church in Landskrona.",
+                  "category": "religious",
+                  "coords": [
+                        12.83138,
+                        55.873609
+                  ]
+            },
+            {
+                  "name": "Lagunen Skate Park",
+                  "text": "Lagunen Skate Park is a playground in Landskrona offering space for outdoor activities.",
+                  "category": "family",
+                  "coords": [
+                        12.820592,
+                        55.869938
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "city",
     name: { de: "Landskrona", hu: "Landskrona", ro: "Landskrona", en: "Landskrona"},
@@ -13174,7 +13615,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "de": [
             {
                   "name": "Varamobaden",
-                  "text": "Varamobaden ist ein bekannter Strand bei Motala.",
+                  "text": "Varamobaden ist ein Strandbad in Motala.",
                   "category": "recreational",
                   "coords": [
                         15.001356,
@@ -13282,7 +13723,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hällegårdshagen",
-                  "text": "Historische Ruinen in der Umgebung der Stadt Motala.",
+                  "text": "Hällegårdshagen ist ein historischer Garten in Motala.",
                   "category": "historical",
                   "coords": [
                         15.033952,
@@ -13336,7 +13777,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lillkyrkan",
-                  "text": "Ein kleines Gotteshaus im Zentrum der Stadt Motala.",
+                  "text": "Lillkyrkan ist eine kleine Kirche in Motala.",
                   "category": "religious",
                   "coords": [
                         15.074345,
@@ -13381,7 +13822,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lindgården",
-                  "text": "Lindgården ist ein Minigolfplatz in Motala für Familienspaß.",
+                  "text": "Lindgården ist ein Lindengarten in Motala.",
                   "category": "family",
                   "coords": [
                         15.007028,
@@ -13392,7 +13833,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "hu": [
             {
                   "name": "Varamobaden",
-                  "text": "Varamobaden egy népszerű strand Motala közelében.",
+                  "text": "Varamobaden egy strandfürdő Motalában.",
                   "category": "recreational",
                   "coords": [
                         15.001356,
@@ -13500,7 +13941,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hällegårdshagen",
-                  "text": "Történelmi romok Motala városának környékén.",
+                  "text": "Hällegårdshagen egy történelmi kert Motalában.",
                   "category": "historical",
                   "coords": [
                         15.033952,
@@ -13554,7 +13995,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lillkyrkan",
-                  "text": "Kisméretű templom Motala város központjában.",
+                  "text": "Lillkyrkan egy kis templom Motalában.",
                   "category": "religious",
                   "coords": [
                         15.074345,
@@ -13599,7 +14040,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lindgården",
-                  "text": "A Lindgården egy minigolfpálya Motala városában, amely családi szórakozást kínál.",
+                  "text": "Lindgården egy hársfakert Motalában.",
                   "category": "family",
                   "coords": [
                         15.007028,
@@ -13610,7 +14051,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "ro": [
             {
                   "name": "Varamobaden",
-                  "text": "Varamobaden este o plajă populară lângă Motala.",
+                  "text": "Varamobaden este o plajă în Motala.",
                   "category": "recreational",
                   "coords": [
                         15.001356,
@@ -13718,7 +14159,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hällegårdshagen",
-                  "text": "Ruine istorice în împrejurimile orașului Motala.",
+                  "text": "Hällegårdshagen este o grădină istorică în Motala.",
                   "category": "historical",
                   "coords": [
                         15.033952,
@@ -13772,7 +14213,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lillkyrkan",
-                  "text": "Un lăcaș de cult mic în centrul orașului Motala.",
+                  "text": "Lillkyrkan este o biserică mică în Motala.",
                   "category": "religious",
                   "coords": [
                         15.074345,
@@ -13817,7 +14258,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lindgården",
-                  "text": "Lindgården este un teren de minigolf în Motala pentru distracție în familie.",
+                  "text": "Lindgården este o grădină cu tei în Motala.",
                   "category": "family",
                   "coords": [
                         15.007028,
@@ -13828,7 +14269,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "en": [
             {
                   "name": "Varamobaden",
-                  "text": "Varamobaden is a well-known beach near Motala.",
+                  "text": "Varamobaden is a beach resort in Motala.",
                   "category": "recreational",
                   "coords": [
                         15.001356,
@@ -13936,7 +14377,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hällegårdshagen",
-                  "text": "Historical ruins located in the surroundings of Motala.",
+                  "text": "Hällegårdshagen is a historical garden in Motala.",
                   "category": "historical",
                   "coords": [
                         15.033952,
@@ -13990,7 +14431,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lillkyrkan",
-                  "text": "A small house of worship in the center of Motala.",
+                  "text": "Lillkyrkan is a small church in Motala.",
                   "category": "religious",
                   "coords": [
                         15.074345,
@@ -14035,7 +14476,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lindgården",
-                  "text": "Lindgården is a miniature golf course in Motala for family fun.",
+                  "text": "Lindgården is a lime tree garden in Motala.",
                   "category": "family",
                   "coords": [
                         15.007028,
@@ -14094,7 +14535,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "de": [
             {
                   "name": "Dragsö Aoursol",
-                  "text": "Dragsö Aoursol ist ein Strand bei Karlskrona.",
+                  "text": "Dragsö Aoursol ist ein Erholungsgebiet auf der Insel Dragsö in Karlskrona.",
                   "category": "recreational",
                   "coords": [
                         15.571064,
@@ -14103,7 +14544,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Stumholmen Badplats",
-                  "text": "Stumholmen Badplats ist ein Strand bei Karlskrona.",
+                  "text": "Ein Badestrand auf der Insel Stumholmen in Karlskrona.",
                   "category": "recreational",
                   "coords": [
                         15.598643,
@@ -14112,7 +14553,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Aspö Badplats",
-                  "text": "Aspö Badplats ist ein Strand bei Karlskrona.",
+                  "text": "Aspö Badplats ist ein Badestrand auf der Insel Aspö in Karlskrona.",
                   "category": "recreational",
                   "coords": [
                         15.565764,
@@ -14121,7 +14562,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Saltö sand",
-                  "text": "Saltö sand ist ein Strand bei Karlskrona.",
+                  "text": "Saltö sand ist ein Sandstrand auf der Insel Saltö in Karlskrona.",
                   "category": "recreational",
                   "coords": [
                         15.56287,
@@ -14130,7 +14571,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Långö badplats",
-                  "text": "Långö badplats ist ein Strand bei Karlskrona.",
+                  "text": "Ein Sandstrand auf der Insel Långö im Schärengarten von Karlskrona.",
                   "category": "recreational",
                   "coords": [
                         15.581895,
@@ -14139,7 +14580,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Studentviken Badplats",
-                  "text": "Studentviken Badplats liegt in der Nähe von Karlskrona.",
+                  "text": "Studentviken Badplats ist eine Badebucht in Karlskrona, benannt nach den Studenten.",
                   "category": "recreational",
                   "coords": [
                         15.593165,
@@ -14148,7 +14589,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hästö Badplats",
-                  "text": "Hästö Badplats ist ein Strand bei Karlskrona.",
+                  "text": "Hästö Badplats ist ein Badestrand auf der Insel Hästö in Karlskrona.",
                   "category": "recreational",
                   "coords": [
                         15.626845,
@@ -14157,7 +14598,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Skönstavik Badplats",
-                  "text": "Skönstavik Badplats ist ein Strand bei Karlskrona.",
+                  "text": "Eine geschützte Bucht mit Badestelle in Skönstavik, Karlskrona.",
                   "category": "recreational",
                   "coords": [
                         15.601988,
@@ -14249,7 +14690,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "hu": [
             {
                   "name": "Dragsö Aoursol",
-                  "text": "Dragsö Aoursol egy strand Karlskrona közelében.",
+                  "text": "Dragsö Aoursol egy pihenőhely Dragsö szigetén Karlskronában.",
                   "category": "recreational",
                   "coords": [
                         15.571064,
@@ -14258,7 +14699,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Stumholmen Badplats",
-                  "text": "Stumholmen Badplats egy strand Karlskrona közelében.",
+                  "text": "Egy fürdőhely a Stumholmen szigeten Karlskronában.",
                   "category": "recreational",
                   "coords": [
                         15.598643,
@@ -14267,7 +14708,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Aspö Badplats",
-                  "text": "Aspö Badplats egy strand Karlskrona közelében.",
+                  "text": "Aspö Badplats egy fürdőhely Aspö szigetén Karlskronában.",
                   "category": "recreational",
                   "coords": [
                         15.565764,
@@ -14276,7 +14717,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Saltö sand",
-                  "text": "Saltö sand egy strand Karlskrona közelében.",
+                  "text": "Saltö sand egy homokos strand Saltö szigetén Karlskronában.",
                   "category": "recreational",
                   "coords": [
                         15.56287,
@@ -14285,7 +14726,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Långö badplats",
-                  "text": "Långö badplats egy strand Karlskrona közelében.",
+                  "text": "Egy homokos strand a Långö szigeten a Karlskrona-szigetvilágban.",
                   "category": "recreational",
                   "coords": [
                         15.581895,
@@ -14294,7 +14735,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Studentviken Badplats",
-                  "text": "A Studentviken Badplats Karlskrona közelében található.",
+                  "text": "Studentviken Badplats egy fürdőöböl Karlskronában, a diákokról elnevezve.",
                   "category": "recreational",
                   "coords": [
                         15.593165,
@@ -14303,7 +14744,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hästö Badplats",
-                  "text": "Hästö Badplats egy strand Karlskrona közelében.",
+                  "text": "Hästö Badplats egy fürdőhely Hästö szigetén Karlskronában.",
                   "category": "recreational",
                   "coords": [
                         15.626845,
@@ -14312,7 +14753,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Skönstavik Badplats",
-                  "text": "Skönstavik Badplats egy strand Karlskrona közelében.",
+                  "text": "Egy védett öböl fürdőhelye Skönstavikban, Karlskronában.",
                   "category": "recreational",
                   "coords": [
                         15.601988,
@@ -14404,7 +14845,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "ro": [
             {
                   "name": "Dragsö Aoursol",
-                  "text": "Dragsö Aoursol este o plajă lângă Karlskrona.",
+                  "text": "Dragsö Aoursol este o zonă de agrement pe insula Dragsö în Karlskrona.",
                   "category": "recreational",
                   "coords": [
                         15.571064,
@@ -14413,7 +14854,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Stumholmen Badplats",
-                  "text": "Stumholmen Badplats este o plajă lângă Karlskrona.",
+                  "text": "O plajă pe insula Stumholmen din Karlskrona.",
                   "category": "recreational",
                   "coords": [
                         15.598643,
@@ -14422,7 +14863,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Aspö Badplats",
-                  "text": "Aspö Badplats este o plajă lângă Karlskrona.",
+                  "text": "Aspö Badplats este o plajă pe insula Aspö în Karlskrona.",
                   "category": "recreational",
                   "coords": [
                         15.565764,
@@ -14431,7 +14872,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Saltö sand",
-                  "text": "Saltö sand este o plajă lângă Karlskrona.",
+                  "text": "Saltö sand este o plajă cu nisip pe insula Saltö în Karlskrona.",
                   "category": "recreational",
                   "coords": [
                         15.56287,
@@ -14440,7 +14881,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Långö badplats",
-                  "text": "Långö badplats este o plajă lângă Karlskrona.",
+                  "text": "O plajă cu nisip pe insula Långö în arhipelagul Karlskrona.",
                   "category": "recreational",
                   "coords": [
                         15.581895,
@@ -14449,7 +14890,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Studentviken Badplats",
-                  "text": "Studentviken Badplats este situată în apropiere de Karlskrona.",
+                  "text": "Studentviken Badplats este un golf de scăldat în Karlskrona, numit după studenți.",
                   "category": "recreational",
                   "coords": [
                         15.593165,
@@ -14458,7 +14899,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hästö Badplats",
-                  "text": "Hästö Badplats este o plajă lângă Karlskrona.",
+                  "text": "Hästö Badplats este o plajă pe insula Hästö în Karlskrona.",
                   "category": "recreational",
                   "coords": [
                         15.626845,
@@ -14467,7 +14908,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Skönstavik Badplats",
-                  "text": "Skönstavik Badplats este o plajă lângă Karlskrona.",
+                  "text": "O plajă într-un golf adăpostit în Skönstavik, Karlskrona.",
                   "category": "recreational",
                   "coords": [
                         15.601988,
@@ -14559,7 +15000,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "en": [
             {
                   "name": "Dragsö Aoursol",
-                  "text": "Dragsö Aoursol is a beach near Karlskrona.",
+                  "text": "Dragsö Aoursol is a recreational area on Dragsö island in Karlskrona.",
                   "category": "recreational",
                   "coords": [
                         15.571064,
@@ -14568,7 +15009,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Stumholmen Badplats",
-                  "text": "Stumholmen Badplats is a beach near Karlskrona.",
+                  "text": "A beach and swimming area on Stumholmen island in Karlskrona.",
                   "category": "recreational",
                   "coords": [
                         15.598643,
@@ -14577,7 +15018,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Aspö Badplats",
-                  "text": "Aspö Badplats is a beach near Karlskrona.",
+                  "text": "Aspö Badplats is a bathing beach on Aspö island in Karlskrona.",
                   "category": "recreational",
                   "coords": [
                         15.565764,
@@ -14586,7 +15027,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Saltö sand",
-                  "text": "Saltö sand is a beach near Karlskrona.",
+                  "text": "Saltö sand is a sandy beach on Saltö island in Karlskrona.",
                   "category": "recreational",
                   "coords": [
                         15.56287,
@@ -14595,7 +15036,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Långö badplats",
-                  "text": "Långö badplats is a beach near Karlskrona.",
+                  "text": "A sandy beach on Långö island in the Karlskrona archipelago.",
                   "category": "recreational",
                   "coords": [
                         15.581895,
@@ -14604,7 +15045,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Studentviken Badplats",
-                  "text": "Studentviken Badplats is located near Karlskrona.",
+                  "text": "Studentviken Badplats is a student-named bathing bay in Karlskrona.",
                   "category": "recreational",
                   "coords": [
                         15.593165,
@@ -14613,7 +15054,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hästö Badplats",
-                  "text": "Hästö Badplats is a beach near Karlskrona.",
+                  "text": "Hästö Badplats is a bathing beach on Hästö island in Karlskrona.",
                   "category": "recreational",
                   "coords": [
                         15.626845,
@@ -14622,7 +15063,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Skönstavik Badplats",
-                  "text": "Skönstavik Badplats is a beach near Karlskrona.",
+                  "text": "A sheltered bay beach in Skönstavik, Karlskrona.",
                   "category": "recreational",
                   "coords": [
                         15.601988,
@@ -15871,7 +16312,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sankt Jörgens kapell",
-                  "text": "Eine Friedhofskapelle am Stadtrand von Varberg.",
+                  "text": "Eine historische Kapelle des Heiligen Georg in Varberg.",
                   "category": "religious",
                   "coords": [
                         12.265351,
@@ -15916,7 +16357,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Den Gudomliga Barmhärtighetens kyrka",
-                  "text": "Diese katholische Kirche in Varberg ist der Göttlichen Barmherzigkeit geweiht.",
+                  "text": "The Church of Divine Mercy ist eine der göttlichen Barmherzigkeit geweihte Kirche in Varberg.",
                   "category": "religious",
                   "coords": [
                         12.263863,
@@ -15970,7 +16411,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Vita havet",
-                  "text": "Vita havet ist ein See in Varberg, umgeben von Natur.",
+                  "text": "Vita havet ist ein Naturgebiet namens ‚Weißes Meer‘ in Varberg.",
                   "category": "natural",
                   "coords": [
                         12.266781,
@@ -15979,7 +16420,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Vita dammen",
-                  "text": "Vita dammen ist ein See in Varberg, umgeben von Natur.",
+                  "text": "Vita dammen ist ein weißer Teich in Varberg.",
                   "category": "natural",
                   "coords": [
                         12.288181,
@@ -15988,7 +16429,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Ageflo",
-                  "text": "Ageflo ist ein See in Varberg, umgeben von Natur.",
+                  "text": "Ageflo ist ein Feuchtgebiet in Varberg.",
                   "category": "natural",
                   "coords": [
                         12.267738,
@@ -15997,7 +16438,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Fågeldammen",
-                  "text": "Fågeldammen ist ein See in Varberg, umgeben von Natur.",
+                  "text": "Fågeldammen ist ein Vogelteich in Varberg.",
                   "category": "natural",
                   "coords": [
                         12.256312,
@@ -16006,7 +16447,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Rottemossen",
-                  "text": "Rottemossen ist ein See in Varberg, umgeben von Natur.",
+                  "text": "Rottemossen ist ein Moor in Varberg.",
                   "category": "natural",
                   "coords": [
                         12.288139,
@@ -16015,7 +16456,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Söderhöjds Lekplats",
-                  "text": "Söderhöjds Lekplats ist ein Spielplatz in Varberg, der zum Spielen für Kinder einlädt.",
+                  "text": "Söderhöjds Lekplats ist ein Spielplatz auf dem Südhügel in Varberg.",
                   "category": "family",
                   "coords": [
                         12.264708,
@@ -16042,7 +16483,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Prins Julians lekplats",
-                  "text": "Prins Julians lekplats ist ein Spielplatz in Varberg, der zum Spielen für Kinder einlädt.",
+                  "text": "Prins Julians lekplats ist ein nach Prinz Julian benannter Spielplatz in Varberg.",
                   "category": "family",
                   "coords": [
                         12.253307,
@@ -16060,7 +16501,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kåsa",
-                  "text": "Ein öffentlicher Badebereich an der Küste von Varberg.",
+                  "text": "Kåsa ist ein Erholungsgebiet in Varberg.",
                   "category": "recreational",
                   "coords": [
                         12.241342,
@@ -16116,7 +16557,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sankt Jörgens kapell",
-                  "text": "Temetői kápolna Varberg városának szélén.",
+                  "text": "Szent Györgynek szentelt történelmi kápolna Varbergben.",
                   "category": "religious",
                   "coords": [
                         12.265351,
@@ -16161,7 +16602,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Den Gudomliga Barmhärtighetens kyrka",
-                  "text": "Ez a varbergi katolikus templom az Isteni Irgalmasságnak van szentelve.",
+                  "text": "The Church of Divine Mercy egy az isteni irgalomnak szentelt templom Varbergben.",
                   "category": "religious",
                   "coords": [
                         12.263863,
@@ -16215,7 +16656,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Vita havet",
-                  "text": "A Vita havet egy tó Varberg területén, természetes környezetben.",
+                  "text": "Vita havet egy ‚Fehér-tenger‘ nevű természeti terület Varbergben.",
                   "category": "natural",
                   "coords": [
                         12.266781,
@@ -16224,7 +16665,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Vita dammen",
-                  "text": "A Vita dammen egy tó Varberg területén, természetes környezetben.",
+                  "text": "Vita dammen egy fehér tó Varbergben.",
                   "category": "natural",
                   "coords": [
                         12.288181,
@@ -16233,7 +16674,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Ageflo",
-                  "text": "Az Ageflo egy tó Varberg területén, természetes környezetben.",
+                  "text": "Ageflo egy vizes élőhely Varbergben.",
                   "category": "natural",
                   "coords": [
                         12.267738,
@@ -16242,7 +16683,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Fågeldammen",
-                  "text": "A Fågeldammen egy tó Varberg területén, természetes környezetben.",
+                  "text": "Fågeldammen egy madártó Varbergben.",
                   "category": "natural",
                   "coords": [
                         12.256312,
@@ -16251,7 +16692,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Rottemossen",
-                  "text": "A Rottemossen egy tó Varberg területén, természetes környezetben.",
+                  "text": "Rottemossen egy mocsár Varbergben.",
                   "category": "natural",
                   "coords": [
                         12.288139,
@@ -16260,7 +16701,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Söderhöjds Lekplats",
-                  "text": "A Söderhöjds Lekplats egy játszótér Varberg területén, amelyet gyermekek számára alakítottak ki.",
+                  "text": "Söderhöjds Lekplats egy játszótér a Déli-dombon Varbergben.",
                   "category": "family",
                   "coords": [
                         12.264708,
@@ -16287,7 +16728,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Prins Julians lekplats",
-                  "text": "A Prins Julians lekplats egy játszótér Varberg területén, amelyet gyermekek számára alakítottak ki.",
+                  "text": "Prins Julians lekplats egy Júlián hercegről elnevezett játszótér Varbergben.",
                   "category": "family",
                   "coords": [
                         12.253307,
@@ -16305,7 +16746,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kåsa",
-                  "text": "Nyilvános tengerparti fürdőhely Varbergben.",
+                  "text": "Kåsa egy pihenőhely Varbergben.",
                   "category": "recreational",
                   "coords": [
                         12.241342,
@@ -16361,7 +16802,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sankt Jörgens kapell",
-                  "text": "O capelă de cimitir situată la marginea orașului Varberg.",
+                  "text": "O capelă istorică dedicată Sfântului Gheorghe în Varberg.",
                   "category": "religious",
                   "coords": [
                         12.265351,
@@ -16406,7 +16847,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Den Gudomliga Barmhärtighetens kyrka",
-                  "text": "Această biserică catolică din Varberg este dedicată Divinei Milostiviri.",
+                  "text": "The Church of Divine Mercy este o biserică dedicată Divinei Milostiviri în Varberg.",
                   "category": "religious",
                   "coords": [
                         12.263863,
@@ -16460,7 +16901,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Vita havet",
-                  "text": "Vita havet este un lac din Varberg înconjurat de natură.",
+                  "text": "Vita havet este o zonă naturală numită ‚Marea Albă‘ în Varberg.",
                   "category": "natural",
                   "coords": [
                         12.266781,
@@ -16469,7 +16910,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Vita dammen",
-                  "text": "Vita dammen este un lac din Varberg înconjurat de natură.",
+                  "text": "Vita dammen este un iaz alb în Varberg.",
                   "category": "natural",
                   "coords": [
                         12.288181,
@@ -16478,7 +16919,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Ageflo",
-                  "text": "Ageflo este un lac din Varberg înconjurat de natură.",
+                  "text": "Ageflo este o zonă umedă în Varberg.",
                   "category": "natural",
                   "coords": [
                         12.267738,
@@ -16487,7 +16928,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Fågeldammen",
-                  "text": "Fågeldammen este un lac din Varberg înconjurat de natură.",
+                  "text": "Fågeldammen este un iaz pentru păsări în Varberg.",
                   "category": "natural",
                   "coords": [
                         12.256312,
@@ -16496,7 +16937,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Rottemossen",
-                  "text": "Rottemossen este un lac din Varberg înconjurat de natură.",
+                  "text": "Rottemossen este o mlaștină în Varberg.",
                   "category": "natural",
                   "coords": [
                         12.288139,
@@ -16505,7 +16946,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Söderhöjds Lekplats",
-                  "text": "Söderhöjds Lekplats este un loc de joacă din Varberg conceput pentru copii.",
+                  "text": "Söderhöjds Lekplats este un loc de joacă pe Dealul Sudic în Varberg.",
                   "category": "family",
                   "coords": [
                         12.264708,
@@ -16532,7 +16973,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Prins Julians lekplats",
-                  "text": "Prins Julians lekplats este un loc de joacă din Varberg conceput pentru copii.",
+                  "text": "Prins Julians lekplats este un loc de joacă numit după Prințul Julian în Varberg.",
                   "category": "family",
                   "coords": [
                         12.253307,
@@ -16550,7 +16991,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kåsa",
-                  "text": "O zonă publică de scăldat pe coasta din Varberg.",
+                  "text": "Kåsa este o zonă de agrement în Varberg.",
                   "category": "recreational",
                   "coords": [
                         12.241342,
@@ -16606,7 +17047,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sankt Jörgens kapell",
-                  "text": "A cemetery chapel located on the outskirts of Varberg.",
+                  "text": "A historic chapel dedicated to St. George in Varberg.",
                   "category": "religious",
                   "coords": [
                         12.265351,
@@ -16651,7 +17092,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "The Church of Divine Mercy",
-                  "text": "This Catholic church in Varberg is dedicated to the Divine Mercy.",
+                  "text": "The Church of Divine Mercy is a church dedicated to Divine Mercy in Varberg.",
                   "category": "religious",
                   "coords": [
                         12.263863,
@@ -16705,7 +17146,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Vita havet",
-                  "text": "Vita havet is a lake in Varberg surrounded by nature.",
+                  "text": "Vita havet is a natural area called ‚White Sea‘ in Varberg.",
                   "category": "natural",
                   "coords": [
                         12.266781,
@@ -16714,7 +17155,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Vita dammen",
-                  "text": "Vita dammen is a lake in Varberg surrounded by nature.",
+                  "text": "Vita dammen is a white pond in Varberg.",
                   "category": "natural",
                   "coords": [
                         12.288181,
@@ -16723,7 +17164,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Ageflo",
-                  "text": "Ageflo is a lake in Varberg surrounded by nature.",
+                  "text": "Ageflo is a wetland in Varberg.",
                   "category": "natural",
                   "coords": [
                         12.267738,
@@ -16732,7 +17173,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Fågeldammen",
-                  "text": "Fågeldammen is a lake in Varberg surrounded by nature.",
+                  "text": "Fågeldammen is a bird pond in Varberg.",
                   "category": "natural",
                   "coords": [
                         12.256312,
@@ -16741,7 +17182,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Rottemossen",
-                  "text": "Rottemossen is a lake in Varberg surrounded by nature.",
+                  "text": "Rottemossen is a bog in Varberg.",
                   "category": "natural",
                   "coords": [
                         12.288139,
@@ -16750,7 +17191,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Söderhöjds Lekplats",
-                  "text": "Söderhöjds Lekplats is a playground in Varberg designed for children's play.",
+                  "text": "Söderhöjds Lekplats is a playground on the South Hill in Varberg.",
                   "category": "family",
                   "coords": [
                         12.264708,
@@ -16777,7 +17218,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Prins Julians lekplats",
-                  "text": "Prins Julians lekplats is a playground in Varberg designed for children's play.",
+                  "text": "Prins Julians lekplats is a playground named after Prince Julian in Varberg.",
                   "category": "family",
                   "coords": [
                         12.253307,
@@ -16795,7 +17236,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kåsa",
-                  "text": "A public swimming area on the coast of Varberg.",
+                  "text": "Kåsa is a recreational area in Varberg.",
                   "category": "recreational",
                   "coords": [
                         12.241342,
@@ -16881,7 +17322,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Jättegraven",
-                  "text": "Eine neolithische Grabanlage in der Nähe von Trelleborg.",
+                  "text": "Jättegraven ist ein Hünengrab in Trelleborg.",
                   "category": "historical",
                   "coords": [
                         13.20318,
@@ -16890,7 +17331,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Östra Stranden",
-                  "text": "Ein beliebter Sandstrand an der Ostsee in Trelleborg.",
+                  "text": "Östra Stranden ist der Oststrand in Trelleborg.",
                   "category": "recreational",
                   "coords": [
                         13.193652,
@@ -16917,7 +17358,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kyrkoköpinge kyrka",
-                  "text": "Eine mittelalterliche Kirche in der Gemeinde Kyrkoköpinge bei Trelleborg.",
+                  "text": "Eine steinerne Kirche aus dem 12. Jahrhundert in Kyrkoköpinge.",
                   "category": "religious",
                   "coords": [
                         13.186255,
@@ -16944,7 +17385,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Ysle mosse",
-                  "text": "Der Ysle mosse in Trelleborg ist ein naturbelassenes Gewässer in einer friedlichen Umgebung.",
+                  "text": "Ysle mosse ist ein Moor in Trelleborg.",
                   "category": "natural",
                   "coords": [
                         13.118849,
@@ -17009,7 +17450,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Jättegraven",
-                  "text": "Egy újkőkorszaki sírhely Trelleborg közelében.",
+                  "text": "Jättegraven egy óriássír Trelleborgban.",
                   "category": "historical",
                   "coords": [
                         13.20318,
@@ -17018,7 +17459,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Östra Stranden",
-                  "text": "Népszerű homokos tengerpart a Balti-tengernél Trelleborgban.",
+                  "text": "Östra Stranden a keleti strand Trelleborgban.",
                   "category": "recreational",
                   "coords": [
                         13.193652,
@@ -17045,7 +17486,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kyrkoköpinge kyrka",
-                  "text": "Egy középkori templom Kyrkoköpinge községben, Trelleborg mellett.",
+                  "text": "Egy 12. századi kőtemplom Kyrkoköpinge-ben.",
                   "category": "religious",
                   "coords": [
                         13.186255,
@@ -17072,7 +17513,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Ysle mosse",
-                  "text": "A trelleborgi Ysle mosse egy érintetlen vízfelület nyugodt környezetben.",
+                  "text": "Ysle mosse egy mocsár Trelleborgban.",
                   "category": "natural",
                   "coords": [
                         13.118849,
@@ -17137,7 +17578,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Jättegraven",
-                  "text": "Un sit funerar neolitic situat lângă Trelleborg.",
+                  "text": "Jättegraven este un mormânt uriaș în Trelleborg.",
                   "category": "historical",
                   "coords": [
                         13.20318,
@@ -17146,7 +17587,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Östra Stranden",
-                  "text": "O plajă populară cu nisip la Marea Baltică în Trelleborg.",
+                  "text": "Östra Stranden este plaja de est în Trelleborg.",
                   "category": "recreational",
                   "coords": [
                         13.193652,
@@ -17173,7 +17614,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kyrkoköpinge kyrka",
-                  "text": "O biserică medievală din localitatea Kyrkoköpinge, lângă Trelleborg.",
+                  "text": "O biserică de piatră din secolul al XII-lea în Kyrkoköpinge.",
                   "category": "religious",
                   "coords": [
                         13.186255,
@@ -17200,7 +17641,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Ysle mosse",
-                  "text": "Ysle mosse din Trelleborg este un corp de apă natural într-un mediu liniștit.",
+                  "text": "Ysle mosse este o mlaștină în Trelleborg.",
                   "category": "natural",
                   "coords": [
                         13.118849,
@@ -17265,7 +17706,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Jättegraven",
-                  "text": "A Neolithic burial site located near Trelleborg.",
+                  "text": "Jättegraven is a giant's grave in Trelleborg.",
                   "category": "historical",
                   "coords": [
                         13.20318,
@@ -17274,7 +17715,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Östra Stranden",
-                  "text": "A popular sandy beach on the Baltic Sea in Trelleborg.",
+                  "text": "Östra Stranden is the East Beach in Trelleborg.",
                   "category": "recreational",
                   "coords": [
                         13.193652,
@@ -17301,7 +17742,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kyrkoköpinge kyrka",
-                  "text": "A medieval church in Kyrkoköpinge near Trelleborg.",
+                  "text": "A 12th-century stone church in Kyrkoköpinge.",
                   "category": "religious",
                   "coords": [
                         13.186255,
@@ -17328,7 +17769,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Ysle mosse",
-                  "text": "Ysle mosse in Trelleborg is a natural body of water in a peaceful setting.",
+                  "text": "Ysle mosse is a bog in Trelleborg.",
                   "category": "natural",
                   "coords": [
                         13.118849,
@@ -17450,7 +17891,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sigfridskyrkan",
-                  "text": "Eine moderne Kirche im Stadtgebiet von Lidköping.",
+                  "text": "Sigfridskyrkan ist eine Kirche in Lidköping, erbaut 1965.",
                   "category": "religious",
                   "coords": [
                         13.139585,
@@ -17506,7 +17947,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sigfridskyrkan",
-                  "text": "Modern templom Lidköping városi területén.",
+                  "text": "Sigfridskyrkan egy templom Lidköpingben, 1965-ben épült.",
                   "category": "religious",
                   "coords": [
                         13.139585,
@@ -17562,7 +18003,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sigfridskyrkan",
-                  "text": "O biserică modernă în zona urbană a orașului Lidköping.",
+                  "text": "Sigfridskyrkan este o biserică în Lidköping, construită în 1965.",
                   "category": "religious",
                   "coords": [
                         13.139585,
@@ -17618,7 +18059,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sigfridskyrkan",
-                  "text": "A modern church in the city area of Lidköping.",
+                  "text": "Sigfridskyrkan is a church in Lidköping, built in 1965.",
                   "category": "religious",
                   "coords": [
                         13.139585,
@@ -17704,7 +18145,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Afzeliiplan",
-                  "text": "Der Afzelius Place ist ein ruhiger Stadtpark im Zentrum von Enköping.",
+                  "text": "Ein kleiner Park benannt nach dem Schriftsteller Afzelius in Enköping.",
                   "category": "park",
                   "coords": [
                         17.079982,
@@ -17778,7 +18219,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Afzeliiplan",
-                  "text": "Az Afzelius Place egy csendes városi park Enköping központjában.",
+                  "text": "Egy kis park, amelyet Afzelius íróról neveztek el Enköpingben.",
                   "category": "park",
                   "coords": [
                         17.079982,
@@ -17852,7 +18293,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Afzeliiplan",
-                  "text": "Afzelius Place este un parc municipal liniștit în centrul orașului Enköping.",
+                  "text": "Un parc mic numit după scriitorul Afzelius în Enköping.",
                   "category": "park",
                   "coords": [
                         17.079982,
@@ -17926,7 +18367,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Afzelius Place",
-                  "text": "Afzelius Place is a peaceful urban park in the center of Enköping.",
+                  "text": "A small park named after the writer Afzelius in Enköping.",
                   "category": "park",
                   "coords": [
                         17.079982,
@@ -18039,7 +18480,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Nyköpings Teater",
-                  "text": "Ein historisches Theatergebäude im Zentrum von Nyköping.",
+                  "text": "Nyköpings Teater ist ein Theatergebäude in Nyköping.",
                   "category": "cultural",
                   "coords": [
                         17.001243,
@@ -18093,7 +18534,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Runenstein von Släbro",
-                  "text": "Ein historischer Runenstein in der Umgebung von Nyköping.",
+                  "text": "Södermanland Runic Inscription 367 ist ein Runenstein aus der Wikingerzeit in Nyköping.",
                   "category": "landmark",
                   "coords": [
                         16.971338,
@@ -18120,7 +18561,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hjortensbergskyrkan",
-                  "text": "Eine moderne Kirche und Gemeindezentrum in Nyköping.",
+                  "text": "Hjortensbergskyrkan ist eine Kirche in Nyköping, benannt nach Hjortensberg.",
                   "category": "religious",
                   "coords": [
                         17.028515,
@@ -18149,7 +18590,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Nyköpings Teater",
-                  "text": "Történelmi színházépület Nyköping központjában.",
+                  "text": "Nyköpings Teater egy színházépület Nyköpingben.",
                   "category": "cultural",
                   "coords": [
                         17.001243,
@@ -18203,7 +18644,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Södermanlands runinskrifter 367",
-                  "text": "Egy történelmi rúnakő Nyköping környékén.",
+                  "text": "Södermanland Runic Inscription 367 egy viking kori rúnakő Nyköpingben.",
                   "category": "landmark",
                   "coords": [
                         16.971338,
@@ -18230,7 +18671,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hjortensbergskyrkan",
-                  "text": "Modern templom és gyülekezeti központ Nyköpingben.",
+                  "text": "Hjortensbergskyrkan egy templom Nyköpingben, Hjortensbergről elnevezve.",
                   "category": "religious",
                   "coords": [
                         17.028515,
@@ -18259,7 +18700,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Nyköpings Teater",
-                  "text": "O clădire istorică de teatru în centrul orașului Nyköping.",
+                  "text": "Nyköpings Teater este o clădire de teatru în Nyköping.",
                   "category": "cultural",
                   "coords": [
                         17.001243,
@@ -18313,7 +18754,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Södermanlands runinskrifter 367",
-                  "text": "O piatră runică istorică din împrejurimile orașului Nyköping.",
+                  "text": "Södermanland Runic Inscription 367 este o piatră runică din epoca vikingă în Nyköping.",
                   "category": "landmark",
                   "coords": [
                         16.971338,
@@ -18340,7 +18781,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hjortensbergskyrkan",
-                  "text": "O biserică modernă și centru comunitar în Nyköping.",
+                  "text": "Hjortensbergskyrkan este o biserică în Nyköping, numită după Hjortensberg.",
                   "category": "religious",
                   "coords": [
                         17.028515,
@@ -18369,7 +18810,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Nyköpings Teater",
-                  "text": "A historic theatre building in the center of Nyköping.",
+                  "text": "Nyköpings Teater is a theatre building in Nyköping.",
                   "category": "cultural",
                   "coords": [
                         17.001243,
@@ -18423,7 +18864,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Södermanland Runic Inscription 367",
-                  "text": "A historic rune stone in the surroundings of Nyköping.",
+                  "text": "Södermanland Runic Inscription 367 is a Viking Age runestone in Nyköping.",
                   "category": "landmark",
                   "coords": [
                         16.971338,
@@ -18450,7 +18891,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hjortensbergskyrkan",
-                  "text": "A modern church and community center in Nyköping.",
+                  "text": "Hjortensbergskyrkan is a church in Nyköping, named after Hjortensberg.",
                   "category": "religious",
                   "coords": [
                         17.028515,
@@ -18518,7 +18959,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "de": [
             {
                   "name": "Piteå museum",
-                  "text": "Regionalmuseum im alten Rathaus von Piteå.",
+                  "text": "Piteå museum ist das Stadtmuseum von Piteå.",
                   "category": "museum",
                   "coords": [
                         21.483129,
@@ -18527,7 +18968,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Räkan",
-                  "text": "Ein Sandstrand und Erholungsgebiet in der Nähe von Piteå.",
+                  "text": "Räkan ist ein Strandbad in Piteå, benannt nach der Garnele.",
                   "category": "recreational",
                   "coords": [
                         21.477853,
@@ -18545,7 +18986,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Studio Acusticum",
-                  "text": "Ein modernes Konzerthaus und Kulturzentrum in Piteå.",
+                  "text": "Studio Acusticum ist ein Konzert- und Kulturzentrum in Piteå.",
                   "category": "cultural",
                   "coords": [
                         21.464001,
@@ -18554,7 +18995,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Strömnäskyrkan",
-                  "text": "Eine Gemeindekirche im Stadtteil Strömnäs von Piteå.",
+                  "text": "Eine moderne Kirche aus den 1960er Jahren in Strömnäs, Piteå.",
                   "category": "religious",
                   "coords": [
                         21.511631,
@@ -18563,7 +19004,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Furubergskyrkan",
-                  "text": "Eine moderne Kirche im Stadtteil Furuberget in Piteå.",
+                  "text": "Eine Holzkirche in Furuberg, Piteå.",
                   "category": "religious",
                   "coords": [
                         21.500515,
@@ -18572,7 +19013,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Piteå stadskyrka",
-                  "text": "Eine historische Holzkirche im Stadtzentrum von Piteå.",
+                  "text": "Piteå stadskyrka ist die Stadtkirche von Piteå.",
                   "category": "religious",
                   "coords": [
                         21.4836,
@@ -18817,7 +19258,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "hu": [
             {
                   "name": "Piteå museum",
-                  "text": "Regionális múzeum Piteå régi városházájának épületében.",
+                  "text": "Piteå museum Piteå városi múzeuma.",
                   "category": "museum",
                   "coords": [
                         21.483129,
@@ -18826,7 +19267,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Räkan",
-                  "text": "Homokos tengerpart és üdülőhely Piteå közelében.",
+                  "text": "Räkan egy garnéláról elnevezett strandfürdő Piteåban.",
                   "category": "recreational",
                   "coords": [
                         21.477853,
@@ -18844,7 +19285,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Studio Acusticum",
-                  "text": "Modern koncertterem és kulturális központ Piteå városában.",
+                  "text": "Studio Acusticum egy koncert- és kulturális központ Piteåban.",
                   "category": "cultural",
                   "coords": [
                         21.464001,
@@ -18853,7 +19294,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Strömnäskyrkan",
-                  "text": "Egyházközségi templom Piteå Strömnäs negyedében.",
+                  "text": "Egy 1960-as években épült modern templom Strömnäsben, Piteåban.",
                   "category": "religious",
                   "coords": [
                         21.511631,
@@ -18862,7 +19303,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Furubergskyrkan",
-                  "text": "Modern templom Piteå Furuberget negyedében.",
+                  "text": "Egy fatemplom Furubergben, Piteåban.",
                   "category": "religious",
                   "coords": [
                         21.500515,
@@ -18871,7 +19312,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Piteå stadskyrka",
-                  "text": "Történelmi fatemplom Piteå városközpontjában.",
+                  "text": "Piteå stadskyrka Piteå városi temploma.",
                   "category": "religious",
                   "coords": [
                         21.4836,
@@ -19116,7 +19557,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "ro": [
             {
                   "name": "Piteå museum",
-                  "text": "Muzeu regional situat în vechea primărie din Piteå.",
+                  "text": "Piteå museum este muzeul orașului Piteå.",
                   "category": "museum",
                   "coords": [
                         21.483129,
@@ -19125,7 +19566,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Räkan",
-                  "text": "O plajă de nisip și zonă de recreere în apropiere de Piteå.",
+                  "text": "Räkan este o plajă în Piteå numită după crevetă.",
                   "category": "recreational",
                   "coords": [
                         21.477853,
@@ -19143,7 +19584,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Studio Acusticum",
-                  "text": "O sală de concerte modernă și centru cultural în Piteå.",
+                  "text": "Studio Acusticum este un centru cultural și de concerte în Piteå.",
                   "category": "cultural",
                   "coords": [
                         21.464001,
@@ -19152,7 +19593,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Strömnäskyrkan",
-                  "text": "O biserică parohială în districtul Strömnäs din Piteå.",
+                  "text": "O biserică modernă din anii 1960 în Strömnäs, Piteå.",
                   "category": "religious",
                   "coords": [
                         21.511631,
@@ -19161,7 +19602,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Furubergskyrkan",
-                  "text": "O biserică modernă în districtul Furuberget din Piteå.",
+                  "text": "O biserică de lemn în Furuberg, Piteå.",
                   "category": "religious",
                   "coords": [
                         21.500515,
@@ -19170,7 +19611,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Piteå stadskyrka",
-                  "text": "O biserică istorică din lemn situată în centrul orașului Piteå.",
+                  "text": "Piteå stadskyrka este biserica orașului Piteå.",
                   "category": "religious",
                   "coords": [
                         21.4836,
@@ -19415,7 +19856,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "en": [
             {
                   "name": "Piteå museum",
-                  "text": "Regional museum located in the old town hall of Piteå.",
+                  "text": "Piteå museum is the town museum of Piteå.",
                   "category": "museum",
                   "coords": [
                         21.483129,
@@ -19424,7 +19865,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Räkan",
-                  "text": "A sandy beach and recreation area near Piteå.",
+                  "text": "Räkan is a beach resort in Piteå named after the shrimp.",
                   "category": "recreational",
                   "coords": [
                         21.477853,
@@ -19442,7 +19883,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Studio Acusticum",
-                  "text": "A modern concert hall and arts centre in Piteå.",
+                  "text": "Studio Acusticum is a concert and cultural centre in Piteå.",
                   "category": "cultural",
                   "coords": [
                         21.464001,
@@ -19451,7 +19892,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Strömnäskyrkan",
-                  "text": "A parish church in the Strömnäs district of Piteå.",
+                  "text": "A modern church from the 1960s in Strömnäs, Piteå.",
                   "category": "religious",
                   "coords": [
                         21.511631,
@@ -19460,7 +19901,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Furubergskyrkan",
-                  "text": "A modern church in the Furuberget district of Piteå.",
+                  "text": "A wooden church in Furuberg, Piteå.",
                   "category": "religious",
                   "coords": [
                         21.500515,
@@ -19469,7 +19910,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Piteå stadskyrka",
-                  "text": "A historic wooden church in the city center of Piteå.",
+                  "text": "Piteå stadskyrka is the town church of Piteå.",
                   "category": "religious",
                   "coords": [
                         21.4836,
@@ -19825,7 +20266,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Skellefteå Bangolfklubb",
-                  "text": "Skellefteå Bangolfklubb ist eine Minigolfanlage in Skelleftea, die Familienunterhaltung bietet.",
+                  "text": "Skellefteå Bangolfklubb ist ein Minigolfclub in Skellefteå.",
                   "category": "family",
                   "coords": [
                         20.970827,
@@ -19962,7 +20403,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Skellefteå Bangolfklubb",
-                  "text": "A Skellefteå Bangolfklubb egy minigolfpálya Skellefteå városában, amely családi szórakozást kínál.",
+                  "text": "Skellefteå Bangolfklubb egy minigolf klub Skellefteåban.",
                   "category": "family",
                   "coords": [
                         20.970827,
@@ -20099,7 +20540,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Skellefteå Bangolfklubb",
-                  "text": "Skellefteå Bangolfklubb este un teren de minigolf în Skelleftea, oferind divertisment pentru familie.",
+                  "text": "Skellefteå Bangolfklubb este un club de minigolf în Skellefteå.",
                   "category": "family",
                   "coords": [
                         20.970827,
@@ -20236,7 +20677,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Skellefteå Bangolfklubb",
-                  "text": "Skellefteå Bangolfklubb is a miniature golf course in Skelleftea providing family entertainment.",
+                  "text": "Skellefteå Bangolfklubb is a mini-golf club in Skellefteå.",
                   "category": "family",
                   "coords": [
                         20.970827,
@@ -20358,7 +20799,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "de": [
             {
                   "name": "Sibirien stranden",
-                  "text": "Ein populärer Strand bei Ängelholm.",
+                  "text": "Sibirien stranden ist ein Strand namens ‚Sibirien‘ in Ängelholm.",
                   "category": "recreational",
                   "coords": [
                         12.81422,
@@ -20412,7 +20853,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Värn 794",
-                  "text": "Ein historischer Verteidigungsbunker an der Küste von Ängelholm.",
+                  "text": "Värn 794 ist eine Befestigungsanlage mit der Nummer 794 in Ängelholm.",
                   "category": "fortress",
                   "coords": [
                         12.826676,
@@ -20430,7 +20871,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Rebbelberga kyrka",
-                  "text": "Eine mittelalterliche Steinkirche am Stadtrand von Ängelholm.",
+                  "text": "Eine Kirche aus dem 19. Jahrhundert in Rebbelberga, Ängelholm.",
                   "category": "religious",
                   "coords": [
                         12.879829,
@@ -20468,7 +20909,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "hu": [
             {
                   "name": "Sibirien stranden",
-                  "text": "Népszerű strand Ängelholm közelében.",
+                  "text": "Sibirien stranden egy ‚Szibéria‘ nevű strand Ängelholmban.",
                   "category": "recreational",
                   "coords": [
                         12.81422,
@@ -20522,7 +20963,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Värn 794",
-                  "text": "Történelmi védelmi bunker Ängelholm tengerpartján.",
+                  "text": "Värn 794 egy 794-es számú erődítmény Ängelholmban.",
                   "category": "fortress",
                   "coords": [
                         12.826676,
@@ -20540,7 +20981,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Rebbelberga kyrka",
-                  "text": "Középkori kőtemplom Ängelholm szélén.",
+                  "text": "Egy 19. századi templom Rebbelbergában, Ängelholmban.",
                   "category": "religious",
                   "coords": [
                         12.879829,
@@ -20578,7 +21019,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "ro": [
             {
                   "name": "Sibirien stranden",
-                  "text": "O plajă populară lângă Ängelholm.",
+                  "text": "Sibirien stranden este o plajă numită ‚Siberia‘ în Ängelholm.",
                   "category": "recreational",
                   "coords": [
                         12.81422,
@@ -20632,7 +21073,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Värn 794",
-                  "text": "Un buncăr istoric de apărare pe coasta orașului Ängelholm.",
+                  "text": "Värn 794 este o fortificație cu numărul 794 în Ängelholm.",
                   "category": "fortress",
                   "coords": [
                         12.826676,
@@ -20650,7 +21091,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Rebbelberga kyrka",
-                  "text": "O biserică medievală de piatră la marginea orașului Ängelholm.",
+                  "text": "O biserică din secolul al XIX-lea în Rebbelberga, Ängelholm.",
                   "category": "religious",
                   "coords": [
                         12.879829,
@@ -20688,7 +21129,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "en": [
             {
                   "name": "Sibirien stranden",
-                  "text": "A popular beach near Ängelholm.",
+                  "text": "Sibirien stranden is a beach called ‚Siberia‘ in Ängelholm.",
                   "category": "recreational",
                   "coords": [
                         12.81422,
@@ -20742,7 +21183,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Värn 794",
-                  "text": "A historic defense bunker on the coast of Ängelholm.",
+                  "text": "Värn 794 is a fortification number 794 in Ängelholm.",
                   "category": "fortress",
                   "coords": [
                         12.826676,
@@ -20760,7 +21201,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Rebbelberga kyrka",
-                  "text": "A medieval stone church on the outskirts of Ängelholm.",
+                  "text": "A 19th-century church in Rebbelberga, Ängelholm.",
                   "category": "religious",
                   "coords": [
                         12.879829,
@@ -20846,7 +21287,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "de": [
             {
                   "name": "Duveholmsbadplats",
-                  "text": "Badestelle in Katrineholm.",
+                  "text": "Ein Badeplatz am See in Duveholm, Katrineholm.",
                   "category": "recreational",
                   "coords": [
                         16.173969,
@@ -20911,7 +21352,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "hu": [
             {
                   "name": "Duveholmsbadplats",
-                  "text": "Fürdőhely Katrineholmban.",
+                  "text": "Egy tóparti fürdőhely Duveholmban, Katrineholmban.",
                   "category": "recreational",
                   "coords": [
                         16.173969,
@@ -20976,7 +21417,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "ro": [
             {
                   "name": "Duveholmsbadplats",
-                  "text": "Loc de îmbăiere în Katrineholm.",
+                  "text": "O plajă la lac în Duveholm, Katrineholm.",
                   "category": "recreational",
                   "coords": [
                         16.173969,
@@ -21041,7 +21482,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "en": [
             {
                   "name": "Duveholmsbadplats",
-                  "text": "Bathing spot in Katrineholm.",
+                  "text": "A lake beach at Duveholm, Katrineholm.",
                   "category": "recreational",
                   "coords": [
                         16.173969,
@@ -21154,7 +21595,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "de": [
             {
                   "name": "Breviksbadet",
-                  "text": "Ein Strand bei Västervik.",
+                  "text": "Breviksbadet ist ein Strandbad in Brevik bei Västervik.",
                   "category": "recreational",
                   "coords": [
                         16.623374,
@@ -21163,7 +21604,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sandviksbadet",
-                  "text": "Strand in der Nähe von Västervik.",
+                  "text": "Ein Sandstrand an der Ostseeküste in Västervik.",
                   "category": "recreational",
                   "coords": [
                         16.708054,
@@ -21172,7 +21613,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Maren",
-                  "text": "Maren ist ein See in Vaestervik, umgeben von Natur.",
+                  "text": "Maren ist ein See in Västervik.",
                   "category": "natural",
                   "coords": [
                         16.507626,
@@ -21181,7 +21622,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Stora Svinnaren",
-                  "text": "Stora Svinnaren ist ein See in Vaestervik, umgeben von Natur.",
+                  "text": "Ein großer See bei Vastervik, bekannt für sein klares Wasser.",
                   "category": "natural",
                   "coords": [
                         16.496724,
@@ -21190,7 +21631,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kvännaren",
-                  "text": "Kvännaren ist ein See in Vaestervik, umgeben von Natur.",
+                  "text": "Ein kleiner See in den Wäldern bei Vastervik.",
                   "category": "natural",
                   "coords": [
                         16.589876,
@@ -21199,7 +21640,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hästhagssjön",
-                  "text": "Hästhagssjön ist ein See in Vaestervik, umgeben von Natur.",
+                  "text": "Ein See bei Vastervik, benannt nach den Pferdeweiden an seinen Ufern.",
                   "category": "natural",
                   "coords": [
                         16.660554,
@@ -21208,7 +21649,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Tjutingen",
-                  "text": "Tjutingen ist ein See in Vaestervik, umgeben von Natur.",
+                  "text": "Ein abgelegener See bei Vastervik, häufig zum Vogelbeobachten besucht.",
                   "category": "natural",
                   "coords": [
                         16.555057,
@@ -21217,7 +21658,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hjorten",
-                  "text": "Hjorten ist ein See in Vaestervik, umgeben von Natur.",
+                  "text": "Ein See bei Vastervik, an dem häufig Hirsche gesehen werden.",
                   "category": "natural",
                   "coords": [
                         16.521181,
@@ -21226,7 +21667,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kvarnsjön",
-                  "text": "Kvarnsjön ist ein See in Vaestervik, umgeben von Natur.",
+                  "text": "Ein See bei Vastervik mit einer alten Mühle am Abfluss.",
                   "category": "natural",
                   "coords": [
                         16.539125,
@@ -21235,7 +21676,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Gagnaren",
-                  "text": "Gagnaren ist ein See in Vaestervik, umgeben von Natur.",
+                  "text": "Ein tiefer See bei Vastervik, beliebt zum Schwimmen.",
                   "category": "natural",
                   "coords": [
                         16.549215,
@@ -21244,7 +21685,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Fågöl",
-                  "text": "Fågöl ist ein See in Vaestervik, umgeben von Natur.",
+                  "text": "Ein kleiner Teich bei Vastervik, der viele Wasservögel anzieht.",
                   "category": "natural",
                   "coords": [
                         16.526974,
@@ -21253,7 +21694,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Dammen",
-                  "text": "Dammen ist ein See in Vaestervik, umgeben von Natur.",
+                  "text": "Ein künstlicher Teich bei Vastervik, ursprünglich zur Bewässerung genutzt.",
                   "category": "natural",
                   "coords": [
                         16.540884,
@@ -21262,7 +21703,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Mjösjön",
-                  "text": "Mjösjön ist ein See in Vaestervik, umgeben von Natur.",
+                  "text": "Ein flacher See bei Vastervik mit schlammigem Grund.",
                   "category": "natural",
                   "coords": [
                         16.662747,
@@ -21271,7 +21712,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kilen",
-                  "text": "Kilen ist ein See in Vaestervik, umgeben von Natur.",
+                  "text": "Ein keilförmiger See bei Vastervik.",
                   "category": "natural",
                   "coords": [
                         16.596076,
@@ -21280,7 +21721,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Friskjön",
-                  "text": "Friskjön ist ein See in Vaestervik, umgeben von Natur.",
+                  "text": "Ein Süßwassersee bei Vastervik, der von Quellen gespeist wird.",
                   "category": "natural",
                   "coords": [
                         16.688695,
@@ -21289,7 +21730,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Ängsjön",
-                  "text": "Ängsjön ist ein See in Vaestervik, umgeben von Natur.",
+                  "text": "Ein See bei Vastervik, umgeben von blühenden Wiesen.",
                   "category": "natural",
                   "coords": [
                         16.624479,
@@ -21298,7 +21739,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Gagern",
-                  "text": "Gagern ist ein See in Vaestervik, umgeben von Natur.",
+                  "text": "Ein kleiner See bei Vastervik, bekannt für die Fischerei.",
                   "category": "natural",
                   "coords": [
                         16.526331,
@@ -21309,7 +21750,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "hu": [
             {
                   "name": "Breviksbadet",
-                  "text": "Strand Västervik közelében.",
+                  "text": "Breviksbadet egy strandfürdő Brevikben Västervik közelében.",
                   "category": "recreational",
                   "coords": [
                         16.623374,
@@ -21318,7 +21759,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sandviksbadet",
-                  "text": "Part Västervik közelében.",
+                  "text": "Egy homokos strand a Balti-tenger partján Västervikben.",
                   "category": "recreational",
                   "coords": [
                         16.708054,
@@ -21327,7 +21768,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Maren",
-                  "text": "A Maren egy tó Vaestervik területén, természetes környezetben.",
+                  "text": "Maren egy tó Västervikben.",
                   "category": "natural",
                   "coords": [
                         16.507626,
@@ -21336,7 +21777,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Stora Svinnaren",
-                  "text": "A Stora Svinnaren egy tó Vaestervik területén, természetes környezetben.",
+                  "text": "Egy nagy tó Vastervik közelében, tiszta vizéről ismert.",
                   "category": "natural",
                   "coords": [
                         16.496724,
@@ -21345,7 +21786,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kvännaren",
-                  "text": "A Kvännaren egy tó Vaestervik területén, természetes környezetben.",
+                  "text": "Egy kis tó a Vastervik melletti erdőkben.",
                   "category": "natural",
                   "coords": [
                         16.589876,
@@ -21354,7 +21795,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hästhagssjön",
-                  "text": "A Hästhagssjön egy tó Vaestervik területén, természetes környezetben.",
+                  "text": "Egy tó Vastervik közelében, nevét a part menti lólegelőkről kapta.",
                   "category": "natural",
                   "coords": [
                         16.660554,
@@ -21363,7 +21804,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Tjutingen",
-                  "text": "A Tjutingen egy tó Vaestervik területén, természetes környezetben.",
+                  "text": "Egy félreeső tó Vastervik közelében, gyakran látogatják madármegfigyelés céljából.",
                   "category": "natural",
                   "coords": [
                         16.555057,
@@ -21372,7 +21813,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hjorten",
-                  "text": "A Hjorten egy tó Vaestervik területén, természetes környezetben.",
+                  "text": "Egy tó Vastervik közelében, ahol gyakran látni szarvasokat.",
                   "category": "natural",
                   "coords": [
                         16.521181,
@@ -21381,7 +21822,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kvarnsjön",
-                  "text": "A Kvarnsjön egy tó Vaestervik területén, természetes környezetben.",
+                  "text": "Egy tó Vastervik közelében, régi malommal a kifolyójánál.",
                   "category": "natural",
                   "coords": [
                         16.539125,
@@ -21390,7 +21831,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Gagnaren",
-                  "text": "A Gagnaren egy tó Vaestervik területén, természetes környezetben.",
+                  "text": "Egy mély tó Vastervik közelében, népszerű úszásra.",
                   "category": "natural",
                   "coords": [
                         16.549215,
@@ -21399,7 +21840,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Fågöl",
-                  "text": "A Fågöl egy tó Vaestervik területén, természetes környezetben.",
+                  "text": "Egy kis tó Vastervik közelében, amely sok vízimadarat vonz.",
                   "category": "natural",
                   "coords": [
                         16.526974,
@@ -21408,7 +21849,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Dammen",
-                  "text": "A Dammen egy tó Vaestervik területén, természetes környezetben.",
+                  "text": "Egy mesterséges tó Vastervik közelében, eredetileg öntözésre használták.",
                   "category": "natural",
                   "coords": [
                         16.540884,
@@ -21417,7 +21858,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Mjösjön",
-                  "text": "A Mjösjön egy tó Vaestervik területén, természetes környezetben.",
+                  "text": "Egy sekély tó Vastervik közelében, sáros fenékkel.",
                   "category": "natural",
                   "coords": [
                         16.662747,
@@ -21426,7 +21867,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kilen",
-                  "text": "A Kilen egy tó Vaestervik területén, természetes környezetben.",
+                  "text": "Egy ék alakú tó Vastervik közelében.",
                   "category": "natural",
                   "coords": [
                         16.596076,
@@ -21435,7 +21876,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Friskjön",
-                  "text": "A Friskjön egy tó Vaestervik területén, természetes környezetben.",
+                  "text": "Egy édesvizű tó Vastervik közelében, forrásokból táplálkozva.",
                   "category": "natural",
                   "coords": [
                         16.688695,
@@ -21444,7 +21885,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Ängsjön",
-                  "text": "Az Ängsjön egy tó Vaestervik területén, természetes környezetben.",
+                  "text": "Egy tó Vastervik közelében, virágzó rétekkel körülvéve.",
                   "category": "natural",
                   "coords": [
                         16.624479,
@@ -21453,7 +21894,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Gagern",
-                  "text": "A Gagern egy tó Vaestervik területén, természetes környezetben.",
+                  "text": "Egy kis tó Vastervik közelében, horgászatáról ismert.",
                   "category": "natural",
                   "coords": [
                         16.526331,
@@ -21464,7 +21905,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "ro": [
             {
                   "name": "Breviksbadet",
-                  "text": "O plajă lângă Västervik.",
+                  "text": "Breviksbadet este o plajă în Brevik lângă Västervik.",
                   "category": "recreational",
                   "coords": [
                         16.623374,
@@ -21473,7 +21914,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sandviksbadet",
-                  "text": "Plajă în apropiere de Västervik.",
+                  "text": "O plajă cu nisip pe coasta Mării Baltice în Västervik.",
                   "category": "recreational",
                   "coords": [
                         16.708054,
@@ -21482,7 +21923,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Maren",
-                  "text": "Maren este un lac din Vaestervik înconjurat de natură.",
+                  "text": "Maren este un lac în Västervik.",
                   "category": "natural",
                   "coords": [
                         16.507626,
@@ -21491,7 +21932,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Stora Svinnaren",
-                  "text": "Stora Svinnaren este un lac din Vaestervik înconjurat de natură.",
+                  "text": "Un lac mare lângă Vastervik, cunoscut pentru apele sale limpezi.",
                   "category": "natural",
                   "coords": [
                         16.496724,
@@ -21500,7 +21941,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kvännaren",
-                  "text": "Kvännaren este un lac din Vaestervik înconjurat de natură.",
+                  "text": "Un lac mic în pădurile de lângă Vastervik.",
                   "category": "natural",
                   "coords": [
                         16.589876,
@@ -21509,7 +21950,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hästhagssjön",
-                  "text": "Hästhagssjön este un lac din Vaestervik înconjurat de natură.",
+                  "text": "Un lac lângă Vastervik, numit după pășunile de cai de pe malurile sale.",
                   "category": "natural",
                   "coords": [
                         16.660554,
@@ -21518,7 +21959,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Tjutingen",
-                  "text": "Tjutingen este un lac din Vaestervik înconjurat de natură.",
+                  "text": "Un lac retras lângă Vastervik, adesea vizitat pentru observarea păsărilor.",
                   "category": "natural",
                   "coords": [
                         16.555057,
@@ -21527,7 +21968,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hjorten",
-                  "text": "Hjorten este un lac din Vaestervik înconjurat de natură.",
+                  "text": "Un lac lângă Vastervik, unde se văd frecvent căprioare.",
                   "category": "natural",
                   "coords": [
                         16.521181,
@@ -21536,7 +21977,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kvarnsjön",
-                  "text": "Kvarnsjön este un lac din Vaestervik înconjurat de natură.",
+                  "text": "Un lac lângă Vastervik cu o moară veche la ieșirea apei.",
                   "category": "natural",
                   "coords": [
                         16.539125,
@@ -21545,7 +21986,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Gagnaren",
-                  "text": "Gagnaren este un lac din Vaestervik înconjurat de natură.",
+                  "text": "Un lac adânc lângă Vastervik, popular pentru înot.",
                   "category": "natural",
                   "coords": [
                         16.549215,
@@ -21554,7 +21995,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Fågöl",
-                  "text": "Fågöl este un lac din Vaestervik înconjurat de natură.",
+                  "text": "Un mic iaz lângă Vastervik, care atrage multe păsări de apă.",
                   "category": "natural",
                   "coords": [
                         16.526974,
@@ -21563,7 +22004,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Dammen",
-                  "text": "Dammen este un lac din Vaestervik înconjurat de natură.",
+                  "text": "Un iaz artificial lângă Vastervik, folosit inițial pentru irigații.",
                   "category": "natural",
                   "coords": [
                         16.540884,
@@ -21572,7 +22013,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Mjösjön",
-                  "text": "Mjösjön este un lac din Vaestervik înconjurat de natură.",
+                  "text": "Un lac puțin adânc lângă Vastervik, cu fundul noroios.",
                   "category": "natural",
                   "coords": [
                         16.662747,
@@ -21581,7 +22022,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kilen",
-                  "text": "Kilen este un lac din Vaestervik înconjurat de natură.",
+                  "text": "Un lac în formă de pană lângă Vastervik.",
                   "category": "natural",
                   "coords": [
                         16.596076,
@@ -21590,7 +22031,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Friskjön",
-                  "text": "Friskjön este un lac din Vaestervik înconjurat de natură.",
+                  "text": "Un lac de apă dulce lângă Vastervik, alimentat de izvoare.",
                   "category": "natural",
                   "coords": [
                         16.688695,
@@ -21599,7 +22040,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Ängsjön",
-                  "text": "Ängsjön este un lac din Vaestervik înconjurat de natură.",
+                  "text": "Un lac lângă Vastervik, înconjurat de pajiști înflorite.",
                   "category": "natural",
                   "coords": [
                         16.624479,
@@ -21608,7 +22049,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Gagern",
-                  "text": "Gagern este un lac din Vaestervik înconjurat de natură.",
+                  "text": "Un lac mic lângă Vastervik, cunoscut pentru pescuit.",
                   "category": "natural",
                   "coords": [
                         16.526331,
@@ -21619,7 +22060,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "en": [
             {
                   "name": "Breviksbadet",
-                  "text": "A beach near Västervik.",
+                  "text": "Breviksbadet is a beach resort in Brevik near Västervik.",
                   "category": "recreational",
                   "coords": [
                         16.623374,
@@ -21628,7 +22069,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sandviksbadet",
-                  "text": "Beach near Västervik.",
+                  "text": "A sandy beach on the Baltic coast in Västervik.",
                   "category": "recreational",
                   "coords": [
                         16.708054,
@@ -21637,7 +22078,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Maren",
-                  "text": "Maren is a lake in Vaestervik surrounded by nature.",
+                  "text": "Maren is a lake in Västervik.",
                   "category": "natural",
                   "coords": [
                         16.507626,
@@ -21646,7 +22087,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Stora Svinnaren",
-                  "text": "Stora Svinnaren is a lake in Vaestervik surrounded by nature.",
+                  "text": "A large lake near Vastervik, known for its clear waters.",
                   "category": "natural",
                   "coords": [
                         16.496724,
@@ -21655,7 +22096,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kvännaren",
-                  "text": "Kvännaren is a lake in Vaestervik surrounded by nature.",
+                  "text": "A small lake in the forests near Vastervik.",
                   "category": "natural",
                   "coords": [
                         16.589876,
@@ -21664,7 +22105,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hästhagssjön",
-                  "text": "Hästhagssjön is a lake in Vaestervik surrounded by nature.",
+                  "text": "A lake near Vastervik named after the horse pastures along its shores.",
                   "category": "natural",
                   "coords": [
                         16.660554,
@@ -21673,7 +22114,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Tjutingen",
-                  "text": "Tjutingen is a lake in Vaestervik surrounded by nature.",
+                  "text": "A secluded lake near Vastervik, often visited for birdwatching.",
                   "category": "natural",
                   "coords": [
                         16.555057,
@@ -21682,7 +22123,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hjorten",
-                  "text": "Hjorten is a lake in Vaestervik surrounded by nature.",
+                  "text": "A lake near Vastervik where deer are frequently seen.",
                   "category": "natural",
                   "coords": [
                         16.521181,
@@ -21691,7 +22132,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kvarnsjön",
-                  "text": "Kvarnsjön is a lake in Vaestervik surrounded by nature.",
+                  "text": "A lake near Vastervik with an old mill at its outlet.",
                   "category": "natural",
                   "coords": [
                         16.539125,
@@ -21700,7 +22141,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Gagnaren",
-                  "text": "Gagnaren is a lake in Vaestervik surrounded by nature.",
+                  "text": "A deep lake near Vastervik, popular for swimming.",
                   "category": "natural",
                   "coords": [
                         16.549215,
@@ -21709,7 +22150,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Fågöl",
-                  "text": "Fågöl is a lake in Vaestervik surrounded by nature.",
+                  "text": "A small pond near Vastervik that attracts many waterfowl.",
                   "category": "natural",
                   "coords": [
                         16.526974,
@@ -21718,7 +22159,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Dammen",
-                  "text": "Dammen is a lake in Vaestervik surrounded by nature.",
+                  "text": "A man-made pond near Vastervik, originally used for irrigation.",
                   "category": "natural",
                   "coords": [
                         16.540884,
@@ -21727,7 +22168,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Mjösjön",
-                  "text": "Mjösjön is a lake in Vaestervik surrounded by nature.",
+                  "text": "A shallow lake near Vastervik with a muddy bottom.",
                   "category": "natural",
                   "coords": [
                         16.662747,
@@ -21736,7 +22177,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kilen",
-                  "text": "Kilen is a lake in Vaestervik surrounded by nature.",
+                  "text": "A wedge-shaped lake near Vastervik.",
                   "category": "natural",
                   "coords": [
                         16.596076,
@@ -21745,7 +22186,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Friskjön",
-                  "text": "Friskjön is a lake in Vaestervik surrounded by nature.",
+                  "text": "A freshwater lake near Vastervik, fed by springs.",
                   "category": "natural",
                   "coords": [
                         16.688695,
@@ -21754,7 +22195,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Ängsjön",
-                  "text": "Ängsjön is a lake in Vaestervik surrounded by nature.",
+                  "text": "A lake near Vastervik surrounded by flowering meadows.",
                   "category": "natural",
                   "coords": [
                         16.624479,
@@ -21763,7 +22204,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Gagern",
-                  "text": "Gagern is a lake in Vaestervik surrounded by nature.",
+                  "text": "A small lake near Vastervik, known for its fishing.",
                   "category": "natural",
                   "coords": [
                         16.526331,
@@ -22274,7 +22715,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "de": [
             {
                   "name": "Gräsmaln",
-                  "text": "Strand in der Nähe von Hudiksvall.",
+                  "text": "Ein Badestrand in Gräsmaln an der Küste von Hudiksvall.",
                   "category": "recreational",
                   "coords": [
                         17.161964,
@@ -22339,7 +22780,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "hu": [
             {
                   "name": "Gräsmaln",
-                  "text": "Part Hudiksvall közelében.",
+                  "text": "Egy fürdőhely Gräsmalnban, a Hudiksvall-i parton.",
                   "category": "recreational",
                   "coords": [
                         17.161964,
@@ -22404,7 +22845,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "ro": [
             {
                   "name": "Gräsmaln",
-                  "text": "Plajă în apropiere de Hudiksvall.",
+                  "text": "O plajă la Gräsmaln pe coasta Hudiksvall.",
                   "category": "recreational",
                   "coords": [
                         17.161964,
@@ -22469,7 +22910,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "en": [
             {
                   "name": "Gräsmaln",
-                  "text": "Beach near Hudiksvall.",
+                  "text": "A beach at Gräsmaln on the Hudiksvall coast.",
                   "category": "recreational",
                   "coords": [
                         17.161964,
@@ -22958,7 +23399,448 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     },
   },
   {
-    id: "sweden-ystad-cities-v2", "sights": {"de": [{"name": "Ystads sandskog", "text": "Ein ausgedehntes Wald- und Naturschutzgebiet mit Sandstränden östlich von Ystad.", "category": "natural", "coords": [13.895335, 55.43256]}, {"name": "Ystads teater", "text": "Ein prächtiges Theatergebäude aus dem Jahr 1894 im Herzen von Ystad.", "category": "cultural", "coords": [13.818333, 55.427702]}, {"name": "Ystads Konstmuseum", "text": "Ein bedeutendes Kunstmuseum in Ystad mit Fokus auf südschwedische und dänische Kunst.", "category": "museum", "coords": [13.824084, 55.428325]}, {"name": "Ystad Studios Visitor Center", "text": "Ein Museum, das der Filmindustrie und der Filmgeschichte in Ystad gewidmet ist.", "category": "museum", "coords": [13.843838, 55.433862]}, {"name": "Strand", "text": "Die weitläufigen Sandstrände von Ystad ziehen mit ihrem nordischen Charme Besucher magisch an die Küste. Das klare Wasser der Ostsee und der feine Sand bieten wunderbare Bedingungen für endlose Spaziergänge und erfrischende Badegänge. Die frische Brise sorgt auch an heißen Sommertagen für eine angenehme Abkühlung am Ufer. Ein Windschutz kann besonders in den Übergangsjahreszeiten ein praktischer Begleiter sein.", "category": "recreational", "coords": [13.78855, 55.423889]}, {"name": "Frivilliga Brandkårens Museum", "text": "Ein Museum in Ystad, das die Geschichte der örtlichen freiwilligen Feuerwehr zeigt.", "category": "museum", "coords": [13.820156, 55.43043]}, {"name": "Fotogalleri Stefan Idemark", "text": "Eine Fotogalerie in Ystad, die zeitgenössische Werke präsentiert.", "category": "museum", "coords": [13.827076, 55.429924]}, {"name": "Gallery M1", "text": "Eine Galerie für zeitgenössische Kunst im Zentrum von Ystad.", "category": "museum", "coords": [13.821813, 55.427998]}, {"name": "Pilgrändshuset", "text": "Ein gut erhaltenes historisches Fachwerkhaus in Ystad.", "category": "landmark", "coords": [13.82432, 55.430267]}, {"name": "Tvärhuset", "text": "Ein markantes historisches Gebäude in der Altstadt von Ystad.", "category": "landmark", "coords": [13.817665, 55.428989]}, {"name": "Sankt-Marien-Kirche", "text": "Eine bedeutende mittelalterliche Backsteinkirche im Zentrum von Ystad.", "category": "religious", "coords": [13.819013, 55.429304]}, {"name": "Öja kyrka", "text": "Eine historische Landkirche in der Nähe von Ystad.", "category": "religious", "coords": [13.843403, 55.452902]}], "hu": [{"name": "Ystads sandskog", "text": "Kiterjedt erdő- és természetvédelmi terület homokos strandokkal Ystadról keletre.", "category": "natural", "coords": [13.895335, 55.43256]}, {"name": "Ystads teater", "text": "Egy pompás, 1894-ben épült színházépület Ystad szívében.", "category": "cultural", "coords": [13.818333, 55.427702]}, {"name": "Ystads Konstmuseum", "text": "Jelentős művészeti múzeum Ystadban, amely a dél-svéd és dán művészetre összpontosít.", "category": "museum", "coords": [13.824084, 55.428325]}, {"name": "Ystad Studios Visitor Center", "text": "Ystad filmiparát és filmtörténetét bemutató múzeum.", "category": "museum", "coords": [13.843838, 55.433862]}, {"name": "Strand", "text": "Ystad kiterjedt homokos strandjai északi varázsukkal mágnesként vonzzák a látogatókat a tengerpartra. A Balti-tenger tiszta vize és a finom homok csodálatos feltételeket kínál a végtelen sétákhoz és a frissítő fürdőzésekhez. A friss szellő még a forró nyári napokon is kellemes lehűlést biztosít a parton. A szélfogó különösen az átmeneti évszakokban lehet igazán praktikus kísérő.", "category": "recreational", "coords": [13.78855, 55.423889]}, {"name": "Frivilliga Brandkårens Museum", "text": "Az önkéntes tűzoltóság történetét bemutató múzeum Ystadban.", "category": "museum", "coords": [13.820156, 55.43043]}, {"name": "Fotogalleri Stefan Idemark", "text": "Kortárs műveket bemutató fotógaléria Ystadban.", "category": "museum", "coords": [13.827076, 55.429924]}, {"name": "Gallery M1", "text": "Kortárs művészeti galéria Ystad központjában.", "category": "museum", "coords": [13.821813, 55.427998]}, {"name": "Pilgrändshuset", "text": "Egy jó állapotban fennmaradt történelmi fagerendás ház Ystadban.", "category": "landmark", "coords": [13.82432, 55.430267]}, {"name": "Tvärhuset", "text": "Jellegzetes történelmi épület Ystad óvárosában.", "category": "landmark", "coords": [13.817665, 55.428989]}, {"name": "Sankta Maria kyrka", "text": "Ystad központjának jelentős középkori tégla-temploma.", "category": "religious", "coords": [13.819013, 55.429304]}, {"name": "Öja kyrka", "text": "Történelmi vidéki templom Ystad közelében.", "category": "religious", "coords": [13.843403, 55.452902]}], "ro": [{"name": "Ystads sandskog", "text": "O zonă extinsă de pădure și rezervație naturală cu plaje cu nisip, la est de Ystad.", "category": "natural", "coords": [13.895335, 55.43256]}, {"name": "Ystads teater", "text": "O clădire somptuoasă de teatru din 1894, situată în inima orașului Ystad.", "category": "cultural", "coords": [13.818333, 55.427702]}, {"name": "Ystads Konstmuseum", "text": "Un muzeu de artă important din Ystad, cu accent pe arta din sudul Suediei și Danemarca.", "category": "museum", "coords": [13.824084, 55.428325]}, {"name": "Ystad Studios Visitor Center", "text": "Un muzeu dedicat industriei cinematografice și istoriei filmului din Ystad.", "category": "museum", "coords": [13.843838, 55.433862]}, {"name": "Strand", "text": "Plajele vaste de nisip din Ystad atrag vizitatorii în mod magic pe coastă cu farmecul lor nordic. Apele limpezi ale Mării Baltice și nisipul fin oferă condiții minunate pentru plimbări nesfârșite și înot revigorant. Briza proaspătă asigură o răcorire plăcută la mal chiar și în zilele toride de vară. Un paravan de vânt poate fi un însoțitor practic, mai ales în sezoanele de tranziție.", "category": "recreational", "coords": [13.78855, 55.423889]}, {"name": "Frivilliga Brandkårens Museum", "text": "Un muzeu din Ystad care prezintă istoria pompierilor voluntari locali.", "category": "museum", "coords": [13.820156, 55.43043]}, {"name": "Fotogalleri Stefan Idemark", "text": "O galerie foto din Ystad care prezintă lucrări contemporane.", "category": "museum", "coords": [13.827076, 55.429924]}, {"name": "Gallery M1", "text": "O galerie de artă contemporană situată în centrul orașului Ystad.", "category": "museum", "coords": [13.821813, 55.427998]}, {"name": "Pilgrändshuset", "text": "O casă istorică cu structură din lemn, bine conservată, în Ystad.", "category": "landmark", "coords": [13.82432, 55.430267]}, {"name": "Tvärhuset", "text": "O clădire istorică distinctivă în orașul vechi din Ystad.", "category": "landmark", "coords": [13.817665, 55.428989]}, {"name": "Sankta Maria kyrka", "text": "O biserică medievală importantă din cărămidă în centrul orașului Ystad.", "category": "religious", "coords": [13.819013, 55.429304]}, {"name": "Öja kyrka", "text": "O biserică rurală istorică situată în apropiere de Ystad.", "category": "religious", "coords": [13.843403, 55.452902]}], "en": [{"name": "Ystads sandskog", "text": "An extensive forest and nature reserve with sandy beaches east of Ystad.", "category": "natural", "coords": [13.895335, 55.43256]}, {"name": "Ystads teater", "text": "A grand theatre building from 1894 located in the heart of Ystad.", "category": "cultural", "coords": [13.818333, 55.427702]}, {"name": "Ystads Konstmuseum", "text": "A significant art museum in Ystad with a focus on Southern Swedish and Danish art.", "category": "museum", "coords": [13.824084, 55.428325]}, {"name": "Ystad Studios Visitor Center", "text": "A museum dedicated to the film industry and film history in Ystad.", "category": "museum", "coords": [13.843838, 55.433862]}, {"name": "Strand", "text": "The expansive sandy beaches of Ystad magically draw visitors to the coast with their undeniable Nordic charm. The clear waters of the Baltic Sea and the fine sand offer wonderful conditions for endless walks and highly refreshing swims. The fresh breeze continuously ensures a pleasant cooling effect on the shore, even on hot summer days. Bringing a windbreak can be a very practical companion, especially during the shoulder seasons.", "category": "recreational", "coords": [13.78855, 55.423889]}, {"name": "Frivilliga Brandkårens Museum", "text": "A museum in Ystad showcasing the history of the local volunteer fire brigade.", "category": "museum", "coords": [13.820156, 55.43043]}, {"name": "Fotogalleri Stefan Idemark", "text": "A photo gallery in Ystad showcasing contemporary works.", "category": "museum", "coords": [13.827076, 55.429924]}, {"name": "Gallery M1", "text": "A contemporary art gallery located in the center of Ystad.", "category": "museum", "coords": [13.821813, 55.427998]}, {"name": "Pilgrändshuset", "text": "A well-preserved historic half-timbered house in Ystad.", "category": "landmark", "coords": [13.82432, 55.430267]}, {"name": "Tvärhuset", "text": "A distinctive historic building in the old town of Ystad.", "category": "landmark", "coords": [13.817665, 55.428989]}, {"name": "Sankta Maria kyrka", "text": "A significant medieval brick church in the center of Ystad.", "category": "religious", "coords": [13.819013, 55.429304]}, {"name": "Öja kyrka", "text": "A historic rural church located near Ystad.", "category": "religious", "coords": [13.843403, 55.452902]}]},
+    id: "sweden-ystad-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ystads sandskog",
+                  "text": "Ein ausgedehntes Wald- und Naturschutzgebiet mit Sandstränden östlich von Ystad.",
+                  "category": "natural",
+                  "coords": [
+                        13.895335,
+                        55.43256
+                  ]
+            },
+            {
+                  "name": "Ystads teater",
+                  "text": "Ein prächtiges Theatergebäude aus dem Jahr 1894 im Herzen von Ystad.",
+                  "category": "cultural",
+                  "coords": [
+                        13.818333,
+                        55.427702
+                  ]
+            },
+            {
+                  "name": "Ystads Konstmuseum",
+                  "text": "Ein bedeutendes Kunstmuseum in Ystad mit Fokus auf südschwedische und dänische Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        13.824084,
+                        55.428325
+                  ]
+            },
+            {
+                  "name": "Ystad Studios Visitor Center",
+                  "text": "Ein Museum, das der Filmindustrie und der Filmgeschichte in Ystad gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        13.843838,
+                        55.433862
+                  ]
+            },
+            {
+                  "name": "Strand",
+                  "text": "Die weitläufigen Sandstrände von Ystad ziehen mit ihrem nordischen Charme Besucher magisch an die Küste. Das klare Wasser der Ostsee und der feine Sand bieten wunderbare Bedingungen für endlose Spaziergänge und erfrischende Badegänge. Die frische Brise sorgt auch an heißen Sommertagen für eine angenehme Abkühlung am Ufer. Ein Windschutz kann besonders in den Übergangsjahreszeiten ein praktischer Begleiter sein.",
+                  "category": "recreational",
+                  "coords": [
+                        13.78855,
+                        55.423889
+                  ]
+            },
+            {
+                  "name": "Frivilliga Brandkårens Museum",
+                  "text": "Ein Museum in Ystad, das die Geschichte der örtlichen freiwilligen Feuerwehr zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        13.820156,
+                        55.43043
+                  ]
+            },
+            {
+                  "name": "Fotogalleri Stefan Idemark",
+                  "text": "Eine Fotogalerie in Ystad, die zeitgenössische Werke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        13.827076,
+                        55.429924
+                  ]
+            },
+            {
+                  "name": "Gallery M1",
+                  "text": "Eine zeitgenössische Kunstgalerie im Zentrum von Ystad mit wechselnden Ausstellungen schwedischer Künstler.",
+                  "category": "museum",
+                  "coords": [
+                        13.821813,
+                        55.427998
+                  ]
+            },
+            {
+                  "name": "Pilgrändshuset",
+                  "text": "Ein gut erhaltenes historisches Fachwerkhaus in Ystad.",
+                  "category": "landmark",
+                  "coords": [
+                        13.82432,
+                        55.430267
+                  ]
+            },
+            {
+                  "name": "Tvärhuset",
+                  "text": "Ein markantes historisches Gebäude in der Altstadt von Ystad.",
+                  "category": "landmark",
+                  "coords": [
+                        13.817665,
+                        55.428989
+                  ]
+            },
+            {
+                  "name": "Sankt-Marien-Kirche",
+                  "text": "Eine bedeutende mittelalterliche Backsteinkirche im Zentrum von Ystad.",
+                  "category": "religious",
+                  "coords": [
+                        13.819013,
+                        55.429304
+                  ]
+            },
+            {
+                  "name": "Öja kyrka",
+                  "text": "Eine mittelalterliche Kirche mit Fresken in Öja, Ystad.",
+                  "category": "religious",
+                  "coords": [
+                        13.843403,
+                        55.452902
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ystads sandskog",
+                  "text": "Kiterjedt erdő- és természetvédelmi terület homokos strandokkal Ystadról keletre.",
+                  "category": "natural",
+                  "coords": [
+                        13.895335,
+                        55.43256
+                  ]
+            },
+            {
+                  "name": "Ystads teater",
+                  "text": "Egy pompás, 1894-ben épült színházépület Ystad szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        13.818333,
+                        55.427702
+                  ]
+            },
+            {
+                  "name": "Ystads Konstmuseum",
+                  "text": "Jelentős művészeti múzeum Ystadban, amely a dél-svéd és dán művészetre összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        13.824084,
+                        55.428325
+                  ]
+            },
+            {
+                  "name": "Ystad Studios Visitor Center",
+                  "text": "Ystad filmiparát és filmtörténetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        13.843838,
+                        55.433862
+                  ]
+            },
+            {
+                  "name": "Strand",
+                  "text": "Ystad kiterjedt homokos strandjai északi varázsukkal mágnesként vonzzák a látogatókat a tengerpartra. A Balti-tenger tiszta vize és a finom homok csodálatos feltételeket kínál a végtelen sétákhoz és a frissítő fürdőzésekhez. A friss szellő még a forró nyári napokon is kellemes lehűlést biztosít a parton. A szélfogó különösen az átmeneti évszakokban lehet igazán praktikus kísérő.",
+                  "category": "recreational",
+                  "coords": [
+                        13.78855,
+                        55.423889
+                  ]
+            },
+            {
+                  "name": "Frivilliga Brandkårens Museum",
+                  "text": "Az önkéntes tűzoltóság történetét bemutató múzeum Ystadban.",
+                  "category": "museum",
+                  "coords": [
+                        13.820156,
+                        55.43043
+                  ]
+            },
+            {
+                  "name": "Fotogalleri Stefan Idemark",
+                  "text": "Kortárs műveket bemutató fotógaléria Ystadban.",
+                  "category": "museum",
+                  "coords": [
+                        13.827076,
+                        55.429924
+                  ]
+            },
+            {
+                  "name": "Gallery M1",
+                  "text": "Egy kortárs művészeti galéria Ystad központjában, svéd művészek váltakozó kiállításaival.",
+                  "category": "museum",
+                  "coords": [
+                        13.821813,
+                        55.427998
+                  ]
+            },
+            {
+                  "name": "Pilgrändshuset",
+                  "text": "Egy jó állapotban fennmaradt történelmi fagerendás ház Ystadban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.82432,
+                        55.430267
+                  ]
+            },
+            {
+                  "name": "Tvärhuset",
+                  "text": "Jellegzetes történelmi épület Ystad óvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        13.817665,
+                        55.428989
+                  ]
+            },
+            {
+                  "name": "Sankta Maria kyrka",
+                  "text": "Ystad központjának jelentős középkori tégla-temploma.",
+                  "category": "religious",
+                  "coords": [
+                        13.819013,
+                        55.429304
+                  ]
+            },
+            {
+                  "name": "Öja kyrka",
+                  "text": "Egy középkori templom freskókkal Öjában, Ystadban.",
+                  "category": "religious",
+                  "coords": [
+                        13.843403,
+                        55.452902
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ystads sandskog",
+                  "text": "O zonă extinsă de pădure și rezervație naturală cu plaje cu nisip, la est de Ystad.",
+                  "category": "natural",
+                  "coords": [
+                        13.895335,
+                        55.43256
+                  ]
+            },
+            {
+                  "name": "Ystads teater",
+                  "text": "O clădire somptuoasă de teatru din 1894, situată în inima orașului Ystad.",
+                  "category": "cultural",
+                  "coords": [
+                        13.818333,
+                        55.427702
+                  ]
+            },
+            {
+                  "name": "Ystads Konstmuseum",
+                  "text": "Un muzeu de artă important din Ystad, cu accent pe arta din sudul Suediei și Danemarca.",
+                  "category": "museum",
+                  "coords": [
+                        13.824084,
+                        55.428325
+                  ]
+            },
+            {
+                  "name": "Ystad Studios Visitor Center",
+                  "text": "Un muzeu dedicat industriei cinematografice și istoriei filmului din Ystad.",
+                  "category": "museum",
+                  "coords": [
+                        13.843838,
+                        55.433862
+                  ]
+            },
+            {
+                  "name": "Strand",
+                  "text": "Plajele vaste de nisip din Ystad atrag vizitatorii în mod magic pe coastă cu farmecul lor nordic. Apele limpezi ale Mării Baltice și nisipul fin oferă condiții minunate pentru plimbări nesfârșite și înot revigorant. Briza proaspătă asigură o răcorire plăcută la mal chiar și în zilele toride de vară. Un paravan de vânt poate fi un însoțitor practic, mai ales în sezoanele de tranziție.",
+                  "category": "recreational",
+                  "coords": [
+                        13.78855,
+                        55.423889
+                  ]
+            },
+            {
+                  "name": "Frivilliga Brandkårens Museum",
+                  "text": "Un muzeu din Ystad care prezintă istoria pompierilor voluntari locali.",
+                  "category": "museum",
+                  "coords": [
+                        13.820156,
+                        55.43043
+                  ]
+            },
+            {
+                  "name": "Fotogalleri Stefan Idemark",
+                  "text": "O galerie foto din Ystad care prezintă lucrări contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        13.827076,
+                        55.429924
+                  ]
+            },
+            {
+                  "name": "Gallery M1",
+                  "text": "O galerie de artă contemporană în centrul orașului Ystad, cu expoziții rotative ale artiștilor suedezi.",
+                  "category": "museum",
+                  "coords": [
+                        13.821813,
+                        55.427998
+                  ]
+            },
+            {
+                  "name": "Pilgrändshuset",
+                  "text": "O casă istorică cu structură din lemn, bine conservată, în Ystad.",
+                  "category": "landmark",
+                  "coords": [
+                        13.82432,
+                        55.430267
+                  ]
+            },
+            {
+                  "name": "Tvärhuset",
+                  "text": "O clădire istorică distinctivă în orașul vechi din Ystad.",
+                  "category": "landmark",
+                  "coords": [
+                        13.817665,
+                        55.428989
+                  ]
+            },
+            {
+                  "name": "Sankta Maria kyrka",
+                  "text": "O biserică medievală importantă din cărămidă în centrul orașului Ystad.",
+                  "category": "religious",
+                  "coords": [
+                        13.819013,
+                        55.429304
+                  ]
+            },
+            {
+                  "name": "Öja kyrka",
+                  "text": "O biserică medievală cu fresce în Öja, Ystad.",
+                  "category": "religious",
+                  "coords": [
+                        13.843403,
+                        55.452902
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ystads sandskog",
+                  "text": "An extensive forest and nature reserve with sandy beaches east of Ystad.",
+                  "category": "natural",
+                  "coords": [
+                        13.895335,
+                        55.43256
+                  ]
+            },
+            {
+                  "name": "Ystads teater",
+                  "text": "A grand theatre building from 1894 located in the heart of Ystad.",
+                  "category": "cultural",
+                  "coords": [
+                        13.818333,
+                        55.427702
+                  ]
+            },
+            {
+                  "name": "Ystads Konstmuseum",
+                  "text": "A significant art museum in Ystad with a focus on Southern Swedish and Danish art.",
+                  "category": "museum",
+                  "coords": [
+                        13.824084,
+                        55.428325
+                  ]
+            },
+            {
+                  "name": "Ystad Studios Visitor Center",
+                  "text": "A museum dedicated to the film industry and film history in Ystad.",
+                  "category": "museum",
+                  "coords": [
+                        13.843838,
+                        55.433862
+                  ]
+            },
+            {
+                  "name": "Strand",
+                  "text": "The expansive sandy beaches of Ystad magically draw visitors to the coast with their undeniable Nordic charm. The clear waters of the Baltic Sea and the fine sand offer wonderful conditions for endless walks and highly refreshing swims. The fresh breeze continuously ensures a pleasant cooling effect on the shore, even on hot summer days. Bringing a windbreak can be a very practical companion, especially during the shoulder seasons.",
+                  "category": "recreational",
+                  "coords": [
+                        13.78855,
+                        55.423889
+                  ]
+            },
+            {
+                  "name": "Frivilliga Brandkårens Museum",
+                  "text": "A museum in Ystad showcasing the history of the local volunteer fire brigade.",
+                  "category": "museum",
+                  "coords": [
+                        13.820156,
+                        55.43043
+                  ]
+            },
+            {
+                  "name": "Fotogalleri Stefan Idemark",
+                  "text": "A photo gallery in Ystad showcasing contemporary works.",
+                  "category": "museum",
+                  "coords": [
+                        13.827076,
+                        55.429924
+                  ]
+            },
+            {
+                  "name": "Gallery M1",
+                  "text": "A contemporary art gallery in central Ystad, featuring rotating exhibitions of Swedish artists.",
+                  "category": "museum",
+                  "coords": [
+                        13.821813,
+                        55.427998
+                  ]
+            },
+            {
+                  "name": "Pilgrändshuset",
+                  "text": "A well-preserved historic half-timbered house in Ystad.",
+                  "category": "landmark",
+                  "coords": [
+                        13.82432,
+                        55.430267
+                  ]
+            },
+            {
+                  "name": "Tvärhuset",
+                  "text": "A distinctive historic building in the old town of Ystad.",
+                  "category": "landmark",
+                  "coords": [
+                        13.817665,
+                        55.428989
+                  ]
+            },
+            {
+                  "name": "Sankta Maria kyrka",
+                  "text": "A significant medieval brick church in the center of Ystad.",
+                  "category": "religious",
+                  "coords": [
+                        13.819013,
+                        55.429304
+                  ]
+            },
+            {
+                  "name": "Öja kyrka",
+                  "text": "A medieval church with frescoes in Öja, Ystad.",
+                  "category": "religious",
+                  "coords": [
+                        13.843403,
+                        55.452902
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "city",
     name: { de: "Ystad", hu: "Ystad", ro: "Ystad", en: "Ystad"},
@@ -23452,7 +24334,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sälstens havsbad",
-                  "text": "Sälstens havsbad ist ein beliebter Badeplatz an der Küste von Härnösand.",
+                  "text": "Ein Sandstrand am Bottnischen Meerbusen bei Harnosand, beliebt zum Schwimmen.",
                   "category": "landmark",
                   "coords": [
                         17.962292,
@@ -23470,7 +24352,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Ängekyrkan",
-                  "text": "Die Ängekyrkan ist eine lokale Kirche, die der Gemeinde in Härnösand dient.",
+                  "text": "Eine Holzkirche aus dem 18. Jahrhundert in Änge, Härnösand.",
                   "category": "religious",
                   "coords": [
                         17.924189,
@@ -23488,7 +24370,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Dom zu Härnösand",
-                  "text": "Die Kathedrale von Härnösand ist die kleinste Domkirche Schwedens und ein Wahrzeichen der Stadt.",
+                  "text": "Härnösand Cathedral ist die Kathedrale von Härnösand.",
                   "category": "religious",
                   "coords": [
                         17.941689,
@@ -23515,7 +24397,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Godstjärn",
-                  "text": "Godstjärn ist ein See in Haernoesand, umgeben von Natur.",
+                  "text": "Ein kleiner Waldsee bei Harnosand, der zum Angeln genutzt wird.",
                   "category": "natural",
                   "coords": [
                         17.903716,
@@ -23524,7 +24406,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kragomsviken",
-                  "text": "Kragomsviken ist ein See in Haernoesand, umgeben von Natur.",
+                  "text": "Eine geschützte Bucht im Schärengarten von Harnosand mit einem kleinen Steg.",
                   "category": "natural",
                   "coords": [
                         17.852309,
@@ -23533,7 +24415,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Abborrtjärnen",
-                  "text": "Abborrtjärnen ist ein See in Haernoesand, umgeben von Natur.",
+                  "text": "Ein kleiner See bei Harnosand, bekannt für seinen Barschbestand.",
                   "category": "natural",
                   "coords": [
                         17.880141,
@@ -23542,7 +24424,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Svarttjärnen",
-                  "text": "Svarttjärnen ist ein See in Haernoesand, umgeben von Natur.",
+                  "text": "Ein dunkler Waldsee, umgeben von Fichtenwald, bei Harnosand.",
                   "category": "natural",
                   "coords": [
                         17.896456,
@@ -23551,7 +24433,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Vittjärnen",
-                  "text": "Vittjärnen ist ein See in Haernoesand, umgeben von Natur.",
+                  "text": "Ein klarer Waldsee mit sandigem Grund bei Harnosand.",
                   "category": "natural",
                   "coords": [
                         17.897216,
@@ -23560,7 +24442,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Värptjärnen",
-                  "text": "Värptjärnen ist ein See in Haernoesand, umgeben von Natur.",
+                  "text": "Ein See bei Harnosand, in dem im Frühjahr Fische laichen.",
                   "category": "natural",
                   "coords": [
                         17.859482,
@@ -23569,7 +24451,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lomtjärnen",
-                  "text": "Lomtjärnen ist ein See in Haernoesand, umgeben von Natur.",
+                  "text": "Ein See bei Harnosand, in dem jährlich Seetaucher nisten.",
                   "category": "natural",
                   "coords": [
                         17.855522,
@@ -23578,7 +24460,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Björntjärnen",
-                  "text": "Björntjärnen ist ein See in Haernoesand, umgeben von Natur.",
+                  "text": "Ein abgelegener See im Bärenlebensraum bei Harnosand.",
                   "category": "natural",
                   "coords": [
                         17.871149,
@@ -23587,7 +24469,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kallsjön",
-                  "text": "Kallsjön ist ein See in Haernoesand, umgeben von Natur.",
+                  "text": "Ein tiefer, kalter See bei Harnosand, selten zum Schwimmen genutzt.",
                   "category": "natural",
                   "coords": [
                         18.044449,
@@ -23596,7 +24478,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Gräshamnstjärnen",
-                  "text": "Gräshamnstjärnen ist ein See in Haernoesand, umgeben von Natur.",
+                  "text": "Ein See nahe der Küste bei Harnosand.",
                   "category": "natural",
                   "coords": [
                         18.078275,
@@ -23605,7 +24487,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Helgumstjärnen",
-                  "text": "Helgumstjärnen ist ein See in Haernoesand, umgeben von Natur.",
+                  "text": "Ein See mit klarem Wasser und sandigem Ufer bei Harnosand.",
                   "category": "natural",
                   "coords": [
                         17.826481,
@@ -23614,7 +24496,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Dalatjärnen",
-                  "text": "Dalatjärnen ist ein See in Haernoesand, umgeben von Natur.",
+                  "text": "Ein See in einem engen Tal bei Harnosand.",
                   "category": "natural",
                   "coords": [
                         17.792981,
@@ -23623,7 +24505,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lapptjärnen",
-                  "text": "Lapptjärnen ist ein See in Haernoesand, umgeben von Natur.",
+                  "text": "Ein See in der nördlichen Waldregion bei Harnosand.",
                   "category": "natural",
                   "coords": [
                         18.001659,
@@ -23632,7 +24514,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Långsjön",
-                  "text": "Långsjön ist ein See in Haernoesand, umgeben von Natur.",
+                  "text": "Ein langer und schmaler See bei Harnosand, ideal zum Kanufahren.",
                   "category": "natural",
                   "coords": [
                         17.753327,
@@ -23641,7 +24523,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Klubbsjön",
-                  "text": "Klubbsjön ist ein See in Haernoesand, umgeben von Natur.",
+                  "text": "Ein runder See bei Harnosand, möglicherweise nach seiner Form benannt.",
                   "category": "natural",
                   "coords": [
                         18.042995,
@@ -23650,7 +24532,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Nässjön",
-                  "text": "Nässjön ist ein See in Haernoesand, umgeben von Natur.",
+                  "text": "Ein See bei Harnosand mit mit Brennnesseln bedeckten Ufern.",
                   "category": "natural",
                   "coords": [
                         17.861209,
@@ -23659,7 +24541,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Örsjön",
-                  "text": "Örsjön ist ein See in Haernoesand, umgeben von Natur.",
+                  "text": "Ein See bei Harnosand, bekannt für das Forellenangeln.",
                   "category": "natural",
                   "coords": [
                         18.005811,
@@ -23668,7 +24550,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Solumssjön",
-                  "text": "Solumssjön ist ein See in Haernoesand, umgeben von Natur.",
+                  "text": "Ein See mit schlammigen Ufern bei Harnosand.",
                   "category": "natural",
                   "coords": [
                         17.976134,
@@ -23677,7 +24559,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Bondsjön",
-                  "text": "Bondsjön ist ein See in Haernoesand, umgeben von Natur.",
+                  "text": "Ein See, umgeben von Ackerland, bei Harnosand.",
                   "category": "natural",
                   "coords": [
                         17.892306,
@@ -23686,7 +24568,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Finsviken",
-                  "text": "Finsviken ist ein See in Haernoesand, umgeben von Natur.",
+                  "text": "Eine kleine, geschützte Bucht bei Harnosand, beliebt zum Kajakfahren.",
                   "category": "natural",
                   "coords": [
                         17.917641,
@@ -23695,7 +24577,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Härnösands Golf & Glass",
-                  "text": "Härnösands Golf & Glass ist eine Minigolfanlage in Haernoesand, die Familienspaß bietet.",
+                  "text": "Eine Familienattraktion in Harnosand mit Minigolf und Glasbläser-Workshops.",
                   "category": "family",
                   "coords": [
                         17.937318,
@@ -23704,7 +24586,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Mellanholmens lekpark",
-                  "text": "Mellanholmens lekpark ist ein Spielplatz in Haernoesand, der zum Spielen für Kinder einlädt.",
+                  "text": "Ein Spielplatz auf der Insel Mellanholmen in Harnosand.",
                   "category": "family",
                   "coords": [
                         17.936046,
@@ -23713,7 +24595,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Berggatans lekplats",
-                  "text": "Berggatans lekplats ist ein Spielplatz in Haernoesand, der zum Spielen für Kinder einlädt.",
+                  "text": "Ein Spielplatz an der Berggatan-Straße in Harnosand.",
                   "category": "family",
                   "coords": [
                         17.943111,
@@ -23832,7 +24714,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sälstens havsbad",
-                  "text": "A Sälstens havsbad egy népszerű fürdőhely Härnösand tengerpartján.",
+                  "text": "Egy homokos strand a Botteni-öbölben Harnosand közelében, népszerű úszásra.",
                   "category": "landmark",
                   "coords": [
                         17.962292,
@@ -23850,7 +24732,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Ängekyrkan",
-                  "text": "Az Ängekyrkan egy helyi templom, amely Härnösand közösségét szolgálja.",
+                  "text": "Egy 18. századi fatemplom Ängeben, Härnösandban.",
                   "category": "religious",
                   "coords": [
                         17.924189,
@@ -23868,7 +24750,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Härnösands domkyrka",
-                  "text": "A Härnösandi székesegyház Svédország legkisebb dómja és a város egyik jelképe.",
+                  "text": "Härnösand Cathedral a härnösandi székesegyház.",
                   "category": "religious",
                   "coords": [
                         17.941689,
@@ -23895,7 +24777,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Godstjärn",
-                  "text": "A Godstjärn egy tó Haernoesand területén, természetes környezetben.",
+                  "text": "Egy kis erdei tó Harnosand közelében, horgászatra használják.",
                   "category": "natural",
                   "coords": [
                         17.903716,
@@ -23904,7 +24786,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kragomsviken",
-                  "text": "A Kragomsviken egy tó Haernoesand területén, természetes környezetben.",
+                  "text": "Egy védett öböl a Harnosand-szigetvilágban, kis stéggel.",
                   "category": "natural",
                   "coords": [
                         17.852309,
@@ -23913,7 +24795,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Abborrtjärnen",
-                  "text": "Az Abborrtjärnen egy tó Haernoesand területén, természetes környezetben.",
+                  "text": "Egy kis tó Harnosand közelében, sügérállományáról ismert.",
                   "category": "natural",
                   "coords": [
                         17.880141,
@@ -23922,7 +24804,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Svarttjärnen",
-                  "text": "A Svarttjärnen egy tó Haernoesand területén, természetes környezetben.",
+                  "text": "Egy sötét vizű tó Harnosand közelében, lucfenyőerdővel körülvéve.",
                   "category": "natural",
                   "coords": [
                         17.896456,
@@ -23931,7 +24813,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Vittjärnen",
-                  "text": "A Vittjärnen egy tó Haernoesand területén, természetes környezetben.",
+                  "text": "Egy tiszta vizű tó homokos fenékkel Harnosand közelében.",
                   "category": "natural",
                   "coords": [
                         17.897216,
@@ -23940,7 +24822,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Värptjärnen",
-                  "text": "A Värptjärnen egy tó Haernoesand területén, természetes környezetben.",
+                  "text": "Egy tó Harnosand közelében, ahol tavasszal ívnak a halak.",
                   "category": "natural",
                   "coords": [
                         17.859482,
@@ -23949,7 +24831,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lomtjärnen",
-                  "text": "A Lomtjärnen egy tó Haernoesand területén, természetes környezetben.",
+                  "text": "Egy tó Harnosand közelében, ahol évente búvármadarak fészkelnek.",
                   "category": "natural",
                   "coords": [
                         17.855522,
@@ -23958,7 +24840,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Björntjärnen",
-                  "text": "A Björntjärnen egy tó Haernoesand területén, természetes környezetben.",
+                  "text": "Egy félreeső tó medve élőhelyén Harnosand közelében.",
                   "category": "natural",
                   "coords": [
                         17.871149,
@@ -23967,7 +24849,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kallsjön",
-                  "text": "A Kallsjön egy tó Haernoesand területén, természetes környezetben.",
+                  "text": "Egy mély, hideg tó Harnosand közelében, ritkán használják úszásra.",
                   "category": "natural",
                   "coords": [
                         18.044449,
@@ -23976,7 +24858,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Gräshamnstjärnen",
-                  "text": "A Gräshamnstjärnen egy tó Haernoesand területén, természetes környezetben.",
+                  "text": "Egy tó a part közelében Harnosand mellett.",
                   "category": "natural",
                   "coords": [
                         18.078275,
@@ -23985,7 +24867,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Helgumstjärnen",
-                  "text": "A Helgumstjärnen egy tó Haernoesand területén, természetes környezetben.",
+                  "text": "Egy tó tiszta vízzel és homokos parttal Harnosand közelében.",
                   "category": "natural",
                   "coords": [
                         17.826481,
@@ -23994,7 +24876,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Dalatjärnen",
-                  "text": "A Dalatjärnen egy tó Haernoesand területén, természetes környezetben.",
+                  "text": "Egy tó egy keskeny völgyben Harnosand közelében.",
                   "category": "natural",
                   "coords": [
                         17.792981,
@@ -24003,7 +24885,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lapptjärnen",
-                  "text": "A Lapptjärnen egy tó Haernoesand területén, természetes környezetben.",
+                  "text": "Egy tó az északi erdős régióban Harnosand közelében.",
                   "category": "natural",
                   "coords": [
                         18.001659,
@@ -24012,7 +24894,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Långsjön",
-                  "text": "A Långsjön egy tó Haernoesand területén, természetes környezetben.",
+                  "text": "Egy hosszú és keskeny tó Harnosand közelében, ideális kenuzáshoz.",
                   "category": "natural",
                   "coords": [
                         17.753327,
@@ -24021,7 +24903,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Klubbsjön",
-                  "text": "A Klubbsjön egy tó Haernoesand területén, természetes környezetben.",
+                  "text": "Egy kerek tó Harnosand közelében, valószínűleg alakjáról kapta nevét.",
                   "category": "natural",
                   "coords": [
                         18.042995,
@@ -24030,7 +24912,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Nässjön",
-                  "text": "A Nässjön egy tó Haernoesand területén, természetes környezetben.",
+                  "text": "Egy tó Harnosand közelében, csalánnal borított partokkal.",
                   "category": "natural",
                   "coords": [
                         17.861209,
@@ -24039,7 +24921,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Örsjön",
-                  "text": "Az Örsjön egy tó Haernoesand területén, természetes környezetben.",
+                  "text": "Egy tó Harnosand közelében, pisztránghorgászatáról ismert.",
                   "category": "natural",
                   "coords": [
                         18.005811,
@@ -24048,7 +24930,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Solumssjön",
-                  "text": "A Solumssjön egy tó Haernoesand területén, természetes környezetben.",
+                  "text": "Egy tó sáros partokkal Harnosand közelében.",
                   "category": "natural",
                   "coords": [
                         17.976134,
@@ -24057,7 +24939,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Bondsjön",
-                  "text": "A Bondsjön egy tó Haernoesand területén, természetes környezetben.",
+                  "text": "Egy tó mezőgazdasági területekkel körülvéve Harnosand közelében.",
                   "category": "natural",
                   "coords": [
                         17.892306,
@@ -24066,7 +24948,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Finsviken",
-                  "text": "A Finsviken egy tó Haernoesand területén, természetes környezetben.",
+                  "text": "Egy kis, védett öböl Harnosand közelében, népszerű kajakozáshoz.",
                   "category": "natural",
                   "coords": [
                         17.917641,
@@ -24075,7 +24957,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Härnösands Golf & Glass",
-                  "text": "A Härnösands Golf & Glass egy minigolfpálya Haernoesand területén, amely családi szórakozást kínál.",
+                  "text": "Egy családi látványosság Harnosandban, minigolfozással és üvegfúvó műhelyekkel.",
                   "category": "family",
                   "coords": [
                         17.937318,
@@ -24084,7 +24966,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Mellanholmens lekpark",
-                  "text": "A Mellanholmens lekpark egy játszótér Haernoesand területén, amelyet gyermekek számára alakítottak ki.",
+                  "text": "Egy játszótér a Mellanholmen szigeten Harnosandban.",
                   "category": "family",
                   "coords": [
                         17.936046,
@@ -24093,7 +24975,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Berggatans lekplats",
-                  "text": "A Berggatans lekplats egy játszótér Haernoesand területén, amelyet gyermekek számára alakítottak ki.",
+                  "text": "Egy játszótér a Berggatan utcában Harnosandban.",
                   "category": "family",
                   "coords": [
                         17.943111,
@@ -24212,7 +25094,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sälstens havsbad",
-                  "text": "Sälstens havsbad este un loc popular de scăldat de pe coasta orașului Härnösand.",
+                  "text": "O plajă nisipoasă pe Golful Botnic lângă Harnosand, populară pentru înot.",
                   "category": "landmark",
                   "coords": [
                         17.962292,
@@ -24230,7 +25112,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Ängekyrkan",
-                  "text": "Ängekyrkan este o biserică locală care deservește comunitatea din Härnösand.",
+                  "text": "O biserică de lemn din secolul al XVIII-lea în Änge, Härnösand.",
                   "category": "religious",
                   "coords": [
                         17.924189,
@@ -24248,7 +25130,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Härnösands domkyrka",
-                  "text": "Catedrala din Härnösand este cea mai mică catedrală din Suedia și un punct de reper al orașului.",
+                  "text": "Härnösand Cathedral este catedrala din Härnösand.",
                   "category": "religious",
                   "coords": [
                         17.941689,
@@ -24275,7 +25157,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Godstjärn",
-                  "text": "Godstjärn este un lac din Haernoesand înconjurat de natură.",
+                  "text": "Un mic lac de pădure lângă Harnosand, folosit pentru pescuit.",
                   "category": "natural",
                   "coords": [
                         17.903716,
@@ -24284,7 +25166,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kragomsviken",
-                  "text": "Kragomsviken este un lac din Haernoesand înconjurat de natură.",
+                  "text": "Un golf adăpostit în arhipelagul Harnosand, cu un mic debarcader.",
                   "category": "natural",
                   "coords": [
                         17.852309,
@@ -24293,7 +25175,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Abborrtjärnen",
-                  "text": "Abborrtjärnen este un lac din Haernoesand înconjurat de natură.",
+                  "text": "Un mic lac lângă Harnosand, cunoscut pentru populația de biban.",
                   "category": "natural",
                   "coords": [
                         17.880141,
@@ -24302,7 +25184,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Svarttjärnen",
-                  "text": "Svarttjärnen este un lac din Haernoesand înconjurat de natură.",
+                  "text": "Un lac cu apă întunecată înconjurat de pădure de molid lângă Harnosand.",
                   "category": "natural",
                   "coords": [
                         17.896456,
@@ -24311,7 +25193,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Vittjärnen",
-                  "text": "Vittjärnen este un lac din Haernoesand înconjurat de natură.",
+                  "text": "Un lac cu apă limpede și fund nisipos lângă Harnosand.",
                   "category": "natural",
                   "coords": [
                         17.897216,
@@ -24320,7 +25202,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Värptjärnen",
-                  "text": "Värptjärnen este un lac din Haernoesand înconjurat de natură.",
+                  "text": "Un lac lângă Harnosand unde peștii depun icre primăvara.",
                   "category": "natural",
                   "coords": [
                         17.859482,
@@ -24329,7 +25211,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lomtjärnen",
-                  "text": "Lomtjärnen este un lac din Haernoesand înconjurat de natură.",
+                  "text": "Un lac lângă Harnosand unde cuibăresc anual păsările loon.",
                   "category": "natural",
                   "coords": [
                         17.855522,
@@ -24338,7 +25220,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Björntjärnen",
-                  "text": "Björntjärnen este un lac din Haernoesand înconjurat de natură.",
+                  "text": "Un lac izolat în habitatul urșilor lângă Harnosand.",
                   "category": "natural",
                   "coords": [
                         17.871149,
@@ -24347,7 +25229,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kallsjön",
-                  "text": "Kallsjön este un lac din Haernoesand înconjurat de natură.",
+                  "text": "Un lac adânc și rece lângă Harnosand, rar folosit pentru înot.",
                   "category": "natural",
                   "coords": [
                         18.044449,
@@ -24356,7 +25238,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Gräshamnstjärnen",
-                  "text": "Gräshamnstjärnen este un lac din Haernoesand înconjurat de natură.",
+                  "text": "Un lac lângă coastă, aproape de Harnosand.",
                   "category": "natural",
                   "coords": [
                         18.078275,
@@ -24365,7 +25247,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Helgumstjärnen",
-                  "text": "Helgumstjärnen este un lac din Haernoesand înconjurat de natură.",
+                  "text": "Un lac cu apă limpede și mal nisipos lângă Harnosand.",
                   "category": "natural",
                   "coords": [
                         17.826481,
@@ -24374,7 +25256,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Dalatjärnen",
-                  "text": "Dalatjärnen este un lac din Haernoesand înconjurat de natură.",
+                  "text": "Un lac situat într-o vale îngustă lângă Harnosand.",
                   "category": "natural",
                   "coords": [
                         17.792981,
@@ -24383,7 +25265,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lapptjärnen",
-                  "text": "Lapptjärnen este un lac din Haernoesand înconjurat de natură.",
+                  "text": "Un lac în regiunea de pădure nordică lângă Harnosand.",
                   "category": "natural",
                   "coords": [
                         18.001659,
@@ -24392,7 +25274,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Långsjön",
-                  "text": "Långsjön este un lac din Haernoesand înconjurat de natură.",
+                  "text": "Un lac lung și îngust lângă Harnosand, ideal pentru canoe.",
                   "category": "natural",
                   "coords": [
                         17.753327,
@@ -24401,7 +25283,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Klubbsjön",
-                  "text": "Klubbsjön este un lac din Haernoesand înconjurat de natură.",
+                  "text": "Un lac rotund lângă Harnosand, posibil numit după forma sa.",
                   "category": "natural",
                   "coords": [
                         18.042995,
@@ -24410,7 +25292,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Nässjön",
-                  "text": "Nässjön este un lac din Haernoesand înconjurat de natură.",
+                  "text": "Un lac lângă Harnosand cu maluri acoperite de urzici.",
                   "category": "natural",
                   "coords": [
                         17.861209,
@@ -24419,7 +25301,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Örsjön",
-                  "text": "Örsjön este un lac din Haernoesand înconjurat de natură.",
+                  "text": "Un lac lângă Harnosand, cunoscut pentru pescuitul de păstrăv.",
                   "category": "natural",
                   "coords": [
                         18.005811,
@@ -24428,7 +25310,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Solumssjön",
-                  "text": "Solumssjön este un lac din Haernoesand înconjurat de natură.",
+                  "text": "Un lac cu maluri noroioase lângă Harnosand.",
                   "category": "natural",
                   "coords": [
                         17.976134,
@@ -24437,7 +25319,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Bondsjön",
-                  "text": "Bondsjön este un lac din Haernoesand înconjurat de natură.",
+                  "text": "Un lac înconjurat de terenuri agricole lângă Harnosand.",
                   "category": "natural",
                   "coords": [
                         17.892306,
@@ -24446,7 +25328,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Finsviken",
-                  "text": "Finsviken este un lac din Haernoesand înconjurat de natură.",
+                  "text": "Un mic golf adăpostit lângă Harnosand, popular pentru caiac.",
                   "category": "natural",
                   "coords": [
                         17.917641,
@@ -24455,7 +25337,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Härnösands Golf & Glass",
-                  "text": "Härnösands Golf & Glass este un teren de minigolf din Haernoesand care oferă distracție în familie.",
+                  "text": "O atracție de familie în Harnosand, care oferă mini-golf și ateliere de suflat sticlă.",
                   "category": "family",
                   "coords": [
                         17.937318,
@@ -24464,7 +25346,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Mellanholmens lekpark",
-                  "text": "Mellanholmens lekpark este un loc de joacă din Haernoesand conceput pentru copii.",
+                  "text": "Un loc de joacă pe insula Mellanholmen din Harnosand.",
                   "category": "family",
                   "coords": [
                         17.936046,
@@ -24473,7 +25355,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Berggatans lekplats",
-                  "text": "Berggatans lekplats este un loc de joacă din Haernoesand conceput pentru copii.",
+                  "text": "Un loc de joacă situat pe strada Berggatan din Harnosand.",
                   "category": "family",
                   "coords": [
                         17.943111,
@@ -24592,7 +25474,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sälstens havsbad",
-                  "text": "Sälstens havsbad is a popular bathing spot on the coast of Härnösand.",
+                  "text": "A sandy beach on the Gulf of Bothnia near Harnosand, popular for swimming.",
                   "category": "landmark",
                   "coords": [
                         17.962292,
@@ -24610,7 +25492,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Ängekyrkan",
-                  "text": "Ängekyrkan is a local church serving the community in Härnösand.",
+                  "text": "A wooden church from the 18th century in Änge, Härnösand.",
                   "category": "religious",
                   "coords": [
                         17.924189,
@@ -24628,7 +25510,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Härnösand Cathedral",
-                  "text": "Härnösand Cathedral is the smallest cathedral in Sweden and a landmark of the city.",
+                  "text": "Härnösand Cathedral is the cathedral of Härnösand.",
                   "category": "religious",
                   "coords": [
                         17.941689,
@@ -24655,7 +25537,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Godstjärn",
-                  "text": "Godstjärn is a lake in Haernoesand surrounded by nature.",
+                  "text": "A small tarn in the forest near Harnosand, used for fishing.",
                   "category": "natural",
                   "coords": [
                         17.903716,
@@ -24664,7 +25546,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kragomsviken",
-                  "text": "Kragomsviken is a lake in Haernoesand surrounded by nature.",
+                  "text": "A sheltered bay in the Harnosand archipelago with a small jetty.",
                   "category": "natural",
                   "coords": [
                         17.852309,
@@ -24673,7 +25555,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Abborrtjärnen",
-                  "text": "Abborrtjärnen is a lake in Haernoesand surrounded by nature.",
+                  "text": "A small tarn near Harnosand known for its perch population.",
                   "category": "natural",
                   "coords": [
                         17.880141,
@@ -24682,7 +25564,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Svarttjärnen",
-                  "text": "Svarttjärnen is a lake in Haernoesand surrounded by nature.",
+                  "text": "A dark-water tarn surrounded by spruce forest near Harnosand.",
                   "category": "natural",
                   "coords": [
                         17.896456,
@@ -24691,7 +25573,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Vittjärnen",
-                  "text": "Vittjärnen is a lake in Haernoesand surrounded by nature.",
+                  "text": "A clear-water tarn with a sandy bottom near Harnosand.",
                   "category": "natural",
                   "coords": [
                         17.897216,
@@ -24700,7 +25582,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Värptjärnen",
-                  "text": "Värptjärnen is a lake in Haernoesand surrounded by nature.",
+                  "text": "A tarn near Harnosand where fish spawn in spring.",
                   "category": "natural",
                   "coords": [
                         17.859482,
@@ -24709,7 +25591,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lomtjärnen",
-                  "text": "Lomtjärnen is a lake in Haernoesand surrounded by nature.",
+                  "text": "A tarn near Harnosand where loons nest annually.",
                   "category": "natural",
                   "coords": [
                         17.855522,
@@ -24718,7 +25600,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Björntjärnen",
-                  "text": "Björntjärnen is a lake in Haernoesand surrounded by nature.",
+                  "text": "A remote tarn in bear habitat near Harnosand.",
                   "category": "natural",
                   "coords": [
                         17.871149,
@@ -24727,7 +25609,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kallsjön",
-                  "text": "Kallsjön is a lake in Haernoesand surrounded by nature.",
+                  "text": "A deep, cold lake near Harnosand, rarely used for swimming.",
                   "category": "natural",
                   "coords": [
                         18.044449,
@@ -24736,7 +25618,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Gräshamnstjärnen",
-                  "text": "Gräshamnstjärnen is a lake in Haernoesand surrounded by nature.",
+                  "text": "A tarn near the coast close to Harnosand.",
                   "category": "natural",
                   "coords": [
                         18.078275,
@@ -24745,7 +25627,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Helgumstjärnen",
-                  "text": "Helgumstjärnen is a lake in Haernoesand surrounded by nature.",
+                  "text": "A tarn with clear water and a sandy shore near Harnosand.",
                   "category": "natural",
                   "coords": [
                         17.826481,
@@ -24754,7 +25636,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Dalatjärnen",
-                  "text": "Dalatjärnen is a lake in Haernoesand surrounded by nature.",
+                  "text": "A tarn situated in a narrow valley near Harnosand.",
                   "category": "natural",
                   "coords": [
                         17.792981,
@@ -24763,7 +25645,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lapptjärnen",
-                  "text": "Lapptjärnen is a lake in Haernoesand surrounded by nature.",
+                  "text": "A tarn in the northern forest region near Harnosand.",
                   "category": "natural",
                   "coords": [
                         18.001659,
@@ -24772,7 +25654,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Långsjön",
-                  "text": "Långsjön is a lake in Haernoesand surrounded by nature.",
+                  "text": "A long and narrow lake near Harnosand, ideal for canoeing.",
                   "category": "natural",
                   "coords": [
                         17.753327,
@@ -24781,7 +25663,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Klubbsjön",
-                  "text": "Klubbsjön is a lake in Haernoesand surrounded by nature.",
+                  "text": "A round lake near Harnosand, possibly named for its shape.",
                   "category": "natural",
                   "coords": [
                         18.042995,
@@ -24790,7 +25672,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Nässjön",
-                  "text": "Nässjön is a lake in Haernoesand surrounded by nature.",
+                  "text": "A lake near Harnosand with nettle-covered shores.",
                   "category": "natural",
                   "coords": [
                         17.861209,
@@ -24799,7 +25681,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Örsjön",
-                  "text": "Örsjön is a lake in Haernoesand surrounded by nature.",
+                  "text": "A lake near Harnosand known for its trout fishing.",
                   "category": "natural",
                   "coords": [
                         18.005811,
@@ -24808,7 +25690,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Solumssjön",
-                  "text": "Solumssjön is a lake in Haernoesand surrounded by nature.",
+                  "text": "A lake with muddy shores near Harnosand.",
                   "category": "natural",
                   "coords": [
                         17.976134,
@@ -24817,7 +25699,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Bondsjön",
-                  "text": "Bondsjön is a lake in Haernoesand surrounded by nature.",
+                  "text": "A lake surrounded by farmland near Harnosand.",
                   "category": "natural",
                   "coords": [
                         17.892306,
@@ -24826,7 +25708,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Finsviken",
-                  "text": "Finsviken is a lake in Haernoesand surrounded by nature.",
+                  "text": "A small, sheltered bay near Harnosand, popular for kayaking.",
                   "category": "natural",
                   "coords": [
                         17.917641,
@@ -24835,7 +25717,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Härnösands Golf & Glass",
-                  "text": "Härnösands Golf & Glass is a miniature golf course in Haernoesand offering family fun.",
+                  "text": "A family attraction in Harnosand offering mini-golf and glassblowing workshops.",
                   "category": "family",
                   "coords": [
                         17.937318,
@@ -24844,7 +25726,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Mellanholmens lekpark",
-                  "text": "Mellanholmens lekpark is a playground in Haernoesand designed for children's play.",
+                  "text": "A playground on the island of Mellanholmen in Harnosand.",
                   "category": "family",
                   "coords": [
                         17.936046,
@@ -24853,7 +25735,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Berggatans lekplats",
-                  "text": "Berggatans lekplats is a playground in Haernoesand designed for children's play.",
+                  "text": "A playground located on Berggatan street in Harnosand.",
                   "category": "family",
                   "coords": [
                         17.943111,
@@ -24921,7 +25803,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "de": [
             {
                   "name": "Fiskarstranden",
-                  "text": "Fiskarstranden ist ein Badeplatz in Östersund.",
+                  "text": "Ein Erholungsgebiet am Ufer des Storsjön-Sees in Ostersund mit Sandstrand und Spazierwegen.",
                   "category": "recreational",
                   "coords": [
                         14.628602,
@@ -25011,7 +25893,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Jämtlands läns museum",
-                  "text": "Das Regionalmuseum für die Provinz Jämtland in Östersund.",
+                  "text": "Das Jämtlands läns museum ist das Regionalmuseum für die Provinz Jämtland in Östersund.",
                   "category": "museum",
                   "coords": [
                         14.637731,
@@ -25020,7 +25902,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Talldungen",
-                  "text": "Ein kleineres Museum oder historisches Gebäude in Östersund.",
+                  "text": "Das Freilichtmuseum Talldungen liegt in einem Kiefernwaldgebiet in Östersund.",
                   "category": "museum",
                   "coords": [
                         14.663013,
@@ -25047,7 +25929,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Veteranmonumentet",
-                  "text": "Ein Denkmal in Östersund, das den Veteranen gewidmet ist.",
+                  "text": "Das Veteranmonumentet ist ein Denkmal für Kriegsveteranen in Östersund.",
                   "category": "historical",
                   "coords": [
                         14.630344,
@@ -25155,7 +26037,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lillsjön",
-                  "text": "Der Lillsjön ist ein See in Östersund, der sich für Spaziergänge und Erholung eignet.",
+                  "text": "Lillsjön ist ein kleiner See in Östersund.",
                   "category": "natural",
                   "coords": [
                         14.701852,
@@ -25220,7 +26102,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "hu": [
             {
                   "name": "Fiskarstranden",
-                  "text": "Fiskarstranden egy strandfürdő Östersundban.",
+                  "text": "Egy pihenőhely a Storsjön-tó partján Ostersundban, homokos stranddal és sétányokkal.",
                   "category": "recreational",
                   "coords": [
                         14.628602,
@@ -25310,7 +26192,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Jämtlands läns museum",
-                  "text": "Jämtland tartomány regionális múzeuma Östersundban.",
+                  "text": "A Jämtlands läns museum Jämtland tartomány regionális múzeuma Östersundban.",
                   "category": "museum",
                   "coords": [
                         14.637731,
@@ -25319,7 +26201,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Talldungen",
-                  "text": "Kisebb múzeum vagy történelmi épület Östersundban.",
+                  "text": "A Talldungen szabadtéri múzeum egy fenyőerdős területen található Östersundban.",
                   "category": "museum",
                   "coords": [
                         14.663013,
@@ -25346,7 +26228,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Veteranmonumentet",
-                  "text": "A veteránok tiszteletére emelt emlékmű Östersundban.",
+                  "text": "A Veteranmonumentet a háborús veteránok emlékműve Östersundban.",
                   "category": "historical",
                   "coords": [
                         14.630344,
@@ -25454,7 +26336,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lillsjön",
-                  "text": "A Lillsjön egy tó Östersundban, amely alkalmas sétákra és kikapcsolódásra.",
+                  "text": "A Lillsjön egy kis tó Östersundban.",
                   "category": "natural",
                   "coords": [
                         14.701852,
@@ -25519,7 +26401,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "ro": [
             {
                   "name": "Fiskarstranden",
-                  "text": "Fiskarstranden este o plajă în Östersund.",
+                  "text": "O zonă de agrement pe malurile lacului Storsjön din Ostersund, cu o plajă nisipoasă și poteci de plimbare.",
                   "category": "recreational",
                   "coords": [
                         14.628602,
@@ -25609,7 +26491,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Jämtlands läns museum",
-                  "text": "Muzeul regional pentru provincia Jämtland, situat în Östersund.",
+                  "text": "Muzeul regional al provinciei Jämtland din Östersund.",
                   "category": "museum",
                   "coords": [
                         14.637731,
@@ -25618,7 +26500,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Talldungen",
-                  "text": "Un muzeu mai mic sau o clădire istorică în Östersund.",
+                  "text": "Muzeul în aer liber Talldungen este situat într-o pădure de pini din Östersund.",
                   "category": "museum",
                   "coords": [
                         14.663013,
@@ -25645,7 +26527,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Veteranmonumentet",
-                  "text": "Un monument în Östersund dedicat veteranilor.",
+                  "text": "Veteranmonumentet este un monument dedicat veteranilor de război din Östersund.",
                   "category": "historical",
                   "coords": [
                         14.630344,
@@ -25753,7 +26635,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lillsjön",
-                  "text": "Lillsjön este un lac din Östersund, potrivit pentru plimbări și relaxare.",
+                  "text": "Lillsjön este un mic lac din Östersund.",
                   "category": "natural",
                   "coords": [
                         14.701852,
@@ -25818,7 +26700,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "en": [
             {
                   "name": "Fiskarstranden",
-                  "text": "Fiskarstranden is a beach in Östersund.",
+                  "text": "A recreational area on the shores of Lake Storsjön in Ostersund, with a sandy beach and walking paths.",
                   "category": "recreational",
                   "coords": [
                         14.628602,
@@ -25908,7 +26790,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Jämtlands läns museum",
-                  "text": "The regional museum for the Jämtland province, located in Östersund.",
+                  "text": "Jämtlands läns museum is the regional museum for Jämtland province in Östersund.",
                   "category": "museum",
                   "coords": [
                         14.637731,
@@ -25917,7 +26799,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Talldungen",
-                  "text": "A smaller museum or historic building located in Östersund.",
+                  "text": "Talldungen open-air museum is located in a pine forest area in Östersund.",
                   "category": "museum",
                   "coords": [
                         14.663013,
@@ -25944,7 +26826,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Veteranmonumentet",
-                  "text": "A monument in Östersund dedicated to veterans.",
+                  "text": "Veteranmonumentet is a war veteran memorial in Östersund.",
                   "category": "historical",
                   "coords": [
                         14.630344,
@@ -26052,7 +26934,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lillsjön",
-                  "text": "Lillsjön is a lake in Oestersund, suitable for walks and relaxation.",
+                  "text": "Lillsjön is a small lake in Östersund.",
                   "category": "natural",
                   "coords": [
                         14.701852,
@@ -26691,7 +27573,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Djupeträsk",
-                  "text": "Ein landschaftlich reizvoller See bei Oskarshamn, ideal zum Entspannen.",
+                  "text": "Djupeträsk ist ein tiefer See im Moorgebiet bei Oskarshamn.",
                   "category": "natural",
                   "coords": [
                         16.362196,
@@ -26882,7 +27764,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Djupeträsk",
-                  "text": "Tájképi szempontból vonzó tó Oskarshamn közelében, ideális pihenésre.",
+                  "text": "A Djupeträsk egy mély tó a lápvidéken Oskarshamn közelében.",
                   "category": "natural",
                   "coords": [
                         16.362196,
@@ -27073,7 +27955,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Djupeträsk",
-                  "text": "Un lac pitoresc lângă Oskarshamn, ideal pentru relaxare.",
+                  "text": "Djupeträsk este un lac adânc în zona de mlaștină de lângă Oskarshamn.",
                   "category": "natural",
                   "coords": [
                         16.362196,
@@ -27264,7 +28146,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Djupeträsk",
-                  "text": "A scenic lake near Oskarshamn, ideal for relaxation.",
+                  "text": "Djupeträsk is a deep lake in the bog area near Oskarshamn.",
                   "category": "natural",
                   "coords": [
                         16.362196,
@@ -27440,7 +28322,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "de": [
             {
                   "name": "Sandvikens badplats",
-                  "text": "Badestelle in Sandviken bei Mariestad.",
+                  "text": "Sandvikens badplats ist ein Sandstrand am Vänernsee in Mariestad.",
                   "category": "recreational",
                   "coords": [
                         13.751712,
@@ -27514,7 +28396,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "hu": [
             {
                   "name": "Sandvikens badplats",
-                  "text": "Fürdőhely Sandvikenben, Mariestad közelében.",
+                  "text": "A Sandvikens badplats egy homokos strand a Vänern-tónál Mariestadban.",
                   "category": "recreational",
                   "coords": [
                         13.751712,
@@ -27588,7 +28470,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "ro": [
             {
                   "name": "Sandvikens badplats",
-                  "text": "Loc de îmbăiere la Sandviken lângă Mariestad.",
+                  "text": "Sandvikens badplats este o plajă cu nisip pe lacul Vänern din Mariestad.",
                   "category": "recreational",
                   "coords": [
                         13.751712,
@@ -27662,7 +28544,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "en": [
             {
                   "name": "Sandvikens badplats",
-                  "text": "Bathing spot at Sandviken near Mariestad.",
+                  "text": "Sandvikens badplats is a sandy beach on Lake Vänern in Mariestad.",
                   "category": "recreational",
                   "coords": [
                         13.751712,
@@ -27784,7 +28666,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "de": [
             {
                   "name": "Smäcken",
-                  "text": "Smäcken ist ein ruhiges Naturschutzgebiet in der Nähe von Borlänge.",
+                  "text": "Smäcken ist ein See in Borlänge.",
                   "category": "natural",
                   "coords": [
                         15.454614,
@@ -27802,7 +28684,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Tunabygdens Gammelgård",
-                  "text": "Der Tunabygdens Gammelgård ist ein großes Freilichtmuseum mit historischen Gebäuden in Borlänge.",
+                  "text": "Tunabygdens Gammelgård ist ein Freilichtmuseum mit historischen Gebäuden aus der Region Tunabygden in Borlänge.",
                   "category": "museum",
                   "coords": [
                         15.438303,
@@ -27811,7 +28693,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "2047 Science Center",
-                  "text": "Das 2047 Science Center ist ein interaktives Museum für Technik und Wissenschaft in Borlänge.",
+                  "text": "Das 2047 Science Center bietet interaktive Ausstellungen zu Wissenschaft und Technik in Borlänge.",
                   "category": "museum",
                   "coords": [
                         15.430592,
@@ -27829,7 +28711,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Borganäs",
-                  "text": "Borganäs ist eine archäologische Stätte einer mittelalterlichen Festung in Borlänge.",
+                  "text": "Borganäs ist die Ruine einer mittelalterlichen Burg in Borlänge.",
                   "category": "historical",
                   "coords": [
                         15.451175,
@@ -27847,7 +28729,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Maximteatern",
-                  "text": "Das Maximteatern ist eine zentrale Spielstätte für Unterhaltung und Theater in Borlänge.",
+                  "text": "Das Maximteatern ist ein historisches Theater in Borlänge, das noch für Aufführungen genutzt wird.",
                   "category": "cultural",
                   "coords": [
                         15.438182,
@@ -27865,7 +28747,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Utanfors herrgård",
-                  "text": "Das Utanfors herrgård ist ein historisches Herrenhaus in der Umgebung von Borlänge.",
+                  "text": "Utanfors herrgård ist ein Herrenhaus mit Parkanlage in Borlänge.",
                   "category": "historical",
                   "coords": [
                         15.434435,
@@ -27883,7 +28765,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Jakobs kapell",
-                  "text": "Die Jakobs kapell ist eine kleine, friedliche Kapelle in Borlänge.",
+                  "text": "Eine Kapelle in Borlänge.",
                   "category": "religious",
                   "coords": [
                         15.401379,
@@ -27892,7 +28774,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Dalsjön",
-                  "text": "Dalsjön ist ein See in Borlaenge, umgeben von Natur.",
+                  "text": "Dalsjön ist ein See in Borlänge.",
                   "category": "natural",
                   "coords": [
                         15.526276,
@@ -27901,7 +28783,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lilla Holmsjön",
-                  "text": "Lilla Holmsjön ist ein See in Borlaenge, umgeben von Natur.",
+                  "text": "Lilla Holmsjön ist ein kleiner See in Borlänge.",
                   "category": "natural",
                   "coords": [
                         15.533422,
@@ -27910,7 +28792,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Stora Holmsjön",
-                  "text": "Stora Holmsjön ist ein See in Borlaenge, umgeben von Natur.",
+                  "text": "Stora Holmsjön ist ein größerer See in Borlänge.",
                   "category": "natural",
                   "coords": [
                         15.54534,
@@ -27919,7 +28801,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Långsjön",
-                  "text": "Långsjön ist ein See in Borlaenge, umgeben von Natur.",
+                  "text": "Långsjön ist ein langer See in Borlänge.",
                   "category": "natural",
                   "coords": [
                         15.509377,
@@ -27928,7 +28810,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lilla Aspan",
-                  "text": "Lilla Aspan ist ein See in Borlaenge, umgeben von Natur.",
+                  "text": "Lilla Aspan ist ein kleiner See in Borlänge.",
                   "category": "natural",
                   "coords": [
                         15.530236,
@@ -27937,7 +28819,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Dammyran",
-                  "text": "Dammyran ist ein See in Borlaenge, umgeben von Natur.",
+                  "text": "Dammyran ist ein Sumpfgebiet in Borlänge.",
                   "category": "natural",
                   "coords": [
                         15.355594,
@@ -27946,7 +28828,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Havtrollet",
-                  "text": "Havtrollet ist ein See in Borlaenge, umgeben von Natur.",
+                  "text": "Havtrollet ist eine natürliche Felsformation in Borlänge.",
                   "category": "natural",
                   "coords": [
                         15.331415,
@@ -27955,7 +28837,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Igeltjärnen",
-                  "text": "Igeltjärnen ist ein See in Borlaenge, umgeben von Natur.",
+                  "text": "Igeltjärnen ist ein kleiner Teich in Borlänge.",
                   "category": "natural",
                   "coords": [
                         15.459727,
@@ -27964,7 +28846,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hessesjön",
-                  "text": "Hessesjön ist ein See in Borlaenge, umgeben von Natur.",
+                  "text": "Hessesjön ist ein See in Borlänge.",
                   "category": "natural",
                   "coords": [
                         15.470653,
@@ -27973,7 +28855,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kålsjön",
-                  "text": "Kålsjön ist ein See in Borlaenge, umgeben von Natur.",
+                  "text": "Kålsjön ist ein See in Borlänge.",
                   "category": "natural",
                   "coords": [
                         15.564842,
@@ -27982,7 +28864,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kaplanstjärnen",
-                  "text": "Kaplanstjärnen ist ein See in Borlaenge, umgeben von Natur.",
+                  "text": "Kaplanstjärnen ist ein kleiner Teich in Borlänge.",
                   "category": "natural",
                   "coords": [
                         15.576696,
@@ -27991,7 +28873,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sellnässjön",
-                  "text": "Sellnässjön ist ein See in Borlaenge, umgeben von Natur.",
+                  "text": "Sellnässjön ist ein See in Borlänge.",
                   "category": "natural",
                   "coords": [
                         15.388609,
@@ -28000,7 +28882,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Vassjön",
-                  "text": "Vassjön ist ein See in Borlaenge, umgeben von Natur.",
+                  "text": "Vassjön ist ein See in Borlänge.",
                   "category": "natural",
                   "coords": [
                         15.378499,
@@ -28119,7 +29001,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "hu": [
             {
                   "name": "Smäcken",
-                  "text": "Smäcken egy csendes természetvédelmi terület Borlänge közelében.",
+                  "text": "A Smäcken egy tó Borlänge-ben.",
                   "category": "natural",
                   "coords": [
                         15.454614,
@@ -28137,7 +29019,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Tunabygdens Gammelgård",
-                  "text": "A Tunabygdens Gammelgård egy nagy szabadtéri múzeum történelmi épületekkel Borlängében.",
+                  "text": "A Tunabygdens Gammelgård egy szabadtéri múzeum, amely a Tunabygden régió történelmi épületeit mutatja be Borlänge-ben.",
                   "category": "museum",
                   "coords": [
                         15.438303,
@@ -28146,7 +29028,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "2047 Science Center",
-                  "text": "A 2047 Science Center egy interaktív műszaki és tudományos múzeum Borlängében.",
+                  "text": "A 2047 Science Center interaktív kiállításokat kínál a tudomány és technika területén Borlänge-ben.",
                   "category": "museum",
                   "coords": [
                         15.430592,
@@ -28164,7 +29046,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Borganäs",
-                  "text": "Borganäs egy középkori erődítmény régészeti lelőhelye Borlängében.",
+                  "text": "A Borganäs egy középkori vár romja Borlänge-ben.",
                   "category": "historical",
                   "coords": [
                         15.451175,
@@ -28182,7 +29064,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Maximteatern",
-                  "text": "A Maximteatern a borlängei szórakoztatás és színházi élet egyik központi helyszíne.",
+                  "text": "A Maximteatern egy történelmi színház Borlänge-ben, amelyet ma is előadásokra használnak.",
                   "category": "cultural",
                   "coords": [
                         15.438182,
@@ -28200,7 +29082,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Utanfors herrgård",
-                  "text": "Az Utanfors herrgård egy történelmi kúria Borlänge környékén.",
+                  "text": "Az Utanfors herrgård egy kúria parkkal Borlänge-ben.",
                   "category": "historical",
                   "coords": [
                         15.434435,
@@ -28218,7 +29100,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Jakobs kapell",
-                  "text": "A Jakobs kapell egy kicsi, békés kápolna Borlängében.",
+                  "text": "Egy kápolna Borlängeben.",
                   "category": "religious",
                   "coords": [
                         15.401379,
@@ -28227,7 +29109,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Dalsjön",
-                  "text": "A Dalsjön egy tó Borlaenge területén, természetes környezetben.",
+                  "text": "A Dalsjön egy tó Borlänge-ben.",
                   "category": "natural",
                   "coords": [
                         15.526276,
@@ -28236,7 +29118,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lilla Holmsjön",
-                  "text": "A Lilla Holmsjön egy tó Borlaenge területén, természetes környezetben.",
+                  "text": "A Lilla Holmsjön egy kis tó Borlänge-ben.",
                   "category": "natural",
                   "coords": [
                         15.533422,
@@ -28245,7 +29127,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Stora Holmsjön",
-                  "text": "A Stora Holmsjön egy tó Borlaenge területén, természetes környezetben.",
+                  "text": "A Stora Holmsjön egy nagyobb tó Borlänge-ben.",
                   "category": "natural",
                   "coords": [
                         15.54534,
@@ -28254,7 +29136,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Långsjön",
-                  "text": "A Långsjön egy tó Borlaenge területén, természetes környezetben.",
+                  "text": "A Långsjön egy hosszú tó Borlänge-ben.",
                   "category": "natural",
                   "coords": [
                         15.509377,
@@ -28263,7 +29145,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lilla Aspan",
-                  "text": "A Lilla Aspan egy tó Borlaenge területén, természetes környezetben.",
+                  "text": "A Lilla Aspan egy kis tó Borlänge-ben.",
                   "category": "natural",
                   "coords": [
                         15.530236,
@@ -28272,7 +29154,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Dammyran",
-                  "text": "A Dammyran egy tó Borlaenge területén, természetes környezetben.",
+                  "text": "A Dammyran egy mocsaras terület Borlänge-ben.",
                   "category": "natural",
                   "coords": [
                         15.355594,
@@ -28281,7 +29163,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Havtrollet",
-                  "text": "A Havtrollet egy tó Borlaenge területén, természetes környezetben.",
+                  "text": "A Havtrollet egy természetes sziklaformáció Borlänge-ben.",
                   "category": "natural",
                   "coords": [
                         15.331415,
@@ -28290,7 +29172,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Igeltjärnen",
-                  "text": "Az Igeltjärnen egy tó Borlaenge területén, természetes környezetben.",
+                  "text": "Az Igeltjärnen egy kis tó Borlänge-ben.",
                   "category": "natural",
                   "coords": [
                         15.459727,
@@ -28299,7 +29181,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hessesjön",
-                  "text": "A Hessesjön egy tó Borlaenge területén, természetes környezetben.",
+                  "text": "A Hessesjön egy tó Borlänge-ben.",
                   "category": "natural",
                   "coords": [
                         15.470653,
@@ -28308,7 +29190,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kålsjön",
-                  "text": "A Kålsjön egy tó Borlaenge területén, természetes környezetben.",
+                  "text": "A Kålsjön egy tó Borlänge-ben.",
                   "category": "natural",
                   "coords": [
                         15.564842,
@@ -28317,7 +29199,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kaplanstjärnen",
-                  "text": "A Kaplanstjärnen egy tó Borlaenge területén, természetes környezetben.",
+                  "text": "A Kaplanstjärnen egy kis tó Borlänge-ben.",
                   "category": "natural",
                   "coords": [
                         15.576696,
@@ -28326,7 +29208,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sellnässjön",
-                  "text": "A Sellnässjön egy tó Borlaenge területén, természetes környezetben.",
+                  "text": "A Sellnässjön egy tó Borlänge-ben.",
                   "category": "natural",
                   "coords": [
                         15.388609,
@@ -28335,7 +29217,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Vassjön",
-                  "text": "A Vassjön egy tó Borlaenge területén, természetes környezetben.",
+                  "text": "A Vassjön egy tó Borlänge-ben.",
                   "category": "natural",
                   "coords": [
                         15.378499,
@@ -28454,7 +29336,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "ro": [
             {
                   "name": "Smäcken",
-                  "text": "Smäcken este o rezervație naturală liniștită situată lângă Borlänge.",
+                  "text": "Smäcken este un lac din Borlänge.",
                   "category": "natural",
                   "coords": [
                         15.454614,
@@ -28472,7 +29354,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Tunabygdens Gammelgård",
-                  "text": "Tunabygdens Gammelgård este un muzeu mare în aer liber cu clădiri istorice din Borlänge.",
+                  "text": "Tunabygdens Gammelgård este un muzeu în aer liber cu clădiri istorice din regiunea Tunabygden din Borlänge.",
                   "category": "museum",
                   "coords": [
                         15.438303,
@@ -28481,7 +29363,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "2047 Science Center",
-                  "text": "2047 Science Center este un muzeu interactiv de tehnologie și știință din Borlänge.",
+                  "text": "Centrul științific 2047 oferă expoziții interactive despre știință și tehnologie în Borlänge.",
                   "category": "museum",
                   "coords": [
                         15.430592,
@@ -28499,7 +29381,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Borganäs",
-                  "text": "Borganäs este situl arheologic al unei fortărețe medievale din Borlänge.",
+                  "text": "Borganäs este ruina unui castel medieval din Borlänge.",
                   "category": "historical",
                   "coords": [
                         15.451175,
@@ -28517,7 +29399,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Maximteatern",
-                  "text": "Maximteatern este o locație centrală pentru divertisment și teatru în Borlänge.",
+                  "text": "Maximteatern este un teatru istoric din Borlänge, încă folosit pentru spectacole.",
                   "category": "cultural",
                   "coords": [
                         15.438182,
@@ -28535,7 +29417,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Utanfors herrgård",
-                  "text": "Utanfors herrgård este un conac istoric situat în împrejurimile orașului Borlänge.",
+                  "text": "Utanfors herrgård este un conac cu parc în Borlänge.",
                   "category": "historical",
                   "coords": [
                         15.434435,
@@ -28553,7 +29435,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Jakobs kapell",
-                  "text": "Jakobs kapell este o capelă mică și liniștită din Borlänge.",
+                  "text": "O capelă în Borlänge.",
                   "category": "religious",
                   "coords": [
                         15.401379,
@@ -28562,7 +29444,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Dalsjön",
-                  "text": "Dalsjön este un lac din Borlaenge înconjurat de natură.",
+                  "text": "Dalsjön este un lac din Borlänge.",
                   "category": "natural",
                   "coords": [
                         15.526276,
@@ -28571,7 +29453,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lilla Holmsjön",
-                  "text": "Lilla Holmsjön este un lac din Borlaenge înconjurat de natură.",
+                  "text": "Lilla Holmsjön este un mic lac din Borlänge.",
                   "category": "natural",
                   "coords": [
                         15.533422,
@@ -28580,7 +29462,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Stora Holmsjön",
-                  "text": "Stora Holmsjön este un lac din Borlaenge înconjurat de natură.",
+                  "text": "Stora Holmsjön este un lac mai mare din Borlänge.",
                   "category": "natural",
                   "coords": [
                         15.54534,
@@ -28589,7 +29471,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Långsjön",
-                  "text": "Långsjön este un lac din Borlaenge înconjurat de natură.",
+                  "text": "Långsjön este un lac lung din Borlänge.",
                   "category": "natural",
                   "coords": [
                         15.509377,
@@ -28598,7 +29480,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lilla Aspan",
-                  "text": "Lilla Aspan este un lac din Borlaenge înconjurat de natură.",
+                  "text": "Lilla Aspan este un mic lac din Borlänge.",
                   "category": "natural",
                   "coords": [
                         15.530236,
@@ -28607,7 +29489,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Dammyran",
-                  "text": "Dammyran este un lac din Borlaenge înconjurat de natură.",
+                  "text": "Dammyran este o zonă mlăștinoasă din Borlänge.",
                   "category": "natural",
                   "coords": [
                         15.355594,
@@ -28616,7 +29498,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Havtrollet",
-                  "text": "Havtrollet este un lac din Borlaenge înconjurat de natură.",
+                  "text": "Havtrollet este o formațiune naturală de stâncă din Borlänge.",
                   "category": "natural",
                   "coords": [
                         15.331415,
@@ -28625,7 +29507,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Igeltjärnen",
-                  "text": "Igeltjärnen este un lac din Borlaenge înconjurat de natură.",
+                  "text": "Igeltjärnen este un mic iaz din Borlänge.",
                   "category": "natural",
                   "coords": [
                         15.459727,
@@ -28634,7 +29516,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hessesjön",
-                  "text": "Hessesjön este un lac din Borlaenge înconjurat de natură.",
+                  "text": "Hessesjön este un lac din Borlänge.",
                   "category": "natural",
                   "coords": [
                         15.470653,
@@ -28643,7 +29525,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kålsjön",
-                  "text": "Kålsjön este un lac din Borlaenge înconjurat de natură.",
+                  "text": "Kålsjön este un lac din Borlänge.",
                   "category": "natural",
                   "coords": [
                         15.564842,
@@ -28652,7 +29534,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kaplanstjärnen",
-                  "text": "Kaplanstjärnen este un lac din Borlaenge înconjurat de natură.",
+                  "text": "Kaplanstjärnen este un mic iaz din Borlänge.",
                   "category": "natural",
                   "coords": [
                         15.576696,
@@ -28661,7 +29543,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sellnässjön",
-                  "text": "Sellnässjön este un lac din Borlaenge înconjurat de natură.",
+                  "text": "Sellnässjön este un lac din Borlänge.",
                   "category": "natural",
                   "coords": [
                         15.388609,
@@ -28670,7 +29552,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Vassjön",
-                  "text": "Vassjön este un lac din Borlaenge înconjurat de natură.",
+                  "text": "Vassjön este un lac din Borlänge.",
                   "category": "natural",
                   "coords": [
                         15.378499,
@@ -28789,7 +29671,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "en": [
             {
                   "name": "Smäcken",
-                  "text": "Smäcken is a peaceful nature reserve located near Borlänge.",
+                  "text": "Smäcken is a lake in Borlänge.",
                   "category": "natural",
                   "coords": [
                         15.454614,
@@ -28807,7 +29689,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Tunabygdens Gammelgård",
-                  "text": "Tunabygdens Gammelgård is a large open-air museum with historic buildings in Borlänge.",
+                  "text": "Tunabygdens Gammelgård is an open-air museum featuring historic buildings from the Tunabygden region in Borlänge.",
                   "category": "museum",
                   "coords": [
                         15.438303,
@@ -28816,7 +29698,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "2047 Science Center",
-                  "text": "2047 Science Center is an interactive museum for technology and science in Borlänge.",
+                  "text": "2047 Science Center offers interactive exhibitions on science and technology in Borlänge.",
                   "category": "museum",
                   "coords": [
                         15.430592,
@@ -28834,7 +29716,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Borganäs",
-                  "text": "Borganäs is the archaeological site of a medieval fortress in Borlänge.",
+                  "text": "Borganäs is the ruin of a medieval castle in Borlänge.",
                   "category": "historical",
                   "coords": [
                         15.451175,
@@ -28852,7 +29734,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Maximteatern",
-                  "text": "Maximteatern is a central venue for entertainment and theatre in Borlänge.",
+                  "text": "Maximteatern is a historic theatre in Borlänge, still used for performances.",
                   "category": "cultural",
                   "coords": [
                         15.438182,
@@ -28870,7 +29752,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Utanfors herrgård",
-                  "text": "Utanfors herrgård is a historic manor house in the surroundings of Borlänge.",
+                  "text": "Utanfors herrgård is a manor house with park grounds in Borlänge.",
                   "category": "historical",
                   "coords": [
                         15.434435,
@@ -28888,7 +29770,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Jakobs kapell",
-                  "text": "Jakobs kapell is a small, peaceful chapel in Borlänge.",
+                  "text": "A chapel in Borlänge.",
                   "category": "religious",
                   "coords": [
                         15.401379,
@@ -28897,7 +29779,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Dalsjön",
-                  "text": "Dalsjön is a lake in Borlaenge surrounded by nature.",
+                  "text": "Dalsjön is a lake in Borlänge.",
                   "category": "natural",
                   "coords": [
                         15.526276,
@@ -28906,7 +29788,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lilla Holmsjön",
-                  "text": "Lilla Holmsjön is a lake in Borlaenge surrounded by nature.",
+                  "text": "Lilla Holmsjön is a small lake in Borlänge.",
                   "category": "natural",
                   "coords": [
                         15.533422,
@@ -28915,7 +29797,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Stora Holmsjön",
-                  "text": "Stora Holmsjön is a lake in Borlaenge surrounded by nature.",
+                  "text": "Stora Holmsjön is a larger lake in Borlänge.",
                   "category": "natural",
                   "coords": [
                         15.54534,
@@ -28924,7 +29806,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Långsjön",
-                  "text": "Långsjön is a lake in Borlaenge surrounded by nature.",
+                  "text": "Långsjön is a long lake in Borlänge.",
                   "category": "natural",
                   "coords": [
                         15.509377,
@@ -28933,7 +29815,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lilla Aspan",
-                  "text": "Lilla Aspan is a lake in Borlaenge surrounded by nature.",
+                  "text": "Lilla Aspan is a small lake in Borlänge.",
                   "category": "natural",
                   "coords": [
                         15.530236,
@@ -28942,7 +29824,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Dammyran",
-                  "text": "Dammyran is a lake in Borlaenge surrounded by nature.",
+                  "text": "Dammyran is a marsh area in Borlänge.",
                   "category": "natural",
                   "coords": [
                         15.355594,
@@ -28951,7 +29833,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Havtrollet",
-                  "text": "Havtrollet is a lake in Borlaenge surrounded by nature.",
+                  "text": "Havtrollet is a natural rock formation in Borlänge.",
                   "category": "natural",
                   "coords": [
                         15.331415,
@@ -28960,7 +29842,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Igeltjärnen",
-                  "text": "Igeltjärnen is a lake in Borlaenge surrounded by nature.",
+                  "text": "Igeltjärnen is a small pond in Borlänge.",
                   "category": "natural",
                   "coords": [
                         15.459727,
@@ -28969,7 +29851,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hessesjön",
-                  "text": "Hessesjön is a lake in Borlaenge surrounded by nature.",
+                  "text": "Hessesjön is a lake in Borlänge.",
                   "category": "natural",
                   "coords": [
                         15.470653,
@@ -28978,7 +29860,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kålsjön",
-                  "text": "Kålsjön is a lake in Borlaenge surrounded by nature.",
+                  "text": "Kålsjön is a lake in Borlänge.",
                   "category": "natural",
                   "coords": [
                         15.564842,
@@ -28987,7 +29869,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kaplanstjärnen",
-                  "text": "Kaplanstjärnen is a lake in Borlaenge surrounded by nature.",
+                  "text": "Kaplanstjärnen is a small pond in Borlänge.",
                   "category": "natural",
                   "coords": [
                         15.576696,
@@ -28996,7 +29878,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sellnässjön",
-                  "text": "Sellnässjön is a lake in Borlaenge surrounded by nature.",
+                  "text": "Sellnässjön is a lake in Borlänge.",
                   "category": "natural",
                   "coords": [
                         15.388609,
@@ -29005,7 +29887,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Vassjön",
-                  "text": "Vassjön is a lake in Borlaenge surrounded by nature.",
+                  "text": "Vassjön is a lake in Borlänge.",
                   "category": "natural",
                   "coords": [
                         15.378499,
@@ -29172,7 +30054,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "de": [
             {
                   "name": "Parkbadet",
-                  "text": "Ein beliebter Wasserpark und Freizeitbad in Sandviken.",
+                  "text": "Ein Freibad und Erholungsgebiet in Sandviken.",
                   "category": "family",
                   "coords": [
                         16.76892,
@@ -29181,7 +30063,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Scherpbacken",
-                  "text": "Eine archäologische Fundstätte mit antiken Überresten in Sandviken.",
+                  "text": "Naturschutzgebiet Hjärthalla mit altem Wald und einem Aussichtspunkt.",
                   "category": "historical",
                   "coords": [
                         16.735922,
@@ -29190,7 +30072,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Smedsgården Bruksmuseum",
-                  "text": "Ein Industriemuseum in Sandviken, das die Geschichte des örtlichen Hüttenwerks zeigt.",
+                  "text": "Bronzezeitlicher Grabhügel mit Panoramablick auf die Küste.",
                   "category": "museum",
                   "coords": [
                         16.779962,
@@ -29217,7 +30099,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sandvikens kyrka",
-                  "text": "Das Hauptkirchengebäude der Gemeinde Sandviken.",
+                  "text": "Eine 1882 erbaute Kirche in Sandviken.",
                   "category": "religious",
                   "coords": [
                         16.784423,
@@ -29226,7 +30108,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "S:t Katolska kyrka",
-                  "text": "Ein katholisches Kirchengebäude in Sandviken.",
+                  "text": "Eine katholische Kirche in Sandviken.",
                   "category": "religious",
                   "coords": [
                         16.77279,
@@ -29237,7 +30119,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "hu": [
             {
                   "name": "Parkbadet",
-                  "text": "Népszerű vízipark és szabadidős fürdő Sandvikenben.",
+                  "text": "Egy szabadtéri uszoda és pihenőhely Sandvikenben.",
                   "category": "family",
                   "coords": [
                         16.76892,
@@ -29246,7 +30128,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Scherpbacken",
-                  "text": "Régészeti lelőhely ősi maradványokkal Sandvikenben.",
+                  "text": "Hjärthalla természetvédelmi terület őserdővel és kilátóponttal.",
                   "category": "historical",
                   "coords": [
                         16.735922,
@@ -29255,7 +30137,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Smedsgården Bruksmuseum",
-                  "text": "Ipartörténeti múzeum Sandvikenben, amely a helyi vasmű történetét mutatja be.",
+                  "text": "Bronzkori halomsír panorámás kilátással a tengerpartra.",
                   "category": "museum",
                   "coords": [
                         16.779962,
@@ -29282,7 +30164,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sandvikens kyrka",
-                  "text": "Sandviken közösségének fő templomépülete.",
+                  "text": "Egy 1882-ben épült templom Sandvikenben.",
                   "category": "religious",
                   "coords": [
                         16.784423,
@@ -29291,7 +30173,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "S:t Katolska kyrka",
-                  "text": "Katolikus templomépület Sandvikenben.",
+                  "text": "Egy katolikus templom Sandvikenben.",
                   "category": "religious",
                   "coords": [
                         16.77279,
@@ -29302,7 +30184,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "ro": [
             {
                   "name": "Parkbadet",
-                  "text": "Un parc acvatic și centru de agrement popular în Sandviken.",
+                  "text": "O piscină în aer liber și zonă de recreere în Sandviken.",
                   "category": "family",
                   "coords": [
                         16.76892,
@@ -29311,7 +30193,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Scherpbacken",
-                  "text": "Un sit arheologic cu vestigii antice în Sandviken.",
+                  "text": "Rezervația naturală Hjärthalla cu pădure bătrână și un punct de belvedere.",
                   "category": "historical",
                   "coords": [
                         16.735922,
@@ -29320,7 +30202,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Smedsgården Bruksmuseum",
-                  "text": "Un muzeu industrial din Sandviken care prezintă istoria combinatului siderurgic local.",
+                  "text": "Movilă funerară din epoca bronzului cu vedere panoramică asupra coastei.",
                   "category": "museum",
                   "coords": [
                         16.779962,
@@ -29347,7 +30229,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sandvikens kyrka",
-                  "text": "Principala clădire a bisericii din comunitatea Sandviken.",
+                  "text": "O biserică construită în 1882 în Sandviken.",
                   "category": "religious",
                   "coords": [
                         16.784423,
@@ -29356,7 +30238,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "S:t Katolska kyrka",
-                  "text": "O clădire a bisericii catolice din Sandviken.",
+                  "text": "O biserică catolică în Sandviken.",
                   "category": "religious",
                   "coords": [
                         16.77279,
@@ -29367,7 +30249,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "en": [
             {
                   "name": "Parkbadet",
-                  "text": "A popular water park and leisure pool in Sandviken.",
+                  "text": "An outdoor swimming pool and recreation area in Sandviken.",
                   "category": "family",
                   "coords": [
                         16.76892,
@@ -29376,7 +30258,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Scherpbacken",
-                  "text": "An archaeological site with ancient remains in Sandviken.",
+                  "text": "Hjärthalla nature reserve with ancient forest and a high viewpoint.",
                   "category": "historical",
                   "coords": [
                         16.735922,
@@ -29385,7 +30267,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Smedsgården Bruksmuseum",
-                  "text": "An industrial museum in Sandviken showcasing the history of the local ironworks.",
+                  "text": "Bronze Age cairn site with a panoramic view of the coast.",
                   "category": "museum",
                   "coords": [
                         16.779962,
@@ -29412,7 +30294,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sandvikens kyrka",
-                  "text": "The main church building of the Sandviken community.",
+                  "text": "A church built in 1882 in Sandviken.",
                   "category": "religious",
                   "coords": [
                         16.784423,
@@ -29421,7 +30303,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "S:t Katolska kyrka",
-                  "text": "A Catholic church building in Sandviken.",
+                  "text": "A Catholic church in Sandviken.",
                   "category": "religious",
                   "coords": [
                         16.77279,
@@ -30206,7 +31088,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Björktjärnen",
-                  "text": "Der Björktjärnen ist ein See in Karlskoga, der für seine ruhige natürliche Umgebung bekannt ist.",
+                  "text": "Björktjärnen ist ein Birkenteich in Karlskoga.",
                   "category": "natural",
                   "coords": [
                         14.437801,
@@ -30469,7 +31351,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Björktjärnen",
-                  "text": "A Björktjärnen egy tó Karlskogában, amely nyugodt természeti környezetéről ismert.",
+                  "text": "A Björktjärnen egy nyírfa-tó Karlskogában.",
                   "category": "natural",
                   "coords": [
                         14.437801,
@@ -30732,7 +31614,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Björktjärnen",
-                  "text": "Björktjärnen este un lac din Karlskoga, cunoscut pentru împrejurimile sale naturale liniștite.",
+                  "text": "Björktjärnen este un iaz de mesteacăn în Karlskoga.",
                   "category": "natural",
                   "coords": [
                         14.437801,
@@ -30995,7 +31877,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Björktjärnen",
-                  "text": "Björktjärnen is a lake in Karlskoga, known for its tranquil natural surroundings.",
+                  "text": "Björktjärnen is a birch pond in Karlskoga.",
                   "category": "natural",
                   "coords": [
                         14.437801,
@@ -31088,7 +31970,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "de": [
             {
                   "name": "S/S Herbert",
-                  "text": "Die S/S Herbert ist ein historisches Dampfschiff, das heute als Museum in Alingsås dient.",
+                  "text": "Ein erhaltener Dampfer von 1910 auf dem See Mjörn, heute Museumsschiff.",
                   "category": "museum",
                   "coords": [
                         12.508122,
@@ -31151,7 +32033,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Stockslyckekyrkan",
-                  "text": "Die Stockslyckekyrkan ist ein modernes Kirchengebäude in Alingsås.",
+                  "text": "Stockslyckekyrkan ist eine Kirche in Alingsås, erbaut 1977.",
                   "category": "religious",
                   "coords": [
                         12.5532,
@@ -31160,7 +32042,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Nolby gravkapell",
-                  "text": "Das Nolby gravkapell ist eine Friedhofskapelle in Alingsås.",
+                  "text": "Nolby gravkapell ist eine Friedhofskapelle in Alingsås, erbaut 1961.",
                   "category": "religious",
                   "coords": [
                         12.559235,
@@ -31169,7 +32051,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Noltorpskyrkan",
-                  "text": "Die Noltorpskyrkan ist eine evangelische Kirche im Stadtteil Noltorp in Alingsås.",
+                  "text": "Noltorpskyrkan ist eine Kirche in Alingsås, erbaut 1991.",
                   "category": "religious",
                   "coords": [
                         12.5187,
@@ -31187,7 +32069,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lersjön",
-                  "text": "Ein See in der Umgebung von Alingsås, der sich gut für Wanderungen eignet.",
+                  "text": "Lersjön ist ein Lehmsee in Alingsås.",
                   "category": "natural",
                   "coords": [
                         12.463402,
@@ -31241,7 +32123,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Valsjön",
-                  "text": "Ein landschaftlich schöner See in der Nähe von Alingsås.",
+                  "text": "Valsjön ist ein See in Alingsås.",
                   "category": "natural",
                   "coords": [
                         12.500848,
@@ -31277,7 +32159,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Mårsjön",
-                  "text": "Ein ruhiger See in Alingsås für erholsame Spaziergänge.",
+                  "text": "Mårsjön ist ein See in Alingsås.",
                   "category": "natural",
                   "coords": [
                         12.517242,
@@ -31295,7 +32177,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kedjesjön",
-                  "text": "Ein lokaler See in der Umgebung von Alingsås.",
+                  "text": "Kedjesjön ist ein kettenförmiger See in Alingsås.",
                   "category": "natural",
                   "coords": [
                         12.5285,
@@ -31304,7 +32186,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Dammsjön",
-                  "text": "Ein kleiner See bei Alingsås, ideal für ruhige Momente.",
+                  "text": "Dammsjön ist ein Stausee in Alingsås.",
                   "category": "natural",
                   "coords": [
                         12.525392,
@@ -31322,7 +32204,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Blåtjärnen",
-                  "text": "Ein ruhiger See bei Alingsås, der zum Verweilen einlädt.",
+                  "text": "Blåtjärnen ist ein blauer Teich in Alingsås.",
                   "category": "natural",
                   "coords": [
                         12.537104,
@@ -31358,7 +32240,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Abborrtjärnen",
-                  "text": "Ein See bei Alingsås, der typisch für die Region ist.",
+                  "text": "Abborrtjärnen ist ein Barschteich in Alingsås.",
                   "category": "natural",
                   "coords": [
                         12.494262,
@@ -31367,7 +32249,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lilla Hyggesjön",
-                  "text": "Ein kleiner See in Alingsås für ruhige Ausflüge in die Natur.",
+                  "text": "Lilla Hyggesjön ist ein kleiner Kahlschlagsee in Alingsås.",
                   "category": "natural",
                   "coords": [
                         12.484165,
@@ -31405,7 +32287,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "hu": [
             {
                   "name": "S/S Herbert",
-                  "text": "Az S/S Herbert egy történelmi gőzhajó, amely ma múzeumként működik Alingsåsban.",
+                  "text": "Egy 1910-ben épült megőrzött gőzhajó a Mjörn-tavon, ma múzeumhajó.",
                   "category": "museum",
                   "coords": [
                         12.508122,
@@ -31468,7 +32350,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Stockslyckekyrkan",
-                  "text": "Az alingsåsi Stockslyckekyrkan egy helyi vallási központ és templom.",
+                  "text": "Stockslyckekyrkan egy templom Alingsåsban, 1977-ben épült.",
                   "category": "religious",
                   "coords": [
                         12.5532,
@@ -31477,7 +32359,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Nolby gravkapell",
-                  "text": "Az alingsåsi Nolby gravkapell egy csendes temetőkápolna.",
+                  "text": "Nolby gravkapell egy temetőkápolna Alingsåsban, 1961-ben épült.",
                   "category": "religious",
                   "coords": [
                         12.559235,
@@ -31486,7 +32368,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Noltorpskyrkan",
-                  "text": "Az alingsåsi Noltorpskyrkan egy helyi közösségi templom.",
+                  "text": "Noltorpskyrkan egy templom Alingsåsban, 1991-ben épült.",
                   "category": "religious",
                   "coords": [
                         12.5187,
@@ -31504,7 +32386,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lersjön",
-                  "text": "Tó Alingsås környékén, amely kiválóan alkalmas túrázásra.",
+                  "text": "A Lersjön egy agyagos tó Alingsåsban.",
                   "category": "natural",
                   "coords": [
                         12.463402,
@@ -31558,7 +32440,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Valsjön",
-                  "text": "Tájképi szempontból szép tó Alingsås közelében.",
+                  "text": "A Valsjön egy tó Alingsåsban.",
                   "category": "natural",
                   "coords": [
                         12.500848,
@@ -31594,7 +32476,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Mårsjön",
-                  "text": "Csendes tó Alingsåsban a pihentető sétákhoz.",
+                  "text": "A Mårsjön egy tó Alingsåsban.",
                   "category": "natural",
                   "coords": [
                         12.517242,
@@ -31612,7 +32494,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kedjesjön",
-                  "text": "Helyi tó Alingsås környékén.",
+                  "text": "A Kedjesjön egy lánc alakú tó Alingsåsban.",
                   "category": "natural",
                   "coords": [
                         12.5285,
@@ -31621,7 +32503,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Dammsjön",
-                  "text": "Kisebb tó Alingsås közelében, ideális csendes percekhez.",
+                  "text": "A Dammsjön egy duzzasztott tó Alingsåsban.",
                   "category": "natural",
                   "coords": [
                         12.525392,
@@ -31639,7 +32521,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Blåtjärnen",
-                  "text": "Csendes tó Alingsås mellett, amely pihenésre hívogat.",
+                  "text": "A Blåtjärnen egy kék tó Alingsåsban.",
                   "category": "natural",
                   "coords": [
                         12.537104,
@@ -31675,7 +32557,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Abborrtjärnen",
-                  "text": "Alingsås környéki tó, amely jellemző a régióra.",
+                  "text": "Az Abborrtjärnen egy sügértó Alingsåsban.",
                   "category": "natural",
                   "coords": [
                         12.494262,
@@ -31684,7 +32566,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lilla Hyggesjön",
-                  "text": "Kisebb tó Alingsåsban a csendes természetjáró kirándulásokhoz.",
+                  "text": "A Lilla Hyggesjön egy kis irtás-tó Alingsåsban.",
                   "category": "natural",
                   "coords": [
                         12.484165,
@@ -31722,7 +32604,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "ro": [
             {
                   "name": "S/S Herbert",
-                  "text": "S/S Herbert este un vapor istoric care astăzi servește drept muzeu în Alingsås.",
+                  "text": "Un vapor cu aburi conservat din 1910 pe lacul Mjörn, acum navă muzeu.",
                   "category": "museum",
                   "coords": [
                         12.508122,
@@ -31785,7 +32667,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Stockslyckekyrkan",
-                  "text": "Stockslyckekyrkan este o biserică parohială situată în Alingsås.",
+                  "text": "Stockslyckekyrkan este o biserică în Alingsås, construită în 1977.",
                   "category": "religious",
                   "coords": [
                         12.5532,
@@ -31794,7 +32676,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Nolby gravkapell",
-                  "text": "Nolby gravkapell este o capelă funerară liniștită din Alingsås.",
+                  "text": "Nolby gravkapell este o capelă cimitirului în Alingsås, construită în 1961.",
                   "category": "religious",
                   "coords": [
                         12.559235,
@@ -31803,7 +32685,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Noltorpskyrkan",
-                  "text": "Noltorpskyrkan este o biserică modernă situată în orașul Alingsås.",
+                  "text": "Noltorpskyrkan este o biserică în Alingsås, construită în 1991.",
                   "category": "religious",
                   "coords": [
                         12.5187,
@@ -31821,7 +32703,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lersjön",
-                  "text": "Un lac în zona Alingsås, potrivit pentru drumeții.",
+                  "text": "Lersjön este un lac de lut din Alingsås.",
                   "category": "natural",
                   "coords": [
                         12.463402,
@@ -31875,7 +32757,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Valsjön",
-                  "text": "Un lac pitoresc în apropiere de Alingsås.",
+                  "text": "Valsjön este un lac în Alingsås.",
                   "category": "natural",
                   "coords": [
                         12.500848,
@@ -31911,7 +32793,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Mårsjön",
-                  "text": "Un lac liniștit în Alingsås pentru plimbări relaxante.",
+                  "text": "Mårsjön este un lac în Alingsås.",
                   "category": "natural",
                   "coords": [
                         12.517242,
@@ -31929,7 +32811,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kedjesjön",
-                  "text": "Un lac local în zona Alingsås.",
+                  "text": "Kedjesjön este un lac în formă de lanț în Alingsås.",
                   "category": "natural",
                   "coords": [
                         12.5285,
@@ -31938,7 +32820,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Dammsjön",
-                  "text": "Un lac mic lângă Alingsås, ideal pentru momente liniștite.",
+                  "text": "Dammsjön este un lac de acumulare în Alingsås.",
                   "category": "natural",
                   "coords": [
                         12.525392,
@@ -31956,7 +32838,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Blåtjärnen",
-                  "text": "Un lac liniștit lângă Alingsås, care invită la relaxare.",
+                  "text": "Blåtjärnen este un iaz albastru în Alingsås.",
                   "category": "natural",
                   "coords": [
                         12.537104,
@@ -31992,7 +32874,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Abborrtjärnen",
-                  "text": "Un lac lângă Alingsås, tipic pentru regiune.",
+                  "text": "Abborrtjärnen este un iaz de biban în Alingsås.",
                   "category": "natural",
                   "coords": [
                         12.494262,
@@ -32001,7 +32883,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lilla Hyggesjön",
-                  "text": "Un lac mic în Alingsås pentru excursii liniștite în natură.",
+                  "text": "Lilla Hyggesjön este un mic lac de despădurire în Alingsås.",
                   "category": "natural",
                   "coords": [
                         12.484165,
@@ -32039,7 +32921,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "en": [
             {
                   "name": "S/S Herbert",
-                  "text": "S/S Herbert is a historic steamboat that now serves as a museum in Alingsås.",
+                  "text": "A preserved steamship from 1910 on Lake Mjörn, now a museum ship.",
                   "category": "museum",
                   "coords": [
                         12.508122,
@@ -32102,7 +32984,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Stockslyckekyrkan",
-                  "text": "Stockslyckekyrkan is a parish church serving the community of Alingsås.",
+                  "text": "Stockslyckekyrkan is a church in Alingsås, built in 1977.",
                   "category": "religious",
                   "coords": [
                         12.5532,
@@ -32111,7 +32993,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Nolby gravkapell",
-                  "text": "Nolby gravkapell is a cemetery chapel located in Alingsås.",
+                  "text": "Nolby gravkapell is a burial chapel in Alingsås, built in 1961.",
                   "category": "religious",
                   "coords": [
                         12.559235,
@@ -32120,7 +33002,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Noltorpskyrkan",
-                  "text": "Noltorpskyrkan is a local community church in Alingsås.",
+                  "text": "Noltorpskyrkan is a church in Alingsås, built in 1991.",
                   "category": "religious",
                   "coords": [
                         12.5187,
@@ -32138,7 +33020,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lersjön",
-                  "text": "A lake in the Alingsås area, suitable for hiking.",
+                  "text": "Lersjön is a clay lake in Alingsås.",
                   "category": "natural",
                   "coords": [
                         12.463402,
@@ -32192,7 +33074,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Valsjön",
-                  "text": "A scenically beautiful lake near Alingsås.",
+                  "text": "Valsjön is a lake in Alingsås.",
                   "category": "natural",
                   "coords": [
                         12.500848,
@@ -32228,7 +33110,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Mårsjön",
-                  "text": "A quiet lake in Alingsås for relaxing walks.",
+                  "text": "Mårsjön is a lake in Alingsås.",
                   "category": "natural",
                   "coords": [
                         12.517242,
@@ -32246,7 +33128,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kedjesjön",
-                  "text": "A local lake in the Alingsås area.",
+                  "text": "Kedjesjön is a chain-shaped lake in Alingsås.",
                   "category": "natural",
                   "coords": [
                         12.5285,
@@ -32255,7 +33137,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Dammsjön",
-                  "text": "A small lake near Alingsås, ideal for quiet moments.",
+                  "text": "Dammsjön is a reservoir lake in Alingsås.",
                   "category": "natural",
                   "coords": [
                         12.525392,
@@ -32273,7 +33155,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Blåtjärnen",
-                  "text": "A quiet lake near Alingsås that invites you to linger.",
+                  "text": "Blåtjärnen is a blue pond in Alingsås.",
                   "category": "natural",
                   "coords": [
                         12.537104,
@@ -32309,7 +33191,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Abborrtjärnen",
-                  "text": "A lake near Alingsås, typical of the region.",
+                  "text": "Abborrtjärnen is a perch pond in Alingsås.",
                   "category": "natural",
                   "coords": [
                         12.494262,
@@ -32318,7 +33200,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lilla Hyggesjön",
-                  "text": "A small lake in Alingsås for quiet trips into nature.",
+                  "text": "Lilla Hyggesjön is a small clearing lake in Alingsås.",
                   "category": "natural",
                   "coords": [
                         12.484165,
@@ -32420,7 +33302,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hospitalskyrkan",
-                  "text": "Überreste einer mittelalterlichen Hospitalkirche in Skara.",
+                  "text": "Hospitalskyrkan ist eine ehemalige Krankenhauskirche in Skövde.",
                   "category": "historical",
                   "coords": [
                         13.426398,
@@ -32447,7 +33329,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Skara gravkapell",
-                  "text": "Eine historische Grabkapelle in der Stadt Skara.",
+                  "text": "Skara gravkapell ist eine Friedhofskapelle in Skövde, erbaut 1894.",
                   "category": "religious",
                   "coords": [
                         13.445725,
@@ -32456,7 +33338,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sankt Nicolai kyrkoruin",
-                  "text": "Die Überreste einer mittelalterlichen Kirche in Skara.",
+                  "text": "Die Ruine der mittelalterlichen Nikolauskirche in Skövde.",
                   "category": "religious",
                   "coords": [
                         13.437233,
@@ -32503,7 +33385,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hospitalskyrkan",
-                  "text": "Egy középkori ispotálytemplom maradványai Skarában.",
+                  "text": "A Hospitalskyrkan egy egykori kórháztemplom Skövde-ben.",
                   "category": "historical",
                   "coords": [
                         13.426398,
@@ -32530,7 +33412,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Skara gravkapell",
-                  "text": "Történelmi temetkezési kápolna Skara városában.",
+                  "text": "Skara gravkapell egy temetőkápolna Skövdeben, 1894-ben épült.",
                   "category": "religious",
                   "coords": [
                         13.445725,
@@ -32539,7 +33421,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sankt Nicolai kyrkoruin",
-                  "text": "Egy középkori templom maradványai Skarában.",
+                  "text": "A középkori Szent Miklós-templom romja Skövde-ben.",
                   "category": "religious",
                   "coords": [
                         13.437233,
@@ -32586,7 +33468,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hospitalskyrkan",
-                  "text": "Rămășițele unei biserici de spital medievale din Skara.",
+                  "text": "Hospitalskyrkan este o fostă biserică de spital din Skövde.",
                   "category": "historical",
                   "coords": [
                         13.426398,
@@ -32613,7 +33495,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Skara gravkapell",
-                  "text": "O chapelă funerară istorică în orașul Skara.",
+                  "text": "Skara gravkapell este o capelă cimitirului în Skövde, construită în 1894.",
                   "category": "religious",
                   "coords": [
                         13.445725,
@@ -32622,7 +33504,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sankt Nicolai kyrkoruin",
-                  "text": "Vestigiile unei biserici medievale din Skara.",
+                  "text": "Ruina bisericii medievale Sfântul Nicolae în Skövde.",
                   "category": "religious",
                   "coords": [
                         13.437233,
@@ -32669,7 +33551,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hospitalskyrkan",
-                  "text": "The remains of a medieval hospital church in Skara.",
+                  "text": "Hospitalskyrkan is a former hospital church in Skövde.",
                   "category": "historical",
                   "coords": [
                         13.426398,
@@ -32696,7 +33578,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Skara gravkapell",
-                  "text": "A historic burial chapel in the city of Skara.",
+                  "text": "Skara gravkapell is a burial chapel in Skövde, built in 1894.",
                   "category": "religious",
                   "coords": [
                         13.445725,
@@ -32705,7 +33587,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sankt Nicolai kyrkoruin",
-                  "text": "The remains of a medieval church in Skara.",
+                  "text": "The ruined medieval church of St. Nicholas in Skövde.",
                   "category": "religious",
                   "coords": [
                         13.437233,
@@ -32780,7 +33662,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "de": [
             {
                   "name": "Adela Udde",
-                  "text": "Adela Udde ist ein Strand bei Nässjö.",
+                  "text": "Adela Udde ist ein Badeplatz und Aussichtspunkt am See in Nässjö.",
                   "category": "recreational",
                   "coords": [
                         14.701629,
@@ -32798,7 +33680,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Anneforskapellet",
-                  "text": "Eine kleine Kapelle in Nässjö, die für Gottesdienste genutzt wird.",
+                  "text": "Eine kleine Kapelle in Annefors, Nässjö.",
                   "category": "religious",
                   "coords": [
                         14.703055,
@@ -32807,7 +33689,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Nässjö stadskyrka",
-                  "text": "Die Stadtkirche von Nässjö ist ein zentrales religiöses Gebäude in der Stadt.",
+                  "text": "Nässjö stadskyrka ist die Stadtkirche von Nässjö.",
                   "category": "religious",
                   "coords": [
                         14.695044,
@@ -32870,7 +33752,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Fallegölen",
-                  "text": "Fallegölen ist ein kleiner See in Nässjö, der von einer natürlichen Umgebung umgeben ist.",
+                  "text": "Fallegölen ist ein kleiner See in Nässjö.",
                   "category": "natural",
                   "coords": [
                         14.725872,
@@ -32908,7 +33790,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "hu": [
             {
                   "name": "Adela Udde",
-                  "text": "Adela Udde egy strand Nässjö közelében.",
+                  "text": "Az Adela Udde egy fürdőhely és kilátópont a tónál Nässjöben.",
                   "category": "recreational",
                   "coords": [
                         14.701629,
@@ -32926,7 +33808,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Anneforskapellet",
-                  "text": "Egy kis kápolna Nässjö városában, amelyet istentiszteletekre használnak.",
+                  "text": "Egy kis kápolna Anneforsban, Nässjöben.",
                   "category": "religious",
                   "coords": [
                         14.703055,
@@ -32935,7 +33817,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Nässjö stadskyrka",
-                  "text": "Nässjö városi temploma a település egyik központi vallási épülete.",
+                  "text": "Nässjö stadskyrka Nässjö városi temploma.",
                   "category": "religious",
                   "coords": [
                         14.695044,
@@ -32998,7 +33880,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Fallegölen",
-                  "text": "A Fallegölen egy kis tó Nässjöben, amelyet természetes környezet vesz körül.",
+                  "text": "A Fallegölen egy kis tó Nässjöben.",
                   "category": "natural",
                   "coords": [
                         14.725872,
@@ -33036,7 +33918,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "ro": [
             {
                   "name": "Adela Udde",
-                  "text": "Adela Udde este o plajă lângă Nässjö.",
+                  "text": "Adela Udde este o plajă și punct de belvedere lângă lac în Nässjö.",
                   "category": "recreational",
                   "coords": [
                         14.701629,
@@ -33054,7 +33936,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Anneforskapellet",
-                  "text": "O mică capelă în Nässjö, utilizată pentru servicii religioase.",
+                  "text": "O capelă mică în Annefors, Nässjö.",
                   "category": "religious",
                   "coords": [
                         14.703055,
@@ -33063,7 +33945,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Nässjö stadskyrka",
-                  "text": "Biserica orașului Nässjö este o clădire religioasă centrală din localitate.",
+                  "text": "Nässjö stadskyrka este biserica orașului Nässjö.",
                   "category": "religious",
                   "coords": [
                         14.695044,
@@ -33126,7 +34008,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Fallegölen",
-                  "text": "Fallegölen este un lac mic din Naessjoe, înconjurat de un mediu natural.",
+                  "text": "Fallegölen este un mic lac din Nässjö.",
                   "category": "natural",
                   "coords": [
                         14.725872,
@@ -33164,7 +34046,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "en": [
             {
                   "name": "Adela Udde",
-                  "text": "Adela Udde is a beach near Nässjö.",
+                  "text": "Adela Udde is a bathing spot and viewpoint by the lake in Nässjö.",
                   "category": "recreational",
                   "coords": [
                         14.701629,
@@ -33182,7 +34064,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Anneforskapellet",
-                  "text": "A small chapel in Nässjö, used for religious services.",
+                  "text": "A small chapel in Annefors, Nässjö.",
                   "category": "religious",
                   "coords": [
                         14.703055,
@@ -33191,7 +34073,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Nässjö stadskyrka",
-                  "text": "Nässjö's city church is a central religious building in the town.",
+                  "text": "Nässjö stadskyrka is the town church of Nässjö.",
                   "category": "religious",
                   "coords": [
                         14.695044,
@@ -33254,7 +34136,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Fallegölen",
-                  "text": "Fallegölen is a small lake in Naessjoe surrounded by a natural environment.",
+                  "text": "Fallegölen is a small lake in Nässjö.",
                   "category": "natural",
                   "coords": [
                         14.725872,
@@ -33338,7 +34220,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "de": [
             {
                   "name": "Ekenäs Badplats",
-                  "text": "Strand in der Nähe von Karlshamn.",
+                  "text": "Ekenäs Badplats ist ein Sandstrand an der Ostseeküste bei Karlshamn.",
                   "category": "recreational",
                   "coords": [
                         15.280065,
@@ -33376,7 +34258,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "hu": [
             {
                   "name": "Ekenäs Badplats",
-                  "text": "Part Karlshamn közelében.",
+                  "text": "Az Ekenäs Badplats egy homokos strand a Balti-tenger partján Karlshamn közelében.",
                   "category": "recreational",
                   "coords": [
                         15.280065,
@@ -33414,7 +34296,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "ro": [
             {
                   "name": "Ekenäs Badplats",
-                  "text": "Plajă în apropiere de Karlshamn.",
+                  "text": "Ekenäs Badplats este o plajă cu nisip pe coasta Mării Baltice lângă Karlshamn.",
                   "category": "recreational",
                   "coords": [
                         15.280065,
@@ -33452,7 +34334,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "en": [
             {
                   "name": "Ekenäs Badplats",
-                  "text": "Beach near Karlshamn.",
+                  "text": "Ekenäs Badplats is a sandy beach on the Baltic coast near Karlshamn.",
                   "category": "recreational",
                   "coords": [
                         15.280065,
@@ -33532,7 +34414,412 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     image: "/poi-images/sweden-karlshamn-v2-cities-v2.webp",
   },
   {
-    id: "sweden-motala-v2-cities-v2", "sights": {"de": [{"name": "Gottfrid Larsson Gården", "text": "Ein Kunstmuseum und ehemaliges Heim des Bildhauers Gottfrid Larsson in Vadstena.", "category": "museum", "coords": [14.896605, 58.447899]}, {"name": "Vadstena Stadsmuseum", "text": "Ein Museum, das die Stadtgeschichte von Vadstena dokumentiert.", "category": "museum", "coords": [14.887964, 58.44764]}, {"name": "Gamla Teatern", "text": "Eines der ältesten erhaltenen Privattheater Schwedens in Vadstena.", "category": "cultural", "coords": [14.893124, 58.449767]}, {"name": "Vadstena Nya Teater", "text": "Ein modernes Theatergebäude für lokale Aufführungen in Vadstena.", "category": "cultural", "coords": [14.891331, 58.448442]}, {"name": "Hospitalmuseet", "text": "Das Hospitalmuseet in der schwedischen Stadt Vadstena bietet einzigartige Einblicke in die Vergangenheit der Heilkunst. Die Ausstellungen beleuchten ausführlich die Geschichte der medizinischen Versorgung in dieser Region.", "category": "museum", "coords": [14.894097, 58.451576]}, {"name": "Kulturskolan i Vadstena", "text": "Ein kulturelles Zentrum für Kunstausbildung in Vadstena.", "category": "cultural", "coords": [14.897307, 58.452383]}, {"name": "Vadstena Konstgalleri", "text": "Eine Kunstgalerie in Vadstena, die lokale und regionale Werke ausstellt.", "category": "museum", "coords": [14.89036, 58.447981]}, {"name": "Galleri Vita rum", "text": "Ein Ausstellungsraum für zeitgenössische Kunst in der Stadt Vadstena.", "category": "museum", "coords": [14.889259, 58.448608]}, {"name": "Vadstena Klosterkyrka", "text": "Diese bedeutende spätgotische Kirche gehört zum ehemaligen Kloster der Heiligen Birgitta.", "category": "religious", "coords": [14.891543, 58.450789]}, {"name": "Vätternkyrkan", "text": "Ein modernes christliches Gotteshaus in Vadstena.", "category": "religious", "coords": [14.892355, 58.447656]}, {"name": "Vätternsee", "text": "Der Vättern-See in Vadstena ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.", "category": "natural", "coords": [14.568165, 58.322726]}], "hu": [{"name": "Gottfrid Larsson Gården", "text": "Gottfrid Larsson szobrászművész egykori otthona és művészeti múzeuma Vadstenában.", "category": "museum", "coords": [14.896605, 58.447899]}, {"name": "Vadstena Stadsmuseum", "text": "Vadstena várostörténetét dokumentáló múzeum.", "category": "museum", "coords": [14.887964, 58.44764]}, {"name": "Gamla Teatern", "text": "Svédország egyik legrégebbi fennmaradt magánszínháza Vadstenában.", "category": "cultural", "coords": [14.893124, 58.449767]}, {"name": "Vadstena Nya Teater", "text": "Modern színházépület helyi előadások számára Vadstenában.", "category": "cultural", "coords": [14.891331, 58.448442]}, {"name": "Hospitalmuseet", "text": "A svédországi Vadstena városában található Hospitalmuseet egyedülálló bepillantást nyújt a gyógyítás múltjába. A kiállítások részletesen bemutatják a régió orvosi ellátásának történetét.", "category": "museum", "coords": [14.894097, 58.451576]}, {"name": "Kulturskolan i Vadstena", "text": "Művészeti oktatásnak helyet adó kulturális központ Vadstenában.", "category": "cultural", "coords": [14.897307, 58.452383]}, {"name": "Vadstena Konstgalleri", "text": "Helyi és regionális műveket bemutató művészeti galéria Vadstenában.", "category": "museum", "coords": [14.89036, 58.447981]}, {"name": "Galleri Vita rum", "text": "Kortárs művészeti kiállítótér Vadstena városában.", "category": "museum", "coords": [14.889259, 58.448608]}, {"name": "Vadstena Klosterkyrka", "text": "Ez a jelentős késő gótikus templom a Szent Birgitta-kolostorhoz tartozott.", "category": "religious", "coords": [14.891543, 58.450789]}, {"name": "Vätternkyrkan", "text": "Modern keresztény templom Vadstenában.", "category": "religious", "coords": [14.892355, 58.447656]}, {"name": "Vättern", "text": "A Vadstena területén található Vättern-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.", "category": "natural", "coords": [14.568165, 58.322726]}], "ro": [{"name": "Gottfrid Larsson Gården", "text": "Un muzeu de artă și fosta casă a sculptorului Gottfrid Larsson din Vadstena.", "category": "museum", "coords": [14.896605, 58.447899]}, {"name": "Vadstena Stadsmuseum", "text": "Un muzeu care documentează istoria orașului Vadstena.", "category": "museum", "coords": [14.887964, 58.44764]}, {"name": "Gamla Teatern", "text": "Unul dintre cele mai vechi teatre private conservate din Suedia, situat în Vadstena.", "category": "cultural", "coords": [14.893124, 58.449767]}, {"name": "Vadstena Nya Teater", "text": "O clădire modernă de teatru pentru spectacole locale în Vadstena.", "category": "cultural", "coords": [14.891331, 58.448442]}, {"name": "Hospitalmuseet", "text": "Hospitalmuseet din orașul suedez Vadstena oferă perspective unice asupra trecutului artei vindecării. Expozițiile prezintă în detaliu istoria asistenței medicale din această regiune.", "category": "museum", "coords": [14.894097, 58.451576]}, {"name": "Kulturskolan i Vadstena", "text": "Un centru cultural pentru educație artistică în Vadstena.", "category": "cultural", "coords": [14.897307, 58.452383]}, {"name": "Vadstena Konstgalleri", "text": "O galerie de artă din Vadstena care expune lucrări locale și regionale.", "category": "museum", "coords": [14.89036, 58.447981]}, {"name": "Galleri Vita rum", "text": "Un spațiu de expoziție pentru artă contemporană în orașul Vadstena.", "category": "museum", "coords": [14.889259, 58.448608]}, {"name": "Vadstena Klosterkyrka", "text": "Această biserică gotică târzie importantă a aparținut fostei mănăstiri a Sfintei Birgitta.", "category": "religious", "coords": [14.891543, 58.450789]}, {"name": "Vätternkyrkan", "text": "Un lăcaș de cult creștin modern în Vadstena.", "category": "religious", "coords": [14.892355, 58.447656]}, {"name": "Vättern", "text": "Lacul Vättern din Vadstena este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.", "category": "natural", "coords": [14.568165, 58.322726]}], "en": [{"name": "Gottfrid Larsson Gården", "text": "An art museum and former home of sculptor Gottfrid Larsson in Vadstena.", "category": "museum", "coords": [14.896605, 58.447899]}, {"name": "Vadstena Stadsmuseum", "text": "A museum documenting the city history of Vadstena.", "category": "museum", "coords": [14.887964, 58.44764]}, {"name": "Gamla Teatern", "text": "One of Sweden's oldest preserved private theatres, located in Vadstena.", "category": "cultural", "coords": [14.893124, 58.449767]}, {"name": "Vadstena Nya Teater", "text": "A modern theatre building for local performances in Vadstena.", "category": "cultural", "coords": [14.891331, 58.448442]}, {"name": "Hospitalmuseet", "text": "The Hospitalmuseet in the Swedish city of Vadstena provides unique insights into the history of healing. The exhibits thoroughly illuminate the history of medical care in this region.", "category": "museum", "coords": [14.894097, 58.451576]}, {"name": "Kulturskolan i Vadstena", "text": "A cultural center for arts education in Vadstena.", "category": "cultural", "coords": [14.897307, 58.452383]}, {"name": "Vadstena Konstgalleri", "text": "An art gallery in Vadstena showcasing local and regional works.", "category": "museum", "coords": [14.89036, 58.447981]}, {"name": "Galleri Vita rum", "text": "An exhibition space for contemporary art in the town of Vadstena.", "category": "museum", "coords": [14.889259, 58.448608]}, {"name": "Vadstena Klosterkyrka", "text": "This significant late Gothic church belonged to the former Saint Bridget's Abbey.", "category": "religious", "coords": [14.891543, 58.450789]}, {"name": "Vätternkyrkan", "text": "A modern Christian place of worship in Vadstena.", "category": "religious", "coords": [14.892355, 58.447656]}, {"name": "Vättern", "text": "Vättern lake in Vadstena is a calm body of water, ideal for walks and enjoying the natural scenery.", "category": "natural", "coords": [14.568165, 58.322726]}]},
+    id: "sweden-motala-v2-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gottfrid Larsson Gården",
+                  "text": "Ein Kunstmuseum und ehemaliges Heim des Bildhauers Gottfrid Larsson in Vadstena.",
+                  "category": "museum",
+                  "coords": [
+                        14.896605,
+                        58.447899
+                  ]
+            },
+            {
+                  "name": "Vadstena Stadsmuseum",
+                  "text": "Das Vadstena Stadsmuseum zeigt die Geschichte der Stadt Vadstena und befindet sich in Motala.",
+                  "category": "museum",
+                  "coords": [
+                        14.887964,
+                        58.44764
+                  ]
+            },
+            {
+                  "name": "Gamla Teatern",
+                  "text": "Eines der ältesten erhaltenen Privattheater Schwedens in Vadstena.",
+                  "category": "cultural",
+                  "coords": [
+                        14.893124,
+                        58.449767
+                  ]
+            },
+            {
+                  "name": "Vadstena Nya Teater",
+                  "text": "Ein modernes Theatergebäude für lokale Aufführungen in Vadstena.",
+                  "category": "cultural",
+                  "coords": [
+                        14.891331,
+                        58.448442
+                  ]
+            },
+            {
+                  "name": "Hospitalmuseet",
+                  "text": "Das Hospitalmuseet in der schwedischen Stadt Vadstena bietet einzigartige Einblicke in die Vergangenheit der Heilkunst. Die Ausstellungen beleuchten ausführlich die Geschichte der medizinischen Versorgung in dieser Region.",
+                  "category": "museum",
+                  "coords": [
+                        14.894097,
+                        58.451576
+                  ]
+            },
+            {
+                  "name": "Kulturskolan i Vadstena",
+                  "text": "Die Kulturskolan i Vadstena ist eine kulturelle Bildungseinrichtung mit Kursen in Musik, Kunst und Theater in Motala.",
+                  "category": "cultural",
+                  "coords": [
+                        14.897307,
+                        58.452383
+                  ]
+            },
+            {
+                  "name": "Vadstena Konstgalleri",
+                  "text": "Eine Kunstgalerie in Vadstena, die lokale und regionale Werke ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        14.89036,
+                        58.447981
+                  ]
+            },
+            {
+                  "name": "Galleri Vita rum",
+                  "text": "Ein Ausstellungsraum für zeitgenössische Kunst in der Stadt Vadstena.",
+                  "category": "museum",
+                  "coords": [
+                        14.889259,
+                        58.448608
+                  ]
+            },
+            {
+                  "name": "Vadstena Klosterkyrka",
+                  "text": "Diese bedeutende spätgotische Kirche gehört zum ehemaligen Kloster der Heiligen Birgitta.",
+                  "category": "religious",
+                  "coords": [
+                        14.891543,
+                        58.450789
+                  ]
+            },
+            {
+                  "name": "Vätternkyrkan",
+                  "text": "Vätternkyrkan ist eine Kirche mit Blick auf den Vätternsee in Motala.",
+                  "category": "religious",
+                  "coords": [
+                        14.892355,
+                        58.447656
+                  ]
+            },
+            {
+                  "name": "Vätternsee",
+                  "text": "Der Vättern-See in Vadstena ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        14.568165,
+                        58.322726
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gottfrid Larsson Gården",
+                  "text": "Gottfrid Larsson szobrászművész egykori otthona és művészeti múzeuma Vadstenában.",
+                  "category": "museum",
+                  "coords": [
+                        14.896605,
+                        58.447899
+                  ]
+            },
+            {
+                  "name": "Vadstena Stadsmuseum",
+                  "text": "A Vadstena Stadsmuseum Vadstena város történetét mutatja be, és Motala-ban található.",
+                  "category": "museum",
+                  "coords": [
+                        14.887964,
+                        58.44764
+                  ]
+            },
+            {
+                  "name": "Gamla Teatern",
+                  "text": "Svédország egyik legrégebbi fennmaradt magánszínháza Vadstenában.",
+                  "category": "cultural",
+                  "coords": [
+                        14.893124,
+                        58.449767
+                  ]
+            },
+            {
+                  "name": "Vadstena Nya Teater",
+                  "text": "Modern színházépület helyi előadások számára Vadstenában.",
+                  "category": "cultural",
+                  "coords": [
+                        14.891331,
+                        58.448442
+                  ]
+            },
+            {
+                  "name": "Hospitalmuseet",
+                  "text": "A svédországi Vadstena városában található Hospitalmuseet egyedülálló bepillantást nyújt a gyógyítás múltjába. A kiállítások részletesen bemutatják a régió orvosi ellátásának történetét.",
+                  "category": "museum",
+                  "coords": [
+                        14.894097,
+                        58.451576
+                  ]
+            },
+            {
+                  "name": "Kulturskolan i Vadstena",
+                  "text": "A Kulturskolan i Vadstena egy kulturális oktatási intézmény Motala-ban, zenei, művészeti és színházi tanfolyamokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        14.897307,
+                        58.452383
+                  ]
+            },
+            {
+                  "name": "Vadstena Konstgalleri",
+                  "text": "Helyi és regionális műveket bemutató művészeti galéria Vadstenában.",
+                  "category": "museum",
+                  "coords": [
+                        14.89036,
+                        58.447981
+                  ]
+            },
+            {
+                  "name": "Galleri Vita rum",
+                  "text": "Kortárs művészeti kiállítótér Vadstena városában.",
+                  "category": "museum",
+                  "coords": [
+                        14.889259,
+                        58.448608
+                  ]
+            },
+            {
+                  "name": "Vadstena Klosterkyrka",
+                  "text": "Ez a jelentős késő gótikus templom a Szent Birgitta-kolostorhoz tartozott.",
+                  "category": "religious",
+                  "coords": [
+                        14.891543,
+                        58.450789
+                  ]
+            },
+            {
+                  "name": "Vätternkyrkan",
+                  "text": "Vätternkyrkan egy templom, amely a Vättern-tóra néz Motalában.",
+                  "category": "religious",
+                  "coords": [
+                        14.892355,
+                        58.447656
+                  ]
+            },
+            {
+                  "name": "Vättern",
+                  "text": "A Vadstena területén található Vättern-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        14.568165,
+                        58.322726
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gottfrid Larsson Gården",
+                  "text": "Un muzeu de artă și fosta casă a sculptorului Gottfrid Larsson din Vadstena.",
+                  "category": "museum",
+                  "coords": [
+                        14.896605,
+                        58.447899
+                  ]
+            },
+            {
+                  "name": "Vadstena Stadsmuseum",
+                  "text": "Muzeul orașului Vadstena prezintă istoria orașului Vadstena și este situat în Motala.",
+                  "category": "museum",
+                  "coords": [
+                        14.887964,
+                        58.44764
+                  ]
+            },
+            {
+                  "name": "Gamla Teatern",
+                  "text": "Unul dintre cele mai vechi teatre private conservate din Suedia, situat în Vadstena.",
+                  "category": "cultural",
+                  "coords": [
+                        14.893124,
+                        58.449767
+                  ]
+            },
+            {
+                  "name": "Vadstena Nya Teater",
+                  "text": "O clădire modernă de teatru pentru spectacole locale în Vadstena.",
+                  "category": "cultural",
+                  "coords": [
+                        14.891331,
+                        58.448442
+                  ]
+            },
+            {
+                  "name": "Hospitalmuseet",
+                  "text": "Hospitalmuseet din orașul suedez Vadstena oferă perspective unice asupra trecutului artei vindecării. Expozițiile prezintă în detaliu istoria asistenței medicale din această regiune.",
+                  "category": "museum",
+                  "coords": [
+                        14.894097,
+                        58.451576
+                  ]
+            },
+            {
+                  "name": "Kulturskolan i Vadstena",
+                  "text": "Kulturskolan i Vadstena este o instituție de educație culturală din Motala, oferind cursuri de muzică, artă și teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        14.897307,
+                        58.452383
+                  ]
+            },
+            {
+                  "name": "Vadstena Konstgalleri",
+                  "text": "O galerie de artă din Vadstena care expune lucrări locale și regionale.",
+                  "category": "museum",
+                  "coords": [
+                        14.89036,
+                        58.447981
+                  ]
+            },
+            {
+                  "name": "Galleri Vita rum",
+                  "text": "Un spațiu de expoziție pentru artă contemporană în orașul Vadstena.",
+                  "category": "museum",
+                  "coords": [
+                        14.889259,
+                        58.448608
+                  ]
+            },
+            {
+                  "name": "Vadstena Klosterkyrka",
+                  "text": "Această biserică gotică târzie importantă a aparținut fostei mănăstiri a Sfintei Birgitta.",
+                  "category": "religious",
+                  "coords": [
+                        14.891543,
+                        58.450789
+                  ]
+            },
+            {
+                  "name": "Vätternkyrkan",
+                  "text": "Vätternkyrkan este o biserică cu vedere la lacul Vättern în Motala.",
+                  "category": "religious",
+                  "coords": [
+                        14.892355,
+                        58.447656
+                  ]
+            },
+            {
+                  "name": "Vättern",
+                  "text": "Lacul Vättern din Vadstena este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        14.568165,
+                        58.322726
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gottfrid Larsson Gården",
+                  "text": "An art museum and former home of sculptor Gottfrid Larsson in Vadstena.",
+                  "category": "museum",
+                  "coords": [
+                        14.896605,
+                        58.447899
+                  ]
+            },
+            {
+                  "name": "Vadstena Stadsmuseum",
+                  "text": "Vadstena Stadsmuseum displays the history of the town of Vadstena and is located in Motala.",
+                  "category": "museum",
+                  "coords": [
+                        14.887964,
+                        58.44764
+                  ]
+            },
+            {
+                  "name": "Gamla Teatern",
+                  "text": "One of Sweden's oldest preserved private theatres, located in Vadstena.",
+                  "category": "cultural",
+                  "coords": [
+                        14.893124,
+                        58.449767
+                  ]
+            },
+            {
+                  "name": "Vadstena Nya Teater",
+                  "text": "A modern theatre building for local performances in Vadstena.",
+                  "category": "cultural",
+                  "coords": [
+                        14.891331,
+                        58.448442
+                  ]
+            },
+            {
+                  "name": "Hospitalmuseet",
+                  "text": "The Hospitalmuseet in the Swedish city of Vadstena provides unique insights into the history of healing. The exhibits thoroughly illuminate the history of medical care in this region.",
+                  "category": "museum",
+                  "coords": [
+                        14.894097,
+                        58.451576
+                  ]
+            },
+            {
+                  "name": "Kulturskolan i Vadstena",
+                  "text": "Kulturskolan i Vadstena is a cultural education institution in Motala offering courses in music, art, and theatre.",
+                  "category": "cultural",
+                  "coords": [
+                        14.897307,
+                        58.452383
+                  ]
+            },
+            {
+                  "name": "Vadstena Konstgalleri",
+                  "text": "An art gallery in Vadstena showcasing local and regional works.",
+                  "category": "museum",
+                  "coords": [
+                        14.89036,
+                        58.447981
+                  ]
+            },
+            {
+                  "name": "Galleri Vita rum",
+                  "text": "An exhibition space for contemporary art in the town of Vadstena.",
+                  "category": "museum",
+                  "coords": [
+                        14.889259,
+                        58.448608
+                  ]
+            },
+            {
+                  "name": "Vadstena Klosterkyrka",
+                  "text": "This significant late Gothic church belonged to the former Saint Bridget's Abbey.",
+                  "category": "religious",
+                  "coords": [
+                        14.891543,
+                        58.450789
+                  ]
+            },
+            {
+                  "name": "Vätternkyrkan",
+                  "text": "Vätternkyrkan is a church overlooking Lake Vättern in Motala.",
+                  "category": "religious",
+                  "coords": [
+                        14.892355,
+                        58.447656
+                  ]
+            },
+            {
+                  "name": "Vättern",
+                  "text": "Vättern lake in Vadstena is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        14.568165,
+                        58.322726
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SE",
     name: { de: "Vadstena", hu: "Vadstena", ro: "Vadstena", en: "Vadstena" },
@@ -33932,7 +35219,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Drothems kyrka",
-                  "text": "Die Drothems kyrka ist eine mittelalterliche Steinkirche in Söderköping.",
+                  "text": "Drothems kyrka ist eine mittelalterliche Steinkirche im Zentrum von Söderköping.",
                   "category": "religious",
                   "coords": [
                         16.315883,
@@ -33977,7 +35264,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Klarsjön",
-                  "text": "Ein landschaftlich schöner See in der Umgebung von Söderköping.",
+                  "text": "Der Klarsjön ist ein klarer Waldsee bei Söderköping.",
                   "category": "natural",
                   "coords": [
                         16.2229,
@@ -34031,7 +35318,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Venasjön",
-                  "text": "Ein lokaler See in Söderköping, ideal für Naturliebhaber.",
+                  "text": "Der Venasjön ist ein ruhiger See in den Wäldern von Söderköping.",
                   "category": "natural",
                   "coords": [
                         16.19223,
@@ -34087,7 +35374,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Drothems kyrka",
-                  "text": "A Drothems kyrka Söderköping egyik középkori kőtemploma.",
+                  "text": "A Drothems kyrka egy középkori kőtemplom Söderköping központjában.",
                   "category": "religious",
                   "coords": [
                         16.315883,
@@ -34132,7 +35419,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Klarsjön",
-                  "text": "Tájképi szempontból szép tó Söderköping környékén.",
+                  "text": "A Klarsjön tiszta vizű erdei tó Söderköping mellett.",
                   "category": "natural",
                   "coords": [
                         16.2229,
@@ -34186,7 +35473,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Venasjön",
-                  "text": "Helyi tó Söderköpingben, ideális a természet kedvelőinek.",
+                  "text": "A Venasjön egy csendes tó Söderköping erdeiben.",
                   "category": "natural",
                   "coords": [
                         16.19223,
@@ -34242,7 +35529,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Drothems kyrka",
-                  "text": "Drothems kyrka este o biserică medievală de piatră din Söderköping.",
+                  "text": "Drothems kyrka este o biserică medievală de piatră în centrul orașului Söderköping.",
                   "category": "religious",
                   "coords": [
                         16.315883,
@@ -34287,7 +35574,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Klarsjön",
-                  "text": "Un lac pitoresc în zona Söderköping.",
+                  "text": "Klarsjön este un lac de pădure cu apă limpede lângă Söderköping.",
                   "category": "natural",
                   "coords": [
                         16.2229,
@@ -34341,7 +35628,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Venasjön",
-                  "text": "Un lac local în Söderköping, ideal pentru iubitorii de natură.",
+                  "text": "Venasjön este un lac liniștit în pădurile din Söderköping.",
                   "category": "natural",
                   "coords": [
                         16.19223,
@@ -34397,7 +35684,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Drothems kyrka",
-                  "text": "Drothems kyrka is a medieval stone church located in Söderköping.",
+                  "text": "Drothems kyrka is a medieval stone church in the centre of Söderköping.",
                   "category": "religious",
                   "coords": [
                         16.315883,
@@ -34442,7 +35729,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Klarsjön",
-                  "text": "A scenically beautiful lake in the Söderköping area.",
+                  "text": "Klarsjön is a forest lake with clear water near Söderköping.",
                   "category": "natural",
                   "coords": [
                         16.2229,
@@ -34496,7 +35783,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Venasjön",
-                  "text": "A local lake in Söderköping, ideal for nature lovers.",
+                  "text": "Venasjön is a quiet lake in the forests of Söderköping.",
                   "category": "natural",
                   "coords": [
                         16.19223,
@@ -34607,7 +35894,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Oscarshöjd",
-                  "text": "Ein Aussichtspunkt in Gränna, benannt nach König Oscar II.",
+                  "text": "Oscarshöjd ist ein Hügel in Gränna mit Panoramablick auf den Vätternsee.",
                   "category": "natural",
                   "coords": [
                         14.467096,
@@ -34616,7 +35903,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Björkmans kulle",
-                  "text": "Ein lokaler Aussichtspunkt, der einen weiten Blick über Gränna bietet.",
+                  "text": "Björkmans kulle ist ein birkenbestandener Hügel in Gränna mit Aussicht.",
                   "category": "natural",
                   "coords": [
                         14.46373,
@@ -34634,7 +35921,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Equmeniakyrkan",
-                  "text": "Eine christliche Freikirche im Zentrum von Gränna.",
+                  "text": "Equmeniakyrkan ist eine Kirche der Equmenia-Kirche in Gränna.",
                   "category": "religious",
                   "coords": [
                         14.469214,
@@ -34807,7 +36094,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Oscarshöjd",
-                  "text": "II. Oszkár királyról elnevezett kilátóhely Grännában.",
+                  "text": "Az Oscarshöjd egy domb Grännában, amely a Vättern-tóra nyújt kilátást.",
                   "category": "natural",
                   "coords": [
                         14.467096,
@@ -34816,7 +36103,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Björkmans kulle",
-                  "text": "Helyi kilátópont, amely széles rálátást biztosít Grännára.",
+                  "text": "Björkmans kulle egy nyírfákkal borított domb Grännában, kilátással.",
                   "category": "natural",
                   "coords": [
                         14.46373,
@@ -34834,7 +36121,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Equmeniakyrkan",
-                  "text": "Keresztény szabadegyházi templom Gränna központjában.",
+                  "text": "Equmeniakyrkan egy templom, amely az Equmenia-templomhoz tartozik Grännában.",
                   "category": "religious",
                   "coords": [
                         14.469214,
@@ -35007,7 +36294,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Oscarshöjd",
-                  "text": "Un punct de belvedere în Gränna, numit după regele Oscar al II-lea.",
+                  "text": "Oscarshöjd este o colină în Gränna cu vedere panoramică asupra lacului Vättern.",
                   "category": "natural",
                   "coords": [
                         14.467096,
@@ -35016,7 +36303,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Björkmans kulle",
-                  "text": "Un punct de belvedere local care oferă o vedere largă asupra orașului Gränna.",
+                  "text": "Björkmans kulle este un deal acoperit cu mesteacăn în Gränna, cu vedere.",
                   "category": "natural",
                   "coords": [
                         14.46373,
@@ -35034,7 +36321,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Equmeniakyrkan",
-                  "text": "O biserică creștină liberă în centrul orașului Gränna.",
+                  "text": "Equmeniakyrkan este o biserică aparținând Bisericii Equmenia în Gränna.",
                   "category": "religious",
                   "coords": [
                         14.469214,
@@ -35207,7 +36494,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Oscarshöjd",
-                  "text": "A viewpoint in Gränna named after King Oscar II.",
+                  "text": "Oscarshöjd is a hill in Gränna with panoramic views over Lake Vättern.",
                   "category": "natural",
                   "coords": [
                         14.467096,
@@ -35216,7 +36503,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Björkmans kulle",
-                  "text": "A local viewpoint offering a broad view over Gränna.",
+                  "text": "Björkmans kulle is a birch-covered hill in Gränna offering views.",
                   "category": "natural",
                   "coords": [
                         14.46373,
@@ -35234,7 +36521,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Equmeniakyrkan",
-                  "text": "A Christian free church located in central Gränna.",
+                  "text": "Equmeniakyrkan is a church belonging to the Equmenia church in Gränna.",
                   "category": "religious",
                   "coords": [
                         14.469214,
@@ -35399,7 +36686,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "de": [
             {
                   "name": "Trosa Havsbad",
-                  "text": "Ein schöner Strand bei Trosa am Meer.",
+                  "text": "Trosa Havsbad ist ein Sandstrand an der Ostsee in Trosa mit einem Steg.",
                   "category": "recreational",
                   "coords": [
                         17.575854,
@@ -35426,7 +36713,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Tureholm",
-                  "text": "Ein prächtiges Schloss aus dem 18. Jahrhundert in der Nähe von Trosa.",
+                  "text": "Tureholm ist ein Herrenhaus aus dem 17. Jahrhundert in Trosa.",
                   "category": "castle",
                   "coords": [
                         17.516173,
@@ -35471,7 +36758,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Trosa parkgolf",
-                  "text": "Trosa Parkgolf ist eine Minigolfanlage, die in Trosa Unterhaltung für die ganze Familie bietet.",
+                  "text": "Trosa parkgolf ist ein 18-Loch-Parkplatzgolfplatz entlang des Flusses Trosaån.",
                   "category": "family",
                   "coords": [
                         17.549894,
@@ -35491,7 +36778,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "hu": [
             {
                   "name": "Trosa Havsbad",
-                  "text": "Egy szép tengerparti strand Trosa közelében.",
+                  "text": "A Trosa Havsbad homokos Balti-tengeri strand Trosában, egy stéggel.",
                   "category": "recreational",
                   "coords": [
                         17.575854,
@@ -35518,7 +36805,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Tureholm",
-                  "text": "Pompás 18. századi kastély Trosa közelében.",
+                  "text": "Tureholm egy 17. századi kastély Trosában.",
                   "category": "castle",
                   "coords": [
                         17.516173,
@@ -35563,7 +36850,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Trosa parkgolf",
-                  "text": "A Trosa parkgolf egy minigolfpálya, amely családi szórakozást nyújt Trosában.",
+                  "text": "A Trosa parkgolf egy 18 lyukú parkgolf pálya a Trosaån folyó mentén.",
                   "category": "family",
                   "coords": [
                         17.549894,
@@ -35583,7 +36870,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "ro": [
             {
                   "name": "Trosa Havsbad",
-                  "text": "O plajă frumoasă lângă Trosa.",
+                  "text": "Trosa Havsbad este o plajă nisipoasă la Marea Baltică în Trosa, cu un debarcader.",
                   "category": "recreational",
                   "coords": [
                         17.575854,
@@ -35610,7 +36897,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Tureholm",
-                  "text": "Un castel magnific din secolul al XVIII-lea situat lângă Trosa.",
+                  "text": "Tureholm este un conac din secolul al XVII-lea în Trosa.",
                   "category": "castle",
                   "coords": [
                         17.516173,
@@ -35655,7 +36942,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Trosa parkgolf",
-                  "text": "Trosa parkgolf este un teren de minigolf care oferă divertisment pentru familie în Trosa.",
+                  "text": "Trosa parkgolf este un teren de golf în parc cu 18 găuri de-a lungul râului Trosaån.",
                   "category": "family",
                   "coords": [
                         17.549894,
@@ -35675,7 +36962,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "en": [
             {
                   "name": "Trosa Havsbad",
-                  "text": "A beautiful beach near Trosa.",
+                  "text": "Trosa Havsbad is a sandy Baltic Sea beach in Trosa with a pier.",
                   "category": "recreational",
                   "coords": [
                         17.575854,
@@ -35702,7 +36989,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Tureholm",
-                  "text": "A magnificent 18th-century castle located near Trosa.",
+                  "text": "Tureholm is a 17th-century manor house in Trosa.",
                   "category": "castle",
                   "coords": [
                         17.516173,
@@ -35747,7 +37034,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Trosa parkgolf",
-                  "text": "Trosa parkgolf is a miniature golf course that provides family entertainment in Trosa.",
+                  "text": "Trosa parkgolf is an 18-hole park golf course along the Trosaån river.",
                   "category": "family",
                   "coords": [
                         17.549894,
@@ -35849,7 +37136,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hjo begravningskapell",
-                  "text": "Das Friedhofskapelle von Hjo ist ein Ort der Ruhe und des Abschieds.",
+                  "text": "Begräbniskapelle von 1898 in Mariestad.",
                   "category": "religious",
                   "coords": [
                         14.282136,
@@ -35858,7 +37145,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Equmeniakyrkan Hjo",
-                  "text": "Die Equmeniakyrkan in Hjo ist eine aktive Freikirche in der Gemeinde.",
+                  "text": "Equmeniakyrkan, eine Kirche der Equmenia-Gemeinschaft in Hjo bei Mariestad.",
                   "category": "religious",
                   "coords": [
                         14.286676,
@@ -35867,7 +37154,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Svärtans kapell",
-                  "text": "Eine kleine, ruhige Kapelle in der Nähe von Hjo.",
+                  "text": "Kapelle von 1931 in Mariestad – Svärtans kapell.",
                   "category": "religious",
                   "coords": [
                         14.252804,
@@ -35876,7 +37163,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Dicksonsdammen",
-                  "text": "Ein ruhiger See bei Hjo, ideal zum Entspannen in der Natur.",
+                  "text": "Dicksonsdammen ist ein kleiner Teich im Stadtpark von Mariestad mit Spazierwegen.",
                   "category": "natural",
                   "coords": [
                         14.211419,
@@ -36004,7 +37291,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hjo begravningskapell",
-                  "text": "Hjo temetőkápolnája a nyugalom és a búcsúzás helyszíne.",
+                  "text": "Temetőkápolna 1898-ból Mariestadban.",
                   "category": "religious",
                   "coords": [
                         14.282136,
@@ -36013,7 +37300,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Equmeniakyrkan Hjo",
-                  "text": "A hjo-i Equmeniakyrkan egy aktív szabadegyházi közösség temploma.",
+                  "text": "Equmeniakyrkan, az Equmenia közösség temploma Hjóban, Mariestad közelében.",
                   "category": "religious",
                   "coords": [
                         14.286676,
@@ -36022,7 +37309,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Svärtans kapell",
-                  "text": "Egy kicsi, csendes kápolna Hjo közelében.",
+                  "text": "1931-es kápolna Mariestadban – Svärtans kapell.",
                   "category": "religious",
                   "coords": [
                         14.252804,
@@ -36031,7 +37318,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Dicksonsdammen",
-                  "text": "Csendes tó Hjo közelében, ideális a természetben való pihenésre.",
+                  "text": "A Dicksonsdammen egy kis tavacska Mariestad városi parkjában, sétányokkal.",
                   "category": "natural",
                   "coords": [
                         14.211419,
@@ -36159,7 +37446,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hjo begravningskapell",
-                  "text": "Capela funerară din Hjo este un loc de liniște și reculegere.",
+                  "text": "Capelă funerară din 1898 în Mariestad.",
                   "category": "religious",
                   "coords": [
                         14.282136,
@@ -36168,7 +37455,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Equmeniakyrkan Hjo",
-                  "text": "Equmeniakyrkan din Hjo este o biserică liberă activă în cadrul comunității.",
+                  "text": "Equmeniakyrkan, o biserică a comunității Equmenia în Hjo, lângă Mariestad.",
                   "category": "religious",
                   "coords": [
                         14.286676,
@@ -36177,7 +37464,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Svärtans kapell",
-                  "text": "O mică capelă liniștită situată în apropiere de Hjo.",
+                  "text": "Capelă din 1931 în Mariestad – Svärtans kapell.",
                   "category": "religious",
                   "coords": [
                         14.252804,
@@ -36186,7 +37473,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Dicksonsdammen",
-                  "text": "Un lac liniștit lângă Hjo, ideal pentru relaxare în natură.",
+                  "text": "Dicksonsdammen este un mic iaz în parcul orașului Mariestad, cu alei de plimbare.",
                   "category": "natural",
                   "coords": [
                         14.211419,
@@ -36314,7 +37601,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hjo begravningskapell",
-                  "text": "The Hjo burial chapel is a place of peace and remembrance.",
+                  "text": "Funeral chapel from 1898 in Mariestad.",
                   "category": "religious",
                   "coords": [
                         14.282136,
@@ -36323,7 +37610,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Equmeniakyrkan Hjo",
-                  "text": "Equmeniakyrkan in Hjo is an active free church within the community.",
+                  "text": "Equmeniakyrkan, a church of the Equmenia denomination in Hjo near Mariestad.",
                   "category": "religious",
                   "coords": [
                         14.286676,
@@ -36332,7 +37619,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Svärtans kapell",
-                  "text": "A small, peaceful chapel located near Hjo.",
+                  "text": "Chapel from 1931 in Mariestad – Svärtans kapell.",
                   "category": "religious",
                   "coords": [
                         14.252804,
@@ -36341,7 +37628,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Dicksonsdammen",
-                  "text": "A quiet lake near Hjo, ideal for relaxing in nature.",
+                  "text": "Dicksonsdammen is a small pond in Mariestad's city park with walking paths.",
                   "category": "natural",
                   "coords": [
                         14.211419,
@@ -36479,7 +37766,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "de": [
             {
                   "name": "Kadettbryggan",
-                  "text": "Ein Badeplatz bei Vaxholm.",
+                  "text": "Kadettbryggan ist eine historische Holzbrücke in Vaxholm, die von Seekadetten genutzt wurde.",
                   "category": "recreational",
                   "coords": [
                         18.353929,
@@ -36497,7 +37784,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Eriksöbadet",
-                  "text": "Badestelle in Eriksö, Vaxholm.",
+                  "text": "Eriksöbadet ist ein Sandstrand auf der Insel Eriksö im Stockholmer Schärengarten bei Vaxholm.",
                   "category": "recreational",
                   "coords": [
                         18.304678,
@@ -36506,7 +37793,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Badviken",
-                  "text": "Strand in Vaxholm.",
+                  "text": "Badviken ist eine geschützte Bucht zum Baden im Schärengarten von Vaxholm.",
                   "category": "recreational",
                   "coords": [
                         18.309908,
@@ -36515,7 +37802,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Måldepån",
-                  "text": "Strand in Vaxholm.",
+                  "text": "Måldepån ist ein Strandbereich in Vaxholm mit einer abgebojten Schwimmzone und einem Spielplatz.",
                   "category": "recreational",
                   "coords": [
                         18.430063,
@@ -36524,7 +37811,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Grönviksbadet",
-                  "text": "Grönviksbadet ist ein Badeplatz in Vaxholm.",
+                  "text": "Grönviksbadet ist ein Strand in einer grünen Bucht in Vaxholm.",
                   "category": "recreational",
                   "coords": [
                         18.41412,
@@ -36542,7 +37829,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Fridhemsbadet",
-                  "text": "Ein öffentlicher Badebereich in Vaxholm.",
+                  "text": "Fridhemsbadet ist ein ruhiger Strand im Viertel Fridhem in Vaxholm.",
                   "category": "recreational",
                   "coords": [
                         18.286764,
@@ -36553,7 +37840,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "hu": [
             {
                   "name": "Kadettbryggan",
-                  "text": "Fürdőhely Vaxholm közelében.",
+                  "text": "A Kadettbryggan egy történelmi fahíd Vaxholmban, amelyet tengerészkadétok használtak.",
                   "category": "recreational",
                   "coords": [
                         18.353929,
@@ -36571,7 +37858,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Eriksöbadet",
-                  "text": "Fürdőhely Eriksöben, Vaxholmban.",
+                  "text": "Eriksöbadet egy homokos fürdőstrand az Eriksö szigetén, a Stockholmi szigetvilágban, Vaxholm közelében.",
                   "category": "recreational",
                   "coords": [
                         18.304678,
@@ -36580,7 +37867,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Badviken",
-                  "text": "Strand Vaxholmban.",
+                  "text": "A Badviken egy védett fürdőöböl a Vaxholmi-szigetvilágban.",
                   "category": "recreational",
                   "coords": [
                         18.309908,
@@ -36589,7 +37876,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Måldepån",
-                  "text": "Strand Vaxholmban.",
+                  "text": "A Måldepån egy strand Vaxholmban, bójákkal jelzett úszózónával és játszótérrel.",
                   "category": "recreational",
                   "coords": [
                         18.430063,
@@ -36598,7 +37885,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Grönviksbadet",
-                  "text": "Grönviksbadet egy strandfürdő Vaxholmban.",
+                  "text": "A Grönviksbadet egy strand egy zöld öbölben Vaxholmban.",
                   "category": "recreational",
                   "coords": [
                         18.41412,
@@ -36616,7 +37903,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Fridhemsbadet",
-                  "text": "Nyilvános fürdőhely Vaxholmban.",
+                  "text": "A Fridhemsbadet egy nyugodt strand a Fridhem negyedben Vaxholmban.",
                   "category": "recreational",
                   "coords": [
                         18.286764,
@@ -36627,7 +37914,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "ro": [
             {
                   "name": "Kadettbryggan",
-                  "text": "Un loc de scăldat lângă Vaxholm.",
+                  "text": "Kadettbryggan este un debarcader istoric din lemn în Vaxholm, folosit de cadeții navali.",
                   "category": "recreational",
                   "coords": [
                         18.353929,
@@ -36645,7 +37932,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Eriksöbadet",
-                  "text": "Loc de îmbăiere la Eriksö, Vaxholm.",
+                  "text": "Eriksöbadet este o plajă nisipoasă pe insula Eriksö din arhipelagul Stockholm, lângă Vaxholm.",
                   "category": "recreational",
                   "coords": [
                         18.304678,
@@ -36654,7 +37941,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Badviken",
-                  "text": "Plajă în Vaxholm.",
+                  "text": "Badviken este un golf protejat pentru înot în arhipelagul Vaxholm.",
                   "category": "recreational",
                   "coords": [
                         18.309908,
@@ -36663,7 +37950,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Måldepån",
-                  "text": "Plajă în Vaxholm.",
+                  "text": "Måldepån este o plajă în Vaxholm cu o zonă de înot marcată de geamanduri și un loc de joacă.",
                   "category": "recreational",
                   "coords": [
                         18.430063,
@@ -36672,7 +37959,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Grönviksbadet",
-                  "text": "Grönviksbadet este o plajă în Vaxholm.",
+                  "text": "Grönviksbadet este o plajă într-un golf verde din Vaxholm.",
                   "category": "recreational",
                   "coords": [
                         18.41412,
@@ -36690,7 +37977,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Fridhemsbadet",
-                  "text": "O zonă publică de scăldat în Vaxholm.",
+                  "text": "Fridhemsbadet este o plajă liniștită în cartierul Fridhem din Vaxholm.",
                   "category": "recreational",
                   "coords": [
                         18.286764,
@@ -36701,7 +37988,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "en": [
             {
                   "name": "Kadettbryggan",
-                  "text": "A swimming spot near Vaxholm.",
+                  "text": "Kadettbryggan is a historic wooden pier in Vaxholm, once used by naval cadets.",
                   "category": "recreational",
                   "coords": [
                         18.353929,
@@ -36719,7 +38006,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Eriksöbadet",
-                  "text": "Bathing spot at Eriksö, Vaxholm.",
+                  "text": "Eriksöbadet is a sandy bathing beach on the island of Eriksö in the Stockholm archipelago, near Vaxholm.",
                   "category": "recreational",
                   "coords": [
                         18.304678,
@@ -36728,7 +38015,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Badviken",
-                  "text": "Beach in Vaxholm.",
+                  "text": "Badviken is a sheltered swimming bay in the Vaxholm archipelago.",
                   "category": "recreational",
                   "coords": [
                         18.309908,
@@ -36737,7 +38024,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Måldepån",
-                  "text": "Beach in Vaxholm.",
+                  "text": "Måldepån is a beach in Vaxholm with a buoyed swimming area and playground.",
                   "category": "recreational",
                   "coords": [
                         18.430063,
@@ -36746,7 +38033,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Grönviksbadet",
-                  "text": "Grönviksbadet is a beach in Vaxholm.",
+                  "text": "Grönviksbadet is a beach in a green cove in Vaxholm.",
                   "category": "recreational",
                   "coords": [
                         18.41412,
@@ -36764,7 +38051,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Fridhemsbadet",
-                  "text": "A public bathing area in Vaxholm.",
+                  "text": "Fridhemsbadet is a calm beach in the Fridhem area of Vaxholm.",
                   "category": "recreational",
                   "coords": [
                         18.286764,
@@ -37001,7 +38288,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Råsunda kyrka",
-                  "text": "Eine Kirche im Stadtteil Råsunda bei Sundbyberg.",
+                  "text": "Råsunda kyrka im Stadtteil Råsunda von Sundbyberg.",
                   "category": "religious",
                   "coords": [
                         17.987714,
@@ -37064,7 +38351,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Duvbo kyrka",
-                  "text": "Eine Kirche im charmanten Stadtteil Duvbo in Sundbyberg.",
+                  "text": "Duvbo kyrka im Stadtteil Duvbo von Sundbyberg.",
                   "category": "religious",
                   "coords": [
                         17.956709,
@@ -37217,7 +38504,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Råstasjön",
-                  "text": "Der Råstasjön ist ein See in Sundbyberg, der für seine natürliche Umgebung und Vogelwelt beliebt ist.",
+                  "text": "Der Råstasjön ist ein See in Sundbyberg, umgeben von einem beliebten Wanderweg.",
                   "category": "natural",
                   "coords": [
                         17.988997,
@@ -37561,7 +38848,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Råsunda kyrka",
-                  "text": "Templom Sundbyberg Råsunda negyedében.",
+                  "text": "Råsunda kyrka Sundbyberg Råsunda negyedében.",
                   "category": "religious",
                   "coords": [
                         17.987714,
@@ -37624,7 +38911,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Duvbo kyrka",
-                  "text": "Templom Sundbyberg hangulatos Duvbo negyedében.",
+                  "text": "Duvbo kyrka Sundbyberg Duvbo negyedében.",
                   "category": "religious",
                   "coords": [
                         17.956709,
@@ -37777,7 +39064,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Råstasjön",
-                  "text": "A Råstasjön egy tó Sundbybergben, amely természeti környezete és madárvilága miatt népszerű.",
+                  "text": "A Råstasjön egy tó Sundbybergben, népszerű sétány övezi.",
                   "category": "natural",
                   "coords": [
                         17.988997,
@@ -38121,7 +39408,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Råsunda kyrka",
-                  "text": "O biserică în cartierul Råsunda din apropiere de Sundbyberg.",
+                  "text": "Råsunda kyrka în cartierul Råsunda din Sundbyberg.",
                   "category": "religious",
                   "coords": [
                         17.987714,
@@ -38184,7 +39471,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Duvbo kyrka",
-                  "text": "O biserică în cartierul pitoresc Duvbo din Sundbyberg.",
+                  "text": "Duvbo kyrka în cartierul Duvbo din Sundbyberg.",
                   "category": "religious",
                   "coords": [
                         17.956709,
@@ -38337,7 +39624,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Råstasjön",
-                  "text": "Råstasjön este un lac din Sundbyberg, popular pentru mediul său natural și viața păsărilor.",
+                  "text": "Råstasjön este un lac în Sundbyberg, înconjurat de o alee populară pentru plimbări.",
                   "category": "natural",
                   "coords": [
                         17.988997,
@@ -38681,7 +39968,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Råsunda kyrka",
-                  "text": "A church in the Råsunda district near Sundbyberg.",
+                  "text": "Råsunda kyrka in the Råsunda district of Sundbyberg.",
                   "category": "religious",
                   "coords": [
                         17.987714,
@@ -38744,7 +40031,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Duvbo kyrka",
-                  "text": "A church in the charming Duvbo district of Sundbyberg.",
+                  "text": "Duvbo kyrka in the Duvbo district of Sundbyberg.",
                   "category": "religious",
                   "coords": [
                         17.956709,
@@ -38897,7 +40184,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Råstasjön",
-                  "text": "Råstasjön is a lake in Sundbyberg, popular for its natural environment and birdlife.",
+                  "text": "Råstasjön is a lake in Sundbyberg, surrounded by a popular walking path.",
                   "category": "natural",
                   "coords": [
                         17.988997,
@@ -39107,7 +40394,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "de": [
             {
                   "name": "Huvudsta strandbad",
-                  "text": "Strand in Solna.",
+                  "text": "Huvudsta strandbad ist ein Strand am Råstasjön in Solna mit Liegewiese.",
                   "category": "recreational",
                   "coords": [
                         17.990457,
@@ -39251,7 +40538,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Ekensbergskyrkan",
-                  "text": "Die Ekensbergskyrkan ist eine moderne Kirche in Solna.",
+                  "text": "Ekensbergskyrkan im Stadtteil Ekensberg von Solna.",
                   "category": "religious",
                   "coords": [
                         17.994779,
@@ -39269,7 +40556,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sundbybergs kyrka",
-                  "text": "Die Kirche von Sundbyberg ist ein markantes Wahrzeichen der Stadt.",
+                  "text": "Sundbybergs kyrka in Solna – Kirche der Gemeinde Sundbyberg.",
                   "category": "religious",
                   "coords": [
                         17.972628,
@@ -39305,7 +40592,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Centrumkyrkan",
-                  "text": "Die Centrumkyrkan ist eine moderne Freikirche im Zentrum von Sundbyberg.",
+                  "text": "Centrumkyrkan im Zentrum von Solna.",
                   "category": "religious",
                   "coords": [
                         17.970792,
@@ -39323,7 +40610,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Duvbo kyrka",
-                  "text": "Die Kirche von Duvbo ist eine kleine, malerische Kirche in Sundbyberg.",
+                  "text": "Duvbo kyrka im Grenzbereich zwischen Sundbyberg und Solna.",
                   "category": "religious",
                   "coords": [
                         17.956709,
@@ -39350,7 +40637,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Bällstabro",
-                  "text": "Die Bällstabro ist eine wichtige Brückenverbindung in Solna.",
+                  "text": "Bällstabro – Brücke in Solna.",
                   "category": "landmark",
                   "coords": [
                         17.960722,
@@ -39422,7 +40709,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Tornparken",
-                  "text": "Der Tornparken ist eine beliebte Grünanlage in Sundbyberg bei Solna.",
+                  "text": "Tornparken – Park in Solna.",
                   "category": "park",
                   "coords": [
                         17.967365,
@@ -39440,7 +40727,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Pelouse",
-                  "text": "Die Pelouse ist eine weite Rasenfläche im berühmten Haga-Park.",
+                  "text": "Pelouse ist eine große Grünanlage in Solna, beliebt für Feste und Picknicks.",
                   "category": "park",
                   "coords": [
                         18.034969,
@@ -39449,7 +40736,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Tuvanparken",
-                  "text": "Der Tuvanparken ist eine ruhige Grünanlage am Wasser in Solna.",
+                  "text": "Tuvanparken – Park in Solna.",
                   "category": "park",
                   "coords": [
                         17.965932,
@@ -39467,7 +40754,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Solparken",
-                  "text": "Ein kleiner, sonniger Park im Herzen von Solna.",
+                  "text": "Solparken – Park in Solna.",
                   "category": "park",
                   "coords": [
                         17.993104,
@@ -39755,7 +41042,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Råstasjön",
-                  "text": "Råstasjön in Solna ist ein beliebter Ort für Spaziergänge und zur Vogelbeobachtung.",
+                  "text": "Der Råstasjön in Solna ist bekannt für seine Vogelwelt und Wanderwege.",
                   "category": "natural",
                   "coords": [
                         17.988997,
@@ -39800,7 +41087,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lötsjön",
-                  "text": "Lötsjön ist ein See in Solna, der sich hervorragend für Spaziergänge und zum Entspannen eignet.",
+                  "text": "Der Lötsjön ist ein kleiner See in Solna mit einem Vogelbeobachtungsturm.",
                   "category": "natural",
                   "coords": [
                         17.967545,
@@ -39818,7 +41105,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Råcksta träsk",
-                  "text": "Råcksta träsk ist ein See in Solna, bekannt für seine natürliche Umgebung und Ruhe.",
+                  "text": "Råcksta träsk ist ein sumpfiger See in Solna, Heimat vieler Frösche und Wasservögel.",
                   "category": "natural",
                   "coords": [
                         17.875108,
@@ -39901,7 +41188,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "hu": [
             {
                   "name": "Huvudsta strandbad",
-                  "text": "Strand Solnában.",
+                  "text": "A Huvudsta strandbad egy strand a Råstasjön partján Solnában, napozógyepével.",
                   "category": "recreational",
                   "coords": [
                         17.990457,
@@ -40045,7 +41332,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Ekensbergskyrkan",
-                  "text": "Az Ekensbergskyrkan egy modern stílusú templom Solnában.",
+                  "text": "Ekensbergskyrkan Solna Ekensberg negyedében.",
                   "category": "religious",
                   "coords": [
                         17.994779,
@@ -40063,7 +41350,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sundbybergs kyrka",
-                  "text": "Sundbyberg temploma a város egyik meghatározó építészeti emléke.",
+                  "text": "Sundbybergs kyrka Solnában – a Sundbybergi gyülekezet temploma.",
                   "category": "religious",
                   "coords": [
                         17.972628,
@@ -40099,7 +41386,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Centrumkyrkan",
-                  "text": "A Centrumkyrkan egy modern szabadegyház Sundbyberg központjában.",
+                  "text": "Centrumkyrkan Solna központjában.",
                   "category": "religious",
                   "coords": [
                         17.970792,
@@ -40117,7 +41404,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Duvbo kyrka",
-                  "text": "Duvbo temploma egy kicsi, festői egyházi épület Sundbybergben.",
+                  "text": "Duvbo kyrka Sundbyberg és Solna határán.",
                   "category": "religious",
                   "coords": [
                         17.956709,
@@ -40144,7 +41431,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Bällstabro",
-                  "text": "A Bällstabro Solna egyik fontos hídja és közlekedési útvonala.",
+                  "text": "Bällstabro – híd Solnában.",
                   "category": "landmark",
                   "coords": [
                         17.960722,
@@ -40216,7 +41503,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Tornparken",
-                  "text": "A Tornparken Sundbyberg egyik kedvelt zöldterülete Solna közelében.",
+                  "text": "Tornparken – park Solnában.",
                   "category": "park",
                   "coords": [
                         17.967365,
@@ -40234,7 +41521,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Pelouse",
-                  "text": "A Pelouse egy tágas füves terület a híres Haga-parkban.",
+                  "text": "A Pelouse egy nagy füves park Solnában, amelyet fesztiválokra és piknikekre használnak.",
                   "category": "park",
                   "coords": [
                         18.034969,
@@ -40243,7 +41530,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Tuvanparken",
-                  "text": "A Tuvanparken egy csendes, vízparti zöldterület Solnában.",
+                  "text": "Tuvanparken – park Solnában.",
                   "category": "park",
                   "coords": [
                         17.965932,
@@ -40261,7 +41548,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Solparken",
-                  "text": "Egy kicsi, napos park Solna szívében.",
+                  "text": "Solparken – park Solnában.",
                   "category": "park",
                   "coords": [
                         17.993104,
@@ -40549,7 +41836,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Råstasjön",
-                  "text": "A Råstasjön Solna területén népszerű hely a sétákhoz és madármegfigyeléshez.",
+                  "text": "A Solnában található Råstasjön madárvilágáról és sétányairól ismert.",
                   "category": "natural",
                   "coords": [
                         17.988997,
@@ -40594,7 +41881,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lötsjön",
-                  "text": "A Lötsjön egy tó Solna területén, amely kiválóan alkalmas sétákhoz és pihenéshez.",
+                  "text": "A Lötsjön egy kis tó Solnában, madármegfigyelő toronnyal.",
                   "category": "natural",
                   "coords": [
                         17.967545,
@@ -40612,7 +41899,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Råcksta träsk",
-                  "text": "A Råcksta träsk egy tó Solna területén, amely természetes környezetéről és nyugalmáról ismert.",
+                  "text": "A Råcksta träsk egy mocsaras tó Solnában, számos béka és vízimadár otthona.",
                   "category": "natural",
                   "coords": [
                         17.875108,
@@ -40695,7 +41982,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "ro": [
             {
                   "name": "Huvudsta strandbad",
-                  "text": "Plajă în Solna.",
+                  "text": "Huvudsta strandbad este o plajă pe malul lacului Råstasjön în Solna, cu iarbă de plajă.",
                   "category": "recreational",
                   "coords": [
                         17.990457,
@@ -40839,7 +42126,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Ekensbergskyrkan",
-                  "text": "Ekensbergskyrkan este o biserică modernă situată în Solna.",
+                  "text": "Ekensbergskyrkan în cartierul Ekensberg din Solna.",
                   "category": "religious",
                   "coords": [
                         17.994779,
@@ -40857,7 +42144,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sundbybergs kyrka",
-                  "text": "Biserica din Sundbyberg este un punct de reper vizibil al orașului.",
+                  "text": "Sundbybergs kyrka în Solna – biserica parohiei Sundbyberg.",
                   "category": "religious",
                   "coords": [
                         17.972628,
@@ -40893,7 +42180,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Centrumkyrkan",
-                  "text": "Centrumkyrkan este o biserică liberă modernă în centrul orașului Sundbyberg.",
+                  "text": "Centrumkyrkan în centrul orașului Solna.",
                   "category": "religious",
                   "coords": [
                         17.970792,
@@ -40911,7 +42198,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Duvbo kyrka",
-                  "text": "Biserica din Duvbo este o mică biserică pitorească din Sundbyberg.",
+                  "text": "Duvbo kyrca la granița dintre Sundbyberg și Solna.",
                   "category": "religious",
                   "coords": [
                         17.956709,
@@ -40938,7 +42225,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Bällstabro",
-                  "text": "Bällstabro este o conexiune importantă prin pod în Solna.",
+                  "text": "Bällstabro – pod în Solna.",
                   "category": "landmark",
                   "coords": [
                         17.960722,
@@ -41010,7 +42297,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Tornparken",
-                  "text": "Tornparken este un spațiu verde popular din Sundbyberg, lângă Solna.",
+                  "text": "Tornparken – parc în Solna.",
                   "category": "park",
                   "coords": [
                         17.967365,
@@ -41028,7 +42315,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Pelouse",
-                  "text": "Pelouse este o zonă vastă cu gazon situată în celebrul parc Haga.",
+                  "text": "Pelouse este un parc mare cu iarbă în Solna, popular pentru festivaluri și picnicuri.",
                   "category": "park",
                   "coords": [
                         18.034969,
@@ -41037,7 +42324,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Tuvanparken",
-                  "text": "Tuvanparken este un spațiu verde liniștit situat pe malul apei în Solna.",
+                  "text": "Tuvanparken – parc în Solna.",
                   "category": "park",
                   "coords": [
                         17.965932,
@@ -41055,7 +42342,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Solparken",
-                  "text": "Un mic parc însorit în inima orașului Solna.",
+                  "text": "Solparken – parc în Solna.",
                   "category": "park",
                   "coords": [
                         17.993104,
@@ -41343,7 +42630,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Råstasjön",
-                  "text": "Råstasjön în Solna este un loc popular pentru plimbări și observarea păsărilor.",
+                  "text": "Råstasjön din Solna este cunoscut pentru păsările și potecile sale.",
                   "category": "natural",
                   "coords": [
                         17.988997,
@@ -41388,7 +42675,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lötsjön",
-                  "text": "Lötsjön este un lac în Solna, excelent pentru plimbări și relaxare.",
+                  "text": "Lötsjön este un mic lac în Solna, cu un turn de observare a păsărilor.",
                   "category": "natural",
                   "coords": [
                         17.967545,
@@ -41406,7 +42693,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Råcksta träsk",
-                  "text": "Råcksta träsk este un lac în Solna, cunoscut pentru mediul său natural și liniște.",
+                  "text": "Råcksta träsk este un lac mlăștinos în Solna, habitat pentru broaște și păsări acvatice.",
                   "category": "natural",
                   "coords": [
                         17.875108,
@@ -41489,7 +42776,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "en": [
             {
                   "name": "Huvudsta strandbad",
-                  "text": "Beach in Solna.",
+                  "text": "Huvudsta strandbad is a beach on the shore of Råstasjön in Solna with a grass lawn.",
                   "category": "recreational",
                   "coords": [
                         17.990457,
@@ -41633,7 +42920,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Ekensbergskyrkan",
-                  "text": "Ekensbergskyrkan is a modern church building in Solna.",
+                  "text": "Ekensbergskyrkan in the Ekensberg district of Solna.",
                   "category": "religious",
                   "coords": [
                         17.994779,
@@ -41651,7 +42938,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sundbybergs kyrka",
-                  "text": "Sundbyberg Church is a prominent landmark in the city.",
+                  "text": "Sundbybergs kyrka in Solna – church serving the Sundbyberg parish.",
                   "category": "religious",
                   "coords": [
                         17.972628,
@@ -41687,7 +42974,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Centrumkyrkan",
-                  "text": "Centrumkyrkan is a modern free church in the center of Sundbyberg.",
+                  "text": "Centrumkyrkan in central Solna.",
                   "category": "religious",
                   "coords": [
                         17.970792,
@@ -41705,7 +42992,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Duvbo kyrka",
-                  "text": "Duvbo Church is a small, picturesque church in Sundbyberg.",
+                  "text": "Duvbo kyrka near the border between Sundbyberg and Solna.",
                   "category": "religious",
                   "coords": [
                         17.956709,
@@ -41732,7 +43019,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Bällstabro",
-                  "text": "Bällstabro is a key bridge connection in Solna.",
+                  "text": "Bällstabro – bridge in Solna.",
                   "category": "landmark",
                   "coords": [
                         17.960722,
@@ -41804,7 +43091,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Tornparken",
-                  "text": "Tornparken is a popular green space in Sundbyberg near Solna.",
+                  "text": "Tornparken – park in Solna.",
                   "category": "park",
                   "coords": [
                         17.967365,
@@ -41822,7 +43109,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Pelouse",
-                  "text": "The Pelouse is a vast lawn area in the famous Haga Park.",
+                  "text": "Pelouse is a large grassy park in Solna, popular for festivals and picnics.",
                   "category": "park",
                   "coords": [
                         18.034969,
@@ -41831,7 +43118,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Tuvanparken",
-                  "text": "Tuvanparken is a peaceful green space by the water in Solna.",
+                  "text": "Tuvanparken – park in Solna.",
                   "category": "park",
                   "coords": [
                         17.965932,
@@ -41849,7 +43136,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Solparken",
-                  "text": "A small, sunny park in the heart of Solna.",
+                  "text": "Solparken – park in Solna.",
                   "category": "park",
                   "coords": [
                         17.993104,
@@ -42137,7 +43424,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Råstasjön",
-                  "text": "Råstasjön in Solna is a popular spot for walks and birdwatching.",
+                  "text": "Råstasjön in Solna is known for its birdlife and walking trails.",
                   "category": "natural",
                   "coords": [
                         17.988997,
@@ -42182,7 +43469,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lötsjön",
-                  "text": "Lötsjön is a lake in Solna, excellent for walks and relaxation.",
+                  "text": "Lötsjön is a small lake in Solna with a bird-watching tower.",
                   "category": "natural",
                   "coords": [
                         17.967545,
@@ -42200,7 +43487,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Råcksta träsk",
-                  "text": "Råcksta träsk is a lake in Solna, known for its natural setting and tranquility.",
+                  "text": "Råcksta träsk is a marshy lake in Solna, home to many frogs and water birds.",
                   "category": "natural",
                   "coords": [
                         17.875108,
@@ -42329,7 +43616,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "de": [
             {
                   "name": "Fågelöuddebadet",
-                  "text": "Fågelöuddebadet ist ein Strand bei Lidingö.",
+                  "text": "Fågelöuddebadet ist ein Strand auf der Insel Lidingö mit ruhigem Wasser.",
                   "category": "recreational",
                   "coords": [
                         18.23074,
@@ -42338,7 +43625,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lilla viken",
-                  "text": "Lilla viken ist ein Strandabschnitt bei Lidingö.",
+                  "text": "Lilla viken ist eine kleine Sandbucht auf Lidingö, ideal für Familien.",
                   "category": "recreational",
                   "coords": [
                         18.214256,
@@ -42763,7 +44050,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "hu": [
             {
                   "name": "Fågelöuddebadet",
-                  "text": "Fågelöuddebadet egy strand Lidingö közelében.",
+                  "text": "A Fågelöuddebadet egy strand Lidingö szigetén, nyugodt vízzel.",
                   "category": "recreational",
                   "coords": [
                         18.23074,
@@ -42772,7 +44059,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lilla viken",
-                  "text": "Lilla viken egy partszakasz Lidingö közelében.",
+                  "text": "A Lilla viken egy kis homokos öböl Lidingön, családok számára alkalmas.",
                   "category": "recreational",
                   "coords": [
                         18.214256,
@@ -43197,7 +44484,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "ro": [
             {
                   "name": "Fågelöuddebadet",
-                  "text": "Fågelöuddebadet este o plajă lângă Lidingö.",
+                  "text": "Fågelöuddebadet este o plajă pe insula Lidingö, cu apă calmă.",
                   "category": "recreational",
                   "coords": [
                         18.23074,
@@ -43206,7 +44493,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lilla viken",
-                  "text": "Lilla viken este o zonă de plajă lângă Lidingö.",
+                  "text": "Lilla viken este un mic golf nisipos pe Lidingö, potrivit pentru familii.",
                   "category": "recreational",
                   "coords": [
                         18.214256,
@@ -43631,7 +44918,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "en": [
             {
                   "name": "Fågelöuddebadet",
-                  "text": "Fågelöuddebadet is a beach near Lidingö.",
+                  "text": "Fågelöuddebadet is a beach on the island of Lidingö with calm water.",
                   "category": "recreational",
                   "coords": [
                         18.23074,
@@ -43640,7 +44927,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lilla viken",
-                  "text": "Lilla viken is a beach area near Lidingö.",
+                  "text": "Lilla viken is a small sandy bay on Lidingö, suitable for families.",
                   "category": "recreational",
                   "coords": [
                         18.214256,
@@ -44120,7 +45407,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Bastusjöbadet",
-                  "text": "Badestelle am Bastusjön in Nacka.",
+                  "text": "Bastusjöbadet ist ein Badeplatz am Bastusjön-See in Nacka.",
                   "category": "recreational",
                   "coords": [
                         18.20695,
@@ -44129,7 +45416,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Långsjöbadet",
-                  "text": "Badestelle am Långsjön in Nacka.",
+                  "text": "Långsjöbadet ist ein Sandstrand am Ufer des Långsjön-Sees in Nacka.",
                   "category": "recreational",
                   "coords": [
                         18.188795,
@@ -44138,7 +45425,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Blockhusudden",
-                  "text": "Ein markanter Leuchtturm an der Küste von Nacka.",
+                  "text": "Blockhusudden ist eine felsige Halbinsel am östlichen Eingang zum Stockholmer Hafen, in Nacka.",
                   "category": "landmark",
                   "coords": [
                         18.154908,
@@ -44147,7 +45434,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Libertus",
-                  "text": "Ein kleiner Leuchtturm im Schärengarten von Nacka.",
+                  "text": "Libertus – Leuchtturm in der Schärenküste von Nacka.",
                   "category": "landmark",
                   "coords": [
                         18.176414,
@@ -44201,7 +45488,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "AGA-fyren",
-                  "text": "Ein Leuchtturm in der Gemeinde Nacka.",
+                  "text": "AGA-fyren ist ein Leuchtturm in Nacka, erbaut von der AGA-Gesellschaft, ein Wahrzeichen.",
                   "category": "landmark",
                   "coords": [
                         18.151491,
@@ -44210,7 +45497,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Allmogebåtarna",
-                  "text": "Ein Museum für traditionelle Boote in Nacka.",
+                  "text": "Allmogebåtarna ist ein Museum für traditionelle schwedische Holzboote in Nacka.",
                   "category": "museum",
                   "coords": [
                         18.176523,
@@ -44228,7 +45515,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Frihetens Port",
-                  "text": "Ein Denkmal in Nacka, das estnischen Flüchtlingen gewidmet ist.",
+                  "text": "The Freedom Gate – historisches Monument in Nacka.",
                   "category": "historical",
                   "coords": [
                         18.133498,
@@ -44237,7 +45524,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Finnberget",
-                  "text": "Ein Hügel und Wohngebiet in der Gemeinde Nacka.",
+                  "text": "Finnberget – Hügel in Nacka.",
                   "category": "natural",
                   "coords": [
                         18.126899,
@@ -44246,7 +45533,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Waldemarsuddes oljekvarn",
-                  "text": "Eine historische Ölmühle und Windmühle bei Waldemarsudde.",
+                  "text": "Waldemarsuddes Olivenmühle auf Waldemarsudde in Nacka.",
                   "category": "landmark",
                   "coords": [
                         18.116126,
@@ -44255,7 +45542,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Värn",
-                  "text": "Historische Ruinen in der Gemeinde Nacka.",
+                  "text": "Värn ist eine historische Verteidigungsanlage in Nacka, Teil der Stockholmer Schärenbefestigungen.",
                   "category": "historical",
                   "coords": [
                         18.182399,
@@ -44264,7 +45551,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Björkhagendammen",
-                  "text": "Ein lokaler Teich und eine Sehenswürdigkeit in Nacka.",
+                  "text": "Björkhagendammen ist ein aufgestauter Teich in einem Birkenhain in Nacka, ein beliebtes Wanderziel.",
                   "category": "landmark",
                   "coords": [
                         18.123417,
@@ -44273,7 +45560,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Ground",
-                  "text": "Eine Kunstgalerie in der Gemeinde Nacka.",
+                  "text": "Ground ist ein Open-Air-Kunstmuseum in Nacka mit Land-Art-Installationen.",
                   "category": "museum",
                   "coords": [
                         18.108946,
@@ -44282,7 +45569,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Nacka kyrka",
-                  "text": "Die Hauptkirche der Kirchengemeinde Nacka.",
+                  "text": "Nacka kyrka – Kirche im Zentrum von Nacka.",
                   "category": "religious",
                   "coords": [
                         18.142914,
@@ -44381,7 +45668,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Tollareträsk",
-                  "text": "Tollareträsk ist ein naturbelassener See in Nacka, ideal für ruhige Erkundungen.",
+                  "text": "Tollareträsk ist ein sumpfiger See in Nacka, Teil des Tollare-Naturschutzgebiets.",
                   "category": "natural",
                   "coords": [
                         18.244958,
@@ -44572,7 +45859,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Bastusjöbadet",
-                  "text": "Fürdőhely a Bastusjön tónál, Nackában.",
+                  "text": "Bastusjöbadet egy tóparti fürdőhely a Bastusjön-tónál Nackában.",
                   "category": "recreational",
                   "coords": [
                         18.20695,
@@ -44581,7 +45868,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Långsjöbadet",
-                  "text": "Fürdőhely a Långsjön tónál, Nackában.",
+                  "text": "Långsjöbadet egy homokos strandon a Långsjön-tó partján Nackában.",
                   "category": "recreational",
                   "coords": [
                         18.188795,
@@ -44590,7 +45877,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Blockhusudden",
-                  "text": "Jellegzetes világítótorony Nacka partjainál.",
+                  "text": "Blockhusudden egy sziklás félsziget a stockholmi kikötő keleti bejáratánál, Nackában.",
                   "category": "landmark",
                   "coords": [
                         18.154908,
@@ -44599,7 +45886,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Libertus",
-                  "text": "Kisméretű világítótorony Nacka szigetvilágában.",
+                  "text": "Libertus – világítótorony Nacka szigetvilágában.",
                   "category": "landmark",
                   "coords": [
                         18.176414,
@@ -44653,7 +45940,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "AGA-fyren",
-                  "text": "Egy világítótorony Nacka községben.",
+                  "text": "Az AGA-fyren egy világítótorony Nackában, amelyet az AGA társaság épített, nevezetesség.",
                   "category": "landmark",
                   "coords": [
                         18.151491,
@@ -44662,7 +45949,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Allmogebåtarna",
-                  "text": "Hagyományos hajókat bemutató múzeum Nackában.",
+                  "text": "Az Allmogebåtarna egy hagyományos svéd fahajók múzeuma Nackában.",
                   "category": "museum",
                   "coords": [
                         18.176523,
@@ -44680,7 +45967,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Frihetens Port",
-                  "text": "Észt menekülteknek szentelt emlékmű Nackában.",
+                  "text": "The Freedom Gate – történelmi emlékmű Nackában.",
                   "category": "historical",
                   "coords": [
                         18.133498,
@@ -44689,7 +45976,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Finnberget",
-                  "text": "Domb és lakónegyed Nacka községben.",
+                  "text": "Finnberget – domb Nackában.",
                   "category": "natural",
                   "coords": [
                         18.126899,
@@ -44698,7 +45985,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Waldemarsuddes oljekvarn",
-                  "text": "Történelmi olajmalom és szélmalom Waldemarsuddénál.",
+                  "text": "Waldemarsudde olajmalma Nackában.",
                   "category": "landmark",
                   "coords": [
                         18.116126,
@@ -44707,7 +45994,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Värn",
-                  "text": "Történelmi romok Nacka községben.",
+                  "text": "A Värn egy történelmi védőmű Nackában, a stockholmi szigetvilág erődítéseinek része.",
                   "category": "historical",
                   "coords": [
                         18.182399,
@@ -44716,7 +46003,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Björkhagendammen",
-                  "text": "Helyi tó és látnivaló Nackában.",
+                  "text": "A Björkhagendammen egy felduzzasztott tó egy nyírligetben Nackában, népszerű túracélpont.",
                   "category": "landmark",
                   "coords": [
                         18.123417,
@@ -44725,7 +46012,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Ground",
-                  "text": "Művészeti galéria Nacka községben.",
+                  "text": "A Ground egy szabadtéri művészeti múzeum Nackában, land art installációkkal.",
                   "category": "museum",
                   "coords": [
                         18.108946,
@@ -44734,7 +46021,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Nacka kyrka",
-                  "text": "Nacka egyházközségének főtemploma.",
+                  "text": "Nacka kyrka – templom Nacka központjában.",
                   "category": "religious",
                   "coords": [
                         18.142914,
@@ -44833,7 +46120,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Tollareträsk",
-                  "text": "A Tollareträsk egy természetközeli tó Nacka területén, amely ideális a csendes felfedezéshez.",
+                  "text": "A Tollareträsk egy mocsaras tó Nackában, a Tollare természetvédelmi terület része.",
                   "category": "natural",
                   "coords": [
                         18.244958,
@@ -45024,7 +46311,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Bastusjöbadet",
-                  "text": "Loc de îmbăiere la lacul Bastusjön în Nacka.",
+                  "text": "Bastusjöbadet este o zonă de baie pe malul lacului Bastusjön din Nacka.",
                   "category": "recreational",
                   "coords": [
                         18.20695,
@@ -45033,7 +46320,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Långsjöbadet",
-                  "text": "Loc de îmbăiere la lacul Långsjön în Nacka.",
+                  "text": "Långsjöbadet este o plajă nisipoasă pe malul lacului Långsjön din Nacka.",
                   "category": "recreational",
                   "coords": [
                         18.188795,
@@ -45042,7 +46329,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Blockhusudden",
-                  "text": "Un far distinctiv pe coasta localității Nacka.",
+                  "text": "Blockhusudden este o peninsulă stâncoasă la intrarea estică în portul Stockholm, în Nacka.",
                   "category": "landmark",
                   "coords": [
                         18.154908,
@@ -45051,7 +46338,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Libertus",
-                  "text": "Un mic far în arhipelagul localității Nacka.",
+                  "text": "Libertus – far în arhipelagul Nacka.",
                   "category": "landmark",
                   "coords": [
                         18.176414,
@@ -45105,7 +46392,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "AGA-fyren",
-                  "text": "Un far în comuna Nacka.",
+                  "text": "AGA-fyren este un far în Nacka, construit de compania AGA, un reper.",
                   "category": "landmark",
                   "coords": [
                         18.151491,
@@ -45114,7 +46401,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Allmogebåtarna",
-                  "text": "Un muzeu dedicat ambarcațiunilor tradiționale în Nacka.",
+                  "text": "Allmogebåtarna este un muzeu al bărcilor tradiționale suedeze din lemn în Nacka.",
                   "category": "museum",
                   "coords": [
                         18.176523,
@@ -45132,7 +46419,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Frihetens Port",
-                  "text": "Un monument în Nacka dedicat refugiaților estonieni.",
+                  "text": "The Freedom Gate – monument istoric în Nacka.",
                   "category": "historical",
                   "coords": [
                         18.133498,
@@ -45141,7 +46428,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Finnberget",
-                  "text": "Un deal și zonă rezidențială în comuna Nacka.",
+                  "text": "Finnberget – deal în Nacka.",
                   "category": "natural",
                   "coords": [
                         18.126899,
@@ -45150,7 +46437,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Waldemarsuddes oljekvarn",
-                  "text": "O moară de ulei și moară de vânt istorică la Waldemarsudde.",
+                  "text": "Moara de ulei de la Waldemarsudde în Nacka.",
                   "category": "landmark",
                   "coords": [
                         18.116126,
@@ -45159,7 +46446,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Värn",
-                  "text": "Ruine istorice în comuna Nacka.",
+                  "text": "Värn este o fortificație istorică în Nacka, parte a fortificațiilor arhipelagului Stockholm.",
                   "category": "historical",
                   "coords": [
                         18.182399,
@@ -45168,7 +46455,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Björkhagendammen",
-                  "text": "Un iaz local și punct de atracție în Nacka.",
+                  "text": "Björkhagendammen este un iaz de baraj într-o pădurice de mesteceni în Nacka, o destinație populară de drumeție.",
                   "category": "landmark",
                   "coords": [
                         18.123417,
@@ -45177,7 +46464,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Ground",
-                  "text": "O galerie de artă în comuna Nacka.",
+                  "text": "Ground este un muzeu de artă în aer liber în Nacka, cu instalații de land art.",
                   "category": "museum",
                   "coords": [
                         18.108946,
@@ -45186,7 +46473,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Nacka kyrka",
-                  "text": "Biserica principală a parohiei Nacka.",
+                  "text": "Nacka kyrka – biserică în centrul orașului Nacka.",
                   "category": "religious",
                   "coords": [
                         18.142914,
@@ -45285,7 +46572,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Tollareträsk",
-                  "text": "Tollareträsk este un lac natural din Nacka, ideal pentru explorări liniștite.",
+                  "text": "Tollareträsk este un lac mlăștinos în Nacka, parte a rezervației naturale Tollare.",
                   "category": "natural",
                   "coords": [
                         18.244958,
@@ -45476,7 +46763,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Bastusjöbadet",
-                  "text": "Bathing spot at Lake Bastusjön in Nacka.",
+                  "text": "Bastusjöbadet is a lakeside bathing area at Lake Bastusjön in Nacka.",
                   "category": "recreational",
                   "coords": [
                         18.20695,
@@ -45485,7 +46772,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Långsjöbadet",
-                  "text": "Bathing spot at Lake Långsjön in Nacka.",
+                  "text": "Långsjöbadet is a sandy beach on the shore of Lake Långsjön in Nacka.",
                   "category": "recreational",
                   "coords": [
                         18.188795,
@@ -45494,7 +46781,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Blockhusudden",
-                  "text": "A prominent lighthouse on the coast of Nacka.",
+                  "text": "Blockhusudden is a rocky peninsula at the eastern entrance to Stockholm harbour, in Nacka.",
                   "category": "landmark",
                   "coords": [
                         18.154908,
@@ -45503,7 +46790,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Libertus",
-                  "text": "A small lighthouse in the Nacka archipelago.",
+                  "text": "Libertus – lighthouse in the Nacka archipelago.",
                   "category": "landmark",
                   "coords": [
                         18.176414,
@@ -45557,7 +46844,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "AGA-fyren",
-                  "text": "A lighthouse located in the Nacka municipality.",
+                  "text": "AGA-fyren is a lighthouse in Nacka, built by the AGA company, a landmark.",
                   "category": "landmark",
                   "coords": [
                         18.151491,
@@ -45566,7 +46853,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Allmogebåtarna",
-                  "text": "A museum dedicated to traditional boats in Nacka.",
+                  "text": "Allmogebåtarna is a museum of traditional Swedish wooden boats in Nacka.",
                   "category": "museum",
                   "coords": [
                         18.176523,
@@ -45584,7 +46871,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "The Freedom Gate",
-                  "text": "A monument in Nacka dedicated to Estonian refugees.",
+                  "text": "The Freedom Gate – historical monument in Nacka.",
                   "category": "historical",
                   "coords": [
                         18.133498,
@@ -45593,7 +46880,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Finnberget",
-                  "text": "A hill and residential area in the Nacka municipality.",
+                  "text": "Finnberget – hill in Nacka.",
                   "category": "natural",
                   "coords": [
                         18.126899,
@@ -45602,7 +46889,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Waldemarsuddes oljekvarn",
-                  "text": "A historic oil mill and windmill at Waldemarsudde.",
+                  "text": "Waldemarsudde's oil mill in Nacka.",
                   "category": "landmark",
                   "coords": [
                         18.116126,
@@ -45611,7 +46898,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Värn",
-                  "text": "Historic ruins located in the Nacka municipality.",
+                  "text": "Värn is a historic defensive structure in Nacka, part of the Stockholm archipelago fortifications.",
                   "category": "historical",
                   "coords": [
                         18.182399,
@@ -45620,7 +46907,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Björkhagendammen",
-                  "text": "A local pond and attraction in Nacka.",
+                  "text": "Björkhagendammen is a dammed pond in a birch grove in Nacka, a popular hiking destination.",
                   "category": "landmark",
                   "coords": [
                         18.123417,
@@ -45629,7 +46916,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Ground",
-                  "text": "An art gallery in the Nacka municipality.",
+                  "text": "Ground is an outdoor art museum in Nacka, featuring land art installations.",
                   "category": "museum",
                   "coords": [
                         18.108946,
@@ -45638,7 +46925,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Nacka kyrka",
-                  "text": "The main church of the Nacka parish.",
+                  "text": "Nacka kyrka – church in central Nacka.",
                   "category": "religious",
                   "coords": [
                         18.142914,
@@ -45737,7 +47024,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Tollareträsk",
-                  "text": "Tollareträsk is a natural lake in Nacka, ideal for quiet exploration.",
+                  "text": "Tollareträsk is a marshy lake in Nacka, part of the Tollare nature reserve.",
                   "category": "natural",
                   "coords": [
                         18.244958,
@@ -45965,7 +47252,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "de": [
             {
                   "name": "Gustavs Udde badplats",
-                  "text": "Badestrand Gustavs Udde in der Nähe von Vallentuna.",
+                  "text": "Gustavs Udde badplats ist ein See-Strand in Vallentuna mit Steg und Sand.",
                   "category": "recreational",
                   "coords": [
                         18.063191,
@@ -46001,7 +47288,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Väsby gravfält",
-                  "text": "Ein historisches Gräberfeld im Gebiet Väsby in Vallentuna.",
+                  "text": "Väsby gravfält ist ein altes Gräberfeld aus der Wikingerzeit in Vallentuna.",
                   "category": "historical",
                   "coords": [
                         18.065079,
@@ -46109,7 +47396,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kvarnsjön",
-                  "text": "Kvarnsjön ist ein ruhiger See in Vallentuna, der sich gut zum Entspannen eignet.",
+                  "text": "Kvarnsjön ist ein See in Vallentuna, nahe einer historischen Mühle gelegen.",
                   "category": "natural",
                   "coords": [
                         17.983749,
@@ -46246,7 +47533,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "hu": [
             {
                   "name": "Gustavs Udde badplats",
-                  "text": "Gustavs Udde strand, Vallentuna közelében.",
+                  "text": "A Gustavs Udde badplats egy tóparti strand Vallentunában, stéggel és homokkal.",
                   "category": "recreational",
                   "coords": [
                         18.063191,
@@ -46282,7 +47569,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Väsby gravfält",
-                  "text": "Történelmi temetkezési hely Vallentuna Väsby körzetében.",
+                  "text": "A Väsby gravfält egy viking kori ősi temető Vallentunában.",
                   "category": "historical",
                   "coords": [
                         18.065079,
@@ -46390,7 +47677,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kvarnsjön",
-                  "text": "A Kvarnsjön egy nyugodt tó Vallentuna területén, amely kiválóan alkalmas a pihenésre.",
+                  "text": "A Kvarnsjön egy tó Vallentunában, egy történelmi malom mellett.",
                   "category": "natural",
                   "coords": [
                         17.983749,
@@ -46527,7 +47814,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "ro": [
             {
                   "name": "Gustavs Udde badplats",
-                  "text": "Plaja Gustavs Udde lângă Vallentuna.",
+                  "text": "Gustavs Udde badplats este o plajă lacustră în Vallentuna, cu debarcader și nisip.",
                   "category": "recreational",
                   "coords": [
                         18.063191,
@@ -46563,7 +47850,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Väsby gravfält",
-                  "text": "Un câmp funerar istoric situat în zona Väsby din Vallentuna.",
+                  "text": "Väsby gravfält este un câmp funerar antic din epoca vikingă în Vallentuna.",
                   "category": "historical",
                   "coords": [
                         18.065079,
@@ -46671,7 +47958,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kvarnsjön",
-                  "text": "Kvarnsjön este un lac liniștit în Vallentuna, potrivit pentru relaxare.",
+                  "text": "Kvarnsjön este un lac în Vallentuna, situat lângă o moară istorică.",
                   "category": "natural",
                   "coords": [
                         17.983749,
@@ -46808,7 +48095,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "en": [
             {
                   "name": "Gustavs Udde badplats",
-                  "text": "Gustavs Udde beach near Vallentuna.",
+                  "text": "Gustavs Udde badplats is a lake beach in Vallentuna with a jetty and sand.",
                   "category": "recreational",
                   "coords": [
                         18.063191,
@@ -46844,7 +48131,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Väsby gravfält",
-                  "text": "A historical grave field located in the Väsby area of Vallentuna.",
+                  "text": "Väsby gravfält is an ancient burial field from the Viking age in Vallentuna.",
                   "category": "historical",
                   "coords": [
                         18.065079,
@@ -46952,7 +48239,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kvarnsjön",
-                  "text": "Kvarnsjön is a tranquil lake in Vallentuna, well-suited for relaxation.",
+                  "text": "Kvarnsjön is a lake in Vallentuna, located near a historic mill.",
                   "category": "natural",
                   "coords": [
                         17.983749,
@@ -47135,7 +48422,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "de": [
             {
                   "name": "Trollholmen",
-                  "text": "Strand in der Nähe von Upplands Väsby.",
+                  "text": "Trollholmen ist eine kleine Insel im Valloxen-See mit einem beliebten Badeplatz bei Upplands Väsby.",
                   "category": "recreational",
                   "coords": [
                         17.928465,
@@ -47216,7 +48503,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Graves",
-                  "text": "Eine Ansammlung historischer Gräber in der Nähe von Upplands Väsby.",
+                  "text": "Graves ist ein prähistorisches Gräberfeld in Upplands Väsby.",
                   "category": "historical",
                   "coords": [
                         17.932412,
@@ -47416,7 +48703,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "hu": [
             {
                   "name": "Trollholmen",
-                  "text": "Part Upplands Väsby közelében.",
+                  "text": "Trollholmen egy kis sziget a Valloxen-tóban, népszerű fürdőhellyel Upplands Väsby közelében.",
                   "category": "recreational",
                   "coords": [
                         17.928465,
@@ -47497,7 +48784,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Graves",
-                  "text": "Történelmi sírok csoportja Upplands Väsby közelében.",
+                  "text": "A Graves egy ősi temető Upplands Väsbyben.",
                   "category": "historical",
                   "coords": [
                         17.932412,
@@ -47697,7 +48984,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "ro": [
             {
                   "name": "Trollholmen",
-                  "text": "Plajă în apropiere de Upplands Väsby.",
+                  "text": "Trollholmen este o insulă mică în lacul Valloxen, cu un loc de înot popular lângă Upplands Väsby.",
                   "category": "recreational",
                   "coords": [
                         17.928465,
@@ -47778,7 +49065,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Graves",
-                  "text": "Un grup de morminte istorice în apropiere de Upplands Väsby.",
+                  "text": "Graves este un câmp funerar preistoric în Upplands Väsby.",
                   "category": "historical",
                   "coords": [
                         17.932412,
@@ -47978,7 +49265,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "en": [
             {
                   "name": "Trollholmen",
-                  "text": "Beach near Upplands Väsby.",
+                  "text": "Trollholmen is a small island in Lake Valloxen with a popular swimming spot, near Upplands Väsby.",
                   "category": "recreational",
                   "coords": [
                         17.928465,
@@ -48059,7 +49346,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Graves",
-                  "text": "A collection of historical graves near Upplands Väsby.",
+                  "text": "Graves is a prehistoric grave field in Upplands Väsby.",
                   "category": "historical",
                   "coords": [
                         17.932412,
@@ -48305,7 +49592,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "de": [
             {
                   "name": "Rakstabadet",
-                  "text": "Ein Strand bei Tyresö.",
+                  "text": "Rakstabadet ist ein Strand in Tyresö mit einer großen Liegewiese.",
                   "category": "recreational",
                   "coords": [
                         18.301196,
@@ -48314,7 +49601,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Mörtviksbadet",
-                  "text": "Ein Strand bei Tyresö.",
+                  "text": "Mörtviksbadet ist ein Badeplatz in einer Bucht, die für Barschfang bekannt ist.",
                   "category": "recreational",
                   "coords": [
                         18.168258,
@@ -48323,7 +49610,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sjöängsbadet",
-                  "text": "Ein Strand bei Tyresö.",
+                  "text": "Sjöängsbadet ist ein Sandstrand an einem Wiesen-See in Tyresö.",
                   "category": "recreational",
                   "coords": [
                         18.158462,
@@ -48332,7 +49619,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Flatenbadet",
-                  "text": "Flatenbadet ist ein Strand bei Tyresö.",
+                  "text": "Flatenbadet ist ein flacher Felsstrand in Tyresö, beliebt zum Sonnenbaden.",
                   "category": "recreational",
                   "coords": [
                         18.15969,
@@ -48341,7 +49628,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Albybadet",
-                  "text": "Albybadet ist ein Strand bei Tyresö.",
+                  "text": "Albybadet ist ein Familienstrand mit Spielplatz in Tyresö.",
                   "category": "recreational",
                   "coords": [
                         18.276737,
@@ -48350,7 +49637,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Erstaviksbadet",
-                  "text": "Erstaviksbadet ist ein Strand bei Tyresö.",
+                  "text": "Erstaviksbadet ist ein Strand in der Erstavik-Bucht mit einem Sprungturm.",
                   "category": "recreational",
                   "coords": [
                         18.264738,
@@ -48359,7 +49646,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kumlabadet",
-                  "text": "Kumlabadet ist ein Strand bei Tyresö.",
+                  "text": "Kumlabadet ist ein Strand in Tyresö mit einem großen Schwimmbereich.",
                   "category": "recreational",
                   "coords": [
                         18.19086,
@@ -48368,7 +49655,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Fornuddsbadet",
-                  "text": "Fornuddsbadet ist ein Strand bei Tyresö.",
+                  "text": "Fornuddsbadet ist ein Strand an einer alten Landspitze in Tyresö mit felsigen Ufern.",
                   "category": "recreational",
                   "coords": [
                         18.186798,
@@ -48377,7 +49664,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hästhagsbadet",
-                  "text": "Hästhagsbadet ist ein Strand bei Tyresö.",
+                  "text": "Hästhagsbadet ist ein Strand am Tyresö-See mit einer grasbewachsenen Liegewiese.",
                   "category": "recreational",
                   "coords": [
                         18.185559,
@@ -48386,7 +49673,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Strålsjöbadet",
-                  "text": "Strålsjöbadet ist ein Strand in der Gemeinde Tyresö.",
+                  "text": "Strålsjöbadet ist ein Strand am See Strålsjön in Tyresö.",
                   "category": "recreational",
                   "coords": [
                         18.199412,
@@ -48395,7 +49682,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hoppbryggans bad",
-                  "text": "Strand in der Nähe von Tyresö.",
+                  "text": "Hoppbryggans bad ist ein Badeplatz mit einer Sprungbrücke in Tyresö.",
                   "category": "recreational",
                   "coords": [
                         18.300789,
@@ -48404,7 +49691,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Björkuddens bad",
-                  "text": "Strand in der Nähe von Tyresö.",
+                  "text": "Björkuddens bad, ein Badeplatz an der Ostseeküste in Tyresö.",
                   "category": "recreational",
                   "coords": [
                         18.304404,
@@ -48674,7 +49961,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Trollbackens kyrka",
-                  "text": "Die Trollbäcken-Kirche ist ein modernes religiöses Gebäude in Tyresö.",
+                  "text": "Trollbäckens kyrka in Trollbäcken, Tyresö.",
                   "category": "religious",
                   "coords": [
                         18.203562,
@@ -48694,7 +49981,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "hu": [
             {
                   "name": "Rakstabadet",
-                  "text": "Strand Tyresö közelében.",
+                  "text": "A Rakstabadet egy strand Tyresöben, nagy napozógyepével.",
                   "category": "recreational",
                   "coords": [
                         18.301196,
@@ -48703,7 +49990,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Mörtviksbadet",
-                  "text": "Strand Tyresö közelében.",
+                  "text": "A Mörtviksbadet egy fürdőhely egy öbölben, amely süllőhalászatáról ismert.",
                   "category": "recreational",
                   "coords": [
                         18.168258,
@@ -48712,7 +49999,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sjöängsbadet",
-                  "text": "Strand Tyresö közelében.",
+                  "text": "A Sjöängsbadet egy homokos strand egy réti tó partján Tyresöben.",
                   "category": "recreational",
                   "coords": [
                         18.158462,
@@ -48721,7 +50008,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Flatenbadet",
-                  "text": "Flatenbadet egy strand Tyresö közelében.",
+                  "text": "A Flatenbadet egy lapos sziklás strand Tyresöben, napozásra alkalmas.",
                   "category": "recreational",
                   "coords": [
                         18.15969,
@@ -48730,7 +50017,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Albybadet",
-                  "text": "Albybadet egy strand Tyresö közelében.",
+                  "text": "Az Albybadet egy családi strand játszótérrel Tyresöben.",
                   "category": "recreational",
                   "coords": [
                         18.276737,
@@ -48739,7 +50026,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Erstaviksbadet",
-                  "text": "Erstaviksbadet egy strand Tyresö közelében.",
+                  "text": "Az Erstaviksbadet egy strand az Erstavik-öbölben, ugrótoronnyal.",
                   "category": "recreational",
                   "coords": [
                         18.264738,
@@ -48748,7 +50035,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kumlabadet",
-                  "text": "Kumlabadet egy strand Tyresö közelében.",
+                  "text": "A Kumlabadet egy strand Tyresöben, nagy úszózónával.",
                   "category": "recreational",
                   "coords": [
                         18.19086,
@@ -48757,7 +50044,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Fornuddsbadet",
-                  "text": "Fornuddsbadet egy strand Tyresö közelében.",
+                  "text": "A Fornuddsbadet egy strand egy ősi földnyelvnél Tyresöben, sziklás parttal.",
                   "category": "recreational",
                   "coords": [
                         18.186798,
@@ -48766,7 +50053,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hästhagsbadet",
-                  "text": "Hästhagsbadet egy strand Tyresö közelében.",
+                  "text": "Hästhagsbadet egy strand a Tyresö-tó partján, füves napozóterülettel.",
                   "category": "recreational",
                   "coords": [
                         18.185559,
@@ -48775,7 +50062,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Strålsjöbadet",
-                  "text": "Strålsjöbadet egy strand Tyresö településen.",
+                  "text": "A Strålsjöbadet egy strand a Strålsjön tó partján Tyresöben.",
                   "category": "recreational",
                   "coords": [
                         18.199412,
@@ -48784,7 +50071,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hoppbryggans bad",
-                  "text": "Part Tyresö közelében.",
+                  "text": "A Hoppbryggans bad egy fürdőhely egy ugróstéggel Tyresöben.",
                   "category": "recreational",
                   "coords": [
                         18.300789,
@@ -48793,7 +50080,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Björkuddens bad",
-                  "text": "Part Tyresö közelében.",
+                  "text": "Björkuddens bad, fürdőhely a Balti-tenger partján Tyresöben.",
                   "category": "recreational",
                   "coords": [
                         18.304404,
@@ -49063,7 +50350,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Trollbackens kyrka",
-                  "text": "A Trollbäcken-templom egy modern vallási épület Tyresőben.",
+                  "text": "Trollbäckens kyrka Trollbäckenben, Tyresöben.",
                   "category": "religious",
                   "coords": [
                         18.203562,
@@ -49083,7 +50370,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "ro": [
             {
                   "name": "Rakstabadet",
-                  "text": "O plajă lângă Tyresö.",
+                  "text": "Rakstabadet este o plajă în Tyresö, cu o mare zonă de iarbă pentru plajă.",
                   "category": "recreational",
                   "coords": [
                         18.301196,
@@ -49092,7 +50379,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Mörtviksbadet",
-                  "text": "O plajă lângă Tyresö.",
+                  "text": "Mörtviksbadet este un loc de înot într-un golf cunoscut pentru pescuitul de biban.",
                   "category": "recreational",
                   "coords": [
                         18.168258,
@@ -49101,7 +50388,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sjöängsbadet",
-                  "text": "O plajă lângă Tyresö.",
+                  "text": "Sjöängsbadet este o plajă nisipoasă pe malul unui lac de luncă în Tyresö.",
                   "category": "recreational",
                   "coords": [
                         18.158462,
@@ -49110,7 +50397,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Flatenbadet",
-                  "text": "Flatenbadet este o plajă lângă Tyresö.",
+                  "text": "Flatenbadet este o plajă stâncoasă plată în Tyresö, populară pentru plaja solară.",
                   "category": "recreational",
                   "coords": [
                         18.15969,
@@ -49119,7 +50406,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Albybadet",
-                  "text": "Albybadet este o plajă lângă Tyresö.",
+                  "text": "Albybadet este o plajă de familie cu loc de joacă în Tyresö.",
                   "category": "recreational",
                   "coords": [
                         18.276737,
@@ -49128,7 +50415,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Erstaviksbadet",
-                  "text": "Erstaviksbadet este o plajă lângă Tyresö.",
+                  "text": "Erstaviksbadet este o plajă în golful Erstavik, cu un turn de sărituri.",
                   "category": "recreational",
                   "coords": [
                         18.264738,
@@ -49137,7 +50424,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kumlabadet",
-                  "text": "Kumlabadet este o plajă lângă Tyresö.",
+                  "text": "Kumlabadet este o plajă în Tyresö, cu o zonă mare de înot.",
                   "category": "recreational",
                   "coords": [
                         18.19086,
@@ -49146,7 +50433,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Fornuddsbadet",
-                  "text": "Fornuddsbadet este o plajă lângă Tyresö.",
+                  "text": "Fornuddsbadet este o plajă la un promontoriu antic în Tyresö, cu țărm stâncos.",
                   "category": "recreational",
                   "coords": [
                         18.186798,
@@ -49155,7 +50442,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hästhagsbadet",
-                  "text": "Hästhagsbadet este o plajă lângă Tyresö.",
+                  "text": "Hästhagsbadet este o plajă pe lacul Tyresö, cu o zonă de bronzat pe iarbă.",
                   "category": "recreational",
                   "coords": [
                         18.185559,
@@ -49164,7 +50451,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Strålsjöbadet",
-                  "text": "Strålsjöbadet este o plajă în comuna Tyresö.",
+                  "text": "Strålsjöbadet este o plajă pe malul lacului Strålsjön în Tyresö.",
                   "category": "recreational",
                   "coords": [
                         18.199412,
@@ -49173,7 +50460,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hoppbryggans bad",
-                  "text": "Plajă în apropiere de Tyresö.",
+                  "text": "Hoppbryggans bad este un loc de înot cu un debarcader de sărituri în Tyresö.",
                   "category": "recreational",
                   "coords": [
                         18.300789,
@@ -49182,7 +50469,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Björkuddens bad",
-                  "text": "Plajă în apropiere de Tyresö.",
+                  "text": "Björkuddens bad, o plajă pe coasta Mării Baltice în Tyresö.",
                   "category": "recreational",
                   "coords": [
                         18.304404,
@@ -49452,7 +50739,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Trollbackens kyrka",
-                  "text": "Biserica Trollbäcken este o clădire religioasă modernă din Tyresö.",
+                  "text": "Trollbäckens kyrka în Trollbäcken, Tyresö.",
                   "category": "religious",
                   "coords": [
                         18.203562,
@@ -49472,7 +50759,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "en": [
             {
                   "name": "Rakstabadet",
-                  "text": "A beach near Tyresö.",
+                  "text": "Rakstabadet is a beach in Tyresö with a large grass lawn.",
                   "category": "recreational",
                   "coords": [
                         18.301196,
@@ -49481,7 +50768,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Mörtviksbadet",
-                  "text": "A beach near Tyresö.",
+                  "text": "Mörtviksbadet is a swimming spot in a bay known for perch fishing.",
                   "category": "recreational",
                   "coords": [
                         18.168258,
@@ -49490,7 +50777,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sjöängsbadet",
-                  "text": "A beach near Tyresö.",
+                  "text": "Sjöängsbadet is a sandy beach by a meadow lake in Tyresö.",
                   "category": "recreational",
                   "coords": [
                         18.158462,
@@ -49499,7 +50786,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Flatenbadet",
-                  "text": "Flatenbadet is a beach near Tyresö.",
+                  "text": "Flatenbadet is a flat rocky beach in Tyresö, popular for sunbathing.",
                   "category": "recreational",
                   "coords": [
                         18.15969,
@@ -49508,7 +50795,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Albybadet",
-                  "text": "Albybadet is a beach near Tyresö.",
+                  "text": "Albybadet is a family beach with a playground in Tyresö.",
                   "category": "recreational",
                   "coords": [
                         18.276737,
@@ -49517,7 +50804,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Erstaviksbadet",
-                  "text": "Erstaviksbadet is a beach near Tyresö.",
+                  "text": "Erstaviksbadet is a beach in Erstavik bay with a diving tower.",
                   "category": "recreational",
                   "coords": [
                         18.264738,
@@ -49526,7 +50813,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kumlabadet",
-                  "text": "Kumlabadet is a beach near Tyresö.",
+                  "text": "Kumlabadet is a beach in Tyresö with a large swimming area.",
                   "category": "recreational",
                   "coords": [
                         18.19086,
@@ -49535,7 +50822,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Fornuddsbadet",
-                  "text": "Fornuddsbadet is a beach near Tyresö.",
+                  "text": "Fornuddsbadet is a beach at an ancient point in Tyresö with rocky shores.",
                   "category": "recreational",
                   "coords": [
                         18.186798,
@@ -49544,7 +50831,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hästhagsbadet",
-                  "text": "Hästhagsbadet is a beach near Tyresö.",
+                  "text": "Hästhagsbadet is a beach on Lake Tyresö with a grassy sunbathing area.",
                   "category": "recreational",
                   "coords": [
                         18.185559,
@@ -49553,7 +50840,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Strålsjöbadet",
-                  "text": "Strålsjöbadet is a beach in the Tyresö municipality.",
+                  "text": "Strålsjöbadet is a beach on the shore of Lake Strålsjön in Tyresö.",
                   "category": "recreational",
                   "coords": [
                         18.199412,
@@ -49562,7 +50849,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hoppbryggans bad",
-                  "text": "Beach near Tyresö.",
+                  "text": "Hoppbryggans bad is a swimming spot with a jumping pier in Tyresö.",
                   "category": "recreational",
                   "coords": [
                         18.300789,
@@ -49571,7 +50858,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Björkuddens bad",
-                  "text": "Beach near Tyresö.",
+                  "text": "Björkuddens bad, a Baltic Sea beach in Tyresö.",
                   "category": "recreational",
                   "coords": [
                         18.304404,
@@ -49841,7 +51128,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Trollbackens kyrka",
-                  "text": "Trollbäcken Church is a modern religious building in Tyresö.",
+                  "text": "Trollbäckens kyrka in Trollbäcken, Tyresö.",
                   "category": "religious",
                   "coords": [
                         18.203562,
@@ -49907,7 +51194,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "de": [
             {
                   "name": "Lövstabadet",
-                  "text": "Lövstabadet ist ein Strand bei Järfälla.",
+                  "text": "Lövstabadet ist ein Badeplatz am Lövstasjön-See in Järfälla.",
                   "category": "recreational",
                   "coords": [
                         17.780714,
@@ -49916,7 +51203,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kallhällsbadet",
-                  "text": "Kallhällsbadet ist ein beliebter Strand in Järfälla.",
+                  "text": "Kallhällsbadet – Badeplatz in Järfälla.",
                   "category": "recreational",
                   "coords": [
                         17.792666,
@@ -50107,7 +51394,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "hu": [
             {
                   "name": "Lövstabadet",
-                  "text": "Lövstabadet egy strand Järfälla közelében.",
+                  "text": "Lövstabadet egy tóparti fürdőhely a Lövstasjön-tónál Järfällában.",
                   "category": "recreational",
                   "coords": [
                         17.780714,
@@ -50116,7 +51403,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kallhällsbadet",
-                  "text": "Kallhällsbadet egy népszerű strand Järfällában.",
+                  "text": "Kallhällsbadet – fürdőhely Järfällában.",
                   "category": "recreational",
                   "coords": [
                         17.792666,
@@ -50307,7 +51594,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "ro": [
             {
                   "name": "Lövstabadet",
-                  "text": "Lövstabadet este o plajă lângă Järfälla.",
+                  "text": "Lövstabadet este o zonă de baie pe malul lacului Lövstasjön din Järfälla.",
                   "category": "recreational",
                   "coords": [
                         17.780714,
@@ -50316,7 +51603,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kallhällsbadet",
-                  "text": "Kallhällsbadet este o plajă populară în Järfälla.",
+                  "text": "Kallhällsbadet – loc de scăldat în Järfälla.",
                   "category": "recreational",
                   "coords": [
                         17.792666,
@@ -50507,7 +51794,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "en": [
             {
                   "name": "Lövstabadet",
-                  "text": "Lövstabadet is a beach near Järfälla.",
+                  "text": "Lövstabadet is a lakeside bathing area on Lake Lövstasjön in Järfälla.",
                   "category": "recreational",
                   "coords": [
                         17.780714,
@@ -50516,7 +51803,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Kallhällsbadet",
-                  "text": "Kallhällsbadet is a popular beach in Järfälla.",
+                  "text": "Kallhällsbadet – bathing spot in Järfälla.",
                   "category": "recreational",
                   "coords": [
                         17.792666,
@@ -50753,7 +52040,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "de": [
             {
                   "name": "Långsjöbadet",
-                  "text": "Ein Strand bei Huddinge.",
+                  "text": "Långsjöbadet ist ein Sandstrand am Westufer des Långsjön-Sees in Huddinge.",
                   "category": "recreational",
                   "coords": [
                         17.975212,
@@ -50807,7 +52094,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Huddinge aula",
-                  "text": "Ein Veranstaltungsort für Versammlungen und kulturelle Events in Huddinge.",
+                  "text": "Huddinge aula, das Gemeindeauditorium in Huddinge.",
                   "category": "cultural",
                   "coords": [
                         17.995344,
@@ -50870,7 +52157,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Huset",
-                  "text": "Ein lokales Kultur- und Kunstzentrum in Huddinge.",
+                  "text": "Huset, das zentrale Kulturhaus in Huddinge.",
                   "category": "cultural",
                   "coords": [
                         17.99294,
@@ -50899,7 +52186,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "hu": [
             {
                   "name": "Långsjöbadet",
-                  "text": "Strand Huddinge közelében.",
+                  "text": "Långsjöbadet egy homokos strand a Långsjön-tó nyugati partján Huddingében.",
                   "category": "recreational",
                   "coords": [
                         17.975212,
@@ -50953,7 +52240,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Huddinge aula",
-                  "text": "Gyűlések és kulturális események helyszíne Huddingében.",
+                  "text": "Huddinge aula, a Huddinge-i községi előadóterem.",
                   "category": "cultural",
                   "coords": [
                         17.995344,
@@ -51016,7 +52303,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Huset",
-                  "text": "Helyi kulturális és művészeti központ Huddinge városában.",
+                  "text": "Huset, a Huddinge-i központi kultúrház.",
                   "category": "cultural",
                   "coords": [
                         17.99294,
@@ -51045,7 +52332,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "ro": [
             {
                   "name": "Långsjöbadet",
-                  "text": "O plajă lângă Huddinge.",
+                  "text": "Långsjöbadet este o plajă nisipoasă pe malul vestic al lacului Långsjön din Huddinge.",
                   "category": "recreational",
                   "coords": [
                         17.975212,
@@ -51099,7 +52386,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Huddinge aula",
-                  "text": "O locație pentru adunări și evenimente culturale în Huddinge.",
+                  "text": "Huddinge aula, auditoriul municipal din Huddinge.",
                   "category": "cultural",
                   "coords": [
                         17.995344,
@@ -51162,7 +52449,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Huset",
-                  "text": "Un centru local de artă și cultură în Huddinge.",
+                  "text": "Huset, casa de cultură centrală din Huddinge.",
                   "category": "cultural",
                   "coords": [
                         17.99294,
@@ -51191,7 +52478,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "en": [
             {
                   "name": "Långsjöbadet",
-                  "text": "A beach near Huddinge.",
+                  "text": "Långsjöbadet is a sandy beach on the western shore of Lake Långsjön in Huddinge.",
                   "category": "recreational",
                   "coords": [
                         17.975212,
@@ -51245,7 +52532,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Huddinge aula",
-                  "text": "A venue for assemblies and cultural events in Huddinge.",
+                  "text": "Huddinge aula, the municipal auditorium in Huddinge.",
                   "category": "cultural",
                   "coords": [
                         17.995344,
@@ -51308,7 +52595,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Huset",
-                  "text": "A local arts and culture centre in Huddinge.",
+                  "text": "Huset, the central cultural house in Huddinge.",
                   "category": "cultural",
                   "coords": [
                         17.99294,
@@ -51383,7 +52670,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "de": [
             {
                   "name": "Ekholmen",
-                  "text": "Ein Naturschutzgebiet in der Gemeinde Botkyrka.",
+                  "text": "Ekholmen, ein naturbelassenes Gebiet mit Eichenwald in Botkyrka.",
                   "category": "natural",
                   "coords": [
                         17.808661,
@@ -51401,7 +52688,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Botkyrka 203:1",
-                  "text": "Eine archäologische Fundstätte in der Gemeinde Botkyrka.",
+                  "text": "Botkyrka 203:1, eine archäologische Fundstätte mit vorzeitlichen Siedlungsresten in Botkyrka.",
                   "category": "historical",
                   "coords": [
                         17.828708,
@@ -51410,7 +52697,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Botkyrka 355:1",
-                  "text": "Eine archäologische Stätte in Botkyrka.",
+                  "text": "Botkyrka 355:1, eine weitere vorgeschichtliche Fundstelle in Botkyrka.",
                   "category": "historical",
                   "coords": [
                         17.831844,
@@ -51419,7 +52706,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Botkyrka 357:1",
-                  "text": "Historische archäologische Überreste in Botkyrka.",
+                  "text": "Botkyrka 357:1, ein archäologisches Denkmal in Botkyrka.",
                   "category": "historical",
                   "coords": [
                         17.832678,
@@ -51428,7 +52715,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Botkyrka 193:1",
-                  "text": "Eine registrierte archäologische Stätte in Botkyrka.",
+                  "text": "Botkyrka 193:1, eine alte Siedlungsstelle in Botkyrka.",
                   "category": "historical",
                   "coords": [
                         17.86835,
@@ -51437,7 +52724,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Tumbascenen",
-                  "text": "Eine Theaterbühne in Tumba, Botkyrka.",
+                  "text": "Tumbascenen, eine Open-Air-Bühne in Botkyrka.",
                   "category": "cultural",
                   "coords": [
                         17.835401,
@@ -51446,7 +52733,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Fornåker",
-                  "text": "Eine archäologische Fundstätte in Botkyrka.",
+                  "text": "Fornåker, ein altes Ackerfeld aus vorzeitlicher Zeit in Botkyrka.",
                   "category": "historical",
                   "coords": [
                         17.819248,
@@ -51455,7 +52742,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Amphitheater",
-                  "text": "Ein Freilichttheater in der Gemeinde Botkyrka.",
+                  "text": "Amphitheater, ein Freilufttheater in Botkyrka.",
                   "category": "cultural",
                   "coords": [
                         17.84483,
@@ -51464,7 +52751,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sven Tumbas park",
-                  "text": "Ein nach dem Sportler Sven Tumba benannter Park in Botkyrka.",
+                  "text": "Sven Tumbas park, ein Park zu Ehren des Eishockeyspielers Sven Tumba in Botkyrka.",
                   "category": "park",
                   "coords": [
                         17.832645,
@@ -51473,7 +52760,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Botkyrka 677",
-                  "text": "Überreste einer historischen Struktur in Botkyrka.",
+                  "text": "Botkyrka 677, ein weiteres archäologisches Denkmal in Botkyrka.",
                   "category": "historical",
                   "coords": [
                         17.857156,
@@ -51491,7 +52778,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Mellantorp",
-                  "text": "Historische Ruinen in Botkyrka.",
+                  "text": "Mellantorp, ein historischer Hof in Botkyrka.",
                   "category": "historical",
                   "coords": [
                         17.859142,
@@ -51500,7 +52787,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Centrumkyrkan",
-                  "text": "Ein Kirchengebäude im Zentrum von Tumba.",
+                  "text": "Centrumkyrkan in Tumba, Botkyrka.",
                   "category": "religious",
                   "coords": [
                         17.831723,
@@ -51509,7 +52796,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Tumba Kyrka",
-                  "text": "Eine christliche Kirche in Tumba, Botkyrka.",
+                  "text": "Tumba Kyrka ist eine moderne Pfarrkirche im Zentrum von Tumba, Botkyrka.",
                   "category": "religious",
                   "coords": [
                         17.826389,
@@ -51527,7 +52814,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hågelbyhus",
-                  "text": "Ein historisches Haus im Hågelby-Park.",
+                  "text": "Hågelbyhus, ein historisches Herrenhaus in Botkyrka.",
                   "category": "landmark",
                   "coords": [
                         17.830894,
@@ -51574,7 +52861,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "hu": [
             {
                   "name": "Ekholmen",
-                  "text": "Természetvédelmi terület Botkyrka községben.",
+                  "text": "Ekholmen, egy természetes tölgyes terület Botkyrkában.",
                   "category": "natural",
                   "coords": [
                         17.808661,
@@ -51592,7 +52879,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Botkyrka 203:1",
-                  "text": "Régészeti lelőhely Botkyrka községben.",
+                  "text": "Botkyrka 203:1, régészeti lelőhely őskori településmaradványokkal Botkyrkában.",
                   "category": "historical",
                   "coords": [
                         17.828708,
@@ -51601,7 +52888,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Botkyrka 355:1",
-                  "text": "Régészeti lelőhely Botkyrkában.",
+                  "text": "Botkyrka 355:1, egy másik őskori lelőhely Botkyrkában.",
                   "category": "historical",
                   "coords": [
                         17.831844,
@@ -51610,7 +52897,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Botkyrka 357:1",
-                  "text": "Történelmi régészeti maradványok Botkyrkában.",
+                  "text": "Botkyrka 357:1, egy régészeti emlék Botkyrkában.",
                   "category": "historical",
                   "coords": [
                         17.832678,
@@ -51619,7 +52906,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Botkyrka 193:1",
-                  "text": "Bejegyzett régészeti lelőhely Botkyrkában.",
+                  "text": "Botkyrka 193:1, egy régi településhely Botkyrkában.",
                   "category": "historical",
                   "coords": [
                         17.86835,
@@ -51628,7 +52915,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Tumbascenen",
-                  "text": "Színházi színpad Tumbában, Botkyrka községben.",
+                  "text": "Tumbascenen, egy szabadtéri színpad Botkyrkában.",
                   "category": "cultural",
                   "coords": [
                         17.835401,
@@ -51637,7 +52924,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Fornåker",
-                  "text": "Régészeti lelőhely Botkyrkában.",
+                  "text": "Fornåker, egy ősi szántóföld a történelem előtti időkből Botkyrkában.",
                   "category": "historical",
                   "coords": [
                         17.819248,
@@ -51646,7 +52933,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Amphitheater",
-                  "text": "Szabadtéri színház Botkyrka községben.",
+                  "text": "Amphitheater, egy szabadtéri színház Botkyrkában.",
                   "category": "cultural",
                   "coords": [
                         17.84483,
@@ -51655,7 +52942,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sven Tumbas park",
-                  "text": "Sven Tumba sportolóról elnevezett park Botkyrkában.",
+                  "text": "Sven Tumbas park, egy park Sven Tumba jégkorongozó tiszteletére Botkyrkában.",
                   "category": "park",
                   "coords": [
                         17.832645,
@@ -51664,7 +52951,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Botkyrka 677",
-                  "text": "Történelmi építmény maradványai Botkyrkában.",
+                  "text": "Botkyrka 677, egy újabb régészeti emlék Botkyrkában.",
                   "category": "historical",
                   "coords": [
                         17.857156,
@@ -51682,7 +52969,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Mellantorp",
-                  "text": "Történelmi romok Botkyrkában.",
+                  "text": "Mellantorp, egy történelmi tanya Botkyrkában.",
                   "category": "historical",
                   "coords": [
                         17.859142,
@@ -51691,7 +52978,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Centrumkyrkan",
-                  "text": "Egy templomépület Tumba központjában.",
+                  "text": "Centrumkyrkan Tumbában, Botkyrkában.",
                   "category": "religious",
                   "coords": [
                         17.831723,
@@ -51700,7 +52987,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Tumba Kyrka",
-                  "text": "Keresztény templom Tumbában, Botkyrkában.",
+                  "text": "Tumba Kyrka egy modern plébániatemplom Tumba központjában, Botkyrkában.",
                   "category": "religious",
                   "coords": [
                         17.826389,
@@ -51718,7 +53005,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hågelbyhus",
-                  "text": "Történelmi ház a Hågelby parkban.",
+                  "text": "Hågelbyhus, egy történelmi kúria Botkyrkában.",
                   "category": "landmark",
                   "coords": [
                         17.830894,
@@ -51765,7 +53052,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "ro": [
             {
                   "name": "Ekholmen",
-                  "text": "O rezervație naturală în comuna Botkyrka.",
+                  "text": "Ekholmen, o zonă naturală cu pădure de stejari în Botkyrka.",
                   "category": "natural",
                   "coords": [
                         17.808661,
@@ -51783,7 +53070,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Botkyrka 203:1",
-                  "text": "Un sit arheologic în comuna Botkyrka.",
+                  "text": "Botkyrka 203:1, un sit arheologic cu rămășițe de așezări preistorice în Botkyrka.",
                   "category": "historical",
                   "coords": [
                         17.828708,
@@ -51792,7 +53079,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Botkyrka 355:1",
-                  "text": "Un sit arheologic în Botkyrka.",
+                  "text": "Botkyrka 355:1, un alt sit preistoric în Botkyrka.",
                   "category": "historical",
                   "coords": [
                         17.831844,
@@ -51801,7 +53088,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Botkyrka 357:1",
-                  "text": "Vestigii arheologice istorice în Botkyrka.",
+                  "text": "Botkyrka 357:1, un monument arheologic în Botkyrka.",
                   "category": "historical",
                   "coords": [
                         17.832678,
@@ -51810,7 +53097,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Botkyrka 193:1",
-                  "text": "Un sit arheologic înregistrat în Botkyrka.",
+                  "text": "Botkyrka 193:1, o veche locație de așezare în Botkyrka.",
                   "category": "historical",
                   "coords": [
                         17.86835,
@@ -51819,7 +53106,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Tumbascenen",
-                  "text": "O scenă de teatru în Tumba, Botkyrka.",
+                  "text": "Tumbascenen, o scenă în aer liber în Botkyrka.",
                   "category": "cultural",
                   "coords": [
                         17.835401,
@@ -51828,7 +53115,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Fornåker",
-                  "text": "Un sit arheologic în Botkyrka.",
+                  "text": "Fornåker, un câmp agricol străvechi din timpuri preistorice în Botkyrka.",
                   "category": "historical",
                   "coords": [
                         17.819248,
@@ -51837,7 +53124,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Amphitheater",
-                  "text": "Un amfiteatru în comuna Botkyrka.",
+                  "text": "Amphitheater, un teatru în aer liber în Botkyrka.",
                   "category": "cultural",
                   "coords": [
                         17.84483,
@@ -51846,7 +53133,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sven Tumbas park",
-                  "text": "Un parc în Botkyrka numit după sportivul Sven Tumba.",
+                  "text": "Sven Tumbas park, un parc în onoarea jucătorului de hochei Sven Tumba în Botkyrka.",
                   "category": "park",
                   "coords": [
                         17.832645,
@@ -51855,7 +53142,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Botkyrka 677",
-                  "text": "Vestigiile unei structuri istorice în Botkyrka.",
+                  "text": "Botkyrka 677, un alt monument arheologic în Botkyrka.",
                   "category": "historical",
                   "coords": [
                         17.857156,
@@ -51873,7 +53160,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Mellantorp",
-                  "text": "Ruine istorice în Botkyrka.",
+                  "text": "Mellantorp, o fermă istorică în Botkyrka.",
                   "category": "historical",
                   "coords": [
                         17.859142,
@@ -51882,7 +53169,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Centrumkyrkan",
-                  "text": "O clădire bisericească în centrul localității Tumba.",
+                  "text": "Centrumkyrkan în Tumba, Botkyrka.",
                   "category": "religious",
                   "coords": [
                         17.831723,
@@ -51891,7 +53178,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Tumba Kyrka",
-                  "text": "O biserică creștină în Tumba, Botkyrka.",
+                  "text": "Tumba Kyrka este o biserică parohială modernă în centrul orașului Tumba, Botkyrka.",
                   "category": "religious",
                   "coords": [
                         17.826389,
@@ -51909,7 +53196,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hågelbyhus",
-                  "text": "O casă istorică în parcul Hågelby.",
+                  "text": "Hågelbyhus, un conac istoric în Botkyrka.",
                   "category": "landmark",
                   "coords": [
                         17.830894,
@@ -51956,7 +53243,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
       "en": [
             {
                   "name": "Ekholmen",
-                  "text": "A nature reserve in the Botkyrka municipality.",
+                  "text": "Ekholmen, a natural oak-wooded area in Botkyrka.",
                   "category": "natural",
                   "coords": [
                         17.808661,
@@ -51974,7 +53261,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Botkyrka 203:1",
-                  "text": "An archaeological site in the Botkyrka municipality.",
+                  "text": "Botkyrka 203:1, an archaeological site with prehistoric settlement remains in Botkyrka.",
                   "category": "historical",
                   "coords": [
                         17.828708,
@@ -51983,7 +53270,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Botkyrka 355:1",
-                  "text": "An archaeological site in Botkyrka.",
+                  "text": "Botkyrka 355:1, another prehistoric site in Botkyrka.",
                   "category": "historical",
                   "coords": [
                         17.831844,
@@ -51992,7 +53279,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Botkyrka 357:1",
-                  "text": "Historic archaeological remains in Botkyrka.",
+                  "text": "Botkyrka 357:1, an archaeological monument in Botkyrka.",
                   "category": "historical",
                   "coords": [
                         17.832678,
@@ -52001,7 +53288,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Botkyrka 193:1",
-                  "text": "A registered archaeological site in Botkyrka.",
+                  "text": "Botkyrka 193:1, an old settlement site in Botkyrka.",
                   "category": "historical",
                   "coords": [
                         17.86835,
@@ -52010,7 +53297,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Tumbascenen",
-                  "text": "A theatre stage in Tumba, Botkyrka.",
+                  "text": "Tumbascenen, an open-air stage in Botkyrka.",
                   "category": "cultural",
                   "coords": [
                         17.835401,
@@ -52019,7 +53306,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Fornåker",
-                  "text": "An archaeological site in Botkyrka.",
+                  "text": "Fornåker, an ancient field from prehistoric times in Botkyrka.",
                   "category": "historical",
                   "coords": [
                         17.819248,
@@ -52028,7 +53315,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Amphitheater",
-                  "text": "An open-air theatre in the Botkyrka municipality.",
+                  "text": "Amphitheater, an outdoor theatre in Botkyrka.",
                   "category": "cultural",
                   "coords": [
                         17.84483,
@@ -52037,7 +53324,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Sven Tumbas park",
-                  "text": "A park in Botkyrka named after the athlete Sven Tumba.",
+                  "text": "Sven Tumbas park, a park honouring ice hockey player Sven Tumba in Botkyrka.",
                   "category": "park",
                   "coords": [
                         17.832645,
@@ -52046,7 +53333,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Botkyrka 677",
-                  "text": "Remains of a historic structure in Botkyrka.",
+                  "text": "Botkyrka 677, another archaeological monument in Botkyrka.",
                   "category": "historical",
                   "coords": [
                         17.857156,
@@ -52064,7 +53351,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Mellantorp",
-                  "text": "Historic ruins in Botkyrka.",
+                  "text": "Mellantorp, a historical farmstead in Botkyrka.",
                   "category": "historical",
                   "coords": [
                         17.859142,
@@ -52073,7 +53360,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Centrumkyrkan",
-                  "text": "A church building in the center of Tumba.",
+                  "text": "Centrumkyrkan in Tumba, Botkyrka.",
                   "category": "religious",
                   "coords": [
                         17.831723,
@@ -52082,7 +53369,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Tumba Kyrka",
-                  "text": "A Christian church in Tumba, Botkyrka.",
+                  "text": "Tumba Kyrka is a modern parish church located in the centre of Tumba, Botkyrka.",
                   "category": "religious",
                   "coords": [
                         17.826389,
@@ -52100,7 +53387,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hågelbyhus",
-                  "text": "A historic house located in Hågelby Park.",
+                  "text": "Hågelbyhus, a historic manor house in Botkyrka.",
                   "category": "landmark",
                   "coords": [
                         17.830894,
@@ -52211,7 +53498,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hundbadet",
-                  "text": "Hundestrand in Haninge.",
+                  "text": "Hundbadet ist ein hundefreundlicher Strand am Drevviken-See in Haninge.",
                   "category": "recreational",
                   "coords": [
                         18.155166,
@@ -52220,7 +53507,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Norrby Holme",
-                  "text": "Norrby Holme ist eine Badestelle in Haninge.",
+                  "text": "Norrby Holme, ein Erholungsgebiet mit Badeplatz an der Ostsee in Haninge.",
                   "category": "recreational",
                   "coords": [
                         18.157183,
@@ -52229,7 +53516,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lilla rudan badplats",
-                  "text": "Lilla Rudan ist eine Badestelle in der Nähe von Haninge.",
+                  "text": "Lilla rudan badplats, ein kleiner Badeplatz in Haninge.",
                   "category": "recreational",
                   "coords": [
                         18.128561,
@@ -52501,7 +53788,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hundbadet",
-                  "text": "Kutyastrand Haningében.",
+                  "text": "Hundbadet egy kutyabarát strand a Drevviken-tónál Haningében.",
                   "category": "recreational",
                   "coords": [
                         18.155166,
@@ -52510,7 +53797,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Norrby Holme",
-                  "text": "Norrby Holme egy strandfürdő Haningében.",
+                  "text": "Norrby Holme, egy üdülőterület fürdőhellyel a Balti-tengernél Haningében.",
                   "category": "recreational",
                   "coords": [
                         18.157183,
@@ -52519,7 +53806,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lilla rudan badplats",
-                  "text": "Lilla Rudan egy strandfürdő Haninge közelében.",
+                  "text": "Lilla rudan badplats, egy kis fürdőhely Haningében.",
                   "category": "recreational",
                   "coords": [
                         18.128561,
@@ -52791,7 +54078,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hundbadet",
-                  "text": "Plajă pentru câini în Haninge.",
+                  "text": "Hundbadet este o plajă prietenoasă cu câinii pe lacul Drevviken din Haninge.",
                   "category": "recreational",
                   "coords": [
                         18.155166,
@@ -52800,7 +54087,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Norrby Holme",
-                  "text": "Norrby Holme este o zonă de plajă în Haninge.",
+                  "text": "Norrby Holme, o zonă de agrement cu plajă la Marea Baltică în Haninge.",
                   "category": "recreational",
                   "coords": [
                         18.157183,
@@ -52809,7 +54096,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lilla rudan badplats",
-                  "text": "Lilla Rudan este o zonă de plajă lângă Haninge.",
+                  "text": "Lilla rudan badplats, o mică plajă în Haninge.",
                   "category": "recreational",
                   "coords": [
                         18.128561,
@@ -53081,7 +54368,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Hundbadet",
-                  "text": "Dog beach in Haninge.",
+                  "text": "Hundbadet is a dog-friendly beach on Lake Drevviken in Haninge.",
                   "category": "recreational",
                   "coords": [
                         18.155166,
@@ -53090,7 +54377,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Norrby Holme",
-                  "text": "Norrby Holme is a swimming area in Haninge.",
+                  "text": "Norrby Holme, a recreation area with a Baltic Sea beach in Haninge.",
                   "category": "recreational",
                   "coords": [
                         18.157183,
@@ -53099,7 +54386,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
             },
             {
                   "name": "Lilla rudan badplats",
-                  "text": "Lilla Rudan is a swimming area near Haninge.",
+                  "text": "Lilla rudan badplats, a small bathing spot in Haninge.",
                   "category": "recreational",
                   "coords": [
                         18.128561,

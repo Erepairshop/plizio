@@ -7,7 +7,7 @@ export const saintvincentCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Fort Charlotte",
-                  "text": "Fort Charlotte ist ein historisches, von den Briten erbautes Fort in Kingstown.",
+                  "text": "Festung auf einem Hügel mit Blick auf den Hafen von Kingstown.",
                   "category": "fortress",
                   "coords": [
                         -61.242266,
@@ -16,7 +16,7 @@ export const saintvincentCitiesV2: POI[] = [
             },
             {
                   "name": "Sharpes Petroglyphs",
-                  "text": "Sharpes Petroglyphs ist eine archäologische Stätte in Kingstown.",
+                  "text": "Alte Felsritzungen (Petroglyphen) nahe Kingstown.",
                   "category": "historical",
                   "coords": [
                         -61.222567,
@@ -25,7 +25,7 @@ export const saintvincentCitiesV2: POI[] = [
             },
             {
                   "name": "National Trust/Old Public Library",
-                  "text": "Der National Trust/Old Public Library ist ein Museum in Kingstown.",
+                  "text": "Museum im historischen Gebäude der Alten Öffentlichen Bibliothek in Kingstown.",
                   "category": "museum",
                   "coords": [
                         -61.223063,
@@ -34,7 +34,7 @@ export const saintvincentCitiesV2: POI[] = [
             },
             {
                   "name": "Kingstown Bay",
-                  "text": "Die Kingstown Bay ist eine Bucht in der Nähe der Stadt Kingstown.",
+                  "text": "Natürliche Bucht mit Stränden in Kingstown.",
                   "category": "landmark",
                   "coords": [
                         -61.232644,
@@ -54,7 +54,7 @@ export const saintvincentCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Fort Charlotte",
-                  "text": "A Fort Charlotte egy történelmi brit építésű erődítmény Kingstownban.",
+                  "text": "Erőd a dombtetőn, rálátással Kingstown kikötőjére.",
                   "category": "fortress",
                   "coords": [
                         -61.242266,
@@ -63,7 +63,7 @@ export const saintvincentCitiesV2: POI[] = [
             },
             {
                   "name": "Sharpes Petroglyphs",
-                  "text": "A Sharpes Petroglyphs egy régészeti lelőhely Kingstownban.",
+                  "text": "Ősi sziklavésetek (petroglifák) Kingstown közelében.",
                   "category": "historical",
                   "coords": [
                         -61.222567,
@@ -72,7 +72,7 @@ export const saintvincentCitiesV2: POI[] = [
             },
             {
                   "name": "National Trust/Old Public Library",
-                  "text": "A National Trust/Old Public Library egy múzeum Kingstown városában.",
+                  "text": "Múzeum a Kingstown-i Régi Közkönyvtár történelmi épületében.",
                   "category": "museum",
                   "coords": [
                         -61.223063,
@@ -81,7 +81,7 @@ export const saintvincentCitiesV2: POI[] = [
             },
             {
                   "name": "Kingstown Bay",
-                  "text": "A Kingstown Bay egy öböl Kingstown városa mellett.",
+                  "text": "Természetes öböl strandokkal Kingstownban.",
                   "category": "landmark",
                   "coords": [
                         -61.232644,
@@ -101,7 +101,7 @@ export const saintvincentCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Fort Charlotte",
-                  "text": "Fort Charlotte este un fort istoric construit de britanici situat în Kingstown.",
+                  "text": "Fortăreață pe un deal cu vedere asupra portului Kingstown.",
                   "category": "fortress",
                   "coords": [
                         -61.242266,
@@ -110,7 +110,7 @@ export const saintvincentCitiesV2: POI[] = [
             },
             {
                   "name": "Sharpes Petroglyphs",
-                  "text": "Sharpes Petroglyphs este un sit arheologic situat în Kingstown.",
+                  "text": "Petroglife antice lângă Kingstown.",
                   "category": "historical",
                   "coords": [
                         -61.222567,
@@ -119,7 +119,7 @@ export const saintvincentCitiesV2: POI[] = [
             },
             {
                   "name": "National Trust/Old Public Library",
-                  "text": "National Trust/Old Public Library este un muzeu situat în Kingstown.",
+                  "text": "Muzeu în clădirea istorică a Vechii Biblioteci Publice din Kingstown.",
                   "category": "museum",
                   "coords": [
                         -61.223063,
@@ -128,7 +128,7 @@ export const saintvincentCitiesV2: POI[] = [
             },
             {
                   "name": "Kingstown Bay",
-                  "text": "Kingstown Bay este un golf situat lângă orașul Kingstown.",
+                  "text": "Golf natural cu plaje în Kingstown.",
                   "category": "landmark",
                   "coords": [
                         -61.232644,
@@ -148,7 +148,7 @@ export const saintvincentCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Fort Charlotte",
-                  "text": "Fort Charlotte is a historic British-built fort located in Kingstown.",
+                  "text": "Hilltop fortress overlooking Kingstown harbour.",
                   "category": "fortress",
                   "coords": [
                         -61.242266,
@@ -157,7 +157,7 @@ export const saintvincentCitiesV2: POI[] = [
             },
             {
                   "name": "Sharpes Petroglyphs",
-                  "text": "Sharpes Petroglyphs is an archaeological site located in Kingstown.",
+                  "text": "Ancient petroglyph carvings near Kingstown.",
                   "category": "historical",
                   "coords": [
                         -61.222567,
@@ -166,7 +166,7 @@ export const saintvincentCitiesV2: POI[] = [
             },
             {
                   "name": "National Trust/Old Public Library",
-                  "text": "The National Trust/Old Public Library is a museum situated in Kingstown.",
+                  "text": "Museum housed in the historic Old Public Library building in Kingstown.",
                   "category": "museum",
                   "coords": [
                         -61.223063,
@@ -175,7 +175,7 @@ export const saintvincentCitiesV2: POI[] = [
             },
             {
                   "name": "Kingstown Bay",
-                  "text": "Kingstown Bay is a bay located by the city of Kingstown.",
+                  "text": "Natural bay with beaches in Kingstown.",
                   "category": "landmark",
                   "coords": [
                         -61.232644,
@@ -241,7 +241,7 @@ export const saintvincentCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Pirates of the Caribbean Movie Set Location",
-                  "text": "Der Drehort des Films Pirates of the Caribbean ist eine Attraktion in Barrouallie.",
+                  "text": "Filmset der Fluch der Karibik-Filme an der Küste nahe Barrouallie.",
                   "category": "landmark",
                   "coords": [
                         -61.271276,
@@ -252,7 +252,7 @@ export const saintvincentCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Pirates of the Caribbean Movie Set Location",
-                  "text": "A Karib-tenger kalózai filmforgatási helyszín egy látványosság Barrouallie-ban.",
+                  "text": "A Karib-tenger kalózai filmek forgatási helyszíne a parton Barrouallie közelében.",
                   "category": "landmark",
                   "coords": [
                         -61.271276,
@@ -263,7 +263,7 @@ export const saintvincentCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Pirates of the Caribbean Movie Set Location",
-                  "text": "Locația de filmare a filmului Pirații din Caraibe este o atracție din Barrouallie.",
+                  "text": "Locație de film folosită în filmele Pirații din Caraibe pe coasta lângă Barrouallie.",
                   "category": "landmark",
                   "coords": [
                         -61.271276,
@@ -274,7 +274,7 @@ export const saintvincentCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Pirates of the Caribbean Movie Set Location",
-                  "text": "The Pirates of the Caribbean Movie Set Location is a tourist attraction in Barrouallie.",
+                  "text": "Film set location used in Pirates of the Caribbean movies on the coast near Barrouallie.",
                   "category": "landmark",
                   "coords": [
                         -61.271276,
@@ -327,7 +327,124 @@ export const saintvincentCitiesV2: POI[] = [
     image: "/poi-images/saintvincent-barrouallie-cities-v2.webp",
   },
   {
-    id: "saintvincent-layou-cities-v2", "sights": {"de": [{"name": "Layou Petroglyphs", "text": "Layou Petroglyphs ist eine archäologische Stätte in Layou.", "category": "historical", "coords": [-61.257819, 13.209778]}, {"name": "Buccament Beach", "text": "Buccament Beach empfängt seine Gäste mit der typischen natürlichen Schönheit von Layou in Saint Vincent. Das sanft abfallende Ufer und die einladenden Wellen machen den Strand zu einem wunderbaren Ort für Wasserratten. Ein Besuch am Vormittag sichert oft die besten Bedingungen für eine ausgedehnte Schwimmrunde.", "category": "recreational", "coords": [-61.267634, 13.192005]}, {"name": "Buccament Petroglyphs", "text": "Buccament Petroglyphs ist eine archäologische Stätte in Layou.", "category": "historical", "coords": [-61.263594, 13.190298]}], "hu": [{"name": "Layou Petroglyphs", "text": "Layou Petroglyphs egy régészeti lelőhely Layou területén.", "category": "historical", "coords": [-61.257819, 13.209778]}, {"name": "Buccament Beach", "text": "A Buccament Beach Saint Vincent szigetén, Layou jellegzetes természeti szépségével fogadja a vendégeket. A lassan mélyülő part és a hívogató hullámok a strandot a víz szerelmeseinek csodálatos célpontjává teszik. Egy délelőtti látogatás gyakran a legjobb feltételeket biztosítja egy hosszas úszáshoz.", "category": "recreational", "coords": [-61.267634, 13.192005]}, {"name": "Buccament Petroglyphs", "text": "Buccament Petroglyphs egy régészeti lelőhely Layou területén.", "category": "historical", "coords": [-61.263594, 13.190298]}], "ro": [{"name": "Layou Petroglyphs", "text": "Layou Petroglyphs este un sit arheologic în Layou.", "category": "historical", "coords": [-61.257819, 13.209778]}, {"name": "Buccament Beach", "text": "Buccament Beach își întâmpină oaspeții cu frumusețea naturală tipică a localității Layou din Sfântul Vincențiu. Țărmul ușor înclinat și valurile primitoare fac din plajă un loc minunat pentru iubitorii de apă. O vizită dimineața asigură adesea cele mai bune condiții pentru o sesiune prelungită de înot.", "category": "recreational", "coords": [-61.267634, 13.192005]}, {"name": "Buccament Petroglyphs", "text": "Buccament Petroglyphs este un sit arheologic în Layou.", "category": "historical", "coords": [-61.263594, 13.190298]}], "en": [{"name": "Layou Petroglyphs", "text": "Layou Petroglyphs is an archaeological site located in Layou.", "category": "historical", "coords": [-61.257819, 13.209778]}, {"name": "Buccament Beach", "text": "Buccament Beach welcomes its guests with the quintessential natural beauty of Layou in Saint Vincent. The gently sloping shore and inviting waves make the beach a wonderful spot for water lovers. A morning visit often secures the best conditions for an extended swimming session.", "category": "recreational", "coords": [-61.267634, 13.192005]}, {"name": "Buccament Petroglyphs", "text": "Buccament Petroglyphs is an archaeological site located in Layou.", "category": "historical", "coords": [-61.263594, 13.190298]}]},
+    id: "saintvincent-layou-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Layou Petroglyphs",
+                  "text": "Präkolumbianische Petroglyphen am Layou River in Layou.",
+                  "category": "historical",
+                  "coords": [
+                        -61.257819,
+                        13.209778
+                  ]
+            },
+            {
+                  "name": "Buccament Beach",
+                  "text": "Buccament Beach empfängt seine Gäste mit der typischen natürlichen Schönheit von Layou in Saint Vincent. Das sanft abfallende Ufer und die einladenden Wellen machen den Strand zu einem wunderbaren Ort für Wasserratten. Ein Besuch am Vormittag sichert oft die besten Bedingungen für eine ausgedehnte Schwimmrunde.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.267634,
+                        13.192005
+                  ]
+            },
+            {
+                  "name": "Buccament Petroglyphs",
+                  "text": "Petroglyphen im Buccament Valley nahe Layou.",
+                  "category": "historical",
+                  "coords": [
+                        -61.263594,
+                        13.190298
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Layou Petroglyphs",
+                  "text": "Kolumbusz előtti petroglifák a Layou folyó mentén Layouban.",
+                  "category": "historical",
+                  "coords": [
+                        -61.257819,
+                        13.209778
+                  ]
+            },
+            {
+                  "name": "Buccament Beach",
+                  "text": "A Buccament Beach Saint Vincent szigetén, Layou jellegzetes természeti szépségével fogadja a vendégeket. A lassan mélyülő part és a hívogató hullámok a strandot a víz szerelmeseinek csodálatos célpontjává teszik. Egy délelőtti látogatás gyakran a legjobb feltételeket biztosítja egy hosszas úszáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.267634,
+                        13.192005
+                  ]
+            },
+            {
+                  "name": "Buccament Petroglyphs",
+                  "text": "Petroglifák a Buccament-völgyben Layou közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -61.263594,
+                        13.190298
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Layou Petroglyphs",
+                  "text": "Petroglife precolumbiene de-a lungul râului Layou în Layou.",
+                  "category": "historical",
+                  "coords": [
+                        -61.257819,
+                        13.209778
+                  ]
+            },
+            {
+                  "name": "Buccament Beach",
+                  "text": "Buccament Beach își întâmpină oaspeții cu frumusețea naturală tipică a localității Layou din Sfântul Vincențiu. Țărmul ușor înclinat și valurile primitoare fac din plajă un loc minunat pentru iubitorii de apă. O vizită dimineața asigură adesea cele mai bune condiții pentru o sesiune prelungită de înot.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.267634,
+                        13.192005
+                  ]
+            },
+            {
+                  "name": "Buccament Petroglyphs",
+                  "text": "Petroglife în Valea Buccament lângă Layou.",
+                  "category": "historical",
+                  "coords": [
+                        -61.263594,
+                        13.190298
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Layou Petroglyphs",
+                  "text": "Pre-Columbian petroglyphs along the Layou River in Layou.",
+                  "category": "historical",
+                  "coords": [
+                        -61.257819,
+                        13.209778
+                  ]
+            },
+            {
+                  "name": "Buccament Beach",
+                  "text": "Buccament Beach welcomes its guests with the quintessential natural beauty of Layou in Saint Vincent. The gently sloping shore and inviting waves make the beach a wonderful spot for water lovers. A morning visit often secures the best conditions for an extended swimming session.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.267634,
+                        13.192005
+                  ]
+            },
+            {
+                  "name": "Buccament Petroglyphs",
+                  "text": "Petroglyphs in the Buccament Valley near Layou.",
+                  "category": "historical",
+                  "coords": [
+                        -61.263594,
+                        13.190298
+                  ]
+            }
+      ]
+},
     parent: "VC",
     type: "town",
     name: { de: "Layou", hu: "Layou", ro: "Layou", en: "Layou" },
@@ -372,7 +489,196 @@ export const saintvincentCitiesV2: POI[] = [
     image: "/poi-images/saintvincent-layou-cities-v2.webp",
   },
   {
-    id: "saintvincent-chateaubelair-cities-v2", "sights": {"de": [{"name": "Wallibou Beach", "text": "Umgeben von der beeindruckenden Landschaft von Chateaubelair, bietet Wallibou Beach einen unberührten Küstenabschnitt auf Saint Vincent. Die raue, authentische Atmosphäre lädt zu spannenden Entdeckungstouren und erfrischenden Pausen am Meer ein. Es empfiehlt sich, Badeschuhe für den angenehmeren Einstieg ins Wasser mitzubringen.", "category": "recreational", "coords": [-61.229338, 13.316358]}, {"name": "Richmond Beach", "text": "An der Küste von Chateaubelair gelegen, ist Richmond Beach ein lohnendes Ziel für Strandliebhaber auf Saint Vincent. Die ruhige Ausstrahlung der Gegend sorgt für entspannte Stunden unter der karibischen Sonne. Packen Sie sich ein gutes Picknick ein, um den Aufenthalt am Strand voll auszukosten.", "category": "recreational", "coords": [-61.233891, 13.312764]}, {"name": "Volcano Oservatory", "text": "Aussichtspunkt in Chateaubelair.", "category": "natural", "coords": [-61.250306, 13.274665]}, {"name": "The Thirteen Stones of Chateaubelair", "text": "Attraktion in Chateaubelair.", "category": "landmark", "coords": [-61.244605, 13.291225]}, {"name": "Darkview Falls", "text": "Wasserfall in Chateaubelair.", "category": "landmark", "coords": [-61.22102, 13.290751]}], "hu": [{"name": "Wallibou Beach", "text": "A Chateaubelair lenyűgöző tájával körülvett Wallibou Beach egy érintetlen partszakaszt kínál Saint Vincent szigetén. A nyers, autentikus atmoszféra izgalmas felfedezőutakra és frissítő tengeri szünetekre csábít. Érdemes fürdőcipőt hozni, hogy kényelmesebb legyen a vízbe jutás.", "category": "recreational", "coords": [-61.229338, 13.316358]}, {"name": "Richmond Beach", "text": "A Chateaubelair partjainál fekvő Richmond Beach egy érdemes úti cél a strandolás szerelmeseinek Saint Vincent szigetén. A környék nyugodt kisugárzása gondoskodik a pihentető órákról a karibi nap alatt. Csomagoljon be egy jó pikniket, hogy a tengerparti tartózkodást a lehető legteljesebben kiélvezhesse.", "category": "recreational", "coords": [-61.233891, 13.312764]}, {"name": "Volcano Oservatory", "text": "Kilátópont Chateaubelairben.", "category": "natural", "coords": [-61.250306, 13.274665]}, {"name": "The Thirteen Stones of Chateaubelair", "text": "Látnivaló Chateaubelairben.", "category": "landmark", "coords": [-61.244605, 13.291225]}, {"name": "Darkview Falls", "text": "Vízesés Chateaubelairben.", "category": "landmark", "coords": [-61.22102, 13.290751]}], "ro": [{"name": "Wallibou Beach", "text": "Înconjurată de peisajul impresionant din Chateaubelair, Wallibou Beach oferă o porțiune de coastă neatinsă în Sfântul Vincențiu. Atmosfera crudă, autentică vă invită la excursii de descoperire captivante și pauze revigorante la mare. Este recomandat să aduceți încălțăminte de baie pentru o intrare mai plăcută în apă.", "category": "recreational", "coords": [-61.229338, 13.316358]}, {"name": "Richmond Beach", "text": "Situată pe coasta din Chateaubelair, Richmond Beach este o destinație valoroasă pentru iubitorii de plajă din Sfântul Vincențiu. Aura liniștită a zonei asigură ore de relaxare sub soarele din Caraibe. Împachetați un picnic bun pentru a vă bucura din plin de timpul petrecut pe plajă.", "category": "recreational", "coords": [-61.233891, 13.312764]}, {"name": "Volcano Oservatory", "text": "Punct de observație în Chateaubelair.", "category": "natural", "coords": [-61.250306, 13.274665]}, {"name": "The Thirteen Stones of Chateaubelair", "text": "Atracție în Chateaubelair.", "category": "landmark", "coords": [-61.244605, 13.291225]}, {"name": "Darkview Falls", "text": "Cascadă în Chateaubelair.", "category": "landmark", "coords": [-61.22102, 13.290751]}], "en": [{"name": "Wallibou Beach", "text": "Surrounded by the impressive landscape of Chateaubelair, Wallibou Beach offers an unspoiled stretch of coastline on Saint Vincent. The rugged, authentic atmosphere invites exciting exploration and refreshing breaks by the sea. It is recommended to bring water shoes for a more comfortable entry into the water.", "category": "recreational", "coords": [-61.229338, 13.316358]}, {"name": "Richmond Beach", "text": "Situated along the coast of Chateaubelair, Richmond Beach is a worthwhile destination for beach lovers on Saint Vincent. The peaceful aura of the area ensures relaxing hours under the Caribbean sun. Pack a nice picnic to make the absolute most of your time on the shore.", "category": "recreational", "coords": [-61.233891, 13.312764]}, {"name": "Volcano Oservatory", "text": "Viewpoint in Chateaubelair.", "category": "natural", "coords": [-61.250306, 13.274665]}, {"name": "The Thirteen Stones of Chateaubelair", "text": "Attraction in Chateaubelair.", "category": "landmark", "coords": [-61.244605, 13.291225]}, {"name": "Darkview Falls", "text": "Waterfall in Chateaubelair.", "category": "landmark", "coords": [-61.22102, 13.290751]}]},
+    id: "saintvincent-chateaubelair-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wallibou Beach",
+                  "text": "Umgeben von der beeindruckenden Landschaft von Chateaubelair, bietet Wallibou Beach einen unberührten Küstenabschnitt auf Saint Vincent. Die raue, authentische Atmosphäre lädt zu spannenden Entdeckungstouren und erfrischenden Pausen am Meer ein. Es empfiehlt sich, Badeschuhe für den angenehmeren Einstieg ins Wasser mitzubringen.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.229338,
+                        13.316358
+                  ]
+            },
+            {
+                  "name": "Richmond Beach",
+                  "text": "An der Küste von Chateaubelair gelegen, ist Richmond Beach ein lohnendes Ziel für Strandliebhaber auf Saint Vincent. Die ruhige Ausstrahlung der Gegend sorgt für entspannte Stunden unter der karibischen Sonne. Packen Sie sich ein gutes Picknick ein, um den Aufenthalt am Strand voll auszukosten.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.233891,
+                        13.312764
+                  ]
+            },
+            {
+                  "name": "Volcano Oservatory",
+                  "text": "Observatorium zur Überwachung des aktiven Vulkans La Soufrière nahe Chateaubelair.",
+                  "category": "natural",
+                  "coords": [
+                        -61.250306,
+                        13.274665
+                  ]
+            },
+            {
+                  "name": "The Thirteen Stones of Chateaubelair",
+                  "text": "Megalithische Anordnung von dreizehn Steinen nahe Chateaubelair.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.244605,
+                        13.291225
+                  ]
+            },
+            {
+                  "name": "Darkview Falls",
+                  "text": "Wasserfall im Regenwald nahe Chateaubelair.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.22102,
+                        13.290751
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wallibou Beach",
+                  "text": "A Chateaubelair lenyűgöző tájával körülvett Wallibou Beach egy érintetlen partszakaszt kínál Saint Vincent szigetén. A nyers, autentikus atmoszféra izgalmas felfedezőutakra és frissítő tengeri szünetekre csábít. Érdemes fürdőcipőt hozni, hogy kényelmesebb legyen a vízbe jutás.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.229338,
+                        13.316358
+                  ]
+            },
+            {
+                  "name": "Richmond Beach",
+                  "text": "A Chateaubelair partjainál fekvő Richmond Beach egy érdemes úti cél a strandolás szerelmeseinek Saint Vincent szigetén. A környék nyugodt kisugárzása gondoskodik a pihentető órákról a karibi nap alatt. Csomagoljon be egy jó pikniket, hogy a tengerparti tartózkodást a lehető legteljesebben kiélvezhesse.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.233891,
+                        13.312764
+                  ]
+            },
+            {
+                  "name": "Volcano Oservatory",
+                  "text": "Obszervatórium az aktív La Soufrière vulkán megfigyelésére Chateaubelair közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -61.250306,
+                        13.274665
+                  ]
+            },
+            {
+                  "name": "The Thirteen Stones of Chateaubelair",
+                  "text": "Tizenhárom kő megalitikus elrendezése Chateaubelair közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.244605,
+                        13.291225
+                  ]
+            },
+            {
+                  "name": "Darkview Falls",
+                  "text": "Vízesés az esőerdőben Chateaubelair közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.22102,
+                        13.290751
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wallibou Beach",
+                  "text": "Înconjurată de peisajul impresionant din Chateaubelair, Wallibou Beach oferă o porțiune de coastă neatinsă în Sfântul Vincențiu. Atmosfera crudă, autentică vă invită la excursii de descoperire captivante și pauze revigorante la mare. Este recomandat să aduceți încălțăminte de baie pentru o intrare mai plăcută în apă.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.229338,
+                        13.316358
+                  ]
+            },
+            {
+                  "name": "Richmond Beach",
+                  "text": "Situată pe coasta din Chateaubelair, Richmond Beach este o destinație valoroasă pentru iubitorii de plajă din Sfântul Vincențiu. Aura liniștită a zonei asigură ore de relaxare sub soarele din Caraibe. Împachetați un picnic bun pentru a vă bucura din plin de timpul petrecut pe plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.233891,
+                        13.312764
+                  ]
+            },
+            {
+                  "name": "Volcano Oservatory",
+                  "text": "Observator pentru monitorizarea vulcanului activ La Soufrière lângă Chateaubelair.",
+                  "category": "natural",
+                  "coords": [
+                        -61.250306,
+                        13.274665
+                  ]
+            },
+            {
+                  "name": "The Thirteen Stones of Chateaubelair",
+                  "text": "Aliniament megalitic de treisprezece pietre lângă Chateaubelair.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.244605,
+                        13.291225
+                  ]
+            },
+            {
+                  "name": "Darkview Falls",
+                  "text": "Cascadă în pădurea tropicală lângă Chateaubelair.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.22102,
+                        13.290751
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wallibou Beach",
+                  "text": "Surrounded by the impressive landscape of Chateaubelair, Wallibou Beach offers an unspoiled stretch of coastline on Saint Vincent. The rugged, authentic atmosphere invites exciting exploration and refreshing breaks by the sea. It is recommended to bring water shoes for a more comfortable entry into the water.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.229338,
+                        13.316358
+                  ]
+            },
+            {
+                  "name": "Richmond Beach",
+                  "text": "Situated along the coast of Chateaubelair, Richmond Beach is a worthwhile destination for beach lovers on Saint Vincent. The peaceful aura of the area ensures relaxing hours under the Caribbean sun. Pack a nice picnic to make the absolute most of your time on the shore.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.233891,
+                        13.312764
+                  ]
+            },
+            {
+                  "name": "Volcano Oservatory",
+                  "text": "Observatory monitoring the active La Soufrière volcano near Chateaubelair.",
+                  "category": "natural",
+                  "coords": [
+                        -61.250306,
+                        13.274665
+                  ]
+            },
+            {
+                  "name": "The Thirteen Stones of Chateaubelair",
+                  "text": "Megalithic alignment of thirteen stones near Chateaubelair.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.244605,
+                        13.291225
+                  ]
+            },
+            {
+                  "name": "Darkview Falls",
+                  "text": "Waterfall in the rainforest near Chateaubelair.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.22102,
+                        13.290751
+                  ]
+            }
+      ]
+},
     parent: "VC",
     type: "town",
     name: { de: "Chateaubelair", hu: "Chateaubelair", ro: "Chateaubelair", en: "Chateaubelair" },
@@ -417,7 +723,340 @@ export const saintvincentCitiesV2: POI[] = [
     image: "/poi-images/saintvincent-chateaubelair-cities-v2.webp",
   },
   {
-    id: "saintvincent-port-elizabeth-cities-v2", "sights": {"de": [{"name": "Fort Hamilton", "text": "Fort Hamilton ist eine historische Festung in Port Elizabeth.", "category": "fortress", "coords": [-61.246314, 13.011348]}, {"name": "Bequia Heritage Museum", "text": "Das Bequia Heritage Museum zeigt lokale Geschichte in Port Elizabeth.", "category": "museum", "coords": [-61.232222, 12.991969]}, {"name": "Belmont Beach", "text": "Belmont Beach zieht sich als schöner Küstenstreifen durch Port Elizabeth und fängt die gelassene Stimmung von Saint Vincent ein. Die übersichtliche Uferlinie lädt zum Flanieren und zu kurzen, erfrischenden Bädern ein. Wenn Sie die Ruhe schätzen, ist ein Spaziergang im späten Nachmittagslicht besonders reizvoll.", "category": "recreational", "coords": [-61.238763, 13.004832]}, {"name": "Hope Bay Beach", "text": "Der weitläufige Sandstrand von Hope Bay Beach in Port Elizabeth ist ein herrliches Fleckchen Natur auf Saint Vincent. Besucher können sich hier auf entspannte Bademomente in einer idyllischen Umgebung freuen. Ein Besuch an Wochentagen verspricht meist besonders viel Freiraum für Erholungssuchende.", "category": "recreational", "coords": [-61.220111, 13.00649]}, {"name": "Princess Margaret Bay Beach", "text": "Als beliebter Badeort lockt Princess Margaret Bay Beach viele Gäste nach Port Elizabeth. Die einladenden Gewässer von Saint Vincent bieten hier ideale Bedingungen für Schwimmer und Sonnenanbeter. Um dem größten Andrang auszuweichen, lohnt sich ein Start in den Strandtag bereits am frühen Vormittag.", "category": "recreational", "coords": [-61.241433, 13.001649]}, {"name": "Spring Bay Beach", "text": "Spring Bay Beach ist ein beschaulicher Strandbereich in Port Elizabeth, der zum Durchatmen am Meer einlädt. Dieser Abschnitt auf Saint Vincent ist bestens geeignet, um fernab der Hektik das warme Karibikwasser zu genießen. Für einen langen Aufenthalt unter der Sonne empfiehlt es sich, ausreichend Trinkwasser bereitzuhalten.", "category": "recreational", "coords": [-61.222608, 13.019902]}, {"name": "Industry Bay Beach", "text": "An der Küste von Port Elizabeth formt Industry Bay Beach einen reizvollen Rückzugsort auf Saint Vincent. Die natürliche Beschaffenheit dieses Küstenstreifens bietet eine wunderschöne Kulisse für Spazieränge und Naturbeobachtungen. Nehmen Sie sich Zeit, um die beruhigende Wirkung der sanften Wellen auf sich wirken zu lassen.", "category": "recreational", "coords": [-61.217615, 13.024492]}, {"name": "Lower Bay", "text": "Lower Bay ist eine Bucht in Port Elizabeth.", "category": "landmark", "coords": [-61.246638, 12.997137]}, {"name": "Mount Peggy", "text": "Mount Peggy ist ein erhöhter Aussichtspunkt in Port Elizabeth.", "category": "natural", "coords": [-61.251916, 12.991774]}], "hu": [{"name": "Fort Hamilton", "text": "A Fort Hamilton egy történelmi erőd Port Elizabeth városában.", "category": "fortress", "coords": [-61.246314, 13.011348]}, {"name": "Bequia Heritage Museum", "text": "A Bequia Heritage Museum a helyi történelmet mutatja be Port Elizabethben.", "category": "museum", "coords": [-61.232222, 12.991969]}, {"name": "Belmont Beach", "text": "A Belmont Beach gyönyörű partvonalként húzódik végig Port Elizabeth-en, és hűen tükrözi Saint Vincent nyugodt hangulatát. Az átlátható partszakasz sétálgatásra és rövid, frissítő fürdőzésekre csábít. Ha értékeli a csendet, a késő délutáni fényben tett séta különösen vonzó lehet.", "category": "recreational", "coords": [-61.238763, 13.004832]}, {"name": "Hope Bay Beach", "text": "A Port Elizabeth-ben található Hope Bay Beach kiterjedt homokos partja a természet egy csodálatos darabkája Saint Vincent szigetén. A látogatók itt idilli környezetben élvezhetik a pihentető fürdőzés pillanatait. Egy hétköznapi látogatás általában különösen sok szabad teret ígér a pihenni vágyók számára.", "category": "recreational", "coords": [-61.220111, 13.00649]}, {"name": "Princess Margaret Bay Beach", "text": "Kedvelt fürdőhelyként a Princess Margaret Bay Beach sok vendéget vonz Port Elizabeth-be. Saint Vincent hívogató vizei itt ideális feltételeket biztosítanak az úszók és a napozók számára. A legnagyobb tömeg elkerülése érdekében érdemes a strandnapot már kora délelőtt elkezdeni.", "category": "recreational", "coords": [-61.241433, 13.001649]}, {"name": "Spring Bay Beach", "text": "A Spring Bay Beach egy nyugodt tengerparti terület Port Elizabeth-ben, amely fellélegzésre hív a tengerparton. Saint Vincent ezen része tökéletesen alkalmas arra, hogy a rohanástól távol élvezzük a meleg karibi vizet. Egy hosszú, napon töltött tartózkodáshoz ajánlott elegendő ivóvizet készenlétben tartani.", "category": "recreational", "coords": [-61.222608, 13.019902]}, {"name": "Industry Bay Beach", "text": "A Port Elizabeth partvidékén formálódó Industry Bay Beach egy bájos menedék Saint Vincent szigetén. Ennek a partszakasznak a természetes jellege gyönyörű hátteret biztosít a sétákhoz és a természet megfigyeléséhez. Szánjon időt arra, hogy átadja magát a lágy hullámok nyugtató hatásának.", "category": "recreational", "coords": [-61.217615, 13.024492]}, {"name": "Lower Bay", "text": "A Lower Bay egy öböl Port Elizabeth közelében.", "category": "landmark", "coords": [-61.246638, 12.997137]}, {"name": "Mount Peggy", "text": "A Mount Peggy egy magaslati kilátó Port Elizabethben.", "category": "natural", "coords": [-61.251916, 12.991774]}], "ro": [{"name": "Fort Hamilton", "text": "Fort Hamilton este o fortăreață istorică situată în Port Elizabeth.", "category": "fortress", "coords": [-61.246314, 13.011348]}, {"name": "Bequia Heritage Museum", "text": "Muzeul de Patrimoniu Bequia expune istoria și cultura locală în Port Elizabeth.", "category": "museum", "coords": [-61.232222, 12.991969]}, {"name": "Belmont Beach", "text": "Belmont Beach se întinde ca o frumoasă fâșie de coastă prin Port Elizabeth și surprinde starea de spirit relaxată din Sfântul Vincențiu. Linia țărmului clară invită la plimbări și la băi scurte și răcoritoare. Dacă apreciați liniștea, o plimbare în lumina după-amiezii târzii este deosebit de atrăgătoare.", "category": "recreational", "coords": [-61.238763, 13.004832]}, {"name": "Hope Bay Beach", "text": "Plaja largă de nisip din Hope Bay Beach din Port Elizabeth este o zonă minunată de natură din Sfântul Vincențiu. Vizitatorii pot aștepta cu nerăbdare momente relaxante de înot într-un cadru idilic. O vizită în timpul săptămânii promite de obicei mult spațiu liber pentru cei care caută relaxare.", "category": "recreational", "coords": [-61.220111, 13.00649]}, {"name": "Princess Margaret Bay Beach", "text": "Fiind o stațiune de pe litoral populară, Princess Margaret Bay Beach atrage mulți oaspeți în Port Elizabeth. Apele primitoare din Sfântul Vincențiu oferă aici condiții ideale pentru înotători și iubitorii de soare. Pentru a evita cele mai mari aglomerații, merită să vă începeți ziua de plajă devreme, dimineața.", "category": "recreational", "coords": [-61.241433, 13.001649]}, {"name": "Spring Bay Beach", "text": "Spring Bay Beach este o zonă de plajă liniștită din Port Elizabeth care vă invită să respirați aerul mării. Această secțiune din Sfântul Vincențiu este perfectă pentru a vă bucura de apa caldă din Caraibe, departe de agitație. Pentru o ședere lungă sub soare, se recomandă să aveți la îndemână suficientă apă de băut.", "category": "recreational", "coords": [-61.222608, 13.019902]}, {"name": "Industry Bay Beach", "text": "Pe coasta din Port Elizabeth, Industry Bay Beach formează un refugiu fermecător pe Sfântul Vincențiu. Natura acestui țărm oferă un cadru frumos pentru plimbări și observarea naturii. Făceți-vă timp pentru a lăsa efectul calmant al valurilor blânde să lucreze asupra dumneavoastră.", "category": "recreational", "coords": [-61.217615, 13.024492]}, {"name": "Lower Bay", "text": "Lower Bay este un golf situat în Port Elizabeth.", "category": "landmark", "coords": [-61.246638, 12.997137]}, {"name": "Mount Peggy", "text": "Mount Peggy este un punct de belvedere în Port Elizabeth.", "category": "natural", "coords": [-61.251916, 12.991774]}], "en": [{"name": "Fort Hamilton", "text": "Fort Hamilton is a historic fortress located in Port Elizabeth.", "category": "fortress", "coords": [-61.246314, 13.011348]}, {"name": "Bequia Heritage Museum", "text": "The Bequia Heritage Museum exhibits local history and culture in Port Elizabeth.", "category": "museum", "coords": [-61.232222, 12.991969]}, {"name": "Belmont Beach", "text": "Belmont Beach stretches as a beautiful coastal strip through Port Elizabeth, capturing the serene mood of Saint Vincent. The straightforward shoreline invites leisurely strolls and short, refreshing dips in the water. If you appreciate tranquility, a walk in the late afternoon light is particularly appealing.", "category": "recreational", "coords": [-61.238763, 13.004832]}, {"name": "Hope Bay Beach", "text": "The extensive sandy expanse of Hope Bay Beach in Port Elizabeth is a magnificent slice of nature on Saint Vincent. Visitors can look forward to relaxing bathing moments in an idyllic setting. Stopping by on weekdays usually promises plenty of open space for those seeking to unwind.", "category": "recreational", "coords": [-61.220111, 13.00649]}, {"name": "Princess Margaret Bay Beach", "text": "As a popular bathing resort, Princess Margaret Bay Beach attracts many guests to Port Elizabeth. The inviting waters of Saint Vincent provide ideal conditions here for both swimmers and sun worshipers. To avoid the largest crowds, it is well worth starting your beach day in the early morning.", "category": "recreational", "coords": [-61.241433, 13.001649]}, {"name": "Spring Bay Beach", "text": "Spring Bay Beach is a tranquil beach area in Port Elizabeth that invites you to catch your breath by the sea. This section on Saint Vincent is perfectly suited for enjoying the warm Caribbean water far from any hustle and bustle. For a long stay under the sun, it is advisable to keep plenty of drinking water handy.", "category": "recreational", "coords": [-61.222608, 13.019902]}, {"name": "Industry Bay Beach", "text": "Along the coast of Port Elizabeth, Industry Bay Beach forms a charming retreat on Saint Vincent. The natural layout of this coastal strip provides a beautiful backdrop for walks and observing nature. Take your time to fully absorb the calming effect of the gentle waves.", "category": "recreational", "coords": [-61.217615, 13.024492]}, {"name": "Lower Bay", "text": "Lower Bay is a bay located in Port Elizabeth.", "category": "landmark", "coords": [-61.246638, 12.997137]}, {"name": "Mount Peggy", "text": "Mount Peggy is an elevated viewpoint offering sweeping vistas in Port Elizabeth.", "category": "natural", "coords": [-61.251916, 12.991774]}]},
+    id: "saintvincent-port-elizabeth-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fort Hamilton",
+                  "text": "Historisches Fort auf einem Hügel mit Blick auf Port Elizabeth.",
+                  "category": "fortress",
+                  "coords": [
+                        -61.246314,
+                        13.011348
+                  ]
+            },
+            {
+                  "name": "Bequia Heritage Museum",
+                  "text": "Das Bequia Heritage Museum zeigt lokale Geschichte in Port Elizabeth.",
+                  "category": "museum",
+                  "coords": [
+                        -61.232222,
+                        12.991969
+                  ]
+            },
+            {
+                  "name": "Belmont Beach",
+                  "text": "Belmont Beach zieht sich als schöner Küstenstreifen durch Port Elizabeth und fängt die gelassene Stimmung von Saint Vincent ein. Die übersichtliche Uferlinie lädt zum Flanieren und zu kurzen, erfrischenden Bädern ein. Wenn Sie die Ruhe schätzen, ist ein Spaziergang im späten Nachmittagslicht besonders reizvoll.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.238763,
+                        13.004832
+                  ]
+            },
+            {
+                  "name": "Hope Bay Beach",
+                  "text": "Der weitläufige Sandstrand von Hope Bay Beach in Port Elizabeth ist ein herrliches Fleckchen Natur auf Saint Vincent. Besucher können sich hier auf entspannte Bademomente in einer idyllischen Umgebung freuen. Ein Besuch an Wochentagen verspricht meist besonders viel Freiraum für Erholungssuchende.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.220111,
+                        13.00649
+                  ]
+            },
+            {
+                  "name": "Princess Margaret Bay Beach",
+                  "text": "Als beliebter Badeort lockt Princess Margaret Bay Beach viele Gäste nach Port Elizabeth. Die einladenden Gewässer von Saint Vincent bieten hier ideale Bedingungen für Schwimmer und Sonnenanbeter. Um dem größten Andrang auszuweichen, lohnt sich ein Start in den Strandtag bereits am frühen Vormittag.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.241433,
+                        13.001649
+                  ]
+            },
+            {
+                  "name": "Spring Bay Beach",
+                  "text": "Spring Bay Beach ist ein beschaulicher Strandbereich in Port Elizabeth, der zum Durchatmen am Meer einlädt. Dieser Abschnitt auf Saint Vincent ist bestens geeignet, um fernab der Hektik das warme Karibikwasser zu genießen. Für einen langen Aufenthalt unter der Sonne empfiehlt es sich, ausreichend Trinkwasser bereitzuhalten.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.222608,
+                        13.019902
+                  ]
+            },
+            {
+                  "name": "Industry Bay Beach",
+                  "text": "An der Küste von Port Elizabeth formt Industry Bay Beach einen reizvollen Rückzugsort auf Saint Vincent. Die natürliche Beschaffenheit dieses Küstenstreifens bietet eine wunderschöne Kulisse für Spazieränge und Naturbeobachtungen. Nehmen Sie sich Zeit, um die beruhigende Wirkung der sanften Wellen auf sich wirken zu lassen.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.217615,
+                        13.024492
+                  ]
+            },
+            {
+                  "name": "Lower Bay",
+                  "text": "Sandstrand an der Lower Bay in Port Elizabeth.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.246638,
+                        12.997137
+                  ]
+            },
+            {
+                  "name": "Mount Peggy",
+                  "text": "Mount Peggy ist ein erhöhter Aussichtspunkt in Port Elizabeth.",
+                  "category": "natural",
+                  "coords": [
+                        -61.251916,
+                        12.991774
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fort Hamilton",
+                  "text": "Történelmi erőd dombtetőn, rálátással Port Elizabethre.",
+                  "category": "fortress",
+                  "coords": [
+                        -61.246314,
+                        13.011348
+                  ]
+            },
+            {
+                  "name": "Bequia Heritage Museum",
+                  "text": "A Bequia Heritage Museum a helyi történelmet mutatja be Port Elizabethben.",
+                  "category": "museum",
+                  "coords": [
+                        -61.232222,
+                        12.991969
+                  ]
+            },
+            {
+                  "name": "Belmont Beach",
+                  "text": "A Belmont Beach gyönyörű partvonalként húzódik végig Port Elizabeth-en, és hűen tükrözi Saint Vincent nyugodt hangulatát. Az átlátható partszakasz sétálgatásra és rövid, frissítő fürdőzésekre csábít. Ha értékeli a csendet, a késő délutáni fényben tett séta különösen vonzó lehet.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.238763,
+                        13.004832
+                  ]
+            },
+            {
+                  "name": "Hope Bay Beach",
+                  "text": "A Port Elizabeth-ben található Hope Bay Beach kiterjedt homokos partja a természet egy csodálatos darabkája Saint Vincent szigetén. A látogatók itt idilli környezetben élvezhetik a pihentető fürdőzés pillanatait. Egy hétköznapi látogatás általában különösen sok szabad teret ígér a pihenni vágyók számára.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.220111,
+                        13.00649
+                  ]
+            },
+            {
+                  "name": "Princess Margaret Bay Beach",
+                  "text": "Kedvelt fürdőhelyként a Princess Margaret Bay Beach sok vendéget vonz Port Elizabeth-be. Saint Vincent hívogató vizei itt ideális feltételeket biztosítanak az úszók és a napozók számára. A legnagyobb tömeg elkerülése érdekében érdemes a strandnapot már kora délelőtt elkezdeni.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.241433,
+                        13.001649
+                  ]
+            },
+            {
+                  "name": "Spring Bay Beach",
+                  "text": "A Spring Bay Beach egy nyugodt tengerparti terület Port Elizabeth-ben, amely fellélegzésre hív a tengerparton. Saint Vincent ezen része tökéletesen alkalmas arra, hogy a rohanástól távol élvezzük a meleg karibi vizet. Egy hosszú, napon töltött tartózkodáshoz ajánlott elegendő ivóvizet készenlétben tartani.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.222608,
+                        13.019902
+                  ]
+            },
+            {
+                  "name": "Industry Bay Beach",
+                  "text": "A Port Elizabeth partvidékén formálódó Industry Bay Beach egy bájos menedék Saint Vincent szigetén. Ennek a partszakasznak a természetes jellege gyönyörű hátteret biztosít a sétákhoz és a természet megfigyeléséhez. Szánjon időt arra, hogy átadja magát a lágy hullámok nyugtató hatásának.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.217615,
+                        13.024492
+                  ]
+            },
+            {
+                  "name": "Lower Bay",
+                  "text": "Homokos strand a Lower Bay-nél Port Elizabethben.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.246638,
+                        12.997137
+                  ]
+            },
+            {
+                  "name": "Mount Peggy",
+                  "text": "A Mount Peggy egy magaslati kilátó Port Elizabethben.",
+                  "category": "natural",
+                  "coords": [
+                        -61.251916,
+                        12.991774
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fort Hamilton",
+                  "text": "Fort istoric pe un deal cu vedere asupra Port Elizabeth.",
+                  "category": "fortress",
+                  "coords": [
+                        -61.246314,
+                        13.011348
+                  ]
+            },
+            {
+                  "name": "Bequia Heritage Museum",
+                  "text": "Muzeul de Patrimoniu Bequia expune istoria și cultura locală în Port Elizabeth.",
+                  "category": "museum",
+                  "coords": [
+                        -61.232222,
+                        12.991969
+                  ]
+            },
+            {
+                  "name": "Belmont Beach",
+                  "text": "Belmont Beach se întinde ca o frumoasă fâșie de coastă prin Port Elizabeth și surprinde starea de spirit relaxată din Sfântul Vincențiu. Linia țărmului clară invită la plimbări și la băi scurte și răcoritoare. Dacă apreciați liniștea, o plimbare în lumina după-amiezii târzii este deosebit de atrăgătoare.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.238763,
+                        13.004832
+                  ]
+            },
+            {
+                  "name": "Hope Bay Beach",
+                  "text": "Plaja largă de nisip din Hope Bay Beach din Port Elizabeth este o zonă minunată de natură din Sfântul Vincențiu. Vizitatorii pot aștepta cu nerăbdare momente relaxante de înot într-un cadru idilic. O vizită în timpul săptămânii promite de obicei mult spațiu liber pentru cei care caută relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.220111,
+                        13.00649
+                  ]
+            },
+            {
+                  "name": "Princess Margaret Bay Beach",
+                  "text": "Fiind o stațiune de pe litoral populară, Princess Margaret Bay Beach atrage mulți oaspeți în Port Elizabeth. Apele primitoare din Sfântul Vincențiu oferă aici condiții ideale pentru înotători și iubitorii de soare. Pentru a evita cele mai mari aglomerații, merită să vă începeți ziua de plajă devreme, dimineața.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.241433,
+                        13.001649
+                  ]
+            },
+            {
+                  "name": "Spring Bay Beach",
+                  "text": "Spring Bay Beach este o zonă de plajă liniștită din Port Elizabeth care vă invită să respirați aerul mării. Această secțiune din Sfântul Vincențiu este perfectă pentru a vă bucura de apa caldă din Caraibe, departe de agitație. Pentru o ședere lungă sub soare, se recomandă să aveți la îndemână suficientă apă de băut.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.222608,
+                        13.019902
+                  ]
+            },
+            {
+                  "name": "Industry Bay Beach",
+                  "text": "Pe coasta din Port Elizabeth, Industry Bay Beach formează un refugiu fermecător pe Sfântul Vincențiu. Natura acestui țărm oferă un cadru frumos pentru plimbări și observarea naturii. Făceți-vă timp pentru a lăsa efectul calmant al valurilor blânde să lucreze asupra dumneavoastră.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.217615,
+                        13.024492
+                  ]
+            },
+            {
+                  "name": "Lower Bay",
+                  "text": "Plajă nisipoasă la Lower Bay în Port Elizabeth.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.246638,
+                        12.997137
+                  ]
+            },
+            {
+                  "name": "Mount Peggy",
+                  "text": "Mount Peggy este un punct de belvedere în Port Elizabeth.",
+                  "category": "natural",
+                  "coords": [
+                        -61.251916,
+                        12.991774
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort Hamilton",
+                  "text": "Historic fort on a hill overlooking Port Elizabeth.",
+                  "category": "fortress",
+                  "coords": [
+                        -61.246314,
+                        13.011348
+                  ]
+            },
+            {
+                  "name": "Bequia Heritage Museum",
+                  "text": "The Bequia Heritage Museum exhibits local history and culture in Port Elizabeth.",
+                  "category": "museum",
+                  "coords": [
+                        -61.232222,
+                        12.991969
+                  ]
+            },
+            {
+                  "name": "Belmont Beach",
+                  "text": "Belmont Beach stretches as a beautiful coastal strip through Port Elizabeth, capturing the serene mood of Saint Vincent. The straightforward shoreline invites leisurely strolls and short, refreshing dips in the water. If you appreciate tranquility, a walk in the late afternoon light is particularly appealing.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.238763,
+                        13.004832
+                  ]
+            },
+            {
+                  "name": "Hope Bay Beach",
+                  "text": "The extensive sandy expanse of Hope Bay Beach in Port Elizabeth is a magnificent slice of nature on Saint Vincent. Visitors can look forward to relaxing bathing moments in an idyllic setting. Stopping by on weekdays usually promises plenty of open space for those seeking to unwind.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.220111,
+                        13.00649
+                  ]
+            },
+            {
+                  "name": "Princess Margaret Bay Beach",
+                  "text": "As a popular bathing resort, Princess Margaret Bay Beach attracts many guests to Port Elizabeth. The inviting waters of Saint Vincent provide ideal conditions here for both swimmers and sun worshipers. To avoid the largest crowds, it is well worth starting your beach day in the early morning.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.241433,
+                        13.001649
+                  ]
+            },
+            {
+                  "name": "Spring Bay Beach",
+                  "text": "Spring Bay Beach is a tranquil beach area in Port Elizabeth that invites you to catch your breath by the sea. This section on Saint Vincent is perfectly suited for enjoying the warm Caribbean water far from any hustle and bustle. For a long stay under the sun, it is advisable to keep plenty of drinking water handy.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.222608,
+                        13.019902
+                  ]
+            },
+            {
+                  "name": "Industry Bay Beach",
+                  "text": "Along the coast of Port Elizabeth, Industry Bay Beach forms a charming retreat on Saint Vincent. The natural layout of this coastal strip provides a beautiful backdrop for walks and observing nature. Take your time to fully absorb the calming effect of the gentle waves.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.217615,
+                        13.024492
+                  ]
+            },
+            {
+                  "name": "Lower Bay",
+                  "text": "Sandy beach on Lower Bay in Port Elizabeth.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.246638,
+                        12.997137
+                  ]
+            },
+            {
+                  "name": "Mount Peggy",
+                  "text": "Mount Peggy is an elevated viewpoint offering sweeping vistas in Port Elizabeth.",
+                  "category": "natural",
+                  "coords": [
+                        -61.251916,
+                        12.991774
+                  ]
+            }
+      ]
+},
     parent: "VC",
     type: "town",
     name: { de: "Port Elizabeth", hu: "Port Elizabeth", ro: "Port Elizabeth", en: "Port Elizabeth" },
@@ -597,7 +1236,88 @@ export const saintvincentCitiesV2: POI[] = [
     image: "/poi-images/saintvincent-biabou-cities-v2.webp",
   },
   {
-    id: "saintvincent-charlestown-cities-v2", "sights": {"de": [{"name": "Little Mahault", "text": "Little Mahault ist ein Strand in Charlestown.", "category": "recreational", "coords": [-61.325734, 12.734925]}, {"name": "Big Mahault Beach", "text": "Big Mahault Beach fügt sich harmonisch in die Küste bei Charlestown ein und bietet karibisches Strandfeeling auf Saint Vincent. Es ist ein wunderbarer Ort für ein erfrischendes Bad oder einfach nur, um den Sand zwischen den Zehen zu spüren. Da die Umgebung recht naturbelassen ist, sollten Sie alles Nötige für den Tag selbst mitbringen.", "category": "recreational", "coords": [-61.322553, 12.732434]}], "hu": [{"name": "Little Mahault", "text": "Little Mahault egy strand Charlestown területén.", "category": "recreational", "coords": [-61.325734, 12.734925]}, {"name": "Big Mahault Beach", "text": "A Big Mahault Beach harmonikusan illeszkedik a Charlestown melletti partvidékbe, és karibi strandélményt nyújt Saint Vincent szigetén. Ez egy csodálatos hely egy frissítő fürdőzéshez, vagy egyszerűen csak arra, hogy érezzük a homokot a lábujjaink között. Mivel a környezet meglehetősen természetközeli, érdemes mindent magával hoznia, amire a nap folyamán szüksége lehet.", "category": "recreational", "coords": [-61.322553, 12.732434]}], "ro": [{"name": "Little Mahault", "text": "Little Mahault este o plajă în Charlestown.", "category": "recreational", "coords": [-61.325734, 12.734925]}, {"name": "Big Mahault Beach", "text": "Big Mahault Beach se îmbină armonios cu linia de coastă de lângă Charlestown și oferă o senzație de plajă din Caraibe în Sfântul Vincențiu. Este un loc minunat pentru o baie răcoritoare sau pur și simplu pentru a simți nisipul printre degete. Deoarece zona este destul de naturală, ar trebui să vă aduceți tot ce aveți nevoie pentru acea zi.", "category": "recreational", "coords": [-61.322553, 12.732434]}], "en": [{"name": "Little Mahault", "text": "Little Mahault is a beach located in Charlestown.", "category": "recreational", "coords": [-61.325734, 12.734925]}, {"name": "Big Mahault Beach", "text": "Big Mahault Beach blends harmoniously into the coastline near Charlestown, offering a Caribbean beach vibe on Saint Vincent. It is a wonderful place for a refreshing dip or simply to feel the sand between your toes. Since the surroundings are quite natural, you should bring along everything you might need for the day.", "category": "recreational", "coords": [-61.322553, 12.732434]}]},
+    id: "saintvincent-charlestown-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Little Mahault",
+                  "text": "Freizeitgebiet an der Küste der Little Mahault Bay in Charlestown.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.325734,
+                        12.734925
+                  ]
+            },
+            {
+                  "name": "Big Mahault Beach",
+                  "text": "Big Mahault Beach fügt sich harmonisch in die Küste bei Charlestown ein und bietet karibisches Strandfeeling auf Saint Vincent. Es ist ein wunderbarer Ort für ein erfrischendes Bad oder einfach nur, um den Sand zwischen den Zehen zu spüren. Da die Umgebung recht naturbelassen ist, sollten Sie alles Nötige für den Tag selbst mitbringen.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.322553,
+                        12.732434
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Little Mahault",
+                  "text": "Szabadidős terület a Little Mahault-öböl partján Charlestownban.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.325734,
+                        12.734925
+                  ]
+            },
+            {
+                  "name": "Big Mahault Beach",
+                  "text": "A Big Mahault Beach harmonikusan illeszkedik a Charlestown melletti partvidékbe, és karibi strandélményt nyújt Saint Vincent szigetén. Ez egy csodálatos hely egy frissítő fürdőzéshez, vagy egyszerűen csak arra, hogy érezzük a homokot a lábujjaink között. Mivel a környezet meglehetősen természetközeli, érdemes mindent magával hoznia, amire a nap folyamán szüksége lehet.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.322553,
+                        12.732434
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Little Mahault",
+                  "text": "Zonă de agrement pe coasta golfului Little Mahault în Charlestown.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.325734,
+                        12.734925
+                  ]
+            },
+            {
+                  "name": "Big Mahault Beach",
+                  "text": "Big Mahault Beach se îmbină armonios cu linia de coastă de lângă Charlestown și oferă o senzație de plajă din Caraibe în Sfântul Vincențiu. Este un loc minunat pentru o baie răcoritoare sau pur și simplu pentru a simți nisipul printre degete. Deoarece zona este destul de naturală, ar trebui să vă aduceți tot ce aveți nevoie pentru acea zi.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.322553,
+                        12.732434
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Little Mahault",
+                  "text": "Recreational area on the coast at Little Mahault Bay in Charlestown.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.325734,
+                        12.734925
+                  ]
+            },
+            {
+                  "name": "Big Mahault Beach",
+                  "text": "Big Mahault Beach blends harmoniously into the coastline near Charlestown, offering a Caribbean beach vibe on Saint Vincent. It is a wonderful place for a refreshing dip or simply to feel the sand between your toes. Since the surroundings are quite natural, you should bring along everything you might need for the day.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.322553,
+                        12.732434
+                  ]
+            }
+      ]
+},
     parent: "VC",
     type: "town",
     name: { de: "Charlestown", hu: "Charlestown", ro: "Charlestown", en: "Charlestown" },
@@ -687,7 +1407,232 @@ export const saintvincentCitiesV2: POI[] = [
     image: "/poi-images/saintvincent-ashton-cities-v2.webp",
   },
   {
-    id: "saintvincent-dovers-cities-v2", "sights": {"de": [{"name": "Macaroni Beach", "text": "Als bekannter Strand in Dovers genießt Macaroni Beach einen hervorragenden Ruf bei Besuchern von Saint Vincent. Das lebhafte Wellenspiel und der feine Sand machen diesen Ort zu einem Favoriten für Strandliebhaber. Für einen erstklassigen Platz am Wasser empfiehlt sich eine Anreise vor dem Mittagessen.", "category": "recreational", "coords": [-61.176296, 12.880017]}, {"name": "Pasture Beach", "text": "Pasture Beach präsentiert sich als friedlicher Küstenabschnitt in Dovers auf der Insel Saint Vincent. Wer sich nach einem abgeschiedenen Plätzchen am Meer sehnt, wird die ungestörte Atmosphäre dieses Strandes sehr zu schätzen wissen. Ein langer Strandspaziergang in den Morgenstunden ist die beste Art, den Tag hier zu beginnen.", "category": "recreational", "coords": [-61.178753, 12.872226]}, {"name": "Endeavour Bay Beach", "text": "An der malerischen Küste von Dovers in Saint Vincent gelegen, bietet der Endeavour Bay Beach eine wunderschöne natürliche Kulisse. Besucher können entspannte Spaziergänge am Ufer unternehmen oder sich im tropischen Wasser erfrischen. Die ruhige Atmosphäre lädt dazu ein, unter der karibischen Sonne die Seele baumeln zu lassen. Ein früher Besuch lohnt sich, um den besten Platz zum Sonnenbaden zu ergattern.", "category": "recreational", "coords": [-61.185614, 12.889677]}, {"name": "Lagoon Beach", "text": "Als geschützter Küstenabschnitt in Dovers versteckt, bietet der Lagoon Beach eine ruhige Umgebung auf Saint Vincent. Das abgeschirmte Wasser ist normalerweise sehr einladend für ein entspanntes Bad und einen gemütlichen Nachmittag am Meer. Gäste schätzen die landschaftliche Schönheit und das etwas abgeschiedene Gefühl dieser Gegend. Es empfiehlt sich, etwas Sonnenschutz und Wasser für einen angenehmen Aufenthalt mitzubringen.", "category": "recreational", "coords": [-61.192212, 12.867811]}, {"name": "Monument Colin Tennant", "text": "Das Monument Colin Tennant ist eine historische Gedenkstätte in Dovers.", "category": "historical", "coords": [-61.185105, 12.884276]}, {"name": "The Cotton House", "text": "The Cotton House ist ein historisches Herrenhaus in Dovers.", "category": "historical", "coords": [-61.184064, 12.890039]}], "hu": [{"name": "Macaroni Beach", "text": "A Doversben található jól ismert strandként a Macaroni Beach kiváló hírnévnek örvend Saint Vincent látogatói körében. Az élénk hullámok játéka és a finom homok ezt a helyet a tengerpart kedvelőinek kedvencévé teszi. Az elsőrangú vízparti hely érdekében érdemes ebéd előtt megérkezni.", "category": "recreational", "coords": [-61.176296, 12.880017]}, {"name": "Pasture Beach", "text": "A Pasture Beach békés partszakaszként mutatkozik be a Saint Vincent szigetén fekvő Doversben. Aki egy eldugott kis helyre vágyik a tengerparton, az igazán értékelni fogja e strand zavartalan légkörét. Egy hosszú tengerparti séta a reggeli órákban a legjobb módja annak, hogy itt kezdjük a napot.", "category": "recreational", "coords": [-61.178753, 12.872226]}, {"name": "Endeavour Bay Beach", "text": "Saint Vincent szigetén, Dovers festői partvonalán fekszik az Endeavour Bay Beach, amely gyönyörű természeti környezetet kínál. A látogatók pihentető sétákat tehetnek a parton, vagy megmártózhatnak a trópusi vizekben. Nyugodt hangulata tökéletes a karibi nap alatti kikapcsolódáshoz. Érdemes a nap korai szakaszában érkezni, hogy megtaláljuk a legjobb napozóhelyet.", "category": "recreational", "coords": [-61.185614, 12.889677]}, {"name": "Lagoon Beach", "text": "A Doversben található Lagoon Beach egy védett partszakasz, amely csendes környezetet biztosít Saint Vincent szigetén. A védett vizek általában hívogatóak egy nyugodt úszásra és egy kellemes tengerparti délutánra. A vendégek értékelni fogják a táj szépségét és a terület kissé elzárt hangulatát. Egy kényelmes tartózkodás érdekében ajánlott napernyőt és ivóvizet magunkkal vinni.", "category": "recreational", "coords": [-61.192212, 12.867811]}, {"name": "Monument Colin Tennant", "text": "A Monument Colin Tennant egy történelmi emlékmű Dovers városában.", "category": "historical", "coords": [-61.185105, 12.884276]}, {"name": "The Cotton House", "text": "A The Cotton House egy történelmi udvarház Dovers területén.", "category": "historical", "coords": [-61.184064, 12.890039]}], "ro": [{"name": "Macaroni Beach", "text": "Fiind o plajă cunoscută în Dovers, Macaroni Beach se bucură de o reputație excelentă printre vizitatorii din Sfântul Vincențiu. Jocul plin de viață al valurilor și nisipul fin fac din acest loc o favorită printre iubitorii de plajă. Pentru un loc de primă clasă la marginea apei, este recomandat să sosiți înainte de prânz.", "category": "recreational", "coords": [-61.176296, 12.880017]}, {"name": "Pasture Beach", "text": "Pasture Beach se prezintă ca o porțiune pașnică de coastă în Dovers, pe insula Sfântul Vincențiu. Cei care tânjesc după un loc retras la malul mării vor aprecia cu adevărat atmosfera netulburată a acestei plaje. O plimbare lungă pe plajă în orele dimineții este cel mai bun mod de a vă începe ziua aici.", "category": "recreational", "coords": [-61.178753, 12.872226]}, {"name": "Endeavour Bay Beach", "text": "Situată pe coasta pitorească din Dovers, Saint Vincent, Endeavour Bay Beach oferă un cadru natural frumos pentru o zi de relaxare. Vizitatorii se pot bucura de plimbări liniștite pe țărm sau de o baie răcoritoare în apele tropicale. Atmosfera liniștită face din această plajă locul ideal pentru a te relaxa sub soarele din Caraibe. Este întotdeauna o idee bună să o vizitați devreme pentru a găsi locul perfect de plajă.", "category": "recreational", "coords": [-61.185614, 12.889677]}, {"name": "Lagoon Beach", "text": "Ascunsă ca o porțiune de coastă protejată în Dovers, Lagoon Beach oferă un mediu liniștit în Saint Vincent. Apele adăpostite sunt de obicei primitoare pentru o înotare calmă și o după-amiază de agrement la malul mării. Oaspeții vor aprecia frumusețea peisajului și senzația de izolare pe care o oferă zona. Este recomandat să aduceți protecție solară și apă pentru o ședere confortabilă.", "category": "recreational", "coords": [-61.192212, 12.867811]}, {"name": "Monument Colin Tennant", "text": "Monument Colin Tennant este un memorial istoric situat în Dovers.", "category": "historical", "coords": [-61.185105, 12.884276]}, {"name": "The Cotton House", "text": "The Cotton House este un conac istoric situat în Dovers.", "category": "historical", "coords": [-61.184064, 12.890039]}], "en": [{"name": "Macaroni Beach", "text": "As a well-known beach in Dovers, Macaroni Beach enjoys an excellent reputation among visitors to Saint Vincent. The lively play of the waves and the fine sand make this spot a favorite for beachgoers. For a prime spot right by the water, arriving before lunch is highly recommended.", "category": "recreational", "coords": [-61.176296, 12.880017]}, {"name": "Pasture Beach", "text": "Pasture Beach presents itself as a peaceful stretch of coastline in Dovers on the island of Saint Vincent. Anyone longing for a secluded spot by the sea will greatly appreciate the undisturbed atmosphere of this beach. A long stroll along the shore during the morning hours is the best way to start your day here.", "category": "recreational", "coords": [-61.178753, 12.872226]}, {"name": "Endeavour Bay Beach", "text": "Situated on the picturesque coast of Dovers in Saint Vincent, Endeavour Bay Beach offers a beautiful natural setting for a relaxing day. Visitors can enjoy peaceful strolls along the shore or a refreshing dip in the tropical waters. The relaxed atmosphere makes it an ideal spot for unwinding under the Caribbean sun. It is always a good idea to visit early to find a perfect spot for sunbathing.", "category": "recreational", "coords": [-61.185614, 12.889677]}, {"name": "Lagoon Beach", "text": "Tucked away as a protected coastal stretch in Dovers, Lagoon Beach provides a tranquil environment on Saint Vincent. The sheltered waters are typically inviting for a calm swim and a leisurely afternoon by the sea. Guests will appreciate the scenic beauty and the somewhat secluded feel of the area. Bringing along some shade and water is recommended for a comfortable stay.", "category": "recreational", "coords": [-61.192212, 12.867811]}, {"name": "Monument Colin Tennant", "text": "The Monument Colin Tennant is a historical memorial located in Dovers.", "category": "historical", "coords": [-61.185105, 12.884276]}, {"name": "The Cotton House", "text": "The Cotton House is a historic manor estate located in Dovers.", "category": "historical", "coords": [-61.184064, 12.890039]}]},
+    id: "saintvincent-dovers-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Macaroni Beach",
+                  "text": "Als bekannter Strand in Dovers genießt Macaroni Beach einen hervorragenden Ruf bei Besuchern von Saint Vincent. Das lebhafte Wellenspiel und der feine Sand machen diesen Ort zu einem Favoriten für Strandliebhaber. Für einen erstklassigen Platz am Wasser empfiehlt sich eine Anreise vor dem Mittagessen.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.176296,
+                        12.880017
+                  ]
+            },
+            {
+                  "name": "Pasture Beach",
+                  "text": "Pasture Beach präsentiert sich als friedlicher Küstenabschnitt in Dovers auf der Insel Saint Vincent. Wer sich nach einem abgeschiedenen Plätzchen am Meer sehnt, wird die ungestörte Atmosphäre dieses Strandes sehr zu schätzen wissen. Ein langer Strandspaziergang in den Morgenstunden ist die beste Art, den Tag hier zu beginnen.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.178753,
+                        12.872226
+                  ]
+            },
+            {
+                  "name": "Endeavour Bay Beach",
+                  "text": "An der malerischen Küste von Dovers in Saint Vincent gelegen, bietet der Endeavour Bay Beach eine wunderschöne natürliche Kulisse. Besucher können entspannte Spaziergänge am Ufer unternehmen oder sich im tropischen Wasser erfrischen. Die ruhige Atmosphäre lädt dazu ein, unter der karibischen Sonne die Seele baumeln zu lassen. Ein früher Besuch lohnt sich, um den besten Platz zum Sonnenbaden zu ergattern.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.185614,
+                        12.889677
+                  ]
+            },
+            {
+                  "name": "Lagoon Beach",
+                  "text": "Als geschützter Küstenabschnitt in Dovers versteckt, bietet der Lagoon Beach eine ruhige Umgebung auf Saint Vincent. Das abgeschirmte Wasser ist normalerweise sehr einladend für ein entspanntes Bad und einen gemütlichen Nachmittag am Meer. Gäste schätzen die landschaftliche Schönheit und das etwas abgeschiedene Gefühl dieser Gegend. Es empfiehlt sich, etwas Sonnenschutz und Wasser für einen angenehmen Aufenthalt mitzubringen.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.192212,
+                        12.867811
+                  ]
+            },
+            {
+                  "name": "Monument Colin Tennant",
+                  "text": "Denkmal zu Ehren von Colin Tennant in Dovers.",
+                  "category": "historical",
+                  "coords": [
+                        -61.185105,
+                        12.884276
+                  ]
+            },
+            {
+                  "name": "The Cotton House",
+                  "text": "Historisches Baumwollplantagenhaus in Dovers.",
+                  "category": "historical",
+                  "coords": [
+                        -61.184064,
+                        12.890039
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Macaroni Beach",
+                  "text": "A Doversben található jól ismert strandként a Macaroni Beach kiváló hírnévnek örvend Saint Vincent látogatói körében. Az élénk hullámok játéka és a finom homok ezt a helyet a tengerpart kedvelőinek kedvencévé teszi. Az elsőrangú vízparti hely érdekében érdemes ebéd előtt megérkezni.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.176296,
+                        12.880017
+                  ]
+            },
+            {
+                  "name": "Pasture Beach",
+                  "text": "A Pasture Beach békés partszakaszként mutatkozik be a Saint Vincent szigetén fekvő Doversben. Aki egy eldugott kis helyre vágyik a tengerparton, az igazán értékelni fogja e strand zavartalan légkörét. Egy hosszú tengerparti séta a reggeli órákban a legjobb módja annak, hogy itt kezdjük a napot.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.178753,
+                        12.872226
+                  ]
+            },
+            {
+                  "name": "Endeavour Bay Beach",
+                  "text": "Saint Vincent szigetén, Dovers festői partvonalán fekszik az Endeavour Bay Beach, amely gyönyörű természeti környezetet kínál. A látogatók pihentető sétákat tehetnek a parton, vagy megmártózhatnak a trópusi vizekben. Nyugodt hangulata tökéletes a karibi nap alatti kikapcsolódáshoz. Érdemes a nap korai szakaszában érkezni, hogy megtaláljuk a legjobb napozóhelyet.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.185614,
+                        12.889677
+                  ]
+            },
+            {
+                  "name": "Lagoon Beach",
+                  "text": "A Doversben található Lagoon Beach egy védett partszakasz, amely csendes környezetet biztosít Saint Vincent szigetén. A védett vizek általában hívogatóak egy nyugodt úszásra és egy kellemes tengerparti délutánra. A vendégek értékelni fogják a táj szépségét és a terület kissé elzárt hangulatát. Egy kényelmes tartózkodás érdekében ajánlott napernyőt és ivóvizet magunkkal vinni.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.192212,
+                        12.867811
+                  ]
+            },
+            {
+                  "name": "Monument Colin Tennant",
+                  "text": "Colin Tennant emlékműve Doversben.",
+                  "category": "historical",
+                  "coords": [
+                        -61.185105,
+                        12.884276
+                  ]
+            },
+            {
+                  "name": "The Cotton House",
+                  "text": "Történelmi gyapotültetvény-ház Doversben.",
+                  "category": "historical",
+                  "coords": [
+                        -61.184064,
+                        12.890039
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Macaroni Beach",
+                  "text": "Fiind o plajă cunoscută în Dovers, Macaroni Beach se bucură de o reputație excelentă printre vizitatorii din Sfântul Vincențiu. Jocul plin de viață al valurilor și nisipul fin fac din acest loc o favorită printre iubitorii de plajă. Pentru un loc de primă clasă la marginea apei, este recomandat să sosiți înainte de prânz.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.176296,
+                        12.880017
+                  ]
+            },
+            {
+                  "name": "Pasture Beach",
+                  "text": "Pasture Beach se prezintă ca o porțiune pașnică de coastă în Dovers, pe insula Sfântul Vincențiu. Cei care tânjesc după un loc retras la malul mării vor aprecia cu adevărat atmosfera netulburată a acestei plaje. O plimbare lungă pe plajă în orele dimineții este cel mai bun mod de a vă începe ziua aici.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.178753,
+                        12.872226
+                  ]
+            },
+            {
+                  "name": "Endeavour Bay Beach",
+                  "text": "Situată pe coasta pitorească din Dovers, Saint Vincent, Endeavour Bay Beach oferă un cadru natural frumos pentru o zi de relaxare. Vizitatorii se pot bucura de plimbări liniștite pe țărm sau de o baie răcoritoare în apele tropicale. Atmosfera liniștită face din această plajă locul ideal pentru a te relaxa sub soarele din Caraibe. Este întotdeauna o idee bună să o vizitați devreme pentru a găsi locul perfect de plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.185614,
+                        12.889677
+                  ]
+            },
+            {
+                  "name": "Lagoon Beach",
+                  "text": "Ascunsă ca o porțiune de coastă protejată în Dovers, Lagoon Beach oferă un mediu liniștit în Saint Vincent. Apele adăpostite sunt de obicei primitoare pentru o înotare calmă și o după-amiază de agrement la malul mării. Oaspeții vor aprecia frumusețea peisajului și senzația de izolare pe care o oferă zona. Este recomandat să aduceți protecție solară și apă pentru o ședere confortabilă.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.192212,
+                        12.867811
+                  ]
+            },
+            {
+                  "name": "Monument Colin Tennant",
+                  "text": "Monument în cinstea lui Colin Tennant în Dovers.",
+                  "category": "historical",
+                  "coords": [
+                        -61.185105,
+                        12.884276
+                  ]
+            },
+            {
+                  "name": "The Cotton House",
+                  "text": "Casă istorică de plantație de bumbac în Dovers.",
+                  "category": "historical",
+                  "coords": [
+                        -61.184064,
+                        12.890039
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Macaroni Beach",
+                  "text": "As a well-known beach in Dovers, Macaroni Beach enjoys an excellent reputation among visitors to Saint Vincent. The lively play of the waves and the fine sand make this spot a favorite for beachgoers. For a prime spot right by the water, arriving before lunch is highly recommended.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.176296,
+                        12.880017
+                  ]
+            },
+            {
+                  "name": "Pasture Beach",
+                  "text": "Pasture Beach presents itself as a peaceful stretch of coastline in Dovers on the island of Saint Vincent. Anyone longing for a secluded spot by the sea will greatly appreciate the undisturbed atmosphere of this beach. A long stroll along the shore during the morning hours is the best way to start your day here.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.178753,
+                        12.872226
+                  ]
+            },
+            {
+                  "name": "Endeavour Bay Beach",
+                  "text": "Situated on the picturesque coast of Dovers in Saint Vincent, Endeavour Bay Beach offers a beautiful natural setting for a relaxing day. Visitors can enjoy peaceful strolls along the shore or a refreshing dip in the tropical waters. The relaxed atmosphere makes it an ideal spot for unwinding under the Caribbean sun. It is always a good idea to visit early to find a perfect spot for sunbathing.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.185614,
+                        12.889677
+                  ]
+            },
+            {
+                  "name": "Lagoon Beach",
+                  "text": "Tucked away as a protected coastal stretch in Dovers, Lagoon Beach provides a tranquil environment on Saint Vincent. The sheltered waters are typically inviting for a calm swim and a leisurely afternoon by the sea. Guests will appreciate the scenic beauty and the somewhat secluded feel of the area. Bringing along some shade and water is recommended for a comfortable stay.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.192212,
+                        12.867811
+                  ]
+            },
+            {
+                  "name": "Monument Colin Tennant",
+                  "text": "Monument dedicated to Colin Tennant in Dovers.",
+                  "category": "historical",
+                  "coords": [
+                        -61.185105,
+                        12.884276
+                  ]
+            },
+            {
+                  "name": "The Cotton House",
+                  "text": "Historic cotton plantation house in Dovers.",
+                  "category": "historical",
+                  "coords": [
+                        -61.184064,
+                        12.890039
+                  ]
+            }
+      ]
+},
     parent: "VC",
     type: "village",
     name: { de: "Dovers", hu: "Dovers", ro: "Dovers", en: "Dovers" },

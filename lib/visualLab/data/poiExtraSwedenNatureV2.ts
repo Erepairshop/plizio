@@ -144,7 +144,7 @@ imageHint: "Clear blue water of Lake Vättern with rocky shoreline near Visings�
       "de": [
             {
                   "name": "Kebnekaise sydtoppen",
-                  "text": "Der südliche Gipfel des Kebnekaise ist der höchste Punkt Schwedens.",
+                  "text": "Kebnekaise sydtoppen ist der südliche Gipfel des höchsten Berges Schwedens (2097 m ü. M.).",
                   "category": "landmark",
                   "coords": [
                         18.516903,
@@ -153,7 +153,7 @@ imageHint: "Clear blue water of Lake Vättern with rocky shoreline near Visings�
             },
             {
                   "name": "Kebnekaise nordtoppen",
-                  "text": "Der nördliche Gipfel des Kebnekaise-Massivs in Lappland.",
+                  "text": "Kebnekaise nordtoppen ist der nördliche Gipfel des höchsten Berges Schwedens, aufgrund der Gletscherschmelze etwas niedriger.",
                   "category": "landmark",
                   "coords": [
                         18.528703,
@@ -162,7 +162,7 @@ imageHint: "Clear blue water of Lake Vättern with rocky shoreline near Visings�
             },
             {
                   "name": "Tolpagorni",
-                  "text": "Ein markanter Berggipfel im Kebnekaise-Massiv.",
+                  "text": "Tolpagorni ist ein felsiger Gipfel im Kebnekaise-Massiv mit Blick auf den Hauptgipfel.",
                   "category": "landmark",
                   "coords": [
                         18.514824,
@@ -171,7 +171,7 @@ imageHint: "Clear blue water of Lake Vättern with rocky shoreline near Visings�
             },
             {
                   "name": "Vierranvárri",
-                  "text": "Ein Berggipfel in der schwedischen Provinz Lappland nahe dem Kebnekaise.",
+                  "text": "Vierranvárri ist ein Berggipfel mit Blick auf das Tarfala-Tal im Kebnekaise-Gebiet.",
                   "category": "landmark",
                   "coords": [
                         18.498829,
@@ -182,7 +182,7 @@ imageHint: "Clear blue water of Lake Vättern with rocky shoreline near Visings�
       "hu": [
             {
                   "name": "Kebnekaise sydtoppen",
-                  "text": "A Kebnekaise déli csúcsa Svédország legmagasabb pontja.",
+                  "text": "Kebnekaise sydtoppen a svéd legmagasabb hegy déli csúcsa (2097 m tengerszint felett).",
                   "category": "landmark",
                   "coords": [
                         18.516903,
@@ -191,7 +191,7 @@ imageHint: "Clear blue water of Lake Vättern with rocky shoreline near Visings�
             },
             {
                   "name": "Kebnekaise nordtoppen",
-                  "text": "A lappföldi Kebnekaise-masszívum északi csúcsa.",
+                  "text": "Kebnekaise nordtoppen a svéd legmagasabb hegy északi csúcsa, a gleccserolvadás miatt kissé alacsonyabb.",
                   "category": "landmark",
                   "coords": [
                         18.528703,
@@ -200,7 +200,7 @@ imageHint: "Clear blue water of Lake Vättern with rocky shoreline near Visings�
             },
             {
                   "name": "Tolpagorni",
-                  "text": "Egy jellegzetes hegycsúcs a Kebnekaise-masszívumban.",
+                  "text": "Tolpagorni egy sziklás csúcs a Kebnekaise hegytömbben, kilátással a főcsúcsra.",
                   "category": "landmark",
                   "coords": [
                         18.514824,
@@ -209,7 +209,7 @@ imageHint: "Clear blue water of Lake Vättern with rocky shoreline near Visings�
             },
             {
                   "name": "Vierranvárri",
-                  "text": "Hegycsúcs a svédországi Lappföldön, a Kebnekaise közelében.",
+                  "text": "Vierranvárri egy hegycsúcs, amely a Tarfala-völgyre néz a Kebnekaise területen.",
                   "category": "landmark",
                   "coords": [
                         18.498829,
@@ -220,7 +220,7 @@ imageHint: "Clear blue water of Lake Vättern with rocky shoreline near Visings�
       "ro": [
             {
                   "name": "Kebnekaise sydtoppen",
-                  "text": "Vârful sudic al muntelui Kebnekaise este cel mai înalt punct din Suedia.",
+                  "text": "Kebnekaise sydtoppen este vârful sudic al celui mai înalt munte al Suediei, la 2097 m deasupra nivelului mării.",
                   "category": "landmark",
                   "coords": [
                         18.516903,
@@ -229,7 +229,7 @@ imageHint: "Clear blue water of Lake Vättern with rocky shoreline near Visings�
             },
             {
                   "name": "Kebnekaise nordtoppen",
-                  "text": "Vârful nordic al masivului Kebnekaise din Laponia.",
+                  "text": "Kebnekaise nordtoppen este vârful nordic al celui mai înalt munte al Suediei, ceva mai jos din cauza topirii ghețarului.",
                   "category": "landmark",
                   "coords": [
                         18.528703,
@@ -238,7 +238,7 @@ imageHint: "Clear blue water of Lake Vättern with rocky shoreline near Visings�
             },
             {
                   "name": "Tolpagorni",
-                  "text": "Un vârf montan distinctiv în masivul Kebnekaise.",
+                  "text": "Tolpagorni este un vârf stâncos în masivul Kebnekaise, cu vedere către vârful principal.",
                   "category": "landmark",
                   "coords": [
                         18.514824,
@@ -247,7 +247,7 @@ imageHint: "Clear blue water of Lake Vättern with rocky shoreline near Visings�
             },
             {
                   "name": "Vierranvárri",
-                  "text": "Un vârf muntos în Laponia suedeză, lângă Kebnekaise.",
+                  "text": "Vierranvárri este un vârf montan care domina Valea Tarfala, în zona Kebnekaise.",
                   "category": "landmark",
                   "coords": [
                         18.498829,
@@ -258,7 +258,7 @@ imageHint: "Clear blue water of Lake Vättern with rocky shoreline near Visings�
       "en": [
             {
                   "name": "Kebnekaise sydtoppen",
-                  "text": "The southern peak of Kebnekaise is the highest point in Sweden.",
+                  "text": "Kebnekaise sydtoppen is the southern peak of Sweden's highest mountain, at 2097 m above sea level.",
                   "category": "landmark",
                   "coords": [
                         18.516903,
@@ -267,7 +267,7 @@ imageHint: "Clear blue water of Lake Vättern with rocky shoreline near Visings�
             },
             {
                   "name": "Kebnekaise nordtoppen",
-                  "text": "The northern peak of the Kebnekaise massif in Lapland.",
+                  "text": "Kebnekaise nordtoppen is the northern peak of Sweden's highest mountain, slightly lower due to glacial melting.",
                   "category": "landmark",
                   "coords": [
                         18.528703,
@@ -276,7 +276,7 @@ imageHint: "Clear blue water of Lake Vättern with rocky shoreline near Visings�
             },
             {
                   "name": "Tolpagorni",
-                  "text": "A distinctive mountain peak in the Kebnekaise massif.",
+                  "text": "Tolpagorni is a rocky peak in the Kebnekaise massif, offering views of the main summit.",
                   "category": "landmark",
                   "coords": [
                         18.514824,
@@ -285,7 +285,7 @@ imageHint: "Clear blue water of Lake Vättern with rocky shoreline near Visings�
             },
             {
                   "name": "Vierranvárri",
-                  "text": "A mountain peak in Swedish Lapland near Kebnekaise.",
+                  "text": "Vierranvárri is a mountain peak overlooking the Tarfala Valley in the Kebnekaise area.",
                   "category": "landmark",
                   "coords": [
                         18.498829,
@@ -822,7 +822,7 @@ imageHint: "Traditional wooden windmills on a flat green field in Öland",
             },
             {
                   "name": "Sjonhem kyrka",
-                  "text": "Eine mittelalterliche Landkirche in Sjonhem auf Gotland.",
+                  "text": "Sjonhem kyrka ist eine mittelalterliche Kalksteinkirche auf der Insel Gotland mit Fresken aus dem 13. Jahrhundert.",
                   "category": "religious",
                   "coords": [
                         18.520754,
@@ -831,7 +831,7 @@ imageHint: "Traditional wooden windmills on a flat green field in Öland",
             },
             {
                   "name": "Halla kyrka",
-                  "text": "Eine gut erhaltene mittelalterliche Kirche in Halla auf Gotland.",
+                  "text": "Halla kyrka ist eine mittelalterliche Steinkirche auf Gotland, bekannt für ihren freistehenden Glockenturm.",
                   "category": "religious",
                   "coords": [
                         18.497132,
@@ -896,7 +896,7 @@ imageHint: "Traditional wooden windmills on a flat green field in Öland",
             },
             {
                   "name": "Sjonhem kyrka",
-                  "text": "Középkori falusi templom a gotlandi Sjonhemben.",
+                  "text": "Sjonhem kyrka egy középkori mészkőtemplom Gotland szigetén, 13. századi freskókkal.",
                   "category": "religious",
                   "coords": [
                         18.520754,
@@ -905,7 +905,7 @@ imageHint: "Traditional wooden windmills on a flat green field in Öland",
             },
             {
                   "name": "Halla kyrka",
-                  "text": "Jól megőrzött középkori templom a gotlandi Hallában.",
+                  "text": "Halla kyrka egy középkori kőtemplom Gotlandon, híres a különálló harangtornyáról.",
                   "category": "religious",
                   "coords": [
                         18.497132,
@@ -970,7 +970,7 @@ imageHint: "Traditional wooden windmills on a flat green field in Öland",
             },
             {
                   "name": "Sjonhem kyrka",
-                  "text": "O biserică medievală de țară în Sjonhem, pe Gotland.",
+                  "text": "Sjonhem kyrka este o biserică medievală de calcar pe insula Gotland, cu fresce din secolul al XIII-lea.",
                   "category": "religious",
                   "coords": [
                         18.520754,
@@ -979,7 +979,7 @@ imageHint: "Traditional wooden windmills on a flat green field in Öland",
             },
             {
                   "name": "Halla kyrka",
-                  "text": "O biserică medievală bine conservată în Halla, pe Gotland.",
+                  "text": "Halla kyrka este o biserică medievală de piatră pe Gotland, cunoscută pentru turnul său clopotniță detașat.",
                   "category": "religious",
                   "coords": [
                         18.497132,
@@ -1044,7 +1044,7 @@ imageHint: "Traditional wooden windmills on a flat green field in Öland",
             },
             {
                   "name": "Sjonhem kyrka",
-                  "text": "A medieval country church in Sjonhem on Gotland.",
+                  "text": "Sjonhem kyrka is a medieval limestone church on the island of Gotland, with 13th-century murals.",
                   "category": "religious",
                   "coords": [
                         18.520754,
@@ -1053,7 +1053,7 @@ imageHint: "Traditional wooden windmills on a flat green field in Öland",
             },
             {
                   "name": "Halla kyrka",
-                  "text": "A well-preserved medieval church in Halla on Gotland.",
+                  "text": "Halla kyrka is a medieval stone church on Gotland, known for its detached bell tower.",
                   "category": "religious",
                   "coords": [
                         18.497132,
@@ -2437,7 +2437,7 @@ imageHint: "Vast tundra landscape with winding rivers and low mountains",
       "de": [
             {
                   "name": "Boda",
-                  "text": "Boda ist ein Leuchtturm in den Stockholmer Schären.",
+                  "text": "Boda ist eine kleine Insel mit einem Leuchtturm im Stockholmer Schärengarten.",
                   "category": "landmark",
                   "coords": [
                         18.605785,
@@ -2446,7 +2446,7 @@ imageHint: "Vast tundra landscape with winding rivers and low mountains",
             },
             {
                   "name": "Kalvö",
-                  "text": "Kalvö ist ein Leuchtturm in den Stockholmer Schären.",
+                  "text": "Kalvö ist eine Insel im Stockholmer Schärengarten mit einem beliebten Wanderweg und Panoramablick.",
                   "category": "landmark",
                   "coords": [
                         18.614218,
@@ -2455,7 +2455,7 @@ imageHint: "Vast tundra landscape with winding rivers and low mountains",
             },
             {
                   "name": "Stickelsbergs naturreservat",
-                  "text": "Stickelsbergs naturreservat ist ein Naturschutzgebiet in den Stockholmer Schären.",
+                  "text": "Stickelsbergs naturreservat – 1965 eingerichtetes Naturschutzgebiet im Stockholmer Schärengarten.",
                   "category": "natural",
                   "coords": [
                         18.607244,
@@ -2466,7 +2466,7 @@ imageHint: "Vast tundra landscape with winding rivers and low mountains",
       "hu": [
             {
                   "name": "Boda",
-                  "text": "Boda egy világítótorony a stockholmi szigetvilágban.",
+                  "text": "Boda egy kis sziget világítótoronnyal a Stockholmi szigetvilágban.",
                   "category": "landmark",
                   "coords": [
                         18.605785,
@@ -2475,7 +2475,7 @@ imageHint: "Vast tundra landscape with winding rivers and low mountains",
             },
             {
                   "name": "Kalvö",
-                  "text": "Kalvö egy világítótorony a stockholmi szigetvilágban.",
+                  "text": "Kalvö egy sziget a Stockholmi szigetvilágban, népszerű túraútvonallal és panorámás kilátással.",
                   "category": "landmark",
                   "coords": [
                         18.614218,
@@ -2484,7 +2484,7 @@ imageHint: "Vast tundra landscape with winding rivers and low mountains",
             },
             {
                   "name": "Stickelsbergs naturreservat",
-                  "text": "Stickelsbergs naturreservat egy természetvédelmi terület a stockholmi szigetvilágban.",
+                  "text": "Stickelsbergs naturreservat – 1965-ben létesített természetvédelmi terület a Stockholmi-szigetvilágban.",
                   "category": "natural",
                   "coords": [
                         18.607244,
@@ -2495,7 +2495,7 @@ imageHint: "Vast tundra landscape with winding rivers and low mountains",
       "ro": [
             {
                   "name": "Boda",
-                  "text": "Boda este un far în Arhipelagul Stockholm.",
+                  "text": "Boda este o insulă mică cu un far în arhipelagul Stockholm.",
                   "category": "landmark",
                   "coords": [
                         18.605785,
@@ -2504,7 +2504,7 @@ imageHint: "Vast tundra landscape with winding rivers and low mountains",
             },
             {
                   "name": "Kalvö",
-                  "text": "Kalvö este un far în Arhipelagul Stockholm.",
+                  "text": "Kalvö este o insulă în arhipelagul Stockholm, cu un traseu de drumeție popular și vederi panoramice.",
                   "category": "landmark",
                   "coords": [
                         18.614218,
@@ -2513,7 +2513,7 @@ imageHint: "Vast tundra landscape with winding rivers and low mountains",
             },
             {
                   "name": "Stickelsbergs naturreservat",
-                  "text": "Stickelsbergs naturreservat este o rezervație naturală în Arhipelagul Stockholm.",
+                  "text": "Stickelsbergs naturreservat – rezervație naturală înființată în 1965 în Arhipelagul Stockholm.",
                   "category": "natural",
                   "coords": [
                         18.607244,
@@ -2524,7 +2524,7 @@ imageHint: "Vast tundra landscape with winding rivers and low mountains",
       "en": [
             {
                   "name": "Boda",
-                  "text": "Boda is a lighthouse located in the Stockholm Archipelago.",
+                  "text": "Boda is a small island with a lighthouse in the Stockholm archipelago.",
                   "category": "landmark",
                   "coords": [
                         18.605785,
@@ -2533,7 +2533,7 @@ imageHint: "Vast tundra landscape with winding rivers and low mountains",
             },
             {
                   "name": "Kalvö",
-                  "text": "Kalvö is a lighthouse located in the Stockholm Archipelago.",
+                  "text": "Kalvö is an island in the Stockholm archipelago with a popular hiking trail and panoramic views.",
                   "category": "landmark",
                   "coords": [
                         18.614218,
@@ -2542,7 +2542,7 @@ imageHint: "Vast tundra landscape with winding rivers and low mountains",
             },
             {
                   "name": "Stickelsbergs naturreservat",
-                  "text": "Stickelsbergs naturreservat is a nature reserve in the Stockholm Archipelago.",
+                  "text": "Stickelsbergs naturreservat – nature reserve established in 1965 in the Stockholm Archipelago.",
                   "category": "natural",
                   "coords": [
                         18.607244,
@@ -2600,7 +2600,7 @@ imageHint: "Numerous small rocky islands in the blue sea near Stockholm",
       "de": [
             {
                   "name": "Tedarön",
-                  "text": "Ein Naturschutzgebiet auf einer Insel im Mälaren-See.",
+                  "text": "Tedarön ist eine bewaldete Insel im Mälaren mit einem Naturschutzgebiet.",
                   "category": "natural",
                   "coords": [
                         16.971849,
@@ -2627,7 +2627,7 @@ imageHint: "Numerous small rocky islands in the blue sea near Stockholm",
             },
             {
                   "name": "Hjulsta ekhagar",
-                  "text": "Ein Naturschutzgebiet, das für seine alten Eichenbestände bekannt ist.",
+                  "text": "Eichenweiden in Hjulsta am Mälaren-See.",
                   "category": "natural",
                   "coords": [
                         17.006213,
@@ -2636,7 +2636,7 @@ imageHint: "Numerous small rocky islands in the blue sea near Stockholm",
             },
             {
                   "name": "Säby Säteri",
-                  "text": "Ein historisches Herrenhaus in der Nähe des Mälaren-Sees.",
+                  "text": "Ein Herrenhaus in Säby am Mälaren-See.",
                   "category": "historical",
                   "coords": [
                         17.003972,
@@ -2656,7 +2656,7 @@ imageHint: "Numerous small rocky islands in the blue sea near Stockholm",
       "hu": [
             {
                   "name": "Tedarön",
-                  "text": "Természetvédelmi terület a Mälaren-tó egyik szigetén.",
+                  "text": "Tedarön egy erdős sziget a Mälaren-tóban, természetvédelmi területtel.",
                   "category": "natural",
                   "coords": [
                         16.971849,
@@ -2683,7 +2683,7 @@ imageHint: "Numerous small rocky islands in the blue sea near Stockholm",
             },
             {
                   "name": "Hjulsta ekhagar",
-                  "text": "Öreg tölgyeseiről ismert természetvédelmi terület.",
+                  "text": "Tölgyes legelők Hjulstában a Mälaren-tónál.",
                   "category": "natural",
                   "coords": [
                         17.006213,
@@ -2692,7 +2692,7 @@ imageHint: "Numerous small rocky islands in the blue sea near Stockholm",
             },
             {
                   "name": "Säby Säteri",
-                  "text": "Történelmi udvarház a Mälaren-tó közelében.",
+                  "text": "Kúria Säbyben a Mälaren-tónál.",
                   "category": "historical",
                   "coords": [
                         17.003972,
@@ -2712,7 +2712,7 @@ imageHint: "Numerous small rocky islands in the blue sea near Stockholm",
       "ro": [
             {
                   "name": "Tedarön",
-                  "text": "O rezervație naturală pe o insulă din lacul Mälaren.",
+                  "text": "Tedarön este o insulă împădurită în lacul Mälaren, cu o rezervație naturală.",
                   "category": "natural",
                   "coords": [
                         16.971849,
@@ -2739,7 +2739,7 @@ imageHint: "Numerous small rocky islands in the blue sea near Stockholm",
             },
             {
                   "name": "Hjulsta ekhagar",
-                  "text": "O rezervație naturală cunoscută pentru stejarii săi seculari.",
+                  "text": "Pășuni cu stejari la Hjulsta pe lacul Mälaren.",
                   "category": "natural",
                   "coords": [
                         17.006213,
@@ -2748,7 +2748,7 @@ imageHint: "Numerous small rocky islands in the blue sea near Stockholm",
             },
             {
                   "name": "Säby Säteri",
-                  "text": "Un conac istoric situat lângă lacul Mälaren.",
+                  "text": "Un conac la Säby pe lacul Mälaren.",
                   "category": "historical",
                   "coords": [
                         17.003972,
@@ -2768,7 +2768,7 @@ imageHint: "Numerous small rocky islands in the blue sea near Stockholm",
       "en": [
             {
                   "name": "Tedarön",
-                  "text": "A nature reserve on an island in Lake Mälaren.",
+                  "text": "Tedarön is a wooded island in Lake Mälaren with a nature reserve.",
                   "category": "natural",
                   "coords": [
                         16.971849,
@@ -2795,7 +2795,7 @@ imageHint: "Numerous small rocky islands in the blue sea near Stockholm",
             },
             {
                   "name": "Hjulsta ekhagar",
-                  "text": "A nature reserve known for its ancient oak groves.",
+                  "text": "Oak pastures at Hjulsta on Lake Mälaren.",
                   "category": "natural",
                   "coords": [
                         17.006213,
@@ -2804,7 +2804,7 @@ imageHint: "Numerous small rocky islands in the blue sea near Stockholm",
             },
             {
                   "name": "Säby Säteri",
-                  "text": "A historic manor house located near Lake Mälaren.",
+                  "text": "A manor house at Säby on Lake Mälaren.",
                   "category": "historical",
                   "coords": [
                         17.003972,
@@ -3701,7 +3701,7 @@ imageHint: "Iconic U-shaped mountain pass Lapporten under the midnight sun",
       "de": [
             {
                   "name": "Tomtebobadet",
-                  "text": "Ein Badeplatz am Umeälven.",
+                  "text": "Ein Badeplatz am Ume-Fluss.",
                   "category": "recreational",
                   "coords": [
                         20.347845,
@@ -3712,7 +3712,7 @@ imageHint: "Iconic U-shaped mountain pass Lapporten under the midnight sun",
       "hu": [
             {
                   "name": "Tomtebobadet",
-                  "text": "Fürdőhely az Ume folyónál.",
+                  "text": "Strand az Ume folyónál.",
                   "category": "recreational",
                   "coords": [
                         20.347845,
@@ -3723,7 +3723,7 @@ imageHint: "Iconic U-shaped mountain pass Lapporten under the midnight sun",
       "ro": [
             {
                   "name": "Tomtebobadet",
-                  "text": "Un loc de scăldat pe râul Ume.",
+                  "text": "O plajă pe râul Ume.",
                   "category": "recreational",
                   "coords": [
                         20.347845,
@@ -3734,7 +3734,7 @@ imageHint: "Iconic U-shaped mountain pass Lapporten under the midnight sun",
       "en": [
             {
                   "name": "Tomtebobadet",
-                  "text": "A swimming spot on the Ume River.",
+                  "text": "A bathing area on the Ume River.",
                   "category": "recreational",
                   "coords": [
                         20.347845,
@@ -4530,7 +4530,7 @@ imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
       "de": [
             {
                   "name": "Örviken ställplats",
-                  "text": "Ein Badeplatz am Skellefteälven.",
+                  "text": "Ein Wohnmobil-Stellplatz in Örviken am Skellefte-Fluss.",
                   "category": "recreational",
                   "coords": [
                         21.165507,
@@ -4557,7 +4557,7 @@ imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
             },
             {
                   "name": "Sankt Örjans kyrka",
-                  "text": "Eine moderne Holzkirche in Skelleftehamn.",
+                  "text": "Sankt Örjans kyrka ist eine mittelalterliche Steinkirche an den Ufern des Skellefteälven.",
                   "category": "religious",
                   "coords": [
                         21.241069,
@@ -4586,7 +4586,7 @@ imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
       "hu": [
             {
                   "name": "Örviken ställplats",
-                  "text": "Fürdőhely a Skellefte folyónál.",
+                  "text": "Lakóautó-parkoló Örvikenben a Skellefte folyónál.",
                   "category": "recreational",
                   "coords": [
                         21.165507,
@@ -4613,7 +4613,7 @@ imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
             },
             {
                   "name": "Sankt Örjans kyrka",
-                  "text": "Modern fatemplom Skelleftehamn településen.",
+                  "text": "Sankt Örjans kyrka egy középkori kőtemplom a Skellefte-folyó partjain.",
                   "category": "religious",
                   "coords": [
                         21.241069,
@@ -4642,7 +4642,7 @@ imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
       "ro": [
             {
                   "name": "Örviken ställplats",
-                  "text": "Un loc de scăldat pe râul Skellefte.",
+                  "text": "Un loc de staționare pentru rulote la Örviken pe râul Skellefte.",
                   "category": "recreational",
                   "coords": [
                         21.165507,
@@ -4669,7 +4669,7 @@ imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
             },
             {
                   "name": "Sankt Örjans kyrka",
-                  "text": "O biserică modernă din lemn situată în Skelleftehamn.",
+                  "text": "Sankt Örjans kyrka este o biserică medievală de piatră pe malurile râului Skellefte.",
                   "category": "religious",
                   "coords": [
                         21.241069,
@@ -4698,7 +4698,7 @@ imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
       "en": [
             {
                   "name": "Örviken ställplats",
-                  "text": "A swimming spot on the Skellefte River.",
+                  "text": "A campsite at Örviken on the Skellefte River.",
                   "category": "recreational",
                   "coords": [
                         21.165507,
@@ -4725,7 +4725,7 @@ imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
             },
             {
                   "name": "Sankt Örjans kyrka",
-                  "text": "A modern wooden church located in Skelleftehamn.",
+                  "text": "Sankt Örjans kyrka is a medieval stone church on the banks of the Skellefte River.",
                   "category": "religious",
                   "coords": [
                         21.241069,
@@ -5043,7 +5043,7 @@ imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
             },
             {
                   "name": "Gärdsnäs östra badplats",
-                  "text": "Gärdsnäs östra badplats liegt auf der Insel Ängsö.",
+                  "text": "Ein Badeplatz in Gärdsnäs auf der Insel Angsö.",
                   "category": "recreational",
                   "coords": [
                         18.738662,
@@ -5081,7 +5081,7 @@ imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
             },
             {
                   "name": "Gärdsnäs östra badplats",
-                  "text": "Gärdsnäs östra badplats az Ängsö szigeten található.",
+                  "text": "Strand Gärdsnäsben, Angsö szigetén.",
                   "category": "recreational",
                   "coords": [
                         18.738662,
@@ -5119,7 +5119,7 @@ imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
             },
             {
                   "name": "Gärdsnäs östra badplats",
-                  "text": "Gärdsnäs östra badplats este situată pe insula Ängsö.",
+                  "text": "O plajă la Gärdsnäs pe insula Angsö.",
                   "category": "recreational",
                   "coords": [
                         18.738662,
@@ -5157,7 +5157,7 @@ imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
             },
             {
                   "name": "Gärdsnäs östra badplats",
-                  "text": "Gärdsnäs östra badplats is located on Ängsö island.",
+                  "text": "A bathing spot at Gärdsnäs on Angsö Island.",
                   "category": "recreational",
                   "coords": [
                         18.738662,
@@ -5232,7 +5232,7 @@ imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
       "de": [
             {
                   "name": "Räkan",
-                  "text": "Strand am Piteälven.",
+                  "text": "Ein Badeplatz am Pite-Fluss.",
                   "category": "recreational",
                   "coords": [
                         21.477853,
@@ -5243,7 +5243,7 @@ imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
       "hu": [
             {
                   "name": "Räkan",
-                  "text": "Part a Pite folyó mellett.",
+                  "text": "Strand a Pite folyónál.",
                   "category": "recreational",
                   "coords": [
                         21.477853,
@@ -5254,7 +5254,7 @@ imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
       "ro": [
             {
                   "name": "Räkan",
-                  "text": "Plajă pe râul Pite.",
+                  "text": "O plajă pe râul Pite.",
                   "category": "recreational",
                   "coords": [
                         21.477853,
@@ -5265,7 +5265,7 @@ imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
       "en": [
             {
                   "name": "Räkan",
-                  "text": "Beach near the Pite River.",
+                  "text": "A bathing area on the Pite River.",
                   "category": "recreational",
                   "coords": [
                         21.477853,

@@ -3,7 +3,340 @@ import type { POI } from "./poi";
 
 export const poiExtraTimorlesteLifeV2: POI[] = [
   {
-    id: "jardim-de-lecidere-life-v2",
+    id: "jardim-de-lecidere-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "local boat transport",
+                  "text": "Eine lokale Bootstransporteinrichtung in Jardim de Lecidere.",
+                  "category": "landmark",
+                  "coords": [
+                        125.581841,
+                        -8.551337
+                  ]
+            },
+            {
+                  "name": "São Sebastião",
+                  "text": "Eine christliche Stätte in Jardim de Lecidere.",
+                  "category": "landmark",
+                  "coords": [
+                        125.590379,
+                        -8.550512
+                  ]
+            },
+            {
+                  "name": "Gruta Bidau Sant'Ana",
+                  "text": "Eine christliche Grotte in Jardim de Lecidere.",
+                  "category": "landmark",
+                  "coords": [
+                        125.592043,
+                        -8.5487
+                  ]
+            },
+            {
+                  "name": "Nossa senhora da graca metiaut",
+                  "text": "Eine christliche Kultstätte in Jardim de Lecidere.",
+                  "category": "landmark",
+                  "coords": [
+                        125.600157,
+                        -8.546797
+                  ]
+            },
+            {
+                  "name": "Victory Family Centre",
+                  "text": "Ein christliches Zentrum in Jardim de Lecidere.",
+                  "category": "landmark",
+                  "coords": [
+                        125.590397,
+                        -8.555585
+                  ]
+            },
+            {
+                  "name": "Jeova",
+                  "text": "Eine Kirche in Jardim de Lecidere.",
+                  "category": "religious",
+                  "coords": [
+                        125.586399,
+                        -8.551649
+                  ]
+            },
+            {
+                  "name": "Capela",
+                  "text": "Eine christliche Kapelle in Jardim de Lecidere.",
+                  "category": "landmark",
+                  "coords": [
+                        125.593647,
+                        -8.548039
+                  ]
+            },
+            {
+                  "name": "Fruit and Vegetable market",
+                  "text": "Ein lokaler Obst- und Gemüsemarkt in Jardim de Lecidere.",
+                  "category": "cultural",
+                  "coords": [
+                        125.58762,
+                        -8.548174
+                  ]
+            },
+            {
+                  "name": "Pinky Medicure & Spa",
+                  "text": "Ein Spa und Wellnesszentrum in Jardim de Lecidere.",
+                  "category": "recreational",
+                  "coords": [
+                        125.584983,
+                        -8.552324
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "local boat transport",
+                  "text": "Egy helyi hajóközlekedési pont Jardim de Lecidere területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.581841,
+                        -8.551337
+                  ]
+            },
+            {
+                  "name": "São Sebastião",
+                  "text": "Egy keresztény hely Jardim de Lecidere területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.590379,
+                        -8.550512
+                  ]
+            },
+            {
+                  "name": "Gruta Bidau Sant'Ana",
+                  "text": "Egy keresztény grotta Jardim de Lecidere területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.592043,
+                        -8.5487
+                  ]
+            },
+            {
+                  "name": "Nossa senhora da graca metiaut",
+                  "text": "Egy keresztény istentiszteleti hely Jardim de Lecidere területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.600157,
+                        -8.546797
+                  ]
+            },
+            {
+                  "name": "Victory Family Centre",
+                  "text": "Egy keresztény központ Jardim de Lecidere területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.590397,
+                        -8.555585
+                  ]
+            },
+            {
+                  "name": "Jeova",
+                  "text": "Egy templom Jardim de Lecidere területén.",
+                  "category": "religious",
+                  "coords": [
+                        125.586399,
+                        -8.551649
+                  ]
+            },
+            {
+                  "name": "Capela",
+                  "text": "Egy keresztény kápolna Jardim de Lecidere területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.593647,
+                        -8.548039
+                  ]
+            },
+            {
+                  "name": "Fruit and Vegetable market",
+                  "text": "Egy helyi zöldség- és gyümölcspiac Jardim de Lecidere területén.",
+                  "category": "cultural",
+                  "coords": [
+                        125.58762,
+                        -8.548174
+                  ]
+            },
+            {
+                  "name": "Pinky Medicure & Spa",
+                  "text": "Egy gyógyfürdő és wellnessközpont Jardim de Lecidere területén.",
+                  "category": "recreational",
+                  "coords": [
+                        125.584983,
+                        -8.552324
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "local boat transport",
+                  "text": "O facilitate locală de transport cu barca în Jardim de Lecidere.",
+                  "category": "landmark",
+                  "coords": [
+                        125.581841,
+                        -8.551337
+                  ]
+            },
+            {
+                  "name": "São Sebastião",
+                  "text": "Un loc creștin în Jardim de Lecidere.",
+                  "category": "landmark",
+                  "coords": [
+                        125.590379,
+                        -8.550512
+                  ]
+            },
+            {
+                  "name": "Gruta Bidau Sant'Ana",
+                  "text": "O grotă creștină în Jardim de Lecidere.",
+                  "category": "landmark",
+                  "coords": [
+                        125.592043,
+                        -8.5487
+                  ]
+            },
+            {
+                  "name": "Nossa senhora da graca metiaut",
+                  "text": "Un lăcaș de cult creștin în Jardim de Lecidere.",
+                  "category": "landmark",
+                  "coords": [
+                        125.600157,
+                        -8.546797
+                  ]
+            },
+            {
+                  "name": "Victory Family Centre",
+                  "text": "Un centru creștin în Jardim de Lecidere.",
+                  "category": "landmark",
+                  "coords": [
+                        125.590397,
+                        -8.555585
+                  ]
+            },
+            {
+                  "name": "Jeova",
+                  "text": "O biserică în Jardim de Lecidere.",
+                  "category": "religious",
+                  "coords": [
+                        125.586399,
+                        -8.551649
+                  ]
+            },
+            {
+                  "name": "Capela",
+                  "text": "O capelă creștină în Jardim de Lecidere.",
+                  "category": "landmark",
+                  "coords": [
+                        125.593647,
+                        -8.548039
+                  ]
+            },
+            {
+                  "name": "Fruit and Vegetable market",
+                  "text": "O piață locală de fructe și legume în Jardim de Lecidere.",
+                  "category": "cultural",
+                  "coords": [
+                        125.58762,
+                        -8.548174
+                  ]
+            },
+            {
+                  "name": "Pinky Medicure & Spa",
+                  "text": "Un centru de spa și wellness în Jardim de Lecidere.",
+                  "category": "recreational",
+                  "coords": [
+                        125.584983,
+                        -8.552324
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "local boat transport",
+                  "text": "A local boat transport facility in Jardim de Lecidere.",
+                  "category": "landmark",
+                  "coords": [
+                        125.581841,
+                        -8.551337
+                  ]
+            },
+            {
+                  "name": "São Sebastião",
+                  "text": "A Christian site in Jardim de Lecidere.",
+                  "category": "landmark",
+                  "coords": [
+                        125.590379,
+                        -8.550512
+                  ]
+            },
+            {
+                  "name": "Gruta Bidau Sant'Ana",
+                  "text": "A Christian grotto in Jardim de Lecidere.",
+                  "category": "landmark",
+                  "coords": [
+                        125.592043,
+                        -8.5487
+                  ]
+            },
+            {
+                  "name": "Nossa senhora da graca metiaut",
+                  "text": "A Christian place of worship in Jardim de Lecidere.",
+                  "category": "landmark",
+                  "coords": [
+                        125.600157,
+                        -8.546797
+                  ]
+            },
+            {
+                  "name": "Victory Family Centre",
+                  "text": "A Christian centre in Jardim de Lecidere.",
+                  "category": "landmark",
+                  "coords": [
+                        125.590397,
+                        -8.555585
+                  ]
+            },
+            {
+                  "name": "Jeova",
+                  "text": "A church in Jardim de Lecidere.",
+                  "category": "religious",
+                  "coords": [
+                        125.586399,
+                        -8.551649
+                  ]
+            },
+            {
+                  "name": "Capela",
+                  "text": "A Christian chapel in Jardim de Lecidere.",
+                  "category": "landmark",
+                  "coords": [
+                        125.593647,
+                        -8.548039
+                  ]
+            },
+            {
+                  "name": "Fruit and Vegetable market",
+                  "text": "A local fruit and vegetable market in Jardim de Lecidere.",
+                  "category": "cultural",
+                  "coords": [
+                        125.58762,
+                        -8.548174
+                  ]
+            },
+            {
+                  "name": "Pinky Medicure & Spa",
+                  "text": "A spa and wellness center in Jardim de Lecidere.",
+                  "category": "recreational",
+                  "coords": [
+                        125.584983,
+                        -8.552324
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "TL-DI",
     coords: [125.5841, -8.5512],
@@ -91,7 +424,124 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     },
   },
   {
-    id: "atauro-coral-reefs-life-v2",
+    id: "atauro-coral-reefs-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Walking path up",
+                  "text": "Der Walking path up ist eine landschaftlich reizvolle Attraktion in atauro-coral-reefs-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.559412,
+                        -8.208201
+                  ]
+            },
+            {
+                  "name": "Cave of our Lady Mary",
+                  "text": "Die Cave of our Lady Mary ist eine besondere Sehenswürdigkeit in atauro-coral-reefs-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.601815,
+                        -8.270486
+                  ]
+            },
+            {
+                  "name": "Viewpoint Manucoco",
+                  "text": "Der Viewpoint Manucoco bietet eine Aussicht über atauro-coral-reefs-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.574662,
+                        -8.265711
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Walking path up",
+                  "text": "A Walking path up egy sétaútvonal és látványosság atauro-coral-reefs-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.559412,
+                        -8.208201
+                  ]
+            },
+            {
+                  "name": "Cave of our Lady Mary",
+                  "text": "A Cave of our Lady Mary egy különleges látványosság a atauro-coral-reefs-life-v2 nevű helyen.",
+                  "category": "landmark",
+                  "coords": [
+                        125.601815,
+                        -8.270486
+                  ]
+            },
+            {
+                  "name": "Viewpoint Manucoco",
+                  "text": "A Viewpoint Manucoco egy kilátó a atauro-coral-reefs-life-v2 nevű területen.",
+                  "category": "natural",
+                  "coords": [
+                        125.574662,
+                        -8.265711
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Walking path up",
+                  "text": "Walking path up este un traseu de atracție în orășelul atauro-coral-reefs-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.559412,
+                        -8.208201
+                  ]
+            },
+            {
+                  "name": "Cave of our Lady Mary",
+                  "text": "Cave of our Lady Mary este o atracție situată în atauro-coral-reefs-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.601815,
+                        -8.270486
+                  ]
+            },
+            {
+                  "name": "Viewpoint Manucoco",
+                  "text": "Viewpoint Manucoco este un punct de observație situat în orășelul atauro-coral-reefs-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.574662,
+                        -8.265711
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Walking path up",
+                  "text": "The Walking path up is an outdoor attraction located in atauro-coral-reefs-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.559412,
+                        -8.208201
+                  ]
+            },
+            {
+                  "name": "Cave of our Lady Mary",
+                  "text": "The Cave of our Lady Mary is a local attraction situated in atauro-coral-reefs-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.601815,
+                        -8.270486
+                  ]
+            },
+            {
+                  "name": "Viewpoint Manucoco",
+                  "text": "Viewpoint Manucoco is a scenic lookout located in atauro-coral-reefs-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.574662,
+                        -8.265711
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "TL-DI",
     coords: [125.5801, -8.2501],
@@ -135,7 +585,52 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     },
   },
   {
-    id: "tilomar-nature-reserve-life-v2",
+    id: "tilomar-nature-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gereja Katolik St Antonio Maria Claret Salele",
+                  "text": "Die katholische Kirche St. Antonio Maria Claret befindet sich in Salele, umgeben von der üppigen Natur des Tilomar-Reservats.",
+                  "category": "landmark",
+                  "coords": [
+                        125.169395,
+                        -9.391334
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gereja Katolik St Antonio Maria Claret Salele",
+                  "text": "A St. Antonio Maria Claret katolikus templom Salele településen található, a Tilomar Természetvédelmi Terület buja természete által körülvéve.",
+                  "category": "landmark",
+                  "coords": [
+                        125.169395,
+                        -9.391334
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gereja Katolik St Antonio Maria Claret Salele",
+                  "text": "Biserica catolică St. Antonio Maria Claret se află în Salele, înconjurată de natura luxuriantă a rezervației Tilomar.",
+                  "category": "landmark",
+                  "coords": [
+                        125.169395,
+                        -9.391334
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gereja Katolik St Antonio Maria Claret Salele",
+                  "text": "The Catholic church of St. Antonio Maria Claret is located in Salele, surrounded by the lush nature of the Tilomar Reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        125.169395,
+                        -9.391334
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "TL-CO",
     coords: [125.2161, -9.3331],
@@ -179,7 +674,268 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     },
   },
   {
-    id: "maliana-rice-fields-life-v2",
+    id: "maliana-rice-fields-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lakus",
+                  "text": "Lakus ist ein Berggipfel in maliana-rice-fields-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.25,
+                        -9.066667
+                  ]
+            },
+            {
+                  "name": "Capella Calsapulu",
+                  "text": "Capella Calsapulu ist eine christliche Kultstätte in maliana-rice-fields-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.257611,
+                        -9.011481
+                  ]
+            },
+            {
+                  "name": "Hosana",
+                  "text": "Hosana ist eine christliche Stätte in maliana-rice-fields-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.215708,
+                        -8.988833
+                  ]
+            },
+            {
+                  "name": "Misionariu Katolika",
+                  "text": "Misionariu Katolika ist eine christliche Einrichtung in maliana-rice-fields-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.222827,
+                        -9.049337
+                  ]
+            },
+            {
+                  "name": "Kapela Saburai",
+                  "text": "Kapela Saburai ist eine christliche Kapelle in maliana-rice-fields-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.212209,
+                        -9.041161
+                  ]
+            },
+            {
+                  "name": "Merkado",
+                  "text": "Merkado ist ein traditioneller Markt in maliana-rice-fields-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        125.273794,
+                        -9.004776
+                  ]
+            },
+            {
+                  "name": "Mercado Maliana",
+                  "text": "Mercado Maliana ist ein lokaler Marktplatz in maliana-rice-fields-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        125.220507,
+                        -8.989381
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lakus",
+                  "text": "A Lakus egy hegycsúcs maliana-rice-fields-life-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        125.25,
+                        -9.066667
+                  ]
+            },
+            {
+                  "name": "Capella Calsapulu",
+                  "text": "A Capella Calsapulu egy keresztény vallási helyszín maliana-rice-fields-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.257611,
+                        -9.011481
+                  ]
+            },
+            {
+                  "name": "Hosana",
+                  "text": "A Hosana egy keresztény helyszín maliana-rice-fields-life-v2 régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        125.215708,
+                        -8.988833
+                  ]
+            },
+            {
+                  "name": "Misionariu Katolika",
+                  "text": "A Misionariu Katolika egy keresztény intézmény maliana-rice-fields-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.222827,
+                        -9.049337
+                  ]
+            },
+            {
+                  "name": "Kapela Saburai",
+                  "text": "A Kapela Saburai egy keresztény kápolna maliana-rice-fields-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.212209,
+                        -9.041161
+                  ]
+            },
+            {
+                  "name": "Merkado",
+                  "text": "A Merkado egy hagyományos piac maliana-rice-fields-life-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        125.273794,
+                        -9.004776
+                  ]
+            },
+            {
+                  "name": "Mercado Maliana",
+                  "text": "A Mercado Maliana egy helyi piac maliana-rice-fields-life-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        125.220507,
+                        -8.989381
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lakus",
+                  "text": "Lakus este un vârf de munte în maliana-rice-fields-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.25,
+                        -9.066667
+                  ]
+            },
+            {
+                  "name": "Capella Calsapulu",
+                  "text": "Capella Calsapulu este un lăcaș de cult creștin situat în maliana-rice-fields-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.257611,
+                        -9.011481
+                  ]
+            },
+            {
+                  "name": "Hosana",
+                  "text": "Hosana este un așezământ creștin din maliana-rice-fields-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.215708,
+                        -8.988833
+                  ]
+            },
+            {
+                  "name": "Misionariu Katolika",
+                  "text": "Misionariu Katolika este o instituție creștină din maliana-rice-fields-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.222827,
+                        -9.049337
+                  ]
+            },
+            {
+                  "name": "Kapela Saburai",
+                  "text": "Kapela Saburai este o capelă creștină din maliana-rice-fields-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.212209,
+                        -9.041161
+                  ]
+            },
+            {
+                  "name": "Merkado",
+                  "text": "Merkado este o piață tradițională situată în maliana-rice-fields-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        125.273794,
+                        -9.004776
+                  ]
+            },
+            {
+                  "name": "Mercado Maliana",
+                  "text": "Mercado Maliana este o piață locală situată în maliana-rice-fields-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        125.220507,
+                        -8.989381
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lakus",
+                  "text": "Lakus is a mountain peak situated in maliana-rice-fields-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.25,
+                        -9.066667
+                  ]
+            },
+            {
+                  "name": "Capella Calsapulu",
+                  "text": "Capella Calsapulu is a Christian place of worship located in maliana-rice-fields-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.257611,
+                        -9.011481
+                  ]
+            },
+            {
+                  "name": "Hosana",
+                  "text": "Hosana is a Christian religious site in maliana-rice-fields-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.215708,
+                        -8.988833
+                  ]
+            },
+            {
+                  "name": "Misionariu Katolika",
+                  "text": "Misionariu Katolika is a Christian institution located in maliana-rice-fields-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.222827,
+                        -9.049337
+                  ]
+            },
+            {
+                  "name": "Kapela Saburai",
+                  "text": "Kapela Saburai is a Christian chapel in maliana-rice-fields-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.212209,
+                        -9.041161
+                  ]
+            },
+            {
+                  "name": "Merkado",
+                  "text": "Merkado is a traditional marketplace located in maliana-rice-fields-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        125.273794,
+                        -9.004776
+                  ]
+            },
+            {
+                  "name": "Mercado Maliana",
+                  "text": "Mercado Maliana is a local marketplace in maliana-rice-fields-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        125.220507,
+                        -8.989381
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "TL-BO",
     coords: [125.2191, -8.9911],
@@ -223,7 +979,52 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     },
   },
   {
-    id: "fatucama-marine-sanctuary-life-v2",
+    id: "fatucama-marine-sanctuary-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dolok Oan Beach",
+                  "text": "Der Dolok Oan Beach ist eine landschaftlich reizvolle Attraktion in fatucama-marine-sanctuary-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.611552,
+                        -8.521324
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dolok Oan Beach",
+                  "text": "A Dolok Oan Beach egy gyönyörű turisztikai látványosság a fatucama-marine-sanctuary-life-v2 régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        125.611552,
+                        -8.521324
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dolok Oan Beach",
+                  "text": "Dolok Oan Beach este o atracție de coastă apreciată din fatucama-marine-sanctuary-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.611552,
+                        -8.521324
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dolok Oan Beach",
+                  "text": "Dolok Oan Beach is a scenic attraction for visitors in fatucama-marine-sanctuary-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.611552,
+                        -8.521324
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "TL-DI",
     coords: [125.6101, -8.5201],
@@ -267,7 +1068,88 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     },
   },
   {
-    id: "manatuto-salt-pans-life-v2",
+    id: "manatuto-salt-pans-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Igreja Baptista Kristaun de Manatuto",
+                  "text": "Die baptistische Kirche in Manatuto liegt in der Nähe der traditionellen Salzpfannen, die das lokale Leben prägen.",
+                  "category": "landmark",
+                  "coords": [
+                        126.011766,
+                        -8.506419
+                  ]
+            },
+            {
+                  "name": "Barber Places",
+                  "text": "In der Umgebung der traditionellen Salzpfannen von Manatuto bieten kleine Gewerbetreibende wie lokale Barbiere ihre Dienste an.",
+                  "category": "cultural",
+                  "coords": [
+                        126.011299,
+                        -8.51137
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Igreja Baptista Kristaun de Manatuto",
+                  "text": "A manatutói baptista templom a helyi életet meghatározó hagyományos sólepárlók közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        126.011766,
+                        -8.506419
+                  ]
+            },
+            {
+                  "name": "Barber Places",
+                  "text": "A manatutói hagyományos sólepárlók környékén kisvállalkozók, például helyi borbélyok kínálják szolgáltatásaikat.",
+                  "category": "cultural",
+                  "coords": [
+                        126.011299,
+                        -8.51137
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Igreja Baptista Kristaun de Manatuto",
+                  "text": "Biserica baptistă din Manatuto este situată în apropierea salinelor tradiționale care modelează viața locală.",
+                  "category": "landmark",
+                  "coords": [
+                        126.011766,
+                        -8.506419
+                  ]
+            },
+            {
+                  "name": "Barber Places",
+                  "text": "În apropierea salinelor tradiționale din Manatuto, micii antreprenori, cum ar fi frizerii locali, își oferă serviciile.",
+                  "category": "cultural",
+                  "coords": [
+                        126.011299,
+                        -8.51137
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Igreja Baptista Kristaun de Manatuto",
+                  "text": "The Baptist church in Manatuto is located near the traditional salt pans that shape local life.",
+                  "category": "landmark",
+                  "coords": [
+                        126.011766,
+                        -8.506419
+                  ]
+            },
+            {
+                  "name": "Barber Places",
+                  "text": "In the vicinity of the traditional salt pans of Manatuto, small businesses such as local barbers offer their services.",
+                  "category": "cultural",
+                  "coords": [
+                        126.011299,
+                        -8.51137
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "TL-MT",
     coords: [126.0141, -8.5111],
@@ -311,7 +1193,88 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     },
   },
   {
-    id: "cristo-rei-macaque-habitat-life-v2",
+    id: "cristo-rei-macaque-habitat-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia",
+                  "text": "Ein Sandstrand in der Nähe des Gebiets von Cristo Rei, bekannt für die lokalen Makaken in der Umgebung.",
+                  "category": "recreational",
+                  "coords": [
+                        125.610032,
+                        -8.52727
+                  ]
+            },
+            {
+                  "name": "Station IV",
+                  "text": "Die vierte Kreuzwegstation entlang des christlichen Pilgerweges, der zur Christus-König-Statue hinaufführt.",
+                  "category": "landmark",
+                  "coords": [
+                        125.610306,
+                        -8.523926
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia",
+                  "text": "Homokos part a Cristo Rei környékén, amely a környező élőhelyen élő makákókról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        125.610032,
+                        -8.52727
+                  ]
+            },
+            {
+                  "name": "Station IV",
+                  "text": "A negyedik stáció a Krisztus Király szoborhoz vezető keresztény zarándokúton.",
+                  "category": "landmark",
+                  "coords": [
+                        125.610306,
+                        -8.523926
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia",
+                  "text": "O plajă de nisip lângă zona Cristo Rei, cunoscută pentru populația locală de macaci din habitatul înconjurător.",
+                  "category": "recreational",
+                  "coords": [
+                        125.610032,
+                        -8.52727
+                  ]
+            },
+            {
+                  "name": "Station IV",
+                  "text": "A patra stațiune a crucii de-a lungul potecii creștine de pelerinaj care urcă spre statuia Cristo Rei.",
+                  "category": "landmark",
+                  "coords": [
+                        125.610306,
+                        -8.523926
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia",
+                  "text": "A sandy shore near the Cristo Rei area, known for the local macaque population in the surrounding habitat.",
+                  "category": "recreational",
+                  "coords": [
+                        125.610032,
+                        -8.52727
+                  ]
+            },
+            {
+                  "name": "Station IV",
+                  "text": "The fourth station of the cross along the Christian pilgrimage path ascending to the Cristo Rei statue.",
+                  "category": "landmark",
+                  "coords": [
+                        125.610306,
+                        -8.523926
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "TL-DI",
     coords: [125.6111, -8.5251],
@@ -399,7 +1362,52 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     },
   },
   {
-    id: "jardim-borja-da-costa-life-v2",
+    id: "jardim-borja-da-costa-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monumento Francisco Xavier do Amaral",
+                  "text": "Das Monumento Francisco Xavier do Amaral ist ein Denkmal in jardim-borja-da-costa-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        125.579812,
+                        -8.559259
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monumento Francisco Xavier do Amaral",
+                  "text": "A Monumento Francisco Xavier do Amaral egy emlékmű jardim-borja-da-costa-life-v2 városában.",
+                  "category": "historical",
+                  "coords": [
+                        125.579812,
+                        -8.559259
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumento Francisco Xavier do Amaral",
+                  "text": "Monumento Francisco Xavier do Amaral este un monument din jardim-borja-da-costa-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        125.579812,
+                        -8.559259
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monumento Francisco Xavier do Amaral",
+                  "text": "Monumento Francisco Xavier do Amaral is a monument in jardim-borja-da-costa-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        125.579812,
+                        -8.559259
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "TL-DI",
     coords: [125.5781, -8.5581],
@@ -443,7 +1451,52 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     },
   },
   {
-    id: "com-coastal-reserve-life-v2",
+    id: "com-coastal-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Capela Sao Jose Pitileti",
+                  "text": "Die christliche Kapelle Sao Jose Pitileti bietet Gläubigen nahe der Küstenlinie von Com einen Ort der Besinnung.",
+                  "category": "landmark",
+                  "coords": [
+                        127.036404,
+                        -8.369074
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Capela Sao Jose Pitileti",
+                  "text": "A Sao Jose Pitileti keresztény kápolna a comi partvonal közelében nyújt a hívőknek helyet az elmélkedésre.",
+                  "category": "landmark",
+                  "coords": [
+                        127.036404,
+                        -8.369074
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Capela Sao Jose Pitileti",
+                  "text": "Capela creștină Sao Jose Pitileti oferă credincioșilor un loc de reculegere în apropierea coastei din Com.",
+                  "category": "landmark",
+                  "coords": [
+                        127.036404,
+                        -8.369074
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Capela Sao Jose Pitileti",
+                  "text": "The Christian chapel of Sao Jose Pitileti offers worshippers a place of reflection near the coastline of Com.",
+                  "category": "landmark",
+                  "coords": [
+                        127.036404,
+                        -8.369074
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "TL-LA",
     coords: [127.0601, -8.3581],
@@ -487,7 +1540,304 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     },
   },
   {
-    id: "oecusse-sandalwood-life-v2",
+    id: "oecusse-sandalwood-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mud Volcanoes",
+                  "text": "Die Schlammvulkane sind eine faszinierende geologische Attraktion in oecusse-sandalwood-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        124.377115,
+                        -9.362147
+                  ]
+            },
+            {
+                  "name": "Nuaf Benak",
+                  "text": "Nuaf Benak ist ein markanter Berggipfel mit weitem Blick über oecusse-sandalwood-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        124.393611,
+                        -9.360833
+                  ]
+            },
+            {
+                  "name": "KAPELA BAQUI",
+                  "text": "KAPELA BAQUI ist eine friedliche christliche Kapelle in oecusse-sandalwood-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        124.351429,
+                        -9.284104
+                  ]
+            },
+            {
+                  "name": "Capela Sta-Lucia de Nunu-Heno",
+                  "text": "Capela Sta-Lucia de Nunu-Heno ist eine christliche Kapelle, die einen heiligen Raum in oecusse-sandalwood-life-v2 bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        124.347198,
+                        -9.272608
+                  ]
+            },
+            {
+                  "name": "Kapela St. Maria Auxiliadora",
+                  "text": "Kapela St. Maria Auxiliadora ist eine schöne christliche Kapelle in oecusse-sandalwood-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        124.356623,
+                        -9.265309
+                  ]
+            },
+            {
+                  "name": "Kapela Nossa Senhora de Fatima Oe-Lila",
+                  "text": "Die Kapela Nossa Senhora de Fatima Oe-Lila ist eine christliche Stätte in oecusse-sandalwood-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        124.351425,
+                        -9.250143
+                  ]
+            },
+            {
+                  "name": "Kapela Bihala",
+                  "text": "Die Kapela Bihala ist eine christliche Kapelle in oecusse-sandalwood-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        124.368144,
+                        -9.278319
+                  ]
+            },
+            {
+                  "name": "Maumate Market",
+                  "text": "Der Maumate Market ist ein lokaler Marktplatz in oecusse-sandalwood-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        124.353532,
+                        -9.279896
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mud Volcanoes",
+                  "text": "Az iszapvulkánok lenyűgöző geológiai látványosságok oecusse-sandalwood-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        124.377115,
+                        -9.362147
+                  ]
+            },
+            {
+                  "name": "Nuaf Benak",
+                  "text": "A Nuaf Benak egy jellegzetes hegycsúcs, ahonnan kiterjedt kilátás nyílik oecusse-sandalwood-life-v2 tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        124.393611,
+                        -9.360833
+                  ]
+            },
+            {
+                  "name": "KAPELA BAQUI",
+                  "text": "A KAPELA BAQUI egy békés keresztény kápolna az elmélkedésre és imádkozásra oecusse-sandalwood-life-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        124.351429,
+                        -9.284104
+                  ]
+            },
+            {
+                  "name": "Capela Sta-Lucia de Nunu-Heno",
+                  "text": "A Capela Sta-Lucia de Nunu-Heno egy keresztény kápolna, amely szent teret biztosít oecusse-sandalwood-life-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        124.347198,
+                        -9.272608
+                  ]
+            },
+            {
+                  "name": "Kapela St. Maria Auxiliadora",
+                  "text": "A Kapela St. Maria Auxiliadora egy gyönyörű keresztény kápolna, amely oecusse-sandalwood-life-v2 hívőit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        124.356623,
+                        -9.265309
+                  ]
+            },
+            {
+                  "name": "Kapela Nossa Senhora de Fatima Oe-Lila",
+                  "text": "A Kapela Nossa Senhora de Fatima Oe-Lila egy keresztény kápolna oecusse-sandalwood-life-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        124.351425,
+                        -9.250143
+                  ]
+            },
+            {
+                  "name": "Kapela Bihala",
+                  "text": "A Kapela Bihala egy keresztény vallási helyszín oecusse-sandalwood-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        124.368144,
+                        -9.278319
+                  ]
+            },
+            {
+                  "name": "Maumate Market",
+                  "text": "A Maumate Market egy helyi piac oecusse-sandalwood-life-v2 városában.",
+                  "category": "cultural",
+                  "coords": [
+                        124.353532,
+                        -9.279896
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mud Volcanoes",
+                  "text": "Vulcanii noroioși sunt o atracție geologică fascinantă care se găsește în oecusse-sandalwood-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        124.377115,
+                        -9.362147
+                  ]
+            },
+            {
+                  "name": "Nuaf Benak",
+                  "text": "Nuaf Benak este un vârf muntos distinctiv care oferă priveliști ample asupra oecusse-sandalwood-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        124.393611,
+                        -9.360833
+                  ]
+            },
+            {
+                  "name": "KAPELA BAQUI",
+                  "text": "KAPELA BAQUI este o capelă creștină liniștită pentru meditație și rugăciune în oecusse-sandalwood-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        124.351429,
+                        -9.284104
+                  ]
+            },
+            {
+                  "name": "Capela Sta-Lucia de Nunu-Heno",
+                  "text": "Capela Sta-Lucia de Nunu-Heno este o capelă creștină dedicată care oferă un spațiu sacru în oecusse-sandalwood-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        124.347198,
+                        -9.272608
+                  ]
+            },
+            {
+                  "name": "Kapela St. Maria Auxiliadora",
+                  "text": "Kapela St. Maria Auxiliadora este o frumoasă capelă creștină care deservește credincioșii din oecusse-sandalwood-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        124.356623,
+                        -9.265309
+                  ]
+            },
+            {
+                  "name": "Kapela Nossa Senhora de Fatima Oe-Lila",
+                  "text": "Kapela Nossa Senhora de Fatima Oe-Lila este un lăcaș de cult creștin din oecusse-sandalwood-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        124.351425,
+                        -9.250143
+                  ]
+            },
+            {
+                  "name": "Kapela Bihala",
+                  "text": "Kapela Bihala este un sit creștin din oecusse-sandalwood-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        124.368144,
+                        -9.278319
+                  ]
+            },
+            {
+                  "name": "Maumate Market",
+                  "text": "Maumate Market este o piață locală din oecusse-sandalwood-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        124.353532,
+                        -9.279896
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mud Volcanoes",
+                  "text": "The Mud Volcanoes are a fascinating geological attraction found in oecusse-sandalwood-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        124.377115,
+                        -9.362147
+                  ]
+            },
+            {
+                  "name": "Nuaf Benak",
+                  "text": "Nuaf Benak is a distinctive mountain peak offering sweeping vistas over oecusse-sandalwood-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        124.393611,
+                        -9.360833
+                  ]
+            },
+            {
+                  "name": "KAPELA BAQUI",
+                  "text": "KAPELA BAQUI is a peaceful Christian chapel for reflection and prayer in oecusse-sandalwood-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        124.351429,
+                        -9.284104
+                  ]
+            },
+            {
+                  "name": "Capela Sta-Lucia de Nunu-Heno",
+                  "text": "Capela Sta-Lucia de Nunu-Heno is a dedicated Christian chapel providing a sacred space in oecusse-sandalwood-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        124.347198,
+                        -9.272608
+                  ]
+            },
+            {
+                  "name": "Kapela St. Maria Auxiliadora",
+                  "text": "Kapela St. Maria Auxiliadora is a beautiful Christian chapel serving the faithful of oecusse-sandalwood-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        124.356623,
+                        -9.265309
+                  ]
+            },
+            {
+                  "name": "Kapela Nossa Senhora de Fatima Oe-Lila",
+                  "text": "The Kapela Nossa Senhora de Fatima Oe-Lila is a Christian site located in oecusse-sandalwood-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        124.351425,
+                        -9.250143
+                  ]
+            },
+            {
+                  "name": "Kapela Bihala",
+                  "text": "Kapela Bihala is a Christian site located in oecusse-sandalwood-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        124.368144,
+                        -9.278319
+                  ]
+            },
+            {
+                  "name": "Maumate Market",
+                  "text": "Maumate Market is a local marketplace situated in oecusse-sandalwood-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        124.353532,
+                        -9.279896
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "TL-OE",
     coords: [124.3661, -9.2831],
@@ -531,7 +1881,160 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     },
   },
   {
-    id: "baucau-terraces-life-v2",
+    id: "baucau-terraces-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sao Joao Maria Vianey",
+                  "text": "Die christliche Kirche Sao Joao Maria Vianey steht inmitten der landwirtschaftlich genutzten Terrassen von Baucau.",
+                  "category": "religious",
+                  "coords": [
+                        126.471665,
+                        -8.464843
+                  ]
+            },
+            {
+                  "name": "Igreja Evangelita, Visao Crista de Timor Leste",
+                  "text": "Diese evangelische Kirche fügt sich in die von Terrassenfeldern dominierte Landschaft von Baucau ein.",
+                  "category": "landmark",
+                  "coords": [
+                        126.458864,
+                        -8.46827
+                  ]
+            },
+            {
+                  "name": "Igreja Adventista do Sétimo Dia Baucau Timor-Leste",
+                  "text": "Die Kirche der Siebenten-Tags-Adventisten versammelt ihre Gemeinde in der terrassierten Hügellandschaft von Baucau.",
+                  "category": "landmark",
+                  "coords": [
+                        126.455421,
+                        -8.470996
+                  ]
+            },
+            {
+                  "name": "Uailili Church",
+                  "text": "Die Uailili-Kirche ist ein spiritueller Bezugspunkt inmitten der lebendigen Terrassenlandschaft von Baucau.",
+                  "category": "religious",
+                  "coords": [
+                        126.436355,
+                        -8.526131
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sao Joao Maria Vianey",
+                  "text": "A Sao Joao Maria Vianey keresztény templom Baucau mezőgazdasági teraszainak közepén áll.",
+                  "category": "religious",
+                  "coords": [
+                        126.471665,
+                        -8.464843
+                  ]
+            },
+            {
+                  "name": "Igreja Evangelita, Visao Crista de Timor Leste",
+                  "text": "Ez az evangélikus templom a teraszos mezők által dominált baucaui tájba simul.",
+                  "category": "landmark",
+                  "coords": [
+                        126.458864,
+                        -8.46827
+                  ]
+            },
+            {
+                  "name": "Igreja Adventista do Sétimo Dia Baucau Timor-Leste",
+                  "text": "A Hetednapi Adventista Egyház temploma a baucaui teraszos dombvidéken gyűjti össze közösségét.",
+                  "category": "landmark",
+                  "coords": [
+                        126.455421,
+                        -8.470996
+                  ]
+            },
+            {
+                  "name": "Uailili Church",
+                  "text": "Az Uailili templom egy spirituális hivatkozási pont a nyüzsgő baucaui teraszos táj kellős közepén.",
+                  "category": "religious",
+                  "coords": [
+                        126.436355,
+                        -8.526131
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sao Joao Maria Vianey",
+                  "text": "Biserica creștină Sao Joao Maria Vianey stă în mijlocul teraselor agricole din Baucau.",
+                  "category": "religious",
+                  "coords": [
+                        126.471665,
+                        -8.464843
+                  ]
+            },
+            {
+                  "name": "Igreja Evangelita, Visao Crista de Timor Leste",
+                  "text": "Această biserică evanghelică se integrează în peisajul dominat de câmpurile terasate din Baucau.",
+                  "category": "landmark",
+                  "coords": [
+                        126.458864,
+                        -8.46827
+                  ]
+            },
+            {
+                  "name": "Igreja Adventista do Sétimo Dia Baucau Timor-Leste",
+                  "text": "Biserica Adventistă de Ziua a Șaptea își adună congregația în peisajul de dealuri terasate din Baucau.",
+                  "category": "landmark",
+                  "coords": [
+                        126.455421,
+                        -8.470996
+                  ]
+            },
+            {
+                  "name": "Uailili Church",
+                  "text": "Biserica Uailili este un punct de referință spiritual în mijlocul peisajului vibrant cu terase din Baucau.",
+                  "category": "religious",
+                  "coords": [
+                        126.436355,
+                        -8.526131
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sao Joao Maria Vianey",
+                  "text": "The Christian church of Sao Joao Maria Vianey stands amidst the agricultural terraces of Baucau.",
+                  "category": "religious",
+                  "coords": [
+                        126.471665,
+                        -8.464843
+                  ]
+            },
+            {
+                  "name": "Igreja Evangelita, Visao Crista de Timor Leste",
+                  "text": "This evangelical church blends into the landscape dominated by terraced fields in Baucau.",
+                  "category": "landmark",
+                  "coords": [
+                        126.458864,
+                        -8.46827
+                  ]
+            },
+            {
+                  "name": "Igreja Adventista do Sétimo Dia Baucau Timor-Leste",
+                  "text": "The Seventh-day Adventist church gathers its congregation in the terraced hills of Baucau.",
+                  "category": "landmark",
+                  "coords": [
+                        126.455421,
+                        -8.470996
+                  ]
+            },
+            {
+                  "name": "Uailili Church",
+                  "text": "Uailili Church is a spiritual reference point amidst the vibrant terraced landscape of Baucau.",
+                  "category": "religious",
+                  "coords": [
+                        126.436355,
+                        -8.526131
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "TL-BA",
     coords: [126.4581, -8.4711],
@@ -575,7 +2078,88 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     },
   },
   {
-    id: "lospalos-livestock-life-v2",
+    id: "lospalos-livestock-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fataluku House",
+                  "text": "Das Fataluku House ist eine kulturelle Sehenswürdigkeit in lospalos-livestock-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.998897,
+                        -8.521876
+                  ]
+            },
+            {
+                  "name": "Igreja Sao Paulo Lospalos",
+                  "text": "Igreja Sao Paulo Lospalos ist ein christliches Wahrzeichen in lospalos-livestock-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.996362,
+                        -8.522122
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fataluku House",
+                  "text": "A Fataluku House egy kulturális látványosság lospalos-livestock-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        126.998897,
+                        -8.521876
+                  ]
+            },
+            {
+                  "name": "Igreja Sao Paulo Lospalos",
+                  "text": "Az Igreja Sao Paulo Lospalos egy keresztény nevezetesség lospalos-livestock-life-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        126.996362,
+                        -8.522122
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fataluku House",
+                  "text": "Fataluku House este o atracție culturală situată în lospalos-livestock-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.998897,
+                        -8.521876
+                  ]
+            },
+            {
+                  "name": "Igreja Sao Paulo Lospalos",
+                  "text": "Igreja Sao Paulo Lospalos este un reper creștin situat în lospalos-livestock-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.996362,
+                        -8.522122
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fataluku House",
+                  "text": "Fataluku House is a cultural attraction situated in lospalos-livestock-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.998897,
+                        -8.521876
+                  ]
+            },
+            {
+                  "name": "Igreja Sao Paulo Lospalos",
+                  "text": "Igreja Sao Paulo Lospalos is a Christian landmark located in lospalos-livestock-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.996362,
+                        -8.522122
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "TL-LA",
     coords: [126.9951, -8.5221],
@@ -663,7 +2247,52 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     },
   },
   {
-    id: "viqueque-teak-forests-life-v2",
+    id: "viqueque-teak-forests-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jadin",
+                  "text": "Das Jadin ist ein lokales Denkmal in der Gegend der Viqueque-Teakwälder.",
+                  "category": "historical",
+                  "coords": [
+                        126.364389,
+                        -8.866447
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jadin",
+                  "text": "A Jadin egy helyi emlékmű a viqueque-i teakfák erdeinek vidékén.",
+                  "category": "historical",
+                  "coords": [
+                        126.364389,
+                        -8.866447
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jadin",
+                  "text": "Jadin este un monument local situat în zona pădurilor de tec din Viqueque.",
+                  "category": "historical",
+                  "coords": [
+                        126.364389,
+                        -8.866447
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jadin",
+                  "text": "The Jadin is a local monument situated in the Viqueque teak forests area.",
+                  "category": "historical",
+                  "coords": [
+                        126.364389,
+                        -8.866447
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "TL-VI",
     coords: [126.3641, -8.8671],
@@ -707,7 +2336,88 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     },
   },
   {
-    id: "timor-plaza-kids-zone-life-v2",
+    id: "timor-plaza-kids-zone-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Barbeque Market",
+                  "text": "Der Barbeque Market ist eine kulinarische Attraktion in timor-plaza-kids-zone-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.543735,
+                        -8.541334
+                  ]
+            },
+            {
+                  "name": "Kapela Sagrada Familia Bebonuk",
+                  "text": "Die Kapela Sagrada Familia Bebonuk ist eine lokale Kapelle in timor-plaza-kids-zone-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        125.541805,
+                        -8.542701
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Barbeque Market",
+                  "text": "A Barbeque Market egy étkezési látványosság timor-plaza-kids-zone-life-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        125.543735,
+                        -8.541334
+                  ]
+            },
+            {
+                  "name": "Kapela Sagrada Familia Bebonuk",
+                  "text": "A Kapela Sagrada Familia Bebonuk egy helyi kápolna timor-plaza-kids-zone-life-v2 területén.",
+                  "category": "religious",
+                  "coords": [
+                        125.541805,
+                        -8.542701
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Barbeque Market",
+                  "text": "Barbeque Market este o atracție culinară localizată în timor-plaza-kids-zone-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.543735,
+                        -8.541334
+                  ]
+            },
+            {
+                  "name": "Kapela Sagrada Familia Bebonuk",
+                  "text": "Kapela Sagrada Familia Bebonuk este o capelă locală din timor-plaza-kids-zone-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        125.541805,
+                        -8.542701
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Barbeque Market",
+                  "text": "The Barbeque Market is an engaging food-based attraction in timor-plaza-kids-zone-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.543735,
+                        -8.541334
+                  ]
+            },
+            {
+                  "name": "Kapela Sagrada Familia Bebonuk",
+                  "text": "Kapela Sagrada Familia Bebonuk is a local chapel offering religious services in timor-plaza-kids-zone-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        125.541805,
+                        -8.542701
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "TL-DI",
     coords: [125.5481, -8.5531],
@@ -795,7 +2505,52 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     },
   },
   {
-    id: "same-cocoa-farms-life-v2",
+    id: "same-cocoa-farms-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Igreza protestante",
+                  "text": "Diese in der für ihre Kakaofarmen bekannten Same-Region gelegene protestantische Kirche versammelt die landwirtschaftliche Gemeinde zum Sonntagsgottesdienst.",
+                  "category": "landmark",
+                  "coords": [
+                        125.64885,
+                        -9.006039
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Igreza protestante",
+                  "text": "A kakaóültetvényeiről ismert Same régióban található protestáns templom vasárnapi istentiszteletre gyűjti össze a mezőgazdasági közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        125.64885,
+                        -9.006039
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Igreza protestante",
+                  "text": "Situată în regiunea Same, cunoscută pentru fermele sale de cacao, această biserică protestantă adună comunitatea agricolă pentru cultul de duminică.",
+                  "category": "landmark",
+                  "coords": [
+                        125.64885,
+                        -9.006039
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Igreza protestante",
+                  "text": "Situated in the Same region known for its cocoa farms, this Protestant church gathers the agricultural community for Sunday worship.",
+                  "category": "landmark",
+                  "coords": [
+                        125.64885,
+                        -9.006039
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "TL-MA",
     coords: [125.6481, -9.0041],
@@ -839,7 +2594,124 @@ export const poiExtraTimorlesteLifeV2: POI[] = [
     },
   },
   {
-    id: "fuiloro-plateau-farms-life-v2",
+    id: "fuiloro-plateau-farms-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Portuguese Fort",
+                  "text": "Das portugiesische Fort ist eine historische Sehenswürdigkeit in fuiloro-plateau-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        127.005574,
+                        -8.444158
+                  ]
+            },
+            {
+                  "name": "Traditional houses",
+                  "text": "Diese traditionellen Häuser dienen als Denkmal in fuiloro-plateau-farms-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        127.015427,
+                        -8.44219
+                  ]
+            },
+            {
+                  "name": "Igreja Iralafai",
+                  "text": "Igreja Iralafai ist eine Kultstätte in fuiloro-plateau-farms-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        127.040775,
+                        -8.431393
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Portuguese Fort",
+                  "text": "A portugál erőd egy történelmi látványosság fuiloro-plateau-farms-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        127.005574,
+                        -8.444158
+                  ]
+            },
+            {
+                  "name": "Traditional houses",
+                  "text": "Ezek a hagyományos házak műemlékként szolgálnak fuiloro-plateau-farms-life-v2 területén.",
+                  "category": "historical",
+                  "coords": [
+                        127.015427,
+                        -8.44219
+                  ]
+            },
+            {
+                  "name": "Igreja Iralafai",
+                  "text": "Az Igreja Iralafai egy istentiszteleti hely fuiloro-plateau-farms-life-v2 városában.",
+                  "category": "religious",
+                  "coords": [
+                        127.040775,
+                        -8.431393
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Portuguese Fort",
+                  "text": "Fortul portughez este o atracție istorică din fuiloro-plateau-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        127.005574,
+                        -8.444158
+                  ]
+            },
+            {
+                  "name": "Traditional houses",
+                  "text": "Aceste case tradiționale servesc drept monument în fuiloro-plateau-farms-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        127.015427,
+                        -8.44219
+                  ]
+            },
+            {
+                  "name": "Igreja Iralafai",
+                  "text": "Igreja Iralafai este un lăcaș de cult situat în fuiloro-plateau-farms-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        127.040775,
+                        -8.431393
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Portuguese Fort",
+                  "text": "The Portuguese Fort is a historical attraction found in fuiloro-plateau-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        127.005574,
+                        -8.444158
+                  ]
+            },
+            {
+                  "name": "Traditional houses",
+                  "text": "These traditional houses serve as a monument in fuiloro-plateau-farms-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        127.015427,
+                        -8.44219
+                  ]
+            },
+            {
+                  "name": "Igreja Iralafai",
+                  "text": "Igreja Iralafai is a place of worship located in fuiloro-plateau-farms-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        127.040775,
+                        -8.431393
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "TL-LA",
     coords: [126.9661, -8.4161],

@@ -7,7 +7,7 @@ export const estoniaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Keila Jõepargi supelrand",
-                  "text": "Badestrand im Jõepark von Keila.",
+                  "text": "Badesandstrand im Keila-Flusspark.",
                   "category": "recreational",
                   "coords": [
                         24.439372,
@@ -16,7 +16,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Keila Mõisa supelrand",
-                  "text": "Badestrand bei Keila Mõis.",
+                  "text": "Badesandstrand am Gutshof Keila.",
                   "category": "recreational",
                   "coords": [
                         24.441454,
@@ -61,7 +61,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Kumna mõisa peahoone",
-                  "text": "Das Hauptgebäude des historischen Gutshofs Kumna.",
+                  "text": "Herrenhaus aus dem 19. Jahrhundert in Parkanlage bei Keila.",
                   "category": "historical",
                   "coords": [
                         24.448899,
@@ -79,7 +79,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Keila uusapostlik kirik",
-                  "text": "Eine neuapostolische Kirche in Keila.",
+                  "text": "Neuapostolische Kirche aus den 1990er Jahren in Keila.",
                   "category": "religious",
                   "coords": [
                         24.416722,
@@ -88,7 +88,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Michaelis-Kirche",
-                  "text": "Eine historische Kirche in Keila.",
+                  "text": "Mittelalterliche Steinkirche mit freistehendem Glockenturm in Keila.",
                   "category": "religious",
                   "coords": [
                         24.429723,
@@ -117,7 +117,7 @@ export const estoniaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Keila Jõepargi supelrand",
-                  "text": "Strand a Keila Jõeparkban.",
+                  "text": "Fürdő strand a Keila folyóparkban.",
                   "category": "recreational",
                   "coords": [
                         24.439372,
@@ -126,7 +126,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Keila Mõisa supelrand",
-                  "text": "Strand a Keila Mõis közelében.",
+                  "text": "Fürdő strand a Keila kastélynál.",
                   "category": "recreational",
                   "coords": [
                         24.441454,
@@ -171,7 +171,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Kumna mõisa peahoone",
-                  "text": "A történelmi Kumna udvarház főépülete.",
+                  "text": "19. századi kastély parkos területen Keila mellett.",
                   "category": "historical",
                   "coords": [
                         24.448899,
@@ -189,7 +189,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Keila uusapostlik kirik",
-                  "text": "Újapostoli templom Keila városában.",
+                  "text": "Új Apostoli templom az 1990-es évekből Keilában.",
                   "category": "religious",
                   "coords": [
                         24.416722,
@@ -198,7 +198,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Keila kirik",
-                  "text": "Történelmi templom Keila városában.",
+                  "text": "Középkori kőtemplom különálló harangtoronnyal Keilában.",
                   "category": "religious",
                   "coords": [
                         24.429723,
@@ -227,7 +227,7 @@ export const estoniaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Keila Jõepargi supelrand",
-                  "text": "Plajă în parcul râului Keila.",
+                  "text": "Plajă de înot în Parcul Fluvial Keila.",
                   "category": "recreational",
                   "coords": [
                         24.439372,
@@ -236,7 +236,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Keila Mõisa supelrand",
-                  "text": "Plajă lângă Conacul Keila.",
+                  "text": "Plajă de înot la Conacul Keila.",
                   "category": "recreational",
                   "coords": [
                         24.441454,
@@ -281,7 +281,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Kumna mõisa peahoone",
-                  "text": "Clădirea principală a conacului istoric Kumna.",
+                  "text": "Conac din secolul al XIX-lea în parc lângă Keila.",
                   "category": "historical",
                   "coords": [
                         24.448899,
@@ -299,7 +299,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Keila uusapostlik kirik",
-                  "text": "O biserică nou-apostolică în Keila.",
+                  "text": "Biserică Nouapostolică construită în anii 1990 în Keila.",
                   "category": "religious",
                   "coords": [
                         24.416722,
@@ -308,7 +308,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Keila kirik",
-                  "text": "O biserică istorică în Keila.",
+                  "text": "Biserică medievală de piatră cu turn clopotniță separat în Keila.",
                   "category": "religious",
                   "coords": [
                         24.429723,
@@ -337,7 +337,7 @@ export const estoniaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Keila Jõepargi supelrand",
-                  "text": "Beach in the Keila River Park.",
+                  "text": "Swimming beach in Keila River Park.",
                   "category": "recreational",
                   "coords": [
                         24.439372,
@@ -346,7 +346,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Keila Mõisa supelrand",
-                  "text": "Beach near Keila Manor.",
+                  "text": "Swimming beach at Keila Manor.",
                   "category": "recreational",
                   "coords": [
                         24.441454,
@@ -391,7 +391,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Kumna mõisa peahoone",
-                  "text": "The main building of the historic Kumna manor.",
+                  "text": "19th-century manor house in parkland near Keila.",
                   "category": "historical",
                   "coords": [
                         24.448899,
@@ -409,7 +409,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Keila uusapostlik kirik",
-                  "text": "A New Apostolic church in Keila.",
+                  "text": "New Apostolic church built in the 1990s in Keila.",
                   "category": "religious",
                   "coords": [
                         24.416722,
@@ -418,7 +418,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Keila kirik",
-                  "text": "A historic church in Keila.",
+                  "text": "Medieval stone church with a freestanding bell tower in Keila.",
                   "category": "religious",
                   "coords": [
                         24.429723,
@@ -529,7 +529,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Kõnnu järv",
-                  "text": "Kõnnu järv ist ein See in Kohila, der von einer unberührten Naturlandschaft umgeben ist.",
+                  "text": "See in Kohila zum Schwimmen genutzt.",
                   "category": "natural",
                   "coords": [
                         24.744294,
@@ -547,7 +547,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Kohila Posti ujumiskoht",
-                  "text": "Kohila Posti ujumiskoht in Kohila ist ein Badebereich für eine Erfrischung im Freien.",
+                  "text": "Badeplatz nahe der Post in Kohila.",
                   "category": "family",
                   "coords": [
                         24.756302,
@@ -594,7 +594,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Kõnnu järv",
-                  "text": "A Kõnnu järv egy tó Kohilában, amelyet érintetlen természeti táj vesz körül.",
+                  "text": "Tó Kohilában, úszásra használt.",
                   "category": "natural",
                   "coords": [
                         24.744294,
@@ -612,7 +612,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Kohila Posti ujumiskoht",
-                  "text": "A Kohila Posti ujumiskoht Kohilában egy fürdőhely a szabadtéri hűsöléshez.",
+                  "text": "Fürdőhely Kohila posta közelében.",
                   "category": "family",
                   "coords": [
                         24.756302,
@@ -659,7 +659,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Kõnnu järv",
-                  "text": "Kõnnu järv este un lac în Kohila, înconjurat de un peisaj natural virgin.",
+                  "text": "Lac în Kohila folosit pentru înot.",
                   "category": "natural",
                   "coords": [
                         24.744294,
@@ -677,7 +677,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Kohila Posti ujumiskoht",
-                  "text": "Kohila Posti ujumiskoht din Kohila este o zonă de înot pentru o răcorire în aer liber.",
+                  "text": "Loc de înot lângă poșta din Kohila.",
                   "category": "family",
                   "coords": [
                         24.756302,
@@ -724,7 +724,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Kõnnu järv",
-                  "text": "Kõnnu järv is a lake in Kohila, surrounded by a pristine natural landscape.",
+                  "text": "Lake in Kohila used for swimming.",
                   "category": "natural",
                   "coords": [
                         24.744294,
@@ -742,7 +742,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Kohila Posti ujumiskoht",
-                  "text": "Kohila Posti ujumiskoht in Kohila is a swimming area for an outdoor cooling dip.",
+                  "text": "Swimming spot near Kohila post office.",
                   "category": "family",
                   "coords": [
                         24.756302,
@@ -826,7 +826,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Saue ujula",
-                  "text": "Ein öffentliches Schwimmbad in der Stadt Saue.",
+                  "text": "Schwimmbad in Saue.",
                   "category": "recreational",
                   "coords": [
                         24.5609,
@@ -864,7 +864,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Saue ujula",
-                  "text": "Nyilvános úszómedence Saue városában.",
+                  "text": "Uszoda Saueban.",
                   "category": "recreational",
                   "coords": [
                         24.5609,
@@ -902,7 +902,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Saue ujula",
-                  "text": "O piscină publică în orașul Saue.",
+                  "text": "Piscină în Saue.",
                   "category": "recreational",
                   "coords": [
                         24.5609,
@@ -940,7 +940,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Saue ujula",
-                  "text": "A public swimming pool in the town of Saue.",
+                  "text": "Swimming pool in Saue.",
                   "category": "recreational",
                   "coords": [
                         24.5609,
@@ -997,7 +997,7 @@ export const estoniaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Tiigi pargi supelrand",
-                  "text": "Badestrand im Tiigi-Park in Sindi.",
+                  "text": "Badesandstrand im Tiigi-Park, Sindi.",
                   "category": "recreational",
                   "coords": [
                         24.664218,
@@ -1006,7 +1006,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Sindi muuseum",
-                  "text": "Ein lokales Museum in Sindi.",
+                  "text": "Museum im ehemaligen Gerberei-Gebäude in Sindi.",
                   "category": "museum",
                   "coords": [
                         24.653884,
@@ -1015,7 +1015,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Sindi raekoda",
-                  "text": "Das Rathaus von Sindi.",
+                  "text": "Historisches Rathausgebäude in Sindi.",
                   "category": "historical",
                   "coords": [
                         24.645337,
@@ -1024,7 +1024,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Sindi Jumalailmumise kirik",
-                  "text": "Eine orthodoxe Kirche in Sindi.",
+                  "text": "Orthodoxe Kirche (Erscheinung des Herrn) in Sindi mit Zwiebelturm.",
                   "category": "religious",
                   "coords": [
                         24.647463,
@@ -1125,7 +1125,7 @@ export const estoniaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Tiigi pargi supelrand",
-                  "text": "Strand a Sindi-i Tiigi parkban.",
+                  "text": "Fürdő strand a Tiigi parkban, Sindiben.",
                   "category": "recreational",
                   "coords": [
                         24.664218,
@@ -1134,7 +1134,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Sindi muuseum",
-                  "text": "Helyi múzeum Sindi városában.",
+                  "text": "Múzeum a volt tímárműhely épületében Sindiben.",
                   "category": "museum",
                   "coords": [
                         24.653884,
@@ -1143,7 +1143,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Sindi raekoda",
-                  "text": "Sindi városháza.",
+                  "text": "Történelmi városháza épület Sindiben.",
                   "category": "historical",
                   "coords": [
                         24.645337,
@@ -1152,7 +1152,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Sindi Jumalailmumise kirik",
-                  "text": "Ortodox templom Sindi városában.",
+                  "text": "Ortodox templom (Úr megjelenése) Sindi városában, hagymakupolás toronnyal.",
                   "category": "religious",
                   "coords": [
                         24.647463,
@@ -1253,7 +1253,7 @@ export const estoniaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Tiigi pargi supelrand",
-                  "text": "Plajă în parcul Tiigi din Sindi.",
+                  "text": "Plajă de înot în Parcul Tiigi, Sindi.",
                   "category": "recreational",
                   "coords": [
                         24.664218,
@@ -1262,7 +1262,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Sindi muuseum",
-                  "text": "Un muzeu local în Sindi.",
+                  "text": "Muzeu găzduit în fosta tăbăcărie din Sindi.",
                   "category": "museum",
                   "coords": [
                         24.653884,
@@ -1271,7 +1271,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Sindi raekoda",
-                  "text": "Primăria orașului Sindi.",
+                  "text": "Clădire istorică a primăriei în Sindi.",
                   "category": "historical",
                   "coords": [
                         24.645337,
@@ -1280,7 +1280,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Sindi Jumalailmumise kirik",
-                  "text": "O biserică ortodoxă în Sindi.",
+                  "text": "Biserică ortodoxă (Epifania) în Sindi, cu turn în formă de ceapă.",
                   "category": "religious",
                   "coords": [
                         24.647463,
@@ -1381,7 +1381,7 @@ export const estoniaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Tiigi pargi supelrand",
-                  "text": "Beach in Tiigi Park, Sindi.",
+                  "text": "Swimming beach in Tiigi Park, Sindi.",
                   "category": "recreational",
                   "coords": [
                         24.664218,
@@ -1390,7 +1390,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Sindi Museum",
-                  "text": "A local museum in Sindi.",
+                  "text": "Museum housed in the former tannery in Sindi.",
                   "category": "museum",
                   "coords": [
                         24.653884,
@@ -1399,7 +1399,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Sindi raekoda",
-                  "text": "The town hall of Sindi.",
+                  "text": "Historic town hall building in Sindi.",
                   "category": "historical",
                   "coords": [
                         24.645337,
@@ -1408,7 +1408,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Sindi Jumalailmumise kirik",
-                  "text": "An Orthodox church in Sindi.",
+                  "text": "Orthodox church (Epiphany) in Sindi with an onion-domed tower.",
                   "category": "religious",
                   "coords": [
                         24.647463,
@@ -1609,7 +1609,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Kunda mõisa peahoone",
-                  "text": "Das ehemalige Hauptgebäude des historischen Gutshofes von Kunda.",
+                  "text": "Hauptgebäude des Gutshofs Kunda, ein historischer Ort.",
                   "category": "historical",
                   "coords": [
                         26.525557,
@@ -1627,7 +1627,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Kunda supelranna ujumiskoht",
-                  "text": "Kunda supelranna ujumiskoht in Kunda ist ein Badebereich für Wasserspaß am Strand.",
+                  "text": "Badeplatz am Kunda-Strand.",
                   "category": "family",
                   "coords": [
                         26.537348,
@@ -1636,7 +1636,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "EMK Kunda Betaania kogudus",
-                  "text": "Ein kirchliches Gebäude der Methodistengemeinde in Kunda.",
+                  "text": "Methodistenkirche in Kunda mit einem hölzernen Glockenstuhl.",
                   "category": "religious",
                   "coords": [
                         26.514199,
@@ -1701,7 +1701,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Kunda mõisa peahoone",
-                  "text": "A kundai történelmi kúria egykori főépülete.",
+                  "text": "A Kunda-kastély főépülete, történelmi hely.",
                   "category": "historical",
                   "coords": [
                         26.525557,
@@ -1719,7 +1719,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Kunda supelranna ujumiskoht",
-                  "text": "A Kunda supelranna ujumiskoht Kundában egy fürdőhely a strandoláshoz.",
+                  "text": "Fürdőhely a Kunda strandon.",
                   "category": "family",
                   "coords": [
                         26.537348,
@@ -1728,7 +1728,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "EMK Kunda Betaania kogudus",
-                  "text": "A metodista gyülekezet egyházi épülete Kunda városában.",
+                  "text": "Metodista templom Kunda városában, fa haranglábbal.",
                   "category": "religious",
                   "coords": [
                         26.514199,
@@ -1793,7 +1793,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Kunda mõisa peahoone",
-                  "text": "Fosta clădire principală a conacului istoric din Kunda.",
+                  "text": "Clădirea principală a Conacului Kunda, un sit istoric.",
                   "category": "historical",
                   "coords": [
                         26.525557,
@@ -1811,7 +1811,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Kunda supelranna ujumiskoht",
-                  "text": "Kunda supelranna ujumiskoht din Kunda este o zonă de scăldat pentru distracție pe plajă.",
+                  "text": "Loc de înot la plaja Kunda.",
                   "category": "family",
                   "coords": [
                         26.537348,
@@ -1820,7 +1820,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "EMK Kunda Betaania kogudus",
-                  "text": "O clădire religioasă a congregației metodiste din Kunda.",
+                  "text": "Biserică metodistă în Kunda, cu un clopotniță din lemn.",
                   "category": "religious",
                   "coords": [
                         26.514199,
@@ -1885,7 +1885,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Kunda mõisa peahoone",
-                  "text": "The former main building of the historic Kunda manor.",
+                  "text": "Main building of Kunda Manor, a historic site.",
                   "category": "historical",
                   "coords": [
                         26.525557,
@@ -1903,7 +1903,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Kunda supelranna ujumiskoht",
-                  "text": "Kunda supelranna ujumiskoht in Kunda is a swimming area for water fun at the beach.",
+                  "text": "Swimming spot at Kunda beach.",
                   "category": "family",
                   "coords": [
                         26.537348,
@@ -1912,7 +1912,7 @@ export const estoniaCitiesV2: POI[] = [
             },
             {
                   "name": "EMK Kunda Betaania kogudus",
-                  "text": "A religious building of the Methodist congregation in Kunda.",
+                  "text": "Methodist church in Kunda with a wooden belfry.",
                   "category": "religious",
                   "coords": [
                         26.514199,

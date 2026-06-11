@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraMongoliaReliefV2: POI[] = [
   {
-    id: "khuiten-peak-relief-v2",
+    id: "khuiten-peak-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chüiten-Gipfel",
+                  "text": "Der höchste Berg der Mongolei, dessen Gipfel das ganze Jahr über mit Schnee und Eis bedeckt ist.",
+                  "category": "natural",
+                  "coords": [
+                        87.816453,
+                        49.1446
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khüiten Peak",
+                  "text": "Mongólia legmagasabb hegye, melynek csúcsát egész évben hó és jég borítja.",
+                  "category": "natural",
+                  "coords": [
+                        87.816453,
+                        49.1446
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khüiten Peak",
+                  "text": "Cel mai înalt munte din Mongolia, al cărui vârf este acoperit de zăpadă și gheață tot anul.",
+                  "category": "natural",
+                  "coords": [
+                        87.816453,
+                        49.1446
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khüiten Peak",
+                  "text": "Mongolia's highest mountain, with a summit covered in permanent snow and ice.",
+                  "category": "natural",
+                  "coords": [
+                        87.816453,
+                        49.1446
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "MN-071",
     coords: [87.82, 49.146],
@@ -363,7 +408,52 @@ export const poiExtraMongoliaReliefV2: POI[] = [
     },
   },
   {
-    id: "sutai-mountain-relief-v2",
+    id: "sutai-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sutai khairkhan uul",
+                  "text": "Dieser dauerhaft schneebedeckte Gipfel im Altai-Gebirge erreicht eine Höhe von 4.220 Metern.",
+                  "category": "natural",
+                  "coords": [
+                        93.594234,
+                        46.61754
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sutai khairkhan uul",
+                  "text": "Az Altaj-hegységnek ez az állandóan hóval borított csúcsa 4220 méteres magasságba nyúlik.",
+                  "category": "natural",
+                  "coords": [
+                        93.594234,
+                        46.61754
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sutai khairkhan uul",
+                  "text": "Acest vârf acoperit permanent de zăpadă din lanțul Altai atinge o altitudine de 4.220 de metri.",
+                  "category": "natural",
+                  "coords": [
+                        93.594234,
+                        46.61754
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sutai Mountain",
+                  "text": "This permanent snow-capped peak in the Altai range reaches an elevation of 4,220 meters.",
+                  "category": "natural",
+                  "coords": [
+                        93.594234,
+                        46.61754
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "MN-065",
     coords: [93.585, 46.611],
@@ -723,7 +813,160 @@ export const poiExtraMongoliaReliefV2: POI[] = [
     },
   },
   {
-    id: "malchin-peak-relief-v2",
+    id: "malchin-peak-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Argamdzhi",
+                  "text": "Ein hoher Gipfel im Altai-Gebirge an der abgelegenen Grenzregion zwischen Russland und der Mongolei.",
+                  "category": "natural",
+                  "coords": [
+                        87.929892,
+                        49.209068
+                  ]
+            },
+            {
+                  "name": "Malchin Peak",
+                  "text": "Ein beliebter Gipfel an der Grenze zur Mongolei, der ohne technische Kletterausrüstung bestiegen werden kann.",
+                  "category": "natural",
+                  "coords": [
+                        87.875408,
+                        49.171809
+                  ]
+            },
+            {
+                  "name": "Hiliin bagana",
+                  "text": "Eine Markierungssäule an der Grenze in der rauen Hochgebirgslandschaft des Altai.",
+                  "category": "landmark",
+                  "coords": [
+                        87.908071,
+                        49.1748
+                  ]
+            },
+            {
+                  "name": "Yerunhiilugchiin ovoo",
+                  "text": "Ein ritueller schamanischer Steinhaufen, der für lokale Zeremonien in den Bergen genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        87.983789,
+                        49.138641
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Argamdzhi",
+                  "text": "Magas csúcs az Altaj-hegységben, az orosz-mongol határvidék elszigetelt részén.",
+                  "category": "natural",
+                  "coords": [
+                        87.929892,
+                        49.209068
+                  ]
+            },
+            {
+                  "name": "Malchin Peak",
+                  "text": "Népszerű csúcs a mongol határon, amely technikai felszerelés nélkül is megmászható.",
+                  "category": "natural",
+                  "coords": [
+                        87.875408,
+                        49.171809
+                  ]
+            },
+            {
+                  "name": "Hiliin bagana",
+                  "text": "Határjelző oszlop az Altaj zord, magashegyi táján.",
+                  "category": "landmark",
+                  "coords": [
+                        87.908071,
+                        49.1748
+                  ]
+            },
+            {
+                  "name": "Yerunhiilugchiin ovoo",
+                  "text": "Rituális sámánista kőhalom, amelyet helyi szertartásokhoz használnak a hegyekben.",
+                  "category": "landmark",
+                  "coords": [
+                        87.983789,
+                        49.138641
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Argamdzhi",
+                  "text": "Un vârf înalt din Munții Altai, situat în regiunea de frontieră izolată dintre Rusia și Mongolia.",
+                  "category": "natural",
+                  "coords": [
+                        87.929892,
+                        49.209068
+                  ]
+            },
+            {
+                  "name": "Malchin Peak",
+                  "text": "Un vârf popular la granița cu Mongolia, care poate fi urcat fără echipament tehnic de alpinism.",
+                  "category": "natural",
+                  "coords": [
+                        87.875408,
+                        49.171809
+                  ]
+            },
+            {
+                  "name": "Hiliin bagana",
+                  "text": "O bornă de frontieră situată în peisajul montan aspru din Altai.",
+                  "category": "landmark",
+                  "coords": [
+                        87.908071,
+                        49.1748
+                  ]
+            },
+            {
+                  "name": "Yerunhiilugchiin ovoo",
+                  "text": "O movilă rituală șamanică din piatră, folosită pentru ceremonii locale în munți.",
+                  "category": "landmark",
+                  "coords": [
+                        87.983789,
+                        49.138641
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Argamdzhi",
+                  "text": "A high peak in the Altai Mountains located in the remote border region between Russia and Mongolia.",
+                  "category": "natural",
+                  "coords": [
+                        87.929892,
+                        49.209068
+                  ]
+            },
+            {
+                  "name": "Malchin Peak",
+                  "text": "A popular peak on the Mongolian border that can be climbed without technical mountaineering equipment.",
+                  "category": "natural",
+                  "coords": [
+                        87.875408,
+                        49.171809
+                  ]
+            },
+            {
+                  "name": "Hiliin bagana",
+                  "text": "A border marker post situated in the rugged high-mountain landscape of the Altai.",
+                  "category": "landmark",
+                  "coords": [
+                        87.908071,
+                        49.1748
+                  ]
+            },
+            {
+                  "name": "President's ovoo",
+                  "text": "A ritual shamanic stone cairn used for local ceremonies in the mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        87.983789,
+                        49.138641
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "MN-071",
     coords: [87.876, 49.171],
@@ -1023,7 +1266,52 @@ export const poiExtraMongoliaReliefV2: POI[] = [
     },
   },
   {
-    id: "aj-bogd-relief-v2",
+    id: "aj-bogd-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Azh bogd uul",
+                  "text": "Ein hoher Berggipfel im mongolischen Altai-Gebirge mit beeindruckender Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        95.239936,
+                        44.799158
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Azh bogd uul",
+                  "text": "A mongol Altáj-hegység egyik magas csúcsa, lenyűgöző kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        95.239936,
+                        44.799158
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Azh bogd uul",
+                  "text": "Un vârf montan înalt în Munții Altai din Mongolia, oferind vederi impresionante.",
+                  "category": "natural",
+                  "coords": [
+                        95.239936,
+                        44.799158
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aj Bogd",
+                  "text": "A high mountain peak in the Mongolian Altai Mountains with impressive views.",
+                  "category": "natural",
+                  "coords": [
+                        95.239936,
+                        44.799158
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "MN-065",
     coords: [95.166, 44.833],
@@ -1143,7 +1431,52 @@ export const poiExtraMongoliaReliefV2: POI[] = [
     },
   },
   {
-    id: "uran-togoo-relief-v2",
+    id: "uran-togoo-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Uran-Togoo Tulga uulyn dursgalt gazar",
+                  "text": "Dieses bemerkenswerte Naturschutzgebiet in der Nähe des Uran-Togoo-Reliefs schützt die markante Landschaft eines erloschenen Vulkankraters.",
+                  "category": "natural",
+                  "coords": [
+                        102.750357,
+                        48.991736
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Uran-Togoo Tulga uulyn dursgalt gazar",
+                  "text": "Ez az Uran-Togoo domborzat közelében található nevezetes természetvédelmi terület egy kialudt vulkáni kráter jellegzetes táját védi.",
+                  "category": "natural",
+                  "coords": [
+                        102.750357,
+                        48.991736
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Uran-Togoo Tulga uulyn dursgalt gazar",
+                  "text": "Această rezervație naturală notabilă de lângă relieful Uran-Togoo protejează peisajul distinctiv al unui crater vulcanic stins.",
+                  "category": "natural",
+                  "coords": [
+                        102.750357,
+                        48.991736
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Uran-Togoo Tulga uulyn dursgalt gazar",
+                  "text": "This notable nature reserve near the Uran-Togoo relief protects the distinctive landscape of an extinct volcanic crater.",
+                  "category": "natural",
+                  "coords": [
+                        102.750357,
+                        48.991736
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "MN-045",
     coords: [102.736, 48.995],

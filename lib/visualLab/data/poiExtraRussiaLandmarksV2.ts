@@ -841,7 +841,7 @@ imageHint: "Peter the Great Monument Moscow river ship",
             },
             {
                   "name": "Джоки Джоя",
-                  "text": "Ein Indoor-Freizeitpark und Familienunterhaltungszentrum.",
+                  "text": "Ein Joki Joya – ein Indoor-Spielplatz im Park der Kolomenskoje-Himmelfahrtskirche.",
                   "category": "recreational",
                   "coords": [
                         37.677556,
@@ -850,7 +850,7 @@ imageHint: "Peter the Great Monument Moscow river ship",
             },
             {
                   "name": "Dream Beach Club",
-                  "text": "Ein Strandresort und Erholungsclub für Besucher.",
+                  "text": "Ein Dream Beach Club im Park der Kolomenskoje-Himmelfahrtskirche.",
                   "category": "recreational",
                   "coords": [
                         37.670571,
@@ -942,7 +942,7 @@ imageHint: "Peter the Great Monument Moscow river ship",
             },
             {
                   "name": "Джоки Джоя",
-                  "text": "Fedett vidámpark és családi szórakoztató központ.",
+                  "text": "Egy Joki Joya beltéri játszótér a Kolomenszkojei Mennybemenetel templom parkjában.",
                   "category": "recreational",
                   "coords": [
                         37.677556,
@@ -951,7 +951,7 @@ imageHint: "Peter the Great Monument Moscow river ship",
             },
             {
                   "name": "Dream Beach Club",
-                  "text": "Tengerparti üdülőhely és szabadidős klub a látogatók számára.",
+                  "text": "Egy Dream Beach Club a Kolomenszkojei Mennybemenetel templom parkjában.",
                   "category": "recreational",
                   "coords": [
                         37.670571,
@@ -1043,7 +1043,7 @@ imageHint: "Peter the Great Monument Moscow river ship",
             },
             {
                   "name": "Джоки Джоя",
-                  "text": "Un parc de distracții interior și centru de divertisment pentru familii.",
+                  "text": "Un parc de joacă interior Joki Joya în parcul Bisericii Înălțării din Kolomenskoye.",
                   "category": "recreational",
                   "coords": [
                         37.677556,
@@ -1052,7 +1052,7 @@ imageHint: "Peter the Great Monument Moscow river ship",
             },
             {
                   "name": "Dream Beach Club",
-                  "text": "O stațiune de plajă și club de recreere pentru vizitatori.",
+                  "text": "Un club de plajă Dream Beach în parcul Bisericii Înălțării din Kolomenskoye.",
                   "category": "recreational",
                   "coords": [
                         37.670571,
@@ -1144,7 +1144,7 @@ imageHint: "Peter the Great Monument Moscow river ship",
             },
             {
                   "name": "Joki Joya",
-                  "text": "An indoor theme park and family entertainment center.",
+                  "text": "An indoor playground Joki Joya inside the park of the Church of Ascension in Kolomenskoye.",
                   "category": "recreational",
                   "coords": [
                         37.677556,
@@ -1153,7 +1153,7 @@ imageHint: "Peter the Great Monument Moscow river ship",
             },
             {
                   "name": "Dream Beach Club",
-                  "text": "A beach resort and recreational club for visitors.",
+                  "text": "A Dream Beach Club located in the park of the Church of Ascension in Kolomenskoye.",
                   "category": "recreational",
                   "coords": [
                         37.670571,
@@ -2369,7 +2369,988 @@ imageHint: "State Russian Museum Mikhailovsky Palace Saint Petersburg",
     },
     image: "/poi-images/russia-russian-museum-landmarks-v2.webp",
 },  {
-    id: "russia-tobolsk-kremlin-landmarks-v2",
+    id: "russia-tobolsk-kremlin-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tobol'skii kreml'",
+                  "text": "Der Tobolsker Kreml ist der einzige steinerne Kreml in Sibirien und befindet sich in Tobolsk.",
+                  "category": "castle",
+                  "coords": [
+                        68.251363,
+                        58.199664
+                  ]
+            },
+            {
+                  "name": "Muzei istorii osvoeniia i izucheniia Sibiri",
+                  "text": "Das Museum für die Geschichte der Erschließung und Erforschung Sibiriens widmet sich der regionalen Geschichte von Tobolsk.",
+                  "category": "museum",
+                  "coords": [
+                        68.256858,
+                        58.201974
+                  ]
+            },
+            {
+                  "name": "Muzei sibirskoi katorgi i ssylki",
+                  "text": "Das Museum für sibirische Zwangsarbeit und Verbannung in Tobolsk beleuchtet die Geschichte der politischen Gefangenen.",
+                  "category": "museum",
+                  "coords": [
+                        68.24953,
+                        58.201378
+                  ]
+            },
+            {
+                  "name": "Kameliok",
+                  "text": "Kameliok ist eine museale Einrichtung im Bereich des Tobolsker Kremls.",
+                  "category": "museum",
+                  "coords": [
+                        68.24925,
+                        58.199274
+                  ]
+            },
+            {
+                  "name": "Muzei sem'i Imperatora Nikolaia II",
+                  "text": "Das Museum der Familie von Zar Nikolaus II. in Tobolsk dokumentiert das Leben der Romanows in der Verbannung.",
+                  "category": "museum",
+                  "coords": [
+                        68.243331,
+                        58.193626
+                  ]
+            },
+            {
+                  "name": "Dom masterov",
+                  "text": "Das Haus der Meister (Dom masterov) ist ein Museum in Tobolsk, das lokales Handwerk zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        68.256766,
+                        58.201005
+                  ]
+            },
+            {
+                  "name": "Muzei prirody",
+                  "text": "Das Naturmuseum (Muzei prirody) ist der lokalen Flora und Fauna von Tobolsk gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        68.255793,
+                        58.202503
+                  ]
+            },
+            {
+                  "name": "Muzei pechati",
+                  "text": "Das Druckereimuseum (Muzei pechati) in Tobolsk stellt die Geschichte der lokalen Buchdruckerkunst aus.",
+                  "category": "museum",
+                  "coords": [
+                        68.262262,
+                        58.206128
+                  ]
+            },
+            {
+                  "name": "Gostinyi dvor",
+                  "text": "Gostinyi dvor ist ein historischer Handelshof und Museumskomplex im Tobolsker Kreml.",
+                  "category": "museum",
+                  "coords": [
+                        68.252783,
+                        58.199929
+                  ]
+            },
+            {
+                  "name": "Prosforiia",
+                  "text": "Prosforiia ist ein architektonisches Denkmal und Museum im Komplex des Tobolsker Kremls.",
+                  "category": "museum",
+                  "coords": [
+                        68.254378,
+                        58.19918
+                  ]
+            },
+            {
+                  "name": "Rentereia",
+                  "text": "Rentereia, auch Schwedische Kammer genannt, ist ein historisches Museumsgebäude im Tobolsker Kreml.",
+                  "category": "museum",
+                  "coords": [
+                        68.250745,
+                        58.198574
+                  ]
+            },
+            {
+                  "name": "Molodiozhnyi teatr",
+                  "text": "Das Jugendtheater (Molodiozhnyi teatr) ist eine kulturelle Bühne in Tobolsk.",
+                  "category": "cultural",
+                  "coords": [
+                        68.254122,
+                        58.202639
+                  ]
+            },
+            {
+                  "name": "Tobol'skii dramaticheskii teatr imeni P.P. Ershova",
+                  "text": "Das P. P. Jerschow Dramentheater in Tobolsk führt lokale und klassische Stücke auf.",
+                  "category": "cultural",
+                  "coords": [
+                        68.276401,
+                        58.219507
+                  ]
+            },
+            {
+                  "name": "Evangel'skaia tserkov' \"Slovo Zhizni\"",
+                  "text": "Die Evangelische Kirche \"Wort des Lebens\" ist eine christliche Kultstätte in Tobolsk.",
+                  "category": "religious",
+                  "coords": [
+                        68.273764,
+                        58.216232
+                  ]
+            },
+            {
+                  "name": "Irtysh",
+                  "text": "Irtysch ist ein Marktplatz, der nach dem nahegelegenen Fluss in Tobolsk benannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        68.240805,
+                        58.192673
+                  ]
+            },
+            {
+                  "name": "Kupets",
+                  "text": "Kupets ist ein lokaler Marktplatz für Waren in der Stadt Tobolsk.",
+                  "category": "cultural",
+                  "coords": [
+                        68.246427,
+                        58.184791
+                  ]
+            },
+            {
+                  "name": "Zhiloi dom (1899 g.)",
+                  "text": "Das Wohnhaus von 1899 ist eine historische Touristenattraktion in Tobolsk.",
+                  "category": "landmark",
+                  "coords": [
+                        68.235566,
+                        58.189184
+                  ]
+            },
+            {
+                  "name": "M. S. Znamenskii",
+                  "text": "M. S. Znamenskii ist eine historische Sehenswürdigkeit im Gedenken an den Künstler in Tobolsk.",
+                  "category": "landmark",
+                  "coords": [
+                        68.266453,
+                        58.213301
+                  ]
+            },
+            {
+                  "name": "Tsisternaia (1910 g.)",
+                  "text": "Tsisternaia (1910) ist ein architektonisches Bauwerk und eine historische Attraktion in Tobolsk.",
+                  "category": "landmark",
+                  "coords": [
+                        68.266384,
+                        58.211586
+                  ]
+            },
+            {
+                  "name": "Mogila P. P. Ershova i S. A. Ershovoi",
+                  "text": "Das Grab von P. P. Jerschow und S. A. Jerschowa ist eine historische Grabstätte in Tobolsk.",
+                  "category": "landmark",
+                  "coords": [
+                        68.267368,
+                        58.214372
+                  ]
+            },
+            {
+                  "name": "Zhiloi dom (1907 g.)",
+                  "text": "Zhiloi dom (1907 g.) ist ein historisches Wohnhaus und eine Sehenswürdigkeit in Tobolsk.",
+                  "category": "landmark",
+                  "coords": [
+                        68.248521,
+                        58.181669
+                  ]
+            },
+            {
+                  "name": "Andreevskaia tserkov' (1755 g.)",
+                  "text": "Die Andreevskaia tserkov' (1755 g.) ist eine Kirche aus dem 18. Jahrhundert und eine bemerkenswerte Sehenswürdigkeit in Tobolsk.",
+                  "category": "landmark",
+                  "coords": [
+                        68.247397,
+                        58.182231
+                  ]
+            },
+            {
+                  "name": "Zhiloi dom (1902 g.)",
+                  "text": "Zhiloi dom (1902 g.) ist ein altes Wohnhaus, das als Sehenswürdigkeit in Tobolsk dient.",
+                  "category": "landmark",
+                  "coords": [
+                        68.245518,
+                        58.18364
+                  ]
+            },
+            {
+                  "name": "Zhiloi dom (1889 g.)",
+                  "text": "Zhiloi dom (1889 g.) ist ein historisches Haus, das als Touristenattraktion in Tobolsk fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        68.24735,
+                        58.18501
+                  ]
+            },
+            {
+                  "name": "Zhiloi dom (1895 g.)",
+                  "text": "Zhiloi dom (1895 g.) ist ein erhaltenes historisches Wohnhaus und eine Sehenswürdigkeit in Tobolsk.",
+                  "category": "landmark",
+                  "coords": [
+                        68.247062,
+                        58.187389
+                  ]
+            },
+            {
+                  "name": "Zhiloi dom (1903 g.)",
+                  "text": "Zhiloi dom (1903 g.) ist ein bemerkenswertes Wohngebäude, das als lokale Attraktion in Tobolsk dient.",
+                  "category": "landmark",
+                  "coords": [
+                        68.246099,
+                        58.189158
+                  ]
+            },
+            {
+                  "name": "Zhiloi dom (1897 g.)",
+                  "text": "Zhiloi dom (1897 g.) ist eine Attraktion in Tobolsk, die ein historisches Wohngebäude darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        68.252015,
+                        58.18868
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tobol'skii kreml'",
+                  "text": "A tobolszki kreml Szibéria egyetlen kőből épült kremlje, amely Tobolszk városában található.",
+                  "category": "castle",
+                  "coords": [
+                        68.251363,
+                        58.199664
+                  ]
+            },
+            {
+                  "name": "Muzei istorii osvoeniia i izucheniia Sibiri",
+                  "text": "Szibéria Fejlesztésének és Felfedezésének Történeti Múzeuma Tobolszk regionális történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        68.256858,
+                        58.201974
+                  ]
+            },
+            {
+                  "name": "Muzei sibirskoi katorgi i ssylki",
+                  "text": "A Tobolszkban található Szibériai Kényszermunka és Száműzetés Múzeuma a politikai foglyok történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        68.24953,
+                        58.201378
+                  ]
+            },
+            {
+                  "name": "Kameliok",
+                  "text": "A Kameliok egy múzeumi létesítmény a tobolszki kreml területén.",
+                  "category": "museum",
+                  "coords": [
+                        68.24925,
+                        58.199274
+                  ]
+            },
+            {
+                  "name": "Muzei sem'i Imperatora Nikolaia II",
+                  "text": "A II. Miklós Cár Családjának Múzeuma Tobolszkban a Romanovok száműzetésben töltött életét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        68.243331,
+                        58.193626
+                  ]
+            },
+            {
+                  "name": "Dom masterov",
+                  "text": "A Mesterek Háza (Dom masterov) egy múzeum Tobolszkban, amely a helyi kézművességet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        68.256766,
+                        58.201005
+                  ]
+            },
+            {
+                  "name": "Muzei prirody",
+                  "text": "A Természetrajzi Múzeum (Muzei prirody) Tobolszk helyi növény- és állatvilágát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        68.255793,
+                        58.202503
+                  ]
+            },
+            {
+                  "name": "Muzei pechati",
+                  "text": "A Tobolszki Nyomdamúzeum (Muzei pechati) a helyi könyvnyomtatás történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        68.262262,
+                        58.206128
+                  ]
+            },
+            {
+                  "name": "Gostinyi dvor",
+                  "text": "A Gosztyinij dvor egy történelmi kereskedőudvar és múzeumegyüttes a tobolszki kremlben.",
+                  "category": "museum",
+                  "coords": [
+                        68.252783,
+                        58.199929
+                  ]
+            },
+            {
+                  "name": "Prosforiia",
+                  "text": "A Prosforiia egy építészeti műemlék és múzeum a tobolszki kreml épületegyüttesében.",
+                  "category": "museum",
+                  "coords": [
+                        68.254378,
+                        58.19918
+                  ]
+            },
+            {
+                  "name": "Rentereia",
+                  "text": "A Rentereia, más néven Svéd Kamara, egy történelmi múzeumépület a tobolszki kremlben.",
+                  "category": "museum",
+                  "coords": [
+                        68.250745,
+                        58.198574
+                  ]
+            },
+            {
+                  "name": "Molodiozhnyi teatr",
+                  "text": "Az Ifjúsági Színház (Molodiozhnyi teatr) egy kulturális színpad Tobolszkban.",
+                  "category": "cultural",
+                  "coords": [
+                        68.254122,
+                        58.202639
+                  ]
+            },
+            {
+                  "name": "Tobol'skii dramaticheskii teatr imeni P.P. Ershova",
+                  "text": "A P. P. Jersovról elnevezett Tobolszki Drámai Színház helyi és klasszikus darabokat mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        68.276401,
+                        58.219507
+                  ]
+            },
+            {
+                  "name": "Evangel'skaia tserkov' \"Slovo Zhizni\"",
+                  "text": "Az \"Élet Igéje\" Evangéliumi Gyülekezet egy keresztény imahely Tobolszkban.",
+                  "category": "religious",
+                  "coords": [
+                        68.273764,
+                        58.216232
+                  ]
+            },
+            {
+                  "name": "Irtysh",
+                  "text": "Az Irtis egy piactér, amelyet a közeli folyóról neveztek el Tobolszkban.",
+                  "category": "cultural",
+                  "coords": [
+                        68.240805,
+                        58.192673
+                  ]
+            },
+            {
+                  "name": "Kupets",
+                  "text": "A Kupets egy helyi piactér Tobolszk városában.",
+                  "category": "cultural",
+                  "coords": [
+                        68.246427,
+                        58.184791
+                  ]
+            },
+            {
+                  "name": "Zhiloi dom (1899 g.)",
+                  "text": "Az 1899-es lakóház egy történelmi turisztikai látványosság Tobolszkban.",
+                  "category": "landmark",
+                  "coords": [
+                        68.235566,
+                        58.189184
+                  ]
+            },
+            {
+                  "name": "M. S. Znamenskii",
+                  "text": "Az M. S. Znamenszkij-emlékhely egy történelmi látványosság a művész tiszteletére Tobolszkban.",
+                  "category": "landmark",
+                  "coords": [
+                        68.266453,
+                        58.213301
+                  ]
+            },
+            {
+                  "name": "Tsisternaia (1910 g.)",
+                  "text": "A Ciszterna (1910) egy építészeti alkotás és történelmi látványosság Tobolszkban.",
+                  "category": "landmark",
+                  "coords": [
+                        68.266384,
+                        58.211586
+                  ]
+            },
+            {
+                  "name": "Mogila P. P. Ershova i S. A. Ershovoi",
+                  "text": "P. P. Jersov és S. A. Jersova sírja történelmi jelentőségű látványosság Tobolszkban.",
+                  "category": "landmark",
+                  "coords": [
+                        68.267368,
+                        58.214372
+                  ]
+            },
+            {
+                  "name": "Zhiloi dom (1907 g.)",
+                  "text": "A Zhiloi dom (1907 g.) egy történelmi lakóépület és látványosság Tobolszkban.",
+                  "category": "landmark",
+                  "coords": [
+                        68.248521,
+                        58.181669
+                  ]
+            },
+            {
+                  "name": "Andreevskaia tserkov' (1755 g.)",
+                  "text": "Az Andreevskaia tserkov' (1755 g.) egy tizennyolcadik századi templom és figyelemre méltó látványosság Tobolszkban.",
+                  "category": "landmark",
+                  "coords": [
+                        68.247397,
+                        58.182231
+                  ]
+            },
+            {
+                  "name": "Zhiloi dom (1902 g.)",
+                  "text": "A Zhiloi dom (1902 g.) egy régi lakóépület, amely látványosságként szolgál Tobolszkban.",
+                  "category": "landmark",
+                  "coords": [
+                        68.245518,
+                        58.18364
+                  ]
+            },
+            {
+                  "name": "Zhiloi dom (1889 g.)",
+                  "text": "A Zhiloi dom (1889 g.) egy történelmi ház, amely turisztikai látványosságként működik Tobolszkban.",
+                  "category": "landmark",
+                  "coords": [
+                        68.24735,
+                        58.18501
+                  ]
+            },
+            {
+                  "name": "Zhiloi dom (1895 g.)",
+                  "text": "A Zhiloi dom (1895 g.) egy megőrzött történelmi lakóház és látványosság Tobolszkban.",
+                  "category": "landmark",
+                  "coords": [
+                        68.247062,
+                        58.187389
+                  ]
+            },
+            {
+                  "name": "Zhiloi dom (1903 g.)",
+                  "text": "A Zhiloi dom (1903 g.) egy figyelemre méltó lakóépület, amely helyi látványosságként szolgál Tobolszkban.",
+                  "category": "landmark",
+                  "coords": [
+                        68.246099,
+                        58.189158
+                  ]
+            },
+            {
+                  "name": "Zhiloi dom (1897 g.)",
+                  "text": "A Zhiloi dom (1897 g.) egy tobolszki látványosság, amely egy történelmi lakóépületet mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        68.252015,
+                        58.18868
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tobol'skii kreml'",
+                  "text": "Kremlinul din Tobolsk este singurul kremlin de piatră din Siberia, situat în orașul Tobolsk.",
+                  "category": "castle",
+                  "coords": [
+                        68.251363,
+                        58.199664
+                  ]
+            },
+            {
+                  "name": "Muzei istorii osvoeniia i izucheniia Sibiri",
+                  "text": "Muzeul de Istorie a Dezvoltării și Explorării Siberiei este dedicat istoriei regionale din Tobolsk.",
+                  "category": "museum",
+                  "coords": [
+                        68.256858,
+                        58.201974
+                  ]
+            },
+            {
+                  "name": "Muzei sibirskoi katorgi i ssylki",
+                  "text": "Muzeul Muncii Forțate și Exilului Siberian din Tobolsk prezintă istoria deținuților politici.",
+                  "category": "museum",
+                  "coords": [
+                        68.24953,
+                        58.201378
+                  ]
+            },
+            {
+                  "name": "Kameliok",
+                  "text": "Kameliok este un muzeu situat în zona Kremlinului din Tobolsk.",
+                  "category": "museum",
+                  "coords": [
+                        68.24925,
+                        58.199274
+                  ]
+            },
+            {
+                  "name": "Muzei sem'i Imperatora Nikolaia II",
+                  "text": "Muzeul Familiei Împăratului Nicolae al II-lea din Tobolsk documentează viața Romanovilor în exil.",
+                  "category": "museum",
+                  "coords": [
+                        68.243331,
+                        58.193626
+                  ]
+            },
+            {
+                  "name": "Dom masterov",
+                  "text": "Casa Maeștrilor (Dom masterov) este un muzeu din Tobolsk care expune meșteșuguri locale.",
+                  "category": "museum",
+                  "coords": [
+                        68.256766,
+                        58.201005
+                  ]
+            },
+            {
+                  "name": "Muzei prirody",
+                  "text": "Muzeul Naturii (Muzei prirody) este dedicat florei și faunei locale din Tobolsk.",
+                  "category": "museum",
+                  "coords": [
+                        68.255793,
+                        58.202503
+                  ]
+            },
+            {
+                  "name": "Muzei pechati",
+                  "text": "Muzeul Tipografiei (Muzei pechati) din Tobolsk expune istoria tipăririi locale.",
+                  "category": "museum",
+                  "coords": [
+                        68.262262,
+                        58.206128
+                  ]
+            },
+            {
+                  "name": "Gostinyi dvor",
+                  "text": "Gostinyi dvor este o curte istorică de negustori și un complex muzeal din Kremlinul de la Tobolsk.",
+                  "category": "museum",
+                  "coords": [
+                        68.252783,
+                        58.199929
+                  ]
+            },
+            {
+                  "name": "Prosforiia",
+                  "text": "Prosforiia este un monument arhitectural și muzeu din complexul Kremlinului de la Tobolsk.",
+                  "category": "museum",
+                  "coords": [
+                        68.254378,
+                        58.19918
+                  ]
+            },
+            {
+                  "name": "Rentereia",
+                  "text": "Rentereia, cunoscută și sub numele de Camera Suedeză, este o clădire muzeală istorică din Tobolsk.",
+                  "category": "museum",
+                  "coords": [
+                        68.250745,
+                        58.198574
+                  ]
+            },
+            {
+                  "name": "Molodiozhnyi teatr",
+                  "text": "Teatrul pentru Tineret (Molodiozhnyi teatr) este o scenă culturală din Tobolsk.",
+                  "category": "cultural",
+                  "coords": [
+                        68.254122,
+                        58.202639
+                  ]
+            },
+            {
+                  "name": "Tobol'skii dramaticheskii teatr imeni P.P. Ershova",
+                  "text": "Teatrul Dramatic P. P. Erșov din Tobolsk pune în scenă piese locale și clasice.",
+                  "category": "cultural",
+                  "coords": [
+                        68.276401,
+                        58.219507
+                  ]
+            },
+            {
+                  "name": "Evangel'skaia tserkov' \"Slovo Zhizni\"",
+                  "text": "Biserica Evanghelică „Cuvântul Vieții” este un lăcaș de cult creștin din Tobolsk.",
+                  "category": "religious",
+                  "coords": [
+                        68.273764,
+                        58.216232
+                  ]
+            },
+            {
+                  "name": "Irtysh",
+                  "text": "Irtîș este o piață denumită după râul din apropiere din Tobolsk.",
+                  "category": "cultural",
+                  "coords": [
+                        68.240805,
+                        58.192673
+                  ]
+            },
+            {
+                  "name": "Kupets",
+                  "text": "Kupets este o piață locală pentru mărfuri din orașul Tobolsk.",
+                  "category": "cultural",
+                  "coords": [
+                        68.246427,
+                        58.184791
+                  ]
+            },
+            {
+                  "name": "Zhiloi dom (1899 g.)",
+                  "text": "Casa de locuit din 1899 este o atracție turistică istorică din Tobolsk.",
+                  "category": "landmark",
+                  "coords": [
+                        68.235566,
+                        58.189184
+                  ]
+            },
+            {
+                  "name": "M. S. Znamenskii",
+                  "text": "M. S. Znamenskii este un reper istoric dedicat artistului în Tobolsk.",
+                  "category": "landmark",
+                  "coords": [
+                        68.266453,
+                        58.213301
+                  ]
+            },
+            {
+                  "name": "Tsisternaia (1910 g.)",
+                  "text": "Tsisternaia (1910) este o structură arhitecturală și o atracție istorică din Tobolsk.",
+                  "category": "landmark",
+                  "coords": [
+                        68.266384,
+                        58.211586
+                  ]
+            },
+            {
+                  "name": "Mogila P. P. Ershova i S. A. Ershovoi",
+                  "text": "Mormântul lui P. P. Erșov și al S. A. Erșova este un loc de veci istoric din Tobolsk.",
+                  "category": "landmark",
+                  "coords": [
+                        68.267368,
+                        58.214372
+                  ]
+            },
+            {
+                  "name": "Zhiloi dom (1907 g.)",
+                  "text": "Zhiloi dom (1907 g.) este o clădire rezidențială istorică și o atracție în Tobolsk.",
+                  "category": "landmark",
+                  "coords": [
+                        68.248521,
+                        58.181669
+                  ]
+            },
+            {
+                  "name": "Andreevskaia tserkov' (1755 g.)",
+                  "text": "Andreevskaia tserkov' (1755 g.) este o biserică din secolul al XVIII-lea și o atracție notabilă în Tobolsk.",
+                  "category": "landmark",
+                  "coords": [
+                        68.247397,
+                        58.182231
+                  ]
+            },
+            {
+                  "name": "Zhiloi dom (1902 g.)",
+                  "text": "Zhiloi dom (1902 g.) este o clădire rezidențială veche, situată ca atracție în Tobolsk.",
+                  "category": "landmark",
+                  "coords": [
+                        68.245518,
+                        58.18364
+                  ]
+            },
+            {
+                  "name": "Zhiloi dom (1889 g.)",
+                  "text": "Zhiloi dom (1889 g.) este o casă istorică ce funcționează ca atracție turistică în Tobolsk.",
+                  "category": "landmark",
+                  "coords": [
+                        68.24735,
+                        58.18501
+                  ]
+            },
+            {
+                  "name": "Zhiloi dom (1895 g.)",
+                  "text": "Zhiloi dom (1895 g.) este o casă rezidențială istorică conservată și o atracție în Tobolsk.",
+                  "category": "landmark",
+                  "coords": [
+                        68.247062,
+                        58.187389
+                  ]
+            },
+            {
+                  "name": "Zhiloi dom (1903 g.)",
+                  "text": "Zhiloi dom (1903 g.) este o clădire rezidențială notabilă ce servește ca atracție locală în Tobolsk.",
+                  "category": "landmark",
+                  "coords": [
+                        68.246099,
+                        58.189158
+                  ]
+            },
+            {
+                  "name": "Zhiloi dom (1897 g.)",
+                  "text": "Zhiloi dom (1897 g.) este o atracție din Tobolsk care prezintă o structură rezidențială istorică.",
+                  "category": "landmark",
+                  "coords": [
+                        68.252015,
+                        58.18868
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tobol'skii kreml'",
+                  "text": "The Tobolsk Kremlin is the only stone kremlin in Siberia, located in the city of Tobolsk.",
+                  "category": "castle",
+                  "coords": [
+                        68.251363,
+                        58.199664
+                  ]
+            },
+            {
+                  "name": "Muzei istorii osvoeniia i izucheniia Sibiri",
+                  "text": "The Museum of the History of the Development and Exploration of Siberia is dedicated to regional history in Tobolsk.",
+                  "category": "museum",
+                  "coords": [
+                        68.256858,
+                        58.201974
+                  ]
+            },
+            {
+                  "name": "Muzei sibirskoi katorgi i ssylki",
+                  "text": "The Museum of Siberian Penal Servitude and Exile in Tobolsk highlights the history of political prisoners.",
+                  "category": "museum",
+                  "coords": [
+                        68.24953,
+                        58.201378
+                  ]
+            },
+            {
+                  "name": "Kameliok",
+                  "text": "Kameliok is a museum facility located in the Tobolsk Kremlin area.",
+                  "category": "museum",
+                  "coords": [
+                        68.24925,
+                        58.199274
+                  ]
+            },
+            {
+                  "name": "Muzei sem'i Imperatora Nikolaia II",
+                  "text": "The Museum of the Family of Emperor Nicholas II in Tobolsk documents the Romanovs' life in exile.",
+                  "category": "museum",
+                  "coords": [
+                        68.243331,
+                        58.193626
+                  ]
+            },
+            {
+                  "name": "Dom masterov",
+                  "text": "The House of Masters (Dom masterov) is a museum in Tobolsk showcasing local crafts.",
+                  "category": "museum",
+                  "coords": [
+                        68.256766,
+                        58.201005
+                  ]
+            },
+            {
+                  "name": "Muzei prirody",
+                  "text": "The Nature Museum (Muzei prirody) is dedicated to the local flora and fauna of Tobolsk.",
+                  "category": "museum",
+                  "coords": [
+                        68.255793,
+                        58.202503
+                  ]
+            },
+            {
+                  "name": "Muzei pechati",
+                  "text": "The Printing Museum (Muzei pechati) in Tobolsk exhibits the history of local book printing.",
+                  "category": "museum",
+                  "coords": [
+                        68.262262,
+                        58.206128
+                  ]
+            },
+            {
+                  "name": "Gostinyi dvor",
+                  "text": "Gostinyi dvor is a historical merchant yard and museum complex in the Tobolsk Kremlin.",
+                  "category": "museum",
+                  "coords": [
+                        68.252783,
+                        58.199929
+                  ]
+            },
+            {
+                  "name": "Prosforiia",
+                  "text": "Prosforiia is an architectural monument and museum within the Tobolsk Kremlin complex.",
+                  "category": "museum",
+                  "coords": [
+                        68.254378,
+                        58.19918
+                  ]
+            },
+            {
+                  "name": "Rentereia",
+                  "text": "Rentereia, also known as the Swedish Chamber, is a historical museum building in the Tobolsk Kremlin.",
+                  "category": "museum",
+                  "coords": [
+                        68.250745,
+                        58.198574
+                  ]
+            },
+            {
+                  "name": "Molodiozhnyi teatr",
+                  "text": "The Youth Theatre (Molodiozhnyi teatr) is a cultural stage in Tobolsk.",
+                  "category": "cultural",
+                  "coords": [
+                        68.254122,
+                        58.202639
+                  ]
+            },
+            {
+                  "name": "Tobol'skii dramaticheskii teatr imeni P.P. Ershova",
+                  "text": "The P. P. Yershov Drama Theatre in Tobolsk performs local and classic plays.",
+                  "category": "cultural",
+                  "coords": [
+                        68.276401,
+                        58.219507
+                  ]
+            },
+            {
+                  "name": "Evangel'skaia tserkov' \"Slovo Zhizni\"",
+                  "text": "The Evangelical Church \"Word of Life\" is a Christian place of worship in Tobolsk.",
+                  "category": "religious",
+                  "coords": [
+                        68.273764,
+                        58.216232
+                  ]
+            },
+            {
+                  "name": "Irtysh",
+                  "text": "Irtysh is a marketplace named after the nearby river in Tobolsk.",
+                  "category": "cultural",
+                  "coords": [
+                        68.240805,
+                        58.192673
+                  ]
+            },
+            {
+                  "name": "Kupets",
+                  "text": "Kupets is a local marketplace for goods in the city of Tobolsk.",
+                  "category": "cultural",
+                  "coords": [
+                        68.246427,
+                        58.184791
+                  ]
+            },
+            {
+                  "name": "Zhiloi dom (1899 g.)",
+                  "text": "The residential house from 1899 is a historical tourist attraction in Tobolsk.",
+                  "category": "landmark",
+                  "coords": [
+                        68.235566,
+                        58.189184
+                  ]
+            },
+            {
+                  "name": "M. S. Znamenskii",
+                  "text": "M. S. Znamenskii is a historical attraction dedicated to the artist in Tobolsk.",
+                  "category": "landmark",
+                  "coords": [
+                        68.266453,
+                        58.213301
+                  ]
+            },
+            {
+                  "name": "Tsisternaia (1910 g.)",
+                  "text": "Tsisternaia (1910) is an architectural structure and historical attraction in Tobolsk.",
+                  "category": "landmark",
+                  "coords": [
+                        68.266384,
+                        58.211586
+                  ]
+            },
+            {
+                  "name": "Mogila P. P. Ershova i S. A. Ershovoi",
+                  "text": "The grave of P. P. Yershov and S. A. Yershova is a historical burial site in Tobolsk.",
+                  "category": "landmark",
+                  "coords": [
+                        68.267368,
+                        58.214372
+                  ]
+            },
+            {
+                  "name": "Zhiloi dom (1907 g.)",
+                  "text": "Zhiloi dom (1907 g.) is a historic residential building and attraction in Tobolsk.",
+                  "category": "landmark",
+                  "coords": [
+                        68.248521,
+                        58.181669
+                  ]
+            },
+            {
+                  "name": "Andreevskaia tserkov' (1755 g.)",
+                  "text": "Andreevskaia tserkov' (1755 g.) is an eighteenth-century church and notable attraction in Tobolsk.",
+                  "category": "landmark",
+                  "coords": [
+                        68.247397,
+                        58.182231
+                  ]
+            },
+            {
+                  "name": "Zhiloi dom (1902 g.)",
+                  "text": "Zhiloi dom (1902 g.) is an old residential building located as an attraction in Tobolsk.",
+                  "category": "landmark",
+                  "coords": [
+                        68.245518,
+                        58.18364
+                  ]
+            },
+            {
+                  "name": "Zhiloi dom (1889 g.)",
+                  "text": "Zhiloi dom (1889 g.) is a historic house functioning as a tourist attraction in Tobolsk.",
+                  "category": "landmark",
+                  "coords": [
+                        68.24735,
+                        58.18501
+                  ]
+            },
+            {
+                  "name": "Zhiloi dom (1895 g.)",
+                  "text": "Zhiloi dom (1895 g.) is a preserved historical residential house and attraction in Tobolsk.",
+                  "category": "landmark",
+                  "coords": [
+                        68.247062,
+                        58.187389
+                  ]
+            },
+            {
+                  "name": "Zhiloi dom (1903 g.)",
+                  "text": "Zhiloi dom (1903 g.) is a notable residential building serving as a local attraction in Tobolsk.",
+                  "category": "landmark",
+                  "coords": [
+                        68.246099,
+                        58.189158
+                  ]
+            },
+            {
+                  "name": "Zhiloi dom (1897 g.)",
+                  "text": "Zhiloi dom (1897 g.) is an attraction in Tobolsk featuring a historic residential structure.",
+                  "category": "landmark",
+                  "coords": [
+                        68.252015,
+                        58.18868
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "castle",
     name: { de: "Tobolsker Kreml", hu: "Tobolszki kreml", ro: "Kremlinul din Tobolsk", en: "Tobolsk Kremlin"},
@@ -2415,7 +3396,1384 @@ imageHint: "Tobolsk Kremlin white stone walls Siberia",
     },
     image: "/poi-images/russia-tobolsk-kremlin-landmarks-v2.webp",
 },  {
-    id: "russia-russky-bridge-landmarks-v2",
+    id: "russia-russky-bridge-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Beregovaia bashennaia batareia No. 981 im. Klima Voroshilova",
+                  "text": "Ein Museum auf der Russki-Insel, das in einer ehemaligen Küstenbatterie mit riesigen 305-mm-Schiffsgeschützen untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        131.890665,
+                        42.981578
+                  ]
+            },
+            {
+                  "name": "Tokarevskogo",
+                  "text": "Ein markanter Leuchtturm aus dem Jahr 1910, der am Ende einer schmalen Sandbank vor Wladiwostok liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        131.843109,
+                        43.073138
+                  ]
+            },
+            {
+                  "name": "Russki-Brücke",
+                  "text": "Eine 2009 begonnene Schrägseilbrücke, die das Festland mit der Russki-Insel verbindet und eine enorme Spannweite besitzt.",
+                  "category": "landmark",
+                  "coords": [
+                        131.907937,
+                        43.063347
+                  ]
+            },
+            {
+                  "name": "bukhta Diomid",
+                  "text": "Eine Meeresbucht in Wladiwostok, die von Hafenanlagen und Schiffswerften für die industrielle Nutzung geprägt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        131.890594,
+                        43.088301
+                  ]
+            },
+            {
+                  "name": "bukhta Novik",
+                  "text": "Eine lange, schmale Bucht auf der Russki-Insel, die ein beliebter Ort zum Eisfischen im Winter ist.",
+                  "category": "landmark",
+                  "coords": [
+                        131.85575,
+                        43.034228
+                  ]
+            },
+            {
+                  "name": "Nauchno-Obrazovatel'nyi Kompleks Primorskii Okeanarium",
+                  "text": "Ein modernes Aquarium auf der Russki-Insel, dessen Gebäude einer riesigen Muschel nachempfunden ist.",
+                  "category": "recreational",
+                  "coords": [
+                        131.930305,
+                        43.014201
+                  ]
+            },
+            {
+                  "name": "Kazanskii khram",
+                  "text": "Diese im Jahr 1958 errichtete russisch-orthodoxe Kirche besticht durch ihre traditionellen blauen Kuppeln.",
+                  "category": "religious",
+                  "coords": [
+                        131.862261,
+                        43.098999
+                  ]
+            },
+            {
+                  "name": "Sopka Kholodil'nik",
+                  "text": "Der höchste Berg in Wladiwostok, auf dessen Gipfel sich Überreste alter Festungsanlagen befinden.",
+                  "category": "natural",
+                  "coords": [
+                        131.937533,
+                        43.145446
+                  ]
+            },
+            {
+                  "name": "Krestovaia",
+                  "text": "Ein Hügel in Wladiwostok, der einen weiten Panoramablick über die Bucht des Goldenen Horns bietet.",
+                  "category": "natural",
+                  "coords": [
+                        131.868203,
+                        43.094341
+                  ]
+            },
+            {
+                  "name": "Muzei avtomotostariny",
+                  "text": "Dieses Museum zeigt eine private Sammlung seltener sowjetischer und internationaler Oldtimer-Fahrzeuge.",
+                  "category": "museum",
+                  "coords": [
+                        131.965997,
+                        43.096979
+                  ]
+            },
+            {
+                  "name": "KPP MO RF",
+                  "text": "Ein ehemaliger militärischer Kontrollpunkt, der heute als historisches Beispiel für die Verteidigungsarchitektur der Region dient.",
+                  "category": "castle",
+                  "coords": [
+                        131.801028,
+                        43.052043
+                  ]
+            },
+            {
+                  "name": "Dot",
+                  "text": "Die Betonruinen eines Bunker-Unterstands, der einst Teil des Verteidigungsrings von Wladiwostok war.",
+                  "category": "historical",
+                  "coords": [
+                        131.983688,
+                        43.095858
+                  ]
+            },
+            {
+                  "name": "Fort imeni Linevicha",
+                  "text": "Diese zwischen 1899 und 1904 errichtete Festungsanlage war ein wichtiger Bestandteil der Verteidigung Wladiwostoks.",
+                  "category": "fortress",
+                  "coords": [
+                        131.97308,
+                        43.094805
+                  ]
+            },
+            {
+                  "name": "Ukreplenie nomer 1",
+                  "text": "Eine massive Betonbefestigung mit der Nummer 1, die zur großflächigen Festung Wladiwostok gehört.",
+                  "category": "fortress",
+                  "coords": [
+                        131.925323,
+                        43.147324
+                  ]
+            },
+            {
+                  "name": "Domik artillerista",
+                  "text": "Die Steinruinen des ehemaligen Hauses der Artilleristen innerhalb des historischen Festungsgeländes.",
+                  "category": "historical",
+                  "coords": [
+                        131.925956,
+                        43.011072
+                  ]
+            },
+            {
+                  "name": "XIII",
+                  "text": "Das Fort XIII ist ein beeindruckendes Beispiel für die unterirdischen Betonanlagen der Festung Wladiwostok.",
+                  "category": "fortress",
+                  "coords": [
+                        131.93053,
+                        43.011854
+                  ]
+            },
+            {
+                  "name": "Batareia <<O>> (No. 299)",
+                  "text": "Eine historische Küstenbatterie, die zur Sicherung der Seewege vor der Küste Wladiwostoks errichtet wurde.",
+                  "category": "fortress",
+                  "coords": [
+                        131.885624,
+                        43.050539
+                  ]
+            },
+            {
+                  "name": "Batareia No. 17 \"Nazimovskaia\"",
+                  "text": "Eine Küstenbatterie auf der Nasimow-Halbinsel, die die Einfahrt in die Meerenge des Östlichen Bosporus bewachte.",
+                  "category": "fortress",
+                  "coords": [
+                        131.917333,
+                        43.067743
+                  ]
+            },
+            {
+                  "name": "Sapiornyi redut No. IV",
+                  "text": "Ein schanzenartiges Verteidigungswerk aus dem 19. Jahrhundert, das von Pioniertruppen zur Küstensicherung genutzt wurde.",
+                  "category": "fortress",
+                  "coords": [
+                        131.962219,
+                        43.122768
+                  ]
+            },
+            {
+                  "name": "Ussuriiskaia batareia",
+                  "text": "Diese Geschützbatterie blickt direkt auf die Ussuri-Bucht und diente dem Schutz der östlichen Flanke.",
+                  "category": "fortress",
+                  "coords": [
+                        131.936742,
+                        43.085613
+                  ]
+            },
+            {
+                  "name": "Fort Murav'iova-Amurskogo",
+                  "text": "Ein großes Fort, das nach dem Generalgouverneur von Ostsibirien benannt ist und einen weiten Blick bietet.",
+                  "category": "fortress",
+                  "coords": [
+                        131.939692,
+                        43.146606
+                  ]
+            },
+            {
+                  "name": "Batareia <<Larionovskaia Severnaia Skorostrel'naia>>",
+                  "text": "Die nördliche Larionow-Batterie war eine Schnellfeuerstellung zur Abwehr feindlicher Schiffe.",
+                  "category": "fortress",
+                  "coords": [
+                        131.830741,
+                        43.067188
+                  ]
+            },
+            {
+                  "name": "Batareia <<Larionovskaia Ustupnaia>>",
+                  "text": "Eine in Stufen angelegte Artilleriebatterie, die geschickt in das hügelige Gelände der Küste integriert wurde.",
+                  "category": "fortress",
+                  "coords": [
+                        131.829008,
+                        43.067164
+                  ]
+            },
+            {
+                  "name": "Batterie \"Tokarevskaya Mörser\"",
+                  "text": "Eine ehemalige Mörserbatterie in der Nähe des Tokarewski-Leuchtturms, die zur Verteidigung des Ports beitrug.",
+                  "category": "fortress",
+                  "coords": [
+                        131.850106,
+                        43.082646
+                  ]
+            },
+            {
+                  "name": "Beregovaia batareia nomer 8 (Velikokniazheskaia)",
+                  "text": "Diese Küstenbatterie auf der Insel Russki verfügt über massive Betonstellungen für die schwere Artillerie.",
+                  "category": "fortress",
+                  "coords": [
+                        131.916562,
+                        42.978864
+                  ]
+            },
+            {
+                  "name": "Kaponir beregovoi protivodesantnyi No. 5",
+                  "text": "Ein betonierter Küstenkaponier, der zur Verteidigung gegen feindliche Landungsoperationen errichtet wurde.",
+                  "category": "fortress",
+                  "coords": [
+                        131.924988,
+                        42.988906
+                  ]
+            },
+            {
+                  "name": "Fort No. 12 -- \"Fort Velikogo Kniazia Vladimira Sviatogo\"",
+                  "text": "Dieses gewaltige Betonfort auf der Insel Russki ist nach dem heiligen Wladimir benannt.",
+                  "category": "fortress",
+                  "coords": [
+                        131.914608,
+                        42.991958
+                  ]
+            },
+            {
+                  "name": "XII",
+                  "text": "Ein Teil des Festungssystems von Wladiwostok mit verstärkten Unterständen und Schützengräben.",
+                  "category": "fortress",
+                  "coords": [
+                        131.936032,
+                        43.019115
+                  ]
+            },
+            {
+                  "name": "Batareia <<N>> (No. 298)",
+                  "text": "Eine Küstenartillerie-Batterie mit markanten Betonbettungen für Geschütze auf der Insel Russki.",
+                  "category": "fortress",
+                  "coords": [
+                        131.890728,
+                        43.051695
+                  ]
+            },
+            {
+                  "name": "Fort Pospelova",
+                  "text": "Dieses historische Fort liegt auf einem Bergrücken in der Nähe der Russki-Brücke.",
+                  "category": "fortress",
+                  "coords": [
+                        131.881527,
+                        43.049638
+                  ]
+            },
+            {
+                  "name": "Batareia Pospelovskaia",
+                  "text": "Eine Küstenbatterie in der Nähe des Kap Pospelow, die einst den Seeweg schützte.",
+                  "category": "fortress",
+                  "coords": [
+                        131.892331,
+                        43.0622
+                  ]
+            },
+            {
+                  "name": "Petropavlovskaia mortirnaia batareia",
+                  "text": "Eine spezialisierte Mörserbatterie, die für den indirekten Beschuss aus verborgenen Stellungen konzipiert wurde.",
+                  "category": "fortress",
+                  "coords": [
+                        131.925468,
+                        43.068147
+                  ]
+            },
+            {
+                  "name": "Batareia \"Basargin\"",
+                  "text": "Diese Küstenbatterie befindet sich auf der strategisch wichtigen Basargin-Halbinsel.",
+                  "category": "fortress",
+                  "coords": [
+                        131.959286,
+                        43.061958
+                  ]
+            },
+            {
+                  "name": "Liuteranskaia tserkov'",
+                  "text": "Die Ruinen einer lutherischen Kirche aus dem Jahr 1910 mit erhaltenen steinernen Mauerkonstruktionen.",
+                  "category": "historical",
+                  "coords": [
+                        131.984806,
+                        43.13258
+                  ]
+            },
+            {
+                  "name": "Fort Suvorova",
+                  "text": "Ein Verteidigungsfort auf einem Hügel, das nach dem berühmten General Suworow benannt ist.",
+                  "category": "fortress",
+                  "coords": [
+                        131.983943,
+                        43.126164
+                  ]
+            },
+            {
+                  "name": "Porokhovoi pogreb P3",
+                  "text": "Ein massives Pulvermagazin aus Stahlbeton zur sicheren Lagerung von Munition.",
+                  "category": "fortress",
+                  "coords": [
+                        131.953278,
+                        43.126273
+                  ]
+            },
+            {
+                  "name": "Ukreplenie No. 1",
+                  "text": "Eine Betonbefestigung vom Anfang des 20. Jahrhunderts, die Teil der äußeren Verteidigungslinie war.",
+                  "category": "fortress",
+                  "coords": [
+                        131.918052,
+                        43.14356
+                  ]
+            },
+            {
+                  "name": "Batareia No. 198 \"Kholodil'nik\"",
+                  "text": "Diese Küstenbatterie trägt den ungewöhnlichen Namen „Kholodilnik“, was übersetzt Kühlschrank bedeutet.",
+                  "category": "fortress",
+                  "coords": [
+                        131.936006,
+                        43.144336
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Beregovaia bashennaia batareia No. 981 im. Klima Voroshilova",
+                  "text": "Múzeum a Russzkij-szigeten, amely egy egykori partmenti ütegben, hatalmas 305 mm-es hajóágyúk között kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        131.890665,
+                        42.981578
+                  ]
+            },
+            {
+                  "name": "Tokarevskogo",
+                  "text": "1910-ben épült jellegzetes világítótorony, amely egy keskeny homokpad végén áll Vlagyivosztoknál.",
+                  "category": "landmark",
+                  "coords": [
+                        131.843109,
+                        43.073138
+                  ]
+            },
+            {
+                  "name": "Russkii most",
+                  "text": "2009-ben kezdték építeni ezt a ferdekábeles hidat, amely a szárazföldet köti össze a Russzkij-szigettel.",
+                  "category": "landmark",
+                  "coords": [
+                        131.907937,
+                        43.063347
+                  ]
+            },
+            {
+                  "name": "bukhta Diomid",
+                  "text": "Tengeri öböl Vlagyivosztokban, amelyet ipari kikötők és hajójavító üzemek öveznek.",
+                  "category": "landmark",
+                  "coords": [
+                        131.890594,
+                        43.088301
+                  ]
+            },
+            {
+                  "name": "bukhta Novik",
+                  "text": "Hosszú, keskeny öböl a Russzkij-szigeten, amely télen a lékhorgászok kedvelt helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        131.85575,
+                        43.034228
+                  ]
+            },
+            {
+                  "name": "Nauchno-Obrazovatel'nyi Kompleks Primorskii Okeanarium",
+                  "text": "Modern akvárium a Russzkij-szigeten, amelynek épülete egy hatalmas kagylót formáz.",
+                  "category": "recreational",
+                  "coords": [
+                        131.930305,
+                        43.014201
+                  ]
+            },
+            {
+                  "name": "Kazanskii khram",
+                  "text": "Ez az 1958-ban épült orosz ortodox templom jellegzetes kék kupoláiról ismerhető fel.",
+                  "category": "religious",
+                  "coords": [
+                        131.862261,
+                        43.098999
+                  ]
+            },
+            {
+                  "name": "Sopka Kholodil'nik",
+                  "text": "Vlagyivosztok legmagasabb hegye, amelynek csúcsán régi erődítmények maradványai láthatók.",
+                  "category": "natural",
+                  "coords": [
+                        131.937533,
+                        43.145446
+                  ]
+            },
+            {
+                  "name": "Krestovaia",
+                  "text": "Domb Vlagyivosztokban, ahonnan panorámás kilátás nyílik az Arany-szarv öbölre.",
+                  "category": "natural",
+                  "coords": [
+                        131.868203,
+                        43.094341
+                  ]
+            },
+            {
+                  "name": "Muzei avtomotostariny",
+                  "text": "Ez a múzeum ritka szovjet és nemzetközi veterán járművek magángyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        131.965997,
+                        43.096979
+                  ]
+            },
+            {
+                  "name": "KPP MO RF",
+                  "text": "Egykori katonai ellenőrzőpont, amely ma a régió védelmi építészetének történelmi példájaként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        131.801028,
+                        43.052043
+                  ]
+            },
+            {
+                  "name": "Dot",
+                  "text": "Egy bunker-óvóhely betonromjai, amely egykor Vlagyivosztok védelmi gyűrűjének része volt.",
+                  "category": "historical",
+                  "coords": [
+                        131.983688,
+                        43.095858
+                  ]
+            },
+            {
+                  "name": "Fort imeni Linevicha",
+                  "text": "Ez az 1899 és 1904 között épült erődítmény Vlagyivosztok védelmének fontos része volt.",
+                  "category": "fortress",
+                  "coords": [
+                        131.97308,
+                        43.094805
+                  ]
+            },
+            {
+                  "name": "Ukreplenie nomer 1",
+                  "text": "Az 1-es számú masszív beton erődítmény, amely a kiterjedt vlagyivosztoki erődrendszerhez tartozik.",
+                  "category": "fortress",
+                  "coords": [
+                        131.925323,
+                        43.147324
+                  ]
+            },
+            {
+                  "name": "Domik artillerista",
+                  "text": "A tüzérek egykori házának kőromjai a történelmi erőd területén belül.",
+                  "category": "historical",
+                  "coords": [
+                        131.925956,
+                        43.011072
+                  ]
+            },
+            {
+                  "name": "XIII",
+                  "text": "A XIII-as erőd a vlagyivosztoki erődrendszer föld alatti betonlétesítményeinek lenyűgöző példája.",
+                  "category": "fortress",
+                  "coords": [
+                        131.93053,
+                        43.011854
+                  ]
+            },
+            {
+                  "name": "Batareia <<O>> (No. 299)",
+                  "text": "Történelmi partmenti üteg, amelyet a Vlagyivosztok előtti tengeri utak biztosítására építettek.",
+                  "category": "fortress",
+                  "coords": [
+                        131.885624,
+                        43.050539
+                  ]
+            },
+            {
+                  "name": "Batareia No. 17 \"Nazimovskaia\"",
+                  "text": "Parti üteg a Nazimov-félszigeten, amely a Keleti-Boszporusz-szoros bejáratát őrizte.",
+                  "category": "fortress",
+                  "coords": [
+                        131.917333,
+                        43.067743
+                  ]
+            },
+            {
+                  "name": "Sapiornyi redut No. IV",
+                  "text": "19. századi védmű, amelyet műszaki alakulatok használtak a partvonal biztosítására.",
+                  "category": "fortress",
+                  "coords": [
+                        131.962219,
+                        43.122768
+                  ]
+            },
+            {
+                  "name": "Ussuriiskaia batareia",
+                  "text": "Ez az ágyúüteg közvetlenül az Uszszuri-öbölre néz, és a keleti szárny védelmét szolgálta.",
+                  "category": "fortress",
+                  "coords": [
+                        131.936742,
+                        43.085613
+                  ]
+            },
+            {
+                  "name": "Fort Murav'iova-Amurskogo",
+                  "text": "Kelet-Szibéria főkormányzójáról elnevezett nagy erőd, ahonnan messzire el lehet látni.",
+                  "category": "fortress",
+                  "coords": [
+                        131.939692,
+                        43.146606
+                  ]
+            },
+            {
+                  "name": "Batareia <<Larionovskaia Severnaia Skorostrel'naia>>",
+                  "text": "Az északi Larionov-üteg egy gyorstüzelő állás volt az ellenséges hajók elhárítására.",
+                  "category": "fortress",
+                  "coords": [
+                        131.830741,
+                        43.067188
+                  ]
+            },
+            {
+                  "name": "Batareia <<Larionovskaia Ustupnaia>>",
+                  "text": "Lépcsőzetes kialakítású tüzérségi üteg, amelyet ügyesen integráltak a part menti dombos terepbe.",
+                  "category": "fortress",
+                  "coords": [
+                        131.829008,
+                        43.067164
+                  ]
+            },
+            {
+                  "name": "Batareia \"Tokarevskaia mortirnaia\"",
+                  "text": "Egykori mozsárágyú-üteg a Tokarevszkij-világítótorony közelében, amely a kikötő védelmét segítette.",
+                  "category": "fortress",
+                  "coords": [
+                        131.850106,
+                        43.082646
+                  ]
+            },
+            {
+                  "name": "Beregovaia batareia nomer 8 (Velikokniazheskaia)",
+                  "text": "Ez a Russzkij-szigeti parti üteg masszív betonállásokkal rendelkezik a nehéztüzérség számára.",
+                  "category": "fortress",
+                  "coords": [
+                        131.916562,
+                        42.978864
+                  ]
+            },
+            {
+                  "name": "Kaponir beregovoi protivodesantnyi No. 5",
+                  "text": "Betonozott parti kaponier, amelyet az ellenséges partraszállási műveletek elleni védelemre építettek.",
+                  "category": "fortress",
+                  "coords": [
+                        131.924988,
+                        42.988906
+                  ]
+            },
+            {
+                  "name": "Fort No. 12 -- \"Fort Velikogo Kniazia Vladimira Sviatogo\"",
+                  "text": "Ez a hatalmas beton erőd a Russzkij-szigeten Szent Vlagyimir nevét viseli.",
+                  "category": "fortress",
+                  "coords": [
+                        131.914608,
+                        42.991958
+                  ]
+            },
+            {
+                  "name": "XII",
+                  "text": "Vlagyivosztok erődrendszerének része, megerősített óvóhelyekkel és lövészárkokkal.",
+                  "category": "fortress",
+                  "coords": [
+                        131.936032,
+                        43.019115
+                  ]
+            },
+            {
+                  "name": "Batareia <<N>> (No. 298)",
+                  "text": "Parti tüzérségi üteg jellegzetes beton ágyazatokkal a Russzkij-szigeten.",
+                  "category": "fortress",
+                  "coords": [
+                        131.890728,
+                        43.051695
+                  ]
+            },
+            {
+                  "name": "Fort Pospelova",
+                  "text": "Ez a történelmi erőd egy hegygerincen található a Russzkij-híd közelében.",
+                  "category": "fortress",
+                  "coords": [
+                        131.881527,
+                        43.049638
+                  ]
+            },
+            {
+                  "name": "Batareia Pospelovskaia",
+                  "text": "A Poszpelov-fok közelében található parti üteg, amely egykor a tengeri utat védte.",
+                  "category": "fortress",
+                  "coords": [
+                        131.892331,
+                        43.0622
+                  ]
+            },
+            {
+                  "name": "Petropavlovskaia mortirnaia batareia",
+                  "text": "Speciális mozsárágyú-üteg, amelyet rejtett állásokból történő közvetett tüzelésre terveztek.",
+                  "category": "fortress",
+                  "coords": [
+                        131.925468,
+                        43.068147
+                  ]
+            },
+            {
+                  "name": "Batareia \"Basargin\"",
+                  "text": "Ez a parti üteg a stratégiailag fontos Baszargin-félszigeten található.",
+                  "category": "fortress",
+                  "coords": [
+                        131.959286,
+                        43.061958
+                  ]
+            },
+            {
+                  "name": "Liuteranskaia tserkov'",
+                  "text": "Egy 1910-ből származó evangélikus templom romjai, megmaradt kőfalakkal.",
+                  "category": "historical",
+                  "coords": [
+                        131.984806,
+                        43.13258
+                  ]
+            },
+            {
+                  "name": "Fort Suvorova",
+                  "text": "Egy dombtetőn lévő védelmi erőd, amelyet a híres Szuvorov tábornokról neveztek el.",
+                  "category": "fortress",
+                  "coords": [
+                        131.983943,
+                        43.126164
+                  ]
+            },
+            {
+                  "name": "Porokhovoi pogreb P3",
+                  "text": "Masszív vasbeton lőporraktár a lőszer biztonságos tárolására.",
+                  "category": "fortress",
+                  "coords": [
+                        131.953278,
+                        43.126273
+                  ]
+            },
+            {
+                  "name": "Ukreplenie No. 1",
+                  "text": "20. század eleji beton erődítmény, amely a külső védelmi vonal része volt.",
+                  "category": "fortress",
+                  "coords": [
+                        131.918052,
+                        43.14356
+                  ]
+            },
+            {
+                  "name": "Batareia No. 198 \"Kholodil'nik\"",
+                  "text": "Ez a parti üteg a szokatlan „Hologyilnyik” nevet viseli, ami hűtőszekrényt jelent.",
+                  "category": "fortress",
+                  "coords": [
+                        131.936006,
+                        43.144336
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Beregovaia bashennaia batareia No. 981 im. Klima Voroshilova",
+                  "text": "Muzeu pe Insula Russky, găzduit într-o fostă baterie de coastă dotată cu tunuri navale uriașe de 305 mm.",
+                  "category": "museum",
+                  "coords": [
+                        131.890665,
+                        42.981578
+                  ]
+            },
+            {
+                  "name": "Tokarevskogo",
+                  "text": "Un far emblematic construit în 1910, situat la capătul unei fâșii înguste de nisip de lângă Vladivostok.",
+                  "category": "landmark",
+                  "coords": [
+                        131.843109,
+                        43.073138
+                  ]
+            },
+            {
+                  "name": "Russkii most",
+                  "text": "Pod hobanat a cărui construcție a început în 2009, legând continentul de Insula Russky prin deschideri record.",
+                  "category": "landmark",
+                  "coords": [
+                        131.907937,
+                        43.063347
+                  ]
+            },
+            {
+                  "name": "bukhta Diomid",
+                  "text": "Golf marin din Vladivostok, înconjurat de facilități portuare și șantiere navale destinate utilizării industriale.",
+                  "category": "landmark",
+                  "coords": [
+                        131.890594,
+                        43.088301
+                  ]
+            },
+            {
+                  "name": "bukhta Novik",
+                  "text": "Un golf lung și îngust pe Insula Russky, fiind un loc popular pentru pescuitul la copcă în timpul iernii.",
+                  "category": "landmark",
+                  "coords": [
+                        131.85575,
+                        43.034228
+                  ]
+            },
+            {
+                  "name": "Nauchno-Obrazovatel'nyi Kompleks Primorskii Okeanarium",
+                  "text": "Un acvariu modern pe Insula Russky, cu o clădire proiectată sub forma unei scoici uriașe.",
+                  "category": "recreational",
+                  "coords": [
+                        131.930305,
+                        43.014201
+                  ]
+            },
+            {
+                  "name": "Kazanskii khram",
+                  "text": "Această biserică ortodoxă rusă construită în 1958 se remarcă prin cupolele sale tradiționale albastre.",
+                  "category": "religious",
+                  "coords": [
+                        131.862261,
+                        43.098999
+                  ]
+            },
+            {
+                  "name": "Sopka Kholodil'nik",
+                  "text": "Cel mai înalt munte din Vladivostok, pe al cărui vârf se află rămășițele unor vechi fortificații.",
+                  "category": "natural",
+                  "coords": [
+                        131.937533,
+                        43.145446
+                  ]
+            },
+            {
+                  "name": "Krestovaia",
+                  "text": "Un deal din Vladivostok care oferă o panoramă amplă asupra golfului Cornul de Aur.",
+                  "category": "natural",
+                  "coords": [
+                        131.868203,
+                        43.094341
+                  ]
+            },
+            {
+                  "name": "Muzei avtomotostariny",
+                  "text": "Acest muzeu expune o colecție privată de vehicule retro sovietice și internaționale rare.",
+                  "category": "museum",
+                  "coords": [
+                        131.965997,
+                        43.096979
+                  ]
+            },
+            {
+                  "name": "KPP MO RF",
+                  "text": "Un fost punct de control militar, care servește astăzi ca exemplu istoric de arhitectură defensivă regională.",
+                  "category": "castle",
+                  "coords": [
+                        131.801028,
+                        43.052043
+                  ]
+            },
+            {
+                  "name": "Dot",
+                  "text": "Ruinele din beton ale unui buncăr de adăpost, care a făcut parte din centura defensivă a Vladivostokului.",
+                  "category": "historical",
+                  "coords": [
+                        131.983688,
+                        43.095858
+                  ]
+            },
+            {
+                  "name": "Fort imeni Linevicha",
+                  "text": "Această fortificație construită între 1899 și 1904 a fost o parte importantă a apărării Vladivostokului.",
+                  "category": "fortress",
+                  "coords": [
+                        131.97308,
+                        43.094805
+                  ]
+            },
+            {
+                  "name": "Ukreplenie nomer 1",
+                  "text": "O fortificație masivă din beton cu numărul 1, parte a sistemului defensiv extins al Vladivostokului.",
+                  "category": "fortress",
+                  "coords": [
+                        131.925323,
+                        43.147324
+                  ]
+            },
+            {
+                  "name": "Domik artillerista",
+                  "text": "Ruinele din piatră ale fostei case a artileristului din cadrul complexului istoric al cetății.",
+                  "category": "historical",
+                  "coords": [
+                        131.925956,
+                        43.011072
+                  ]
+            },
+            {
+                  "name": "XIII",
+                  "text": "Fortul XIII este un exemplu impresionant al facilităților subterane din beton ale cetății Vladivostok.",
+                  "category": "fortress",
+                  "coords": [
+                        131.93053,
+                        43.011854
+                  ]
+            },
+            {
+                  "name": "Batareia <<O>> (No. 299)",
+                  "text": "Baterie de coastă istorică, construită pentru securizarea rutelor maritime din largul Vladivostokului.",
+                  "category": "fortress",
+                  "coords": [
+                        131.885624,
+                        43.050539
+                  ]
+            },
+            {
+                  "name": "Batareia No. 17 \"Nazimovskaia\"",
+                  "text": "Baterie de coastă pe Peninsula Nazimov, care păzea intrarea în strâmtoarea Bosforul de Est.",
+                  "category": "fortress",
+                  "coords": [
+                        131.917333,
+                        43.067743
+                  ]
+            },
+            {
+                  "name": "Sapiornyi redut No. IV",
+                  "text": "O lucrare defensivă din secolul al XIX-lea, utilizată de trupele de geniu pentru securizarea coastei.",
+                  "category": "fortress",
+                  "coords": [
+                        131.962219,
+                        43.122768
+                  ]
+            },
+            {
+                  "name": "Ussuriiskaia batareia",
+                  "text": "Această baterie de tunuri are vedere directă spre Golful Ussuri și a servit la protejarea flancului estic.",
+                  "category": "fortress",
+                  "coords": [
+                        131.936742,
+                        43.085613
+                  ]
+            },
+            {
+                  "name": "Fort Murav'iova-Amurskogo",
+                  "text": "Un fort mare numit după guvernatorul general al Siberiei de Est, oferind o perspectivă amplă asupra zonei.",
+                  "category": "fortress",
+                  "coords": [
+                        131.939692,
+                        43.146606
+                  ]
+            },
+            {
+                  "name": "Batareia <<Larionovskaia Severnaia Skorostrel'naia>>",
+                  "text": "Bateria Larionov Nord a fost o poziție de tragere rapidă pentru respingerea navelor inamice.",
+                  "category": "fortress",
+                  "coords": [
+                        131.830741,
+                        43.067188
+                  ]
+            },
+            {
+                  "name": "Batareia <<Larionovskaia Ustupnaia>>",
+                  "text": "O baterie de artilerie dispusă în trepte, integrată ingenios în terenul deluros de pe coastă.",
+                  "category": "fortress",
+                  "coords": [
+                        131.829008,
+                        43.067164
+                  ]
+            },
+            {
+                  "name": "Batareia \"Tokarevskaia mortirnaia\"",
+                  "text": "O fostă baterie de mortiere situată lângă farul Tokarevsky, care a contribuit la apărarea portului.",
+                  "category": "fortress",
+                  "coords": [
+                        131.850106,
+                        43.082646
+                  ]
+            },
+            {
+                  "name": "Beregovaia batareia nomer 8 (Velikokniazheskaia)",
+                  "text": "Această baterie de coastă de pe insula Russky dispune de amplasamente masive de beton pentru artileria grea.",
+                  "category": "fortress",
+                  "coords": [
+                        131.916562,
+                        42.978864
+                  ]
+            },
+            {
+                  "name": "Kaponir beregovoi protivodesantnyi No. 5",
+                  "text": "Un caponier de coastă din beton, construit pentru apărarea împotriva operațiunilor de debarcare inamice.",
+                  "category": "fortress",
+                  "coords": [
+                        131.924988,
+                        42.988906
+                  ]
+            },
+            {
+                  "name": "Fort No. 12 -- \"Fort Velikogo Kniazia Vladimira Sviatogo\"",
+                  "text": "Această fortăreață masivă de beton de pe insula Russky poartă numele Sfântului Vladimir.",
+                  "category": "fortress",
+                  "coords": [
+                        131.914608,
+                        42.991958
+                  ]
+            },
+            {
+                  "name": "XII",
+                  "text": "O parte a sistemului de fortificații din Vladivostok, cu adăposturi ranforsate și tranșee.",
+                  "category": "fortress",
+                  "coords": [
+                        131.936032,
+                        43.019115
+                  ]
+            },
+            {
+                  "name": "Batareia <<N>> (No. 298)",
+                  "text": "O baterie de artilerie de coastă cu baze de beton distinctive pentru tunuri pe insula Russky.",
+                  "category": "fortress",
+                  "coords": [
+                        131.890728,
+                        43.051695
+                  ]
+            },
+            {
+                  "name": "Fort Pospelova",
+                  "text": "Această fortăreață istorică este situată pe o creastă în apropierea podului Russky.",
+                  "category": "fortress",
+                  "coords": [
+                        131.881527,
+                        43.049638
+                  ]
+            },
+            {
+                  "name": "Batareia Pospelovskaia",
+                  "text": "O baterie de coastă situată lângă Capul Pospelov, care proteja cândva calea maritimă.",
+                  "category": "fortress",
+                  "coords": [
+                        131.892331,
+                        43.0622
+                  ]
+            },
+            {
+                  "name": "Petropavlovskaia mortirnaia batareia",
+                  "text": "O baterie specializată de mortiere, concepută pentru tragere indirectă din poziții ascunse.",
+                  "category": "fortress",
+                  "coords": [
+                        131.925468,
+                        43.068147
+                  ]
+            },
+            {
+                  "name": "Batareia \"Basargin\"",
+                  "text": "Această baterie de coastă se află pe peninsula strategică Basargin.",
+                  "category": "fortress",
+                  "coords": [
+                        131.959286,
+                        43.061958
+                  ]
+            },
+            {
+                  "name": "Liuteranskaia tserkov'",
+                  "text": "Ruinele unei biserici luterane din 1910, cu structuri de zidărie din piatră conservate.",
+                  "category": "historical",
+                  "coords": [
+                        131.984806,
+                        43.13258
+                  ]
+            },
+            {
+                  "name": "Fort Suvorova",
+                  "text": "O fortăreață defensivă pe un deal, numită după faimosul general Suvorov.",
+                  "category": "fortress",
+                  "coords": [
+                        131.983943,
+                        43.126164
+                  ]
+            },
+            {
+                  "name": "Porokhovoi pogreb P3",
+                  "text": "Un depozit masiv de pulbere din beton armat pentru depozitarea în siguranță a muniției.",
+                  "category": "fortress",
+                  "coords": [
+                        131.953278,
+                        43.126273
+                  ]
+            },
+            {
+                  "name": "Ukreplenie No. 1",
+                  "text": "O fortificație de beton de la începutul secolului XX, care făcea parte din linia defensivă exterioară.",
+                  "category": "fortress",
+                  "coords": [
+                        131.918052,
+                        43.14356
+                  ]
+            },
+            {
+                  "name": "Batareia No. 198 \"Kholodil'nik\"",
+                  "text": "Această baterie de coastă poartă numele neobișnuit de „Kholodilnik”, care se traduce prin frigider.",
+                  "category": "fortress",
+                  "coords": [
+                        131.936006,
+                        43.144336
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Beregovaia bashennaia batareia No. 981 im. Klima Voroshilova",
+                  "text": "A museum on Russky Island housed in a former coastal battery featuring massive 305mm naval guns.",
+                  "category": "museum",
+                  "coords": [
+                        131.890665,
+                        42.981578
+                  ]
+            },
+            {
+                  "name": "Tokarevskogo",
+                  "text": "An iconic lighthouse built in 1910, located at the end of a narrow sandspit near Vladivostok.",
+                  "category": "landmark",
+                  "coords": [
+                        131.843109,
+                        43.073138
+                  ]
+            },
+            {
+                  "name": "Russky Bridge",
+                  "text": "A cable-stayed bridge started in 2009 that connects the mainland to Russky Island with a massive central span.",
+                  "category": "landmark",
+                  "coords": [
+                        131.907937,
+                        43.063347
+                  ]
+            },
+            {
+                  "name": "Diomid Bay",
+                  "text": "A marine bay in Vladivostok surrounded by port facilities and shipyards for industrial use.",
+                  "category": "landmark",
+                  "coords": [
+                        131.890594,
+                        43.088301
+                  ]
+            },
+            {
+                  "name": "Novik Bay",
+                  "text": "A long, narrow bay on Russky Island that is a popular spot for ice fishing during the winter.",
+                  "category": "landmark",
+                  "coords": [
+                        131.85575,
+                        43.034228
+                  ]
+            },
+            {
+                  "name": "Research and Educational Center Primorsky Aquarium",
+                  "text": "A modern aquarium on Russky Island with a building designed to resemble a giant seashell.",
+                  "category": "recreational",
+                  "coords": [
+                        131.930305,
+                        43.014201
+                  ]
+            },
+            {
+                  "name": "Kazanskii khram",
+                  "text": "This Russian Orthodox church built in 1958 stands out with its traditional blue domes.",
+                  "category": "religious",
+                  "coords": [
+                        131.862261,
+                        43.098999
+                  ]
+            },
+            {
+                  "name": "Mount Kholodilnik",
+                  "text": "The highest mountain in Vladivostok, featuring remains of old fortifications on its summit.",
+                  "category": "natural",
+                  "coords": [
+                        131.937533,
+                        43.145446
+                  ]
+            },
+            {
+                  "name": "Krestovaia",
+                  "text": "A hill in Vladivostok offering a wide panoramic view over the Golden Horn Bay.",
+                  "category": "natural",
+                  "coords": [
+                        131.868203,
+                        43.094341
+                  ]
+            },
+            {
+                  "name": "Antique Automobile Museum",
+                  "text": "This museum showcases a private collection of rare Soviet and international vintage vehicles.",
+                  "category": "museum",
+                  "coords": [
+                        131.965997,
+                        43.096979
+                  ]
+            },
+            {
+                  "name": "KPP MO RF",
+                  "text": "A former military checkpoint that now serves as a historical example of the region's defense architecture.",
+                  "category": "castle",
+                  "coords": [
+                        131.801028,
+                        43.052043
+                  ]
+            },
+            {
+                  "name": "Dot",
+                  "text": "The concrete ruins of a pillbox shelter that once formed part of Vladivostok's defense ring.",
+                  "category": "historical",
+                  "coords": [
+                        131.983688,
+                        43.095858
+                  ]
+            },
+            {
+                  "name": "Fort imeni Linevicha",
+                  "text": "This fortification built between 1899 and 1904 was an important part of Vladivostok's defense.",
+                  "category": "fortress",
+                  "coords": [
+                        131.97308,
+                        43.094805
+                  ]
+            },
+            {
+                  "name": "Ukreplenie nomer 1",
+                  "text": "A massive concrete fortification numbered 1, belonging to the extensive Vladivostok Fortress system.",
+                  "category": "fortress",
+                  "coords": [
+                        131.925323,
+                        43.147324
+                  ]
+            },
+            {
+                  "name": "Domik artillerista",
+                  "text": "The stone ruins of the former artilleryman's house within the historic fortress grounds.",
+                  "category": "historical",
+                  "coords": [
+                        131.925956,
+                        43.011072
+                  ]
+            },
+            {
+                  "name": "XIII",
+                  "text": "Fort XIII is an impressive example of the underground concrete facilities of the Vladivostok Fortress.",
+                  "category": "fortress",
+                  "coords": [
+                        131.93053,
+                        43.011854
+                  ]
+            },
+            {
+                  "name": "Batareia <<O>> (No. 299)",
+                  "text": "A historic coastal battery built to secure the sea routes off the coast of Vladivostok.",
+                  "category": "fortress",
+                  "coords": [
+                        131.885624,
+                        43.050539
+                  ]
+            },
+            {
+                  "name": "Batareia No. 17 \"Nazimovskaia\"",
+                  "text": "A coastal battery on the Nazimov Peninsula that guarded the entrance to the Eastern Bosphorus strait.",
+                  "category": "fortress",
+                  "coords": [
+                        131.917333,
+                        43.067743
+                  ]
+            },
+            {
+                  "name": "Sapiornyi redut No. IV",
+                  "text": "A 19th-century defensive redoubt used by sapper units for coastline protection.",
+                  "category": "fortress",
+                  "coords": [
+                        131.962219,
+                        43.122768
+                  ]
+            },
+            {
+                  "name": "Ussuriiskaia batareia",
+                  "text": "This gun battery overlooks the Ussuri Bay directly and served to protect the eastern flank.",
+                  "category": "fortress",
+                  "coords": [
+                        131.936742,
+                        43.085613
+                  ]
+            },
+            {
+                  "name": "Fort Murav'iova-Amurskogo",
+                  "text": "A large fort named after the Governor-General of Eastern Siberia, offering a commanding view of the area.",
+                  "category": "fortress",
+                  "coords": [
+                        131.939692,
+                        43.146606
+                  ]
+            },
+            {
+                  "name": "Batareia <<Larionovskaia Severnaia Skorostrel'naia>>",
+                  "text": "The North Larionov battery was a rapid-fire position designed to repel enemy vessels.",
+                  "category": "fortress",
+                  "coords": [
+                        131.830741,
+                        43.067188
+                  ]
+            },
+            {
+                  "name": "Batareia <<Larionovskaia Ustupnaia>>",
+                  "text": "A tiered artillery battery cleverly integrated into the hilly coastal terrain.",
+                  "category": "fortress",
+                  "coords": [
+                        131.829008,
+                        43.067164
+                  ]
+            },
+            {
+                  "name": "Batareia \"Tokarevskaia mortirnaia\"",
+                  "text": "A former mortar battery located near the Tokarevsky lighthouse, contributing to the port's defense.",
+                  "category": "fortress",
+                  "coords": [
+                        131.850106,
+                        43.082646
+                  ]
+            },
+            {
+                  "name": "Beregovaia batareia nomer 8 (Velikokniazheskaia)",
+                  "text": "This coastal battery on Russky Island features massive concrete emplacements for heavy artillery.",
+                  "category": "fortress",
+                  "coords": [
+                        131.916562,
+                        42.978864
+                  ]
+            },
+            {
+                  "name": "Kaponir beregovoi protivodesantnyi No. 5",
+                  "text": "A concrete coastal caponier built for defense against enemy landing operations.",
+                  "category": "fortress",
+                  "coords": [
+                        131.924988,
+                        42.988906
+                  ]
+            },
+            {
+                  "name": "Fort No. 12 -- \"Fort Velikogo Kniazia Vladimira Sviatogo\"",
+                  "text": "This massive concrete fort on Russky Island is named after Saint Vladimir.",
+                  "category": "fortress",
+                  "coords": [
+                        131.914608,
+                        42.991958
+                  ]
+            },
+            {
+                  "name": "XII",
+                  "text": "Part of the Vladivostok fortress system featuring reinforced shelters and trenches.",
+                  "category": "fortress",
+                  "coords": [
+                        131.936032,
+                        43.019115
+                  ]
+            },
+            {
+                  "name": "Batareia <<N>> (No. 298)",
+                  "text": "A coastal artillery battery with distinctive concrete beds for guns on Russky Island.",
+                  "category": "fortress",
+                  "coords": [
+                        131.890728,
+                        43.051695
+                  ]
+            },
+            {
+                  "name": "Pospelov Fort",
+                  "text": "This historic fort is situated on a ridge near the Russky Bridge.",
+                  "category": "fortress",
+                  "coords": [
+                        131.881527,
+                        43.049638
+                  ]
+            },
+            {
+                  "name": "Batareia Pospelovskaia",
+                  "text": "A coastal battery located near Cape Pospelov that once protected the sea route.",
+                  "category": "fortress",
+                  "coords": [
+                        131.892331,
+                        43.0622
+                  ]
+            },
+            {
+                  "name": "Petropavlovskaia mortirnaia batareia",
+                  "text": "A specialized mortar battery designed for indirect fire from hidden positions.",
+                  "category": "fortress",
+                  "coords": [
+                        131.925468,
+                        43.068147
+                  ]
+            },
+            {
+                  "name": "Batareia \"Basargin\"",
+                  "text": "This coastal battery is located on the strategically important Basargin Peninsula.",
+                  "category": "fortress",
+                  "coords": [
+                        131.959286,
+                        43.061958
+                  ]
+            },
+            {
+                  "name": "Liuteranskaia tserkov'",
+                  "text": "The ruins of a Lutheran church dating back to 1910, with preserved stone wall structures.",
+                  "category": "historical",
+                  "coords": [
+                        131.984806,
+                        43.13258
+                  ]
+            },
+            {
+                  "name": "Suvorov`s Fort",
+                  "text": "A defensive fort on a hill named after the famous General Suvorov.",
+                  "category": "fortress",
+                  "coords": [
+                        131.983943,
+                        43.126164
+                  ]
+            },
+            {
+                  "name": "Porokhovoi pogreb P3",
+                  "text": "A massive reinforced concrete powder magazine for the safe storage of ammunition.",
+                  "category": "fortress",
+                  "coords": [
+                        131.953278,
+                        43.126273
+                  ]
+            },
+            {
+                  "name": "Ukreplenie No. 1",
+                  "text": "A concrete fortification from the early 20th century that was part of the outer defense line.",
+                  "category": "fortress",
+                  "coords": [
+                        131.918052,
+                        43.14356
+                  ]
+            },
+            {
+                  "name": "Batareia No. 198 \"Kholodil'nik\"",
+                  "text": "This coastal battery bears the unusual name \"Kholodilnik\", which translates to refrigerator.",
+                  "category": "fortress",
+                  "coords": [
+                        131.936006,
+                        43.144336
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "bridge",
     name: { de: "Russki-Brücke", hu: "Russzkij-híd", ro: "Podul Russki", en: "Russky Bridge"},
@@ -2492,7 +4850,7 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
             },
             {
                   "name": "Tul'skii akademicheskii teatr dramy im. M. Gor'kogo",
-                  "text": "Eines der ältesten Dramentheater Russlands, das sich in der Stadt Tula befindet.",
+                  "text": "Dramatheater im Tulaer Kreml, in einem historischen Gebäude untergebracht.",
                   "category": "cultural",
                   "coords": [
                         37.609754,
@@ -2519,7 +4877,7 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
             },
             {
                   "name": "Muzei Prianika",
-                  "text": "Ein Museum, das den traditionellen Tulaer Lebkuchen, bekannt als Prjanik, zeigt.",
+                  "text": "Das Pryanik-Museum – ein Museum über den berühmten Tulaer Lebkuchen im Tulaer Kreml.",
                   "category": "museum",
                   "coords": [
                         37.622309,
@@ -2528,7 +4886,7 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
             },
             {
                   "name": "Tul'skii Kamernyi Dramaticheskii Teatr",
-                  "text": "Ein Kammertheater im Tulaer Kreml, das dramatische Aufführungen bietet.",
+                  "text": "Das Tulaer Kammersprechtheater im Tulaer Kreml.",
                   "category": "cultural",
                   "coords": [
                         37.626177,
@@ -2611,7 +4969,7 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
             },
             {
                   "name": "Tul'skii akademicheskii teatr dramy im. M. Gor'kogo",
-                  "text": "Oroszország egyik legrégebbi drámai színháza, amely Tula városában található.",
+                  "text": "Drámaszínház a Tula Kremlben, egy történelmi épületben.",
                   "category": "cultural",
                   "coords": [
                         37.609754,
@@ -2638,7 +4996,7 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
             },
             {
                   "name": "Muzei Prianika",
-                  "text": "A hagyományos tulai mézeskalácsot, a prjanikot bemutató múzeum.",
+                  "text": "A Pryanik Múzeum – a híres tulai mézeskalács múzeuma a Tula Kremlben.",
                   "category": "museum",
                   "coords": [
                         37.622309,
@@ -2647,7 +5005,7 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
             },
             {
                   "name": "Tul'skii Kamernyi Dramaticheskii Teatr",
-                  "text": "Kamaraszínház a Tulai Kremlben, amely drámai előadásokat mutat be.",
+                  "text": "A Tula Kamaraszínház a Tula Kremlben.",
                   "category": "cultural",
                   "coords": [
                         37.626177,
@@ -2730,7 +5088,7 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
             },
             {
                   "name": "Tul'skii akademicheskii teatr dramy im. M. Gor'kogo",
-                  "text": "Unul dintre cele mai vechi teatre dramatice din Rusia, situat în orașul Tula.",
+                  "text": "Teatru dramatic în Kremlinul Tula, găzduit într-o clădire istorică.",
                   "category": "cultural",
                   "coords": [
                         37.609754,
@@ -2757,7 +5115,7 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
             },
             {
                   "name": "Muzei Prianika",
-                  "text": "Un muzeu care prezintă tradiționala turtă dulce din Tula, cunoscută sub numele de pryanik.",
+                  "text": "Muzeul Pryanik – muzeul dedicat turtei dulci celebre din Tula, în incinta Kremlinului din Tula.",
                   "category": "museum",
                   "coords": [
                         37.622309,
@@ -2766,7 +5124,7 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
             },
             {
                   "name": "Tul'skii Kamernyi Dramaticheskii Teatr",
-                  "text": "Un teatru de cameră din Kremlinul din Tula, care oferă spectacole dramatice.",
+                  "text": "Teatrul de Cameră din Tula, situat în Kremlinul din Tula.",
                   "category": "cultural",
                   "coords": [
                         37.626177,
@@ -2849,7 +5207,7 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
             },
             {
                   "name": "Tula Academic Drama Theater",
-                  "text": "One of the oldest drama theaters in Russia, located in the city of Tula.",
+                  "text": "Drama theater in Tula Kremlin, housed in a historic building.",
                   "category": "cultural",
                   "coords": [
                         37.609754,
@@ -2876,7 +5234,7 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
             },
             {
                   "name": "Pryanik Museum",
-                  "text": "A museum showcasing the traditional Tula gingerbread, known as pryanik.",
+                  "text": "The Pryanik Museum – a museum about Tula's famous gingerbread inside the Tula Kremlin.",
                   "category": "museum",
                   "coords": [
                         37.622309,
@@ -2885,7 +5243,7 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
             },
             {
                   "name": "Tula Chamber Drama Theater",
-                  "text": "A chamber drama theater located in the Tula Kremlin, offering dramatic performances.",
+                  "text": "The Tula Chamber Drama Theater located within the Tula Kremlin.",
                   "category": "cultural",
                   "coords": [
                         37.626177,
@@ -2988,7 +5346,7 @@ imageHint: "Tula Kremlin red brick walls and towers",
       "de": [
             {
                   "name": "Moskovskii gosudarstvennyi muzei Vadima Sidura",
-                  "text": "Ein Museum in Moskau, das dem Werk des Bildhauers Vadim Sidur gewidmet ist.",
+                  "text": "Skulpturenmuseum von Wadim Sidur im Park von Kuskowo.",
                   "category": "museum",
                   "coords": [
                         37.799059,
@@ -2997,7 +5355,7 @@ imageHint: "Tula Kremlin red brick walls and towers",
             },
             {
                   "name": "Zoo-mini",
-                  "text": "Ein kleiner Tierpark auf dem historischen Gelände von Kuskowo.",
+                  "text": "Ein Minizoo namens ‚Zoo-mini‘ auf dem Gelände des Kuskowo-Anwesens.",
                   "category": "recreational",
                   "coords": [
                         37.864171,
@@ -3006,7 +5364,7 @@ imageHint: "Tula Kremlin red brick walls and towers",
             },
             {
                   "name": "Tsentr semeinogo otdykha Karibiia",
-                  "text": "Ein beliebter Wasserpark und Freizeitzentrum in der Nähe von Kuskowo.",
+                  "text": "Der Wasserpark ‚Karibiya‘ auf dem Gelände des Kuskowo-Anwesens.",
                   "category": "recreational",
                   "coords": [
                         37.778457,
@@ -3042,7 +5400,7 @@ imageHint: "Tula Kremlin red brick walls and towers",
             },
             {
                   "name": "Zamaniia",
-                  "text": "Ein Freizeitpark für Familien beim Landgut Kuskowo.",
+                  "text": "Das Freizeitzentrum ‚Zamaniia‘ auf dem Gelände des Kuskowo-Anwesens.",
                   "category": "recreational",
                   "coords": [
                         37.730872,
@@ -3051,7 +5409,7 @@ imageHint: "Tula Kremlin red brick walls and towers",
             },
             {
                   "name": "Del'finchik",
-                  "text": "Ein Schwimmbad für Kinder im Bereich des Kuskowo-Landguts.",
+                  "text": "Das Kinderunterhaltungszentrum ‚Del'finchik‘ auf dem Kuskowo-Anwesen.",
                   "category": "recreational",
                   "coords": [
                         37.745002,
@@ -3062,7 +5420,7 @@ imageHint: "Tula Kremlin red brick walls and towers",
       "hu": [
             {
                   "name": "Moskovskii gosudarstvennyi muzei Vadima Sidura",
-                  "text": "Vagyim Szidur szobrászművész munkásságának szentelt múzeum Moszkvában.",
+                  "text": "Vadim Sidur szobormúzeuma a Kuszkovói kastély parkjában.",
                   "category": "museum",
                   "coords": [
                         37.799059,
@@ -3071,7 +5429,7 @@ imageHint: "Tula Kremlin red brick walls and towers",
             },
             {
                   "name": "Zoo-mini",
-                  "text": "Kisméretű állatkert a történelmi Kuskovo birtokon.",
+                  "text": "Egy 'Zoo-mini' nevű miniallatkert a Kuszkó kastély birtokán.",
                   "category": "recreational",
                   "coords": [
                         37.864171,
@@ -3080,7 +5438,7 @@ imageHint: "Tula Kremlin red brick walls and towers",
             },
             {
                   "name": "Tsentr semeinogo otdykha Karibiia",
-                  "text": "Népszerű vízipark és szabadidőközpont Kuskovo közelében.",
+                  "text": "A 'Karibiya' vízipark a Kuszkó kastély birtokán.",
                   "category": "recreational",
                   "coords": [
                         37.778457,
@@ -3116,7 +5474,7 @@ imageHint: "Tula Kremlin red brick walls and towers",
             },
             {
                   "name": "Zamaniia",
-                  "text": "Családi vidámpark a Kuskovo-birtoknál.",
+                  "text": "A 'Zamaniia' szabadidőközpont a Kuszkó kastély birtokán.",
                   "category": "recreational",
                   "coords": [
                         37.730872,
@@ -3125,7 +5483,7 @@ imageHint: "Tula Kremlin red brick walls and towers",
             },
             {
                   "name": "Del'finchik",
-                  "text": "Gyermek úszómedence a Kuskovo-birtok területén.",
+                  "text": "A 'Del'finchik' gyermekszórakoztató központ a Kuszkó kastély birtokán.",
                   "category": "recreational",
                   "coords": [
                         37.745002,
@@ -3136,7 +5494,7 @@ imageHint: "Tula Kremlin red brick walls and towers",
       "ro": [
             {
                   "name": "Moskovskii gosudarstvennyi muzei Vadima Sidura",
-                  "text": "Un muzeu din Moscova dedicat operei sculptorului Vadim Sidur.",
+                  "text": "Muzeul de sculptură Vadim Sidur în parcul conacului Kuskovo.",
                   "category": "museum",
                   "coords": [
                         37.799059,
@@ -3145,7 +5503,7 @@ imageHint: "Tula Kremlin red brick walls and towers",
             },
             {
                   "name": "Zoo-mini",
-                  "text": "O mică grădină zoologică pe domeniul istoric Kuskovo.",
+                  "text": "O grădină zoologică miniaturală numită 'Zoo-mini' pe terenul Moșiei Kuskovo.",
                   "category": "recreational",
                   "coords": [
                         37.864171,
@@ -3154,7 +5512,7 @@ imageHint: "Tula Kremlin red brick walls and towers",
             },
             {
                   "name": "Tsentr semeinogo otdykha Karibiia",
-                  "text": "Un parc acvatic și centru de agrement popular lângă Kuskovo.",
+                  "text": "Parcul acvatic 'Karibiya' pe terenul Moșiei Kuskovo.",
                   "category": "recreational",
                   "coords": [
                         37.778457,
@@ -3190,7 +5548,7 @@ imageHint: "Tula Kremlin red brick walls and towers",
             },
             {
                   "name": "Zamaniia",
-                  "text": "Un parc de distracții pentru familii lângă domeniul Kuskovo.",
+                  "text": "Centrul de agrement 'Zamaniia' pe terenul Moșiei Kuskovo.",
                   "category": "recreational",
                   "coords": [
                         37.730872,
@@ -3199,7 +5557,7 @@ imageHint: "Tula Kremlin red brick walls and towers",
             },
             {
                   "name": "Del'finchik",
-                  "text": "O piscină pentru copii în zona domeniului Kuskovo.",
+                  "text": "Centrul de divertisment pentru copii 'Del'finchik' pe Moșia Kuskovo.",
                   "category": "recreational",
                   "coords": [
                         37.745002,
@@ -3210,7 +5568,7 @@ imageHint: "Tula Kremlin red brick walls and towers",
       "en": [
             {
                   "name": "Vadim Sidur State Museum of Moscow",
-                  "text": "A museum in Moscow dedicated to the work of sculptor Vadim Sidur.",
+                  "text": "Sculpture museum of Vadim Sidur in the Kuskovo estate park.",
                   "category": "museum",
                   "coords": [
                         37.799059,
@@ -3219,7 +5577,7 @@ imageHint: "Tula Kremlin red brick walls and towers",
             },
             {
                   "name": "Zoo-mini",
-                  "text": "A small zoo located on the historical Kuskovo estate.",
+                  "text": "A mini zoo called 'Zoo-mini' on the grounds of the Kuskovo Estate.",
                   "category": "recreational",
                   "coords": [
                         37.864171,
@@ -3228,7 +5586,7 @@ imageHint: "Tula Kremlin red brick walls and towers",
             },
             {
                   "name": "Water Park Karibiya",
-                  "text": "A popular water park and leisure center near Kuskovo.",
+                  "text": "The water park 'Karibiya' on the estate grounds of Kuskovo.",
                   "category": "recreational",
                   "coords": [
                         37.778457,
@@ -3264,7 +5622,7 @@ imageHint: "Tula Kremlin red brick walls and towers",
             },
             {
                   "name": "Zamaniia",
-                  "text": "A family theme park located by the Kuskovo Estate.",
+                  "text": "The recreation center 'Zamaniia' on the Kuskovo Estate grounds.",
                   "category": "recreational",
                   "coords": [
                         37.730872,
@@ -3273,7 +5631,7 @@ imageHint: "Tula Kremlin red brick walls and towers",
             },
             {
                   "name": "Del'finchik",
-                  "text": "A children's swimming pool in the Kuskovo Estate area.",
+                  "text": "The children's entertainment center 'Del'finchik' at the Kuskovo Estate.",
                   "category": "recreational",
                   "coords": [
                         37.745002,

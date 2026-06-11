@@ -3,7 +3,232 @@ import type { POI } from "./poi";
 
 export const poiExtraBhutanReliefV2: POI[] = [
   {
-    id: "phobjikha-valley-relief-v2",
+    id: "phobjikha-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kueghi Pokto",
+                  "text": "Eine archäologische Fundstätte im hochgelegenen Phobjikha-Gletschertal.",
+                  "category": "historical",
+                  "coords": [
+                        90.208775,
+                        27.433762
+                  ]
+            },
+            {
+                  "name": "Tshorbuso Mound",
+                  "text": "Ein künstlich angelegter Erdhügel im Phobjikha-Tal, der vermutlich von historischer Bedeutung ist.",
+                  "category": "historical",
+                  "coords": [
+                        90.207754,
+                        27.435243
+                  ]
+            },
+            {
+                  "name": "Khaydungdu Mound",
+                  "text": "Eine prähistorische Hügelstruktur in der sumpfigen Ebene des Phobjikha-Tals.",
+                  "category": "historical",
+                  "coords": [
+                        90.20382,
+                        27.437357
+                  ]
+            },
+            {
+                  "name": "Lugchu Goenpa",
+                  "text": "Ein buddhistisches Kloster, das auf einem Hügel mit Blick auf das weite Phobjikha-Tal thront.",
+                  "category": "landmark",
+                  "coords": [
+                        90.232628,
+                        27.42841
+                  ]
+            },
+            {
+                  "name": "Taphu Lhakhang",
+                  "text": "Ein traditioneller bhutanischer Tempel im abgelegenen Dorf Taphu im Phobjikha-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        90.24575,
+                        27.435174
+                  ]
+            },
+            {
+                  "name": "Ngenlungdrechagling Temple",
+                  "text": "Ein alter Nyingma-buddhistischer Tempel im oberen Teil des Phobjikha-Tals.",
+                  "category": "landmark",
+                  "coords": [
+                        90.203037,
+                        27.435519
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kueghi Pokto",
+                  "text": "Régészeti lelőhely a magasan fekvő Phobjikha-gleccservölgyben.",
+                  "category": "historical",
+                  "coords": [
+                        90.208775,
+                        27.433762
+                  ]
+            },
+            {
+                  "name": "Tshorbuso Mound",
+                  "text": "Mesterséges földhalom a Phobjikha-völgyben, amely vélhetően történelmi jelentőségű.",
+                  "category": "historical",
+                  "coords": [
+                        90.207754,
+                        27.435243
+                  ]
+            },
+            {
+                  "name": "Khaydungdu Mound",
+                  "text": "Prehisztorikus halomstruktúra a Phobjikha-völgy mocsaras síkságán.",
+                  "category": "historical",
+                  "coords": [
+                        90.20382,
+                        27.437357
+                  ]
+            },
+            {
+                  "name": "Lugchu Goenpa",
+                  "text": "Buddhista kolostor, amely egy dombtetőn trónol, kilátással a tágas Phobjikha-völgyre.",
+                  "category": "landmark",
+                  "coords": [
+                        90.232628,
+                        27.42841
+                  ]
+            },
+            {
+                  "name": "Taphu Lhakhang",
+                  "text": "Hagyományos bhutáni templom a távoli Taphu faluban, a Phobjikha-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        90.24575,
+                        27.435174
+                  ]
+            },
+            {
+                  "name": "Ngenlungdrechagling Temple",
+                  "text": "Ősi nyingma buddhista templom a Phobjikha-völgy felső részén.",
+                  "category": "landmark",
+                  "coords": [
+                        90.203037,
+                        27.435519
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kueghi Pokto",
+                  "text": "Un sit arheologic situat în valea glaciară de mare altitudine Phobjikha.",
+                  "category": "historical",
+                  "coords": [
+                        90.208775,
+                        27.433762
+                  ]
+            },
+            {
+                  "name": "Tshorbuso Mound",
+                  "text": "Un movilă de pământ în valea Phobjikha, despre care se crede că are o importanță istorică.",
+                  "category": "historical",
+                  "coords": [
+                        90.207754,
+                        27.435243
+                  ]
+            },
+            {
+                  "name": "Khaydungdu Mound",
+                  "text": "O structură de tip movilă preistorică în câmpia mlaștoasă a văii Phobjikha.",
+                  "category": "historical",
+                  "coords": [
+                        90.20382,
+                        27.437357
+                  ]
+            },
+            {
+                  "name": "Lugchu Goenpa",
+                  "text": "O mănăstire budistă cocoțată pe un deal cu vedere spre valea largă Phobjikha.",
+                  "category": "landmark",
+                  "coords": [
+                        90.232628,
+                        27.42841
+                  ]
+            },
+            {
+                  "name": "Taphu Lhakhang",
+                  "text": "Un templu bhutanez tradițional în satul izolat Taphu din valea Phobjikha.",
+                  "category": "landmark",
+                  "coords": [
+                        90.24575,
+                        27.435174
+                  ]
+            },
+            {
+                  "name": "Ngenlungdrechagling Temple",
+                  "text": "Un vechi templu budist Nyingma în partea superioară a văii Phobjikha.",
+                  "category": "landmark",
+                  "coords": [
+                        90.203037,
+                        27.435519
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kueghi Pokto",
+                  "text": "An archaeological site located in the high-altitude Phobjikha glacial valley.",
+                  "category": "historical",
+                  "coords": [
+                        90.208775,
+                        27.433762
+                  ]
+            },
+            {
+                  "name": "Tshorbuso Mound",
+                  "text": "An earthwork mound in the Phobjikha valley, believed to be of historical significance.",
+                  "category": "historical",
+                  "coords": [
+                        90.207754,
+                        27.435243
+                  ]
+            },
+            {
+                  "name": "Khaydungdu Mound",
+                  "text": "A prehistoric mound structure in the marshy plain of the Phobjikha valley.",
+                  "category": "historical",
+                  "coords": [
+                        90.20382,
+                        27.437357
+                  ]
+            },
+            {
+                  "name": "Lugchu Goenpa",
+                  "text": "A Buddhist monastery perched on a hillside overlooking the broad Phobjikha valley.",
+                  "category": "landmark",
+                  "coords": [
+                        90.232628,
+                        27.42841
+                  ]
+            },
+            {
+                  "name": "Taphu Lhakhang",
+                  "text": "A traditional Bhutanese temple in the remote Taphu village of the Phobjikha valley.",
+                  "category": "landmark",
+                  "coords": [
+                        90.24575,
+                        27.435174
+                  ]
+            },
+            {
+                  "name": "Ngenlungdrechagling Temple",
+                  "text": "An ancient Nyingma Buddhist temple in the upper reaches of the Phobjikha valley.",
+                  "category": "landmark",
+                  "coords": [
+                        90.203037,
+                        27.435519
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "BT-32",
     coords: [90.1764, 27.4262],
@@ -36,7 +261,700 @@ export const poiExtraBhutanReliefV2: POI[] = [
       pt: [],
       fr: [],}, image: "/poi-images/phobjikha-valley-relief-v2.webp"},
   {
-    id: "haa-valley-relief-v2",
+    id: "haa-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Yak Monument",
+                  "text": "Skulptur zu Ehren der Yaks, die für das Überleben im Haa-Tal lebenswichtig sind.",
+                  "category": "historical",
+                  "coords": [
+                        89.278992,
+                        27.391222
+                  ]
+            },
+            {
+                  "name": "Chorten",
+                  "text": "Weiß gekalkter buddhistischer Stupa, der als schützendes Wahrzeichen im Haa-Tal steht.",
+                  "category": "historical",
+                  "coords": [
+                        89.251534,
+                        27.424008
+                  ]
+            },
+            {
+                  "name": "Dangrim Chorten",
+                  "text": "Langgestreckter Dangrim-Stupa, der typisch für den Eingang zu bhutanischen Siedlungen ist.",
+                  "category": "historical",
+                  "coords": [
+                        89.254557,
+                        27.408288
+                  ]
+            },
+            {
+                  "name": "Namgay Khamzang chorten",
+                  "text": "„Sieges-Stupa“, der errichtet wurde, um Glück und Wohlstand für die Gemeinde zu bringen.",
+                  "category": "religious",
+                  "coords": [
+                        89.266973,
+                        27.394114
+                  ]
+            },
+            {
+                  "name": "Namgay Khangzang Chorten",
+                  "text": "Religiöses Denkmal, das den Sieg des spirituellen Friedens über Konflikte feiert.",
+                  "category": "religious",
+                  "coords": [
+                        89.266501,
+                        27.397248
+                  ]
+            },
+            {
+                  "name": "Namgay Khanzang chorten",
+                  "text": "Buddhistischer Stupa, der den Triumph des Glaubens und der Erleuchtung darstellt.",
+                  "category": "religious",
+                  "coords": [
+                        89.265203,
+                        27.399798
+                  ]
+            },
+            {
+                  "name": "Mani Dungkhor.",
+                  "text": "Haus für Gebetsmühlen, in dem Gläubige durch Drehen der Rollen religiöse Verdienste sammeln.",
+                  "category": "religious",
+                  "coords": [
+                        89.286529,
+                        27.393262
+                  ]
+            },
+            {
+                  "name": "Shimizakha drupchhu",
+                  "text": "Heilige natürliche Quelle, deren Wasser für seine reinigenden und heilenden Kräfte verehrt wird.",
+                  "category": "religious",
+                  "coords": [
+                        89.286921,
+                        27.395449
+                  ]
+            },
+            {
+                  "name": "Chhukhor Mani",
+                  "text": "Ein traditioneller buddhistischer Schrein mit Gebetsmühlen und beschrifteten Mani-Steinen im Haa-Tal.",
+                  "category": "religious",
+                  "coords": [
+                        89.242873,
+                        27.412006
+                  ]
+            },
+            {
+                  "name": "Gyensa Lhakhang",
+                  "text": "Ein lokaler buddhistischer Tempel, der für seine traditionelle bhutanische Architektur und religiöse Kunst bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        89.243922,
+                        27.412315
+                  ]
+            },
+            {
+                  "name": "Chundu Ground",
+                  "text": "Ein heiliger Ort, der der lokalen Schutzgottheit Ap Chundu gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        89.246646,
+                        27.414547
+                  ]
+            },
+            {
+                  "name": "Yangthang Goenpa",
+                  "text": "Ein abgelegenes buddhistisches Kloster, das Mönchen einen ruhigen Ort für Studium und Gebet bietet.",
+                  "category": "religious",
+                  "coords": [
+                        89.254573,
+                        27.415896
+                  ]
+            },
+            {
+                  "name": "Tsenka Goenpa",
+                  "text": "Dieses Bergkloster ist ein wichtiges Zentrum für buddhistische Zeremonien in der Region.",
+                  "category": "religious",
+                  "coords": [
+                        89.252645,
+                        27.43706
+                  ]
+            },
+            {
+                  "name": "Jamthoe Goenpa Lhakhang",
+                  "text": "Ein Tempelkomplex mit kunstvollen Wandmalereien, die buddhistische Gottheiten und Legenden darstellen.",
+                  "category": "religious",
+                  "coords": [
+                        89.232684,
+                        27.425831
+                  ]
+            },
+            {
+                  "name": "Yangthang Lhakhang",
+                  "text": "Ein traditioneller Lhakhang, in dem religiöse Feste und Gebete der Dorfgemeinschaft stattfinden.",
+                  "category": "religious",
+                  "coords": [
+                        89.253299,
+                        27.409995
+                  ]
+            },
+            {
+                  "name": "Lhakhang Goenpa",
+                  "text": "Ein befestigtes Klostergebäude, das typisch für den bhutanischen Baustil im Haa-Tal ist.",
+                  "category": "religious",
+                  "coords": [
+                        89.258097,
+                        27.414237
+                  ]
+            },
+            {
+                  "name": "Tenchhu Goenpa Lhakhang",
+                  "text": "Ein buddhistisches Heiligtum, das für seine friedliche Atmosphäre und die umliegenden Gebetsfahnen bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        89.215599,
+                        27.424048
+                  ]
+            },
+            {
+                  "name": "Namgay Khamzang",
+                  "text": "Ein buddhistisches Bauwerk, das durch seine kunstvollen Schnitzereien und religiöse Bedeutung besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        89.275553,
+                        27.389495
+                  ]
+            },
+            {
+                  "name": "Namgay Khangzang",
+                  "text": "Dieses buddhistische Gebäude dient als wichtiger Versammlungspunkt für lokale Pilger.",
+                  "category": "landmark",
+                  "coords": [
+                        89.273674,
+                        27.389642
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Yak Monument",
+                  "text": "A jakok előtt tisztelgő szobor, amelyek alapvető fontosságúak a Haa-völgy életében.",
+                  "category": "historical",
+                  "coords": [
+                        89.278992,
+                        27.391222
+                  ]
+            },
+            {
+                  "name": "Chorten",
+                  "text": "Meszelt buddhista sztúpa, amely védelmező jelképként áll a Haa-völgyben.",
+                  "category": "historical",
+                  "coords": [
+                        89.251534,
+                        27.424008
+                  ]
+            },
+            {
+                  "name": "Dangrim Chorten",
+                  "text": "Megnyúlt Dangrim-sztúpa, amely jellemző a bhutáni települések bejáratára.",
+                  "category": "historical",
+                  "coords": [
+                        89.254557,
+                        27.408288
+                  ]
+            },
+            {
+                  "name": "Namgay Khamzang chorten",
+                  "text": "„Győzelmi sztúpa”, amelyet azért emeltek, hogy szerencsét és jólétet hozzon a közösségnek.",
+                  "category": "religious",
+                  "coords": [
+                        89.266973,
+                        27.394114
+                  ]
+            },
+            {
+                  "name": "Namgay Khangzang Chorten",
+                  "text": "Vallási emlékmű, amely a spirituális béke konfliktusok feletti győzelmét hirdeti.",
+                  "category": "religious",
+                  "coords": [
+                        89.266501,
+                        27.397248
+                  ]
+            },
+            {
+                  "name": "Namgay Khanzang chorten",
+                  "text": "Buddhista sztúpa, amely a hit és a megvilágosodás diadalát jelképezi.",
+                  "category": "religious",
+                  "coords": [
+                        89.265203,
+                        27.399798
+                  ]
+            },
+            {
+                  "name": "Mani Dungkhor.",
+                  "text": "Imakerékház, ahol a hívők a hengerek forgatásával vallási érdemeket szereznek.",
+                  "category": "religious",
+                  "coords": [
+                        89.286529,
+                        27.393262
+                  ]
+            },
+            {
+                  "name": "Shimizakha drupchhu",
+                  "text": "Szent természetes forrás, amelynek vizét tisztító és gyógyító ereje miatt tisztelik.",
+                  "category": "religious",
+                  "coords": [
+                        89.286921,
+                        27.395449
+                  ]
+            },
+            {
+                  "name": "Chhukhor Mani",
+                  "text": "Hagyományos buddhista szentély imakerekekkel és feliratos mani-kövekkel a Haa-völgyben.",
+                  "category": "religious",
+                  "coords": [
+                        89.242873,
+                        27.412006
+                  ]
+            },
+            {
+                  "name": "Gyensa Lhakhang",
+                  "text": "Helyi buddhista templom, amely hagyományos bhutáni építészetéről és vallási művészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        89.243922,
+                        27.412315
+                  ]
+            },
+            {
+                  "name": "Chundu Ground",
+                  "text": "Szent hely, amelyet a helyi védelmező istenségnek, Ap Chundunak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        89.246646,
+                        27.414547
+                  ]
+            },
+            {
+                  "name": "Yangthang Goenpa",
+                  "text": "Elszigetelt buddhista kolostor, amely nyugodt helyet biztosít a szerzeteseknek a tanuláshoz és imádkozáshoz.",
+                  "category": "religious",
+                  "coords": [
+                        89.254573,
+                        27.415896
+                  ]
+            },
+            {
+                  "name": "Tsenka Goenpa",
+                  "text": "Ez a hegyi kolostor a régió buddhista szertartásainak fontos központja.",
+                  "category": "religious",
+                  "coords": [
+                        89.252645,
+                        27.43706
+                  ]
+            },
+            {
+                  "name": "Jamthoe Goenpa Lhakhang",
+                  "text": "Templomkomplexum díszes falfestményekkel, amelyek buddhista istenségeket és legendákat ábrázolnak.",
+                  "category": "religious",
+                  "coords": [
+                        89.232684,
+                        27.425831
+                  ]
+            },
+            {
+                  "name": "Yangthang Lhakhang",
+                  "text": "Hagyományos lhakhang, amely a falusi közösség vallási ünnepeinek és imáinak ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        89.253299,
+                        27.409995
+                  ]
+            },
+            {
+                  "name": "Lhakhang Goenpa",
+                  "text": "Erődített kolostorépület, amely a Haa-völgy jellegzetes bhutáni építészeti stílusát képviseli.",
+                  "category": "religious",
+                  "coords": [
+                        89.258097,
+                        27.414237
+                  ]
+            },
+            {
+                  "name": "Tenchhu Goenpa Lhakhang",
+                  "text": "Buddhista szentély, amely békés hangulatáról és a környező imazászlókról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        89.215599,
+                        27.424048
+                  ]
+            },
+            {
+                  "name": "Namgay Khamzang",
+                  "text": "Buddhista építmény, amely díszes faragványaival és vallási jelentőségével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        89.275553,
+                        27.389495
+                  ]
+            },
+            {
+                  "name": "Namgay Khangzang",
+                  "text": "Ez a buddhista épület a helyi zarándokok fontos találkozóhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        89.273674,
+                        27.389642
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Yak Monument",
+                  "text": "Sculptură ridicată în cinstea iacilor, animale esențiale pentru traiul în valea Haa.",
+                  "category": "historical",
+                  "coords": [
+                        89.278992,
+                        27.391222
+                  ]
+            },
+            {
+                  "name": "Chorten",
+                  "text": "Stupa budistă văruită în alb, care servește drept punct de reper protector în valea Haa.",
+                  "category": "historical",
+                  "coords": [
+                        89.251534,
+                        27.424008
+                  ]
+            },
+            {
+                  "name": "Dangrim Chorten",
+                  "text": "Stupa alungită de tip Dangrim, caracteristică pentru intrarea în așezările bhutaneze.",
+                  "category": "historical",
+                  "coords": [
+                        89.254557,
+                        27.408288
+                  ]
+            },
+            {
+                  "name": "Namgay Khamzang chorten",
+                  "text": "„Stupa Victoriei”, ridicată pentru a aduce noroc și prosperitate comunității.",
+                  "category": "religious",
+                  "coords": [
+                        89.266973,
+                        27.394114
+                  ]
+            },
+            {
+                  "name": "Namgay Khangzang Chorten",
+                  "text": "Monument religios care celebrează victoria păcii spirituale asupra conflictelor.",
+                  "category": "religious",
+                  "coords": [
+                        89.266501,
+                        27.397248
+                  ]
+            },
+            {
+                  "name": "Namgay Khanzang chorten",
+                  "text": "Stupa budistă care reprezintă triumful credinței și al iluminării.",
+                  "category": "religious",
+                  "coords": [
+                        89.265203,
+                        27.399798
+                  ]
+            },
+            {
+                  "name": "Mani Dungkhor.",
+                  "text": "Casă a roților de rugăciune, unde credincioșii acumulează merit religios prin rotirea cilindrilor.",
+                  "category": "religious",
+                  "coords": [
+                        89.286529,
+                        27.393262
+                  ]
+            },
+            {
+                  "name": "Shimizakha drupchhu",
+                  "text": "Izvor natural sacru a cărui apă este venerată pentru puterile sale purificatoare și tămăduitoare.",
+                  "category": "religious",
+                  "coords": [
+                        89.286921,
+                        27.395449
+                  ]
+            },
+            {
+                  "name": "Chhukhor Mani",
+                  "text": "Un altar budist tradițional cu roți de rugăciune și pietre mani inscripționate în Valea Haa.",
+                  "category": "religious",
+                  "coords": [
+                        89.242873,
+                        27.412006
+                  ]
+            },
+            {
+                  "name": "Gyensa Lhakhang",
+                  "text": "Un templu budist local, cunoscut pentru arhitectura sa tradițională bhutaneză și arta religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        89.243922,
+                        27.412315
+                  ]
+            },
+            {
+                  "name": "Chundu Ground",
+                  "text": "Un loc sacru dedicat zeității protectoare locale, Ap Chundu.",
+                  "category": "religious",
+                  "coords": [
+                        89.246646,
+                        27.414547
+                  ]
+            },
+            {
+                  "name": "Yangthang Goenpa",
+                  "text": "O mănăstire budistă retrasă, care oferă monahilor un loc liniștit pentru studiu și rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        89.254573,
+                        27.415896
+                  ]
+            },
+            {
+                  "name": "Tsenka Goenpa",
+                  "text": "Această mănăstire montană este un centru important pentru ceremoniile budiste din regiune.",
+                  "category": "religious",
+                  "coords": [
+                        89.252645,
+                        27.43706
+                  ]
+            },
+            {
+                  "name": "Jamthoe Goenpa Lhakhang",
+                  "text": "Un complex de temple cu picturi murale elaborate, care înfățișează zeități și legende budiste.",
+                  "category": "religious",
+                  "coords": [
+                        89.232684,
+                        27.425831
+                  ]
+            },
+            {
+                  "name": "Yangthang Lhakhang",
+                  "text": "Un lhakhang tradițional care găzduiește festivalurile religioase și rugăciunile comunității sătești.",
+                  "category": "religious",
+                  "coords": [
+                        89.253299,
+                        27.409995
+                  ]
+            },
+            {
+                  "name": "Lhakhang Goenpa",
+                  "text": "O clădire de mănăstire fortificată, tipică stilului arhitectural bhutanez din Valea Haa.",
+                  "category": "religious",
+                  "coords": [
+                        89.258097,
+                        27.414237
+                  ]
+            },
+            {
+                  "name": "Tenchhu Goenpa Lhakhang",
+                  "text": "Un sanctuar budist cunoscut pentru atmosfera sa liniștită și steagurile de rugăciune din jur.",
+                  "category": "religious",
+                  "coords": [
+                        89.215599,
+                        27.424048
+                  ]
+            },
+            {
+                  "name": "Namgay Khamzang",
+                  "text": "O structură budistă care impresionează prin sculpturile sale ornamentate și semnificația religioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        89.275553,
+                        27.389495
+                  ]
+            },
+            {
+                  "name": "Namgay Khangzang",
+                  "text": "Această clădire budistă servește ca punct de întâlnire important pentru pelerinii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        89.273674,
+                        27.389642
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yak Monument",
+                  "text": "Sculpture honoring the yaks that are vital for survival in the high Haa Valley.",
+                  "category": "historical",
+                  "coords": [
+                        89.278992,
+                        27.391222
+                  ]
+            },
+            {
+                  "name": "Chorten",
+                  "text": "White-washed Buddhist stupa standing as a protective landmark in the Haa Valley.",
+                  "category": "historical",
+                  "coords": [
+                        89.251534,
+                        27.424008
+                  ]
+            },
+            {
+                  "name": "Dangrim Chorten",
+                  "text": "Elongated Dangrim-style stupa characteristic of the entrance to Bhutanese settlements.",
+                  "category": "historical",
+                  "coords": [
+                        89.254557,
+                        27.408288
+                  ]
+            },
+            {
+                  "name": "Namgay Khamzang chorten",
+                  "text": "Victory stupa built to bring auspiciousness and prosperity to the community.",
+                  "category": "religious",
+                  "coords": [
+                        89.266973,
+                        27.394114
+                  ]
+            },
+            {
+                  "name": "Namgay Khangzang Chorten",
+                  "text": "Religious monument celebrating the victory of spiritual peace over conflict.",
+                  "category": "religious",
+                  "coords": [
+                        89.266501,
+                        27.397248
+                  ]
+            },
+            {
+                  "name": "Namgay Khanzang chorten",
+                  "text": "Buddhist stupa representing the triumph of faith and enlightenment.",
+                  "category": "religious",
+                  "coords": [
+                        89.265203,
+                        27.399798
+                  ]
+            },
+            {
+                  "name": "Mani Dungkhor.",
+                  "text": "Prayer wheel house where devotees accumulate religious merit by spinning the cylinders.",
+                  "category": "religious",
+                  "coords": [
+                        89.286529,
+                        27.393262
+                  ]
+            },
+            {
+                  "name": "Shimizakha drupchhu",
+                  "text": "Sacred natural spring whose water is revered for its purifying and healing powers.",
+                  "category": "religious",
+                  "coords": [
+                        89.286921,
+                        27.395449
+                  ]
+            },
+            {
+                  "name": "Chhukhor Mani",
+                  "text": "A traditional Buddhist shrine featuring prayer wheels and inscribed mani stones in the Haa Valley.",
+                  "category": "religious",
+                  "coords": [
+                        89.242873,
+                        27.412006
+                  ]
+            },
+            {
+                  "name": "Gyensa Lhakhang",
+                  "text": "A local Buddhist temple known for its traditional Bhutanese architecture and religious art.",
+                  "category": "religious",
+                  "coords": [
+                        89.243922,
+                        27.412315
+                  ]
+            },
+            {
+                  "name": "Chundu Ground",
+                  "text": "A sacred site dedicated to the local protective deity, Ap Chundu.",
+                  "category": "religious",
+                  "coords": [
+                        89.246646,
+                        27.414547
+                  ]
+            },
+            {
+                  "name": "Yangthang Goenpa",
+                  "text": "A secluded Buddhist monastery providing a quiet space for monks to study and pray.",
+                  "category": "religious",
+                  "coords": [
+                        89.254573,
+                        27.415896
+                  ]
+            },
+            {
+                  "name": "Tsenka Goenpa",
+                  "text": "This mountain monastery is an important center for Buddhist ceremonies in the region.",
+                  "category": "religious",
+                  "coords": [
+                        89.252645,
+                        27.43706
+                  ]
+            },
+            {
+                  "name": "Jamthoe Goenpa Lhakhang",
+                  "text": "A temple complex featuring ornate murals depicting Buddhist deities and legends.",
+                  "category": "religious",
+                  "coords": [
+                        89.232684,
+                        27.425831
+                  ]
+            },
+            {
+                  "name": "Yangthang Lhakhang",
+                  "text": "A traditional lhakhang hosting religious festivals and prayers for the village community.",
+                  "category": "religious",
+                  "coords": [
+                        89.253299,
+                        27.409995
+                  ]
+            },
+            {
+                  "name": "Lhakhang Goenpa",
+                  "text": "A fortified monastery building typical of the Bhutanese architectural style in the Haa Valley.",
+                  "category": "religious",
+                  "coords": [
+                        89.258097,
+                        27.414237
+                  ]
+            },
+            {
+                  "name": "Tenchhu Goenpa Lhakhang",
+                  "text": "A Buddhist sanctuary known for its peaceful atmosphere and surrounding prayer flags.",
+                  "category": "religious",
+                  "coords": [
+                        89.215599,
+                        27.424048
+                  ]
+            },
+            {
+                  "name": "Namgay Khamzang",
+                  "text": "A Buddhist structure distinguished by its ornate carvings and religious significance.",
+                  "category": "landmark",
+                  "coords": [
+                        89.275553,
+                        27.389495
+                  ]
+            },
+            {
+                  "name": "Namgay Khangzang",
+                  "text": "This Buddhist building serves as an important gathering point for local pilgrims.",
+                  "category": "landmark",
+                  "coords": [
+                        89.273674,
+                        27.389642
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "BT-13",
     coords: [89.2807, 27.3875],
@@ -70,7 +988,196 @@ export const poiExtraBhutanReliefV2: POI[] = [
       fr: [],}
   },
   {
-    id: "paro-valley-relief-v2",
+    id: "paro-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chorten",
+                  "text": "Ein monumentaler buddhistischer Schrein im malerischen Paro-Tal.",
+                  "category": "historical",
+                  "coords": [
+                        89.375983,
+                        27.440459
+                  ]
+            },
+            {
+                  "name": "Jangtsa Dumtseg Lhakhang",
+                  "text": "Ein bemerkenswerter, Chörten-ähnlicher Tempel im Paro-Tal, der für seine seltene dreistöckige Architekturform bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        89.413394,
+                        27.435194
+                  ]
+            },
+            {
+                  "name": "Sangchen Choekhor Shedra",
+                  "text": "Ein bedeutendes buddhistisches Kloster-College auf einem Bergrücken im Paro-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        89.38951,
+                        27.456446
+                  ]
+            },
+            {
+                  "name": "Singe Ta",
+                  "text": "Ein lokales buddhistisches Wahrzeichen in der Region des Paro-Tals.",
+                  "category": "landmark",
+                  "coords": [
+                        89.412353,
+                        27.466501
+                  ]
+            },
+            {
+                  "name": "Lamai Lhakhang",
+                  "text": "Eine historische buddhistische Kultstätte inmitten der traditionellen Architektur des Paro-Tals.",
+                  "category": "landmark",
+                  "coords": [
+                        89.403795,
+                        27.425231
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chorten",
+                  "text": "Egy monumentális buddhista szentély a festői Paro-völgyben.",
+                  "category": "historical",
+                  "coords": [
+                        89.375983,
+                        27.440459
+                  ]
+            },
+            {
+                  "name": "Jangtsa Dumtseg Lhakhang",
+                  "text": "A Paro-völgy egyedülálló, chorten-szerű temploma, amely ritka, háromszintes építészeti formájáról híres.",
+                  "category": "religious",
+                  "coords": [
+                        89.413394,
+                        27.435194
+                  ]
+            },
+            {
+                  "name": "Sangchen Choekhor Shedra",
+                  "text": "Egy kiemelkedő buddhista kolostori főiskola a Paro-völgy egyik hegygerincén.",
+                  "category": "landmark",
+                  "coords": [
+                        89.38951,
+                        27.456446
+                  ]
+            },
+            {
+                  "name": "Singe Ta",
+                  "text": "Egy helyi buddhista vallási nevezetesség a Paro-völgy régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        89.412353,
+                        27.466501
+                  ]
+            },
+            {
+                  "name": "Lamai Lhakhang",
+                  "text": "Történelmi buddhista imahely a Paro-völgy hagyományos építészeti környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        89.403795,
+                        27.425231
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chorten",
+                  "text": "Un sanctuar budist monumental situat în pitoreasca Vale Paro.",
+                  "category": "historical",
+                  "coords": [
+                        89.375983,
+                        27.440459
+                  ]
+            },
+            {
+                  "name": "Jangtsa Dumtseg Lhakhang",
+                  "text": "Un templu remarcabil sub formă de chorten din Valea Paro, renumit pentru arhitectura sa rară pe trei etaje.",
+                  "category": "religious",
+                  "coords": [
+                        89.413394,
+                        27.435194
+                  ]
+            },
+            {
+                  "name": "Sangchen Choekhor Shedra",
+                  "text": "Un important colegiu monahal budist așezat pe o creastă în Valea Paro.",
+                  "category": "landmark",
+                  "coords": [
+                        89.38951,
+                        27.456446
+                  ]
+            },
+            {
+                  "name": "Singe Ta",
+                  "text": "Un reper religios budist local situat în regiunea Văii Paro.",
+                  "category": "landmark",
+                  "coords": [
+                        89.412353,
+                        27.466501
+                  ]
+            },
+            {
+                  "name": "Lamai Lhakhang",
+                  "text": "Un lăcaș de cult budist istoric situat printre arhitectura tradițională a Văii Paro.",
+                  "category": "landmark",
+                  "coords": [
+                        89.403795,
+                        27.425231
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chorten",
+                  "text": "A monumental Buddhist shrine situated in the scenic Paro Valley.",
+                  "category": "historical",
+                  "coords": [
+                        89.375983,
+                        27.440459
+                  ]
+            },
+            {
+                  "name": "Jangtsa Dumtseg Lhakhang",
+                  "text": "A notable chorten-like temple in Paro Valley famous for its rare, three-story architectural shape.",
+                  "category": "religious",
+                  "coords": [
+                        89.413394,
+                        27.435194
+                  ]
+            },
+            {
+                  "name": "Sangchen Choekhor Shedra",
+                  "text": "A prominent Buddhist monastic college set on a ridge in the Paro Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        89.38951,
+                        27.456446
+                  ]
+            },
+            {
+                  "name": "Singe Ta",
+                  "text": "A local Buddhist religious landmark located in the Paro Valley region.",
+                  "category": "landmark",
+                  "coords": [
+                        89.412353,
+                        27.466501
+                  ]
+            },
+            {
+                  "name": "Lamai Lhakhang",
+                  "text": "A historic Buddhist place of worship set amidst the traditional architecture of the Paro Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        89.403795,
+                        27.425231
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "BT-12",
     coords: [89.4133, 27.4294],
@@ -103,7 +1210,52 @@ export const poiExtraBhutanReliefV2: POI[] = [
       pt: [],
       fr: [],}, image: "/poi-images/paro-valley-relief-v2.webp"},
   {
-    id: "punakha-valley-relief-v2",
+    id: "punakha-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Changyul Galem House",
+                  "text": "Dieses traditionelle bhutanische Wohnhaus ist ein Denkmal für die landestypische Architektur und die lokale Geschichte der Region.",
+                  "category": "historical",
+                  "coords": [
+                        89.861161,
+                        27.590353
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Changyul Galem House",
+                  "text": "Ez a hagyományos bhutáni lakóház a régió népi építészetének és helyi történelmének emlékműveként áll.",
+                  "category": "historical",
+                  "coords": [
+                        89.861161,
+                        27.590353
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Changyul Galem House",
+                  "text": "Această locuință tradițională bhutaneză stă ca un monument al arhitecturii vernaculare și al istoriei locale din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        89.861161,
+                        27.590353
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Changyul Galem House",
+                  "text": "This traditional Bhutanese dwelling stands as a monument to the region's vernacular architecture and local history.",
+                  "category": "historical",
+                  "coords": [
+                        89.861161,
+                        27.590353
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "BT-23",
     coords: [89.8631, 27.5921],
@@ -170,7 +1322,196 @@ export const poiExtraBhutanReliefV2: POI[] = [
       fr: [],}
   },
   {
-    id: "thimphu-valley-relief-v2",
+    id: "thimphu-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "bhutanese Arts and Crafts",
+                  "text": "Ein Kunstzentrum, das traditionelle bhutanische Handwerkskunst wie Weberei und Schnitzerei im Thimphu-Tal ausstellt.",
+                  "category": "cultural",
+                  "coords": [
+                        89.6396,
+                        27.470885
+                  ]
+            },
+            {
+                  "name": "Bhutan Dragon Prints",
+                  "text": "Dieses Zentrum ist bekannt für seine hochwertigen Drucke und Textilien mit traditionellen bhutanischen Drachenmotiven.",
+                  "category": "cultural",
+                  "coords": [
+                        89.638285,
+                        27.470832
+                  ]
+            },
+            {
+                  "name": "Bhutan Postal Museum",
+                  "text": "Ein einzigartiges Museum in Thimphu, in dem Besucher ihre eigenen personalisierten Briefmarken erstellen lassen können.",
+                  "category": "museum",
+                  "coords": [
+                        89.638887,
+                        27.473962
+                  ]
+            },
+            {
+                  "name": "BLOSSOMS",
+                  "text": "Diese Galerie zeigt eine Auswahl an floralen Kunstwerken und dekorativen Stücken bhutanischer Kunsthandwerker.",
+                  "category": "museum",
+                  "coords": [
+                        89.637527,
+                        27.473688
+                  ]
+            },
+            {
+                  "name": "Thai Pavillion",
+                  "text": "Ein kunstvoller thailändischer Pavillon in Thimphu, der als Symbol der Freundschaft zwischen Bhutan und Thailand errichtet wurde.",
+                  "category": "recreational",
+                  "coords": [
+                        89.636432,
+                        27.471356
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "bhutanese Arts and Crafts",
+                  "text": "Művészeti központ, amely a Thimphu-völgy hagyományos bhutáni kézműves ágait, például a szövést és a faragást mutatja be.",
+                  "category": "cultural",
+                  "coords": [
+                        89.6396,
+                        27.470885
+                  ]
+            },
+            {
+                  "name": "Bhutan Dragon Prints",
+                  "text": "Ez a központ a hagyományos bhutáni sárkánymotívumokkal díszített, kiváló minőségű nyomatairól és textíliáiról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        89.638285,
+                        27.470832
+                  ]
+            },
+            {
+                  "name": "Bhutan Postal Museum",
+                  "text": "Egyedülálló múzeum Thimphuban, ahol a látogatók elkészíthetik saját, személyre szabott postai bélyegeiket.",
+                  "category": "museum",
+                  "coords": [
+                        89.638887,
+                        27.473962
+                  ]
+            },
+            {
+                  "name": "BLOSSOMS",
+                  "text": "Ez a galéria bhutáni kézművesek virágos műalkotásait és dekoratív darabjait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        89.637527,
+                        27.473688
+                  ]
+            },
+            {
+                  "name": "Thai Pavillion",
+                  "text": "Díszes thaiföldi pavilon Thimphuban, amelyet Bhután és Thaiföld barátságának szimbólumaként emeltek.",
+                  "category": "recreational",
+                  "coords": [
+                        89.636432,
+                        27.471356
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "bhutanese Arts and Crafts",
+                  "text": "Un centru de artă care expune meșteșuguri tradiționale bhutaneze, cum ar fi țesutul și sculptura, în Valea Thimphu.",
+                  "category": "cultural",
+                  "coords": [
+                        89.6396,
+                        27.470885
+                  ]
+            },
+            {
+                  "name": "Bhutan Dragon Prints",
+                  "text": "Acest centru este cunoscut pentru imprimeurile și textilele sale de înaltă calitate, cu motive tradiționale cu dragoni bhutanezi.",
+                  "category": "cultural",
+                  "coords": [
+                        89.638285,
+                        27.470832
+                  ]
+            },
+            {
+                  "name": "Bhutan Postal Museum",
+                  "text": "Un muzeu unic în Thimphu unde vizitatorii își pot crea propriile timbre poștale personalizate.",
+                  "category": "museum",
+                  "coords": [
+                        89.638887,
+                        27.473962
+                  ]
+            },
+            {
+                  "name": "BLOSSOMS",
+                  "text": "Această galerie expune o selecție de lucrări de artă florală și piese decorative ale meșteșugarilor bhutanezi.",
+                  "category": "museum",
+                  "coords": [
+                        89.637527,
+                        27.473688
+                  ]
+            },
+            {
+                  "name": "Thai Pavillion",
+                  "text": "Un pavilion thailandez ornamental din Thimphu, ridicat ca simbol al prieteniei dintre Bhutan și Thailanda.",
+                  "category": "recreational",
+                  "coords": [
+                        89.636432,
+                        27.471356
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "bhutanese Arts and Crafts",
+                  "text": "An arts center exhibiting traditional Bhutanese handicrafts like weaving and carving in the Thimphu Valley.",
+                  "category": "cultural",
+                  "coords": [
+                        89.6396,
+                        27.470885
+                  ]
+            },
+            {
+                  "name": "Bhutan Dragon Prints",
+                  "text": "This center is known for its high-quality prints and textiles featuring traditional Bhutanese dragon motifs.",
+                  "category": "cultural",
+                  "coords": [
+                        89.638285,
+                        27.470832
+                  ]
+            },
+            {
+                  "name": "Bhutan Postal Museum",
+                  "text": "A unique museum in Thimphu where visitors can have their own personalized postage stamps created.",
+                  "category": "museum",
+                  "coords": [
+                        89.638887,
+                        27.473962
+                  ]
+            },
+            {
+                  "name": "BLOSSOMS",
+                  "text": "This gallery displays a selection of floral artworks and decorative pieces by Bhutanese artisans.",
+                  "category": "museum",
+                  "coords": [
+                        89.637527,
+                        27.473688
+                  ]
+            },
+            {
+                  "name": "Thai Pavillion",
+                  "text": "An ornate Thai pavilion in Thimphu, erected as a symbol of friendship between Bhutan and Thailand.",
+                  "category": "recreational",
+                  "coords": [
+                        89.636432,
+                        27.471356
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "BT-14",
     coords: [89.6390, 27.4728],
@@ -203,7 +1544,88 @@ export const poiExtraBhutanReliefV2: POI[] = [
       pt: [],
       fr: [],}, image: "/poi-images/thimphu-valley-relief-v2.webp"},
   {
-    id: "ura-valley-relief-v2",
+    id: "ura-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shamzur Gompa",
+                  "text": "Der Shamzur Gompa ist ein buddhistisches Kloster, das hoch im Ura-Tal liegt und traditionelle bhutanische Architektur zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        90.97141,
+                        27.511735
+                  ]
+            },
+            {
+                  "name": "Ura Lhakhang",
+                  "text": "Das Ura Lhakhang ist der zentrale buddhistische Tempel des Dorfes Ura, bekannt für seine beeindruckende Statue von Guru Rinpoche.",
+                  "category": "landmark",
+                  "coords": [
+                        90.903163,
+                        27.477558
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shamzur Gompa",
+                  "text": "A Shamzur Gompa egy buddhista kolostor, amely magasan az Ura-völgyben fekszik, és hagyományos bhutáni építészetet mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        90.97141,
+                        27.511735
+                  ]
+            },
+            {
+                  "name": "Ura Lhakhang",
+                  "text": "Az Ura Lhakhang Ura falu központi buddhista temploma, amely Guru Rinpocse lenyűgöző szobráról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        90.903163,
+                        27.477558
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shamzur Gompa",
+                  "text": "Shamzur Gompa este o mănăstire budistă situată sus în valea Ura, prezentând arhitectură tradițională bhutaneză.",
+                  "category": "landmark",
+                  "coords": [
+                        90.97141,
+                        27.511735
+                  ]
+            },
+            {
+                  "name": "Ura Lhakhang",
+                  "text": "Ura Lhakhang este templul budist central al satului Ura, cunoscut pentru statuia sa impresionantă a lui Guru Rinpoche.",
+                  "category": "landmark",
+                  "coords": [
+                        90.903163,
+                        27.477558
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shamzur Gompa",
+                  "text": "The Shamzur Gompa is a Buddhist monastery located high in the Ura Valley, showcasing traditional Bhutanese architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        90.97141,
+                        27.511735
+                  ]
+            },
+            {
+                  "name": "Ura Lhakhang",
+                  "text": "The Ura Lhakhang is the central Buddhist temple of the village of Ura, known for its impressive statue of Guru Rinpoche.",
+                  "category": "landmark",
+                  "coords": [
+                        90.903163,
+                        27.477558
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "BT-33",
     coords: [90.9333, 27.4833],
@@ -236,7 +1658,52 @@ export const poiExtraBhutanReliefV2: POI[] = [
       pt: [],
       fr: [],}, image: "/poi-images/ura-valley-relief-v2.webp"},
   {
-    id: "tang-valley-relief-v2",
+    id: "tang-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ogyen Choling",
+                  "text": "Dieses Museum im Tang-Tal bewahrt das Erbe eines historischen Herrenhauses und zeigt traditionelle bhutanische Werkzeuge und Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        90.889912,
+                        27.612402
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ogyen Choling",
+                  "text": "Ez a Tang-völgyben található múzeum egy történelmi uradalom örökségét őrzi, hagyományos bhutáni eszközöket és műtárgyakat bemutatva.",
+                  "category": "museum",
+                  "coords": [
+                        90.889912,
+                        27.612402
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ogyen Choling",
+                  "text": "Acest muzeu din Valea Tang păstrează moștenirea unui conac istoric, prezentând unelte și artefacte tradiționale din Bhutan.",
+                  "category": "museum",
+                  "coords": [
+                        90.889912,
+                        27.612402
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ogyen Choling",
+                  "text": "This museum in the Tang Valley preserves the heritage of a historic manor, showcasing traditional Bhutanese tools and artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        90.889912,
+                        27.612402
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "BT-33",
     coords: [90.8167, 27.6000],
@@ -303,7 +1770,88 @@ export const poiExtraBhutanReliefV2: POI[] = [
       fr: [],}
   },
   {
-    id: "chumey-valley-relief-v2",
+    id: "chumey-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stupa",
+                  "text": "Eine buddhistische Stupa vor dem sanften, hügeligen Relief des Chumey-Tals.",
+                  "category": "landmark",
+                  "coords": [
+                        90.586515,
+                        27.516859
+                  ]
+            },
+            {
+                  "name": "Chukchi Lhakhang",
+                  "text": "Dieser buddhistische Tempel im malerischen Chumey-Tal besticht durch lebhaft bemalte religiöse Motive.",
+                  "category": "landmark",
+                  "coords": [
+                        90.645412,
+                        27.50214
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stupa",
+                  "text": "Buddhista sztúpa a Chumey-völgy lágyan hullámzó domborzatán.",
+                  "category": "landmark",
+                  "coords": [
+                        90.586515,
+                        27.516859
+                  ]
+            },
+            {
+                  "name": "Chukchi Lhakhang",
+                  "text": "A festői Chumey-völgyben található buddhista templom élénken festett vallási motívumokkal büszkélkedhet.",
+                  "category": "landmark",
+                  "coords": [
+                        90.645412,
+                        27.50214
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stupa",
+                  "text": "O stupă budistă așezată pe relieful blând și ondulat al Văii Chumey.",
+                  "category": "landmark",
+                  "coords": [
+                        90.586515,
+                        27.516859
+                  ]
+            },
+            {
+                  "name": "Chukchi Lhakhang",
+                  "text": "Situat în pitoreasca Vale Chumey, acest templu budist prezintă motive religioase pictate în culori vii.",
+                  "category": "landmark",
+                  "coords": [
+                        90.645412,
+                        27.50214
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stupa",
+                  "text": "A Buddhist stupa set against the gentle, undulating relief of the Chumey Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        90.586515,
+                        27.516859
+                  ]
+            },
+            {
+                  "name": "Chukchi Lhakhang",
+                  "text": "Located in the picturesque Chumey Valley, this Buddhist temple features vividly painted religious motifs.",
+                  "category": "landmark",
+                  "coords": [
+                        90.645412,
+                        27.50214
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "BT-33",
     coords: [90.6500, 27.5000],
@@ -337,7 +1885,88 @@ export const poiExtraBhutanReliefV2: POI[] = [
       fr: [],}
   },
   {
-    id: "lhuentse-valley-relief-v2",
+    id: "lhuentse-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Giant Guru Rinpoche Statue",
+                  "text": "Die 47 Meter hohe Statue von Guru Rinpoche in Takila ist eine der größten Darstellungen von Padmasambhava weltweit.",
+                  "category": "historical",
+                  "coords": [
+                        91.181555,
+                        27.599651
+                  ]
+            },
+            {
+                  "name": "Lhuentse Dzong",
+                  "text": "Lhuentse Dzong ist eine Festung aus dem 17. Jahrhundert, die spektakulär auf einem Felsvorsprung über dem Kuri-Chhu-Fluss thront.",
+                  "category": "castle",
+                  "coords": [
+                        91.186651,
+                        27.665481
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Giant Guru Rinpoche Statue",
+                  "text": "A Guru Rinpocse 47 méter magas szobra Takilában a világ egyik legnagyobb Padmaszambhava-ábrázolása.",
+                  "category": "historical",
+                  "coords": [
+                        91.181555,
+                        27.599651
+                  ]
+            },
+            {
+                  "name": "Lhuentse Dzong",
+                  "text": "A Lhuentse Dzong egy 17. századi erődítmény, amely látványosan trónol egy sziklakiszögellésen a Kuri-Chhu folyó felett.",
+                  "category": "castle",
+                  "coords": [
+                        91.186651,
+                        27.665481
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Giant Guru Rinpoche Statue",
+                  "text": "Statuia de 47 de metri a lui Guru Rinpoche din Takila este una dintre cele mai mari reprezentări ale lui Padmasambhava din lume.",
+                  "category": "historical",
+                  "coords": [
+                        91.181555,
+                        27.599651
+                  ]
+            },
+            {
+                  "name": "Lhuentse Dzong",
+                  "text": "Lhuentse Dzong este o fortăreață din secolul al XVII-lea, cocoțată spectaculos pe o proeminență stâncoasă deasupra râului Kuri Chhu.",
+                  "category": "castle",
+                  "coords": [
+                        91.186651,
+                        27.665481
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Giant Guru Rinpoche Statue",
+                  "text": "The 47-meter tall statue of Guru Rinpoche in Takila is one of the world's largest representations of Padmasambhava.",
+                  "category": "historical",
+                  "coords": [
+                        91.181555,
+                        27.599651
+                  ]
+            },
+            {
+                  "name": "Lhuentse Dzong",
+                  "text": "Lhuentse Dzong is a 17th-century fortress spectacularly perched on a rocky outcrop overlooking the Kuri Chhu river.",
+                  "category": "castle",
+                  "coords": [
+                        91.186651,
+                        27.665481
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "BT-42",
     coords: [91.1736, 27.6628],
@@ -436,7 +2065,124 @@ export const poiExtraBhutanReliefV2: POI[] = [
       pt: [],
       fr: [],}, image: "/poi-images/black-mountains-bhutan-relief-v2.webp"},
   {
-    id: "masang-kang-relief-v2",
+    id: "masang-kang-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tsenda Kang",
+                  "text": "Ein vergletscherter Berg im Norden Bhutans, der das zerklüftete Panorama der Hochgebirgsregion Masang Kang prägt.",
+                  "category": "natural",
+                  "coords": [
+                        89.861311,
+                        28.107336
+                  ]
+            },
+            {
+                  "name": "Chetola's viewpoint",
+                  "text": "Dieser Aussichtspunkt bietet einen weiten Blick über die schneebedeckten Gipfel und tiefen Täler des nördlichen Bhutan.",
+                  "category": "natural",
+                  "coords": [
+                        89.784109,
+                        28.135075
+                  ]
+            },
+            {
+                  "name": "Masang Kang",
+                  "text": "Dieser markante 7194 Meter hohe Gipfel ist von dem abgelegenen Dorf Laya aus weithin sichtbar.",
+                  "category": "natural",
+                  "coords": [
+                        89.765934,
+                        28.165983
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tsenda Kang",
+                  "text": "Gleccserrel borított hegy Bhután északi részén, amely meghatározza a Masang Kang magashegyi régió panorámáját.",
+                  "category": "natural",
+                  "coords": [
+                        89.861311,
+                        28.107336
+                  ]
+            },
+            {
+                  "name": "Chetola's viewpoint",
+                  "text": "Erről a kilátópontról széles kilátás nyílik Észak-Bhután hófödte csúcsaira és mély völgyeire.",
+                  "category": "natural",
+                  "coords": [
+                        89.784109,
+                        28.135075
+                  ]
+            },
+            {
+                  "name": "Masang Kang",
+                  "text": "Ez a jellegzetes, 7194 méter magas csúcs jól látható a távoli Laya faluból.",
+                  "category": "natural",
+                  "coords": [
+                        89.765934,
+                        28.165983
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tsenda Kang",
+                  "text": "Un munte glaciar din nordul Bhutanului care definește panorama accidentată a regiunii alpine Masang Kang.",
+                  "category": "natural",
+                  "coords": [
+                        89.861311,
+                        28.107336
+                  ]
+            },
+            {
+                  "name": "Chetola's viewpoint",
+                  "text": "Acest punct de observare oferă o vedere panoramică asupra vârfurilor înzăpezite și văilor adânci din nordul Bhutanului.",
+                  "category": "natural",
+                  "coords": [
+                        89.784109,
+                        28.135075
+                  ]
+            },
+            {
+                  "name": "Masang Kang",
+                  "text": "Acest vârf distinctiv de 7194 de metri este vizibil de departe din satul izolat Laya.",
+                  "category": "natural",
+                  "coords": [
+                        89.765934,
+                        28.165983
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tsenda Kang",
+                  "text": "A glaciated mountain in northern Bhutan that defines the rugged panorama of the Masang Kang high-altitude region.",
+                  "category": "natural",
+                  "coords": [
+                        89.861311,
+                        28.107336
+                  ]
+            },
+            {
+                  "name": "Chetola's viewpoint",
+                  "text": "This viewpoint offers a sweeping vista across the snow-capped peaks and deep valleys of northern Bhutan.",
+                  "category": "natural",
+                  "coords": [
+                        89.784109,
+                        28.135075
+                  ]
+            },
+            {
+                  "name": "Masang Kang",
+                  "text": "This prominent 7194-meter peak is visible from afar from the remote village of Laya.",
+                  "category": "natural",
+                  "coords": [
+                        89.765934,
+                        28.165983
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BT-14",
     coords: [89.7891, 28.1583],
@@ -469,7 +2215,52 @@ export const poiExtraBhutanReliefV2: POI[] = [
       pt: [],
       fr: [],}, image: "/poi-images/masang-kang-relief-v2.webp"},
   {
-    id: "kangphu-kang-relief-v2",
+    id: "kangphu-kang-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kangphu Kang I",
+                  "text": "Ein markanter 7204 Meter hoher Berg im Himalaya an der bhutanisch-chinesischen Grenze.",
+                  "category": "natural",
+                  "coords": [
+                        90.077613,
+                        28.155487
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kangphu Kang I",
+                  "text": "Jelentős, 7204 méter magas hegycsúcs a Himalájában, a bhutáni-kínai határon.",
+                  "category": "natural",
+                  "coords": [
+                        90.077613,
+                        28.155487
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kangphu Kang I",
+                  "text": "Un munte proeminent de 7204 metri în Himalaya, la granița dintre Bhutan și China.",
+                  "category": "natural",
+                  "coords": [
+                        90.077613,
+                        28.155487
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kangphu Kang I",
+                  "text": "A prominent 7,204-metre mountain in the Himalayas on the Bhutan-China border.",
+                  "category": "natural",
+                  "coords": [
+                        90.077613,
+                        28.155487
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BT-14",
     coords: [90.0603, 28.1539],
@@ -535,7 +2326,52 @@ export const poiExtraBhutanReliefV2: POI[] = [
       pt: [],
       fr: [],}, image: "/poi-images/teri-kang-relief-v2.webp"},
   {
-    id: "zongphu-kang-relief-v2",
+    id: "zongphu-kang-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zongophu Kang I",
+                  "text": "Ein über 7000 Meter hoher Gipfel im Himalaya an der Grenze zwischen Bhutan und Tibet.",
+                  "category": "natural",
+                  "coords": [
+                        90.183213,
+                        28.164676
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zongophu Kang I",
+                  "text": "Több mint 7000 méter magas himalájai csúcs Bhután és Tibet határán.",
+                  "category": "natural",
+                  "coords": [
+                        90.183213,
+                        28.164676
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zongophu Kang I",
+                  "text": "Un vârf muntos de peste 7000 de metri în Himalaya, situat la granița dintre Bhutan și Tibet.",
+                  "category": "natural",
+                  "coords": [
+                        90.183213,
+                        28.164676
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zongophu Kang I",
+                  "text": "A Himalayan peak rising over 7,000 metres on the border between Bhutan and Tibet.",
+                  "category": "natural",
+                  "coords": [
+                        90.183213,
+                        28.164676
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BT-14",
     coords: [90.1000, 28.1833],
@@ -568,7 +2404,52 @@ export const poiExtraBhutanReliefV2: POI[] = [
       pt: [],
       fr: [],}, image: "/poi-images/zongphu-kang-relief-v2.webp"},
   {
-    id: "tongshanjiabu-relief-v2",
+    id: "tongshanjiabu-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teri Kang",
+                  "text": "Ein majestätischer Gipfel im Himalaya an der Grenze zu Tibet, der für seine anspruchsvollen Aufstiege bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        89.94236,
+                        28.171692
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teri Kang",
+                  "text": "Fenséges himalájai csúcs a tibeti határon, amely kihívást jelentő mászásairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        89.94236,
+                        28.171692
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teri Kang",
+                  "text": "Un vârf maiestuos din Himalaya la granița cu Tibetul, cunoscut pentru ascensiunile sale provocatoare.",
+                  "category": "natural",
+                  "coords": [
+                        89.94236,
+                        28.171692
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teri Kang",
+                  "text": "A majestic Himalayan peak on the Tibetan border, known for its challenging climbs.",
+                  "category": "natural",
+                  "coords": [
+                        89.94236,
+                        28.171692
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BT-14",
     coords: [89.9619, 28.1969],
@@ -601,7 +2482,52 @@ export const poiExtraBhutanReliefV2: POI[] = [
       pt: [],
       fr: [],}, image: "/poi-images/tongshanjiabu-relief-v2.webp"},
   {
-    id: "tsenda-kang-relief-v2",
+    id: "tsenda-kang-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Garanhusur Chandika Mandir",
+                  "text": "Ein lokaler Hindu-Tempel, der der Göttin Chandika gewidmet ist und der Gemeinde in der Nähe von Tsenda Kang dient.",
+                  "category": "landmark",
+                  "coords": [
+                        89.767538,
+                        27.953917
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Garanhusur Chandika Mandir",
+                  "text": "Egy helyi hindu templom, amelyet Chandika istennőnek szenteltek, és a Tsenda Kang melletti közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        89.767538,
+                        27.953917
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Garanhusur Chandika Mandir",
+                  "text": "Un templu hindus local dedicat zeiței Chandika, care servește comunitatea din apropiere de Tsenda Kang.",
+                  "category": "landmark",
+                  "coords": [
+                        89.767538,
+                        27.953917
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Garanhusur Chandika Mandir",
+                  "text": "A local Hindu temple dedicated to the goddess Chandika, serving the community near Tsenda Kang.",
+                  "category": "landmark",
+                  "coords": [
+                        89.767538,
+                        27.953917
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BT-14",
     coords: [89.7042, 27.9703],
@@ -634,7 +2560,304 @@ export const poiExtraBhutanReliefV2: POI[] = [
       pt: [],
       fr: [],}, image: "/poi-images/tsenda-kang-relief-v2.webp"},
   {
-    id: "zhemgang-valley-relief-v2",
+    id: "zhemgang-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Quarterpong",
+                  "text": "Eine Informationstafel für Reisende im abgelegenen Zhemgang-Tal, die auf lokale Sehenswürdigkeiten hinweist.",
+                  "category": "landmark",
+                  "coords": [
+                        90.656984,
+                        27.214451
+                  ]
+            },
+            {
+                  "name": "Baling Lhakhang",
+                  "text": "Ein alter buddhistischer Tempel, der inmitten der dichten subtropischen Wälder von Zhemgang liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        90.617418,
+                        27.289659
+                  ]
+            },
+            {
+                  "name": "Nimshong Lhakhang",
+                  "text": "Ein bhutanischer Tempel in Nimshong, der im traditionellen Kheng-Architekturstil erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        90.601896,
+                        27.215249
+                  ]
+            },
+            {
+                  "name": "Dungkhor lhakhang",
+                  "text": "Ein Tempel in Zhemgang, der durch sein großes, kontinuierlich drehendes Gebetsrad (Dungkhor) auffällt.",
+                  "category": "landmark",
+                  "coords": [
+                        90.691715,
+                        27.140223
+                  ]
+            },
+            {
+                  "name": "Throema Lhakhang",
+                  "text": "Ein bhutanischer Tempel, der der zornvollen Gottheit Throema Nagmo gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        90.661846,
+                        27.21464
+                  ]
+            },
+            {
+                  "name": "Dakphel Community Lhakhang",
+                  "text": "Ein von der Gemeinde verwalteter buddhistischer Tempel im Dorf Dakphel im Zhemgang-Distrikt.",
+                  "category": "landmark",
+                  "coords": [
+                        90.716221,
+                        27.193382
+                  ]
+            },
+            {
+                  "name": "Maenmo Tokchoe Lhakhang",
+                  "text": "Ein kleiner buddhistischer Schrein, der sich in der zerklüfteten Berglandschaft von Zhemgang befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        90.751453,
+                        27.203644
+                  ]
+            },
+            {
+                  "name": "Trong Lhakhang",
+                  "text": "Ein historischer Lhakhang im Dorf Trong, der ein zentraler Ort für lokale religiöse Feierlichkeiten ist.",
+                  "category": "landmark",
+                  "coords": [
+                        90.659655,
+                        27.214673
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Quarterpong",
+                  "text": "Információs tábla utazók számára a távoli Zhemgang-völgyben, amely helyi látnivalókra hívja fel a figyelmet.",
+                  "category": "landmark",
+                  "coords": [
+                        90.656984,
+                        27.214451
+                  ]
+            },
+            {
+                  "name": "Baling Lhakhang",
+                  "text": "Ősi buddhista templom, amely Zhemgang sűrű szubtrópusi erdői között fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        90.617418,
+                        27.289659
+                  ]
+            },
+            {
+                  "name": "Nimshong Lhakhang",
+                  "text": "Bhutáni templom Nimshongban, amely hagyományos kheng építészeti stílusban épült.",
+                  "category": "landmark",
+                  "coords": [
+                        90.601896,
+                        27.215249
+                  ]
+            },
+            {
+                  "name": "Dungkhor lhakhang",
+                  "text": "Templom Zhemgangban, amely nagy, folyamatosan forgó imakerekéről (Dungkhor) nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        90.691715,
+                        27.140223
+                  ]
+            },
+            {
+                  "name": "Throema Lhakhang",
+                  "text": "Bhutáni templom, amelyet Throema Nagmo haragos istenségnek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        90.661846,
+                        27.21464
+                  ]
+            },
+            {
+                  "name": "Dakphel Community Lhakhang",
+                  "text": "A közösség által kezelt buddhista templom Dakphel faluban, Zhemgang körzetében.",
+                  "category": "landmark",
+                  "coords": [
+                        90.716221,
+                        27.193382
+                  ]
+            },
+            {
+                  "name": "Maenmo Tokchoe Lhakhang",
+                  "text": "Kicsi buddhista szentély Zhemgang egyenetlen hegyi táján.",
+                  "category": "landmark",
+                  "coords": [
+                        90.751453,
+                        27.203644
+                  ]
+            },
+            {
+                  "name": "Trong Lhakhang",
+                  "text": "Történelmi lhakhang Trong faluban, amely a helyi vallási ünnepségek központi helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        90.659655,
+                        27.214673
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Quarterpong",
+                  "text": "Un panou informativ pentru călători în valea izolată Zhemgang, indicând atracțiile locale.",
+                  "category": "landmark",
+                  "coords": [
+                        90.656984,
+                        27.214451
+                  ]
+            },
+            {
+                  "name": "Baling Lhakhang",
+                  "text": "Un vechi templu budist situat în mijlocul pădurilor subtropicale dese din Zhemgang.",
+                  "category": "landmark",
+                  "coords": [
+                        90.617418,
+                        27.289659
+                  ]
+            },
+            {
+                  "name": "Nimshong Lhakhang",
+                  "text": "Un templu bhutanez în Nimshong, construit în stilul arhitectural tradițional Kheng.",
+                  "category": "landmark",
+                  "coords": [
+                        90.601896,
+                        27.215249
+                  ]
+            },
+            {
+                  "name": "Dungkhor lhakhang",
+                  "text": "Un templu în Zhemgang, remarcabil prin marea sa roată de rugăciune (Dungkhor) care se rotește continuu.",
+                  "category": "landmark",
+                  "coords": [
+                        90.691715,
+                        27.140223
+                  ]
+            },
+            {
+                  "name": "Throema Lhakhang",
+                  "text": "Un templu bhutanez dedicat divinității mânioase Throema Nagmo.",
+                  "category": "landmark",
+                  "coords": [
+                        90.661846,
+                        27.21464
+                  ]
+            },
+            {
+                  "name": "Dakphel Community Lhakhang",
+                  "text": "Un templu budist administrat de comunitate în satul Dakphel din districtul Zhemgang.",
+                  "category": "landmark",
+                  "coords": [
+                        90.716221,
+                        27.193382
+                  ]
+            },
+            {
+                  "name": "Maenmo Tokchoe Lhakhang",
+                  "text": "Un mic altar budist situat în peisajul montan accidentat din Zhemgang.",
+                  "category": "landmark",
+                  "coords": [
+                        90.751453,
+                        27.203644
+                  ]
+            },
+            {
+                  "name": "Trong Lhakhang",
+                  "text": "Un Lhakhang istoric în satul Trong, care este un loc central pentru celebrările religioase locale.",
+                  "category": "landmark",
+                  "coords": [
+                        90.659655,
+                        27.214673
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sign board",
+                  "text": "An information board for travelers in the remote Zhemgang valley, pointing out local attractions.",
+                  "category": "landmark",
+                  "coords": [
+                        90.656984,
+                        27.214451
+                  ]
+            },
+            {
+                  "name": "Baling Lhakhang",
+                  "text": "An ancient Buddhist temple nestled amidst the dense subtropical forests of Zhemgang.",
+                  "category": "landmark",
+                  "coords": [
+                        90.617418,
+                        27.289659
+                  ]
+            },
+            {
+                  "name": "Nimshong Lhakhang",
+                  "text": "A Bhutanese temple in Nimshong, built in the traditional Kheng architectural style.",
+                  "category": "landmark",
+                  "coords": [
+                        90.601896,
+                        27.215249
+                  ]
+            },
+            {
+                  "name": "Dungkhor lhakhang",
+                  "text": "A temple in Zhemgang featuring a large, continuously rotating prayer wheel (Dungkhor).",
+                  "category": "landmark",
+                  "coords": [
+                        90.691715,
+                        27.140223
+                  ]
+            },
+            {
+                  "name": "Throema Lhakhang",
+                  "text": "A Bhutanese temple dedicated to the wrathful deity Throema Nagmo.",
+                  "category": "landmark",
+                  "coords": [
+                        90.661846,
+                        27.21464
+                  ]
+            },
+            {
+                  "name": "Dakphel Community Lhakhang",
+                  "text": "A community-managed Buddhist temple in the Dakphel village of the Zhemgang district.",
+                  "category": "landmark",
+                  "coords": [
+                        90.716221,
+                        27.193382
+                  ]
+            },
+            {
+                  "name": "Maenmo Tokchoe Lhakhang",
+                  "text": "A small Buddhist shrine located in the rugged mountain landscape of Zhemgang.",
+                  "category": "landmark",
+                  "coords": [
+                        90.751453,
+                        27.203644
+                  ]
+            },
+            {
+                  "name": "Trong Lhakhang",
+                  "text": "A historical Lhakhang in Trong village, which is a central site for local religious celebrations.",
+                  "category": "landmark",
+                  "coords": [
+                        90.659655,
+                        27.214673
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "BT-34",
     coords: [90.6581, 27.2169],

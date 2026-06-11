@@ -61,7 +61,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Zagelkogel",
-                  "text": "Der Zagelkogel ist ein markanter Berggipfel in der Hochschwabgruppe.",
+                  "text": "Der Zagelkogel ist ein Hügel im Hochschwab-Gebirge.",
                   "category": "landmark",
                   "coords": [
                         15.123701,
@@ -70,7 +70,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Stangenwand",
-                  "text": "Die Stangenwand ist ein bekannter Gipfel in der Hochschwabgruppe.",
+                  "text": "Die Stangenwand ist eine Felsformation im Hochschwab-Massiv.",
                   "category": "landmark",
                   "coords": [
                         15.115672,
@@ -135,7 +135,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Zagelkogel",
-                  "text": "A Zagelkogel egy jellegzetes hegycsúcs a Hochschwab-csoportban.",
+                  "text": "A Zagelkogel egy domb a Hochschwab-hegységben.",
                   "category": "landmark",
                   "coords": [
                         15.123701,
@@ -144,7 +144,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Stangenwand",
-                  "text": "A Stangenwand a Hochschwab-csoport egyik ismert hegycsúcsa.",
+                  "text": "A Stangenwand egy sziklaformáció a Hochschwab-masszívumban.",
                   "category": "landmark",
                   "coords": [
                         15.115672,
@@ -209,7 +209,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Zagelkogel",
-                  "text": "Zagelkogel este un vârf montan proeminent în grupul Hochschwab.",
+                  "text": "Zagelkogel este o colină în Munții Hochschwab.",
                   "category": "landmark",
                   "coords": [
                         15.123701,
@@ -218,7 +218,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Stangenwand",
-                  "text": "Stangenwand este un vârf cunoscut din grupul Hochschwab.",
+                  "text": "Stangenwand este o formațiune stâncoasă în masivul Hochschwab.",
                   "category": "landmark",
                   "coords": [
                         15.115672,
@@ -283,7 +283,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Zagelkogel",
-                  "text": "The Zagelkogel is a prominent mountain peak in the Hochschwab group.",
+                  "text": "Zagelkogel is a hill in the Hochschwab range.",
                   "category": "landmark",
                   "coords": [
                         15.123701,
@@ -292,7 +292,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Stangenwand",
-                  "text": "The Stangenwand is a well-known peak in the Hochschwab group.",
+                  "text": "Stangenwand is a rock formation in the Hochschwab massif.",
                   "category": "landmark",
                   "coords": [
                         15.115672,
@@ -349,7 +349,7 @@ export const austriaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Zwölferspitze",
-                  "text": "Ein markanter Berggipfel in den Lechtaler Alpen.",
+                  "text": "Die Zwölferspitze ist ein Gipfel in den Lechtaler Alpen.",
                   "category": "landmark",
                   "coords": [
                         10.464984,
@@ -414,7 +414,7 @@ export const austriaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Zwölferspitze",
-                  "text": "Jellegzetes hegycsúcs a Lechtali-Alpokban.",
+                  "text": "A Zwölferspitze egy csúcs a Lechtali Alpokban.",
                   "category": "landmark",
                   "coords": [
                         10.464984,
@@ -479,7 +479,7 @@ export const austriaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Zwölferspitze",
-                  "text": "Un vârf montan proeminent în Alpii Lechtal.",
+                  "text": "Zwölferspitze este un vârf în Alpii Lechtal.",
                   "category": "landmark",
                   "coords": [
                         10.464984,
@@ -544,7 +544,7 @@ export const austriaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Zwölferspitze",
-                  "text": "A prominent mountain peak in the Lechtal Alps.",
+                  "text": "Zwölferspitze is a peak in the Lechtal Alps.",
                   "category": "landmark",
                   "coords": [
                         10.464984,
@@ -673,7 +673,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Augstein",
-                  "text": "Ein Gipfel in der Gebirgsgruppe der Ennstaler Alpen.",
+                  "text": "Der Augstein ist ein augenförmiger Felsen in den Ennstaler Alpen.",
                   "category": "landmark",
                   "coords": [
                         14.546935,
@@ -682,7 +682,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Bruckstein",
-                  "text": "Ein Berggipfel in den Ennstaler Alpen in Österreich.",
+                  "text": "Der Bruckstein ist ein brückenähnlicher Felsen in den Ennstaler Alpen.",
                   "category": "landmark",
                   "coords": [
                         14.595012,
@@ -700,7 +700,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Hausmauer",
-                  "text": "Ein Gipfel in den Ennstaler Alpen, bekannt für seine Felswände.",
+                  "text": "Die Hausmauer ist eine hauswandartige Felswand in den Ennstaler Alpen.",
                   "category": "landmark",
                   "coords": [
                         14.54339,
@@ -709,7 +709,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Himbeerstein",
-                  "text": "Ein Berg in den Ennstaler Alpen oberhalb des Ennstals.",
+                  "text": "Der Himbeerstein ist ein rötlicher Felsen in den Ennstaler Alpen, der an Himbeeren erinnert.",
                   "category": "landmark",
                   "coords": [
                         14.554192,
@@ -718,7 +718,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Haindlmauer",
-                  "text": "Ein markanter Gipfel in den Ennstaler Alpen bei Admont.",
+                  "text": "Die Haindlmauer ist eine nach Haindl benannte Felswand in den Ennstaler Alpen.",
                   "category": "landmark",
                   "coords": [
                         14.548059,
@@ -747,7 +747,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Augstein",
-                  "text": "Hegycsúcs az Ennstali-Alpok hegycsoportjában.",
+                  "text": "Az Augstein egy szemszerű szikla az Ennstali Alpokban.",
                   "category": "landmark",
                   "coords": [
                         14.546935,
@@ -756,7 +756,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Bruckstein",
-                  "text": "Hegycsúcs az Ennstali-Alpokban, Ausztriában.",
+                  "text": "A Bruckstein egy hídszerű szikla az Ennstali Alpokban.",
                   "category": "landmark",
                   "coords": [
                         14.595012,
@@ -774,7 +774,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Hausmauer",
-                  "text": "Hegycsúcs az Ennstali-Alpokban, amely sziklafalairól ismert.",
+                  "text": "A Hausmauer egy házfalszerű sziklafal az Ennstali Alpokban.",
                   "category": "landmark",
                   "coords": [
                         14.54339,
@@ -783,7 +783,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Himbeerstein",
-                  "text": "Hegy az Ennstali-Alpokban az Enns völgye felett.",
+                  "text": "A Himbeerstein egy vöröses szikla az Ennstali Alpokban, amely málnára emlékeztet.",
                   "category": "landmark",
                   "coords": [
                         14.554192,
@@ -792,7 +792,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Haindlmauer",
-                  "text": "Jellegzetes csúcs az Ennstali-Alpokban Admont közelében.",
+                  "text": "A Haindlmauer egy Haindlről elnevezett sziklafal az Ennstali Alpokban.",
                   "category": "landmark",
                   "coords": [
                         14.548059,
@@ -821,7 +821,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Augstein",
-                  "text": "Un vârf muntos în grupul montan al Alpilor Ennstal.",
+                  "text": "Augstein este o stâncă în formă de ochi în Alpii Ennstal.",
                   "category": "landmark",
                   "coords": [
                         14.546935,
@@ -830,7 +830,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Bruckstein",
-                  "text": "Un vârf montan în Alpii Ennstal din Austria.",
+                  "text": "Bruckstein este o stâncă asemănătoare unui pod în Alpii Ennstal.",
                   "category": "landmark",
                   "coords": [
                         14.595012,
@@ -848,7 +848,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Hausmauer",
-                  "text": "Un vârf în Alpii Ennstal, cunoscut pentru pereții săi stâncoși.",
+                  "text": "Hausmauer este un perete de stâncă asemănător unui zid de casă în Alpii Ennstal.",
                   "category": "landmark",
                   "coords": [
                         14.54339,
@@ -857,7 +857,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Himbeerstein",
-                  "text": "Un munte în Alpii Ennstal situat deasupra văii Enns.",
+                  "text": "Himbeerstein este o stâncă roșiatică în Alpii Ennstal, care amintește de zmeură.",
                   "category": "landmark",
                   "coords": [
                         14.554192,
@@ -866,7 +866,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Haindlmauer",
-                  "text": "Un vârf proeminent în Alpii Ennstal, lângă Admont.",
+                  "text": "Haindlmauer este un perete de stâncă numit după Haindl în Alpii Ennstal.",
                   "category": "landmark",
                   "coords": [
                         14.548059,
@@ -895,7 +895,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Augstein",
-                  "text": "A mountain peak in the Ennstal Alps mountain group.",
+                  "text": "Augstein is an eye-shaped rock in the Ennstaler Alps.",
                   "category": "landmark",
                   "coords": [
                         14.546935,
@@ -904,7 +904,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Bruckstein",
-                  "text": "A mountain peak in the Ennstal Alps in Austria.",
+                  "text": "Bruckstein is a bridge-like rock in the Ennstaler Alps.",
                   "category": "landmark",
                   "coords": [
                         14.595012,
@@ -922,7 +922,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Hausmauer",
-                  "text": "A peak in the Ennstal Alps, known for its rock faces.",
+                  "text": "Hausmauer is a house-wall-like rock face in the Ennstaler Alps.",
                   "category": "landmark",
                   "coords": [
                         14.54339,
@@ -931,7 +931,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Himbeerstein",
-                  "text": "A mountain in the Ennstal Alps above the Enns valley.",
+                  "text": "Himbeerstein is a reddish rock in the Ennstaler Alps, reminiscent of raspberries.",
                   "category": "landmark",
                   "coords": [
                         14.554192,
@@ -940,7 +940,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Haindlmauer",
-                  "text": "A prominent peak in the Ennstal Alps near Admont.",
+                  "text": "Haindlmauer is a rock face named after Haindl in the Ennstaler Alps.",
                   "category": "landmark",
                   "coords": [
                         14.548059,
@@ -997,7 +997,7 @@ export const austriaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Rote Kögel",
-                  "text": "Ein Berggipfel im Toten Gebirge in Österreich.",
+                  "text": "Die Roten Kögel sind rot gefärbte Hügel im Toten Gebirge.",
                   "category": "landmark",
                   "coords": [
                         13.993032,
@@ -1015,7 +1015,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Feuertalberg",
-                  "text": "Ein Gipfel in den oberösterreichisch-steirischen Kalkalpen.",
+                  "text": "Der Feuertalberg ist ein Berg im Toten Gebirge mit einem feuerartigen Tal.",
                   "category": "landmark",
                   "coords": [
                         14.022162,
@@ -1033,7 +1033,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Hinterer Ofenkogel",
-                  "text": "Ein alpiner Berggipfel im Totes Gebirge-Massiv.",
+                  "text": "Der Hintere Ofenkogel ist ein Hügel im Toten Gebirge, der an einen Ofen erinnert.",
                   "category": "landmark",
                   "coords": [
                         14.008745,
@@ -1071,7 +1071,7 @@ export const austriaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Rote Kögel",
-                  "text": "Hegycsúcs az osztrák Totes Gebirge hegységben.",
+                  "text": "A Roten Kögel vörös színű dombok a Totes Gebirge-ben.",
                   "category": "landmark",
                   "coords": [
                         13.993032,
@@ -1089,7 +1089,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Feuertalberg",
-                  "text": "Hegycsúcs a felső-ausztriai-stájer Mészkő-Alpokban.",
+                  "text": "A Feuertalberg egy hegy a Totes Gebirge-ben, tűzszerű völggyel.",
                   "category": "landmark",
                   "coords": [
                         14.022162,
@@ -1107,7 +1107,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Hinterer Ofenkogel",
-                  "text": "Alpesi hegycsúcs a Totes Gebirge-masszívumban.",
+                  "text": "A Hintere Ofenkogel egy domb a Totes Gebirge-ben, amely egy kemencére emlékeztet.",
                   "category": "landmark",
                   "coords": [
                         14.008745,
@@ -1145,7 +1145,7 @@ export const austriaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Rote Kögel",
-                  "text": "Un vârf montan în masivul Totes Gebirge din Austria.",
+                  "text": "Rote Kögel sunt coline de culoare roșie în Munții Totes Gebirge.",
                   "category": "landmark",
                   "coords": [
                         13.993032,
@@ -1163,7 +1163,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Feuertalberg",
-                  "text": "Un vârf în Alpii Calcaroși din Austria Superioară și Stiria.",
+                  "text": "Feuertalberg este un munte în Totes Gebirge, cu o vale care amintește de foc.",
                   "category": "landmark",
                   "coords": [
                         14.022162,
@@ -1181,7 +1181,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Hinterer Ofenkogel",
-                  "text": "Un vârf montan alpin în masivul Totes Gebirge.",
+                  "text": "Hinterer Ofenkogel este o colină în Totes Gebirge, care amintește de un cuptor.",
                   "category": "landmark",
                   "coords": [
                         14.008745,
@@ -1219,7 +1219,7 @@ export const austriaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Rote Kögel",
-                  "text": "A mountain peak in the Totes Gebirge range in Austria.",
+                  "text": "Rote Kögel are red-colored hills in the Totes Gebirge.",
                   "category": "landmark",
                   "coords": [
                         13.993032,
@@ -1237,7 +1237,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Feuertalberg",
-                  "text": "A peak in the Upper Austrian-Styrian Limestone Alps.",
+                  "text": "Feuertalberg is a mountain in the Totes Gebirge with a fire-like valley.",
                   "category": "landmark",
                   "coords": [
                         14.022162,
@@ -1255,7 +1255,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Hinterer Ofenkogel",
-                  "text": "An alpine mountain peak in the Totes Gebirge massif.",
+                  "text": "Hinterer Ofenkogel is a hill in the Totes Gebirge resembling an oven.",
                   "category": "landmark",
                   "coords": [
                         14.008745,
@@ -1690,7 +1690,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Reißkofel",
-                  "text": "Der markante Reißkofel ist der höchste Gipfel der Gailtaler Alpen.",
+                  "text": "Der Reißkofel ist der höchste Gipfel der Gailtaler Alpen.",
                   "category": "landmark",
                   "coords": [
                         13.146704,
@@ -1699,7 +1699,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Torkofel",
-                  "text": "Ein Berggipfel in den Gailtaler Alpen.",
+                  "text": "Der Torkofel ist ein Berg in den Gailtaler Alpen, nahe dem Nassfeld-Skigebiet.",
                   "category": "landmark",
                   "coords": [
                         13.076401,
@@ -1708,7 +1708,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Spitzkofel",
-                  "text": "Ein Gipfel innerhalb der Gailtaler Alpen.",
+                  "text": "Der Spitzkofel ist ein spitzer Gipfel in den Gailtaler Alpen.",
                   "category": "landmark",
                   "coords": [
                         13.094288,
@@ -1717,7 +1717,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Aussichtsplattform DrAUENland",
-                  "text": "Eine Aussichtsplattform in den Gailtaler Alpen.",
+                  "text": "2007 errichtete Aussichtsplattform DrAUENland in den Gailtaler Alpen.",
                   "category": "natural",
                   "coords": [
                         13.081973,
@@ -1746,7 +1746,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Reißkofel",
-                  "text": "A jellegzetes Reißkofel a Gailtali-Alpok legmagasabb hegycsúcsa.",
+                  "text": "A Reißkofel a Gailtali-Alpok legmagasabb csúcsa.",
                   "category": "landmark",
                   "coords": [
                         13.146704,
@@ -1755,7 +1755,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Torkofel",
-                  "text": "Hegycsúcs a Gailtali-Alpok területén.",
+                  "text": "A Torkofel egy hegy a Gailtali-Alpokban, a Nassfeld síterület közelében.",
                   "category": "landmark",
                   "coords": [
                         13.076401,
@@ -1764,7 +1764,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Spitzkofel",
-                  "text": "Egy csúcs a Gailtali-Alpok hegységben.",
+                  "text": "A Spitzkofel egy hegyes csúcs a Gailtali Alpokban.",
                   "category": "landmark",
                   "coords": [
                         13.094288,
@@ -1773,7 +1773,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Aussichtsplattform DrAUENland",
-                  "text": "Kilátóterasz a Gailtali-Alpokban.",
+                  "text": "2007-ben épült DrAUENland kilátó a Gailtaler Alpokban.",
                   "category": "natural",
                   "coords": [
                         13.081973,
@@ -1802,7 +1802,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Reißkofel",
-                  "text": "Vârful Reißkofel este cel mai înalt punct din Alpii Gailtal.",
+                  "text": "Reißkofel este cel mai înalt vârf al Alpilor Gailtal.",
                   "category": "landmark",
                   "coords": [
                         13.146704,
@@ -1811,7 +1811,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Torkofel",
-                  "text": "Un vârf montan situat în Alpii Gailtal.",
+                  "text": "Torkofel este un munte în Alpii Gailtal, lângă zona de schi Nassfeld.",
                   "category": "landmark",
                   "coords": [
                         13.076401,
@@ -1820,7 +1820,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Spitzkofel",
-                  "text": "Un vârf în cadrul lanțului muntos al Alpilor Gailtal.",
+                  "text": "Spitzkofel este un vârf ascuțit în Alpii Gailtal.",
                   "category": "landmark",
                   "coords": [
                         13.094288,
@@ -1829,7 +1829,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Aussichtsplattform DrAUENland",
-                  "text": "O platformă de observație în Alpii Gailtal.",
+                  "text": "Platforma de observație DrAUENland, construită în 2007 în Alpii Gailtal.",
                   "category": "natural",
                   "coords": [
                         13.081973,
@@ -1858,7 +1858,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Reißkofel",
-                  "text": "The prominent Reißkofel is the highest peak of the Gailtal Alps.",
+                  "text": "Reißkofel is the highest peak in the Gailtal Alps.",
                   "category": "landmark",
                   "coords": [
                         13.146704,
@@ -1867,7 +1867,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Torkofel",
-                  "text": "A mountain peak situated in the Gailtal Alps.",
+                  "text": "Torkofel is a mountain in the Gailtal Alps, near the Nassfeld ski area.",
                   "category": "landmark",
                   "coords": [
                         13.076401,
@@ -1876,7 +1876,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Spitzkofel",
-                  "text": "A peak located within the Gailtal Alps mountain range.",
+                  "text": "Spitzkofel is a pointed peak in the Gailtaler Alps.",
                   "category": "landmark",
                   "coords": [
                         13.094288,
@@ -1885,7 +1885,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Aussichtsplattform DrAUENland",
-                  "text": "An observation platform in the Gailtal Alps.",
+                  "text": "DrAUENland observation platform built in 2007 in the Gailtal Alps.",
                   "category": "natural",
                   "coords": [
                         13.081973,
@@ -2104,7 +2104,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Nansenhütte",
-                  "text": "Historische Ruinen in Wechsel.",
+                  "text": "1896 erbaute Nansenhütte am Wechsel.",
                   "category": "historical",
                   "coords": [
                         15.788028,
@@ -2113,7 +2113,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Sternen-Pavillon",
-                  "text": "Eine Sehenswürdigkeit in Wechsel.",
+                  "text": "Sternen-Pavillon mit Teleskop zur Himmelsbeobachtung am Wechsel.",
                   "category": "landmark",
                   "coords": [
                         15.782151,
@@ -2122,7 +2122,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Hunting stand",
-                  "text": "Historische Ruinen in Wechsel.",
+                  "text": "Historischer Hochsitz für die Jagd im Wechsel-Gebiet.",
                   "category": "historical",
                   "coords": [
                         15.841609,
@@ -2160,7 +2160,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Nansenhütte",
-                  "text": "Történelmi romok Wechsel területén.",
+                  "text": "1896-ban épült Nansenhütte menedékház a Wechselnél.",
                   "category": "historical",
                   "coords": [
                         15.788028,
@@ -2169,7 +2169,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Sternen-Pavillon",
-                  "text": "Egy látnivaló Wechsel városában.",
+                  "text": "Csillag-pavilon távcsővel a Wechsel-hegyen csillagászati megfigyelésekhez.",
                   "category": "landmark",
                   "coords": [
                         15.782151,
@@ -2178,7 +2178,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Hunting stand",
-                  "text": "Történelmi romok Wechsel területén.",
+                  "text": "Történelmi vadászles a Wechsel régióban.",
                   "category": "historical",
                   "coords": [
                         15.841609,
@@ -2216,7 +2216,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Nansenhütte",
-                  "text": "Ruine istorice în Wechsel.",
+                  "text": "Cabana Nansenhütte construită în 1896 lângă Wechsel.",
                   "category": "historical",
                   "coords": [
                         15.788028,
@@ -2225,7 +2225,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Sternen-Pavillon",
-                  "text": "O atracție turistică în Wechsel.",
+                  "text": "Pavilionul Stelelor cu telescop pentru observații astronomice pe muntele Wechsel.",
                   "category": "landmark",
                   "coords": [
                         15.782151,
@@ -2234,7 +2234,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Hunting stand",
-                  "text": "Ruine istorice în Wechsel.",
+                  "text": "Observator istoric de vânătoare în zona Wechsel.",
                   "category": "historical",
                   "coords": [
                         15.841609,
@@ -2272,7 +2272,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Nansenhütte",
-                  "text": "Historical ruins in Wechsel.",
+                  "text": "Nansenhütte mountain hut built in 1896 near Wechsel.",
                   "category": "historical",
                   "coords": [
                         15.788028,
@@ -2281,7 +2281,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Sternen-Pavillon",
-                  "text": "A tourist attraction in Wechsel.",
+                  "text": "Star pavilion with a telescope for stargazing on the Wechsel mountain.",
                   "category": "landmark",
                   "coords": [
                         15.782151,
@@ -2290,7 +2290,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Hunting stand",
-                  "text": "Historical ruins in Wechsel.",
+                  "text": "Historic hunting stand in the Wechsel region.",
                   "category": "historical",
                   "coords": [
                         15.841609,
@@ -3337,7 +3337,7 @@ export const austriaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Fölzstein",
-                  "text": "Ein markanter Gipfel im Hochschwab-Massiv in der Steiermark.",
+                  "text": "Der Fölzstein ist ein Stein im Hochschwab-Gipfelbereich.",
                   "category": "landmark",
                   "coords": [
                         15.180366,
@@ -3411,7 +3411,7 @@ export const austriaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Fölzstein",
-                  "text": "A stájerországi Hochschwab-masszívum egyik jellegzetes hegycsúcsa.",
+                  "text": "A Fölzstein egy kő a Hochschwab csúcsrégiójában.",
                   "category": "landmark",
                   "coords": [
                         15.180366,
@@ -3485,7 +3485,7 @@ export const austriaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Fölzstein",
-                  "text": "Un vârf proeminent din masivul Hochschwab, situat în Stiria.",
+                  "text": "Fölzstein este o piatră în zona vârfurilor Hochschwab.",
                   "category": "landmark",
                   "coords": [
                         15.180366,
@@ -3559,7 +3559,7 @@ export const austriaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Fölzstein",
-                  "text": "A prominent peak in the Hochschwab massif in Styria.",
+                  "text": "Fölzstein is a rock in the Hochschwab summit area.",
                   "category": "landmark",
                   "coords": [
                         15.180366,
@@ -3679,7 +3679,7 @@ export const austriaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Alpin-Museum Ramsau Dachstein",
-                  "text": "Ein Museum in Ramsau, das der Geschichte des Alpinismus am Dachstein gewidmet ist.",
+                  "text": "Das Alpin-Museum Ramsau Dachstein zeigt die alpine Geschichte am Fuße des Dachsteins.",
                   "category": "museum",
                   "coords": [
                         13.619213,
@@ -3688,7 +3688,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Hohe Gamsfeldspitze",
-                  "text": "Ein markanter Berggipfel im Dachsteinmassiv.",
+                  "text": "Die Hohe Gamsfeldspitze ist ein Gipfel auf dem Dachstein-Gipfelplateau.",
                   "category": "landmark",
                   "coords": [
                         13.645396,
@@ -3733,7 +3733,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Marstein",
-                  "text": "Ein Gipfel im Dachsteinmassiv in der Steiermark.",
+                  "text": "Der Marstein ist ein auffälliger Stein auf dem Dachstein-Gipfelplateau.",
                   "category": "landmark",
                   "coords": [
                         13.596974,
@@ -3742,7 +3742,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Mitterspitz",
-                  "text": "Der zweithöchste Gipfel des Dachsteinmassivs.",
+                  "text": "Der Mitterspitz ist ein Gipfel im Dachstein-Gebirge.",
                   "category": "landmark",
                   "coords": [
                         13.595527,
@@ -3753,7 +3753,7 @@ export const austriaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Alpin-Museum Ramsau Dachstein",
-                  "text": "Ramsaui múzeum, amely a dachsteini alpinizmus történetét mutatja be.",
+                  "text": "Az Alpin-Museum Ramsau Dachstein az alpesi történelmet mutatja be a Dachstein lábánál.",
                   "category": "museum",
                   "coords": [
                         13.619213,
@@ -3762,7 +3762,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Hohe Gamsfeldspitze",
-                  "text": "A Dachstein-masszívum egyik jellegzetes hegycsúcsa.",
+                  "text": "A Hohe Gamsfeldspitze egy csúcs a Dachstein-csúcsplató fennsíkján.",
                   "category": "landmark",
                   "coords": [
                         13.645396,
@@ -3807,7 +3807,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Marstein",
-                  "text": "Hegycsúcs a stájerországi Dachstein-masszívumban.",
+                  "text": "A Marstein egy feltűnő kő a Dachstein-csúcsplató fennsíkján.",
                   "category": "landmark",
                   "coords": [
                         13.596974,
@@ -3816,7 +3816,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Mitterspitz",
-                  "text": "A Dachstein-masszívum második legmagasabb csúcsa.",
+                  "text": "A Mitterspitz egy csúcs a Dachstein-hegységben.",
                   "category": "landmark",
                   "coords": [
                         13.595527,
@@ -3827,7 +3827,7 @@ export const austriaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Alpin-Museum Ramsau Dachstein",
-                  "text": "Un muzeu în Ramsau dedicat istoriei alpinismului pe muntele Dachstein.",
+                  "text": "Muzeul Alpin Ramsau Dachstein prezintă istoria alpină la poalele Dachsteinului.",
                   "category": "museum",
                   "coords": [
                         13.619213,
@@ -3836,7 +3836,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Hohe Gamsfeldspitze",
-                  "text": "Un vârf muntos proeminent în masivul Dachstein.",
+                  "text": "Hohe Gamsfeldspitze este un vârf pe platoul vârfului Dachstein.",
                   "category": "landmark",
                   "coords": [
                         13.645396,
@@ -3881,7 +3881,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Marstein",
-                  "text": "Un vârf în masivul Dachstein din regiunea Stiria.",
+                  "text": "Marstein este o piatră proeminentă pe platoul vârfului Dachstein.",
                   "category": "landmark",
                   "coords": [
                         13.596974,
@@ -3890,7 +3890,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Mitterspitz",
-                  "text": "Al doilea cel mai înalt vârf din masivul Dachstein.",
+                  "text": "Mitterspitz este un vârf în masivul Dachstein.",
                   "category": "landmark",
                   "coords": [
                         13.595527,
@@ -3901,7 +3901,7 @@ export const austriaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Alpin-Museum Ramsau Dachstein",
-                  "text": "A museum in Ramsau dedicated to the history of alpinism on the Dachstein.",
+                  "text": "The Alpin-Museum Ramsau Dachstein exhibits alpine history at the foot of the Dachstein.",
                   "category": "museum",
                   "coords": [
                         13.619213,
@@ -3910,7 +3910,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Hohe Gamsfeldspitze",
-                  "text": "A prominent mountain peak in the Dachstein massif.",
+                  "text": "Hohe Gamsfeldspitze is a peak on the Dachstein summit plateau.",
                   "category": "landmark",
                   "coords": [
                         13.645396,
@@ -3955,7 +3955,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Marstein",
-                  "text": "A mountain peak in the Dachstein massif in Styria.",
+                  "text": "Marstein is a prominent stone on the Dachstein summit plateau.",
                   "category": "landmark",
                   "coords": [
                         13.596974,
@@ -3964,7 +3964,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Mitterspitz",
-                  "text": "The second highest peak of the Dachstein massif.",
+                  "text": "Mitterspitz is a peak in the Dachstein mountain range.",
                   "category": "landmark",
                   "coords": [
                         13.595527,
@@ -4399,7 +4399,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Grüne Kuppe",
-                  "text": "Ein Berggipfel im Silvretta-Massiv in der Nähe des Piz Buin.",
+                  "text": "Die Grüne Kuppe ist ein grün bewachsener Gipfel im Piz-Buin-Gebiet.",
                   "category": "landmark",
                   "coords": [
                         10.111535,
@@ -4408,7 +4408,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Chapütschin",
-                  "text": "Ein vergletscherter Gipfel in der Silvretta-Gruppe in den Alpen.",
+                  "text": "Der Chapütschin ist ein Berg in der Silvretta-Gruppe nahe dem Piz Buin.",
                   "category": "landmark",
                   "coords": [
                         10.069346,
@@ -4473,7 +4473,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Grüne Kuppe",
-                  "text": "Hegycsúcs a Silvretta-masszívumban, a Piz Buin közelében.",
+                  "text": "A Grüne Kuppe egy zöld növényzettel borított csúcs a Piz Buin területén.",
                   "category": "landmark",
                   "coords": [
                         10.111535,
@@ -4482,7 +4482,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Chapütschin",
-                  "text": "Gleccserrel borított csúcs a Silvretta-csoportban az Alpokban.",
+                  "text": "A Chapütschin egy hegy a Silvretta-csoportban, a Piz Buin közelében.",
                   "category": "landmark",
                   "coords": [
                         10.069346,
@@ -4547,7 +4547,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Grüne Kuppe",
-                  "text": "Un vârf montan în masivul Silvretta, în apropierea vârfului Piz Buin.",
+                  "text": "Grüne Kuppe este un vârf acoperit de vegetație verde în regiunea Piz Buin.",
                   "category": "landmark",
                   "coords": [
                         10.111535,
@@ -4556,7 +4556,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Chapütschin",
-                  "text": "Un vârf glaciar din grupul Silvretta din Munții Alpi.",
+                  "text": "Chapütschin este un munte în grupul Silvretta, lângă Piz Buin.",
                   "category": "landmark",
                   "coords": [
                         10.069346,
@@ -4621,7 +4621,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Grüne Kuppe",
-                  "text": "A mountain peak in the Silvretta massif near Piz Buin.",
+                  "text": "Grüne Kuppe is a green-vegetated summit in the Piz Buin area.",
                   "category": "landmark",
                   "coords": [
                         10.111535,
@@ -4630,7 +4630,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Chapütschin",
-                  "text": "A glaciated peak in the Silvretta group of the Alps.",
+                  "text": "Chapütschin is a mountain in the Silvretta range near Piz Buin.",
                   "category": "landmark",
                   "coords": [
                         10.069346,
@@ -4723,7 +4723,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Bambachkopf",
-                  "text": "Der Bambachkopf ist ein Berggipfel in der Region Kitzsteinhorn.",
+                  "text": "Der Bambachkopf ist ein Gipfel im Kitzsteinhorn-Gebiet.",
                   "category": "landmark",
                   "coords": [
                         12.681254,
@@ -4732,7 +4732,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Hohe Arche",
-                  "text": "Die Hohe Arche ist ein markanter Berggipfel nahe dem Kitzsteinhorn.",
+                  "text": "Die Hohe Arche ist ein bogenförmiger Gipfel im Kitzsteinhorn-Gebiet.",
                   "category": "landmark",
                   "coords": [
                         12.679333,
@@ -4741,7 +4741,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Jaggeser",
-                  "text": "Der Jaggeser ist ein Gipfel in den österreichischen Alpen beim Kitzsteinhorn.",
+                  "text": "Der Jaggeser ist ein Gipfel im Kitzsteinhorn-Gebiet.",
                   "category": "landmark",
                   "coords": [
                         12.644689,
@@ -4759,7 +4759,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Rettinger",
-                  "text": "Der Rettinger ist ein Berggipfel in der Gebirgslandschaft des Kitzsteinhorns.",
+                  "text": "Der Rettinger ist ein Gipfel im Kitzsteinhorn-Gebiet.",
                   "category": "landmark",
                   "coords": [
                         12.676983,
@@ -4797,7 +4797,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Bambachkopf",
-                  "text": "A Bambachkopf egy hegycsúcs a Kitzsteinhorn vidékén.",
+                  "text": "A Bambachkopf egy csúcs a Kitzsteinhorn területén.",
                   "category": "landmark",
                   "coords": [
                         12.681254,
@@ -4806,7 +4806,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Hohe Arche",
-                  "text": "A Hohe Arche egy jellegzetes hegycsúcs a Kitzsteinhorn közelében.",
+                  "text": "A Hohe Arche egy ív alakú csúcs a Kitzsteinhorn területén.",
                   "category": "landmark",
                   "coords": [
                         12.679333,
@@ -4815,7 +4815,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Jaggeser",
-                  "text": "A Jaggeser egy hegycsúcs az osztrák Alpokban, a Kitzsteinhorn területén.",
+                  "text": "A Jaggeser egy csúcs a Kitzsteinhorn területén.",
                   "category": "landmark",
                   "coords": [
                         12.644689,
@@ -4833,7 +4833,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Rettinger",
-                  "text": "A Rettinger egy hegycsúcs a Kitzsteinhorn hegyi környezetében.",
+                  "text": "A Rettinger egy csúcs a Kitzsteinhorn területén.",
                   "category": "landmark",
                   "coords": [
                         12.676983,
@@ -4871,7 +4871,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Bambachkopf",
-                  "text": "Bambachkopf este un vârf muntos din regiunea Kitzsteinhorn.",
+                  "text": "Bambachkopf este un vârf în zona Kitzsteinhorn.",
                   "category": "landmark",
                   "coords": [
                         12.681254,
@@ -4880,7 +4880,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Hohe Arche",
-                  "text": "Hohe Arche este un vârf muntos proeminent situat lângă Kitzsteinhorn.",
+                  "text": "Hohe Arche este un vârf în formă de arc în zona Kitzsteinhorn.",
                   "category": "landmark",
                   "coords": [
                         12.679333,
@@ -4889,7 +4889,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Jaggeser",
-                  "text": "Jaggeser este un vârf din Alpii austrieci, în zona Kitzsteinhorn.",
+                  "text": "Jaggeser este un vârf în zona Kitzsteinhorn.",
                   "category": "landmark",
                   "coords": [
                         12.644689,
@@ -4907,7 +4907,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Rettinger",
-                  "text": "Rettinger este un vârf muntos din peisajul alpin al Kitzsteinhorn.",
+                  "text": "Rettinger este un vârf în zona Kitzsteinhorn.",
                   "category": "landmark",
                   "coords": [
                         12.676983,
@@ -4945,7 +4945,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Bambachkopf",
-                  "text": "Bambachkopf is a mountain peak in the Kitzsteinhorn region.",
+                  "text": "Bambachkopf is a peak in the Kitzsteinhorn area.",
                   "category": "landmark",
                   "coords": [
                         12.681254,
@@ -4954,7 +4954,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Hohe Arche",
-                  "text": "Hohe Arche is a prominent mountain peak located near Kitzsteinhorn.",
+                  "text": "Hohe Arche is an arch-shaped peak in the Kitzsteinhorn area.",
                   "category": "landmark",
                   "coords": [
                         12.679333,
@@ -4963,7 +4963,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Jaggeser",
-                  "text": "Jaggeser is a mountain peak in the Austrian Alps near Kitzsteinhorn.",
+                  "text": "Jaggeser is a peak in the Kitzsteinhorn area.",
                   "category": "landmark",
                   "coords": [
                         12.644689,
@@ -4981,7 +4981,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Rettinger",
-                  "text": "Rettinger is a mountain peak in the mountainous landscape of Kitzsteinhorn.",
+                  "text": "Rettinger is a peak in the Kitzsteinhorn area.",
                   "category": "landmark",
                   "coords": [
                         12.676983,
@@ -5866,7 +5866,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Schafferkogel",
-                  "text": "Berggipfel in der Nähe des Großer-Priel-Massivs.",
+                  "text": "Ein felsiger Gipfel im Grosser-Priel-Massiv der Toten Gebirge.",
                   "category": "landmark",
                   "coords": [
                         14.124204,
@@ -5940,7 +5940,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Schafferkogel",
-                  "text": "Hegycsúcs a Großer Priel masszívum közelében.",
+                  "text": "Egy sziklás csúcs a Grosser Priel masszívumban a Toten Gebirge hegységben.",
                   "category": "landmark",
                   "coords": [
                         14.124204,
@@ -6014,7 +6014,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Schafferkogel",
-                  "text": "Vârf muntos situat în apropierea masivului Großer Priel.",
+                  "text": "Un vârf stâncos în masivul Grosser Priel din munții Toten Gebirge.",
                   "category": "landmark",
                   "coords": [
                         14.124204,
@@ -6088,7 +6088,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Schafferkogel",
-                  "text": "Mountain peak located near the Großer Priel massif.",
+                  "text": "A rocky summit in the Grosser Priel massif of the Toten Gebirge.",
                   "category": "landmark",
                   "coords": [
                         14.124204,
@@ -6721,7 +6721,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Heimatmuseum St. Gilgen",
-                  "text": "Museum zur Geschichte und Volkskunde der Region St. Gilgen.",
+                  "text": "Heimatmuseum mit Exponaten zur Regionalgeschichte im Ortskern von St. Gilgen am Wolfgangsee.",
                   "category": "museum",
                   "coords": [
                         13.364516,
@@ -6730,7 +6730,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Badzone Gamsjaga",
-                  "text": "Badestelle am Ufer des Wolfgangsees.",
+                  "text": "Badzone Gamsjaga – ausgewiesene Badezone am Schafberg mit Zugang zum See.",
                   "category": "recreational",
                   "coords": [
                         13.394884,
@@ -6739,7 +6739,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Pillsteinhöhe",
-                  "text": "Aussichtsgipfel in der Nähe von St. Gilgen im Salzkammergut.",
+                  "text": "Ein markanter Gipfel auf dem Schafberg in der Salzkammergut-Region.",
                   "category": "landmark",
                   "coords": [
                         13.338274,
@@ -6795,7 +6795,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Heimatmuseum St. Gilgen",
-                  "text": "St. Gilgen és környékének helytörténeti és néprajzi múzeuma.",
+                  "text": "Helytörténeti múzeum kiállításokkal St. Gilgen központjában, a Wolfgangsee partján.",
                   "category": "museum",
                   "coords": [
                         13.364516,
@@ -6804,7 +6804,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Badzone Gamsjaga",
-                  "text": "Fürdőhely a Wolfgang-tó partján.",
+                  "text": "Gamsjaga fürdőövezet – kijelölt fürdőhely a Schafberg-hegyen, tóparti hozzáféréssel.",
                   "category": "recreational",
                   "coords": [
                         13.394884,
@@ -6813,7 +6813,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Pillsteinhöhe",
-                  "text": "Kilátóhelyként szolgáló hegycsúcs St. Gilgen közelében.",
+                  "text": "Egy kiemelkedő csúcs a Schafbergen, a Salzkammergut régióban.",
                   "category": "landmark",
                   "coords": [
                         13.338274,
@@ -6869,7 +6869,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Heimatmuseum St. Gilgen",
-                  "text": "Muzeu de istorie și etnografie locală din St. Gilgen.",
+                  "text": "Muzeu de istorie locală cu exponate în centrul orașului St. Gilgen, pe malul lacului Wolfgangsee.",
                   "category": "museum",
                   "coords": [
                         13.364516,
@@ -6878,7 +6878,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Badzone Gamsjaga",
-                  "text": "Zonă de scăldat pe malul lacului Wolfgangsee.",
+                  "text": "Zona de înot Gamsjaga – loc de scăldat amenajat pe muntele Schafberg, cu acces la lac.",
                   "category": "recreational",
                   "coords": [
                         13.394884,
@@ -6887,7 +6887,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Pillsteinhöhe",
-                  "text": "Vârf montan cu vedere panoramică lângă St. Gilgen.",
+                  "text": "Un vârf proeminent pe muntele Schafberg în regiunea Salzkammergut.",
                   "category": "landmark",
                   "coords": [
                         13.338274,
@@ -6943,7 +6943,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Heimatmuseum St. Gilgen",
-                  "text": "Museum of local history and folklore in St. Gilgen.",
+                  "text": "A local history museum with exhibits in the center of St. Gilgen on Lake Wolfgang.",
                   "category": "museum",
                   "coords": [
                         13.364516,
@@ -6952,7 +6952,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Badzone Gamsjaga",
-                  "text": "Bathing area on the shores of Lake Wolfgangsee.",
+                  "text": "Gamsjaga bathing area – a designated swimming spot on the Schafberg with lake access.",
                   "category": "recreational",
                   "coords": [
                         13.394884,
@@ -6961,7 +6961,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Pillsteinhöhe",
-                  "text": "Mountain peak with a viewpoint near St. Gilgen.",
+                  "text": "A prominent peak on the Schafberg massif in the Salzkammergut region.",
                   "category": "landmark",
                   "coords": [
                         13.338274,
@@ -7549,7 +7549,7 @@ export const austriaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Schloss Donnersbach",
-                  "text": "Ein historisches Schloss in der Region Planneralm.",
+                  "text": "Schloss Donnersbach ist ein denkmalgeschütztes Schloss in der Region Planneralm.",
                   "category": "castle",
                   "coords": [
                         14.127792,
@@ -7587,7 +7587,7 @@ export const austriaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Schloss Donnersbach",
-                  "text": "Történelmi kastély a Planneralm régióban.",
+                  "text": "A Donnersbach-kastély egy műemlékvédelem alatt álló kastély a Planneralm régióban.",
                   "category": "castle",
                   "coords": [
                         14.127792,
@@ -7625,7 +7625,7 @@ export const austriaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Schloss Donnersbach",
-                  "text": "Un castel istoric situat în regiunea Planneralm.",
+                  "text": "Castelul Schloss Donnersbach este un castel protejat ca monument în regiunea Planneralm.",
                   "category": "castle",
                   "coords": [
                         14.127792,
@@ -7663,7 +7663,7 @@ export const austriaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Schloss Donnersbach",
-                  "text": "A historic castle located in the Planneralm area.",
+                  "text": "Schloss Donnersbach is a heritage-listed castle in the Planneralm region.",
                   "category": "castle",
                   "coords": [
                         14.127792,
@@ -7801,7 +7801,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Vockentalspitze",
-                  "text": "Ein alpiner Gipfel in der Steiermark, der für seine malerische Aussicht bekannt ist.",
+                  "text": "Ein Gipfel im Kaibling-Massiv der Schladminger Tauern.",
                   "category": "landmark",
                   "coords": [
                         13.831872,
@@ -7884,7 +7884,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Vockentalspitze",
-                  "text": "Alpesi csúcs Stájerországban, amely festői kilátásáról ismert.",
+                  "text": "Egy csúcs a Kaibling-masszívumban, a Schladmingi-Tauernben.",
                   "category": "landmark",
                   "coords": [
                         13.831872,
@@ -7967,7 +7967,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Vockentalspitze",
-                  "text": "Un vârf alpin din Stiria, cunoscut pentru priveliștile sale pitorești.",
+                  "text": "Un vârf în masivul Kaibling din Munții Schladminger Tauern.",
                   "category": "landmark",
                   "coords": [
                         13.831872,
@@ -8050,7 +8050,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Vockentalspitze",
-                  "text": "An alpine peak in Styria, known for its scenic vistas.",
+                  "text": "A peak in the Kaibling massif of the Schladminger Tauern.",
                   "category": "landmark",
                   "coords": [
                         13.831872,
@@ -8467,7 +8467,7 @@ export const austriaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Wenzelalpe",
-                  "text": "Die Wenzelalpe ist ein Gipfel in den Seetaler Alpen in der Steiermark.",
+                  "text": "Ein Gipfel in den Murtaler Alpen, Teil der Niederen Tauern.",
                   "category": "landmark",
                   "coords": [
                         14.540057,
@@ -8494,7 +8494,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Pfarrkirche hl. Gotthard",
-                  "text": "Eine dem heiligen Gotthard geweihte katholische Pfarrkirche.",
+                  "text": "Die Pfarrkirche hl. Gotthard ist eine denkmalgeschützte Pfarrkirche, die dem heiligen Gotthard geweiht ist, in den Murtaler Alpen.",
                   "category": "religious",
                   "coords": [
                         14.452579,
@@ -8503,7 +8503,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Nothelferkapelle in See",
-                  "text": "Eine kleine Kapelle in See, die den heiligen Nothelfern gewidmet ist.",
+                  "text": "Nothelferkapelle in See, kleine Pilgerkirche mit Fresken im Murtal.",
                   "category": "landmark",
                   "coords": [
                         14.486938,
@@ -8514,7 +8514,7 @@ export const austriaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Wenzelalpe",
-                  "text": "A Wenzelalpe egy hegycsúcs a Murtal-Alpokban.",
+                  "text": "Egy csúcs a Murtali-Alpokban, az Alacsony-Tauern része.",
                   "category": "landmark",
                   "coords": [
                         14.540057,
@@ -8541,7 +8541,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Pfarrkirche hl. Gotthard",
-                  "text": "Szent Gotthárdnak szentelt katolikus plébániatemplom.",
+                  "text": "A Pfarrkirche hl. Gotthard egy műemlékvédelem alatt álló plébániatemplom, amely Szent Gotthárdnak van szentelve, a Murtali-Alpokban.",
                   "category": "religious",
                   "coords": [
                         14.452579,
@@ -8550,7 +8550,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Nothelferkapelle in See",
-                  "text": "Egy kis kápolna See településen, amelyet a segítőszenteknek szenteltek.",
+                  "text": "Segítő Szentek kápolnája See-ben, kis zarándoktemplom freskókkal a Murtalban.",
                   "category": "landmark",
                   "coords": [
                         14.486938,
@@ -8561,7 +8561,7 @@ export const austriaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Wenzelalpe",
-                  "text": "Wenzelalpe este un vârf muntos din Alpii Murtal.",
+                  "text": "Un vârf în Alpii Murtal, parte a Munților Niedere Tauern.",
                   "category": "landmark",
                   "coords": [
                         14.540057,
@@ -8588,7 +8588,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Pfarrkirche hl. Gotthard",
-                  "text": "O biserică parohială catolică dedicată Sfântului Gotthard.",
+                  "text": "Biserica parohială Pfarrkirche hl. Gotthard este o biserică parohială protejată ca monument, dedicată Sfântului Gotthard, în Alpii Murtal.",
                   "category": "religious",
                   "coords": [
                         14.452579,
@@ -8597,7 +8597,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Nothelferkapelle in See",
-                  "text": "O mică capelă în See, dedicată sfinților ajutători.",
+                  "text": "Capela Sfinților Ajutători din See, o bisericuță de pelerinaj cu fresce în Murtal.",
                   "category": "landmark",
                   "coords": [
                         14.486938,
@@ -8608,7 +8608,7 @@ export const austriaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Wenzelalpe",
-                  "text": "Wenzelalpe is a mountain peak located in the Murtal Alps.",
+                  "text": "A peak in the Murtal Alps, part of the Niedere Tauern range.",
                   "category": "landmark",
                   "coords": [
                         14.540057,
@@ -8635,7 +8635,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Pfarrkirche hl. Gotthard",
-                  "text": "A Catholic parish church dedicated to Saint Gotthard.",
+                  "text": "The Pfarrkirche hl. Gotthard is a heritage-listed parish church dedicated to St. Gotthard in the Murtal Alps.",
                   "category": "religious",
                   "coords": [
                         14.452579,
@@ -8644,7 +8644,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Nothelferkapelle in See",
-                  "text": "A small chapel in See dedicated to the Holy Helpers.",
+                  "text": "Fourteen Holy Helpers chapel in See, a small pilgrimage church with frescoes in the Murtal Alps.",
                   "category": "landmark",
                   "coords": [
                         14.486938,
@@ -8701,7 +8701,7 @@ export const austriaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Meregg",
-                  "text": "Ein Berggipfel in den Radstädter Tauern.",
+                  "text": "Ein Gipfel in den Radstätter Tauern, oberhalb des Ennstals.",
                   "category": "landmark",
                   "coords": [
                         13.607794,
@@ -8719,7 +8719,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Gamskarlspitze",
-                  "text": "Ein Berggipfel in den Radstädter Tauern.",
+                  "text": "Ein Gipfel in den Radstätter Tauern mit einem ausgeprägten Kar (Gamskar).",
                   "category": "landmark",
                   "coords": [
                         13.584729,
@@ -8728,7 +8728,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Gollitschspitze",
-                  "text": "Gipfel in der Gebirgsgruppe der Radstädter Tauern.",
+                  "text": "Ein Gipfel in den Radstätter Tauern, benannt nach der Gollitschflur.",
                   "category": "landmark",
                   "coords": [
                         13.597127,
@@ -8737,7 +8737,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Große Kesselspitze",
-                  "text": "Ein markanter Berggipfel in den Radstädter Tauern.",
+                  "text": "Ein Gipfel in den Radstätter Tauern mit einer großen kesselförmigen Gipfelregion.",
                   "category": "landmark",
                   "coords": [
                         13.555425,
@@ -8746,7 +8746,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Hundskogel",
-                  "text": "Ein Berggipfel in den Radstädter Tauern.",
+                  "text": "Ein runder Kogel in den Radstätter Tauern, der an einen Hundskopf erinnert.",
                   "category": "landmark",
                   "coords": [
                         13.58013,
@@ -8764,7 +8764,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Rosskogel",
-                  "text": "Ein Berggipfel in den Radstädter Tauern.",
+                  "text": "Ein Gipfel in den Radstätter Tauern, dessen Name auf ein pferdeähnliches Profil hinweist.",
                   "category": "landmark",
                   "coords": [
                         13.584846,
@@ -8784,7 +8784,7 @@ export const austriaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Meregg",
-                  "text": "Hegyi csúcs a Radstadti-Tauern hegységben.",
+                  "text": "Egy csúcs a Radstädti-Tauernben, az Enns-völgy fölé magasodva.",
                   "category": "landmark",
                   "coords": [
                         13.607794,
@@ -8802,7 +8802,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Gamskarlspitze",
-                  "text": "Hegycsúcs a Radstadti-Tauern területén.",
+                  "text": "Egy csúcs a Radstädti-Tauernben, jellegzetes kárral (Gamskar).",
                   "category": "landmark",
                   "coords": [
                         13.584729,
@@ -8811,7 +8811,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Gollitschspitze",
-                  "text": "Csúcs a Radstadti-Tauern hegységcsoportjában.",
+                  "text": "Egy csúcs a Radstädti-Tauernben, a Gollitsch-dűlőről elnevezve.",
                   "category": "landmark",
                   "coords": [
                         13.597127,
@@ -8820,7 +8820,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Große Kesselspitze",
-                  "text": "Jelentős hegycsúcs a Radstadti-Tauernben.",
+                  "text": "Egy csúcs a Radstädti-Tauernben, nagy üst alakú csúcsrégióval.",
                   "category": "landmark",
                   "coords": [
                         13.555425,
@@ -8829,7 +8829,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Hundskogel",
-                  "text": "Hegycsúcs a Radstadti-Tauern hegységben.",
+                  "text": "Egy kerek kogel a Radstädti-Tauernben, amely egy kutya fejére emlékeztet.",
                   "category": "landmark",
                   "coords": [
                         13.58013,
@@ -8847,7 +8847,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Rosskogel",
-                  "text": "Hegycsúcs a Radstadti-Tauern területén.",
+                  "text": "Egy csúcs a Radstädti-Tauernben, amelynek neve lószerű profilra utal.",
                   "category": "landmark",
                   "coords": [
                         13.584846,
@@ -8867,7 +8867,7 @@ export const austriaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Meregg",
-                  "text": "Un vârf montan în Radstadt Tauern.",
+                  "text": "Un vârf în Munții Radstätter Tauern, deasupra văii Enns.",
                   "category": "landmark",
                   "coords": [
                         13.607794,
@@ -8885,7 +8885,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Gamskarlspitze",
-                  "text": "Un vârf montan în regiunea Radstadt Tauern.",
+                  "text": "Un vârf în Munții Radstätter Tauern, cu un circ glaciar pronunțat (Gamskar).",
                   "category": "landmark",
                   "coords": [
                         13.584729,
@@ -8894,7 +8894,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Gollitschspitze",
-                  "text": "Vârf în grupul montan Radstadt Tauern.",
+                  "text": "Un vârf în Munții Radstätter Tauern, numit după terenul Gollitsch.",
                   "category": "landmark",
                   "coords": [
                         13.597127,
@@ -8903,7 +8903,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Große Kesselspitze",
-                  "text": "Un vârf montan marcant în Radstadt Tauern.",
+                  "text": "Un vârf în Munții Radstätter Tauern, cu o regiune de vârf în formă de cazan mare.",
                   "category": "landmark",
                   "coords": [
                         13.555425,
@@ -8912,7 +8912,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Hundskogel",
-                  "text": "Un vârf montan în Radstadt Tauern.",
+                  "text": "Un vârf rotund (Kogel) în Munții Radstätter Tauern, care amintește de un cap de câine.",
                   "category": "landmark",
                   "coords": [
                         13.58013,
@@ -8930,7 +8930,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Rosskogel",
-                  "text": "Un vârf montan în Radstadt Tauern.",
+                  "text": "Un vârf în Munții Radstätter Tauern, al cărui nume indică un profil asemănător unui cal.",
                   "category": "landmark",
                   "coords": [
                         13.584846,
@@ -8950,7 +8950,7 @@ export const austriaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Meregg",
-                  "text": "A mountain peak in the Radstadt Tauern range.",
+                  "text": "A peak in the Radstätter Tauern, overlooking the Enns valley.",
                   "category": "landmark",
                   "coords": [
                         13.607794,
@@ -8968,7 +8968,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Gamskarlspitze",
-                  "text": "A mountain peak in the Radstadt Tauern region.",
+                  "text": "A peak in the Radstätter Tauern with a prominent glacial cirque (Gamskar).",
                   "category": "landmark",
                   "coords": [
                         13.584729,
@@ -8977,7 +8977,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Gollitschspitze",
-                  "text": "Peak in the Radstadt Tauern mountain group.",
+                  "text": "A peak in the Radstätter Tauern, named after the Gollitsch field.",
                   "category": "landmark",
                   "coords": [
                         13.597127,
@@ -8986,7 +8986,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Große Kesselspitze",
-                  "text": "A striking mountain peak in the Radstadt Tauern.",
+                  "text": "A peak in the Radstätter Tauern with a large cauldron-shaped summit area.",
                   "category": "landmark",
                   "coords": [
                         13.555425,
@@ -8995,7 +8995,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Hundskogel",
-                  "text": "A mountain peak in the Radstadt Tauern.",
+                  "text": "A rounded peak (Kogel) in the Radstätter Tauern, resembling a dog's head.",
                   "category": "landmark",
                   "coords": [
                         13.58013,
@@ -9013,7 +9013,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Rosskogel",
-                  "text": "A mountain peak in the Radstadt Tauern.",
+                  "text": "A peak in the Radstätter Tauern, its name hinting at a horse-like profile.",
                   "category": "landmark",
                   "coords": [
                         13.584846,
@@ -9133,7 +9133,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Himmelreich",
-                  "text": "Ein Berggipfel in den Schladminger Tauern.",
+                  "text": "Ein Aussichtsgipfel in den Schladminger Tauern, dessen Name ‚Himmelreich‘ auf die weite Fernsicht verweist.",
                   "category": "landmark",
                   "coords": [
                         13.824458,
@@ -9142,7 +9142,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Hohes Schareck",
-                  "text": "Ein markanter Berggipfel in den Schladminger Tauern.",
+                  "text": "Ein hoher Gipfel in den Schladminger Tauern, häufig bestiegen von Schladming aus.",
                   "category": "landmark",
                   "coords": [
                         13.838306,
@@ -9207,7 +9207,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Himmelreich",
-                  "text": "Egy hegycsúcs a Schladmingi-Tauern hegységben.",
+                  "text": "Egy kilátócsúcs a Schladmingi-Tauernben, melynek neve ('Himmelreich') a tág panorámára utal.",
                   "category": "landmark",
                   "coords": [
                         13.824458,
@@ -9216,7 +9216,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Hohes Schareck",
-                  "text": "Egy jellegzetes hegycsúcs a Schladmingi-Tauern hegységben.",
+                  "text": "Egy magas csúcs a Schladmingi-Tauernben, gyakran megmászva Schladmingból.",
                   "category": "landmark",
                   "coords": [
                         13.838306,
@@ -9281,7 +9281,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Himmelreich",
-                  "text": "Un vârf de munte în Schladminger Tauern.",
+                  "text": "Un vârf de belvedere în Munții Schladminger Tauern, al cărui nume 'Himmelreich' se referă la panorama largă.",
                   "category": "landmark",
                   "coords": [
                         13.824458,
@@ -9290,7 +9290,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Hohes Schareck",
-                  "text": "Un vârf de munte proeminent în masivul Schladminger Tauern.",
+                  "text": "Un vârf înalt în Munții Schladminger Tauern, adesea escaladat din Schladming.",
                   "category": "landmark",
                   "coords": [
                         13.838306,
@@ -9355,7 +9355,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Himmelreich",
-                  "text": "A mountain peak in the Schladming Tauern.",
+                  "text": "A viewpoint peak in the Schladminger Tauern, its name 'Himmelreich' referring to the wide panorama.",
                   "category": "landmark",
                   "coords": [
                         13.824458,
@@ -9364,7 +9364,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Hohes Schareck",
-                  "text": "A prominent mountain peak in the Schladming Tauern.",
+                  "text": "A high peak in the Schladminger Tauern, often climbed from Schladming.",
                   "category": "landmark",
                   "coords": [
                         13.838306,
@@ -9421,7 +9421,7 @@ export const austriaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Feistererhorn",
-                  "text": "Ein Berggipfel in den Seckauer Tauern in Österreich.",
+                  "text": "Ein hornförmiger Gipfel in den Seckauer Tauern der Niederen Tauern.",
                   "category": "landmark",
                   "coords": [
                         14.699595,
@@ -9430,7 +9430,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Maieranger Kogel",
-                  "text": "Ein Gipfel in der Gebirgsgruppe der Seckauer Tauern.",
+                  "text": "Ein runder Kogel in den Seckauer Tauern, nahe der Maieranger Alm gelegen.",
                   "category": "landmark",
                   "coords": [
                         14.713549,
@@ -9448,7 +9448,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Hochreichart",
-                  "text": "Ein hoher Gipfel in den Seckauer Tauern.",
+                  "text": "Der Hochreichart ist ein Berg in den Seckauer Tauern.",
                   "category": "landmark",
                   "coords": [
                         14.681962,
@@ -9468,7 +9468,7 @@ export const austriaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Feistererhorn",
-                  "text": "Hegycsúcs az ausztriai Székaui-Tauernben.",
+                  "text": "Egy szarv alakú csúcs a Seckaui-Tauernben, az Alacsony-Tauern része.",
                   "category": "landmark",
                   "coords": [
                         14.699595,
@@ -9477,7 +9477,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Maieranger Kogel",
-                  "text": "Egy csúcs a Székaui-Tauern hegységben.",
+                  "text": "Egy kerek kogel a Seckaui-Tauernben, a Maieranger-almás közelében.",
                   "category": "landmark",
                   "coords": [
                         14.713549,
@@ -9495,7 +9495,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Hochreichart",
-                  "text": "Magas hegycsúcs a Székaui-Tauernben.",
+                  "text": "A Hochreichart egy hegy a Seckaui-Tauernben.",
                   "category": "landmark",
                   "coords": [
                         14.681962,
@@ -9515,7 +9515,7 @@ export const austriaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Feistererhorn",
-                  "text": "Un vârf montan în Seckauer Tauern, Austria.",
+                  "text": "Un vârf în formă de corn în Munții Seckauer Tauern, parte a Niedere Tauern.",
                   "category": "landmark",
                   "coords": [
                         14.699595,
@@ -9524,7 +9524,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Maieranger Kogel",
-                  "text": "Un vârf în grupul montan Seckauer Tauern.",
+                  "text": "Un vârf rotund (Kogel) în Munții Seckauer Tauern, lângă pășunea Maieranger.",
                   "category": "landmark",
                   "coords": [
                         14.713549,
@@ -9542,7 +9542,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Hochreichart",
-                  "text": "Un vârf înalt în Seckauer Tauern.",
+                  "text": "Hochreichart este un munte în Seckauer Tauern.",
                   "category": "landmark",
                   "coords": [
                         14.681962,
@@ -9562,7 +9562,7 @@ export const austriaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Feistererhorn",
-                  "text": "A mountain peak in the Seckau Tauern range in Austria.",
+                  "text": "A horn-shaped peak in the Seckauer Tauern of the Niedere Tauern.",
                   "category": "landmark",
                   "coords": [
                         14.699595,
@@ -9571,7 +9571,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Maieranger Kogel",
-                  "text": "A peak located in the Seckau Tauern mountain group.",
+                  "text": "A rounded hill (Kogel) in the Seckauer Tauern, near the Maieranger alpine pasture.",
                   "category": "landmark",
                   "coords": [
                         14.713549,
@@ -9589,7 +9589,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Hochreichart",
-                  "text": "A high peak in the Seckau Tauern range.",
+                  "text": "Hochreichart is a mountain in the Seckauer Tauern.",
                   "category": "landmark",
                   "coords": [
                         14.681962,
@@ -10177,7 +10177,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Schönhaltereck",
-                  "text": "Ein bewaldeter Berggipfel in der Region Herrenstein.",
+                  "text": "Ein Aussichtsgipfel im Herrenstein-Massiv des Toten Gebirges.",
                   "category": "landmark",
                   "coords": [
                         15.568727,
@@ -10233,7 +10233,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Schönhaltereck",
-                  "text": "Erdős hegycsúcs a Herrenstein régióban.",
+                  "text": "Egy kilátócsúcs a Herrenstein-masszívumban a Toten Gebirge hegységben.",
                   "category": "landmark",
                   "coords": [
                         15.568727,
@@ -10289,7 +10289,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Schönhaltereck",
-                  "text": "Un vârf montan împădurit în regiunea Herrenstein.",
+                  "text": "Un vârf de belvedere în masivul Herrenstein din Munții Toten Gebirge.",
                   "category": "landmark",
                   "coords": [
                         15.568727,
@@ -10345,7 +10345,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Schönhaltereck",
-                  "text": "A forested mountain peak in the Herrenstein region.",
+                  "text": "A viewpoint peak in the Herrenstein massif of the Toten Gebirge.",
                   "category": "landmark",
                   "coords": [
                         15.568727,
@@ -10825,7 +10825,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Öhler Paterschlössl",
-                  "text": "Eine historische Burg in Hoher Trieb.",
+                  "text": "Eine kleine Burgruine auf einem Felsvorsprung im Hohen Trieber.",
                   "category": "castle",
                   "coords": [
                         14.249015,
@@ -10834,7 +10834,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Schwimmbad St. Peter am Kammersberg",
-                  "text": "Ein Wasserpark in Hoher Trieb.",
+                  "text": "Freibad St. Peter am Kammersberg mit Panoramablick auf die Berge.",
                   "category": "recreational",
                   "coords": [
                         14.187533,
@@ -10843,7 +10843,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Ofen",
-                  "text": "Ein Gipfel in Hoher Trieb.",
+                  "text": "Eine markante Felsformation im Hohen Trieber, die an einen Ofen erinnert.",
                   "category": "landmark",
                   "coords": [
                         14.221308,
@@ -10861,7 +10861,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "St.Peter",
-                  "text": "Ein Ort der Verehrung in Hoher Trieb.",
+                  "text": "Eine römisch-katholische Kirche, dem heiligen Petrus geweiht, im Hoher Trieber.",
                   "category": "religious",
                   "coords": [
                         14.186243,
@@ -10881,7 +10881,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Öhler Paterschlössl",
-                  "text": "Történelmi vár Hoher Trieb területén.",
+                  "text": "Egy kis várrom a Hoher Trieber sziklás kiszögellésén.",
                   "category": "castle",
                   "coords": [
                         14.249015,
@@ -10890,7 +10890,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Schwimmbad St. Peter am Kammersberg",
-                  "text": "Vízipark Hoher Trieb területén.",
+                  "text": "St. Peter am Kammersberg szabadtéri uszoda hegyi panorámával.",
                   "category": "recreational",
                   "coords": [
                         14.187533,
@@ -10899,7 +10899,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Ofen",
-                  "text": "Egy hegycsúcs Hoher Trieb területén.",
+                  "text": "Egy jellegzetes sziklaformáció a Hoher Trieberben, amely egy kemencére emlékeztet.",
                   "category": "landmark",
                   "coords": [
                         14.221308,
@@ -10917,7 +10917,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "St.Peter",
-                  "text": "Templom Hoher Trieb területén.",
+                  "text": "Egy római katolikus templom, Szent Péternek szentelve, a Hoher Trieberben.",
                   "category": "religious",
                   "coords": [
                         14.186243,
@@ -10937,7 +10937,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Öhler Paterschlössl",
-                  "text": "Un castel istoric în Hoher Trieb.",
+                  "text": "O mică ruină de castel pe o stâncă proeminentă în Hoher Trieber.",
                   "category": "castle",
                   "coords": [
                         14.249015,
@@ -10946,7 +10946,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Schwimmbad St. Peter am Kammersberg",
-                  "text": "Un parc acvatic în Hoher Trieb.",
+                  "text": "Ștrandul St. Peter am Kammersberg cu vedere panoramică la munți.",
                   "category": "recreational",
                   "coords": [
                         14.187533,
@@ -10955,7 +10955,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Ofen",
-                  "text": "Un vârf montan în Hoher Trieb.",
+                  "text": "O formațiune stâncoasă distinctă în Hoher Trieber, care amintește de un cuptor.",
                   "category": "landmark",
                   "coords": [
                         14.221308,
@@ -10973,7 +10973,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "St.Peter",
-                  "text": "Un lăcaș de cult în Hoher Trieb.",
+                  "text": "O biserică romano-catolică dedicată Sfântului Petru în Hoher Trieber.",
                   "category": "religious",
                   "coords": [
                         14.186243,
@@ -10993,7 +10993,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Öhler Paterschlössl",
-                  "text": "A historical castle in Hoher Trieb.",
+                  "text": "A small castle ruin on a rocky outcrop in the Hoher Trieber.",
                   "category": "castle",
                   "coords": [
                         14.249015,
@@ -11002,7 +11002,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Schwimmbad St. Peter am Kammersberg",
-                  "text": "A water park in Hoher Trieb.",
+                  "text": "Outdoor pool in St. Peter am Kammersberg with panoramic mountain views.",
                   "category": "recreational",
                   "coords": [
                         14.187533,
@@ -11011,7 +11011,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "Ofen",
-                  "text": "A mountain peak in Hoher Trieb.",
+                  "text": "A distinctive rock formation in the Hoher Trieber, resembling an oven.",
                   "category": "landmark",
                   "coords": [
                         14.221308,
@@ -11029,7 +11029,7 @@ export const austriaReliefV2: POI[] = [
             },
             {
                   "name": "St.Peter",
-                  "text": "A place of worship in Hoher Trieb.",
+                  "text": "A Roman Catholic church dedicated to Saint Peter in the Hoher Trieber.",
                   "category": "religious",
                   "coords": [
                         14.186243,

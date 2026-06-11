@@ -183,7 +183,52 @@ export const poiExtraTajikistanNatureV2: POI[] = [
     },
   },
   {
-    id: "peak-ismoil-somoni-nature-v2",
+    id: "peak-ismoil-somoni-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ismail Samani",
+                  "text": "Tadschikistans höchster Gipfel ragt 7.495 Meter in den Pamir-Himmel empor.",
+                  "category": "natural",
+                  "coords": [
+                        72.015585,
+                        38.94301
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "K'ullai Ismoili Somoni",
+                  "text": "Tádzsikisztán legmagasabb csúcsa, amely 7495 méterrel magasodik a Pamír fölé.",
+                  "category": "natural",
+                  "coords": [
+                        72.015585,
+                        38.94301
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "K'ullai Ismoili Somoni",
+                  "text": "Cel mai înalt vârf din Tadjikistan, ridicându-se la 7.495 de metri în munții Pamir.",
+                  "category": "natural",
+                  "coords": [
+                        72.015585,
+                        38.94301
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ismoil Somoni",
+                  "text": "Tajikistan's highest peak, soaring 7,495 meters high in the Pamir Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        72.015585,
+                        38.94301
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TJ-GB",
     coords: [72.0167, 38.9333],
@@ -243,7 +288,124 @@ export const poiExtraTajikistanNatureV2: POI[] = [
     },
   },
   {
-    id: "peak-ibn-sina-nature-v2",
+    id: "peak-ibn-sina-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pik Dserschinski",
+                  "text": "Ein hoher Berggipfel in der Transalai-Kette nahe der kirgisischen Grenze.",
+                  "category": "natural",
+                  "coords": [
+                        72.783801,
+                        39.346495
+                  ]
+            },
+            {
+                  "name": "Pik Lenin",
+                  "text": "Einer der höchsten zugänglichen Berge der Welt, bekannt für seine gewaltigen Gletscher.",
+                  "category": "natural",
+                  "coords": [
+                        72.879123,
+                        39.347069
+                  ]
+            },
+            {
+                  "name": "Pik Marschall Schukow",
+                  "text": "Ein gewaltiger Hochgebirgsgipfel im Gebirgssystem des Transalai.",
+                  "category": "natural",
+                  "coords": [
+                        72.885356,
+                        39.318283
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "pik Dzerzhinskogo",
+                  "text": "Magas hegycsúcs a Transz-Alaj hegységben, a kirgiz határ közelében.",
+                  "category": "natural",
+                  "coords": [
+                        72.783801,
+                        39.346495
+                  ]
+            },
+            {
+                  "name": "Lenin Chokusu / K'ullai Ibni Sino",
+                  "text": "A világ egyik legmagasabb, jól megközelíthető hegye, amely hatalmas gleccsereiről híres.",
+                  "category": "natural",
+                  "coords": [
+                        72.879123,
+                        39.347069
+                  ]
+            },
+            {
+                  "name": "pik Marshala Zhukova",
+                  "text": "Félelmetes, magashegyi csúcs a Transz-Alaj hegységrendszerben.",
+                  "category": "natural",
+                  "coords": [
+                        72.885356,
+                        39.318283
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "pik Dzerzhinskogo",
+                  "text": "Un vârf muntos înalt din lanțul Trans-Alay, situat lângă granița cu Kârgâzstanul.",
+                  "category": "natural",
+                  "coords": [
+                        72.783801,
+                        39.346495
+                  ]
+            },
+            {
+                  "name": "Lenin Chokusu / K'ullai Ibni Sino",
+                  "text": "Unul dintre cei mai înalți munți accesibili din lume, renumit pentru ghețarii săi masivi.",
+                  "category": "natural",
+                  "coords": [
+                        72.879123,
+                        39.347069
+                  ]
+            },
+            {
+                  "name": "pik Marshala Zhukova",
+                  "text": "Un vârf formidabil de mare altitudine din sistemul muntos Trans-Alay.",
+                  "category": "natural",
+                  "coords": [
+                        72.885356,
+                        39.318283
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "pik Dzerzhinskogo",
+                  "text": "A high mountain summit in the Trans-Alay Range near the Kyrgyzstan border.",
+                  "category": "natural",
+                  "coords": [
+                        72.783801,
+                        39.346495
+                  ]
+            },
+            {
+                  "name": "Lenin Peak",
+                  "text": "One of the world's highest accessible mountains, famous for its massive glaciers.",
+                  "category": "natural",
+                  "coords": [
+                        72.879123,
+                        39.347069
+                  ]
+            },
+            {
+                  "name": "pik Marshala Zhukova",
+                  "text": "A formidable high-altitude peak in the Trans-Alay mountain system.",
+                  "category": "natural",
+                  "coords": [
+                        72.885356,
+                        39.318283
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TJ-GB",
     coords: [72.8833, 39.3333],
@@ -363,7 +525,52 @@ export const poiExtraTajikistanNatureV2: POI[] = [
     },
   },
   {
-    id: "vakhsh-river-nature-v2",
+    id: "vakhsh-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Uraz Bacha",
+                  "text": "Ein archäologischer Siedlungshügel am Ufer des Wachsch-Flusses, der Zeugnis von früherer Besiedlung ablegt.",
+                  "category": "historical",
+                  "coords": [
+                        68.400012,
+                        37.091689
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Uraz Bacha",
+                  "text": "Régészeti településhalom a Vahs-folyó partján, amely korai megtelepedésről tanúskodik.",
+                  "category": "historical",
+                  "coords": [
+                        68.400012,
+                        37.091689
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Uraz Bacha",
+                  "text": "O colină arheologică pe malul râului Vakhsh, care depune mărturie despre o așezare timpurie.",
+                  "category": "historical",
+                  "coords": [
+                        68.400012,
+                        37.091689
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Uraz Bacha",
+                  "text": "An archaeological settlement mound on the banks of the Vakhsh River, witnessing early habitation.",
+                  "category": "historical",
+                  "coords": [
+                        68.400012,
+                        37.091689
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "TJ-KT",
     coords: [68.3833, 37.1],
@@ -423,7 +630,124 @@ export const poiExtraTajikistanNatureV2: POI[] = [
     },
   },
   {
-    id: "zeravshan-river-nature-v2",
+    id: "zeravshan-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gardani Kh'isor (K'asri Madm)",
+                  "text": "Die Ruinen von Gardani Hisor, auch bekannt als Burg Madm, sind die steinernen Überreste einer alten Festung auf einer Hügelkuppe mit Blick auf das Serafschan-Tal.",
+                  "category": "historical",
+                  "coords": [
+                        68.346038,
+                        39.422587
+                  ]
+            },
+            {
+                  "name": "Masch'idi Iskobod",
+                  "text": "Masch'idi Iskobod ist eine ruhige ländliche Moschee in der Nähe des Flusses Serafschan, die mit lokalen Stein- und Holzelementen für die Dorfgemeinde erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        68.249656,
+                        39.443548
+                  ]
+            },
+            {
+                  "name": "Masch'idi Langar",
+                  "text": "Masch'idi Langar ist ein ruhiger islamischer Gebetsort, der sich durch seine wunderschön geschnitzten Holzpfeiler auszeichnet, die typisch für die Serafschan-Region sind.",
+                  "category": "landmark",
+                  "coords": [
+                        68.270808,
+                        39.442974
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gardani Kh'isor (K'asri Madm)",
+                  "text": "A Gardani Hisor, más néven Madm kastély romjai egy ősi dombtetőn lévő erődítmény kőmaradványai, amelyek a Zarafson-völgyre néznek.",
+                  "category": "historical",
+                  "coords": [
+                        68.346038,
+                        39.422587
+                  ]
+            },
+            {
+                  "name": "Masch'idi Iskobod",
+                  "text": "A Masch'idi Iskobod egy békés vidéki mecset a Zarafson folyó közelében, amelyet helyi kő- és faelemekből építettek a falu gyülekezetének szolgálatára.",
+                  "category": "landmark",
+                  "coords": [
+                        68.249656,
+                        39.443548
+                  ]
+            },
+            {
+                  "name": "Masch'idi Langar",
+                  "text": "A Masch'idi Langar nyugodt iszlám imahelyet biztosít, amelyet a Zarafson régióra jellemző, gyönyörűen faragott faoszlopai jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        68.270808,
+                        39.442974
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gardani Kh'isor (K'asri Madm)",
+                  "text": "Ruinele de la Gardani Hisor, cunoscute și sub numele de Castelul Madm, sunt resturile de piatră ale unei fortificații antice aflate pe vârful unui deal, cu vedere la valea Zeravshan.",
+                  "category": "historical",
+                  "coords": [
+                        68.346038,
+                        39.422587
+                  ]
+            },
+            {
+                  "name": "Masch'idi Iskobod",
+                  "text": "Masch'idi Iskobod este o moschee rurală senină lângă râul Zeravshan, construită cu elemente locale din piatră și lemn pentru a servi congregația satului.",
+                  "category": "landmark",
+                  "coords": [
+                        68.249656,
+                        39.443548
+                  ]
+            },
+            {
+                  "name": "Masch'idi Langar",
+                  "text": "Masch'idi Langar oferă un loc liniștit de cult islamic, caracterizat prin stâlpii săi din lemn frumos sculptați, tipici regiunii Zeravshan.",
+                  "category": "landmark",
+                  "coords": [
+                        68.270808,
+                        39.442974
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gardani Hisor (Madm Castle)",
+                  "text": "The ruins of Gardani Hisor, also known as Madm Castle, are the stone remnants of an ancient hilltop fortification overlooking the Zeravshan valley.",
+                  "category": "historical",
+                  "coords": [
+                        68.346038,
+                        39.422587
+                  ]
+            },
+            {
+                  "name": "Masch'idi Iskobod",
+                  "text": "Masch'idi Iskobod is a serene rural mosque near the Zeravshan river, built with local stone and wood elements to serve the village congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        68.249656,
+                        39.443548
+                  ]
+            },
+            {
+                  "name": "Masch'idi Langar",
+                  "text": "Masch'idi Langar provides a tranquil place of Islamic worship, characterized by its beautifully carved wooden pillars typical of the Zeravshan region.",
+                  "category": "landmark",
+                  "coords": [
+                        68.270808,
+                        39.442974
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "TJ-SU",
     coords: [68.25, 39.3833],
@@ -483,7 +807,88 @@ export const poiExtraTajikistanNatureV2: POI[] = [
     },
   },
   {
-    id: "yashilkul-nature-v2",
+    id: "yashilkul-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "super place for tents",
+                  "text": "Ein Aussichtspunkt mit Panoramablick über den Yashilkul-See, ideal zum Zelten in der Wildnis.",
+                  "category": "natural",
+                  "coords": [
+                        72.841048,
+                        37.781493
+                  ]
+            },
+            {
+                  "name": "Khingchashma (Sasik'bulok')",
+                  "text": "Natürliche Thermalquellen am Seeufer, die für ihr mineralreiches, warmes Wasser bekannt sind.",
+                  "category": "natural",
+                  "coords": [
+                        72.89037,
+                        37.731172
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "super place for tents",
+                  "text": "Kilátópont panorámás kilátással a Jasikul-tóra, ideális vadkempingezéshez.",
+                  "category": "natural",
+                  "coords": [
+                        72.841048,
+                        37.781493
+                  ]
+            },
+            {
+                  "name": "Khingchashma (Sasik'bulok')",
+                  "text": "Természetes hévízforrások a tóparton, amelyek ásványi anyagokban gazdag, meleg vizükről ismertek.",
+                  "category": "natural",
+                  "coords": [
+                        72.89037,
+                        37.731172
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "super place for tents",
+                  "text": "Un punct de observație cu vedere panoramică asupra lacului Yashilkul, ideal pentru campare.",
+                  "category": "natural",
+                  "coords": [
+                        72.841048,
+                        37.781493
+                  ]
+            },
+            {
+                  "name": "Khingchashma (Sasik'bulok')",
+                  "text": "Izvoare termale naturale pe malul lacului, cunoscute pentru apa lor caldă bogată în minerale.",
+                  "category": "natural",
+                  "coords": [
+                        72.89037,
+                        37.731172
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "super place for tents",
+                  "text": "A scenic viewpoint with panoramic vistas of Lake Yashilkul, ideal for wilderness camping.",
+                  "category": "natural",
+                  "coords": [
+                        72.841048,
+                        37.781493
+                  ]
+            },
+            {
+                  "name": "Khingchashma (Sasiqbulok) Hot Springs",
+                  "text": "Natural thermal springs by the lakeshore, known for their mineral-rich warm waters.",
+                  "category": "natural",
+                  "coords": [
+                        72.89037,
+                        37.731172
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "TJ-GB",
     coords: [72.8833, 37.7667],
@@ -603,7 +1008,124 @@ export const poiExtraTajikistanNatureV2: POI[] = [
     },
   },
   {
-    id: "fann-mountains-nature-v2",
+    id: "fann-mountains-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "vid na oz. Diushakha",
+                  "text": "Ein Aussichtspunkt in den Bergen, der einen weiten Blick über das türkisfarbene Wasser des Dushokha-Sees bietet.",
+                  "category": "natural",
+                  "coords": [
+                        68.209546,
+                        39.248173
+                  ]
+            },
+            {
+                  "name": "Chimtarga",
+                  "text": "Mit 5489 Metern ist dies der höchste Gipfel des Fangebirges und ein prestigeträchtiges Ziel für erfahrene Bergsteiger.",
+                  "category": "natural",
+                  "coords": [
+                        68.195591,
+                        39.197885
+                  ]
+            },
+            {
+                  "name": "Ch'angali Khadang",
+                  "text": "Ein seltener Birkenwald in großer Höhe, der einen grünen Kontrast zur felsigen alpinen Landschaft des Fangebirges bildet.",
+                  "category": "landmark",
+                  "coords": [
+                        68.105036,
+                        39.102859
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "vid na oz. Diushakha",
+                  "text": "Hegyi kilátópont, amely széles körpanorámát nyújt a Dushokha-tó türkizkék vizére.",
+                  "category": "natural",
+                  "coords": [
+                        68.209546,
+                        39.248173
+                  ]
+            },
+            {
+                  "name": "Chimtarga",
+                  "text": "Az 5489 méteres Chimtarga a Fann-hegység legmagasabb csúcsa, a tapasztalt hegymászók egyik fő célpontja.",
+                  "category": "natural",
+                  "coords": [
+                        68.195591,
+                        39.197885
+                  ]
+            },
+            {
+                  "name": "Ch'angali Khadang",
+                  "text": "Egy ritka, magashegyi nyírfás, amely zöld kontrasztot alkot a Fann-hegység sziklás alpesi tájával.",
+                  "category": "landmark",
+                  "coords": [
+                        68.105036,
+                        39.102859
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "vid na oz. Diushakha",
+                  "text": "Un punct de observație montan care oferă o vedere panoramică asupra apelor turcoaz ale lacului Dushokha.",
+                  "category": "natural",
+                  "coords": [
+                        68.209546,
+                        39.248173
+                  ]
+            },
+            {
+                  "name": "Chimtarga",
+                  "text": "La 5489 de metri, acesta este cel mai înalt vârf din Munții Fann și o destinație prestigioasă pentru alpiniștii experimentați.",
+                  "category": "natural",
+                  "coords": [
+                        68.195591,
+                        39.197885
+                  ]
+            },
+            {
+                  "name": "Ch'angali Khadang",
+                  "text": "O pădure rară de mesteacăn la mare altitudine, care oferă un contrast verde peisajului alpin stâncos al Munților Fann.",
+                  "category": "landmark",
+                  "coords": [
+                        68.105036,
+                        39.102859
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dushokha Lake Viewpoint",
+                  "text": "A mountain vantage point offering sweeping views over the turquoise waters of Dushokha Lake.",
+                  "category": "natural",
+                  "coords": [
+                        68.209546,
+                        39.248173
+                  ]
+            },
+            {
+                  "name": "Chimtarga",
+                  "text": "At 5,489 meters, this is the highest summit in the Fann Mountains and a prestigious goal for experienced mountaineers.",
+                  "category": "natural",
+                  "coords": [
+                        68.195591,
+                        39.197885
+                  ]
+            },
+            {
+                  "name": "Jangali Khadang (Birch Forest)",
+                  "text": "A rare high-altitude birch forest providing a green contrast to the rocky alpine landscape of the Fann Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        68.105036,
+                        39.102859
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TJ-SU",
     coords: [68.1667, 39.1667],
@@ -663,7 +1185,52 @@ export const poiExtraTajikistanNatureV2: POI[] = [
     },
   },
   {
-    id: "peak-korzhenevskaya-nature-v2",
+    id: "peak-korzhenevskaya-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "K'ullai Ozodi",
+                  "text": "Ein markanter, vergletscherter Gipfel im Pamir-Gebirge mit über 7.100 Metern Höhe.",
+                  "category": "natural",
+                  "coords": [
+                        72.009683,
+                        39.056883
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "K'ullai Ozodi",
+                  "text": "Jelentős, gleccserekkel borított csúcs a Pamír-hegységben, amely meghaladja a 7100 métert.",
+                  "category": "natural",
+                  "coords": [
+                        72.009683,
+                        39.056883
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "K'ullai Ozodi",
+                  "text": "Un vârf proeminent și glaciar din Munții Pamir, care atinge peste 7.100 de metri.",
+                  "category": "natural",
+                  "coords": [
+                        72.009683,
+                        39.056883
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ozodi Peak",
+                  "text": "A prominent, glaciated summit in the Pamir Mountains reaching over 7,100 metres.",
+                  "category": "natural",
+                  "coords": [
+                        72.009683,
+                        39.056883
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TJ-GB",
     coords: [72.0, 39.05],
@@ -723,7 +1290,52 @@ export const poiExtraTajikistanNatureV2: POI[] = [
     },
   },
   {
-    id: "bartang-river-nature-v2",
+    id: "bartang-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kal'ai Vamar",
+                  "text": "Ruinen einer strategischen Festung, die über dem Tal des Bartang-Flusses thronen.",
+                  "category": "fortress",
+                  "coords": [
+                        71.553674,
+                        37.943358
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kal'ai Vamar",
+                  "text": "Egy stratégiai erőd romjai, amelyek a Bartang-folyó völgye fölé magasodnak.",
+                  "category": "fortress",
+                  "coords": [
+                        71.553674,
+                        37.943358
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kal'ai Vamar",
+                  "text": "Ruinele unei cetăți strategice, cocoțate deasupra văii râului Bartang.",
+                  "category": "fortress",
+                  "coords": [
+                        71.553674,
+                        37.943358
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vamar Fort",
+                  "text": "Ruins of a strategic fortress perched high above the Bartang River valley.",
+                  "category": "fortress",
+                  "coords": [
+                        71.553674,
+                        37.943358
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "TJ-GB",
     coords: [71.5, 37.9333],
@@ -783,7 +1395,232 @@ export const poiExtraTajikistanNatureV2: POI[] = [
     },
   },
   {
-    id: "gunt-river-nature-v2",
+    id: "gunt-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzei Pamir",
+                  "text": "Das Pamir-Museum ist eine Einrichtung in der Nähe des Flusses Gunt, in der Besucher mehr über die lokale Geschichte erfahren können.",
+                  "category": "museum",
+                  "coords": [
+                        71.547319,
+                        37.491251
+                  ]
+            },
+            {
+                  "name": "Teatri viloiati va nomi Mekh'rubon Nazarbov",
+                  "text": "Das Regionaltheater Mehrubon Nazarov veranstaltet lokale darstellende Künste und Kulturveranstaltungen in der Region des Flusses Gunt.",
+                  "category": "cultural",
+                  "coords": [
+                        71.548785,
+                        37.491599
+                  ]
+            },
+            {
+                  "name": "Summer Theatre",
+                  "text": "Das Sommertheater bietet saisonale Aufführungen in der malerischen Gegend des Flusses Gunt.",
+                  "category": "cultural",
+                  "coords": [
+                        71.545299,
+                        37.489825
+                  ]
+            },
+            {
+                  "name": "Ostun",
+                  "text": "Ostun ist eine islamische religiöse Stätte in der Region des Flusses Gunt.",
+                  "category": "landmark",
+                  "coords": [
+                        71.549836,
+                        37.488882
+                  ]
+            },
+            {
+                  "name": "Bozori markazii shakh'ri Khorug'",
+                  "text": "Der Khorog Central Marketplace ist ein geschäftiges Handelszentrum für lokale Waren im Gebiet des Flusses Gunt.",
+                  "category": "cultural",
+                  "coords": [
+                        71.538887,
+                        37.490619
+                  ]
+            },
+            {
+                  "name": "Ajam Inn",
+                  "text": "Der Afghanische Basar bietet eine Auswahl an traditionellen Produkten und lebhafte Handelsaktivitäten in der Nähe des Flusses Gunt.",
+                  "category": "cultural",
+                  "coords": [
+                        71.504595,
+                        37.52916
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzei Pamir",
+                  "text": "A Pamir Múzeum egy intézmény a Gunt folyó közelében, ahol a látogatók megismerkedhetnek a helyi történelemmel.",
+                  "category": "museum",
+                  "coords": [
+                        71.547319,
+                        37.491251
+                  ]
+            },
+            {
+                  "name": "Teatri viloiati va nomi Mekh'rubon Nazarbov",
+                  "text": "A Mehrubon Nazarov Regionális Színház helyi előadóművészeti és kulturális eseményeknek ad otthont a Gunt folyó régiójában.",
+                  "category": "cultural",
+                  "coords": [
+                        71.548785,
+                        37.491599
+                  ]
+            },
+            {
+                  "name": "Summer Theatre",
+                  "text": "A Nyári Színház szezonális előadásokat kínál a Gunt folyó festői vidékén.",
+                  "category": "cultural",
+                  "coords": [
+                        71.545299,
+                        37.489825
+                  ]
+            },
+            {
+                  "name": "Ostun",
+                  "text": "Ostun egy iszlám vallási helyszín a Gunt folyó régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        71.549836,
+                        37.488882
+                  ]
+            },
+            {
+                  "name": "Bozori markazii shakh'ri Khorug'",
+                  "text": "A khorogi központi piac a helyi áruk nyüzsgő kereskedelmi központja a Gunt folyó területén.",
+                  "category": "cultural",
+                  "coords": [
+                        71.538887,
+                        37.490619
+                  ]
+            },
+            {
+                  "name": "Ajam Inn",
+                  "text": "Az Afgán Bazár hagyományos termékek és nyüzsgő kereskedelmi tevékenységek sorát kínálja a Gunt folyó közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        71.504595,
+                        37.52916
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzei Pamir",
+                  "text": "Muzeul Pamir este o instituție lângă râul Gunt, unde vizitatorii pot afla despre istoria locală.",
+                  "category": "museum",
+                  "coords": [
+                        71.547319,
+                        37.491251
+                  ]
+            },
+            {
+                  "name": "Teatri viloiati va nomi Mekh'rubon Nazarbov",
+                  "text": "Teatrul Regional Mehrubon Nazarov găzduiește arte ale spectacolului local și evenimente culturale în regiunea râului Gunt.",
+                  "category": "cultural",
+                  "coords": [
+                        71.548785,
+                        37.491599
+                  ]
+            },
+            {
+                  "name": "Summer Theatre",
+                  "text": "Teatrul de Vară oferă spectacole sezoniere în zona pitorească a râului Gunt.",
+                  "category": "cultural",
+                  "coords": [
+                        71.545299,
+                        37.489825
+                  ]
+            },
+            {
+                  "name": "Ostun",
+                  "text": "Ostun este un sit religios islamic situat în regiunea râului Gunt.",
+                  "category": "landmark",
+                  "coords": [
+                        71.549836,
+                        37.488882
+                  ]
+            },
+            {
+                  "name": "Bozori markazii shakh'ri Khorug'",
+                  "text": "Piața Centrală Khorog este un centru comercial plin de viață pentru bunuri locale din zona râului Gunt.",
+                  "category": "cultural",
+                  "coords": [
+                        71.538887,
+                        37.490619
+                  ]
+            },
+            {
+                  "name": "Ajam Inn",
+                  "text": "Bazarul Afgan oferă o gamă largă de produse tradiționale și activități comerciale vibrante lângă râul Gunt.",
+                  "category": "cultural",
+                  "coords": [
+                        71.504595,
+                        37.52916
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pamir Museum",
+                  "text": "The Pamir Museum is an institution near the Gunt River where visitors can learn about local history.",
+                  "category": "museum",
+                  "coords": [
+                        71.547319,
+                        37.491251
+                  ]
+            },
+            {
+                  "name": "Mehrubon Nazarov Regional Theatre",
+                  "text": "The Mehrubon Nazarov Regional Theatre hosts local performing arts and cultural events in the Gunt River region.",
+                  "category": "cultural",
+                  "coords": [
+                        71.548785,
+                        37.491599
+                  ]
+            },
+            {
+                  "name": "Summer Theatre",
+                  "text": "The Summer Theatre offers seasonal performances in the scenic area of the Gunt River.",
+                  "category": "cultural",
+                  "coords": [
+                        71.545299,
+                        37.489825
+                  ]
+            },
+            {
+                  "name": "Ostun",
+                  "text": "Ostun is an Islamic religious site located in the Gunt River region.",
+                  "category": "landmark",
+                  "coords": [
+                        71.549836,
+                        37.488882
+                  ]
+            },
+            {
+                  "name": "Khorog Central Marketplace",
+                  "text": "The Khorog Central Marketplace is a bustling commercial center for local goods in the Gunt River area.",
+                  "category": "cultural",
+                  "coords": [
+                        71.538887,
+                        37.490619
+                  ]
+            },
+            {
+                  "name": "Afghan Bazaar",
+                  "text": "The Afghan Bazaar offers an array of traditional products and vibrant trading activities near the Gunt River.",
+                  "category": "cultural",
+                  "coords": [
+                        71.504595,
+                        37.52916
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "TJ-GB",
     coords: [71.5333, 37.4833],
@@ -843,7 +1680,88 @@ export const poiExtraTajikistanNatureV2: POI[] = [
     },
   },
   {
-    id: "bulunkul-lake-nature-v2",
+    id: "bulunkul-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qianlong Westernmost Ji Gong Stele",
+                  "text": "Eine historische Steinstele, die die westlichste Grenze des Qing-Reiches unter Kaiser Qianlong markiert.",
+                  "category": "historical",
+                  "coords": [
+                        72.967418,
+                        37.770914
+                  ]
+            },
+            {
+                  "name": "Hot springs",
+                  "text": "Thermale Becken in der Nähe des Bulunkul-Sees, die von Reisenden wegen ihrer Heilwirkung geschätzt werden.",
+                  "category": "natural",
+                  "coords": [
+                        73.019931,
+                        37.76663
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qianlong Westernmost Ji Gong Stele",
+                  "text": "Történelmi kősztélé, amely a Csing Birodalom legnyugatibb határát jelölte Csien-lung császár alatt.",
+                  "category": "historical",
+                  "coords": [
+                        72.967418,
+                        37.770914
+                  ]
+            },
+            {
+                  "name": "Hot springs",
+                  "text": "A Bulunkul-tó közeli termálmedencék, amelyeket gyógyhatásuk miatt kedvelnek az utazók.",
+                  "category": "natural",
+                  "coords": [
+                        73.019931,
+                        37.76663
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qianlong Westernmost Ji Gong Stele",
+                  "text": "O stelă istorică din piatră care marchează limita vestică a Imperiului Qing sub împăratul Qianlong.",
+                  "category": "historical",
+                  "coords": [
+                        72.967418,
+                        37.770914
+                  ]
+            },
+            {
+                  "name": "Hot springs",
+                  "text": "Bazine termale lângă lacul Bulunkul, apreciate de călători pentru proprietățile lor terapeutice.",
+                  "category": "natural",
+                  "coords": [
+                        73.019931,
+                        37.76663
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qianlong Westernmost Ji Gong Stele",
+                  "text": "A historical stone stele marking the westernmost border of the Qing Empire under Emperor Qianlong.",
+                  "category": "historical",
+                  "coords": [
+                        72.967418,
+                        37.770914
+                  ]
+            },
+            {
+                  "name": "Hot springs",
+                  "text": "Thermal pools near Bulunkul Lake, popular among travelers for their therapeutic properties.",
+                  "category": "natural",
+                  "coords": [
+                        73.019931,
+                        37.76663
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "TJ-GB",
     coords: [72.95, 37.75],
@@ -1023,7 +1941,52 @@ export const poiExtraTajikistanNatureV2: POI[] = [
     },
   },
   {
-    id: "tajik-national-park-nature-v2",
+    id: "tajik-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "pik Kalinina",
+                  "text": "Ein schroffer Berggipfel in der unberührten Wildnis des Tadschikischen Nationalparks.",
+                  "category": "natural",
+                  "coords": [
+                        72.109281,
+                        39.010592
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "pik Kalinina",
+                  "text": "Egy zord hegycsúcs a Tádzsik Nemzeti Park érintetlen vadonjában.",
+                  "category": "natural",
+                  "coords": [
+                        72.109281,
+                        39.010592
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "pik Kalinina",
+                  "text": "Un vârf muntos accidentat situat în sălbăticia curată a Parcului Național Tadjic.",
+                  "category": "natural",
+                  "coords": [
+                        72.109281,
+                        39.010592
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "pik Kalinina",
+                  "text": "A rugged mountain peak located within the pristine wilderness of the Tajik National Park.",
+                  "category": "natural",
+                  "coords": [
+                        72.109281,
+                        39.010592
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "TJ-GB",
     coords: [72.0, 39.0],
@@ -1083,7 +2046,52 @@ export const poiExtraTajikistanNatureV2: POI[] = [
     },
   },
   {
-    id: "shirkent-national-park-nature-v2",
+    id: "shirkent-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dinosaur Footprints",
+                  "text": "Versteinerte Fußabdrücke von Dinosauriern aus der Jurazeit im Shirkent-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        68.254905,
+                        38.673871
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dinosaur Footprints",
+                  "text": "A Shirkent Nemzeti Parkban található, jura korból származó megkövesedett dinoszaurusz-lábnyomok.",
+                  "category": "landmark",
+                  "coords": [
+                        68.254905,
+                        38.673871
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dinosaur Footprints",
+                  "text": "Urme de dinozaur fosilizate din perioada jurasică, aflate în Parcul Național Șirkent.",
+                  "category": "landmark",
+                  "coords": [
+                        68.254905,
+                        38.673871
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dinosaur Footprints",
+                  "text": "Fossilized dinosaur footprints from the Jurassic period located in Shirkent National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        68.254905,
+                        38.673871
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "TJ-RR",
     coords: [68.1833, 38.65],

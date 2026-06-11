@@ -432,7 +432,7 @@ imageHint: "Vikos Gorge deep canyon landscape",
             },
             {
                   "name": "Upper eastern fort Agia Roumeli",
-                  "text": "Eine historische Festungsanlage östlich von Agia Roumeli.",
+                  "text": "Obere Ostfestung oberhalb von Agia Roumeli, bewacht den Eingang zur Samaria-Schlucht.",
                   "category": "castle",
                   "coords": [
                         23.97375,
@@ -506,7 +506,7 @@ imageHint: "Vikos Gorge deep canyon landscape",
             },
             {
                   "name": "Upper eastern fort Agia Roumeli",
-                  "text": "Történelmi erődítmény Agia Roumelitől keletre.",
+                  "text": "Felső keleti erőd Agia Roumeli felett, a Samaria-szurdok bejáratát őrzi.",
                   "category": "castle",
                   "coords": [
                         23.97375,
@@ -580,7 +580,7 @@ imageHint: "Vikos Gorge deep canyon landscape",
             },
             {
                   "name": "Upper eastern fort Agia Roumeli",
-                  "text": "O fortificație istorică situată la est de Agia Roumeli.",
+                  "text": "Fortul superior estic deasupra Agia Roumeli, păzind intrarea în Cheile Samaria.",
                   "category": "castle",
                   "coords": [
                         23.97375,
@@ -654,7 +654,7 @@ imageHint: "Vikos Gorge deep canyon landscape",
             },
             {
                   "name": "Upper eastern fort Agia Roumeli",
-                  "text": "A historic fortification located east of Agia Roumeli.",
+                  "text": "Upper eastern fort above Agia Roumeli, guarding the Samaria Gorge entrance.",
                   "category": "castle",
                   "coords": [
                         23.97375,
@@ -1338,7 +1338,7 @@ imageHint: "Mount Pelion lush forest landscape",
             },
             {
                   "name": "Kourouna",
-                  "text": "Bergspitze im Gebirgszug des Psiloritis.",
+                  "text": "Kourouna, ein Gipfel auf dem Berg Ida auf Kreta.",
                   "category": "landmark",
                   "coords": [
                         24.797491,
@@ -1347,7 +1347,7 @@ imageHint: "Mount Pelion lush forest landscape",
             },
             {
                   "name": "Kousakas",
-                  "text": "Berggipfel in der Region des Berges Ida auf Kreta.",
+                  "text": "Kousakas, ein Gipfel auf dem Berg Ida auf Kreta.",
                   "category": "landmark",
                   "coords": [
                         24.809718,
@@ -1356,7 +1356,7 @@ imageHint: "Mount Pelion lush forest landscape",
             },
             {
                   "name": "Ekdora",
-                  "text": "Erhebung im Psiloritis-Gebirge.",
+                  "text": "Ekdora, ein Gipfel auf dem Berg Ida auf Kreta.",
                   "category": "landmark",
                   "coords": [
                         24.790172,
@@ -1365,7 +1365,7 @@ imageHint: "Mount Pelion lush forest landscape",
             },
             {
                   "name": "Seli",
-                  "text": "Aussichtspunkt mit weitem Blick über das Psiloritis-Massiv.",
+                  "text": "Seli-Hochebene auf dem Ida-Gebirge, bekannt für Wildblumen und Ausblicke.",
                   "category": "natural",
                   "coords": [
                         24.789706,
@@ -1374,7 +1374,7 @@ imageHint: "Mount Pelion lush forest landscape",
             },
             {
                   "name": "Akoluta",
-                  "text": "Ort mit schöner Aussicht am Berg Ida.",
+                  "text": "Akolita-Schlucht am Ida-Gebirge mit ganzjährigen Bächen.",
                   "category": "natural",
                   "coords": [
                         24.810463,
@@ -1403,7 +1403,7 @@ imageHint: "Mount Pelion lush forest landscape",
             },
             {
                   "name": "Kourouna",
-                  "text": "Hegycsúcs a Psziloritisz-hegységben.",
+                  "text": "Kourouna, egy csúcs az Ida-hegyen Krétán.",
                   "category": "landmark",
                   "coords": [
                         24.797491,
@@ -1412,7 +1412,7 @@ imageHint: "Mount Pelion lush forest landscape",
             },
             {
                   "name": "Kousakas",
-                  "text": "Hegycsúcs a krétai Ida-hegy régiójában.",
+                  "text": "Kousakas, egy csúcs az Ida-hegyen Krétán.",
                   "category": "landmark",
                   "coords": [
                         24.809718,
@@ -1421,7 +1421,7 @@ imageHint: "Mount Pelion lush forest landscape",
             },
             {
                   "name": "Ekdora",
-                  "text": "Kiemelkedés a Psziloritisz-hegységben.",
+                  "text": "Ekdora, egy csúcs az Ida-hegyen Krétán.",
                   "category": "landmark",
                   "coords": [
                         24.790172,
@@ -1430,7 +1430,7 @@ imageHint: "Mount Pelion lush forest landscape",
             },
             {
                   "name": "Seli",
-                  "text": "Kilátópont széles kilátással a Psziloritisz-masszívumra.",
+                  "text": "Seli fennsík az Ida-hegyen, vadvirágokról és kilátásról híres.",
                   "category": "natural",
                   "coords": [
                         24.789706,
@@ -1439,7 +1439,7 @@ imageHint: "Mount Pelion lush forest landscape",
             },
             {
                   "name": "Akoluta",
-                  "text": "Szép kilátást nyújtó hely az Ida-hegyen.",
+                  "text": "Akolita-szurdok az Ida-hegyen, egész éves patakokkal.",
                   "category": "natural",
                   "coords": [
                         24.810463,
@@ -1468,7 +1468,7 @@ imageHint: "Mount Pelion lush forest landscape",
             },
             {
                   "name": "Kourouna",
-                  "text": "Vârf muntos în lanțul Psiloritis.",
+                  "text": "Kourouna, un vârf pe Muntele Ida din Creta.",
                   "category": "landmark",
                   "coords": [
                         24.797491,
@@ -1477,7 +1477,7 @@ imageHint: "Mount Pelion lush forest landscape",
             },
             {
                   "name": "Kousakas",
-                  "text": "Vârf de munte în regiunea muntelui Ida din Creta.",
+                  "text": "Kousakas, un vârf pe Muntele Ida din Creta.",
                   "category": "landmark",
                   "coords": [
                         24.809718,
@@ -1486,7 +1486,7 @@ imageHint: "Mount Pelion lush forest landscape",
             },
             {
                   "name": "Ekdora",
-                  "text": "O culme în munții Psiloritis.",
+                  "text": "Ekdora, un vârf pe Muntele Ida din Creta.",
                   "category": "landmark",
                   "coords": [
                         24.790172,
@@ -1495,7 +1495,7 @@ imageHint: "Mount Pelion lush forest landscape",
             },
             {
                   "name": "Seli",
-                  "text": "Punct de belvedere cu vedere panoramică asupra masivului Psiloritis.",
+                  "text": "Podisul Seli pe Muntele Ida, cunoscut pentru flori sălbatice și priveliști.",
                   "category": "natural",
                   "coords": [
                         24.789706,
@@ -1504,7 +1504,7 @@ imageHint: "Mount Pelion lush forest landscape",
             },
             {
                   "name": "Akoluta",
-                  "text": "Loc cu o vedere frumoasă pe muntele Ida.",
+                  "text": "Cheile Akolita pe Muntele Ida, cu pâraie permanente.",
                   "category": "natural",
                   "coords": [
                         24.810463,
@@ -1533,7 +1533,7 @@ imageHint: "Mount Pelion lush forest landscape",
             },
             {
                   "name": "Kourouna",
-                  "text": "Mountain peak in the Psiloritis range.",
+                  "text": "Kourouna, a peak on Mount Ida in Crete.",
                   "category": "landmark",
                   "coords": [
                         24.797491,
@@ -1542,7 +1542,7 @@ imageHint: "Mount Pelion lush forest landscape",
             },
             {
                   "name": "Kousakas",
-                  "text": "Mountain peak in the region of Mount Ida in Crete.",
+                  "text": "Kousakas, a peak on Mount Ida in Crete.",
                   "category": "landmark",
                   "coords": [
                         24.809718,
@@ -1551,7 +1551,7 @@ imageHint: "Mount Pelion lush forest landscape",
             },
             {
                   "name": "Ekdora",
-                  "text": "Elevation in the Psiloritis mountains.",
+                  "text": "Ekdora, a peak on Mount Ida in Crete.",
                   "category": "landmark",
                   "coords": [
                         24.790172,
@@ -1560,7 +1560,7 @@ imageHint: "Mount Pelion lush forest landscape",
             },
             {
                   "name": "Seli",
-                  "text": "Viewpoint with a wide view over the Psiloritis massif.",
+                  "text": "Seli high plateau on Mount Ida, known for wildflowers and views.",
                   "category": "natural",
                   "coords": [
                         24.789706,
@@ -1569,7 +1569,7 @@ imageHint: "Mount Pelion lush forest landscape",
             },
             {
                   "name": "Akolita",
-                  "text": "Location with a beautiful view on Mount Ida.",
+                  "text": "Akolita gorge on Mount Ida with perennial streams.",
                   "category": "natural",
                   "coords": [
                         24.810463,
@@ -1957,7 +1957,7 @@ imageHint: "Mount Parnassus snow peaks",
             },
             {
                   "name": "Khalasmeno",
-                  "text": "Halasmeno ist ein schroffer Berggipfel im Taygetos-Gebirge.",
+                  "text": "Halasmeno, ein Gipfel im Taygetos-Gebirge auf der Peloponnes.",
                   "category": "landmark",
                   "coords": [
                         22.321882,
@@ -1966,7 +1966,7 @@ imageHint: "Mount Parnassus snow peaks",
             },
             {
                   "name": "'Gouves' point",
-                  "text": "Der Punkt 'Gouves' ist ein Aussichtspunkt am Taygetos.",
+                  "text": "Gouves Punkt, felsige Landspitze am Taygetos mit Panoramablick.",
                   "category": "natural",
                   "coords": [
                         22.359733,
@@ -1986,7 +1986,7 @@ imageHint: "Mount Parnassus snow peaks",
             },
             {
                   "name": "Khalasmeno",
-                  "text": "A Halasmeno a Tajgetosz-hegység egyik sziklás hegycsúcsa.",
+                  "text": "Halasmeno, egy csúcs a Taigetosz-hegységben a Peloponnészoszon.",
                   "category": "landmark",
                   "coords": [
                         22.321882,
@@ -1995,7 +1995,7 @@ imageHint: "Mount Parnassus snow peaks",
             },
             {
                   "name": "'Gouves' point",
-                  "text": "A 'Gouves' pont egy kilátóhely a Tajgetosz-hegyen.",
+                  "text": "Gouves-fok, sziklás kiszögellés a Taygetoson, panorámás kilátással.",
                   "category": "natural",
                   "coords": [
                         22.359733,
@@ -2015,7 +2015,7 @@ imageHint: "Mount Parnassus snow peaks",
             },
             {
                   "name": "Khalasmeno",
-                  "text": "Halasmeno este un vârf muntos accidentat din lanțul Taygetos.",
+                  "text": "Halasmeno, un vârf pe Muntele Taygetos din Peloponez.",
                   "category": "landmark",
                   "coords": [
                         22.321882,
@@ -2024,7 +2024,7 @@ imageHint: "Mount Parnassus snow peaks",
             },
             {
                   "name": "'Gouves' point",
-                  "text": "Punctul „Gouves” este un punct de observație situat pe Muntele Taygetos.",
+                  "text": "Punctul Gouves, un promontoriu stâncos pe Muntele Taygetos, cu vedere panoramică.",
                   "category": "natural",
                   "coords": [
                         22.359733,
@@ -2044,7 +2044,7 @@ imageHint: "Mount Parnassus snow peaks",
             },
             {
                   "name": "Halasmeno (Taygetos)",
-                  "text": "Halasmeno is a rugged mountain peak in the Mount Taygetos range.",
+                  "text": "Halasmeno, a peak on Mount Taygetos in the Peloponnese.",
                   "category": "landmark",
                   "coords": [
                         22.321882,
@@ -2053,7 +2053,7 @@ imageHint: "Mount Parnassus snow peaks",
             },
             {
                   "name": "'Gouves' point",
-                  "text": "'Gouves' point is a scenic viewpoint located on Mount Taygetos.",
+                  "text": "Gouves point, a rocky promontory on Mount Taygetos with panoramic views.",
                   "category": "natural",
                   "coords": [
                         22.359733,
@@ -2248,7 +2248,7 @@ imageHint: "Nestos River meanders gorge",
       "de": [
             {
                   "name": "Vegoritida Lake Walking Only Beach (Via Vegoritida Apartments Path)",
-                  "text": "Ein ruhiger Strandabschnitt am Vegoritida-See, der nur über einen Fußweg erreichbar ist.",
+                  "text": "Vegoritida-See, nur zu Fuß erreichbarer Strand über einen Pfad von den Apartments.",
                   "category": "recreational",
                   "coords": [
                         21.813594,
@@ -2259,7 +2259,7 @@ imageHint: "Nestos River meanders gorge",
       "hu": [
             {
                   "name": "Vegoritida Lake Walking Only Beach (Via Vegoritida Apartments Path)",
-                  "text": "Csendes strandterület a Vegoritida-tavon, amely csak gyalogúton közelíthető meg.",
+                  "text": "Vegoritida-tó, csak gyalog megközelíthető strand az apartmanok ösvényén.",
                   "category": "recreational",
                   "coords": [
                         21.813594,
@@ -2270,7 +2270,7 @@ imageHint: "Nestos River meanders gorge",
       "ro": [
             {
                   "name": "Vegoritida Lake Walking Only Beach (Via Vegoritida Apartments Path)",
-                  "text": "O zonă de plajă liniștită pe lacul Vegoritida, accesibilă doar printr-o potecă pietonală.",
+                  "text": "Plaja cu acces pietonal a lacului Vegoritida, pe o cărare de la apartamente.",
                   "category": "recreational",
                   "coords": [
                         21.813594,
@@ -2281,7 +2281,7 @@ imageHint: "Nestos River meanders gorge",
       "en": [
             {
                   "name": "Vegoritida Lake Walking Only Beach (Via Vegoritida Apartments Path)",
-                  "text": "A quiet beach area on Lake Vegoritida, accessible only via a walking path.",
+                  "text": "Lake Vegoritida walking-only beach, reached via a path from the apartments.",
                   "category": "recreational",
                   "coords": [
                         21.813594,
@@ -2566,7 +2566,7 @@ imageHint: "Mount Dirfi snow conical peak Evia",
             },
             {
                   "name": "Trapezaki naturist beach",
-                  "text": "Ein abgelegener Strandabschnitt bei Trapezaki, der von Naturisten besucht wird.",
+                  "text": "Trapezaki FKK-Strand am Fuße des Aenos-Gebirges mit Kies und klarem Wasser.",
                   "category": "recreational",
                   "coords": [
                         20.614949,
@@ -2584,7 +2584,7 @@ imageHint: "Mount Dirfi snow conical peak Evia",
             },
             {
                   "name": "Σπαρτιάς",
-                  "text": "Σπαρτιάς ist ein Strand am Fuße des Berges Aenos.",
+                  "text": "Der Spartias auf dem Berg Aenos ist ein Erholungsgebiet mit Wanderwegen durch den Wolkenwald.",
                   "category": "recreational",
                   "coords": [
                         20.575009,
@@ -2593,7 +2593,7 @@ imageHint: "Mount Dirfi snow conical peak Evia",
             },
             {
                   "name": "Νιψιάς",
-                  "text": "Νιψιάς ist ein Küstenstrand am Berg Aenos.",
+                  "text": "Der Nipsias auf dem Berg Aenos bietet einen Picknickplatz inmitten von Kiefernwäldern.",
                   "category": "recreational",
                   "coords": [
                         20.559181,
@@ -2649,7 +2649,7 @@ imageHint: "Mount Dirfi snow conical peak Evia",
             },
             {
                   "name": "Trapezaki naturist beach",
-                  "text": "Félreeső strandrész Trapezaki közelében, amelyet naturisták látogatnak.",
+                  "text": "Trapezaki naturista strand az Aenos-hegy lábánál, kavicsos és tiszta vízű.",
                   "category": "recreational",
                   "coords": [
                         20.614949,
@@ -2667,7 +2667,7 @@ imageHint: "Mount Dirfi snow conical peak Evia",
             },
             {
                   "name": "Σπαρτιάς",
-                  "text": "A Σπαρtiάς egy tengerparti strand az Énosz-hegy közelében.",
+                  "text": "A Spartias a Mount Aenoson egy pihenőhely, felhőerdős túraútvonalakkal.",
                   "category": "recreational",
                   "coords": [
                         20.575009,
@@ -2676,7 +2676,7 @@ imageHint: "Mount Dirfi snow conical peak Evia",
             },
             {
                   "name": "Νιψιάς",
-                  "text": "A Νιψιάς egy tengerparti strand az Énosz-hegy közelében.",
+                  "text": "A Nipsias a Mount Aenoson egy piknikezőhely fenyőerdők között.",
                   "category": "recreational",
                   "coords": [
                         20.559181,
@@ -2732,7 +2732,7 @@ imageHint: "Mount Dirfi snow conical peak Evia",
             },
             {
                   "name": "Trapezaki naturist beach",
-                  "text": "O secțiune de plajă retrasă lângă Trapezaki, frecventată de naturiști.",
+                  "text": "Plaja nudistă Trapezaki la poalele Muntelui Aenos, cu pietriș și apă limpede.",
                   "category": "recreational",
                   "coords": [
                         20.614949,
@@ -2750,7 +2750,7 @@ imageHint: "Mount Dirfi snow conical peak Evia",
             },
             {
                   "name": "Σπαρτιάς",
-                  "text": "Σπαρτιάς este o plajă situată lângă muntele Aenos.",
+                  "text": "Spartias pe Muntele Aenos este o zonă de agrement cu trasee de drumeție prin pădurea de nori.",
                   "category": "recreational",
                   "coords": [
                         20.575009,
@@ -2759,7 +2759,7 @@ imageHint: "Mount Dirfi snow conical peak Evia",
             },
             {
                   "name": "Νιψιάς",
-                  "text": "Νιψιάς este o plajă situată lângă muntele Aenos.",
+                  "text": "Nipsias pe Muntele Aenos oferă un loc de picnic în mijlocul pădurilor de pini.",
                   "category": "recreational",
                   "coords": [
                         20.559181,
@@ -2815,7 +2815,7 @@ imageHint: "Mount Dirfi snow conical peak Evia",
             },
             {
                   "name": "Trapezaki naturist beach",
-                  "text": "A secluded beach section near Trapezaki frequented by naturists.",
+                  "text": "Trapezaki naturist beach at the foot of Mount Aenos with pebbles and clear water.",
                   "category": "recreational",
                   "coords": [
                         20.614949,
@@ -2833,7 +2833,7 @@ imageHint: "Mount Dirfi snow conical peak Evia",
             },
             {
                   "name": "Σπαρτιάς",
-                  "text": "Σπαρtiάς is a beach located near Mount Aenos.",
+                  "text": "Spartias on Mount Aenos is a recreational area with hiking trails through cloud forest.",
                   "category": "recreational",
                   "coords": [
                         20.575009,
@@ -2842,7 +2842,7 @@ imageHint: "Mount Dirfi snow conical peak Evia",
             },
             {
                   "name": "Νιψιάς",
-                  "text": "Νιψιάς is a beach located near Mount Aenos.",
+                  "text": "Nipsias on Mount Aenos is a picnic spot set among pine forests.",
                   "category": "recreational",
                   "coords": [
                         20.559181,
@@ -3605,7 +3605,7 @@ imageHint: "Snowy peak of Mount Mainalo with fir forest",
             },
             {
                   "name": "Maurolimna",
-                  "text": "Ein Aussichtspunkt am Mavrolimna-See im Polylimnio-Gebiet.",
+                  "text": "Die Mavrolimna („Schwarzer See”) ist ein natürlicher Pool in der Polylimnio-Wasserfallkette.",
                   "category": "natural",
                   "coords": [
                         21.850238,
@@ -3623,7 +3623,7 @@ imageHint: "Snowy peak of Mount Mainalo with fir forest",
             },
             {
                   "name": "Panagos",
-                  "text": "Eine Sehenswürdigkeit im Gebiet der Polylimnio-Wasserfälle.",
+                  "text": "Der Panagos ist eine Felsformation an den Polylimnio-Wasserfällen mit Blick auf die Kaskaden.",
                   "category": "landmark",
                   "coords": [
                         21.857293,
@@ -3652,7 +3652,7 @@ imageHint: "Snowy peak of Mount Mainalo with fir forest",
             },
             {
                   "name": "Maurolimna",
-                  "text": "Kilátópont a Polylimnio területén található Mavrolimna-tónál.",
+                  "text": "A Mavrolimna („Fekete-tó”) természetes medence a Polylimnio-vízesések sorában.",
                   "category": "natural",
                   "coords": [
                         21.850238,
@@ -3670,7 +3670,7 @@ imageHint: "Snowy peak of Mount Mainalo with fir forest",
             },
             {
                   "name": "Panagos",
-                  "text": "Látnivaló a Polylimnio-vízesések környékén.",
+                  "text": "A Panagos egy sziklaformáció a Polylimnio-vízeséseknél, rálátással a kaszkádokra.",
                   "category": "landmark",
                   "coords": [
                         21.857293,
@@ -3699,7 +3699,7 @@ imageHint: "Snowy peak of Mount Mainalo with fir forest",
             },
             {
                   "name": "Maurolimna",
-                  "text": "Un punct de observație la lacul Mavrolimna din zona Polylimnio.",
+                  "text": "Mavrolimna („Lacul Negru”) este o piscină naturală în complexul de cascade Polylimnio.",
                   "category": "natural",
                   "coords": [
                         21.850238,
@@ -3717,7 +3717,7 @@ imageHint: "Snowy peak of Mount Mainalo with fir forest",
             },
             {
                   "name": "Panagos",
-                  "text": "O atracție turistică în zona cascadelor Polylimnio.",
+                  "text": "Panagos este o formațiune stâncoasă la Cascadele Polylimnio, cu vedere asupra cascadelor.",
                   "category": "landmark",
                   "coords": [
                         21.857293,
@@ -3746,7 +3746,7 @@ imageHint: "Snowy peak of Mount Mainalo with fir forest",
             },
             {
                   "name": "Mavrolimna",
-                  "text": "A viewpoint at Lake Mavrolimna in the Polylimnio area.",
+                  "text": "Mavrolimna ('Black Lake') is a natural pool in the Polylimnio waterfall complex.",
                   "category": "natural",
                   "coords": [
                         21.850238,
@@ -3764,7 +3764,7 @@ imageHint: "Snowy peak of Mount Mainalo with fir forest",
             },
             {
                   "name": "Panagos",
-                  "text": "A point of interest in the Polylimnio Waterfalls area.",
+                  "text": "Panagos is a rock formation at Polylimnio Waterfalls overlooking the cascades.",
                   "category": "landmark",
                   "coords": [
                         21.857293,
@@ -4101,7 +4101,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
             },
             {
                   "name": "Antisamos Beach Bar",
-                  "text": "Eine beliebte Strandbar am Antisamos-Strand auf Kefalonia.",
+                  "text": "Die Antisamos-Beach-Bar liegt am Strand nahe der Melissani-Höhle und serviert Drinks mit Blick auf den Höhleneingang.",
                   "category": "recreational",
                   "coords": [
                         20.674384,
@@ -4193,7 +4193,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
             },
             {
                   "name": "Antisamos Beach Bar",
-                  "text": "Népszerű strandbár a kefalóniai Antisamos-strandon.",
+                  "text": "Az Antisamos Beach Bar a strand mellett, a Melissani-barlang közelében kínál italokat a barlang bejáratára néző kilátással.",
                   "category": "recreational",
                   "coords": [
                         20.674384,
@@ -4285,7 +4285,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
             },
             {
                   "name": "Antisamos Beach Bar",
-                  "text": "Un bar de plajă popular situat pe plaja Antisamos din Kefalonia.",
+                  "text": "Antisamos Beach Bar este o bar pe plajă lângă Peștera Melissani, servind băuturi cu vedere spre intrarea peșterii.",
                   "category": "recreational",
                   "coords": [
                         20.674384,
@@ -4377,7 +4377,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
             },
             {
                   "name": "Antisamos Beach Bar",
-                  "text": "A popular beach bar located at Antisamos Beach on Kefalonia.",
+                  "text": "Antisamos Beach Bar is a beach bar near Melissani Cave serving drinks with views of the cave entrance.",
                   "category": "recreational",
                   "coords": [
                         20.674384,

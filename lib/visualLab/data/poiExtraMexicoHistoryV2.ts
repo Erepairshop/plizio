@@ -17,7 +17,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Teodoro Cano",
-                  "text": "Das Teodoro Cano ist ein Museum, das dem Künstler Teodoro Cano gewidmet ist, in El Tajín.",
+                  "text": "Ein Museum, das den Werken des Künstlers Teodoro Cano gewidmet ist, in einem Kolonialgebäude in Tajín.",
                   "category": "museum",
                   "coords": [
                         -97.320235,
@@ -26,7 +26,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Edificio de las Columnas",
-                  "text": "Der Edificio de las Columnas ist ein Monument in El Tajín.",
+                  "text": "Ein altes Gebäude mit markanten geschnitzten Säulen aus der Tajín-Kultur in der archäologischen Stätte.",
                   "category": "historical",
                   "coords": [
                         -97.378071,
@@ -35,7 +35,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Edificio I",
-                  "text": "Der Edificio I ist eine Ruine in El Tajín.",
+                  "text": "Eine pyramidenförmige Struktur mit abgestuften Terrassen, Teil der Tajín-Stätte in Veracruz.",
                   "category": "historical",
                   "coords": [
                         -97.377231,
@@ -44,7 +44,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Juego del Pelota Norte",
-                  "text": "Juego del Pelota Norte ist ein nördliches Ballspielplatz-Ruinenfeld in El Tajín.",
+                  "text": "Der nördliche Ballspielplatz in Tajín mit kunstvoll geschnitzten Steinplatten, die das Spiel darstellen.",
                   "category": "historical",
                   "coords": [
                         -97.377227,
@@ -53,7 +53,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Monumento al Volador",
-                  "text": "Monumento al Volador ist ein Denkmal in El Tajín, das den fliegenden Tänzern gewidmet ist.",
+                  "text": "Ein Denkmal für das Volador-Ritual, das einen hohen Pfahl und fliegende Figuren zeigt.",
                   "category": "historical",
                   "coords": [
                         -97.378306,
@@ -62,7 +62,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Parque xanat restaurant",
-                  "text": "Parque xanat restaurant ist ein Restaurant im Park in El Tajín.",
+                  "text": "Ein Restaurant in einem Park, umgeben von tropischen Gärten in der Nähe der Tajín-Stätte.",
                   "category": "landmark",
                   "coords": [
                         -97.328333,
@@ -89,7 +89,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Fuente Danzante",
-                  "text": "Fuente Danzante ist ein Springbrunnen in der archäologischen Zone El Tajín.",
+                  "text": "Ein Springbrunnen mit synchronisierten Wasserstrahlen und Lichtern, der abends tanzt.",
                   "category": "landmark",
                   "coords": [
                         -97.321767,
@@ -118,7 +118,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Teodoro Cano",
-                  "text": "A Teodoro Cano egy múzeum, amely Teodoro Cano művésznek szentelt, El Tajínban.",
+                  "text": "Teodoro Cano művész alkotásainak szentelt múzeum egy gyarmati épületben Tajínban.",
                   "category": "museum",
                   "coords": [
                         -97.320235,
@@ -127,7 +127,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Edificio de las Columnas",
-                  "text": "Az Edificio de las Columnas egy emlékmű El Tajínban.",
+                  "text": "Ősi épület jellegzetes faragott oszlopokkal a tajíni kultúrából a régészeti lelőhelyen.",
                   "category": "historical",
                   "coords": [
                         -97.378071,
@@ -136,7 +136,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Edificio I",
-                  "text": "Az Edificio I egy rom El Tajínban.",
+                  "text": "Piramis alakú építmény lépcsős teraszokkal, a tajíni lelőhely része Veracruzban.",
                   "category": "historical",
                   "coords": [
                         -97.377231,
@@ -145,7 +145,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Juego del Pelota Norte",
-                  "text": "A Juego del Pelota Norte egy északi labdajáték-pálya romja El Tajínban.",
+                  "text": "Az északi labdajáték-pálya Tajínban, művészi faragású kőlapokkal, amelyek a játékot ábrázolják.",
                   "category": "historical",
                   "coords": [
                         -97.377227,
@@ -154,7 +154,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Monumento al Volador",
-                  "text": "A Monumento al Volador egy emlékmű El Tajínban, amely a repülő táncosoknak állít emléket.",
+                  "text": "A Volador-szertartás emlékműve, magas oszloppal és repülő alakokkal.",
                   "category": "historical",
                   "coords": [
                         -97.378306,
@@ -163,7 +163,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Parque xanat restaurant",
-                  "text": "A Parque xanat restaurant egy étterem a parkban El Tajínban.",
+                  "text": "Egy étterem egy parkban, trópusi kertekkel körülvéve a tajíni lelőhely közelében.",
                   "category": "landmark",
                   "coords": [
                         -97.328333,
@@ -190,7 +190,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Fuente Danzante",
-                  "text": "A Fuente Danzante egy szökőkút El Tajín régészeti övezetében.",
+                  "text": "Szökőkút szinkronizált vízsugarakkal és fényekkel, amely este táncol.",
                   "category": "landmark",
                   "coords": [
                         -97.321767,
@@ -219,7 +219,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Teodoro Cano",
-                  "text": "Teodoro Cano este un muzeu dedicat artistului Teodoro Cano în El Tajín.",
+                  "text": "Un muzeu dedicat operelor artistului Teodoro Cano, într-o clădire colonială din Tajín.",
                   "category": "museum",
                   "coords": [
                         -97.320235,
@@ -228,7 +228,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Edificio de las Columnas",
-                  "text": "Edificio de las Columnas este un monument în El Tajín.",
+                  "text": "O clădire antică cu coloane sculptate distinctive din cultura Tajín, la situl arheologic.",
                   "category": "historical",
                   "coords": [
                         -97.378071,
@@ -237,7 +237,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Edificio I",
-                  "text": "Edificio I este o ruină în El Tajín.",
+                  "text": "O structură piramidală cu terase în trepte, parte a sitului Tajín din Veracruz.",
                   "category": "historical",
                   "coords": [
                         -97.377231,
@@ -246,7 +246,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Juego del Pelota Norte",
-                  "text": "Juego del Pelota Norte este un teren de joc cu mingea în ruină, situat la nord în El Tajín.",
+                  "text": "Terenul de joc cu mingea nordic din Tajín, cu plăci de piatră sculptate artistic care înfățișează jocul.",
                   "category": "historical",
                   "coords": [
                         -97.377227,
@@ -255,7 +255,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Monumento al Volador",
-                  "text": "Monumento al Volador este un monument din El Tajín dedicat dansatorilor zburători.",
+                  "text": "Un monument al ritualului Volador, înfățișând un stâlp înalt și figuri zburătoare.",
                   "category": "historical",
                   "coords": [
                         -97.378306,
@@ -264,7 +264,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Parque xanat restaurant",
-                  "text": "Parque xanat restaurant este un restaurant situat în parcul din El Tajín.",
+                  "text": "Un restaurant într-un parc, înconjurat de grădini tropicale, lângă situl Tajín.",
                   "category": "landmark",
                   "coords": [
                         -97.328333,
@@ -291,7 +291,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Fuente Danzante",
-                  "text": "Fuente Danzante este o fântână arteziană în zona arheologică El Tajín.",
+                  "text": "O fântână cu jeturi de apă sincronizate și lumini, care dansează seara.",
                   "category": "landmark",
                   "coords": [
                         -97.321767,
@@ -320,7 +320,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Teodoro Cano",
-                  "text": "Teodoro Cano is a museum dedicated to the artist Teodoro Cano in El Tajín.",
+                  "text": "A museum dedicated to the works of artist Teodoro Cano, housed in a colonial building in Tajín.",
                   "category": "museum",
                   "coords": [
                         -97.320235,
@@ -329,7 +329,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Edificio de las Columnas",
-                  "text": "Edificio de las Columnas is a monument in El Tajín.",
+                  "text": "An ancient building with distinctive carved columns from the Tajín culture at the archaeological site.",
                   "category": "historical",
                   "coords": [
                         -97.378071,
@@ -338,7 +338,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Edificio I",
-                  "text": "Edificio I is a ruin in El Tajín.",
+                  "text": "A pyramidal structure with stepped terraces, part of the Tajín site in Veracruz.",
                   "category": "historical",
                   "coords": [
                         -97.377231,
@@ -347,7 +347,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Juego del Pelota Norte",
-                  "text": "Juego del Pelota Norte is a northern ball court ruin at El Tajín.",
+                  "text": "The northern ball court at Tajín, with intricately carved stone panels depicting the game.",
                   "category": "historical",
                   "coords": [
                         -97.377227,
@@ -356,7 +356,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Monumento al Volador",
-                  "text": "Monumento al Volador is a monument in El Tajín dedicated to the flying dancers.",
+                  "text": "A monument to the Volador ritual, featuring a tall pole and flying figures.",
                   "category": "historical",
                   "coords": [
                         -97.378306,
@@ -365,7 +365,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Parque xanat restaurant",
-                  "text": "Parque xanat restaurant is a restaurant in the park at El Tajín.",
+                  "text": "A restaurant set within a park, surrounded by tropical gardens near the Tajín site.",
                   "category": "landmark",
                   "coords": [
                         -97.328333,
@@ -392,7 +392,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Fuente Danzante",
-                  "text": "Fuente Danzante is a fountain in the El Tajín archaeological zone.",
+                  "text": "A dancing fountain with synchronized water jets and lights in the evening.",
                   "category": "landmark",
                   "coords": [
                         -97.321767,
@@ -460,7 +460,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Path to Monte Alban",
-                  "text": "Ein Weg, der zur archäologischen Stätte Monte Albán führt.",
+                  "text": "Ein mit Stein gepflasterter Weg, der hinauf zur archäologischen Stätte Monte Albán führt.",
                   "category": "landmark",
                   "coords": [
                         -96.763641,
@@ -505,7 +505,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Balneario Santa Maria",
-                  "text": "Ein Wasserpark in der Nähe von Monte Albán.",
+                  "text": "Ein natürliches Schwimmloch mit kühlem Quellwasser, umgeben von schattigen Bäumen in Albán.",
                   "category": "recreational",
                   "coords": [
                         -96.784699,
@@ -514,7 +514,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Plataforma Norte",
-                  "text": "Die Nordplattform-Ruinen in Monte Albán.",
+                  "text": "Eine große Steinplattform auf dem Monte Albán, die für zeremonielle Aufführungen genutzt wurde.",
                   "category": "historical",
                   "coords": [
                         -96.767839,
@@ -523,7 +523,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Tumba 104",
-                  "text": "Grab 104, eine Begräbnisstätte in Monte Albán.",
+                  "text": "Ein Grab mit Wandmalereien, Teil der Nekropole von Monte Albán, reich an vorkolumbischer Kunst.",
                   "category": "historical",
                   "coords": [
                         -96.768647,
@@ -532,7 +532,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Edificio X",
-                  "text": "Gebäude X, eine der Strukturen in Monte Albán.",
+                  "text": "Ein unausgegrabenes Gebäude in Monte Albán, das als steinerner Hügel sichtbar ist.",
                   "category": "historical",
                   "coords": [
                         -96.766459,
@@ -541,7 +541,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Juego de Pelota Chico",
-                  "text": "Ruinen eines kleinen Ballspielplatzes in Monte Albán.",
+                  "text": "Ein kleiner Ballspielplatz in Monte Albán mit steinernen Ringen an den Seiten.",
                   "category": "historical",
                   "coords": [
                         -96.764395,
@@ -559,7 +559,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Juego de Pelota",
-                  "text": "Ruinen eines Ballspielplatzes in Monte Albán.",
+                  "text": "Der Hauptballspielplatz von Monte Albán, einer der größten in Mesoamerika, mit einem I-förmigen Grundriss.",
                   "category": "historical",
                   "coords": [
                         -96.76723,
@@ -604,7 +604,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Templo Sur",
-                  "text": "Templo Sur ist eine Attraktion in Monte Albán.",
+                  "text": "Ein Tempel in Monte Albán, der nach Süden ausgerichtet ist und eine breite Freitreppe besitzt.",
                   "category": "landmark",
                   "coords": [
                         -96.768149,
@@ -615,7 +615,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Path to Monte Alban",
-                  "text": "Egy ösvény, amely a Monte Albán régészeti lelőhelyhez vezet.",
+                  "text": "Kővel kirakott ösvény, amely felvezet a Monte Albán régészeti lelőhelyhez.",
                   "category": "landmark",
                   "coords": [
                         -96.763641,
@@ -660,7 +660,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Balneario Santa Maria",
-                  "text": "Egy vízipark Monte Albán közelében.",
+                  "text": "Természetes fürdőhely hűs forrásvízzel, árnyas fák övezetében Albánban.",
                   "category": "recreational",
                   "coords": [
                         -96.784699,
@@ -669,7 +669,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Plataforma Norte",
-                  "text": "Az északi platform romjai Monte Albánban.",
+                  "text": "Nagy kőplatform Monte Albánban, amelyet ceremoniális előadásokhoz használtak.",
                   "category": "historical",
                   "coords": [
                         -96.767839,
@@ -678,7 +678,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Tumba 104",
-                  "text": "104-es sír, egy temetkezési hely Monte Albánban.",
+                  "text": "Egy sírfülke falfestményekkel, a Monte Albán-i nekropolisz része, gazdag prekolumbiánus művészettel.",
                   "category": "historical",
                   "coords": [
                         -96.768647,
@@ -687,7 +687,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Edificio X",
-                  "text": "X épület, az egyik szerkezet Monte Albánban.",
+                  "text": "Egy kiásatlan épület Monte Albánban, kőhalomként látható.",
                   "category": "historical",
                   "coords": [
                         -96.766459,
@@ -696,7 +696,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Juego de Pelota Chico",
-                  "text": "Egy kis labdajátékpálya romjai Monte Albánban.",
+                  "text": "Egy kis labdajáték-pálya Monte Albánban, kőgyűrűkkel az oldalakon.",
                   "category": "historical",
                   "coords": [
                         -96.764395,
@@ -714,7 +714,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Juego de Pelota",
-                  "text": "Egy labdajátékpálya romjai Monte Albánban.",
+                  "text": "Monte Albán fő labdajáték-pályája, az egyik legnagyobb Mezoamerikában, I-alakú alaprajzzal.",
                   "category": "historical",
                   "coords": [
                         -96.76723,
@@ -759,7 +759,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Templo Sur",
-                  "text": "Templo Sur egy látványosság Monte Albánban.",
+                  "text": "Egy templom Monte Albánban, délre tájolva, széles szabadtéri lépcsővel.",
                   "category": "landmark",
                   "coords": [
                         -96.768149,
@@ -770,7 +770,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Path to Monte Alban",
-                  "text": "Un drum care duce la situl arheologic Monte Albán.",
+                  "text": "Un drum pavat cu piatră care duce în sus spre situl arheologic Monte Albán.",
                   "category": "landmark",
                   "coords": [
                         -96.763641,
@@ -815,7 +815,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Balneario Santa Maria",
-                  "text": "Un parc acvatic lângă Monte Albán.",
+                  "text": "O piscină naturală cu apă de izvor rece, înconjurată de copaci umbroși în Albán.",
                   "category": "recreational",
                   "coords": [
                         -96.784699,
@@ -824,7 +824,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Plataforma Norte",
-                  "text": "Ruinele Platformei de Nord la Monte Albán.",
+                  "text": "O platformă mare de piatră la Monte Albán, folosită pentru spectacole ceremoniale.",
                   "category": "historical",
                   "coords": [
                         -96.767839,
@@ -833,7 +833,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Tumba 104",
-                  "text": "Mormântul 104, o structură funerară la Monte Albán.",
+                  "text": "Un mormânt cu picturi murale, parte a necropolei Monte Albán, bogat în artă precolumbiană.",
                   "category": "historical",
                   "coords": [
                         -96.768647,
@@ -842,7 +842,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Edificio X",
-                  "text": "Clădirea X, una dintre structurile de la Monte Albán.",
+                  "text": "O clădire neexcavată la Monte Albán, vizibilă ca o movilă de piatră.",
                   "category": "historical",
                   "coords": [
                         -96.766459,
@@ -851,7 +851,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Juego de Pelota Chico",
-                  "text": "Ruinele unui teren mic de joc cu mingea la Monte Albán.",
+                  "text": "Un teren mic de joc cu mingea la Monte Albán, cu inele de piatră pe laterale.",
                   "category": "historical",
                   "coords": [
                         -96.764395,
@@ -869,7 +869,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Juego de Pelota",
-                  "text": "Ruinele unui teren de joc cu mingea la Monte Albán.",
+                  "text": "Principalul teren de joc cu mingea de la Monte Albán, unul dintre cele mai mari din Mezoamerica, cu plan în formă de I.",
                   "category": "historical",
                   "coords": [
                         -96.76723,
@@ -914,7 +914,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Templo Sur",
-                  "text": "Templo Sur este o atracție în Monte Albán.",
+                  "text": "Un templu la Monte Albán orientat spre sud, cu o scară largă exterioară.",
                   "category": "landmark",
                   "coords": [
                         -96.768149,
@@ -925,7 +925,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Path to Monte Alban",
-                  "text": "A path leading to the Monte Albán archaeological site.",
+                  "text": "A stone-paved path leading up to the Monte Albán archaeological site.",
                   "category": "landmark",
                   "coords": [
                         -96.763641,
@@ -970,7 +970,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Balneario Santa Maria",
-                  "text": "A water park located near Monte Albán.",
+                  "text": "A natural swimming hole with cool spring water, shaded by trees in Albán.",
                   "category": "recreational",
                   "coords": [
                         -96.784699,
@@ -979,7 +979,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Plataforma Norte",
-                  "text": "The North Platform ruins at Monte Albán.",
+                  "text": "A large stone platform at Monte Albán, used for ceremonial performances.",
                   "category": "historical",
                   "coords": [
                         -96.767839,
@@ -988,7 +988,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Tumba 104",
-                  "text": "Tomb 104, a burial structure at Monte Albán.",
+                  "text": "A burial tomb with murals, part of the Monte Albán necropolis, rich in pre-Columbian art.",
                   "category": "historical",
                   "coords": [
                         -96.768647,
@@ -997,7 +997,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Edificio X",
-                  "text": "Building X, one of the structures at Monte Albán.",
+                  "text": "An unexcavated building at Monte Albán, visible as a stone mound.",
                   "category": "historical",
                   "coords": [
                         -96.766459,
@@ -1006,7 +1006,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Juego de Pelota Chico",
-                  "text": "Small ball court ruins at Monte Albán.",
+                  "text": "A small ball court at Monte Albán, with stone rings on the sides.",
                   "category": "historical",
                   "coords": [
                         -96.764395,
@@ -1024,7 +1024,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Juego de Pelota",
-                  "text": "Ball court ruins at Monte Albán.",
+                  "text": "The main ball court at Monte Albán, one of the largest in Mesoamerica, with an I-shaped layout.",
                   "category": "historical",
                   "coords": [
                         -96.76723,
@@ -1069,7 +1069,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Templo Sur",
-                  "text": "Templo Sur is an attraction in Monte Albán.",
+                  "text": "A temple at Monte Albán oriented to the south, with a broad external staircase.",
                   "category": "landmark",
                   "coords": [
                         -96.768149,
@@ -1220,7 +1220,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Estructura XV",
-                  "text": "Estructura XV sind Ruinen in Calakmul.",
+                  "text": "Eine Pyramidenstruktur im Dschungel von Calakmul, dicht mit Vegetation bedeckt.",
                   "category": "historical",
                   "coords": [
                         -89.812341,
@@ -1229,7 +1229,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Gran Acrópolis / Estructura XX",
-                  "text": "Gran Acrópolis, auch Estructura XX genannt, sind Ruinen einer großen Akropolis in Calakmul.",
+                  "text": "Die Große Akropolis von Calakmul, ein massiver Komplex aus Tempeln und Palästen im Regenwald.",
                   "category": "historical",
                   "coords": [
                         -89.813921,
@@ -1238,7 +1238,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura XIII",
-                  "text": "Estructura XIII sind Ruinen in Calakmul.",
+                  "text": "Ein Tempelpyramide mit einer teilweise restaurierten Fassade in Calakmul.",
                   "category": "historical",
                   "coords": [
                         -89.812586,
@@ -1247,7 +1247,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Muralla",
-                  "text": "Muralla sind Mauerreste in Calakmul.",
+                  "text": "Eine steinerne Verteidigungsmauer, die die antike Stadt Calakmul umgab.",
                   "category": "historical",
                   "coords": [
                         -89.813844,
@@ -1256,7 +1256,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Acrópolis Chik Naab",
-                  "text": "Acrópolis Chik Naab sind Ruinen einer Akropolis in Calakmul.",
+                  "text": "Eine Akropolis mit einem zentralen Platz und mehreren Tempelplattformen in Calakmul.",
                   "category": "historical",
                   "coords": [
                         -89.810601,
@@ -1265,7 +1265,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura VII",
-                  "text": "Estructura VII sind Ruinen in Calakmul.",
+                  "text": "Maya-Pyramide (Struktur VII) in den Calakmul-Ruinen.",
                   "category": "historical",
                   "coords": [
                         -89.810137,
@@ -1274,7 +1274,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Área Residencial Chan Chi'Ich",
-                  "text": "Área Residencial Chan Chi'Ich sind Wohnruinen in Calakmul.",
+                  "text": "Wohngebiet (Chan Chi'Ich) in Calakmul mit Maya-Hausfundamenten.",
                   "category": "historical",
                   "coords": [
                         -89.808628,
@@ -1292,7 +1292,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura GN E1",
-                  "text": "Estructura GN E1 sind Ruinen in Calakmul.",
+                  "text": "Maya-Gebäude (GN E1) in Calakmul, vermutlich ein Zeremonialbau.",
                   "category": "historical",
                   "coords": [
                         -89.803091,
@@ -1301,7 +1301,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura I",
-                  "text": "Estructura I sind Ruinen in Calakmul.",
+                  "text": "Maya-Pyramide (Struktur I) in Calakmul, Teil der zentralen Akropolis.",
                   "category": "historical",
                   "coords": [
                         -89.808477,
@@ -1310,7 +1310,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura III",
-                  "text": "Estructura III sind Ruinen in Calakmul.",
+                  "text": "Maya-Pyramide (Struktur III) in Calakmul, nahe dem Hauptplatz.",
                   "category": "historical",
                   "coords": [
                         -89.809078,
@@ -1319,7 +1319,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura V",
-                  "text": "Estructura V sind Ruinen in Calakmul.",
+                  "text": "Maya-Pyramide (Struktur V) in Calakmul, eine der größeren Strukturen.",
                   "category": "historical",
                   "coords": [
                         -89.810447,
@@ -1330,7 +1330,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Estructura XV",
-                  "text": "Az Estructura XV romok Calakmulban.",
+                  "text": "Piramis építmény Calakmul dzsungelében, sűrű növényzettel borítva.",
                   "category": "historical",
                   "coords": [
                         -89.812341,
@@ -1339,7 +1339,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Gran Acrópolis / Estructura XX",
-                  "text": "A Gran Acrópolis, más néven Estructura XX, egy nagy akropolisz romjai Calakmulban.",
+                  "text": "Calakmul Nagy Akropolisza, egy hatalmas templom- és palotaegyüttes az esőerdőben.",
                   "category": "historical",
                   "coords": [
                         -89.813921,
@@ -1348,7 +1348,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura XIII",
-                  "text": "Az Estructura XIII romok Calakmulban.",
+                  "text": "Templompiramis részben helyreállított homlokzattal Calakmulban.",
                   "category": "historical",
                   "coords": [
                         -89.812586,
@@ -1357,7 +1357,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Muralla",
-                  "text": "A Muralla falromok Calakmulban.",
+                  "text": "Kőből készült védőfal, amely az ókori Calakmul városát övezte.",
                   "category": "historical",
                   "coords": [
                         -89.813844,
@@ -1366,7 +1366,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Acrópolis Chik Naab",
-                  "text": "Az Acrópolis Chik Naab egy akropolisz romjai Calakmulban.",
+                  "text": "Akropolisz központi térrel és több templomplatformmal Calakmulban.",
                   "category": "historical",
                   "coords": [
                         -89.810601,
@@ -1375,7 +1375,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura VII",
-                  "text": "Az Estructura VII romok Calakmulban.",
+                  "text": "Maja piramis (VII. struktúra) a Calakmul romok között.",
                   "category": "historical",
                   "coords": [
                         -89.810137,
@@ -1384,7 +1384,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Área Residencial Chan Chi'Ich",
-                  "text": "Az Área Residencial Chan Chi'Ich lakóromok Calakmulban.",
+                  "text": "Lakóövezet (Chan Chi'Ich) Calakmulban, maja házalapokkal.",
                   "category": "historical",
                   "coords": [
                         -89.808628,
@@ -1402,7 +1402,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura GN E1",
-                  "text": "Az Estructura GN E1 romok Calakmulban.",
+                  "text": "Maja épület (GN E1) Calakmulban, valószínűleg szertartási épület.",
                   "category": "historical",
                   "coords": [
                         -89.803091,
@@ -1411,7 +1411,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura I",
-                  "text": "Az Estructura I romok Calakmulban.",
+                  "text": "Maja piramis (I. struktúra) Calakmulban, a központi akropolisz része.",
                   "category": "historical",
                   "coords": [
                         -89.808477,
@@ -1420,7 +1420,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura III",
-                  "text": "Az Estructura III romok Calakmulban.",
+                  "text": "Maja piramis (III. struktúra) Calakmulban, a főtér közelében.",
                   "category": "historical",
                   "coords": [
                         -89.809078,
@@ -1429,7 +1429,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura V",
-                  "text": "Az Estructura V romok Calakmulban.",
+                  "text": "Maja piramis (V. struktúra) Calakmulban, az egyik nagyobb építmény.",
                   "category": "historical",
                   "coords": [
                         -89.810447,
@@ -1440,7 +1440,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Estructura XV",
-                  "text": "Estructura XV sunt ruine în Calakmul.",
+                  "text": "O structură piramidală în jungla Calakmul, acoperită dens de vegetație.",
                   "category": "historical",
                   "coords": [
                         -89.812341,
@@ -1449,7 +1449,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Gran Acrópolis / Estructura XX",
-                  "text": "Gran Acrópolis, cunoscută și ca Estructura XX, sunt ruinele unei mari acropole în Calakmul.",
+                  "text": "Marea Acropolă din Calakmul, un complex masiv de temple și palate în pădurea tropicală.",
                   "category": "historical",
                   "coords": [
                         -89.813921,
@@ -1458,7 +1458,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura XIII",
-                  "text": "Estructura XIII sunt ruine în Calakmul.",
+                  "text": "O piramidă templu cu o fațadă parțial restaurată în Calakmul.",
                   "category": "historical",
                   "coords": [
                         -89.812586,
@@ -1467,7 +1467,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Muralla",
-                  "text": "Muralla sunt ruine de zid în Calakmul.",
+                  "text": "Un zid de piatră defensiv care înconjura orașul antic Calakmul.",
                   "category": "historical",
                   "coords": [
                         -89.813844,
@@ -1476,7 +1476,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Acrópolis Chik Naab",
-                  "text": "Acrópolis Chik Naab sunt ruinele unei acropole în Calakmul.",
+                  "text": "O acropolă cu o piață centrală și mai multe platforme de temple în Calakmul.",
                   "category": "historical",
                   "coords": [
                         -89.810601,
@@ -1485,7 +1485,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura VII",
-                  "text": "Estructura VII sunt ruine în Calakmul.",
+                  "text": "Piramidă mayașă (Structura VII) în ruinele Calakmul.",
                   "category": "historical",
                   "coords": [
                         -89.810137,
@@ -1494,7 +1494,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Área Residencial Chan Chi'Ich",
-                  "text": "Área Residencial Chan Chi'Ich sunt ruine rezidențiale în Calakmul.",
+                  "text": "Zonă rezidențială (Chan Chi'Ich) în Calakmul, cu fundații de case mayașe.",
                   "category": "historical",
                   "coords": [
                         -89.808628,
@@ -1512,7 +1512,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura GN E1",
-                  "text": "Estructura GN E1 sunt ruine în Calakmul.",
+                  "text": "Clădire mayașă (GN E1) în Calakmul, probabil un edificiu ceremonial.",
                   "category": "historical",
                   "coords": [
                         -89.803091,
@@ -1521,7 +1521,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura I",
-                  "text": "Estructura I sunt ruine în Calakmul.",
+                  "text": "Piramidă mayașă (Structura I) în Calakmul, parte a acropolei centrale.",
                   "category": "historical",
                   "coords": [
                         -89.808477,
@@ -1530,7 +1530,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura III",
-                  "text": "Estructura III sunt ruine în Calakmul.",
+                  "text": "Piramidă mayașă (Structura III) în Calakmul, aproape de piața principală.",
                   "category": "historical",
                   "coords": [
                         -89.809078,
@@ -1539,7 +1539,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura V",
-                  "text": "Estructura V sunt ruine în Calakmul.",
+                  "text": "Piramidă mayașă (Structura V) în Calakmul, una dintre structurile mai mari.",
                   "category": "historical",
                   "coords": [
                         -89.810447,
@@ -1550,7 +1550,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Estructura XV",
-                  "text": "Estructura XV are ruins in Calakmul.",
+                  "text": "A pyramid structure in the Calakmul jungle, densely covered in vegetation.",
                   "category": "historical",
                   "coords": [
                         -89.812341,
@@ -1559,7 +1559,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Gran Acrópolis / Estructura XX",
-                  "text": "Gran Acrópolis, also known as Estructura XX, are ruins of a large acropolis in Calakmul.",
+                  "text": "The Great Acropolis of Calakmul, a massive complex of temples and palaces in the rainforest.",
                   "category": "historical",
                   "coords": [
                         -89.813921,
@@ -1568,7 +1568,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura XIII",
-                  "text": "Estructura XIII are ruins in Calakmul.",
+                  "text": "A temple pyramid with a partially restored façade in Calakmul.",
                   "category": "historical",
                   "coords": [
                         -89.812586,
@@ -1577,7 +1577,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Muralla",
-                  "text": "Muralla are wall ruins in Calakmul.",
+                  "text": "A stone defensive wall that surrounded the ancient city of Calakmul.",
                   "category": "historical",
                   "coords": [
                         -89.813844,
@@ -1586,7 +1586,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Acrópolis Chik Naab",
-                  "text": "Acrópolis Chik Naab are ruins of an acropolis in Calakmul.",
+                  "text": "An acropolis with a central plaza and several temple platforms in Calakmul.",
                   "category": "historical",
                   "coords": [
                         -89.810601,
@@ -1595,7 +1595,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura VII",
-                  "text": "Estructura VII are ruins in Calakmul.",
+                  "text": "Maya pyramid (Structure VII) in the Calakmul ruins.",
                   "category": "historical",
                   "coords": [
                         -89.810137,
@@ -1604,7 +1604,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Área Residencial Chan Chi'Ich",
-                  "text": "Área Residencial Chan Chi'Ich are residential ruins in Calakmul.",
+                  "text": "Residential area (Chan Chi'Ich) in Calakmul, with Maya house foundations.",
                   "category": "historical",
                   "coords": [
                         -89.808628,
@@ -1622,7 +1622,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura GN E1",
-                  "text": "Estructura GN E1 are ruins in Calakmul.",
+                  "text": "Maya structure (GN E1) in Calakmul, probably a ceremonial building.",
                   "category": "historical",
                   "coords": [
                         -89.803091,
@@ -1631,7 +1631,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura I",
-                  "text": "Estructura I are ruins in Calakmul.",
+                  "text": "Maya pyramid (Structure I) in Calakmul, part of the central acropolis.",
                   "category": "historical",
                   "coords": [
                         -89.808477,
@@ -1640,7 +1640,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura III",
-                  "text": "Estructura III are ruins in Calakmul.",
+                  "text": "Maya pyramid (Structure III) in Calakmul, near the main plaza.",
                   "category": "historical",
                   "coords": [
                         -89.809078,
@@ -1649,7 +1649,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura V",
-                  "text": "Estructura V are ruins in Calakmul.",
+                  "text": "Maya pyramid (Structure V) in Calakmul, one of the larger structures.",
                   "category": "historical",
                   "coords": [
                         -89.810447,
@@ -1735,7 +1735,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Altar",
-                  "text": "Altar ist ein Altar an der archäologischen Stätte Cobá.",
+                  "text": "Steinaltar in der archäologischen Stätte Coba, möglicherweise für Rituale genutzt.",
                   "category": "historical",
                   "coords": [
                         -87.73126,
@@ -1744,7 +1744,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Zona Arqueológica \"San Juan de Diós Q. Roo\"",
-                  "text": "Zona Arqueológica 'San Juan de Diós Q. Roo' ist eine archäologische Zone im Gebiet von Cobá.",
+                  "text": "Archäologische Zone 'San Juan de Diós' in Quintana Roo, nahe Coba.",
                   "category": "landmark",
                   "coords": [
                         -87.725587,
@@ -1753,7 +1753,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Nohoch Mul",
-                  "text": "Nohoch Mul ist eine große Pyramide an der archäologischen Stätte Cobá.",
+                  "text": "Nohoch Mul, die höchste Pyramide in Coba, ragt 42 Meter über den Dschungel.",
                   "category": "historical",
                   "coords": [
                         -87.720271,
@@ -1762,7 +1762,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Xaibe",
-                  "text": "Xaibe ist eine Struktur an der archäologischen Stätte Cobá.",
+                  "text": "Xaibe, eine Maya-Struktur in Coba, Teil eines Wohnkomplexes.",
                   "category": "historical",
                   "coords": [
                         -87.721719,
@@ -1780,7 +1780,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura 3",
-                  "text": "Struktur 3 in den Ruinen von Cobá.",
+                  "text": "Maya-Gebäude (Struktur 3) in Coba, nahe dem Ballspielplatz.",
                   "category": "historical",
                   "coords": [
                         -87.725467,
@@ -1789,7 +1789,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura",
-                  "text": "Eine Struktur (Estructura) in den Ruinen von Cobá.",
+                  "text": "Unbenannte Maya-Struktur in Coba, vermutlich eine kleine Plattform.",
                   "category": "historical",
                   "coords": [
                         -87.725991,
@@ -1798,7 +1798,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Juego de pelota",
-                  "text": "Ein Ballspielplatz (Juego de pelota) in den Ruinen von Cobá.",
+                  "text": "Maya-Ballspielplatz in Coba, einer von mehreren auf dem Gelände.",
                   "category": "historical",
                   "coords": [
                         -87.724074,
@@ -1807,7 +1807,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Grupo Macanxoc",
-                  "text": "Die Macanxoc-Gruppe in den Ruinen von Cobá.",
+                  "text": "Gruppe von Stelen und Strukturen (Macanxoc) in Coba, bekannt für gemeißelte Monumente.",
                   "category": "historical",
                   "coords": [
                         -87.72171,
@@ -1845,7 +1845,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Altar",
-                  "text": "Az Altar egy oltár a cobai régészeti lelőhelyen.",
+                  "text": "Kőoltár a Coba régészeti lelőhelyen, valószínűleg rituális célokra.",
                   "category": "historical",
                   "coords": [
                         -87.73126,
@@ -1854,7 +1854,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Zona Arqueológica \"San Juan de Diós Q. Roo\"",
-                  "text": "A Zona Arqueológica 'San Juan de Diós Q. Roo' egy régészeti zóna Cobá területén.",
+                  "text": "San Juan de Diós régészeti övezet Quintana Rooban, Coba közelében.",
                   "category": "landmark",
                   "coords": [
                         -87.725587,
@@ -1863,7 +1863,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Nohoch Mul",
-                  "text": "Nohoch Mul egy nagy piramis a cobai régészeti lelőhelyen.",
+                  "text": "Nohoch Mul, Coba legmagasabb piramisa, 42 méter magas a dzsungel fölött.",
                   "category": "historical",
                   "coords": [
                         -87.720271,
@@ -1872,7 +1872,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Xaibe",
-                  "text": "Xaibe egy építmény a cobai régészeti lelőhelyen.",
+                  "text": "Xaibe, egy maja építmény Cobában, egy lakókomplexum része.",
                   "category": "historical",
                   "coords": [
                         -87.721719,
@@ -1890,7 +1890,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura 3",
-                  "text": "A 3-as szerkezet a cobá-i romok között.",
+                  "text": "Maja épület (3. struktúra) Cobában, a labdajátékpálya közelében.",
                   "category": "historical",
                   "coords": [
                         -87.725467,
@@ -1899,7 +1899,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura",
-                  "text": "Egy szerkezet (Estructura) a cobá-i romok között.",
+                  "text": "Névtelen maja építmény Cobában, valószínűleg egy kis emelvény.",
                   "category": "historical",
                   "coords": [
                         -87.725991,
@@ -1908,7 +1908,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Juego de pelota",
-                  "text": "Egy labdajátékpálya (Juego de pelota) a cobá-i romok között.",
+                  "text": "Maja labdajátékpálya Cobában, az egyik a lelőhelyen.",
                   "category": "historical",
                   "coords": [
                         -87.724074,
@@ -1917,7 +1917,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Grupo Macanxoc",
-                  "text": "A Macanxoc csoport a cobá-i romok között.",
+                  "text": "Sztélék és építmények csoportja (Macanxoc) Cobában, faragott emlékműveiről híres.",
                   "category": "historical",
                   "coords": [
                         -87.72171,
@@ -1955,7 +1955,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Altar",
-                  "text": "Altar este un altar la situl arheologic Cobá.",
+                  "text": "Altar de piatră în situl arheologic Coba, posibil folosit pentru ritualuri.",
                   "category": "historical",
                   "coords": [
                         -87.73126,
@@ -1964,7 +1964,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Zona Arqueológica \"San Juan de Diós Q. Roo\"",
-                  "text": "Zona Arqueológica 'San Juan de Diós Q. Roo' este o zonă arheologică în zona Cobá.",
+                  "text": "Zona arheologică 'San Juan de Diós' în Quintana Roo, lângă Coba.",
                   "category": "landmark",
                   "coords": [
                         -87.725587,
@@ -1973,7 +1973,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Nohoch Mul",
-                  "text": "Nohoch Mul este o piramidă mare la situl arheologic Cobá.",
+                  "text": "Nohoch Mul, cea mai înaltă piramidă din Coba, se înalță 42 de metri deasupra junglei.",
                   "category": "historical",
                   "coords": [
                         -87.720271,
@@ -1982,7 +1982,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Xaibe",
-                  "text": "Xaibe este o structură la situl arheologic Cobá.",
+                  "text": "Xaibe, o structură mayașă în Coba, parte dintr-un complex rezidențial.",
                   "category": "historical",
                   "coords": [
                         -87.721719,
@@ -2000,7 +2000,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura 3",
-                  "text": "Structura 3 în ruinele din Cobá.",
+                  "text": "Clădire mayașă (Structura 3) în Coba, lângă terenul de joc cu mingea.",
                   "category": "historical",
                   "coords": [
                         -87.725467,
@@ -2009,7 +2009,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura",
-                  "text": "O structură (Estructura) în ruinele din Cobá.",
+                  "text": "Structură mayașă fără nume în Coba, probabil o platformă mică.",
                   "category": "historical",
                   "coords": [
                         -87.725991,
@@ -2018,7 +2018,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Juego de pelota",
-                  "text": "Un teren de joc cu mingea (Juego de pelota) în ruinele din Cobá.",
+                  "text": "Teren de joc cu mingea mayaș în Coba, unul dintre mai multe de pe sit.",
                   "category": "historical",
                   "coords": [
                         -87.724074,
@@ -2027,7 +2027,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Grupo Macanxoc",
-                  "text": "Grupul Macanxoc în ruinele din Cobá.",
+                  "text": "Grup de stele și structuri (Macanxoc) în Coba, cunoscut pentru monumente sculptate.",
                   "category": "historical",
                   "coords": [
                         -87.72171,
@@ -2065,7 +2065,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Altar",
-                  "text": "Altar is an altar at the Cobá archaeological site.",
+                  "text": "Stone altar in the Coba archaeological site, possibly used for rituals.",
                   "category": "historical",
                   "coords": [
                         -87.73126,
@@ -2074,7 +2074,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Zona Arqueológica \"San Juan de Diós Q. Roo\"",
-                  "text": "Zona Arqueológica 'San Juan de Diós Q. Roo' is an archaeological zone in the Cobá area.",
+                  "text": "Archaeological zone 'San Juan de Diós' in Quintana Roo, near Coba.",
                   "category": "landmark",
                   "coords": [
                         -87.725587,
@@ -2083,7 +2083,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Nohoch Mul",
-                  "text": "Nohoch Mul is a large pyramid at the Cobá archaeological site.",
+                  "text": "Nohoch Mul, the tallest pyramid in Coba, rising 42 meters above the jungle.",
                   "category": "historical",
                   "coords": [
                         -87.720271,
@@ -2092,7 +2092,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Xaibe",
-                  "text": "Xaibe is a structure at the Cobá archaeological site.",
+                  "text": "Xaibe, a Maya structure in Coba, part of a residential complex.",
                   "category": "historical",
                   "coords": [
                         -87.721719,
@@ -2110,7 +2110,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura 3",
-                  "text": "Structure 3 in the Cobá ruins.",
+                  "text": "Maya building (Structure 3) in Coba, near the ball court.",
                   "category": "historical",
                   "coords": [
                         -87.725467,
@@ -2119,7 +2119,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura",
-                  "text": "A structure (Estructura) in the Cobá ruins.",
+                  "text": "Unnamed Maya structure in Coba, likely a small platform.",
                   "category": "historical",
                   "coords": [
                         -87.725991,
@@ -2128,7 +2128,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Juego de pelota",
-                  "text": "A ball court (Juego de pelota) in the Cobá ruins.",
+                  "text": "Maya ball court in Coba, one of several in the site.",
                   "category": "historical",
                   "coords": [
                         -87.724074,
@@ -2137,7 +2137,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Grupo Macanxoc",
-                  "text": "The Macanxoc Group in the Cobá ruins.",
+                  "text": "Group of stelae and structures (Macanxoc) in Coba, known for carved monuments.",
                   "category": "historical",
                   "coords": [
                         -87.72171,
@@ -2196,7 +2196,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Yaguar Xoo",
-                  "text": "Ein Zoo in Mitla.",
+                  "text": "Erholungsgebiet Yaguar Xoo in Mitla, mit Jaguar-Skulpturen und Grünflächen.",
                   "category": "recreational",
                   "coords": [
                         -96.437361,
@@ -2214,7 +2214,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Grupo de las Columnas",
-                  "text": "Ruinen der Säulengruppe in Mitla.",
+                  "text": "Säulenhalle (Grupo de las Columnas) in Mitla, berühmt für ihre Steinmosaikmuster.",
                   "category": "historical",
                   "coords": [
                         -96.359857,
@@ -2270,7 +2270,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Yaguar Xoo",
-                  "text": "Állatkert Mitlában.",
+                  "text": "Yaguar Xoo pihenőövezet Mitlában, jaguárszobrokkal és zöldterületekkel.",
                   "category": "recreational",
                   "coords": [
                         -96.437361,
@@ -2288,7 +2288,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Grupo de las Columnas",
-                  "text": "Az Oszlopok Csoportjának romjai Mitlában.",
+                  "text": "Oszlopcsarnok (Grupo de las Columnas) Mitlában, híres kőmozaik mintáiról.",
                   "category": "historical",
                   "coords": [
                         -96.359857,
@@ -2344,7 +2344,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Yaguar Xoo",
-                  "text": "O grădină zoologică în Mitla.",
+                  "text": "Zonă recreațională Yaguar Xoo în Mitla, cu sculpturi de jaguar și spații verzi.",
                   "category": "recreational",
                   "coords": [
                         -96.437361,
@@ -2362,7 +2362,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Grupo de las Columnas",
-                  "text": "Ruinele Grupului Coloanelor din Mitla.",
+                  "text": "Sala Coloanelor (Grupo de las Columnas) în Mitla, renumită pentru modelele sale de mozaic de piatră.",
                   "category": "historical",
                   "coords": [
                         -96.359857,
@@ -2418,7 +2418,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Yaguar Xoo",
-                  "text": "A zoo in Mitla.",
+                  "text": "Yaguar Xoo recreational area in Mitla, with jaguar sculptures and green spaces.",
                   "category": "recreational",
                   "coords": [
                         -96.437361,
@@ -2436,7 +2436,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Grupo de las Columnas",
-                  "text": "Ruins of the Group of the Columns at Mitla.",
+                  "text": "Hall of Columns (Grupo de las Columnas) in Mitla, famous for its stone mosaic patterns.",
                   "category": "historical",
                   "coords": [
                         -96.359857,
@@ -2549,7 +2549,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Puerta de Atitalaquia",
-                  "text": "Ein monumentales Tor in Tula.",
+                  "text": "Steintor (Puerta de Atitalaquia) in Tula, ein toltekischer Eingangsbau.",
                   "category": "historical",
                   "coords": [
                         -99.25278,
@@ -2567,7 +2567,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "capilla abierta",
-                  "text": "Ruinen einer offenen Kapelle in Tula.",
+                  "text": "Freiluftkapelle in Tula, ein frühkoloniales religiöses Bauwerk.",
                   "category": "historical",
                   "coords": [
                         -99.338579,
@@ -2585,7 +2585,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Auditorio del Cooperativismo",
-                  "text": "Ein Theater in Tula, das dem Genossenschaftswesen gewidmet ist.",
+                  "text": "Auditorium des Genossenschaftswesens in Tula, eine moderne Kulturstätte.",
                   "category": "cultural",
                   "coords": [
                         -99.323218,
@@ -2594,7 +2594,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Zona de Preservación Ecológica Cerro Lobo",
-                  "text": "Ein Naturschutzgebiet auf dem Cerro Lobo in Tula.",
+                  "text": "Ökologisches Reservat am Cerro Lobo-Hügel in Tula, schützt einheimische Flora und Fauna.",
                   "category": "natural",
                   "coords": [
                         -99.40894,
@@ -2621,7 +2621,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Parque Nacional Tula",
-                  "text": "Ein Nationalpark in Tula mit natürlicher Landschaft.",
+                  "text": "Nationalpark Tula, umfasst die toltekische archäologische Stätte und die umliegende Landschaft.",
                   "category": "natural",
                   "coords": [
                         -99.336989,
@@ -2630,7 +2630,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "La Cantera",
-                  "text": "Ein Wasserpark in Tula namens La Cantera.",
+                  "text": "Erholungsgebiet La Cantera in Tula, ein ehemaliger Steinbruch, der zu einem Park umgestaltet wurde.",
                   "category": "recreational",
                   "coords": [
                         -99.30943,
@@ -2650,7 +2650,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Puerta de Atitalaquia",
-                  "text": "Egy monumentális kapu Tula városában.",
+                  "text": "Kőkapu (Puerta de Atitalaquia) Tulában, egy tolték bejárati építmény.",
                   "category": "historical",
                   "coords": [
                         -99.25278,
@@ -2668,7 +2668,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "capilla abierta",
-                  "text": "Egy nyitott kápolna romjai Tula városában.",
+                  "text": "Szabadtéri kápolna Tulában, egy korai gyarmati vallási építmény.",
                   "category": "historical",
                   "coords": [
                         -99.338579,
@@ -2686,7 +2686,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Auditorio del Cooperativismo",
-                  "text": "Egy színház Tula városában, amely a szövetkezeti mozgalomnak van szentelve.",
+                  "text": "A Szövetkezeti Audiórium Tulában, egy modern kulturális helyszín.",
                   "category": "cultural",
                   "coords": [
                         -99.323218,
@@ -2695,7 +2695,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Zona de Preservación Ecológica Cerro Lobo",
-                  "text": "Egy természetvédelmi terület a Cerro Lobón Tula városában.",
+                  "text": "Ökológiai rezervátum a Cerro Lobo dombon Tulában, védi a helyi növény- és állatvilágot.",
                   "category": "natural",
                   "coords": [
                         -99.40894,
@@ -2722,7 +2722,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Parque Nacional Tula",
-                  "text": "Egy nemzeti park Tula városában természetes tájjal.",
+                  "text": "Tula Nemzeti Park, magában foglalja a tolték régészeti lelőhelyet és a környező tájat.",
                   "category": "natural",
                   "coords": [
                         -99.336989,
@@ -2731,7 +2731,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "La Cantera",
-                  "text": "Egy vízipark Tula városában, La Cantera néven.",
+                  "text": "La Cantera pihenőövezet Tulában, egykori kőfejtőből kialakított park.",
                   "category": "recreational",
                   "coords": [
                         -99.30943,
@@ -2751,7 +2751,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Puerta de Atitalaquia",
-                  "text": "O poartă monumentală în Tula.",
+                  "text": "Poartă de piatră (Puerta de Atitalaquia) în Tula, o structură de intrare toltecă.",
                   "category": "historical",
                   "coords": [
                         -99.25278,
@@ -2769,7 +2769,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "capilla abierta",
-                  "text": "Ruinele unei capele deschise în Tula.",
+                  "text": "Capelă în aer liber în Tula, o structură religioasă colonială timpurie.",
                   "category": "historical",
                   "coords": [
                         -99.338579,
@@ -2787,7 +2787,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Auditorio del Cooperativismo",
-                  "text": "Un teatru în Tula dedicat cooperativismului.",
+                  "text": "Auditoriul Cooperativismului în Tula, un spațiu cultural modern.",
                   "category": "cultural",
                   "coords": [
                         -99.323218,
@@ -2796,7 +2796,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Zona de Preservación Ecológica Cerro Lobo",
-                  "text": "O rezervație naturală pe Cerro Lobo în Tula.",
+                  "text": "Rezervație ecologică pe dealul Cerro Lobo în Tula, protejând flora și fauna locală.",
                   "category": "natural",
                   "coords": [
                         -99.40894,
@@ -2823,7 +2823,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Parque Nacional Tula",
-                  "text": "Un parc național în Tula cu peisaj natural.",
+                  "text": "Parcul Național Tula, cuprinzând situl arheologic toltec și peisajul înconjurător.",
                   "category": "natural",
                   "coords": [
                         -99.336989,
@@ -2832,7 +2832,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "La Cantera",
-                  "text": "Un parc acvatic în Tula numit La Cantera.",
+                  "text": "Zonă recreațională La Cantera în Tula, o fostă carieră transformată în parc.",
                   "category": "recreational",
                   "coords": [
                         -99.30943,
@@ -2852,7 +2852,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Puerta de Atitalaquia",
-                  "text": "A monumental gate in Tula.",
+                  "text": "Stone gateway (Puerta de Atitalaquia) in Tula, a Toltec entrance structure.",
                   "category": "historical",
                   "coords": [
                         -99.25278,
@@ -2870,7 +2870,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "capilla abierta",
-                  "text": "Ruins of an open chapel in Tula.",
+                  "text": "Open-air chapel in Tula, an early colonial religious structure.",
                   "category": "historical",
                   "coords": [
                         -99.338579,
@@ -2888,7 +2888,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Auditorio del Cooperativismo",
-                  "text": "A theatre in Tula dedicated to cooperativism.",
+                  "text": "Auditorium of Cooperativism in Tula, a modern cultural venue.",
                   "category": "cultural",
                   "coords": [
                         -99.323218,
@@ -2897,7 +2897,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Zona de Preservación Ecológica Cerro Lobo",
-                  "text": "A nature reserve on Cerro Lobo in Tula.",
+                  "text": "Ecological reserve on Cerro Lobo hill in Tula, protecting local flora and fauna.",
                   "category": "natural",
                   "coords": [
                         -99.40894,
@@ -2924,7 +2924,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Parque Nacional Tula",
-                  "text": "A national park in Tula offering natural scenery.",
+                  "text": "Tula National Park, encompassing the Toltec archaeological site and surrounding landscape.",
                   "category": "natural",
                   "coords": [
                         -99.336989,
@@ -2933,7 +2933,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "La Cantera",
-                  "text": "A water park in Tula called La Cantera.",
+                  "text": "La Cantera recreational area in Tula, a former quarry turned park.",
                   "category": "recreational",
                   "coords": [
                         -99.30943,
@@ -2992,7 +2992,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Lakan'Ha",
-                  "text": "Ruinen von Lakan'Ha in Bonampak.",
+                  "text": "Lakan'Ha, ein Maya-Gebäude in Bonampak, Teil des Akropolis-Komplexes.",
                   "category": "historical",
                   "coords": [
                         -91.114298,
@@ -3001,7 +3001,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Temple sacrificiel Maya",
-                  "text": "Maya-Opfertempel, ein Monument in Bonampak.",
+                  "text": "Maya-Opfertempel in Bonampak, berühmt für seine lebendigen Wandmalereien, die Kriegshandlungen darstellen.",
                   "category": "historical",
                   "coords": [
                         -91.113238,
@@ -3010,7 +3010,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Monumento Natural Bonampak",
-                  "text": "Naturdenkmal Bonampak, ein Schutzgebiet.",
+                  "text": "Naturdenkmal Bonampak, schützt die archäologische Stätte und den umliegenden Regenwald.",
                   "category": "natural",
                   "coords": [
                         -91.074801,
@@ -3028,7 +3028,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Templo",
-                  "text": "Ruinen eines Tempels in Bonampak.",
+                  "text": "Unbenannter Tempel in Bonampak, wahrscheinlich Teil des Hauptplatzes.",
                   "category": "historical",
                   "coords": [
                         -91.064695,
@@ -3039,7 +3039,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Lakan'Ha",
-                  "text": "Lakan'Ha romjai Bonampakban.",
+                  "text": "Lakan'Ha, egy maja épület Bonampakban, az akropolisz komplexum része.",
                   "category": "historical",
                   "coords": [
                         -91.114298,
@@ -3048,7 +3048,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Temple sacrificiel Maya",
-                  "text": "Maja áldozati templom, emlékmű Bonampakban.",
+                  "text": "Maja áldozati templom Bonampakban, híres élénk falfestményeiről, amelyek háborúkat ábrázolnak.",
                   "category": "historical",
                   "coords": [
                         -91.113238,
@@ -3057,7 +3057,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Monumento Natural Bonampak",
-                  "text": "Bonampak természeti emlékmű, védett terület.",
+                  "text": "Bonampak Természeti Emlékmű, védi a régészeti lelőhelyet és a környező esőerdőt.",
                   "category": "natural",
                   "coords": [
                         -91.074801,
@@ -3075,7 +3075,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Templo",
-                  "text": "Egy templom romjai Bonampakban.",
+                  "text": "Névtelen templom Bonampakban, valószínűleg a főtér része.",
                   "category": "historical",
                   "coords": [
                         -91.064695,
@@ -3086,7 +3086,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Lakan'Ha",
-                  "text": "Ruinele Lakan'Ha din Bonampak.",
+                  "text": "Lakan'Ha, o clădire mayașă în Bonampak, parte a complexului acropolei.",
                   "category": "historical",
                   "coords": [
                         -91.114298,
@@ -3095,7 +3095,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Temple sacrificiel Maya",
-                  "text": "Templu sacrificial mayaș, monument în Bonampak.",
+                  "text": "Templu mayaș de sacrificiu în Bonampak, faimos pentru picturile murale vii care înfățișează război.",
                   "category": "historical",
                   "coords": [
                         -91.113238,
@@ -3104,7 +3104,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Monumento Natural Bonampak",
-                  "text": "Monumentul natural Bonampak, o arie protejată.",
+                  "text": "Monumentul Natural Bonampak, protejând situl arheologic și pădurea tropicală înconjurătoare.",
                   "category": "natural",
                   "coords": [
                         -91.074801,
@@ -3122,7 +3122,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Templo",
-                  "text": "Ruinele unui templu din Bonampak.",
+                  "text": "Templu fără nume în Bonampak, probabil parte a pieței principale.",
                   "category": "historical",
                   "coords": [
                         -91.064695,
@@ -3133,7 +3133,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Lakan'Ha",
-                  "text": "Ruins of Lakan'Ha in Bonampak.",
+                  "text": "Lakan'Ha, a Maya building in Bonampak, part of the acropolis complex.",
                   "category": "historical",
                   "coords": [
                         -91.114298,
@@ -3142,7 +3142,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Temple sacrificiel Maya",
-                  "text": "Maya sacrificial temple, a monument in Bonampak.",
+                  "text": "Maya sacrificial temple in Bonampak, famous for its vivid murals depicting warfare.",
                   "category": "historical",
                   "coords": [
                         -91.113238,
@@ -3151,7 +3151,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Monumento Natural Bonampak",
-                  "text": "Natural monument of Bonampak, a protected area.",
+                  "text": "Bonampak Natural Monument, protecting the archaeological site and surrounding rainforest.",
                   "category": "natural",
                   "coords": [
                         -91.074801,
@@ -3169,7 +3169,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Templo",
-                  "text": "Ruins of a temple in Bonampak.",
+                  "text": "Unnamed temple in Bonampak, likely part of the main plaza.",
                   "category": "historical",
                   "coords": [
                         -91.064695,
@@ -3237,7 +3237,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Pequeña Acrópolis",
-                  "text": "Ruinen der Kleinen Akropolis in Yaxchilán.",
+                  "text": "Kleine Akropolis in Yaxchilan, mit Blick auf den Usumacinta-Fluss.",
                   "category": "historical",
                   "coords": [
                         -90.967095,
@@ -3246,7 +3246,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "La Gran Plaza",
-                  "text": "Ruinen der Großen Plaza in Yaxchilán.",
+                  "text": "Großer Platz in Yaxchilan, gesäumt von Tempeln und Stelen mit hieroglyphischen Texten.",
                   "category": "historical",
                   "coords": [
                         -90.963889,
@@ -3255,7 +3255,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Edificio 39",
-                  "text": "Ruinen von Gebäude 39 in Yaxchilán.",
+                  "text": "Gebäude 39 in Yaxchilan, eine Palaststruktur mit geschnitzten Türstürzen.",
                   "category": "historical",
                   "coords": [
                         -90.966676,
@@ -3264,7 +3264,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Edificio 17",
-                  "text": "Ruinen von Gebäude 17 in Yaxchilán.",
+                  "text": "Gebäude 17 in Yaxchilan, eine Wohn- oder Verwaltungsstruktur.",
                   "category": "historical",
                   "coords": [
                         -90.965225,
@@ -3273,7 +3273,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Edificio 33",
-                  "text": "Ruinen von Gebäude 33 in Yaxchilán.",
+                  "text": "Gebäude 33 in Yaxchilan, berühmt für seine gut erhaltenen gemeißelten Steintürstürze.",
                   "category": "historical",
                   "coords": [
                         -90.964791,
@@ -3282,7 +3282,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Monumento Natural Yaxchilán",
-                  "text": "Naturdenkmal Yaxchilán, ein Schutzgebiet.",
+                  "text": "Naturdenkmal Yaxchilán, schützt die Maya-Ruinen und den Auenwald.",
                   "category": "natural",
                   "coords": [
                         -90.981818,
@@ -3302,7 +3302,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Pequeña Acrópolis",
-                  "text": "A Kis Akropolisz romjai Yaxchilánban.",
+                  "text": "Kis akropolisz Yaxchilanban, az Usumacinta folyóra néz.",
                   "category": "historical",
                   "coords": [
                         -90.967095,
@@ -3311,7 +3311,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "La Gran Plaza",
-                  "text": "A Nagy Pláza romjai Yaxchilánban.",
+                  "text": "Nagy tér Yaxchilanban, templomok és hieroglifikus szövegekkel ellátott sztélék szegélyezik.",
                   "category": "historical",
                   "coords": [
                         -90.963889,
@@ -3320,7 +3320,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Edificio 39",
-                  "text": "A 39-es épület romjai Yaxchilánban.",
+                  "text": "39. épület Yaxchilanban, egy palotaépítmény faragott szemöldökgerendákkal.",
                   "category": "historical",
                   "coords": [
                         -90.966676,
@@ -3329,7 +3329,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Edificio 17",
-                  "text": "A 17-es épület romjai Yaxchilánban.",
+                  "text": "17. épület Yaxchilanban, egy lakó- vagy adminisztratív építmény.",
                   "category": "historical",
                   "coords": [
                         -90.965225,
@@ -3338,7 +3338,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Edificio 33",
-                  "text": "A 33-as épület romjai Yaxchilánban.",
+                  "text": "33. épület Yaxchilanban, híres jól megőrzött faragott kő szemöldökgerendáiról.",
                   "category": "historical",
                   "coords": [
                         -90.964791,
@@ -3347,7 +3347,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Monumento Natural Yaxchilán",
-                  "text": "Yaxchilán természeti emlékmű, védett terület.",
+                  "text": "Yaxchilán Természeti Emlékmű, védi a maja romokat és az ártéri erdőt.",
                   "category": "natural",
                   "coords": [
                         -90.981818,
@@ -3367,7 +3367,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Pequeña Acrópolis",
-                  "text": "Ruinele Acropolei Mici din Yaxchilán.",
+                  "text": "Acropolă mică în Yaxchilan, cu vedere spre râul Usumacinta.",
                   "category": "historical",
                   "coords": [
                         -90.967095,
@@ -3376,7 +3376,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "La Gran Plaza",
-                  "text": "Ruinele Pieței Mari din Yaxchilán.",
+                  "text": "Piața Mare din Yaxchilan, înconjurată de temple și stele cu texte hieroglifice.",
                   "category": "historical",
                   "coords": [
                         -90.963889,
@@ -3385,7 +3385,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Edificio 39",
-                  "text": "Ruinele Clădirii 39 din Yaxchilán.",
+                  "text": "Clădirea 39 din Yaxchilan, o structură de palat cu linteluri sculptate.",
                   "category": "historical",
                   "coords": [
                         -90.966676,
@@ -3394,7 +3394,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Edificio 17",
-                  "text": "Ruinele Clădirii 17 din Yaxchilán.",
+                  "text": "Clădirea 17 din Yaxchilan, o structură rezidențială sau administrativă.",
                   "category": "historical",
                   "coords": [
                         -90.965225,
@@ -3403,7 +3403,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Edificio 33",
-                  "text": "Ruinele Clădirii 33 din Yaxchilán.",
+                  "text": "Clădirea 33 din Yaxchilan, renumită pentru lintelurile sale de piatră sculptate bine conservate.",
                   "category": "historical",
                   "coords": [
                         -90.964791,
@@ -3412,7 +3412,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Monumento Natural Yaxchilán",
-                  "text": "Monumentul natural Yaxchilán, o arie protejată.",
+                  "text": "Monumentul Natural Yaxchilán, protejând ruinele mayașe și pădurea riverană.",
                   "category": "natural",
                   "coords": [
                         -90.981818,
@@ -3432,7 +3432,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Pequeña Acrópolis",
-                  "text": "Ruins of the Small Acropolis in Yaxchilán.",
+                  "text": "Small acropolis in Yaxchilan, overlooking the Usumacinta River.",
                   "category": "historical",
                   "coords": [
                         -90.967095,
@@ -3441,7 +3441,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "La Gran Plaza",
-                  "text": "Ruins of the Great Plaza in Yaxchilán.",
+                  "text": "Great Plaza in Yaxchilan, bordered by temples and stelae with hieroglyphic texts.",
                   "category": "historical",
                   "coords": [
                         -90.963889,
@@ -3450,7 +3450,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Edificio 39",
-                  "text": "Ruins of Building 39 in Yaxchilán.",
+                  "text": "Building 39 in Yaxchilan, a palace structure with carved lintels.",
                   "category": "historical",
                   "coords": [
                         -90.966676,
@@ -3459,7 +3459,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Edificio 17",
-                  "text": "Ruins of Building 17 in Yaxchilán.",
+                  "text": "Building 17 in Yaxchilan, a residential or administrative structure.",
                   "category": "historical",
                   "coords": [
                         -90.965225,
@@ -3468,7 +3468,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Edificio 33",
-                  "text": "Ruins of Building 33 in Yaxchilán.",
+                  "text": "Building 33 in Yaxchilan, famous for its well-preserved carved stone lintels.",
                   "category": "historical",
                   "coords": [
                         -90.964791,
@@ -3477,7 +3477,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Monumento Natural Yaxchilán",
-                  "text": "Natural monument of Yaxchilán, a protected area.",
+                  "text": "Yaxchilán Natural Monument, protecting the Maya ruins and riverine forest.",
                   "category": "natural",
                   "coords": [
                         -90.981818,
@@ -3536,7 +3536,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Xochi",
-                  "text": "Xochixaclo ist eine Attraktion in der Region Xochicalco.",
+                  "text": "Xochixaclo, ein Wahrzeichen in Xochicalco, möglicherweise eine Plattform oder ein Altar.",
                   "category": "landmark",
                   "coords": [
                         -99.295862,
@@ -3545,7 +3545,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Zona Arqueológica de Xochicalco",
-                  "text": "Die Archeological Site of Xochicalco sind die Ruinen der antiken Stadt Xochicalco.",
+                  "text": "Archäologische Stätte Xochicalco, eine befestigte Hügelstadt aus der epiklassischen Periode.",
                   "category": "historical",
                   "coords": [
                         -99.29471,
@@ -3554,7 +3554,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo del Sitio de Xochicalco",
-                  "text": "Das Museo del Sitio de Xochicalco ist das Museum vor Ort in Xochicalco.",
+                  "text": "Museum der Stätte Xochicalco, zeigt Artefakte aus den Ruinen, darunter die berühmte geschnitzte Pyramide.",
                   "category": "museum",
                   "coords": [
                         -99.290992,
@@ -3563,7 +3563,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Palo Bolero",
-                  "text": "Palo Bolero ist ein Wasserpark in der Region Xochicalco.",
+                  "text": "Erholungsgebiet Palo Bolero in Xochicalco, benannt nach einer lokalen Baumart.",
                   "category": "recreational",
                   "coords": [
                         -99.238681,
@@ -3572,7 +3572,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Jardín Real",
-                  "text": "Der Jardín Real ist eine Attraktion in der Region Xochicalco.",
+                  "text": "Königlicher Garten in Xochicalco, Teil des Palastkomplexes mit terrassierten Bereichen.",
                   "category": "landmark",
                   "coords": [
                         -99.255203,
@@ -3581,7 +3581,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Palacio",
-                  "text": "Der Palacio sind Ruinen eines Palastes in Xochicalco.",
+                  "text": "Palast in Xochicalco, ein großes Gebäude mit Säulen und Innenhöfen.",
                   "category": "historical",
                   "coords": [
                         -99.298856,
@@ -3590,7 +3590,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura E",
-                  "text": "Die Estructura E sind Ruinen einer Struktur in Xochicalco.",
+                  "text": "Struktur E in Xochicalco, Teil der Observatoriumsgruppe, auf astronomische Ereignisse ausgerichtet.",
                   "category": "historical",
                   "coords": [
                         -99.296313,
@@ -3599,7 +3599,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Cerro de la Bodega",
-                  "text": "Der Cerro de la Bodega sind Ruinen auf einem Hügel in Xochicalco.",
+                  "text": "Cerro de la Bodega-Hügel in Xochicalco, mit prähispanischen Strukturen auf seinem Gipfel.",
                   "category": "historical",
                   "coords": [
                         -99.291446,
@@ -3608,7 +3608,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Juego de Pelota Norte",
-                  "text": "Der Juego de Pelota Norte sind Ruinen eines nördlichen Ballspielplatzes in Xochicalco.",
+                  "text": "Nördlicher Ballspielplatz von Xochicalco, genutzt für das mesoamerikanische Ballspiel.",
                   "category": "historical",
                   "coords": [
                         -99.296354,
@@ -3617,7 +3617,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Acrópolis",
-                  "text": "Die Acrópolis sind Ruinen der Akropolis in Xochicalco.",
+                  "text": "Hauptakropolis von Xochicalco, auf einem terrassierten Hügel mit Tempeln und Palästen.",
                   "category": "historical",
                   "coords": [
                         -99.297363,
@@ -3626,7 +3626,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "La Parota",
-                  "text": "La Parota ist eine archäologische Stätte in der Region Xochicalco.",
+                  "text": "La Parota, ein prähispanisches Bauwerk im Komplex von Xochicalco.",
                   "category": "historical",
                   "coords": [
                         -99.267224,
@@ -3635,7 +3635,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Parque Acuatico \"Ojo de Agua\"",
-                  "text": "Der Parque Acuatico \"Ojo de Agua\" ist ein Wasserpark in der Region Xochicalco.",
+                  "text": "Quellgespeister Wasserpark in Xochicalco mit natürlichen Becken aus einer unterirdischen Quelle.",
                   "category": "landmark",
                   "coords": [
                         -99.229566,
@@ -3644,7 +3644,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Xochitepequense",
-                  "text": "Das Centro Cultural Xochitepequense ist ein Museum in der Region Xochicalco.",
+                  "text": "Kulturzentrum in Xochitepec nahe Xochicalco, das lokale Traditionen präsentiert.",
                   "category": "museum",
                   "coords": [
                         -99.229493,
@@ -3653,7 +3653,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Zona Arqueológica de Coatetelco",
-                  "text": "Die Zona Arqueológica de Coatetelco ist eine archäologische Stätte in der Region Xochicalco.",
+                  "text": "Archäologische Zone von Coatetelco mit prähispanischen Bauten und einer Lagune.",
                   "category": "historical",
                   "coords": [
                         -99.325935,
@@ -3664,7 +3664,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Xochi",
-                  "text": "Xochixaclo egy látványosság a Xochicalco régióban.",
+                  "text": "Xochixaclo, egy nevezetesség Xochicalcóban, valószínűleg egy emelvény vagy oltár.",
                   "category": "landmark",
                   "coords": [
                         -99.295862,
@@ -3673,7 +3673,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Zona Arqueológica de Xochicalco",
-                  "text": "Az Archeological Site of Xochicalco az ősi Xochicalco város romjai.",
+                  "text": "Xochicalco régészeti lelőhely, egy dombtetőn fekvő erődített város az epiklasszikus korból.",
                   "category": "historical",
                   "coords": [
                         -99.29471,
@@ -3682,7 +3682,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo del Sitio de Xochicalco",
-                  "text": "A Museo del Sitio de Xochicalco a helyszíni múzeum Xochicalcóban.",
+                  "text": "Xochicalco helyszíni múzeuma, a romokból származó tárgyakat mutat be, köztük a híres faragott piramist.",
                   "category": "museum",
                   "coords": [
                         -99.290992,
@@ -3691,7 +3691,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Palo Bolero",
-                  "text": "Palo Bolero egy vízipark a Xochicalco régióban.",
+                  "text": "Palo Bolero pihenőövezet Xochicalcóban, egy helyi fafajról elnevezve.",
                   "category": "recreational",
                   "coords": [
                         -99.238681,
@@ -3700,7 +3700,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Jardín Real",
-                  "text": "A Jardín Real egy látványosság a Xochicalco régióban.",
+                  "text": "Királyi kert Xochicalcóban, a palotakomplexum része teraszos területekkel.",
                   "category": "landmark",
                   "coords": [
                         -99.255203,
@@ -3709,7 +3709,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Palacio",
-                  "text": "A Palacio egy palota romjai Xochicalcóban.",
+                  "text": "Palota Xochicalcóban, egy nagy épület oszlopokkal és udvarokkal.",
                   "category": "historical",
                   "coords": [
                         -99.298856,
@@ -3718,7 +3718,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura E",
-                  "text": "Az Estructura E egy építmény romjai Xochicalcóban.",
+                  "text": "E struktúra Xochicalcóban, a csillagvizsgáló csoport része, csillagászati eseményekhez igazítva.",
                   "category": "historical",
                   "coords": [
                         -99.296313,
@@ -3727,7 +3727,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Cerro de la Bodega",
-                  "text": "A Cerro de la Bodega egy dombon lévő romok Xochicalcóban.",
+                  "text": "Cerro de la Bodega domb Xochicalcóban, prehispán építményekkel a csúcsán.",
                   "category": "historical",
                   "coords": [
                         -99.291446,
@@ -3736,7 +3736,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Juego de Pelota Norte",
-                  "text": "A Juego de Pelota Norte egy északi labdajáték-pálya romjai Xochicalcóban.",
+                  "text": "Xochicalco északi labdajátéka, a mezoamerikai labdajáték helyszíne.",
                   "category": "historical",
                   "coords": [
                         -99.296354,
@@ -3745,7 +3745,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Acrópolis",
-                  "text": "Az Acrópolis az akropolisz romjai Xochicalcóban.",
+                  "text": "Xochicalco fő akropolisza, templomokkal és palotákkal egy teraszos dombon.",
                   "category": "historical",
                   "coords": [
                         -99.297363,
@@ -3754,7 +3754,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "La Parota",
-                  "text": "La Parota egy régészeti lelőhely a Xochicalco régióban.",
+                  "text": "La Parota, egy spanyol előtti építmény Xochicalco komplexumában.",
                   "category": "historical",
                   "coords": [
                         -99.267224,
@@ -3763,7 +3763,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Parque Acuatico \"Ojo de Agua\"",
-                  "text": "A Parque Acuatico \"Ojo de Agua\" egy vízipark a Xochicalco régióban.",
+                  "text": "Forrás által táplált vízipark Xochicalco-ban, természetes medencékkel egy földalatti forrásból.",
                   "category": "landmark",
                   "coords": [
                         -99.229566,
@@ -3772,7 +3772,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Xochitepequense",
-                  "text": "A Centro Cultural Xochitepequense egy múzeum a Xochicalco régióban.",
+                  "text": "Xochitepec-i kulturális központ Xochicalco közelében, helyi hagyományokat bemutatva.",
                   "category": "museum",
                   "coords": [
                         -99.229493,
@@ -3781,7 +3781,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Zona Arqueológica de Coatetelco",
-                  "text": "A Zona Arqueológica de Coatetelco egy régészeti lelőhely a Xochicalco régióban.",
+                  "text": "Coatetelco régészeti övezete spanyol előtti építményekkel és egy lagúnával.",
                   "category": "historical",
                   "coords": [
                         -99.325935,
@@ -3792,7 +3792,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Xochi",
-                  "text": "Xochixaclo este o atracție în regiunea Xochicalco.",
+                  "text": "Xochixaclo, o structură de reper în Xochicalco, posibil o platformă sau un altar.",
                   "category": "landmark",
                   "coords": [
                         -99.295862,
@@ -3801,7 +3801,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Zona Arqueológica de Xochicalco",
-                  "text": "Archeological Site of Xochicalco este ruina orașului antic Xochicalco.",
+                  "text": "Situl arheologic Xochicalco, un oraș fortificat pe vârf de deal din perioada epiclasică.",
                   "category": "historical",
                   "coords": [
                         -99.29471,
@@ -3810,7 +3810,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo del Sitio de Xochicalco",
-                  "text": "Museo del Sitio de Xochicalco este muzeul de sit din Xochicalco.",
+                  "text": "Muzeul sitului Xochicalco, expunând artefacte din ruine, inclusiv celebra piramidă sculptată.",
                   "category": "museum",
                   "coords": [
                         -99.290992,
@@ -3819,7 +3819,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Palo Bolero",
-                  "text": "Palo Bolero este un parc acvatic în regiunea Xochicalco.",
+                  "text": "Zonă recreațională Palo Bolero în Xochicalco, numită după o specie locală de copac.",
                   "category": "recreational",
                   "coords": [
                         -99.238681,
@@ -3828,7 +3828,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Jardín Real",
-                  "text": "Jardín Real este o atracție în regiunea Xochicalco.",
+                  "text": "Grădina Regală din Xochicalco, parte a complexului palatului cu zone terasate.",
                   "category": "landmark",
                   "coords": [
                         -99.255203,
@@ -3837,7 +3837,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Palacio",
-                  "text": "Palacio este ruina unui palat în Xochicalco.",
+                  "text": "Palat în Xochicalco, o structură mare cu coloane și curți.",
                   "category": "historical",
                   "coords": [
                         -99.298856,
@@ -3846,7 +3846,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura E",
-                  "text": "Estructura E este ruina unei structuri în Xochicalco.",
+                  "text": "Structura E în Xochicalco, parte a grupului observatorului, aliniată cu evenimente astronomice.",
                   "category": "historical",
                   "coords": [
                         -99.296313,
@@ -3855,7 +3855,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Cerro de la Bodega",
-                  "text": "Cerro de la Bodega este o ruină pe un deal în Xochicalco.",
+                  "text": "Dealul Cerro de la Bodega în Xochicalco, cu structuri prehispanice pe vârf.",
                   "category": "historical",
                   "coords": [
                         -99.291446,
@@ -3864,7 +3864,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Juego de Pelota Norte",
-                  "text": "Juego de Pelota Norte este ruina unui teren de joc cu mingea nordic în Xochicalco.",
+                  "text": "Terenul de joc cu mingea nordic din Xochicalco, utilizat pentru jocul cu mingea mezoamerican.",
                   "category": "historical",
                   "coords": [
                         -99.296354,
@@ -3873,7 +3873,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Acrópolis",
-                  "text": "Acrópolis este ruina acropolei în Xochicalco.",
+                  "text": "Acropola principală a Xochicalco, cu temple și palate pe un deal terasat.",
                   "category": "historical",
                   "coords": [
                         -99.297363,
@@ -3882,7 +3882,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "La Parota",
-                  "text": "La Parota este un sit arheologic în regiunea Xochicalco.",
+                  "text": "La Parota, o structură prehispanică în complexul Xochicalco.",
                   "category": "historical",
                   "coords": [
                         -99.267224,
@@ -3891,7 +3891,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Parque Acuatico \"Ojo de Agua\"",
-                  "text": "Parque Acuatico \"Ojo de Agua\" este un parc acvatic în regiunea Xochicalco.",
+                  "text": "Parcul acvatic alimentat de izvor din Xochicalco, cu bazine naturale dintr-un izvor subteran.",
                   "category": "landmark",
                   "coords": [
                         -99.229566,
@@ -3900,7 +3900,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Xochitepequense",
-                  "text": "Centro Cultural Xochitepequense este un muzeu în regiunea Xochicalco.",
+                  "text": "Centrul cultural din Xochitepec, lângă Xochicalco, care prezintă tradițiile locale.",
                   "category": "museum",
                   "coords": [
                         -99.229493,
@@ -3909,7 +3909,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Zona Arqueológica de Coatetelco",
-                  "text": "Zona Arqueológica de Coatetelco este un sit arheologic în regiunea Xochicalco.",
+                  "text": "Zona arheologică Coatetelco, cu structuri prehispanice și o lagună.",
                   "category": "historical",
                   "coords": [
                         -99.325935,
@@ -3920,7 +3920,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Xochixaclo",
-                  "text": "Xochixaclo is an attraction in the Xochicalco region.",
+                  "text": "Xochixaclo, a landmark structure in Xochicalco, possibly a platform or altar.",
                   "category": "landmark",
                   "coords": [
                         -99.295862,
@@ -3929,7 +3929,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Archeological Site of Xochicalco",
-                  "text": "Archeological Site of Xochicalco is the ruin of the ancient city of Xochicalco.",
+                  "text": "Xochicalco archaeological site, a hilltop fortified city from the Epiclassic period.",
                   "category": "historical",
                   "coords": [
                         -99.29471,
@@ -3938,7 +3938,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo del Sitio de Xochicalco",
-                  "text": "Museo del Sitio de Xochicalco is the site museum in Xochicalco.",
+                  "text": "Site museum of Xochicalco, displaying artifacts from the ruins including the famous carved pyramid.",
                   "category": "museum",
                   "coords": [
                         -99.290992,
@@ -3947,7 +3947,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Palo Bolero",
-                  "text": "Palo Bolero is a water park in the Xochicalco region.",
+                  "text": "Palo Bolero recreational area in Xochicalco, named after a local tree species.",
                   "category": "recreational",
                   "coords": [
                         -99.238681,
@@ -3956,7 +3956,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Jardín Real",
-                  "text": "Jardín Real is an attraction in the Xochicalco region.",
+                  "text": "Royal Garden in Xochicalco, part of the palace complex with terraced areas.",
                   "category": "landmark",
                   "coords": [
                         -99.255203,
@@ -3965,7 +3965,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Palacio",
-                  "text": "Palacio is the ruin of a palace in Xochicalco.",
+                  "text": "Palace in Xochicalco, a large structure with columns and courtyards.",
                   "category": "historical",
                   "coords": [
                         -99.298856,
@@ -3974,7 +3974,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura E",
-                  "text": "Estructura E is the ruin of a structure in Xochicalco.",
+                  "text": "Structure E in Xochicalco, part of the observatory group, aligned with astronomical events.",
                   "category": "historical",
                   "coords": [
                         -99.296313,
@@ -3983,7 +3983,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Cerro de la Bodega",
-                  "text": "Cerro de la Bodega is a ruin on a hill in Xochicalco.",
+                  "text": "Cerro de la Bodega hill in Xochicalco, with pre-Hispanic structures on its summit.",
                   "category": "historical",
                   "coords": [
                         -99.291446,
@@ -3992,7 +3992,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Juego de Pelota Norte",
-                  "text": "Juego de Pelota Norte is the ruin of a northern ball court in Xochicalco.",
+                  "text": "Northern ball court of the Xochicalco archaeological site, used for the Mesoamerican ballgame.",
                   "category": "historical",
                   "coords": [
                         -99.296354,
@@ -4001,7 +4001,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Acrópolis",
-                  "text": "Acrópolis is the ruin of the acropolis in Xochicalco.",
+                  "text": "Main acropolis of Xochicalco, housing temples and palaces on a terraced hill.",
                   "category": "historical",
                   "coords": [
                         -99.297363,
@@ -4010,7 +4010,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "La Parota",
-                  "text": "La Parota is an archaeological site in the Xochicalco region.",
+                  "text": "La Parota, a pre-Hispanic structure in the Xochicalco complex.",
                   "category": "historical",
                   "coords": [
                         -99.267224,
@@ -4019,7 +4019,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Parque Acuatico \"Ojo de Agua\"",
-                  "text": "Parque Acuatico \"Ojo de Agua\" is a water park in the Xochicalco region.",
+                  "text": "Spring-fed water park at Xochicalco, with natural pools from an underground spring.",
                   "category": "landmark",
                   "coords": [
                         -99.229566,
@@ -4028,7 +4028,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Xochitepequense",
-                  "text": "Centro Cultural Xochitepequense is a museum in the Xochicalco region.",
+                  "text": "Cultural center in Xochitepec, near Xochicalco, showcasing local traditions.",
                   "category": "museum",
                   "coords": [
                         -99.229493,
@@ -4037,7 +4037,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Zona Arqueológica de Coatetelco",
-                  "text": "Zona Arqueológica de Coatetelco is an archaeological site in the Xochicalco region.",
+                  "text": "Archaeological zone of Coatetelco, with pre-Hispanic structures and a lagoon.",
                   "category": "historical",
                   "coords": [
                         -99.325935,
@@ -4096,7 +4096,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Casa Redonda",
-                  "text": "Die Casa Redonda in Edzná ist ein rundes Gebäude aus der Maya-Zeit.",
+                  "text": "Casa Redonda, ein rundes Bauwerk in der archäologischen Stätte Edzna.",
                   "category": "historical",
                   "coords": [
                         -90.231189,
@@ -4105,7 +4105,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Ball Court (east)",
-                  "text": "Der östliche Ballplatz in Edzná ist ein Ruinenplatz für das Ballspiel.",
+                  "text": "Östlicher Ballspielplatz von Edzna, einer von zwei Plätzen für das Ballspiel.",
                   "category": "historical",
                   "coords": [
                         -90.230531,
@@ -4114,7 +4114,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Temple of the Five Storeys",
-                  "text": "Der Temple of the Five Storeys in Edzná ist ein fünfstöckiger Tempel.",
+                  "text": "Tempel der fünf Stockwerke in Edzna, eine fünfstufige Pyramide mit Treppen.",
                   "category": "historical",
                   "coords": [
                         -90.229126,
@@ -4125,7 +4125,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Casa Redonda",
-                  "text": "Az edzná-i Casa Redonda egy kerek maja épület.",
+                  "text": "Casa Redonda, egy kerek építmény az Edzna régészeti lelőhelyen.",
                   "category": "historical",
                   "coords": [
                         -90.231189,
@@ -4134,7 +4134,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Ball Court (east)",
-                  "text": "Az edzná-i keleti labdapálya egy romos labdajáték-pálya.",
+                  "text": "Edzna keleti labdajátéka, a két labdajáték-pálya egyike.",
                   "category": "historical",
                   "coords": [
                         -90.230531,
@@ -4143,7 +4143,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Temple of the Five Storeys",
-                  "text": "Az edzná-i Temple of the Five Storeys egy ötemeletes templom.",
+                  "text": "Öt emelet temploma Edzna-ban, egy ötszintes piramis lépcsőkkel.",
                   "category": "historical",
                   "coords": [
                         -90.229126,
@@ -4154,7 +4154,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Casa Redonda",
-                  "text": "Casa Rotundă din Edzná este o clădire circulară mayașă.",
+                  "text": "Casa Redonda, o structură rotundă în situl arheologic Edzna.",
                   "category": "historical",
                   "coords": [
                         -90.231189,
@@ -4163,7 +4163,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Ball Court (east)",
-                  "text": "Terenul de joc cu mingea (est) din Edzná este un teren de joc în ruine.",
+                  "text": "Terenul de joc cu mingea estic din Edzna, unul dintre cele două terenuri pentru jocul cu mingea.",
                   "category": "historical",
                   "coords": [
                         -90.230531,
@@ -4172,7 +4172,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Temple of the Five Storeys",
-                  "text": "Templul celor Cinci Niveluri din Edzná este un templu cu cinci etaje.",
+                  "text": "Templul celor cinci etaje din Edzna, o piramidă cu cinci niveluri și scări.",
                   "category": "historical",
                   "coords": [
                         -90.229126,
@@ -4183,7 +4183,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Casa Redonda",
-                  "text": "The Round House in Edzná is a circular Maya building.",
+                  "text": "Casa Redonda, a round structure in the Edzna archaeological site.",
                   "category": "historical",
                   "coords": [
                         -90.231189,
@@ -4192,7 +4192,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Ball Court (east)",
-                  "text": "The east ball court in Edzná is a ruined ball game court.",
+                  "text": "Eastern ball court of Edzna, one of two courts for the ballgame.",
                   "category": "historical",
                   "coords": [
                         -90.230531,
@@ -4201,7 +4201,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Temple of the Five Storeys",
-                  "text": "The Temple of the Five Storeys in Edzná is a five-storey temple.",
+                  "text": "Temple of the Five Storeys in Edzna, a five-tiered pyramid with stairways.",
                   "category": "historical",
                   "coords": [
                         -90.229126,
@@ -4260,7 +4260,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Caca de Yhanha",
-                  "text": "Eine archäologische Stätte in Becán.",
+                  "text": "Caca de Yhanha, ein prähispanisches Bauwerk in der archäologischen Stätte Becan.",
                   "category": "historical",
                   "coords": [
                         -89.499081,
@@ -4269,7 +4269,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Monticulo 1",
-                  "text": "Ruinen in Becán, genannt Monticulo 1.",
+                  "text": "Monticulo 1, ein Erd- oder Steinriegel in der archäologischen Stätte Becan.",
                   "category": "historical",
                   "coords": [
                         -89.390496,
@@ -4278,7 +4278,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "La Campechana",
-                  "text": "Ein Denkmal in Becán mit dem Namen La Campechana.",
+                  "text": "La Campechana, eine prähispanische Struktur im archäologischen Gebiet von Becan.",
                   "category": "historical",
                   "coords": [
                         -89.394779,
@@ -4287,7 +4287,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Maya Balam",
-                  "text": "Ein Hotel in Becán, Maya Balam genannt.",
+                  "text": "Maya Balam, ein Natur- oder Kulturdenkmal in der Umgebung von Becan.",
                   "category": "landmark",
                   "coords": [
                         -89.400042,
@@ -4296,7 +4296,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Centauro del Norte",
-                  "text": "Eine archäologische Stätte in Becán, Centauro del Norte.",
+                  "text": "Centauro del Norte, ein historisches Bauwerk in der Region Becan.",
                   "category": "historical",
                   "coords": [
                         -89.46601,
@@ -4305,7 +4305,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Xuch",
-                  "text": "Eine archäologische Stätte in Becán namens Xuch.",
+                  "text": "Xuch, ein prähispanisches Bauwerk in der archäologischen Stätte Becan.",
                   "category": "historical",
                   "coords": [
                         -89.450732,
@@ -4314,7 +4314,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Chicanna Ruinen",
-                  "text": "Die Chicanna Ruinen sind eine Sehenswürdigkeit in Becán.",
+                  "text": "Chicanna-Ruinen, eine Maya-Stätte in der Nähe von Becan mit bemalten Tempeln.",
                   "category": "landmark",
                   "coords": [
                         -89.487011,
@@ -4323,7 +4323,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "CHanna",
-                  "text": "Eine archäologische Stätte in Becán, CHanna genannt.",
+                  "text": "CHanna, ein prähispanisches Bauwerk in der archäologischen Stätte Becan.",
                   "category": "historical",
                   "coords": [
                         -89.49279,
@@ -4332,7 +4332,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estrectura VI",
-                  "text": "Ruinen in Becán, als Estrectura VI bekannt.",
+                  "text": "Struktur VI in der archäologischen Stätte Becan.",
                   "category": "historical",
                   "coords": [
                         -89.48539,
@@ -4341,7 +4341,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estrectura I",
-                  "text": "Ruinen in Becán, Estrectura I genannt.",
+                  "text": "Struktur I in der archäologischen Stätte Becan.",
                   "category": "historical",
                   "coords": [
                         -89.486842,
@@ -4350,7 +4350,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Altar Circular",
-                  "text": "Ein runder Altar als Ruine in Becán.",
+                  "text": "Runder Altar in der archäologischen Stätte Becan.",
                   "category": "historical",
                   "coords": [
                         -89.46624,
@@ -4359,7 +4359,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estrectura VIII",
-                  "text": "Ruinen in Becán, Estrectura VIII genannt.",
+                  "text": "Struktur VIII in der archäologischen Stätte Becan.",
                   "category": "historical",
                   "coords": [
                         -89.466432,
@@ -4368,7 +4368,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estrectura XX",
-                  "text": "Ruinen in Becán, als Estrectura XX bezeichnet.",
+                  "text": "Struktur XX in der archäologischen Stätte Becan.",
                   "category": "historical",
                   "coords": [
                         -89.48876,
@@ -4377,7 +4377,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura X",
-                  "text": "Ruinen in Becán, Estructura X (korrekte Schreibweise).",
+                  "text": "Struktur X in der archäologischen Stätte Becan.",
                   "category": "historical",
                   "coords": [
                         -89.467955,
@@ -4386,7 +4386,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Struktur I",
-                  "text": "Ruinen in Becán, als Structure I bezeichnet.",
+                  "text": "Bauwerk I in der archäologischen Stätte Becan.",
                   "category": "historical",
                   "coords": [
                         -89.406476,
@@ -4395,7 +4395,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Struktur III",
-                  "text": "Ruinen in Becán, Structure III genannt.",
+                  "text": "Bauwerk III in der archäologischen Stätte Becan.",
                   "category": "historical",
                   "coords": [
                         -89.405423,
@@ -4413,7 +4413,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura V",
-                  "text": "Ruinen in Becán, Estructura V genannt.",
+                  "text": "Struktur V in der archäologischen Stätte Becan.",
                   "category": "historical",
                   "coords": [
                         -89.403013,
@@ -4422,7 +4422,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estrectura XI",
-                  "text": "Ruinen in Becán, Estrectura XI genannt.",
+                  "text": "Struktur XI in der archäologischen Stätte Becan.",
                   "category": "historical",
                   "coords": [
                         -89.487806,
@@ -4433,7 +4433,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Caca de Yhanha",
-                  "text": "Egy régészeti lelőhely Becánban.",
+                  "text": "Caca de Yhanha, egy spanyol előtti építmény a Becan régészeti lelőhelyen.",
                   "category": "historical",
                   "coords": [
                         -89.499081,
@@ -4442,7 +4442,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Monticulo 1",
-                  "text": "Romok Becánban, Monticulo 1 néven.",
+                  "text": "Monticulo 1, egy föld- vagy kőhalom a Becan régészeti lelőhelyen.",
                   "category": "historical",
                   "coords": [
                         -89.390496,
@@ -4451,7 +4451,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "La Campechana",
-                  "text": "Egy emlékmű Becánban, La Campechana néven.",
+                  "text": "La Campechana, egy spanyol előtti építmény Becan régészeti területén.",
                   "category": "historical",
                   "coords": [
                         -89.394779,
@@ -4460,7 +4460,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Maya Balam",
-                  "text": "Egy szálloda Becánban, Maya Balam néven.",
+                  "text": "Maya Balam, egy természeti vagy kulturális nevezetesség Becan környékén.",
                   "category": "landmark",
                   "coords": [
                         -89.400042,
@@ -4469,7 +4469,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Centauro del Norte",
-                  "text": "Egy régészeti lelőhely Becánban, Centauro del Norte.",
+                  "text": "Centauro del Norte, egy történelmi építmény Becan térségében.",
                   "category": "historical",
                   "coords": [
                         -89.46601,
@@ -4478,7 +4478,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Xuch",
-                  "text": "Egy régészeti lelőhely Becánban, Xuch néven.",
+                  "text": "Xuch, egy spanyol előtti építmény a Becan régészeti lelőhelyen.",
                   "category": "historical",
                   "coords": [
                         -89.450732,
@@ -4487,7 +4487,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Chicanna - La casa de la boca de serpiente",
-                  "text": "A Chicanna romok egy látványosság Becánban.",
+                  "text": "Chicanna romjai, egy maja lelőhely Becan közelében, festett templomokkal.",
                   "category": "landmark",
                   "coords": [
                         -89.487011,
@@ -4496,7 +4496,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "CHanna",
-                  "text": "Egy régészeti lelőhely Becánban, CHanna néven.",
+                  "text": "CHanna, egy spanyol előtti építmény a Becan régészeti lelőhelyen.",
                   "category": "historical",
                   "coords": [
                         -89.49279,
@@ -4505,7 +4505,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estrectura VI",
-                  "text": "Romok Becánban, Estrectura VI néven ismert.",
+                  "text": "VI. építmény a Becan régészeti lelőhelyen.",
                   "category": "historical",
                   "coords": [
                         -89.48539,
@@ -4514,7 +4514,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estrectura I",
-                  "text": "Romok Becánban, Estrectura I néven.",
+                  "text": "I. építmény a Becan régészeti lelőhelyen.",
                   "category": "historical",
                   "coords": [
                         -89.486842,
@@ -4523,7 +4523,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Altar Circular",
-                  "text": "Egy kör alakú oltár romja Becánban.",
+                  "text": "Kör alakú oltár a Becan régészeti lelőhelyen.",
                   "category": "historical",
                   "coords": [
                         -89.46624,
@@ -4532,7 +4532,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estrectura VIII",
-                  "text": "Romok Becánban, Estrectura VIII néven.",
+                  "text": "VIII. építmény a Becan régészeti lelőhelyen.",
                   "category": "historical",
                   "coords": [
                         -89.466432,
@@ -4541,7 +4541,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estrectura XX",
-                  "text": "Romok Becánban, Estrectura XX néven.",
+                  "text": "XX. építmény a Becan régészeti lelőhelyen.",
                   "category": "historical",
                   "coords": [
                         -89.48876,
@@ -4550,7 +4550,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura X",
-                  "text": "Romok Becánban, Estructura X (helyes írásmód).",
+                  "text": "X. építmény a Becan régészeti lelőhelyen.",
                   "category": "historical",
                   "coords": [
                         -89.467955,
@@ -4559,7 +4559,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura I",
-                  "text": "Romok Becánban, Structure I néven.",
+                  "text": "I. építmény a Becan régészeti lelőhelyen (angol jelölés).",
                   "category": "historical",
                   "coords": [
                         -89.406476,
@@ -4568,7 +4568,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura III",
-                  "text": "Romok Becánban, Structure III néven.",
+                  "text": "III. építmény a Becan régészeti lelőhelyen (angol).",
                   "category": "historical",
                   "coords": [
                         -89.405423,
@@ -4586,7 +4586,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura V",
-                  "text": "Romok Becánban, Estructura V néven.",
+                  "text": "V. építmény a Becan régészeti lelőhelyen.",
                   "category": "historical",
                   "coords": [
                         -89.403013,
@@ -4595,7 +4595,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estrectura XI",
-                  "text": "Romok Becánban, Estrectura XI néven.",
+                  "text": "XI. építmény a Becan régészeti lelőhelyen.",
                   "category": "historical",
                   "coords": [
                         -89.487806,
@@ -4606,7 +4606,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Caca de Yhanha",
-                  "text": "Un sit arheologic în Becán.",
+                  "text": "Caca de Yhanha, o structură prehispanică în situl arheologic Becan.",
                   "category": "historical",
                   "coords": [
                         -89.499081,
@@ -4615,7 +4615,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Monticulo 1",
-                  "text": "Ruine în Becán, numite Monticulo 1.",
+                  "text": "Monticulo 1, un movilă de pământ sau piatră în situl arheologic Becan.",
                   "category": "historical",
                   "coords": [
                         -89.390496,
@@ -4624,7 +4624,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "La Campechana",
-                  "text": "Un monument în Becán numit La Campechana.",
+                  "text": "La Campechana, o structură prehispanică în zona arheologică Becan.",
                   "category": "historical",
                   "coords": [
                         -89.394779,
@@ -4633,7 +4633,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Maya Balam",
-                  "text": "Un hotel în Becán numit Maya Balam.",
+                  "text": "Maya Balam, un reper natural sau cultural în zona Becan.",
                   "category": "landmark",
                   "coords": [
                         -89.400042,
@@ -4642,7 +4642,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Centauro del Norte",
-                  "text": "Un sit arheologic în Becán, Centauro del Norte.",
+                  "text": "Centauro del Norte, o structură istorică în regiunea Becan.",
                   "category": "historical",
                   "coords": [
                         -89.46601,
@@ -4651,7 +4651,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Xuch",
-                  "text": "Un sit arheologic în Becán numit Xuch.",
+                  "text": "Xuch, o structură prehispanică în situl arheologic Becan.",
                   "category": "historical",
                   "coords": [
                         -89.450732,
@@ -4660,7 +4660,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Chicanna - La casa de la boca de serpiente",
-                  "text": "Ruinele Chicanna sunt o atracție în Becán.",
+                  "text": "Ruinele Chicanna, un sit maya lângă Becan cu temple pictate.",
                   "category": "landmark",
                   "coords": [
                         -89.487011,
@@ -4669,7 +4669,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "CHanna",
-                  "text": "Un sit arheologic în Becán numit CHanna.",
+                  "text": "CHanna, o structură prehispanică în situl arheologic Becan.",
                   "category": "historical",
                   "coords": [
                         -89.49279,
@@ -4678,7 +4678,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estrectura VI",
-                  "text": "Ruine în Becán, cunoscute ca Estrectura VI.",
+                  "text": "Structura VI în situl arheologic Becan.",
                   "category": "historical",
                   "coords": [
                         -89.48539,
@@ -4687,7 +4687,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estrectura I",
-                  "text": "Ruine în Becán numite Estrectura I.",
+                  "text": "Structura I în situl arheologic Becan.",
                   "category": "historical",
                   "coords": [
                         -89.486842,
@@ -4696,7 +4696,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Altar Circular",
-                  "text": "Un altar circular ca ruină în Becán.",
+                  "text": "Altar circular în situl arheologic Becan.",
                   "category": "historical",
                   "coords": [
                         -89.46624,
@@ -4705,7 +4705,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estrectura VIII",
-                  "text": "Ruine în Becán numite Estrectura VIII.",
+                  "text": "Structura VIII în situl arheologic Becan.",
                   "category": "historical",
                   "coords": [
                         -89.466432,
@@ -4714,7 +4714,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estrectura XX",
-                  "text": "Ruine în Becán, denumite Estrectura XX.",
+                  "text": "Structura XX în situl arheologic Becan.",
                   "category": "historical",
                   "coords": [
                         -89.48876,
@@ -4723,7 +4723,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura X",
-                  "text": "Ruine în Becán, Estructura X (ortografie corectă).",
+                  "text": "Structura X în situl arheologic Becan.",
                   "category": "historical",
                   "coords": [
                         -89.467955,
@@ -4732,7 +4732,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura I",
-                  "text": "Ruine în Becán, denumite Structure I.",
+                  "text": "Structura I (engleză) în situl arheologic Becan.",
                   "category": "historical",
                   "coords": [
                         -89.406476,
@@ -4741,7 +4741,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura III",
-                  "text": "Ruine în Becán numite Structure III.",
+                  "text": "Structura III (engleză) în situl arheologic Becan.",
                   "category": "historical",
                   "coords": [
                         -89.405423,
@@ -4759,7 +4759,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura V",
-                  "text": "Ruine în Becán numite Estructura V.",
+                  "text": "Structura V în situl arheologic Becan.",
                   "category": "historical",
                   "coords": [
                         -89.403013,
@@ -4768,7 +4768,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estrectura XI",
-                  "text": "Ruine în Becán numite Estrectura XI.",
+                  "text": "Structura XI în situl arheologic Becan.",
                   "category": "historical",
                   "coords": [
                         -89.487806,
@@ -4779,7 +4779,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Caca de Yhanha",
-                  "text": "An archaeological site in Becán.",
+                  "text": "Caca de Yhanha, a pre-Hispanic structure in the Becan archaeological site.",
                   "category": "historical",
                   "coords": [
                         -89.499081,
@@ -4788,7 +4788,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Monticulo 1",
-                  "text": "Ruins in Becán called Monticulo 1.",
+                  "text": "Monticulo 1, a mound of earth or stone in the Becan archaeological site.",
                   "category": "historical",
                   "coords": [
                         -89.390496,
@@ -4797,7 +4797,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "La Campechana",
-                  "text": "A monument in Becán named La Campechana.",
+                  "text": "La Campechana, a pre-Hispanic structure in the Becan archaeological area.",
                   "category": "historical",
                   "coords": [
                         -89.394779,
@@ -4806,7 +4806,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Maya Balam",
-                  "text": "A hotel in Becán called Maya Balam.",
+                  "text": "Maya Balam, a natural or cultural landmark in the Becan area.",
                   "category": "landmark",
                   "coords": [
                         -89.400042,
@@ -4815,7 +4815,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Centauro del Norte",
-                  "text": "An archaeological site in Becán, Centauro del Norte.",
+                  "text": "Centauro del Norte, a historical structure in the Becan region.",
                   "category": "historical",
                   "coords": [
                         -89.46601,
@@ -4824,7 +4824,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Xuch",
-                  "text": "An archaeological site in Becán named Xuch.",
+                  "text": "Xuch, a pre-Hispanic structure in the Becan archaeological site.",
                   "category": "historical",
                   "coords": [
                         -89.450732,
@@ -4833,7 +4833,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Chicanna Ruins",
-                  "text": "The Chicanna Ruins are an attraction in Becán.",
+                  "text": "Chicanna ruins, a Maya site near Becan with painted temples.",
                   "category": "landmark",
                   "coords": [
                         -89.487011,
@@ -4842,7 +4842,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "CHanna",
-                  "text": "An archaeological site in Becán called CHanna.",
+                  "text": "CHanna, a pre-Hispanic structure in the Becan archaeological site.",
                   "category": "historical",
                   "coords": [
                         -89.49279,
@@ -4851,7 +4851,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estrectura VI",
-                  "text": "Ruins in Becán known as Estrectura VI.",
+                  "text": "Structure VI at the Becan archaeological site.",
                   "category": "historical",
                   "coords": [
                         -89.48539,
@@ -4860,7 +4860,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estrectura I",
-                  "text": "Ruins in Becán called Estrectura I.",
+                  "text": "Structure I at the Becan archaeological site.",
                   "category": "historical",
                   "coords": [
                         -89.486842,
@@ -4869,7 +4869,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Altar Circular",
-                  "text": "A circular altar as ruins in Becán.",
+                  "text": "Circular altar in the Becan archaeological site.",
                   "category": "historical",
                   "coords": [
                         -89.46624,
@@ -4878,7 +4878,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estrectura VIII",
-                  "text": "Ruins in Becán called Estrectura VIII.",
+                  "text": "Structure VIII at the Becan archaeological site.",
                   "category": "historical",
                   "coords": [
                         -89.466432,
@@ -4887,7 +4887,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estrectura XX",
-                  "text": "Ruins in Becán referred to as Estrectura XX.",
+                  "text": "Structure XX at the Becan archaeological site.",
                   "category": "historical",
                   "coords": [
                         -89.48876,
@@ -4896,7 +4896,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura X",
-                  "text": "Ruins in Becán, Estructura X (correct spelling).",
+                  "text": "Structure X at the Becan archaeological site.",
                   "category": "historical",
                   "coords": [
                         -89.467955,
@@ -4905,7 +4905,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Structure I",
-                  "text": "Ruins in Becán designated as Structure I.",
+                  "text": "Structure I (English) at the Becan archaeological site.",
                   "category": "historical",
                   "coords": [
                         -89.406476,
@@ -4914,7 +4914,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Structure III",
-                  "text": "Ruins in Becán called Structure III.",
+                  "text": "Structure III (English) at the Becan archaeological site.",
                   "category": "historical",
                   "coords": [
                         -89.405423,
@@ -4932,7 +4932,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estructura V",
-                  "text": "Ruins in Becán called Estructura V.",
+                  "text": "Structure V at the Becan archaeological site.",
                   "category": "historical",
                   "coords": [
                         -89.403013,
@@ -4941,7 +4941,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estrectura XI",
-                  "text": "Ruins in Becán called Estrectura XI.",
+                  "text": "Structure XI at the Becan archaeological site.",
                   "category": "historical",
                   "coords": [
                         -89.487806,
@@ -5009,7 +5009,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Stela 9",
-                  "text": "Die Stela 9 in Kabah ist ein geschnitzter Steinmonolith.",
+                  "text": "Stele 9 in Kabah, eine verzierte Maya-Stele aus Kalkstein.",
                   "category": "landmark",
                   "coords": [
                         -89.651412,
@@ -5018,7 +5018,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Grupo 3",
-                  "text": "Grupo 3 in Kabah ist eine Gruppe von Ruinenstrukturen.",
+                  "text": "Gruppe 3, ein Baukomplex in der Maya-Stätte Kabah.",
                   "category": "historical",
                   "coords": [
                         -89.608664,
@@ -5036,7 +5036,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estrectura 1C1",
-                  "text": "Die Struktur 1C1 in Kabah ist eine Ruine.",
+                  "text": "Struktur 1C1 in der Maya-Stätte Kabah.",
                   "category": "historical",
                   "coords": [
                         -89.643797,
@@ -5054,7 +5054,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Arco",
-                  "text": "Der Arco in Kabah ist ein Bogen aus der Maya-Zeit.",
+                  "text": "Kabahs berühmter Bogen, ein Maya-Tor mit reichen Verzierungen.",
                   "category": "historical",
                   "coords": [
                         -89.650205,
@@ -5063,7 +5063,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Gran Pirámide",
-                  "text": "Die Gran Pirámide in Kabah ist die große Pyramide der Stätte.",
+                  "text": "Große Pyramide von Kabah, das höchste Bauwerk der Stätte.",
                   "category": "historical",
                   "coords": [
                         -89.649001,
@@ -5081,7 +5081,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Zona Arqueológica de Xlapak",
-                  "text": "Die Zona Arqueológica de Xlapak ist eine Maya-archäologische Stätte.",
+                  "text": "Maya-Ruinenstätte mit einem Palast und einem Steintorbogen in der Puuc-Region.",
                   "category": "landmark",
                   "coords": [
                         -89.607699,
@@ -5090,7 +5090,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Grupo 2",
-                  "text": "Grupo 2 in Kabah ist eine Gruppe von Ruinenstrukturen.",
+                  "text": "Gruppe 2, ein weiterer Baukomplex in der Maya-Stätte Kabah.",
                   "category": "historical",
                   "coords": [
                         -89.609132,
@@ -5099,7 +5099,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Parque Estatal de Kabah",
-                  "text": "Der Parque Estatal de Kabah ist ein Staatspark in Kabah.",
+                  "text": "Kabah State Park, ein Schutzgebiet mit Maya-Ruinen und tropischem Wald.",
                   "category": "natural",
                   "coords": [
                         -89.650938,
@@ -5108,7 +5108,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Palacio",
-                  "text": "Der Palacio in Kabah ist ein Palastruine.",
+                  "text": "Palast in Kabah, ein reich verziertes Gebäude der Maya.",
                   "category": "historical",
                   "coords": [
                         -89.651869,
@@ -5117,7 +5117,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "2-B-5",
-                  "text": "Die Struktur 2-B-5 in Kabah ist eine Ruine.",
+                  "text": "Struktur 2-B-5 in der Maya-Stätte Kabah.",
                   "category": "historical",
                   "coords": [
                         -89.652733,
@@ -5126,7 +5126,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Templo de las Columnas",
-                  "text": "Der Templo de las Columnas in Kabah ist ein Tempel mit Säulen.",
+                  "text": "Tempel der Säulen in Kabah, mit Reihen von Säulen an der Fassade.",
                   "category": "historical",
                   "coords": [
                         -89.649762,
@@ -5135,7 +5135,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Sayil",
-                  "text": "Sayil ist eine Maya-archäologische Stätte in der Region Kabah.",
+                  "text": "Maya-Stätte mit einem großen dreistöckigen Palast und einer Chaac-Maske.",
                   "category": "landmark",
                   "coords": [
                         -89.652576,
@@ -5144,7 +5144,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Templo del Linteles",
-                  "text": "Der Templo del Linteles in Kabah ist ein Tempel mit Türstürzen.",
+                  "text": "Tempel der Stürze in Kabah, bekannt für seine skulptierten Türstürze.",
                   "category": "historical",
                   "coords": [
                         -89.654091,
@@ -5153,7 +5153,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Grupo del Sur",
-                  "text": "Grupo del Sur in Kabah ist die südliche Gruppe von Ruinen.",
+                  "text": "Südliche Gruppe, ein Komplex von Strukturen in der Maya-Stätte Kabah.",
                   "category": "historical",
                   "coords": [
                         -89.653426,
@@ -5173,7 +5173,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Stela 9",
-                  "text": "A kabah-i 9-es sztélé egy faragott kőmonolit.",
+                  "text": "9. sztélé Kabah-ban, egy díszített maja kősztélé.",
                   "category": "landmark",
                   "coords": [
                         -89.651412,
@@ -5182,7 +5182,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Grupo 3",
-                  "text": "A kabah-i 3-as csoport romépületek együttese.",
+                  "text": "3. csoport, egy épületegyüttes a Kabah maja lelőhelyen.",
                   "category": "historical",
                   "coords": [
                         -89.608664,
@@ -5200,7 +5200,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estrectura 1C1",
-                  "text": "A kabah-i 1C1-es épület egy rom.",
+                  "text": "1C1 építmény a Kabah maja lelőhelyen.",
                   "category": "historical",
                   "coords": [
                         -89.643797,
@@ -5218,7 +5218,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Arco",
-                  "text": "A kabah-i Arco egy maja kori boltív.",
+                  "text": "Kabah híres boltíve, egy díszes maja kapu.",
                   "category": "historical",
                   "coords": [
                         -89.650205,
@@ -5227,7 +5227,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Gran Pirámide",
-                  "text": "A kabah-i Gran Pirámide a helyszín nagy piramisa.",
+                  "text": "Kabah nagy piramisa, a lelőhely legmagasabb építménye.",
                   "category": "historical",
                   "coords": [
                         -89.649001,
@@ -5245,7 +5245,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Zona Arqueológica de Xlapak",
-                  "text": "A xlapaki régészeti övezet egy maja régészeti lelőhely.",
+                  "text": "Maja romváros palotával és kőíves kapuval a Puuc régióban.",
                   "category": "landmark",
                   "coords": [
                         -89.607699,
@@ -5254,7 +5254,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Grupo 2",
-                  "text": "A kabah-i 2-es csoport romépületek együttese.",
+                  "text": "2. csoport, egy másik épületegyüttes a Kabah maja lelőhelyen.",
                   "category": "historical",
                   "coords": [
                         -89.609132,
@@ -5263,7 +5263,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Parque Estatal de Kabah",
-                  "text": "A kabah-i Parque Estatal de Kabah egy állami park.",
+                  "text": "Kabah Állami Park, maja romokkal és trópusi erdővel védett terület.",
                   "category": "natural",
                   "coords": [
                         -89.650938,
@@ -5272,7 +5272,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Palacio",
-                  "text": "A kabah-i Palacio egy palotarom.",
+                  "text": "Palota Kabah-ban, a maja díszes épülete.",
                   "category": "historical",
                   "coords": [
                         -89.651869,
@@ -5281,7 +5281,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "2-B-5",
-                  "text": "A kabah-i 2-B-5 épület egy rom.",
+                  "text": "2-B-5 építmény a Kabah maja lelőhelyen.",
                   "category": "historical",
                   "coords": [
                         -89.652733,
@@ -5290,7 +5290,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Templo de las Columnas",
-                  "text": "A kabah-i Templo de las Columnas egy oszlopos templom.",
+                  "text": "Oszlopok temploma Kabah-ban, oszlopsorokkal a homlokzaton.",
                   "category": "historical",
                   "coords": [
                         -89.649762,
@@ -5299,7 +5299,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Sayil",
-                  "text": "Sayil egy maja régészeti lelőhely a kabah-i régióban.",
+                  "text": "Maja lelőhely egy nagy háromszintes palotával és egy Chaac maszkkal.",
                   "category": "landmark",
                   "coords": [
                         -89.652576,
@@ -5308,7 +5308,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Templo del Linteles",
-                  "text": "A kabah-i Templo del Linteles egy szemöldökgerendákkal rendelkező templom.",
+                  "text": "Szemöldökgerendák temploma Kabah-ban, híres faragott szemöldökgerendáiról.",
                   "category": "historical",
                   "coords": [
                         -89.654091,
@@ -5317,7 +5317,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Grupo del Sur",
-                  "text": "A kabah-i Grupo del Sur a romok déli csoportja.",
+                  "text": "Déli csoport, épületek együttese a Kabah maja lelőhelyen.",
                   "category": "historical",
                   "coords": [
                         -89.653426,
@@ -5337,7 +5337,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Stela 9",
-                  "text": "Stela 9 din Kabah este un monolit de piatră sculptat.",
+                  "text": "Stela 9 la Kabah, o stelă mayașă ornamentată din calcar.",
                   "category": "landmark",
                   "coords": [
                         -89.651412,
@@ -5346,7 +5346,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Grupo 3",
-                  "text": "Grupul 3 din Kabah este un grup de structuri în ruine.",
+                  "text": "Grupul 3, un complex de structuri în situl mayaș Kabah.",
                   "category": "historical",
                   "coords": [
                         -89.608664,
@@ -5364,7 +5364,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estrectura 1C1",
-                  "text": "Structura 1C1 din Kabah este o ruină.",
+                  "text": "Structura 1C1 în situl mayaș Kabah.",
                   "category": "historical",
                   "coords": [
                         -89.643797,
@@ -5382,7 +5382,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Arco",
-                  "text": "Arcul din Kabah este un arc mayaș.",
+                  "text": "Arcul celebru din Kabah, o poartă mayașă ornamentată.",
                   "category": "historical",
                   "coords": [
                         -89.650205,
@@ -5391,7 +5391,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Gran Pirámide",
-                  "text": "Marea Piramidă din Kabah este piramida principală a sitului.",
+                  "text": "Marea piramidă din Kabah, cea mai înaltă structură a sitului.",
                   "category": "historical",
                   "coords": [
                         -89.649001,
@@ -5409,7 +5409,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Zona Arqueológica de Xlapak",
-                  "text": "Zona arheologică Xlapak este un sit arheologic mayaș.",
+                  "text": "Sit maya cu un palat și un arc de piatră în regiunea Puuc.",
                   "category": "landmark",
                   "coords": [
                         -89.607699,
@@ -5418,7 +5418,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Grupo 2",
-                  "text": "Grupul 2 din Kabah este un grup de structuri în ruine.",
+                  "text": "Grupul 2, un alt complex de structuri în situl mayaș Kabah.",
                   "category": "historical",
                   "coords": [
                         -89.609132,
@@ -5427,7 +5427,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Parque Estatal de Kabah",
-                  "text": "Parcul de Stat Kabah este un parc de stat în Kabah.",
+                  "text": "Parcul de stat Kabah, o arie protejată cu ruine mayașe și pădure tropicală.",
                   "category": "natural",
                   "coords": [
                         -89.650938,
@@ -5436,7 +5436,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Palacio",
-                  "text": "Palatul din Kabah este o ruină de palat.",
+                  "text": "Palatul din Kabah, o clădire mayașă bogat ornamentată.",
                   "category": "historical",
                   "coords": [
                         -89.651869,
@@ -5445,7 +5445,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "2-B-5",
-                  "text": "Structura 2-B-5 din Kabah este o ruină.",
+                  "text": "Structura 2-B-5 în situl mayaș Kabah.",
                   "category": "historical",
                   "coords": [
                         -89.652733,
@@ -5454,7 +5454,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Templo de las Columnas",
-                  "text": "Templul Coloanelor din Kabah este un templu cu coloane.",
+                  "text": "Templul coloanelor din Kabah, cu rânduri de coloane pe fațadă.",
                   "category": "historical",
                   "coords": [
                         -89.649762,
@@ -5463,7 +5463,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Sayil",
-                  "text": "Sayil este un sit arheologic mayaș în regiunea Kabah.",
+                  "text": "Sit maya cu un palat mare cu trei etaje și o mască Chaac.",
                   "category": "landmark",
                   "coords": [
                         -89.652576,
@@ -5472,7 +5472,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Templo del Linteles",
-                  "text": "Templul Lintelilor din Kabah este un templu cu linteluri.",
+                  "text": "Templul lintelurilor din Kabah, renumit pentru lintelurile sale sculptate.",
                   "category": "historical",
                   "coords": [
                         -89.654091,
@@ -5481,7 +5481,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Grupo del Sur",
-                  "text": "Grupul de Sud din Kabah este grupul sudic de ruine.",
+                  "text": "Grupul de sud, un complex de structuri în situl mayaș Kabah.",
                   "category": "historical",
                   "coords": [
                         -89.653426,
@@ -5501,7 +5501,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Stela 9",
-                  "text": "Stela 9 in Kabah is a carved stone monolith.",
+                  "text": "Stela 9 at Kabah, a carved Maya stone monument.",
                   "category": "landmark",
                   "coords": [
                         -89.651412,
@@ -5510,7 +5510,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Grupo 3",
-                  "text": "Group 3 in Kabah is a group of ruined structures.",
+                  "text": "Group 3, a building complex in the Maya site of Kabah.",
                   "category": "historical",
                   "coords": [
                         -89.608664,
@@ -5528,7 +5528,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estrectura 1C1",
-                  "text": "Structure 1C1 in Kabah is a ruin.",
+                  "text": "Structure 1C1 at the Maya site of Kabah.",
                   "category": "historical",
                   "coords": [
                         -89.643797,
@@ -5546,7 +5546,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Arco",
-                  "text": "The Arch in Kabah is a Maya arch.",
+                  "text": "Kabah's famous arch, a Maya gateway with intricate carvings.",
                   "category": "historical",
                   "coords": [
                         -89.650205,
@@ -5555,7 +5555,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Gran Pirámide",
-                  "text": "The Great Pyramid in Kabah is the site's main pyramid.",
+                  "text": "Great pyramid of Kabah, the tallest structure in the site.",
                   "category": "historical",
                   "coords": [
                         -89.649001,
@@ -5573,7 +5573,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Zona Arqueológica de Xlapak",
-                  "text": "The Xlapak archaeological zone is a Maya archaeological site.",
+                  "text": "A Maya archaeological site with a palace and a stone arch in the Puuc region.",
                   "category": "landmark",
                   "coords": [
                         -89.607699,
@@ -5582,7 +5582,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Grupo 2",
-                  "text": "Group 2 in Kabah is a group of ruined structures.",
+                  "text": "Group 2, another building complex in the Maya site of Kabah.",
                   "category": "historical",
                   "coords": [
                         -89.609132,
@@ -5591,7 +5591,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Parque Estatal de Kabah",
-                  "text": "The Kabah State Park is a state park in Kabah.",
+                  "text": "Kabah State Park, a protected area with Maya ruins and tropical forest.",
                   "category": "natural",
                   "coords": [
                         -89.650938,
@@ -5600,7 +5600,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Palacio",
-                  "text": "The Palace in Kabah is a palace ruin.",
+                  "text": "Palace at Kabah, an elaborately decorated Maya building.",
                   "category": "historical",
                   "coords": [
                         -89.651869,
@@ -5609,7 +5609,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "2-B-5",
-                  "text": "Structure 2-B-5 in Kabah is a ruin.",
+                  "text": "Structure 2-B-5 at the Maya site of Kabah.",
                   "category": "historical",
                   "coords": [
                         -89.652733,
@@ -5618,7 +5618,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Templo de las Columnas",
-                  "text": "The Temple of the Columns in Kabah is a temple with columns.",
+                  "text": "Temple of the Columns at Kabah, with rows of columns on the façade.",
                   "category": "historical",
                   "coords": [
                         -89.649762,
@@ -5627,7 +5627,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Sayil",
-                  "text": "Sayil is a Maya archaeological site in the Kabah region.",
+                  "text": "A Maya site with a large three-story palace and a Chaac mask.",
                   "category": "landmark",
                   "coords": [
                         -89.652576,
@@ -5636,7 +5636,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Templo del Linteles",
-                  "text": "The Temple of the Lintels in Kabah is a temple with lintels.",
+                  "text": "Temple of the Lintels at Kabah, famous for its sculpted doorways.",
                   "category": "historical",
                   "coords": [
                         -89.654091,
@@ -5645,7 +5645,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Grupo del Sur",
-                  "text": "The Southern Group in Kabah is the southern group of ruins.",
+                  "text": "Southern group, a complex of structures in the Maya site of Kabah.",
                   "category": "historical",
                   "coords": [
                         -89.653426,
@@ -5704,7 +5704,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Monumento 3",
-                  "text": "Ein Denkmal auf der archäologischen Stätte La Venta.",
+                  "text": "Monument 3 in La Venta, ein kolossaler Olmekenkopf aus Stein.",
                   "category": "historical",
                   "coords": [
                         -94.041024,
@@ -5713,7 +5713,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Monumento 1",
-                  "text": "Ein Denkmal auf der archäologischen Stätte La Venta.",
+                  "text": "Monumento 1 in Venta ist ein olmekischer Kolossalkopf aus Basalt.",
                   "category": "historical",
                   "coords": [
                         -94.040946,
@@ -5722,7 +5722,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo de Sitio La Venta",
-                  "text": "Ein Museum vor Ort auf der archäologischen Stätte La Venta.",
+                  "text": "Das Museo de Sitio La Venta zeigt Fundstücke aus der nahen Olmeken-Stätte.",
                   "category": "museum",
                   "coords": [
                         -94.042724,
@@ -5731,7 +5731,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo La Venta",
-                  "text": "Ein Museum auf der archäologischen Stätte La Venta.",
+                  "text": "Museo La Venta bezeichnet das archäologische Gelände der Olmeken mit Pyramiden und Steinmonumenten.",
                   "category": "historical",
                   "coords": [
                         -94.038909,
@@ -5742,7 +5742,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Monumento 3",
-                  "text": "Egy emlékmű a La Venta régészeti lelőhelyen.",
+                  "text": "3. emlékmű La Venta-ban, egy hatalmas olmék kőfej.",
                   "category": "historical",
                   "coords": [
                         -94.041024,
@@ -5751,7 +5751,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Monumento 1",
-                  "text": "Egy emlékmű a La Venta régészeti lelőhelyen.",
+                  "text": "A Venta-i Monumento 1 egy olmék óriásfej bazaltból.",
                   "category": "historical",
                   "coords": [
                         -94.040946,
@@ -5760,7 +5760,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo de Sitio La Venta",
-                  "text": "Helyszíni múzeum a La Venta régészeti lelőhelyen.",
+                  "text": "A La Venta-i Helyszíni Múzeum az olmék lelőhelyről származó tárgyakat mutat be.",
                   "category": "museum",
                   "coords": [
                         -94.042724,
@@ -5769,7 +5769,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo La Venta",
-                  "text": "Egy múzeum a La Venta régészeti lelőhelyen.",
+                  "text": "A Museo La Venta az olmék régészeti területet jelöli piramisokkal és kőemlékekkel.",
                   "category": "historical",
                   "coords": [
                         -94.038909,
@@ -5780,7 +5780,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Monumento 3",
-                  "text": "Un monument la situl arheologic La Venta.",
+                  "text": "Monumentul 3 de la La Venta, un cap colosal olmec din piatră.",
                   "category": "historical",
                   "coords": [
                         -94.041024,
@@ -5789,7 +5789,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Monumento 1",
-                  "text": "Un monument la situl arheologic La Venta.",
+                  "text": "Monumento 1 din Venta este un cap colosal olmec din bazalt.",
                   "category": "historical",
                   "coords": [
                         -94.040946,
@@ -5798,7 +5798,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo de Sitio La Venta",
-                  "text": "Un muzeu de sit la situl arheologic La Venta.",
+                  "text": "Muzeul de Sit La Venta expune artefacte din situl olmec din apropiere.",
                   "category": "museum",
                   "coords": [
                         -94.042724,
@@ -5807,7 +5807,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo La Venta",
-                  "text": "Un muzeu la situl arheologic La Venta.",
+                  "text": "Museo La Venta desemnează situl arheologic olmec cu piramide și monumente de piatră.",
                   "category": "historical",
                   "coords": [
                         -94.038909,
@@ -5818,7 +5818,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Monumento 3",
-                  "text": "A monument at the La Venta archaeological site.",
+                  "text": "Monument 3 at La Venta, a colossal Olmec stone head.",
                   "category": "historical",
                   "coords": [
                         -94.041024,
@@ -5827,7 +5827,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Monumento 1",
-                  "text": "A monument at the La Venta archaeological site.",
+                  "text": "Monumento 1 in Venta is a colossal Olmec head carved from basalt.",
                   "category": "historical",
                   "coords": [
                         -94.040946,
@@ -5836,7 +5836,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo de Sitio La Venta",
-                  "text": "A site museum at the La Venta archaeological site.",
+                  "text": "The Museo de Sitio La Venta exhibits artifacts from the nearby Olmec site.",
                   "category": "museum",
                   "coords": [
                         -94.042724,
@@ -5845,7 +5845,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo La Venta",
-                  "text": "A museum at the La Venta archaeological site.",
+                  "text": "Museo La Venta refers to the Olmec archaeological site with pyramids and stone monuments.",
                   "category": "historical",
                   "coords": [
                         -94.038909,
@@ -6089,7 +6089,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo Subacuático de Arte",
-                  "text": "Das Unterwasser-Museum von Cancún zeigt versunkene Skulpturen.",
+                  "text": "Cancun Underwater Museum ist ein Unterwasser-Skulpturenmuseum in Rey.",
                   "category": "landmark",
                   "coords": [
                         -86.846196,
@@ -6098,7 +6098,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Playa Tortugas",
-                  "text": "Playa Tortugas ist ein Strand im Bereich El Rey in Cancún.",
+                  "text": "Playa Tortugas ist ein Sandstrand in Rey.",
                   "category": "recreational",
                   "coords": [
                         -86.769079,
@@ -6107,7 +6107,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Playa Ancha",
-                  "text": "Playa Ancha ist ein Strand im Bereich El Rey in Cancún.",
+                  "text": "Playa Ancha ist ein breiter Sandstrand in Rey.",
                   "category": "recreational",
                   "coords": [
                         -86.755167,
@@ -6116,7 +6116,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Casa Lima Museo Parque",
-                  "text": "Casa Lima Museo Parque ist ein Museum und Park im Bereich El Rey.",
+                  "text": "Die Casa Lima Museo Parque in Rey ist ein Museum im archäologischen Park El Rey mit Maya-Funden.",
                   "category": "museum",
                   "coords": [
                         -86.836964,
@@ -6125,7 +6125,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo de Sitio, Zona Arqueológica El Rey",
-                  "text": "Das Site-Museum der archäologischen Zone El Rey.",
+                  "text": "Das Museo de Sitio der Zone El Rey zeigt Fundstücke der präkolumbischen Maya-Siedlung.",
                   "category": "museum",
                   "coords": [
                         -86.78182,
@@ -6134,7 +6134,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo Maya de Cancún",
-                  "text": "Das Maya-Museum von Cancún zeigt Funde aus der Region.",
+                  "text": "Das Museo Maya de Cancún beherbergt über 400 Maya-Artefakte, darunter Stelen und Keramik.",
                   "category": "museum",
                   "coords": [
                         -86.777116,
@@ -6152,7 +6152,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Antigua torre de control",
-                  "text": "Der alte Kontrollturm als Denkmal im Bereich El Rey.",
+                  "text": "Der antike Kontrollturm in Rey ist ein Relikt aus den Anfängen des Flughafens von Cancún.",
                   "category": "historical",
                   "coords": [
                         -86.829686,
@@ -6188,7 +6188,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Playa",
-                  "text": "Ein Strand im Bereich El Rey in Cancún.",
+                  "text": "Dieser Strand in Rey liegt an der Karibikküste der Hotelzone von Cancún mit weißem Sand.",
                   "category": "landmark",
                   "coords": [
                         -86.77935,
@@ -6197,7 +6197,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Templo del Alacran",
-                  "text": "Ruinen eines Skorpion-Tempels in Cancún.",
+                  "text": "Die Skorpion-Tempelruinen in Rey sind eine Maya-Tempelstruktur mit Skorpion-Relief.",
                   "category": "landmark",
                   "coords": [
                         -86.760622,
@@ -6206,7 +6206,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Jungle Tour Adventure Cancun",
-                  "text": "Jungle Tour Adventure Cancun bietet Dschungelabenteuer in Cancún.",
+                  "text": "Die Jungle Tour Adventure Cancun führt durch Dschungel und Cenoten nahe der Stadt.",
                   "category": "landmark",
                   "coords": [
                         -86.772967,
@@ -6215,7 +6215,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Caracoles y Estrellas de Mar (El Ceviche)",
-                  "text": "Caracoles y Estrellas de Mar (El Ceviche) ist ein Meeresfrüchterestaurant in Cancún.",
+                  "text": "Caracoles y Estrellas de Mar (El Ceviche) ist ein Strandrestaurant mit Ceviche und Muscheldekor.",
                   "category": "landmark",
                   "coords": [
                         -86.825296,
@@ -6224,7 +6224,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Marina Cha-Chi",
-                  "text": "Marina Cha-Chi ist ein Jachthafen in Cancún.",
+                  "text": "Die Marina Cha-Chi in Rey bietet Bootstouren und Wassersport in der Nichupté-Lagune.",
                   "category": "landmark",
                   "coords": [
                         -86.793213,
@@ -6233,7 +6233,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Señal CANCÚN",
-                  "text": "Das CANCUN SIGN ist die ikonische Buchstabeninstallation in Cancún.",
+                  "text": "Das CANCUN-SCHILD in Rey ist die ikonische Buchstabeninstallation am Eingang zur Hotelzone.",
                   "category": "landmark",
                   "coords": [
                         -86.781193,
@@ -6242,7 +6242,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Condominio Bellamar",
-                  "text": "Bellamar Condo ist ein Wohnkomplex in Cancún.",
+                  "text": "Bellamar Condo in Rey ist ein Hochhaus-Wohngebäude an der Strandpromenade von Cancún.",
                   "category": "landmark",
                   "coords": [
                         -86.788512,
@@ -6251,7 +6251,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Torre Escénica de Cancún",
-                  "text": "Die Torre Escénica de Cancún ist ein Aussichtsturm mit Panoramablick über Cancún.",
+                  "text": "Der Torre Escénica de Cancún ist ein 100 Meter hoher Aussichtsturm mit Panoramablick über Lagune und Meer.",
                   "category": "landmark",
                   "coords": [
                         -86.788242,
@@ -6260,7 +6260,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Mirador",
-                  "text": "View Point ist ein Aussichtspunkt in Cancún.",
+                  "text": "Der Aussichtspunkt in Rey ist ein natürlicher Felsüberhang mit Blick auf das Karibische Meer.",
                   "category": "natural",
                   "coords": [
                         -86.779731,
@@ -6269,7 +6269,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Mirador playa delfines",
-                  "text": "Mirador Playa Delfines ist ein Aussichtspunkt oberhalb von Playa Delfines in Cancún.",
+                  "text": "Der Mirador Playa Delfines in Rey ist eine Aussichtsplattform oberhalb des gleichnamigen Strandes.",
                   "category": "natural",
                   "coords": [
                         -86.779216,
@@ -6287,7 +6287,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Parque Ecológico Kabah",
-                  "text": "Parque Ecológico Kabah ist ein ökologischer Park in Cancún.",
+                  "text": "1995 eröffneter Ökopark in Rey.",
                   "category": "natural",
                   "coords": [
                         -86.838393,
@@ -6296,7 +6296,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Área de Protección de Flora y Fauna San Buenaventura",
-                  "text": "Das Área de Protección de Flora y Fauna San Buenaventura ist ein Naturschutzgebiet in Cancún.",
+                  "text": "Schutzgebiet für Flora und Fauna in Rey, eingerichtet im August 2023.",
                   "category": "natural",
                   "coords": [
                         -86.817026,
@@ -6305,7 +6305,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Área de Protección de Flora y Fauna Jacinto Pat",
-                  "text": "Das Área de Protección de Flora y Fauna Jacinto Pat ist ein Naturschutzgebiet in Cancún.",
+                  "text": "Schutzgebiet für Flora und Fauna in Rey, eingerichtet im August 2023.",
                   "category": "natural",
                   "coords": [
                         -86.816877,
@@ -6323,7 +6323,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Playa Gaviota Azul",
-                  "text": "Playa Gaviota Azul ist ein Strand in Cancún.",
+                  "text": "Playa Gaviota Azul in Rey ist ein ruhiger Strand in der Hotelzone mit ruhigem Wasser.",
                   "category": "recreational",
                   "coords": [
                         -86.746368,
@@ -6332,7 +6332,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Playa Marlín",
-                  "text": "Playa Marlín ist ein Strand in Cancún.",
+                  "text": "Playa Marlín in Rey hat eine Angelpiere und bietet einen schönen Blick aufs Meer.",
                   "category": "recreational",
                   "coords": [
                         -86.762825,
@@ -6341,7 +6341,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Playa Ballenas",
-                  "text": "Playa Ballenas ist ein Strand in Cancún.",
+                  "text": "Playa Ballenas in Rey ist ein breiter Strand, der für Walbeobachtungen in der Saison bekannt ist.",
                   "category": "recreational",
                   "coords": [
                         -86.768581,
@@ -6350,7 +6350,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Playa San Miguelito",
-                  "text": "Playa San Miguelito ist ein Strand in Cancún.",
+                  "text": "Playa San Miguelito in Rey ist eine Sandbucht in der Nähe des archäologischen Parks El Rey.",
                   "category": "recreational",
                   "coords": [
                         -86.766244,
@@ -6359,7 +6359,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Playa Coral",
-                  "text": "Playa Coral ist ein Strand in Cancún.",
+                  "text": "Playa Coral in Rey ist ein Korallenriffstrand, ideal zum Schnorcheln.",
                   "category": "recreational",
                   "coords": [
                         -86.811927,
@@ -6368,7 +6368,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Playa Conchitas",
-                  "text": "Playa Conchitas ist ein Strand in Cancún.",
+                  "text": "Playa Conchitas in Rey ist ein kleiner Strand in der Hotelzone, übersät mit Muscheln.",
                   "category": "recreational",
                   "coords": [
                         -86.79934,
@@ -6388,7 +6388,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo Subacuático de Arte",
-                  "text": "A Cancúni Víz alatti Múzeum elsüllyedt szobrokat mutat be.",
+                  "text": "A Cancun Underwater Museum egy víz alatti szobormúzeum Reyben.",
                   "category": "landmark",
                   "coords": [
                         -86.846196,
@@ -6397,7 +6397,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Playa Tortugas",
-                  "text": "A Playa Tortugas egy strand Cancún El Rey nevű részében.",
+                  "text": "A Playa Tortugas egy homokos strand Reyben.",
                   "category": "recreational",
                   "coords": [
                         -86.769079,
@@ -6406,7 +6406,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Playa Ancha",
-                  "text": "A Playa Ancha egy strand Cancún El Rey nevű részében.",
+                  "text": "A Playa Ancha egy széles homokos strand Reyben.",
                   "category": "recreational",
                   "coords": [
                         -86.755167,
@@ -6415,7 +6415,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Casa Lima Museo Parque",
-                  "text": "A Casa Lima Museo Parque egy múzeum és park az El Rey területén.",
+                  "text": "A Rey-i Casa Lima Museo Parque egy múzeum az El Rey régészeti parkban, maja leletekkel.",
                   "category": "museum",
                   "coords": [
                         -86.836964,
@@ -6424,7 +6424,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo de Sitio, Zona Arqueológica El Rey",
-                  "text": "Az El Rey régészeti zóna helyszíni múzeuma.",
+                  "text": "Az El Rey zóna Helyszíni Múzeuma a prekolumbiánus maja település leleteit mutatja be.",
                   "category": "museum",
                   "coords": [
                         -86.78182,
@@ -6433,7 +6433,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo Maya de Cancún",
-                  "text": "A Cancúni Maja Múzeum a régió leleteit mutatja be.",
+                  "text": "A Cancúni Maya Múzeum több mint 400 maja tárgyat őriz, köztük sztéléket és kerámiákat.",
                   "category": "museum",
                   "coords": [
                         -86.777116,
@@ -6451,7 +6451,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Antigua torre de control",
-                  "text": "A régi irányítótorony emlékmű az El Rey területén.",
+                  "text": "A Rey-i régi irányítótorony a cancúni repülőtér korai éveinek emléke.",
                   "category": "historical",
                   "coords": [
                         -86.829686,
@@ -6487,7 +6487,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Playa",
-                  "text": "Egy strand Cancún El Rey nevű részében.",
+                  "text": "Ez a Rey-i strand a cancúni szállodai zóna karibi partján fekszik, fehér homokkal.",
                   "category": "landmark",
                   "coords": [
                         -86.77935,
@@ -6496,7 +6496,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Templo del Alacran",
-                  "text": "Skorpió-templom romjai Cancúnban.",
+                  "text": "A Rey-i Skorpió-templom romjai egy maja templomépület skorpió domborművel.",
                   "category": "landmark",
                   "coords": [
                         -86.760622,
@@ -6505,7 +6505,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Jungle Tour Adventure Cancun",
-                  "text": "Jungle Tour Adventure Cancun dzsungelkalandokat kínál Cancúnban.",
+                  "text": "A Jungle Tour Adventure Cancun a város közelében lévő dzsungelen és cenotokon vezet keresztül.",
                   "category": "landmark",
                   "coords": [
                         -86.772967,
@@ -6514,7 +6514,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Caracoles y Estrellas de Mar (El Ceviche)",
-                  "text": "Caracoles y Estrellas de Mar (El Ceviche) egy tenger gyümölcsei étterem Cancúnban.",
+                  "text": "A Caracoles y Estrellas de Mar (El Ceviche) egy tengerparti étterem ceviche-vel és kagyló díszítéssel.",
                   "category": "landmark",
                   "coords": [
                         -86.825296,
@@ -6523,7 +6523,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Marina Cha-Chi",
-                  "text": "Marina Cha-Chi egy kikötő Cancúnban.",
+                  "text": "A Rey-i Marina Cha-Chi hajókirándulásokat és vízi sportokat kínál a Nichupté-lagúnában.",
                   "category": "landmark",
                   "coords": [
                         -86.793213,
@@ -6532,7 +6532,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Señal CANCÚN",
-                  "text": "A CANCUN SIGN Cancún ikonikus betűinstallációja.",
+                  "text": "A Rey-i CANCUN FELIRAT a szállodai zóna bejáratánál lévő ikonikus betűinstalláció.",
                   "category": "landmark",
                   "coords": [
                         -86.781193,
@@ -6541,7 +6541,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Condominio Bellamar",
-                  "text": "Bellamar Condo egy lakókomplexum Cancúnban.",
+                  "text": "A Rey-i Bellamar Condo egy magas lakóépület a cancúni tengerparti sétányon.",
                   "category": "landmark",
                   "coords": [
                         -86.788512,
@@ -6550,7 +6550,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Torre Escénica de Cancún",
-                  "text": "A Torre Escénica de Cancún egy kilátótorony panorámás kilátással Cancúnt.",
+                  "text": "A Torre Escénica de Cancún egy 100 méteres kilátótorony, panorámás kilátással a lagúnára és az óceánra.",
                   "category": "landmark",
                   "coords": [
                         -86.788242,
@@ -6559,7 +6559,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Mirador",
-                  "text": "View Point egy kilátópont Cancúnban.",
+                  "text": "A Rey-i kilátópont egy természetes sziklás kiszögellés, rálátással a Karib-tengerre.",
                   "category": "natural",
                   "coords": [
                         -86.779731,
@@ -6568,7 +6568,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Mirador playa delfines",
-                  "text": "Mirador Playa Delfines egy kilátó a Playa Delfines felett Cancúnban.",
+                  "text": "A Rey-i Mirador Playa Delfines egy kilátó a névadó strand felett.",
                   "category": "natural",
                   "coords": [
                         -86.779216,
@@ -6586,7 +6586,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Parque Ecológico Kabah",
-                  "text": "Parque Ecológico Kabah egy ökológiai park Cancúnban.",
+                  "text": "1995-ben megnyílt ökológiai park Reyben.",
                   "category": "natural",
                   "coords": [
                         -86.838393,
@@ -6595,7 +6595,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Área de Protección de Flora y Fauna San Buenaventura",
-                  "text": "Az Área de Protección de Flora y Fauna San Buenaventura egy természetvédelmi terület Cancúnban.",
+                  "text": "Növény- és állatvilág védett területe Reyben, létrehozva 2023 augusztusában.",
                   "category": "natural",
                   "coords": [
                         -86.817026,
@@ -6604,7 +6604,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Área de Protección de Flora y Fauna Jacinto Pat",
-                  "text": "Az Área de Protección de Flora y Fauna Jacinto Pat egy természetvédelmi terület Cancúnban.",
+                  "text": "Növény- és állatvilág védett területe Reyben, létrehozva 2023 augusztusában.",
                   "category": "natural",
                   "coords": [
                         -86.816877,
@@ -6622,7 +6622,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Playa Gaviota Azul",
-                  "text": "Playa Gaviota Azul egy strand Cancúnban.",
+                  "text": "A Rey-i Playa Gaviota Azul egy csendes strand a szállodai zónában, nyugodt vízzel.",
                   "category": "recreational",
                   "coords": [
                         -86.746368,
@@ -6631,7 +6631,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Playa Marlín",
-                  "text": "Playa Marlín egy strand Cancúnban.",
+                  "text": "A Rey-i Playa Marlín horgászmólóval rendelkezik és szép tengerre nyíló kilátást nyújt.",
                   "category": "recreational",
                   "coords": [
                         -86.762825,
@@ -6640,7 +6640,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Playa Ballenas",
-                  "text": "Playa Ballenas egy strand Cancúnban.",
+                  "text": "A Rey-i Playa Ballenas egy széles strand, amely a szezonban bálnák megfigyeléséről ismert.",
                   "category": "recreational",
                   "coords": [
                         -86.768581,
@@ -6649,7 +6649,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Playa San Miguelito",
-                  "text": "Playa San Miguelito egy strand Cancúnban.",
+                  "text": "A Rey-i Playa San Miguelito egy homokos öböl az El Rey régészeti park közelében.",
                   "category": "recreational",
                   "coords": [
                         -86.766244,
@@ -6658,7 +6658,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Playa Coral",
-                  "text": "Playa Coral egy strand Cancúnban.",
+                  "text": "A Rey-i Playa Coral egy korallzátonyos strand, ideális snorkelezéshez.",
                   "category": "recreational",
                   "coords": [
                         -86.811927,
@@ -6667,7 +6667,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Playa Conchitas",
-                  "text": "Playa Conchitas egy strand Cancúnban.",
+                  "text": "A Rey-i Playa Conchitas egy kis strand a szállodai zónában, kagylókkal teli.",
                   "category": "recreational",
                   "coords": [
                         -86.79934,
@@ -6687,7 +6687,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo Subacuático de Arte",
-                  "text": "Muzeul Subacvatic din Cancún prezintă sculpturi scufundate.",
+                  "text": "Cancun Underwater Museum este un muzeu subacvatic de sculpturi în Rey.",
                   "category": "landmark",
                   "coords": [
                         -86.846196,
@@ -6696,7 +6696,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Playa Tortugas",
-                  "text": "Playa Tortugas este o plajă în zona El Rey din Cancún.",
+                  "text": "Playa Tortugas este o plajă cu nisip în Rey.",
                   "category": "recreational",
                   "coords": [
                         -86.769079,
@@ -6705,7 +6705,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Playa Ancha",
-                  "text": "Playa Ancha este o plajă în zona El Rey din Cancún.",
+                  "text": "Playa Ancha este o plajă largă cu nisip în Rey.",
                   "category": "recreational",
                   "coords": [
                         -86.755167,
@@ -6714,7 +6714,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Casa Lima Museo Parque",
-                  "text": "Casa Lima Museo Parque este un muzeu și un parc în zona El Rey.",
+                  "text": "Casa Lima Museo Parque din Rey este un muzeu în parcul arheologic El Rey, cu artefacte mayașe.",
                   "category": "museum",
                   "coords": [
                         -86.836964,
@@ -6723,7 +6723,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo de Sitio, Zona Arqueológica El Rey",
-                  "text": "Muzeul de sit al zonei arheologice El Rey.",
+                  "text": "Muzeul de Sit al Zonei Arheologice El Rey expune artefacte din așezarea mayașă precolumbiană.",
                   "category": "museum",
                   "coords": [
                         -86.78182,
@@ -6732,7 +6732,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo Maya de Cancún",
-                  "text": "Muzeul Maya din Cancún expune artefacte din regiune.",
+                  "text": "Muzeul Maya din Cancún găzduiește peste 400 de artefacte mayașe, inclusiv stele și ceramică.",
                   "category": "museum",
                   "coords": [
                         -86.777116,
@@ -6750,7 +6750,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Antigua torre de control",
-                  "text": "Fostul turn de control ca monument în zona El Rey.",
+                  "text": "Turnul de control vechi din Rey este o relicvă din primele zile ale aeroportului din Cancún.",
                   "category": "historical",
                   "coords": [
                         -86.829686,
@@ -6786,7 +6786,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Playa",
-                  "text": "O plajă în zona El Rey din Cancún.",
+                  "text": "Această plajă din Rey se află pe coasta Caraibelor a zonei hoteliere din Cancún, cu nisip alb.",
                   "category": "landmark",
                   "coords": [
                         -86.77935,
@@ -6795,7 +6795,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Templo del Alacran",
-                  "text": "Ruinele unui templu al Scorpionului din Cancún.",
+                  "text": "Ruinele Templului Scorpionului din Rey sunt o structură templieră mayașă cu un relief de scorpion.",
                   "category": "landmark",
                   "coords": [
                         -86.760622,
@@ -6804,7 +6804,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Jungle Tour Adventure Cancun",
-                  "text": "Jungle Tour Adventure Cancun oferă aventuri în junglă în Cancún.",
+                  "text": "Jungle Tour Adventure Cancun este un tur ghidat prin junglă și cenote lângă oraș.",
                   "category": "landmark",
                   "coords": [
                         -86.772967,
@@ -6813,7 +6813,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Caracoles y Estrellas de Mar (El Ceviche)",
-                  "text": "Caracoles y Estrellas de Mar (El Ceviche) este un restaurant cu fructe de mare în Cancún.",
+                  "text": "Caracoles y Estrellas de Mar (El Ceviche) este un restaurant pe plajă cu ceviche și decor cu scoici.",
                   "category": "landmark",
                   "coords": [
                         -86.825296,
@@ -6822,7 +6822,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Marina Cha-Chi",
-                  "text": "Marina Cha-Chi este o marină în Cancún.",
+                  "text": "Marina Cha-Chi din Rey oferă excursii cu barca și sporturi nautice în laguna Nichupté.",
                   "category": "landmark",
                   "coords": [
                         -86.793213,
@@ -6831,7 +6831,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Señal CANCÚN",
-                  "text": "CANCUN SIGN este instalația iconică de litere din Cancún.",
+                  "text": "SEMNUL CANCUN din Rey este instalația iconică de litere la intrarea în zona hotelieră.",
                   "category": "landmark",
                   "coords": [
                         -86.781193,
@@ -6840,7 +6840,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Condominio Bellamar",
-                  "text": "Bellamar Condo este un complex rezidențial în Cancún.",
+                  "text": "Bellamar Condo din Rey este o clădire de apartamente înaltă pe faleza din Cancún.",
                   "category": "landmark",
                   "coords": [
                         -86.788512,
@@ -6849,7 +6849,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Torre Escénica de Cancún",
-                  "text": "Torre Escénica de Cancún este un turn de observare cu vedere panoramică asupra Cancúnului.",
+                  "text": "Torre Escénica de Cancún este un turn de observație de 100 de metri, cu vederi panoramice asupra lagunei și oceanului.",
                   "category": "landmark",
                   "coords": [
                         -86.788242,
@@ -6858,7 +6858,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Mirador",
-                  "text": "View Point este un punct de belvedere în Cancún.",
+                  "text": "Punctul de belvedere din Rey este o stâncă naturală cu vedere spre Marea Caraibilor.",
                   "category": "natural",
                   "coords": [
                         -86.779731,
@@ -6867,7 +6867,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Mirador playa delfines",
-                  "text": "Mirador Playa Delfines este un punct de belvedere deasupra Playa Delfines din Cancún.",
+                  "text": "Mirador Playa Delfines din Rey este o platformă de observație deasupra plajei cu același nume.",
                   "category": "natural",
                   "coords": [
                         -86.779216,
@@ -6885,7 +6885,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Parque Ecológico Kabah",
-                  "text": "Parque Ecológico Kabah este un parc ecologic în Cancún.",
+                  "text": "Parcul ecologic deschis în 1995 în Rey.",
                   "category": "natural",
                   "coords": [
                         -86.838393,
@@ -6894,7 +6894,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Área de Protección de Flora y Fauna San Buenaventura",
-                  "text": "Área de Protección de Flora y Fauna San Buenaventura este o arie protejată în Cancún.",
+                  "text": "Arie de protecție a florei și faunei în Rey, înființată în august 2023.",
                   "category": "natural",
                   "coords": [
                         -86.817026,
@@ -6903,7 +6903,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Área de Protección de Flora y Fauna Jacinto Pat",
-                  "text": "Área de Protección de Flora y Fauna Jacinto Pat este o arie protejată în Cancún.",
+                  "text": "Arie de protecție a florei și faunei în Rey, înființată în august 2023.",
                   "category": "natural",
                   "coords": [
                         -86.816877,
@@ -6921,7 +6921,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Playa Gaviota Azul",
-                  "text": "Playa Gaviota Azul este o plajă în Cancún.",
+                  "text": "Playa Gaviota Azul din Rey este o plajă liniștită în zona hotelieră, cu ape calme.",
                   "category": "recreational",
                   "coords": [
                         -86.746368,
@@ -6930,7 +6930,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Playa Marlín",
-                  "text": "Playa Marlín este o plajă în Cancún.",
+                  "text": "Playa Marlín din Rey are un dig de pescuit și oferă o vedere frumoasă asupra mării.",
                   "category": "recreational",
                   "coords": [
                         -86.762825,
@@ -6939,7 +6939,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Playa Ballenas",
-                  "text": "Playa Ballenas este o plajă în Cancún.",
+                  "text": "Playa Ballenas din Rey este o plajă largă, cunoscută pentru observarea balenelor în sezon.",
                   "category": "recreational",
                   "coords": [
                         -86.768581,
@@ -6948,7 +6948,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Playa San Miguelito",
-                  "text": "Playa San Miguelito este o plajă în Cancún.",
+                  "text": "Playa San Miguelito din Rey este o plajă mică de nisip lângă parcul arheologic El Rey.",
                   "category": "recreational",
                   "coords": [
                         -86.766244,
@@ -6957,7 +6957,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Playa Coral",
-                  "text": "Playa Coral este o plajă în Cancún.",
+                  "text": "Playa Coral din Rey este o plajă cu recif de corali, potrivită pentru snorkeling.",
                   "category": "recreational",
                   "coords": [
                         -86.811927,
@@ -6966,7 +6966,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Playa Conchitas",
-                  "text": "Playa Conchitas este o plajă în Cancún.",
+                  "text": "Playa Conchitas din Rey este o plajă mică în zona hotelieră, acoperită cu scoici.",
                   "category": "recreational",
                   "coords": [
                         -86.79934,
@@ -6986,7 +6986,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Cancun Underwater Museum",
-                  "text": "The Cancun Underwater Museum features submerged sculptures.",
+                  "text": "Cancun Underwater Museum is an underwater sculpture museum in Rey.",
                   "category": "landmark",
                   "coords": [
                         -86.846196,
@@ -6995,7 +6995,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Playa Tortugas",
-                  "text": "Playa Tortugas is a beach in the El Rey area of Cancun.",
+                  "text": "Playa Tortugas is a sandy beach in Rey.",
                   "category": "recreational",
                   "coords": [
                         -86.769079,
@@ -7004,7 +7004,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Playa Ancha",
-                  "text": "Playa Ancha is a beach in the El Rey area of Cancun.",
+                  "text": "Playa Ancha is a wide sandy beach in Rey.",
                   "category": "recreational",
                   "coords": [
                         -86.755167,
@@ -7013,7 +7013,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Casa Lima Museo Parque",
-                  "text": "Casa Lima Museo Parque is a museum and park in the El Rey area.",
+                  "text": "Casa Lima Museo Parque in Rey is a museum within the El Rey archaeological park featuring Maya artifacts.",
                   "category": "museum",
                   "coords": [
                         -86.836964,
@@ -7022,7 +7022,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo de Sitio, Zona Arqueológica El Rey",
-                  "text": "The site museum of the El Rey archaeological zone.",
+                  "text": "The Museo de Sitio of the El Rey archaeological zone displays artifacts from the pre-Columbian Maya settlement.",
                   "category": "museum",
                   "coords": [
                         -86.78182,
@@ -7031,7 +7031,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo Maya de Cancún",
-                  "text": "The Maya Museum of Cancun displays artifacts from the region.",
+                  "text": "The Museo Maya de Cancún houses over 400 Maya artifacts, including stelae and pottery.",
                   "category": "museum",
                   "coords": [
                         -86.777116,
@@ -7049,7 +7049,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Antigua torre de control",
-                  "text": "The old control tower monument in the El Rey area.",
+                  "text": "The old control tower in Rey is a relic from the early days of Cancún's airport.",
                   "category": "historical",
                   "coords": [
                         -86.829686,
@@ -7085,7 +7085,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Beach",
-                  "text": "A beach in the El Rey area of Cancun.",
+                  "text": "This beach in Rey is on the Caribbean coast of Cancún's Hotel Zone, with white sand.",
                   "category": "landmark",
                   "coords": [
                         -86.77935,
@@ -7094,7 +7094,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Scorpion's Temple ruins",
-                  "text": "Ruins of a Scorpion's Temple in Cancún.",
+                  "text": "The Scorpion's Temple ruins in Rey are a Maya temple structure with a scorpion relief.",
                   "category": "landmark",
                   "coords": [
                         -86.760622,
@@ -7103,7 +7103,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Jungle Tour Adventure Cancun",
-                  "text": "Jungle Tour Adventure Cancun offers jungle adventures in Cancún.",
+                  "text": "Jungle Tour Adventure Cancun is a guided tour through jungles and cenotes near the city.",
                   "category": "landmark",
                   "coords": [
                         -86.772967,
@@ -7112,7 +7112,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Caracoles y Estrellas de Mar (El Ceviche)",
-                  "text": "Caracoles y Estrellas de Mar (El Ceviche) is a seafood restaurant in Cancún.",
+                  "text": "Caracoles y Estrellas de Mar (El Ceviche) is a beachfront restaurant known for ceviche and seashell decor.",
                   "category": "landmark",
                   "coords": [
                         -86.825296,
@@ -7121,7 +7121,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Marina Cha-Chi",
-                  "text": "Marina Cha-Chi is a marina in Cancún.",
+                  "text": "Marina Cha-Chi in Rey offers boat tours and water sports in the Nichupté Lagoon.",
                   "category": "landmark",
                   "coords": [
                         -86.793213,
@@ -7130,7 +7130,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "CANCUN SIGN",
-                  "text": "The CANCUN SIGN is the iconic letter installation in Cancún.",
+                  "text": "The CANCUN SIGN in Rey is the iconic letter installation at the entrance to the Hotel Zone.",
                   "category": "landmark",
                   "coords": [
                         -86.781193,
@@ -7139,7 +7139,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Bellamar Condo",
-                  "text": "Bellamar Condo is a condominium complex in Cancún.",
+                  "text": "Bellamar Condo in Rey is a high-rise residential building along Cancún's beachfront.",
                   "category": "landmark",
                   "coords": [
                         -86.788512,
@@ -7148,7 +7148,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Torre Escénica de Cancún",
-                  "text": "Torre Escénica de Cancún is a scenic tower with panoramic views of Cancún.",
+                  "text": "Torre Escénica de Cancún is a 100-meter observation tower with panoramic views of the lagoon and ocean.",
                   "category": "landmark",
                   "coords": [
                         -86.788242,
@@ -7157,7 +7157,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "View Point",
-                  "text": "View Point is a viewpoint in Cancún.",
+                  "text": "The View Point in Rey is a natural cliffside overlook with views of the Caribbean Sea.",
                   "category": "natural",
                   "coords": [
                         -86.779731,
@@ -7166,7 +7166,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Mirador playa delfines",
-                  "text": "Mirador Playa Delfines is a viewpoint above Playa Delfines in Cancún.",
+                  "text": "Mirador Playa Delfines in Rey is a lookout platform above the namesake beach.",
                   "category": "natural",
                   "coords": [
                         -86.779216,
@@ -7184,7 +7184,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Parque Ecológico Kabah",
-                  "text": "Parque Ecológico Kabah is an ecological park in Cancún.",
+                  "text": "Ecological park opened in 1995 in Rey.",
                   "category": "natural",
                   "coords": [
                         -86.838393,
@@ -7193,7 +7193,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Área de Protección de Flora y Fauna San Buenaventura",
-                  "text": "Área de Protección de Flora y Fauna San Buenaventura is a nature reserve in Cancún.",
+                  "text": "Flora and fauna protection area in Rey, established in August 2023.",
                   "category": "natural",
                   "coords": [
                         -86.817026,
@@ -7202,7 +7202,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Área de Protección de Flora y Fauna Jacinto Pat",
-                  "text": "Área de Protección de Flora y Fauna Jacinto Pat is a nature reserve in Cancún.",
+                  "text": "Flora and fauna protection area in Rey, established in August 2023.",
                   "category": "natural",
                   "coords": [
                         -86.816877,
@@ -7220,7 +7220,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Playa Gaviota Azul",
-                  "text": "Playa Gaviota Azul is a beach in Cancún.",
+                  "text": "Playa Gaviota Azul in Rey is a quiet beach in the Hotel Zone with calm waters.",
                   "category": "recreational",
                   "coords": [
                         -86.746368,
@@ -7229,7 +7229,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Playa Marlín",
-                  "text": "Playa Marlín is a beach in Cancún.",
+                  "text": "Playa Marlín in Rey has a fishing pier and scenic sea views.",
                   "category": "recreational",
                   "coords": [
                         -86.762825,
@@ -7238,7 +7238,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Playa Ballenas",
-                  "text": "Playa Ballenas is a beach in Cancún.",
+                  "text": "Playa Ballenas in Rey is a wide beach known for whale watching during season.",
                   "category": "recreational",
                   "coords": [
                         -86.768581,
@@ -7247,7 +7247,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Playa San Miguelito",
-                  "text": "Playa San Miguelito is a beach in Cancún.",
+                  "text": "Playa San Miguelito in Rey is a sandy cove near the El Rey archaeological park.",
                   "category": "recreational",
                   "coords": [
                         -86.766244,
@@ -7256,7 +7256,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Playa Coral",
-                  "text": "Playa Coral is a beach in Cancún.",
+                  "text": "Playa Coral in Rey is a coral reef beach, ideal for snorkeling.",
                   "category": "recreational",
                   "coords": [
                         -86.811927,
@@ -7265,7 +7265,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Playa Conchitas",
-                  "text": "Playa Conchitas is a beach in Cancún.",
+                  "text": "Playa Conchitas in Rey is a small beach in the Hotel Zone, strewn with shells.",
                   "category": "recreational",
                   "coords": [
                         -86.79934,
@@ -7325,7 +7325,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Hogar",
-                  "text": "Hogar ist ein Schloss in der Gegend von Dzibilchaltun.",
+                  "text": "Hogar in Dzibilchaltun ist ein restauriertes Kolonialhaus, heute Museum zur Geschichte der Hacienda.",
                   "category": "castle",
                   "coords": [
                         -89.54994,
@@ -7343,7 +7343,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Komchén",
-                  "text": "Komchén sind Ruinen in der Gegend von Dzibilchaltun.",
+                  "text": "Komchén bei Dzibilchaltun ist eine kleinere Maya-Stätte mit einer Pyramide.",
                   "category": "historical",
                   "coords": [
                         -89.646453,
@@ -7352,7 +7352,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Zona Arquueologica Tixcuytun",
-                  "text": "Die Zona Arqueológica Tixcuytun ist eine archäologische Zone in der Gegend von Dzibilchaltun.",
+                  "text": "Die Zone Tixcuytun in Dzibilchaltun ist eine Maya-Siedlung mit erhaltenen Steinbauten.",
                   "category": "historical",
                   "coords": [
                         -89.572771,
@@ -7361,7 +7361,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Cuadra De Caballos San Rafael",
-                  "text": "Cuadra De Caballos San Rafael ist ein Aussichtspunkt in der Gegend von Dzibilchaltun.",
+                  "text": "Cuadra De Caballos San Rafael ist ein Naturgebiet mit Reitwegen nahe den Ruinen.",
                   "category": "natural",
                   "coords": [
                         -89.613539,
@@ -7370,7 +7370,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Chimenea de la hacienda Sodzil Norte",
-                  "text": "Die Chimenea de la hacienda Sodzil Norte ist ein Denkmal in der Gegend von Dzibilchaltun.",
+                  "text": "Der Kamin der Hacienda Sodzil Norte zeugt von der ehemaligen Henequen-Produktion des 19. Jahrhunderts.",
                   "category": "historical",
                   "coords": [
                         -89.630786,
@@ -7379,7 +7379,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Rancho Las Palomas",
-                  "text": "Rancho Las Palomas ist eine Attraktion in der Gegend von Dzibilchaltun.",
+                  "text": "Rancho Las Palomas in Dzibilchaltun ist ein arbeitender Ranch mit Reitausflügen.",
                   "category": "landmark",
                   "coords": [
                         -89.517107,
@@ -7388,7 +7388,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo de Arte Sacro de Conkal",
-                  "text": "Das Museo de Arte Sacro de Conkal ist ein Museum für sakrale Kunst in Conkal in der Gegend von Dzibilchaltun.",
+                  "text": "Das Museo de Arte Sacro de Conkal zeigt religiöse Kunst in einem ehemaligen Kloster.",
                   "category": "museum",
                   "coords": [
                         -89.519742,
@@ -7397,7 +7397,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estuctura maya en la exhacienda San Pedro Cholul",
-                  "text": "Estructura maya en la exhacienda San Pedro Cholul ist eine archäologische Stätte in der Gegend von Dzibilchaltun.",
+                  "text": "Die Maya-Struktur auf der Ex-Hacienda San Pedro Cholul ist ein kleiner Tempel auf dem Anwesen.",
                   "category": "historical",
                   "coords": [
                         -89.556692,
@@ -7406,7 +7406,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Exhacienda San Pedro Cholul",
-                  "text": "Exhacienda San Pedro Cholul sind Ruinen in der Gegend von Dzibilchaltun.",
+                  "text": "Die Ex-Hacienda San Pedro Cholul ist eine Hacienda aus dem 17. Jahrhundert mit Kapelle und originaler Architektur.",
                   "category": "historical",
                   "coords": [
                         -89.550188,
@@ -7415,7 +7415,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Iglesia Abandonada San José de Capadocia",
-                  "text": "Die verlassene Kirche San José de Capadocia in Dzibilchaltún ist eine Ruine.",
+                  "text": "Die verlassene Kirche San José de Capadocia ist eine Ruine mit barocker Fassade.",
                   "category": "historical",
                   "coords": [
                         -89.595059,
@@ -7424,7 +7424,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Hacienda de Misnebalam",
-                  "text": "Die Hacienda de Misnebalam in Dzibilchaltún ist eine archäologische Stätte einer ehemaligen Hacienda.",
+                  "text": "Die Hacienda de Misnebalam ist eine restaurierte Henequen-Hacienda, heute Museum und Veranstaltungsort.",
                   "category": "historical",
                   "coords": [
                         -89.594808,
@@ -7433,7 +7433,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Foro GNP Seguros",
-                  "text": "Das Foro GNP Seguros in Dzibilchaltún ist ein Theater, das für Konzerte und Veranstaltungen genutzt wird.",
+                  "text": "Moderne Indoor-Arena für Konzerte und Veranstaltungen in Dzibilchaltun, Mérida.",
                   "category": "cultural",
                   "coords": [
                         -89.638765,
@@ -7451,7 +7451,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Structure 44",
-                  "text": "Struktur 44 in Dzibilchaltún ist eine Maya-Ruine.",
+                  "text": "Struktur 44 in Dzibilchaltun ist ein Maya-Gebäude, vielleicht ein Tempel mit Stuckmasken.",
                   "category": "historical",
                   "coords": [
                         -89.59737,
@@ -7460,7 +7460,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Structure 49",
-                  "text": "Struktur 49 in Dzibilchaltún ist eine Maya-Ruine.",
+                  "text": "Struktur 49 in Dzibilchaltun ist ein weiteres Gebäude aus der Maya-Zeit im Zentrum der Stadt.",
                   "category": "historical",
                   "coords": [
                         -89.59628,
@@ -7469,7 +7469,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Structure 36",
-                  "text": "Struktur 36 in Dzibilchaltún ist eine Maya-Ruine.",
+                  "text": "Struktur 36 in Dzibilchaltun ist eine Plattform mit möglicherweise ritueller Bedeutung.",
                   "category": "historical",
                   "coords": [
                         -89.596689,
@@ -7478,7 +7478,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Structure 46",
-                  "text": "Struktur 46 in Dzibilchaltún ist eine Maya-Ruine.",
+                  "text": "Struktur 46 in Dzibilchaltun ist ein Wohn- oder Verwaltungsgebäude aus der Maya-Klassik.",
                   "category": "historical",
                   "coords": [
                         -89.598279,
@@ -7487,7 +7487,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Structure 12",
-                  "text": "Struktur 12 in Dzibilchaltún ist eine Maya-Ruine.",
+                  "text": "Struktur 12 in Dzibilchaltun ist ein kleines, rechteckiges Gebäude nahe dem zentralen Platz.",
                   "category": "historical",
                   "coords": [
                         -89.591658,
@@ -7496,7 +7496,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Platform of the Knives",
-                  "text": "Die Plattform der Messer in Dzibilchaltún ist eine Ruine.",
+                  "text": "Die Plattform der Messer in Dzibilchaltun ist eine zeremonielle Plattform, auf der Obsidianmesser gefunden wurden.",
                   "category": "historical",
                   "coords": [
                         -89.595739,
@@ -7516,7 +7516,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Hogar",
-                  "text": "A Hogar egy kastély a Dzibilchaltun környékén.",
+                  "text": "A Dzibilchaltun-i Hogar egy felújított gyarmati ház, ma a hacienda történetének múzeuma.",
                   "category": "castle",
                   "coords": [
                         -89.54994,
@@ -7534,7 +7534,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Komchén",
-                  "text": "A Komchén romok a Dzibilchaltun környékén.",
+                  "text": "A Dzibilchaltun melletti Komchén egy kisebb maja lelőhely piramissal.",
                   "category": "historical",
                   "coords": [
                         -89.646453,
@@ -7543,7 +7543,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Zona Arquueologica Tixcuytun",
-                  "text": "A Zona Arqueológica Tixcuytun egy régészeti övezet a Dzibilchaltun környékén.",
+                  "text": "A Dzibilchaltun-i Tixcuytun zóna egy maja település megmaradt kőépületekkel.",
                   "category": "historical",
                   "coords": [
                         -89.572771,
@@ -7552,7 +7552,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Cuadra De Caballos San Rafael",
-                  "text": "A Cuadra De Caballos San Rafael egy kilátópont a Dzibilchaltun környékén.",
+                  "text": "A Cuadra De Caballos San Rafael egy természeti terület lovaglóutakkal a romok közelében.",
                   "category": "natural",
                   "coords": [
                         -89.613539,
@@ -7561,7 +7561,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Chimenea de la hacienda Sodzil Norte",
-                  "text": "A Chimenea de la hacienda Sodzil Norte egy emlékmű a Dzibilchaltun környékén.",
+                  "text": "A Sodzil Norte hacienda kéménye a 19. századi henequen-termelésre utal.",
                   "category": "historical",
                   "coords": [
                         -89.630786,
@@ -7570,7 +7570,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Rancho Las Palomas",
-                  "text": "A Rancho Las Palomas egy látványosság a Dzibilchaltun környékén.",
+                  "text": "A Dzibilchaltun-i Rancho Las Palomas egy működő ranch lovaglási lehetőségekkel.",
                   "category": "landmark",
                   "coords": [
                         -89.517107,
@@ -7579,7 +7579,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo de Arte Sacro de Conkal",
-                  "text": "A Museo de Arte Sacro de Conkal egy szakrális művészeti múzeum Conkalban, a Dzibilchaltun környékén.",
+                  "text": "A Conkal-i Szent Művészeti Múzeum egy egykori kolostorban mutat be vallási művészetet.",
                   "category": "museum",
                   "coords": [
                         -89.519742,
@@ -7588,7 +7588,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estuctura maya en la exhacienda San Pedro Cholul",
-                  "text": "Estructura maya en la exhacienda San Pedro Cholul egy régészeti lelőhely a Dzibilchaltun környékén.",
+                  "text": "A San Pedro Cholul egykori haciendán lévő maja építmény egy kis templom a birtokon.",
                   "category": "historical",
                   "coords": [
                         -89.556692,
@@ -7597,7 +7597,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Exhacienda San Pedro Cholul",
-                  "text": "Az Exhacienda San Pedro Cholul romok a Dzibilchaltun környékén.",
+                  "text": "A San Pedro Cholul egykori hacienda egy 17. századi hacienda kápolnával és eredeti építészettel.",
                   "category": "historical",
                   "coords": [
                         -89.550188,
@@ -7606,7 +7606,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Iglesia Abandonada San José de Capadocia",
-                  "text": "A Dzibilchaltúnban található elhagyott San José de Capadocia templom romjai.",
+                  "text": "Az elhagyott San José de Capadocia templom egy rom barokk homlokzattal.",
                   "category": "historical",
                   "coords": [
                         -89.595059,
@@ -7615,7 +7615,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Hacienda de Misnebalam",
-                  "text": "A Dzibilchaltúnban található Hacienda de Misnebalam egy egykori hacienda régészeti lelőhelye.",
+                  "text": "A Misnebalam hacienda egy felújított henequen-hacienda, ma múzeum és rendezvényhelyszín.",
                   "category": "historical",
                   "coords": [
                         -89.594808,
@@ -7624,7 +7624,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Foro GNP Seguros",
-                  "text": "A Dzibilchaltúnban található Foro GNP Seguros egy színház, amelyet koncertek és események számára használnak.",
+                  "text": "Modern fedett aréna koncerteknek és eseményeknek Dzibilchaltunban, Méridában.",
                   "category": "cultural",
                   "coords": [
                         -89.638765,
@@ -7642,7 +7642,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Structure 44",
-                  "text": "A 44-es szerkezet Dzibilchaltúnban egy maja rom.",
+                  "text": "A Dzibilchaltun-i 44-es építmény egy maja épület, talán egy templom stukkómaszkokkal.",
                   "category": "historical",
                   "coords": [
                         -89.59737,
@@ -7651,7 +7651,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Structure 49",
-                  "text": "A 49-es szerkezet Dzibilchaltúnban egy maja rom.",
+                  "text": "A Dzibilchaltun-i 49-es építmény egy másik maja kori épület a város központjában.",
                   "category": "historical",
                   "coords": [
                         -89.59628,
@@ -7660,7 +7660,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Structure 36",
-                  "text": "A 36-os szerkezet Dzibilchaltúnban egy maja rom.",
+                  "text": "A Dzibilchaltun-i 36-os építmény egy platform, valószínűleg rituális jelentőséggel.",
                   "category": "historical",
                   "coords": [
                         -89.596689,
@@ -7669,7 +7669,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Structure 46",
-                  "text": "A 46-os szerkezet Dzibilchaltúnban egy maja rom.",
+                  "text": "A Dzibilchaltun-i 46-os építmény egy lakó- vagy adminisztrációs épület a maja klasszikus korból.",
                   "category": "historical",
                   "coords": [
                         -89.598279,
@@ -7678,7 +7678,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Structure 12",
-                  "text": "A 12-es szerkezet Dzibilchaltúnban egy maja rom.",
+                  "text": "A Dzibilchaltun-i 12-es építmény egy kis, téglalap alakú épület a központi tér közelében.",
                   "category": "historical",
                   "coords": [
                         -89.591658,
@@ -7687,7 +7687,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Platform of the Knives",
-                  "text": "A Kések platformja Dzibilchaltúnban romok.",
+                  "text": "A Dzibilchaltun-i Kések Platformja egy ceremoniális platform, ahol obszidiánkéseket találtak.",
                   "category": "historical",
                   "coords": [
                         -89.595739,
@@ -7707,7 +7707,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Hogar",
-                  "text": "Hogar este un castel în zona Dzibilchaltun.",
+                  "text": "Hogar din Dzibilchaltun este o casă colonială restaurată, acum muzeu al istoriei haciendei.",
                   "category": "castle",
                   "coords": [
                         -89.54994,
@@ -7725,7 +7725,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Komchén",
-                  "text": "Komchén este un sit de ruine în zona Dzibilchaltun.",
+                  "text": "Komchén lângă Dzibilchaltun este un sit mayaș mai mic cu o piramidă.",
                   "category": "historical",
                   "coords": [
                         -89.646453,
@@ -7734,7 +7734,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Zona Arquueologica Tixcuytun",
-                  "text": "Zona Arqueológica Tixcuytun este o zonă arheologică în zona Dzibilchaltun.",
+                  "text": "Zona Tixcuytun din Dzibilchaltun este o așezare mayașă cu structuri de piatră păstrate.",
                   "category": "historical",
                   "coords": [
                         -89.572771,
@@ -7743,7 +7743,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Cuadra De Caballos San Rafael",
-                  "text": "Cuadra De Caballos San Rafael este un punct de belvedere în zona Dzibilchaltun.",
+                  "text": "Cuadra De Caballos San Rafael este o zonă naturală cu trasee călare lângă ruine.",
                   "category": "natural",
                   "coords": [
                         -89.613539,
@@ -7752,7 +7752,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Chimenea de la hacienda Sodzil Norte",
-                  "text": "Chimenea de la hacienda Sodzil Norte este un monument în zona Dzibilchaltun.",
+                  "text": "Coșul de fum al haciendei Sodzil Norte amintește de producția de henequen din secolul al XIX-lea.",
                   "category": "historical",
                   "coords": [
                         -89.630786,
@@ -7761,7 +7761,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Rancho Las Palomas",
-                  "text": "Rancho Las Palomas este o atracție în zona Dzibilchaltun.",
+                  "text": "Rancho Las Palomas din Dzibilchaltun este o fermă în funcțiune cu excursii călare.",
                   "category": "landmark",
                   "coords": [
                         -89.517107,
@@ -7770,7 +7770,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo de Arte Sacro de Conkal",
-                  "text": "Museo de Arte Sacro de Conkal este un muzeu de artă sacră în Conkal, în zona Dzibilchaltun.",
+                  "text": "Muzeul de Artă Sacră din Conkal expune artă religioasă într-o fostă mănăstire.",
                   "category": "museum",
                   "coords": [
                         -89.519742,
@@ -7779,7 +7779,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estuctura maya en la exhacienda San Pedro Cholul",
-                  "text": "Estructura maya en la exhacienda San Pedro Cholul este un sit arheologic în zona Dzibilchaltun.",
+                  "text": "Structura mayașă de pe exhacienda San Pedro Cholul este un mic templu pe proprietate.",
                   "category": "historical",
                   "coords": [
                         -89.556692,
@@ -7788,7 +7788,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Exhacienda San Pedro Cholul",
-                  "text": "Exhacienda San Pedro Cholul sunt ruine în zona Dzibilchaltun.",
+                  "text": "Exhacienda San Pedro Cholul este o hacienda din secolul al XVII-lea, cu capelă și arhitectură originală.",
                   "category": "historical",
                   "coords": [
                         -89.550188,
@@ -7797,7 +7797,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Iglesia Abandonada San José de Capadocia",
-                  "text": "Ruinele bisericii abandonate San José de Capadocia din Dzibilchaltún.",
+                  "text": "Biserica abandonată San José de Capadocia este o ruină cu fațadă barocă.",
                   "category": "historical",
                   "coords": [
                         -89.595059,
@@ -7806,7 +7806,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Hacienda de Misnebalam",
-                  "text": "Hacienda de Misnebalam din Dzibilchaltún este un sit arheologic al unei foste hacienda.",
+                  "text": "Hacienda de Misnebalam este o hacienda de henequen restaurată, acum muzeu și loc de evenimente.",
                   "category": "historical",
                   "coords": [
                         -89.594808,
@@ -7815,7 +7815,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Foro GNP Seguros",
-                  "text": "Foro GNP Seguros din Dzibilchaltún este un teatru folosit pentru concerte și evenimente.",
+                  "text": "Arenă modernă acoperită pentru concerte și evenimente în Dzibilchaltun, Mérida.",
                   "category": "cultural",
                   "coords": [
                         -89.638765,
@@ -7833,7 +7833,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Structure 44",
-                  "text": "Structura 44 din Dzibilchaltún este o ruină mayașă.",
+                  "text": "Structura 44 din Dzibilchaltun este o clădire mayașă, posibil un templu cu măști de stuc.",
                   "category": "historical",
                   "coords": [
                         -89.59737,
@@ -7842,7 +7842,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Structure 49",
-                  "text": "Structura 49 din Dzibilchaltún este o ruină mayașă.",
+                  "text": "Structura 49 din Dzibilchaltun este o altă clădire din perioada mayașă din centrul orașului.",
                   "category": "historical",
                   "coords": [
                         -89.59628,
@@ -7851,7 +7851,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Structure 36",
-                  "text": "Structura 36 din Dzibilchaltún este o ruină mayașă.",
+                  "text": "Structura 36 din Dzibilchaltun este o platformă cu posibilă semnificație rituală.",
                   "category": "historical",
                   "coords": [
                         -89.596689,
@@ -7860,7 +7860,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Structure 46",
-                  "text": "Structura 46 din Dzibilchaltún este o ruină mayașă.",
+                  "text": "Structura 46 din Dzibilchaltun este o clădire rezidențială sau administrativă din perioada clasică mayașă.",
                   "category": "historical",
                   "coords": [
                         -89.598279,
@@ -7869,7 +7869,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Structure 12",
-                  "text": "Structura 12 din Dzibilchaltún este o ruină mayașă.",
+                  "text": "Structura 12 din Dzibilchaltun este o clădire mică, dreptunghiulară, lângă piața centrală.",
                   "category": "historical",
                   "coords": [
                         -89.591658,
@@ -7878,7 +7878,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Platform of the Knives",
-                  "text": "Platforma cuțitelor din Dzibilchaltún este o ruină.",
+                  "text": "Platforma Cuțitelor din Dzibilchaltun este o platformă ceremonială unde s-au descoperit cuțite de obsidian.",
                   "category": "historical",
                   "coords": [
                         -89.595739,
@@ -7898,7 +7898,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Hogar",
-                  "text": "Hogar is a castle in the Dzibilchaltun area.",
+                  "text": "Hogar in Dzibilchaltun is a restored colonial house, now a museum of hacienda history.",
                   "category": "castle",
                   "coords": [
                         -89.54994,
@@ -7916,7 +7916,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Komchén",
-                  "text": "Komchén is a ruins site in the Dzibilchaltun area.",
+                  "text": "Komchén near Dzibilchaltun is a smaller Maya site with a pyramid.",
                   "category": "historical",
                   "coords": [
                         -89.646453,
@@ -7925,7 +7925,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Zona Arquueologica Tixcuytun",
-                  "text": "Zona Arqueológica Tixcuytun is an archaeological zone in the Dzibilchaltun area.",
+                  "text": "The Tixcuytun zone in Dzibilchaltun is a Maya settlement with preserved stone structures.",
                   "category": "historical",
                   "coords": [
                         -89.572771,
@@ -7934,7 +7934,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Cuadra De Caballos San Rafael",
-                  "text": "Cuadra De Caballos San Rafael is a viewpoint in the Dzibilchaltun area.",
+                  "text": "Cuadra De Caballos San Rafael is a natural area with horse trails near the ruins.",
                   "category": "natural",
                   "coords": [
                         -89.613539,
@@ -7943,7 +7943,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Chimenea de la hacienda Sodzil Norte",
-                  "text": "Chimenea de la hacienda Sodzil Norte is a monument in the Dzibilchaltun area.",
+                  "text": "The chimney of the Hacienda Sodzil Norte is a remnant of its 19th-century henequen production.",
                   "category": "historical",
                   "coords": [
                         -89.630786,
@@ -7952,7 +7952,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Rancho Las Palomas",
-                  "text": "Rancho Las Palomas is an attraction in the Dzibilchaltun area.",
+                  "text": "Rancho Las Palomas in Dzibilchaltun is a working ranch offering horseback tours.",
                   "category": "landmark",
                   "coords": [
                         -89.517107,
@@ -7961,7 +7961,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo de Arte Sacro de Conkal",
-                  "text": "Museo de Arte Sacro de Conkal is a museum of sacred art in Conkal in the Dzibilchaltun area.",
+                  "text": "The Museo de Arte Sacro de Conkal displays sacred art in a former convent.",
                   "category": "museum",
                   "coords": [
                         -89.519742,
@@ -7970,7 +7970,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Estuctura maya en la exhacienda San Pedro Cholul",
-                  "text": "Estructura maya en la exhacienda San Pedro Cholul is an archaeological site in the Dzibilchaltun area.",
+                  "text": "The Maya structure on the ex-hacienda San Pedro Cholul is a small temple on the estate.",
                   "category": "historical",
                   "coords": [
                         -89.556692,
@@ -7979,7 +7979,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Exhacienda San Pedro Cholul",
-                  "text": "Exhacienda San Pedro Cholul is a ruins site in the Dzibilchaltun area.",
+                  "text": "Exhacienda San Pedro Cholul is a 17th-century hacienda with a chapel and original architecture.",
                   "category": "historical",
                   "coords": [
                         -89.550188,
@@ -7988,7 +7988,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Iglesia Abandonada San José de Capadocia",
-                  "text": "The abandoned church San José de Capadocia in Dzibilchaltún is a ruin.",
+                  "text": "The abandoned church San José de Capadocia is a ruin with a Baroque façade.",
                   "category": "historical",
                   "coords": [
                         -89.595059,
@@ -7997,7 +7997,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Hacienda de Misnebalam",
-                  "text": "Hacienda de Misnebalam in Dzibilchaltún is an archaeological site of a former hacienda.",
+                  "text": "Hacienda de Misnebalam is a restored henequen hacienda, now a museum and event venue.",
                   "category": "historical",
                   "coords": [
                         -89.594808,
@@ -8006,7 +8006,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Foro GNP Seguros",
-                  "text": "Foro GNP Seguros in Dzibilchaltún is a theatre used for concerts and events.",
+                  "text": "A modern indoor arena for concerts and events in Dzibilchaltun, Mérida.",
                   "category": "cultural",
                   "coords": [
                         -89.638765,
@@ -8024,7 +8024,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Structure 44",
-                  "text": "Structure 44 in Dzibilchaltún is a Maya ruin.",
+                  "text": "Structure 44 in Dzibilchaltun is a Maya building, possibly a temple with stucco masks.",
                   "category": "historical",
                   "coords": [
                         -89.59737,
@@ -8033,7 +8033,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Structure 49",
-                  "text": "Structure 49 in Dzibilchaltún is a Maya ruin.",
+                  "text": "Structure 49 in Dzibilchaltun is another Maya-era building in the city's center.",
                   "category": "historical",
                   "coords": [
                         -89.59628,
@@ -8042,7 +8042,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Structure 36",
-                  "text": "Structure 36 in Dzibilchaltún is a Maya ruin.",
+                  "text": "Structure 36 in Dzibilchaltun is a platform possibly with ritual significance.",
                   "category": "historical",
                   "coords": [
                         -89.596689,
@@ -8051,7 +8051,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Structure 46",
-                  "text": "Structure 46 in Dzibilchaltún is a Maya ruin.",
+                  "text": "Structure 46 in Dzibilchaltun is a residential or administrative building from the Maya Classic period.",
                   "category": "historical",
                   "coords": [
                         -89.598279,
@@ -8060,7 +8060,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Structure 12",
-                  "text": "Structure 12 in Dzibilchaltún is a Maya ruin.",
+                  "text": "Structure 12 in Dzibilchaltun is a small, rectangular building near the central plaza.",
                   "category": "historical",
                   "coords": [
                         -89.591658,
@@ -8069,7 +8069,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Platform of the Knives",
-                  "text": "The Platform of the Knives in Dzibilchaltún is a ruin.",
+                  "text": "The Platform of the Knives in Dzibilchaltun is a ceremonial platform where obsidian knives were found.",
                   "category": "historical",
                   "coords": [
                         -89.595739,
@@ -8265,7 +8265,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Galerie",
-                  "text": "Eine Galerie in der Nähe von Ek Balam.",
+                  "text": "Eine Galerie in einem renovierten Kolonialhaus in Balam.",
                   "category": "landmark",
                   "coords": [
                         -88.136069,
@@ -8274,7 +8274,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Cenote Hubikú",
-                  "text": "Cenote Hubikú ist ein natürlicher Süßwassersee nahe Ek Balam.",
+                  "text": "Cenote Hubikú, ein Einsturzsee mit kristallklarem Wasser zum Schwimmen in Balam.",
                   "category": "landmark",
                   "coords": [
                         -88.172432,
@@ -8283,7 +8283,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Cénote",
-                  "text": "Ein Cenote in der Nähe von Ek Balam.",
+                  "text": "Ein Cenote mit einer Holzplattform zum Sprung ins Wasser in Balam.",
                   "category": "landmark",
                   "coords": [
                         -88.145495,
@@ -8292,7 +8292,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Alte Maya-Höhle",
-                  "text": "Alte Maya-Höhle in der Nähe von Ek Balam.",
+                  "text": "Eine alte Maya-Höhle mit Stalaktiten und Stalagmiten in Balam.",
                   "category": "landmark",
                   "coords": [
                         -88.050989,
@@ -8301,7 +8301,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Cenote Sak Awa",
-                  "text": "Cenote Sak Awa in der Nähe von Ek Balam.",
+                  "text": "Cenote Sak Awa, ein Einsturzsee mit weißen Kalksteinwänden in Balam.",
                   "category": "landmark",
                   "coords": [
                         -88.051265,
@@ -8310,7 +8310,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Juego de Pelota",
-                  "text": "Ruinen eines Ballspielplatzes in Ek Balam.",
+                  "text": "Ein restaurierter Maya-Ballspielplatz mit Steinringen in Balam.",
                   "category": "historical",
                   "coords": [
                         -88.136066,
@@ -8319,7 +8319,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Cenote X-Canché",
-                  "text": "Cenote X-Canché in der Nähe von Ek Balam.",
+                  "text": "Cenote X-Canché, beliebt zum Schwimmen und Tauchen in Balam.",
                   "category": "landmark",
                   "coords": [
                         -88.120408,
@@ -8328,7 +8328,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Centro de Educación Ambiental Finca San Luis",
-                  "text": "Das Umweltbildungszentrum Finca San Luis ist ein Naturschutzgebiet nahe Ek Balam.",
+                  "text": "Ein Umweltbildungszentrum mit Naturpfaden auf dem Gut San Luis in Balam.",
                   "category": "natural",
                   "coords": [
                         -88.125783,
@@ -8339,7 +8339,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Galerie",
-                  "text": "Egy galéria Ek Balam közelében.",
+                  "text": "Egy galéria egy felújított gyarmati házban Balam-ban.",
                   "category": "landmark",
                   "coords": [
                         -88.136069,
@@ -8348,7 +8348,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Cenote Hubikú",
-                  "text": "A Cenote Hubikú egy természetes édesvizű tó Ek Balam közelében.",
+                  "text": "Hubikú cenote, egy kristálytiszta vizű nyelőlyuk úszáshoz Balam-ban.",
                   "category": "landmark",
                   "coords": [
                         -88.172432,
@@ -8357,7 +8357,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Cénote",
-                  "text": "Egy cenote Ek Balam közelében.",
+                  "text": "Egy cénote fából készült ugróplatformmal Balam-ban.",
                   "category": "landmark",
                   "coords": [
                         -88.145495,
@@ -8366,7 +8366,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Cueva de Maya",
-                  "text": "Ősi maja barlang Ek Balam közelében.",
+                  "text": "Egy ősi maja barlang cseppkövekkel Balam-ban.",
                   "category": "landmark",
                   "coords": [
                         -88.050989,
@@ -8375,7 +8375,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Cenote Sak Awa",
-                  "text": "Cenote Sak Awa Ek Balam közelében.",
+                  "text": "Sak Awa cenote, fehér mészkőfalú nyelőlyuk Balam-ban.",
                   "category": "landmark",
                   "coords": [
                         -88.051265,
@@ -8384,7 +8384,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Juego de Pelota",
-                  "text": "Egy labdajátékpálya romjai Ek Balam területén.",
+                  "text": "Egy helyreállított maja labdapálya kőgyűrűkkel Balam-ban.",
                   "category": "historical",
                   "coords": [
                         -88.136066,
@@ -8393,7 +8393,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Cenote X-Canché",
-                  "text": "Cenote X-Canché Ek Balam közelében.",
+                  "text": "X-Canché cenote, népszerű úszásra és merülésre Balam-ban.",
                   "category": "landmark",
                   "coords": [
                         -88.120408,
@@ -8402,7 +8402,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Centro de Educación Ambiental Finca San Luis",
-                  "text": "A Finca San Luis Környezeti Nevelési Központ természetvédelmi terület Ek Balam közelében.",
+                  "text": "Egy környezeti nevelési központ természeti ösvényekkel a San Luis birtokon Balam-ban.",
                   "category": "natural",
                   "coords": [
                         -88.125783,
@@ -8413,7 +8413,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Galerie",
-                  "text": "O galerie lângă Ek Balam.",
+                  "text": "O galerie într-o casă colonială renovată în Balam.",
                   "category": "landmark",
                   "coords": [
                         -88.136069,
@@ -8422,7 +8422,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Cenote Hubikú",
-                  "text": "Cenote Hubikú este un lac natural de apă dulce lângă Ek Balam.",
+                  "text": "Cenote Hubikú, o doline cu apă cristalină pentru înot în Balam.",
                   "category": "landmark",
                   "coords": [
                         -88.172432,
@@ -8431,7 +8431,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Cénote",
-                  "text": "Un cenote lângă Ek Balam.",
+                  "text": "Un cenote cu o platformă de lemn pentru sărituri în apă în Balam.",
                   "category": "landmark",
                   "coords": [
                         -88.145495,
@@ -8440,7 +8440,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Cueva de Maya",
-                  "text": "O peșteră mayașă veche lângă Ek Balam.",
+                  "text": "O peșteră mayașă antică cu stalactite și stalagmite în Balam.",
                   "category": "landmark",
                   "coords": [
                         -88.050989,
@@ -8449,7 +8449,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Cenote Sak Awa",
-                  "text": "Cenote Sak Awa lângă Ek Balam.",
+                  "text": "Cenote Sak Awa, o doline cu pereți de calcar alb în Balam.",
                   "category": "landmark",
                   "coords": [
                         -88.051265,
@@ -8458,7 +8458,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Juego de Pelota",
-                  "text": "Ruinele unui teren de joc cu mingea la Ek Balam.",
+                  "text": "Un teren de joc cu mingi mayaș restaurat, cu inele de piatră în Balam.",
                   "category": "historical",
                   "coords": [
                         -88.136066,
@@ -8467,7 +8467,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Cenote X-Canché",
-                  "text": "Cenote X-Canché lângă Ek Balam.",
+                  "text": "Cenote X-Canché, popular pentru înot și scufundări în Balam.",
                   "category": "landmark",
                   "coords": [
                         -88.120408,
@@ -8476,7 +8476,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Centro de Educación Ambiental Finca San Luis",
-                  "text": "Centrul de Educație Ecologică Finca San Luis este o rezervație naturală lângă Ek Balam.",
+                  "text": "Un centru de educație ecologică cu trasee naturale pe moșia San Luis din Balam.",
                   "category": "natural",
                   "coords": [
                         -88.125783,
@@ -8487,7 +8487,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Galerie",
-                  "text": "A gallery near Ek Balam.",
+                  "text": "A gallery set in a renovated colonial house in Balam.",
                   "category": "landmark",
                   "coords": [
                         -88.136069,
@@ -8496,7 +8496,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Cenote Hubikú",
-                  "text": "Cenote Hubikú is a natural freshwater sinkhole near Ek Balam.",
+                  "text": "Cenote Hubikú, a sinkhole with crystal-clear water for swimming in Balam.",
                   "category": "landmark",
                   "coords": [
                         -88.172432,
@@ -8505,7 +8505,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Cénote",
-                  "text": "A cenote near Ek Balam.",
+                  "text": "A cenote with a wooden platform for jumping into the water in Balam.",
                   "category": "landmark",
                   "coords": [
                         -88.145495,
@@ -8514,7 +8514,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Old Maya cave",
-                  "text": "Old Maya cave near Ek Balam.",
+                  "text": "An ancient Maya cave with stalactites and stalagmites in Balam.",
                   "category": "landmark",
                   "coords": [
                         -88.050989,
@@ -8523,7 +8523,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Cenote Sak Awa",
-                  "text": "Cenote Sak Awa near Ek Balam.",
+                  "text": "Cenote Sak Awa, a white limestone-walled sinkhole in Balam.",
                   "category": "landmark",
                   "coords": [
                         -88.051265,
@@ -8532,7 +8532,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Juego de Pelota",
-                  "text": "Ball court ruins at Ek Balam.",
+                  "text": "A restored Mayan ball court with stone rings in Balam.",
                   "category": "historical",
                   "coords": [
                         -88.136066,
@@ -8541,7 +8541,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Cenote X-Canché",
-                  "text": "Cenote X-Canché near Ek Balam.",
+                  "text": "Cenote X-Canché, popular for swimming and diving in Balam.",
                   "category": "landmark",
                   "coords": [
                         -88.120408,
@@ -8550,7 +8550,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Centro de Educación Ambiental Finca San Luis",
-                  "text": "Centro de Educación Ambiental Finca San Luis is a nature reserve near Ek Balam.",
+                  "text": "An environmental education center with nature trails on the San Luis estate in Balam.",
                   "category": "natural",
                   "coords": [
                         -88.125783,
@@ -8825,7 +8825,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Foro Cultural Chapultepec",
-                  "text": "Das Foro Cultural Chapultepec ist ein Theater in Chapultepec, Mexiko-Stadt, das kulturelle Veranstaltungen ausrichtet.",
+                  "text": "Ein Kulturforum mit Konzerten und Aufführungen in Castle.",
                   "category": "cultural",
                   "coords": [
                         -99.179127,
@@ -8861,7 +8861,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Teatro Ofelia",
-                  "text": "Das Teatro Ofelia ist ein Theater in Chapultepec, Mexiko-Stadt.",
+                  "text": "Ein Theater mit neoklassizistischer Fassade in Castle.",
                   "category": "cultural",
                   "coords": [
                         -99.182767,
@@ -8870,7 +8870,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Voladores de Papantla",
-                  "text": "Die Voladores de Papantla sind eine Attraktion in Chapultepec, Mexiko-Stadt.",
+                  "text": "Ein Aufführungsort für die Voladores de Papantla, wo Tänzer von einer hohen Stange schwingen in Castle.",
                   "category": "landmark",
                   "coords": [
                         -99.184062,
@@ -9097,7 +9097,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Foro Cultural Chapultepec",
-                  "text": "A Foro Cultural Chapultepec egy színház a Chapultepecben, Mexikóvárosban, amely kulturális eseményeket rendez.",
+                  "text": "Kulturális fórum koncertekkel és előadásokkal Castle-ben.",
                   "category": "cultural",
                   "coords": [
                         -99.179127,
@@ -9133,7 +9133,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Teatro Ofelia",
-                  "text": "A Teatro Ofelia egy színház Chapultepecben, Mexikóvárosban.",
+                  "text": "Egy színház neoklasszikus homlokzattal Castle-ben.",
                   "category": "cultural",
                   "coords": [
                         -99.182767,
@@ -9142,7 +9142,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Voladores de Papantla",
-                  "text": "A Voladores de Papantla egy látványosság Chapultepecben, Mexikóvárosban.",
+                  "text": "A Voladores de Papantla előadóhelye, ahol táncosok egy magas rúdról pörögnek Castle-ben.",
                   "category": "landmark",
                   "coords": [
                         -99.184062,
@@ -9369,7 +9369,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Foro Cultural Chapultepec",
-                  "text": "Foro Cultural Chapultepec este un teatru în Chapultepec, Mexico City, care găzduiește evenimente culturale.",
+                  "text": "Un forum cultural care găzduiește concerte și spectacole în Castle.",
                   "category": "cultural",
                   "coords": [
                         -99.179127,
@@ -9405,7 +9405,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Teatro Ofelia",
-                  "text": "Teatro Ofelia este un teatru în Chapultepec, Mexico City.",
+                  "text": "Un teatru cu fațadă neoclasică în Castle.",
                   "category": "cultural",
                   "coords": [
                         -99.182767,
@@ -9414,7 +9414,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Voladores de Papantla",
-                  "text": "Voladores de Papantla este o atracție în Chapultepec, Mexico City.",
+                  "text": "Un loc de spectacol pentru Voladores de Papantla, unde dansatorii se învârt de pe un stâlp înalt în Castle.",
                   "category": "landmark",
                   "coords": [
                         -99.184062,
@@ -9641,7 +9641,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Foro Cultural Chapultepec",
-                  "text": "The Foro Cultural Chapultepec is a theatre in Chapultepec, Mexico City, hosting cultural events.",
+                  "text": "A cultural forum hosting concerts and performances in Castle.",
                   "category": "cultural",
                   "coords": [
                         -99.179127,
@@ -9677,7 +9677,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Teatro Ofelia",
-                  "text": "Teatro Ofelia is a theatre in Chapultepec, Mexico City.",
+                  "text": "A theater with a neoclassical façade in Castle.",
                   "category": "cultural",
                   "coords": [
                         -99.182767,
@@ -9686,7 +9686,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Voladores de Papantla",
-                  "text": "Voladores de Papantla is an attraction in Chapultepec, Mexico City.",
+                  "text": "A performance site for the Voladores de Papantla, where dancers spin from a tall pole in Castle.",
                   "category": "landmark",
                   "coords": [
                         -99.184062,
@@ -9745,7 +9745,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Museo Foro Valparaíso",
-                  "text": "Ein Museum in Mexiko-Stadt.",
+                  "text": "Ein Museum in De Bellas Artes mit Ausstellungen zur Seefahrtsgeschichte von Valparaíso.",
                   "category": "museum",
                   "coords": [
                         -99.136248,
@@ -9754,7 +9754,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo Casa de la Memoria Indómita",
-                  "text": "Ein Museum in Mexiko-Stadt.",
+                  "text": "Ein Museum, das Mexikos soziale Bewegungen in einem historischen Haus in De Bellas Artes dokumentiert.",
                   "category": "museum",
                   "coords": [
                         -99.1348,
@@ -9763,7 +9763,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Teatro San Millán",
-                  "text": "Ein Theater in Mexiko-Stadt.",
+                  "text": "Ein Theater mit barockem Fassadenstil in De Bellas Artes.",
                   "category": "cultural",
                   "coords": [
                         -99.138576,
@@ -9772,7 +9772,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Carreterra 45",
-                  "text": "Ein Kulturzentrum/Theater in Mexiko-Stadt.",
+                  "text": "Ein Kulturzentrum an der Autobahn 45 mit Wandmalereien in De Bellas Artes.",
                   "category": "cultural",
                   "coords": [
                         -99.136873,
@@ -9781,7 +9781,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo del Juguete Antiguo México",
-                  "text": "Ein Museum für antikes Spielzeug in Mexiko-Stadt.",
+                  "text": "Ein Museum mit antiken mexikanischen Spielzeugen aus dem 19. Jahrhundert in De Bellas Artes.",
                   "category": "museum",
                   "coords": [
                         -99.144101,
@@ -9790,7 +9790,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Instituto Nacional de Bellas Artes",
-                  "text": "Das Nationalinstitut der Schönen Künste in Mexiko-Stadt.",
+                  "text": "Der Hauptsitz des Nationalen Instituts für Schöne Künste Mexikos, mit Kunstausstellungen in De Bellas Artes.",
                   "category": "cultural",
                   "coords": [
                         -99.135758,
@@ -9808,7 +9808,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Centro de la Imagen",
-                  "text": "Ein Museum für Bildkultur in Mexiko-Stadt.",
+                  "text": "Ein Museum für Fotografie und Bildkultur in De Bellas Artes.",
                   "category": "museum",
                   "coords": [
                         -99.148898,
@@ -9817,7 +9817,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Galería Abraham Zabludovsky",
-                  "text": "Eine Galerie in Mexiko-Stadt.",
+                  "text": "Eine von Architekt Abraham Zabludovsky entworfene Galerie, die moderne Kunst in De Bellas Artes zeigt.",
                   "category": "museum",
                   "coords": [
                         -99.150046,
@@ -9835,7 +9835,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Anfiteatro",
-                  "text": "Ein Amphitheater in Mexiko-Stadt.",
+                  "text": "Ein Freiluftamphitheater für Konzerte in De Bellas Artes.",
                   "category": "cultural",
                   "coords": [
                         -99.148529,
@@ -9844,7 +9844,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "La Resurrección Tultenco",
-                  "text": "Eine Kapelle, bekannt als La Resurrección Tultenco, in Mexiko-Stadt.",
+                  "text": "Kapelle aus dem 16. Jahrhundert, eine der ältesten in Mexiko-Stadt, im Viertel Narvarte.",
                   "category": "religious",
                   "coords": [
                         -99.126423,
@@ -9853,7 +9853,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Basílica de San José y Nuestra Señora del Sagrado Corazón",
-                  "text": "Eine Basilika in Mexiko-Stadt.",
+                  "text": "Basílica de San José y Nuestra Señora del Sagrado Corazón ist eine Basilika in De Bellas Artes.",
                   "category": "religious",
                   "coords": [
                         -99.143472,
@@ -9862,7 +9862,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo Agrario",
-                  "text": "Ein Agrar museum in Mexiko-Stadt.",
+                  "text": "Ein Museum über Mexikos Agrarreform und ländliches Leben in De Bellas Artes.",
                   "category": "museum",
                   "coords": [
                         -99.131992,
@@ -9889,7 +9889,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Fuente de Salto del Agua",
-                  "text": "Ein Brunnen in Mexiko-Stadt.",
+                  "text": "Ein Brunnen mit einer Wasserkaskade in De Bellas Artes.",
                   "category": "landmark",
                   "coords": [
                         -99.142268,
@@ -9898,7 +9898,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Teatro Ciudadela",
-                  "text": "Ein Theater in Mexiko-Stadt.",
+                  "text": "Ein Theater in der Nähe der Festung Ciudadela in De Bellas Artes.",
                   "category": "cultural",
                   "coords": [
                         -99.151265,
@@ -9907,7 +9907,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Arena México",
-                  "text": "Eine Arena in Mexiko-Stadt, bekannt für Wrestling-Veranstaltungen.",
+                  "text": "Größte Wrestling-Arena der Welt in Mexiko-Stadt, Heimat der Lucha Libre.",
                   "category": "landmark",
                   "coords": [
                         -99.152003,
@@ -9918,7 +9918,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Museo Foro Valparaíso",
-                  "text": "Múzeum Mexikóvárosban.",
+                  "text": "Egy múzeum De Bellas Artes-ben Valparaíso tengerészeti történetének kiállításával.",
                   "category": "museum",
                   "coords": [
                         -99.136248,
@@ -9927,7 +9927,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo Casa de la Memoria Indómita",
-                  "text": "Múzeum Mexikóvárosban.",
+                  "text": "Egy múzeum, amely Mexikó társadalmi mozgalmait dokumentálja egy történelmi házban De Bellas Artes-ben.",
                   "category": "museum",
                   "coords": [
                         -99.1348,
@@ -9936,7 +9936,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Teatro San Millán",
-                  "text": "Színház Mexikóvárosban.",
+                  "text": "Egy színház barokk stílusú homlokzattal De Bellas Artes-ben.",
                   "category": "cultural",
                   "coords": [
                         -99.138576,
@@ -9945,7 +9945,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Carreterra 45",
-                  "text": "Kulturális központ/színház Mexikóvárosban.",
+                  "text": "Egy kulturális központ a 45-ös főút mellett, falfestményekkel De Bellas Artes-ben.",
                   "category": "cultural",
                   "coords": [
                         -99.136873,
@@ -9954,7 +9954,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo del Juguete Antiguo México",
-                  "text": "Antik játékok múzeuma Mexikóvárosban.",
+                  "text": "Egy múzeum a 19. századi antik mexikói játékokkal De Bellas Artes-ben.",
                   "category": "museum",
                   "coords": [
                         -99.144101,
@@ -9963,7 +9963,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Instituto Nacional de Bellas Artes",
-                  "text": "A Szépművészeti Nemzeti Intézet Mexikóvárosban.",
+                  "text": "Mexikó Nemzeti Szépművészeti Intézetének székhelye, művészeti kiállításokkal De Bellas Artes-ben.",
                   "category": "cultural",
                   "coords": [
                         -99.135758,
@@ -9981,7 +9981,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Centro de la Imagen",
-                  "text": "Képmúzeum Mexikóvárosban.",
+                  "text": "Egy fotográfia és képkultúra múzeuma De Bellas Artes-ben.",
                   "category": "museum",
                   "coords": [
                         -99.148898,
@@ -9990,7 +9990,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Galería Abraham Zabludovsky",
-                  "text": "Galéria Mexikóvárosban.",
+                  "text": "Abraham Zabludovsky építész által tervezett galéria, modern művészetet bemutatva De Bellas Artes-ben.",
                   "category": "museum",
                   "coords": [
                         -99.150046,
@@ -10008,7 +10008,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Anfiteatro",
-                  "text": "Amfiteátrum Mexikóvárosban.",
+                  "text": "Egy szabadtéri amfiteátrum koncertek számára De Bellas Artes-ben.",
                   "category": "cultural",
                   "coords": [
                         -99.148529,
@@ -10017,7 +10017,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "La Resurrección Tultenco",
-                  "text": "Kápolna, más néven La Resurrección Tultenco, Mexikóvárosban.",
+                  "text": "16. századi kápolna, Mexikóváros egyik legrégebbi temploma a Narvarte negyedben.",
                   "category": "religious",
                   "coords": [
                         -99.126423,
@@ -10026,7 +10026,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Basílica de San José y Nuestra Señora del Sagrado Corazón",
-                  "text": "Bazilika Mexikóvárosban.",
+                  "text": "A Basílica de San José y Nuestra Señora del Sagrado Corazón egy bazilika De Bellas Artesben.",
                   "category": "religious",
                   "coords": [
                         -99.143472,
@@ -10035,7 +10035,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo Agrario",
-                  "text": "Agrár múzeum Mexikóvárosban.",
+                  "text": "Mexikó agrárreformjáról és vidéki életéről szóló múzeum De Bellas Artes-ben.",
                   "category": "museum",
                   "coords": [
                         -99.131992,
@@ -10062,7 +10062,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Fuente de Salto del Agua",
-                  "text": "Szökőkút Mexikóvárosban.",
+                  "text": "Egy szökőkút vízkaszkáddal De Bellas Artes-ben.",
                   "category": "landmark",
                   "coords": [
                         -99.142268,
@@ -10071,7 +10071,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Teatro Ciudadela",
-                  "text": "Színház Mexikóvárosban.",
+                  "text": "A Ciudadela erőd közelében található színház De Bellas Artes-ben.",
                   "category": "cultural",
                   "coords": [
                         -99.151265,
@@ -10080,7 +10080,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Arena México",
-                  "text": "Arena Mexikóvárosban, híres birkózó rendezvényekről.",
+                  "text": "A világ legnagyobb birkózó arénája Mexikóvárosban, a Lucha Libre otthona.",
                   "category": "landmark",
                   "coords": [
                         -99.152003,
@@ -10091,7 +10091,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Museo Foro Valparaíso",
-                  "text": "Un muzeu în Mexico City.",
+                  "text": "Un muzeu în De Bellas Artes cu exponate despre istoria maritimă a Valparaíso.",
                   "category": "museum",
                   "coords": [
                         -99.136248,
@@ -10100,7 +10100,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo Casa de la Memoria Indómita",
-                  "text": "Un muzeu în Mexico City.",
+                  "text": "Un muzeu care documentează mișcările sociale ale Mexicului într-o casă istorică din De Bellas Artes.",
                   "category": "museum",
                   "coords": [
                         -99.1348,
@@ -10109,7 +10109,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Teatro San Millán",
-                  "text": "Un teatru în Mexico City.",
+                  "text": "Un teatru cu fațadă în stil baroc în De Bellas Artes.",
                   "category": "cultural",
                   "coords": [
                         -99.138576,
@@ -10118,7 +10118,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Carreterra 45",
-                  "text": "Un centru cultural/teatru în Mexico City.",
+                  "text": "Un centru cultural situat pe Autostrada 45, cu picturi murale în De Bellas Artes.",
                   "category": "cultural",
                   "coords": [
                         -99.136873,
@@ -10127,7 +10127,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo del Juguete Antiguo México",
-                  "text": "Un muzeu al jucăriilor antice în Mexico City.",
+                  "text": "Un muzeu care expune jucării antice mexicane din secolul al XIX-lea în De Bellas Artes.",
                   "category": "museum",
                   "coords": [
                         -99.144101,
@@ -10136,7 +10136,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Instituto Nacional de Bellas Artes",
-                  "text": "Institutul Național de Arte Frumoase din Mexico City.",
+                  "text": "Sediul Institutului Național de Arte Frumoase al Mexicului, cu expoziții de artă în De Bellas Artes.",
                   "category": "cultural",
                   "coords": [
                         -99.135758,
@@ -10154,7 +10154,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Centro de la Imagen",
-                  "text": "Un muzeu al imaginii în Mexico City.",
+                  "text": "Un muzeu dedicat fotografiei și culturii imaginii în De Bellas Artes.",
                   "category": "museum",
                   "coords": [
                         -99.148898,
@@ -10163,7 +10163,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Galería Abraham Zabludovsky",
-                  "text": "O galerie în Mexico City.",
+                  "text": "O galerie proiectată de arhitectul Abraham Zabludovsky, care expune artă modernă în De Bellas Artes.",
                   "category": "museum",
                   "coords": [
                         -99.150046,
@@ -10181,7 +10181,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Anfiteatro",
-                  "text": "Un amfiteatru în Mexico City.",
+                  "text": "Un amfiteatru în aer liber folosit pentru concerte în De Bellas Artes.",
                   "category": "cultural",
                   "coords": [
                         -99.148529,
@@ -10190,7 +10190,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "La Resurrección Tultenco",
-                  "text": "O capelă, cunoscută ca La Resurrección Tultenco, în Mexico City.",
+                  "text": "Capelă din secolul al XVI-lea, una dintre cele mai vechi din Ciudad de México, în cartierul Narvarte.",
                   "category": "religious",
                   "coords": [
                         -99.126423,
@@ -10199,7 +10199,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Basílica de San José y Nuestra Señora del Sagrado Corazón",
-                  "text": "O bazilică în Mexico City.",
+                  "text": "Basílica de San José y Nuestra Señora del Sagrado Corazón este o bazilică în De Bellas Artes.",
                   "category": "religious",
                   "coords": [
                         -99.143472,
@@ -10208,7 +10208,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo Agrario",
-                  "text": "Un muzeu agrar în Mexico City.",
+                  "text": "Un muzeu despre reforma agrară a Mexicului și viața rurală în De Bellas Artes.",
                   "category": "museum",
                   "coords": [
                         -99.131992,
@@ -10235,7 +10235,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Fuente de Salto del Agua",
-                  "text": "O fântână în Mexico City.",
+                  "text": "O fântână cu o cascadă de apă în De Bellas Artes.",
                   "category": "landmark",
                   "coords": [
                         -99.142268,
@@ -10244,7 +10244,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Teatro Ciudadela",
-                  "text": "Un teatru în Mexico City.",
+                  "text": "Un teatru situat lângă cetatea Ciudadela în De Bellas Artes.",
                   "category": "cultural",
                   "coords": [
                         -99.151265,
@@ -10253,7 +10253,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Arena México",
-                  "text": "O arenă în Mexico City, cunoscută pentru evenimente de wrestling.",
+                  "text": "Cea mai mare arenă de wrestling din lume în Ciudad de México, casa Lucha Libre.",
                   "category": "landmark",
                   "coords": [
                         -99.152003,
@@ -10264,7 +10264,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Museo Foro Valparaíso",
-                  "text": "A museum in Mexico City.",
+                  "text": "A museum in De Bellas Artes with exhibits on Valparaíso's maritime history.",
                   "category": "museum",
                   "coords": [
                         -99.136248,
@@ -10273,7 +10273,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo Casa de la Memoria Indómita",
-                  "text": "A museum in Mexico City.",
+                  "text": "A museum documenting Mexico's social movements in a historic house in De Bellas Artes.",
                   "category": "museum",
                   "coords": [
                         -99.1348,
@@ -10282,7 +10282,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Teatro San Millán",
-                  "text": "A theatre in Mexico City.",
+                  "text": "A theater with a Baroque-style façade in De Bellas Artes.",
                   "category": "cultural",
                   "coords": [
                         -99.138576,
@@ -10291,7 +10291,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Carreterra 45",
-                  "text": "A cultural centre/theatre in Mexico City.",
+                  "text": "A cultural center located on Highway 45 featuring murals in De Bellas Artes.",
                   "category": "cultural",
                   "coords": [
                         -99.136873,
@@ -10300,7 +10300,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo del Juguete Antiguo México",
-                  "text": "A museum of antique toys in Mexico City.",
+                  "text": "A museum displaying antique Mexican toys from the 19th century in De Bellas Artes.",
                   "category": "museum",
                   "coords": [
                         -99.144101,
@@ -10309,7 +10309,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Instituto Nacional de Bellas Artes",
-                  "text": "The National Institute of Fine Arts in Mexico City.",
+                  "text": "The headquarters of Mexico's National Institute of Fine Arts, hosting art exhibitions in De Bellas Artes.",
                   "category": "cultural",
                   "coords": [
                         -99.135758,
@@ -10327,7 +10327,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Centro de la Imagen",
-                  "text": "A museum of image culture in Mexico City.",
+                  "text": "A museum dedicated to photography and image culture in De Bellas Artes.",
                   "category": "museum",
                   "coords": [
                         -99.148898,
@@ -10336,7 +10336,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Galería Abraham Zabludovsky",
-                  "text": "A gallery in Mexico City.",
+                  "text": "A gallery designed by architect Abraham Zabludovsky, showcasing modern art in De Bellas Artes.",
                   "category": "museum",
                   "coords": [
                         -99.150046,
@@ -10354,7 +10354,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Anfiteatro",
-                  "text": "An amphitheatre in Mexico City.",
+                  "text": "An open-air amphitheater used for concerts in De Bellas Artes.",
                   "category": "cultural",
                   "coords": [
                         -99.148529,
@@ -10363,7 +10363,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "La Resurrección Tultenco",
-                  "text": "A chapel known as La Resurrección Tultenco in Mexico City.",
+                  "text": "A 16th-century chapel, one of the oldest in Mexico City, in the Narvarte neighborhood.",
                   "category": "religious",
                   "coords": [
                         -99.126423,
@@ -10372,7 +10372,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Basílica de San José y Nuestra Señora del Sagrado Corazón",
-                  "text": "A basilica in Mexico City.",
+                  "text": "Basílica de San José y Nuestra Señora del Sagrado Corazón is a basilica in De Bellas Artes.",
                   "category": "religious",
                   "coords": [
                         -99.143472,
@@ -10381,7 +10381,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo Agrario",
-                  "text": "An agrarian museum in Mexico City.",
+                  "text": "A museum about Mexico's agrarian reform and rural life in De Bellas Artes.",
                   "category": "museum",
                   "coords": [
                         -99.131992,
@@ -10408,7 +10408,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Fuente de Salto del Agua",
-                  "text": "A fountain in Mexico City.",
+                  "text": "A fountain with a water cascade in De Bellas Artes.",
                   "category": "landmark",
                   "coords": [
                         -99.142268,
@@ -10417,7 +10417,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Teatro Ciudadela",
-                  "text": "A theatre in Mexico City.",
+                  "text": "A theater located near the Ciudadela fortress in De Bellas Artes.",
                   "category": "cultural",
                   "coords": [
                         -99.151265,
@@ -10426,7 +10426,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Arena México",
-                  "text": "An arena in Mexico City, known for wrestling events.",
+                  "text": "The world's largest wrestling arena in Mexico City, home of Lucha Libre.",
                   "category": "landmark",
                   "coords": [
                         -99.152003,
@@ -10485,7 +10485,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Columna de la Antigua Garita de San Pedro",
-                  "text": "Columna de la Antigua Garita de San Pedro ist eine Ruine in Guadalajara.",
+                  "text": "Eine historische Säule, die das ehemalige Zolltor San Pedro in Cabanas markiert.",
                   "category": "historical",
                   "coords": [
                         -103.33359,
@@ -10494,7 +10494,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Arena Coliseo wrestling",
-                  "text": "Arena Coliseo wrestling ist eine Attraktion in Guadalajara für Wrestling-Veranstaltungen.",
+                  "text": "Eine Arena für Lucha-Libre-Wrestling-Kämpfe in Cabanas.",
                   "category": "landmark",
                   "coords": [
                         -103.342793,
@@ -10503,7 +10503,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "\"El Palomar\" de Luis Barragán",
-                  "text": "El Palomar de Luis Barragán ist eine Attraktion in Guadalajara, entworfen vom Architekten Luis Barragán.",
+                  "text": "Ein Wahrzeichen-Taubenschlag, entworfen von Architekt Luis Barragán in Cabanas.",
                   "category": "landmark",
                   "coords": [
                         -103.347243,
@@ -10512,7 +10512,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Foro Independencia",
-                  "text": "Foro Independencia ist ein Theater in Guadalajara.",
+                  "text": "Ein Kulturforum mit einem Wandgemälde lokaler Künstler in Cabanas.",
                   "category": "cultural",
                   "coords": [
                         -103.347693,
@@ -10521,7 +10521,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo de Paleontología de Guadalajara \"Federico A. Solórzano Barreto\"",
-                  "text": "Museum of Paleontology Guadalajara ist ein Museum in Guadalajara.",
+                  "text": "Ein Museum mit Dinosaurierfossilien aus der Region Guadalajara in Cabanas.",
                   "category": "museum",
                   "coords": [
                         -103.345995,
@@ -10530,7 +10530,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Las Columnas",
-                  "text": "Las Columnas ist eine Attraktion in Guadalajara.",
+                  "text": "Eine Reihe neoklassizistischer Säulen in Cabanas.",
                   "category": "landmark",
                   "coords": [
                         -103.349728,
@@ -10539,7 +10539,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Tianguis Cultural de Guadalajara",
-                  "text": "Tianguis Cultural de Guadalajara ist ein kultureller Markt in Guadalajara.",
+                  "text": "Ein Freiluftmarkt mit Kunsthandwerk und Kunst in Cabanas.",
                   "category": "landmark",
                   "coords": [
                         -103.350569,
@@ -10548,7 +10548,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Instituto de la Artesanía Jalisciense",
-                  "text": "Instituto de la Artesanía Jalisciense ist ein Museum für Handwerk in Guadalajara.",
+                  "text": "Ein Museum für traditionelles Kunsthandwerk aus Jalisco in Cabanas.",
                   "category": "museum",
                   "coords": [
                         -103.348253,
@@ -10557,7 +10557,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Plaza de La Bandera",
-                  "text": "Plaza de La Bandera ist ein Park in Guadalajara.",
+                  "text": "Plaza de La Bandera ist ein der Flagge gewidmeter Platz in Cabanas.",
                   "category": "park",
                   "coords": [
                         -103.333419,
@@ -10566,7 +10566,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo del Ejercito y Fuerza Aerea Méxicana (Cuartel Colorado)",
-                  "text": "Museo del Ejercito y Fuerza Aerea Méxicana (Cuartel Colorado) ist ein Museum in Guadalajara.",
+                  "text": "Ein Militärmuseum im historischen Cuartel-Colorado-Kasernengebäude in Cabanas.",
                   "category": "museum",
                   "coords": [
                         -103.332566,
@@ -10575,7 +10575,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Foro Infantil Agua Azul",
-                  "text": "Foro Infantil Agua Azul ist ein Kindertheater in Guadalajara.",
+                  "text": "Ein Kinderkulturzentrum mit einem blauen Wasserbrunnen in Cabanas.",
                   "category": "cultural",
                   "coords": [
                         -103.347237,
@@ -10584,7 +10584,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Teatro Diana",
-                  "text": "Teatro Diana ist ein Theater in Guadalajara.",
+                  "text": "Teatro Diana ist ein Theater in Cabanas.",
                   "category": "cultural",
                   "coords": [
                         -103.349292,
@@ -10593,7 +10593,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Concha Acústica Agua Azul",
-                  "text": "Concha Acústica Agua Azul ist ein Freilichttheater in Guadalajara.",
+                  "text": "Eine Freiluftkonzertmuschel am Agua-Azul-Park in Cabanas.",
                   "category": "cultural",
                   "coords": [
                         -103.349017,
@@ -10602,7 +10602,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Parque González Gallo",
-                  "text": "Parque González Gallo ist ein Park in Guadalajara.",
+                  "text": "Parque González Gallo ist ein nach González Gallo benannter Park in Cabanas.",
                   "category": "park",
                   "coords": [
                         -103.337302,
@@ -10611,7 +10611,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Parque Walt Disney",
-                  "text": "Parque Walt Disney ist ein Park in Guadalajara.",
+                  "text": "Ein Themenpark zu Ehren von Walt Disney in Cabanas.",
                   "category": "park",
                   "coords": [
                         -103.330322,
@@ -10622,7 +10622,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Columna de la Antigua Garita de San Pedro",
-                  "text": "A Columna de la Antigua Garita de San Pedro egy rom Guadalajarában.",
+                  "text": "Egy történelmi oszlop, amely az egykori San Pedro vámkaput jelöli Cabanas-ban.",
                   "category": "historical",
                   "coords": [
                         -103.33359,
@@ -10631,7 +10631,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Arena Coliseo wrestling",
-                  "text": "Az Arena Coliseo wrestling egy látványosság Guadalajarában birkózóesemények számára.",
+                  "text": "Egy aréna Lucha Libre birkózómérkőzéseknek Cabanas-ban.",
                   "category": "landmark",
                   "coords": [
                         -103.342793,
@@ -10640,7 +10640,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "\"El Palomar\" de Luis Barragán",
-                  "text": "Az El Palomar de Luis Barragán egy látványosság Guadalajarában, amelyet Luis Barragán építész tervezett.",
+                  "text": "Luis Barragán építész által tervezett galambdúc nevezetesség Cabanas-ban.",
                   "category": "landmark",
                   "coords": [
                         -103.347243,
@@ -10649,7 +10649,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Foro Independencia",
-                  "text": "A Foro Independencia egy színház Guadalajarában.",
+                  "text": "Egy kulturális fórum helyi művészek festményével Cabanas-ban.",
                   "category": "cultural",
                   "coords": [
                         -103.347693,
@@ -10658,7 +10658,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo de Paleontología de Guadalajara \"Federico A. Solórzano Barreto\"",
-                  "text": "A Museum of Paleontology Guadalajara egy múzeum Guadalajarában.",
+                  "text": "Egy múzeum, amely a guadalajarai régió dinoszaurusz fosszíliáit mutatja be Cabanas-ban.",
                   "category": "museum",
                   "coords": [
                         -103.345995,
@@ -10667,7 +10667,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Las Columnas",
-                  "text": "A Las Columnas egy látványosság Guadalajarában.",
+                  "text": "Neoklasszikus oszlopok sora Cabanas-ban.",
                   "category": "landmark",
                   "coords": [
                         -103.349728,
@@ -10676,7 +10676,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Tianguis Cultural de Guadalajara",
-                  "text": "A Tianguis Cultural de Guadalajara egy kulturális piac Guadalajarában.",
+                  "text": "Szabadtéri piac kézműves termékekkel és művészettel Cabanas-ban.",
                   "category": "landmark",
                   "coords": [
                         -103.350569,
@@ -10685,7 +10685,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Instituto de la Artesanía Jalisciense",
-                  "text": "Az Instituto de la Artesanía Jalisciense egy kézműves múzeum Guadalajarában.",
+                  "text": "Egy múzeum, amely Jalisco hagyományos kézművességét mutatja be Cabanas-ban.",
                   "category": "museum",
                   "coords": [
                         -103.348253,
@@ -10694,7 +10694,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Plaza de La Bandera",
-                  "text": "A Plaza de La Bandera egy park Guadalajarában.",
+                  "text": "A Plaza de La Bandera egy zászlónak szentelt tér Cabanasban.",
                   "category": "park",
                   "coords": [
                         -103.333419,
@@ -10703,7 +10703,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo del Ejercito y Fuerza Aerea Méxicana (Cuartel Colorado)",
-                  "text": "A Museo del Ejercito y Fuerza Aerea Méxicana (Cuartel Colorado) egy múzeum Guadalajarában.",
+                  "text": "Katonai múzeum a történelmi Cuartel Colorado laktanyában Cabanas-ban.",
                   "category": "museum",
                   "coords": [
                         -103.332566,
@@ -10712,7 +10712,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Foro Infantil Agua Azul",
-                  "text": "A Foro Infantil Agua Azul egy gyerekszínház Guadalajarában.",
+                  "text": "Gyermekkulturális központ kék vízszökőkúttal Cabanas-ban.",
                   "category": "cultural",
                   "coords": [
                         -103.347237,
@@ -10721,7 +10721,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Teatro Diana",
-                  "text": "A Teatro Diana egy színház Guadalajarában.",
+                  "text": "A Teatro Diana egy színház Cabanasban.",
                   "category": "cultural",
                   "coords": [
                         -103.349292,
@@ -10730,7 +10730,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Concha Acústica Agua Azul",
-                  "text": "A Concha Acústica Agua Azul egy szabadtéri színház Guadalajarában.",
+                  "text": "Szabadtéri koncertkagyló az Agua Azul parknál Cabanas-ban.",
                   "category": "cultural",
                   "coords": [
                         -103.349017,
@@ -10739,7 +10739,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Parque González Gallo",
-                  "text": "A Parque González Gallo egy park Guadalajarában.",
+                  "text": "A Parque González Gallo egy González Gallóról elnevezett park Cabanasban.",
                   "category": "park",
                   "coords": [
                         -103.337302,
@@ -10748,7 +10748,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Parque Walt Disney",
-                  "text": "A Parque Walt Disney egy park Guadalajarában.",
+                  "text": "Walt Disney témájú park Cabanasban.",
                   "category": "park",
                   "coords": [
                         -103.330322,
@@ -10759,7 +10759,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Columna de la Antigua Garita de San Pedro",
-                  "text": "Columna de la Antigua Garita de San Pedro este o ruină în Guadalajara.",
+                  "text": "Un coloană istorică care marchează fosta gară de taxare San Pedro în Cabanas.",
                   "category": "historical",
                   "coords": [
                         -103.33359,
@@ -10768,7 +10768,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Arena Coliseo wrestling",
-                  "text": "Arena Coliseo wrestling este o atracție în Guadalajara pentru evenimente de wrestling.",
+                  "text": "O arenă care găzduiește meciuri de wrestling Lucha Libre în Cabanas.",
                   "category": "landmark",
                   "coords": [
                         -103.342793,
@@ -10777,7 +10777,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "\"El Palomar\" de Luis Barragán",
-                  "text": "El Palomar de Luis Barragán este o atracție în Guadalajara proiectată de arhitectul Luis Barragán.",
+                  "text": "Un porumbar de referință proiectat de arhitectul Luis Barragán în Cabanas.",
                   "category": "landmark",
                   "coords": [
                         -103.347243,
@@ -10786,7 +10786,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Foro Independencia",
-                  "text": "Foro Independencia este un teatru în Guadalajara.",
+                  "text": "Un forum cultural cu o pictură murală a artiștilor locali în Cabanas.",
                   "category": "cultural",
                   "coords": [
                         -103.347693,
@@ -10795,7 +10795,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo de Paleontología de Guadalajara \"Federico A. Solórzano Barreto\"",
-                  "text": "Museum of Paleontology Guadalajara este un muzeu în Guadalajara.",
+                  "text": "Un muzeu care expune fosile de dinozauri din regiunea Guadalajara în Cabanas.",
                   "category": "museum",
                   "coords": [
                         -103.345995,
@@ -10804,7 +10804,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Las Columnas",
-                  "text": "Las Columnas este o atracție în Guadalajara.",
+                  "text": "Un șir de coloane neoclasice în Cabanas.",
                   "category": "landmark",
                   "coords": [
                         -103.349728,
@@ -10813,7 +10813,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Tianguis Cultural de Guadalajara",
-                  "text": "Tianguis Cultural de Guadalajara este o atracție de piață culturală în Guadalajara.",
+                  "text": "O piață în aer liber care vinde meșteșuguri și artă în Cabanas.",
                   "category": "landmark",
                   "coords": [
                         -103.350569,
@@ -10822,7 +10822,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Instituto de la Artesanía Jalisciense",
-                  "text": "Instituto de la Artesanía Jalisciense este un muzeu al meșteșugurilor în Guadalajara.",
+                  "text": "Un muzeu care prezintă meșteșugurile tradiționale din Jalisco în Cabanas.",
                   "category": "museum",
                   "coords": [
                         -103.348253,
@@ -10831,7 +10831,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Plaza de La Bandera",
-                  "text": "Plaza de La Bandera este un parc în Guadalajara.",
+                  "text": "Plaza de La Bandera este o piață dedicată drapelului în Cabanas.",
                   "category": "park",
                   "coords": [
                         -103.333419,
@@ -10840,7 +10840,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo del Ejercito y Fuerza Aerea Méxicana (Cuartel Colorado)",
-                  "text": "Museo del Ejercito y Fuerza Aerea Méxicana (Cuartel Colorado) este un muzeu în Guadalajara.",
+                  "text": "Un muzeu militar găzduit în cazarma istorică Cuartel Colorado din Cabanas.",
                   "category": "museum",
                   "coords": [
                         -103.332566,
@@ -10849,7 +10849,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Foro Infantil Agua Azul",
-                  "text": "Foro Infantil Agua Azul este un teatru pentru copii în Guadalajara.",
+                  "text": "Un centru cultural pentru copii cu o fântână cu apă albastră în Cabanas.",
                   "category": "cultural",
                   "coords": [
                         -103.347237,
@@ -10858,7 +10858,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Teatro Diana",
-                  "text": "Teatro Diana este un teatru în Guadalajara.",
+                  "text": "Teatro Diana este un teatru în Cabanas.",
                   "category": "cultural",
                   "coords": [
                         -103.349292,
@@ -10867,7 +10867,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Concha Acústica Agua Azul",
-                  "text": "Concha Acústica Agua Azul este un teatru în aer liber în Guadalajara.",
+                  "text": "O cochilie de concert în aer liber lângă parcul Agua Azul din Cabanas.",
                   "category": "cultural",
                   "coords": [
                         -103.349017,
@@ -10876,7 +10876,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Parque González Gallo",
-                  "text": "Parque González Gallo este un parc în Guadalajara.",
+                  "text": "Parque González Gallo este un parc numit după González Gallo în Cabanas.",
                   "category": "park",
                   "coords": [
                         -103.337302,
@@ -10885,7 +10885,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Parque Walt Disney",
-                  "text": "Parque Walt Disney este un parc în Guadalajara.",
+                  "text": "Un parc tematic dedicat lui Walt Disney în Cabanas.",
                   "category": "park",
                   "coords": [
                         -103.330322,
@@ -10896,7 +10896,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Columna de la Antigua Garita de San Pedro",
-                  "text": "Columna de la Antigua Garita de San Pedro is a ruin in Guadalajara.",
+                  "text": "A historic column marking the former San Pedro toll gate in Cabanas.",
                   "category": "historical",
                   "coords": [
                         -103.33359,
@@ -10905,7 +10905,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Arena Coliseo wrestling",
-                  "text": "Arena Coliseo wrestling is an attraction in Guadalajara for wrestling events.",
+                  "text": "An arena hosting Lucha Libre wrestling matches in Cabanas.",
                   "category": "landmark",
                   "coords": [
                         -103.342793,
@@ -10914,7 +10914,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "\"El Palomar\" de Luis Barragán",
-                  "text": "El Palomar de Luis Barragán is an attraction in Guadalajara designed by the architect Luis Barragán.",
+                  "text": "A landmark dovecote designed by architect Luis Barragán in Cabanas.",
                   "category": "landmark",
                   "coords": [
                         -103.347243,
@@ -10923,7 +10923,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Foro Independencia",
-                  "text": "Foro Independencia is a theatre in Guadalajara.",
+                  "text": "A cultural forum with a mural by local artists in Cabanas.",
                   "category": "cultural",
                   "coords": [
                         -103.347693,
@@ -10932,7 +10932,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museum of Paleontology Guadalajara",
-                  "text": "Museum of Paleontology Guadalajara is a museum in Guadalajara.",
+                  "text": "A museum displaying dinosaur fossils from the Guadalajara region in Cabanas.",
                   "category": "museum",
                   "coords": [
                         -103.345995,
@@ -10941,7 +10941,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Las Columnas",
-                  "text": "Las Columnas is an attraction in Guadalajara.",
+                  "text": "A row of neoclassical columns in Cabanas.",
                   "category": "landmark",
                   "coords": [
                         -103.349728,
@@ -10950,7 +10950,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Tianguis Cultural de Guadalajara",
-                  "text": "Tianguis Cultural de Guadalajara is a cultural market attraction in Guadalajara.",
+                  "text": "An open-air market selling handicrafts and art in Cabanas.",
                   "category": "landmark",
                   "coords": [
                         -103.350569,
@@ -10959,7 +10959,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Instituto de la Artesanía Jalisciense",
-                  "text": "Instituto de la Artesanía Jalisciense is a museum of crafts in Guadalajara.",
+                  "text": "A museum showcasing traditional Jalisco handicrafts in Cabanas.",
                   "category": "museum",
                   "coords": [
                         -103.348253,
@@ -10968,7 +10968,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Plaza de La Bandera",
-                  "text": "Plaza de La Bandera is a park in Guadalajara.",
+                  "text": "Plaza de La Bandera is a plaza dedicated to the flag in Cabanas.",
                   "category": "park",
                   "coords": [
                         -103.333419,
@@ -10977,7 +10977,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo del Ejercito y Fuerza Aerea Méxicana (Cuartel Colorado)",
-                  "text": "Museo del Ejercito y Fuerza Aerea Méxicana (Cuartel Colorado) is a museum in Guadalajara.",
+                  "text": "A military museum housed in the historic Cuartel Colorado barracks in Cabanas.",
                   "category": "museum",
                   "coords": [
                         -103.332566,
@@ -10986,7 +10986,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Foro Infantil Agua Azul",
-                  "text": "Foro Infantil Agua Azul is a children's theatre in Guadalajara.",
+                  "text": "A children's cultural center with a blue water fountain in Cabanas.",
                   "category": "cultural",
                   "coords": [
                         -103.347237,
@@ -10995,7 +10995,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Teatro Diana",
-                  "text": "Teatro Diana is a theatre in Guadalajara.",
+                  "text": "Teatro Diana is a theater in Cabanas.",
                   "category": "cultural",
                   "coords": [
                         -103.349292,
@@ -11004,7 +11004,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Concha Acústica Agua Azul",
-                  "text": "Concha Acústica Agua Azul is an open-air theatre in Guadalajara.",
+                  "text": "An open-air concert shell by the Agua Azul park in Cabanas.",
                   "category": "cultural",
                   "coords": [
                         -103.349017,
@@ -11013,7 +11013,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Parque González Gallo",
-                  "text": "Parque González Gallo is a park in Guadalajara.",
+                  "text": "Parque González Gallo is a park named after González Gallo in Cabanas.",
                   "category": "park",
                   "coords": [
                         -103.337302,
@@ -11022,7 +11022,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Parque Walt Disney",
-                  "text": "Parque Walt Disney is a park in Guadalajara.",
+                  "text": "A themed park dedicated to Walt Disney in Cabanas.",
                   "category": "park",
                   "coords": [
                         -103.330322,
@@ -11081,7 +11081,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Monumento al Soldado",
-                  "text": "Das Monumento al Soldado in Zacatecas ist ein Denkmal für die Soldaten.",
+                  "text": "Ein Denkmal für den unbekannten Soldaten im Viertel Cathedral.",
                   "category": "historical",
                   "coords": [
                         -102.502035,
@@ -11090,7 +11090,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Arco de las Quintas",
-                  "text": "Der Arco de las Quintas in Zacatecas ist ein Bogenmonument.",
+                  "text": "Ein historischer Bogen, der den Eingang zum Viertel Quintas in Cathedral markiert.",
                   "category": "historical",
                   "coords": [
                         -102.491695,
@@ -11099,7 +11099,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Torre de Vigilancia Villafontana",
-                  "text": "Die Torre de Vigilancia Villafontana in Zacatecas ist ein Wachturm.",
+                  "text": "Ein Wachturm im Villafontana-Gebiet von Cathedral.",
                   "category": "historical",
                   "coords": [
                         -102.480469,
@@ -11108,7 +11108,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Mover a México",
-                  "text": "Das Monument 'Mover a México' in Zacatecas.",
+                  "text": "Eine historische Markierung, die an eine Migrationsbewegung in Cathedral erinnert.",
                   "category": "historical",
                   "coords": [
                         -102.491863,
@@ -11117,7 +11117,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo Regional de Guadalupe",
-                  "text": "Das Museo Regional de Guadalupe in Zacatecas ist ein Regionalmuseum.",
+                  "text": "Ein Regionalmuseum, das der Jungfrau von Guadalupe gewidmet ist, in Cathedral.",
                   "category": "museum",
                   "coords": [
                         -102.518183,
@@ -11126,7 +11126,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "obelisco",
-                  "text": "Der Obelisco in Zacatecas ist ein Obelisk.",
+                  "text": "Ein Obelisk, der an ein historisches Ereignis in Cathedral erinnert.",
                   "category": "historical",
                   "coords": [
                         -102.517148,
@@ -11135,7 +11135,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Ángeles",
-                  "text": "Das Monument 'Ángeles' in Zacatecas stellt Engel dar.",
+                  "text": "Ángeles ist ein historisches Engelsdenkmal in Cathedral.",
                   "category": "historical",
                   "coords": [
                         -102.519682,
@@ -11144,7 +11144,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Glorieta de Guadalupe",
-                  "text": "Die Glorieta de Guadalupe in Zacatecas ist ein Denkmal im Kreisverkehr.",
+                  "text": "Glorieta de Guadalupe ist ein historischer Kreisel, der der Jungfrau von Guadalupe gewidmet ist, in Cathedral.",
                   "category": "historical",
                   "coords": [
                         -102.525412,
@@ -11153,7 +11153,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "torito",
-                  "text": "Das Monument 'torito' in Zacatecas stellt einen Stier dar.",
+                  "text": "Torito ist eine historische kleine Stierstatue in Cathedral.",
                   "category": "historical",
                   "coords": [
                         -102.550573,
@@ -11162,7 +11162,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Peñuela de la Bufa",
-                  "text": "Die Peñuela de la Bufa in Zacatecas sind Ruinen.",
+                  "text": "Peñuela de la Bufa ist eine historische kleine Felsenspitze in Cathedral.",
                   "category": "historical",
                   "coords": [
                         -102.565438,
@@ -11171,7 +11171,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Statue",
-                  "text": "Ein Denkmal in Zacatecas.",
+                  "text": "Statue ist eine historische Statue auf einem Sockel in Cathedral.",
                   "category": "historical",
                   "coords": [
                         -102.573009,
@@ -11180,7 +11180,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "fuente",
-                  "text": "Ein Brunnen in Zacatecas.",
+                  "text": "Fuente ist ein historischer Steinbrunnen in Cathedral.",
                   "category": "historical",
                   "coords": [
                         -102.575217,
@@ -11189,7 +11189,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Multiforo Zacatecas",
-                  "text": "Ein Veranstaltungsort in Zacatecas.",
+                  "text": "Multiforo Zacatecas ist eine kulturelle Mehrzweckhalle in Cathedral.",
                   "category": "cultural",
                   "coords": [
                         -102.552359,
@@ -11198,7 +11198,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Teatro al aire libre \"Centenario\"",
-                  "text": "Ein Freilichttheater in Zacatecas.",
+                  "text": "Teatro al aire libre 'Centenario' ist ein Open-Air-Jubiläumstheater in Cathedral.",
                   "category": "cultural",
                   "coords": [
                         -102.555295,
@@ -11207,7 +11207,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Bandera de Mexico",
-                  "text": "Ein Denkmal der mexikanischen Flagge in Zacatecas.",
+                  "text": "Bandera de Mexico ist ein historisches mexikanisches Flaggenmonument in Cathedral.",
                   "category": "historical",
                   "coords": [
                         -102.560907,
@@ -11216,7 +11216,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Bala",
-                  "text": "Ein Denkmal namens Bala in Zacatecas.",
+                  "text": "Bala ist ein historisches kugelförmiges Monument in Cathedral.",
                   "category": "historical",
                   "coords": [
                         -102.559335,
@@ -11225,7 +11225,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Mirador Paseo de la Bufa",
-                  "text": "Ein Aussichtspunkt in Zacatecas.",
+                  "text": "Mirador Paseo de la Bufa ist ein natürlicher Aussichtspunkt am Bufa-Weg in Cathedral.",
                   "category": "natural",
                   "coords": [
                         -102.563802,
@@ -11234,7 +11234,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Teatro Ramón López Velarde",
-                  "text": "Ein Theater in Zacatecas.",
+                  "text": "Teatro Ramón López Velarde ist ein kulturelles Theater, benannt nach dem Dichter, in Cathedral.",
                   "category": "cultural",
                   "coords": [
                         -102.578847,
@@ -11245,7 +11245,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Monumento al Soldado",
-                  "text": "A Monumento al Soldado Zacatecasban a katonák emlékműve.",
+                  "text": "Az ismeretlen katona emlékműve a Cathedral negyedben.",
                   "category": "historical",
                   "coords": [
                         -102.502035,
@@ -11254,7 +11254,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Arco de las Quintas",
-                  "text": "Az Arco de las Quintas Zacatecasban egy ív emlékmű.",
+                  "text": "Történelmi ív, amely a Quintas negyed bejáratát jelöli Cathedral-ben.",
                   "category": "historical",
                   "coords": [
                         -102.491695,
@@ -11263,7 +11263,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Torre de Vigilancia Villafontana",
-                  "text": "A Torre de Vigilancia Villafontana Zacatecasban egy őrtorony.",
+                  "text": "Őrtorony a Cathedral városrész Villafontana területén.",
                   "category": "historical",
                   "coords": [
                         -102.480469,
@@ -11272,7 +11272,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Mover a México",
-                  "text": "A 'Mover a México' emlékmű Zacatecasban.",
+                  "text": "Történelmi jelölés, amely egy migrációs mozgalomra emlékeztet Cathedral-ben.",
                   "category": "historical",
                   "coords": [
                         -102.491863,
@@ -11281,7 +11281,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo Regional de Guadalupe",
-                  "text": "A Guadalupe Regionális Múzeum Zacatecasban egy regionális múzeum.",
+                  "text": "Regionális múzeum a guadalupei Szűz Máriának szentelve Cathedral-ben.",
                   "category": "museum",
                   "coords": [
                         -102.518183,
@@ -11290,7 +11290,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "obelisco",
-                  "text": "Az Obelisco Zacatecasban egy obeliszk.",
+                  "text": "Egy obeliszk, amely egy történelmi eseményre emlékeztet Cathedral-ben.",
                   "category": "historical",
                   "coords": [
                         -102.517148,
@@ -11299,7 +11299,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Ángeles",
-                  "text": "Az 'Ángeles' emlékmű Zacatecasban angyalokat ábrázol.",
+                  "text": "Ángeles egy történelmi angyalszobor Cathedralban.",
                   "category": "historical",
                   "coords": [
                         -102.519682,
@@ -11308,7 +11308,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Glorieta de Guadalupe",
-                  "text": "A Glorieta de Guadalupe Zacatecasban egy körforgalomban lévő emlékmű.",
+                  "text": "Glorieta de Guadalupe egy történelmi körforgalom, amely a Guadalupei Szűznek van szentelve Cathedralban.",
                   "category": "historical",
                   "coords": [
                         -102.525412,
@@ -11317,7 +11317,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "torito",
-                  "text": "A 'torito' emlékmű Zacatecasban egy bikát ábrázol.",
+                  "text": "Torito egy történelmi kis bikaszobor Cathedralban.",
                   "category": "historical",
                   "coords": [
                         -102.550573,
@@ -11326,7 +11326,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Peñuela de la Bufa",
-                  "text": "A Peñuela de la Bufa Zacatecasban romok.",
+                  "text": "Peñuela de la Bufa egy történelmi kis sziklás csúcs Cathedralban.",
                   "category": "historical",
                   "coords": [
                         -102.565438,
@@ -11335,7 +11335,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Statue",
-                  "text": "Egy szobor Zacatecasban.",
+                  "text": "Statue egy történelmi szobor egy talapzaton Cathedralban.",
                   "category": "historical",
                   "coords": [
                         -102.573009,
@@ -11344,7 +11344,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "fuente",
-                  "text": "Egy szökőkút Zacatecasban.",
+                  "text": "Fuente egy történelmi kőkút Cathedralban.",
                   "category": "historical",
                   "coords": [
                         -102.575217,
@@ -11353,7 +11353,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Multiforo Zacatecas",
-                  "text": "Egy többfunkciós helyszín Zacatecasban.",
+                  "text": "Multiforo Zacatecas egy kulturális többcélú helyszín Cathedralban.",
                   "category": "cultural",
                   "coords": [
                         -102.552359,
@@ -11362,7 +11362,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Teatro al aire libre \"Centenario\"",
-                  "text": "Egy szabadtéri színház Zacatecasban.",
+                  "text": "Teatro al aire libre 'Centenario' egy szabadtéri centenáriumi színház Cathedralban.",
                   "category": "cultural",
                   "coords": [
                         -102.555295,
@@ -11371,7 +11371,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Bandera de Mexico",
-                  "text": "A mexikói zászló emlékműve Zacatecasban.",
+                  "text": "Bandera de Mexico egy történelmi mexikói zászlóemlékmű Cathedralban.",
                   "category": "historical",
                   "coords": [
                         -102.560907,
@@ -11380,7 +11380,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Bala",
-                  "text": "Egy Bala nevű emlékmű Zacatecasban.",
+                  "text": "Bala egy történelmi golyó alakú emlékmű Cathedralban.",
                   "category": "historical",
                   "coords": [
                         -102.559335,
@@ -11389,7 +11389,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Mirador Paseo de la Bufa",
-                  "text": "Egy kilátó Zacatecasban.",
+                  "text": "Mirador Paseo de la Bufa egy természetes kilátóhely a Bufa sétányon Cathedralban.",
                   "category": "natural",
                   "coords": [
                         -102.563802,
@@ -11398,7 +11398,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Teatro Ramón López Velarde",
-                  "text": "Egy színház Zacatecasban.",
+                  "text": "Teatro Ramón López Velarde egy kulturális színház, amely a költőről kapta a nevét, Cathedralban.",
                   "category": "cultural",
                   "coords": [
                         -102.578847,
@@ -11409,7 +11409,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Monumento al Soldado",
-                  "text": "Monumentul Soldatului din Zacatecas este un monument dedicat soldaților.",
+                  "text": "Un monument al soldatului necunoscut în districtul Cathedral.",
                   "category": "historical",
                   "coords": [
                         -102.502035,
@@ -11418,7 +11418,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Arco de las Quintas",
-                  "text": "Arcul de las Quintas din Zacatecas este un monument sub formă de arc.",
+                  "text": "Un arc istoric care marchează intrarea în cartierul Quintas din Cathedral.",
                   "category": "historical",
                   "coords": [
                         -102.491695,
@@ -11427,7 +11427,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Torre de Vigilancia Villafontana",
-                  "text": "Turnul de veghe Villafontana din Zacatecas este un turn de pază.",
+                  "text": "Un turn de veghe în zona Villafontana din Cathedral.",
                   "category": "historical",
                   "coords": [
                         -102.480469,
@@ -11436,7 +11436,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Mover a México",
-                  "text": "Monumentul 'Mover a México' din Zacatecas.",
+                  "text": "Un marcaj istoric care comemorează o mișcare de migrație în Cathedral.",
                   "category": "historical",
                   "coords": [
                         -102.491863,
@@ -11445,7 +11445,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo Regional de Guadalupe",
-                  "text": "Muzeul Regional Guadalupe din Zacatecas este un muzeu regional.",
+                  "text": "Un muzeu regional dedicat Fecioarei de Guadalupe în Cathedral.",
                   "category": "museum",
                   "coords": [
                         -102.518183,
@@ -11454,7 +11454,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "obelisco",
-                  "text": "Obeliscul din Zacatecas este un obelisc.",
+                  "text": "Un obelisc care comemorează un eveniment istoric în Cathedral.",
                   "category": "historical",
                   "coords": [
                         -102.517148,
@@ -11463,7 +11463,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Ángeles",
-                  "text": "Monumentul 'Ángeles' din Zacatecas reprezintă îngeri.",
+                  "text": "Ángeles este un monument istoric al îngerilor în Cathedral.",
                   "category": "historical",
                   "coords": [
                         -102.519682,
@@ -11472,7 +11472,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Glorieta de Guadalupe",
-                  "text": "Glorieta de Guadalupe din Zacatecas este un monument în sensul giratoriu.",
+                  "text": "Glorieta de Guadalupe este un sens giratoriu istoric dedicat Fecioarei din Guadalupe în Cathedral.",
                   "category": "historical",
                   "coords": [
                         -102.525412,
@@ -11481,7 +11481,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "torito",
-                  "text": "Monumentul 'torito' din Zacatecas reprezintă un taur.",
+                  "text": "Torito este o statuie istorică mică de taur în Cathedral.",
                   "category": "historical",
                   "coords": [
                         -102.550573,
@@ -11490,7 +11490,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Peñuela de la Bufa",
-                  "text": "Ruinele Peñuela de la Bufa din Zacatecas sunt ruine.",
+                  "text": "Peñuela de la Bufa este un vârf stâncos istoric mic în Cathedral.",
                   "category": "historical",
                   "coords": [
                         -102.565438,
@@ -11499,7 +11499,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Statue",
-                  "text": "O statuie în Zacatecas.",
+                  "text": "Statue este o statuie istorică pe un piedestal în Cathedral.",
                   "category": "historical",
                   "coords": [
                         -102.573009,
@@ -11508,7 +11508,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "fuente",
-                  "text": "O fântână în Zacatecas.",
+                  "text": "Fuente este un fântână istorică de piatră în Cathedral.",
                   "category": "historical",
                   "coords": [
                         -102.575217,
@@ -11517,7 +11517,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Multiforo Zacatecas",
-                  "text": "Un loc multifuncțional în Zacatecas.",
+                  "text": "Multiforo Zacatecas este un loc cultural multifuncțional în Cathedral.",
                   "category": "cultural",
                   "coords": [
                         -102.552359,
@@ -11526,7 +11526,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Teatro al aire libre \"Centenario\"",
-                  "text": "Un teatru în aer liber în Zacatecas.",
+                  "text": "Teatro al aire libre 'Centenario' este un teatru în aer liber de centenar în Cathedral.",
                   "category": "cultural",
                   "coords": [
                         -102.555295,
@@ -11535,7 +11535,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Bandera de Mexico",
-                  "text": "Un monument al drapelului Mexicului în Zacatecas.",
+                  "text": "Bandera de Mexico este un monument istoric al drapelului mexican în Cathedral.",
                   "category": "historical",
                   "coords": [
                         -102.560907,
@@ -11544,7 +11544,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Bala",
-                  "text": "Un monument numit Bala în Zacatecas.",
+                  "text": "Bala este un monument istoric în formă de glonț în Cathedral.",
                   "category": "historical",
                   "coords": [
                         -102.559335,
@@ -11553,7 +11553,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Mirador Paseo de la Bufa",
-                  "text": "Un punct de belvedere în Zacatecas.",
+                  "text": "Mirador Paseo de la Bufa este un punct de belvedere natural pe promenada Bufa din Cathedral.",
                   "category": "natural",
                   "coords": [
                         -102.563802,
@@ -11562,7 +11562,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Teatro Ramón López Velarde",
-                  "text": "Un teatru în Zacatecas.",
+                  "text": "Teatro Ramón López Velarde este un teatru cultural numit după poet în Cathedral.",
                   "category": "cultural",
                   "coords": [
                         -102.578847,
@@ -11573,7 +11573,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Monumento al Soldado",
-                  "text": "The Monumento al Soldado in Zacatecas is a monument to the soldiers.",
+                  "text": "A monument to the unknown soldier in the Cathedral district.",
                   "category": "historical",
                   "coords": [
                         -102.502035,
@@ -11582,7 +11582,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Arco de las Quintas",
-                  "text": "The Arco de las Quintas in Zacatecas is an arch monument.",
+                  "text": "A historic arch marking the entrance to the Quintas neighborhood in Cathedral.",
                   "category": "historical",
                   "coords": [
                         -102.491695,
@@ -11591,7 +11591,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Torre de Vigilancia Villafontana",
-                  "text": "The Torre de Vigilancia Villafontana in Zacatecas is a watchtower.",
+                  "text": "A watchtower in the Villafontana area of Cathedral.",
                   "category": "historical",
                   "coords": [
                         -102.480469,
@@ -11600,7 +11600,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Mover a México",
-                  "text": "The monument 'Mover a México' in Zacatecas.",
+                  "text": "A historical marker commemorating a migration movement in Cathedral.",
                   "category": "historical",
                   "coords": [
                         -102.491863,
@@ -11609,7 +11609,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo Regional de Guadalupe",
-                  "text": "The Museo Regional de Guadalupe in Zacatecas is a regional museum.",
+                  "text": "A regional museum dedicated to the Virgin of Guadalupe in Cathedral.",
                   "category": "museum",
                   "coords": [
                         -102.518183,
@@ -11618,7 +11618,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "obelisco",
-                  "text": "The Obelisco in Zacatecas is an obelisk.",
+                  "text": "An obelisk commemorating a historic event in Cathedral.",
                   "category": "historical",
                   "coords": [
                         -102.517148,
@@ -11627,7 +11627,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Ángeles",
-                  "text": "The monument 'Ángeles' in Zacatecas depicts angels.",
+                  "text": "Ángeles is a historical monument of angels in Cathedral.",
                   "category": "historical",
                   "coords": [
                         -102.519682,
@@ -11636,7 +11636,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Glorieta de Guadalupe",
-                  "text": "The Glorieta de Guadalupe in Zacatecas is a monument in a traffic circle.",
+                  "text": "Glorieta de Guadalupe is a historical roundabout dedicated to the Virgin of Guadalupe in Cathedral.",
                   "category": "historical",
                   "coords": [
                         -102.525412,
@@ -11645,7 +11645,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "torito",
-                  "text": "The monument 'torito' in Zacatecas depicts a bull.",
+                  "text": "Torito is a historical small bull statue in Cathedral.",
                   "category": "historical",
                   "coords": [
                         -102.550573,
@@ -11654,7 +11654,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Peñuela de la Bufa",
-                  "text": "The Peñuela de la Bufa in Zacatecas are ruins.",
+                  "text": "Peñuela de la Bufa is a historical small rocky peak in Cathedral.",
                   "category": "historical",
                   "coords": [
                         -102.565438,
@@ -11663,7 +11663,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Statue",
-                  "text": "A statue in Zacatecas.",
+                  "text": "Statue is a historical statue on a pedestal in Cathedral.",
                   "category": "historical",
                   "coords": [
                         -102.573009,
@@ -11672,7 +11672,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "fuente",
-                  "text": "A fountain in Zacatecas.",
+                  "text": "Fuente is a historical stone fountain in Cathedral.",
                   "category": "historical",
                   "coords": [
                         -102.575217,
@@ -11681,7 +11681,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Multiforo Zacatecas",
-                  "text": "A multifunctional venue in Zacatecas.",
+                  "text": "Multiforo Zacatecas is a cultural multi-purpose venue in Cathedral.",
                   "category": "cultural",
                   "coords": [
                         -102.552359,
@@ -11690,7 +11690,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Teatro al aire libre \"Centenario\"",
-                  "text": "An open-air theatre in Zacatecas.",
+                  "text": "Teatro al aire libre 'Centenario' is an open-air centennial theater in Cathedral.",
                   "category": "cultural",
                   "coords": [
                         -102.555295,
@@ -11699,7 +11699,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Bandera de Mexico",
-                  "text": "A monument of the Mexican flag in Zacatecas.",
+                  "text": "Bandera de Mexico is a historical Mexican flag monument in Cathedral.",
                   "category": "historical",
                   "coords": [
                         -102.560907,
@@ -11708,7 +11708,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Bala",
-                  "text": "A monument named Bala in Zacatecas.",
+                  "text": "Bala is a historical bullet-shaped monument in Cathedral.",
                   "category": "historical",
                   "coords": [
                         -102.559335,
@@ -11717,7 +11717,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Mirador Paseo de la Bufa",
-                  "text": "A viewpoint in Zacatecas.",
+                  "text": "Mirador Paseo de la Bufa is a natural viewpoint on the Bufa promenade in Cathedral.",
                   "category": "natural",
                   "coords": [
                         -102.563802,
@@ -11726,7 +11726,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Teatro Ramón López Velarde",
-                  "text": "A theatre in Zacatecas.",
+                  "text": "Teatro Ramón López Velarde is a cultural theater named after the poet in Cathedral.",
                   "category": "cultural",
                   "coords": [
                         -102.578847,
@@ -11785,7 +11785,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Casa de la Cultura",
-                  "text": "In Dolores Hidalgo ist die Casa de la Cultura ein kulturelles Zentrum.",
+                  "text": "Casa de la Cultura ist ein historisches Kulturhaus in De Dolores.",
                   "category": "landmark",
                   "coords": [
                         -100.933454,
@@ -11794,7 +11794,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo de la Indepencia",
-                  "text": "In Dolores Hidalgo ist das Museo de la Indepencia ein Museum über die Unabhängigkeit Mexikos.",
+                  "text": "Museo de la Independencia ist ein Museum der mexikanischen Unabhängigkeit in De Dolores.",
                   "category": "museum",
                   "coords": [
                         -100.935283,
@@ -11803,7 +11803,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Casa del cura Hidalgo",
-                  "text": "In Dolores Hidalgo ist die Casa del cura Hidalgo das Haus des Priesters Miguel Hidalgo.",
+                  "text": "Casa del cura Hidalgo ist das historische Haus des Priesters Miguel Hidalgo in De Dolores.",
                   "category": "landmark",
                   "coords": [
                         -100.935769,
@@ -11812,7 +11812,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "José Alfredo Jiménez",
-                  "text": "In Dolores Hidalgo ist das José Alfredo Jiménez ein Museum, das dem Sänger gewidmet ist.",
+                  "text": "José Alfredo Jiménez ist ein Museum, das dem Sänger José Alfredo Jiménez gewidmet ist, in De Dolores.",
                   "category": "museum",
                   "coords": [
                         -100.93277,
@@ -11821,7 +11821,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Monumento A La Bandera",
-                  "text": "In Dolores Hidalgo ist das Monumento A La Bandera ein Denkmal für die Flagge.",
+                  "text": "Monumento A La Bandera ist ein historisches Flaggenmonument in De Dolores.",
                   "category": "historical",
                   "coords": [
                         -100.926757,
@@ -11830,7 +11830,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Bandera Monumental",
-                  "text": "In Dolores Hidalgo ist die Monumental Flag eine große Flagge auf einem Mast.",
+                  "text": "Monumentale Flagge in Dolores Hidalgo, Wiege des mexikanischen Unabhängigkeitskrieges.",
                   "category": "historical",
                   "coords": [
                         -100.90975,
@@ -11839,7 +11839,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Monumento a los Heores de la Independencia",
-                  "text": "In Dolores Hidalgo ist das Monumento a los Heores de la Independencia ein Denkmal für die Helden der Unabhängigkeit.",
+                  "text": "Monumento a los Héroes de la Independencia ist ein historisches Denkmal für die Unabhängigkeitshelden in De Dolores.",
                   "category": "historical",
                   "coords": [
                         -100.916708,
@@ -11848,7 +11848,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Auditorio Municipal Mariano Abasolo D.",
-                  "text": "In Dolores Hidalgo ist das Auditorio Municipal Mariano Abasolo D. ein städtisches Auditorium.",
+                  "text": "Auditorio Municipal Mariano Abasolo D. ist ein städtisches Auditorium in De Dolores.",
                   "category": "cultural",
                   "coords": [
                         -100.934456,
@@ -11859,7 +11859,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Casa de la Cultura",
-                  "text": "Dolores Hidalgóban a Casa de la Cultura egy kulturális központ.",
+                  "text": "Casa de la Cultura egy történelmi kulturális ház De Doloresben.",
                   "category": "landmark",
                   "coords": [
                         -100.933454,
@@ -11868,7 +11868,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo de la Indepencia",
-                  "text": "Dolores Hidalgóban a Museo de la Indepencia múzeum Mexikó függetlenségéről.",
+                  "text": "Museo de la Independencia a mexikói függetlenség múzeuma De Doloresben.",
                   "category": "museum",
                   "coords": [
                         -100.935283,
@@ -11877,7 +11877,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Casa del cura Hidalgo",
-                  "text": "Dolores Hidalgóban a Casa del cura Hidalgo Miguel Hidalgo pap háza.",
+                  "text": "Casa del cura Hidalgo Miguel Hidalgo pap történelmi háza De Doloresben.",
                   "category": "landmark",
                   "coords": [
                         -100.935769,
@@ -11886,7 +11886,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "José Alfredo Jiménez",
-                  "text": "Dolores Hidalgóban a José Alfredo Jiménez múzeum, amely az énekesnek szentelt.",
+                  "text": "José Alfredo Jiménez egy múzeum, amely José Alfredo Jiménez énekesnek van szentelve De Doloresben.",
                   "category": "museum",
                   "coords": [
                         -100.93277,
@@ -11895,7 +11895,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Monumento A La Bandera",
-                  "text": "Dolores Hidalgóban a Monumento A La Bandera egy emlékmű a zászló számára.",
+                  "text": "Monumento A La Bandera egy történelmi zászlóemlékmű De Doloresben.",
                   "category": "historical",
                   "coords": [
                         -100.926757,
@@ -11904,7 +11904,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Bandera Monumental",
-                  "text": "Dolores Hidalgóban a Monumental Flag egy nagy zászló egy árbocon.",
+                  "text": "Monumentális zászló Dolores Hidalgóban, a mexikói függetlenségi háború bölcsőjében.",
                   "category": "historical",
                   "coords": [
                         -100.90975,
@@ -11913,7 +11913,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Monumento a los Heores de la Independencia",
-                  "text": "Dolores Hidalgóban a Monumento a los Heores de la Independencia egy emlékmű a függetlenség hőseinek.",
+                  "text": "Monumento a los Héroes de la Independencia egy történelmi emlékmű a függetlenség hőseinek De Doloresben.",
                   "category": "historical",
                   "coords": [
                         -100.916708,
@@ -11922,7 +11922,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Auditorio Municipal Mariano Abasolo D.",
-                  "text": "Dolores Hidalgóban az Auditorio Municipal Mariano Abasolo D. egy városi előadóterem.",
+                  "text": "Auditorio Municipal Mariano Abasolo D. egy városi előadóterem De Doloresben.",
                   "category": "cultural",
                   "coords": [
                         -100.934456,
@@ -11933,7 +11933,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Casa de la Cultura",
-                  "text": "În Dolores Hidalgo, Casa de la Cultura este un centru cultural.",
+                  "text": "Casa de la Cultura este o casă culturală istorică în De Dolores.",
                   "category": "landmark",
                   "coords": [
                         -100.933454,
@@ -11942,7 +11942,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo de la Indepencia",
-                  "text": "În Dolores Hidalgo, Muzeul Independenței este un muzeu despre independența Mexicului.",
+                  "text": "Museo de la Independencia este un muzeu al independenței mexicane în De Dolores.",
                   "category": "museum",
                   "coords": [
                         -100.935283,
@@ -11951,7 +11951,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Casa del cura Hidalgo",
-                  "text": "În Dolores Hidalgo, Casa del cura Hidalgo este casa preotului Miguel Hidalgo.",
+                  "text": "Casa del cura Hidalgo este casa istorică a preotului Miguel Hidalgo în De Dolores.",
                   "category": "landmark",
                   "coords": [
                         -100.935769,
@@ -11960,7 +11960,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "José Alfredo Jiménez",
-                  "text": "În Dolores Hidalgo, José Alfredo Jiménez este un muzeu dedicat cântărețului.",
+                  "text": "José Alfredo Jiménez este un muzeu dedicat cântărețului José Alfredo Jiménez în De Dolores.",
                   "category": "museum",
                   "coords": [
                         -100.93277,
@@ -11969,7 +11969,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Monumento A La Bandera",
-                  "text": "În Dolores Hidalgo, Monumentul pentru Drapel este un monument dedicat drapelului.",
+                  "text": "Monumento A La Bandera este un monument istoric al drapelului în De Dolores.",
                   "category": "historical",
                   "coords": [
                         -100.926757,
@@ -11978,7 +11978,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Bandera Monumental",
-                  "text": "În Dolores Hidalgo, Monumental Flag este un drapel mare pe un catarg.",
+                  "text": "Drapel monumental în Dolores Hidalgo, leagănul războiului de independență mexican.",
                   "category": "historical",
                   "coords": [
                         -100.90975,
@@ -11987,7 +11987,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Monumento a los Heores de la Independencia",
-                  "text": "În Dolores Hidalgo, Monumentul Eroilor Independenței este un monument dedicat eroilor independenței.",
+                  "text": "Monumento a los Héroes de la Independencia este un monument istoric al eroilor independenței în De Dolores.",
                   "category": "historical",
                   "coords": [
                         -100.916708,
@@ -11996,7 +11996,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Auditorio Municipal Mariano Abasolo D.",
-                  "text": "În Dolores Hidalgo, Auditorio Municipal Mariano Abasolo D. este un auditoriu municipal.",
+                  "text": "Auditorio Municipal Mariano Abasolo D. este un auditoriu municipal în De Dolores.",
                   "category": "cultural",
                   "coords": [
                         -100.934456,
@@ -12007,7 +12007,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Casa de la Cultura",
-                  "text": "In Dolores Hidalgo, the Casa de la Cultura is a cultural centre.",
+                  "text": "Casa de la Cultura is a landmark historic cultural house in De Dolores.",
                   "category": "landmark",
                   "coords": [
                         -100.933454,
@@ -12016,7 +12016,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo de la Indepencia",
-                  "text": "In Dolores Hidalgo, the Museo de la Indepencia is a museum about Mexican independence.",
+                  "text": "Museo de la Independencia is a museum of Mexican independence in De Dolores.",
                   "category": "museum",
                   "coords": [
                         -100.935283,
@@ -12025,7 +12025,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Casa del cura Hidalgo",
-                  "text": "In Dolores Hidalgo, the Casa del cura Hidalgo is the house of priest Miguel Hidalgo.",
+                  "text": "Casa del cura Hidalgo is the historic house of priest Miguel Hidalgo in De Dolores.",
                   "category": "landmark",
                   "coords": [
                         -100.935769,
@@ -12034,7 +12034,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "José Alfredo Jiménez",
-                  "text": "In Dolores Hidalgo, the José Alfredo Jiménez is a museum dedicated to the singer.",
+                  "text": "José Alfredo Jiménez is a museum dedicated to the singer José Alfredo Jiménez in De Dolores.",
                   "category": "museum",
                   "coords": [
                         -100.93277,
@@ -12043,7 +12043,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Monumento A La Bandera",
-                  "text": "In Dolores Hidalgo, the Monumento A La Bandera is a monument to the flag.",
+                  "text": "Monumento A La Bandera is a historical flag monument in De Dolores.",
                   "category": "historical",
                   "coords": [
                         -100.926757,
@@ -12052,7 +12052,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Monumental Flag",
-                  "text": "In Dolores Hidalgo, the Monumental Flag is a large flag on a pole.",
+                  "text": "A monumental flag in Dolores Hidalgo, cradle of the Mexican War of Independence.",
                   "category": "historical",
                   "coords": [
                         -100.90975,
@@ -12061,7 +12061,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Monumento a los Heores de la Independencia",
-                  "text": "In Dolores Hidalgo, the Monumento a los Heores de la Independencia is a monument to the heroes of independence.",
+                  "text": "Monumento a los Héroes de la Independencia is a historical monument to independence heroes in De Dolores.",
                   "category": "historical",
                   "coords": [
                         -100.916708,
@@ -12070,7 +12070,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Auditorio Municipal Mariano Abasolo D.",
-                  "text": "In Dolores Hidalgo, the Auditorio Municipal Mariano Abasolo D. is a municipal auditorium.",
+                  "text": "Auditorio Municipal Mariano Abasolo D. is a municipal auditorium in De Dolores.",
                   "category": "cultural",
                   "coords": [
                         -100.934456,
@@ -12194,7 +12194,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo de la Evolución",
-                  "text": "Das Museum of Evolution ist ein Museum in Puebla, das sich der Evolution widmet.",
+                  "text": "Museum of Evolution ist ein Museum der Evolution in De Loreto.",
                   "category": "museum",
                   "coords": [
                         -98.181626,
@@ -12203,7 +12203,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo Regional de Puebla",
-                  "text": "Das Museo Regional de Puebla ist ein Regionalmuseum in Puebla.",
+                  "text": "Museo Regional de Puebla ist ein Regionalmuseum von Puebla in De Loreto.",
                   "category": "museum",
                   "coords": [
                         -98.182737,
@@ -12212,7 +12212,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Planetario",
-                  "text": "Das Planetario ist ein Planetarium in Puebla.",
+                  "text": "Planetario ist ein Planetarium in De Loreto.",
                   "category": "museum",
                   "coords": [
                         -98.181638,
@@ -12338,7 +12338,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Fuerte de Loreto",
-                  "text": "Fuerte de Loreto ist eine Festung im Bereich des Fuerte de Loreto in Puebla, Mexiko.",
+                  "text": "Fuerte de Loreto ist eine historische Festung in De Loreto.",
                   "category": "fortress",
                   "coords": [
                         -98.187019,
@@ -12457,7 +12457,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo de la Evolución",
-                  "text": "A Museum of Evolution egy múzeum Pueblában, amely az evolúciónak szentelt.",
+                  "text": "Museum of Evolution egy evolúciós múzeum De Loretoban.",
                   "category": "museum",
                   "coords": [
                         -98.181626,
@@ -12466,7 +12466,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo Regional de Puebla",
-                  "text": "A Museo Regional de Puebla egy regionális múzeum Pueblában.",
+                  "text": "Museo Regional de Puebla egy regionális múzeum Pueblából De Loretoban.",
                   "category": "museum",
                   "coords": [
                         -98.182737,
@@ -12475,7 +12475,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Planetario",
-                  "text": "A Planetario egy planetárium Pueblában.",
+                  "text": "Planetario egy planetárium De Loretoban.",
                   "category": "museum",
                   "coords": [
                         -98.181638,
@@ -12601,7 +12601,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Fuerte de Loreto",
-                  "text": "Fuerte de Loreto egy erőd a Fuerte de Loreto területén Pueblában, Mexikóban.",
+                  "text": "Fuerte de Loreto egy történelmi erőd De Loretoban.",
                   "category": "fortress",
                   "coords": [
                         -98.187019,
@@ -12720,7 +12720,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo de la Evolución",
-                  "text": "Museum of Evolution este un muzeu în Puebla dedicat evoluției.",
+                  "text": "Museum of Evolution este un muzeu al evoluției în De Loreto.",
                   "category": "museum",
                   "coords": [
                         -98.181626,
@@ -12729,7 +12729,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo Regional de Puebla",
-                  "text": "Museo Regional de Puebla este un muzeu regional în Puebla.",
+                  "text": "Museo Regional de Puebla este un muzeu regional al statului Puebla în De Loreto.",
                   "category": "museum",
                   "coords": [
                         -98.182737,
@@ -12738,7 +12738,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Planetario",
-                  "text": "Planetario este un planetariu în Puebla.",
+                  "text": "Planetario este un planetariu în De Loreto.",
                   "category": "museum",
                   "coords": [
                         -98.181638,
@@ -12864,7 +12864,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Fuerte de Loreto",
-                  "text": "Fuerte de Loreto este o fortăreață situată în zona Fuerte de Loreto din Puebla, Mexic.",
+                  "text": "Fuerte de Loreto este o fortăreață istorică în De Loreto.",
                   "category": "fortress",
                   "coords": [
                         -98.187019,
@@ -12983,7 +12983,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museum of Evolution",
-                  "text": "Museum of Evolution is a museum in Puebla dedicated to evolution.",
+                  "text": "Museum of Evolution is a museum of evolution in De Loreto.",
                   "category": "museum",
                   "coords": [
                         -98.181626,
@@ -12992,7 +12992,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Museo Regional de Puebla",
-                  "text": "Museo Regional de Puebla is a regional museum in Puebla.",
+                  "text": "Museo Regional de Puebla is a regional museum of Puebla in De Loreto.",
                   "category": "museum",
                   "coords": [
                         -98.182737,
@@ -13001,7 +13001,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Planetario",
-                  "text": "Planetario is a planetarium in Puebla.",
+                  "text": "Planetario is a planetarium in De Loreto.",
                   "category": "museum",
                   "coords": [
                         -98.181638,
@@ -13127,7 +13127,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Fuerte de Loreto",
-                  "text": "Fuerte de Loreto is a fort located in the Fuerte de Loreto area of Puebla, Mexico.",
+                  "text": "Fuerte de Loreto is a historic fortress in De Loreto.",
                   "category": "fortress",
                   "coords": [
                         -98.187019,
@@ -13276,7 +13276,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Piramide de Coyotzingo",
-                  "text": "Piramide de Coyotzingo ist eine Pyramide im Bereich des Klosters von Huejotzingo.",
+                  "text": "Pirámide de Coyotzingo ist eine historische Pyramide in De Huejotzingo.",
                   "category": "historical",
                   "coords": [
                         -98.439984,
@@ -13285,7 +13285,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Ex-Hacienda San Esteban Tepetzingo",
-                  "text": "Die Ex-Hacienda San Esteban Tepetzingo ist eine Ruine in Convento de Huejotzingo.",
+                  "text": "Ex-Hacienda San Esteban Tepetzingo ist eine historische ehemalige Hazienda in De Huejotzingo.",
                   "category": "historical",
                   "coords": [
                         -98.462073,
@@ -13296,7 +13296,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Piramide de Coyotzingo",
-                  "text": "A Piramide de Coyotzingo egy piramis a huejotzingói kolostor területén.",
+                  "text": "Pirámide de Coyotzingo egy történelmi piramis De Huejotzingóban.",
                   "category": "historical",
                   "coords": [
                         -98.439984,
@@ -13305,7 +13305,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Ex-Hacienda San Esteban Tepetzingo",
-                  "text": "Az Ex-Hacienda San Esteban Tepetzingo romok Convento de Huejotzingóban.",
+                  "text": "Ex-Hacienda San Esteban Tepetzingo egy történelmi egykori hacienda De Huejotzingóban.",
                   "category": "historical",
                   "coords": [
                         -98.462073,
@@ -13316,7 +13316,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Piramide de Coyotzingo",
-                  "text": "Piramide de Coyotzingo este o piramidă în zona mănăstirii Huejotzingo.",
+                  "text": "Pirámide de Coyotzingo este o piramidă istorică în De Huejotzingo.",
                   "category": "historical",
                   "coords": [
                         -98.439984,
@@ -13325,7 +13325,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Ex-Hacienda San Esteban Tepetzingo",
-                  "text": "Ex-Hacienda San Esteban Tepetzingo sunt ruine în Convento de Huejotzingo.",
+                  "text": "Ex-Hacienda San Esteban Tepetzingo este o fostă haciendă istorică în De Huejotzingo.",
                   "category": "historical",
                   "coords": [
                         -98.462073,
@@ -13336,7 +13336,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Piramide de Coyotzingo",
-                  "text": "Piramide de Coyotzingo is a pyramid in the Huejotzingo convent area.",
+                  "text": "Pirámide de Coyotzingo is a historical pyramid in De Huejotzingo.",
                   "category": "historical",
                   "coords": [
                         -98.439984,
@@ -13345,7 +13345,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Ex-Hacienda San Esteban Tepetzingo",
-                  "text": "Ex-Hacienda San Esteban Tepetzingo is a ruin in Convento de Huejotzingo.",
+                  "text": "Ex-Hacienda San Esteban Tepetzingo is a historical former hacienda in De Huejotzingo.",
                   "category": "historical",
                   "coords": [
                         -98.462073,
@@ -13404,7 +13404,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Teatro Sana Ana",
-                  "text": "Ein Theater in San Miguel de Allende.",
+                  "text": "Teatro San Ana ist ein kulturelles Theater in Miguel de Allende.",
                   "category": "cultural",
                   "coords": [
                         -100.74313,
@@ -13413,7 +13413,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Kuna Galería",
-                  "text": "Eine Kunstgalerie in San Miguel de Allende.",
+                  "text": "Kuna Galería ist eine Museumsgalerie in Miguel de Allende.",
                   "category": "museum",
                   "coords": [
                         -100.743972,
@@ -13440,7 +13440,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Arco de San Miguel",
-                  "text": "Der Bogen von San Miguel, ein markanter Stadteingang.",
+                  "text": "Arco de San Miguel ist ein markanter Bogen in Miguel de Allende.",
                   "category": "landmark",
                   "coords": [
                         -100.73603,
@@ -13449,7 +13449,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Mirador",
-                  "text": "Ein Aussichtspunkt mit Blick auf San Miguel de Allende.",
+                  "text": "Mirador ist ein natürlicher Aussichtspunkt in Miguel de Allende.",
                   "category": "natural",
                   "coords": [
                         -100.73802,
@@ -13476,7 +13476,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Antiguo Acueducto",
-                  "text": "Ein antikes Aquädukt-Denkmal in San Miguel de Allende.",
+                  "text": "Antiguo Acueducto ist ein historisches antikes Aquädukt in Miguel de Allende.",
                   "category": "historical",
                   "coords": [
                         -100.73745,
@@ -13485,7 +13485,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "La Troje",
-                  "text": "Ein Theater namens La Troje in San Miguel de Allende.",
+                  "text": "La Troje ist ein kultureller Veranstaltungsort in Miguel de Allende.",
                   "category": "cultural",
                   "coords": [
                         -100.738905,
@@ -13494,7 +13494,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Capella",
-                  "text": "Ein Kapellen-Denkmal in San Miguel de Allende.",
+                  "text": "Capella ist eine historische Kapelle in Miguel de Allende.",
                   "category": "historical",
                   "coords": [
                         -100.736086,
@@ -13602,7 +13602,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Recinto Ferial San Miguel de Allende",
-                  "text": "Ein Messegelände und Freizeitpark in San Miguel de Allende.",
+                  "text": "Recinto Ferial San Miguel de Allende ist ein Freizeitgelände in Miguel de Allende.",
                   "category": "recreational",
                   "coords": [
                         -100.71009,
@@ -13611,7 +13611,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Foro San Miguel",
-                  "text": "Ein Theater in San Miguel de Allende für kulturelle Veranstaltungen.",
+                  "text": "Foro San Miguel ist ein kulturelles Forum in Miguel de Allende.",
                   "category": "cultural",
                   "coords": [
                         -100.714971,
@@ -13620,7 +13620,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Foro",
-                  "text": "Ein Theater in San Miguel de Allende.",
+                  "text": "Foro ist ein kulturelles Forum in Miguel de Allende.",
                   "category": "cultural",
                   "coords": [
                         -100.735215,
@@ -13631,7 +13631,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Teatro Sana Ana",
-                  "text": "Egy színház San Miguel de Allendében.",
+                  "text": "Teatro San Ana egy kulturális színház Miguel de Allendében.",
                   "category": "cultural",
                   "coords": [
                         -100.74313,
@@ -13640,7 +13640,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Kuna Galería",
-                  "text": "Egy művészeti galéria San Miguel de Allendében.",
+                  "text": "Kuna Galería egy múzeumgaléria Miguel de Allendében.",
                   "category": "museum",
                   "coords": [
                         -100.743972,
@@ -13667,7 +13667,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Arco de San Miguel",
-                  "text": "San Miguel íve, a város nevezetes bejárata.",
+                  "text": "Arco de San Miguel egy nevezetes boltív Miguel de Allendében.",
                   "category": "landmark",
                   "coords": [
                         -100.73603,
@@ -13676,7 +13676,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Mirador",
-                  "text": "Egy kilátó San Miguel de Allendére.",
+                  "text": "Mirador egy természetes kilátóhely Miguel de Allendében.",
                   "category": "natural",
                   "coords": [
                         -100.73802,
@@ -13703,7 +13703,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Antiguo Acueducto",
-                  "text": "Egy ősi vízvezeték emlékmű San Miguel de Allendében.",
+                  "text": "Antiguo Acueducto egy történelmi ókori vízvezeték Miguel de Allendében.",
                   "category": "historical",
                   "coords": [
                         -100.73745,
@@ -13712,7 +13712,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "La Troje",
-                  "text": "Egy La Troje nevű színház San Miguel de Allendében.",
+                  "text": "La Troje egy kulturális helyszín Miguel de Allendében.",
                   "category": "cultural",
                   "coords": [
                         -100.738905,
@@ -13721,7 +13721,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Capella",
-                  "text": "Egy kápolna emlékmű San Miguel de Allendében.",
+                  "text": "Capella egy történelmi kápolna Miguel de Allendében.",
                   "category": "historical",
                   "coords": [
                         -100.736086,
@@ -13829,7 +13829,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Recinto Ferial San Miguel de Allende",
-                  "text": "Egy vásár- és szabadidőpark San Miguel de Allendében.",
+                  "text": "Recinto Ferial San Miguel de Allende egy rekreációs vásártér Miguel de Allendében.",
                   "category": "recreational",
                   "coords": [
                         -100.71009,
@@ -13838,7 +13838,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Foro San Miguel",
-                  "text": "Egy színház San Miguel de Allendében kulturális események számára.",
+                  "text": "Foro San Miguel egy kulturális fórum Miguel de Allendében.",
                   "category": "cultural",
                   "coords": [
                         -100.714971,
@@ -13847,7 +13847,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Foro",
-                  "text": "Egy színház San Miguel de Allendében.",
+                  "text": "Foro egy kulturális fórum Miguel de Allendében.",
                   "category": "cultural",
                   "coords": [
                         -100.735215,
@@ -13858,7 +13858,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Teatro Sana Ana",
-                  "text": "Un teatru în San Miguel de Allende.",
+                  "text": "Teatro San Ana este un teatru cultural în Miguel de Allende.",
                   "category": "cultural",
                   "coords": [
                         -100.74313,
@@ -13867,7 +13867,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Kuna Galería",
-                  "text": "O galerie de artă în San Miguel de Allende.",
+                  "text": "Kuna Galería este o galerie muzeală în Miguel de Allende.",
                   "category": "museum",
                   "coords": [
                         -100.743972,
@@ -13894,7 +13894,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Arco de San Miguel",
-                  "text": "Arcul San Miguel, o intrare emblematică în oraș.",
+                  "text": "Arco de San Miguel este un arc de piatră de reper în Miguel de Allende.",
                   "category": "landmark",
                   "coords": [
                         -100.73603,
@@ -13903,7 +13903,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Mirador",
-                  "text": "Un punct de belvedere care oferă vedere asupra San Miguel de Allende.",
+                  "text": "Mirador este un punct de belvedere natural în Miguel de Allende.",
                   "category": "natural",
                   "coords": [
                         -100.73802,
@@ -13930,7 +13930,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Antiguo Acueducto",
-                  "text": "Un monument de apeduct antic în San Miguel de Allende.",
+                  "text": "Antiguo Acueducto este un apeduct antic istoric în Miguel de Allende.",
                   "category": "historical",
                   "coords": [
                         -100.73745,
@@ -13939,7 +13939,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "La Troje",
-                  "text": "Un teatru numit La Troje în San Miguel de Allende.",
+                  "text": "La Troje este un loc cultural în Miguel de Allende.",
                   "category": "cultural",
                   "coords": [
                         -100.738905,
@@ -13948,7 +13948,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Capella",
-                  "text": "Un monument de capelă în San Miguel de Allende.",
+                  "text": "Capella este o capelă istorică în Miguel de Allende.",
                   "category": "historical",
                   "coords": [
                         -100.736086,
@@ -14056,7 +14056,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Recinto Ferial San Miguel de Allende",
-                  "text": "Un parc de expoziții și agrement în San Miguel de Allende.",
+                  "text": "Recinto Ferial San Miguel de Allende este un parc de distracții în Miguel de Allende.",
                   "category": "recreational",
                   "coords": [
                         -100.71009,
@@ -14065,7 +14065,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Foro San Miguel",
-                  "text": "Un teatru în San Miguel de Allende pentru evenimente culturale.",
+                  "text": "Foro San Miguel este un forum cultural în Miguel de Allende.",
                   "category": "cultural",
                   "coords": [
                         -100.714971,
@@ -14074,7 +14074,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Foro",
-                  "text": "Un teatru în San Miguel de Allende.",
+                  "text": "Foro este un forum cultural în Miguel de Allende.",
                   "category": "cultural",
                   "coords": [
                         -100.735215,
@@ -14085,7 +14085,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Teatro Sana Ana",
-                  "text": "A theatre in San Miguel de Allende.",
+                  "text": "Teatro San Ana is a cultural theater in Miguel de Allende.",
                   "category": "cultural",
                   "coords": [
                         -100.74313,
@@ -14094,7 +14094,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Kuna Galería",
-                  "text": "An art gallery in San Miguel de Allende.",
+                  "text": "Kuna Galería is a museum gallery in Miguel de Allende.",
                   "category": "museum",
                   "coords": [
                         -100.743972,
@@ -14121,7 +14121,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Arco de San Miguel",
-                  "text": "The Arch of San Miguel, a landmark entrance to the city.",
+                  "text": "Arco de San Miguel is a landmark arch in Miguel de Allende.",
                   "category": "landmark",
                   "coords": [
                         -100.73603,
@@ -14130,7 +14130,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Mirador",
-                  "text": "A viewpoint overlooking San Miguel de Allende.",
+                  "text": "Mirador is a natural viewpoint in Miguel de Allende.",
                   "category": "natural",
                   "coords": [
                         -100.73802,
@@ -14157,7 +14157,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Antiguo Acueducto",
-                  "text": "An ancient aqueduct monument in San Miguel de Allende.",
+                  "text": "Antiguo Acueducto is a historical ancient aqueduct in Miguel de Allende.",
                   "category": "historical",
                   "coords": [
                         -100.73745,
@@ -14166,7 +14166,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "La Troje",
-                  "text": "A theatre called La Troje in San Miguel de Allende.",
+                  "text": "La Troje is a cultural venue in Miguel de Allende.",
                   "category": "cultural",
                   "coords": [
                         -100.738905,
@@ -14175,7 +14175,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Capella",
-                  "text": "A chapel monument in San Miguel de Allende.",
+                  "text": "Capella is a historical chapel in Miguel de Allende.",
                   "category": "historical",
                   "coords": [
                         -100.736086,
@@ -14283,7 +14283,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Recinto Ferial San Miguel de Allende",
-                  "text": "A fairground and amusement park in San Miguel de Allende.",
+                  "text": "Recinto Ferial San Miguel de Allende is a recreational fairground in Miguel de Allende.",
                   "category": "recreational",
                   "coords": [
                         -100.71009,
@@ -14292,7 +14292,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Foro San Miguel",
-                  "text": "A theatre in San Miguel de Allende for cultural events.",
+                  "text": "Foro San Miguel is a cultural forum in Miguel de Allende.",
                   "category": "cultural",
                   "coords": [
                         -100.714971,
@@ -14301,7 +14301,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Foro",
-                  "text": "A theatre in San Miguel de Allende.",
+                  "text": "Foro is a cultural forum in Miguel de Allende.",
                   "category": "cultural",
                   "coords": [
                         -100.735215,
@@ -14360,7 +14360,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Los Nogales",
-                  "text": "Los Nogales ist eine Attraktion in der Paquimé-Gegend, in der Nähe von Casas Grandes.",
+                  "text": "Los Nogales ist ein markantes Walnussbaumgehölz in Casas Grandes.",
                   "category": "landmark",
                   "coords": [
                         -107.950102,
@@ -14369,7 +14369,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Parque Acuatico Madero",
-                  "text": "Der Parque Acuatico Madero ist ein Wasserpark in der Region Paquimé.",
+                  "text": "Parque Acuatico Madero ist ein markanter Wasserpark in Casas Grandes.",
                   "category": "landmark",
                   "coords": [
                         -107.941398,
@@ -14405,7 +14405,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Segundo Quiosco",
-                  "text": "Segundo Quiosco ist ein Denkmalkiosk in der Paquimé-Gegend.",
+                  "text": "Segundo Quiosco ist ein historischer zweiter Kiosk in Casas Grandes.",
                   "category": "historical",
                   "coords": [
                         -107.915644,
@@ -14414,7 +14414,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Letras NCG",
-                  "text": "Letras NCG ist ein Denkmal mit den Buchstaben NCG in der Region Paquimé.",
+                  "text": "Letras NCG ist ein historisches Buchstabenmonument für Nuevo Casas Grandes in Casas Grandes.",
                   "category": "historical",
                   "coords": [
                         -107.914707,
@@ -14423,7 +14423,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Blaneario el Tiburon",
-                  "text": "Blaneario el Tiburon ist eine Schwimmmöglichkeit in der Paquimé-Gegend.",
+                  "text": "Balneario el Tiburón ist ein markantes Thermalbad in Casas Grandes.",
                   "category": "landmark",
                   "coords": [
                         -107.951649,
@@ -14441,7 +14441,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Zona arqueológica de Paquimé",
-                  "text": "Die Zona arqueológica de Paquimé ist das vor Ort befindliche Museum mit Artefakten der archäologischen Stätte Paquimé.",
+                  "text": "UNESCO-Weltkulturerbe mit mehrstöckigen Adobe-Bauten.",
                   "category": "museum",
                   "coords": [
                         -107.949937,
@@ -14470,7 +14470,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Los Nogales",
-                  "text": "A Los Nogales egy látványosság a Paquimé környékén, Casas Grandes közelében.",
+                  "text": "Los Nogales egy nevezetes diófa liget Casas Grandesben.",
                   "category": "landmark",
                   "coords": [
                         -107.950102,
@@ -14479,7 +14479,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Parque Acuatico Madero",
-                  "text": "A Parque Acuatico Madero egy vízipark a Paquimé régióban.",
+                  "text": "Parque Acuatico Madero egy nevezetes vízipark Casas Grandesben.",
                   "category": "landmark",
                   "coords": [
                         -107.941398,
@@ -14515,7 +14515,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Segundo Quiosco",
-                  "text": "A Segundo Quiosco egy emlékmű kioszk a Paquimé környékén.",
+                  "text": "Segundo Quiosco egy történelmi második kioszk Casas Grandesben.",
                   "category": "historical",
                   "coords": [
                         -107.915644,
@@ -14524,7 +14524,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Letras NCG",
-                  "text": "A Letras NCG egy emlékmű az NCG betűkkel a Paquimé régióban.",
+                  "text": "Letras NCG egy történelmi betűemlékmű az Új Casas Grandes számára Casas Grandesben.",
                   "category": "historical",
                   "coords": [
                         -107.914707,
@@ -14533,7 +14533,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Blaneario el Tiburon",
-                  "text": "A Blaneario el Tiburon egy fürdőhely a Paquimé környékén.",
+                  "text": "Balneario el Tiburón egy nevezetes gyógyfürdő Casas Grandesben.",
                   "category": "landmark",
                   "coords": [
                         -107.951649,
@@ -14551,7 +14551,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Zona arqueológica de Paquimé",
-                  "text": "A Zona arqueológica de Paquimé a helyszínen található múzeum, amely a Paquimé régészeti lelőhely tárgyait mutatja be.",
+                  "text": "UNESCO világörökségi lelőhely többszintes vályogházakkal.",
                   "category": "museum",
                   "coords": [
                         -107.949937,
@@ -14580,7 +14580,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Los Nogales",
-                  "text": "Los Nogales este o atracție în zona Paquimé, lângă Casas Grandes.",
+                  "text": "Los Nogales este un punct de reper cu copaci de nuc în Casas Grandes.",
                   "category": "landmark",
                   "coords": [
                         -107.950102,
@@ -14589,7 +14589,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Parque Acuatico Madero",
-                  "text": "Parque Acuatico Madero este un parc acvatic în regiunea Paquimé.",
+                  "text": "Parque Acuatico Madero este un parc acvatic de reper în Casas Grandes.",
                   "category": "landmark",
                   "coords": [
                         -107.941398,
@@ -14625,7 +14625,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Segundo Quiosco",
-                  "text": "Segundo Quiosco este un chioșc monument în zona Paquimé.",
+                  "text": "Segundo Quiosco este un chioșc istoric al doilea în Casas Grandes.",
                   "category": "historical",
                   "coords": [
                         -107.915644,
@@ -14634,7 +14634,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Letras NCG",
-                  "text": "Letras NCG este un monument cu literele NCG în regiunea Paquimé.",
+                  "text": "Letras NCG este un monument istoric al literelor pentru Nuevo Casas Grandes în Casas Grandes.",
                   "category": "historical",
                   "coords": [
                         -107.914707,
@@ -14643,7 +14643,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Blaneario el Tiburon",
-                  "text": "Blaneario el Tiburon este o atracție de înot în zona Paquimé.",
+                  "text": "Balneario el Tiburón este un spa de reper în Casas Grandes.",
                   "category": "landmark",
                   "coords": [
                         -107.951649,
@@ -14661,7 +14661,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Zona arqueológica de Paquimé",
-                  "text": "Zona arqueológica de Paquimé este muzeul de la fața locului care expune artefacte de la situl arheologic Paquimé.",
+                  "text": "Sit arheologic UNESCO cu structuri de chirpici cu mai multe etaje.",
                   "category": "museum",
                   "coords": [
                         -107.949937,
@@ -14690,7 +14690,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Los Nogales",
-                  "text": "Los Nogales is an attraction in the Paquimé area, near Casas Grandes.",
+                  "text": "Los Nogales is a landmark of walnut trees in Casas Grandes.",
                   "category": "landmark",
                   "coords": [
                         -107.950102,
@@ -14699,7 +14699,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Parque Acuatico Madero",
-                  "text": "Parque Acuatico Madero is a water park in the Paquimé region.",
+                  "text": "Parque Acuatico Madero is a landmark water park in Casas Grandes.",
                   "category": "landmark",
                   "coords": [
                         -107.941398,
@@ -14735,7 +14735,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Segundo Quiosco",
-                  "text": "Segundo Quiosco is a monument kiosk in the Paquimé area.",
+                  "text": "Segundo Quiosco is a historical second kiosk in Casas Grandes.",
                   "category": "historical",
                   "coords": [
                         -107.915644,
@@ -14744,7 +14744,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Letras NCG",
-                  "text": "Letras NCG is a monument with the letters NCG in the Paquimé region.",
+                  "text": "Letras NCG is a historical letters monument for Nuevo Casas Grandes in Casas Grandes.",
                   "category": "historical",
                   "coords": [
                         -107.914707,
@@ -14753,7 +14753,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Blaneario el Tiburon",
-                  "text": "Blaneario el Tiburon is a swimming attraction in the Paquimé area.",
+                  "text": "Balneario el Tiburón is a landmark spa in Casas Grandes.",
                   "category": "landmark",
                   "coords": [
                         -107.951649,
@@ -14771,7 +14771,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
             },
             {
                   "name": "Zona arqueológica de Paquimé",
-                  "text": "Zona arqueológica de Paquimé is the on-site museum displaying artifacts from the Paquimé archaeological site.",
+                  "text": "UNESCO World Heritage archaeological site with multi-storey adobe structures.",
                   "category": "museum",
                   "coords": [
                         -107.949937,

@@ -3,7 +3,1348 @@ import type { POI } from "./poi";
 
 export const poiExtraUzbekistanCitiesV2: POI[] = [
   {
-    id: "tashkent-cities-v2",
+    id: "tashkent-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kugaittepa",
+                  "text": "Ein bedeutender archäologischer Siedlungshügel aus dem frühen Mittelalter, der wertvolle Einblicke in die Geschichte der Chach-Region bietet.",
+                  "category": "historical",
+                  "coords": [
+                        69.221227,
+                        41.254449
+                  ]
+            },
+            {
+                  "name": "Kamalanskie vorota",
+                  "text": "Eines der zwölf historischen Tore der alten Stadtbefestigung von Taschkent, das heute ein symbolträchtiger Ort ist.",
+                  "category": "fortress",
+                  "coords": [
+                        69.231768,
+                        41.30619
+                  ]
+            },
+            {
+                  "name": "Samarkandskie vorota",
+                  "text": "Dieses historische Stadttor war einst Teil der antiken Verteidigungsanlagen von Taschkent.",
+                  "category": "fortress",
+                  "coords": [
+                        69.221877,
+                        41.309809
+                  ]
+            },
+            {
+                  "name": "Choʻpon ota maqbarasi",
+                  "text": "Dieses Mausoleum aus dem 15. Jahrhundert ist Chupan-ata gewidmet, dem legendären Schutzpatron der Hirten.",
+                  "category": "historical",
+                  "coords": [
+                        69.183761,
+                        41.291019
+                  ]
+            },
+            {
+                  "name": "Teshikkupriktepa",
+                  "text": "Dieser antike Siedlungshügel ist ein bedeutendes archäologisches Zeugnis der frühen Stadtkultur in der Region.",
+                  "category": "historical",
+                  "coords": [
+                        69.218389,
+                        41.286061
+                  ]
+            },
+            {
+                  "name": "Novza",
+                  "text": "Diese moderne Moschee besticht durch ihre markanten blauen Kuppeln und die traditionelle zentralasiatische Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        69.226888,
+                        41.293956
+                  ]
+            },
+            {
+                  "name": "Rakat jome masjidi",
+                  "text": "Die Stadtteilmoschee ist für ihre fein geschnitzten Holzarbeiten und die klassischen usbekischen Minarette bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        69.245775,
+                        41.289992
+                  ]
+            },
+            {
+                  "name": "Iurii Gagarin",
+                  "text": "Dieses Denkmal auf einem Granitsockel ehrt Juri Gagarin, den ersten Menschen im Weltraum.",
+                  "category": "landmark",
+                  "coords": [
+                        69.223617,
+                        41.283746
+                  ]
+            },
+            {
+                  "name": "G'afur G'ulom nomdagi istirohat bog'i",
+                  "text": "Dieser 1967 eröffnete Freizeitpark bietet weite Grünflächen, Fahrgeschäfte und zwei künstliche Seen.",
+                  "category": "park",
+                  "coords": [
+                        69.216089,
+                        41.282003
+                  ]
+            },
+            {
+                  "name": "Muzei Avtodorozhnogo kolledzha",
+                  "text": "Dieses Bildungsmuseum dokumentiert die Geschichte und die akademischen Leistungen des örtlichen Colleges.",
+                  "category": "museum",
+                  "coords": [
+                        69.214483,
+                        41.299876
+                  ]
+            },
+            {
+                  "name": "Toshkent tarixi muzeyi",
+                  "text": "Das Museum zeigt die Entwicklung der Stadt von der Antike bis zur modernen Metropole Usbekistans.",
+                  "category": "museum",
+                  "coords": [
+                        69.238461,
+                        41.302497
+                  ]
+            },
+            {
+                  "name": "Pamiati geroev",
+                  "text": "Dieses Denkmal ist dem Gedenken an die Helden gewidmet, die im Großen Vaterländischen Krieg kämpften.",
+                  "category": "historical",
+                  "coords": [
+                        69.250062,
+                        41.275267
+                  ]
+            },
+            {
+                  "name": "Denkmal der trauernden Mutter",
+                  "text": "Dieses 1975 errichtete Mahnmal zeigt eine trauernde Mutter vor einer ewigen Flamme zum Gedenken an die Gefallenen.",
+                  "category": "historical",
+                  "coords": [
+                        69.232833,
+                        41.270969
+                  ]
+            },
+            {
+                  "name": "Bratskie mogily",
+                  "text": "Dieser Gedenkkomplex umfasst einen Soldatenfriedhof und eine ewige Flamme zu Ehren der Kriegsopfer.",
+                  "category": "historical",
+                  "coords": [
+                        69.234396,
+                        41.269114
+                  ]
+            },
+            {
+                  "name": "Pamiatnik pogibshim v Velikuiu Otechestvennoiu Voinu",
+                  "text": "Diese Skulptur ehrt die Soldaten der Region, die während des Konflikts von 1941 bis 1945 ihr Leben ließen.",
+                  "category": "historical",
+                  "coords": [
+                        69.20643,
+                        41.263548
+                  ]
+            },
+            {
+                  "name": "Avitsena",
+                  "text": "Das Denkmal ist Ibn Sina gewidmet, dem berühmten mittelalterlichen Gelehrten und Vater der modernen Medizin.",
+                  "category": "historical",
+                  "coords": [
+                        69.209743,
+                        41.272566
+                  ]
+            },
+            {
+                  "name": "Aktepa Chilanzar",
+                  "text": "Diese archäologische Stätte im Bezirk Chilanzar bewahrt die Überreste eines antiken befestigten Siedlungshügels.",
+                  "category": "historical",
+                  "coords": [
+                        69.206372,
+                        41.308173
+                  ]
+            },
+            {
+                  "name": "Gosudarstvennyi Teatr Muzykal'noi Komedii (Operetty)",
+                  "text": "Dieses Kulturzentrum ist auf leichte Opern, Musicals und klassische Operettenaufführungen spezialisiert.",
+                  "category": "cultural",
+                  "coords": [
+                        69.207829,
+                        41.283301
+                  ]
+            },
+            {
+                  "name": "Uzbekfilm",
+                  "text": "Das größte Filmstudio Usbekistans ist das historische Zentrum der nationalen Kinoproduktion.",
+                  "category": "cultural",
+                  "coords": [
+                        69.2375,
+                        41.294363
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "Diese traditionelle Nachbarschaftsmoschee dient als ruhiger Ort für das tägliche Gebet der Einheimischen.",
+                  "category": "religious",
+                  "coords": [
+                        69.158731,
+                        41.295033
+                  ]
+            },
+            {
+                  "name": "Tsvetochnyi bazar",
+                  "text": "Dieser lebhafte Blumenmarkt bietet eine große Auswahl an frischen einheimischen Blüten und Zierpflanzen.",
+                  "category": "cultural",
+                  "coords": [
+                        69.256337,
+                        41.289776
+                  ]
+            },
+            {
+                  "name": "Farkhadskii bazar",
+                  "text": "Dieser geschäftige Markt ist bekannt für seine frischen Produkte, Gewürze und traditionelle usbekische Keramik.",
+                  "category": "cultural",
+                  "coords": [
+                        69.18895,
+                        41.285274
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "Ein lokaler Markt, auf dem saisonales Obst, Gemüse und Güter des täglichen Bedarfs verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        69.199898,
+                        41.288635
+                  ]
+            },
+            {
+                  "name": "Uzum",
+                  "text": "Dieser moderne Handelsplatz bietet eine Auswahl an lokalen Lebensmitteln und Artikeln für den täglichen Bedarf.",
+                  "category": "cultural",
+                  "coords": [
+                        69.171782,
+                        41.285945
+                  ]
+            },
+            {
+                  "name": "Bazarchik",
+                  "text": "Ein traditioneller Freiluftmarkt, auf dem Einheimische mit frischen Lebensmitteln und regionalem Handwerk handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        69.205333,
+                        41.285522
+                  ]
+            },
+            {
+                  "name": "Askiia bazar",
+                  "text": "Dieser beliebte Viertelmarkt ist berühmt für sein Sortiment an Trockenfrüchten, Nüssen und Fladenbroten.",
+                  "category": "cultural",
+                  "coords": [
+                        69.250556,
+                        41.284601
+                  ]
+            },
+            {
+                  "name": "Bazarchik",
+                  "text": "Ein kleiner lokaler Markt, der die Nachbarschaft mit frischen Milchprodukten und Backwaren versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        69.221703,
+                        41.282504
+                  ]
+            },
+            {
+                  "name": "Chilanzar bazar",
+                  "text": "Dieses bedeutende Handelszentrum im Bezirk Chilanzar ist auf Textilien und Importwaren spezialisiert.",
+                  "category": "cultural",
+                  "coords": [
+                        69.203136,
+                        41.277189
+                  ]
+            },
+            {
+                  "name": "Katartal bazar (Optoviy)",
+                  "text": "Ein großer Großhandelsmarkt, auf dem man Lebensmittel in großen Mengen und preiswerte Haushaltsartikel findet.",
+                  "category": "cultural",
+                  "coords": [
+                        69.211862,
+                        41.293388
+                  ]
+            },
+            {
+                  "name": "KEU",
+                  "text": "Dieses Bildungsdenkmal markiert den Campus der staatlichen Wirtschaftsuniversität von Taschkent.",
+                  "category": "landmark",
+                  "coords": [
+                        69.207917,
+                        41.290763
+                  ]
+            },
+            {
+                  "name": "Zdes' podkarmlivaiut nutrii",
+                  "text": "Ein beliebter Ort am Flussufer, an dem man halbaquatische Nutrias in ihrer natürlichen Umgebung füttern kann.",
+                  "category": "landmark",
+                  "coords": [
+                        69.260632,
+                        41.273114
+                  ]
+            },
+            {
+                  "name": "Moskvich-407",
+                  "text": "Dieser Oldtimer aus der Sowjetära wird als Denkmal für die Automobilgeschichte des 20. Jahrhunderts ausgestellt.",
+                  "category": "landmark",
+                  "coords": [
+                        69.225401,
+                        41.280235
+                  ]
+            },
+            {
+                  "name": "GAZ-24",
+                  "text": "Dieser klassische Wolga-Pkw zeigt das ikonische Design der sowjetischen Luxusfahrzeuge für Funktionäre.",
+                  "category": "landmark",
+                  "coords": [
+                        69.220084,
+                        41.282786
+                  ]
+            },
+            {
+                  "name": "Maksud Vengerka",
+                  "text": "Ein bekannter lokaler Ort, der für seine traditionellen Pflaumenspezialitäten und Snacks berühmt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        69.242418,
+                        41.261043
+                  ]
+            },
+            {
+                  "name": "No'g'oy qo'rg'on jom`e masjidi",
+                  "text": "Diese historische Moschee verfügt über eine einzigartige Holzdecke und kunstvoll geschnitzte Säulen.",
+                  "category": "landmark",
+                  "coords": [
+                        69.221876,
+                        41.249613
+                  ]
+            },
+            {
+                  "name": "Do‘mbirobod masjidi",
+                  "text": "Diese große Stadtteilmoschee befindet sich in unmittelbarer Nähe zum historischen Dombrabad-Friedhof.",
+                  "category": "landmark",
+                  "coords": [
+                        69.209219,
+                        41.262459
+                  ]
+            },
+            {
+                  "name": "Qatortol ​Masjid",
+                  "text": "Die moderne Moschee im Katartal-Viertel zeichnet sich durch ihr hohes, schlankes Minarett aus.",
+                  "category": "landmark",
+                  "coords": [
+                        69.195638,
+                        41.267145
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kugaittepa",
+                  "text": "Jelentős kora középkori régészeti lelőhely, egy településhalom, amely értékes betekintést nyújt a Csacs-régió történelmébe.",
+                  "category": "historical",
+                  "coords": [
+                        69.221227,
+                        41.254449
+                  ]
+            },
+            {
+                  "name": "Kamalanskie vorota",
+                  "text": "Taskent óvárosának tizenkét történelmi kapujának egyike, amely ma fontos szimbolikus helyszín.",
+                  "category": "fortress",
+                  "coords": [
+                        69.231768,
+                        41.30619
+                  ]
+            },
+            {
+                  "name": "Samarkandskie vorota",
+                  "text": "Ez a történelmi városkapu egykor Taskent ősi védműveinek részét képezte.",
+                  "category": "fortress",
+                  "coords": [
+                        69.221877,
+                        41.309809
+                  ]
+            },
+            {
+                  "name": "Choʻpon ota maqbarasi",
+                  "text": "Ez a 15. századi mauzóleum Csupán-atának, a pásztorok legendás védőszentjének állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        69.183761,
+                        41.291019
+                  ]
+            },
+            {
+                  "name": "Teshikkupriktepa",
+                  "text": "Ez az ősi településhalom a régió korai városi kultúrájának jelentős régészeti emléke.",
+                  "category": "historical",
+                  "coords": [
+                        69.218389,
+                        41.286061
+                  ]
+            },
+            {
+                  "name": "Novza",
+                  "text": "Ez a modern mecset jellegzetes kék kupoláival és hagyományos közép-ázsiai építészetével tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        69.226888,
+                        41.293956
+                  ]
+            },
+            {
+                  "name": "Rakat jome masjidi",
+                  "text": "Ez a városnegyedi mecset finoman faragott famunkáiról és klasszikus üzbég minaretjeiről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        69.245775,
+                        41.289992
+                  ]
+            },
+            {
+                  "name": "Iurii Gagarin",
+                  "text": "Ez a gránit talapzaton álló emlékmű Jurij Gagarinnak, a világűr első emberének állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        69.223617,
+                        41.283746
+                  ]
+            },
+            {
+                  "name": "G'afur G'ulom nomdagi istirohat bog'i",
+                  "text": "Ez az 1967-ben megnyitott szabadidőpark tágas zöldfelületeket, vidámparki játékokat és két mesterséges tavat kínál.",
+                  "category": "park",
+                  "coords": [
+                        69.216089,
+                        41.282003
+                  ]
+            },
+            {
+                  "name": "Muzei Avtodorozhnogo kolledzha",
+                  "text": "Ez az oktatási múzeum a helyi kollégium történetét és akadémiai eredményeit dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        69.214483,
+                        41.299876
+                  ]
+            },
+            {
+                  "name": "Toshkent tarixi muzeyi",
+                  "text": "A múzeum bemutatja a város fejlődését az ókortól Üzbegisztán modern metropoliszáig.",
+                  "category": "museum",
+                  "coords": [
+                        69.238461,
+                        41.302497
+                  ]
+            },
+            {
+                  "name": "Pamiati geroev",
+                  "text": "Ez az emlékmű a Nagy Honvédő Háborúban harcolt hősök emlékének van szentelve.",
+                  "category": "historical",
+                  "coords": [
+                        69.250062,
+                        41.275267
+                  ]
+            },
+            {
+                  "name": "Skorbiashchaia Mat'",
+                  "text": "Ez az 1975-ben emelt emlékmű egy gyászoló anyát ábrázol az örökláng előtt, az elesettek emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        69.232833,
+                        41.270969
+                  ]
+            },
+            {
+                  "name": "Bratskie mogily",
+                  "text": "Ez az emlékkomplexum egy katonai temetőt és egy öröklángot foglal magában a háború áldozatainak tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        69.234396,
+                        41.269114
+                  ]
+            },
+            {
+                  "name": "Pamiatnik pogibshim v Velikuiu Otechestvennoiu Voinu",
+                  "text": "Ez a szobor a régió azon katonái előtt tiszteleg, akik az 1941–1945-ös konfliktus során vesztették életüket.",
+                  "category": "historical",
+                  "coords": [
+                        69.20643,
+                        41.263548
+                  ]
+            },
+            {
+                  "name": "Avitsena",
+                  "text": "Az emlékmű Ibn Színának, a híres középkori tudósnak és a modern orvostudomány atyjának van szentelve.",
+                  "category": "historical",
+                  "coords": [
+                        69.209743,
+                        41.272566
+                  ]
+            },
+            {
+                  "name": "Aktepa Chilanzar",
+                  "text": "Ez a Csilanzar negyedben található régészeti lelőhely egy ősi erődített településhalom maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        69.206372,
+                        41.308173
+                  ]
+            },
+            {
+                  "name": "Gosudarstvennyi Teatr Muzykal'noi Komedii (Operetty)",
+                  "text": "Ez a kulturális központ könnyűoperákra, musicalekre és klasszikus operett-előadásokra szakosodott.",
+                  "category": "cultural",
+                  "coords": [
+                        69.207829,
+                        41.283301
+                  ]
+            },
+            {
+                  "name": "Uzbekfilm",
+                  "text": "Üzbegisztán legnagyobb filmstúdiója a nemzeti filmgyártás történelmi központja.",
+                  "category": "cultural",
+                  "coords": [
+                        69.2375,
+                        41.294363
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "Ez a hagyományos környékbeli mecset a helyiek napi imádságának csendes helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        69.158731,
+                        41.295033
+                  ]
+            },
+            {
+                  "name": "Tsvetochnyi bazar",
+                  "text": "Ez a nyüzsgő virágpiac friss helyi virágok és dísznövények széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        69.256337,
+                        41.289776
+                  ]
+            },
+            {
+                  "name": "Farkhadskii bazar",
+                  "text": "Ez a forgalmas piac friss áruiról, fűszereiről és hagyományos üzbég kerámiáiról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        69.18895,
+                        41.285274
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "Helyi piac, ahol szezonális gyümölcsöket, zöldségeket és napi fogyasztási cikkeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        69.199898,
+                        41.288635
+                  ]
+            },
+            {
+                  "name": "Uzum",
+                  "text": "Ez a modern kereskedelmi helyi élelmiszerek és napi szükségleti cikkek választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        69.171782,
+                        41.285945
+                  ]
+            },
+            {
+                  "name": "Bazarchik",
+                  "text": "Hagyományos szabadtéri piac, ahol a helyiek friss élelmiszerekkel és regionális kézműves termékekkel kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        69.205333,
+                        41.285522
+                  ]
+            },
+            {
+                  "name": "Askiia bazar",
+                  "text": "Ez a népszerű környékbeli piac aszalt gyümölcseiről, dióféléiről és lepénykenyereiről híres.",
+                  "category": "cultural",
+                  "coords": [
+                        69.250556,
+                        41.284601
+                  ]
+            },
+            {
+                  "name": "Bazarchik",
+                  "text": "Kisméretű helyi piac, amely friss tejtermékekkel és pékárukkal látja el a környéket.",
+                  "category": "cultural",
+                  "coords": [
+                        69.221703,
+                        41.282504
+                  ]
+            },
+            {
+                  "name": "Chilanzar bazar",
+                  "text": "Ez a jelentős kereskedelmi központ a Csilanzar negyedben textilekre és importcikkekre specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        69.203136,
+                        41.277189
+                  ]
+            },
+            {
+                  "name": "Katartal bazar (Optoviy)",
+                  "text": "Nagy nagybani piac, ahol ömlesztett élelmiszereket és olcsó háztartási cikkeket lehet találni.",
+                  "category": "cultural",
+                  "coords": [
+                        69.211862,
+                        41.293388
+                  ]
+            },
+            {
+                  "name": "KEU",
+                  "text": "Ez az oktatási nevezetesség a Taskenti Állami Közgazdaságtudományi Egyetem kampuszát jelöli.",
+                  "category": "landmark",
+                  "coords": [
+                        69.207917,
+                        41.290763
+                  ]
+            },
+            {
+                  "name": "Zdes' podkarmlivaiut nutrii",
+                  "text": "Népszerű folyóparti hely, ahol a helyiek vízi nutria-kat figyelhetnek meg és etethetnek.",
+                  "category": "landmark",
+                  "coords": [
+                        69.260632,
+                        41.273114
+                  ]
+            },
+            {
+                  "name": "Moskvich-407",
+                  "text": "Ezt a szovjet korszakból származó veteránautót a 20. századi autógyártás emlékeként állították ki.",
+                  "category": "landmark",
+                  "coords": [
+                        69.225401,
+                        41.280235
+                  ]
+            },
+            {
+                  "name": "GAZ-24",
+                  "text": "Ez a klasszikus Volga személyautó a szovjet vezetői autók ikonikus dizájnját mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        69.220084,
+                        41.282786
+                  ]
+            },
+            {
+                  "name": "Maksud Vengerka",
+                  "text": "Népszerű helyi pont, amely hagyományos szilvás finomságairól és harapnivalóiról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        69.242418,
+                        41.261043
+                  ]
+            },
+            {
+                  "name": "No'g'oy qo'rg'on jom`e masjidi",
+                  "text": "Ez a történelmi mecset egyedülálló fagerendás mennyezettel és bonyolultan faragott oszlopokkal rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        69.221876,
+                        41.249613
+                  ]
+            },
+            {
+                  "name": "Do‘mbirobod masjidi",
+                  "text": "Ez a nagy környékbeli mecset a történelmi Dombrabád temető közvetlen közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        69.209219,
+                        41.262459
+                  ]
+            },
+            {
+                  "name": "Qatortol ​Masjid",
+                  "text": "A Katartal negyed modern mecsetje magas, karcsú minaretjéről nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        69.195638,
+                        41.267145
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kugaittepa",
+                  "text": "Un sit arheologic important reprezentat de o movilă de așezare din Evul Mediu timpuriu, oferind perspective asupra istoriei regiunii Chach.",
+                  "category": "historical",
+                  "coords": [
+                        69.221227,
+                        41.254449
+                  ]
+            },
+            {
+                  "name": "Kamalanskie vorota",
+                  "text": "Una dintre cele mai faimoase douăsprezece porți istorice ale vechii cetăți a Tașkentului, astăzi un loc simbolic.",
+                  "category": "fortress",
+                  "coords": [
+                        69.231768,
+                        41.30619
+                  ]
+            },
+            {
+                  "name": "Samarkandskie vorota",
+                  "text": "Această poartă istorică a orașului a făcut parte din vechile fortificații defensive ale Tașkentului.",
+                  "category": "fortress",
+                  "coords": [
+                        69.221877,
+                        41.309809
+                  ]
+            },
+            {
+                  "name": "Choʻpon ota maqbarasi",
+                  "text": "Acest mausoleu din secolul al XV-lea este dedicat lui Chupan-ata, legendarul patron al păstorilor.",
+                  "category": "historical",
+                  "coords": [
+                        69.183761,
+                        41.291019
+                  ]
+            },
+            {
+                  "name": "Teshikkupriktepa",
+                  "text": "Această movilă de așezare antică este o dovadă arheologică importantă a culturii urbane timpurii din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        69.218389,
+                        41.286061
+                  ]
+            },
+            {
+                  "name": "Novza",
+                  "text": "Această moschee modernă se remarcă prin cupolele sale albastre și arhitectura tradițională din Asia Centrală.",
+                  "category": "religious",
+                  "coords": [
+                        69.226888,
+                        41.293956
+                  ]
+            },
+            {
+                  "name": "Rakat jome masjidi",
+                  "text": "Această moschee de cartier este cunoscută pentru prelucrarea artistică a lemnului și minaretele sale uzbece clasice.",
+                  "category": "religious",
+                  "coords": [
+                        69.245775,
+                        41.289992
+                  ]
+            },
+            {
+                  "name": "Iurii Gagarin",
+                  "text": "Acest monument pe un piedestal de granit îl onorează pe Iuri Gagarin, primul om care a ajuns în spațiu.",
+                  "category": "landmark",
+                  "coords": [
+                        69.223617,
+                        41.283746
+                  ]
+            },
+            {
+                  "name": "G'afur G'ulom nomdagi istirohat bog'i",
+                  "text": "Acest parc de recreere, deschis în 1967, oferü spații verzi vaste, atracții și două lacuri artificiale.",
+                  "category": "park",
+                  "coords": [
+                        69.216089,
+                        41.282003
+                  ]
+            },
+            {
+                  "name": "Muzei Avtodorozhnogo kolledzha",
+                  "text": "Acest muzeu educațional documentează istoria și realizările academice ale colegiului local.",
+                  "category": "museum",
+                  "coords": [
+                        69.214483,
+                        41.299876
+                  ]
+            },
+            {
+                  "name": "Toshkent tarixi muzeyi",
+                  "text": "Muzeul prezintă evoluția orașului din antichitate până la metropola modernă a Uzbekistanului.",
+                  "category": "museum",
+                  "coords": [
+                        69.238461,
+                        41.302497
+                  ]
+            },
+            {
+                  "name": "Pamiati geroev",
+                  "text": "Acest monument este dedicat memoriei eroilor care au luptat în Marele Război pentru Apărarea Patriei.",
+                  "category": "historical",
+                  "coords": [
+                        69.250062,
+                        41.275267
+                  ]
+            },
+            {
+                  "name": "Skorbiashchaia Mat'",
+                  "text": "Acest memorial, ridicat în 1975, înfățișează o mamă îndurerată în fața unei flăcări eterne în memoria celor căzuți.",
+                  "category": "historical",
+                  "coords": [
+                        69.232833,
+                        41.270969
+                  ]
+            },
+            {
+                  "name": "Bratskie mogily",
+                  "text": "Acest complex memorial include un cimitir militar și o flacără eternă în onoarea victimelor războiului.",
+                  "category": "historical",
+                  "coords": [
+                        69.234396,
+                        41.269114
+                  ]
+            },
+            {
+                  "name": "Pamiatnik pogibshim v Velikuiu Otechestvennoiu Voinu",
+                  "text": "Această sculptură îi onorează pe soldații din regiune care și-au pierdut viața în timpul conflictului din 1941-1945.",
+                  "category": "historical",
+                  "coords": [
+                        69.20643,
+                        41.263548
+                  ]
+            },
+            {
+                  "name": "Avitsena",
+                  "text": "Monumentul îi este dedicat lui Ibn Sina, celebrul învățat medieval și părintele medicinei moderne.",
+                  "category": "historical",
+                  "coords": [
+                        69.209743,
+                        41.272566
+                  ]
+            },
+            {
+                  "name": "Aktepa Chilanzar",
+                  "text": "Acest sit arheologic din districtul Chilanzar păstrează vestigiile unei vechi movile de așezare fortificate.",
+                  "category": "historical",
+                  "coords": [
+                        69.206372,
+                        41.308173
+                  ]
+            },
+            {
+                  "name": "Gosudarstvennyi Teatr Muzykal'noi Komedii (Operetty)",
+                  "text": "Acest centru cultural este specializat în opere ușoare, musicaluri și spectacole de operetă clasică.",
+                  "category": "cultural",
+                  "coords": [
+                        69.207829,
+                        41.283301
+                  ]
+            },
+            {
+                  "name": "Uzbekfilm",
+                  "text": "Cel mai mare studio cinematografic din Uzbekistan este centrul istoric al producției naționale de film.",
+                  "category": "cultural",
+                  "coords": [
+                        69.2375,
+                        41.294363
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "Această moschee tradițională de cartier servește ca un loc liniștit pentru rugăciunile zilnice ale localnicilor.",
+                  "category": "religious",
+                  "coords": [
+                        69.158731,
+                        41.295033
+                  ]
+            },
+            {
+                  "name": "Tsvetochnyi bazar",
+                  "text": "Această piață vibrantă de flori oferă o gamă largă de flori locale proaspete și plante decorative.",
+                  "category": "cultural",
+                  "coords": [
+                        69.256337,
+                        41.289776
+                  ]
+            },
+            {
+                  "name": "Farkhadskii bazar",
+                  "text": "Această piață aglomerată este cunoscută pentru produsele proaspete, condimente și ceramica uzbecă tradițională.",
+                  "category": "cultural",
+                  "coords": [
+                        69.18895,
+                        41.285274
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "O piață locală unde se vând fructe și legume de sezon, precum și bunuri de uz casnic de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        69.199898,
+                        41.288635
+                  ]
+            },
+            {
+                  "name": "Uzum",
+                  "text": "Acest spațiu comercial modern oferă o selecție de alimente locale și articole de necesitate zilnică.",
+                  "category": "cultural",
+                  "coords": [
+                        69.171782,
+                        41.285945
+                  ]
+            },
+            {
+                  "name": "Bazarchik",
+                  "text": "O piață tradițională în aer liber unde localnicii fac comerț cu alimente proaspete și meșteșuguri regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        69.205333,
+                        41.285522
+                  ]
+            },
+            {
+                  "name": "Askiia bazar",
+                  "text": "Această piață populară de cartier este faimoasă pentru sortimentul său de fructe uscate, nuci și turtă.",
+                  "category": "cultural",
+                  "coords": [
+                        69.250556,
+                        41.284601
+                  ]
+            },
+            {
+                  "name": "Bazarchik",
+                  "text": "O mică piață locală care deservește cartierul cu produse lactate proaspete și produse de panificație.",
+                  "category": "cultural",
+                  "coords": [
+                        69.221703,
+                        41.282504
+                  ]
+            },
+            {
+                  "name": "Chilanzar bazar",
+                  "text": "Acest centru comercial major din zona Chilanzar oferă textile și bunuri de import.",
+                  "category": "cultural",
+                  "coords": [
+                        69.203136,
+                        41.277189
+                  ]
+            },
+            {
+                  "name": "Katartal bazar (Optoviy)",
+                  "text": "O piață en-gros mare unde cumpărătorii găsesc alimente la vrac și articole de uz casnic la prețuri accesibles.",
+                  "category": "cultural",
+                  "coords": [
+                        69.211862,
+                        41.293388
+                  ]
+            },
+            {
+                  "name": "KEU",
+                  "text": "Acest reper educațional marchează campusul Universității de Stat de Economie din Tașkent.",
+                  "category": "landmark",
+                  "coords": [
+                        69.207917,
+                        41.290763
+                  ]
+            },
+            {
+                  "name": "Zdes' podkarmlivaiut nutrii",
+                  "text": "Un loc popular pe malul râului unde localnicii se adună pentru a observa și hrăni nutriile semiavatice.",
+                  "category": "landmark",
+                  "coords": [
+                        69.260632,
+                        41.273114
+                  ]
+            },
+            {
+                  "name": "Moskvich-407",
+                  "text": "Această mașină vintage din epoca sovietică este expusă ca un monument al istoriei auto din secolul XX.",
+                  "category": "landmark",
+                  "coords": [
+                        69.225401,
+                        41.280235
+                  ]
+            },
+            {
+                  "name": "GAZ-24",
+                  "text": "Acest autoturism clasic Volga prezintă designul iconic al mașinilor executive sovietice.",
+                  "category": "landmark",
+                  "coords": [
+                        69.220084,
+                        41.282786
+                  ]
+            },
+            {
+                  "name": "Maksud Vengerka",
+                  "text": "Un loc local popular, cunoscut pentru gustările și preparatele sale tradiționale pe bază de prune.",
+                  "category": "landmark",
+                  "coords": [
+                        69.242418,
+                        41.261043
+                  ]
+            },
+            {
+                  "name": "No'g'oy qo'rg'on jom`e masjidi",
+                  "text": "Această moschee istorică are un tavan de lemn unic și coloane sculptate cu migală.",
+                  "category": "landmark",
+                  "coords": [
+                        69.221876,
+                        41.249613
+                  ]
+            },
+            {
+                  "name": "Do‘mbirobod masjidi",
+                  "text": "Această moschee mare de cartier este situată lângă cimitirul istoric Dombrabad.",
+                  "category": "landmark",
+                  "coords": [
+                        69.209219,
+                        41.262459
+                  ]
+            },
+            {
+                  "name": "Qatortol ​Masjid",
+                  "text": "Moscheea modernă din cartierul Katartal este notabilă pentru minaretul său înalt și zvelt.",
+                  "category": "landmark",
+                  "coords": [
+                        69.195638,
+                        41.267145
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kugaittepa",
+                  "text": "A significant early medieval archaeological settlement mound (tepa) offering insights into the history of the Chach region.",
+                  "category": "historical",
+                  "coords": [
+                        69.221227,
+                        41.254449
+                  ]
+            },
+            {
+                  "name": "Kamalan Gate",
+                  "text": "One of the twelve historic gates of the old city of Tashkent, standing as a symbolic landmark of the ancient fortifications.",
+                  "category": "fortress",
+                  "coords": [
+                        69.231768,
+                        41.30619
+                  ]
+            },
+            {
+                  "name": "Samarkand Gate",
+                  "text": "This historic city gate was once part of Tashkent's ancient defensive fortifications.",
+                  "category": "fortress",
+                  "coords": [
+                        69.221877,
+                        41.309809
+                  ]
+            },
+            {
+                  "name": "Chapan-ata mausoleum",
+                  "text": "This 15th-century mausoleum is dedicated to Chupan-ata, the legendary patron saint of shepherds.",
+                  "category": "historical",
+                  "coords": [
+                        69.183761,
+                        41.291019
+                  ]
+            },
+            {
+                  "name": "Teshikkupriktepa",
+                  "text": "This ancient settlement mound is a significant archaeological record of early urban culture in the region.",
+                  "category": "historical",
+                  "coords": [
+                        69.218389,
+                        41.286061
+                  ]
+            },
+            {
+                  "name": "Novza",
+                  "text": "This modern mosque stands out with its striking blue domes and traditional Central Asian architecture.",
+                  "category": "religious",
+                  "coords": [
+                        69.226888,
+                        41.293956
+                  ]
+            },
+            {
+                  "name": "Rakat",
+                  "text": "This neighborhood mosque is known for its finely carved woodwork and classical Uzbek minarets.",
+                  "category": "religious",
+                  "coords": [
+                        69.245775,
+                        41.289992
+                  ]
+            },
+            {
+                  "name": "Yuri Gagarin (Kedr)",
+                  "text": "This monument on a granite pedestal honors Yuri Gagarin, the first human to journey into outer space.",
+                  "category": "landmark",
+                  "coords": [
+                        69.223617,
+                        41.283746
+                  ]
+            },
+            {
+                  "name": "Gafur Gulyam park",
+                  "text": "Opened in 1967, this recreational park features expansive green spaces, amusement rides, and two artificial lakes.",
+                  "category": "park",
+                  "coords": [
+                        69.216089,
+                        41.282003
+                  ]
+            },
+            {
+                  "name": "Kolledj Muzeyi",
+                  "text": "This educational museum documents the history and academic achievements of the local college.",
+                  "category": "museum",
+                  "coords": [
+                        69.214483,
+                        41.299876
+                  ]
+            },
+            {
+                  "name": "Tashkent History Museum",
+                  "text": "The museum showcases the evolution of the city from antiquity to the modern metropolis of Uzbekistan.",
+                  "category": "museum",
+                  "coords": [
+                        69.238461,
+                        41.302497
+                  ]
+            },
+            {
+                  "name": "Pamiati geroev",
+                  "text": "This monument is dedicated to the memory of the heroes who fought in the Great Patriotic War.",
+                  "category": "historical",
+                  "coords": [
+                        69.250062,
+                        41.275267
+                  ]
+            },
+            {
+                  "name": "Mourning Mother",
+                  "text": "Erected in 1975, this memorial depicts a mourning mother before an eternal flame in memory of the fallen.",
+                  "category": "historical",
+                  "coords": [
+                        69.232833,
+                        41.270969
+                  ]
+            },
+            {
+                  "name": "Bratskie mogily",
+                  "text": "This memorial complex includes a military cemetery and an eternal flame in honor of war victims.",
+                  "category": "historical",
+                  "coords": [
+                        69.234396,
+                        41.269114
+                  ]
+            },
+            {
+                  "name": "Monument to those who died in the Great Patriotic War",
+                  "text": "This sculpture honors the region's soldiers who lost their lives during the 1941–1945 conflict.",
+                  "category": "historical",
+                  "coords": [
+                        69.20643,
+                        41.263548
+                  ]
+            },
+            {
+                  "name": "Avitsena",
+                  "text": "The monument is dedicated to Ibn Sina, the famous medieval scholar and father of modern medicine.",
+                  "category": "historical",
+                  "coords": [
+                        69.209743,
+                        41.272566
+                  ]
+            },
+            {
+                  "name": "Aktepa Chilanzar",
+                  "text": "This archaeological site in the Chilanzar district preserves the remains of an ancient fortified settlement mound.",
+                  "category": "historical",
+                  "coords": [
+                        69.206372,
+                        41.308173
+                  ]
+            },
+            {
+                  "name": "State Theatre of Musical Comedy (Operetta)",
+                  "text": "This cultural venue specializes in light operas, musicals, and classical operetta performances.",
+                  "category": "cultural",
+                  "coords": [
+                        69.207829,
+                        41.283301
+                  ]
+            },
+            {
+                  "name": "Uzbekfilm",
+                  "text": "The largest film studio in Uzbekistan, this is the historic hub of national cinema production.",
+                  "category": "cultural",
+                  "coords": [
+                        69.2375,
+                        41.294363
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "This traditional neighborhood mosque serves as a quiet place for the daily prayers of locals.",
+                  "category": "religious",
+                  "coords": [
+                        69.158731,
+                        41.295033
+                  ]
+            },
+            {
+                  "name": "Tsvetochnyi bazar",
+                  "text": "This vibrant flower market offers a wide variety of fresh local blooms and decorative plants.",
+                  "category": "cultural",
+                  "coords": [
+                        69.256337,
+                        41.289776
+                  ]
+            },
+            {
+                  "name": "Farkhadskii bazar",
+                  "text": "This busy district market is known for its fresh produce, spices, and traditional Uzbek ceramics.",
+                  "category": "cultural",
+                  "coords": [
+                        69.18895,
+                        41.285274
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "A local community market selling seasonal fruits, vegetables, and everyday household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        69.199898,
+                        41.288635
+                  ]
+            },
+            {
+                  "name": "Uzum",
+                  "text": "This modern retail space offers a selection of local groceries and everyday convenience items.",
+                  "category": "cultural",
+                  "coords": [
+                        69.171782,
+                        41.285945
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "A traditional open-air market where locals trade fresh food and regional crafts.",
+                  "category": "cultural",
+                  "coords": [
+                        69.205333,
+                        41.285522
+                  ]
+            },
+            {
+                  "name": "Askiya bazar",
+                  "text": "This popular neighborhood market is famous for its assortment of dried fruits, nuts, and flatbreads.",
+                  "category": "cultural",
+                  "coords": [
+                        69.250556,
+                        41.284601
+                  ]
+            },
+            {
+                  "name": "Bazarchik",
+                  "text": "A small local market serving the neighborhood with fresh dairy and bakery products.",
+                  "category": "cultural",
+                  "coords": [
+                        69.221703,
+                        41.282504
+                  ]
+            },
+            {
+                  "name": "Chilanzar bazar",
+                  "text": "A major commercial hub in the Chilanzar area, featuring textiles and imported goods.",
+                  "category": "cultural",
+                  "coords": [
+                        69.203136,
+                        41.277189
+                  ]
+            },
+            {
+                  "name": "Katartal bazar (Optoviy)",
+                  "text": "A large wholesale market where shoppers find bulk groceries and affordable domestic items.",
+                  "category": "cultural",
+                  "coords": [
+                        69.211862,
+                        41.293388
+                  ]
+            },
+            {
+                  "name": "KEU",
+                  "text": "This educational landmark marks the campus of the Tashkent State University of Economics.",
+                  "category": "landmark",
+                  "coords": [
+                        69.207917,
+                        41.290763
+                  ]
+            },
+            {
+                  "name": "Zdes' podkarmlivaiut nutrii",
+                  "text": "A riverside spot where locals gather to observe and feed semi-aquatic nutria.",
+                  "category": "landmark",
+                  "coords": [
+                        69.260632,
+                        41.273114
+                  ]
+            },
+            {
+                  "name": "Moskvitch 407",
+                  "text": "This vintage Soviet-era car is displayed as a nostalgic monument to 20th-century automotive history.",
+                  "category": "landmark",
+                  "coords": [
+                        69.225401,
+                        41.280235
+                  ]
+            },
+            {
+                  "name": "GAZ-24",
+                  "text": "This classic Volga automobile exhibit showcases the iconic design of Soviet executive cars.",
+                  "category": "landmark",
+                  "coords": [
+                        69.220084,
+                        41.282786
+                  ]
+            },
+            {
+                  "name": "Maksud Vengerka",
+                  "text": "A popular local spot known for its traditional plum-based treats and snacks.",
+                  "category": "landmark",
+                  "coords": [
+                        69.242418,
+                        41.261043
+                  ]
+            },
+            {
+                  "name": "No'g'oy qo'rg'on jom`e masjidi",
+                  "text": "This historic mosque features a unique wooden ceiling and intricately carved pillars.",
+                  "category": "landmark",
+                  "coords": [
+                        69.221876,
+                        41.249613
+                  ]
+            },
+            {
+                  "name": "Dombrabad",
+                  "text": "This large neighborhood mosque is located near the historic Dombrabad cemetery.",
+                  "category": "landmark",
+                  "coords": [
+                        69.209219,
+                        41.262459
+                  ]
+            },
+            {
+                  "name": "Qatortol ​mosque",
+                  "text": "This modern mosque serving the Katartal district is notable for its tall, slender minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        69.195638,
+                        41.267145
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "UZ-TK",
     coords: [69.2401, 41.2995],
@@ -61,7 +1402,376 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "samarkand-cities-v2",
+    id: "samarkand-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kraevedcheskii muzei",
+                  "text": "Dieses Museum dokumentiert die jahrtausendealte Geschichte Samarkands von der Antike bis heute.",
+                  "category": "museum",
+                  "coords": [
+                        66.954171,
+                        39.653346
+                  ]
+            },
+            {
+                  "name": "Byvshii molitvennyi dom 1885",
+                  "text": "Dieses historische Gebetshaus wurde im Jahr 1885 errichtet und bewahrt seine originale Form.",
+                  "category": "landmark",
+                  "coords": [
+                        66.95296,
+                        39.659813
+                  ]
+            },
+            {
+                  "name": "\"El merosi\" tarixiy liboslar teatri",
+                  "text": "Ein einzigartiges Theater, das die Entwicklung zentralasiatischer Kostüme durch Live-Aufführungen zeigt.",
+                  "category": "cultural",
+                  "coords": [
+                        66.956391,
+                        39.656958
+                  ]
+            },
+            {
+                  "name": "Xalqlar Do'stligi va Diniy Bag'rikenglik Muzeyi",
+                  "text": "Museum zur Förderung der religiösen Toleranz, das die Vielfalt der Glaubensrichtungen in der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        66.959053,
+                        39.650876
+                  ]
+            },
+            {
+                  "name": "Or-Avnar sinagogasi",
+                  "text": "Die Or-Avner-Synagoge ist ein zentrales religiöses Zentrum für die jüdische Gemeinde in Samarkand.",
+                  "category": "religious",
+                  "coords": [
+                        66.952701,
+                        39.654764
+                  ]
+            },
+            {
+                  "name": "Xo'ja Yusuf Hamadoniy jom`e masjidi",
+                  "text": "Eine Moschee, die dem einflussreichen Sufi-Meister und Gelehrten Khoja Yusuf Hamadani gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        66.959836,
+                        39.658326
+                  ]
+            },
+            {
+                  "name": "Khram sviatogo velikomuchenika Georgiia Pobedonostsa",
+                  "text": "Eine christliche Kirche, die dem heiligen Georg gewidmet ist und durch ihre Kuppelarchitektur auffällt.",
+                  "category": "landmark",
+                  "coords": [
+                        66.959624,
+                        39.662343
+                  ]
+            },
+            {
+                  "name": "Khram Pokrova Bozhiei Materi",
+                  "text": "Die Pokrowski-Kathedrale ist ein wichtiges Zentrum der orthodoxen Gemeinde in dieser historischen Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        66.954846,
+                        39.659607
+                  ]
+            },
+            {
+                  "name": "Marmar Dehon Bozori",
+                  "text": "Ein lebhafter Bauernmarkt, der für seine große Auswahl an frischen Nüssen und Trockenfrüchten bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        66.958804,
+                        39.654659
+                  ]
+            },
+            {
+                  "name": "1-son hammom",
+                  "text": "Das historische Badehaus Nr. 1 bietet traditionelle Dampfbäder im Herzen der Altstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        66.954178,
+                        39.651726
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kraevedcheskii muzei",
+                  "text": "Ez a múzeum dokumentálja Szamarkand több ezer éves történelmét az ókortól napjainkig.",
+                  "category": "museum",
+                  "coords": [
+                        66.954171,
+                        39.653346
+                  ]
+            },
+            {
+                  "name": "Byvshii molitvennyi dom 1885",
+                  "text": "Ez a történelmi imaház 1885-ben épült, és megőrizte eredeti formáját.",
+                  "category": "landmark",
+                  "coords": [
+                        66.95296,
+                        39.659813
+                  ]
+            },
+            {
+                  "name": "\"El merosi\" tarixiy liboslar teatri",
+                  "text": "Egyedülálló színház, amely élő előadásokon keresztül mutatja be a közép-ázsiai viseletek fejlődését.",
+                  "category": "cultural",
+                  "coords": [
+                        66.956391,
+                        39.656958
+                  ]
+            },
+            {
+                  "name": "Xalqlar Do'stligi va Diniy Bag'rikenglik Muzeyi",
+                  "text": "A vallási tolerancia előmozdítását szolgáló múzeum, amely a régió hiteinek sokszínűségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        66.959053,
+                        39.650876
+                  ]
+            },
+            {
+                  "name": "Or-Avnar sinagogasi",
+                  "text": "Az Or-Avner zsinagóga a szamarkandi zsidó közösség központi vallási központja.",
+                  "category": "religious",
+                  "coords": [
+                        66.952701,
+                        39.654764
+                  ]
+            },
+            {
+                  "name": "Xo'ja Yusuf Hamadoniy jom`e masjidi",
+                  "text": "A befolyásos szúfi mesternek és tudósnak, Hodzsa Juszuf Hamadaninak szentelt mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        66.959836,
+                        39.658326
+                  ]
+            },
+            {
+                  "name": "Khram sviatogo velikomuchenika Georgiia Pobedonostsa",
+                  "text": "Szent Györgynek szentelt keresztény templom, amely kupolás építészetével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        66.959624,
+                        39.662343
+                  ]
+            },
+            {
+                  "name": "Khram Pokrova Bozhiei Materi",
+                  "text": "A Pokrovszkij-székesegyház az ortodox közösség fontos központja ebben a történelmi városban.",
+                  "category": "landmark",
+                  "coords": [
+                        66.954846,
+                        39.659607
+                  ]
+            },
+            {
+                  "name": "Marmar Dehon Bozori",
+                  "text": "Nyüzsgő őstermelői piac, amely friss diófélék és aszalt gyümölcsök széles választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        66.958804,
+                        39.654659
+                  ]
+            },
+            {
+                  "name": "1-son hammom",
+                  "text": "Az 1-es számú történelmi fürdő hagyományos gőzfürdőket kínál az óváros szívében.",
+                  "category": "recreational",
+                  "coords": [
+                        66.954178,
+                        39.651726
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kraevedcheskii muzei",
+                  "text": "Acest muzeu documentează istoria milenară a Samarkandului, din antichitate până în prezent.",
+                  "category": "museum",
+                  "coords": [
+                        66.954171,
+                        39.653346
+                  ]
+            },
+            {
+                  "name": "Byvshii molitvennyi dom 1885",
+                  "text": "Această casă de rugăciune istorică a fost construită în anul 1885 și își păstrează forma originală.",
+                  "category": "landmark",
+                  "coords": [
+                        66.95296,
+                        39.659813
+                  ]
+            },
+            {
+                  "name": "\"El merosi\" tarixiy liboslar teatri",
+                  "text": "Un teatru unic care prezintă evoluția costumelor din Asia Centrală prin spectacole live.",
+                  "category": "cultural",
+                  "coords": [
+                        66.956391,
+                        39.656958
+                  ]
+            },
+            {
+                  "name": "Xalqlar Do'stligi va Diniy Bag'rikenglik Muzeyi",
+                  "text": "Muzeu dedicat promovării toleranței religioase, care prezintă diversitatea credințelor din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        66.959053,
+                        39.650876
+                  ]
+            },
+            {
+                  "name": "Or-Avnar sinagogasi",
+                  "text": "Sinagoga Or Avner este un centru religios central pentru comunitatea evreiască din Samarkand.",
+                  "category": "religious",
+                  "coords": [
+                        66.952701,
+                        39.654764
+                  ]
+            },
+            {
+                  "name": "Xo'ja Yusuf Hamadoniy jom`e masjidi",
+                  "text": "O moschee dedicată influentului maestru sufit și învățat Khoja Yusuf Hamadani.",
+                  "category": "landmark",
+                  "coords": [
+                        66.959836,
+                        39.658326
+                  ]
+            },
+            {
+                  "name": "Khram sviatogo velikomuchenika Georgiia Pobedonostsa",
+                  "text": "O biserică creștină dedicată Sfântului Gheorghe, care se remarcă prin arhitectura sa cu cupolă.",
+                  "category": "landmark",
+                  "coords": [
+                        66.959624,
+                        39.662343
+                  ]
+            },
+            {
+                  "name": "Khram Pokrova Bozhiei Materi",
+                  "text": "Catedrala Pokrovsky este un centru important al comunității ortodoxe din acest oraș istoric.",
+                  "category": "landmark",
+                  "coords": [
+                        66.954846,
+                        39.659607
+                  ]
+            },
+            {
+                  "name": "Marmar Dehon Bozori",
+                  "text": "O piață agroalimentară plină de viață, cunoscută pentru selecția sa vastă de nuci proaspete și fructe uscate.",
+                  "category": "cultural",
+                  "coords": [
+                        66.958804,
+                        39.654659
+                  ]
+            },
+            {
+                  "name": "1-son hammom",
+                  "text": "Baia istorică Nr. 1 oferă băi de aburi tradiționale în inima orașului vechi.",
+                  "category": "recreational",
+                  "coords": [
+                        66.954178,
+                        39.651726
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Historic museum",
+                  "text": "This museum documents the millennia-long history of Samarkand from antiquity to the present.",
+                  "category": "museum",
+                  "coords": [
+                        66.954171,
+                        39.653346
+                  ]
+            },
+            {
+                  "name": "Byvshii molitvennyi dom 1885",
+                  "text": "This historic prayer house was built in 1885 and preserves its original form.",
+                  "category": "landmark",
+                  "coords": [
+                        66.95296,
+                        39.659813
+                  ]
+            },
+            {
+                  "name": "El Merosi Historical Costume Theater",
+                  "text": "A unique theatre showcasing the evolution of Central Asian costumes through live performances.",
+                  "category": "cultural",
+                  "coords": [
+                        66.956391,
+                        39.656958
+                  ]
+            },
+            {
+                  "name": "Friendship of People and Religious Tolerance Museum",
+                  "text": "Museum promoting religious tolerance, showcasing the diversity of faiths in the region.",
+                  "category": "museum",
+                  "coords": [
+                        66.959053,
+                        39.650876
+                  ]
+            },
+            {
+                  "name": "Or Avner Synagogue",
+                  "text": "The Or Avner Synagogue is a central religious hub for the Jewish community in Samarkand.",
+                  "category": "religious",
+                  "coords": [
+                        66.952701,
+                        39.654764
+                  ]
+            },
+            {
+                  "name": "Khoja Yusuf Hamadani Mosque",
+                  "text": "A mosque dedicated to the influential Sufi master and scholar Khoja Yusuf Hamadani.",
+                  "category": "landmark",
+                  "coords": [
+                        66.959836,
+                        39.658326
+                  ]
+            },
+            {
+                  "name": "Khram sviatogo velikomuchenika Georgiia Pobedonostsa",
+                  "text": "A Christian church dedicated to Saint George, notable for its domed architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        66.959624,
+                        39.662343
+                  ]
+            },
+            {
+                  "name": "Pokrovsky Cathedral",
+                  "text": "The Pokrovsky Cathedral is a major center for the Orthodox community in this historic city.",
+                  "category": "landmark",
+                  "coords": [
+                        66.954846,
+                        39.659607
+                  ]
+            },
+            {
+                  "name": "Marmar Dehon Bozori",
+                  "text": "A lively farmers' market known for its wide selection of fresh nuts and dried fruits.",
+                  "category": "cultural",
+                  "coords": [
+                        66.958804,
+                        39.654659
+                  ]
+            },
+            {
+                  "name": "Hammom No. 1",
+                  "text": "The historic Bathhouse No. 1 offers traditional steam baths in the heart of the old city.",
+                  "category": "recreational",
+                  "coords": [
+                        66.954178,
+                        39.651726
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UZ-SA",
     coords: [66.9597, 39.6542],
@@ -125,7 +1835,1420 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "bukhara-cities-v2", "sights": {"de": [{"name": "Sadriddin Ayniy teatri", "text": "Das Sadriddin Ayniy teatri ist ein Theater in Buchara.", "category": "cultural", "coords": [64.4067, 39.776721]}, {"name": "Viloyat oʻlkashunoslik muzeyi", "text": "Das Regional Studies Museum ist ein Museum in Buchara.", "category": "museum", "coords": [64.410322, 39.777731]}, {"name": "Iskander Khakimov Handpuppen", "text": "Der Puppets Workshop ist ein Museum in Buchara.", "category": "museum", "coords": [64.420107, 39.772602]}, {"name": "Fayzulla Xo'jayev muzey uyi", "text": "Das Fayzulla Khodjaev house museum ist ein Museum in Buchara.", "category": "museum", "coords": [64.412765, 39.769386]}, {"name": "Bukhara Photo Gallery", "text": "Die Bukhara Photo Gallery ist ein Museum in Buchara.", "category": "museum", "coords": [64.416787, 39.771872]}, {"name": "Blacksmith workshop and museum", "text": "Blacksmith workshop and museum ist ein Museum in Buchara.", "category": "museum", "coords": [64.417126, 39.77426]}, {"name": "Living conditions of Student in Madrasa Museum", "text": "Das Living conditions of Student in Madrasa Museum ist ein Museum in Buchara.", "category": "museum", "coords": [64.420836, 39.774133]}, {"name": "Muzei istorii bukharskikh evreev", "text": "Das Museum of Bukharian Jewish History ist ein Museum in Buchara.", "category": "museum", "coords": [64.423106, 39.772352]}, {"name": "Amfiteatr", "text": "Das Amfiteatr ist ein Theater in Buchara.", "category": "cultural", "coords": [64.429298, 39.793926]}, {"name": "Drama teatri", "text": "Das Drama teatri ist ein Theater in Buchara.", "category": "cultural", "coords": [64.43087, 39.798423]}, {"name": "Amfiteatr", "text": "Амфитеатр ist ein Theater in Buchara.", "category": "cultural", "coords": [64.40185, 39.775602]}, {"name": "Nuroniylar maskani", "text": "Das Nuroniylar maskani ist ein Museum in Buchara.", "category": "museum", "coords": [64.403936, 39.775021]}, {"name": "\"Shahriston\" arxeologiya hududi (Arxeologik park)", "text": "Die Shahriston Archaological Area ist eine archäologische Stätte in Buchara.", "category": "historical", "coords": [64.413268, 39.776791]}, {"name": "Kalon-Minarett", "text": "Das Kalan Minaret ist ein bekanntes Denkmal und ein historisches islamisches Minarett in Buchara.", "category": "historical", "coords": [64.41501, 39.775684]}, {"name": "Masjidi baland jom`e masjidi", "text": "Die Balyand Mosque ist eine bekannte Sehenswürdigkeit und historische Moschee in Buchara.", "category": "landmark", "coords": [64.405038, 39.771575]}, {"name": "Boloi Havz Kathedrale Moschee", "text": "Die Boloi Havz Mosque ist eine bekannte Sehenswürdigkeit in Buchara.", "category": "landmark", "coords": [64.407378, 39.777747]}, {"name": "Namozgoh", "text": "Namozgoh ist eine Sehenswürdigkeit in Buchara.", "category": "landmark", "coords": [64.412021, 39.761717]}, {"name": "Zindon", "text": "Der Zindon ist ein historisches Gefängnis und eine Sehenswürdigkeit in der Stadt Buchara.", "category": "landmark", "coords": [64.413876, 39.779177]}, {"name": "Xo'ja Zayniddin majmuasi", "text": "Xo'ja Zayniddin majmuasi ist ein historischer architektonischer Komplex und eine Sehenswürdigkeit in Buchara.", "category": "landmark", "coords": [64.412211, 39.775024]}, {"name": "Shuxov minorasi", "text": "Der Schuchow-Wasserturm ist eine markante strukturelle Sehenswürdigkeit in der Stadt Buchara.", "category": "landmark", "coords": [64.408513, 39.777947]}, {"name": "Avlie Khodzha Chorshanbe", "text": "Avliyo Khoja Chorshanbe ist eine lokale Sehenswürdigkeit in Buchara.", "category": "landmark", "coords": [64.408318, 39.7733]}, {"name": "Minora", "text": "Minora ist eine architektonische Sehenswürdigkeit in Buchara.", "category": "landmark", "coords": [64.410535, 39.785321]}, {"name": "Mogila Khazrat Said Abdulkhasan Pobanda", "text": "Das Grab von Hazrat Said Abdulhasan Pobanda ist eine anerkannte Sehenswürdigkeit in Buchara.", "category": "landmark", "coords": [64.419046, 39.776061]}, {"name": "Mavzolei Saifeddina Bokharzi", "text": "Das Mausoleum von Saif ed-Din Bokharzi ist eine bemerkenswerte Sehenswürdigkeit in Buchara.", "category": "landmark", "coords": [64.444692, 39.76663]}, {"name": "Peshekhodnyi mostik", "text": "Die Fußgängerbrücke ist eine infrastrukturelle Sehenswürdigkeit in Buchara.", "category": "landmark", "coords": [64.428414, 39.791864]}, {"name": "To`Raqulboy Uyi", "text": "Das Haus von Turakulbay ist eine historische Sehenswürdigkeit in der Stadt Buchara.", "category": "landmark", "coords": [64.416064, 39.775219]}, {"name": "\"Ustoz Shogird\" Bolalar Amaliy Sanʼat Markazi", "text": "Das Kinderzentrum für angewandte Kunst \"Ustoz Shogird\" ist ein Kunstzentrum in Buchara.", "category": "cultural", "coords": [64.419041, 39.771543]}, {"name": "Yoshlar markazi", "text": "Yoshlar markazi ist ein Jugendkunstzentrum in der Stadt Buchara.", "category": "cultural", "coords": [64.421435, 39.763685]}, {"name": "Dakhmai Bekhishtien", "text": "Dakhmay Bekhishtiyon ist ein historisches Denkmal in Buchara.", "category": "historical", "coords": [64.431694, 39.774793]}, {"name": "Samarqand Qal`a darvozasi", "text": "Das Festungstor Samarqand ist eine historische Sehenswürdigkeit in der Stadt Buchara.", "category": "landmark", "coords": [64.421022, 39.783075]}, {"name": "Qorako'l Qal`a darvozasi", "text": "Das Festungstor Qorako'l ist eine architektonische Sehenswürdigkeit in Buchara.", "category": "landmark", "coords": [64.397513, 39.764186]}, {"name": "Talipoch Qal`a Darvozasi", "text": "Das Festungstor Talipoch ist eine anerkannte historische Sehenswürdigkeit in Buchara.", "category": "landmark", "coords": [64.397466, 39.778802]}, {"name": "Boboyi Poraduz", "text": "Boboyi Poraduz ist ein Denkmal in der Stadt Buchara.", "category": "historical", "coords": [64.418864, 39.765564]}, {"name": "Ruiny ban", "text": "Diese Badehausruinen bieten einen Einblick in die alte Infrastruktur von Buchara.", "category": "historical", "coords": [64.417874, 39.773249]}, {"name": "Imom Abu Hafs Kabir maqbarasi", "text": "Das Mausoleum von Imam Abu Hafs Kabir ist eine religiöse Sehenswürdigkeit in Buchara.", "category": "landmark", "coords": [64.409515, 39.786346]}, {"name": "Imom Qal`a darvozasi", "text": "Das Festungstor Imom ist eine historische Sehenswürdigkeit in der Stadt Buchara.", "category": "landmark", "coords": [64.411694, 39.782299]}, {"name": "Khalifa Hudoidod Kathedrale Moschee", "text": "Die Kathedralmoschee Khalifa Hudoidod ist eine bedeutende Kultstätte und ein architektonischer Komplex in Buchara.", "category": "religious", "coords": [64.399974, 39.76875]}, {"name": "Khram Arkhistratiga Mikhaila", "text": "Die Kirche des Erzengels Michael ist eine orthodoxe christliche Kultstätte in Buchara.", "category": "religious", "coords": [64.433253, 39.771465]}, {"name": "Kanesoi Isoki Zambur sinagogasi", "text": "Die Ohel Itskhak Synagoge ist eine bemerkenswerte jüdische Kultstätte in Buchara.", "category": "religious", "coords": [64.415867, 39.76867]}], "hu": [{"name": "Sadriddin Ayniy teatri", "text": "A Sadriddin Ayniy teatri egy színház Buchara városában.", "category": "cultural", "coords": [64.4067, 39.776721]}, {"name": "Viloyat oʻlkashunoslik muzeyi", "text": "A Regional Studies Museum egy múzeum Buchara városában.", "category": "museum", "coords": [64.410322, 39.777731]}, {"name": "Muzei kukol", "text": "A Puppets Workshop egy múzeum Buchara városában.", "category": "museum", "coords": [64.420107, 39.772602]}, {"name": "Fayzulla Xo'jayev muzey uyi", "text": "A Fayzulla Khodjaev house museum egy múzeum Buchara városában.", "category": "museum", "coords": [64.412765, 39.769386]}, {"name": "Bukhara Photo Gallery", "text": "A Bukhara Photo Gallery egy múzeum Buchara városában.", "category": "museum", "coords": [64.416787, 39.771872]}, {"name": "Blacksmith workshop and museum", "text": "A Blacksmith workshop and museum egy múzeum Buchara városában.", "category": "museum", "coords": [64.417126, 39.77426]}, {"name": "Living conditions of Student in Madrasa Museum", "text": "A Living conditions of Student in Madrasa Museum egy múzeum Buchara városában.", "category": "museum", "coords": [64.420836, 39.774133]}, {"name": "Muzei istorii bukharskikh evreev", "text": "A Museum of Bukharian Jewish History egy múzeum Buchara városában.", "category": "museum", "coords": [64.423106, 39.772352]}, {"name": "Amfiteatr", "text": "Az Amfiteatr egy színház Buchara városában.", "category": "cultural", "coords": [64.429298, 39.793926]}, {"name": "Drama teatri", "text": "A Drama teatri egy színház Buchara városában.", "category": "cultural", "coords": [64.43087, 39.798423]}, {"name": "Amfiteatr", "text": "Az Амфитеатр egy színház Buchara városában.", "category": "cultural", "coords": [64.40185, 39.775602]}, {"name": "Nuroniylar maskani", "text": "A Nuroniylar maskani egy múzeum Buchara városában.", "category": "museum", "coords": [64.403936, 39.775021]}, {"name": "\"Shahriston\" arxeologiya hududi (Arxeologik park)", "text": "A Shahriston Archaological Area egy régészeti lelőhely Buchara városában.", "category": "historical", "coords": [64.413268, 39.776791]}, {"name": "Minorai kalon. watchtower and lighthouse", "text": "A Kalan Minaret egy jelentős emlékmű és történelmi iszlám minaret Buchara városában.", "category": "historical", "coords": [64.41501, 39.775684]}, {"name": "Masjidi baland jom`e masjidi", "text": "A Balyand Mosque egy jelentős látványosság és történelmi mecset Buchara városában.", "category": "landmark", "coords": [64.405038, 39.771575]}, {"name": "Boloi Havz jom`e masjidi", "text": "A Boloi Havz Mosque egy jelentős látványosság Buchara városában.", "category": "landmark", "coords": [64.407378, 39.777747]}, {"name": "Namozgoh", "text": "A Namozgoh egy látványosság Buchara városában.", "category": "landmark", "coords": [64.412021, 39.761717]}, {"name": "Zindon", "text": "A Zindon egy történelmi börtön és látványosság Buchara városában.", "category": "landmark", "coords": [64.413876, 39.779177]}, {"name": "Xo'ja Zayniddin majmuasi", "text": "A Xo'ja Zayniddin majmuasi egy történelmi építészeti komplexum és látványosság Bucharában.", "category": "landmark", "coords": [64.412211, 39.775024]}, {"name": "Shuxov minorasi", "text": "A Shukhov-víztorony egy jellegzetes építészeti látványosság Buchara városában.", "category": "landmark", "coords": [64.408513, 39.777947]}, {"name": "Avlie Khodzha Chorshanbe", "text": "Az Avliyo Khoja Chorshanbe egy helyi látványosság Bucharában.", "category": "landmark", "coords": [64.408318, 39.7733]}, {"name": "Minora", "text": "A Minora egy építészeti látványosság Bucharában.", "category": "landmark", "coords": [64.410535, 39.785321]}, {"name": "Mogila Khazrat Said Abdulkhasan Pobanda", "text": "A Hazrat Said Abdulhasan Pobanda sírja egy elismert látványosság Bucharában.", "category": "landmark", "coords": [64.419046, 39.776061]}, {"name": "Mavzolei Saifeddina Bokharzi", "text": "A Saif ed-Din Bokharzi mauzóleum egy figyelemre méltó látványosság Bucharában.", "category": "landmark", "coords": [64.444692, 39.76663]}, {"name": "Peshekhodnyi mostik", "text": "A gyalogoshíd egy infrastrukturális látványosság Bucharában.", "category": "landmark", "coords": [64.428414, 39.791864]}, {"name": "To`Raqulboy Uyi", "text": "A Turakulbay háza egy történelmi látványosság Buchara városában.", "category": "landmark", "coords": [64.416064, 39.775219]}, {"name": "\"Ustoz Shogird\" Bolalar Amaliy Sanʼat Markazi", "text": "Az \"Ustoz Shogird\" Gyermek Iparművészeti Központ egy művészeti központ Bucharában.", "category": "cultural", "coords": [64.419041, 39.771543]}, {"name": "Yoshlar markazi", "text": "A Yoshlar markazi egy ifjúsági művészeti központ Buchara városában.", "category": "cultural", "coords": [64.421435, 39.763685]}, {"name": "Dakhmai Bekhishtien", "text": "A Dakhmay Bekhishtiyon egy történelmi műemlék Bucharában.", "category": "historical", "coords": [64.431694, 39.774793]}, {"name": "Samarqand Qal`a darvozasi", "text": "A Szamarkand erődkapu egy történelmi látványosság Buchara városában.", "category": "landmark", "coords": [64.421022, 39.783075]}, {"name": "Qorako'l Qal`a darvozasi", "text": "A Qorako'l erődkapu egy építészeti látványosság Bucharában.", "category": "landmark", "coords": [64.397513, 39.764186]}, {"name": "Talipoch Qal`a Darvozasi", "text": "A Talipoch erődkapu egy elismert történelmi látványosság Bucharában.", "category": "landmark", "coords": [64.397466, 39.778802]}, {"name": "Boboyi Poraduz", "text": "A Boboyi Poraduz egy emlékmű Buchara városában.", "category": "historical", "coords": [64.418864, 39.765564]}, {"name": "Ruiny ban", "text": "Ezek a fürdőromok bepillantást engednek Buchara ősi infrastruktúrájába.", "category": "historical", "coords": [64.417874, 39.773249]}, {"name": "Imom Abu Hafs Kabir maqbarasi", "text": "Imam Abu Hafs Kabir mauzóleuma egy vallási látványosság Bucharában.", "category": "landmark", "coords": [64.409515, 39.786346]}, {"name": "Imom Qal`a darvozasi", "text": "Az Imom erődkapu egy történelmi látványosság Buchara városában.", "category": "landmark", "coords": [64.411694, 39.782299]}, {"name": "Xalifa Xudoydod jom`e masjidi", "text": "A Khalifa Hudoidod katedrális mecset egy kiemelkedő istentiszteleti hely és építészeti komplexum Bucharában.", "category": "religious", "coords": [64.399974, 39.76875]}, {"name": "Khram Arkhistratiga Mikhaila", "text": "A Mihály arkangyal templom egy ortodox keresztény istentiszteleti hely Bucharában.", "category": "religious", "coords": [64.433253, 39.771465]}, {"name": "Kanesoi Isoki Zambur sinagogasi", "text": "Az Ohel Itskhak zsinagóga egy figyelemre méltó zsidó istentiszteleti hely Bucharában.", "category": "religious", "coords": [64.415867, 39.76867]}], "ro": [{"name": "Sadriddin Ayniy teatri", "text": "Sadriddin Ayniy teatri este un teatru situat în Buchara.", "category": "cultural", "coords": [64.4067, 39.776721]}, {"name": "Viloyat oʻlkashunoslik muzeyi", "text": "Regional Studies Museum este un muzeu situat în Buchara.", "category": "museum", "coords": [64.410322, 39.777731]}, {"name": "Muzei kukol", "text": "Puppets Workshop este un muzeu situat în Buchara.", "category": "museum", "coords": [64.420107, 39.772602]}, {"name": "Fayzulla Xo'jayev muzey uyi", "text": "Fayzulla Khodjaev house museum este un muzeu situat în Buchara.", "category": "museum", "coords": [64.412765, 39.769386]}, {"name": "Bukhara Photo Gallery", "text": "Bukhara Photo Gallery este un muzeu situat în Buchara.", "category": "museum", "coords": [64.416787, 39.771872]}, {"name": "Blacksmith workshop and museum", "text": "Blacksmith workshop and museum este un muzeu situat în Buchara.", "category": "museum", "coords": [64.417126, 39.77426]}, {"name": "Living conditions of Student in Madrasa Museum", "text": "Living conditions of Student in Madrasa Museum este un muzeu situat în Buchara.", "category": "museum", "coords": [64.420836, 39.774133]}, {"name": "Muzei istorii bukharskikh evreev", "text": "Museum of Bukharian Jewish History este un muzeu situat în Buchara.", "category": "museum", "coords": [64.423106, 39.772352]}, {"name": "Amfiteatr", "text": "Amfiteatr este un teatru situat în Buchara.", "category": "cultural", "coords": [64.429298, 39.793926]}, {"name": "Drama teatri", "text": "Drama teatri este un teatru situat în Buchara.", "category": "cultural", "coords": [64.43087, 39.798423]}, {"name": "Amfiteatr", "text": "Амфитеатр este un teatru situat în Buchara.", "category": "cultural", "coords": [64.40185, 39.775602]}, {"name": "Nuroniylar maskani", "text": "Nuroniylar maskani este un muzeu situat în Buchara.", "category": "museum", "coords": [64.403936, 39.775021]}, {"name": "\"Shahriston\" arxeologiya hududi (Arxeologik park)", "text": "Shahriston Archaological Area este un sit arheologic situat în Buchara.", "category": "historical", "coords": [64.413268, 39.776791]}, {"name": "Minorai kalon. watchtower and lighthouse", "text": "Kalan Minaret este un monument notabil și un minaret islamic istoric în Buchara.", "category": "historical", "coords": [64.41501, 39.775684]}, {"name": "Masjidi baland jom`e masjidi", "text": "Balyand Mosque este o atracție notabilă și o moschee istorică în Buchara.", "category": "landmark", "coords": [64.405038, 39.771575]}, {"name": "Boloi Havz jom`e masjidi", "text": "Boloi Havz Mosque este o atracție notabilă în Buchara.", "category": "landmark", "coords": [64.407378, 39.777747]}, {"name": "Namozgoh", "text": "Namozgoh este o atracție situată în Buchara.", "category": "landmark", "coords": [64.412021, 39.761717]}, {"name": "Zindon", "text": "Zindon este o închisoare istorică și o atracție situată în orașul Buchara.", "category": "landmark", "coords": [64.413876, 39.779177]}, {"name": "Xo'ja Zayniddin majmuasi", "text": "Xo'ja Zayniddin majmuasi este un complex arhitectural istoric și o atracție situată în Buchara.", "category": "landmark", "coords": [64.412211, 39.775024]}, {"name": "Shuxov minorasi", "text": "Turnul de apă Shukhov este o atracție structurală distinctivă situată în orașul Buchara.", "category": "landmark", "coords": [64.408513, 39.777947]}, {"name": "Avlie Khodzha Chorshanbe", "text": "Avliyo Khoja Chorshanbe este o atracție locală situată în Buchara.", "category": "landmark", "coords": [64.408318, 39.7733]}, {"name": "Minora", "text": "Minora este o atracție arhitecturală situată în Buchara.", "category": "landmark", "coords": [64.410535, 39.785321]}, {"name": "Mogila Khazrat Said Abdulkhasan Pobanda", "text": "Mormântul lui Hazrat Said Abdulhasan Pobanda este o atracție recunoscută din Buchara.", "category": "landmark", "coords": [64.419046, 39.776061]}, {"name": "Mavzolei Saifeddina Bokharzi", "text": "Mausoleul lui Saif ed-Din Bokharzi este o atracție notabilă situată în Buchara.", "category": "landmark", "coords": [64.444692, 39.76663]}, {"name": "Peshekhodnyi mostik", "text": "Podul pietonal este o atracție de infrastructură situată în Buchara.", "category": "landmark", "coords": [64.428414, 39.791864]}, {"name": "To`Raqulboy Uyi", "text": "Casa lui Turakulbay este o atracție istorică aflată în orașul Buchara.", "category": "landmark", "coords": [64.416064, 39.775219]}, {"name": "\"Ustoz Shogird\" Bolalar Amaliy Sanʼat Markazi", "text": "Centrul de Arte Aplicate pentru Copii \"Ustoz Shogird\" este un centru de arte din Buchara.", "category": "cultural", "coords": [64.419041, 39.771543]}, {"name": "Yoshlar markazi", "text": "Yoshlar markazi este un centru de artă pentru tineret situat în orașul Buchara.", "category": "cultural", "coords": [64.421435, 39.763685]}, {"name": "Dakhmai Bekhishtien", "text": "Dakhmay Bekhishtiyon este un monument istoric situat în Buchara.", "category": "historical", "coords": [64.431694, 39.774793]}, {"name": "Samarqand Qal`a darvozasi", "text": "Poarta Cetății Samarqand este o atracție istorică în orașul Buchara.", "category": "landmark", "coords": [64.421022, 39.783075]}, {"name": "Qorako'l Qal`a darvozasi", "text": "Poarta Cetății Qorako'l este o atracție arhitecturală situată în Buchara.", "category": "landmark", "coords": [64.397513, 39.764186]}, {"name": "Talipoch Qal`a Darvozasi", "text": "Poarta Cetății Talipoch este o atracție istorică recunoscută din Buchara.", "category": "landmark", "coords": [64.397466, 39.778802]}, {"name": "Boboyi Poraduz", "text": "Boboyi Poraduz este un monument dedicat situat în orașul Buchara.", "category": "historical", "coords": [64.418864, 39.765564]}, {"name": "Ruiny ban", "text": "Aceste ruine ale băilor oferă o privire asupra infrastructurii antice din Buchara.", "category": "historical", "coords": [64.417874, 39.773249]}, {"name": "Imom Abu Hafs Kabir maqbarasi", "text": "Mausoleul Imamului Abu Hafs Kabir este o atracție religioasă din Buchara.", "category": "landmark", "coords": [64.409515, 39.786346]}, {"name": "Imom Qal`a darvozasi", "text": "Poarta Cetății Imom este o atracție istorică situată în orașul Buchara.", "category": "landmark", "coords": [64.411694, 39.782299]}, {"name": "Xalifa Xudoydod jom`e masjidi", "text": "Moscheea Catedrală Khalifa Hudoidod este un lăcaș de cult proeminent și un complex arhitectural în Buchara.", "category": "religious", "coords": [64.399974, 39.76875]}, {"name": "Khram Arkhistratiga Mikhaila", "text": "Biserica Arhanghelul Mihail este un lăcaș de cult creștin ortodox din Buchara.", "category": "religious", "coords": [64.433253, 39.771465]}, {"name": "Kanesoi Isoki Zambur sinagogasi", "text": "Sinagoga Ohel Itskhak este un lăcaș de cult evreiesc notabil situat în Buchara.", "category": "religious", "coords": [64.415867, 39.76867]}], "en": [{"name": "Sadriddin Ayniy teatri", "text": "Sadriddin Ayniy teatri is a theatre located in Buchara.", "category": "cultural", "coords": [64.4067, 39.776721]}, {"name": "Regional Studies Museum", "text": "The Regional Studies Museum is a museum located in Buchara.", "category": "museum", "coords": [64.410322, 39.777731]}, {"name": "Puppets Workshop", "text": "Puppets Workshop is a museum located in Buchara.", "category": "museum", "coords": [64.420107, 39.772602]}, {"name": "Fayzulla Khodjaev house museum", "text": "Fayzulla Khodjaev house museum is a museum located in Buchara.", "category": "museum", "coords": [64.412765, 39.769386]}, {"name": "Bukhara Photo Gallery", "text": "Bukhara Photo Gallery is a museum located in Buchara.", "category": "museum", "coords": [64.416787, 39.771872]}, {"name": "Blacksmith workshop and museum", "text": "Blacksmith workshop and museum is a museum located in Buchara.", "category": "museum", "coords": [64.417126, 39.77426]}, {"name": "Living conditions of Student in Madrasa Museum", "text": "The Living conditions of Student in Madrasa Museum is a museum located in Buchara.", "category": "museum", "coords": [64.420836, 39.774133]}, {"name": "Museum of Bukharian Jewish History", "text": "The Museum of Bukharian Jewish History is a museum located in Buchara.", "category": "museum", "coords": [64.423106, 39.772352]}, {"name": "Amfiteatr", "text": "Amfiteatr is a theatre situated in Buchara.", "category": "cultural", "coords": [64.429298, 39.793926]}, {"name": "Drama teatri", "text": "Drama teatri is a theatre located in Buchara.", "category": "cultural", "coords": [64.43087, 39.798423]}, {"name": "Amfiteatr", "text": "Амфитеатр is a theatre located in Buchara.", "category": "cultural", "coords": [64.40185, 39.775602]}, {"name": "Nuroniylar maskani", "text": "Nuroniylar maskani is a museum located in Buchara.", "category": "museum", "coords": [64.403936, 39.775021]}, {"name": "Shahriston Archaological Area", "text": "Shahriston Archaological Area is an archaeological site located in Buchara.", "category": "historical", "coords": [64.413268, 39.776791]}, {"name": "Kalan Minaret", "text": "The Kalan Minaret is a notable monument and historic Islamic minaret in Buchara.", "category": "historical", "coords": [64.41501, 39.775684]}, {"name": "Balyand Mosque", "text": "Balyand Mosque is a notable attraction and historic mosque in Buchara.", "category": "landmark", "coords": [64.405038, 39.771575]}, {"name": "Boloi Havz Mosque", "text": "Boloi Havz Mosque is a notable attraction located in Buchara.", "category": "landmark", "coords": [64.407378, 39.777747]}, {"name": "Namozgoh", "text": "Namozgoh is an attraction located in Buchara.", "category": "landmark", "coords": [64.412021, 39.761717]}, {"name": "Zindon", "text": "The Zindon is a historical prison and attraction located in the city of Buchara.", "category": "landmark", "coords": [64.413876, 39.779177]}, {"name": "Xo'ja Zayniddin majmuasi", "text": "Xo'ja Zayniddin majmuasi is a historical architectural complex and attraction situated in Buchara.", "category": "landmark", "coords": [64.412211, 39.775024]}, {"name": "Shukhov Water Tower", "text": "The Shukhov Water Tower is a distinctive structural attraction located in the city of Buchara.", "category": "landmark", "coords": [64.408513, 39.777947]}, {"name": "Avlie Khodzha Chorshanbe", "text": "Avliyo Khoja Chorshanbe is a local attraction located in Buchara.", "category": "landmark", "coords": [64.408318, 39.7733]}, {"name": "Minora", "text": "Minora is an architectural attraction located in Buchara.", "category": "landmark", "coords": [64.410535, 39.785321]}, {"name": "Mogila Khazrat Said Abdulkhasan Pobanda", "text": "The Tomb of Hazrat Said Abdulhasan Pobanda is a recognized attraction in Buchara.", "category": "landmark", "coords": [64.419046, 39.776061]}, {"name": "Mavzolei Saifeddina Bokharzi", "text": "The Mausoleum of Saif ed-Din Bokharzi is a notable attraction situated in Buchara.", "category": "landmark", "coords": [64.444692, 39.76663]}, {"name": "Peshekhodnyi mostik", "text": "The Pedestrian Bridge is an infrastructure attraction located in Buchara.", "category": "landmark", "coords": [64.428414, 39.791864]}, {"name": "House of Turakulbay", "text": "The House of Turakulbay is a historical attraction found in the city of Buchara.", "category": "landmark", "coords": [64.416064, 39.775219]}, {"name": "\"Ustoz Shogird\" Children's Center for Applied Arts", "text": "The \"Ustoz Shogird\" Children's Center for Applied Arts is an arts centre in Buchara.", "category": "cultural", "coords": [64.419041, 39.771543]}, {"name": "Yoshlar markazi", "text": "Yoshlar markazi is a youth arts centre located in the city of Buchara.", "category": "cultural", "coords": [64.421435, 39.763685]}, {"name": "Dakhmai Bekhishtien", "text": "Dakhmay Bekhishtiyon is a historical monument situated in Buchara.", "category": "historical", "coords": [64.431694, 39.774793]}, {"name": "Samarqand Qal`a darvozasi", "text": "The Samarqand Fortress Gate is a historical attraction in the city of Buchara.", "category": "landmark", "coords": [64.421022, 39.783075]}, {"name": "Qorako'l Qal`a darvozasi", "text": "The Qorako'l Fortress Gate is an architectural attraction located in Buchara.", "category": "landmark", "coords": [64.397513, 39.764186]}, {"name": "Talipoch Qal`a Darvozasi", "text": "The Talipoch Fortress Gate is a recognized historical attraction in Buchara.", "category": "landmark", "coords": [64.397466, 39.778802]}, {"name": "Boboyi Poraduz", "text": "Boboyi Poraduz is a dedicated monument situated in the city of Buchara.", "category": "historical", "coords": [64.418864, 39.765564]}, {"name": "Ruiny ban", "text": "These bathhouse ruins offer a glimpse into the ancient infrastructure of Buchara.", "category": "historical", "coords": [64.417874, 39.773249]}, {"name": "Imom Abu Hafs Kabir maqbarasi", "text": "The Mausoleum of Imam Abu Hafs Kabir is a religious attraction in Buchara.", "category": "landmark", "coords": [64.409515, 39.786346]}, {"name": "Imom Qal`a darvozasi", "text": "The Imom Fortress Gate is a historical attraction situated in the city of Buchara.", "category": "landmark", "coords": [64.411694, 39.782299]}, {"name": "Khalifa Hudoidod Cathedral Mosque", "text": "The Khalifa Hudoidod Cathedral Mosque is a prominent place of worship and architectural complex in Buchara.", "category": "religious", "coords": [64.399974, 39.76875]}, {"name": "Church of Archangel Michael in Bukhara", "text": "The Church of Archangel Michael in Bukhara is an Orthodox Christian place of worship in Buchara.", "category": "religious", "coords": [64.433253, 39.771465]}, {"name": "Ohel Itskhak Synagogue", "text": "The Ohel Itskhak Synagogue is a notable Jewish place of worship located in Buchara.", "category": "religious", "coords": [64.415867, 39.76867]}]},
+    id: "bukhara-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sadriddin Ayniy teatri",
+                  "text": "Ein historisches Theater in Buchara, benannt nach dem tadschikischen Schriftsteller, mit kulturellen Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        64.4067,
+                        39.776721
+                  ]
+            },
+            {
+                  "name": "Viloyat oʻlkashunoslik muzeyi",
+                  "text": "Museum für Regionalstudien in Buchara.",
+                  "category": "museum",
+                  "coords": [
+                        64.410322,
+                        39.777731
+                  ]
+            },
+            {
+                  "name": "Iskander Khakimov Handpuppen",
+                  "text": "Puppenwerkstatt-Museum in Buchara.",
+                  "category": "museum",
+                  "coords": [
+                        64.420107,
+                        39.772602
+                  ]
+            },
+            {
+                  "name": "Fayzulla Xo'jayev muzey uyi",
+                  "text": "Fayzulla-Chodschajew-Hausmuseum in Buchara.",
+                  "category": "museum",
+                  "coords": [
+                        64.412765,
+                        39.769386
+                  ]
+            },
+            {
+                  "name": "Bukhara Photo Gallery",
+                  "text": "Fotogalerie Buchara in Buchara.",
+                  "category": "museum",
+                  "coords": [
+                        64.416787,
+                        39.771872
+                  ]
+            },
+            {
+                  "name": "Blacksmith workshop and museum",
+                  "text": "Schmiedewerkstatt und Museum in Buchara.",
+                  "category": "museum",
+                  "coords": [
+                        64.417126,
+                        39.77426
+                  ]
+            },
+            {
+                  "name": "Living conditions of Student in Madrasa Museum",
+                  "text": "Museum über die Lebensbedingungen von Schülern in einer Medrese in Buchara.",
+                  "category": "museum",
+                  "coords": [
+                        64.420836,
+                        39.774133
+                  ]
+            },
+            {
+                  "name": "Muzei istorii bukharskikh evreev",
+                  "text": "Museum der bucharischen jüdischen Geschichte in Buchara.",
+                  "category": "museum",
+                  "coords": [
+                        64.423106,
+                        39.772352
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Amphitheater in Buchara.",
+                  "category": "cultural",
+                  "coords": [
+                        64.429298,
+                        39.793926
+                  ]
+            },
+            {
+                  "name": "Drama teatri",
+                  "text": "Dramatheater in Buchara.",
+                  "category": "cultural",
+                  "coords": [
+                        64.43087,
+                        39.798423
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Amphitheater in Buchara.",
+                  "category": "cultural",
+                  "coords": [
+                        64.40185,
+                        39.775602
+                  ]
+            },
+            {
+                  "name": "Nuroniylar maskani",
+                  "text": "Nuroniylar-Maskani-Museum in Buchara.",
+                  "category": "museum",
+                  "coords": [
+                        64.403936,
+                        39.775021
+                  ]
+            },
+            {
+                  "name": "\"Shahriston\" arxeologiya hududi (Arxeologik park)",
+                  "text": "Archäologisches Gebiet Shahriston in Buchara.",
+                  "category": "historical",
+                  "coords": [
+                        64.413268,
+                        39.776791
+                  ]
+            },
+            {
+                  "name": "Kalon-Minarett",
+                  "text": "Das Kalon-Minarett ist ein 45,6 m hohes Minarett aus dem 12. Jahrhundert.",
+                  "category": "historical",
+                  "coords": [
+                        64.41501,
+                        39.775684
+                  ]
+            },
+            {
+                  "name": "Masjidi baland jom`e masjidi",
+                  "text": "Die Balyand-Moschee steht auf einer hohen Steinplattform.",
+                  "category": "landmark",
+                  "coords": [
+                        64.405038,
+                        39.771575
+                  ]
+            },
+            {
+                  "name": "Boloi Havz Kathedrale Moschee",
+                  "text": "Die Boloi-Havz-Moschee liegt neben einem großen Teich (Havz) in der Altstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        64.407378,
+                        39.777747
+                  ]
+            },
+            {
+                  "name": "Namozgoh",
+                  "text": "Das Namozgoh ist eine offene Gebetsplattform für das Eid-Gebet außerhalb der Stadtmauern.",
+                  "category": "landmark",
+                  "coords": [
+                        64.412021,
+                        39.761717
+                  ]
+            },
+            {
+                  "name": "Zindon",
+                  "text": "Der Zindon ist ein historisches Gefängnis und eine Sehenswürdigkeit in der Stadt Buchara.",
+                  "category": "landmark",
+                  "coords": [
+                        64.413876,
+                        39.779177
+                  ]
+            },
+            {
+                  "name": "Xo'ja Zayniddin majmuasi",
+                  "text": "Xo'ja Zayniddin majmuasi ist ein historischer architektonischer Komplex und eine Sehenswürdigkeit in Buchara.",
+                  "category": "landmark",
+                  "coords": [
+                        64.412211,
+                        39.775024
+                  ]
+            },
+            {
+                  "name": "Shuxov minorasi",
+                  "text": "Der Schuchow-Wasserturm ist eine markante strukturelle Sehenswürdigkeit in der Stadt Buchara.",
+                  "category": "landmark",
+                  "coords": [
+                        64.408513,
+                        39.777947
+                  ]
+            },
+            {
+                  "name": "Avlie Khodzha Chorshanbe",
+                  "text": "Avliyo Khoja Chorshanbe ist eine lokale Sehenswürdigkeit in Buchara.",
+                  "category": "landmark",
+                  "coords": [
+                        64.408318,
+                        39.7733
+                  ]
+            },
+            {
+                  "name": "Minora",
+                  "text": "Minarett in Buchara.",
+                  "category": "landmark",
+                  "coords": [
+                        64.410535,
+                        39.785321
+                  ]
+            },
+            {
+                  "name": "Mogila Khazrat Said Abdulkhasan Pobanda",
+                  "text": "Das Grab von Hazrat Said Abdulhasan Pobanda ist eine anerkannte Sehenswürdigkeit in Buchara.",
+                  "category": "landmark",
+                  "coords": [
+                        64.419046,
+                        39.776061
+                  ]
+            },
+            {
+                  "name": "Mavzolei Saifeddina Bokharzi",
+                  "text": "Das Mausoleum von Saif ed-Din Bokharzi ist eine bemerkenswerte Sehenswürdigkeit in Buchara.",
+                  "category": "landmark",
+                  "coords": [
+                        64.444692,
+                        39.76663
+                  ]
+            },
+            {
+                  "name": "Peshekhodnyi mostik",
+                  "text": "Die Fußgängerbrücke ist eine infrastrukturelle Sehenswürdigkeit in Buchara.",
+                  "category": "landmark",
+                  "coords": [
+                        64.428414,
+                        39.791864
+                  ]
+            },
+            {
+                  "name": "To`Raqulboy Uyi",
+                  "text": "Haus von Turakulbay in Buchara.",
+                  "category": "landmark",
+                  "coords": [
+                        64.416064,
+                        39.775219
+                  ]
+            },
+            {
+                  "name": "\"Ustoz Shogird\" Bolalar Amaliy Sanʼat Markazi",
+                  "text": "Kinderzentrum für angewandte Künste ‚Ustoz Shogird‘ in Buchara.",
+                  "category": "cultural",
+                  "coords": [
+                        64.419041,
+                        39.771543
+                  ]
+            },
+            {
+                  "name": "Yoshlar markazi",
+                  "text": "Yoshlar markazi ist ein Jugendkunstzentrum in der Stadt Buchara.",
+                  "category": "cultural",
+                  "coords": [
+                        64.421435,
+                        39.763685
+                  ]
+            },
+            {
+                  "name": "Dakhmai Bekhishtien",
+                  "text": "Dakhmai Bekhishtien in Buchara.",
+                  "category": "historical",
+                  "coords": [
+                        64.431694,
+                        39.774793
+                  ]
+            },
+            {
+                  "name": "Samarqand Qal`a darvozasi",
+                  "text": "Das Festungstor Samarqand ist eine historische Sehenswürdigkeit in der Stadt Buchara.",
+                  "category": "landmark",
+                  "coords": [
+                        64.421022,
+                        39.783075
+                  ]
+            },
+            {
+                  "name": "Qorako'l Qal`a darvozasi",
+                  "text": "Das Festungstor Qorako'l ist eine architektonische Sehenswürdigkeit in Buchara.",
+                  "category": "landmark",
+                  "coords": [
+                        64.397513,
+                        39.764186
+                  ]
+            },
+            {
+                  "name": "Talipoch Qal`a Darvozasi",
+                  "text": "Das Festungstor Talipoch ist eine anerkannte historische Sehenswürdigkeit in Buchara.",
+                  "category": "landmark",
+                  "coords": [
+                        64.397466,
+                        39.778802
+                  ]
+            },
+            {
+                  "name": "Boboyi Poraduz",
+                  "text": "Boboyi Poraduz in Buchara.",
+                  "category": "historical",
+                  "coords": [
+                        64.418864,
+                        39.765564
+                  ]
+            },
+            {
+                  "name": "Ruiny ban",
+                  "text": "Diese Badehausruinen bieten einen Einblick in die alte Infrastruktur von Buchara.",
+                  "category": "historical",
+                  "coords": [
+                        64.417874,
+                        39.773249
+                  ]
+            },
+            {
+                  "name": "Imom Abu Hafs Kabir maqbarasi",
+                  "text": "Mausoleum von Imom Abu Hafs Kabir in Buchara.",
+                  "category": "landmark",
+                  "coords": [
+                        64.409515,
+                        39.786346
+                  ]
+            },
+            {
+                  "name": "Imom Qal`a darvozasi",
+                  "text": "Das Festungstor Imom ist eine historische Sehenswürdigkeit in der Stadt Buchara.",
+                  "category": "landmark",
+                  "coords": [
+                        64.411694,
+                        39.782299
+                  ]
+            },
+            {
+                  "name": "Khalifa Hudoidod Kathedrale Moschee",
+                  "text": "Die Kathedralmoschee Khalifa Hudoidod ist eine bedeutende Kultstätte und ein architektonischer Komplex in Buchara.",
+                  "category": "religious",
+                  "coords": [
+                        64.399974,
+                        39.76875
+                  ]
+            },
+            {
+                  "name": "Khram Arkhistratiga Mikhaila",
+                  "text": "Die Kirche des Erzengels Michael ist eine russisch-orthodoxe Kirche mit einer auffälligen blauen Kuppel in Buchara.",
+                  "category": "religious",
+                  "coords": [
+                        64.433253,
+                        39.771465
+                  ]
+            },
+            {
+                  "name": "Kanesoi Isoki Zambur sinagogasi",
+                  "text": "Die Ohel Itskhak Synagoge ist eine bemerkenswerte jüdische Kultstätte in Buchara.",
+                  "category": "religious",
+                  "coords": [
+                        64.415867,
+                        39.76867
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sadriddin Ayniy teatri",
+                  "text": "Történelmi színház Buharában, a tadzsik íróról elnevezve, kulturális előadásokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        64.4067,
+                        39.776721
+                  ]
+            },
+            {
+                  "name": "Viloyat oʻlkashunoslik muzeyi",
+                  "text": "Regionális Tanulmányok Múzeuma Buharában.",
+                  "category": "museum",
+                  "coords": [
+                        64.410322,
+                        39.777731
+                  ]
+            },
+            {
+                  "name": "Muzei kukol",
+                  "text": "Bábmunka-múzeum Buharában.",
+                  "category": "museum",
+                  "coords": [
+                        64.420107,
+                        39.772602
+                  ]
+            },
+            {
+                  "name": "Fayzulla Xo'jayev muzey uyi",
+                  "text": "Fayzulla Khodjaev házmúzeum Buharában.",
+                  "category": "museum",
+                  "coords": [
+                        64.412765,
+                        39.769386
+                  ]
+            },
+            {
+                  "name": "Bukhara Photo Gallery",
+                  "text": "Bukhara Fotógaléria Buharában.",
+                  "category": "museum",
+                  "coords": [
+                        64.416787,
+                        39.771872
+                  ]
+            },
+            {
+                  "name": "Blacksmith workshop and museum",
+                  "text": "Kovácsműhely és múzeum Buharában.",
+                  "category": "museum",
+                  "coords": [
+                        64.417126,
+                        39.77426
+                  ]
+            },
+            {
+                  "name": "Living conditions of Student in Madrasa Museum",
+                  "text": "Múzeum a medresze diákok életkörülményeiről Buharában.",
+                  "category": "museum",
+                  "coords": [
+                        64.420836,
+                        39.774133
+                  ]
+            },
+            {
+                  "name": "Muzei istorii bukharskikh evreev",
+                  "text": "Buharai zsidó történeti múzeum Buharában.",
+                  "category": "museum",
+                  "coords": [
+                        64.423106,
+                        39.772352
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Amfiteátrum Buharában.",
+                  "category": "cultural",
+                  "coords": [
+                        64.429298,
+                        39.793926
+                  ]
+            },
+            {
+                  "name": "Drama teatri",
+                  "text": "Drámaszínház Buharában.",
+                  "category": "cultural",
+                  "coords": [
+                        64.43087,
+                        39.798423
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Amfiteátrum Buharában.",
+                  "category": "cultural",
+                  "coords": [
+                        64.40185,
+                        39.775602
+                  ]
+            },
+            {
+                  "name": "Nuroniylar maskani",
+                  "text": "Nuroniylar maskani múzeum Buharában.",
+                  "category": "museum",
+                  "coords": [
+                        64.403936,
+                        39.775021
+                  ]
+            },
+            {
+                  "name": "\"Shahriston\" arxeologiya hududi (Arxeologik park)",
+                  "text": "Shahriston régészeti terület Buharában.",
+                  "category": "historical",
+                  "coords": [
+                        64.413268,
+                        39.776791
+                  ]
+            },
+            {
+                  "name": "Minorai kalon. watchtower and lighthouse",
+                  "text": "A Kalon-minaret egy 45,6 méter magas, 12. századi minaret.",
+                  "category": "historical",
+                  "coords": [
+                        64.41501,
+                        39.775684
+                  ]
+            },
+            {
+                  "name": "Masjidi baland jom`e masjidi",
+                  "text": "A Balyand mecset egy magas kőemelvényen áll.",
+                  "category": "landmark",
+                  "coords": [
+                        64.405038,
+                        39.771575
+                  ]
+            },
+            {
+                  "name": "Boloi Havz jom`e masjidi",
+                  "text": "A Boloi Havz mecset egy nagy tó (havz) mellett áll a belvárosban.",
+                  "category": "landmark",
+                  "coords": [
+                        64.407378,
+                        39.777747
+                  ]
+            },
+            {
+                  "name": "Namozgoh",
+                  "text": "A Namozgoh egy nyitott imaplatform a városfalon kívül, az ünnepi imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        64.412021,
+                        39.761717
+                  ]
+            },
+            {
+                  "name": "Zindon",
+                  "text": "A Zindon egy történelmi börtön és látványosság Buchara városában.",
+                  "category": "landmark",
+                  "coords": [
+                        64.413876,
+                        39.779177
+                  ]
+            },
+            {
+                  "name": "Xo'ja Zayniddin majmuasi",
+                  "text": "A Xo'ja Zayniddin majmuasi egy történelmi építészeti komplexum és látványosság Bucharában.",
+                  "category": "landmark",
+                  "coords": [
+                        64.412211,
+                        39.775024
+                  ]
+            },
+            {
+                  "name": "Shuxov minorasi",
+                  "text": "A Shukhov-víztorony egy jellegzetes építészeti látványosság Buchara városában.",
+                  "category": "landmark",
+                  "coords": [
+                        64.408513,
+                        39.777947
+                  ]
+            },
+            {
+                  "name": "Avlie Khodzha Chorshanbe",
+                  "text": "Az Avliyo Khoja Chorshanbe egy helyi látványosság Bucharában.",
+                  "category": "landmark",
+                  "coords": [
+                        64.408318,
+                        39.7733
+                  ]
+            },
+            {
+                  "name": "Minora",
+                  "text": "Minaret Buharában.",
+                  "category": "landmark",
+                  "coords": [
+                        64.410535,
+                        39.785321
+                  ]
+            },
+            {
+                  "name": "Mogila Khazrat Said Abdulkhasan Pobanda",
+                  "text": "A Hazrat Said Abdulhasan Pobanda sírja egy elismert látványosság Bucharában.",
+                  "category": "landmark",
+                  "coords": [
+                        64.419046,
+                        39.776061
+                  ]
+            },
+            {
+                  "name": "Mavzolei Saifeddina Bokharzi",
+                  "text": "A Saif ed-Din Bokharzi mauzóleum egy figyelemre méltó látványosság Bucharában.",
+                  "category": "landmark",
+                  "coords": [
+                        64.444692,
+                        39.76663
+                  ]
+            },
+            {
+                  "name": "Peshekhodnyi mostik",
+                  "text": "A gyalogoshíd egy infrastrukturális látványosság Bucharában.",
+                  "category": "landmark",
+                  "coords": [
+                        64.428414,
+                        39.791864
+                  ]
+            },
+            {
+                  "name": "To`Raqulboy Uyi",
+                  "text": "Turakulbay háza Buharában.",
+                  "category": "landmark",
+                  "coords": [
+                        64.416064,
+                        39.775219
+                  ]
+            },
+            {
+                  "name": "\"Ustoz Shogird\" Bolalar Amaliy Sanʼat Markazi",
+                  "text": "Ustoz Shogird Gyermek Iparművészeti Központ Buharában.",
+                  "category": "cultural",
+                  "coords": [
+                        64.419041,
+                        39.771543
+                  ]
+            },
+            {
+                  "name": "Yoshlar markazi",
+                  "text": "A Yoshlar markazi egy ifjúsági művészeti központ Buchara városában.",
+                  "category": "cultural",
+                  "coords": [
+                        64.421435,
+                        39.763685
+                  ]
+            },
+            {
+                  "name": "Dakhmai Bekhishtien",
+                  "text": "Dakhmai Bekhishtien Buharában.",
+                  "category": "historical",
+                  "coords": [
+                        64.431694,
+                        39.774793
+                  ]
+            },
+            {
+                  "name": "Samarqand Qal`a darvozasi",
+                  "text": "A Szamarkand erődkapu egy történelmi látványosság Buchara városában.",
+                  "category": "landmark",
+                  "coords": [
+                        64.421022,
+                        39.783075
+                  ]
+            },
+            {
+                  "name": "Qorako'l Qal`a darvozasi",
+                  "text": "A Qorako'l erődkapu egy építészeti látványosság Bucharában.",
+                  "category": "landmark",
+                  "coords": [
+                        64.397513,
+                        39.764186
+                  ]
+            },
+            {
+                  "name": "Talipoch Qal`a Darvozasi",
+                  "text": "A Talipoch erődkapu egy elismert történelmi látványosság Bucharában.",
+                  "category": "landmark",
+                  "coords": [
+                        64.397466,
+                        39.778802
+                  ]
+            },
+            {
+                  "name": "Boboyi Poraduz",
+                  "text": "Boboyi Poraduz Buharában.",
+                  "category": "historical",
+                  "coords": [
+                        64.418864,
+                        39.765564
+                  ]
+            },
+            {
+                  "name": "Ruiny ban",
+                  "text": "Ezek a fürdőromok bepillantást engednek Buchara ősi infrastruktúrájába.",
+                  "category": "historical",
+                  "coords": [
+                        64.417874,
+                        39.773249
+                  ]
+            },
+            {
+                  "name": "Imom Abu Hafs Kabir maqbarasi",
+                  "text": "Imom Abu Hafs Kabir mauzóleuma Buharában.",
+                  "category": "landmark",
+                  "coords": [
+                        64.409515,
+                        39.786346
+                  ]
+            },
+            {
+                  "name": "Imom Qal`a darvozasi",
+                  "text": "Az Imom erődkapu egy történelmi látványosság Buchara városában.",
+                  "category": "landmark",
+                  "coords": [
+                        64.411694,
+                        39.782299
+                  ]
+            },
+            {
+                  "name": "Xalifa Xudoydod jom`e masjidi",
+                  "text": "A Khalifa Hudoidod katedrális mecset egy kiemelkedő istentiszteleti hely és építészeti komplexum Bucharában.",
+                  "category": "religious",
+                  "coords": [
+                        64.399974,
+                        39.76875
+                  ]
+            },
+            {
+                  "name": "Khram Arkhistratiga Mikhaila",
+                  "text": "Az Arkangyal Mihály-templom egy orosz ortodox templom feltűnő kék kupolával Buharában.",
+                  "category": "religious",
+                  "coords": [
+                        64.433253,
+                        39.771465
+                  ]
+            },
+            {
+                  "name": "Kanesoi Isoki Zambur sinagogasi",
+                  "text": "Az Ohel Itskhak zsinagóga egy figyelemre méltó zsidó istentiszteleti hely Bucharában.",
+                  "category": "religious",
+                  "coords": [
+                        64.415867,
+                        39.76867
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sadriddin Ayniy teatri",
+                  "text": "Un teatru istoric în Bukhara, numit după scriitorul tadjik, cu spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        64.4067,
+                        39.776721
+                  ]
+            },
+            {
+                  "name": "Viloyat oʻlkashunoslik muzeyi",
+                  "text": "Muzeul de Studii Regionale în Buhara.",
+                  "category": "museum",
+                  "coords": [
+                        64.410322,
+                        39.777731
+                  ]
+            },
+            {
+                  "name": "Muzei kukol",
+                  "text": "Muzeul Atelierului de Păpuși în Buhara.",
+                  "category": "museum",
+                  "coords": [
+                        64.420107,
+                        39.772602
+                  ]
+            },
+            {
+                  "name": "Fayzulla Xo'jayev muzey uyi",
+                  "text": "Casa-muzeu Fayzulla Khodjaev în Buhara.",
+                  "category": "museum",
+                  "coords": [
+                        64.412765,
+                        39.769386
+                  ]
+            },
+            {
+                  "name": "Bukhara Photo Gallery",
+                  "text": "Galerie Foto Bukhara în Buhara.",
+                  "category": "museum",
+                  "coords": [
+                        64.416787,
+                        39.771872
+                  ]
+            },
+            {
+                  "name": "Blacksmith workshop and museum",
+                  "text": "Atelier de fierărie și muzeu în Buhara.",
+                  "category": "museum",
+                  "coords": [
+                        64.417126,
+                        39.77426
+                  ]
+            },
+            {
+                  "name": "Living conditions of Student in Madrasa Museum",
+                  "text": "Muzeul condițiilor de viață ale studenților din medrese în Buhara.",
+                  "category": "museum",
+                  "coords": [
+                        64.420836,
+                        39.774133
+                  ]
+            },
+            {
+                  "name": "Muzei istorii bukharskikh evreev",
+                  "text": "Muzeul de Istorie Evreiască Bucureșteană în Buhara.",
+                  "category": "museum",
+                  "coords": [
+                        64.423106,
+                        39.772352
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Amfiteatru în Buhara.",
+                  "category": "cultural",
+                  "coords": [
+                        64.429298,
+                        39.793926
+                  ]
+            },
+            {
+                  "name": "Drama teatri",
+                  "text": "Teatrul Dramatic în Buhara.",
+                  "category": "cultural",
+                  "coords": [
+                        64.43087,
+                        39.798423
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Amfiteatru în Buhara.",
+                  "category": "cultural",
+                  "coords": [
+                        64.40185,
+                        39.775602
+                  ]
+            },
+            {
+                  "name": "Nuroniylar maskani",
+                  "text": "Muzeul Nuroniylar maskani în Buhara.",
+                  "category": "museum",
+                  "coords": [
+                        64.403936,
+                        39.775021
+                  ]
+            },
+            {
+                  "name": "\"Shahriston\" arxeologiya hududi (Arxeologik park)",
+                  "text": "Zona arheologică Shahriston în Buhara.",
+                  "category": "historical",
+                  "coords": [
+                        64.413268,
+                        39.776791
+                  ]
+            },
+            {
+                  "name": "Minorai kalon. watchtower and lighthouse",
+                  "text": "Minaretul Kalon este un minaret de 45,6 m înălțime din secolul al XII-lea.",
+                  "category": "historical",
+                  "coords": [
+                        64.41501,
+                        39.775684
+                  ]
+            },
+            {
+                  "name": "Masjidi baland jom`e masjidi",
+                  "text": "Moscheea Balyand este ridicată pe o platformă înaltă de piatră.",
+                  "category": "landmark",
+                  "coords": [
+                        64.405038,
+                        39.771575
+                  ]
+            },
+            {
+                  "name": "Boloi Havz jom`e masjidi",
+                  "text": "Moscheea Boloi Havz se află lângă un iaz mare (havz) în centrul vechi.",
+                  "category": "landmark",
+                  "coords": [
+                        64.407378,
+                        39.777747
+                  ]
+            },
+            {
+                  "name": "Namozgoh",
+                  "text": "Namozgoh este o platformă de rugăciune în aer liber pentru rugăciunile de Eid, în afara zidurilor orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        64.412021,
+                        39.761717
+                  ]
+            },
+            {
+                  "name": "Zindon",
+                  "text": "Zindon este o închisoare istorică și o atracție situată în orașul Buchara.",
+                  "category": "landmark",
+                  "coords": [
+                        64.413876,
+                        39.779177
+                  ]
+            },
+            {
+                  "name": "Xo'ja Zayniddin majmuasi",
+                  "text": "Xo'ja Zayniddin majmuasi este un complex arhitectural istoric și o atracție situată în Buchara.",
+                  "category": "landmark",
+                  "coords": [
+                        64.412211,
+                        39.775024
+                  ]
+            },
+            {
+                  "name": "Shuxov minorasi",
+                  "text": "Turnul de apă Shukhov este o atracție structurală distinctivă situată în orașul Buchara.",
+                  "category": "landmark",
+                  "coords": [
+                        64.408513,
+                        39.777947
+                  ]
+            },
+            {
+                  "name": "Avlie Khodzha Chorshanbe",
+                  "text": "Avliyo Khoja Chorshanbe este o atracție locală situată în Buchara.",
+                  "category": "landmark",
+                  "coords": [
+                        64.408318,
+                        39.7733
+                  ]
+            },
+            {
+                  "name": "Minora",
+                  "text": "Minaret în Buhara.",
+                  "category": "landmark",
+                  "coords": [
+                        64.410535,
+                        39.785321
+                  ]
+            },
+            {
+                  "name": "Mogila Khazrat Said Abdulkhasan Pobanda",
+                  "text": "Mormântul lui Hazrat Said Abdulhasan Pobanda este o atracție recunoscută din Buchara.",
+                  "category": "landmark",
+                  "coords": [
+                        64.419046,
+                        39.776061
+                  ]
+            },
+            {
+                  "name": "Mavzolei Saifeddina Bokharzi",
+                  "text": "Mausoleul lui Saif ed-Din Bokharzi este o atracție notabilă situată în Buchara.",
+                  "category": "landmark",
+                  "coords": [
+                        64.444692,
+                        39.76663
+                  ]
+            },
+            {
+                  "name": "Peshekhodnyi mostik",
+                  "text": "Podul pietonal este o atracție de infrastructură situată în Buchara.",
+                  "category": "landmark",
+                  "coords": [
+                        64.428414,
+                        39.791864
+                  ]
+            },
+            {
+                  "name": "To`Raqulboy Uyi",
+                  "text": "Casa lui Turakulbay în Buhara.",
+                  "category": "landmark",
+                  "coords": [
+                        64.416064,
+                        39.775219
+                  ]
+            },
+            {
+                  "name": "\"Ustoz Shogird\" Bolalar Amaliy Sanʼat Markazi",
+                  "text": "Centrul pentru Copii de Arte Aplicate „Ustoz Shogird” în Buhara.",
+                  "category": "cultural",
+                  "coords": [
+                        64.419041,
+                        39.771543
+                  ]
+            },
+            {
+                  "name": "Yoshlar markazi",
+                  "text": "Yoshlar markazi este un centru de artă pentru tineret situat în orașul Buchara.",
+                  "category": "cultural",
+                  "coords": [
+                        64.421435,
+                        39.763685
+                  ]
+            },
+            {
+                  "name": "Dakhmai Bekhishtien",
+                  "text": "Dakhmai Bekhishtien în Buhara.",
+                  "category": "historical",
+                  "coords": [
+                        64.431694,
+                        39.774793
+                  ]
+            },
+            {
+                  "name": "Samarqand Qal`a darvozasi",
+                  "text": "Poarta Cetății Samarqand este o atracție istorică în orașul Buchara.",
+                  "category": "landmark",
+                  "coords": [
+                        64.421022,
+                        39.783075
+                  ]
+            },
+            {
+                  "name": "Qorako'l Qal`a darvozasi",
+                  "text": "Poarta Cetății Qorako'l este o atracție arhitecturală situată în Buchara.",
+                  "category": "landmark",
+                  "coords": [
+                        64.397513,
+                        39.764186
+                  ]
+            },
+            {
+                  "name": "Talipoch Qal`a Darvozasi",
+                  "text": "Poarta Cetății Talipoch este o atracție istorică recunoscută din Buchara.",
+                  "category": "landmark",
+                  "coords": [
+                        64.397466,
+                        39.778802
+                  ]
+            },
+            {
+                  "name": "Boboyi Poraduz",
+                  "text": "Boboyi Poraduz în Buhara.",
+                  "category": "historical",
+                  "coords": [
+                        64.418864,
+                        39.765564
+                  ]
+            },
+            {
+                  "name": "Ruiny ban",
+                  "text": "Aceste ruine ale băilor oferă o privire asupra infrastructurii antice din Buchara.",
+                  "category": "historical",
+                  "coords": [
+                        64.417874,
+                        39.773249
+                  ]
+            },
+            {
+                  "name": "Imom Abu Hafs Kabir maqbarasi",
+                  "text": "Mausoleul lui Imom Abu Hafs Kabir în Buhara.",
+                  "category": "landmark",
+                  "coords": [
+                        64.409515,
+                        39.786346
+                  ]
+            },
+            {
+                  "name": "Imom Qal`a darvozasi",
+                  "text": "Poarta Cetății Imom este o atracție istorică situată în orașul Buchara.",
+                  "category": "landmark",
+                  "coords": [
+                        64.411694,
+                        39.782299
+                  ]
+            },
+            {
+                  "name": "Xalifa Xudoydod jom`e masjidi",
+                  "text": "Moscheea Catedrală Khalifa Hudoidod este un lăcaș de cult proeminent și un complex arhitectural în Buchara.",
+                  "category": "religious",
+                  "coords": [
+                        64.399974,
+                        39.76875
+                  ]
+            },
+            {
+                  "name": "Khram Arkhistratiga Mikhaila",
+                  "text": "Biserica Arhanghelului Mihail este o biserică ortodoxă rusă cu o cupolă albastră distinctivă în Bukhara.",
+                  "category": "religious",
+                  "coords": [
+                        64.433253,
+                        39.771465
+                  ]
+            },
+            {
+                  "name": "Kanesoi Isoki Zambur sinagogasi",
+                  "text": "Sinagoga Ohel Itskhak este un lăcaș de cult evreiesc notabil situat în Buchara.",
+                  "category": "religious",
+                  "coords": [
+                        64.415867,
+                        39.76867
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sadriddin Ayniy teatri",
+                  "text": "A historic theatre in Bukhara named after the Tajik writer, hosting cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        64.4067,
+                        39.776721
+                  ]
+            },
+            {
+                  "name": "Regional Studies Museum",
+                  "text": "Regional Studies Museum in Bukhara.",
+                  "category": "museum",
+                  "coords": [
+                        64.410322,
+                        39.777731
+                  ]
+            },
+            {
+                  "name": "Puppets Workshop",
+                  "text": "Puppets Workshop museum in Bukhara.",
+                  "category": "museum",
+                  "coords": [
+                        64.420107,
+                        39.772602
+                  ]
+            },
+            {
+                  "name": "Fayzulla Khodjaev house museum",
+                  "text": "Fayzulla Khodjaev house museum in Bukhara.",
+                  "category": "museum",
+                  "coords": [
+                        64.412765,
+                        39.769386
+                  ]
+            },
+            {
+                  "name": "Bukhara Photo Gallery",
+                  "text": "Bukhara Photo Gallery in Bukhara.",
+                  "category": "museum",
+                  "coords": [
+                        64.416787,
+                        39.771872
+                  ]
+            },
+            {
+                  "name": "Blacksmith workshop and museum",
+                  "text": "Blacksmith workshop and museum in Bukhara.",
+                  "category": "museum",
+                  "coords": [
+                        64.417126,
+                        39.77426
+                  ]
+            },
+            {
+                  "name": "Living conditions of Student in Madrasa Museum",
+                  "text": "Living conditions of Student in Madrasa Museum in Bukhara.",
+                  "category": "museum",
+                  "coords": [
+                        64.420836,
+                        39.774133
+                  ]
+            },
+            {
+                  "name": "Museum of Bukharian Jewish History",
+                  "text": "Museum of Bukharian Jewish History in Bukhara.",
+                  "category": "museum",
+                  "coords": [
+                        64.423106,
+                        39.772352
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Amphitheater in Bukhara.",
+                  "category": "cultural",
+                  "coords": [
+                        64.429298,
+                        39.793926
+                  ]
+            },
+            {
+                  "name": "Drama teatri",
+                  "text": "Drama theater in Bukhara.",
+                  "category": "cultural",
+                  "coords": [
+                        64.43087,
+                        39.798423
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Amphitheater in Bukhara.",
+                  "category": "cultural",
+                  "coords": [
+                        64.40185,
+                        39.775602
+                  ]
+            },
+            {
+                  "name": "Nuroniylar maskani",
+                  "text": "Nuroniylar maskani museum in Bukhara.",
+                  "category": "museum",
+                  "coords": [
+                        64.403936,
+                        39.775021
+                  ]
+            },
+            {
+                  "name": "Shahriston Archaological Area",
+                  "text": "Shahriston Archaeological Area in Bukhara.",
+                  "category": "historical",
+                  "coords": [
+                        64.413268,
+                        39.776791
+                  ]
+            },
+            {
+                  "name": "Kalan Minaret",
+                  "text": "The Kalan Minaret is a 45.6 m tall 12th-century minaret.",
+                  "category": "historical",
+                  "coords": [
+                        64.41501,
+                        39.775684
+                  ]
+            },
+            {
+                  "name": "Balyand Mosque",
+                  "text": "The Balyand Mosque stands on a high stone platform.",
+                  "category": "landmark",
+                  "coords": [
+                        64.405038,
+                        39.771575
+                  ]
+            },
+            {
+                  "name": "Boloi Havz Mosque",
+                  "text": "The Boloi Havz Mosque sits next to a large pond (havz) in the old town.",
+                  "category": "landmark",
+                  "coords": [
+                        64.407378,
+                        39.777747
+                  ]
+            },
+            {
+                  "name": "Namozgoh",
+                  "text": "The Namozgoh is an open-air prayer platform for Eid prayers outside the city walls.",
+                  "category": "landmark",
+                  "coords": [
+                        64.412021,
+                        39.761717
+                  ]
+            },
+            {
+                  "name": "Zindon",
+                  "text": "The Zindon is a historical prison and attraction located in the city of Buchara.",
+                  "category": "landmark",
+                  "coords": [
+                        64.413876,
+                        39.779177
+                  ]
+            },
+            {
+                  "name": "Xo'ja Zayniddin majmuasi",
+                  "text": "Xo'ja Zayniddin majmuasi is a historical architectural complex and attraction situated in Buchara.",
+                  "category": "landmark",
+                  "coords": [
+                        64.412211,
+                        39.775024
+                  ]
+            },
+            {
+                  "name": "Shukhov Water Tower",
+                  "text": "The Shukhov Water Tower is a distinctive structural attraction located in the city of Buchara.",
+                  "category": "landmark",
+                  "coords": [
+                        64.408513,
+                        39.777947
+                  ]
+            },
+            {
+                  "name": "Avlie Khodzha Chorshanbe",
+                  "text": "Avliyo Khoja Chorshanbe is a local attraction located in Buchara.",
+                  "category": "landmark",
+                  "coords": [
+                        64.408318,
+                        39.7733
+                  ]
+            },
+            {
+                  "name": "Minora",
+                  "text": "Minaret in Bukhara.",
+                  "category": "landmark",
+                  "coords": [
+                        64.410535,
+                        39.785321
+                  ]
+            },
+            {
+                  "name": "Mogila Khazrat Said Abdulkhasan Pobanda",
+                  "text": "The Tomb of Hazrat Said Abdulhasan Pobanda is a recognized attraction in Buchara.",
+                  "category": "landmark",
+                  "coords": [
+                        64.419046,
+                        39.776061
+                  ]
+            },
+            {
+                  "name": "Mavzolei Saifeddina Bokharzi",
+                  "text": "The Mausoleum of Saif ed-Din Bokharzi is a notable attraction situated in Buchara.",
+                  "category": "landmark",
+                  "coords": [
+                        64.444692,
+                        39.76663
+                  ]
+            },
+            {
+                  "name": "Peshekhodnyi mostik",
+                  "text": "The Pedestrian Bridge is an infrastructure attraction located in Buchara.",
+                  "category": "landmark",
+                  "coords": [
+                        64.428414,
+                        39.791864
+                  ]
+            },
+            {
+                  "name": "House of Turakulbay",
+                  "text": "House of Turakulbay in Bukhara.",
+                  "category": "landmark",
+                  "coords": [
+                        64.416064,
+                        39.775219
+                  ]
+            },
+            {
+                  "name": "\"Ustoz Shogird\" Children's Center for Applied Arts",
+                  "text": "Ustoz Shogird Children's Center for Applied Arts in Bukhara.",
+                  "category": "cultural",
+                  "coords": [
+                        64.419041,
+                        39.771543
+                  ]
+            },
+            {
+                  "name": "Yoshlar markazi",
+                  "text": "Yoshlar markazi is a youth arts centre located in the city of Buchara.",
+                  "category": "cultural",
+                  "coords": [
+                        64.421435,
+                        39.763685
+                  ]
+            },
+            {
+                  "name": "Dakhmai Bekhishtien",
+                  "text": "Dakhmai Bekhishtien in Bukhara.",
+                  "category": "historical",
+                  "coords": [
+                        64.431694,
+                        39.774793
+                  ]
+            },
+            {
+                  "name": "Samarqand Qal`a darvozasi",
+                  "text": "The Samarqand Fortress Gate is a historical attraction in the city of Buchara.",
+                  "category": "landmark",
+                  "coords": [
+                        64.421022,
+                        39.783075
+                  ]
+            },
+            {
+                  "name": "Qorako'l Qal`a darvozasi",
+                  "text": "The Qorako'l Fortress Gate is an architectural attraction located in Buchara.",
+                  "category": "landmark",
+                  "coords": [
+                        64.397513,
+                        39.764186
+                  ]
+            },
+            {
+                  "name": "Talipoch Qal`a Darvozasi",
+                  "text": "The Talipoch Fortress Gate is a recognized historical attraction in Buchara.",
+                  "category": "landmark",
+                  "coords": [
+                        64.397466,
+                        39.778802
+                  ]
+            },
+            {
+                  "name": "Boboyi Poraduz",
+                  "text": "Boboyi Poraduz in Bukhara.",
+                  "category": "historical",
+                  "coords": [
+                        64.418864,
+                        39.765564
+                  ]
+            },
+            {
+                  "name": "Ruiny ban",
+                  "text": "These bathhouse ruins offer a glimpse into the ancient infrastructure of Buchara.",
+                  "category": "historical",
+                  "coords": [
+                        64.417874,
+                        39.773249
+                  ]
+            },
+            {
+                  "name": "Imom Abu Hafs Kabir maqbarasi",
+                  "text": "Imom Abu Hafs Kabir mausoleum in Bukhara.",
+                  "category": "landmark",
+                  "coords": [
+                        64.409515,
+                        39.786346
+                  ]
+            },
+            {
+                  "name": "Imom Qal`a darvozasi",
+                  "text": "The Imom Fortress Gate is a historical attraction situated in the city of Buchara.",
+                  "category": "landmark",
+                  "coords": [
+                        64.411694,
+                        39.782299
+                  ]
+            },
+            {
+                  "name": "Khalifa Hudoidod Cathedral Mosque",
+                  "text": "The Khalifa Hudoidod Cathedral Mosque is a prominent place of worship and architectural complex in Buchara.",
+                  "category": "religious",
+                  "coords": [
+                        64.399974,
+                        39.76875
+                  ]
+            },
+            {
+                  "name": "Church of Archangel Michael in Bukhara",
+                  "text": "The Church of Archangel Michael is a Russian Orthodox church with a striking blue dome in Bukhara.",
+                  "category": "religious",
+                  "coords": [
+                        64.433253,
+                        39.771465
+                  ]
+            },
+            {
+                  "name": "Ohel Itskhak Synagogue",
+                  "text": "The Ohel Itskhak Synagogue is a notable Jewish place of worship located in Buchara.",
+                  "category": "religious",
+                  "coords": [
+                        64.415867,
+                        39.76867
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UZ-BU",
     coords: [64.4286, 39.7747],
@@ -317,7 +3440,52 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "fergana-cities-v2",
+    id: "fergana-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Umm-al Quro jome' masjidi",
+                  "text": "Eine bedeutende Freitagsmoschee in Fergana, die große Menschenmengen zu den Freitagsgebeten versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        71.748428,
+                        40.404293
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Umm-al Quro jome' masjidi",
+                  "text": "Egy jelentős Jameh-mecset Ferganában, amely nagy tömegeket vonz a pénteki gyülekezeti imákra.",
+                  "category": "landmark",
+                  "coords": [
+                        71.748428,
+                        40.404293
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Umm-al Quro jome' masjidi",
+                  "text": "O moschee Jameh semnificativă din Fergana, care adună mulțimi mari pentru rugăciunile de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        71.748428,
+                        40.404293
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Umm-al Quro jome' masjidi",
+                  "text": "A significant Jameh mosque in Fergana, gathering large crowds for Friday congregational prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        71.748428,
+                        40.404293
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UZ-FA",
     coords: [71.7268, 40.3842],
@@ -445,7 +3613,520 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "karshi-cities-v2",
+    id: "karshi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Samolet",
+                  "text": "Ein sowjetisches MiG-Flugzeug auf einem Sockel dient als markantes Denkmal in Karshi.",
+                  "category": "historical",
+                  "coords": [
+                        65.800967,
+                        38.867949
+                  ]
+            },
+            {
+                  "name": "Bouling",
+                  "text": "Ein modernes Freizeitzentrum in Karshi mit Bowlingbahnen und Unterhaltung für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        65.783565,
+                        38.84552
+                  ]
+            },
+            {
+                  "name": "Kurant",
+                  "text": "Ein markanter Glockenturm im Stadtzentrum, der als wichtiger Orientierungspunkt in Karshi gilt.",
+                  "category": "historical",
+                  "coords": [
+                        65.795188,
+                        38.83829
+                  ]
+            },
+            {
+                  "name": "Sharaf Bey Madrasah",
+                  "text": "Dieses Bildungsgebäude aus dem 19. Jahrhundert ist ein Beispiel für die traditionelle Ziegelbauweise der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        65.803424,
+                        38.8739
+                  ]
+            },
+            {
+                  "name": "Qilichboy madrasasi",
+                  "text": "Eine historische islamische Schule mit kleinen Studentenzellen, die um einen zentralen Innenhof angeordnet sind.",
+                  "category": "landmark",
+                  "coords": [
+                        65.805649,
+                        38.86935
+                  ]
+            },
+            {
+                  "name": "Eski hammom",
+                  "text": "Die Überreste eines antiken Badehauses zeigen die traditionelle thermale Architektur der Region.",
+                  "category": "historical",
+                  "coords": [
+                        65.804399,
+                        38.8688
+                  ]
+            },
+            {
+                  "name": "Odina masjid va madrasasi",
+                  "text": "Diese Moschee aus dem 14. Jahrhundert wurde auf den Ruinen eines Mongolenpalastes errichtet und dient heute als Museum.",
+                  "category": "museum",
+                  "coords": [
+                        65.803297,
+                        38.867699
+                  ]
+            },
+            {
+                  "name": "Mulla To‘ychi nomidagi Qashqadaryo viloyat musiqali drama teatri",
+                  "text": "Das wichtigste regionale Theater in Karshi, das regelmäßig Musik- und Dramenaufführungen veranstaltet.",
+                  "category": "cultural",
+                  "coords": [
+                        65.785572,
+                        38.840935
+                  ]
+            },
+            {
+                  "name": "HONOQOH jom`e masjidi",
+                  "text": "Eine bedeutende lokale Moschee, die das historische Khanako-Viertel der Stadt Karshi bedient.",
+                  "category": "landmark",
+                  "coords": [
+                        65.792486,
+                        38.876866
+                  ]
+            },
+            {
+                  "name": "MAHOLLOT jom`e masjidi",
+                  "text": "Eine zentrale Freitagsmoschee in Karshi, die als wichtiges religiöses Zentrum der Stadt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        65.800512,
+                        38.853114
+                  ]
+            },
+            {
+                  "name": "QUM QISHLOQ jom`e masjidi",
+                  "text": "Diese muslimische Gebetsstätte im Viertel Kum Kishlak zeichnet sich durch ihre traditionelle lokale Architektur aus.",
+                  "category": "landmark",
+                  "coords": [
+                        65.809646,
+                        38.849241
+                  ]
+            },
+            {
+                  "name": "QILICHBEK QO'RG'ONCHA jom`e masjidi",
+                  "text": "Eine lokale Gemeindemoschee in Karshi, die ein Beispiel für die zeitgenössische islamische Bauweise der Region ist.",
+                  "category": "landmark",
+                  "coords": [
+                        65.773235,
+                        38.858013
+                  ]
+            },
+            {
+                  "name": "KO'K GUMBAZ jom`e masjidi",
+                  "text": "Diese historische Moschee ist für ihre namensgebende blaue Kuppel bekannt, die im 15. Jahrhundert unter Ulugh Beg errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        65.791443,
+                        38.863704
+                  ]
+            },
+            {
+                  "name": "Yangi bozor",
+                  "text": "Ein lebhafter lokaler Basar in Karshi, auf dem frisches Obst, Gemüse und traditionelle usbekische Textilien verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        65.787272,
+                        38.852142
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Samolet",
+                  "text": "Egy talapzaton álló szovjet MiG repülőgép szolgál jellegzetes emlékműként Karsiban.",
+                  "category": "historical",
+                  "coords": [
+                        65.800967,
+                        38.867949
+                  ]
+            },
+            {
+                  "name": "Bouling",
+                  "text": "Modern szabadidős központ Karsiban bowlingpályákkal és családi szórakozási lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        65.783565,
+                        38.84552
+                  ]
+            },
+            {
+                  "name": "Kurant",
+                  "text": "A városközpont jellegzetes óratornya, amely Karshi egyik fontos tájékozódási pontja.",
+                  "category": "historical",
+                  "coords": [
+                        65.795188,
+                        38.83829
+                  ]
+            },
+            {
+                  "name": "Sharaf Bey Madrasah",
+                  "text": "Ez a 19. századi oktatási épület a régió hagyományos téglaépítészetének példája.",
+                  "category": "landmark",
+                  "coords": [
+                        65.803424,
+                        38.8739
+                  ]
+            },
+            {
+                  "name": "Qilichboy madrasasi",
+                  "text": "Történelmi iszlám iskola apró diákszobákkal, amelyek egy központi udvar körül helyezkednek el.",
+                  "category": "landmark",
+                  "coords": [
+                        65.805649,
+                        38.86935
+                  ]
+            },
+            {
+                  "name": "Eski hammom",
+                  "text": "Egy ősi fürdőház maradványai, amelyek a régió hagyományos termálépítészetét mutatják be.",
+                  "category": "historical",
+                  "coords": [
+                        65.804399,
+                        38.8688
+                  ]
+            },
+            {
+                  "name": "Odina masjid va madrasasi",
+                  "text": "Ez a 14. századi mecset egy mongol palota romjaira épült, és ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        65.803297,
+                        38.867699
+                  ]
+            },
+            {
+                  "name": "Mulla To‘ychi nomidagi Qashqadaryo viloyat musiqali drama teatri",
+                  "text": "Karshi legfontosabb regionális színháza, amely rendszeresen ad otthont zenei és drámai előadásoknak.",
+                  "category": "cultural",
+                  "coords": [
+                        65.785572,
+                        38.840935
+                  ]
+            },
+            {
+                  "name": "HONOQOH jom`e masjidi",
+                  "text": "Jelentős helyi mecset, amely Karshi város történelmi Khanako negyedét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        65.792486,
+                        38.876866
+                  ]
+            },
+            {
+                  "name": "MAHOLLOT jom`e masjidi",
+                  "text": "Karsi központi pénteki mecsetje, amely a város fontos vallási központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        65.800512,
+                        38.853114
+                  ]
+            },
+            {
+                  "name": "QUM QISHLOQ jom`e masjidi",
+                  "text": "Ez a Kum Kishlak negyedben található muszlim imaház hagyományos helyi építészetével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        65.809646,
+                        38.849241
+                  ]
+            },
+            {
+                  "name": "QILICHBEK QO'RG'ONCHA jom`e masjidi",
+                  "text": "Karsi egyik helyi közösségi mecsetje, amely a régió kortárs iszlám építészetének példája.",
+                  "category": "landmark",
+                  "coords": [
+                        65.773235,
+                        38.858013
+                  ]
+            },
+            {
+                  "name": "KO'K GUMBAZ jom`e masjidi",
+                  "text": "Ez a történelmi mecset a névadó kék kupolájáról ismert, amelyet a 15. században építettek Ulugh bég idején.",
+                  "category": "landmark",
+                  "coords": [
+                        65.791443,
+                        38.863704
+                  ]
+            },
+            {
+                  "name": "Yangi bozor",
+                  "text": "Karsi nyüzsgő helyi bazárja, ahol friss gyümölcsöket, zöldségeket és hagyományos üzbég textileket árusítanak.",
+                  "category": "cultural",
+                  "coords": [
+                        65.787272,
+                        38.852142
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Samolet",
+                  "text": "Un avion MiG sovietic pe un piedestal servește drept monument distinctiv în Karshi.",
+                  "category": "historical",
+                  "coords": [
+                        65.800967,
+                        38.867949
+                  ]
+            },
+            {
+                  "name": "Bouling",
+                  "text": "Un centru de agrement modern în Karshi, cu piste de bowling și divertisment pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        65.783565,
+                        38.84552
+                  ]
+            },
+            {
+                  "name": "Kurant",
+                  "text": "Un turn cu ceas distinctiv în centrul orașului, considerat un reper important în Karshi.",
+                  "category": "historical",
+                  "coords": [
+                        65.795188,
+                        38.83829
+                  ]
+            },
+            {
+                  "name": "Sharaf Bey Madrasah",
+                  "text": "Această clădire de învățământ din secolul al XIX-lea este un exemplu de arhitectură tradițională din cărămidă.",
+                  "category": "landmark",
+                  "coords": [
+                        65.803424,
+                        38.8739
+                  ]
+            },
+            {
+                  "name": "Qilichboy madrasasi",
+                  "text": "O școală islamică istorică cu mici chilii pentru studenți dispuse în jurul unei curți centrale.",
+                  "category": "landmark",
+                  "coords": [
+                        65.805649,
+                        38.86935
+                  ]
+            },
+            {
+                  "name": "Eski hammom",
+                  "text": "Rămășițele unei vechi băi publice care expun arhitectura termală tradițională a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        65.804399,
+                        38.8688
+                  ]
+            },
+            {
+                  "name": "Odina masjid va madrasasi",
+                  "text": "Această moschee din secolul al XIV-lea a fost construită pe ruinele unui palat mongol și este acum muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        65.803297,
+                        38.867699
+                  ]
+            },
+            {
+                  "name": "Mulla To‘ychi nomidagi Qashqadaryo viloyat musiqali drama teatri",
+                  "text": "Cel mai important teatru regional din Karshi, care găzduiește regulat spectacole de muzică și dramă.",
+                  "category": "cultural",
+                  "coords": [
+                        65.785572,
+                        38.840935
+                  ]
+            },
+            {
+                  "name": "HONOQOH jom`e masjidi",
+                  "text": "O moschee locală importantă care deservește cartierul istoric Khanako din orașul Karshi.",
+                  "category": "landmark",
+                  "coords": [
+                        65.792486,
+                        38.876866
+                  ]
+            },
+            {
+                  "name": "MAHOLLOT jom`e masjidi",
+                  "text": "O moschee centrală de vineri din Karshi, servind ca un important centru religios al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        65.800512,
+                        38.853114
+                  ]
+            },
+            {
+                  "name": "QUM QISHLOQ jom`e masjidi",
+                  "text": "Acest lăcaș de cult musulman din cartierul Kum Kishlak se remarcă prin arhitectura sa locală tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        65.809646,
+                        38.849241
+                  ]
+            },
+            {
+                  "name": "QILICHBEK QO'RG'ONCHA jom`e masjidi",
+                  "text": "O moschee comunitară locală din Karshi, care exemplifică stilul arhitectural islamic contemporan din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        65.773235,
+                        38.858013
+                  ]
+            },
+            {
+                  "name": "KO'K GUMBAZ jom`e masjidi",
+                  "text": "Această moschee istorică este cunoscută pentru cupola sa albastră, construită în secolul al XV-lea sub domnia lui Ulugh Beg.",
+                  "category": "landmark",
+                  "coords": [
+                        65.791443,
+                        38.863704
+                  ]
+            },
+            {
+                  "name": "Yangi bozor",
+                  "text": "Un bazar local plin de viață în Karshi, unde se vând fructe proaspete, legume și textile tradiționale uzbece.",
+                  "category": "cultural",
+                  "coords": [
+                        65.787272,
+                        38.852142
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Samolet",
+                  "text": "A Soviet-era MiG aircraft mounted on a pedestal, serving as a prominent city monument.",
+                  "category": "historical",
+                  "coords": [
+                        65.800967,
+                        38.867949
+                  ]
+            },
+            {
+                  "name": "Bouling",
+                  "text": "A modern recreational center in Karshi offering bowling lanes and family entertainment.",
+                  "category": "recreational",
+                  "coords": [
+                        65.783565,
+                        38.84552
+                  ]
+            },
+            {
+                  "name": "Kurant",
+                  "text": "A landmark clock tower standing in the city center, serving as a key reference point.",
+                  "category": "historical",
+                  "coords": [
+                        65.795188,
+                        38.83829
+                  ]
+            },
+            {
+                  "name": "Sharaf Bey Madrasah",
+                  "text": "A 19th-century educational building constructed with traditional regional brickwork.",
+                  "category": "landmark",
+                  "coords": [
+                        65.803424,
+                        38.8739
+                  ]
+            },
+            {
+                  "name": "Qilichboy madrasasi",
+                  "text": "A historic Islamic school featuring small student cells arranged around a central courtyard.",
+                  "category": "landmark",
+                  "coords": [
+                        65.805649,
+                        38.86935
+                  ]
+            },
+            {
+                  "name": "Eski hammom",
+                  "text": "The ruins of an ancient bathhouse showcasing traditional thermal architecture of the region.",
+                  "category": "historical",
+                  "coords": [
+                        65.804399,
+                        38.8688
+                  ]
+            },
+            {
+                  "name": "Odina masjid va madrasasi",
+                  "text": "A 14th-century mosque built on the site of a Mongol palace, now functioning as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        65.803297,
+                        38.867699
+                  ]
+            },
+            {
+                  "name": "Mulla To‘ychi nomidagi Qashqadaryo viloyat musiqali drama teatri",
+                  "text": "The primary regional theater in Karshi, hosting frequent musical and dramatic performances.",
+                  "category": "cultural",
+                  "coords": [
+                        65.785572,
+                        38.840935
+                  ]
+            },
+            {
+                  "name": "Cathedral Mosque KHANAKO",
+                  "text": "A significant local mosque serving the historic Khanako quarter of Karshi city.",
+                  "category": "landmark",
+                  "coords": [
+                        65.792486,
+                        38.876866
+                  ]
+            },
+            {
+                  "name": "Cathedral Mosque MAHALLOT",
+                  "text": "A central Friday mosque in Karshi, serving as a key religious center for the city.",
+                  "category": "landmark",
+                  "coords": [
+                        65.800512,
+                        38.853114
+                  ]
+            },
+            {
+                  "name": "Cathedral Mosque KUM KISHLAK",
+                  "text": "This Muslim place of worship in the Kum Kishlak neighborhood stands out for its traditional local architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        65.809646,
+                        38.849241
+                  ]
+            },
+            {
+                  "name": "Cathedral Mosque KILICHBEK KURGANCHA",
+                  "text": "A local community mosque in Karshi, exemplifying the region's contemporary Islamic architectural style.",
+                  "category": "landmark",
+                  "coords": [
+                        65.773235,
+                        38.858013
+                  ]
+            },
+            {
+                  "name": "Cathedral Mosque KOK GUMBAZ",
+                  "text": "This historic mosque is known for its namesake blue dome, constructed in the 15th century under Ulugh Beg.",
+                  "category": "landmark",
+                  "coords": [
+                        65.791443,
+                        38.863704
+                  ]
+            },
+            {
+                  "name": "Yangi bozor",
+                  "text": "A lively local bazaar in Karshi selling fresh fruit, vegetables, and traditional Uzbek textiles.",
+                  "category": "cultural",
+                  "coords": [
+                        65.787272,
+                        38.852142
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UZ-QA",
     coords: [65.7938, 38.8615],
@@ -509,7 +4190,340 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "kokand-cities-v2", "sights": {"de": [{"name": "Khanspalast", "text": "Der Palast von Khudayar Khan ist eine große historische Burg und ehemalige königliche Residenz in Kokand.", "category": "castle", "coords": [70.938035, 40.538696]}, {"name": "Hamza uy-muzeyi", "text": "Das Hausmuseum von Hamza Hakimzoda Niyoziy ist ein dem berühmten Schriftsteller gewidmetes Museum in Kokand.", "category": "museum", "coords": [70.946612, 40.531996]}, {"name": "Khuzhra muzei Mukimi", "text": "Das Hujra-Museum von Mukimi ist ein biographisches Museum in der Stadt Kokand.", "category": "museum", "coords": [70.945382, 40.528168]}, {"name": "Theater", "text": "Das Hamza Musik- und Dramatheater ist ein bedeutender kultureller Veranstaltungsort in Kokand.", "category": "cultural", "coords": [70.94953, 40.536084]}, {"name": "Gelehrtenmuseum", "text": "Das Museum der großen Gelehrten ist eine Bildungseinrichtung und ein Museum in Kokand.", "category": "museum", "coords": [70.950467, 40.536402]}, {"name": "Akvapark", "text": "Dieser lokale Wasserpark bietet Freizeitschwimmen und Wassersportaktivitäten in Kokand.", "category": "family", "coords": [70.942779, 40.536029]}, {"name": "Literaturnyi muzei G. Gulyama", "text": "Das Literaturmuseum G. Gulyam ist eine der Literatur gewidmete Kultureinrichtung in Kokand.", "category": "museum", "coords": [70.923608, 40.534827]}, {"name": "Dachmai-Schachon-Mausoleum", "text": "Die Dakhma-i-Shakhon ist ein bedeutendes monumentales Grabmal in Kokand.", "category": "historical", "coords": [70.954163, 40.538187]}, {"name": "Kamal-Kasi-Medrese", "text": "Die Kamol Kazi Madrasa ist eine architektonische und historische Sehenswürdigkeit in Kokand.", "category": "landmark", "coords": [70.944723, 40.532428]}], "hu": [{"name": "Xudoyorxon oʻrdasi", "text": "A Khudayar Kán palotája egy hatalmas történelmi kastély és egykori királyi rezidencia Kokandban.", "category": "castle", "coords": [70.938035, 40.538696]}, {"name": "Hamza uy-muzeyi", "text": "A Hamza Hakimzoda Niyoziy Házmúzeum a híres írónak szentelt múzeum Kokandban.", "category": "museum", "coords": [70.946612, 40.531996]}, {"name": "Khuzhra muzei Mukimi", "text": "A Mukimi Hujra-múzeuma egy életrajzi múzeum Kokand városában.", "category": "museum", "coords": [70.945382, 40.528168]}, {"name": "Muzykalno-dramaticheskii teatr imeni Khamzy", "text": "A Hamza Zenés és Drámai Színház egy kiemelkedő kulturális helyszín Kokandban.", "category": "cultural", "coords": [70.94953, 40.536084]}, {"name": "Muzei Velikikh myslitelei", "text": "A Nagy Tudósok Múzeuma egy oktatási intézmény és múzeum Kokandban.", "category": "museum", "coords": [70.950467, 40.536402]}, {"name": "Akvapark", "text": "Ez a helyi vízipark szabadidős úszást és vízi tevékenységeket kínál Kokandban.", "category": "family", "coords": [70.942779, 40.536029]}, {"name": "Literaturnyi muzei G. Gulyama", "text": "A G. Gulyam Irodalmi Múzeum egy irodalomnak szentelt kulturális intézmény Kokandban.", "category": "museum", "coords": [70.923608, 40.534827]}, {"name": "Usypalnitsa Dakhma-i-Shakhon", "text": "A Dakhma-i-Shakhon egy jelentős monumentális síremlék Kokandban.", "category": "historical", "coords": [70.954163, 40.538187]}, {"name": "Kamol kazi medrese", "text": "A Kamol Kazi Medresze egy építészeti és történelmi látványosság Kokandban.", "category": "landmark", "coords": [70.944723, 40.532428]}], "ro": [{"name": "Xudoyorxon oʻrdasi", "text": "Palatul lui Khudayar Khan este un mare castel istoric și fostă reședință regală din Kokand.", "category": "castle", "coords": [70.938035, 40.538696]}, {"name": "Hamza uy-muzeyi", "text": "Casa-muzeu a lui Hamza Hakimzoda Niyoziy este un muzeu dedicat celebrului scriitor din Kokand.", "category": "museum", "coords": [70.946612, 40.531996]}, {"name": "Khuzhra muzei Mukimi", "text": "Muzeul Hujra al lui Mukimi este un muzeu biografic situat în orașul Kokand.", "category": "museum", "coords": [70.945382, 40.528168]}, {"name": "Muzykalno-dramaticheskii teatr imeni Khamzy", "text": "Teatrul Muzical și Dramatic Hamza este un loc cultural proeminent din Kokand.", "category": "cultural", "coords": [70.94953, 40.536084]}, {"name": "Muzei Velikikh myslitelei", "text": "Muzeul Marilor Cărturari este o instituție de învățământ și un muzeu din Kokand.", "category": "museum", "coords": [70.950467, 40.536402]}, {"name": "Akvapark", "text": "Acest parc acvatic local oferă înot recreativ și activități acvatice în Kokand.", "category": "family", "coords": [70.942779, 40.536029]}, {"name": "Literaturnyi muzei G. Gulyama", "text": "Muzeul Literar G. Gulyam este o instituție culturală dedicată literaturii din Kokand.", "category": "museum", "coords": [70.923608, 40.534827]}, {"name": "Usypalnitsa Dakhma-i-Shakhon", "text": "Dakhma-i-Shakhon este un mormânt monumental semnificativ situat în Kokand.", "category": "historical", "coords": [70.954163, 40.538187]}, {"name": "Kamol kazi medrese", "text": "Madrasa Kamol Kazi este o atracție arhitecturală și istorică din Kokand.", "category": "landmark", "coords": [70.944723, 40.532428]}], "en": [{"name": "Palace of Khudayar Khan", "text": "The Palace of Khudayar Khan is a grand historical castle and former royal residence in Kokand.", "category": "castle", "coords": [70.938035, 40.538696]}, {"name": "House-museum of Hamza Hakimzoda Niyoziy", "text": "The House-museum of Hamza Hakimzoda Niyoziy is a museum dedicated to the famous writer in Kokand.", "category": "museum", "coords": [70.946612, 40.531996]}, {"name": "Hujra-museum of Mukimi", "text": "The Hujra-museum of Mukimi is a biographical museum situated in the city of Kokand.", "category": "museum", "coords": [70.945382, 40.528168]}, {"name": "Muzykalno-dramaticheskii teatr imeni Khamzy", "text": "The Hamza Musical and Drama Theatre is a prominent cultural venue in Kokand.", "category": "cultural", "coords": [70.94953, 40.536084]}, {"name": "Museum of the Great Scholars", "text": "The Museum of the Great Scholars is an educational institution and museum in Kokand.", "category": "museum", "coords": [70.950467, 40.536402]}, {"name": "Akvapark", "text": "This local water park offers recreational swimming and aquatic activities in Kokand.", "category": "family", "coords": [70.942779, 40.536029]}, {"name": "Literaturnyi muzei G. Gulyama", "text": "The G. Gulyam Literary Museum is a cultural institution dedicated to literature in Kokand.", "category": "museum", "coords": [70.923608, 40.534827]}, {"name": "Usypalnitsa Dakhma-i-Shakhon", "text": "The Dakhma-i-Shakhon is a significant monumental tomb located in Kokand.", "category": "historical", "coords": [70.954163, 40.538187]}, {"name": "Kamol kazi medrese", "text": "The Kamol Kazi Madrasa is an architectural and historical attraction in Kokand.", "category": "landmark", "coords": [70.944723, 40.532428]}]},
+    id: "kokand-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khanspalast",
+                  "text": "Der Palast von Khudayar Khan ist eine große historische Burg und ehemalige königliche Residenz in Kokand.",
+                  "category": "castle",
+                  "coords": [
+                        70.938035,
+                        40.538696
+                  ]
+            },
+            {
+                  "name": "Hamza uy-muzeyi",
+                  "text": "Hamza Hakimzoda Niyoziy Hausmuseum in Kokand.",
+                  "category": "museum",
+                  "coords": [
+                        70.946612,
+                        40.531996
+                  ]
+            },
+            {
+                  "name": "Khuzhra muzei Mukimi",
+                  "text": "Mukimi Hujra-Museum in Kokand.",
+                  "category": "museum",
+                  "coords": [
+                        70.945382,
+                        40.528168
+                  ]
+            },
+            {
+                  "name": "Theater",
+                  "text": "Das Hamza Musik- und Dramatheater ist ein bedeutender kultureller Veranstaltungsort in Kokand.",
+                  "category": "cultural",
+                  "coords": [
+                        70.94953,
+                        40.536084
+                  ]
+            },
+            {
+                  "name": "Gelehrtenmuseum",
+                  "text": "Museum der großen Gelehrten in Kokand.",
+                  "category": "museum",
+                  "coords": [
+                        70.950467,
+                        40.536402
+                  ]
+            },
+            {
+                  "name": "Akvapark",
+                  "text": "Dieser lokale Wasserpark bietet Freizeitschwimmen und Wassersportaktivitäten in Kokand.",
+                  "category": "family",
+                  "coords": [
+                        70.942779,
+                        40.536029
+                  ]
+            },
+            {
+                  "name": "Literaturnyi muzei G. Gulyama",
+                  "text": "Das Literaturmuseum G. Gulyam ist eine der Literatur gewidmete Kultureinrichtung in Kokand.",
+                  "category": "museum",
+                  "coords": [
+                        70.923608,
+                        40.534827
+                  ]
+            },
+            {
+                  "name": "Dachmai-Schachon-Mausoleum",
+                  "text": "Usypalnitsa Dakhma-i-Shakhon in Kokand.",
+                  "category": "historical",
+                  "coords": [
+                        70.954163,
+                        40.538187
+                  ]
+            },
+            {
+                  "name": "Kamal-Kasi-Medrese",
+                  "text": "Kamol-kazi-Medrese in Kokand.",
+                  "category": "landmark",
+                  "coords": [
+                        70.944723,
+                        40.532428
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Xudoyorxon oʻrdasi",
+                  "text": "A Khudayar Kán palotája egy hatalmas történelmi kastély és egykori királyi rezidencia Kokandban.",
+                  "category": "castle",
+                  "coords": [
+                        70.938035,
+                        40.538696
+                  ]
+            },
+            {
+                  "name": "Hamza uy-muzeyi",
+                  "text": "Hamza Hakimzoda Niyoziy ház-múzeum Kokandban.",
+                  "category": "museum",
+                  "coords": [
+                        70.946612,
+                        40.531996
+                  ]
+            },
+            {
+                  "name": "Khuzhra muzei Mukimi",
+                  "text": "Mukimi hujra-múzeum Kokandban.",
+                  "category": "museum",
+                  "coords": [
+                        70.945382,
+                        40.528168
+                  ]
+            },
+            {
+                  "name": "Muzykalno-dramaticheskii teatr imeni Khamzy",
+                  "text": "A Hamza Zenés és Drámai Színház egy kiemelkedő kulturális helyszín Kokandban.",
+                  "category": "cultural",
+                  "coords": [
+                        70.94953,
+                        40.536084
+                  ]
+            },
+            {
+                  "name": "Muzei Velikikh myslitelei",
+                  "text": "Nagy Tudósok Múzeuma Kokandban.",
+                  "category": "museum",
+                  "coords": [
+                        70.950467,
+                        40.536402
+                  ]
+            },
+            {
+                  "name": "Akvapark",
+                  "text": "Ez a helyi vízipark szabadidős úszást és vízi tevékenységeket kínál Kokandban.",
+                  "category": "family",
+                  "coords": [
+                        70.942779,
+                        40.536029
+                  ]
+            },
+            {
+                  "name": "Literaturnyi muzei G. Gulyama",
+                  "text": "A G. Gulyam Irodalmi Múzeum egy irodalomnak szentelt kulturális intézmény Kokandban.",
+                  "category": "museum",
+                  "coords": [
+                        70.923608,
+                        40.534827
+                  ]
+            },
+            {
+                  "name": "Usypalnitsa Dakhma-i-Shakhon",
+                  "text": "Usypalnitsa Dakhma-i-Shakhon Kokandban.",
+                  "category": "historical",
+                  "coords": [
+                        70.954163,
+                        40.538187
+                  ]
+            },
+            {
+                  "name": "Kamol kazi medrese",
+                  "text": "Kamol kazi medresze Kokandban.",
+                  "category": "landmark",
+                  "coords": [
+                        70.944723,
+                        40.532428
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Xudoyorxon oʻrdasi",
+                  "text": "Palatul lui Khudayar Khan este un mare castel istoric și fostă reședință regală din Kokand.",
+                  "category": "castle",
+                  "coords": [
+                        70.938035,
+                        40.538696
+                  ]
+            },
+            {
+                  "name": "Hamza uy-muzeyi",
+                  "text": "Casa-muzeu Hamza Hakimzoda Niyoziy în Kokand.",
+                  "category": "museum",
+                  "coords": [
+                        70.946612,
+                        40.531996
+                  ]
+            },
+            {
+                  "name": "Khuzhra muzei Mukimi",
+                  "text": "Muzeul Hujra al lui Mukimi în Kokand.",
+                  "category": "museum",
+                  "coords": [
+                        70.945382,
+                        40.528168
+                  ]
+            },
+            {
+                  "name": "Muzykalno-dramaticheskii teatr imeni Khamzy",
+                  "text": "Teatrul Muzical și Dramatic Hamza este un loc cultural proeminent din Kokand.",
+                  "category": "cultural",
+                  "coords": [
+                        70.94953,
+                        40.536084
+                  ]
+            },
+            {
+                  "name": "Muzei Velikikh myslitelei",
+                  "text": "Muzeul Marilor Învățați în Kokand.",
+                  "category": "museum",
+                  "coords": [
+                        70.950467,
+                        40.536402
+                  ]
+            },
+            {
+                  "name": "Akvapark",
+                  "text": "Acest parc acvatic local oferă înot recreativ și activități acvatice în Kokand.",
+                  "category": "family",
+                  "coords": [
+                        70.942779,
+                        40.536029
+                  ]
+            },
+            {
+                  "name": "Literaturnyi muzei G. Gulyama",
+                  "text": "Muzeul Literar G. Gulyam este o instituție culturală dedicată literaturii din Kokand.",
+                  "category": "museum",
+                  "coords": [
+                        70.923608,
+                        40.534827
+                  ]
+            },
+            {
+                  "name": "Usypalnitsa Dakhma-i-Shakhon",
+                  "text": "Usypalnitsa Dakhma-i-Shakhon în Kokand.",
+                  "category": "historical",
+                  "coords": [
+                        70.954163,
+                        40.538187
+                  ]
+            },
+            {
+                  "name": "Kamol kazi medrese",
+                  "text": "Medrese Kamol kazi în Kokand.",
+                  "category": "landmark",
+                  "coords": [
+                        70.944723,
+                        40.532428
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palace of Khudayar Khan",
+                  "text": "The Palace of Khudayar Khan is a grand historical castle and former royal residence in Kokand.",
+                  "category": "castle",
+                  "coords": [
+                        70.938035,
+                        40.538696
+                  ]
+            },
+            {
+                  "name": "House-museum of Hamza Hakimzoda Niyoziy",
+                  "text": "House-museum of Hamza Hakimzoda Niyoziy in Kokand.",
+                  "category": "museum",
+                  "coords": [
+                        70.946612,
+                        40.531996
+                  ]
+            },
+            {
+                  "name": "Hujra-museum of Mukimi",
+                  "text": "Hujra-museum of Mukimi in Kokand.",
+                  "category": "museum",
+                  "coords": [
+                        70.945382,
+                        40.528168
+                  ]
+            },
+            {
+                  "name": "Muzykalno-dramaticheskii teatr imeni Khamzy",
+                  "text": "The Hamza Musical and Drama Theatre is a prominent cultural venue in Kokand.",
+                  "category": "cultural",
+                  "coords": [
+                        70.94953,
+                        40.536084
+                  ]
+            },
+            {
+                  "name": "Museum of the Great Scholars",
+                  "text": "Museum of the Great Scholars in Kokand.",
+                  "category": "museum",
+                  "coords": [
+                        70.950467,
+                        40.536402
+                  ]
+            },
+            {
+                  "name": "Akvapark",
+                  "text": "This local water park offers recreational swimming and aquatic activities in Kokand.",
+                  "category": "family",
+                  "coords": [
+                        70.942779,
+                        40.536029
+                  ]
+            },
+            {
+                  "name": "Literaturnyi muzei G. Gulyama",
+                  "text": "The G. Gulyam Literary Museum is a cultural institution dedicated to literature in Kokand.",
+                  "category": "museum",
+                  "coords": [
+                        70.923608,
+                        40.534827
+                  ]
+            },
+            {
+                  "name": "Usypalnitsa Dakhma-i-Shakhon",
+                  "text": "Usypalnitsa Dakhma-i-Shakhon in Kokand.",
+                  "category": "historical",
+                  "coords": [
+                        70.954163,
+                        40.538187
+                  ]
+            },
+            {
+                  "name": "Kamol kazi medrese",
+                  "text": "Kamol kazi madrasa in Kokand.",
+                  "category": "landmark",
+                  "coords": [
+                        70.944723,
+                        40.532428
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UZ-FA",
     coords: [70.9389, 40.5286],
@@ -912,7 +4926,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             },
             {
                   "name": "Cherkov",
-                  "text": "Das Cherkov ist ein Museum zur lokalen Geschichte und Kultur in Dschizzach.",
+                  "text": "Cherkov-Museum in Jizzakh.",
                   "category": "museum",
                   "coords": [
                         67.822773,
@@ -1004,7 +5018,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             },
             {
                   "name": "Cherkov",
-                  "text": "A Cherkov egy helyi történelemnek és kultúrának szentelt múzeum Dschizzachban.",
+                  "text": "Cherkov Múzeum Jizzakhban.",
                   "category": "museum",
                   "coords": [
                         67.822773,
@@ -1096,7 +5110,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             },
             {
                   "name": "Cherkov",
-                  "text": "Cherkov este un muzeu dedicat istoriei și culturii locale din Dschizzach.",
+                  "text": "Muzeul Cherkov în Jizzakh.",
                   "category": "museum",
                   "coords": [
                         67.822773,
@@ -1188,7 +5202,7 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
             },
             {
                   "name": "Cherkov",
-                  "text": "The Cherkov is a museum dedicated to local history and culture in Dschizzach.",
+                  "text": "Cherkov museum in Jizzakh.",
                   "category": "museum",
                   "coords": [
                         67.822773,
@@ -1451,7 +5465,412 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "chirchiq-cities-v2",
+    id: "chirchiq-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tank",
+                  "text": "Ein Militärdenkmal mit einem sowjetischen Panzer, das an die Verteidigungsgeschichte der Stadt erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        69.551367,
+                        41.474452
+                  ]
+            },
+            {
+                  "name": "Alisher Navoiy yodgorligi",
+                  "text": "Ein Denkmal für Alischer Nawoi, den großen turksprachigen Dichter, Philosophen und Staatsmann.",
+                  "category": "historical",
+                  "coords": [
+                        69.583987,
+                        41.471125
+                  ]
+            },
+            {
+                  "name": "Shalandin",
+                  "text": "Ein Denkmal zu Ehren des Panzerkommandanten Waldemar Schalandin, eines Helden der Sowjetunion.",
+                  "category": "historical",
+                  "coords": [
+                        69.576554,
+                        41.48217
+                  ]
+            },
+            {
+                  "name": "Muzei vooruzheniia",
+                  "text": "Ein Museum, das verschiedene historische und moderne Militärausrüstungen sowie gepanzerte Fahrzeuge zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        69.575674,
+                        41.479902
+                  ]
+            },
+            {
+                  "name": "Madaniyat saroyi",
+                  "text": "Ein lokales Kulturzentrum, das Räumlichkeiten für Kunstausstellungen, Theater und Musikveranstaltungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        69.580218,
+                        41.473161
+                  ]
+            },
+            {
+                  "name": "AKVAPARK CHIRCHIK FUN N FOOD VILLAGE",
+                  "text": "Ein familienfreundlicher Wasserpark mit verschiedenen Rutschen und Schwimmbecken zur Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        69.593659,
+                        41.478491
+                  ]
+            },
+            {
+                  "name": "Gorodskoi park kul'tury i otdykha",
+                  "text": "Die zentrale Grünanlage der Stadt mit Spazierwegen und Erholungsflächen für die Bürger.",
+                  "category": "recreational",
+                  "coords": [
+                        69.594281,
+                        41.480101
+                  ]
+            },
+            {
+                  "name": "Tserkov' Adventistov Sed'mogo Dnia",
+                  "text": "Ein christliches Gotteshaus, das der lokalen Gemeinde der Siebenten-Tags-Adventisten dient.",
+                  "category": "religious",
+                  "coords": [
+                        69.57944,
+                        41.488877
+                  ]
+            },
+            {
+                  "name": "Chirchiq shahar markaziy jome' masjidi",
+                  "text": "Diese zentrale Moschee dient als das wichtigste islamische Gebetshaus der Stadt Tschirtschik.",
+                  "category": "landmark",
+                  "coords": [
+                        69.590776,
+                        41.481847
+                  ]
+            },
+            {
+                  "name": "Tsentral'nyi rynok",
+                  "text": "Der zentrale Markt von Tschirtschik bietet eine große Auswahl an lokalen Lebensmitteln und Waren.",
+                  "category": "cultural",
+                  "coords": [
+                        69.591753,
+                        41.473578
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "Dieser traditionelle Basar in Tschirtschik ist bekannt für sein lebhaftes Treiben und regionale Produkte.",
+                  "category": "cultural",
+                  "coords": [
+                        69.578558,
+                        41.485259
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tank",
+                  "text": "Szovjet tankot ábrázoló katonai emlékmű, amely a város védelmi történelmére emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        69.551367,
+                        41.474452
+                  ]
+            },
+            {
+                  "name": "Alisher Navoiy yodgorligi",
+                  "text": "Alisher Navoiy, a nagy török nyelvű költő, filozófus és államférfi előtt tisztelgő emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        69.583987,
+                        41.471125
+                  ]
+            },
+            {
+                  "name": "Shalandin",
+                  "text": "Waldemar Shalandin páncélosparancsnok, a Szovjetunió Hőse előtt tisztelgő emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        69.576554,
+                        41.48217
+                  ]
+            },
+            {
+                  "name": "Muzei vooruzheniia",
+                  "text": "Történelmi és modern katonai felszereléseket, valamint páncélozott járműveket bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        69.575674,
+                        41.479902
+                  ]
+            },
+            {
+                  "name": "Madaniyat saroyi",
+                  "text": "Helyi kulturális központ, amely művészeti kiállításoknak, színházi és zenei esteknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        69.580218,
+                        41.473161
+                  ]
+            },
+            {
+                  "name": "AKVAPARK CHIRCHIK FUN N FOOD VILLAGE",
+                  "text": "Családbarát vízi park különféle csúszdákkal és úszómedencékkel a kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        69.593659,
+                        41.478491
+                  ]
+            },
+            {
+                  "name": "Gorodskoi park kul'tury i otdykha",
+                  "text": "A város központi zöldterülete sétautakkal és pihenőhelyekkel a lakók számára.",
+                  "category": "recreational",
+                  "coords": [
+                        69.594281,
+                        41.480101
+                  ]
+            },
+            {
+                  "name": "Tserkov' Adventistov Sed'mogo Dnia",
+                  "text": "Keresztény imaház, amely a Hetednapi Adventista Egyház helyi közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        69.57944,
+                        41.488877
+                  ]
+            },
+            {
+                  "name": "Chirchiq shahar markaziy jome' masjidi",
+                  "text": "Ez a központi mecset Csircsik városának legfontosabb iszlám imaháza.",
+                  "category": "landmark",
+                  "coords": [
+                        69.590776,
+                        41.481847
+                  ]
+            },
+            {
+                  "name": "Tsentral'nyi rynok",
+                  "text": "Csircsik központi piaca helyi élelmiszerek és áruk széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        69.591753,
+                        41.473578
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "Ez a hagyományos csircsiki bazár élénk hangulatáról és regionális termékeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        69.578558,
+                        41.485259
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tank",
+                  "text": "Un monument militar cu un tanc sovietic, care comemorează istoria apărării orașului.",
+                  "category": "historical",
+                  "coords": [
+                        69.551367,
+                        41.474452
+                  ]
+            },
+            {
+                  "name": "Alisher Navoiy yodgorligi",
+                  "text": "Un monument dedicat lui Alisher Navoi, marele poet, filosof și om de stat de limbă turcică.",
+                  "category": "historical",
+                  "coords": [
+                        69.583987,
+                        41.471125
+                  ]
+            },
+            {
+                  "name": "Shalandin",
+                  "text": "Un monument în cinstea comandantului de tanc Waldemar Shalandin, un erou al Uniunii Sovietice.",
+                  "category": "historical",
+                  "coords": [
+                        69.576554,
+                        41.48217
+                  ]
+            },
+            {
+                  "name": "Muzei vooruzheniia",
+                  "text": "Un muzeu care prezintă diverse echipamente militare istorice și moderne, precum și vehicule blindate.",
+                  "category": "museum",
+                  "coords": [
+                        69.575674,
+                        41.479902
+                  ]
+            },
+            {
+                  "name": "Madaniyat saroyi",
+                  "text": "Un centru cultural local care oferă spații pentru expoziții de artă, teatru și spectacole muzicale.",
+                  "category": "cultural",
+                  "coords": [
+                        69.580218,
+                        41.473161
+                  ]
+            },
+            {
+                  "name": "AKVAPARK CHIRCHIK FUN N FOOD VILLAGE",
+                  "text": "Un parc acvatic ideal pentru familii, cu diverse tobogane și piscine pentru recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        69.593659,
+                        41.478491
+                  ]
+            },
+            {
+                  "name": "Gorodskoi park kul'tury i otdykha",
+                  "text": "Spațiul verde central al orașului, dotat cu alei de plimbare și zone de recreere pentru cetățeni.",
+                  "category": "recreational",
+                  "coords": [
+                        69.594281,
+                        41.480101
+                  ]
+            },
+            {
+                  "name": "Tserkov' Adventistov Sed'mogo Dnia",
+                  "text": "Un lăcaș de cult creștin care deservește comunitatea locală a Adventiștilor de Ziua a Șaptea.",
+                  "category": "religious",
+                  "coords": [
+                        69.57944,
+                        41.488877
+                  ]
+            },
+            {
+                  "name": "Chirchiq shahar markaziy jome' masjidi",
+                  "text": "Această moschee centrală servește drept principalul lăcaș de cult islamic din orașul Chirchiq.",
+                  "category": "landmark",
+                  "coords": [
+                        69.590776,
+                        41.481847
+                  ]
+            },
+            {
+                  "name": "Tsentral'nyi rynok",
+                  "text": "Piața centrală din Chirchiq oferă o gamă largă de alimente și produse locale.",
+                  "category": "cultural",
+                  "coords": [
+                        69.591753,
+                        41.473578
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "Acest bazar tradițional din Chirchiq este cunoscut pentru atmosfera sa plină de viață și produsele regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        69.578558,
+                        41.485259
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tank",
+                  "text": "A military monument featuring a Soviet tank, commemorating the city's history of defense.",
+                  "category": "historical",
+                  "coords": [
+                        69.551367,
+                        41.474452
+                  ]
+            },
+            {
+                  "name": "Alisher Navoiy",
+                  "text": "A monument dedicated to Alisher Navoi, the great Turkic poet, philosopher, and statesman.",
+                  "category": "historical",
+                  "coords": [
+                        69.583987,
+                        41.471125
+                  ]
+            },
+            {
+                  "name": "Shalandin",
+                  "text": "A monument honoring the tank commander Waldemar Shalandin, a Hero of the Soviet Union.",
+                  "category": "historical",
+                  "coords": [
+                        69.576554,
+                        41.48217
+                  ]
+            },
+            {
+                  "name": "Muzei vooruzheniia",
+                  "text": "A museum showcasing various historical and modern military equipment and armored vehicles.",
+                  "category": "museum",
+                  "coords": [
+                        69.575674,
+                        41.479902
+                  ]
+            },
+            {
+                  "name": "Madaniyat saroyi",
+                  "text": "A local cultural center providing space for art exhibitions, theater, and music performances.",
+                  "category": "cultural",
+                  "coords": [
+                        69.580218,
+                        41.473161
+                  ]
+            },
+            {
+                  "name": "AKVAPARK CHIRCHIK FUN N FOOD VILLAGE",
+                  "text": "A family-friendly water park featuring various slides and swimming pools for recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        69.593659,
+                        41.478491
+                  ]
+            },
+            {
+                  "name": "Gorodskoi park kul'tury i otdykha",
+                  "text": "The city's central green space, equipped with walking paths and recreational areas for citizens.",
+                  "category": "recreational",
+                  "coords": [
+                        69.594281,
+                        41.480101
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist Church",
+                  "text": "A Christian house of worship serving the local Seventh-day Adventist congregation.",
+                  "category": "religious",
+                  "coords": [
+                        69.57944,
+                        41.488877
+                  ]
+            },
+            {
+                  "name": "Chirchik city central mosque",
+                  "text": "This central mosque serves as the primary Islamic place of worship in the city of Chirchiq.",
+                  "category": "landmark",
+                  "coords": [
+                        69.590776,
+                        41.481847
+                  ]
+            },
+            {
+                  "name": "Tsentral'nyi rynok",
+                  "text": "The central market of Chirchiq offers a wide variety of local food and goods.",
+                  "category": "cultural",
+                  "coords": [
+                        69.591753,
+                        41.473578
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "This traditional bazaar in Chirchiq is known for its lively atmosphere and regional products.",
+                  "category": "cultural",
+                  "coords": [
+                        69.578558,
+                        41.485259
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UZ-TO",
     coords: [69.5822, 41.4689],
@@ -1579,7 +5998,484 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "olmaliq-cities-v2",
+    id: "olmaliq-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Olmaliq shahar O'lkashunoslik muzeyi",
+                  "text": "Dieses Heimatmuseum präsentiert archäologische Funde und Exponate zur Industriegeschichte von Olmaliq.",
+                  "category": "museum",
+                  "coords": [
+                        69.592506,
+                        40.866262
+                  ]
+            },
+            {
+                  "name": "Welcom to Almalyk",
+                  "text": "Ein markantes Begrüßungsdenkmal am Stadteingang, das Besucher in der Bergbaustadt willkommen heißt.",
+                  "category": "historical",
+                  "coords": [
+                        69.59167,
+                        40.874883
+                  ]
+            },
+            {
+                  "name": "Akvapark Del'fin",
+                  "text": "Ein beliebter Wasserpark mit Delfin-Thematik, der verschiedene Rutschen und Kinderbecken bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        69.609937,
+                        40.848188
+                  ]
+            },
+            {
+                  "name": "Tserkov' Evangel'skikh Khristian <<Sol' zemli>>",
+                  "text": "Eine evangelische Kirche, die als Treffpunkt für die lokale christliche Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        69.584104,
+                        40.85168
+                  ]
+            },
+            {
+                  "name": "Olmaliq shahar xalq ta'limi bo'limi",
+                  "text": "Ein administratives Gebäude, das in einem architektonisch interessanten Stil für Bildungszwecke genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        69.591375,
+                        40.849402
+                  ]
+            },
+            {
+                  "name": "Ramazoni Sharif jom`e masjidi",
+                  "text": "Eine zentrale Freitagsmoschee, die besonders während des Fastenmonats Ramadan ein wichtiger Anlaufpunkt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        69.61132,
+                        40.857544
+                  ]
+            },
+            {
+                  "name": "Khristianskaia presviterianskaia tserkov'",
+                  "text": "Diese presbyterianische Kirche ist ein Ort für christliche Gottesdienste und Gemeinschaft in Olmaliq.",
+                  "category": "landmark",
+                  "coords": [
+                        69.598518,
+                        40.871509
+                  ]
+            },
+            {
+                  "name": "Hilol jome' masjidi",
+                  "text": "Eine muslimische Gebetsstätte, die für ihre helle Fassade und das einladende Portal bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        69.590438,
+                        40.883928
+                  ]
+            },
+            {
+                  "name": "Khram Uspeniia Presviatoi Bogoroditsy",
+                  "text": "Eine russisch-orthodoxe Kirche, die der Entschlafung der Gottesmutter gewidmet ist und durch ihre Zwiebeltürme auffällt.",
+                  "category": "landmark",
+                  "coords": [
+                        69.623072,
+                        40.854399
+                  ]
+            },
+            {
+                  "name": "gul do'kon",
+                  "text": "Ein farbenfroher Blumenmarkt, der frische regionale Schnittblumen und Zierpflanzen anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        69.596049,
+                        40.852741
+                  ]
+            },
+            {
+                  "name": "Raduga",
+                  "text": "Ein lokaler Marktplatz, auf dem Händler eine Vielzahl von Haushaltswaren und Lebensmitteln verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        69.596472,
+                        40.851437
+                  ]
+            },
+            {
+                  "name": "Oidin",
+                  "text": "Ein belebtes Handelsviertel, das für seine Auswahl an Textilien und täglichen Gebrauchsgegenständen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        69.593044,
+                        40.865044
+                  ]
+            },
+            {
+                  "name": "Oidin veshchevoi",
+                  "text": "Ein spezialisierter Bekleidungsmarkt, auf dem traditionelle usbekische Stoffe und moderne Mode angeboten werden.",
+                  "category": "cultural",
+                  "coords": [
+                        69.592559,
+                        40.863071
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Olmaliq shahar O'lkashunoslik muzeyi",
+                  "text": "Ez a helytörténeti múzeum régészeti leleteket és Almaliq ipartörténeti kiállításait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        69.592506,
+                        40.866262
+                  ]
+            },
+            {
+                  "name": "Welcom to Almalyk",
+                  "text": "Jellegzetes üdvözlő emlékmű a város határában, amely a bányászvárosba érkezőket köszönti.",
+                  "category": "historical",
+                  "coords": [
+                        69.59167,
+                        40.874883
+                  ]
+            },
+            {
+                  "name": "Akvapark Del'fin",
+                  "text": "Népszerű delfin-témájú vízi park, amely különféle csúszdákat és gyermekmedencéket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        69.609937,
+                        40.848188
+                  ]
+            },
+            {
+                  "name": "Tserkov' Evangel'skikh Khristian <<Sol' zemli>>",
+                  "text": "Evangélikus templom, amely a helyi keresztény közösség találkozóhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        69.584104,
+                        40.85168
+                  ]
+            },
+            {
+                  "name": "Olmaliq shahar xalq ta'limi bo'limi",
+                  "text": "Adminisztratív épület, amelyet építészetileg érdekes stílusban oktatási célokra használnak.",
+                  "category": "religious",
+                  "coords": [
+                        69.591375,
+                        40.849402
+                  ]
+            },
+            {
+                  "name": "Ramazoni Sharif jom`e masjidi",
+                  "text": "Központi pénteki mecset, amely különösen a Ramadán böjti hónapja alatt fontos helyszín.",
+                  "category": "landmark",
+                  "coords": [
+                        69.61132,
+                        40.857544
+                  ]
+            },
+            {
+                  "name": "Khristianskaia presviterianskaia tserkov'",
+                  "text": "Ez a presbiteriánus templom a keresztény istentiszteletek és a közösségi élet helyszíne Almaliqban.",
+                  "category": "landmark",
+                  "coords": [
+                        69.598518,
+                        40.871509
+                  ]
+            },
+            {
+                  "name": "Hilol jome' masjidi",
+                  "text": "Muszlim imaház, amely világos homlokzatáról és hívogató kapujáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        69.590438,
+                        40.883928
+                  ]
+            },
+            {
+                  "name": "Khram Uspeniia Presviatoi Bogoroditsy",
+                  "text": "Orosz ortodox templom, amelyet az Istenszülő elszenderedésének szenteltek, és hagymakupoláiról nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        69.623072,
+                        40.854399
+                  ]
+            },
+            {
+                  "name": "gul do'kon",
+                  "text": "Színes virágpiac, ahol friss regionális vágott virágokat és dísznövényeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        69.596049,
+                        40.852741
+                  ]
+            },
+            {
+                  "name": "Raduga",
+                  "text": "Helyi piactér, ahol az árusok különféle háztartási cikkeket és élelmiszereket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        69.596472,
+                        40.851437
+                  ]
+            },
+            {
+                  "name": "Oidin",
+                  "text": "Nyüzsgő kereskedelmi negyed, amely textilválasztékáról és napi használati cikkeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        69.593044,
+                        40.865044
+                  ]
+            },
+            {
+                  "name": "Oidin veshchevoi",
+                  "text": "Speciális ruhapiac, ahol hagyományos üzbég szöveteket és modern divatárukat kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        69.592559,
+                        40.863071
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Olmaliq shahar O'lkashunoslik muzeyi",
+                  "text": "Acest muzeu de istorie locală prezintă descoperiri arheologice și exponate despre istoria industrială a orașului Olmaliq.",
+                  "category": "museum",
+                  "coords": [
+                        69.592506,
+                        40.866262
+                  ]
+            },
+            {
+                  "name": "Welcom to Almalyk",
+                  "text": "Un monument distinctiv de bun venit la intrarea în oraș, care întâmpină vizitatorii în orașul minier.",
+                  "category": "historical",
+                  "coords": [
+                        69.59167,
+                        40.874883
+                  ]
+            },
+            {
+                  "name": "Akvapark Del'fin",
+                  "text": "Un parc acvatic popular cu tematică de delfini, care oferă diverse tobogane și piscine pentru copii.",
+                  "category": "recreational",
+                  "coords": [
+                        69.609937,
+                        40.848188
+                  ]
+            },
+            {
+                  "name": "Tserkov' Evangel'skikh Khristian <<Sol' zemli>>",
+                  "text": "O biserică evanghelică ce servește ca loc de întâlnire pentru comunitatea creștină locală.",
+                  "category": "landmark",
+                  "coords": [
+                        69.584104,
+                        40.85168
+                  ]
+            },
+            {
+                  "name": "Olmaliq shahar xalq ta'limi bo'limi",
+                  "text": "O clădire administrativă utilizată în scopuri educaționale, având un stil arhitectural interesant.",
+                  "category": "religious",
+                  "coords": [
+                        69.591375,
+                        40.849402
+                  ]
+            },
+            {
+                  "name": "Ramazoni Sharif jom`e masjidi",
+                  "text": "O moschee centrală de vineri, care este un punct de reper important mai ales în luna de post Ramadan.",
+                  "category": "landmark",
+                  "coords": [
+                        69.61132,
+                        40.857544
+                  ]
+            },
+            {
+                  "name": "Khristianskaia presviterianskaia tserkov'",
+                  "text": "Această biserică prezbiteriană este un loc pentru slujbe creștine și viață comunitară în Olmaliq.",
+                  "category": "landmark",
+                  "coords": [
+                        69.598518,
+                        40.871509
+                  ]
+            },
+            {
+                  "name": "Hilol jome' masjidi",
+                  "text": "Un lăcaș de rugăciune musulman cunoscut pentru fațada sa luminoasă și portalul primitor.",
+                  "category": "landmark",
+                  "coords": [
+                        69.590438,
+                        40.883928
+                  ]
+            },
+            {
+                  "name": "Khram Uspeniia Presviatoi Bogoroditsy",
+                  "text": "O biserică ortodoxă rusă dedicată Adormirii Maicii Domnului, remarcabilă prin cupolele sale în formă de ceapă.",
+                  "category": "landmark",
+                  "coords": [
+                        69.623072,
+                        40.854399
+                  ]
+            },
+            {
+                  "name": "gul do'kon",
+                  "text": "O piață de flori colorată, care oferă flori proaspete tăiate din regiune și plante ornamentale.",
+                  "category": "cultural",
+                  "coords": [
+                        69.596049,
+                        40.852741
+                  ]
+            },
+            {
+                  "name": "Raduga",
+                  "text": "O piață locală unde comercianții vând o varietate de articole de uz casnic și alimente.",
+                  "category": "cultural",
+                  "coords": [
+                        69.596472,
+                        40.851437
+                  ]
+            },
+            {
+                  "name": "Oidin",
+                  "text": "O zonă comercială plină de viață, cunoscută pentru selecția sa de textile și articole de uz zilnic.",
+                  "category": "cultural",
+                  "coords": [
+                        69.593044,
+                        40.865044
+                  ]
+            },
+            {
+                  "name": "Oidin veshchevoi",
+                  "text": "O piață specializată de îmbrăcăminte, unde se vând țesături tradiționale uzbece și modă modernă.",
+                  "category": "cultural",
+                  "coords": [
+                        69.592559,
+                        40.863071
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Olmaliq shahar O'lkashunoslik muzeyi",
+                  "text": "This local history museum showcases archaeological finds and exhibits on the industrial history of Olmaliq.",
+                  "category": "museum",
+                  "coords": [
+                        69.592506,
+                        40.866262
+                  ]
+            },
+            {
+                  "name": "Welcome to Almalyl",
+                  "text": "A prominent welcome monument at the city entrance that greets visitors to the mining town.",
+                  "category": "historical",
+                  "coords": [
+                        69.59167,
+                        40.874883
+                  ]
+            },
+            {
+                  "name": "Akvapark Del'fin",
+                  "text": "A popular dolphin-themed water park offering various slides and children's pools.",
+                  "category": "recreational",
+                  "coords": [
+                        69.609937,
+                        40.848188
+                  ]
+            },
+            {
+                  "name": "Tserkov' Evangel'skikh Khristian <<Sol' zemli>>",
+                  "text": "An evangelical church serving as a gathering place for the local Christian community.",
+                  "category": "landmark",
+                  "coords": [
+                        69.584104,
+                        40.85168
+                  ]
+            },
+            {
+                  "name": "Olmaliq shahar xalq ta'limi bo'limi",
+                  "text": "An administrative building used for educational purposes, featuring an architecturally interesting style.",
+                  "category": "religious",
+                  "coords": [
+                        69.591375,
+                        40.849402
+                  ]
+            },
+            {
+                  "name": "Ramazoni Sharif jom`e masjidi",
+                  "text": "A central Friday mosque that is a major focal point especially during the fasting month of Ramadan.",
+                  "category": "landmark",
+                  "coords": [
+                        69.61132,
+                        40.857544
+                  ]
+            },
+            {
+                  "name": "Khristianskaia presviterianskaia tserkov'",
+                  "text": "This Presbyterian church is a site for Christian worship and community life in Olmaliq.",
+                  "category": "landmark",
+                  "coords": [
+                        69.598518,
+                        40.871509
+                  ]
+            },
+            {
+                  "name": "Hilol jome' masjidi",
+                  "text": "A Muslim prayer house known for its bright facade and welcoming portal.",
+                  "category": "landmark",
+                  "coords": [
+                        69.590438,
+                        40.883928
+                  ]
+            },
+            {
+                  "name": "Khram Uspeniia Presviatoi Bogoroditsy",
+                  "text": "A Russian Orthodox church dedicated to the Assumption of the Mother of God, notable for its onion domes.",
+                  "category": "landmark",
+                  "coords": [
+                        69.623072,
+                        40.854399
+                  ]
+            },
+            {
+                  "name": "gul do'kon",
+                  "text": "A colorful flower market offering fresh regional cut flowers and ornamental plants.",
+                  "category": "cultural",
+                  "coords": [
+                        69.596049,
+                        40.852741
+                  ]
+            },
+            {
+                  "name": "Raduga",
+                  "text": "A local marketplace where vendors sell a variety of household goods and food items.",
+                  "category": "cultural",
+                  "coords": [
+                        69.596472,
+                        40.851437
+                  ]
+            },
+            {
+                  "name": "Oidin",
+                  "text": "A busy commercial area known for its selection of textiles and daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        69.593044,
+                        40.865044
+                  ]
+            },
+            {
+                  "name": "Oidin veshchevoi",
+                  "text": "A specialized clothing market offering traditional Uzbek fabrics and modern fashion.",
+                  "category": "cultural",
+                  "coords": [
+                        69.592559,
+                        40.863071
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UZ-TO",
     coords: [69.5969, 40.8589],
@@ -1771,7 +6667,700 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "guliston-cities-v2",
+    id: "guliston-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sirdaryo viloyati davlat tarix va madaniyat muzeyi",
+                  "text": "Das staatliche Museum in Guliston dokumentiert die Geschichte und Kultur der Region Syrdarja.",
+                  "category": "museum",
+                  "coords": [
+                        68.771315,
+                        40.494012
+                  ]
+            },
+            {
+                  "name": "Gulistanland",
+                  "text": "Ein lokaler Freizeitpark in Guliston mit Fahrgeschäften und Grünanlagen für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        68.783546,
+                        40.497796
+                  ]
+            },
+            {
+                  "name": "Aqua Park",
+                  "text": "Ein Wasserpark in Guliston, der verschiedene Rutschen und Schwimmbecken für die Sommerfreizeit bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        68.779884,
+                        40.511123
+                  ]
+            },
+            {
+                  "name": "Olim Xoʻjayev nomidagi Sirdaryo viloyati musiqali drama teatri",
+                  "text": "Das nach Olim Khodjayev benannte Theater ist das kulturelle Zentrum für Musik und Drama in der Region.",
+                  "category": "cultural",
+                  "coords": [
+                        68.77663,
+                        40.494419
+                  ]
+            },
+            {
+                  "name": "Guliston amfiteatr",
+                  "text": "Ein modernes Freiluft-Amphitheater in Guliston, das als Veranstaltungsort für Konzerte und Festivals dient.",
+                  "category": "cultural",
+                  "coords": [
+                        68.777213,
+                        40.492514
+                  ]
+            },
+            {
+                  "name": "Kurant",
+                  "text": "Der zentrale Uhrturm von Guliston, ein markanter Treffpunkt im Herzen der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        68.766063,
+                        40.493719
+                  ]
+            },
+            {
+                  "name": "Zomin jom'e masjidi",
+                  "text": "Eine große Freitagsmoschee im Zaamin-Stil, die durch ihre traditionelle zentralasiatische Architektur besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        68.761784,
+                        40.476605
+                  ]
+            },
+            {
+                  "name": "Guliston jom`e masjidi",
+                  "text": "Die moderne Hauptmoschee von Guliston mit einem geräumigen Gebetssaal für die Stadtgemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        68.762773,
+                        40.493895
+                  ]
+            },
+            {
+                  "name": "jom'e masjid",
+                  "text": "Eine zentrale Freitagsmoschee in Guliston mit einem traditionell gestalteten Minarett.",
+                  "category": "landmark",
+                  "coords": [
+                        68.795263,
+                        40.476437
+                  ]
+            },
+            {
+                  "name": "Koreiskaia tserkov'",
+                  "text": "Eine christliche Kirche in Guliston, die der lokalen koreanischen Gemeinschaft (Koryo-saram) dient.",
+                  "category": "landmark",
+                  "coords": [
+                        68.772383,
+                        40.506931
+                  ]
+            },
+            {
+                  "name": "Iso o'g'li Muso jom`e masjidi",
+                  "text": "Diese Moschee in Guliston zeichnet sich durch ihre dekorative Fassade im klassischen usbekischen Stil aus.",
+                  "category": "landmark",
+                  "coords": [
+                        68.77555,
+                        40.48443
+                  ]
+            },
+            {
+                  "name": "Khram Sviatitelia Nikolaia, arkhiepiskopa Mir Likiiskikh, chudotvortsa",
+                  "text": "Eine russisch-orthodoxe Kirche in Guliston, die für die christliche Bevölkerung der Region erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        68.767531,
+                        40.497175
+                  ]
+            },
+            {
+                  "name": "Tavxid jom`e masjidi",
+                  "text": "Die Tavhid-Moschee ist ein markantes religiöses Bauwerk mit moderner islamischer Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        68.811937,
+                        40.489866
+                  ]
+            },
+            {
+                  "name": "Baraka",
+                  "text": "Ein 5306 Meter hoher Gipfel im Fangebirge, der für seine anspruchsvollen Kletterrouten und Kalksteinwände bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        68.77131,
+                        40.492125
+                  ]
+            },
+            {
+                  "name": "Iarmarka",
+                  "text": "Ein lebhafter Jahrmarkt, auf dem eine Vielzahl von Haushaltswaren, Textilien und lokalem Kunsthandwerk angeboten wird.",
+                  "category": "cultural",
+                  "coords": [
+                        68.767547,
+                        40.49582
+                  ]
+            },
+            {
+                  "name": "Veshchevoi rynok",
+                  "text": "Ein großer Warenmarkt, auf dem Einheimische Kleidung, Schuhe und verschiedene Textilprodukte finden.",
+                  "category": "cultural",
+                  "coords": [
+                        68.767076,
+                        40.494842
+                  ]
+            },
+            {
+                  "name": "Elga Khizmat",
+                  "text": "Ein lokaler Marktplatz in Guliston, der als wichtiger Knotenpunkt für den täglichen Handel und Dienstleistungen dient.",
+                  "category": "cultural",
+                  "coords": [
+                        68.780169,
+                        40.476134
+                  ]
+            },
+            {
+                  "name": "Allamurodov Akbar",
+                  "text": "Ein kleiner Nachbarschaftsmarkt, der eine Auswahl an frischen Erzeugnissen aus der Region Sirdaryo bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        68.779179,
+                        40.475969
+                  ]
+            },
+            {
+                  "name": "Khoziaestvennyi rynok",
+                  "text": "Ein Markt für Haushalts- und Eisenwaren, der Werkzeuge, Küchenutensilien und Heimwerkerbedarf anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        68.766828,
+                        40.491317
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sirdaryo viloyati davlat tarix va madaniyat muzeyi",
+                  "text": "A gulisztáni állami múzeum a Szir-darja régió történelmét és kultúráját dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        68.771315,
+                        40.494012
+                  ]
+            },
+            {
+                  "name": "Gulistanland",
+                  "text": "Helyi vidámpark Gulisztánban, játékokkal és zöldterületekkel a családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        68.783546,
+                        40.497796
+                  ]
+            },
+            {
+                  "name": "Aqua Park",
+                  "text": "Vizi vidámpark Gulisztánban, amely különféle csúszdákat és medencéket kínál a nyári kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        68.779884,
+                        40.511123
+                  ]
+            },
+            {
+                  "name": "Olim Xoʻjayev nomidagi Sirdaryo viloyati musiqali drama teatri",
+                  "text": "Az Olim Hodzsajevről elnevezett színház a régió zenei és drámai kulturális központja.",
+                  "category": "cultural",
+                  "coords": [
+                        68.77663,
+                        40.494419
+                  ]
+            },
+            {
+                  "name": "Guliston amfiteatr",
+                  "text": "Modern szabadtéri amfiteátrum Gulisztánban, amely koncertek és fesztiválok helyszíneként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        68.777213,
+                        40.492514
+                  ]
+            },
+            {
+                  "name": "Kurant",
+                  "text": "Gulisztán központi óratornya, jellegzetes találkozóhely a város szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        68.766063,
+                        40.493719
+                  ]
+            },
+            {
+                  "name": "Zomin jom'e masjidi",
+                  "text": "Nagy pénteki mecset Zámin stílusában, amely hagyományos közép-ázsiai építészetével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        68.761784,
+                        40.476605
+                  ]
+            },
+            {
+                  "name": "Guliston jom`e masjidi",
+                  "text": "Gulisztán modern főmecsetje, tágas imateremmel a városi közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        68.762773,
+                        40.493895
+                  ]
+            },
+            {
+                  "name": "jom'e masjid",
+                  "text": "Gulisztán központi pénteki mecsetje, hagyományos kialakítású minarettel.",
+                  "category": "landmark",
+                  "coords": [
+                        68.795263,
+                        40.476437
+                  ]
+            },
+            {
+                  "name": "Koreiskaia tserkov'",
+                  "text": "Keresztény templom Gulisztánban, amely a helyi koreai közösséget (Korjo-szaram) szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        68.772383,
+                        40.506931
+                  ]
+            },
+            {
+                  "name": "Iso o'g'li Muso jom`e masjidi",
+                  "text": "Ez a gulisztáni mecset a klasszikus üzbég stílusú dekoratív homlokzatáról nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        68.77555,
+                        40.48443
+                  ]
+            },
+            {
+                  "name": "Khram Sviatitelia Nikolaia, arkhiepiskopa Mir Likiiskikh, chudotvortsa",
+                  "text": "Orosz ortodox templom Gulisztánban, amely a régió keresztény lakossága számára épült.",
+                  "category": "landmark",
+                  "coords": [
+                        68.767531,
+                        40.497175
+                  ]
+            },
+            {
+                  "name": "Tavxid jom`e masjidi",
+                  "text": "A Tavhid-mecset egy jellegzetes vallási épület, modern iszlám építészeti stílussal.",
+                  "category": "landmark",
+                  "coords": [
+                        68.811937,
+                        40.489866
+                  ]
+            },
+            {
+                  "name": "Baraka",
+                  "text": "Az 5306 méter magas Ghaznich-csúcs a Fann-hegységben, amely kihívást jelentő mászóútjairól és mészkőfalairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        68.77131,
+                        40.492125
+                  ]
+            },
+            {
+                  "name": "Iarmarka",
+                  "text": "Egy élénk vásár, ahol háztartási cikkek, textilek és helyi kézműves termékek széles választékát kínálják.",
+                  "category": "cultural",
+                  "coords": [
+                        68.767547,
+                        40.49582
+                  ]
+            },
+            {
+                  "name": "Veshchevoi rynok",
+                  "text": "Egy nagy árupiac, ahol a helyiek ruházatot, cipőket és különféle textiltermékeket találnak.",
+                  "category": "cultural",
+                  "coords": [
+                        68.767076,
+                        40.494842
+                  ]
+            },
+            {
+                  "name": "Elga Khizmat",
+                  "text": "Guliszton egyik helyi piaca, amely a mindennapi kereskedelem és szolgáltatások fontos csomópontja.",
+                  "category": "cultural",
+                  "coords": [
+                        68.780169,
+                        40.476134
+                  ]
+            },
+            {
+                  "name": "Allamurodov Akbar",
+                  "text": "Egy kis szomszédsági piac, amely a Szirdarja régióból származó friss termékek választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        68.779179,
+                        40.475969
+                  ]
+            },
+            {
+                  "name": "Khoziaestvennyi rynok",
+                  "text": "Háztartási és barkácspiac, ahol szerszámokat, konyhai eszközöket és lakásfelszereléseket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        68.766828,
+                        40.491317
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sirdaryo viloyati davlat tarix va madaniyat muzeyi",
+                  "text": "Muzeul de stat din Guliston documentează istoria și cultura regiunii Sîrdaria.",
+                  "category": "museum",
+                  "coords": [
+                        68.771315,
+                        40.494012
+                  ]
+            },
+            {
+                  "name": "Gulistanland",
+                  "text": "Un parc de distracții local în Guliston, cu atracții și spații verzi pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        68.783546,
+                        40.497796
+                  ]
+            },
+            {
+                  "name": "Aqua Park",
+                  "text": "Un parc acvatic în Guliston, care oferă diverse tobogane și piscine pentru recreere pe timp de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        68.779884,
+                        40.511123
+                  ]
+            },
+            {
+                  "name": "Olim Xoʻjayev nomidagi Sirdaryo viloyati musiqali drama teatri",
+                  "text": "Teatrul numit după Olim Hodjaiev este centrul cultural pentru muzică și dramă din regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        68.77663,
+                        40.494419
+                  ]
+            },
+            {
+                  "name": "Guliston amfiteatr",
+                  "text": "Un amfiteatru modern în aer liber în Guliston, care servește drept locație pentru concerte și festivaluri.",
+                  "category": "cultural",
+                  "coords": [
+                        68.777213,
+                        40.492514
+                  ]
+            },
+            {
+                  "name": "Kurant",
+                  "text": "Turnul central cu ceas din Guliston, un punct de întâlnire proeminent în inima orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        68.766063,
+                        40.493719
+                  ]
+            },
+            {
+                  "name": "Zomin jom'e masjidi",
+                  "text": "O mare moschee de vineri în stil Zaamin, remarcabilă prin arhitectura sa tradițională din Asia Centrală.",
+                  "category": "landmark",
+                  "coords": [
+                        68.761784,
+                        40.476605
+                  ]
+            },
+            {
+                  "name": "Guliston jom`e masjidi",
+                  "text": "Principala moschee modernă din Guliston, cu o sală de rugăciune spațioasă pentru comunitatea orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        68.762773,
+                        40.493895
+                  ]
+            },
+            {
+                  "name": "jom'e masjid",
+                  "text": "O moschee centrală de vineri din Guliston, cu un minaret cu design tradițional.",
+                  "category": "landmark",
+                  "coords": [
+                        68.795263,
+                        40.476437
+                  ]
+            },
+            {
+                  "name": "Koreiskaia tserkov'",
+                  "text": "O biserică creștină în Guliston, care deservește comunitatea locală de coreeni (Koryo-saram).",
+                  "category": "landmark",
+                  "coords": [
+                        68.772383,
+                        40.506931
+                  ]
+            },
+            {
+                  "name": "Iso o'g'li Muso jom`e masjidi",
+                  "text": "Această moschee din Guliston se remarcă prin fațada sa decorativă în stil uzbec clasic.",
+                  "category": "landmark",
+                  "coords": [
+                        68.77555,
+                        40.48443
+                  ]
+            },
+            {
+                  "name": "Khram Sviatitelia Nikolaia, arkhiepiskopa Mir Likiiskikh, chudotvortsa",
+                  "text": "O biserică ortodoxă rusă din Guliston, construită pentru populația creștină din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        68.767531,
+                        40.497175
+                  ]
+            },
+            {
+                  "name": "Tavxid jom`e masjidi",
+                  "text": "Moscheea Tavhid este o structură religioasă proeminentă, cu o arhitectură islamică modernă.",
+                  "category": "landmark",
+                  "coords": [
+                        68.811937,
+                        40.489866
+                  ]
+            },
+            {
+                  "name": "Baraka",
+                  "text": "Un vârf de 5306 metri în Munții Fann, cunoscut pentru rutele sale de cățărare provocatoare și pereții de calcar.",
+                  "category": "cultural",
+                  "coords": [
+                        68.77131,
+                        40.492125
+                  ]
+            },
+            {
+                  "name": "Iarmarka",
+                  "text": "Un târg plin de viață care oferă o varietate de articole de uz casnic, textile și produse de meșteșugărit local.",
+                  "category": "cultural",
+                  "coords": [
+                        68.767547,
+                        40.49582
+                  ]
+            },
+            {
+                  "name": "Veshchevoi rynok",
+                  "text": "O piață mare de mărfuri, unde localnicii găsesc îmbrăcăminte, încălțăminte și diverse produse textile.",
+                  "category": "cultural",
+                  "coords": [
+                        68.767076,
+                        40.494842
+                  ]
+            },
+            {
+                  "name": "Elga Khizmat",
+                  "text": "O piață locală din Guliston, care servește ca un nod important pentru comerțul și serviciile zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        68.780169,
+                        40.476134
+                  ]
+            },
+            {
+                  "name": "Allamurodov Akbar",
+                  "text": "O mică piață de cartier care oferă o selecție de produse proaspete din regiunea Sirdaryo.",
+                  "category": "cultural",
+                  "coords": [
+                        68.779179,
+                        40.475969
+                  ]
+            },
+            {
+                  "name": "Khoziaestvennyi rynok",
+                  "text": "O piață de articole de uz casnic și feronerie, care oferă unelte, ustensile de bucătărie și accesorii pentru casă.",
+                  "category": "cultural",
+                  "coords": [
+                        68.766828,
+                        40.491317
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sirdaryo viloyati davlat tarix va madaniyat muzeyi",
+                  "text": "The state museum in Guliston documents the history and culture of the Syr Darya region.",
+                  "category": "museum",
+                  "coords": [
+                        68.771315,
+                        40.494012
+                  ]
+            },
+            {
+                  "name": "Gulistanland",
+                  "text": "A local amusement park in Guliston with rides and green spaces for families.",
+                  "category": "recreational",
+                  "coords": [
+                        68.783546,
+                        40.497796
+                  ]
+            },
+            {
+                  "name": "Aqua Park",
+                  "text": "A water park in Guliston offering various slides and pools for summer recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        68.779884,
+                        40.511123
+                  ]
+            },
+            {
+                  "name": "Olim Xoʻjayev nomidagi Sirdaryo viloyati musiqali drama teatri",
+                  "text": "The theatre named after Olim Khodjayev is the regional cultural center for music and drama.",
+                  "category": "cultural",
+                  "coords": [
+                        68.77663,
+                        40.494419
+                  ]
+            },
+            {
+                  "name": "Guliston amfiteatr",
+                  "text": "A modern open-air amphitheater in Guliston used as a venue for concerts and festivals.",
+                  "category": "cultural",
+                  "coords": [
+                        68.777213,
+                        40.492514
+                  ]
+            },
+            {
+                  "name": "Kurant",
+                  "text": "The central clock tower of Guliston, a prominent meeting point in the heart of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        68.766063,
+                        40.493719
+                  ]
+            },
+            {
+                  "name": "Zomin jom'e masjidi",
+                  "text": "A large Friday mosque in the Zaamin style, notable for its traditional Central Asian architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        68.761784,
+                        40.476605
+                  ]
+            },
+            {
+                  "name": "Cathedral Mosque GULISTON",
+                  "text": "The main modern mosque of Guliston, featuring a spacious prayer hall for the city community.",
+                  "category": "landmark",
+                  "coords": [
+                        68.762773,
+                        40.493895
+                  ]
+            },
+            {
+                  "name": "jom'e masjid",
+                  "text": "A central Friday mosque in Guliston featuring a traditionally designed minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        68.795263,
+                        40.476437
+                  ]
+            },
+            {
+                  "name": "Koreiskaia tserkov'",
+                  "text": "A Christian church in Guliston serving the local ethnic Korean community (Koryo-saram).",
+                  "category": "landmark",
+                  "coords": [
+                        68.772383,
+                        40.506931
+                  ]
+            },
+            {
+                  "name": "Cathedral Mosque ISO UGLI MUZO",
+                  "text": "This mosque in Guliston is notable for its decorative facade in a classic Uzbek style.",
+                  "category": "landmark",
+                  "coords": [
+                        68.77555,
+                        40.48443
+                  ]
+            },
+            {
+                  "name": "Russian church",
+                  "text": "A Russian Orthodox church in Guliston built for the Christian population of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        68.767531,
+                        40.497175
+                  ]
+            },
+            {
+                  "name": "Cathedral Mosque TAVHID",
+                  "text": "The Tavhid Mosque is a prominent religious structure featuring modern Islamic architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        68.811937,
+                        40.489866
+                  ]
+            },
+            {
+                  "name": "Baraka",
+                  "text": "A 5306-meter peak in the Fann Mountains known for its challenging climbing routes and limestone walls.",
+                  "category": "cultural",
+                  "coords": [
+                        68.77131,
+                        40.492125
+                  ]
+            },
+            {
+                  "name": "Iarmarka",
+                  "text": "A lively trading fair offering a variety of household items, textiles, and local crafts.",
+                  "category": "cultural",
+                  "coords": [
+                        68.767547,
+                        40.49582
+                  ]
+            },
+            {
+                  "name": "Veshchevoi rynok",
+                  "text": "A large goods market where locals find clothing, shoes, and various textile products.",
+                  "category": "cultural",
+                  "coords": [
+                        68.767076,
+                        40.494842
+                  ]
+            },
+            {
+                  "name": "Elga Khizmat",
+                  "text": "A local marketplace in Guliston serving as an important hub for daily trade and services.",
+                  "category": "cultural",
+                  "coords": [
+                        68.780169,
+                        40.476134
+                  ]
+            },
+            {
+                  "name": "Allamurodov Akbar",
+                  "text": "A small neighborhood market offering a selection of fresh produce from the Sirdaryo region.",
+                  "category": "cultural",
+                  "coords": [
+                        68.779179,
+                        40.475969
+                  ]
+            },
+            {
+                  "name": "Khoziaestvennyi rynok",
+                  "text": "A household and hardware market offering tools, kitchenware, and home improvement supplies.",
+                  "category": "cultural",
+                  "coords": [
+                        68.766828,
+                        40.491317
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UZ-SI",
     coords: [68.7842, 40.4897],
@@ -2027,7 +7616,340 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "asaka-cities-v2",
+    id: "asaka-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzei Asakenskogo raiona",
+                  "text": "Das Museum präsentiert archäologische Funde und Exponate zur regionalen Geschichte des Bezirks Asaka.",
+                  "category": "museum",
+                  "coords": [
+                        72.247714,
+                        40.641049
+                  ]
+            },
+            {
+                  "name": "Pamiatnik Pobedy",
+                  "text": "Ein zentrales Denkmal auf einem öffentlichen Platz, das einer bedeutenden lokalen Persönlichkeit gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        72.237701,
+                        40.646862
+                  ]
+            },
+            {
+                  "name": "Koleso obozreniia",
+                  "text": "Dieses Riesenrad im Stadtpark bietet Besuchern einen weiten Panoramablick über Asaka.",
+                  "category": "landmark",
+                  "coords": [
+                        72.249849,
+                        40.643312
+                  ]
+            },
+            {
+                  "name": "Axmadali Maxdum jome' masjidi",
+                  "text": "Eine markante Freitagsmoschee in Asaka, die als Versammlungsort für das wöchentliche Gebet fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        72.242009,
+                        40.64454
+                  ]
+            },
+            {
+                  "name": "Xazrati Umar jome' masjidi",
+                  "text": "Diese muslimische Gebetshalle in Asaka ist ein zentraler Pfeiler des religiösen Lebens im Viertel.",
+                  "category": "landmark",
+                  "coords": [
+                        72.244302,
+                        40.640883
+                  ]
+            },
+            {
+                  "name": "Xolid Ibn Valid jome' masjidi",
+                  "text": "Eine nach Khalid ibn al-Walid benannte Moschee, die durch ihre traditionelle Architektur in Asaka auffällt.",
+                  "category": "landmark",
+                  "coords": [
+                        72.246041,
+                        40.647979
+                  ]
+            },
+            {
+                  "name": "Imomi Zufar jome' masjidi",
+                  "text": "Diese Freitagsmoschee ist ein wichtiger religiöser Knotenpunkt für die Einwohner der Stadt Asaka.",
+                  "category": "landmark",
+                  "coords": [
+                        72.258259,
+                        40.650176
+                  ]
+            },
+            {
+                  "name": "Dekhkanskii rynok",
+                  "text": "Ein traditioneller Dehkan-Markt, auf dem Bauern aus der Region ihr frisches Obst und Gemüse verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        72.244256,
+                        40.649144
+                  ]
+            },
+            {
+                  "name": "Barakholka",
+                  "text": "Ein belebter Flohmarkt in Asaka, ideal zum Stöbern nach Haushaltswaren und gebrauchten Schätzen.",
+                  "category": "cultural",
+                  "coords": [
+                        72.249503,
+                        40.648954
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzei Asakenskogo raiona",
+                  "text": "A múzeum régészeti leleteket és az Aszaka járás regionális történelmét bemutató tárgyakat őriz.",
+                  "category": "museum",
+                  "coords": [
+                        72.247714,
+                        40.641049
+                  ]
+            },
+            {
+                  "name": "Pamiatnik Pobedy",
+                  "text": "Központi emlékmű egy nyilvános téren, amelyet egy jelentős helyi személyiségnek szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        72.237701,
+                        40.646862
+                  ]
+            },
+            {
+                  "name": "Koleso obozreniia",
+                  "text": "Ez az óriáskerék a városi parkban széles panorámát kínál a látogatóknak Aszaka felett.",
+                  "category": "landmark",
+                  "coords": [
+                        72.249849,
+                        40.643312
+                  ]
+            },
+            {
+                  "name": "Axmadali Maxdum jome' masjidi",
+                  "text": "Egy jellegzetes pénteki mecset Aszakában, amely a heti ima gyülekezőhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        72.242009,
+                        40.64454
+                  ]
+            },
+            {
+                  "name": "Xazrati Umar jome' masjidi",
+                  "text": "Ez az aszakai muszlim imaház a negyed vallási életének központi pillére.",
+                  "category": "landmark",
+                  "coords": [
+                        72.244302,
+                        40.640883
+                  ]
+            },
+            {
+                  "name": "Xolid Ibn Valid jome' masjidi",
+                  "text": "Egy Khalid ibn al-Walidról elnevezett mecset, amely hagyományos építészetével tűnik ki Aszakában.",
+                  "category": "landmark",
+                  "coords": [
+                        72.246041,
+                        40.647979
+                  ]
+            },
+            {
+                  "name": "Imomi Zufar jome' masjidi",
+                  "text": "Ez a pénteki mecset fontos vallási csomópont Aszaka város lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        72.258259,
+                        40.650176
+                  ]
+            },
+            {
+                  "name": "Dekhkanskii rynok",
+                  "text": "Hagyományos dehkán piac, ahol a környékbeli gazdák árulják friss gyümölcseiket és zöldségeiket.",
+                  "category": "cultural",
+                  "coords": [
+                        72.244256,
+                        40.649144
+                  ]
+            },
+            {
+                  "name": "Barakholka",
+                  "text": "Egy nyüzsgő bolhapiac Aszakában, amely ideális háztartási cikkek és használt kincsek böngészésére.",
+                  "category": "cultural",
+                  "coords": [
+                        72.249503,
+                        40.648954
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzei Asakenskogo raiona",
+                  "text": "Muzeul prezintă descoperiri arheologice și exponate despre istoria regională a districtului Asaka.",
+                  "category": "museum",
+                  "coords": [
+                        72.247714,
+                        40.641049
+                  ]
+            },
+            {
+                  "name": "Pamiatnik Pobedy",
+                  "text": "Un monument central într-o piață publică, dedicat unei personalități locale importante.",
+                  "category": "historical",
+                  "coords": [
+                        72.237701,
+                        40.646862
+                  ]
+            },
+            {
+                  "name": "Koleso obozreniia",
+                  "text": "Această roată panoramică din parcul orașului oferă vizitatorilor o vedere amplă asupra orașului Asaka.",
+                  "category": "landmark",
+                  "coords": [
+                        72.249849,
+                        40.643312
+                  ]
+            },
+            {
+                  "name": "Axmadali Maxdum jome' masjidi",
+                  "text": "O moschee de vineri proeminentă în Asaka, care servește ca loc de adunare pentru rugăciunea săptămânală.",
+                  "category": "landmark",
+                  "coords": [
+                        72.242009,
+                        40.64454
+                  ]
+            },
+            {
+                  "name": "Xazrati Umar jome' masjidi",
+                  "text": "Această sală de rugăciune musulmană din Asaka este un pilon central al vieții religioase din cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        72.244302,
+                        40.640883
+                  ]
+            },
+            {
+                  "name": "Xolid Ibn Valid jome' masjidi",
+                  "text": "O moschee numită după Khalid ibn al-Walid, care se remarcă prin arhitectura sa tradițională în Asaka.",
+                  "category": "landmark",
+                  "coords": [
+                        72.246041,
+                        40.647979
+                  ]
+            },
+            {
+                  "name": "Imomi Zufar jome' masjidi",
+                  "text": "Această moschee de vineri este un punct religios important pentru locuitorii orașului Asaka.",
+                  "category": "landmark",
+                  "coords": [
+                        72.258259,
+                        40.650176
+                  ]
+            },
+            {
+                  "name": "Dekhkanskii rynok",
+                  "text": "O piață tradițională dehkan, unde fermierii din regiune își vând fructele și legumele proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        72.244256,
+                        40.649144
+                  ]
+            },
+            {
+                  "name": "Barakholka",
+                  "text": "O piață de vechituri plină de viață în Asaka, ideală pentru a căuta articole de uz casnic și comori second-hand.",
+                  "category": "cultural",
+                  "coords": [
+                        72.249503,
+                        40.648954
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzei Asakenskogo raiona",
+                  "text": "The museum presents archaeological finds and exhibits on the regional history of the Asaka district.",
+                  "category": "museum",
+                  "coords": [
+                        72.247714,
+                        40.641049
+                  ]
+            },
+            {
+                  "name": "G’ulom Yoquboy maydoni",
+                  "text": "A central monument in a public square dedicated to a significant local figure.",
+                  "category": "historical",
+                  "coords": [
+                        72.237701,
+                        40.646862
+                  ]
+            },
+            {
+                  "name": "Koleso obozreniia",
+                  "text": "This Ferris wheel in the city park offers visitors a wide panoramic view over Asaka.",
+                  "category": "landmark",
+                  "coords": [
+                        72.249849,
+                        40.643312
+                  ]
+            },
+            {
+                  "name": "Axmadali Maxdum jome' masjidi",
+                  "text": "A prominent Friday mosque in Asaka that serves as a gathering place for weekly prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        72.242009,
+                        40.64454
+                  ]
+            },
+            {
+                  "name": "Xazrati Umar jome' masjidi",
+                  "text": "This Muslim prayer hall in Asaka is a central pillar of religious life in the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        72.244302,
+                        40.640883
+                  ]
+            },
+            {
+                  "name": "Xolid Ibn Valid jome' masjidi",
+                  "text": "A mosque named after Khalid ibn al-Walid, notable for its traditional architecture in Asaka.",
+                  "category": "landmark",
+                  "coords": [
+                        72.246041,
+                        40.647979
+                  ]
+            },
+            {
+                  "name": "Imomi Zufar jome' masjidi",
+                  "text": "This Friday mosque is an important religious hub for the residents of Asaka city.",
+                  "category": "landmark",
+                  "coords": [
+                        72.258259,
+                        40.650176
+                  ]
+            },
+            {
+                  "name": "Dekhkanskii rynok",
+                  "text": "A traditional Dehkan market where farmers from the region sell their fresh fruit and vegetables.",
+                  "category": "cultural",
+                  "coords": [
+                        72.244256,
+                        40.649144
+                  ]
+            },
+            {
+                  "name": "Barakholka",
+                  "text": "A bustling flea market in Asaka, ideal for browsing household goods and second-hand treasures.",
+                  "category": "cultural",
+                  "coords": [
+                        72.249503,
+                        40.648954
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UZ-AN",
     coords: [72.2411, 40.6425],
@@ -2091,7 +8013,880 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "khiva-cities-v2", "sights": {"de": [{"name": "Ko'hna Ark", "text": "Die historische Zitadelle und ehemalige Residenz der Khanen in Chiwa.", "category": "fortress", "coords": [60.358221, 41.378883]}, {"name": "Ichan-Qala", "text": "Die ummauerte Innenstadt von Chiwa, die zum UNESCO-Welterbe gehört.", "category": "castle", "coords": [60.3598, 41.378098]}, {"name": "Xorazm milliy liboslari muzeyi", "text": "Ein Museum in Chiwa, das sich der traditionellen Kleidung der Region Choresm widmet.", "category": "museum", "coords": [60.361447, 41.378494]}, {"name": "Tabiat muzeyi", "text": "Ein Museum in Chiwa, das die lokale Flora und Fauna präsentiert.", "category": "museum", "coords": [60.361095, 41.377376]}, {"name": "Tibbiyot muzeyi", "text": "Ein Museum in Chiwa, das die Geschichte der Medizin in der Region zeigt.", "category": "museum", "coords": [60.359093, 41.37634]}, {"name": "Aloqa Tarixi Muzeyi", "text": "Ein Museum in Chiwa, das die Geschichte der Kommunikation dokumentiert.", "category": "museum", "coords": [60.363125, 41.386865]}, {"name": "Kukolnyi teatr", "text": "Ein Theater in Chiwa, das traditionelle Puppenspiele aufführt.", "category": "cultural", "coords": [60.35728, 41.381438]}, {"name": "Bagcha Darvoza", "text": "Das Nordtor der historischen Altstadt Itchan Kala in Chiwa.", "category": "landmark", "coords": [60.36124, 41.381684]}, {"name": "Sayid Sholikorboy minorasi", "text": "Ein bedeutendes Minarett in Chiwa, das Teil eines religiösen Komplexes ist.", "category": "historical", "coords": [60.362731, 41.376898]}, {"name": "Minaret Chilli-Avliya", "text": "Ein historisches Minarett und eine architektonische Sehenswürdigkeit in Chiwa.", "category": "landmark", "coords": [60.349449, 41.376373]}, {"name": "Vkhod v kompleks", "text": "Der Eingangsbereich zu einem der historischen Architekturkomplexe in Chiwa.", "category": "landmark", "coords": [60.36619, 41.379134]}, {"name": "Kosh Darvaza", "text": "Ein markantes historisches Denkmal und Torbauwerk in Chiwa.", "category": "historical", "coords": [60.362885, 41.384904]}, {"name": "Dishan - Kala", "text": "Die Überreste der Mauern der äußeren Stadt von Chiwa.", "category": "historical", "coords": [60.352684, 41.385074]}, {"name": "Grobnitsa", "text": "Eine historische Grabstätte und Sehenswürdigkeit in Chiwa.", "category": "landmark", "coords": [60.359824, 41.381136]}, {"name": "Abdol bobo minorasi", "text": "Ein historisches Minarett und eine kulturelle Sehenswürdigkeit in Chiwa.", "category": "landmark", "coords": [60.365272, 41.376714]}, {"name": "Dasha kala steny", "text": "Die historischen Stadtmauern von Dishan-Kala in Chiwa.", "category": "landmark", "coords": [60.359359, 41.372931]}, {"name": "Kolodets", "text": "Ein historischer Brunnen und eine lokale Sehenswürdigkeit in Chiwa.", "category": "landmark", "coords": [60.346697, 41.373852]}, {"name": "Minaret", "text": "Ein traditionelles Minarett und architektonisches Merkmal in Chiwa.", "category": "landmark", "coords": [60.353575, 41.37831]}, {"name": "Mavzolei Shakalandara Bobo", "text": "Ein historisches Mausoleum und eine Sehenswürdigkeit in Chiwa.", "category": "landmark", "coords": [60.35535, 41.379459]}, {"name": "Nurulla-Bei-Palast", "text": "Ein prächtiger Palastkomplex und eine Sehenswürdigkeit in Chiwa.", "category": "landmark", "coords": [60.356521, 41.382784]}, {"name": "Minaret Murad-Tura", "text": "Ein historisches Minarett und eine architektonische Sehenswürdigkeit in Chiwa.", "category": "landmark", "coords": [60.35925, 41.378999]}, {"name": "Letnyaya rezidentsiya Islom Khodzhi", "text": "Eine ehemalige Sommerresidenz und eine historische Sehenswürdigkeit in Chiwa.", "category": "landmark", "coords": [60.338234, 41.368978]}, {"name": "Said Muxammad Moxiro'y Majmuasi", "text": "Ein historischer Komplex und eine kulturelle Sehenswürdigkeit in Chiwa.", "category": "landmark", "coords": [60.365726, 41.382887]}, {"name": "Ota Darvoza", "text": "Das Westtor der historischen Altstadt Itchan Kala in Chiwa.", "category": "fortress", "coords": [60.35717, 41.378673]}], "hu": [{"name": "Ko'hna Ark", "text": "Khíva történelmi citadellája és a kánok egykori rezidenciája.", "category": "fortress", "coords": [60.358221, 41.378883]}, {"name": "Ichan-Qala", "text": "Khíva falakkal körülvett belső városa, amely az UNESCO Világörökség része.", "category": "castle", "coords": [60.3598, 41.378098]}, {"name": "Xorazm milliy liboslari muzeyi", "text": "Khívai múzeum, amely a Horezm régió népviseleteit mutatja be.", "category": "museum", "coords": [60.361447, 41.378494]}, {"name": "Tabiat muzeyi", "text": "Khívai múzeum, amely a helyi növény- és állatvilágot mutatja be.", "category": "museum", "coords": [60.361095, 41.377376]}, {"name": "Tibbiyot muzeyi", "text": "Khívai múzeum, amely a régió orvostudományi történetét mutatja be.", "category": "museum", "coords": [60.359093, 41.37634]}, {"name": "Aloqa Tarixi Muzeyi", "text": "A hírközlés történetét bemutató múzeum Khívában.", "category": "museum", "coords": [60.363125, 41.386865]}, {"name": "Kukolnyi teatr", "text": "Hagyományos bábjátékokat bemutató színház Khívában.", "category": "cultural", "coords": [60.35728, 41.381438]}, {"name": "Bagcha Darvoza", "text": "Khíva történelmi óvárosának, az Icshan Kalának az északi kapuja.", "category": "landmark", "coords": [60.36124, 41.381684]}, {"name": "Sayid Sholikorboy minorasi", "text": "Khíva egyik jelentős minaretje, amely egy vallási komplexum része.", "category": "historical", "coords": [60.362731, 41.376898]}, {"name": "Minaret Chilli-Avliya", "text": "Történelmi minaret és építészeti látnivaló Khívában.", "category": "landmark", "coords": [60.349449, 41.376373]}, {"name": "Vkhod v kompleks", "text": "Bejárat Khíva egyik történelmi építészeti komplexumához.", "category": "landmark", "coords": [60.36619, 41.379134]}, {"name": "Kosh Darvaza", "text": "Jellegzetes történelmi emlékmű és kapuépítmény Khívában.", "category": "historical", "coords": [60.362885, 41.384904]}, {"name": "Dishan - Kala", "text": "Khíva külső városfalainak maradványai.", "category": "historical", "coords": [60.352684, 41.385074]}, {"name": "Grobnitsa", "text": "Történelmi sírhely és látnivaló Khívában.", "category": "landmark", "coords": [60.359824, 41.381136]}, {"name": "Abdol bobo minorasi", "text": "Történelmi minaret és kulturális látnivaló Khívában.", "category": "landmark", "coords": [60.365272, 41.376714]}, {"name": "Dasha kala steny", "text": "Disan-Kala történelmi városfalai Khívában.", "category": "landmark", "coords": [60.359359, 41.372931]}, {"name": "Kolodets", "text": "Történelmi kút és helyi látnivaló Khíva városában.", "category": "landmark", "coords": [60.346697, 41.373852]}, {"name": "Minaret", "text": "Hagyományos minaret és építészeti jellegzetesség Khívában.", "category": "landmark", "coords": [60.353575, 41.37831]}, {"name": "Mavzolei Shakalandara Bobo", "text": "Történelmi mauzóleum és látnivaló Khíva városában.", "category": "landmark", "coords": [60.35535, 41.379459]}, {"name": "Nurullaboy Hovlilari", "text": "Pompás palotakomplexum és látnivaló Khíva városában.", "category": "landmark", "coords": [60.356521, 41.382784]}, {"name": "Minaret Murad-Tura", "text": "Történelmi minaret és építészeti látnivaló Khívában.", "category": "landmark", "coords": [60.35925, 41.378999]}, {"name": "Letnyaya rezidentsiya Islom Khodzhi", "text": "Egykori nyári rezidencia és történelmi látnivaló Khívában.", "category": "landmark", "coords": [60.338234, 41.368978]}, {"name": "Said Muxammad Moxiro'y Majmuasi", "text": "Történelmi komplexum és kulturális látnivaló Khívában.", "category": "landmark", "coords": [60.365726, 41.382887]}, {"name": "Ota Darvoza", "text": "Khíva történelmi óvárosának, az Icshan Kalának a nyugati kapuja.", "category": "fortress", "coords": [60.35717, 41.378673]}], "ro": [{"name": "Ko'hna Ark", "text": "Citadela istorică și fosta reședință a hanilor din Khiva.", "category": "fortress", "coords": [60.358221, 41.378883]}, {"name": "Ichan-Qala", "text": "Orașul interior fortificat din Khiva, parte a patrimoniului mondial UNESCO.", "category": "castle", "coords": [60.3598, 41.378098]}, {"name": "Xorazm milliy liboslari muzeyi", "text": "Un muzeu din Khiva dedicat costumelor populare din regiunea Khorezm.", "category": "museum", "coords": [60.361447, 41.378494]}, {"name": "Tabiat muzeyi", "text": "Un muzeu din Khiva care prezintă flora și fauna locală.", "category": "museum", "coords": [60.361095, 41.377376]}, {"name": "Tibbiyot muzeyi", "text": "Un muzeu din Khiva care prezintă istoria medicinei în regiune.", "category": "museum", "coords": [60.359093, 41.37634]}, {"name": "Aloqa Tarixi Muzeyi", "text": "Un muzeu din Khiva care documentează istoria comunicațiilor.", "category": "museum", "coords": [60.363125, 41.386865]}, {"name": "Kukolnyi teatr", "text": "Un teatru din Khiva care prezintă spectacole tradiționale de păpuși.", "category": "cultural", "coords": [60.35728, 41.381438]}, {"name": "Bagcha Darvoza", "text": "Poarta de nord a orașului vechi istoric Itchan Kala din Khiva.", "category": "landmark", "coords": [60.36124, 41.381684]}, {"name": "Sayid Sholikorboy minorasi", "text": "Un minaret important din Khiva, parte a unui complex religios.", "category": "historical", "coords": [60.362731, 41.376898]}, {"name": "Minaret Chilli-Avliya", "text": "Un minaret istoric și o atracție arhitecturală în Khiva.", "category": "landmark", "coords": [60.349449, 41.376373]}, {"name": "Vkhod v kompleks", "text": "Zona de intrare într-unul dintre complexele arhitecturale istorice din Khiva.", "category": "landmark", "coords": [60.36619, 41.379134]}, {"name": "Kosh Darvaza", "text": "Un monument istoric distinctiv și o structură de poartă în Khiva.", "category": "historical", "coords": [60.362885, 41.384904]}, {"name": "Dishan - Kala", "text": "Rămășițele zidurilor orașului exterior din Khiva.", "category": "historical", "coords": [60.352684, 41.385074]}, {"name": "Grobnitsa", "text": "Un mormânt istoric și o atracție în Khiva.", "category": "landmark", "coords": [60.359824, 41.381136]}, {"name": "Abdol bobo minorasi", "text": "Un minaret istoric și o atracție culturală în Khiva.", "category": "landmark", "coords": [60.365272, 41.376714]}, {"name": "Dasha kala steny", "text": "Zidurile istorice ale orașului Dishan-Kala din Khiva.", "category": "landmark", "coords": [60.359359, 41.372931]}, {"name": "Kolodets", "text": "O fântână istorică și o atracție locală în orașul Khiva.", "category": "landmark", "coords": [60.346697, 41.373852]}, {"name": "Minaret", "text": "Un minaret tradițional și element arhitectural în Khiva.", "category": "landmark", "coords": [60.353575, 41.37831]}, {"name": "Mavzolei Shakalandara Bobo", "text": "Un mausoleu istoric și o atracție în orașul Khiva.", "category": "landmark", "coords": [60.35535, 41.379459]}, {"name": "Nurullaboy Hovlilari", "text": "Un complex palatinal splendid și o atracție în orașul Khiva.", "category": "landmark", "coords": [60.356521, 41.382784]}, {"name": "Minaret Murad-Tura", "text": "Un minaret istoric și o atracție arhitecturală în Khiva.", "category": "landmark", "coords": [60.35925, 41.378999]}, {"name": "Letnyaya rezidentsiya Islom Khodzhi", "text": "O fostă reședință de vară și o atracție istorică în Khiva.", "category": "landmark", "coords": [60.338234, 41.368978]}, {"name": "Said Muxammad Moxiro'y Majmuasi", "text": "Un complex istoric și o atracție culturală în Khiva.", "category": "landmark", "coords": [60.365726, 41.382887]}, {"name": "Ota Darvoza", "text": "Poarta de vest a orașului vechi istoric Itchan Kala din Khiva.", "category": "fortress", "coords": [60.35717, 41.378673]}], "en": [{"name": "Konya Ark", "text": "The historic citadel and former residence of the Khans in Khiva.", "category": "fortress", "coords": [60.358221, 41.378883]}, {"name": "Itchan Kala", "text": "The walled inner city of Khiva, a UNESCO World Heritage site.", "category": "castle", "coords": [60.3598, 41.378098]}, {"name": "Museum of Khorezm national clothes", "text": "A museum in Khiva dedicated to the traditional clothing of the Khorezm region.", "category": "museum", "coords": [60.361447, 41.378494]}, {"name": "Nature Museum", "text": "A museum in Khiva presenting the local flora and fauna.", "category": "museum", "coords": [60.361095, 41.377376]}, {"name": "Medicine Museum", "text": "A museum in Khiva documenting the history of medicine in the region.", "category": "museum", "coords": [60.359093, 41.37634]}, {"name": "Museum of Communication History", "text": "A museum in Khiva documenting the history of communication.", "category": "museum", "coords": [60.363125, 41.386865]}, {"name": "Kukolnyi teatr", "text": "A theatre in Khiva that performs traditional puppet shows.", "category": "cultural", "coords": [60.35728, 41.381438]}, {"name": "Bagcha Darvoza (North Gatel", "text": "The north gate of the historic inner city Itchan Kala in Khiva.", "category": "landmark", "coords": [60.36124, 41.381684]}, {"name": "Said Niyoz Sholikorboy Minaret", "text": "A significant minaret in Khiva, part of a religious complex.", "category": "historical", "coords": [60.362731, 41.376898]}, {"name": "Minaret Chilli-Avliya", "text": "A historic minaret and architectural attraction in Khiva.", "category": "landmark", "coords": [60.349449, 41.376373]}, {"name": "Vkhod v kompleks", "text": "The entrance area to one of the historic architectural complexes in Khiva.", "category": "landmark", "coords": [60.36619, 41.379134]}, {"name": "Kosh Darvaza", "text": "A distinctive historic monument and gate structure in Khiva.", "category": "historical", "coords": [60.362885, 41.384904]}, {"name": "Dishan - Kala", "text": "The remains of the walls of the outer city of Khiva.", "category": "historical", "coords": [60.352684, 41.385074]}, {"name": "Grobnitsa", "text": "A historic tomb and attraction in Khiva.", "category": "landmark", "coords": [60.359824, 41.381136]}, {"name": "Abdal Bobo Minaret", "text": "A historic minaret and cultural attraction in Khiva.", "category": "landmark", "coords": [60.365272, 41.376714]}, {"name": "Dasha kala steny", "text": "The historic city walls of Dishan-Kala in Khiva.", "category": "landmark", "coords": [60.359359, 41.372931]}, {"name": "Kolodets", "text": "A historic well and local attraction in the city of Khiva.", "category": "landmark", "coords": [60.346697, 41.373852]}, {"name": "Minaret", "text": "A traditional minaret and architectural feature in Khiva.", "category": "landmark", "coords": [60.353575, 41.37831]}, {"name": "Mavzolei Shakalandara Bobo", "text": "A historic mausoleum and attraction in the city of Khiva.", "category": "landmark", "coords": [60.35535, 41.379459]}, {"name": "Nurallabaya Palace", "text": "A splendid palace complex and attraction in the city of Khiva.", "category": "landmark", "coords": [60.356521, 41.382784]}, {"name": "Minaret Murad-Tura", "text": "A historic minaret and architectural attraction in Khiva.", "category": "landmark", "coords": [60.35925, 41.378999]}, {"name": "Letnyaya rezidentsiya Islom Khodzhi", "text": "A former summer residence and historic attraction in Khiva.", "category": "landmark", "coords": [60.338234, 41.368978]}, {"name": "Complex of Said Mukhammad Mokhiruy", "text": "A historic complex and cultural attraction in Khiva.", "category": "landmark", "coords": [60.365726, 41.382887]}, {"name": "Aa Darvoza (West Gate)", "text": "The west gate of the historic inner city Itchan Kala in Khiva.", "category": "fortress", "coords": [60.35717, 41.378673]}]},
+    id: "khiva-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ko'hna Ark",
+                  "text": "Die historische Zitadelle und ehemalige Residenz der Khanen in Chiwa.",
+                  "category": "fortress",
+                  "coords": [
+                        60.358221,
+                        41.378883
+                  ]
+            },
+            {
+                  "name": "Ichan-Qala",
+                  "text": "Die ummauerte Innenstadt von Chiwa, die zum UNESCO-Welterbe gehört.",
+                  "category": "castle",
+                  "coords": [
+                        60.3598,
+                        41.378098
+                  ]
+            },
+            {
+                  "name": "Xorazm milliy liboslari muzeyi",
+                  "text": "Ein Museum in Chiwa, das sich der traditionellen Kleidung der Region Choresm widmet.",
+                  "category": "museum",
+                  "coords": [
+                        60.361447,
+                        41.378494
+                  ]
+            },
+            {
+                  "name": "Tabiat muzeyi",
+                  "text": "Ein Museum in Chiwa, das die lokale Flora und Fauna präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        60.361095,
+                        41.377376
+                  ]
+            },
+            {
+                  "name": "Tibbiyot muzeyi",
+                  "text": "Ein Museum in Chiwa, das die Geschichte der Medizin in der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        60.359093,
+                        41.37634
+                  ]
+            },
+            {
+                  "name": "Aloqa Tarixi Muzeyi",
+                  "text": "Museum für Kommunikationsgeschichte in Chiwa, das historische Telefone und Telegrafen ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        60.363125,
+                        41.386865
+                  ]
+            },
+            {
+                  "name": "Kukolnyi teatr",
+                  "text": "Ein Theater in Chiwa, das traditionelle Puppenspiele aufführt.",
+                  "category": "cultural",
+                  "coords": [
+                        60.35728,
+                        41.381438
+                  ]
+            },
+            {
+                  "name": "Bagcha Darvoza",
+                  "text": "Das Nordtor der historischen Altstadt Itchan Kala in Chiwa.",
+                  "category": "landmark",
+                  "coords": [
+                        60.36124,
+                        41.381684
+                  ]
+            },
+            {
+                  "name": "Sayid Sholikorboy minorasi",
+                  "text": "Ein bedeutendes Minarett in Chiwa, das Teil eines religiösen Komplexes ist.",
+                  "category": "historical",
+                  "coords": [
+                        60.362731,
+                        41.376898
+                  ]
+            },
+            {
+                  "name": "Minaret Chilli-Avliya",
+                  "text": "Ein historisches Minarett und eine architektonische Sehenswürdigkeit in Chiwa.",
+                  "category": "landmark",
+                  "coords": [
+                        60.349449,
+                        41.376373
+                  ]
+            },
+            {
+                  "name": "Vkhod v kompleks",
+                  "text": "Der Eingangsbereich zu einem der historischen Architekturkomplexe in Chiwa.",
+                  "category": "landmark",
+                  "coords": [
+                        60.36619,
+                        41.379134
+                  ]
+            },
+            {
+                  "name": "Kosh Darvaza",
+                  "text": "Ein markantes historisches Denkmal und Torbauwerk in Chiwa.",
+                  "category": "historical",
+                  "coords": [
+                        60.362885,
+                        41.384904
+                  ]
+            },
+            {
+                  "name": "Dishan - Kala",
+                  "text": "Dishan-Kala ist die äußere Verteidigungsmauer von Chiwa, die die Altstadt umschließt.",
+                  "category": "historical",
+                  "coords": [
+                        60.352684,
+                        41.385074
+                  ]
+            },
+            {
+                  "name": "Grobnitsa",
+                  "text": "Ein historisches Grabmal in Chiwa mit einer traditionellen zentralasiatischen Fassade und Spitzbogeneingang.",
+                  "category": "landmark",
+                  "coords": [
+                        60.359824,
+                        41.381136
+                  ]
+            },
+            {
+                  "name": "Abdol bobo minorasi",
+                  "text": "Das Abdal Bobo Minarett in Chiwa ist ein schlankes Backsteinminarett mit dekorativen Bändern.",
+                  "category": "landmark",
+                  "coords": [
+                        60.365272,
+                        41.376714
+                  ]
+            },
+            {
+                  "name": "Dasha kala steny",
+                  "text": "Die Dasha-Kala-Stadtmauern aus Lehmziegeln schützen eine alte Festung in Chiwa.",
+                  "category": "landmark",
+                  "coords": [
+                        60.359359,
+                        41.372931
+                  ]
+            },
+            {
+                  "name": "Kolodets",
+                  "text": "Ein historischer Brunnen und eine lokale Sehenswürdigkeit in Chiwa.",
+                  "category": "landmark",
+                  "coords": [
+                        60.346697,
+                        41.373852
+                  ]
+            },
+            {
+                  "name": "Minaret",
+                  "text": "Ein traditionelles Minarett und architektonisches Merkmal in Chiwa.",
+                  "category": "landmark",
+                  "coords": [
+                        60.353575,
+                        41.37831
+                  ]
+            },
+            {
+                  "name": "Mavzolei Shakalandara Bobo",
+                  "text": "Ein historisches Mausoleum und eine Sehenswürdigkeit in Chiwa.",
+                  "category": "landmark",
+                  "coords": [
+                        60.35535,
+                        41.379459
+                  ]
+            },
+            {
+                  "name": "Nurulla-Bei-Palast",
+                  "text": "Ein prächtiger Palastkomplex und eine Sehenswürdigkeit in Chiwa.",
+                  "category": "landmark",
+                  "coords": [
+                        60.356521,
+                        41.382784
+                  ]
+            },
+            {
+                  "name": "Minaret Murad-Tura",
+                  "text": "Ein historisches Minarett und eine architektonische Sehenswürdigkeit in Chiwa.",
+                  "category": "landmark",
+                  "coords": [
+                        60.35925,
+                        41.378999
+                  ]
+            },
+            {
+                  "name": "Letnyaya rezidentsiya Islom Khodzhi",
+                  "text": "Eine ehemalige Sommerresidenz und eine historische Sehenswürdigkeit in Chiwa.",
+                  "category": "landmark",
+                  "coords": [
+                        60.338234,
+                        41.368978
+                  ]
+            },
+            {
+                  "name": "Said Muxammad Moxiro'y Majmuasi",
+                  "text": "Der Komplex von Said Mukhammad Mokhiruy in Chiwa umfasst ein Mausoleum und eine Moschee.",
+                  "category": "landmark",
+                  "coords": [
+                        60.365726,
+                        41.382887
+                  ]
+            },
+            {
+                  "name": "Ota Darvoza",
+                  "text": "Das Westtor der historischen Altstadt Itchan Kala in Chiwa.",
+                  "category": "fortress",
+                  "coords": [
+                        60.35717,
+                        41.378673
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ko'hna Ark",
+                  "text": "Khíva történelmi citadellája és a kánok egykori rezidenciája.",
+                  "category": "fortress",
+                  "coords": [
+                        60.358221,
+                        41.378883
+                  ]
+            },
+            {
+                  "name": "Ichan-Qala",
+                  "text": "Khíva falakkal körülvett belső városa, amely az UNESCO Világörökség része.",
+                  "category": "castle",
+                  "coords": [
+                        60.3598,
+                        41.378098
+                  ]
+            },
+            {
+                  "name": "Xorazm milliy liboslari muzeyi",
+                  "text": "Khívai múzeum, amely a Horezm régió népviseleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        60.361447,
+                        41.378494
+                  ]
+            },
+            {
+                  "name": "Tabiat muzeyi",
+                  "text": "Khívai múzeum, amely a helyi növény- és állatvilágot mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        60.361095,
+                        41.377376
+                  ]
+            },
+            {
+                  "name": "Tibbiyot muzeyi",
+                  "text": "Khívai múzeum, amely a régió orvostudományi történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        60.359093,
+                        41.37634
+                  ]
+            },
+            {
+                  "name": "Aloqa Tarixi Muzeyi",
+                  "text": "Kommunikációtörténeti Múzeum Khivában, amely régi telefonokat és távírókészülékeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        60.363125,
+                        41.386865
+                  ]
+            },
+            {
+                  "name": "Kukolnyi teatr",
+                  "text": "Hagyományos bábjátékokat bemutató színház Khívában.",
+                  "category": "cultural",
+                  "coords": [
+                        60.35728,
+                        41.381438
+                  ]
+            },
+            {
+                  "name": "Bagcha Darvoza",
+                  "text": "Khíva történelmi óvárosának, az Icshan Kalának az északi kapuja.",
+                  "category": "landmark",
+                  "coords": [
+                        60.36124,
+                        41.381684
+                  ]
+            },
+            {
+                  "name": "Sayid Sholikorboy minorasi",
+                  "text": "Khíva egyik jelentős minaretje, amely egy vallási komplexum része.",
+                  "category": "historical",
+                  "coords": [
+                        60.362731,
+                        41.376898
+                  ]
+            },
+            {
+                  "name": "Minaret Chilli-Avliya",
+                  "text": "Történelmi minaret és építészeti látnivaló Khívában.",
+                  "category": "landmark",
+                  "coords": [
+                        60.349449,
+                        41.376373
+                  ]
+            },
+            {
+                  "name": "Vkhod v kompleks",
+                  "text": "Bejárat Khíva egyik történelmi építészeti komplexumához.",
+                  "category": "landmark",
+                  "coords": [
+                        60.36619,
+                        41.379134
+                  ]
+            },
+            {
+                  "name": "Kosh Darvaza",
+                  "text": "Jellegzetes történelmi emlékmű és kapuépítmény Khívában.",
+                  "category": "historical",
+                  "coords": [
+                        60.362885,
+                        41.384904
+                  ]
+            },
+            {
+                  "name": "Dishan - Kala",
+                  "text": "Dishan-Kala Khiva külső védőfala, amely körbeveszi az óvárost.",
+                  "category": "historical",
+                  "coords": [
+                        60.352684,
+                        41.385074
+                  ]
+            },
+            {
+                  "name": "Grobnitsa",
+                  "text": "Egy történelmi síremlék Khivában, hagyományos közép-ázsiai homlokzattal és csúcsíves bejárattal.",
+                  "category": "landmark",
+                  "coords": [
+                        60.359824,
+                        41.381136
+                  ]
+            },
+            {
+                  "name": "Abdol bobo minorasi",
+                  "text": "Az Abdal Bobo minaret Khivában egy karcsú téglaminaret díszítő sávokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        60.365272,
+                        41.376714
+                  ]
+            },
+            {
+                  "name": "Dasha kala steny",
+                  "text": "A Dasha Kala sár-tégla falai egy ősi erődítményt védenek Khivában.",
+                  "category": "landmark",
+                  "coords": [
+                        60.359359,
+                        41.372931
+                  ]
+            },
+            {
+                  "name": "Kolodets",
+                  "text": "Történelmi kút és helyi látnivaló Khíva városában.",
+                  "category": "landmark",
+                  "coords": [
+                        60.346697,
+                        41.373852
+                  ]
+            },
+            {
+                  "name": "Minaret",
+                  "text": "Hagyományos minaret és építészeti jellegzetesség Khívában.",
+                  "category": "landmark",
+                  "coords": [
+                        60.353575,
+                        41.37831
+                  ]
+            },
+            {
+                  "name": "Mavzolei Shakalandara Bobo",
+                  "text": "Történelmi mauzóleum és látnivaló Khíva városában.",
+                  "category": "landmark",
+                  "coords": [
+                        60.35535,
+                        41.379459
+                  ]
+            },
+            {
+                  "name": "Nurullaboy Hovlilari",
+                  "text": "Pompás palotakomplexum és látnivaló Khíva városában.",
+                  "category": "landmark",
+                  "coords": [
+                        60.356521,
+                        41.382784
+                  ]
+            },
+            {
+                  "name": "Minaret Murad-Tura",
+                  "text": "Történelmi minaret és építészeti látnivaló Khívában.",
+                  "category": "landmark",
+                  "coords": [
+                        60.35925,
+                        41.378999
+                  ]
+            },
+            {
+                  "name": "Letnyaya rezidentsiya Islom Khodzhi",
+                  "text": "Egykori nyári rezidencia és történelmi látnivaló Khívában.",
+                  "category": "landmark",
+                  "coords": [
+                        60.338234,
+                        41.368978
+                  ]
+            },
+            {
+                  "name": "Said Muxammad Moxiro'y Majmuasi",
+                  "text": "Said Mukhammad Mokhiruy komplexuma Khivában egy mauzóleumot és egy mecsetet foglal magában.",
+                  "category": "landmark",
+                  "coords": [
+                        60.365726,
+                        41.382887
+                  ]
+            },
+            {
+                  "name": "Ota Darvoza",
+                  "text": "Khíva történelmi óvárosának, az Icshan Kalának a nyugati kapuja.",
+                  "category": "fortress",
+                  "coords": [
+                        60.35717,
+                        41.378673
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ko'hna Ark",
+                  "text": "Citadela istorică și fosta reședință a hanilor din Khiva.",
+                  "category": "fortress",
+                  "coords": [
+                        60.358221,
+                        41.378883
+                  ]
+            },
+            {
+                  "name": "Ichan-Qala",
+                  "text": "Orașul interior fortificat din Khiva, parte a patrimoniului mondial UNESCO.",
+                  "category": "castle",
+                  "coords": [
+                        60.3598,
+                        41.378098
+                  ]
+            },
+            {
+                  "name": "Xorazm milliy liboslari muzeyi",
+                  "text": "Un muzeu din Khiva dedicat costumelor populare din regiunea Khorezm.",
+                  "category": "museum",
+                  "coords": [
+                        60.361447,
+                        41.378494
+                  ]
+            },
+            {
+                  "name": "Tabiat muzeyi",
+                  "text": "Un muzeu din Khiva care prezintă flora și fauna locală.",
+                  "category": "museum",
+                  "coords": [
+                        60.361095,
+                        41.377376
+                  ]
+            },
+            {
+                  "name": "Tibbiyot muzeyi",
+                  "text": "Un muzeu din Khiva care prezintă istoria medicinei în regiune.",
+                  "category": "museum",
+                  "coords": [
+                        60.359093,
+                        41.37634
+                  ]
+            },
+            {
+                  "name": "Aloqa Tarixi Muzeyi",
+                  "text": "Muzeul de Istorie a Comunicațiilor din Khiva, care expune telefoane și telegrafe vechi.",
+                  "category": "museum",
+                  "coords": [
+                        60.363125,
+                        41.386865
+                  ]
+            },
+            {
+                  "name": "Kukolnyi teatr",
+                  "text": "Un teatru din Khiva care prezintă spectacole tradiționale de păpuși.",
+                  "category": "cultural",
+                  "coords": [
+                        60.35728,
+                        41.381438
+                  ]
+            },
+            {
+                  "name": "Bagcha Darvoza",
+                  "text": "Poarta de nord a orașului vechi istoric Itchan Kala din Khiva.",
+                  "category": "landmark",
+                  "coords": [
+                        60.36124,
+                        41.381684
+                  ]
+            },
+            {
+                  "name": "Sayid Sholikorboy minorasi",
+                  "text": "Un minaret important din Khiva, parte a unui complex religios.",
+                  "category": "historical",
+                  "coords": [
+                        60.362731,
+                        41.376898
+                  ]
+            },
+            {
+                  "name": "Minaret Chilli-Avliya",
+                  "text": "Un minaret istoric și o atracție arhitecturală în Khiva.",
+                  "category": "landmark",
+                  "coords": [
+                        60.349449,
+                        41.376373
+                  ]
+            },
+            {
+                  "name": "Vkhod v kompleks",
+                  "text": "Zona de intrare într-unul dintre complexele arhitecturale istorice din Khiva.",
+                  "category": "landmark",
+                  "coords": [
+                        60.36619,
+                        41.379134
+                  ]
+            },
+            {
+                  "name": "Kosh Darvaza",
+                  "text": "Un monument istoric distinctiv și o structură de poartă în Khiva.",
+                  "category": "historical",
+                  "coords": [
+                        60.362885,
+                        41.384904
+                  ]
+            },
+            {
+                  "name": "Dishan - Kala",
+                  "text": "Dishan-Kala este zidul exterior de apărare al Khivei, care înconjoară orașul vechi.",
+                  "category": "historical",
+                  "coords": [
+                        60.352684,
+                        41.385074
+                  ]
+            },
+            {
+                  "name": "Grobnitsa",
+                  "text": "Un mormânt istoric din Khiva, cu o fațadă tradițională central-asiatică și un arc ascuțit la intrare.",
+                  "category": "landmark",
+                  "coords": [
+                        60.359824,
+                        41.381136
+                  ]
+            },
+            {
+                  "name": "Abdol bobo minorasi",
+                  "text": "Minaretul Abdal Bobo din Khiva este un minaret zvelt de cărămidă cu benzi decorative.",
+                  "category": "landmark",
+                  "coords": [
+                        60.365272,
+                        41.376714
+                  ]
+            },
+            {
+                  "name": "Dasha kala steny",
+                  "text": "Zidurile de chirpici ale Dasha Kala apără o veche fortăreață din Khiva.",
+                  "category": "landmark",
+                  "coords": [
+                        60.359359,
+                        41.372931
+                  ]
+            },
+            {
+                  "name": "Kolodets",
+                  "text": "O fântână istorică și o atracție locală în orașul Khiva.",
+                  "category": "landmark",
+                  "coords": [
+                        60.346697,
+                        41.373852
+                  ]
+            },
+            {
+                  "name": "Minaret",
+                  "text": "Un minaret tradițional și element arhitectural în Khiva.",
+                  "category": "landmark",
+                  "coords": [
+                        60.353575,
+                        41.37831
+                  ]
+            },
+            {
+                  "name": "Mavzolei Shakalandara Bobo",
+                  "text": "Un mausoleu istoric și o atracție în orașul Khiva.",
+                  "category": "landmark",
+                  "coords": [
+                        60.35535,
+                        41.379459
+                  ]
+            },
+            {
+                  "name": "Nurullaboy Hovlilari",
+                  "text": "Un complex palatinal splendid și o atracție în orașul Khiva.",
+                  "category": "landmark",
+                  "coords": [
+                        60.356521,
+                        41.382784
+                  ]
+            },
+            {
+                  "name": "Minaret Murad-Tura",
+                  "text": "Un minaret istoric și o atracție arhitecturală în Khiva.",
+                  "category": "landmark",
+                  "coords": [
+                        60.35925,
+                        41.378999
+                  ]
+            },
+            {
+                  "name": "Letnyaya rezidentsiya Islom Khodzhi",
+                  "text": "O fostă reședință de vară și o atracție istorică în Khiva.",
+                  "category": "landmark",
+                  "coords": [
+                        60.338234,
+                        41.368978
+                  ]
+            },
+            {
+                  "name": "Said Muxammad Moxiro'y Majmuasi",
+                  "text": "Complexul Said Mukhammad Mokhiruy din Khiva include un mausoleu și o moschee.",
+                  "category": "landmark",
+                  "coords": [
+                        60.365726,
+                        41.382887
+                  ]
+            },
+            {
+                  "name": "Ota Darvoza",
+                  "text": "Poarta de vest a orașului vechi istoric Itchan Kala din Khiva.",
+                  "category": "fortress",
+                  "coords": [
+                        60.35717,
+                        41.378673
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Konya Ark",
+                  "text": "The historic citadel and former residence of the Khans in Khiva.",
+                  "category": "fortress",
+                  "coords": [
+                        60.358221,
+                        41.378883
+                  ]
+            },
+            {
+                  "name": "Itchan Kala",
+                  "text": "The walled inner city of Khiva, a UNESCO World Heritage site.",
+                  "category": "castle",
+                  "coords": [
+                        60.3598,
+                        41.378098
+                  ]
+            },
+            {
+                  "name": "Museum of Khorezm national clothes",
+                  "text": "A museum in Khiva dedicated to the traditional clothing of the Khorezm region.",
+                  "category": "museum",
+                  "coords": [
+                        60.361447,
+                        41.378494
+                  ]
+            },
+            {
+                  "name": "Nature Museum",
+                  "text": "A museum in Khiva presenting the local flora and fauna.",
+                  "category": "museum",
+                  "coords": [
+                        60.361095,
+                        41.377376
+                  ]
+            },
+            {
+                  "name": "Medicine Museum",
+                  "text": "A museum in Khiva documenting the history of medicine in the region.",
+                  "category": "museum",
+                  "coords": [
+                        60.359093,
+                        41.37634
+                  ]
+            },
+            {
+                  "name": "Museum of Communication History",
+                  "text": "Museum of Communication History in Khiva, exhibiting vintage telephones and telegraph equipment.",
+                  "category": "museum",
+                  "coords": [
+                        60.363125,
+                        41.386865
+                  ]
+            },
+            {
+                  "name": "Kukolnyi teatr",
+                  "text": "A theatre in Khiva that performs traditional puppet shows.",
+                  "category": "cultural",
+                  "coords": [
+                        60.35728,
+                        41.381438
+                  ]
+            },
+            {
+                  "name": "Bagcha Darvoza (North Gatel",
+                  "text": "The north gate of the historic inner city Itchan Kala in Khiva.",
+                  "category": "landmark",
+                  "coords": [
+                        60.36124,
+                        41.381684
+                  ]
+            },
+            {
+                  "name": "Said Niyoz Sholikorboy Minaret",
+                  "text": "A significant minaret in Khiva, part of a religious complex.",
+                  "category": "historical",
+                  "coords": [
+                        60.362731,
+                        41.376898
+                  ]
+            },
+            {
+                  "name": "Minaret Chilli-Avliya",
+                  "text": "A historic minaret and architectural attraction in Khiva.",
+                  "category": "landmark",
+                  "coords": [
+                        60.349449,
+                        41.376373
+                  ]
+            },
+            {
+                  "name": "Vkhod v kompleks",
+                  "text": "The entrance area to one of the historic architectural complexes in Khiva.",
+                  "category": "landmark",
+                  "coords": [
+                        60.36619,
+                        41.379134
+                  ]
+            },
+            {
+                  "name": "Kosh Darvaza",
+                  "text": "A distinctive historic monument and gate structure in Khiva.",
+                  "category": "historical",
+                  "coords": [
+                        60.362885,
+                        41.384904
+                  ]
+            },
+            {
+                  "name": "Dishan - Kala",
+                  "text": "Dishan-Kala is the outer defensive wall of Khiva, enclosing the old city.",
+                  "category": "historical",
+                  "coords": [
+                        60.352684,
+                        41.385074
+                  ]
+            },
+            {
+                  "name": "Grobnitsa",
+                  "text": "A historic tomb in Khiva, featuring a traditional Central Asian facade and pointed arch entrance.",
+                  "category": "landmark",
+                  "coords": [
+                        60.359824,
+                        41.381136
+                  ]
+            },
+            {
+                  "name": "Abdal Bobo Minaret",
+                  "text": "Abdal Bobo Minaret in Khiva is a slender brick minaret with decorative bands.",
+                  "category": "landmark",
+                  "coords": [
+                        60.365272,
+                        41.376714
+                  ]
+            },
+            {
+                  "name": "Dasha kala steny",
+                  "text": "The mud-brick walls of Dasha Kala defend an ancient fortress in Khiva.",
+                  "category": "landmark",
+                  "coords": [
+                        60.359359,
+                        41.372931
+                  ]
+            },
+            {
+                  "name": "Kolodets",
+                  "text": "A historic well and local attraction in the city of Khiva.",
+                  "category": "landmark",
+                  "coords": [
+                        60.346697,
+                        41.373852
+                  ]
+            },
+            {
+                  "name": "Minaret",
+                  "text": "A traditional minaret and architectural feature in Khiva.",
+                  "category": "landmark",
+                  "coords": [
+                        60.353575,
+                        41.37831
+                  ]
+            },
+            {
+                  "name": "Mavzolei Shakalandara Bobo",
+                  "text": "A historic mausoleum and attraction in the city of Khiva.",
+                  "category": "landmark",
+                  "coords": [
+                        60.35535,
+                        41.379459
+                  ]
+            },
+            {
+                  "name": "Nurallabaya Palace",
+                  "text": "A splendid palace complex and attraction in the city of Khiva.",
+                  "category": "landmark",
+                  "coords": [
+                        60.356521,
+                        41.382784
+                  ]
+            },
+            {
+                  "name": "Minaret Murad-Tura",
+                  "text": "A historic minaret and architectural attraction in Khiva.",
+                  "category": "landmark",
+                  "coords": [
+                        60.35925,
+                        41.378999
+                  ]
+            },
+            {
+                  "name": "Letnyaya rezidentsiya Islom Khodzhi",
+                  "text": "A former summer residence and historic attraction in Khiva.",
+                  "category": "landmark",
+                  "coords": [
+                        60.338234,
+                        41.368978
+                  ]
+            },
+            {
+                  "name": "Complex of Said Mukhammad Mokhiruy",
+                  "text": "The complex of Said Mukhammad Mokhiruy in Khiva includes a mausoleum and a mosque.",
+                  "category": "landmark",
+                  "coords": [
+                        60.365726,
+                        41.382887
+                  ]
+            },
+            {
+                  "name": "Aa Darvoza (West Gate)",
+                  "text": "The west gate of the historic inner city Itchan Kala in Khiva.",
+                  "category": "fortress",
+                  "coords": [
+                        60.35717,
+                        41.378673
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UZ-XW",
     coords: [60.3606, 41.3783],
@@ -2155,7 +8950,124 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "yangiyul-cities-v2", "sights": {"de": [{"name": "Dom kultury", "text": "Ein Kulturhaus in Jangijul, das als Veranstaltungsort für lokale Aufführungen dient.", "category": "cultural", "coords": [69.05279, 41.112272]}, {"name": "Park kultury i Otdykha", "text": "Ein zentraler Park für Kultur und Erholung in Jangijul.", "category": "family", "coords": [69.060501, 41.118815]}, {"name": "Oazis", "text": "Ein Wasserpark in Jangijul, der Freizeitspaß und Abkühlung bietet.", "category": "family", "coords": [69.042885, 41.105236]}], "hu": [{"name": "Dom kultury", "text": "Művelődési ház Jangijulban, amely helyi előadások helyszínéül szolgál.", "category": "cultural", "coords": [69.05279, 41.112272]}, {"name": "Park kultury i Otdykha", "text": "Központi kulturális és szabadidőpark Jangijulban.", "category": "family", "coords": [69.060501, 41.118815]}, {"name": "Oazis", "text": "Vízipark Jangijulban, amely szórakozást és felfrissülést kínál.", "category": "family", "coords": [69.042885, 41.105236]}], "ro": [{"name": "Dom kultury", "text": "O casă de cultură în Jangijul, care servește ca locație pentru spectacole locale.", "category": "cultural", "coords": [69.05279, 41.112272]}, {"name": "Park kultury i Otdykha", "text": "Un parc central de cultură și recreere în Jangijul.", "category": "family", "coords": [69.060501, 41.118815]}, {"name": "Oazis", "text": "Un parc acvatic în Jangijul, care oferă distracție și răcorire.", "category": "family", "coords": [69.042885, 41.105236]}], "en": [{"name": "Dom kultury", "text": "A house of culture in Jangijul serving as a venue for local performances.", "category": "cultural", "coords": [69.05279, 41.112272]}, {"name": "Park kultury i Otdykha", "text": "A central park for culture and recreation in Jangijul.", "category": "family", "coords": [69.060501, 41.118815]}, {"name": "Oazis", "text": "A water park in Jangijul offering fun and refreshment.", "category": "family", "coords": [69.042885, 41.105236]}]},
+    id: "yangiyul-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dom kultury",
+                  "text": "Ein Kulturhaus in Jangijul, das als Veranstaltungsort für lokale Aufführungen dient.",
+                  "category": "cultural",
+                  "coords": [
+                        69.05279,
+                        41.112272
+                  ]
+            },
+            {
+                  "name": "Park kultury i Otdykha",
+                  "text": "Ein Kultur- und Erholungspark in Yangiyul mit Spielplätzen, Spazierwegen und einem kleinen See.",
+                  "category": "family",
+                  "coords": [
+                        69.060501,
+                        41.118815
+                  ]
+            },
+            {
+                  "name": "Oazis",
+                  "text": "Oazis in Yangiyul ist ein Familienort mit einem Brunnen und grünen Rasenflächen.",
+                  "category": "family",
+                  "coords": [
+                        69.042885,
+                        41.105236
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dom kultury",
+                  "text": "Művelődési ház Jangijulban, amely helyi előadások helyszínéül szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        69.05279,
+                        41.112272
+                  ]
+            },
+            {
+                  "name": "Park kultury i Otdykha",
+                  "text": "Egy kulturális és pihenőpark Yangiyulban, játszóterekkel, sétányokkal és egy kis tóval.",
+                  "category": "family",
+                  "coords": [
+                        69.060501,
+                        41.118815
+                  ]
+            },
+            {
+                  "name": "Oazis",
+                  "text": "Az Oazis Yangiyulban egy családi helyszín szökőkúttal és zöld pázsittal.",
+                  "category": "family",
+                  "coords": [
+                        69.042885,
+                        41.105236
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dom kultury",
+                  "text": "O casă de cultură în Jangijul, care servește ca locație pentru spectacole locale.",
+                  "category": "cultural",
+                  "coords": [
+                        69.05279,
+                        41.112272
+                  ]
+            },
+            {
+                  "name": "Park kultury i Otdykha",
+                  "text": "Un parc de cultură și odihnă în Yangiyul, cu locuri de joacă, alei și un lac mic.",
+                  "category": "family",
+                  "coords": [
+                        69.060501,
+                        41.118815
+                  ]
+            },
+            {
+                  "name": "Oazis",
+                  "text": "Oazis în Yangiyul este o zonă de recreere familială cu o fântână și peluze verzi.",
+                  "category": "family",
+                  "coords": [
+                        69.042885,
+                        41.105236
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dom kultury",
+                  "text": "A house of culture in Jangijul serving as a venue for local performances.",
+                  "category": "cultural",
+                  "coords": [
+                        69.05279,
+                        41.112272
+                  ]
+            },
+            {
+                  "name": "Park kultury i Otdykha",
+                  "text": "A park of culture and rest in Yangiyul, with playgrounds, walking paths, and a small lake.",
+                  "category": "family",
+                  "coords": [
+                        69.060501,
+                        41.118815
+                  ]
+            },
+            {
+                  "name": "Oazis",
+                  "text": "Oazis in Yangiyul is a family recreation area with a fountain and green lawns.",
+                  "category": "family",
+                  "coords": [
+                        69.042885,
+                        41.105236
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UZ-TO",
     coords: [69.0458, 41.1125],
@@ -2328,7 +9240,160 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "khodjeyli-cities-v2",
+    id: "khodjeyli-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dvorets Kul'tury",
+                  "text": "Dieses Kunstzentrum fungiert als der wichtigste Kulturpalast in Chodschejli und veranstaltet eine Vielzahl von städtischen und theatralischen Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        59.464306,
+                        42.408233
+                  ]
+            },
+            {
+                  "name": "Rynok stroitel'nykh materialov \"Dzhakhangir\"",
+                  "text": "Dieser spezialisierte lokale Marktplatz in Chodschejli konzentriert sich ganz auf den Handel mit Bau- und Konstruktionsmaterialien.",
+                  "category": "cultural",
+                  "coords": [
+                        59.436448,
+                        42.417228
+                  ]
+            },
+            {
+                  "name": "Xojeli Diyxan Bazarı",
+                  "text": "Auf diesem belebten Bauernmarkt in Chodschejli versammeln sich lokale Landwirte, um mit frischen regionalen Produkten zu handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        59.441494,
+                        42.416393
+                  ]
+            },
+            {
+                  "name": "Avtozapchasti",
+                  "text": "Dieser dedizierte Handelsmarktplatz in Chodschejli ist ein Knotenpunkt für Mechaniker und Fahrer auf der Suche nach Autoersatzteilen.",
+                  "category": "cultural",
+                  "coords": [
+                        59.426522,
+                        42.415217
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dvorets Kul'tury",
+                  "text": "A Khodjeyli fő kultúrpalotájaként működő művészeti központ számos polgári és színházi előadásnak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        59.464306,
+                        42.408233
+                  ]
+            },
+            {
+                  "name": "Rynok stroitel'nykh materialov \"Dzhakhangir\"",
+                  "text": "Ez a speciális helyi piac Khodjeyliben teljes egészében az építőanyagok kereskedelmére összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        59.436448,
+                        42.417228
+                  ]
+            },
+            {
+                  "name": "Xojeli Diyxan Bazarı",
+                  "text": "Ezen a nyüzsgő khodjeyli termelői piacon a helyi mezőgazdasági munkások gyűlnek össze, hogy friss regionális termékekkel kereskedjenek.",
+                  "category": "cultural",
+                  "coords": [
+                        59.441494,
+                        42.416393
+                  ]
+            },
+            {
+                  "name": "Avtozapchasti",
+                  "text": "Ez a Khodjeyliben található dedikált kereskedelmi piac a gépjármű-alkatrészeket kereső szerelők és sofőrök központja.",
+                  "category": "cultural",
+                  "coords": [
+                        59.426522,
+                        42.415217
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dvorets Kul'tury",
+                  "text": "Funcționând ca principalul Palat de Cultură din Khodjeyli, acest centru de artă găzduiește o varietate de spectacole civice și teatrale.",
+                  "category": "cultural",
+                  "coords": [
+                        59.464306,
+                        42.408233
+                  ]
+            },
+            {
+                  "name": "Rynok stroitel'nykh materialov \"Dzhakhangir\"",
+                  "text": "Această piață locală specializată din Khodjeyli se concentrează în întregime pe comerțul cu materiale de construcții.",
+                  "category": "cultural",
+                  "coords": [
+                        59.436448,
+                        42.417228
+                  ]
+            },
+            {
+                  "name": "Xojeli Diyxan Bazarı",
+                  "text": "La această piață țărănească plină de viață din Khodjeyli, lucrătorii agricoli locali se adună pentru a face comerț cu produse regionale proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        59.441494,
+                        42.416393
+                  ]
+            },
+            {
+                  "name": "Avtozapchasti",
+                  "text": "Situată în Khodjeyli, această piață comercială dedicată este un centru pentru mecanicii și șoferii care caută piese de schimb auto.",
+                  "category": "cultural",
+                  "coords": [
+                        59.426522,
+                        42.415217
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dvorets Kul'tury",
+                  "text": "Operating as the main Palace of Culture in Khodjeyli, this arts center hosts a variety of civic and theatrical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        59.464306,
+                        42.408233
+                  ]
+            },
+            {
+                  "name": "Rynok stroitel'nykh materialov \"Dzhakhangir\"",
+                  "text": "This specialized local marketplace in Khodjeyli focuses entirely on the trade of construction and building materials.",
+                  "category": "cultural",
+                  "coords": [
+                        59.436448,
+                        42.417228
+                  ]
+            },
+            {
+                  "name": "Xojeli Diyxan Bazarı",
+                  "text": "At this bustling farmer's market in Khodjeyli, local agricultural workers gather to trade fresh regional produce.",
+                  "category": "cultural",
+                  "coords": [
+                        59.441494,
+                        42.416393
+                  ]
+            },
+            {
+                  "name": "Avtozapchasti",
+                  "text": "Located in Khodjeyli, this dedicated commercial marketplace is a hub for mechanics and drivers seeking automotive spare parts.",
+                  "category": "cultural",
+                  "coords": [
+                        59.426522,
+                        42.415217
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UZ-QR",
     coords: [59.4561, 42.4042],
@@ -2392,7 +9457,160 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "turtkul-cities-v2",
+    id: "turtkul-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kurant",
+                  "text": "Dieses markante Glockenspiel wurde 1975 als Wahrzeichen im Stadtzentrum von Turtkul errichtet.",
+                  "category": "landmark",
+                  "coords": [
+                        60.99836,
+                        41.553351
+                  ]
+            },
+            {
+                  "name": "Turtkul meshiti",
+                  "text": "Die zentrale Moschee von Turtkul, ein wichtiger Ort des Gebets für die lokale muslimische Bevölkerung.",
+                  "category": "landmark",
+                  "coords": [
+                        61.006724,
+                        41.56092
+                  ]
+            },
+            {
+                  "name": "To'rtku'l Diyxan Bazari",
+                  "text": "Ein traditioneller Dehkan-Basar in Turtkul, auf dem Bauern frisches Obst und Gemüse verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        61.01083,
+                        41.562973
+                  ]
+            },
+            {
+                  "name": "Mal bazar",
+                  "text": "Ein lokaler Viehmarkt in Turtkul, auf dem wöchentlich Handel mit Tieren getrieben wird.",
+                  "category": "cultural",
+                  "coords": [
+                        61.025486,
+                        41.538098
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kurant",
+                  "text": "Ezt a jellegzetes harangjátékot 1975-ben emelték Turtkul városközpontjának egyik nevezetességeként.",
+                  "category": "landmark",
+                  "coords": [
+                        60.99836,
+                        41.553351
+                  ]
+            },
+            {
+                  "name": "Turtkul meshiti",
+                  "text": "Turtkul központi mecsetje, a helyi muszlim lakosság fontos imádsági helye.",
+                  "category": "landmark",
+                  "coords": [
+                        61.006724,
+                        41.56092
+                  ]
+            },
+            {
+                  "name": "To'rtku'l Diyxan Bazari",
+                  "text": "Hagyományos dehkán bazár Turtkulban, ahol a gazdák friss gyümölcsöt és zöldséget árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        61.01083,
+                        41.562973
+                  ]
+            },
+            {
+                  "name": "Mal bazar",
+                  "text": "Helyi állatpiac Turtkulban, ahol hetente folyik az állatkereskedelem.",
+                  "category": "cultural",
+                  "coords": [
+                        61.025486,
+                        41.538098
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kurant",
+                  "text": "Acest carillon distinctiv a fost ridicat în 1975 ca punct de reper în centrul orașului Turtkul.",
+                  "category": "landmark",
+                  "coords": [
+                        60.99836,
+                        41.553351
+                  ]
+            },
+            {
+                  "name": "Turtkul meshiti",
+                  "text": "Moscheea centrală din Turtkul, un loc important de rugăciune pentru populația musulmană locală.",
+                  "category": "landmark",
+                  "coords": [
+                        61.006724,
+                        41.56092
+                  ]
+            },
+            {
+                  "name": "To'rtku'l Diyxan Bazari",
+                  "text": "Un bazar tradițional dehkan în Turtkul, unde fermierii vând fructe și legume proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        61.01083,
+                        41.562973
+                  ]
+            },
+            {
+                  "name": "Mal bazar",
+                  "text": "O piață locală de animale în Turtkul, unde se face comerț cu animale săptămânal.",
+                  "category": "cultural",
+                  "coords": [
+                        61.025486,
+                        41.538098
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chimes",
+                  "text": "This distinctive chime was erected in 1975 as a landmark in Turtkul's city center.",
+                  "category": "landmark",
+                  "coords": [
+                        60.99836,
+                        41.553351
+                  ]
+            },
+            {
+                  "name": "Turtkul meshiti",
+                  "text": "The central mosque of Turtkul, a key place of prayer for the local Muslim population.",
+                  "category": "landmark",
+                  "coords": [
+                        61.006724,
+                        41.56092
+                  ]
+            },
+            {
+                  "name": "To'rtku'l Diyxan Bazari",
+                  "text": "A traditional dehkan bazaar in Turtkul where farmers sell fresh fruits and vegetables.",
+                  "category": "cultural",
+                  "coords": [
+                        61.01083,
+                        41.562973
+                  ]
+            },
+            {
+                  "name": "Mal bazar",
+                  "text": "A local livestock market in Turtkul where animal trading takes place weekly.",
+                  "category": "cultural",
+                  "coords": [
+                        61.025486,
+                        41.538098
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UZ-QR",
     coords: [61.0011, 41.5542],
@@ -2456,7 +9674,88 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "kungrad-cities-v2",
+    id: "kungrad-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ag'ash bazar",
+                  "text": "Ein regionaler Marktplatz, der sich auf Holz und lokale Waren in Kungrad spezialisiert hat.",
+                  "category": "cultural",
+                  "coords": [
+                        58.839618,
+                        43.051117
+                  ]
+            },
+            {
+                  "name": "Qon'i'rat Diyxan Bazari'",
+                  "text": "Ein geschäftiger Bauernmarkt, der lokale landwirtschaftliche Produkte in Kungrad anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        58.833434,
+                        43.049999
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ag'ash bazar",
+                  "text": "Egy fára és helyi árukra szakosodott regionális piac Qo‘ng‘irotban.",
+                  "category": "cultural",
+                  "coords": [
+                        58.839618,
+                        43.051117
+                  ]
+            },
+            {
+                  "name": "Qon'i'rat Diyxan Bazari'",
+                  "text": "Egy nyüzsgő termelői piac, amely helyi mezőgazdasági termékeket kínál Qo‘ng‘irotban.",
+                  "category": "cultural",
+                  "coords": [
+                        58.833434,
+                        43.049999
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ag'ash bazar",
+                  "text": "O piață regională specializată în lemn și bunuri locale în Kungrad.",
+                  "category": "cultural",
+                  "coords": [
+                        58.839618,
+                        43.051117
+                  ]
+            },
+            {
+                  "name": "Qon'i'rat Diyxan Bazari'",
+                  "text": "O piață a fermierilor plină de viață, care oferă produse agricole locale în Kungrad.",
+                  "category": "cultural",
+                  "coords": [
+                        58.833434,
+                        43.049999
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ag'ash bazar",
+                  "text": "A regional marketplace specializing in timber and local goods in Kungrad.",
+                  "category": "cultural",
+                  "coords": [
+                        58.839618,
+                        43.051117
+                  ]
+            },
+            {
+                  "name": "Qon'i'rat Diyxan Bazari'",
+                  "text": "A bustling farmers' market offering local agricultural products in Kungrad.",
+                  "category": "cultural",
+                  "coords": [
+                        58.833434,
+                        43.049999
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UZ-QR",
     coords: [58.8406, 43.0422],

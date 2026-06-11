@@ -3,7 +3,376 @@ import type { POI } from "./poi";
 
 export const poiExtraThailandCitiesV2: POI[] = [
   {
-    id: "bangkok-cities-v2",
+    id: "bangkok-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Phanfa Leelard",
+                  "text": "Phanfa Leelard dient als bemerkenswerter Pier und Transitpunkt entlang des historischen Kanalsystems der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        100.506445,
+                        13.755512
+                  ]
+            },
+            {
+                  "name": "Wat Parinayok Worawihan",
+                  "text": "Wat Parinayok Worawihan ist ein königlicher buddhistischer Tempelkomplex in Bangkok.",
+                  "category": "religious",
+                  "coords": [
+                        100.505678,
+                        13.758338
+                  ]
+            },
+            {
+                  "name": "Golden Mount",
+                  "text": "Der Golden Mount ist ein markanter künstlicher Hügel, der von einem goldenen Chedi gekrönt wird und einen Panoramablick auf Bangkok bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        100.506698,
+                        13.753852
+                  ]
+            },
+            {
+                  "name": "Mahakan Fort",
+                  "text": "Das Mahakan-Fort ist eine weiß getünchte historische Zitadelle, die als einer der ursprünglichen Verteidigungswachtürme der Altstadt von Bangkok diente.",
+                  "category": "fortress",
+                  "coords": [
+                        100.505525,
+                        13.755617
+                  ]
+            },
+            {
+                  "name": "Rattanakosin Exhibition Hall",
+                  "text": "Dieses interaktive Museum bietet Multimedia-Ausstellungen über die reiche Geschichte und das kulturelle Erbe der historischen Rattanakosin-Insel von Bangkok.",
+                  "category": "museum",
+                  "coords": [
+                        100.503801,
+                        13.755886
+                  ]
+            },
+            {
+                  "name": "Loha Prasat",
+                  "text": "Dieses markante architektonische Wunderwerk, auch „Metallschloss“ genannt, verfügt über 37 glänzende Türme, die die 37 Tugenden zur Erleuchtung darstellen.",
+                  "category": "tower",
+                  "coords": [
+                        100.504207,
+                        13.754838
+                  ]
+            },
+            {
+                  "name": "Wat Mahannapharam Worawihan",
+                  "text": "Dieser königliche buddhistische Tempel dritter Klasse in der Altstadt von Bangkok ist bekannt für seine ruhige traditionelle Architektur und große Buddhastatuen.",
+                  "category": "landmark",
+                  "coords": [
+                        100.499366,
+                        13.754703
+                  ]
+            },
+            {
+                  "name": "Ratchadamnoen Art Center",
+                  "text": "Dieses Zentrum für zeitgenössische Kunst liegt an einer historischen Allee und beherbergt wechselnde Ausstellungen moderner thailändischer Künstler.",
+                  "category": "cultural",
+                  "coords": [
+                        100.502741,
+                        13.756106
+                  ]
+            },
+            {
+                  "name": "The Queen's Gallery",
+                  "text": "Diese auf Wunsch von Königin Sirikit gegründete, mehrstöckige Galerie zeigt exquisite Werke etablierter und aufstrebender thailändischer Künstler.",
+                  "category": "museum",
+                  "coords": [
+                        100.505132,
+                        13.756545
+                  ]
+            },
+            {
+                  "name": "Lang Wat Ratchanatda Community Flea Market",
+                  "text": "Versteckt hinter dem Tempelgelände ist dieser belebte Gemeinschaftsmarkt ein beliebter Treffpunkt für Sammler, die nach traditionellen thailändischen Amuletten suchen.",
+                  "category": "cultural",
+                  "coords": [
+                        100.50182,
+                        13.754888
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Phanfa Leelard",
+                  "text": "A Phanfa Leelard jelentős mólóként és tranzitpontként szolgál a város történelmi csatornarendszere mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        100.506445,
+                        13.755512
+                  ]
+            },
+            {
+                  "name": "Wat Parinayok Worawihan",
+                  "text": "A Wat Parinayok Worawihan egy királyi buddhista templomegyüttes Bangkokban.",
+                  "category": "religious",
+                  "coords": [
+                        100.505678,
+                        13.758338
+                  ]
+            },
+            {
+                  "name": "Golden Mount",
+                  "text": "Az Aranyhegy egy kiemelkedő mesterséges domb, amelyet egy csillogó arany csendi koronáz, és panorámás kilátást nyújt Bangkokra.",
+                  "category": "landmark",
+                  "coords": [
+                        100.506698,
+                        13.753852
+                  ]
+            },
+            {
+                  "name": "Mahakan Fort",
+                  "text": "A Mahakan erőd egy fehér falú történelmi fellegvár, amely Bangkok óvárosának egyik eredeti védelmi őrtornyaként szolgált.",
+                  "category": "fortress",
+                  "coords": [
+                        100.505525,
+                        13.755617
+                  ]
+            },
+            {
+                  "name": "Rattanakosin Exhibition Hall",
+                  "text": "Ez az interaktív múzeum multimédiás kiállításokon mutatja be Bangkok történelmi Rattanakosin-szigetének gazdag történelmét és kulturális örökségét.",
+                  "category": "museum",
+                  "coords": [
+                        100.503801,
+                        13.755886
+                  ]
+            },
+            {
+                  "name": "Loha Prasat",
+                  "text": "A „Fémkastélyként” ismert lenyűgöző építészeti csoda 37 csillogó toronnyal rendelkezik, amelyek a megvilágosodás felé vezető 37 erényt jelképezik.",
+                  "category": "tower",
+                  "coords": [
+                        100.504207,
+                        13.754838
+                  ]
+            },
+            {
+                  "name": "Wat Mahannapharam Worawihan",
+                  "text": "Ez a harmadosztályú királyi buddhista templom Bangkok óvárosában nyugodt hagyományos építészetéről és nagy Buddha-szobrairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        100.499366,
+                        13.754703
+                  ]
+            },
+            {
+                  "name": "Ratchadamnoen Art Center",
+                  "text": "A történelmi sugárút mentén található kortárs művészeti központ modern thai művészek időszaki kiállításainak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        100.502741,
+                        13.756106
+                  ]
+            },
+            {
+                  "name": "The Queen's Gallery",
+                  "text": "A Sirikit királyné kérésére létrehozott, többszintes galéria elismert és feltörekvő thai művészek gyönyörű alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        100.505132,
+                        13.756545
+                  ]
+            },
+            {
+                  "name": "Lang Wat Ratchanatda Community Flea Market",
+                  "text": "A templom területének hátsó részén megbújó nyüzsgő közösségi piac népszerű hely a hagyományos thai amuletteket és talizmánokat kereső gyűjtők körében.",
+                  "category": "cultural",
+                  "coords": [
+                        100.50182,
+                        13.754888
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Phanfa Leelard",
+                  "text": "Phanfa Leelard servește ca un debarcader și un punct de tranzit notabil de-a lungul sistemului istoric de canale al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        100.506445,
+                        13.755512
+                  ]
+            },
+            {
+                  "name": "Wat Parinayok Worawihan",
+                  "text": "Wat Parinayok Worawihan este un complex al unui templu budist regal situat în Bangkok.",
+                  "category": "religious",
+                  "coords": [
+                        100.505678,
+                        13.758338
+                  ]
+            },
+            {
+                  "name": "Golden Mount",
+                  "text": "Muntele de Aur este un deal artificial proeminent, încoronat cu o stupă aurie strălucitoare care oferă vedere panoramică asupra Bangkokului.",
+                  "category": "landmark",
+                  "coords": [
+                        100.506698,
+                        13.753852
+                  ]
+            },
+            {
+                  "name": "Mahakan Fort",
+                  "text": "Fortul Mahakan este o citadelă istorică cu ziduri albe care a servit drept unul dintre turnurile originale de apărare ale vechiului oraș Bangkok.",
+                  "category": "fortress",
+                  "coords": [
+                        100.505525,
+                        13.755617
+                  ]
+            },
+            {
+                  "name": "Rattanakosin Exhibition Hall",
+                  "text": "Acest muzeu interactiv oferă expoziții multimedia care detaliază istoria bogată și moștenirea culturală a insulei istorice Rattanakosin din Bangkok.",
+                  "category": "museum",
+                  "coords": [
+                        100.503801,
+                        13.755886
+                  ]
+            },
+            {
+                  "name": "Loha Prasat",
+                  "text": "Cunoscut sub numele de „Castelul de Metal”, această minune arhitecturală uimitoare are 37 de turle strălucitoare care reprezintă cele 37 de virtuți către iluminare.",
+                  "category": "tower",
+                  "coords": [
+                        100.504207,
+                        13.754838
+                  ]
+            },
+            {
+                  "name": "Wat Mahannapharam Worawihan",
+                  "text": "Acest templu budist regal de clasa a treia din orașul vechi al Bangkokului este cunoscut pentru arhitectura sa tradițională senină și statuile mari ale lui Buddha.",
+                  "category": "landmark",
+                  "coords": [
+                        100.499366,
+                        13.754703
+                  ]
+            },
+            {
+                  "name": "Ratchadamnoen Art Center",
+                  "text": "Situat de-a lungul unui bulevard istoric, acest centru de artă contemporană găzduiește expoziții rotative ale artiștilor thailandezi moderni.",
+                  "category": "cultural",
+                  "coords": [
+                        100.502741,
+                        13.756106
+                  ]
+            },
+            {
+                  "name": "The Queen's Gallery",
+                  "text": "Înființată la cererea Reginei Sirikit, această galerie cu mai multe etaje expune lucrări rafinate ale artiștilor thailandezi consacrați și emergenți.",
+                  "category": "museum",
+                  "coords": [
+                        100.505132,
+                        13.756545
+                  ]
+            },
+            {
+                  "name": "Lang Wat Ratchanatda Community Flea Market",
+                  "text": "Ascuns în spatele curții templului, acest bazar comunitar plin de viață este un loc popular printre colecționarii care caută amulete și talismane tradiționale thailandeze.",
+                  "category": "cultural",
+                  "coords": [
+                        100.50182,
+                        13.754888
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Phanfa Leelard",
+                  "text": "Phanfa Leelard serves as a notable pier and transit point along the city's historic canal system.",
+                  "category": "landmark",
+                  "coords": [
+                        100.506445,
+                        13.755512
+                  ]
+            },
+            {
+                  "name": "Wat Parinayok Worawihan",
+                  "text": "Wat Parinayok Worawihan is a Buddhist royal temple complex located in Bangkok.",
+                  "category": "religious",
+                  "coords": [
+                        100.505678,
+                        13.758338
+                  ]
+            },
+            {
+                  "name": "Golden Mount",
+                  "text": "The Golden Mount is a prominent artificial hill crowned with a gleaming golden chedi that offers panoramic views of Bangkok.",
+                  "category": "landmark",
+                  "coords": [
+                        100.506698,
+                        13.753852
+                  ]
+            },
+            {
+                  "name": "Mahakan Fort",
+                  "text": "Mahakan Fort is a white-walled historic citadel that served as one of the original defensive watchtowers of Bangkok's old city.",
+                  "category": "fortress",
+                  "coords": [
+                        100.505525,
+                        13.755617
+                  ]
+            },
+            {
+                  "name": "Rattanakosin Exhibition Hall",
+                  "text": "This interactive museum offers multimedia exhibits detailing the rich history and cultural heritage of Bangkok's historic Rattanakosin Island.",
+                  "category": "museum",
+                  "coords": [
+                        100.503801,
+                        13.755886
+                  ]
+            },
+            {
+                  "name": "Loha Prasat",
+                  "text": "Known as the \"Metal Castle,\" this striking architectural marvel features 37 gleaming spires representing the 37 virtues toward enlightenment.",
+                  "category": "tower",
+                  "coords": [
+                        100.504207,
+                        13.754838
+                  ]
+            },
+            {
+                  "name": "Wat Mahannapharam Worawihan",
+                  "text": "This third-class royal Buddhist temple in Bangkok's old city is known for its serene traditional architecture and large Buddha statues.",
+                  "category": "landmark",
+                  "coords": [
+                        100.499366,
+                        13.754703
+                  ]
+            },
+            {
+                  "name": "Ratchadamnoen Art Center",
+                  "text": "Located along a historic avenue, this contemporary arts centre hosts rotating exhibitions of modern Thai artists.",
+                  "category": "cultural",
+                  "coords": [
+                        100.502741,
+                        13.756106
+                  ]
+            },
+            {
+                  "name": "The Queen's Gallery",
+                  "text": "Established at the request of Queen Sirikit, this multi-story gallery showcases exquisite works by both established and emerging Thai artists.",
+                  "category": "museum",
+                  "coords": [
+                        100.505132,
+                        13.756545
+                  ]
+            },
+            {
+                  "name": "Lang Wat Ratchanatda Community Flea Market",
+                  "text": "Tucked behind the temple grounds, this bustling community market is a popular spot for collectors seeking traditional Thai amulets and talismans.",
+                  "category": "cultural",
+                  "coords": [
+                        100.50182,
+                        13.754888
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "TH-10",
     coords: [100.5018, 13.7563],
@@ -336,7 +705,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Chiang Mai Samakkhi Charity Foundation",
-                  "text": "Eine Wohltätigkeitsstiftung und ein Gebetshaus in Chiang Mai.",
+                  "text": "Eine buddhistische Wohltätigkeitsstiftung in der Altstadt von Chiang Mai.",
                   "category": "religious",
                   "coords": [
                         99.001433,
@@ -462,7 +831,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Chiang Mai University Art Center",
-                  "text": "Ein Kunstzentrum der Universität Chiang Mai, das zeitgenössische Werke ausstellt.",
+                  "text": "Das Kunstzentrum der Chiang-Mai-Universität, das zeitgenössische thailändische Kunst ausstellt.",
                   "category": "museum",
                   "coords": [
                         98.963253,
@@ -788,7 +1157,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Chiang Mai Samakkhi Charity Foundation",
-                  "text": "Jótékonysági alapítvány és imaház Csiangmajban.",
+                  "text": "Egy buddhista jótékonysági alapítvány Chiang Mai óvárosában.",
                   "category": "religious",
                   "coords": [
                         99.001433,
@@ -914,7 +1283,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Chiang Mai University Art Center",
-                  "text": "A Chiang Mai Egyetem művészeti központja, amely kortárs műveket állít ki.",
+                  "text": "A Chiang Mai Egyetem Művészeti Központja, amely kortárs thai művészetet mutat be.",
                   "category": "museum",
                   "coords": [
                         98.963253,
@@ -1240,7 +1609,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Chiang Mai Samakkhi Charity Foundation",
-                  "text": "O fundație caritabilă și lăcaș de cult în Chiang Mai.",
+                  "text": "O fundație caritabilă budistă în orașul vechi din Chiang Mai.",
                   "category": "religious",
                   "coords": [
                         99.001433,
@@ -1366,7 +1735,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Chiang Mai University Art Center",
-                  "text": "Un centru de artă al Universității Chiang Mai care expune lucrări contemporane.",
+                  "text": "Centrul de Artă al Universității Chiang Mai, care expune artă thailandeză contemporană.",
                   "category": "museum",
                   "coords": [
                         98.963253,
@@ -1692,7 +2061,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Chiangmai Samakkee Charity Foundation",
-                  "text": "Chiangmai Samakkee Charity Foundation is a charitable foundation and place of worship in Chiang Mai.",
+                  "text": "A Buddhist charity foundation in the old city of Chiang Mai.",
                   "category": "religious",
                   "coords": [
                         99.001433,
@@ -1818,7 +2187,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Art Center Chiang Mai University",
-                  "text": "An art center at Chiang Mai University exhibiting contemporary works.",
+                  "text": "The Art Center of Chiang Mai University, exhibiting contemporary Thai art.",
                   "category": "museum",
                   "coords": [
                         98.963253,
@@ -1900,7 +2269,772 @@ export const poiExtraThailandCitiesV2: POI[] = [
       fr: ["Chiang Mai est une ville du nord montagneux de la Thaïlande, connue pour sa vieille ville fortifiée et ses centaines de temples bouddhistes.", "Situé sur le territoire du royaume de Thaïlande.", "Caractérisé par le climat de mousson de l'Asie du Sud-Est.", "Lié à l'héritage de Sukhothai et d'Ayutthaya."],
     }, image: "/poi-images/chiang-mai-cities-v2.webp"},
   {
-    id: "phuket-city-cities-v2",
+    id: "phuket-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chartered Bank Intersection",
+                  "text": "Die Chartered Bank Intersection zeichnet sich durch erhaltene sino-portugiesische Gebäude aus, in denen einst eine historische Bank untergebracht war.",
+                  "category": "landmark",
+                  "coords": [
+                        98.39085,
+                        7.883601
+                  ]
+            },
+            {
+                  "name": "Phuket Old Town",
+                  "text": "Die Altstadt von Phuket ist berühmt für ihre farbenfrohen Ladenzeilen in sino-portugiesischer Architektur, die vom Zinnhandel des 19. Jahrhunderts zeugen.",
+                  "category": "landmark",
+                  "coords": [
+                        98.389221,
+                        7.884777
+                  ]
+            },
+            {
+                  "name": "Baan Chinpracha",
+                  "text": "Baan Chinpracha ist eine gut erhaltene sino-portugiesische Villa aus dem Jahr 1903 mit originalen italienischen Bodenfliesen und antiken Möbeln.",
+                  "category": "museum",
+                  "coords": [
+                        98.38394,
+                        7.885778
+                  ]
+            },
+            {
+                  "name": "Monkey feeding",
+                  "text": "An diesem Ort in Phuket City versammeln sich zahlreiche Affen, um von Einheimischen und Touristen mit frischem Obst gefüttert zu werden.",
+                  "category": "landmark",
+                  "coords": [
+                        98.379509,
+                        7.893805
+                  ]
+            },
+            {
+                  "name": "Khao Rang Viewpoint",
+                  "text": "Der Khao Rang Viewpoint bietet von einer bewaldeten Hügelkuppe aus eine herrliche Aussicht auf die Dächer von Phuket City und die Andamanensee.",
+                  "category": "natural",
+                  "coords": [
+                        98.380192,
+                        7.892383
+                  ]
+            },
+            {
+                  "name": "Wat Mongkol Nimit",
+                  "text": "Wat Mongkol Nimit ist ein buddhistischer Tempel, der sich durch seine rot-goldene Halle im traditionellen thailändischen Stil auszeichnet.",
+                  "category": "religious",
+                  "coords": [
+                        98.389094,
+                        7.886334
+                  ]
+            },
+            {
+                  "name": "Surin Roundabout",
+                  "text": "Der Surin Roundabout in Phuket City beherbergt einen kunstvollen Uhrturm, der ein markantes Wahrzeichen im Straßenverkehr darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        98.392218,
+                        7.880413
+                  ]
+            },
+            {
+                  "name": "Chaloem Phrakiat Park",
+                  "text": "Der Chaloem Phrakiat Park ist eine weitläufige grüne Oase in Phuket City, in der Einheimische joggen und sich an den schattigen Teichen entspannen.",
+                  "category": "landmark",
+                  "coords": [
+                        98.375388,
+                        7.875244
+                  ]
+            },
+            {
+                  "name": "Phuket Thai Hua School",
+                  "text": "Die Phuket Thai Hua School ist eine historische chinesische Sprachschule von 1934, die heute ein Museum über chinesische Einwanderer beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        98.386867,
+                        7.885605
+                  ]
+            },
+            {
+                  "name": "Naka Street food",
+                  "text": "Auf dem Naka Weekend Market bieten zahllose Essensstände authentisches thailändisches Streetfood von gegrillten Meeresfrüchten bis hin zu süßen Roti an.",
+                  "category": "landmark",
+                  "coords": [
+                        98.366318,
+                        7.880438
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "Der Königreichssaal der Zeugen Jehovas in Phuket City ist eine christliche Versammlungsstätte für die Bibelstudien der lokalen Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        98.377613,
+                        7.863938
+                  ]
+            },
+            {
+                  "name": "Jui Tui Shrine",
+                  "text": "Der Jui Tui Shrine ist einer der wichtigsten chinesischen Tempel in Phuket und das spirituelle Herzstück des jährlichen Phuket Vegetarian Festival.",
+                  "category": "religious",
+                  "coords": [
+                        98.383384,
+                        7.883184
+                  ]
+            },
+            {
+                  "name": "Wat Khao Rang",
+                  "text": "Wat Khao Rang beherbergt eine markante große goldene Buddha-Statue in sitzender Position, die den Tempelkomplex am Hang überragt.",
+                  "category": "landmark",
+                  "coords": [
+                        98.38169,
+                        7.893845
+                  ]
+            },
+            {
+                  "name": "Wat Kosit Wihan Hall of a Temple",
+                  "text": "Die zentrale Halle des Wat Kosit Wihan dient den buddhistischen Mönchen als zeremonieller Raum für Gebete und rituelle Zusammenkünfte.",
+                  "category": "landmark",
+                  "coords": [
+                        98.390143,
+                        7.899804
+                  ]
+            },
+            {
+                  "name": "Masjid Yameay",
+                  "text": "Masjid Yameay ist eine lokale Moschee in Phuket City, die der muslimischen Gemeinde als wichtiger Ort für das Freitagsgebet dient.",
+                  "category": "landmark",
+                  "coords": [
+                        98.390458,
+                        7.879144
+                  ]
+            },
+            {
+                  "name": "Sanjao Sam San",
+                  "text": "Sanjao Sam San ist ein kleiner, reich verzierter taoistischer Schrein in der Altstadt von Phuket, der chinesische Gottheiten verehrt.",
+                  "category": "landmark",
+                  "coords": [
+                        98.382797,
+                        7.885646
+                  ]
+            },
+            {
+                  "name": "Wat Khachon Rangsan",
+                  "text": "Wat Khachon Rangsan ist ein buddhistischer Tempel, dessen Architektur eine ungewöhnliche Mischung aus thailändischen und kolonialen europäischen Einflüssen zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        98.384788,
+                        7.883962
+                  ]
+            },
+            {
+                  "name": "Wat Nakaram",
+                  "text": "Wat Nakaram ist ein lokales buddhistisches Klostergebäude in Phuket City mit ruhigen Mönchsunterkünften nahe des belebten Wochenendmarktes.",
+                  "category": "landmark",
+                  "coords": [
+                        98.367128,
+                        7.881826
+                  ]
+            },
+            {
+                  "name": "Sam Sae Chu Hut Shirine",
+                  "text": "Der Sam Sae Chu Hut Shrine ist ein von der lokalen chinesischen Gemeinschaft gepflegter taoistischer Tempel, in dem täglich Räucherstäbchen abgebrannt werden.",
+                  "category": "landmark",
+                  "coords": [
+                        98.381102,
+                        7.889349
+                  ]
+            },
+            {
+                  "name": "Plein Poa Night Market",
+                  "text": "Auf dem Plein Poa Night Market drängen sich Essensstände und Händler unter freiem Himmel, die günstige Kleidung und lokale Snacks verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        98.38987,
+                        7.880059
+                  ]
+            },
+            {
+                  "name": "Midtown Phuket Night Market Walking Street (",
+                  "text": "Die Walking Street des Midtown Phuket Night Market ist eine abendliche Flaniermeile, auf der gebratene Meeresfrüchte und Souvenirs angeboten werden.",
+                  "category": "cultural",
+                  "coords": [
+                        98.389143,
+                        7.88296
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chartered Bank Intersection",
+                  "text": "A Chartered Bank Intersection jellegzetességei a fennmaradt kínai-portugál épületek, amelyek egykor egy történelmi banknak adtak otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        98.39085,
+                        7.883601
+                  ]
+            },
+            {
+                  "name": "Phuket Old Town",
+                  "text": "Phuket óvárosa híres a 19. századi ónkereskedelemről tanúskodó, színes kínai-portugál építészetű üzletsorairól.",
+                  "category": "landmark",
+                  "coords": [
+                        98.389221,
+                        7.884777
+                  ]
+            },
+            {
+                  "name": "Baan Chinpracha",
+                  "text": "A Baan Chinpracha egy 1903-ból származó, jól karbantartott kínai-portugál villa, eredeti olasz padlólapokkal és antik bútorokkal.",
+                  "category": "museum",
+                  "coords": [
+                        98.38394,
+                        7.885778
+                  ]
+            },
+            {
+                  "name": "Monkey feeding",
+                  "text": "Phuket városának ezen a pontján számos majom gyűlik össze, hogy a helyiek és a turisták friss gyümölccsel etessék őket.",
+                  "category": "landmark",
+                  "coords": [
+                        98.379509,
+                        7.893805
+                  ]
+            },
+            {
+                  "name": "Khao Rang Viewpoint",
+                  "text": "A Khao Rang kilátó egy erdős dombtetőről nyújt csodálatos kilátást Phuket város háztetőire és az Andamán-tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        98.380192,
+                        7.892383
+                  ]
+            },
+            {
+                  "name": "Wat Mongkol Nimit",
+                  "text": "A Wat Mongkol Nimit egy buddhista templom, amelyet a hagyományos thai stílusú, piros és arany színű csarnoka jellemez.",
+                  "category": "religious",
+                  "coords": [
+                        98.389094,
+                        7.886334
+                  ]
+            },
+            {
+                  "name": "Surin Roundabout",
+                  "text": "Phuket városában a Surin körforgalom egy díszes óratoronynak ad otthont, amely a forgalom egyik kiemelkedő mérföldköve.",
+                  "category": "landmark",
+                  "coords": [
+                        98.392218,
+                        7.880413
+                  ]
+            },
+            {
+                  "name": "Chaloem Phrakiat Park",
+                  "text": "A Chaloem Phrakiat Park egy tágas zöld oázis Phuket városában, ahol a helyiek kocognak és hűsölnek az árnyékos tavak mellett.",
+                  "category": "landmark",
+                  "coords": [
+                        98.375388,
+                        7.875244
+                  ]
+            },
+            {
+                  "name": "Phuket Thai Hua School",
+                  "text": "A Phuket Thai Hua Iskola egy történelmi, 1934-es kínai nyelviskola, amely ma a kínai bevándorlókról szóló múzeumnak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        98.386867,
+                        7.885605
+                  ]
+            },
+            {
+                  "name": "Naka Street food",
+                  "text": "A Naka utcai ételpiac megszámlálhatatlan standja autentikus thai ételeket kínál a grillezett tenger gyümölcseitől az édes rotiig.",
+                  "category": "landmark",
+                  "coords": [
+                        98.366318,
+                        7.880438
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "Phuket városában a Jehova Tanúi Királyság-terme egy keresztény gyülekezeti hely a helyi közösség bibliatanulmányozásaihoz.",
+                  "category": "landmark",
+                  "coords": [
+                        98.377613,
+                        7.863938
+                  ]
+            },
+            {
+                  "name": "Jui Tui Shrine",
+                  "text": "A Jui Tui szentély Phuket egyik legfontosabb kínai temploma és az éves phuketi vegetáriánus fesztivál spirituális központja.",
+                  "category": "religious",
+                  "coords": [
+                        98.383384,
+                        7.883184
+                  ]
+            },
+            {
+                  "name": "Wat Khao Rang",
+                  "text": "A Wat Khao Rang egy jellegzetes, nagy arany Buddha-szobornak ad otthont ülő helyzetben, amely a domboldalon lévő templomkomplexum fölé magasodik.",
+                  "category": "landmark",
+                  "coords": [
+                        98.38169,
+                        7.893845
+                  ]
+            },
+            {
+                  "name": "Wat Kosit Wihan Hall of a Temple",
+                  "text": "A Wat Kosit Wihan központi csarnoka a buddhista szerzetesek ceremoniális tereként szolgál imákhoz és rituális összejövetelekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        98.390143,
+                        7.899804
+                  ]
+            },
+            {
+                  "name": "Masjid Yameay",
+                  "text": "A Masjid Yameay egy helyi mecset Phuket városában, amely a muszlim közösség fontos pénteki imahelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        98.390458,
+                        7.879144
+                  ]
+            },
+            {
+                  "name": "Sanjao Sam San",
+                  "text": "A Sanjao Sam San egy kicsi, gazdagon díszített taoista szentély Phuket óvárosában, amely a kínai istenségeket tiszteli.",
+                  "category": "landmark",
+                  "coords": [
+                        98.382797,
+                        7.885646
+                  ]
+            },
+            {
+                  "name": "Wat Khachon Rangsan",
+                  "text": "A Wat Khachon Rangsan egy buddhista templom, amelynek építészete a thai és a gyarmati európai hatások szokatlan keverékét mutatja.",
+                  "category": "landmark",
+                  "coords": [
+                        98.384788,
+                        7.883962
+                  ]
+            },
+            {
+                  "name": "Wat Nakaram",
+                  "text": "A Wat Nakaram egy helyi buddhista kolostor Phuket városában, csendes szerzetesi szállásokkal a nyüzsgő hétvégi piac közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        98.367128,
+                        7.881826
+                  ]
+            },
+            {
+                  "name": "Sam Sae Chu Hut Shirine",
+                  "text": "A Sam Sae Chu Hut szentély egy, a helyi kínai közösség által fenntartott taoista templom, ahol naponta füstölőket égetnek.",
+                  "category": "landmark",
+                  "coords": [
+                        98.381102,
+                        7.889349
+                  ]
+            },
+            {
+                  "name": "Plein Poa Night Market",
+                  "text": "A Plein Poa éjszakai piacon szabadtéri ételstandok és árusok tolonganak, olcsó ruhákat és helyi harapnivalókat árulva.",
+                  "category": "cultural",
+                  "coords": [
+                        98.38987,
+                        7.880059
+                  ]
+            },
+            {
+                  "name": "Midtown Phuket Night Market Walking Street (",
+                  "text": "A Midtown Phuket Night Market sétálóutcája egy esti sétány, ahol sült tenger gyümölcseit és ajándéktárgyakat kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        98.389143,
+                        7.88296
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chartered Bank Intersection",
+                  "text": "Chartered Bank Intersection se distinge prin clădiri sino-portugheze conservate, care au găzduit odată o bancă istorică.",
+                  "category": "landmark",
+                  "coords": [
+                        98.39085,
+                        7.883601
+                  ]
+            },
+            {
+                  "name": "Phuket Old Town",
+                  "text": "Orașul vechi din Phuket este renumit pentru fațadele colorate ale magazinelor cu arhitectură sino-portugheză din perioada comerțului cu staniu din secolul al XIX-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        98.389221,
+                        7.884777
+                  ]
+            },
+            {
+                  "name": "Baan Chinpracha",
+                  "text": "Baan Chinpracha este o casă sino-portugheză bine conservată din 1903, prezentând plăci de pardoseală italiene originale și mobilier antic.",
+                  "category": "museum",
+                  "coords": [
+                        98.38394,
+                        7.885778
+                  ]
+            },
+            {
+                  "name": "Monkey feeding",
+                  "text": "Multe maimuțe se adună în acest punct din orașul Phuket pentru a fi hrănite cu fructe proaspete de către localnici și turiști.",
+                  "category": "landmark",
+                  "coords": [
+                        98.379509,
+                        7.893805
+                  ]
+            },
+            {
+                  "name": "Khao Rang Viewpoint",
+                  "text": "Punctul de belvedere Khao Rang oferă o vedere minunată asupra acoperișurilor din orașul Phuket și a Mării Andaman de pe un vârf de deal împădurit.",
+                  "category": "natural",
+                  "coords": [
+                        98.380192,
+                        7.892383
+                  ]
+            },
+            {
+                  "name": "Wat Mongkol Nimit",
+                  "text": "Wat Mongkol Nimit este un templu budist remarcat pentru sala sa în nuanțe de roșu și auriu, construită în stil thailandez tradițional.",
+                  "category": "religious",
+                  "coords": [
+                        98.389094,
+                        7.886334
+                  ]
+            },
+            {
+                  "name": "Surin Roundabout",
+                  "text": "Sensul giratoriu Surin din orașul Phuket găzduiește un turn cu ceas elaborat, reprezentând un punct de reper distinctiv în trafic.",
+                  "category": "landmark",
+                  "coords": [
+                        98.392218,
+                        7.880413
+                  ]
+            },
+            {
+                  "name": "Chaloem Phrakiat Park",
+                  "text": "Parcul Chaloem Phrakiat este o oază verde spațioasă în orașul Phuket, unde localnicii fac jogging și se relaxează lângă iazurile umbrite.",
+                  "category": "landmark",
+                  "coords": [
+                        98.375388,
+                        7.875244
+                  ]
+            },
+            {
+                  "name": "Phuket Thai Hua School",
+                  "text": "Școala Phuket Thai Hua este o școală istorică de limbă chineză din 1934, care găzduiește acum un muzeu despre imigranții chinezi.",
+                  "category": "museum",
+                  "coords": [
+                        98.386867,
+                        7.885605
+                  ]
+            },
+            {
+                  "name": "Naka Street food",
+                  "text": "Strada Naka este plină de tarabe cu mâncare care oferă preparate stradale thailandeze autentice, de la fructe de mare la grătar la roti dulci.",
+                  "category": "landmark",
+                  "coords": [
+                        98.366318,
+                        7.880438
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "Sala Regatului a Martorilor lui Iehova din orașul Phuket este un lăcaș de întâlnire creștin pentru studiile biblice ale comunității locale.",
+                  "category": "landmark",
+                  "coords": [
+                        98.377613,
+                        7.863938
+                  ]
+            },
+            {
+                  "name": "Jui Tui Shrine",
+                  "text": "Altarul Jui Tui este unul dintre cele mai importante temple chinezești din Phuket și inima spirituală a Festivalului Vegetarian anual.",
+                  "category": "religious",
+                  "coords": [
+                        98.383384,
+                        7.883184
+                  ]
+            },
+            {
+                  "name": "Wat Khao Rang",
+                  "text": "Wat Khao Rang găzduiește o mare statuie de aur a lui Buddha în poziție șezândă, care domină complexul de temple de pe deal.",
+                  "category": "landmark",
+                  "coords": [
+                        98.38169,
+                        7.893845
+                  ]
+            },
+            {
+                  "name": "Wat Kosit Wihan Hall of a Temple",
+                  "text": "Sala centrală a templolui Wat Kosit Wihan servește drept spațiu ceremonial pentru rugăciunile și adunările rituale ale călugărilor budiști.",
+                  "category": "landmark",
+                  "coords": [
+                        98.390143,
+                        7.899804
+                  ]
+            },
+            {
+                  "name": "Masjid Yameay",
+                  "text": "Masjid Yameay este o moschee locală din orașul Phuket, servind drept loc important pentru rugăciunile de vineri ale comunității musulmane.",
+                  "category": "landmark",
+                  "coords": [
+                        98.390458,
+                        7.879144
+                  ]
+            },
+            {
+                  "name": "Sanjao Sam San",
+                  "text": "Sanjao Sam San este un mic altar taoist bogat ornamentat din orașul vechi Phuket, dedicat zeităților chinezești.",
+                  "category": "landmark",
+                  "coords": [
+                        98.382797,
+                        7.885646
+                  ]
+            },
+            {
+                  "name": "Wat Khachon Rangsan",
+                  "text": "Wat Khachon Rangsan este un templu budist a cărui arhitectură prezintă un amestec neobișnuit de influențe thailandeze și europene coloniale.",
+                  "category": "landmark",
+                  "coords": [
+                        98.384788,
+                        7.883962
+                  ]
+            },
+            {
+                  "name": "Wat Nakaram",
+                  "text": "Wat Nakaram este un complex monastic budist local din orașul Phuket, cu spații liniștite pentru călugări lângă piața aglomerată de weekend.",
+                  "category": "landmark",
+                  "coords": [
+                        98.367128,
+                        7.881826
+                  ]
+            },
+            {
+                  "name": "Sam Sae Chu Hut Shirine",
+                  "text": "Altarul Sam Sae Chu Hut este un templu taoist întreținut de comunitatea chineză locală, unde se ard zilnic bețișoare parfumate.",
+                  "category": "landmark",
+                  "coords": [
+                        98.381102,
+                        7.889349
+                  ]
+            },
+            {
+                  "name": "Plein Poa Night Market",
+                  "text": "La piața de noapte Plein Poa se înghesuie tarabe cu mâncare și comercianți în aer liber, vânzând haine ieftine și gustări locale.",
+                  "category": "cultural",
+                  "coords": [
+                        98.38987,
+                        7.880059
+                  ]
+            },
+            {
+                  "name": "Midtown Phuket Night Market Walking Street (",
+                  "text": "Strada pietonală a pieței de noapte din centrul Phuket este o promenadă de seară, unde se oferă fructe de mare prăjite și suveniruri.",
+                  "category": "cultural",
+                  "coords": [
+                        98.389143,
+                        7.88296
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chartered Bank Intersection",
+                  "text": "The Chartered Bank Intersection is distinguished by its preserved Sino-Portuguese buildings, notably the former historic bank branch.",
+                  "category": "landmark",
+                  "coords": [
+                        98.39085,
+                        7.883601
+                  ]
+            },
+            {
+                  "name": "Phuket Old Town",
+                  "text": "Old Phuket Town is renowned for its colourful Sino-Portuguese shophouses built during the 19th-century tin boom.",
+                  "category": "landmark",
+                  "coords": [
+                        98.389221,
+                        7.884777
+                  ]
+            },
+            {
+                  "name": "Baan Chinpracha",
+                  "text": "Baan Chinpracha is a beautifully preserved Sino-Portuguese mansion built in 1903, featuring original Italian floor tiles and antique furnishings.",
+                  "category": "museum",
+                  "coords": [
+                        98.38394,
+                        7.885778
+                  ]
+            },
+            {
+                  "name": "Monkey feeding",
+                  "text": "Dozens of wild macaques gather at this specific spot in Phuket City to be fed fresh fruit and peanuts by locals and tourists.",
+                  "category": "landmark",
+                  "coords": [
+                        98.379509,
+                        7.893805
+                  ]
+            },
+            {
+                  "name": "Khao Rang Viewpoint",
+                  "text": "The Khao Rang Viewpoint sits on a wooded hilltop, offering expansive vistas over the rooftops of Phuket City out to the Andaman Sea.",
+                  "category": "natural",
+                  "coords": [
+                        98.380192,
+                        7.892383
+                  ]
+            },
+            {
+                  "name": "Wat Mongkol Nimit",
+                  "text": "Wat Mongkol Nimit is a prominent Buddhist temple distinguished by its ornate red and gold ordination hall in traditional Thai style.",
+                  "category": "religious",
+                  "coords": [
+                        98.389094,
+                        7.886334
+                  ]
+            },
+            {
+                  "name": "Surin Roundabout",
+                  "text": "The Surin Roundabout in Phuket City features an ornate central clock tower that serves as a major landmark for local traffic.",
+                  "category": "landmark",
+                  "coords": [
+                        98.392218,
+                        7.880413
+                  ]
+            },
+            {
+                  "name": "Chaloem Phrakiat Park",
+                  "text": "Chaloem Phrakiat Park is a large green oasis in Phuket City where locals come to jog and relax by the shaded ornamental lakes.",
+                  "category": "landmark",
+                  "coords": [
+                        98.375388,
+                        7.875244
+                  ]
+            },
+            {
+                  "name": "Phuket Thai Hua School",
+                  "text": "Operating out of a 1934 Sino-Portuguese building, the Phuket Thai Hua School now functions as a museum detailing Chinese immigration to the island.",
+                  "category": "museum",
+                  "coords": [
+                        98.386867,
+                        7.885605
+                  ]
+            },
+            {
+                  "name": "Naka Street food",
+                  "text": "The Naka Street food area features countless stalls sizzling with authentic Thai street food, from grilled seafood to sweet roti.",
+                  "category": "landmark",
+                  "coords": [
+                        98.366318,
+                        7.880438
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "The Kingdom Hall of Jehovah's Witnesses in Phuket City serves as a Christian meeting place for the local congregation's Bible studies.",
+                  "category": "landmark",
+                  "coords": [
+                        98.377613,
+                        7.863938
+                  ]
+            },
+            {
+                  "name": "Jui Tui Shrine",
+                  "text": "Jui Tui Shrine is one of the most prominent Chinese temples in Phuket City and the spiritual center of the famous Vegetarian Festival.",
+                  "category": "religious",
+                  "coords": [
+                        98.383384,
+                        7.883184
+                  ]
+            },
+            {
+                  "name": "Wat Khao Rang",
+                  "text": "Wat Khao Rang is distinguished by a large, golden sitting Buddha statue that overlooks the hillside temple complex.",
+                  "category": "landmark",
+                  "coords": [
+                        98.38169,
+                        7.893845
+                  ]
+            },
+            {
+                  "name": "Wat Kosit Wihan Hall of a Temple",
+                  "text": "The main hall of Wat Kosit Wihan serves as an active ceremonial space where local Buddhist monks gather for chanting and rituals.",
+                  "category": "landmark",
+                  "coords": [
+                        98.390143,
+                        7.899804
+                  ]
+            },
+            {
+                  "name": "Masjid Yameay",
+                  "text": "Masjid Yameay is a local mosque in Phuket City that provides a dedicated space for the Muslim community's daily and Friday prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        98.390458,
+                        7.879144
+                  ]
+            },
+            {
+                  "name": "Sanjao Sam San",
+                  "text": "Sanjao Sam San is a colorful Taoist shrine tucked away in Phuket Old Town, filled with incense and offerings to Chinese deities.",
+                  "category": "landmark",
+                  "coords": [
+                        98.382797,
+                        7.885646
+                  ]
+            },
+            {
+                  "name": "Wat Khachon Rangsan",
+                  "text": "Wat Khachon Rangsan is a Buddhist temple notable for an architectural style that uniquely blends traditional Thai elements with European colonial touches.",
+                  "category": "landmark",
+                  "coords": [
+                        98.384788,
+                        7.883962
+                  ]
+            },
+            {
+                  "name": "Wat Nakaram",
+                  "text": "Wat Nakaram is a local Buddhist monastery in Phuket City featuring quiet monks' quarters just a short distance from the bustling weekend market.",
+                  "category": "landmark",
+                  "coords": [
+                        98.367128,
+                        7.881826
+                  ]
+            },
+            {
+                  "name": "Sam Sae Chu Hut Shirine",
+                  "text": "The Sam Sae Chu Hut Shrine is a Taoist temple maintained by the local Chinese community, filled with the aroma of daily incense offerings.",
+                  "category": "landmark",
+                  "coords": [
+                        98.381102,
+                        7.889349
+                  ]
+            },
+            {
+                  "name": "Plein Poa Night Market",
+                  "text": "The Plein Poa Night Market is an open-air bazaar packed with food stalls and vendors selling inexpensive clothing and local snacks.",
+                  "category": "cultural",
+                  "coords": [
+                        98.38987,
+                        7.880059
+                  ]
+            },
+            {
+                  "name": "Midtown Phuket Night Market Walking Street (",
+                  "text": "The Midtown Phuket Night Market Walking Street comes alive in the evening with vendors peddling grilled seafood and local handicrafts.",
+                  "category": "cultural",
+                  "coords": [
+                        98.389143,
+                        7.88296
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TH-83",
     coords: [98.3922, 7.8804],
@@ -1996,7 +3130,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "D'Luck Cinematic Theatre",
-                  "text": "Ein modernes Theater für aufwendige Bühnenshows und Filme.",
+                  "text": "Ein modernes Kino in Pattaya namens D'Luck, das internationale Filme zeigt.",
                   "category": "cultural",
                   "coords": [
                         100.878076,
@@ -2032,7 +3166,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Asia Beach",
-                  "text": "Ein ruhigerer Sandstrand im Süden von Pattaya.",
+                  "text": "Der Asia Beach in Pattaya, ein beliebter Erholungsort mit weichem Sand und klarem Wasser.",
                   "category": "recreational",
                   "coords": [
                         100.856814,
@@ -2214,7 +3348,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "D'Luck Cinematic Theatre",
-                  "text": "Modern színház látványos színpadi előadások és filmek számára.",
+                  "text": "Egy modern mozi Pattayában, D'Luck, amely nemzetközi filmeket vetít.",
                   "category": "cultural",
                   "coords": [
                         100.878076,
@@ -2250,7 +3384,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Asia Beach",
-                  "text": "Csendesebb homokos tengerpart Pattaya déli részén.",
+                  "text": "Az Asia Beach Pattayában, egy népszerű üdülőhely puha homokkal és tiszta vízzel.",
                   "category": "recreational",
                   "coords": [
                         100.856814,
@@ -2432,7 +3566,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "D'Luck Cinematic Theatre",
-                  "text": "Un teatru modern pentru spectacole de scenă elaborate și filme.",
+                  "text": "Un cinematograf modern în Pattaya, D'Luck, care proiectează filme internaționale.",
                   "category": "cultural",
                   "coords": [
                         100.878076,
@@ -2468,7 +3602,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Asia Beach",
-                  "text": "O plajă de nisip mai liniștită în partea de sud a orașului Pattaya.",
+                  "text": "Plaja Asia din Pattaya, o destinație populară de agrement cu nisip fin și apă limpede.",
                   "category": "recreational",
                   "coords": [
                         100.856814,
@@ -2650,7 +3784,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "D'Luck Cinematic Theatre",
-                  "text": "A modern theatre for elaborate stage shows and films.",
+                  "text": "A modern cinema theatre in Pattaya, D'Luck, showing international films.",
                   "category": "cultural",
                   "coords": [
                         100.878076,
@@ -2686,7 +3820,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Asia Beach",
-                  "text": "A quieter sandy beach in the southern part of Pattaya.",
+                  "text": "Asia Beach in Pattaya, a popular recreational spot with soft sand and clear water.",
                   "category": "recreational",
                   "coords": [
                         100.856814,
@@ -2867,7 +4001,340 @@ export const poiExtraThailandCitiesV2: POI[] = [
       fr: ["Pattaya est une ville sur la côte est du golfe de Thaïlande, connue pour ses plages et sa vie nocturne.", "Située sur le territoire du Royaume de Thaïlande.", "Marquée par le climat de mousson de l'Asie du Sud-Est.", "Liée à l'héritage de Sukhothaï et d'Ayutthaya."],
     }, image: "/poi-images/pattaya-cities-v2.webp"},
   {
-    id: "nonthaburi-cities-v2",
+    id: "nonthaburi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wat Bang Kwang",
+                  "text": "Wat Bang Kwang ist ein anerkannter Andachtsort im städtischen Gebiet der thailändischen Provinz Nonthaburi.",
+                  "category": "religious",
+                  "coords": [
+                        100.493746,
+                        13.841387
+                  ]
+            },
+            {
+                  "name": "Wat Thinnakorn Nimit",
+                  "text": "Der Tempel Wat Thinnakorn Nimit ist eine spirituelle Einrichtung für die lokale Gemeinde in Nonthaburi.",
+                  "category": "religious",
+                  "coords": [
+                        100.498079,
+                        13.844509
+                  ]
+            },
+            {
+                  "name": "Wat Lannaboon",
+                  "text": "Wat Lannaboon fungiert als ein wichtiger Ort der Anbetung in der dichten Bebauung von Nonthaburi.",
+                  "category": "religious",
+                  "coords": [
+                        100.5086,
+                        13.841553
+                  ]
+            },
+            {
+                  "name": "Wat Phuttha Panya",
+                  "text": "Der Wat Phuttha Panya ist ein bekannter Tempel, der Gläubigen in der Stadtregion Nonthaburi Raum für Meditation bietet.",
+                  "category": "religious",
+                  "coords": [
+                        100.526807,
+                        13.84452
+                  ]
+            },
+            {
+                  "name": "Wat Samon Kot",
+                  "text": "Der Schrein Wat Samon Kot ist ein Ort traditioneller ritueller Praktiken in der Provinz Nonthaburi.",
+                  "category": "religious",
+                  "coords": [
+                        100.498418,
+                        13.860117
+                  ]
+            },
+            {
+                  "name": "Wat Bang Phreak Naue",
+                  "text": "Wat Bang Phreak Naue ist ein nördlich gelegener Andachtsort innerhalb der Tempelstrukturen von Nonthaburi.",
+                  "category": "religious",
+                  "coords": [
+                        100.494514,
+                        13.851455
+                  ]
+            },
+            {
+                  "name": "Wat Bang Phreak Tai",
+                  "text": "Der Tempel Wat Bang Phreak Tai ergänzt die spirituelle Landschaft im Süden des Bang Phreak Bezirks in Nonthaburi.",
+                  "category": "religious",
+                  "coords": [
+                        100.493403,
+                        13.848848
+                  ]
+            },
+            {
+                  "name": "The Owl Market",
+                  "text": "The Owl Market ist eine lebhafte Marktattraktion in Nonthaburi.",
+                  "category": "landmark",
+                  "coords": [
+                        100.494094,
+                        13.869513
+                  ]
+            },
+            {
+                  "name": "Nonthaburi Market",
+                  "text": "Der Nonthaburi Market ist ein lokaler Marktplatz in der Gegend von Nonthaburi.",
+                  "category": "cultural",
+                  "coords": [
+                        100.495003,
+                        13.842232
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wat Bang Kwang",
+                  "text": "A Wat Bang Kwang egy ismert istentiszteleti hely a thaiföldi Nonthaburi tartomány városi területén.",
+                  "category": "religious",
+                  "coords": [
+                        100.493746,
+                        13.841387
+                  ]
+            },
+            {
+                  "name": "Wat Thinnakorn Nimit",
+                  "text": "A Wat Thinnakorn Nimit templom egy spirituális létesítmény Nonthaburi helyi közössége számára.",
+                  "category": "religious",
+                  "coords": [
+                        100.498079,
+                        13.844509
+                  ]
+            },
+            {
+                  "name": "Wat Lannaboon",
+                  "text": "A Wat Lannaboon fontos istentiszteleti helyként funkcionál Nonthaburi sűrűn beépített területén.",
+                  "category": "religious",
+                  "coords": [
+                        100.5086,
+                        13.841553
+                  ]
+            },
+            {
+                  "name": "Wat Phuttha Panya",
+                  "text": "A Wat Phuttha Panya egy ismert templom, amely meditációs teret biztosít a hívőknek Nonthaburi városi régiójában.",
+                  "category": "religious",
+                  "coords": [
+                        100.526807,
+                        13.84452
+                  ]
+            },
+            {
+                  "name": "Wat Samon Kot",
+                  "text": "A Wat Samon Kot szentély a hagyományos rituális gyakorlatok helyszíne Nonthaburi tartományban.",
+                  "category": "religious",
+                  "coords": [
+                        100.498418,
+                        13.860117
+                  ]
+            },
+            {
+                  "name": "Wat Bang Phreak Naue",
+                  "text": "A Wat Bang Phreak Naue egy északabbra fekvő istentiszteleti hely Nonthaburi templomi struktúráin belül.",
+                  "category": "religious",
+                  "coords": [
+                        100.494514,
+                        13.851455
+                  ]
+            },
+            {
+                  "name": "Wat Bang Phreak Tai",
+                  "text": "A Wat Bang Phreak Tai templom a Nonthaburi Bang Phreak kerület déli részének spirituális táját egészíti ki.",
+                  "category": "religious",
+                  "coords": [
+                        100.493403,
+                        13.848848
+                  ]
+            },
+            {
+                  "name": "The Owl Market",
+                  "text": "A The Owl Market egy nyüzsgő látványosság és piac Nonthaburi területén.",
+                  "category": "landmark",
+                  "coords": [
+                        100.494094,
+                        13.869513
+                  ]
+            },
+            {
+                  "name": "Nonthaburi Market",
+                  "text": "A Nonthaburi Market egy helyi piactér Nonthaburi környékén.",
+                  "category": "cultural",
+                  "coords": [
+                        100.495003,
+                        13.842232
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wat Bang Kwang",
+                  "text": "Wat Bang Kwang este un lăcaș de cult recunoscut din zona urbană a provinciei thailandeze Nonthaburi.",
+                  "category": "religious",
+                  "coords": [
+                        100.493746,
+                        13.841387
+                  ]
+            },
+            {
+                  "name": "Wat Thinnakorn Nimit",
+                  "text": "Templul Wat Thinnakorn Nimit este un așezământ spiritual pentru comunitatea locală din Nonthaburi.",
+                  "category": "religious",
+                  "coords": [
+                        100.498079,
+                        13.844509
+                  ]
+            },
+            {
+                  "name": "Wat Lannaboon",
+                  "text": "Wat Lannaboon funcționează ca un loc important de rugăciune în zona dens construită a orașului Nonthaburi.",
+                  "category": "religious",
+                  "coords": [
+                        100.5086,
+                        13.841553
+                  ]
+            },
+            {
+                  "name": "Wat Phuttha Panya",
+                  "text": "Wat Phuttha Panya este un templu cunoscut ce oferă spațiu pentru meditație credincioșilor din regiunea urbană Nonthaburi.",
+                  "category": "religious",
+                  "coords": [
+                        100.526807,
+                        13.84452
+                  ]
+            },
+            {
+                  "name": "Wat Samon Kot",
+                  "text": "Sanctuarul Wat Samon Kot este un loc al practicilor ritualice tradiționale din provincia Nonthaburi.",
+                  "category": "religious",
+                  "coords": [
+                        100.498418,
+                        13.860117
+                  ]
+            },
+            {
+                  "name": "Wat Bang Phreak Naue",
+                  "text": "Wat Bang Phreak Naue este un lăcaș de cult situat în partea de nord a rețelei de temple din Nonthaburi.",
+                  "category": "religious",
+                  "coords": [
+                        100.494514,
+                        13.851455
+                  ]
+            },
+            {
+                  "name": "Wat Bang Phreak Tai",
+                  "text": "Templul Wat Bang Phreak Tai completează peisajul spiritual din sudul districtului Bang Phreak din Nonthaburi.",
+                  "category": "religious",
+                  "coords": [
+                        100.493403,
+                        13.848848
+                  ]
+            },
+            {
+                  "name": "The Owl Market",
+                  "text": "The Owl Market este o atracție aglomerată sub formă de piață în Nonthaburi.",
+                  "category": "landmark",
+                  "coords": [
+                        100.494094,
+                        13.869513
+                  ]
+            },
+            {
+                  "name": "Nonthaburi Market",
+                  "text": "Nonthaburi Market este o piață locală situată în zona Nonthaburi.",
+                  "category": "cultural",
+                  "coords": [
+                        100.495003,
+                        13.842232
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wat Bang Kwang",
+                  "text": "Wat Bang Kwang is a recognized place of worship in the urban area of Thailand's Nonthaburi province.",
+                  "category": "religious",
+                  "coords": [
+                        100.493746,
+                        13.841387
+                  ]
+            },
+            {
+                  "name": "Wat Thinnakorn Nimit",
+                  "text": "The Wat Thinnakorn Nimit temple is a spiritual facility serving the local community in Nonthaburi.",
+                  "category": "religious",
+                  "coords": [
+                        100.498079,
+                        13.844509
+                  ]
+            },
+            {
+                  "name": "Wat Lannaboon",
+                  "text": "Wat Lannaboon serves as an important place of worship within the densely developed area of Nonthaburi.",
+                  "category": "religious",
+                  "coords": [
+                        100.5086,
+                        13.841553
+                  ]
+            },
+            {
+                  "name": "Wat Phuttha Panya",
+                  "text": "Wat Phuttha Panya is a known temple offering a space for meditation to devotees in the Nonthaburi urban region.",
+                  "category": "religious",
+                  "coords": [
+                        100.526807,
+                        13.84452
+                  ]
+            },
+            {
+                  "name": "Wat Samon Kot",
+                  "text": "The Wat Samon Kot shrine is a venue for traditional ritual practices in Nonthaburi province.",
+                  "category": "religious",
+                  "coords": [
+                        100.498418,
+                        13.860117
+                  ]
+            },
+            {
+                  "name": "Wat Bang Phreak Naue",
+                  "text": "Wat Bang Phreak Naue is a northern-situated place of worship within the temple structures of Nonthaburi.",
+                  "category": "religious",
+                  "coords": [
+                        100.494514,
+                        13.851455
+                  ]
+            },
+            {
+                  "name": "Wat Bang Phreak Tai",
+                  "text": "The Wat Bang Phreak Tai temple complements the spiritual landscape in the southern part of the Bang Phreak district in Nonthaburi.",
+                  "category": "religious",
+                  "coords": [
+                        100.493403,
+                        13.848848
+                  ]
+            },
+            {
+                  "name": "The Owl Market",
+                  "text": "The Owl Market is a bustling market attraction in Nonthaburi.",
+                  "category": "landmark",
+                  "coords": [
+                        100.494094,
+                        13.869513
+                  ]
+            },
+            {
+                  "name": "Nonthaburi Market",
+                  "text": "Nonthaburi Market is a local marketplace situated in the Nonthaburi area.",
+                  "category": "cultural",
+                  "coords": [
+                        100.495003,
+                        13.842232
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TH-12",
     coords: [100.5144, 13.859],
@@ -3186,7 +4653,700 @@ export const poiExtraThailandCitiesV2: POI[] = [
       fr: ["Udon Thani est un important centre régional dans le nord-est de la Thaïlande qui sert de porte d'entrée vers le Laos.", "Située sur le territoire du Royaume de Thaïlande.", "Marquée par le climat de mousson de l'Asie du Sud-Est.", "Liée à l'héritage de Sukhothai et Ayutthaya."],
     }, image: "/poi-images/udon-thani-cities-v2.webp"},
   {
-    id: "nakhon-ratchasima-cities-v2",
+    id: "nakhon-ratchasima-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Night Bazaar",
+                  "text": "Dieser belebte städtische Basar ist bis spät in den Abend hinein geöffnet und voller hell erleuchteter Stände, die Kleidung, Elektronik und lokale Korat-Delikatessen anbieten.",
+                  "category": "landmark",
+                  "coords": [
+                        102.111597,
+                        14.975041
+                  ]
+            },
+            {
+                  "name": "Wat Phra Narai Maharat",
+                  "text": "Diese bedeutende buddhistische Kultstätte in Nakhon Ratchasima ist bekannt für ihre komplexe Tempelarchitektur und dient der Gemeinde als spirituelles Zentrum.",
+                  "category": "religious",
+                  "coords": [
+                        102.106921,
+                        14.975579
+                  ]
+            },
+            {
+                  "name": "Korat Museum",
+                  "text": "Dieses lehrreiche Museum zeigt Ausstellungen über die Geschichte, Kultur und archäologische Funde der Provinz Nakhon Ratchasima.",
+                  "category": "museum",
+                  "coords": [
+                        102.11405,
+                        14.983165
+                  ]
+            },
+            {
+                  "name": "Art & Soul",
+                  "text": "Dieses Zentrum für zeitgenössische Kunst dient als kreativer Knotenpunkt in der Stadt und zeigt Gemälde und Installationen lokaler unabhängiger Künstler.",
+                  "category": "cultural",
+                  "coords": [
+                        102.100457,
+                        14.976187
+                  ]
+            },
+            {
+                  "name": "nichts",
+                  "text": "Trotz seines ungewöhnlichen Namens bietet dieses lokale Tiergehege Familien die Möglichkeit, verschiedene einheimische Arten in der Stadt zu beobachten.",
+                  "category": "recreational",
+                  "coords": [
+                        102.103325,
+                        14.973082
+                  ]
+            },
+            {
+                  "name": "Wat Sala Loi",
+                  "text": "Dieser buddhistische Tempel ist berühmt für seine markante Hauptkapelle in Form einer traditionellen thailändischen Dschunke und ein einzigartiges architektonisches Wahrzeichen der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        102.116896,
+                        14.98069
+                  ]
+            },
+            {
+                  "name": "Korat Contemporary Art And Culture Centre",
+                  "text": "Diese moderne kulturelle Einrichtung beherbergt wechselnde Ausstellungen moderner bildender Kunst und Fotografie aus der weiteren Isan-Region.",
+                  "category": "museum",
+                  "coords": [
+                        102.094754,
+                        14.976734
+                  ]
+            },
+            {
+                  "name": "Maha Wirawong National Museum",
+                  "text": "Diese Zweigstelle des Nationalmuseums konzentriert sich auf die Bewahrung exquisiter antiker Buddha-Statuen und historischer religiöser Artefakte aus der lokalen Provinz.",
+                  "category": "museum",
+                  "coords": [
+                        102.097613,
+                        14.972045
+                  ]
+            },
+            {
+                  "name": "Thao Suranari Monument",
+                  "text": "Dieses markante Bronzemonument im Stadtzentrum ehrt Ya Mo, die verehrte lokale Heldin, die die Stadt 1826 verteidigte.",
+                  "category": "historical",
+                  "coords": [
+                        102.098117,
+                        14.974731
+                  ]
+            },
+            {
+                  "name": "Wat Pa Sattharuam",
+                  "text": "Dieser ruhige Waldtempel bietet einen friedlichen Rückzugsort von der Hektik der Stadt und wird von meditierenden Mönchen und Ruhesuchenden geschätzt.",
+                  "category": "landmark",
+                  "coords": [
+                        102.113626,
+                        14.952174
+                  ]
+            },
+            {
+                  "name": "Wat Sala Thong",
+                  "text": "Dieser durch seine goldfarbenen Strukturen hervorgehobene buddhistische Tempel ist ein wunderschönes spirituelles Heiligtum, das mit kunstvollen regionalen Holzschnitzereien verziert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        102.109342,
+                        14.964937
+                  ]
+            },
+            {
+                  "name": "Wat Isan Nakhon Ratschasima",
+                  "text": "Dieser nach der Region selbst benannte buddhistische Tempelkomplex bewahrt in seinen Gebetshallen den klassischen künstlerischen Stil Nordost-Thailands.",
+                  "category": "landmark",
+                  "coords": [
+                        102.111082,
+                        14.978655
+                  ]
+            },
+            {
+                  "name": "Wat Phayap (Phra Aram Luang)",
+                  "text": "Dieses königliche buddhistische Kloster ist besonders berühmt für seinen einzigartigen künstlichen Höhlenschrein, der aus Tropfsteinen regionaler Berge errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        102.09923,
+                        14.978563
+                  ]
+            },
+            {
+                  "name": "Chinese Temple",
+                  "text": "Diese farbenfrohe Kultstätte ist traditionellen chinesischen Gottheiten gewidmet und an ihren geschwungenen Ziegeldächern und wilden Wächterdrachenstatuen leicht zu erkennen.",
+                  "category": "religious",
+                  "coords": [
+                        102.092264,
+                        14.978481
+                  ]
+            },
+            {
+                  "name": "Wat Pho",
+                  "text": "Dieses lokale buddhistische Kloster teilt seinen Namen mit dem berühmten Tempel in Bangkok und bietet friedliche, von Bäumen gesäumte Spazierwege sowie eine beeindruckende Haupt-Buddha-Statue.",
+                  "category": "landmark",
+                  "coords": [
+                        102.089103,
+                        14.976828
+                  ]
+            },
+            {
+                  "name": "City Pillar Shrine",
+                  "text": "Ein traditioneller thailändischer Schrein, der die spirituelle Gründungssäule von Nakhon Ratchasima beherbergt.",
+                  "category": "religious",
+                  "coords": [
+                        102.106006,
+                        14.974995
+                  ]
+            },
+            {
+                  "name": "Lotus's go fresh",
+                  "text": "Ein modernes Lebensmittelgeschäft, das frische Produkte und Dinge des täglichen Bedarfs in Nakhon Ratchasima anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        102.105653,
+                        14.944226
+                  ]
+            },
+            {
+                  "name": "7-Eleven",
+                  "text": "Ein kompakter, rund um die Uhr geöffneter Convenience-Store, der in Nakhon Ratchasima alltägliche Waren anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        102.094211,
+                        14.958025
+                  ]
+            },
+            {
+                  "name": "Yamo Market",
+                  "text": "Ein belebter lokaler Handelsmarkt in Nakhon Ratchasima, der für den Verkauf frischer regionaler Produkte bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        102.079408,
+                        14.977197
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Night Bazaar",
+                  "text": "A késő estig nyitva tartó, nyüzsgő városi bazár tele van kivilágított standokkal, amelyek ruházatot, elektronikát és helyi korat finomságokat kínálnak.",
+                  "category": "landmark",
+                  "coords": [
+                        102.111597,
+                        14.975041
+                  ]
+            },
+            {
+                  "name": "Wat Phra Narai Maharat",
+                  "text": "Ez a jelentős buddhista istentiszteleti hely Nakhon Ratchasimában bonyolult templomépítészetéről ismert, és a közösség spirituális központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        102.106921,
+                        14.975579
+                  ]
+            },
+            {
+                  "name": "Korat Museum",
+                  "text": "Ez az oktatási múzeum Nakhon Ratchasima tartomány történelmét, kultúráját és régészeti leleteit bemutató kiállításokkal rendelkezik.",
+                  "category": "museum",
+                  "coords": [
+                        102.11405,
+                        14.983165
+                  ]
+            },
+            {
+                  "name": "Art & Soul",
+                  "text": "Ez a kortárs művészeti központ a város kreatív központjaként szolgál, és helyi független művészek festményeit és installációit mutatja be.",
+                  "category": "cultural",
+                  "coords": [
+                        102.100457,
+                        14.976187
+                  ]
+            },
+            {
+                  "name": "nichts",
+                  "text": "Szokatlan neve ellenére ez a helyi állatkert lehetőséget kínál a családok számára, hogy különféle őshonos fajokat figyeljenek meg a városban.",
+                  "category": "recreational",
+                  "coords": [
+                        102.103325,
+                        14.973082
+                  ]
+            },
+            {
+                  "name": "Wat Sala Loi",
+                  "text": "A hagyományos thai dzsunka formájú, feltűnő fő kápolnájáról híres buddhista templom a város egyedülálló építészeti nevezetessége.",
+                  "category": "religious",
+                  "coords": [
+                        102.116896,
+                        14.98069
+                  ]
+            },
+            {
+                  "name": "Korat Contemporary Art And Culture Centre",
+                  "text": "Ez a modern kulturális intézmény a tágabb Isan régió modern vizuális művészetének és fotóművészetének változó kiállításainak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        102.094754,
+                        14.976734
+                  ]
+            },
+            {
+                  "name": "Maha Wirawong National Museum",
+                  "text": "Ez a nemzeti múzeumi fiókintézmény a helyi tartományból gyűjtött kiváló ősi Buddha-szobrok és történelmi vallási tárgyak megőrzésére összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        102.097613,
+                        14.972045
+                  ]
+            },
+            {
+                  "name": "Thao Suranari Monument",
+                  "text": "Ez a kiemelkedő bronz emlékmű a városközpontban áll Ya Mo, a tisztelt helyi hősnő tiszteletére, aki 1826-ban megvédte a várost.",
+                  "category": "historical",
+                  "coords": [
+                        102.098117,
+                        14.974731
+                  ]
+            },
+            {
+                  "name": "Wat Pa Sattharuam",
+                  "text": "Ez a nyugodt erdei templom csendes menedéket nyújt a város zajától, és a meditáló szerzetesek, valamint a nyugalmat kereső helyiek kedvelik.",
+                  "category": "landmark",
+                  "coords": [
+                        102.113626,
+                        14.952174
+                  ]
+            },
+            {
+                  "name": "Wat Sala Thong",
+                  "text": "Az aranyszínű szerkezetekkel kiemelt buddhista templom egy gyönyörű spirituális szentély, amelyet bonyolult regionális fafaragások díszítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        102.109342,
+                        14.964937
+                  ]
+            },
+            {
+                  "name": "Wat Isan Nakhon Ratschasima",
+                  "text": "A magáról a régióról elnevezett buddhista templomkomplexum imatermeiben megőrzi a klasszikus északkelet-thai művészeti stílust.",
+                  "category": "landmark",
+                  "coords": [
+                        102.111082,
+                        14.978655
+                  ]
+            },
+            {
+                  "name": "Wat Phayap (Phra Aram Luang)",
+                  "text": "Ez a királyi buddhista kolostor különösen híres egyedülálló, mesterséges barlangszentélyéről, amelyet a regionális hegyekből származó cseppkövekből építettek.",
+                  "category": "landmark",
+                  "coords": [
+                        102.09923,
+                        14.978563
+                  ]
+            },
+            {
+                  "name": "Chinese Temple",
+                  "text": "A hagyományos kínai istenségeknek szentelt, színes istentiszteleti hely ívelt cseréptetőiről és ádáz sárkányőr szobrairól könnyen felismerhető.",
+                  "category": "religious",
+                  "coords": [
+                        102.092264,
+                        14.978481
+                  ]
+            },
+            {
+                  "name": "Wat Pho",
+                  "text": "A híres bangkoki templommal azonos nevű helyi buddhista kolostor békés, fákkal szegélyezett sétányokkal és egy lenyűgöző fő Buddha-ábrázolással rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        102.089103,
+                        14.976828
+                  ]
+            },
+            {
+                  "name": "City Pillar Shrine",
+                  "text": "Egy hagyományos thai szentély, amely Nakhon Ratchasima szellemi alapítóoszlopának ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        102.106006,
+                        14.974995
+                  ]
+            },
+            {
+                  "name": "Lotus's go fresh",
+                  "text": "Egy modern élelmiszerbolt, amely friss termékeket és napi szükségleti cikkeket kínál Nakhon Ratchasimában.",
+                  "category": "cultural",
+                  "coords": [
+                        102.105653,
+                        14.944226
+                  ]
+            },
+            {
+                  "name": "7-Eleven",
+                  "text": "Egy kompakt, a nap 24 órájában nyitva tartó kisbolt, amely mindennapi árukat kínál Nakhon Ratchasimában.",
+                  "category": "cultural",
+                  "coords": [
+                        102.094211,
+                        14.958025
+                  ]
+            },
+            {
+                  "name": "Yamo Market",
+                  "text": "Egy nyüzsgő helyi kereskedelmi piac Nakhon Ratchasimában, amely a friss regionális termékek árusításáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        102.079408,
+                        14.977197
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Night Bazaar",
+                  "text": "Funcționând până târziu în seară, acest bazar plin de viață al orașului este plin de tarabe luminate puternic, care oferă îmbrăcăminte, electronice și delicatese locale din Korat.",
+                  "category": "landmark",
+                  "coords": [
+                        102.111597,
+                        14.975041
+                  ]
+            },
+            {
+                  "name": "Wat Phra Narai Maharat",
+                  "text": "Acest loc de cult budist semnificativ din Nakhon Ratchasima este cunoscut pentru arhitectura sa complexă a templului și servește ca centru spiritual pentru comunitate.",
+                  "category": "religious",
+                  "coords": [
+                        102.106921,
+                        14.975579
+                  ]
+            },
+            {
+                  "name": "Korat Museum",
+                  "text": "Acest muzeu educațional prezintă exponate care detaliază istoria, cultura și descoperirile arheologice din provincia Nakhon Ratchasima.",
+                  "category": "museum",
+                  "coords": [
+                        102.11405,
+                        14.983165
+                  ]
+            },
+            {
+                  "name": "Art & Soul",
+                  "text": "Acest centru de arte contemporane servește ca un hub creativ în oraș, prezentând picturi și instalații ale artiștilor independenți locali.",
+                  "category": "cultural",
+                  "coords": [
+                        102.100457,
+                        14.976187
+                  ]
+            },
+            {
+                  "name": "nichts",
+                  "text": "În ciuda numelui său neobișnuit, această incintă locală pentru animale oferă familiilor posibilitatea de a observa diverse specii native în oraș.",
+                  "category": "recreational",
+                  "coords": [
+                        102.103325,
+                        14.973082
+                  ]
+            },
+            {
+                  "name": "Wat Sala Loi",
+                  "text": "Renumit pentru capela sa principală uimitoare construită în forma unei bărci tradiționale thailandeze junk, acest templu budist este un reper arhitectural unic în oraș.",
+                  "category": "religious",
+                  "coords": [
+                        102.116896,
+                        14.98069
+                  ]
+            },
+            {
+                  "name": "Korat Contemporary Art And Culture Centre",
+                  "text": "Această instituție culturală modernă găzduiește expoziții prin rotație de arte vizuale moderne și fotografie din regiunea extinsă Isan.",
+                  "category": "museum",
+                  "coords": [
+                        102.094754,
+                        14.976734
+                  ]
+            },
+            {
+                  "name": "Maha Wirawong National Museum",
+                  "text": "Această filială a muzeului național se concentrează pe conservarea statuilor antice rafinate ale lui Buddha și a artefactelor religioase istorice colectate din provincia locală.",
+                  "category": "museum",
+                  "coords": [
+                        102.097613,
+                        14.972045
+                  ]
+            },
+            {
+                  "name": "Thao Suranari Monument",
+                  "text": "Acest monument proeminent din bronz se află în centrul orașului pentru a o onora pe Ya Mo, venerata eroină locală care a apărat orașul în 1826.",
+                  "category": "historical",
+                  "coords": [
+                        102.098117,
+                        14.974731
+                  ]
+            },
+            {
+                  "name": "Wat Pa Sattharuam",
+                  "text": "Acest templu senin de pădure oferă un refugiu liniștit de agitația orașului, fiind favorizat de călugării care meditează și de localnicii care caută liniște.",
+                  "category": "landmark",
+                  "coords": [
+                        102.113626,
+                        14.952174
+                  ]
+            },
+            {
+                  "name": "Wat Sala Thong",
+                  "text": "Evidențiat de structurile sale aurii, acest templu budist este un sanctuar spiritual frumos decorat cu sculpturi în lemn regionale complexe.",
+                  "category": "landmark",
+                  "coords": [
+                        102.109342,
+                        14.964937
+                  ]
+            },
+            {
+                  "name": "Wat Isan Nakhon Ratschasima",
+                  "text": "Numit după regiunea însăși, acest complex de temple budiste păstrează stilul artistic clasic din nord-estul Thailandei în sălile sale de rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        102.111082,
+                        14.978655
+                  ]
+            },
+            {
+                  "name": "Wat Phayap (Phra Aram Luang)",
+                  "text": "Această mănăstire regală budistă este deosebit de renumită pentru altarul său unic dintr-o peșteră creată de om, construită din stalactite și stalagmite aduse din munții regionali.",
+                  "category": "landmark",
+                  "coords": [
+                        102.09923,
+                        14.978563
+                  ]
+            },
+            {
+                  "name": "Chinese Temple",
+                  "text": "Dedicat zeităților tradiționale chinezești, acest lăcaș de cult colorat este ușor de recunoscut după acoperișurile sale curbate din țiglă și statuile feroce cu dragoni gardieni.",
+                  "category": "religious",
+                  "coords": [
+                        102.092264,
+                        14.978481
+                  ]
+            },
+            {
+                  "name": "Wat Pho",
+                  "text": "Împărtășind numele cu celebrul templu din Bangkok, această mănăstire budistă locală are alei pietonale pașnice mărginite de copaci și o imagine principală impresionantă a lui Buddha.",
+                  "category": "landmark",
+                  "coords": [
+                        102.089103,
+                        14.976828
+                  ]
+            },
+            {
+                  "name": "City Pillar Shrine",
+                  "text": "Un altar tradițional thailandez care adăpostește stâlpul spiritual fondator al orașului Nakhon Ratchasima.",
+                  "category": "religious",
+                  "coords": [
+                        102.106006,
+                        14.974995
+                  ]
+            },
+            {
+                  "name": "Lotus's go fresh",
+                  "text": "Un magazin alimentar modern care oferă produse proaspete și bunuri de uz zilnic în Nakhon Ratchasima.",
+                  "category": "cultural",
+                  "coords": [
+                        102.105653,
+                        14.944226
+                  ]
+            },
+            {
+                  "name": "7-Eleven",
+                  "text": "Un magazin de proximitate compact, deschis nonstop, care oferă bunuri de zi cu zi în Nakhon Ratchasima.",
+                  "category": "cultural",
+                  "coords": [
+                        102.094211,
+                        14.958025
+                  ]
+            },
+            {
+                  "name": "Yamo Market",
+                  "text": "O piață comercială locală plină de viață în Nakhon Ratchasima, cunoscută pentru vânzarea de produse regionale proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        102.079408,
+                        14.977197
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Night Bazaar",
+                  "text": "Operating into the late evening, this bustling city bazaar is filled with brightly lit stalls offering clothing, electronics, and local Korat delicacies.",
+                  "category": "landmark",
+                  "coords": [
+                        102.111597,
+                        14.975041
+                  ]
+            },
+            {
+                  "name": "Wat Phra Narai Maharat",
+                  "text": "This significant Buddhist place of worship in Nakhon Ratchasima is known for its intricate temple architecture and serving as a spiritual center for the community.",
+                  "category": "religious",
+                  "coords": [
+                        102.106921,
+                        14.975579
+                  ]
+            },
+            {
+                  "name": "Korat Museum",
+                  "text": "This educational museum displays exhibits detailing the history, culture, and archaeological findings of the Nakhon Ratchasima province.",
+                  "category": "museum",
+                  "coords": [
+                        102.11405,
+                        14.983165
+                  ]
+            },
+            {
+                  "name": "Art & Soul",
+                  "text": "This contemporary arts centre serves as a creative hub in the city, showcasing paintings and installations by local independent artists.",
+                  "category": "cultural",
+                  "coords": [
+                        102.100457,
+                        14.976187
+                  ]
+            },
+            {
+                  "name": "nichts",
+                  "text": "Despite its unusual name, this local animal enclosure offers an opportunity for families to observe various native species in the city.",
+                  "category": "recreational",
+                  "coords": [
+                        102.103325,
+                        14.973082
+                  ]
+            },
+            {
+                  "name": "Wat Sala Loi",
+                  "text": "Famous for its striking main chapel built in the shape of a traditional Thai junk boat, this Buddhist temple is a unique architectural landmark in the city.",
+                  "category": "religious",
+                  "coords": [
+                        102.116896,
+                        14.98069
+                  ]
+            },
+            {
+                  "name": "Korat Contemporary Art And Culture Centre",
+                  "text": "This modern cultural institution hosts rotating exhibitions of modern visual arts and photography from the broader Isan region.",
+                  "category": "museum",
+                  "coords": [
+                        102.094754,
+                        14.976734
+                  ]
+            },
+            {
+                  "name": "Maha Wirawong National Museum",
+                  "text": "This national museum branch focuses on preserving exquisite ancient Buddha statues and historic religious artifacts collected from the local province.",
+                  "category": "museum",
+                  "coords": [
+                        102.097613,
+                        14.972045
+                  ]
+            },
+            {
+                  "name": "Thao Suranari Monument",
+                  "text": "This prominent bronze monument stands in the city center to honor Ya Mo, the revered local heroine who defended the city in 1826.",
+                  "category": "historical",
+                  "coords": [
+                        102.098117,
+                        14.974731
+                  ]
+            },
+            {
+                  "name": "Wat Pa Sattharuam",
+                  "text": "This serene forest temple provides a quiet retreat from the city hustle, favored by meditating monks and locals seeking tranquility.",
+                  "category": "landmark",
+                  "coords": [
+                        102.113626,
+                        14.952174
+                  ]
+            },
+            {
+                  "name": "Wat Sala Thong",
+                  "text": "Highlighted by its golden-hued structures, this Buddhist temple is a beautiful spiritual sanctuary decorated with intricate regional wood carvings.",
+                  "category": "landmark",
+                  "coords": [
+                        102.109342,
+                        14.964937
+                  ]
+            },
+            {
+                  "name": "Wat Isan Nakhon Ratschasima",
+                  "text": "Named after the region itself, this Buddhist temple complex preserves the classic northeastern Thai artistic style in its prayer halls.",
+                  "category": "landmark",
+                  "coords": [
+                        102.111082,
+                        14.978655
+                  ]
+            },
+            {
+                  "name": "Wat Phayap (Phra Aram Luang)",
+                  "text": "This royal Buddhist monastery is particularly famous for its unique man-made cave shrine constructed from stalactites and stalagmites brought from regional mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        102.09923,
+                        14.978563
+                  ]
+            },
+            {
+                  "name": "Chinese Temple",
+                  "text": "Dedicated to traditional Chinese deities, this colorful place of worship is easily recognized by its curving tile roofs and fierce guardian dragon statues.",
+                  "category": "religious",
+                  "coords": [
+                        102.092264,
+                        14.978481
+                  ]
+            },
+            {
+                  "name": "Wat Pho",
+                  "text": "Sharing its name with the famous Bangkok temple, this local Buddhist monastery features peaceful, tree-lined walking paths and an impressive principal Buddha image.",
+                  "category": "landmark",
+                  "coords": [
+                        102.089103,
+                        14.976828
+                  ]
+            },
+            {
+                  "name": "City Pillar Shrine",
+                  "text": "A traditional Thai shrine housing the foundational spirit pillar of Nakhon Ratchasima.",
+                  "category": "religious",
+                  "coords": [
+                        102.106006,
+                        14.974995
+                  ]
+            },
+            {
+                  "name": "Lotus's go fresh",
+                  "text": "A modern convenience grocery store offering fresh produce and daily essentials in Nakhon Ratchasima.",
+                  "category": "cultural",
+                  "coords": [
+                        102.105653,
+                        14.944226
+                  ]
+            },
+            {
+                  "name": "7-Eleven",
+                  "text": "A compact 24-hour convenience store providing everyday goods in Nakhon Ratchasima.",
+                  "category": "cultural",
+                  "coords": [
+                        102.094211,
+                        14.958025
+                  ]
+            },
+            {
+                  "name": "Yamo Market",
+                  "text": "A bustling local commercial market in Nakhon Ratchasima known for trading fresh regional produce.",
+                  "category": "cultural",
+                  "coords": [
+                        102.079408,
+                        14.977197
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TH-30",
     coords: [102.1009, 14.9705],
@@ -3779,7 +5939,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Ayutthaya Historical City Conservation Center",
-                  "text": "Dieses Zentrum informiert über den Erhalt und die Geschichte der historischen Stadt Ayutthaya.",
+                  "text": "Das Informationszentrum zur Erhaltung der historischen Stadt Ayutthaya, das Einblicke in die Ruinen und Restaurierung bietet.",
                   "category": "museum",
                   "coords": [
                         100.557709,
@@ -4276,7 +6436,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Ayutthaya Historical City Conservation Center",
-                  "text": "Ez a központ Ajutthaja történelmi városának megőrzéséről és történetéről nyújt tájékoztatást.",
+                  "text": "Az Ayutthaya Történelmi Városmegőrzési Információs Központ, amely betekintést nyújt az ősi romokba és a helyreállításba.",
                   "category": "museum",
                   "coords": [
                         100.557709,
@@ -4773,7 +6933,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Ayutthaya Historical City Conservation Center",
-                  "text": "Acest centru oferă informații despre conservarea și istoria orașului istoric Ayutthaya.",
+                  "text": "Centrul de Informare pentru Conservarea Orașului Istoric Ayutthaya, care oferă informații despre ruinele antice și restaurare.",
                   "category": "museum",
                   "coords": [
                         100.557709,
@@ -5270,7 +7430,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Ayutthaya Historic City Conservation Information Center",
-                  "text": "This center provides information on the conservation and history of the historic city of Ayutthaya.",
+                  "text": "The Ayutthaya Historic City Conservation Information Center, providing insights into the ancient ruins and restoration.",
                   "category": "museum",
                   "coords": [
                         100.557709,
@@ -5410,7 +7570,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Khon Kaen University Art and Culture Museum",
-                  "text": "Ein Universitätsmuseum in Khon Kaen, das sich der Kunst und Kultur widmet.",
+                  "text": "Das Kunst- und Kultur-Universitätsmuseum in Khon Kaen, das regionale Kunst und Artefakte zeigt.",
                   "category": "museum",
                   "coords": [
                         102.814523,
@@ -5419,7 +7579,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Khon Kaen City Museum",
-                  "text": "Das Stadtmuseum von Khon Kaen, das die Geschichte und Entwicklung der Stadt dokumentiert.",
+                  "text": "Das Khon-Kaen-Stadtmuseum, untergebracht in einem historischen Gebäude, zeigt lokale Geschichte und Kultur.",
                   "category": "museum",
                   "coords": [
                         102.839061,
@@ -5428,7 +7588,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Khon Kaen University Natural History Museum",
-                  "text": "Ein Museum an der Universität Khon Kaen, das naturgeschichtliche Exponate zeigt.",
+                  "text": "Das Naturhistorische Museum der Universität Khon Kaen mit Fossilien und lokalen Wildtierausstellungen.",
                   "category": "museum",
                   "coords": [
                         102.810914,
@@ -5446,7 +7606,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Democracy Monument",
-                  "text": "Ein Monument in Khon Kaen, das demokratische Werte symbolisiert.",
+                  "text": "Das Demokratiedenkmal in Khon Kaen, ein Symbol für Thailands demokratische Prinzipien.",
                   "category": "historical",
                   "coords": [
                         102.829227,
@@ -5455,7 +7615,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Hugz Mall",
-                  "text": "Ein Einkaufs- und Lifestyle-Zentrum in Khon Kaen.",
+                  "text": "Die Hugz Mall in Khon Kaen, ein modernes Einkaufszentrum mit vielfältigen Einzelhandels- und Gastronomiemöglichkeiten.",
                   "category": "landmark",
                   "coords": [
                         102.830842,
@@ -5493,7 +7653,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Khon Kaen University Art and Culture Museum",
-                  "text": "Egyetemi múzeum Khon Kaenben, amely a művészetnek és kultúrának szentelt.",
+                  "text": "A Művészeti és Kulturális Egyetemi Múzeum Khon Kaenben, amely regionális művészetet és tárgyakat mutat be.",
                   "category": "museum",
                   "coords": [
                         102.814523,
@@ -5502,7 +7662,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Khon Kaen City Museum",
-                  "text": "Khon Kaen városi múzeuma, amely a város történelmét és fejlődését mutatja be.",
+                  "text": "A Khon Kaen Városi Múzeum, egy történelmi épületben, amely a helyi történelmet és kultúrát mutatja be.",
                   "category": "museum",
                   "coords": [
                         102.839061,
@@ -5511,7 +7671,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Khon Kaen University Natural History Museum",
-                  "text": "A Khon Kaen Egyetem múzeuma, amely természetrajzi kiállításokat mutat be.",
+                  "text": "A Khon Kaen Egyetem Természettudományi Múzeuma, fosszíliákkal és helyi vadvilági kiállításokkal.",
                   "category": "museum",
                   "coords": [
                         102.810914,
@@ -5529,7 +7689,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Democracy Monument",
-                  "text": "A demokratikus értékeket jelképező emlékmű Khon Kaenben.",
+                  "text": "A Demokrácia Emlékmű Khon Kaenben, Thaiföld demokratikus elveinek szimbóluma.",
                   "category": "historical",
                   "coords": [
                         102.829227,
@@ -5538,7 +7698,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Hugz Mall",
-                  "text": "Bevásárló- és életmódközpont Khon Kaenben.",
+                  "text": "A Hugz Mall Khon Kaenben, egy modern bevásárlóközpont sokféle üzlettel és étkezési lehetőséggel.",
                   "category": "landmark",
                   "coords": [
                         102.830842,
@@ -5576,7 +7736,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Khon Kaen University Art and Culture Museum",
-                  "text": "Un muzeu universitar din Khon Kaen dedicat artei și culturii.",
+                  "text": "Muzeul Universitar de Artă și Cultură din Khon Kaen, care expune artă și artefacte regionale.",
                   "category": "museum",
                   "coords": [
                         102.814523,
@@ -5585,7 +7745,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Khon Kaen City Museum",
-                  "text": "Muzeul orașului Khon Kaen, care documentează istoria și dezvoltarea orașului.",
+                  "text": "Muzeul orașului Khon Kaen, găzduit într-o clădire istorică, care prezintă istoria și cultura locală.",
                   "category": "museum",
                   "coords": [
                         102.839061,
@@ -5594,7 +7754,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Khon Kaen University Natural History Museum",
-                  "text": "Un muzeu din cadrul Universității Khon Kaen care prezintă exponate de istorie naturală.",
+                  "text": "Muzeul de Istorie Naturală al Universității Khon Kaen, cu fosile și exponate de faună locală.",
                   "category": "museum",
                   "coords": [
                         102.810914,
@@ -5612,7 +7772,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Democracy Monument",
-                  "text": "Un monument în Khon Kaen care simbolizează valorile democratice.",
+                  "text": "Monumentul Democrației din Khon Kaen, un simbol al principiilor democratice ale Thailandei.",
                   "category": "historical",
                   "coords": [
                         102.829227,
@@ -5621,7 +7781,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Hugz Mall",
-                  "text": "Un centru comercial și de lifestyle situat în Khon Kaen.",
+                  "text": "Hugz Mall în Khon Kaen, un centru comercial modern cu diverse opțiuni de retail și restaurante.",
                   "category": "landmark",
                   "coords": [
                         102.830842,
@@ -5659,7 +7819,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Art and Culture University Museum",
-                  "text": "A university museum in Khon Kaen dedicated to art and culture.",
+                  "text": "The Art and Culture University Museum in Khon Kaen, displaying regional art and artifacts.",
                   "category": "museum",
                   "coords": [
                         102.814523,
@@ -5668,7 +7828,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Hong Mun Mang Khon Kaen City Museum",
-                  "text": "Khon Kaen City Museum, documenting the history and development of the city.",
+                  "text": "Khon Kaen City Museum, housed in a historic building, showcasing local history and culture.",
                   "category": "museum",
                   "coords": [
                         102.839061,
@@ -5677,7 +7837,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Natural History Museum Khon Kaen University",
-                  "text": "A museum at Khon Kaen University showcasing natural history exhibits.",
+                  "text": "The Natural History Museum at Khon Kaen University, featuring fossils and local wildlife exhibits.",
                   "category": "museum",
                   "coords": [
                         102.810914,
@@ -5695,7 +7855,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Democracy Monument",
-                  "text": "A monument in Khon Kaen symbolizing democratic values.",
+                  "text": "The Democracy Monument in Khon Kaen, a symbol of Thailand's democratic principles.",
                   "category": "historical",
                   "coords": [
                         102.829227,
@@ -5704,7 +7864,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Hugz Mall",
-                  "text": "A shopping and lifestyle mall located in Khon Kaen.",
+                  "text": "Hugz Mall in Khon Kaen, a modern shopping center with diverse retail and dining options.",
                   "category": "landmark",
                   "coords": [
                         102.830842,
@@ -5777,7 +7937,412 @@ export const poiExtraThailandCitiesV2: POI[] = [
       fr: ["Khon Kaen est l'un des quatre centres principaux de l'Isan, le nord-est de la Thaïlande, et un centre éducatif important.", "Située sur le territoire du royaume de Thaïlande.", "Marquée par le climat de mousson de l'Asie du Sud-Est.", "Liée à l'héritage de Sukhothai et d'Ayutthaya."],
     }, image: "/poi-images/khon-kaen-cities-v2.webp"},
   {
-    id: "surat-thani-cities-v2",
+    id: "surat-thani-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wat Phothawat",
+                  "text": "Ein ruhiger Tempelkomplex in Surat Thani, der traditionelle thailändisch-buddhistische Architektur und ein friedliches Gelände zur Kontemplation bietet.",
+                  "category": "religious",
+                  "coords": [
+                        99.317632,
+                        9.130594
+                  ]
+            },
+            {
+                  "name": "Wat Dai Dhammaram",
+                  "text": "Diese buddhistische Kultstätte in Surat Thani dient als spiritueller Rückzugsort und als Zentrum für lokale religiöse Gemeindeaktivitäten.",
+                  "category": "religious",
+                  "coords": [
+                        99.323074,
+                        9.140578
+                  ]
+            },
+            {
+                  "name": "Viewpoint to Bridge",
+                  "text": "Ein Aussichtspunkt an den Flussufern, der einen klaren, malerischen Blick auf die lokale Brücke über das Wasser in Surat Thani bietet.",
+                  "category": "natural",
+                  "coords": [
+                        99.322686,
+                        9.142987
+                  ]
+            },
+            {
+                  "name": "Tapee River Viewpoint ",
+                  "text": "Dieser Aussichtspunkt liegt an den Ufern des Flusses Tapee und bietet einen weiten Panoramablick auf das fließende Wasser und die vorbeifahrenden Boote.",
+                  "category": "natural",
+                  "coords": [
+                        99.323684,
+                        9.145164
+                  ]
+            },
+            {
+                  "name": "St. Raphael cathedral",
+                  "text": "Diese markante Kathedrale dient der lokalen katholischen Gemeinde in Surat Thani und ist ein Symbol der christlichen Präsenz in der Region.",
+                  "category": "religious",
+                  "coords": [
+                        99.334255,
+                        9.149573
+                  ]
+            },
+            {
+                  "name": "Wat Phathanaram",
+                  "text": "Ein anerkannter buddhistischer Tempel in Surat Thani, bekannt für seine kunstvollen Dekorationen und seine Rolle bei bedeutenden regionalen religiösen Festen.",
+                  "category": "religious",
+                  "coords": [
+                        99.328459,
+                        9.148473
+                  ]
+            },
+            {
+                  "name": "Wat Thamma Bucha",
+                  "text": "Dieser buddhistische Tempel in Surat Thani ist ein bedeutendes lokales Denkmal mit klassischen Tempelstrukturen und einer Atmosphäre der Ehrfurcht.",
+                  "category": "religious",
+                  "coords": [
+                        99.327127,
+                        9.143514
+                  ]
+            },
+            {
+                  "name": "Ko Lamphu Park",
+                  "text": "Ein öffentlicher Park auf einer kleinen Insel im Fluss Tapee, der ein grünes Refugium zum Joggen, Picknicken und für Erholung im Freien bietet.",
+                  "category": "park",
+                  "coords": [
+                        99.315661,
+                        9.137464
+                  ]
+            },
+            {
+                  "name": "Wat Sai",
+                  "text": "Ein historischer buddhistischer Tempelkomplex in der Gegend von Surat Thani, der für seine alten Holzstrukturen und traditionelle Handwerkskunst bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        99.325654,
+                        9.145274
+                  ]
+            },
+            {
+                  "name": "City Pillar Shrine",
+                  "text": "Ein hochverehrter buddhistischer Schrein, der die Stadtsäule von Surat Thani beherbergt, aufwendige architektonische Details aufweist und als Mittelpunkt für bürgerliche Zeremonien dient.",
+                  "category": "landmark",
+                  "coords": [
+                        99.321706,
+                        9.139188
+                  ]
+            },
+            {
+                  "name": "Wat Klang",
+                  "text": "Dieser zentrale buddhistische Tempel ist ein wesentlicher Bestandteil des täglichen Lebens in Surat Thani, leicht erreichbar und wird von Einheimischen häufig zum täglichen Gebet aufgesucht.",
+                  "category": "landmark",
+                  "coords": [
+                        99.324831,
+                        9.146499
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wat Phothawat",
+                  "text": "Egy nyugodt templomkomplexum Szurátthaniban, amely hagyományos thai buddhista építészettel és csendes, elmélkedésre alkalmas területekkel rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        99.317632,
+                        9.130594
+                  ]
+            },
+            {
+                  "name": "Wat Dai Dhammaram",
+                  "text": "A Szurátthaniban található buddhista istentiszteleti hely spirituális menedékként és a helyi vallási közösség tevékenységeinek központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        99.323074,
+                        9.140578
+                  ]
+            },
+            {
+                  "name": "Viewpoint to Bridge",
+                  "text": "A folyóparton található kilátópont, ahonnan tiszta, festői kilátás nyílik a vizet átívelő helyi hídra Szurátthaniban.",
+                  "category": "natural",
+                  "coords": [
+                        99.322686,
+                        9.142987
+                  ]
+            },
+            {
+                  "name": "Tapee River Viewpoint ",
+                  "text": "A Tapee folyó partján található kilátóból elsöprő panoráma nyílik az áramló vízre és az elhaladó hajókra.",
+                  "category": "natural",
+                  "coords": [
+                        99.323684,
+                        9.145164
+                  ]
+            },
+            {
+                  "name": "St. Raphael cathedral",
+                  "text": "A szurátthani helyi katolikus közösséget szolgáló prominens katedrális a régió keresztény jelenlétének szimbóluma.",
+                  "category": "religious",
+                  "coords": [
+                        99.334255,
+                        9.149573
+                  ]
+            },
+            {
+                  "name": "Wat Phathanaram",
+                  "text": "Egy elismert buddhista templom Szurátthaniban, amely díszes díszítéséről és a jelentős regionális vallási fesztiválokon betöltött szerepéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        99.328459,
+                        9.148473
+                  ]
+            },
+            {
+                  "name": "Wat Thamma Bucha",
+                  "text": "Ez a szurátthani buddhista templom egy kiemelkedő helyi műemlék, amely klasszikus templomi szerkezetekkel és tiszteletteljes légkörrel rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        99.327127,
+                        9.143514
+                  ]
+            },
+            {
+                  "name": "Ko Lamphu Park",
+                  "text": "Egy kis szigeten, a Tapee folyón található nyilvános park zöldellő menedéket nyújt kocogáshoz, piknikezéshez és szabadtéri kikapcsolódáshoz.",
+                  "category": "park",
+                  "coords": [
+                        99.315661,
+                        9.137464
+                  ]
+            },
+            {
+                  "name": "Wat Sai",
+                  "text": "Szurátthani térségének történelmi buddhista templomkomplexuma, amely figyelemre méltó régi faszerkezeteiről és hagyományos kézműves kidolgozásáról.",
+                  "category": "religious",
+                  "coords": [
+                        99.325654,
+                        9.145274
+                  ]
+            },
+            {
+                  "name": "City Pillar Shrine",
+                  "text": "Szurátthani várososzlopának otthont adó nagy tiszteletnek örvendő buddhista szentély bonyolult építészeti részletekkel rendelkezik, és a polgári szertartások központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        99.321706,
+                        9.139188
+                  ]
+            },
+            {
+                  "name": "Wat Klang",
+                  "text": "Ez a központi buddhista templom Szurátthani mindennapi életének szerves része, könnyen megközelíthető, és a helyiek gyakran látogatják napi imákra.",
+                  "category": "landmark",
+                  "coords": [
+                        99.324831,
+                        9.146499
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wat Phothawat",
+                  "text": "Un complex liniștit de temple din Surat Thani, care prezintă arhitectură tradițională budistă thailandeză și terenuri pașnice pentru contemplare.",
+                  "category": "religious",
+                  "coords": [
+                        99.317632,
+                        9.130594
+                  ]
+            },
+            {
+                  "name": "Wat Dai Dhammaram",
+                  "text": "Situat în Surat Thani, acest lăcaș de cult budist servește ca un refugiu spiritual și un centru pentru activitățile comunității religioase locale.",
+                  "category": "religious",
+                  "coords": [
+                        99.323074,
+                        9.140578
+                  ]
+            },
+            {
+                  "name": "Viewpoint to Bridge",
+                  "text": "Un loc de observație de-a lungul malurilor râului, care oferă vederi clare și pitorești ale podului local care traversează apa în Surat Thani.",
+                  "category": "natural",
+                  "coords": [
+                        99.322686,
+                        9.142987
+                  ]
+            },
+            {
+                  "name": "Tapee River Viewpoint ",
+                  "text": "Situat de-a lungul malurilor râului Tapee, acest punct de belvedere oferă panorame ample asupra apei curgătoare și a bărcilor care trec.",
+                  "category": "natural",
+                  "coords": [
+                        99.323684,
+                        9.145164
+                  ]
+            },
+            {
+                  "name": "St. Raphael cathedral",
+                  "text": "Deservind comunitatea catolică locală din Surat Thani, această catedrală proeminentă este un simbol al prezenței creștine în regiune.",
+                  "category": "religious",
+                  "coords": [
+                        99.334255,
+                        9.149573
+                  ]
+            },
+            {
+                  "name": "Wat Phathanaram",
+                  "text": "Un templu budist recunoscut din Surat Thani, cunoscut pentru decorațiunile sale ornamentate și pentru rolul său în festivalurile religioase regionale semnificative.",
+                  "category": "religious",
+                  "coords": [
+                        99.328459,
+                        9.148473
+                  ]
+            },
+            {
+                  "name": "Wat Thamma Bucha",
+                  "text": "Acest templu budist din Surat Thani este un monument local distins, având structuri clasice de templu și o atmosferă de reverență.",
+                  "category": "religious",
+                  "coords": [
+                        99.327127,
+                        9.143514
+                  ]
+            },
+            {
+                  "name": "Ko Lamphu Park",
+                  "text": "Un parc public situat pe o mică insulă din râul Tapee, oferind un sanctuar verde pentru jogging, picnic și recreere în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        99.315661,
+                        9.137464
+                  ]
+            },
+            {
+                  "name": "Wat Sai",
+                  "text": "Un complex istoric de temple budiste din zona Surat Thani, remarcabil pentru structurile sale vechi din lemn și măiestria artizanală tradițională.",
+                  "category": "religious",
+                  "coords": [
+                        99.325654,
+                        9.145274
+                  ]
+            },
+            {
+                  "name": "City Pillar Shrine",
+                  "text": "Un altar budist foarte venerat, care găzduiește stâlpul orașului Surat Thani, având detalii arhitecturale complicate și servind drept punct central pentru ceremoniile civice.",
+                  "category": "landmark",
+                  "coords": [
+                        99.321706,
+                        9.139188
+                  ]
+            },
+            {
+                  "name": "Wat Klang",
+                  "text": "Acest templu budist central este o parte integrantă a vieții de zi cu zi din Surat Thani, fiind ușor accesibil și vizitat frecvent de localnici pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        99.324831,
+                        9.146499
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wat Phothawat",
+                  "text": "A serene temple complex in Surat Thani, featuring traditional Thai Buddhist architecture and peaceful grounds for contemplation.",
+                  "category": "religious",
+                  "coords": [
+                        99.317632,
+                        9.130594
+                  ]
+            },
+            {
+                  "name": "Wat Dai Dhammaram",
+                  "text": "Located in Surat Thani, this Buddhist place of worship serves as a spiritual retreat and a center for local religious community activities.",
+                  "category": "religious",
+                  "coords": [
+                        99.323074,
+                        9.140578
+                  ]
+            },
+            {
+                  "name": "Viewpoint to Bridge",
+                  "text": "An observation spot along the riverbanks offering clear, scenic views of the local bridge spanning the water in Surat Thani.",
+                  "category": "natural",
+                  "coords": [
+                        99.322686,
+                        9.142987
+                  ]
+            },
+            {
+                  "name": "Tapee River Viewpoint ",
+                  "text": "Situated along the banks of the Tapee River, this viewpoint provides sweeping panoramas of the flowing water and passing boats.",
+                  "category": "natural",
+                  "coords": [
+                        99.323684,
+                        9.145164
+                  ]
+            },
+            {
+                  "name": "St. Raphael cathedral",
+                  "text": "Serving the local Catholic community in Surat Thani, this prominent cathedral is a symbol of the Christian presence in the region.",
+                  "category": "religious",
+                  "coords": [
+                        99.334255,
+                        9.149573
+                  ]
+            },
+            {
+                  "name": "Wat Phathanaram",
+                  "text": "A recognized Buddhist temple in Surat Thani, known for its ornate decorations and role in significant regional religious festivals.",
+                  "category": "religious",
+                  "coords": [
+                        99.328459,
+                        9.148473
+                  ]
+            },
+            {
+                  "name": "Wat Thamma Bucha",
+                  "text": "This Surat Thani Buddhist temple is a distinguished local monument featuring classical temple structures and an atmosphere of reverence.",
+                  "category": "religious",
+                  "coords": [
+                        99.327127,
+                        9.143514
+                  ]
+            },
+            {
+                  "name": "Ko Lamphu Park",
+                  "text": "A public park situated on a small island in the Tapee River, offering a green sanctuary for jogging, picnicking, and outdoor recreation.",
+                  "category": "park",
+                  "coords": [
+                        99.315661,
+                        9.137464
+                  ]
+            },
+            {
+                  "name": "Wat Sai",
+                  "text": "A historic Buddhist temple complex in the Surat Thani area, notable for its old wooden structures and traditional artisan craftsmanship.",
+                  "category": "religious",
+                  "coords": [
+                        99.325654,
+                        9.145274
+                  ]
+            },
+            {
+                  "name": "City Pillar Shrine",
+                  "text": "A highly revered Buddhist shrine housing the city pillar of Surat Thani, featuring intricate architectural details and serving as a focal point for civic ceremonies.",
+                  "category": "landmark",
+                  "coords": [
+                        99.321706,
+                        9.139188
+                  ]
+            },
+            {
+                  "name": "Wat Klang",
+                  "text": "This central Buddhist temple is an integral part of daily life in Surat Thani, easily accessible and frequently visited by locals for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        99.324831,
+                        9.146499
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TH-84",
     coords: [99.333, 9.133],
@@ -5824,7 +8389,1060 @@ export const poiExtraThailandCitiesV2: POI[] = [
       fr: ["Surat Thani est une ville située sur le golfe de Thaïlande et la porte d'entrée vers les îles populaires de Ko Samui, Ko Pha-ngan et Ko Tao.", "Située sur le territoire du Royaume de Thaïlande.", "Marquée par le climat de mousson de l'Asie du Sud-Est.", "Liée à l'héritage de Sukhothaï et d'Ayutthaya."],
     }, image: "/poi-images/surat-thani-cities-v2.webp"},
   {
-    id: "chiang-rai-cities-v2",
+    id: "chiang-rai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Darunaman Mosque",
+                  "text": "Eine wichtige Gebetsstätte für die lokale chinesisch-muslimische Gemeinde, die islamische und chinesische Baustile vereint.",
+                  "category": "religious",
+                  "coords": [
+                        99.829247,
+                        19.907812
+                  ]
+            },
+            {
+                  "name": "Wat Phra Sing",
+                  "text": "Ein Tempel aus dem 14. Jahrhundert, der einst den Phra Singh Buddha beherbergte und wunderschöne Lanna-Holzschnitzereien besitzt.",
+                  "category": "religious",
+                  "coords": [
+                        99.830546,
+                        19.91153
+                  ]
+            },
+            {
+                  "name": "Wat Namlat Wang Sang",
+                  "text": "Ein buddhistischer Tempel, der für seinen traditionellen Pavillon im Lanna-Stil und sein ruhiges Gebetsgelände bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        99.816671,
+                        19.929386
+                  ]
+            },
+            {
+                  "name": "Wat Phra That Doi Chom Thong",
+                  "text": "Ein historischer Tempel auf einem Hügel, auf dem König Mengrai angeblich die Gründung der Stadt Chiang Rai beschloss.",
+                  "category": "religious",
+                  "coords": [
+                        99.822768,
+                        19.915725
+                  ]
+            },
+            {
+                  "name": "Wat Si Sai Mun",
+                  "text": "Ein ruhiger Vierteltempel, der für seine gut erhaltene Lanna-Architektur und seine goldenen Verzierungen bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        99.840047,
+                        19.897808
+                  ]
+            },
+            {
+                  "name": "Wat Chet Yot",
+                  "text": "Ein Tempel mit einem einzigartigen siebenstrebigen Chedi, der dem Mahabodhi-Tempel in Indien nachempfunden ist.",
+                  "category": "religious",
+                  "coords": [
+                        99.831303,
+                        19.903573
+                  ]
+            },
+            {
+                  "name": "Wat Phra Kaew",
+                  "text": "Der angesehene Tempel, in dem 1434 nach einem Blitzeinschlag der berühmte Smaragd-Buddha entdeckt wurde.",
+                  "category": "religious",
+                  "coords": [
+                        99.827018,
+                        19.911693
+                  ]
+            },
+            {
+                  "name": "Wat Ngam Muang",
+                  "text": "Ein Tempel, der den Grabstupa von König Mengrai, dem Gründer des Lanna-Königreichs, beherbergt.",
+                  "category": "religious",
+                  "coords": [
+                        99.825018,
+                        19.912511
+                  ]
+            },
+            {
+                  "name": "Wat Sri Bun Rueang",
+                  "text": "Ein zentraler Stadttempel mit einem kunstvollen vergoldeten Tor und einem klassischen nordthailändischen Viharn.",
+                  "category": "religious",
+                  "coords": [
+                        99.83782,
+                        19.911538
+                  ]
+            },
+            {
+                  "name": "Wat Si Koet",
+                  "text": "Ein historisches buddhistisches Heiligtum, das traditionelle nordthailändische religiöse Kunst und Wandmalereien zeigt.",
+                  "category": "religious",
+                  "coords": [
+                        99.839275,
+                        19.90691
+                  ]
+            },
+            {
+                  "name": "Nativity of our Lady Church",
+                  "text": "Eine prominente katholische Kirche, die der örtlichen christlichen Gemeinde mit regelmäßigen Gottesdiensten dient.",
+                  "category": "religious",
+                  "coords": [
+                        99.844429,
+                        19.913116
+                  ]
+            },
+            {
+                  "name": "Wat Rong Suea Ten",
+                  "text": "Bekannt als der „Blaue Tempel“, ist diese Stätte berühmt für ihr auffälliges saphirblaues Inneres und moderne buddhistische Kunst.",
+                  "category": "religious",
+                  "coords": [
+                        99.841755,
+                        19.923357
+                  ]
+            },
+            {
+                  "name": "Clock Tower",
+                  "text": "Ein kunstvolles goldenes Wahrzeichen, das jeden Abend eine faszinierende Licht- und Soundshow bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        99.830989,
+                        19.907163
+                  ]
+            },
+            {
+                  "name": "Tobacco Warehouse Chiang Rai",
+                  "text": "Ein umfunktioniertes Industrielager, das heute als kreative Galerie für zeitgenössische Kunstausstellungen dient.",
+                  "category": "museum",
+                  "coords": [
+                        99.836679,
+                        19.908559
+                  ]
+            },
+            {
+                  "name": "Oub Kham Museum",
+                  "text": "Ein privates Museum, das eine umfangreiche Sammlung von Lanna-Artefakten beherbergt, darunter einen vergoldeten königlichen Thron.",
+                  "category": "museum",
+                  "coords": [
+                        99.814859,
+                        19.90342
+                  ]
+            },
+            {
+                  "name": "Tai Yuan Art Gallery",
+                  "text": "Eine lokale Galerie, die die einzigartigen künstlerischen Traditionen und modernen Werke der ethnischen Gruppe der Tai Yuan zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        99.81937,
+                        19.904061
+                  ]
+            },
+            {
+                  "name": "Chalermprakiat Karnchanapisek Cultural Hall",
+                  "text": "Eine Kulturhalle, in der die Geschichte, Kostüme und Traditionen der verschiedenen ethnischen Gruppen von Chiang Rai ausgestellt werden.",
+                  "category": "museum",
+                  "coords": [
+                        99.831563,
+                        19.911641
+                  ]
+            },
+            {
+                  "name": "Bussok Royal Chariot Garage",
+                  "text": "Ein spezialisiertes Museum, das kunstvolle goldene Wagen zeigt, die bei königlichen Prozessionen und religiösen Festen verwendet werden.",
+                  "category": "museum",
+                  "coords": [
+                        99.831553,
+                        19.9148
+                  ]
+            },
+            {
+                  "name": "Hilltribe Museum",
+                  "text": "Ein Bildungsmuseum, das Einblicke in die Kulturen, Kleidung und Geschichte der verschiedenen Bergvölker Nordthailands bietet.",
+                  "category": "museum",
+                  "coords": [
+                        99.835734,
+                        19.909153
+                  ]
+            },
+            {
+                  "name": "alter Uhrturm",
+                  "text": "Ein historischer weißer Uhrturm an einer belebten Marktkreuzung in der Altstadt.",
+                  "category": "historical",
+                  "coords": [
+                        99.830604,
+                        19.910257
+                  ]
+            },
+            {
+                  "name": "TDC",
+                  "text": "Ein zeitgenössisches Kreativzentrum und Kunstzentrum, das sich auf modernes thailändisches Design und lokales Handwerk konzentriert.",
+                  "category": "cultural",
+                  "coords": [
+                        99.811324,
+                        19.90066
+                  ]
+            },
+            {
+                  "name": "Abbot Residence",
+                  "text": "Die traditionellen Wohnräume des Hauptmönchs eines Tempels, oft mit kunstvollen Holzarbeiten und Lanna-Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        99.818491,
+                        19.902045
+                  ]
+            },
+            {
+                  "name": "Oasis Hut",
+                  "text": "Eine kleine christliche Kirche in Chiang Rai, die als ruhiger Ort für die lokale Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        99.833616,
+                        19.907348
+                  ]
+            },
+            {
+                  "name": "Sunday Walking Street",
+                  "text": "Ein lebhafter Sonntagsmarkt in Chiang Rai, der für lokales Kunsthandwerk und Streetfood bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        99.81945,
+                        19.901111
+                  ]
+            },
+            {
+                  "name": "Market (fruit, vegetables, meat, etc)",
+                  "text": "Ein lokaler Frischmarkt in Chiang Rai, auf dem täglich frisches Obst, Gemüse und Fleisch verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        99.845163,
+                        19.914163
+                  ]
+            },
+            {
+                  "name": "Fai Mai Market",
+                  "text": "Ein lokaler Markt in Chiang Rai, der eine authentische Atmosphäre und traditionelle thailändische Produkte bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        99.828815,
+                        19.91031
+                  ]
+            },
+            {
+                  "name": "Municipal Fresh Market 2",
+                  "text": "Ein geschäftiger Frischmarkt in Chiang Rai, der besonders am frühen Morgen für seine große Auswahl geschätzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        99.836047,
+                        19.905557
+                  ]
+            },
+            {
+                  "name": "Rim Nam Kok Community Market",
+                  "text": "Ein Gemeinschaftsmarkt am Ufer des Kok-Flusses in Chiang Rai, der lokale Produkte in entspannter Atmosphäre anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        99.850431,
+                        19.921799
+                  ]
+            },
+            {
+                  "name": "Night Bazaar Food Court",
+                  "text": "Ein Open-Air-Speisebereich im Nachtbasar von Chiang Rai mit lokaler Küche und Live-Unterhaltung.",
+                  "category": "landmark",
+                  "coords": [
+                        99.834458,
+                        19.905372
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Darunaman Mosque",
+                  "text": "A helyi kínai-muszlim közösség fontos imaháza, amely az iszlám és a kínai stílus jegyeit ötvözi.",
+                  "category": "religious",
+                  "coords": [
+                        99.829247,
+                        19.907812
+                  ]
+            },
+            {
+                  "name": "Wat Phra Sing",
+                  "text": "Egy 14. századi templom, amely egykor a Phra Singh Buddhának adott otthont, és gyönyörű lanna fafaragások díszítik.",
+                  "category": "religious",
+                  "coords": [
+                        99.830546,
+                        19.91153
+                  ]
+            },
+            {
+                  "name": "Wat Namlat Wang Sang",
+                  "text": "Egy buddhista templom, amely hagyományos lanna stílusú pavilonjáról és nyugodt imaterületéről nevezetes.",
+                  "category": "religious",
+                  "coords": [
+                        99.816671,
+                        19.929386
+                  ]
+            },
+            {
+                  "name": "Wat Phra That Doi Chom Thong",
+                  "text": "Egy történelmi templom egy dombon, ahol Mengrai király állítólag elhatározta Chiang Rai városának megalapítását.",
+                  "category": "religious",
+                  "coords": [
+                        99.822768,
+                        19.915725
+                  ]
+            },
+            {
+                  "name": "Wat Si Sai Mun",
+                  "text": "Egy csendes szomszédsági templom, amely jól megőrzött lanna építészetéről és arany díszítéseiről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        99.840047,
+                        19.897808
+                  ]
+            },
+            {
+                  "name": "Wat Chet Yot",
+                  "text": "Egy templom egyedülálló, hétágú csedivel, amelyet az indiai Mahabodhi-templom ihletett.",
+                  "category": "religious",
+                  "coords": [
+                        99.831303,
+                        19.903573
+                  ]
+            },
+            {
+                  "name": "Wat Phra Kaew",
+                  "text": "A rangos templom, ahol 1434-ben egy villámcsapás után felfedezték a híres Smaragd Buddhát.",
+                  "category": "religious",
+                  "coords": [
+                        99.827018,
+                        19.911693
+                  ]
+            },
+            {
+                  "name": "Wat Ngam Muang",
+                  "text": "Egy templom, amely Mengrai királynak, a Lanna Királyság alapítójának temetkezési sztúpáját őrzi.",
+                  "category": "religious",
+                  "coords": [
+                        99.825018,
+                        19.912511
+                  ]
+            },
+            {
+                  "name": "Wat Sri Bun Rueang",
+                  "text": "Egy belvárosi templom díszes aranyozott kapuval és egy klasszikus észak-thaiföldi viharnnal.",
+                  "category": "religious",
+                  "coords": [
+                        99.83782,
+                        19.911538
+                  ]
+            },
+            {
+                  "name": "Wat Si Koet",
+                  "text": "Egy történelmi buddhista szentély, amely hagyományos észak-thaiföldi vallási művészetet és falfestményeket mutat be.",
+                  "category": "religious",
+                  "coords": [
+                        99.839275,
+                        19.90691
+                  ]
+            },
+            {
+                  "name": "Nativity of our Lady Church",
+                  "text": "Egy jelentős katolikus templom, amely rendszeres istentiszteletekkel szolgálja a helyi keresztény közösséget.",
+                  "category": "religious",
+                  "coords": [
+                        99.844429,
+                        19.913116
+                  ]
+            },
+            {
+                  "name": "Wat Rong Suea Ten",
+                  "text": "A „Kék templomként” ismert helyszín híres feltűnő zafírkék belső teréről és modern buddhista művészetéről.",
+                  "category": "religious",
+                  "coords": [
+                        99.841755,
+                        19.923357
+                  ]
+            },
+            {
+                  "name": "Clock Tower",
+                  "text": "Egy díszes arany nevezetesség, amely minden este lenyűgöző fény- és hangjátékkal várja a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        99.830989,
+                        19.907163
+                  ]
+            },
+            {
+                  "name": "Tobacco Warehouse Chiang Rai",
+                  "text": "Egy átalakított ipari raktár, amely ma kreatív galériaként szolgál kortárs művészeti kiállítások számára.",
+                  "category": "museum",
+                  "coords": [
+                        99.836679,
+                        19.908559
+                  ]
+            },
+            {
+                  "name": "Oub Kham Museum",
+                  "text": "Magánmúzeum, amely lanna tárgyak hatalmas gyűjteményének ad otthont, köztük egy aranyozott királyi trónnak.",
+                  "category": "museum",
+                  "coords": [
+                        99.814859,
+                        19.90342
+                  ]
+            },
+            {
+                  "name": "Tai Yuan Art Gallery",
+                  "text": "Helyi galéria, amely a Tai Yuan etnikai csoport egyedülálló művészeti hagyományait és modern alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        99.81937,
+                        19.904061
+                  ]
+            },
+            {
+                  "name": "Chalermprakiat Karnchanapisek Cultural Hall",
+                  "text": "Kulturális csarnok, amely Chiang Rai különböző etnikai csoportjainak történelmét, viseletét és hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        99.831563,
+                        19.911641
+                  ]
+            },
+            {
+                  "name": "Bussok Royal Chariot Garage",
+                  "text": "Speciális múzeum, amely a királyi körmeneteken és vallási fesztiválokon használt díszes arany kocsikat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        99.831553,
+                        19.9148
+                  ]
+            },
+            {
+                  "name": "Hilltribe Museum",
+                  "text": "Oktatási múzeum, amely betekintést nyújt Észak-Thaiföld különböző hegyi törzseinek kultúrájába, öltözködésébe és történelmébe.",
+                  "category": "museum",
+                  "coords": [
+                        99.835734,
+                        19.909153
+                  ]
+            },
+            {
+                  "name": "Old clock tower",
+                  "text": "Történelmi fehér óratorony az óváros egyik nyüzsgő piaci kereszteződésében.",
+                  "category": "historical",
+                  "coords": [
+                        99.830604,
+                        19.910257
+                  ]
+            },
+            {
+                  "name": "TDC",
+                  "text": "Kortárs kreatív központ és művészeti központ, amely a modern thaiföldi designra és a helyi kézművességre összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        99.811324,
+                        19.90066
+                  ]
+            },
+            {
+                  "name": "Abbot Residence",
+                  "text": "Egy templom főapátjának hagyományos lakhelye, amely gyakran díszes fafaragásokkal és lanna építészettel rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        99.818491,
+                        19.902045
+                  ]
+            },
+            {
+                  "name": "Oasis Hut",
+                  "text": "Egy kis keresztény templom Chiang Rai-ban, amely csendes helyszínként szolgál a helyi közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        99.833616,
+                        19.907348
+                  ]
+            },
+            {
+                  "name": "Sunday Walking Street",
+                  "text": "Élénk vasárnap utcai piac Chiang Rai-ban, amely helyi kézműves termékeiről és utcai ételeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        99.81945,
+                        19.901111
+                  ]
+            },
+            {
+                  "name": "Market (fruit, vegetables, meat, etc)",
+                  "text": "Helyi frissáru-piac Chiang Rai-ban, ahol naponta árulnak friss gyümölcsöt, zöldséget és húst.",
+                  "category": "cultural",
+                  "coords": [
+                        99.845163,
+                        19.914163
+                  ]
+            },
+            {
+                  "name": "Fai Mai Market",
+                  "text": "Helyi piac Chiang Rai-ban, amely autentikus hangulatot és tradicionális thai termékeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        99.828815,
+                        19.91031
+                  ]
+            },
+            {
+                  "name": "Municipal Fresh Market 2",
+                  "text": "Nyüzsgő frissáru-piac Chiang Rai-ban, amelyet kora reggel a bőséges választék miatt kedvelnek.",
+                  "category": "cultural",
+                  "coords": [
+                        99.836047,
+                        19.905557
+                  ]
+            },
+            {
+                  "name": "Rim Nam Kok Community Market",
+                  "text": "Közösségi piac a Kok-folyó partján Chiang Rai-ban, amely helyi termékeket kínál nyugodt környezetben.",
+                  "category": "cultural",
+                  "coords": [
+                        99.850431,
+                        19.921799
+                  ]
+            },
+            {
+                  "name": "Night Bazaar Food Court",
+                  "text": "Szabadtéri étkezőhely a Chiang Rai-i éjszakai bazárban, helyi konyhával és élő műsorokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        99.834458,
+                        19.905372
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Darunaman Mosque",
+                  "text": "Un loc de rugăciune important pentru comunitatea locală chineză-musulmană, prezentând un amestec de stiluri islamice și chinezești.",
+                  "category": "religious",
+                  "coords": [
+                        99.829247,
+                        19.907812
+                  ]
+            },
+            {
+                  "name": "Wat Phra Sing",
+                  "text": "Un templu din secolul al XIV-lea care a adăpostit cândva pe Phra Singh Buddha, având sculpturi frumoase în lemn în stil Lanna.",
+                  "category": "religious",
+                  "coords": [
+                        99.830546,
+                        19.91153
+                  ]
+            },
+            {
+                  "name": "Wat Namlat Wang Sang",
+                  "text": "Un templu budist remarcabil pentru pavilionul său tradițional în stil Lanna și terenurile de rugăciune liniștite.",
+                  "category": "religious",
+                  "coords": [
+                        99.816671,
+                        19.929386
+                  ]
+            },
+            {
+                  "name": "Wat Phra That Doi Chom Thong",
+                  "text": "Un templu istoric pe un deal unde regele Mengrai ar fi decis să înființeze orașul Chiang Rai.",
+                  "category": "religious",
+                  "coords": [
+                        99.822768,
+                        19.915725
+                  ]
+            },
+            {
+                  "name": "Wat Si Sai Mun",
+                  "text": "Un templu de cartier liniștit, cunoscut pentru arhitectura sa Lanna bine conservată și decorațiunile aurii.",
+                  "category": "religious",
+                  "coords": [
+                        99.840047,
+                        19.897808
+                  ]
+            },
+            {
+                  "name": "Wat Chet Yot",
+                  "text": "Un templu cu un chedi unic cu șapte turle, inspirat de Templul Mahabodhi din India.",
+                  "category": "religious",
+                  "coords": [
+                        99.831303,
+                        19.903573
+                  ]
+            },
+            {
+                  "name": "Wat Phra Kaew",
+                  "text": "Templul prestigios unde faimosul Buddha de Smarald a fost descoperit în 1434, după un fulger.",
+                  "category": "religious",
+                  "coords": [
+                        99.827018,
+                        19.911693
+                  ]
+            },
+            {
+                  "name": "Wat Ngam Muang",
+                  "text": "Un templu care adăpostește stupa funerară a regelui Mengrai, fondatorul regatului Lanna.",
+                  "category": "religious",
+                  "coords": [
+                        99.825018,
+                        19.912511
+                  ]
+            },
+            {
+                  "name": "Wat Sri Bun Rueang",
+                  "text": "Un templu din centrul orașului, cu o poartă aurită ornată și un viharn clasic din nordul Thailandei.",
+                  "category": "religious",
+                  "coords": [
+                        99.83782,
+                        19.911538
+                  ]
+            },
+            {
+                  "name": "Wat Si Koet",
+                  "text": "Un sanctuar budist istoric care prezintă artă religioasă tradițională din nordul Thailandei și picturi murale.",
+                  "category": "religious",
+                  "coords": [
+                        99.839275,
+                        19.90691
+                  ]
+            },
+            {
+                  "name": "Nativity of our Lady Church",
+                  "text": "O biserică catolică proeminentă care servește comunitatea creștină locală cu slujbe regulate.",
+                  "category": "religious",
+                  "coords": [
+                        99.844429,
+                        19.913116
+                  ]
+            },
+            {
+                  "name": "Wat Rong Suea Ten",
+                  "text": "Cunoscut sub numele de „Templul Albastru”, acest sit este faimos pentru interiorul său albastru de safir izbitor și arta budistă modernă.",
+                  "category": "religious",
+                  "coords": [
+                        99.841755,
+                        19.923357
+                  ]
+            },
+            {
+                  "name": "Clock Tower",
+                  "text": "Un reper auriu ornat care oferă în fiecare seară un spectacol fascinant de lumini și sunete.",
+                  "category": "landmark",
+                  "coords": [
+                        99.830989,
+                        19.907163
+                  ]
+            },
+            {
+                  "name": "Tobacco Warehouse Chiang Rai",
+                  "text": "Un depozit industrial reutilizat care servește acum ca o galerie creativă pentru expoziții de artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        99.836679,
+                        19.908559
+                  ]
+            },
+            {
+                  "name": "Oub Kham Museum",
+                  "text": "Un muzeu privat care adăpostește o colecție vastă de artefacte Lanna, inclusiv un tron regal placat cu aur.",
+                  "category": "museum",
+                  "coords": [
+                        99.814859,
+                        19.90342
+                  ]
+            },
+            {
+                  "name": "Tai Yuan Art Gallery",
+                  "text": "O galerie locală care prezintă tradițiile artistice unice și lucrările moderne ale grupului etnic Tai Yuan.",
+                  "category": "museum",
+                  "coords": [
+                        99.81937,
+                        19.904061
+                  ]
+            },
+            {
+                  "name": "Chalermprakiat Karnchanapisek Cultural Hall",
+                  "text": "O sală culturală care expune istoria, costumele și tradițiile diverselor grupuri etnice din Chiang Rai.",
+                  "category": "museum",
+                  "coords": [
+                        99.831563,
+                        19.911641
+                  ]
+            },
+            {
+                  "name": "Bussok Royal Chariot Garage",
+                  "text": "Un muzeu specializat care expune care aurii ornate folosite în procesiunile regale și festivalurile religioase.",
+                  "category": "museum",
+                  "coords": [
+                        99.831553,
+                        19.9148
+                  ]
+            },
+            {
+                  "name": "Hilltribe Museum",
+                  "text": "Un muzeu educațional care oferă informații despre culturile, îmbrăcămintea și istoria diverselor triburi de munte din nordul Thailandei.",
+                  "category": "museum",
+                  "coords": [
+                        99.835734,
+                        19.909153
+                  ]
+            },
+            {
+                  "name": "Old clock tower",
+                  "text": "Un turn cu ceas alb istoric, situat într-o intersecție aglomerată din piața orașului vechi.",
+                  "category": "historical",
+                  "coords": [
+                        99.830604,
+                        19.910257
+                  ]
+            },
+            {
+                  "name": "TDC",
+                  "text": "Un centru creativ contemporan și centru de artă axat pe designul thailandez modern și măiestria locală.",
+                  "category": "cultural",
+                  "coords": [
+                        99.811324,
+                        19.90066
+                  ]
+            },
+            {
+                  "name": "Abbot Residence",
+                  "text": "Reședința tradițională a călugărului șef al unui templu, prezentând adesea lucrări în lemn ornate și arhitectură Lanna.",
+                  "category": "religious",
+                  "coords": [
+                        99.818491,
+                        19.902045
+                  ]
+            },
+            {
+                  "name": "Oasis Hut",
+                  "text": "O mică biserică creștină din Chiang Rai, care servește ca loc liniștit pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        99.833616,
+                        19.907348
+                  ]
+            },
+            {
+                  "name": "Sunday Walking Street",
+                  "text": "O piață de stradă plină de viață în Chiang Rai, cunoscută pentru meșteșugurile locale și mâncarea stradală.",
+                  "category": "cultural",
+                  "coords": [
+                        99.81945,
+                        19.901111
+                  ]
+            },
+            {
+                  "name": "Market (fruit, vegetables, meat, etc)",
+                  "text": "O piață locală de produse proaspete din Chiang Rai, unde se vând zilnic fructe, legume și carne.",
+                  "category": "cultural",
+                  "coords": [
+                        99.845163,
+                        19.914163
+                  ]
+            },
+            {
+                  "name": "Fai Mai Market",
+                  "text": "O piață locală din Chiang Rai, care oferă o atmosferă autentică și produse tradiționale thailandeze.",
+                  "category": "cultural",
+                  "coords": [
+                        99.828815,
+                        19.91031
+                  ]
+            },
+            {
+                  "name": "Municipal Fresh Market 2",
+                  "text": "O piață de produse proaspete aglomerată din Chiang Rai, apreciată pentru selecția vastă mai ales dimineața devreme.",
+                  "category": "cultural",
+                  "coords": [
+                        99.836047,
+                        19.905557
+                  ]
+            },
+            {
+                  "name": "Rim Nam Kok Community Market",
+                  "text": "O piață comunitară pe malul râului Kok din Chiang Rai, care oferă produse locale într-o atmosferă relaxată.",
+                  "category": "cultural",
+                  "coords": [
+                        99.850431,
+                        19.921799
+                  ]
+            },
+            {
+                  "name": "Night Bazaar Food Court",
+                  "text": "O zonă de luat masa în aer liber în bazarul de noapte din Chiang Rai, cu bucătărie locală și spectacole live.",
+                  "category": "landmark",
+                  "coords": [
+                        99.834458,
+                        19.905372
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Darunaman Mosque",
+                  "text": "An important place of worship for the local Chinese-Muslim community, featuring a mix of Islamic and Chinese styles.",
+                  "category": "religious",
+                  "coords": [
+                        99.829247,
+                        19.907812
+                  ]
+            },
+            {
+                  "name": "Wat Phra Sing",
+                  "text": "A 14th-century temple that once housed the Phra Singh Buddha, featuring beautiful Lanna wood carvings.",
+                  "category": "religious",
+                  "coords": [
+                        99.830546,
+                        19.91153
+                  ]
+            },
+            {
+                  "name": "Wat Namlat Wang Sang",
+                  "text": "A Buddhist temple notable for its traditional Lanna-style pavilion and serene prayer grounds.",
+                  "category": "religious",
+                  "coords": [
+                        99.816671,
+                        19.929386
+                  ]
+            },
+            {
+                  "name": "Wat Phra That Doi Chom Thong",
+                  "text": "A historic temple on a hill where King Mengrai allegedly decided to establish the city of Chiang Rai.",
+                  "category": "religious",
+                  "coords": [
+                        99.822768,
+                        19.915725
+                  ]
+            },
+            {
+                  "name": "Wat Si Sai Mun",
+                  "text": "A quiet neighborhood temple known for its well-preserved Lanna architecture and golden decorations.",
+                  "category": "religious",
+                  "coords": [
+                        99.840047,
+                        19.897808
+                  ]
+            },
+            {
+                  "name": "Wat Chet Yot",
+                  "text": "A temple featuring a unique seven-spired chedi inspired by the Mahabodhi Temple in India.",
+                  "category": "religious",
+                  "coords": [
+                        99.831303,
+                        19.903573
+                  ]
+            },
+            {
+                  "name": "Wat Phra Kaew",
+                  "text": "The prestigious temple where the famous Emerald Buddha was discovered in 1434 after a lightning strike.",
+                  "category": "religious",
+                  "coords": [
+                        99.827018,
+                        19.911693
+                  ]
+            },
+            {
+                  "name": "Wat Ngam Muang",
+                  "text": "A temple housing the funerary stupa of King Mengrai, the founder of the Lanna Kingdom.",
+                  "category": "religious",
+                  "coords": [
+                        99.825018,
+                        19.912511
+                  ]
+            },
+            {
+                  "name": "Wat Sri Bun Rueang",
+                  "text": "A central city temple featuring an ornate gilded gateway and a classic northern Thai viharn.",
+                  "category": "religious",
+                  "coords": [
+                        99.83782,
+                        19.911538
+                  ]
+            },
+            {
+                  "name": "Wat Si Koet",
+                  "text": "A historic Buddhist sanctuary showcasing traditional Northern Thai religious art and murals.",
+                  "category": "religious",
+                  "coords": [
+                        99.839275,
+                        19.90691
+                  ]
+            },
+            {
+                  "name": "Nativity of our Lady Church",
+                  "text": "A prominent Catholic church serving the local Christian community with regular services.",
+                  "category": "religious",
+                  "coords": [
+                        99.844429,
+                        19.913116
+                  ]
+            },
+            {
+                  "name": "Wat Rong Suea Ten",
+                  "text": "Known as the \"Blue Temple,\" this site is famous for its striking sapphire-blue interior and modern Buddhist art.",
+                  "category": "religious",
+                  "coords": [
+                        99.841755,
+                        19.923357
+                  ]
+            },
+            {
+                  "name": "Clock Tower",
+                  "text": "An ornate golden landmark that features a mesmerizing light and sound show every evening.",
+                  "category": "landmark",
+                  "coords": [
+                        99.830989,
+                        19.907163
+                  ]
+            },
+            {
+                  "name": "Tobacco Warehouse Chiang Rai",
+                  "text": "A repurposed industrial warehouse that now serves as a creative gallery for contemporary art exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        99.836679,
+                        19.908559
+                  ]
+            },
+            {
+                  "name": "Oub Kham Museum",
+                  "text": "A private museum housing a vast collection of Lanna artifacts, including a gold-plated royal throne.",
+                  "category": "museum",
+                  "coords": [
+                        99.814859,
+                        19.90342
+                  ]
+            },
+            {
+                  "name": "Tai Yuan Art Gallery",
+                  "text": "A local gallery showcasing the unique artistic traditions and modern works of the Tai Yuan ethnic group.",
+                  "category": "museum",
+                  "coords": [
+                        99.81937,
+                        19.904061
+                  ]
+            },
+            {
+                  "name": "Chalermprakiat Karnchanapisek Cultural Hall",
+                  "text": "A cultural hall exhibiting the history, costumes, and traditions of Chiang Rai's diverse ethnic groups.",
+                  "category": "museum",
+                  "coords": [
+                        99.831563,
+                        19.911641
+                  ]
+            },
+            {
+                  "name": "Bussok Royal Chariot Garage",
+                  "text": "A specialized museum displaying ornate golden chariots used in royal processions and religious festivals.",
+                  "category": "museum",
+                  "coords": [
+                        99.831553,
+                        19.9148
+                  ]
+            },
+            {
+                  "name": "Hilltribe Museum",
+                  "text": "An educational museum providing insights into the cultures, clothing, and history of Northern Thailand's diverse hill tribes.",
+                  "category": "museum",
+                  "coords": [
+                        99.835734,
+                        19.909153
+                  ]
+            },
+            {
+                  "name": "Old clock tower",
+                  "text": "A historic white clock tower located in a bustling market intersection of the old city.",
+                  "category": "historical",
+                  "coords": [
+                        99.830604,
+                        19.910257
+                  ]
+            },
+            {
+                  "name": "TDC",
+                  "text": "A contemporary creative hub and arts center focused on modern Thai design and local craftsmanship.",
+                  "category": "cultural",
+                  "coords": [
+                        99.811324,
+                        19.90066
+                  ]
+            },
+            {
+                  "name": "Abbot Residence",
+                  "text": "The traditional living quarters of a temple's head monk, often featuring ornate woodwork and Lanna architecture.",
+                  "category": "religious",
+                  "coords": [
+                        99.818491,
+                        19.902045
+                  ]
+            },
+            {
+                  "name": "Oasis Hut",
+                  "text": "A small Christian church in Chiang Rai, serving as a quiet venue for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        99.833616,
+                        19.907348
+                  ]
+            },
+            {
+                  "name": "Sunday Walking Street",
+                  "text": "A lively Sunday street market in Chiang Rai, known for local handicrafts and street food.",
+                  "category": "cultural",
+                  "coords": [
+                        99.81945,
+                        19.901111
+                  ]
+            },
+            {
+                  "name": "Market (fruit, vegetables, meat, etc)",
+                  "text": "A local fresh market in Chiang Rai selling fresh fruit, vegetables, and meat daily.",
+                  "category": "cultural",
+                  "coords": [
+                        99.845163,
+                        19.914163
+                  ]
+            },
+            {
+                  "name": "Fai Mai Market",
+                  "text": "A local market in Chiang Rai offering an authentic atmosphere and traditional Thai products.",
+                  "category": "cultural",
+                  "coords": [
+                        99.828815,
+                        19.91031
+                  ]
+            },
+            {
+                  "name": "Municipal Fresh Market 2",
+                  "text": "A bustling fresh market in Chiang Rai, popular in the early morning for its wide selection.",
+                  "category": "cultural",
+                  "coords": [
+                        99.836047,
+                        19.905557
+                  ]
+            },
+            {
+                  "name": "Rim Nam Kok Community Market",
+                  "text": "A community market on the banks of the Kok River in Chiang Rai, offering local products in a relaxed setting.",
+                  "category": "cultural",
+                  "coords": [
+                        99.850431,
+                        19.921799
+                  ]
+            },
+            {
+                  "name": "Night Bazaar Food Court",
+                  "text": "An open-air dining area at the Chiang Rai Night Bazaar featuring local cuisine and live entertainment.",
+                  "category": "landmark",
+                  "coords": [
+                        99.834458,
+                        19.905372
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TH-57",
     coords: [99.8329, 19.911],
@@ -6392,7 +10010,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Dieser bedeutende königliche Tempel",
-                  "text": "Dieser bedeutende königliche Tempel ist ein religiöses Zentrum in der Stadt Nakhon Sawan.",
+                  "text": "Ein königlicher buddhistischer Tempel (Phra Aram Luang) in Nakhon Sawan.",
                   "category": "religious",
                   "coords": [
                         100.13515,
@@ -6401,7 +10019,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Dechatiwong Bridge",
-                  "text": "Die Dechatiwong Bridge ist eine bekannte Brücke in Nakhon Sawan.",
+                  "text": "Die Dechatiwong-Brücke ist eine historische Stahlfachwerkbrücke über den Chao-Phraya-Fluss, erbaut in den frühen 1900er Jahren.",
                   "category": "landmark",
                   "coords": [
                         100.123542,
@@ -6457,7 +10075,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Wat Nakhon Sawan",
-                  "text": "Ez a jelentős királyi templom vallási központ Nakhon Sawan városában.",
+                  "text": "Egy királyi buddhista templom (Phra Aram Luang) Nakhon Sawanban.",
                   "category": "religious",
                   "coords": [
                         100.13515,
@@ -6466,7 +10084,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Dechatiwong Bridge",
-                  "text": "A Dechatiwong Bridge egy ismert híd Nakhon Sawan városában.",
+                  "text": "A Dechatiwong-híd egy történelmi acélszerkezetű híd a Chao Phraya folyón, a 20. század elején épült.",
                   "category": "landmark",
                   "coords": [
                         100.123542,
@@ -6522,7 +10140,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Acest templu regal important",
-                  "text": "Acest templu regal important este un centru religios în orașul Nakhon Sawan.",
+                  "text": "Un templu budist regal (Phra Aram Luang) în Nakhon Sawan.",
                   "category": "religious",
                   "coords": [
                         100.13515,
@@ -6531,7 +10149,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Dechatiwong Bridge",
-                  "text": "Dechatiwong Bridge este un pod cunoscut situat în Nakhon Sawan.",
+                  "text": "Podul Dechatiwong este un pod istoric din oțel cu structură de zăbrele peste râul Chao Phraya, construit la începutul anilor 1900.",
                   "category": "landmark",
                   "coords": [
                         100.123542,
@@ -6587,7 +10205,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Wat Nakhon Sawan Phra Aram Luang",
-                  "text": "This significant royal temple is a religious center in the city of Nakhon Sawan.",
+                  "text": "A royal Buddhist temple (Phra Aram Luang) in Nakhon Sawan.",
                   "category": "religious",
                   "coords": [
                         100.13515,
@@ -6596,7 +10214,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Dechatiwong Bridge",
-                  "text": "Dechatiwong Bridge is a notable bridge located in Nakhon Sawan.",
+                  "text": "Dechatiwong Bridge is a historic steel truss bridge over the Chao Phraya River, built in the early 1900s.",
                   "category": "landmark",
                   "coords": [
                         100.123542,
@@ -6923,7 +10541,664 @@ export const poiExtraThailandCitiesV2: POI[] = [
       fr: ["Nakhon Si Thammarat est l'une des villes les plus anciennes de Thaïlande et un centre important du bouddhisme dans la région sud.", "Située sur le territoire du royaume de Thaïlande.", "Marquée par le climat de mousson de l'Asie du Sud-Est.", "Liée à l'héritage de Sukhothai et d'Ayutthaya."],
     }, image: "/poi-images/nakhon-si-thammarat-cities-v2.webp"},
   {
-    id: "phitsanulok-cities-v2",
+    id: "phitsanulok-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wat Wihan Thong",
+                  "text": "Historische Tempelruinen, die über ganz Phitsanulok verstreut sind und das alte architektonische Erbe der Stadt bewahren.",
+                  "category": "historical",
+                  "coords": [
+                        100.260975,
+                        16.82765
+                  ]
+            },
+            {
+                  "name": "Wat Pho Thong",
+                  "text": "Eine stimmungsvolle Stätte alter Ruinen in Phitsanulok, wo verwitterte Steinstrukturen einen Blick in die Vergangenheit bieten.",
+                  "category": "historical",
+                  "coords": [
+                        100.259453,
+                        16.827845
+                  ]
+            },
+            {
+                  "name": "Wat Phra Si Rattana Mahathat",
+                  "text": "Eine Hauptattraktion in Phitsanulok, bekannt für die Beherbergung der hoch verehrten goldenen Buddha-Statue Phra Phuttha Chinnarat.",
+                  "category": "landmark",
+                  "coords": [
+                        100.261858,
+                        16.823574
+                  ]
+            },
+            {
+                  "name": "Buddha",
+                  "text": "Eine markante monumentale Buddha-Statue, die über die städtische Landschaft von Phitsanulok wacht.",
+                  "category": "historical",
+                  "coords": [
+                        100.262821,
+                        16.823722
+                  ]
+            },
+            {
+                  "name": "Pond with giant waterlilies",
+                  "text": "Ein malerischer Teich in Phitsanulok mit riesigen schwimmenden Seerosen, die ein bemerkenswertes Gewicht tragen können.",
+                  "category": "landmark",
+                  "coords": [
+                        100.231162,
+                        16.820166
+                  ]
+            },
+            {
+                  "name": "Chan Palace",
+                  "text": "Eine archäologische Stätte, die die ehemalige königliche Residenz von König Naresuan dem Großen in Phitsanulok markiert.",
+                  "category": "historical",
+                  "coords": [
+                        100.261557,
+                        16.830306
+                  ]
+            },
+            {
+                  "name": "Chan Royal Palace Historical Centre",
+                  "text": "Ein historisches Museum in Phitsanulok, das das Erbe des königlichen Hofes aus der Ayutthaya-Ära im Chan-Palast detailliert darstellt.",
+                  "category": "museum",
+                  "coords": [
+                        100.261771,
+                        16.8286
+                  ]
+            },
+            {
+                  "name": "Wat Aranyik",
+                  "text": "Die archäologischen Überreste von Wat Aranyik, einem alten Waldtempelkomplex in der Nähe des städtischen Zentrums von Phitsanulok.",
+                  "category": "historical",
+                  "coords": [
+                        100.277987,
+                        16.826266
+                  ]
+            },
+            {
+                  "name": "Wat Nang Phaya",
+                  "text": "Ein renommierter Kultort in Phitsanulok, besonders berühmt für seine heiligen Nang Phaya-Amulette.",
+                  "category": "religious",
+                  "coords": [
+                        100.261929,
+                        16.8224
+                  ]
+            },
+            {
+                  "name": "Old Train",
+                  "text": "Eine historische Dampflokomotive, die als nostalgische Attraktion in Phitsanulok ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        100.265124,
+                        16.815014
+                  ]
+            },
+            {
+                  "name": "Wat Ku Ha Sawan",
+                  "text": "Ein ruhiger buddhistischer Tempel in Phitsanulok, der einen stillen Raum für Meditation und Gemeindeversammlungen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        100.254837,
+                        16.827528
+                  ]
+            },
+            {
+                  "name": "Phitsanulok City Pillar Shrine",
+                  "text": "Der zentrale Stadtpfeilerschrein von Phitsanulok, der das spirituelle Herz und die Schutzgottheit der Stadt darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        100.259803,
+                        16.824354
+                  ]
+            },
+            {
+                  "name": "Wat Tha Maprang",
+                  "text": "Ein markanter buddhistischer Tempel in Phitsanulok, der für seine kunstvolle regionale Architektur und seine religiöse Bedeutung bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        100.258462,
+                        16.810616
+                  ]
+            },
+            {
+                  "name": "Wat Yang",
+                  "text": "Ein lokaler Kultort in Phitsanulok, der den spirituellen Bedürfnissen der umliegenden Nachbarschaft dient.",
+                  "category": "religious",
+                  "coords": [
+                        100.251351,
+                        16.834568
+                  ]
+            },
+            {
+                  "name": "Masjid Pakistan",
+                  "text": "Eine prominente Moschee in Phitsanulok, die der lokalen pakistanischen und der breiteren muslimischen Gemeinschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        100.266339,
+                        16.820606
+                  ]
+            },
+            {
+                  "name": "Kristkunanugul Church",
+                  "text": "Eine lokale christliche Kirche, die einen Raum für Gottesdienst und Gemeinschaft in der Stadt Phitsanulok bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        100.267163,
+                        16.82395
+                  ]
+            },
+            {
+                  "name": "market",
+                  "text": "Ein lebhafter traditioneller Markt in Phitsanulok, auf dem Händler eine Auswahl an frischen Produkten und lokalem Streetfood verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        100.263957,
+                        16.822758
+                  ]
+            },
+            {
+                  "name": "Phitsanulok Railway Station Night Market",
+                  "text": "Ein lebhafter Abendmarkt direkt am Bahnhof von Phitsanulok, berühmt für seine vielfältigen Essensstände.",
+                  "category": "cultural",
+                  "coords": [
+                        100.264972,
+                        16.814099
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wat Wihan Thong",
+                  "text": "Phitsanulok-szerte szétszórt történelmi templomromok, amelyek a város ősi építészeti örökségét őrzik.",
+                  "category": "historical",
+                  "coords": [
+                        100.260975,
+                        16.82765
+                  ]
+            },
+            {
+                  "name": "Wat Pho Thong",
+                  "text": "Hangulatos régi romok Phitsanulokban, ahol a viharvert kőszerkezetek bepillantást engednek a múltba.",
+                  "category": "historical",
+                  "coords": [
+                        100.259453,
+                        16.827845
+                  ]
+            },
+            {
+                  "name": "Wat Phra Si Rattana Mahathat",
+                  "text": "Phitsanulok egyik fő látványossága, amely a nagy tiszteletnek örvendő Phra Phuttha Chinnarat arany Buddha-szoborról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        100.261858,
+                        16.823574
+                  ]
+            },
+            {
+                  "name": "Buddha",
+                  "text": "Egy kiemelkedő monumentális Buddha-szobor, amely Phitsanulok városi tája fölött őrködik.",
+                  "category": "historical",
+                  "coords": [
+                        100.262821,
+                        16.823722
+                  ]
+            },
+            {
+                  "name": "Pond with giant waterlilies",
+                  "text": "Békés tavacska Phitsanulokban, amely hatalmas tündérrózsákkal büszkélkedhet, melyek figyelemre méltó súlyt is elbírnak.",
+                  "category": "landmark",
+                  "coords": [
+                        100.231162,
+                        16.820166
+                  ]
+            },
+            {
+                  "name": "Chan Palace",
+                  "text": "Régészeti lelőhely, amely a Nagy Naresuan király egykori királyi rezidenciáját jelöli Phitsanulokban.",
+                  "category": "historical",
+                  "coords": [
+                        100.261557,
+                        16.830306
+                  ]
+            },
+            {
+                  "name": "Chan Royal Palace Historical Centre",
+                  "text": "Történelmi múzeum Phitsanulokban, amely az Ayutthaya-kori királyi udvar örökségét mutatja be a Chan-palotában.",
+                  "category": "museum",
+                  "coords": [
+                        100.261771,
+                        16.8286
+                  ]
+            },
+            {
+                  "name": "Wat Aranyik",
+                  "text": "A Wat Aranyik régészeti maradványai, egy ősi erdei templomegyüttes, amely Phitsanulok városközpontjának közelében található.",
+                  "category": "historical",
+                  "coords": [
+                        100.277987,
+                        16.826266
+                  ]
+            },
+            {
+                  "name": "Wat Nang Phaya",
+                  "text": "Neves istentiszteleti hely Phitsanulokban, amely különösen a szent Nang Phaya amulettjeiről híres.",
+                  "category": "religious",
+                  "coords": [
+                        100.261929,
+                        16.8224
+                  ]
+            },
+            {
+                  "name": "Old Train",
+                  "text": "Egy nosztalgikus látványosságként kiállított régi gőzmozdony Phitsanulokban.",
+                  "category": "landmark",
+                  "coords": [
+                        100.265124,
+                        16.815014
+                  ]
+            },
+            {
+                  "name": "Wat Ku Ha Sawan",
+                  "text": "Békés buddhista templom Phitsanulokban, amely csendes teret biztosít a meditációhoz és a közösségi összejövetelekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        100.254837,
+                        16.827528
+                  ]
+            },
+            {
+                  "name": "Phitsanulok City Pillar Shrine",
+                  "text": "Phitsanulok központi várososzlop-szentélye, amely a város szellemi szívét és védőistenségét jelképezi.",
+                  "category": "landmark",
+                  "coords": [
+                        100.259803,
+                        16.824354
+                  ]
+            },
+            {
+                  "name": "Wat Tha Maprang",
+                  "text": "Egy jellegzetes buddhista templom Phitsanulokban, amely díszes regionális építészetéről és vallási jelentőségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        100.258462,
+                        16.810616
+                  ]
+            },
+            {
+                  "name": "Wat Yang",
+                  "text": "Helyi istentiszteleti hely Phitsanulokban, amely a környező negyed spirituális igényeit szolgálja ki.",
+                  "category": "religious",
+                  "coords": [
+                        100.251351,
+                        16.834568
+                  ]
+            },
+            {
+                  "name": "Masjid Pakistan",
+                  "text": "Egy kiemelkedő mecset Phitsanulokban, amely a helyi pakisztáni és a szélesebb muszlim közösséget szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        100.266339,
+                        16.820606
+                  ]
+            },
+            {
+                  "name": "Kristkunanugul Church",
+                  "text": "Helyi keresztény templom, amely az istentisztelet és a közösség terét kínálja Phitsanulok városában.",
+                  "category": "landmark",
+                  "coords": [
+                        100.267163,
+                        16.82395
+                  ]
+            },
+            {
+                  "name": "market",
+                  "text": "Nyüzsgő hagyományos piac Phitsanulokban, ahol az árusok friss termékek és helyi utcai ételek széles választékát kínálják.",
+                  "category": "cultural",
+                  "coords": [
+                        100.263957,
+                        16.822758
+                  ]
+            },
+            {
+                  "name": "Phitsanulok Railway Station Night Market",
+                  "text": "Egy nyüzsgő esti piac közvetlenül a Phitsanulok vasútállomás mellett, amely a változatos ételstandjairól híres.",
+                  "category": "cultural",
+                  "coords": [
+                        100.264972,
+                        16.814099
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wat Wihan Thong",
+                  "text": "Ruine istorice de temple împrăștiate prin Phitsanulok, care păstrează vechea moștenire arhitecturală a orașului.",
+                  "category": "historical",
+                  "coords": [
+                        100.260975,
+                        16.82765
+                  ]
+            },
+            {
+                  "name": "Wat Pho Thong",
+                  "text": "Un sit plin de atmosferă cu ruine vechi din Phitsanulok, unde structurile de piatră erodate oferă o privire în trecut.",
+                  "category": "historical",
+                  "coords": [
+                        100.259453,
+                        16.827845
+                  ]
+            },
+            {
+                  "name": "Wat Phra Si Rattana Mahathat",
+                  "text": "O atracție majoră în Phitsanulok, renumită pentru adăpostirea veneratei statui a lui Buddha de aur Phra Phuttha Chinnarat.",
+                  "category": "landmark",
+                  "coords": [
+                        100.261858,
+                        16.823574
+                  ]
+            },
+            {
+                  "name": "Buddha",
+                  "text": "O statuie monumentală proeminentă a lui Buddha care veghează asupra peisajului urban din Phitsanulok.",
+                  "category": "historical",
+                  "coords": [
+                        100.262821,
+                        16.823722
+                  ]
+            },
+            {
+                  "name": "Pond with giant waterlilies",
+                  "text": "Un iaz pitoresc din Phitsanulok, cu nuferi uriași plutitori care pot susține o greutate remarcabilă.",
+                  "category": "landmark",
+                  "coords": [
+                        100.231162,
+                        16.820166
+                  ]
+            },
+            {
+                  "name": "Chan Palace",
+                  "text": "Un sit arheologic care marchează fosta reședință regală a regelui Naresuan cel Mare din Phitsanulok.",
+                  "category": "historical",
+                  "coords": [
+                        100.261557,
+                        16.830306
+                  ]
+            },
+            {
+                  "name": "Chan Royal Palace Historical Centre",
+                  "text": "Un muzeu istoric din Phitsanulok care detaliază moștenirea curții regale din epoca Ayutthaya la Palatul Chan.",
+                  "category": "museum",
+                  "coords": [
+                        100.261771,
+                        16.8286
+                  ]
+            },
+            {
+                  "name": "Wat Aranyik",
+                  "text": "Rămășițele arheologice ale Wat Aranyik, un vechi complex de temple forestiere situat în apropierea centrului urban din Phitsanulok.",
+                  "category": "historical",
+                  "coords": [
+                        100.277987,
+                        16.826266
+                  ]
+            },
+            {
+                  "name": "Wat Nang Phaya",
+                  "text": "Un renumit lăcaș de cult din Phitsanulok, faimos în special pentru amuletele sale sacre Nang Phaya.",
+                  "category": "religious",
+                  "coords": [
+                        100.261929,
+                        16.8224
+                  ]
+            },
+            {
+                  "name": "Old Train",
+                  "text": "O locomotivă cu abur de epocă expusă ca atracție nostalgică în Phitsanulok.",
+                  "category": "landmark",
+                  "coords": [
+                        100.265124,
+                        16.815014
+                  ]
+            },
+            {
+                  "name": "Wat Ku Ha Sawan",
+                  "text": "Un templu budist senin din Phitsanulok care oferă un spațiu liniștit pentru meditație și adunări comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        100.254837,
+                        16.827528
+                  ]
+            },
+            {
+                  "name": "Phitsanulok City Pillar Shrine",
+                  "text": "Altarul central al stâlpului orașului Phitsanulok, care reprezintă inima spirituală și zeitatea protectoare a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        100.259803,
+                        16.824354
+                  ]
+            },
+            {
+                  "name": "Wat Tha Maprang",
+                  "text": "Un templu budist distinctiv din Phitsanulok, cunoscut pentru arhitectura sa regională ornamentată și pentru semnificația sa religioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        100.258462,
+                        16.810616
+                  ]
+            },
+            {
+                  "name": "Wat Yang",
+                  "text": "Un lăcaș de cult local din Phitsanulok care deservește nevoile spirituale ale cartierului înconjurător.",
+                  "category": "religious",
+                  "coords": [
+                        100.251351,
+                        16.834568
+                  ]
+            },
+            {
+                  "name": "Masjid Pakistan",
+                  "text": "O moschee proeminentă din Phitsanulok care deservește comunitatea locală pakistaneză și cea musulmană mai largă.",
+                  "category": "landmark",
+                  "coords": [
+                        100.266339,
+                        16.820606
+                  ]
+            },
+            {
+                  "name": "Kristkunanugul Church",
+                  "text": "O biserică creștină locală care oferă un spațiu de închinare și părtășie în orașul Phitsanulok.",
+                  "category": "landmark",
+                  "coords": [
+                        100.267163,
+                        16.82395
+                  ]
+            },
+            {
+                  "name": "market",
+                  "text": "O piață tradițională plină de viață din Phitsanulok, unde vânzătorii vând o gamă largă de produse proaspete și mâncare stradală locală.",
+                  "category": "cultural",
+                  "coords": [
+                        100.263957,
+                        16.822758
+                  ]
+            },
+            {
+                  "name": "Phitsanulok Railway Station Night Market",
+                  "text": "O piață de seară vibrantă situată chiar lângă gara din Phitsanulok, renumită pentru diversele sale tarabe cu mâncare.",
+                  "category": "cultural",
+                  "coords": [
+                        100.264972,
+                        16.814099
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wat Wihan Thong",
+                  "text": "Historic temple ruins scattered throughout Phitsanulok, preserving the city's ancient architectural heritage.",
+                  "category": "historical",
+                  "coords": [
+                        100.260975,
+                        16.82765
+                  ]
+            },
+            {
+                  "name": "Wat Pho Thong",
+                  "text": "An atmospheric site of old ruins in Phitsanulok, where weathered stone structures offer a glimpse into the past.",
+                  "category": "historical",
+                  "coords": [
+                        100.259453,
+                        16.827845
+                  ]
+            },
+            {
+                  "name": "Wat Phra Si Rattana Mahathat",
+                  "text": "A major attraction in Phitsanulok, renowned for housing the highly venerated Phra Phuttha Chinnarat golden Buddha image.",
+                  "category": "landmark",
+                  "coords": [
+                        100.261858,
+                        16.823574
+                  ]
+            },
+            {
+                  "name": "Buddha",
+                  "text": "A prominent monumental Buddha statue watching over the urban landscape of Phitsanulok.",
+                  "category": "historical",
+                  "coords": [
+                        100.262821,
+                        16.823722
+                  ]
+            },
+            {
+                  "name": "Pond with giant waterlilies",
+                  "text": "A serene pond attraction in Phitsanulok featuring enormous floating waterlilies that support remarkable weight.",
+                  "category": "landmark",
+                  "coords": [
+                        100.231162,
+                        16.820166
+                  ]
+            },
+            {
+                  "name": "Chan Palace",
+                  "text": "An archaeological site marking the former royal residence of King Naresuan the Great in Phitsanulok.",
+                  "category": "historical",
+                  "coords": [
+                        100.261557,
+                        16.830306
+                  ]
+            },
+            {
+                  "name": "Chan Royal Palace Historical Centre",
+                  "text": "A historical museum in Phitsanulok detailing the legacy of the Ayutthaya-era royal court at Chan Palace.",
+                  "category": "museum",
+                  "coords": [
+                        100.261771,
+                        16.8286
+                  ]
+            },
+            {
+                  "name": "Wat Aranyik",
+                  "text": "The archaeological remains of Wat Aranyik, an ancient forest temple complex located near the urban center of Phitsanulok.",
+                  "category": "historical",
+                  "coords": [
+                        100.277987,
+                        16.826266
+                  ]
+            },
+            {
+                  "name": "Wat Nang Phaya",
+                  "text": "A renowned place of worship in Phitsanulok, particularly famous for its sacred Nang Phaya amulets.",
+                  "category": "religious",
+                  "coords": [
+                        100.261929,
+                        16.8224
+                  ]
+            },
+            {
+                  "name": "Old Train",
+                  "text": "A vintage steam locomotive displayed as a nostalgic attraction in Phitsanulok.",
+                  "category": "landmark",
+                  "coords": [
+                        100.265124,
+                        16.815014
+                  ]
+            },
+            {
+                  "name": "Wat Ku Ha Sawan",
+                  "text": "A serene Buddhist temple in Phitsanulok providing a quiet space for meditation and community gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        100.254837,
+                        16.827528
+                  ]
+            },
+            {
+                  "name": "Phitsanulok City Pillar Shrine",
+                  "text": "The central City Pillar Shrine of Phitsanulok, representing the spiritual heart and protective deity of the town.",
+                  "category": "landmark",
+                  "coords": [
+                        100.259803,
+                        16.824354
+                  ]
+            },
+            {
+                  "name": "Wat Tha Maprang",
+                  "text": "A distinctive Buddhist temple in Phitsanulok known for its ornate regional architecture and religious significance.",
+                  "category": "landmark",
+                  "coords": [
+                        100.258462,
+                        16.810616
+                  ]
+            },
+            {
+                  "name": "Wat Yang",
+                  "text": "A local place of worship in Phitsanulok serving the spiritual needs of the surrounding neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        100.251351,
+                        16.834568
+                  ]
+            },
+            {
+                  "name": "Masjid Pakistan",
+                  "text": "A prominent mosque in Phitsanulok serving the local Pakistani and broader Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        100.266339,
+                        16.820606
+                  ]
+            },
+            {
+                  "name": "Kristkunanugul Church",
+                  "text": "A local Christian church offering a space of worship and fellowship in the city of Phitsanulok.",
+                  "category": "landmark",
+                  "coords": [
+                        100.267163,
+                        16.82395
+                  ]
+            },
+            {
+                  "name": "market",
+                  "text": "A bustling traditional market in Phitsanulok where vendors sell an array of fresh produce and local street food.",
+                  "category": "cultural",
+                  "coords": [
+                        100.263957,
+                        16.822758
+                  ]
+            },
+            {
+                  "name": "Phitsanulok Railway Station Night Market",
+                  "text": "A vibrant evening marketplace located right by the Phitsanulok Railway Station, famous for its diverse food stalls.",
+                  "category": "cultural",
+                  "coords": [
+                        100.264972,
+                        16.814099
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TH-65",
     coords: [100.259, 16.822],
@@ -6974,7 +11249,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
       "de": [
             {
                   "name": "JEATH War Museum",
-                  "text": "Das JEATH War Museum ist ein bedeutendes Museum in Kanchanaburi.",
+                  "text": "Das JEATH-Kriegsmuseum zeigt in nachgebauten Kriegsgefangenenhütten Artefakte aus der Zeit der Burma-Eisenbahn.",
                   "category": "museum",
                   "coords": [
                         99.5306,
@@ -6983,7 +11258,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Death Railway Museum and Research Centre",
-                  "text": "Das Death Railway Museum and Research Centre ist ein bekanntes Museum in Kanchanaburi.",
+                  "text": "Das Death Railway Museum and Research Centre ist ein modernes Museum mit interaktiven Ausstellungen zur Geschichte der Todesbahn.",
                   "category": "museum",
                   "coords": [
                         99.524785,
@@ -6992,7 +11267,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Thai Paper Mill",
-                  "text": "Thai Paper Mill ist ein Museum in Kanchanaburi.",
+                  "text": "Ehemalige Papierfabrik, heute Museum über die Papierherstellung in Kanchanaburi.",
                   "category": "museum",
                   "coords": [
                         99.532027,
@@ -7001,7 +11276,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Lokomotive",
-                  "text": "Lokomotive ist eine Attraktion in Kanchanaburi.",
+                  "text": "Historische Lokomotive als Denkmal in Kanchanaburi.",
                   "category": "landmark",
                   "coords": [
                         99.524895,
@@ -7010,7 +11285,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Khao Krachai Viewpoint",
-                  "text": "Khao Krachai Viewpoint ist ein Aussichtspunkt in Kanchanaburi.",
+                  "text": "Aussichtspunkt auf dem Khao Krachai-Hügel mit Blick über die Umgebung.",
                   "category": "natural",
                   "coords": [
                         99.545836,
@@ -7019,7 +11294,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "West Wonder waterpark",
-                  "text": "Der West wonder waterpark ist eine Attraktion in Kanchanaburi.",
+                  "text": "Wasserpark mit Rutschen und Becken in Kanchanaburi.",
                   "category": "landmark",
                   "coords": [
                         99.515779,
@@ -7028,7 +11303,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Wat Chaichumphon Chanasongkhram",
-                  "text": "Wat Chaichumphon Chanasongkhram ist eine bekannte Kultstätte in Kanchanaburi.",
+                  "text": "Wat Chaichumphon Chanasongkhram ist ein buddhistischer Tempel mit einem großen weißen Chedi am Flussufer in Kanchanaburi.",
                   "category": "religious",
                   "coords": [
                         99.531503,
@@ -7039,7 +11314,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "JEATH War Museum",
-                  "text": "A JEATH War Museum egy jelentős múzeum Kanchanaburi városában.",
+                  "text": "A JEATH Háborús Múzeum újjáépített hadifogolylaktanyákban mutat be tárgyakat a burmai vasút idejéből.",
                   "category": "museum",
                   "coords": [
                         99.5306,
@@ -7048,7 +11323,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Death Railway Museum and Research Centre",
-                  "text": "A Death Railway Museum and Research Centre egy ismert múzeum Kanchanaburiban.",
+                  "text": "A Death Railway Museum and Research Centre egy modern múzeum interaktív kiállításokkal a Halálvasút történetéről.",
                   "category": "museum",
                   "coords": [
                         99.524785,
@@ -7057,7 +11332,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Thai Paper Mill",
-                  "text": "A Thai Paper Mill egy múzeum Kanchanaburiban.",
+                  "text": "Egykori papírgyár, ma múzeum a kanchanaburi papírgyártás történetéről.",
                   "category": "museum",
                   "coords": [
                         99.532027,
@@ -7066,7 +11341,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Lokomotive",
-                  "text": "A Lokomotive egy látványosság Kanchanaburi városában.",
+                  "text": "Történelmi mozdony emlékműve Kanchanaburiban.",
                   "category": "landmark",
                   "coords": [
                         99.524895,
@@ -7075,7 +11350,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Khao Krachai Viewpoint",
-                  "text": "A Khao Krachai Viewpoint egy kilátó Kanchanaburiban.",
+                  "text": "Kilátó a Khao Krachai dombon, panorámával a környékre.",
                   "category": "natural",
                   "coords": [
                         99.545836,
@@ -7084,7 +11359,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "West Wonder waterpark",
-                  "text": "A West wonder waterpark egy látványosság Kanchanaburiban.",
+                  "text": "Vidámparki vízipark csúszdákkal és medencékkel Kanchanaburiban.",
                   "category": "landmark",
                   "coords": [
                         99.515779,
@@ -7093,7 +11368,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Wat Chaichumphon Chanasongkhram",
-                  "text": "A Wat Chaichumphon Chanasongkhram egy ismert istentiszteleti hely Kanchanaburiban.",
+                  "text": "A Wat Chaichumphon Chanasongkhram egy buddhista templom nagy fehér chedivel a folyóparton, Kanchanaburiban.",
                   "category": "religious",
                   "coords": [
                         99.531503,
@@ -7104,7 +11379,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "JEATH War Museum",
-                  "text": "JEATH War Museum este un muzeu important situat în Kanchanaburi.",
+                  "text": "Muzeul de Război JEATH prezintă artefacte din perioada căii ferate Burma în barăci recreate ale prizonierilor de război.",
                   "category": "museum",
                   "coords": [
                         99.5306,
@@ -7113,7 +11388,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Death Railway Museum and Research Centre",
-                  "text": "Death Railway Museum and Research Centre este un muzeu cunoscut situat în Kanchanaburi.",
+                  "text": "Muzeul și Centrul de Cercetare al Căii Ferate a Morții este un muzeu modern cu expoziții interactive despre istoria căii ferate.",
                   "category": "museum",
                   "coords": [
                         99.524785,
@@ -7122,7 +11397,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Thai Paper Mill",
-                  "text": "Thai Paper Mill este un muzeu situat în Kanchanaburi.",
+                  "text": "Fostă fabrică de hârtie, acum muzeu despre producția de hârtie în Kanchanaburi.",
                   "category": "museum",
                   "coords": [
                         99.532027,
@@ -7131,7 +11406,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Lokomotive",
-                  "text": "Lokomotive este o atracție situată în Kanchanaburi.",
+                  "text": "Locomotivă istorică ca monument în Kanchanaburi.",
                   "category": "landmark",
                   "coords": [
                         99.524895,
@@ -7140,7 +11415,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Khao Krachai Viewpoint",
-                  "text": "Khao Krachai Viewpoint este un punct de belvedere situat în Kanchanaburi.",
+                  "text": "Punct de belvedere pe dealul Khao Krachai, cu vedere asupra zonei.",
                   "category": "natural",
                   "coords": [
                         99.545836,
@@ -7149,7 +11424,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "West Wonder waterpark",
-                  "text": "West wonder waterpark este o atracție situată în Kanchanaburi.",
+                  "text": "Parac apă cu tobogane și bazine în Kanchanaburi.",
                   "category": "landmark",
                   "coords": [
                         99.515779,
@@ -7158,7 +11433,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Wat Chaichumphon Chanasongkhram",
-                  "text": "Wat Chaichumphon Chanasongkhram este un lăcaș de cult cunoscut situat în Kanchanaburi.",
+                  "text": "Wat Chaichumphon Chanasongkhram este un templu budist cu un mare chedi alb pe malul râului în Kanchanaburi.",
                   "category": "religious",
                   "coords": [
                         99.531503,
@@ -7169,7 +11444,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
       "en": [
             {
                   "name": "The JEATH War Museum",
-                  "text": "The JEATH War Museum is a notable museum located in Kanchanaburi.",
+                  "text": "The JEATH War Museum displays artifacts from the Burma Railway era in replica prisoner-of-war huts.",
                   "category": "museum",
                   "coords": [
                         99.5306,
@@ -7178,7 +11453,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Death Railway Museum and Research Centre",
-                  "text": "The Death Railway Museum and Research Centre is a notable museum located in Kanchanaburi.",
+                  "text": "The Death Railway Museum and Research Centre is a modern museum with interactive exhibits on the history of the Death Railway.",
                   "category": "museum",
                   "coords": [
                         99.524785,
@@ -7187,7 +11462,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Thai Paper Mill",
-                  "text": "Thai Paper Mill is a museum located in Kanchanaburi.",
+                  "text": "A former paper mill now a museum on papermaking in Kanchanaburi.",
                   "category": "museum",
                   "coords": [
                         99.532027,
@@ -7196,7 +11471,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Lokomotive",
-                  "text": "Lokomotive is an attraction located in Kanchanaburi.",
+                  "text": "A historic locomotive landmark in Kanchanaburi.",
                   "category": "landmark",
                   "coords": [
                         99.524895,
@@ -7205,7 +11480,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Khao Krachai Viewpoint",
-                  "text": "Khao Krachai Viewpoint is a viewpoint located in Kanchanaburi.",
+                  "text": "A hilltop viewpoint on Khao Krachai offering panoramic views.",
                   "category": "natural",
                   "coords": [
                         99.545836,
@@ -7214,7 +11489,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "West wonder waterpark",
-                  "text": "West wonder waterpark is an attraction located in Kanchanaburi.",
+                  "text": "A waterpark with slides and pools in Kanchanaburi.",
                   "category": "landmark",
                   "coords": [
                         99.515779,
@@ -7223,7 +11498,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Wat Chaichumphon Chanasongkhram",
-                  "text": "Wat Chaichumphon Chanasongkhram is a notable place of worship located in Kanchanaburi.",
+                  "text": "Wat Chaichumphon Chanasongkhram is a Buddhist temple with a large white chedi on the riverbank in Kanchanaburi.",
                   "category": "religious",
                   "coords": [
                         99.531503,
@@ -7318,7 +11593,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Chaloem Thong Songkhla Theater",
-                  "text": "Ein historisches Theatergebäude in Songkhla.",
+                  "text": "Theater in Songkhla mit Aufführungen lokaler Kunst.",
                   "category": "cultural",
                   "coords": [
                         100.593388,
@@ -7401,7 +11676,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Chaloem Thong Songkhla Theater",
-                  "text": "Történelmi színházépület Songkhlában.",
+                  "text": "Színház Songkhla városában, helyi előadásokkal.",
                   "category": "cultural",
                   "coords": [
                         100.593388,
@@ -7484,7 +11759,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Chaloem Thong Songkhla Theater",
-                  "text": "O clădire istorică de teatru din Songkhla.",
+                  "text": "Teatru în Songkhla cu spectacole de artă locală.",
                   "category": "cultural",
                   "coords": [
                         100.593388,
@@ -7567,7 +11842,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Chaloem Thong Songkhla Theater",
-                  "text": "A historic theatre building located in Songkhla.",
+                  "text": "A theater in Songkhla hosting local performances.",
                   "category": "cultural",
                   "coords": [
                         100.593388,
@@ -7750,7 +12025,376 @@ export const poiExtraThailandCitiesV2: POI[] = [
       fr: ["Chonburi est la capitale de la province de Chonburi et un centre du plan de développement de la côte Est.", "Situé sur le territoire du royaume de Thaïlande.", "Caractérisé par le climat de mousson de l'Asie du Sud-Est.", "Lié à l'héritage de Sukhothai et d'Ayutthaya."],
     }, image: "/poi-images/chonburi-cities-v2.webp"},
   {
-    id: "trang-cities-v2",
+    id: "trang-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dugong Circle",
+                  "text": "Ein bekannter lokaler Kreisverkehr mit Statuen des Dugongs, einem geschützten Meeressäuger, der das Küstenerbe von Trang symbolisiert.",
+                  "category": "landmark",
+                  "coords": [
+                        99.611926,
+                        7.560102
+                  ]
+            },
+            {
+                  "name": "Trang Church",
+                  "text": "Diese historische christliche Kirche ist ein architektonisches Wahrzeichen der Stadt und leicht an ihrer markanten gelben Fassade zu erkennen.",
+                  "category": "religious",
+                  "coords": [
+                        99.60486,
+                        7.559329
+                  ]
+            },
+            {
+                  "name": "3/2 Gallery",
+                  "text": "Ein Raum für zeitgenössische Kunst in Trang, der vielfältige kreative Werke von lokalen südthailändischen Künstlern ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        99.622483,
+                        7.565744
+                  ]
+            },
+            {
+                  "name": "Trang Clock Tower",
+                  "text": "Wunderschön nachts beleuchtet, dient diese hoch aufragende zentrale Uhr als markanter Treffpunkt und Symbol der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        99.609891,
+                        7.556765
+                  ]
+            },
+            {
+                  "name": "Tha Kong Yea Shrine",
+                  "text": "Ein traditioneller chinesischer spiritueller Schrein im Herzen von Trang, der mit kunstvollen Drachenmotiven und leuchtend roten Laternen geschmückt ist.",
+                  "category": "religious",
+                  "coords": [
+                        99.615517,
+                        7.566219
+                  ]
+            },
+            {
+                  "name": "Wat Kut",
+                  "text": "Dieser ruhige buddhistische Tempelkomplex bietet einen friedlichen Rückzugsort von der umliegenden städtischen Umgebung von Trang.",
+                  "category": "religious",
+                  "coords": [
+                        99.609756,
+                        7.570794
+                  ]
+            },
+            {
+                  "name": "Chao Pho Men Ram Shrine",
+                  "text": "Ein atmosphärischer lokaler Schrein, zu dem die Bewohner von Trang kommen, um Weihrauch zu verbrennen und Opfergaben für Glück darzubringen.",
+                  "category": "religious",
+                  "coords": [
+                        99.611845,
+                        7.55377
+                  ]
+            },
+            {
+                  "name": "Pao Kong Shrine",
+                  "text": "Ein verehrter chinesischer Schrein, der dem legendären Richter Bao gewidmet ist und sich durch seine leuchtend roten Säulen und die von Weihrauch erfüllte Luft auszeichnet.",
+                  "category": "religious",
+                  "coords": [
+                        99.601643,
+                        7.555949
+                  ]
+            },
+            {
+                  "name": "Nightmarket",
+                  "text": "Ein lebhafter abendlicher Basar in Trang, der für seine große Auswahl an südthailändischem Streetfood berühmt ist, einschließlich des für die Region typischen Schweinebratens.",
+                  "category": "cultural",
+                  "coords": [
+                        99.604732,
+                        7.554936
+                  ]
+            },
+            {
+                  "name": "Cinta Garden",
+                  "text": "Dieser trendige Open-Air-Nachtmarkt bietet eine entspannte Gartenatmosphäre mit stilvollen Essensständen, lokalem Kunsthandwerk und Live-Musik.",
+                  "category": "cultural",
+                  "coords": [
+                        99.619548,
+                        7.557981
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dugong Circle",
+                  "text": "Jól ismert helyi körforgalom a dugong, egy védett tengeri emlős szobraival, amely Trang tengerparti örökségét szimbolizálja.",
+                  "category": "landmark",
+                  "coords": [
+                        99.611926,
+                        7.560102
+                  ]
+            },
+            {
+                  "name": "Trang Church",
+                  "text": "Ez a történelmi keresztény templom a város egyik építészeti nevezetessége, amely jellegzetes sárga homlokzatáról könnyen felismerhető.",
+                  "category": "religious",
+                  "coords": [
+                        99.60486,
+                        7.559329
+                  ]
+            },
+            {
+                  "name": "3/2 Gallery",
+                  "text": "Kortárs művészeti tér Trangban, amely helyi dél-thai művészek különféle kreatív alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        99.622483,
+                        7.565744
+                  ]
+            },
+            {
+                  "name": "Trang Clock Tower",
+                  "text": "Az éjszaka gyönyörűen kivilágított toronyóra a város kiemelkedő találkozóhelyeként és szimbólumaként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        99.609891,
+                        7.556765
+                  ]
+            },
+            {
+                  "name": "Tha Kong Yea Shrine",
+                  "text": "Hagyományos kínai spirituális szentély bonyolult sárkánymotívumokkal és izzó vörös lámpásokkal díszítve Trang szívében.",
+                  "category": "religious",
+                  "coords": [
+                        99.615517,
+                        7.566219
+                  ]
+            },
+            {
+                  "name": "Wat Kut",
+                  "text": "Ez a nyugodt buddhista templomkomplexum békés menedéket nyújt Trang nyüzsgő városi környezetétől.",
+                  "category": "religious",
+                  "coords": [
+                        99.609756,
+                        7.570794
+                  ]
+            },
+            {
+                  "name": "Chao Pho Men Ram Shrine",
+                  "text": "Hangulatos helyi szentély, ahová Trang lakói jönnek füstölőt égetni és felajánlásokat tenni a jó szerencséért.",
+                  "category": "religious",
+                  "coords": [
+                        99.611845,
+                        7.55377
+                  ]
+            },
+            {
+                  "name": "Pao Kong Shrine",
+                  "text": "A legendás Bao bírónak szentelt, tisztelt kínai szentély, amelyet élénkpiros oszlopai és füstölővel teli levegője jellemez.",
+                  "category": "religious",
+                  "coords": [
+                        99.601643,
+                        7.555949
+                  ]
+            },
+            {
+                  "name": "Nightmarket",
+                  "text": "Élénk esti bazár Trangban, amely a dél-thai utcai ételek széles választékáról, köztük a régió jellegzetes sült sertéshúsáról híres.",
+                  "category": "cultural",
+                  "coords": [
+                        99.604732,
+                        7.554936
+                  ]
+            },
+            {
+                  "name": "Cinta Garden",
+                  "text": "Ez a divatos, szabadtéri éjszakai piac nyugodt kerti környezetben, elegáns ételstandokkal, helyi kézműves termékekkel és élőzenével várja a látogatókat.",
+                  "category": "cultural",
+                  "coords": [
+                        99.619548,
+                        7.557981
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dugong Circle",
+                  "text": "Un sens giratoriu local bine-cunoscut, care prezintă statui ale dugongului, un mamifer marin protejat ce simbolizează moștenirea de coastă a orașului Trang.",
+                  "category": "landmark",
+                  "coords": [
+                        99.611926,
+                        7.560102
+                  ]
+            },
+            {
+                  "name": "Trang Church",
+                  "text": "Această biserică creștină istorică este un reper arhitectural al orașului, ușor de recunoscut după fațada sa galbenă distinctivă.",
+                  "category": "religious",
+                  "coords": [
+                        99.60486,
+                        7.559329
+                  ]
+            },
+            {
+                  "name": "3/2 Gallery",
+                  "text": "Un spațiu de artă contemporană din Trang care expune diverse lucrări creative ale artiștilor locali din sudul Thailandei.",
+                  "category": "museum",
+                  "coords": [
+                        99.622483,
+                        7.565744
+                  ]
+            },
+            {
+                  "name": "Trang Clock Tower",
+                  "text": "Frumos iluminat pe timp de noapte, acest ceas central impunător servește ca un punct de întâlnire proeminent și un simbol al orașului.",
+                  "category": "historical",
+                  "coords": [
+                        99.609891,
+                        7.556765
+                  ]
+            },
+            {
+                  "name": "Tha Kong Yea Shrine",
+                  "text": "Un altar spiritual chinezesc tradițional, decorat cu motive complicate cu dragoni și felinare roșii strălucitoare în inima orașului Trang.",
+                  "category": "religious",
+                  "coords": [
+                        99.615517,
+                        7.566219
+                  ]
+            },
+            {
+                  "name": "Wat Kut",
+                  "text": "Acest complex senin de temple budiste oferă un refugiu pașnic din mediul urban înconjurător din Trang.",
+                  "category": "religious",
+                  "coords": [
+                        99.609756,
+                        7.570794
+                  ]
+            },
+            {
+                  "name": "Chao Pho Men Ram Shrine",
+                  "text": "Un altar local plin de atmosferă, unde locuitorii din Trang vin să ardă tămâie și să aducă ofrande pentru noroc.",
+                  "category": "religious",
+                  "coords": [
+                        99.611845,
+                        7.55377
+                  ]
+            },
+            {
+                  "name": "Pao Kong Shrine",
+                  "text": "Un altar chinezesc venerat, dedicat legendarului Judecător Bao, caracterizat prin stâlpii săi roșii vibranți și aerul plin de tămâie.",
+                  "category": "religious",
+                  "coords": [
+                        99.601643,
+                        7.555949
+                  ]
+            },
+            {
+                  "name": "Nightmarket",
+                  "text": "Un bazar de seară plin de viață în Trang, faimos pentru marea sa varietate de mâncare stradală din sudul Thailandei, inclusiv friptura de porc specifică regiunii.",
+                  "category": "cultural",
+                  "coords": [
+                        99.604732,
+                        7.554936
+                  ]
+            },
+            {
+                  "name": "Cinta Garden",
+                  "text": "Această piață de noapte la modă, în aer liber, are un cadru relaxat de grădină, cu tarabe elegante cu mâncare, meșteșuguri locale și muzică live.",
+                  "category": "cultural",
+                  "coords": [
+                        99.619548,
+                        7.557981
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dugong Circle",
+                  "text": "A well-known local roundabout featuring statues of the dugong, a protected marine mammal symbolizing Trang's coastal heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        99.611926,
+                        7.560102
+                  ]
+            },
+            {
+                  "name": "Trang Church",
+                  "text": "This historic Christian church is an architectural landmark in the city, easily recognized by its distinctive yellow facade.",
+                  "category": "religious",
+                  "coords": [
+                        99.60486,
+                        7.559329
+                  ]
+            },
+            {
+                  "name": "3/2 Gallery",
+                  "text": "A contemporary art space in Trang that exhibits diverse creative works from local southern Thai artists.",
+                  "category": "museum",
+                  "coords": [
+                        99.622483,
+                        7.565744
+                  ]
+            },
+            {
+                  "name": "Trang Clock Tower",
+                  "text": "Beautifully illuminated at night, this towering central clock serves as a prominent meeting point and symbol of the city.",
+                  "category": "historical",
+                  "coords": [
+                        99.609891,
+                        7.556765
+                  ]
+            },
+            {
+                  "name": "Tha Kong Yea Shrine",
+                  "text": "A traditional Chinese spiritual shrine decorated with intricate dragon motifs and glowing red lanterns in the heart of Trang.",
+                  "category": "religious",
+                  "coords": [
+                        99.615517,
+                        7.566219
+                  ]
+            },
+            {
+                  "name": "Wat Kut",
+                  "text": "This serene Buddhist temple complex provides a peaceful retreat from the surrounding urban environment of Trang.",
+                  "category": "religious",
+                  "coords": [
+                        99.609756,
+                        7.570794
+                  ]
+            },
+            {
+                  "name": "Chao Pho Men Ram Shrine",
+                  "text": "An atmospheric local shrine where residents of Trang come to burn incense and make offerings for good fortune.",
+                  "category": "religious",
+                  "coords": [
+                        99.611845,
+                        7.55377
+                  ]
+            },
+            {
+                  "name": "Pao Kong Shrine",
+                  "text": "A venerated Chinese shrine dedicated to the legendary Justice Bao, characterized by its vibrant red pillars and incense-filled air.",
+                  "category": "religious",
+                  "coords": [
+                        99.601643,
+                        7.555949
+                  ]
+            },
+            {
+                  "name": "Nightmarket",
+                  "text": "A lively evening bazaar in Trang famous for its wide variety of southern Thai street food, including the region's signature roast pork.",
+                  "category": "cultural",
+                  "coords": [
+                        99.604732,
+                        7.554936
+                  ]
+            },
+            {
+                  "name": "Cinta Garden",
+                  "text": "This trendy, open-air night market features a relaxed garden setting with stylish food stalls, local crafts, and live music.",
+                  "category": "cultural",
+                  "coords": [
+                        99.619548,
+                        7.557981
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TH-92",
     coords: [99.612, 7.558],
@@ -7797,7 +12441,412 @@ export const poiExtraThailandCitiesV2: POI[] = [
       fr: ["Célèbre pour son porc rôti et ses gâteaux.", "Porte d'entrée vers de nombreuses îles vierges.", "Possède une charmante gare de style colonial."],
     }, image: "/poi-images/trang-cities-v2.webp"},
   {
-    id: "lampang-cities-v2", "sights": {"de": [{"name": "Baan Sao Nak", "text": "Ein historisches Teakholzhaus in Lampang, das heute als Privatmuseum dient.", "category": "museum", "coords": [99.508035, 18.294137]}, {"name": "Thanabadee Ceramic Museum", "text": "Ein Museum in Lampang, das die Geschichte der berühmten Keramikproduktion der Stadt zeigt.", "category": "museum", "coords": [99.51282, 18.280356]}, {"name": "Ho Pum Lakon Museum", "text": "Ein lokales Museum in Lampang, das sich mit der Stadtgeschichte befasst.", "category": "museum", "coords": [99.489788, 18.288679]}, {"name": "Lampang Museum", "text": "Das städtische Museum von Lampang, das kulturelle Exponate der Region präsentiert.", "category": "museum", "coords": [99.503304, 18.29017]}, {"name": "Thai Banking Museum Lampang", "text": "Ein Museum in Lampang, das die Geschichte des Bankwesens in Thailand dokumentiert.", "category": "museum", "coords": [99.484661, 18.284856]}, {"name": "Lanna Museum", "text": "Ein Museum in Lampang, das sich der Kunst und Kultur des Lanna-Reiches widmet.", "category": "museum", "coords": [99.509602, 18.300975]}, {"name": "Clock Tower Intersection", "text": "Ein markanter Uhrturm im Zentrum von Lampang.", "category": "historical", "coords": [99.490904, 18.288876]}, {"name": "MoungNgwazin Building", "text": "Ein historisches Gebäude in Lampang mit kolonialem Architekturstil.", "category": "historical", "coords": [99.498226, 18.290974]}, {"name": "Lampang Arts Center", "text": "Das Lampang Arts Center ist ein kulturelles Herzstück in der thailändischen Stadt Lampang. Dieses Zentrum vereint zeitgenössische Kunstausstellungen mit vielfältigen kulturellen Aktivitäten für seine Besucher.", "category": "cultural", "coords": [99.496485, 18.290762]}, {"name": "Wat Si Rong Mueang", "text": "Ein Tempel in Lampang, der für seine feinen Schnitzereien im birmanischen Stil bekannt ist.", "category": "religious", "coords": [99.48081, 18.290422]}, {"name": "Wat Pong Sanuk Tai", "text": "Ein ausgezeichneter Tempel in Lampang, der für die Erhaltung seines historischen Erbes bekannt ist.", "category": "landmark", "coords": [99.496993, 18.294678]}], "hu": [{"name": "Baan Sao Nak", "text": "Történelmi tikfa ház Lampangban, amely ma magánmúzeumként működik.", "category": "museum", "coords": [99.508035, 18.294137]}, {"name": "Thanabadee Ceramic Museum", "text": "Múzeum Lampangban, amely a város híres kerámiagyártásának történetét mutatja be.", "category": "museum", "coords": [99.51282, 18.280356]}, {"name": "Ho Pum Lakon Museum", "text": "Helyi múzeum Lampangban, amely a város történelmével foglalkozik.", "category": "museum", "coords": [99.489788, 18.288679]}, {"name": "Lampang Museum", "text": "Lampang városi múzeuma, amely a régió kulturális emlékeit mutatja be.", "category": "museum", "coords": [99.503304, 18.29017]}, {"name": "Thai Banking Museum Lampang", "text": "Múzeum Lampangban, amely a thaiföldi bankrendszer történetét dokumentálja.", "category": "museum", "coords": [99.484661, 18.284856]}, {"name": "Lanna Museum", "text": "Múzeum Lampangban, amely a Lanna királyság művészetének és kultúrájának szentelt.", "category": "museum", "coords": [99.509602, 18.300975]}, {"name": "Clock Tower Intersection", "text": "Jellegzetes óratorony Lampang központjában.", "category": "historical", "coords": [99.490904, 18.288876]}, {"name": "MoungNgwazin Building", "text": "Történelmi épület Lampangban gyarmati építészeti stílusban.", "category": "historical", "coords": [99.498226, 18.290974]}, {"name": "Lampang Arts Center", "text": "A Lampang Arts Center a thaiföldi Lampang városának kulturális központja. Ez az intézmény kortárs művészeti kiállításokat és változatos kulturális tevékenységeket ötvöz a látogatók számára.", "category": "cultural", "coords": [99.496485, 18.290762]}, {"name": "Wat Si Rong Mueang", "text": "Lampangi templom, amely finom, burmai stílusú faragványairól ismert.", "category": "religious", "coords": [99.48081, 18.290422]}, {"name": "Wat Pong Sanuk Tai", "text": "Díjnyertes templom Lampangban, amely történelmi örökségének megőrzéséről ismert.", "category": "landmark", "coords": [99.496993, 18.294678]}], "ro": [{"name": "Baan Sao Nak", "text": "O casă istorică din lemn de tec din Lampang, care servește acum ca muzeu privat.", "category": "museum", "coords": [99.508035, 18.294137]}, {"name": "Thanabadee Ceramic Museum", "text": "Un muzeu din Lampang care prezintă istoria faimoasei producții de ceramică a orașului.", "category": "museum", "coords": [99.51282, 18.280356]}, {"name": "Ho Pum Lakon Museum", "text": "Un muzeu local din Lampang care se ocupă de istoria orașului.", "category": "museum", "coords": [99.489788, 18.288679]}, {"name": "Lampang Museum", "text": "Muzeul orașului Lampang, care prezintă exponate culturale din regiune.", "category": "museum", "coords": [99.503304, 18.29017]}, {"name": "Thai Banking Museum Lampang", "text": "Un muzeu din Lampang care documentează istoria sistemului bancar din Thailanda.", "category": "museum", "coords": [99.484661, 18.284856]}, {"name": "Lanna Museum", "text": "Un muzeu din Lampang dedicat artei și culturii regatului Lanna.", "category": "museum", "coords": [99.509602, 18.300975]}, {"name": "Clock Tower Intersection", "text": "Un turn cu ceas proeminent situat în centrul orașului Lampang.", "category": "historical", "coords": [99.490904, 18.288876]}, {"name": "MoungNgwazin Building", "text": "O clădire istorică din Lampang cu stil arhitectural colonial.", "category": "historical", "coords": [99.498226, 18.290974]}, {"name": "Lampang Arts Center", "text": "Lampang Arts Center este o instituție culturală deosebită din orașul thailandez Lampang. Acest centru îmbină expozițiile de artă contemporană cu diverse activități culturale captivante pentru public.", "category": "cultural", "coords": [99.496485, 18.290762]}, {"name": "Wat Si Rong Mueang", "text": "Un templu din Lampang cunoscut pentru sculpturile sale fine în stil birmanez.", "category": "religious", "coords": [99.48081, 18.290422]}, {"name": "Wat Pong Sanuk Tai", "text": "Un templu premiat din Lampang, cunoscut pentru conservarea patrimoniului său istoric.", "category": "landmark", "coords": [99.496993, 18.294678]}], "en": [{"name": "Baan Sao Nak", "text": "A historic teak house in Lampang that now serves as a private museum.", "category": "museum", "coords": [99.508035, 18.294137]}, {"name": "Dhanabadee Ceramic Museum", "text": "A museum in Lampang showcasing the history of the city's famous ceramic production.", "category": "museum", "coords": [99.51282, 18.280356]}, {"name": "Phum La Kon Museum", "text": "A local museum in Lampang focusing on the city's history.", "category": "museum", "coords": [99.489788, 18.288679]}, {"name": "Lampang Museum", "text": "Lampang's municipal museum presenting cultural exhibits from the region.", "category": "museum", "coords": [99.503304, 18.29017]}, {"name": "Thai Bank Museum", "text": "A museum in Lampang documenting the history of banking in Thailand.", "category": "museum", "coords": [99.484661, 18.284856]}, {"name": "Lanna Museum", "text": "A museum in Lampang dedicated to the art and culture of the Lanna kingdom.", "category": "museum", "coords": [99.509602, 18.300975]}, {"name": "Clock Tower", "text": "A prominent clock tower located in the center of Lampang.", "category": "historical", "coords": [99.490904, 18.288876]}, {"name": "MoungNgwazin Building", "text": "A historic building in Lampang featuring colonial architectural style.", "category": "historical", "coords": [99.498226, 18.290974]}, {"name": "Lampang Arts Center", "text": "The Lampang Arts Center is a vibrant cultural hub in the Thai city of Lampang. This center successfully combines contemporary art exhibitions with a variety of cultural activities for its visitors.", "category": "cultural", "coords": [99.496485, 18.290762]}, {"name": "Wat Si Rong Mueang", "text": "A temple in Lampang known for its fine Burmese-style carvings.", "category": "religious", "coords": [99.48081, 18.290422]}, {"name": "Wat Pong Sanuk", "text": "An award-winning temple in Lampang known for the preservation of its historical heritage.", "category": "landmark", "coords": [99.496993, 18.294678]}]},
+    id: "lampang-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Baan Sao Nak",
+                  "text": "Ein historisches Teakholzhaus in Lampang, das heute als Privatmuseum dient.",
+                  "category": "museum",
+                  "coords": [
+                        99.508035,
+                        18.294137
+                  ]
+            },
+            {
+                  "name": "Thanabadee Ceramic Museum",
+                  "text": "Ein Museum in Lampang, das die Geschichte der berühmten Keramikproduktion der Stadt zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        99.51282,
+                        18.280356
+                  ]
+            },
+            {
+                  "name": "Ho Pum Lakon Museum",
+                  "text": "Ein lokales Museum in Lampang, das sich mit der Stadtgeschichte befasst.",
+                  "category": "museum",
+                  "coords": [
+                        99.489788,
+                        18.288679
+                  ]
+            },
+            {
+                  "name": "Lampang Museum",
+                  "text": "Das städtische Museum von Lampang, das kulturelle Exponate der Region präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        99.503304,
+                        18.29017
+                  ]
+            },
+            {
+                  "name": "Thai Banking Museum Lampang",
+                  "text": "Ein Museum in Lampang, das die Geschichte des Bankwesens in Thailand dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        99.484661,
+                        18.284856
+                  ]
+            },
+            {
+                  "name": "Lanna Museum",
+                  "text": "Ein Museum in Lampang, das sich der Kunst und Kultur des Lanna-Reiches widmet.",
+                  "category": "museum",
+                  "coords": [
+                        99.509602,
+                        18.300975
+                  ]
+            },
+            {
+                  "name": "Clock Tower Intersection",
+                  "text": "Uhrturm auf dem Hauptplatz von Lampang, Wahrzeichen der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        99.490904,
+                        18.288876
+                  ]
+            },
+            {
+                  "name": "MoungNgwazin Building",
+                  "text": "Ein historisches Gebäude in Lampang mit kolonialem Architekturstil.",
+                  "category": "historical",
+                  "coords": [
+                        99.498226,
+                        18.290974
+                  ]
+            },
+            {
+                  "name": "Lampang Arts Center",
+                  "text": "Das Lampang Arts Center ist ein kulturelles Herzstück in der thailändischen Stadt Lampang. Dieses Zentrum vereint zeitgenössische Kunstausstellungen mit vielfältigen kulturellen Aktivitäten für seine Besucher.",
+                  "category": "cultural",
+                  "coords": [
+                        99.496485,
+                        18.290762
+                  ]
+            },
+            {
+                  "name": "Wat Si Rong Mueang",
+                  "text": "Ein Tempel in Lampang, der für seine feinen Schnitzereien im birmanischen Stil bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        99.48081,
+                        18.290422
+                  ]
+            },
+            {
+                  "name": "Wat Pong Sanuk Tai",
+                  "text": "Ein ausgezeichneter Tempel in Lampang, der für die Erhaltung seines historischen Erbes bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        99.496993,
+                        18.294678
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Baan Sao Nak",
+                  "text": "Történelmi tikfa ház Lampangban, amely ma magánmúzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        99.508035,
+                        18.294137
+                  ]
+            },
+            {
+                  "name": "Thanabadee Ceramic Museum",
+                  "text": "Múzeum Lampangban, amely a város híres kerámiagyártásának történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        99.51282,
+                        18.280356
+                  ]
+            },
+            {
+                  "name": "Ho Pum Lakon Museum",
+                  "text": "Helyi múzeum Lampangban, amely a város történelmével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        99.489788,
+                        18.288679
+                  ]
+            },
+            {
+                  "name": "Lampang Museum",
+                  "text": "Lampang városi múzeuma, amely a régió kulturális emlékeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        99.503304,
+                        18.29017
+                  ]
+            },
+            {
+                  "name": "Thai Banking Museum Lampang",
+                  "text": "Múzeum Lampangban, amely a thaiföldi bankrendszer történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        99.484661,
+                        18.284856
+                  ]
+            },
+            {
+                  "name": "Lanna Museum",
+                  "text": "Múzeum Lampangban, amely a Lanna királyság művészetének és kultúrájának szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        99.509602,
+                        18.300975
+                  ]
+            },
+            {
+                  "name": "Clock Tower Intersection",
+                  "text": "Óratorony Lampang főterén, a város jelképe.",
+                  "category": "historical",
+                  "coords": [
+                        99.490904,
+                        18.288876
+                  ]
+            },
+            {
+                  "name": "MoungNgwazin Building",
+                  "text": "Történelmi épület Lampangban gyarmati építészeti stílusban.",
+                  "category": "historical",
+                  "coords": [
+                        99.498226,
+                        18.290974
+                  ]
+            },
+            {
+                  "name": "Lampang Arts Center",
+                  "text": "A Lampang Arts Center a thaiföldi Lampang városának kulturális központja. Ez az intézmény kortárs művészeti kiállításokat és változatos kulturális tevékenységeket ötvöz a látogatók számára.",
+                  "category": "cultural",
+                  "coords": [
+                        99.496485,
+                        18.290762
+                  ]
+            },
+            {
+                  "name": "Wat Si Rong Mueang",
+                  "text": "Lampangi templom, amely finom, burmai stílusú faragványairól ismert.",
+                  "category": "religious",
+                  "coords": [
+                        99.48081,
+                        18.290422
+                  ]
+            },
+            {
+                  "name": "Wat Pong Sanuk Tai",
+                  "text": "Díjnyertes templom Lampangban, amely történelmi örökségének megőrzéséről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        99.496993,
+                        18.294678
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Baan Sao Nak",
+                  "text": "O casă istorică din lemn de tec din Lampang, care servește acum ca muzeu privat.",
+                  "category": "museum",
+                  "coords": [
+                        99.508035,
+                        18.294137
+                  ]
+            },
+            {
+                  "name": "Thanabadee Ceramic Museum",
+                  "text": "Un muzeu din Lampang care prezintă istoria faimoasei producții de ceramică a orașului.",
+                  "category": "museum",
+                  "coords": [
+                        99.51282,
+                        18.280356
+                  ]
+            },
+            {
+                  "name": "Ho Pum Lakon Museum",
+                  "text": "Un muzeu local din Lampang care se ocupă de istoria orașului.",
+                  "category": "museum",
+                  "coords": [
+                        99.489788,
+                        18.288679
+                  ]
+            },
+            {
+                  "name": "Lampang Museum",
+                  "text": "Muzeul orașului Lampang, care prezintă exponate culturale din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        99.503304,
+                        18.29017
+                  ]
+            },
+            {
+                  "name": "Thai Banking Museum Lampang",
+                  "text": "Un muzeu din Lampang care documentează istoria sistemului bancar din Thailanda.",
+                  "category": "museum",
+                  "coords": [
+                        99.484661,
+                        18.284856
+                  ]
+            },
+            {
+                  "name": "Lanna Museum",
+                  "text": "Un muzeu din Lampang dedicat artei și culturii regatului Lanna.",
+                  "category": "museum",
+                  "coords": [
+                        99.509602,
+                        18.300975
+                  ]
+            },
+            {
+                  "name": "Clock Tower Intersection",
+                  "text": "Turn cu ceas în piața principală din Lampang, simbol al orașului.",
+                  "category": "historical",
+                  "coords": [
+                        99.490904,
+                        18.288876
+                  ]
+            },
+            {
+                  "name": "MoungNgwazin Building",
+                  "text": "O clădire istorică din Lampang cu stil arhitectural colonial.",
+                  "category": "historical",
+                  "coords": [
+                        99.498226,
+                        18.290974
+                  ]
+            },
+            {
+                  "name": "Lampang Arts Center",
+                  "text": "Lampang Arts Center este o instituție culturală deosebită din orașul thailandez Lampang. Acest centru îmbină expozițiile de artă contemporană cu diverse activități culturale captivante pentru public.",
+                  "category": "cultural",
+                  "coords": [
+                        99.496485,
+                        18.290762
+                  ]
+            },
+            {
+                  "name": "Wat Si Rong Mueang",
+                  "text": "Un templu din Lampang cunoscut pentru sculpturile sale fine în stil birmanez.",
+                  "category": "religious",
+                  "coords": [
+                        99.48081,
+                        18.290422
+                  ]
+            },
+            {
+                  "name": "Wat Pong Sanuk Tai",
+                  "text": "Un templu premiat din Lampang, cunoscut pentru conservarea patrimoniului său istoric.",
+                  "category": "landmark",
+                  "coords": [
+                        99.496993,
+                        18.294678
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Baan Sao Nak",
+                  "text": "A historic teak house in Lampang that now serves as a private museum.",
+                  "category": "museum",
+                  "coords": [
+                        99.508035,
+                        18.294137
+                  ]
+            },
+            {
+                  "name": "Dhanabadee Ceramic Museum",
+                  "text": "A museum in Lampang showcasing the history of the city's famous ceramic production.",
+                  "category": "museum",
+                  "coords": [
+                        99.51282,
+                        18.280356
+                  ]
+            },
+            {
+                  "name": "Phum La Kon Museum",
+                  "text": "A local museum in Lampang focusing on the city's history.",
+                  "category": "museum",
+                  "coords": [
+                        99.489788,
+                        18.288679
+                  ]
+            },
+            {
+                  "name": "Lampang Museum",
+                  "text": "Lampang's municipal museum presenting cultural exhibits from the region.",
+                  "category": "museum",
+                  "coords": [
+                        99.503304,
+                        18.29017
+                  ]
+            },
+            {
+                  "name": "Thai Bank Museum",
+                  "text": "A museum in Lampang documenting the history of banking in Thailand.",
+                  "category": "museum",
+                  "coords": [
+                        99.484661,
+                        18.284856
+                  ]
+            },
+            {
+                  "name": "Lanna Museum",
+                  "text": "A museum in Lampang dedicated to the art and culture of the Lanna kingdom.",
+                  "category": "museum",
+                  "coords": [
+                        99.509602,
+                        18.300975
+                  ]
+            },
+            {
+                  "name": "Clock Tower",
+                  "text": "A clock tower on the main square of Lampang, a city landmark.",
+                  "category": "historical",
+                  "coords": [
+                        99.490904,
+                        18.288876
+                  ]
+            },
+            {
+                  "name": "MoungNgwazin Building",
+                  "text": "A historic building in Lampang featuring colonial architectural style.",
+                  "category": "historical",
+                  "coords": [
+                        99.498226,
+                        18.290974
+                  ]
+            },
+            {
+                  "name": "Lampang Arts Center",
+                  "text": "The Lampang Arts Center is a vibrant cultural hub in the Thai city of Lampang. This center successfully combines contemporary art exhibitions with a variety of cultural activities for its visitors.",
+                  "category": "cultural",
+                  "coords": [
+                        99.496485,
+                        18.290762
+                  ]
+            },
+            {
+                  "name": "Wat Si Rong Mueang",
+                  "text": "A temple in Lampang known for its fine Burmese-style carvings.",
+                  "category": "religious",
+                  "coords": [
+                        99.48081,
+                        18.290422
+                  ]
+            },
+            {
+                  "name": "Wat Pong Sanuk",
+                  "text": "An award-winning temple in Lampang known for the preservation of its historical heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        99.496993,
+                        18.294678
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TH-52",
     coords: [99.492, 18.292],
@@ -7902,7 +12951,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Wat Thong Khong",
-                  "text": "Ein lokaler buddhistischer Tempel in der Provinz Samut Prakan.",
+                  "text": "Ein buddhistischer Tempel in der Provinz Samut Prakan.",
                   "category": "religious",
                   "coords": [
                         100.595616,
@@ -8030,7 +13079,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Wat Thong Khong",
-                  "text": "Helyi buddhista templom Szamutprakán tartományban.",
+                  "text": "Egy buddhista templom Samut Prakan tartományban.",
                   "category": "religious",
                   "coords": [
                         100.595616,
@@ -8158,7 +13207,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Wat Thong Khong",
-                  "text": "Un templu budist local din provincia Samut Prakan.",
+                  "text": "Un templu budist în provincia Samut Prakan.",
                   "category": "religious",
                   "coords": [
                         100.595616,
@@ -8286,7 +13335,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Wat Thong Kong",
-                  "text": "A local Buddhist temple in Samut Prakan province.",
+                  "text": "A Buddhist temple in Samut Prakan province.",
                   "category": "religious",
                   "coords": [
                         100.595616,
@@ -8408,7 +13457,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Luang Pu Lui Chanthasaro Museum",
-                  "text": "Das Luang Pu Lui Chanthasaro Museum ist ein Museum in Sakon Nakhon.",
+                  "text": "Museum mit persönlichen Gegenständen des Mönchs Luang Pu Lui Chanthasaro in Nakhon.",
                   "category": "museum",
                   "coords": [
                         104.138592,
@@ -8417,7 +13466,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Freshwater Fish Aquarium",
-                  "text": "Das Freshwater Fish Aquarium ist ein Aquarium in Sakon Nakhon.",
+                  "text": "Süßwasserfischaquarium in Nakhon mit einheimischen Arten.",
                   "category": "family",
                   "coords": [
                         104.152418,
@@ -8426,7 +13475,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Phu Phan Museum",
-                  "text": "Das Phu Phan Museum ist ein Museum in Sakon Nakhon.",
+                  "text": "Museum im Phu-Phan-Gebirge mit regionalen Exponaten in Nakhon.",
                   "category": "museum",
                   "coords": [
                         104.144884,
@@ -8435,7 +13484,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Phra That Dum",
-                  "text": "Phra That Dum ist eine archäologische Stätte in Sakon Nakhon.",
+                  "text": "Historische Chedi (Stupa) in Nakhon, bekannt für ihre dunkle Farbe.",
                   "category": "historical",
                   "coords": [
                         104.1646,
@@ -8444,7 +13493,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Wat Phra Thad Chaeng Chum Worawihan Temple",
-                  "text": "Der Wat Phra Thad Chaeng Chum Worawihan Temple ist eine Kultstätte in Sakon Nakhon.",
+                  "text": "Ein Tempel mit einer verehrten Buddha-Reliquie in Nakhon Phanom.",
                   "category": "religious",
                   "coords": [
                         104.153453,
@@ -8455,7 +13504,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Luang Pu Lui Chanthasaro Museum",
-                  "text": "A Luang Pu Lui Chanthasaro Museum egy múzeum Sakon Nakhon városában.",
+                  "text": "Luang Pu Lui Chanthasaro szerzetes személyes tárgyainak múzeuma Nakhonban.",
                   "category": "museum",
                   "coords": [
                         104.138592,
@@ -8464,7 +13513,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Freshwater Fish Aquarium",
-                  "text": "A Freshwater Fish Aquarium egy akvárium Sakon Nakhon városában.",
+                  "text": "Édesvízi akvárium Nakhonban, helyi halfajokkal.",
                   "category": "family",
                   "coords": [
                         104.152418,
@@ -8473,7 +13522,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Phu Phan Museum",
-                  "text": "A Phu Phan Museum egy múzeum Sakon Nakhon városában.",
+                  "text": "Múzeum a Phu Phan-hegységben, regionális kiállításokkal Nakhonban.",
                   "category": "museum",
                   "coords": [
                         104.144884,
@@ -8482,7 +13531,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Phra That Dum",
-                  "text": "A Phra That Dum egy régészeti lelőhely Sakon Nakhon városában.",
+                  "text": "Történelmi chedi (sztúpa) Nakhonban, sötét színéről ismert.",
                   "category": "historical",
                   "coords": [
                         104.1646,
@@ -8491,7 +13540,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Wat Phra Thad Chaeng Chum Worawihan Temple",
-                  "text": "A Wat Phra Thad Chaeng Chum Worawihan Temple egy istentiszteleti hely Sakon Nakhon városában.",
+                  "text": "Egy templom, amely egy tisztelt Buddha-ereklyét őriz Nakhon Phanomban.",
                   "category": "religious",
                   "coords": [
                         104.153453,
@@ -8502,7 +13551,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Luang Pu Lui Chanthasaro Museum",
-                  "text": "Luang Pu Lui Chanthasaro Museum este un muzeu situat în Sakon Nakhon.",
+                  "text": "Muzeu cu obiecte personale ale călugărului Luang Pu Lui Chanthasaro în Nakhon.",
                   "category": "museum",
                   "coords": [
                         104.138592,
@@ -8511,7 +13560,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Freshwater Fish Aquarium",
-                  "text": "Freshwater Fish Aquarium este un acvariu situat în Sakon Nakhon.",
+                  "text": "Acvariu cu pești de apă dulce în Nakhon, cu specii locale.",
                   "category": "family",
                   "coords": [
                         104.152418,
@@ -8520,7 +13569,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Phu Phan Museum",
-                  "text": "Phu Phan Museum este un muzeu situat în Sakon Nakhon.",
+                  "text": "Muzeu în munții Phu Phan cu exponate regionale în Nakhon.",
                   "category": "museum",
                   "coords": [
                         104.144884,
@@ -8529,7 +13578,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Phra That Dum",
-                  "text": "Phra That Dum este un sit arheologic situat în Sakon Nakhon.",
+                  "text": "Chedi istoric (stupa) în Nakhon, cunoscut pentru culoarea sa închisă.",
                   "category": "historical",
                   "coords": [
                         104.1646,
@@ -8538,7 +13587,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Wat Phra Thad Chaeng Chum Worawihan Temple",
-                  "text": "Wat Phra Thad Chaeng Chum Worawihan Temple este un lăcaș de cult situat în Sakon Nakhon.",
+                  "text": "Un templu care adăpostește o relicvă venerată a lui Buddha în Nakhon Phanom.",
                   "category": "religious",
                   "coords": [
                         104.153453,
@@ -8549,7 +13598,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Luang Pu Lui Chanthasaro Museum",
-                  "text": "Luang Pu Lui Chanthasaro Museum is a museum located in Sakon Nakhon.",
+                  "text": "A museum displaying personal belongings of monk Luang Pu Lui Chanthasaro in Nakhon.",
                   "category": "museum",
                   "coords": [
                         104.138592,
@@ -8558,7 +13607,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Freshwater Fish Aquarium",
-                  "text": "Freshwater Fish Aquarium is an aquarium located in Sakon Nakhon.",
+                  "text": "A freshwater fish aquarium in Nakhon featuring native species.",
                   "category": "family",
                   "coords": [
                         104.152418,
@@ -8567,7 +13616,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Phu Phan Museum",
-                  "text": "Phu Phan Museum is a museum located in Sakon Nakhon.",
+                  "text": "A museum in the Phu Phan mountains with regional exhibits in Nakhon.",
                   "category": "museum",
                   "coords": [
                         104.144884,
@@ -8576,7 +13625,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Phra That Dum",
-                  "text": "Phra That Dum is an archaeological site located in Sakon Nakhon.",
+                  "text": "A historic chedi (stupa) in Nakhon known for its dark color.",
                   "category": "historical",
                   "coords": [
                         104.1646,
@@ -8585,7 +13634,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Wat Phra Thad Chaeng Chum Worawihan Temple",
-                  "text": "Wat Phra Thad Chaeng Chum Worawihan Temple is a place of worship located in Sakon Nakhon.",
+                  "text": "A temple housing a revered Buddha relic in Nakhon Phanom.",
                   "category": "religious",
                   "coords": [
                         104.153453,
@@ -9004,7 +14053,952 @@ export const poiExtraThailandCitiesV2: POI[] = [
       fr: ["Une importante porte d'entrée vers le Laos via le premier pont de l'amitié thaï-laotienne.", "Connue pour le phénomène des boules de feu Naga.", "Possède une atmosphère détendue au bord du fleuve."],
     }, image: "/poi-images/nong-khai-cities-v2.webp"},
   {
-    id: "hua-hin-cities-v2",
+    id: "hua-hin-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Viewpoint 2",
+                  "text": "Dieser malerische Aussichtspunkt im hügeligen Gelände von Hua Hin bietet freie Sicht auf das üppige Blätterdach der Küste und das ferne Meer.",
+                  "category": "natural",
+                  "coords": [
+                        99.943456,
+                        12.563768
+                  ]
+            },
+            {
+                  "name": "Viewpoint 3",
+                  "text": "Ein ruhiger Beobachtungspunkt oberhalb von Hua Hin, der Besuchern weite Winkel bietet, um das Verschmelzen des Golfs von Thailand mit dem Horizont zu fotografieren.",
+                  "category": "natural",
+                  "coords": [
+                        99.945402,
+                        12.562411
+                  ]
+            },
+            {
+                  "name": "Viewpoint 4",
+                  "text": "Vor der Kulisse natürlichen Laubs enthüllt dieser erhöhte Aussichtspunkt in Hua Hin atemberaubende Sonnenuntergänge über der Küste des Ferienortes.",
+                  "category": "natural",
+                  "coords": [
+                        99.945554,
+                        12.565935
+                  ]
+            },
+            {
+                  "name": "Viewpoint 5",
+                  "text": "Dieser malerische Halt in Hua Hin ist über einen gepflasterten Weg erreichbar und überblickt das weitläufige Stadtzentrum sowie die belebten Fischerpiers am Golf.",
+                  "category": "natural",
+                  "coords": [
+                        99.946654,
+                        12.566635
+                  ]
+            },
+            {
+                  "name": "Viewpoint 6",
+                  "text": "Dieser ruhige Aussichtspunkt in den Hügeln von Hua Hin bietet einen ungestörten, luftigen Ort, um die mit Booten übersäten Küstengewässer zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        99.944745,
+                        12.568028
+                  ]
+            },
+            {
+                  "name": "Khao Hin Lek Fai Viewpoint",
+                  "text": "Diese beliebte Attraktion befindet sich in einem malerischen Park auf einer Hügelkuppe und verfügt über mehrere Terrassen mit spektakulärem Blick aus der Vogelperspektive auf Hua Hin und den königlichen Golfplatz.",
+                  "category": "landmark",
+                  "coords": [
+                        99.943691,
+                        12.565483
+                  ]
+            },
+            {
+                  "name": "Chatsila Market",
+                  "text": "In Verbindung mit dem Hauptnachtbasar ist dieser Markt im Retro-Stil in Hua Hin von alten Holzbungalows gesäumt, die Boutique-Souvenirs verkaufen.",
+                  "category": "landmark",
+                  "coords": [
+                        99.956096,
+                        12.571065
+                  ]
+            },
+            {
+                  "name": "Hua Hin Night Market",
+                  "text": "Dieser berühmte Abendmarkt erstreckt sich entlang einer gesperrten zentralen Straße und ist voll von Händlern, die riesige lokale Garnelen grillen und frische Fruchtshakes mixen.",
+                  "category": "landmark",
+                  "coords": [
+                        99.95518,
+                        12.571002
+                  ]
+            },
+            {
+                  "name": "Hua Hin Beach",
+                  "text": "Dieser beliebte Strand zeichnet sich durch seine weiten, weichen Sandflächen und großen Felsformationen aus und bietet ikonische Ponyreiten entlang der flachen Gezeiten an.",
+                  "category": "recreational",
+                  "coords": [
+                        99.964358,
+                        12.555992
+                  ]
+            },
+            {
+                  "name": "Wat Butsaya Banphot",
+                  "text": "Dieser buddhistische Tempel liegt versteckt in einem ruhigen Viertel von Hua Hin und verfügt über aufwendige goldene Giebel sowie einen ruhigen Innenhof für die lokalen Gläubigen.",
+                  "category": "landmark",
+                  "coords": [
+                        99.940468,
+                        12.572834
+                  ]
+            },
+            {
+                  "name": "Wat Khao Chong Pradu",
+                  "text": "Ein lokaler buddhistischer Tempelkomplex, der den spirituellen Bedürfnissen in Hua Hin dient.",
+                  "category": "landmark",
+                  "coords": [
+                        99.931752,
+                        12.559084
+                  ]
+            },
+            {
+                  "name": "Wat Suk Samran",
+                  "text": "Ein buddhistisches Heiligtum, das einen ruhigen Ort für Meditation in Hua Hin bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        99.940671,
+                        12.57094
+                  ]
+            },
+            {
+                  "name": "Wat Rachai Ton Banphot",
+                  "text": "Eine traditionelle buddhistische Kultstätte und Gemeindetreffpunkt in Hua Hin.",
+                  "category": "landmark",
+                  "coords": [
+                        99.939945,
+                        12.569465
+                  ]
+            },
+            {
+                  "name": "Wat Vivega Santi Dhamma",
+                  "text": "Ein lokaler buddhistischer Tempel in Hua Hin, der den Dhamma-Lehren und der friedlichen Reflexion gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        99.93938,
+                        12.571312
+                  ]
+            },
+            {
+                  "name": "Wat Khao Noi",
+                  "text": "Ein buddhistischer Tempel, der an den Hängen eines kleinen Hügels in Hua Hin liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        99.941495,
+                        12.58617
+                  ]
+            },
+            {
+                  "name": "Chinese Temple Chao Mae Thapthim",
+                  "text": "Ein taoistischer Tempel in Hua Hin, der der verehrten Meeresgöttin Chao Mae Thapthim gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        99.961073,
+                        12.571624
+                  ]
+            },
+            {
+                  "name": "St. Theresa Catholic Church",
+                  "text": "Eine katholische Kirche, die regelmäßige Messen anbietet und der christlichen Gemeinde von Hua Hin dient.",
+                  "category": "landmark",
+                  "coords": [
+                        99.958635,
+                        12.561023
+                  ]
+            },
+            {
+                  "name": "Orthodox Christian Church",
+                  "text": "Eine orthodoxe christliche Kirche, die liturgische Gottesdienste für die Gläubigen in Hua Hin anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        99.953693,
+                        12.543481
+                  ]
+            },
+            {
+                  "name": "Wat Saphan Khi Lek",
+                  "text": "Ein buddhistischer Tempel in Hua Hin, der sich durch seinen lokalen thailändischen Architekturstil auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        99.948698,
+                        12.548586
+                  ]
+            },
+            {
+                  "name": "Cornerstone Church",
+                  "text": "Eine moderne christliche Kirche, die als Anker der lokalen evangelikalen Gemeinde in Hua Hin dient.",
+                  "category": "landmark",
+                  "coords": [
+                        99.941167,
+                        12.554553
+                  ]
+            },
+            {
+                  "name": "Wat Hua Hin",
+                  "text": "Der zentrale buddhistische Tempel und Klosterkomplex im Herzen von Hua Hin.",
+                  "category": "landmark",
+                  "coords": [
+                        99.957979,
+                        12.570083
+                  ]
+            },
+            {
+                  "name": "Bon Kai Market",
+                  "text": "Ein lokaler Markt in Hua Hin, der frische saisonale Produkte und Waren des täglichen Bedarfs anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        99.953306,
+                        12.561017
+                  ]
+            },
+            {
+                  "name": "Old Dinosaur Market",
+                  "text": "Ein traditionell gestalteter Marktplatz in Hua Hin, der für seinen skurrilen Dinosaurier-Namen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        99.942184,
+                        12.581569
+                  ]
+            },
+            {
+                  "name": "New Dinosaur Market",
+                  "text": "Ein lebendiger neuer Marktplatz, der die lokale Dinosaurier-Markttradition in Hua Hin fortsetzt.",
+                  "category": "cultural",
+                  "coords": [
+                        99.947127,
+                        12.585399
+                  ]
+            },
+            {
+                  "name": "Phae Mai Market",
+                  "text": "Ein geschäftiger Marktplatz in Hua Hin, der für seine vielfältigen Streetfood-Stände und lokalen Waren beliebt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        99.951286,
+                        12.575704
+                  ]
+            },
+            {
+                  "name": "KOI Day Spa & MASSAGE",
+                  "text": "Ein Day Spa in Hua Hin, das traditionelle Thai-Massagetherapien und Wellnessanwendungen anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        99.957851,
+                        12.572045
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Viewpoint 2",
+                  "text": "A Hua Hin dombos terepén elhelyezkedő festői kilátó zavartalan rálátást biztosít a buja part menti lombkoronára és a távoli tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        99.943456,
+                        12.563768
+                  ]
+            },
+            {
+                  "name": "Viewpoint 3",
+                  "text": "Egy csendes megfigyelőpont Hua Hin felett, ahonnan a látogatók széles szögből fotózhatják a horizonttal egybeolvadó Thai-öblöt.",
+                  "category": "natural",
+                  "coords": [
+                        99.945402,
+                        12.562411
+                  ]
+            },
+            {
+                  "name": "Viewpoint 4",
+                  "text": "A természetes lombozat hátterében elhelyezkedő magaslati kilátópont Hua Hinben lenyűgöző naplementéket tár elénk az üdülőváros tengerpartja felett.",
+                  "category": "natural",
+                  "coords": [
+                        99.945554,
+                        12.565935
+                  ]
+            },
+            {
+                  "name": "Viewpoint 5",
+                  "text": "A kikövezett ösvényen megközelíthető festői hua hin-i megállóhelyről kilátás nyílik a terjeszkedő városközpontra és az öböl menti nyüzsgő halászmólókra.",
+                  "category": "natural",
+                  "coords": [
+                        99.946654,
+                        12.566635
+                  ]
+            },
+            {
+                  "name": "Viewpoint 6",
+                  "text": "Ez a Hua Hin hegyei közt megbúvó békés kilátó zavartalan, szellős megfigyelőpontot kínál a hajókkal pöttyözött part menti vizek megtekintéséhez.",
+                  "category": "natural",
+                  "coords": [
+                        99.944745,
+                        12.568028
+                  ]
+            },
+            {
+                  "name": "Khao Hin Lek Fai Viewpoint",
+                  "text": "A festői hegytetői parkban található népszerű látványosság több terasszal is rendelkezik, ahonnan látványos madártávlati kilátás nyílik Hua Hinre és a királyi golfpályára.",
+                  "category": "landmark",
+                  "coords": [
+                        99.943691,
+                        12.565483
+                  ]
+            },
+            {
+                  "name": "Chatsila Market",
+                  "text": "A fő éjszakai bazárhoz csatlakozó, retró témájú sétálóutcás piacot Hua Hinben régi fabungalók szegélyezik, melyek butik ajándéktárgyakat árusítanak.",
+                  "category": "landmark",
+                  "coords": [
+                        99.956096,
+                        12.571065
+                  ]
+            },
+            {
+                  "name": "Hua Hin Night Market",
+                  "text": "A lezárt központi utcán végignyúló, híres esti piac zsúfolásig tele van árusokkal, akik hatalmas helyi rákokat grilleznek és friss gyümölcsturmixokat készítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        99.95518,
+                        12.571002
+                  ]
+            },
+            {
+                  "name": "Hua Hin Beach",
+                  "text": "A széles, puha homokos szakaszokkal és hatalmas sziklaalakzatokkal jellemezhető, népszerű strand ikonikus pónilovaglási lehetőséget kínál a sekély vízben.",
+                  "category": "recreational",
+                  "coords": [
+                        99.964358,
+                        12.555992
+                  ]
+            },
+            {
+                  "name": "Wat Butsaya Banphot",
+                  "text": "Hua Hin egyik csendes negyedében megbújó buddhista templom bonyolult arany oromzatokkal és egy békés udvarral várja a helyi hívőket.",
+                  "category": "landmark",
+                  "coords": [
+                        99.940468,
+                        12.572834
+                  ]
+            },
+            {
+                  "name": "Wat Khao Chong Pradu",
+                  "text": "Egy helyi buddhista templomkomplexum Hua Hin városában.",
+                  "category": "landmark",
+                  "coords": [
+                        99.931752,
+                        12.559084
+                  ]
+            },
+            {
+                  "name": "Wat Suk Samran",
+                  "text": "Egy csendes buddhista szentély, amely meditációs teret kínál Hua Hinben.",
+                  "category": "landmark",
+                  "coords": [
+                        99.940671,
+                        12.57094
+                  ]
+            },
+            {
+                  "name": "Wat Rachai Ton Banphot",
+                  "text": "Hagyományos buddhista istentiszteleti és közösségi gyülekezési hely Hua Hinben.",
+                  "category": "landmark",
+                  "coords": [
+                        99.939945,
+                        12.569465
+                  ]
+            },
+            {
+                  "name": "Wat Vivega Santi Dhamma",
+                  "text": "A Dhamma tanításainak és a békés elmélkedésnek szentelt helyi buddhista templom Hua Hinben.",
+                  "category": "landmark",
+                  "coords": [
+                        99.93938,
+                        12.571312
+                  ]
+            },
+            {
+                  "name": "Wat Khao Noi",
+                  "text": "Egy kis domb lejtőin található buddhista templom Hua Hinben.",
+                  "category": "landmark",
+                  "coords": [
+                        99.941495,
+                        12.58617
+                  ]
+            },
+            {
+                  "name": "Chinese Temple Chao Mae Thapthim",
+                  "text": "Chao Mae Thapthim tengeristennőnek szentelt taoista templom Hua Hinben.",
+                  "category": "landmark",
+                  "coords": [
+                        99.961073,
+                        12.571624
+                  ]
+            },
+            {
+                  "name": "St. Theresa Catholic Church",
+                  "text": "Hua Hin keresztény közösségét szolgáló, rendszeres miséket tartó katolikus templom.",
+                  "category": "landmark",
+                  "coords": [
+                        99.958635,
+                        12.561023
+                  ]
+            },
+            {
+                  "name": "Orthodox Christian Church",
+                  "text": "Ortodox keresztény templom, amely liturgikus szolgálatokat nyújt a hívőknek Hua Hinben.",
+                  "category": "landmark",
+                  "coords": [
+                        99.953693,
+                        12.543481
+                  ]
+            },
+            {
+                  "name": "Wat Saphan Khi Lek",
+                  "text": "Hua Hin egyik buddhista temploma, amelyet a helyi thai építészeti stílus jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        99.948698,
+                        12.548586
+                  ]
+            },
+            {
+                  "name": "Cornerstone Church",
+                  "text": "Modern keresztény templom, amely a helyi evangéliumi közösség központja Hua Hinben.",
+                  "category": "landmark",
+                  "coords": [
+                        99.941167,
+                        12.554553
+                  ]
+            },
+            {
+                  "name": "Wat Hua Hin",
+                  "text": "A központi buddhista templom- és kolostorkomplexum Hua Hin szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        99.957979,
+                        12.570083
+                  ]
+            },
+            {
+                  "name": "Bon Kai Market",
+                  "text": "Helyi piac Hua Hinben, amely friss szezonális termékeket és mindennapi cikkeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        99.953306,
+                        12.561017
+                  ]
+            },
+            {
+                  "name": "Old Dinosaur Market",
+                  "text": "Egy hagyományos stílusú piac Hua Hinben, amely a mókás dinoszaurusz nevéről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        99.942184,
+                        12.581569
+                  ]
+            },
+            {
+                  "name": "New Dinosaur Market",
+                  "text": "Egy nyüzsgő új piac, amely továbbviszi a helyi dinoszaurusz piac hagyományát Hua Hinben.",
+                  "category": "cultural",
+                  "coords": [
+                        99.947127,
+                        12.585399
+                  ]
+            },
+            {
+                  "name": "Phae Mai Market",
+                  "text": "Nyüzsgő piac Hua Hinben, amely változatos street food standjairól és helyi áruiról népszerű.",
+                  "category": "cultural",
+                  "coords": [
+                        99.951286,
+                        12.575704
+                  ]
+            },
+            {
+                  "name": "KOI Day Spa & MASSAGE",
+                  "text": "Hagyományos thai masszázsterápiákat és wellnesskezeléseket kínáló nappali fürdő Hua Hinben.",
+                  "category": "recreational",
+                  "coords": [
+                        99.957851,
+                        12.572045
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Viewpoint 2",
+                  "text": "Poziționat de-a lungul terenului deluros din Hua Hin, acest punct de observație pitoresc oferă perspective clare asupra coronamentului de coastă luxuriant și asupra mării îndepărtate.",
+                  "category": "natural",
+                  "coords": [
+                        99.943456,
+                        12.563768
+                  ]
+            },
+            {
+                  "name": "Viewpoint 3",
+                  "text": "Un punct de observație liniștit deasupra Hua Hin, oferind vizitatorilor unghiuri largi pentru a fotografia Golful Thailandei contopindu-se cu orizontul.",
+                  "category": "natural",
+                  "coords": [
+                        99.945402,
+                        12.562411
+                  ]
+            },
+            {
+                  "name": "Viewpoint 4",
+                  "text": "Amplasat pe un fundal de frunziș natural, acest punct de observație ridicat din Hua Hin dezvăluie apusuri de soare uimitoare deasupra coastei orașului-stațiune.",
+                  "category": "natural",
+                  "coords": [
+                        99.945554,
+                        12.565935
+                  ]
+            },
+            {
+                  "name": "Viewpoint 5",
+                  "text": "Accesibilă printr-un traseu pavat, această oprire pitorească din Hua Hin are vedere la centrul orașului întins și la digurile aglomerate de pescuit de-a lungul golfului.",
+                  "category": "natural",
+                  "coords": [
+                        99.946654,
+                        12.566635
+                  ]
+            },
+            {
+                  "name": "Viewpoint 6",
+                  "text": "Acest punct de belvedere liniștit din dealurile Hua Hin oferă un loc de observație neîntrerupt și aerisit pentru a privi apele de coastă presărate cu bărci.",
+                  "category": "natural",
+                  "coords": [
+                        99.944745,
+                        12.568028
+                  ]
+            },
+            {
+                  "name": "Khao Hin Lek Fai Viewpoint",
+                  "text": "Situată într-un parc pitoresc pe un deal, această atracție populară are mai multe terase cu vederi spectaculoase din zbor de pasăre asupra Hua Hin și a terenului de golf regal.",
+                  "category": "landmark",
+                  "coords": [
+                        99.943691,
+                        12.565483
+                  ]
+            },
+            {
+                  "name": "Chatsila Market",
+                  "text": "Conectându-se la bazarul principal de noapte, această piață pietonală cu tematică retro din Hua Hin este mărginită de bungalouri din lemn de epocă ce vând suveniruri de tip boutique.",
+                  "category": "landmark",
+                  "coords": [
+                        99.956096,
+                        12.571065
+                  ]
+            },
+            {
+                  "name": "Hua Hin Night Market",
+                  "text": "Întinzându-se de-a lungul unei străzi centrale închise, această faimoasă piață de seară este plină de vânzători care prăjesc creveți locali masivi și prepară shake-uri din fructe proaspete.",
+                  "category": "landmark",
+                  "coords": [
+                        99.95518,
+                        12.571002
+                  ]
+            },
+            {
+                  "name": "Hua Hin Beach",
+                  "text": "Caracterizată de întinderile sale largi de nisip fin și de formațiunile mari de bolovani, această plajă populară oferă plimbări iconice cu ponei de-a lungul mareei joase.",
+                  "category": "recreational",
+                  "coords": [
+                        99.964358,
+                        12.555992
+                  ]
+            },
+            {
+                  "name": "Wat Butsaya Banphot",
+                  "text": "Ascuns într-un cartier liniștit din Hua Hin, acest templu budist prezintă frontoane aurii complicate și o curte senină pentru credincioșii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        99.940468,
+                        12.572834
+                  ]
+            },
+            {
+                  "name": "Wat Khao Chong Pradu",
+                  "text": "Un complex de temple budiste locale ce servește nevoilor spirituale din Hua Hin.",
+                  "category": "landmark",
+                  "coords": [
+                        99.931752,
+                        12.559084
+                  ]
+            },
+            {
+                  "name": "Wat Suk Samran",
+                  "text": "Un sanctuar budist care oferă un spațiu liniștit pentru meditație în Hua Hin.",
+                  "category": "landmark",
+                  "coords": [
+                        99.940671,
+                        12.57094
+                  ]
+            },
+            {
+                  "name": "Wat Rachai Ton Banphot",
+                  "text": "Un loc tradițional de cult budist și de adunare a comunității în Hua Hin.",
+                  "category": "landmark",
+                  "coords": [
+                        99.939945,
+                        12.569465
+                  ]
+            },
+            {
+                  "name": "Wat Vivega Santi Dhamma",
+                  "text": "Un templu budist local dedicat învățăturilor Dhamma și reflecției pașnice din Hua Hin.",
+                  "category": "landmark",
+                  "coords": [
+                        99.93938,
+                        12.571312
+                  ]
+            },
+            {
+                  "name": "Wat Khao Noi",
+                  "text": "Un templu budist situat pe pantele unui mic deal din Hua Hin.",
+                  "category": "landmark",
+                  "coords": [
+                        99.941495,
+                        12.58617
+                  ]
+            },
+            {
+                  "name": "Chinese Temple Chao Mae Thapthim",
+                  "text": "Un templu taoist din Hua Hin dedicat veneratei zeițe a mării Chao Mae Thapthim.",
+                  "category": "landmark",
+                  "coords": [
+                        99.961073,
+                        12.571624
+                  ]
+            },
+            {
+                  "name": "St. Theresa Catholic Church",
+                  "text": "O biserică catolică care oferă slujbe regulate și servește comunitatea creștină din Hua Hin.",
+                  "category": "landmark",
+                  "coords": [
+                        99.958635,
+                        12.561023
+                  ]
+            },
+            {
+                  "name": "Orthodox Christian Church",
+                  "text": "O biserică creștin-ortodoxă care oferă slujbe liturgice pentru credincioșii din Hua Hin.",
+                  "category": "landmark",
+                  "coords": [
+                        99.953693,
+                        12.543481
+                  ]
+            },
+            {
+                  "name": "Wat Saphan Khi Lek",
+                  "text": "Un templu budist caracterizat prin stilul său arhitectural local thailandez din Hua Hin.",
+                  "category": "landmark",
+                  "coords": [
+                        99.948698,
+                        12.548586
+                  ]
+            },
+            {
+                  "name": "Cornerstone Church",
+                  "text": "O biserică creștină modernă care ancorează comunitatea evanghelică locală din Hua Hin.",
+                  "category": "landmark",
+                  "coords": [
+                        99.941167,
+                        12.554553
+                  ]
+            },
+            {
+                  "name": "Wat Hua Hin",
+                  "text": "Templul budist central și complexul monahal situat în inima orașului Hua Hin.",
+                  "category": "landmark",
+                  "coords": [
+                        99.957979,
+                        12.570083
+                  ]
+            },
+            {
+                  "name": "Bon Kai Market",
+                  "text": "O piață locală din Hua Hin care oferă produse proaspete de sezon și bunuri de uz zilnic.",
+                  "category": "cultural",
+                  "coords": [
+                        99.953306,
+                        12.561017
+                  ]
+            },
+            {
+                  "name": "Old Dinosaur Market",
+                  "text": "O piață cu un stil tradițional din Hua Hin, cunoscută după porecla sa capricioasă legată de dinozauri.",
+                  "category": "cultural",
+                  "coords": [
+                        99.942184,
+                        12.581569
+                  ]
+            },
+            {
+                  "name": "New Dinosaur Market",
+                  "text": "O nouă piață vibrantă care continuă tradiția pieței locale Dinozaur din Hua Hin.",
+                  "category": "cultural",
+                  "coords": [
+                        99.947127,
+                        12.585399
+                  ]
+            },
+            {
+                  "name": "Phae Mai Market",
+                  "text": "O piață plină de viață din Hua Hin, populară pentru diversele sale tarabe cu mâncare de stradă și bunuri locale.",
+                  "category": "cultural",
+                  "coords": [
+                        99.951286,
+                        12.575704
+                  ]
+            },
+            {
+                  "name": "KOI Day Spa & MASSAGE",
+                  "text": "Un spa de zi în Hua Hin care oferă terapii tradiționale de masaj thailandez și tratamente de wellness.",
+                  "category": "recreational",
+                  "coords": [
+                        99.957851,
+                        12.572045
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Viewpoint 2",
+                  "text": "Positioned along the hilly terrain of Hua Hin, this scenic lookout provides clear sightlines over the lush coastal canopy and the distant sea.",
+                  "category": "natural",
+                  "coords": [
+                        99.943456,
+                        12.563768
+                  ]
+            },
+            {
+                  "name": "Viewpoint 3",
+                  "text": "A quiet observation point above Hua Hin, offering visitors sweeping angles to photograph the Gulf of Thailand merging with the horizon.",
+                  "category": "natural",
+                  "coords": [
+                        99.945402,
+                        12.562411
+                  ]
+            },
+            {
+                  "name": "Viewpoint 4",
+                  "text": "Set against a backdrop of natural foliage, this elevated vantage point in Hua Hin reveals stunning sunsets over the resort town's coastline.",
+                  "category": "natural",
+                  "coords": [
+                        99.945554,
+                        12.565935
+                  ]
+            },
+            {
+                  "name": "Viewpoint 5",
+                  "text": "Accessible via a paved trail, this scenic stop in Hua Hin overlooks the sprawling town center and the bustling fishing piers along the gulf.",
+                  "category": "natural",
+                  "coords": [
+                        99.946654,
+                        12.566635
+                  ]
+            },
+            {
+                  "name": "Viewpoint 6",
+                  "text": "This serene overlook in the hills of Hua Hin offers an uninterrupted, breezy vantage point for observing the coastal waters dotted with boats.",
+                  "category": "natural",
+                  "coords": [
+                        99.944745,
+                        12.568028
+                  ]
+            },
+            {
+                  "name": "Khao Hin Lek Fai Viewpoint",
+                  "text": "Situated in a scenic hilltop park, this popular attraction features multiple terraces with spectacular, bird's-eye views of Hua Hin and the royal golf course.",
+                  "category": "landmark",
+                  "coords": [
+                        99.943691,
+                        12.565483
+                  ]
+            },
+            {
+                  "name": "Chatsila Market",
+                  "text": "Connecting to the main night bazaar, this retro-themed walking market in Hua Hin is lined with vintage wooden bungalows selling boutique souvenirs.",
+                  "category": "landmark",
+                  "coords": [
+                        99.956096,
+                        12.571065
+                  ]
+            },
+            {
+                  "name": "Hua Hin Night Market",
+                  "text": "Stretching along a closed central street, this famous evening market is packed with vendors grilling massive local prawns and mixing fresh fruit shakes.",
+                  "category": "landmark",
+                  "coords": [
+                        99.95518,
+                        12.571002
+                  ]
+            },
+            {
+                  "name": "Hua Hin Beach",
+                  "text": "Characterized by its wide expanses of soft sand and large boulder formations, this popular beachfront offers iconic pony rides along the shallow tide.",
+                  "category": "recreational",
+                  "coords": [
+                        99.964358,
+                        12.555992
+                  ]
+            },
+            {
+                  "name": "Wat Butsaya Banphot",
+                  "text": "Tucked away in a quiet neighborhood of Hua Hin, this Buddhist temple features intricate golden gables and a serene courtyard for local worshippers.",
+                  "category": "landmark",
+                  "coords": [
+                        99.940468,
+                        12.572834
+                  ]
+            },
+            {
+                  "name": "Wat Khao Chong Pradu",
+                  "text": "A local Buddhist temple complex serving the spiritual needs of Hua Hin.",
+                  "category": "landmark",
+                  "coords": [
+                        99.931752,
+                        12.559084
+                  ]
+            },
+            {
+                  "name": "Wat Suk Samran",
+                  "text": "A Buddhist sanctuary offering a tranquil space for meditation in Hua Hin.",
+                  "category": "landmark",
+                  "coords": [
+                        99.940671,
+                        12.57094
+                  ]
+            },
+            {
+                  "name": "Wat Rachai Ton Banphot",
+                  "text": "A traditional Buddhist site of worship and community gathering in Hua Hin.",
+                  "category": "landmark",
+                  "coords": [
+                        99.939945,
+                        12.569465
+                  ]
+            },
+            {
+                  "name": "Wat Vivega Santi Dhamma",
+                  "text": "A local Buddhist temple dedicated to Dhamma teachings and peaceful reflection in Hua Hin.",
+                  "category": "landmark",
+                  "coords": [
+                        99.93938,
+                        12.571312
+                  ]
+            },
+            {
+                  "name": "Wat Khao Noi",
+                  "text": "A hillside Buddhist temple situated on the slopes of a small hill in Hua Hin.",
+                  "category": "landmark",
+                  "coords": [
+                        99.941495,
+                        12.58617
+                  ]
+            },
+            {
+                  "name": "Chinese Temple Chao Mae Thapthim",
+                  "text": "A Taoist temple in Hua Hin dedicated to the revered sea goddess Chao Mae Thapthim.",
+                  "category": "landmark",
+                  "coords": [
+                        99.961073,
+                        12.571624
+                  ]
+            },
+            {
+                  "name": "St. Theresa Catholic Church",
+                  "text": "A Catholic church offering regular masses and serving the Christian community of Hua Hin.",
+                  "category": "landmark",
+                  "coords": [
+                        99.958635,
+                        12.561023
+                  ]
+            },
+            {
+                  "name": "Orthodox Christian Church",
+                  "text": "An Orthodox Christian church providing liturgical services for the faithful in Hua Hin.",
+                  "category": "landmark",
+                  "coords": [
+                        99.953693,
+                        12.543481
+                  ]
+            },
+            {
+                  "name": "Wat Saphan Khi Lek",
+                  "text": "A Buddhist temple characterized by its local Thai architectural style in Hua Hin.",
+                  "category": "landmark",
+                  "coords": [
+                        99.948698,
+                        12.548586
+                  ]
+            },
+            {
+                  "name": "Cornerstone Church",
+                  "text": "A modern Christian church anchoring the local evangelical community in Hua Hin.",
+                  "category": "landmark",
+                  "coords": [
+                        99.941167,
+                        12.554553
+                  ]
+            },
+            {
+                  "name": "Wat Hua Hin",
+                  "text": "The central Buddhist temple and monastery complex located in the heart of Hua Hin.",
+                  "category": "landmark",
+                  "coords": [
+                        99.957979,
+                        12.570083
+                  ]
+            },
+            {
+                  "name": "Bon Kai Market",
+                  "text": "A local marketplace in Hua Hin offering fresh seasonal produce and everyday goods.",
+                  "category": "cultural",
+                  "coords": [
+                        99.953306,
+                        12.561017
+                  ]
+            },
+            {
+                  "name": "Old Dinosaur Market",
+                  "text": "A traditionally styled marketplace in Hua Hin known by its whimsical dinosaur moniker.",
+                  "category": "cultural",
+                  "coords": [
+                        99.942184,
+                        12.581569
+                  ]
+            },
+            {
+                  "name": "New Dinosaur Market",
+                  "text": "A vibrant new marketplace carrying on the local Dinosaur market tradition in Hua Hin.",
+                  "category": "cultural",
+                  "coords": [
+                        99.947127,
+                        12.585399
+                  ]
+            },
+            {
+                  "name": "Phae Mai Market",
+                  "text": "A bustling marketplace in Hua Hin popular for its diverse street food stalls and local goods.",
+                  "category": "cultural",
+                  "coords": [
+                        99.951286,
+                        12.575704
+                  ]
+            },
+            {
+                  "name": "KOI Day Spa & MASSAGE",
+                  "text": "A day spa in Hua Hin offering traditional Thai massage therapies and wellness treatments.",
+                  "category": "recreational",
+                  "coords": [
+                        99.957851,
+                        12.572045
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TH-77",
     coords: [99.957, 12.568],
@@ -9395,7 +15389,520 @@ export const poiExtraThailandCitiesV2: POI[] = [
       fr: ["Porte d'entrée vers les îles Phi Phi et Railay Beach.", "Caractérisée par d'impressionnantes falaises calcaires.", "Le temple de la Grotte du Tigre est une attraction principale."],
     }, image: "/poi-images/krabi-cities-v2.webp"},
   {
-    id: "tak-cities-v2",
+    id: "tak-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "King Taksin the Great Memorial Shrine",
+                  "text": "Ein verehrter Gedenkschrein in der Region Tak, der dem ehemaligen siamesischen König gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        99.121138,
+                        16.885831
+                  ]
+            },
+            {
+                  "name": "Tak City Memorial Museum",
+                  "text": "Ein Kulturmuseum, das die regionale Geschichte und historische Artefakte aus der Gegend von Tak bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        99.124766,
+                        16.871923
+                  ]
+            },
+            {
+                  "name": "Trok Ban Chin (Ban Chin Alley)",
+                  "text": "Eine historische Gasse, die die traditionellen Architekturstile der frühen chinesischen Siedler in Tak zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        99.12516,
+                        16.867736
+                  ]
+            },
+            {
+                  "name": "Monument für König Narai der Grosse",
+                  "text": "Ein markantes historisches Denkmal zu Ehren des berühmten thailändischen Königs aus dem 17. Jahrhundert in Tak.",
+                  "category": "historical",
+                  "coords": [
+                        99.121397,
+                        16.858034
+                  ]
+            },
+            {
+                  "name": "Wat Khao Tham",
+                  "text": "Ein ruhiger buddhistischer Tempel in der Nähe von natürlichen Höhlenformationen oder Hügeln in der Region Tak.",
+                  "category": "landmark",
+                  "coords": [
+                        99.133979,
+                        16.902139
+                  ]
+            },
+            {
+                  "name": "Wat",
+                  "text": "Eine klassische religiöse Kultstätte mit traditionellen architektonischen Elementen in Tak.",
+                  "category": "religious",
+                  "coords": [
+                        99.129635,
+                        16.862392
+                  ]
+            },
+            {
+                  "name": "Wat Mani Banphot Worawihan",
+                  "text": "Ein bedeutender buddhistischer Tempel in Tak, der für seine historische religiöse Bedeutung und seine schöne Stupa bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        99.129685,
+                        16.874717
+                  ]
+            },
+            {
+                  "name": "Wat Bot Mani Si Bun Rueang",
+                  "text": "Ein traditioneller buddhistischer Tempelkomplex, der als aktives spirituelles Zentrum für die Gemeinde in Tak dient.",
+                  "category": "landmark",
+                  "coords": [
+                        99.12021,
+                        16.884612
+                  ]
+            },
+            {
+                  "name": "Sadet Mae nok Iiang Shrine",
+                  "text": "Ein lokaler religiöser Schrein, der einen ruhigen und verehrten Raum für spirituelle Opfergaben in Tak bietet.",
+                  "category": "religious",
+                  "coords": [
+                        99.116271,
+                        16.862907
+                  ]
+            },
+            {
+                  "name": "Wat Klang Suan Dok Mai",
+                  "text": "Ein ländlicher buddhistischer Tempelkomplex, der in der Gegend von Tak harmonisch von der lokalen Flora umgeben ist.",
+                  "category": "landmark",
+                  "coords": [
+                        99.117776,
+                        16.861412
+                  ]
+            },
+            {
+                  "name": "Wat Phai Lom",
+                  "text": "Ein traditioneller buddhistischer Tempel, der gegründet wurde, um den spirituellen und gemeinschaftlichen Bedürfnissen in Tak zu dienen.",
+                  "category": "landmark",
+                  "coords": [
+                        99.12881,
+                        16.868224
+                  ]
+            },
+            {
+                  "name": "St.Francis Xavier Catholic Church",
+                  "text": "Ein klassisches christliches Gotteshaus, das der lokalen katholischen Gemeinde im Gebiet von Tak dient.",
+                  "category": "landmark",
+                  "coords": [
+                        99.132134,
+                        16.875039
+                  ]
+            },
+            {
+                  "name": "Night market",
+                  "text": "Ein lebhafter Abendmarkt in Tak, der eine große Auswahl an regionalem Streetfood und Kunsthandwerk bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        99.123638,
+                        16.878662
+                  ]
+            },
+            {
+                  "name": "Tak Municipality 3 Fresh Food Market",
+                  "text": "Ein großer städtischer Markt, auf dem Einheimische ihre täglichen Produkte und frischen Fleischzutaten einkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        99.122226,
+                        16.875363
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "King Taksin the Great Memorial Shrine",
+                  "text": "A korábbi sziámi királynak szentelt, nagy tiszteletben tartott emlékhely Tak város régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        99.121138,
+                        16.885831
+                  ]
+            },
+            {
+                  "name": "Tak City Memorial Museum",
+                  "text": "A Tak régió történelmét és történelmi műtárgyait megőrző helyi kulturális múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        99.124766,
+                        16.871923
+                  ]
+            },
+            {
+                  "name": "Trok Ban Chin (Ban Chin Alley)",
+                  "text": "Történelmi sikátor, amely a Takban letelepedett korai kínai közösség hagyományos építészeti stílusát tárja fel.",
+                  "category": "landmark",
+                  "coords": [
+                        99.12516,
+                        16.867736
+                  ]
+            },
+            {
+                  "name": "Monument of King Narai the Great",
+                  "text": "Kiemelkedő történelmi emlékmű Takban, amely a híres 17. századi thai királynak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        99.121397,
+                        16.858034
+                  ]
+            },
+            {
+                  "name": "Wat Khao Tham",
+                  "text": "Egy békés buddhista templom, amely a Tak régió természetes barlangjai vagy dombjai közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        99.133979,
+                        16.902139
+                  ]
+            },
+            {
+                  "name": "Wat",
+                  "text": "Hagyományos építészeti elemekkel épült klasszikus vallási istentiszteleti hely Takban.",
+                  "category": "religious",
+                  "coords": [
+                        99.129635,
+                        16.862392
+                  ]
+            },
+            {
+                  "name": "Wat Mani Banphot Worawihan",
+                  "text": "Kiemelkedő buddhista templom Takban, amely történelmi vallási jelentőségéről és gyönyörű sztúpájáról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        99.129685,
+                        16.874717
+                  ]
+            },
+            {
+                  "name": "Wat Bot Mani Si Bun Rueang",
+                  "text": "Hagyományos buddhista templomkomplexum, amely a taki közösség aktív spirituális központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        99.12021,
+                        16.884612
+                  ]
+            },
+            {
+                  "name": "Sadet Mae nok Iiang Shrine",
+                  "text": "Helyi vallási szentély Takban, amely csendes és tisztelt helyet biztosít a spirituális felajánlások számára.",
+                  "category": "religious",
+                  "coords": [
+                        99.116271,
+                        16.862907
+                  ]
+            },
+            {
+                  "name": "Wat Klang Suan Dok Mai",
+                  "text": "A Tak régió helyi növényvilágával harmonikusan körülvett vidéki buddhista templomkomplexum.",
+                  "category": "landmark",
+                  "coords": [
+                        99.117776,
+                        16.861412
+                  ]
+            },
+            {
+                  "name": "Wat Phai Lom",
+                  "text": "Hagyományos buddhista templom, amelyet a taki közösség spirituális igényeinek kiszolgálására hoztak létre.",
+                  "category": "landmark",
+                  "coords": [
+                        99.12881,
+                        16.868224
+                  ]
+            },
+            {
+                  "name": "St.Francis Xavier Catholic Church",
+                  "text": "Klasszikus keresztény istentiszteleti hely, amely a Tak régió helyi katolikus közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        99.132134,
+                        16.875039
+                  ]
+            },
+            {
+                  "name": "Night market",
+                  "text": "Élénk esti piac Takban, amely regionális utcai ételek és kézműves termékek széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        99.123638,
+                        16.878662
+                  ]
+            },
+            {
+                  "name": "Tak Municipality 3 Fresh Food Market",
+                  "text": "Nagy önkormányzati piac, ahol a helyiek beszerezhetik a mindennapi zöldségeket, gyümölcsöket és friss húsokat.",
+                  "category": "cultural",
+                  "coords": [
+                        99.122226,
+                        16.875363
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "King Taksin the Great Memorial Shrine",
+                  "text": "Un altar memorial venerat dedicat fostului rege siamez, situat în regiunea orașului Tak.",
+                  "category": "landmark",
+                  "coords": [
+                        99.121138,
+                        16.885831
+                  ]
+            },
+            {
+                  "name": "Tak City Memorial Museum",
+                  "text": "Un muzeu cultural care păstrează istoria regională și artefactele locale istorice din zona Tak.",
+                  "category": "museum",
+                  "coords": [
+                        99.124766,
+                        16.871923
+                  ]
+            },
+            {
+                  "name": "Trok Ban Chin (Ban Chin Alley)",
+                  "text": "O alee istorică ce dezvăluie stilurile arhitecturale tradiționale ale primilor coloniști chinezi din Tak.",
+                  "category": "landmark",
+                  "coords": [
+                        99.12516,
+                        16.867736
+                  ]
+            },
+            {
+                  "name": "Monument of King Narai the Great",
+                  "text": "Un monument istoric proeminent care îl onorează pe celebrul rege thailandez din secolul al XVII-lea în Tak.",
+                  "category": "historical",
+                  "coords": [
+                        99.121397,
+                        16.858034
+                  ]
+            },
+            {
+                  "name": "Wat Khao Tham",
+                  "text": "Un templu budist senin situat lângă formațiuni de peșteri naturale sau dealuri din regiunea Tak.",
+                  "category": "landmark",
+                  "coords": [
+                        99.133979,
+                        16.902139
+                  ]
+            },
+            {
+                  "name": "Wat",
+                  "text": "Un lăcaș de cult clasic construit cu elemente arhitecturale tradiționale în Tak.",
+                  "category": "religious",
+                  "coords": [
+                        99.129635,
+                        16.862392
+                  ]
+            },
+            {
+                  "name": "Wat Mani Banphot Worawihan",
+                  "text": "Un templu budist proeminent din Tak, renumit pentru importanța sa istorică religioasă și pentru stupa frumoasă.",
+                  "category": "landmark",
+                  "coords": [
+                        99.129685,
+                        16.874717
+                  ]
+            },
+            {
+                  "name": "Wat Bot Mani Si Bun Rueang",
+                  "text": "Un complex de temple budiste tradiționale care servește ca centru spiritual activ pentru comunitatea din Tak.",
+                  "category": "landmark",
+                  "coords": [
+                        99.12021,
+                        16.884612
+                  ]
+            },
+            {
+                  "name": "Sadet Mae nok Iiang Shrine",
+                  "text": "Un altar religios local care oferă un spațiu liniștit și venerat pentru ofrande spirituale în Tak.",
+                  "category": "religious",
+                  "coords": [
+                        99.116271,
+                        16.862907
+                  ]
+            },
+            {
+                  "name": "Wat Klang Suan Dok Mai",
+                  "text": "Un complex de temple budiste rurale, înconjurat armonios de flora locală din zona Tak.",
+                  "category": "landmark",
+                  "coords": [
+                        99.117776,
+                        16.861412
+                  ]
+            },
+            {
+                  "name": "Wat Phai Lom",
+                  "text": "Un templu budist tradițional înființat pentru a servi nevoilor spirituale și comunitare din Tak.",
+                  "category": "landmark",
+                  "coords": [
+                        99.12881,
+                        16.868224
+                  ]
+            },
+            {
+                  "name": "St.Francis Xavier Catholic Church",
+                  "text": "Un lăcaș de cult creștin clasic care deservește congregația catolică locală din zona Tak.",
+                  "category": "landmark",
+                  "coords": [
+                        99.132134,
+                        16.875039
+                  ]
+            },
+            {
+                  "name": "Night market",
+                  "text": "O piață de seară plină de viață în Tak, care oferă o gamă largă de mâncăruri stradale regionale și obiecte de artizanat.",
+                  "category": "cultural",
+                  "coords": [
+                        99.123638,
+                        16.878662
+                  ]
+            },
+            {
+                  "name": "Tak Municipality 3 Fresh Food Market",
+                  "text": "O piață municipală mare, unde localnicii își cumpără produsele zilnice și ingredientele din carne proaspătă.",
+                  "category": "cultural",
+                  "coords": [
+                        99.122226,
+                        16.875363
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "King Taksin the Great Memorial Shrine",
+                  "text": "A revered memorial shrine dedicated to the former Siamese king located in the Tak city region.",
+                  "category": "landmark",
+                  "coords": [
+                        99.121138,
+                        16.885831
+                  ]
+            },
+            {
+                  "name": "Tak City Memorial Museum",
+                  "text": "A cultural museum preserving regional history and historic local artifacts from the Tak area.",
+                  "category": "museum",
+                  "coords": [
+                        99.124766,
+                        16.871923
+                  ]
+            },
+            {
+                  "name": "Trok Ban Chin (Ban Chin Alley)",
+                  "text": "A historic alleyway attraction revealing traditional architectural styles of early Chinese settlers in Tak.",
+                  "category": "landmark",
+                  "coords": [
+                        99.12516,
+                        16.867736
+                  ]
+            },
+            {
+                  "name": "Monument of King Narai the Great",
+                  "text": "A prominent historical monument honoring the celebrated 17th-century Thai king in Tak.",
+                  "category": "historical",
+                  "coords": [
+                        99.121397,
+                        16.858034
+                  ]
+            },
+            {
+                  "name": "Wat Khao Tham",
+                  "text": "A serene Buddhist temple situated near natural cave formations or hills in the Tak region.",
+                  "category": "landmark",
+                  "coords": [
+                        99.133979,
+                        16.902139
+                  ]
+            },
+            {
+                  "name": "Wat",
+                  "text": "A classic religious place of worship built with traditional architectural elements in Tak.",
+                  "category": "religious",
+                  "coords": [
+                        99.129635,
+                        16.862392
+                  ]
+            },
+            {
+                  "name": "Wat Mani Banphot Worawihan",
+                  "text": "A prominent Buddhist temple in Tak renowned for its historical religious importance and beautiful stupa.",
+                  "category": "landmark",
+                  "coords": [
+                        99.129685,
+                        16.874717
+                  ]
+            },
+            {
+                  "name": "Wat Bot Mani Si Bun Rueang",
+                  "text": "A traditional Buddhist temple complex serving as an active spiritual center for the Tak community.",
+                  "category": "landmark",
+                  "coords": [
+                        99.12021,
+                        16.884612
+                  ]
+            },
+            {
+                  "name": "Sadet Mae nok Iiang Shrine",
+                  "text": "A local religious shrine providing a quiet and revered space for spiritual offerings in Tak.",
+                  "category": "religious",
+                  "coords": [
+                        99.116271,
+                        16.862907
+                  ]
+            },
+            {
+                  "name": "Wat Klang Suan Dok Mai",
+                  "text": "A rural Buddhist temple complex harmoniously surrounded by local flora in the Tak area.",
+                  "category": "landmark",
+                  "coords": [
+                        99.117776,
+                        16.861412
+                  ]
+            },
+            {
+                  "name": "Wat Phai Lom",
+                  "text": "A traditional Buddhist temple established to serve the spiritual and communal needs in Tak.",
+                  "category": "landmark",
+                  "coords": [
+                        99.12881,
+                        16.868224
+                  ]
+            },
+            {
+                  "name": "St.Francis Xavier Catholic Church",
+                  "text": "A classic Christian place of worship serving the local Catholic congregation in the Tak area.",
+                  "category": "landmark",
+                  "coords": [
+                        99.132134,
+                        16.875039
+                  ]
+            },
+            {
+                  "name": "Night market",
+                  "text": "A lively evening marketplace in Tak offering an extensive array of regional street foods and crafts.",
+                  "category": "cultural",
+                  "coords": [
+                        99.123638,
+                        16.878662
+                  ]
+            },
+            {
+                  "name": "Tak Municipality 3 Fresh Food Market",
+                  "text": "A large municipal marketplace where locals purchase their daily produce and fresh meat ingredients.",
+                  "category": "cultural",
+                  "coords": [
+                        99.122226,
+                        16.875363
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TH-63",
     coords: [99.125, 16.883],
@@ -9446,7 +15953,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Royal Thai Army Engineer Museum",
-                  "text": "Das Royal Thai Army Engineer Museum ist ein Museum in Ratchaburi.",
+                  "text": "Museum der thailändischen Pioniertruppe in Ratchaburi mit Militärfahrzeugen.",
                   "category": "museum",
                   "coords": [
                         99.825763,
@@ -9455,7 +15962,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Chedi Hak",
-                  "text": "Chedi Hak besteht aus Ruinen in Ratchaburi.",
+                  "text": "Gebrochene Chedi (Stupa) in Ratchaburi, Ruine aus alter Zeit.",
                   "category": "historical",
                   "coords": [
                         99.798427,
@@ -9464,7 +15971,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Wat Mahathat Worawihan",
-                  "text": "Wat Mahathat Worawihan ist eine bekannte Kultstätte in Ratchaburi.",
+                  "text": "Ein Tempel mit einer großen liegenden Buddha-Statue in Ratchaburi.",
                   "category": "religious",
                   "coords": [
                         99.81432,
@@ -9475,7 +15982,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Royal Thai Army Engineer Museum",
-                  "text": "A Royal Thai Army Engineer Museum egy múzeum Ratchaburi városában.",
+                  "text": "A Thai Királyi Hadsereg Mérnöki Múzeuma Ratchaburiban, katonai járművekkel.",
                   "category": "museum",
                   "coords": [
                         99.825763,
@@ -9484,7 +15991,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Chedi Hak",
-                  "text": "A Chedi Hak egy romterület Ratchaburi városában.",
+                  "text": "Törött chedi (sztúpa) Ratchaburiban, régi kori rom.",
                   "category": "historical",
                   "coords": [
                         99.798427,
@@ -9493,7 +16000,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Wat Mahathat Worawihan",
-                  "text": "A Wat Mahathat Worawihan egy ismert istentiszteleti hely Ratchaburi városában.",
+                  "text": "Egy templom egy nagy fekvő Buddha-szoborral Ratchaburiban.",
                   "category": "religious",
                   "coords": [
                         99.81432,
@@ -9504,7 +16011,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Royal Thai Army Engineer Museum",
-                  "text": "Royal Thai Army Engineer Museum este un muzeu situat în Ratchaburi.",
+                  "text": "Muzeul Inginerilor Armatei Regale Thailandeze în Ratchaburi, cu vehicule militare.",
                   "category": "museum",
                   "coords": [
                         99.825763,
@@ -9513,7 +16020,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Chedi Hak",
-                  "text": "Chedi Hak constă în ruine situate în Ratchaburi.",
+                  "text": "Chedi spart (stupa) în Ratchaburi, ruină din timpuri străvechi.",
                   "category": "historical",
                   "coords": [
                         99.798427,
@@ -9522,7 +16029,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Wat Mahathat Worawihan",
-                  "text": "Wat Mahathat Worawihan este un lăcaș de cult cunoscut situat în Ratchaburi.",
+                  "text": "Un templu cu o statuie mare a lui Buddha culcat în Ratchaburi.",
                   "category": "religious",
                   "coords": [
                         99.81432,
@@ -9533,7 +16040,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Royal Thai Army Engineer Museum",
-                  "text": "Royal Thai Army Engineer Museum is a museum located in Ratchaburi.",
+                  "text": "A museum of the Royal Thai Army Engineers in Ratchaburi with military vehicles.",
                   "category": "museum",
                   "coords": [
                         99.825763,
@@ -9542,7 +16049,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Chedi Hak",
-                  "text": "Chedi Hak consists of ruins located in Ratchaburi.",
+                  "text": "A broken chedi (stupa) in Ratchaburi, an ancient ruin.",
                   "category": "historical",
                   "coords": [
                         99.798427,
@@ -9551,7 +16058,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
             },
             {
                   "name": "Wat Mahathat Worawihan",
-                  "text": "Wat Mahathat Worawihan is a notable place of worship located in Ratchaburi.",
+                  "text": "A temple with a large reclining Buddha statue in Ratchaburi.",
                   "category": "religious",
                   "coords": [
                         99.81432,

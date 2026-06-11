@@ -232,7 +232,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Hohflue",
-                  "text": "Ein Berggipfel in der Nähe der Aareschlucht.",
+                  "text": "Hohflue ist ein Felsgipfel an der Aareschlucht.",
                   "category": "landmark",
                   "coords": [
                         8.227746,
@@ -241,7 +241,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Reka",
-                  "text": "Ein Schwimmbad in der Nähe der Aareschlucht.",
+                  "text": "Erholungsgebiet an der Aareschlucht.",
                   "category": "recreational",
                   "coords": [
                         8.197112,
@@ -315,7 +315,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Hohflue",
-                  "text": "Egy hegycsúcs az Aare-szurdok közelében.",
+                  "text": "A Hohflue egy sziklás csúcs az Aare-szurdoknál.",
                   "category": "landmark",
                   "coords": [
                         8.227746,
@@ -324,7 +324,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Reka",
-                  "text": "Egy úszómedence az Aare-szurdok közelében.",
+                  "text": "Pihenőterület az Aare-szurdoknál.",
                   "category": "recreational",
                   "coords": [
                         8.197112,
@@ -398,7 +398,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Hohflue",
-                  "text": "Un vârf montan în apropierea cheilor Aare.",
+                  "text": "Hohflue este un vârf stâncos la Cheile Aare.",
                   "category": "landmark",
                   "coords": [
                         8.227746,
@@ -407,7 +407,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Reka",
-                  "text": "O piscină situată în apropierea Cheilor Aare.",
+                  "text": "Zonă de agrement la Cheile Aare.",
                   "category": "recreational",
                   "coords": [
                         8.197112,
@@ -481,7 +481,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Hohflue",
-                  "text": "A mountain peak located near the Aare Gorge.",
+                  "text": "Hohflue is a rocky peak at the Aare Gorge.",
                   "category": "landmark",
                   "coords": [
                         8.227746,
@@ -490,7 +490,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Reka",
-                  "text": "A swimming pool located near the Aare Gorge.",
+                  "text": "Recreational area by the Aare Gorge.",
                   "category": "recreational",
                   "coords": [
                         8.197112,
@@ -898,7 +898,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Kleines Wannenhorn",
-                  "text": "Ein markanter Gipfel in der Region des Großen Aletschgletschers.",
+                  "text": "Kleines Wannenhorn ist ein Gletschergipfel über dem Grossen Aletschgletscher.",
                   "category": "landmark",
                   "coords": [
                         8.10468,
@@ -972,7 +972,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Kleines Wannenhorn",
-                  "text": "Egy jellegzetes hegycsúcs a Nagy-Aletsch-gleccser térségében.",
+                  "text": "A Kleines Wannenhorn egy gleccsercsúcs a Nagy-Aletsch-gleccser felett.",
                   "category": "landmark",
                   "coords": [
                         8.10468,
@@ -1046,7 +1046,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Kleines Wannenhorn",
-                  "text": "Un vârf proeminent în regiunea marelui ghețar Aletsch.",
+                  "text": "Kleines Wannenhorn este un vârf glaciar deasupra Ghețarului Marele Aletsch.",
                   "category": "landmark",
                   "coords": [
                         8.10468,
@@ -1120,7 +1120,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Kleines Wannenhorn",
-                  "text": "A prominent peak in the Great Aletsch Glacier region.",
+                  "text": "Kleines Wannenhorn is a glacier peak above the Grosser Aletschgletscher.",
                   "category": "landmark",
                   "coords": [
                         8.10468,
@@ -1969,7 +1969,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Merezebachschije",
-                  "text": "Ein Berggipfel im Gebiet des Griesgletschers.",
+                  "text": "Merezebachschije ist ein Berggipfel im Gebiet des Griesgletschers.",
                   "category": "landmark",
                   "coords": [
                         8.309544,
@@ -1978,7 +1978,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Ritzhörner",
-                  "text": "Ein Berggipfel in der Nähe des Griesgletschers.",
+                  "text": "Die Ritzhörner sind eine Gruppe von Gipfeln im Gebiet des Griesgletschers.",
                   "category": "landmark",
                   "coords": [
                         8.32356,
@@ -1996,7 +1996,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Fülhorn",
-                  "text": "Ein Berggipfel im Gebiet des Griesgletschers.",
+                  "text": "Fülhorn ist ein Gipfel in der Region des Griesgletschers.",
                   "category": "landmark",
                   "coords": [
                         8.352413,
@@ -2043,7 +2043,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Merezebachschije",
-                  "text": "Hegycsúcs a Gries-gleccser környékén.",
+                  "text": "A Merezebachschije egy hegycsúcs a Gries-gleccser környékén.",
                   "category": "landmark",
                   "coords": [
                         8.309544,
@@ -2052,7 +2052,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Ritzhörner",
-                  "text": "Hegycsúcs a Gries-gleccser közelében.",
+                  "text": "A Ritzhörner egy csúcscsoport a Gries-gleccser környékén.",
                   "category": "landmark",
                   "coords": [
                         8.32356,
@@ -2070,7 +2070,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Fülhorn",
-                  "text": "Hegycsúcs a Gries-gleccser területén.",
+                  "text": "A Fülhorn egy csúcs a Gries-gleccser régiójában.",
                   "category": "landmark",
                   "coords": [
                         8.352413,
@@ -2117,7 +2117,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Merezebachschije",
-                  "text": "Un vârf montan situat în zona Ghețarului Gries.",
+                  "text": "Merezebachschije este un vârf montan în zona Ghețarului Gries.",
                   "category": "landmark",
                   "coords": [
                         8.309544,
@@ -2126,7 +2126,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Ritzhörner",
-                  "text": "Un vârf montan situat în apropierea Ghețarului Gries.",
+                  "text": "Ritzhörner sunt un grup de vârfuri în zona Ghețarului Gries.",
                   "category": "landmark",
                   "coords": [
                         8.32356,
@@ -2144,7 +2144,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Fülhorn",
-                  "text": "Un vârf montan în zona Ghețarului Gries.",
+                  "text": "Fülhorn este un vârf în regiunea Ghețarului Gries.",
                   "category": "landmark",
                   "coords": [
                         8.352413,
@@ -2191,7 +2191,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Merezebachschije",
-                  "text": "A mountain peak located in the Gries Glacier area.",
+                  "text": "Merezebachschije is a mountain peak in the Griesgletscher area.",
                   "category": "landmark",
                   "coords": [
                         8.309544,
@@ -2200,7 +2200,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Ritzhörner",
-                  "text": "A mountain peak situated near the Gries Glacier.",
+                  "text": "Ritzhörner are a set of peaks in the Griesgletscher area.",
                   "category": "landmark",
                   "coords": [
                         8.32356,
@@ -2218,7 +2218,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Fülhorn",
-                  "text": "A peak located within the Gries Glacier area.",
+                  "text": "Fülhorn is a peak in the Griesgletscher region.",
                   "category": "landmark",
                   "coords": [
                         8.352413,
@@ -2293,7 +2293,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Source du Doubs",
-                  "text": "Die Quelle des Flusses Doubs in der Nähe von Mouthe ist ein bedeutendes Naturdenkmal am See.",
+                  "text": "Quelle des Doubs-Flusses nahe dem Lac de Remoray.",
                   "category": "landmark",
                   "coords": [
                         6.209445,
@@ -2358,7 +2358,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Source du Doubs",
-                  "text": "A Doubs folyó forrása Mouthe közelében a tó melletti jelentős természeti látnivaló.",
+                  "text": "A Doubs folyó forrása a Lac de Remoray közelében.",
                   "category": "landmark",
                   "coords": [
                         6.209445,
@@ -2423,7 +2423,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Source du Doubs",
-                  "text": "Izvorul râului Doubs, lângă Mouthe, este un monument natural semnificativ lângă lac.",
+                  "text": "Izvorul râului Doubs lângă Lacul Remoray.",
                   "category": "landmark",
                   "coords": [
                         6.209445,
@@ -2488,7 +2488,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Source du Doubs",
-                  "text": "The source of the Doubs river near Mouthe is a significant natural landmark near the lake.",
+                  "text": "The source of the Doubs River near Lac de Remoray.",
                   "category": "landmark",
                   "coords": [
                         6.209445,
@@ -2923,7 +2923,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "museumbickel",
-                  "text": "Ein zeitgenössisches Kunstmuseum in Walenstadt.",
+                  "text": "Museum in Gamsberg mit regionalen Ausstellungen.",
                   "category": "museum",
                   "coords": [
                         9.31214,
@@ -2932,7 +2932,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Altes Rathaus",
-                  "text": "Ein Museum, das im historischen Rathausgebäude untergebracht ist.",
+                  "text": "Altes Rathaus in Gamsberg, heute ein Museum.",
                   "category": "museum",
                   "coords": [
                         9.314899,
@@ -2950,7 +2950,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Frümsel",
-                  "text": "Ein markanter Berggipfel der Churfirsten-Kette.",
+                  "text": "Frümsel ist ein Gipfel im Gebiet des Gamsbergs.",
                   "category": "landmark",
                   "coords": [
                         9.266052,
@@ -2977,7 +2977,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Schibenstoll",
-                  "text": "Einer der markanten Gipfel der Churfirsten-Gruppe.",
+                  "text": "Schibenstoll ist ein Gipfel im Gebiet des Gamsbergs.",
                   "category": "landmark",
                   "coords": [
                         9.295485,
@@ -3004,7 +3004,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Strandbad Mols",
-                  "text": "Ein ruhiger Badebereich in Mols am Walensee.",
+                  "text": "Strandbad Mols am Seeufer bei Gamsberg.",
                   "category": "recreational",
                   "coords": [
                         9.279707,
@@ -3033,7 +3033,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "museumbickel",
-                  "text": "Kortárs művészeti múzeum Walenstadtban.",
+                  "text": "Múzeum Gamsbergben regionális kiállításokkal.",
                   "category": "museum",
                   "coords": [
                         9.31214,
@@ -3042,7 +3042,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Altes Rathaus",
-                  "text": "A történelmi városháza épületében helyet kapó múzeum.",
+                  "text": "Régi városháza Gamsbergben, ma múzeum.",
                   "category": "museum",
                   "coords": [
                         9.314899,
@@ -3060,7 +3060,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Frümsel",
-                  "text": "A Churfirsten-hegylánc egyik jellegzetes csúcsa.",
+                  "text": "A Frümsel egy csúcs a Gamsberg környékén.",
                   "category": "landmark",
                   "coords": [
                         9.266052,
@@ -3087,7 +3087,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Schibenstoll",
-                  "text": "A Churfirsten-csoport egyik jellegzetes csúcsa.",
+                  "text": "A Schibenstoll egy csúcs a Gamsberg környékén.",
                   "category": "landmark",
                   "coords": [
                         9.295485,
@@ -3114,7 +3114,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Strandbad Mols",
-                  "text": "Nyugodt fürdőhely Mols területén, a Walen-tónál.",
+                  "text": "Mols-i tóparti strand Gamsberg közelében.",
                   "category": "recreational",
                   "coords": [
                         9.279707,
@@ -3143,7 +3143,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "museumbickel",
-                  "text": "Un muzeu de artă contemporană în Walenstadt.",
+                  "text": "Muzeu în Gamsberg cu expoziții regionale.",
                   "category": "museum",
                   "coords": [
                         9.31214,
@@ -3152,7 +3152,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Altes Rathaus",
-                  "text": "Un muzeu găzduit în clădirea istorică a primăriei.",
+                  "text": "Vechiul primărie din Gamsberg, acum muzeu.",
                   "category": "museum",
                   "coords": [
                         9.314899,
@@ -3170,7 +3170,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Frümsel",
-                  "text": "Un vârf muntos distinctiv din lanțul Churfirsten.",
+                  "text": "Frümsel este un vârf în zona Gamsberg.",
                   "category": "landmark",
                   "coords": [
                         9.266052,
@@ -3197,7 +3197,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Schibenstoll",
-                  "text": "Unul dintre vârfurile distinctive ale grupului Churfirsten.",
+                  "text": "Schibenstoll este un vârf în zona Gamsberg.",
                   "category": "landmark",
                   "coords": [
                         9.295485,
@@ -3224,7 +3224,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Strandbad Mols",
-                  "text": "O zonă liniștită de scăldat în Mols, pe malul lacului Walenstadt.",
+                  "text": "Plajă pe malul lacului la Mols lângă Gamsberg.",
                   "category": "recreational",
                   "coords": [
                         9.279707,
@@ -3253,7 +3253,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "museumbickel",
-                  "text": "A contemporary art museum located in Walenstadt.",
+                  "text": "Museum in Gamsberg with regional exhibitions.",
                   "category": "museum",
                   "coords": [
                         9.31214,
@@ -3262,7 +3262,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Altes Rathaus",
-                  "text": "A museum housed in the historic town hall building.",
+                  "text": "Old town hall in Gamsberg, now a museum.",
                   "category": "museum",
                   "coords": [
                         9.314899,
@@ -3280,7 +3280,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Frümsel",
-                  "text": "A prominent mountain peak in the Churfirsten range.",
+                  "text": "Frümsel is a peak in the Gamsberg area.",
                   "category": "landmark",
                   "coords": [
                         9.266052,
@@ -3307,7 +3307,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Schibenstoll",
-                  "text": "One of the distinctive peaks of the Churfirsten group.",
+                  "text": "Schibenstoll is a peak in the Gamsberg area.",
                   "category": "landmark",
                   "coords": [
                         9.295485,
@@ -3334,7 +3334,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Strandbad Mols",
-                  "text": "A quiet swimming area in Mols at Lake Walenstadt.",
+                  "text": "Lakeside beach at Mols near Gamsberg.",
                   "category": "recreational",
                   "coords": [
                         9.279707,
@@ -3436,7 +3436,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Motta da Scioschin",
-                  "text": "Aussichtsreicher Gipfel in den Schweizer Alpen bei Poschiavo.",
+                  "text": "Motta da Scioschin ist ein Berg im Val Poschiavo.",
                   "category": "landmark",
                   "coords": [
                         10.06472,
@@ -3492,7 +3492,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Motta da Scioschin",
-                  "text": "Kilátásban gazdag hegycsúcs a svájci Alpokban, Poschiavo közelében.",
+                  "text": "A Motta da Scioschin egy hegy a Val Poschiavoban.",
                   "category": "landmark",
                   "coords": [
                         10.06472,
@@ -3548,7 +3548,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Motta da Scioschin",
-                  "text": "Un vârf pitoresc în Alpii Elvețieni, lângă Poschiavo.",
+                  "text": "Motta da Scioschin este un munte în Val Poschiavo.",
                   "category": "landmark",
                   "coords": [
                         10.06472,
@@ -3604,7 +3604,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Motta da Scioschin",
-                  "text": "A scenic summit in the Swiss Alps near Poschiavo.",
+                  "text": "Motta da Scioschin is a mountain in Val Poschiavo.",
                   "category": "landmark",
                   "coords": [
                         10.06472,
@@ -4453,7 +4453,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Rosablanche",
-                  "text": "Ein Berggipfel in der Region Lac de Cleuson.",
+                  "text": "Rosablanche ist ein Gipfel über dem Lac de Cleuson.",
                   "category": "landmark",
                   "coords": [
                         7.354236,
@@ -4462,7 +4462,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Petit Mont-Fort",
-                  "text": "Ein Berggipfel in der Region Lac de Cleuson.",
+                  "text": "Petit Mont-Fort ist ein Berg in der Nähe des Lac de Cleuson.",
                   "category": "landmark",
                   "coords": [
                         7.326729,
@@ -4471,7 +4471,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Le Parrain",
-                  "text": "Ein Berggipfel in der Region Lac de Cleuson.",
+                  "text": "Le Parrain ist ein Gipfel mit Blick auf den Lac de Cleuson.",
                   "category": "landmark",
                   "coords": [
                         7.35133,
@@ -4480,7 +4480,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Monts Rosets",
-                  "text": "Ein Berggipfel in der Region Lac de Cleuson.",
+                  "text": "Die Monts Rosets sind Gipfel rund um den Lac de Cleuson.",
                   "category": "landmark",
                   "coords": [
                         7.359466,
@@ -4489,7 +4489,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Pointe des Chamois",
-                  "text": "Ein Berggipfel in der Region Lac de Cleuson.",
+                  "text": "Pointe des Chamois ist ein Gipfel über dem Lac de Cleuson.",
                   "category": "landmark",
                   "coords": [
                         7.366818,
@@ -4498,7 +4498,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Le Métailler",
-                  "text": "Ein Berggipfel in der Region Lac de Cleuson.",
+                  "text": "Le Métailler ist ein Gipfel über dem Lac de Cleuson.",
                   "category": "landmark",
                   "coords": [
                         7.360348,
@@ -4507,7 +4507,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Lui des Chamois",
-                  "text": "Ein Berggipfel in der Region Lac de Cleuson.",
+                  "text": "Lui des Chamois ist ein Gipfel im Gebiet des Lac de Cleuson.",
                   "category": "landmark",
                   "coords": [
                         7.354646,
@@ -4527,7 +4527,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Rosablanche",
-                  "text": "Egy hegycsúcs Lac de Cleuson régiójában.",
+                  "text": "A Rosablanche egy csúcs a Lac de Cleuson felett.",
                   "category": "landmark",
                   "coords": [
                         7.354236,
@@ -4536,7 +4536,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Petit Mont-Fort",
-                  "text": "Egy hegycsúcs Lac de Cleuson régiójában.",
+                  "text": "A Petit Mont-Fort egy hegy a Lac de Cleuson közelében.",
                   "category": "landmark",
                   "coords": [
                         7.326729,
@@ -4545,7 +4545,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Le Parrain",
-                  "text": "Egy hegycsúcs Lac de Cleuson régiójában.",
+                  "text": "A Le Parrain egy csúcs, amely a Lac de Cleusonra néz.",
                   "category": "landmark",
                   "coords": [
                         7.35133,
@@ -4554,7 +4554,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Monts Rosets",
-                  "text": "Egy hegycsúcs Lac de Cleuson régiójában.",
+                  "text": "A Monts Rosets csúcsok a Lac de Cleuson körül.",
                   "category": "landmark",
                   "coords": [
                         7.359466,
@@ -4563,7 +4563,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Pointe des Chamois",
-                  "text": "Egy hegycsúcs Lac de Cleuson régiójában.",
+                  "text": "A Pointe des Chamois egy csúcs a Lac de Cleuson felett.",
                   "category": "landmark",
                   "coords": [
                         7.366818,
@@ -4572,7 +4572,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Le Métailler",
-                  "text": "Egy hegycsúcs Lac de Cleuson régiójában.",
+                  "text": "A Le Métailler egy csúcs a Lac de Cleuson felett.",
                   "category": "landmark",
                   "coords": [
                         7.360348,
@@ -4581,7 +4581,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Lui des Chamois",
-                  "text": "Egy hegycsúcs Lac de Cleuson régiójában.",
+                  "text": "A Lui des Chamois egy csúcs a Lac de Cleuson környékén.",
                   "category": "landmark",
                   "coords": [
                         7.354646,
@@ -4601,7 +4601,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Rosablanche",
-                  "text": "Un vârf muntos în regiunea Lac de Cleuson.",
+                  "text": "Rosablanche este un vârf deasupra Lacului de Cleuson.",
                   "category": "landmark",
                   "coords": [
                         7.354236,
@@ -4610,7 +4610,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Petit Mont-Fort",
-                  "text": "Un vârf muntos în regiunea Lac de Cleuson.",
+                  "text": "Petit Mont-Fort este un munte lângă Lacul de Cleuson.",
                   "category": "landmark",
                   "coords": [
                         7.326729,
@@ -4619,7 +4619,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Le Parrain",
-                  "text": "Un vârf muntos în regiunea Lac de Cleuson.",
+                  "text": "Le Parrain este un vârf care domină Lacul de Cleuson.",
                   "category": "landmark",
                   "coords": [
                         7.35133,
@@ -4628,7 +4628,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Monts Rosets",
-                  "text": "Un vârf muntos în regiunea Lac de Cleuson.",
+                  "text": "Monts Rosets sunt vârfuri în jurul Lacului de Cleuson.",
                   "category": "landmark",
                   "coords": [
                         7.359466,
@@ -4637,7 +4637,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Pointe des Chamois",
-                  "text": "Un vârf muntos în regiunea Lac de Cleuson.",
+                  "text": "Pointe des Chamois este un vârf deasupra Lacului de Cleuson.",
                   "category": "landmark",
                   "coords": [
                         7.366818,
@@ -4646,7 +4646,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Le Métailler",
-                  "text": "Un vârf muntos în regiunea Lac de Cleuson.",
+                  "text": "Le Métailler este un vârf deasupra Lacului de Cleuson.",
                   "category": "landmark",
                   "coords": [
                         7.360348,
@@ -4655,7 +4655,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Lui des Chamois",
-                  "text": "Un vârf muntos în regiunea Lac de Cleuson.",
+                  "text": "Lui des Chamois este un vârf în zona Lacului de Cleuson.",
                   "category": "landmark",
                   "coords": [
                         7.354646,
@@ -4675,7 +4675,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Rosablanche",
-                  "text": "A mountain peak in the Lac de Cleuson region.",
+                  "text": "Rosablanche is a peak above Lac de Cleuson.",
                   "category": "landmark",
                   "coords": [
                         7.354236,
@@ -4684,7 +4684,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Petit Mont-Fort",
-                  "text": "A mountain peak in the Lac de Cleuson region.",
+                  "text": "Petit Mont-Fort is a mountain near Lac de Cleuson.",
                   "category": "landmark",
                   "coords": [
                         7.326729,
@@ -4693,7 +4693,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Le Parrain",
-                  "text": "A mountain peak in the Lac de Cleuson region.",
+                  "text": "Le Parrain is a peak overlooking Lac de Cleuson.",
                   "category": "landmark",
                   "coords": [
                         7.35133,
@@ -4702,7 +4702,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Monts Rosets",
-                  "text": "A mountain peak in the Lac de Cleuson region.",
+                  "text": "Monts Rosets are peaks around Lac de Cleuson.",
                   "category": "landmark",
                   "coords": [
                         7.359466,
@@ -4711,7 +4711,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Pointe des Chamois",
-                  "text": "A mountain peak in the Lac de Cleuson region.",
+                  "text": "Pointe des Chamois is a summit above Lac de Cleuson.",
                   "category": "landmark",
                   "coords": [
                         7.366818,
@@ -4720,7 +4720,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Le Métailler",
-                  "text": "A mountain peak in the Lac de Cleuson region.",
+                  "text": "Le Métailler is a peak above Lac de Cleuson.",
                   "category": "landmark",
                   "coords": [
                         7.360348,
@@ -4729,7 +4729,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Lui des Chamois",
-                  "text": "A mountain peak in the Lac de Cleuson region.",
+                  "text": "Lui des Chamois is a peak in the Lac de Cleuson area.",
                   "category": "landmark",
                   "coords": [
                         7.354646,
@@ -4786,7 +4786,7 @@ export const switzerlandNatureV2: POI[] = [
       "de": [
             {
                   "name": "Madone",
-                  "text": "Ein markanter Berggipfel in der Region Val Bavona.",
+                  "text": "Madone ist ein Berg im Val Bavona.",
                   "category": "landmark",
                   "coords": [
                         8.532869,
@@ -4795,7 +4795,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Pizzo della Rossa",
-                  "text": "Ein Berggipfel in den Alpen des Val Bavona.",
+                  "text": "Pizzo della Rossa ist ein Gipfel im Val Bavona.",
                   "category": "landmark",
                   "coords": [
                         8.550965,
@@ -4804,7 +4804,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Madonino",
-                  "text": "Ein Gipfel in der Gebirgslandschaft des Val Bavona.",
+                  "text": "Madonino ist ein Gipfel im Val Bavona.",
                   "category": "landmark",
                   "coords": [
                         8.570047,
@@ -4822,7 +4822,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Camino",
-                  "text": "Ein Gipfel in der Schweizer Region Val Bavona.",
+                  "text": "Camino ist ein Berg im Val Bavona.",
                   "category": "landmark",
                   "coords": [
                         8.522505,
@@ -4840,7 +4840,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Pizzo Piènsgia",
-                  "text": "Ein Gipfel in den Bergen des Kantons Tessin.",
+                  "text": "Pizzo Piènsgia ist ein Gipfel im Val Bavona.",
                   "category": "landmark",
                   "coords": [
                         8.500785,
@@ -4860,7 +4860,7 @@ export const switzerlandNatureV2: POI[] = [
       "hu": [
             {
                   "name": "Madone",
-                  "text": "Egy jellegzetes hegycsúcs a Val Bavona régióban.",
+                  "text": "A Madone egy hegy a Val Bavonában.",
                   "category": "landmark",
                   "coords": [
                         8.532869,
@@ -4869,7 +4869,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Pizzo della Rossa",
-                  "text": "Hegycsúcs a Val Bavona-völgy felett az Alpokban.",
+                  "text": "A Pizzo della Rossa egy csúcs a Val Bavonában.",
                   "category": "landmark",
                   "coords": [
                         8.550965,
@@ -4878,7 +4878,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Madonino",
-                  "text": "Hegycsúcs a Val Bavona hegyvidéki táján.",
+                  "text": "A Madonino egy csúcs a Val Bavonában.",
                   "category": "landmark",
                   "coords": [
                         8.570047,
@@ -4896,7 +4896,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Camino",
-                  "text": "Egy hegycsúcs a svájci Val Bavona régióban.",
+                  "text": "A Camino egy hegy a Val Bavonában.",
                   "category": "landmark",
                   "coords": [
                         8.522505,
@@ -4914,7 +4914,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Pizzo Piènsgia",
-                  "text": "Hegycsúcs Ticino kanton hegyei között.",
+                  "text": "A Pizzo Piènsgia egy csúcs a Val Bavonában.",
                   "category": "landmark",
                   "coords": [
                         8.500785,
@@ -4934,7 +4934,7 @@ export const switzerlandNatureV2: POI[] = [
       "ro": [
             {
                   "name": "Madone",
-                  "text": "Un vârf montan proeminent în regiunea Val Bavona.",
+                  "text": "Madone este un munte în Val Bavona.",
                   "category": "landmark",
                   "coords": [
                         8.532869,
@@ -4943,7 +4943,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Pizzo della Rossa",
-                  "text": "Un vârf muntos în Alpii din Val Bavona.",
+                  "text": "Pizzo della Rossa este un vârf în Val Bavona.",
                   "category": "landmark",
                   "coords": [
                         8.550965,
@@ -4952,7 +4952,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Madonino",
-                  "text": "Un vârf în peisajul montan din Val Bavona.",
+                  "text": "Madonino este un vârf în Val Bavona.",
                   "category": "landmark",
                   "coords": [
                         8.570047,
@@ -4970,7 +4970,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Camino",
-                  "text": "Un vârf în regiunea elvețiană Val Bavona.",
+                  "text": "Camino este un munte în Val Bavona.",
                   "category": "landmark",
                   "coords": [
                         8.522505,
@@ -4988,7 +4988,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Pizzo Piènsgia",
-                  "text": "Un vârf în munții cantonului Ticino.",
+                  "text": "Pizzo Piènsgia este un vârf în Val Bavona.",
                   "category": "landmark",
                   "coords": [
                         8.500785,
@@ -5008,7 +5008,7 @@ export const switzerlandNatureV2: POI[] = [
       "en": [
             {
                   "name": "Madone",
-                  "text": "A prominent mountain peak in the Val Bavona region.",
+                  "text": "Madone is a mountain in Val Bavona.",
                   "category": "landmark",
                   "coords": [
                         8.532869,
@@ -5017,7 +5017,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Pizzo della Rossa",
-                  "text": "A mountain peak in the Alps of Val Bavona.",
+                  "text": "Pizzo della Rossa is a peak in Val Bavona.",
                   "category": "landmark",
                   "coords": [
                         8.550965,
@@ -5026,7 +5026,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Madonino",
-                  "text": "A peak in the mountainous landscape of Val Bavona.",
+                  "text": "Madonino is a peak in Val Bavona.",
                   "category": "landmark",
                   "coords": [
                         8.570047,
@@ -5044,7 +5044,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Camino",
-                  "text": "A peak in the Swiss region of Val Bavona.",
+                  "text": "Camino is a mountain in Val Bavona.",
                   "category": "landmark",
                   "coords": [
                         8.522505,
@@ -5062,7 +5062,7 @@ export const switzerlandNatureV2: POI[] = [
             },
             {
                   "name": "Pizzo Piènsgia",
-                  "text": "A peak in the mountains of the Ticino canton.",
+                  "text": "Pizzo Piènsgia is a peak in Val Bavona.",
                   "category": "landmark",
                   "coords": [
                         8.500785,

@@ -7,7 +7,7 @@ export const ukraineLifeV2: POI[] = [
       "de": [
             {
                   "name": "Askaniia-Nova",
-                  "text": "Ein Zoo innerhalb des Biosphärenreservats Askarija-Nowa.",
+                  "text": "Askaniia-Nova: ein bekanntes Steppenbiosphärenreservat und Erholungsgebiet, Heimat von Przewalski-Pferden.",
                   "category": "recreational",
                   "coords": [
                         33.87282,
@@ -18,7 +18,7 @@ export const ukraineLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Askaniia-Nova",
-                  "text": "Állatkert az Aszkanyija-Nova bioszféra-rezervátumban.",
+                  "text": "Askaniia-Nova: híres sztyeppei bioszféra-rezervátum és rekreációs terület, a Przewalski-lovak otthona.",
                   "category": "recreational",
                   "coords": [
                         33.87282,
@@ -29,7 +29,7 @@ export const ukraineLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Askaniia-Nova",
-                  "text": "O grădină zoologică în cadrul Rezervației de Biosferă Askania-Nova.",
+                  "text": "Askaniia-Nova: o celebră rezervație a biosferei de stepă și zonă de agrement, gazdă a cailor lui Przewalski.",
                   "category": "recreational",
                   "coords": [
                         33.87282,
@@ -40,7 +40,7 @@ export const ukraineLifeV2: POI[] = [
       "en": [
             {
                   "name": "Askaniia-Nova",
-                  "text": "A zoo within the Askaniya-Nova Biosphere Reserve.",
+                  "text": "Askaniia-Nova: a renowned steppe biosphere reserve and recreational area, home to Przewalski's horses.",
                   "category": "recreational",
                   "coords": [
                         33.87282,

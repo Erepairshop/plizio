@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraLaosReliefV2: POI[] = [
   {
-    id: "phou-bia-relief-v2",
+    id: "phou-bia-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "ພູເບຍ",
+                  "text": "Der höchste Berg von Laos, der eine Höhe von 2.819 Metern über dem Meeresspiegel erreicht.",
+                  "category": "natural",
+                  "coords": [
+                        103.151608,
+                        18.980764
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ພູເບຍ",
+                  "text": "Laosz legmagasabb hegye, amely 2819 méteres tengerszint feletti magasságot ér el.",
+                  "category": "natural",
+                  "coords": [
+                        103.151608,
+                        18.980764
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ພູເບຍ",
+                  "text": "Cel mai înalt munte din Laos, care atinge o altitudine de 2.819 metri deasupra nivelului mării.",
+                  "category": "natural",
+                  "coords": [
+                        103.151608,
+                        18.980764
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Phou Bia",
+                  "text": "The highest mountain in Laos, reaching an elevation of 2,819 metres above sea level.",
+                  "category": "natural",
+                  "coords": [
+                        103.151608,
+                        18.980764
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "LA-XS",
     coords: [103.144, 18.981],
@@ -101,7 +146,52 @@ export const poiExtraLaosReliefV2: POI[] = [
       fr: ["Altitude moyenne d'environ 1 100 mètres.", "A été fortement bombardé pendant la guerre du Vietnam."],
     }, image: "/poi-images/xiangkhoang-plateau-relief-v2.webp"},
   {
-    id: "bolaven-plateau-relief-v2",
+    id: "bolaven-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Phou Dan",
+                  "text": "Phou Dan ist ein markanter Gipfel, der sich aus der Vulkanlandschaft des malerischen Bolaven-Plateaus erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        106.086103,
+                        15.129883
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Phou Dan",
+                  "text": "A Phou Dan egy kiemelkedő hegycsúcs, amely a festői Bolaven-fennsík vulkáni tájából emelkedik ki.",
+                  "category": "natural",
+                  "coords": [
+                        106.086103,
+                        15.129883
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Phou Dan",
+                  "text": "Phou Dan este un vârf proeminent care se înalță din peisajul vulcanic al pitorescului Podiș Bolaven.",
+                  "category": "natural",
+                  "coords": [
+                        106.086103,
+                        15.129883
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Phou Dan",
+                  "text": "Phou Dan is a prominent peak rising from the volcanic landscape of the scenic Bolaven Plateau.",
+                  "category": "natural",
+                  "coords": [
+                        106.086103,
+                        15.129883
+                  ]
+            }
+      ]
+},
     type: "plateau",
     parent: "LA-CH",
     coords: [106.05, 15.166667],
@@ -199,7 +289,124 @@ export const poiExtraLaosReliefV2: POI[] = [
       fr: ["Fait partie d'un grand corridor de biodiversité protégé.", "Abrite de nombreuses espèces rares et menacées."],
     }, image: "/poi-images/phou-den-din-relief-v2.webp"},
   {
-    id: "nam-ou-valley-relief-v2",
+    id: "nam-ou-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Manifa Elephant Camp",
+                  "text": "Ein Camp am Ufer des Mekong, das sich auf ethischen Tourismus und den Schutz arbeitender Elefanten spezialisiert hat.",
+                  "category": "recreational",
+                  "coords": [
+                        102.228174,
+                        20.017743
+                  ]
+            },
+            {
+                  "name": "Mahout Elephant Training",
+                  "text": "In diesem Trainingszentrum lernen Besucher von erfahrenen Mahouts die traditionelle Pflege und Führung von Elefanten.",
+                  "category": "recreational",
+                  "coords": [
+                        102.215708,
+                        20.052067
+                  ]
+            },
+            {
+                  "name": "Pak Ou Caves",
+                  "text": "Diese berühmten Höhlen am Mekong beherbergen tausende goldene Buddha-Statuen verschiedenster Größen.",
+                  "category": "landmark",
+                  "coords": [
+                        102.210967,
+                        20.049074
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Manifa Elephant Camp",
+                  "text": "A Mekong partján fekvő tábor, amely az etikus turizmusra és a munkás elefántok védelmére szakosodott.",
+                  "category": "recreational",
+                  "coords": [
+                        102.228174,
+                        20.017743
+                  ]
+            },
+            {
+                  "name": "Mahout Elephant Training",
+                  "text": "Ebben a központban a látogatók tapasztalt mahoutoktól tanulhatják meg az elefántok hagyományos gondozását és irányítását.",
+                  "category": "recreational",
+                  "coords": [
+                        102.215708,
+                        20.052067
+                  ]
+            },
+            {
+                  "name": "Pak Ou Caves",
+                  "text": "Ezek a híres barlangok a Mekong partján több ezer különböző méretű, aranyozott Buddha-szobornak adnak otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        102.210967,
+                        20.049074
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Manifa Elephant Camp",
+                  "text": "O tabără pe malul Mekongului, specializată în turism etic și protecția elefanților care au lucrat în exploatări forestiere.",
+                  "category": "recreational",
+                  "coords": [
+                        102.228174,
+                        20.017743
+                  ]
+            },
+            {
+                  "name": "Mahout Elephant Training",
+                  "text": "În acest centru, vizitatorii învață de la mahouți experimentați îngrijirea și ghidarea tradițională a elefanților.",
+                  "category": "recreational",
+                  "coords": [
+                        102.215708,
+                        20.052067
+                  ]
+            },
+            {
+                  "name": "Pak Ou Caves",
+                  "text": "Aceste peșteri faimoase de pe malul Mekongului adăpostesc mii de statui de Buddha aurite, de diverse dimensiuni.",
+                  "category": "landmark",
+                  "coords": [
+                        102.210967,
+                        20.049074
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Manifa Elephant Camp",
+                  "text": "A camp on the banks of the Mekong specializing in ethical tourism and the protection of former logging elephants.",
+                  "category": "recreational",
+                  "coords": [
+                        102.228174,
+                        20.017743
+                  ]
+            },
+            {
+                  "name": "Mahout Elephant Training",
+                  "text": "At this center, visitors learn traditional elephant care and communication from experienced mahouts.",
+                  "category": "recreational",
+                  "coords": [
+                        102.215708,
+                        20.052067
+                  ]
+            },
+            {
+                  "name": "Pak Ou Caves",
+                  "text": "These famous caves on the Mekong riverbank house thousands of gilded Buddha statues of various sizes.",
+                  "category": "landmark",
+                  "coords": [
+                        102.210967,
+                        20.049074
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "LA-LP",
     coords: [102.216667, 20.05],
@@ -298,7 +505,88 @@ export const poiExtraLaosReliefV2: POI[] = [
     },
   },
   {
-    id: "nakai-plateau-relief-v2",
+    id: "nakai-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nam Theun 2 Visitor Center",
+                  "text": "Das Nam Theun 2 Visitor Center auf dem Nakai-Plateau dient als informatives Museum, das das massive Staudammprojekt und seine Auswirkungen detailliert beschreibt.",
+                  "category": "museum",
+                  "coords": [
+                        105.153551,
+                        17.676027
+                  ]
+            },
+            {
+                  "name": "Orchideen Pfad",
+                  "text": "Der Orchid Trail ist ein malerischer Aussichtsweg entlang des Nakai-Plateaus, der darauf ausgelegt ist, verschiedene wilde Orchideen in ihrem natürlichen Lebensraum zu entdecken.",
+                  "category": "natural",
+                  "coords": [
+                        105.091315,
+                        17.753341
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nam Theun 2 Visitor Center",
+                  "text": "A Nakai-fennsíkon található Nam Theun 2 Látogatóközpont egy informatív múzeumként szolgál, amely bemutatja a hatalmas vízerőmű gátprojektjét és annak hatásait.",
+                  "category": "museum",
+                  "coords": [
+                        105.153551,
+                        17.676027
+                  ]
+            },
+            {
+                  "name": "San Sidha",
+                  "text": "Az Orchidea-ösvény egy festői kilátó útvonal a Nakai-fennsík mentén, amelyet a különböző vadon élő orchideák természetes élőhelyükön történő megfigyelésére hoztak létre.",
+                  "category": "natural",
+                  "coords": [
+                        105.091315,
+                        17.753341
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nam Theun 2 Visitor Center",
+                  "text": "Centrul pentru vizitatori Nam Theun 2 de pe Platoul Nakai servește ca un muzeu informativ care detaliază masivul proiect al barajului hidroelectric și impactul său.",
+                  "category": "museum",
+                  "coords": [
+                        105.153551,
+                        17.676027
+                  ]
+            },
+            {
+                  "name": "San Sidha",
+                  "text": "Traseul Orhideelor este o potecă pitorească de belvedere de-a lungul Platoului Nakai, concepută pentru a observa diverse orhidee sălbatice în habitatul lor natural.",
+                  "category": "natural",
+                  "coords": [
+                        105.091315,
+                        17.753341
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nam Theun 2 Visitor Center",
+                  "text": "The Nam Theun 2 Visitor Center on the Nakai Plateau serves as an informative museum detailing the massive hydroelectric dam project and its impact.",
+                  "category": "museum",
+                  "coords": [
+                        105.153551,
+                        17.676027
+                  ]
+            },
+            {
+                  "name": "Orchid Trail",
+                  "text": "The Orchid Trail is a scenic viewpoint path along the Nakai Plateau, designed for spotting diverse wild orchids in their natural habitat.",
+                  "category": "natural",
+                  "coords": [
+                        105.091315,
+                        17.753341
+                  ]
+            }
+      ]
+},
     type: "plateau",
     parent: "LA-KH",
     coords: [105.15, 17.7],
@@ -347,7 +635,124 @@ export const poiExtraLaosReliefV2: POI[] = [
       fr: ["Le plateau est une zone de biodiversité majeure.", "Habitat du Saola, une espèce d'antilope en voie de disparition."],
     }, image: "/poi-images/nakai-plateau-relief-v2.webp"},
   {
-    id: "phou-khoun-pass-relief-v2",
+    id: "phou-khoun-pass-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Phu Paing Far",
+                  "text": "Ein hochgelegener Aussichtspunkt am Phou-Khoun-Pass mit Blick über die zerklüfteten Bergketten.",
+                  "category": "natural",
+                  "coords": [
+                        102.42618,
+                        19.389202
+                  ]
+            },
+            {
+                  "name": "Viewpoint (great views to the east: north end)",
+                  "text": "Dieser nördliche Aussichtspunkt bietet ein weites Panorama über die Täler nach Osten.",
+                  "category": "natural",
+                  "coords": [
+                        102.42691,
+                        19.365851
+                  ]
+            },
+            {
+                  "name": "great views to the east: south end",
+                  "text": "Vom südlichen Ende des Passes aus blickt man tief in die grünen Bergnebelwälder.",
+                  "category": "natural",
+                  "coords": [
+                        102.416396,
+                        19.348663
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Phu Paing Far",
+                  "text": "Magaslati kilátópont a Phou Khoun-hágónál, rálátással a szaggatott hegyvonulatokra.",
+                  "category": "natural",
+                  "coords": [
+                        102.42618,
+                        19.389202
+                  ]
+            },
+            {
+                  "name": "Viewpoint (great views to the east: north end)",
+                  "text": "Ez az északi kilátóhely széles panorámát nyújt a keleti irányba fekvő völgyekre.",
+                  "category": "natural",
+                  "coords": [
+                        102.42691,
+                        19.365851
+                  ]
+            },
+            {
+                  "name": "great views to the east: south end",
+                  "text": "A hágó déli végéből mély kilátás nyílik a zöldellő hegyi köderdőkre.",
+                  "category": "natural",
+                  "coords": [
+                        102.416396,
+                        19.348663
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Phu Paing Far",
+                  "text": "Un punct de observație la mare altitudine pe pasul Phou Khoun, cu vedere spre lanțurile muntoase abrupte.",
+                  "category": "natural",
+                  "coords": [
+                        102.42618,
+                        19.389202
+                  ]
+            },
+            {
+                  "name": "Viewpoint (great views to the east: north end)",
+                  "text": "Acest punct de observație nordic oferü o panoramă largă asupra văilor dinspre est.",
+                  "category": "natural",
+                  "coords": [
+                        102.42691,
+                        19.365851
+                  ]
+            },
+            {
+                  "name": "great views to the east: south end",
+                  "text": "Din capătul sudic al pasului se pot vedea văile adânci cu păduri tropicale montane.",
+                  "category": "natural",
+                  "coords": [
+                        102.416396,
+                        19.348663
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Phu Paing Far",
+                  "text": "A high-altitude viewpoint on the Phou Khoun pass with vistas across the rugged mountain ranges.",
+                  "category": "natural",
+                  "coords": [
+                        102.42618,
+                        19.389202
+                  ]
+            },
+            {
+                  "name": "Viewpoint (great views to the east: north end)",
+                  "text": "This northern vantage point offers a wide panorama over the valleys to the east.",
+                  "category": "natural",
+                  "coords": [
+                        102.42691,
+                        19.365851
+                  ]
+            },
+            {
+                  "name": "great views to the east: south end",
+                  "text": "From the southern end of the pass, one can look deep into the verdant mountain cloud forests.",
+                  "category": "natural",
+                  "coords": [
+                        102.416396,
+                        19.348663
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "LA-LP",
     coords: [102.48, 19.33],
@@ -494,7 +899,52 @@ export const poiExtraLaosReliefV2: POI[] = [
       fr: ["Fait partie de la chaîne Annamitique.", "La zone est couverte d'une forêt dense."],
     }, image: "/poi-images/phou-ane-relief-v2.webp"},
   {
-    id: "plain-of-jars-relief-v2",
+    id: "plain-of-jars-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stupa",
+                  "text": "Dieser buddhistische Stupa ist ein spirituelles Denkmal in der Nähe der alten megalithischen Landschaft der Ebene der Tonkrüge.",
+                  "category": "landmark",
+                  "coords": [
+                        103.231183,
+                        19.453967
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stupa",
+                  "text": "Ez a buddhista sztúpa egy spirituális emlékmű a Korsók völgyének ősi megalitikus tája közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        103.231183,
+                        19.453967
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stupa",
+                  "text": "Această stupă budistă este un monument spiritual situat în apropierea peisajului megalitic antic din Câmpia Urcioarelor.",
+                  "category": "landmark",
+                  "coords": [
+                        103.231183,
+                        19.453967
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stupa",
+                  "text": "This Buddhist stupa is a spiritual monument situated near the ancient megalithic landscape of the Plain of Jars.",
+                  "category": "landmark",
+                  "coords": [
+                        103.231183,
+                        19.453967
+                  ]
+            }
+      ]
+},
     type: "plateau",
     parent: "LA-XI",
     coords: [103.21, 19.47],
@@ -593,7 +1043,88 @@ export const poiExtraLaosReliefV2: POI[] = [
     },
   },
   {
-    id: "mekong-river-valley-vientiane-relief-v2",
+    id: "mekong-river-valley-vientiane-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Naga Beach",
+                  "text": "Naga Beach ist ein malerischer Sandstrand am Ufer des Mekong, nahe der laotischen Hauptstadt Vientiane.",
+                  "category": "landmark",
+                  "coords": [
+                        102.594016,
+                        17.965713
+                  ]
+            },
+            {
+                  "name": "ວັດ ອິນແປງ",
+                  "text": "Der Inpeng-Tempel ist eine historische Kultstätte im Tal des Mekong bei Vientiane.",
+                  "category": "religious",
+                  "coords": [
+                        102.602579,
+                        17.966349
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Naga Beach",
+                  "text": "A Naga Beach egy festői homokos part a Mekong folyó mentén, Vientiane közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        102.594016,
+                        17.965713
+                  ]
+            },
+            {
+                  "name": "ວັດ ອິນແປງ",
+                  "text": "Az Inpeng templom egy történelmi istentiszteleti hely a Mekong völgyében, Vientiane közelében.",
+                  "category": "religious",
+                  "coords": [
+                        102.602579,
+                        17.966349
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Naga Beach",
+                  "text": "Naga Beach este o plajă pitorească de nisip pe malul râului Mekong, lângă Vientiane.",
+                  "category": "landmark",
+                  "coords": [
+                        102.594016,
+                        17.965713
+                  ]
+            },
+            {
+                  "name": "ວັດ ອິນແປງ",
+                  "text": "Templul Inpeng este un lăcaș de cult istoric situat în valea râului Mekong, lângă Vientiane.",
+                  "category": "religious",
+                  "coords": [
+                        102.602579,
+                        17.966349
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Naga Beach",
+                  "text": "Naga Beach is a picturesque sandy shoreline along the Mekong River near Vientiane.",
+                  "category": "landmark",
+                  "coords": [
+                        102.594016,
+                        17.965713
+                  ]
+            },
+            {
+                  "name": "Inpeng Temple",
+                  "text": "The Inpeng Temple is a historic place of worship located in the Mekong River valley near Vientiane.",
+                  "category": "religious",
+                  "coords": [
+                        102.602579,
+                        17.966349
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "LA-VT",
     coords: [102.6, 17.966667],
@@ -740,7 +1271,412 @@ export const poiExtraLaosReliefV2: POI[] = [
       fr: ["Un lieu prisé pour observer le coucher de soleil sur le Mékong.", "Le stupa est un sanctuaire bouddhiste important."],
     }, image: "/poi-images/phou-that-relief-v2.webp"},
   {
-    id: "sayaboury-highlands-relief-v2",
+    id: "sayaboury-highlands-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Elephant Conservation Center",
+                  "text": "Ein ethisches Schutzzentrum am Nam-Tien-See, das sich um gerettete Elefanten kümmert.",
+                  "category": "landmark",
+                  "coords": [
+                        101.653135,
+                        19.232588
+                  ]
+            },
+            {
+                  "name": "ສວນຊ້າງ",
+                  "text": "Ein Naturareal in der Provinz Sayaboury, das der Erhaltung des asiatischen Elefanten gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        101.715097,
+                        19.261293
+                  ]
+            },
+            {
+                  "name": "Wat Natornoy",
+                  "text": "Ein ländlicher buddhistischer Tempel, der das Zentrum des religiösen Lebens im Dorf Natornoy bildet.",
+                  "category": "landmark",
+                  "coords": [
+                        101.71167,
+                        19.235235
+                  ]
+            },
+            {
+                  "name": "Wat Keng",
+                  "text": "Ein schlichter Wat im Hochland mit klassischen Wandmalereien und einer ruhigen Atmosphäre.",
+                  "category": "landmark",
+                  "coords": [
+                        101.7092,
+                        19.248226
+                  ]
+            },
+            {
+                  "name": "Nalao Temple",
+                  "text": "Ein kleiner Dorftempel, der für seine traditionellen Holzschnitzereien bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        101.715835,
+                        19.241587
+                  ]
+            },
+            {
+                  "name": "Wat Phapoun",
+                  "text": "Ein buddhistischer Kultplatz im Hochland mit Blick auf die umliegenden Hügel.",
+                  "category": "landmark",
+                  "coords": [
+                        101.714012,
+                        19.249663
+                  ]
+            },
+            {
+                  "name": "Wat Sibounheuang",
+                  "text": "Ein bedeutender Tempel in Sayaboury mit einem prächtig verzierten Hauptsaal.",
+                  "category": "landmark",
+                  "coords": [
+                        101.717617,
+                        19.248889
+                  ]
+            },
+            {
+                  "name": "Done Temple",
+                  "text": "Ein friedliches Wat in Flussnähe, das für seine Zeremonien zum Vollmond bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        101.704033,
+                        19.25112
+                  ]
+            },
+            {
+                  "name": "Wat Sisawangvong",
+                  "text": "Ein Tempel, der nach dem laotischen König Sisavang Vong benannt wurde und königliche Embleme trägt.",
+                  "category": "landmark",
+                  "coords": [
+                        101.711551,
+                        19.265101
+                  ]
+            },
+            {
+                  "name": "Symoungkhoune Market",
+                  "text": "Ein lebhafter Marktplatz, auf dem die umliegenden Bergvölker ihre landwirtschaftlichen Produkte verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        101.70788,
+                        19.2694
+                  ]
+            },
+            {
+                  "name": "\"New\" Chinese Market",
+                  "text": "Eine moderne Markthalle, die auf Handelsgüter und Elektronik spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        101.708161,
+                        19.268146
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Elephant Conservation Center",
+                  "text": "Etikus mentőközpont a Nam Tien-tónál, amely mentett elefántok gondozásával foglalkozik.",
+                  "category": "landmark",
+                  "coords": [
+                        101.653135,
+                        19.232588
+                  ]
+            },
+            {
+                  "name": "ສວນຊ້າງ",
+                  "text": "Természetvédelmi terület Szajaburi tartományban, az ázsiai elefántok megőrzésére.",
+                  "category": "landmark",
+                  "coords": [
+                        101.715097,
+                        19.261293
+                  ]
+            },
+            {
+                  "name": "Wat Natornoy",
+                  "text": "Vidéki buddhista templom, amely Natornoy falu vallási életének központja.",
+                  "category": "landmark",
+                  "coords": [
+                        101.71167,
+                        19.235235
+                  ]
+            },
+            {
+                  "name": "Wat Keng",
+                  "text": "Egyszerű felföldi buddhista templom klasszikus falfestményekkel és nyugodt légkörrel.",
+                  "category": "landmark",
+                  "coords": [
+                        101.7092,
+                        19.248226
+                  ]
+            },
+            {
+                  "name": "Nalao Temple",
+                  "text": "Kicsi falusi templom, amely hagyományos fafaragványairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        101.715835,
+                        19.241587
+                  ]
+            },
+            {
+                  "name": "Wat Phapoun",
+                  "text": "Felföldi buddhista kegyhely, ahonnan rálátni a környező dombokra.",
+                  "category": "landmark",
+                  "coords": [
+                        101.714012,
+                        19.249663
+                  ]
+            },
+            {
+                  "name": "Wat Sibounheuang",
+                  "text": "Jelentős templom Szajaburiban, pompásan díszített központi teremmel.",
+                  "category": "landmark",
+                  "coords": [
+                        101.717617,
+                        19.248889
+                  ]
+            },
+            {
+                  "name": "Done Temple",
+                  "text": "Békés buddhista templom a folyó közelében, amely a telihold-szertartásairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        101.704033,
+                        19.25112
+                  ]
+            },
+            {
+                  "name": "Wat Sisawangvong",
+                  "text": "A laoszi Sziszavang Vong királyról elnevezett templom királyi jelképekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        101.711551,
+                        19.265101
+                  ]
+            },
+            {
+                  "name": "Symoungkhoune Market",
+                  "text": "Nyüzsgő piactér, ahol a környékbeli hegyi törzsek árusítják mezőgazdasági termékeiket.",
+                  "category": "cultural",
+                  "coords": [
+                        101.70788,
+                        19.2694
+                  ]
+            },
+            {
+                  "name": "\"New\" Chinese Market",
+                  "text": "Modern piaccsarnok, amely kereskedelmi árukra és elektronikára specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        101.708161,
+                        19.268146
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Elephant Conservation Center",
+                  "text": "Un centru de salvare etic pe lacul Nam Tien, care se ocupă de îngrijirea elefanților salvați.",
+                  "category": "landmark",
+                  "coords": [
+                        101.653135,
+                        19.232588
+                  ]
+            },
+            {
+                  "name": "ສວນຊ້າງ",
+                  "text": "O zonă naturală din provincia Sayaboury dedicată conservării elefantului asiatic.",
+                  "category": "landmark",
+                  "coords": [
+                        101.715097,
+                        19.261293
+                  ]
+            },
+            {
+                  "name": "Wat Natornoy",
+                  "text": "Un templu budist rural care formează centrul vieții religioase în satul Natornoy.",
+                  "category": "landmark",
+                  "coords": [
+                        101.71167,
+                        19.235235
+                  ]
+            },
+            {
+                  "name": "Wat Keng",
+                  "text": "Un templu simplu de munte cu picturi murale clasice și o atmosferă liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        101.7092,
+                        19.248226
+                  ]
+            },
+            {
+                  "name": "Nalao Temple",
+                  "text": "Un mic templu de sat cunoscut pentru sculpturile sale tradiționale în lemn.",
+                  "category": "landmark",
+                  "coords": [
+                        101.715835,
+                        19.241587
+                  ]
+            },
+            {
+                  "name": "Wat Phapoun",
+                  "text": "Un lăcaș de cult budist de munte cu vedere spre dealurile înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        101.714012,
+                        19.249663
+                  ]
+            },
+            {
+                  "name": "Wat Sibounheuang",
+                  "text": "Un templu important din Sayaboury cu o sală principală decorată magnific.",
+                  "category": "landmark",
+                  "coords": [
+                        101.717617,
+                        19.248889
+                  ]
+            },
+            {
+                  "name": "Done Temple",
+                  "text": "Un templu liniștit lângă râu, cunoscut pentru ceremoniile sale de lună plină.",
+                  "category": "landmark",
+                  "coords": [
+                        101.704033,
+                        19.25112
+                  ]
+            },
+            {
+                  "name": "Wat Sisawangvong",
+                  "text": "Un templu numit după regele laoțian Sisavang Vong, purtând embleme regale.",
+                  "category": "landmark",
+                  "coords": [
+                        101.711551,
+                        19.265101
+                  ]
+            },
+            {
+                  "name": "Symoungkhoune Market",
+                  "text": "O piață plină de viață unde triburile montane din jur își vând produsele agricole.",
+                  "category": "cultural",
+                  "coords": [
+                        101.70788,
+                        19.2694
+                  ]
+            },
+            {
+                  "name": "\"New\" Chinese Market",
+                  "text": "O hală modernă de piață specializată în bunuri comerciale și electronice.",
+                  "category": "cultural",
+                  "coords": [
+                        101.708161,
+                        19.268146
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Elephant Conservation Center",
+                  "text": "An ethical rescue center on Nam Tien Lake focused on the care of rescued elephants.",
+                  "category": "landmark",
+                  "coords": [
+                        101.653135,
+                        19.232588
+                  ]
+            },
+            {
+                  "name": "Elephant Park",
+                  "text": "A natural area in Sayaboury province dedicated to the conservation of the Asian elephant.",
+                  "category": "landmark",
+                  "coords": [
+                        101.715097,
+                        19.261293
+                  ]
+            },
+            {
+                  "name": "Natornoy Temple",
+                  "text": "A rural Buddhist temple that forms the center of religious life in Natornoy village.",
+                  "category": "landmark",
+                  "coords": [
+                        101.71167,
+                        19.235235
+                  ]
+            },
+            {
+                  "name": "Keng Temple",
+                  "text": "A simple highland wat featuring classic murals and a peaceful atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        101.7092,
+                        19.248226
+                  ]
+            },
+            {
+                  "name": "Nalao Temple",
+                  "text": "A small village temple known for its traditional wood carvings.",
+                  "category": "landmark",
+                  "coords": [
+                        101.715835,
+                        19.241587
+                  ]
+            },
+            {
+                  "name": "Phapoun Temple",
+                  "text": "A highland Buddhist place of worship overlooking the surrounding hills.",
+                  "category": "landmark",
+                  "coords": [
+                        101.714012,
+                        19.249663
+                  ]
+            },
+            {
+                  "name": "Sibounheuang Temple",
+                  "text": "A significant temple in Sayaboury featuring a magnificently decorated main hall.",
+                  "category": "landmark",
+                  "coords": [
+                        101.717617,
+                        19.248889
+                  ]
+            },
+            {
+                  "name": "Done Temple",
+                  "text": "A peaceful wat near the river, known for its full moon ceremonies.",
+                  "category": "landmark",
+                  "coords": [
+                        101.704033,
+                        19.25112
+                  ]
+            },
+            {
+                  "name": "Sisawangvon Temple",
+                  "text": "A temple named after the Lao King Sisavang Vong, featuring royal emblems.",
+                  "category": "landmark",
+                  "coords": [
+                        101.711551,
+                        19.265101
+                  ]
+            },
+            {
+                  "name": "Symoungkhoune Market",
+                  "text": "A vibrant marketplace where surrounding hill tribes sell their agricultural products.",
+                  "category": "cultural",
+                  "coords": [
+                        101.70788,
+                        19.2694
+                  ]
+            },
+            {
+                  "name": "\"New\" Chinese Market",
+                  "text": "A modern market hall specializing in trade goods and electronics.",
+                  "category": "cultural",
+                  "coords": [
+                        101.708161,
+                        19.268146
+                  ]
+            }
+      ]
+},
     type: "plateau",
     parent: "LA-XA",
     coords: [101.7, 19.25],
@@ -789,7 +1725,304 @@ export const poiExtraLaosReliefV2: POI[] = [
       fr: ["La province de Sayaboury est la principale zone de répartition des éléphants d'Asie au Laos.", "Anciennement une partie importante du royaume de Lan Xang."],
     }, image: "/poi-images/sayaboury-highlands-relief-v2.webp"},
   {
-    id: "nam-ngum-reservoir-valley-relief-v2",
+    id: "nam-ngum-reservoir-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vang Xang",
+                  "text": "Eine antike buddhistische Ausgrabungsstätte mit großen Buddhastatuen, die direkt in die Felswand im Nam-Ngum-Tal gehauen wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        102.42596,
+                        18.445411
+                  ]
+            },
+            {
+                  "name": "ວັດໂພນສະຫວາດ",
+                  "text": "Eine spirituelle Kultstätte eingebettet in das malerische Nam-Ngum-Stauseetal, die einen ruhigen Rückzugsort für Gebet und Besinnung bietet.",
+                  "category": "religious",
+                  "coords": [
+                        102.464561,
+                        18.494739
+                  ]
+            },
+            {
+                  "name": "ພະທາດດອນແກ້ວ",
+                  "text": "Ein verehrter religiöser Stupa in der Region Nam Ngum, der heilige Reliquien beherbergt und als Mittelpunkt für lokale Pilgerfahrten dient.",
+                  "category": "religious",
+                  "coords": [
+                        102.47644,
+                        18.487987
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານເມືອງເກົ່າ",
+                  "text": "Dieser traditionelle buddhistische Tempelkomplex liegt im alten Siedlungsgebiet des Nam-Ngum-Tals und bewahrt das klösterliche Erbe der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        102.536959,
+                        18.429625
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານທ່າໂພໄຊ",
+                  "text": "Ein dörflicher buddhistischer Tempel in der Nähe des Nam-Ngum-Stausees, der eine markant dekorierte Ordinationshalle für die lokale klösterliche Gemeinschaft aufweist.",
+                  "category": "landmark",
+                  "coords": [
+                        102.533828,
+                        18.42189
+                  ]
+            },
+            {
+                  "name": "Wat Nam Cheng",
+                  "text": "Dieser 1994 im Nam-Ngum-Tal errichtete buddhistische Tempel weist moderne Elemente der traditionellen südostasiatischen Klosterarchitektur auf.",
+                  "category": "landmark",
+                  "coords": [
+                        102.411503,
+                        18.469065
+                  ]
+            },
+            {
+                  "name": "ຕະຫລາດທ່າລາດ",
+                  "text": "Ein belebter Gemeindemarkt in Thalad, der neben lokalen landwirtschaftlichen Erzeugnissen auch frisch gefangenen Fisch aus dem nahegelegenen Nam-Ngum-Stausee anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        102.50789,
+                        18.520981
+                  ]
+            },
+            {
+                  "name": "ຕະຫລາດບ້ານ ໂພນໝີ",
+                  "text": "Dieser lokale Markt in der Nähe des Nam-Ngum-Stausees bietet ein authentisches Einkaufserlebnis mit Ständen voller Gewürze, Gemüse und Dingen des täglichen Bedarfs.",
+                  "category": "cultural",
+                  "coords": [
+                        102.48314,
+                        18.477139
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vang Xang",
+                  "text": "Ősi buddhista régészeti lelőhely a Nam Ngum völgyében, ahol közvetlenül a sziklafalba faragott hatalmas Buddha-szobrok találhatók.",
+                  "category": "landmark",
+                  "coords": [
+                        102.42596,
+                        18.445411
+                  ]
+            },
+            {
+                  "name": "ວັດໂພນສະຫວາດ",
+                  "text": "Spirituális imahely a festői Nam Ngum víztározó völgyében, amely csendes menedéket nyújt az imádkozáshoz és az elmélkedéshez.",
+                  "category": "religious",
+                  "coords": [
+                        102.464561,
+                        18.494739
+                  ]
+            },
+            {
+                  "name": "ພະທາດດອນແກ້ວ",
+                  "text": "Egy tisztelt vallási sztúpa a Nam Ngum régióban, amely szent ereklyéket őriz, és a helyi zarándoklatok központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        102.47644,
+                        18.487987
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານເມືອງເກົ່າ",
+                  "text": "Ez a hagyományos buddhista templomkomplexum a Nam Ngum völgy régi településrészén fekszik, megőrizve a helyi szerzetesi örökséget.",
+                  "category": "landmark",
+                  "coords": [
+                        102.536959,
+                        18.429625
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານທ່າໂພໄຊ",
+                  "text": "Egy falu buddhista temploma a Nam Ngum víztározó közelében, amely a helyi szerzetesi közösség számára egy jellegzetesen díszített felszentelési csarnokot kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        102.533828,
+                        18.42189
+                  ]
+            },
+            {
+                  "name": "Wat Nam Cheng",
+                  "text": "Az 1994-ben, a Nam Ngum völgyében alapított buddhista templom a hagyományos délkelet-ázsiai kolostorépítészet modern elemeit ötvözi.",
+                  "category": "landmark",
+                  "coords": [
+                        102.411503,
+                        18.469065
+                  ]
+            },
+            {
+                  "name": "ຕະຫລາດທ່າລາດ",
+                  "text": "Nyüzsgő közösségi piac Thaladban, amely a közeli Nam Ngum víztározóból származó frissen fogott halakat kínál a helyi termékek mellett.",
+                  "category": "cultural",
+                  "coords": [
+                        102.50789,
+                        18.520981
+                  ]
+            },
+            {
+                  "name": "ຕະຫລາດບ້ານ ໂພນໝີ",
+                  "text": "Ez a Nam Ngum víztározó közelében található helyi piac autentikus vásárlási élményt nyújt fűszerekkel, zöldségekkel és napi szükségleti cikkekkel teli standjaival.",
+                  "category": "cultural",
+                  "coords": [
+                        102.48314,
+                        18.477139
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vang Xang",
+                  "text": "Un sit arheologic budist antic cu statui mari ale lui Buddha sculptate direct în peretele stâncos din valea Nam Ngum.",
+                  "category": "landmark",
+                  "coords": [
+                        102.42596,
+                        18.445411
+                  ]
+            },
+            {
+                  "name": "ວັດໂພນສະຫວາດ",
+                  "text": "Un lăcaș de cult spiritual cuibărit în pitoreasca vale a lacului de acumulare Nam Ngum, oferind un refugiu liniștit pentru rugăciune și reflecție.",
+                  "category": "religious",
+                  "coords": [
+                        102.464561,
+                        18.494739
+                  ]
+            },
+            {
+                  "name": "ພະທາດດອນແກ້ວ",
+                  "text": "O stupă religioasă venerată din regiunea Nam Ngum, adăpostind moaște sacre și servind ca punct central pentru pelerinajele locale.",
+                  "category": "religious",
+                  "coords": [
+                        102.47644,
+                        18.487987
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານເມືອງເກົ່າ",
+                  "text": "Acest complex tradițional de temple budiste este situat în vechea zonă de așezare a văii Nam Ngum, păstrând moștenirea monastică locală.",
+                  "category": "landmark",
+                  "coords": [
+                        102.536959,
+                        18.429625
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານທ່າໂພໄຊ",
+                  "text": "Un templu budist sătesc lângă lacul de acumulare Nam Ngum, care dispune de o sală de hirotonire decorată distinct pentru comunitatea monastică locală.",
+                  "category": "landmark",
+                  "coords": [
+                        102.533828,
+                        18.42189
+                  ]
+            },
+            {
+                  "name": "Wat Nam Cheng",
+                  "text": "Înființat în 1994, acest templu budist din valea Nam Ngum prezintă elemente moderne ale arhitecturii monastice tradiționale din Asia de Sud-Est.",
+                  "category": "landmark",
+                  "coords": [
+                        102.411503,
+                        18.469065
+                  ]
+            },
+            {
+                  "name": "ຕະຫລາດທ່າລາດ",
+                  "text": "O piață comunitară plină de viață în Thalad, care oferă pește proaspăt prins din lacul de acumulare Nam Ngum din apropiere, alături de produse locale.",
+                  "category": "cultural",
+                  "coords": [
+                        102.50789,
+                        18.520981
+                  ]
+            },
+            {
+                  "name": "ຕະຫລາດບ້ານ ໂພນໝີ",
+                  "text": "Această piață locală de lângă lacul de acumulare Nam Ngum oferă o experiență de cumpărături autentică, cu tarabe pline de condimente, legume și necesități zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        102.48314,
+                        18.477139
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vang Xang",
+                  "text": "An ancient Buddhist archaeological site featuring large Buddha statues carved directly into the rock face in the Nam Ngum valley.",
+                  "category": "landmark",
+                  "coords": [
+                        102.42596,
+                        18.445411
+                  ]
+            },
+            {
+                  "name": "Phonsavat Temple",
+                  "text": "A spiritual place of worship nestled in the scenic Nam Ngum reservoir valley, providing a quiet retreat for prayer and reflection.",
+                  "category": "religious",
+                  "coords": [
+                        102.464561,
+                        18.494739
+                  ]
+            },
+            {
+                  "name": "Phra That Done Keo",
+                  "text": "A revered religious stupa in the Nam Ngum region, housing sacred relics and serving as a focal point for local pilgrimages.",
+                  "category": "religious",
+                  "coords": [
+                        102.47644,
+                        18.487987
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານເມືອງເກົ່າ",
+                  "text": "This traditional Buddhist temple complex lies in the old settlement area of the Nam Ngum valley, preserving local monastic heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        102.536959,
+                        18.429625
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານທ່າໂພໄຊ",
+                  "text": "A village Buddhist temple near the Nam Ngum reservoir that features a distinctly decorated ordination hall for the local monastic community.",
+                  "category": "landmark",
+                  "coords": [
+                        102.533828,
+                        18.42189
+                  ]
+            },
+            {
+                  "name": "Nam Cheng Temple",
+                  "text": "Established in 1994, this Buddhist temple in the Nam Ngum valley features modern elements of traditional Southeast Asian monastic architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        102.411503,
+                        18.469065
+                  ]
+            },
+            {
+                  "name": "Thalad Public Market",
+                  "text": "A bustling community marketplace in Thalad offering freshly caught fish from the nearby Nam Ngum reservoir alongside local produce.",
+                  "category": "cultural",
+                  "coords": [
+                        102.50789,
+                        18.520981
+                  ]
+            },
+            {
+                  "name": "Phonmee Market",
+                  "text": "This local market near the Nam Ngum reservoir provides an authentic shopping experience with stalls full of spices, vegetables, and daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        102.48314,
+                        18.477139
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "LA-VT",
     coords: [102.5, 18.5],
@@ -937,7 +2170,52 @@ export const poiExtraLaosReliefV2: POI[] = [
     },
   },
   {
-    id: "phou-loei-massif-relief-v2",
+    id: "phou-loei-massif-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "ປ່າສະຫງວນແຫ່ງຊາດ ພູເລີຍ",
+                  "text": "Ein weitläufiges, bewaldetes Naturschutzgebiet, das das zerklüftete, bergige Terrain und die Artenvielfalt des Phou-Loei-Massivs schützt.",
+                  "category": "natural",
+                  "coords": [
+                        103.214056,
+                        20.141151
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ປ່າສະຫງວນແຫ່ງຊາດ ພູເລີຍ",
+                  "text": "Egy hatalmas, erdős természetvédelmi terület, amely a Phou Loei masszívum zord, hegyvidéki terepét és biológiai sokféleségét védi.",
+                  "category": "natural",
+                  "coords": [
+                        103.214056,
+                        20.141151
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ປ່າສະຫງວນແຫ່ງຊາດ ພູເລີຍ",
+                  "text": "O vastă rezervație naturală împădurită care protejează terenul accidentat, muntos și biodiversitatea masivului Phou Loei.",
+                  "category": "natural",
+                  "coords": [
+                        103.214056,
+                        20.141151
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Phou Leuy National Protected Area",
+                  "text": "A vast forested nature reserve protecting the rugged, mountainous terrain and biodiversity of the Phou Loei massif.",
+                  "category": "natural",
+                  "coords": [
+                        103.214056,
+                        20.141151
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "LA-HO",
     coords: [103.2, 20.2],

@@ -961,7 +961,7 @@ export const serbiaEconomicV2: POI[] = [
             },
             {
                   "name": "Spomenik slobode i pobede nad fashizmom ,,Zvezda\"",
-                  "text": "Ein Denkmal, das der Freiheit und dem Sieg über den Faschismus gewidmet ist.",
+                  "text": "Freiheits- und Siegesdenkmal „Zvezda” (Stern) im Wirtschaftszentrum Požarevac, errichtet 1985.",
                   "category": "historical",
                   "coords": [
                         21.203752,
@@ -988,7 +988,7 @@ export const serbiaEconomicV2: POI[] = [
             },
             {
                   "name": "Spomenik Pokretu gorana",
-                  "text": "Ein Denkmal zu Ehren der ökologischen Jugendbewegung Pokret gorana.",
+                  "text": "Das Denkmal für die Pokret gorana (Jugend-Umweltbewegung) steht nahe dem Wirtschaftszentrum von Požarevac.",
                   "category": "historical",
                   "coords": [
                         21.202417,
@@ -1017,7 +1017,7 @@ export const serbiaEconomicV2: POI[] = [
             },
             {
                   "name": "Spomenik slobode i pobede nad fashizmom ,,Zvezda\"",
-                  "text": "A szabadságnak és a fasizmus feletti győzelemnek szentelt emlékmű.",
+                  "text": "„Zvezda” (Csillag) szabadság- és győzelememlékmű a Pozarevac Gazdasági Központban, 1985-ben állították.",
                   "category": "historical",
                   "coords": [
                         21.203752,
@@ -1044,7 +1044,7 @@ export const serbiaEconomicV2: POI[] = [
             },
             {
                   "name": "Spomenik Pokretu gorana",
-                  "text": "A Pokret gorana ökológiai ifjúsági mozgalom tiszteletére emelt emlékmű.",
+                  "text": "A Pokret gorana (Ifjúsági Környezetvédelmi Mozgalom) emlékműve Požarevac gazdasági központja közelében található.",
                   "category": "historical",
                   "coords": [
                         21.202417,
@@ -1073,7 +1073,7 @@ export const serbiaEconomicV2: POI[] = [
             },
             {
                   "name": "Spomenik slobode i pobede nad fashizmom ,,Zvezda\"",
-                  "text": "Un monument dedicat libertății și victoriei asupra fascismului.",
+                  "text": "Monumentul Libertății și Victoriei asupra fascismului „Zvezda” din Centrul Economic Požarevac, ridicat în 1985.",
                   "category": "historical",
                   "coords": [
                         21.203752,
@@ -1100,7 +1100,7 @@ export const serbiaEconomicV2: POI[] = [
             },
             {
                   "name": "Spomenik Pokretu gorana",
-                  "text": "Un monument în onoarea mișcării ecologiste de tineret Pokret gorana.",
+                  "text": "Monumentul Pokret gorana (Mișcarea de Tineret pentru Mediu) se află lângă centrul economic din Požarevac.",
                   "category": "historical",
                   "coords": [
                         21.202417,
@@ -1129,7 +1129,7 @@ export const serbiaEconomicV2: POI[] = [
             },
             {
                   "name": "Monument to freedom and victory over fascism \"Zvezda\"",
-                  "text": "A monument dedicated to freedom and the victory over fascism.",
+                  "text": "Monument to freedom and victory over fascism „Zvezda” (Star) in Pozarevac Economic Center, erected in 1985.",
                   "category": "historical",
                   "coords": [
                         21.203752,
@@ -1156,7 +1156,7 @@ export const serbiaEconomicV2: POI[] = [
             },
             {
                   "name": "Monument to the Pokret gorana (Gorans Movement / Youth Environmental Movement)",
-                  "text": "A monument honoring the Pokret gorana youth environmental movement.",
+                  "text": "The Monument to the Pokret gorana (Youth Environmental Movement) stands near the economic center of Požarevac.",
                   "category": "historical",
                   "coords": [
                         21.202417,
@@ -1321,7 +1321,7 @@ export const serbiaEconomicV2: POI[] = [
             },
             {
                   "name": "Stadtbad in Cacak",
-                  "text": "Das Stadtbad in Cacak ist eine öffentliche Schwimmeinrichtung.",
+                  "text": "Das Stadtbad in Čačak liegt am Handelszentrum der Stadt.",
                   "category": "family",
                   "coords": [
                         20.346015,
@@ -1368,7 +1368,7 @@ export const serbiaEconomicV2: POI[] = [
             },
             {
                   "name": "čačaki városi medence",
-                  "text": "A čačaki városi medence egy nyilvános úszólétesítmény.",
+                  "text": "A čačaki városi uszoda a város kereskedelmi központja mellett található.",
                   "category": "family",
                   "coords": [
                         20.346015,
@@ -1415,7 +1415,7 @@ export const serbiaEconomicV2: POI[] = [
             },
             {
                   "name": "Piscina municipală din Cacak",
-                  "text": "Piscina municipală din Cacak este o facilitate publică de înot.",
+                  "text": "Piscina orașului din Čačak este situată lângă centrul comercial al orașului.",
                   "category": "family",
                   "coords": [
                         20.346015,
@@ -1462,7 +1462,7 @@ export const serbiaEconomicV2: POI[] = [
             },
             {
                   "name": "City Pool in Cacak",
-                  "text": "The City Pool in Cacak is a public swimming facility.",
+                  "text": "The City Pool in Čačak is located near the city's trade center.",
                   "category": "family",
                   "coords": [
                         20.346015,
@@ -2005,7 +2005,7 @@ export const serbiaEconomicV2: POI[] = [
             },
             {
                   "name": "Spomenik streljanim žrtvama Timočke bune",
-                  "text": "Ein Denkmal zur Erinnerung an den Timoker Aufstand von 1883.",
+                  "text": "Denkmal für den Timok-Aufstand im Industriegebiet Zaječar, errichtet 1940.",
                   "category": "historical",
                   "coords": [
                         22.278652,
@@ -2124,7 +2124,7 @@ export const serbiaEconomicV2: POI[] = [
             },
             {
                   "name": "Spomenik streljanim žrtvama Timočke bune",
-                  "text": "Az 1883-as timoki lázadás emlékére állított emlékmű.",
+                  "text": "Timok-felkelés emlékműve Zaječar ipari negyedében, 1940-ben állítva.",
                   "category": "historical",
                   "coords": [
                         22.278652,
@@ -2243,7 +2243,7 @@ export const serbiaEconomicV2: POI[] = [
             },
             {
                   "name": "Spomenik streljanim žrtvama Timočke bune",
-                  "text": "Un monument dedicat amintirii revoltei din Timoc din anul 1883.",
+                  "text": "Monumentul răscoalei Timok în Zaječar Hub Industrial, ridicat în 1940.",
                   "category": "historical",
                   "coords": [
                         22.278652,
@@ -2362,7 +2362,7 @@ export const serbiaEconomicV2: POI[] = [
             },
             {
                   "name": "Monument to the Timok Rebellion",
-                  "text": "A monument commemorating the Timok Rebellion of 1883.",
+                  "text": "Monument to the Timok Rebellion in Zajecar Industrial Hub, erected in 1940.",
                   "category": "historical",
                   "coords": [
                         22.278652,
@@ -2509,7 +2509,7 @@ export const serbiaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Muzej savremene umetnosti Vojvodine",
-                  "text": "Ein Museum in Novi Sad, das zeitgenössische Kunst aus der Vojvodina zeigt.",
+                  "text": "Museum für zeitgenössische Kunst der Vojvodina im Industriegebiet Novi Sad.",
                   "category": "museum",
                   "coords": [
                         19.853192,
@@ -2554,7 +2554,7 @@ export const serbiaEconomicV2: POI[] = [
             },
             {
                   "name": "Pozorishni muzej Vojvodine",
-                  "text": "Ein Museum, das die Geschichte des Theaters in der Vojvodina dokumentiert.",
+                  "text": "Das Theatermuseum der Vojvodina befindet sich im Industriegebiet von Novi Sad.",
                   "category": "museum",
                   "coords": [
                         19.844282,
@@ -2583,7 +2583,7 @@ export const serbiaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Muzej savremene umetnosti Vojvodine",
-                  "text": "Kortárs művészeti múzeum Újvidéken, vajdasági alkotásokkal.",
+                  "text": "Vajdaság Kortárs Művészeti Múzeuma az Újvidéki Ipari Zónában.",
                   "category": "museum",
                   "coords": [
                         19.853192,
@@ -2628,7 +2628,7 @@ export const serbiaEconomicV2: POI[] = [
             },
             {
                   "name": "Pozorishni muzej Vojvodine",
-                  "text": "A vajdasági színjátszás történetét bemutató múzeum.",
+                  "text": "A Vajdasági Színházi Múzeum Újvidék ipari övezetében található.",
                   "category": "museum",
                   "coords": [
                         19.844282,
@@ -2657,7 +2657,7 @@ export const serbiaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Muzej savremene umetnosti Vojvodine",
-                  "text": "Un muzeu în Novi Sad care expune artă contemporană din Voivodina.",
+                  "text": "Muzeul de Artă Contemporană a Voivodinei în Zona Industrială Novi Sad.",
                   "category": "museum",
                   "coords": [
                         19.853192,
@@ -2702,7 +2702,7 @@ export const serbiaEconomicV2: POI[] = [
             },
             {
                   "name": "Pozorishni muzej Vojvodine",
-                  "text": "Un muzeu care documentează istoria teatrului în Voivodina.",
+                  "text": "Muzeul Teatrului din Voivodina se află în zona industrială a Novi Sadului.",
                   "category": "museum",
                   "coords": [
                         19.844282,
@@ -2731,7 +2731,7 @@ export const serbiaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Museum of Contemporary Art of Vojvodina",
-                  "text": "A museum in Novi Sad displaying contemporary art from Vojvodina.",
+                  "text": "Museum of Contemporary Art of Vojvodina in Novi Sad Industrial Zone.",
                   "category": "museum",
                   "coords": [
                         19.853192,
@@ -2776,7 +2776,7 @@ export const serbiaEconomicV2: POI[] = [
             },
             {
                   "name": "Theatre Museum of Vojvodina",
-                  "text": "A museum documenting the history of theatre in Vojvodina.",
+                  "text": "The Theatre Museum of Vojvodina is located in the industrial zone of Novi Sad.",
                   "category": "museum",
                   "coords": [
                         19.844282,
@@ -2896,7 +2896,7 @@ export const serbiaEconomicV2: POI[] = [
             },
             {
                   "name": "City Pool",
-                  "text": "Dieses Schwimmbad in Prokuplje bietet ein Becken zum Schwimmen.",
+                  "text": "Das Stadtbad in Prokuplje liegt im Industriegebiet der Stadt.",
                   "category": "family",
                   "coords": [
                         21.579336,
@@ -2952,7 +2952,7 @@ export const serbiaEconomicV2: POI[] = [
             },
             {
                   "name": "City Pool",
-                  "text": "Ez a prokupljei úszómedence egy medencét kínál az úszáshoz.",
+                  "text": "A prokupljei városi uszoda a város ipari övezetében található.",
                   "category": "family",
                   "coords": [
                         21.579336,
@@ -3008,7 +3008,7 @@ export const serbiaEconomicV2: POI[] = [
             },
             {
                   "name": "City Pool",
-                  "text": "Această piscină din Prokuplje oferă un bazin pentru înot.",
+                  "text": "Piscina orașului din Prokuplje se află în zona industrială a orașului.",
                   "category": "family",
                   "coords": [
                         21.579336,
@@ -3064,7 +3064,7 @@ export const serbiaEconomicV2: POI[] = [
             },
             {
                   "name": "City Pool",
-                  "text": "This swimming pool in Prokuplje offers a pool for swimming.",
+                  "text": "The City Pool in Prokuplje is located in the industrial area of the city.",
                   "category": "family",
                   "coords": [
                         21.579336,

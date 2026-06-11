@@ -43,7 +43,7 @@ export const poiExtraPortugalHistorical: POI[] = [
             },
             {
                   "name": "Solar da Família Melo",
-                  "text": "Ein historisches Herrenhaus der Familie Melo in Monsanto.",
+                  "text": "Ein Herrenhaus aus dem 17. Jahrhundert der Familie Melo im historischen Dorf Monsanto.",
                   "category": "historical",
                   "coords": [
                         -7.114309,
@@ -90,7 +90,7 @@ export const poiExtraPortugalHistorical: POI[] = [
             },
             {
                   "name": "Solar da Família Melo",
-                  "text": "A Melo család történelmi kúriája Monsantóban.",
+                  "text": "A Melo család 17. századi kúriája a történelmi Monsanto faluban.",
                   "category": "historical",
                   "coords": [
                         -7.114309,
@@ -137,7 +137,7 @@ export const poiExtraPortugalHistorical: POI[] = [
             },
             {
                   "name": "Solar da Família Melo",
-                  "text": "Un conac istoric al familiei Melo în Monsanto.",
+                  "text": "Un conac din secolul al XVII-lea al familiei Melo în satul istoric Monsanto.",
                   "category": "historical",
                   "coords": [
                         -7.114309,
@@ -184,7 +184,7 @@ export const poiExtraPortugalHistorical: POI[] = [
             },
             {
                   "name": "Solar da Família Melo",
-                  "text": "A historic manor house of the Melo family in Monsanto.",
+                  "text": "A 17th-century manor house of the Melo family in the historic village of Monsanto.",
                   "category": "historical",
                   "coords": [
                         -7.114309,
@@ -496,7 +496,7 @@ export const poiExtraPortugalHistorical: POI[] = [
             },
             {
                   "name": "Anta Pequena do Zambujeiro",
-                  "text": "Ein kleineres megalithisches Grab in der Region Évora.",
+                  "text": "Ein kleiner Dolmen, derzeit in Einstufung als Kulturerbe nahe der Almendres-Cromlechs.",
                   "category": "historical",
                   "coords": [
                         -8.017663,
@@ -561,7 +561,7 @@ export const poiExtraPortugalHistorical: POI[] = [
             },
             {
                   "name": "Anta Pequena do Zambujeiro",
-                  "text": "Egy kisebb megalitikus sír Évora régiójában.",
+                  "text": "Egy kis dolmen, jelenleg örökségi osztályozás alatt, az Almendres-kőkerítés közelében.",
                   "category": "historical",
                   "coords": [
                         -8.017663,
@@ -626,7 +626,7 @@ export const poiExtraPortugalHistorical: POI[] = [
             },
             {
                   "name": "Anta Pequena do Zambujeiro",
-                  "text": "Un mormânt megalitic mai mic situat în regiunea Évora.",
+                  "text": "Un mic dolmen, în curs de clasare ca monument istoric, lângă Cromeleque dos Almendres.",
                   "category": "historical",
                   "coords": [
                         -8.017663,
@@ -691,7 +691,7 @@ export const poiExtraPortugalHistorical: POI[] = [
             },
             {
                   "name": "Anta Pequena do Zambujeiro",
-                  "text": "A smaller megalithic tomb located in the Évora region.",
+                  "text": "A small dolmen, currently being classified as heritage near the Almendres Cromlech.",
                   "category": "historical",
                   "coords": [
                         -8.017663,
@@ -1093,7 +1093,7 @@ export const poiExtraPortugalHistorical: POI[] = [
             },
             {
                   "name": "Igreja das Taipas",
-                  "text": "Ein religiöses Gebäude und Ort der Andacht in Caldas das Taipas.",
+                  "text": "Eine romanische Kirche in der Nähe der Citânia de Briteiros, einem keltischen Hillfort.",
                   "category": "religious",
                   "coords": [
                         -8.343777,
@@ -1194,7 +1194,7 @@ export const poiExtraPortugalHistorical: POI[] = [
             },
             {
                   "name": "Igreja das Taipas",
-                  "text": "Vallási épület és istentiszteleti hely Caldas das Taipasban.",
+                  "text": "Román stílusú templom a Citânia de Briteiros, egy kelta erőd közelében.",
                   "category": "religious",
                   "coords": [
                         -8.343777,
@@ -1295,7 +1295,7 @@ export const poiExtraPortugalHistorical: POI[] = [
             },
             {
                   "name": "Igreja das Taipas",
-                  "text": "O clădire religioasă și loc de cult în Caldas das Taipas.",
+                  "text": "O biserică romanică lângă Citânia de Briteiros, o fortăreață celtică.",
                   "category": "religious",
                   "coords": [
                         -8.343777,
@@ -1396,7 +1396,7 @@ export const poiExtraPortugalHistorical: POI[] = [
             },
             {
                   "name": "Igreja das Taipas",
-                  "text": "A religious building and place of worship located in Caldas das Taipas.",
+                  "text": "A Romanesque church near the Citânia de Briteiros, a Celtic hill fort.",
                   "category": "religious",
                   "coords": [
                         -8.343777,
@@ -1513,7 +1513,7 @@ export const poiExtraPortugalHistorical: POI[] = [
             },
             {
                   "name": "Capela de Santo António",
-                  "text": "Eine charmante Kapelle, die dem Heiligen Antonius gewidmet ist.",
+                  "text": "Eine kleine Kapelle, dem Heiligen Antonius geweiht, am Fuße der Burg von Lanhoso.",
                   "category": "religious",
                   "coords": [
                         -8.346982,
@@ -1540,7 +1540,7 @@ export const poiExtraPortugalHistorical: POI[] = [
             },
             {
                   "name": "Igreja de Sobreposta",
-                  "text": "Eine lokale Kirche in der Gemeinde Sobreposta.",
+                  "text": "Eine ländliche Kirche im Gebiet Sobreposta nahe der Burg von Lanhoso.",
                   "category": "religious",
                   "coords": [
                         -8.33588,
@@ -1596,7 +1596,7 @@ export const poiExtraPortugalHistorical: POI[] = [
             },
             {
                   "name": "Capela de Santo António",
-                  "text": "Páduai Szent Antalnak szentelt bájos kápolna.",
+                  "text": "Kis kápolna, Szent Antal tiszteletére szentelve, a Lanhoso-vár lábánál.",
                   "category": "religious",
                   "coords": [
                         -8.346982,
@@ -1623,7 +1623,7 @@ export const poiExtraPortugalHistorical: POI[] = [
             },
             {
                   "name": "Igreja de Sobreposta",
-                  "text": "Helyi templom Sobreposta településen.",
+                  "text": "Vidéki templom a Sobreposta területén, a Lanhoso-vár közelében.",
                   "category": "religious",
                   "coords": [
                         -8.33588,
@@ -1679,7 +1679,7 @@ export const poiExtraPortugalHistorical: POI[] = [
             },
             {
                   "name": "Capela de Santo António",
-                  "text": "O capelă fermecătoare dedicată Sfântului Anton.",
+                  "text": "O capelă mică dedicată Sfântului Anton la poalele Castelului Lanhoso.",
                   "category": "religious",
                   "coords": [
                         -8.346982,
@@ -1706,7 +1706,7 @@ export const poiExtraPortugalHistorical: POI[] = [
             },
             {
                   "name": "Igreja de Sobreposta",
-                  "text": "O biserică locală din localitatea Sobreposta.",
+                  "text": "O biserică rurală în zona Sobreposta, lângă Castelul Lanhoso.",
                   "category": "religious",
                   "coords": [
                         -8.33588,
@@ -1762,7 +1762,7 @@ export const poiExtraPortugalHistorical: POI[] = [
             },
             {
                   "name": "Capela de Santo António",
-                  "text": "A charming chapel dedicated to Saint Anthony.",
+                  "text": "A small chapel dedicated to Saint Anthony at the foot of the Castle of Lanhoso.",
                   "category": "religious",
                   "coords": [
                         -8.346982,
@@ -1789,7 +1789,7 @@ export const poiExtraPortugalHistorical: POI[] = [
             },
             {
                   "name": "Igreja de Sobreposta",
-                  "text": "A local church in the village of Sobreposta.",
+                  "text": "A rural church in the Sobreposta area, near the Castle of Lanhoso.",
                   "category": "religious",
                   "coords": [
                         -8.33588,
@@ -1990,7 +1990,7 @@ export const poiExtraPortugalHistorical: POI[] = [
       "de": [
             {
                   "name": "Anta da Vila de Arraiolos",
-                  "text": "Eine prähistorische Megalithanlage in der Nähe von Arraiolos.",
+                  "text": "Die Anta da Vila de Arraiolos ist ein prähistorisches Megalithgrab (Dolmen) nahe Arraiolos.",
                   "category": "historical",
                   "coords": [
                         -7.987539,
@@ -2035,7 +2035,7 @@ export const poiExtraPortugalHistorical: POI[] = [
             },
             {
                   "name": "Solar de Sempre Noiva",
-                  "text": "Ein historisches Herrenhaus in der Gemeinde Arraiolos.",
+                  "text": "Ein historisches Herrenhaus, denkmalgeschützt nahe der Burg Arraiolos.",
                   "category": "historical",
                   "coords": [
                         -7.968998,
@@ -2046,7 +2046,7 @@ export const poiExtraPortugalHistorical: POI[] = [
       "hu": [
             {
                   "name": "Anta da Vila de Arraiolos",
-                  "text": "Prehisztorikus megalitikus emlékhely Arraiolos közelében.",
+                  "text": "Az Anta da Vila de Arraiolos egy őskori megalitsír (dolmen) Arraiolos közelében.",
                   "category": "historical",
                   "coords": [
                         -7.987539,
@@ -2091,7 +2091,7 @@ export const poiExtraPortugalHistorical: POI[] = [
             },
             {
                   "name": "Solar de Sempre Noiva",
-                  "text": "Történelmi udvarház Arraiolos községben.",
+                  "text": "Történelmi kúria, műemlék az Arraiolos-i vár közelében.",
                   "category": "historical",
                   "coords": [
                         -7.968998,
@@ -2102,7 +2102,7 @@ export const poiExtraPortugalHistorical: POI[] = [
       "ro": [
             {
                   "name": "Anta da Vila de Arraiolos",
-                  "text": "Un sit megalitic preistoric situat lângă Arraiolos.",
+                  "text": "Anta da Vila de Arraiolos este un mormânt megalitic preistoric (dolmen) lângă Arraiolos.",
                   "category": "historical",
                   "coords": [
                         -7.987539,
@@ -2147,7 +2147,7 @@ export const poiExtraPortugalHistorical: POI[] = [
             },
             {
                   "name": "Solar de Sempre Noiva",
-                  "text": "Un conac istoric situat în municipalitatea Arraiolos.",
+                  "text": "Un conac istoric, monument protejat lângă Castelul Arraiolos.",
                   "category": "historical",
                   "coords": [
                         -7.968998,
@@ -2158,7 +2158,7 @@ export const poiExtraPortugalHistorical: POI[] = [
       "en": [
             {
                   "name": "Anta da Vila de Arraiolos",
-                  "text": "A prehistoric megalithic site located near Arraiolos.",
+                  "text": "The Anta da Vila de Arraiolos is a prehistoric megalithic tomb (dolmen) near Arraiolos.",
                   "category": "historical",
                   "coords": [
                         -7.987539,
@@ -2203,7 +2203,7 @@ export const poiExtraPortugalHistorical: POI[] = [
             },
             {
                   "name": "Solar de Sempre Noiva",
-                  "text": "A historical manor house located in the Arraiolos municipality.",
+                  "text": "A historic manor house, heritage-listed near the Castle of Arraiolos.",
                   "category": "historical",
                   "coords": [
                         -7.968998,

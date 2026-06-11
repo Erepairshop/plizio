@@ -826,7 +826,7 @@ export const tongaEconomicV2: POI[] = [
             },
             {
                   "name": "The Thong Tree",
-                  "text": "Ein markanter Baum und eine lokale Sehenswürdigkeit in Nuku'alofa.",
+                  "text": "Ein Baum an der Nuku'alofa-Uferpromenade, dekoriert mit weggeworfenen Badelatschen.",
                   "category": "landmark",
                   "coords": [
                         -175.204168,
@@ -835,7 +835,7 @@ export const tongaEconomicV2: POI[] = [
             },
             {
                   "name": "Huge trees",
-                  "text": "Beeindruckende große Bäume in der Küstenzone von Nuku'alofa.",
+                  "text": "Mehrere riesige Banyanbäume entlang der Uferpromenade von Nuku'alofa.",
                   "category": "landmark",
                   "coords": [
                         -175.196362,
@@ -862,7 +862,7 @@ export const tongaEconomicV2: POI[] = [
             },
             {
                   "name": "Siasi 'o Tonga",
-                  "text": "Eine religiöse Stätte und ein Ort der Andacht in Nuku'alofa.",
+                  "text": "Eine Freikirche von Tonga an der Uferpromenade von Nukuʻalofa.",
                   "category": "religious",
                   "coords": [
                         -175.201098,
@@ -880,7 +880,7 @@ export const tongaEconomicV2: POI[] = [
             },
             {
                   "name": "Basilica of St. Anthony of Padua",
-                  "text": "Eine markante Basilika und religiöses Wahrzeichen in Nuku'alofa.",
+                  "text": "Die Antonius-Basilika an der Uferpromenade von Nukuʻalofa.",
                   "category": "religious",
                   "coords": [
                         -175.201857,
@@ -900,7 +900,7 @@ export const tongaEconomicV2: POI[] = [
             },
             {
                   "name": "The Thong Tree",
-                  "text": "Jellegzetes fa és helyi nevezetesség Nuku'alofában.",
+                  "text": "Egy fa a nuku'alofai tengerparti sétányon, levetett papucsokkal díszítve.",
                   "category": "landmark",
                   "coords": [
                         -175.204168,
@@ -909,7 +909,7 @@ export const tongaEconomicV2: POI[] = [
             },
             {
                   "name": "Huge trees",
-                  "text": "Lenyűgöző hatalmas fák Nuku'alofa parti övezetében.",
+                  "text": "Több óriási banyánfa a nuku'alofai tengerparti sétány mentén.",
                   "category": "landmark",
                   "coords": [
                         -175.196362,
@@ -936,7 +936,7 @@ export const tongaEconomicV2: POI[] = [
             },
             {
                   "name": "Siasi 'o Tonga",
-                  "text": "Vallási kegyhely és istentiszteleti hely Nuku'alofában.",
+                  "text": "Egy Tongai Szabad Egyház a nukuʻalofai vízparti sétányon.",
                   "category": "religious",
                   "coords": [
                         -175.201098,
@@ -954,7 +954,7 @@ export const tongaEconomicV2: POI[] = [
             },
             {
                   "name": "Basilica of St. Anthony of Padua",
-                  "text": "Jellegzetes bazilika és vallási jelkép Nuku'alofában.",
+                  "text": "Az Antal-bazilika a nukuʻalofai vízparti sétányon.",
                   "category": "religious",
                   "coords": [
                         -175.201857,
@@ -974,7 +974,7 @@ export const tongaEconomicV2: POI[] = [
             },
             {
                   "name": "The Thong Tree",
-                  "text": "Un arbore distinctiv și o atracție locală în Nuku'alofa.",
+                  "text": "Un copac pe faleza Nuku'alofa, decorat cu șlapi aruncați.",
                   "category": "landmark",
                   "coords": [
                         -175.204168,
@@ -983,7 +983,7 @@ export const tongaEconomicV2: POI[] = [
             },
             {
                   "name": "Huge trees",
-                  "text": "Arbori uriași impresionanți în zona de coastă din Nuku'alofa.",
+                  "text": "Mai mulți copaci banyan uriași de-a lungul falezei Nuku'alofa.",
                   "category": "landmark",
                   "coords": [
                         -175.196362,
@@ -1010,7 +1010,7 @@ export const tongaEconomicV2: POI[] = [
             },
             {
                   "name": "Siasi 'o Tonga",
-                  "text": "Un lăcaș de cult și loc de rugăciune situat în Nuku'alofa.",
+                  "text": "O Biserică Liberă a Tongăi pe faleza comercială din Nukuʻalofa.",
                   "category": "religious",
                   "coords": [
                         -175.201098,
@@ -1028,7 +1028,7 @@ export const tongaEconomicV2: POI[] = [
             },
             {
                   "name": "Basilica of St. Anthony of Padua",
-                  "text": "O bazilică impunătoare și un simbol religios în Nuku'alofa.",
+                  "text": "Basilica Sfântului Anton pe faleza comercială din Nukuʻalofa.",
                   "category": "religious",
                   "coords": [
                         -175.201857,
@@ -1048,7 +1048,7 @@ export const tongaEconomicV2: POI[] = [
             },
             {
                   "name": "The Thong Tree",
-                  "text": "A distinctive tree and local attraction in Nuku'alofa.",
+                  "text": "A tree on the Nuku'alofa waterfront decorated with discarded flip-flops.",
                   "category": "landmark",
                   "coords": [
                         -175.204168,
@@ -1057,7 +1057,7 @@ export const tongaEconomicV2: POI[] = [
             },
             {
                   "name": "Huge trees",
-                  "text": "Impressive huge trees located in the Nuku'alofa waterfront zone.",
+                  "text": "Several giant banyan trees along the Nuku'alofa waterfront.",
                   "category": "landmark",
                   "coords": [
                         -175.196362,
@@ -1084,7 +1084,7 @@ export const tongaEconomicV2: POI[] = [
             },
             {
                   "name": "Siasi 'o Tonga",
-                  "text": "A religious site and place of worship located in Nuku'alofa.",
+                  "text": "A Free Church of Tonga on the Nukuʻalofa waterfront commercial area.",
                   "category": "religious",
                   "coords": [
                         -175.201098,
@@ -1102,7 +1102,7 @@ export const tongaEconomicV2: POI[] = [
             },
             {
                   "name": "Basilica of St. Anthony of Padua",
-                  "text": "A prominent basilica and religious landmark in Nuku'alofa.",
+                  "text": "The Basilica of St. Anthony on the Nukuʻalofa waterfront commercial area.",
                   "category": "religious",
                   "coords": [
                         -175.201857,

@@ -619,7 +619,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Urvika",
-                  "text": "Eine malerische Küstenbucht in der Region Henningsvær.",
+                  "text": "Die Urvika ist eine geschützte Bucht mit traditionellen Fischerhütten (Rorbuer) im Fischerdorf Henningsvaer.",
                   "category": "landmark",
                   "coords": [
                         14.218411,
@@ -666,7 +666,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Urvika",
-                  "text": "Festői tengerparti öböl Henningsvær környékén.",
+                  "text": "Az Urvika egy védett öböl, hagyományos halászkunyhókkal (rorbuer) a Henningsvaer halászfaluban.",
                   "category": "landmark",
                   "coords": [
                         14.218411,
@@ -713,7 +713,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Urvika",
-                  "text": "Un golf de coastă pitoreasc din regiunea Henningsvær.",
+                  "text": "Urvika este un golf adăpostit cu cabane tradiționale de pescari (rorbuer) în satul de pescari Henningsvaer.",
                   "category": "landmark",
                   "coords": [
                         14.218411,
@@ -760,7 +760,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Urvika",
-                  "text": "A picturesque coastal bay in the Henningsvær region.",
+                  "text": "Urvika is a sheltered cove with traditional fishing cabins (rorbuer) in the fishing village of Henningsvaer.",
                   "category": "landmark",
                   "coords": [
                         14.218411,
@@ -1330,7 +1330,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Mellaåsen",
-                  "text": "Ein Gipfel in der bergigen Region um Ulfstind.",
+                  "text": "Der Mellaåsen ist ein Bergrücken mit Blick auf die Ulvstind-Gipfel in der Region Ulfstind Fortification.",
                   "category": "landmark",
                   "coords": [
                         19.260437,
@@ -1348,7 +1348,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Bakvassåsen",
-                  "text": "Ein Berggipfel in der Nähe von Ulfstind Fortification.",
+                  "text": "Der Bakvassåsen ist ein bewaldeter Hügel oberhalb des Bakvatnet-Sees in der Ulfstind-Region.",
                   "category": "landmark",
                   "coords": [
                         19.250257,
@@ -1366,7 +1366,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Steinåsen",
-                  "text": "Ein Gipfel in der Gegend von Ulfstind Fortification.",
+                  "text": "Der Steinåsen ist ein felsiger Hügel mit Panoramablick auf die umliegenden Berge in Ulfstind.",
                   "category": "landmark",
                   "coords": [
                         19.245464,
@@ -1404,7 +1404,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Mellaåsen",
-                  "text": "Egy hegycsúcs Ulfstind hegyvidéki régiójában.",
+                  "text": "A Mellaåsen egy gerinc, amely az Ulvstind csúcsaira nyújt kilátást az Ulfstind erődítés területén.",
                   "category": "landmark",
                   "coords": [
                         19.260437,
@@ -1422,7 +1422,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Bakvassåsen",
-                  "text": "Hegycsúcs az Ulfstind erődítmény közelében.",
+                  "text": "A Bakvassåsen egy erdős domb a Bakvatnet-tó felett az Ulfstind régióban.",
                   "category": "landmark",
                   "coords": [
                         19.250257,
@@ -1440,7 +1440,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Steinåsen",
-                  "text": "Egy csúcs az Ulfstind erődítmény környékén.",
+                  "text": "A Steinåsen egy sziklás domb, panorámás kilátással a környező hegyekre Ulfstindben.",
                   "category": "landmark",
                   "coords": [
                         19.245464,
@@ -1478,7 +1478,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Mellaåsen",
-                  "text": "Un vârf din regiunea muntoasă din jurul Ulfstind.",
+                  "text": "Mellaåsen este o creastă cu vedere spre vârfurile Ulvstind, în zona Ulfstind Fortification.",
                   "category": "landmark",
                   "coords": [
                         19.260437,
@@ -1496,7 +1496,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Bakvassåsen",
-                  "text": "Un vârf muntos în apropiere de fortificația Ulfstind.",
+                  "text": "Bakvassåsen este un deal împădurit deasupra lacului Bakvatnet, în regiunea Ulfstind.",
                   "category": "landmark",
                   "coords": [
                         19.250257,
@@ -1514,7 +1514,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Steinåsen",
-                  "text": "Un vârf în zona fortificației Ulfstind.",
+                  "text": "Steinåsen este un deal stâncos cu vedere panoramică asupra munților din jur, în Ulfstind.",
                   "category": "landmark",
                   "coords": [
                         19.245464,
@@ -1552,7 +1552,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Mellaåsen",
-                  "text": "A peak in the mountainous region around Ulfstind.",
+                  "text": "Mellaåsen is a ridge offering views of the Ulvstind peaks in the Ulfstind Fortification area.",
                   "category": "landmark",
                   "coords": [
                         19.260437,
@@ -1570,7 +1570,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Bakvassåsen",
-                  "text": "A mountain peak situated near Ulfstind Fortification.",
+                  "text": "Bakvassåsen is a forested hill above Lake Bakvatnet in the Ulfstind region.",
                   "category": "landmark",
                   "coords": [
                         19.250257,
@@ -1588,7 +1588,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Steinåsen",
-                  "text": "A peak in the area of Ulfstind Fortification.",
+                  "text": "Steinåsen is a rocky hill with panoramic views of the surrounding mountains in Ulfstind.",
                   "category": "landmark",
                   "coords": [
                         19.245464,
@@ -1690,7 +1690,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Hollagruva",
-                  "text": "Überreste historischer Bergwerksanlagen in der Gegend von Heddal.",
+                  "text": "Das historische Bergwerk Hollagruva bei der Stabkirche Heddal.",
                   "category": "historical",
                   "coords": [
                         9.207288,
@@ -1737,7 +1737,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Hollagruva",
-                  "text": "Történelmi bányászati romok Heddal környékén.",
+                  "text": "A Hollagruva történelmi bánya a Heddal fatemplom közelében.",
                   "category": "historical",
                   "coords": [
                         9.207288,
@@ -1784,7 +1784,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Hollagruva",
-                  "text": "Ruinele unor exploatări miniere istorice din zona Heddal.",
+                  "text": "Mina istorică Hollagruva lângă biserica de lemn Heddal.",
                   "category": "historical",
                   "coords": [
                         9.207288,
@@ -1831,7 +1831,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Hollagruva",
-                  "text": "Historical mining ruins located in the Heddal area.",
+                  "text": "Hollagruva historic mine near Heddal stave church.",
                   "category": "historical",
                   "coords": [
                         9.207288,
@@ -1969,7 +1969,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Rogaland Teater",
-                  "text": "Das Rogaland Teater ist ein renommiertes regionales Theater im Herzen von Stavanger.",
+                  "text": "Das Rogaland Teater ist Norwegens ältestes Theatergebäude von 1883 in der Altstadt von Stavanger.",
                   "category": "cultural",
                   "coords": [
                         5.732826,
@@ -2014,7 +2014,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Norsk Hermetikkmuseum",
-                  "text": "Das Norwegische Konservenmuseum befindet sich in einer ehemaligen Sardinenfabrik in Stavanger.",
+                  "text": "Das Norwegische Konservenmuseum im alten Stavanger.",
                   "category": "museum",
                   "coords": [
                         5.725168,
@@ -2302,7 +2302,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "St. Svithun katolske kirke",
-                  "text": "Die katholische St.-Svithun-Kirche ist das religiöse Zentrum der katholischen Gemeinde in Stavanger.",
+                  "text": "Die St. Svithun katolske kirke ist die einzige katholische Kirche Stavangers, erbaut aus Backstein im 20. Jahrhundert.",
                   "category": "religious",
                   "coords": [
                         5.729751,
@@ -2385,7 +2385,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Rogaland Teater",
-                  "text": "A Rogaland Teater egy neves regionális színház Stavanger szívében.",
+                  "text": "A Rogaland Teater Norvégia legrégebbi színházépülete 1883-ból, Stavanger óvárosában.",
                   "category": "cultural",
                   "coords": [
                         5.732826,
@@ -2430,7 +2430,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Norsk Hermetikkmuseum",
-                  "text": "A Norvég Konzervmúzeum egy egykori szardíniagyárban kapott helyet Stavangerben.",
+                  "text": "A Norvég Konzervgyártási Múzeum az óvárosi Stavangerben.",
                   "category": "museum",
                   "coords": [
                         5.725168,
@@ -2718,7 +2718,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "St. Svithun katolske kirke",
-                  "text": "A Szent Svithun katolikus templom a stavangeri katolikus közösség vallási központja.",
+                  "text": "A St. Svithun katolske kirke Stavanger egyetlen katolikus temploma, a 20. században téglából épült.",
                   "category": "religious",
                   "coords": [
                         5.729751,
@@ -2801,7 +2801,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Rogaland Teater",
-                  "text": "Rogaland Teater este un teatru regional renumit situat în inima orașului Stavanger.",
+                  "text": "Rogaland Teater este cea mai veche clădire de teatru din Norvegia, datând din 1883, în orașul vechi Stavanger.",
                   "category": "cultural",
                   "coords": [
                         5.732826,
@@ -2846,7 +2846,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Norsk Hermetikkmuseum",
-                  "text": "Muzeul Norvegian al Conservelor este situat într-o fostă fabrică de sardine din Stavanger.",
+                  "text": "Muzeul Norvegian al Conservelor în Stavangerul vechi.",
                   "category": "museum",
                   "coords": [
                         5.725168,
@@ -3134,7 +3134,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "St. Svithun katolske kirke",
-                  "text": "Biserica catolică Sfântul Svithun este centrul religios al comunității catolice din Stavanger.",
+                  "text": "St. Svithun katolske kirke este singura biserică catolică din Stavanger, construită din cărămidă în secolul al XX-lea.",
                   "category": "religious",
                   "coords": [
                         5.729751,
@@ -3217,7 +3217,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Rogaland Teater",
-                  "text": "Rogaland Teater is a renowned regional theater in the heart of Stavanger.",
+                  "text": "Rogaland Teater is Norway's oldest theater building, dating from 1883 in Stavanger's old town.",
                   "category": "cultural",
                   "coords": [
                         5.732826,
@@ -3262,7 +3262,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "The Norwegian Canning Museum",
-                  "text": "The Norwegian Canning Museum is located in a former sardine factory in Stavanger.",
+                  "text": "The Norwegian Canning Museum in old Stavanger.",
                   "category": "museum",
                   "coords": [
                         5.725168,
@@ -3550,7 +3550,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "St. Svithun katolske kirke",
-                  "text": "St. Svithun Catholic Church is the religious center for the Catholic community in Stavanger.",
+                  "text": "St. Svithun katolske kirke is the only Catholic church in Stavanger, built of brick in the 20th century.",
                   "category": "religious",
                   "coords": [
                         5.729751,
@@ -5335,7 +5335,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Sandviksfjøra",
-                  "text": "Ein Strand in Ålesund.",
+                  "text": "Das Erholungsgebiet Sandviksfjøra im Jugendstilviertel von Ålesund.",
                   "category": "recreational",
                   "coords": [
                         6.167974,
@@ -5544,7 +5544,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Sandviksfjøra",
-                  "text": "Egy strand Ålesundban.",
+                  "text": "A Sandviksfjøra rekreációs terület Ålesund szecessziós negyedében.",
                   "category": "recreational",
                   "coords": [
                         6.167974,
@@ -5753,7 +5753,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Sandviksfjøra",
-                  "text": "O plajă în Ålesund.",
+                  "text": "Zona de agrement Sandviksfjøra în cartierul Art Nouveau din Ålesund.",
                   "category": "recreational",
                   "coords": [
                         6.167974,
@@ -5962,7 +5962,7 @@ export const norwayHistoryV2: POI[] = [
             },
             {
                   "name": "Sandviksfjøra",
-                  "text": "A beach in Ålesund.",
+                  "text": "Sandviksfjøra recreational area in Ålesund's Art Nouveau district.",
                   "category": "recreational",
                   "coords": [
                         6.167974,
@@ -6330,7 +6330,1204 @@ export const norwayHistoryV2: POI[] = [
     image: "/poi-images/norway-hammerfest-meridian-history-v2.webp",
   },
   {
-    id: "norway-kristiansand-old-town-history-v2", "sights": {"de": [{"name": "Odderøya Fyr", "text": "Der Leuchtturm von Odderøya markiert seit 1832 die Einfahrt zum Hafen von Kristiansand.", "category": "landmark", "coords": [8.002248, 58.131441]}, {"name": "Naturmuseum og botanisk hage Universitetet i Agder", "text": "Ein Naturkundemuseum mit einem botanischen Garten, der die Vielfalt der regionalen Flora zeigt.", "category": "museum", "coords": [8.003637, 58.158973]}, {"name": "Bystranda", "text": "Bystranda ist ein beliebter Sandstrand im Stadtzentrum von Kristiansand mit der Blauen Flagge.", "category": "recreational", "coords": [8.007349, 58.146]}, {"name": "Christiansholm festning", "text": "Eine im 17. Jahrhundert errichtete Festung zum Schutz von Kristiansand, die heute für kulturelle Veranstaltungen genutzt wird.", "category": "fortress", "coords": [8.003574, 58.144124]}, {"name": "Kristiansand museum", "text": "Ein Freilichtmuseum in Kristiansand, das historische Gebäude und die Kulturgeschichte der Region Südnorwegen zeigt.", "category": "museum", "coords": [8.030896, 58.161562]}, {"name": "Kristiansand kommuneskog dyrelivsfredning", "text": "Ein geschütztes Waldgebiet bei Kristiansand, das der Erhaltung der lokalen Tierwelt dient.", "category": "natural", "coords": [7.947532, 58.160837]}, {"name": "Stiftelsen Arkivet", "text": "Ein Dokumentationszentrum und Museum in Kristiansand, das sich in einem ehemaligen Gestapo-Hauptquartier befindet.", "category": "museum", "coords": [7.981537, 58.14467]}, {"name": "Kristiansand teater", "text": "Das Stadttheater von Kristiansand ist ein wichtiger Veranstaltungsort für darstellende Kunst in Südnorwegen.", "category": "cultural", "coords": [7.995597, 58.142994]}, {"name": "Bragdøya Kystkultursenter", "text": "Ein Zentrum auf der Insel Bragdøya, das sich der Bewahrung der Küstenkultur und maritimen Geschichte widmet.", "category": "museum", "coords": [7.98365, 58.12022]}, {"name": "Kuholmen batteri", "text": "Eine historische Verteidigungsanlage in Kristiansand, die ehemals Teil der Küstenbefestigung war.", "category": "fortress", "coords": [8.016425, 58.143234]}, {"name": "Galgebergtangen", "text": "Ein Strandbereich in Kristiansand, der Besuchern einen einfachen Zugang zum Meer und Platz für Erholung bietet.", "category": "recreational", "coords": [8.019051, 58.144195]}, {"name": "Rosegården teaterhus", "text": "Ein kleines Theaterhaus in Kristiansand, das als Plattform für lokale Theatergruppen und Projekte dient.", "category": "cultural", "coords": [8.030154, 58.149243]}, {"name": "Odderøya Museumshavn", "text": "Ein Museumshafen auf der Insel Odderøya, der die maritime Geschichte und Bootstraditionen der Region zeigt.", "category": "museum", "coords": [8.000266, 58.140543]}, {"name": "Kristiansand Kunsthall", "text": "Ein Ausstellungsraum für zeitgenössische Kunst im Stadtzentrum von Kristiansand.", "category": "museum", "coords": [7.994062, 58.145711]}, {"name": "Ravnedalen", "text": "Ein idyllischer Naturpark in Kristiansand, bekannt für seine steilen Felswände und die Freilichtbühne.", "category": "park", "coords": [7.973529, 58.155966]}, {"name": "Wergelandsparken", "text": "Ein Park im Zentrum von Kristiansand, benannt nach dem norwegischen Dichter Henrik Wergeland.", "category": "park", "coords": [7.995605, 58.146701]}, {"name": "Otterdalsparken", "text": "Eine Parkanlage am Hafen von Kristiansand, die für ihre markanten Brunnen und Skulpturen bekannt ist.", "category": "park", "coords": [7.999851, 58.143023]}, {"name": "Stener Heyerdahls park", "text": "Ein öffentlicher Park in der Altstadt von Kristiansand.", "category": "park", "coords": [7.992577, 58.149113]}, {"name": "Kilden", "text": "Ein modernes Theater- und Konzerthaus in Kristiansand.", "category": "cultural", "coords": [7.99695, 58.139121]}, {"name": "Børsparken", "text": "Ein kleiner Stadtpark in Kristiansand.", "category": "park", "coords": [7.992187, 58.144641]}, {"name": "Posebyen", "text": "Das historische Viertel mit traditionellen Holzhäusern in Kristiansand.", "category": "landmark", "coords": [7.998165, 58.148983]}, {"name": "Dueknipen", "text": "Ein Aussichtspunkt mit Blick über Kristiansand.", "category": "natural", "coords": [7.974532, 58.144081]}, {"name": "Agder Kunstsenter", "text": "Ein regionales Kunstzentrum und Galerie in Kristiansand.", "category": "museum", "coords": [7.99309, 58.146705]}, {"name": "Cruise Ship Dock", "text": "Ein Aussichtspunkt am Kreuzfahrthafen von Kristiansand.", "category": "natural", "coords": [7.990285, 58.139626]}, {"name": "OscArt", "text": "Eine Kunstgalerie in der Altstadt von Kristiansand.", "category": "museum", "coords": [8.000533, 58.137826]}, {"name": "Galleri Haubitz", "text": "Im Herzen der Altstadt von Kristiansand liegt die Galleri Haubitz. Dieser Ausstellungsort in Norwegen hat sich auf zeitgenössische Kunst spezialisiert. Kunstliebhaber können durch die Räumlichkeiten schlendern und moderne Werke betrachten.", "category": "museum", "coords": [8.004448, 58.134627]}, {"name": "Bygg 143 Kunst og Design", "text": "Ein Raum für Kunst und Design in Kristiansand.", "category": "museum", "coords": [8.00345, 58.133986]}, {"name": "FOTOHUSKRS Atelier & Galleri", "text": "Ein Fotoatelier und Galerie in Kristiansand.", "category": "museum", "coords": [8.004506, 58.133688]}, {"name": "Nordre Batteri", "text": "Überreste einer historischen Verteidigungsanlage in Kristiansand.", "category": "historical", "coords": [8.00212, 58.136688]}, {"name": "Kristiansand rådhus", "text": "Das Rathaus der Stadt Kristiansand.", "category": "historical", "coords": [7.997024, 58.146731]}, {"name": "Grim kirke", "text": "Eine lutherische Kirche im Stadtteil Grim in Kristiansand.", "category": "religious", "coords": [7.97241, 58.148019]}, {"name": "Oddernes kirke", "text": "Eine historische mittelalterliche Steinkirche in Kristiansand.", "category": "religious", "coords": [8.013573, 58.159708]}, {"name": "Lund kirke", "text": "Eine Kirche im Stadtteil Lund in Kristiansand.", "category": "religious", "coords": [8.012024, 58.152571]}], "hu": [{"name": "Odderøya Fyr", "text": "Az Odderøya világítótorony 1832 óta jelzi a kristiansandi kikötő bejáratát.", "category": "landmark", "coords": [8.002248, 58.131441]}, {"name": "Naturmuseum og botanisk hage Universitetet i Agder", "text": "Természettudományi múzeum botanikus kerttel, amely a regionális flóra sokszínűségét mutatja be.", "category": "museum", "coords": [8.003637, 58.158973]}, {"name": "Bystranda", "text": "A Bystranda egy népszerű homokos strand Kristiansand városközpontjában, Kék Zászló minősítéssel.", "category": "recreational", "coords": [8.007349, 58.146]}, {"name": "Christiansholm festning", "text": "A 17. században épült erőd Kristiansand védelmére, amelyet ma kulturális rendezvényekre használnak.", "category": "fortress", "coords": [8.003574, 58.144124]}, {"name": "Kristiansand museum", "text": "Szabadtéri múzeum Kristiansandban, amely Dél-Norvégia történelmi épületeit és kultúrtörténetét mutatja be.", "category": "museum", "coords": [8.030896, 58.161562]}, {"name": "Kristiansand kommuneskog dyrelivsfredning", "text": "Védett erdőterület Kristiansand közelében, amely a helyi vadvilág megőrzését szolgálja.", "category": "natural", "coords": [7.947532, 58.160837]}, {"name": "Stiftelsen Arkivet", "text": "Dokumentációs központ és múzeum Kristiansandban, amely egy egykori Gestapo-főhadiszálláson található.", "category": "museum", "coords": [7.981537, 58.14467]}, {"name": "Kristiansand teater", "text": "Kristiansand városi színháza az előadó-művészetek fontos helyszíne Dél-Norvégiában.", "category": "cultural", "coords": [7.995597, 58.142994]}, {"name": "Bragdøya Kystkultursenter", "text": "Bragdøya szigetén található központ, amely a part menti kultúra és a tengerészeti történelem megőrzésének szentelték.", "category": "museum", "coords": [7.98365, 58.12022]}, {"name": "Kuholmen batteri", "text": "Történelmi védelmi létesítmény Kristiansandban, amely korábban a parti erődítmény része volt.", "category": "fortress", "coords": [8.016425, 58.143234]}, {"name": "Galgebergtangen", "text": "Strandterület Kristiansandban, amely könnyű kijutást biztosít a tengerhez és helyet kínál a pihenéshez.", "category": "recreational", "coords": [8.019051, 58.144195]}, {"name": "Rosegården teaterhus", "text": "Kisméretű színház Kristiansandban, amely helyi színtársulatok és projektek platformjaként szolgál.", "category": "cultural", "coords": [8.030154, 58.149243]}, {"name": "Odderøya Museumshavn", "text": "Múzeumi kikötő Odderøya szigetén, amely a régió tengerészeti történelmét és hajózási hagyományait mutatja be.", "category": "museum", "coords": [8.000266, 58.140543]}, {"name": "Kristiansand Kunsthall", "text": "Kortárs művészeti kiállítótér Kristiansand városközpontjában.", "category": "museum", "coords": [7.994062, 58.145711]}, {"name": "Ravnedalen", "text": "Idilli natúrpark Kristiansandban, amely meredek sziklafalairól és szabadtéri színpadáról ismert.", "category": "park", "coords": [7.973529, 58.155966]}, {"name": "Wergelandsparken", "text": "Kristiansand központjában található park, amelyet Henrik Wergeland norvég költőről neveztek el.", "category": "park", "coords": [7.995605, 58.146701]}, {"name": "Otterdalsparken", "text": "Kristiansand kikötőjénél található park, amely jellegzetes szökőkútjairól és szobrairól ismert.", "category": "park", "coords": [7.999851, 58.143023]}, {"name": "Stener Heyerdahls park", "text": "Nyilvános park Kristiansand óvárosában.", "category": "park", "coords": [7.992577, 58.149113]}, {"name": "Kilden", "text": "Modern színház- és hangversenyterem Kristiansandban.", "category": "cultural", "coords": [7.99695, 58.139121]}, {"name": "Børsparken", "text": "Kis városi park Kristiansandban.", "category": "park", "coords": [7.992187, 58.144641]}, {"name": "Posebyen", "text": "Kristiansand történelmi negyede hagyományos faházakkal.", "category": "landmark", "coords": [7.998165, 58.148983]}, {"name": "Dueknipen", "text": "Kilátópont Kristiansand városára.", "category": "natural", "coords": [7.974532, 58.144081]}, {"name": "Agder Kunstsenter", "text": "Regionális művészeti központ és galéria Kristiansandban.", "category": "museum", "coords": [7.99309, 58.146705]}, {"name": "Cruise Ship Dock", "text": "Kilátópont Kristiansand skandináv kikötőjénél.", "category": "natural", "coords": [7.990285, 58.139626]}, {"name": "OscArt", "text": "Művészeti galéria Kristiansand óvárosában.", "category": "museum", "coords": [8.000533, 58.137826]}, {"name": "Galleri Haubitz", "text": "Kristiansand óvárosának szívében található a Galleri Haubitz. Ez a norvégiai kiállítótér a kortárs művészetre specializálódott. A művészetkedvelők sétálhatnak a termekben, és megcsodálhatják a modern alkotásokat.", "category": "museum", "coords": [8.004448, 58.134627]}, {"name": "Bygg 143 Kunst og Design", "text": "Művészeti és design stúdió Kristiansandban.", "category": "museum", "coords": [8.00345, 58.133986]}, {"name": "FOTOHUSKRS Atelier & Galleri", "text": "Fotóműterem és galéria Kristiansandban.", "category": "museum", "coords": [8.004506, 58.133688]}, {"name": "Nordre Batteri", "text": "Egy történelmi erődítmény maradványai Kristiansandban.", "category": "historical", "coords": [8.00212, 58.136688]}, {"name": "Kristiansand rådhus", "text": "Kristiansand város városházája.", "category": "historical", "coords": [7.997024, 58.146731]}, {"name": "Grim kirke", "text": "Evangélikus templom Kristiansand Grim negyedében.", "category": "religious", "coords": [7.97241, 58.148019]}, {"name": "Oddernes kirke", "text": "Történelmi középkori kőtemplom Kristiansandban.", "category": "religious", "coords": [8.013573, 58.159708]}, {"name": "Lund kirke", "text": "Templom Kristiansand Lund negyedében.", "category": "religious", "coords": [8.012024, 58.152571]}], "ro": [{"name": "Odderøya Fyr", "text": "Farul Odderøya marchează intrarea în portul Kristiansand încă din 1832.", "category": "landmark", "coords": [8.002248, 58.131441]}, {"name": "Naturmuseum og botanisk hage Universitetet i Agder", "text": "Un muzeu de istorie naturală cu o grădină botanică ce prezintă diversitatea florei regionale.", "category": "museum", "coords": [8.003637, 58.158973]}, {"name": "Bystranda", "text": "Bystranda este o plajă de nisip populară în centrul orașului Kristiansand, certificată cu Steagul Albastru.", "category": "recreational", "coords": [8.007349, 58.146]}, {"name": "Christiansholm festning", "text": "O fortăreață construită în secolul al XVII-lea pentru protecția orașului Kristiansand, utilizată astăzi pentru evenimente culturale.", "category": "fortress", "coords": [8.003574, 58.144124]}, {"name": "Kristiansand museum", "text": "Un muzeu în aer liber din Kristiansand, care prezintă clădiri istorice și istoria culturală a regiunii Norvegiei de Sud.", "category": "museum", "coords": [8.030896, 58.161562]}, {"name": "Kristiansand kommuneskog dyrelivsfredning", "text": "O zonă forestieră protejată lângă Kristiansand, dedicată conservării faunei locale.", "category": "natural", "coords": [7.947532, 58.160837]}, {"name": "Stiftelsen Arkivet", "text": "Un centru de documentare și muzeu în Kristiansand, situat într-un fost sediu al Gestapo.", "category": "museum", "coords": [7.981537, 58.14467]}, {"name": "Kristiansand teater", "text": "Teatrul orașului Kristiansand este un loc important pentru artele spectacolului în Norvegia de Sud.", "category": "cultural", "coords": [7.995597, 58.142994]}, {"name": "Bragdøya Kystkultursenter", "text": "Un centru pe insula Bragdøya dedicat conservării culturii de coastă și istoriei maritime.", "category": "museum", "coords": [7.98365, 58.12022]}, {"name": "Kuholmen batteri", "text": "O fortificație istorică în Kristiansand, care anterior a făcut parte din sistemul de apărare de coastă.", "category": "fortress", "coords": [8.016425, 58.143234]}, {"name": "Galgebergtangen", "text": "O zonă de plajă în Kristiansand, oferind vizitatorilor acces ușor la mare și spațiu pentru recreere.", "category": "recreational", "coords": [8.019051, 58.144195]}, {"name": "Rosegården teaterhus", "text": "O casă de teatru mică în Kristiansand, care servește ca platformă pentru trupe de teatru și proiecte locale.", "category": "cultural", "coords": [8.030154, 58.149243]}, {"name": "Odderøya Museumshavn", "text": "Un port muzeu pe insula Odderøya, care prezintă istoria maritimă și tradițiile navale ale regiunii.", "category": "museum", "coords": [8.000266, 58.140543]}, {"name": "Kristiansand Kunsthall", "text": "Un spațiu expozițional pentru artă contemporană situat în centrul orașului Kristiansand.", "category": "museum", "coords": [7.994062, 58.145711]}, {"name": "Ravnedalen", "text": "Un parc natural idilic în Kristiansand, cunoscut pentru pereții săi stâncoși abrupți și scena în aer liber.", "category": "park", "coords": [7.973529, 58.155966]}, {"name": "Wergelandsparken", "text": "Un parc în centrul orașului Kristiansand, numit după poetul norvegian Henrik Wergeland.", "category": "park", "coords": [7.995605, 58.146701]}, {"name": "Otterdalsparken", "text": "Un parc lângă portul Kristiansand, cunoscut pentru fântânile și sculpturile sale remarcabile.", "category": "park", "coords": [7.999851, 58.143023]}, {"name": "Stener Heyerdahls park", "text": "Un parc public în orașul vechi din Kristiansand.", "category": "park", "coords": [7.992577, 58.149113]}, {"name": "Kilden", "text": "Un centru modern de teatru și concerte din Kristiansand.", "category": "cultural", "coords": [7.99695, 58.139121]}, {"name": "Børsparken", "text": "Un mic parc urban în Kristiansand.", "category": "park", "coords": [7.992187, 58.144641]}, {"name": "Posebyen", "text": "Cartierul istoric din Kristiansand, cunoscut pentru casele sale tradiționale din lemn.", "category": "landmark", "coords": [7.998165, 58.148983]}, {"name": "Dueknipen", "text": "Un punct de observație cu vedere asupra orașului Kristiansand.", "category": "natural", "coords": [7.974532, 58.144081]}, {"name": "Agder Kunstsenter", "text": "Un centru regional de artă și galerie în Kristiansand.", "category": "museum", "coords": [7.99309, 58.146705]}, {"name": "Cruise Ship Dock", "text": "Un punct de observație situat lângă docul navelor de croazieră din Kristiansand.", "category": "natural", "coords": [7.990285, 58.139626]}, {"name": "OscArt", "text": "O galerie de artă în orașul vechi din Kristiansand.", "category": "museum", "coords": [8.000533, 58.137826]}, {"name": "Galleri Haubitz", "text": "În inima orașului vechi Kristiansand se găsește Galleri Haubitz. Acest spațiu expozițional din Norvegia este specializat în arta contemporană. Iubitorii de artă se pot plimba prin încăperi pentru a observa creații moderne.", "category": "museum", "coords": [8.004448, 58.134627]}, {"name": "Bygg 143 Kunst og Design", "text": "Un spațiu dedicat artei și designului în Kristiansand.", "category": "museum", "coords": [8.00345, 58.133986]}, {"name": "FOTOHUSKRS Atelier & Galleri", "text": "Un atelier de fotografie și galerie în Kristiansand.", "category": "museum", "coords": [8.004506, 58.133688]}, {"name": "Nordre Batteri", "text": "Rămășițele unei fortificații istorice în Kristiansand.", "category": "historical", "coords": [8.00212, 58.136688]}, {"name": "Kristiansand rådhus", "text": "Primăria orașului Kristiansand.", "category": "historical", "coords": [7.997024, 58.146731]}, {"name": "Grim kirke", "text": "O biserică luterană din cartierul Grim, Kristiansand.", "category": "religious", "coords": [7.97241, 58.148019]}, {"name": "Oddernes kirke", "text": "O biserică medievală de piatră istorică în Kristiansand.", "category": "religious", "coords": [8.013573, 58.159708]}, {"name": "Lund kirke", "text": "O biserică în cartierul Lund din Kristiansand.", "category": "religious", "coords": [8.012024, 58.152571]}], "en": [{"name": "Odderøya Fyr", "text": "Odderøya Lighthouse has marked the entrance to Kristiansand's harbor since 1832.", "category": "landmark", "coords": [8.002248, 58.131441]}, {"name": "Naturmuseum og botanisk hage Universitetet i Agder", "text": "A natural history museum with a botanical garden showcasing the diversity of regional flora.", "category": "museum", "coords": [8.003637, 58.158973]}, {"name": "Bystranda", "text": "Bystranda is a popular sandy beach in Kristiansand city center, holding Blue Flag certification.", "category": "recreational", "coords": [8.007349, 58.146]}, {"name": "Christiansholm festning", "text": "A 17th-century fortress built to protect Kristiansand, now used for cultural events.", "category": "fortress", "coords": [8.003574, 58.144124]}, {"name": "Kristiansand museum", "text": "An open-air museum in Kristiansand showcasing historic buildings and the cultural history of Southern Norway.", "category": "museum", "coords": [8.030896, 58.161562]}, {"name": "Kristiansand kommuneskog dyrelivsfredning", "text": "A protected forest area near Kristiansand dedicated to preserving local wildlife.", "category": "natural", "coords": [7.947532, 58.160837]}, {"name": "Stiftelsen Arkivet", "text": "A documentation center and museum in Kristiansand located in a former Gestapo headquarters.", "category": "museum", "coords": [7.981537, 58.14467]}, {"name": "Kristiansand teater", "text": "The Kristiansand city theatre is a major venue for performing arts in Southern Norway.", "category": "cultural", "coords": [7.995597, 58.142994]}, {"name": "Bragdøya Kystkultursenter", "text": "A centre on Bragdøya island dedicated to preserving coastal culture and maritime history.", "category": "museum", "coords": [7.98365, 58.12022]}, {"name": "Kuholmen batteri", "text": "A historic defense site in Kristiansand that was formerly part of the coastal fortifications.", "category": "fortress", "coords": [8.016425, 58.143234]}, {"name": "Galgebergtangen", "text": "A beach area in Kristiansand offering visitors easy access to the sea and space for recreation.", "category": "recreational", "coords": [8.019051, 58.144195]}, {"name": "Rosegården teaterhus", "text": "A small theatre house in Kristiansand serving as a platform for local theatre groups and projects.", "category": "cultural", "coords": [8.030154, 58.149243]}, {"name": "Odderøya Museumshavn", "text": "A museum harbor on Odderøya island showcasing the region's maritime history and boating traditions.", "category": "museum", "coords": [8.000266, 58.140543]}, {"name": "Kristiansand Kunsthall", "text": "An exhibition space for contemporary art located in the city center of Kristiansand.", "category": "museum", "coords": [7.994062, 58.145711]}, {"name": "Ravnedalen", "text": "An idyllic nature park in Kristiansand known for its steep rock walls and open-air stage.", "category": "park", "coords": [7.973529, 58.155966]}, {"name": "Wergelandsparken", "text": "A park in the center of Kristiansand named after the Norwegian poet Henrik Wergeland.", "category": "park", "coords": [7.995605, 58.146701]}, {"name": "Otterdalsparken", "text": "A park by Kristiansand's harbor known for its distinctive fountains and sculptures.", "category": "park", "coords": [7.999851, 58.143023]}, {"name": "Stener Heyerdahls park", "text": "A public park located in the Old Town of Kristiansand.", "category": "park", "coords": [7.992577, 58.149113]}, {"name": "Kilden", "text": "A modern theater and concert hall in Kristiansand.", "category": "cultural", "coords": [7.99695, 58.139121]}, {"name": "Børsparken", "text": "A small urban park in Kristiansand.", "category": "park", "coords": [7.992187, 58.144641]}, {"name": "Posebyen", "text": "The historic district of Kristiansand, known for its traditional wooden houses.", "category": "landmark", "coords": [7.998165, 58.148983]}, {"name": "Dueknipen", "text": "A viewpoint offering panoramic views over Kristiansand.", "category": "natural", "coords": [7.974532, 58.144081]}, {"name": "Agder Kunstsenter", "text": "A regional art center and gallery in Kristiansand.", "category": "museum", "coords": [7.99309, 58.146705]}, {"name": "Cruise Ship Dock", "text": "A viewpoint located by the cruise ship dock in Kristiansand.", "category": "natural", "coords": [7.990285, 58.139626]}, {"name": "OscArt", "text": "An art gallery located in the Old Town of Kristiansand.", "category": "museum", "coords": [8.000533, 58.137826]}, {"name": "Galleri Haubitz", "text": "Located in the heart of Kristiansand Old Town is the Galleri Haubitz. This exhibition space in Norway specializes in contemporary art. Art lovers can stroll through the rooms to observe modern creative works.", "category": "museum", "coords": [8.004448, 58.134627]}, {"name": "Bygg 143 Kunst og Design", "text": "A space dedicated to art and design in Kristiansand.", "category": "museum", "coords": [8.00345, 58.133986]}, {"name": "FOTOHUSKRS Atelier & Galleri", "text": "A photography studio and gallery in Kristiansand.", "category": "museum", "coords": [8.004506, 58.133688]}, {"name": "Nordre Batteri", "text": "Remains of a historical defensive fortification in Kristiansand.", "category": "historical", "coords": [8.00212, 58.136688]}, {"name": "Kristiansand rådhus", "text": "The town hall of the city of Kristiansand.", "category": "historical", "coords": [7.997024, 58.146731]}, {"name": "Grim kirke", "text": "A Lutheran church located in the Grim district of Kristiansand.", "category": "religious", "coords": [7.97241, 58.148019]}, {"name": "Oddernes kirke", "text": "A historic medieval stone church in Kristiansand.", "category": "religious", "coords": [8.013573, 58.159708]}, {"name": "Lund kirke", "text": "A church located in the Lund district of Kristiansand.", "category": "religious", "coords": [8.012024, 58.152571]}]},
+    id: "norway-kristiansand-old-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Odderøya Fyr",
+                  "text": "Der Leuchtturm von Odderøya markiert seit 1832 die Einfahrt zum Hafen von Kristiansand.",
+                  "category": "landmark",
+                  "coords": [
+                        8.002248,
+                        58.131441
+                  ]
+            },
+            {
+                  "name": "Naturmuseum og botanisk hage Universitetet i Agder",
+                  "text": "Ein Naturkundemuseum mit einem botanischen Garten, der die Vielfalt der regionalen Flora zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        8.003637,
+                        58.158973
+                  ]
+            },
+            {
+                  "name": "Bystranda",
+                  "text": "Bystranda ist ein beliebter Sandstrand im Stadtzentrum von Kristiansand mit der Blauen Flagge.",
+                  "category": "recreational",
+                  "coords": [
+                        8.007349,
+                        58.146
+                  ]
+            },
+            {
+                  "name": "Christiansholm festning",
+                  "text": "Eine im 17. Jahrhundert errichtete Festung zum Schutz von Kristiansand, die heute für kulturelle Veranstaltungen genutzt wird.",
+                  "category": "fortress",
+                  "coords": [
+                        8.003574,
+                        58.144124
+                  ]
+            },
+            {
+                  "name": "Kristiansand museum",
+                  "text": "Ein Freilichtmuseum in Kristiansand, das historische Gebäude und die Kulturgeschichte der Region Südnorwegen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        8.030896,
+                        58.161562
+                  ]
+            },
+            {
+                  "name": "Kristiansand kommuneskog dyrelivsfredning",
+                  "text": "Ein geschütztes Waldgebiet bei Kristiansand, das der Erhaltung der lokalen Tierwelt dient.",
+                  "category": "natural",
+                  "coords": [
+                        7.947532,
+                        58.160837
+                  ]
+            },
+            {
+                  "name": "Stiftelsen Arkivet",
+                  "text": "Ein Dokumentationszentrum und Museum in Kristiansand, das sich in einem ehemaligen Gestapo-Hauptquartier befindet.",
+                  "category": "museum",
+                  "coords": [
+                        7.981537,
+                        58.14467
+                  ]
+            },
+            {
+                  "name": "Kristiansand teater",
+                  "text": "Das Stadttheater von Kristiansand ist ein wichtiger Veranstaltungsort für darstellende Kunst in Südnorwegen.",
+                  "category": "cultural",
+                  "coords": [
+                        7.995597,
+                        58.142994
+                  ]
+            },
+            {
+                  "name": "Bragdøya Kystkultursenter",
+                  "text": "Ein Zentrum auf der Insel Bragdøya, das sich der Bewahrung der Küstenkultur und maritimen Geschichte widmet.",
+                  "category": "museum",
+                  "coords": [
+                        7.98365,
+                        58.12022
+                  ]
+            },
+            {
+                  "name": "Kuholmen batteri",
+                  "text": "Eine historische Verteidigungsanlage in Kristiansand, die ehemals Teil der Küstenbefestigung war.",
+                  "category": "fortress",
+                  "coords": [
+                        8.016425,
+                        58.143234
+                  ]
+            },
+            {
+                  "name": "Galgebergtangen",
+                  "text": "Ein Strandbereich in Kristiansand, der Besuchern einen einfachen Zugang zum Meer und Platz für Erholung bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        8.019051,
+                        58.144195
+                  ]
+            },
+            {
+                  "name": "Rosegården teaterhus",
+                  "text": "Ein kleines Theaterhaus in Kristiansand, das als Plattform für lokale Theatergruppen und Projekte dient.",
+                  "category": "cultural",
+                  "coords": [
+                        8.030154,
+                        58.149243
+                  ]
+            },
+            {
+                  "name": "Odderøya Museumshavn",
+                  "text": "Ein Museumshafen auf der Insel Odderøya, der die maritime Geschichte und Bootstraditionen der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        8.000266,
+                        58.140543
+                  ]
+            },
+            {
+                  "name": "Kristiansand Kunsthall",
+                  "text": "Ein Ausstellungsraum für zeitgenössische Kunst im Stadtzentrum von Kristiansand.",
+                  "category": "museum",
+                  "coords": [
+                        7.994062,
+                        58.145711
+                  ]
+            },
+            {
+                  "name": "Ravnedalen",
+                  "text": "Ein idyllischer Naturpark in Kristiansand, bekannt für seine steilen Felswände und die Freilichtbühne.",
+                  "category": "park",
+                  "coords": [
+                        7.973529,
+                        58.155966
+                  ]
+            },
+            {
+                  "name": "Wergelandsparken",
+                  "text": "Ein Park im Zentrum von Kristiansand, benannt nach dem norwegischen Dichter Henrik Wergeland.",
+                  "category": "park",
+                  "coords": [
+                        7.995605,
+                        58.146701
+                  ]
+            },
+            {
+                  "name": "Otterdalsparken",
+                  "text": "Eine Parkanlage am Hafen von Kristiansand, die für ihre markanten Brunnen und Skulpturen bekannt ist.",
+                  "category": "park",
+                  "coords": [
+                        7.999851,
+                        58.143023
+                  ]
+            },
+            {
+                  "name": "Stener Heyerdahls park",
+                  "text": "Der Stener Heyerdahls Park ist eine kleine Grünanlage mit einer Statue von Stener Heyerdahl im historischen Viertel von Kristiansand.",
+                  "category": "park",
+                  "coords": [
+                        7.992577,
+                        58.149113
+                  ]
+            },
+            {
+                  "name": "Kilden",
+                  "text": "Kilden teater- og konserthus – Kulturzentrum am Wasser in Kristiansand.",
+                  "category": "cultural",
+                  "coords": [
+                        7.99695,
+                        58.139121
+                  ]
+            },
+            {
+                  "name": "Børsparken",
+                  "text": "Der Børsparken ist eine Grünfläche neben der ehemaligen Börse in der Altstadt von Kristiansand.",
+                  "category": "park",
+                  "coords": [
+                        7.992187,
+                        58.144641
+                  ]
+            },
+            {
+                  "name": "Posebyen",
+                  "text": "Das historische Viertel mit traditionellen Holzhäusern in Kristiansand.",
+                  "category": "landmark",
+                  "coords": [
+                        7.998165,
+                        58.148983
+                  ]
+            },
+            {
+                  "name": "Dueknipen",
+                  "text": "Ein Aussichtspunkt mit Blick über Kristiansand.",
+                  "category": "natural",
+                  "coords": [
+                        7.974532,
+                        58.144081
+                  ]
+            },
+            {
+                  "name": "Agder Kunstsenter",
+                  "text": "Das Agder Kunstsenter in der Altstadt von Kristiansand.",
+                  "category": "museum",
+                  "coords": [
+                        7.99309,
+                        58.146705
+                  ]
+            },
+            {
+                  "name": "Cruise Ship Dock",
+                  "text": "Der Kreuzfahrtschiffanleger im Hafen der Altstadt von Kristiansand.",
+                  "category": "natural",
+                  "coords": [
+                        7.990285,
+                        58.139626
+                  ]
+            },
+            {
+                  "name": "OscArt",
+                  "text": "Eine Kunstgalerie in der Altstadt von Kristiansand.",
+                  "category": "museum",
+                  "coords": [
+                        8.000533,
+                        58.137826
+                  ]
+            },
+            {
+                  "name": "Galleri Haubitz",
+                  "text": "Im Herzen der Altstadt von Kristiansand liegt die Galleri Haubitz. Dieser Ausstellungsort in Norwegen hat sich auf zeitgenössische Kunst spezialisiert. Kunstliebhaber können durch die Räumlichkeiten schlendern und moderne Werke betrachten.",
+                  "category": "museum",
+                  "coords": [
+                        8.004448,
+                        58.134627
+                  ]
+            },
+            {
+                  "name": "Bygg 143 Kunst og Design",
+                  "text": "Das Kunst- und Designmuseum Bygg 143 in der Altstadt von Kristiansand.",
+                  "category": "museum",
+                  "coords": [
+                        8.00345,
+                        58.133986
+                  ]
+            },
+            {
+                  "name": "FOTOHUSKRS Atelier & Galleri",
+                  "text": "Das Fotoatelier und die Galerie FOTOHUSKRS in der Altstadt von Kristiansand.",
+                  "category": "museum",
+                  "coords": [
+                        8.004506,
+                        58.133688
+                  ]
+            },
+            {
+                  "name": "Nordre Batteri",
+                  "text": "Überreste einer historischen Verteidigungsanlage in Kristiansand.",
+                  "category": "historical",
+                  "coords": [
+                        8.00212,
+                        58.136688
+                  ]
+            },
+            {
+                  "name": "Kristiansand rådhus",
+                  "text": "Historisches Rathaus am Hauptplatz der Altstadt von Kristiansand.",
+                  "category": "historical",
+                  "coords": [
+                        7.997024,
+                        58.146731
+                  ]
+            },
+            {
+                  "name": "Grim kirke",
+                  "text": "Eine lutherische Kirche im Stadtteil Grim in Kristiansand.",
+                  "category": "religious",
+                  "coords": [
+                        7.97241,
+                        58.148019
+                  ]
+            },
+            {
+                  "name": "Oddernes kirke",
+                  "text": "Eine historische mittelalterliche Steinkirche in Kristiansand.",
+                  "category": "religious",
+                  "coords": [
+                        8.013573,
+                        58.159708
+                  ]
+            },
+            {
+                  "name": "Lund kirke",
+                  "text": "Eine Kirche im Stadtteil Lund in Kristiansand.",
+                  "category": "religious",
+                  "coords": [
+                        8.012024,
+                        58.152571
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Odderøya Fyr",
+                  "text": "Az Odderøya világítótorony 1832 óta jelzi a kristiansandi kikötő bejáratát.",
+                  "category": "landmark",
+                  "coords": [
+                        8.002248,
+                        58.131441
+                  ]
+            },
+            {
+                  "name": "Naturmuseum og botanisk hage Universitetet i Agder",
+                  "text": "Természettudományi múzeum botanikus kerttel, amely a regionális flóra sokszínűségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.003637,
+                        58.158973
+                  ]
+            },
+            {
+                  "name": "Bystranda",
+                  "text": "A Bystranda egy népszerű homokos strand Kristiansand városközpontjában, Kék Zászló minősítéssel.",
+                  "category": "recreational",
+                  "coords": [
+                        8.007349,
+                        58.146
+                  ]
+            },
+            {
+                  "name": "Christiansholm festning",
+                  "text": "A 17. században épült erőd Kristiansand védelmére, amelyet ma kulturális rendezvényekre használnak.",
+                  "category": "fortress",
+                  "coords": [
+                        8.003574,
+                        58.144124
+                  ]
+            },
+            {
+                  "name": "Kristiansand museum",
+                  "text": "Szabadtéri múzeum Kristiansandban, amely Dél-Norvégia történelmi épületeit és kultúrtörténetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.030896,
+                        58.161562
+                  ]
+            },
+            {
+                  "name": "Kristiansand kommuneskog dyrelivsfredning",
+                  "text": "Védett erdőterület Kristiansand közelében, amely a helyi vadvilág megőrzését szolgálja.",
+                  "category": "natural",
+                  "coords": [
+                        7.947532,
+                        58.160837
+                  ]
+            },
+            {
+                  "name": "Stiftelsen Arkivet",
+                  "text": "Dokumentációs központ és múzeum Kristiansandban, amely egy egykori Gestapo-főhadiszálláson található.",
+                  "category": "museum",
+                  "coords": [
+                        7.981537,
+                        58.14467
+                  ]
+            },
+            {
+                  "name": "Kristiansand teater",
+                  "text": "Kristiansand városi színháza az előadó-művészetek fontos helyszíne Dél-Norvégiában.",
+                  "category": "cultural",
+                  "coords": [
+                        7.995597,
+                        58.142994
+                  ]
+            },
+            {
+                  "name": "Bragdøya Kystkultursenter",
+                  "text": "Bragdøya szigetén található központ, amely a part menti kultúra és a tengerészeti történelem megőrzésének szentelték.",
+                  "category": "museum",
+                  "coords": [
+                        7.98365,
+                        58.12022
+                  ]
+            },
+            {
+                  "name": "Kuholmen batteri",
+                  "text": "Történelmi védelmi létesítmény Kristiansandban, amely korábban a parti erődítmény része volt.",
+                  "category": "fortress",
+                  "coords": [
+                        8.016425,
+                        58.143234
+                  ]
+            },
+            {
+                  "name": "Galgebergtangen",
+                  "text": "Strandterület Kristiansandban, amely könnyű kijutást biztosít a tengerhez és helyet kínál a pihenéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        8.019051,
+                        58.144195
+                  ]
+            },
+            {
+                  "name": "Rosegården teaterhus",
+                  "text": "Kisméretű színház Kristiansandban, amely helyi színtársulatok és projektek platformjaként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        8.030154,
+                        58.149243
+                  ]
+            },
+            {
+                  "name": "Odderøya Museumshavn",
+                  "text": "Múzeumi kikötő Odderøya szigetén, amely a régió tengerészeti történelmét és hajózási hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.000266,
+                        58.140543
+                  ]
+            },
+            {
+                  "name": "Kristiansand Kunsthall",
+                  "text": "Kortárs művészeti kiállítótér Kristiansand városközpontjában.",
+                  "category": "museum",
+                  "coords": [
+                        7.994062,
+                        58.145711
+                  ]
+            },
+            {
+                  "name": "Ravnedalen",
+                  "text": "Idilli natúrpark Kristiansandban, amely meredek sziklafalairól és szabadtéri színpadáról ismert.",
+                  "category": "park",
+                  "coords": [
+                        7.973529,
+                        58.155966
+                  ]
+            },
+            {
+                  "name": "Wergelandsparken",
+                  "text": "Kristiansand központjában található park, amelyet Henrik Wergeland norvég költőről neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        7.995605,
+                        58.146701
+                  ]
+            },
+            {
+                  "name": "Otterdalsparken",
+                  "text": "Kristiansand kikötőjénél található park, amely jellegzetes szökőkútjairól és szobrairól ismert.",
+                  "category": "park",
+                  "coords": [
+                        7.999851,
+                        58.143023
+                  ]
+            },
+            {
+                  "name": "Stener Heyerdahls park",
+                  "text": "A Stener Heyerdahls park egy kis zöldterület Stener Heyerdahl szobrával Kristiansand történelmi negyedében.",
+                  "category": "park",
+                  "coords": [
+                        7.992577,
+                        58.149113
+                  ]
+            },
+            {
+                  "name": "Kilden",
+                  "text": "Kilden teater- og konserthus – Kulturális központ a vízparton Kristiansandban.",
+                  "category": "cultural",
+                  "coords": [
+                        7.99695,
+                        58.139121
+                  ]
+            },
+            {
+                  "name": "Børsparken",
+                  "text": "A Børsparken egy zöldterület a volt tőzsde mellett Kristiansand óvárosában.",
+                  "category": "park",
+                  "coords": [
+                        7.992187,
+                        58.144641
+                  ]
+            },
+            {
+                  "name": "Posebyen",
+                  "text": "Kristiansand történelmi negyede hagyományos faházakkal.",
+                  "category": "landmark",
+                  "coords": [
+                        7.998165,
+                        58.148983
+                  ]
+            },
+            {
+                  "name": "Dueknipen",
+                  "text": "Kilátópont Kristiansand városára.",
+                  "category": "natural",
+                  "coords": [
+                        7.974532,
+                        58.144081
+                  ]
+            },
+            {
+                  "name": "Agder Kunstsenter",
+                  "text": "Az Agder Művészeti Központ Kristiansand óvárosában.",
+                  "category": "museum",
+                  "coords": [
+                        7.99309,
+                        58.146705
+                  ]
+            },
+            {
+                  "name": "Cruise Ship Dock",
+                  "text": "A körutazási hajókikötő Kristiansand óvárosi kikötőjében.",
+                  "category": "natural",
+                  "coords": [
+                        7.990285,
+                        58.139626
+                  ]
+            },
+            {
+                  "name": "OscArt",
+                  "text": "Művészeti galéria Kristiansand óvárosában.",
+                  "category": "museum",
+                  "coords": [
+                        8.000533,
+                        58.137826
+                  ]
+            },
+            {
+                  "name": "Galleri Haubitz",
+                  "text": "Kristiansand óvárosának szívében található a Galleri Haubitz. Ez a norvégiai kiállítótér a kortárs művészetre specializálódott. A művészetkedvelők sétálhatnak a termekben, és megcsodálhatják a modern alkotásokat.",
+                  "category": "museum",
+                  "coords": [
+                        8.004448,
+                        58.134627
+                  ]
+            },
+            {
+                  "name": "Bygg 143 Kunst og Design",
+                  "text": "A Bygg 143 művészeti és designmúzeum Kristiansand óvárosában.",
+                  "category": "museum",
+                  "coords": [
+                        8.00345,
+                        58.133986
+                  ]
+            },
+            {
+                  "name": "FOTOHUSKRS Atelier & Galleri",
+                  "text": "A FOTOHUSKRS fotóstúdió és galéria Kristiansand óvárosában.",
+                  "category": "museum",
+                  "coords": [
+                        8.004506,
+                        58.133688
+                  ]
+            },
+            {
+                  "name": "Nordre Batteri",
+                  "text": "Egy történelmi erődítmény maradványai Kristiansandban.",
+                  "category": "historical",
+                  "coords": [
+                        8.00212,
+                        58.136688
+                  ]
+            },
+            {
+                  "name": "Kristiansand rådhus",
+                  "text": "Történelmi városháza Kristiansand óvárosának főterén.",
+                  "category": "historical",
+                  "coords": [
+                        7.997024,
+                        58.146731
+                  ]
+            },
+            {
+                  "name": "Grim kirke",
+                  "text": "Evangélikus templom Kristiansand Grim negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        7.97241,
+                        58.148019
+                  ]
+            },
+            {
+                  "name": "Oddernes kirke",
+                  "text": "Történelmi középkori kőtemplom Kristiansandban.",
+                  "category": "religious",
+                  "coords": [
+                        8.013573,
+                        58.159708
+                  ]
+            },
+            {
+                  "name": "Lund kirke",
+                  "text": "Templom Kristiansand Lund negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        8.012024,
+                        58.152571
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Odderøya Fyr",
+                  "text": "Farul Odderøya marchează intrarea în portul Kristiansand încă din 1832.",
+                  "category": "landmark",
+                  "coords": [
+                        8.002248,
+                        58.131441
+                  ]
+            },
+            {
+                  "name": "Naturmuseum og botanisk hage Universitetet i Agder",
+                  "text": "Un muzeu de istorie naturală cu o grădină botanică ce prezintă diversitatea florei regionale.",
+                  "category": "museum",
+                  "coords": [
+                        8.003637,
+                        58.158973
+                  ]
+            },
+            {
+                  "name": "Bystranda",
+                  "text": "Bystranda este o plajă de nisip populară în centrul orașului Kristiansand, certificată cu Steagul Albastru.",
+                  "category": "recreational",
+                  "coords": [
+                        8.007349,
+                        58.146
+                  ]
+            },
+            {
+                  "name": "Christiansholm festning",
+                  "text": "O fortăreață construită în secolul al XVII-lea pentru protecția orașului Kristiansand, utilizată astăzi pentru evenimente culturale.",
+                  "category": "fortress",
+                  "coords": [
+                        8.003574,
+                        58.144124
+                  ]
+            },
+            {
+                  "name": "Kristiansand museum",
+                  "text": "Un muzeu în aer liber din Kristiansand, care prezintă clădiri istorice și istoria culturală a regiunii Norvegiei de Sud.",
+                  "category": "museum",
+                  "coords": [
+                        8.030896,
+                        58.161562
+                  ]
+            },
+            {
+                  "name": "Kristiansand kommuneskog dyrelivsfredning",
+                  "text": "O zonă forestieră protejată lângă Kristiansand, dedicată conservării faunei locale.",
+                  "category": "natural",
+                  "coords": [
+                        7.947532,
+                        58.160837
+                  ]
+            },
+            {
+                  "name": "Stiftelsen Arkivet",
+                  "text": "Un centru de documentare și muzeu în Kristiansand, situat într-un fost sediu al Gestapo.",
+                  "category": "museum",
+                  "coords": [
+                        7.981537,
+                        58.14467
+                  ]
+            },
+            {
+                  "name": "Kristiansand teater",
+                  "text": "Teatrul orașului Kristiansand este un loc important pentru artele spectacolului în Norvegia de Sud.",
+                  "category": "cultural",
+                  "coords": [
+                        7.995597,
+                        58.142994
+                  ]
+            },
+            {
+                  "name": "Bragdøya Kystkultursenter",
+                  "text": "Un centru pe insula Bragdøya dedicat conservării culturii de coastă și istoriei maritime.",
+                  "category": "museum",
+                  "coords": [
+                        7.98365,
+                        58.12022
+                  ]
+            },
+            {
+                  "name": "Kuholmen batteri",
+                  "text": "O fortificație istorică în Kristiansand, care anterior a făcut parte din sistemul de apărare de coastă.",
+                  "category": "fortress",
+                  "coords": [
+                        8.016425,
+                        58.143234
+                  ]
+            },
+            {
+                  "name": "Galgebergtangen",
+                  "text": "O zonă de plajă în Kristiansand, oferind vizitatorilor acces ușor la mare și spațiu pentru recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        8.019051,
+                        58.144195
+                  ]
+            },
+            {
+                  "name": "Rosegården teaterhus",
+                  "text": "O casă de teatru mică în Kristiansand, care servește ca platformă pentru trupe de teatru și proiecte locale.",
+                  "category": "cultural",
+                  "coords": [
+                        8.030154,
+                        58.149243
+                  ]
+            },
+            {
+                  "name": "Odderøya Museumshavn",
+                  "text": "Un port muzeu pe insula Odderøya, care prezintă istoria maritimă și tradițiile navale ale regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        8.000266,
+                        58.140543
+                  ]
+            },
+            {
+                  "name": "Kristiansand Kunsthall",
+                  "text": "Un spațiu expozițional pentru artă contemporană situat în centrul orașului Kristiansand.",
+                  "category": "museum",
+                  "coords": [
+                        7.994062,
+                        58.145711
+                  ]
+            },
+            {
+                  "name": "Ravnedalen",
+                  "text": "Un parc natural idilic în Kristiansand, cunoscut pentru pereții săi stâncoși abrupți și scena în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        7.973529,
+                        58.155966
+                  ]
+            },
+            {
+                  "name": "Wergelandsparken",
+                  "text": "Un parc în centrul orașului Kristiansand, numit după poetul norvegian Henrik Wergeland.",
+                  "category": "park",
+                  "coords": [
+                        7.995605,
+                        58.146701
+                  ]
+            },
+            {
+                  "name": "Otterdalsparken",
+                  "text": "Un parc lângă portul Kristiansand, cunoscut pentru fântânile și sculpturile sale remarcabile.",
+                  "category": "park",
+                  "coords": [
+                        7.999851,
+                        58.143023
+                  ]
+            },
+            {
+                  "name": "Stener Heyerdahls park",
+                  "text": "Parcul Stener Heyerdahls este un spațiu verde mic cu o statuie a lui Stener Heyerdahl în cartierul istoric al Kristiansandului.",
+                  "category": "park",
+                  "coords": [
+                        7.992577,
+                        58.149113
+                  ]
+            },
+            {
+                  "name": "Kilden",
+                  "text": "Kilden teater- og konserthus – Centru cultural pe malul apei în Kristiansand.",
+                  "category": "cultural",
+                  "coords": [
+                        7.99695,
+                        58.139121
+                  ]
+            },
+            {
+                  "name": "Børsparken",
+                  "text": "Børsparken este un spațiu verde lângă fosta clădire a bursei din orașul vechi al Kristiansandului.",
+                  "category": "park",
+                  "coords": [
+                        7.992187,
+                        58.144641
+                  ]
+            },
+            {
+                  "name": "Posebyen",
+                  "text": "Cartierul istoric din Kristiansand, cunoscut pentru casele sale tradiționale din lemn.",
+                  "category": "landmark",
+                  "coords": [
+                        7.998165,
+                        58.148983
+                  ]
+            },
+            {
+                  "name": "Dueknipen",
+                  "text": "Un punct de observație cu vedere asupra orașului Kristiansand.",
+                  "category": "natural",
+                  "coords": [
+                        7.974532,
+                        58.144081
+                  ]
+            },
+            {
+                  "name": "Agder Kunstsenter",
+                  "text": "Centrul de artă Agder Kunstsenter în orașul vechi Kristiansand.",
+                  "category": "museum",
+                  "coords": [
+                        7.99309,
+                        58.146705
+                  ]
+            },
+            {
+                  "name": "Cruise Ship Dock",
+                  "text": "Dana de croazieră în portul orașului vechi Kristiansand.",
+                  "category": "natural",
+                  "coords": [
+                        7.990285,
+                        58.139626
+                  ]
+            },
+            {
+                  "name": "OscArt",
+                  "text": "O galerie de artă în orașul vechi din Kristiansand.",
+                  "category": "museum",
+                  "coords": [
+                        8.000533,
+                        58.137826
+                  ]
+            },
+            {
+                  "name": "Galleri Haubitz",
+                  "text": "În inima orașului vechi Kristiansand se găsește Galleri Haubitz. Acest spațiu expozițional din Norvegia este specializat în arta contemporană. Iubitorii de artă se pot plimba prin încăperi pentru a observa creații moderne.",
+                  "category": "museum",
+                  "coords": [
+                        8.004448,
+                        58.134627
+                  ]
+            },
+            {
+                  "name": "Bygg 143 Kunst og Design",
+                  "text": "Muzeul de artă și design Bygg 143 în orașul vechi Kristiansand.",
+                  "category": "museum",
+                  "coords": [
+                        8.00345,
+                        58.133986
+                  ]
+            },
+            {
+                  "name": "FOTOHUSKRS Atelier & Galleri",
+                  "text": "Atelierul și galeria foto FOTOHUSKRS în orașul vechi Kristiansand.",
+                  "category": "museum",
+                  "coords": [
+                        8.004506,
+                        58.133688
+                  ]
+            },
+            {
+                  "name": "Nordre Batteri",
+                  "text": "Rămășițele unei fortificații istorice în Kristiansand.",
+                  "category": "historical",
+                  "coords": [
+                        8.00212,
+                        58.136688
+                  ]
+            },
+            {
+                  "name": "Kristiansand rådhus",
+                  "text": "Primărie istorică în piața principală a orașului vechi Kristiansand.",
+                  "category": "historical",
+                  "coords": [
+                        7.997024,
+                        58.146731
+                  ]
+            },
+            {
+                  "name": "Grim kirke",
+                  "text": "O biserică luterană din cartierul Grim, Kristiansand.",
+                  "category": "religious",
+                  "coords": [
+                        7.97241,
+                        58.148019
+                  ]
+            },
+            {
+                  "name": "Oddernes kirke",
+                  "text": "O biserică medievală de piatră istorică în Kristiansand.",
+                  "category": "religious",
+                  "coords": [
+                        8.013573,
+                        58.159708
+                  ]
+            },
+            {
+                  "name": "Lund kirke",
+                  "text": "O biserică în cartierul Lund din Kristiansand.",
+                  "category": "religious",
+                  "coords": [
+                        8.012024,
+                        58.152571
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Odderøya Fyr",
+                  "text": "Odderøya Lighthouse has marked the entrance to Kristiansand's harbor since 1832.",
+                  "category": "landmark",
+                  "coords": [
+                        8.002248,
+                        58.131441
+                  ]
+            },
+            {
+                  "name": "Naturmuseum og botanisk hage Universitetet i Agder",
+                  "text": "A natural history museum with a botanical garden showcasing the diversity of regional flora.",
+                  "category": "museum",
+                  "coords": [
+                        8.003637,
+                        58.158973
+                  ]
+            },
+            {
+                  "name": "Bystranda",
+                  "text": "Bystranda is a popular sandy beach in Kristiansand city center, holding Blue Flag certification.",
+                  "category": "recreational",
+                  "coords": [
+                        8.007349,
+                        58.146
+                  ]
+            },
+            {
+                  "name": "Christiansholm festning",
+                  "text": "A 17th-century fortress built to protect Kristiansand, now used for cultural events.",
+                  "category": "fortress",
+                  "coords": [
+                        8.003574,
+                        58.144124
+                  ]
+            },
+            {
+                  "name": "Kristiansand museum",
+                  "text": "An open-air museum in Kristiansand showcasing historic buildings and the cultural history of Southern Norway.",
+                  "category": "museum",
+                  "coords": [
+                        8.030896,
+                        58.161562
+                  ]
+            },
+            {
+                  "name": "Kristiansand kommuneskog dyrelivsfredning",
+                  "text": "A protected forest area near Kristiansand dedicated to preserving local wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        7.947532,
+                        58.160837
+                  ]
+            },
+            {
+                  "name": "Stiftelsen Arkivet",
+                  "text": "A documentation center and museum in Kristiansand located in a former Gestapo headquarters.",
+                  "category": "museum",
+                  "coords": [
+                        7.981537,
+                        58.14467
+                  ]
+            },
+            {
+                  "name": "Kristiansand teater",
+                  "text": "The Kristiansand city theatre is a major venue for performing arts in Southern Norway.",
+                  "category": "cultural",
+                  "coords": [
+                        7.995597,
+                        58.142994
+                  ]
+            },
+            {
+                  "name": "Bragdøya Kystkultursenter",
+                  "text": "A centre on Bragdøya island dedicated to preserving coastal culture and maritime history.",
+                  "category": "museum",
+                  "coords": [
+                        7.98365,
+                        58.12022
+                  ]
+            },
+            {
+                  "name": "Kuholmen batteri",
+                  "text": "A historic defense site in Kristiansand that was formerly part of the coastal fortifications.",
+                  "category": "fortress",
+                  "coords": [
+                        8.016425,
+                        58.143234
+                  ]
+            },
+            {
+                  "name": "Galgebergtangen",
+                  "text": "A beach area in Kristiansand offering visitors easy access to the sea and space for recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        8.019051,
+                        58.144195
+                  ]
+            },
+            {
+                  "name": "Rosegården teaterhus",
+                  "text": "A small theatre house in Kristiansand serving as a platform for local theatre groups and projects.",
+                  "category": "cultural",
+                  "coords": [
+                        8.030154,
+                        58.149243
+                  ]
+            },
+            {
+                  "name": "Odderøya Museumshavn",
+                  "text": "A museum harbor on Odderøya island showcasing the region's maritime history and boating traditions.",
+                  "category": "museum",
+                  "coords": [
+                        8.000266,
+                        58.140543
+                  ]
+            },
+            {
+                  "name": "Kristiansand Kunsthall",
+                  "text": "An exhibition space for contemporary art located in the city center of Kristiansand.",
+                  "category": "museum",
+                  "coords": [
+                        7.994062,
+                        58.145711
+                  ]
+            },
+            {
+                  "name": "Ravnedalen",
+                  "text": "An idyllic nature park in Kristiansand known for its steep rock walls and open-air stage.",
+                  "category": "park",
+                  "coords": [
+                        7.973529,
+                        58.155966
+                  ]
+            },
+            {
+                  "name": "Wergelandsparken",
+                  "text": "A park in the center of Kristiansand named after the Norwegian poet Henrik Wergeland.",
+                  "category": "park",
+                  "coords": [
+                        7.995605,
+                        58.146701
+                  ]
+            },
+            {
+                  "name": "Otterdalsparken",
+                  "text": "A park by Kristiansand's harbor known for its distinctive fountains and sculptures.",
+                  "category": "park",
+                  "coords": [
+                        7.999851,
+                        58.143023
+                  ]
+            },
+            {
+                  "name": "Stener Heyerdahls park",
+                  "text": "Stener Heyerdahls park is a small park with a statue of Stener Heyerdahl in Kristiansand's historic quarter.",
+                  "category": "park",
+                  "coords": [
+                        7.992577,
+                        58.149113
+                  ]
+            },
+            {
+                  "name": "Kilden",
+                  "text": "Kilden teater- og konserthus – Cultural centre on the waterfront in Kristiansand.",
+                  "category": "cultural",
+                  "coords": [
+                        7.99695,
+                        58.139121
+                  ]
+            },
+            {
+                  "name": "Børsparken",
+                  "text": "Børsparken is a green space next to the former stock exchange building in Kristiansand's old town.",
+                  "category": "park",
+                  "coords": [
+                        7.992187,
+                        58.144641
+                  ]
+            },
+            {
+                  "name": "Posebyen",
+                  "text": "The historic district of Kristiansand, known for its traditional wooden houses.",
+                  "category": "landmark",
+                  "coords": [
+                        7.998165,
+                        58.148983
+                  ]
+            },
+            {
+                  "name": "Dueknipen",
+                  "text": "A viewpoint offering panoramic views over Kristiansand.",
+                  "category": "natural",
+                  "coords": [
+                        7.974532,
+                        58.144081
+                  ]
+            },
+            {
+                  "name": "Agder Kunstsenter",
+                  "text": "Agder Kunstsenter art center in Kristiansand old town.",
+                  "category": "museum",
+                  "coords": [
+                        7.99309,
+                        58.146705
+                  ]
+            },
+            {
+                  "name": "Cruise Ship Dock",
+                  "text": "Cruise ship dock at Kristiansand old town harbor.",
+                  "category": "natural",
+                  "coords": [
+                        7.990285,
+                        58.139626
+                  ]
+            },
+            {
+                  "name": "OscArt",
+                  "text": "An art gallery located in the Old Town of Kristiansand.",
+                  "category": "museum",
+                  "coords": [
+                        8.000533,
+                        58.137826
+                  ]
+            },
+            {
+                  "name": "Galleri Haubitz",
+                  "text": "Located in the heart of Kristiansand Old Town is the Galleri Haubitz. This exhibition space in Norway specializes in contemporary art. Art lovers can stroll through the rooms to observe modern creative works.",
+                  "category": "museum",
+                  "coords": [
+                        8.004448,
+                        58.134627
+                  ]
+            },
+            {
+                  "name": "Bygg 143 Kunst og Design",
+                  "text": "Bygg 143 art and design museum in Kristiansand old town.",
+                  "category": "museum",
+                  "coords": [
+                        8.00345,
+                        58.133986
+                  ]
+            },
+            {
+                  "name": "FOTOHUSKRS Atelier & Galleri",
+                  "text": "FOTOHUSKRS photo studio and gallery in Kristiansand old town.",
+                  "category": "museum",
+                  "coords": [
+                        8.004506,
+                        58.133688
+                  ]
+            },
+            {
+                  "name": "Nordre Batteri",
+                  "text": "Remains of a historical defensive fortification in Kristiansand.",
+                  "category": "historical",
+                  "coords": [
+                        8.00212,
+                        58.136688
+                  ]
+            },
+            {
+                  "name": "Kristiansand rådhus",
+                  "text": "Historic town hall on the main square of Kristiansand's old town.",
+                  "category": "historical",
+                  "coords": [
+                        7.997024,
+                        58.146731
+                  ]
+            },
+            {
+                  "name": "Grim kirke",
+                  "text": "A Lutheran church located in the Grim district of Kristiansand.",
+                  "category": "religious",
+                  "coords": [
+                        7.97241,
+                        58.148019
+                  ]
+            },
+            {
+                  "name": "Oddernes kirke",
+                  "text": "A historic medieval stone church in Kristiansand.",
+                  "category": "religious",
+                  "coords": [
+                        8.013573,
+                        58.159708
+                  ]
+            },
+            {
+                  "name": "Lund kirke",
+                  "text": "A church located in the Lund district of Kristiansand.",
+                  "category": "religious",
+                  "coords": [
+                        8.012024,
+                        58.152571
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "NO",
     name: { de: "Altstadt Kristiansand", hu: "Kristiansandi óváros", ro: "Centrul vechi Kristiansand", en: "Kristiansand Old Town" },
@@ -6510,7 +7707,304 @@ export const norwayHistoryV2: POI[] = [
     image: "/poi-images/norway-larvik-museum-history-v2.webp",
   },
   {
-    id: "norway-flekkefjord-old-town-history-v2", "sights": {"de": [{"name": "Loga dyrefredningsområde", "text": "Ein Naturschutzgebiet bei Flekkefjord, das für seine reiche Flora und Fauna geschützt ist.", "category": "natural", "coords": [6.655372, 58.326277]}, {"name": "Flekkefjord museum", "text": "Ein Museum, das die Lokalgeschichte und kulturelle Entwicklung von Flekkefjord dokumentiert.", "category": "museum", "coords": [6.661765, 58.29816]}, {"name": "Søylandsvarden", "text": "Historische Überreste und Ruinen in der Nähe von Flekkefjord.", "category": "historical", "coords": [6.617293, 58.310209]}, {"name": "storeheia", "text": "Um die Landschaft in vollen Zügen zu genießen, lohnt sich ein Abstecher zur Storeheia nahe der Altstadt von Flekkefjord. Dieser natürliche Aussichtspunkt in Norwegen eröffnet einen weiten Rundblick. Naturbegeisterte erwartet hier ein herrlicher Blick auf das Umland.", "category": "natural", "coords": [6.653755, 58.301441]}, {"name": "Grimetjørn", "text": "Ein lokales Denkmal in der Umgebung von Flekkefjord.", "category": "historical", "coords": [6.640362, 58.292051]}, {"name": "Jettegryte", "text": "Ein faszinierendes geologisches Phänomen einer Gletschermühle bei Flekkefjord.", "category": "landmark", "coords": [6.678895, 58.290142]}, {"name": "Flekkfjordbanen", "text": "Eine stillgelegte Eisenbahnstrecke, die heute für touristische Draisinenfahrten genutzt wird.", "category": "landmark", "coords": [6.667593, 58.295181]}, {"name": "Flekkefjord kirke", "text": "Die achteckige Holzkirche von Flekkefjord ist ein markantes religiöses Bauwerk der Stadt.", "category": "religious", "coords": [6.661879, 58.296047]}], "hu": [{"name": "Loga dyrefredningsområde", "text": "Természetvédelmi terület Flekkefjord közelében, amelyet gazdag élővilága miatt óvnak.", "category": "natural", "coords": [6.655372, 58.326277]}, {"name": "Flekkefjord museum", "text": "Múzeum, amely Flekkefjord helytörténetét és kulturális fejlődését mutatja be.", "category": "museum", "coords": [6.661765, 58.29816]}, {"name": "Søylandsvarden", "text": "Történelmi maradványok és romok Flekkefjord közelében.", "category": "historical", "coords": [6.617293, 58.310209]}, {"name": "storeheia", "text": "A táj szépségének megcsodálásához érdemes ellátogatni a Storeheia kilátóhoz, Flekkefjord óvárosa közelében. Ez a norvégiai természeti pont széles körképet nyújt a környékről. A természetjárókat csodálatos panoráma várja itt.", "category": "natural", "coords": [6.653755, 58.301441]}, {"name": "Grimetjørn", "text": "Helyi emlékmű Flekkefjord környékén.", "category": "historical", "coords": [6.640362, 58.292051]}, {"name": "Jettegryte", "text": "Lenyűgöző geológiai jelenség, egy gleccsermalom Flekkefjord közelében.", "category": "landmark", "coords": [6.678895, 58.290142]}, {"name": "Flekkfjordbanen", "text": "Használaton kívüli vasútvonal, amelyet ma turisztikai hajtányozásra használnak.", "category": "landmark", "coords": [6.667593, 58.295181]}, {"name": "Flekkefjord kirke", "text": "Flekkefjord nyolcszögletű fatemploma a város jellegzetes vallási épülete.", "category": "religious", "coords": [6.661879, 58.296047]}], "ro": [{"name": "Loga dyrefredningsområde", "text": "O rezervație naturală lângă Flekkefjord, protejată pentru flora și fauna sa bogată.", "category": "natural", "coords": [6.655372, 58.326277]}, {"name": "Flekkefjord museum", "text": "Un muzeu care documentează istoria locală și dezvoltarea culturală a orașului Flekkefjord.", "category": "museum", "coords": [6.661765, 58.29816]}, {"name": "Søylandsvarden", "text": "Vestigii istorice și ruine situate în apropiere de Flekkefjord.", "category": "historical", "coords": [6.617293, 58.310209]}, {"name": "storeheia", "text": "Pentru a vă bucura din plin de peisaj, merită să faceți o excursie la Storeheia, lângă orașul vechi Flekkefjord. Acest punct de belvedere natural din Norvegia deschide o panoramă vastă. Pasionații de natură se pot aștepta aici la o priveliște magnifică asupra împrejurimilor.", "category": "natural", "coords": [6.653755, 58.301441]}, {"name": "Grimetjørn", "text": "Un monument local situat în zona Flekkefjord.", "category": "historical", "coords": [6.640362, 58.292051]}, {"name": "Jettegryte", "text": "Un fenomen geologic fascinant, o marmită de gigant lângă Flekkefjord.", "category": "landmark", "coords": [6.678895, 58.290142]}, {"name": "Flekkfjordbanen", "text": "O cale ferată dezafectată, folosită astăzi pentru plimbări turistice cu drezina.", "category": "landmark", "coords": [6.667593, 58.295181]}, {"name": "Flekkefjord kirke", "text": "Biserica octogonală de lemn din Flekkefjord este un edificiu religios remarcabil al orașului.", "category": "religious", "coords": [6.661879, 58.296047]}], "en": [{"name": "Loga dyrefredningsområde", "text": "A nature reserve near Flekkefjord protected for its rich flora and fauna.", "category": "natural", "coords": [6.655372, 58.326277]}, {"name": "Flekkefjord museum", "text": "A museum documenting the local history and cultural development of Flekkefjord.", "category": "museum", "coords": [6.661765, 58.29816]}, {"name": "Søylandsvarden", "text": "Historical remains and ruins located near Flekkefjord.", "category": "historical", "coords": [6.617293, 58.310209]}, {"name": "storeheia", "text": "To fully enjoy the scenery, a trip to Storeheia near Flekkefjord Old Town is highly recommended. This natural viewpoint in Norway opens up a wide, sweeping panorama. Nature enthusiasts will be rewarded with magnificent views of the surrounding countryside.", "category": "natural", "coords": [6.653755, 58.301441]}, {"name": "Grimetjørn", "text": "A local monument located in the Flekkefjord area.", "category": "historical", "coords": [6.640362, 58.292051]}, {"name": "Jettegryte", "text": "A fascinating geological phenomenon of a giant's kettle near Flekkefjord.", "category": "landmark", "coords": [6.678895, 58.290142]}, {"name": "Flekkfjordbanen", "text": "A disused railway line now used for tourist railbike trips.", "category": "landmark", "coords": [6.667593, 58.295181]}, {"name": "Flekkefjord kirke", "text": "The octagonal wooden church of Flekkefjord is a distinctive religious building in the town.", "category": "religious", "coords": [6.661879, 58.296047]}]},
+    id: "norway-flekkefjord-old-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Loga dyrefredningsområde",
+                  "text": "Ein Naturschutzgebiet bei Flekkefjord, das für seine reiche Flora und Fauna geschützt ist.",
+                  "category": "natural",
+                  "coords": [
+                        6.655372,
+                        58.326277
+                  ]
+            },
+            {
+                  "name": "Flekkefjord museum",
+                  "text": "Ein Museum, das die Lokalgeschichte und kulturelle Entwicklung von Flekkefjord dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        6.661765,
+                        58.29816
+                  ]
+            },
+            {
+                  "name": "Søylandsvarden",
+                  "text": "Der historische Steinhaufen Søylandsvarden in der Altstadt von Flekkefjord.",
+                  "category": "historical",
+                  "coords": [
+                        6.617293,
+                        58.310209
+                  ]
+            },
+            {
+                  "name": "storeheia",
+                  "text": "Um die Landschaft in vollen Zügen zu genießen, lohnt sich ein Abstecher zur Storeheia nahe der Altstadt von Flekkefjord. Dieser natürliche Aussichtspunkt in Norwegen eröffnet einen weiten Rundblick. Naturbegeisterte erwartet hier ein herrlicher Blick auf das Umland.",
+                  "category": "natural",
+                  "coords": [
+                        6.653755,
+                        58.301441
+                  ]
+            },
+            {
+                  "name": "Grimetjørn",
+                  "text": "Der historische Teich Grimetjørn in der Altstadt von Flekkefjord.",
+                  "category": "historical",
+                  "coords": [
+                        6.640362,
+                        58.292051
+                  ]
+            },
+            {
+                  "name": "Jettegryte",
+                  "text": "Ein faszinierendes geologisches Phänomen einer Gletschermühle bei Flekkefjord.",
+                  "category": "landmark",
+                  "coords": [
+                        6.678895,
+                        58.290142
+                  ]
+            },
+            {
+                  "name": "Flekkfjordbanen",
+                  "text": "Eine stillgelegte Eisenbahnstrecke, die heute für touristische Draisinenfahrten genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        6.667593,
+                        58.295181
+                  ]
+            },
+            {
+                  "name": "Flekkefjord kirke",
+                  "text": "Die achteckige Holzkirche von Flekkefjord ist ein markantes religiöses Bauwerk der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.661879,
+                        58.296047
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Loga dyrefredningsområde",
+                  "text": "Természetvédelmi terület Flekkefjord közelében, amelyet gazdag élővilága miatt óvnak.",
+                  "category": "natural",
+                  "coords": [
+                        6.655372,
+                        58.326277
+                  ]
+            },
+            {
+                  "name": "Flekkefjord museum",
+                  "text": "Múzeum, amely Flekkefjord helytörténetét és kulturális fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        6.661765,
+                        58.29816
+                  ]
+            },
+            {
+                  "name": "Søylandsvarden",
+                  "text": "A történelmi kőhalom Søylandsvarden Flekkefjord óvárosában.",
+                  "category": "historical",
+                  "coords": [
+                        6.617293,
+                        58.310209
+                  ]
+            },
+            {
+                  "name": "storeheia",
+                  "text": "A táj szépségének megcsodálásához érdemes ellátogatni a Storeheia kilátóhoz, Flekkefjord óvárosa közelében. Ez a norvégiai természeti pont széles körképet nyújt a környékről. A természetjárókat csodálatos panoráma várja itt.",
+                  "category": "natural",
+                  "coords": [
+                        6.653755,
+                        58.301441
+                  ]
+            },
+            {
+                  "name": "Grimetjørn",
+                  "text": "A történelmi tó Grimetjørn Flekkefjord óvárosában.",
+                  "category": "historical",
+                  "coords": [
+                        6.640362,
+                        58.292051
+                  ]
+            },
+            {
+                  "name": "Jettegryte",
+                  "text": "Lenyűgöző geológiai jelenség, egy gleccsermalom Flekkefjord közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        6.678895,
+                        58.290142
+                  ]
+            },
+            {
+                  "name": "Flekkfjordbanen",
+                  "text": "Használaton kívüli vasútvonal, amelyet ma turisztikai hajtányozásra használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        6.667593,
+                        58.295181
+                  ]
+            },
+            {
+                  "name": "Flekkefjord kirke",
+                  "text": "Flekkefjord nyolcszögletű fatemploma a város jellegzetes vallási épülete.",
+                  "category": "religious",
+                  "coords": [
+                        6.661879,
+                        58.296047
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Loga dyrefredningsområde",
+                  "text": "O rezervație naturală lângă Flekkefjord, protejată pentru flora și fauna sa bogată.",
+                  "category": "natural",
+                  "coords": [
+                        6.655372,
+                        58.326277
+                  ]
+            },
+            {
+                  "name": "Flekkefjord museum",
+                  "text": "Un muzeu care documentează istoria locală și dezvoltarea culturală a orașului Flekkefjord.",
+                  "category": "museum",
+                  "coords": [
+                        6.661765,
+                        58.29816
+                  ]
+            },
+            {
+                  "name": "Søylandsvarden",
+                  "text": "Movila istorică de piatră Søylandsvarden în orașul vechi Flekkefjord.",
+                  "category": "historical",
+                  "coords": [
+                        6.617293,
+                        58.310209
+                  ]
+            },
+            {
+                  "name": "storeheia",
+                  "text": "Pentru a vă bucura din plin de peisaj, merită să faceți o excursie la Storeheia, lângă orașul vechi Flekkefjord. Acest punct de belvedere natural din Norvegia deschide o panoramă vastă. Pasionații de natură se pot aștepta aici la o priveliște magnifică asupra împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        6.653755,
+                        58.301441
+                  ]
+            },
+            {
+                  "name": "Grimetjørn",
+                  "text": "Lacul istoric Grimetjørn în orașul vechi Flekkefjord.",
+                  "category": "historical",
+                  "coords": [
+                        6.640362,
+                        58.292051
+                  ]
+            },
+            {
+                  "name": "Jettegryte",
+                  "text": "Un fenomen geologic fascinant, o marmită de gigant lângă Flekkefjord.",
+                  "category": "landmark",
+                  "coords": [
+                        6.678895,
+                        58.290142
+                  ]
+            },
+            {
+                  "name": "Flekkfjordbanen",
+                  "text": "O cale ferată dezafectată, folosită astăzi pentru plimbări turistice cu drezina.",
+                  "category": "landmark",
+                  "coords": [
+                        6.667593,
+                        58.295181
+                  ]
+            },
+            {
+                  "name": "Flekkefjord kirke",
+                  "text": "Biserica octogonală de lemn din Flekkefjord este un edificiu religios remarcabil al orașului.",
+                  "category": "religious",
+                  "coords": [
+                        6.661879,
+                        58.296047
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Loga dyrefredningsområde",
+                  "text": "A nature reserve near Flekkefjord protected for its rich flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        6.655372,
+                        58.326277
+                  ]
+            },
+            {
+                  "name": "Flekkefjord museum",
+                  "text": "A museum documenting the local history and cultural development of Flekkefjord.",
+                  "category": "museum",
+                  "coords": [
+                        6.661765,
+                        58.29816
+                  ]
+            },
+            {
+                  "name": "Søylandsvarden",
+                  "text": "Søylandsvarden historic cairn in Flekkefjord old town.",
+                  "category": "historical",
+                  "coords": [
+                        6.617293,
+                        58.310209
+                  ]
+            },
+            {
+                  "name": "storeheia",
+                  "text": "To fully enjoy the scenery, a trip to Storeheia near Flekkefjord Old Town is highly recommended. This natural viewpoint in Norway opens up a wide, sweeping panorama. Nature enthusiasts will be rewarded with magnificent views of the surrounding countryside.",
+                  "category": "natural",
+                  "coords": [
+                        6.653755,
+                        58.301441
+                  ]
+            },
+            {
+                  "name": "Grimetjørn",
+                  "text": "Grimetjørn historic pond in Flekkefjord old town.",
+                  "category": "historical",
+                  "coords": [
+                        6.640362,
+                        58.292051
+                  ]
+            },
+            {
+                  "name": "Jettegryte",
+                  "text": "A fascinating geological phenomenon of a giant's kettle near Flekkefjord.",
+                  "category": "landmark",
+                  "coords": [
+                        6.678895,
+                        58.290142
+                  ]
+            },
+            {
+                  "name": "Flekkfjordbanen",
+                  "text": "A disused railway line now used for tourist railbike trips.",
+                  "category": "landmark",
+                  "coords": [
+                        6.667593,
+                        58.295181
+                  ]
+            },
+            {
+                  "name": "Flekkefjord kirke",
+                  "text": "The octagonal wooden church of Flekkefjord is a distinctive religious building in the town.",
+                  "category": "religious",
+                  "coords": [
+                        6.661879,
+                        58.296047
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "NO",
     name: { de: "Altstadt Flekkefjord", hu: "Flekkefjordi óváros", ro: "Centrul vechi Flekkefjord", en: "Flekkefjord Old Town" },

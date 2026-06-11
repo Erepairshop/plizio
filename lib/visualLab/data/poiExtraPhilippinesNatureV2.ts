@@ -4,7 +4,52 @@ import type { POI } from "./poi";
 
 export const poiExtraPhilippinesNatureV2: POI[] = [
   {
-    id: "ph-tubbbataha-reefs-natural-park-nature-v2",
+    id: "ph-tubbbataha-reefs-natural-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jessey Beasly Reef",
+                  "text": "Eine lebhafte Korallenriff-Formation im Meeresschutzgebiet Tubbataha, das für seine vielfältige Unterwasserwelt und hervorragenden Tauchbedingungen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        120.013579,
+                        8.927241
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jessey Beasly Reef",
+                  "text": "Élettel teli korallzátony a Tubbataha tengeri védett területen belül, amely változatos tengeri élővilágáról és kiváló merülési lehetőségeiről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        120.013579,
+                        8.927241
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jessey Beasly Reef",
+                  "text": "O formațiune vibrantă de recif de corali din cadrul ariei marine protejate Tubbataha, renumită pentru viața marină diversă și scufundările excelente.",
+                  "category": "landmark",
+                  "coords": [
+                        120.013579,
+                        8.927241
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jessey Beasly Reef",
+                  "text": "A vibrant coral reef formation within the Tubbataha marine protected area, renowned for its diverse marine life and excellent diving.",
+                  "category": "landmark",
+                  "coords": [
+                        120.013579,
+                        8.927241
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "PH-PLW",
     coords: [119.9542, 8.9525],
@@ -58,7 +103,556 @@ image: "/poi-images/ph-tubbbataha-reefs-natural-park-nature-v2.webp",
     
   },
   {
-    id: "ph-puerto-princesa-subterranean-river-np-nature-v2",
+    id: "ph-puerto-princesa-subterranean-river-np-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Subterranean River National Park",
+                  "text": "Ein renommiertes UNESCO-Weltkulturerbe mit einer komplexen Kalksteinkarstlandschaft und einem massiven unterirdischen Fluss.",
+                  "category": "natural",
+                  "coords": [
+                        118.926104,
+                        10.199777
+                  ]
+            },
+            {
+                  "name": "Arkadia Eco Resort",
+                  "text": "Ein umweltfreundliches Küstenrefugium, das nachhaltige Unterkünfte mit dem umliegenden tropischen Regenwald verbindet.",
+                  "category": "recreational",
+                  "coords": [
+                        118.946673,
+                        10.231191
+                  ]
+            },
+            {
+                  "name": "Mangrove River Paddle Boat",
+                  "text": "Eine ruhige Tretboottour durch ein Ökosystem im Mündungsgebiet, das von alten Mangrovenwäldern beschattet wird.",
+                  "category": "landmark",
+                  "coords": [
+                        118.904315,
+                        10.196809
+                  ]
+            },
+            {
+                  "name": "Waterfalls Entrance, P100 pp",
+                  "text": "Das üppige, vom Dschungel gesäumte Tor, das den Beginn des Weges zu den kaskadierenden Gewässern des Parks markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        118.887261,
+                        10.203568
+                  ]
+            },
+            {
+                  "name": "Sabang",
+                  "text": "Ein Küstendorf, das als geschäftiger Hauptaufenthaltsbereich und Abfahrtsort der Boote für die Touren auf dem unterirdischen Fluss dient.",
+                  "category": "landmark",
+                  "coords": [
+                        118.893106,
+                        10.197418
+                  ]
+            },
+            {
+                  "name": "Penao's Restaurant & Cottages",
+                  "text": "Ein rustikaler Rückzugsort an der Küste, der traditionelle strohgedeckte Unterkünfte und lokale Restaurants in der Nähe des Nationalparks bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        118.893625,
+                        10.19629
+                  ]
+            },
+            {
+                  "name": "Elephant Cave",
+                  "text": "Eine bemerkenswerte Karsthöhle, die nach ihren markanten Kalksteinfelsen benannt ist, die deutlich einem Elefanten ähneln.",
+                  "category": "landmark",
+                  "coords": [
+                        118.868545,
+                        10.141921
+                  ]
+            },
+            {
+                  "name": "Karst Mountain, Elephant Cave",
+                  "text": "Ein malerischer Aussichtspunkt, der freie Sicht auf die hoch aufragenden, elefantenförmigen Karstklippenformationen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        118.867135,
+                        10.145683
+                  ]
+            },
+            {
+                  "name": "Ubiyungan Beach",
+                  "text": "Ein ruhiger Sandstrand, umrahmt vom Küstendschungel des Subterranean River Nationalparks.",
+                  "category": "recreational",
+                  "coords": [
+                        118.945584,
+                        10.229475
+                  ]
+            },
+            {
+                  "name": "Panaguman Beach",
+                  "text": "Dieser abgelegene tropische Strand bietet goldenen Sand in der Nähe des berühmten unterirdischen Flusses.",
+                  "category": "recreational",
+                  "coords": [
+                        118.949848,
+                        10.239523
+                  ]
+            },
+            {
+                  "name": "Ipatdan Beach",
+                  "text": "Ein ruhiger Küstenstreifen, der entspannende Ausblicke über das türkisfarbene Wasser von Palawan bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        118.951935,
+                        10.254016
+                  ]
+            },
+            {
+                  "name": "Maratapi Beach",
+                  "text": "Ein malerischer tropischer Strand, an dem üppiges Grün auf die warmen Küstengewässer trifft.",
+                  "category": "recreational",
+                  "coords": [
+                        118.837573,
+                        10.187676
+                  ]
+            },
+            {
+                  "name": "Four Points by Sheraton",
+                  "text": "Ein modernes Strandresort, das gehobene Unterkünfte direkt am Ufer von Sabang bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        118.895425,
+                        10.19462
+                  ]
+            },
+            {
+                  "name": "Santuario de San Jose Marello",
+                  "text": "Eine ruhige christliche Kultstätte, die der lokalen Gemeinschaft mit regelmäßigen Messen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        118.892973,
+                        10.194904
+                  ]
+            },
+            {
+                  "name": "Iglesia Ni Cristo",
+                  "text": "Eine moderne christliche Kapelle im markanten, spitzen Architekturstil ihrer Konfession.",
+                  "category": "landmark",
+                  "coords": [
+                        118.895949,
+                        10.183947
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Subterranean River National Park",
+                  "text": "Egy híres UNESCO Világörökségi helyszín, amely egy összetett mészkőkarszt-tájjal és egy hatalmas földalatti folyóval büszkélkedhet.",
+                  "category": "natural",
+                  "coords": [
+                        118.926104,
+                        10.199777
+                  ]
+            },
+            {
+                  "name": "Arkadia Eco Resort",
+                  "text": "Környezetbarát tengerparti menedékhely, amely fenntartható szállásokat ötvöz a környező trópusi esőerdővel.",
+                  "category": "recreational",
+                  "coords": [
+                        118.946673,
+                        10.231191
+                  ]
+            },
+            {
+                  "name": "Mangrove River Paddle Boat",
+                  "text": "Nyugodt vízibiciklis túra egy ősi mangroveerdők által beárnyékolt torkolati ökoszisztémában.",
+                  "category": "landmark",
+                  "coords": [
+                        118.904315,
+                        10.196809
+                  ]
+            },
+            {
+                  "name": "Waterfalls Entrance, P100 pp",
+                  "text": "A buja, dzsungellel szegélyezett kapu, amely a park zuhatagos vizeihez vezető ösvény kezdetét jelzi.",
+                  "category": "landmark",
+                  "coords": [
+                        118.887261,
+                        10.203568
+                  ]
+            },
+            {
+                  "name": "Sabang",
+                  "text": "Tengerparti falu, amely a földalatti folyami túrák nyüzsgő fő állomáshelyeként és hajóindulási pontjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        118.893106,
+                        10.197418
+                  ]
+            },
+            {
+                  "name": "Penao's Restaurant & Cottages",
+                  "text": "Rusztikus tengerparti menedékhely, amely hagyományos nádfedeles szállást és helyi ételeket kínál a nemzeti park közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        118.893625,
+                        10.19629
+                  ]
+            },
+            {
+                  "name": "Elephant Cave",
+                  "text": "Egy nevezetes karsztbarlang, amely feltűnő mészkő sziklaalakzatairól kapta a nevét, amelyek egy elefántra hasonlítanak.",
+                  "category": "landmark",
+                  "coords": [
+                        118.868545,
+                        10.141921
+                  ]
+            },
+            {
+                  "name": "Karst Mountain, Elephant Cave",
+                  "text": "Festői kilátópont, amely tiszta rálátást biztosít a magasba tornyosuló, elefánt alakú karsztszikla-képződményekre.",
+                  "category": "natural",
+                  "coords": [
+                        118.867135,
+                        10.145683
+                  ]
+            },
+            {
+                  "name": "Ubiyungan Beach",
+                  "text": "A Földalatti Folyó Nemzeti Park tengerparti dzsungele által szegélyezett homokos part.",
+                  "category": "recreational",
+                  "coords": [
+                        118.945584,
+                        10.229475
+                  ]
+            },
+            {
+                  "name": "Panaguman Beach",
+                  "text": "Ez a félreeső trópusi strand aranyhomokkal csábít a híres földalatti folyó közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        118.949848,
+                        10.239523
+                  ]
+            },
+            {
+                  "name": "Ipatdan Beach",
+                  "text": "Csendes partszakasz, amely pihentető kilátást nyújt Palawan türkizkék vizeire.",
+                  "category": "recreational",
+                  "coords": [
+                        118.951935,
+                        10.254016
+                  ]
+            },
+            {
+                  "name": "Maratapi Beach",
+                  "text": "Festői trópusi strand, ahol a buja növényzet találkozik a meleg parti vizekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        118.837573,
+                        10.187676
+                  ]
+            },
+            {
+                  "name": "Four Points by Sheraton",
+                  "text": "Modern tengerparti üdülőközpont, amely elegáns szállást kínál Sabang partjainál.",
+                  "category": "recreational",
+                  "coords": [
+                        118.895425,
+                        10.19462
+                  ]
+            },
+            {
+                  "name": "Santuario de San Jose Marello",
+                  "text": "Nyugodt keresztény istentiszteleti hely, amely rendszeres misékkel szolgálja a helyi közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        118.892973,
+                        10.194904
+                  ]
+            },
+            {
+                  "name": "Iglesia Ni Cristo",
+                  "text": "Modern keresztény kápolna, amely felekezetének jellegzetes, hegyes építészeti stílusát hordozza.",
+                  "category": "landmark",
+                  "coords": [
+                        118.895949,
+                        10.183947
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Subterranean River National Park",
+                  "text": "Un renumit sit al Patrimoniului Mondial UNESCO, cu un peisaj carstic complex de calcar și un râu subteran masiv.",
+                  "category": "natural",
+                  "coords": [
+                        118.926104,
+                        10.199777
+                  ]
+            },
+            {
+                  "name": "Arkadia Eco Resort",
+                  "text": "O retragere ecologică pe litoral, care îmbină unitățile de cazare durabile cu pădurea tropicală înconjurătoare.",
+                  "category": "recreational",
+                  "coords": [
+                        118.946673,
+                        10.231191
+                  ]
+            },
+            {
+                  "name": "Mangrove River Paddle Boat",
+                  "text": "Un tur liniștit cu barca cu pedale navigând printr-un ecosistem de estuar umbrit de păduri antice de mangrove.",
+                  "category": "landmark",
+                  "coords": [
+                        118.904315,
+                        10.196809
+                  ]
+            },
+            {
+                  "name": "Waterfalls Entrance, P100 pp",
+                  "text": "Poarta luxuriantă, mărginită de junglă, care marchează începutul traseului către apele în cascadă ale parcului.",
+                  "category": "landmark",
+                  "coords": [
+                        118.887261,
+                        10.203568
+                  ]
+            },
+            {
+                  "name": "Sabang",
+                  "text": "Un sat de coastă care servește drept zonă principală plină de viață și punct de plecare al bărcilor pentru tururile râului subteran.",
+                  "category": "landmark",
+                  "coords": [
+                        118.893106,
+                        10.197418
+                  ]
+            },
+            {
+                  "name": "Penao's Restaurant & Cottages",
+                  "text": "O evadare rustică pe coastă, oferind cazare tradițională cu acoperiș din stuf și mese locale lângă parcul național.",
+                  "category": "recreational",
+                  "coords": [
+                        118.893625,
+                        10.19629
+                  ]
+            },
+            {
+                  "name": "Elephant Cave",
+                  "text": "O cavernă carstică remarcabilă, numită pentru formațiunile sale uimitoare de rocă de calcar care seamănă distinct cu un elefant.",
+                  "category": "landmark",
+                  "coords": [
+                        118.868545,
+                        10.141921
+                  ]
+            },
+            {
+                  "name": "Karst Mountain, Elephant Cave",
+                  "text": "Un punct de observație pitoresc care oferă linii vizuale clare ale formațiunilor stâncoase carstice impunătoare, în formă de elefant.",
+                  "category": "natural",
+                  "coords": [
+                        118.867135,
+                        10.145683
+                  ]
+            },
+            {
+                  "name": "Ubiyungan Beach",
+                  "text": "O coastă de nisip liniștită, încadrată de jungla de coastă a Parcului Național Subterranean River.",
+                  "category": "recreational",
+                  "coords": [
+                        118.945584,
+                        10.229475
+                  ]
+            },
+            {
+                  "name": "Panaguman Beach",
+                  "text": "Această plajă tropicală retrasă oferă nisipuri aurii în apropierea faimoasei zone a râului subteran.",
+                  "category": "recreational",
+                  "coords": [
+                        118.949848,
+                        10.239523
+                  ]
+            },
+            {
+                  "name": "Ipatdan Beach",
+                  "text": "O fâșie de coastă liniștită, care oferă vederi relaxante asupra apelor turcoaz din Palawan.",
+                  "category": "recreational",
+                  "coords": [
+                        118.951935,
+                        10.254016
+                  ]
+            },
+            {
+                  "name": "Maratapi Beach",
+                  "text": "O plajă tropicală pitorească, unde verdeața luxuriantă întâlnește apele calde ale coastei.",
+                  "category": "recreational",
+                  "coords": [
+                        118.837573,
+                        10.187676
+                  ]
+            },
+            {
+                  "name": "Four Points by Sheraton",
+                  "text": "Un complex balnear modern care oferă cazare de lux pe malul mării în Sabang.",
+                  "category": "recreational",
+                  "coords": [
+                        118.895425,
+                        10.19462
+                  ]
+            },
+            {
+                  "name": "Santuario de San Jose Marello",
+                  "text": "Un lăcaș de cult creștin liniștit care servește comunitatea locală cu slujbe regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        118.892973,
+                        10.194904
+                  ]
+            },
+            {
+                  "name": "Iglesia Ni Cristo",
+                  "text": "O capelă creștină modernă, prezentând stilul arhitectural distinctiv, ascuțit, al confesiunii sale.",
+                  "category": "landmark",
+                  "coords": [
+                        118.895949,
+                        10.183947
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Subterranean River National Park",
+                  "text": "A renowned UNESCO World Heritage site featuring a complex limestone karst landscape and a massive underground river.",
+                  "category": "natural",
+                  "coords": [
+                        118.926104,
+                        10.199777
+                  ]
+            },
+            {
+                  "name": "Arkadia Eco Resort",
+                  "text": "An eco-friendly seaside retreat blending sustainable accommodations with the surrounding tropical rainforest.",
+                  "category": "recreational",
+                  "coords": [
+                        118.946673,
+                        10.231191
+                  ]
+            },
+            {
+                  "name": "Mangrove River Paddle Boat",
+                  "text": "A serene paddle boat tour navigating through an estuarine ecosystem shaded by ancient mangrove forests.",
+                  "category": "landmark",
+                  "coords": [
+                        118.904315,
+                        10.196809
+                  ]
+            },
+            {
+                  "name": "Waterfalls Entrance",
+                  "text": "The lush, jungle-fringed gateway marking the beginning of the trail towards the park's cascading waters.",
+                  "category": "landmark",
+                  "coords": [
+                        118.887261,
+                        10.203568
+                  ]
+            },
+            {
+                  "name": "Sabang",
+                  "text": "A coastal village that serves as the bustling main staging area and boat departure point for the underground river tours.",
+                  "category": "landmark",
+                  "coords": [
+                        118.893106,
+                        10.197418
+                  ]
+            },
+            {
+                  "name": "Penao's Restaurant & Cottages",
+                  "text": "A rustic coastal getaway offering traditional thatched-roof lodging and local dining near the national park.",
+                  "category": "recreational",
+                  "coords": [
+                        118.893625,
+                        10.19629
+                  ]
+            },
+            {
+                  "name": "Elephant Cave",
+                  "text": "A notable karst cavern named for its striking limestone rock formations that distinctly resemble an elephant.",
+                  "category": "landmark",
+                  "coords": [
+                        118.868545,
+                        10.141921
+                  ]
+            },
+            {
+                  "name": "Karst Mountain, Elephant Cave",
+                  "text": "A scenic vantage point providing clear sightlines of the towering, elephant-shaped karst cliff formations.",
+                  "category": "natural",
+                  "coords": [
+                        118.867135,
+                        10.145683
+                  ]
+            },
+            {
+                  "name": "Ubiyungan Beach",
+                  "text": "A serene sandy shoreline framed by the coastal jungle of the Subterranean River National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        118.945584,
+                        10.229475
+                  ]
+            },
+            {
+                  "name": "Panaguman Beach",
+                  "text": "This secluded tropical beach offers golden sands near the famous underground river area.",
+                  "category": "recreational",
+                  "coords": [
+                        118.949848,
+                        10.239523
+                  ]
+            },
+            {
+                  "name": "Ipatdan Beach",
+                  "text": "A quiet coastal stretch offering relaxing views over the turquoise waters of Palawan.",
+                  "category": "recreational",
+                  "coords": [
+                        118.951935,
+                        10.254016
+                  ]
+            },
+            {
+                  "name": "Maratapi Beach",
+                  "text": "A picturesque tropical beach where lush greenery meets the warm coastal waters.",
+                  "category": "recreational",
+                  "coords": [
+                        118.837573,
+                        10.187676
+                  ]
+            },
+            {
+                  "name": "Four Points by Sheraton",
+                  "text": "A modern beach resort offering upscale beachfront accommodations on the shores of Sabang.",
+                  "category": "recreational",
+                  "coords": [
+                        118.895425,
+                        10.19462
+                  ]
+            },
+            {
+                  "name": "Santuario de San Jose Marello",
+                  "text": "A serene Christian place of worship serving the local community with regular masses.",
+                  "category": "landmark",
+                  "coords": [
+                        118.892973,
+                        10.194904
+                  ]
+            },
+            {
+                  "name": "Iglesia Ni Cristo",
+                  "text": "A modern Christian chapel featuring the distinctive, pointed architectural style of its denomination.",
+                  "category": "landmark",
+                  "coords": [
+                        118.895949,
+                        10.183947
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "PH-PLW",
     coords: [118.9263, 10.1995],
@@ -112,7 +706,232 @@ image: "/poi-images/ph-puerto-princesa-subterranean-river-np-nature-v2.webp",
     
   },
   {
-    id: "ph-mount-apo-nature-v2",
+    id: "ph-mount-apo-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Marawer Hot Spring",
+                  "text": "Eine natürliche geothermische heiße Quelle an den Hängen des Naturschutzgebiets Mount Apo.",
+                  "category": "landmark",
+                  "coords": [
+                        125.308371,
+                        6.937726
+                  ]
+            },
+            {
+                  "name": "Mount Apo Agri-Eco Tourism Park",
+                  "text": "Ein landwirtschaftlicher und ökologischer Park, der Naturpfade am Fuße des höchsten Gipfels der Philippinen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        125.328591,
+                        6.932466
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist Church",
+                  "text": "Das Versammlungshaus einer ländlichen adventistischen Gemeinde in der Nähe der natürlichen Umgebung des Mount Apo.",
+                  "category": "landmark",
+                  "coords": [
+                        125.337682,
+                        6.930997
+                  ]
+            },
+            {
+                  "name": "Immaculate Conception Chapel",
+                  "text": "Eine katholische Kapelle, die der Unbefleckten Empfängnis geweiht ist und den Gemeinden in der Nähe des Mount Apo dient.",
+                  "category": "landmark",
+                  "coords": [
+                        125.319771,
+                        6.962433
+                  ]
+            },
+            {
+                  "name": "Tumpis Southern Baptist Church",
+                  "text": "Eine Baptistenkirche im Tumpis-Gebiet, die einen Ort der Andacht inmitten der Landschaft des Mount Apo bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        125.308256,
+                        6.967574
+                  ]
+            },
+            {
+                  "name": "Mainit hot spring",
+                  "text": "Geothermische öffentliche Badebecken, die durch die vulkanische Aktivität der Region Mount Apo gespeist werden.",
+                  "category": "recreational",
+                  "coords": [
+                        125.289114,
+                        6.932851
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marawer Hot Spring",
+                  "text": "Természetes geotermikus meleg vizű forrás a Mount Apo természetvédelmi terület lejtőin.",
+                  "category": "landmark",
+                  "coords": [
+                        125.308371,
+                        6.937726
+                  ]
+            },
+            {
+                  "name": "Mount Apo Agri-Eco Tourism Park",
+                  "text": "Mezőgazdasági és ökológiai park, amely tanösvényeket kínál a Fülöp-szigetek legmagasabb csúcsának tövében.",
+                  "category": "landmark",
+                  "coords": [
+                        125.328591,
+                        6.932466
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist Church",
+                  "text": "Egy vidéki adventista gyülekezet imaháza a Mount Apo természeti környezetének közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        125.337682,
+                        6.930997
+                  ]
+            },
+            {
+                  "name": "Immaculate Conception Chapel",
+                  "text": "A Szeplőtelen Fogantatásnak szentelt katolikus kápolna, amely a Mount Apo környéki közösségeket szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        125.319771,
+                        6.962433
+                  ]
+            },
+            {
+                  "name": "Tumpis Southern Baptist Church",
+                  "text": "Baptista templom Tumpis területén, amely istentiszteleti helyet biztosít a Mount Apo tájának közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.308256,
+                        6.967574
+                  ]
+            },
+            {
+                  "name": "Mainit hot spring",
+                  "text": "A Mount Apo régió vulkáni tevékenysége által táplált geotermikus nyilvános medencék.",
+                  "category": "recreational",
+                  "coords": [
+                        125.289114,
+                        6.932851
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marawer Hot Spring",
+                  "text": "Un izvor termal geotermal natural situat pe pantele rezervației naturale Mount Apo.",
+                  "category": "landmark",
+                  "coords": [
+                        125.308371,
+                        6.937726
+                  ]
+            },
+            {
+                  "name": "Mount Apo Agri-Eco Tourism Park",
+                  "text": "Un parc agricol și ecologic care oferă trasee naturale la baza celui mai înalt vârf din Filipine.",
+                  "category": "landmark",
+                  "coords": [
+                        125.328591,
+                        6.932466
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist Church",
+                  "text": "O casă de întrunire a unei congregații adventiste rurale, situată în apropierea împrejurimilor naturale ale Muntelui Apo.",
+                  "category": "landmark",
+                  "coords": [
+                        125.337682,
+                        6.930997
+                  ]
+            },
+            {
+                  "name": "Immaculate Conception Chapel",
+                  "text": "O capelă catolică dedicată Imaculatei Concepții, deservind comunitățile din apropierea Muntelui Apo.",
+                  "category": "landmark",
+                  "coords": [
+                        125.319771,
+                        6.962433
+                  ]
+            },
+            {
+                  "name": "Tumpis Southern Baptist Church",
+                  "text": "O biserică baptistă în zona Tumpis, oferind un lăcaș de cult în mijlocul peisajului Muntelui Apo.",
+                  "category": "landmark",
+                  "coords": [
+                        125.308256,
+                        6.967574
+                  ]
+            },
+            {
+                  "name": "Mainit hot spring",
+                  "text": "Bazine publice geotermale alimentate de activitatea vulcanică a regiunii Muntelui Apo.",
+                  "category": "recreational",
+                  "coords": [
+                        125.289114,
+                        6.932851
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marawer Hot Spring",
+                  "text": "A natural geothermal hot spring located on the slopes of the Mount Apo nature reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        125.308371,
+                        6.937726
+                  ]
+            },
+            {
+                  "name": "Mount Apo Agri-Eco Tourism Park",
+                  "text": "An agricultural and ecological park offering nature trails at the base of the Philippines' highest peak.",
+                  "category": "landmark",
+                  "coords": [
+                        125.328591,
+                        6.932466
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist Church",
+                  "text": "A rural Adventist congregation's meeting house situated near the natural surroundings of Mount Apo.",
+                  "category": "landmark",
+                  "coords": [
+                        125.337682,
+                        6.930997
+                  ]
+            },
+            {
+                  "name": "Immaculate Conception Chapel",
+                  "text": "A Catholic chapel dedicated to the Immaculate Conception, serving communities near Mount Apo.",
+                  "category": "landmark",
+                  "coords": [
+                        125.319771,
+                        6.962433
+                  ]
+            },
+            {
+                  "name": "Tumpis Southern Baptist Church",
+                  "text": "A Baptist church in the Tumpis area, providing a place of worship amid the Mount Apo landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        125.308256,
+                        6.967574
+                  ]
+            },
+            {
+                  "name": "Mainit hot spring",
+                  "text": "Geothermal public bath pools fed by the volcanic activity of the Mount Apo region.",
+                  "category": "recreational",
+                  "coords": [
+                        125.289114,
+                        6.932851
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PH-DAV",
     coords: [125.2714, 6.9875],
@@ -166,7 +985,232 @@ image: "/poi-images/ph-mount-apo-nature-v2.webp",
     
   },
   {
-    id: "ph-taal-lake-nature-v2",
+    id: "ph-taal-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Tabaro",
+                  "text": "Ein historisch aktiver vulkanischer Gipfel, der markant in der Nähe des Ufers des Taal-Sees liegt.",
+                  "category": "natural",
+                  "coords": [
+                        120.983333,
+                        14.0
+                  ]
+            },
+            {
+                  "name": "Viewdeck",
+                  "text": "Eine malerische Aussichtsplattform, die Besuchern einen weiten Blick über das Wasser des Taal-Sees bietet.",
+                  "category": "natural",
+                  "coords": [
+                        120.986929,
+                        14.00827
+                  ]
+            },
+            {
+                  "name": "Taal Crater East Viewpoint",
+                  "text": "Ein ausgewiesener Aussichtspunkt mit beeindruckenden Panoramen auf die Ostseite des Taal-Kraters.",
+                  "category": "natural",
+                  "coords": [
+                        121.006777,
+                        14.006061
+                  ]
+            },
+            {
+                  "name": "Old Taal Church Ruins",
+                  "text": "Die historischen Steinruinen einer alten Kirche in der Nähe des Taal-Sees, die durch vergangene Vulkanausbrüche teilweise zerstört wurde.",
+                  "category": "historical",
+                  "coords": [
+                        120.952807,
+                        13.928975
+                  ]
+            },
+            {
+                  "name": "Boracap",
+                  "text": "Ein entspannender Sandstrand am malerischen Ufer des Taal-Sees.",
+                  "category": "recreational",
+                  "coords": [
+                        120.954656,
+                        13.927883
+                  ]
+            },
+            {
+                  "name": "Our Lady of Miraculous Medal Parish",
+                  "text": "Eine lokale christliche Pfarrkirche, die der Gemeinde am Ufer des Taal-Sees dient.",
+                  "category": "landmark",
+                  "coords": [
+                        120.939952,
+                        13.946124
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Tabaro",
+                  "text": "Egy történelmileg aktív vulkáni csúcs, amely a Taal-tó partja közelében emelkedik.",
+                  "category": "natural",
+                  "coords": [
+                        120.983333,
+                        14.0
+                  ]
+            },
+            {
+                  "name": "Viewdeck",
+                  "text": "Festői kilátóterasz, amely nyitott kilátást nyújt a Taal-tó vizére.",
+                  "category": "natural",
+                  "coords": [
+                        120.986929,
+                        14.00827
+                  ]
+            },
+            {
+                  "name": "Taal Crater East Viewpoint",
+                  "text": "A Taal-kráter keleti oldalára nyíló, lenyűgöző panorámát kínáló kijelölt kilátóhely.",
+                  "category": "natural",
+                  "coords": [
+                        121.006777,
+                        14.006061
+                  ]
+            },
+            {
+                  "name": "Old Taal Church Ruins",
+                  "text": "Egy régi templom történelmi kőromjai a Taal-tó közelében, amelyet a múltbeli vulkánkitörések részben elpusztítottak.",
+                  "category": "historical",
+                  "coords": [
+                        120.952807,
+                        13.928975
+                  ]
+            },
+            {
+                  "name": "Boracap",
+                  "text": "Pihentető homokos strand a Taal-tó festői partján.",
+                  "category": "recreational",
+                  "coords": [
+                        120.954656,
+                        13.927883
+                  ]
+            },
+            {
+                  "name": "Our Lady of Miraculous Medal Parish",
+                  "text": "A Taal-tó partján élő közösséget szolgáló helyi keresztény plébániatemplom.",
+                  "category": "landmark",
+                  "coords": [
+                        120.939952,
+                        13.946124
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Tabaro",
+                  "text": "Un vârf vulcanic activ istoric poziționat proeminent lângă malul lacului Taal.",
+                  "category": "natural",
+                  "coords": [
+                        120.983333,
+                        14.0
+                  ]
+            },
+            {
+                  "name": "Viewdeck",
+                  "text": "O platformă de belvedere pitorească care oferă vizitatorilor vederi deschise peste apele lacului Taal.",
+                  "category": "natural",
+                  "coords": [
+                        120.986929,
+                        14.00827
+                  ]
+            },
+            {
+                  "name": "Taal Crater East Viewpoint",
+                  "text": "Un punct de belvedere desemnat care oferă panorame uimitoare ale laturii de est a craterului Taal.",
+                  "category": "natural",
+                  "coords": [
+                        121.006777,
+                        14.006061
+                  ]
+            },
+            {
+                  "name": "Old Taal Church Ruins",
+                  "text": "Ruinele istorice din piatră ale unei vechi biserici de lângă Lacul Taal, distrusă parțial de erupțiile vulcanice trecute.",
+                  "category": "historical",
+                  "coords": [
+                        120.952807,
+                        13.928975
+                  ]
+            },
+            {
+                  "name": "Boracap",
+                  "text": "O zonă de plajă cu nisip relaxantă situată de-a lungul malurilor pitorești ale Lacului Taal.",
+                  "category": "recreational",
+                  "coords": [
+                        120.954656,
+                        13.927883
+                  ]
+            },
+            {
+                  "name": "Our Lady of Miraculous Medal Parish",
+                  "text": "O biserică parohială creștină locală care deservește comunitatea de-a lungul malului lacului Taal.",
+                  "category": "landmark",
+                  "coords": [
+                        120.939952,
+                        13.946124
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Tabaro",
+                  "text": "A historically active volcanic peak positioned prominently near the shores of Taal Lake.",
+                  "category": "natural",
+                  "coords": [
+                        120.983333,
+                        14.0
+                  ]
+            },
+            {
+                  "name": "Viewdeck",
+                  "text": "A scenic viewdeck platform providing visitors with open views across the waters of Taal Lake.",
+                  "category": "natural",
+                  "coords": [
+                        120.986929,
+                        14.00827
+                  ]
+            },
+            {
+                  "name": "Taal Crater East Viewpoint",
+                  "text": "A designated viewpoint offering striking panoramas of the eastern side of the Taal crater.",
+                  "category": "natural",
+                  "coords": [
+                        121.006777,
+                        14.006061
+                  ]
+            },
+            {
+                  "name": "Old Taal Church Ruins",
+                  "text": "The historic stone ruins of an old church near Taal Lake, partially destroyed by past volcanic eruptions.",
+                  "category": "historical",
+                  "coords": [
+                        120.952807,
+                        13.928975
+                  ]
+            },
+            {
+                  "name": "Boracap",
+                  "text": "A relaxing sandy beach area located along the scenic shores of Taal Lake.",
+                  "category": "recreational",
+                  "coords": [
+                        120.954656,
+                        13.927883
+                  ]
+            },
+            {
+                  "name": "Our Lady of Miraculous Medal Parish",
+                  "text": "A local Christian parish church serving the community along the shores of Taal Lake.",
+                  "category": "landmark",
+                  "coords": [
+                        120.939952,
+                        13.946124
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "PH-BTG",
     coords: [120.996, 14.007],
@@ -219,7 +1263,916 @@ image: "/poi-images/ph-mount-apo-nature-v2.webp",
     
   },
   {
-    id: "ph-mayon-volcano-nature-v2",
+    id: "ph-mayon-volcano-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mayon Volcano Lahar Ruins",
+                  "text": "Die Lahar-Ruinen des Vulkans Mayon sind ein aschebedecktes Mahnmal für die zerstörerischen Schlammlawinen vergangener Vulkanausbrüche.",
+                  "category": "historical",
+                  "coords": [
+                        123.760371,
+                        13.231611
+                  ]
+            },
+            {
+                  "name": "Mayon Skyline",
+                  "text": "Der Aussichtspunkt Mayon Skyline bietet atemberaubende Panoramen und lässt Besucher direkt zur perfekten Kegelform des aktiven Stratovulkans aufblicken.",
+                  "category": "natural",
+                  "coords": [
+                        123.671237,
+                        13.28477
+                  ]
+            },
+            {
+                  "name": "Busay Falls",
+                  "text": "Die durch ihre mehrstufigen Kaskaden gekennzeichneten Busay Falls bieten einen erfrischenden natürlichen Badeort in den Ausläufern des Vulkans.",
+                  "category": "landmark",
+                  "coords": [
+                        123.734744,
+                        13.307737
+                  ]
+            },
+            {
+                  "name": "Mt. Bulakawan",
+                  "text": "Die bewaldeten Hänge des Mt. Bulakawan dienen als Naturschutzgebiet und Trekkingziel in der direkten Umgebung der Mayon-Region.",
+                  "category": "natural",
+                  "coords": [
+                        123.739289,
+                        13.296043
+                  ]
+            },
+            {
+                  "name": "Mayon Volcano Natural Park",
+                  "text": "Der 1938 gegründete Mayon Volcano Natural Park ist ein Schutzgebiet, das den aktivsten und am perfektesten kegelförmigen Stratovulkan der Welt umgibt.",
+                  "category": "natural",
+                  "coords": [
+                        123.683285,
+                        13.258496
+                  ]
+            },
+            {
+                  "name": "Dhio Endheka Spring Resort",
+                  "text": "Das Dhio Endheka Spring Resort ist eine lokale Attraktion mit erfrischenden Thermalbecken, die von den natürlichen vulkanischen Quellen der Gegend gespeist werden.",
+                  "category": "landmark",
+                  "coords": [
+                        123.640169,
+                        13.312507
+                  ]
+            },
+            {
+                  "name": "San Fernando Chapel",
+                  "text": "Die San Fernando Kapelle ist eine ländliche christliche Gebetsstätte vor der dramatischen Kulisse der vulkanischen Landschaft des Mayon.",
+                  "category": "landmark",
+                  "coords": [
+                        123.75994,
+                        13.266602
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de Santa Misericordia Chapel",
+                  "text": "Diese christliche Kapelle, die der Muttergottes der Heiligen Barmherzigkeit geweiht ist, dient den Gemeinden in den üppigen vulkanischen Ausläufern.",
+                  "category": "landmark",
+                  "coords": [
+                        123.759533,
+                        13.254089
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de los Desamparados Chapel",
+                  "text": "Die Kapelle Unserer Lieben Frau der Verlassenen bietet den Anwohnern in der Nähe des Mayon-Vulkans katholische Gottesdienste.",
+                  "category": "landmark",
+                  "coords": [
+                        123.758615,
+                        13.271812
+                  ]
+            },
+            {
+                  "name": "La Sagrada Familia Mission Church",
+                  "text": "Die La Sagrada Familia Missionskirche fungiert als christlicher Stützpunkt und bringt religiöse Betreuung in die abgelegenen Ausläufer des Mayon.",
+                  "category": "landmark",
+                  "coords": [
+                        123.75617,
+                        13.29586
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Most Holy Rosary Chapel",
+                  "text": "Diese ländliche christliche Kapelle, die dem Heiligen Rosenkranz gewidmet ist, ist ein bescheidenes Bethaus inmitten der natürlichen Flora der Mayon-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        123.699973,
+                        13.340269
+                  ]
+            },
+            {
+                  "name": "Our Lady of Lourdes Chapel",
+                  "text": "Katholische Gläubige besuchen die Kapelle Unserer Lieben Frau von Lourdes, um an Messen im Schatten des berühmten Stratovulkans der Region teilzunehmen.",
+                  "category": "landmark",
+                  "coords": [
+                        123.70402,
+                        13.321817
+                  ]
+            },
+            {
+                  "name": "San Martin de Porres Chapel",
+                  "text": "Diese lokale christliche Kapelle ist dem Schutzpatron der sozialen Gerechtigkeit geweiht und betreut die Landarbeiter in der Nähe des Vulkans.",
+                  "category": "landmark",
+                  "coords": [
+                        123.693864,
+                        13.320492
+                  ]
+            },
+            {
+                  "name": "San Isidro Chapel",
+                  "text": "Die nach dem Schutzpatron der Bauern benannte San Isidro Kapelle ist ein spirituelles Zentrum für die landwirtschaftlichen Gemeinden an den Hängen des Mayon.",
+                  "category": "landmark",
+                  "coords": [
+                        123.757349,
+                        13.289787
+                  ]
+            },
+            {
+                  "name": "St. John Nepomucene Parish",
+                  "text": "Die Pfarrei St. Johannes Nepomuk ist eine zentrale christliche Kirche, die das religiöse Leben der katholischen Bewohner in der Mayon-Region betreut.",
+                  "category": "landmark",
+                  "coords": [
+                        123.757744,
+                        13.281299
+                  ]
+            },
+            {
+                  "name": "San Francisco Chapel",
+                  "text": "Die Kapelle San Francisco bietet einen rustikalen, von Natur umgebenen christlichen Gebetsort in den Barangays am Fuße des Mayon-Vulkans.",
+                  "category": "landmark",
+                  "coords": [
+                        123.749499,
+                        13.311008
+                  ]
+            },
+            {
+                  "name": "Mormon's Church",
+                  "text": "Dieses lokale Gemeindehaus fungiert als primäre Kultstätte für die Gemeinde der Heiligen der Letzten Tage, die in der Nähe des Mayon-Parks lebt.",
+                  "category": "religious",
+                  "coords": [
+                        123.737502,
+                        13.325919
+                  ]
+            },
+            {
+                  "name": "Glorious Gospel Baptist",
+                  "text": "Die Glorious Gospel Baptist Church bietet protestantischen Gemeindemitgliedern in der Nähe des Mayon einen eigenen Raum für das Bibelstudium und Sonntagsgottesdienste.",
+                  "category": "religious",
+                  "coords": [
+                        123.736566,
+                        13.322899
+                  ]
+            },
+            {
+                  "name": "Our Lady of Mt. Carmel Parish",
+                  "text": "Eine christliche Pfarrkirche, die im Schatten des Vulkans Mayon liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        123.736225,
+                        13.319146
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo",
+                  "text": "Eine christliche Andachtsstätte inmitten der vulkanischen Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        123.740737,
+                        13.317975
+                  ]
+            },
+            {
+                  "name": "Sta. Cruz Chapel",
+                  "text": "Eine lokale christliche Kapelle, die der Gemeinde in der Vulkanregion dient.",
+                  "category": "religious",
+                  "coords": [
+                        123.731912,
+                        13.320574
+                  ]
+            },
+            {
+                  "name": "Sitio Mati Chapel",
+                  "text": "Ein kleiner christlicher Gebetsort vor der dramatischen Kulisse des Vulkans.",
+                  "category": "landmark",
+                  "coords": [
+                        123.716266,
+                        13.329438
+                  ]
+            },
+            {
+                  "name": "Sta. Teresita del Niño Jesus Chapel",
+                  "text": "Diese christliche Kapelle liegt inmitten der natürlichen Schönheit des Vulkangebiets.",
+                  "category": "landmark",
+                  "coords": [
+                        123.714398,
+                        13.340023
+                  ]
+            },
+            {
+                  "name": "San Isidro Labrador Chapel",
+                  "text": "Eine traditionelle christliche Kapelle in der Vulkanregion, die dem Schutzpatron der Bauern gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        123.708606,
+                        13.342886
+                  ]
+            },
+            {
+                  "name": "Malilipot Public Market",
+                  "text": "Ein lebhafter lokaler Marktplatz, auf dem frische Produkte und Waren in der Nähe des Vulkans angeboten werden.",
+                  "category": "cultural",
+                  "coords": [
+                        123.739701,
+                        13.31941
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mayon Volcano Lahar Ruins",
+                  "text": "A Mayon vulkán lahar-romjai a korábbi vulkánkitörések pusztító iszapárjainak hamuval borított, komor mementói.",
+                  "category": "historical",
+                  "coords": [
+                        123.760371,
+                        13.231611
+                  ]
+            },
+            {
+                  "name": "Mayon Skyline",
+                  "text": "A Mayon Skyline kilátó panorámás kilátást nyújt, ahonnan a látogatók az aktív rétegvulkán tökéletes kúp alakjában gyönyörködhetnek.",
+                  "category": "natural",
+                  "coords": [
+                        123.671237,
+                        13.28477
+                  ]
+            },
+            {
+                  "name": "Busay Falls",
+                  "text": "A többszintű zuhatagairól ismert Busay-vízesés frissítő, természetes fürdőhely a vulkán lábánál.",
+                  "category": "landmark",
+                  "coords": [
+                        123.734744,
+                        13.307737
+                  ]
+            },
+            {
+                  "name": "Mt. Bulakawan",
+                  "text": "A Bulakawan-hegy erdős lejtői védett természetvédelmi területként és túrázási célpontként szolgálnak a Mayon régió szomszédságában.",
+                  "category": "natural",
+                  "coords": [
+                        123.739289,
+                        13.296043
+                  ]
+            },
+            {
+                  "name": "Mayon Volcano Natural Park",
+                  "text": "Az 1938-ban alapított Mayon Vulkán Nemzeti Park a világ legtökéletesebb kúp alakú aktív rétegvulkánját körülvevő védett terület.",
+                  "category": "natural",
+                  "coords": [
+                        123.683285,
+                        13.258496
+                  ]
+            },
+            {
+                  "name": "Dhio Endheka Spring Resort",
+                  "text": "A Dhio Endheka Spring Resort egy helyi látványosság, amelynek hűsítő termálmedencéit a terület természetes vulkáni forrásai táplálják.",
+                  "category": "landmark",
+                  "coords": [
+                        123.640169,
+                        13.312507
+                  ]
+            },
+            {
+                  "name": "San Fernando Chapel",
+                  "text": "A San Fernando kápolna egy vidéki keresztény imahely, amely a Mayon vulkáni tájának drámai háttere előtt áll.",
+                  "category": "landmark",
+                  "coords": [
+                        123.75994,
+                        13.266602
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de Santa Misericordia Chapel",
+                  "text": "A Szent Irgalmasság Anyjának szentelt keresztény kápolna a buja vulkáni lejtőkön élő közösségeket szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        123.759533,
+                        13.254089
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de los Desamparados Chapel",
+                  "text": "Az Elhagyatottak Anyja kápolna katolikus vallási szolgáltatásokat nyújt a Mayon vulkán közelében élő helyi lakosok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        123.758615,
+                        13.271812
+                  ]
+            },
+            {
+                  "name": "La Sagrada Familia Mission Church",
+                  "text": "A La Sagrada Familia missziós templom keresztény bázisként működik, vallási missziót és szolgáltatásokat eljuttatva a távoli Mayon lábához.",
+                  "category": "landmark",
+                  "coords": [
+                        123.75617,
+                        13.29586
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Most Holy Rosary Chapel",
+                  "text": "Ez a Szent Rózsafüzérnek szentelt vidéki keresztény kápolna egy szerény imaház, amelyet a Mayon régió természetes növényzete vesz körül.",
+                  "category": "landmark",
+                  "coords": [
+                        123.699973,
+                        13.340269
+                  ]
+            },
+            {
+                  "name": "Our Lady of Lourdes Chapel",
+                  "text": "A katolikus hívek azért látogatják a Lourdes-i Szűzanya kápolnáját, hogy részt vegyenek a régió híres rétegvulkánjának árnyékában tartott miséken.",
+                  "category": "landmark",
+                  "coords": [
+                        123.70402,
+                        13.321817
+                  ]
+            },
+            {
+                  "name": "San Martin de Porres Chapel",
+                  "text": "A társadalmi igazságosság védőszentjének szentelt helyi keresztény kápolna a vulkán közelében élő mezőgazdasági munkásokat szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        123.693864,
+                        13.320492
+                  ]
+            },
+            {
+                  "name": "San Isidro Chapel",
+                  "text": "A földművesek védőszentjéről elnevezett San Isidro kápolna a Mayon lejtőin élő agrárius közösségek szellemi központja.",
+                  "category": "landmark",
+                  "coords": [
+                        123.757349,
+                        13.289787
+                  ]
+            },
+            {
+                  "name": "St. John Nepomucene Parish",
+                  "text": "A Nepomuki Szent János plébánia egy központi keresztény templom, amely a katolikus lakosok vallási életét irányítja a Mayon régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        123.757744,
+                        13.281299
+                  ]
+            },
+            {
+                  "name": "San Francisco Chapel",
+                  "text": "A San Francisco kápolna egy rusztikus, természettel körülvett keresztény imahely a Mayon vulkán lábánál fekvő falvakban.",
+                  "category": "landmark",
+                  "coords": [
+                        123.749499,
+                        13.311008
+                  ]
+            },
+            {
+                  "name": "Mormon's Church",
+                  "text": "Ez a helyi imaház az Utolsó Napi Szentek közösségének elsődleges istentiszteleti helyeként működik a Mayon park területének közelében.",
+                  "category": "religious",
+                  "coords": [
+                        123.737502,
+                        13.325919
+                  ]
+            },
+            {
+                  "name": "Glorious Gospel Baptist",
+                  "text": "A Glorious Gospel Baptista gyülekezet a protestáns hívek számára egy dedikált teret biztosít a szentírás tanulmányozásához és a vasárnapi istentiszteletekhez Mayon közelében.",
+                  "category": "religious",
+                  "coords": [
+                        123.736566,
+                        13.322899
+                  ]
+            },
+            {
+                  "name": "Our Lady of Mt. Carmel Parish",
+                  "text": "Keresztény plébániatemplom, amely a Mayon vulkán árnyékában fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        123.736225,
+                        13.319146
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo",
+                  "text": "Keresztény istentiszteleti hely a vulkanikus táj szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        123.740737,
+                        13.317975
+                  ]
+            },
+            {
+                  "name": "Sta. Cruz Chapel",
+                  "text": "Helyi keresztény kápolna, amely a vulkáni régió közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        123.731912,
+                        13.320574
+                  ]
+            },
+            {
+                  "name": "Sitio Mati Chapel",
+                  "text": "Egy kis keresztény imaház a vulkán drámai tájának hátterében.",
+                  "category": "landmark",
+                  "coords": [
+                        123.716266,
+                        13.329438
+                  ]
+            },
+            {
+                  "name": "Sta. Teresita del Niño Jesus Chapel",
+                  "text": "Ez a keresztény kápolna a vulkáni terület természeti szépségei között található.",
+                  "category": "landmark",
+                  "coords": [
+                        123.714398,
+                        13.340023
+                  ]
+            },
+            {
+                  "name": "San Isidro Labrador Chapel",
+                  "text": "Hagyományos keresztény kápolna a vulkáni régióban, amelyet a földművesek védőszentjének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        123.708606,
+                        13.342886
+                  ]
+            },
+            {
+                  "name": "Malilipot Public Market",
+                  "text": "Nyüzsgő helyi piac, amely friss termékeket és árukat kínál a vulkán közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        123.739701,
+                        13.31941
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mayon Volcano Lahar Ruins",
+                  "text": "Ruinele laharului de la vulcanul Mayon reprezintă o mărturie acoperită de cenușă a fluxurilor distructive de noroi provocate de erupțiile vulcanice trecute.",
+                  "category": "historical",
+                  "coords": [
+                        123.760371,
+                        13.231611
+                  ]
+            },
+            {
+                  "name": "Mayon Skyline",
+                  "text": "Oferind priveliști panoramice, punctul de observație Mayon Skyline le permite vizitatorilor să admire forma conică perfectă a stratovulcanului activ.",
+                  "category": "natural",
+                  "coords": [
+                        123.671237,
+                        13.28477
+                  ]
+            },
+            {
+                  "name": "Busay Falls",
+                  "text": "Caracterizată de cascadele sale pe mai multe niveluri, cascada Busay oferă un loc natural și revigorant de înot la poalele vulcanului.",
+                  "category": "landmark",
+                  "coords": [
+                        123.734744,
+                        13.307737
+                  ]
+            },
+            {
+                  "name": "Mt. Bulakawan",
+                  "text": "Pantele împădurite ale Muntelui Bulakawan reprezintă o rezervație naturală protejată și o destinație de drumeție adiacentă zonei Mayon.",
+                  "category": "natural",
+                  "coords": [
+                        123.739289,
+                        13.296043
+                  ]
+            },
+            {
+                  "name": "Mayon Volcano Natural Park",
+                  "text": "Înființat în 1938, Parcul Natural Vulcanul Mayon este o arie protejată care înconjoară cel mai perfect stratovulcan activ de formă conică din lume.",
+                  "category": "natural",
+                  "coords": [
+                        123.683285,
+                        13.258496
+                  ]
+            },
+            {
+                  "name": "Dhio Endheka Spring Resort",
+                  "text": "Stațiunea Dhio Endheka Spring Resort este o atracție locală ce oferă piscine termale răcoroase, alimentate de izvoarele vulcanice naturale din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        123.640169,
+                        13.312507
+                  ]
+            },
+            {
+                  "name": "San Fernando Chapel",
+                  "text": "Capela San Fernando este un lăcaș de cult creștin rural, situat pe fundalul dramatic al peisajului vulcanic Mayon.",
+                  "category": "landmark",
+                  "coords": [
+                        123.75994,
+                        13.266602
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de Santa Misericordia Chapel",
+                  "text": "Dedicată Sfintei Fecioare a Milei, această capelă creștină servește comunitățile care locuiesc pe pantele vulcanice luxuriante.",
+                  "category": "landmark",
+                  "coords": [
+                        123.759533,
+                        13.254089
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de los Desamparados Chapel",
+                  "text": "Capela Maicii Domnului a Celor Părăsiți oferă slujbe religioase catolice locuitorilor din apropierea vulcanului Mayon.",
+                  "category": "landmark",
+                  "coords": [
+                        123.758615,
+                        13.271812
+                  ]
+            },
+            {
+                  "name": "La Sagrada Familia Mission Church",
+                  "text": "Biserica Misiunii La Sagrada Familia funcționează ca o bază creștină, aducând activități și slujbe religioase la poalele îndepărtate ale vulcanului Mayon.",
+                  "category": "landmark",
+                  "coords": [
+                        123.75617,
+                        13.29586
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Most Holy Rosary Chapel",
+                  "text": "Această capelă creștină rurală, dedicată Sfântului Rozariu, este o modestă casă de rugăciune înconjurată de flora naturală a regiunii Mayon.",
+                  "category": "landmark",
+                  "coords": [
+                        123.699973,
+                        13.340269
+                  ]
+            },
+            {
+                  "name": "Our Lady of Lourdes Chapel",
+                  "text": "Credincioșii catolici vizitează Capela Fecioarei din Lourdes pentru a asista la liturghiile ținute în umbra faimosului stratovulcan din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        123.70402,
+                        13.321817
+                  ]
+            },
+            {
+                  "name": "San Martin de Porres Chapel",
+                  "text": "Dedicată patronului justiției sociale, această capelă creștină locală le slujește muncitorilor agricoli care locuiesc în apropierea vulcanului.",
+                  "category": "landmark",
+                  "coords": [
+                        123.693864,
+                        13.320492
+                  ]
+            },
+            {
+                  "name": "San Isidro Chapel",
+                  "text": "Numită după sfântul patron al fermierilor, Capela San Isidro este un centru spiritual pentru comunitățile agricole de pe pantele vulcanului Mayon.",
+                  "category": "landmark",
+                  "coords": [
+                        123.757349,
+                        13.289787
+                  ]
+            },
+            {
+                  "name": "St. John Nepomucene Parish",
+                  "text": "Parohia Sfântul Ioan Nepomucen este o biserică creștină centrală care supraveghează viața religioasă a rezidenților catolici din regiunea Mayon.",
+                  "category": "landmark",
+                  "coords": [
+                        123.757744,
+                        13.281299
+                  ]
+            },
+            {
+                  "name": "San Francisco Chapel",
+                  "text": "Capela San Francisco oferă un loc de rugăciune creștin, rustic și înconjurat de natură, în satele de la poalele vulcanului Mayon.",
+                  "category": "landmark",
+                  "coords": [
+                        123.749499,
+                        13.311008
+                  ]
+            },
+            {
+                  "name": "Mormon's Church",
+                  "text": "Această casă de adunare locală servește drept principal lăcaș de cult pentru comunitatea sfinților din zilele din urmă care locuiește lângă parcul Mayon.",
+                  "category": "religious",
+                  "coords": [
+                        123.737502,
+                        13.325919
+                  ]
+            },
+            {
+                  "name": "Glorious Gospel Baptist",
+                  "text": "Biserica Glorious Gospel Baptist le oferă enoriașilor protestanți un spațiu dedicat studiului scripturilor și slujbelor de duminică în apropiere de Mayon.",
+                  "category": "religious",
+                  "coords": [
+                        123.736566,
+                        13.322899
+                  ]
+            },
+            {
+                  "name": "Our Lady of Mt. Carmel Parish",
+                  "text": "O biserică parohială creștină situată la umbra vulcanului Mayon.",
+                  "category": "landmark",
+                  "coords": [
+                        123.736225,
+                        13.319146
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo",
+                  "text": "Un lăcaș de cult creștin situat în peisajul vulcanic.",
+                  "category": "landmark",
+                  "coords": [
+                        123.740737,
+                        13.317975
+                  ]
+            },
+            {
+                  "name": "Sta. Cruz Chapel",
+                  "text": "O capelă creștină locală care deservește comunitatea din regiunea vulcanică.",
+                  "category": "religious",
+                  "coords": [
+                        123.731912,
+                        13.320574
+                  ]
+            },
+            {
+                  "name": "Sitio Mati Chapel",
+                  "text": "Un mic lăcaș de rugăciune creștin pe fundalul peisajului vulcanic dramatic.",
+                  "category": "landmark",
+                  "coords": [
+                        123.716266,
+                        13.329438
+                  ]
+            },
+            {
+                  "name": "Sta. Teresita del Niño Jesus Chapel",
+                  "text": "Această capelă creștină este situată în mijlocul frumuseții naturale a zonei vulcanice.",
+                  "category": "landmark",
+                  "coords": [
+                        123.714398,
+                        13.340023
+                  ]
+            },
+            {
+                  "name": "San Isidro Labrador Chapel",
+                  "text": "O capelă creștină tradițională din regiunea vulcanică, dedicată sfântului patron al fermierilor.",
+                  "category": "landmark",
+                  "coords": [
+                        123.708606,
+                        13.342886
+                  ]
+            },
+            {
+                  "name": "Malilipot Public Market",
+                  "text": "O piață locală plină de viață care oferă produse proaspete și mărfuri în apropierea vulcanului.",
+                  "category": "cultural",
+                  "coords": [
+                        123.739701,
+                        13.31941
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mayon Volcano Lahar Ruins",
+                  "text": "The Mayon Volcano Lahar Ruins stand as a stark, ash-covered reminder of the destructive mudflows from past volcanic eruptions.",
+                  "category": "historical",
+                  "coords": [
+                        123.760371,
+                        13.231611
+                  ]
+            },
+            {
+                  "name": "Mayon Skyline",
+                  "text": "Offering panoramic vistas, the Mayon Skyline viewpoint lets visitors gaze up at the perfect conical shape of the active stratovolcano.",
+                  "category": "natural",
+                  "coords": [
+                        123.671237,
+                        13.28477
+                  ]
+            },
+            {
+                  "name": "Busay Falls",
+                  "text": "Characterized by its multi-tiered cascades, Busay Falls provides a refreshing natural swimming spot in the foothills of the volcano.",
+                  "category": "landmark",
+                  "coords": [
+                        123.734744,
+                        13.307737
+                  ]
+            },
+            {
+                  "name": "Mt. Bulakawan",
+                  "text": "The forested slopes of Mt. Bulakawan act as a protective nature reserve and trekking destination adjacent to the Mayon area.",
+                  "category": "natural",
+                  "coords": [
+                        123.739289,
+                        13.296043
+                  ]
+            },
+            {
+                  "name": "Mayon Volcano Natural Park",
+                  "text": "Established in 1938, the Mayon Volcano Natural Park is a protected area surrounding the world's most perfectly cone-shaped active stratovolcano.",
+                  "category": "natural",
+                  "coords": [
+                        123.683285,
+                        13.258496
+                  ]
+            },
+            {
+                  "name": "Dhio Endheka Spring Resort",
+                  "text": "The Dhio Endheka Spring Resort is a local attraction featuring cooling thermal pools fed by the natural volcanic springs of the area.",
+                  "category": "landmark",
+                  "coords": [
+                        123.640169,
+                        13.312507
+                  ]
+            },
+            {
+                  "name": "San Fernando Chapel",
+                  "text": "The San Fernando Chapel is a rural Christian place of worship set against the dramatic backdrop of the Mayon volcanic landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        123.75994,
+                        13.266602
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de Santa Misericordia Chapel",
+                  "text": "Dedicated to Our Lady of Holy Mercy, this Christian chapel serves the communities residing in the lush volcanic foothills.",
+                  "category": "landmark",
+                  "coords": [
+                        123.759533,
+                        13.254089
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de los Desamparados Chapel",
+                  "text": "The Chapel of Our Lady of the Forsaken provides Catholic religious services to local residents near the Mayon volcano.",
+                  "category": "landmark",
+                  "coords": [
+                        123.758615,
+                        13.271812
+                  ]
+            },
+            {
+                  "name": "La Sagrada Familia Mission Church",
+                  "text": "La Sagrada Familia Mission Church operates as a Christian base bringing religious outreach and services to the remote Mayon foothills.",
+                  "category": "landmark",
+                  "coords": [
+                        123.75617,
+                        13.29586
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Most Holy Rosary Chapel",
+                  "text": "This rural Christian chapel, devoted to the Holy Rosary, is a modest house of prayer surrounded by the Mayon region's natural flora.",
+                  "category": "landmark",
+                  "coords": [
+                        123.699973,
+                        13.340269
+                  ]
+            },
+            {
+                  "name": "Our Lady of Lourdes Chapel",
+                  "text": "Catholic devotees visit the Our Lady of Lourdes Chapel to attend masses held in the shadows of the region's famous stratovolcano.",
+                  "category": "landmark",
+                  "coords": [
+                        123.70402,
+                        13.321817
+                  ]
+            },
+            {
+                  "name": "San Martin de Porres Chapel",
+                  "text": "Dedicated to the patron of social justice, this local Christian chapel ministers to the agricultural workers living near the volcano.",
+                  "category": "landmark",
+                  "coords": [
+                        123.693864,
+                        13.320492
+                  ]
+            },
+            {
+                  "name": "San Isidro Chapel",
+                  "text": "Named after the patron saint of farmers, the San Isidro Chapel is a spiritual center for the agrarian communities on the Mayon slopes.",
+                  "category": "landmark",
+                  "coords": [
+                        123.757349,
+                        13.289787
+                  ]
+            },
+            {
+                  "name": "St. John Nepomucene Parish",
+                  "text": "The St. John Nepomucene Parish is a central Christian church that oversees the religious life of Catholic residents in the Mayon region.",
+                  "category": "landmark",
+                  "coords": [
+                        123.757744,
+                        13.281299
+                  ]
+            },
+            {
+                  "name": "San Francisco Chapel",
+                  "text": "The San Francisco Chapel provides a rustic, nature-surrounded Christian prayer venue in the barangays at the foot of the Mayon volcano.",
+                  "category": "landmark",
+                  "coords": [
+                        123.749499,
+                        13.311008
+                  ]
+            },
+            {
+                  "name": "Mormon's Church",
+                  "text": "This local meetinghouse functions as the primary place of worship for the Latter-day Saint community dwelling near the Mayon park area.",
+                  "category": "religious",
+                  "coords": [
+                        123.737502,
+                        13.325919
+                  ]
+            },
+            {
+                  "name": "Glorious Gospel Baptist",
+                  "text": "The Glorious Gospel Baptist church offers Protestant congregants a dedicated space for scripture study and Sunday services near Mayon.",
+                  "category": "religious",
+                  "coords": [
+                        123.736566,
+                        13.322899
+                  ]
+            },
+            {
+                  "name": "Our Lady of Mt. Carmel Parish",
+                  "text": "A Christian parish church situated in the shadow of the Mayon Volcano.",
+                  "category": "landmark",
+                  "coords": [
+                        123.736225,
+                        13.319146
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo",
+                  "text": "A Christian place of worship located amidst the volcanic landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        123.740737,
+                        13.317975
+                  ]
+            },
+            {
+                  "name": "Sta. Cruz Chapel",
+                  "text": "A local Christian chapel serving the community in the volcanic region.",
+                  "category": "religious",
+                  "coords": [
+                        123.731912,
+                        13.320574
+                  ]
+            },
+            {
+                  "name": "Sitio Mati Chapel",
+                  "text": "A small Christian place of prayer set against the dramatic volcanic landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        123.716266,
+                        13.329438
+                  ]
+            },
+            {
+                  "name": "Sta. Teresita del Niño Jesus Chapel",
+                  "text": "This Christian chapel is situated amidst the natural beauty of the volcanic area.",
+                  "category": "landmark",
+                  "coords": [
+                        123.714398,
+                        13.340023
+                  ]
+            },
+            {
+                  "name": "San Isidro Labrador Chapel",
+                  "text": "A traditional Christian chapel in the volcanic region, dedicated to the patron saint of farmers.",
+                  "category": "landmark",
+                  "coords": [
+                        123.708606,
+                        13.342886
+                  ]
+            },
+            {
+                  "name": "Malilipot Public Market",
+                  "text": "A bustling local marketplace offering fresh produce and goods near the volcano.",
+                  "category": "cultural",
+                  "coords": [
+                        123.739701,
+                        13.31941
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PH-ALB",
     coords: [123.6856, 13.2566],
@@ -273,7 +2226,412 @@ image: "/poi-images/ph-mayon-volcano-nature-v2.webp",
     
   },
   {
-    id: "ph-chocolate-hills-nature-v2",
+    id: "ph-chocolate-hills-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hill Top 360 degee View Park",
+                  "text": "Auf dem Scheitelpunkt eines erhöhten Kamms gelegen, bietet diese Aussichtsplattform völlig ungehinderte Panoramablicke über die umliegenden tropischen Hügellandschaften.",
+                  "category": "landmark",
+                  "coords": [
+                        124.141324,
+                        9.86837
+                  ]
+            },
+            {
+                  "name": "The Captain's Peak Garden & Resort",
+                  "text": "Direkt am Fuße der schokoladenfarbenen Hügel eingebettet, bietet dieses umstrittene Resort angelegte Gärten und von Quellen gespeiste Pools inmitten der natürlichen Karsthügel.",
+                  "category": "landmark",
+                  "coords": [
+                        124.117366,
+                        9.896172
+                  ]
+            },
+            {
+                  "name": "Grace Life Bible Church",
+                  "text": "Diese evangelikale christliche Kirche bietet einen schlichten Saal für bibelzentrierte Lehre und zeitgenössische Anbetungsmusik in der ländlichen Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        124.095864,
+                        9.919676
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "Dieser Königreichssaal wurde mit dem charakteristischen praktischen Design der Konfession erbaut und ist der primäre Versammlungsort der Zeugen Jehovas in der örtlichen Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        124.20943,
+                        9.829487
+                  ]
+            },
+            {
+                  "name": "La Libertad Catholic Church",
+                  "text": "Im Bezirk La Libertad gelegen, dient diese katholische Kirche ihren Gemeindemitgliedern mit täglichen Sakramenten und einem markanten Glockenturm, der die Gläubigen ruft.",
+                  "category": "religious",
+                  "coords": [
+                        124.193475,
+                        9.808035
+                  ]
+            },
+            {
+                  "name": "Fatima Hill Chapel",
+                  "text": "Auf einer leichten Anhöhe thronend, ehrt diese ruhige Kapelle Unsere Liebe Frau von Fatima und bietet einen friedlichen Rückzugsort auf dem Hügel für das persönliche Gebet.",
+                  "category": "religious",
+                  "coords": [
+                        124.230903,
+                        9.851032
+                  ]
+            },
+            {
+                  "name": "Saint Augustine Parish Church",
+                  "text": "Diese etablierte lokale Pfarrei ist dem Heiligen Augustinus geweiht und bietet ein prächtiges Kirchenschiff, in dem die Gemeinde katholische Feste und die Sonntagsliturgie feiert.",
+                  "category": "landmark",
+                  "coords": [
+                        124.091409,
+                        9.912534
+                  ]
+            },
+            {
+                  "name": "Saint Anthony The Abbot Parish Church",
+                  "text": "Eine christliche Pfarrkirche, die der lokalen katholischen Gemeinde in der Umgebung dient.",
+                  "category": "landmark",
+                  "coords": [
+                        124.199256,
+                        9.8246
+                  ]
+            },
+            {
+                  "name": "Lokal ng Carmen",
+                  "text": "Ein lokales christliches Gotteshaus in der Gemeinde Carmen.",
+                  "category": "landmark",
+                  "coords": [
+                        124.200321,
+                        9.826332
+                  ]
+            },
+            {
+                  "name": "Sagbayan Public Market",
+                  "text": "Ein geschäftiger lokaler Marktplatz, der frische landwirtschaftliche Produkte und Waren des täglichen Bedarfs in Sagbayan anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        124.092692,
+                        9.914506
+                  ]
+            },
+            {
+                  "name": "Carmen Public Market",
+                  "text": "Ein lokaler städtischer Marktplatz, der als zentraler Knotenpunkt für frische Lebensmittel und Handel in Carmen dient.",
+                  "category": "cultural",
+                  "coords": [
+                        124.196025,
+                        9.824744
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hill Top 360 degee View Park",
+                  "text": "A magaslati gerinc csúcsán található kilátóterasz teljesen zavartalan panorámát nyújt a környező trópusi dombvidékre.",
+                  "category": "landmark",
+                  "coords": [
+                        124.141324,
+                        9.86837
+                  ]
+            },
+            {
+                  "name": "The Captain's Peak Garden & Resort",
+                  "text": "Közvetlenül a csokoládé színű halmok lábánál megbúvó, vitatott üdülőhely gondozott kerteket és forrásvízzel táplált medencéket kínál a természetes karsztdombok között.",
+                  "category": "landmark",
+                  "coords": [
+                        124.117366,
+                        9.896172
+                  ]
+            },
+            {
+                  "name": "Grace Life Bible Church",
+                  "text": "Ez az evangéliumi keresztény templom egy egyszerű termet biztosít a biblia-központú tanításnak és a kortárs istentiszteleti zenének a vidéki közösségben.",
+                  "category": "landmark",
+                  "coords": [
+                        124.095864,
+                        9.919676
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "A felekezetre jellemző praktikus kialakítással épült Királyság-terem a Jehova Tanúi elsődleges gyülekezési helye a helyi önkormányzatban.",
+                  "category": "landmark",
+                  "coords": [
+                        124.20943,
+                        9.829487
+                  ]
+            },
+            {
+                  "name": "La Libertad Catholic Church",
+                  "text": "A La Libertad negyedben található katolikus templom napi szentségekkel és a híveket hívogató, kiemelkedő harangtoronnyal szolgálja plébániáját.",
+                  "category": "religious",
+                  "coords": [
+                        124.193475,
+                        9.808035
+                  ]
+            },
+            {
+                  "name": "Fatima Hill Chapel",
+                  "text": "Az enyhe lejtőn magasodó csendes kápolna a Fatimai Szűzanyát tiszteli, és békés menedéket nyújt a dombtetőn az egyéni imádsághoz.",
+                  "category": "religious",
+                  "coords": [
+                        124.230903,
+                        9.851032
+                  ]
+            },
+            {
+                  "name": "Saint Augustine Parish Church",
+                  "text": "Ez a bevett helyi plébánia Szent Ágostonnak van szentelve, és egy hatalmas hajót kínál, ahol a közösség katolikus ünnepeket és vasárnapi liturgiát ünnepel.",
+                  "category": "landmark",
+                  "coords": [
+                        124.091409,
+                        9.912534
+                  ]
+            },
+            {
+                  "name": "Saint Anthony The Abbot Parish Church",
+                  "text": "Keresztény plébániatemplom, amely a helyi katolikus közösséget szolgálja a környéken.",
+                  "category": "landmark",
+                  "coords": [
+                        124.199256,
+                        9.8246
+                  ]
+            },
+            {
+                  "name": "Lokal ng Carmen",
+                  "text": "Helyi keresztény istentiszteleti központ Carmen községben.",
+                  "category": "landmark",
+                  "coords": [
+                        124.200321,
+                        9.826332
+                  ]
+            },
+            {
+                  "name": "Sagbayan Public Market",
+                  "text": "Nyüzsgő helyi piac, amely friss mezőgazdasági termékeket és napi cikkeket kínál Sagbayanban.",
+                  "category": "cultural",
+                  "coords": [
+                        124.092692,
+                        9.914506
+                  ]
+            },
+            {
+                  "name": "Carmen Public Market",
+                  "text": "Helyi önkormányzati piac, amely a friss élelmiszerek és a kereskedelem központi csomópontjaként szolgál Carmenben.",
+                  "category": "cultural",
+                  "coords": [
+                        124.196025,
+                        9.824744
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hill Top 360 degee View Park",
+                  "text": "Situată la apogeul unei creste înalte, această platformă de vizionare oferă priveliști panoramice complet neobstrucționate asupra peisajelor deluroase tropicale înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        124.141324,
+                        9.86837
+                  ]
+            },
+            {
+                  "name": "The Captain's Peak Garden & Resort",
+                  "text": "Amplasată direct la baza movilelor de culoarea ciocolatei, această stațiune controversată oferă grădini amenajate și piscine alimentate de izvoare printre dealurile carstice naturale.",
+                  "category": "landmark",
+                  "coords": [
+                        124.117366,
+                        9.896172
+                  ]
+            },
+            {
+                  "name": "Grace Life Bible Church",
+                  "text": "Această biserică creștină evanghelică oferă o sală simplă pentru învățătura centrată pe Biblie și muzică de închinare contemporană în comunitatea rurală.",
+                  "category": "landmark",
+                  "coords": [
+                        124.095864,
+                        9.919676
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "Construită cu designul practic caracteristic confesiunii, această Sală a Regatului este principalul loc de adunare pentru Martorii lui Iehova din municipalitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        124.20943,
+                        9.829487
+                  ]
+            },
+            {
+                  "name": "La Libertad Catholic Church",
+                  "text": "Situată în districtul La Libertad, această biserică catolică își servește enoriașii cu sacramente zilnice și un turn clopotniță proeminent care cheamă credincioșii.",
+                  "category": "religious",
+                  "coords": [
+                        124.193475,
+                        9.808035
+                  ]
+            },
+            {
+                  "name": "Fatima Hill Chapel",
+                  "text": "Cocoțată pe o pantă ușoară, această capelă liniștită o onorează pe Maica Domnului de la Fatima și oferă un refugiu pașnic pe un deal pentru rugăciunea individuală.",
+                  "category": "religious",
+                  "coords": [
+                        124.230903,
+                        9.851032
+                  ]
+            },
+            {
+                  "name": "Saint Augustine Parish Church",
+                  "text": "Această parohie locală stabilită este dedicată Sfântului Augustin, oferind o navă grandioasă unde comunitatea sărbătorește serbările catolice și liturghia de duminică.",
+                  "category": "landmark",
+                  "coords": [
+                        124.091409,
+                        9.912534
+                  ]
+            },
+            {
+                  "name": "Saint Anthony The Abbot Parish Church",
+                  "text": "O biserică parohială creștină care deservește comunitatea catolică locală din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        124.199256,
+                        9.8246
+                  ]
+            },
+            {
+                  "name": "Lokal ng Carmen",
+                  "text": "Un centru local de cult creștin situat în municipalitatea Carmen.",
+                  "category": "landmark",
+                  "coords": [
+                        124.200321,
+                        9.826332
+                  ]
+            },
+            {
+                  "name": "Sagbayan Public Market",
+                  "text": "O piață locală plină de viață, care oferă produse agricole proaspete și bunuri de uz zilnic în Sagbayan.",
+                  "category": "cultural",
+                  "coords": [
+                        124.092692,
+                        9.914506
+                  ]
+            },
+            {
+                  "name": "Carmen Public Market",
+                  "text": "O piață municipală locală care servește ca un centru principal pentru alimente proaspete și comerț în Carmen.",
+                  "category": "cultural",
+                  "coords": [
+                        124.196025,
+                        9.824744
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hill Top 360 degee View Park",
+                  "text": "Situated at the apex of an elevated ridge, this viewing platform provides completely unobstructed panoramic sights over the surrounding tropical hillscapes.",
+                  "category": "landmark",
+                  "coords": [
+                        124.141324,
+                        9.86837
+                  ]
+            },
+            {
+                  "name": "The Captain's Peak Garden & Resort",
+                  "text": "Nestled directly at the base of the chocolate-colored mounds, this controversial resort offers landscaped gardens and spring-fed pools among the natural karst hills.",
+                  "category": "landmark",
+                  "coords": [
+                        124.117366,
+                        9.896172
+                  ]
+            },
+            {
+                  "name": "Grace Life Bible Church",
+                  "text": "This evangelical Christian church provides a straightforward hall for Bible-centered teaching and contemporary worship music in the rural community.",
+                  "category": "landmark",
+                  "coords": [
+                        124.095864,
+                        9.919676
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "Built with the characteristic practical design of the denomination, this Kingdom Hall is the primary gathering place for Jehovah's Witnesses in the local municipality.",
+                  "category": "landmark",
+                  "coords": [
+                        124.20943,
+                        9.829487
+                  ]
+            },
+            {
+                  "name": "La Libertad Catholic Church",
+                  "text": "Located in the La Libertad district, this Catholic church serves its parishioners with daily sacraments and a prominent belltower calling the faithful.",
+                  "category": "religious",
+                  "coords": [
+                        124.193475,
+                        9.808035
+                  ]
+            },
+            {
+                  "name": "Fatima Hill Chapel",
+                  "text": "Perched on a gentle incline, this tranquil chapel honors Our Lady of Fatima and provides a peaceful hilltop retreat for individual prayer.",
+                  "category": "religious",
+                  "coords": [
+                        124.230903,
+                        9.851032
+                  ]
+            },
+            {
+                  "name": "Saint Augustine Parish Church",
+                  "text": "This established local parish is dedicated to Saint Augustine, offering a grand nave where the community celebrates Catholic feasts and Sunday liturgy.",
+                  "category": "landmark",
+                  "coords": [
+                        124.091409,
+                        9.912534
+                  ]
+            },
+            {
+                  "name": "Saint Anthony The Abbot Parish Church",
+                  "text": "A Christian parish church serving the local Catholic community in the area.",
+                  "category": "landmark",
+                  "coords": [
+                        124.199256,
+                        9.8246
+                  ]
+            },
+            {
+                  "name": "Lokal ng Carmen",
+                  "text": "A local Christian worship center situated in the municipality of Carmen.",
+                  "category": "landmark",
+                  "coords": [
+                        124.200321,
+                        9.826332
+                  ]
+            },
+            {
+                  "name": "Sagbayan Public Market",
+                  "text": "A bustling local marketplace offering fresh agricultural produce and daily goods in Sagbayan.",
+                  "category": "cultural",
+                  "coords": [
+                        124.092692,
+                        9.914506
+                  ]
+            },
+            {
+                  "name": "Carmen Public Market",
+                  "text": "A local municipal marketplace serving as a central hub for fresh food and trading in Carmen.",
+                  "category": "cultural",
+                  "coords": [
+                        124.196025,
+                        9.824744
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "PH-BOH",
     coords: [124.1444, 9.85],
@@ -326,7 +2684,520 @@ image: "/poi-images/ph-mayon-volcano-nature-v2.webp",
     
   },
   {
-    id: "ph-cagayan-river-nature-v2",
+    id: "ph-cagayan-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Casa Real",
+                  "text": "Die historischen Ruinen eines ehemaligen spanischen kolonialen Verwaltungsgebäudes in der Nähe des Cagayan River.",
+                  "category": "historical",
+                  "coords": [
+                        121.795112,
+                        17.447897
+                  ]
+            },
+            {
+                  "name": "San Pablo Church",
+                  "text": "Die imposanten Ruinen einer alten Ziegelkirche aus der spanischen Kolonialzeit in der Nähe des Cagayan River.",
+                  "category": "religious",
+                  "coords": [
+                        121.793413,
+                        17.448446
+                  ]
+            },
+            {
+                  "name": "CBCC",
+                  "text": "Dieses lokale Gotteshaus dient der Gemeinde in der Nähe der Ufer des Cagayan-Flusses.",
+                  "category": "religious",
+                  "coords": [
+                        121.764678,
+                        17.424844
+                  ]
+            },
+            {
+                  "name": "Ang Dating Daan",
+                  "text": "Dieses religiöse Zentrum gehört der auf den Philippinen ansässigen christlichen Konfession Ang Dating Daan an.",
+                  "category": "religious",
+                  "coords": [
+                        121.755585,
+                        17.438705
+                  ]
+            },
+            {
+                  "name": "Our Lady of Snow's Parish Church",
+                  "text": "Diese der Marienverehrung geweihte katholische Pfarrkirche dient als spiritueller Treffpunkt in der Cagayan-Flussregion.",
+                  "category": "landmark",
+                  "coords": [
+                        121.699578,
+                        17.560569
+                  ]
+            },
+            {
+                  "name": "Sta Maria Catholic Church",
+                  "text": "Diese traditionelle katholische Kirche bietet der örtlichen Pfarrgemeinde einen ruhigen Ort zum Beten.",
+                  "category": "religious",
+                  "coords": [
+                        121.75277,
+                        17.469133
+                  ]
+            },
+            {
+                  "name": "Minanga Chapel",
+                  "text": "Diese kleine christliche Kapelle bietet religiöse Gottesdienste für die Bewohner des örtlichen Flussdorfes an.",
+                  "category": "landmark",
+                  "coords": [
+                        121.787125,
+                        17.449837
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "Dieses moderne Gemeindehaus gehört der im Cagayan-Tal ansässigen mormonischen Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        121.765959,
+                        17.42538
+                  ]
+            },
+            {
+                  "name": "United Methodist Church",
+                  "text": "Dieses protestantische Gotteshaus veranstaltet Sonntagsgottesdienste und Gemeindetreffen für die örtliche methodistische Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        121.765558,
+                        17.426993
+                  ]
+            },
+            {
+                  "name": "Saint Paul the Apostle Parish church",
+                  "text": "Diese große, dem Apostel Paulus geweihte Pfarrkirche ist ein Mittelpunkt des katholischen Glaubens in der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        121.764678,
+                        17.428171
+                  ]
+            },
+            {
+                  "name": "Cabagan Baptist church",
+                  "text": "Diese Baptistenkirche dient als Zentrum für biblische Lehren und Gemeinschaft in der Gemeinde Cabagan.",
+                  "category": "landmark",
+                  "coords": [
+                        121.768156,
+                        17.428821
+                  ]
+            },
+            {
+                  "name": "Catabayungan Ermita Church Cabagan",
+                  "text": "Diese christliche Kapelle im historischen Stil, bekannt als Ermita, bietet eine rustikale Umgebung für ruhige Kontemplation in Cabagan.",
+                  "category": "landmark",
+                  "coords": [
+                        121.757999,
+                        17.434975
+                  ]
+            },
+            {
+                  "name": "Casibarag Norte Chapel",
+                  "text": "Diese lokale christliche Kapelle dient dem Viertel Casibarag Norte und ist ein wichtiger spiritueller Treffpunkt für die Anwohner.",
+                  "category": "landmark",
+                  "coords": [
+                        121.753067,
+                        17.435421
+                  ]
+            },
+            {
+                  "name": "Cabagan Public Market",
+                  "text": "Ein lebendiges Handelszentrum in Cabagan, in dem Verkäufer eine Vielzahl lokaler landwirtschaftlicher Güter und Fleischwaren anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        121.773525,
+                        17.427882
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa Real",
+                  "text": "Egy egykori spanyol gyarmati közigazgatási épület történelmi romjai a Cagayan folyó közelében.",
+                  "category": "historical",
+                  "coords": [
+                        121.795112,
+                        17.447897
+                  ]
+            },
+            {
+                  "name": "San Pablo Church",
+                  "text": "Egy régi spanyol kori tégla templom impozáns romjai a Cagayan folyó közelében.",
+                  "category": "religious",
+                  "coords": [
+                        121.793413,
+                        17.448446
+                  ]
+            },
+            {
+                  "name": "CBCC",
+                  "text": "Ez a helyi imaház a Cagayan-folyó partjának közelében lévő közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        121.764678,
+                        17.424844
+                  ]
+            },
+            {
+                  "name": "Ang Dating Daan",
+                  "text": "Ez a vallási központ a Fülöp-szigeteki alapítású Ang Dating Daan keresztény felekezethez tartozik.",
+                  "category": "religious",
+                  "coords": [
+                        121.755585,
+                        17.438705
+                  ]
+            },
+            {
+                  "name": "Our Lady of Snow's Parish Church",
+                  "text": "Ez a Mária-tiszteletnek szentelt katolikus plébániatemplom spirituális gyülekezőhelyként szolgál a Cagayan-folyó régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        121.699578,
+                        17.560569
+                  ]
+            },
+            {
+                  "name": "Sta Maria Catholic Church",
+                  "text": "Ez a hagyományos katolikus templom csendes teret biztosít az imádkozáshoz a helyi egyházközség számára.",
+                  "category": "religious",
+                  "coords": [
+                        121.75277,
+                        17.469133
+                  ]
+            },
+            {
+                  "name": "Minanga Chapel",
+                  "text": "Ez a kis keresztény kápolna vallási szolgáltatásokat nyújt a helyi folyóparti falu lakóinak.",
+                  "category": "landmark",
+                  "coords": [
+                        121.787125,
+                        17.449837
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "Ez a modern gyülekezeti ház a Cagayan-völgyben letelepedett mormon közösséghez tartozik.",
+                  "category": "landmark",
+                  "coords": [
+                        121.765959,
+                        17.42538
+                  ]
+            },
+            {
+                  "name": "United Methodist Church",
+                  "text": "Ez a protestáns imaház vasárnapi istentiszteleteknek és közösségi összejöveteleknek ad otthont a helyi metodista gyülekezet számára.",
+                  "category": "landmark",
+                  "coords": [
+                        121.765558,
+                        17.426993
+                  ]
+            },
+            {
+                  "name": "Saint Paul the Apostle Parish church",
+                  "text": "Ez a Pál apostolnak szentelt nagy plébániatemplom a katolikus hit központja a régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        121.764678,
+                        17.428171
+                  ]
+            },
+            {
+                  "name": "Cabagan Baptist church",
+                  "text": "Ez a baptista templom a bibliai tanítások és a közösség központjaként szolgál Cabagan községben.",
+                  "category": "landmark",
+                  "coords": [
+                        121.768156,
+                        17.428821
+                  ]
+            },
+            {
+                  "name": "Catabayungan Ermita Church Cabagan",
+                  "text": "Ez a történelmi stílusú, ermita néven ismert keresztény kápolna rusztikus környezetet kínál a csendes elmélkedéshez Cabaganban.",
+                  "category": "landmark",
+                  "coords": [
+                        121.757999,
+                        17.434975
+                  ]
+            },
+            {
+                  "name": "Casibarag Norte Chapel",
+                  "text": "A Casibarag Norte negyedet szolgáló helyi keresztény kápolna a környékbeli lakosok fontos spirituális gyülekezőhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        121.753067,
+                        17.435421
+                  ]
+            },
+            {
+                  "name": "Cabagan Public Market",
+                  "text": "Élénk kereskedelmi központ Cabaganban, ahol az árusok különféle helyi mezőgazdasági termékeket és húsokat árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        121.773525,
+                        17.427882
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa Real",
+                  "text": "Ruinele istorice ale unei foste clădiri administrative coloniale spaniole de lângă râul Cagayan.",
+                  "category": "historical",
+                  "coords": [
+                        121.795112,
+                        17.447897
+                  ]
+            },
+            {
+                  "name": "San Pablo Church",
+                  "text": "Ruinele impunătoare ale unei vechi biserici din cărămidă din epoca spaniolă, situate în apropierea râului Cagayan.",
+                  "category": "religious",
+                  "coords": [
+                        121.793413,
+                        17.448446
+                  ]
+            },
+            {
+                  "name": "CBCC",
+                  "text": "Acest lăcaș de cult local deservește comunitatea aflată în apropierea malurilor râului Cagayan.",
+                  "category": "religious",
+                  "coords": [
+                        121.764678,
+                        17.424844
+                  ]
+            },
+            {
+                  "name": "Ang Dating Daan",
+                  "text": "Acest centru religios aparține confesiunii creștine filipineze Ang Dating Daan.",
+                  "category": "religious",
+                  "coords": [
+                        121.755585,
+                        17.438705
+                  ]
+            },
+            {
+                  "name": "Our Lady of Snow's Parish Church",
+                  "text": "Dedicată devoțiunii mariane, această biserică parohială catolică servește drept loc de adunare spirituală în regiunea râului Cagayan.",
+                  "category": "landmark",
+                  "coords": [
+                        121.699578,
+                        17.560569
+                  ]
+            },
+            {
+                  "name": "Sta Maria Catholic Church",
+                  "text": "Această biserică catolică tradițională oferă un spațiu liniștit pentru rugăciune comunității parohiale locale.",
+                  "category": "religious",
+                  "coords": [
+                        121.75277,
+                        17.469133
+                  ]
+            },
+            {
+                  "name": "Minanga Chapel",
+                  "text": "Această mică capelă creștină oferă servicii religioase locuitorilor satului de pe malul râului.",
+                  "category": "landmark",
+                  "coords": [
+                        121.787125,
+                        17.449837
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "Această casă de adunare modernă aparține comunității mormone stabilite în Valea Cagayan.",
+                  "category": "landmark",
+                  "coords": [
+                        121.765959,
+                        17.42538
+                  ]
+            },
+            {
+                  "name": "United Methodist Church",
+                  "text": "Acest lăcaș de cult protestant găzduiește slujbe duminicale și adunări comunitare pentru congregația metodistă locală.",
+                  "category": "landmark",
+                  "coords": [
+                        121.765558,
+                        17.426993
+                  ]
+            },
+            {
+                  "name": "Saint Paul the Apostle Parish church",
+                  "text": "Dedicată Apostolului Pavel, această mare biserică parohială este un punct focal al credinței catolice din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        121.764678,
+                        17.428171
+                  ]
+            },
+            {
+                  "name": "Cabagan Baptist church",
+                  "text": "Această biserică baptistă servește drept centru pentru învățături biblice și părtășie în municipalitatea Cabagan.",
+                  "category": "landmark",
+                  "coords": [
+                        121.768156,
+                        17.428821
+                  ]
+            },
+            {
+                  "name": "Catabayungan Ermita Church Cabagan",
+                  "text": "Această capelă creștină în stil istoric, cunoscută sub numele de ermita, oferă un cadru rustic pentru contemplare liniștită în Cabagan.",
+                  "category": "landmark",
+                  "coords": [
+                        121.757999,
+                        17.434975
+                  ]
+            },
+            {
+                  "name": "Casibarag Norte Chapel",
+                  "text": "Deservind cartierul Casibarag Norte, această capelă creștină locală este un spațiu cheie de adunare spirituală pentru locuitorii din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        121.753067,
+                        17.435421
+                  ]
+            },
+            {
+                  "name": "Cabagan Public Market",
+                  "text": "Un centru comercial plin de viață din Cabagan, unde vânzătorii oferă o varietate de bunuri agricole locale și carne.",
+                  "category": "cultural",
+                  "coords": [
+                        121.773525,
+                        17.427882
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casa Real",
+                  "text": "The historical ruins of a former Spanish colonial administrative building near the Cagayan River.",
+                  "category": "historical",
+                  "coords": [
+                        121.795112,
+                        17.447897
+                  ]
+            },
+            {
+                  "name": "San Pablo Church",
+                  "text": "The imposing ruins of an old Spanish-era brick church located near the Cagayan River.",
+                  "category": "religious",
+                  "coords": [
+                        121.793413,
+                        17.448446
+                  ]
+            },
+            {
+                  "name": "CBCC",
+                  "text": "This local place of worship serves the community near the banks of the Cagayan River.",
+                  "category": "religious",
+                  "coords": [
+                        121.764678,
+                        17.424844
+                  ]
+            },
+            {
+                  "name": "Ang Dating Daan",
+                  "text": "This religious center belongs to the Philippine-based Christian denomination, Ang Dating Daan.",
+                  "category": "religious",
+                  "coords": [
+                        121.755585,
+                        17.438705
+                  ]
+            },
+            {
+                  "name": "Our Lady of Snow's Parish Church",
+                  "text": "Dedicated to the Marian devotion, this Catholic parish church serves as a spiritual gathering place in the Cagayan River region.",
+                  "category": "landmark",
+                  "coords": [
+                        121.699578,
+                        17.560569
+                  ]
+            },
+            {
+                  "name": "Sta Maria Catholic Church",
+                  "text": "This traditional Catholic church provides a quiet space for prayer for the local parish community.",
+                  "category": "religious",
+                  "coords": [
+                        121.75277,
+                        17.469133
+                  ]
+            },
+            {
+                  "name": "Minanga Chapel",
+                  "text": "This small Christian chapel offers religious services to the residents of the local riverside barangay.",
+                  "category": "landmark",
+                  "coords": [
+                        121.787125,
+                        17.449837
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "This modern meetinghouse belongs to the Mormon community established in the Cagayan Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        121.765959,
+                        17.42538
+                  ]
+            },
+            {
+                  "name": "United Methodist Church",
+                  "text": "This protestant place of worship hosts Sunday services and community gatherings for the local Methodist congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        121.765558,
+                        17.426993
+                  ]
+            },
+            {
+                  "name": "Saint Paul the Apostle Parish church",
+                  "text": "Dedicated to the Apostle Paul, this large parish church is a focal point of Catholic faith in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        121.764678,
+                        17.428171
+                  ]
+            },
+            {
+                  "name": "Cabagan Baptist church",
+                  "text": "This Baptist church serves as a center for biblical teachings and fellowship in the municipality of Cabagan.",
+                  "category": "landmark",
+                  "coords": [
+                        121.768156,
+                        17.428821
+                  ]
+            },
+            {
+                  "name": "Catabayungan Ermita Church Cabagan",
+                  "text": "This historic-style Christian chapel, known as an ermita, offers a rustic setting for quiet contemplation in Cabagan.",
+                  "category": "landmark",
+                  "coords": [
+                        121.757999,
+                        17.434975
+                  ]
+            },
+            {
+                  "name": "Casibarag Norte Chapel",
+                  "text": "Serving the Casibarag Norte neighborhood, this local Christian chapel is a key spiritual gathering space for nearby residents.",
+                  "category": "landmark",
+                  "coords": [
+                        121.753067,
+                        17.435421
+                  ]
+            },
+            {
+                  "name": "Cabagan Public Market",
+                  "text": "A lively commercial hub in Cabagan where vendors sell a variety of local agricultural goods and meats.",
+                  "category": "cultural",
+                  "coords": [
+                        121.773525,
+                        17.427882
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "PH-CAG",
     coords: [121.72, 17.5],
@@ -380,7 +3251,772 @@ image: "/poi-images/ph-cagayan-river-nature-v2.webp",
     
   },
   {
-    id: "ph-lake-sebu-nature-v2",
+    id: "ph-lake-sebu-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centro Juu and Ultimate Water Tubing",
+                  "text": "Eine dynamische Freizeitattraktion, die Fluss-Tubing-Erlebnisse im Naturgebiet des Lake Sebu anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        124.663229,
+                        6.245221
+                  ]
+            },
+            {
+                  "name": "Emilio's Kawa Garden",
+                  "text": "Eine malerische Gartenattraktion, die für traditionelle beheizte Kawa-Bäder inmitten der Landschaft des Lake Sebu bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        124.710493,
+                        6.26521
+                  ]
+            },
+            {
+                  "name": "2nd Falls",
+                  "text": "Ein malerischer Aussichtspunkt mit direktem Blick auf den zweiten kaskadierenden Wasserfall des Lake Sebu-Systems.",
+                  "category": "natural",
+                  "coords": [
+                        124.727861,
+                        6.246675
+                  ]
+            },
+            {
+                  "name": "Lang Dulay Weaving Center",
+                  "text": "Eine kulturelle Attraktion, in der Besucher das traditionelle T'nalak-Weben des indigenen T'boli-Volkes erleben können.",
+                  "category": "landmark",
+                  "coords": [
+                        124.73283,
+                        6.217176
+                  ]
+            },
+            {
+                  "name": "I Love Lake Sebu",
+                  "text": "Ein farbenfrohes Wahrzeichen, das als beliebter Fotomotiv mit Blick auf den natürlichen See dient.",
+                  "category": "landmark",
+                  "coords": [
+                        124.712594,
+                        6.222597
+                  ]
+            },
+            {
+                  "name": "House of Gongs",
+                  "text": "Dieses 1998 gegründete Museum zeigt die traditionellen Messinggongs und das musikalische Erbe der Region.",
+                  "category": "museum",
+                  "coords": [
+                        124.709471,
+                        6.218815
+                  ]
+            },
+            {
+                  "name": "Allah Valley Watershed Forest Reserve",
+                  "text": "Ein geschütztes Wassereinzugsgebiet, das das Allah-Tal umfasst und im September 1985 offiziell gegründet wurde.",
+                  "category": "natural",
+                  "coords": [
+                        124.696255,
+                        6.255966
+                  ]
+            },
+            {
+                  "name": "Zipline Returning Area",
+                  "text": "Der ausgewiesene Ausstiegspunkt für die Zipline, die über die malerischen Wasserfälle des Lake Sebu führt.",
+                  "category": "landmark",
+                  "coords": [
+                        124.726308,
+                        6.251032
+                  ]
+            },
+            {
+                  "name": "Kemdol Lake Sebu",
+                  "text": "Eine natürliche Touristenattraktion, die Freizeiterlebnisse entlang der Ufer des Lake Sebu bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        124.706673,
+                        6.232735
+                  ]
+            },
+            {
+                  "name": "Genesaret Baptist Church",
+                  "text": "Ein baptistischer christlicher Versammlungsort inmitten der natürlichen Umgebung der Region Lake Sebu.",
+                  "category": "landmark",
+                  "coords": [
+                        124.71832,
+                        6.232491
+                  ]
+            },
+            {
+                  "name": "Our Lady of Fatima GKK Chapel",
+                  "text": "Eine katholische Basiskapelle in der Gegend von Lake Sebu, benannt zu Ehren Unserer Lieben Frau von Fatima.",
+                  "category": "landmark",
+                  "coords": [
+                        124.717256,
+                        6.231858
+                  ]
+            },
+            {
+                  "name": "Lemlunay GKK Chapel",
+                  "text": "Ein spezielles Gotteshaus, das den christlichen Bewohnern in der spezifischen Umgebung von Lemlunay am Lake Sebu dient.",
+                  "category": "religious",
+                  "coords": [
+                        124.723638,
+                        6.220102
+                  ]
+            },
+            {
+                  "name": "CAMACOP Lake Sebu",
+                  "text": "Ein Kirchenstandort der Christian and Missionary Alliance, der das spirituelle Leben der Gemeinde am Seeufer unterstützt.",
+                  "category": "landmark",
+                  "coords": [
+                        124.709759,
+                        6.226128
+                  ]
+            },
+            {
+                  "name": "The Salvation Army",
+                  "text": "Ein lokaler christlicher Außenposten der Heilsarmee im Naturbezirk Lake Sebu.",
+                  "category": "landmark",
+                  "coords": [
+                        124.713298,
+                        6.22702
+                  ]
+            },
+            {
+                  "name": "Sr. San Roque - Lake Lahit GKK",
+                  "text": "Eine christliche Gemeindekapelle am Lahit-See, die San Roque gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        124.718845,
+                        6.252422
+                  ]
+            },
+            {
+                  "name": "St. Raphael Archangel - Sitio Tabete GKK",
+                  "text": "Eine ländliche christliche Gemeindekapelle in Sitio Tabete zu Ehren des Erzengels Raphael.",
+                  "category": "landmark",
+                  "coords": [
+                        124.721482,
+                        6.239724
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist Church",
+                  "text": "Ein lokales christliches Gotteshaus, das der Gemeinschaft der Siebenten-Tags-Adventisten in der Nähe des Sebu-Sees dient.",
+                  "category": "landmark",
+                  "coords": [
+                        124.716754,
+                        6.235583
+                  ]
+            },
+            {
+                  "name": "Jesus is Alive Community Ministries International",
+                  "text": "Eine zeitgenössische christliche Gemeindekirche, die Gottesdienste in der Gemeinde Lake Sebu anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        124.717682,
+                        6.224409
+                  ]
+            },
+            {
+                  "name": "St. John the Baptist Church",
+                  "text": "Eine nach Johannes dem Täufer benannte christliche Pfarrkirche, die ein spirituelles Wahrzeichen in der Region des Sebu-Sees ist.",
+                  "category": "landmark",
+                  "coords": [
+                        124.711173,
+                        6.224844
+                  ]
+            },
+            {
+                  "name": "Divine Mercy Chapel",
+                  "text": "Eine kleine christliche Kapelle, die der Göttlichen Barmherzigkeit gewidmet ist und einen ruhigen Ort für Gebete in der Nähe des Sebu-Sees bietet.",
+                  "category": "religious",
+                  "coords": [
+                        124.733193,
+                        6.194803
+                  ]
+            },
+            {
+                  "name": "Lake Sebu Public Market",
+                  "text": "Ein lebhafter Marktplatz in der Nähe des Sees, auf dem Einheimische frische Produkte, Waren und regionale Spezialitäten handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        124.718347,
+                        6.234434
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centro Juu and Ultimate Water Tubing",
+                  "text": "Dinamikus szabadidős látványosság, amely folyami hófánkozási (tubing) élményeket kínál a Lake Sebu természeti területén.",
+                  "category": "landmark",
+                  "coords": [
+                        124.663229,
+                        6.245221
+                  ]
+            },
+            {
+                  "name": "Emilio's Kawa Garden",
+                  "text": "Festői kerti látványosság, amely a Lake Sebu tájának közepén kínált hagyományos fűtött kawa fürdőiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        124.710493,
+                        6.26521
+                  ]
+            },
+            {
+                  "name": "2nd Falls",
+                  "text": "Festői kilátópont, amely közvetlen rálátást nyújt a Lake Sebu rendszerének második vízesésére.",
+                  "category": "natural",
+                  "coords": [
+                        124.727861,
+                        6.246675
+                  ]
+            },
+            {
+                  "name": "Lang Dulay Weaving Center",
+                  "text": "Kulturális látványosság, ahol a látogatók megtekinthetik az őslakos T'boli nép hagyományos T'nalak szövését.",
+                  "category": "landmark",
+                  "coords": [
+                        124.73283,
+                        6.217176
+                  ]
+            },
+            {
+                  "name": "I Love Lake Sebu",
+                  "text": "Egy színes mérföldkő jel, amely népszerű fotózási helyszínként szolgál, kilátással a természetes tóra.",
+                  "category": "landmark",
+                  "coords": [
+                        124.712594,
+                        6.222597
+                  ]
+            },
+            {
+                  "name": "House of Gongs",
+                  "text": "Az 1998-ban alapított múzeum a régió hagyományos sárgaréz gongjait és zenei örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        124.709471,
+                        6.218815
+                  ]
+            },
+            {
+                  "name": "Allah Valley Watershed Forest Reserve",
+                  "text": "Az Allah-völgy területét lefedő védett vízgyűjtő erdőrezervátum, amelyet hivatalosan 1985 szeptemberében hoztak létre.",
+                  "category": "natural",
+                  "coords": [
+                        124.696255,
+                        6.255966
+                  ]
+            },
+            {
+                  "name": "Zipline Returning Area",
+                  "text": "A Lake Sebu festői vízeséseit átszelő drótkötélpálya kijelölt kiszállási pontja.",
+                  "category": "landmark",
+                  "coords": [
+                        124.726308,
+                        6.251032
+                  ]
+            },
+            {
+                  "name": "Kemdol Lake Sebu",
+                  "text": "Természeti turisztikai látványosság, amely szabadidős megtekintési élményeket kínál a Lake Sebu partján.",
+                  "category": "landmark",
+                  "coords": [
+                        124.706673,
+                        6.232735
+                  ]
+            },
+            {
+                  "name": "Genesaret Baptist Church",
+                  "text": "Baptista keresztény gyülekezeti hely, amely a Lake Sebu régió természeti környezetében fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        124.71832,
+                        6.232491
+                  ]
+            },
+            {
+                  "name": "Our Lady of Fatima GKK Chapel",
+                  "text": "Egy alulról szerveződő katolikus kápolna a Lake Sebu területén, a Fatimai Szűzanya tiszteletére elnevezve.",
+                  "category": "landmark",
+                  "coords": [
+                        124.717256,
+                        6.231858
+                  ]
+            },
+            {
+                  "name": "Lemlunay GKK Chapel",
+                  "text": "Egy dedikált istentiszteleti hely, amely a keresztény lakosokat szolgálja a Lake Sebu melletti Lemlunay környékén.",
+                  "category": "religious",
+                  "coords": [
+                        124.723638,
+                        6.220102
+                  ]
+            },
+            {
+                  "name": "CAMACOP Lake Sebu",
+                  "text": "Keresztény és Misszionárius Szövetség templom, amely a tóparti közösség spirituális életét támogatja.",
+                  "category": "landmark",
+                  "coords": [
+                        124.709759,
+                        6.226128
+                  ]
+            },
+            {
+                  "name": "The Salvation Army",
+                  "text": "Az Üdvhadsereg helyi keresztény előőrse a Lake Sebu természeti negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        124.713298,
+                        6.22702
+                  ]
+            },
+            {
+                  "name": "Sr. San Roque - Lake Lahit GKK",
+                  "text": "A Lahit-tó partján fekvő, San Roque-nak szentelt keresztény közösségi kápolna.",
+                  "category": "landmark",
+                  "coords": [
+                        124.718845,
+                        6.252422
+                  ]
+            },
+            {
+                  "name": "St. Raphael Archangel - Sitio Tabete GKK",
+                  "text": "A Sitio Tabetében található vidéki keresztény közösségi kápolna, amely Rafael arkangyalt tiszteli.",
+                  "category": "landmark",
+                  "coords": [
+                        124.721482,
+                        6.239724
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist Church",
+                  "text": "A Hetednapi Adventista közösség helyi keresztény imaháza a Sebu-tó partjának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        124.716754,
+                        6.235583
+                  ]
+            },
+            {
+                  "name": "Jesus is Alive Community Ministries International",
+                  "text": "Kortárs keresztény közösségi templom, amely istentiszteleteket tart a Sebu-tó településén.",
+                  "category": "landmark",
+                  "coords": [
+                        124.717682,
+                        6.224409
+                  ]
+            },
+            {
+                  "name": "St. John the Baptist Church",
+                  "text": "A Keresztelő Szent Jánosról elnevezett keresztény plébániatemplom, amely a Sebu-tó régió szellemi központja.",
+                  "category": "landmark",
+                  "coords": [
+                        124.711173,
+                        6.224844
+                  ]
+            },
+            {
+                  "name": "Divine Mercy Chapel",
+                  "text": "Az Isteni Irgalmasságnak szentelt kis keresztény kápolna, amely csendes teret biztosít az imádsághoz a Sebu-tó közelében.",
+                  "category": "religious",
+                  "coords": [
+                        124.733193,
+                        6.194803
+                  ]
+            },
+            {
+                  "name": "Lake Sebu Public Market",
+                  "text": "Nyüzsgő piac a tó közelében, ahol a helyiek friss termékeket, árukat és regionális különlegességeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        124.718347,
+                        6.234434
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centro Juu and Ultimate Water Tubing",
+                  "text": "O atracție recreativă dinamică care oferă experiențe de tubing pe râu în zona naturală a Lacului Sebu.",
+                  "category": "landmark",
+                  "coords": [
+                        124.663229,
+                        6.245221
+                  ]
+            },
+            {
+                  "name": "Emilio's Kawa Garden",
+                  "text": "O atracție pitorească cu grădină, cunoscută pentru oferirea de băi tradiționale kawa încălzite în mijlocul peisajului Lacului Sebu.",
+                  "category": "landmark",
+                  "coords": [
+                        124.710493,
+                        6.26521
+                  ]
+            },
+            {
+                  "name": "2nd Falls",
+                  "text": "Un punct de belvedere pitoresc care oferă o vizibilitate directă către a doua cascadă din sistemul Lacului Sebu.",
+                  "category": "natural",
+                  "coords": [
+                        124.727861,
+                        6.246675
+                  ]
+            },
+            {
+                  "name": "Lang Dulay Weaving Center",
+                  "text": "O atracție culturală unde vizitatorii pot asista la țesutul tradițional T'nalak al poporului indigen T'boli.",
+                  "category": "landmark",
+                  "coords": [
+                        124.73283,
+                        6.217176
+                  ]
+            },
+            {
+                  "name": "I Love Lake Sebu",
+                  "text": "Un panou colorat cu repere, care servește drept un loc fotografic popular cu vedere la lacul natural.",
+                  "category": "landmark",
+                  "coords": [
+                        124.712594,
+                        6.222597
+                  ]
+            },
+            {
+                  "name": "House of Gongs",
+                  "text": "Înființat în 1998, acest muzeu prezintă gongurile tradiționale din alamă și moștenirea muzicală a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        124.709471,
+                        6.218815
+                  ]
+            },
+            {
+                  "name": "Allah Valley Watershed Forest Reserve",
+                  "text": "O rezervație forestieră protejată a bazinului hidrografic care acoperă zona Văii Allah, înființată oficial în septembrie 1985.",
+                  "category": "natural",
+                  "coords": [
+                        124.696255,
+                        6.255966
+                  ]
+            },
+            {
+                  "name": "Zipline Returning Area",
+                  "text": "Punctul desemnat de debarcare pentru tiroliana aeriană care traversează cascadele pitorești ale Lacului Sebu.",
+                  "category": "landmark",
+                  "coords": [
+                        124.726308,
+                        6.251032
+                  ]
+            },
+            {
+                  "name": "Kemdol Lake Sebu",
+                  "text": "O atracție turistică naturală care oferă experiențe de vizionare recreative de-a lungul malurilor Lacului Sebu.",
+                  "category": "landmark",
+                  "coords": [
+                        124.706673,
+                        6.232735
+                  ]
+            },
+            {
+                  "name": "Genesaret Baptist Church",
+                  "text": "Un loc de adunare creștin baptist situat în mijlocul mediului natural al regiunii Lacului Sebu.",
+                  "category": "landmark",
+                  "coords": [
+                        124.71832,
+                        6.232491
+                  ]
+            },
+            {
+                  "name": "Our Lady of Fatima GKK Chapel",
+                  "text": "O capelă catolică de bază din zona Lacului Sebu, numită în onoarea Maicii Domnului din Fatima.",
+                  "category": "landmark",
+                  "coords": [
+                        124.717256,
+                        6.231858
+                  ]
+            },
+            {
+                  "name": "Lemlunay GKK Chapel",
+                  "text": "Un lăcaș de cult dedicat care deservește locuitorii creștini din vecinătatea specifică Lemlunay a Lacului Sebu.",
+                  "category": "religious",
+                  "coords": [
+                        124.723638,
+                        6.220102
+                  ]
+            },
+            {
+                  "name": "CAMACOP Lake Sebu",
+                  "text": "Un sit al bisericii Alianței Creștine și Misionare care sprijină viața spirituală a comunității de pe malul lacului.",
+                  "category": "landmark",
+                  "coords": [
+                        124.709759,
+                        6.226128
+                  ]
+            },
+            {
+                  "name": "The Salvation Army",
+                  "text": "Un avanpost creștin local al Armatei Salvării situat în districtul natural al Lacului Sebu.",
+                  "category": "landmark",
+                  "coords": [
+                        124.713298,
+                        6.22702
+                  ]
+            },
+            {
+                  "name": "Sr. San Roque - Lake Lahit GKK",
+                  "text": "O capelă a comunității creștine situată lângă Lacul Lahit, dedicată lui San Roque.",
+                  "category": "landmark",
+                  "coords": [
+                        124.718845,
+                        6.252422
+                  ]
+            },
+            {
+                  "name": "St. Raphael Archangel - Sitio Tabete GKK",
+                  "text": "O capelă a comunității creștine rurale situată în Sitio Tabete, care îl onorează pe Sfântul Arhanghel Rafael.",
+                  "category": "landmark",
+                  "coords": [
+                        124.721482,
+                        6.239724
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist Church",
+                  "text": "Un lăcaș de cult creștin local care deservește comunitatea adventistă de ziua a șaptea în apropiere de Lacul Sebu.",
+                  "category": "landmark",
+                  "coords": [
+                        124.716754,
+                        6.235583
+                  ]
+            },
+            {
+                  "name": "Jesus is Alive Community Ministries International",
+                  "text": "O biserică comunitară creștină contemporană care oferă servicii religioase în municipalitatea Lacului Sebu.",
+                  "category": "landmark",
+                  "coords": [
+                        124.717682,
+                        6.224409
+                  ]
+            },
+            {
+                  "name": "St. John the Baptist Church",
+                  "text": "O biserică parohială creștină care poartă numele Sfântului Ioan Botezătorul, reprezentând un reper spiritual în regiunea Lacului Sebu.",
+                  "category": "landmark",
+                  "coords": [
+                        124.711173,
+                        6.224844
+                  ]
+            },
+            {
+                  "name": "Divine Mercy Chapel",
+                  "text": "O mică capelă creștină închinată Milostivirii Divine, oferind un spațiu liniștit pentru rugăciune în apropiere de Lacul Sebu.",
+                  "category": "religious",
+                  "coords": [
+                        124.733193,
+                        6.194803
+                  ]
+            },
+            {
+                  "name": "Lake Sebu Public Market",
+                  "text": "O piață publică aglomerată, unde localnicii se adună pentru a vinde produse proaspete, mărfuri și specialități regionale lângă lac.",
+                  "category": "cultural",
+                  "coords": [
+                        124.718347,
+                        6.234434
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centro Juu and Ultimate Water Tubing",
+                  "text": "A dynamic recreational attraction offering river water tubing experiences in the Lake Sebu natural area.",
+                  "category": "landmark",
+                  "coords": [
+                        124.663229,
+                        6.245221
+                  ]
+            },
+            {
+                  "name": "Emilio's Kawa Garden",
+                  "text": "A scenic garden attraction known for offering traditional heated kawa baths amidst the Lake Sebu landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        124.710493,
+                        6.26521
+                  ]
+            },
+            {
+                  "name": "2nd Falls",
+                  "text": "A scenic viewpoint offering direct sightlines to the second cascading waterfall of the Lake Sebu system.",
+                  "category": "natural",
+                  "coords": [
+                        124.727861,
+                        6.246675
+                  ]
+            },
+            {
+                  "name": "Lang Dulay Weaving Center",
+                  "text": "A cultural attraction where visitors can witness the traditional T'nalak weaving of the indigenous T'boli people.",
+                  "category": "landmark",
+                  "coords": [
+                        124.73283,
+                        6.217176
+                  ]
+            },
+            {
+                  "name": "I Love Lake Sebu",
+                  "text": "A colorful landmark sign serving as a popular photographic spot with views over the natural lake.",
+                  "category": "landmark",
+                  "coords": [
+                        124.712594,
+                        6.222597
+                  ]
+            },
+            {
+                  "name": "House of Gongs",
+                  "text": "Established in 1998, this museum showcases the traditional brass gongs and musical heritage of the region.",
+                  "category": "museum",
+                  "coords": [
+                        124.709471,
+                        6.218815
+                  ]
+            },
+            {
+                  "name": "Allah Valley Watershed Forest Reserve",
+                  "text": "A protected watershed forest reserve covering the Allah Valley area, officially established in September 1985.",
+                  "category": "natural",
+                  "coords": [
+                        124.696255,
+                        6.255966
+                  ]
+            },
+            {
+                  "name": "Zipline Returning Area",
+                  "text": "The designated disembarkation point for the aerial zipline that traverses the scenic waterfalls of Lake Sebu.",
+                  "category": "landmark",
+                  "coords": [
+                        124.726308,
+                        6.251032
+                  ]
+            },
+            {
+                  "name": "Kemdol Lake Sebu",
+                  "text": "A natural tourist attraction offering recreational viewing experiences along the shores of Lake Sebu.",
+                  "category": "landmark",
+                  "coords": [
+                        124.706673,
+                        6.232735
+                  ]
+            },
+            {
+                  "name": "Genesaret Baptist Church",
+                  "text": "A Baptist Christian gathering place situated amidst the natural environment of the Lake Sebu region.",
+                  "category": "landmark",
+                  "coords": [
+                        124.71832,
+                        6.232491
+                  ]
+            },
+            {
+                  "name": "Our Lady of Fatima GKK Chapel",
+                  "text": "A grassroots Catholic chapel in the Lake Sebu area, named in honor of Our Lady of Fatima.",
+                  "category": "landmark",
+                  "coords": [
+                        124.717256,
+                        6.231858
+                  ]
+            },
+            {
+                  "name": "Lemlunay GKK Chapel",
+                  "text": "A dedicated place of worship serving the Christian residents in the specific Lemlunay vicinity of Lake Sebu.",
+                  "category": "religious",
+                  "coords": [
+                        124.723638,
+                        6.220102
+                  ]
+            },
+            {
+                  "name": "CAMACOP Lake Sebu",
+                  "text": "A Christian and Missionary Alliance church site supporting the spiritual life of the lakeside community.",
+                  "category": "landmark",
+                  "coords": [
+                        124.709759,
+                        6.226128
+                  ]
+            },
+            {
+                  "name": "The Salvation Army",
+                  "text": "A local Christian outpost of The Salvation Army situated in the Lake Sebu natural district.",
+                  "category": "landmark",
+                  "coords": [
+                        124.713298,
+                        6.22702
+                  ]
+            },
+            {
+                  "name": "Sr. San Roque - Lake Lahit GKK",
+                  "text": "A Christian community chapel situated by Lake Lahit, dedicated to San Roque.",
+                  "category": "landmark",
+                  "coords": [
+                        124.718845,
+                        6.252422
+                  ]
+            },
+            {
+                  "name": "St. Raphael Archangel - Sitio Tabete GKK",
+                  "text": "A rural Christian community chapel located in Sitio Tabete, honoring Saint Raphael the Archangel.",
+                  "category": "landmark",
+                  "coords": [
+                        124.721482,
+                        6.239724
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist Church",
+                  "text": "A local Christian house of worship serving the Seventh-day Adventist community near the shores of Lake Sebu.",
+                  "category": "landmark",
+                  "coords": [
+                        124.716754,
+                        6.235583
+                  ]
+            },
+            {
+                  "name": "Jesus is Alive Community Ministries International",
+                  "text": "A contemporary Christian community church providing religious services in the Lake Sebu municipality.",
+                  "category": "landmark",
+                  "coords": [
+                        124.717682,
+                        6.224409
+                  ]
+            },
+            {
+                  "name": "St. John the Baptist Church",
+                  "text": "A Christian parish church named after St. John the Baptist, standing as a spiritual landmark in the Lake Sebu region.",
+                  "category": "landmark",
+                  "coords": [
+                        124.711173,
+                        6.224844
+                  ]
+            },
+            {
+                  "name": "Divine Mercy Chapel",
+                  "text": "A small Christian chapel dedicated to the Divine Mercy, providing a quiet space for prayer near Lake Sebu.",
+                  "category": "religious",
+                  "coords": [
+                        124.733193,
+                        6.194803
+                  ]
+            },
+            {
+                  "name": "Lake Sebu Public Market",
+                  "text": "A bustling marketplace where locals gather to trade fresh produce, goods, and regional specialties near the lake.",
+                  "category": "cultural",
+                  "coords": [
+                        124.718347,
+                        6.234434
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "PH-SCO",
     coords: [124.7075, 6.2239],
@@ -433,7 +4069,160 @@ image: "/poi-images/ph-cagayan-river-nature-v2.webp",
     
   },
   {
-    id: "ph-mount-pinatubo-nature-v2",
+    id: "ph-mount-pinatubo-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Pinatubo View Deck",
+                  "text": "Ein malerischer Aussichtspunkt, der einen weiten Blick auf die markante Vulkanlandschaft des Mount Pinatubo bietet.",
+                  "category": "natural",
+                  "coords": [
+                        120.427306,
+                        15.125256
+                  ]
+            },
+            {
+                  "name": "Mount Negron",
+                  "text": "Ein anerkannter Berggipfel, der in der Nähe des Mount Pinatubo in den Zambales-Bergen markant aufragt.",
+                  "category": "natural",
+                  "coords": [
+                        120.368085,
+                        15.092884
+                  ]
+            },
+            {
+                  "name": "Mount Pinatubo Viewpoint",
+                  "text": "Ein Beobachtungspunkt, der dramatische Ausblicke auf den Mount Pinatubo und das umliegende aschebedeckte Gelände bietet.",
+                  "category": "natural",
+                  "coords": [
+                        120.336271,
+                        15.133102
+                  ]
+            },
+            {
+                  "name": "Mount Dorst",
+                  "text": "Ein schroffer Berggipfel im anspruchsvollen Gelände rund um den Vulkan Mount Pinatubo.",
+                  "category": "natural",
+                  "coords": [
+                        120.432699,
+                        15.135383
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Pinatubo View Deck",
+                  "text": "Festői kilátópont, amelyet úgy építettek, hogy kiterjedt kilátást nyújtson a Pinatubo hegy lenyűgöző vulkáni tájára.",
+                  "category": "natural",
+                  "coords": [
+                        120.427306,
+                        15.125256
+                  ]
+            },
+            {
+                  "name": "Mount Negron",
+                  "text": "Elismert hegycsúcs, amely a Pinatubo hegy közelében, a Zambales-hegységben emelkedik.",
+                  "category": "natural",
+                  "coords": [
+                        120.368085,
+                        15.092884
+                  ]
+            },
+            {
+                  "name": "Mount Pinatubo Viewpoint",
+                  "text": "Megfigyelőhely, amely drámai kilátást nyújt a Pinatubo hegyre és a környező hamuval borított terepre.",
+                  "category": "natural",
+                  "coords": [
+                        120.336271,
+                        15.133102
+                  ]
+            },
+            {
+                  "name": "Mount Dorst",
+                  "text": "Egy zord hegycsúcs, amely a Pinatubo vulkánt körülvevő kihívásokkal teli terepen található.",
+                  "category": "natural",
+                  "coords": [
+                        120.432699,
+                        15.135383
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Pinatubo View Deck",
+                  "text": "Un punct de observație pitoresc construit pentru a oferi vederi ample asupra peisajului vulcanic impresionant al Muntelui Pinatubo.",
+                  "category": "natural",
+                  "coords": [
+                        120.427306,
+                        15.125256
+                  ]
+            },
+            {
+                  "name": "Mount Negron",
+                  "text": "Un vârf de munte recunoscut care se înalță proeminent lângă Muntele Pinatubo, în Munții Zambales.",
+                  "category": "natural",
+                  "coords": [
+                        120.368085,
+                        15.092884
+                  ]
+            },
+            {
+                  "name": "Mount Pinatubo Viewpoint",
+                  "text": "Un loc de observație care oferă vederi dramatice spre Muntele Pinatubo și terenul înconjurător acoperit de cenușă.",
+                  "category": "natural",
+                  "coords": [
+                        120.336271,
+                        15.133102
+                  ]
+            },
+            {
+                  "name": "Mount Dorst",
+                  "text": "Un vârf de munte accidentat situat în terenul dificil din jurul vulcanului Muntele Pinatubo.",
+                  "category": "natural",
+                  "coords": [
+                        120.432699,
+                        15.135383
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Pinatubo View Deck",
+                  "text": "A scenic vantage point constructed to offer expansive views of Mount Pinatubo's striking volcanic landscape.",
+                  "category": "natural",
+                  "coords": [
+                        120.427306,
+                        15.125256
+                  ]
+            },
+            {
+                  "name": "Mount Negron",
+                  "text": "A recognized mountain peak standing prominently near Mount Pinatubo in the Zambales Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        120.368085,
+                        15.092884
+                  ]
+            },
+            {
+                  "name": "Mount Pinatubo Viewpoint",
+                  "text": "An observation spot offering dramatic views toward Mount Pinatubo and the surrounding ash-covered terrain.",
+                  "category": "natural",
+                  "coords": [
+                        120.336271,
+                        15.133102
+                  ]
+            },
+            {
+                  "name": "Mount Dorst",
+                  "text": "A rugged mountain peak located in the challenging terrain surrounding the Mount Pinatubo volcano.",
+                  "category": "natural",
+                  "coords": [
+                        120.432699,
+                        15.135383
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PH-ZMB",
     coords: [120.35, 15.1417],
@@ -486,7 +4275,1240 @@ image: "/poi-images/ph-cagayan-river-nature-v2.webp",
     
   },
   {
-    id: "ph-hundred-islands-national-park-nature-v2",
+    id: "ph-hundred-islands-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Welcome to Pangapisan arch",
+                  "text": "Ein dekoratives Straßenmonument, das sich über die Autobahn spannt und Reisende offiziell im Barangay Pangapisan willkommen heißt.",
+                  "category": "historical",
+                  "coords": [
+                        119.961776,
+                        16.208236
+                  ]
+            },
+            {
+                  "name": "Welcome to Mona arch",
+                  "text": "Dieses große Tormonument dient als markanter geografischer Orientierungspunkt für Autofahrer, die im Bezirk Mona ankommen.",
+                  "category": "historical",
+                  "coords": [
+                        119.971627,
+                        16.195192
+                  ]
+            },
+            {
+                  "name": "Welcome to San Jose arch",
+                  "text": "Ein bogenförmiges Eingangsmonument, das über der Hauptstraße errichtet wurde und die Grenze sowie den Eingang zur Gemeinde San Jose markiert.",
+                  "category": "historical",
+                  "coords": [
+                        119.954268,
+                        16.173568
+                  ]
+            },
+            {
+                  "name": "Welcome to Telbang arch",
+                  "text": "Ein farbenfrohes Betonmonument, das quer über die Allee gebaut wurde, um Besucher, die in das Gebiet von Telbang einreisen, herzlich zu empfangen.",
+                  "category": "historical",
+                  "coords": [
+                        120.041277,
+                        16.167375
+                  ]
+            },
+            {
+                  "name": "Welcome to Victoria Arch",
+                  "text": "Strategisch an der Grenze positioniert, kündigt dieses strukturelle Monument stolz die Ankunft im Bezirk Victoria an.",
+                  "category": "historical",
+                  "coords": [
+                        120.065002,
+                        16.167793
+                  ]
+            },
+            {
+                  "name": "Bay Bay Sur Welcome Arch",
+                  "text": "Ein mit einer Inschrift versehenes Gemeindemonument, das als visuelle Schwelle für diejenigen dient, die in den Ort Bay Bay Sur hinabfahren.",
+                  "category": "historical",
+                  "coords": [
+                        120.078574,
+                        16.152066
+                  ]
+            },
+            {
+                  "name": "Pangascasan Welcome Arch",
+                  "text": "Ein stabiles Betonmonument, das die Route überspannt und den Fahrern signalisiert, dass sie den Sektor Pangascasan erreicht haben.",
+                  "category": "historical",
+                  "coords": [
+                        120.086898,
+                        16.128324
+                  ]
+            },
+            {
+                  "name": "Capantolan Welcome Arch",
+                  "text": "Ein markantes Überkopf-Monument, das die Straße überbrückt, um den Übergang in das Gebiet von Capantolan anzukündigen.",
+                  "category": "historical",
+                  "coords": [
+                        120.066513,
+                        16.11561
+                  ]
+            },
+            {
+                  "name": "Cathedral Cave",
+                  "text": "Eine atemberaubende Naturattraktion auf den Hundred Islands, bekannt für ihr massives, höhlenartiges Inneres, das einer großen Kathedrale ähnelt.",
+                  "category": "landmark",
+                  "coords": [
+                        120.05066,
+                        16.22514
+                  ]
+            },
+            {
+                  "name": "Snorkeling spot",
+                  "text": "Dieser Küstenabschnitt im Hundred Islands National Park bietet lebhafte Unterwasserausblicke auf Korallenriffe und Meereslebewesen.",
+                  "category": "landmark",
+                  "coords": [
+                        120.050981,
+                        16.223253
+                  ]
+            },
+            {
+                  "name": "Quezon Zip-line start",
+                  "text": "Als Startpunkt auf Quezon Island bietet diese Attraktion eine malerische Luftfahrt über die Gewässer des Nationalparks.",
+                  "category": "landmark",
+                  "coords": [
+                        120.04897,
+                        16.224963
+                  ]
+            },
+            {
+                  "name": "Hurricane Wheel boat ride",
+                  "text": "Besucher können eine aufregende Wasserfahrt auf einem aufblasbaren Rad erleben, das über die Wellen des Parks gezogen wird.",
+                  "category": "landmark",
+                  "coords": [
+                        120.046428,
+                        16.221921
+                  ]
+            },
+            {
+                  "name": "Hanging bridge",
+                  "text": "Ein hängender Fußgängerweg, der natürliche Felsformationen verbindet und einen Panoramablick auf die umliegenden Inseln bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        120.046256,
+                        16.223004
+                  ]
+            },
+            {
+                  "name": "Helmet Diving",
+                  "text": "Diese Attraktion rüstet Besucher mit Unterwasserhelmen aus, um auf dem Meeresgrund zu spazieren und das aquatische Ökosystem der Region sicher zu beobachten.",
+                  "category": "landmark",
+                  "coords": [
+                        120.048244,
+                        16.221029
+                  ]
+            },
+            {
+                  "name": "Mayors Island",
+                  "text": "Eine der zahlreichen Inseln im Nationalpark, die sich durch ihre felsige Küstenlinie und die heimische Küstenvegetation auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        120.047522,
+                        16.205244
+                  ]
+            },
+            {
+                  "name": "Zipline end",
+                  "text": "Die ausgewiesene Landezone, in der die Besucher ihren malerischen Luftflug über die Küstengewässer der Insel beenden.",
+                  "category": "landmark",
+                  "coords": [
+                        120.042012,
+                        16.204514
+                  ]
+            },
+            {
+                  "name": "Cave",
+                  "text": "Eine natürlich geformte Küstenhöhle mit verwitterten Kalksteinwänden und einzigartigen geologischen Formationen, die vom Meer geformt wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        120.037974,
+                        16.205577
+                  ]
+            },
+            {
+                  "name": "Governor's Zip-line launch",
+                  "text": "Diese Struktur dient als markanter Startturm und lässt die Fahrer über die azurblauen Buchten des Nationalparks schweben.",
+                  "category": "landmark",
+                  "coords": [
+                        120.038413,
+                        16.203976
+                  ]
+            },
+            {
+                  "name": "Salt fields",
+                  "text": "Diese Freiluft-Küstenflächen nutzen traditionelle solare Verdunstungstechniken, um Salz aus dem flachen Meerwasser zu gewinnen.",
+                  "category": "landmark",
+                  "coords": [
+                        120.008639,
+                        16.172654
+                  ]
+            },
+            {
+                  "name": "The C-Shells Home and Garden",
+                  "text": "Diese lokale Attraktion bietet kreativ gestaltete Landschaften und dekorative Arrangements, die reichlich vorhandene Muscheln von der Küste verwenden.",
+                  "category": "landmark",
+                  "coords": [
+                        120.068267,
+                        16.172875
+                  ]
+            },
+            {
+                  "name": "Masamirey Cove Resort",
+                  "text": "Dieser Resortkomplex liegt an einem ruhigen Küstenabschnitt und bietet schattige Cabanas sowie direkten Zugang zum Sandstrand.",
+                  "category": "landmark",
+                  "coords": [
+                        120.106429,
+                        16.141608
+                  ]
+            },
+            {
+                  "name": "Masamirey Beach Resort",
+                  "text": "Dieses Anwesen am Strand bietet entspannende Annehmlichkeiten vor der Kulisse aus klarem tropischem Wasser und feinem Sand.",
+                  "category": "landmark",
+                  "coords": [
+                        120.10842,
+                        16.142612
+                  ]
+            },
+            {
+                  "name": "Bolo Beach",
+                  "text": "Ein ruhiger Küstensandstreifen mit sanftem Wellenschlag und malerischem Blick auf die nahegelegenen Inselgruppen.",
+                  "category": "landmark",
+                  "coords": [
+                        120.047633,
+                        16.178451
+                  ]
+            },
+            {
+                  "name": "Church of the Living God",
+                  "text": "Diese lokale christliche Gemeinde versammelt sich in einem bescheidenen Gebäude, um den spirituellen Bedürfnissen der umliegenden Inselgemeinschaften zu dienen.",
+                  "category": "landmark",
+                  "coords": [
+                        119.957792,
+                        16.215455
+                  ]
+            },
+            {
+                  "name": "Cowboy Christian Church",
+                  "text": "Ein markant benanntes christliches Gotteshaus, das eine ländliche, einladende Gemeinschaftsatmosphäre in seine Gottesdienste einbringt.",
+                  "category": "landmark",
+                  "coords": [
+                        120.070886,
+                        16.175763
+                  ]
+            },
+            {
+                  "name": "Immaculate Conception Chapel",
+                  "text": "Diese katholische Kapelle verfügt über einen traditionellen Altar und bietet einen friedlichen Raum für tägliche Gebete und Messen in der Küstenstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        119.956701,
+                        16.214339
+                  ]
+            },
+            {
+                  "name": "Mona Chapel",
+                  "text": "Ein kleines christliches Heiligtum im Viertel, das für die wöchentlichen Gottesdienstversammlungen der Anwohner gebaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        119.968508,
+                        16.200609
+                  ]
+            },
+            {
+                  "name": "Mona Bible Baptist Church",
+                  "text": "Diese protestantische Kirche konzentriert sich auf biblische Lehren und bietet einen dedizierten Versammlungsraum für die umliegende Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        119.962287,
+                        16.20309
+                  ]
+            },
+            {
+                  "name": "Lucap Baptist Church",
+                  "text": "Diese christliche Gebetshalle in der Nähe des Hafengebiets dient sowohl den Anwohnern als auch den vorbeikommenden Besuchern nahe dem Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        119.995139,
+                        16.180386
+                  ]
+            },
+            {
+                  "name": "Barangay Sabangan Chapel",
+                  "text": "Diese christliche Kapelle fungiert als spirituelles Herz des Dorfes und beherbergt regelmäßige lokale Gottesdienste und Gemeindeereignisse.",
+                  "category": "landmark",
+                  "coords": [
+                        120.009718,
+                        16.157666
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo",
+                  "text": "Ein markantes religiöses Bauwerk, das sich durch seinen ausgeprägten Baustil und die gepflegten Außenanlagen auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        120.008258,
+                        16.16515
+                  ]
+            },
+            {
+                  "name": "Barangay Baley-a-daan Chapel",
+                  "text": "Eine christliche Kapelle auf Dorfebene, die einen ruhigen Ort für gemeinschaftliche Gebete und religiöse Handlungen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        119.984271,
+                        16.192506
+                  ]
+            },
+            {
+                  "name": "Apostol Santiago Church",
+                  "text": "Diese christliche Pfarrkirche verfügt über ein geräumiges Inneres, das der Verehrung des Apostels Jakobus gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        119.997009,
+                        16.183598
+                  ]
+            },
+            {
+                  "name": "Cayucay Catholic Chapel",
+                  "text": "Diese Kapelle dient dem Küsten-Barangay Cayucay und hält Messen und Sakramente für die lokalen katholischen Gläubigen ab.",
+                  "category": "landmark",
+                  "coords": [
+                        119.976546,
+                        16.189511
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Welcome to Pangapisan arch",
+                  "text": "Az autópályán átívelő dekoratív út menti emlékmű, amely hivatalosan üdvözli az utazókat a Pangapisan barangayban.",
+                  "category": "historical",
+                  "coords": [
+                        119.961776,
+                        16.208236
+                  ]
+            },
+            {
+                  "name": "Welcome to Mona arch",
+                  "text": "Ez a nagy kapuemlékmű megkülönböztető földrajzi jelzőként szolgál a Mona kerületbe érkező autósok számára.",
+                  "category": "historical",
+                  "coords": [
+                        119.971627,
+                        16.195192
+                  ]
+            },
+            {
+                  "name": "Welcome to San Jose arch",
+                  "text": "A főút felett épült íves bejárati emlékmű, amely a San Jose közösség határát és bejáratát jelzi.",
+                  "category": "historical",
+                  "coords": [
+                        119.954268,
+                        16.173568
+                  ]
+            },
+            {
+                  "name": "Welcome to Telbang arch",
+                  "text": "Egy színes beton emlékmű, amelyet a sugárút mentén építettek, hogy melegen fogadja a Telbang területére belépő látogatókat.",
+                  "category": "historical",
+                  "coords": [
+                        120.041277,
+                        16.167375
+                  ]
+            },
+            {
+                  "name": "Welcome to Victoria Arch",
+                  "text": "A határon stratégiailag elhelyezett szerkezeti emlékmű büszkén hirdeti a Victoria körzetébe való megérkezést.",
+                  "category": "historical",
+                  "coords": [
+                        120.065002,
+                        16.167793
+                  ]
+            },
+            {
+                  "name": "Bay Bay Sur Welcome Arch",
+                  "text": "Egy feliratos közösségi emlékmű, amely vizuális küszöbként szolgál a Bay Bay Sur területére utazók számára.",
+                  "category": "historical",
+                  "coords": [
+                        120.078574,
+                        16.152066
+                  ]
+            },
+            {
+                  "name": "Pangascasan Welcome Arch",
+                  "text": "Az utat átívelő masszív beton emlékmű, amely jelzi a vezetőknek, hogy elérték a Pangascasan szektort.",
+                  "category": "historical",
+                  "coords": [
+                        120.086898,
+                        16.128324
+                  ]
+            },
+            {
+                  "name": "Capantolan Welcome Arch",
+                  "text": "Egy jellegzetes fej feletti emlékmű, amely átszeli az utcát, hogy hírül adja a Capantolan területére való átlépést.",
+                  "category": "historical",
+                  "coords": [
+                        120.066513,
+                        16.11561
+                  ]
+            },
+            {
+                  "name": "Cathedral Cave",
+                  "text": "A Hundred Islands lenyűgöző természeti látványossága, amely masszív, egy nagy katedrálisra emlékeztető barlangszerű belsejéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        120.05066,
+                        16.22514
+                  ]
+            },
+            {
+                  "name": "Snorkeling spot",
+                  "text": "Ez a part menti pont a Hundred Islands Nemzeti Parkban élénk víz alatti kilátást kínál a korallzátonyokra és a tengeri élővilágra.",
+                  "category": "landmark",
+                  "coords": [
+                        120.050981,
+                        16.223253
+                  ]
+            },
+            {
+                  "name": "Quezon Zip-line start",
+                  "text": "A Quezon-szigeten található indítóállomás festői, légi utazást kínál a nemzeti park vizei felett.",
+                  "category": "landmark",
+                  "coords": [
+                        120.04897,
+                        16.224963
+                  ]
+            },
+            {
+                  "name": "Hurricane Wheel boat ride",
+                  "text": "A látogatók egy izgalmas vízi utazást élhetnek át a park hullámain áthúzott felfújható keréken.",
+                  "category": "landmark",
+                  "coords": [
+                        120.046428,
+                        16.221921
+                  ]
+            },
+            {
+                  "name": "Hanging bridge",
+                  "text": "Egy függő gyalogos híd, amely természetes sziklaképződményeket köt össze, miközben panorámás kilátást nyújt a környező szigetekre.",
+                  "category": "landmark",
+                  "coords": [
+                        120.046256,
+                        16.223004
+                  ]
+            },
+            {
+                  "name": "Helmet Diving",
+                  "text": "Ez a látványosság víz alatti sisakokkal látja el a látogatókat, hogy sétálhassanak a tengerfenéken, és biztonságosan megfigyelhessék a terület vízi ökoszisztémáját.",
+                  "category": "landmark",
+                  "coords": [
+                        120.048244,
+                        16.221029
+                  ]
+            },
+            {
+                  "name": "Mayors Island",
+                  "text": "A nemzeti park számos szigetének egyike, amelyet sziklás partvonala és őshonos part menti növényzete jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        120.047522,
+                        16.205244
+                  ]
+            },
+            {
+                  "name": "Zipline end",
+                  "text": "A kijelölt leszállási zóna, ahol a látogatók befejezik festői légi utazásukat a sziget part menti vizei felett.",
+                  "category": "landmark",
+                  "coords": [
+                        120.042012,
+                        16.204514
+                  ]
+            },
+            {
+                  "name": "Cave",
+                  "text": "Egy természetes úton kialakult part menti barlang, amely mállott mészkőfalakkal és a tenger által vájt egyedi geológiai képződményekkel rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        120.037974,
+                        16.205577
+                  ]
+            },
+            {
+                  "name": "Governor's Zip-line launch",
+                  "text": "Kiemelkedő indítótoronyként működve ez az építmény a nemzeti park azúrkék öblei fölé repíti az utasokat.",
+                  "category": "landmark",
+                  "coords": [
+                        120.038413,
+                        16.203976
+                  ]
+            },
+            {
+                  "name": "Salt fields",
+                  "text": "Ezek a szabadtéri part menti síkságok hagyományos napenergia-párologtatási technikákat alkalmaznak a só kinyerésére a sekély tengervízből.",
+                  "category": "landmark",
+                  "coords": [
+                        120.008639,
+                        16.172654
+                  ]
+            },
+            {
+                  "name": "The C-Shells Home and Garden",
+                  "text": "Ez a helyi látványosság kreatívan megtervezett tájakat és dekoratív elrendezéseket mutat be a rengeteg part menti tengeri kagyló felhasználásával.",
+                  "category": "landmark",
+                  "coords": [
+                        120.068267,
+                        16.172875
+                  ]
+            },
+            {
+                  "name": "Masamirey Cove Resort",
+                  "text": "A békés partvonal mentén elhelyezkedő üdülőkomplexum árnyékos kabinokat és közvetlen hozzáférést kínál a homokos parthoz.",
+                  "category": "landmark",
+                  "coords": [
+                        120.106429,
+                        16.141608
+                  ]
+            },
+            {
+                  "name": "Masamirey Beach Resort",
+                  "text": "Ez a tengerparti ingatlan pihentető kényelmi szolgáltatásokat kínál a tiszta trópusi vizek és a finom homok hátterével.",
+                  "category": "landmark",
+                  "coords": [
+                        120.10842,
+                        16.142612
+                  ]
+            },
+            {
+                  "name": "Bolo Beach",
+                  "text": "Egy csendes, part menti homoksáv, amely gyengéd hullámzást és festői kilátást kínál a közeli szigetcsoportokra.",
+                  "category": "landmark",
+                  "coords": [
+                        120.047633,
+                        16.178451
+                  ]
+            },
+            {
+                  "name": "Church of the Living God",
+                  "text": "Ez a helyi keresztény gyülekezet egy szerény épületben gyűlik össze, hogy szolgálja a környező szigeti közösségek spirituális igényeit.",
+                  "category": "landmark",
+                  "coords": [
+                        119.957792,
+                        16.215455
+                  ]
+            },
+            {
+                  "name": "Cowboy Christian Church",
+                  "text": "Egy jellegzetes nevű keresztény istentiszteleti központ, amely vidéki, barátságos közösségi légkört teremt a szertartásaiba.",
+                  "category": "landmark",
+                  "coords": [
+                        120.070886,
+                        16.175763
+                  ]
+            },
+            {
+                  "name": "Immaculate Conception Chapel",
+                  "text": "Ez a katolikus kápolna hagyományos oltárral rendelkezik, és békés teret biztosít a mindennapi imákhoz és misékhez a part menti városban.",
+                  "category": "landmark",
+                  "coords": [
+                        119.956701,
+                        16.214339
+                  ]
+            },
+            {
+                  "name": "Mona Chapel",
+                  "text": "Egy kis környékbeli keresztény szentély, amely a helyi lakosok heti istentiszteleti összejöveteleinek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        119.968508,
+                        16.200609
+                  ]
+            },
+            {
+                  "name": "Mona Bible Baptist Church",
+                  "text": "Ez a protestáns egyház a bibliai tanításokra összpontosít, és dedikált gyülekezeti teret biztosít a környező közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        119.962287,
+                        16.20309
+                  ]
+            },
+            {
+                  "name": "Lucap Baptist Church",
+                  "text": "A kikötő közelében található keresztény imaház a lakosokat és az áthaladó látogatókat egyaránt kiszolgálja a nemzeti park közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        119.995139,
+                        16.180386
+                  ]
+            },
+            {
+                  "name": "Barangay Sabangan Chapel",
+                  "text": "A falu spirituális központjaként működő keresztény kápolna rendszeres helyi istentiszteleteknek és közösségi eseményeknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        120.009718,
+                        16.157666
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo",
+                  "text": "Kiemelkedő vallási építmény, amelyet jellegzetes építészeti stílusa és gondozott területe jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        120.008258,
+                        16.16515
+                  ]
+            },
+            {
+                  "name": "Barangay Baley-a-daan Chapel",
+                  "text": "Egy falusi szintű keresztény kápolna, amely csendes helyszínt biztosít a közösségi imádkozáshoz és vallási szertartásokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        119.984271,
+                        16.192506
+                  ]
+            },
+            {
+                  "name": "Apostol Santiago Church",
+                  "text": "Ez a keresztény plébániatemplom tágas belső térrel rendelkezik, amelyet Szent Jakab apostol tiszteletének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        119.997009,
+                        16.183598
+                  ]
+            },
+            {
+                  "name": "Cayucay Catholic Chapel",
+                  "text": "Ez a kápolna a part menti Cayucay barangay lakóit szolgálja, miséket és szentségeket tartva a helyi katolikus híveknek.",
+                  "category": "landmark",
+                  "coords": [
+                        119.976546,
+                        16.189511
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Welcome to Pangapisan arch",
+                  "text": "Un monument rutier decorativ care se întinde deasupra autostrăzii, primind oficial călătorii în barangay-ul Pangapisan.",
+                  "category": "historical",
+                  "coords": [
+                        119.961776,
+                        16.208236
+                  ]
+            },
+            {
+                  "name": "Welcome to Mona arch",
+                  "text": "Acest monument mare sub formă de poartă servește drept marcaj geografic distinct pentru șoferii care sosesc în districtul Mona.",
+                  "category": "historical",
+                  "coords": [
+                        119.971627,
+                        16.195192
+                  ]
+            },
+            {
+                  "name": "Welcome to San Jose arch",
+                  "text": "Un monument de intrare arcuit construit deasupra drumului principal, semnificând granița și intrarea în comunitatea San Jose.",
+                  "category": "historical",
+                  "coords": [
+                        119.954268,
+                        16.173568
+                  ]
+            },
+            {
+                  "name": "Welcome to Telbang arch",
+                  "text": "Un monument colorat din beton construit de-a lungul bulevardului pentru a primi cu căldură vizitatorii care intră în zona Telbang.",
+                  "category": "historical",
+                  "coords": [
+                        120.041277,
+                        16.167375
+                  ]
+            },
+            {
+                  "name": "Welcome to Victoria Arch",
+                  "text": "Poziționat strategic la graniță, acest monument structural anunță cu mândrie sosirea în incinta Victoria.",
+                  "category": "historical",
+                  "coords": [
+                        120.065002,
+                        16.167793
+                  ]
+            },
+            {
+                  "name": "Bay Bay Sur Welcome Arch",
+                  "text": "Un monument comunitar inscripționat care acționează ca un prag vizual pentru cei care călătoresc în zona Bay Bay Sur.",
+                  "category": "historical",
+                  "coords": [
+                        120.078574,
+                        16.152066
+                  ]
+            },
+            {
+                  "name": "Pangascasan Welcome Arch",
+                  "text": "Un monument robust din beton care se întinde de-a lungul rutei, indicând șoferilor că au ajuns în sectorul Pangascasan.",
+                  "category": "historical",
+                  "coords": [
+                        120.086898,
+                        16.128324
+                  ]
+            },
+            {
+                  "name": "Capantolan Welcome Arch",
+                  "text": "Un monument suspendat distinctiv care face legătura peste stradă pentru a vesti trecerea în teritoriul Capantolan.",
+                  "category": "historical",
+                  "coords": [
+                        120.066513,
+                        16.11561
+                  ]
+            },
+            {
+                  "name": "Cathedral Cave",
+                  "text": "O atracție naturală uimitoare în Hundred Islands, cunoscută pentru interiorul său masiv și cavernos, care seamănă cu o catedrală grandioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        120.05066,
+                        16.22514
+                  ]
+            },
+            {
+                  "name": "Snorkeling spot",
+                  "text": "Acest loc de pe coastă din Parcul Național Hundred Islands oferă vederi subacvatice vibrante ale recifelor de corali și faunei marine.",
+                  "category": "landmark",
+                  "coords": [
+                        120.050981,
+                        16.223253
+                  ]
+            },
+            {
+                  "name": "Quezon Zip-line start",
+                  "text": "Servind drept punct de lansare pe Insula Quezon, această atracție oferă o plimbare pitorească la înălțime peste apele parcului național.",
+                  "category": "landmark",
+                  "coords": [
+                        120.04897,
+                        16.224963
+                  ]
+            },
+            {
+                  "name": "Hurricane Wheel boat ride",
+                  "text": "Vizitatorii pot experimenta o plimbare plină de adrenalină pe apă pe o roată gonflabilă trasă peste valurile parcului.",
+                  "category": "landmark",
+                  "coords": [
+                        120.046428,
+                        16.221921
+                  ]
+            },
+            {
+                  "name": "Hanging bridge",
+                  "text": "O pasarelă pietonală suspendată care conectează formațiunile stâncoase naturale, oferind în același timp vederi panoramice ale insulelor din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        120.046256,
+                        16.223004
+                  ]
+            },
+            {
+                  "name": "Helmet Diving",
+                  "text": "Această atracție echipează vizitatorii cu căști subacvatice pentru a merge pe fundul mării și a observa în siguranță ecosistemul acvatic al zonei.",
+                  "category": "landmark",
+                  "coords": [
+                        120.048244,
+                        16.221029
+                  ]
+            },
+            {
+                  "name": "Mayors Island",
+                  "text": "Una dintre numeroasele insule din parcul național, care se distinge prin coasta sa stâncoasă și vegetația de coastă autohtonă.",
+                  "category": "landmark",
+                  "coords": [
+                        120.047522,
+                        16.205244
+                  ]
+            },
+            {
+                  "name": "Zipline end",
+                  "text": "Zona de aterizare desemnată unde vizitatorii își încheie zborul pitoresc la înălțime deasupra apelor de coastă ale insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        120.042012,
+                        16.204514
+                  ]
+            },
+            {
+                  "name": "Cave",
+                  "text": "O cavernă de coastă formată natural, prezentând pereți de calcar erodați și formațiuni geologice unice sculptate de mare.",
+                  "category": "landmark",
+                  "coords": [
+                        120.037974,
+                        16.205577
+                  ]
+            },
+            {
+                  "name": "Governor's Zip-line launch",
+                  "text": "Funcționând ca un turn de lansare proeminent, această structură trimite pasagerii zburând deasupra golfurilor azurii ale parcului național.",
+                  "category": "landmark",
+                  "coords": [
+                        120.038413,
+                        16.203976
+                  ]
+            },
+            {
+                  "name": "Salt fields",
+                  "text": "Aceste câmpuri de coastă în aer liber folosesc tehnici tradiționale de evaporare solară pentru a recolta sarea din apa de mare puțin adâncă.",
+                  "category": "landmark",
+                  "coords": [
+                        120.008639,
+                        16.172654
+                  ]
+            },
+            {
+                  "name": "The C-Shells Home and Garden",
+                  "text": "Această atracție locală prezintă peisaje proiectate creativ și aranjamente decorative care utilizează abundența de scoici de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        120.068267,
+                        16.172875
+                  ]
+            },
+            {
+                  "name": "Masamirey Cove Resort",
+                  "text": "Situat de-a lungul unei zone senine de coastă, acest complex balnear oferă cabane umbrite și acces direct la malul nisipos.",
+                  "category": "landmark",
+                  "coords": [
+                        120.106429,
+                        16.141608
+                  ]
+            },
+            {
+                  "name": "Masamirey Beach Resort",
+                  "text": "Această proprietate de pe plajă oferă facilități de relaxare amplasate pe un fundal cu ape tropicale limpezi și nisip fin.",
+                  "category": "landmark",
+                  "coords": [
+                        120.10842,
+                        16.142612
+                  ]
+            },
+            {
+                  "name": "Bolo Beach",
+                  "text": "O fâșie liniștită de nisip de coastă care oferă o acțiune blândă a valurilor și vederi pitorești la grupurile de insule din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        120.047633,
+                        16.178451
+                  ]
+            },
+            {
+                  "name": "Church of the Living God",
+                  "text": "Această congregație creștină locală se adună într-o clădire modestă pentru a deservi nevoile spirituale ale comunităților insulare din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        119.957792,
+                        16.215455
+                  ]
+            },
+            {
+                  "name": "Cowboy Christian Church",
+                  "text": "Un centru de cult creștin cu un nume distinctiv, care aduce o atmosferă comunitară rurală și primitoare în slujbele sale.",
+                  "category": "landmark",
+                  "coords": [
+                        120.070886,
+                        16.175763
+                  ]
+            },
+            {
+                  "name": "Immaculate Conception Chapel",
+                  "text": "Această capelă catolică prezintă un altar tradițional și oferă un spațiu liniștit pentru rugăciunile și liturghiile zilnice în orașul de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        119.956701,
+                        16.214339
+                  ]
+            },
+            {
+                  "name": "Mona Chapel",
+                  "text": "Un mic sanctuar creștin de cartier, construit pentru a găzdui adunările săptămânale de cult ale locuitorilor din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        119.968508,
+                        16.200609
+                  ]
+            },
+            {
+                  "name": "Mona Bible Baptist Church",
+                  "text": "Această biserică protestantă se concentrează pe învățăturile biblice și oferă un spațiu de congregație dedicat pentru comunitatea din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        119.962287,
+                        16.20309
+                  ]
+            },
+            {
+                  "name": "Lucap Baptist Church",
+                  "text": "Situată în apropierea zonei portuare, această sală de cult creștin deservește atât rezidenții, cât și vizitatorii aflați în trecere lângă parcul național.",
+                  "category": "landmark",
+                  "coords": [
+                        119.995139,
+                        16.180386
+                  ]
+            },
+            {
+                  "name": "Barangay Sabangan Chapel",
+                  "text": "Funcționând ca inima spirituală a satului, această capelă creștină găzduiește slujbe locale regulate și evenimente comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        120.009718,
+                        16.157666
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo",
+                  "text": "O structură religioasă proeminentă, caracterizată prin stilul său arhitectural distinct și terenurile bine întreținute.",
+                  "category": "landmark",
+                  "coords": [
+                        120.008258,
+                        16.16515
+                  ]
+            },
+            {
+                  "name": "Barangay Baley-a-daan Chapel",
+                  "text": "O capelă creștină la nivel de sat, care oferă un loc liniștit pentru rugăciunea comunitară și respectarea tradițiilor religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        119.984271,
+                        16.192506
+                  ]
+            },
+            {
+                  "name": "Apostol Santiago Church",
+                  "text": "Această biserică parohială creștină are un interior spațios dedicat venerării Sfântului Apostol Iacob.",
+                  "category": "landmark",
+                  "coords": [
+                        119.997009,
+                        16.183598
+                  ]
+            },
+            {
+                  "name": "Cayucay Catholic Chapel",
+                  "text": "Deservind barangay-ul de coastă Cayucay, această capelă oficiază liturghii și sacramente pentru credincioșii catolici locali.",
+                  "category": "landmark",
+                  "coords": [
+                        119.976546,
+                        16.189511
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Welcome to Pangapisan arch",
+                  "text": "A decorative roadside monument spanning the highway, officially welcoming travellers into the Pangapisan barangay.",
+                  "category": "historical",
+                  "coords": [
+                        119.961776,
+                        16.208236
+                  ]
+            },
+            {
+                  "name": "Welcome to Mona arch",
+                  "text": "This large gateway monument serves as a distinct geographical marker for motorists arriving in the Mona district.",
+                  "category": "historical",
+                  "coords": [
+                        119.971627,
+                        16.195192
+                  ]
+            },
+            {
+                  "name": "Welcome to San Jose arch",
+                  "text": "An arched entrance monument constructed over the main road, signifying the boundary and entrance to the San Jose community.",
+                  "category": "historical",
+                  "coords": [
+                        119.954268,
+                        16.173568
+                  ]
+            },
+            {
+                  "name": "Welcome to Telbang arch",
+                  "text": "A colorful concrete monument built across the avenue to warmly receive visitors entering the area of Telbang.",
+                  "category": "historical",
+                  "coords": [
+                        120.041277,
+                        16.167375
+                  ]
+            },
+            {
+                  "name": "Welcome to Victoria Arch",
+                  "text": "Positioned strategically at the border, this structural monument proudly announces arrival into the Victoria precinct.",
+                  "category": "historical",
+                  "coords": [
+                        120.065002,
+                        16.167793
+                  ]
+            },
+            {
+                  "name": "Bay Bay Sur Welcome Arch",
+                  "text": "An inscribed community monument acting as a visual threshold for those travelling down into the Bay Bay Sur locale.",
+                  "category": "historical",
+                  "coords": [
+                        120.078574,
+                        16.152066
+                  ]
+            },
+            {
+                  "name": "Pangascasan Welcome Arch",
+                  "text": "A sturdy concrete monument spanning the route, indicating to drivers that they have reached the Pangascasan sector.",
+                  "category": "historical",
+                  "coords": [
+                        120.086898,
+                        16.128324
+                  ]
+            },
+            {
+                  "name": "Capantolan Welcome Arch",
+                  "text": "A distinctive overhead monument bridging the street to herald the transition into the Capantolan territory.",
+                  "category": "historical",
+                  "coords": [
+                        120.066513,
+                        16.11561
+                  ]
+            },
+            {
+                  "name": "Cathedral Cave",
+                  "text": "An awe-inspiring natural attraction in the Hundred Islands, known for its massive, cavernous interior resembling a grand cathedral.",
+                  "category": "landmark",
+                  "coords": [
+                        120.05066,
+                        16.22514
+                  ]
+            },
+            {
+                  "name": "Snorkeling spot",
+                  "text": "This coastal spot in the Hundred Islands National Park offers vibrant underwater views of coral reefs and marine life.",
+                  "category": "landmark",
+                  "coords": [
+                        120.050981,
+                        16.223253
+                  ]
+            },
+            {
+                  "name": "Quezon Zip-line start",
+                  "text": "Serving as the launchpad on Quezon Island, this attraction offers a scenic aerial ride across the national park's waters.",
+                  "category": "landmark",
+                  "coords": [
+                        120.04897,
+                        16.224963
+                  ]
+            },
+            {
+                  "name": "Hurricane Wheel boat ride",
+                  "text": "Visitors can experience an exhilarating water ride on an inflatable wheel pulled across the waves of the park.",
+                  "category": "landmark",
+                  "coords": [
+                        120.046428,
+                        16.221921
+                  ]
+            },
+            {
+                  "name": "Hanging bridge",
+                  "text": "A suspended pedestrian pathway that connects natural rock formations while offering panoramic views of the surrounding islands.",
+                  "category": "landmark",
+                  "coords": [
+                        120.046256,
+                        16.223004
+                  ]
+            },
+            {
+                  "name": "Helmet Diving",
+                  "text": "This attraction equips visitors with underwater helmets to walk on the sea floor and safely observe the area's aquatic ecosystem.",
+                  "category": "landmark",
+                  "coords": [
+                        120.048244,
+                        16.221029
+                  ]
+            },
+            {
+                  "name": "Mayors Island",
+                  "text": "One of the numerous islands in the national park, distinguished by its rocky shoreline and native coastal vegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        120.047522,
+                        16.205244
+                  ]
+            },
+            {
+                  "name": "Zipline end",
+                  "text": "The designated landing zone where visitors complete their scenic aerial flight over the island's coastal waters.",
+                  "category": "landmark",
+                  "coords": [
+                        120.042012,
+                        16.204514
+                  ]
+            },
+            {
+                  "name": "Cave",
+                  "text": "A naturally formed coastal cavern featuring weathered limestone walls and unique geological formations carved by the sea.",
+                  "category": "landmark",
+                  "coords": [
+                        120.037974,
+                        16.205577
+                  ]
+            },
+            {
+                  "name": "Governor's Zip-line launch",
+                  "text": "Operating as a prominent launch tower, this structure sends riders soaring over the azure bays of the national park.",
+                  "category": "landmark",
+                  "coords": [
+                        120.038413,
+                        16.203976
+                  ]
+            },
+            {
+                  "name": "Salt fields",
+                  "text": "These open-air coastal flats use traditional solar evaporation techniques to harvest salt from the shallow sea water.",
+                  "category": "landmark",
+                  "coords": [
+                        120.008639,
+                        16.172654
+                  ]
+            },
+            {
+                  "name": "The C-Shells Home and Garden",
+                  "text": "This local attraction features creatively designed landscapes and decorative arrangements utilizing abundant coastal seashells.",
+                  "category": "landmark",
+                  "coords": [
+                        120.068267,
+                        16.172875
+                  ]
+            },
+            {
+                  "name": "Masamirey Cove Resort",
+                  "text": "Set along a serene stretch of coastline, this resort complex offers shaded cabanas and direct access to the sandy shore.",
+                  "category": "landmark",
+                  "coords": [
+                        120.106429,
+                        16.141608
+                  ]
+            },
+            {
+                  "name": "Masamirey Beach Resort",
+                  "text": "This beachfront property features relaxing amenities nestled against a backdrop of clear tropical waters and fine sand.",
+                  "category": "landmark",
+                  "coords": [
+                        120.10842,
+                        16.142612
+                  ]
+            },
+            {
+                  "name": "Bolo Beach",
+                  "text": "A quiet strip of coastal sand offering gentle wave action and scenic views of the nearby island clusters.",
+                  "category": "landmark",
+                  "coords": [
+                        120.047633,
+                        16.178451
+                  ]
+            },
+            {
+                  "name": "Church of the Living God",
+                  "text": "This local Christian congregation gathers in a modest building to serve the spiritual needs of the surrounding island communities.",
+                  "category": "landmark",
+                  "coords": [
+                        119.957792,
+                        16.215455
+                  ]
+            },
+            {
+                  "name": "Cowboy Christian Church",
+                  "text": "A distinctively named Christian worship center that brings a rural, welcoming community atmosphere to its services.",
+                  "category": "landmark",
+                  "coords": [
+                        120.070886,
+                        16.175763
+                  ]
+            },
+            {
+                  "name": "Immaculate Conception Chapel",
+                  "text": "This Catholic chapel features a traditional altar and provides a peaceful space for daily prayers and mass in the coastal town.",
+                  "category": "landmark",
+                  "coords": [
+                        119.956701,
+                        16.214339
+                  ]
+            },
+            {
+                  "name": "Mona Chapel",
+                  "text": "A small neighborhood Christian sanctuary built to accommodate the weekly worship gatherings of local residents.",
+                  "category": "landmark",
+                  "coords": [
+                        119.968508,
+                        16.200609
+                  ]
+            },
+            {
+                  "name": "Mona Bible Baptist Church",
+                  "text": "This Protestant church focuses on scriptural teachings and provides a dedicated congregational space for the surrounding community.",
+                  "category": "landmark",
+                  "coords": [
+                        119.962287,
+                        16.20309
+                  ]
+            },
+            {
+                  "name": "Lucap Baptist Church",
+                  "text": "Situated near the port area, this Christian worship hall serves both residents and passing visitors near the national park.",
+                  "category": "landmark",
+                  "coords": [
+                        119.995139,
+                        16.180386
+                  ]
+            },
+            {
+                  "name": "Barangay Sabangan Chapel",
+                  "text": "Operating as the spiritual heart of the village, this Christian chapel hosts regular local services and community events.",
+                  "category": "landmark",
+                  "coords": [
+                        120.009718,
+                        16.157666
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo",
+                  "text": "A prominent religious structure characterized by its distinct architectural style and well-maintained grounds.",
+                  "category": "landmark",
+                  "coords": [
+                        120.008258,
+                        16.16515
+                  ]
+            },
+            {
+                  "name": "Barangay Baley-a-daan Chapel",
+                  "text": "A village-level Christian chapel providing a quiet venue for community prayer and religious observances.",
+                  "category": "landmark",
+                  "coords": [
+                        119.984271,
+                        16.192506
+                  ]
+            },
+            {
+                  "name": "Apostol Santiago Church",
+                  "text": "This Christian parish church features a spacious interior dedicated to the veneration of St. James the Apostle.",
+                  "category": "landmark",
+                  "coords": [
+                        119.997009,
+                        16.183598
+                  ]
+            },
+            {
+                  "name": "Cayucay Catholic Chapel",
+                  "text": "Serving the coastal barangay of Cayucay, this chapel holds mass and sacraments for the local Catholic faithful.",
+                  "category": "landmark",
+                  "coords": [
+                        119.976546,
+                        16.189511
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "PH-PAN",
     coords: [120.038, 16.195],
@@ -540,7 +5562,772 @@ image: "/poi-images/ph-hundred-islands-national-park-nature-v2.webp",
     
   },
   {
-    id: "ph-apo-island-nature-v2",
+    id: "ph-apo-island-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Beach Cafe & Dream Diving Resort",
+                  "text": "Dieses Strandresort bietet direkten Zugang zum Meer und spezielle Einrichtungen für Tauchbegeisterte, die die Region Apo Island besuchen.",
+                  "category": "recreational",
+                  "coords": [
+                        123.213098,
+                        9.122278
+                  ]
+            },
+            {
+                  "name": "Thalatta dive",
+                  "text": "Eine beliebte Attraktion für Sporttaucher, die geführte Unterwasserausflüge in die lebhaften Meeresschutzgebiete rund um die Insel Apo anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        123.217015,
+                        9.117082
+                  ]
+            },
+            {
+                  "name": "Truno beach",
+                  "text": "Dieses Strandresort liegt in der Küstenregion in der Nähe der Insel Apo und bietet entspannende Strandunterkünfte für Urlauber am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        123.229363,
+                        9.139688
+                  ]
+            },
+            {
+                  "name": "Apo Vista Beach Park",
+                  "text": "Dieses Badeort verfügt über einen Strandpark mit Panoramablick über das Wasser auf die Insel Apo.",
+                  "category": "recreational",
+                  "coords": [
+                        123.217526,
+                        9.131094
+                  ]
+            },
+            {
+                  "name": "Sea Dreams Resort",
+                  "text": "Eingebettet an die tropische Küste bietet dieses Strandresort einen ruhigen Zufluchtsort am Meer für Reisende in der Region von Apo Island.",
+                  "category": "recreational",
+                  "coords": [
+                        123.24866,
+                        9.169057
+                  ]
+            },
+            {
+                  "name": "Apo Island Lighthouse",
+                  "text": "Dieser historische Leuchtturm thront auf dem erhöhten Gelände der Insel und führt den Seeverkehr sicher durch die umliegenden korallenreichen Gewässer.",
+                  "category": "landmark",
+                  "coords": [
+                        123.270506,
+                        9.082739
+                  ]
+            },
+            {
+                  "name": "View over Apo",
+                  "text": "Dieser erhöhte Aussichtspunkt bietet weite, panormamische Ausblicke auf die raue Küstenlinie der Insel Apo und das lebhafte Meeresschutzgebiet.",
+                  "category": "natural",
+                  "coords": [
+                        123.270031,
+                        9.078843
+                  ]
+            },
+            {
+                  "name": "Kan-Uran View Deck",
+                  "text": "Eine spezielle Aussichtsplattform an der Küste, die spektakuläre, unversperrte Sichtachsen auf die tropische Meereslandschaft und das Meeresschutzgebiet von Apo Island bietet.",
+                  "category": "natural",
+                  "coords": [
+                        123.272304,
+                        9.076114
+                  ]
+            },
+            {
+                  "name": "Rock West Beach",
+                  "text": "Geprägt durch ihre rauen Felsformationen bietet dieser Strand in der Nähe von Apo Island einen abgeschiedenen Uferabschnitt mit natürlichen Felsvorsprüngen.",
+                  "category": "recreational",
+                  "coords": [
+                        123.268554,
+                        9.073418
+                  ]
+            },
+            {
+                  "name": "view point desk",
+                  "text": "Dieser strategisch platzierte Aussichtspunkt bietet Besuchern einen weiten Blick über das glitzernde Küstengewässer und die tropische Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        123.268145,
+                        9.071109
+                  ]
+            },
+            {
+                  "name": "Coconut Point Dive",
+                  "text": "Dieser weltklasse Tauchplatz in der Nähe der Insel Apo ist für seine starken Strömungen bekannt und ermöglicht es Tauchern, an einem abfallenden Korallenriff entlang zu treiben.",
+                  "category": "landmark",
+                  "coords": [
+                        123.280772,
+                        9.061651
+                  ]
+            },
+            {
+                  "name": "Thalatta Dive Resort",
+                  "text": "Ein direkt am Strand gelegenes Tropenresort in der Region von Apo Island, das Sporttauchern einen einfachen Zugang zu den lebhaften lokalen Meeresschutzgebieten bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        123.216183,
+                        9.124386
+                  ]
+            },
+            {
+                  "name": "Atmosphere Resort",
+                  "text": "Dieses gehobene Küstenhotel in der Nähe von Apo Island verfügt über luxuriöse Annehmlichkeiten inmitten üppiger tropischer Gärten und Ausblicke auf den Strand.",
+                  "category": "landmark",
+                  "coords": [
+                        123.243336,
+                        9.160377
+                  ]
+            },
+            {
+                  "name": "Latter-Day Saints Church",
+                  "text": "Dieses christliche Gemeindehaus dient der lokalen Gemeinschaft nahe der Küste von Apo Island und bietet einen dedizierten Raum für Gottesdienste der Heiligen der Letzten Tage.",
+                  "category": "landmark",
+                  "coords": [
+                        123.198016,
+                        9.101842
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo",
+                  "text": "Erkennbar an ihren markanten schmalen Türmen, dient diese christliche Kultstätte den Anhängern der Iglesia ni Cristo in der Küstenregion von Apo Island.",
+                  "category": "landmark",
+                  "coords": [
+                        123.194009,
+                        9.099025
+                  ]
+            },
+            {
+                  "name": "chapel",
+                  "text": "Eine kleine, bescheidene christliche Kapelle, die den Bewohnern in der Nähe der Region Apo Island ein ruhiges Heiligtum für Gebet und Besinnung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        123.235702,
+                        9.152343
+                  ]
+            },
+            {
+                  "name": "Saint Isidore Parish Church",
+                  "text": "Diese dem Heiligen Isidor dem Arbeiter geweihte christliche Pfarrkirche ist ein spiritueller Grundstein für die ländliche Küstengemeinde nahe Apo Island.",
+                  "category": "landmark",
+                  "coords": [
+                        123.198849,
+                        9.099852
+                  ]
+            },
+            {
+                  "name": "Chaplaincy of Saint Vincent Ferrer",
+                  "text": "Diese lokale christliche Kaplanei ist dem Heiligen Vinzenz Ferrer gewidmet und bietet der Küstengemeinde regelmäßige Messen und spirituelle Führung an.",
+                  "category": "landmark",
+                  "coords": [
+                        123.268482,
+                        9.077906
+                  ]
+            },
+            {
+                  "name": "St. Vincent Ferrer Parish",
+                  "text": "Diese dem Heiligen Vinzenz Ferrer gewidmete Pfarrkirche dient als wichtigstes spirituelles Zentrum für die lokalen katholischen Gläubigen.",
+                  "category": "landmark",
+                  "coords": [
+                        123.269336,
+                        9.076916
+                  ]
+            },
+            {
+                  "name": "Tabo-an sa Malatapay",
+                  "text": "Ein geschäftiger Küstenmarkt nahe dem Abfahrtsort nach Apo Island, der für seinen lebhaften wöchentlichen Handel mit frischen Meeresfrüchten und lokalem Obst bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        123.21233,
+                        9.12385
+                  ]
+            },
+            {
+                  "name": "Zamboanguita Public Market",
+                  "text": "Dieser pulsierende öffentliche Marktplatz dient den Einheimischen als zentraler Knotenpunkt für den Handel mit frischem Küstenfisch, tropischen Früchten und dem täglichen Bedarf.",
+                  "category": "cultural",
+                  "coords": [
+                        123.199123,
+                        9.102705
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Beach Cafe & Dream Diving Resort",
+                  "text": "Ez a tengerparti üdülőhely közvetlen hozzáférést biztosít a tengerhez, és dedikált létesítményeket kínál az Apo-sziget régiójába látogató búvárkodás szerelmeseinek.",
+                  "category": "recreational",
+                  "coords": [
+                        123.213098,
+                        9.122278
+                  ]
+            },
+            {
+                  "name": "Thalatta dive",
+                  "text": "A búvárok körében népszerű látványosság, amely vezetett víz alatti kirándulásokat kínál az Apo-sziget körüli nyüzsgő tengeri rezervátumokban.",
+                  "category": "landmark",
+                  "coords": [
+                        123.217015,
+                        9.117082
+                  ]
+            },
+            {
+                  "name": "Truno beach",
+                  "text": "Az Apo-sziget közelében lévő part menti területen található tengerparti üdülőhely pihentető tengerparti szállást kínál a tengerparti nyaralóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        123.229363,
+                        9.139688
+                  ]
+            },
+            {
+                  "name": "Apo Vista Beach Park",
+                  "text": "Ez a tengerparti üdülőhely egy strandparkkal rendelkezik, amely panorámás kilátást nyújt a vízen keresztül az Apo-szigetre.",
+                  "category": "recreational",
+                  "coords": [
+                        123.217526,
+                        9.131094
+                  ]
+            },
+            {
+                  "name": "Sea Dreams Resort",
+                  "text": "A trópusi tengerpart mentén fekvő tengerparti üdülőhely csendes tengerparti menedéket nyújt az Apo-sziget térségét felfedező utazók számára.",
+                  "category": "recreational",
+                  "coords": [
+                        123.24866,
+                        9.169057
+                  ]
+            },
+            {
+                  "name": "Apo Island Lighthouse",
+                  "text": "A sziget magaslatán álló történelmi világítótorony biztonságosan irányítja a tengeri forgalmat a környező korallokban gazdag vizeken keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        123.270506,
+                        9.082739
+                  ]
+            },
+            {
+                  "name": "View over Apo",
+                  "text": "Ez a megemelt kilátópont széles, panorámás kilátást nyújt az Apo-sziget zord partvonalára és az élénk környező tengeri rezervátumra.",
+                  "category": "natural",
+                  "coords": [
+                        123.270031,
+                        9.078843
+                  ]
+            },
+            {
+                  "name": "Kan-Uran View Deck",
+                  "text": "Kijelölt tengerparti kilátó, amely látványos, akadálytalan kilátást nyújt a trópusi tengeri tájra és az Apo-szigeti tengeri rezervátumra.",
+                  "category": "natural",
+                  "coords": [
+                        123.272304,
+                        9.076114
+                  ]
+            },
+            {
+                  "name": "Rock West Beach",
+                  "text": "A zord part menti képződményeiről ismert tengerpart az Apo-sziget közelében egy félreeső, természetes sziklakibúvásokkal tarkított partszakaszt kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        123.268554,
+                        9.073418
+                  ]
+            },
+            {
+                  "name": "view point desk",
+                  "text": "Ez a stratégiailag elhelyezett kilátópont tágas rálátást biztosít a látogatóknak a csillogó part menti vizekre és a trópusi tájra.",
+                  "category": "natural",
+                  "coords": [
+                        123.268145,
+                        9.071109
+                  ]
+            },
+            {
+                  "name": "Coconut Point Dive",
+                  "text": "Az Apo-sziget közelében található, erős áramlatairól híres, világszínvonalú merülőhely lehetővé teszi a búvárok számára, hogy a tengeri élettől nyüzsgő, lejtős korallzátony mentén sodródjanak.",
+                  "category": "landmark",
+                  "coords": [
+                        123.280772,
+                        9.061651
+                  ]
+            },
+            {
+                  "name": "Thalatta Dive Resort",
+                  "text": "Egy tengerparti trópusi üdülőhely az Apo-sziget régióban, amely a könnyűbúvárok számára könnyű hozzáférést biztosít az élénk helyi tengeri rezervátumokhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        123.216183,
+                        9.124386
+                  ]
+            },
+            {
+                  "name": "Atmosphere Resort",
+                  "text": "Ez a felsőkategóriás tengerparti szálloda az Apo-sziget közelében luxus kényelmi szolgáltatásokat kínál a buja trópusi kertek és a tengerparti kilátás közepette.",
+                  "category": "landmark",
+                  "coords": [
+                        123.243336,
+                        9.160377
+                  ]
+            },
+            {
+                  "name": "Latter-Day Saints Church",
+                  "text": "Ez a keresztény gyülekezeti ház az Apo-sziget partja közelében lévő helyi közösséget szolgálja, dedikált teret biztosítva az Utolsó Napi Szentek istentiszteletéhez.",
+                  "category": "landmark",
+                  "coords": [
+                        123.198016,
+                        9.101842
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo",
+                  "text": "A jellegzetes, keskeny tornyairól felismerhető keresztény imahely az Iglesia ni Cristo követőit szolgálja az Apo-sziget part menti régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        123.194009,
+                        9.099025
+                  ]
+            },
+            {
+                  "name": "chapel",
+                  "text": "Egy kis, szerény keresztény kápolna, amely csendes szentélyt kínál az imádsághoz és a reflexióhoz az Apo-sziget környékén élők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        123.235702,
+                        9.152343
+                  ]
+            },
+            {
+                  "name": "Saint Isidore Parish Church",
+                  "text": "A Munkás Szent Izidornak szentelt keresztény plébániatemplom spirituális sarokköve az Apo-sziget közelében lévő part menti mezőgazdasági és halászközösségnek.",
+                  "category": "landmark",
+                  "coords": [
+                        123.198849,
+                        9.099852
+                  ]
+            },
+            {
+                  "name": "Chaplaincy of Saint Vincent Ferrer",
+                  "text": "Ezt a helyi keresztény lelkészséget Ferrer Szent Vincének szentelték, rendszeres misét és spirituális iránymutatást kínálva a part menti közösségnek.",
+                  "category": "landmark",
+                  "coords": [
+                        123.268482,
+                        9.077906
+                  ]
+            },
+            {
+                  "name": "St. Vincent Ferrer Parish",
+                  "text": "Ez a Ferrer Szent Vincének szentelt plébániatemplom a helyi katolikus hívek fő spirituális központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        123.269336,
+                        9.076916
+                  ]
+            },
+            {
+                  "name": "Tabo-an sa Malatapay",
+                  "text": "Forgalmas tengerparti piac az Apo-szigetre induló pont közelében, amely a friss tenger gyümölcseivel és helyi termékekkel folytatott nyüzsgő heti kereskedelméről híres.",
+                  "category": "cultural",
+                  "coords": [
+                        123.21233,
+                        9.12385
+                  ]
+            },
+            {
+                  "name": "Zamboanguita Public Market",
+                  "text": "Ez a nyüzsgő nyilvános piac központi csomópontként szolgál a helyiek számára, ahol friss part menti halakkal, trópusi gyümölcsökkel és napi szükségleti cikkekkel kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        123.199123,
+                        9.102705
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Beach Cafe & Dream Diving Resort",
+                  "text": "Această stațiune de coastă oferă acces direct la mare și facilități dedicate pasionaților de scufundări care vizitează regiunea Insulei Apo.",
+                  "category": "recreational",
+                  "coords": [
+                        123.213098,
+                        9.122278
+                  ]
+            },
+            {
+                  "name": "Thalatta dive",
+                  "text": "O atracție populară pentru scafandri, oferind excursii subacvatice ghidate în sanctuarele marine vibrante din jurul regiunii Insulei Apo.",
+                  "category": "landmark",
+                  "coords": [
+                        123.217015,
+                        9.117082
+                  ]
+            },
+            {
+                  "name": "Truno beach",
+                  "text": "Situată de-a lungul zonei de coastă din apropierea Insulei Apo, această stațiune pe plajă oferă cazare relaxantă pe malul mării pentru turiști.",
+                  "category": "recreational",
+                  "coords": [
+                        123.229363,
+                        9.139688
+                  ]
+            },
+            {
+                  "name": "Apo Vista Beach Park",
+                  "text": "Această stațiune pe litoral are un parc pe plajă, care oferă vederi panoramice de coastă peste apă către Insula Apo.",
+                  "category": "recreational",
+                  "coords": [
+                        123.217526,
+                        9.131094
+                  ]
+            },
+            {
+                  "name": "Sea Dreams Resort",
+                  "text": "Amplasată de-a lungul coastei tropicale, această stațiune pe plajă oferă o evadare liniștită pe litoral pentru călătorii care explorează zona Insulei Apo.",
+                  "category": "recreational",
+                  "coords": [
+                        123.24866,
+                        9.169057
+                  ]
+            },
+            {
+                  "name": "Apo Island Lighthouse",
+                  "text": "Cocoțat pe terenul înalt al insulei, acest far istoric ghidează traficul maritim în siguranță prin apele înconjurătoare bogate în corali.",
+                  "category": "landmark",
+                  "coords": [
+                        123.270506,
+                        9.082739
+                  ]
+            },
+            {
+                  "name": "View over Apo",
+                  "text": "Acest punct de observație ridicat oferă vederi panoramice ample asupra coastei accidentate a Insulei Apo și a sanctuarului marin înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        123.270031,
+                        9.078843
+                  ]
+            },
+            {
+                  "name": "Kan-Uran View Deck",
+                  "text": "O platformă de vizionare de coastă dedicată, care oferă linii vizuale spectaculoase și neobstrucționate ale peisajului marin tropical și ale rezervației marine din Insula Apo.",
+                  "category": "natural",
+                  "coords": [
+                        123.272304,
+                        9.076114
+                  ]
+            },
+            {
+                  "name": "Rock West Beach",
+                  "text": "Caracterizată prin formațiunile sale accidentate de coastă, această plajă din apropierea Insulei Apo oferă o porțiune izolată de țărm presărată cu aflorimente stâncoase naturale.",
+                  "category": "recreational",
+                  "coords": [
+                        123.268554,
+                        9.073418
+                  ]
+            },
+            {
+                  "name": "view point desk",
+                  "text": "Acest punct de vedere plasat strategic oferă vizitatorilor o privire amplă asupra apelor de coastă strălucitoare și a peisajului tropical.",
+                  "category": "natural",
+                  "coords": [
+                        123.268145,
+                        9.071109
+                  ]
+            },
+            {
+                  "name": "Coconut Point Dive",
+                  "text": "Renumit pentru curenții săi puternici, acest loc de scufundări de talie mondială de lângă Insula Apo permite scafandrilor să plutească de-a lungul unui recif de corali înclinat, plin de viață marină.",
+                  "category": "landmark",
+                  "coords": [
+                        123.280772,
+                        9.061651
+                  ]
+            },
+            {
+                  "name": "Thalatta Dive Resort",
+                  "text": "O stațiune tropicală pe malul mării din regiunea Insulei Apo, dedicată scafandrilor, cu acces ușor la sanctuarele marine locale vibrante.",
+                  "category": "recreational",
+                  "coords": [
+                        123.216183,
+                        9.124386
+                  ]
+            },
+            {
+                  "name": "Atmosphere Resort",
+                  "text": "Acest hotel de lux de coastă, situat în apropierea Insulei Apo, oferă facilități extravagante în mijlocul grădinilor tropicale luxuriante și vedere la malul mării.",
+                  "category": "landmark",
+                  "coords": [
+                        123.243336,
+                        9.160377
+                  ]
+            },
+            {
+                  "name": "Latter-Day Saints Church",
+                  "text": "Deservind comunitatea locală de lângă coasta Insulei Apo, această casă de întruniri creștină oferă un spațiu dedicat pentru închinarea Sfinților din Zilele din Urmă.",
+                  "category": "landmark",
+                  "coords": [
+                        123.198016,
+                        9.101842
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo",
+                  "text": "Recunoscut prin turlele sale înguste distincte, acest lăcaș de cult creștin îi deservește pe adepții Iglesia ni Cristo din regiunea de coastă a Insulei Apo.",
+                  "category": "landmark",
+                  "coords": [
+                        123.194009,
+                        9.099025
+                  ]
+            },
+            {
+                  "name": "chapel",
+                  "text": "O capelă creștină mică și modestă, care oferă un sanctuar liniștit pentru rugăciune și reflecție pentru locuitorii din apropierea regiunii Insulei Apo.",
+                  "category": "landmark",
+                  "coords": [
+                        123.235702,
+                        9.152343
+                  ]
+            },
+            {
+                  "name": "Saint Isidore Parish Church",
+                  "text": "Dedicată Sfântului Isidor Muncitorul, această biserică parohială creștină este o piatră de temelie spirituală pentru comunitatea agricolă și pescărească de coastă din apropierea Insulei Apo.",
+                  "category": "landmark",
+                  "coords": [
+                        123.198849,
+                        9.099852
+                  ]
+            },
+            {
+                  "name": "Chaplaincy of Saint Vincent Ferrer",
+                  "text": "Această capelanie creștină locală este dedicată Sfântului Vicențiu Ferrer, oferind slujbe regulate și îndrumare spirituală comunității de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        123.268482,
+                        9.077906
+                  ]
+            },
+            {
+                  "name": "St. Vincent Ferrer Parish",
+                  "text": "Slujind ca centru spiritual principal pentru credincioșii catolici locali, această biserică parohială este dedicată Sfântului Vicențiu Ferrer.",
+                  "category": "landmark",
+                  "coords": [
+                        123.269336,
+                        9.076916
+                  ]
+            },
+            {
+                  "name": "Tabo-an sa Malatapay",
+                  "text": "O piață de coastă plină de viață, renumită pentru comerțul său săptămânal vibrant cu fructe de mare proaspete și produse locale în apropierea punctului de plecare spre Insula Apo.",
+                  "category": "cultural",
+                  "coords": [
+                        123.21233,
+                        9.12385
+                  ]
+            },
+            {
+                  "name": "Zamboanguita Public Market",
+                  "text": "Această piață publică vibrantă servește ca un centru esențial pentru localnici pentru comerțul de pește proaspăt de coastă, fructe tropicale și necesități zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        123.199123,
+                        9.102705
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Beach Cafe & Dream Diving Resort",
+                  "text": "This coastal beach resort offers direct access to the sea and dedicated facilities for diving enthusiasts visiting the Apo Island region.",
+                  "category": "recreational",
+                  "coords": [
+                        123.213098,
+                        9.122278
+                  ]
+            },
+            {
+                  "name": "Thalatta dive",
+                  "text": "A popular attraction for scuba divers, offering guided underwater excursions in the vibrant marine sanctuaries around the Apo Island region.",
+                  "category": "landmark",
+                  "coords": [
+                        123.217015,
+                        9.117082
+                  ]
+            },
+            {
+                  "name": "Truno beach",
+                  "text": "Situated along the coastal area near Apo Island, this beach resort provides relaxing beachfront accommodations for seaside vacationers.",
+                  "category": "recreational",
+                  "coords": [
+                        123.229363,
+                        9.139688
+                  ]
+            },
+            {
+                  "name": "Apo Vista Beach Park",
+                  "text": "This seaside resort features a beach park offering panoramic coastal views across the water toward Apo Island.",
+                  "category": "recreational",
+                  "coords": [
+                        123.217526,
+                        9.131094
+                  ]
+            },
+            {
+                  "name": "Sea Dreams Resort",
+                  "text": "Nestled along the tropical coastline, this beach resort provides a tranquil seaside getaway for travelers exploring the Apo Island area.",
+                  "category": "recreational",
+                  "coords": [
+                        123.24866,
+                        9.169057
+                  ]
+            },
+            {
+                  "name": "Apo Island Lighthouse",
+                  "text": "Perched atop the island's elevated terrain, this historic lighthouse guides maritime traffic safely through the surrounding coral-rich waters.",
+                  "category": "landmark",
+                  "coords": [
+                        123.270506,
+                        9.082739
+                  ]
+            },
+            {
+                  "name": "View over Apo",
+                  "text": "This elevated observation point offers sweeping, panoramic vistas of Apo Island's rugged coastline and vibrant surrounding marine sanctuary.",
+                  "category": "natural",
+                  "coords": [
+                        123.270031,
+                        9.078843
+                  ]
+            },
+            {
+                  "name": "Kan-Uran View Deck",
+                  "text": "A dedicated coastal view deck that provides spectacular, unobstructed sightlines of the tropical seascape and the Apo Island marine reserve.",
+                  "category": "natural",
+                  "coords": [
+                        123.272304,
+                        9.076114
+                  ]
+            },
+            {
+                  "name": "Rock West Beach",
+                  "text": "Characterized by its rugged coastal formations, this beach near Apo Island offers a secluded stretch of shore dotted with natural rock outcroppings.",
+                  "category": "recreational",
+                  "coords": [
+                        123.268554,
+                        9.073418
+                  ]
+            },
+            {
+                  "name": "view point desk",
+                  "text": "This strategically placed viewpoint provides visitors with an expansive lookout over the sparkling coastal waters and tropical scenery.",
+                  "category": "natural",
+                  "coords": [
+                        123.268145,
+                        9.071109
+                  ]
+            },
+            {
+                  "name": "Coconut Point Dive",
+                  "text": "Renowned for its strong currents, this world-class dive site near Apo Island allows divers to drift along a sloping coral reef teeming with marine life.",
+                  "category": "landmark",
+                  "coords": [
+                        123.280772,
+                        9.061651
+                  ]
+            },
+            {
+                  "name": "Thalatta Dive Resort",
+                  "text": "A beachfront tropical resort in the Apo Island region catering to scuba divers with easy access to the vibrant local marine sanctuaries.",
+                  "category": "recreational",
+                  "coords": [
+                        123.216183,
+                        9.124386
+                  ]
+            },
+            {
+                  "name": "Atmosphere Resort",
+                  "text": "This upscale coastal hotel near Apo Island features luxurious amenities set amid lush tropical gardens and beachfront views.",
+                  "category": "landmark",
+                  "coords": [
+                        123.243336,
+                        9.160377
+                  ]
+            },
+            {
+                  "name": "Latter-Day Saints Church",
+                  "text": "Serving the local community near the Apo Island coast, this Christian meetinghouse provides a dedicated space for Latter-Day Saints worship.",
+                  "category": "landmark",
+                  "coords": [
+                        123.198016,
+                        9.101842
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo",
+                  "text": "Recognizable by its distinctive narrow spires, this Christian place of worship serves the Iglesia ni Cristo followers in the Apo Island coastal region.",
+                  "category": "landmark",
+                  "coords": [
+                        123.194009,
+                        9.099025
+                  ]
+            },
+            {
+                  "name": "chapel",
+                  "text": "A small, modest Christian chapel offering a quiet sanctuary for prayer and reflection for residents near the Apo Island area.",
+                  "category": "landmark",
+                  "coords": [
+                        123.235702,
+                        9.152343
+                  ]
+            },
+            {
+                  "name": "Saint Isidore Parish Church",
+                  "text": "Dedicated to Saint Isidore the Laborer, this Christian parish church is a spiritual cornerstone for the coastal agricultural and fishing community near Apo Island.",
+                  "category": "landmark",
+                  "coords": [
+                        123.198849,
+                        9.099852
+                  ]
+            },
+            {
+                  "name": "Chaplaincy of Saint Vincent Ferrer",
+                  "text": "This local Christian chaplaincy is dedicated to Saint Vincent Ferrer, offering regular mass and spiritual guidance to the coastal community.",
+                  "category": "landmark",
+                  "coords": [
+                        123.268482,
+                        9.077906
+                  ]
+            },
+            {
+                  "name": "St. Vincent Ferrer Parish",
+                  "text": "Serving as the main spiritual center for the local Catholic faithful, this parish church is dedicated to St. Vincent Ferrer.",
+                  "category": "landmark",
+                  "coords": [
+                        123.269336,
+                        9.076916
+                  ]
+            },
+            {
+                  "name": "Malatapay Market",
+                  "text": "A bustling coastal marketplace famous for its lively weekly trading of fresh seafood, local produce, and livestock near the departure point for Apo Island.",
+                  "category": "cultural",
+                  "coords": [
+                        123.21233,
+                        9.12385
+                  ]
+            },
+            {
+                  "name": "Zamboanguita Public Market",
+                  "text": "This vibrant public marketplace serves as a central hub for locals to trade fresh coastal fish, tropical fruits, and daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        123.199123,
+                        9.102705
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "PH-NER",
     coords: [123.2667, 9.0833],
@@ -594,7 +6381,52 @@ image: "/poi-images/ph-apo-island-nature-v2.webp",
     
   },
   {
-    id: "ph-agusan-marsh-wildlife-sanctuary-nature-v2",
+    id: "ph-agusan-marsh-wildlife-sanctuary-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Agusan Marsh Wildlife Sanctuary",
+                  "text": "Das Agusan Marsh Wildlife Sanctuary ist ein riesiges Feuchtgebietsökosystem, das aus miteinander verbundenen Torfsümpfen und Süßwasserseen besteht.",
+                  "category": "natural",
+                  "coords": [
+                        125.884575,
+                        8.328852
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Agusan Marsh Wildlife Sanctuary",
+                  "text": "Az Agusan Marsh Vadvédelmi Terület egy hatalmas vizes élőhely-ökoszisztéma, amely összefüggő tőzegmocsarakból és édesvízi tavakból áll.",
+                  "category": "natural",
+                  "coords": [
+                        125.884575,
+                        8.328852
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Agusan Marsh Wildlife Sanctuary",
+                  "text": "Sanctuarul Faunei Sălbatice Agusan Marsh este un vast ecosistem de zone umede, care cuprinde mlaștini de turbă și lacuri cu apă dulce interconectate.",
+                  "category": "natural",
+                  "coords": [
+                        125.884575,
+                        8.328852
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Agusan Marsh Wildlife Sanctuary",
+                  "text": "The Agusan Marsh Wildlife Sanctuary is a vast wetland ecosystem comprising interconnected peat swamps and freshwater lakes.",
+                  "category": "natural",
+                  "coords": [
+                        125.884575,
+                        8.328852
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "PH-AGS",
     coords: [125.85, 8.2833],
@@ -648,7 +6480,268 @@ image: "/poi-images/ph-agusan-marsh-wildlife-sanctuary-nature-v2.webp",
     
   },
   {
-    id: "ph-mount-hamiguitan-range-wildlife-sanctuary-nature-v2",
+    id: "ph-mount-hamiguitan-range-wildlife-sanctuary-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sakura Beach Resort",
+                  "text": "Dieser Rückzugsort an der Küste bietet entspannende Strandunterkünfte in der Nähe der Ausläufer des Mount Hamiguitan Schutzgebiets.",
+                  "category": "recreational",
+                  "coords": [
+                        126.244658,
+                        6.773603
+                  ]
+            },
+            {
+                  "name": "Hidden Garden",
+                  "text": "Versteckt im üppigen tropischen Laub des Schutzgebietes bietet dieser abgelegene Aussichtspunkt ruhige Panoramablicke in die Natur.",
+                  "category": "natural",
+                  "coords": [
+                        126.19993,
+                        6.70439
+                  ]
+            },
+            {
+                  "name": "Lantawan Tres",
+                  "text": "Dieser erhöhte Beobachtungspunkt bietet weite Ausblicke über die vielfältigen, bewaldeten Ökosysteme der Bergkette.",
+                  "category": "natural",
+                  "coords": [
+                        126.187178,
+                        6.712814
+                  ]
+            },
+            {
+                  "name": "Lantawan Dos",
+                  "text": "Als wichtiger Aussichtspunkt entlang der Naturpfade bietet er einen hohen Aussichtspunkt über das dichte, grüne Blätterdach des Schutzgebiets.",
+                  "category": "natural",
+                  "coords": [
+                        126.17829,
+                        6.731484
+                  ]
+            },
+            {
+                  "name": "Black Mountain",
+                  "text": "Dieser raue Aussichtspunkt zeichnet sich durch sein dunkles Gelände aus und bietet dramatische Ausblicke auf die unberührte Wildnis.",
+                  "category": "natural",
+                  "coords": [
+                        126.180505,
+                        6.72659
+                  ]
+            },
+            {
+                  "name": "Pygmy Forest",
+                  "text": "Dieser Aussichtspunkt überblickt ein einzigartiges Ökosystem aus jahrhundertalten, verkrüppelten bonsai-ähnlichen Bäumen, die in ultramafischem Boden wachsen.",
+                  "category": "natural",
+                  "coords": [
+                        126.183461,
+                        6.720139
+                  ]
+            },
+            {
+                  "name": "Mount Hamiguitan",
+                  "text": "Dieser von der UNESCO geschützte Berggipfel ist berühmt für seine stark endemische Flora und Fauna, einschließlich eines einzigartigen, jahrhundertealten Zwergwaldes.",
+                  "category": "natural",
+                  "coords": [
+                        126.181881,
+                        6.740022
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sakura Beach Resort",
+                  "text": "Ez a tengerparti menedékhely pihentető, közvetlen vízparti szállást kínál a Mount Hamiguitan rezervátum lábánál.",
+                  "category": "recreational",
+                  "coords": [
+                        126.244658,
+                        6.773603
+                  ]
+            },
+            {
+                  "name": "Hidden Garden",
+                  "text": "A rezervátum buja trópusi növényzete között megbúvó eldugott kilátó békés panorámát nyújt a természetre.",
+                  "category": "natural",
+                  "coords": [
+                        126.19993,
+                        6.70439
+                  ]
+            },
+            {
+                  "name": "Lantawan Tres",
+                  "text": "Ez a magaslati megfigyelőpont lenyűgöző kilátást nyújt a hegység változatos, erdős ökoszisztémáira.",
+                  "category": "natural",
+                  "coords": [
+                        126.187178,
+                        6.712814
+                  ]
+            },
+            {
+                  "name": "Lantawan Dos",
+                  "text": "A tanösvények mentén található fontos kilátópontként magaslati rálátást biztosít a rezervátum sűrű zöld lombkoronájára.",
+                  "category": "natural",
+                  "coords": [
+                        126.17829,
+                        6.731484
+                  ]
+            },
+            {
+                  "name": "Black Mountain",
+                  "text": "A sötét terepéről ismert zord kilátópont drámai kilátást nyújt a környező érintetlen vadonra.",
+                  "category": "natural",
+                  "coords": [
+                        126.180505,
+                        6.72659
+                  ]
+            },
+            {
+                  "name": "Pygmy Forest",
+                  "text": "Ez a kilátó egyedülálló ökoszisztémára néz, ahol évszázados, satnya bonszajszerű fák nőnek az ultramafikus talajban.",
+                  "category": "natural",
+                  "coords": [
+                        126.183461,
+                        6.720139
+                  ]
+            },
+            {
+                  "name": "Mount Hamiguitan",
+                  "text": "Ez az UNESCO-listás hegycsúcs rendkívül endemikus növény- és állatvilágáról, valamint egyedülálló, évszázados törpeerdőjéről híres.",
+                  "category": "natural",
+                  "coords": [
+                        126.181881,
+                        6.740022
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sakura Beach Resort",
+                  "text": "Această retragere de pe coastă oferă cazare relaxantă pe plajă, aproape de poalele sanctuarului Mount Hamiguitan.",
+                  "category": "recreational",
+                  "coords": [
+                        126.244658,
+                        6.773603
+                  ]
+            },
+            {
+                  "name": "Hidden Garden",
+                  "text": "Ascuns printre frunzișul tropical luxuriant al sanctuarului, acest punct de belvedere izolat oferă vederi panoramice liniștite asupra naturii.",
+                  "category": "natural",
+                  "coords": [
+                        126.19993,
+                        6.70439
+                  ]
+            },
+            {
+                  "name": "Lantawan Tres",
+                  "text": "Acest punct de observație ridicat oferă priveliști ample asupra ecosistemelor forestiere diverse ale lanțului muntos.",
+                  "category": "natural",
+                  "coords": [
+                        126.187178,
+                        6.712814
+                  ]
+            },
+            {
+                  "name": "Lantawan Dos",
+                  "text": "Servind ca un punct de observație major de-a lungul traseelor naturale, oferă o perspectivă înaltă asupra baldachinului verde dens al sanctuarului.",
+                  "category": "natural",
+                  "coords": [
+                        126.17829,
+                        6.731484
+                  ]
+            },
+            {
+                  "name": "Black Mountain",
+                  "text": "Caracterizat prin terenul său întunecat, acest punct de belvedere accidentat oferă vederi dramatice asupra sălbăticiei virgine din jur.",
+                  "category": "natural",
+                  "coords": [
+                        126.180505,
+                        6.72659
+                  ]
+            },
+            {
+                  "name": "Pygmy Forest",
+                  "text": "Acest punct de belvedere are vedere la un ecosistem unic de arbori pitici, asemănători bonsailor, vechi de secole, care cresc pe un sol ultramafic.",
+                  "category": "natural",
+                  "coords": [
+                        126.183461,
+                        6.720139
+                  ]
+            },
+            {
+                  "name": "Mount Hamiguitan",
+                  "text": "Acest vârf montan inclus în patrimoniul UNESCO este renumit pentru flora și fauna sa extrem de endemice, incluzând o pădure pigmee unică, veche de secole.",
+                  "category": "natural",
+                  "coords": [
+                        126.181881,
+                        6.740022
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sakura Beach Resort",
+                  "text": "This coastal retreat provides relaxing beachfront accommodation near the foothills of the Mount Hamiguitan sanctuary.",
+                  "category": "recreational",
+                  "coords": [
+                        126.244658,
+                        6.773603
+                  ]
+            },
+            {
+                  "name": "Hidden Garden",
+                  "text": "Tucked within the lush tropical foliage of the sanctuary, this secluded scenic outlook offers peaceful panoramic nature views.",
+                  "category": "natural",
+                  "coords": [
+                        126.19993,
+                        6.70439
+                  ]
+            },
+            {
+                  "name": "Lantawan Tres",
+                  "text": "This elevated observation point provides sweeping vistas over the diverse, forested ecosystems of the mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        126.187178,
+                        6.712814
+                  ]
+            },
+            {
+                  "name": "Lantawan Dos",
+                  "text": "Serving as a major lookout point along the nature trails, it offers a high vantage over the sanctuary's dense green canopy.",
+                  "category": "natural",
+                  "coords": [
+                        126.17829,
+                        6.731484
+                  ]
+            },
+            {
+                  "name": "Black Mountain",
+                  "text": "Characterized by its dark terrain, this rugged scenic outlook provides dramatic views of the surrounding untouched wilderness.",
+                  "category": "natural",
+                  "coords": [
+                        126.180505,
+                        6.72659
+                  ]
+            },
+            {
+                  "name": "Pygmy Forest",
+                  "text": "This viewpoint overlooks a unique ecosystem of century-old, stunted bonsai-like trees growing in ultramafic soil.",
+                  "category": "natural",
+                  "coords": [
+                        126.183461,
+                        6.720139
+                  ]
+            },
+            {
+                  "name": "Mount Hamiguitan",
+                  "text": "This UNESCO-listed mountain peak is famous for its highly endemic flora and fauna, including a unique, century-old pygmy forest.",
+                  "category": "natural",
+                  "coords": [
+                        126.181881,
+                        6.740022
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "PH-DAO",
     coords: [126.1736, 6.7214],
@@ -702,7 +6795,1096 @@ image: "/poi-images/ph-mount-hamiguitan-range-wildlife-sanctuary-nature-v2.webp"
     
   },
   {
-    id: "ph-pagsanjan-falls-nature-v2",
+    id: "ph-pagsanjan-falls-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parish of the Transfiguration of our Lord",
+                  "text": "Diese historische römisch-katholische Kirche aus dem 17. Jahrhundert in Cavinti wurde ursprünglich von Franziskanern in der Nähe der Pagsanjan-Fälle gegründet.",
+                  "category": "religious",
+                  "coords": [
+                        121.507517,
+                        14.245095
+                  ]
+            },
+            {
+                  "name": "Pagsanjan Falls",
+                  "text": "Dieser berühmte 120 Meter hohe Wasserfall, der sich eigentlich in Cavinti befindet, ist bekannt für die aufregende Fahrt mit dem Einbaum durch eine steile Schlucht, die man unternehmen muss, um ihn zu erreichen.",
+                  "category": "landmark",
+                  "coords": [
+                        121.499986,
+                        14.262563
+                  ]
+            },
+            {
+                  "name": "Luisiana Municipal Hall",
+                  "text": "Das wichtigste bürgerliche Verwaltungsgebäude der Stadt Luisiana, die in der malerischen Bergregion nahe den Pagsanjan-Fällen liegt.",
+                  "category": "historical",
+                  "coords": [
+                        121.509422,
+                        14.185416
+                  ]
+            },
+            {
+                  "name": "Museo Ac-ac",
+                  "text": "Diese lokale Galerie zeigt die kunstvollen, traditionellen Holzschnitzereien des bekannten philippinischen Bildhauers Luis Ac-ac.",
+                  "category": "museum",
+                  "coords": [
+                        121.484524,
+                        14.352679
+                  ]
+            },
+            {
+                  "name": "Cavinti Welcome Sign",
+                  "text": "Eine große Straßenmarkierung, die Reisende bei der Einfahrt in die Gemeinde Cavinti begrüßt, der tatsächlichen geografischen Heimat der berühmten Pagsanjan-Fälle.",
+                  "category": "historical",
+                  "coords": [
+                        121.490368,
+                        14.221082
+                  ]
+            },
+            {
+                  "name": "Caliraya Valley Theater",
+                  "text": "Ein lokaler Veranstaltungsort in der malerischen Gegend von Caliraya, an dem Gemeindetheater und Veranstaltungen in der Nähe der Pagsanjan-Fälle stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        121.499931,
+                        14.301204
+                  ]
+            },
+            {
+                  "name": "Bulajo Barangay Chapel",
+                  "text": "Diese kleine Gemeindekapelle bietet den Bewohnern des Dorfes Bulajo in der Nähe der Pagsanjan-Fälle einen Raum für das tägliche Gebet und regelmäßige Messen.",
+                  "category": "religious",
+                  "coords": [
+                        121.491209,
+                        14.224172
+                  ]
+            },
+            {
+                  "name": "San Jose Chapel",
+                  "text": "Eine ländliche christliche Kapelle, die dem Heiligen Josef gewidmet ist und den lokalen Bauernfamilien in der Nähe der Pagsanjan-Fälle dient.",
+                  "category": "religious",
+                  "coords": [
+                        121.511129,
+                        14.190934
+                  ]
+            },
+            {
+                  "name": "San Jose IFI Chapel",
+                  "text": "Eine lokale Kapelle der Unabhängigen Philippinischen Kirche, die den Gläubigen in der Region Pagsanjan dient.",
+                  "category": "religious",
+                  "coords": [
+                        121.513228,
+                        14.190673
+                  ]
+            },
+            {
+                  "name": "Luisiana Public Market",
+                  "text": "Ein lebendiges lokales Marktzentrum mit Ständen, die frische landwirtschaftliche Ernten verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        121.511198,
+                        14.183484
+                  ]
+            },
+            {
+                  "name": "Kalayaan Twin Falls",
+                  "text": "Zwei parallele Wasserfälle, die dramatisch in ein erfrischendes natürliches Becken im Wald stürzen.",
+                  "category": "landmark",
+                  "coords": [
+                        121.481681,
+                        14.321263
+                  ]
+            },
+            {
+                  "name": "Caliraya lake beach resort",
+                  "text": "Ein Freizeitresort am See, das Wasseraktivitäten und Entspannung an den Ufern des Caliraya-Sees bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        121.491831,
+                        14.330743
+                  ]
+            },
+            {
+                  "name": "Obstacle Course",
+                  "text": "Ein physischer Outdoor-Hindernisparcours, der mit Holzbarrieren, Seilen und Kletterstrukturen ausgestattet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        121.498147,
+                        14.301
+                  ]
+            },
+            {
+                  "name": "Rainbow Pass",
+                  "text": "Ein farbenfroh dekorierter Weg oder eine Brücke, die Besucher durch die natürliche Umgebung führt.",
+                  "category": "landmark",
+                  "coords": [
+                        121.498091,
+                        14.299644
+                  ]
+            },
+            {
+                  "name": "Japanese Garden",
+                  "text": "Ein ruhiger Landschaftsgarten mit orientalischen Pflanzen, kleinen Brücken und friedlichen Wasserspielen.",
+                  "category": "landmark",
+                  "coords": [
+                        121.510729,
+                        14.283566
+                  ]
+            },
+            {
+                  "name": "Sundang Island",
+                  "text": "Ein abgeschiedener Inselrückzugsort inmitten der ruhigen, künstlichen Gewässer des Caliraya-Sees.",
+                  "category": "landmark",
+                  "coords": [
+                        121.552665,
+                        14.259745
+                  ]
+            },
+            {
+                  "name": "El Pueblo Salvador",
+                  "text": "Ein Ökotourismus-Standort, der als malerischer Ausgangspunkt für Wanderungen zu den nahe gelegenen Wasserfällen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        121.501813,
+                        14.257799
+                  ]
+            },
+            {
+                  "name": "Lanzones Trees",
+                  "text": "Ein Hain mit den regional berühmten Lanzones-Obstbäumen, die für ihre süße saisonale Ernte bekannt sind.",
+                  "category": "landmark",
+                  "coords": [
+                        121.480603,
+                        14.208918
+                  ]
+            },
+            {
+                  "name": "cave cavinti",
+                  "text": "Eine natürliche unterirdische Kalksteinformation, die Besuchern die Möglichkeit bietet, ihre Stalaktiten und Höhlen zu erkunden.",
+                  "category": "landmark",
+                  "coords": [
+                        121.578723,
+                        14.263112
+                  ]
+            },
+            {
+                  "name": "Via Rosarii",
+                  "text": "Ein religiöser Weg, der von Außenstationen gesäumt ist und für kontemplative Gebete und Rosenkranzandachten konzipiert wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        121.49844,
+                        14.199792
+                  ]
+            },
+            {
+                  "name": "Our Lady of Fatima Shrine",
+                  "text": "Ein christlicher Schrein, der der Marienerscheinung gewidmet ist und einen friedlichen Ort für Pilgerfahrten und Reflexion bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        121.493057,
+                        14.352965
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo",
+                  "text": "Ein christliches Gotteshaus mit den für die Glaubensgemeinschaft typischen schmalen, spitzen Türmen.",
+                  "category": "landmark",
+                  "coords": [
+                        121.482586,
+                        14.334297
+                  ]
+            },
+            {
+                  "name": "IRM San Buenaventura Luisiana",
+                  "text": "Eine lokale christliche Kirche, die die Gemeinde von Luisiana zu regelmäßigen Gottesdiensten versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        121.547149,
+                        14.197568
+                  ]
+            },
+            {
+                  "name": "Locale of Paete",
+                  "text": "Eine lokale Gemeindezweigstelle der christlichen Konfession in der Holzschnitzerstadt Paete.",
+                  "category": "landmark",
+                  "coords": [
+                        121.484176,
+                        14.357297
+                  ]
+            },
+            {
+                  "name": "San Antonio de Padua Parish",
+                  "text": "Eine dem heiligen Antonius von Padua geweihte katholische Pfarrkirche, die den Einheimischen als spirituelles Zentrum dient.",
+                  "category": "landmark",
+                  "coords": [
+                        121.512571,
+                        14.337654
+                  ]
+            },
+            {
+                  "name": "Lokal ng Cavinti",
+                  "text": "Der Versammlungsort der lokalen Iglesia ni Cristo Gemeinde, erkennbar an ihren markanten architektonischen Türmen.",
+                  "category": "landmark",
+                  "coords": [
+                        121.509376,
+                        14.242632
+                  ]
+            },
+            {
+                  "name": "IFI - Cavinti, Transfiguration of Our Lord Parish (Aglipay)",
+                  "text": "Eine unabhängige aglipayanische Pfarrkirche in Cavinti, die die Verklärung des Herrn feiert.",
+                  "category": "landmark",
+                  "coords": [
+                        121.511292,
+                        14.244409
+                  ]
+            },
+            {
+                  "name": "Jesus is Lord Church-Luisiana",
+                  "text": "Ein lokales evangelisch-christliches Gottesdienstzentrum, das Gebetsversammlungen für die Gemeinde Luisiana veranstaltet.",
+                  "category": "landmark",
+                  "coords": [
+                        121.509186,
+                        14.182557
+                  ]
+            },
+            {
+                  "name": "IFI San Juan Chapel",
+                  "text": "Eine kleine unabhängige aglipayanische Kapelle, die dem Heiligen Johannes gewidmet ist und einer eng verbundenen Gemeinschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        121.523667,
+                        14.189479
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist Church",
+                  "text": "Ein sabbatarisches christliches Kirchengebäude, das der lokalen adventistischen Gemeinde mit Wochenendgottesdiensten dient.",
+                  "category": "landmark",
+                  "coords": [
+                        121.513445,
+                        14.185008
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parish of the Transfiguration of our Lord",
+                  "text": "Ezt a Cavintiben található 17. századi történelmi római katolikus templomot eredetileg a ferencesek alapították a Pagsanjan-vízesés közelében.",
+                  "category": "religious",
+                  "coords": [
+                        121.507517,
+                        14.245095
+                  ]
+            },
+            {
+                  "name": "Pagsanjan Falls",
+                  "text": "Ez a híres 120 méter magas vízesés, amely hivatalosan Cavintiben található, arról ismert, hogy egy meredek szurdokon keresztül izgalmas kenutúrával lehet megközelíteni.",
+                  "category": "landmark",
+                  "coords": [
+                        121.499986,
+                        14.262563
+                  ]
+            },
+            {
+                  "name": "Luisiana Municipal Hall",
+                  "text": "Luisiana városát irányító fő polgári közigazgatási épület, amely a Pagsanjan-vízesés közeli festői hegyvidéki területen található.",
+                  "category": "historical",
+                  "coords": [
+                        121.509422,
+                        14.185416
+                  ]
+            },
+            {
+                  "name": "Museo Ac-ac",
+                  "text": "Ez a helyi galéria Luis Ac-ac híres fülöp-szigeteki szobrász bonyolult, hagyományos fafaragásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        121.484524,
+                        14.352679
+                  ]
+            },
+            {
+                  "name": "Cavinti Welcome Sign",
+                  "text": "Egy nagy út menti jelzőtábla, amely a híres Pagsanjan-vízesés tényleges földrajzi otthonába, Cavinti településre érkező utazókat köszönti.",
+                  "category": "historical",
+                  "coords": [
+                        121.490368,
+                        14.221082
+                  ]
+            },
+            {
+                  "name": "Caliraya Valley Theater",
+                  "text": "A festői Caliraya térségben található helyi előadóterem, amely közösségi színdaraboknak és eseményeknek ad otthont a Pagsanjan-vízesés közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        121.499931,
+                        14.301204
+                  ]
+            },
+            {
+                  "name": "Bulajo Barangay Chapel",
+                  "text": "Ez a kis közösségi kápolna a Pagsanjan-vízesés közelében fekvő Bulajo falu lakóinak biztosít teret a napi imádsághoz és a rendszeres miséhez.",
+                  "category": "religious",
+                  "coords": [
+                        121.491209,
+                        14.224172
+                  ]
+            },
+            {
+                  "name": "San Jose Chapel",
+                  "text": "A Szent Józsefnek szentelt vidéki keresztény kápolna a Pagsanjan-vízesés környékén élő helyi gazdálkodó családokat szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        121.511129,
+                        14.190934
+                  ]
+            },
+            {
+                  "name": "San Jose IFI Chapel",
+                  "text": "A Független Fülöp-szigeteki Egyház helyi kápolnája, amely a Pagsanjan régió híveit szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        121.513228,
+                        14.190673
+                  ]
+            },
+            {
+                  "name": "Luisiana Public Market",
+                  "text": "Élénk helyi piacközpont, tele friss mezőgazdasági termékeket árusító standokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        121.511198,
+                        14.183484
+                  ]
+            },
+            {
+                  "name": "Kalayaan Twin Falls",
+                  "text": "Két párhuzamos vízesés, amelyek drámaian zuhannak egy frissítő, természetes medencébe az erdőben.",
+                  "category": "landmark",
+                  "coords": [
+                        121.481681,
+                        14.321263
+                  ]
+            },
+            {
+                  "name": "Caliraya lake beach resort",
+                  "text": "Tóparti szabadidő-központ, amely vízi tevékenységeket és pihenést kínál a Caliraya-tó partján.",
+                  "category": "landmark",
+                  "coords": [
+                        121.491831,
+                        14.330743
+                  ]
+            },
+            {
+                  "name": "Obstacle Course",
+                  "text": "Szabadtéri fizikai akadálypálya, amely faakadályokkal, kötelekkel és mászószerkezetekkel van felszerelve.",
+                  "category": "landmark",
+                  "coords": [
+                        121.498147,
+                        14.301
+                  ]
+            },
+            {
+                  "name": "Rainbow Pass",
+                  "text": "Színesen díszített ösvény vagy híd, amely a természeti környezeten keresztül vezeti a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        121.498091,
+                        14.299644
+                  ]
+            },
+            {
+                  "name": "Japanese Garden",
+                  "text": "Nyugodt parkosított kert keleti növényekkel, kis hidakkal és békés vízi elemekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        121.510729,
+                        14.283566
+                  ]
+            },
+            {
+                  "name": "Sundang Island",
+                  "text": "Egy eldugott szigeti menedékhely a Caliraya-tó nyugodt, mesterséges vizeinek közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        121.552665,
+                        14.259745
+                  ]
+            },
+            {
+                  "name": "El Pueblo Salvador",
+                  "text": "Ökoturisztikai helyszín, amely festői kiindulópontként szolgál a közeli vízesésekhez vezető túrákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        121.501813,
+                        14.257799
+                  ]
+            },
+            {
+                  "name": "Lanzones Trees",
+                  "text": "A regionálisan híres lanzones gyümölcsfákból álló liget, amely édes szezonális terméséről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        121.480603,
+                        14.208918
+                  ]
+            },
+            {
+                  "name": "cave cavinti",
+                  "text": "Természetes földalatti mészkőképződmény, amely lehetőséget kínál a látogatóknak cseppköveinek és barlangjainak felfedezésére.",
+                  "category": "landmark",
+                  "coords": [
+                        121.578723,
+                        14.263112
+                  ]
+            },
+            {
+                  "name": "Via Rosarii",
+                  "text": "Keresztútvonal szabadtéri stációkkal, amelyet elmélkedő imákhoz és rózsafüzér-áhítatokhoz terveztek.",
+                  "category": "landmark",
+                  "coords": [
+                        121.49844,
+                        14.199792
+                  ]
+            },
+            {
+                  "name": "Our Lady of Fatima Shrine",
+                  "text": "A Mária-jelenésnek szentelt keresztény szentély, amely békés helyet kínál zarándoklatra és elmélkedésre.",
+                  "category": "landmark",
+                  "coords": [
+                        121.493057,
+                        14.352965
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo",
+                  "text": "Keresztény imaház, amely a felekezetre jellemző keskeny, hegyes tornyokkal rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        121.482586,
+                        14.334297
+                  ]
+            },
+            {
+                  "name": "IRM San Buenaventura Luisiana",
+                  "text": "Helyi keresztény templom, amely a luisianai közösséget gyűjti össze rendszeres istentiszteletekre.",
+                  "category": "landmark",
+                  "coords": [
+                        121.547149,
+                        14.197568
+                  ]
+            },
+            {
+                  "name": "Locale of Paete",
+                  "text": "A keresztény felekezet helyi gyülekezeti fiókja Paete fafaragó városában.",
+                  "category": "landmark",
+                  "coords": [
+                        121.484176,
+                        14.357297
+                  ]
+            },
+            {
+                  "name": "San Antonio de Padua Parish",
+                  "text": "A Páduai Szent Antalnak szentelt katolikus plébániatemplom, amely a helyiek spirituális központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        121.512571,
+                        14.337654
+                  ]
+            },
+            {
+                  "name": "Lokal ng Cavinti",
+                  "text": "A helyi Iglesia ni Cristo gyülekezet gyülekezőhelye, amely felismerhető jellegzetes építészeti tornyairól.",
+                  "category": "landmark",
+                  "coords": [
+                        121.509376,
+                        14.242632
+                  ]
+            },
+            {
+                  "name": "IFI - Cavinti, Transfiguration of Our Lord Parish (Aglipay)",
+                  "text": "Egy független aglipayan plébániatemplom Cavintiben, amely az Úr színeváltozását ünnepli.",
+                  "category": "landmark",
+                  "coords": [
+                        121.511292,
+                        14.244409
+                  ]
+            },
+            {
+                  "name": "Jesus is Lord Church-Luisiana",
+                  "text": "Helyi evangéliumi keresztény istentiszteleti központ, amely imaösszejöveteleknek ad otthont a luisianai közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        121.509186,
+                        14.182557
+                  ]
+            },
+            {
+                  "name": "IFI San Juan Chapel",
+                  "text": "Egy kis független aglipayan kápolna, amelyet Szent Jánosnak szenteltek, és egy szorosan összetartó közösséget szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        121.523667,
+                        14.189479
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist Church",
+                  "text": "Szombatot ünneplő keresztény templomépület, amely a helyi adventista közösséget szolgálja hétvégi istentiszteletekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        121.513445,
+                        14.185008
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parish of the Transfiguration of our Lord",
+                  "text": "Această biserică istorică romano-catolică din secolul al XVII-lea din Cavinti a fost fondată inițial de franciscani în apropiere de Cascada Pagsanjan.",
+                  "category": "religious",
+                  "coords": [
+                        121.507517,
+                        14.245095
+                  ]
+            },
+            {
+                  "name": "Pagsanjan Falls",
+                  "text": "Această faimoasă cascadă de 120 de metri, situată tehnic în Cavinti, este renumită pentru plimbarea palpitantă cu o canoe tradițională printr-un defileu abrupt necesară pentru a ajunge la ea.",
+                  "category": "landmark",
+                  "coords": [
+                        121.499986,
+                        14.262563
+                  ]
+            },
+            {
+                  "name": "Luisiana Municipal Hall",
+                  "text": "Principala clădire administrativă civică care guvernează orașul Luisiana, situată în zona pitorească de munte, lângă Cascada Pagsanjan.",
+                  "category": "historical",
+                  "coords": [
+                        121.509422,
+                        14.185416
+                  ]
+            },
+            {
+                  "name": "Museo Ac-ac",
+                  "text": "Această galerie locală prezintă sculpturile în lemn complicate și tradiționale realizate de renumitul sculptor filipinez Luis Ac-ac.",
+                  "category": "museum",
+                  "coords": [
+                        121.484524,
+                        14.352679
+                  ]
+            },
+            {
+                  "name": "Cavinti Welcome Sign",
+                  "text": "Un indicator mare pe marginea drumului care salută călătorii ce intră în municipalitatea Cavinti, adevărata casă geografică a faimoasei Cascade Pagsanjan.",
+                  "category": "historical",
+                  "coords": [
+                        121.490368,
+                        14.221082
+                  ]
+            },
+            {
+                  "name": "Caliraya Valley Theater",
+                  "text": "Un loc de spectacol local situat în zona pitorească Caliraya, care găzduiește piese de teatru și evenimente comunitare în apropiere de Cascada Pagsanjan.",
+                  "category": "cultural",
+                  "coords": [
+                        121.499931,
+                        14.301204
+                  ]
+            },
+            {
+                  "name": "Bulajo Barangay Chapel",
+                  "text": "Această mică capelă comunitară oferă un spațiu pentru rugăciunea zilnică și liturghia regulată pentru locuitorii satului Bulajo, lângă Cascada Pagsanjan.",
+                  "category": "religious",
+                  "coords": [
+                        121.491209,
+                        14.224172
+                  ]
+            },
+            {
+                  "name": "San Jose Chapel",
+                  "text": "O capelă creștină rurală dedicată Sfântului Iosif, care deservește familiile de fermieri locali din vecinătatea Cascadei Pagsanjan.",
+                  "category": "religious",
+                  "coords": [
+                        121.511129,
+                        14.190934
+                  ]
+            },
+            {
+                  "name": "San Jose IFI Chapel",
+                  "text": "O capelă locală a Bisericii Filipineze Independente, care deservește credincioșii din regiunea Pagsanjan.",
+                  "category": "religious",
+                  "coords": [
+                        121.513228,
+                        14.190673
+                  ]
+            },
+            {
+                  "name": "Luisiana Public Market",
+                  "text": "Un centru de piață local plin de viață, cu tarabe care vând recolte agricole proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        121.511198,
+                        14.183484
+                  ]
+            },
+            {
+                  "name": "Kalayaan Twin Falls",
+                  "text": "Două cascade paralele care se revarsă spectaculos într-o piscină naturală răcoritoare din pădure.",
+                  "category": "landmark",
+                  "coords": [
+                        121.481681,
+                        14.321263
+                  ]
+            },
+            {
+                  "name": "Caliraya lake beach resort",
+                  "text": "O stațiune de agrement pe malul lacului, oferind activități acvatice și relaxare pe malurile Lacului Caliraya.",
+                  "category": "landmark",
+                  "coords": [
+                        121.491831,
+                        14.330743
+                  ]
+            },
+            {
+                  "name": "Obstacle Course",
+                  "text": "Un traseu de provocare fizică în aer liber, dotat cu bariere de lemn, frânghii și structuri de cățărat.",
+                  "category": "landmark",
+                  "coords": [
+                        121.498147,
+                        14.301
+                  ]
+            },
+            {
+                  "name": "Rainbow Pass",
+                  "text": "O potecă sau un pod decorat colorat, care ghidează vizitatorii prin împrejurimile naturale.",
+                  "category": "landmark",
+                  "coords": [
+                        121.498091,
+                        14.299644
+                  ]
+            },
+            {
+                  "name": "Japanese Garden",
+                  "text": "O grădină peisagistică liniștită, cu plante orientale, poduri mici și elemente de apă liniștitoare.",
+                  "category": "landmark",
+                  "coords": [
+                        121.510729,
+                        14.283566
+                  ]
+            },
+            {
+                  "name": "Sundang Island",
+                  "text": "Un refugiu insular izolat, situat în mijlocul apelor calme și artificiale ale Lacului Caliraya.",
+                  "category": "landmark",
+                  "coords": [
+                        121.552665,
+                        14.259745
+                  ]
+            },
+            {
+                  "name": "El Pueblo Salvador",
+                  "text": "Un sit ecoturistic care servește drept punct de plecare pitoresc pentru drumețiile spre cascadele din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        121.501813,
+                        14.257799
+                  ]
+            },
+            {
+                  "name": "Lanzones Trees",
+                  "text": "O livadă cu celebrii pomi fructiferi lanzones din regiune, cunoscuți pentru recolta lor dulce de sezon.",
+                  "category": "landmark",
+                  "coords": [
+                        121.480603,
+                        14.208918
+                  ]
+            },
+            {
+                  "name": "cave cavinti",
+                  "text": "O formațiune naturală subterană de calcar care oferă vizitatorilor șansa de a-i explora stalactitele și peșterile.",
+                  "category": "landmark",
+                  "coords": [
+                        121.578723,
+                        14.263112
+                  ]
+            },
+            {
+                  "name": "Via Rosarii",
+                  "text": "O cale religioasă străjuită de stațiuni în aer liber, concepută pentru rugăciune contemplativă și devoțiuni ale rozariului.",
+                  "category": "landmark",
+                  "coords": [
+                        121.49844,
+                        14.199792
+                  ]
+            },
+            {
+                  "name": "Our Lady of Fatima Shrine",
+                  "text": "Un sanctuar creștin dedicat apariției mariane, oferind un loc liniștit pentru pelerinaj și reflecție.",
+                  "category": "landmark",
+                  "coords": [
+                        121.493057,
+                        14.352965
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo",
+                  "text": "Un lăcaș de cult creștin cu turle înguste și ascuțite, specifice cultului.",
+                  "category": "landmark",
+                  "coords": [
+                        121.482586,
+                        14.334297
+                  ]
+            },
+            {
+                  "name": "IRM San Buenaventura Luisiana",
+                  "text": "O biserică creștină locală care adună comunitatea din Luisiana pentru slujbe regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        121.547149,
+                        14.197568
+                  ]
+            },
+            {
+                  "name": "Locale of Paete",
+                  "text": "O filială locală a congregației creștine situată în orașul de sculptură în lemn Paete.",
+                  "category": "landmark",
+                  "coords": [
+                        121.484176,
+                        14.357297
+                  ]
+            },
+            {
+                  "name": "San Antonio de Padua Parish",
+                  "text": "O biserică parohială catolică dedicată Sfântului Anton de Padova, servind drept centru spiritual pentru localnici.",
+                  "category": "landmark",
+                  "coords": [
+                        121.512571,
+                        14.337654
+                  ]
+            },
+            {
+                  "name": "Lokal ng Cavinti",
+                  "text": "Locul de adunare al congregației locale Iglesia ni Cristo, recunoscut prin turlele sale arhitecturale distincte.",
+                  "category": "landmark",
+                  "coords": [
+                        121.509376,
+                        14.242632
+                  ]
+            },
+            {
+                  "name": "IFI - Cavinti, Transfiguration of Our Lord Parish (Aglipay)",
+                  "text": "O biserică parohială independentă aglipayană din Cavinti, care sărbătorește Schimbarea la Față a Domnului.",
+                  "category": "landmark",
+                  "coords": [
+                        121.511292,
+                        14.244409
+                  ]
+            },
+            {
+                  "name": "Jesus is Lord Church-Luisiana",
+                  "text": "Un centru de cult creștin evanghelic local care găzduiește adunări de rugăciune pentru comunitatea din Luisiana.",
+                  "category": "landmark",
+                  "coords": [
+                        121.509186,
+                        14.182557
+                  ]
+            },
+            {
+                  "name": "IFI San Juan Chapel",
+                  "text": "O mică capelă independentă aglipayană dedicată Sfântului Ioan, deservind o comunitate unită.",
+                  "category": "landmark",
+                  "coords": [
+                        121.523667,
+                        14.189479
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist Church",
+                  "text": "O clădire a bisericii creștine sabatariene care deservește comunitatea adventistă locală cu slujbe de weekend.",
+                  "category": "landmark",
+                  "coords": [
+                        121.513445,
+                        14.185008
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parish of the Transfiguration of our Lord",
+                  "text": "This historic 17th-century Roman Catholic church in Cavinti was originally founded by the Franciscans near the Pagsanjan Falls area.",
+                  "category": "religious",
+                  "coords": [
+                        121.507517,
+                        14.245095
+                  ]
+            },
+            {
+                  "name": "Pagsanjan Falls",
+                  "text": "This famous 120-meter drop waterfall, technically located in Cavinti, is renowned for the thrilling dugout canoe ride through a steep gorge required to reach it.",
+                  "category": "landmark",
+                  "coords": [
+                        121.499986,
+                        14.262563
+                  ]
+            },
+            {
+                  "name": "Luisiana Municipal Hall",
+                  "text": "The main civic administrative building governing the town of Luisiana, located in the scenic upland area near Pagsanjan Falls.",
+                  "category": "historical",
+                  "coords": [
+                        121.509422,
+                        14.185416
+                  ]
+            },
+            {
+                  "name": "Museo Ac-ac",
+                  "text": "This local gallery showcases the intricate, traditional woodcarvings crafted by renowned Filipino sculptor Luis Ac-ac.",
+                  "category": "museum",
+                  "coords": [
+                        121.484524,
+                        14.352679
+                  ]
+            },
+            {
+                  "name": "Cavinti Welcome Sign",
+                  "text": "A large roadside marker that greets travelers entering the municipality of Cavinti, the actual geographic home of the famous Pagsanjan Falls.",
+                  "category": "historical",
+                  "coords": [
+                        121.490368,
+                        14.221082
+                  ]
+            },
+            {
+                  "name": "Caliraya Valley Theater",
+                  "text": "A local performance venue situated in the scenic Caliraya area, hosting community plays and events near Pagsanjan Falls.",
+                  "category": "cultural",
+                  "coords": [
+                        121.499931,
+                        14.301204
+                  ]
+            },
+            {
+                  "name": "Bulajo Barangay Chapel",
+                  "text": "This small community chapel provides a space for daily prayer and regular mass for the residents of the Bulajo village near Pagsanjan Falls.",
+                  "category": "religious",
+                  "coords": [
+                        121.491209,
+                        14.224172
+                  ]
+            },
+            {
+                  "name": "San Jose Chapel",
+                  "text": "A rural Christian chapel dedicated to Saint Joseph, serving the local farming families in the vicinity of Pagsanjan Falls.",
+                  "category": "religious",
+                  "coords": [
+                        121.511129,
+                        14.190934
+                  ]
+            },
+            {
+                  "name": "San Jose IFI Chapel",
+                  "text": "A local Independent Philippine Church chapel serving the faithful in the Pagsanjan region.",
+                  "category": "religious",
+                  "coords": [
+                        121.513228,
+                        14.190673
+                  ]
+            },
+            {
+                  "name": "Luisiana Public Market",
+                  "text": "A lively local market center filled with stalls selling fresh agricultural harvests.",
+                  "category": "cultural",
+                  "coords": [
+                        121.511198,
+                        14.183484
+                  ]
+            },
+            {
+                  "name": "Kalayaan Twin Falls",
+                  "text": "Two parallel waterfalls cascading dramatically into a refreshing natural pool in the forest.",
+                  "category": "landmark",
+                  "coords": [
+                        121.481681,
+                        14.321263
+                  ]
+            },
+            {
+                  "name": "Caliraya lake beach resort",
+                  "text": "A lakeside leisure resort offering water activities and relaxation on the shores of Lake Caliraya.",
+                  "category": "landmark",
+                  "coords": [
+                        121.491831,
+                        14.330743
+                  ]
+            },
+            {
+                  "name": "Obstacle Course",
+                  "text": "An outdoor physical challenge track equipped with wooden barriers, ropes, and climbing structures.",
+                  "category": "landmark",
+                  "coords": [
+                        121.498147,
+                        14.301
+                  ]
+            },
+            {
+                  "name": "Rainbow Pass",
+                  "text": "A colorfully decorated pathway or bridge guiding visitors through the natural surroundings.",
+                  "category": "landmark",
+                  "coords": [
+                        121.498091,
+                        14.299644
+                  ]
+            },
+            {
+                  "name": "Japanese Garden",
+                  "text": "A tranquil landscaped garden featuring oriental plants, small bridges, and peaceful water features.",
+                  "category": "landmark",
+                  "coords": [
+                        121.510729,
+                        14.283566
+                  ]
+            },
+            {
+                  "name": "Sundang Island",
+                  "text": "A secluded island retreat situated amidst the calm, man-made waters of Lake Caliraya.",
+                  "category": "landmark",
+                  "coords": [
+                        121.552665,
+                        14.259745
+                  ]
+            },
+            {
+                  "name": "El Pueblo Salvador",
+                  "text": "An eco-tourism site that acts as a scenic staging point for treks towards the nearby waterfalls.",
+                  "category": "landmark",
+                  "coords": [
+                        121.501813,
+                        14.257799
+                  ]
+            },
+            {
+                  "name": "Lanzones Trees",
+                  "text": "A grove featuring the regionally famous lanzones fruit trees, known for their sweet seasonal harvest.",
+                  "category": "landmark",
+                  "coords": [
+                        121.480603,
+                        14.208918
+                  ]
+            },
+            {
+                  "name": "cave cavinti",
+                  "text": "A natural underground limestone formation offering visitors a chance to explore its stalactites and caverns.",
+                  "category": "landmark",
+                  "coords": [
+                        121.578723,
+                        14.263112
+                  ]
+            },
+            {
+                  "name": "Via Rosarii",
+                  "text": "A religious pathway lined with outdoor stations designed for contemplative prayer and rosary devotions.",
+                  "category": "landmark",
+                  "coords": [
+                        121.49844,
+                        14.199792
+                  ]
+            },
+            {
+                  "name": "Our Lady of Fatima Shrine",
+                  "text": "A Christian shrine dedicated to the Marian apparition, offering a peaceful place for pilgrimage and reflection.",
+                  "category": "landmark",
+                  "coords": [
+                        121.493057,
+                        14.352965
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo",
+                  "text": "A Christian house of worship featuring the denomination's signature narrow, pointed spires.",
+                  "category": "landmark",
+                  "coords": [
+                        121.482586,
+                        14.334297
+                  ]
+            },
+            {
+                  "name": "IRM San Buenaventura Luisiana",
+                  "text": "A local Christian church gathering the community of Luisiana for regular worship services.",
+                  "category": "landmark",
+                  "coords": [
+                        121.547149,
+                        14.197568
+                  ]
+            },
+            {
+                  "name": "Locale of Paete",
+                  "text": "A local congregation branch of the Christian denomination situated in the wood-carving town of Paete.",
+                  "category": "landmark",
+                  "coords": [
+                        121.484176,
+                        14.357297
+                  ]
+            },
+            {
+                  "name": "San Antonio de Padua Parish",
+                  "text": "A Catholic parish church dedicated to St. Anthony of Padua, serving as a spiritual center for locals.",
+                  "category": "landmark",
+                  "coords": [
+                        121.512571,
+                        14.337654
+                  ]
+            },
+            {
+                  "name": "Lokal ng Cavinti",
+                  "text": "The local Iglesia ni Cristo congregation gathering place, recognizable by its distinct architectural spires.",
+                  "category": "landmark",
+                  "coords": [
+                        121.509376,
+                        14.242632
+                  ]
+            },
+            {
+                  "name": "IFI - Cavinti, Transfiguration of Our Lord Parish (Aglipay)",
+                  "text": "An independent Aglipayan parish church in Cavinti celebrating the Transfiguration of Our Lord.",
+                  "category": "landmark",
+                  "coords": [
+                        121.511292,
+                        14.244409
+                  ]
+            },
+            {
+                  "name": "Jesus is Lord Church-Luisiana",
+                  "text": "A local evangelical Christian worship center hosting prayer gatherings for the Luisiana community.",
+                  "category": "landmark",
+                  "coords": [
+                        121.509186,
+                        14.182557
+                  ]
+            },
+            {
+                  "name": "IFI San Juan Chapel",
+                  "text": "A small independent Aglipayan chapel dedicated to Saint John, serving a close-knit community.",
+                  "category": "landmark",
+                  "coords": [
+                        121.523667,
+                        14.189479
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist Church",
+                  "text": "A Sabbatarian Christian church building serving the local Adventist community with weekend services.",
+                  "category": "landmark",
+                  "coords": [
+                        121.513445,
+                        14.185008
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "PH-LAG",
     coords: [121.493, 14.269],
@@ -810,7 +7992,736 @@ image: "/poi-images/ph-mindoro-strait-nature-v2.webp",
     
   },
   {
-    id: "ph-siargao-island-nature-v2",
+    id: "ph-siargao-island-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mangrove Boardwalk (the road goes out here now)",
+                  "text": "Dieser Holzsteg führt durch die dichte Küstenvegetation und ermöglicht es Besuchern, das blühende Mangroven-Ökosystem zu Fuß zu erkunden.",
+                  "category": "landmark",
+                  "coords": [
+                        125.975005,
+                        9.86656
+                  ]
+            },
+            {
+                  "name": "Siargao Island",
+                  "text": "Diese tropfenförmige Insel in der Philippinensee ist mit dichten Palmenwäldern bedeckt und weltweit für ihre erstklassigen Surfspots bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        126.083841,
+                        9.806909
+                  ]
+            },
+            {
+                  "name": "Coconut Viewpoint",
+                  "text": "Diese erhöhte Aussichtsplattform an einer kurvigen Straße bietet einen weiten Panoramablick über ein endlos scheinendes Meer aus grünen Kokospalmen.",
+                  "category": "natural",
+                  "coords": [
+                        126.059308,
+                        9.812329
+                  ]
+            },
+            {
+                  "name": "Secret Lagoon at the end of the canoe ride",
+                  "text": "Diese abgelegene Küstenlagune ist über eine malerische Kanufahrt durch die Mangroven erreichbar und von dichtem tropischen Laub umgeben.",
+                  "category": "landmark",
+                  "coords": [
+                        126.053722,
+                        9.827992
+                  ]
+            },
+            {
+                  "name": "Coconut Road",
+                  "text": "Dieser malerische, gerade Autobahnabschnitt wird auf beiden Seiten von hoch aufragenden, dichten Kokosnussplantagen flankiert, die einen natürlichen grünen Tunnel bilden.",
+                  "category": "natural",
+                  "coords": [
+                        126.054793,
+                        9.816542
+                  ]
+            },
+            {
+                  "name": "Beto Cold Spring",
+                  "text": "Versteckt inmitten tropischer Vegetation bietet diese natürliche Süßwasserquelle kühles, kristallklares Wasser, das sich perfekt für ein erfrischendes Bad eignet.",
+                  "category": "landmark",
+                  "coords": [
+                        126.090583,
+                        9.829074
+                  ]
+            },
+            {
+                  "name": "Bugak Cold Spring",
+                  "text": "Dieser erfrischende Naturpool auf Siargao, der von kaltem unterirdischem Wasser gespeist wird, bietet Besuchern einen erholsamen Rückzugsort im Schatten einheimischer Bäume.",
+                  "category": "landmark",
+                  "coords": [
+                        126.115165,
+                        9.828434
+                  ]
+            },
+            {
+                  "name": "Tagabayang Reef and Tidal Pools",
+                  "text": "Bei Ebbe legen diese felsigen Küstenformationen klare Gezeitentümpel frei, in denen es von kleinen Meereslebewesen und bunten Korallen wimmelt.",
+                  "category": "landmark",
+                  "coords": [
+                        126.114108,
+                        9.855528
+                  ]
+            },
+            {
+                  "name": "Magpupungko Tidal Lagoons",
+                  "text": "Durch ein Korallenriff vom tosenden Ozean getrennt, tauchen diese kristallklaren natürlichen Infinity-Pools nur bei der täglichen Ebbe auf.",
+                  "category": "landmark",
+                  "coords": [
+                        126.120196,
+                        9.875728
+                  ]
+            },
+            {
+                  "name": "Tayangban Cave Pool",
+                  "text": "In dieser im Landesinneren gelegenen Cenote und dem Kalksteinhöhlensystem müssen die Besucher im Dunkeln durch brusttiefes Wasser waten, bevor sie in ein sonnenbeschienenes offenes Becken gelangen.",
+                  "category": "landmark",
+                  "coords": [
+                        126.063051,
+                        9.861295
+                  ]
+            },
+            {
+                  "name": "Philippine Crocodile Habitat viewpoint",
+                  "text": "Diese Aussichtsplattform blickt auf die dichten Mangroven-Feuchtgebiete, die dem vom Aussterben bedrohten Philippinen-Krokodil als natürliches Schutzgebiet dienen.",
+                  "category": "natural",
+                  "coords": [
+                        126.077148,
+                        9.8916
+                  ]
+            },
+            {
+                  "name": "Caridad Beach",
+                  "text": "Dieser ruhige Sandstrand auf Siargao ist von sich wiegenden Palmen gesäumt und bietet einen ruhigen Rückzugsort an der Küste, fernab der großen Touristenmassen.",
+                  "category": "landmark",
+                  "coords": [
+                        126.110956,
+                        9.896135
+                  ]
+            },
+            {
+                  "name": "Surf Spot",
+                  "text": "Dieser Aussichtspunkt an der Küste bietet einen hervorragenden Blick auf Surfer, die die anrollenden Pazifikwellen bezwingen, die an den Riffen der Insel brechen.",
+                  "category": "natural",
+                  "coords": [
+                        126.103849,
+                        9.944773
+                  ]
+            },
+            {
+                  "name": "Del Carmen Church",
+                  "text": "Diese historische Kirche, offiziell als Pfarrei Unserer Lieben Frau auf dem Berge Karmel bekannt, ist eine wichtige katholische Gebetsstätte in der Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        125.971192,
+                        9.869746
+                  ]
+            },
+            {
+                  "name": "Magpupungko Beach",
+                  "text": "Dieser weiße Sandstrandabschnitt dient als Tor zu den angrenzenden felsigen Gezeitentümpeln, die sich durch markante Kalksteinformationen auszeichnen.",
+                  "category": "recreational",
+                  "coords": [
+                        126.117806,
+                        9.874673
+                  ]
+            },
+            {
+                  "name": "Tigasao Linaw Lagoo",
+                  "text": "Diese ruhige Lagune ist von üppiger Küstennatur umgeben und bietet ausgewiesene Plätze für Mahlzeiten im Freien und entspannende Picknicks am Wasser.",
+                  "category": "landmark",
+                  "coords": [
+                        126.108339,
+                        9.928182
+                  ]
+            },
+            {
+                  "name": "CFF Born Again Church",
+                  "text": "Diese moderne, wiedergeborene christliche Kirche fungiert als evangelikales Gemeindezentrum und veranstaltet lebhafte Gottesdienste und Gebetsstunden auf der Insel.",
+                  "category": "religious",
+                  "coords": [
+                        126.006133,
+                        9.827721
+                  ]
+            },
+            {
+                  "name": "Salvacion Catholic Church",
+                  "text": "Diese katholische Kirche im Barangay Salvacion dient den spirituellen Bedürfnissen der einheimischen Inselbewohner mit traditionellen Messen.",
+                  "category": "landmark",
+                  "coords": [
+                        126.110642,
+                        9.846035
+                  ]
+            },
+            {
+                  "name": "His Majesty Chirstian Church",
+                  "text": "Diese lokale protestantische Gemeinde auf der Insel Siargao versammelt ihre Anhänger zu bibelzentrierten christlichen Gottesdiensten und Gemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        126.110873,
+                        9.847169
+                  ]
+            },
+            {
+                  "name": "Pilar Public Market",
+                  "text": "Dieser lebhafte öffentliche Markt dient der Gemeinde Pilar und ist der Ort, an dem die Einwohner frischen, täglich aus der Philippinensee gefangenen Fisch kaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        126.09908,
+                        9.86302
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mangrove Boardwalk (the road goes out here now)",
+                  "text": "Ez a sűrű tengerparti növényzeten keresztülhúzódó fa sétány lehetővé teszi a látogatók számára, hogy gyalog fedezzék fel a virágzó mangrove ökoszisztémát.",
+                  "category": "landmark",
+                  "coords": [
+                        125.975005,
+                        9.86656
+                  ]
+            },
+            {
+                  "name": "Siargao Island",
+                  "text": "Ezt a könnycsepp alakú szigetet a Fülöp-szigeteki-tengerben sűrű pálmaerdők borítják, és világszerte ismert első osztályú szörfözőhelyeiről.",
+                  "category": "landmark",
+                  "coords": [
+                        126.083841,
+                        9.806909
+                  ]
+            },
+            {
+                  "name": "Coconut Viewpoint",
+                  "text": "A kanyargós út mentén található magaslati kilátó lenyűgöző panorámát nyújt a zöldellő kókuszpálmák hatalmas, végtelen tengerére.",
+                  "category": "natural",
+                  "coords": [
+                        126.059308,
+                        9.812329
+                  ]
+            },
+            {
+                  "name": "Secret Lagoon at the end of the canoe ride",
+                  "text": "A mangrovék közötti festői kenuúttal megközelíthető, eldugott tengerparti lagúnát sűrű trópusi növényzet veszi körül.",
+                  "category": "landmark",
+                  "coords": [
+                        126.053722,
+                        9.827992
+                  ]
+            },
+            {
+                  "name": "Coconut Road",
+                  "text": "Ezt a festői, egyenes autópálya-szakaszt mindkét oldalról tornyosuló, sűrű kókuszültetvények szegélyezik, természetes zöld alagutat alkotva.",
+                  "category": "natural",
+                  "coords": [
+                        126.054793,
+                        9.816542
+                  ]
+            },
+            {
+                  "name": "Beto Cold Spring",
+                  "text": "A trópusi növényzet között megbúvó természetes édesvizű forrás hűvös, kristálytiszta vize tökéletes egy frissítő csobbanáshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        126.090583,
+                        9.829074
+                  ]
+            },
+            {
+                  "name": "Bugak Cold Spring",
+                  "text": "A hideg felszín alatti vizekből táplálkozó, frissítő természetes medence Siargaón pihentető kikapcsolódást nyújt a látogatóknak a helyi fák árnyékában.",
+                  "category": "landmark",
+                  "coords": [
+                        126.115165,
+                        9.828434
+                  ]
+            },
+            {
+                  "name": "Tagabayang Reef and Tidal Pools",
+                  "text": "Apálykor ezek a sziklás tengerparti képződmények tiszta árapály-medencéket tárnak fel, amelyek hemzsegnek a kis tengeri élőlényektől és a színes koralloktól.",
+                  "category": "landmark",
+                  "coords": [
+                        126.114108,
+                        9.855528
+                  ]
+            },
+            {
+                  "name": "Magpupungko Tidal Lagoons",
+                  "text": "A hullámzó óceántól egy korallzátony által elválasztott, kristálytiszta, természetes feszített víztükrű medencék csak a napi apály idején bukkannak elő.",
+                  "category": "landmark",
+                  "coords": [
+                        126.120196,
+                        9.875728
+                  ]
+            },
+            {
+                  "name": "Tayangban Cave Pool",
+                  "text": "Ebben a szárazföldi cenotéban és mészkőbarlang-rendszerben a látogatóknak sötétben, mellkasi érő vízben kell gázolniuk, mielőtt egy napfényes, nyitott medencébe érnének.",
+                  "category": "landmark",
+                  "coords": [
+                        126.063051,
+                        9.861295
+                  ]
+            },
+            {
+                  "name": "Philippine Crocodile Habitat viewpoint",
+                  "text": "Ez a kilátóterasz a sűrű mangrove vizes élőhelyekre néz, amelyek a kritikusan veszélyeztetett Fülöp-szigeteki krokodil természetes menedékhelyeként szolgálnak.",
+                  "category": "natural",
+                  "coords": [
+                        126.077148,
+                        9.8916
+                  ]
+            },
+            {
+                  "name": "Caridad Beach",
+                  "text": "A lengedező pálmafákkal szegélyezett, csendes homokos strand Siargaón nyugodt tengerparti menedéket nyújt távol a főbb turistatömegektől.",
+                  "category": "landmark",
+                  "coords": [
+                        126.110956,
+                        9.896135
+                  ]
+            },
+            {
+                  "name": "Surf Spot",
+                  "text": "Ez a part menti kilátópont kiváló rálátást nyújt a szörfösökre, amint a sziget zátonyaira csapódó csendes-óceáni hullámokkal küzdenek.",
+                  "category": "natural",
+                  "coords": [
+                        126.103849,
+                        9.944773
+                  ]
+            },
+            {
+                  "name": "Del Carmen Church",
+                  "text": "A hivatalosan Kármelhegyi Boldogasszony Plébániaként ismert történelmi templom a település kulcsfontosságú katolikus imahelye.",
+                  "category": "religious",
+                  "coords": [
+                        125.971192,
+                        9.869746
+                  ]
+            },
+            {
+                  "name": "Magpupungko Beach",
+                  "text": "Ez a fehér homokos partszakasz kapuként szolgál a szomszédos árapály-sziklamedencékhez, amelyek feltűnő mészkőképződményekkel büszkélkedhetnek.",
+                  "category": "recreational",
+                  "coords": [
+                        126.117806,
+                        9.874673
+                  ]
+            },
+            {
+                  "name": "Tigasao Linaw Lagoo",
+                  "text": "A buja tengerparti természettel körülvett nyugodt lagúna kijelölt helyeket kínál a szabadtéri étkezésekhez és a pihentető vízparti piknikekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        126.108339,
+                        9.928182
+                  ]
+            },
+            {
+                  "name": "CFF Born Again Church",
+                  "text": "Ez a modern, újjászületett keresztény templom evangéliumi közösségi központként működik, és élénk istentiszteleteknek és imaóráknak ad otthont a szigeten.",
+                  "category": "religious",
+                  "coords": [
+                        126.006133,
+                        9.827721
+                  ]
+            },
+            {
+                  "name": "Salvacion Catholic Church",
+                  "text": "A Salvacion barangayban található katolikus templom hagyományos misékkel szolgálja ki a helyi szigetlakók spirituális igényeit.",
+                  "category": "landmark",
+                  "coords": [
+                        126.110642,
+                        9.846035
+                  ]
+            },
+            {
+                  "name": "His Majesty Chirstian Church",
+                  "text": "Ez a Siargao szigetén található helyi protestáns gyülekezet Biblia-központú keresztény istentiszteletre és közösségépítésre gyűjti össze híveit.",
+                  "category": "landmark",
+                  "coords": [
+                        126.110873,
+                        9.847169
+                  ]
+            },
+            {
+                  "name": "Pilar Public Market",
+                  "text": "Pilar önkormányzatát szolgálja ki ez a nyüzsgő nyilvános piac, ahol a lakosok a Fülöp-szigeteki-tengerből naponta fogott friss halat vásárolhatnak.",
+                  "category": "cultural",
+                  "coords": [
+                        126.09908,
+                        9.86302
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mangrove Boardwalk (the road goes out here now)",
+                  "text": "Această pasarelă de lemn se extinde prin vegetația de coastă densă, permițând vizitatorilor să exploreze pe jos ecosistemul de mangrove prosper.",
+                  "category": "landmark",
+                  "coords": [
+                        125.975005,
+                        9.86656
+                  ]
+            },
+            {
+                  "name": "Siargao Island",
+                  "text": "Această insulă în formă de lacrimă din Marea Filipinelor este acoperită de păduri dense de palmieri și este renumită la nivel global pentru valurile sale de surf de clasă mondială.",
+                  "category": "landmark",
+                  "coords": [
+                        126.083841,
+                        9.806909
+                  ]
+            },
+            {
+                  "name": "Coconut Viewpoint",
+                  "text": "Situată de-a lungul unui drum șerpuit, această platformă de observare înaltă oferă o vedere panoramică extinsă peste o mare nesfârșită de palmieri verzi.",
+                  "category": "natural",
+                  "coords": [
+                        126.059308,
+                        9.812329
+                  ]
+            },
+            {
+                  "name": "Secret Lagoon at the end of the canoe ride",
+                  "text": "Accesibilă printr-o călătorie pitorească cu canoea prin mangrove, această lagună de coastă izolată este înconjurată de frunziș tropical dens.",
+                  "category": "landmark",
+                  "coords": [
+                        126.053722,
+                        9.827992
+                  ]
+            },
+            {
+                  "name": "Coconut Road",
+                  "text": "Această porțiune pitorească și dreaptă de autostradă este flancată pe ambele părți de plantații dense de cocotieri, creând un tunel verde natural.",
+                  "category": "natural",
+                  "coords": [
+                        126.054793,
+                        9.816542
+                  ]
+            },
+            {
+                  "name": "Beto Cold Spring",
+                  "text": "Ascuns printre vegetația tropicală, acest izvor natural de apă dulce are o apă rece și cristalină, perfectă pentru o baie răcoritoare.",
+                  "category": "landmark",
+                  "coords": [
+                        126.090583,
+                        9.829074
+                  ]
+            },
+            {
+                  "name": "Bugak Cold Spring",
+                  "text": "Alimentată de ape subterane reci, această piscină naturală răcoritoare de pe Siargao oferă vizitatorilor o evadare relaxantă la umbra copacilor nativi.",
+                  "category": "landmark",
+                  "coords": [
+                        126.115165,
+                        9.828434
+                  ]
+            },
+            {
+                  "name": "Tagabayang Reef and Tidal Pools",
+                  "text": "Expuse în timpul refluxului, aceste formațiuni stâncoase de coastă dezvăluie piscine de maree clare, pline de mică viață marină și corali colorați.",
+                  "category": "landmark",
+                  "coords": [
+                        126.114108,
+                        9.855528
+                  ]
+            },
+            {
+                  "name": "Magpupungko Tidal Lagoons",
+                  "text": "Separate de oceanul zbuciumat printr-un recif de corali, aceste piscine naturale infinite și cristaline apar doar în timpul refluxului zilnic.",
+                  "category": "landmark",
+                  "coords": [
+                        126.120196,
+                        9.875728
+                  ]
+            },
+            {
+                  "name": "Tayangban Cave Pool",
+                  "text": "Acest sistem de cenote și peșteri de calcar din interiorul insulei impune vizitatorilor să meargă prin apa până la piept în întuneric, înainte de a ieși într-o piscină deschisă luminată de soare.",
+                  "category": "landmark",
+                  "coords": [
+                        126.063051,
+                        9.861295
+                  ]
+            },
+            {
+                  "name": "Philippine Crocodile Habitat viewpoint",
+                  "text": "Această platformă de observare are vedere la zonele umede dense cu mangrove care servesc drept sanctuar natural pentru crocodilul filipinez, aflat în pericol critic de dispariție.",
+                  "category": "natural",
+                  "coords": [
+                        126.077148,
+                        9.8916
+                  ]
+            },
+            {
+                  "name": "Caridad Beach",
+                  "text": "Mărginită de palmieri care se leagănă, această plajă de nisip liniștită de pe Siargao oferă o evadare de coastă liniștită, departe de principalele aglomerații turistice.",
+                  "category": "landmark",
+                  "coords": [
+                        126.110956,
+                        9.896135
+                  ]
+            },
+            {
+                  "name": "Surf Spot",
+                  "text": "Acest punct de observație de coastă oferă o vedere excelentă asupra surferilor care abordează valurile Pacificului ce se sparg de recifele insulei.",
+                  "category": "natural",
+                  "coords": [
+                        126.103849,
+                        9.944773
+                  ]
+            },
+            {
+                  "name": "Del Carmen Church",
+                  "text": "Cunoscută oficial sub numele de Parohia Maicii Domnului de pe Muntele Carmel, această biserică istorică este un lăcaș cheie de cult catolic din municipiu.",
+                  "category": "religious",
+                  "coords": [
+                        125.971192,
+                        9.869746
+                  ]
+            },
+            {
+                  "name": "Magpupungko Beach",
+                  "text": "Această porțiune de coastă cu nisip alb acționează ca poartă de acces către bazinele de maree adiacente, prezentând formațiuni stâncoase calcaroase impresionante.",
+                  "category": "recreational",
+                  "coords": [
+                        126.117806,
+                        9.874673
+                  ]
+            },
+            {
+                  "name": "Tigasao Linaw Lagoo",
+                  "text": "Înconjurată de natură de coastă luxuriantă, această lagună liniștită are locuri desemnate pentru mese în aer liber și picnicuri relaxante pe malul apei.",
+                  "category": "landmark",
+                  "coords": [
+                        126.108339,
+                        9.928182
+                  ]
+            },
+            {
+                  "name": "CFF Born Again Church",
+                  "text": "Funcționând ca un centru comunitar evanghelic, această biserică creștină modernă găzduiește sesiuni pline de viață de închinare și rugăciune pe insulă.",
+                  "category": "religious",
+                  "coords": [
+                        126.006133,
+                        9.827721
+                  ]
+            },
+            {
+                  "name": "Salvacion Catholic Church",
+                  "text": "Situată în barangay-ul Salvacion, această biserică catolică deservește nevoile spirituale ale insularilor locali prin slujbe tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        126.110642,
+                        9.846035
+                  ]
+            },
+            {
+                  "name": "His Majesty Chirstian Church",
+                  "text": "Această congregație protestantă locală de pe insula Siargao își adună adepții pentru închinare creștină concentrată pe Biblie și comuniune.",
+                  "category": "landmark",
+                  "coords": [
+                        126.110873,
+                        9.847169
+                  ]
+            },
+            {
+                  "name": "Pilar Public Market",
+                  "text": "Deservind municipalitatea Pilar, această piață publică animată este locul de unde rezidenții cumpără pește proaspăt prins zilnic din Marea Filipinelor.",
+                  "category": "cultural",
+                  "coords": [
+                        126.09908,
+                        9.86302
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mangrove Boardwalk (the road goes out here now)",
+                  "text": "This wooden boardwalk extends through dense coastal vegetation, allowing visitors to explore the thriving mangrove ecosystem on foot.",
+                  "category": "landmark",
+                  "coords": [
+                        125.975005,
+                        9.86656
+                  ]
+            },
+            {
+                  "name": "Siargao Island",
+                  "text": "This teardrop-shaped island in the Philippine Sea is covered in dense palm forests and is globally renowned for its world-class surfing breaks.",
+                  "category": "landmark",
+                  "coords": [
+                        126.083841,
+                        9.806909
+                  ]
+            },
+            {
+                  "name": "Coconut Viewpoint",
+                  "text": "Located along a curving road, this elevated observation deck offers sweeping panoramic views over a vast, endless sea of green coconut palms.",
+                  "category": "natural",
+                  "coords": [
+                        126.059308,
+                        9.812329
+                  ]
+            },
+            {
+                  "name": "Secret Lagoon at the end of the canoe ride",
+                  "text": "Accessible via a scenic canoe journey through the mangroves, this secluded coastal lagoon is surrounded by dense tropical foliage.",
+                  "category": "landmark",
+                  "coords": [
+                        126.053722,
+                        9.827992
+                  ]
+            },
+            {
+                  "name": "Coconut Road",
+                  "text": "This scenic, straight stretch of highway is flanked on both sides by towering, dense coconut plantations, creating a natural green tunnel.",
+                  "category": "natural",
+                  "coords": [
+                        126.054793,
+                        9.816542
+                  ]
+            },
+            {
+                  "name": "Beto Cold Spring",
+                  "text": "Hidden amidst tropical vegetation, this natural freshwater spring features cool, crystal-clear water perfect for a refreshing dip.",
+                  "category": "landmark",
+                  "coords": [
+                        126.090583,
+                        9.829074
+                  ]
+            },
+            {
+                  "name": "Bugak Cold Spring",
+                  "text": "Fed by cold subterranean waters, this refreshing natural pool on Siargao offers visitors a relaxing escape under the shade of native trees.",
+                  "category": "landmark",
+                  "coords": [
+                        126.115165,
+                        9.828434
+                  ]
+            },
+            {
+                  "name": "Tagabayang Reef and Tidal Pools",
+                  "text": "Exposed during low tide, these rocky coastal formations reveal clear tidal pools teeming with small marine life and colorful corals.",
+                  "category": "landmark",
+                  "coords": [
+                        126.114108,
+                        9.855528
+                  ]
+            },
+            {
+                  "name": "Magpupungko Tidal Lagoons",
+                  "text": "Separated from the crashing ocean by a coral reef, these crystal-clear natural infinity pools only emerge during the daily low tide.",
+                  "category": "landmark",
+                  "coords": [
+                        126.120196,
+                        9.875728
+                  ]
+            },
+            {
+                  "name": "Tayangban Cave Pool",
+                  "text": "This inland cenote and limestone cave system requires visitors to wade through chest-deep water in the dark before emerging into a sunlit open pool.",
+                  "category": "landmark",
+                  "coords": [
+                        126.063051,
+                        9.861295
+                  ]
+            },
+            {
+                  "name": "Philippine Crocodile Habitat viewpoint",
+                  "text": "This observation deck overlooks the dense mangrove wetlands that serve as a natural sanctuary for the critically endangered Philippine crocodile.",
+                  "category": "natural",
+                  "coords": [
+                        126.077148,
+                        9.8916
+                  ]
+            },
+            {
+                  "name": "Caridad Beach",
+                  "text": "Lined with swaying palm trees, this quiet sandy beach on Siargao provides a tranquil coastal escape far from the main tourist crowds.",
+                  "category": "landmark",
+                  "coords": [
+                        126.110956,
+                        9.896135
+                  ]
+            },
+            {
+                  "name": "Surf Spot",
+                  "text": "This coastal vantage point offers an excellent view of surfers tackling the rolling Pacific swells that crash onto the island's reefs.",
+                  "category": "natural",
+                  "coords": [
+                        126.103849,
+                        9.944773
+                  ]
+            },
+            {
+                  "name": "Del Carmen Church",
+                  "text": "Formally known as the Our Lady of Mount Carmel Parish, this historic church stands as a key site of Catholic worship in the municipality.",
+                  "category": "religious",
+                  "coords": [
+                        125.971192,
+                        9.869746
+                  ]
+            },
+            {
+                  "name": "Magpupungko Beach",
+                  "text": "This stretch of white sandy coastline acts as the gateway to the adjacent tidal rock pools, featuring striking limestone rock formations.",
+                  "category": "recreational",
+                  "coords": [
+                        126.117806,
+                        9.874673
+                  ]
+            },
+            {
+                  "name": "Tigasao Linaw Lagoo",
+                  "text": "Surrounded by lush coastal nature, this tranquil lagoon features designated spots for outdoor dining and relaxing waterside picnics.",
+                  "category": "landmark",
+                  "coords": [
+                        126.108339,
+                        9.928182
+                  ]
+            },
+            {
+                  "name": "CFF Born Again Church",
+                  "text": "Operating as an evangelical community center, this modern born-again Christian church hosts lively worship and prayer sessions on the island.",
+                  "category": "religious",
+                  "coords": [
+                        126.006133,
+                        9.827721
+                  ]
+            },
+            {
+                  "name": "Salvacion Catholic Church",
+                  "text": "Located in the barangay of Salvacion, this Catholic church serves the spiritual needs of the local islanders with traditional mass.",
+                  "category": "landmark",
+                  "coords": [
+                        126.110642,
+                        9.846035
+                  ]
+            },
+            {
+                  "name": "His Majesty Chirstian Church",
+                  "text": "This local Protestant congregation on Siargao island gathers its followers for Bible-focused Christian worship and fellowship.",
+                  "category": "landmark",
+                  "coords": [
+                        126.110873,
+                        9.847169
+                  ]
+            },
+            {
+                  "name": "Pilar Public Market",
+                  "text": "Serving the municipality of Pilar, this lively public market is where residents buy fresh fish caught daily from the Philippine Sea.",
+                  "category": "cultural",
+                  "coords": [
+                        126.09908,
+                        9.86302
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "PH-SUR",
     coords: [126.05, 9.8833],
@@ -863,7 +8774,880 @@ image: "/poi-images/ph-mindoro-strait-nature-v2.webp",
     
   },
   {
-    id: "ph-el-nido-managed-resource-protected-area-nature-v2",
+    id: "ph-el-nido-managed-resource-protected-area-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lonely beach",
+                  "text": "Ein abgelegener Strand in El Nido, der hinter hoch aufragenden Kalksteinfelsen versteckt liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        119.398429,
+                        11.197853
+                  ]
+            },
+            {
+                  "name": "Helicopter Island",
+                  "text": "Eine markante Insel in El Nido, die aufgrund ihrer Form mit einem gezackten Kalksteinschwanz an einen Hubschrauber erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        119.338534,
+                        11.196318
+                  ]
+            },
+            {
+                  "name": "Cadlao Lagoon",
+                  "text": "Eine smaragdgrüne Lagune auf der Insel Cadlao, die von dramatischen Karstfelsen umschlossen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        119.344639,
+                        11.213473
+                  ]
+            },
+            {
+                  "name": "Ubugon Cove",
+                  "text": "Eine versteckte Bucht auf der Insel Cadlao, die nur mit dem Boot oder Kajak erreichbar ist.",
+                  "category": "landmark",
+                  "coords": [
+                        119.345573,
+                        11.214227
+                  ]
+            },
+            {
+                  "name": "Pasandigan Cove",
+                  "text": "Ein Schnorchelplatz auf der Insel Cadlao mit klarem Wasser und vielfältigen Korallenriffen.",
+                  "category": "landmark",
+                  "coords": [
+                        119.357178,
+                        11.20838
+                  ]
+            },
+            {
+                  "name": "Tao Base Camp - Cadlao",
+                  "text": "Ein nachhaltiges Basislager für Öko-Expeditionen an den zerklüfteten Ufern der Insel Cadlao.",
+                  "category": "landmark",
+                  "coords": [
+                        119.361165,
+                        11.217862
+                  ]
+            },
+            {
+                  "name": "Pasimbahan Magsanib",
+                  "text": "Eine bedeutende archäologische Stätte im Dewil-Tal, wo antike menschliche Überreste entdeckt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        119.493165,
+                        11.214658
+                  ]
+            },
+            {
+                  "name": "Ille Cave",
+                  "text": "Eine prähistorische Höhlenstätte im Dewil-Tal, die für ihre neolithischen Bestattungsfunde bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        119.506196,
+                        11.196908
+                  ]
+            },
+            {
+                  "name": "PALAWAN ECO-AGRO PARK TRAINING CENTER",
+                  "text": "Ein Bildungszentrum, das nachhaltige Landwirtschaftstechniken und organischen Anbau auf Palawan demonstriert.",
+                  "category": "landmark",
+                  "coords": [
+                        119.456628,
+                        11.218871
+                  ]
+            },
+            {
+                  "name": "Nagkalit-Kalit Waterfalls",
+                  "text": "Zwei Dschungelwasserfälle, die über einen Wanderweg durch Flüsse und dichte Wälder erreichbar sind.",
+                  "category": "landmark",
+                  "coords": [
+                        119.445701,
+                        11.251669
+                  ]
+            },
+            {
+                  "name": "ART CAFE FARM",
+                  "text": "Ein ökologischer Bauernhof, der frische Produkte für das berühmte Art Cafe in El Nido liefert.",
+                  "category": "landmark",
+                  "coords": [
+                        119.432748,
+                        11.196371
+                  ]
+            },
+            {
+                  "name": "Marimegmeg Beach",
+                  "text": "Ein beliebter Strand für Sonnenuntergänge, gesäumt von Kokospalmen und entspannten Strandbars.",
+                  "category": "landmark",
+                  "coords": [
+                        119.396963,
+                        11.146891
+                  ]
+            },
+            {
+                  "name": "Start Ziplineweg",
+                  "text": "Der Startpunkt für die 750 Meter lange Seilrutsche, die das Festland mit der Insel Depeldet verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        119.394518,
+                        11.144915
+                  ]
+            },
+            {
+                  "name": "palawan zipline adventure",
+                  "text": "Ein luftiges Abenteuer über dem Ozean, das das Festland mit einer kleinen vorgelagerten Insel verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        119.396838,
+                        11.144425
+                  ]
+            },
+            {
+                  "name": "The Philippine Experience",
+                  "text": "Ein Kulturzentrum, das praktische Workshops zu traditioneller philippinischer Küche und Handwerk anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        119.398426,
+                        11.140974
+                  ]
+            },
+            {
+                  "name": "Dolarog Beach",
+                  "text": "Ein ruhiger Küstenabschnitt südlich des Stadtzentrums von El Nido, ideal für eine friedliche Auszeit.",
+                  "category": "landmark",
+                  "coords": [
+                        119.399158,
+                        11.134798
+                  ]
+            },
+            {
+                  "name": "El Nido Zipline eastbound",
+                  "text": "Die Rückstrecke der Seilrutsche, die über das türkisfarbene Küstenwasser zurück zum Festland führt.",
+                  "category": "landmark",
+                  "coords": [
+                        119.390427,
+                        11.14576
+                  ]
+            },
+            {
+                  "name": "CED Farm & Resort",
+                  "text": "Ein Resort im Landesinneren, das landwirtschaftliche Touren mit tropischen Gartenanlagen kombiniert.",
+                  "category": "landmark",
+                  "coords": [
+                        119.421727,
+                        11.128547
+                  ]
+            },
+            {
+                  "name": "Serendipity Beach",
+                  "text": "Ein abgelegener Strandstreifen, perfekt für Reisende, die Ruhe und unberührte Natur suchen.",
+                  "category": "landmark",
+                  "coords": [
+                        119.345834,
+                        11.20938
+                  ]
+            },
+            {
+                  "name": "Dewil Valley Museum",
+                  "text": "Dieses Museum stellt prähistorische Steinwerkzeuge und Fossilien aus, die in den lokalen Dewil-Höhlen ausgegraben wurden.",
+                  "category": "museum",
+                  "coords": [
+                        119.506692,
+                        11.195813
+                  ]
+            },
+            {
+                  "name": "Lio Beach",
+                  "text": "Ein nachhaltiges Strandziel mit einem langen weißen Sandstrand in der Nähe des Flughafens von El Nido.",
+                  "category": "recreational",
+                  "coords": [
+                        119.412749,
+                        11.207615
+                  ]
+            },
+            {
+                  "name": "Ipil Beach",
+                  "text": "Ein abgelegener Strand mit hellem Sand, der von hohen Kalksteinfelsen und dichten Palmen gesäumt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        119.39447,
+                        11.119792
+                  ]
+            },
+            {
+                  "name": "Jesus is Lord Church",
+                  "text": "Eine lokale christliche Kirche, die als Versammlungsort für die Gemeinde in der Nähe der Küste dient.",
+                  "category": "landmark",
+                  "coords": [
+                        119.42627,
+                        11.19769
+                  ]
+            },
+            {
+                  "name": "Public Market",
+                  "text": "Ein lebhafter Marktplatz, auf dem frischer Fisch und lokale landwirtschaftliche Erzeugnisse der Region verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        119.423426,
+                        11.198846
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lonely beach",
+                  "text": "Egy eldugott strand El Nidóban, amely magasodó mészkősziklák mögött rejtőzik.",
+                  "category": "landmark",
+                  "coords": [
+                        119.398429,
+                        11.197853
+                  ]
+            },
+            {
+                  "name": "Helicopter Island",
+                  "text": "Egy jellegzetes sziget El Nidóban, amely formája és csipkés mészkőfarka miatt egy helikopterre emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        119.338534,
+                        11.196318
+                  ]
+            },
+            {
+                  "name": "Cadlao Lagoon",
+                  "text": "Egy smaragdzöld lagúna a Cadlao-szigeten, amelyet drámai karsztsziklák vesznek körül.",
+                  "category": "landmark",
+                  "coords": [
+                        119.344639,
+                        11.213473
+                  ]
+            },
+            {
+                  "name": "Ubugon Cove",
+                  "text": "Egy rejtett öböl a Cadlao-szigeten, amely csak csónakkal vagy kajakkal közelíthető meg.",
+                  "category": "landmark",
+                  "coords": [
+                        119.345573,
+                        11.214227
+                  ]
+            },
+            {
+                  "name": "Pasandigan Cove",
+                  "text": "Egy búvárkodásra alkalmas hely a Cadlao-szigeten, tiszta vízzel és változatos korallzátonyokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        119.357178,
+                        11.20838
+                  ]
+            },
+            {
+                  "name": "Tao Base Camp - Cadlao",
+                  "text": "Egy fenntartható bázistábor öko-expedíciók számára a Cadlao-sziget tagolt partjainál.",
+                  "category": "landmark",
+                  "coords": [
+                        119.361165,
+                        11.217862
+                  ]
+            },
+            {
+                  "name": "Pasimbahan Magsanib",
+                  "text": "Egy jelentős régészeti lelőhely a Dewil-völgyben, ahol ősi emberi maradványokat fedeztek fel.",
+                  "category": "historical",
+                  "coords": [
+                        119.493165,
+                        11.214658
+                  ]
+            },
+            {
+                  "name": "Ille Cave",
+                  "text": "Egy őskori barlangi lelőhely a Dewil-völgyben, amely neolitikus temetkezési leleteiről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        119.506196,
+                        11.196908
+                  ]
+            },
+            {
+                  "name": "PALAWAN ECO-AGRO PARK TRAINING CENTER",
+                  "text": "Egy oktatási központ, amely a fenntartható mezőgazdasági technikákat és a biogazdálkodást mutatja be Palawanon.",
+                  "category": "landmark",
+                  "coords": [
+                        119.456628,
+                        11.218871
+                  ]
+            },
+            {
+                  "name": "Nagkalit-Kalit Waterfalls",
+                  "text": "Két dzsungel-vízesés, amely folyókon és sűrű erdőkön átvezető túraúton érhető el.",
+                  "category": "landmark",
+                  "coords": [
+                        119.445701,
+                        11.251669
+                  ]
+            },
+            {
+                  "name": "ART CAFE FARM",
+                  "text": "Egy ökológiai gazdaság, amely friss terményeket biztosít El Nido híres Art Cafe-ja számára.",
+                  "category": "landmark",
+                  "coords": [
+                        119.432748,
+                        11.196371
+                  ]
+            },
+            {
+                  "name": "Marimegmeg Beach",
+                  "text": "Népszerű strand a naplemente megtekintéséhez, kókuszpálmákkal és hangulatos tengerparti bárokkal szegélyezve.",
+                  "category": "landmark",
+                  "coords": [
+                        119.396963,
+                        11.146891
+                  ]
+            },
+            {
+                  "name": "Entrance Zipline",
+                  "text": "A 750 méter hosszú kötélpálya kiindulópontja, amely a szárazföldet köti össze a Depeldet-szigettel.",
+                  "category": "landmark",
+                  "coords": [
+                        119.394518,
+                        11.144915
+                  ]
+            },
+            {
+                  "name": "palawan zipline adventure",
+                  "text": "Egy izgalmas légi kaland az óceán felett, amely a szárazföldet köti össze egy kis közeli szigettel.",
+                  "category": "landmark",
+                  "coords": [
+                        119.396838,
+                        11.144425
+                  ]
+            },
+            {
+                  "name": "The Philippine Experience",
+                  "text": "Egy kulturális központ, amely gyakorlati workshopokat kínál a hagyományos fülöp-szigeteki konyháról és kézművességről.",
+                  "category": "landmark",
+                  "coords": [
+                        119.398426,
+                        11.140974
+                  ]
+            },
+            {
+                  "name": "Dolarog Beach",
+                  "text": "Egy csendes tengerparti szakasz El Nido városközpontjától délre, amely ideális a nyugodt kikapcsolódáshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        119.399158,
+                        11.134798
+                  ]
+            },
+            {
+                  "name": "El Nido Zipline eastbound",
+                  "text": "A kötélpálya visszavezető szakasza, amely a türkizkék parti vizek felett siklik vissza a szárazföldre.",
+                  "category": "landmark",
+                  "coords": [
+                        119.390427,
+                        11.14576
+                  ]
+            },
+            {
+                  "name": "CED Farm & Resort",
+                  "text": "Egy szárazföldi üdülőhely, amely mezőgazdasági túrákat és trópusi kerteket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        119.421727,
+                        11.128547
+                  ]
+            },
+            {
+                  "name": "Serendipity Beach",
+                  "text": "Egy eldugott tengerparti sáv, amely tökéletes a nyugalmat és érintetlen természeti szépséget kereső utazók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        119.345834,
+                        11.20938
+                  ]
+            },
+            {
+                  "name": "Dewil Valley Museum",
+                  "text": "Ez a múzeum a helyi Dewil-barlangokban feltárt őskori kőeszközöket és kövületeket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        119.506692,
+                        11.195813
+                  ]
+            },
+            {
+                  "name": "Lio Beach",
+                  "text": "Egy fenntartható tengerparti célpont hosszú, fehér homokos parttal El Nido repülőterének közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        119.412749,
+                        11.207615
+                  ]
+            },
+            {
+                  "name": "Ipil Beach",
+                  "text": "Félreeső, világos homokos tengerpart, amelyet magas mészkősziklák és sűrű pálmák öveznek.",
+                  "category": "recreational",
+                  "coords": [
+                        119.39447,
+                        11.119792
+                  ]
+            },
+            {
+                  "name": "Jesus is Lord Church",
+                  "text": "Helyi keresztény templom, amely a tengerpart közelében élő közösség gyülekezőhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        119.42627,
+                        11.19769
+                  ]
+            },
+            {
+                  "name": "Public Market",
+                  "text": "Nyüzsgő piactér, ahol friss halat és a régió helyi mezőgazdasági termékeit árusítják.",
+                  "category": "cultural",
+                  "coords": [
+                        119.423426,
+                        11.198846
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lonely beach",
+                  "text": "O plajă retrasă în El Nido, ascunsă în spatele stâncilor de calcar impunătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        119.398429,
+                        11.197853
+                  ]
+            },
+            {
+                  "name": "Helicopter Island",
+                  "text": "O insulă distinctivă în El Nido, care seamănă cu un elicopter datorită formei sale și a cozii de calcar zimțate.",
+                  "category": "landmark",
+                  "coords": [
+                        119.338534,
+                        11.196318
+                  ]
+            },
+            {
+                  "name": "Cadlao Lagoon",
+                  "text": "O lagună de smarald pe insula Cadlao, înconjurată de stânci carstice dramatice.",
+                  "category": "landmark",
+                  "coords": [
+                        119.344639,
+                        11.213473
+                  ]
+            },
+            {
+                  "name": "Ubugon Cove",
+                  "text": "Un golfuleț ascuns pe insula Cadlao, accesibil doar cu barca sau caiacul.",
+                  "category": "landmark",
+                  "coords": [
+                        119.345573,
+                        11.214227
+                  ]
+            },
+            {
+                  "name": "Pasandigan Cove",
+                  "text": "Un loc pentru snorkeling pe insula Cadlao, cu ape limpezi și recife de corali diverse.",
+                  "category": "landmark",
+                  "coords": [
+                        119.357178,
+                        11.20838
+                  ]
+            },
+            {
+                  "name": "Tao Base Camp - Cadlao",
+                  "text": "O tabără de bază sustenabilă pentru expediții ecologice pe malurile stâncoase ale insulei Cadlao.",
+                  "category": "landmark",
+                  "coords": [
+                        119.361165,
+                        11.217862
+                  ]
+            },
+            {
+                  "name": "Pasimbahan Magsanib",
+                  "text": "Un sit arheologic important în Valea Dewil, unde au fost descoperite rămășițe umane antice.",
+                  "category": "historical",
+                  "coords": [
+                        119.493165,
+                        11.214658
+                  ]
+            },
+            {
+                  "name": "Ille Cave",
+                  "text": "Un sit cavernicol preistoric în Valea Dewil, cunoscut pentru descoperirile de morminte neolitice.",
+                  "category": "historical",
+                  "coords": [
+                        119.506196,
+                        11.196908
+                  ]
+            },
+            {
+                  "name": "PALAWAN ECO-AGRO PARK TRAINING CENTER",
+                  "text": "Un centru educațional care demonstrează tehnici agricole sustenabile și cultivarea organică în Palawan.",
+                  "category": "landmark",
+                  "coords": [
+                        119.456628,
+                        11.218871
+                  ]
+            },
+            {
+                  "name": "Nagkalit-Kalit Waterfalls",
+                  "text": "Două cascade din junglă, accesibile printr-un traseu de drumeție prin râuri și păduri dese.",
+                  "category": "landmark",
+                  "coords": [
+                        119.445701,
+                        11.251669
+                  ]
+            },
+            {
+                  "name": "ART CAFE FARM",
+                  "text": "O fermă ecologică ce furnizează produse proaspete pentru faimoasa Art Cafe din El Nido.",
+                  "category": "landmark",
+                  "coords": [
+                        119.432748,
+                        11.196371
+                  ]
+            },
+            {
+                  "name": "Marimegmeg Beach",
+                  "text": "O plajă populară pentru apusuri de soare, mărginită de cocotieri și baruri de plajă relaxate.",
+                  "category": "landmark",
+                  "coords": [
+                        119.396963,
+                        11.146891
+                  ]
+            },
+            {
+                  "name": "Entrance Zipline",
+                  "text": "Punctul de plecare pentru tiroliana de 750 de metri care conectează continentul de insula Depeldet.",
+                  "category": "landmark",
+                  "coords": [
+                        119.394518,
+                        11.144915
+                  ]
+            },
+            {
+                  "name": "palawan zipline adventure",
+                  "text": "O aventură aeriană peste ocean care conectează continentul de o mică insulă din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        119.396838,
+                        11.144425
+                  ]
+            },
+            {
+                  "name": "The Philippine Experience",
+                  "text": "Un centru cultural care oferă ateliere practice de bucătărie tradițională filipineză și meșteșuguri.",
+                  "category": "landmark",
+                  "coords": [
+                        119.398426,
+                        11.140974
+                  ]
+            },
+            {
+                  "name": "Dolarog Beach",
+                  "text": "O porțiune de coastă liniștită la sud de centrul orașului El Nido, ideală pentru o evadare pașnică.",
+                  "category": "landmark",
+                  "coords": [
+                        119.399158,
+                        11.134798
+                  ]
+            },
+            {
+                  "name": "El Nido Zipline eastbound",
+                  "text": "Traseul de întoarcere al tirolienei, care alunecă peste apele de coastă turcoaz înapoi spre continent.",
+                  "category": "landmark",
+                  "coords": [
+                        119.390427,
+                        11.14576
+                  ]
+            },
+            {
+                  "name": "CED Farm & Resort",
+                  "text": "O stațiune în interiorul insulei care combină tururile agricole cu grădinile tropicale.",
+                  "category": "landmark",
+                  "coords": [
+                        119.421727,
+                        11.128547
+                  ]
+            },
+            {
+                  "name": "Serendipity Beach",
+                  "text": "O fâșie de plajă izolată, perfectă pentru călătorii care caută liniște și frumusețe naturală virgină.",
+                  "category": "landmark",
+                  "coords": [
+                        119.345834,
+                        11.20938
+                  ]
+            },
+            {
+                  "name": "Dewil Valley Museum",
+                  "text": "Acest muzeu expune unelte de piatră preistorice și fosile excavate din peșterile locale Dewil.",
+                  "category": "museum",
+                  "coords": [
+                        119.506692,
+                        11.195813
+                  ]
+            },
+            {
+                  "name": "Lio Beach",
+                  "text": "O destinație de plajă sustenabilă, cu o fâșie lungă de nisip alb, situată lângă aeroportul din El Nido.",
+                  "category": "recreational",
+                  "coords": [
+                        119.412749,
+                        11.207615
+                  ]
+            },
+            {
+                  "name": "Ipil Beach",
+                  "text": "O plajă izolată cu nisip deschis, mărginită de stânci înalte de calcar și palmieri deși.",
+                  "category": "recreational",
+                  "coords": [
+                        119.39447,
+                        11.119792
+                  ]
+            },
+            {
+                  "name": "Jesus is Lord Church",
+                  "text": "O biserică creștină locală care servește ca loc de adunare pentru comunitatea de lângă coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        119.42627,
+                        11.19769
+                  ]
+            },
+            {
+                  "name": "Public Market",
+                  "text": "O piață plină de viață unde se vând pește proaspăt și produse agricole locale din regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        119.423426,
+                        11.198846
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lonely beach",
+                  "text": "A secluded beach in El Nido tucked away behind towering limestone cliffs.",
+                  "category": "landmark",
+                  "coords": [
+                        119.398429,
+                        11.197853
+                  ]
+            },
+            {
+                  "name": "Helicopter Island",
+                  "text": "A distinctive island in El Nido shaped like a helicopter with a jagged limestone tail.",
+                  "category": "landmark",
+                  "coords": [
+                        119.338534,
+                        11.196318
+                  ]
+            },
+            {
+                  "name": "Cadlao Lagoon",
+                  "text": "An emerald lagoon on Cadlao Island enclosed by dramatic karst limestone peaks.",
+                  "category": "landmark",
+                  "coords": [
+                        119.344639,
+                        11.213473
+                  ]
+            },
+            {
+                  "name": "Ubugon Cove",
+                  "text": "A hidden cove on Cadlao Island accessible only by boat or kayak.",
+                  "category": "landmark",
+                  "coords": [
+                        119.345573,
+                        11.214227
+                  ]
+            },
+            {
+                  "name": "Pasandigan Cove",
+                  "text": "A snorkeling spot on Cadlao Island featuring clear waters and diverse coral reefs.",
+                  "category": "landmark",
+                  "coords": [
+                        119.357178,
+                        11.20838
+                  ]
+            },
+            {
+                  "name": "Tao Base Camp - Cadlao",
+                  "text": "A sustainable base camp for eco-expeditions on the rugged shores of Cadlao Island.",
+                  "category": "landmark",
+                  "coords": [
+                        119.361165,
+                        11.217862
+                  ]
+            },
+            {
+                  "name": "Pasimbahan Magsanib",
+                  "text": "An important archaeological site in the Dewil Valley where ancient human remains were discovered.",
+                  "category": "historical",
+                  "coords": [
+                        119.493165,
+                        11.214658
+                  ]
+            },
+            {
+                  "name": "Ille cave",
+                  "text": "A prehistoric cave site in the Dewil Valley known for its Neolithic burial discoveries.",
+                  "category": "historical",
+                  "coords": [
+                        119.506196,
+                        11.196908
+                  ]
+            },
+            {
+                  "name": "PALAWAN ECO-AGRO PARK TRAINING CENTER",
+                  "text": "An educational center showcasing sustainable farming techniques and organic agriculture in Palawan.",
+                  "category": "landmark",
+                  "coords": [
+                        119.456628,
+                        11.218871
+                  ]
+            },
+            {
+                  "name": "Nagkalit-Kalit Waterfalls",
+                  "text": "A pair of jungle waterfalls reached via a trekking trail through rivers and dense forests.",
+                  "category": "landmark",
+                  "coords": [
+                        119.445701,
+                        11.251669
+                  ]
+            },
+            {
+                  "name": "ART CAFE FARM",
+                  "text": "An organic farm that provides fresh produce to El Nido's famous Art Cafe.",
+                  "category": "landmark",
+                  "coords": [
+                        119.432748,
+                        11.196371
+                  ]
+            },
+            {
+                  "name": "Marimegmeg Beach",
+                  "text": "A popular sunset beach lined with coconut palms and relaxed beach bars.",
+                  "category": "landmark",
+                  "coords": [
+                        119.396963,
+                        11.146891
+                  ]
+            },
+            {
+                  "name": "Entrance Zipline",
+                  "text": "The starting point for the 750-meter zipline connecting the mainland to Depeldet Island.",
+                  "category": "landmark",
+                  "coords": [
+                        119.394518,
+                        11.144915
+                  ]
+            },
+            {
+                  "name": "palawan zipline adventure",
+                  "text": "An aerial adventure over the ocean connecting the mainland to a small nearby islet.",
+                  "category": "landmark",
+                  "coords": [
+                        119.396838,
+                        11.144425
+                  ]
+            },
+            {
+                  "name": "The Philippine Experience",
+                  "text": "A cultural center offering hands-on workshops on traditional Filipino cooking and crafts.",
+                  "category": "landmark",
+                  "coords": [
+                        119.398426,
+                        11.140974
+                  ]
+            },
+            {
+                  "name": "Dolarog Beach",
+                  "text": "A quiet coastal stretch south of El Nido town center, ideal for a peaceful escape.",
+                  "category": "landmark",
+                  "coords": [
+                        119.399158,
+                        11.134798
+                  ]
+            },
+            {
+                  "name": "El Nido Zipline eastbound",
+                  "text": "The return leg of the zipline, gliding over the turquoise coastal waters back towards the mainland.",
+                  "category": "landmark",
+                  "coords": [
+                        119.390427,
+                        11.14576
+                  ]
+            },
+            {
+                  "name": "CED Farm & Resort",
+                  "text": "An inland resort combining agricultural tours with tropical garden settings.",
+                  "category": "landmark",
+                  "coords": [
+                        119.421727,
+                        11.128547
+                  ]
+            },
+            {
+                  "name": "Serendipity Beach",
+                  "text": "A secluded beach strip perfect for travelers seeking quiet and untouched natural beauty.",
+                  "category": "landmark",
+                  "coords": [
+                        119.345834,
+                        11.20938
+                  ]
+            },
+            {
+                  "name": "Dewil Valley Museum",
+                  "text": "This museum exhibits prehistoric stone tools and fossils excavated from the local Dewil caves.",
+                  "category": "museum",
+                  "coords": [
+                        119.506692,
+                        11.195813
+                  ]
+            },
+            {
+                  "name": "Lio Beach",
+                  "text": "A sustainable beach destination featuring a long, white sand shore near El Nido airport.",
+                  "category": "recreational",
+                  "coords": [
+                        119.412749,
+                        11.207615
+                  ]
+            },
+            {
+                  "name": "Ipil Beach",
+                  "text": "A secluded light-sand beach framed by tall limestone cliffs and dense palm trees.",
+                  "category": "recreational",
+                  "coords": [
+                        119.39447,
+                        11.119792
+                  ]
+            },
+            {
+                  "name": "Jesus is Lord Church",
+                  "text": "A local Christian church serving as a gathering place for the community near the coast.",
+                  "category": "landmark",
+                  "coords": [
+                        119.42627,
+                        11.19769
+                  ]
+            },
+            {
+                  "name": "Public Market",
+                  "text": "A bustling marketplace selling fresh seafood and local agricultural produce from the region.",
+                  "category": "cultural",
+                  "coords": [
+                        119.423426,
+                        11.198846
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "PH-PLW",
     coords: [119.4167, 11.2],
@@ -917,7 +9701,1168 @@ image: "/poi-images/ph-el-nido-managed-resource-protected-area-nature-v2.webp",
     
   },
   {
-    id: "ph-banaue-rice-terraces-nature-v2",
+    id: "ph-banaue-rice-terraces-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hapao Viewpoint",
+                  "text": "Ein malerischer Aussichtspunkt, der einen Panoramablick auf die kaskadenartigen Reisterrassen von Hapao bietet.",
+                  "category": "natural",
+                  "coords": [
+                        121.009484,
+                        16.882366
+                  ]
+            },
+            {
+                  "name": "Banaue Arc",
+                  "text": "Der Willkommensbogen, der einen Aussichtspunkt über die berühmten Berglandschaften von Ifugao bietet.",
+                  "category": "natural",
+                  "coords": [
+                        121.061069,
+                        16.879926
+                  ]
+            },
+            {
+                  "name": "MRAVIN GUIDE",
+                  "text": "Ein lokaler Führerdienst zur Erkundung der verschlungenen Pfade der Reisterrassen von Banaue.",
+                  "category": "landmark",
+                  "coords": [
+                        121.060261,
+                        16.913082
+                  ]
+            },
+            {
+                  "name": "Baguio Viewpoint",
+                  "text": "Eine erhöhte Aussichtsplattform mit Blick auf das gebirgige Gelände.",
+                  "category": "natural",
+                  "coords": [
+                        121.061749,
+                        16.912061
+                  ]
+            },
+            {
+                  "name": "Fish hatchery",
+                  "text": "Eine Aquakulturanlage zur Zucht lokaler Fischarten inmitten der terrassierten Berglandschaften.",
+                  "category": "landmark",
+                  "coords": [
+                        121.09715,
+                        16.912566
+                  ]
+            },
+            {
+                  "name": "Bangaan View",
+                  "text": "Ein Aussichtspunkt, der eine klare Perspektive auf das traditionelle Ifugao-Dorf Bangaan und seine umliegenden Terrassen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        121.126608,
+                        16.91333
+                  ]
+            },
+            {
+                  "name": "Cambulo Rice Terraces",
+                  "text": "Ein weitläufiges Amphitheater aus alten, in die Berghänge gehauenen Reisfeldern mit Steinmauern.",
+                  "category": "landmark",
+                  "coords": [
+                        121.125805,
+                        16.95492
+                  ]
+            },
+            {
+                  "name": "Banaue Rice Terraces View Deck",
+                  "text": "Eine ausgewiesene Aussichtsplattform, die einen weiten Blick über die alte, handgeschnitzte Agrarlandschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        121.057736,
+                        16.935481
+                  ]
+            },
+            {
+                  "name": "Ifugao Ethnic Village",
+                  "text": "Ein kultureller Museumskomplex mit traditionellen Holzhäusern und indigenen Artefakten des Ifugao-Volkes.",
+                  "category": "museum",
+                  "coords": [
+                        121.056091,
+                        16.947914
+                  ]
+            },
+            {
+                  "name": "Mount Polis Pass",
+                  "text": "Ein hochgelegener Gebirgspass mit weitem Blick auf die Cordillera-Bergkette.",
+                  "category": "natural",
+                  "coords": [
+                        121.02693,
+                        16.965988
+                  ]
+            },
+            {
+                  "name": "Dianarra Viewdeck 6",
+                  "text": "Eine der nummerierten Aussichtsplattformen entlang der Straße, um die riesigen Reisterrassen zu bewundern.",
+                  "category": "natural",
+                  "coords": [
+                        121.05541,
+                        16.933024
+                  ]
+            },
+            {
+                  "name": "viewpoint 30 Php",
+                  "text": "Ein bescheidener Aussichtspunkt am Straßenrand, der gegen eine kleine Gebühr einen malerischen Blick auf die Terrassen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        121.053381,
+                        16.926832
+                  ]
+            },
+            {
+                  "name": "Juuno's Playground",
+                  "text": "Ein malerischer, erhöhter Bereich, der Erholungsraum und Ausblicke auf die umliegende Berglandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        120.984692,
+                        16.978384
+                  ]
+            },
+            {
+                  "name": "Mount Polis",
+                  "text": "Ein markanter Gipfel in der Cordillera Central mit einer Höhe von 1940 Metern zwischen den Provinzen Ifugao und Mountain Province.",
+                  "category": "natural",
+                  "coords": [
+                        121.029167,
+                        16.974722
+                  ]
+            },
+            {
+                  "name": "Mountain View",
+                  "text": "Ein malerischer Aussichtspunkt mit ungehindertem Panorama auf die üppigen Gipfel der Cordilleren.",
+                  "category": "natural",
+                  "coords": [
+                        121.134621,
+                        16.940613
+                  ]
+            },
+            {
+                  "name": "Tappiya Falls",
+                  "text": "Ein mächtiger, 70 Meter hoher Wasserfall, der tief in den Bergen in der Nähe der Reisterrassen von Batad versteckt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        121.136504,
+                        16.93917
+                  ]
+            },
+            {
+                  "name": "Batad",
+                  "text": "Ein markanter Aussichtspunkt mit Blick auf die spektakulären, amphitheatralischen Reisterrassen des abgelegenen Dorfes Batad.",
+                  "category": "natural",
+                  "coords": [
+                        121.135487,
+                        16.937407
+                  ]
+            },
+            {
+                  "name": "Awa Viewpoint",
+                  "text": "Ein steiler Aussichtspunkt auf einem Bergrücken, der dramatische Ausblicke über das gesamte Reisterrassensystem von Batad bietet.",
+                  "category": "natural",
+                  "coords": [
+                        121.15011,
+                        16.935519
+                  ]
+            },
+            {
+                  "name": "Ifugao hut",
+                  "text": "Ein traditionelles, erhöhtes, fensterloses Holzhaus mit Strohdach, das die indigene Architektur zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        121.066069,
+                        16.905393
+                  ]
+            },
+            {
+                  "name": "Banaue Museum",
+                  "text": "Eine Institution, die historische Artefakte, traditionelle Textilien und kulturelle Gegenstände des Erbes der Ifugao ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        121.060239,
+                        16.911876
+                  ]
+            },
+            {
+                  "name": "Coldileran Culture Museum",
+                  "text": "Ein Ausstellungsraum, der der Geschichte, den Künsten und Traditionen der verschiedenen indigenen Stämme der Kordilleren gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        121.060223,
+                        16.905216
+                  ]
+            },
+            {
+                  "name": "Banaue Rice Terraces View Point",
+                  "text": "Ein markanter Aussichtspunkt, der weite Ausblicke auf die landwirtschaftlichen Terrassen am Berghang bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        121.058861,
+                        16.91713
+                  ]
+            },
+            {
+                  "name": "Dating Daan",
+                  "text": "Eine christliche Kultstätte inmitten der grünen Hänge der Reisterrassen von Banaue.",
+                  "category": "landmark",
+                  "coords": [
+                        121.068653,
+                        16.855213
+                  ]
+            },
+            {
+                  "name": "Free Believers Church",
+                  "text": "Eine christliche Kirche, umgeben von der dramatischen Agrarlandschaft der Bergtäler.",
+                  "category": "landmark",
+                  "coords": [
+                        121.099006,
+                        16.84954
+                  ]
+            },
+            {
+                  "name": "Ohenes Church",
+                  "text": "Eine lokale christliche Kirche, die sich direkt in den terrassierten Hochlandtälern von Banaue befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        121.065211,
+                        16.863878
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "Eine christliche Kultstätte im steilen, bergigen Gelände der alten Reisterrassen.",
+                  "category": "landmark",
+                  "coords": [
+                        121.062797,
+                        16.873902
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "Ein christlicher Versammlungssaal, der der Gemeinde inmitten der berühmten landwirtschaftlichen Terrassen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        121.090761,
+                        16.840819
+                  ]
+            },
+            {
+                  "name": "Immaculate Concepcion Parish",
+                  "text": "Eine katholische Pfarrkirche, die ein spirituelles Zentrum im abgelegenen, terrassierten Hochland bildet.",
+                  "category": "landmark",
+                  "coords": [
+                        121.060861,
+                        16.914214
+                  ]
+            },
+            {
+                  "name": "Saint Anthony de Padua",
+                  "text": "Eine christliche Kultstätte inmitten der alten, handgeschnitzten landwirtschaftlichen Terrassen.",
+                  "category": "landmark",
+                  "coords": [
+                        121.126565,
+                        16.910951
+                  ]
+            },
+            {
+                  "name": "Christ The King Catholic Chapel",
+                  "text": "Eine katholische Kapelle, die einen ruhigen Ort zum Beten in der tief bewaldeten Region Banaue bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        121.136547,
+                        16.934215
+                  ]
+            },
+            {
+                  "name": "Batad Bible Church",
+                  "text": "Eine christliche Kirche in der Nähe der berühmten amphitheaterähnlichen Reisterrassen von Batad.",
+                  "category": "landmark",
+                  "coords": [
+                        121.134223,
+                        16.930989
+                  ]
+            },
+            {
+                  "name": "Hapao Hot Springs",
+                  "text": "Eine natürliche Thermalquelle, die entlang des Flussbettes direkt unter den alten Reisterrassen von Hapao fließt.",
+                  "category": "natural",
+                  "coords": [
+                        120.993174,
+                        16.870342
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hapao Viewpoint",
+                  "text": "Festői kilátó, amely panorámás kilátást nyújt a lépcsőzetes Hapao rizsteraszokra.",
+                  "category": "natural",
+                  "coords": [
+                        121.009484,
+                        16.882366
+                  ]
+            },
+            {
+                  "name": "Banaue Arc",
+                  "text": "Az üdvözlő ív, amely kilátást nyújt Ifugao híres hegyvidéki tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        121.061069,
+                        16.879926
+                  ]
+            },
+            {
+                  "name": "MRAVIN GUIDE",
+                  "text": "Helyi idegenvezetői szolgáltatás a Banaue rizsteraszok bonyolult ösvényeinek felfedezéséhez.",
+                  "category": "landmark",
+                  "coords": [
+                        121.060261,
+                        16.913082
+                  ]
+            },
+            {
+                  "name": "Baguio Viewpoint",
+                  "text": "Megemelt kilátóterasz, amely kilátást nyújt a hegyvidéki terepre.",
+                  "category": "natural",
+                  "coords": [
+                        121.061749,
+                        16.912061
+                  ]
+            },
+            {
+                  "name": "Fish hatchery",
+                  "text": "A teraszos hegyvidéki tájak között helyi halfajtákat tenyésztő akvakultúra-létesítmény.",
+                  "category": "landmark",
+                  "coords": [
+                        121.09715,
+                        16.912566
+                  ]
+            },
+            {
+                  "name": "Bangaan View",
+                  "text": "Kilátó, amely tiszta rálátást biztosít a hagyományos Bangaan Ifugao falura és a környező teraszokra.",
+                  "category": "natural",
+                  "coords": [
+                        121.126608,
+                        16.91333
+                  ]
+            },
+            {
+                  "name": "Cambulo Rice Terraces",
+                  "text": "A hegyoldalakba vájt, kőfalakkal övezett ősi rizsföldek hatalmas amfiteátruma.",
+                  "category": "landmark",
+                  "coords": [
+                        121.125805,
+                        16.95492
+                  ]
+            },
+            {
+                  "name": "Banaue Rice Terraces View Deck",
+                  "text": "Kijelölt megfigyelőplatform, amely széleskörű kilátást nyújt az ősi, kézzel vájt mezőgazdasági tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        121.057736,
+                        16.935481
+                  ]
+            },
+            {
+                  "name": "Ifugao Ethnic Village",
+                  "text": "Kulturális múzeumkomplexum, amely a hagyományos faházakat és az Ifugao nép őslakos tárgyait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        121.056091,
+                        16.947914
+                  ]
+            },
+            {
+                  "name": "Mount Polis Pass",
+                  "text": "Magasan fekvő hegyi hágó, ahonnan lenyűgöző kilátás nyílik a Cordillera-hegységre.",
+                  "category": "natural",
+                  "coords": [
+                        121.02693,
+                        16.965988
+                  ]
+            },
+            {
+                  "name": "Dianarra Viewdeck 6",
+                  "text": "A hatalmas rizsteraszok megcsodálására szolgáló számozott kilátóplatformok egyike az út mentén.",
+                  "category": "natural",
+                  "coords": [
+                        121.05541,
+                        16.933024
+                  ]
+            },
+            {
+                  "name": "viewpoint 30 Php",
+                  "text": "Szerény útszéli kilátó, amely kis helyi díj ellenében festői kilátást nyújt a teraszokra.",
+                  "category": "natural",
+                  "coords": [
+                        121.053381,
+                        16.926832
+                  ]
+            },
+            {
+                  "name": "Juuno's Playground",
+                  "text": "Festői, megemelt terület, amely rekreációs teret és kilátást nyújt a környező hegyvidéki tájra.",
+                  "category": "natural",
+                  "coords": [
+                        120.984692,
+                        16.978384
+                  ]
+            },
+            {
+                  "name": "Mount Polis",
+                  "text": "A Cordillera Central hegység kiemelkedő csúcsa, amely 1940 méteres magasságban található Ifugao és Mountain Province tartományok között.",
+                  "category": "natural",
+                  "coords": [
+                        121.029167,
+                        16.974722
+                  ]
+            },
+            {
+                  "name": "Mountain View",
+                  "text": "Festői kilátó, amely zavartalan panorámát nyújt a buja Cordillera-csúcsokra.",
+                  "category": "natural",
+                  "coords": [
+                        121.134621,
+                        16.940613
+                  ]
+            },
+            {
+                  "name": "Tappiya Falls",
+                  "text": "Erőteljes, 70 méter magas vízesés a hegyek mélyén, a Batad rizsteraszok közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        121.136504,
+                        16.93917
+                  ]
+            },
+            {
+                  "name": "Batad",
+                  "text": "Kiemelkedő kilátó, ahonnan rálátni a távoli Batad falu látványos, amfiteátrum-szerű rizsteraszaira.",
+                  "category": "natural",
+                  "coords": [
+                        121.135487,
+                        16.937407
+                  ]
+            },
+            {
+                  "name": "Awa Viewpoint",
+                  "text": "Meredek hegygerinci kilátó, amely drámai kilátást nyújt a teljes Batad rizsteraszrendszerre.",
+                  "category": "natural",
+                  "coords": [
+                        121.15011,
+                        16.935519
+                  ]
+            },
+            {
+                  "name": "Ifugao hut",
+                  "text": "Hagyományos, megemelt, ablak nélküli, nádtetős faház, amely bemutatja az őslakos építészetet.",
+                  "category": "landmark",
+                  "coords": [
+                        121.066069,
+                        16.905393
+                  ]
+            },
+            {
+                  "name": "Banaue Museum",
+                  "text": "Az Ifugao örökség történelmi tárgyait, hagyományos textíliáit és kulturális emlékeit bemutató intézmény.",
+                  "category": "museum",
+                  "coords": [
+                        121.060239,
+                        16.911876
+                  ]
+            },
+            {
+                  "name": "Coldileran Culture Museum",
+                  "text": "A különböző kordillerai őslakos törzsek történelmének, művészetének és hagyományainak szentelt kiállítótér.",
+                  "category": "museum",
+                  "coords": [
+                        121.060223,
+                        16.905216
+                  ]
+            },
+            {
+                  "name": "Banaue Rice Terraces View Point",
+                  "text": "Kiemelkedő kilátó, amely kiterjedt rálátást nyújt a hegyoldali mezőgazdasági teraszokra.",
+                  "category": "landmark",
+                  "coords": [
+                        121.058861,
+                        16.91713
+                  ]
+            },
+            {
+                  "name": "Dating Daan",
+                  "text": "Keresztény istentiszteleti hely, amely a banauei rizsteraszok zöldellő lejtői között fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        121.068653,
+                        16.855213
+                  ]
+            },
+            {
+                  "name": "Free Believers Church",
+                  "text": "Egy keresztény templom, amelyet a hegyi völgyek drámai mezőgazdasági tája vesz körül.",
+                  "category": "landmark",
+                  "coords": [
+                        121.099006,
+                        16.84954
+                  ]
+            },
+            {
+                  "name": "Ohenes Church",
+                  "text": "Egy helyi keresztény templom, amely közvetlenül Banaue teraszos hegyvidéki völgyeiben található.",
+                  "category": "landmark",
+                  "coords": [
+                        121.065211,
+                        16.863878
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "Keresztény istentiszteleti hely az ősi rizsteraszok meredek, hegyvidéki terepén.",
+                  "category": "landmark",
+                  "coords": [
+                        121.062797,
+                        16.873902
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "Egy keresztény gyülekezeti terem, amely a közösséget szolgálja a híres mezőgazdasági teraszok közepette.",
+                  "category": "landmark",
+                  "coords": [
+                        121.090761,
+                        16.840819
+                  ]
+            },
+            {
+                  "name": "Immaculate Concepcion Parish",
+                  "text": "Egy katolikus plébániatemplom, amely spirituális központot nyújt a távoli, teraszos hegyvidéken.",
+                  "category": "landmark",
+                  "coords": [
+                        121.060861,
+                        16.914214
+                  ]
+            },
+            {
+                  "name": "Saint Anthony de Padua",
+                  "text": "Keresztény istentiszteleti hely az ősi, kézzel faragott mezőgazdasági teraszok között.",
+                  "category": "landmark",
+                  "coords": [
+                        121.126565,
+                        16.910951
+                  ]
+            },
+            {
+                  "name": "Christ The King Catholic Chapel",
+                  "text": "Egy katolikus kápolna, amely csendes imádkozási helyet kínál a sűrűn erdős Banaue régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        121.136547,
+                        16.934215
+                  ]
+            },
+            {
+                  "name": "Batad Bible Church",
+                  "text": "Egy keresztény templom, amely a híres amfiteátrumszerű batadi rizsteraszok közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        121.134223,
+                        16.930989
+                  ]
+            },
+            {
+                  "name": "Hapao Hot Springs",
+                  "text": "Természetes termálvízforrás, amely a folyómeder mentén, közvetlenül az ősi Hapao rizsteraszok alatt folyik.",
+                  "category": "natural",
+                  "coords": [
+                        120.993174,
+                        16.870342
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hapao Viewpoint",
+                  "text": "Un punct de belvedere pitoresc care oferă vederi panoramice ale teraselor de orez în cascadă din Hapao.",
+                  "category": "natural",
+                  "coords": [
+                        121.009484,
+                        16.882366
+                  ]
+            },
+            {
+                  "name": "Banaue Arc",
+                  "text": "Arcul de bun venit care oferă un punct de observație asupra faimoaselor peisaje montane din Ifugao.",
+                  "category": "natural",
+                  "coords": [
+                        121.061069,
+                        16.879926
+                  ]
+            },
+            {
+                  "name": "MRAVIN GUIDE",
+                  "text": "Un serviciu local de ghidare pentru explorarea cărărilor complicate ale teraselor de orez din Banaue.",
+                  "category": "landmark",
+                  "coords": [
+                        121.060261,
+                        16.913082
+                  ]
+            },
+            {
+                  "name": "Baguio Viewpoint",
+                  "text": "O punte de observație ridicată care oferă vederi către terenul muntos.",
+                  "category": "natural",
+                  "coords": [
+                        121.061749,
+                        16.912061
+                  ]
+            },
+            {
+                  "name": "Fish hatchery",
+                  "text": "O facilitate de acvacultură care crește specii locale de pești printre peisajele montane terasate.",
+                  "category": "landmark",
+                  "coords": [
+                        121.09715,
+                        16.912566
+                  ]
+            },
+            {
+                  "name": "Bangaan View",
+                  "text": "Un punct de belvedere care oferă o perspectivă clară asupra satului tradițional Ifugao Bangaan și a teraselor sale înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        121.126608,
+                        16.91333
+                  ]
+            },
+            {
+                  "name": "Cambulo Rice Terraces",
+                  "text": "Un amfiteatru vast de câmpuri de orez antice, mărginite de ziduri de piatră, sculptate în pantele munților.",
+                  "category": "landmark",
+                  "coords": [
+                        121.125805,
+                        16.95492
+                  ]
+            },
+            {
+                  "name": "Banaue Rice Terraces View Deck",
+                  "text": "O platformă de observație desemnată care oferă vederi ample asupra vechiului peisaj agricol sculptat manual.",
+                  "category": "landmark",
+                  "coords": [
+                        121.057736,
+                        16.935481
+                  ]
+            },
+            {
+                  "name": "Ifugao Ethnic Village",
+                  "text": "Un complex muzeal cultural cu case tradiționale din lemn și artefacte indigene ale poporului Ifugao.",
+                  "category": "museum",
+                  "coords": [
+                        121.056091,
+                        16.947914
+                  ]
+            },
+            {
+                  "name": "Mount Polis Pass",
+                  "text": "O trecătoare montană la mare altitudine, care oferă vederi ample asupra lanțului muntos Cordillera.",
+                  "category": "natural",
+                  "coords": [
+                        121.02693,
+                        16.965988
+                  ]
+            },
+            {
+                  "name": "Dianarra Viewdeck 6",
+                  "text": "Una dintre platformele de observație numerotate de-a lungul drumului pentru a admira vastele terase de orez.",
+                  "category": "natural",
+                  "coords": [
+                        121.05541,
+                        16.933024
+                  ]
+            },
+            {
+                  "name": "viewpoint 30 Php",
+                  "text": "Un punct de belvedere modest pe marginea drumului, care oferă vederi pitorești ale teraselor pentru o mică taxă locală.",
+                  "category": "natural",
+                  "coords": [
+                        121.053381,
+                        16.926832
+                  ]
+            },
+            {
+                  "name": "Juuno's Playground",
+                  "text": "O zonă pitorească ridicată care oferă spațiu de recreere și vederi ale peisajului montan din jur.",
+                  "category": "natural",
+                  "coords": [
+                        120.984692,
+                        16.978384
+                  ]
+            },
+            {
+                  "name": "Mount Polis",
+                  "text": "Un vârf proeminent în lanțul Cordillera Central, aflat la o altitudine de 1.940 de metri, între provinciile Ifugao și Mountain Province.",
+                  "category": "natural",
+                  "coords": [
+                        121.029167,
+                        16.974722
+                  ]
+            },
+            {
+                  "name": "Mountain View",
+                  "text": "Un punct de belvedere pitoresc care oferă panorame neobstrucționate ale vârfurilor luxuriante ale Cordillerei.",
+                  "category": "natural",
+                  "coords": [
+                        121.134621,
+                        16.940613
+                  ]
+            },
+            {
+                  "name": "Tappiya Falls",
+                  "text": "O cascadă puternică de 70 de metri ascunsă adânc în munți, lângă terasele de orez din Batad.",
+                  "category": "landmark",
+                  "coords": [
+                        121.136504,
+                        16.93917
+                  ]
+            },
+            {
+                  "name": "Batad",
+                  "text": "Un punct de observație proeminent cu vedere la spectaculoasele terase de orez asemănătoare unui amfiteatru din satul îndepărtat Batad.",
+                  "category": "natural",
+                  "coords": [
+                        121.135487,
+                        16.937407
+                  ]
+            },
+            {
+                  "name": "Awa Viewpoint",
+                  "text": "Un punct de observație abrupt pe o creastă, care oferă vederi dramatice asupra întregului sistem de terase de orez din Batad.",
+                  "category": "natural",
+                  "coords": [
+                        121.15011,
+                        16.935519
+                  ]
+            },
+            {
+                  "name": "Ifugao hut",
+                  "text": "O locuință tradițională din lemn, ridicată pe piloni, fără ferestre, cu acoperiș de stuf, prezentând arhitectura indigenă.",
+                  "category": "landmark",
+                  "coords": [
+                        121.066069,
+                        16.905393
+                  ]
+            },
+            {
+                  "name": "Banaue Museum",
+                  "text": "O instituție care expune artefacte istorice, textile tradiționale și articole culturale ale moștenirii Ifugao.",
+                  "category": "museum",
+                  "coords": [
+                        121.060239,
+                        16.911876
+                  ]
+            },
+            {
+                  "name": "Coldileran Culture Museum",
+                  "text": "Un spațiu expozițional dedicat istoriei, artelor și tradițiilor diverselor triburi indigene din Cordillera.",
+                  "category": "museum",
+                  "coords": [
+                        121.060223,
+                        16.905216
+                  ]
+            },
+            {
+                  "name": "Banaue Rice Terraces View Point",
+                  "text": "Un punct de belvedere proeminent care oferă vederi extinse asupra teraselor agricole de pe versantul muntelui.",
+                  "category": "landmark",
+                  "coords": [
+                        121.058861,
+                        16.91713
+                  ]
+            },
+            {
+                  "name": "Dating Daan",
+                  "text": "Un lăcaș de cult creștin amplasat printre pantele înverzite ale teraselor de orez din Banaue.",
+                  "category": "landmark",
+                  "coords": [
+                        121.068653,
+                        16.855213
+                  ]
+            },
+            {
+                  "name": "Free Believers Church",
+                  "text": "O biserică creștină înconjurată de peisajul agricol dramatic al văilor montane.",
+                  "category": "landmark",
+                  "coords": [
+                        121.099006,
+                        16.84954
+                  ]
+            },
+            {
+                  "name": "Ohenes Church",
+                  "text": "O biserică creștină locală situată direct în văile terasate din zonele înalte ale orașului Banaue.",
+                  "category": "landmark",
+                  "coords": [
+                        121.065211,
+                        16.863878
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "Un lăcaș de cult creștin cuibărit în terenul abrupt și muntos al vechilor terase de orez.",
+                  "category": "landmark",
+                  "coords": [
+                        121.062797,
+                        16.873902
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "O sală de adunări creștină care deservește comunitatea în mijlocul celebrelor terase agricole.",
+                  "category": "landmark",
+                  "coords": [
+                        121.090761,
+                        16.840819
+                  ]
+            },
+            {
+                  "name": "Immaculate Concepcion Parish",
+                  "text": "O biserică parohială catolică ce oferă un centru spiritual în regiunile înalte și terasate izolate.",
+                  "category": "landmark",
+                  "coords": [
+                        121.060861,
+                        16.914214
+                  ]
+            },
+            {
+                  "name": "Saint Anthony de Padua",
+                  "text": "Un lăcaș de cult creștin situat printre vechile terase agricole sculptate manual.",
+                  "category": "landmark",
+                  "coords": [
+                        121.126565,
+                        16.910951
+                  ]
+            },
+            {
+                  "name": "Christ The King Catholic Chapel",
+                  "text": "O capelă catolică care oferă un loc liniștit de rugăciune în regiunea puternic împădurită Banaue.",
+                  "category": "landmark",
+                  "coords": [
+                        121.136547,
+                        16.934215
+                  ]
+            },
+            {
+                  "name": "Batad Bible Church",
+                  "text": "O biserică creștină poziționată lângă faimoasele terase de orez în formă de amfiteatru din Batad.",
+                  "category": "landmark",
+                  "coords": [
+                        121.134223,
+                        16.930989
+                  ]
+            },
+            {
+                  "name": "Hapao Hot Springs",
+                  "text": "Un izvor termal natural care curge de-a lungul albiei râului chiar sub vechile terase de orez Hapao.",
+                  "category": "natural",
+                  "coords": [
+                        120.993174,
+                        16.870342
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hapao Viewpoint",
+                  "text": "A scenic overlook offering panoramic views of the cascading Hapao rice terraces.",
+                  "category": "natural",
+                  "coords": [
+                        121.009484,
+                        16.882366
+                  ]
+            },
+            {
+                  "name": "Banaue Arc",
+                  "text": "The welcome arch providing a vantage point over the famous mountain landscapes of Ifugao.",
+                  "category": "natural",
+                  "coords": [
+                        121.061069,
+                        16.879926
+                  ]
+            },
+            {
+                  "name": "MRAVIN Banaue (fb) GUIDE",
+                  "text": "A local guiding service for exploring the intricate pathways of the Banaue Rice Terraces.",
+                  "category": "landmark",
+                  "coords": [
+                        121.060261,
+                        16.913082
+                  ]
+            },
+            {
+                  "name": "Baguio Viewpoint",
+                  "text": "An elevated observation deck providing views towards the mountainous terrain.",
+                  "category": "natural",
+                  "coords": [
+                        121.061749,
+                        16.912061
+                  ]
+            },
+            {
+                  "name": "Fish hatchery",
+                  "text": "An aquaculture facility breeding local fish varieties among the terraced mountain landscapes.",
+                  "category": "landmark",
+                  "coords": [
+                        121.09715,
+                        16.912566
+                  ]
+            },
+            {
+                  "name": "Bangaan View",
+                  "text": "A viewpoint offering a clear perspective of the traditional Ifugao village of Bangaan and its surrounding terraces.",
+                  "category": "natural",
+                  "coords": [
+                        121.126608,
+                        16.91333
+                  ]
+            },
+            {
+                  "name": "Cambulo Rice Terraces",
+                  "text": "A sprawling amphitheater of ancient stone-walled rice paddies carved into the mountain slopes.",
+                  "category": "landmark",
+                  "coords": [
+                        121.125805,
+                        16.95492
+                  ]
+            },
+            {
+                  "name": "Banaue Rice Terraces View Deck",
+                  "text": "A designated observation platform providing sweeping views of the ancient, hand-carved agricultural landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        121.057736,
+                        16.935481
+                  ]
+            },
+            {
+                  "name": "Ifugao Ethnic Village",
+                  "text": "A cultural museum complex featuring traditional wooden houses and indigenous artifacts of the Ifugao people.",
+                  "category": "museum",
+                  "coords": [
+                        121.056091,
+                        16.947914
+                  ]
+            },
+            {
+                  "name": "Mount Polis Pass",
+                  "text": "A high-altitude mountain pass offering sweeping vistas of the Cordillera mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        121.02693,
+                        16.965988
+                  ]
+            },
+            {
+                  "name": "Dianarra Viewdeck 6",
+                  "text": "One of the numbered observation platforms along the road to admire the vast rice terraces.",
+                  "category": "natural",
+                  "coords": [
+                        121.05541,
+                        16.933024
+                  ]
+            },
+            {
+                  "name": "viewpoint 30 Php",
+                  "text": "A modest roadside overlook offering scenic views of the terraces for a small local fee.",
+                  "category": "natural",
+                  "coords": [
+                        121.053381,
+                        16.926832
+                  ]
+            },
+            {
+                  "name": "Juuno's Playground",
+                  "text": "A scenic elevated area offering recreational space and views of the surrounding mountainous landscape.",
+                  "category": "natural",
+                  "coords": [
+                        120.984692,
+                        16.978384
+                  ]
+            },
+            {
+                  "name": "Mount Polis",
+                  "text": "A prominent peak in the Cordillera Central range, standing at an elevation of 1,940 meters between the provinces of Ifugao and Mountain Province.",
+                  "category": "natural",
+                  "coords": [
+                        121.029167,
+                        16.974722
+                  ]
+            },
+            {
+                  "name": "Mountain View",
+                  "text": "A scenic overlook providing unobstructed panoramas of the lush Cordillera peaks.",
+                  "category": "natural",
+                  "coords": [
+                        121.134621,
+                        16.940613
+                  ]
+            },
+            {
+                  "name": "Tappiya Falls",
+                  "text": "A powerful 70-meter waterfall hidden deep within the mountains near the Batad rice terraces.",
+                  "category": "landmark",
+                  "coords": [
+                        121.136504,
+                        16.93917
+                  ]
+            },
+            {
+                  "name": "Batad",
+                  "text": "A prominent viewpoint overlooking the spectacular amphitheater-like rice terraces of the remote Batad village.",
+                  "category": "natural",
+                  "coords": [
+                        121.135487,
+                        16.937407
+                  ]
+            },
+            {
+                  "name": "Awa Viewpoint",
+                  "text": "A steep ridge-top observation point providing dramatic views over the entire Batad rice terrace system.",
+                  "category": "natural",
+                  "coords": [
+                        121.15011,
+                        16.935519
+                  ]
+            },
+            {
+                  "name": "Ifugao hut",
+                  "text": "A traditional, elevated windowless wooden dwelling with a thatched roof, showcasing indigenous architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        121.066069,
+                        16.905393
+                  ]
+            },
+            {
+                  "name": "Banaue Museum",
+                  "text": "An institution displaying historical artifacts, traditional textiles, and cultural items of the Ifugao heritage.",
+                  "category": "museum",
+                  "coords": [
+                        121.060239,
+                        16.911876
+                  ]
+            },
+            {
+                  "name": "Coldileran Culture Museum",
+                  "text": "An exhibition space dedicated to the history, arts, and traditions of the various Cordillera indigenous tribes.",
+                  "category": "museum",
+                  "coords": [
+                        121.060223,
+                        16.905216
+                  ]
+            },
+            {
+                  "name": "Banaue Rice Terraces View Point",
+                  "text": "A prominent lookout offering extensive views of the mountainside agricultural terraces.",
+                  "category": "landmark",
+                  "coords": [
+                        121.058861,
+                        16.91713
+                  ]
+            },
+            {
+                  "name": "Dating Daan",
+                  "text": "A Christian place of worship set amidst the verdant slopes of the Banaue rice terraces.",
+                  "category": "landmark",
+                  "coords": [
+                        121.068653,
+                        16.855213
+                  ]
+            },
+            {
+                  "name": "Free Believers Church",
+                  "text": "A Christian church surrounded by the dramatic agricultural landscape of the mountain valleys.",
+                  "category": "landmark",
+                  "coords": [
+                        121.099006,
+                        16.84954
+                  ]
+            },
+            {
+                  "name": "Ohenes Church",
+                  "text": "A local Christian church located directly within the terraced highland valleys of Banaue.",
+                  "category": "landmark",
+                  "coords": [
+                        121.065211,
+                        16.863878
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "A Christian worship site nestled in the steep, mountainous terrain of the ancient rice terraces.",
+                  "category": "landmark",
+                  "coords": [
+                        121.062797,
+                        16.873902
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "A Christian meeting hall serving the community amidst the famous agricultural terraces.",
+                  "category": "landmark",
+                  "coords": [
+                        121.090761,
+                        16.840819
+                  ]
+            },
+            {
+                  "name": "Immaculate Concepcion Parish",
+                  "text": "A Catholic parish church providing a spiritual center in the remote, terraced highlands.",
+                  "category": "landmark",
+                  "coords": [
+                        121.060861,
+                        16.914214
+                  ]
+            },
+            {
+                  "name": "Saint Anthony de Padua",
+                  "text": "A Christian worship place situated among the ancient, hand-carved agricultural terraces.",
+                  "category": "landmark",
+                  "coords": [
+                        121.126565,
+                        16.910951
+                  ]
+            },
+            {
+                  "name": "Christ The King Catholic Chapel",
+                  "text": "A Catholic chapel offering a quiet place of prayer in the deeply forested Banaue region.",
+                  "category": "landmark",
+                  "coords": [
+                        121.136547,
+                        16.934215
+                  ]
+            },
+            {
+                  "name": "Batad Bible Church",
+                  "text": "A Christian church positioned near the famous amphitheater-like rice terraces of Batad.",
+                  "category": "landmark",
+                  "coords": [
+                        121.134223,
+                        16.930989
+                  ]
+            },
+            {
+                  "name": "Hapao Hot Springs",
+                  "text": "A natural thermal hot spring flowing along the riverbed directly beneath the ancient Hapao rice terraces.",
+                  "category": "natural",
+                  "coords": [
+                        120.993174,
+                        16.870342
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "PH-IFU",
     coords: [121.0583, 16.9242],
@@ -971,7 +10916,196 @@ image: "/poi-images/ph-banaue-rice-terraces-nature-v2.webp",
     
   },
   {
-    id: "ph-mount-kanlaon-nature-v2",
+    id: "ph-mount-kanlaon-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cherry Blossom Trees",
+                  "text": "Eine botanische Attraktion mit leuchtend rosa Blüten, eingebettet in das bergige Gelände.",
+                  "category": "landmark",
+                  "coords": [
+                        123.14225,
+                        10.36108
+                  ]
+            },
+            {
+                  "name": "Mount Kanlaon and valley",
+                  "text": "Ein weitläufiger Aussichtspunkt im Hochland, der die bewaldeten Vulkanhänge und das angrenzende grüne Becken zeigt.",
+                  "category": "natural",
+                  "coords": [
+                        123.125597,
+                        10.366005
+                  ]
+            },
+            {
+                  "name": "Kanlaon",
+                  "text": "Ein aktiver Stratovulkan und der höchste Gipfel der Insel Negros.",
+                  "category": "natural",
+                  "coords": [
+                        123.130555,
+                        10.409724
+                  ]
+            },
+            {
+                  "name": "Mandayao Giant Cross Site",
+                  "text": "Ein hoch aufragendes christliches Kreuz, das auf einem markanten Bergrücken als Ort religiöser Hingabe errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        123.089781,
+                        10.356949
+                  ]
+            },
+            {
+                  "name": "Hope Public Market",
+                  "text": "Ein lokaler Marktplatz der Gemeinde, auf dem regionale frische Produkte und Güter des täglichen Bedarfs gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        123.151533,
+                        10.356479
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cherry Blossom Trees",
+                  "text": "Hegyvidéki terepen megbúvó botanikai látványosság élénk rózsaszín virágokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        123.14225,
+                        10.36108
+                  ]
+            },
+            {
+                  "name": "Mount Kanlaon and valley",
+                  "text": "Kiterjedt hegyvidéki kilátópont, amely az erdős vulkánlejtőket és a szomszédos zöld medencét mutatja be.",
+                  "category": "natural",
+                  "coords": [
+                        123.125597,
+                        10.366005
+                  ]
+            },
+            {
+                  "name": "Kanlaon",
+                  "text": "Aktív rétegvulkán és a Negros-sziget legmagasabb csúcsa.",
+                  "category": "natural",
+                  "coords": [
+                        123.130555,
+                        10.409724
+                  ]
+            },
+            {
+                  "name": "Mandayao Giant Cross Site",
+                  "text": "Egy kiemelkedő gerincen felállított hatalmas keresztény kereszt, amely a vallási áhítat helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        123.089781,
+                        10.356949
+                  ]
+            },
+            {
+                  "name": "Hope Public Market",
+                  "text": "Helyi közösségi piac, ahol regionális friss termékeket és napi cikkeket árusítanak.",
+                  "category": "cultural",
+                  "coords": [
+                        123.151533,
+                        10.356479
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cherry Blossom Trees",
+                  "text": "O atracție botanică cu flori roz vibrante, amplasată în terenul muntos.",
+                  "category": "landmark",
+                  "coords": [
+                        123.14225,
+                        10.36108
+                  ]
+            },
+            {
+                  "name": "Mount Kanlaon and valley",
+                  "text": "Un punct de belvedere vast de pe munte care prezintă pantele împădurite ale vulcanului și bazinul verde adiacent.",
+                  "category": "natural",
+                  "coords": [
+                        123.125597,
+                        10.366005
+                  ]
+            },
+            {
+                  "name": "Kanlaon",
+                  "text": "Un stratovulcan activ și cel mai înalt vârf de pe insula Negros.",
+                  "category": "natural",
+                  "coords": [
+                        123.130555,
+                        10.409724
+                  ]
+            },
+            {
+                  "name": "Mandayao Giant Cross Site",
+                  "text": "O cruce creștină falnică ridicată pe o creastă proeminentă ca loc de devotament religios.",
+                  "category": "landmark",
+                  "coords": [
+                        123.089781,
+                        10.356949
+                  ]
+            },
+            {
+                  "name": "Hope Public Market",
+                  "text": "O piață comunitară locală unde se comercializează produse proaspete regionale și bunuri de uz zilnic.",
+                  "category": "cultural",
+                  "coords": [
+                        123.151533,
+                        10.356479
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cherry Blossom Trees",
+                  "text": "A botanical attraction featuring vibrant pink blossoms nestled in the mountainous terrain.",
+                  "category": "landmark",
+                  "coords": [
+                        123.14225,
+                        10.36108
+                  ]
+            },
+            {
+                  "name": "Mount Kanlaon and valley",
+                  "text": "A sweeping highland viewpoint presenting the forested volcano slopes and adjacent green basin.",
+                  "category": "natural",
+                  "coords": [
+                        123.125597,
+                        10.366005
+                  ]
+            },
+            {
+                  "name": "Kanlaon",
+                  "text": "An active stratovolcano and the highest peak on the island of Negros.",
+                  "category": "natural",
+                  "coords": [
+                        123.130555,
+                        10.409724
+                  ]
+            },
+            {
+                  "name": "Mandayao Giant Cross Site",
+                  "text": "A towering Christian cross erected on a prominent ridge as a site for religious devotion.",
+                  "category": "landmark",
+                  "coords": [
+                        123.089781,
+                        10.356949
+                  ]
+            },
+            {
+                  "name": "Hope Public Market",
+                  "text": "A local community marketplace where regional fresh produce and daily goods are traded.",
+                  "category": "cultural",
+                  "coords": [
+                        123.151533,
+                        10.356479
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PH-NER",
     coords: [123.1317, 10.4117],

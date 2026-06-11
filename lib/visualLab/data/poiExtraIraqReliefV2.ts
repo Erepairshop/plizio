@@ -133,7 +133,484 @@ export const poiExtraIraqReliefV2: POI[] = [
       fr: ["L'altitude maximale est d'environ 525 mètres au-dessus de la mer.", "Ils constituent l'élévation la plus au sud avant la plaine mésopotamienne.", "Le barrage de Hamrin a été achevé en 1981.", "Sous la chaîne se trouvent certains des plus grands champs pétrolifères d'Irak.", "Les montagnes sont principalement composées de roches sédimentaires néogènes.", "L'autoroute Bagdad-Kirkouk passe par un col stratégique."],
     }, image: "/poi-images/hamrin-mountains-relief-v2.webp"},
   {
-    id: "mount-korek-relief-v2",
+    id: "mount-korek-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "shix turab",
+                  "text": "Ein spektakulärer Aussichtspunkt auf dem Berg Korek, der weite Panoramablicke über das Zagros-Gebirge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        44.123265,
+                        36.532715
+                  ]
+            },
+            {
+                  "name": "Shekh turab",
+                  "text": "Diese Attraktion in den Bergen ist ein beliebtes Ziel für Naturliebhaber und Ausflügler.",
+                  "category": "landmark",
+                  "coords": [
+                        44.10993,
+                        36.556211
+                  ]
+            },
+            {
+                  "name": "momo",
+                  "text": "Ein lokales Freizeitziel in der Gebirgsregion, das für seine malerische Umgebung bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.108674,
+                        36.608258
+                  ]
+            },
+            {
+                  "name": "Kandagul Mosque",
+                  "text": "Ein muslimisches Gebetshaus in der Bergregion, das sich durch seine traditionelle Steinbauweise auszeichnet.",
+                  "category": "religious",
+                  "coords": [
+                        44.117292,
+                        36.612737
+                  ]
+            },
+            {
+                  "name": "Afryan Mosque",
+                  "text": "Eine bescheidene Moschee, die den Bewohnern der Gebirgsdörfer als religiöser Treffpunkt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        44.291288,
+                        36.599098
+                  ]
+            },
+            {
+                  "name": "Amokan Mosque",
+                  "text": "Eine muslimische Gebetsstätte in alpiner Lage, die Ruhe und Spiritualität ausstrahlt.",
+                  "category": "landmark",
+                  "coords": [
+                        44.277437,
+                        36.623272
+                  ]
+            },
+            {
+                  "name": "Nawshiwan lower Mosque",
+                  "text": "Eine lokale Moschee im unteren Teil der Siedlung, die für die täglichen Gebete der Berggemeinde genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        44.232012,
+                        36.613838
+                  ]
+            },
+            {
+                  "name": "Tawbakaran Mosque",
+                  "text": "Ein ruhiger Ort des islamischen Gebets, eingebettet in die raue Landschaft der Zagros-Ausläufer.",
+                  "category": "landmark",
+                  "coords": [
+                        44.196973,
+                        36.640267
+                  ]
+            },
+            {
+                  "name": "Qandil Mosque",
+                  "text": "Eine Moschee, die nach dem markanten Qandil-Gebirge benannt ist und als Ort der Andacht dient.",
+                  "category": "religious",
+                  "coords": [
+                        44.182688,
+                        36.626152
+                  ]
+            },
+            {
+                  "name": "Musalla",
+                  "text": "Ein offener Platz oder Gebetssaal, der speziell für gemeinschaftliche islamische Gebete vorgesehen ist.",
+                  "category": "religious",
+                  "coords": [
+                        44.170747,
+                        36.615691
+                  ]
+            },
+            {
+                  "name": "Barazan Mosque",
+                  "text": "Eine muslimische Kultstätte in der Nähe des Berges Korek, die ein wichtiges Zentrum für lokale Gläubige ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.281185,
+                        36.563739
+                  ]
+            },
+            {
+                  "name": "Marzan Mosque",
+                  "text": "Eine kleine Bergmoschee, die durch ihre Lage und die schlichte Bauweise eine spirituelle Atmosphäre schafft.",
+                  "category": "landmark",
+                  "coords": [
+                        44.262696,
+                        36.521866
+                  ]
+            },
+            {
+                  "name": "Brwa Mosque",
+                  "text": "Diese Moschee liegt an den malerischen Hängen des Berges Korek.",
+                  "category": "landmark",
+                  "coords": [
+                        44.265229,
+                        36.61568
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "shix turab",
+                  "text": "Látványos kilátópont a Korek-hegyen, amely széles panorámát nyújt a Zagrosz-hegységre.",
+                  "category": "natural",
+                  "coords": [
+                        44.123265,
+                        36.532715
+                  ]
+            },
+            {
+                  "name": "Shekh turab",
+                  "text": "Ez a hegyi látványosság a természetkedvelők és kirándulók kedvelt célpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        44.10993,
+                        36.556211
+                  ]
+            },
+            {
+                  "name": "momo",
+                  "text": "Helyi szabadidős célpont a hegyvidéken, amely festői környezetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        44.108674,
+                        36.608258
+                  ]
+            },
+            {
+                  "name": "Kandagul Mosque",
+                  "text": "Muszlim imaház a hegyvidéken, amelyet hagyományos kőépítészet jellemez.",
+                  "category": "religious",
+                  "coords": [
+                        44.117292,
+                        36.612737
+                  ]
+            },
+            {
+                  "name": "Afryan Mosque",
+                  "text": "Szerény mecset, amely a hegyi falvak lakói számára vallási találkozóhelyként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        44.291288,
+                        36.599098
+                  ]
+            },
+            {
+                  "name": "Amokan Mosque",
+                  "text": "Muszlim imaház magashegyi környezetben, amely nyugalmat és spiritualitást áraszt.",
+                  "category": "landmark",
+                  "coords": [
+                        44.277437,
+                        36.623272
+                  ]
+            },
+            {
+                  "name": "Nawshiwan lower Mosque",
+                  "text": "A település alsó részén található helyi mecset, amelyet a hegyi közösség napi imáira használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        44.232012,
+                        36.613838
+                  ]
+            },
+            {
+                  "name": "Tawbakaran Mosque",
+                  "text": "Az iszlám ima nyugodt helyszíne, a Zagrosz-hegység nyúlványainak vadregényes tájába ágyazva.",
+                  "category": "landmark",
+                  "coords": [
+                        44.196973,
+                        36.640267
+                  ]
+            },
+            {
+                  "name": "Qandil Mosque",
+                  "text": "A jellegzetes Kandil-hegységről elnevezett mecset, amely az áhítat helyszíneként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        44.182688,
+                        36.626152
+                  ]
+            },
+            {
+                  "name": "Musalla",
+                  "text": "Közösségi iszlám imádságok számára fenntartott nyitott tér vagy imaterem.",
+                  "category": "religious",
+                  "coords": [
+                        44.170747,
+                        36.615691
+                  ]
+            },
+            {
+                  "name": "Barazan Mosque",
+                  "text": "Muszlim szentély a Korek-hegy közelében, amely a helyi hívők fontos központja.",
+                  "category": "landmark",
+                  "coords": [
+                        44.281185,
+                        36.563739
+                  ]
+            },
+            {
+                  "name": "Marzan Mosque",
+                  "text": "Kicsiny hegyi mecset, amely elhelyezkedésével és egyszerű építészetével szakrális hangulatot áraszt.",
+                  "category": "landmark",
+                  "coords": [
+                        44.262696,
+                        36.521866
+                  ]
+            },
+            {
+                  "name": "Brwa Mosque",
+                  "text": "Ez a mecset a Korek-hegy festői lejtőin található.",
+                  "category": "landmark",
+                  "coords": [
+                        44.265229,
+                        36.61568
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "shix turab",
+                  "text": "Un punct de belvedere spectaculos pe muntele Korek, oferind vederi panoramice largi asupra munților Zagros.",
+                  "category": "natural",
+                  "coords": [
+                        44.123265,
+                        36.532715
+                  ]
+            },
+            {
+                  "name": "Shekh turab",
+                  "text": "Această atracție montană este o destinație populară pentru iubitorii de natură și excursioniști.",
+                  "category": "landmark",
+                  "coords": [
+                        44.10993,
+                        36.556211
+                  ]
+            },
+            {
+                  "name": "momo",
+                  "text": "O destinație locală de recreere în regiunea montană, cunoscută pentru împrejurimile sale pitorești.",
+                  "category": "landmark",
+                  "coords": [
+                        44.108674,
+                        36.608258
+                  ]
+            },
+            {
+                  "name": "Kandagul Mosque",
+                  "text": "O casă de rugăciune musulmană în regiunea montană, caracterizată prin construcția sa tradițională din piatră.",
+                  "category": "religious",
+                  "coords": [
+                        44.117292,
+                        36.612737
+                  ]
+            },
+            {
+                  "name": "Afryan Mosque",
+                  "text": "O moschee modestă care servește ca punct de întâlnire religios pentru locuitorii satelor montane.",
+                  "category": "landmark",
+                  "coords": [
+                        44.291288,
+                        36.599098
+                  ]
+            },
+            {
+                  "name": "Amokan Mosque",
+                  "text": "Un lăcaș de rugăciune musulman într-un cadru montan, care emană liniște și spiritualitate.",
+                  "category": "landmark",
+                  "coords": [
+                        44.277437,
+                        36.623272
+                  ]
+            },
+            {
+                  "name": "Nawshiwan lower Mosque",
+                  "text": "O moschee locală situată în partea de jos a așezării, folosită pentru rugăciunile zilnice ale comunității montane.",
+                  "category": "landmark",
+                  "coords": [
+                        44.232012,
+                        36.613838
+                  ]
+            },
+            {
+                  "name": "Tawbakaran Mosque",
+                  "text": "Un loc liniștit de rugăciune islamică, cuibărit în peisajul accidentat al contraforturilor munților Zagros.",
+                  "category": "landmark",
+                  "coords": [
+                        44.196973,
+                        36.640267
+                  ]
+            },
+            {
+                  "name": "Qandil Mosque",
+                  "text": "O moschee numită după muntele distinctiv Qandil, servind ca loc de devoțiune.",
+                  "category": "religious",
+                  "coords": [
+                        44.182688,
+                        36.626152
+                  ]
+            },
+            {
+                  "name": "Musalla",
+                  "text": "Un spațiu deschis sau o sală de rugăciune destinată special rugăciunilor islamice comunitare.",
+                  "category": "religious",
+                  "coords": [
+                        44.170747,
+                        36.615691
+                  ]
+            },
+            {
+                  "name": "Barazan Mosque",
+                  "text": "Un lăcaș de cult musulman lângă muntele Korek, fiind un centru important pentru credincioșii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        44.281185,
+                        36.563739
+                  ]
+            },
+            {
+                  "name": "Marzan Mosque",
+                  "text": "O mică moschee montană care creează o atmosferă spirituală prin locația sa și construcția simplă.",
+                  "category": "landmark",
+                  "coords": [
+                        44.262696,
+                        36.521866
+                  ]
+            },
+            {
+                  "name": "Brwa Mosque",
+                  "text": "Această moschee este situată pe pantele pitorești ale muntelui Korek.",
+                  "category": "landmark",
+                  "coords": [
+                        44.265229,
+                        36.61568
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "shix turab",
+                  "text": "A spectacular viewpoint on Mount Korek offering wide panoramic vistas of the Zagros Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        44.123265,
+                        36.532715
+                  ]
+            },
+            {
+                  "name": "Shekh turab",
+                  "text": "This mountain attraction is a popular destination for nature lovers and excursionists.",
+                  "category": "landmark",
+                  "coords": [
+                        44.10993,
+                        36.556211
+                  ]
+            },
+            {
+                  "name": "momo",
+                  "text": "A local leisure destination in the mountain region, known for its picturesque surroundings.",
+                  "category": "landmark",
+                  "coords": [
+                        44.108674,
+                        36.608258
+                  ]
+            },
+            {
+                  "name": "Kandagul Mosque",
+                  "text": "A Muslim prayer house in the mountain region characterized by its traditional stone architecture.",
+                  "category": "religious",
+                  "coords": [
+                        44.117292,
+                        36.612737
+                  ]
+            },
+            {
+                  "name": "Afryan Mosque",
+                  "text": "A modest mosque serving as a religious gathering point for residents of the mountain villages.",
+                  "category": "landmark",
+                  "coords": [
+                        44.291288,
+                        36.599098
+                  ]
+            },
+            {
+                  "name": "Amokan Mosque",
+                  "text": "A Muslim place of worship in a mountain setting that radiates peace and spirituality.",
+                  "category": "landmark",
+                  "coords": [
+                        44.277437,
+                        36.623272
+                  ]
+            },
+            {
+                  "name": "Nawshiwan lower Mosque",
+                  "text": "A local mosque in the lower part of the settlement, used for the daily prayers of the mountain community.",
+                  "category": "landmark",
+                  "coords": [
+                        44.232012,
+                        36.613838
+                  ]
+            },
+            {
+                  "name": "Tawbakaran Mosque",
+                  "text": "A tranquil site of Islamic prayer nestled in the rugged landscape of the Zagros foothills.",
+                  "category": "landmark",
+                  "coords": [
+                        44.196973,
+                        36.640267
+                  ]
+            },
+            {
+                  "name": "Qandil Mosque",
+                  "text": "A mosque named after the prominent Qandil mountains, serving as a site for devotion.",
+                  "category": "religious",
+                  "coords": [
+                        44.182688,
+                        36.626152
+                  ]
+            },
+            {
+                  "name": "Musalla",
+                  "text": "An open space or prayer hall specifically designated for communal Islamic prayers.",
+                  "category": "religious",
+                  "coords": [
+                        44.170747,
+                        36.615691
+                  ]
+            },
+            {
+                  "name": "Barazan Mosque",
+                  "text": "A Muslim place of worship near Mount Korek, serving as an important center for local believers.",
+                  "category": "landmark",
+                  "coords": [
+                        44.281185,
+                        36.563739
+                  ]
+            },
+            {
+                  "name": "Marzan Mosque",
+                  "text": "A small mountain mosque that creates a spiritual atmosphere through its location and simple construction.",
+                  "category": "landmark",
+                  "coords": [
+                        44.262696,
+                        36.521866
+                  ]
+            },
+            {
+                  "name": "Brwa Mosque",
+                  "text": "This mosque is situated on the scenic slopes of Mount Korek.",
+                  "category": "landmark",
+                  "coords": [
+                        44.265229,
+                        36.61568
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IQ-AR",
     coords: [44.2000, 36.5700],
@@ -176,7 +653,340 @@ export const poiExtraIraqReliefV2: POI[] = [
       fr: ["L'altitude maximale de la montagne est de 2 127 mètres.", "Le téléphérique vers le sommet a été inauguré en 2013.", "L'observatoire d'Erbil devait être équipé de trois grands télescopes.", "En hiver, la montagne est un lieu privilégié pour les skieurs.", "Elle se situe à environ 50 kilomètres au nord-est de la ville d'Erbil.", "La célèbre cascade de Bekhal se trouve au pied de la montagne."],
     }, image: "/poi-images/mount-korek-relief-v2.webp"},
   {
-    id: "mount-bradost-relief-v2",
+    id: "mount-bradost-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tasa",
+                  "text": "Ein hochgelegener Aussichtspunkt auf dem Bradost-Gebirgszug.",
+                  "category": "natural",
+                  "coords": [
+                        44.308044,
+                        36.742274
+                  ]
+            },
+            {
+                  "name": "Qasrok",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über die Täler unterhalb des Mount Bradost.",
+                  "category": "natural",
+                  "coords": [
+                        44.30235,
+                        36.75208
+                  ]
+            },
+            {
+                  "name": "Azadi)",
+                  "text": "Ein erholsamer Uferabschnitt am Fuße des Bradost-Gebirges.",
+                  "category": "recreational",
+                  "coords": [
+                        44.339674,
+                        36.819291
+                  ]
+            },
+            {
+                  "name": "Mandiyan",
+                  "text": "Ein geschütztes Bergwildnisgebiet in der zerklüfteten Bradost-Region.",
+                  "category": "natural",
+                  "coords": [
+                        44.344632,
+                        36.826659
+                  ]
+            },
+            {
+                  "name": "Guske",
+                  "text": "Ein erhöhter Aussichtspunkt mit weitem Panorama über das Bradost-Massiv.",
+                  "category": "natural",
+                  "coords": [
+                        44.373592,
+                        36.851593
+                  ]
+            },
+            {
+                  "name": "Jajuk Mirkhan",
+                  "text": "Eine strategisch gelegene Bergfestung in der Nähe des Bradost-Reliefs.",
+                  "category": "castle",
+                  "coords": [
+                        44.274066,
+                        36.873575
+                  ]
+            },
+            {
+                  "name": "Holî Bondskanî Goretu",
+                  "text": "Ein lokales Denkmal, das an die Geschichte der Goretu-Region erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        44.274544,
+                        36.860853
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Ein traditionelles islamisches Gotteshaus für die örtliche Gemeinde von Bradost.",
+                  "category": "landmark",
+                  "coords": [
+                        44.32979,
+                        36.829433
+                  ]
+            },
+            {
+                  "name": "Azadi Mosque",
+                  "text": "Eine muslimische Gebetsstätte im Bereich des Bradost-Gebirges.",
+                  "category": "landmark",
+                  "coords": [
+                        44.342253,
+                        36.818731
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tasa",
+                  "text": "Magaslati kilátóhely a Bradost-hegység vonulatán.",
+                  "category": "natural",
+                  "coords": [
+                        44.308044,
+                        36.742274
+                  ]
+            },
+            {
+                  "name": "Qasrok",
+                  "text": "Kilátóhely, ahonnan tágas rálátás nyílik a Bradost-hegy alatti völgyekre.",
+                  "category": "natural",
+                  "coords": [
+                        44.30235,
+                        36.75208
+                  ]
+            },
+            {
+                  "name": "Azadi)",
+                  "text": "Egy pihenésre alkalmas vízparti szakasz a Bradost-hegy lábánál.",
+                  "category": "recreational",
+                  "coords": [
+                        44.339674,
+                        36.819291
+                  ]
+            },
+            {
+                  "name": "Mandiyan",
+                  "text": "Védett hegyi vadon a tagolt Bradost-régióban.",
+                  "category": "natural",
+                  "coords": [
+                        44.344632,
+                        36.826659
+                  ]
+            },
+            {
+                  "name": "Guske",
+                  "text": "Magaslati kilátópont széles panorámával a Bradost-masszívumra.",
+                  "category": "natural",
+                  "coords": [
+                        44.373592,
+                        36.851593
+                  ]
+            },
+            {
+                  "name": "Jajuk Mirkhan",
+                  "text": "Stratégiailag elhelyezkedő hegyi erőd a Bradost-domborzat közelében.",
+                  "category": "castle",
+                  "coords": [
+                        44.274066,
+                        36.873575
+                  ]
+            },
+            {
+                  "name": "Holî Bondskanî Goretu",
+                  "text": "Helyi emlékmű, amely a Goretu-régió történelmének állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        44.274544,
+                        36.860853
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Hagyományos iszlám imaház Bradost helyi közössége számára.",
+                  "category": "landmark",
+                  "coords": [
+                        44.32979,
+                        36.829433
+                  ]
+            },
+            {
+                  "name": "Azadi Mosque",
+                  "text": "Muszlim imaház a Bradost-hegység területén.",
+                  "category": "landmark",
+                  "coords": [
+                        44.342253,
+                        36.818731
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tasa",
+                  "text": "Un punct de observație la mare altitudine pe creasta munților Bradost.",
+                  "category": "natural",
+                  "coords": [
+                        44.308044,
+                        36.742274
+                  ]
+            },
+            {
+                  "name": "Qasrok",
+                  "text": "Un punct de belvedere cu vederi largi asupra văilor de sub muntele Bradost.",
+                  "category": "natural",
+                  "coords": [
+                        44.30235,
+                        36.75208
+                  ]
+            },
+            {
+                  "name": "Azadi)",
+                  "text": "O zonă de recreere pe malul apei la poalele muntelui Bradost.",
+                  "category": "recreational",
+                  "coords": [
+                        44.339674,
+                        36.819291
+                  ]
+            },
+            {
+                  "name": "Mandiyan",
+                  "text": "O rezervație montană protejată în regiunea accidentată Bradost.",
+                  "category": "natural",
+                  "coords": [
+                        44.344632,
+                        36.826659
+                  ]
+            },
+            {
+                  "name": "Guske",
+                  "text": "Un punct de observare la înălțime cu o panoramă largă asupra masivului Bradost.",
+                  "category": "natural",
+                  "coords": [
+                        44.373592,
+                        36.851593
+                  ]
+            },
+            {
+                  "name": "Jajuk Mirkhan",
+                  "text": "O fortăreață montană situată strategic în apropierea reliefului Bradost.",
+                  "category": "castle",
+                  "coords": [
+                        44.274066,
+                        36.873575
+                  ]
+            },
+            {
+                  "name": "Holî Bondskanî Goretu",
+                  "text": "Un monument local care onorează istoria regiunii Goretu.",
+                  "category": "historical",
+                  "coords": [
+                        44.274544,
+                        36.860853
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Un lăcaș de cult islamic tradițional pentru comunitatea locală din Bradost.",
+                  "category": "landmark",
+                  "coords": [
+                        44.32979,
+                        36.829433
+                  ]
+            },
+            {
+                  "name": "Azadi Mosque",
+                  "text": "Un lăcaș de rugăciune musulman în zona muntelui Bradost.",
+                  "category": "landmark",
+                  "coords": [
+                        44.342253,
+                        36.818731
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tasa",
+                  "text": "A high-altitude lookout point on the Bradost mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        44.308044,
+                        36.742274
+                  ]
+            },
+            {
+                  "name": "Qasrok",
+                  "text": "A vantage point offering wide views over the valleys below Mount Bradost.",
+                  "category": "natural",
+                  "coords": [
+                        44.30235,
+                        36.75208
+                  ]
+            },
+            {
+                  "name": "Azadi)",
+                  "text": "A recreational waterfront stretch at the foot of Mount Bradost.",
+                  "category": "recreational",
+                  "coords": [
+                        44.339674,
+                        36.819291
+                  ]
+            },
+            {
+                  "name": "Mandiyan",
+                  "text": "A protected mountain wilderness area in the rugged Bradost region.",
+                  "category": "natural",
+                  "coords": [
+                        44.344632,
+                        36.826659
+                  ]
+            },
+            {
+                  "name": "Guske",
+                  "text": "An elevated viewpoint offering a wide panorama of the Bradost massif.",
+                  "category": "natural",
+                  "coords": [
+                        44.373592,
+                        36.851593
+                  ]
+            },
+            {
+                  "name": "Jajuk Mirkhan",
+                  "text": "A strategically located mountain fortress near the Bradost relief.",
+                  "category": "castle",
+                  "coords": [
+                        44.274066,
+                        36.873575
+                  ]
+            },
+            {
+                  "name": "Holî Bondskanî Goretu",
+                  "text": "A local monument commemorating the history of the Goretu region.",
+                  "category": "historical",
+                  "coords": [
+                        44.274544,
+                        36.860853
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "A traditional Islamic house of worship for the local Bradost community.",
+                  "category": "landmark",
+                  "coords": [
+                        44.32979,
+                        36.829433
+                  ]
+            },
+            {
+                  "name": "Azadi Mosque",
+                  "text": "A Muslim prayer site located within the Mount Bradost area.",
+                  "category": "landmark",
+                  "coords": [
+                        44.342253,
+                        36.818731
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IQ-AR",
     coords: [44.3000, 36.8000],
@@ -219,7 +1029,1096 @@ export const poiExtraIraqReliefV2: POI[] = [
       fr: ["La grotte de Shanidar sur le Bradost contenait les squelettes de 10 Néandertaliens.", "La montagne atteint une altitude maximale d'environ 2 050 mètres.", "La grotte a été explorée dans les années 1950 par Ralph Solecki.", "Le Bradost est connu pour ses réseaux complexes de grottes karstiques.", "Il est situé près de la petite ville de Sidakan dans le district de Soran.", "La région faisait partie de l'ancien royaume de Musasir."],
     }, image: "/poi-images/mount-bradost-relief-v2.webp"},
   {
-    id: "mount-safin-relief-v2",
+    id: "mount-safin-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ady Sheer Monument",
+                  "text": "Dieses Denkmal in Shaqlawa erinnert an Ady Sheer, einen bedeutenden assyrischen Erzbischof und Historiker.",
+                  "category": "historical",
+                  "coords": [
+                        44.345599,
+                        36.393695
+                  ]
+            },
+            {
+                  "name": "kawes axa monument",
+                  "text": "Das Monument ehrt Kawes Axa, einen legendären kurdischen Volkssänger, in der Bergregion des Safin.",
+                  "category": "historical",
+                  "coords": [
+                        44.324693,
+                        36.401177
+                  ]
+            },
+            {
+                  "name": "Daya Gyan Mosque",
+                  "text": "Die Daya-Gyan-Moschee ist ein ruhiges Gebetshaus am Fuße des Mount Safin in der Ferienregion Shaqlawa.",
+                  "category": "religious",
+                  "coords": [
+                        44.376137,
+                        36.460124
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Diese Moschee bietet Wanderern und Gläubigen einen Rückzugsort in den kühleren Höhenlagen des Safin-Berges.",
+                  "category": "religious",
+                  "coords": [
+                        44.442316,
+                        36.371505
+                  ]
+            },
+            {
+                  "name": "Hajy Qadir Hamad Amin",
+                  "text": "Die Hajy Qadir Hamad Amin Moschee ist ein modernes religiöses Bauwerk in der malerischen Umgebung von Shaqlawa.",
+                  "category": "religious",
+                  "coords": [
+                        44.32072,
+                        36.411743
+                  ]
+            },
+            {
+                  "name": "haji hamid khoshnaw mosque",
+                  "text": "Diese Moschee in der Nähe des Mount Safin ist für ihre Gastfreundschaft gegenüber Reisenden in der Shaqlawa-Region bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        44.245066,
+                        36.399176
+                  ]
+            },
+            {
+                  "name": "Shaqlawa Great Mosque",
+                  "text": "Die Große Moschee von Shaqlawa ist das wichtigste islamische Gotteshaus dieser historischen Bergstadt.",
+                  "category": "religious",
+                  "coords": [
+                        44.32866,
+                        36.398592
+                  ]
+            },
+            {
+                  "name": "Rasul Faqe Mosque",
+                  "text": "Die Rasul-Faqe-Moschee fügt sich mit ihrem traditionellen Design in die bewaldeten Hänge des Safin-Gebirges ein.",
+                  "category": "religious",
+                  "coords": [
+                        44.305035,
+                        36.412607
+                  ]
+            },
+            {
+                  "name": "Sheikh Wso Rahman",
+                  "text": "Dieses antike Höhlenheiligtum am Mount Safin ist eine bedeutende christliche Pilgerstätte mit Blick auf Shaqlawa.",
+                  "category": "landmark",
+                  "coords": [
+                        44.328703,
+                        36.390992
+                  ]
+            },
+            {
+                  "name": "berezh",
+                  "text": "Berezh ist ein ruhiges Naturgebiet am Mount Safin, ideal für Wanderungen durch die Eichenwälder der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        44.265828,
+                        36.358543
+                  ]
+            },
+            {
+                  "name": "Kawanyan Mosque",
+                  "text": "Die Kawanyan-Moschee liegt in einem Bergdorf am Safin und dient den Anwohnern als lokales Gebetszentrum.",
+                  "category": "landmark",
+                  "coords": [
+                        44.283534,
+                        36.419486
+                  ]
+            },
+            {
+                  "name": "Mirawa New Mosque",
+                  "text": "Die neue Mirawa-Moschee zeichnet sich durch ihre helle Architektur im grünen Mirawa-Tal am Mount Safin aus.",
+                  "category": "landmark",
+                  "coords": [
+                        44.363019,
+                        36.434206
+                  ]
+            },
+            {
+                  "name": "Qadiana Mosque",
+                  "text": "In der Nähe kleiner Bergquellen gelegen, ist die Qadiana-Moschee ein wichtiger religiöser Ort in der Safin-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        44.365016,
+                        36.473908
+                  ]
+            },
+            {
+                  "name": "Al-Nasiha Mosque",
+                  "text": "Die Al-Nasiha-Moschee ist ein modernes Gebetshaus, das die religiöse Vielfalt in der Umgebung des Mount Safin bereichert.",
+                  "category": "landmark",
+                  "coords": [
+                        44.397258,
+                        36.478697
+                  ]
+            },
+            {
+                  "name": "Kherkhwazan Mosque",
+                  "text": "Die Kherkhwazan-Moschee dient als spiritueller Ankerpunkt für die Dorfgemeinschaft in den höheren Lagen des Safin-Berges.",
+                  "category": "landmark",
+                  "coords": [
+                        44.418686,
+                        36.459011
+                  ]
+            },
+            {
+                  "name": "Shakrok's Village Mosque",
+                  "text": "Diese kleine Moschee im Dorf Shakrok ist ein Beispiel für die schlichte, funktionale Sakralarchitektur der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        44.395685,
+                        36.465465
+                  ]
+            },
+            {
+                  "name": "Birash Mosque",
+                  "text": "Diese Moschee ist ein zentraler Treffpunkt für die muslimische Gemeinde in den Bergdörfern oberhalb von Shaqlawa.",
+                  "category": "landmark",
+                  "coords": [
+                        44.381226,
+                        36.454009
+                  ]
+            },
+            {
+                  "name": "Bawar Mosque",
+                  "text": "Die Bawar-Moschee am Mount Safin zeichnet sich durch ihre ruhige Lage abseits der Haupttouristenwege aus.",
+                  "category": "landmark",
+                  "coords": [
+                        44.384702,
+                        36.444247
+                  ]
+            },
+            {
+                  "name": "Waisy Qarani Mosque",
+                  "text": "Die Waisy-Qarani-Moschee ist ein lokales Heiligtum, das harmonisch in das felsige Relief des Safin-Berges eingebettet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.383778,
+                        36.399671
+                  ]
+            },
+            {
+                  "name": "Safa And Marwa Mosque",
+                  "text": "Benannt nach den heiligen Hügeln in Mekka, ist diese Moschee ein bedeutendes spirituelles Zentrum in der Shaqlawa-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        44.375483,
+                        36.402049
+                  ]
+            },
+            {
+                  "name": "Al-Ihsan Mosque",
+                  "text": "Die Al-Ihsan-Moschee am Mount Safin beeindruckt durch ihre Lage inmitten üppiger Obstgärten und Bergwälder.",
+                  "category": "landmark",
+                  "coords": [
+                        44.377668,
+                        36.380839
+                  ]
+            },
+            {
+                  "name": "Sabirawa Mosque",
+                  "text": "Ein lokales Gebetshaus am Fuße des Berges Safin in der Nähe der Bergstadt Shaqlawa.",
+                  "category": "landmark",
+                  "coords": [
+                        44.348339,
+                        36.401399
+                  ]
+            },
+            {
+                  "name": "Sork Mosque",
+                  "text": "Diese muslimische Kultstätte liegt in der malerischen Berglandschaft des Safin-Massivs.",
+                  "category": "landmark",
+                  "coords": [
+                        44.338357,
+                        36.405109
+                  ]
+            },
+            {
+                  "name": "Haji Ibrahim Mosque",
+                  "text": "Ein schlichtes Gebetshaus für Reisende und Einheimische am Fuße der kurdischen Berge.",
+                  "category": "landmark",
+                  "coords": [
+                        44.319355,
+                        36.407229
+                  ]
+            },
+            {
+                  "name": "Sibghatullah Alhaydare Mosque",
+                  "text": "Eine muslimische Kultstätte in der Nähe von Shaqlawa, umgeben von den felsigen Hängen des Safin.",
+                  "category": "landmark",
+                  "coords": [
+                        44.311612,
+                        36.408732
+                  ]
+            },
+            {
+                  "name": "Azadi mosque",
+                  "text": "Diese Moschee bietet Gläubigen in der bergigen Gegend um das Safin-Relief einen Rückzugsort.",
+                  "category": "landmark",
+                  "coords": [
+                        44.314804,
+                        36.410817
+                  ]
+            },
+            {
+                  "name": "Mala Aziz Mosque",
+                  "text": "Ein lokales geistliches Zentrum im ländlichen Hochland der Provinz Erbil.",
+                  "category": "landmark",
+                  "coords": [
+                        44.308087,
+                        36.415477
+                  ]
+            },
+            {
+                  "name": "Hujran Mosque",
+                  "text": "Dieses religiöse Zentrum liegt in der Nähe des Dorfes Hujran inmitten grüner Bergplateaus.",
+                  "category": "landmark",
+                  "coords": [
+                        44.26293,
+                        36.4111
+                  ]
+            },
+            {
+                  "name": "Haji Badria Mosque",
+                  "text": "Eine muslimische Kultstätte, die sich harmonisch in die natürliche Umgebung des Safin-Berges einfügt.",
+                  "category": "landmark",
+                  "coords": [
+                        44.269255,
+                        36.426884
+                  ]
+            },
+            {
+                  "name": "Khanzad Mosque",
+                  "text": "Diese Moschee liegt in der Nähe der historischen Festung Khanzad an der Straße nach Shaqlawa.",
+                  "category": "landmark",
+                  "coords": [
+                        44.342984,
+                        36.402428
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ady Sheer Monument",
+                  "text": "Ez a Saqlava városában található emlékmű Ady Sheernek, egy neves asszír érseknek és történésznek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        44.345599,
+                        36.393695
+                  ]
+            },
+            {
+                  "name": "kawes axa monument",
+                  "text": "Az emlékmű Kawes Axa, a legendás kurd népénekes előtt tiszteleg a Safin-hegy vidékén.",
+                  "category": "historical",
+                  "coords": [
+                        44.324693,
+                        36.401177
+                  ]
+            },
+            {
+                  "name": "Daya Gyan Mosque",
+                  "text": "A Daya Gyan mecset egy csendes imaház a Safin-hegy lábánál, Saqlava üdülőhelyén.",
+                  "category": "religious",
+                  "coords": [
+                        44.376137,
+                        36.460124
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Ez a mecset a túrázók és hívők számára nyújt menedéket a Safin-hegy hűvösebb magaslataiban.",
+                  "category": "religious",
+                  "coords": [
+                        44.442316,
+                        36.371505
+                  ]
+            },
+            {
+                  "name": "Hajy Qadir Hamad Amin",
+                  "text": "A Hajy Qadir Hamad Amin mecset egy modern vallási épület Saqlava festői környezetében.",
+                  "category": "religious",
+                  "coords": [
+                        44.32072,
+                        36.411743
+                  ]
+            },
+            {
+                  "name": "haji hamid khoshnaw mosque",
+                  "text": "Ez a Safin-hegy közelében fekvő mecset a Saqlava-régió utazói iránti vendégszeretetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        44.245066,
+                        36.399176
+                  ]
+            },
+            {
+                  "name": "Shaqlawa Great Mosque",
+                  "text": "A Saqlavai Nagymecset ennek a történelmi hegyi városnak a legjelentősebb iszlám imaháza.",
+                  "category": "religious",
+                  "coords": [
+                        44.32866,
+                        36.398592
+                  ]
+            },
+            {
+                  "name": "Rasul Faqe Mosque",
+                  "text": "A Raszul Faqe mecset hagyományos kialakításával illeszkedik a Safin-hegység erdős lankáihoz.",
+                  "category": "religious",
+                  "coords": [
+                        44.305035,
+                        36.412607
+                  ]
+            },
+            {
+                  "name": "Sheikh Wso Rahman",
+                  "text": "Ez az ősi barlangszentély a Safin-hegyen jelentős keresztény zarándokhely, kilátással Saqlavára.",
+                  "category": "landmark",
+                  "coords": [
+                        44.328703,
+                        36.390992
+                  ]
+            },
+            {
+                  "name": "berezh",
+                  "text": "Berezh egy csendes természeti terület a Safin-hegyen, amely ideális a régió tölgyerdőiben tett túrákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        44.265828,
+                        36.358543
+                  ]
+            },
+            {
+                  "name": "Kawanyan Mosque",
+                  "text": "A Kawanyan-mecset egy Safin-hegyi faluban található, és a helyiek vallási központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        44.283534,
+                        36.419486
+                  ]
+            },
+            {
+                  "name": "Mirawa New Mosque",
+                  "text": "Az új Mirawa-mecset világos építészetével tűnik ki a Safin-hegyi zöldellő Mirawa-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        44.363019,
+                        36.434206
+                  ]
+            },
+            {
+                  "name": "Qadiana Mosque",
+                  "text": "A hegyi források közelében fekvő Qadiana-mecset fontos vallási helyszín a Safin-régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        44.365016,
+                        36.473908
+                  ]
+            },
+            {
+                  "name": "Al-Nasiha Mosque",
+                  "text": "Az Al-Nasiha mecset egy modern imaház, amely gazdagítja a Safin-hegy környékének vallási sokszínűségét.",
+                  "category": "landmark",
+                  "coords": [
+                        44.397258,
+                        36.478697
+                  ]
+            },
+            {
+                  "name": "Kherkhwazan Mosque",
+                  "text": "A Kherkhwazan-mecset spirituális horgonyként szolgál a falusi közösség számára a Safin-hegy magasabb részein.",
+                  "category": "landmark",
+                  "coords": [
+                        44.418686,
+                        36.459011
+                  ]
+            },
+            {
+                  "name": "Shakrok's Village Mosque",
+                  "text": "Ez a Shakrok faluban található kis mecset a régió egyszerű és funkcionális szakrális építészetének példája.",
+                  "category": "landmark",
+                  "coords": [
+                        44.395685,
+                        36.465465
+                  ]
+            },
+            {
+                  "name": "Birash Mosque",
+                  "text": "Ez a mecset központi találkozóhely a Saqlava feletti hegyi falvak muszlim közössége számára.",
+                  "category": "landmark",
+                  "coords": [
+                        44.381226,
+                        36.454009
+                  ]
+            },
+            {
+                  "name": "Bawar Mosque",
+                  "text": "A Safin-hegyi Bawar-mecset a fő turistaútvonalaktól távol eső, csendes elhelyezkedésével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        44.384702,
+                        36.444247
+                  ]
+            },
+            {
+                  "name": "Waisy Qarani Mosque",
+                  "text": "A Waisy Qarani mecset egy helyi kegyhely, amely harmonikusan ágyazódik a Safin-hegy sziklás domborzatába.",
+                  "category": "landmark",
+                  "coords": [
+                        44.383778,
+                        36.399671
+                  ]
+            },
+            {
+                  "name": "Safa And Marwa Mosque",
+                  "text": "A mekkai szent dombokról elnevezett mecset jelentős spirituális központ a Saqlava-régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        44.375483,
+                        36.402049
+                  ]
+            },
+            {
+                  "name": "Al-Ihsan Mosque",
+                  "text": "A Safin-hegyi Al-Ihsan mecset lenyűgöző elhelyezkedésével a buja gyümölcsösök és hegyi erdők között.",
+                  "category": "landmark",
+                  "coords": [
+                        44.377668,
+                        36.380839
+                  ]
+            },
+            {
+                  "name": "Sabirawa Mosque",
+                  "text": "Helyi imaház a Safin-hegy lábánál, a hegyvidéki Shaqlawa város közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        44.348339,
+                        36.401399
+                  ]
+            },
+            {
+                  "name": "Sork Mosque",
+                  "text": "Ez a muszlim kegyhely a Safin-hegység festői hegyi táján található.",
+                  "category": "landmark",
+                  "coords": [
+                        44.338357,
+                        36.405109
+                  ]
+            },
+            {
+                  "name": "Haji Ibrahim Mosque",
+                  "text": "Egyszerű imaház utazók és helyiek számára a kurd hegyek lábánál.",
+                  "category": "landmark",
+                  "coords": [
+                        44.319355,
+                        36.407229
+                  ]
+            },
+            {
+                  "name": "Sibghatullah Alhaydare Mosque",
+                  "text": "Muszlim kegyhely Shaqlawa közelében, a Safin sziklás lejtőivel körülvéve.",
+                  "category": "landmark",
+                  "coords": [
+                        44.311612,
+                        36.408732
+                  ]
+            },
+            {
+                  "name": "Azadi mosque",
+                  "text": "Ez a mecset a Safin-dombormű körüli hegyvidéki területen nyújt menedéket a hívőknek.",
+                  "category": "landmark",
+                  "coords": [
+                        44.314804,
+                        36.410817
+                  ]
+            },
+            {
+                  "name": "Mala Aziz Mosque",
+                  "text": "Helyi szellemi központ Erbil tartomány vidéki felföldjén.",
+                  "category": "landmark",
+                  "coords": [
+                        44.308087,
+                        36.415477
+                  ]
+            },
+            {
+                  "name": "Hujran Mosque",
+                  "text": "Ez a vallási központ Hujran falu közelében, zöld hegyi fennsíkok között található.",
+                  "category": "landmark",
+                  "coords": [
+                        44.26293,
+                        36.4111
+                  ]
+            },
+            {
+                  "name": "Haji Badria Mosque",
+                  "text": "Muszlim kegyhely, amely harmonikusan illeszkedik a Safin-hegy természeti környezetébe.",
+                  "category": "landmark",
+                  "coords": [
+                        44.269255,
+                        36.426884
+                  ]
+            },
+            {
+                  "name": "Khanzad Mosque",
+                  "text": "Ez a mecset a történelmi Khanzad-erőd közelében, a Shaqlawába vezető út mentén található.",
+                  "category": "landmark",
+                  "coords": [
+                        44.342984,
+                        36.402428
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ady Sheer Monument",
+                  "text": "Acest monument din Shaqlawa îl onorează pe Ady Sheer, un important arhiepiscop și istoric asirian.",
+                  "category": "historical",
+                  "coords": [
+                        44.345599,
+                        36.393695
+                  ]
+            },
+            {
+                  "name": "kawes axa monument",
+                  "text": "Monumentul îl omagiază pe Kawes Axa, un legendar cântăreț popular kurd, în regiunea montană Safin.",
+                  "category": "historical",
+                  "coords": [
+                        44.324693,
+                        36.401177
+                  ]
+            },
+            {
+                  "name": "Daya Gyan Mosque",
+                  "text": "Moscheea Daya Gyan este un lăcaș de cult liniștit situat la poalele muntelui Safin, în stațiunea Shaqlawa.",
+                  "category": "religious",
+                  "coords": [
+                        44.376137,
+                        36.460124
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Această moschee oferă un refugiu pentru turiști și credincioși în zonele mai răcoroase de pe muntele Safin.",
+                  "category": "religious",
+                  "coords": [
+                        44.442316,
+                        36.371505
+                  ]
+            },
+            {
+                  "name": "Hajy Qadir Hamad Amin",
+                  "text": "Moscheea Hajy Qadir Hamad Amin este o structură religioasă modernă în cadrul pitoresc al orașului Shaqlawa.",
+                  "category": "religious",
+                  "coords": [
+                        44.32072,
+                        36.411743
+                  ]
+            },
+            {
+                  "name": "haji hamid khoshnaw mosque",
+                  "text": "Această moschee de lângă muntele Safin este cunoscută pentru ospitalitatea față de călătorii din regiunea Shaqlawa.",
+                  "category": "religious",
+                  "coords": [
+                        44.245066,
+                        36.399176
+                  ]
+            },
+            {
+                  "name": "Shaqlawa Great Mosque",
+                  "text": "Marea Moschee din Shaqlawa este principalul lăcaș de cult islamic al acestui oraș montan istoric.",
+                  "category": "religious",
+                  "coords": [
+                        44.32866,
+                        36.398592
+                  ]
+            },
+            {
+                  "name": "Rasul Faqe Mosque",
+                  "text": "Moscheea Rasul Faqe se integrează prin designul său tradițional în versanții împăduriți ai munților Safin.",
+                  "category": "religious",
+                  "coords": [
+                        44.305035,
+                        36.412607
+                  ]
+            },
+            {
+                  "name": "Sheikh Wso Rahman",
+                  "text": "Acest sanctuar antic în peșteră de pe muntele Safin este un important sit de pelerinaj creștin, oferind vedere spre Shaqlawa.",
+                  "category": "landmark",
+                  "coords": [
+                        44.328703,
+                        36.390992
+                  ]
+            },
+            {
+                  "name": "berezh",
+                  "text": "Berezh este o zonă naturală liniștită pe muntele Safin, ideală pentru drumeții prin pădurile de stejar ale regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        44.265828,
+                        36.358543
+                  ]
+            },
+            {
+                  "name": "Kawanyan Mosque",
+                  "text": "Moscheea Kawanyan este situată într-un sat montan de pe Safin și servește ca centru local de rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        44.283534,
+                        36.419486
+                  ]
+            },
+            {
+                  "name": "Mirawa New Mosque",
+                  "text": "Noua moschee Mirawa se distinge prin arhitectura sa luminoasă în valea verde Mirawa de pe muntele Safin.",
+                  "category": "landmark",
+                  "coords": [
+                        44.363019,
+                        36.434206
+                  ]
+            },
+            {
+                  "name": "Qadiana Mosque",
+                  "text": "Situată lângă izvoare montane mici, moscheea Qadiana este un loc religios important în regiunea Safin.",
+                  "category": "landmark",
+                  "coords": [
+                        44.365016,
+                        36.473908
+                  ]
+            },
+            {
+                  "name": "Al-Nasiha Mosque",
+                  "text": "Moscheea Al-Nasiha este un lăcaș de rugăciune modern care îmbogățește diversitatea religioasă din jurul muntelui Safin.",
+                  "category": "landmark",
+                  "coords": [
+                        44.397258,
+                        36.478697
+                  ]
+            },
+            {
+                  "name": "Kherkhwazan Mosque",
+                  "text": "Moscheea Kherkhwazan servește ca punct de sprijin spiritual pentru comunitatea sătească de la altitudinile mai mari ale muntelui Safin.",
+                  "category": "landmark",
+                  "coords": [
+                        44.418686,
+                        36.459011
+                  ]
+            },
+            {
+                  "name": "Shakrok's Village Mosque",
+                  "text": "Această mică moschee din satul Shakrok este un exemplu al arhitecturii sacre simple și funcționale din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        44.395685,
+                        36.465465
+                  ]
+            },
+            {
+                  "name": "Birash Mosque",
+                  "text": "Această moschee este un punct central de întâlnire pentru comunitatea musulmană din satele montane de deasupra Shaqlawa.",
+                  "category": "landmark",
+                  "coords": [
+                        44.381226,
+                        36.454009
+                  ]
+            },
+            {
+                  "name": "Bawar Mosque",
+                  "text": "Moscheea Bawar de pe muntele Safin se distinge prin locația sa liniștită, departe de traseele turistice principale.",
+                  "category": "landmark",
+                  "coords": [
+                        44.384702,
+                        36.444247
+                  ]
+            },
+            {
+                  "name": "Waisy Qarani Mosque",
+                  "text": "Moscheea Waisy Qarani este un sanctuar local, integrat armonios în relieful stâncos al muntelui Safin.",
+                  "category": "landmark",
+                  "coords": [
+                        44.383778,
+                        36.399671
+                  ]
+            },
+            {
+                  "name": "Safa And Marwa Mosque",
+                  "text": "Numită după dealurile sfinte din Mecca, această moschee este un centru spiritual important în regiunea Shaqlawa.",
+                  "category": "landmark",
+                  "coords": [
+                        44.375483,
+                        36.402049
+                  ]
+            },
+            {
+                  "name": "Al-Ihsan Mosque",
+                  "text": "Moscheea Al-Ihsan de pe muntele Safin impresionează prin locația sa în mijlocul livezilor luxuriante și al pădurilor montane.",
+                  "category": "landmark",
+                  "coords": [
+                        44.377668,
+                        36.380839
+                  ]
+            },
+            {
+                  "name": "Sabirawa Mosque",
+                  "text": "O casă de rugăciune locală situată la poalele Muntelui Safin, lângă orașul montan Shaqlawa.",
+                  "category": "landmark",
+                  "coords": [
+                        44.348339,
+                        36.401399
+                  ]
+            },
+            {
+                  "name": "Sork Mosque",
+                  "text": "Acest lăcaș de cult musulman este situat în peisajul montan pitoresc al masivului Safin.",
+                  "category": "landmark",
+                  "coords": [
+                        44.338357,
+                        36.405109
+                  ]
+            },
+            {
+                  "name": "Haji Ibrahim Mosque",
+                  "text": "O casă de rugăciune simplă pentru călători și localnici la poalele munților kurzi.",
+                  "category": "landmark",
+                  "coords": [
+                        44.319355,
+                        36.407229
+                  ]
+            },
+            {
+                  "name": "Sibghatullah Alhaydare Mosque",
+                  "text": "Un lăcaș de cult musulman lângă Shaqlawa, înconjurat de versanții stâncoși ai muntelui Safin.",
+                  "category": "landmark",
+                  "coords": [
+                        44.311612,
+                        36.408732
+                  ]
+            },
+            {
+                  "name": "Azadi mosque",
+                  "text": "Această moschee oferă un refugiu credincioșilor din zona muntoasă din jurul reliefului Safin.",
+                  "category": "landmark",
+                  "coords": [
+                        44.314804,
+                        36.410817
+                  ]
+            },
+            {
+                  "name": "Mala Aziz Mosque",
+                  "text": "Un centru spiritual local în zonele muntoase rurale din provincia Erbil.",
+                  "category": "landmark",
+                  "coords": [
+                        44.308087,
+                        36.415477
+                  ]
+            },
+            {
+                  "name": "Hujran Mosque",
+                  "text": "Acest centru religios este situat lângă satul Hujran, printre platouri montane verzi.",
+                  "category": "landmark",
+                  "coords": [
+                        44.26293,
+                        36.4111
+                  ]
+            },
+            {
+                  "name": "Haji Badria Mosque",
+                  "text": "Un lăcaș de cult musulman care se integrează armonios în mediul natural al muntelui Safin.",
+                  "category": "landmark",
+                  "coords": [
+                        44.269255,
+                        36.426884
+                  ]
+            },
+            {
+                  "name": "Khanzad Mosque",
+                  "text": "Această moschee este situată lângă cetatea istorică Khanzad, pe drumul spre Shaqlawa.",
+                  "category": "landmark",
+                  "coords": [
+                        44.342984,
+                        36.402428
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ady Sheer Monument",
+                  "text": "This monument in Shaqlawa honors Ady Sheer, a significant Assyrian archbishop and historian.",
+                  "category": "historical",
+                  "coords": [
+                        44.345599,
+                        36.393695
+                  ]
+            },
+            {
+                  "name": "kawes axa monument",
+                  "text": "The monument honors Kawes Axa, a legendary Kurdish folk singer, located in the Safin mountain region.",
+                  "category": "historical",
+                  "coords": [
+                        44.324693,
+                        36.401177
+                  ]
+            },
+            {
+                  "name": "Daya Gyan Mosque",
+                  "text": "The Daya Gyan Mosque is a peaceful house of prayer located at the base of Mount Safin in the resort town of Shaqlawa.",
+                  "category": "religious",
+                  "coords": [
+                        44.376137,
+                        36.460124
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "This mosque provides a retreat for hikers and worshippers in the cooler elevations of Mount Safin.",
+                  "category": "religious",
+                  "coords": [
+                        44.442316,
+                        36.371505
+                  ]
+            },
+            {
+                  "name": "Hajy Qadir Hamad Amin",
+                  "text": "The Hajy Qadir Hamad Amin Mosque is a modern religious structure set within the picturesque surroundings of Shaqlawa.",
+                  "category": "religious",
+                  "coords": [
+                        44.32072,
+                        36.411743
+                  ]
+            },
+            {
+                  "name": "haji hamid khoshnaw mosque",
+                  "text": "Located near Mount Safin, this mosque is known for its hospitality toward travelers in the Shaqlawa region.",
+                  "category": "religious",
+                  "coords": [
+                        44.245066,
+                        36.399176
+                  ]
+            },
+            {
+                  "name": "Shaqlawa Great Mosque",
+                  "text": "The Shaqlawa Great Mosque is the primary Islamic place of worship in this historic mountain town.",
+                  "category": "religious",
+                  "coords": [
+                        44.32866,
+                        36.398592
+                  ]
+            },
+            {
+                  "name": "Rasul Faqe Mosque",
+                  "text": "The Rasul Faqe Mosque blends with traditional design into the forested slopes of the Safin mountain range.",
+                  "category": "religious",
+                  "coords": [
+                        44.305035,
+                        36.412607
+                  ]
+            },
+            {
+                  "name": "Shrine of Raban Boya",
+                  "text": "This ancient cave shrine on Mount Safin is a significant Christian pilgrimage site overlooking the town of Shaqlawa.",
+                  "category": "landmark",
+                  "coords": [
+                        44.328703,
+                        36.390992
+                  ]
+            },
+            {
+                  "name": "berezh",
+                  "text": "Berezh is a quiet natural area on Mount Safin, ideal for hiking through the region's oak forests.",
+                  "category": "landmark",
+                  "coords": [
+                        44.265828,
+                        36.358543
+                  ]
+            },
+            {
+                  "name": "Kawanyan Mosque",
+                  "text": "The Kawanyan Mosque is located in a mountain village on Safin and serves as a local prayer center for residents.",
+                  "category": "landmark",
+                  "coords": [
+                        44.283534,
+                        36.419486
+                  ]
+            },
+            {
+                  "name": "Mirawa New Mosque",
+                  "text": "The Mirawa New Mosque is notable for its bright architecture within the lush Mirawa Valley at Mount Safin.",
+                  "category": "landmark",
+                  "coords": [
+                        44.363019,
+                        36.434206
+                  ]
+            },
+            {
+                  "name": "Qadiana Mosque",
+                  "text": "Located near small mountain springs, the Qadiana Mosque is a key religious site in the Safin region.",
+                  "category": "landmark",
+                  "coords": [
+                        44.365016,
+                        36.473908
+                  ]
+            },
+            {
+                  "name": "Al-Nasiha Mosque",
+                  "text": "The Al-Nasiha Mosque is a modern house of prayer that enriches the religious diversity around Mount Safin.",
+                  "category": "landmark",
+                  "coords": [
+                        44.397258,
+                        36.478697
+                  ]
+            },
+            {
+                  "name": "Kherkhwazan Mosque",
+                  "text": "The Kherkhwazan Mosque serves as a spiritual anchor for the village community in the higher reaches of Mount Safin.",
+                  "category": "landmark",
+                  "coords": [
+                        44.418686,
+                        36.459011
+                  ]
+            },
+            {
+                  "name": "Shakrok's Village Mosque",
+                  "text": "This small mosque in Shakrok village is an example of the simple, functional sacred architecture of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        44.395685,
+                        36.465465
+                  ]
+            },
+            {
+                  "name": "Mir Rostama Mosque",
+                  "text": "This mosque is a central gathering place for the Muslim community in the mountain villages above Shaqlawa.",
+                  "category": "landmark",
+                  "coords": [
+                        44.381226,
+                        36.454009
+                  ]
+            },
+            {
+                  "name": "Bawar Mosque",
+                  "text": "The Bawar Mosque on Mount Safin is noted for its quiet location away from the main tourist paths.",
+                  "category": "landmark",
+                  "coords": [
+                        44.384702,
+                        36.444247
+                  ]
+            },
+            {
+                  "name": "Waisy Qarani Mosque",
+                  "text": "The Waisy Qarani Mosque is a local sanctuary harmoniously embedded into the rocky relief of Mount Safin.",
+                  "category": "landmark",
+                  "coords": [
+                        44.383778,
+                        36.399671
+                  ]
+            },
+            {
+                  "name": "Safa And Marwa Mosque",
+                  "text": "Named after the holy hills in Mecca, this mosque is a significant spiritual center in the Shaqlawa region.",
+                  "category": "landmark",
+                  "coords": [
+                        44.375483,
+                        36.402049
+                  ]
+            },
+            {
+                  "name": "Al-Ihsan Mosque",
+                  "text": "The Al-Ihsan Mosque on Mount Safin is set impressively amidst lush orchards and mountain forests.",
+                  "category": "landmark",
+                  "coords": [
+                        44.377668,
+                        36.380839
+                  ]
+            },
+            {
+                  "name": "Sabirawa Mosque",
+                  "text": "A local house of prayer nestled in the foothills of Mount Safin near the mountain town of Shaqlawa.",
+                  "category": "landmark",
+                  "coords": [
+                        44.348339,
+                        36.401399
+                  ]
+            },
+            {
+                  "name": "Sork Mosque",
+                  "text": "This Muslim place of worship is set within the scenic mountain landscape of the Safin massif.",
+                  "category": "landmark",
+                  "coords": [
+                        44.338357,
+                        36.405109
+                  ]
+            },
+            {
+                  "name": "Haji Ibrahim Mosque",
+                  "text": "A simple house of prayer for travelers and locals at the foot of the Kurdish mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        44.319355,
+                        36.407229
+                  ]
+            },
+            {
+                  "name": "Sibghatullah Alhaydare Mosque",
+                  "text": "A Muslim place of worship near Shaqlawa, surrounded by the rocky slopes of Mount Safin.",
+                  "category": "landmark",
+                  "coords": [
+                        44.311612,
+                        36.408732
+                  ]
+            },
+            {
+                  "name": "Azadi mosque",
+                  "text": "This mosque provides a sanctuary for worshippers in the mountainous area surrounding the Safin relief.",
+                  "category": "landmark",
+                  "coords": [
+                        44.314804,
+                        36.410817
+                  ]
+            },
+            {
+                  "name": "Mala Aziz Mosque",
+                  "text": "A local spiritual center in the rural highlands of the Erbil province.",
+                  "category": "landmark",
+                  "coords": [
+                        44.308087,
+                        36.415477
+                  ]
+            },
+            {
+                  "name": "Hujran Mosque",
+                  "text": "This religious center is located near Hujran village amidst green mountain plateaus.",
+                  "category": "landmark",
+                  "coords": [
+                        44.26293,
+                        36.4111
+                  ]
+            },
+            {
+                  "name": "Haji Badria Mosque",
+                  "text": "A Muslim place of worship that blends harmoniously into the natural surroundings of Mount Safin.",
+                  "category": "landmark",
+                  "coords": [
+                        44.269255,
+                        36.426884
+                  ]
+            },
+            {
+                  "name": "Khanzad Mosque",
+                  "text": "This mosque is situated near the historic Khanzad fortress on the road to Shaqlawa.",
+                  "category": "landmark",
+                  "coords": [
+                        44.342984,
+                        36.402428
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IQ-AR",
     coords: [44.3500, 36.4000],
@@ -262,7 +2161,448 @@ export const poiExtraIraqReliefV2: POI[] = [
       fr: ["L'altitude maximale du Safin est d'environ 1 860 mètres.", "Il se trouve juste au nord de la ville de villégiature de Shaqlawa.", "Ses forêts de chênes comptent parmi les plus denses du Kurdistan.", "Plusieurs sources alimentent les jardins de Shaqlawa.", "La montagne est un lieu prisé pour les pique-niques et les sorties dominicales.", "Elle fait office de point de repère majeur dans le district de Shaqlawa."],
     }, image: "/poi-images/mount-safin-relief-v2.webp"},
   {
-    id: "mount-gara-relief-v2",
+    id: "mount-gara-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Soofe jamnki",
+                  "text": "Ein Aussichtspunkt am Berg Gara, der einen weiten Blick über das Sapna-Tal und die Gipfel des Zagros-Gebirges bietet.",
+                  "category": "natural",
+                  "coords": [
+                        43.415309,
+                        36.947298
+                  ]
+            },
+            {
+                  "name": "Mahmoud Snowy Mountain",
+                  "text": "Dieser Aussichtspunkt auf dem schneebedeckten Mahmoud-Berg ist für seine klaren Sichtverhältnisse im Winter bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        43.316067,
+                        37.003746
+                  ]
+            },
+            {
+                  "name": "Gara Mountain",
+                  "text": "Der Gara-Berg ist ein markanter Kalksteingipfel, der für seine ehemalige königliche Sommerresidenz und Wanderwege bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        43.298133,
+                        36.995176
+                  ]
+            },
+            {
+                  "name": "The resort",
+                  "text": "Eine Ferienanlage in den Gara-Bergen, die Besuchern Erholung in einer bewaldeten Hochgebirgslandschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        43.339418,
+                        37.031071
+                  ]
+            },
+            {
+                  "name": "kabeni gashtyare",
+                  "text": "Ein Aussichtspunkt am Gara-Pass, der für spektakuläre Sonnenuntergänge über den nordirakischen Bergen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        43.340623,
+                        37.035423
+                  ]
+            },
+            {
+                  "name": "Azadiye",
+                  "text": "Ein Naherholungsgebiet am Gara-Berg, das besonders bei Familien für Picknicks in der unberührten Natur beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        43.364574,
+                        37.033163
+                  ]
+            },
+            {
+                  "name": "Havingah",
+                  "text": "Eine hochgelegene Bergattraktion, die für ihre frischen Quellen und schattigen Plätze während der Hitze bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        43.347854,
+                        37.03137
+                  ]
+            },
+            {
+                  "name": "mtx",
+                  "text": "Ein exponierter Aussichtspunkt, der einen 360-Grad-Panoramablick auf die zerklüfteten Gipfel des Gara-Massivs bietet.",
+                  "category": "natural",
+                  "coords": [
+                        43.460664,
+                        37.017185
+                  ]
+            },
+            {
+                  "name": "Kale",
+                  "text": "Eine historische Festungsruine auf einem steilen Felsvorsprung, die einst den Zugang zum Gara-Pass kontrollierte.",
+                  "category": "castle",
+                  "coords": [
+                        43.482286,
+                        36.977173
+                  ]
+            },
+            {
+                  "name": "Mizgeft",
+                  "text": "Eine kleine Bergmoschee, die aus lokalem Stein erbaut wurde und sich harmonisch in die Gara-Landschaft einfügt.",
+                  "category": "landmark",
+                  "coords": [
+                        43.338562,
+                        37.047159
+                  ]
+            },
+            {
+                  "name": "Azadî Mosque",
+                  "text": "Die Azadi-Moschee ist ein markantes religiöses Gebäude am Berghang, bekannt für ihre weithin sichtbare grüne Kuppel.",
+                  "category": "religious",
+                  "coords": [
+                        43.360502,
+                        37.047154
+                  ]
+            },
+            {
+                  "name": "Azadiye Çarşi",
+                  "text": "Ein lebhafter Bergmarkt, auf dem lokale Bauern frische Walnüsse, Honig und Kräuter aus der Gara-Region anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        43.362024,
+                        37.046139
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Soofe jamnki",
+                  "text": "Kilátópont a Gara-hegyen, amely széles panorámát nyújt a Sapna-völgyre és a Zagrosz-hegység csúcsaira.",
+                  "category": "natural",
+                  "coords": [
+                        43.415309,
+                        36.947298
+                  ]
+            },
+            {
+                  "name": "Mahmoud Snowy Mountain",
+                  "text": "Ez a kilátópont a hófödte Mahmoud-hegyen télen a tiszta látási viszonyairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        43.316067,
+                        37.003746
+                  ]
+            },
+            {
+                  "name": "Gara Mountain",
+                  "text": "A Gara-hegy egy jellegzetes mészkőcsúcs, amely egykori királyi nyári rezidenciájáról és túraútvonalairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        43.298133,
+                        36.995176
+                  ]
+            },
+            {
+                  "name": "The resort",
+                  "text": "Üdülőhely a Gara-hegységben, amely kikapcsolódást nyújt a látogatóknak az erdős magashegyi tájban.",
+                  "category": "landmark",
+                  "coords": [
+                        43.339418,
+                        37.031071
+                  ]
+            },
+            {
+                  "name": "kabeni gashtyare",
+                  "text": "Kilátópont a Gara-hágónál, amely az észak-iraki hegyek feletti látványos naplementéiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        43.340623,
+                        37.035423
+                  ]
+            },
+            {
+                  "name": "Azadiye",
+                  "text": "Kikapcsolódási hely a Gara-hegyen, amely a családok körében népszerű az érintetlen természetben való piknikezésre.",
+                  "category": "landmark",
+                  "coords": [
+                        43.364574,
+                        37.033163
+                  ]
+            },
+            {
+                  "name": "Havingah",
+                  "text": "Magasan fekvő hegyi látványosság, amely friss forrásairól és az árnyékos helyeiről ismert a hőség idején.",
+                  "category": "landmark",
+                  "coords": [
+                        43.347854,
+                        37.03137
+                  ]
+            },
+            {
+                  "name": "mtx",
+                  "text": "Egy kitett kilátóhely, amely 360 fokos panorámát nyújt a Gara-masszívum csipkés csúcsaira.",
+                  "category": "natural",
+                  "coords": [
+                        43.460664,
+                        37.017185
+                  ]
+            },
+            {
+                  "name": "Kale",
+                  "text": "Történelmi erődrom egy meredek sziklakiszögellésen, amely egykor a Gara-hágó bejáratát ellenőrizte.",
+                  "category": "castle",
+                  "coords": [
+                        43.482286,
+                        36.977173
+                  ]
+            },
+            {
+                  "name": "Mizgeft",
+                  "text": "Helyi kőből épült kis hegyi mecset, amely harmonikusan illeszkedik a Gara tájba.",
+                  "category": "landmark",
+                  "coords": [
+                        43.338562,
+                        37.047159
+                  ]
+            },
+            {
+                  "name": "Azadî Mosque",
+                  "text": "Az Azadi-mecset a hegyoldal jellegzetes vallási épülete, amely messziről látható zöld kupolájáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        43.360502,
+                        37.047154
+                  ]
+            },
+            {
+                  "name": "Azadiye Çarşi",
+                  "text": "Élénk hegyi piac, ahol a helyi gazdák friss diót, mézet és gyógynövényeket kínálnak a Gara régióból.",
+                  "category": "cultural",
+                  "coords": [
+                        43.362024,
+                        37.046139
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Soofe jamnki",
+                  "text": "Un punct de belvedere pe muntele Gara, care oferă o vedere panoramică asupra văii Sapna și a vârfurilor munților Zagros.",
+                  "category": "natural",
+                  "coords": [
+                        43.415309,
+                        36.947298
+                  ]
+            },
+            {
+                  "name": "Mahmoud Snowy Mountain",
+                  "text": "Acest punct de belvedere de pe muntele înzăpezit Mahmoud este cunoscut pentru vizibilitatea clară în timpul iernii.",
+                  "category": "natural",
+                  "coords": [
+                        43.316067,
+                        37.003746
+                  ]
+            },
+            {
+                  "name": "Gara Mountain",
+                  "text": "Muntele Gara este un vârf de calcar proeminent, cunoscut pentru fosta rezidență regală de vară și traseele de drumeție.",
+                  "category": "landmark",
+                  "coords": [
+                        43.298133,
+                        36.995176
+                  ]
+            },
+            {
+                  "name": "The resort",
+                  "text": "O stațiune în munții Gara, care oferă vizitatorilor relaxare într-un peisaj montan împădurit.",
+                  "category": "landmark",
+                  "coords": [
+                        43.339418,
+                        37.031071
+                  ]
+            },
+            {
+                  "name": "kabeni gashtyare",
+                  "text": "Un punct de belvedere la pasul Gara, cunoscut pentru apusurile spectaculoase peste munții din nordul Irakului.",
+                  "category": "natural",
+                  "coords": [
+                        43.340623,
+                        37.035423
+                  ]
+            },
+            {
+                  "name": "Azadiye",
+                  "text": "O zonă de recreere pe muntele Gara, populară în rândul familiilor pentru picnicuri în natura virgină.",
+                  "category": "landmark",
+                  "coords": [
+                        43.364574,
+                        37.033163
+                  ]
+            },
+            {
+                  "name": "Havingah",
+                  "text": "O atracție montană situată la mare altitudine, cunoscută pentru izvoarele sale reci și locurile umbrite în timpul arșiței.",
+                  "category": "landmark",
+                  "coords": [
+                        43.347854,
+                        37.03137
+                  ]
+            },
+            {
+                  "name": "mtx",
+                  "text": "Un punct de belvedere expus care oferă o panoramă de 360 de grade asupra vârfurilor zimțate ale masivului Gara.",
+                  "category": "natural",
+                  "coords": [
+                        43.460664,
+                        37.017185
+                  ]
+            },
+            {
+                  "name": "Kale",
+                  "text": "O ruină istorică de fortăreață pe un pinten stâncos abrupt, care odinioară controla accesul spre pasul Gara.",
+                  "category": "castle",
+                  "coords": [
+                        43.482286,
+                        36.977173
+                  ]
+            },
+            {
+                  "name": "Mizgeft",
+                  "text": "O mică moschee montană construită din piatră locală, care se integrează armonios în peisajul Gara.",
+                  "category": "landmark",
+                  "coords": [
+                        43.338562,
+                        37.047159
+                  ]
+            },
+            {
+                  "name": "Azadî Mosque",
+                  "text": "Moscheea Azadi este o clădire religioasă distinctivă de pe versant, cunoscută pentru cupola sa verde vizibilă de la distanță.",
+                  "category": "religious",
+                  "coords": [
+                        43.360502,
+                        37.047154
+                  ]
+            },
+            {
+                  "name": "Azadiye Çarşi",
+                  "text": "O piață montană plină de viață, unde fermierii locali oferă nuci proaspete, miere și ierburi din regiunea Gara.",
+                  "category": "cultural",
+                  "coords": [
+                        43.362024,
+                        37.046139
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Soofe jamnki",
+                  "text": "A viewpoint on Mount Gara offering a wide vista over the Sapna Valley and the peaks of the Zagros Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        43.415309,
+                        36.947298
+                  ]
+            },
+            {
+                  "name": "Mahmoud Snowy Mountain",
+                  "text": "This viewpoint on the snowy Mahmoud Mountain is known for its clear visibility during the winter season.",
+                  "category": "natural",
+                  "coords": [
+                        43.316067,
+                        37.003746
+                  ]
+            },
+            {
+                  "name": "Gara Mountain",
+                  "text": "Mount Gara is a prominent limestone peak known for its former royal summer residence and hiking trails.",
+                  "category": "landmark",
+                  "coords": [
+                        43.298133,
+                        36.995176
+                  ]
+            },
+            {
+                  "name": "The resort",
+                  "text": "A resort area in the Gara mountains providing visitors with relaxation in a forested high-altitude setting.",
+                  "category": "landmark",
+                  "coords": [
+                        43.339418,
+                        37.031071
+                  ]
+            },
+            {
+                  "name": "kabeni gashtyare",
+                  "text": "A viewpoint at the Gara pass, known for spectacular sunsets over the northern Iraqi mountains.",
+                  "category": "natural",
+                  "coords": [
+                        43.340623,
+                        37.035423
+                  ]
+            },
+            {
+                  "name": "Azadiye",
+                  "text": "A recreational spot on Mount Gara, popular with families for picnics in the untouched nature.",
+                  "category": "landmark",
+                  "coords": [
+                        43.364574,
+                        37.033163
+                  ]
+            },
+            {
+                  "name": "Havingah",
+                  "text": "A high-altitude mountain attraction known for its fresh springs and shaded spots during the heat.",
+                  "category": "landmark",
+                  "coords": [
+                        43.347854,
+                        37.03137
+                  ]
+            },
+            {
+                  "name": "mtx",
+                  "text": "An exposed viewpoint providing a 360-degree panorama of the jagged peaks of the Gara massif.",
+                  "category": "natural",
+                  "coords": [
+                        43.460664,
+                        37.017185
+                  ]
+            },
+            {
+                  "name": "Kale",
+                  "text": "A historic fortress ruin on a steep rocky outcrop that once controlled access to the Gara pass.",
+                  "category": "castle",
+                  "coords": [
+                        43.482286,
+                        36.977173
+                  ]
+            },
+            {
+                  "name": "Mizgeft",
+                  "text": "A small mountain mosque built from local stone, blending harmoniously into the Gara landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        43.338562,
+                        37.047159
+                  ]
+            },
+            {
+                  "name": "Azadî Mosque",
+                  "text": "The Azadi Mosque is a prominent religious building on the mountainside, known for its green dome visible from afar.",
+                  "category": "religious",
+                  "coords": [
+                        43.360502,
+                        37.047154
+                  ]
+            },
+            {
+                  "name": "Azadiye Çarşi",
+                  "text": "A lively mountain marketplace where local farmers offer fresh walnuts, honey, and herbs from the Gara region.",
+                  "category": "cultural",
+                  "coords": [
+                        43.362024,
+                        37.046139
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IQ-DA",
     coords: [43.4000, 37.0000],
@@ -305,7 +2645,160 @@ export const poiExtraIraqReliefV2: POI[] = [
       fr: ["Le sommet du Gara se situe à 2 151 mètres au-dessus de la mer.", "La pittoresque vallée de Sapna s'étend au sud de la montagne.", "Les ruines du palais de Saddam Hussein sont en accès libre.", "La montagne offre l'une des meilleures vues sur la ville d'Amedi.", "En hiver, la neige atteint souvent plusieurs mètres de haut ici.", "La région est réputée pour sa richesse en herbes sauvages."],
     }, image: "/poi-images/mount-gara-relief-v2.webp"},
   {
-    id: "mount-pira-magrun-relief-v2",
+    id: "mount-pira-magrun-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Merkuly",
+                  "text": "Eine antike parthische Bergfestung am Berg Pira Magrun mit beeindruckenden Verteidigungswällen.",
+                  "category": "historical",
+                  "coords": [
+                        45.23796,
+                        35.744685
+                  ]
+            },
+            {
+                  "name": "Rabana",
+                  "text": "Bedeutende archäologische Stätte am Berg Pira Magrun mit parthischen Felsreliefs und Steinbauten.",
+                  "category": "historical",
+                  "coords": [
+                        45.218087,
+                        35.753097
+                  ]
+            },
+            {
+                  "name": "mergapan",
+                  "text": "Ein idyllischer Bergort am Fuße des Pira Magrun, bekannt für sein kühleres Klima und Naturerlebnisse.",
+                  "category": "landmark",
+                  "coords": [
+                        45.254187,
+                        35.79411
+                  ]
+            },
+            {
+                  "name": "Khalid kwry walid mosque",
+                  "text": "Eine abgelegene Bergmoschee am Pira Magrun, die Wanderern als Ort der Ruhe dient.",
+                  "category": "religious",
+                  "coords": [
+                        45.152545,
+                        35.727013
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Merkuly",
+                  "text": "Ókori pártus hegyi erőd a Pira Magrun-hegyen, lenyűgöző védművekkel.",
+                  "category": "historical",
+                  "coords": [
+                        45.23796,
+                        35.744685
+                  ]
+            },
+            {
+                  "name": "Rabana",
+                  "text": "Jelentős régészeti lelőhely a Pira Magrun-hegyen, pártus szikladomborművekkel és kőépítményekkel.",
+                  "category": "historical",
+                  "coords": [
+                        45.218087,
+                        35.753097
+                  ]
+            },
+            {
+                  "name": "mergapan",
+                  "text": "Idilli hegyi üdülőhely a Pira Magrun lábánál, amely hűvösebb klímájáról és természeti adottságairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        45.254187,
+                        35.79411
+                  ]
+            },
+            {
+                  "name": "Khalid kwry walid mosque",
+                  "text": "Elszigetelt hegyi mecset a Pira Magrunon, amely a túrázóknak szolgál nyugvóhelyül.",
+                  "category": "religious",
+                  "coords": [
+                        45.152545,
+                        35.727013
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Merkuly",
+                  "text": "O cetate montană parthă antică pe muntele Pira Magrun, cu ziduri de apărare impresionante.",
+                  "category": "historical",
+                  "coords": [
+                        45.23796,
+                        35.744685
+                  ]
+            },
+            {
+                  "name": "Rabana",
+                  "text": "Sit arheologic important pe muntele Pira Magrun, cu reliefuri parthe în stâncă și structuri de piatră.",
+                  "category": "historical",
+                  "coords": [
+                        45.218087,
+                        35.753097
+                  ]
+            },
+            {
+                  "name": "mergapan",
+                  "text": "O stațiune montană idilică la poalele Pira Magrun, cunoscută pentru climatul răcoros și experiențele în natură.",
+                  "category": "landmark",
+                  "coords": [
+                        45.254187,
+                        35.79411
+                  ]
+            },
+            {
+                  "name": "Khalid kwry walid mosque",
+                  "text": "O moschee montană izolată pe Pira Magrun, care servește drumeților ca loc de liniște.",
+                  "category": "religious",
+                  "coords": [
+                        45.152545,
+                        35.727013
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Merkuly",
+                  "text": "An ancient Parthian mountain fortress on Mount Pira Magrun featuring impressive defensive walls.",
+                  "category": "historical",
+                  "coords": [
+                        45.23796,
+                        35.744685
+                  ]
+            },
+            {
+                  "name": "Rabana",
+                  "text": "Significant archaeological site on Mount Pira Magrun with Parthian rock reliefs and stone architecture.",
+                  "category": "historical",
+                  "coords": [
+                        45.218087,
+                        35.753097
+                  ]
+            },
+            {
+                  "name": "mergapan",
+                  "text": "An idyllic mountain resort at the foot of Pira Magrun, known for its cooler climate and nature experiences.",
+                  "category": "landmark",
+                  "coords": [
+                        45.254187,
+                        35.79411
+                  ]
+            },
+            {
+                  "name": "Khalid kwry walid mosque",
+                  "text": "A secluded mountain mosque on Pira Magrun, serving as a place of rest for hikers.",
+                  "category": "religious",
+                  "coords": [
+                        45.152545,
+                        35.727013
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IQ-SU",
     coords: [45.2300, 35.7500],
@@ -391,7 +2884,52 @@ export const poiExtraIraqReliefV2: POI[] = [
       fr: ["Les montagnes se situent à l'ouest du Tigre, près de la brèche d'Al-Fatha.", "Makhoul est une extension septentrionale de la chaîne de Hamrin.", "La forteresse de Qal'at Makhoul date probablement de l'époque parthe.", "La région est riche en gisements de gypse et de calcaire.", "Elles surplombent la plus grande raffinerie de pétrole d'Irak à Baïji.", "L'altitude maximale est d'environ 500 mètres au-dessus de la mer."],
     }, image: "/poi-images/makhoul-mountains-relief-v2.webp"},
   {
-    id: "al-faw-coast-relief-v2",
+    id: "al-faw-coast-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Southern Rashid mosque",
+                  "text": "Die 1908 gegründete Südliche Rashid-Moschee ist ein historisches islamisches Gotteshaus an der Küste von Al Faw.",
+                  "category": "landmark",
+                  "coords": [
+                        48.543894,
+                        29.92964
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Southern Rashid mosque",
+                  "text": "Az 1908-ban alapított Déli Rashid mecset egy történelmi iszlám istentiszteleti hely az Al Faw part mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        48.543894,
+                        29.92964
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Southern Rashid mosque",
+                  "text": "Înființată în 1908, Moscheea de Sud Rashid este un lăcaș de cult islamic istoric de-a lungul coastei Al Faw.",
+                  "category": "landmark",
+                  "coords": [
+                        48.543894,
+                        29.92964
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Southern Rashid mosque",
+                  "text": "Established in 1908, the Southern Rashid Mosque is a historic Islamic place of worship along the Al Faw coast.",
+                  "category": "landmark",
+                  "coords": [
+                        48.543894,
+                        29.92964
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "IQ-BA",
     coords: [48.4700, 29.9300],
@@ -478,7 +3016,592 @@ export const poiExtraIraqReliefV2: POI[] = [
     },
   },
   {
-    id: "mount-azmar-relief-v2",
+    id: "mount-azmar-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "zaitwn",
+                  "text": "Ein beliebter Aussichtspunkt auf dem Berg Azmar, der ein Panorama über die Stadt Sulaimaniyya bietet.",
+                  "category": "natural",
+                  "coords": [
+                        45.397068,
+                        35.649921
+                  ]
+            },
+            {
+                  "name": "Kani spilka",
+                  "text": "Ein lokales Denkmal auf dem Azmar-Bergpass, das an die Geschichte der Region erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        45.418153,
+                        35.599321
+                  ]
+            },
+            {
+                  "name": "Nawa Street",
+                  "text": "Eine Aussichtsstraße auf dem Berg Azmar, bekannt für ihre spektakulären Sonnenuntergänge über dem Tal.",
+                  "category": "natural",
+                  "coords": [
+                        45.442698,
+                        35.591778
+                  ]
+            },
+            {
+                  "name": "Roman amphitheater",
+                  "text": "Ein modernes Freilichttheater im antiken römischen Stil an den Hängen des Azmar-Berges.",
+                  "category": "cultural",
+                  "coords": [
+                        45.429352,
+                        35.619592
+                  ]
+            },
+            {
+                  "name": "Kalakin Great Mosque",
+                  "text": "Die Große Moschee von Kalakin ist ein markantes religiöses Gebäude in den Azmar-Höhen.",
+                  "category": "landmark",
+                  "coords": [
+                        45.432405,
+                        35.604787
+                  ]
+            },
+            {
+                  "name": "The Great Mosque of Kani Spika",
+                  "text": "Ein bedeutendes muslimisches Gotteshaus bei Kani Spika, das in der Berglandschaft von Azmar liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        45.419789,
+                        35.600291
+                  ]
+            },
+            {
+                  "name": "Ali haji mala mawati",
+                  "text": "Eine Bergmoschee am Azmar, die traditionelle kurdische Sakralarchitektur repräsentiert.",
+                  "category": "religious",
+                  "coords": [
+                        45.414464,
+                        35.615102
+                  ]
+            },
+            {
+                  "name": "Ali Haji Mala Mawty Mosque",
+                  "text": "Dieses Gebetshaus auf dem Berg Azmar dient der lokalen Gemeinschaft als spiritueller Treffpunkt.",
+                  "category": "religious",
+                  "coords": [
+                        45.411519,
+                        35.621019
+                  ]
+            },
+            {
+                  "name": "Mala Dawd Mosque",
+                  "text": "Eine kleine Moschee in den Azmar-Bergen, bekannt für ihre ruhige Lage abseits des Stadtverkehrs.",
+                  "category": "religious",
+                  "coords": [
+                        45.420164,
+                        35.63234
+                  ]
+            },
+            {
+                  "name": "Sardari Haji Khalidi Mosque of Rabati",
+                  "text": "Die Rabati-Moschee auf dem Berg Azmar ist ein wichtiges religiöses Zentrum für die Bergdörfer.",
+                  "category": "landmark",
+                  "coords": [
+                        45.404206,
+                        35.604035
+                  ]
+            },
+            {
+                  "name": "Kurdsat Mosque",
+                  "text": "Eine moderne Moschee in der Azmar-Region, die moderne Baustile mit traditionellen Elementen verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        45.437064,
+                        35.593784
+                  ]
+            },
+            {
+                  "name": "Haji Salim Qamishy Mosque",
+                  "text": "Ein lokales islamisches Gebetshaus am Azmar, das nach Hajj Salim Qamishy benannt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        45.4388,
+                        35.599848
+                  ]
+            },
+            {
+                  "name": "Kalakn Mosque",
+                  "text": "Diese muslimische Gebetsstätte liegt nahe den Hängen des Berges Azmar.",
+                  "category": "landmark",
+                  "coords": [
+                        45.437359,
+                        35.60399
+                  ]
+            },
+            {
+                  "name": "Haji Majid Mawati mosque",
+                  "text": "Eine örtliche Moschee, die der Gemeinde am Fuße des Azmar-Gebirgskamms dient.",
+                  "category": "landmark",
+                  "coords": [
+                        45.408979,
+                        35.603005
+                  ]
+            },
+            {
+                  "name": "Haji Shekh Hasan Qaiwany",
+                  "text": "Ein schlichtes muslimisches Gebetshaus in der bergigen Landschaft von Azmar.",
+                  "category": "landmark",
+                  "coords": [
+                        45.455619,
+                        35.605599
+                  ]
+            },
+            {
+                  "name": "Sultan Market",
+                  "text": "Ein geschäftiger Marktplatz mit traditionellen Verkaufsständen in der Nähe des Azmar-Gebirges.",
+                  "category": "cultural",
+                  "coords": [
+                        45.419344,
+                        35.606209
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "zaitwn",
+                  "text": "Népszerű kilátó az Azmar-hegyen, ahonnan panorámás kilátás nyílik Szulejmánijja városára.",
+                  "category": "natural",
+                  "coords": [
+                        45.397068,
+                        35.649921
+                  ]
+            },
+            {
+                  "name": "Kani spilka",
+                  "text": "Helyi emlékmű az Azmar-hegyi hágón, amely a régió történelmére emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        45.418153,
+                        35.599321
+                  ]
+            },
+            {
+                  "name": "Nawa Street",
+                  "text": "Kilátóút az Azmar-hegyen, amely a völgy feletti látványos naplementéiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        45.442698,
+                        35.591778
+                  ]
+            },
+            {
+                  "name": "Roman amphitheater",
+                  "text": "Modern szabadtéri színház antik római stílusban az Azmar-hegy lankáin.",
+                  "category": "cultural",
+                  "coords": [
+                        45.429352,
+                        35.619592
+                  ]
+            },
+            {
+                  "name": "Kalakin Great Mosque",
+                  "text": "A Kalakin nagy mecset egy jellegzetes vallási épület az Azmar-magaslatokon.",
+                  "category": "landmark",
+                  "coords": [
+                        45.432405,
+                        35.604787
+                  ]
+            },
+            {
+                  "name": "The Great Mosque of Kani Spika",
+                  "text": "Jelentős muszlim imaház Kani Spika mellett, az Azmar hegyvidéki táján.",
+                  "category": "landmark",
+                  "coords": [
+                        45.419789,
+                        35.600291
+                  ]
+            },
+            {
+                  "name": "Ali haji mala mawati",
+                  "text": "Hegyi mecset az Azmaron, amely a hagyományos kurd szakrális építészetet képviseli.",
+                  "category": "religious",
+                  "coords": [
+                        45.414464,
+                        35.615102
+                  ]
+            },
+            {
+                  "name": "Ali Haji Mala Mawty Mosque",
+                  "text": "Ez az Azmar-hegyi imaház a helyi közösség spirituális találkozóhelyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        45.411519,
+                        35.621019
+                  ]
+            },
+            {
+                  "name": "Mala Dawd Mosque",
+                  "text": "Kisméretű mecset az Azmar-hegységben, amely csendes, városi forgalomtól távoli elhelyezkedéséről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        45.420164,
+                        35.63234
+                  ]
+            },
+            {
+                  "name": "Sardari Haji Khalidi Mosque of Rabati",
+                  "text": "Az Azmar-hegyi Rabati mecset fontos vallási központ a hegyvidéki falvak számára.",
+                  "category": "landmark",
+                  "coords": [
+                        45.404206,
+                        35.604035
+                  ]
+            },
+            {
+                  "name": "Kurdsat Mosque",
+                  "text": "Modern mecset az Azmar-régióban, amely a modern építészeti stílusokat hagyományos elemekkel ötvözi.",
+                  "category": "landmark",
+                  "coords": [
+                        45.437064,
+                        35.593784
+                  ]
+            },
+            {
+                  "name": "Haji Salim Qamishy Mosque",
+                  "text": "Helyi iszlám imaház az Azmaron, amelyet Hajj Salim Qamishyról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        45.4388,
+                        35.599848
+                  ]
+            },
+            {
+                  "name": "Kalakn Mosque",
+                  "text": "Ez a muszlim imaház az Azmar-hegy lejtőinek közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        45.437359,
+                        35.60399
+                  ]
+            },
+            {
+                  "name": "Haji Majid Mawati mosque",
+                  "text": "Helyi mecset, amely az Azmar-hegygerinc lábánál élő közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        45.408979,
+                        35.603005
+                  ]
+            },
+            {
+                  "name": "Haji Shekh Hasan Qaiwany",
+                  "text": "Egyszerű muszlim imaház Azmar hegyvidéki táján.",
+                  "category": "landmark",
+                  "coords": [
+                        45.455619,
+                        35.605599
+                  ]
+            },
+            {
+                  "name": "Sultan Market",
+                  "text": "Nyüzsgő piactér hagyományos árusítóhelyekkel az Azmar-hegység közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        45.419344,
+                        35.606209
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "zaitwn",
+                  "text": "Un punct de belvedere popular pe muntele Azmar, oferind o panoramă asupra orașului Sulaymaniyah.",
+                  "category": "natural",
+                  "coords": [
+                        45.397068,
+                        35.649921
+                  ]
+            },
+            {
+                  "name": "Kani spilka",
+                  "text": "Un monument local pe pasul montan Azmar, care comemorează istoria regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        45.418153,
+                        35.599321
+                  ]
+            },
+            {
+                  "name": "Nawa Street",
+                  "text": "O stradă panoramică pe muntele Azmar, cunoscută pentru apusurile sale spectaculoase peste vale.",
+                  "category": "natural",
+                  "coords": [
+                        45.442698,
+                        35.591778
+                  ]
+            },
+            {
+                  "name": "Roman amphitheater",
+                  "text": "Un teatru în aer liber modern, construit în stil roman antic pe pantele muntelui Azmar.",
+                  "category": "cultural",
+                  "coords": [
+                        45.429352,
+                        35.619592
+                  ]
+            },
+            {
+                  "name": "Kalakin Great Mosque",
+                  "text": "Marea Moschee din Kalakin este o clădire religioasă proeminentă pe înălțimile Azmar.",
+                  "category": "landmark",
+                  "coords": [
+                        45.432405,
+                        35.604787
+                  ]
+            },
+            {
+                  "name": "The Great Mosque of Kani Spika",
+                  "text": "Un lăcaș de cult musulman important lângă Kani Spika, situat în peisajul montan din Azmar.",
+                  "category": "landmark",
+                  "coords": [
+                        45.419789,
+                        35.600291
+                  ]
+            },
+            {
+                  "name": "Ali haji mala mawati",
+                  "text": "O moschee montană pe Azmar, reprezentând arhitectura sacră tradițională kurdă.",
+                  "category": "religious",
+                  "coords": [
+                        45.414464,
+                        35.615102
+                  ]
+            },
+            {
+                  "name": "Ali Haji Mala Mawty Mosque",
+                  "text": "Această casă de rugăciune de pe muntele Azmar servește comunității locale ca punct de întâlnire spiritual.",
+                  "category": "religious",
+                  "coords": [
+                        45.411519,
+                        35.621019
+                  ]
+            },
+            {
+                  "name": "Mala Dawd Mosque",
+                  "text": "O mică moschee în munții Azmar, cunoscută pentru amplasarea sa liniștită, departe de traficul urban.",
+                  "category": "religious",
+                  "coords": [
+                        45.420164,
+                        35.63234
+                  ]
+            },
+            {
+                  "name": "Sardari Haji Khalidi Mosque of Rabati",
+                  "text": "Moscheea Rabati de pe muntele Azmar este un centru religios important pentru satele montane.",
+                  "category": "landmark",
+                  "coords": [
+                        45.404206,
+                        35.604035
+                  ]
+            },
+            {
+                  "name": "Kurdsat Mosque",
+                  "text": "O moschee modernă în regiunea Azmar, care îmbină stilurile arhitecturale moderne cu elemente tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        45.437064,
+                        35.593784
+                  ]
+            },
+            {
+                  "name": "Haji Salim Qamishy Mosque",
+                  "text": "Un lăcaș de rugăciune islamic local pe Azmar, numit după Hajj Salim Qamishy.",
+                  "category": "landmark",
+                  "coords": [
+                        45.4388,
+                        35.599848
+                  ]
+            },
+            {
+                  "name": "Kalakn Mosque",
+                  "text": "Acest lăcaș de cult musulman este situat lângă versanții muntelui Azmar.",
+                  "category": "landmark",
+                  "coords": [
+                        45.437359,
+                        35.60399
+                  ]
+            },
+            {
+                  "name": "Haji Majid Mawati mosque",
+                  "text": "O moschee locală care deservește comunitatea de la poalele crestei muntelui Azmar.",
+                  "category": "landmark",
+                  "coords": [
+                        45.408979,
+                        35.603005
+                  ]
+            },
+            {
+                  "name": "Haji Shekh Hasan Qaiwany",
+                  "text": "O casă de rugăciune musulmană simplă, aflată în peisajul montan din Azmar.",
+                  "category": "landmark",
+                  "coords": [
+                        45.455619,
+                        35.605599
+                  ]
+            },
+            {
+                  "name": "Sultan Market",
+                  "text": "O piață plină de viață, cu tarabe tradiționale, situată lângă munții Azmar.",
+                  "category": "cultural",
+                  "coords": [
+                        45.419344,
+                        35.606209
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "zaitwn",
+                  "text": "A popular viewpoint on Mount Azmar offering a panoramic vista over the city of Sulaymaniyah.",
+                  "category": "natural",
+                  "coords": [
+                        45.397068,
+                        35.649921
+                  ]
+            },
+            {
+                  "name": "Kani spilka",
+                  "text": "A local monument on the Azmar mountain pass, commemorating the region's history.",
+                  "category": "historical",
+                  "coords": [
+                        45.418153,
+                        35.599321
+                  ]
+            },
+            {
+                  "name": "Nawa Street",
+                  "text": "A scenic road on Mount Azmar, known for its spectacular sunsets over the valley.",
+                  "category": "natural",
+                  "coords": [
+                        45.442698,
+                        35.591778
+                  ]
+            },
+            {
+                  "name": "Roman amphitheater",
+                  "text": "A modern open-air theater built in an ancient Roman style on the slopes of Mount Azmar.",
+                  "category": "cultural",
+                  "coords": [
+                        45.429352,
+                        35.619592
+                  ]
+            },
+            {
+                  "name": "Kalakin Great Mosque",
+                  "text": "The Kalakin Great Mosque is a prominent religious building located on the Azmar heights.",
+                  "category": "landmark",
+                  "coords": [
+                        45.432405,
+                        35.604787
+                  ]
+            },
+            {
+                  "name": "The Great Mosque of Kani Spika",
+                  "text": "A significant Muslim place of worship near Kani Spika, situated in the mountainous landscape of Azmar.",
+                  "category": "landmark",
+                  "coords": [
+                        45.419789,
+                        35.600291
+                  ]
+            },
+            {
+                  "name": "Ali haji mala mawati",
+                  "text": "A mountain mosque on Azmar representing traditional Kurdish sacral architecture.",
+                  "category": "religious",
+                  "coords": [
+                        45.414464,
+                        35.615102
+                  ]
+            },
+            {
+                  "name": "Ali Haji Mala Mawty Mosque",
+                  "text": "This prayer house on Mount Azmar serves the local community as a spiritual gathering point.",
+                  "category": "religious",
+                  "coords": [
+                        45.411519,
+                        35.621019
+                  ]
+            },
+            {
+                  "name": "Mala Dawd Mosque",
+                  "text": "A small mosque in the Azmar mountains, known for its quiet location away from city traffic.",
+                  "category": "religious",
+                  "coords": [
+                        45.420164,
+                        35.63234
+                  ]
+            },
+            {
+                  "name": "Sardari Haji Khalidi Mosque of Rabati",
+                  "text": "The Rabati Mosque on Mount Azmar is an important religious center for the mountain villages.",
+                  "category": "landmark",
+                  "coords": [
+                        45.404206,
+                        35.604035
+                  ]
+            },
+            {
+                  "name": "Kurdsat Mosque",
+                  "text": "A modern mosque in the Azmar region, blending contemporary architectural styles with traditional elements.",
+                  "category": "landmark",
+                  "coords": [
+                        45.437064,
+                        35.593784
+                  ]
+            },
+            {
+                  "name": "Haji Salim Qamishy Mosque",
+                  "text": "A local Islamic prayer house on Azmar named after Hajj Salim Qamishy.",
+                  "category": "landmark",
+                  "coords": [
+                        45.4388,
+                        35.599848
+                  ]
+            },
+            {
+                  "name": "Kalakn Mosque",
+                  "text": "This Muslim place of worship is situated near the slopes of Mount Azmar.",
+                  "category": "landmark",
+                  "coords": [
+                        45.437359,
+                        35.60399
+                  ]
+            },
+            {
+                  "name": "Haji Majid Mawati mosque",
+                  "text": "A local mosque serving the community at the base of the Azmar mountain ridge.",
+                  "category": "landmark",
+                  "coords": [
+                        45.408979,
+                        35.603005
+                  ]
+            },
+            {
+                  "name": "Haji Shekh Hasan Qaiwany",
+                  "text": "A simple Muslim prayer house set within the mountainous landscape of Azmar.",
+                  "category": "landmark",
+                  "coords": [
+                        45.455619,
+                        35.605599
+                  ]
+            },
+            {
+                  "name": "Sultan Market",
+                  "text": "A bustling marketplace with traditional stalls located near the Azmar mountains.",
+                  "category": "cultural",
+                  "coords": [
+                        45.419344,
+                        35.606209
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IQ-SU",
     coords: [45.4500, 35.6000],
@@ -521,7 +3644,880 @@ export const poiExtraIraqReliefV2: POI[] = [
       fr: ["Le sommet du mont Azmar atteint une altitude d'environ 1 702 mètres.", "Il appartient à la formation calcaire crétacée des monts Zagros.", "Une route asphaltée moderne permet un accès facile au sommet.", "La montagne est un site principal pour les émetteurs de télévision à Souleimaniye.", "Azmar est réputé comme le meilleur site de parapente en Irak.", "En hiver, les températures au sommet peuvent descendre bien en dessous de zéro."],
     }, image: "/poi-images/mount-azmar-relief-v2.webp"},
   {
-    id: "mount-goizha-relief-v2",
+    id: "mount-goizha-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Garden Avenue",
+                  "text": "Eine üppig bepflanzte Promenade an den Ausläufern des Goizha-Berges, die ideal für einen entspannten Spaziergang im Grünen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        45.439197,
+                        35.585023
+                  ]
+            },
+            {
+                  "name": "Jgarkhwen street",
+                  "text": "Diese Straße am Berghang bietet einen weiten Panoramablick über die Skyline von Sulaimaniyya.",
+                  "category": "natural",
+                  "coords": [
+                        45.434346,
+                        35.587933
+                  ]
+            },
+            {
+                  "name": "Omar Haji Ibrahim Mosque",
+                  "text": "Eine moderne Moschee am Fuße des Berges Goizha, die als wichtiges spirituelles Zentrum für die Anwohner dient.",
+                  "category": "landmark",
+                  "coords": [
+                        45.40774,
+                        35.595852
+                  ]
+            },
+            {
+                  "name": "Tabaey Mosque",
+                  "text": "Diese Moschee in der Bergregion bietet einen bescheidenen Gebetsraum für Reisende und Einheimische gleichermaßen.",
+                  "category": "landmark",
+                  "coords": [
+                        45.413135,
+                        35.597267
+                  ]
+            },
+            {
+                  "name": "nawrasy mosque",
+                  "text": "Eine schlichte muslimische Gebetsstätte, die sich harmonisch in die Wohngebiete am Hang des Goizha-Berges einfügt.",
+                  "category": "landmark",
+                  "coords": [
+                        45.415368,
+                        35.587237
+                  ]
+            },
+            {
+                  "name": "Sharbazher Mosque",
+                  "text": "Diese Moschee ist nach der Region Sharbazher benannt und dient der Gemeinschaft am Rande des Berges.",
+                  "category": "landmark",
+                  "coords": [
+                        45.442568,
+                        35.574887
+                  ]
+            },
+            {
+                  "name": "Haji Hama Salh Buskani Mosque",
+                  "text": "Ein lokaler muslimischer Gebetsort, der für seine familiäre Atmosphäre und die Einbindung in das Viertel Buskani bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        45.454487,
+                        35.56988
+                  ]
+            },
+            {
+                  "name": "Ali Kamal Mosque",
+                  "text": "Eine markante Moschee in der Nähe des Berges Goizha, die durch ihre traditionelle Kuppelarchitektur auffällt.",
+                  "category": "landmark",
+                  "coords": [
+                        45.456896,
+                        35.567124
+                  ]
+            },
+            {
+                  "name": "Shekh Jalal Gapoliny Mosque",
+                  "text": "Eine kleine Gemeindemoschee am Berghang, die einen ruhigen Rückzugsort für die täglichen Gebete bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        45.429839,
+                        35.580107
+                  ]
+            },
+            {
+                  "name": "mosque haji qadr malkane",
+                  "text": "Diese Moschee im Malkane-Viertel ist ein zentraler Treffpunkt für muslimische Gläubige am Fuße des Berges.",
+                  "category": "landmark",
+                  "coords": [
+                        45.432302,
+                        35.579976
+                  ]
+            },
+            {
+                  "name": "Othman kwry Afan",
+                  "text": "Eine nach Othman benannte Moschee, die als wichtiger Ort der religiösen Besinnung in der Bergregion dient.",
+                  "category": "landmark",
+                  "coords": [
+                        45.431248,
+                        35.576852
+                  ]
+            },
+            {
+                  "name": "Haji Jalal Asngar Mosque",
+                  "text": "Ein lokaler Gebetsort für Muslime, der in das gewachsene Wohnviertel am Hang des Goizha integriert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        45.448068,
+                        35.574473
+                  ]
+            },
+            {
+                  "name": "Haji Hama Khan Mosque",
+                  "text": "Diese Moschee bietet der lokalen muslimischen Gemeinschaft einen Ort für Gottesdienste und soziale Zusammenkünfte.",
+                  "category": "landmark",
+                  "coords": [
+                        45.39855,
+                        35.597561
+                  ]
+            },
+            {
+                  "name": "Haji Saeedi Haji Hamasuri Mosque Kani Spikeyi",
+                  "text": "Eine Moschee im Kani-Spikeyi-Gebiet, die für die Anwohner der steilen Bergstraßen leicht erreichbar ist.",
+                  "category": "landmark",
+                  "coords": [
+                        45.411468,
+                        35.592241
+                  ]
+            },
+            {
+                  "name": "Sherko Haji Reza Mosque of Charmaga",
+                  "text": "Die Sherko-Haji-Reza-Moschee ist ein zentrales muslimisches Heiligtum im Stadtteil Charmaga am Berghang.",
+                  "category": "landmark",
+                  "coords": [
+                        45.419183,
+                        35.584113
+                  ]
+            },
+            {
+                  "name": "Sardar Agha Mosque",
+                  "text": "Eine traditionelle Moschee in der Nähe des Berges Goizha, die als spiritueller Ankerpunkt für das Viertel dient.",
+                  "category": "landmark",
+                  "coords": [
+                        45.429552,
+                        35.588476
+                  ]
+            },
+            {
+                  "name": "Naqishbandi Mosque",
+                  "text": "Diese Moschee steht in der Tradition des Naqshbandi-Sufi-Ordens und bietet Raum für spirituelle Andacht.",
+                  "category": "landmark",
+                  "coords": [
+                        45.448433,
+                        35.576335
+                  ]
+            },
+            {
+                  "name": "Sheikh Aziz Boskani Mosque",
+                  "text": "Eine kleine Moschee am Berghang, benannt nach Sheikh Aziz, die als lokaler muslimischer Gebetsraum dient.",
+                  "category": "landmark",
+                  "coords": [
+                        45.427208,
+                        35.579448
+                  ]
+            },
+            {
+                  "name": "Marketi Ala",
+                  "text": "Ein lokaler Marktplatz am Fuße des Berges Goizha, auf dem Waren für den täglichen Bedarf angeboten werden.",
+                  "category": "cultural",
+                  "coords": [
+                        45.438489,
+                        35.578844
+                  ]
+            },
+            {
+                  "name": "rastkar market",
+                  "text": "Ein geschäftiger Nachbarschaftsmarkt, der für seine Auswahl an frischen Lebensmitteln und Haushaltswaren bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        45.412132,
+                        35.590479
+                  ]
+            },
+            {
+                  "name": "Limo Market",
+                  "text": "Ein typisch kurdischer Markt, auf dem Einheimische frisches Obst, Gemüse und regionale Spezialitäten kaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        45.434399,
+                        35.592202
+                  ]
+            },
+            {
+                  "name": "Karwan & Shirwan Fruits and Vegetables",
+                  "text": "Ein spezialisierter Marktstand, der eine große Auswahl an saisonalen Früchten und frischem Gemüse direkt am Berghang bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        45.44416,
+                        35.571803
+                  ]
+            },
+            {
+                  "name": "Markety karez",
+                  "text": "Dieser Markt im Karez-Viertel ist ein beliebter Ort für den täglichen Einkauf von Grundnahrungsmitteln.",
+                  "category": "cultural",
+                  "coords": [
+                        45.440459,
+                        35.580334
+                  ]
+            },
+            {
+                  "name": "Garden City Show Room",
+                  "text": "Ein moderner Ausstellungsraum und Markt, der Haushaltswaren und Einrichtungsgegenstände in der Nähe der Bergregion anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        45.437395,
+                        35.582626
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Garden Avenue",
+                  "text": "A Goizha-hegy lábánál fekvő buja sétány, amely ideális egy pihentető sétához a zöldben.",
+                  "category": "landmark",
+                  "coords": [
+                        45.439197,
+                        35.585023
+                  ]
+            },
+            {
+                  "name": "Jgarkhwen street",
+                  "text": "Ez a hegyoldali utca széles panorámát kínál Szulejmánijja városának sziluettjére.",
+                  "category": "natural",
+                  "coords": [
+                        45.434346,
+                        35.587933
+                  ]
+            },
+            {
+                  "name": "Omar Haji Ibrahim Mosque",
+                  "text": "A Goizha-hegy lábánál található modern mecset, amely fontos spirituális központként szolgál a környék lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        45.40774,
+                        35.595852
+                  ]
+            },
+            {
+                  "name": "Tabaey Mosque",
+                  "text": "Ez a hegyvidéki mecset szerény imateret kínál az utazók és a helyiek számára egyaránt.",
+                  "category": "landmark",
+                  "coords": [
+                        45.413135,
+                        35.597267
+                  ]
+            },
+            {
+                  "name": "nawrasy mosque",
+                  "text": "Egyszerű muszlim imaház, amely harmonikusan illeszkedik a Goizha-hegy lejtőin található lakóövezetbe.",
+                  "category": "landmark",
+                  "coords": [
+                        45.415368,
+                        35.587237
+                  ]
+            },
+            {
+                  "name": "Sharbazher Mosque",
+                  "text": "Ezt a mecsetet Sharbazher régióról nevezték el, és a hegy szélén élő közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        45.442568,
+                        35.574887
+                  ]
+            },
+            {
+                  "name": "Haji Hama Salh Buskani Mosque",
+                  "text": "Helyi muszlim imaház, amely családias hangulatáról és a Buskani negyedbe való beágyazottságáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        45.454487,
+                        35.56988
+                  ]
+            },
+            {
+                  "name": "Ali Kamal Mosque",
+                  "text": "A Goizha-hegy közelében található jellegzetes mecset, amely hagyományos kupolás építészetével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        45.456896,
+                        35.567124
+                  ]
+            },
+            {
+                  "name": "Shekh Jalal Gapoliny Mosque",
+                  "text": "Kisebb közösségi mecset a hegyoldalban, amely csendes menedéket nyújt a napi imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        45.429839,
+                        35.580107
+                  ]
+            },
+            {
+                  "name": "mosque haji qadr malkane",
+                  "text": "Ez a Malkane negyedben található mecset a muszlim hívők központi találkozóhelye a hegy lábánál.",
+                  "category": "landmark",
+                  "coords": [
+                        45.432302,
+                        35.579976
+                  ]
+            },
+            {
+                  "name": "Othman kwry Afan",
+                  "text": "Othmanról elnevezett mecset, amely a vallási elmélyülés fontos helyszíneként szolgál a hegyvidéki régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        45.431248,
+                        35.576852
+                  ]
+            },
+            {
+                  "name": "Haji Jalal Asngar Mosque",
+                  "text": "Helyi muszlim imaház, amely a Goizha lejtőin fekvő lakónegyedbe épült be.",
+                  "category": "landmark",
+                  "coords": [
+                        45.448068,
+                        35.574473
+                  ]
+            },
+            {
+                  "name": "Haji Hama Khan Mosque",
+                  "text": "Ez a mecset istentiszteleti helyet és közösségi találkozóhelyet biztosít a helyi muszlim közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        45.39855,
+                        35.597561
+                  ]
+            },
+            {
+                  "name": "Haji Saeedi Haji Hamasuri Mosque Kani Spikeyi",
+                  "text": "A Kani Spikeyi területén található mecset könnyen elérhető a meredek hegyi utcák lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        45.411468,
+                        35.592241
+                  ]
+            },
+            {
+                  "name": "Sherko Haji Reza Mosque of Charmaga",
+                  "text": "A Sherko Haji Reza mecset a hegyoldali Charmaga negyed központi muszlim szentélye.",
+                  "category": "landmark",
+                  "coords": [
+                        45.419183,
+                        35.584113
+                  ]
+            },
+            {
+                  "name": "Sardar Agha Mosque",
+                  "text": "Hagyományos mecset a Goizha-hegy közelében, amely a negyed spirituális tartóoszlopaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        45.429552,
+                        35.588476
+                  ]
+            },
+            {
+                  "name": "Naqishbandi Mosque",
+                  "text": "Ez a mecset a naqsbandi szúfi rend hagyományait követi, és helyet biztosít a spirituális áhítathoz.",
+                  "category": "landmark",
+                  "coords": [
+                        45.448433,
+                        35.576335
+                  ]
+            },
+            {
+                  "name": "Sheikh Aziz Boskani Mosque",
+                  "text": "Kisebb mecset a hegyoldalban, amelyet Sheikh Azizről neveztek el, és helyi muszlim imaházként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        45.427208,
+                        35.579448
+                  ]
+            },
+            {
+                  "name": "Marketi Ala",
+                  "text": "Helyi piactér a Goizha-hegy lábánál, ahol mindennapi fogyasztási cikkeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        45.438489,
+                        35.578844
+                  ]
+            },
+            {
+                  "name": "rastkar market",
+                  "text": "Forgalmas szomszédsági piac, amely friss élelmiszer-választékáról és háztartási cikkeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        45.412132,
+                        35.590479
+                  ]
+            },
+            {
+                  "name": "Limo Market",
+                  "text": "Tipikus kurd piac, ahol a helyiek friss gyümölcsöt, zöldséget és regionális különlegességeket vásárolnak.",
+                  "category": "cultural",
+                  "coords": [
+                        45.434399,
+                        35.592202
+                  ]
+            },
+            {
+                  "name": "Karwan & Shirwan Fruits and Vegetables",
+                  "text": "Speciális piaci stand, amely szezonális gyümölcsök és friss zöldségek széles választékát kínálja közvetlenül a hegyoldalban.",
+                  "category": "cultural",
+                  "coords": [
+                        45.44416,
+                        35.571803
+                  ]
+            },
+            {
+                  "name": "Markety karez",
+                  "text": "Ez a Karez negyedben található piac népszerű hely az alapvető élelmiszerek napi beszerzéséhez.",
+                  "category": "cultural",
+                  "coords": [
+                        45.440459,
+                        35.580334
+                  ]
+            },
+            {
+                  "name": "Garden City Show Room",
+                  "text": "Modern bemutatóterem és piac, amely háztartási cikkeket és lakberendezési tárgyakat kínál a hegyvidék közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        45.437395,
+                        35.582626
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Garden Avenue",
+                  "text": "O promenadă cu vegetație bogată la poalele muntelui Goizha, ideală pentru o plimbare relaxantă în natură.",
+                  "category": "landmark",
+                  "coords": [
+                        45.439197,
+                        35.585023
+                  ]
+            },
+            {
+                  "name": "Jgarkhwen street",
+                  "text": "Această stradă de pe versantul muntelui oferă o vedere panoramică largă asupra orizontului orașului Sulaymaniyah.",
+                  "category": "natural",
+                  "coords": [
+                        45.434346,
+                        35.587933
+                  ]
+            },
+            {
+                  "name": "Omar Haji Ibrahim Mosque",
+                  "text": "O moschee modernă la baza muntelui Goizha, care servește ca un important centru spiritual pentru locuitorii zonei.",
+                  "category": "landmark",
+                  "coords": [
+                        45.40774,
+                        35.595852
+                  ]
+            },
+            {
+                  "name": "Tabaey Mosque",
+                  "text": "Această moschee din regiunea montană oferă un spațiu de rugăciune modest atât pentru călători, cât și pentru localnici.",
+                  "category": "landmark",
+                  "coords": [
+                        45.413135,
+                        35.597267
+                  ]
+            },
+            {
+                  "name": "nawrasy mosque",
+                  "text": "Un lăcaș de rugăciune musulman simplu, care se integrează armonios în zonele rezidențiale de pe versantul muntelui Goizha.",
+                  "category": "landmark",
+                  "coords": [
+                        45.415368,
+                        35.587237
+                  ]
+            },
+            {
+                  "name": "Sharbazher Mosque",
+                  "text": "Această moschee este numită după regiunea Sharbazher și deservește comunitatea de la marginea muntelui.",
+                  "category": "landmark",
+                  "coords": [
+                        45.442568,
+                        35.574887
+                  ]
+            },
+            {
+                  "name": "Haji Hama Salh Buskani Mosque",
+                  "text": "Un loc de rugăciune musulman local, cunoscut pentru atmosfera sa familială și integrarea în cartierul Buskani.",
+                  "category": "landmark",
+                  "coords": [
+                        45.454487,
+                        35.56988
+                  ]
+            },
+            {
+                  "name": "Ali Kamal Mosque",
+                  "text": "O moschee distinctivă lângă muntele Goizha, care se remarcă prin arhitectura sa tradițională cu cupolă.",
+                  "category": "landmark",
+                  "coords": [
+                        45.456896,
+                        35.567124
+                  ]
+            },
+            {
+                  "name": "Shekh Jalal Gapoliny Mosque",
+                  "text": "O mică moschee comunitară pe versantul muntelui, care oferă un refugiu liniștit pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        45.429839,
+                        35.580107
+                  ]
+            },
+            {
+                  "name": "mosque haji qadr malkane",
+                  "text": "Această moschee din cartierul Malkane este un punct de întâlnire central pentru credincioșii musulmani de la poalele muntelui.",
+                  "category": "landmark",
+                  "coords": [
+                        45.432302,
+                        35.579976
+                  ]
+            },
+            {
+                  "name": "Othman kwry Afan",
+                  "text": "O moschee numită după Othman, care servește ca un loc important de reflecție religioasă în regiunea montană.",
+                  "category": "landmark",
+                  "coords": [
+                        45.431248,
+                        35.576852
+                  ]
+            },
+            {
+                  "name": "Haji Jalal Asngar Mosque",
+                  "text": "Un lăcaș de rugăciune local pentru musulmani, integrat în zona rezidențială de pe versantul muntelui Goizha.",
+                  "category": "landmark",
+                  "coords": [
+                        45.448068,
+                        35.574473
+                  ]
+            },
+            {
+                  "name": "Haji Hama Khan Mosque",
+                  "text": "Această moschee oferă comunității musulmane locale un loc pentru slujbe și adunări sociale.",
+                  "category": "landmark",
+                  "coords": [
+                        45.39855,
+                        35.597561
+                  ]
+            },
+            {
+                  "name": "Haji Saeedi Haji Hamasuri Mosque Kani Spikeyi",
+                  "text": "O moschee în zona Kani Spikeyi, ușor accesibilă pentru rezidenții de pe străzile abrupte ale muntelui.",
+                  "category": "landmark",
+                  "coords": [
+                        45.411468,
+                        35.592241
+                  ]
+            },
+            {
+                  "name": "Sherko Haji Reza Mosque of Charmaga",
+                  "text": "Moscheea Sherko Haji Reza este un sanctuar musulman central în districtul Charmaga de pe versantul muntelui.",
+                  "category": "landmark",
+                  "coords": [
+                        45.419183,
+                        35.584113
+                  ]
+            },
+            {
+                  "name": "Sardar Agha Mosque",
+                  "text": "O moschee tradițională lângă muntele Goizha, care servește ca punct de ancorare spirituală pentru cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        45.429552,
+                        35.588476
+                  ]
+            },
+            {
+                  "name": "Naqishbandi Mosque",
+                  "text": "Această moschee urmează tradiția ordinului sufi Naqshbandi și oferă spațiu pentru devotament spiritual.",
+                  "category": "landmark",
+                  "coords": [
+                        45.448433,
+                        35.576335
+                  ]
+            },
+            {
+                  "name": "Sheikh Aziz Boskani Mosque",
+                  "text": "O mică moschee pe versantul muntelui, numită după Sheikh Aziz, care servește ca spațiu local de rugăciune musulman.",
+                  "category": "landmark",
+                  "coords": [
+                        45.427208,
+                        35.579448
+                  ]
+            },
+            {
+                  "name": "Marketi Ala",
+                  "text": "O piață locală la poalele muntelui Goizha, unde se vând bunuri de larg consum zilnic.",
+                  "category": "cultural",
+                  "coords": [
+                        45.438489,
+                        35.578844
+                  ]
+            },
+            {
+                  "name": "rastkar market",
+                  "text": "O piață de cartier animată, cunoscută pentru selecția sa de alimente proaspete și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        45.412132,
+                        35.590479
+                  ]
+            },
+            {
+                  "name": "Limo Market",
+                  "text": "O piață tipic kurdă, unde localnicii cumpără fructe proaspete, legume și specialități regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        45.434399,
+                        35.592202
+                  ]
+            },
+            {
+                  "name": "Karwan & Shirwan Fruits and Vegetables",
+                  "text": "O tarabă specializată care oferă o gamă largă de fructe de sezon și legume proaspete direct pe versantul muntelui.",
+                  "category": "cultural",
+                  "coords": [
+                        45.44416,
+                        35.571803
+                  ]
+            },
+            {
+                  "name": "Markety karez",
+                  "text": "Această piață din districtul Karez este un loc popular pentru cumpărăturile zilnice de alimente de bază.",
+                  "category": "cultural",
+                  "coords": [
+                        45.440459,
+                        35.580334
+                  ]
+            },
+            {
+                  "name": "Garden City Show Room",
+                  "text": "Un showroom și piață modernă care oferă articole de uz casnic și mobilier în apropierea regiunii montane.",
+                  "category": "cultural",
+                  "coords": [
+                        45.437395,
+                        35.582626
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Garden Avenue",
+                  "text": "A lushly planted promenade at the foothills of Mount Goizha, ideal for a relaxed walk in the greenery.",
+                  "category": "landmark",
+                  "coords": [
+                        45.439197,
+                        35.585023
+                  ]
+            },
+            {
+                  "name": "Jgarkhwen street",
+                  "text": "This hillside street offers a wide panoramic view over the Sulaymaniyah city skyline.",
+                  "category": "natural",
+                  "coords": [
+                        45.434346,
+                        35.587933
+                  ]
+            },
+            {
+                  "name": "Omar Haji Ibrahim Mosque",
+                  "text": "A modern mosque at the base of Mount Goizha, serving as an important spiritual center for local residents.",
+                  "category": "landmark",
+                  "coords": [
+                        45.40774,
+                        35.595852
+                  ]
+            },
+            {
+                  "name": "Tabaey Mosque",
+                  "text": "This mosque in the mountain region offers a modest prayer space for travelers and locals alike.",
+                  "category": "landmark",
+                  "coords": [
+                        45.413135,
+                        35.597267
+                  ]
+            },
+            {
+                  "name": "nawrasy mosque",
+                  "text": "A simple Muslim prayer site that blends harmoniously into the residential areas on the slopes of Mount Goizha.",
+                  "category": "landmark",
+                  "coords": [
+                        45.415368,
+                        35.587237
+                  ]
+            },
+            {
+                  "name": "Sharbazher Mosque",
+                  "text": "Named after the Sharbazher region, this mosque serves the community living on the edge of the mountain.",
+                  "category": "landmark",
+                  "coords": [
+                        45.442568,
+                        35.574887
+                  ]
+            },
+            {
+                  "name": "Haji Hama Salh Buskani Mosque",
+                  "text": "A local Muslim prayer site known for its family atmosphere and integration into the Buskani neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        45.454487,
+                        35.56988
+                  ]
+            },
+            {
+                  "name": "Ali Kamal Mosque",
+                  "text": "A distinctive mosque near Mount Goizha, notable for its traditional domed architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        45.456896,
+                        35.567124
+                  ]
+            },
+            {
+                  "name": "Shekh Jalal Gapoliny Mosque",
+                  "text": "A small community mosque on the hillside, providing a quiet retreat for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        45.429839,
+                        35.580107
+                  ]
+            },
+            {
+                  "name": "mosque haji qadr malkane",
+                  "text": "Located in the Malkane district, this mosque is a central gathering point for Muslim worshippers at the mountain's base.",
+                  "category": "landmark",
+                  "coords": [
+                        45.432302,
+                        35.579976
+                  ]
+            },
+            {
+                  "name": "Othman kwry Afan",
+                  "text": "A mosque named after Othman, serving as an important site for religious reflection in the mountain region.",
+                  "category": "landmark",
+                  "coords": [
+                        45.431248,
+                        35.576852
+                  ]
+            },
+            {
+                  "name": "Haji Jalal Asngar Mosque",
+                  "text": "A local Muslim prayer site integrated into the established residential neighborhood on the slopes of Goizha.",
+                  "category": "landmark",
+                  "coords": [
+                        45.448068,
+                        35.574473
+                  ]
+            },
+            {
+                  "name": "Haji Hama Khan Mosque",
+                  "text": "This mosque provides the local Muslim community with a space for worship and social gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        45.39855,
+                        35.597561
+                  ]
+            },
+            {
+                  "name": "Haji Saeedi Haji Hamasuri Mosque Kani Spikeyi",
+                  "text": "A mosque in the Kani Spikeyi area, easily accessible to residents living along the steep mountain streets.",
+                  "category": "landmark",
+                  "coords": [
+                        45.411468,
+                        35.592241
+                  ]
+            },
+            {
+                  "name": "Sherko Haji Reza Mosque of Charmaga",
+                  "text": "The Sherko Haji Reza Mosque is a central Muslim sanctuary in the hillside Charmaga district.",
+                  "category": "landmark",
+                  "coords": [
+                        45.419183,
+                        35.584113
+                  ]
+            },
+            {
+                  "name": "Sardar Agha Mosque",
+                  "text": "A traditional mosque near Mount Goizha, serving as a spiritual anchor for the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        45.429552,
+                        35.588476
+                  ]
+            },
+            {
+                  "name": "Naqishbandi Mosque",
+                  "text": "This mosque follows the tradition of the Naqshbandi Sufi order, providing space for spiritual devotion.",
+                  "category": "landmark",
+                  "coords": [
+                        45.448433,
+                        35.576335
+                  ]
+            },
+            {
+                  "name": "Sheikh Aziz Boskani Mosque",
+                  "text": "A small mosque on the hillside, named after Sheikh Aziz, serving as a local Muslim prayer space.",
+                  "category": "landmark",
+                  "coords": [
+                        45.427208,
+                        35.579448
+                  ]
+            },
+            {
+                  "name": "Marketi Ala",
+                  "text": "A local marketplace at the foot of Mount Goizha, offering goods for daily needs.",
+                  "category": "cultural",
+                  "coords": [
+                        45.438489,
+                        35.578844
+                  ]
+            },
+            {
+                  "name": "rastkar market",
+                  "text": "A bustling neighborhood market known for its selection of fresh food and household items.",
+                  "category": "cultural",
+                  "coords": [
+                        45.412132,
+                        35.590479
+                  ]
+            },
+            {
+                  "name": "Limo Market",
+                  "text": "A typical Kurdish market where locals shop for fresh fruit, vegetables, and regional specialties.",
+                  "category": "cultural",
+                  "coords": [
+                        45.434399,
+                        35.592202
+                  ]
+            },
+            {
+                  "name": "Karwan & Shirwan Fruits and Vegetables",
+                  "text": "A specialized market stall offering a wide variety of seasonal fruits and fresh vegetables right on the hillside.",
+                  "category": "cultural",
+                  "coords": [
+                        45.44416,
+                        35.571803
+                  ]
+            },
+            {
+                  "name": "Markety karez",
+                  "text": "Located in the Karez district, this market is a popular spot for daily shopping of staple foods.",
+                  "category": "cultural",
+                  "coords": [
+                        45.440459,
+                        35.580334
+                  ]
+            },
+            {
+                  "name": "Garden City Show Room",
+                  "text": "A modern showroom and market offering household goods and furnishings near the mountain area.",
+                  "category": "cultural",
+                  "coords": [
+                        45.437395,
+                        35.582626
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IQ-SU",
     coords: [45.4400, 35.5800],
@@ -577,7 +4573,7 @@ export const poiExtraIraqReliefV2: POI[] = [
             },
             {
                   "name": "Near Mount peak",
-                  "text": "Ein Aussichtspunkt oder eine Attraktion in der Nähe des Gipfels des Mount Khantur.",
+                  "text": "Aussichtspunkt nahe dem Gipfel des Berges bei Khantur.",
                   "category": "landmark",
                   "coords": [
                         42.947333,
@@ -597,7 +4593,7 @@ export const poiExtraIraqReliefV2: POI[] = [
             },
             {
                   "name": "Near Mount peak",
-                  "text": "Látnivaló a Khantur-hegy csúcsának közelében.",
+                  "text": "Kilátó a Khantur melletti hegy csúcsa közelében.",
                   "category": "landmark",
                   "coords": [
                         42.947333,
@@ -617,7 +4613,7 @@ export const poiExtraIraqReliefV2: POI[] = [
             },
             {
                   "name": "Near Mount peak",
-                  "text": "O atracție situată în apropierea vârfului muntelui Khantur.",
+                  "text": "Punct de belvedere lângă vârful muntelui de lângă Khantur.",
                   "category": "landmark",
                   "coords": [
                         42.947333,
@@ -637,7 +4633,7 @@ export const poiExtraIraqReliefV2: POI[] = [
             },
             {
                   "name": "Near Mount peak",
-                  "text": "An attraction located near the peak of Mount Khantur.",
+                  "text": "Viewpoint near the mountaintop by Khantur.",
                   "category": "landmark",
                   "coords": [
                         42.947333,
@@ -688,7 +4684,736 @@ export const poiExtraIraqReliefV2: POI[] = [
       fr: ["Le mont Khantur se situe au nord-est de Zakho, à proximité de la frontière.", "Il s'élève à plus de 2 000 mètres d'altitude dans ses secteurs les plus hauts.", "Le massif est composé principalement de calcaire dur du Jurassique et du Crétacé.", "C'est une source majeure pour le fleuve Khabur, un affluent du Tigre.", "Aux sommets, la neige persiste souvent jusqu'en juin.", "Le Khantur abrite certaines des forêts de chênes naturels les plus denses d'Irak."],
     }, image: "/poi-images/mount-khantur-relief-v2.webp"},
   {
-    id: "mount-maqlub-relief-v2",
+    id: "mount-maqlub-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tasa",
+                  "text": "Tasa ist ein Aussichtspunkt, der wunderschöne Ausblicke in mount-maqlub-relief-v2 bietet.",
+                  "category": "natural",
+                  "coords": [
+                        43.334115,
+                        36.356612
+                  ]
+            },
+            {
+                  "name": "Tell Billa",
+                  "text": "Tell Billa ist eine antike archäologische Stätte, die historisch als Shibaniba in mount-maqlub-relief-v2 bekannt war.",
+                  "category": "historical",
+                  "coords": [
+                        43.347844,
+                        36.433348
+                  ]
+            },
+            {
+                  "name": "security",
+                  "text": "Security ist eine lokale Attraktion in mount-maqlub-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        43.350497,
+                        36.437387
+                  ]
+            },
+            {
+                  "name": "mahalla alsaeelb",
+                  "text": "Mahalla alsaeelb ist eine interessante Sehenswürdigkeit in mount-maqlub-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        43.340207,
+                        36.454073
+                  ]
+            },
+            {
+                  "name": "bashiqs",
+                  "text": "Bashiqs ist eine Attraktion, die man in mount-maqlub-relief-v2 entdecken kann.",
+                  "category": "landmark",
+                  "coords": [
+                        43.349104,
+                        36.449728
+                  ]
+            },
+            {
+                  "name": "Muslim area",
+                  "text": "Die Muslim area ist eine kulturelle Attraktion in mount-maqlub-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        43.346363,
+                        36.451683
+                  ]
+            },
+            {
+                  "name": "taht alzyaa",
+                  "text": "Ein Aussichtspunkt namens taht alzyaa im Gebiet des Mount Maqlub-Reliefs.",
+                  "category": "natural",
+                  "coords": [
+                        43.33903,
+                        36.459036
+                  ]
+            },
+            {
+                  "name": "alhay alaskary",
+                  "text": "Eine Sehenswürdigkeit namens alhay alaskary in der Nähe des Mount Maqlub-Reliefs.",
+                  "category": "landmark",
+                  "coords": [
+                        43.341327,
+                        36.45315
+                  ]
+            },
+            {
+                  "name": "hay alentesar",
+                  "text": "Ein lokaler Ort von Interesse namens hay alentesar im Gebiet des Mount Maqlub-Reliefs.",
+                  "category": "landmark",
+                  "coords": [
+                        43.338953,
+                        36.453174
+                  ]
+            },
+            {
+                  "name": "Health center, building only",
+                  "text": "Ein Gesundheitszentrum, das als lokales Wahrzeichen im Gebiet des Mount Maqlub-Reliefs dient.",
+                  "category": "landmark",
+                  "coords": [
+                        43.292602,
+                        36.417331
+                  ]
+            },
+            {
+                  "name": "Kazna's crossroads",
+                  "text": "Ein Aussichtspunkt bei der Kreuzung Kazna's crossroads nahe dem Mount Maqlub-Relief.",
+                  "category": "natural",
+                  "coords": [
+                        43.351977,
+                        36.361311
+                  ]
+            },
+            {
+                  "name": "an old eagle",
+                  "text": "Ein Aussichtspunkt namens an old eagle im Gebiet des Mount Maqlub-Reliefs.",
+                  "category": "natural",
+                  "coords": [
+                        43.411072,
+                        36.404165
+                  ]
+            },
+            {
+                  "name": "Musalla Raqib",
+                  "text": "Musalla Raqib ist eine lokale Kultstätte im Gebiet des Mount Maqlub-Reliefs.",
+                  "category": "religious",
+                  "coords": [
+                        43.404463,
+                        36.339226
+                  ]
+            },
+            {
+                  "name": "sharfadin",
+                  "text": "Eine religiöse Stätte namens sharfadin in der Nähe des Mount Maqlub-Reliefs.",
+                  "category": "religious",
+                  "coords": [
+                        43.352094,
+                        36.453288
+                  ]
+            },
+            {
+                  "name": "Mazar Nasrdin",
+                  "text": "Ein jesidischer Schrein namens Mazar Nasrdin nahe dem Mount Maqlub-Relief.",
+                  "category": "landmark",
+                  "coords": [
+                        43.356968,
+                        36.456442
+                  ]
+            },
+            {
+                  "name": "alseaad",
+                  "text": "Eine Kultstätte namens alseaad im Gebiet des Mount Maqlub-Reliefs.",
+                  "category": "religious",
+                  "coords": [
+                        43.336453,
+                        36.458286
+                  ]
+            },
+            {
+                  "name": "4551",
+                  "text": "Eine Thermalquelle mit der Bezeichnung 4551 im Gebiet des Mount Maqlub-Reliefs.",
+                  "category": "natural",
+                  "coords": [
+                        43.350456,
+                        36.386749
+                  ]
+            },
+            {
+                  "name": "4893",
+                  "text": "Eine lokale Thermalquelle namens 4893 nahe dem Mount Maqlub-Relief.",
+                  "category": "natural",
+                  "coords": [
+                        43.386749,
+                        36.354231
+                  ]
+            },
+            {
+                  "name": "0061",
+                  "text": "Ein als 0061 bezeichnetes Thermalquellen-Ausflugsziel im Gebiet des Mount Maqlub-Reliefs.",
+                  "category": "natural",
+                  "coords": [
+                        43.353365,
+                        36.3493
+                  ]
+            },
+            {
+                  "name": "4954",
+                  "text": "Eine Thermalquelle mit der Bezeichnung 4954 nahe dem Mount Maqlub-Relief.",
+                  "category": "natural",
+                  "coords": [
+                        43.351203,
+                        36.452246
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tasa",
+                  "text": "A Tasa egy kilátó, amely gyönyörű panorámát nyújt mount-maqlub-relief-v2 városában.",
+                  "category": "natural",
+                  "coords": [
+                        43.334115,
+                        36.356612
+                  ]
+            },
+            {
+                  "name": "Tell Billa",
+                  "text": "A Tell Billa egy ősi régészeti lelőhely, amely történelmileg Shibaniba néven is ismert mount-maqlub-relief-v2 területén.",
+                  "category": "historical",
+                  "coords": [
+                        43.347844,
+                        36.433348
+                  ]
+            },
+            {
+                  "name": "security",
+                  "text": "A Security egy helyi látványosság mount-maqlub-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        43.350497,
+                        36.437387
+                  ]
+            },
+            {
+                  "name": "mahalla alsaeelb",
+                  "text": "A Mahalla alsaeelb egy érdekes látványosság mount-maqlub-relief-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        43.340207,
+                        36.454073
+                  ]
+            },
+            {
+                  "name": "bashiqs",
+                  "text": "A Bashiqs egy felfedezésre váró látványosság mount-maqlub-relief-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        43.349104,
+                        36.449728
+                  ]
+            },
+            {
+                  "name": "Muslim area",
+                  "text": "A Muslim area egy kulturális látványosság mount-maqlub-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        43.346363,
+                        36.451683
+                  ]
+            },
+            {
+                  "name": "taht alzyaa",
+                  "text": "A taht alzyaa nevű kilátópont a Mount Maqlub-dombormű területén.",
+                  "category": "natural",
+                  "coords": [
+                        43.33903,
+                        36.459036
+                  ]
+            },
+            {
+                  "name": "alhay alaskary",
+                  "text": "Az alhay alaskary nevű látványosság a Mount Maqlub-dombormű közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        43.341327,
+                        36.45315
+                  ]
+            },
+            {
+                  "name": "hay alentesar",
+                  "text": "A hay alentesar nevű helyi nevezetesség a Mount Maqlub-dombormű területén.",
+                  "category": "landmark",
+                  "coords": [
+                        43.338953,
+                        36.453174
+                  ]
+            },
+            {
+                  "name": "Health center, building only",
+                  "text": "Egészségügyi központ épülete, amely helyi nevezetességként szolgál a Mount Maqlub-dombormű térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        43.292602,
+                        36.417331
+                  ]
+            },
+            {
+                  "name": "Kazna's crossroads",
+                  "text": "A Kazna's crossroads-nál található kilátópont a Mount Maqlub-dombormű közelében.",
+                  "category": "natural",
+                  "coords": [
+                        43.351977,
+                        36.361311
+                  ]
+            },
+            {
+                  "name": "an old eagle",
+                  "text": "Az an old eagle nevű kilátópont a Mount Maqlub-dombormű területén.",
+                  "category": "natural",
+                  "coords": [
+                        43.411072,
+                        36.404165
+                  ]
+            },
+            {
+                  "name": "Musalla Raqib",
+                  "text": "A Musalla Raqib egy helyi istentiszteleti hely a Mount Maqlub-dombormű térségében.",
+                  "category": "religious",
+                  "coords": [
+                        43.404463,
+                        36.339226
+                  ]
+            },
+            {
+                  "name": "sharfadin",
+                  "text": "A sharfadin nevű vallási hely a Mount Maqlub-dombormű közelében található.",
+                  "category": "religious",
+                  "coords": [
+                        43.352094,
+                        36.453288
+                  ]
+            },
+            {
+                  "name": "Mazar Nasrdin",
+                  "text": "A Mazar Nasrdin nevű jezidi szentély a Mount Maqlub-dombormű közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        43.356968,
+                        36.456442
+                  ]
+            },
+            {
+                  "name": "alseaad",
+                  "text": "Az alseaad nevű istentiszteleti hely a Mount Maqlub-dombormű térségében.",
+                  "category": "religious",
+                  "coords": [
+                        43.336453,
+                        36.458286
+                  ]
+            },
+            {
+                  "name": "4551",
+                  "text": "A 4551-es jelzésű hőforrás a Mount Maqlub-dombormű területén.",
+                  "category": "natural",
+                  "coords": [
+                        43.350456,
+                        36.386749
+                  ]
+            },
+            {
+                  "name": "4893",
+                  "text": "A 4893-as nevű helyi hőforrás a Mount Maqlub-dombormű közelében.",
+                  "category": "natural",
+                  "coords": [
+                        43.386749,
+                        36.354231
+                  ]
+            },
+            {
+                  "name": "0061",
+                  "text": "A 0061-es azonosítójú hőforrás a Mount Maqlub-dombormű területén.",
+                  "category": "natural",
+                  "coords": [
+                        43.353365,
+                        36.3493
+                  ]
+            },
+            {
+                  "name": "4954",
+                  "text": "A 4954-es jelzésű hőforrás a Mount Maqlub-dombormű közelében.",
+                  "category": "natural",
+                  "coords": [
+                        43.351203,
+                        36.452246
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tasa",
+                  "text": "Tasa este un punct de belvedere ce oferă priveliști frumoase în mount-maqlub-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        43.334115,
+                        36.356612
+                  ]
+            },
+            {
+                  "name": "Tell Billa",
+                  "text": "Tell Billa este un sit arheologic antic, cunoscut istoric ca Shibaniba, în mount-maqlub-relief-v2.",
+                  "category": "historical",
+                  "coords": [
+                        43.347844,
+                        36.433348
+                  ]
+            },
+            {
+                  "name": "security",
+                  "text": "Security este o atracție locală din mount-maqlub-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        43.350497,
+                        36.437387
+                  ]
+            },
+            {
+                  "name": "mahalla alsaeelb",
+                  "text": "Mahalla alsaeelb este o atracție de interes din mount-maqlub-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        43.340207,
+                        36.454073
+                  ]
+            },
+            {
+                  "name": "bashiqs",
+                  "text": "Bashiqs este o atracție de descoperit în mount-maqlub-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        43.349104,
+                        36.449728
+                  ]
+            },
+            {
+                  "name": "Muslim area",
+                  "text": "Muslim area este o atracție culturală situată în mount-maqlub-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        43.346363,
+                        36.451683
+                  ]
+            },
+            {
+                  "name": "taht alzyaa",
+                  "text": "Un punct de belvedere cunoscut sub numele de taht alzyaa în zona reliefului Mount Maqlub.",
+                  "category": "natural",
+                  "coords": [
+                        43.33903,
+                        36.459036
+                  ]
+            },
+            {
+                  "name": "alhay alaskary",
+                  "text": "O atracție numită alhay alaskary situată lângă relieful Mount Maqlub.",
+                  "category": "landmark",
+                  "coords": [
+                        43.341327,
+                        36.45315
+                  ]
+            },
+            {
+                  "name": "hay alentesar",
+                  "text": "Un loc de interes local cunoscut sub numele de hay alentesar în zona reliefului Mount Maqlub.",
+                  "category": "landmark",
+                  "coords": [
+                        43.338953,
+                        36.453174
+                  ]
+            },
+            {
+                  "name": "Health center, building only",
+                  "text": "O clădire a unui centru de sănătate care servește drept punct de reper local în zona reliefului Mount Maqlub.",
+                  "category": "landmark",
+                  "coords": [
+                        43.292602,
+                        36.417331
+                  ]
+            },
+            {
+                  "name": "Kazna's crossroads",
+                  "text": "Un punct de belvedere care oferă priveliști de la intersecția Kazna's crossroads, lângă relieful Mount Maqlub.",
+                  "category": "natural",
+                  "coords": [
+                        43.351977,
+                        36.361311
+                  ]
+            },
+            {
+                  "name": "an old eagle",
+                  "text": "Un punct de belvedere cunoscut sub numele de an old eagle în zona reliefului Mount Maqlub.",
+                  "category": "natural",
+                  "coords": [
+                        43.411072,
+                        36.404165
+                  ]
+            },
+            {
+                  "name": "Musalla Raqib",
+                  "text": "Musalla Raqib este un lăcaș de cult local în zona reliefului Mount Maqlub.",
+                  "category": "religious",
+                  "coords": [
+                        43.404463,
+                        36.339226
+                  ]
+            },
+            {
+                  "name": "sharfadin",
+                  "text": "Un sit religios cunoscut sub numele de sharfadin situat lângă relieful Mount Maqlub.",
+                  "category": "religious",
+                  "coords": [
+                        43.352094,
+                        36.453288
+                  ]
+            },
+            {
+                  "name": "Mazar Nasrdin",
+                  "text": "Un altar yazidit cunoscut sub numele de Mazar Nasrdin situat lângă relieful Mount Maqlub.",
+                  "category": "landmark",
+                  "coords": [
+                        43.356968,
+                        36.456442
+                  ]
+            },
+            {
+                  "name": "alseaad",
+                  "text": "Un lăcaș de cult cunoscut sub numele de alseaad în zona reliefului Mount Maqlub.",
+                  "category": "religious",
+                  "coords": [
+                        43.336453,
+                        36.458286
+                  ]
+            },
+            {
+                  "name": "4551",
+                  "text": "Un izvor termal desemnat 4551 în zona reliefului Mount Maqlub.",
+                  "category": "natural",
+                  "coords": [
+                        43.350456,
+                        36.386749
+                  ]
+            },
+            {
+                  "name": "4893",
+                  "text": "Un izvor termal local cunoscut ca 4893 lângă relieful Mount Maqlub.",
+                  "category": "natural",
+                  "coords": [
+                        43.386749,
+                        36.354231
+                  ]
+            },
+            {
+                  "name": "0061",
+                  "text": "O destinație de izvor termal identificată ca 0061 în zona reliefului Mount Maqlub.",
+                  "category": "natural",
+                  "coords": [
+                        43.353365,
+                        36.3493
+                  ]
+            },
+            {
+                  "name": "4954",
+                  "text": "Un izvor termal desemnat 4954 lângă relieful Mount Maqlub.",
+                  "category": "natural",
+                  "coords": [
+                        43.351203,
+                        36.452246
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tasa",
+                  "text": "Tasa is a scenic viewpoint offering sweeping views in mount-maqlub-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        43.334115,
+                        36.356612
+                  ]
+            },
+            {
+                  "name": "Tell Billa",
+                  "text": "Tell Billa is an ancient archaeological site, historically known as Shibaniba, located in mount-maqlub-relief-v2.",
+                  "category": "historical",
+                  "coords": [
+                        43.347844,
+                        36.433348
+                  ]
+            },
+            {
+                  "name": "security",
+                  "text": "Security is a local attraction found in mount-maqlub-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        43.350497,
+                        36.437387
+                  ]
+            },
+            {
+                  "name": "mahalla alsaeelb",
+                  "text": "Mahalla alsaeelb is a point of interest to explore in mount-maqlub-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        43.340207,
+                        36.454073
+                  ]
+            },
+            {
+                  "name": "bashiqs",
+                  "text": "Bashiqs is an attraction offering points of interest in mount-maqlub-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        43.349104,
+                        36.449728
+                  ]
+            },
+            {
+                  "name": "Muslim area",
+                  "text": "The Muslim area is a cultural attraction situated in mount-maqlub-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        43.346363,
+                        36.451683
+                  ]
+            },
+            {
+                  "name": "taht alzyaa",
+                  "text": "A viewpoint known as taht alzyaa in the Mount Maqlub Relief area.",
+                  "category": "natural",
+                  "coords": [
+                        43.33903,
+                        36.459036
+                  ]
+            },
+            {
+                  "name": "alhay alaskary",
+                  "text": "An attraction named alhay alaskary located near the Mount Maqlub Relief.",
+                  "category": "landmark",
+                  "coords": [
+                        43.341327,
+                        36.45315
+                  ]
+            },
+            {
+                  "name": "hay alentesar",
+                  "text": "A local site of interest known as hay alentesar in the Mount Maqlub Relief area.",
+                  "category": "landmark",
+                  "coords": [
+                        43.338953,
+                        36.453174
+                  ]
+            },
+            {
+                  "name": "Health center, building only",
+                  "text": "A health center building serving as a local landmark in the Mount Maqlub Relief area.",
+                  "category": "landmark",
+                  "coords": [
+                        43.292602,
+                        36.417331
+                  ]
+            },
+            {
+                  "name": "Kazna's crossroads",
+                  "text": "A viewpoint offering sights from Kazna's crossroads near the Mount Maqlub Relief.",
+                  "category": "natural",
+                  "coords": [
+                        43.351977,
+                        36.361311
+                  ]
+            },
+            {
+                  "name": "an old eagle",
+                  "text": "A viewpoint known as an old eagle in the Mount Maqlub Relief area.",
+                  "category": "natural",
+                  "coords": [
+                        43.411072,
+                        36.404165
+                  ]
+            },
+            {
+                  "name": "Musalla Raqib",
+                  "text": "Musalla Raqib is a local place of worship in the Mount Maqlub Relief area.",
+                  "category": "religious",
+                  "coords": [
+                        43.404463,
+                        36.339226
+                  ]
+            },
+            {
+                  "name": "sharfadin",
+                  "text": "A religious site known as sharfadin located near the Mount Maqlub Relief.",
+                  "category": "religious",
+                  "coords": [
+                        43.352094,
+                        36.453288
+                  ]
+            },
+            {
+                  "name": "Mazar Nasrdin",
+                  "text": "A Yazidi shrine known as Mazar Nasrdin located near the Mount Maqlub Relief.",
+                  "category": "landmark",
+                  "coords": [
+                        43.356968,
+                        36.456442
+                  ]
+            },
+            {
+                  "name": "alseaad",
+                  "text": "A place of worship known as alseaad in the Mount Maqlub Relief area.",
+                  "category": "religious",
+                  "coords": [
+                        43.336453,
+                        36.458286
+                  ]
+            },
+            {
+                  "name": "4551",
+                  "text": "A hot spring site designated as 4551 in the Mount Maqlub Relief area.",
+                  "category": "natural",
+                  "coords": [
+                        43.350456,
+                        36.386749
+                  ]
+            },
+            {
+                  "name": "4893",
+                  "text": "A local hot spring known as 4893 near the Mount Maqlub Relief.",
+                  "category": "natural",
+                  "coords": [
+                        43.386749,
+                        36.354231
+                  ]
+            },
+            {
+                  "name": "0061",
+                  "text": "A hot spring destination identified as 0061 in the Mount Maqlub Relief area.",
+                  "category": "natural",
+                  "coords": [
+                        43.353365,
+                        36.3493
+                  ]
+            },
+            {
+                  "name": "4954",
+                  "text": "A thermal spring site designated as 4954 near the Mount Maqlub Relief.",
+                  "category": "natural",
+                  "coords": [
+                        43.351203,
+                        36.452246
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IQ-NI",
     coords: [43.4000, 36.4000],
@@ -731,7 +5456,412 @@ export const poiExtraIraqReliefV2: POI[] = [
       fr: ["Le mont Maqlub culmine à une altitude de 1 050 mètres.", "Il accueille le monastère de Mar Mattai, fondé au IVe siècle.", "Le mont est un lieu sacré pour la communauté syriaque orthodoxe.", "Sa structure géologique présente des strates calcaires fortement inclinées.", "Il offre un point de vue stratégique sur toute la plaine de Ninive.", "Il est situé à la jonction entre la plaine et les monts Zagros."],
     }, image: "/poi-images/mount-maqlub-relief-v2.webp"},
   {
-    id: "shahrizor-plain-relief-v2",
+    id: "shahrizor-plain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Firdaws Mosque",
+                  "text": "Eine gepflegte Moschee in der Schahrizor-Ebene, die für ihre ruhige Atmosphäre und den Garten bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        45.87896,
+                        35.363024
+                  ]
+            },
+            {
+                  "name": "Grdanaze",
+                  "text": "Ein historischer archäologischer Hügel in der Schahrizor-Ebene, der Ausblicke über die fruchtbare Landschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        45.928834,
+                        35.34273
+                  ]
+            },
+            {
+                  "name": "70km/h",
+                  "text": "Aussichtspunkt mit weitem Panoramablick über die Ebene von Shahrizor.",
+                  "category": "natural",
+                  "coords": [
+                        45.989225,
+                        35.302934
+                  ]
+            },
+            {
+                  "name": "Iman Mosque",
+                  "text": "Islamisches Gotteshaus in der ländlichen Umgebung der Shahrizor-Ebene.",
+                  "category": "landmark",
+                  "coords": [
+                        45.877727,
+                        35.367411
+                  ]
+            },
+            {
+                  "name": "Khatu Mariam Mosque",
+                  "text": "Muslimische Gebetsstätte in der Region der Shahrizor-Ebene.",
+                  "category": "landmark",
+                  "coords": [
+                        45.882245,
+                        35.361476
+                  ]
+            },
+            {
+                  "name": "Dar Al-Ihsan Mosque",
+                  "text": "Islamische Moschee in der Nähe der Shahrizor-Plain-Relief-V2-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        45.875108,
+                        35.362371
+                  ]
+            },
+            {
+                  "name": "Aisha Mosque",
+                  "text": "Örtliche Moschee als religiöser Mittelpunkt in der Shahrizor-Ebene.",
+                  "category": "religious",
+                  "coords": [
+                        45.880104,
+                        35.352386
+                  ]
+            },
+            {
+                  "name": "Taqwa Mosque",
+                  "text": "Bescheidenes muslimisches Gotteshaus in der weiten Shahrizor-Ebene.",
+                  "category": "religious",
+                  "coords": [
+                        45.877526,
+                        35.346621
+                  ]
+            },
+            {
+                  "name": "Haji Qadr Away Mosque",
+                  "text": "Islamische Gebetsstätte in der ländlichen Gegend von Shahrizor.",
+                  "category": "religious",
+                  "coords": [
+                        45.883529,
+                        35.352069
+                  ]
+            },
+            {
+                  "name": "Mzgawty Qadafary",
+                  "text": "Regionale Moschee für die muslimische Gemeinde der Shahrizor-Ebene.",
+                  "category": "religious",
+                  "coords": [
+                        45.952199,
+                        35.337537
+                  ]
+            },
+            {
+                  "name": "Mzgawty Grdy go",
+                  "text": "Muslimische religiöse Stätte in der Ebene von Shahrizor.",
+                  "category": "landmark",
+                  "coords": [
+                        45.971642,
+                        35.303136
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Firdaws Mosque",
+                  "text": "Gondozott mecset a Sahrizor-alföldön, amely nyugodt légköréről és kertjéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        45.87896,
+                        35.363024
+                  ]
+            },
+            {
+                  "name": "Grdanaze",
+                  "text": "Történelmi régészeti domb a Sahrizor-alföldön, ahonnan kilátás nyílik a környező termékeny tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        45.928834,
+                        35.34273
+                  ]
+            },
+            {
+                  "name": "70km/h",
+                  "text": "Kilátópont, ahonnan széles panoráma nyílik a Shahrizor-síkságra.",
+                  "category": "natural",
+                  "coords": [
+                        45.989225,
+                        35.302934
+                  ]
+            },
+            {
+                  "name": "Iman Mosque",
+                  "text": "Iszlám templom a Shahrizor-síkság vidéki környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        45.877727,
+                        35.367411
+                  ]
+            },
+            {
+                  "name": "Khatu Mariam Mosque",
+                  "text": "Muszlim imaház a Shahrizor-síkság régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        45.882245,
+                        35.361476
+                  ]
+            },
+            {
+                  "name": "Dar Al-Ihsan Mosque",
+                  "text": "Iszlám mecset a Shahrizor-síkság közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        45.875108,
+                        35.362371
+                  ]
+            },
+            {
+                  "name": "Aisha Mosque",
+                  "text": "Helyi mecset, amely vallási központként szolgál a Shahrizor-síkságon.",
+                  "category": "religious",
+                  "coords": [
+                        45.880104,
+                        35.352386
+                  ]
+            },
+            {
+                  "name": "Taqwa Mosque",
+                  "text": "Szerény muszlim templom a tágas Shahrizor-síkságon.",
+                  "category": "religious",
+                  "coords": [
+                        45.877526,
+                        35.346621
+                  ]
+            },
+            {
+                  "name": "Haji Qadr Away Mosque",
+                  "text": "Iszlám imaház Shahrizor vidéki területén.",
+                  "category": "religious",
+                  "coords": [
+                        45.883529,
+                        35.352069
+                  ]
+            },
+            {
+                  "name": "Mzgawty Qadafary",
+                  "text": "Regionális mecset a Shahrizor-síkság muszlim közössége számára.",
+                  "category": "religious",
+                  "coords": [
+                        45.952199,
+                        35.337537
+                  ]
+            },
+            {
+                  "name": "Mzgawty Grdy go",
+                  "text": "Muszlim vallási helyszín a Shahrizor-síkságon.",
+                  "category": "landmark",
+                  "coords": [
+                        45.971642,
+                        35.303136
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Firdaws Mosque",
+                  "text": "O moschee frumos întreținută din câmpia Shahrizor, cunoscută pentru atmosfera sa liniștită și grădină.",
+                  "category": "landmark",
+                  "coords": [
+                        45.87896,
+                        35.363024
+                  ]
+            },
+            {
+                  "name": "Grdanaze",
+                  "text": "O movilă arheologică istorică din câmpia Shahrizor, care oferă vedere asupra peisajului fertil din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        45.928834,
+                        35.34273
+                  ]
+            },
+            {
+                  "name": "70km/h",
+                  "text": "Punct de observație ce oferă o panoramă vastă asupra câmpiei Shahrizor.",
+                  "category": "natural",
+                  "coords": [
+                        45.989225,
+                        35.302934
+                  ]
+            },
+            {
+                  "name": "Iman Mosque",
+                  "text": "Lăcaș de cult islamic situat în cadrul rural al câmpiei Shahrizor.",
+                  "category": "landmark",
+                  "coords": [
+                        45.877727,
+                        35.367411
+                  ]
+            },
+            {
+                  "name": "Khatu Mariam Mosque",
+                  "text": "Loc de rugăciune musulman aflat în regiunea câmpiei Shahrizor.",
+                  "category": "landmark",
+                  "coords": [
+                        45.882245,
+                        35.361476
+                  ]
+            },
+            {
+                  "name": "Dar Al-Ihsan Mosque",
+                  "text": "Moschee islamică situată în apropierea regiunii Shahrizor.",
+                  "category": "landmark",
+                  "coords": [
+                        45.875108,
+                        35.362371
+                  ]
+            },
+            {
+                  "name": "Aisha Mosque",
+                  "text": "Moschee locală servind ca centru religios în câmpia Shahrizor.",
+                  "category": "religious",
+                  "coords": [
+                        45.880104,
+                        35.352386
+                  ]
+            },
+            {
+                  "name": "Taqwa Mosque",
+                  "text": "Lăcaș de cult musulman modest situat în vasta câmpie Shahrizor.",
+                  "category": "religious",
+                  "coords": [
+                        45.877526,
+                        35.346621
+                  ]
+            },
+            {
+                  "name": "Haji Qadr Away Mosque",
+                  "text": "Loc de rugăciune islamic aflat în zona rurală din Shahrizor.",
+                  "category": "religious",
+                  "coords": [
+                        45.883529,
+                        35.352069
+                  ]
+            },
+            {
+                  "name": "Mzgawty Qadafary",
+                  "text": "Moschee regională pentru comunitatea musulmană din câmpia Shahrizor.",
+                  "category": "religious",
+                  "coords": [
+                        45.952199,
+                        35.337537
+                  ]
+            },
+            {
+                  "name": "Mzgawty Grdy go",
+                  "text": "Sit religios musulman situat în câmpia Shahrizor.",
+                  "category": "landmark",
+                  "coords": [
+                        45.971642,
+                        35.303136
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Firdaws Mosque",
+                  "text": "A beautifully maintained mosque on the Shahrizor plain, known for its tranquil atmosphere and garden.",
+                  "category": "landmark",
+                  "coords": [
+                        45.87896,
+                        35.363024
+                  ]
+            },
+            {
+                  "name": "Grdanaze",
+                  "text": "A historic archaeological mound in the Shahrizor plain, offering views over the surrounding fertile landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        45.928834,
+                        35.34273
+                  ]
+            },
+            {
+                  "name": "70km/h",
+                  "text": "Viewpoint offering a wide panoramic vista over the Shahrizor plain.",
+                  "category": "natural",
+                  "coords": [
+                        45.989225,
+                        35.302934
+                  ]
+            },
+            {
+                  "name": "Iman Mosque",
+                  "text": "Islamic place of worship situated in the rural setting of the Shahrizor plain.",
+                  "category": "landmark",
+                  "coords": [
+                        45.877727,
+                        35.367411
+                  ]
+            },
+            {
+                  "name": "Khatu Mariam Mosque",
+                  "text": "Muslim prayer site located in the Shahrizor plain region.",
+                  "category": "landmark",
+                  "coords": [
+                        45.882245,
+                        35.361476
+                  ]
+            },
+            {
+                  "name": "Dar Al-Ihsan Mosque",
+                  "text": "Islamic mosque located near the Shahrizor plain region.",
+                  "category": "landmark",
+                  "coords": [
+                        45.875108,
+                        35.362371
+                  ]
+            },
+            {
+                  "name": "Aisha Mosque",
+                  "text": "Local mosque serving as a religious center on the Shahrizor plain.",
+                  "category": "religious",
+                  "coords": [
+                        45.880104,
+                        35.352386
+                  ]
+            },
+            {
+                  "name": "Taqwa Mosque",
+                  "text": "Modest Muslim place of worship located on the vast Shahrizor plain.",
+                  "category": "religious",
+                  "coords": [
+                        45.877526,
+                        35.346621
+                  ]
+            },
+            {
+                  "name": "Haji Qadr Away Mosque",
+                  "text": "Islamic prayer site situated in the rural area of Shahrizor.",
+                  "category": "religious",
+                  "coords": [
+                        45.883529,
+                        35.352069
+                  ]
+            },
+            {
+                  "name": "Mzgawty Qadafary",
+                  "text": "Regional mosque for the Muslim community of the Shahrizor plain.",
+                  "category": "religious",
+                  "coords": [
+                        45.952199,
+                        35.337537
+                  ]
+            },
+            {
+                  "name": "Grdy go",
+                  "text": "Muslim religious site located on the Shahrizor plain.",
+                  "category": "landmark",
+                  "coords": [
+                        45.971642,
+                        35.303136
+                  ]
+            }
+      ]
+},
     type: "plateau",
     parent: "IQ-SU",
     coords: [45.9000, 35.3000],
@@ -775,7 +5905,1384 @@ export const poiExtraIraqReliefV2: POI[] = [
     },
   },
   {
-    id: "gali-ali-beg-canyon-relief-v2",
+    id: "gali-ali-beg-canyon-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Batas-Harir Relief",
+                  "text": "Das Batas-Harir-Relief ist ein altes Felsrelief und eine archäologische Stätte nahe der Gali-Ali-Beg-Schlucht.",
+                  "category": "historical",
+                  "coords": [
+                        44.34834,
+                        36.563597
+                  ]
+            },
+            {
+                  "name": "Tawhid Mousque",
+                  "text": "Die Tawhid-Moschee ist eine lokale Kultstätte in der Region der Gali-Ali-Beg-Schlucht.",
+                  "category": "religious",
+                  "coords": [
+                        44.353947,
+                        36.550389
+                  ]
+            },
+            {
+                  "name": "Qalay Sipilk",
+                  "text": "Qalay Sipilk ist eine historische Burg in der Region der Gali-Ali-Beg-Schlucht.",
+                  "category": "castle",
+                  "coords": [
+                        44.320853,
+                        36.610477
+                  ]
+            },
+            {
+                  "name": "Bekhma Mosque",
+                  "text": "Die Bekhma-Moschee ist eine religiöse Stätte in der Nähe der Gali-Ali-Beg-Schlucht.",
+                  "category": "religious",
+                  "coords": [
+                        44.31136,
+                        36.684125
+                  ]
+            },
+            {
+                  "name": "Brayati Mosque",
+                  "text": "Eine Kultstätte namens Brayati-Moschee in der Region der Gali-Ali-Beg-Schlucht.",
+                  "category": "religious",
+                  "coords": [
+                        44.398792,
+                        36.606592
+                  ]
+            },
+            {
+                  "name": "Snaha Mosque",
+                  "text": "Die Snaha-Moschee dient als lokale Kultstätte in der Region der Gali-Ali-Beg-Schlucht.",
+                  "category": "religious",
+                  "coords": [
+                        44.395935,
+                        36.59425
+                  ]
+            },
+            {
+                  "name": "Biffitng Hall",
+                  "text": "Eine Kultstätte namens Biffitng Hall in der Nähe der Gali-Ali-Beg-Schlucht.",
+                  "category": "religious",
+                  "coords": [
+                        44.357355,
+                        36.550725
+                  ]
+            },
+            {
+                  "name": "Fruit & Vegitable Market",
+                  "text": "Ein lokaler Markt für Obst und Gemüse in der Region der Gali-Ali-Beg-Schlucht.",
+                  "category": "cultural",
+                  "coords": [
+                        44.353266,
+                        36.55273
+                  ]
+            },
+            {
+                  "name": "Dyari Show Carpets",
+                  "text": "Ein Teppichmarkt namens Dyari Show Carpets in der Region der Gali-Ali-Beg-Schlucht.",
+                  "category": "cultural",
+                  "coords": [
+                        44.354597,
+                        36.551684
+                  ]
+            },
+            {
+                  "name": "Alana valley resort",
+                  "text": "Das Alana valley resort ist eine Touristenattraktion nahe der Gali-Ali-Beg-Schlucht.",
+                  "category": "landmark",
+                  "coords": [
+                        44.434847,
+                        36.54837
+                  ]
+            },
+            {
+                  "name": "Kani",
+                  "text": "Eine lokale Sehenswürdigkeit namens Kani in der Region der Gali-Ali-Beg-Schlucht.",
+                  "category": "landmark",
+                  "coords": [
+                        44.427438,
+                        36.557252
+                  ]
+            },
+            {
+                  "name": "Fatima Mosque",
+                  "text": "Die Fatima-Moschee ist eine islamische Kultstätte im Gebiet der Gali-Ali-Beg-Schlucht.",
+                  "category": "landmark",
+                  "coords": [
+                        44.407734,
+                        36.62264
+                  ]
+            },
+            {
+                  "name": "Shahid Ahmad Taha Argoshy Mosque",
+                  "text": "Eine islamische Moschee namens Shahid Ahmad Taha Argoshy Mosque in der Nähe der Gali-Ali-Beg-Schlucht.",
+                  "category": "landmark",
+                  "coords": [
+                        44.348247,
+                        36.684677
+                  ]
+            },
+            {
+                  "name": "Mala Khdr Mosque",
+                  "text": "Die Mala Khdr Mosque ist eine lokale islamische Kultstätte in der Region der Gali-Ali-Beg-Schlucht.",
+                  "category": "landmark",
+                  "coords": [
+                        44.407227,
+                        36.609436
+                  ]
+            },
+            {
+                  "name": "Aliawa Mosque",
+                  "text": "Aliawa Mosque ist eine Moschee im Gebiet von gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.406275,
+                        36.612278
+                  ]
+            },
+            {
+                  "name": "Shekh Pirot Mosque",
+                  "text": "Shekh Pirot Mosque ist eine Moschee im Gebiet von gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.403763,
+                        36.609354
+                  ]
+            },
+            {
+                  "name": "Rasti Mosque",
+                  "text": "Rasti Mosque ist eine Moschee im Gebiet von gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.396216,
+                        36.596906
+                  ]
+            },
+            {
+                  "name": "Bawyan Mosque",
+                  "text": "Bawyan Mosque ist eine Moschee im Gebiet von gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.398108,
+                        36.600385
+                  ]
+            },
+            {
+                  "name": "Abubakr Assdiq Mosque",
+                  "text": "Abubakr Assdiq Mosque ist eine Moschee im Gebiet von gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.399621,
+                        36.60388
+                  ]
+            },
+            {
+                  "name": "Kherkhwazan Mosque",
+                  "text": "Kherkhwazan Mosque ist eine Moschee im Gebiet von gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.404544,
+                        36.608299
+                  ]
+            },
+            {
+                  "name": "Rasullulah Mosque",
+                  "text": "Rasullulah Mosque ist eine Moschee im Gebiet von gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.411548,
+                        36.600969
+                  ]
+            },
+            {
+                  "name": "Shari Madina Mosque",
+                  "text": "Shari Madina Mosque ist eine Moschee im Gebiet von gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.412675,
+                        36.608655
+                  ]
+            },
+            {
+                  "name": "Zargli Khalifan mosque",
+                  "text": "Zargli Khalifan mosque ist eine Moschee im Gebiet von gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.41215,
+                        36.61737
+                  ]
+            },
+            {
+                  "name": "Bahasht Mosque",
+                  "text": "Bahasht Mosque ist eine Moschee im Gebiet von gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.431425,
+                        36.553668
+                  ]
+            },
+            {
+                  "name": "Bilal Abashi Mosque",
+                  "text": "Bilal Abashi Mosque ist eine Moschee im Gebiet von gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.392211,
+                        36.59265
+                  ]
+            },
+            {
+                  "name": "Chwar Bra Mosque",
+                  "text": "Chwar Bra Mosque ist eine Moschee im Gebiet von gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.38606,
+                        36.591862
+                  ]
+            },
+            {
+                  "name": "Lower Jolamerg Mosque",
+                  "text": "Lower Jolamerg Mosque ist eine Moschee im Gebiet von gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.392074,
+                        36.588633
+                  ]
+            },
+            {
+                  "name": "Othman Ibn Afan Mosque",
+                  "text": "Othman Ibn Afan Mosque ist eine Moschee im Gebiet von gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.34048,
+                        36.565734
+                  ]
+            },
+            {
+                  "name": "Omer ibn Khatab Mosque",
+                  "text": "Omer ibn Khatab Mosque ist eine Moschee im Gebiet von gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.360985,
+                        36.546393
+                  ]
+            },
+            {
+                  "name": "Brwadaran Mosque",
+                  "text": "Brwadaran Mosque ist eine Moschee im Gebiet von gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.339488,
+                        36.55597
+                  ]
+            },
+            {
+                  "name": "Shahedaby 1 of Shubat Mosque",
+                  "text": "Shahedaby 1 of Shubat Mosque ist eine Moschee im Gebiet von gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.34651,
+                        36.553203
+                  ]
+            },
+            {
+                  "name": "Dayk Mosque",
+                  "text": "Dayk Mosque ist eine Moschee im Gebiet von gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.351099,
+                        36.551557
+                  ]
+            },
+            {
+                  "name": "Abu bakr Sdiq Mosque",
+                  "text": "Abu bakr Sdiq Mosque ist eine Moschee im Gebiet von gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.349251,
+                        36.557818
+                  ]
+            },
+            {
+                  "name": "Haji Mustafa Mosque",
+                  "text": "Haji Mustafa Mosque ist eine Moschee im Gebiet von gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.344712,
+                        36.557705
+                  ]
+            },
+            {
+                  "name": "Shadi (canned factory) Mosque",
+                  "text": "Shadi (canned factory) Mosque ist eine Moschee im Gebiet von gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.344395,
+                        36.560513
+                  ]
+            },
+            {
+                  "name": "Haji kaky jamchy Mosque",
+                  "text": "Haji kaky jamchy Mosque ist eine Moschee im Gebiet von gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.342897,
+                        36.560341
+                  ]
+            },
+            {
+                  "name": "Tabaiy Mosque",
+                  "text": "Tabaiy Mosque ist eine Moschee im Gebiet von gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.340229,
+                        36.558328
+                  ]
+            },
+            {
+                  "name": "Haji Namiq Atraqchi Mosque",
+                  "text": "Haji Namiq Atraqchi Mosque ist eine Moschee im Gebiet von gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.340096,
+                        36.562572
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Batas-Harir Relief",
+                  "text": "A Batas-Harir dombormű egy ősi szikladombormű és régészeti lelőhely a Gali Ali Beg-kanyon közelében.",
+                  "category": "historical",
+                  "coords": [
+                        44.34834,
+                        36.563597
+                  ]
+            },
+            {
+                  "name": "Tawhid Mousque",
+                  "text": "A Tawhid mecset egy helyi istentiszteleti hely a Gali Ali Beg-kanyon területén.",
+                  "category": "religious",
+                  "coords": [
+                        44.353947,
+                        36.550389
+                  ]
+            },
+            {
+                  "name": "Qalay Sipilk",
+                  "text": "A Qalay Sipilk egy történelmi kastély a Gali Ali Beg-kanyon régióban.",
+                  "category": "castle",
+                  "coords": [
+                        44.320853,
+                        36.610477
+                  ]
+            },
+            {
+                  "name": "Bekhma Mosque",
+                  "text": "A Bekhma mecset egy vallási hely a Gali Ali Beg-kanyon közelében.",
+                  "category": "religious",
+                  "coords": [
+                        44.31136,
+                        36.684125
+                  ]
+            },
+            {
+                  "name": "Brayati Mosque",
+                  "text": "A Brayati mecset nevű istentiszteleti hely a Gali Ali Beg-kanyon térségében.",
+                  "category": "religious",
+                  "coords": [
+                        44.398792,
+                        36.606592
+                  ]
+            },
+            {
+                  "name": "Snaha Mosque",
+                  "text": "A Snaha mecset helyi istentiszteleti helyként szolgál a Gali Ali Beg-kanyon régióban.",
+                  "category": "religious",
+                  "coords": [
+                        44.395935,
+                        36.59425
+                  ]
+            },
+            {
+                  "name": "Biffitng Hall",
+                  "text": "A Biffitng Hall nevű istentiszteleti hely a Gali Ali Beg-kanyon közelében található.",
+                  "category": "religious",
+                  "coords": [
+                        44.357355,
+                        36.550725
+                  ]
+            },
+            {
+                  "name": "Fruit & Vegitable Market",
+                  "text": "Helyi zöldség- és gyümölcspiac a Gali Ali Beg-kanyon térségében.",
+                  "category": "cultural",
+                  "coords": [
+                        44.353266,
+                        36.55273
+                  ]
+            },
+            {
+                  "name": "Dyari Show Carpets",
+                  "text": "A Dyari Show Carpets nevű szőnyegpiac a Gali Ali Beg-kanyon régióban.",
+                  "category": "cultural",
+                  "coords": [
+                        44.354597,
+                        36.551684
+                  ]
+            },
+            {
+                  "name": "Alana valley resort",
+                  "text": "Az Alana valley resort egy turisztikai látványosság a Gali Ali Beg-kanyon közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        44.434847,
+                        36.54837
+                  ]
+            },
+            {
+                  "name": "Kani",
+                  "text": "A Kani nevű helyi látványosság a Gali Ali Beg-kanyon régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        44.427438,
+                        36.557252
+                  ]
+            },
+            {
+                  "name": "Fatima Mosque",
+                  "text": "A Fatima mecset egy iszlám istentiszteleti hely a Gali Ali Beg-kanyon térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        44.407734,
+                        36.62264
+                  ]
+            },
+            {
+                  "name": "Shahid Ahmad Taha Argoshy Mosque",
+                  "text": "A Shahid Ahmad Taha Argoshy mecset nevű iszlám templom a Gali Ali Beg-kanyon közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        44.348247,
+                        36.684677
+                  ]
+            },
+            {
+                  "name": "Mala Khdr Mosque",
+                  "text": "A Mala Khdr mecset egy helyi iszlám istentiszteleti hely a Gali Ali Beg-kanyon régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        44.407227,
+                        36.609436
+                  ]
+            },
+            {
+                  "name": "Aliawa Mosque",
+                  "text": "A(z) Aliawa Mosque egy mecset gali-ali-beg-canyon-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        44.406275,
+                        36.612278
+                  ]
+            },
+            {
+                  "name": "Shekh Pirot Mosque",
+                  "text": "A(z) Shekh Pirot Mosque egy mecset gali-ali-beg-canyon-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        44.403763,
+                        36.609354
+                  ]
+            },
+            {
+                  "name": "Rasti Mosque",
+                  "text": "A(z) Rasti Mosque egy mecset gali-ali-beg-canyon-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        44.396216,
+                        36.596906
+                  ]
+            },
+            {
+                  "name": "Bawyan Mosque",
+                  "text": "A(z) Bawyan Mosque egy mecset gali-ali-beg-canyon-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        44.398108,
+                        36.600385
+                  ]
+            },
+            {
+                  "name": "Abubakr Assdiq Mosque",
+                  "text": "A(z) Abubakr Assdiq Mosque egy mecset gali-ali-beg-canyon-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        44.399621,
+                        36.60388
+                  ]
+            },
+            {
+                  "name": "Kherkhwazan Mosque",
+                  "text": "A(z) Kherkhwazan Mosque egy mecset gali-ali-beg-canyon-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        44.404544,
+                        36.608299
+                  ]
+            },
+            {
+                  "name": "Rasullulah Mosque",
+                  "text": "A(z) Rasullulah Mosque egy mecset gali-ali-beg-canyon-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        44.411548,
+                        36.600969
+                  ]
+            },
+            {
+                  "name": "Shari Madina Mosque",
+                  "text": "A(z) Shari Madina Mosque egy mecset gali-ali-beg-canyon-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        44.412675,
+                        36.608655
+                  ]
+            },
+            {
+                  "name": "Zargli Khalifan mosque",
+                  "text": "A(z) Zargli Khalifan mosque egy mecset gali-ali-beg-canyon-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        44.41215,
+                        36.61737
+                  ]
+            },
+            {
+                  "name": "Bahasht Mosque",
+                  "text": "A(z) Bahasht Mosque egy mecset gali-ali-beg-canyon-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        44.431425,
+                        36.553668
+                  ]
+            },
+            {
+                  "name": "Bilal Abashi Mosque",
+                  "text": "A(z) Bilal Abashi Mosque egy mecset gali-ali-beg-canyon-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        44.392211,
+                        36.59265
+                  ]
+            },
+            {
+                  "name": "Chwar Bra Mosque",
+                  "text": "A(z) Chwar Bra Mosque egy mecset gali-ali-beg-canyon-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        44.38606,
+                        36.591862
+                  ]
+            },
+            {
+                  "name": "Lower Jolamerg Mosque",
+                  "text": "A(z) Lower Jolamerg Mosque egy mecset gali-ali-beg-canyon-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        44.392074,
+                        36.588633
+                  ]
+            },
+            {
+                  "name": "Othman Ibn Afan Mosque",
+                  "text": "A(z) Othman Ibn Afan Mosque egy mecset gali-ali-beg-canyon-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        44.34048,
+                        36.565734
+                  ]
+            },
+            {
+                  "name": "Omer ibn Khatab Mosque",
+                  "text": "A(z) Omer ibn Khatab Mosque egy mecset gali-ali-beg-canyon-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        44.360985,
+                        36.546393
+                  ]
+            },
+            {
+                  "name": "Brwadaran Mosque",
+                  "text": "A(z) Brwadaran Mosque egy mecset gali-ali-beg-canyon-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        44.339488,
+                        36.55597
+                  ]
+            },
+            {
+                  "name": "Shahedaby 1 of Shubat Mosque",
+                  "text": "A(z) Shahedaby 1 of Shubat Mosque egy mecset gali-ali-beg-canyon-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        44.34651,
+                        36.553203
+                  ]
+            },
+            {
+                  "name": "Dayk Mosque",
+                  "text": "A(z) Dayk Mosque egy mecset gali-ali-beg-canyon-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        44.351099,
+                        36.551557
+                  ]
+            },
+            {
+                  "name": "Abu bakr Sdiq Mosque",
+                  "text": "A(z) Abu bakr Sdiq Mosque egy mecset gali-ali-beg-canyon-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        44.349251,
+                        36.557818
+                  ]
+            },
+            {
+                  "name": "Haji Mustafa Mosque",
+                  "text": "A(z) Haji Mustafa Mosque egy mecset gali-ali-beg-canyon-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        44.344712,
+                        36.557705
+                  ]
+            },
+            {
+                  "name": "Shadi (canned factory) Mosque",
+                  "text": "A(z) Shadi (canned factory) Mosque egy mecset gali-ali-beg-canyon-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        44.344395,
+                        36.560513
+                  ]
+            },
+            {
+                  "name": "Haji kaky jamchy Mosque",
+                  "text": "A(z) Haji kaky jamchy Mosque egy mecset gali-ali-beg-canyon-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        44.342897,
+                        36.560341
+                  ]
+            },
+            {
+                  "name": "Tabaiy Mosque",
+                  "text": "A(z) Tabaiy Mosque egy mecset gali-ali-beg-canyon-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        44.340229,
+                        36.558328
+                  ]
+            },
+            {
+                  "name": "Haji Namiq Atraqchi Mosque",
+                  "text": "A(z) Haji Namiq Atraqchi Mosque egy mecset gali-ali-beg-canyon-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        44.340096,
+                        36.562572
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Batas-Harir Relief",
+                  "text": "Relieful Batas-Harir este un vechi relief în stâncă și sit arheologic situat lângă Canionul Gali Ali Beg.",
+                  "category": "historical",
+                  "coords": [
+                        44.34834,
+                        36.563597
+                  ]
+            },
+            {
+                  "name": "Tawhid Mousque",
+                  "text": "Moscheea Tawhid este un lăcaș de cult local în zona Canionului Gali Ali Beg.",
+                  "category": "religious",
+                  "coords": [
+                        44.353947,
+                        36.550389
+                  ]
+            },
+            {
+                  "name": "Qalay Sipilk",
+                  "text": "Qalay Sipilk este un castel istoric situat în regiunea Canionului Gali Ali Beg.",
+                  "category": "castle",
+                  "coords": [
+                        44.320853,
+                        36.610477
+                  ]
+            },
+            {
+                  "name": "Bekhma Mosque",
+                  "text": "Moscheea Bekhma este un sit religios situat lângă Canionul Gali Ali Beg.",
+                  "category": "religious",
+                  "coords": [
+                        44.31136,
+                        36.684125
+                  ]
+            },
+            {
+                  "name": "Brayati Mosque",
+                  "text": "Un lăcaș de cult cunoscut sub numele de Moscheea Brayati în zona Canionului Gali Ali Beg.",
+                  "category": "religious",
+                  "coords": [
+                        44.398792,
+                        36.606592
+                  ]
+            },
+            {
+                  "name": "Snaha Mosque",
+                  "text": "Moscheea Snaha servește drept lăcaș de cult local în regiunea Canionului Gali Ali Beg.",
+                  "category": "religious",
+                  "coords": [
+                        44.395935,
+                        36.59425
+                  ]
+            },
+            {
+                  "name": "Biffitng Hall",
+                  "text": "Un lăcaș de cult cunoscut sub numele de Biffitng Hall, situat lângă Canionul Gali Ali Beg.",
+                  "category": "religious",
+                  "coords": [
+                        44.357355,
+                        36.550725
+                  ]
+            },
+            {
+                  "name": "Fruit & Vegitable Market",
+                  "text": "O piață locală de fructe și legume situată în zona Canionului Gali Ali Beg.",
+                  "category": "cultural",
+                  "coords": [
+                        44.353266,
+                        36.55273
+                  ]
+            },
+            {
+                  "name": "Dyari Show Carpets",
+                  "text": "O piață de covoare cunoscută sub numele de Dyari Show Carpets în regiunea Canionului Gali Ali Beg.",
+                  "category": "cultural",
+                  "coords": [
+                        44.354597,
+                        36.551684
+                  ]
+            },
+            {
+                  "name": "Alana valley resort",
+                  "text": "Stațiunea Alana valley resort este o atracție turistică situată lângă Canionul Gali Ali Beg.",
+                  "category": "landmark",
+                  "coords": [
+                        44.434847,
+                        36.54837
+                  ]
+            },
+            {
+                  "name": "Kani",
+                  "text": "O atracție locală cunoscută sub numele de Kani în regiunea Canionului Gali Ali Beg.",
+                  "category": "landmark",
+                  "coords": [
+                        44.427438,
+                        36.557252
+                  ]
+            },
+            {
+                  "name": "Fatima Mosque",
+                  "text": "Moscheea Fatima este un lăcaș de cult islamic în zona Canionului Gali Ali Beg.",
+                  "category": "landmark",
+                  "coords": [
+                        44.407734,
+                        36.62264
+                  ]
+            },
+            {
+                  "name": "Shahid Ahmad Taha Argoshy Mosque",
+                  "text": "O moschee islamică numită Moscheea Shahid Ahmad Taha Argoshy situată lângă Canionul Gali Ali Beg.",
+                  "category": "landmark",
+                  "coords": [
+                        44.348247,
+                        36.684677
+                  ]
+            },
+            {
+                  "name": "Mala Khdr Mosque",
+                  "text": "Moscheea Mala Khdr este un lăcaș de cult islamic local în regiunea Canionului Gali Ali Beg.",
+                  "category": "landmark",
+                  "coords": [
+                        44.407227,
+                        36.609436
+                  ]
+            },
+            {
+                  "name": "Aliawa Mosque",
+                  "text": "Aliawa Mosque este o moschee situată în zona gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.406275,
+                        36.612278
+                  ]
+            },
+            {
+                  "name": "Shekh Pirot Mosque",
+                  "text": "Shekh Pirot Mosque este o moschee situată în zona gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.403763,
+                        36.609354
+                  ]
+            },
+            {
+                  "name": "Rasti Mosque",
+                  "text": "Rasti Mosque este o moschee situată în zona gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.396216,
+                        36.596906
+                  ]
+            },
+            {
+                  "name": "Bawyan Mosque",
+                  "text": "Bawyan Mosque este o moschee situată în zona gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.398108,
+                        36.600385
+                  ]
+            },
+            {
+                  "name": "Abubakr Assdiq Mosque",
+                  "text": "Abubakr Assdiq Mosque este o moschee situată în zona gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.399621,
+                        36.60388
+                  ]
+            },
+            {
+                  "name": "Kherkhwazan Mosque",
+                  "text": "Kherkhwazan Mosque este o moschee situată în zona gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.404544,
+                        36.608299
+                  ]
+            },
+            {
+                  "name": "Rasullulah Mosque",
+                  "text": "Rasullulah Mosque este o moschee situată în zona gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.411548,
+                        36.600969
+                  ]
+            },
+            {
+                  "name": "Shari Madina Mosque",
+                  "text": "Shari Madina Mosque este o moschee situată în zona gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.412675,
+                        36.608655
+                  ]
+            },
+            {
+                  "name": "Zargli Khalifan mosque",
+                  "text": "Zargli Khalifan mosque este o moschee situată în zona gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.41215,
+                        36.61737
+                  ]
+            },
+            {
+                  "name": "Bahasht Mosque",
+                  "text": "Bahasht Mosque este o moschee situată în zona gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.431425,
+                        36.553668
+                  ]
+            },
+            {
+                  "name": "Bilal Abashi Mosque",
+                  "text": "Bilal Abashi Mosque este o moschee situată în zona gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.392211,
+                        36.59265
+                  ]
+            },
+            {
+                  "name": "Chwar Bra Mosque",
+                  "text": "Chwar Bra Mosque este o moschee situată în zona gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.38606,
+                        36.591862
+                  ]
+            },
+            {
+                  "name": "Lower Jolamerg Mosque",
+                  "text": "Lower Jolamerg Mosque este o moschee situată în zona gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.392074,
+                        36.588633
+                  ]
+            },
+            {
+                  "name": "Othman Ibn Afan Mosque",
+                  "text": "Othman Ibn Afan Mosque este o moschee situată în zona gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.34048,
+                        36.565734
+                  ]
+            },
+            {
+                  "name": "Omer ibn Khatab Mosque",
+                  "text": "Omer ibn Khatab Mosque este o moschee situată în zona gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.360985,
+                        36.546393
+                  ]
+            },
+            {
+                  "name": "Brwadaran Mosque",
+                  "text": "Brwadaran Mosque este o moschee situată în zona gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.339488,
+                        36.55597
+                  ]
+            },
+            {
+                  "name": "Shahedaby 1 of Shubat Mosque",
+                  "text": "Shahedaby 1 of Shubat Mosque este o moschee situată în zona gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.34651,
+                        36.553203
+                  ]
+            },
+            {
+                  "name": "Dayk Mosque",
+                  "text": "Dayk Mosque este o moschee situată în zona gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.351099,
+                        36.551557
+                  ]
+            },
+            {
+                  "name": "Abu bakr Sdiq Mosque",
+                  "text": "Abu bakr Sdiq Mosque este o moschee situată în zona gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.349251,
+                        36.557818
+                  ]
+            },
+            {
+                  "name": "Haji Mustafa Mosque",
+                  "text": "Haji Mustafa Mosque este o moschee situată în zona gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.344712,
+                        36.557705
+                  ]
+            },
+            {
+                  "name": "Shadi (canned factory) Mosque",
+                  "text": "Shadi (canned factory) Mosque este o moschee situată în zona gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.344395,
+                        36.560513
+                  ]
+            },
+            {
+                  "name": "Haji kaky jamchy Mosque",
+                  "text": "Haji kaky jamchy Mosque este o moschee situată în zona gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.342897,
+                        36.560341
+                  ]
+            },
+            {
+                  "name": "Tabaiy Mosque",
+                  "text": "Tabaiy Mosque este o moschee situată în zona gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.340229,
+                        36.558328
+                  ]
+            },
+            {
+                  "name": "Haji Namiq Atraqchi Mosque",
+                  "text": "Haji Namiq Atraqchi Mosque este o moschee situată în zona gali-ali-beg-canyon-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        44.340096,
+                        36.562572
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Batas-Harir Relief",
+                  "text": "The Batas-Harir Relief is an ancient rock relief and archaeological site located near the Gali Ali Beg Canyon.",
+                  "category": "historical",
+                  "coords": [
+                        44.34834,
+                        36.563597
+                  ]
+            },
+            {
+                  "name": "Tawhid Mousque",
+                  "text": "Tawhid Mosque is a local place of worship in the Gali Ali Beg Canyon area.",
+                  "category": "religious",
+                  "coords": [
+                        44.353947,
+                        36.550389
+                  ]
+            },
+            {
+                  "name": "Qalay Sipilk",
+                  "text": "Qalay Sipilk is a historic castle situated in the Gali Ali Beg Canyon region.",
+                  "category": "castle",
+                  "coords": [
+                        44.320853,
+                        36.610477
+                  ]
+            },
+            {
+                  "name": "Bekhma Mosque",
+                  "text": "Bekhma Mosque is a religious site located near the Gali Ali Beg Canyon.",
+                  "category": "religious",
+                  "coords": [
+                        44.31136,
+                        36.684125
+                  ]
+            },
+            {
+                  "name": "Brayati Mosque",
+                  "text": "A place of worship known as Brayati Mosque in the Gali Ali Beg Canyon area.",
+                  "category": "religious",
+                  "coords": [
+                        44.398792,
+                        36.606592
+                  ]
+            },
+            {
+                  "name": "Snaha Mosque",
+                  "text": "Snaha Mosque serves as a local place of worship in the Gali Ali Beg Canyon region.",
+                  "category": "religious",
+                  "coords": [
+                        44.395935,
+                        36.59425
+                  ]
+            },
+            {
+                  "name": "Biffitng Hall",
+                  "text": "A place of worship known as Biffitng Hall located near the Gali Ali Beg Canyon.",
+                  "category": "religious",
+                  "coords": [
+                        44.357355,
+                        36.550725
+                  ]
+            },
+            {
+                  "name": "Fruits & Vegetables Market",
+                  "text": "A local marketplace for fruits and vegetables situated in the Gali Ali Beg Canyon area.",
+                  "category": "cultural",
+                  "coords": [
+                        44.353266,
+                        36.55273
+                  ]
+            },
+            {
+                  "name": "Dyari Show Carpets",
+                  "text": "A carpet marketplace known as Dyari Show Carpets in the Gali Ali Beg Canyon region.",
+                  "category": "cultural",
+                  "coords": [
+                        44.354597,
+                        36.551684
+                  ]
+            },
+            {
+                  "name": "Alana valley resort",
+                  "text": "The Alana valley resort is a tourist attraction located near the Gali Ali Beg Canyon.",
+                  "category": "landmark",
+                  "coords": [
+                        44.434847,
+                        36.54837
+                  ]
+            },
+            {
+                  "name": "Kani",
+                  "text": "A local attraction known as Kani in the Gali Ali Beg Canyon region.",
+                  "category": "landmark",
+                  "coords": [
+                        44.427438,
+                        36.557252
+                  ]
+            },
+            {
+                  "name": "Fatima Mosque",
+                  "text": "Fatima Mosque is an Islamic place of worship in the Gali Ali Beg Canyon area.",
+                  "category": "landmark",
+                  "coords": [
+                        44.407734,
+                        36.62264
+                  ]
+            },
+            {
+                  "name": "Shahid Ahmad Taha Argoshy Mosque",
+                  "text": "An Islamic mosque named Shahid Ahmad Taha Argoshy Mosque situated near the Gali Ali Beg Canyon.",
+                  "category": "landmark",
+                  "coords": [
+                        44.348247,
+                        36.684677
+                  ]
+            },
+            {
+                  "name": "Mala Khdr Mosque",
+                  "text": "Mala Khdr Mosque is a local Islamic place of worship in the Gali Ali Beg Canyon region.",
+                  "category": "landmark",
+                  "coords": [
+                        44.407227,
+                        36.609436
+                  ]
+            },
+            {
+                  "name": "Aliawa Mosque",
+                  "text": "Aliawa Mosque is a mosque located in the gali-ali-beg-canyon-relief-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        44.406275,
+                        36.612278
+                  ]
+            },
+            {
+                  "name": "Shekh Pirot Mosque",
+                  "text": "Shekh Pirot Mosque is a mosque located in the gali-ali-beg-canyon-relief-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        44.403763,
+                        36.609354
+                  ]
+            },
+            {
+                  "name": "Rasti Mosque",
+                  "text": "Rasti Mosque is a mosque located in the gali-ali-beg-canyon-relief-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        44.396216,
+                        36.596906
+                  ]
+            },
+            {
+                  "name": "Bawyan Mosque",
+                  "text": "Bawyan Mosque is a mosque located in the gali-ali-beg-canyon-relief-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        44.398108,
+                        36.600385
+                  ]
+            },
+            {
+                  "name": "Abubakr Assdiq Mosque",
+                  "text": "Abubakr Assdiq Mosque is a mosque located in the gali-ali-beg-canyon-relief-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        44.399621,
+                        36.60388
+                  ]
+            },
+            {
+                  "name": "Kherkhwazan Mosque",
+                  "text": "Kherkhwazan Mosque is a mosque located in the gali-ali-beg-canyon-relief-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        44.404544,
+                        36.608299
+                  ]
+            },
+            {
+                  "name": "Rasullulah Mosque",
+                  "text": "Rasullulah Mosque is a mosque located in the gali-ali-beg-canyon-relief-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        44.411548,
+                        36.600969
+                  ]
+            },
+            {
+                  "name": "Shari Madina Mosque",
+                  "text": "Shari Madina Mosque is a mosque located in the gali-ali-beg-canyon-relief-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        44.412675,
+                        36.608655
+                  ]
+            },
+            {
+                  "name": "Zargli Khalifan mosque",
+                  "text": "Zargli Khalifan mosque is a mosque located in the gali-ali-beg-canyon-relief-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        44.41215,
+                        36.61737
+                  ]
+            },
+            {
+                  "name": "Bahasht Mosque",
+                  "text": "Bahasht Mosque is a mosque located in the gali-ali-beg-canyon-relief-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        44.431425,
+                        36.553668
+                  ]
+            },
+            {
+                  "name": "Bilal Abashi Mosque",
+                  "text": "Bilal Abashi Mosque is a mosque located in the gali-ali-beg-canyon-relief-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        44.392211,
+                        36.59265
+                  ]
+            },
+            {
+                  "name": "Chwar Bra Mosque",
+                  "text": "Chwar Bra Mosque is a mosque located in the gali-ali-beg-canyon-relief-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        44.38606,
+                        36.591862
+                  ]
+            },
+            {
+                  "name": "Lower Jolamerg Mosque",
+                  "text": "Lower Jolamerg Mosque is a mosque located in the gali-ali-beg-canyon-relief-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        44.392074,
+                        36.588633
+                  ]
+            },
+            {
+                  "name": "Othman Ibn Afan Mosque",
+                  "text": "Othman Ibn Afan Mosque is a mosque located in the gali-ali-beg-canyon-relief-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        44.34048,
+                        36.565734
+                  ]
+            },
+            {
+                  "name": "Omer ibn Khatab Mosque",
+                  "text": "Omer ibn Khatab Mosque is a mosque located in the gali-ali-beg-canyon-relief-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        44.360985,
+                        36.546393
+                  ]
+            },
+            {
+                  "name": "Brwadaran Mosque",
+                  "text": "Brwadaran Mosque is a mosque located in the gali-ali-beg-canyon-relief-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        44.339488,
+                        36.55597
+                  ]
+            },
+            {
+                  "name": "Shahedaby 1 of Shubat Mosque",
+                  "text": "Shahedaby 1 of Shubat Mosque is a mosque located in the gali-ali-beg-canyon-relief-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        44.34651,
+                        36.553203
+                  ]
+            },
+            {
+                  "name": "Dayk Mosque",
+                  "text": "Dayk Mosque is a mosque located in the gali-ali-beg-canyon-relief-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        44.351099,
+                        36.551557
+                  ]
+            },
+            {
+                  "name": "Abu bakr Sdiq Mosque",
+                  "text": "Abu bakr Sdiq Mosque is a mosque located in the gali-ali-beg-canyon-relief-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        44.349251,
+                        36.557818
+                  ]
+            },
+            {
+                  "name": "Haji Mustafa Mosque",
+                  "text": "Haji Mustafa Mosque is a mosque located in the gali-ali-beg-canyon-relief-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        44.344712,
+                        36.557705
+                  ]
+            },
+            {
+                  "name": "Shadi (canned factory) Mosque",
+                  "text": "Shadi (canned factory) Mosque is a mosque located in the gali-ali-beg-canyon-relief-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        44.344395,
+                        36.560513
+                  ]
+            },
+            {
+                  "name": "Haji kaky jamchy Mosque",
+                  "text": "Haji kaky jamchy Mosque is a mosque located in the gali-ali-beg-canyon-relief-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        44.342897,
+                        36.560341
+                  ]
+            },
+            {
+                  "name": "Tabaiy Mosque",
+                  "text": "Tabaiy Mosque is a mosque located in the gali-ali-beg-canyon-relief-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        44.340229,
+                        36.558328
+                  ]
+            },
+            {
+                  "name": "Haji Namiq Atraqchi Mosque",
+                  "text": "Haji Namiq Atraqchi Mosque is a mosque located in the gali-ali-beg-canyon-relief-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        44.340096,
+                        36.562572
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "IQ-AR",
     coords: [44.4000, 36.6300],
@@ -818,7 +7325,52 @@ export const poiExtraIraqReliefV2: POI[] = [
       fr: ["Le canyon a une longueur totale d'environ 12 kilomètres.", "Il sépare les deux puissantes montagnes Korek et Handren.", "La cascade de Gali Ali Beg est représentée sur le billet de 5 000 dinars.", "La célèbre Hamilton Road traverse directement le canyon.", "Il est souvent considéré comme le canyon le plus profond de tout le Moyen-Orient.", "Deux rivières, le Rawanduz et le Bechal, se rejoignent ici."],
     }, image: "/poi-images/gali-ali-beg-canyon-relief-v2.webp"},
   {
-    id: "bahr-al-najaf-depression-relief-v2",
+    id: "bahr-al-najaf-depression-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ruins of Al-Hirah Kingdom",
+                  "text": "Die Ruinen des Königreichs Al-Hira bewahren die archäologischen Überreste einer historisch bedeutsamen antiken arabischen Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        44.282307,
+                        31.954074
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruins of Al-Hirah Kingdom",
+                  "text": "Az Al-Hira Királyság romjai egy történelmileg jelentős ókori arab város régészeti maradványait őrzik.",
+                  "category": "historical",
+                  "coords": [
+                        44.282307,
+                        31.954074
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruins of Al-Hirah Kingdom",
+                  "text": "Ruinele Regatului Al-Hirah păstrează rămășițele arheologice ale unui vechi oraș arab cu o semnificație istorică.",
+                  "category": "historical",
+                  "coords": [
+                        44.282307,
+                        31.954074
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruins of Al-Hirah Kingdom",
+                  "text": "The Ruins of Al-Hirah Kingdom preserve the archaeological remnants of a historically significant ancient Arab city.",
+                  "category": "historical",
+                  "coords": [
+                        44.282307,
+                        31.954074
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "IQ-NA",
     coords: [44.3000, 31.9500],
@@ -861,7 +7413,1420 @@ export const poiExtraIraqReliefV2: POI[] = [
       fr: ["La dépression se situe entre 10 et 40 mètres sous le niveau du plateau.", "Elle contient le lac de Najaf, un plan d'eau intérieur saisonnier.", "La zone faisait autrefois partie d'un ancien bras de mer du Golfo.", "De riches ressources en eau souterraine alimentent de nombreuses sources.", "La dépression abrite certains des plus anciens palmeraies de dattiers d'Irak.", "Elle forme la limite naturelle entre le désert et le bassin de l'Euphrate."],
     }, image: "/poi-images/bahr-al-najaf-depression-relief-v2.webp"},
   {
-    id: "soran-valley-relief-v2",
+    id: "soran-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "BRADOSTI",
+                  "text": "Ein im Jahr 2023 errichteter oder restaurierter Festungsbau im Soran-Tal.",
+                  "category": "castle",
+                  "coords": [
+                        44.536151,
+                        36.650857
+                  ]
+            },
+            {
+                  "name": "Bermasard Mosque",
+                  "text": "Eine lokale Moschee im Bergdorf Bermasard im Soran-Tal.",
+                  "category": "religious",
+                  "coords": [
+                        44.492315,
+                        36.669532
+                  ]
+            },
+            {
+                  "name": "Grd Khiwat Mosque",
+                  "text": "Ein muslimisches Gotteshaus im Viertel Grd Khiwat von Soran.",
+                  "category": "religious",
+                  "coords": [
+                        44.489193,
+                        36.678067
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Eine schlichte Moschee für die Gläubigen in der Region Soran.",
+                  "category": "religious",
+                  "coords": [
+                        44.49542,
+                        36.648326
+                  ]
+            },
+            {
+                  "name": "Teammart",
+                  "text": "Ein lokaler Marktplatz für den Handel mit Waren im Soran-Tal.",
+                  "category": "cultural",
+                  "coords": [
+                        44.533249,
+                        36.654126
+                  ]
+            },
+            {
+                  "name": "Pishangai Shusha",
+                  "text": "Ein geschäftiger Handelsplatz für lokale Produkte in Soran.",
+                  "category": "cultural",
+                  "coords": [
+                        44.543616,
+                        36.655314
+                  ]
+            },
+            {
+                  "name": "SHAHIN QADER",
+                  "text": "Eine lokale Sehenswürdigkeit im malerischen Tal von Soran.",
+                  "category": "landmark",
+                  "coords": [
+                        44.557569,
+                        36.666589
+                  ]
+            },
+            {
+                  "name": "Diana hall",
+                  "text": "Ein bekannter Veranstaltungsort und Treffpunkt im Stadtteil Diana.",
+                  "category": "landmark",
+                  "coords": [
+                        44.547057,
+                        36.666653
+                  ]
+            },
+            {
+                  "name": "Saruchawa",
+                  "text": "Ein beliebtes Ausflugsziel, das für seine natürlichen Süßwasserquellen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.55674,
+                        36.670211
+                  ]
+            },
+            {
+                  "name": "Soran",
+                  "text": "Das urbane Zentrum der Region, eingebettet in die nordiraquischen Berge.",
+                  "category": "landmark",
+                  "coords": [
+                        44.543485,
+                        36.652376
+                  ]
+            },
+            {
+                  "name": "Soran Fire Station",
+                  "text": "Ein markantes modernes Funktionsgebäude im Stadtzentrum von Soran.",
+                  "category": "landmark",
+                  "coords": [
+                        44.542648,
+                        36.646222
+                  ]
+            },
+            {
+                  "name": "Mzgawti garaki Barzan",
+                  "text": "Eine Moschee im traditionellen Barzan-Viertel der Stadt Soran.",
+                  "category": "landmark",
+                  "coords": [
+                        44.537182,
+                        36.643327
+                  ]
+            },
+            {
+                  "name": "Haji Syamand Mosque",
+                  "text": "Ein islamisches Gebetshaus im Wohnviertel von Soran.",
+                  "category": "landmark",
+                  "coords": [
+                        44.469512,
+                        36.722159
+                  ]
+            },
+            {
+                  "name": "Harkian Mosque",
+                  "text": "Eine Moschee im Soran-Tal, die der örtlichen Harkian-Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        44.501972,
+                        36.689715
+                  ]
+            },
+            {
+                  "name": "Ashti Mosque",
+                  "text": "Die Ashti-Moschee, ein Ort der Ruhe und des Gebets in Soran.",
+                  "category": "landmark",
+                  "coords": [
+                        44.478612,
+                        36.706912
+                  ]
+            },
+            {
+                  "name": "Haji Mahmud Zandi Mosque",
+                  "text": "Ein religiöses Zentrum im belebten Stadtgebiet von Soran.",
+                  "category": "landmark",
+                  "coords": [
+                        44.52653,
+                        36.655105
+                  ]
+            },
+            {
+                  "name": "Gailany Mosque",
+                  "text": "Eine Moschee im Gailany-Viertel, bekannt für ihre lokale religiöse Bedeutung.",
+                  "category": "landmark",
+                  "coords": [
+                        44.526114,
+                        36.657432
+                  ]
+            },
+            {
+                  "name": "Madina Mosque",
+                  "text": "Die Madina-Moschee, ein zentraler Treffpunkt für Muslime in Soran.",
+                  "category": "landmark",
+                  "coords": [
+                        44.540051,
+                        36.663281
+                  ]
+            },
+            {
+                  "name": "Muzhda Mosque",
+                  "text": "Ein modernes muslimisches Gotteshaus im Herzen des Soran-Distrikts.",
+                  "category": "landmark",
+                  "coords": [
+                        44.535013,
+                        36.658181
+                  ]
+            },
+            {
+                  "name": "Bakhtyari Mosque",
+                  "text": "Eine Moschee im Bakhtyari-Viertel von Soran.",
+                  "category": "landmark",
+                  "coords": [
+                        44.53481,
+                        36.65608
+                  ]
+            },
+            {
+                  "name": "Chami Rezan Mosque",
+                  "text": "Ein islamisches Gebetshaus in der Nähe des Chami-Rezan-Bereichs.",
+                  "category": "landmark",
+                  "coords": [
+                        44.538288,
+                        36.655082
+                  ]
+            },
+            {
+                  "name": "Great Mosque of Soran",
+                  "text": "Das größte islamische Gotteshaus und religiöses Zentrum der Stadt Soran.",
+                  "category": "landmark",
+                  "coords": [
+                        44.543765,
+                        36.65429
+                  ]
+            },
+            {
+                  "name": "Imam Shafhi Mosque",
+                  "text": "Eine der Schafiiten-Rechtsschule gewidmete Moschee in Soran.",
+                  "category": "landmark",
+                  "coords": [
+                        44.546338,
+                        36.658913
+                  ]
+            },
+            {
+                  "name": "Saed Nursi Mosque",
+                  "text": "Eine Moschee, die nach dem islamischen Gelehrten Said Nursi benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.54571,
+                        36.656343
+                  ]
+            },
+            {
+                  "name": "Kherkhwazan Mosque",
+                  "text": "Ein Ort des muslimischen Gebets für die Gemeinde Kherkhwazan.",
+                  "category": "landmark",
+                  "coords": [
+                        44.55534,
+                        36.65573
+                  ]
+            },
+            {
+                  "name": "Mala Mahmood Mosque",
+                  "text": "Eine nach Mala Mahmood benannte Moschee im Soran-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        44.556322,
+                        36.657844
+                  ]
+            },
+            {
+                  "name": "Abu-Bakr Mosque",
+                  "text": "Die Abu-Bakr-Moschee, ein markantes religiöses Gebäude in Soran.",
+                  "category": "landmark",
+                  "coords": [
+                        44.554124,
+                        36.665511
+                  ]
+            },
+            {
+                  "name": "Saruchawa Mosque",
+                  "text": "Eine Moschee in der Nähe der berühmten Saruchawa-Quellen.",
+                  "category": "landmark",
+                  "coords": [
+                        44.557807,
+                        36.665584
+                  ]
+            },
+            {
+                  "name": "Great Mosque of Dyana",
+                  "text": "Das zentrale islamische Gotteshaus im historischen Viertel von Dyana.",
+                  "category": "landmark",
+                  "coords": [
+                        44.546953,
+                        36.662554
+                  ]
+            },
+            {
+                  "name": "Kani Mosque",
+                  "text": "Diese muslimische Gebetsstätte liegt im malerischen Soran-Tal, umgeben von den zerklüfteten Gipfeln des Nordirak.",
+                  "category": "landmark",
+                  "coords": [
+                        44.547643,
+                        36.674171
+                  ]
+            },
+            {
+                  "name": "Haji Khdr Gardi Mosque",
+                  "text": "Diese Moschee im Soran-Tal zeichnet sich durch ihre Lage in der Nähe der zentralen Verkehrsader der Region aus.",
+                  "category": "landmark",
+                  "coords": [
+                        44.533586,
+                        36.67315
+                  ]
+            },
+            {
+                  "name": "Delzyan Brayati Mosque",
+                  "text": "Die Delzyan Brayati Moschee liegt am Fuße der Berge und ist ein markanter religiöser Orientierungspunkt im Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        44.534524,
+                        36.685565
+                  ]
+            },
+            {
+                  "name": "Mamosta Mala Abdulkarim Mudaris Mosque",
+                  "text": "Benannt nach einem berühmten Gelehrten, prägt diese Moschee mit ihrem Minarett das Stadtbild in der Soran-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        44.5602,
+                        36.658573
+                  ]
+            },
+            {
+                  "name": "Zozk mosque",
+                  "text": "Diese Moschee liegt im Schatten des imposanten Zozk-Berges und bietet Gläubigen im Soran-Tal einen Ort der Ruhe.",
+                  "category": "landmark",
+                  "coords": [
+                        44.561357,
+                        36.657115
+                  ]
+            },
+            {
+                  "name": "Pirabaw Mosque",
+                  "text": "Die Pirabaw-Moschee ist ein lokales Gebetshaus, das sich harmonisch in die ländliche Architektur des Soran-Tals einfügt.",
+                  "category": "landmark",
+                  "coords": [
+                        44.559243,
+                        36.654814
+                  ]
+            },
+            {
+                  "name": "Govand Mosque",
+                  "text": "Diese am Hang gelegene Moschee bietet einen weiten Blick über die grünen Reliefs des Soran-Tals.",
+                  "category": "landmark",
+                  "coords": [
+                        44.557512,
+                        36.649436
+                  ]
+            },
+            {
+                  "name": "Galala Mosque",
+                  "text": "Die Galala-Moschee liegt in der Nähe eines Gebirgsbachs und dient der lokalen muslimischen Gemeinde als religiöser Treffpunkt.",
+                  "category": "landmark",
+                  "coords": [
+                        44.540976,
+                        36.652044
+                  ]
+            },
+            {
+                  "name": "Haji Omar Abdullah Mosque",
+                  "text": "Diese nach einer prominenten Persönlichkeit benannte Moschee ist ein wichtiger Bestandteil des sozialen Lebens im Soran-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        44.542593,
+                        36.640125
+                  ]
+            },
+            {
+                  "name": "Chra Mosque",
+                  "text": "Die Chra-Moschee ist eine schlichte Gebetsstätte inmitten der rauen Gebirgslandschaft Nordiraks.",
+                  "category": "landmark",
+                  "coords": [
+                        44.546246,
+                        36.642306
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "BRADOSTI",
+                  "text": "Egy 2023-ban épült vagy felújított erődítmény a Szorán-völgyben.",
+                  "category": "castle",
+                  "coords": [
+                        44.536151,
+                        36.650857
+                  ]
+            },
+            {
+                  "name": "Bermasard Mosque",
+                  "text": "Helyi mecset Bermasard hegyi falujában, a Szorán-völgyben.",
+                  "category": "religious",
+                  "coords": [
+                        44.492315,
+                        36.669532
+                  ]
+            },
+            {
+                  "name": "Grd Khiwat Mosque",
+                  "text": "Muszlim imaház Szorán Grd Khiwat negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        44.489193,
+                        36.678067
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Egyszerű mecset a hívők számára a Szorán régióban.",
+                  "category": "religious",
+                  "coords": [
+                        44.49542,
+                        36.648326
+                  ]
+            },
+            {
+                  "name": "Teammart",
+                  "text": "Helyi piactér árucikkek kereskedelmére a Szorán-völgyben.",
+                  "category": "cultural",
+                  "coords": [
+                        44.533249,
+                        36.654126
+                  ]
+            },
+            {
+                  "name": "Pishangai Shusha",
+                  "text": "Nyüzsgő kereskedelmi helyszín helyi termékeknek Szoránban.",
+                  "category": "cultural",
+                  "coords": [
+                        44.543616,
+                        36.655314
+                  ]
+            },
+            {
+                  "name": "SHAHIN QADER",
+                  "text": "Helyi látnivaló Szorán festői völgyében.",
+                  "category": "landmark",
+                  "coords": [
+                        44.557569,
+                        36.666589
+                  ]
+            },
+            {
+                  "name": "Diana hall",
+                  "text": "Ismert rendezvényhelyszín és találkozópont Diana városrészében.",
+                  "category": "landmark",
+                  "coords": [
+                        44.547057,
+                        36.666653
+                  ]
+            },
+            {
+                  "name": "Saruchawa",
+                  "text": "Népszerű kirándulóhely, amely természetes édesvízi forrásairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        44.55674,
+                        36.670211
+                  ]
+            },
+            {
+                  "name": "Soran",
+                  "text": "A régió városi központja az észak-iraki hegyek közé ékelődve.",
+                  "category": "landmark",
+                  "coords": [
+                        44.543485,
+                        36.652376
+                  ]
+            },
+            {
+                  "name": "Soran Fire Station",
+                  "text": "Jellegzetes modern funkcionális épület Szorán városközpontjában.",
+                  "category": "landmark",
+                  "coords": [
+                        44.542648,
+                        36.646222
+                  ]
+            },
+            {
+                  "name": "Mzgawti garaki Barzan",
+                  "text": "Mecset Szorán városának hagyományos Barzan negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        44.537182,
+                        36.643327
+                  ]
+            },
+            {
+                  "name": "Haji Syamand Mosque",
+                  "text": "Iszlám imaház Szorán lakónegyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        44.469512,
+                        36.722159
+                  ]
+            },
+            {
+                  "name": "Harkian Mosque",
+                  "text": "Mecset a Szorán-völgyben, amely a helyi Harkian közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        44.501972,
+                        36.689715
+                  ]
+            },
+            {
+                  "name": "Ashti Mosque",
+                  "text": "Az Ashti-mecset, a nyugalom és az ima helye Szoránban.",
+                  "category": "landmark",
+                  "coords": [
+                        44.478612,
+                        36.706912
+                  ]
+            },
+            {
+                  "name": "Haji Mahmud Zandi Mosque",
+                  "text": "Vallási központ Szorán forgalmas városi területén.",
+                  "category": "landmark",
+                  "coords": [
+                        44.52653,
+                        36.655105
+                  ]
+            },
+            {
+                  "name": "Gailany Mosque",
+                  "text": "Mecset a Gailany negyedben, amely helyi vallási jelentőségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        44.526114,
+                        36.657432
+                  ]
+            },
+            {
+                  "name": "Madina Mosque",
+                  "text": "A Madina-mecset, a muszlimok központi találkozóhelye Szoránban.",
+                  "category": "landmark",
+                  "coords": [
+                        44.540051,
+                        36.663281
+                  ]
+            },
+            {
+                  "name": "Muzhda Mosque",
+                  "text": "Modern muszlim imaház a Szorán járás szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        44.535013,
+                        36.658181
+                  ]
+            },
+            {
+                  "name": "Bakhtyari Mosque",
+                  "text": "Mecset Szorán Bakhtyari negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        44.53481,
+                        36.65608
+                  ]
+            },
+            {
+                  "name": "Chami Rezan Mosque",
+                  "text": "Iszlám imaház a Chami Rezan terület közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        44.538288,
+                        36.655082
+                  ]
+            },
+            {
+                  "name": "Great Mosque of Soran",
+                  "text": "Szorán városának legnagyobb iszlám imaháza és vallási központja.",
+                  "category": "landmark",
+                  "coords": [
+                        44.543765,
+                        36.65429
+                  ]
+            },
+            {
+                  "name": "Imam Shafhi Mosque",
+                  "text": "A sáfiita jogi iskolának szentelt mecset Szoránban.",
+                  "category": "landmark",
+                  "coords": [
+                        44.546338,
+                        36.658913
+                  ]
+            },
+            {
+                  "name": "Saed Nursi Mosque",
+                  "text": "Szaid Nurszi iszlám tudósról elnevezett mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        44.54571,
+                        36.656343
+                  ]
+            },
+            {
+                  "name": "Kherkhwazan Mosque",
+                  "text": "Muszlim imaház a Kherkhwazan közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        44.55534,
+                        36.65573
+                  ]
+            },
+            {
+                  "name": "Mala Mahmood Mosque",
+                  "text": "Mala Mahmoodról elnevezett mecset a Szorán-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        44.556322,
+                        36.657844
+                  ]
+            },
+            {
+                  "name": "Abu-Bakr Mosque",
+                  "text": "Az Abu-Bakr-mecset, jellegzetes vallási épület Szoránban.",
+                  "category": "landmark",
+                  "coords": [
+                        44.554124,
+                        36.665511
+                  ]
+            },
+            {
+                  "name": "Saruchawa Mosque",
+                  "text": "Mecset a híres Saruchawa-források közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        44.557807,
+                        36.665584
+                  ]
+            },
+            {
+                  "name": "Great Mosque of Dyana",
+                  "text": "Központi iszlám imaház Dyana történelmi negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        44.546953,
+                        36.662554
+                  ]
+            },
+            {
+                  "name": "Kani Mosque",
+                  "text": "Ez a muszlim imaház a festői Szorán-völgyben található, Észak-Irak sziklás hegycsúcsai között.",
+                  "category": "landmark",
+                  "coords": [
+                        44.547643,
+                        36.674171
+                  ]
+            },
+            {
+                  "name": "Haji Khdr Gardi Mosque",
+                  "text": "Ez a Szorán-völgyben található mecset a régió központi útvonalának közelében fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        44.533586,
+                        36.67315
+                  ]
+            },
+            {
+                  "name": "Delzyan Brayati Mosque",
+                  "text": "A Delzyan Brayati mecset a hegyek lábánál fekszik, és a völgy egyik jellegzetes vallási tájékozódási pontja.",
+                  "category": "landmark",
+                  "coords": [
+                        44.534524,
+                        36.685565
+                  ]
+            },
+            {
+                  "name": "Mamosta Mala Abdulkarim Mudaris Mosque",
+                  "text": "Egy híres tudósról nevezték el ezt a mecsetet, amely minaretjével meghatározza a Szorán-régió látképét.",
+                  "category": "landmark",
+                  "coords": [
+                        44.5602,
+                        36.658573
+                  ]
+            },
+            {
+                  "name": "Zozk mosque",
+                  "text": "Ez a mecset az impozáns Zozk-hegy árnyékában fekszik, nyugalmat nyújtva a hívőknek a Szorán-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        44.561357,
+                        36.657115
+                  ]
+            },
+            {
+                  "name": "Pirabaw Mosque",
+                  "text": "A Pirabaw-mecset egy helyi imaház, amely harmonikusan illeszkedik a Szorán-völgy vidéki építészetéhez.",
+                  "category": "landmark",
+                  "coords": [
+                        44.559243,
+                        36.654814
+                  ]
+            },
+            {
+                  "name": "Govand Mosque",
+                  "text": "Ez a domboldalon fekvő mecset tágas kilátást nyújt a Szorán-völgy zöldellő lankáira.",
+                  "category": "landmark",
+                  "coords": [
+                        44.557512,
+                        36.649436
+                  ]
+            },
+            {
+                  "name": "Galala Mosque",
+                  "text": "A Galala-mecset egy hegyi patak közelében található, és a helyi muszlim közösség vallási találkozóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        44.540976,
+                        36.652044
+                  ]
+            },
+            {
+                  "name": "Haji Omar Abdullah Mosque",
+                  "text": "Ez a neves személyiségről elnevezett mecset a Szorán-völgy társadalmi életének fontos része.",
+                  "category": "landmark",
+                  "coords": [
+                        44.542593,
+                        36.640125
+                  ]
+            },
+            {
+                  "name": "Chra Mosque",
+                  "text": "A Chra-mecset egy egyszerű imaház Észak-Irak zord hegyvidéki tájai között.",
+                  "category": "landmark",
+                  "coords": [
+                        44.546246,
+                        36.642306
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "BRADOSTI",
+                  "text": "O fortificație construită sau restaurată în 2023 în valea Soran.",
+                  "category": "castle",
+                  "coords": [
+                        44.536151,
+                        36.650857
+                  ]
+            },
+            {
+                  "name": "Bermasard Mosque",
+                  "text": "O moschee locală în satul montan Bermasard din valea Soran.",
+                  "category": "religious",
+                  "coords": [
+                        44.492315,
+                        36.669532
+                  ]
+            },
+            {
+                  "name": "Grd Khiwat Mosque",
+                  "text": "Un lăcaș de cult musulman în cartierul Grd Khiwat din Soran.",
+                  "category": "religious",
+                  "coords": [
+                        44.489193,
+                        36.678067
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "O moschee simplă pentru credincioșii din regiunea Soran.",
+                  "category": "religious",
+                  "coords": [
+                        44.49542,
+                        36.648326
+                  ]
+            },
+            {
+                  "name": "Teammart",
+                  "text": "O piață locală pentru comerțul cu mărfuri în valea Soran.",
+                  "category": "cultural",
+                  "coords": [
+                        44.533249,
+                        36.654126
+                  ]
+            },
+            {
+                  "name": "Pishangai Shusha",
+                  "text": "Un loc comercial plin de viață pentru produse locale în Soran.",
+                  "category": "cultural",
+                  "coords": [
+                        44.543616,
+                        36.655314
+                  ]
+            },
+            {
+                  "name": "SHAHIN QADER",
+                  "text": "O atracție locală situată în valea pitorească a Soranului.",
+                  "category": "landmark",
+                  "coords": [
+                        44.557569,
+                        36.666589
+                  ]
+            },
+            {
+                  "name": "Diana hall",
+                  "text": "Un loc de evenimente și punct de întâlnire cunoscut în cartierul Diana.",
+                  "category": "landmark",
+                  "coords": [
+                        44.547057,
+                        36.666653
+                  ]
+            },
+            {
+                  "name": "Saruchawa",
+                  "text": "O destinație turistică populară cunoscută pentru izvoarele sale naturale de apă dulce.",
+                  "category": "landmark",
+                  "coords": [
+                        44.55674,
+                        36.670211
+                  ]
+            },
+            {
+                  "name": "Soran",
+                  "text": "Centrul urban al regiunii, situat între munții din nordul Irakului.",
+                  "category": "landmark",
+                  "coords": [
+                        44.543485,
+                        36.652376
+                  ]
+            },
+            {
+                  "name": "Soran Fire Station",
+                  "text": "O clădire funcțională modernă și distinctivă în centrul orașului Soran.",
+                  "category": "landmark",
+                  "coords": [
+                        44.542648,
+                        36.646222
+                  ]
+            },
+            {
+                  "name": "Mzgawti garaki Barzan",
+                  "text": "O moschee în cartierul tradițional Barzan din orașul Soran.",
+                  "category": "landmark",
+                  "coords": [
+                        44.537182,
+                        36.643327
+                  ]
+            },
+            {
+                  "name": "Haji Syamand Mosque",
+                  "text": "O casă de rugăciune islamică într-un cartier rezidențial din Soran.",
+                  "category": "landmark",
+                  "coords": [
+                        44.469512,
+                        36.722159
+                  ]
+            },
+            {
+                  "name": "Harkian Mosque",
+                  "text": "O moschee în valea Soran care deservește comunitatea locală Harkian.",
+                  "category": "landmark",
+                  "coords": [
+                        44.501972,
+                        36.689715
+                  ]
+            },
+            {
+                  "name": "Ashti Mosque",
+                  "text": "Moscheea Ashti, un loc de liniște și rugăciune în Soran.",
+                  "category": "landmark",
+                  "coords": [
+                        44.478612,
+                        36.706912
+                  ]
+            },
+            {
+                  "name": "Haji Mahmud Zandi Mosque",
+                  "text": "Un centru religios în zona urbană animată a Soranului.",
+                  "category": "landmark",
+                  "coords": [
+                        44.52653,
+                        36.655105
+                  ]
+            },
+            {
+                  "name": "Gailany Mosque",
+                  "text": "O moschee în cartierul Gailany, cunoscută pentru importanța sa religioasă locală.",
+                  "category": "landmark",
+                  "coords": [
+                        44.526114,
+                        36.657432
+                  ]
+            },
+            {
+                  "name": "Madina Mosque",
+                  "text": "Moscheea Madina, un punct central de întâlnire pentru musulmanii din Soran.",
+                  "category": "landmark",
+                  "coords": [
+                        44.540051,
+                        36.663281
+                  ]
+            },
+            {
+                  "name": "Muzhda Mosque",
+                  "text": "Un lăcaș de cult musulman modern în inima districtului Soran.",
+                  "category": "landmark",
+                  "coords": [
+                        44.535013,
+                        36.658181
+                  ]
+            },
+            {
+                  "name": "Bakhtyari Mosque",
+                  "text": "O moschee în cartierul Bakhtyari din Soran.",
+                  "category": "landmark",
+                  "coords": [
+                        44.53481,
+                        36.65608
+                  ]
+            },
+            {
+                  "name": "Chami Rezan Mosque",
+                  "text": "Un lăcaș de rugăciune islamic situat lângă zona Chami Rezan.",
+                  "category": "landmark",
+                  "coords": [
+                        44.538288,
+                        36.655082
+                  ]
+            },
+            {
+                  "name": "Great Mosque of Soran",
+                  "text": "Cel mai mare lăcaș de cult islamic și centru religios din orașul Soran.",
+                  "category": "landmark",
+                  "coords": [
+                        44.543765,
+                        36.65429
+                  ]
+            },
+            {
+                  "name": "Imam Shafhi Mosque",
+                  "text": "O moschee dedicată școlii juridice șafiite în Soran.",
+                  "category": "landmark",
+                  "coords": [
+                        44.546338,
+                        36.658913
+                  ]
+            },
+            {
+                  "name": "Saed Nursi Mosque",
+                  "text": "O moschee numită după învățatul islamic Said Nursi.",
+                  "category": "landmark",
+                  "coords": [
+                        44.54571,
+                        36.656343
+                  ]
+            },
+            {
+                  "name": "Kherkhwazan Mosque",
+                  "text": "Un loc de rugăciune musulman pentru comunitatea Kherkhwazan.",
+                  "category": "landmark",
+                  "coords": [
+                        44.55534,
+                        36.65573
+                  ]
+            },
+            {
+                  "name": "Mala Mahmood Mosque",
+                  "text": "O moschee numită după Mala Mahmood în valea Soran.",
+                  "category": "landmark",
+                  "coords": [
+                        44.556322,
+                        36.657844
+                  ]
+            },
+            {
+                  "name": "Abu-Bakr Mosque",
+                  "text": "Moscheea Abu-Bakr, o clădire religioasă proeminentă în Soran.",
+                  "category": "landmark",
+                  "coords": [
+                        44.554124,
+                        36.665511
+                  ]
+            },
+            {
+                  "name": "Saruchawa Mosque",
+                  "text": "O moschee situată în apropierea celebrelor izvoare Saruchawa.",
+                  "category": "landmark",
+                  "coords": [
+                        44.557807,
+                        36.665584
+                  ]
+            },
+            {
+                  "name": "Great Mosque of Dyana",
+                  "text": "Principalul lăcaș de cult islamic din cartierul istoric Dyana.",
+                  "category": "landmark",
+                  "coords": [
+                        44.546953,
+                        36.662554
+                  ]
+            },
+            {
+                  "name": "Kani Mosque",
+                  "text": "Această moschee este situată în pitoreasca vale Soran, fiind înconjurată de vârfurile muntoase din nordul Irakului.",
+                  "category": "landmark",
+                  "coords": [
+                        44.547643,
+                        36.674171
+                  ]
+            },
+            {
+                  "name": "Haji Khdr Gardi Mosque",
+                  "text": "Această moschee din valea Soran este situată în apropierea principalei rute de transport a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        44.533586,
+                        36.67315
+                  ]
+            },
+            {
+                  "name": "Delzyan Brayati Mosque",
+                  "text": "Moscheea Delzyan Brayati se află la poalele munților, fiind un reper religios distinctiv în vale.",
+                  "category": "landmark",
+                  "coords": [
+                        44.534524,
+                        36.685565
+                  ]
+            },
+            {
+                  "name": "Mamosta Mala Abdulkarim Mudaris Mosque",
+                  "text": "Numită după un savant celebru, această moschee își pune amprenta asupra peisajului urban din regiunea Soran prin minaretul său.",
+                  "category": "landmark",
+                  "coords": [
+                        44.5602,
+                        36.658573
+                  ]
+            },
+            {
+                  "name": "Zozk mosque",
+                  "text": "Această moschee se află la umbra impunătorului munte Zozk, oferind un loc de liniște credincioșilor din valea Soran.",
+                  "category": "landmark",
+                  "coords": [
+                        44.561357,
+                        36.657115
+                  ]
+            },
+            {
+                  "name": "Pirabaw Mosque",
+                  "text": "Moscheea Pirabaw este un lăcaș de cult local care se integrează armonios în arhitectura rurală a văii Soran.",
+                  "category": "landmark",
+                  "coords": [
+                        44.559243,
+                        36.654814
+                  ]
+            },
+            {
+                  "name": "Govand Mosque",
+                  "text": "Această moschee situată pe versant oferă o vedere largă asupra reliefurilor verzi ale văii Soran.",
+                  "category": "landmark",
+                  "coords": [
+                        44.557512,
+                        36.649436
+                  ]
+            },
+            {
+                  "name": "Galala Mosque",
+                  "text": "Moscheea Galala este situată lângă un pârâu de munte și servește ca punct de întâlnire religios pentru comunitatea musulmană locală.",
+                  "category": "landmark",
+                  "coords": [
+                        44.540976,
+                        36.652044
+                  ]
+            },
+            {
+                  "name": "Haji Omar Abdullah Mosque",
+                  "text": "Această moschee, numită după o personalitate proeminentă, este o parte importantă a vieții sociale din valea Soran.",
+                  "category": "landmark",
+                  "coords": [
+                        44.542593,
+                        36.640125
+                  ]
+            },
+            {
+                  "name": "Chra Mosque",
+                  "text": "Moscheea Chra este un lăcaș de cult simplu, situat în mijlocul peisajului montan aspru din nordul Irakului.",
+                  "category": "landmark",
+                  "coords": [
+                        44.546246,
+                        36.642306
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "BRADOSTI",
+                  "text": "A fortification built or restored in 2023 located in the Soran Valley.",
+                  "category": "castle",
+                  "coords": [
+                        44.536151,
+                        36.650857
+                  ]
+            },
+            {
+                  "name": "Bermasard Mosque",
+                  "text": "A local mosque in the mountain village of Bermasard in the Soran Valley.",
+                  "category": "religious",
+                  "coords": [
+                        44.492315,
+                        36.669532
+                  ]
+            },
+            {
+                  "name": "Grd Khiwat Mosque",
+                  "text": "A Muslim house of worship in the Grd Khiwat neighborhood of Soran.",
+                  "category": "religious",
+                  "coords": [
+                        44.489193,
+                        36.678067
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "A simple mosque serving the faithful in the Soran region.",
+                  "category": "religious",
+                  "coords": [
+                        44.49542,
+                        36.648326
+                  ]
+            },
+            {
+                  "name": "Teammart",
+                  "text": "A local marketplace for trading goods in the Soran Valley.",
+                  "category": "cultural",
+                  "coords": [
+                        44.533249,
+                        36.654126
+                  ]
+            },
+            {
+                  "name": "Pishangai Shusha",
+                  "text": "A bustling commercial spot for local products in Soran.",
+                  "category": "cultural",
+                  "coords": [
+                        44.543616,
+                        36.655314
+                  ]
+            },
+            {
+                  "name": "SHAHIN QADER",
+                  "text": "A local attraction situated in the scenic Soran Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        44.557569,
+                        36.666589
+                  ]
+            },
+            {
+                  "name": "Diana hall",
+                  "text": "A well-known event hall and gathering point in the Diana district.",
+                  "category": "landmark",
+                  "coords": [
+                        44.547057,
+                        36.666653
+                  ]
+            },
+            {
+                  "name": "Saruchawa",
+                  "text": "A popular tourist destination known for its natural freshwater springs.",
+                  "category": "landmark",
+                  "coords": [
+                        44.55674,
+                        36.670211
+                  ]
+            },
+            {
+                  "name": "Soran",
+                  "text": "The urban hub of the region, nestled among the northern Iraqi mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        44.543485,
+                        36.652376
+                  ]
+            },
+            {
+                  "name": "Soran Fire Station",
+                  "text": "A distinctive modern functional building in the Soran city center.",
+                  "category": "landmark",
+                  "coords": [
+                        44.542648,
+                        36.646222
+                  ]
+            },
+            {
+                  "name": "Mzgawti garaki Barzan",
+                  "text": "A mosque located in the traditional Barzan neighborhood of Soran city.",
+                  "category": "landmark",
+                  "coords": [
+                        44.537182,
+                        36.643327
+                  ]
+            },
+            {
+                  "name": "Haji Syamand Mosque",
+                  "text": "An Islamic prayer house located in a residential area of Soran.",
+                  "category": "landmark",
+                  "coords": [
+                        44.469512,
+                        36.722159
+                  ]
+            },
+            {
+                  "name": "Harkian Mosque",
+                  "text": "A mosque in the Soran Valley serving the local Harkian community.",
+                  "category": "landmark",
+                  "coords": [
+                        44.501972,
+                        36.689715
+                  ]
+            },
+            {
+                  "name": "Ashti Mosque",
+                  "text": "Ashti Mosque, a place of peace and prayer in Soran.",
+                  "category": "landmark",
+                  "coords": [
+                        44.478612,
+                        36.706912
+                  ]
+            },
+            {
+                  "name": "Haji Mahmud Zandi Mosque",
+                  "text": "A religious center located in the busy urban area of Soran.",
+                  "category": "landmark",
+                  "coords": [
+                        44.52653,
+                        36.655105
+                  ]
+            },
+            {
+                  "name": "Gailany Mosque",
+                  "text": "A mosque in the Gailany district, known for its local religious significance.",
+                  "category": "landmark",
+                  "coords": [
+                        44.526114,
+                        36.657432
+                  ]
+            },
+            {
+                  "name": "Madina Mosque",
+                  "text": "Madina Mosque, a central gathering point for Muslims in Soran.",
+                  "category": "landmark",
+                  "coords": [
+                        44.540051,
+                        36.663281
+                  ]
+            },
+            {
+                  "name": "Muzhda Mosque",
+                  "text": "A modern Muslim house of worship in the heart of the Soran district.",
+                  "category": "landmark",
+                  "coords": [
+                        44.535013,
+                        36.658181
+                  ]
+            },
+            {
+                  "name": "Bakhtyari Mosque",
+                  "text": "A mosque situated in the Bakhtyari neighborhood of Soran.",
+                  "category": "landmark",
+                  "coords": [
+                        44.53481,
+                        36.65608
+                  ]
+            },
+            {
+                  "name": "Chami Rezan Mosque",
+                  "text": "An Islamic prayer house located near the Chami Rezan area.",
+                  "category": "landmark",
+                  "coords": [
+                        44.538288,
+                        36.655082
+                  ]
+            },
+            {
+                  "name": "Great Mosque of Soran",
+                  "text": "The largest Islamic house of worship and religious center in Soran city.",
+                  "category": "landmark",
+                  "coords": [
+                        44.543765,
+                        36.65429
+                  ]
+            },
+            {
+                  "name": "Imam Shafhi Mosque",
+                  "text": "A mosque dedicated to the Shafi'i school of jurisprudence in Soran.",
+                  "category": "landmark",
+                  "coords": [
+                        44.546338,
+                        36.658913
+                  ]
+            },
+            {
+                  "name": "Saed Nursi Mosque",
+                  "text": "A mosque named after the Islamic scholar Said Nursi.",
+                  "category": "landmark",
+                  "coords": [
+                        44.54571,
+                        36.656343
+                  ]
+            },
+            {
+                  "name": "Kherkhwazan Mosque",
+                  "text": "A place of Muslim prayer for the Kherkhwazan community.",
+                  "category": "landmark",
+                  "coords": [
+                        44.55534,
+                        36.65573
+                  ]
+            },
+            {
+                  "name": "Mala Mahmood Mosque",
+                  "text": "A mosque named after Mala Mahmood in the Soran Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        44.556322,
+                        36.657844
+                  ]
+            },
+            {
+                  "name": "Abu-Bakr Mosque",
+                  "text": "Abu-Bakr Mosque, a prominent religious building in Soran.",
+                  "category": "landmark",
+                  "coords": [
+                        44.554124,
+                        36.665511
+                  ]
+            },
+            {
+                  "name": "Saruchawa Mosque",
+                  "text": "A mosque located near the famous Saruchawa springs.",
+                  "category": "landmark",
+                  "coords": [
+                        44.557807,
+                        36.665584
+                  ]
+            },
+            {
+                  "name": "Great Mosque of Dyana",
+                  "text": "The central Islamic house of worship in the historic Dyana neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        44.546953,
+                        36.662554
+                  ]
+            },
+            {
+                  "name": "Kani Mosque",
+                  "text": "This Muslim house of worship is located in the scenic Soran Valley, set against the rugged mountain peaks of northern Iraq.",
+                  "category": "landmark",
+                  "coords": [
+                        44.547643,
+                        36.674171
+                  ]
+            },
+            {
+                  "name": "Haji Khdr Gardi Mosque",
+                  "text": "This mosque in the Soran Valley is notable for its location near the region's central transport artery.",
+                  "category": "landmark",
+                  "coords": [
+                        44.533586,
+                        36.67315
+                  ]
+            },
+            {
+                  "name": "Delzyan Brayati Mosque",
+                  "text": "The Delzyan Brayati Mosque sits at the foot of the mountains, serving as a prominent religious landmark in the valley.",
+                  "category": "landmark",
+                  "coords": [
+                        44.534524,
+                        36.685565
+                  ]
+            },
+            {
+                  "name": "Mamosta Mala Abdulkarim Mudaris Mosque",
+                  "text": "Named after a famous scholar, this mosque defines the cityscape in the Soran region with its prominent minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        44.5602,
+                        36.658573
+                  ]
+            },
+            {
+                  "name": "Zozk mosque",
+                  "text": "Sited in the shadow of the imposing Zozk Mountain, this mosque provides a place of peace for worshippers in the Soran Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        44.561357,
+                        36.657115
+                  ]
+            },
+            {
+                  "name": "Pirabaw Mosque",
+                  "text": "The Pirabaw Mosque is a local house of worship that blends harmoniously with the rural architecture of the Soran Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        44.559243,
+                        36.654814
+                  ]
+            },
+            {
+                  "name": "Govand Mosque",
+                  "text": "Situated on a hillside, this mosque offers expansive views across the green reliefs of the Soran Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        44.557512,
+                        36.649436
+                  ]
+            },
+            {
+                  "name": "Galala Mosque",
+                  "text": "The Galala Mosque is located near a mountain stream and serves as a religious meeting point for the local Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        44.540976,
+                        36.652044
+                  ]
+            },
+            {
+                  "name": "Haji Omar Abdullah Mosque",
+                  "text": "Named after a prominent figure, this mosque is an important part of social and religious life in the Soran Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        44.542593,
+                        36.640125
+                  ]
+            },
+            {
+                  "name": "Chra Mosque",
+                  "text": "The Chra Mosque is a simple house of prayer set amidst the rugged mountain scenery of northern Iraq.",
+                  "category": "landmark",
+                  "coords": [
+                        44.546246,
+                        36.642306
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "IQ-AR",
     coords: [44.5300, 36.6500],

@@ -385,7 +385,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Zamek Czorsztyn",
-                  "text": "Ruinen einer gotischen Burg mit Blick auf den Stausee.",
+                  "text": "Mittelalterliche Burgruine Czorsztyn, heute Museum, oberhalb des Czorsztyn-Stausees gelegen.",
                   "category": "museum",
                   "coords": [
                         20.313264,
@@ -412,7 +412,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Miejsce dawnego dworu obronnego",
-                  "text": "Archäologische Stätte eines ehemaligen befestigten Adelssitzes.",
+                  "text": "Stätte eines ehemaligen Wehrhofs aus dem 16. Jahrhundert nahe der Burg Niedzica.",
                   "category": "historical",
                   "coords": [
                         20.270198,
@@ -421,7 +421,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Użytek ekologiczny",
-                  "text": "Ein geschütztes Naturgebiet in der Nähe der Burg Niedzica.",
+                  "text": "Ökologisches Schutzgebiet mit einzigartiger Flora und Fauna am Czorsztyn-See.",
                   "category": "natural",
                   "coords": [
                         20.307253,
@@ -439,7 +439,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Jacuzzi",
-                  "text": "Eine Whirlpool-Anlage bei der Burg Niedzica.",
+                  "text": "Außen-Whirlpool mit Blick auf die Burg Niedzica und den Czorsztyn-Stausee.",
                   "category": "recreational",
                   "coords": [
                         20.303001,
@@ -477,7 +477,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Zamek Czorsztyn",
-                  "text": "Egy gótikus vár romjai kilátással a víztározóra.",
+                  "text": "Czorsztyn középkori várrom, ma múzeum, a Czorsztyn-tározó fölé magasodva.",
                   "category": "museum",
                   "coords": [
                         20.313264,
@@ -504,7 +504,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Miejsce dawnego dworu obronnego",
-                  "text": "Egy egykori erődített nemesi kúria régészeti lelőhelye.",
+                  "text": "Egy 16. századi egykori védműves udvarház helye a Niedzicai vár közelében.",
                   "category": "historical",
                   "coords": [
                         20.270198,
@@ -513,7 +513,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Użytek ekologiczny",
-                  "text": "Védett természeti terület a Nedec-vár közelében.",
+                  "text": "Ökológiai rezervátum egyedi növény- és állatvilággal a Czorsztyn-tónál.",
                   "category": "natural",
                   "coords": [
                         20.307253,
@@ -531,7 +531,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Jacuzzi",
-                  "text": "Jacuzzi a Niedzica-vár közelében.",
+                  "text": "Kültéri pezsgőfürdő, ahonnan kilátás nyílik a Niedzicai várra és a Czorsztyn-tározóra.",
                   "category": "recreational",
                   "coords": [
                         20.303001,
@@ -569,7 +569,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Zamek Czorsztyn",
-                  "text": "Ruinele unui castel gotic cu vedere spre lacul de acumulare.",
+                  "text": "Ruinele medievale ale castelului Czorsztyn, acum muzeu, privind de sus lacul de acumulare Czorsztyn.",
                   "category": "museum",
                   "coords": [
                         20.313264,
@@ -596,7 +596,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Miejsce dawnego dworu obronnego",
-                  "text": "Sit arheologic al unui fost conac nobiliar fortificat.",
+                  "text": "Locul unui fost conac fortificat din secolul al XVI-lea lângă Castelul Niedzica.",
                   "category": "historical",
                   "coords": [
                         20.270198,
@@ -605,7 +605,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Użytek ekologiczny",
-                  "text": "O arie naturală protejată situată în apropierea castelului Niedzica.",
+                  "text": "Rezervație ecologică protejând flora și fauna unice lângă lacul Czorsztyn.",
                   "category": "natural",
                   "coords": [
                         20.307253,
@@ -623,7 +623,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Jacuzzi",
-                  "text": "O facilitate tip jacuzzi situată lângă Castelul Niedzica.",
+                  "text": "Jacuzzi în aer liber cu vedere spre Castelul Niedzica și lacul de acumulare Czorsztyn.",
                   "category": "recreational",
                   "coords": [
                         20.303001,
@@ -661,7 +661,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Zamek Czorsztyn",
-                  "text": "Ruins of a Gothic castle overlooking the reservoir.",
+                  "text": "Medieval castle ruins of Czorsztyn, now a museum, overlooking the artificial Lake Czorsztyn.",
                   "category": "museum",
                   "coords": [
                         20.313264,
@@ -688,7 +688,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Miejsce dawnego dworu obronnego",
-                  "text": "Archaeological site of a former fortified noble manor.",
+                  "text": "Site of a former 16th-century fortified manor house near Niedzica Castle.",
                   "category": "historical",
                   "coords": [
                         20.270198,
@@ -697,7 +697,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Użytek ekologiczny",
-                  "text": "A protected natural area located near Niedzica Castle.",
+                  "text": "Ecological reserve protecting unique flora and fauna near Lake Czorsztyn.",
                   "category": "natural",
                   "coords": [
                         20.307253,
@@ -715,7 +715,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Jacuzzi",
-                  "text": "A jacuzzi facility located near Niedzica Castle.",
+                  "text": "Outdoor jacuzzi with views of Niedzica Castle and the Czorsztyn reservoir.",
                   "category": "recreational",
                   "coords": [
                         20.303001,
@@ -781,7 +781,7 @@ export const polandLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Plaża miejska Chwaliszewo",
-                  "text": "Städtischer Strand Chwaliszewo in der Nähe des Rathauses von Poznan.",
+                  "text": "Stadtstrand Chwaliszewo an der Warta in Posen.",
                   "category": "recreational",
                   "coords": [
                         16.944766,
@@ -792,7 +792,7 @@ export const polandLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Plaża miejska Chwaliszewo",
-                  "text": "Chwaliszewo városi strand a poznańi városháza közelében.",
+                  "text": "Chwaliszewo városi strand a Warta folyón Poznańban.",
                   "category": "recreational",
                   "coords": [
                         16.944766,
@@ -803,7 +803,7 @@ export const polandLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Plaża miejska Chwaliszewo",
-                  "text": "Plaja urbană Chwaliszewo lângă primăria din Poznań.",
+                  "text": "Plaja urbană Chwaliszewo pe râul Warta din Poznań.",
                   "category": "recreational",
                   "coords": [
                         16.944766,
@@ -814,7 +814,7 @@ export const polandLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Plaża miejska Chwaliszewo",
-                  "text": "Chwaliszewo urban beach near Poznań Town Hall.",
+                  "text": "City beach Chwaliszewo on the Warta River in Poznań.",
                   "category": "recreational",
                   "coords": [
                         16.944766,
@@ -997,7 +997,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Park Kolejowy",
-                  "text": "Park mit Eisenbahnthemen in der Nähe der Burg Ogrodzieniec.",
+                  "text": "Eisenbahnpark in der Nähe der Burg Ogrodzieniec mit historischen Lokomotiven.",
                   "category": "park",
                   "coords": [
                         19.494024,
@@ -1089,7 +1089,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Park Kolejowy",
-                  "text": "Vasúti tematikájú park az ogrodzienieci vár közelében.",
+                  "text": "Vasúti tematikus park az Ogrodzienieci vár közelében, történelmi mozdonyokkal.",
                   "category": "park",
                   "coords": [
                         19.494024,
@@ -1181,7 +1181,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Park Kolejowy",
-                  "text": "Parc tematic feroviar lângă Castelul Ogrodzieniec.",
+                  "text": "Parcul feroviar lângă Castelul Ogrodzieniec, cu locomotive istorice.",
                   "category": "park",
                   "coords": [
                         19.494024,
@@ -1273,7 +1273,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Park Kolejowy",
-                  "text": "Railway-themed park located near Ogrodzieniec Castle.",
+                  "text": "Railway-themed park near Ogrodzieniec Castle featuring historic locomotives.",
                   "category": "park",
                   "coords": [
                         19.494024,
@@ -1339,7 +1339,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Neidburg",
-                  "text": "Eine neugotische Burgruine in der Nähe von Leśna.",
+                  "text": "Die Burg Rajsko ist eine Burgruine in der Nähe der Burg Czocha.",
                   "category": "castle",
                   "coords": [
                         15.332389,
@@ -1366,7 +1366,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Grodzisko Leśna",
-                  "text": "Eine archäologische Ausgrabungsstätte einer historischen Befestigung bei Leśna.",
+                  "text": "Eine frühmittelalterliche befestigte Siedlung nahe der Burg Czocha, denkmalgeschützt.",
                   "category": "historical",
                   "coords": [
                         15.275631,
@@ -1393,7 +1393,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Sosenka",
-                  "text": "Eine lokale Sehenswürdigkeit in der Nähe der Burg Tzschocha.",
+                  "text": "Wahrzeichen-Kiefer ('Sosenka') auf dem Gelände der Burg Czocha.",
                   "category": "landmark",
                   "coords": [
                         15.304976,
@@ -1402,7 +1402,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "LUKS Kwisa",
-                  "text": "Ein Schwimmbad in der Nähe der Burg Czocha.",
+                  "text": "Sportverein LUKS Kwisa mit Fußballplätzen an der Kwisa nahe Burg Czocha.",
                   "category": "recreational",
                   "coords": [
                         15.273208,
@@ -1422,7 +1422,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Zamek Rajsko",
-                  "text": "Neogótikus várrom Leśna közelében.",
+                  "text": "A Rajsko-vár egy várrom Czocha közelében.",
                   "category": "castle",
                   "coords": [
                         15.332389,
@@ -1449,7 +1449,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Grodzisko Leśna",
-                  "text": "Történelmi erődítmény régészeti lelőhelye Leśna közelében.",
+                  "text": "Egy kora középkori erődített település a Czocha-vár közelében, műemlék.",
                   "category": "historical",
                   "coords": [
                         15.275631,
@@ -1476,7 +1476,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Sosenka",
-                  "text": "Helyi látnivaló a Czocha-vár közelében.",
+                  "text": "Nevezetes fenyőfa ('Sosenka') a Czochai vár területén.",
                   "category": "landmark",
                   "coords": [
                         15.304976,
@@ -1485,7 +1485,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "LUKS Kwisa",
-                  "text": "Egy úszómedence a Czocha-vár közelében.",
+                  "text": "LUKS Kwisa sportegyesület, futballpályákkal a Kwisa folyó mentén a Czochai vár közelében.",
                   "category": "recreational",
                   "coords": [
                         15.273208,
@@ -1505,7 +1505,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Zamek Rajsko",
-                  "text": "O ruină de castel neogotic situată în apropiere de Leśna.",
+                  "text": "Castelul Rajsko este o ruină de castel lângă Castelul Czocha.",
                   "category": "castle",
                   "coords": [
                         15.332389,
@@ -1532,7 +1532,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Grodzisko Leśna",
-                  "text": "Un sit arheologic al unei fortificații istorice de lângă Leśna.",
+                  "text": "O așezare fortificată din Evul Mediu timpuriu lângă Castelul Czocha, monument protejat.",
                   "category": "historical",
                   "coords": [
                         15.275631,
@@ -1559,7 +1559,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Sosenka",
-                  "text": "O atracție locală situată în apropierea castelului Czocha.",
+                  "text": "Pinul emblematic ('Sosenka') pe terenul Castelului Czocha.",
                   "category": "landmark",
                   "coords": [
                         15.304976,
@@ -1568,7 +1568,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "LUKS Kwisa",
-                  "text": "O piscină situată în apropierea Castelului Czocha.",
+                  "text": "Clubul sportiv LUKS Kwisa, cu terenuri de fotbal de-a lungul râului Kwisa lângă Castelul Czocha.",
                   "category": "recreational",
                   "coords": [
                         15.273208,
@@ -1588,7 +1588,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Zamek Rajsko",
-                  "text": "A neo-Gothic castle ruin located near Leśna.",
+                  "text": "Rajsko Castle is a castle ruin near Czocha Castle.",
                   "category": "castle",
                   "coords": [
                         15.332389,
@@ -1615,7 +1615,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Grodzisko Leśna",
-                  "text": "An archaeological site of a historical fortification near Leśna.",
+                  "text": "An early medieval fortified settlement near Czocha Castle, heritage-listed.",
                   "category": "historical",
                   "coords": [
                         15.275631,
@@ -1642,7 +1642,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Sosenka",
-                  "text": "A local attraction situated near Czocha Castle.",
+                  "text": "Landmark pine tree ('Sosenka') on the grounds of Czocha Castle.",
                   "category": "landmark",
                   "coords": [
                         15.304976,
@@ -1651,7 +1651,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "LUKS Kwisa",
-                  "text": "A swimming pool located near Czocha Castle.",
+                  "text": "Sports club LUKS Kwisa offering football fields along the Kwisa River near Czocha Castle.",
                   "category": "recreational",
                   "coords": [
                         15.273208,
@@ -1708,7 +1708,7 @@ export const polandLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Zielona Zatoka",
-                  "text": "Strand Zielona Zatoka in der Nähe von Schloss Moszna.",
+                  "text": "Erholungsgebiet 'Zielona Zatoka' (Grüne Bucht) mit kleinem Strand am See der Burg Moszna.",
                   "category": "recreational",
                   "coords": [
                         17.736297,
@@ -1753,7 +1753,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Pałac rodziny von Thiele-Winckler",
-                  "text": "Ein historisches Schloss der Familie von Thiele-Winckler in Moszna.",
+                  "text": "Ein Palais der Familie von Thiele-Winckler, erbaut 1900 nahe Schloss Moszna.",
                   "category": "castle",
                   "coords": [
                         17.803025,
@@ -1782,7 +1782,7 @@ export const polandLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Zielona Zatoka",
-                  "text": "Zielona Zatoka strand a Moszna-kastély közelében.",
+                  "text": "'Zielona Zatoka' (Zöld-öböl) rekreációs terület kis stranddal a Mosznai vár tavánál.",
                   "category": "recreational",
                   "coords": [
                         17.736297,
@@ -1827,7 +1827,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Pałac rodziny von Thiele-Winckler",
-                  "text": "A von Thiele-Winckler család történelmi kastélya Mosznában.",
+                  "text": "A von Thiele-Winckler család palotája, 1900-ban épült a Moszna-kastély közelében.",
                   "category": "castle",
                   "coords": [
                         17.803025,
@@ -1856,7 +1856,7 @@ export const polandLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Zielona Zatoka",
-                  "text": "Plaja Zielona Zatoka lângă Castelul Moszna.",
+                  "text": "Zona de agrement 'Zielona Zatoka' (Golful Verde) cu o plajă mică pe lacul Castelului Moszna.",
                   "category": "recreational",
                   "coords": [
                         17.736297,
@@ -1901,7 +1901,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Pałac rodziny von Thiele-Winckler",
-                  "text": "Un castel istoric al familiei von Thiele-Winckler situat în Moszna.",
+                  "text": "Un palat al familiei von Thiele-Winckler, construit în 1900 lângă Castelul Moszna.",
                   "category": "castle",
                   "coords": [
                         17.803025,
@@ -1930,7 +1930,7 @@ export const polandLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Zielona Zatoka",
-                  "text": "Zielona Zatoka beach near Moszna Castle.",
+                  "text": "'Zielona Zatoka' (Green Bay) recreational area with a small beach on the Moszna Castle lake.",
                   "category": "recreational",
                   "coords": [
                         17.736297,
@@ -1975,7 +1975,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Pałac rodziny von Thiele-Winckler",
-                  "text": "A historic castle of the von Thiele-Winckler family located in Moszna.",
+                  "text": "A palace of the von Thiele-Winckler family, built in 1900 near Moszna Castle.",
                   "category": "castle",
                   "coords": [
                         17.803025,
@@ -3167,7 +3167,7 @@ export const polandLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Plaża strzeżona \"Stogi\"",
-                  "text": "Überwachter Strand Stogi nahe der Festung Weichselmünde.",
+                  "text": "Bewachter Strand Stogi an der Ostseeküste nahe der Weichselmündung und der Festung.",
                   "category": "recreational",
                   "coords": [
                         18.732204,
@@ -3176,7 +3176,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Plaża Stogi",
-                  "text": "Strand Stogi nahe der Festung Weichselmünde.",
+                  "text": "Stogi-Strand, ein breiter Sandstrand an der Danziger Bucht nahe der Weichselmündung.",
                   "category": "recreational",
                   "coords": [
                         18.735156,
@@ -3187,7 +3187,7 @@ export const polandLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Plaża strzeżona \"Stogi\"",
-                  "text": "Stogi őrzött strand a Vistulamouth Erőd közelében.",
+                  "text": "Őrzött Stogi strand a Balti-tenger partján, a Visztula torkolata és az erőd közelében.",
                   "category": "recreational",
                   "coords": [
                         18.732204,
@@ -3196,7 +3196,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Plaża Stogi",
-                  "text": "Stogi strand a Vistulamouth Erőd közelében.",
+                  "text": "Stogi strand, széles homokos tengerpart a Gdański-öbölnél, a Visztula torkolata közelében.",
                   "category": "recreational",
                   "coords": [
                         18.735156,
@@ -3207,7 +3207,7 @@ export const polandLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Plaża strzeżona \"Stogi\"",
-                  "text": "Plajă supravegheată Stogi lângă Cetatea Vistulamouth.",
+                  "text": "Plajă supravegheată Stogi pe coasta Mării Baltice, lângă gura de vărsare a Vistulei și fortăreață.",
                   "category": "recreational",
                   "coords": [
                         18.732204,
@@ -3216,7 +3216,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Plaża Stogi",
-                  "text": "Plaja Stogi lângă Fortăreața Vistulamouth.",
+                  "text": "Plaja Stogi, o plajă largă nisipoasă pe Golful Gdańsk, lângă gura Vistulei.",
                   "category": "recreational",
                   "coords": [
                         18.735156,
@@ -3227,7 +3227,7 @@ export const polandLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Plaża strzeżona \"Stogi\"",
-                  "text": "Lifeguarded beach Stogi near Vistulamouth Fortress.",
+                  "text": "Guarded Stogi beach on the Baltic coast near the Vistula estuary and the fortress.",
                   "category": "recreational",
                   "coords": [
                         18.732204,
@@ -3236,7 +3236,7 @@ export const polandLandmarksV2: POI[] = [
             },
             {
                   "name": "Plaża Stogi",
-                  "text": "Stogi beach located near the Vistulamouth Fortress.",
+                  "text": "Stogi beach, a wide sandy beach on the Gulf of Gdańsk near the Vistula mouth.",
                   "category": "recreational",
                   "coords": [
                         18.735156,
@@ -4340,7 +4340,7 @@ export const polandLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "100cznia Plaża",
-                  "text": "Strand 100cznia beim Solidarność-Zentrum.",
+                  "text": "Strand bei 100cznia, einem ehemaligen Werftgelände, jetzt Kulturraum an der Mottlau in Danzig.",
                   "category": "recreational",
                   "coords": [
                         18.645567,
@@ -4351,7 +4351,7 @@ export const polandLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "100cznia Plaża",
-                  "text": "100cznia strand a Szolidaritás Központ mellett.",
+                  "text": "Strand a 100cznia-nál, egy egykori hajógyár területén, ma kulturális tér a Motława folyón Gdańskban.",
                   "category": "recreational",
                   "coords": [
                         18.645567,
@@ -4362,7 +4362,7 @@ export const polandLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "100cznia Plaża",
-                  "text": "Plaja 100cznia lângă Centrul Solidarității.",
+                  "text": "Plajă la 100cznia, un fost spațiu de șantier naval, acum zonă culturală pe râul Motława în Gdańsk.",
                   "category": "recreational",
                   "coords": [
                         18.645567,
@@ -4373,7 +4373,7 @@ export const polandLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "100cznia Plaża",
-                  "text": "100cznia beach near the Solidarity Centre.",
+                  "text": "Beach at 100cznia, a post-shipyard cultural space on the Motława River in Gdańsk.",
                   "category": "recreational",
                   "coords": [
                         18.645567,

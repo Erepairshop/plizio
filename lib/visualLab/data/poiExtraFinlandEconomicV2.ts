@@ -7,7 +7,7 @@ export const finlandEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Syväjärven uimaranta",
-                  "text": "Syväjärven uimaranta ist ein Strand in der Nähe von Kirkkonummi.",
+                  "text": "Strand am tiefen Syväjärvi-See in Kirkkonummi.",
                   "category": "recreational",
                   "coords": [
                         24.423071,
@@ -43,7 +43,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Högbergetin ikimetsä",
-                  "text": "Ein geschütztes Urwaldgebiet in Kirkkonummi mit altem Baumbestand.",
+                  "text": "Altwald auf dem Högberget-Hügel mit uralten Bäumen.",
                   "category": "natural",
                   "coords": [
                         24.488712,
@@ -61,7 +61,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Vaipon luonnonsuojelualue",
-                  "text": "Ein lokales Naturschutzgebiet in Kirkkonummi.",
+                  "text": "Naturschutzgebiet mit vielfältigen Lebensräumen in Vaipo.",
                   "category": "natural",
                   "coords": [
                         24.373443,
@@ -90,7 +90,7 @@ export const finlandEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Syväjärven uimaranta",
-                  "text": "A Syväjärven uimaranta egy strand Kirkkonummi közelében.",
+                  "text": "Strand a mély Syväjärvi-tónál Kirkkonummiban.",
                   "category": "recreational",
                   "coords": [
                         24.423071,
@@ -126,7 +126,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Högbergetin ikimetsä",
-                  "text": "Kirkkonummi védett őserdője idős faállománnyal.",
+                  "text": "Őserdő a Högberget-dombon, évszázados fákkal.",
                   "category": "natural",
                   "coords": [
                         24.488712,
@@ -144,7 +144,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Vaipon luonnonsuojelualue",
-                  "text": "Helyi természetvédelmi terület Kirkkonummi területén.",
+                  "text": "Természetvédelmi terület változatos élőhelyekkel Vaipoban.",
                   "category": "natural",
                   "coords": [
                         24.373443,
@@ -173,7 +173,7 @@ export const finlandEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Syväjärven uimaranta",
-                  "text": "Syväjärven uimaranta este o plajă lângă Kirkkonummi.",
+                  "text": "Plajă pe lacul adânc Syväjärvi în Kirkkonummi.",
                   "category": "recreational",
                   "coords": [
                         24.423071,
@@ -209,7 +209,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Högbergetin ikimetsä",
-                  "text": "O zonă protejată de pădure virgină în Kirkkonummi, cu arbori seculari.",
+                  "text": "Pădure seculară pe dealul Högberget, cu arbori bătrâni.",
                   "category": "natural",
                   "coords": [
                         24.488712,
@@ -227,7 +227,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Vaipon luonnonsuojelualue",
-                  "text": "O rezervație naturală locală în Kirkkonummi.",
+                  "text": "Rezervație naturală cu habitate diverse în Vaipo.",
                   "category": "natural",
                   "coords": [
                         24.373443,
@@ -256,7 +256,7 @@ export const finlandEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Syväjärven uimaranta",
-                  "text": "Syväjärven uimaranta is a beach near Kirkkonummi.",
+                  "text": "Beach on the deep Lake Syväjärvi in Kirkkonummi.",
                   "category": "recreational",
                   "coords": [
                         24.423071,
@@ -292,7 +292,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Högbergetin ikimetsä",
-                  "text": "A protected old-growth forest area in Kirkkonummi.",
+                  "text": "Old-growth forest on Högberget hill, with ancient trees.",
                   "category": "natural",
                   "coords": [
                         24.488712,
@@ -310,7 +310,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Vaipon luonnonsuojelualue",
-                  "text": "A local nature reserve in Kirkkonummi.",
+                  "text": "Protected nature reserve with diverse habitats in Vaipo.",
                   "category": "natural",
                   "coords": [
                         24.373443,
@@ -781,7 +781,7 @@ export const finlandEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Sahalammen uimaranta",
-                  "text": "Sahalammen uimaranta ist ein Strand in der Nähe von Seinäjoki.",
+                  "text": "Strand an einem ehemaligen Sägewerksteich bei Seinäjoki.",
                   "category": "recreational",
                   "coords": [
                         22.838362,
@@ -790,7 +790,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Kyrkösjärven uimaranta",
-                  "text": "Kyrkösjärven uimaranta ist ein Strand in der Nähe von Seinäjoki.",
+                  "text": "Sandstrand am Kyrkösjärvi-See in Seinäjoki.",
                   "category": "recreational",
                   "coords": [
                         22.812871,
@@ -799,7 +799,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Törnävän uimaranta",
-                  "text": "Strand nahe des Zentrums von Seinäjoki.",
+                  "text": "Seeuferstrand im Stadtteil Törnävä von Seinäjoki.",
                   "category": "recreational",
                   "coords": [
                         22.83715,
@@ -808,7 +808,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Bullerin Uimaranta",
-                  "text": "Ein Strand in der Nähe des Lebensmittelzentrums von Seinäjoki.",
+                  "text": "Kleiner ruhiger Strand im Buller-Gebiet von Seinäjoki.",
                   "category": "recreational",
                   "coords": [
                         22.811445,
@@ -819,7 +819,7 @@ export const finlandEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Sahalammen uimaranta",
-                  "text": "A Sahalammen uimaranta egy strand Seinäjoki közelében.",
+                  "text": "Strand egy egykori fűrészmalom-tónál Seinäjoki közelében.",
                   "category": "recreational",
                   "coords": [
                         22.838362,
@@ -828,7 +828,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Kyrkösjärven uimaranta",
-                  "text": "A Kyrkösjärven uimaranta egy strand Seinäjoki közelében.",
+                  "text": "Homokos strand a Kyrkösjärvi-tónál Seinäjoessa.",
                   "category": "recreational",
                   "coords": [
                         22.812871,
@@ -837,7 +837,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Törnävän uimaranta",
-                  "text": "Strand Seinäjoki központjának közelében.",
+                  "text": "Tóparti strand Seinäjoki Törnävä negyedében.",
                   "category": "recreational",
                   "coords": [
                         22.83715,
@@ -846,7 +846,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Bullerin Uimaranta",
-                  "text": "Strand a Seinäjoki élelmiszerközpont közelében.",
+                  "text": "Kis csendes strand a Buller területen, Seinäjoessa.",
                   "category": "recreational",
                   "coords": [
                         22.811445,
@@ -857,7 +857,7 @@ export const finlandEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Sahalammen uimaranta",
-                  "text": "Sahalammen uimaranta este o plajă lângă Seinäjoki.",
+                  "text": "Plajă la un fost iaz de gatere lângă Seinäjoki.",
                   "category": "recreational",
                   "coords": [
                         22.838362,
@@ -866,7 +866,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Kyrkösjärven uimaranta",
-                  "text": "Kyrkösjärven uimaranta este o plajă lângă Seinäjoki.",
+                  "text": "Plajă nisipoasă pe lacul Kyrkösjärvi în Seinäjoki.",
                   "category": "recreational",
                   "coords": [
                         22.812871,
@@ -875,7 +875,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Törnävän uimaranta",
-                  "text": "Plajă aproape de centrul orașului Seinäjoki.",
+                  "text": "Plajă pe malul lacului în cartierul Törnävä din Seinäjoki.",
                   "category": "recreational",
                   "coords": [
                         22.83715,
@@ -884,7 +884,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Bullerin Uimaranta",
-                  "text": "O plajă lângă centrul alimentar din Seinäjoki.",
+                  "text": "Plajă mică și liniștită în zona Buller din Seinäjoki.",
                   "category": "recreational",
                   "coords": [
                         22.811445,
@@ -895,7 +895,7 @@ export const finlandEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Sahalammen uimaranta",
-                  "text": "Sahalammen uimaranta is a beach near Seinäjoki.",
+                  "text": "Beach on a former sawmill pond near Seinäjoki.",
                   "category": "recreational",
                   "coords": [
                         22.838362,
@@ -904,7 +904,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Kyrkösjärven uimaranta",
-                  "text": "Kyrkösjärven uimaranta is a beach near Seinäjoki.",
+                  "text": "Sandy beach on Lake Kyrkösjärvi in Seinäjoki.",
                   "category": "recreational",
                   "coords": [
                         22.812871,
@@ -913,7 +913,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Törnävän uimaranta",
-                  "text": "Beach near the center of Seinäjoki.",
+                  "text": "Lakeside beach in the Törnävä district of Seinäjoki.",
                   "category": "recreational",
                   "coords": [
                         22.83715,
@@ -922,7 +922,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Bullerin Uimaranta",
-                  "text": "A beach near the food hub in Seinäjoki.",
+                  "text": "Small quiet beach in the Buller area of Seinäjoki.",
                   "category": "recreational",
                   "coords": [
                         22.811445,
@@ -1006,7 +1006,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Pyhäluodon uimaranta",
-                  "text": "Ein öffentlicher Badestrand in der Gegend von Pyhäjoki.",
+                  "text": "Strand auf einer heiligen Insel in der Pyhäjoki-Mündung.",
                   "category": "recreational",
                   "coords": [
                         24.196828,
@@ -1062,7 +1062,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Pyhäluodon uimaranta",
-                  "text": "Nyilvános fürdőhely Pyhäjoki környékén.",
+                  "text": "Strand egy szent szigeten a Pyhäjoki torkolatánál.",
                   "category": "recreational",
                   "coords": [
                         24.196828,
@@ -1118,7 +1118,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Pyhäluodon uimaranta",
-                  "text": "O plajă publică pentru înot situată în zona Pyhäjoki.",
+                  "text": "Plajă pe o insulă sfântă în estuarul râului Pyhäjoki.",
                   "category": "recreational",
                   "coords": [
                         24.196828,
@@ -1174,7 +1174,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Pyhäluodon uimaranta",
-                  "text": "A public swimming beach located in the Pyhäjoki area.",
+                  "text": "Beach on a holy islet in the Pyhäjoki river estuary.",
                   "category": "recreational",
                   "coords": [
                         24.196828,
@@ -1249,7 +1249,7 @@ export const finlandEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Kultakoukku",
-                  "text": "Kultakoukku ist ein Strand in der Nähe von Harjavalta.",
+                  "text": "Beliebte Bade- und Angelstelle am Kokemäenjoki in Harjavalta.",
                   "category": "recreational",
                   "coords": [
                         22.156165,
@@ -1296,7 +1296,7 @@ export const finlandEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Kultakoukku",
-                  "text": "A Kultakoukku egy strand Harjavalta közelében.",
+                  "text": "Népszerű fürdő- és horgászhely a Kokemäenjoki partján, Harjavaltában.",
                   "category": "recreational",
                   "coords": [
                         22.156165,
@@ -1343,7 +1343,7 @@ export const finlandEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Kultakoukku",
-                  "text": "Kultakoukku este o plajă lângă Harjavalta.",
+                  "text": "Loc popular de înot și pescuit pe râul Kokemäenjoki în Harjavalta.",
                   "category": "recreational",
                   "coords": [
                         22.156165,
@@ -1390,7 +1390,7 @@ export const finlandEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Kultakoukku",
-                  "text": "Kultakoukku is a beach near Harjavalta.",
+                  "text": "Popular swimming and fishing spot on the Kokemäenjoki river.",
                   "category": "recreational",
                   "coords": [
                         22.156165,
@@ -1573,7 +1573,7 @@ export const finlandEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Kiikelin uimaranta",
-                  "text": "Kiikelin Strand liegt nahe dem Oulu Tech Hub.",
+                  "text": "Strand auf der Insel Kiikeli in Oulu.",
                   "category": "recreational",
                   "coords": [
                         25.458587,
@@ -1584,7 +1584,7 @@ export const finlandEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Kiikelin uimaranta",
-                  "text": "Kiikelin strandja az Oulu Tech Hub közelében fekszik.",
+                  "text": "Strand a Kiikeli-szigeten, Ouluban.",
                   "category": "recreational",
                   "coords": [
                         25.458587,
@@ -1595,7 +1595,7 @@ export const finlandEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Kiikelin uimaranta",
-                  "text": "Plaja Kiikelin este situată lângă Oulu Tech Hub.",
+                  "text": "Plajă pe insula Kiikeli în Oulu.",
                   "category": "recreational",
                   "coords": [
                         25.458587,
@@ -1606,7 +1606,7 @@ export const finlandEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Kiikelin uimaranta",
-                  "text": "Kiikelin beach is located near Oulu Tech Hub.",
+                  "text": "Beach on Kiikeli island in Oulu.",
                   "category": "recreational",
                   "coords": [
                         25.458587,
@@ -1663,7 +1663,7 @@ export const finlandEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Otanlahti",
-                  "text": "Strand bei der Werft in Rauma.",
+                  "text": "Sandbucht in der Nähe der Rauma-Werft.",
                   "category": "recreational",
                   "coords": [
                         21.473418,
@@ -1672,7 +1672,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Meriristin uimaranta",
-                  "text": "Meriristin uimaranta ist ein Strand nahe der Werft von Rauma.",
+                  "text": "Strand mit einem Kreuzdenkmal mit Blick auf das Meer.",
                   "category": "recreational",
                   "coords": [
                         21.463551,
@@ -1681,7 +1681,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Saharanta",
-                  "text": "Saharanta ist ein Strand nahe der Werft von Rauma.",
+                  "text": "Strand mit historischem Sägewerkserbe in Rauma.",
                   "category": "recreational",
                   "coords": [
                         21.472123,
@@ -1692,7 +1692,7 @@ export const finlandEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Otanlahti",
-                  "text": "Strand a raumai hajógyár közelében.",
+                  "text": "Homokos öböl a Rauma hajógyár közelében.",
                   "category": "recreational",
                   "coords": [
                         21.473418,
@@ -1701,7 +1701,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Meriristin uimaranta",
-                  "text": "Meriristin uimaranta egy strand a raumai hajógyár közelében.",
+                  "text": "Strand egy keresztemlékművel, tengerre néző kilátással.",
                   "category": "recreational",
                   "coords": [
                         21.463551,
@@ -1710,7 +1710,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Saharanta",
-                  "text": "Saharanta egy strand a raumai hajógyár közelében.",
+                  "text": "Történelmi fűrészmalom örökségével rendelkező strand Raumában.",
                   "category": "recreational",
                   "coords": [
                         21.472123,
@@ -1721,7 +1721,7 @@ export const finlandEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Otanlahti",
-                  "text": "Plajă în apropierea șantierului naval din Rauma.",
+                  "text": "Golf nisipos lângă șantierul naval Rauma.",
                   "category": "recreational",
                   "coords": [
                         21.473418,
@@ -1730,7 +1730,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Meriristin uimaranta",
-                  "text": "Meriristin uimaranta este o plajă situată lângă șantierul naval din Rauma.",
+                  "text": "Plajă cu un monument în formă de cruce cu vedere la mare.",
                   "category": "recreational",
                   "coords": [
                         21.463551,
@@ -1739,7 +1739,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Saharanta",
-                  "text": "Saharanta este o plajă situată lângă șantierul naval din Rauma.",
+                  "text": "Plajă cu moștenire industrială de gatere în Rauma.",
                   "category": "recreational",
                   "coords": [
                         21.472123,
@@ -1750,7 +1750,7 @@ export const finlandEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Otanlahti",
-                  "text": "Beach near the Rauma shipyard.",
+                  "text": "Sandy bay beach near the Rauma shipyard.",
                   "category": "recreational",
                   "coords": [
                         21.473418,
@@ -1759,7 +1759,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Meriristin uimaranta",
-                  "text": "Meriristin uimaranta is a beach near the Rauma Shipyard.",
+                  "text": "Beach with a cross monument overlooking the sea.",
                   "category": "recreational",
                   "coords": [
                         21.463551,
@@ -1768,7 +1768,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Saharanta",
-                  "text": "Saharanta is a beach near the Rauma Shipyard.",
+                  "text": "Beach with historical sawmill heritage in Rauma.",
                   "category": "recreational",
                   "coords": [
                         21.472123,
@@ -1870,7 +1870,7 @@ export const finlandEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Kaakkolammen uimaranta",
-                  "text": "Badestrand Kaakkolammen beim Technologiepark Jyväskylä.",
+                  "text": "Kleiner Teichstrand im Technologiegebiet von Jyväskylä.",
                   "category": "recreational",
                   "coords": [
                         25.820199,
@@ -1881,7 +1881,7 @@ export const finlandEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Kaakkolammen uimaranta",
-                  "text": "Kaakkolammen strand a Jyväskyläi technológiai gyár közelében.",
+                  "text": "Kis tóparti strand Jyväskylä technológiai negyedében.",
                   "category": "recreational",
                   "coords": [
                         25.820199,
@@ -1892,7 +1892,7 @@ export const finlandEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Kaakkolammen uimaranta",
-                  "text": "Plaja Kaakkolammen lângă parcul tehnologic Jyväskylä.",
+                  "text": "Plajă mică la un iaz în zona tehnologică Jyväskylä.",
                   "category": "recreational",
                   "coords": [
                         25.820199,
@@ -1903,7 +1903,7 @@ export const finlandEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Kaakkolammen uimaranta",
-                  "text": "Kaakkolammen beach near Jyväskylä Tech Factory.",
+                  "text": "Small pond beach near the Jyväskylä tech area.",
                   "category": "recreational",
                   "coords": [
                         25.820199,
@@ -2005,7 +2005,7 @@ export const finlandEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Teivaan sataman koiraranta",
-                  "text": "Teivaan sataman koiraranta ist ein Hundestrand in der Nähe des Lahti Cleantech Parks.",
+                  "text": "Ausgewiesener Hundestrand am Hafen Teivaa in Lahti.",
                   "category": "recreational",
                   "coords": [
                         25.635812,
@@ -2014,7 +2014,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Koiraranta",
-                  "text": "Koiraranta ist ein Bereich bei Lahti.",
+                  "text": "Separater Hundestrand in der Nähe von Lahti.",
                   "category": "recreational",
                   "coords": [
                         25.609832,
@@ -2041,7 +2041,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Kan­ko­lan vir­kis­tys­ran­ta",
-                  "text": "Erholungsstrand in Lahti.",
+                  "text": "Erholungsstrand mit Spielmöglichkeiten in Kankola, Lahti.",
                   "category": "recreational",
                   "coords": [
                         25.599044,
@@ -2052,7 +2052,7 @@ export const finlandEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Teivaan sataman koiraranta",
-                  "text": "A Teivaan sataman koiraranta egy kutyás strand a Lahti Cleantech Park közelében.",
+                  "text": "Kijelölt kutyás strand a Teivaa kikötőben, Lahdessa.",
                   "category": "recreational",
                   "coords": [
                         25.635812,
@@ -2061,7 +2061,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Koiraranta",
-                  "text": "Koiraranta egy terület Lahti közelében.",
+                  "text": "Külön kutyás strand Lahti közelében.",
                   "category": "recreational",
                   "coords": [
                         25.609832,
@@ -2088,7 +2088,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Kan­ko­lan vir­kis­tys­ran­ta",
-                  "text": "Pihenőstrand Lahtiban.",
+                  "text": "Pihenőstrand játszóeszközökkel Kankolában, Lahti közelében.",
                   "category": "recreational",
                   "coords": [
                         25.599044,
@@ -2099,7 +2099,7 @@ export const finlandEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Teivaan sataman koiraranta",
-                  "text": "Teivaan sataman koiraranta este o plajă pentru câini lângă Lahti Cleantech Park.",
+                  "text": "Plajă destinată câinilor în portul Teivaa din Lahti.",
                   "category": "recreational",
                   "coords": [
                         25.635812,
@@ -2108,7 +2108,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Koiraranta",
-                  "text": "Koiraranta este o zonă lângă Lahti.",
+                  "text": "Plajă separată pentru câini lângă Lahti.",
                   "category": "recreational",
                   "coords": [
                         25.609832,
@@ -2135,7 +2135,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Kan­ko­lan vir­kis­tys­ran­ta",
-                  "text": "Plajă de recreere în Lahti.",
+                  "text": "Plajă de agrement cu facilități de joacă în Kankola, Lahti.",
                   "category": "recreational",
                   "coords": [
                         25.599044,
@@ -2146,7 +2146,7 @@ export const finlandEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Teivaan sataman koiraranta",
-                  "text": "Teivaan sataman koiraranta is a dog beach near the Lahti Cleantech Park.",
+                  "text": "Designated dog beach at Teivaa harbour in Lahti.",
                   "category": "recreational",
                   "coords": [
                         25.635812,
@@ -2155,7 +2155,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Koiraranta",
-                  "text": "Koiraranta is an area near Lahti.",
+                  "text": "Separate dog beach area near Lahti.",
                   "category": "recreational",
                   "coords": [
                         25.609832,
@@ -2182,7 +2182,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Kan­ko­lan vir­kis­tys­ran­ta",
-                  "text": "Recreational beach in Lahti.",
+                  "text": "Recreational beach with play facilities in Kankola, Lahti.",
                   "category": "recreational",
                   "coords": [
                         25.599044,
@@ -2266,7 +2266,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Vehkalahden uimaranta",
-                  "text": "Vehkalahden uimaranta ist ein Strand nahe dem Joensuu Forstzentrum.",
+                  "text": "Ein Sandstrand am See Vehkasalo in Joensuu.",
                   "category": "recreational",
                   "coords": [
                         29.765411,
@@ -2275,7 +2275,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Koivuniemen uimaranta",
-                  "text": "Strand Koivuniemi in Joensuu.",
+                  "text": "Ein beliebter Badestrand am Koivuniemi in Joensuu.",
                   "category": "recreational",
                   "coords": [
                         29.780705,
@@ -2313,7 +2313,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Vehkalahden uimaranta",
-                  "text": "Vehkalahden uimaranta egy strand a Joensuu Erdészeti Központ közelében.",
+                  "text": "Homokos strand a Vehkasalo-tónál Joensuuban.",
                   "category": "recreational",
                   "coords": [
                         29.765411,
@@ -2322,7 +2322,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Koivuniemen uimaranta",
-                  "text": "Koivuniemi strand Joensuuban.",
+                  "text": "Népszerű fürdőstrand Koivuniemiben, Joensuuban.",
                   "category": "recreational",
                   "coords": [
                         29.780705,
@@ -2360,7 +2360,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Vehkalahden uimaranta",
-                  "text": "Vehkalahden uimaranta este o plajă lângă Centrul Forestier Joensuu.",
+                  "text": "O plajă nisipoasă pe lacul Vehkasalo din Joensuu.",
                   "category": "recreational",
                   "coords": [
                         29.765411,
@@ -2369,7 +2369,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Koivuniemen uimaranta",
-                  "text": "Plaja Koivuniemi din Joensuu.",
+                  "text": "O plajă populară pentru înot la Koivuniemi în Joensuu.",
                   "category": "recreational",
                   "coords": [
                         29.780705,
@@ -2407,7 +2407,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Vehkalahden uimaranta",
-                  "text": "Vehkalahden uimaranta is a beach near the Joensuu Forestry Center.",
+                  "text": "A sandy beach on Lake Vehkasalo in Joensuu.",
                   "category": "recreational",
                   "coords": [
                         29.765411,
@@ -2416,7 +2416,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Koivuniemen uimaranta",
-                  "text": "Koivuniemi beach in Joensuu.",
+                  "text": "A popular swimming beach at Koivuniemi in Joensuu.",
                   "category": "recreational",
                   "coords": [
                         29.780705,
@@ -2563,7 +2563,7 @@ export const finlandEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Isolahden uimaranta",
-                  "text": "Isolahden uimaranta liegt beim Energiezentrum Vaasa.",
+                  "text": "Strand an einer großen Bucht in Vaasa.",
                   "category": "recreational",
                   "coords": [
                         21.601487,
@@ -2572,7 +2572,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Viikingan uimaranta",
-                  "text": "Viikingan uimaranta ist ein Strand in der Nähe von Vaasa.",
+                  "text": "Wikinger-thematisierter Strandbereich in Vaasa.",
                   "category": "recreational",
                   "coords": [
                         21.595432,
@@ -2583,7 +2583,7 @@ export const finlandEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Isolahden uimaranta",
-                  "text": "Isolahden uimaranta a Vaasa Energia-központ közelében van.",
+                  "text": "Strand egy nagy öbölben, Vaasában.",
                   "category": "recreational",
                   "coords": [
                         21.601487,
@@ -2592,7 +2592,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Viikingan uimaranta",
-                  "text": "A Viikingan uimaranta egy strand Vaasa közelében.",
+                  "text": "Viking tematikájú strand Vaasában.",
                   "category": "recreational",
                   "coords": [
                         21.595432,
@@ -2603,7 +2603,7 @@ export const finlandEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Isolahden uimaranta",
-                  "text": "Isolahden uimaranta se află lângă hub-ul energetic Vaasa.",
+                  "text": "Plajă într-un golf mare în Vaasa.",
                   "category": "recreational",
                   "coords": [
                         21.601487,
@@ -2612,7 +2612,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Viikingan uimaranta",
-                  "text": "Viikingan uimaranta este o plajă lângă Vaasa.",
+                  "text": "Zonă de plajă cu tematică vikingă în Vaasa.",
                   "category": "recreational",
                   "coords": [
                         21.595432,
@@ -2623,7 +2623,7 @@ export const finlandEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Isolahden uimaranta",
-                  "text": "Isolahden uimaranta is near the Vaasa Energy Hub.",
+                  "text": "Beach on a large bay in Vaasa.",
                   "category": "recreational",
                   "coords": [
                         21.601487,
@@ -2632,7 +2632,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Viikingan uimaranta",
-                  "text": "Viikingan uimaranta is a beach near Vaasa.",
+                  "text": "Viking-themed beach area in Vaasa.",
                   "category": "recreational",
                   "coords": [
                         21.595432,
@@ -2689,7 +2689,7 @@ export const finlandEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Odilampi",
-                  "text": "Strand bei Odilampi, Vantaa.",
+                  "text": "Kleiner Teich zum Schwimmen im Logistikzentrum Vantaa.",
                   "category": "recreational",
                   "coords": [
                         24.769047,
@@ -2716,7 +2716,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Kivikautinen asuinpaikka",
-                  "text": "Eine archäologische Fundstätte einer steinzeitlichen Siedlung.",
+                  "text": "Steinzeitliche Siedlungsstätte mit erhaltenen Feuerstellen.",
                   "category": "historical",
                   "coords": [
                         24.860629,
@@ -2734,7 +2734,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Vaskivuoren kaivos",
-                  "text": "Eine historische Bergbaustätte und archäologisches Denkmal.",
+                  "text": "Altes Kupferbergwerk am Vaskivuori-Hügel in Vantaa.",
                   "category": "historical",
                   "coords": [
                         24.864979,
@@ -2743,7 +2743,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Myyrmäen kivikautinen punamultakalmisto",
-                  "text": "Ein prähistorischer Friedhof aus der Steinzeit, bekannt für Rötelfunde.",
+                  "text": "Eine steinzeitliche Grabstätte mit rotem Ocker in Myyrmäki, Vantaa.",
                   "category": "historical",
                   "coords": [
                         24.853287,
@@ -2752,7 +2752,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Lobby Myyrmäki",
-                  "text": "Ein lokaler Veranstaltungsort für Theater und Kultur in Myyrmäki.",
+                  "text": "Kulturraum für zeitgenössische Kunst und Events in einer ehemaligen Banklobby in Myyrmäki.",
                   "category": "cultural",
                   "coords": [
                         24.855404,
@@ -2779,7 +2779,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Iso allas",
-                  "text": "Ein großes öffentliches Schwimmbecken für Schwimmer aller Altersgruppen.",
+                  "text": "Freibadkomplex im Logistikzentrum Vantaa.",
                   "category": "recreational",
                   "coords": [
                         24.851141,
@@ -2790,7 +2790,7 @@ export const finlandEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Odilampi",
-                  "text": "Strand Odilampinál, Vantaa.",
+                  "text": "Kis tó úszásra a Vantaa logisztikai központban.",
                   "category": "recreational",
                   "coords": [
                         24.769047,
@@ -2817,7 +2817,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Kivikautinen asuinpaikka",
-                  "text": "Egy kőkorszaki település régészeti lelőhelye.",
+                  "text": "Kőkori telephely megőrzött tűzhelyekkel.",
                   "category": "historical",
                   "coords": [
                         24.860629,
@@ -2835,7 +2835,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Vaskivuoren kaivos",
-                  "text": "Történelmi bányászati helyszín és régészeti emlék.",
+                  "text": "Régi rézbánya a Vaskivuori-dombon, Vantaalla.",
                   "category": "historical",
                   "coords": [
                         24.864979,
@@ -2844,7 +2844,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Myyrmäen kivikautinen punamultakalmisto",
-                  "text": "Kőkorszaki őskori temető, amely vörös okkeres leleteiről ismert.",
+                  "text": "Kőkori temetkezési hely vörös okkerrel Myyrmäki, Vantaa.",
                   "category": "historical",
                   "coords": [
                         24.853287,
@@ -2853,7 +2853,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Lobby Myyrmäki",
-                  "text": "Helyi színházi és kulturális helyszín Myyrmäkiben.",
+                  "text": "Kortárs művészeti és rendezvénytér egy egykori bank előcsarnokában Myyrmäkiben.",
                   "category": "cultural",
                   "coords": [
                         24.855404,
@@ -2880,7 +2880,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Iso allas",
-                  "text": "Nagy nyilvános úszómedence minden korosztály számára.",
+                  "text": "Szabadtéri uszodakomplexum a Vantaa logisztikai központban.",
                   "category": "recreational",
                   "coords": [
                         24.851141,
@@ -2891,7 +2891,7 @@ export const finlandEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Odilampi",
-                  "text": "Plajă lângă Odilampi, Vantaa.",
+                  "text": "Un mic iaz pentru înot în centrul logistic Vantaa.",
                   "category": "recreational",
                   "coords": [
                         24.769047,
@@ -2918,7 +2918,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Kivikautinen asuinpaikka",
-                  "text": "Un sit arheologic al unei așezări din epoca pietrei.",
+                  "text": "Așezare din epoca de piatră cu vetre de foc conservate.",
                   "category": "historical",
                   "coords": [
                         24.860629,
@@ -2936,7 +2936,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Vaskivuoren kaivos",
-                  "text": "Un sit minier istoric și monument arheologic.",
+                  "text": "Veche mină de cupru pe dealul Vaskivuori în Vantaa.",
                   "category": "historical",
                   "coords": [
                         24.864979,
@@ -2945,7 +2945,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Myyrmäen kivikautinen punamultakalmisto",
-                  "text": "Un cimitir preistoric din epoca pietrei, cunoscut pentru descoperirile de ocru roșu.",
+                  "text": "Un sit de înmormântare din epoca de piatră cu ocru roșu în Myyrmäki, Vantaa.",
                   "category": "historical",
                   "coords": [
                         24.853287,
@@ -2954,7 +2954,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Lobby Myyrmäki",
-                  "text": "O locație locală pentru teatru și cultură în Myyrmäki.",
+                  "text": "Spațiu cultural pentru artă contemporană și evenimente într-un fost lobby bancar în Myyrmäki.",
                   "category": "cultural",
                   "coords": [
                         24.855404,
@@ -2981,7 +2981,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Iso allas",
-                  "text": "O piscină publică mare pentru înotători de toate vârstele.",
+                  "text": "Complex de înot în aer liber în centrul logistic Vantaa.",
                   "category": "recreational",
                   "coords": [
                         24.851141,
@@ -2992,7 +2992,7 @@ export const finlandEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Odilampi",
-                  "text": "Beach near Odilampi, Vantaa.",
+                  "text": "Small pond used for swimming in Vantaa Logistics Hub.",
                   "category": "recreational",
                   "coords": [
                         24.769047,
@@ -3019,7 +3019,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Kivikautinen asuinpaikka",
-                  "text": "An archaeological site of a Stone Age settlement.",
+                  "text": "Stone Age dwelling site with preserved hearth remains.",
                   "category": "historical",
                   "coords": [
                         24.860629,
@@ -3037,7 +3037,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Vaskivuoren kaivos",
-                  "text": "A historic mining site and archaeological monument.",
+                  "text": "Old copper mine on Vaskivuori hill in Vantaa.",
                   "category": "historical",
                   "coords": [
                         24.864979,
@@ -3046,7 +3046,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Myyrmäki's stone age red ochre cemetery",
-                  "text": "A prehistoric cemetery from the Stone Age, known for red ochre finds.",
+                  "text": "A Stone Age burial site with red ochre in Myyrmäki, Vantaa.",
                   "category": "historical",
                   "coords": [
                         24.853287,
@@ -3055,7 +3055,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Lobby Myyrmäki",
-                  "text": "A local venue for theatre and culture in Myyrmäki.",
+                  "text": "Contemporary art and event space in a former bank lobby in Myyrmäki.",
                   "category": "cultural",
                   "coords": [
                         24.855404,
@@ -3082,7 +3082,7 @@ export const finlandEconomicV2: POI[] = [
             },
             {
                   "name": "Iso allas",
-                  "text": "A large public swimming pool for swimmers of all ages.",
+                  "text": "Outdoor swimming pool complex in Vantaa Logistics Hub.",
                   "category": "recreational",
                   "coords": [
                         24.851141,

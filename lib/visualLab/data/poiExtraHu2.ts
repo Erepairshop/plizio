@@ -228,7 +228,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Nagypalli Pince-Galéria",
-                  "text": "Ein Museum und eine Galerie in Zengő.",
+                  "text": "Weinkeller-Galerie in Zengő, die lokale Kunst und Weine präsentiert.",
                   "category": "museum",
                   "coords": [
                         18.451,
@@ -246,7 +246,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "RepZOOtic Animal Center",
-                  "text": "Ein Tierzentrum und Zoo in Zengő.",
+                  "text": "Tierzentrum mit Reptilien und exotischen Arten in Zengő.",
                   "category": "recreational",
                   "coords": [
                         18.509723,
@@ -275,7 +275,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Nagypalli Pince-Galéria",
-                  "text": "Múzeum és galéria Zengő településen.",
+                  "text": "Nagypalli Pince-Galéria Zengőn, helyi művészetet és borokat bemutatva.",
                   "category": "museum",
                   "coords": [
                         18.451,
@@ -293,7 +293,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "RepZOOtic Animal Center",
-                  "text": "Állatkert és állatbemutató központ Zengőn.",
+                  "text": "RepZOOtic Állatközpont Zengőn, hüllőkkel és egzotikus fajokkal.",
                   "category": "recreational",
                   "coords": [
                         18.509723,
@@ -322,7 +322,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Nagypalli Pince-Galéria",
-                  "text": "Un muzeu și o galerie situate în Zengő.",
+                  "text": "Galerie în pivniță de vinuri în Zengő, care expune artă locală și vinuri.",
                   "category": "museum",
                   "coords": [
                         18.451,
@@ -340,7 +340,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "RepZOOtic Animal Center",
-                  "text": "Un centru de animale și grădină zoologică în Zengő.",
+                  "text": "Centru animalier cu reptile și specii exotice în Zengő.",
                   "category": "recreational",
                   "coords": [
                         18.509723,
@@ -369,7 +369,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Nagypalli Pince-Galéria",
-                  "text": "A museum and gallery located in Zengő.",
+                  "text": "Wine cellar gallery in Zengő displaying local art and wines.",
                   "category": "museum",
                   "coords": [
                         18.451,
@@ -387,7 +387,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "RepZOOtic Animal Center",
-                  "text": "An animal center and zoo located in Zengő.",
+                  "text": "Animal center with reptiles and exotic species in Zengő.",
                   "category": "recreational",
                   "coords": [
                         18.509723,
@@ -1833,7 +1833,7 @@ export const poiExtraHu2: POI[] = [
       "de": [
             {
                   "name": "Vadaskert",
-                  "text": "Vadaskert ist ein Zoo am Fluss Sarviz.",
+                  "text": "Wildpark mit Hirschen entlang des Sárvíz-Flusses.",
                   "category": "recreational",
                   "coords": [
                         18.472644,
@@ -1842,7 +1842,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Templom- Múzeum",
-                  "text": "Templom- Múzeum ist ein Museum am Fluss Sarviz.",
+                  "text": "Museum in einer ehemaligen Kirche untergebracht.",
                   "category": "museum",
                   "coords": [
                         18.523255,
@@ -1851,7 +1851,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Bissingen–Zichy-kúria",
-                  "text": "Die Bissingen–Zichy-kúria ist ein Schloss am Fluss Sarviz.",
+                  "text": "Barockes Herrenhaus der Familie Bissingen–Zichy am Sárvíz.",
                   "category": "castle",
                   "coords": [
                         18.529229,
@@ -1860,7 +1860,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Zichy-kastély Soponya",
-                  "text": "Zichy-kastély Soponya ist ein Schloss am Fluss Sarviz.",
+                  "text": "Neoklassizistisches Schloss Zichy in Soponya nahe der Sárvíz.",
                   "category": "castle",
                   "coords": [
                         18.460764,
@@ -1869,7 +1869,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Szégyenkő",
-                  "text": "Szégyenkő ist eine lokale Attraktion am Fluss Sarviz.",
+                  "text": "Historischer 'Schandstein', der für öffentliche Demütigungen genutzt wurde.",
                   "category": "landmark",
                   "coords": [
                         18.52062,
@@ -1878,7 +1878,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "medence (romos)",
-                  "text": "Diese Ruinen befinden sich am Fluss Sarviz.",
+                  "text": "Ruinen eines alten Beckens oder Brunnens.",
                   "category": "historical",
                   "coords": [
                         18.454447,
@@ -1889,7 +1889,7 @@ export const poiExtraHu2: POI[] = [
       "hu": [
             {
                   "name": "Vadaskert",
-                  "text": "A Vadaskert egy állatkert a Sárvíz folyó mentén.",
+                  "text": "Vadaskert a Sárvíz folyó mentén, szarvasokkal.",
                   "category": "recreational",
                   "coords": [
                         18.472644,
@@ -1898,7 +1898,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Templom- Múzeum",
-                  "text": "A Templom- Múzeum egy múzeum a Sárvíz folyó mentén.",
+                  "text": "Templom-Múzeum, egy volt templom épületében.",
                   "category": "museum",
                   "coords": [
                         18.523255,
@@ -1907,7 +1907,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Bissingen–Zichy-kúria",
-                  "text": "A Bissingen–Zichy-kúria egy kastély a Sárvíz folyó mentén.",
+                  "text": "A Bissingen–Zichy család barokk kúriája a Sárvíznél.",
                   "category": "castle",
                   "coords": [
                         18.529229,
@@ -1916,7 +1916,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Zichy-kastély Soponya",
-                  "text": "A soponyai Zichy-kastély egy történelmi épület a Sárvíz folyó közelében.",
+                  "text": "Zichy-kastély Soponyán, egy neoklasszicista kastély a Sárvíz közelében.",
                   "category": "castle",
                   "coords": [
                         18.460764,
@@ -1925,7 +1925,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Szégyenkő",
-                  "text": "A Szégyenkő egy helyi látványosság a Sárvíz folyó mentén.",
+                  "text": "Történelmi szégyenkő, amelyet nyilvános megalázásokra használtak.",
                   "category": "landmark",
                   "coords": [
                         18.52062,
@@ -1934,7 +1934,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "medence (romos)",
-                  "text": "Ezek a romok a Sárvíz folyó mentén találhatók.",
+                  "text": "Egy régi medence vagy kút romjai.",
                   "category": "historical",
                   "coords": [
                         18.454447,
@@ -1945,7 +1945,7 @@ export const poiExtraHu2: POI[] = [
       "ro": [
             {
                   "name": "Vadaskert",
-                  "text": "Vadaskert este o grădină zoologică situată lângă râul Sarviz.",
+                  "text": "Parcul cu vânat de-a lungul râului Sárvíz, cu cerbi.",
                   "category": "recreational",
                   "coords": [
                         18.472644,
@@ -1954,7 +1954,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Templom- Múzeum",
-                  "text": "Templom- Múzeum este un muzeu situat lângă râul Sarviz.",
+                  "text": "Muzeu găzduit într-o fostă biserică.",
                   "category": "museum",
                   "coords": [
                         18.523255,
@@ -1963,7 +1963,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Bissingen–Zichy-kúria",
-                  "text": "Bissingen–Zichy-kúria este un conac situat lângă râul Sarviz.",
+                  "text": "Conacul baroc al familiei Bissingen–Zichy lângă râul Sárvíz.",
                   "category": "castle",
                   "coords": [
                         18.529229,
@@ -1972,7 +1972,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Zichy-kastély Soponya",
-                  "text": "Zichy-kastély Soponya este un castel situat lângă râul Sarviz.",
+                  "text": "Castelul Zichy din Soponya, un conac neoclasic lângă râul Sárvíz.",
                   "category": "castle",
                   "coords": [
                         18.460764,
@@ -1981,7 +1981,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Szégyenkő",
-                  "text": "Szégyenkő este o atracție locală lângă râul Sarviz.",
+                  "text": "Piatra rușinii istorică, folosită pentru umiliri publice.",
                   "category": "landmark",
                   "coords": [
                         18.52062,
@@ -1990,7 +1990,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "medence (romos)",
-                  "text": "Aceste ruine sunt situate lângă râul Sarviz.",
+                  "text": "Ruinele unui bazin sau fântână vechi.",
                   "category": "historical",
                   "coords": [
                         18.454447,
@@ -2001,7 +2001,7 @@ export const poiExtraHu2: POI[] = [
       "en": [
             {
                   "name": "Vadaskert",
-                  "text": "Vadaskert is a zoo located near the Sarviz River.",
+                  "text": "Deer park along the Sárvíz River.",
                   "category": "recreational",
                   "coords": [
                         18.472644,
@@ -2010,7 +2010,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Templom- Múzeum",
-                  "text": "Templom- Múzeum is a museum located near the Sarviz River.",
+                  "text": "Museum housed in a former church.",
                   "category": "museum",
                   "coords": [
                         18.523255,
@@ -2019,7 +2019,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Bissingen–Zichy-kúria",
-                  "text": "Bissingen–Zichy-kúria is a castle located near the Sarviz River.",
+                  "text": "Baroque manor house of the Bissingen–Zichy family by the Sárvíz River.",
                   "category": "castle",
                   "coords": [
                         18.529229,
@@ -2028,7 +2028,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Zichy-kastély Soponya",
-                  "text": "Zichy-kastély Soponya is a castle located near the Sarviz River.",
+                  "text": "Neoclassical Zichy Castle in Soponya near the Sárvíz River.",
                   "category": "castle",
                   "coords": [
                         18.460764,
@@ -2037,7 +2037,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Szégyenkő",
-                  "text": "Szégyenkő is a local attraction located near the Sarviz River.",
+                  "text": "Historical shame stone used for public humiliation.",
                   "category": "landmark",
                   "coords": [
                         18.52062,
@@ -2046,7 +2046,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "medence (romos)",
-                  "text": "These ruins are located near the Sarviz River.",
+                  "text": "Ruins of an old pool or basin.",
                   "category": "historical",
                   "coords": [
                         18.454447,
@@ -4474,7 +4474,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Jánossy-kastély",
-                  "text": "Schloss im Cserhát-Gebirge.",
+                  "text": "Schloss Jánossy-kastély im Cserhát-Wald.",
                   "category": "castle",
                   "coords": [
                         19.422819,
@@ -4483,7 +4483,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Istállógaléria, Akol színház",
-                  "text": "Museum und Theater in der Region Cserhát.",
+                  "text": "Museum und Theater in ehemaligen Ställen und einem Schafstall im Cserhát-Wald.",
                   "category": "museum",
                   "coords": [
                         19.438683,
@@ -4492,7 +4492,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Tájház",
-                  "text": "Lokales Heimatmuseum im Cserhát.",
+                  "text": "Bauernhausmuseum, das das ländliche Leben im Cserhát-Wald zeigt.",
                   "category": "museum",
                   "coords": [
                         19.441571,
@@ -4501,7 +4501,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Hunnia Csipkemúzeum",
-                  "text": "Spitzenmuseum im Cserhát.",
+                  "text": "Spitzenmuseum mit traditioneller ungarischer Klöppelspitze.",
                   "category": "museum",
                   "coords": [
                         19.438911,
@@ -4510,7 +4510,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Palócok Vigyázó Nagykeresztje",
-                  "text": "Wegkreuz in der Region Cserhát.",
+                  "text": "Großes Holzkreuz, errichtet von der Palóc-Gemeinschaft im Cserhát-Wald.",
                   "category": "landmark",
                   "coords": [
                         19.481892,
@@ -4530,7 +4530,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Jánossy-kastély",
-                  "text": "Kastély a Cserhátban.",
+                  "text": "Jánossy-kastély a Cserhát-erdőben.",
                   "category": "castle",
                   "coords": [
                         19.422819,
@@ -4539,7 +4539,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Istállógaléria, Akol színház",
-                  "text": "Múzeum és színház a Cserhát térségében.",
+                  "text": "Istállógaléria és Akol színház, egykori istállókban és juhakolban a Cserhát-erdőben.",
                   "category": "museum",
                   "coords": [
                         19.438683,
@@ -4548,7 +4548,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Tájház",
-                  "text": "Helyi néprajzi gyűjtemény a Cserhátban.",
+                  "text": "Tájház a Cserhát-erdőben, a vidéki élet bemutatásával.",
                   "category": "museum",
                   "coords": [
                         19.441571,
@@ -4557,7 +4557,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Hunnia Csipkemúzeum",
-                  "text": "Csipkekészítést bemutató múzeum a Cserhátban.",
+                  "text": "Hunnia Csipkemúzeum, hagyományos magyar csipkét bemutatva.",
                   "category": "museum",
                   "coords": [
                         19.438911,
@@ -4566,7 +4566,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Palócok Vigyázó Nagykeresztje",
-                  "text": "Útszéli kereszt a Cserhátban.",
+                  "text": "Palócok Vigyázó Nagykeresztje, a palóc közösség által állított fakereszt a Cserhát-erdőben.",
                   "category": "landmark",
                   "coords": [
                         19.481892,
@@ -4586,7 +4586,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Jánossy-kastély",
-                  "text": "Castel în Munții Cserhát.",
+                  "text": "Castelul Jánossy-kastély în pădurea Cserhát.",
                   "category": "castle",
                   "coords": [
                         19.422819,
@@ -4595,7 +4595,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Istállógaléria, Akol színház",
-                  "text": "Muzeu și teatru în regiunea Cserhát.",
+                  "text": "Muzeu și teatru în foste grajduri și o stână în pădurea Cserhát.",
                   "category": "museum",
                   "coords": [
                         19.438683,
@@ -4604,7 +4604,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Tájház",
-                  "text": "Muzeu de etnografie locală în Cserhát.",
+                  "text": "Muzeu al casei țărănești în pădurea Cserhát, ilustrând viața rurală.",
                   "category": "museum",
                   "coords": [
                         19.441571,
@@ -4613,7 +4613,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Hunnia Csipkemúzeum",
-                  "text": "Muzeu al dantelăriei în Cserhát.",
+                  "text": "Muzeul de dantelă Hunnia, cu dantelă tradițională maghiară.",
                   "category": "museum",
                   "coords": [
                         19.438911,
@@ -4622,7 +4622,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Palócok Vigyázó Nagykeresztje",
-                  "text": "O cruce monumentală în regiunea Cserhát.",
+                  "text": "Mare cruce de lemn ridicată de comunitatea Palóc în pădurea Cserhát.",
                   "category": "landmark",
                   "coords": [
                         19.481892,
@@ -4642,7 +4642,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Jánossy-kastély",
-                  "text": "A castle located in the Cserhát Mountains.",
+                  "text": "Jánossy-kastély castle in Cserhát Forest.",
                   "category": "castle",
                   "coords": [
                         19.422819,
@@ -4651,7 +4651,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Istállógaléria, Akol színház",
-                  "text": "A museum and theatre located in the Cserhát region.",
+                  "text": "Museum and theater in former stables and a sheepfold in the Cserhát Forest.",
                   "category": "museum",
                   "coords": [
                         19.438683,
@@ -4660,7 +4660,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Tájház",
-                  "text": "A local folk museum in the Cserhát region.",
+                  "text": "Folk house museum displaying rural life in the Cserhát Forest.",
                   "category": "museum",
                   "coords": [
                         19.441571,
@@ -4669,7 +4669,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Hunnia Csipkemúzeum",
-                  "text": "A lace museum located in the Cserhát region.",
+                  "text": "Lace museum featuring traditional Hungarian lacework.",
                   "category": "museum",
                   "coords": [
                         19.438911,
@@ -4678,7 +4678,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Palócok Vigyázó Nagykeresztje",
-                  "text": "A wayside cross in the Cserhát region.",
+                  "text": "Large wooden cross erected by the Palóc community in the Cserhát Forest.",
                   "category": "landmark",
                   "coords": [
                         19.481892,
@@ -4750,7 +4750,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Bodor-kastély",
-                  "text": "Ein Schlossgebäude im Gebiet von Szandavár.",
+                  "text": "Bodor-kastély, Burg auf dem Szandavar-Hügel, erbaut im späten 17. Jahrhundert.",
                   "category": "castle",
                   "coords": [
                         19.402841,
@@ -4815,7 +4815,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Bodor-kastély",
-                  "text": "Kastélyépület Szandavár térségében.",
+                  "text": "Bodor-kastély, vár a Szandavár-dombon, épült a 17. század végén.",
                   "category": "castle",
                   "coords": [
                         19.402841,
@@ -4880,7 +4880,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Bodor-kastély",
-                  "text": "O clădire de castel situată în zona Szandavár.",
+                  "text": "Castelul Bodor, pe dealul Szandavar, construit la sfârșitul secolului al XVII-lea.",
                   "category": "castle",
                   "coords": [
                         19.402841,
@@ -4945,7 +4945,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Bodor-kastély",
-                  "text": "A castle building located in the Szandavár area.",
+                  "text": "Bodor-kastély, castle on Szandavar Hill, built in the late 17th century.",
                   "category": "castle",
                   "coords": [
                         19.402841,
@@ -5536,7 +5536,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Szabadstrand",
-                  "text": "Ein öffentlicher freier Badestrand am Plattensee.",
+                  "text": "Kostenloser öffentlicher Badestrand am Balatonszentgyörgy-Moor.",
                   "category": "recreational",
                   "coords": [
                         17.334427,
@@ -5628,7 +5628,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Szabadstrand",
-                  "text": "Nyilvános szabadstrand a Balaton partján.",
+                  "text": "Szabadstrand a Balatonszentgyörgyi-mocsárnál.",
                   "category": "recreational",
                   "coords": [
                         17.334427,
@@ -5720,7 +5720,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Szabadstrand",
-                  "text": "O plajă publică gratuită pe malul lacului Balaton.",
+                  "text": "Plajă publică gratuită la mlaștina Balatonszentgyörgy.",
                   "category": "recreational",
                   "coords": [
                         17.334427,
@@ -5812,7 +5812,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Szabadstrand",
-                  "text": "A public free beach on the shores of Lake Balaton.",
+                  "text": "Free public beach on the Balatonszentgyörgy marshland.",
                   "category": "recreational",
                   "coords": [
                         17.334427,
@@ -5929,7 +5929,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Jóska bácsi kiállítása",
-                  "text": "Eine lokale museale Ausstellung am Fluss Tur.",
+                  "text": "Ausstellung des Volkskünstlers Jóska bácsi am Fluss Tur.",
                   "category": "museum",
                   "coords": [
                         22.653683,
@@ -5958,7 +5958,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Jóska bácsi kiállítása",
-                  "text": "Helyi múzeumi kiállítás a Túr folyó mentén.",
+                  "text": "Jóska bácsi népi művész kiállítása a Tur folyónál.",
                   "category": "museum",
                   "coords": [
                         22.653683,
@@ -5987,7 +5987,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Jóska bácsi kiállítása",
-                  "text": "O expoziție muzeală locală situată pe râul Tur.",
+                  "text": "Expoziția artistului popular Jóska bácsi lângă râul Tur.",
                   "category": "museum",
                   "coords": [
                         22.653683,
@@ -6016,7 +6016,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Jóska bácsi kiállítása",
-                  "text": "A local museum exhibition located along the Tur River.",
+                  "text": "Exhibition of folk artist Uncle Jóska by the Tur River.",
                   "category": "museum",
                   "coords": [
                         22.653683,
@@ -6973,7 +6973,7 @@ export const poiExtraHu2: POI[] = [
       "de": [
             {
                   "name": "Ősi temető",
-                  "text": "Eine archäologische Fundstätte im Gebiet des Göcsejer Waldes.",
+                  "text": "Alter Friedhof im Gocsej-Wald.",
                   "category": "historical",
                   "coords": [
                         16.692934,
@@ -6982,7 +6982,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Felsőhegy",
-                  "text": "Ein beliebtes Ausflugsziel in der hügeligen Landschaft von Göcsej.",
+                  "text": "Aussichtspunkt auf einem Hügel mit Blick über den Gocsej-Wald.",
                   "category": "landmark",
                   "coords": [
                         16.676572,
@@ -6993,7 +6993,7 @@ export const poiExtraHu2: POI[] = [
       "hu": [
             {
                   "name": "Ősi temető",
-                  "text": "Régészeti lelőhely a Göcseji erdő területén.",
+                  "text": "Ősi temető a Gocsej-erdőben.",
                   "category": "historical",
                   "coords": [
                         16.692934,
@@ -7002,7 +7002,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Felsőhegy",
-                  "text": "Népszerű kirándulóhely a göcseji dombvidéken.",
+                  "text": "Felsőhegy, kilátópont a Gocsej-erdő fölé.",
                   "category": "landmark",
                   "coords": [
                         16.676572,
@@ -7013,7 +7013,7 @@ export const poiExtraHu2: POI[] = [
       "ro": [
             {
                   "name": "Ősi temető",
-                  "text": "Un sit arheologic situat în pădurea Gocsej.",
+                  "text": "Cimitir străvechi în pădurea Gocsej.",
                   "category": "historical",
                   "coords": [
                         16.692934,
@@ -7022,7 +7022,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Felsőhegy",
-                  "text": "O atracție turistică în peisajul deluros din Gocsej.",
+                  "text": "Punct de belvedere pe un deal, cu vedere asupra pădurii Gocsej.",
                   "category": "landmark",
                   "coords": [
                         16.676572,
@@ -7033,7 +7033,7 @@ export const poiExtraHu2: POI[] = [
       "en": [
             {
                   "name": "Ősi temető",
-                  "text": "An archaeological site located in the Gocsej Forest.",
+                  "text": "Ancient cemetery in the Gocsej Forest.",
                   "category": "historical",
                   "coords": [
                         16.692934,
@@ -7042,7 +7042,7 @@ export const poiExtraHu2: POI[] = [
             },
             {
                   "name": "Felsőhegy",
-                  "text": "A local attraction in the hilly landscape of Gocsej.",
+                  "text": "Hilltop viewpoint overlooking the Gocsej Forest.",
                   "category": "landmark",
                   "coords": [
                         16.676572,

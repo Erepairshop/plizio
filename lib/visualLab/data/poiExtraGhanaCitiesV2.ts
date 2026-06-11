@@ -113,7 +113,196 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     },
   },
   {
-    id: "takoradi-cities-v2", "sights": {"de": [{"name": "Last Hour Beach", "text": "Der Last Hour Beach in der Küstenstadt Takoradi bietet einen erfrischenden Einblick in das ghanaische Leben am Meer. Dieser Strand ist ein tolles Ziel für ein Bad im Ozean oder einen ungezwungenen Spaziergang im Sand. Die Atmosphäre ist oft authentisch lokal und lädt Besucher ein, sich ohne jegliche Eile zu entspannen. Wer seinen Besuch für den späten Nachmittag plant, wird mit einer kühleren Brise und einem schönen Himmel belohnt.", "category": "recreational", "coords": [-1.753524, 4.878414]}, {"name": "Allan Beach", "text": "Zusammen mit der Resort-Umgebung in Takoradi präsentiert sich der Allan Beach als komfortabler Küstenrückzugsort in Ghana. Gäste erwartet ein gepflegter Uferabschnitt, der zum entspannten Sonnenbaden und Schwimmen einlädt. Die sanften Wellen des Golfs von Guinea sorgen den ganzen Tag über für eine beruhigende Stimmung. Es ist ein fantastischer Ort, um einen entspannten Wochenendausflug am Wasser zu verbringen.", "category": "recreational", "coords": [-1.751492, 4.878978]}, {"name": "Rotary Club of Sekondi-Takoradi", "text": "Denkmal des Rotary Clubs von Sekondi-Takoradi.", "category": "historical", "coords": [-1.753293, 4.909261]}, {"name": "Cheep cigarettes", "text": "Attraktion mit billigen Zigaretten in Takoradi.", "category": "landmark", "coords": [-1.765365, 4.901318]}, {"name": "Africa Beach", "text": "Am Rand der pulsierenden Stadt Takoradi gelegen, dient der Africa Beach als friedliche Küstenoase mit Resort-Atmosphäre. Die sandige Umgebung ermutigt Besucher zu gemütlichen Spaziergängen oder zur Abkühlung in den Wellen des Ozeans. Er bietet eine malerische Kulisse, die das Wesen der ghanaischen Küste wunderschön einfängt. Es lohnt sich, eine Kamera mitzubringen, um die weiten Blicke über das Meer festzuhalten.", "category": "recreational", "coords": [-1.766376, 4.875967]}], "hu": [{"name": "Last Hour Beach", "text": "A Takoradi tengerparti városában található Last Hour Beach frissítő bepillantást enged Ghána parti életébe. Ez a strand remek célpont egy óceáni csobbanáshoz vagy egy kötetlen homokos sétához. A hangulat gyakran kifejezetten helyi és autentikus, amely kapkodás nélküli pihenésre ösztönöz. A késő délutáni látogatás hűvösebb szellővel és gyönyörű égbolttal jutalmazza meg az utazót.", "category": "recreational", "coords": [-1.753524, 4.878414]}, {"name": "Allan Beach", "text": "A takoradi üdülőhelyi környezetben fekvő Allan Beach kényelmes tengerparti kikapcsolódást kínál Ghánában. A vendégeket gondozott partszakasz várja, amelyet nyugodt napozásra és úszásra terveztek. A Guineai-öböl szelíd hullámai egész nap nyugtató hangulatot árasztanak. Fantasztikus helyszín egy pihentető hétvégi vízparti elvonuláshoz.", "category": "recreational", "coords": [-1.751492, 4.878978]}, {"name": "Rotary Club of Sekondi-Takoradi", "text": "A Sekondi-Takoradi Rotary Klub emlékműve.", "category": "historical", "coords": [-1.753293, 4.909261]}, {"name": "Cheep cigarettes", "text": "Olcsó cigaretták látványossága Takoradiban.", "category": "landmark", "coords": [-1.765365, 4.901318]}, {"name": "Africa Beach", "text": "A nyüzsgő Takoradi városa mentén fekvő Africa Beach békés tengerparti menedéket nyújt egy üdülőhelyi atmoszférában. A homokos környezet kényelmes sétákra vagy az óceán habjaiban való hűsölésre ösztönzi a látogatókat. Festői háttere gyönyörűen megragadja a ghánai partvidék esszenciáját. Érdemes fényképezőgépet hozni, hogy megörökíthessük a lenyűgöző óceáni panorámát.", "category": "recreational", "coords": [-1.766376, 4.875967]}], "ro": [{"name": "Last Hour Beach", "text": "Situată în orașul de coastă Takoradi, plaja Last Hour Beach oferă o privire revigorantă asupra vieții de coastă din Ghana. Această plajă este o destinație excelentă pentru a face o baie în ocean sau pentru a vă bucura de plimbări relaxate pe nisip. Atmosfera este adesea una cu adevărat locală, invitând vizitatorii să se relaxeze fără grabă. Planificarea unei excursii la sfârșitul după-amiezii vă răsplătește cu brize mai răcoroase și un cer frumos.", "category": "recreational", "coords": [-1.753524, 4.878414]}, {"name": "Allan Beach", "text": "Plaja Allan Beach, alături de cadrul său de stațiune din Takoradi, reprezintă o escapadă confortabilă pe coasta Ghanei. Oaspeții se pot aștepta la o porțiune îngrijită de țărm, concepută pentru plajă și înot relaxant. Valurile blânde ale Golfului Guineei creează o atmosferă calmantă pe tot parcursul zilei. Este un loc fantastic pentru a vă bucura de un weekend relaxant la malul apei.", "category": "recreational", "coords": [-1.751492, 4.878978]}, {"name": "Rotary Club of Sekondi-Takoradi", "text": "Monumentul Clubului Rotary din Sekondi-Takoradi.", "category": "historical", "coords": [-1.753293, 4.909261]}, {"name": "Cheep cigarettes", "text": "Atracție cu țigări ieftine în Takoradi.", "category": "landmark", "coords": [-1.765365, 4.901318]}, {"name": "Africa Beach", "text": "Mărginită de orașul vibrant Takoradi, plaja Africa Beach servește ca un refugiu pașnic de coastă într-o atmosferă de stațiune. Mediul nisipos încurajează vizitatorii să facă plimbări plăcute sau să se răcorească în valurile oceanului. Oferă un fundal pitoresc care surprinde frumos esența coastei ghaneze. Aducerea unei camere foto este o idee excelentă pentru a surprinde priveliștile ample ale oceanului.", "category": "recreational", "coords": [-1.766376, 4.875967]}], "en": [{"name": "Last Hour Beach", "text": "Located in the coastal city of Takoradi, Last Hour Beach offers a refreshing glimpse into Ghana's coastal life. This beach is a great destination for taking a dip in the ocean or enjoying casual walks on the sand. The atmosphere often feels genuinely local, inviting visitors to relax without the rush. Planning a trip in the late afternoon rewards you with cooler breezes and beautiful skies.", "category": "recreational", "coords": [-1.753524, 4.878414]}, {"name": "Allan Beach", "text": "Allan Beach, paired with its resort setting in Takoradi, presents a comfortable coastal getaway in Ghana. Guests can expect a neat stretch of shoreline designed for relaxed sunbathing and swimming. The gentle waves of the Gulf of Guinea set a calming mood throughout the day. It is a fantastic spot to enjoy a laid-back weekend escape by the water.", "category": "recreational", "coords": [-1.751492, 4.878978]}, {"name": "Rotary Club of Sekondi-Takoradi", "text": "Rotary Club of Sekondi-Takoradi monument.", "category": "historical", "coords": [-1.753293, 4.909261]}, {"name": "Cheep cigarettes", "text": "Attraction with cheap cigarettes in Takoradi.", "category": "landmark", "coords": [-1.765365, 4.901318]}, {"name": "Africa Beach", "text": "Bordering the vibrant city of Takoradi, Africa Beach serves as a peaceful coastal haven within a resort atmosphere. The sandy environment encourages visitors to take leisurely walks or cool off in the ocean waves. It provides a scenic backdrop that beautifully captures the essence of the Ghanaian coast. Bringing a camera is a great idea to capture the sweeping oceanic views.", "category": "recreational", "coords": [-1.766376, 4.875967]}]},
+    id: "takoradi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Last Hour Beach",
+                  "text": "Der Last Hour Beach in der Küstenstadt Takoradi bietet einen erfrischenden Einblick in das ghanaische Leben am Meer. Dieser Strand ist ein tolles Ziel für ein Bad im Ozean oder einen ungezwungenen Spaziergang im Sand. Die Atmosphäre ist oft authentisch lokal und lädt Besucher ein, sich ohne jegliche Eile zu entspannen. Wer seinen Besuch für den späten Nachmittag plant, wird mit einer kühleren Brise und einem schönen Himmel belohnt.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.753524,
+                        4.878414
+                  ]
+            },
+            {
+                  "name": "Allan Beach",
+                  "text": "Zusammen mit der Resort-Umgebung in Takoradi präsentiert sich der Allan Beach als komfortabler Küstenrückzugsort in Ghana. Gäste erwartet ein gepflegter Uferabschnitt, der zum entspannten Sonnenbaden und Schwimmen einlädt. Die sanften Wellen des Golfs von Guinea sorgen den ganzen Tag über für eine beruhigende Stimmung. Es ist ein fantastischer Ort, um einen entspannten Wochenendausflug am Wasser zu verbringen.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.751492,
+                        4.878978
+                  ]
+            },
+            {
+                  "name": "Rotary Club of Sekondi-Takoradi",
+                  "text": "Rotary Club of Sekondi-Takoradi, eine traditionsreiche Serviceorganisation mit Sitz in Takoradi.",
+                  "category": "historical",
+                  "coords": [
+                        -1.753293,
+                        4.909261
+                  ]
+            },
+            {
+                  "name": "Cheep cigarettes",
+                  "text": "Cheep cigarettes in Takoradi, ein kleiner Laden, der günstige Zigaretten verkauft.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.765365,
+                        4.901318
+                  ]
+            },
+            {
+                  "name": "Africa Beach",
+                  "text": "Am Rand der pulsierenden Stadt Takoradi gelegen, dient der Africa Beach als friedliche Küstenoase mit Resort-Atmosphäre. Die sandige Umgebung ermutigt Besucher zu gemütlichen Spaziergängen oder zur Abkühlung in den Wellen des Ozeans. Er bietet eine malerische Kulisse, die das Wesen der ghanaischen Küste wunderschön einfängt. Es lohnt sich, eine Kamera mitzubringen, um die weiten Blicke über das Meer festzuhalten.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.766376,
+                        4.875967
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Last Hour Beach",
+                  "text": "A Takoradi tengerparti városában található Last Hour Beach frissítő bepillantást enged Ghána parti életébe. Ez a strand remek célpont egy óceáni csobbanáshoz vagy egy kötetlen homokos sétához. A hangulat gyakran kifejezetten helyi és autentikus, amely kapkodás nélküli pihenésre ösztönöz. A késő délutáni látogatás hűvösebb szellővel és gyönyörű égbolttal jutalmazza meg az utazót.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.753524,
+                        4.878414
+                  ]
+            },
+            {
+                  "name": "Allan Beach",
+                  "text": "A takoradi üdülőhelyi környezetben fekvő Allan Beach kényelmes tengerparti kikapcsolódást kínál Ghánában. A vendégeket gondozott partszakasz várja, amelyet nyugodt napozásra és úszásra terveztek. A Guineai-öböl szelíd hullámai egész nap nyugtató hangulatot árasztanak. Fantasztikus helyszín egy pihentető hétvégi vízparti elvonuláshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.751492,
+                        4.878978
+                  ]
+            },
+            {
+                  "name": "Rotary Club of Sekondi-Takoradi",
+                  "text": "Rotary Club of Sekondi-Takoradi, egy hagyományos szolgáltató szervezet Takoradiban.",
+                  "category": "historical",
+                  "coords": [
+                        -1.753293,
+                        4.909261
+                  ]
+            },
+            {
+                  "name": "Cheep cigarettes",
+                  "text": "Cheep cigarettes Takoradiban, egy kis bolt, ahol olcsó cigarettákat árulnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.765365,
+                        4.901318
+                  ]
+            },
+            {
+                  "name": "Africa Beach",
+                  "text": "A nyüzsgő Takoradi városa mentén fekvő Africa Beach békés tengerparti menedéket nyújt egy üdülőhelyi atmoszférában. A homokos környezet kényelmes sétákra vagy az óceán habjaiban való hűsölésre ösztönzi a látogatókat. Festői háttere gyönyörűen megragadja a ghánai partvidék esszenciáját. Érdemes fényképezőgépet hozni, hogy megörökíthessük a lenyűgöző óceáni panorámát.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.766376,
+                        4.875967
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Last Hour Beach",
+                  "text": "Situată în orașul de coastă Takoradi, plaja Last Hour Beach oferă o privire revigorantă asupra vieții de coastă din Ghana. Această plajă este o destinație excelentă pentru a face o baie în ocean sau pentru a vă bucura de plimbări relaxate pe nisip. Atmosfera este adesea una cu adevărat locală, invitând vizitatorii să se relaxeze fără grabă. Planificarea unei excursii la sfârșitul după-amiezii vă răsplătește cu brize mai răcoroase și un cer frumos.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.753524,
+                        4.878414
+                  ]
+            },
+            {
+                  "name": "Allan Beach",
+                  "text": "Plaja Allan Beach, alături de cadrul său de stațiune din Takoradi, reprezintă o escapadă confortabilă pe coasta Ghanei. Oaspeții se pot aștepta la o porțiune îngrijită de țărm, concepută pentru plajă și înot relaxant. Valurile blânde ale Golfului Guineei creează o atmosferă calmantă pe tot parcursul zilei. Este un loc fantastic pentru a vă bucura de un weekend relaxant la malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.751492,
+                        4.878978
+                  ]
+            },
+            {
+                  "name": "Rotary Club of Sekondi-Takoradi",
+                  "text": "Rotary Club of Sekondi-Takoradi, o organizație de servicii cu tradiție în Takoradi.",
+                  "category": "historical",
+                  "coords": [
+                        -1.753293,
+                        4.909261
+                  ]
+            },
+            {
+                  "name": "Cheep cigarettes",
+                  "text": "Cheep cigarettes în Takoradi, un mic magazin care vinde țigări ieftine.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.765365,
+                        4.901318
+                  ]
+            },
+            {
+                  "name": "Africa Beach",
+                  "text": "Mărginită de orașul vibrant Takoradi, plaja Africa Beach servește ca un refugiu pașnic de coastă într-o atmosferă de stațiune. Mediul nisipos încurajează vizitatorii să facă plimbări plăcute sau să se răcorească în valurile oceanului. Oferă un fundal pitoresc care surprinde frumos esența coastei ghaneze. Aducerea unei camere foto este o idee excelentă pentru a surprinde priveliștile ample ale oceanului.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.766376,
+                        4.875967
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Last Hour Beach",
+                  "text": "Located in the coastal city of Takoradi, Last Hour Beach offers a refreshing glimpse into Ghana's coastal life. This beach is a great destination for taking a dip in the ocean or enjoying casual walks on the sand. The atmosphere often feels genuinely local, inviting visitors to relax without the rush. Planning a trip in the late afternoon rewards you with cooler breezes and beautiful skies.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.753524,
+                        4.878414
+                  ]
+            },
+            {
+                  "name": "Allan Beach",
+                  "text": "Allan Beach, paired with its resort setting in Takoradi, presents a comfortable coastal getaway in Ghana. Guests can expect a neat stretch of shoreline designed for relaxed sunbathing and swimming. The gentle waves of the Gulf of Guinea set a calming mood throughout the day. It is a fantastic spot to enjoy a laid-back weekend escape by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.751492,
+                        4.878978
+                  ]
+            },
+            {
+                  "name": "Rotary Club of Sekondi-Takoradi",
+                  "text": "Rotary Club of Sekondi-Takoradi, a long-standing service organization based in Takoradi.",
+                  "category": "historical",
+                  "coords": [
+                        -1.753293,
+                        4.909261
+                  ]
+            },
+            {
+                  "name": "Cheep cigarettes",
+                  "text": "Cheep cigarettes in Takoradi, a small shop selling cheap cigarettes.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.765365,
+                        4.901318
+                  ]
+            },
+            {
+                  "name": "Africa Beach",
+                  "text": "Bordering the vibrant city of Takoradi, Africa Beach serves as a peaceful coastal haven within a resort atmosphere. The sandy environment encourages visitors to take leisurely walks or cool off in the ocean waves. It provides a scenic backdrop that beautifully captures the essence of the Ghanaian coast. Bringing a camera is a great idea to capture the sweeping oceanic views.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.766376,
+                        4.875967
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GH-WP",
     coords: [-1.7554, 4.8845],
@@ -234,7 +423,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Drums N Barrels Resort",
-                  "text": "Drums N Barrels Resort in Teshie.",
+                  "text": "Drums N Barrels Resort in Teshie, ein Strandresort mit Übernachtungsmöglichkeiten und Restaurant.",
                   "category": "recreational",
                   "coords": [
                         -0.089152,
@@ -254,7 +443,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Drums N Barrels Resort",
-                  "text": "Drums N Barrels üdülőhely, Tesie.",
+                  "text": "Drums N Barrels Resort Teshie-ben, egy tengerparti üdülőhely szálláslehetőségekkel és étteremmel.",
                   "category": "recreational",
                   "coords": [
                         -0.089152,
@@ -274,7 +463,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Drums N Barrels Resort",
-                  "text": "Stațiunea Drums N Barrels din Teshie.",
+                  "text": "Drums N Barrels Resort în Teshie, o stațiune pe plajă cu cazare și restaurant.",
                   "category": "recreational",
                   "coords": [
                         -0.089152,
@@ -294,7 +483,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Drums N Barrels Resort",
-                  "text": "Drums N Barrels resort in Teshie.",
+                  "text": "Drums N Barrels Resort in Teshie, a beach resort with accommodation and restaurant.",
                   "category": "recreational",
                   "coords": [
                         -0.089152,
@@ -342,7 +531,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Cape Coast Castle",
-                  "text": "Cape Coast Castle ist ein Schloss in Cape Coast.",
+                  "text": "Das Cape Coast Castle ist eine ehemalige Sklavenfestung an der Küste Ghanas, heute ein Museum und UNESCO-Weltkulturerbe.",
                   "category": "castle",
                   "coords": [
                         -1.240974,
@@ -360,7 +549,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Fort Victoria",
-                  "text": "Fort Victoria ist ein Schloss in Cape Coast.",
+                  "text": "Fort Victoria in Cape Coast, eine historische britische Festung aus dem 18. Jahrhundert an der Küste.",
                   "category": "castle",
                   "coords": [
                         -1.249154,
@@ -369,7 +558,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Asasse Pa Resort - Resort, Restaurant & Spa",
-                  "text": "Asasse Pa Resort - Resort, Restaurant & Spa ist ein Strandresort in Cape Coast.",
+                  "text": "Asasse Pa Resort in Cape Coast, ein Resort mit Restaurant, Spa und Pool.",
                   "category": "recreational",
                   "coords": [
                         -1.254584,
@@ -378,7 +567,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Crab",
-                  "text": "Crab ist ein Denkmal in Cape Coast.",
+                  "text": "Crab in Cape Coast, ein historisches Gebäude mit Bedeutung für den lokalen Handel.",
                   "category": "historical",
                   "coords": [
                         -1.24236,
@@ -389,7 +578,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Cape Coast Castle",
-                  "text": "A Cape Coast Castle egy kastély Cape Coast városában.",
+                  "text": "A Cape Coast Kastély egy egykori rabszolga-erőd a ghánai parton, ma múzeum és UNESCO világörökségi helyszín.",
                   "category": "castle",
                   "coords": [
                         -1.240974,
@@ -407,7 +596,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Fort Victoria",
-                  "text": "A Fort Victoria egy kastély Cape Coast városában.",
+                  "text": "Fort Victoria Cape Coastban, egy történelmi brit erőd a 18. századból a parton.",
                   "category": "castle",
                   "coords": [
                         -1.249154,
@@ -416,7 +605,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Asasse Pa Resort - Resort, Restaurant & Spa",
-                  "text": "Az Asasse Pa Resort - Resort, Restaurant & Spa egy tengerparti üdülőhely Cape Coast városában.",
+                  "text": "Asasse Pa Resort Cape Coastban, egy üdülőhely étteremmel, spával és medencével.",
                   "category": "recreational",
                   "coords": [
                         -1.254584,
@@ -425,7 +614,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Crab",
-                  "text": "A Crab egy műemlék Cape Coast városában.",
+                  "text": "Crab Cape Coastban, egy történelmi épület, amely fontos a helyi kereskedelem szempontjából.",
                   "category": "historical",
                   "coords": [
                         -1.24236,
@@ -436,7 +625,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Cape Coast Castle",
-                  "text": "Cape Coast Castle este un castel situat în Cape Coast.",
+                  "text": "Castelul Cape Coast este o fostă fortăreață de sclavi pe coasta Ghanei, acum muzeu și sit UNESCO.",
                   "category": "castle",
                   "coords": [
                         -1.240974,
@@ -454,7 +643,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Fort Victoria",
-                  "text": "Fort Victoria este un castel situat în Cape Coast.",
+                  "text": "Fort Victoria în Cape Coast, o fortăreață istorică britanică din secolul al XVIII-lea pe coastă.",
                   "category": "castle",
                   "coords": [
                         -1.249154,
@@ -463,7 +652,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Asasse Pa Resort - Resort, Restaurant & Spa",
-                  "text": "Asasse Pa Resort - Resort, Restaurant & Spa este o stațiune pe plajă situată în Cape Coast.",
+                  "text": "Asasse Pa Resort în Cape Coast, o stațiune cu restaurant, spa și piscină.",
                   "category": "recreational",
                   "coords": [
                         -1.254584,
@@ -472,7 +661,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Crab",
-                  "text": "Crab este un monument situat în Cape Coast.",
+                  "text": "Crab în Cape Coast, o clădire istorică cu importanță pentru comerțul local.",
                   "category": "historical",
                   "coords": [
                         -1.24236,
@@ -483,7 +672,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Cape Coast Castle",
-                  "text": "Cape Coast Castle is a castle located in Cape Coast.",
+                  "text": "Cape Coast Castle is a former slave fort on the Ghanaian coast, now a museum and UNESCO World Heritage site.",
                   "category": "castle",
                   "coords": [
                         -1.240974,
@@ -501,7 +690,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Fort Victoria",
-                  "text": "Fort Victoria is a castle located in Cape Coast.",
+                  "text": "Fort Victoria in Cape Coast, a historic British fort from the 18th century on the coast.",
                   "category": "castle",
                   "coords": [
                         -1.249154,
@@ -510,7 +699,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Asasse Pa Resort - Resort, Restaurant & Spa",
-                  "text": "Asasse Pa Resort - Resort, Restaurant & Spa is a beach resort located in Cape Coast.",
+                  "text": "Asasse Pa Resort in Cape Coast, a resort with restaurant, spa and pool.",
                   "category": "recreational",
                   "coords": [
                         -1.254584,
@@ -519,7 +708,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Crab",
-                  "text": "Crab is a monument located in Cape Coast.",
+                  "text": "Crab in Cape Coast, a historic building significant for local trade.",
                   "category": "historical",
                   "coords": [
                         -1.24236,
@@ -567,7 +756,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Fort Orange",
-                  "text": "Fort Orange ist ein Leuchtturm in Sekondi.",
+                  "text": "Fort Orange in Sekondi, eine niederländische Festung aus dem 17. Jahrhundert am Meer.",
                   "category": "landmark",
                   "coords": [
                         -1.707371,
@@ -576,7 +765,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Enam Ase",
-                  "text": "Enam Ase ist ein Denkmal in Sekondi.",
+                  "text": "Enam Ase in Sekondi, ein traditioneller Versammlungsplatz der indigenen Gemeinschaft.",
                   "category": "historical",
                   "coords": [
                         -1.709899,
@@ -587,7 +776,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Fort Orange",
-                  "text": "A Fort Orange egy világítótorony Sekondi városában.",
+                  "text": "Fort Orange Sekondiban, egy holland erőd a 17. századból a tenger mellett.",
                   "category": "landmark",
                   "coords": [
                         -1.707371,
@@ -596,7 +785,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Enam Ase",
-                  "text": "Az Enam Ase egy emlékmű Sekondi városában.",
+                  "text": "Enam Ase Sekondiban, a bennszülött közösség hagyományos gyülekezőhelye.",
                   "category": "historical",
                   "coords": [
                         -1.709899,
@@ -607,7 +796,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Fort Orange",
-                  "text": "Fort Orange este un far în Sekondi.",
+                  "text": "Fort Orange în Sekondi, o fortăreață olandeză din secolul al XVII-lea lângă mare.",
                   "category": "landmark",
                   "coords": [
                         -1.707371,
@@ -616,7 +805,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Enam Ase",
-                  "text": "Enam Ase este un monument în Sekondi.",
+                  "text": "Enam Ase în Sekondi, un loc tradițional de adunare al comunității indigene.",
                   "category": "historical",
                   "coords": [
                         -1.709899,
@@ -627,7 +816,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Fort Orange",
-                  "text": "Fort Orange is a lighthouse in Sekondi.",
+                  "text": "Fort Orange in Sekondi, a Dutch fort from the 17th century by the sea.",
                   "category": "landmark",
                   "coords": [
                         -1.707371,
@@ -636,7 +825,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Enam Ase",
-                  "text": "Enam Ase is a monument in Sekondi.",
+                  "text": "Enam Ase in Sekondi, a traditional gathering place for the indigenous community.",
                   "category": "historical",
                   "coords": [
                         -1.709899,
@@ -720,7 +909,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Chief Washington",
-                  "text": "Chief Washington ist ein Schloss in Madina.",
+                  "text": "Chief Washington in Madina, ein als Burg gestaltetes Gebäude mit gehobener Ausstattung.",
                   "category": "castle",
                   "coords": [
                         -0.186795,
@@ -729,7 +918,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Museum of Archaelogy",
-                  "text": "Das Museum of Archaelogy ist ein Museum in Madina.",
+                  "text": "Museum of Archaeology in Madina, zeigt Funde aus der Region wie Keramik und Werkzeuge.",
                   "category": "museum",
                   "coords": [
                         -0.181082,
@@ -740,7 +929,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Chief Washington",
-                  "text": "A Chief Washington egy kastély Madina városában.",
+                  "text": "Chief Washington Madinában, egy várként kialakított épület luxus felszereltséggel.",
                   "category": "castle",
                   "coords": [
                         -0.186795,
@@ -749,7 +938,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Museum of Archaelogy",
-                  "text": "A Museum of Archaelogy egy múzeum Madina városában.",
+                  "text": "Régészeti Múzeum Madinában, a régió leleteit mutatja be, mint kerámiák és eszközök.",
                   "category": "museum",
                   "coords": [
                         -0.181082,
@@ -760,7 +949,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Chief Washington",
-                  "text": "Chief Washington este un castel situat în Madina.",
+                  "text": "Chief Washington în Madina, o clădire amenajată ca un castel, cu facilități de lux.",
                   "category": "castle",
                   "coords": [
                         -0.186795,
@@ -769,7 +958,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Museum of Archaelogy",
-                  "text": "Museum of Archaelogy este un muzeu situat în Madina.",
+                  "text": "Muzeul de Arheologie din Madina, expune descoperiri din regiune, precum ceramică și unelte.",
                   "category": "museum",
                   "coords": [
                         -0.181082,
@@ -780,7 +969,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Chief Washington",
-                  "text": "Chief Washington is a castle located in Madina.",
+                  "text": "Chief Washington in Madina, a castle-styled building with upscale amenities.",
                   "category": "castle",
                   "coords": [
                         -0.186795,
@@ -789,7 +978,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Museum of Archaelogy",
-                  "text": "Museum of Archaelogy is a museum located in Madina.",
+                  "text": "Museum of Archaeology in Madina, displaying regional finds like pottery and tools.",
                   "category": "museum",
                   "coords": [
                         -0.181082,
@@ -837,7 +1026,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Department of Parks and Gardens",
-                  "text": "Department of Parks and Gardens ist ein Freizeitpark in Koforidua.",
+                  "text": "Department of Parks and Gardens in Koforidua, zuständig für die Pflege städtischer Grünanlagen.",
                   "category": "family",
                   "coords": [
                         -0.269198,
@@ -846,7 +1035,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Centre For National Culture",
-                  "text": "Centre For National Culture ist ein Theater in Koforidua.",
+                  "text": "Centre For National Culture in Koforidua, ein Kulturzentrum mit Ausstellungen und Kunsthandwerksmärkten.",
                   "category": "cultural",
                   "coords": [
                         -0.251276,
@@ -857,7 +1046,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Department of Parks and Gardens",
-                  "text": "A Department of Parks and Gardens egy vidámpark Koforidua városában.",
+                  "text": "Parkok és Kertek Osztálya Koforiduában, felelős a városi zöldterületek karbantartásáért.",
                   "category": "family",
                   "coords": [
                         -0.269198,
@@ -866,7 +1055,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Centre For National Culture",
-                  "text": "A Centre For National Culture egy színház Koforidua városában.",
+                  "text": "Nemzeti Kulturális Központ Koforiduában, egy kulturális központ kiállításokkal és kézműves piacokkal.",
                   "category": "cultural",
                   "coords": [
                         -0.251276,
@@ -877,7 +1066,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Department of Parks and Gardens",
-                  "text": "Department of Parks and Gardens este un parc tematic în Koforidua.",
+                  "text": "Departamentul de Parcuri și Grădini din Koforidua, responsabil pentru întreținerea spațiilor verzi urbane.",
                   "category": "family",
                   "coords": [
                         -0.269198,
@@ -886,7 +1075,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Centre For National Culture",
-                  "text": "Centre For National Culture este un teatru în Koforidua.",
+                  "text": "Centrul pentru Cultură Națională din Koforidua, un centru cultural cu expoziții și târguri de artizanat.",
                   "category": "cultural",
                   "coords": [
                         -0.251276,
@@ -897,7 +1086,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Department of Parks and Gardens",
-                  "text": "Department of Parks and Gardens is a theme park in Koforidua.",
+                  "text": "Department of Parks and Gardens in Koforidua, responsible for maintaining urban green spaces.",
                   "category": "family",
                   "coords": [
                         -0.269198,
@@ -906,7 +1095,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Centre For National Culture",
-                  "text": "Centre For National Culture is a theatre in Koforidua.",
+                  "text": "Centre For National Culture in Koforidua, a cultural centre with exhibitions and craft fairs.",
                   "category": "cultural",
                   "coords": [
                         -0.251276,
@@ -954,7 +1143,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Dondoli Historic Mosque",
-                  "text": "Ruinen der historischen Dondoli-Moschee in Wa.",
+                  "text": "Die historische Moschee von Dondoli ist eine alte Lehmziegelmoschee in Wa, Ghana, im sudanesischen Baustil.",
                   "category": "historical",
                   "coords": [
                         -2.495795,
@@ -965,7 +1154,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Dondoli Historic Mosque",
-                  "text": "A történelmi Dondoli-mecset romjai Wában.",
+                  "text": "A Dondoli Történelmi Mecset egy régi vályog-tégla mecset Wa-ban, Ghánában, szudáni építészeti stílusban.",
                   "category": "historical",
                   "coords": [
                         -2.495795,
@@ -976,7 +1165,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Dondoli Historic Mosque",
-                  "text": "Ruinele istoricei moschei Dondoli din Wa.",
+                  "text": "Moscheea istorică Dondoli este o veche moschee din cărămidă de noroi în Wa, Ghana, construită în stil arhitectural sudanez.",
                   "category": "historical",
                   "coords": [
                         -2.495795,
@@ -987,7 +1176,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Dondoli Historic Mosque",
-                  "text": "Ruins of the historic Dondoli Mosque in Wa.",
+                  "text": "Dondoli Historic Mosque is an ancient mud-brick mosque in Wa, Ghana, built in the Sudanese architectural style.",
                   "category": "historical",
                   "coords": [
                         -2.495795,
@@ -1067,7 +1256,88 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     },
   },
   {
-    id: "nungua-cities-v2", "sights": {"de": [{"name": "Nighty Beach", "text": "Eingebettet in die Küstenlinie von Nungua, bietet der Nighty Beach ein ruhiges Stück der Küste von Greater Accra. Besucher können sich darauf freuen, im Sand zu entspannen und dem rhythmischen Brechen der Wellen zuzuhören. Die Umgebung ist meist etwas unauffälliger und somit ideal für besinnliche Spaziergänge am Meer. Der frühe Morgen beschert hier ein besonders friedliches und erfrischendes Küstenerlebnis.", "category": "recreational", "coords": [-0.056665, 5.607437]}, {"name": "Drums N Barrels Resort", "text": "Drums N Barrels Resort ist ein Strandresort in Nungua.", "category": "recreational", "coords": [-0.089152, 5.585328]}], "hu": [{"name": "Nighty Beach", "text": "A Nungua partvidékén megbúvó Nighty Beach egy csendes szeletét kínálja a Nagy-Accra régiónak. Az ide látogatók a homokban pihenhetnek és hallgathatják a hullámok ritmikus morajlását. A környezet általában visszafogottabb, így ideális a tengermelléki elmélkedő sétákhoz. A kora reggelek nyugodt és frissítő tengerparti élményt tartogatnak itt.", "category": "recreational", "coords": [-0.056665, 5.607437]}, {"name": "Drums N Barrels Resort", "text": "A Drums N Barrels Resort egy tengerparti üdülőhely Nungua városában.", "category": "recreational", "coords": [-0.089152, 5.585328]}], "ro": [{"name": "Nighty Beach", "text": "Ascunsă de-a lungul țărmului din Nungua, plaja Nighty Beach oferă o felie liniștită din coasta regiunii Greater Accra. Cei care o vizitează se pot aștepta să se relaxeze pe nisip și să asculte izbirea ritmică a valurilor. Cadrul este de obicei mai discret, fiind ideal pentru plimbări contemplative la malul mării. Diminețile devreme oferă aici o experiență de coastă senină și reconfortantă.", "category": "recreational", "coords": [-0.056665, 5.607437]}, {"name": "Drums N Barrels Resort", "text": "Drums N Barrels Resort este o stațiune balneară în Nungua.", "category": "recreational", "coords": [-0.089152, 5.585328]}], "en": [{"name": "Nighty Beach", "text": "Nestled along the shoreline of Nungua, Nighty Beach offers a quiet slice of the Greater Accra coastline. Those visiting can look forward to unwinding on the sand and listening to the rhythmic crashing of the waves. The setting is usually more understated, making it ideal for contemplative strolls by the sea. Early mornings here present a serene and refreshing coastal experience.", "category": "recreational", "coords": [-0.056665, 5.607437]}, {"name": "Drums N Barrels Resort", "text": "Drums N Barrels Resort is a beach resort in Nungua.", "category": "recreational", "coords": [-0.089152, 5.585328]}]},
+    id: "nungua-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nighty Beach",
+                  "text": "Eingebettet in die Küstenlinie von Nungua, bietet der Nighty Beach ein ruhiges Stück der Küste von Greater Accra. Besucher können sich darauf freuen, im Sand zu entspannen und dem rhythmischen Brechen der Wellen zuzuhören. Die Umgebung ist meist etwas unauffälliger und somit ideal für besinnliche Spaziergänge am Meer. Der frühe Morgen beschert hier ein besonders friedliches und erfrischendes Küstenerlebnis.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.056665,
+                        5.607437
+                  ]
+            },
+            {
+                  "name": "Drums N Barrels Resort",
+                  "text": "Drums N Barrels Resort in Nungua, ein Strandresort mit Unterkünften und Restaurant.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.089152,
+                        5.585328
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nighty Beach",
+                  "text": "A Nungua partvidékén megbúvó Nighty Beach egy csendes szeletét kínálja a Nagy-Accra régiónak. Az ide látogatók a homokban pihenhetnek és hallgathatják a hullámok ritmikus morajlását. A környezet általában visszafogottabb, így ideális a tengermelléki elmélkedő sétákhoz. A kora reggelek nyugodt és frissítő tengerparti élményt tartogatnak itt.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.056665,
+                        5.607437
+                  ]
+            },
+            {
+                  "name": "Drums N Barrels Resort",
+                  "text": "Drums N Barrels Resort Nunguában, egy tengerparti üdülőhely szálláslehetőségekkel és étteremmel.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.089152,
+                        5.585328
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nighty Beach",
+                  "text": "Ascunsă de-a lungul țărmului din Nungua, plaja Nighty Beach oferă o felie liniștită din coasta regiunii Greater Accra. Cei care o vizitează se pot aștepta să se relaxeze pe nisip și să asculte izbirea ritmică a valurilor. Cadrul este de obicei mai discret, fiind ideal pentru plimbări contemplative la malul mării. Diminețile devreme oferă aici o experiență de coastă senină și reconfortantă.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.056665,
+                        5.607437
+                  ]
+            },
+            {
+                  "name": "Drums N Barrels Resort",
+                  "text": "Drums N Barrels Resort în Nungua, o stațiune pe plajă cu cazare și restaurant.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.089152,
+                        5.585328
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nighty Beach",
+                  "text": "Nestled along the shoreline of Nungua, Nighty Beach offers a quiet slice of the Greater Accra coastline. Those visiting can look forward to unwinding on the sand and listening to the rhythmic crashing of the waves. The setting is usually more understated, making it ideal for contemplative strolls by the sea. Early mornings here present a serene and refreshing coastal experience.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.056665,
+                        5.607437
+                  ]
+            },
+            {
+                  "name": "Drums N Barrels Resort",
+                  "text": "Drums N Barrels Resort in Nungua, a beach resort with accommodation and restaurant.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.089152,
+                        5.585328
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GH-AA",
     coords: [-0.0689, 5.6028],
@@ -1107,7 +1377,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Valco Employees Recreation Area (VERA)",
-                  "text": "Valco Employees Recreation Area (VERA) in Tema New Town.",
+                  "text": "Valco Employees Recreation Area (VERA) in New Town, ein Erholungsgebiet für Mitarbeiter mit Sportplätzen und Grillstationen.",
                   "category": "landmark",
                   "coords": [
                         -0.005595,
@@ -1127,7 +1397,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Valco Employees Recreation Area (VERA)",
-                  "text": "Valco alkalmazottak rekreációs területe (VERA), Tema New Town.",
+                  "text": "Valco Dolgozói Pihenőövezet (VERA) New Townban, egy rekreációs terület sportpályákkal és grillezőhelyekkel.",
                   "category": "landmark",
                   "coords": [
                         -0.005595,
@@ -1147,7 +1417,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Valco Employees Recreation Area (VERA)",
-                  "text": "Zona de recreere pentru angajații Valco (VERA) din Tema New Town.",
+                  "text": "Zona de Recreere pentru Angajații Valco (VERA) în New Town, o zonă de agrement cu terenuri de sport și grătare.",
                   "category": "landmark",
                   "coords": [
                         -0.005595,
@@ -1167,7 +1437,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Valco Employees Recreation Area (VERA)",
-                  "text": "Valco Employees Recreation Area (VERA) in Tema New Town.",
+                  "text": "Valco Employees Recreation Area (VERA) in New Town, a staff leisure area with sports fields and BBQ spots.",
                   "category": "landmark",
                   "coords": [
                         -0.005595,
@@ -1368,7 +1638,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Upper East Regional Museum",
-                  "text": "Das Upper East Regional Museum ist ein Museum in der Stadt Bolgatanga.",
+                  "text": "Upper East Regional Museum in Bolgatanga, zeigt die materielle Kultur der Region, wie traditionelle Textilien und Masken.",
                   "category": "museum",
                   "coords": [
                         -0.856017,
@@ -1377,7 +1647,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Art Center",
-                  "text": "Das Art Center ist ein Kunstzentrum in Bolgatanga.",
+                  "text": "Art Center in Bolgatanga, ein Zentrum für lokale Kunst mit Gemälden, Skulpturen und Batikarbeiten.",
                   "category": "cultural",
                   "coords": [
                         -0.854217,
@@ -1386,7 +1656,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Shiloh Temple - Christ Frontiers Mission International",
-                  "text": "Shiloh Temple - Christ Frontiers Mission International ist eine Kultstätte in Bolgatanga.",
+                  "text": "Christliche Kirche in Bolgatanga, Teil der Christ Frontiers Mission International.",
                   "category": "religious",
                   "coords": [
                         -0.86971,
@@ -1397,7 +1667,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Upper East Regional Museum",
-                  "text": "Az Upper East Regional Museum egy múzeum Bolgatanga városában.",
+                  "text": "Felső-Keleti Regionális Múzeum Bolgatanga-ban, bemutatja a régió anyagi kultúráját, mint hagyományos textíliák és maszkok.",
                   "category": "museum",
                   "coords": [
                         -0.856017,
@@ -1406,7 +1676,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Art Center",
-                  "text": "Az Art Center egy művészeti központ Bolgatangában.",
+                  "text": "Művészeti Központ Bolgatanga-ban, egy helyi művészeti központ festményekkel, szobrokkal és batikolt alkotásokkal.",
                   "category": "cultural",
                   "coords": [
                         -0.854217,
@@ -1415,7 +1685,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Shiloh Temple - Christ Frontiers Mission International",
-                  "text": "A Shiloh Temple - Christ Frontiers Mission International egy istentiszteleti hely Bolgatangában.",
+                  "text": "Keresztény templom Bolgatanga városában, a Christ Frontiers Mission International része.",
                   "category": "religious",
                   "coords": [
                         -0.86971,
@@ -1426,7 +1696,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Upper East Regional Museum",
-                  "text": "Upper East Regional Museum este un muzeu situat în orașul Bolgatanga.",
+                  "text": "Muzeul Regional Upper East din Bolgatanga, expune cultura materială a regiunii, precum textile tradiționale și măști.",
                   "category": "museum",
                   "coords": [
                         -0.856017,
@@ -1435,7 +1705,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Art Center",
-                  "text": "Art Center este un centru de artă situat în Bolgatanga.",
+                  "text": "Centrul de Artă din Bolgatanga, un centru de artă locală cu picturi, sculpturi și lucrări batik.",
                   "category": "cultural",
                   "coords": [
                         -0.854217,
@@ -1444,7 +1714,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Shiloh Temple - Christ Frontiers Mission International",
-                  "text": "Shiloh Temple - Christ Frontiers Mission International este un lăcaș de cult din Bolgatanga.",
+                  "text": "Biserică creștină în Bolgatanga, parte a Christ Frontiers Mission International.",
                   "category": "religious",
                   "coords": [
                         -0.86971,
@@ -1455,7 +1725,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Upper East Regional Museum",
-                  "text": "The Upper East Regional Museum is a museum situated in the city of Bolgatanga.",
+                  "text": "Upper East Regional Museum in Bolgatanga, showcasing the region's material culture, including traditional textiles and masks.",
                   "category": "museum",
                   "coords": [
                         -0.856017,
@@ -1464,7 +1734,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Art Center",
-                  "text": "The Art Center is a facility dedicated to the arts located in Bolgatanga.",
+                  "text": "Art Center in Bolgatanga, a local art centre with paintings, sculptures and batik works.",
                   "category": "cultural",
                   "coords": [
                         -0.854217,
@@ -1473,7 +1743,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Shiloh Temple - Christ Frontiers Mission International",
-                  "text": "Shiloh Temple - Christ Frontiers Mission International is a place of worship in Bolgatanga.",
+                  "text": "Christian church in Bolgatanga, part of Christ Frontiers Mission International.",
                   "category": "religious",
                   "coords": [
                         -0.86971,
@@ -1521,7 +1791,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Aquarium Marshall",
-                  "text": "Aquarium Marshall in Lashibi.",
+                  "text": "Aquarium Marshall in Lashibi, ein öffentliches Aquarium mit einheimischen und exotischen Fischen.",
                   "category": "family",
                   "coords": [
                         -0.059189,
@@ -1532,7 +1802,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Aquarium Marshall",
-                  "text": "Aquarium Marshall, Lasibi.",
+                  "text": "Marshall Akvárium Lashibi-ben, egy nyilvános akvárium helyi és egzotikus halakkal.",
                   "category": "family",
                   "coords": [
                         -0.059189,
@@ -1543,7 +1813,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Aquarium Marshall",
-                  "text": "Acvariul Marshall din Lashibi.",
+                  "text": "Acvariul Marshall din Lashibi, un acvariu public cu pești locali și exotici.",
                   "category": "family",
                   "coords": [
                         -0.059189,
@@ -1554,7 +1824,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Aquarium Marshall",
-                  "text": "Aquarium Marshall in Lashibi.",
+                  "text": "Aquarium Marshall in Lashibi, a public aquarium with local and exotic fish.",
                   "category": "family",
                   "coords": [
                         -0.059189,
@@ -1602,7 +1872,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Accra Brewery Limited",
-                  "text": "Accra Brewery Limited ist eine Sehenswürdigkeit in Taifa. Es ist eine bekannte Brauerei in Ghana.",
+                  "text": "Accra Brewery Limited ist eine bedeutende ghanaische Brauerei in Taifa, bekannt für die Herstellung von Club Bier.",
                   "category": "landmark",
                   "coords": [
                         -0.235134,
@@ -1622,7 +1892,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Accra Brewery Limited",
-                  "text": "Az Accra Brewery Limited egy látványosság Taifa városában. Ez egy jól ismert sörfőzde Ghánában.",
+                  "text": "Az Accra Brewery Limited egy jelentős ghánai sörfőzde Taifában, híres a Club sör gyártásáról.",
                   "category": "landmark",
                   "coords": [
                         -0.235134,
@@ -1642,7 +1912,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Accra Brewery Limited",
-                  "text": "Accra Brewery Limited este o atracție situată în Taifa. Este o fabrică de bere binecunoscută din Ghana.",
+                  "text": "Accra Brewery Limited este o importantă fabrică de bere din Ghana, în Taifa, cunoscută pentru producerea berii Club.",
                   "category": "landmark",
                   "coords": [
                         -0.235134,
@@ -1662,7 +1932,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Accra Brewery Limited",
-                  "text": "Accra Brewery Limited is an attraction located in Taifa. It is a well-known brewery in Ghana.",
+                  "text": "Accra Brewery Limited is a major Ghanaian brewery in Taifa, known for producing Club beer.",
                   "category": "landmark",
                   "coords": [
                         -0.235134,
@@ -1719,7 +1989,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Gbalɔ Gnɔ Bilɔ Mantse We",
-                  "text": "Gbawe Castle ist eine Burg in der Gegend von Gbawe.",
+                  "text": "Gbawe Castle in Gbawe, ein Gebäude im Stil einer Burg, heute als Veranstaltungsort genutzt.",
                   "category": "castle",
                   "coords": [
                         -0.309229,
@@ -1728,7 +1998,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Prepaid Electricity",
-                  "text": "Prepaid Electricity ist eine lokale Sehenswürdigkeit in Gbawe.",
+                  "text": "Prepaid Electricity in Gbawe, ein Verkaufsstand für Stromguthaben an der Hauptstraße.",
                   "category": "landmark",
                   "coords": [
                         -0.306179,
@@ -1737,7 +2007,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "PrepaidElectric",
-                  "text": "PrepaidElectric ist eine Attraktion in der Stadt Gbawe.",
+                  "text": "PrepaidElectric in Gbawe, ein Automat für Stromkarten neben dem Markt.",
                   "category": "landmark",
                   "coords": [
                         -0.306148,
@@ -1746,7 +2016,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "PrepaidElectricTopBaseTaxiRank",
-                  "text": "PrepaidElectricTopBaseTaxiRank ist eine Sehenswürdigkeit in Gbawe.",
+                  "text": "PrepaidElectricTopBaseTaxiRank in Gbawe, ein Taxistand mit Verkaufsstelle für Stromkarten.",
                   "category": "landmark",
                   "coords": [
                         -0.308879,
@@ -1757,7 +2027,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Gbalɔ Gnɔ Bilɔ Mantse We",
-                  "text": "A Gbawe Castle egy kastély Gbawe területén.",
+                  "text": "Gbawe Kastély Gbawe-ban, egy vár stílusú épület, ma rendezvényhelyszínként használják.",
                   "category": "castle",
                   "coords": [
                         -0.309229,
@@ -1766,7 +2036,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Prepaid Electricity",
-                  "text": "A Prepaid Electricity egy helyi látványosság Gbawe városában.",
+                  "text": "Előre fizetős áram Gbawe-ban, egy áramjegy-árusító stand a főút mellett.",
                   "category": "landmark",
                   "coords": [
                         -0.306179,
@@ -1775,7 +2045,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "PrepaidElectric",
-                  "text": "A PrepaidElectric egy látványosság Gbawe városában.",
+                  "text": "PrepaidElectric Gbawe-ban, egy áramkártya-automata a piac mellett.",
                   "category": "landmark",
                   "coords": [
                         -0.306148,
@@ -1784,7 +2054,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "PrepaidElectricTopBaseTaxiRank",
-                  "text": "A PrepaidElectricTopBaseTaxiRank egy látványosság Gbawe területén.",
+                  "text": "PrepaidElectricTopBaseTaxiRank Gbawe-ban, egy taxállomás áramkártya-értékesítéssel.",
                   "category": "landmark",
                   "coords": [
                         -0.308879,
@@ -1795,7 +2065,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Gbalɔ Gnɔ Bilɔ Mantse We",
-                  "text": "Gbawe Castle este un castel situat în zona Gbawe.",
+                  "text": "Castelul Gbawe din Gbawe, o clădire în stil de castel, acum folosită ca locație pentru evenimente.",
                   "category": "castle",
                   "coords": [
                         -0.309229,
@@ -1804,7 +2074,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Prepaid Electricity",
-                  "text": "Prepaid Electricity este o atracție locală situată în Gbawe.",
+                  "text": "Prepaid Electricity în Gbawe, un stand de vânzare a creditului de electricitate pe strada principală.",
                   "category": "landmark",
                   "coords": [
                         -0.306179,
@@ -1813,7 +2083,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "PrepaidElectric",
-                  "text": "PrepaidElectric este o atracție din orașul Gbawe.",
+                  "text": "PrepaidElectric în Gbawe, un automat pentru carduri de electricitate lângă piață.",
                   "category": "landmark",
                   "coords": [
                         -0.306148,
@@ -1822,7 +2092,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "PrepaidElectricTopBaseTaxiRank",
-                  "text": "PrepaidElectricTopBaseTaxiRank este o atracție situată în Gbawe.",
+                  "text": "PrepaidElectricTopBaseTaxiRank în Gbawe, o stație de taxi cu punct de vânzare a cardurilor de electricitate.",
                   "category": "landmark",
                   "coords": [
                         -0.308879,
@@ -1833,7 +2103,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Gbawe Castle",
-                  "text": "Gbawe Castle is a castle located in the area of Gbawe.",
+                  "text": "Gbawe Castle in Gbawe, a castle-style building now used as an event venue.",
                   "category": "castle",
                   "coords": [
                         -0.309229,
@@ -1842,7 +2112,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Prepaid Electricity",
-                  "text": "Prepaid Electricity is a local attraction situated in Gbawe.",
+                  "text": "Prepaid Electricity in Gbawe, a kiosk selling electricity credit on the main road.",
                   "category": "landmark",
                   "coords": [
                         -0.306179,
@@ -1851,7 +2121,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "PrepaidElectric",
-                  "text": "PrepaidElectric is an attraction found in the city of Gbawe.",
+                  "text": "PrepaidElectric in Gbawe, a vending machine for electricity cards near the market.",
                   "category": "landmark",
                   "coords": [
                         -0.306148,
@@ -1860,7 +2130,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "PrepaidElectricTopBaseTaxiRank",
-                  "text": "PrepaidElectricTopBaseTaxiRank is an attraction situated in Gbawe.",
+                  "text": "PrepaidElectricTopBaseTaxiRank in Gbawe, a taxi rank with an electricity card sales point.",
                   "category": "landmark",
                   "coords": [
                         -0.308879,
@@ -2016,7 +2286,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Statue of Otumfuo Opoku Ware II",
-                  "text": "Denkmal für Otumfuo Opoku Ware II in Tafo.",
+                  "text": "Statue von Otumfuo Opoku Ware II in Tafo, dem 14. Asantehene, auf einem Sockel im Stadtzentrum.",
                   "category": "historical",
                   "coords": [
                         -1.627865,
@@ -2027,7 +2297,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Statue of Otumfuo Opoku Ware II",
-                  "text": "Otumfuo Opoku Ware II emlékműve Tafóban.",
+                  "text": "Otumfuo Opoku Ware II szobra Tafóban, a 14. asantehene szobra egy talapzaton a városközpontban.",
                   "category": "historical",
                   "coords": [
                         -1.627865,
@@ -2038,7 +2308,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Statue of Otumfuo Opoku Ware II",
-                  "text": "Monumentul lui Otumfuo Opoku Ware II în Tafo.",
+                  "text": "Statuia lui Otumfuo Opoku Ware II din Tafo, al 14-lea Asantehene, pe un soclu în centrul orașului.",
                   "category": "historical",
                   "coords": [
                         -1.627865,
@@ -2049,7 +2319,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Statue of Otumfuo Opoku Ware II",
-                  "text": "Statue of Otumfuo Opoku Ware II in Tafo.",
+                  "text": "Statue of Otumfuo Opoku Ware II in Tafo, the 14th Asantehene, on a plinth in the town centre.",
                   "category": "historical",
                   "coords": [
                         -1.627865,
@@ -2133,7 +2403,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Wassa Fiase Traditional Council",
-                  "text": "Das Wassa Fiase Traditional Council ist ein schlossartiges Gebäude in Tarkwa.",
+                  "text": "Das traditionelle Schloss des Wassa Fiase Rates in Tarkwa dient als Sitz der lokalen traditionellen Autorität.",
                   "category": "castle",
                   "coords": [
                         -1.98921,
@@ -2142,7 +2412,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "TNA Park",
-                  "text": "Der TNA Park ist ein vielseitig genutzter Park und ein Stadion in Tarkwa.",
+                  "text": "Der TNA Park ist ein Fußballstadion in Tarkwa, Ghana, Heimstätte des Tarkwa United FC.",
                   "category": "park",
                   "coords": [
                         -1.992364,
@@ -2153,7 +2423,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Wassa Fiase Traditional Council",
-                  "text": "A Wassa Fiase Traditional Council egy kastélyépület Tarkwában.",
+                  "text": "A Wassa Fiase Hagyományos Tanács vára Tarkwában a helyi hagyományos hatalom székhelye.",
                   "category": "castle",
                   "coords": [
                         -1.98921,
@@ -2162,7 +2432,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "TNA Park",
-                  "text": "A TNA Park egy többfunkciós park és stadion Tarkwában.",
+                  "text": "A TNA Park egy labdarúgó-stadion Tarkwában, Ghánában, a Tarkwa United FC otthona.",
                   "category": "park",
                   "coords": [
                         -1.992364,
@@ -2173,7 +2443,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Wassa Fiase Traditional Council",
-                  "text": "Wassa Fiase Traditional Council este un castel situat în Tarkwa.",
+                  "text": "Castelul tradițional al Consiliului Wassa Fiase din Tarkwa servește ca sediu al autorității tradiționale locale.",
                   "category": "castle",
                   "coords": [
                         -1.98921,
@@ -2182,7 +2452,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "TNA Park",
-                  "text": "TNA Park este un parc și un stadion cu utilizare multiplă din Tarkwa.",
+                  "text": "TNA Park este un stadion de fotbal în Tarkwa, Ghana, stadionul echipei Tarkwa United FC.",
                   "category": "park",
                   "coords": [
                         -1.992364,
@@ -2193,7 +2463,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Wassa Fiase Traditional Council",
-                  "text": "The Wassa Fiase Traditional Council is a castle structure located in Tarkwa.",
+                  "text": "The Wassa Fiase Traditional Council castle in Tarkwa serves as the seat of the local traditional authority.",
                   "category": "castle",
                   "coords": [
                         -1.98921,
@@ -2202,7 +2472,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "TNA Park",
-                  "text": "TNA Park is a multi-use park and stadium located in Tarkwa.",
+                  "text": "TNA Park is a football stadium in Tarkwa, Ghana, home to Tarkwa United FC.",
                   "category": "park",
                   "coords": [
                         -1.992364,
@@ -2354,7 +2624,88 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     },
   },
   {
-    id: "winneba-cities-v2", "sights": {"de": [{"name": "Sir Charles Tourist Centre", "text": "Sir Charles Tourist Centre in Winneba.", "category": "recreational", "coords": [-0.625807, 5.331389]}, {"name": "Jah Mighty Beach Resort", "text": "Mit Blick auf das Meer in Winneba ist der Strand am Jah Mighty Beach Resort eine erholsame Oase an der ghanaischen Küste. Gäste erwartet ein einladender Sandstreifen, der sich hervorragend zum Schwimmen oder einfach zum Genießen der Meeresluft eignet. Das Resort-Ambiente sorgt für einen komfortablen Aufenthalt ganz in der Nähe der natürlichen Schönheit des Ozeans. Dies ist ein exzellentes Ziel, um einen faulen Wochenendnachmittag zu verbringen.", "category": "recreational", "coords": [-0.628169, 5.330661]}], "hu": [{"name": "Sir Charles Tourist Centre", "text": "Sir Charles turisztikai központ, Winneba.", "category": "recreational", "coords": [-0.625807, 5.331389]}, {"name": "Jah Mighty Beach Resort", "text": "A Winneba tengerpartján fekvő Jah Mighty Beach Resort strandja egy pihentető menedék Ghána partvidékén. A vendégeket egy hívogató homokos szakasz várja, amely csodálatos úszáshoz vagy a tengerparti levegő élvezetéhez. Az üdülőhelyi hangulat kényelmes időtöltést biztosít, miközben közel maradhatunk az óceán természetes szépségéhez. Kiváló célpont egy lusta hétvégi délután eltöltésére.", "category": "recreational", "coords": [-0.628169, 5.330661]}], "ro": [{"name": "Sir Charles Tourist Centre", "text": "Centrul turistic Sir Charles din Winneba.", "category": "recreational", "coords": [-0.625807, 5.331389]}, {"name": "Jah Mighty Beach Resort", "text": "Cu fața spre mare în Winneba, plaja de la Jah Mighty Beach Resort este un refugiu relaxant pe țărmul ghanez. Oaspeții pot anticipa o întindere de nisip primitor, minunată pentru înot sau pur și simplu pentru a respira aerul de pe coastă. Ambianța stațiunii asigură o ședere confortabilă, rămânând în același timp aproape de frumusețea naturală a oceanului. Este o destinație excelentă pentru a petrece o după-amiază leneșă de weekend.", "category": "recreational", "coords": [-0.628169, 5.330661]}], "en": [{"name": "Sir Charles Tourist Centre", "text": "Sir Charles Tourist Centre in Winneba.", "category": "recreational", "coords": [-0.625807, 5.331389]}, {"name": "Jah Mighty Beach Resort", "text": "Facing the sea in Winneba, the beach at Jah Mighty Beach Resort is a relaxing haven on the Ghanaian shore. Guests can anticipate a stretch of inviting sand that is wonderful for swimming or simply soaking in the coastal air. The resort ambiance ensures a comfortable stay while remaining close to the natural beauty of the ocean. It is an excellent destination to spend a lazy weekend afternoon.", "category": "recreational", "coords": [-0.628169, 5.330661]}]},
+    id: "winneba-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sir Charles Tourist Centre",
+                  "text": "Das Sir Charles Tourist Centre in Winneba ist ein Erholungszentrum für Besucher der Küstenstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.625807,
+                        5.331389
+                  ]
+            },
+            {
+                  "name": "Jah Mighty Beach Resort",
+                  "text": "Mit Blick auf das Meer in Winneba ist der Strand am Jah Mighty Beach Resort eine erholsame Oase an der ghanaischen Küste. Gäste erwartet ein einladender Sandstreifen, der sich hervorragend zum Schwimmen oder einfach zum Genießen der Meeresluft eignet. Das Resort-Ambiente sorgt für einen komfortablen Aufenthalt ganz in der Nähe der natürlichen Schönheit des Ozeans. Dies ist ein exzellentes Ziel, um einen faulen Wochenendnachmittag zu verbringen.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.628169,
+                        5.330661
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sir Charles Tourist Centre",
+                  "text": "A Sir Charles Turisztikai Központ Winnebában a tengerparti város látogatóinak szabadidős központja.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.625807,
+                        5.331389
+                  ]
+            },
+            {
+                  "name": "Jah Mighty Beach Resort",
+                  "text": "A Winneba tengerpartján fekvő Jah Mighty Beach Resort strandja egy pihentető menedék Ghána partvidékén. A vendégeket egy hívogató homokos szakasz várja, amely csodálatos úszáshoz vagy a tengerparti levegő élvezetéhez. Az üdülőhelyi hangulat kényelmes időtöltést biztosít, miközben közel maradhatunk az óceán természetes szépségéhez. Kiváló célpont egy lusta hétvégi délután eltöltésére.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.628169,
+                        5.330661
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sir Charles Tourist Centre",
+                  "text": "Centrul Turistic Sir Charles din Winneba este un centru de recreere pentru vizitatorii orașului de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.625807,
+                        5.331389
+                  ]
+            },
+            {
+                  "name": "Jah Mighty Beach Resort",
+                  "text": "Cu fața spre mare în Winneba, plaja de la Jah Mighty Beach Resort este un refugiu relaxant pe țărmul ghanez. Oaspeții pot anticipa o întindere de nisip primitor, minunată pentru înot sau pur și simplu pentru a respira aerul de pe coastă. Ambianța stațiunii asigură o ședere confortabilă, rămânând în același timp aproape de frumusețea naturală a oceanului. Este o destinație excelentă pentru a petrece o după-amiază leneșă de weekend.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.628169,
+                        5.330661
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sir Charles Tourist Centre",
+                  "text": "The Sir Charles Tourist Centre in Winneba is a recreational center for visitors to the coastal town.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.625807,
+                        5.331389
+                  ]
+            },
+            {
+                  "name": "Jah Mighty Beach Resort",
+                  "text": "Facing the sea in Winneba, the beach at Jah Mighty Beach Resort is a relaxing haven on the Ghanaian shore. Guests can anticipate a stretch of inviting sand that is wonderful for swimming or simply soaking in the coastal air. The resort ambiance ensures a comfortable stay while remaining close to the natural beauty of the ocean. It is an excellent destination to spend a lazy weekend afternoon.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.628169,
+                        5.330661
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GH-CP",
     coords: [-0.6231, 5.3511],
@@ -2538,7 +2889,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Hazard Monument",
-                  "text": "Das Hazard Monument ist ein Denkmal in Effiakuma.",
+                  "text": "Das Hazard-Denkmal in Effiakuma erinnert an ein historisches Ereignis in der Region.",
                   "category": "historical",
                   "coords": [
                         -1.742768,
@@ -2547,7 +2898,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Rotary Club of Sekondi-Takoradi",
-                  "text": "Der Rotary Club of Sekondi-Takoradi ist ein Denkmal in Effiakuma.",
+                  "text": "Der Rotary Club von Sekondi-Takoradi hat seinen historischen Treffpunkt in Effiakuma.",
                   "category": "historical",
                   "coords": [
                         -1.753293,
@@ -2556,7 +2907,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Cheep cigarettes",
-                  "text": "Cheep cigarettes ist ein lokaler Anziehungspunkt in Effiakuma.",
+                  "text": "Das Wahrzeichen „Cheep Cigarettes“ in Effiakuma ist ein bekannter lokaler Laden.",
                   "category": "landmark",
                   "coords": [
                         -1.765365,
@@ -2567,7 +2918,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Hazard Monument",
-                  "text": "A Hazard Monument egy emlékmű Effiakumában.",
+                  "text": "A Hazard-emlékmű Effiakumában a régió egy történelmi eseményére emlékeztet.",
                   "category": "historical",
                   "coords": [
                         -1.742768,
@@ -2576,7 +2927,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Rotary Club of Sekondi-Takoradi",
-                  "text": "A Rotary Club of Sekondi-Takoradi egy emlékmű Effiakumában.",
+                  "text": "A Sekondi-Takoradi Rotary Club történelmi találkozóhelye Effiakumában található.",
                   "category": "historical",
                   "coords": [
                         -1.753293,
@@ -2585,7 +2936,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Cheep cigarettes",
-                  "text": "A Cheep cigarettes egy helyi érdekeltségű pont Effiakumában.",
+                  "text": "A „Cheep Cigarettes” nevezetesség Effiakumában egy ismert helyi bolt.",
                   "category": "landmark",
                   "coords": [
                         -1.765365,
@@ -2596,7 +2947,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Hazard Monument",
-                  "text": "Hazard Monument este un monument situat în Effiakuma.",
+                  "text": "Monumentul Hazard din Effiakuma comemorează un eveniment istoric din regiune.",
                   "category": "historical",
                   "coords": [
                         -1.742768,
@@ -2605,7 +2956,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Rotary Club of Sekondi-Takoradi",
-                  "text": "Rotary Club of Sekondi-Takoradi este un monument situat în Effiakuma.",
+                  "text": "Clubul Rotary din Sekondi-Takoradi își are locul de întâlnire istoric în Effiakuma.",
                   "category": "historical",
                   "coords": [
                         -1.753293,
@@ -2614,7 +2965,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Cheep cigarettes",
-                  "text": "Cheep cigarettes este un punct de atracție local situat în Effiakuma.",
+                  "text": "Reperul „Cheep Cigarettes” din Effiakuma este un magazin local cunoscut.",
                   "category": "landmark",
                   "coords": [
                         -1.765365,
@@ -2625,7 +2976,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Hazard Monument",
-                  "text": "The Hazard Monument is a memorial monument located in Effiakuma.",
+                  "text": "The Hazard Monument in Effiakuma commemorates a historical event in the region.",
                   "category": "historical",
                   "coords": [
                         -1.742768,
@@ -2634,7 +2985,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Rotary Club of Sekondi-Takoradi",
-                  "text": "The Rotary Club of Sekondi-Takoradi is a monument situated in Effiakuma.",
+                  "text": "The Rotary Club of Sekondi-Takoradi has its historic meeting place in Effiakuma.",
                   "category": "historical",
                   "coords": [
                         -1.753293,
@@ -2643,7 +2994,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             },
             {
                   "name": "Cheep cigarettes",
-                  "text": "Cheep cigarettes is a local point of interest located in Effiakuma.",
+                  "text": "The 'Cheep Cigarettes' landmark in Effiakuma is a well-known local shop.",
                   "category": "landmark",
                   "coords": [
                         -1.765365,
@@ -3204,7 +3555,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Veromays",
-                  "text": "Veromays ist ein Schloss in Foso.",
+                  "text": "Die Burg Veromays in Foso ist ein historisches Bauwerk in der Stadt.",
                   "category": "castle",
                   "coords": [
                         -1.277926,
@@ -3215,7 +3566,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Veromays",
-                  "text": "A Veromays egy kastély Foso városában.",
+                  "text": "A Veromays vár Foso városában egy történelmi építmény.",
                   "category": "castle",
                   "coords": [
                         -1.277926,
@@ -3226,7 +3577,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Veromays",
-                  "text": "Veromays este un castel situat în Foso.",
+                  "text": "Castelul Veromays din Foso este o construcție istorică în oraș.",
                   "category": "castle",
                   "coords": [
                         -1.277926,
@@ -3237,7 +3588,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Veromays",
-                  "text": "Veromays is a castle located in Foso.",
+                  "text": "Veromays castle in Foso is a historic structure in the city.",
                   "category": "castle",
                   "coords": [
                         -1.277926,
@@ -3501,7 +3852,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Pachimo Spot Welding and Soldering",
-                  "text": "Pachimo Spot Welding and Soldering ist ein Kunstzentrum in Anloga.",
+                  "text": "Die kulturelle Stätte Pachimo Spot Welding and Soldering in Anloga zeigt traditionelle Schweißtechniken.",
                   "category": "cultural",
                   "coords": [
                         0.891973,
@@ -3512,7 +3863,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Pachimo Spot Welding and Soldering",
-                  "text": "A Pachimo Spot Welding and Soldering egy művészeti központ Anlogában.",
+                  "text": "A Pachimo Spot Welding and Soldering kulturális helyszín Anlogában hagyományos hegesztési technikákat mutat be.",
                   "category": "cultural",
                   "coords": [
                         0.891973,
@@ -3523,7 +3874,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Pachimo Spot Welding and Soldering",
-                  "text": "Pachimo Spot Welding and Soldering este un centru de artă din Anloga.",
+                  "text": "Situl cultural Pachimo Spot Welding and Soldering din Anloga prezintă tehnici tradiționale de sudură.",
                   "category": "cultural",
                   "coords": [
                         0.891973,
@@ -3534,7 +3885,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Pachimo Spot Welding and Soldering",
-                  "text": "Pachimo Spot Welding and Soldering is an arts centre found in Anloga.",
+                  "text": "The Pachimo Spot Welding and Soldering cultural site in Anloga showcases traditional welding techniques.",
                   "category": "cultural",
                   "coords": [
                         0.891973,

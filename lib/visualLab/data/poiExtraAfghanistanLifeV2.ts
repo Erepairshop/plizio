@@ -4,7 +4,88 @@ import type { POI } from "./poi";
 
 export const poiExtraAfghanistanLifeV2: POI[] = [
   {
-    id: "af-bagh-e-babur-life-v2",
+    id: "af-bagh-e-babur-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Babur-Garten",
+                  "text": "Diese historische Parkanlage, die im Jahr 1637 angelegt wurde, ist ein herausragendes terrassiertes Beispiel der klassischen Mogul-Gartenkunst.",
+                  "category": "park",
+                  "coords": [
+                        69.158356,
+                        34.502602
+                  ]
+            },
+            {
+                  "name": "Maqbara-i-Babur Shah",
+                  "text": "Dieses schlichte, unter freiem Himmel gelegene Marmormonument in den historischen Gärten markiert die letzte Ruhestätte des ersten Mogulkaisers Babur.",
+                  "category": "historical",
+                  "coords": [
+                        69.160434,
+                        34.503153
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bagh-e Babur",
+                  "text": "Ez az 1637-ben alapított, teraszos kialakítású történelmi park a klasszikus mogul kertépítészet egyik legszebb fennmaradt példája.",
+                  "category": "park",
+                  "coords": [
+                        69.158356,
+                        34.502602
+                  ]
+            },
+            {
+                  "name": "Maqbara-i-Babur Shah",
+                  "text": "Ez a történelmi kertekben található, nyitott márvány síremlék az első mogul császár, Babur végső nyughelyét jelöli.",
+                  "category": "historical",
+                  "coords": [
+                        69.160434,
+                        34.503153
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bagh-e Babur",
+                  "text": "Acest parc istoric terasat, cu origini datând din 1637, reprezintă un exemplu remarcabil al peisagisticii clasice de tip Mughal.",
+                  "category": "park",
+                  "coords": [
+                        69.158356,
+                        34.502602
+                  ]
+            },
+            {
+                  "name": "Maqbara-i-Babur Shah",
+                  "text": "Acest monument simplu din marmură, situat sub cerul liber în grădinile istorice, marchează locul de odihnă al primului împărat Mughal, Babur.",
+                  "category": "historical",
+                  "coords": [
+                        69.160434,
+                        34.503153
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gardens of Babur",
+                  "text": "Dating back to 1637, this terraced historic park is a prime, preserved example of classical Mughal garden architecture.",
+                  "category": "park",
+                  "coords": [
+                        69.158356,
+                        34.502602
+                  ]
+            },
+            {
+                  "name": "Babur's Grave",
+                  "text": "Located within the historic terraced gardens, this open-air marble monument marks the final resting place of the first Mughal Emperor, Babur.",
+                  "category": "historical",
+                  "coords": [
+                        69.160434,
+                        34.503153
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "AF-KAB",
     coords: [69.1585, 34.5029],
@@ -166,7 +247,52 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
         fr: "La province de Badghis abrite les plus grandes forêts naturelles de pistachiers du pays. Ces forêts anciennes sont essentielles à la subsistance des habitants, qui récoltent les pistaches sauvages lors d'un effort communautaire traditionnel. Les pistaches de Badghis sont réputées pour leur goût plus intense que les variétés cultivées. Malheureusement, ces écosystèmes sont menacés par l'abattage pour le bois de chauffage, le surpâturage et le changement climatique. Autrefois vastes, ces forêts sont réduites à des fragments. Des organisations œuvrent à la reforestation et à une gestion durable pour préserver cette ressource unique et la biodiversité de la région.",
     }, image: "/poi-images/af-pistazien-badghis-life-v2.webp"},
   {
-    id: "af-darul-aman-park-life-v2",
+    id: "af-darul-aman-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Darul-Aman-Palast",
+                  "text": "Die 1927 erbaute Ruine des Darul-Aman-Palastes erhebt sich als monumentales Schloss auf einem Hügel über der Landschaft Kabuls.",
+                  "category": "castle",
+                  "coords": [
+                        69.119391,
+                        34.465103
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Darul Aman Palace",
+                  "text": "Az 1927-ben épült Darul Aman palota romjai monumentális hegytetőn álló kastélyként tekintenek le Kabul tájára.",
+                  "category": "castle",
+                  "coords": [
+                        69.119391,
+                        34.465103
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Darul Aman Palace",
+                  "text": "Construite în 1927, ruinele Palatului Darul Aman se înalță ca un castel monumental pe un deal care domină peisajul Kabulului.",
+                  "category": "castle",
+                  "coords": [
+                        69.119391,
+                        34.465103
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Darul Aman Palace",
+                  "text": "Built in 1927, the ruins of the Darul Aman Palace stand as a monumental hilltop castle overlooking the Kabul landscape.",
+                  "category": "castle",
+                  "coords": [
+                        69.119391,
+                        34.465103
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "AF-KAB",
     coords: [69.1190, 34.4650],
@@ -193,7 +319,52 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
         fr: "Le parc Darul-Aman entoure le majestueux palais du même nom à la périphérie de Kaboul. Le palais, construit à l'origine dans les années 1920 sous le roi Amanullah Khan pour être le cœur d'un nouvel Afghanistan moderne, est resté pendant des décennies une ruine marquée par la guerre. Sa restauration complète et symbolique, achevée en 2019, marque un tournant pour la nation et incarne l'espoir et la reconstruction. Le parc environnant a été réaménagé en un vaste espace vert public. Il propose de larges allées, des jardins soignés et des sentiers de promenade qui sont devenus une destination prisée pour les sorties en famille, les pique-niques et les rencontres sociales. Le site ne sert pas seulement à la détente ; c'est aussi un lieu de fierté nationale et un symbole fort de la résilience et de la volonté inébranlable du peuple afghan de restaurer son patrimoine et de bâtir un avenir pacifique. Lors des fêtes nationales, le parc sert souvent de décor aux cérémonies officielles.",
     }, image: "/poi-images/af-darul-aman-park-life-v2.webp"},
   {
-    id: "af-kabul-city-park-life-v2",
+    id: "af-kabul-city-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abdul Rahman Mosque",
+                  "text": "Diese prächtige Große Moschee von Kabul in der Nähe des Zarnegar-Parks ist eine der größten sunnitischen Kultstätten des Landes.",
+                  "category": "religious",
+                  "coords": [
+                        69.174319,
+                        34.520687
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abdul Rahman Mosque",
+                  "text": "Ez a Zarnegar park közelében álló, lenyűgöző kabuli Nagymecset az ország egyik legnagyobb szunnita imahelye.",
+                  "category": "religious",
+                  "coords": [
+                        69.174319,
+                        34.520687
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abdul Rahman Mosque",
+                  "text": "Situată lângă parcul Zarnegar, această impresionantă Mare Moschee din Kabul este unul dintre cele mai mari lăcașuri de cult sunnite din țară.",
+                  "category": "religious",
+                  "coords": [
+                        69.174319,
+                        34.520687
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abdul Rahman Mosque",
+                  "text": "Located near Zarnegar Park, this prominent Grand Mosque of Kabul stands as one of the largest Sunni places of worship in the country.",
+                  "category": "religious",
+                  "coords": [
+                        69.174319,
+                        34.520687
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "AF-KAB",
     coords: [69.1730, 34.5200],
@@ -220,7 +391,88 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
         fr: "Le Kabul City Park, souvent appelé localement 'Park-e Shahr' (parc de la ville), est l'un des premiers et des plus célèbres parcs d'attractions modernes de la capitale afghane. Dans une ville marquée par des décennies de conflit, ce parc offre un espace rare et précieux de joie insouciante et de normalité. Équipé d'attractions classiques telles qu'une grande roue, qui offre une vue sur les environs, des carrousels et des autos-tamponneuses, le parc est un pôle d'attraction pour les familles et surtout pour les enfants. Les week-ends et pendant les jours fériés, le parc s'anime de rires et de vie. Les lumières colorées des manèges, qui s'allument à la tombée de la nuit, créent une atmosphère festive et presque magique. Le parc est plus qu'un simple lieu de divertissement ; c'est un point de rencontre social important et un symbole des moments de bonheur qui enrichissent la vie quotidienne à Kaboul.",
     }, image: "/poi-images/af-kabul-city-park-life-v2.webp"},
   {
-    id: "af-habibullah-zazi-park-life-v2",
+    id: "af-habibullah-zazi-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Haji Mirzaman, box camera photographer",
+                  "text": "Einer der letzten Straßenfotografen Kabuls, der eine traditionelle Holzkamera verwendet.",
+                  "category": "landmark",
+                  "coords": [
+                        69.233308,
+                        34.509907
+                  ]
+            },
+            {
+                  "name": "Minar-i Chakri",
+                  "text": "Eine antike buddhistische Säule auf einem hohen Gebirgskamm mit Blick auf das Kabul-Tal.",
+                  "category": "historical",
+                  "coords": [
+                        69.283167,
+                        34.583313
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Haji Mirzaman, box camera photographer",
+                  "text": "Kabul egyik utolsó utcai fényképésze, aki hagyományos fa dobozkamerát használ.",
+                  "category": "landmark",
+                  "coords": [
+                        69.233308,
+                        34.509907
+                  ]
+            },
+            {
+                  "name": "Minar-i Chakri",
+                  "text": "Ókori buddhista oszlop egy magas hegygerincen, kilátással a Kabuli-völgyre.",
+                  "category": "historical",
+                  "coords": [
+                        69.283167,
+                        34.583313
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Haji Mirzaman, box camera photographer",
+                  "text": "Unul dintre ultimii fotografi de stradă din Kabul care folosește o cameră tradițională de lemn.",
+                  "category": "landmark",
+                  "coords": [
+                        69.233308,
+                        34.509907
+                  ]
+            },
+            {
+                  "name": "Minar-i Chakri",
+                  "text": "Un stâlp budist antic situat pe o creastă montană înaltă, cu vedere spre valea Kabul.",
+                  "category": "historical",
+                  "coords": [
+                        69.283167,
+                        34.583313
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Haji Mirzaman, box camera photographer",
+                  "text": "One of Kabul's last street photographers using a traditional wooden kamra-e-faoree.",
+                  "category": "landmark",
+                  "coords": [
+                        69.233308,
+                        34.509907
+                  ]
+            },
+            {
+                  "name": "Minar-i Chakri",
+                  "text": "An ancient Buddhist pillar standing on a high mountain ridge overlooking the Kabul valley.",
+                  "category": "historical",
+                  "coords": [
+                        69.283167,
+                        34.583313
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "AF-KAB",
     coords: [69.2300, 34.5100],
@@ -247,7 +499,160 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
         fr: "Le parc Habibullah Zazi est un complexe de loisirs impressionnant et moderne qui domine les collines de l'est de Kaboul. Nommé d'après l'entrepreneur afghan qui l'a développé, ce parc est l'un des plus grands du genre dans le pays. Il combine de vastes espaces verts en terrasses avec une variété de manèges modernes, dont de petites montagnes russes, ce qui en fait une destination unique en Afghanistan. Sa situation surélevée offre aux visiteurs une vue panoramique spectaculaire sur toute la ville de Kaboul, faisant du parc un lieu prisé pour la photographie, notamment pour les mariages. En plus des attractions, le complexe abrite des restaurants et des sentiers de promenade. Le parc Habibullah Zazi est un symbole fort de l'investissement privé, de l'esprit d'entreprise et de la création de loisirs modernes pour la population afghane dans un paysage urbain en pleine mutation.",
     }, image: "/poi-images/af-habibullah-zazi-park-life-v2.webp"},
   {
-    id: "af-shahr-e-naw-park-life-v2",
+    id: "af-shahr-e-naw-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kolola Pushta Fort",
+                  "text": "Diese historische Festungsanlage thront als markantes Wahrzeichen auf einem runden Hügel über dem Stadtviertel Shahr-e-Naw.",
+                  "category": "landmark",
+                  "coords": [
+                        69.16248,
+                        34.539804
+                  ]
+            },
+            {
+                  "name": "Qal`ah-ye Biland",
+                  "text": "Diese hochgelegene, traditionelle Befestigungsanlage in Shahr-e-Naw zeugt von der alten defensiven Architektur der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        69.157163,
+                        34.534955
+                  ]
+            },
+            {
+                  "name": "Shar-i-Naw Park",
+                  "text": "Dieser öffentliche Park im belebten Viertel Shahr-e-Naw dient den Einwohnern als wichtiger, begrünter Erholungsraum.",
+                  "category": "park",
+                  "coords": [
+                        69.168647,
+                        34.533446
+                  ]
+            },
+            {
+                  "name": "Abuzar Qaffari Mosque",
+                  "text": "Diese Moschee nahe dem Park von Shahr-e-Naw ist ein zentraler spiritueller Treffpunkt für die muslimische Gemeinde des Viertels.",
+                  "category": "landmark",
+                  "coords": [
+                        69.165383,
+                        34.535112
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kolola Pushta Fort",
+                  "text": "Ez a történelmi erődítmény jellegzetes mérföldkőként magasodik egy kerek dombon Shahr-e-Naw városnegyede felett.",
+                  "category": "landmark",
+                  "coords": [
+                        69.16248,
+                        34.539804
+                  ]
+            },
+            {
+                  "name": "Qal`ah-ye Biland",
+                  "text": "Ez a magasan fekvő, hagyományos erődítmény Shahr-e-Naw régiójának ősi védelmi építészetét őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        69.157163,
+                        34.534955
+                  ]
+            },
+            {
+                  "name": "Shar-i-Naw Park",
+                  "text": "Ez a Shahr-e-Naw nyüzsgő negyedében található nyilvános park fontos zöld pihenőövezetként szolgál a lakosok számára.",
+                  "category": "park",
+                  "coords": [
+                        69.168647,
+                        34.533446
+                  ]
+            },
+            {
+                  "name": "Abuzar Qaffari Mosque",
+                  "text": "Ez a Shahr-e-Naw parkjához közeli mecset a környékbeli muszlim közösség központi spirituális találkozóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        69.165383,
+                        34.535112
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kolola Pushta Fort",
+                  "text": "Această fortăreață istorică se înalță ca un punct de reper proeminent pe un deal rotund deasupra cartierului Shahr-e-Naw.",
+                  "category": "landmark",
+                  "coords": [
+                        69.16248,
+                        34.539804
+                  ]
+            },
+            {
+                  "name": "Qal`ah-ye Biland",
+                  "text": "Această fortificație tradițională, așezată la înălțime în Shahr-e-Naw, oferă o privire asupra arhitecturii defensive străvechi a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        69.157163,
+                        34.534955
+                  ]
+            },
+            {
+                  "name": "Shar-i-Naw Park",
+                  "text": "Acest parc public din cartierul plin de viață Shahr-e-Naw servește drept un spațiu verde esențial pentru recreerea localnicilor.",
+                  "category": "park",
+                  "coords": [
+                        69.168647,
+                        34.533446
+                  ]
+            },
+            {
+                  "name": "Abuzar Qaffari Mosque",
+                  "text": "Această moschee din apropierea parcului Shahr-e-Naw este un punct central de întâlnire spirituală pentru comunitatea musulmană din cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        69.165383,
+                        34.535112
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kolola Pushta Fort",
+                  "text": "This historic fortress stands as a prominent landmark atop a rounded hill overlooking the Shahr-e-Naw neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        69.16248,
+                        34.539804
+                  ]
+            },
+            {
+                  "name": "Qal`ah-ye Biland",
+                  "text": "This elevated, traditional fortification in Shahr-e-Naw provides a glimpse into the region's ancient defensive architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        69.157163,
+                        34.534955
+                  ]
+            },
+            {
+                  "name": "Shar-i-Naw Park",
+                  "text": "Situated in the bustling Shahr-e-Naw district, this public park provides an essential green recreational space for local residents.",
+                  "category": "park",
+                  "coords": [
+                        69.168647,
+                        34.533446
+                  ]
+            },
+            {
+                  "name": "Abuzar Qaffari Mosque",
+                  "text": "Located near the Shahr-e-Naw park, this mosque is a central spiritual gathering place for the neighborhood's Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        69.165383,
+                        34.535112
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "AF-KAB",
     coords: [69.1700, 34.5320],
@@ -302,7 +707,160 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
     }
   },
   {
-    id: "af-baumwoll-kundus-life-v2",
+    id: "af-baumwoll-kundus-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Höhe 432",
+                  "text": "Von diesem Hügel aus bietet sich ein strategischer Ausblick über die weite Ebene von Kundus.",
+                  "category": "natural",
+                  "coords": [
+                        68.822055,
+                        36.672573
+                  ]
+            },
+            {
+                  "name": "Höhe 431",
+                  "text": "Ein erhöhter Aussichtspunkt nahe Kundus, der weite Sichten über die landwirtschaftlich genutzte Region bietet.",
+                  "category": "natural",
+                  "coords": [
+                        68.814121,
+                        36.68157
+                  ]
+            },
+            {
+                  "name": "Durman Tepe (BALL-309)",
+                  "text": "Ein bedeutender archäologischer Hügel bei Kundus, der Überreste aus der griechisch-baktrischen oder Kuschan-Zeit birgt.",
+                  "category": "historical",
+                  "coords": [
+                        68.814096,
+                        36.675867
+                  ]
+            },
+            {
+                  "name": "Efendi Tepe (BALL-313)",
+                  "text": "Eine archäologische Ausgrabungsstätte auf einem antiken Siedlungshügel in der Region Kundus.",
+                  "category": "historical",
+                  "coords": [
+                        68.769617,
+                        36.75517
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hill 432",
+                  "text": "Erről a dombról stratégiai kilátás nyílik Kunduz tágas síkságára.",
+                  "category": "natural",
+                  "coords": [
+                        68.822055,
+                        36.672573
+                  ]
+            },
+            {
+                  "name": "Hill 431",
+                  "text": "Kunduz közelében található magaslati kilátópont, ahonnan belátni a mezőgazdasági művelés alatt álló régiót.",
+                  "category": "natural",
+                  "coords": [
+                        68.814121,
+                        36.68157
+                  ]
+            },
+            {
+                  "name": "Durman Tepe (BALL-309)",
+                  "text": "Jelentős régészeti domb Kunduz közelében, amely a görög-baktriai vagy kusán korszakból származó maradványokat rejt.",
+                  "category": "historical",
+                  "coords": [
+                        68.814096,
+                        36.675867
+                  ]
+            },
+            {
+                  "name": "Efendi Tepe (BALL-313)",
+                  "text": "Egy ősi településhalmon fekvő régészeti lelőhely Kunduz régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        68.769617,
+                        36.75517
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hill 432",
+                  "text": "De pe acest deal se deschide o vedere strategică asupra vastei câmpii a orașului Kunduz.",
+                  "category": "natural",
+                  "coords": [
+                        68.822055,
+                        36.672573
+                  ]
+            },
+            {
+                  "name": "Hill 431",
+                  "text": "Un punct de observație înalt lângă Kunduz, care oferă vederi largi asupra regiunii agricole.",
+                  "category": "natural",
+                  "coords": [
+                        68.814121,
+                        36.68157
+                  ]
+            },
+            {
+                  "name": "Durman Tepe (BALL-309)",
+                  "text": "O colină arheologică importantă lângă Kunduz, care adăpostește vestigii din perioada greco-bactriană sau kushană.",
+                  "category": "historical",
+                  "coords": [
+                        68.814096,
+                        36.675867
+                  ]
+            },
+            {
+                  "name": "Efendi Tepe (BALL-313)",
+                  "text": "Un sit arheologic situat pe o colină veche din regiunea Kunduz.",
+                  "category": "historical",
+                  "coords": [
+                        68.769617,
+                        36.75517
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hill 432",
+                  "text": "From this hill, a strategic view over the vast Kunduz plain is revealed.",
+                  "category": "natural",
+                  "coords": [
+                        68.822055,
+                        36.672573
+                  ]
+            },
+            {
+                  "name": "Hill 431",
+                  "text": "An elevated vantage point near Kunduz offering broad views over the agricultural region.",
+                  "category": "natural",
+                  "coords": [
+                        68.814121,
+                        36.68157
+                  ]
+            },
+            {
+                  "name": "Durman Tepe (BALL-309)",
+                  "text": "A significant archaeological mound near Kunduz harboring remains from the Greco-Bactrian or Kushan era.",
+                  "category": "historical",
+                  "coords": [
+                        68.814096,
+                        36.675867
+                  ]
+            },
+            {
+                  "name": "Efendi Tepe (BALL-313)",
+                  "text": "An archaeological site located on an ancient settlement mound in the Kunduz region.",
+                  "category": "historical",
+                  "coords": [
+                        68.769617,
+                        36.75517
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "AF-KDZ",
     coords: [68.8600, 36.7200],
@@ -329,7 +887,448 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
         fr: "La province de Kunduz, au nord de l'Afghanistan, est considérée comme le cœur historique de la production nationale de coton et est souvent surnommée le centre de 'l'or blanc' du pays. Depuis des générations, la culture du coton façonne l'économie et la culture de cette région fertile. La récolte est extrêmement exigeante en main-d'œuvre et s'effectue traditionnellement à la main, créant ainsi des milliers d'emplois pour la population rurale pendant la saison. Après la récolte, les fibres brutes sont transformées dans des filatures et des entreprises locales, ce qui constitue une autre contribution importante à la valeur ajoutée locale. Bien que cette culture soit en concurrence avec celle du blé et du riz dans la région, le coton demeure un facteur déterminant pour l'exportation et l'industrie textile. Des programmes étatiques et des initiatives privées s'efforcent de moderniser le secteur en introduisant des variétés améliorées et des méthodes de culture plus modernes afin de renforcer sa compétitivité sur le marché international.",
     }, image: "/poi-images/af-baumwoll-kundus-life-v2.webp"},
   {
-    id: "af-zitrus-dschalalabad-life-v2",
+    id: "af-zitrus-dschalalabad-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tetsu Nakamura",
+                  "text": "Ein Denkmal in Dschalalabad für den japanischen Arzt, der durch Bewässerungsprojekte die Region verwandelte.",
+                  "category": "historical",
+                  "coords": [
+                        70.460129,
+                        34.441736
+                  ]
+            },
+            {
+                  "name": "Gumbazi Masque",
+                  "text": "Eine Moschee in Dschalalabad, die für ihre markante blaue oder sandfarbene Kuppel bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        70.461315,
+                        34.433372
+                  ]
+            },
+            {
+                  "name": "Spin Jumat Masque",
+                  "text": "Die „Weiße Freitagsmoschee“ in Dschalalabad, ein zentraler Ort für das Gebet mit heller Fassade.",
+                  "category": "religious",
+                  "coords": [
+                        70.456328,
+                        34.433575
+                  ]
+            },
+            {
+                  "name": "Park Mosuqe",
+                  "text": "Diese muslimische Gebetsstätte befindet sich inmitten einer weitläufigen Grünanlage im Stadtviertel.",
+                  "category": "landmark",
+                  "coords": [
+                        70.453992,
+                        34.433122
+                  ]
+            },
+            {
+                  "name": "Jwe Haft Masjid Sangi",
+                  "text": "Eine traditionelle Moschee, die sich durch ihre markante Steinkonstruktion in der lokalen Architektur auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        70.426935,
+                        34.427142
+                  ]
+            },
+            {
+                  "name": "Khwaja Sediq Mosque",
+                  "text": "Ein lokales spirituelles Zentrum mit traditionellen Minaretten, das der örtlichen Gemeinschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        70.431003,
+                        34.427921
+                  ]
+            },
+            {
+                  "name": "Mehtarlam Baba Masjid",
+                  "text": "Diese Moschee ist dem verehrten Mehtarlam Baba gewidmet und ein wichtiger religiöser Anlaufpunkt.",
+                  "category": "landmark",
+                  "coords": [
+                        70.433686,
+                        34.428603
+                  ]
+            },
+            {
+                  "name": "Hazrat Anis Bin Malik Masque",
+                  "text": "Eine muslimische Gebetsstätte, die nach einem Gefährten des Propheten benannt ist und lokale Gläubige empfängt.",
+                  "category": "landmark",
+                  "coords": [
+                        70.434785,
+                        34.432586
+                  ]
+            },
+            {
+                  "name": "Abobakar Siddiq Mosque",
+                  "text": "Ein zentraler Ort des Gebets, der nach dem ersten Kalifen des Islam benannt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        70.436251,
+                        34.428285
+                  ]
+            },
+            {
+                  "name": "Tablighan Mosque",
+                  "text": "Ein Zentrum für religiöse Unterweisung und Gebet, das mit der Tabligh-Bewegung verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        70.421106,
+                        34.446074
+                  ]
+            },
+            {
+                  "name": "Shamshad Market",
+                  "text": "Ein lebhafter lokaler Marktplatz, auf dem Kleidung, Elektronik und Haushaltswaren gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        70.43171,
+                        34.424178
+                  ]
+            },
+            {
+                  "name": "jalalabad fruit market",
+                  "text": "Ein großer Freiluftmarkt, der für seine frischen Granatäpfel und Zitrusfrüchte aus der Region bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        70.43476,
+                        34.428527
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tetsu Nakamura",
+                  "text": "Dzsalalábád emlékműve a japán orvos tiszteletére, aki öntözőrendszerek építésével segítette a régiót.",
+                  "category": "historical",
+                  "coords": [
+                        70.460129,
+                        34.441736
+                  ]
+            },
+            {
+                  "name": "Gumbazi Masque",
+                  "text": "Dzsalalábádi mecset, amely jellegzetes kék vagy homokszínű kupolájáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        70.461315,
+                        34.433372
+                  ]
+            },
+            {
+                  "name": "Spin Jumat Masque",
+                  "text": "Dzsalalábád „Fehér Pénteki Mecsetje”, a közösségi ima központi helyszíne világos homlokzattal.",
+                  "category": "religious",
+                  "coords": [
+                        70.456328,
+                        34.433575
+                  ]
+            },
+            {
+                  "name": "Park Mosuqe",
+                  "text": "Ez a muszlim imaház a városnegyed egyik tágas parkjának területén található.",
+                  "category": "landmark",
+                  "coords": [
+                        70.453992,
+                        34.433122
+                  ]
+            },
+            {
+                  "name": "Jwe Haft Masjid Sangi",
+                  "text": "Hagyományos mecset, amely jellegzetes kőszerkezetével tűnik ki a helyi építészetben.",
+                  "category": "landmark",
+                  "coords": [
+                        70.426935,
+                        34.427142
+                  ]
+            },
+            {
+                  "name": "Khwaja Sediq Mosque",
+                  "text": "Helyi spirituális központ hagyományos minaretekkel, amely a helyi közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        70.431003,
+                        34.427921
+                  ]
+            },
+            {
+                  "name": "Mehtarlam Baba Masjid",
+                  "text": "Ezt a mecsetet a tisztelt Mehtarlam Babának szentelték, és fontos vallási helyszín.",
+                  "category": "landmark",
+                  "coords": [
+                        70.433686,
+                        34.428603
+                  ]
+            },
+            {
+                  "name": "Hazrat Anis Bin Malik Masque",
+                  "text": "A próféta egyik társáról elnevezett muszlim imaház, amely a helyi hívőket fogadja.",
+                  "category": "landmark",
+                  "coords": [
+                        70.434785,
+                        34.432586
+                  ]
+            },
+            {
+                  "name": "Abobakar Siddiq Mosque",
+                  "text": "A központi imádság helyszíne, amelyet az iszlám első kalifájáról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        70.436251,
+                        34.428285
+                  ]
+            },
+            {
+                  "name": "Tablighan Mosque",
+                  "text": "A vallási oktatás és imádság központja, amely a Tabligh mozgalomhoz kapcsolódik.",
+                  "category": "landmark",
+                  "coords": [
+                        70.421106,
+                        34.446074
+                  ]
+            },
+            {
+                  "name": "Shamshad Market",
+                  "text": "Nyüzsgő helyi piactér, ahol ruházati cikkeket, elektronikai eszközöket és háztartási árukat árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        70.43171,
+                        34.424178
+                  ]
+            },
+            {
+                  "name": "jalalabad fruit market",
+                  "text": "Hatalmas szabadtéri piac, amely a régióból származó friss gránátalmájáról és citrusféléiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        70.43476,
+                        34.428527
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tetsu Nakamura",
+                  "text": "Un monument din Jalalabad dedicat medicului japonez care a transformat regiunea prin proiecte de irigații.",
+                  "category": "historical",
+                  "coords": [
+                        70.460129,
+                        34.441736
+                  ]
+            },
+            {
+                  "name": "Gumbazi Masque",
+                  "text": "O moschee din Jalalabad cunoscută pentru cupola sa distinctivă de culoare albastră sau a nisipului.",
+                  "category": "religious",
+                  "coords": [
+                        70.461315,
+                        34.433372
+                  ]
+            },
+            {
+                  "name": "Spin Jumat Masque",
+                  "text": "„Moscheea Albă de Vineri” din Jalalabad, un loc central de rugăciune cu o fațadă luminoasă.",
+                  "category": "religious",
+                  "coords": [
+                        70.456328,
+                        34.433575
+                  ]
+            },
+            {
+                  "name": "Park Mosuqe",
+                  "text": "Această moschee este situată în mijlocul unei zone verzi spațioase din cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        70.453992,
+                        34.433122
+                  ]
+            },
+            {
+                  "name": "Jwe Haft Masjid Sangi",
+                  "text": "O moschee tradițională care se remarcă prin construcția sa din piatră în arhitectura locală.",
+                  "category": "landmark",
+                  "coords": [
+                        70.426935,
+                        34.427142
+                  ]
+            },
+            {
+                  "name": "Khwaja Sediq Mosque",
+                  "text": "Un centru spiritual local cu minarete tradiționale, care deservește comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        70.431003,
+                        34.427921
+                  ]
+            },
+            {
+                  "name": "Mehtarlam Baba Masjid",
+                  "text": "Această moschee este dedicată veneratului Mehtarlam Baba și reprezintă un punct religios important.",
+                  "category": "landmark",
+                  "coords": [
+                        70.433686,
+                        34.428603
+                  ]
+            },
+            {
+                  "name": "Hazrat Anis Bin Malik Masque",
+                  "text": "Un lăcaș de cult musulman numit după un însoțitor al Profetului, care primește credincioșii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        70.434785,
+                        34.432586
+                  ]
+            },
+            {
+                  "name": "Abobakar Siddiq Mosque",
+                  "text": "Un loc central de rugăciune, numit după primul calif al Islamului.",
+                  "category": "landmark",
+                  "coords": [
+                        70.436251,
+                        34.428285
+                  ]
+            },
+            {
+                  "name": "Tablighan Mosque",
+                  "text": "Un centru pentru instruire religioasă și rugăciune, asociat cu mișcarea Tabligh.",
+                  "category": "landmark",
+                  "coords": [
+                        70.421106,
+                        34.446074
+                  ]
+            },
+            {
+                  "name": "Shamshad Market",
+                  "text": "O piață locală plină de viață, unde se comercializează îmbrăcăminte, electronice și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        70.43171,
+                        34.424178
+                  ]
+            },
+            {
+                  "name": "jalalabad fruit market",
+                  "text": "O piață mare în aer liber, renumită pentru rodiile și citricele proaspete din regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        70.43476,
+                        34.428527
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tetsu Nakamura",
+                  "text": "A monument in Jalalabad dedicated to the Japanese doctor who transformed the region through irrigation projects.",
+                  "category": "historical",
+                  "coords": [
+                        70.460129,
+                        34.441736
+                  ]
+            },
+            {
+                  "name": "Gumbazi Masque",
+                  "text": "A mosque in Jalalabad known for its prominent blue or sand-colored dome.",
+                  "category": "religious",
+                  "coords": [
+                        70.461315,
+                        34.433372
+                  ]
+            },
+            {
+                  "name": "Spin Jumat Masque",
+                  "text": "The \"White Friday Mosque\" in Jalalabad, a central place for prayer with a bright facade.",
+                  "category": "religious",
+                  "coords": [
+                        70.456328,
+                        34.433575
+                  ]
+            },
+            {
+                  "name": "Park Mosuqe",
+                  "text": "This Muslim place of worship is situated within a spacious green park area in the district.",
+                  "category": "landmark",
+                  "coords": [
+                        70.453992,
+                        34.433122
+                  ]
+            },
+            {
+                  "name": "Jwe Haft Masjid Sangi",
+                  "text": "A traditional mosque distinguished by its prominent stone construction in the local architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        70.426935,
+                        34.427142
+                  ]
+            },
+            {
+                  "name": "Khwaja Sediq Mosque",
+                  "text": "A local spiritual center with traditional minarets serving the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        70.431003,
+                        34.427921
+                  ]
+            },
+            {
+                  "name": "Mehtarlam Baba Masjid",
+                  "text": "This mosque is dedicated to the revered Mehtarlam Baba and serves as a significant religious site.",
+                  "category": "landmark",
+                  "coords": [
+                        70.433686,
+                        34.428603
+                  ]
+            },
+            {
+                  "name": "Hazrat Anis Bin Malik Masque",
+                  "text": "A Muslim place of worship named after a companion of the Prophet, welcoming local worshippers.",
+                  "category": "landmark",
+                  "coords": [
+                        70.434785,
+                        34.432586
+                  ]
+            },
+            {
+                  "name": "Abobakar Siddiq Mosque",
+                  "text": "A central place of prayer named after the first caliph of Islam.",
+                  "category": "landmark",
+                  "coords": [
+                        70.436251,
+                        34.428285
+                  ]
+            },
+            {
+                  "name": "Tablighan Mosque",
+                  "text": "A center for religious instruction and prayer associated with the Tabligh movement.",
+                  "category": "landmark",
+                  "coords": [
+                        70.421106,
+                        34.446074
+                  ]
+            },
+            {
+                  "name": "Shamshad Market",
+                  "text": "A bustling local marketplace trading in clothing, electronics, and household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        70.43171,
+                        34.424178
+                  ]
+            },
+            {
+                  "name": "jalalabad fruit market",
+                  "text": "A large open-air market famous for its fresh pomegranates and citrus fruits from the region.",
+                  "category": "cultural",
+                  "coords": [
+                        70.43476,
+                        34.428527
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "AF-NAN",
     coords: [70.4500, 34.4300],
@@ -356,7 +1355,88 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
         fr: "La ville de Jalalabad et la province de Nangarhar, dans l'est de l'Afghanistan, bénéficient d'un climat presque subtropical unique. Ces conditions font de la région le lieu idéal pour la culture des agrumes. Souvent surnommée le « jardin de l'Afghanistan », la zone est célèbre pour ses vergers d'oranges, de citrons et de pamplemousses. La variété d'orange « Kinnow » est particulièrement réputée pour sa sucrosité. La récolte à la fin de l'automne est un moment clé pour l'économie locale, les fruits étant exportés vers le Pakistan et les pays voisins. Les vergers bordés de cyprès façonnent le paysage et symbolisent la fertilité de cette région afghane singulière.",
     }, image: "/poi-images/af-zitrus-dschalalabad-life-v2.webp"},
   {
-    id: "af-kartoffeln-bamiyan-life-v2",
+    id: "af-kartoffeln-bamiyan-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kalai Ghamai Caves",
+                  "text": "Antike künstliche Höhlen, die in die weichen Felswände des Bamiyan-Tals gehauen wurden.",
+                  "category": "natural",
+                  "coords": [
+                        67.787334,
+                        34.820305
+                  ]
+            },
+            {
+                  "name": "Qoul-I Akram Caves",
+                  "text": "Historische klösterliche Höhlenwohnungen, die von buddhistischen Mönchen in der Region Bamiyan genutzt wurden.",
+                  "category": "natural",
+                  "coords": [
+                        67.798613,
+                        34.823819
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalai Ghamai Caves",
+                  "text": "A Bámiján-völgy puha sziklafalaiba vájt ókori mesterséges barlangok.",
+                  "category": "natural",
+                  "coords": [
+                        67.787334,
+                        34.820305
+                  ]
+            },
+            {
+                  "name": "Qoul-I Akram Caves",
+                  "text": "Buddhista szerzetesek által használt történelmi kolostori barlanglakások Bámiján régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        67.798613,
+                        34.823819
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalai Ghamai Caves",
+                  "text": "Peșteri artificiale antice săpate în stâncile moi din Valea Bamiyan.",
+                  "category": "natural",
+                  "coords": [
+                        67.787334,
+                        34.820305
+                  ]
+            },
+            {
+                  "name": "Qoul-I Akram Caves",
+                  "text": "Locuințe rupestre monahale istorice folosite de călugării budiști în regiunea Bamiyan.",
+                  "category": "natural",
+                  "coords": [
+                        67.798613,
+                        34.823819
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kalai Ghamai Caves",
+                  "text": "Ancient artificial caves carved into the soft rock cliffs of the Bamiyan Valley.",
+                  "category": "natural",
+                  "coords": [
+                        67.787334,
+                        34.820305
+                  ]
+            },
+            {
+                  "name": "Qoul-I Akram Caves",
+                  "text": "Historical monastic cave dwellings used by Buddhist monks in the Bamiyan region.",
+                  "category": "natural",
+                  "coords": [
+                        67.798613,
+                        34.823819
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "AF-BAM",
     coords: [67.8200, 34.8200],
@@ -464,7 +1544,52 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
         fr: "La réserve de faune du Grand Pamir est située au cœur du corridor du Wakhan, à l'extrême nord-est de l'Afghanistan. Cette région extrêmement élevée et isolée, souvent surnommée le 'toit du monde', est un plateau culminant à plus de 4 000 mètres d'altitude. La réserve revêt une importance mondiale pour la protection du célèbre mouflon de Marco Polo, réputé pour ses impressionnantes cornes en spirale pouvant atteindre 1,90 mètre de long. Outre ces animaux majestueux, le Grand Pamir offre également un habitat essentiel à d'autres espèces rares comme la panthère des neiges et le bouquetin de Sibérie. La région est habitée par des communautés nomades Wakhi et Kirghizes qui pratiquent un mode de vie pastoral traditionnel. Depuis 2014, la réserve fait partie du parc national du Wakhan, le deuxième parc national d'Afghanistan. Les conditions climatiques rudes et l'isolement ont contribué à préserver cet écosystème de haute montagne unique.",
     }, image: "/poi-images/af-grosses-pamir-life-v2.webp"},
   {
-    id: "af-mazar-park-life-v2",
+    id: "af-mazar-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Eshane Uraq Shrine",
+                  "text": "Ein spiritueller Schrein für lokale Pilger in der Nähe des Mazar-Parks.",
+                  "category": "landmark",
+                  "coords": [
+                        67.117436,
+                        36.700331
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eshane Uraq Shrine",
+                  "text": "Helyi zarándokhelyként tisztelt szentély a Mazar-park közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        67.117436,
+                        36.700331
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Eshane Uraq Shrine",
+                  "text": "Un altar spiritual venerat pentru pelerinaje locale, situat lângă parcul Mazar.",
+                  "category": "landmark",
+                  "coords": [
+                        67.117436,
+                        36.700331
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Eshane Uraq Shrine",
+                  "text": "A spiritual shrine and local pilgrimage site located near the Mazar Park.",
+                  "category": "landmark",
+                  "coords": [
+                        67.117436,
+                        36.700331
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "AF-BAL",
     coords: [67.1100, 36.7000],
@@ -491,7 +1616,52 @@ export const poiExtraAfghanistanLifeV2: POI[] = [
         fr: "Le parc familial de Mazar-e Sharif est un espace vert vibrant au cœur de la quatrième ville d'Afghanistan. Situé à proximité immédiate de la célèbre Mosquée Bleue, il est facilement accessible aux habitants et aux pèlerins. Le parc est un lieu de rencontre social majeur où les familles se retrouvent pour pique-niquer et se détendre. Lors du Nowruz, le Nouvel An perse au printemps, le parc déborde de vie et de festivités. Avec ses aires de jeux, ses petites attractions et ses stands de spécialités locales, il offre des divertissements pour tous les âges. C'est un microcosme de la vie urbaine du nord de l'Afghanistan, reflétant l'atmosphère paisible et animée de la ville.",
     }, image: "/poi-images/af-mazar-park-life-v2.webp"},
   {
-    id: "af-mandeln-samangan-life-v2",
+    id: "af-mandeln-samangan-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Takht-e Rostam",
+                  "text": "Takht-e Rostam ist eine anerkannte Kulturerbe-Attraktion mit einem beeindruckenden antiken Stupa, der direkt in das Grundgestein gehauen wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        68.022153,
+                        36.245749
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Takht-e Rostam",
+                  "text": "A Takht-e Rostam egy elismert örökségi látványosság, amely egy lenyűgöző, közvetlenül az alapkőzetbe vájt ősi sztúpával rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        68.022153,
+                        36.245749
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Takht-e Rostam",
+                  "text": "Takht-e Rostam este o atracție de patrimoniu recunoscută, care prezintă o stupă antică impresionantă sculptată direct în roca de bază.",
+                  "category": "landmark",
+                  "coords": [
+                        68.022153,
+                        36.245749
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Takht-e Rostam",
+                  "text": "Takht-e Rostam is a recognized heritage attraction featuring an impressive ancient stupa carved directly into the bedrock.",
+                  "category": "landmark",
+                  "coords": [
+                        68.022153,
+                        36.245749
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "AF-SAM",
     coords: [68.0100, 36.2600],

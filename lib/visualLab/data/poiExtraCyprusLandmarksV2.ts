@@ -439,7 +439,7 @@ export const cyprusLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Phinikoudes",
-                  "text": "Phinikoudes ist ein Strand bei Larnaca.",
+                  "text": "Uferpromenade in Larnaka mit Palmen und Cafés.",
                   "category": "recreational",
                   "coords": [
                         33.638679,
@@ -450,7 +450,7 @@ export const cyprusLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Phinikoudes",
-                  "text": "A Phinikoudes egy strand Larnaca közelében.",
+                  "text": "Tengerparti sétány Larnacában, pálmafákkal és kávézókkal.",
                   "category": "recreational",
                   "coords": [
                         33.638679,
@@ -461,7 +461,7 @@ export const cyprusLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Phinikoudes",
-                  "text": "Phinikoudes este o plajă lângă Larnaca.",
+                  "text": "Promenada de pe malul mării din Larnaca, cu palmieri și cafenele.",
                   "category": "recreational",
                   "coords": [
                         33.638679,
@@ -472,7 +472,7 @@ export const cyprusLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Phinikoudes",
-                  "text": "Phinikoudes is a beach near Larnaca.",
+                  "text": "Beachfront promenade in Larnaca, lined with palm trees and cafes.",
                   "category": "recreational",
                   "coords": [
                         33.638679,

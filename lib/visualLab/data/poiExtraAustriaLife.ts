@@ -87,7 +87,7 @@ export const poiExtraAustriaLife: POI[] = [
             },
             {
                   "name": "Hörndlwand",
-                  "text": "Die Hörndlwand ist ein markanter Berg in den Chiemgauer Alpen nahe Ferleiten.",
+                  "text": "Die Hörndlwand ist eine Felswand im Ferleiten Wildlife & Adventure Park in Salzburg.",
                   "category": "landmark",
                   "coords": [
                         12.801814,
@@ -152,7 +152,7 @@ export const poiExtraAustriaLife: POI[] = [
             },
             {
                   "name": "Hörndlwand",
-                  "text": "A Hörndlwand egy jellegzetes hegycsúcs a Chiemgaui-Alpokban, Ferleiten közelében.",
+                  "text": "A Hörndlwand egy sziklafal a Salzburgi Ferleiten Vadvédelmi és Kalandparkban.",
                   "category": "landmark",
                   "coords": [
                         12.801814,
@@ -217,7 +217,7 @@ export const poiExtraAustriaLife: POI[] = [
             },
             {
                   "name": "Hörndlwand",
-                  "text": "Hörndlwand este un munte proeminent în Alpii Chiemgau, situat în apropiere de Ferleiten.",
+                  "text": "Hörndlwand este o stâncă în Parcul de Vânătoare și Aventură Ferleiten din Salzburg.",
                   "category": "landmark",
                   "coords": [
                         12.801814,
@@ -282,7 +282,7 @@ export const poiExtraAustriaLife: POI[] = [
             },
             {
                   "name": "Hörndlwand",
-                  "text": "The Hörndlwand is a prominent mountain in the Chiemgau Alps near Ferleiten.",
+                  "text": "Hörndlwand is a rock face at Ferleiten Wildlife & Adventure Park in Salzburg.",
                   "category": "landmark",
                   "coords": [
                         12.801814,
@@ -372,7 +372,7 @@ export const poiExtraAustriaLife: POI[] = [
       "de": [
             {
                   "name": "Familienland Pillersee",
-                  "text": "Ein Erlebnispark für Familien im Pillerseetal.",
+                  "text": "Familienpark mit Spielplätzen und Minigolf im Pillerseetal.",
                   "category": "recreational",
                   "coords": [
                         12.556601,
@@ -381,7 +381,7 @@ export const poiExtraAustriaLife: POI[] = [
             },
             {
                   "name": "Unterberg",
-                  "text": "Ein Gipfel in den Waidringer Alpen im Pillerseetal.",
+                  "text": "Der Unterberg ist ein Berg in den Waidringer Alpen im Pillerseetal.",
                   "category": "landmark",
                   "coords": [
                         12.603889,
@@ -399,7 +399,7 @@ export const poiExtraAustriaLife: POI[] = [
             },
             {
                   "name": "Kirchl",
-                  "text": "Ein Berggipfel in der Region Pillerseetal.",
+                  "text": "Der Kirchl ist eine Felsformation im Pillerseetal, die einer kleinen Kirche ähnelt.",
                   "category": "landmark",
                   "coords": [
                         12.627965,
@@ -462,7 +462,7 @@ export const poiExtraAustriaLife: POI[] = [
             },
             {
                   "name": "Freibad",
-                  "text": "Ein öffentliches Freibad für sommerliches Schwimmvergnügen im Freien.",
+                  "text": "Freibad mit Rutschen und Liegewiesen im Familienland Pillersee.",
                   "category": "recreational",
                   "coords": [
                         12.537615,
@@ -482,7 +482,7 @@ export const poiExtraAustriaLife: POI[] = [
       "hu": [
             {
                   "name": "Familienland Pillersee",
-                  "text": "Családi élménypark a Pillersee-völgyben.",
+                  "text": "Családi park játszóterekkel és minigolffal a Pillerseetalban.",
                   "category": "recreational",
                   "coords": [
                         12.556601,
@@ -491,7 +491,7 @@ export const poiExtraAustriaLife: POI[] = [
             },
             {
                   "name": "Unterberg",
-                  "text": "Hegycsúcs a Waidringi-Alpokban, a Pillersee-völgy felett.",
+                  "text": "Az Unterberg egy hegy a Waidringi-Alpokban, a Pillerseetalban.",
                   "category": "landmark",
                   "coords": [
                         12.603889,
@@ -509,7 +509,7 @@ export const poiExtraAustriaLife: POI[] = [
             },
             {
                   "name": "Kirchl",
-                  "text": "Hegycsúcs a Pillersee-völgy régiójában.",
+                  "text": "A Kirchl egy kis templomra emlékeztető sziklaalakzat a Pillerseetalban.",
                   "category": "landmark",
                   "coords": [
                         12.627965,
@@ -572,7 +572,7 @@ export const poiExtraAustriaLife: POI[] = [
             },
             {
                   "name": "Freibad",
-                  "text": "Nyilvános szabadtéri fürdő a nyári úszás öröméért.",
+                  "text": "Szabadtéri uszoda csúszdákkal és napozórétekkel a Pillersee Családi Földön.",
                   "category": "recreational",
                   "coords": [
                         12.537615,
@@ -592,7 +592,7 @@ export const poiExtraAustriaLife: POI[] = [
       "ro": [
             {
                   "name": "Familienland Pillersee",
-                  "text": "Un parc de distracții pentru familii în Valea Pillersee.",
+                  "text": "Parc de familie cu locuri de joacă și minigolf în valea Pillersee.",
                   "category": "recreational",
                   "coords": [
                         12.556601,
@@ -601,7 +601,7 @@ export const poiExtraAustriaLife: POI[] = [
             },
             {
                   "name": "Unterberg",
-                  "text": "Un vârf în Alpii Waidring din zona Pillerseetal.",
+                  "text": "Unterberg este un munte în Alpii Waidring, în valea Pillerseetal.",
                   "category": "landmark",
                   "coords": [
                         12.603889,
@@ -619,7 +619,7 @@ export const poiExtraAustriaLife: POI[] = [
             },
             {
                   "name": "Kirchl",
-                  "text": "Un vârf muntos în regiunea Pillerseetal.",
+                  "text": "Kirchl este o formațiune stâncoasă care amintește de o bisericuță în valea Pillerseetal.",
                   "category": "landmark",
                   "coords": [
                         12.627965,
@@ -682,7 +682,7 @@ export const poiExtraAustriaLife: POI[] = [
             },
             {
                   "name": "Freibad",
-                  "text": "O piscină publică în aer liber pentru plăcerea înotului pe timp de vară.",
+                  "text": "Piscină în aer liber cu tobogane și zone de plajă în Ținutul Familiei Pillersee.",
                   "category": "recreational",
                   "coords": [
                         12.537615,
@@ -702,7 +702,7 @@ export const poiExtraAustriaLife: POI[] = [
       "en": [
             {
                   "name": "Familienland Pillersee",
-                  "text": "A family amusement park in the Pillersee Valley.",
+                  "text": "Family park with playgrounds and mini-golf in the Pillersee valley.",
                   "category": "recreational",
                   "coords": [
                         12.556601,
@@ -711,7 +711,7 @@ export const poiExtraAustriaLife: POI[] = [
             },
             {
                   "name": "Unterberg",
-                  "text": "A peak in the Waidring Alps in the Pillerseetal area.",
+                  "text": "Unterberg is a mountain in the Waidringer Alps, part of the Pillerseetal region.",
                   "category": "landmark",
                   "coords": [
                         12.603889,
@@ -729,7 +729,7 @@ export const poiExtraAustriaLife: POI[] = [
             },
             {
                   "name": "Kirchl",
-                  "text": "A mountain peak in the Pillerseetal region.",
+                  "text": "Kirchl is a rock formation in the Pillerseetal valley resembling a small church.",
                   "category": "landmark",
                   "coords": [
                         12.627965,
@@ -792,7 +792,7 @@ export const poiExtraAustriaLife: POI[] = [
             },
             {
                   "name": "Freibad",
-                  "text": "A public outdoor pool for summer swimming enjoyment.",
+                  "text": "Outdoor swimming pool with slides and sunbathing areas at Family Land Pillersee.",
                   "category": "recreational",
                   "coords": [
                         12.537615,
@@ -924,7 +924,7 @@ export const poiExtraAustriaLife: POI[] = [
             },
             {
                   "name": "Plattenkogel",
-                  "text": "Ein beliebter Aussichtsberg in der Nähe von Krimml.",
+                  "text": "Der Plattenkogel ist ein Gipfel in den Hohen Tauern nahe den Krimmler Wasserfällen.",
                   "category": "landmark",
                   "coords": [
                         12.135277,
@@ -933,7 +933,7 @@ export const poiExtraAustriaLife: POI[] = [
             },
             {
                   "name": "Wildkarspitze",
-                  "text": "Ein Gipfel in den Zillertaler Alpen nahe Krimml.",
+                  "text": "Die Wildkarspitze ist ein Gipfel in den Krimmler Wasserwelten mit einem wilden Kar.",
                   "category": "landmark",
                   "coords": [
                         12.138801,
@@ -942,7 +942,7 @@ export const poiExtraAustriaLife: POI[] = [
             },
             {
                   "name": "Arbeskopf",
-                  "text": "Ein Berggipfel in der Gebirgsregion um Krimml.",
+                  "text": "Der Arbeskopf ist ein kopfartiger Gipfel in den Krimmler Wasserwelten mit Blick auf die Wasserfälle.",
                   "category": "landmark",
                   "coords": [
                         12.154689,
@@ -951,7 +951,7 @@ export const poiExtraAustriaLife: POI[] = [
             },
             {
                   "name": "Hütteltalkopf",
-                  "text": "Ein Gipfel in der alpinen Landschaft der Hohen Tauern.",
+                  "text": "Der Hütteltalkopf ist ein Hügel in den Krimmler Wasserwelten, benannt nach einer kleinen Hütte im Tal.",
                   "category": "landmark",
                   "coords": [
                         12.207437,
@@ -998,7 +998,7 @@ export const poiExtraAustriaLife: POI[] = [
             },
             {
                   "name": "Plattenkogel",
-                  "text": "Népszerű kilátóhegy Krimml közelében.",
+                  "text": "A Plattenkogel egy csúcs a Hohe Tauernben, a Krimmli-vízesések közelében.",
                   "category": "landmark",
                   "coords": [
                         12.135277,
@@ -1007,7 +1007,7 @@ export const poiExtraAustriaLife: POI[] = [
             },
             {
                   "name": "Wildkarspitze",
-                  "text": "Hegycsúcs a Zillertali-Alpokban, Krimml közelében.",
+                  "text": "A Wildkarspitze egy csúcs a Krimmli Vízi Világokban, vad kárral.",
                   "category": "landmark",
                   "coords": [
                         12.138801,
@@ -1016,7 +1016,7 @@ export const poiExtraAustriaLife: POI[] = [
             },
             {
                   "name": "Arbeskopf",
-                  "text": "Hegycsúcs a Krimml környéki hegyvidéken.",
+                  "text": "Az Arbeskopf egy fej alakú csúcs a Krimmli Vízi Világokban, a vízesésekre néző kilátással.",
                   "category": "landmark",
                   "coords": [
                         12.154689,
@@ -1025,7 +1025,7 @@ export const poiExtraAustriaLife: POI[] = [
             },
             {
                   "name": "Hütteltalkopf",
-                  "text": "Hegycsúcs a Magas-Tauern alpesi táján.",
+                  "text": "A Hütteltalkopf egy domb a Krimmli Vízi Világokban, amely nevét egy völgyben lévő kis kunyhóról kapta.",
                   "category": "landmark",
                   "coords": [
                         12.207437,
@@ -1072,7 +1072,7 @@ export const poiExtraAustriaLife: POI[] = [
             },
             {
                   "name": "Plattenkogel",
-                  "text": "Un munte cu belvedere popular situat în apropiere de Krimml.",
+                  "text": "Plattenkogel este un vârf în Hohe Tauern, lângă Cascadele Krimml.",
                   "category": "landmark",
                   "coords": [
                         12.135277,
@@ -1081,7 +1081,7 @@ export const poiExtraAustriaLife: POI[] = [
             },
             {
                   "name": "Wildkarspitze",
-                  "text": "Un vârf din Alpii Zillertal, situat lângă Krimml.",
+                  "text": "Vârful Wildkarspitze este un pisc în Lumea Apelor Krimml, cu un circ glaciar sălbatic.",
                   "category": "landmark",
                   "coords": [
                         12.138801,
@@ -1090,7 +1090,7 @@ export const poiExtraAustriaLife: POI[] = [
             },
             {
                   "name": "Arbeskopf",
-                  "text": "Un vârf muntos din regiunea montană din jurul localității Krimml.",
+                  "text": "Arbeskopf este un vârf în formă de cap din Lumea Apelor Krimml, cu vedere spre cascade.",
                   "category": "landmark",
                   "coords": [
                         12.154689,
@@ -1099,7 +1099,7 @@ export const poiExtraAustriaLife: POI[] = [
             },
             {
                   "name": "Hütteltalkopf",
-                  "text": "Un vârf din peisajul alpin al masivului Hohe Tauern.",
+                  "text": "Hütteltalkopf este un deal din Lumea Apelor Krimml, numit după o căsuță din vale.",
                   "category": "landmark",
                   "coords": [
                         12.207437,
@@ -1146,7 +1146,7 @@ export const poiExtraAustriaLife: POI[] = [
             },
             {
                   "name": "Plattenkogel",
-                  "text": "A popular panoramic mountain located near Krimml.",
+                  "text": "Plattenkogel is a peak in the Hohe Tauern near the Krimml Waterfalls.",
                   "category": "landmark",
                   "coords": [
                         12.135277,
@@ -1155,7 +1155,7 @@ export const poiExtraAustriaLife: POI[] = [
             },
             {
                   "name": "Wildkarspitze",
-                  "text": "A peak in the Zillertal Alps near Krimml.",
+                  "text": "Wildkarspitze is a peak in the Krimml Water Worlds featuring a wild cirque.",
                   "category": "landmark",
                   "coords": [
                         12.138801,
@@ -1164,7 +1164,7 @@ export const poiExtraAustriaLife: POI[] = [
             },
             {
                   "name": "Arbeskopf",
-                  "text": "A mountain peak in the alpine region around Krimml.",
+                  "text": "Arbeskopf is a head-shaped summit in the Krimml Water Worlds overlooking the waterfalls.",
                   "category": "landmark",
                   "coords": [
                         12.154689,
@@ -1173,7 +1173,7 @@ export const poiExtraAustriaLife: POI[] = [
             },
             {
                   "name": "Hütteltalkopf",
-                  "text": "A peak in the alpine landscape of the High Tauern.",
+                  "text": "Hütteltalkopf is a hill in the Krimml Water Worlds named after a small hut in the valley.",
                   "category": "landmark",
                   "coords": [
                         12.207437,

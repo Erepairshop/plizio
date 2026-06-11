@@ -390,7 +390,7 @@ imageHint: "Atomium monument in Brussels daytime",
             },
             {
                   "name": "Château de la Rose",
-                  "text": "Ein historisches Schloss in der Nähe des Löwenhügels.",
+                  "text": "Ein Schloss aus dem 20. Jahrhundert beim Löwenhügel (Butte du Lion).",
                   "category": "castle",
                   "coords": [
                         4.379453,
@@ -426,7 +426,7 @@ imageHint: "Atomium monument in Brussels daytime",
             },
             {
                   "name": "Château de Castegier",
-                  "text": "Ein charakteristisches historisches Schloss in Lion's Mound.",
+                  "text": "Ein 1840 erbautes Schloss beim Löwenhügel (Butte du Lion).",
                   "category": "castle",
                   "coords": [
                         4.370751,
@@ -464,7 +464,7 @@ imageHint: "Atomium monument in Brussels daytime",
             },
             {
                   "name": "Château de la Rose",
-                  "text": "Történelmi kastély az Oroszlános domb közelében.",
+                  "text": "20. századi kastély az Oroszlán-dombnál.",
                   "category": "castle",
                   "coords": [
                         4.379453,
@@ -500,7 +500,7 @@ imageHint: "Atomium monument in Brussels daytime",
             },
             {
                   "name": "Château de Castegier",
-                  "text": "Jellegzetes történelmi kastély az Oroszlános dombnál.",
+                  "text": "1840-ben épült kastély az Oroszlán-dombnál.",
                   "category": "castle",
                   "coords": [
                         4.370751,
@@ -538,7 +538,7 @@ imageHint: "Atomium monument in Brussels daytime",
             },
             {
                   "name": "Château de la Rose",
-                  "text": "Un castel istoric situat în apropiere de Movila Leului.",
+                  "text": "Un castel din secolul al XX-lea lângă Movila Leului.",
                   "category": "castle",
                   "coords": [
                         4.379453,
@@ -574,7 +574,7 @@ imageHint: "Atomium monument in Brussels daytime",
             },
             {
                   "name": "Château de Castegier",
-                  "text": "Un castel istoric caracteristic în Lion's Mound.",
+                  "text": "Un castel construit în 1840 lângă Movila Leului.",
                   "category": "castle",
                   "coords": [
                         4.370751,
@@ -612,7 +612,7 @@ imageHint: "Atomium monument in Brussels daytime",
             },
             {
                   "name": "Château de la Rose",
-                  "text": "A historic castle located near the Lion's Mound.",
+                  "text": "A 20th-century castle near the Lions Mound.",
                   "category": "castle",
                   "coords": [
                         4.379453,
@@ -648,7 +648,7 @@ imageHint: "Atomium monument in Brussels daytime",
             },
             {
                   "name": "Château de Castegier",
-                  "text": "A characteristic historic castle in Lion's Mound.",
+                  "text": "A 1840-built castle near the Lions Mound.",
                   "category": "castle",
                   "coords": [
                         4.370751,

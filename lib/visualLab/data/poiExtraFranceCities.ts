@@ -2398,7 +2398,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Dolmen de Combets (B)",
-                  "text": "Ein prähistorisches Megalithgrab in der Nähe von Millau.",
+                  "text": "Ein Dolmen in der Nähe des Millau-Viadukts, ein prähistorisches Megalithgrab.",
                   "category": "historical",
                   "coords": [
                         3.09063,
@@ -2463,7 +2463,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Dolmen de Combets (B)",
-                  "text": "Őskori megalitikus sír Millau közelében.",
+                  "text": "Dolmen a Millau-i viadukt közelében, őskori megalit szerkezet.",
                   "category": "historical",
                   "coords": [
                         3.09063,
@@ -2528,7 +2528,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Dolmen de Combets (B)",
-                  "text": "Un mormânt megalitic preistoric situat lângă Millau.",
+                  "text": "Un dolmen lângă Viaductul Millau, o structură megalitică preistorică.",
                   "category": "historical",
                   "coords": [
                         3.09063,
@@ -2593,7 +2593,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Dolmen de Combets (B)",
-                  "text": "A prehistoric megalithic tomb located near Millau.",
+                  "text": "A dolmen near the Millau Viaduct, a prehistoric megalithic structure.",
                   "category": "historical",
                   "coords": [
                         3.09063,
@@ -2919,7 +2919,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Hotel particulier",
-                  "text": "Ein historisches privates Stadtpalais in Rouen.",
+                  "text": "Ein historisches Stadtpalais in Rouen, eingetragen als Baudenkmal.",
                   "category": "castle",
                   "coords": [
                         1.090827,
@@ -3143,7 +3143,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Hotel particulier",
-                  "text": "Történelmi magánpalota Rouen városában.",
+                  "text": "Történelmi városi palota Rouenban, műemlékként nyilvántartva.",
                   "category": "castle",
                   "coords": [
                         1.090827,
@@ -3367,7 +3367,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Hotel particulier",
-                  "text": "Un conac privat istoric situat în Rouen.",
+                  "text": "Un hotel particular istoric în Rouen, înscris ca monument istoric.",
                   "category": "castle",
                   "coords": [
                         1.090827,
@@ -3591,7 +3591,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Hotel particulier",
-                  "text": "A historic private mansion located in Rouen.",
+                  "text": "A historic townhouse in Rouen, listed as a historical monument.",
                   "category": "castle",
                   "coords": [
                         1.090827,
@@ -3960,7 +3960,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Bras mort du Lez",
-                  "text": "Der Bras mort du Lez in Montpellier ist ein friedliches Gewässer in natürlicher Umgebung.",
+                  "text": "Ein Altarm des Lez in Montpellier, ein natürliches Feuchtgebiet.",
                   "category": "natural",
                   "coords": [
                         3.877851,
@@ -4014,7 +4014,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Les Mandrous",
-                  "text": "Les Mandrous in Montpellier ist ein schöner Spielplatz für Kinder.",
+                  "text": "Ein Familienpark oder Garten in Montpellier, genannt Les Mandrous.",
                   "category": "family",
                   "coords": [
                         3.901921,
@@ -4095,7 +4095,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Le Lunaret",
-                  "text": "Le Lunaret in Montpellier ist ein weitläufiger Spielbereich für Familien.",
+                  "text": "Ein Familienbereich in Montpellier, möglicherweise ein Zoo (Lunaret).",
                   "category": "family",
                   "coords": [
                         3.873688,
@@ -4104,7 +4104,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Aire de jeux Place de l'Aiguelongue",
-                  "text": "Die Aire de jeux Place de l'Aiguelongue in Montpellier ist ein einladender Spielplatz im Viertel.",
+                  "text": "Ein Spielplatz auf der Place de l'Aiguelongue in Montpellier.",
                   "category": "family",
                   "coords": [
                         3.880828,
@@ -4122,7 +4122,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Aire de jeux du Square Jean Baumel",
-                  "text": "Die Aire de jeux du Square Jean Baumel in Montpellier ist ein ruhiger Ort zum Spielen.",
+                  "text": "Ein Spielplatz im Square Jean Baumel in Montpellier.",
                   "category": "family",
                   "coords": [
                         3.85836,
@@ -4167,7 +4167,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Planet Ocean Montpellier",
-                  "text": "Planet Ocean Montpellier ist ein Aquarium in Montpellier mit faszinierenden Einblicken für Familien.",
+                  "text": "Planet Ocean Montpellier, ein Ozeanarium mit einem großen Hai- und Rochenbecken.",
                   "category": "family",
                   "coords": [
                         3.91706,
@@ -4176,7 +4176,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Piscine du Nouveau Monde",
-                  "text": "Piscine du Nouveau Monde ist ein Schwimmbad in Montpellier für den Familienbesuch.",
+                  "text": "Ein Schwimmbad im Stadtteil Nouveau Monde in Montpellier.",
                   "category": "family",
                   "coords": [
                         3.888078,
@@ -4185,7 +4185,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Résidence Parc Academie La Rosiere",
-                  "text": "Résidence Parc Academie La Rosiere ist ein Schwimmbad in Montpellier für familienfreundliches Schwimmen.",
+                  "text": "Ein familienorientiertes Wohnheim im Parc Academie La Rosiere, Montpellier.",
                   "category": "family",
                   "coords": [
                         3.863128,
@@ -4581,7 +4581,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Bras mort du Lez",
-                  "text": "A montpellieri Bras mort du Lez egy békés vízfelület természetes környezetben.",
+                  "text": "A Lez folyó holtága Montpellier-ben, természetes vizes élőhely.",
                   "category": "natural",
                   "coords": [
                         3.877851,
@@ -4635,7 +4635,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Les Mandrous",
-                  "text": "A montpellieri Les Mandrous egy kellemes játszótér gyerekeknek.",
+                  "text": "Családi park vagy kert Montpellier-ben, Les Mandrous néven.",
                   "category": "family",
                   "coords": [
                         3.901921,
@@ -4716,7 +4716,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Le Lunaret",
-                  "text": "A montpellieri Le Lunaret egy tágas játszótér családok számára.",
+                  "text": "Családi terület Montpellier-ben, esetleg állatkert (Lunaret).",
                   "category": "family",
                   "coords": [
                         3.873688,
@@ -4725,7 +4725,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Aire de jeux Place de l'Aiguelongue",
-                  "text": "A montpellieri Aire de jeux Place de l'Aiguelongue egy hívogató játszótér a környéken.",
+                  "text": "Játszótér a Place de l'Aiguelongue-on Montpellier-ben.",
                   "category": "family",
                   "coords": [
                         3.880828,
@@ -4743,7 +4743,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Aire de jeux du Square Jean Baumel",
-                  "text": "A montpellieri Aire de jeux du Square Jean Baumel egy nyugodt hely a játékhoz.",
+                  "text": "Játszótér a Square Jean Baumel-ben Montpellier-ben.",
                   "category": "family",
                   "coords": [
                         3.85836,
@@ -4788,7 +4788,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Planet Ocean Montpellier",
-                  "text": "A Planet Ocean Montpellier egy akvárium Montpellier városában, amely lenyűgöző látványt nyújt a családoknak.",
+                  "text": "Planet Ocean Montpellier, egy óceánárium nagy cápa- és rájamedencével.",
                   "category": "family",
                   "coords": [
                         3.91706,
@@ -4797,7 +4797,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Piscine du Nouveau Monde",
-                  "text": "A Piscine du Nouveau Monde egy úszómedence Montpellier városában, amely várja a családokat.",
+                  "text": "Uszoda a Nouveau Monde negyedben Montpellier-ben.",
                   "category": "family",
                   "coords": [
                         3.888078,
@@ -4806,7 +4806,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Résidence Parc Academie La Rosiere",
-                  "text": "A Résidence Parc Academie La Rosiere egy úszómedence Montpellier városában a családok kikapcsolódására.",
+                  "text": "Családorientált rezidencia a Parc Academie La Rosiere-ben, Montpellier-ben.",
                   "category": "family",
                   "coords": [
                         3.863128,
@@ -5202,7 +5202,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Bras mort du Lez",
-                  "text": "Bras mort du Lez din Montpellier este o întindere de apă liniștită într-un cadru natural.",
+                  "text": "Un braț mort al râului Lez în Montpellier, o zonă umedă naturală.",
                   "category": "natural",
                   "coords": [
                         3.877851,
@@ -5256,7 +5256,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Les Mandrous",
-                  "text": "Les Mandrous din Montpellier este un loc de joacă plăcut pentru copii.",
+                  "text": "Un parc sau grădină pentru familie în Montpellier, numit Les Mandrous.",
                   "category": "family",
                   "coords": [
                         3.901921,
@@ -5337,7 +5337,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Le Lunaret",
-                  "text": "Le Lunaret din Montpellier este o zonă de joacă spațioasă pentru familii.",
+                  "text": "O zonă pentru familii în Montpellier, posibil o grădină zoologică (Lunaret).",
                   "category": "family",
                   "coords": [
                         3.873688,
@@ -5346,7 +5346,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Aire de jeux Place de l'Aiguelongue",
-                  "text": "Aire de joacă din Place de l'Aiguelongue din Montpellier este un loc de joacă primitor în cartier.",
+                  "text": "Un loc de joacă în Piața Aiguelongue din Montpellier.",
                   "category": "family",
                   "coords": [
                         3.880828,
@@ -5364,7 +5364,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Aire de jeux du Square Jean Baumel",
-                  "text": "Aire de joacă de la Square Jean Baumel din Montpellier este un loc liniștit pentru joacă.",
+                  "text": "Un loc de joacă în Piața Jean Baumel din Montpellier.",
                   "category": "family",
                   "coords": [
                         3.85836,
@@ -5409,7 +5409,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Planet Ocean Montpellier",
-                  "text": "Planet Ocean Montpellier este un acvariu în Montpellier cu expoziții fascinante pentru întreaga familie.",
+                  "text": "Planet Ocean Montpellier, un oceanariu cu un bazin mare de rechini și raze.",
                   "category": "family",
                   "coords": [
                         3.91706,
@@ -5418,7 +5418,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Piscine du Nouveau Monde",
-                  "text": "Piscine du Nouveau Monde este o piscină în Montpellier deschisă pentru familii.",
+                  "text": "O piscină în cartierul Nouveau Monde din Montpellier.",
                   "category": "family",
                   "coords": [
                         3.888078,
@@ -5427,7 +5427,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Résidence Parc Academie La Rosiere",
-                  "text": "Résidence Parc Academie La Rosiere este o piscină în Montpellier pentru activități acvatice în familie.",
+                  "text": "O reședință orientată spre familie în Parc Academie La Rosiere, Montpellier.",
                   "category": "family",
                   "coords": [
                         3.863128,
@@ -5823,7 +5823,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Bras mort du Lez",
-                  "text": "Bras mort du Lez in Montpellier is a peaceful body of water in a natural setting.",
+                  "text": "An oxbow lake of the Lez river in Montpellier, a natural wetland.",
                   "category": "natural",
                   "coords": [
                         3.877851,
@@ -5877,7 +5877,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Les Mandrous",
-                  "text": "Les Mandrous in Montpellier is a lovely playground for children.",
+                  "text": "A family park or garden in Montpellier, called Les Mandrous.",
                   "category": "family",
                   "coords": [
                         3.901921,
@@ -5958,7 +5958,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Le Lunaret",
-                  "text": "Le Lunaret in Montpellier is a spacious play area for families.",
+                  "text": "A family area in Montpellier, possibly a zoo (Lunaret).",
                   "category": "family",
                   "coords": [
                         3.873688,
@@ -5967,7 +5967,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Aire de jeux Place de l'Aiguelongue",
-                  "text": "The playground at Place de l'Aiguelongue in Montpellier is an inviting neighborhood playground.",
+                  "text": "A playground on Place de l'Aiguelongue in Montpellier.",
                   "category": "family",
                   "coords": [
                         3.880828,
@@ -5985,7 +5985,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Aire de jeux du Square Jean Baumel",
-                  "text": "The playground at Square Jean Baumel in Montpellier is a quiet spot for play.",
+                  "text": "A playground in Square Jean Baumel in Montpellier.",
                   "category": "family",
                   "coords": [
                         3.85836,
@@ -6030,7 +6030,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Planet Ocean Montpellier",
-                  "text": "Planet Ocean Montpellier is an aquarium in Montpellier with fascinating exhibits for families.",
+                  "text": "Planet Ocean Montpellier, an oceanarium with a large shark and ray pool.",
                   "category": "family",
                   "coords": [
                         3.91706,
@@ -6039,7 +6039,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Piscine du Nouveau Monde",
-                  "text": "Piscine du Nouveau Monde is a swimming pool in Montpellier open for family visits.",
+                  "text": "A swimming pool in the Nouveau Monde district of Montpellier.",
                   "category": "family",
                   "coords": [
                         3.888078,
@@ -6048,7 +6048,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Résidence Parc Academie La Rosiere",
-                  "text": "Résidence Parc Academie La Rosiere is a swimming pool in Montpellier for family-friendly swimming.",
+                  "text": "A family-oriented residence in Parc Academie La Rosiere, Montpellier.",
                   "category": "family",
                   "coords": [
                         3.863128,
@@ -6791,7 +6791,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Urban Wake Park",
-                  "text": "Urban Wake Park ist ein Wasserpark in Avignon. Ein toller Ort für familiären Wasserspaß.",
+                  "text": "Ein Kabelwasserskipark in Avignon, der Wassersport anbietet.",
                   "category": "family",
                   "coords": [
                         4.853904,
@@ -7196,7 +7196,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Urban Wake Park",
-                  "text": "Az Urban Wake Park egy vízi vidámpark Avignon-ban. Remek hely családi vízi szórakozáshoz.",
+                  "text": "Kábeles vízisí park Avignon-ban, vízi sportokat kínál.",
                   "category": "family",
                   "coords": [
                         4.853904,
@@ -7601,7 +7601,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Urban Wake Park",
-                  "text": "Urban Wake Park este un parc acvatic în Avignon. Un loc minunat pentru distracție în apă în familie.",
+                  "text": "Un parc de wakeboarding cu cablu în Avignon, oferind sporturi nautice.",
                   "category": "family",
                   "coords": [
                         4.853904,
@@ -8006,7 +8006,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Urban Wake Park",
-                  "text": "Urban Wake Park is a water park in Avignon. A great place for family water fun.",
+                  "text": "A cable wakeboarding park in Avignon, offering water sports.",
                   "category": "family",
                   "coords": [
                         4.853904,
@@ -9778,7 +9778,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Etablissement Thermal de Royat-Chamalières",
-                  "text": "Etablissement Thermal de Royat-Chamalières ist ein öffentliches Bad in Clermont Ferrand für die Familie.",
+                  "text": "Eine Thermalquelle in Royat-Chamalières bei Clermont-Ferrand.",
                   "category": "family",
                   "coords": [
                         3.057332,
@@ -10203,7 +10203,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Etablissement Thermal de Royat-Chamalières",
-                  "text": "Az Etablissement Thermal de Royat-Chamalières egy közfürdő Clermont Ferrand városában a családok pihenésére.",
+                  "text": "Termálfürdő Royat-Chamalières-ben, Clermont-Ferrand közelében.",
                   "category": "family",
                   "coords": [
                         3.057332,
@@ -10628,7 +10628,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Etablissement Thermal de Royat-Chamalières",
-                  "text": "Etablissement Thermal de Royat-Chamalières este o baie publică în Clermont Ferrand pentru relaxarea familiei.",
+                  "text": "O stațiune termală în Royat-Chamalières lângă Clermont-Ferrand.",
                   "category": "family",
                   "coords": [
                         3.057332,
@@ -11053,7 +11053,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Etablissement Thermal de Royat-Chamalières",
-                  "text": "Etablissement Thermal de Royat-Chamalières is a public bath in Clermont Ferrand for families.",
+                  "text": "A thermal spa establishment in Royat-Chamalières near Clermont-Ferrand.",
                   "category": "family",
                   "coords": [
                         3.057332,
@@ -11419,7 +11419,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Musée D-Day Omaha",
-                  "text": "Ein Museum, das der Landung der Alliierten am Omaha Beach im Jahr 1944 gewidmet ist.",
+                  "text": "Museum am Omaha Beach mit Ausstellungsstücken zur Landung der Alliierten 1944.",
                   "category": "museum",
                   "coords": [
                         -0.908211,
@@ -11493,7 +11493,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Musée D-Day Omaha",
-                  "text": "Az 1944-es Omaha Beach-i partraszállásnak szentelt múzeum.",
+                  "text": "Múzeum Omaha Beachen, mely az 1944-es normandiai partraszállás tárgyait mutatja be.",
                   "category": "museum",
                   "coords": [
                         -0.908211,
@@ -11567,7 +11567,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "Musée D-Day Omaha",
-                  "text": "Un muzeu dedicat debarcării de pe plaja Omaha din 1944.",
+                  "text": "Muzeu pe plaja Omaha cu exponate despre debarcarea din Normandia din 1944.",
                   "category": "museum",
                   "coords": [
                         -0.908211,
@@ -11641,7 +11641,7 @@ export const poiExtraFranceCities: POI[] = [
             },
             {
                   "name": "D-Day Omaha Museum",
-                  "text": "A museum dedicated to the 1944 D-Day landings on Omaha Beach.",
+                  "text": "Museum on Omaha Beach with exhibits on the 1944 Normandy landings.",
                   "category": "museum",
                   "coords": [
                         -0.908211,

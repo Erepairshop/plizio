@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraIranReliefV2: POI[] = [
   {
-    id: "damavand-relief-v2",
+    id: "damavand-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Damavand Peak National Natural Heritage",
+                  "text": "Das Damavand Peak National Natural Heritage schützt die hochalpinen Hänge und den vulkanischen Kegel des höchsten Berges im Iran.",
+                  "category": "natural",
+                  "coords": [
+                        52.109919,
+                        35.952435
+                  ]
+            },
+            {
+                  "name": "Sahebazzaman Mosque",
+                  "text": "Die Sahebazzaman Moschee an den Hängen der Damavand-Region bietet islamischen Gläubigen einen spirituellen Ort vor alpiner Kulisse.",
+                  "category": "landmark",
+                  "coords": [
+                        52.109362,
+                        35.901999
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Damavand Peak National Natural Heritage",
+                  "text": "A Damávand-csúcs Nemzeti Természeti Örökség Irán legmagasabb hegyének magashegyi lejtőit és vulkáni kúpját hivatott megőrizni.",
+                  "category": "natural",
+                  "coords": [
+                        52.109919,
+                        35.952435
+                  ]
+            },
+            {
+                  "name": "Sahebazzaman Mosque",
+                  "text": "A Damávand-régió lejtőin található Sahebazzaman mecset alpesi környezetben kínál spirituális menedéket az iszlám hívők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        52.109362,
+                        35.901999
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Damavand Peak National Natural Heritage",
+                  "text": "Patrimoniul Natural Național al Vârfului Damavand protejează versanții înalți alpini și conul vulcanic al celui mai înalt munte din Iran.",
+                  "category": "natural",
+                  "coords": [
+                        52.109919,
+                        35.952435
+                  ]
+            },
+            {
+                  "name": "Sahebazzaman Mosque",
+                  "text": "Moscheea Sahebazzaman, situată pe pantele regiunii Damavand, oferă credincioșilor islamici un lăcaș spiritual pe un fundal alpin.",
+                  "category": "landmark",
+                  "coords": [
+                        52.109362,
+                        35.901999
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Damavand Peak National Natural Heritage",
+                  "text": "The Damavand Peak National Natural Heritage reserve protects the high alpine slopes and volcanic cone of Iran's tallest mountain.",
+                  "category": "natural",
+                  "coords": [
+                        52.109919,
+                        35.952435
+                  ]
+            },
+            {
+                  "name": "Sahebazzaman Mosque",
+                  "text": "The Sahebazzaman Mosque on the slopes of the Damavand region provides a spiritual space for Islamic worshipers against an alpine backdrop.",
+                  "category": "landmark",
+                  "coords": [
+                        52.109362,
+                        35.901999
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IR-07",
     coords: [52.1108, 35.9511],
@@ -298,7 +379,160 @@ export const poiExtraIranReliefV2: POI[] = [
       fr: ["Le point culminant du massif du Sahand, le mont Kamal, culmine à 3 707 mètres.", "La zone volcanique s'étend sur un vaste rayon d'environ 100 kilomètres.", "Le village troglodytique historique de Kandovan se trouve au pied nord-ouest de la montagne à 2 200 mètres d'altitude.", "Le complexe de ski de Sahand est l'un des principaux centres de sports d'hiver du nord-ouest de l'Iran.", "Le tuf volcanique de la région a une période de formation estimée au Pliocène-Pléistocène.", "Plus de 17 rivières permanentes prennent leur source sur les pentes et alimentent le lac d'Ourmia."],
     }, image: "/poi-images/mount-sahand-relief-v2.webp"},
   {
-    id: "alam-kuh-relief-v2",
+    id: "alam-kuh-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Alam-Kuh",
+                  "text": "Der zweithöchste Berg des Irans, berühmt für seine gewaltige 800 Meter hohe Granit-Nordwand.",
+                  "category": "natural",
+                  "coords": [
+                        50.961665,
+                        36.375587
+                  ]
+            },
+            {
+                  "name": "Takht-e Soleiman",
+                  "text": "Ein markanter Gipfel im Takht-e Soleiman-Massiv, der Bergsteiger mit seinem zerklüfteten Alpingelände anzieht.",
+                  "category": "natural",
+                  "coords": [
+                        50.95923,
+                        36.39065
+                  ]
+            },
+            {
+                  "name": "Alamkuh Peaks National Natural Heritage",
+                  "text": "Ein geschütztes Naturerbe-Gebiet, das die unberührten Gletscher und Hochgebirgsökosysteme des Alborz-Gebirges bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        50.961004,
+                        36.385565
+                  ]
+            },
+            {
+                  "name": "Sehezar",
+                  "text": "Natürliche Thermalquellen im Sehezar-Tal, die für ihr mineralreiches, heilendes Wasser bekannt sind.",
+                  "category": "natural",
+                  "coords": [
+                        50.885393,
+                        36.388409
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alam-Kouh",
+                  "text": "Irán második legmagasabb hegye, amely hatalmas, 800 méteres gránit északi faláról híres.",
+                  "category": "natural",
+                  "coords": [
+                        50.961665,
+                        36.375587
+                  ]
+            },
+            {
+                  "name": "Takht-e Soleiman",
+                  "text": "A Takht-e Soleiman-masszívum egyik kiemelkedő csúcsa, amely vadregényes alpesi terepével vonzza a hegymászókat.",
+                  "category": "natural",
+                  "coords": [
+                        50.95923,
+                        36.39065
+                  ]
+            },
+            {
+                  "name": "Alamkuh Peaks National Natural Heritage",
+                  "text": "Védett természeti örökségi terület, amely az Alborz-hegység érintetlen gleccsereit és magashegyi ökoszisztémáit őrzi.",
+                  "category": "natural",
+                  "coords": [
+                        50.961004,
+                        36.385565
+                  ]
+            },
+            {
+                  "name": "Sehezar",
+                  "text": "Természetes melegvizes források a Sehezar-völgyben, amelyek ásványi anyagokban gazdag gyógyvizükről ismertek.",
+                  "category": "natural",
+                  "coords": [
+                        50.885393,
+                        36.388409
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alam-Kouh",
+                  "text": "Al doilea cel mai înalt munte din Iran, faimos pentru peretele său nordic de granit, înalt de 800 de metri.",
+                  "category": "natural",
+                  "coords": [
+                        50.961665,
+                        36.375587
+                  ]
+            },
+            {
+                  "name": "Takht-e Soleiman",
+                  "text": "Un vârf proeminent din masivul Takht-e Soleiman, care atrage alpiniștii prin terenul său alpin accidentat.",
+                  "category": "natural",
+                  "coords": [
+                        50.95923,
+                        36.39065
+                  ]
+            },
+            {
+                  "name": "Alamkuh Peaks National Natural Heritage",
+                  "text": "O zonă protejată a patrimoniului natural care conservă ghețarii curați și ecosistemele montane înalte din Munții Alborz.",
+                  "category": "natural",
+                  "coords": [
+                        50.961004,
+                        36.385565
+                  ]
+            },
+            {
+                  "name": "Sehezar",
+                  "text": "Izvoare termale naturale în valea Sehezar, cunoscute pentru apele lor curative bogate în minerale.",
+                  "category": "natural",
+                  "coords": [
+                        50.885393,
+                        36.388409
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alam-Kouh",
+                  "text": "Iran's second-highest mountain, famous for its massive 800-meter granite north face.",
+                  "category": "natural",
+                  "coords": [
+                        50.961665,
+                        36.375587
+                  ]
+            },
+            {
+                  "name": "Takht-e Soleiman",
+                  "text": "A prominent peak in the Takht-e Soleiman massif, attracting climbers with its rugged alpine terrain.",
+                  "category": "natural",
+                  "coords": [
+                        50.95923,
+                        36.39065
+                  ]
+            },
+            {
+                  "name": "Alamkuh Peaks National Natural Heritage",
+                  "text": "A protected natural heritage area preserving the pristine glaciers and high-altitude ecosystems of the Alborz range.",
+                  "category": "natural",
+                  "coords": [
+                        50.961004,
+                        36.385565
+                  ]
+            },
+            {
+                  "name": "Sehezar",
+                  "text": "Natural thermal springs in the Sehezar valley, known for their mineral-rich healing waters.",
+                  "category": "natural",
+                  "coords": [
+                        50.885393,
+                        36.388409
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IR-07",
     coords: [50.96, 36.37],
@@ -357,7 +591,52 @@ export const poiExtraIranReliefV2: POI[] = [
       fr: ["La montagne surplombe le massif environnant avec une altitude remarquable de 4 848 mètres.", "La face nord presque verticale en granit massif s'élève sur environ 800 mètres de hauteur.", "La première ascension documentée réussie par des grimpeurs européens a eu lieu en 1933.", "On trouve plus de 40 sommets dépassant les 4 000 mètres d'altitude autour de l'Alam-Kuh.", "L'Alam-Kuh abrite les plus grands glaciers d'Iran, dont le glacier Alamchal long de 7 kilomètres.", "Le camp de base de Vandarbeen se situe à 2 600 mètres d'altitude et sert de point de départ."],
     }, image: "/poi-images/alam-kuh-relief-v2.webp"},
   {
-    id: "zard-kuh-relief-v2",
+    id: "zard-kuh-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zard Kuh",
+                  "text": "Der höchste Gipfel des Sagros-Gebirges, bekannt für seine permanenten Gletscher.",
+                  "category": "natural",
+                  "coords": [
+                        50.077349,
+                        32.364581
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zard Kuh",
+                  "text": "A Zagros-hegység legmagasabb csúcsa, amely állandó gleccsereiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        50.077349,
+                        32.364581
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zard Kuh",
+                  "text": "Cel mai înalt vârf din munții Zagros, cunoscut pentru ghețarii săi permanenți.",
+                  "category": "natural",
+                  "coords": [
+                        50.077349,
+                        32.364581
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zard Kuh",
+                  "text": "The highest peak of the Zagros mountain range, known for its permanent glaciers.",
+                  "category": "natural",
+                  "coords": [
+                        50.077349,
+                        32.364581
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IR-08",
     coords: [50.06, 32.36],
@@ -416,7 +695,52 @@ export const poiExtraIranReliefV2: POI[] = [
       fr: ["Avec 4 221 mètres, le Zard-Kuh est le deuxième plus haut sommet de tout le Zagros.", "La région abrite la plus importante population restante de chèvres sauvages du Zagros central.", "L'eau de fonte de la montagne alimente le tunnel de Kuhrang, un projet hydraulique majeur datant de 1953.", "Les montagnes environnantes sont principalement composées de calcaires marins de la période du Crétacé.", "Le massif abrite le glacier Ill, l'un des rares glaciers subtropicaux du Moyen-Orient.", "Les précipitations annuelles sur les hauteurs peuvent dépasser les 1 500 millimètres."],
     }, image: "/poi-images/zard-kuh-relief-v2.webp"},
   {
-    id: "mount-dena-relief-v2",
+    id: "mount-dena-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khafr Waterfall",
+                  "text": "Der Khafr-Wasserfall ist eine malerische Naturattraktion im Gebiet von mount-dena-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.484014,
+                        30.996039
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khafr Waterfall",
+                  "text": "A Khafr-vízesés egy festői természeti látványosság a mount-dena-relief-v2 területen.",
+                  "category": "landmark",
+                  "coords": [
+                        51.484014,
+                        30.996039
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khafr Waterfall",
+                  "text": "Cascada Khafr este o atracție naturală pitorească situată în zona mount-dena-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.484014,
+                        30.996039
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khafr Waterfall",
+                  "text": "Khafr Waterfall is a scenic natural attraction located in the mount-dena-relief-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        51.484014,
+                        30.996039
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IR-17",
     coords: [51.5, 30.95],
@@ -475,7 +799,52 @@ export const poiExtraIranReliefV2: POI[] = [
       fr: ["Le massif de Dena s'étend sur une longueur impressionnante de près de 90 kilomètres.", "La chaîne de montagnes compte plus de 40 sommets distincts dépassant les 4 000 mètres d'altitude.", "Le Qash-Mastan est le point culminant du massif avec 4 409 mètres.", "La réserve de biosphère protégée par l'UNESCO couvre une superficie de plus de 250 000 hectares.", "Environ 1 200 espèces de plantes différentes poussent dans les monts Dena, dont beaucoup sont endémiques.", "Des découvertes archéologiques attestent de la présence humaine dans les grottes de ces montagnes depuis l'Épipaléolithique."],
     }, image: "/poi-images/mount-dena-relief-v2.webp"},
   {
-    id: "shir-kuh-relief-v2",
+    id: "shir-kuh-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shir Kuh",
+                  "text": "Der Shir Kuh ist mit 4.075 Metern der höchste Gipfel des Zentralplateaus und oft bis in den Sommer schneebedeckt.",
+                  "category": "natural",
+                  "coords": [
+                        54.067724,
+                        31.605607
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shir Kuh",
+                  "text": "A 4075 méteres Shir Kuh a központi fennsík legmagasabb csúcsa, amely gyakran még nyáron is hófödte.",
+                  "category": "natural",
+                  "coords": [
+                        54.067724,
+                        31.605607
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shir Kuh",
+                  "text": "Muntele Shir Kuh este cel mai înalt vârf din platoul central, la 4.075 de metri, fiind adesea acoperit de zăpadă până vara.",
+                  "category": "natural",
+                  "coords": [
+                        54.067724,
+                        31.605607
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shir Kuh",
+                  "text": "Shir Kuh is the highest peak of the central plateau at 4,075 meters, often snow-capped even into summer.",
+                  "category": "natural",
+                  "coords": [
+                        54.067724,
+                        31.605607
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IR-21",
     coords: [54.07, 31.6],
@@ -593,7 +962,52 @@ export const poiExtraIranReliefV2: POI[] = [
       fr: ["La chaîne de montagnes s'étend sur une longueur totale impressionnante d'environ 1 600 kilomètres.", "Cette chaîne plissée présente une largeur maximale dépassant par endroits les 300 kilomètres.", "Le Zard-Kuh est l'un des points culminants de l'imposante chaîne avec 4 221 mètres.", "L'orogenèse a commencé de manière intensive au Miocène et au Pliocène sous l'effet des mouvements tectoniques.", "Le bassin du Zagros renferme certains des plus grands gisements de pétrole et de gaz au monde.", "Des traces de Néandertaliens vieilles de plus de 50 000 ans ont été découvertes dans les grottes du Zagros."],
     }, image: "/poi-images/zagros-mountains-relief-v2.webp"},
   {
-    id: "alborz-mountains-relief-v2",
+    id: "alborz-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "ImamZadeh Abdolgahar",
+                  "text": "Dieser heilige Imamzade-Schrein an den Hängen des Elburs-Gebirges zieht Pilger an, die in einer ruhigen alpinen Umgebung nach Segen suchen.",
+                  "category": "landmark",
+                  "coords": [
+                        50.908607,
+                        35.982121
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ImamZadeh Abdolgahar",
+                  "text": "Az Alborz-hegység lejtőin megbúvó szent Imamzadeh-szentély vonzza a nyugodt alpesi környezetben áldást kereső zarándokokat.",
+                  "category": "landmark",
+                  "coords": [
+                        50.908607,
+                        35.982121
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ImamZadeh Abdolgahar",
+                  "text": "Amplasat pe pantele Munților Alborz, acest altar sacru Imamzadeh atrage pelerinii care caută binecuvântări într-un cadru alpin liniștit.",
+                  "category": "landmark",
+                  "coords": [
+                        50.908607,
+                        35.982121
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ImamZadeh Abdolgahar",
+                  "text": "Nestled in the slopes of the Alborz Mountains, this sacred Imamzadeh shrine attracts pilgrims seeking blessings in a tranquil alpine setting.",
+                  "category": "landmark",
+                  "coords": [
+                        50.908607,
+                        35.982121
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IR-07",
     coords: [51.0, 36.0],
@@ -652,7 +1066,88 @@ export const poiExtraIranReliefV2: POI[] = [
       fr: ["Le système montagneux s'étend sur plus de 900 kilomètres le long de la mer Caspienne.", "La largeur maximale de l'Elbourz varie entre 60 et 130 kilomètres.", "Les pentes septentrionales reçoivent parfois plus de 1 000 millimètres de précipitations par an.", "La station de ski la plus haute, Dizin, se situe à une altitude considérable d'environ 3 600 mètres.", "La chaîne de montagnes constitue le principal bassin versant pour Téhéran et les régions métropolitaines environnantes.", "La zone tectoniquement active enregistre régulièrement de forts séismes dus au mouvement des plaques."],
     }, image: "/poi-images/alborz-mountains-relief-v2.webp"},
   {
-    id: "taftan-volcano-relief-v2",
+    id: "taftan-volcano-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Haftad Molla",
+                  "text": "Ein bemerkenswerter antiker Friedhof mit höhlenartigen Gräbern, die in eine Felswand nahe dem Vulkan Taftan gehauen wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        61.096512,
+                        28.679415
+                  ]
+            },
+            {
+                  "name": "Taftan Peak National Nature Monument",
+                  "text": "Eine geschützte Vulkanlandschaft rund um den aktiven Stratovulkan Taftan.",
+                  "category": "natural",
+                  "coords": [
+                        61.130058,
+                        28.59986
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Haftad Molla",
+                  "text": "Különleges ókori temető barlangszerű sírokkal, amelyeket a Taftan vulkán közelében lévő sziklafalba vájtak.",
+                  "category": "landmark",
+                  "coords": [
+                        61.096512,
+                        28.679415
+                  ]
+            },
+            {
+                  "name": "Taftan Peak National Nature Monument",
+                  "text": "Egy védett vulkáni táj, amely az aktív Taftan rétegvulkán köré épül.",
+                  "category": "natural",
+                  "coords": [
+                        61.130058,
+                        28.59986
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Haftad Molla",
+                  "text": "Un cimitir antic remarcabil care prezintă morminte asemănătoare unor peșteri, sculptate într-o stâncă lângă vulcanul Taftan.",
+                  "category": "landmark",
+                  "coords": [
+                        61.096512,
+                        28.679415
+                  ]
+            },
+            {
+                  "name": "Taftan Peak National Nature Monument",
+                  "text": "Un peisaj vulcanic protejat, centrat în jurul stratovulcanului activ Taftan.",
+                  "category": "natural",
+                  "coords": [
+                        61.130058,
+                        28.59986
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Haftad Molla",
+                  "text": "A remarkable ancient cemetery featuring cave-like tombs carved into a cliff face near the Taftan volcano.",
+                  "category": "landmark",
+                  "coords": [
+                        61.096512,
+                        28.679415
+                  ]
+            },
+            {
+                  "name": "Taftan Peak National Nature Monument",
+                  "text": "A protected volcanic landscape centering around the active Taftan stratovolcano.",
+                  "category": "natural",
+                  "coords": [
+                        61.130058,
+                        28.59986
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IR-13",
     coords: [61.13, 28.6],
@@ -817,7 +1312,52 @@ export const poiExtraIranReliefV2: POI[] = [
       fr: ["Le littoral escarpé s'étend sur plus de 1 000 kilomètres entre l'Iran et le Pakistan.", "Le volcan de boue Gel-Afshan projette de la boue grise jusqu'à 10 mètres de hauteur.", "Les montagnes près de Tchabahar présentent des formations rocheuses grises très découpées, dépourvues de végétation.", "Le port de Tchabahar est la seule ville iranienne ayant un accès direct à l'océan Indien.", "Les températures estivales dans l'arrière-pays peuvent dépasser les 50 degrés Celsius.", "Sur les plages de Tang, de rares tortues vertes viennent régulièrement pondre leurs œufs."],
     }, image: "/poi-images/makran-coast-relief-v2.webp"},
   {
-    id: "binalud-relief-v2",
+    id: "binalud-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mosque of the university",
+                  "text": "Diese Campus-Moschee bietet Studenten inmitten der rauen Binalud-Berge einen spirituellen Treffpunkt.",
+                  "category": "religious",
+                  "coords": [
+                        58.830738,
+                        36.25124
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mosque of the university",
+                  "text": "Ez az egyetemi mecset a zord Binalud-hegység közepén biztosít spirituális gyülekezési helyet a diákok számára.",
+                  "category": "religious",
+                  "coords": [
+                        58.830738,
+                        36.25124
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mosque of the university",
+                  "text": "Această moschee din campus oferă un loc de adunare spirituală pentru studenți, în mijlocul munților accidentați Binalud.",
+                  "category": "religious",
+                  "coords": [
+                        58.830738,
+                        36.25124
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mosque of the university",
+                  "text": "This campus mosque provides a spiritual gathering place for students amidst the rugged Binalud mountains.",
+                  "category": "religious",
+                  "coords": [
+                        58.830738,
+                        36.25124
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IR-11",
     coords: [58.93, 36.27],
@@ -935,7 +1475,52 @@ export const poiExtraIranReliefV2: POI[] = [
       fr: ["La zone des puissants Kaluts s'étend sur une superficie d'environ 11 000 kilomètres carrés.", "Les plus longues formations de yardangs atteignent une longueur impressionnante de 120 kilomètres.", "En été, les températures au sol au fond des gorges peuvent grimper à plus de 65 degrés Celsius.", "L'érosion éolienne a creusé par endroits des sillons allant jusqu'à 100 mètres de profondeur.", "En 2016, les Kaluts ont été inscrits au patrimoine mondial de l'UNESCO en tant que partie du désert de Lout.", "Les formations sont principalement constituées de fins dépôts sédimentaires d'un lac asséché du Pliocène."],
     }, image: "/poi-images/shahdad-kaluts-relief-v2.webp"},
   {
-    id: "alamut-valley-relief-v2",
+    id: "alamut-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "East Alamut No Hunting Area",
+                  "text": "Die jagdfreie Zone East Alamut No Hunting Area schützt die steilen Hänge und die alpine Tierwelt des Elburs-Gebirges vor Wilderei.",
+                  "category": "natural",
+                  "coords": [
+                        50.541696,
+                        36.363355
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "East Alamut No Hunting Area",
+                  "text": "A Kelet-Alamut vadászati tilalmi övezet a meredek lejtőket és az Elburz-hegység alpesi vadvilágát védi az orvvadászattól.",
+                  "category": "natural",
+                  "coords": [
+                        50.541696,
+                        36.363355
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "East Alamut No Hunting Area",
+                  "text": "Zona interzisă vânătorii din East Alamut protejează versanții abrupți și fauna sălbatică alpină din munții Alborz împotriva braconajului.",
+                  "category": "natural",
+                  "coords": [
+                        50.541696,
+                        36.363355
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "East Alamut No Hunting Area",
+                  "text": "The East Alamut No Hunting Area protects the steep slopes and alpine wildlife of the Alborz mountain range from poaching activities.",
+                  "category": "natural",
+                  "coords": [
+                        50.541696,
+                        36.363355
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "IR-26",
     coords: [50.58, 36.39],
@@ -994,7 +1579,52 @@ export const poiExtraIranReliefV2: POI[] = [
       fr: ["Les ruines du château d'Alamut trônent de manière spectaculaire sur un cône rocheux escarpé de 2 100 mètres de haut.", "La vallée se situe à environ 100 kilomètres au nord-est de l'ancienne capitale séfévide, Qazvin.", "La forteresse a été détruite en 1256 par les armées mongoles en progression sous Hulagu Khan.", "Le lac pittoresque d'Ovan, situé à proximité, se trouve à une altitude de 1 800 mètres.", "De vastes forêts de cerisiers sauvages et de noisetiers d'une grande importance économique poussent dans les vallées profondes.", "Le climat rude entraîne le blocage des cols de montagne par la neige pendant plusieurs mois en hiver."],
     }, image: "/poi-images/alamut-valley-relief-v2.webp"},
   {
-    id: "maranjab-desert-relief-v2",
+    id: "maranjab-desert-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Salt lake",
+                  "text": "Ein beeindruckender Aussichtspunkt in der Maranjab-Wüste, der einen weiten Blick über den schimmernden, weißen Salzee bietet.",
+                  "category": "natural",
+                  "coords": [
+                        51.768508,
+                        34.323102
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Salt lake",
+                  "text": "Lenyűgöző kilátópont a Maranjab-sivatagban, amely tágas panorámát nyújt a csillogó, fehér sóstóra.",
+                  "category": "natural",
+                  "coords": [
+                        51.768508,
+                        34.323102
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Salt lake",
+                  "text": "Un punct de observație impresionant în deșertul Maranjab, oferind o vedere panoramică asupra lacului sărat alb și sclipitor.",
+                  "category": "natural",
+                  "coords": [
+                        51.768508,
+                        34.323102
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Salt lake",
+                  "text": "An impressive viewpoint in the Maranjab Desert, offering expansive views over the shimmering, white salt lake.",
+                  "category": "natural",
+                  "coords": [
+                        51.768508,
+                        34.323102
+                  ]
+            }
+      ]
+},
     type: "desert",
     parent: "IR-04",
     coords: [51.8, 34.3],
@@ -1053,7 +1683,124 @@ export const poiExtraIranReliefV2: POI[] = [
       fr: ["L'historique caravansérail de Maranjab a été construit en 1603 comme poste de garde et lieu de repos.", "Les plus hautes dunes mobiles de la région peuvent atteindre des hauteurs d'environ 70 mètres.", "Le lac salé adjacent de Namak s'étend sur une superficie de près de 1 800 kilomètres carrés.", "Le caravansérail est situé à une altitude moyenne de 850 mètres au-dessus du niveau de la mer.", "La zone protège des populations isolées de rares onagres d'Asie dans les zones périphériques.", "Les précipitations annuelles moyennes dans la région dépassent rarement les 100 millimètres."],
     }, image: "/poi-images/maranjab-desert-relief-v2.webp"},
   {
-    id: "caspian-coast-iran-relief-v2",
+    id: "caspian-coast-iran-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bardaes",
+                  "text": "Ein lokaler Aussichtspunkt an der Küste des Kaspischen Meeres, der einen weiten Blick auf das Ufer bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        51.087499,
+                        36.733087
+                  ]
+            },
+            {
+                  "name": "Khoshkeh Daran National Nautral Heritage",
+                  "text": "Ein Nationalerbe-Waldreservat, das seltene Tiefland-Hyrcanian-Wälder in der Nähe der kaspischen Küste schützt.",
+                  "category": "natural",
+                  "coords": [
+                        51.064053,
+                        36.727454
+                  ]
+            },
+            {
+                  "name": "Seyyed Hossein's holly shrine",
+                  "text": "Ein verehrter muslimischer Schrein an der Küste, ein Ort des Gebets mit traditioneller kaspischer Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        50.977572,
+                        36.765274
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bardaes",
+                  "text": "Helyi kilátópont a Kaszpi-tenger partján, ahonnan széles kilátás nyílik a partvidékre.",
+                  "category": "landmark",
+                  "coords": [
+                        51.087499,
+                        36.733087
+                  ]
+            },
+            {
+                  "name": "Khoshkeh Daran National Nautral Heritage",
+                  "text": "Nemzeti örökségi erdőrezervátum, amely ritka alföldi hürkániai erdőket véd a kaszpi partok közelében.",
+                  "category": "natural",
+                  "coords": [
+                        51.064053,
+                        36.727454
+                  ]
+            },
+            {
+                  "name": "Seyyed Hossein's holly shrine",
+                  "text": "Tisztelt muszlim kegyhely a tengerparton, a hagyományos kaszpi építészet jegyeit viselő imádságos hely.",
+                  "category": "landmark",
+                  "coords": [
+                        50.977572,
+                        36.765274
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bardaes",
+                  "text": "Un punct de observație local pe coasta Mării Caspice, oferind o vedere largă asupra țărmului.",
+                  "category": "landmark",
+                  "coords": [
+                        51.087499,
+                        36.733087
+                  ]
+            },
+            {
+                  "name": "Khoshkeh Daran National Nautral Heritage",
+                  "text": "O rezervație forestieră de patrimoniu național care protejează pădurile hircaniene rare de joasă altitudine de lângă coasta caspică.",
+                  "category": "natural",
+                  "coords": [
+                        51.064053,
+                        36.727454
+                  ]
+            },
+            {
+                  "name": "Seyyed Hossein's holly shrine",
+                  "text": "Un altar musulman venerat de pe coastă, un loc de rugăciune cu arhitectură tradițională caspică.",
+                  "category": "landmark",
+                  "coords": [
+                        50.977572,
+                        36.765274
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bardaes",
+                  "text": "A local viewpoint on the Caspian Sea coast, offering broad views of the shoreline.",
+                  "category": "landmark",
+                  "coords": [
+                        51.087499,
+                        36.733087
+                  ]
+            },
+            {
+                  "name": "Khoshkeh Daran National Nautral Heritage",
+                  "text": "A national heritage forest reserve protecting rare lowland Hyrcanian forests near the Caspian coast.",
+                  "category": "natural",
+                  "coords": [
+                        51.064053,
+                        36.727454
+                  ]
+            },
+            {
+                  "name": "Seyyed Hossein's holly shrine",
+                  "text": "A revered coastal Muslim shrine, serving as a place of prayer with traditional Caspian architectural features.",
+                  "category": "landmark",
+                  "coords": [
+                        50.977572,
+                        36.765274
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "IR-07",
     coords: [51.0, 36.7],
@@ -1112,7 +1859,520 @@ export const poiExtraIranReliefV2: POI[] = [
       fr: ["Le littoral de la mer Caspienne en Iran s'étend sur une longueur de 740 kilomètres.", "La surface de l'eau se situe actuellement à environ 28 mètres sous le niveau moyen de la mer.", "Les forêts hyrcaniennes de la région ont été inscrites au patrimoine mondial de l'UNESCO en 2019.", "Dans des villes comme Ramsar, les précipitations annuelles atteignent 1 200 à 1 500 millimètres.", "Les eaux constituent l'habitat d'environ 90 % de la population mondiale d'esturgeons belugas.", "La plaine fertile produit la majeure partie du riz et du thé consommés dans le pays."],
     }, image: "/poi-images/caspian-coast-iran-relief-v2.webp"},
   {
-    id: "persian-gulf-coast-relief-v2",
+    id: "persian-gulf-coast-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Farah Palace",
+                  "text": "Dieser auf der Insel Kisch gelegene Palast wurde ursprünglich für die ehemalige Kaiserin Farah Pahlavi erbaut.",
+                  "category": "castle",
+                  "coords": [
+                        54.038865,
+                        26.526248
+                  ]
+            },
+            {
+                  "name": "Zhian Gallery",
+                  "text": "Diese Galerie auf der Insel Kisch präsentiert zeitgenössische iranische Kunstwerke, darunter Gemälde und Skulpturen lokaler Künstler.",
+                  "category": "museum",
+                  "coords": [
+                        54.017708,
+                        26.554915
+                  ]
+            },
+            {
+                  "name": "Men's beach",
+                  "text": "Dieser speziell für Männer reservierte Strand auf der Insel Kisch bietet Möglichkeiten zum Schwimmen und für Wassersportaktivitäten.",
+                  "category": "recreational",
+                  "coords": [
+                        54.0273,
+                        26.537753
+                  ]
+            },
+            {
+                  "name": "Marina beach",
+                  "text": "Der Strand liegt in der Nähe des modernen Jachthafens von Kisch und ist ein beliebter Ausgangspunkt für Tauchausflüge.",
+                  "category": "recreational",
+                  "coords": [
+                        54.04707,
+                        26.523085
+                  ]
+            },
+            {
+                  "name": "Penguin Snow Park",
+                  "text": "Dieser Indoor-Winterpark auf der tropischen Insel Kisch bietet echten Schnee, Rodelbahnen und Begegnungen mit Pinguinen.",
+                  "category": "recreational",
+                  "coords": [
+                        54.015249,
+                        26.550883
+                  ]
+            },
+            {
+                  "name": "Song of Persian Gulf Cultural Complex",
+                  "text": "Dieses Kulturzentrum am Meer ist Schauplatz für Musikaufführungen und verfügt über eine markante Architektur am Persischen Golf.",
+                  "category": "cultural",
+                  "coords": [
+                        54.022809,
+                        26.553407
+                  ]
+            },
+            {
+                  "name": "Maryam Beach",
+                  "text": "Der öffentliche Sandstrand auf der Insel Kisch ist bekannt für sein klares Wasser und die entspannte Atmosphäre bei Abendspaziergängen.",
+                  "category": "recreational",
+                  "coords": [
+                        54.023236,
+                        26.555569
+                  ]
+            },
+            {
+                  "name": "Women's beach",
+                  "text": "Dieser abgeschirmte Strand bietet Frauen Privatsphäre zum Schwimmen und Sonnenbaden in einem geschützten Bereich der Insel Kisch.",
+                  "category": "recreational",
+                  "coords": [
+                        54.01844,
+                        26.562165
+                  ]
+            },
+            {
+                  "name": "Greek Ship",
+                  "text": "Das rostende Wrack eines Dampfschiffs von 1943, das seit 1966 vor der Küste liegt, ist ein ikonisches Fotomotiv.",
+                  "category": "natural",
+                  "coords": [
+                        53.908126,
+                        26.526147
+                  ]
+            },
+            {
+                  "name": "Ocean Water Park",
+                  "text": "Dieser große Wasserpark bietet Rutschen und Attraktionen, die thematisch an die iranische Legende vom Sonnenpalast angelehnt sind.",
+                  "category": "recreational",
+                  "coords": [
+                        53.980857,
+                        26.497238
+                  ]
+            },
+            {
+                  "name": "Dolphin Park and Birds Garden",
+                  "text": "Der Komplex beherbergt einen weitläufigen Garten mit tropischen Vögeln und ein Becken für Vorführungen mit Meeressäugern.",
+                  "category": "natural",
+                  "coords": [
+                        54.035331,
+                        26.506047
+                  ]
+            },
+            {
+                  "name": "Simorgh beach",
+                  "text": "Dieser Küstenpark ist bekannt für seine monumentale Statue des mythischen Vogels Simorgh und bietet zahlreiche Spielbereiche.",
+                  "category": "recreational",
+                  "coords": [
+                        54.048397,
+                        26.515342
+                  ]
+            },
+            {
+                  "name": "Camp-e-Sahar",
+                  "text": "Diese lokale Gebetsstätte dient der Gemeinschaft auf der Insel Kisch für religiöse Versammlungen und tägliche Gebete.",
+                  "category": "religious",
+                  "coords": [
+                        53.993779,
+                        26.509068
+                  ]
+            },
+            {
+                  "name": "Amiralmomenin Mosque",
+                  "text": "Diese Moschee besticht durch ihre traditionelle Architektur der Golfregion mit kunstvollen Kachelmosaiken und einem schlanken Minarett.",
+                  "category": "landmark",
+                  "coords": [
+                        54.02172,
+                        26.554943
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Farah Palace",
+                  "text": "Ez a Kis-szigeten található palota eredetileg Farah Pahlavi iráni császárné számára épült.",
+                  "category": "castle",
+                  "coords": [
+                        54.038865,
+                        26.526248
+                  ]
+            },
+            {
+                  "name": "Zhian Gallery",
+                  "text": "Ez a Kis-szigeten található galéria kortárs iráni műalkotásokat, többek között helyi művészek festményeit és szobrait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        54.017708,
+                        26.554915
+                  ]
+            },
+            {
+                  "name": "Men's beach",
+                  "text": "Ez a kifejezetten férfiak számára fenntartott strand a Kis-szigeten úszási és vízi sportolási lehetőségeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        54.0273,
+                        26.537753
+                  ]
+            },
+            {
+                  "name": "Marina beach",
+                  "text": "A strand a Kis-sziget modern jachtkikötője mellett található, és népszerű kiindulópont a búvártúrákhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        54.04707,
+                        26.523085
+                  ]
+            },
+            {
+                  "name": "Penguin Snow Park",
+                  "text": "Ez a fedett téli park a trópusi Kis-szigeten valódi havat, szánkópályákat és pingvinekkel való találkozást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        54.015249,
+                        26.550883
+                  ]
+            },
+            {
+                  "name": "Song of Persian Gulf Cultural Complex",
+                  "text": "Ez a tengerparti kulturális központ zenei előadások helyszíne, építészete pedig a Perzsa-öböl partjának jellegzetes eleme.",
+                  "category": "cultural",
+                  "coords": [
+                        54.022809,
+                        26.553407
+                  ]
+            },
+            {
+                  "name": "Maryam Beach",
+                  "text": "A Kis-szigeten található nyilvános homokos strand tiszta vizéről és az esti sétákhoz ideális, nyugodt légköréről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        54.023236,
+                        26.555569
+                  ]
+            },
+            {
+                  "name": "Women's beach",
+                  "text": "Ez az elkerített strand privát szférát biztosít a nők számára az úszáshoz és napozáshoz a Kis-sziget egy védett részén.",
+                  "category": "recreational",
+                  "coords": [
+                        54.01844,
+                        26.562165
+                  ]
+            },
+            {
+                  "name": "Greek Ship",
+                  "text": "Az 1943-as gőzhajó rozsdásodó roncsa, amely 1966 óta vesztegel a parton, a sziget egyik legismertebb fotóhelyszíne.",
+                  "category": "natural",
+                  "coords": [
+                        53.908126,
+                        26.526147
+                  ]
+            },
+            {
+                  "name": "Ocean Water Park",
+                  "text": "Ez a hatalmas aquapark csúszdákat és attrakciókat kínál, amelyek tematikája a Napkastély iráni legendáján alapul.",
+                  "category": "recreational",
+                  "coords": [
+                        53.980857,
+                        26.497238
+                  ]
+            },
+            {
+                  "name": "Dolphin Park and Birds Garden",
+                  "text": "A komplexum egy trópusi madaraknak otthont adó tágas kertet és tengeri emlősök bemutatóit kínáló medencét foglal magában.",
+                  "category": "natural",
+                  "coords": [
+                        54.035331,
+                        26.506047
+                  ]
+            },
+            {
+                  "name": "Simorgh beach",
+                  "text": "Ez a tengerparti park a mitikus Szimurg madarat ábrázoló monumentális szobráról és játszótereiről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        54.048397,
+                        26.515342
+                  ]
+            },
+            {
+                  "name": "Camp-e-Sahar",
+                  "text": "Ez a helyi imaház a Kis-sziget közösségét szolgálja vallási összejövetelek és a napi imádságok alkalmával.",
+                  "category": "religious",
+                  "coords": [
+                        53.993779,
+                        26.509068
+                  ]
+            },
+            {
+                  "name": "Amiralmomenin Mosque",
+                  "text": "Ez a mecset az Öböl-térség hagyományos építészetét mutatja be díszes csempemozaikokkal és egy karcsú minarettel.",
+                  "category": "landmark",
+                  "coords": [
+                        54.02172,
+                        26.554943
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Farah Palace",
+                  "text": "Acest palat situat pe insula Kish a fost construit inițial pentru fosta împărăteasă Farah Pahlavi.",
+                  "category": "castle",
+                  "coords": [
+                        54.038865,
+                        26.526248
+                  ]
+            },
+            {
+                  "name": "Zhian Gallery",
+                  "text": "Această galerie de pe insula Kish prezintă opere de artă iraniană contemporană, inclusiv picturi și sculpturi ale artiștilor locali.",
+                  "category": "museum",
+                  "coords": [
+                        54.017708,
+                        26.554915
+                  ]
+            },
+            {
+                  "name": "Men's beach",
+                  "text": "Această plajă rezervată exclusiv bărbaților pe insula Kish oferă facilități pentru înot și sporturi nautice.",
+                  "category": "recreational",
+                  "coords": [
+                        54.0273,
+                        26.537753
+                  ]
+            },
+            {
+                  "name": "Marina beach",
+                  "text": "Plaja se află lângă portul modern de iahturi din Kish și este un punct de plecare popular pentru excursii de scufundări.",
+                  "category": "recreational",
+                  "coords": [
+                        54.04707,
+                        26.523085
+                  ]
+            },
+            {
+                  "name": "Penguin Snow Park",
+                  "text": "Acest parc de iarnă interior de pe insula tropicală Kish oferă zăpadă reală, pârtii de săniuș și întâlniri cu pinguini.",
+                  "category": "recreational",
+                  "coords": [
+                        54.015249,
+                        26.550883
+                  ]
+            },
+            {
+                  "name": "Song of Persian Gulf Cultural Complex",
+                  "text": "Acest complex cultural de pe malul mării găzduiește spectacole muzicale și are o arhitectură distinctivă pe coasta Golfului Persic.",
+                  "category": "cultural",
+                  "coords": [
+                        54.022809,
+                        26.553407
+                  ]
+            },
+            {
+                  "name": "Maryam Beach",
+                  "text": "Această plajă publică cu nisip de pe insula Kish este cunoscută pentru apele sale limpezi și atmosfera relaxantă.",
+                  "category": "recreational",
+                  "coords": [
+                        54.023236,
+                        26.555569
+                  ]
+            },
+            {
+                  "name": "Women's beach",
+                  "text": "Această plajă împrejmuită oferă intimitate femeilor pentru înot și plajă într-o zonă protejată a insulei Kish.",
+                  "category": "recreational",
+                  "coords": [
+                        54.01844,
+                        26.562165
+                  ]
+            },
+            {
+                  "name": "Greek Ship",
+                  "text": "Epava ruginită a unui cargobot din 1943, eșuată pe coastă din 1966, este un simbol iconic al insulei pentru fotografii.",
+                  "category": "natural",
+                  "coords": [
+                        53.908126,
+                        26.526147
+                  ]
+            },
+            {
+                  "name": "Ocean Water Park",
+                  "text": "Acest parc acvatic mare oferă tobogane și atracții tematice bazate pe legenda iraniană a Castelului Soarelui.",
+                  "category": "recreational",
+                  "coords": [
+                        53.980857,
+                        26.497238
+                  ]
+            },
+            {
+                  "name": "Dolphin Park and Birds Garden",
+                  "text": "Acest complex include o grădină vastă cu păsări tropicale și un bazin pentru spectacole cu mamifere marine.",
+                  "category": "natural",
+                  "coords": [
+                        54.035331,
+                        26.506047
+                  ]
+            },
+            {
+                  "name": "Simorgh beach",
+                  "text": "Acest parc de pe coastă este cunoscut pentru statuia sa monumentală a păsării mitice Simorgh și oferă zone de joacă.",
+                  "category": "recreational",
+                  "coords": [
+                        54.048397,
+                        26.515342
+                  ]
+            },
+            {
+                  "name": "Camp-e-Sahar",
+                  "text": "Acest lăcaș de rugăciune local deservește comunitatea de pe insula Kish pentru adunări religioase și rugăciuni zilnice.",
+                  "category": "religious",
+                  "coords": [
+                        53.993779,
+                        26.509068
+                  ]
+            },
+            {
+                  "name": "Amiralmomenin Mosque",
+                  "text": "Această moschee impresionează prin arhitectura tradițională a regiunii Golfului, cu mozaicuri din faianță și un minaret zvelt.",
+                  "category": "landmark",
+                  "coords": [
+                        54.02172,
+                        26.554943
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Farah Palace",
+                  "text": "Located on Kish Island, this palace was originally built for the former Empress Farah Pahlavi.",
+                  "category": "castle",
+                  "coords": [
+                        54.038865,
+                        26.526248
+                  ]
+            },
+            {
+                  "name": "Zhian Gallery",
+                  "text": "This gallery on Kish Island showcases contemporary Iranian artworks, including paintings and sculptures by local artists.",
+                  "category": "museum",
+                  "coords": [
+                        54.017708,
+                        26.554915
+                  ]
+            },
+            {
+                  "name": "Men's beach",
+                  "text": "This beach on Kish Island is reserved exclusively for men, offering facilities for swimming and water sports.",
+                  "category": "recreational",
+                  "coords": [
+                        54.0273,
+                        26.537753
+                  ]
+            },
+            {
+                  "name": "Marina beach",
+                  "text": "This beach is located near the modern Kish Marina and is a popular starting point for diving excursions.",
+                  "category": "recreational",
+                  "coords": [
+                        54.04707,
+                        26.523085
+                  ]
+            },
+            {
+                  "name": "Penguin Snow Park",
+                  "text": "This indoor winter park on tropical Kish Island features real snow, sledding runs, and encounters with penguins.",
+                  "category": "recreational",
+                  "coords": [
+                        54.015249,
+                        26.550883
+                  ]
+            },
+            {
+                  "name": "Song of Persian Gulf Cultural Complex",
+                  "text": "This seaside cultural complex hosts musical performances and features distinctive architecture on the Persian Gulf coast.",
+                  "category": "cultural",
+                  "coords": [
+                        54.022809,
+                        26.553407
+                  ]
+            },
+            {
+                  "name": "Maryam Beach",
+                  "text": "This public sandy beach on Kish Island is popular for its clear waters and relaxed atmosphere for evening strolls.",
+                  "category": "recreational",
+                  "coords": [
+                        54.023236,
+                        26.555569
+                  ]
+            },
+            {
+                  "name": "Women's beach",
+                  "text": "This secluded beach provides privacy for women to swim and sunbathe in a protected area of Kish Island.",
+                  "category": "recreational",
+                  "coords": [
+                        54.01844,
+                        26.562165
+                  ]
+            },
+            {
+                  "name": "Greek Ship",
+                  "text": "The rusting wreck of a 1943 steamship, stranded on the coast since 1966, is an iconic landmark for sunset photos.",
+                  "category": "natural",
+                  "coords": [
+                        53.908126,
+                        26.526147
+                  ]
+            },
+            {
+                  "name": "Ocean Water Park",
+                  "text": "This large outdoor water park features rides and attractions themed around the Iranian legend of the Sun Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        53.980857,
+                        26.497238
+                  ]
+            },
+            {
+                  "name": "Dolphin Park and Birds Garden",
+                  "text": "This complex features a large garden with tropical birds and a pool for marine mammal performances.",
+                  "category": "natural",
+                  "coords": [
+                        54.035331,
+                        26.506047
+                  ]
+            },
+            {
+                  "name": "Simorgh beach",
+                  "text": "This coastal park is known for its monumental statue of the mythical Simorgh bird and offers various play areas.",
+                  "category": "recreational",
+                  "coords": [
+                        54.048397,
+                        26.515342
+                  ]
+            },
+            {
+                  "name": "Camp-e-Sahar",
+                  "text": "This local place of worship serves the Kish Island community for religious gatherings and daily prayers.",
+                  "category": "religious",
+                  "coords": [
+                        53.993779,
+                        26.509068
+                  ]
+            },
+            {
+                  "name": "Amiralmomenin Mosque",
+                  "text": "This mosque features traditional Gulf-style architecture with intricate tilework and a slender minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        54.02172,
+                        26.554943
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "IR-23",
     coords: [54.0, 26.5],

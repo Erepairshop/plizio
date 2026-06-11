@@ -3,7 +3,124 @@ import type { POI } from "./poi";
 
 export const poiExtraKyrgyzstanCitiesV2: POI[] = [
   {
-    id: "bishkek-cities-v2",
+    id: "bishkek-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dom-muzei Alykula Osmonova",
+                  "text": "In diesem Gedenkmuseum lebte der einflussreiche kirgisische Dichter Alykul Osmonow, dessen Werk die moderne Poesie des Landes prägte.",
+                  "category": "museum",
+                  "coords": [
+                        74.578265,
+                        42.867637
+                  ]
+            },
+            {
+                  "name": "Tserkov' Iisusa Khrista",
+                  "text": "Diese christliche Kirche ist ein Zentrum für Gottesdienste und Gemeinschaftsaktivitäten der protestantischen Gemeinde in Bischkek.",
+                  "category": "landmark",
+                  "coords": [
+                        74.584647,
+                        42.866307
+                  ]
+            },
+            {
+                  "name": "Inventar' dlia rybalki",
+                  "text": "Dieser spezialisierte Marktabschnitt bietet eine große Auswahl an Ausrüstung für Angler, von Angelruten bis zu Ködern.",
+                  "category": "cultural",
+                  "coords": [
+                        74.584437,
+                        42.871584
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dom-muzei Alykula Osmonova",
+                  "text": "Ebben az emlékmuzeumban élt a befolyásos kirgiz költő, Alykul Osmonov, akinek munkássága meghatározta az ország modern költészetét.",
+                  "category": "museum",
+                  "coords": [
+                        74.578265,
+                        42.867637
+                  ]
+            },
+            {
+                  "name": "Tserkov' Iisusa Khrista",
+                  "text": "Ez a keresztény templom a biskeki protestáns közösség istentiszteleteinek és közösségi tevékenységeinek központja.",
+                  "category": "landmark",
+                  "coords": [
+                        74.584647,
+                        42.866307
+                  ]
+            },
+            {
+                  "name": "Inventar' dlia rybalki",
+                  "text": "Ez a specializált piaci részleg a horgászfelszerelések széles választékát kínálja, a horgászbotoktól a csalikig.",
+                  "category": "cultural",
+                  "coords": [
+                        74.584437,
+                        42.871584
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dom-muzei Alykula Osmonova",
+                  "text": "În acest muzeu memorial a locuit influentul poet kârgâz Alykul Osmonov, a cărui operă a modelat poezia modernă a țării.",
+                  "category": "museum",
+                  "coords": [
+                        74.578265,
+                        42.867637
+                  ]
+            },
+            {
+                  "name": "Tserkov' Iisusa Khrista",
+                  "text": "Această biserică creștină este un centru pentru slujbe și activități comunitare ale congregației protestante din Bișkek.",
+                  "category": "landmark",
+                  "coords": [
+                        74.584647,
+                        42.866307
+                  ]
+            },
+            {
+                  "name": "Inventar' dlia rybalki",
+                  "text": "Această secțiune specializată a pieței oferă o gamă largă de echipamente pentru pescari, de la undițe la momeli.",
+                  "category": "cultural",
+                  "coords": [
+                        74.584437,
+                        42.871584
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dom-muzei Alykula Osmonova",
+                  "text": "This memorial museum was the home of the influential Kyrgyz poet Alykul Osmonov, whose work shaped the country's modern poetry.",
+                  "category": "museum",
+                  "coords": [
+                        74.578265,
+                        42.867637
+                  ]
+            },
+            {
+                  "name": "Tserkov' Iisusa Khrista",
+                  "text": "This Christian church is a center for worship and community activities for the Protestant congregation in Bishkek.",
+                  "category": "landmark",
+                  "coords": [
+                        74.584647,
+                        42.866307
+                  ]
+            },
+            {
+                  "name": "Inventar' dlia rybalki",
+                  "text": "This specialized market section offers a wide selection of gear for anglers, from fishing rods to various baits.",
+                  "category": "cultural",
+                  "coords": [
+                        74.584437,
+                        42.871584
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "KG-GB",
     coords: [74.59, 42.87],
@@ -56,7 +173,412 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       en: ["Established in 1825 as a mud fort by the Khanate of Kokand.", "Renamed Frunze in 1926 after Bolshevik leader Mikhail Frunze.", "The city sits at an altitude of approximately 800 meters (2,600 ft).", "It reached a population milestone of 1 million in 2018.", "Features over 20 large public parks and botanical gardens.", "The city is divided into four administrative districts.", "Bishkek's Manas International Airport is a major regional hub.", "The Chuy River flows just north of the city limits."],
     }, image: "/poi-images/bishkek-cities-v2.webp"},
   {
-    id: "osh-cities-v2", "sights": {"de": [{"name": "Istoriko-etnograficheskii muzei Sulaiman-Too", "text": "Das Историко-этнографический музей Сулайман-Тоо ist ein bedeutender historischer Museumskomplex in Osch.", "category": "museum", "coords": [72.783732, 40.52866]}, {"name": "Usbekisches Babur-Musik- und Dramentheater Osch", "text": "Das Osh State Academic Uzbek Music and Drama Theater named after Babur ist ein bekanntes usbekisches Theater in der Stadt Osch.", "category": "cultural", "coords": [72.796773, 40.533082]}, {"name": "Arkheologicheskii muzei", "text": "Das Archeological Museum ist ein Museum in der Stadt Osch.", "category": "museum", "coords": [72.79281, 40.529636]}, {"name": "Alumbek Datka Museum", "text": "Das Alumbek Datka Museum ist ein Museum in der Stadt Osch.", "category": "museum", "coords": [72.793743, 40.529932]}, {"name": "Poselenie bronzovogo veka", "text": "Bronze Age settlement ist eine archäologische Stätte in der Stadt Osch.", "category": "historical", "coords": [72.780857, 40.52883]}, {"name": "Sultan Ibraimov atyndagy Osh uluttuk drama teatry", "text": "Султан Ибраимов атындагы Ош улуттук драма театры ist ein Theater in der Stadt Osch.", "category": "cultural", "coords": [72.801377, 40.519994]}, {"name": "Oshskaya oblastnaya filarmoniya im.R.Abdykadyrova", "text": "Ошская областная филармония им.Р.Абдыкадырова ist ein Theater in der Stadt Osch.", "category": "cultural", "coords": [72.795488, 40.536773]}, {"name": "Turgunbai Sadykov atyndagy Osh oblustuk korkom surot muzeii", "text": "Das Turgunbai Sadykov Osh Regional Museum of Fine Arts ist ein Museum in der Stadt Osch.", "category": "museum", "coords": [72.792211, 40.531952]}, {"name": "Bel tash", "text": "Бел таш ist eine Sehenswürdigkeit in der Stadt Osch.", "category": "landmark", "coords": [72.79018, 40.530554]}, {"name": "Pamyatnik Kurmanzhan Datka", "text": "Памятник Курманжан Датка ist eine Sehenswürdigkeit in der Stadt Osch.", "category": "landmark", "coords": [72.79504, 40.527302]}, {"name": "Oshskaya spetsialnaya detskaya khudozhestvennaya shkola im. G. Aitieva", "text": "Ошская специальная детская художественная школа им. Г. Айтиева ist ein Kunstzentrum in der Stadt Osch.", "category": "cultural", "coords": [72.791699, 40.529132]}], "hu": [{"name": "Istoriko-etnograficheskii muzei Sulaiman-Too", "text": "A Историко-этнографический музей Сулайман-Тоо egy történelmi múzeumkomplexum Osch városában.", "category": "museum", "coords": [72.783732, 40.52866]}, {"name": "Uzbekskii dramaticheskii teatr im. Z. M. Babura", "text": "Az Osh State Academic Uzbek Music and Drama Theater named after Babur egy ismert üzbég színház Osch városában.", "category": "cultural", "coords": [72.796773, 40.533082]}, {"name": "Arkheologicheskii muzei", "text": "Az Archeological Museum egy múzeum Osch városában.", "category": "museum", "coords": [72.79281, 40.529636]}, {"name": "Alumbek Datka Museum", "text": "Az Alumbek Datka Museum egy múzeum Osch városában.", "category": "museum", "coords": [72.793743, 40.529932]}, {"name": "Poselenie bronzovogo veka", "text": "A Bronze Age settlement egy régészeti lelőhely Osch városában.", "category": "historical", "coords": [72.780857, 40.52883]}, {"name": "Sultan Ibraimov atyndagy Osh uluttuk drama teatry", "text": "A Султан Ибраимов атындагы Ош улуттук драма театры egy színház Osch városában.", "category": "cultural", "coords": [72.801377, 40.519994]}, {"name": "Oshskaya oblastnaya filarmoniya im.R.Abdykadyrova", "text": "A Ошская областная филармония им.Р.Абдыкадырова egy színház Osch városában.", "category": "cultural", "coords": [72.795488, 40.536773]}, {"name": "Turgunbai Sadykov atyndagy Osh oblustuk korkom surot muzeii", "text": "A Turgunbai Sadykov Osh Regional Museum of Fine Arts egy múzeum Osch városában.", "category": "museum", "coords": [72.792211, 40.531952]}, {"name": "Bel tash", "text": "A Бел таш egy turisztikai látványosság Osch városában.", "category": "landmark", "coords": [72.79018, 40.530554]}, {"name": "Pamyatnik Kurmanzhan Datka", "text": "A Памятник Курманжан Датка egy turisztikai látványosság Osch városában.", "category": "landmark", "coords": [72.79504, 40.527302]}, {"name": "Oshskaya spetsialnaya detskaya khudozhestvennaya shkola im. G. Aitieva", "text": "A Ошская специальная детская художественная школа им. Г. Айтиева egy művészeti központ Osch városában.", "category": "cultural", "coords": [72.791699, 40.529132]}], "ro": [{"name": "Istoriko-etnograficheskii muzei Sulaiman-Too", "text": "Историко-этнографический музей Сулайман-Тоо este un complex muzeal istoric din orașul Osch.", "category": "museum", "coords": [72.783732, 40.52866]}, {"name": "Uzbekskii dramaticheskii teatr im. Z. M. Babura", "text": "Osh State Academic Uzbek Music and Drama Theater named after Babur este un teatru uzbec recunoscut din orașul Osch.", "category": "cultural", "coords": [72.796773, 40.533082]}, {"name": "Arkheologicheskii muzei", "text": "Archeological Museum este un muzeu din orașul Osch.", "category": "museum", "coords": [72.79281, 40.529636]}, {"name": "Alumbek Datka Museum", "text": "Alumbek Datka Museum este un muzeu din orașul Osch.", "category": "museum", "coords": [72.793743, 40.529932]}, {"name": "Poselenie bronzovogo veka", "text": "Bronze Age settlement este un sit arheologic din orașul Osch.", "category": "historical", "coords": [72.780857, 40.52883]}, {"name": "Sultan Ibraimov atyndagy Osh uluttuk drama teatry", "text": "Султан Ибраимов атындагы Ош улуттук драма театры este un teatru din orașul Osch.", "category": "cultural", "coords": [72.801377, 40.519994]}, {"name": "Oshskaya oblastnaya filarmoniya im.R.Abdykadyrova", "text": "Ошская областная филармония им.Р.Абдыкадырова este un teatru din orașul Osch.", "category": "cultural", "coords": [72.795488, 40.536773]}, {"name": "Turgunbai Sadykov atyndagy Osh oblustuk korkom surot muzeii", "text": "Turgunbai Sadykov Osh Regional Museum of Fine Arts este un muzeu din orașul Osch.", "category": "museum", "coords": [72.792211, 40.531952]}, {"name": "Bel tash", "text": "Бел таш este o atracție turistică în orașul Osch.", "category": "landmark", "coords": [72.79018, 40.530554]}, {"name": "Pamyatnik Kurmanzhan Datka", "text": "Памятник Курманжан Датка este o atracție turistică în orașul Osch.", "category": "landmark", "coords": [72.79504, 40.527302]}, {"name": "Oshskaya spetsialnaya detskaya khudozhestvennaya shkola im. G. Aitieva", "text": "Ошская специальная детская художественная школа им. Г. Айтиева este un centru de artă din orașul Osch.", "category": "cultural", "coords": [72.791699, 40.529132]}], "en": [{"name": "Istoriko-etnograficheskii muzei Sulaiman-Too", "text": "The Историко-этнографический музей Сулайман-Тоо is a major historical museum complex located in Osch.", "category": "museum", "coords": [72.783732, 40.52866]}, {"name": "Osh State Academic Uzbek Music and Drama Theater named after Babur", "text": "The Osh State Academic Uzbek Music and Drama Theater named after Babur is a notable theater located in Osch.", "category": "cultural", "coords": [72.796773, 40.533082]}, {"name": "Archeological Museum", "text": "The Archeological Museum is a museum located in the city of Osch.", "category": "museum", "coords": [72.79281, 40.529636]}, {"name": "Alumbek Datka Museum", "text": "The Alumbek Datka Museum is a museum located in the city of Osch.", "category": "museum", "coords": [72.793743, 40.529932]}, {"name": "Bronze Age settlement", "text": "Bronze Age settlement is an archaeological site located in the city of Osch.", "category": "historical", "coords": [72.780857, 40.52883]}, {"name": "Sultan Ibraimov atyndagy Osh uluttuk drama teatry", "text": "Султан Ибраимов атындагы Ош улуттук драма театры is a theatre located in the city of Osch.", "category": "cultural", "coords": [72.801377, 40.519994]}, {"name": "Oshskaya oblastnaya filarmoniya im.R.Abdykadyrova", "text": "Ошская областная филармония им.Р.Абдыкадырова is a theatre located in the city of Osch.", "category": "cultural", "coords": [72.795488, 40.536773]}, {"name": "Turgunbai Sadykov Osh Regional Museum of Fine Arts", "text": "The Turgunbai Sadykov Osh Regional Museum of Fine Arts is a museum located in the city of Osch.", "category": "museum", "coords": [72.792211, 40.531952]}, {"name": "Bel tash", "text": "Бел таш is a tourist attraction located in the city of Osch.", "category": "landmark", "coords": [72.79018, 40.530554]}, {"name": "Pamyatnik Kurmanzhan Datka", "text": "Памятник Курманжан Датка is a tourist attraction located in the city of Osch.", "category": "landmark", "coords": [72.79504, 40.527302]}, {"name": "Oshskaya spetsialnaya detskaya khudozhestvennaya shkola im. G. Aitieva", "text": "Ошская специальная детская художественная школа им. Г. Айтиева is an arts centre located in the city of Osch.", "category": "cultural", "coords": [72.791699, 40.529132]}]},
+    id: "osh-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Istoriko-etnograficheskii muzei Sulaiman-Too",
+                  "text": "Museumskomplex am Fuße des Sulaiman-Too in Osch mit archäologischen Funden von der Seidenstraße.",
+                  "category": "museum",
+                  "coords": [
+                        72.783732,
+                        40.52866
+                  ]
+            },
+            {
+                  "name": "Usbekisches Babur-Musik- und Dramentheater Osch",
+                  "text": "Theater für usbekische Musik und Drama in Osch, benannt nach Babur.",
+                  "category": "cultural",
+                  "coords": [
+                        72.796773,
+                        40.533082
+                  ]
+            },
+            {
+                  "name": "Arkheologicheskii muzei",
+                  "text": "Das Archäologische Museum in Osch zeigt Funde aus der umliegenden Region.",
+                  "category": "museum",
+                  "coords": [
+                        72.79281,
+                        40.529636
+                  ]
+            },
+            {
+                  "name": "Alumbek Datka Museum",
+                  "text": "Das Alumbek Datka Museum in Osch ist dem Leben von Alumbek Datka gewidmet und zeigt lokale Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        72.793743,
+                        40.529932
+                  ]
+            },
+            {
+                  "name": "Poselenie bronzovogo veka",
+                  "text": "Die bronzezeitliche Siedlung in Osch ist eine archäologische Stätte mit freigelegten Fundamenten.",
+                  "category": "historical",
+                  "coords": [
+                        72.780857,
+                        40.52883
+                  ]
+            },
+            {
+                  "name": "Sultan Ibraimov atyndagy Osh uluttuk drama teatry",
+                  "text": "Das nach Sultan Ibraimov benannte Nationaltheater in Osch ist ein Veranstaltungsort für kirgisische Dramen.",
+                  "category": "cultural",
+                  "coords": [
+                        72.801377,
+                        40.519994
+                  ]
+            },
+            {
+                  "name": "Oshskaya oblastnaya filarmoniya im.R.Abdykadyrova",
+                  "text": "Die nach R. Abdykadyrov benannte Regionalphilharmonie in Osch veranstaltet klassische Konzerte.",
+                  "category": "cultural",
+                  "coords": [
+                        72.795488,
+                        40.536773
+                  ]
+            },
+            {
+                  "name": "Turgunbai Sadykov atyndagy Osh oblustuk korkom surot muzeii",
+                  "text": "Das nach Turgunbai Sadykov benannte Regionale Museum der Schönen Künste in Osch zeigt kirgisische Kunstwerke.",
+                  "category": "museum",
+                  "coords": [
+                        72.792211,
+                        40.531952
+                  ]
+            },
+            {
+                  "name": "Bel tash",
+                  "text": "Bel tash in Osch ist ein Wahrzeichen mit einer markanten weißen Felsformation.",
+                  "category": "landmark",
+                  "coords": [
+                        72.79018,
+                        40.530554
+                  ]
+            },
+            {
+                  "name": "Pamyatnik Kurmanzhan Datka",
+                  "text": "Das Pamyatnik Kurmanzhan Datka in Osch ist ein Denkmal zu Ehren von Kurmanzhan Datka, der „Königin der Berge“.",
+                  "category": "landmark",
+                  "coords": [
+                        72.79504,
+                        40.527302
+                  ]
+            },
+            {
+                  "name": "Oshskaya spetsialnaya detskaya khudozhestvennaya shkola im. G. Aitieva",
+                  "text": "Die nach G. Aitieva benannte Kinderschule in Osch ist eine spezielle Kunstschule für Bildende Kunst.",
+                  "category": "cultural",
+                  "coords": [
+                        72.791699,
+                        40.529132
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Istoriko-etnograficheskii muzei Sulaiman-Too",
+                  "text": "Múzeumkomplexum az Osh-i Sulaiman-Too lábánál, a Selyemút régészeti leleteivel.",
+                  "category": "museum",
+                  "coords": [
+                        72.783732,
+                        40.52866
+                  ]
+            },
+            {
+                  "name": "Uzbekskii dramaticheskii teatr im. Z. M. Babura",
+                  "text": "Üzbég zenei és drámai színház Oshban, amely Babur nevét viseli.",
+                  "category": "cultural",
+                  "coords": [
+                        72.796773,
+                        40.533082
+                  ]
+            },
+            {
+                  "name": "Arkheologicheskii muzei",
+                  "text": "Az osi Régészeti Múzeum a környék leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        72.79281,
+                        40.529636
+                  ]
+            },
+            {
+                  "name": "Alumbek Datka Museum",
+                  "text": "Az osi Alumbek Datka Múzeum Alumbek Datka életét és a helyi történelmet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        72.793743,
+                        40.529932
+                  ]
+            },
+            {
+                  "name": "Poselenie bronzovogo veka",
+                  "text": "Az osi bronzkori település egy régészeti lelőhely feltárt alapokkal.",
+                  "category": "historical",
+                  "coords": [
+                        72.780857,
+                        40.52883
+                  ]
+            },
+            {
+                  "name": "Sultan Ibraimov atyndagy Osh uluttuk drama teatry",
+                  "text": "Az osi Sultan Ibraimov Nemzeti Színház kirgiz drámák bemutatóhelye.",
+                  "category": "cultural",
+                  "coords": [
+                        72.801377,
+                        40.519994
+                  ]
+            },
+            {
+                  "name": "Oshskaya oblastnaya filarmoniya im.R.Abdykadyrova",
+                  "text": "Az osi R. Abdykadyrov Regionális Filharmónia klasszikus koncerteknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        72.795488,
+                        40.536773
+                  ]
+            },
+            {
+                  "name": "Turgunbai Sadykov atyndagy Osh oblustuk korkom surot muzeii",
+                  "text": "Az osi Turgunbai Sadykov Regionális Szépművészeti Múzeum kirgiz műalkotásokat állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        72.792211,
+                        40.531952
+                  ]
+            },
+            {
+                  "name": "Bel tash",
+                  "text": "Az osi Bel tash nevezetesség fehér sziklaformációjáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        72.79018,
+                        40.530554
+                  ]
+            },
+            {
+                  "name": "Pamyatnik Kurmanzhan Datka",
+                  "text": "Az osi Pamyatnik Kurmanzhan Datka Kurmanzhan Datka, a „Hegyek Királynője” emlékműve.",
+                  "category": "landmark",
+                  "coords": [
+                        72.79504,
+                        40.527302
+                  ]
+            },
+            {
+                  "name": "Oshskaya spetsialnaya detskaya khudozhestvennaya shkola im. G. Aitieva",
+                  "text": "Az osi G. Aitieva Gyermek Művészeti Iskola speciális képzőművészeti oktatást nyújt.",
+                  "category": "cultural",
+                  "coords": [
+                        72.791699,
+                        40.529132
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Istoriko-etnograficheskii muzei Sulaiman-Too",
+                  "text": "Complex muzeal la poalele muntelui Sulaiman-Too din Oș, cu descoperiri arheologice de pe Drumul Mătăsii.",
+                  "category": "museum",
+                  "coords": [
+                        72.783732,
+                        40.52866
+                  ]
+            },
+            {
+                  "name": "Uzbekskii dramaticheskii teatr im. Z. M. Babura",
+                  "text": "Teatru de muzică și dramă uzbecă în Oș, numit după Babur.",
+                  "category": "cultural",
+                  "coords": [
+                        72.796773,
+                        40.533082
+                  ]
+            },
+            {
+                  "name": "Arkheologicheskii muzei",
+                  "text": "Muzeul Arheologic din Oș expune artefacte din regiunea înconjurătoare.",
+                  "category": "museum",
+                  "coords": [
+                        72.79281,
+                        40.529636
+                  ]
+            },
+            {
+                  "name": "Alumbek Datka Museum",
+                  "text": "Muzeul Alumbek Datka din Oș este dedicat vieții lui Alumbek Datka și istoriei locale.",
+                  "category": "museum",
+                  "coords": [
+                        72.793743,
+                        40.529932
+                  ]
+            },
+            {
+                  "name": "Poselenie bronzovogo veka",
+                  "text": "Așezarea din Epoca Bronzului din Oș este un sit arheologic cu fundații excavate.",
+                  "category": "historical",
+                  "coords": [
+                        72.780857,
+                        40.52883
+                  ]
+            },
+            {
+                  "name": "Sultan Ibraimov atyndagy Osh uluttuk drama teatry",
+                  "text": "Teatrul Național Sultan Ibraimov din Oș este un loc pentru piese de teatru kirgize.",
+                  "category": "cultural",
+                  "coords": [
+                        72.801377,
+                        40.519994
+                  ]
+            },
+            {
+                  "name": "Oshskaya oblastnaya filarmoniya im.R.Abdykadyrova",
+                  "text": "Filarmonica Regională R. Abdykadyrov din Oș găzduiește concerte clasice.",
+                  "category": "cultural",
+                  "coords": [
+                        72.795488,
+                        40.536773
+                  ]
+            },
+            {
+                  "name": "Turgunbai Sadykov atyndagy Osh oblustuk korkom surot muzeii",
+                  "text": "Muzeul Regional de Arte Frumoase Turgunbai Sadykov din Oș expune lucrări de artă kirgize.",
+                  "category": "museum",
+                  "coords": [
+                        72.792211,
+                        40.531952
+                  ]
+            },
+            {
+                  "name": "Bel tash",
+                  "text": "Bel tash din Oș este un reper natural cu o formațiune de stâncă albă.",
+                  "category": "landmark",
+                  "coords": [
+                        72.79018,
+                        40.530554
+                  ]
+            },
+            {
+                  "name": "Pamyatnik Kurmanzhan Datka",
+                  "text": "Pamyatnik Kurmanzhan Datka din Oș este un monument dedicat lui Kurmanzhan Datka, „Regina Munților”.",
+                  "category": "landmark",
+                  "coords": [
+                        72.79504,
+                        40.527302
+                  ]
+            },
+            {
+                  "name": "Oshskaya spetsialnaya detskaya khudozhestvennaya shkola im. G. Aitieva",
+                  "text": "Școala de Artă pentru Copii G. Aitieva din Oș este specializată în educația artistică.",
+                  "category": "cultural",
+                  "coords": [
+                        72.791699,
+                        40.529132
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Istoriko-etnograficheskii muzei Sulaiman-Too",
+                  "text": "Museum complex at the foot of Sulaiman-Too mountain in Osh, housing Silk Road archaeological finds.",
+                  "category": "museum",
+                  "coords": [
+                        72.783732,
+                        40.52866
+                  ]
+            },
+            {
+                  "name": "Osh State Academic Uzbek Music and Drama Theater named after Babur",
+                  "text": "Theatre for Uzbek music and drama in Osh, named after Babur.",
+                  "category": "cultural",
+                  "coords": [
+                        72.796773,
+                        40.533082
+                  ]
+            },
+            {
+                  "name": "Archeological Museum",
+                  "text": "The Archaeological Museum in Osh displays artifacts from the surrounding region.",
+                  "category": "museum",
+                  "coords": [
+                        72.79281,
+                        40.529636
+                  ]
+            },
+            {
+                  "name": "Alumbek Datka Museum",
+                  "text": "The Alumbek Datka Museum in Osh is dedicated to the life of Alumbek Datka and local history.",
+                  "category": "museum",
+                  "coords": [
+                        72.793743,
+                        40.529932
+                  ]
+            },
+            {
+                  "name": "Bronze Age settlement",
+                  "text": "The Bronze Age settlement in Osh is an archaeological site with excavated foundations.",
+                  "category": "historical",
+                  "coords": [
+                        72.780857,
+                        40.52883
+                  ]
+            },
+            {
+                  "name": "Sultan Ibraimov atyndagy Osh uluttuk drama teatry",
+                  "text": "The Sultan Ibraimov National Drama Theater in Osh is a venue for Kyrgyz plays.",
+                  "category": "cultural",
+                  "coords": [
+                        72.801377,
+                        40.519994
+                  ]
+            },
+            {
+                  "name": "Oshskaya oblastnaya filarmoniya im.R.Abdykadyrova",
+                  "text": "The R. Abdykadyrov Regional Philharmonic in Osh hosts classical concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        72.795488,
+                        40.536773
+                  ]
+            },
+            {
+                  "name": "Turgunbai Sadykov Osh Regional Museum of Fine Arts",
+                  "text": "The Turgunbai Sadykov Osh Regional Museum of Fine Arts displays Kyrgyz artworks.",
+                  "category": "museum",
+                  "coords": [
+                        72.792211,
+                        40.531952
+                  ]
+            },
+            {
+                  "name": "Bel tash",
+                  "text": "Bel tash in Osh is a landmark featuring a distinctive white rock formation.",
+                  "category": "landmark",
+                  "coords": [
+                        72.79018,
+                        40.530554
+                  ]
+            },
+            {
+                  "name": "Pamyatnik Kurmanzhan Datka",
+                  "text": "The Pamyatnik Kurmanzhan Datka in Osh is a monument honoring Kurmanzhan Datka, the 'Queen of the Mountains'.",
+                  "category": "landmark",
+                  "coords": [
+                        72.79504,
+                        40.527302
+                  ]
+            },
+            {
+                  "name": "Oshskaya spetsialnaya detskaya khudozhestvennaya shkola im. G. Aitieva",
+                  "text": "The G. Aitieva Children's Art School in Osh specializes in fine arts education.",
+                  "category": "cultural",
+                  "coords": [
+                        72.791699,
+                        40.529132
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KG-GO",
     coords: [72.8, 40.53],
@@ -115,7 +637,196 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       fr: ["Revendique plus de 3000 ans d'histoire humaine.", "Considérée comme la 'capitale du Sud' du Kirghizistan.", "La Soulaïman-Too est le seul site de la ville classé à l'UNESCO.", "Le bazar de Jayma s'étend sur plus d'un kilomètre le long de la rivière Ak-Buura.", "Constituait un carrefour névralgique sur la Route de la Soie.", "Abrite la plus grande statue de Lénine d'Asie centrale.", "La ville est un véritable creuset des cultures kirghize et ouzbèke."],
     }, image: "/poi-images/osh-cities-v2.webp"},
   {
-    id: "jalal-abad-cities-v2", "sights": {"de": [{"name": "Barpy Alykulov", "text": "Барпы Алыкулов ist ein Theater in der Stadt Dschalalabat.", "category": "cultural", "coords": [73.007413, 40.929477]}, {"name": "Filarmoniya", "text": "Die Philharmonie in Dschalalabat ist ein Zentrum für musikalische und theatralische Aufführungen.", "category": "cultural", "coords": [72.992571, 40.940305]}, {"name": "Istoriko-Kraevedcheskii muzei", "text": "Das Geschichts- und Heimatmuseum in Dschalalabat bewahrt die regionale Geschichte und das Erbe.", "category": "museum", "coords": [73.010748, 40.927066]}, {"name": "Vid na Dzhalal-Abad", "text": "Dieser Aussichtspunkt bietet einen malerischen Panoramablick über die Stadt Dschalalabat.", "category": "natural", "coords": [73.020875, 40.940372]}, {"name": "Znak Zhalal-Abad", "text": "Знак Жалал-Абад ist ein markantes Wahrzeichen und eine lokale Attraktion in Dschalalabat.", "category": "landmark", "coords": [73.011722, 40.922981]}], "hu": [{"name": "Barpy Alykulov", "text": "A Барпы Алыкулов egy színház Dzsalalabad városában.", "category": "cultural", "coords": [73.007413, 40.929477]}, {"name": "Filarmoniya", "text": "A dzsalalabadi Filharmónia a zenei és színházi előadások központja.", "category": "cultural", "coords": [72.992571, 40.940305]}, {"name": "Istoriko-Kraevedcheskii muzei", "text": "A dzsalalabadi Történeti és Helytörténeti Múzeum a régió történelmét és örökségét őrzi.", "category": "museum", "coords": [73.010748, 40.927066]}, {"name": "Vid na Dzhalal-Abad", "text": "Ez a kilátó festői panorámát kínál Dzsalalabad városára.", "category": "natural", "coords": [73.020875, 40.940372]}, {"name": "Znak Zhalal-Abad", "text": "A Знак Жалал-Абад egy jellegzetes nevezetesség és helyi látványosság Dzsalalabadban.", "category": "landmark", "coords": [73.011722, 40.922981]}], "ro": [{"name": "Barpy Alykulov", "text": "Барпы Алыкулов este un teatru situat în orașul Dschalalabat.", "category": "cultural", "coords": [73.007413, 40.929477]}, {"name": "Filarmoniya", "text": "Filarmonica din Dschalalabat este un centru pentru spectacole muzicale și teatrale.", "category": "cultural", "coords": [72.992571, 40.940305]}, {"name": "Istoriko-Kraevedcheskii muzei", "text": "Muzeul de istorie și tradiții locale din Dschalalabat păstrează istoria și patrimoniul regional.", "category": "museum", "coords": [73.010748, 40.927066]}, {"name": "Vid na Dzhalal-Abad", "text": "Acest punct de belvedere oferă o vedere panoramică pitorească asupra orașului Dschalalabat.", "category": "natural", "coords": [73.020875, 40.940372]}, {"name": "Znak Zhalal-Abad", "text": "Знак Жалал-Абад este un reper distinctiv și o atracție locală în Dschalalabat.", "category": "landmark", "coords": [73.011722, 40.922981]}], "en": [{"name": "Barpy Alykulov", "text": "Барпы Алыкулов is a theatre venue located in the city of Dschalalabat.", "category": "cultural", "coords": [73.007413, 40.929477]}, {"name": "Filarmoniya", "text": "The Philharmonia in Dschalalabat is a centre for musical and theatrical performances.", "category": "cultural", "coords": [72.992571, 40.940305]}, {"name": "History and local lore museum", "text": "The History and local lore museum in Dschalalabat preserves the regional history and heritage.", "category": "museum", "coords": [73.010748, 40.927066]}, {"name": "Viewpoint over Jalal-Abad", "text": "This viewpoint offers a scenic panoramic view over the city of Dschalalabat.", "category": "natural", "coords": [73.020875, 40.940372]}, {"name": "Znak Zhalal-Abad", "text": "Знак Жалал-Абад is a distinct landmark and local attraction in Dschalalabat.", "category": "landmark", "coords": [73.011722, 40.922981]}]},
+    id: "jalal-abad-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Barpy Alykulov",
+                  "text": "Barpy Alykulov in Abad ist eine Gedenkstätte für den kirgisischen Musiker Barpy Alykulov.",
+                  "category": "cultural",
+                  "coords": [
+                        73.007413,
+                        40.929477
+                  ]
+            },
+            {
+                  "name": "Filarmoniya",
+                  "text": "Die Philharmonie in Dschalalabat ist ein Zentrum für musikalische und theatralische Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        72.992571,
+                        40.940305
+                  ]
+            },
+            {
+                  "name": "Istoriko-Kraevedcheskii muzei",
+                  "text": "Das Geschichts- und Heimatmuseum in Dschalalabat bewahrt die regionale Geschichte und das Erbe.",
+                  "category": "museum",
+                  "coords": [
+                        73.010748,
+                        40.927066
+                  ]
+            },
+            {
+                  "name": "Vid na Dzhalal-Abad",
+                  "text": "Dieser Aussichtspunkt bietet einen malerischen Panoramablick über die Stadt Dschalalabat.",
+                  "category": "natural",
+                  "coords": [
+                        73.020875,
+                        40.940372
+                  ]
+            },
+            {
+                  "name": "Znak Zhalal-Abad",
+                  "text": "Der Znak Zhalal-Abad in Abad ist ein Ortseingangsschild, das auf die Region Jalal-Abad hinweist.",
+                  "category": "landmark",
+                  "coords": [
+                        73.011722,
+                        40.922981
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Barpy Alykulov",
+                  "text": "Az abadi Barpy Alykulov a kirgiz zenész, Barpy Alykulov emlékhelye.",
+                  "category": "cultural",
+                  "coords": [
+                        73.007413,
+                        40.929477
+                  ]
+            },
+            {
+                  "name": "Filarmoniya",
+                  "text": "A dzsalalabadi Filharmónia a zenei és színházi előadások központja.",
+                  "category": "cultural",
+                  "coords": [
+                        72.992571,
+                        40.940305
+                  ]
+            },
+            {
+                  "name": "Istoriko-Kraevedcheskii muzei",
+                  "text": "A dzsalalabadi Történeti és Helytörténeti Múzeum a régió történelmét és örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        73.010748,
+                        40.927066
+                  ]
+            },
+            {
+                  "name": "Vid na Dzhalal-Abad",
+                  "text": "Ez a kilátó festői panorámát kínál Dzsalalabad városára.",
+                  "category": "natural",
+                  "coords": [
+                        73.020875,
+                        40.940372
+                  ]
+            },
+            {
+                  "name": "Znak Zhalal-Abad",
+                  "text": "Az abadi Znak Zhalal-Abad egy bejárati tábla a Zsalal-Abad régióba.",
+                  "category": "landmark",
+                  "coords": [
+                        73.011722,
+                        40.922981
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Barpy Alykulov",
+                  "text": "Barpy Alykulov din Abad este un sit cultural dedicat muzicianului kirgyz Barpy Alykulov.",
+                  "category": "cultural",
+                  "coords": [
+                        73.007413,
+                        40.929477
+                  ]
+            },
+            {
+                  "name": "Filarmoniya",
+                  "text": "Filarmonica din Dschalalabat este un centru pentru spectacole muzicale și teatrale.",
+                  "category": "cultural",
+                  "coords": [
+                        72.992571,
+                        40.940305
+                  ]
+            },
+            {
+                  "name": "Istoriko-Kraevedcheskii muzei",
+                  "text": "Muzeul de istorie și tradiții locale din Dschalalabat păstrează istoria și patrimoniul regional.",
+                  "category": "museum",
+                  "coords": [
+                        73.010748,
+                        40.927066
+                  ]
+            },
+            {
+                  "name": "Vid na Dzhalal-Abad",
+                  "text": "Acest punct de belvedere oferă o vedere panoramică pitorească asupra orașului Dschalalabat.",
+                  "category": "natural",
+                  "coords": [
+                        73.020875,
+                        40.940372
+                  ]
+            },
+            {
+                  "name": "Znak Zhalal-Abad",
+                  "text": "Znak Zhalal-Abad din Abad este un indicator de intrare în regiunea Jalal-Abad.",
+                  "category": "landmark",
+                  "coords": [
+                        73.011722,
+                        40.922981
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Barpy Alykulov",
+                  "text": "Barpy Alykulov in Abad is a cultural site dedicated to the Kyrgyz musician Barpy Alykulov.",
+                  "category": "cultural",
+                  "coords": [
+                        73.007413,
+                        40.929477
+                  ]
+            },
+            {
+                  "name": "Filarmoniya",
+                  "text": "The Philharmonia in Dschalalabat is a centre for musical and theatrical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        72.992571,
+                        40.940305
+                  ]
+            },
+            {
+                  "name": "History and local lore museum",
+                  "text": "The History and local lore museum in Dschalalabat preserves the regional history and heritage.",
+                  "category": "museum",
+                  "coords": [
+                        73.010748,
+                        40.927066
+                  ]
+            },
+            {
+                  "name": "Viewpoint over Jalal-Abad",
+                  "text": "This viewpoint offers a scenic panoramic view over the city of Dschalalabat.",
+                  "category": "natural",
+                  "coords": [
+                        73.020875,
+                        40.940372
+                  ]
+            },
+            {
+                  "name": "Znak Zhalal-Abad",
+                  "text": "The Znak Zhalal-Abad in Abad is a sign marking the entrance to the Jalal-Abad region.",
+                  "category": "landmark",
+                  "coords": [
+                        73.011722,
+                        40.922981
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KG-J",
     coords: [73.0, 40.93],
@@ -174,7 +885,232 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       fr: ["Connue pour ses sources minérales et thermales radioactives.", "Le sanatorium 'Djalal-Abad' est célèbre depuis l'époque tsariste.", "La ville est située en bordure des plus grandes forêts de noyers au monde.", "Est le centre administratif de la région fertile de Djalal-Abad.", "La légende veut que les forêts d'Arslanbob aient été visitées par Alexandre le Grand.", "Importance économique grâce au traitement du coton et du tabac.", "Fondée en 1877 comme colonie autour des sources thermales."],
     }, image: "/poi-images/jalal-abad-cities-v2.webp"},
   {
-    id: "karakol-cities-v2", "sights": {"de": [{"name": "Istoriko-kraevedcheskii muzei Karakola", "text": "Regionalmuseum in Karakol.", "category": "museum", "coords": [78.391577, 42.489426]}, {"name": "Muzykalnyi dramaticheskii teatr", "text": "Musikalisches und dramatisches Theater in Karakol.", "category": "cultural", "coords": [78.398527, 42.489625]}, {"name": "Illyuzion", "text": "Freizeitpark in Karakol.", "category": "family", "coords": [78.393208, 42.492539]}, {"name": "Ypkyh", "text": "Das Ypkyh ist ein Monument in Karakol.", "category": "historical", "coords": [78.40785, 42.483536]}, {"name": "Sobor Svyatoi Troitsy", "text": "Die Heilige Dreifaltigkeitskathedrale ist eine bedeutende Sehenswürdigkeit in Karakol.", "category": "landmark", "coords": [78.394851, 42.489123]}, {"name": "Main Bazaar", "text": "Der Hauptbasar von Karakol bietet einen Einblick in den lokalen Handel.", "category": "landmark", "coords": [78.385006, 42.493416]}], "hu": [{"name": "Istoriko-kraevedcheskii muzei Karakola", "text": "Helytörténeti múzeum Karakolban.", "category": "museum", "coords": [78.391577, 42.489426]}, {"name": "Muzykalnyi dramaticheskii teatr", "text": "Zenés drámai színház Karakolban.", "category": "cultural", "coords": [78.398527, 42.489625]}, {"name": "Illyuzion", "text": "Vidámpark Karakolban.", "category": "family", "coords": [78.393208, 42.492539]}, {"name": "Ypkyh", "text": "Az Ypkyh egy emlékmű Karakolban.", "category": "historical", "coords": [78.40785, 42.483536]}, {"name": "Sobor Svyatoi Troitsy", "text": "A Szent Háromság-székesegyház egy jelentős látnivaló Karakolban.", "category": "landmark", "coords": [78.394851, 42.489123]}, {"name": "Main Bazaar", "text": "Karakol fő bazárja betekintést nyújt a helyi kereskedelembe.", "category": "landmark", "coords": [78.385006, 42.493416]}], "ro": [{"name": "Istoriko-kraevedcheskii muzei Karakola", "text": "Muzeu regional în Karakol.", "category": "museum", "coords": [78.391577, 42.489426]}, {"name": "Muzykalnyi dramaticheskii teatr", "text": "Teatru muzical și dramatic în Karakol.", "category": "cultural", "coords": [78.398527, 42.489625]}, {"name": "Illyuzion", "text": "Parc tematic în Karakol.", "category": "family", "coords": [78.393208, 42.492539]}, {"name": "Ypkyh", "text": "Ypkyh este un monument în Karakol.", "category": "historical", "coords": [78.40785, 42.483536]}, {"name": "Sobor Svyatoi Troitsy", "text": "Catedrala Sfânta Treime este un obiectiv turistic important în Karakol.", "category": "landmark", "coords": [78.394851, 42.489123]}, {"name": "Main Bazaar", "text": "Bazarul principal din Karakol oferă o incursiune în comerțul local.", "category": "landmark", "coords": [78.385006, 42.493416]}], "en": [{"name": "Karakol historical regional study museum", "text": "Regional museum in Karakol.", "category": "museum", "coords": [78.391577, 42.489426]}, {"name": "Muzykalnyi dramaticheskii teatr", "text": "Musical and drama theatre in Karakol.", "category": "cultural", "coords": [78.398527, 42.489625]}, {"name": "Illyuzion", "text": "Theme park in Karakol.", "category": "family", "coords": [78.393208, 42.492539]}, {"name": "Ypkyh", "text": "Ypkyh is a monument in Karakol.", "category": "historical", "coords": [78.40785, 42.483536]}, {"name": "Holy Trinity Cathedral", "text": "The Holy Trinity Cathedral is a significant attraction in Karakol.", "category": "landmark", "coords": [78.394851, 42.489123]}, {"name": "Main Bazaar", "text": "The Main Bazaar of Karakol offers an insight into local trade.", "category": "landmark", "coords": [78.385006, 42.493416]}]},
+    id: "karakol-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Istoriko-kraevedcheskii muzei Karakola",
+                  "text": "Das Karakol Historical Regional Study Museum zeigt die Geschichte und Kultur der Region.",
+                  "category": "museum",
+                  "coords": [
+                        78.391577,
+                        42.489426
+                  ]
+            },
+            {
+                  "name": "Muzykalnyi dramaticheskii teatr",
+                  "text": "1937 erbautes Musikdramatheater in Karakol.",
+                  "category": "cultural",
+                  "coords": [
+                        78.398527,
+                        42.489625
+                  ]
+            },
+            {
+                  "name": "Illyuzion",
+                  "text": "Illyuzion in Karakol ist ein Familienunterhaltungszentrum mit Spielen und Attraktionen.",
+                  "category": "family",
+                  "coords": [
+                        78.393208,
+                        42.492539
+                  ]
+            },
+            {
+                  "name": "Ypkyh",
+                  "text": "Ypkyh in Karakol ist eine historische Stätte mit Überresten einer alten Siedlung.",
+                  "category": "historical",
+                  "coords": [
+                        78.40785,
+                        42.483536
+                  ]
+            },
+            {
+                  "name": "Sobor Svyatoi Troitsy",
+                  "text": "1894–1895 erbaute Kathedrale in Karakol.",
+                  "category": "landmark",
+                  "coords": [
+                        78.394851,
+                        42.489123
+                  ]
+            },
+            {
+                  "name": "Main Bazaar",
+                  "text": "Der Hauptbasar von Karakol bietet einen Einblick in den lokalen Handel.",
+                  "category": "landmark",
+                  "coords": [
+                        78.385006,
+                        42.493416
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Istoriko-kraevedcheskii muzei Karakola",
+                  "text": "A karakoli Karakol Historical Regional Study Museum a térség történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        78.391577,
+                        42.489426
+                  ]
+            },
+            {
+                  "name": "Muzykalnyi dramaticheskii teatr",
+                  "text": "1937-ben épült zenés színház Karakolban.",
+                  "category": "cultural",
+                  "coords": [
+                        78.398527,
+                        42.489625
+                  ]
+            },
+            {
+                  "name": "Illyuzion",
+                  "text": "A karakoli Illyuzion egy családi szórakoztató központ játékokkal és attrakciókkal.",
+                  "category": "family",
+                  "coords": [
+                        78.393208,
+                        42.492539
+                  ]
+            },
+            {
+                  "name": "Ypkyh",
+                  "text": "A karakoli Ypkyh egy történelmi lelőhely egy ősi település maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        78.40785,
+                        42.483536
+                  ]
+            },
+            {
+                  "name": "Sobor Svyatoi Troitsy",
+                  "text": "1894–1895-ben épült székesegyház Karakolban.",
+                  "category": "landmark",
+                  "coords": [
+                        78.394851,
+                        42.489123
+                  ]
+            },
+            {
+                  "name": "Main Bazaar",
+                  "text": "Karakol fő bazárja betekintést nyújt a helyi kereskedelembe.",
+                  "category": "landmark",
+                  "coords": [
+                        78.385006,
+                        42.493416
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Istoriko-kraevedcheskii muzei Karakola",
+                  "text": "Muzeul Regional de Studii Istorice Karakol prezintă istoria și cultura regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        78.391577,
+                        42.489426
+                  ]
+            },
+            {
+                  "name": "Muzykalnyi dramaticheskii teatr",
+                  "text": "Teatru muzical-dramatic construit în 1937 la Karakol.",
+                  "category": "cultural",
+                  "coords": [
+                        78.398527,
+                        42.489625
+                  ]
+            },
+            {
+                  "name": "Illyuzion",
+                  "text": "Illyuzion din Karakol este un centru de divertisment familial cu jocuri și atracții.",
+                  "category": "family",
+                  "coords": [
+                        78.393208,
+                        42.492539
+                  ]
+            },
+            {
+                  "name": "Ypkyh",
+                  "text": "Ypkyh din Karakol este un sit istoric cu rămășițe ale unei așezări străvechi.",
+                  "category": "historical",
+                  "coords": [
+                        78.40785,
+                        42.483536
+                  ]
+            },
+            {
+                  "name": "Sobor Svyatoi Troitsy",
+                  "text": "Catedrală construită între 1894 și 1895 în Karakol.",
+                  "category": "landmark",
+                  "coords": [
+                        78.394851,
+                        42.489123
+                  ]
+            },
+            {
+                  "name": "Main Bazaar",
+                  "text": "Bazarul principal din Karakol oferă o incursiune în comerțul local.",
+                  "category": "landmark",
+                  "coords": [
+                        78.385006,
+                        42.493416
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Karakol historical regional study museum",
+                  "text": "The Karakol Historical Regional Study Museum exhibits the history and culture of the region.",
+                  "category": "museum",
+                  "coords": [
+                        78.391577,
+                        42.489426
+                  ]
+            },
+            {
+                  "name": "Muzykalnyi dramaticheskii teatr",
+                  "text": "Musical drama theatre built in 1937 in Karakol.",
+                  "category": "cultural",
+                  "coords": [
+                        78.398527,
+                        42.489625
+                  ]
+            },
+            {
+                  "name": "Illyuzion",
+                  "text": "Illyuzion in Karakol is a family entertainment centre with games and attractions.",
+                  "category": "family",
+                  "coords": [
+                        78.393208,
+                        42.492539
+                  ]
+            },
+            {
+                  "name": "Ypkyh",
+                  "text": "Ypkyh in Karakol is a historical site with remnants of an ancient settlement.",
+                  "category": "historical",
+                  "coords": [
+                        78.40785,
+                        42.483536
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Cathedral",
+                  "text": "Cathedral built 1894–1895 in Karakol.",
+                  "category": "landmark",
+                  "coords": [
+                        78.394851,
+                        42.489123
+                  ]
+            },
+            {
+                  "name": "Main Bazaar",
+                  "text": "The Main Bazaar of Karakol offers an insight into local trade.",
+                  "category": "landmark",
+                  "coords": [
+                        78.385006,
+                        42.493416
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KG-Y",
     coords: [78.38, 42.49],
@@ -233,7 +1169,412 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       fr: ["A été fondée en 1869 comme poste militaire russe.", "S'est longtemps appelée Przewalsk en l'honneur d'un explorateur.", "La mosquée dungan a été construite sans aucun clou métallique.", "La cathédrale orthodoxe russe est entièrement faite de bois.", "Considérée comme la porte d'entrée pour la randonnée dans le Tian Shan.", "Le marché aux bestiaux du dimanche est l'un des plus grands du pays.", "Située à l'extrémité est du lac de haute montagne Issyk-Kul."],
     }, image: "/poi-images/karakol-cities-v2.webp"},
   {
-    id: "tokmok-cities-v2",
+    id: "tokmok-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fly Park",
+                  "text": "Ein moderner Indoor-Freizeitpark mit Trampolinen und Kletterbereichen für Familien in Tokmok.",
+                  "category": "recreational",
+                  "coords": [
+                        75.290652,
+                        42.835881
+                  ]
+            },
+            {
+                  "name": "Shaardyk madaniiat uiu",
+                  "text": "Das städtische Kulturhaus dient als zentraler Veranstaltungsort für Konzerte, Theater und lokale Feierlichkeiten.",
+                  "category": "cultural",
+                  "coords": [
+                        75.288971,
+                        42.826809
+                  ]
+            },
+            {
+                  "name": "Park atraktsionov",
+                  "text": "Ein lokaler Freizeitpark im Freien, der Karussells und Unterhaltung für Kinder in der Stadt Tokmok bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        75.290172,
+                        42.838697
+                  ]
+            },
+            {
+                  "name": "Tokmokskii Istoriko-Kraevedcheskii muzei",
+                  "text": "Das Museum präsentiert archäologische Funde und Exponate zur Geschichte des Tschui-Tals und der Stadt Tokmok.",
+                  "category": "museum",
+                  "coords": [
+                        75.297436,
+                        42.8479
+                  ]
+            },
+            {
+                  "name": "Tsentral'naia mechet'",
+                  "text": "Das wichtigste religiöse Zentrum der muslimischen Gemeinde in Tokmok mit einer charakteristischen grünen Kuppel.",
+                  "category": "landmark",
+                  "coords": [
+                        75.291014,
+                        42.827955
+                  ]
+            },
+            {
+                  "name": "Khram Bozhii",
+                  "text": "Ein kleines christliches Gotteshaus, das der lokalen Gemeinde als Ort der Besinnung und des Gebets dient.",
+                  "category": "landmark",
+                  "coords": [
+                        75.285687,
+                        42.831404
+                  ]
+            },
+            {
+                  "name": "Ikhlas",
+                  "text": "Eine lokale Moschee im Viertel, die durch ihre schlichte Architektur und ihre Rolle als Gemeindezentrum besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        75.290889,
+                        42.833301
+                  ]
+            },
+            {
+                  "name": "Tserkov' Sviatogo Georgiia Pobedonostsa",
+                  "text": "Eine russisch-orthodoxe Kirche in Tokmok, die dem heiligen Georg dem Siegreichen gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        75.29209,
+                        42.848592
+                  ]
+            },
+            {
+                  "name": "Bazar \"Murok\"",
+                  "text": "Ein lebhafter lokaler Basar, auf dem Textilien, frische Lebensmittel und Waren des täglichen Bedarfs gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        75.29213,
+                        42.851244
+                  ]
+            },
+            {
+                  "name": "Skotnyi rynok",
+                  "text": "Dieser belebte Viehmarkt in Tokmok ist ein traditioneller Handelsplatz für den Verkauf von Rindern, Schafen und Pferden.",
+                  "category": "cultural",
+                  "coords": [
+                        75.292603,
+                        42.855563
+                  ]
+            },
+            {
+                  "name": "Khoziaistvennyi rynok",
+                  "text": "Ein lebendiger lokaler Markt in Tokmok, der auf Haushaltswaren, Eisenwaren und den täglichen Bedarf der Anwohner spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        75.294796,
+                        42.855686
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fly Park",
+                  "text": "Modern fedett szabadidőpark trambulinokkal és mászófalakkal családok számára Tokmokban.",
+                  "category": "recreational",
+                  "coords": [
+                        75.290652,
+                        42.835881
+                  ]
+            },
+            {
+                  "name": "Shaardyk madaniiat uiu",
+                  "text": "A városi művelődési ház koncertek, színházi előadások és helyi ünnepségek központi helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        75.288971,
+                        42.826809
+                  ]
+            },
+            {
+                  "name": "Park atraktsionov",
+                  "text": "Helyi szabadtéri vidámpark, amely körhintákat és szórakozást kínál a gyermekek számára Tokmok városában.",
+                  "category": "recreational",
+                  "coords": [
+                        75.290172,
+                        42.838697
+                  ]
+            },
+            {
+                  "name": "Tokmokskii Istoriko-Kraevedcheskii muzei",
+                  "text": "A múzeum régészeti leleteket és a Csuj-völgy, valamint Tokmok városának történelmét bemutató tárgyakat őriz.",
+                  "category": "museum",
+                  "coords": [
+                        75.297436,
+                        42.8479
+                  ]
+            },
+            {
+                  "name": "Tsentral'naia mechet'",
+                  "text": "Tokmok muszlim közösségének legfontosabb vallási központja, jellegzetes zöld kupolával.",
+                  "category": "landmark",
+                  "coords": [
+                        75.291014,
+                        42.827955
+                  ]
+            },
+            {
+                  "name": "Khram Bozhii",
+                  "text": "Kisméretű keresztény templom, amely a helyi közösség számára az elmélkedés és az ima helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        75.285687,
+                        42.831404
+                  ]
+            },
+            {
+                  "name": "Ikhlas",
+                  "text": "Helyi negyedbeli mecset, amely egyszerű építészetével és közösségi szerepével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        75.290889,
+                        42.833301
+                  ]
+            },
+            {
+                  "name": "Tserkov' Sviatogo Georgiia Pobedonostsa",
+                  "text": "Szent Györgynek szentelt orosz ortodox templom Tokmok városában.",
+                  "category": "landmark",
+                  "coords": [
+                        75.29209,
+                        42.848592
+                  ]
+            },
+            {
+                  "name": "Bazar \"Murok\"",
+                  "text": "Nyüzsgő helyi bazár, ahol textíliákkal, friss élelmiszerekkel és mindennapi cikkekkel kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        75.29213,
+                        42.851244
+                  ]
+            },
+            {
+                  "name": "Skotnyi rynok",
+                  "text": "Ez a nyüzsgő tokmoki állatpiac a szarvasmarha-, juh- és lókereskedelem tradicionális központja a régióban.",
+                  "category": "cultural",
+                  "coords": [
+                        75.292603,
+                        42.855563
+                  ]
+            },
+            {
+                  "name": "Khoziaistvennyi rynok",
+                  "text": "Egy élénk helyi piac Tokmokban, amely háztartási cikkekre, barkácsfelszerelésekre és a lakosság napi szükségleteire szakosodott.",
+                  "category": "cultural",
+                  "coords": [
+                        75.294796,
+                        42.855686
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fly Park",
+                  "text": "Un parc de distracții interior modern, cu trambuline și zone de escaladă pentru familii în Tokmok.",
+                  "category": "recreational",
+                  "coords": [
+                        75.290652,
+                        42.835881
+                  ]
+            },
+            {
+                  "name": "Shaardyk madaniiat uiu",
+                  "text": "Casa de cultură a orașului servește ca loc central pentru concerte, teatru și festivități locale.",
+                  "category": "cultural",
+                  "coords": [
+                        75.288971,
+                        42.826809
+                  ]
+            },
+            {
+                  "name": "Park atraktsionov",
+                  "text": "Un parc de distracții local în aer liber, care oferă carusele și divertisment pentru copii în orașul Tokmok.",
+                  "category": "recreational",
+                  "coords": [
+                        75.290172,
+                        42.838697
+                  ]
+            },
+            {
+                  "name": "Tokmokskii Istoriko-Kraevedcheskii muzei",
+                  "text": "Muzeul prezintă descoperiri arheologice și exponate despre istoria văii Chuy și a orașului Tokmok.",
+                  "category": "museum",
+                  "coords": [
+                        75.297436,
+                        42.8479
+                  ]
+            },
+            {
+                  "name": "Tsentral'naia mechet'",
+                  "text": "Cel mai important centru religios al comunității musulmane din Tokmok, având o cupolă verde caracteristică.",
+                  "category": "landmark",
+                  "coords": [
+                        75.291014,
+                        42.827955
+                  ]
+            },
+            {
+                  "name": "Khram Bozhii",
+                  "text": "Un mic lăcaș de cult creștin care servește comunității locale ca loc de reflecție și rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        75.285687,
+                        42.831404
+                  ]
+            },
+            {
+                  "name": "Ikhlas",
+                  "text": "O moschee locală de cartier care se remarcă prin arhitectura sa simplă și rolul său de centru comunitar.",
+                  "category": "landmark",
+                  "coords": [
+                        75.290889,
+                        42.833301
+                  ]
+            },
+            {
+                  "name": "Tserkov' Sviatogo Georgiia Pobedonostsa",
+                  "text": "O biserică ortodoxă rusă din Tokmok dedicată Sfântului Gheorghe Biruitorul.",
+                  "category": "landmark",
+                  "coords": [
+                        75.29209,
+                        42.848592
+                  ]
+            },
+            {
+                  "name": "Bazar \"Murok\"",
+                  "text": "Un bazar local plin de viață unde se vând textile, alimente proaspete și articole de uz zilnic.",
+                  "category": "cultural",
+                  "coords": [
+                        75.29213,
+                        42.851244
+                  ]
+            },
+            {
+                  "name": "Skotnyi rynok",
+                  "text": "Această piață de animale plină de viață din Tokmok este un centru tradițional de comerț pentru bovine, ovine și cai.",
+                  "category": "cultural",
+                  "coords": [
+                        75.292603,
+                        42.855563
+                  ]
+            },
+            {
+                  "name": "Khoziaistvennyi rynok",
+                  "text": "O piață locală vibrantă din Tokmok, specializată în articole de uz casnic, feronerie și produse esențiale pentru localnici.",
+                  "category": "cultural",
+                  "coords": [
+                        75.294796,
+                        42.855686
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fly Park",
+                  "text": "A modern indoor recreation park featuring trampolines and climbing areas for families in Tokmok.",
+                  "category": "recreational",
+                  "coords": [
+                        75.290652,
+                        42.835881
+                  ]
+            },
+            {
+                  "name": "Shaardyk madaniiat uiu",
+                  "text": "The city cultural house serves as a central venue for concerts, theater, and local festivities.",
+                  "category": "cultural",
+                  "coords": [
+                        75.288971,
+                        42.826809
+                  ]
+            },
+            {
+                  "name": "Park atraktsionov",
+                  "text": "A local outdoor amusement park offering carousels and entertainment for children in the city of Tokmok.",
+                  "category": "recreational",
+                  "coords": [
+                        75.290172,
+                        42.838697
+                  ]
+            },
+            {
+                  "name": "Tokmokskii Istoriko-Kraevedcheskii muzei",
+                  "text": "The museum displays archaeological finds and exhibits on the history of the Chuy Valley and Tokmok city.",
+                  "category": "museum",
+                  "coords": [
+                        75.297436,
+                        42.8479
+                  ]
+            },
+            {
+                  "name": "Tsentral'naia mechet'",
+                  "text": "The most important religious center for the Muslim community in Tokmok, featuring a distinctive green dome.",
+                  "category": "landmark",
+                  "coords": [
+                        75.291014,
+                        42.827955
+                  ]
+            },
+            {
+                  "name": "Khram Bozhii",
+                  "text": "A small Christian house of worship serving the local community as a place for reflection and prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        75.285687,
+                        42.831404
+                  ]
+            },
+            {
+                  "name": "Ikhlas",
+                  "text": "A local neighborhood mosque noted for its simple architecture and role as a community gathering place.",
+                  "category": "landmark",
+                  "coords": [
+                        75.290889,
+                        42.833301
+                  ]
+            },
+            {
+                  "name": "Tserkov' Sviatogo Georgiia Pobedonostsa",
+                  "text": "A Russian Orthodox church in Tokmok dedicated to Saint George the Victorious.",
+                  "category": "landmark",
+                  "coords": [
+                        75.29209,
+                        42.848592
+                  ]
+            },
+            {
+                  "name": "Bazar \"Murok\"",
+                  "text": "A vibrant local bazaar where textiles, fresh food, and daily essentials are traded.",
+                  "category": "cultural",
+                  "coords": [
+                        75.29213,
+                        42.851244
+                  ]
+            },
+            {
+                  "name": "Skotnyi rynok",
+                  "text": "This bustling livestock market in Tokmok is a traditional trading hub for the sale of cattle, sheep, and horses.",
+                  "category": "cultural",
+                  "coords": [
+                        75.292603,
+                        42.855563
+                  ]
+            },
+            {
+                  "name": "Khoziaistvennyi rynok",
+                  "text": "A vibrant local market in Tokmok specializing in household goods, hardware, and essential supplies for residents.",
+                  "category": "cultural",
+                  "coords": [
+                        75.294796,
+                        42.855686
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KG-C",
     coords: [75.3, 42.84],
@@ -292,7 +1633,124 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       fr: ["Située près des vestiges de l'antique cité de Balasagun.", "La tour Burana (XIe siècle) est le monument emblématique de la région.", "Érigée en 1864 comme forteresse russe sur les rives de la rivière Tchou.", "Fut brièvement le centre administratif de la vallée au XIXe siècle.", "La ville abrite une importante communauté de Dounganes.", "C'est un pôle de production de verre et d'industrie textile.", "Par temps clair, elle offre un panorama splendide sur la chaîne kirghize."],
     }, image: "/poi-images/tokmok-cities-v2.webp"},
   {
-    id: "kara-balta-cities-v2",
+    id: "kara-balta-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Veselye Gorki",
+                  "text": "Ein familienfreundlicher Freizeitpark in Kara-Balta, der Besucher mit klassischen Achterbahnen, farbenfrohen Karussells und Arcade-Spielen begeistert.",
+                  "category": "recreational",
+                  "coords": [
+                        73.852472,
+                        42.797216
+                  ]
+            },
+            {
+                  "name": "Koreiskaia tserkov'",
+                  "text": "Diese moderne protestantische koreanische Kirche bedient die lokale Diaspora in Kara-Balta und bietet zweisprachige Gottesdienste und kommunale Unterstützungsprogramme.",
+                  "category": "religious",
+                  "coords": [
+                        73.849965,
+                        42.816388
+                  ]
+            },
+            {
+                  "name": "Svideteli Iegovy",
+                  "text": "Dieser einfache, schmucklose Königreichssaal fungiert als offizieller Ort der Anbetung und des Bibelstudiums für die Zeugen Jehovas in Kara-Balta.",
+                  "category": "religious",
+                  "coords": [
+                        73.849513,
+                        42.806653
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Veselye Gorki",
+                  "text": "Családbarát vidámpark Kara-Baltában, amely klasszikus hullámvasutakkal, színes körhintákkal és ügyességi játékokkal nyűgözi le a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        73.852472,
+                        42.797216
+                  ]
+            },
+            {
+                  "name": "Koreiskaia tserkov'",
+                  "text": "A helyi diaszpórát kiszolgáló modern protestáns koreai templom kétnyelvű istentiszteleteket és közösségi támogató programokat kínál Kara-Baltában.",
+                  "category": "religious",
+                  "coords": [
+                        73.849965,
+                        42.816388
+                  ]
+            },
+            {
+                  "name": "Svideteli Iegovy",
+                  "text": "Ez az egyszerű, díszítetlen Királyság-terem szolgál hivatalos istentiszteleti és szentírás-tanulmányozási helyként a Jehova Tanúi számára Kara-Baltában.",
+                  "category": "religious",
+                  "coords": [
+                        73.849513,
+                        42.806653
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Veselye Gorki",
+                  "text": "Un parc tematic prietenos cu familiile din Kara-Balta care încântă vizitatorii cu montagne russe clasice, carusele colorate și jocuri arcade.",
+                  "category": "recreational",
+                  "coords": [
+                        73.852472,
+                        42.797216
+                  ]
+            },
+            {
+                  "name": "Koreiskaia tserkov'",
+                  "text": "Deservind diaspora locală din Kara-Balta, această biserică protestantă coreeană modernă oferă slujbe bilingve și programe de sprijin comunitar.",
+                  "category": "religious",
+                  "coords": [
+                        73.849965,
+                        42.816388
+                  ]
+            },
+            {
+                  "name": "Svideteli Iegovy",
+                  "text": "Această Sală a Regatului simplă, neîmpodobită, funcționează ca loc oficial de închinare și studiu al scripturilor pentru Martorii lui Iehova din Kara-Balta.",
+                  "category": "religious",
+                  "coords": [
+                        73.849513,
+                        42.806653
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Veselye Gorki",
+                  "text": "A family-friendly theme park in Kara-Balta that thrills visitors with classic roller coasters, colourful carousels, and arcade games.",
+                  "category": "recreational",
+                  "coords": [
+                        73.852472,
+                        42.797216
+                  ]
+            },
+            {
+                  "name": "Koreiskaia tserkov'",
+                  "text": "Serving the local diaspora in Kara-Balta, this modern Protestant Korean church offers bilingual services and community support programs.",
+                  "category": "religious",
+                  "coords": [
+                        73.849965,
+                        42.816388
+                  ]
+            },
+            {
+                  "name": "Svideteli Iegovy",
+                  "text": "This simple, unadorned Kingdom Hall functions as the official place of worship and scripture study for Jehovah's Witnesses in Kara-Balta.",
+                  "category": "religious",
+                  "coords": [
+                        73.849513,
+                        42.806653
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KG-C",
     coords: [73.85, 42.81],
@@ -351,7 +1809,52 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       fr: ["Le nom signifie 'hache noire' en kirghize.", "Était un centre stratégique de traitement de l'uranium en URSS.", "Située au croisement des autoroutes vers Och et Tachkent.", "La ville abrite l'une des plus grandes raffineries d'or du pays.", "Possède d'importantes minorités russes et ukrainiennes.", "Économie marquée par les industries sucrière et agroalimentaire.", "Considérée comme la porte ouest de la fertile vallée de Tchouï."],
     }, image: "/poi-images/kara-balta-cities-v2.webp"},
   {
-    id: "naryn-cities-v2",
+    id: "naryn-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "\"Aisha\" mechiti",
+                  "text": "Diese lokale Moschee in Naryn bietet den muslimischen Bewohnern der Stadt einen Ort für den islamischen Gottesdienst.",
+                  "category": "landmark",
+                  "coords": [
+                        75.956936,
+                        41.423851
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "\"Aisha\" mechiti",
+                  "text": "Ez a naryni helyi mecset iszlám istentiszteleti helyet biztosít a város muszlim lakosai számára.",
+                  "category": "landmark",
+                  "coords": [
+                        75.956936,
+                        41.423851
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "\"Aisha\" mechiti",
+                  "text": "Această moschee locală din Naryn oferă un loc de cult islamic pentru rezidenții musulmani ai orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        75.956936,
+                        41.423851
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The mosque \"Aisha\"",
+                  "text": "This local mosque in Naryn provides a place of Islamic worship for the city's Muslim residents.",
+                  "category": "landmark",
+                  "coords": [
+                        75.956936,
+                        41.423851
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KG-N",
     coords: [75.93, 41.43],
@@ -410,7 +1913,88 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       fr: ["Est la capitale provinciale la plus haute du Kirghizistan (2 020 m).", "A été fondée en 1868 comme garnison russe sur la Route de la Soie.", "La rivière Naryn divise la ville en deux parties.", "Connue pour ses hivers extrêmement froids pouvant atteindre -40 degrés.", "Abrite un campus de l'Université d'Asie centrale (UCA).", "La ville fait près de 15 km de long, mais souvent seulement quelques centaines de mètres de large.", "Une base importante pour le commerce frontalier avec la Chine."],
     }, image: "/poi-images/naryn-cities-v2.webp"},
   {
-    id: "uzgen-cities-v2", "sights": {"de": [{"name": "Uzgenskii arkheologicheskii i arkhitekturnyi muzeinyi kompleks", "text": "Özgön Historical Complex ist eine archäologische Stätte in der Stadt Ösgön.", "category": "historical", "coords": [73.298997, 40.768249]}, {"name": "Ozgon Munarasy", "text": "Uzgen Minaret ist eine Sehenswürdigkeit in der Stadt Ösgön.", "category": "landmark", "coords": [73.297975, 40.769008]}], "hu": [{"name": "Uzgenskii arkheologicheskii i arkhitekturnyi muzeinyi kompleks", "text": "Az Özgön Historical Complex egy régészeti lelőhely Ösgön városában.", "category": "historical", "coords": [73.298997, 40.768249]}, {"name": "Ozgon Munarasy", "text": "Az Uzgen Minaret egy turisztikai látványosság Ösgön városában.", "category": "landmark", "coords": [73.297975, 40.769008]}], "ro": [{"name": "Uzgenskii arkheologicheskii i arkhitekturnyi muzeinyi kompleks", "text": "Özgön Historical Complex este un sit arheologic din orașul Ösgön.", "category": "historical", "coords": [73.298997, 40.768249]}, {"name": "Ozgon Munarasy", "text": "Uzgen Minaret este o atracție turistică în orașul Ösgön.", "category": "landmark", "coords": [73.297975, 40.769008]}], "en": [{"name": "Özgön Historical Complex", "text": "Özgön Historical Complex is an archaeological site located in the city of Ösgön.", "category": "historical", "coords": [73.298997, 40.768249]}, {"name": "Uzgen Minaret", "text": "The Uzgen Minaret is a tourist attraction located in the city of Ösgön.", "category": "landmark", "coords": [73.297975, 40.769008]}]},
+    id: "uzgen-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Uzgenskii arkheologicheskii i arkhitekturnyi muzeinyi kompleks",
+                  "text": "Der Özgön Historical Complex in Uzgen umfasst ein Minarett und Mausoleen aus dem 11. Jahrhundert.",
+                  "category": "historical",
+                  "coords": [
+                        73.298997,
+                        40.768249
+                  ]
+            },
+            {
+                  "name": "Ozgon Munarasy",
+                  "text": "Das Uzgen Minarett ist ein 11. Jahrhundert Minarett, Teil des historischen Komplexes.",
+                  "category": "landmark",
+                  "coords": [
+                        73.297975,
+                        40.769008
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Uzgenskii arkheologicheskii i arkhitekturnyi muzeinyi kompleks",
+                  "text": "Az uzgeni Özgön Történelmi Komplexum egy 11. századi minarettet és mauzóleumokat foglal magában.",
+                  "category": "historical",
+                  "coords": [
+                        73.298997,
+                        40.768249
+                  ]
+            },
+            {
+                  "name": "Ozgon Munarasy",
+                  "text": "Az uzgeni Uzgen Minarett egy 11. századi minarett, a történelmi komplexum része.",
+                  "category": "landmark",
+                  "coords": [
+                        73.297975,
+                        40.769008
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Uzgenskii arkheologicheskii i arkhitekturnyi muzeinyi kompleks",
+                  "text": "Complexul Istoric Özgön din Uzgen include un minaret și mausolee din secolul al XI-lea.",
+                  "category": "historical",
+                  "coords": [
+                        73.298997,
+                        40.768249
+                  ]
+            },
+            {
+                  "name": "Ozgon Munarasy",
+                  "text": "Minaretul Uzgen este un minaret din secolul al XI-lea, parte a complexului istoric.",
+                  "category": "landmark",
+                  "coords": [
+                        73.297975,
+                        40.769008
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Özgön Historical Complex",
+                  "text": "The Özgön Historical Complex in Uzgen features an 11th-century minaret and mausoleums.",
+                  "category": "historical",
+                  "coords": [
+                        73.298997,
+                        40.768249
+                  ]
+            },
+            {
+                  "name": "Uzgen Minaret",
+                  "text": "The Uzgen Minaret is an 11th-century minaret, part of the historical complex.",
+                  "category": "landmark",
+                  "coords": [
+                        73.297975,
+                        40.769008
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KG-O",
     coords: [73.3, 40.77],
@@ -469,7 +2053,52 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       fr: ["Fut la capitale de l'empire Qarakhanide au XIe siècle.", "Possède trois mausolées médiévaux parfaitement conservés.", "Le minaret d'Uzgen est l'un des plus anciens du pays.", "Est célèbre pour la production de riz rouge Devzira.", "Bénéficie d'une histoire de plus de 2000 ans.", "La majorité de la population appartient à la minorité ouzbèke.", "Située sur les rives de la rivière Kara Darya dans la vallée de Ferghana."],
     }, image: "/poi-images/uzgen-cities-v2.webp"},
   {
-    id: "balykchy-cities-v2", "sights": {"de": [{"name": "Gorodskoi plyazh", "text": "Городской пляж ist ein öffentlicher Stadtstrand in Balyktschy.", "category": "recreational", "coords": [76.198803, 42.451734]}], "hu": [{"name": "Gorodskoi plyazh", "text": "A Городской пляж egy nyilvános városi strand Balikcsi városában.", "category": "recreational", "coords": [76.198803, 42.451734]}], "ro": [{"name": "Gorodskoi plyazh", "text": "Городской пляж este o plajă publică orășenească situată în Balyktschy.", "category": "recreational", "coords": [76.198803, 42.451734]}], "en": [{"name": "Gorodskoi plyazh", "text": "Городской пляж is a public city beach situated in Balyktschy.", "category": "recreational", "coords": [76.198803, 42.451734]}]},
+    id: "balykchy-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gorodskoi plyazh",
+                  "text": "Der Gorodskoi plyazh in Balykchy ist ein Stadtstrand am Issyk-Kul See, beliebt zum Schwimmen.",
+                  "category": "recreational",
+                  "coords": [
+                        76.198803,
+                        42.451734
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gorodskoi plyazh",
+                  "text": "A balykchyi Gorodskoi plyazh egy városi strand az Issyk-Kul-tónál, népszerű fürdőzésre.",
+                  "category": "recreational",
+                  "coords": [
+                        76.198803,
+                        42.451734
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gorodskoi plyazh",
+                  "text": "Gorodskoi plyazh din Balykchy este o plajă orășenească pe lacul Issyk-Kul, populară pentru înot.",
+                  "category": "recreational",
+                  "coords": [
+                        76.198803,
+                        42.451734
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gorodskoi plyazh",
+                  "text": "Gorodskoi plyazh in Balykchy is a city beach on Lake Issyk-Kul, popular for swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        76.198803,
+                        42.451734
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KG-Y",
     coords: [76.18, 42.46],
@@ -528,7 +2157,88 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       fr: ["Le nom signifie littéralement 'pêcheur' en kirghize.", "Est le terminus de l'unique ligne de chemin de fer de Bichkek.", "Était un centre industriel et de pêche majeur à l'époque soviétique.", "S'est appelée Rybatchye de 1954 à 1989.", "Située sur la rive ouest venteuse du lac Issyk-Koul.", "Sert de plaque tournante du transport pour toute la zone du lac.", "Était une cale sèche pour les tests de navires pendant l'URSS."],
     }, image: "/poi-images/balykchy-cities-v2.webp"},
   {
-    id: "talas-cities-v2", "sights": {"de": [{"name": "Roller-klub", "text": "Der Roller-Club ist ein Freizeitpark in Talas.", "category": "family", "coords": [72.249863, 42.516439]}, {"name": "K.Medetbekov atyndagy muzykalyk drama-teatry", "text": "Das K.-Medetbekow-Musik- und Dramatheater ist eine kulturelle Einrichtung in Talas.", "category": "cultural", "coords": [72.251623, 42.525232]}], "hu": [{"name": "Roller-klub", "text": "A Roller-Club egy vidámpark Talasban.", "category": "family", "coords": [72.249863, 42.516439]}, {"name": "K.Medetbekov atyndagy muzykalyk drama-teatry", "text": "A K. Medetbekov Zenei és Drámai Színház egy kulturális intézmény Talasban.", "category": "cultural", "coords": [72.251623, 42.525232]}], "ro": [{"name": "Roller-klub", "text": "Roller-Club este un parc tematic în Talas.", "category": "family", "coords": [72.249863, 42.516439]}, {"name": "K.Medetbekov atyndagy muzykalyk drama-teatry", "text": "Teatrul de Muzică și Dramă K. Medetbekov este o instituție culturală în Talas.", "category": "cultural", "coords": [72.251623, 42.525232]}], "en": [{"name": "Roller-klub", "text": "Roller-Club is a theme park in Talas.", "category": "family", "coords": [72.249863, 42.516439]}, {"name": "K.Medetbekov atyndagy muzykalyk drama-teatry", "text": "The K. Medetbekov Music and Drama Theatre is a cultural venue in Talas.", "category": "cultural", "coords": [72.251623, 42.525232]}]},
+    id: "talas-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Roller-klub",
+                  "text": "Der Roller-klub in Talas ist ein familienfreundlicher Rollschuhclub mit Bahnen für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        72.249863,
+                        42.516439
+                  ]
+            },
+            {
+                  "name": "K.Medetbekov atyndagy muzykalyk drama-teatry",
+                  "text": "Das K.-Medetbekow-Musik- und Dramatheater ist eine kulturelle Einrichtung in Talas.",
+                  "category": "cultural",
+                  "coords": [
+                        72.251623,
+                        42.525232
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Roller-klub",
+                  "text": "A talasi Roller-klub egy családi görkorcsolyaklub pályákkal minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        72.249863,
+                        42.516439
+                  ]
+            },
+            {
+                  "name": "K.Medetbekov atyndagy muzykalyk drama-teatry",
+                  "text": "A K. Medetbekov Zenei és Drámai Színház egy kulturális intézmény Talasban.",
+                  "category": "cultural",
+                  "coords": [
+                        72.251623,
+                        42.525232
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Roller-klub",
+                  "text": "Roller-klub din Talas este un club de patinaj cu rotile pentru familii, cu piste pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        72.249863,
+                        42.516439
+                  ]
+            },
+            {
+                  "name": "K.Medetbekov atyndagy muzykalyk drama-teatry",
+                  "text": "Teatrul de Muzică și Dramă K. Medetbekov este o instituție culturală în Talas.",
+                  "category": "cultural",
+                  "coords": [
+                        72.251623,
+                        42.525232
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roller-klub",
+                  "text": "The Roller-klub in Talas is a family roller-skating club with rinks for all ages.",
+                  "category": "family",
+                  "coords": [
+                        72.249863,
+                        42.516439
+                  ]
+            },
+            {
+                  "name": "K.Medetbekov atyndagy muzykalyk drama-teatry",
+                  "text": "The K. Medetbekov Music and Drama Theatre is a cultural venue in Talas.",
+                  "category": "cultural",
+                  "coords": [
+                        72.251623,
+                        42.525232
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KG-T",
     coords: [72.24, 42.52],
@@ -587,7 +2297,124 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       fr: ["Considérée comme la terre natale du héros légendaire Manas.", "Le mausolée de Manas (Gumbez) est le site sacré le plus important.", "C'est le centre de la production nationale de haricots destinés à l'exportation.", "Théâtre de la célèbre bataille de Talas en 751.", "Géographiquement isolée du reste du pays par de hautes montagnes.", "Fondée en 1877 sous le nom de Dmitrovskoye par des colons russes.", "La vallée est irriguée par la rivière Talas, qui prend sa source dans l'Alataou."],
     }, image: "/poi-images/talas-cities-v2.webp"},
   {
-    id: "kyzyl-kiya-cities-v2",
+    id: "kyzyl-kiya-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tsentral'naia mechet'",
+                  "text": "Die zentrale islamische Moschee in Kysyl-Kija, die als markantes Wahrzeichen und Treffpunkt für die lokale muslimische Gemeinschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        72.134119,
+                        40.270358
+                  ]
+            },
+            {
+                  "name": "mechet'",
+                  "text": "Eine lokale muslimische Moschee, die den spirituellen Bedürfnissen der Bewohner im Stadtgebiet von Kysyl-Kija dient.",
+                  "category": "landmark",
+                  "coords": [
+                        72.132016,
+                        40.261126
+                  ]
+            },
+            {
+                  "name": "Bania",
+                  "text": "Ein traditionelles öffentliches Badehaus in Kysyl-Kija, das Wasch- und Entspannungseinrichtungen bietet, die typisch für zentralasiatische Städte sind.",
+                  "category": "recreational",
+                  "coords": [
+                        72.130977,
+                        40.264127
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tsentral'naia mechet'",
+                  "text": "Kyzyl-Kiya központi iszlám mecsete, amely a helyi muszlim közösség kiemelkedő mérföldköveként és találkozóhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        72.134119,
+                        40.270358
+                  ]
+            },
+            {
+                  "name": "mechet'",
+                  "text": "Egy helyi muszlim mecset, amely a Kyzyl-Kiya városi területén élő lakosok spirituális igényeit szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        72.132016,
+                        40.261126
+                  ]
+            },
+            {
+                  "name": "Bania",
+                  "text": "Egy hagyományos nyilvános fürdőház Kyzyl-Kiyában, amely a közép-ázsiai városi központokra jellemző mosakodási és pihenési lehetőségeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        72.130977,
+                        40.264127
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tsentral'naia mechet'",
+                  "text": "Moscheea islamică centrală din Kyzyl-Kiya, servind ca un punct de reper important și loc de adunare pentru comunitatea musulmană locală.",
+                  "category": "landmark",
+                  "coords": [
+                        72.134119,
+                        40.270358
+                  ]
+            },
+            {
+                  "name": "mechet'",
+                  "text": "O moschee musulmană locală care deservește nevoile spirituale ale locuitorilor din zona urbană Kyzyl-Kiya.",
+                  "category": "landmark",
+                  "coords": [
+                        72.132016,
+                        40.261126
+                  ]
+            },
+            {
+                  "name": "Bania",
+                  "text": "O baie publică tradițională în Kyzyl-Kiya, care oferă facilități de spălare și relaxare tipice centrelor urbane din Asia Centrală.",
+                  "category": "recreational",
+                  "coords": [
+                        72.130977,
+                        40.264127
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tsentral'naia mechet'",
+                  "text": "The central Islamic mosque in Kyzyl-Kiya, acting as a prominent landmark and gathering place for the local Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        72.134119,
+                        40.270358
+                  ]
+            },
+            {
+                  "name": "mechet'",
+                  "text": "A local Muslim mosque serving the spiritual needs of residents in the urban area of Kyzyl-Kiya.",
+                  "category": "landmark",
+                  "coords": [
+                        72.132016,
+                        40.261126
+                  ]
+            },
+            {
+                  "name": "Bath",
+                  "text": "A traditional public bathhouse in Kyzyl-Kiya, offering washing and relaxation facilities typical of Central Asian urban centers.",
+                  "category": "recreational",
+                  "coords": [
+                        72.130977,
+                        40.264127
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KG-B",
     coords: [72.13, 40.26],
@@ -646,7 +2473,196 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       fr: ["L'un des plus anciens centres miniers de charbon d'Asie centrale.", "A été fondée en 1898 avec le début de l'exploitation industrielle du charbon.", "Son nom signifie 'Pente rouge' et fait référence au grès.", "Située immédiatement sur la frontière avec l'Ouzbékistan.", "Le charbon de cette région alimentait autrefois toute la vallée de Ferghana.", "Possède une importante cimenterie et un combinat de viande.", "Est un carrefour important pour le commerce transfrontalier."],
     }, image: "/poi-images/kyzyl-kiya-cities-v2.webp"},
   {
-    id: "batken-cities-v2",
+    id: "batken-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "MChS",
+                  "text": "Dieser vom Katastrophenschutz genutzte Turm dient als markanter Aussichtspunkt über das Stadtgebiet von Batken.",
+                  "category": "landmark",
+                  "coords": [
+                        70.828235,
+                        40.036715
+                  ]
+            },
+            {
+                  "name": "Tsentral'nyi mechit",
+                  "text": "Die zentrale Moschee von Batken ist ein markantes religiöses Bauwerk mit einem hohen Minarett im Herzen der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        70.828841,
+                        40.059354
+                  ]
+            },
+            {
+                  "name": "P'ianyi bazar",
+                  "text": "Ein belebter lokaler Marktplatz, der für seine Vielfalt an regionalen Lebensmitteln und Haushaltswaren bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        70.818735,
+                        40.060316
+                  ]
+            },
+            {
+                  "name": "Oruk Bazar",
+                  "text": "Dieser Spezialmarkt ist berühmt für den Handel mit den süßen getrockneten Aprikosen, für die die Region Batken bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        70.83352,
+                        40.05413
+                  ]
+            },
+            {
+                  "name": "BAZAR",
+                  "text": "Ein traditioneller Basar, auf dem Bauern aus der Umgebung ihre frischen Erzeugnisse und Handwerkswaren anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        70.824692,
+                        40.057494
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "MChS",
+                  "text": "Ez a katasztrófavédelem által használt torony jellegzetes kilátópontként szolgál Batken városi területe felett.",
+                  "category": "landmark",
+                  "coords": [
+                        70.828235,
+                        40.036715
+                  ]
+            },
+            {
+                  "name": "Tsentral'nyi mechit",
+                  "text": "Batken központi mecsetje a város szívében található jellegzetes vallási építmény magas minarettel.",
+                  "category": "religious",
+                  "coords": [
+                        70.828841,
+                        40.059354
+                  ]
+            },
+            {
+                  "name": "P'ianyi bazar",
+                  "text": "Egy nyüzsgő helyi piactér, amely a regionális élelmiszerek és háztartási cikkek széles választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        70.818735,
+                        40.060316
+                  ]
+            },
+            {
+                  "name": "Oruk Bazar",
+                  "text": "Ez a specializált piac a Batken régió híres édes aszalt sárgabarackjainak kereskedelméről nevezetes.",
+                  "category": "cultural",
+                  "coords": [
+                        70.83352,
+                        40.05413
+                  ]
+            },
+            {
+                  "name": "BAZAR",
+                  "text": "Hagyományos bazár, ahol a környékbeli gazdák kínálják friss terményeiket és kézműves portékáikat.",
+                  "category": "cultural",
+                  "coords": [
+                        70.824692,
+                        40.057494
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "MChS",
+                  "text": "Acest turn utilizat de serviciile de urgență servește drept punct de observație distinctiv asupra zonei urbane din Batken.",
+                  "category": "landmark",
+                  "coords": [
+                        70.828235,
+                        40.036715
+                  ]
+            },
+            {
+                  "name": "Tsentral'nyi mechit",
+                  "text": "Moscheea centrală din Batken este un edificiu religios proeminent, cu un minaret înalt în inima orașului.",
+                  "category": "religious",
+                  "coords": [
+                        70.828841,
+                        40.059354
+                  ]
+            },
+            {
+                  "name": "P'ianyi bazar",
+                  "text": "O piață locală plină de viață, cunoscută pentru varietatea sa de produse alimentare regionale și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        70.818735,
+                        40.060316
+                  ]
+            },
+            {
+                  "name": "Oruk Bazar",
+                  "text": "Această piață specializată este faimoasă pentru comerțul cu caise uscate dulci, pentru care regiunea Batken este renumită.",
+                  "category": "cultural",
+                  "coords": [
+                        70.83352,
+                        40.05413
+                  ]
+            },
+            {
+                  "name": "BAZAR",
+                  "text": "Un bazar tradițional unde fermierii din împrejurimi își oferă produsele proaspete și obiectele artizanale.",
+                  "category": "cultural",
+                  "coords": [
+                        70.824692,
+                        40.057494
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "MChS",
+                  "text": "This tower used by emergency services serves as a distinctive lookout point over the Batken urban area.",
+                  "category": "landmark",
+                  "coords": [
+                        70.828235,
+                        40.036715
+                  ]
+            },
+            {
+                  "name": "Tsentral'nyi mechit",
+                  "text": "The central mosque of Batken is a prominent religious building with a tall minaret in the heart of the city.",
+                  "category": "religious",
+                  "coords": [
+                        70.828841,
+                        40.059354
+                  ]
+            },
+            {
+                  "name": "P'ianyi bazar",
+                  "text": "A bustling local marketplace known for its variety of regional foodstuffs and household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        70.818735,
+                        40.060316
+                  ]
+            },
+            {
+                  "name": "Oruk Bazar",
+                  "text": "This specialized market is famous for trading the sweet dried apricots for which the Batken region is renowned.",
+                  "category": "cultural",
+                  "coords": [
+                        70.83352,
+                        40.05413
+                  ]
+            },
+            {
+                  "name": "BAZAR",
+                  "text": "A traditional bazaar where local farmers offer their fresh produce and handcrafted goods.",
+                  "category": "cultural",
+                  "coords": [
+                        70.824692,
+                        40.057494
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KG-B",
     coords: [70.82, 40.06],
@@ -707,7 +2723,52 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
   
   },
   {
-    id: "razzakov-cities-v2",
+    id: "razzakov-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Leilek Dyikan bazary",
+                  "text": "Der Leilek Dyikan-Bazar in Razzakov ist ein von der Gemeinde betriebener Bauernmarkt, auf dem frische Produkte und ländliches Handwerk gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        69.520824,
+                        39.842124
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Leilek Dyikan bazary",
+                  "text": "A razzakovi Leilek Dyikan bazár egy közösség által vezérelt termelői piac, ahol friss termékekkel és vidéki kézműves termékekkel kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        69.520824,
+                        39.842124
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Leilek Dyikan bazary",
+                  "text": "Bazarul Leilek Dyikan din Razzakov este o piață a fermierilor orientată spre comunitate, unde se tranzacționează produse proaspete și meșteșuguri rurale.",
+                  "category": "cultural",
+                  "coords": [
+                        69.520824,
+                        39.842124
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Leilek Dyikan bazary",
+                  "text": "The Leilek Dyikan bazary in Razzakov is a community-driven farmers' market where fresh produce and rural crafts are heavily traded.",
+                  "category": "cultural",
+                  "coords": [
+                        69.520824,
+                        39.842124
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KG-B",
     coords: [69.53, 39.83],
@@ -766,7 +2827,52 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       fr: ["S'appelait Isfana jusqu'en 2022, avant d'être renommée en l'honneur d'un homme d'État.", "C'est la ville la plus à l'ouest du Kirghizistan.", "Est quasi enclavée, entourée sur trois côtés par le Tadjikistan.", "Était une forteresse majeure sur la Route de la Soie au Moyen Âge.", "Possède un petit aéroport régional pour assurer la liaison avec Bichkek.", "Son économie repose sur l'agriculture et l'élevage.", "Considérée comme le centre culturel du district de Leïlek."],
     }, image: "/poi-images/razzakov-cities-v2.webp"},
   {
-    id: "kara-suu-cities-v2",
+    id: "kara-suu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kara-Suiskii bazar",
+                  "text": "Der Kara-Suiskii-Bazar ist ein weitläufiger Großmarkt in Kara-Suu, der für seine immense Größe und Bedeutung im zentralasiatischen grenzüberschreitenden Handel bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        72.893492,
+                        40.707811
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kara-Suiskii bazar",
+                  "text": "A Kara-Suiskii bazár egy kiterjedt nagykereskedelmi piac Kara-Suu-ban, amely hatalmas méretéről és a közép-ázsiai határokon átnyúló kereskedelemben betöltött szerepéről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        72.893492,
+                        40.707811
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kara-Suiskii bazar",
+                  "text": "Bazarul Kara-Suiskii este o piață cu ridicata uriașă din Kara-Suu, cunoscută pentru scara sa masivă și importanța în comerțul transfrontalier din Asia Centrală.",
+                  "category": "cultural",
+                  "coords": [
+                        72.893492,
+                        40.707811
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kara-Suiskii bazar",
+                  "text": "Kara-Suiskii bazar is a sprawling wholesale market in Kara-Suu known for its massive scale and significance in Central Asian cross-border trade.",
+                  "category": "cultural",
+                  "coords": [
+                        72.893492,
+                        40.707811
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KG-O",
     coords: [72.86, 40.7],
@@ -884,7 +2990,88 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       fr: ["Fondée en 1930 en tant que colonie de mineurs.", "Nichée dans une gorge pittoresque le long de la rivière Naryn.", "Des squelettes de dinosaures remarquables y ont été exhumés.", "Exploite deux grandes centrales hydroélectriques pour la production d'énergie.", "L'usine « Kristall » produisait autrefois des matériaux semi-conducteurs.", "Bénéficie d'une bonne desserte via l'axe routier Bichkek-Och.", "Le charbon de cette région est réputé pour sa très haute qualité."],
     }, image: "/poi-images/tash-kumyr-cities-v2.webp"},
   {
-    id: "mailuu-suu-cities-v2",
+    id: "mailuu-suu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Uran murastary muzeii",
+                  "text": "Ein Museum, das die Bergbaugeschichte von Mailuu-Suu als einstiges Zentrum der sowjetischen Uranförderung dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        72.466923,
+                        41.259363
+                  ]
+            },
+            {
+                  "name": "Tserkov'",
+                  "text": "Eine christliche Kirche in der Industriestadt Mailuu-Suu, die die lokale orthodoxe Gemeinschaft betreut.",
+                  "category": "landmark",
+                  "coords": [
+                        72.467778,
+                        41.261525
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Uran murastary muzeii",
+                  "text": "Múzeum, amely Majluu-Szu bányászati múltját dokumentálja, mint a szovjet uránkitermelés egykori központját.",
+                  "category": "museum",
+                  "coords": [
+                        72.466923,
+                        41.259363
+                  ]
+            },
+            {
+                  "name": "Tserkov'",
+                  "text": "Keresztény templom Majluu-Szu iparvárosában, amely a helyi ortodox közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        72.467778,
+                        41.261525
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Uran murastary muzeii",
+                  "text": "Un muzeu care documentează istoria minieră a orașului Mailuu-Suu ca fost centru al extracției sovietice de uraniu.",
+                  "category": "museum",
+                  "coords": [
+                        72.466923,
+                        41.259363
+                  ]
+            },
+            {
+                  "name": "Tserkov'",
+                  "text": "O biserică creștină în orașul industrial Mailuu-Suu, care deservește comunitatea ortodoxă locală.",
+                  "category": "landmark",
+                  "coords": [
+                        72.467778,
+                        41.261525
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Uranium Legacy History Museum",
+                  "text": "A museum documenting the mining history of Mailuu-Suu as a former center of Soviet uranium extraction.",
+                  "category": "museum",
+                  "coords": [
+                        72.466923,
+                        41.259363
+                  ]
+            },
+            {
+                  "name": "Tserkov'",
+                  "text": "A Christian church in the industrial town of Mailuu-Suu, serving the local Orthodox community.",
+                  "category": "landmark",
+                  "coords": [
+                        72.467778,
+                        41.261525
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KG-J",
     coords: [72.46, 41.26],
@@ -943,7 +3130,124 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       fr: ["Était une 'ville fermée' à l'époque de l'URSS (Boîte postale 200).", "Abrite l'un des plus grands sites de résidus d'uranium au monde.", "On y trouve l'une des plus grandes usines d'ampoules d'Asie centrale.", "A été fondée en 1946 en raison des gisements d'uranium.", "La ville est située dans une gorge montagneuse profonde et étroite.", "Des programmes internationaux travaillent à la sécurisation des décharges nucléaires.", "Considérée comme l'une des villes les plus polluées au monde."],
     }, image: "/poi-images/mailuu-suu-cities-v2.webp"},
   {
-    id: "kochkor-ata-cities-v2",
+    id: "kochkor-ata-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Medrese",
+                  "text": "Eine islamische Lehranstalt im städtischen Umfeld von Kochkor-Ata, die traditionelle theological Studien anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        72.485281,
+                        41.031702
+                  ]
+            },
+            {
+                  "name": "marzhanbak",
+                  "text": "Ein lebhafter Handelsplatz in Kochkor-Ata, an dem lokale Händler frische Waren und Güter des täglichen Bedarfs anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        72.482207,
+                        41.032541
+                  ]
+            },
+            {
+                  "name": "Magnit es aluu borboru",
+                  "text": "Dieses öffentliche Badehaus in Kochkor-Ata dient der städtischen Gemeinde als traditioneller Ort der Körperpflege.",
+                  "category": "recreational",
+                  "coords": [
+                        72.487198,
+                        41.03162
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Medrese",
+                  "text": "Egy iszlám oktatási intézmény Kochkor-Ata városi környezetében, amely hagyományos teológiai tanulmányokat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        72.485281,
+                        41.031702
+                  ]
+            },
+            {
+                  "name": "marzhanbak",
+                  "text": "Egy nyüzsgő piactér Kochkor-Atában, ahol a helyi kereskedők friss árukat és mindennapi cikkeket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        72.482207,
+                        41.032541
+                  ]
+            },
+            {
+                  "name": "Magnit es aluu borboru",
+                  "text": "Ez a kochkor-atai nyilvános fürdő a városi közösség hagyományos testápolási helyszíneként szolgál.",
+                  "category": "recreational",
+                  "coords": [
+                        72.487198,
+                        41.03162
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Medrese",
+                  "text": "O instituție de învățământ islamic în mediul urban din Kochkor-Ata, care oferă studii teologice tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        72.485281,
+                        41.031702
+                  ]
+            },
+            {
+                  "name": "marzhanbak",
+                  "text": "O piață aglomerată din Kochkor-Ata, unde comercianții locali oferă produse proaspete și bunuri de uz curent.",
+                  "category": "cultural",
+                  "coords": [
+                        72.482207,
+                        41.032541
+                  ]
+            },
+            {
+                  "name": "Magnit es aluu borboru",
+                  "text": "Această baie publică din Kochkor-Ata servește comunității urbane drept loc tradițional de igienă personală.",
+                  "category": "recreational",
+                  "coords": [
+                        72.487198,
+                        41.03162
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Medrese",
+                  "text": "An Islamic educational institution in the urban setting of Kochkor-Ata, offering traditional theological studies.",
+                  "category": "landmark",
+                  "coords": [
+                        72.485281,
+                        41.031702
+                  ]
+            },
+            {
+                  "name": "marzhanbak",
+                  "text": "A bustling marketplace in Kochkor-Ata where local merchants offer fresh goods and daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        72.482207,
+                        41.032541
+                  ]
+            },
+            {
+                  "name": "Magnit es aluu borboru",
+                  "text": "This public bathhouse in Kochkor-Ata serves the urban community as a traditional place for personal hygiene.",
+                  "category": "recreational",
+                  "coords": [
+                        72.487198,
+                        41.03162
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KG-J",
     coords: [72.48, 41.03],
@@ -1061,7 +3365,232 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       fr: ["Abrite une importante base aérienne russe.", "Nommée d'après le philosophe allemand Emmanuel Kant.", "Était autrefois un centre pour les Allemands du Kirghizistan.", "Possède une grande cimenterie et des entreprises agroalimentaires.", "Située à seulement 20 km environ à l'est de la capitale Bichkek.", "Considérée comme l'une des petites villes les plus développées industriellement.", "La région est connue pour la culture de la betterave sucrière."],
     }, image: "/poi-images/kant-cities-v2.webp"},
   {
-    id: "cholpon-ata-cities-v2", "sights": {"de": [{"name": "Petroglyph with hunting scene", "text": "Diese archäologische Stätte in Scholpon-Ata zeigt Felszeichnungen mit einer Jagdszene.", "category": "historical", "coords": [77.055628, 42.658304]}, {"name": "kraevedcheskii muzei Issyk-Kulya", "text": "Das staatliche historische und kulturelle Museum von Issyk-Kul befindet sich in Scholpon-Ata.", "category": "museum", "coords": [77.0876, 42.650462]}, {"name": "Zaton", "text": "Zaton ist ein Freizeitpark in Scholpon-Ata.", "category": "family", "coords": [77.086785, 42.640317]}, {"name": "«Rukh Ordo» Ch. Aitmatov atyndagy madanii borboru", "text": "Das Kulturzentrum Ruh Ordo in Scholpon-Ata ist ein bekanntes Museum.", "category": "museum", "coords": [77.095651, 42.647825]}, {"name": "Issyk-Kulskii Gosudarstvennyi istoriko-kulturnyi muzei-zapovednik", "text": "Diese archäologische Stätte beherbergt die berühmten Felszeichnungen von Scholpon-Ata.", "category": "historical", "coords": [77.057034, 42.660717]}, {"name": "Kumboz Cholpon-Ata", "text": "Das Kumboz-Monument in Scholpon-Ata ist ein historisches Denkmal.", "category": "historical", "coords": [77.055605, 42.639244]}], "hu": [{"name": "Petroglyph with hunting scene", "text": "Ez a régészeti lelőhely Scholpon-Atában egy vadászjelenetet ábrázoló sziklarajzot mutat be.", "category": "historical", "coords": [77.055628, 42.658304]}, {"name": "kraevedcheskii muzei Issyk-Kulya", "text": "Az Issyk-Kul Állami Történeti és Kulturális Múzeum Scholpon-Atában található.", "category": "museum", "coords": [77.0876, 42.650462]}, {"name": "Zaton", "text": "A Zaton egy vidámpark Scholpon-Atában.", "category": "family", "coords": [77.086785, 42.640317]}, {"name": "«Rukh Ordo» Ch. Aitmatov atyndagy madanii borboru", "text": "A Ruh Ordo kulturális központ Scholpon-Atában egy jól ismert múzeum.", "category": "museum", "coords": [77.095651, 42.647825]}, {"name": "Issyk-Kulskii Gosudarstvennyi istoriko-kulturnyi muzei-zapovednik", "text": "Ez a régészeti lelőhely ad otthont Scholpon-Ata híres sziklarajzainak.", "category": "historical", "coords": [77.057034, 42.660717]}, {"name": "Kumboz Cholpon-Ata", "text": "A Kumboz emlékmű Scholpon-Atában egy történelmi emlékhely.", "category": "historical", "coords": [77.055605, 42.639244]}], "ro": [{"name": "Petroglyph with hunting scene", "text": "Acest sit arheologic din Scholpon-Ata prezintă petroglife cu o scenă de vânătoare.", "category": "historical", "coords": [77.055628, 42.658304]}, {"name": "kraevedcheskii muzei Issyk-Kulya", "text": "Muzeul de stat istoric și cultural Issyk-Kul se află în Scholpon-Ata.", "category": "museum", "coords": [77.0876, 42.650462]}, {"name": "Zaton", "text": "Zaton este un parc tematic în Scholpon-Ata.", "category": "family", "coords": [77.086785, 42.640317]}, {"name": "«Rukh Ordo» Ch. Aitmatov atyndagy madanii borboru", "text": "Centrul cultural Ruh Ordo din Scholpon-Ata este un muzeu binecunoscut.", "category": "museum", "coords": [77.095651, 42.647825]}, {"name": "Issyk-Kulskii Gosudarstvennyi istoriko-kulturnyi muzei-zapovednik", "text": "Acest sit arheologic găzduiește faimoasele petroglife din Scholpon-Ata.", "category": "historical", "coords": [77.057034, 42.660717]}, {"name": "Kumboz Cholpon-Ata", "text": "Monumentul Kumboz din Scholpon-Ata este un reper istoric.", "category": "historical", "coords": [77.055605, 42.639244]}], "en": [{"name": "Petroglyph with hunting scene", "text": "This archaeological site in Cholpon-Ata features petroglyphs depicting a hunting scene.", "category": "historical", "coords": [77.055628, 42.658304]}, {"name": "Issyk-Kul state historical-cultural museum-reserve museum", "text": "The Issyk-Kul State Historical and Cultural Museum is located in Cholpon-Ata.", "category": "museum", "coords": [77.0876, 42.650462]}, {"name": "Zaton", "text": "Zaton is a theme park in Cholpon-Ata.", "category": "family", "coords": [77.086785, 42.640317]}, {"name": "«Rukh Ordo» Ch. Aitmatov atyndagy madanii borboru", "text": "The Ruh Ordo cultural center in Cholpon-Ata is a well-known museum.", "category": "museum", "coords": [77.095651, 42.647825]}, {"name": "Petroglyphs of Cholpon-Ata", "text": "This archaeological site houses the famous petroglyphs of Cholpon-Ata.", "category": "historical", "coords": [77.057034, 42.660717]}, {"name": "Kumboz Cholpon-Ata", "text": "The Kumboz monument in Cholpon-Ata is a historic landmark.", "category": "historical", "coords": [77.055605, 42.639244]}]},
+    id: "cholpon-ata-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Petroglyph with hunting scene",
+                  "text": "Diese archäologische Stätte in Scholpon-Ata zeigt Felszeichnungen mit einer Jagdszene.",
+                  "category": "historical",
+                  "coords": [
+                        77.055628,
+                        42.658304
+                  ]
+            },
+            {
+                  "name": "kraevedcheskii muzei Issyk-Kulya",
+                  "text": "Das Issyk-Kul State Historical-Cultural Museum-Reserve in Ata bewahrt historische und kulturelle Artefakte der Region.",
+                  "category": "museum",
+                  "coords": [
+                        77.0876,
+                        42.650462
+                  ]
+            },
+            {
+                  "name": "Zaton",
+                  "text": "Zaton in Ata ist ein Familienausflugsziel, möglicherweise ein Wasserpark oder Erholungsgebiet.",
+                  "category": "family",
+                  "coords": [
+                        77.086785,
+                        42.640317
+                  ]
+            },
+            {
+                  "name": "«Rukh Ordo» Ch. Aitmatov atyndagy madanii borboru",
+                  "text": "Das Rukh Ordo Kulturzentrum in Ata, benannt nach Ch. Aitmatov, widmet sich spiritueller und kultureller Harmonie.",
+                  "category": "museum",
+                  "coords": [
+                        77.095651,
+                        42.647825
+                  ]
+            },
+            {
+                  "name": "Issyk-Kulskii Gosudarstvennyi istoriko-kulturnyi muzei-zapovednik",
+                  "text": "Diese archäologische Stätte beherbergt die berühmten Felszeichnungen von Scholpon-Ata.",
+                  "category": "historical",
+                  "coords": [
+                        77.057034,
+                        42.660717
+                  ]
+            },
+            {
+                  "name": "Kumboz Cholpon-Ata",
+                  "text": "Der Kumboz Cholpon-Ata in Ata ist ein historischer Kuppelbau oder Mausoleum aus der Cholpon-Ata-Stätte.",
+                  "category": "historical",
+                  "coords": [
+                        77.055605,
+                        42.639244
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Petroglyph with hunting scene",
+                  "text": "Ez a régészeti lelőhely Scholpon-Atában egy vadászjelenetet ábrázoló sziklarajzot mutat be.",
+                  "category": "historical",
+                  "coords": [
+                        77.055628,
+                        42.658304
+                  ]
+            },
+            {
+                  "name": "kraevedcheskii muzei Issyk-Kulya",
+                  "text": "Az atai Issyk-Kul Állami Történelmi-Kulturális Múzeum-rezervátum a régió történelmi és kulturális emlékeit őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        77.0876,
+                        42.650462
+                  ]
+            },
+            {
+                  "name": "Zaton",
+                  "text": "Az atai Zaton egy családi kikapcsolódási hely, valószínűleg vízipark vagy üdülőterület.",
+                  "category": "family",
+                  "coords": [
+                        77.086785,
+                        42.640317
+                  ]
+            },
+            {
+                  "name": "«Rukh Ordo» Ch. Aitmatov atyndagy madanii borboru",
+                  "text": "Az atai Rukh Ordo Kulturális Központ, Ch. Aitmatov nevét viseli, a spirituális és kulturális harmóniával foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        77.095651,
+                        42.647825
+                  ]
+            },
+            {
+                  "name": "Issyk-Kulskii Gosudarstvennyi istoriko-kulturnyi muzei-zapovednik",
+                  "text": "Ez a régészeti lelőhely ad otthont Scholpon-Ata híres sziklarajzainak.",
+                  "category": "historical",
+                  "coords": [
+                        77.057034,
+                        42.660717
+                  ]
+            },
+            {
+                  "name": "Kumboz Cholpon-Ata",
+                  "text": "Az atai Kumboz Cholpon-Ata egy történelmi kupola vagy mauzóleum a Cholpon-Ata lelőhelyen.",
+                  "category": "historical",
+                  "coords": [
+                        77.055605,
+                        42.639244
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Petroglyph with hunting scene",
+                  "text": "Acest sit arheologic din Scholpon-Ata prezintă petroglife cu o scenă de vânătoare.",
+                  "category": "historical",
+                  "coords": [
+                        77.055628,
+                        42.658304
+                  ]
+            },
+            {
+                  "name": "kraevedcheskii muzei Issyk-Kulya",
+                  "text": "Rezervația Muzeală Istorico-Culturală de Stat Issyk-Kul din Ata păstrează artefacte istorice și culturale ale regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        77.0876,
+                        42.650462
+                  ]
+            },
+            {
+                  "name": "Zaton",
+                  "text": "Zaton din Ata este o destinație de agrement pentru familii, posibil un parc acvatic sau zonă de recreere.",
+                  "category": "family",
+                  "coords": [
+                        77.086785,
+                        42.640317
+                  ]
+            },
+            {
+                  "name": "«Rukh Ordo» Ch. Aitmatov atyndagy madanii borboru",
+                  "text": "Centrul Cultural Rukh Ordo din Ata, numit după Ch. Aitmatov, se concentrează pe armonia spirituală și culturală.",
+                  "category": "museum",
+                  "coords": [
+                        77.095651,
+                        42.647825
+                  ]
+            },
+            {
+                  "name": "Issyk-Kulskii Gosudarstvennyi istoriko-kulturnyi muzei-zapovednik",
+                  "text": "Acest sit arheologic găzduiește faimoasele petroglife din Scholpon-Ata.",
+                  "category": "historical",
+                  "coords": [
+                        77.057034,
+                        42.660717
+                  ]
+            },
+            {
+                  "name": "Kumboz Cholpon-Ata",
+                  "text": "Kumboz Cholpon-Ata din Ata este o cupolă sau mausoleu istoric din situl Cholpon-Ata.",
+                  "category": "historical",
+                  "coords": [
+                        77.055605,
+                        42.639244
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Petroglyph with hunting scene",
+                  "text": "This archaeological site in Cholpon-Ata features petroglyphs depicting a hunting scene.",
+                  "category": "historical",
+                  "coords": [
+                        77.055628,
+                        42.658304
+                  ]
+            },
+            {
+                  "name": "Issyk-Kul state historical-cultural museum-reserve museum",
+                  "text": "The Issyk-Kul State Historical-Cultural Museum-Reserve in Ata preserves historical and cultural artifacts of the region.",
+                  "category": "museum",
+                  "coords": [
+                        77.0876,
+                        42.650462
+                  ]
+            },
+            {
+                  "name": "Zaton",
+                  "text": "Zaton in Ata is a family recreation area, possibly a water park or resort.",
+                  "category": "family",
+                  "coords": [
+                        77.086785,
+                        42.640317
+                  ]
+            },
+            {
+                  "name": "«Rukh Ordo» Ch. Aitmatov atyndagy madanii borboru",
+                  "text": "The Rukh Ordo Cultural Centre in Ata, named after Ch. Aitmatov, focuses on spiritual and cultural harmony.",
+                  "category": "museum",
+                  "coords": [
+                        77.095651,
+                        42.647825
+                  ]
+            },
+            {
+                  "name": "Petroglyphs of Cholpon-Ata",
+                  "text": "This archaeological site houses the famous petroglyphs of Cholpon-Ata.",
+                  "category": "historical",
+                  "coords": [
+                        77.057034,
+                        42.660717
+                  ]
+            },
+            {
+                  "name": "Kumboz Cholpon-Ata",
+                  "text": "Kumboz Cholpon-Ata in Ata is a historical dome or mausoleum from the Cholpon-Ata site.",
+                  "category": "historical",
+                  "coords": [
+                        77.055605,
+                        42.639244
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KG-Y",
     coords: [77.08, 42.65],
@@ -1179,7 +3708,520 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       fr: ["Anciennement connue sous le nom de Karavan, une étape sur la Route de la Soie.", "Centre administratif du district d'Aksy.", "Située dans une oasis fertile sur la rivière Kasansay.", "N'a été officiellement nommée ville qu'en 2004.", "Une porte d'entrée vers la réserve de biosphère de Sary-Tchelek.", "Réputée pour la culture du coton et du tabac.", "La région est célèbre pour ses paysages montagneux préservés."],
     }, image: "/poi-images/kerben-cities-v2.webp"},
   {
-    id: "nookat-cities-v2",
+    id: "nookat-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dvorets kul'tury",
+                  "text": "Dieser Kulturpalast in Nookat ist eine wichtige lokale Bühne für Theateraufführungen und gesellschaftliche Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        72.615919,
+                        40.265134
+                  ]
+            },
+            {
+                  "name": "ERKIN KORI MEChET",
+                  "text": "Die Erkin Kori ist eine islamische Moschee, die als Ort des Gebets und der Besinnung im Bezirk Nookat dient.",
+                  "category": "landmark",
+                  "coords": [
+                        72.634958,
+                        40.270295
+                  ]
+            },
+            {
+                  "name": "KhOShIaTILLO DOMILA",
+                  "text": "Die islamische Gebetsstätte Khoshiatillo Domila bietet der lokalen muslimischen Gemeinschaft in Nookat spirituellen Raum.",
+                  "category": "landmark",
+                  "coords": [
+                        72.624238,
+                        40.257573
+                  ]
+            },
+            {
+                  "name": "ERKIN KORI",
+                  "text": "Die Erkin Kori Moschee ist eine lokale islamische Einrichtung, die die Gläubigen im Gebiet Nookat versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        72.633993,
+                        40.270217
+                  ]
+            },
+            {
+                  "name": "Maszhid",
+                  "text": "Diese traditionelle Masdschid bietet den Muslimen in Nookat einen ruhigen Ort für die täglichen Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        72.639966,
+                        40.267898
+                  ]
+            },
+            {
+                  "name": "Besh kapa",
+                  "text": "Die Besh Kapa Moschee ist ein islamisches Kultgebäude für die ansässige Gemeinde im Raum Nookat.",
+                  "category": "landmark",
+                  "coords": [
+                        72.608517,
+                        40.266892
+                  ]
+            },
+            {
+                  "name": "Muidin kori mechiti",
+                  "text": "Die islamische Muidin Kori Mechiti empfängt Gläubige zu ihren rituellen Gebeten in der Region Nookat.",
+                  "category": "landmark",
+                  "coords": [
+                        72.601787,
+                        40.263471
+                  ]
+            },
+            {
+                  "name": "Abdulazizkhon turam",
+                  "text": "Diese islamische Stätte im Gebiet von Nookat ist ein wichtiger Anlaufpunkt für spirituelle Zusammenkünfte.",
+                  "category": "landmark",
+                  "coords": [
+                        72.618773,
+                        40.267442
+                  ]
+            },
+            {
+                  "name": "MEDRESE NUSRATILLO",
+                  "text": "Die islamische Madrasa Nusratillo ist ein Zentrum des religiösen Lernens und Lehrens in Nookat.",
+                  "category": "landmark",
+                  "coords": [
+                        72.627239,
+                        40.262276
+                  ]
+            },
+            {
+                  "name": "EShONLAR",
+                  "text": "Die islamische Eshonlar-Gebetsstätte bietet einen Zufluchtsort für religiöse Andachten in der Nähe von Nookat.",
+                  "category": "landmark",
+                  "coords": [
+                        72.627331,
+                        40.259657
+                  ]
+            },
+            {
+                  "name": "ZhANY MAL BAZAR",
+                  "text": "Der Zhany Mal Bazar ist ein lebhafter Tiermarkt, auf dem Viehzüchter und Käufer in Nookat zusammenkommen.",
+                  "category": "cultural",
+                  "coords": [
+                        72.644028,
+                        40.256533
+                  ]
+            },
+            {
+                  "name": "Orus bazar",
+                  "text": "Der als Orus Bazar bekannte Markt ist ein geschäftiger Handelsknotenpunkt für lokale Alltagsgüter in Nookat.",
+                  "category": "cultural",
+                  "coords": [
+                        72.610801,
+                        40.263656
+                  ]
+            },
+            {
+                  "name": "Rynok",
+                  "text": "Dieser städtische Markt in Nookat ist mit zahlreichen Ständen lokaler Verkäufer gefüllt, die frische Waren anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        72.619372,
+                        40.264984
+                  ]
+            },
+            {
+                  "name": "PUNKT",
+                  "text": "Ein kleinerer Markt- und Handelsstützpunkt für den täglichen Bedarf in den Straßen von Nookat.",
+                  "category": "cultural",
+                  "coords": [
+                        72.622247,
+                        40.265733
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dvorets kul'tury",
+                  "text": "Ez a nookati kultúrpalota fontos helyi színtere a színházi előadásoknak és közösségi eseményeknek.",
+                  "category": "cultural",
+                  "coords": [
+                        72.615919,
+                        40.265134
+                  ]
+            },
+            {
+                  "name": "ERKIN KORI MEChET",
+                  "text": "Az Erkin Kori egy iszlám mecset, amely az imádság és az elmélkedés helyszíneként szolgál Nookat kerületében.",
+                  "category": "landmark",
+                  "coords": [
+                        72.634958,
+                        40.270295
+                  ]
+            },
+            {
+                  "name": "KhOShIaTILLO DOMILA",
+                  "text": "A Khoshiatillo Domila iszlám imahely spirituális teret biztosít a helyi muszlim közösségnek Nookatban.",
+                  "category": "landmark",
+                  "coords": [
+                        72.624238,
+                        40.257573
+                  ]
+            },
+            {
+                  "name": "ERKIN KORI",
+                  "text": "Az Erkin Kori mecset egy helyi iszlám intézmény, amely a hívőket gyűjti össze Nookat területén.",
+                  "category": "landmark",
+                  "coords": [
+                        72.633993,
+                        40.270217
+                  ]
+            },
+            {
+                  "name": "Maszhid",
+                  "text": "Ez a hagyományos meszdzsid csendes helyet kínál a nookati muszlimoknak a napi imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        72.639966,
+                        40.267898
+                  ]
+            },
+            {
+                  "name": "Besh kapa",
+                  "text": "A Besh Kapa mecset egy iszlám kultuszépület a Nookat környékén élő közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        72.608517,
+                        40.266892
+                  ]
+            },
+            {
+                  "name": "Muidin kori mechiti",
+                  "text": "Az iszlám Muidin Kori Mechiti a rituális imákra várja a hívőket Nookat régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        72.601787,
+                        40.263471
+                  ]
+            },
+            {
+                  "name": "Abdulazizkhon turam",
+                  "text": "Ez az iszlám imahely Nookat térségében a spirituális összejövetelek fontos találkozópontja.",
+                  "category": "landmark",
+                  "coords": [
+                        72.618773,
+                        40.267442
+                  ]
+            },
+            {
+                  "name": "MEDRESE NUSRATILLO",
+                  "text": "A Nusratillo iszlám medresze a vallási tanulás és tanítás központja Nookatban.",
+                  "category": "landmark",
+                  "coords": [
+                        72.627239,
+                        40.262276
+                  ]
+            },
+            {
+                  "name": "EShONLAR",
+                  "text": "Az Eshonlar iszlám imahely menedéket nyújt a vallási áhítatokhoz Nookat közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        72.627331,
+                        40.259657
+                  ]
+            },
+            {
+                  "name": "ZhANY MAL BAZAR",
+                  "text": "A Zhany Mal Bazar egy nyüzsgő állatpiac, ahol az állattenyésztők és a vásárlók találkoznak Nookatban.",
+                  "category": "cultural",
+                  "coords": [
+                        72.644028,
+                        40.256533
+                  ]
+            },
+            {
+                  "name": "Orus bazar",
+                  "text": "Az Orus Bazar néven ismert piac a mindennapi áruk nyüzsgő kereskedelmi csomópontja Nookatban.",
+                  "category": "cultural",
+                  "coords": [
+                        72.610801,
+                        40.263656
+                  ]
+            },
+            {
+                  "name": "Rynok",
+                  "text": "Ez a nookati városi piac tele van a friss árukat kínáló helyi árusok standjaival.",
+                  "category": "cultural",
+                  "coords": [
+                        72.619372,
+                        40.264984
+                  ]
+            },
+            {
+                  "name": "PUNKT",
+                  "text": "Egy kisebb piac és kereskedelmi bázis a napi szükségletek kielégítésére Nookat utcáin.",
+                  "category": "cultural",
+                  "coords": [
+                        72.622247,
+                        40.265733
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dvorets kul'tury",
+                  "text": "Acest palat de cultură din Nookat este o scenă locală importantă pentru spectacole de teatru și evenimente comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        72.615919,
+                        40.265134
+                  ]
+            },
+            {
+                  "name": "ERKIN KORI MEChET",
+                  "text": "Erkin Kori este o moschee islamică care servește ca loc de rugăciune și reflecție în districtul Nookat.",
+                  "category": "landmark",
+                  "coords": [
+                        72.634958,
+                        40.270295
+                  ]
+            },
+            {
+                  "name": "KhOShIaTILLO DOMILA",
+                  "text": "Lăcașul de cult islamic Khoshiatillo Domila oferă un spațiu spiritual comunității musulmane locale din Nookat.",
+                  "category": "landmark",
+                  "coords": [
+                        72.624238,
+                        40.257573
+                  ]
+            },
+            {
+                  "name": "ERKIN KORI",
+                  "text": "Moscheea Erkin Kori este o instituție islamică locală care adună credincioșii din zona Nookat.",
+                  "category": "landmark",
+                  "coords": [
+                        72.633993,
+                        40.270217
+                  ]
+            },
+            {
+                  "name": "Maszhid",
+                  "text": "Această moschee tradițională oferă musulmanilor din Nookat un loc liniștit pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        72.639966,
+                        40.267898
+                  ]
+            },
+            {
+                  "name": "Besh kapa",
+                  "text": "Moscheea Besh Kapa este un lăcaș de cult islamic pentru comunitatea rezidentă din zona Nookat.",
+                  "category": "landmark",
+                  "coords": [
+                        72.608517,
+                        40.266892
+                  ]
+            },
+            {
+                  "name": "Muidin kori mechiti",
+                  "text": "Lăcașul islamic Muidin Kori Mechiti primește credincioșii pentru rugăciunile lor rituale în regiunea Nookat.",
+                  "category": "landmark",
+                  "coords": [
+                        72.601787,
+                        40.263471
+                  ]
+            },
+            {
+                  "name": "Abdulazizkhon turam",
+                  "text": "Acest sit islamic din zona Nookat este un punct de întâlnire important pentru adunările spirituale.",
+                  "category": "landmark",
+                  "coords": [
+                        72.618773,
+                        40.267442
+                  ]
+            },
+            {
+                  "name": "MEDRESE NUSRATILLO",
+                  "text": "Madrasa islamică Nusratillo este un centru de învățare și predare religioasă în Nookat.",
+                  "category": "landmark",
+                  "coords": [
+                        72.627239,
+                        40.262276
+                  ]
+            },
+            {
+                  "name": "EShONLAR",
+                  "text": "Lăcașul de rugăciune islamic Eshonlar oferă un refugiu pentru devoțiunile religioase în apropiere de Nookat.",
+                  "category": "landmark",
+                  "coords": [
+                        72.627331,
+                        40.259657
+                  ]
+            },
+            {
+                  "name": "ZhANY MAL BAZAR",
+                  "text": "Zhany Mal Bazar este o piață de animale plină de viață unde se întâlnesc crescătorii și cumpărătorii în Nookat.",
+                  "category": "cultural",
+                  "coords": [
+                        72.644028,
+                        40.256533
+                  ]
+            },
+            {
+                  "name": "Orus bazar",
+                  "text": "Piața cunoscută sub numele de Orus Bazar este un centru comercial aglomerat pentru bunurile de zi cu zi în Nookat.",
+                  "category": "cultural",
+                  "coords": [
+                        72.610801,
+                        40.263656
+                  ]
+            },
+            {
+                  "name": "Rynok",
+                  "text": "Această piață urbană din Nookat este plină cu numeroase tarabe ale vânzătorilor locali care oferă produse proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        72.619372,
+                        40.264984
+                  ]
+            },
+            {
+                  "name": "PUNKT",
+                  "text": "O piață mai mică și un punct de tranzacționare pentru nevoile zilnice pe străzile din Nookat.",
+                  "category": "cultural",
+                  "coords": [
+                        72.622247,
+                        40.265733
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dvorets kul'tury",
+                  "text": "This Palace of Culture in Nookat acts as an important local stage for theatrical performances and community events.",
+                  "category": "cultural",
+                  "coords": [
+                        72.615919,
+                        40.265134
+                  ]
+            },
+            {
+                  "name": "ERKIN KORI MEChET",
+                  "text": "The Erkin Kori is an Islamic mosque serving as a place of prayer and reflection in the Nookat district.",
+                  "category": "landmark",
+                  "coords": [
+                        72.634958,
+                        40.270295
+                  ]
+            },
+            {
+                  "name": "KhOShIaTILLO DOMILA",
+                  "text": "The Khoshiatillo Domila Islamic prayer site provides a spiritual space for the local Muslim community in Nookat.",
+                  "category": "landmark",
+                  "coords": [
+                        72.624238,
+                        40.257573
+                  ]
+            },
+            {
+                  "name": "ERKIN KORI",
+                  "text": "The Erkin Kori mosque is a local Islamic institution gathering worshippers in the Nookat area.",
+                  "category": "landmark",
+                  "coords": [
+                        72.633993,
+                        40.270217
+                  ]
+            },
+            {
+                  "name": "Maszhid",
+                  "text": "This traditional masjid provides the Muslims in Nookat with a quiet space for their daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        72.639966,
+                        40.267898
+                  ]
+            },
+            {
+                  "name": "Besh kapa",
+                  "text": "The Besh Kapa Mosque is an Islamic worship building for the resident community in the Nookat area.",
+                  "category": "landmark",
+                  "coords": [
+                        72.608517,
+                        40.266892
+                  ]
+            },
+            {
+                  "name": "Muidin kori mechiti",
+                  "text": "The Islamic Muidin Kori Mechiti welcomes believers for their ritual prayers in the Nookat region.",
+                  "category": "landmark",
+                  "coords": [
+                        72.601787,
+                        40.263471
+                  ]
+            },
+            {
+                  "name": "Abdulazizkhon turam",
+                  "text": "This Islamic site in the Nookat area is an important gathering point for spiritual meetings.",
+                  "category": "landmark",
+                  "coords": [
+                        72.618773,
+                        40.267442
+                  ]
+            },
+            {
+                  "name": "MEDRESE NUSRATILLO",
+                  "text": "The Islamic madrasa Nusratillo is a center of religious learning and teaching in Nookat.",
+                  "category": "landmark",
+                  "coords": [
+                        72.627239,
+                        40.262276
+                  ]
+            },
+            {
+                  "name": "EShONLAR",
+                  "text": "The Eshonlar Islamic prayer site provides a sanctuary for religious devotion near Nookat.",
+                  "category": "landmark",
+                  "coords": [
+                        72.627331,
+                        40.259657
+                  ]
+            },
+            {
+                  "name": "ZhANY MAL BAZAR",
+                  "text": "The Zhany Mal Bazar is a bustling livestock market where herders and buyers converge in Nookat.",
+                  "category": "cultural",
+                  "coords": [
+                        72.644028,
+                        40.256533
+                  ]
+            },
+            {
+                  "name": "Orus bazar",
+                  "text": "The market known as Orus Bazar is a busy trading hub for local everyday goods in Nookat.",
+                  "category": "cultural",
+                  "coords": [
+                        72.610801,
+                        40.263656
+                  ]
+            },
+            {
+                  "name": "Rynok",
+                  "text": "This urban market in Nookat is filled with numerous stalls of local vendors offering fresh goods.",
+                  "category": "cultural",
+                  "coords": [
+                        72.619372,
+                        40.264984
+                  ]
+            },
+            {
+                  "name": "PUNKT",
+                  "text": "A smaller marketplace and trading post covering daily necessities along the streets of Nookat.",
+                  "category": "cultural",
+                  "coords": [
+                        72.622247,
+                        40.265733
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KG-O",
     coords: [72.62, 40.26],
@@ -1356,7 +4398,52 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       fr: ["L'une des plus anciennes cités minières charbonnières d'Asie centrale.", "Fondée en 1868, elle est l'une des villes les plus occidentales du pays.", "Les gisements de charbon sont exploités industriellement depuis le milieu du XIXe siècle.", "Est presque totalement enclavée dans le territoire tadjik.", "Dispose de sa propre ligne ferroviaire pour l'acheminement du charbon.", "La ville était hautement spécialisée économiquement à l'époque soviétique.", "Constitue aujourd'hui un fournisseur d'énergie majeur pour la région de Batken."],
     }, image: "/poi-images/suluktu-cities-v2.webp"},
   {
-    id: "kadamjay-cities-v2", "sights": {"de": [{"name": "Muzei Abdykadyra Orozbekova", "text": "Музей Абдыкадыра Орозбекова ist ein lokales Museum in der Stadt Kadamdschai.", "category": "museum", "coords": [71.722, 40.131291]}], "hu": [{"name": "Muzei Abdykadyra Orozbekova", "text": "A Музей Абдыкадыра Орозбекова egy helyi múzeum Kadamdzsaj városában.", "category": "museum", "coords": [71.722, 40.131291]}], "ro": [{"name": "Muzei Abdykadyra Orozbekova", "text": "Музей Абдыкадыра Орозбекова este un muzeu local situat în orașul Kadamdschai.", "category": "museum", "coords": [71.722, 40.131291]}], "en": [{"name": "Muzei Abdykadyra Orozbekova", "text": "Музей Абдыкадыра Орозбекова is a local museum located in the town of Kadamdschai.", "category": "museum", "coords": [71.722, 40.131291]}]},
+    id: "kadamjay-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzei Abdykadyra Orozbekova",
+                  "text": "Das Muzei Abdykadyra Orozbekova in Kadamjay ist dem Leben und Werk von Abdykadyra Orozbekova gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        71.722,
+                        40.131291
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzei Abdykadyra Orozbekova",
+                  "text": "A kadamjai Muzei Abdykadyra Orozbekova Abdykadyra Orozbekova életét és munkásságát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        71.722,
+                        40.131291
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzei Abdykadyra Orozbekova",
+                  "text": "Muzeul Abdykadyra Orozbekova din Kadamjay este dedicat vieții și operei lui Abdykadyra Orozbekova.",
+                  "category": "museum",
+                  "coords": [
+                        71.722,
+                        40.131291
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzei Abdykadyra Orozbekova",
+                  "text": "The Muzei Abdykadyra Orozbekova in Kadamjay is dedicated to the life and work of Abdykadyra Orozbekova.",
+                  "category": "museum",
+                  "coords": [
+                        71.722,
+                        40.131291
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KG-B",
     coords: [71.73, 40.13],
@@ -1417,7 +4504,52 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
   
   },
   {
-    id: "toktogul-cities-v2",
+    id: "toktogul-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "rynok",
+                  "text": "Dieser lokale Markt in Toktogul versorgt die Stadtbewohner vor der malerischen Bergkulisse der Region mit alltäglichen Lebensmitteln und Waren.",
+                  "category": "cultural",
+                  "coords": [
+                        72.939554,
+                        41.870874
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "rynok",
+                  "text": "Ez a Toktogulban található helyi piac a régió festői hegyvidéki háttere előtt látja el a város lakóit mindennapi élelmiszerekkel és árukkal.",
+                  "category": "cultural",
+                  "coords": [
+                        72.939554,
+                        41.870874
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "rynok",
+                  "text": "Această piață locală din Toktogul oferă locuitorilor orașului alimente și bunuri de uz zilnic în mijlocul decorului montan pitoresc al regiunii.",
+                  "category": "cultural",
+                  "coords": [
+                        72.939554,
+                        41.870874
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "rynok",
+                  "text": "This local market in Toktogul provides town residents with everyday groceries and goods amidst the scenic mountainous backdrop of the region.",
+                  "category": "cultural",
+                  "coords": [
+                        72.939554,
+                        41.870874
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KG-J",
     coords: [72.94, 41.87],
@@ -1476,7 +4608,52 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       fr: ["Baptisée en l'honneur de l'illustre akyn kirghiz Toktogul Satylganov.", "Établie sur la rive nord du gigantesque réservoir de Toktogul.", "La ville fut déplacée dans les années 1970 suite à l'inondation de la vallée.", "La centrale voisine assure près de 40 % de la production électrique nationale.", "Constitue une étape majeure sur la route de montagne Bichkek-Och.", "Les environs sont réputés pour la qualité exceptionnelle de leur miel.", "Offre des vues saisissantes sur les eaux émeraude encadrées par les cimes."],
     }, image: "/poi-images/toktogul-cities-v2.webp"},
   {
-    id: "kazarman-cities-v2",
+    id: "kazarman-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bazar",
+                  "text": "Ein lebhafter lokaler Markt, der frische Lebensmittel und Kunsthandwerk in Kazarman anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        74.022903,
+                        41.402745
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bazar",
+                  "text": "Egy élénk helyi piac, amely friss élelmiszereket és kézműves termékeket kínál Kazarmanban.",
+                  "category": "cultural",
+                  "coords": [
+                        74.022903,
+                        41.402745
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bazar",
+                  "text": "O piață locală animată care oferă alimente proaspete și obiecte de artizanat în Kazarman.",
+                  "category": "cultural",
+                  "coords": [
+                        74.022903,
+                        41.402745
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bazar",
+                  "text": "A lively local market offering fresh food and crafts in Kazarman.",
+                  "category": "cultural",
+                  "coords": [
+                        74.022903,
+                        41.402745
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KG-J",
     coords: [74.03, 41.41],
@@ -1596,7 +4773,52 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
   
   },
   {
-    id: "shopokov-cities-v2",
+    id: "shopokov-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zuurakan Kainazarova",
+                  "text": "Das Museum erinnert an Zuurakan Kainazarova, eine zweifache Heldin der sozialistischen Arbeit, und zeigt Exponate zu ihrem Leben.",
+                  "category": "museum",
+                  "coords": [
+                        74.308406,
+                        42.80027
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zuurakan Kainazarova",
+                  "text": "A múzeum Zuurakan Kainazarovának, a szocialista munka kétszeres hősének állít emléket, bemutatva élete dokumentumait.",
+                  "category": "museum",
+                  "coords": [
+                        74.308406,
+                        42.80027
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zuurakan Kainazarova",
+                  "text": "Muzeul o comemorează pe Zuurakan Kainazarova, de două ori Eroină a Muncii Socialiste, și expune obiecte legate de viața ei.",
+                  "category": "museum",
+                  "coords": [
+                        74.308406,
+                        42.80027
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zuurakan Kainazarova",
+                  "text": "The museum commemorates Zuurakan Kainazarova, a two-time Hero of Socialist Labor, showcasing exhibits from her life.",
+                  "category": "museum",
+                  "coords": [
+                        74.308406,
+                        42.80027
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KG-C",
     coords: [74.33, 42.82],
@@ -1657,7 +4879,52 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
   
   },
   {
-    id: "kaindy-cities-v2",
+    id: "kaindy-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bereke",
+                  "text": "Bereke ist ein lebhafter lokaler Marktplatz in Kaindy, der als wichtiges Zentrum für den Austausch von frischen Lebensmitteln und regionalen Grundnahrungsmitteln dient.",
+                  "category": "cultural",
+                  "coords": [
+                        73.683062,
+                        42.824965
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bereke",
+                  "text": "A Bereke egy nyüzsgő helyi piac Kaindy városában, amely a friss élelmiszerek és regionális alapanyagok cseréjének létfontosságú központjaként működik.",
+                  "category": "cultural",
+                  "coords": [
+                        73.683062,
+                        42.824965
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bereke",
+                  "text": "Bereke este o piață locală animată din Kaindy, funcționând ca un centru vital pentru schimbul de alimente proaspete și produse de bază regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        73.683062,
+                        42.824965
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bereke",
+                  "text": "Bereke is a lively local marketplace in Kaindy, functioning as a vital center for exchanging fresh groceries and regional staples.",
+                  "category": "cultural",
+                  "coords": [
+                        73.683062,
+                        42.824965
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KG-C",
     coords: [73.68, 42.82],

@@ -1231,7 +1231,7 @@ export const serbiaNatureV2: POI[] = [
             },
             {
                   "name": "Нудистичка плажа Ада Циганлија",
-                  "text": "Ein FKK-Strand auf der Insel Ada Ciganlija in Belgrad.",
+                  "text": "Der FKK-Strand Ada Ciganlija liegt auf der Save-Insel neben dem Košutnjak-Park in Belgrad.",
                   "category": "recreational",
                   "coords": [
                         20.376493,
@@ -1332,7 +1332,7 @@ export const serbiaNatureV2: POI[] = [
             },
             {
                   "name": "Нудистичка плажа Ада Циганлија",
-                  "text": "Nudista strand az Ada Ciganlija szigeten, Belgrádban.",
+                  "text": "Az Ada Ciganlija nudista strand a Száva-szigeten található a belgrádi Košutnjak park mellett.",
                   "category": "recreational",
                   "coords": [
                         20.376493,
@@ -1433,7 +1433,7 @@ export const serbiaNatureV2: POI[] = [
             },
             {
                   "name": "Нудистичка плажа Ада Циганлија",
-                  "text": "O plajă pentru nudiști pe Ada Ciganlija, în Belgrad.",
+                  "text": "Plaja nudistă Ada Ciganlija este pe insula Sava, lângă parcul Košutnjak din Belgrad.",
                   "category": "recreational",
                   "coords": [
                         20.376493,
@@ -1534,7 +1534,7 @@ export const serbiaNatureV2: POI[] = [
             },
             {
                   "name": "Nudist Beach Ada Ciganlija",
-                  "text": "A nudist beach on Ada Ciganlija island in Belgrade.",
+                  "text": "Nudist Beach Ada Ciganlija is on the Sava river island adjacent to Košutnjak Park in Belgrade.",
                   "category": "recreational",
                   "coords": [
                         20.376493,

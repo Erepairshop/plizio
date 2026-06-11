@@ -367,7 +367,7 @@ export const saintvincentEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Pirates of the Caribbean Movie Set Location",
-                  "text": "Der Drehort des Films Pirates of the Caribbean ist eine Attraktion im Fischereizentrum Barrouallie.",
+                  "text": "Filmset der Fluch der Karibik-Filme in Barrouallie Fisheries.",
                   "category": "landmark",
                   "coords": [
                         -61.271276,
@@ -378,7 +378,7 @@ export const saintvincentEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Pirates of the Caribbean Movie Set Location",
-                  "text": "A Karib-tenger kalózai filmforgatási helyszín egy látványosság Fischereizentrum Barrouallie területén.",
+                  "text": "A Karib-tenger kalózai filmek forgatási helyszíne Barrouallie Fisheriesben.",
                   "category": "landmark",
                   "coords": [
                         -61.271276,
@@ -389,7 +389,7 @@ export const saintvincentEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Pirates of the Caribbean Movie Set Location",
-                  "text": "Locația de filmare a filmului Pirații din Caraibe este o atracție situată în Fischereizentrum Barrouallie.",
+                  "text": "Locație de film pentru Pirații din Caraibe în Barrouallie Fisheries.",
                   "category": "landmark",
                   "coords": [
                         -61.271276,
@@ -400,7 +400,7 @@ export const saintvincentEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Pirates of the Caribbean Movie Set Location",
-                  "text": "The Pirates of the Caribbean Movie Set Location is an attraction situated in Fischereizentrum Barrouallie.",
+                  "text": "Film set location in Barrouallie Fisheries used for Pirates of the Caribbean.",
                   "category": "landmark",
                   "coords": [
                         -61.271276,

@@ -3,7 +3,628 @@ import { POI } from './poi';
 export const northmacedoniaCitiesV2: POI[] = [
 
   {
-    id: "northmacedonia-krusevo-cities-v2", "sights": {"de": [{"name": "Muzej na Ilindenskoto vostanie i Kruševskata Republika", "text": "Ein Museum in Kruschewo, das den Ilinden-Aufstand von 1903 dokumentiert.", "category": "museum", "coords": [21.245303, 41.369053]}, {"name": "Learnica", "text": "Ein Museum in Kruschewo, das eine historische Metallgießerei zeigt.", "category": "museum", "coords": [21.246658, 41.372172]}, {"name": "Muzej na NOV", "text": "Ein Museum, das dem Nationalen Befreiungskrieg in Kruschewo gewidmet ist.", "category": "museum", "coords": [21.245749, 41.375585]}, {"name": "Todor (Toše) Proeski", "text": "Ein Gedenkhaus und Museum für den berühmten Sänger Toše Proeski in Kruschewo.", "category": "museum", "coords": [21.246272, 41.374438]}, {"name": "Vasil Iljoski", "text": "Ein Theater in Kruschewo, benannt nach dem bedeutenden Dramatiker Vasil Iljoski.", "category": "cultural", "coords": [21.24661, 41.369363]}, {"name": "Makedonium", "text": "Das Makedonium ist eine futuristische Gedenkstätte in Kruševo, die dem Ilinden-Aufstand gewidmet ist.", "category": "historical", "coords": [21.248366, 41.377407]}, {"name": "Sliva", "text": "Sliva ist ein historisches Denkmal in der Stadt Kruschewo.", "category": "historical", "coords": [21.227378, 41.388077]}, {"name": "Spomenik na Pitu Guli", "text": "Ein Denkmal in Kruschewo, das dem revolutionären Führer Pitu Guli gewidmet ist.", "category": "historical", "coords": [21.249732, 41.364969]}, {"name": "Naum Naumoski-Borče", "text": "Ein Denkmal in Kruschewo zum Gedenken an den Revolutionär Naum Naumoski-Borche.", "category": "historical", "coords": [21.248441, 41.365386]}, {"name": "Nikola Martinoski", "text": "Eine Galerie in Kruschewo, die Werke des berühmten mazedonischen Malers Nikola Martinoski zeigt.", "category": "museum", "coords": [21.252314, 41.368941]}, {"name": "Kruševski Manastir", "text": "Das Kloster von Kruschewo ist eine bedeutende religiöse und kulturelle Sehenswürdigkeit der Stadt.", "category": "landmark", "coords": [21.265922, 41.35688]}, {"name": "Sv. Troica", "text": "Die Dreifaltigkeitskirche ist ein bedeutendes orthodoxes Gotteshaus in Kruschewo.", "category": "religious", "coords": [21.252857, 41.365175]}, {"name": "Sv. Petka", "text": "Die Kirche St. Parascheva ist eine traditionelle orthodoxe Kirche in Kruschewo.", "category": "religious", "coords": [21.241608, 41.36508]}, {"name": "Sv. Jovan Krstitel", "text": "Diese Kirche in Kruschewo ist dem Heiligen Johannes dem Täufer gewidmet und weist traditionelle Architektur auf.", "category": "religious", "coords": [21.249277, 41.369517]}, {"name": "Sv. Nikola", "text": "St. Nikolaus ist eine historische orthodoxe Kirche und ein zentrales Gotteshaus in Kruschewo.", "category": "religious", "coords": [21.249085, 41.368365]}, {"name": "Sv. Nedela", "text": "Die Kirche zum Heiligen Sonntag ist eine bedeutende religiöse Stätte für die orthodoxe Gemeinde in Kruschewo.", "category": "religious", "coords": [21.240861, 41.37519]}, {"name": "Kruševsko Ezero", "text": "Ein malerischer See in City Krusevo, ideal für einen entspannten Spaziergang.", "category": "natural", "coords": [21.242656, 41.379047]}], "hu": [{"name": "Muzej na Ilindenskoto vostanie i Kruševskata Republika", "text": "Kruschewói múzeum, amely az 1903-as ilindeni felkelést dokumentálja.", "category": "museum", "coords": [21.245303, 41.369053]}, {"name": "Learnica", "text": "Kruschewói múzeum, amely egy történelmi fémöntő műhelyt mutat be.", "category": "museum", "coords": [21.246658, 41.372172]}, {"name": "Muzej na NOV", "text": "A nemzeti felszabadító háborúnak szentelt múzeum Kruschewóban.", "category": "museum", "coords": [21.245749, 41.375585]}, {"name": "Todor (Toše) Proeski", "text": "Emlékház és múzeum a híres énekesnek, Toše Proeskinek Kruschewóban.", "category": "museum", "coords": [21.246272, 41.374438]}, {"name": "Vasil Iljoski", "text": "Színház Kruschewóban, amely a neves drámaíróról, Vasil Iljoskiról kapta a nevét.", "category": "cultural", "coords": [21.24661, 41.369363]}, {"name": "Makedonium", "text": "A Makedónium egy futurista emlékmű Kruševóban, amelyet az ilindeni felkelés emlékére emeltek.", "category": "historical", "coords": [21.248366, 41.377407]}, {"name": "Sliva", "text": "A Sliva egy történelmi emlékmű Kruschewo városában.", "category": "historical", "coords": [21.227378, 41.388077]}, {"name": "Spomenik na Pitu Guli", "text": "Kruševói emlékmű, amelyet Pitu Guli forradalmi vezetőnek szenteltek.", "category": "historical", "coords": [21.249732, 41.364969]}, {"name": "Naum Naumoski-Borče", "text": "Kruševói emlékmű Naum Naumoski-Borche forradalmár emlékére.", "category": "historical", "coords": [21.248441, 41.365386]}, {"name": "Nikola Martinoski", "text": "Kruševói galéria, amely Nikola Martinoski híres macedón festő műveit mutatja be.", "category": "museum", "coords": [21.252314, 41.368941]}, {"name": "Kruševski Manastir", "text": "A kruševói kolostor a város jelentős vallási és kulturális látnivalója.", "category": "landmark", "coords": [21.265922, 41.35688]}, {"name": "Sv. Troica", "text": "A Szentháromság-templom egy jelentős ortodox vallási helyszín Kruschewóban.", "category": "religious", "coords": [21.252857, 41.365175]}, {"name": "Sv. Petka", "text": "A Szent Paraszkiva-templom egy hagyományos ortodox templom Kruschewóban.", "category": "religious", "coords": [21.241608, 41.36508]}, {"name": "Sv. Jovan Krstitel", "text": "Ez a kruschewói templom Keresztelő Szent Jánosnak van szentelve, és hagyományos építészeti elemekkel rendelkezik.", "category": "religious", "coords": [21.249277, 41.369517]}, {"name": "Sv. Nikola", "text": "A Szent Miklós-templom egy történelmi ortodox templom és központi vallási helyszín Kruschewóban.", "category": "religious", "coords": [21.249085, 41.368365]}, {"name": "Sv. Nedela", "text": "A Szent Vasárnap-templom jelentős vallási helyszín a kruschewói ortodox közösség számára.", "category": "religious", "coords": [21.240861, 41.37519]}, {"name": "Kruševsko Ezero", "text": "Festői tó City Krusevo területén, tökéletes egy pihentető sétához.", "category": "natural", "coords": [21.242656, 41.379047]}], "ro": [{"name": "Muzej na Ilindenskoto vostanie i Kruševskata Republika", "text": "Un muzeu din Krușevo care documentează Răscoala de la Ilinden din 1903.", "category": "museum", "coords": [21.245303, 41.369053]}, {"name": "Learnica", "text": "Un muzeu din Krușevo care prezintă un atelier istoric de turnare a metalelor.", "category": "museum", "coords": [21.246658, 41.372172]}, {"name": "Muzej na NOV", "text": "Un muzeu dedicat Războiului de Eliberare Națională din Krușevo.", "category": "museum", "coords": [21.245749, 41.375585]}, {"name": "Todor (Toše) Proeski", "text": "O casă memorială și un muzeu pentru celebrul cântăreț Toše Proeski din Krușevo.", "category": "museum", "coords": [21.246272, 41.374438]}, {"name": "Vasil Iljoski", "text": "Un teatru din Krușevo care poartă numele proeminentului dramaturg Vasil Iljoski.", "category": "cultural", "coords": [21.24661, 41.369363]}, {"name": "Makedonium", "text": "Makedonium este un complex memorial futurist din Kruševo, dedicat Revoltei de la Ilinden.", "category": "historical", "coords": [21.248366, 41.377407]}, {"name": "Sliva", "text": "Sliva este un monument istoric situat în orașul Kruschewo.", "category": "historical", "coords": [21.227378, 41.388077]}, {"name": "Spomenik na Pitu Guli", "text": "Un monument din Kruschewo dedicat liderului revoluționar Pitu Guli.", "category": "historical", "coords": [21.249732, 41.364969]}, {"name": "Naum Naumoski-Borče", "text": "Un monument din Kruschewo care îl comemorează pe revoluționarul Naum Naumoski-Borche.", "category": "historical", "coords": [21.248441, 41.365386]}, {"name": "Nikola Martinoski", "text": "O galerie din Kruschewo care expune lucrări ale celebrului pictor macedonean Nikola Martinoski.", "category": "museum", "coords": [21.252314, 41.368941]}, {"name": "Kruševski Manastir", "text": "Mănăstirea din Kruschewo este o importantă atracție religioasă și culturală din oraș.", "category": "landmark", "coords": [21.265922, 41.35688]}, {"name": "Sv. Troica", "text": "Biserica Sfânta Treime este un lăcaș de cult ortodox remarcabil din Kruschewo.", "category": "religious", "coords": [21.252857, 41.365175]}, {"name": "Sv. Petka", "text": "Sfânta Parascheva este o biserică ortodoxă tradițională care deservește comunitatea din Kruschewo.", "category": "religious", "coords": [21.241608, 41.36508]}, {"name": "Sv. Jovan Krstitel", "text": "Această biserică din Kruschewo este dedicată Sfântului Ioan Botezătorul și prezintă o arhitectură tradițională.", "category": "religious", "coords": [21.249277, 41.369517]}, {"name": "Sv. Nikola", "text": "Sfântul Nicolae este o biserică ortodoxă istorică și un lăcaș de cult central din Kruschewo.", "category": "religious", "coords": [21.249085, 41.368365]}, {"name": "Sv. Nedela", "text": "Biserica Sfânta Duminică este un sit religios important pentru comunitatea ortodoxă din Kruschewo.", "category": "religious", "coords": [21.240861, 41.37519]}, {"name": "Kruševsko Ezero", "text": "Un lac pitoresc în City Krusevo, perfect pentru o plimbare relaxantă.", "category": "natural", "coords": [21.242656, 41.379047]}], "en": [{"name": "Museum of the Ilinden Uprising and the Republic of Krushevo", "text": "A museum in Krushevo documenting the 1903 Ilinden Uprising.", "category": "museum", "coords": [21.245303, 41.369053]}, {"name": "Foundry", "text": "A museum in Krushevo showcasing a historic workshop for casting metals.", "category": "museum", "coords": [21.246658, 41.372172]}, {"name": "Muzej na NOV", "text": "A museum dedicated to the National Liberation War in Krushevo.", "category": "museum", "coords": [21.245749, 41.375585]}, {"name": "Todor (Toshe) Proeski", "text": "A memorial house and museum for the famous singer Toše Proeski in Krushevo.", "category": "museum", "coords": [21.246272, 41.374438]}, {"name": "Vasil Iljoski", "text": "A theatre in Krushevo named after the prominent playwright Vasil Iljoski.", "category": "cultural", "coords": [21.24661, 41.369363]}, {"name": "Makedonium", "text": "The Makedonium is a futuristic memorial complex in Kruševo dedicated to the Ilinden Uprising.", "category": "historical", "coords": [21.248366, 41.377407]}, {"name": "Sliva", "text": "Sliva is a historical monument located in the city of Kruschewo.", "category": "historical", "coords": [21.227378, 41.388077]}, {"name": "Statue of Pitu Guli", "text": "A monument in Kruschewo dedicated to the revolutionary leader Pitu Guli.", "category": "historical", "coords": [21.249732, 41.364969]}, {"name": "Naum Naumoski-Borche", "text": "A monument in Kruschewo commemorating the revolutionary Naum Naumoski-Borche.", "category": "historical", "coords": [21.248441, 41.365386]}, {"name": "Nikola Martinoski", "text": "A gallery in Kruschewo showcasing works by the famous Macedonian painter Nikola Martinoski.", "category": "museum", "coords": [21.252314, 41.368941]}, {"name": "Monastery of Krushevo", "text": "The Monastery of Krushevo is a significant religious and cultural attraction in the city.", "category": "landmark", "coords": [21.265922, 41.35688]}, {"name": "Holy Trinity", "text": "The Holy Trinity Church is a notable Orthodox place of worship in Kruschewo.", "category": "religious", "coords": [21.252857, 41.365175]}, {"name": "St. Parascheva", "text": "St. Parascheva is a traditional Orthodox church serving the community of Kruschewo.", "category": "religious", "coords": [21.241608, 41.36508]}, {"name": "St. John The Baptist", "text": "This church in Kruschewo is dedicated to St. John the Baptist and features traditional architecture.", "category": "religious", "coords": [21.249277, 41.369517]}, {"name": "St. Nicholas", "text": "St. Nicholas is a historic Orthodox church and a central place of worship in Kruschewo.", "category": "religious", "coords": [21.249085, 41.368365]}, {"name": "Holy Sunday", "text": "The Holy Sunday Church is a significant religious site for the Orthodox community in Kruschewo.", "category": "religious", "coords": [21.240861, 41.37519]}, {"name": "Lake of Krushevo", "text": "A scenic lake in City Krusevo, perfect for a relaxing walk.", "category": "natural", "coords": [21.242656, 41.379047]}]},
+    id: "northmacedonia-krusevo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzej na Ilindenskoto vostanie i Kruševskata Republika",
+                  "text": "Das Museum des Ilinden-Aufstands und der Republik Kruševo erinnert an den Aufstand von 1903.",
+                  "category": "museum",
+                  "coords": [
+                        21.245303,
+                        41.369053
+                  ]
+            },
+            {
+                  "name": "Learnica",
+                  "text": "Ein Museum in Kruschewo, das eine historische Metallgießerei zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        21.246658,
+                        41.372172
+                  ]
+            },
+            {
+                  "name": "Muzej na NOV",
+                  "text": "Ein Museum, das dem Nationalen Befreiungskrieg in Kruschewo gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        21.245749,
+                        41.375585
+                  ]
+            },
+            {
+                  "name": "Todor (Toše) Proeski",
+                  "text": "Ein Gedenkhaus und Museum für den berühmten Sänger Toše Proeski in Kruschewo.",
+                  "category": "museum",
+                  "coords": [
+                        21.246272,
+                        41.374438
+                  ]
+            },
+            {
+                  "name": "Vasil Iljoski",
+                  "text": "Ein Theater in Kruschewo, benannt nach dem bedeutenden Dramatiker Vasil Iljoski.",
+                  "category": "cultural",
+                  "coords": [
+                        21.24661,
+                        41.369363
+                  ]
+            },
+            {
+                  "name": "Makedonium",
+                  "text": "Das Makedonium ist eine futuristische Gedenkstätte in Kruševo, die dem Ilinden-Aufstand gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        21.248366,
+                        41.377407
+                  ]
+            },
+            {
+                  "name": "Sliva",
+                  "text": "Sliva ist eine historische Stätte in Krusevo, einer Stadt, die für den Ilinden-Aufstand bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        21.227378,
+                        41.388077
+                  ]
+            },
+            {
+                  "name": "Spomenik na Pitu Guli",
+                  "text": "Ein Denkmal in Kruschewo, das dem revolutionären Führer Pitu Guli gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        21.249732,
+                        41.364969
+                  ]
+            },
+            {
+                  "name": "Naum Naumoski-Borče",
+                  "text": "Ein Denkmal in Kruschewo zum Gedenken an den Revolutionär Naum Naumoski-Borche.",
+                  "category": "historical",
+                  "coords": [
+                        21.248441,
+                        41.365386
+                  ]
+            },
+            {
+                  "name": "Nikola Martinoski",
+                  "text": "Eine Galerie in Kruschewo, die Werke des berühmten mazedonischen Malers Nikola Martinoski zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        21.252314,
+                        41.368941
+                  ]
+            },
+            {
+                  "name": "Kruševski Manastir",
+                  "text": "Das Kloster von Krushevo ist ein Bergkloster mit Blick auf die Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        21.265922,
+                        41.35688
+                  ]
+            },
+            {
+                  "name": "Sv. Troica",
+                  "text": "Die Dreifaltigkeitskirche ist ein bedeutendes orthodoxes Gotteshaus in Kruschewo.",
+                  "category": "religious",
+                  "coords": [
+                        21.252857,
+                        41.365175
+                  ]
+            },
+            {
+                  "name": "Sv. Petka",
+                  "text": "Die Kirche St. Parascheva ist eine traditionelle orthodoxe Kirche in Kruschewo.",
+                  "category": "religious",
+                  "coords": [
+                        21.241608,
+                        41.36508
+                  ]
+            },
+            {
+                  "name": "Sv. Jovan Krstitel",
+                  "text": "Diese Kirche in Kruschewo ist dem Heiligen Johannes dem Täufer gewidmet und weist traditionelle Architektur auf.",
+                  "category": "religious",
+                  "coords": [
+                        21.249277,
+                        41.369517
+                  ]
+            },
+            {
+                  "name": "Sv. Nikola",
+                  "text": "St. Nikolaus ist eine historische orthodoxe Kirche und ein zentrales Gotteshaus in Kruschewo.",
+                  "category": "religious",
+                  "coords": [
+                        21.249085,
+                        41.368365
+                  ]
+            },
+            {
+                  "name": "Sv. Nedela",
+                  "text": "Die Kirche zum Heiligen Sonntag ist eine bedeutende religiöse Stätte für die orthodoxe Gemeinde in Kruschewo.",
+                  "category": "religious",
+                  "coords": [
+                        21.240861,
+                        41.37519
+                  ]
+            },
+            {
+                  "name": "Kruševsko Ezero",
+                  "text": "Ein malerischer See in City Krusevo, ideal für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        21.242656,
+                        41.379047
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzej na Ilindenskoto vostanie i Kruševskata Republika",
+                  "text": "Az Ilinden-felkelés és a Krushevoi Köztársaság Múzeuma az 1903-as felkelés emlékét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        21.245303,
+                        41.369053
+                  ]
+            },
+            {
+                  "name": "Learnica",
+                  "text": "Kruschewói múzeum, amely egy történelmi fémöntő műhelyt mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        21.246658,
+                        41.372172
+                  ]
+            },
+            {
+                  "name": "Muzej na NOV",
+                  "text": "A nemzeti felszabadító háborúnak szentelt múzeum Kruschewóban.",
+                  "category": "museum",
+                  "coords": [
+                        21.245749,
+                        41.375585
+                  ]
+            },
+            {
+                  "name": "Todor (Toše) Proeski",
+                  "text": "Emlékház és múzeum a híres énekesnek, Toše Proeskinek Kruschewóban.",
+                  "category": "museum",
+                  "coords": [
+                        21.246272,
+                        41.374438
+                  ]
+            },
+            {
+                  "name": "Vasil Iljoski",
+                  "text": "Színház Kruschewóban, amely a neves drámaíróról, Vasil Iljoskiról kapta a nevét.",
+                  "category": "cultural",
+                  "coords": [
+                        21.24661,
+                        41.369363
+                  ]
+            },
+            {
+                  "name": "Makedonium",
+                  "text": "A Makedónium egy futurista emlékmű Kruševóban, amelyet az ilindeni felkelés emlékére emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        21.248366,
+                        41.377407
+                  ]
+            },
+            {
+                  "name": "Sliva",
+                  "text": "A Sliva egy történelmi helyszín Krusevóban, amely a Ilinden-felkelésről híres város.",
+                  "category": "historical",
+                  "coords": [
+                        21.227378,
+                        41.388077
+                  ]
+            },
+            {
+                  "name": "Spomenik na Pitu Guli",
+                  "text": "Kruševói emlékmű, amelyet Pitu Guli forradalmi vezetőnek szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        21.249732,
+                        41.364969
+                  ]
+            },
+            {
+                  "name": "Naum Naumoski-Borče",
+                  "text": "Kruševói emlékmű Naum Naumoski-Borche forradalmár emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        21.248441,
+                        41.365386
+                  ]
+            },
+            {
+                  "name": "Nikola Martinoski",
+                  "text": "Kruševói galéria, amely Nikola Martinoski híres macedón festő műveit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.252314,
+                        41.368941
+                  ]
+            },
+            {
+                  "name": "Kruševski Manastir",
+                  "text": "A Krushevói Kolostor egy dombtetőn álló kolostor, amely a városra néz.",
+                  "category": "landmark",
+                  "coords": [
+                        21.265922,
+                        41.35688
+                  ]
+            },
+            {
+                  "name": "Sv. Troica",
+                  "text": "A Szentháromság-templom egy jelentős ortodox vallási helyszín Kruschewóban.",
+                  "category": "religious",
+                  "coords": [
+                        21.252857,
+                        41.365175
+                  ]
+            },
+            {
+                  "name": "Sv. Petka",
+                  "text": "A Szent Paraszkiva-templom egy hagyományos ortodox templom Kruschewóban.",
+                  "category": "religious",
+                  "coords": [
+                        21.241608,
+                        41.36508
+                  ]
+            },
+            {
+                  "name": "Sv. Jovan Krstitel",
+                  "text": "Ez a kruschewói templom Keresztelő Szent Jánosnak van szentelve, és hagyományos építészeti elemekkel rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        21.249277,
+                        41.369517
+                  ]
+            },
+            {
+                  "name": "Sv. Nikola",
+                  "text": "A Szent Miklós-templom egy történelmi ortodox templom és központi vallási helyszín Kruschewóban.",
+                  "category": "religious",
+                  "coords": [
+                        21.249085,
+                        41.368365
+                  ]
+            },
+            {
+                  "name": "Sv. Nedela",
+                  "text": "A Szent Vasárnap-templom jelentős vallási helyszín a kruschewói ortodox közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        21.240861,
+                        41.37519
+                  ]
+            },
+            {
+                  "name": "Kruševsko Ezero",
+                  "text": "Festői tó City Krusevo területén, tökéletes egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        21.242656,
+                        41.379047
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzej na Ilindenskoto vostanie i Kruševskata Republika",
+                  "text": "Muzeul Răscoalei de la Ilinden și al Republicii Kruševo comemorează răscoala din 1903.",
+                  "category": "museum",
+                  "coords": [
+                        21.245303,
+                        41.369053
+                  ]
+            },
+            {
+                  "name": "Learnica",
+                  "text": "Un muzeu din Krușevo care prezintă un atelier istoric de turnare a metalelor.",
+                  "category": "museum",
+                  "coords": [
+                        21.246658,
+                        41.372172
+                  ]
+            },
+            {
+                  "name": "Muzej na NOV",
+                  "text": "Un muzeu dedicat Războiului de Eliberare Națională din Krușevo.",
+                  "category": "museum",
+                  "coords": [
+                        21.245749,
+                        41.375585
+                  ]
+            },
+            {
+                  "name": "Todor (Toše) Proeski",
+                  "text": "O casă memorială și un muzeu pentru celebrul cântăreț Toše Proeski din Krușevo.",
+                  "category": "museum",
+                  "coords": [
+                        21.246272,
+                        41.374438
+                  ]
+            },
+            {
+                  "name": "Vasil Iljoski",
+                  "text": "Un teatru din Krușevo care poartă numele proeminentului dramaturg Vasil Iljoski.",
+                  "category": "cultural",
+                  "coords": [
+                        21.24661,
+                        41.369363
+                  ]
+            },
+            {
+                  "name": "Makedonium",
+                  "text": "Makedonium este un complex memorial futurist din Kruševo, dedicat Revoltei de la Ilinden.",
+                  "category": "historical",
+                  "coords": [
+                        21.248366,
+                        41.377407
+                  ]
+            },
+            {
+                  "name": "Sliva",
+                  "text": "Sliva este un sit istoric în Krusevo, un oraș cunoscut pentru Răscoala Ilinden.",
+                  "category": "historical",
+                  "coords": [
+                        21.227378,
+                        41.388077
+                  ]
+            },
+            {
+                  "name": "Spomenik na Pitu Guli",
+                  "text": "Un monument din Kruschewo dedicat liderului revoluționar Pitu Guli.",
+                  "category": "historical",
+                  "coords": [
+                        21.249732,
+                        41.364969
+                  ]
+            },
+            {
+                  "name": "Naum Naumoski-Borče",
+                  "text": "Un monument din Kruschewo care îl comemorează pe revoluționarul Naum Naumoski-Borche.",
+                  "category": "historical",
+                  "coords": [
+                        21.248441,
+                        41.365386
+                  ]
+            },
+            {
+                  "name": "Nikola Martinoski",
+                  "text": "O galerie din Kruschewo care expune lucrări ale celebrului pictor macedonean Nikola Martinoski.",
+                  "category": "museum",
+                  "coords": [
+                        21.252314,
+                        41.368941
+                  ]
+            },
+            {
+                  "name": "Kruševski Manastir",
+                  "text": "Mănăstirea din Krushevo este o mănăstire pe deal cu vedere spre oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        21.265922,
+                        41.35688
+                  ]
+            },
+            {
+                  "name": "Sv. Troica",
+                  "text": "Biserica Sfânta Treime este un lăcaș de cult ortodox remarcabil din Kruschewo.",
+                  "category": "religious",
+                  "coords": [
+                        21.252857,
+                        41.365175
+                  ]
+            },
+            {
+                  "name": "Sv. Petka",
+                  "text": "Sfânta Parascheva este o biserică ortodoxă tradițională care deservește comunitatea din Kruschewo.",
+                  "category": "religious",
+                  "coords": [
+                        21.241608,
+                        41.36508
+                  ]
+            },
+            {
+                  "name": "Sv. Jovan Krstitel",
+                  "text": "Această biserică din Kruschewo este dedicată Sfântului Ioan Botezătorul și prezintă o arhitectură tradițională.",
+                  "category": "religious",
+                  "coords": [
+                        21.249277,
+                        41.369517
+                  ]
+            },
+            {
+                  "name": "Sv. Nikola",
+                  "text": "Sfântul Nicolae este o biserică ortodoxă istorică și un lăcaș de cult central din Kruschewo.",
+                  "category": "religious",
+                  "coords": [
+                        21.249085,
+                        41.368365
+                  ]
+            },
+            {
+                  "name": "Sv. Nedela",
+                  "text": "Biserica Sfânta Duminică este un sit religios important pentru comunitatea ortodoxă din Kruschewo.",
+                  "category": "religious",
+                  "coords": [
+                        21.240861,
+                        41.37519
+                  ]
+            },
+            {
+                  "name": "Kruševsko Ezero",
+                  "text": "Un lac pitoresc în City Krusevo, perfect pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        21.242656,
+                        41.379047
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of the Ilinden Uprising and the Republic of Krushevo",
+                  "text": "Museum of the Ilinden Uprising and the Republic of Kruševo commemorates the 1903 uprising.",
+                  "category": "museum",
+                  "coords": [
+                        21.245303,
+                        41.369053
+                  ]
+            },
+            {
+                  "name": "Foundry",
+                  "text": "A museum in Krushevo showcasing a historic workshop for casting metals.",
+                  "category": "museum",
+                  "coords": [
+                        21.246658,
+                        41.372172
+                  ]
+            },
+            {
+                  "name": "Muzej na NOV",
+                  "text": "A museum dedicated to the National Liberation War in Krushevo.",
+                  "category": "museum",
+                  "coords": [
+                        21.245749,
+                        41.375585
+                  ]
+            },
+            {
+                  "name": "Todor (Toshe) Proeski",
+                  "text": "A memorial house and museum for the famous singer Toše Proeski in Krushevo.",
+                  "category": "museum",
+                  "coords": [
+                        21.246272,
+                        41.374438
+                  ]
+            },
+            {
+                  "name": "Vasil Iljoski",
+                  "text": "A theatre in Krushevo named after the prominent playwright Vasil Iljoski.",
+                  "category": "cultural",
+                  "coords": [
+                        21.24661,
+                        41.369363
+                  ]
+            },
+            {
+                  "name": "Makedonium",
+                  "text": "The Makedonium is a futuristic memorial complex in Kruševo dedicated to the Ilinden Uprising.",
+                  "category": "historical",
+                  "coords": [
+                        21.248366,
+                        41.377407
+                  ]
+            },
+            {
+                  "name": "Sliva",
+                  "text": "Sliva is a historical site in Krusevo, a town famous for the Ilinden Uprising.",
+                  "category": "historical",
+                  "coords": [
+                        21.227378,
+                        41.388077
+                  ]
+            },
+            {
+                  "name": "Statue of Pitu Guli",
+                  "text": "A monument in Kruschewo dedicated to the revolutionary leader Pitu Guli.",
+                  "category": "historical",
+                  "coords": [
+                        21.249732,
+                        41.364969
+                  ]
+            },
+            {
+                  "name": "Naum Naumoski-Borche",
+                  "text": "A monument in Kruschewo commemorating the revolutionary Naum Naumoski-Borche.",
+                  "category": "historical",
+                  "coords": [
+                        21.248441,
+                        41.365386
+                  ]
+            },
+            {
+                  "name": "Nikola Martinoski",
+                  "text": "A gallery in Kruschewo showcasing works by the famous Macedonian painter Nikola Martinoski.",
+                  "category": "museum",
+                  "coords": [
+                        21.252314,
+                        41.368941
+                  ]
+            },
+            {
+                  "name": "Monastery of Krushevo",
+                  "text": "Monastery of Krushevo is a hilltop monastery overlooking the town.",
+                  "category": "landmark",
+                  "coords": [
+                        21.265922,
+                        41.35688
+                  ]
+            },
+            {
+                  "name": "Holy Trinity",
+                  "text": "The Holy Trinity Church is a notable Orthodox place of worship in Kruschewo.",
+                  "category": "religious",
+                  "coords": [
+                        21.252857,
+                        41.365175
+                  ]
+            },
+            {
+                  "name": "St. Parascheva",
+                  "text": "St. Parascheva is a traditional Orthodox church serving the community of Kruschewo.",
+                  "category": "religious",
+                  "coords": [
+                        21.241608,
+                        41.36508
+                  ]
+            },
+            {
+                  "name": "St. John The Baptist",
+                  "text": "This church in Kruschewo is dedicated to St. John the Baptist and features traditional architecture.",
+                  "category": "religious",
+                  "coords": [
+                        21.249277,
+                        41.369517
+                  ]
+            },
+            {
+                  "name": "St. Nicholas",
+                  "text": "St. Nicholas is a historic Orthodox church and a central place of worship in Kruschewo.",
+                  "category": "religious",
+                  "coords": [
+                        21.249085,
+                        41.368365
+                  ]
+            },
+            {
+                  "name": "Holy Sunday",
+                  "text": "The Holy Sunday Church is a significant religious site for the Orthodox community in Kruschewo.",
+                  "category": "religious",
+                  "coords": [
+                        21.240861,
+                        41.37519
+                  ]
+            },
+            {
+                  "name": "Lake of Krushevo",
+                  "text": "A scenic lake in City Krusevo, perfect for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        21.242656,
+                        41.379047
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MK",
     name: { de: "Kruschewo", hu: "Krusevo", ro: "Krușevo", en: "Krusevo" },
@@ -48,7 +669,52 @@ export const northmacedoniaCitiesV2: POI[] = [
     image: "/poi-images/northmacedonia-krusevo-cities-v2.webp",
   },
   {
-    id: "northmacedonia-radovis-cities-v2", "sights": {"de": [{"name": "Sv.Trojca", "text": "Eine kulturelle Sehenswürdigkeit in der Stadt Radowisch.", "category": "landmark", "coords": [22.467783, 41.635085]}], "hu": [{"name": "Sv.Trojca", "text": "Kulturális látnivaló Radowisch városában.", "category": "landmark", "coords": [22.467783, 41.635085]}], "ro": [{"name": "Sv.Trojca", "text": "O atracție culturală în orașul Radowisch.", "category": "landmark", "coords": [22.467783, 41.635085]}], "en": [{"name": "Sv.Trojca", "text": "A cultural attraction in the town of Radowisch.", "category": "landmark", "coords": [22.467783, 41.635085]}]},
+    id: "northmacedonia-radovis-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sv.Trojca",
+                  "text": "Sv.Trojca ist eine markante Kirche, die der Heiligen Dreifaltigkeit in Radovis geweiht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        22.467783,
+                        41.635085
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sv.Trojca",
+                  "text": "A Sv.Trojca egy nevezetes templom Radovisban, a Szentháromságnak szentelve.",
+                  "category": "landmark",
+                  "coords": [
+                        22.467783,
+                        41.635085
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sv.Trojca",
+                  "text": "Sv.Trojca este o biserică emblematică dedicată Sfintei Treimi în Radovis.",
+                  "category": "landmark",
+                  "coords": [
+                        22.467783,
+                        41.635085
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sv.Trojca",
+                  "text": "Sv.Trojca is a landmark church dedicated to the Holy Trinity in Radovis.",
+                  "category": "landmark",
+                  "coords": [
+                        22.467783,
+                        41.635085
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MK",
     name: { de: "Radowisch", hu: "Radovis", ro: "Radoviș", en: "Radovis" },
@@ -565,7 +1231,7 @@ export const northmacedoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Viničko Kale",
-                  "text": "Eine historische Festungsanlage auf einem Hügel über Winiza.",
+                  "text": "Viničko Kale ist eine mittelalterliche Festung oberhalb von Vinica.",
                   "category": "castle",
                   "coords": [
                         22.502758,
@@ -574,7 +1240,7 @@ export const northmacedoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Destroyed Unknown Monument",
-                  "text": "Ein zerstörtes historisches Denkmal in der Stadt Winiza.",
+                  "text": "Das zerstörte unbekannte Denkmal ist eine ruinierte historische Anlage unbekannter Herkunft in Vinica.",
                   "category": "historical",
                   "coords": [
                         22.525934,
@@ -601,7 +1267,7 @@ export const northmacedoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Hotel Chagal",
-                  "text": "Ein Schwimmbad in Vinica, das zur Erfrischung und zum Schwimmen einlädt.",
+                  "text": "Das Schwimmbad in Vinica lädt zu einer erfrischenden Abkühlung ein.",
                   "category": "family",
                   "coords": [
                         22.469918,
@@ -621,7 +1287,7 @@ export const northmacedoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Viničko Kale",
-                  "text": "Történelmi erődítmény egy dombon Winiza felett.",
+                  "text": "A Viničko Kale egy középkori erőd Vinica fölött.",
                   "category": "castle",
                   "coords": [
                         22.502758,
@@ -630,7 +1296,7 @@ export const northmacedoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Destroyed Unknown Monument",
-                  "text": "Romos történelmi emlékmű Winiza városában.",
+                  "text": "A megsemmisült ismeretlen emlékmű egy romos történelmi objektum ismeretlen eredetű Vinicában.",
                   "category": "historical",
                   "coords": [
                         22.525934,
@@ -657,7 +1323,7 @@ export const northmacedoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Hotel Chagal",
-                  "text": "Úszómedence Vinica területén, amely frissítő úszásra hívogat.",
+                  "text": "A vinicai uszoda frissítő fürdőzésre hívogat.",
                   "category": "family",
                   "coords": [
                         22.469918,
@@ -677,7 +1343,7 @@ export const northmacedoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Viničko Kale",
-                  "text": "O fortăreață istorică pe un deal deasupra orașului Winiza.",
+                  "text": "Viničko Kale este o fortăreață medievală deasupra localității Vinica.",
                   "category": "castle",
                   "coords": [
                         22.502758,
@@ -686,7 +1352,7 @@ export const northmacedoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Destroyed Unknown Monument",
-                  "text": "Un monument istoric distrus în orașul Winiza.",
+                  "text": "Monumentul Necunoscut Distrus este un obiect istoric ruinat de origine necunoscută în Vinica.",
                   "category": "historical",
                   "coords": [
                         22.525934,
@@ -713,7 +1379,7 @@ export const northmacedoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Hotel Chagal",
-                  "text": "O piscină în Vinica care invită la o baie răcoritoare și înot.",
+                  "text": "Piscina din Vinica invită la o baie răcoritoare.",
                   "category": "family",
                   "coords": [
                         22.469918,
@@ -733,7 +1399,7 @@ export const northmacedoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Viničko Kale",
-                  "text": "A historical fortress on a hill overlooking Winiza.",
+                  "text": "Viničko Kale is a medieval fortress above Vinica.",
                   "category": "castle",
                   "coords": [
                         22.502758,
@@ -742,7 +1408,7 @@ export const northmacedoniaCitiesV2: POI[] = [
             },
             {
                   "name": "Destroyed Unknown Monument",
-                  "text": "A destroyed historical monument in the city of Winiza.",
+                  "text": "Destroyed Unknown Monument is a ruined historical object of unknown origin in Vinica.",
                   "category": "historical",
                   "coords": [
                         22.525934,
@@ -769,7 +1435,7 @@ export const northmacedoniaCitiesV2: POI[] = [
             },
             {
                   "name": "swimming pool in Vinica inviting you for",
-                  "text": "A swimming pool in Vinica inviting you for a refreshing swim.",
+                  "text": "The swimming pool in Vinica invites visitors for a refreshing dip.",
                   "category": "family",
                   "coords": [
                         22.469918,
@@ -826,7 +1492,7 @@ export const northmacedoniaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Museum of Wine",
-                  "text": "Ein Museum über den Weinbau in Demir Kapija.",
+                  "text": "Das Weinmuseum in Demirkapija präsentiert die Weinbautradition der Region.",
                   "category": "museum",
                   "coords": [
                         22.244736,
@@ -837,7 +1503,7 @@ export const northmacedoniaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Museum of Wine",
-                  "text": "A bortermesztést bemutató múzeum Demir Kapija városában.",
+                  "text": "A Demirkapijai Borászati Múzeum a régió borászati hagyományait mutatja be.",
                   "category": "museum",
                   "coords": [
                         22.244736,
@@ -848,7 +1514,7 @@ export const northmacedoniaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Museum of Wine",
-                  "text": "Un muzeu dedicat vinificației situat în Demir Kapija.",
+                  "text": "Muzeul Vinului din Demirkapija prezintă tradiția viticolă a regiunii.",
                   "category": "museum",
                   "coords": [
                         22.244736,
@@ -859,7 +1525,7 @@ export const northmacedoniaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Museum of Wine",
-                  "text": "A museum dedicated to viticulture located in Demir Kapija.",
+                  "text": "Museum of Wine in Demirkapija showcases the region's winemaking tradition.",
                   "category": "museum",
                   "coords": [
                         22.244736,
@@ -916,7 +1582,7 @@ export const northmacedoniaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Kundisko Ezero",
-                  "text": "Ein malerischer See in Kratovo, ideal für einen entspannten Spaziergang.",
+                  "text": "Der Kundino-See ist ein Natursee in der Nähe von Kratovo, ideal zum Entspannen.",
                   "category": "natural",
                   "coords": [
                         22.155638,
@@ -963,7 +1629,7 @@ export const northmacedoniaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Kundisko Ezero",
-                  "text": "Festői tó Kratovo területén, tökéletes egy pihentető sétához.",
+                  "text": "A Kundino-tó egy természetes tó Kratovo közelében, ideális a kikapcsolódásra.",
                   "category": "natural",
                   "coords": [
                         22.155638,
@@ -1010,7 +1676,7 @@ export const northmacedoniaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Kundisko Ezero",
-                  "text": "Un lac pitoresc în Kratovo, perfect pentru o plimbare relaxantă.",
+                  "text": "Lacul Kundino este un lac natural lângă Kratovo, ideal pentru relaxare.",
                   "category": "natural",
                   "coords": [
                         22.155638,
@@ -1057,7 +1723,7 @@ export const northmacedoniaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Kundino Lake",
-                  "text": "A scenic lake in Kratovo, perfect for a relaxing walk.",
+                  "text": "Kundino Lake is a natural lake near Kratovo, ideal for relaxation.",
                   "category": "natural",
                   "coords": [
                         22.155638,

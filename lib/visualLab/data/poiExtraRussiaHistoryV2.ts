@@ -837,7 +837,1240 @@ imageHint: "Aerial view of Arkaim archaeological site circular structure",
     },
     image: "/poi-images/russia-arkaim-ruins-history-v2.webp",
 },  {
-    id: "russia-derbent-fortress-history-v2",
+    id: "russia-derbent-fortress-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zemlianka Petra I",
+                  "text": "Eine historische Stätte in Derbent, die die Überreste des Hauses bewahrt, in dem sich Peter der Große 1722 aufhielt.",
+                  "category": "museum",
+                  "coords": [
+                        48.304344,
+                        42.061968
+                  ]
+            },
+            {
+                  "name": "Festung Naryn-Kala",
+                  "text": "Eine antike Festung und UNESCO-Welterbestätte in Derbent, bekannt für ihre gut erhaltenen Verteidigungsmauern.",
+                  "category": "museum",
+                  "coords": [
+                        48.274138,
+                        42.052911
+                  ]
+            },
+            {
+                  "name": "Gosudarstvennyi lezginskii muzykal'no-dramaticheskii teatr im. S. Stal'skogo",
+                  "text": "Eine kulturelle Einrichtung in Derbent, die der lesgischen Musik und dramatischen Aufführungen gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        48.2945,
+                        42.05408
+                  ]
+            },
+            {
+                  "name": "Dschuma-Moschee",
+                  "text": "Die älteste Moschee in Russland und der GUS, gelegen im Herzen des historischen Zentrums von Derbent.",
+                  "category": "religious",
+                  "coords": [
+                        48.27978,
+                        42.055253
+                  ]
+            },
+            {
+                  "name": "Tserkov' Sviatogo Vsespasitelia",
+                  "text": "Eine historische armenische Kirche in Derbent, bekannt für ihren einzigartigen Baustil und ihr kulturelles Erbe.",
+                  "category": "religious",
+                  "coords": [
+                        48.287052,
+                        42.057043
+                  ]
+            },
+            {
+                  "name": "Sinagoga <<Kele-Numaz>>",
+                  "text": "Eine bedeutende jüdische Gebetsstätte in Derbent, die der lokalen Gemeinschaft der Bergjuden dient.",
+                  "category": "religious",
+                  "coords": [
+                        48.291204,
+                        42.057185
+                  ]
+            },
+            {
+                  "name": "Tserkov' Pokrova Presviatoi Bogoroditsy",
+                  "text": "Eine orthodoxe Kirche in Derbent, die als wichtiges spirituelles Zentrum für die örtliche Gemeinschaft dient.",
+                  "category": "religious",
+                  "coords": [
+                        48.300148,
+                        42.058482
+                  ]
+            },
+            {
+                  "name": "Aserbaidschanisches Theater Derbent",
+                  "text": "Ein staatliches Dramentheater in Derbent, das sich auf aserbaidschanische Sprache und kulturelle Produktionen konzentriert.",
+                  "category": "cultural",
+                  "coords": [
+                        48.296326,
+                        42.057571
+                  ]
+            },
+            {
+                  "name": "Leuchtturm Derbent",
+                  "text": "Ein historisches Navigationsbauwerk in Derbent, das das westliche Ufer des Kaspischen Meeres markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        48.295999,
+                        42.061341
+                  ]
+            },
+            {
+                  "name": "Atschigsyrt",
+                  "text": "Ein natürlicher Berggipfel bei Derbent, der einen weiten Blick auf die umliegende Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        48.249476,
+                        42.05142
+                  ]
+            },
+            {
+                  "name": "Muzei istorii mirovykh kul'tur i religii",
+                  "text": "Ein Museum in Derbent, das der Geschichte und Vielfalt der Weltkulturen und Religionen gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        48.284381,
+                        42.053639
+                  ]
+            },
+            {
+                  "name": "Dom-muzei A. Bestuzheva-Marlinskogo",
+                  "text": "Ein Gedenkmuseum in Derbent, das sich im ehemaligen Wohnhaus des im Exil lebenden Dekabristen-Schriftstellers befindet.",
+                  "category": "museum",
+                  "coords": [
+                        48.278441,
+                        42.053879
+                  ]
+            },
+            {
+                  "name": "Muzei goroda",
+                  "text": "Ein Stadtmuseum in Derbent, das die reiche historische Entwicklung dieser antiken Siedlung erforscht.",
+                  "category": "museum",
+                  "coords": [
+                        48.19623,
+                        42.115919
+                  ]
+            },
+            {
+                  "name": "Raskopki u krepostnoi steny",
+                  "text": "Eine aktive archäologische Ausgrabungsstätte in Derbent, die Strukturen in der Nähe der historischen Festungsmauern freilegt.",
+                  "category": "historical",
+                  "coords": [
+                        48.288113,
+                        42.059277
+                  ]
+            },
+            {
+                  "name": "moyka",
+                  "text": "Ein lokales Denkmal in Derbent, das als interessanter Punkt im Stadtbild hervorsticht.",
+                  "category": "historical",
+                  "coords": [
+                        48.298174,
+                        42.056904
+                  ]
+            },
+            {
+                  "name": "Podzemnaia tiur'ma",
+                  "text": "Eine archäologische Stätte in Derbent mit den Überresten eines antiken unterirdischen Gefängnisses.",
+                  "category": "historical",
+                  "coords": [
+                        48.274465,
+                        42.053856
+                  ]
+            },
+            {
+                  "name": "Fort",
+                  "text": "Eine archäologische Stätte in Derbent, die Verteidigungsüberreste aus der antiken Vergangenheit der Stadt zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        48.272222,
+                        42.050764
+                  ]
+            },
+            {
+                  "name": "Lenin-Statue",
+                  "text": "Eine Statue in Derbent zu Ehren des sowjetischen Führers, die eine Periode der Stadtgeschichte widerspiegelt.",
+                  "category": "historical",
+                  "coords": [
+                        48.288304,
+                        42.057764
+                  ]
+            },
+            {
+                  "name": "Bastion Severnoi krepostnoi steny",
+                  "text": "Ein Verteidigungsbastion als Teil der nördlichen Festungsmauer von Derbent, der antike Militärtechnik repräsentiert.",
+                  "category": "fortress",
+                  "coords": [
+                        48.304328,
+                        42.063538
+                  ]
+            },
+            {
+                  "name": "Fort Dag-Bary, Mesheburg",
+                  "text": "Ein Befestigungswerk in Derbent, das zur historischen Verteidigungslinie Dag-Bary gehört.",
+                  "category": "fortress",
+                  "coords": [
+                        48.249358,
+                        42.034981
+                  ]
+            },
+            {
+                  "name": "Derbentskii munitsipal'nyi tatskii teatr",
+                  "text": "Ein städtisches Theater in Derbent, das sich auf das kulturelle Erbe des Volkes der Tat konzentriert.",
+                  "category": "cultural",
+                  "coords": [
+                        48.292309,
+                        42.059601
+                  ]
+            },
+            {
+                  "name": "Muzykal'naia shkola No. 2",
+                  "text": "Ein lokales Kunstzentrum und eine Musikschule in Derbent, die der Gemeinschaft eine kreative Ausbildung bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        48.292829,
+                        42.056811
+                  ]
+            },
+            {
+                  "name": "Tabasaranskii dramaticheskii teatr",
+                  "text": "Ein Dramentheater in Derbent, das der Sprache und den darstellenden Künsten des Volkes der Tabasaran gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        48.295128,
+                        42.05997
+                  ]
+            },
+            {
+                  "name": "Banketnyi zal \"Ogni\"",
+                  "text": "Ein Veranstaltungsort in Derbent für gesellschaftliche Zusammenkünfte, kulturelle Veranstaltungen und Feiern.",
+                  "category": "cultural",
+                  "coords": [
+                        48.188575,
+                        42.115828
+                  ]
+            },
+            {
+                  "name": "banketnyi zal \"Elita\"",
+                  "text": "Ein Kultur- und Sozialzentrum in Derbent, in dem verschiedene Veranstaltungen und Gemeinschaftsaktivitäten stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        48.187397,
+                        42.114684
+                  ]
+            },
+            {
+                  "name": "Verkhnii bazar",
+                  "text": "Ein belebter oberer Marktplatz in Derbent, auf dem Einheimische und Besucher traditionelle Waren und Lebensmittel finden.",
+                  "category": "cultural",
+                  "coords": [
+                        48.288172,
+                        42.055803
+                  ]
+            },
+            {
+                  "name": "Gorodskoi rynok",
+                  "text": "Der zentrale Stadtmarkt in Derbent, der eine große Vielfalt an lokalen Produkten und frischen Erzeugnissen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        48.195682,
+                        42.114327
+                  ]
+            },
+            {
+                  "name": "Dubary-kapy",
+                  "text": "Eine historische Stätte in Derbent mit antiken architektonischen Elementen aus dem Befestigungssystem der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.303783,
+                        42.059884
+                  ]
+            },
+            {
+                  "name": "Orta-Kapy",
+                  "text": "Eines der historischen Tore von Derbent, das als wichtiger Punkt innerhalb der antiken Mauern dient.",
+                  "category": "landmark",
+                  "coords": [
+                        48.280689,
+                        42.054118
+                  ]
+            },
+            {
+                  "name": "Baiat-Kapy",
+                  "text": "Eines der historischen Tore des Festungskomplexes von Derbent.",
+                  "category": "landmark",
+                  "coords": [
+                        48.277411,
+                        42.053339
+                  ]
+            },
+            {
+                  "name": "Kala-kapy",
+                  "text": "Ein historisches Tor innerhalb der Festungsmauern von Derbent.",
+                  "category": "landmark",
+                  "coords": [
+                        48.275511,
+                        42.052904
+                  ]
+            },
+            {
+                  "name": "Kyrkhliar-Kapy",
+                  "text": "Eines der alten Eingangstore zur historischen Stadt Derbent.",
+                  "category": "landmark",
+                  "coords": [
+                        48.281476,
+                        42.057488
+                  ]
+            },
+            {
+                  "name": "Bulag Peinig",
+                  "text": "Ein lokales Wahrzeichen und eine Attraktion im historischen Viertel von Derbent.",
+                  "category": "landmark",
+                  "coords": [
+                        48.283037,
+                        42.055353
+                  ]
+            },
+            {
+                  "name": "Skorbiashchaia mat'",
+                  "text": "Ein bemerkenswertes Denkmal und eine Attraktion in der Stadt Derbent.",
+                  "category": "landmark",
+                  "coords": [
+                        48.289723,
+                        42.057484
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zemlianka Petra I",
+                  "text": "Történelmi helyszín Derbentben, amely megőrzi annak a háznak a maradványait, ahol Nagy Péter 1722-ben megszállt.",
+                  "category": "museum",
+                  "coords": [
+                        48.304344,
+                        42.061968
+                  ]
+            },
+            {
+                  "name": "Krepost' <<Naryn-kala>>",
+                  "text": "Ókori erőd és UNESCO Világörökség részét képező helyszín Derbentben, amely jól megőrzött védőfalairól ismert.",
+                  "category": "museum",
+                  "coords": [
+                        48.274138,
+                        42.052911
+                  ]
+            },
+            {
+                  "name": "Gosudarstvennyi lezginskii muzykal'no-dramaticheskii teatr im. S. Stal'skogo",
+                  "text": "Kulturális intézmény Derbentben, amely a lezg zene és drámai előadások bemutatására szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        48.2945,
+                        42.05408
+                  ]
+            },
+            {
+                  "name": "Dzhuma-Mechet'",
+                  "text": "Oroszország és a FÁK legrégebbi mecsetje, amely Derbent történelmi központjának szívében található.",
+                  "category": "religious",
+                  "coords": [
+                        48.27978,
+                        42.055253
+                  ]
+            },
+            {
+                  "name": "Tserkov' Sviatogo Vsespasitelia",
+                  "text": "Történelmi örmény templom Derbentben, amely egyedi építészeti stílusáról és örökségéről nevezetes.",
+                  "category": "religious",
+                  "coords": [
+                        48.287052,
+                        42.057043
+                  ]
+            },
+            {
+                  "name": "Sinagoga <<Kele-Numaz>>",
+                  "text": "Jelentős zsidó istentiszteleti hely Derbentben, amely a helyi hegyi zsidó közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        48.291204,
+                        42.057185
+                  ]
+            },
+            {
+                  "name": "Tserkov' Pokrova Presviatoi Bogoroditsy",
+                  "text": "Ortodox templom Derbentben, amely fontos spirituális központként szolgál a helyi közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        48.300148,
+                        42.058482
+                  ]
+            },
+            {
+                  "name": "Azerbaidzhanskii gosudarstvennyi dramaticheskii teatr",
+                  "text": "Állami drámai színház Derbentben, amely az azerbajdzsáni nyelvű és kulturális produkciókra összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        48.296326,
+                        42.057571
+                  ]
+            },
+            {
+                  "name": "Derbentskii maiak",
+                  "text": "Történelmi navigációs építmény Derbentben, amely a Kaszpi-tenger nyugati partját jelzi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.295999,
+                        42.061341
+                  ]
+            },
+            {
+                  "name": "Achigsyrt",
+                  "text": "Természetes hegycsúcs Derbent közelében, ahonnan festői kilátás nyílik a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        48.249476,
+                        42.05142
+                  ]
+            },
+            {
+                  "name": "Muzei istorii mirovykh kul'tur i religii",
+                  "text": "Múzeum Derbentben, amely a világkultúrák és vallások történelmének és sokszínűségének szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        48.284381,
+                        42.053639
+                  ]
+            },
+            {
+                  "name": "Dom-muzei A. Bestuzheva-Marlinskogo",
+                  "text": "Emlékmúzeum Derbentben, amely a száműzött dekabrista író egykori lakóhelyén található.",
+                  "category": "museum",
+                  "coords": [
+                        48.278441,
+                        42.053879
+                  ]
+            },
+            {
+                  "name": "Muzei goroda",
+                  "text": "Városi múzeum Derbentben, amely ennek az ősi településnek a gazdag történelmi fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        48.19623,
+                        42.115919
+                  ]
+            },
+            {
+                  "name": "Raskopki u krepostnoi steny",
+                  "text": "Aktív régészeti lelőhely Derbentben, amely a történelmi erődfalak közelében lévő építményeket tárja fel.",
+                  "category": "historical",
+                  "coords": [
+                        48.288113,
+                        42.059277
+                  ]
+            },
+            {
+                  "name": "moyka",
+                  "text": "Helyi emlékmű Derbentben, amely a városkép egyik érdekes pontjaként áll.",
+                  "category": "historical",
+                  "coords": [
+                        48.298174,
+                        42.056904
+                  ]
+            },
+            {
+                  "name": "Podzemnaia tiur'ma",
+                  "text": "Régészeti lelőhely Derbentben, amely egy ősi föld alatti börtön maradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        48.274465,
+                        42.053856
+                  ]
+            },
+            {
+                  "name": "Fort",
+                  "text": "Régészeti lelőhely Derbentben, amely a város ősi múltjából származó védelmi maradványokat mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        48.272222,
+                        42.050764
+                  ]
+            },
+            {
+                  "name": "Pamiatnik Leninu",
+                  "text": "Szovjet vezetőt ábrázoló szobor Derbentben, amely a város történelmének egy korszakát tükrözi.",
+                  "category": "historical",
+                  "coords": [
+                        48.288304,
+                        42.057764
+                  ]
+            },
+            {
+                  "name": "Bastion Severnoi krepostnoi steny",
+                  "text": "Derbent északi erődfalának védőbástyája, amely az ősi hadmérnöki munkát reprezentálja.",
+                  "category": "fortress",
+                  "coords": [
+                        48.304328,
+                        42.063538
+                  ]
+            },
+            {
+                  "name": "Fort Dag-Bary, Mesheburg",
+                  "text": "Derbenti erődítmény, amely a történelmi Dag-Bari védelmi vonalhoz tartozik.",
+                  "category": "fortress",
+                  "coords": [
+                        48.249358,
+                        42.034981
+                  ]
+            },
+            {
+                  "name": "Derbentskii munitsipal'nyi tatskii teatr",
+                  "text": "Városi színház Derbentben, amely a tat nép kulturális örökségére összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        48.292309,
+                        42.059601
+                  ]
+            },
+            {
+                  "name": "Muzykal'naia shkola No. 2",
+                  "text": "Helyi művészeti központ és zeneiskola Derbentben, amely kreatív oktatást nyújt a közösségnek.",
+                  "category": "cultural",
+                  "coords": [
+                        48.292829,
+                        42.056811
+                  ]
+            },
+            {
+                  "name": "Tabasaranskii dramaticheskii teatr",
+                  "text": "Drámai színház Derbentben, amely a tabaszaran nép nyelvének és előadóművészetének szentelt.",
+                  "category": "cultural",
+                  "coords": [
+                        48.295128,
+                        42.05997
+                  ]
+            },
+            {
+                  "name": "Banketnyi zal \"Ogni\"",
+                  "text": "Derbenti helyszín társadalmi összejövetelek, kulturális események és ünnepségek lebonyolítására.",
+                  "category": "cultural",
+                  "coords": [
+                        48.188575,
+                        42.115828
+                  ]
+            },
+            {
+                  "name": "banketnyi zal \"Elita\"",
+                  "text": "Kulturális és közösségi központ Derbentben, amely különféle eseményeknek és közösségi tevékenységeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        48.187397,
+                        42.114684
+                  ]
+            },
+            {
+                  "name": "Verkhnii bazar",
+                  "text": "Élénk felső piactér Derbentben, ahol a helyiek és a látogatók hagyományos árukat és ételeket találnak.",
+                  "category": "cultural",
+                  "coords": [
+                        48.288172,
+                        42.055803
+                  ]
+            },
+            {
+                  "name": "Gorodskoi rynok",
+                  "text": "Derbent központi városi piaca, amely a helyi termékek és friss áruk széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        48.195682,
+                        42.114327
+                  ]
+            },
+            {
+                  "name": "Dubary-kapy",
+                  "text": "Történelmi helyszín Derbentben, amely a város erődrendszerének ősi építészeti elemeit mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        48.303783,
+                        42.059884
+                  ]
+            },
+            {
+                  "name": "Orta-Kapy",
+                  "text": "Derbent egyik történelmi kapuja, amely az ősi falakon belül fontos látnivalóként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        48.280689,
+                        42.054118
+                  ]
+            },
+            {
+                  "name": "Baiat-Kapy",
+                  "text": "Derbent erődrendszerének egyik történelmi kapuja.",
+                  "category": "landmark",
+                  "coords": [
+                        48.277411,
+                        42.053339
+                  ]
+            },
+            {
+                  "name": "Kala-kapy",
+                  "text": "Történelmi kapu Derbent erődítményének falai között.",
+                  "category": "landmark",
+                  "coords": [
+                        48.275511,
+                        42.052904
+                  ]
+            },
+            {
+                  "name": "Kyrkhliar-Kapy",
+                  "text": "Derbent történelmi városának egyik ősi bejárati kapuja.",
+                  "category": "landmark",
+                  "coords": [
+                        48.281476,
+                        42.057488
+                  ]
+            },
+            {
+                  "name": "Bulag Peinig",
+                  "text": "Helyi nevezetesség és látnivaló Derbent történelmi negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.283037,
+                        42.055353
+                  ]
+            },
+            {
+                  "name": "Skorbiashchaia mat'",
+                  "text": "Figyelemre méltó emlékmű és látnivaló Derbent városában.",
+                  "category": "landmark",
+                  "coords": [
+                        48.289723,
+                        42.057484
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zemlianka Petra I",
+                  "text": "Un sit istoric din Derbent care păstrează resturile casei în care a locuit Petru cel Mare în 1722.",
+                  "category": "museum",
+                  "coords": [
+                        48.304344,
+                        42.061968
+                  ]
+            },
+            {
+                  "name": "Krepost' <<Naryn-kala>>",
+                  "text": "O fortăreață antică și sit al Patrimoniului Mondial UNESCO din Derbent, cunoscută pentru zidurile sale de apărare bine conservate.",
+                  "category": "museum",
+                  "coords": [
+                        48.274138,
+                        42.052911
+                  ]
+            },
+            {
+                  "name": "Gosudarstvennyi lezginskii muzykal'no-dramaticheskii teatr im. S. Stal'skogo",
+                  "text": "O instituție culturală din Derbent dedicată muzicii lezgine și spectacolelor dramatice.",
+                  "category": "cultural",
+                  "coords": [
+                        48.2945,
+                        42.05408
+                  ]
+            },
+            {
+                  "name": "Dzhuma-Mechet'",
+                  "text": "Cea mai veche moschee din Rusia și din CSI, situată în inima centrului istoric al orașului Derbent.",
+                  "category": "religious",
+                  "coords": [
+                        48.27978,
+                        42.055253
+                  ]
+            },
+            {
+                  "name": "Tserkov' Sviatogo Vsespasitelia",
+                  "text": "O biserică armenească istorică din Derbent, notabilă pentru stilul său arhitectural unic și moștenirea sa.",
+                  "category": "religious",
+                  "coords": [
+                        48.287052,
+                        42.057043
+                  ]
+            },
+            {
+                  "name": "Sinagoga <<Kele-Numaz>>",
+                  "text": "Un lăcaș de cult evreiesc semnificativ din Derbent, care deservește comunitatea locală a evreilor de munte.",
+                  "category": "religious",
+                  "coords": [
+                        48.291204,
+                        42.057185
+                  ]
+            },
+            {
+                  "name": "Tserkov' Pokrova Presviatoi Bogoroditsy",
+                  "text": "O biserică ortodoxă din Derbent care servește ca un important centru spiritual pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        48.300148,
+                        42.058482
+                  ]
+            },
+            {
+                  "name": "Azerbaidzhanskii gosudarstvennyi dramaticheskii teatr",
+                  "text": "Un teatru dramatic de stat din Derbent, axat pe producții culturale și în limba azeră.",
+                  "category": "cultural",
+                  "coords": [
+                        48.296326,
+                        42.057571
+                  ]
+            },
+            {
+                  "name": "Derbentskii maiak",
+                  "text": "O structură istorică de navigație din Derbent, care marchează țărmul vestic al Mării Caspice.",
+                  "category": "landmark",
+                  "coords": [
+                        48.295999,
+                        42.061341
+                  ]
+            },
+            {
+                  "name": "Achigsyrt",
+                  "text": "Un vârf de munte natural de lângă Derbent, care oferă vederi panoramice ale peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        48.249476,
+                        42.05142
+                  ]
+            },
+            {
+                  "name": "Muzei istorii mirovykh kul'tur i religii",
+                  "text": "Un muzeu din Derbent dedicat istoriei și diversității culturilor și religiilor lumii.",
+                  "category": "museum",
+                  "coords": [
+                        48.284381,
+                        42.053639
+                  ]
+            },
+            {
+                  "name": "Dom-muzei A. Bestuzheva-Marlinskogo",
+                  "text": "Un muzeu memorial din Derbent situat în fosta reședință a scriitorului decembrist exilat.",
+                  "category": "museum",
+                  "coords": [
+                        48.278441,
+                        42.053879
+                  ]
+            },
+            {
+                  "name": "Muzei goroda",
+                  "text": "Un muzeu al orașului din Derbent care explorează dezvoltarea istorică bogată a acestei așezări antice.",
+                  "category": "museum",
+                  "coords": [
+                        48.19623,
+                        42.115919
+                  ]
+            },
+            {
+                  "name": "Raskopki u krepostnoi steny",
+                  "text": "Un sit arheologic activ din Derbent care scoate la iveală structuri din apropierea zidurilor istorice ale cetății.",
+                  "category": "historical",
+                  "coords": [
+                        48.288113,
+                        42.059277
+                  ]
+            },
+            {
+                  "name": "moyka",
+                  "text": "Un monument local din Derbent care reprezintă un punct de interes în peisajul orașului.",
+                  "category": "historical",
+                  "coords": [
+                        48.298174,
+                        42.056904
+                  ]
+            },
+            {
+                  "name": "Podzemnaia tiur'ma",
+                  "text": "Un sit arheologic din Derbent care prezintă resturile unei vechi închisori subterane.",
+                  "category": "historical",
+                  "coords": [
+                        48.274465,
+                        42.053856
+                  ]
+            },
+            {
+                  "name": "Fort",
+                  "text": "Un sit arheologic din Derbent care prezintă vestigii defensive din trecutul antic al orașului.",
+                  "category": "historical",
+                  "coords": [
+                        48.272222,
+                        42.050764
+                  ]
+            },
+            {
+                  "name": "Pamiatnik Leninu",
+                  "text": "O statuie din Derbent care îl comemorează pe liderul sovietic, reflectând o perioadă din istoria orașului.",
+                  "category": "historical",
+                  "coords": [
+                        48.288304,
+                        42.057764
+                  ]
+            },
+            {
+                  "name": "Bastion Severnoi krepostnoi steny",
+                  "text": "Un bastion defensiv parte a zidului nordic al cetății din Derbent, reprezentând ingineria militară antică.",
+                  "category": "fortress",
+                  "coords": [
+                        48.304328,
+                        42.063538
+                  ]
+            },
+            {
+                  "name": "Fort Dag-Bary, Mesheburg",
+                  "text": "O structură de fortificație din Derbent care aparține liniei defensive istorice Dag-Bary.",
+                  "category": "fortress",
+                  "coords": [
+                        48.249358,
+                        42.034981
+                  ]
+            },
+            {
+                  "name": "Derbentskii munitsipal'nyi tatskii teatr",
+                  "text": "Un teatru municipal din Derbent axat pe moștenirea culturală a poporului tat.",
+                  "category": "cultural",
+                  "coords": [
+                        48.292309,
+                        42.059601
+                  ]
+            },
+            {
+                  "name": "Muzykal'naia shkola No. 2",
+                  "text": "Un centru de artă local și școală de muzică din Derbent care oferă educație creativă comunității.",
+                  "category": "cultural",
+                  "coords": [
+                        48.292829,
+                        42.056811
+                  ]
+            },
+            {
+                  "name": "Tabasaranskii dramaticheskii teatr",
+                  "text": "Un teatru dramatic din Derbent dedicat limbii și artelor spectacolului ale poporului tabasaran.",
+                  "category": "cultural",
+                  "coords": [
+                        48.295128,
+                        42.05997
+                  ]
+            },
+            {
+                  "name": "Banketnyi zal \"Ogni\"",
+                  "text": "O locație din Derbent utilizată pentru întâlniri sociale, evenimente culturale și celebrări.",
+                  "category": "cultural",
+                  "coords": [
+                        48.188575,
+                        42.115828
+                  ]
+            },
+            {
+                  "name": "banketnyi zal \"Elita\"",
+                  "text": "Un centru cultural și social din Derbent care găzduiește diverse evenimente și activități comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        48.187397,
+                        42.114684
+                  ]
+            },
+            {
+                  "name": "Verkhnii bazar",
+                  "text": "O piață superioară plină de viață din Derbent, unde localnicii și vizitatorii găsesc produse tradiționale și alimente.",
+                  "category": "cultural",
+                  "coords": [
+                        48.288172,
+                        42.055803
+                  ]
+            },
+            {
+                  "name": "Gorodskoi rynok",
+                  "text": "Piața centrală a orașului din Derbent, care oferă o mare varietate de produse locale și produse proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        48.195682,
+                        42.114327
+                  ]
+            },
+            {
+                  "name": "Dubary-kapy",
+                  "text": "Un sit istoric din Derbent care prezintă elemente arhitecturale antice din sistemul de fortificație al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        48.303783,
+                        42.059884
+                  ]
+            },
+            {
+                  "name": "Orta-Kapy",
+                  "text": "Una dintre porțile istorice ale Derbentului, servind ca un punct de interes important în interiorul zidurilor antice.",
+                  "category": "landmark",
+                  "coords": [
+                        48.280689,
+                        42.054118
+                  ]
+            },
+            {
+                  "name": "Baiat-Kapy",
+                  "text": "Una dintre porțile istorice ale complexului cetății Derbent.",
+                  "category": "landmark",
+                  "coords": [
+                        48.277411,
+                        42.053339
+                  ]
+            },
+            {
+                  "name": "Kala-kapy",
+                  "text": "O poartă istorică situată în zidurile cetății Derbent.",
+                  "category": "landmark",
+                  "coords": [
+                        48.275511,
+                        42.052904
+                  ]
+            },
+            {
+                  "name": "Kyrkhliar-Kapy",
+                  "text": "Una dintre porțile vechi de intrare în orașul istoric Derbent.",
+                  "category": "landmark",
+                  "coords": [
+                        48.281476,
+                        42.057488
+                  ]
+            },
+            {
+                  "name": "Bulag Peinig",
+                  "text": "Un punct de reper local și o atracție în cartierul istoric din Derbent.",
+                  "category": "landmark",
+                  "coords": [
+                        48.283037,
+                        42.055353
+                  ]
+            },
+            {
+                  "name": "Skorbiashchaia mat'",
+                  "text": "Un monument remarcabil și o atracție situată în orașul Derbent.",
+                  "category": "landmark",
+                  "coords": [
+                        48.289723,
+                        42.057484
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zemlianka Petra I",
+                  "text": "A historic site in Derbent preserving the remains of the house where Peter the Great stayed in 1722.",
+                  "category": "museum",
+                  "coords": [
+                        48.304344,
+                        42.061968
+                  ]
+            },
+            {
+                  "name": "Naryn-kala Fortress",
+                  "text": "An ancient fortress and UNESCO World Heritage site in Derbent, known for its well-preserved defensive walls.",
+                  "category": "museum",
+                  "coords": [
+                        48.274138,
+                        42.052911
+                  ]
+            },
+            {
+                  "name": "Gosudarstvennyi lezginskii muzykal'no-dramaticheskii teatr im. S. Stal'skogo",
+                  "text": "A cultural institution in Derbent dedicated to Lezgin music and dramatic performances.",
+                  "category": "cultural",
+                  "coords": [
+                        48.2945,
+                        42.05408
+                  ]
+            },
+            {
+                  "name": "Dzhuma Mosque",
+                  "text": "The oldest mosque in Russia and the CIS, located in the heart of the historic center of Derbent.",
+                  "category": "religious",
+                  "coords": [
+                        48.27978,
+                        42.055253
+                  ]
+            },
+            {
+                  "name": "Tserkov' Sviatogo Vsespasitelia",
+                  "text": "A historic Armenian church in Derbent, notable for its unique architectural style and heritage.",
+                  "category": "religious",
+                  "coords": [
+                        48.287052,
+                        42.057043
+                  ]
+            },
+            {
+                  "name": "Sinagoga <<Kele-Numaz>>",
+                  "text": "A significant Jewish place of worship in Derbent, serving the local Mountain Jewish community.",
+                  "category": "religious",
+                  "coords": [
+                        48.291204,
+                        42.057185
+                  ]
+            },
+            {
+                  "name": "Tserkov' Pokrova Presviatoi Bogoroditsy",
+                  "text": "An Orthodox church in Derbent that serves as an important spiritual center for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        48.300148,
+                        42.058482
+                  ]
+            },
+            {
+                  "name": "Azerbaijani Theatre Derbent",
+                  "text": "A state drama theatre in Derbent focusing on Azerbaijani language and cultural productions.",
+                  "category": "cultural",
+                  "coords": [
+                        48.296326,
+                        42.057571
+                  ]
+            },
+            {
+                  "name": "Derbent Lighthouse",
+                  "text": "A historic navigational structure in Derbent, marking the western shore of the Caspian Sea.",
+                  "category": "landmark",
+                  "coords": [
+                        48.295999,
+                        42.061341
+                  ]
+            },
+            {
+                  "name": "Achigsyrt",
+                  "text": "A natural mountain peak near Derbent offering scenic views of the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        48.249476,
+                        42.05142
+                  ]
+            },
+            {
+                  "name": "Muzei istorii mirovykh kul'tur i religii",
+                  "text": "A museum in Derbent dedicated to the history and diversity of world cultures and religions.",
+                  "category": "museum",
+                  "coords": [
+                        48.284381,
+                        42.053639
+                  ]
+            },
+            {
+                  "name": "Dom-muzei A. Bestuzheva-Marlinskogo",
+                  "text": "A memorial museum in Derbent located in the former residence of the exiled Decembrist writer.",
+                  "category": "museum",
+                  "coords": [
+                        48.278441,
+                        42.053879
+                  ]
+            },
+            {
+                  "name": "Muzei goroda",
+                  "text": "A city museum in Derbent that explores the rich historical development of this ancient settlement.",
+                  "category": "museum",
+                  "coords": [
+                        48.19623,
+                        42.115919
+                  ]
+            },
+            {
+                  "name": "Raskopki u krepostnoi steny",
+                  "text": "An active archaeological site in Derbent revealing structures near the historic fortress walls.",
+                  "category": "historical",
+                  "coords": [
+                        48.288113,
+                        42.059277
+                  ]
+            },
+            {
+                  "name": "moyka",
+                  "text": "A local monument in Derbent that stands as a point of interest within the city's landscape.",
+                  "category": "historical",
+                  "coords": [
+                        48.298174,
+                        42.056904
+                  ]
+            },
+            {
+                  "name": "Podzemnaia tiur'ma",
+                  "text": "An archaeological site in Derbent featuring the remains of an ancient underground prison.",
+                  "category": "historical",
+                  "coords": [
+                        48.274465,
+                        42.053856
+                  ]
+            },
+            {
+                  "name": "Fort",
+                  "text": "An archaeological site in Derbent showcasing defensive remains from the city's ancient past.",
+                  "category": "historical",
+                  "coords": [
+                        48.272222,
+                        42.050764
+                  ]
+            },
+            {
+                  "name": "Lenin Monument",
+                  "text": "A statue in Derbent commemorating the Soviet leader, reflecting a period of the city's history.",
+                  "category": "historical",
+                  "coords": [
+                        48.288304,
+                        42.057764
+                  ]
+            },
+            {
+                  "name": "Bastion Severnoi krepostnoi steny",
+                  "text": "A defensive bastion part of Derbent's northern fortress wall, representing ancient military engineering.",
+                  "category": "fortress",
+                  "coords": [
+                        48.304328,
+                        42.063538
+                  ]
+            },
+            {
+                  "name": "Fort Dag-Bary, Mesheburg",
+                  "text": "A fortification structure in Derbent belonging to the historic Dag-Bary defensive line.",
+                  "category": "fortress",
+                  "coords": [
+                        48.249358,
+                        42.034981
+                  ]
+            },
+            {
+                  "name": "Derbentskii munitsipal'nyi tatskii teatr",
+                  "text": "A municipal theatre in Derbent focusing on the cultural heritage of the Tat people.",
+                  "category": "cultural",
+                  "coords": [
+                        48.292309,
+                        42.059601
+                  ]
+            },
+            {
+                  "name": "Muzykal'naia shkola No. 2",
+                  "text": "A music school and arts center in Derbent providing creative education to the community.",
+                  "category": "cultural",
+                  "coords": [
+                        48.292829,
+                        42.056811
+                  ]
+            },
+            {
+                  "name": "Tabasaranskii dramaticheskii teatr",
+                  "text": "A drama theatre in Derbent dedicated to the language and performing arts of the Tabasaran people.",
+                  "category": "cultural",
+                  "coords": [
+                        48.295128,
+                        42.05997
+                  ]
+            },
+            {
+                  "name": "Banketnyi zal \"Ogni\"",
+                  "text": "A venue in Derbent used for social gatherings, cultural events, and celebrations.",
+                  "category": "cultural",
+                  "coords": [
+                        48.188575,
+                        42.115828
+                  ]
+            },
+            {
+                  "name": "banketnyi zal \"Elita\"",
+                  "text": "A cultural and social center in Derbent hosting various events and community activities.",
+                  "category": "cultural",
+                  "coords": [
+                        48.187397,
+                        42.114684
+                  ]
+            },
+            {
+                  "name": "Verkhnii bazar",
+                  "text": "A lively upper marketplace in Derbent where locals and visitors find traditional goods and food.",
+                  "category": "cultural",
+                  "coords": [
+                        48.288172,
+                        42.055803
+                  ]
+            },
+            {
+                  "name": "Gorodskoi rynok",
+                  "text": "The central city market in Derbent, offering a wide variety of local products and fresh produce.",
+                  "category": "cultural",
+                  "coords": [
+                        48.195682,
+                        42.114327
+                  ]
+            },
+            {
+                  "name": "Dubary-kapy",
+                  "text": "A historic site in Derbent featuring ancient architectural elements from the city's fortification system.",
+                  "category": "landmark",
+                  "coords": [
+                        48.303783,
+                        42.059884
+                  ]
+            },
+            {
+                  "name": "Orta-Kapy",
+                  "text": "One of the historic gates of Derbent, serving as an important point of interest within the ancient walls.",
+                  "category": "landmark",
+                  "coords": [
+                        48.280689,
+                        42.054118
+                  ]
+            },
+            {
+                  "name": "Baiat-Kapy",
+                  "text": "One of the historic gates of the Derbent fortress complex.",
+                  "category": "landmark",
+                  "coords": [
+                        48.277411,
+                        42.053339
+                  ]
+            },
+            {
+                  "name": "Kala-kapy",
+                  "text": "A historic gate located within the Derbent fortress walls.",
+                  "category": "landmark",
+                  "coords": [
+                        48.275511,
+                        42.052904
+                  ]
+            },
+            {
+                  "name": "Kyrkhliar-Kapy",
+                  "text": "One of the ancient entrance gates to the historic city of Derbent.",
+                  "category": "landmark",
+                  "coords": [
+                        48.281476,
+                        42.057488
+                  ]
+            },
+            {
+                  "name": "Bulag Peinig",
+                  "text": "A local landmark and attraction in the historic district of Derbent.",
+                  "category": "landmark",
+                  "coords": [
+                        48.283037,
+                        42.055353
+                  ]
+            },
+            {
+                  "name": "Skorbiashchaia mat'",
+                  "text": "A notable monument and attraction located in the city of Derbent.",
+                  "category": "landmark",
+                  "coords": [
+                        48.289723,
+                        42.057484
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "castle",
     name: { de: "Festung Naryn-Kala", hu: "Narün-Kala erőd", ro: "Cetatea Naryn-Kala", en: "Naryn-Kala Fortress"},
@@ -988,7 +2221,7 @@ imageHint: "Novgorod Kremlin red brick walls and towers",
             },
             {
                   "name": "Dom kino",
-                  "text": "Das Kinohaus in Susdal ist ein Museum zur Geschichte des Films.",
+                  "text": "Das Cinema house ist ein Museum in der Susdaler Kreml, das sowjetische Filme und Projektoren zeigt.",
                   "category": "museum",
                   "coords": [
                         40.449722,
@@ -997,7 +2230,7 @@ imageHint: "Novgorod Kremlin red brick walls and towers",
             },
             {
                   "name": "Gosudarstvennyi zakaznik \"Il'inskii lug\"",
-                  "text": "Das Ilinskiy meadow zakaznik ist ein Naturschutzgebiet nahe dem Susdaler Kreml.",
+                  "text": "Das Ilinskiy meadow zakaznik ist eine geschützte Auenwiese mit seltenen Pflanzenarten am Rande des Susdaler Kremls.",
                   "category": "natural",
                   "coords": [
                         40.434929,
@@ -1026,7 +2259,7 @@ imageHint: "Novgorod Kremlin red brick walls and towers",
             },
             {
                   "name": "Dom kino",
-                  "text": "A szuzdali Moziház a filmtörténetnek szentelt múzeum.",
+                  "text": "A Cinema house egy múzeum a Szuzdali Kremlben, amely szovjet filmeket és vetítőgépeket mutat be.",
                   "category": "museum",
                   "coords": [
                         40.449722,
@@ -1035,7 +2268,7 @@ imageHint: "Novgorod Kremlin red brick walls and towers",
             },
             {
                   "name": "Gosudarstvennyi zakaznik \"Il'inskii lug\"",
-                  "text": "Az Ilinszkij-rét természetvédelmi terület a szuzdali Kreml közelében.",
+                  "text": "Az Ilinskiy meadow zakaznik egy védett ártéri rét ritka növényfajokkal a Szuzdali Kreml szélén.",
                   "category": "natural",
                   "coords": [
                         40.434929,
@@ -1064,7 +2297,7 @@ imageHint: "Novgorod Kremlin red brick walls and towers",
             },
             {
                   "name": "Dom kino",
-                  "text": "Casa cinematografului din Suzdal este un muzeu dedicat istoriei filmului.",
+                  "text": "Cinema house este un muzeu în Kremlinul Suzdal, care prezintă filme sovietice și proiectoare.",
                   "category": "museum",
                   "coords": [
                         40.449722,
@@ -1073,7 +2306,7 @@ imageHint: "Novgorod Kremlin red brick walls and towers",
             },
             {
                   "name": "Gosudarstvennyi zakaznik \"Il'inskii lug\"",
-                  "text": "Rezervația naturală Lunca Ilinski se află lângă Kremlinul Suzdal.",
+                  "text": "Ilinskiy meadow zakaznik este o luncă protejată cu specii rare de plante, lângă Kremlinul Suzdal.",
                   "category": "natural",
                   "coords": [
                         40.434929,
@@ -1102,7 +2335,7 @@ imageHint: "Novgorod Kremlin red brick walls and towers",
             },
             {
                   "name": "Cinema house",
-                  "text": "Cinema house in Suzdal is a museum dedicated to the history of film.",
+                  "text": "Cinema house is a museum within the Suzdal Kremlin, showcasing Soviet films and projectors.",
                   "category": "museum",
                   "coords": [
                         40.449722,
@@ -1111,7 +2344,7 @@ imageHint: "Novgorod Kremlin red brick walls and towers",
             },
             {
                   "name": "Ilinskiy meadow zakaznik",
-                  "text": "Ilinskiy meadow zakaznik is a nature reserve near the Suzdal Kremlin.",
+                  "text": "Ilinskiy meadow zakaznik is a protected floodplain meadow with rare plant species adjacent to the Suzdal Kremlin.",
                   "category": "natural",
                   "coords": [
                         40.434929,
@@ -1306,7 +2539,7 @@ imageHint: "Ancient Bolghar ruins and the White Mosque",
             },
             {
                   "name": "Pozdnepaleoliticheskaia stoianka Kamennaia Balka1",
-                  "text": "Diese Fundstätte ist ein archäologisch bedeutsamer Ort aus der Zeit des Jungpaläolithikums.",
+                  "text": "Die spätpaläolithische Fundstätte Kamennaya Balka 1 enthält Steinwerkzeuge und Überreste aus der Altsteinzeit in der Nähe der Ruinen von Tanais.",
                   "category": "historical",
                   "coords": [
                         39.370758,
@@ -1362,7 +2595,7 @@ imageHint: "Ancient Bolghar ruins and the White Mosque",
             },
             {
                   "name": "Pozdnepaleoliticheskaia stoianka Kamennaia Balka1",
-                  "text": "Ez a lelőhely egy régészetileg jelentős terület a késő paleolitikum idejéből.",
+                  "text": "A Kamennaya Balka 1 késő paleolit lelőhely kőeszközöket és őskőkori maradványokat rejt a Tanais romjai közelében.",
                   "category": "historical",
                   "coords": [
                         39.370758,
@@ -1418,7 +2651,7 @@ imageHint: "Ancient Bolghar ruins and the White Mosque",
             },
             {
                   "name": "Pozdnepaleoliticheskaia stoianka Kamennaia Balka1",
-                  "text": "Acest sit este un loc important din punct de vedere arheologic din perioada paleoliticului târziu.",
+                  "text": "Situl paleolitic târziu Kamennaya Balka 1 conține unelte de piatră și rămășițe din epoca de piatră, lângă ruinele Tanais.",
                   "category": "historical",
                   "coords": [
                         39.370758,
@@ -1474,7 +2707,7 @@ imageHint: "Ancient Bolghar ruins and the White Mosque",
             },
             {
                   "name": "Late Paleolithic site Kamennaya Balka 1",
-                  "text": "This site is an archaeologically significant location from the Late Paleolithic period.",
+                  "text": "Kamennaya Balka 1 is a Late Paleolithic site with stone tools and remains, near the Tanais ruins.",
                   "category": "historical",
                   "coords": [
                         39.370758,
@@ -1568,7 +2801,7 @@ imageHint: "Archaeological excavations of Tanais ancient Greek city",
             },
             {
                   "name": "Gosudareva bashnia",
-                  "text": "Ein markanter Turm der historischen Festung Oreschek.",
+                  "text": "Der Government Tower ist ein Turm der Festung Schlisselburg am Ladogasee.",
                   "category": "landmark",
                   "coords": [
                         31.036317,
@@ -1615,7 +2848,7 @@ imageHint: "Archaeological excavations of Tanais ancient Greek city",
             },
             {
                   "name": "Gosudareva bashnia",
-                  "text": "Az Oreseki erőd egyik jellegzetes bástyája.",
+                  "text": "A Government Tower a Schlisselburgi erőd egyik tornya a Ladoga-tónál.",
                   "category": "landmark",
                   "coords": [
                         31.036317,
@@ -1662,7 +2895,7 @@ imageHint: "Archaeological excavations of Tanais ancient Greek city",
             },
             {
                   "name": "Gosudareva bashnia",
-                  "text": "Un turn proeminent al cetății istorice Oreșek.",
+                  "text": "Government Tower este un turn al Fortăreței Shlisselburg, pe Lacul Ladoga.",
                   "category": "landmark",
                   "coords": [
                         31.036317,
@@ -1709,7 +2942,7 @@ imageHint: "Archaeological excavations of Tanais ancient Greek city",
             },
             {
                   "name": "Government Tower",
-                  "text": "A prominent tower of the historical Oreshek Fortress.",
+                  "text": "Government Tower is a tower of the Shlisselburg Fortress on Lake Ladoga.",
                   "category": "landmark",
                   "coords": [
                         31.036317,
@@ -1839,7 +3072,7 @@ imageHint: "Oreshek Fortress on an island in Lake Ladoga",
             },
             {
                   "name": "kedr <<Lira>>",
-                  "text": "Eine Sehenswürdigkeit in der Burg Wiborg.",
+                  "text": "Die Zeder ist eine alte Zeder, die im Innenhof der Burg Wyborg wächst.",
                   "category": "landmark",
                   "coords": [
                         28.735483,
@@ -1848,7 +3081,7 @@ imageHint: "Oreshek Fortress on an island in Lake Ladoga",
             },
             {
                   "name": "Attraktsiony",
-                  "text": "Ein Vergnügungspark bei der Burg Wyborg.",
+                  "text": "Attraktsiony ist ein Freizeitbereich mit Fahrgeschäften in der Nähe der Burg Wyborg.",
                   "category": "recreational",
                   "coords": [
                         28.742364,
@@ -1922,7 +3155,7 @@ imageHint: "Oreshek Fortress on an island in Lake Ladoga",
             },
             {
                   "name": "kedr <<Lira>>",
-                  "text": "Látványosság a viborgi várban.",
+                  "text": "A Cedar egy öreg cédrusfa, amely a Viborgi vár udvarán nő.",
                   "category": "landmark",
                   "coords": [
                         28.735483,
@@ -1931,7 +3164,7 @@ imageHint: "Oreshek Fortress on an island in Lake Ladoga",
             },
             {
                   "name": "Attraktsiony",
-                  "text": "Vidámpark a viborgi várnál.",
+                  "text": "Az Attraktsiony egy szórakoztató övezet vidámparki attrakciókkal a Viborgi vár közelében.",
                   "category": "recreational",
                   "coords": [
                         28.742364,
@@ -2005,7 +3238,7 @@ imageHint: "Oreshek Fortress on an island in Lake Ladoga",
             },
             {
                   "name": "kedr <<Lira>>",
-                  "text": "O atracție situată în Castelul Vyborg.",
+                  "text": "Cedar este un cedru bătrân care crește în curtea Castelului Vyborg.",
                   "category": "landmark",
                   "coords": [
                         28.735483,
@@ -2014,7 +3247,7 @@ imageHint: "Oreshek Fortress on an island in Lake Ladoga",
             },
             {
                   "name": "Attraktsiony",
-                  "text": "Un parc de distracții lângă Castelul Vîborg.",
+                  "text": "Attraktsiony este o zonă de agrement cu atracții mecanice lângă Castelul Vyborg.",
                   "category": "recreational",
                   "coords": [
                         28.742364,
@@ -2088,7 +3321,7 @@ imageHint: "Oreshek Fortress on an island in Lake Ladoga",
             },
             {
                   "name": "Cedar",
-                  "text": "An attraction located at Vyborg Castle.",
+                  "text": "Cedar is an old cedar tree growing in the courtyard of Vyborg Castle.",
                   "category": "landmark",
                   "coords": [
                         28.735483,
@@ -2097,7 +3330,7 @@ imageHint: "Oreshek Fortress on an island in Lake Ladoga",
             },
             {
                   "name": "Attraktsiony",
-                  "text": "A theme park located by the Vyborg Castle.",
+                  "text": "Attraktsiony is a recreational area with amusement rides near Vyborg Castle.",
                   "category": "recreational",
                   "coords": [
                         28.742364,
@@ -5190,7 +6423,1312 @@ imageHint: "Pavlovsk Palace golden facade and dome",
     image: "/poi-images/russia-saratov-bridge-history-v2.webp",
   },
   {
-    id: "russia-yekaterinburg-circus-history-v2",
+    id: "russia-yekaterinburg-circus-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ekaterinburgskii muzei izobrazitel'nykh iskusstv",
+                  "text": "Das Jekaterinburger Museum der Bildenden Künste ist ein bedeutendes Kunstmuseum in Jekaterinburg, das für seine Sammlung von Kasli-Eisenguss bekannt ist.",
+                  "category": "museum",
+                  "coords": [
+                        60.596316,
+                        56.832947
+                  ]
+            },
+            {
+                  "name": "Muzei kamnia",
+                  "text": "Muzei kamnia ist ein mineralogisches Museum in Jekaterinburg mit einer umfangreichen Sammlung von Uralsteinen.",
+                  "category": "museum",
+                  "coords": [
+                        60.586349,
+                        56.836209
+                  ]
+            },
+            {
+                  "name": "Kraevedcheskii muzei",
+                  "text": "Das Museum für Geschichte und Archäologie des Urals ist ein Heimatmuseum in Jekaterinburg, das die regionale Geschichte erforscht.",
+                  "category": "museum",
+                  "coords": [
+                        60.622421,
+                        56.840853
+                  ]
+            },
+            {
+                  "name": "Muzei kukol i detskoi knigi <<Strana chudes>>",
+                  "text": "Das Museum für Puppen und Kinderbücher „Wunderland“ ist ein einzigartiges Literatur- und Kulturmuseum in Jekaterinburg.",
+                  "category": "museum",
+                  "coords": [
+                        60.606447,
+                        56.843381
+                  ]
+            },
+            {
+                  "name": "Dom-muzei D. N. Mamina-Sibiriaka",
+                  "text": "Das D. N. Mamin-Sibirjak-Gedenkhausmuseum ist ein Literaturmuseum in Jekaterinburg, das dem bekannten Ural-Schriftsteller gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        60.607212,
+                        56.841319
+                  ]
+            },
+            {
+                  "name": "Muzei istorii kamnereznogo i iuvelirnogo iskusstva",
+                  "text": "Das Museum für Steinschneide- und Juwelierkunst in Jekaterinburg zeigt die reiche Tradition des Ural-Edelsteinschneidens.",
+                  "category": "museum",
+                  "coords": [
+                        60.606948,
+                        56.839087
+                  ]
+            },
+            {
+                  "name": "Muzei istorii Ekaterinburga",
+                  "text": "Das Museum der Geschichte von Jekaterinburg dokumentiert die Stadtentwicklung und die Sozialgeschichte Jekaterinburgs.",
+                  "category": "museum",
+                  "coords": [
+                        60.611312,
+                        56.840729
+                  ]
+            },
+            {
+                  "name": "Nev'ianskaia ikona",
+                  "text": "Das Museum der Newjansker Ikonen in Jekaterinburg widmet sich der einzigartigen altgläubigen Ikonenmalerei-Schule des Urals.",
+                  "category": "museum",
+                  "coords": [
+                        60.615147,
+                        56.833564
+                  ]
+            },
+            {
+                  "name": "Muzei Vysotskogo",
+                  "text": "Das Wladimir-Wyssozki-Museum in Jekaterinburg ehrt den legendären russischen Sänger, Dichter und Schauspieler.",
+                  "category": "museum",
+                  "coords": [
+                        60.614302,
+                        56.835977
+                  ]
+            },
+            {
+                  "name": "Bashnia na Plotinke",
+                  "text": "Die Bashnia na Plotinke ist ein historischer Wasserturm in Jekaterinburg, der heute als Museumsraum dient.",
+                  "category": "museum",
+                  "coords": [
+                        60.605469,
+                        56.837892
+                  ]
+            },
+            {
+                  "name": "Muzei arkhitektury i dizaina UGAKhA",
+                  "text": "Das Museum für Architektur und Design in Jekaterinburg zeigt Ausstellungen zur Industriearchitektur des Urals und zu modernem Design.",
+                  "category": "museum",
+                  "coords": [
+                        60.605652,
+                        56.835907
+                  ]
+            },
+            {
+                  "name": "Muzei izobrazitel'nykh iskusstv",
+                  "text": "Das Jekaterinburger Museum der Bildenden Künste beherbergt eine bedeutende Sammlung russischer Gemälde und komplexer Eisenarbeiten.",
+                  "category": "museum",
+                  "coords": [
+                        60.60324,
+                        56.835181
+                  ]
+            },
+            {
+                  "name": "Sverdlovskii oblastnoi kraevedcheskii muzei",
+                  "text": "Das regionale Heimatmuseum von Swerdlowsk in Jekaterinburg enthält umfangreiche historische und naturkundliche Exponate, darunter das Schigir-Idol.",
+                  "category": "museum",
+                  "coords": [
+                        60.602915,
+                        56.834114
+                  ]
+            },
+            {
+                  "name": "Muzei istorii tramvaia i trolleibusa",
+                  "text": "Das Museum zur Geschichte der Straßenbahnen und Trolleybusse in Jekaterinburg zeigt die Entwicklung des städtischen Nahverkehrs.",
+                  "category": "museum",
+                  "coords": [
+                        60.61151,
+                        56.814596
+                  ]
+            },
+            {
+                  "name": "Ural'skii geologicheskii muzei",
+                  "text": "Das Ural-Geologiemuseum in Jekaterinburg stellt eine große Vielfalt an Mineralien und Gesteinen aus, die im Ural abgebaut werden.",
+                  "category": "museum",
+                  "coords": [
+                        60.595469,
+                        56.826492
+                  ]
+            },
+            {
+                  "name": "Muzei istorii, nauki i tekhniki Sverdlovskoi zheleznoi dorogi",
+                  "text": "Dieses Museum in Jekaterinburg befindet sich im alten Bahnhof und widmet sich der Geschichte der Swerdlowsker Eisenbahn.",
+                  "category": "museum",
+                  "coords": [
+                        60.60076,
+                        56.85876
+                  ]
+            },
+            {
+                  "name": "Dom-muzei F.M. Reshetnikova",
+                  "text": "Das F.M.-Reschetnikow-Hausmuseum ist ein Literaturmuseum in Jekaterinburg, das das Leben des russischen realistischen Schriftstellers erforscht.",
+                  "category": "museum",
+                  "coords": [
+                        60.606867,
+                        56.842442
+                  ]
+            },
+            {
+                  "name": "Dom Metenkova",
+                  "text": "Das Metenkow-Haus in Jekaterinburg ist ein Fotomuseum, das sich im ehemaligen Wohnsitz eines berühmten lokalen Fotografen befindet.",
+                  "category": "museum",
+                  "coords": [
+                        60.611025,
+                        56.841974
+                  ]
+            },
+            {
+                  "name": "Khudozhestvennyi Muzei Ernsta Neizvestnogo",
+                  "text": "Das Ernst-Neiswestny-Kunstmuseum in Jekaterinburg zeigt die Skulpturen und Kunstwerke des bekannten sowjetisch-amerikanischen Künstlers.",
+                  "category": "museum",
+                  "coords": [
+                        60.603762,
+                        56.831727
+                  ]
+            },
+            {
+                  "name": "Muzei Bazhova",
+                  "text": "Das Baschow-Gedenkhausmuseum in Jekaterinburg bewahrt das Wohnhaus von Pawel Baschow, dem Autor berühmter Ural-Märchen.",
+                  "category": "museum",
+                  "coords": [
+                        60.613449,
+                        56.818381
+                  ]
+            },
+            {
+                  "name": "Administratsiia goroda Ekaterinburga",
+                  "text": "Das Gebäude der Stadtverwaltung von Jekaterinburg ist ein markantes Rathausgebäude und ein wichtiges bürgerliches Wahrzeichen in Jekaterinburg.",
+                  "category": "historical",
+                  "coords": [
+                        60.597583,
+                        56.837199
+                  ]
+            },
+            {
+                  "name": "Ural'skii gosudarstvennyi Teatr Estrady",
+                  "text": "Das Uraler Staatliche Varieté-Theater ist eine bekannte Kultureinrichtung in Jekaterinburg.",
+                  "category": "cultural",
+                  "coords": [
+                        60.599998,
+                        56.835646
+                  ]
+            },
+            {
+                  "name": "Teatr Volkhonka",
+                  "text": "Das Theater Wolchonka bietet Aufführungen in der Stadt Jekaterinburg.",
+                  "category": "cultural",
+                  "coords": [
+                        60.591417,
+                        56.833311
+                  ]
+            },
+            {
+                  "name": "Teatr iunogo zritelia",
+                  "text": "Das Theater für junge Zuschauer in Jekaterinburg ist eine auf ein junges Publikum ausgerichtete Kultureinrichtung.",
+                  "category": "cultural",
+                  "coords": [
+                        60.610788,
+                        56.847363
+                  ]
+            },
+            {
+                  "name": "Teatr muzykal'noi komedii",
+                  "text": "Das Staatliche Akademische Theater für Musikalische Komödie Swerdlowsk bietet Aufführungen in Jekaterinburg.",
+                  "category": "cultural",
+                  "coords": [
+                        60.611746,
+                        56.839646
+                  ]
+            },
+            {
+                  "name": "Khram Sviatoi Anny",
+                  "text": "Die St.-Anna-Kirche ist ein historisches Gotteshaus in Jekaterinburg.",
+                  "category": "religious",
+                  "coords": [
+                        60.610839,
+                        56.834073
+                  ]
+            },
+            {
+                  "name": "Teatr kukol",
+                  "text": "Das Puppentheater in Jekaterinburg unterhält Familien und Kinder mit seinen Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        60.618767,
+                        56.838172
+                  ]
+            },
+            {
+                  "name": "Teatr baleta <<Shchelkunchik>>",
+                  "text": "Das Ballett-Theater Nussknacker ist eine Tanz- und Aufführungsstätte in Jekaterinburg.",
+                  "category": "cultural",
+                  "coords": [
+                        60.60723,
+                        56.814432
+                  ]
+            },
+            {
+                  "name": "Koliada teatr",
+                  "text": "Das Kolyada-Theater ist eine weithin bekannte, unabhängige Bühne in Jekaterinburg.",
+                  "category": "cultural",
+                  "coords": [
+                        60.640927,
+                        56.842908
+                  ]
+            },
+            {
+                  "name": "Khram v chest' Sviatoi Zhivonachal'noi Troitsy na Shartashe",
+                  "text": "Die Dreifaltigkeitskirche am Schartasch-See dient als Gotteshaus für die Gläubigen in Jekaterinburg.",
+                  "category": "religious",
+                  "coords": [
+                        60.691859,
+                        56.87608
+                  ]
+            },
+            {
+                  "name": "Uspenskii sobor na VIZe",
+                  "text": "Die Mariä-Entschlafens-Kathedrale in VIZ ist eine markante Kirche in Jekaterinburg.",
+                  "category": "religious",
+                  "coords": [
+                        60.556286,
+                        56.839154
+                  ]
+            },
+            {
+                  "name": "Bol'shoi Zlatoust",
+                  "text": "Die Große Slatoust-Kirche ist ein wiederaufgebauter Glockenturm-Tempel im Zentrum von Jekaterinburg.",
+                  "category": "religious",
+                  "coords": [
+                        60.600545,
+                        56.83467
+                  ]
+            },
+            {
+                  "name": "Akademicheskii teatr dramy",
+                  "text": "Das Akademische Schauspielhaus ist eine bedeutende Theaterbühne in Jekaterinburg.",
+                  "category": "cultural",
+                  "coords": [
+                        60.593197,
+                        56.843723
+                  ]
+            },
+            {
+                  "name": "Khram vo imia Vsekh Sviatykh",
+                  "text": "Die Allerheiligenkirche ist eine religiöse Einrichtung für die örtliche Gemeinde in Jekaterinburg.",
+                  "category": "religious",
+                  "coords": [
+                        60.637507,
+                        56.847963
+                  ]
+            },
+            {
+                  "name": "Khram v chest' Vozneseniia Gospodnia",
+                  "text": "Die Christi-Himmelfahrts-Kirche ist ein traditioneller Andachtsort in Jekaterinburg.",
+                  "category": "religious",
+                  "coords": [
+                        60.612766,
+                        56.844767
+                  ]
+            },
+            {
+                  "name": "Kathedrale auf dem Blut",
+                  "text": "Die Kathedrale auf dem Blut in Jekaterinburg wurde an der Stelle errichtet, an der die Zarenfamilie Romanow ermordet wurde.",
+                  "category": "religious",
+                  "coords": [
+                        60.608972,
+                        56.844389
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ekaterinburgskii muzei izobrazitel'nykh iskusstv",
+                  "text": "A Jekaterinburgi Szépművészeti Múzeum egy jelentős művészeti múzeum Jekaterinburgban, amely a kaszli vasöntvény gyűjteményéről ismert.",
+                  "category": "museum",
+                  "coords": [
+                        60.596316,
+                        56.832947
+                  ]
+            },
+            {
+                  "name": "Muzei kamnia",
+                  "text": "A Muzei kamnia egy ásványtani múzeum Jekaterinburgban, amely az uráli kövek kiterjedt gyűjteményével rendelkezik.",
+                  "category": "museum",
+                  "coords": [
+                        60.586349,
+                        56.836209
+                  ]
+            },
+            {
+                  "name": "Kraevedcheskii muzei",
+                  "text": "Az Urál Történeti és Régészeti Múzeuma egy helytörténeti múzeum Jekaterinburgban, amely a régió történetét tárja fel.",
+                  "category": "museum",
+                  "coords": [
+                        60.622421,
+                        56.840853
+                  ]
+            },
+            {
+                  "name": "Muzei kukol i detskoi knigi <<Strana chudes>>",
+                  "text": "A „Csodaország” Babák és Gyermekkönyvek Múzeuma egy egyedülálló irodalmi és kulturális múzeum Jekaterinburgban.",
+                  "category": "museum",
+                  "coords": [
+                        60.606447,
+                        56.843381
+                  ]
+            },
+            {
+                  "name": "Dom-muzei D. N. Mamina-Sibiriaka",
+                  "text": "A D. N. Mamin-Szibirjak Emlékház-Múzeum egy jekaterinburgi irodalmi múzeum, amelyet a neves uráli írónak szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        60.607212,
+                        56.841319
+                  ]
+            },
+            {
+                  "name": "Muzei istorii kamnereznogo i iuvelirnogo iskusstva",
+                  "text": "A jekaterinburgi Kőfaragó és Ékszerészeti Múzeum az uráli drágakőcsiszolás gazdag hagyományát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        60.606948,
+                        56.839087
+                  ]
+            },
+            {
+                  "name": "Muzei istorii Ekaterinburga",
+                  "text": "A Jekaterinburg Történeti Múzeum Jekaterinburg városfejlődését és társadalomtörténetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        60.611312,
+                        56.840729
+                  ]
+            },
+            {
+                  "name": "Nev'ianskaia ikona",
+                  "text": "A jekaterinburgi Nyevjanszki Ikon Múzeumot az Urál egyedülálló óhitű ikonfestő iskolájának szentelték.",
+                  "category": "museum",
+                  "coords": [
+                        60.615147,
+                        56.833564
+                  ]
+            },
+            {
+                  "name": "Muzei Vysotskogo",
+                  "text": "A jekaterinburgi Vlagyimir Viszockij Múzeum a legendás orosz énekesnek, költőnek és színésznek állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        60.614302,
+                        56.835977
+                  ]
+            },
+            {
+                  "name": "Bashnia na Plotinke",
+                  "text": "A Bashnia na Plotinke egy történelmi víztorony Jekaterinburgban, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        60.605469,
+                        56.837892
+                  ]
+            },
+            {
+                  "name": "Muzei arkhitektury i dizaina UGAKhA",
+                  "text": "A jekaterinburgi Építészeti és Dizájn Múzeum az uráli ipari építészetet és a modern dizájnt bemutató kiállításokkal rendelkezik.",
+                  "category": "museum",
+                  "coords": [
+                        60.605652,
+                        56.835907
+                  ]
+            },
+            {
+                  "name": "Muzei izobrazitel'nykh iskusstv",
+                  "text": "A Jekaterinburgi Szépművészeti Múzeum jelentős orosz festmény- és bonyolult vasmunkagyűjteménynek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        60.60324,
+                        56.835181
+                  ]
+            },
+            {
+                  "name": "Sverdlovskii oblastnoi kraevedcheskii muzei",
+                  "text": "A jekaterinburgi Szverdlovszki Regionális Helytörténeti Múzeum kiterjedt történelmi és természeti kiállításokat, köztük a Sigir-bálványt tartalmazza.",
+                  "category": "museum",
+                  "coords": [
+                        60.602915,
+                        56.834114
+                  ]
+            },
+            {
+                  "name": "Muzei istorii tramvaia i trolleibusa",
+                  "text": "A villamosok és trolibuszok történetének múzeuma Jekaterinburgban a városi tömegközlekedés fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        60.61151,
+                        56.814596
+                  ]
+            },
+            {
+                  "name": "Ural'skii geologicheskii muzei",
+                  "text": "A jekaterinburgi Uráli Geológiai Múzeum az Urál-hegységből bányászott ásványok és kőzetek széles skáláját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        60.595469,
+                        56.826492
+                  ]
+            },
+            {
+                  "name": "Muzei istorii, nauki i tekhniki Sverdlovskoi zheleznoi dorogi",
+                  "text": "A régi vasútállomáson található jekaterinburgi múzeum a Szverdlovszki Vasút történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        60.60076,
+                        56.85876
+                  ]
+            },
+            {
+                  "name": "Dom-muzei F.M. Reshetnikova",
+                  "text": "Az F. M. Resetnyikov Házmúzeum egy jekaterinburgi irodalmi múzeum, amely az orosz realista író életét tárja fel.",
+                  "category": "museum",
+                  "coords": [
+                        60.606867,
+                        56.842442
+                  ]
+            },
+            {
+                  "name": "Dom Metenkova",
+                  "text": "A jekaterinburgi Metenkov-ház egy fotográfiai múzeum, amely egy híres helyi fotós egykori rezidenciáján található.",
+                  "category": "museum",
+                  "coords": [
+                        60.611025,
+                        56.841974
+                  ]
+            },
+            {
+                  "name": "Khudozhestvennyi Muzei Ernsta Neizvestnogo",
+                  "text": "A jekaterinburgi Ernst Neizvestnij Művészeti Múzeum a neves szovjet-amerikai művész szobrait és műalkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        60.603762,
+                        56.831727
+                  ]
+            },
+            {
+                  "name": "Muzei Bazhova",
+                  "text": "A jekaterinburgi Bazsov Emlékház-Múzeum Pavel Bazsovnok, a híres uráli népmesék szerzőjének egykori otthonát őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        60.613449,
+                        56.818381
+                  ]
+            },
+            {
+                  "name": "Administratsiia goroda Ekaterinburga",
+                  "text": "Jekaterinburg Városházájának épülete egy kiemelkedő városháza és Jekaterinburg egyik legfontosabb polgári nevezetessége.",
+                  "category": "historical",
+                  "coords": [
+                        60.597583,
+                        56.837199
+                  ]
+            },
+            {
+                  "name": "Ural'skii gosudarstvennyi Teatr Estrady",
+                  "text": "Az Uráli Állami Varietészínház egy ismert kulturális intézmény Jekatyerinburgban.",
+                  "category": "cultural",
+                  "coords": [
+                        60.599998,
+                        56.835646
+                  ]
+            },
+            {
+                  "name": "Teatr Volkhonka",
+                  "text": "A Volhonka Színház előadásoknak ad otthont Jekatyerinburg városában.",
+                  "category": "cultural",
+                  "coords": [
+                        60.591417,
+                        56.833311
+                  ]
+            },
+            {
+                  "name": "Teatr iunogo zritelia",
+                  "text": "A jekatyerinburgi Fiatal Nézők Színháza egy fiatal közönséget megcélzó kulturális intézmény.",
+                  "category": "cultural",
+                  "coords": [
+                        60.610788,
+                        56.847363
+                  ]
+            },
+            {
+                  "name": "Teatr muzykal'noi komedii",
+                  "text": "A Szverdlovszki Állami Akadémiai Zenés Vígjátékszínház előadásokat kínál Jekatyerinburgban.",
+                  "category": "cultural",
+                  "coords": [
+                        60.611746,
+                        56.839646
+                  ]
+            },
+            {
+                  "name": "Khram Sviatoi Anny",
+                  "text": "A Szent Anna-templom egy történelmi istentiszteleti hely Jekatyerinburgban.",
+                  "category": "religious",
+                  "coords": [
+                        60.610839,
+                        56.834073
+                  ]
+            },
+            {
+                  "name": "Teatr kukol",
+                  "text": "A jekatyerinburgi Bábszínház előadásaival szórakoztatja a családokat és a gyermekeket.",
+                  "category": "cultural",
+                  "coords": [
+                        60.618767,
+                        56.838172
+                  ]
+            },
+            {
+                  "name": "Teatr baleta <<Shchelkunchik>>",
+                  "text": "A Diótörő Balettszínház egy tánc- és előadóművészeti helyszín Jekatyerinburgban.",
+                  "category": "cultural",
+                  "coords": [
+                        60.60723,
+                        56.814432
+                  ]
+            },
+            {
+                  "name": "Koliada teatr",
+                  "text": "A Koljada Színház egy széles körben ismert független színház Jekatyerinburgban.",
+                  "category": "cultural",
+                  "coords": [
+                        60.640927,
+                        56.842908
+                  ]
+            },
+            {
+                  "name": "Khram v chest' Sviatoi Zhivonachal'noi Troitsy na Shartashe",
+                  "text": "A Sartas-tavi Szentháromság-templom a hívők istentiszteleti helyeként szolgál Jekatyerinburgban.",
+                  "category": "religious",
+                  "coords": [
+                        60.691859,
+                        56.87608
+                  ]
+            },
+            {
+                  "name": "Uspenskii sobor na VIZe",
+                  "text": "A VIZ-ben található Nagyboldogasszony-székesegyház egy feltűnő templom Jekatyerinburgban.",
+                  "category": "religious",
+                  "coords": [
+                        60.556286,
+                        56.839154
+                  ]
+            },
+            {
+                  "name": "Bol'shoi Zlatoust",
+                  "text": "A Nagy Zlatouszt-templom egy újjáépített harangtornyos templom Jekatyerinburg központjában.",
+                  "category": "religious",
+                  "coords": [
+                        60.600545,
+                        56.83467
+                  ]
+            },
+            {
+                  "name": "Akademicheskii teatr dramy",
+                  "text": "Az Akadémiai Drámaszínház egy jelentős színházi helyszín Jekatyerinburgban.",
+                  "category": "cultural",
+                  "coords": [
+                        60.593197,
+                        56.843723
+                  ]
+            },
+            {
+                  "name": "Khram vo imia Vsekh Sviatykh",
+                  "text": "A Mindenszentek-templom egy vallási intézmény a helyi közösség számára Jekatyerinburgban.",
+                  "category": "religious",
+                  "coords": [
+                        60.637507,
+                        56.847963
+                  ]
+            },
+            {
+                  "name": "Khram v chest' Vozneseniia Gospodnia",
+                  "text": "A Mennybemenetel-templom egy hagyományos istentiszteleti hely Jekatyerinburgban.",
+                  "category": "religious",
+                  "coords": [
+                        60.612766,
+                        56.844767
+                  ]
+            },
+            {
+                  "name": "Khram na Krovi",
+                  "text": "A jekatyerinburgi Véreken Épült Templomot azon a helyen emelték, ahol a Romanov cári családot meggyilkolták.",
+                  "category": "religious",
+                  "coords": [
+                        60.608972,
+                        56.844389
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ekaterinburgskii muzei izobrazitel'nykh iskusstv",
+                  "text": "Muzeul de Arte Frumoase din Ekaterinburg este un muzeu important de artă din Ekaterinburg, cunoscut pentru colecția sa de piese de fontă de la Kasli.",
+                  "category": "museum",
+                  "coords": [
+                        60.596316,
+                        56.832947
+                  ]
+            },
+            {
+                  "name": "Muzei kamnia",
+                  "text": "Muzei kamnia este un muzeu mineralogic din Ekaterinburg care prezintă o colecție vastă de pietre din Munții Urali.",
+                  "category": "museum",
+                  "coords": [
+                        60.586349,
+                        56.836209
+                  ]
+            },
+            {
+                  "name": "Kraevedcheskii muzei",
+                  "text": "Muzeul de Istorie și Arheologie a Uralului este un muzeu de istorie locală din Ekaterinburg, care explorează istoria regională.",
+                  "category": "museum",
+                  "coords": [
+                        60.622421,
+                        56.840853
+                  ]
+            },
+            {
+                  "name": "Muzei kukol i detskoi knigi <<Strana chudes>>",
+                  "text": "Muzeul de Păpuși și Cărți pentru Copii „Țara Minunilor” este un muzeu literar și cultural unic din Ekaterinburg.",
+                  "category": "museum",
+                  "coords": [
+                        60.606447,
+                        56.843381
+                  ]
+            },
+            {
+                  "name": "Dom-muzei D. N. Mamina-Sibiriaka",
+                  "text": "Casa memorială-muzeu D. N. Mamin-Sibiryak este un muzeu literar din Ekaterinburg dedicat renumitului scriitor uralic.",
+                  "category": "museum",
+                  "coords": [
+                        60.607212,
+                        56.841319
+                  ]
+            },
+            {
+                  "name": "Muzei istorii kamnereznogo i iuvelirnogo iskusstva",
+                  "text": "Muzeul de Istorie a Sculpturii în Piatră și a Bijuteriilor din Ekaterinburg prezintă bogata tradiție a prelucrării pietrelor prețioase din Urali.",
+                  "category": "museum",
+                  "coords": [
+                        60.606948,
+                        56.839087
+                  ]
+            },
+            {
+                  "name": "Muzei istorii Ekaterinburga",
+                  "text": "Muzeul de Istorie a Ekaterinburgului documentează dezvoltarea urbană și istoria socială a orașului Ekaterinburg.",
+                  "category": "museum",
+                  "coords": [
+                        60.611312,
+                        56.840729
+                  ]
+            },
+            {
+                  "name": "Nev'ianskaia ikona",
+                  "text": "Muzeul Icoanelor Nevyansk din Ekaterinburg este dedicat școlii unice de pictură a icoanelor a Vechilor Credincioși din Urali.",
+                  "category": "museum",
+                  "coords": [
+                        60.615147,
+                        56.833564
+                  ]
+            },
+            {
+                  "name": "Muzei Vysotskogo",
+                  "text": "Muzeul Vladimir Vîsoțki din Ekaterinburg aduce un omagiu legendarului cântăreț, poet și actor rus.",
+                  "category": "museum",
+                  "coords": [
+                        60.614302,
+                        56.835977
+                  ]
+            },
+            {
+                  "name": "Bashnia na Plotinke",
+                  "text": "Bashnia na Plotinke este un turn de apă istoric din Ekaterinburg, care servește acum ca spațiu muzeal.",
+                  "category": "museum",
+                  "coords": [
+                        60.605469,
+                        56.837892
+                  ]
+            },
+            {
+                  "name": "Muzei arkhitektury i dizaina UGAKhA",
+                  "text": "Muzeul de Arhitectură și Design din Ekaterinburg prezintă expoziții despre arhitectura industrială din Urali și designul modern.",
+                  "category": "museum",
+                  "coords": [
+                        60.605652,
+                        56.835907
+                  ]
+            },
+            {
+                  "name": "Muzei izobrazitel'nykh iskusstv",
+                  "text": "Muzeul de Arte Frumoase din Ekaterinburg găzduiește o colecție semnificativă de picturi rusești și feronerie complexă.",
+                  "category": "museum",
+                  "coords": [
+                        60.60324,
+                        56.835181
+                  ]
+            },
+            {
+                  "name": "Sverdlovskii oblastnoi kraevedcheskii muzei",
+                  "text": "Muzeul Regional de Tradiții Locale Sverdlovsk din Ekaterinburg conține ample exponate istorice și naturale, inclusiv Idolul Șigir.",
+                  "category": "museum",
+                  "coords": [
+                        60.602915,
+                        56.834114
+                  ]
+            },
+            {
+                  "name": "Muzei istorii tramvaia i trolleibusa",
+                  "text": "Muzeul Istoriei Tramvaielor și Troleibuzelor din Ekaterinburg prezintă evoluția transportului public urban.",
+                  "category": "museum",
+                  "coords": [
+                        60.61151,
+                        56.814596
+                  ]
+            },
+            {
+                  "name": "Ural'skii geologicheskii muzei",
+                  "text": "Muzeul Geologic din Urali din Ekaterinburg expune o gamă vastă de minerale și roci extrase din Munții Urali.",
+                  "category": "museum",
+                  "coords": [
+                        60.595469,
+                        56.826492
+                  ]
+            },
+            {
+                  "name": "Muzei istorii, nauki i tekhniki Sverdlovskoi zheleznoi dorogi",
+                  "text": "Situat în vechea gară, acest muzeu din Ekaterinburg este dedicat istoriei Căilor Ferate Sverdlovsk.",
+                  "category": "museum",
+                  "coords": [
+                        60.60076,
+                        56.85876
+                  ]
+            },
+            {
+                  "name": "Dom-muzei F.M. Reshetnikova",
+                  "text": "Casa-muzeu F.M. Reșetnikov este un muzeu literar din Ekaterinburg ce explorează viața scriitorului realist rus.",
+                  "category": "museum",
+                  "coords": [
+                        60.606867,
+                        56.842442
+                  ]
+            },
+            {
+                  "name": "Dom Metenkova",
+                  "text": "Casa Metenkov din Ekaterinburg este un muzeu de fotografie situat în fosta reședință a unui celebru fotograf local.",
+                  "category": "museum",
+                  "coords": [
+                        60.611025,
+                        56.841974
+                  ]
+            },
+            {
+                  "name": "Khudozhestvennyi Muzei Ernsta Neizvestnogo",
+                  "text": "Muzeul de Artă Ernst Neizvestny din Ekaterinburg prezintă sculpturile și operele de artă ale renumitului artist sovieto-american.",
+                  "category": "museum",
+                  "coords": [
+                        60.603762,
+                        56.831727
+                  ]
+            },
+            {
+                  "name": "Muzei Bazhova",
+                  "text": "Casa memorială-muzeu Bazhov din Ekaterinburg păstrează locuința lui Pavel Bazhov, autorul celebrelor povești populare uralice.",
+                  "category": "museum",
+                  "coords": [
+                        60.613449,
+                        56.818381
+                  ]
+            },
+            {
+                  "name": "Administratsiia goroda Ekaterinburga",
+                  "text": "Clădirea Administrației Orașului Ekaterinburg este o primărie proeminentă și un punct de reper civic cheie în Ekaterinburg.",
+                  "category": "historical",
+                  "coords": [
+                        60.597583,
+                        56.837199
+                  ]
+            },
+            {
+                  "name": "Ural'skii gosudarstvennyi Teatr Estrady",
+                  "text": "Teatrul de Stat de Estradă Ural este o instituție culturală cunoscută în Ekaterinburg.",
+                  "category": "cultural",
+                  "coords": [
+                        60.599998,
+                        56.835646
+                  ]
+            },
+            {
+                  "name": "Teatr Volkhonka",
+                  "text": "Teatrul Volhonka găzduiește spectacole în orașul Ekaterinburg.",
+                  "category": "cultural",
+                  "coords": [
+                        60.591417,
+                        56.833311
+                  ]
+            },
+            {
+                  "name": "Teatr iunogo zritelia",
+                  "text": "Teatrul pentru Tineri Spectatori din Ekaterinburg este o instituție culturală dedicată publicului tânăr.",
+                  "category": "cultural",
+                  "coords": [
+                        60.610788,
+                        56.847363
+                  ]
+            },
+            {
+                  "name": "Teatr muzykal'noi komedii",
+                  "text": "Teatrul Academic de Stat de Comedie Muzicală Sverdlovsk oferă spectacole în Ekaterinburg.",
+                  "category": "cultural",
+                  "coords": [
+                        60.611746,
+                        56.839646
+                  ]
+            },
+            {
+                  "name": "Khram Sviatoi Anny",
+                  "text": "Biserica Sfânta Ana este un lăcaș de cult istoric din Ekaterinburg.",
+                  "category": "religious",
+                  "coords": [
+                        60.610839,
+                        56.834073
+                  ]
+            },
+            {
+                  "name": "Teatr kukol",
+                  "text": "Teatrul de Păpuși din Ekaterinburg distrează familiile și copiii cu spectacolele sale.",
+                  "category": "cultural",
+                  "coords": [
+                        60.618767,
+                        56.838172
+                  ]
+            },
+            {
+                  "name": "Teatr baleta <<Shchelkunchik>>",
+                  "text": "Teatrul de Balet Spărgătorul de Nuci este un loc de dans și spectacol în Ekaterinburg.",
+                  "category": "cultural",
+                  "coords": [
+                        60.60723,
+                        56.814432
+                  ]
+            },
+            {
+                  "name": "Koliada teatr",
+                  "text": "Teatrul Kolyada este un teatru independent bine-cunoscut din Ekaterinburg.",
+                  "category": "cultural",
+                  "coords": [
+                        60.640927,
+                        56.842908
+                  ]
+            },
+            {
+                  "name": "Khram v chest' Sviatoi Zhivonachal'noi Troitsy na Shartashe",
+                  "text": "Biserica Sfânta Treime de pe Lacul Shartash servește drept lăcaș de cult pentru credincioșii din Ekaterinburg.",
+                  "category": "religious",
+                  "coords": [
+                        60.691859,
+                        56.87608
+                  ]
+            },
+            {
+                  "name": "Uspenskii sobor na VIZe",
+                  "text": "Catedrala Adormirea Maicii Domnului din VIZ este o biserică proeminentă din Ekaterinburg.",
+                  "category": "religious",
+                  "coords": [
+                        60.556286,
+                        56.839154
+                  ]
+            },
+            {
+                  "name": "Bol'shoi Zlatoust",
+                  "text": "Biserica Marele Zlatoust este un templu-clopotniță reconstruit în centrul orașului Ekaterinburg.",
+                  "category": "religious",
+                  "coords": [
+                        60.600545,
+                        56.83467
+                  ]
+            },
+            {
+                  "name": "Akademicheskii teatr dramy",
+                  "text": "Teatrul Academic de Dramă este o scenă de teatru semnificativă în Ekaterinburg.",
+                  "category": "cultural",
+                  "coords": [
+                        60.593197,
+                        56.843723
+                  ]
+            },
+            {
+                  "name": "Khram vo imia Vsekh Sviatykh",
+                  "text": "Biserica Tuturor Sfinților este o instituție religioasă pentru comunitatea locală din Ekaterinburg.",
+                  "category": "religious",
+                  "coords": [
+                        60.637507,
+                        56.847963
+                  ]
+            },
+            {
+                  "name": "Khram v chest' Vozneseniia Gospodnia",
+                  "text": "Biserica Înălțării Domnului este un loc tradițional de cult în Ekaterinburg.",
+                  "category": "religious",
+                  "coords": [
+                        60.612766,
+                        56.844767
+                  ]
+            },
+            {
+                  "name": "Khram na Krovi",
+                  "text": "Biserica pe Sânge din Ekaterinburg a fost construită pe locul unde a fost asasinată familia imperială Romanov.",
+                  "category": "religious",
+                  "coords": [
+                        60.608972,
+                        56.844389
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ekaterinburgskii muzei izobrazitel'nykh iskusstv",
+                  "text": "The Yekaterinburg Museum of Fine Arts is a major art museum in Yekaterinburg known for its Kasli iron casting collection.",
+                  "category": "museum",
+                  "coords": [
+                        60.596316,
+                        56.832947
+                  ]
+            },
+            {
+                  "name": "Muzei kamnia",
+                  "text": "Muzei kamnia is a mineralogical museum in Yekaterinburg featuring an extensive collection of Ural stones.",
+                  "category": "museum",
+                  "coords": [
+                        60.586349,
+                        56.836209
+                  ]
+            },
+            {
+                  "name": "Kraevedcheskii muzei",
+                  "text": "The Museum of History and Archaeology of the Urals is a local lore museum in Yekaterinburg exploring regional history.",
+                  "category": "museum",
+                  "coords": [
+                        60.622421,
+                        56.840853
+                  ]
+            },
+            {
+                  "name": "Muzei kukol i detskoi knigi <<Strana chudes>>",
+                  "text": "The \"Wonderland\" Museum of Dolls and Children's Books is a unique literary and cultural museum in Yekaterinburg.",
+                  "category": "museum",
+                  "coords": [
+                        60.606447,
+                        56.843381
+                  ]
+            },
+            {
+                  "name": "Dom-muzei D. N. Mamina-Sibiriaka",
+                  "text": "The D. N. Mamin-Sibiryak Memorial House Museum is a literary museum in Yekaterinburg dedicated to the renowned Ural writer.",
+                  "category": "museum",
+                  "coords": [
+                        60.607212,
+                        56.841319
+                  ]
+            },
+            {
+                  "name": "Museum of Stone-Rain and Jewelry Art",
+                  "text": "The Museum of Stone-Carving and Jewelry Art in Yekaterinburg showcases the rich tradition of Ural gem cutting.",
+                  "category": "museum",
+                  "coords": [
+                        60.606948,
+                        56.839087
+                  ]
+            },
+            {
+                  "name": "Ekaterinburg History Museum",
+                  "text": "The Ekaterinburg History Museum chronicles the urban development and social history of Yekaterinburg.",
+                  "category": "museum",
+                  "coords": [
+                        60.611312,
+                        56.840729
+                  ]
+            },
+            {
+                  "name": "Nev'ianskaia ikona",
+                  "text": "The Nevyansk Icon Museum in Yekaterinburg is dedicated to the unique Old Believer icon-painting school of the Urals.",
+                  "category": "museum",
+                  "coords": [
+                        60.615147,
+                        56.833564
+                  ]
+            },
+            {
+                  "name": "Muzei Vysotskogo",
+                  "text": "The Vladimir Vysotsky Museum in Yekaterinburg pays tribute to the legendary Russian singer, poet, and actor.",
+                  "category": "museum",
+                  "coords": [
+                        60.614302,
+                        56.835977
+                  ]
+            },
+            {
+                  "name": "Bashnia na Plotinke",
+                  "text": "Bashnia na Plotinke is a historic water tower in Yekaterinburg that now serves as a museum space.",
+                  "category": "museum",
+                  "coords": [
+                        60.605469,
+                        56.837892
+                  ]
+            },
+            {
+                  "name": "Museum of architecture & design",
+                  "text": "The Museum of Architecture and Design in Yekaterinburg features exhibits on Ural industrial architecture and modern design.",
+                  "category": "museum",
+                  "coords": [
+                        60.605652,
+                        56.835907
+                  ]
+            },
+            {
+                  "name": "Ekaterinburg Museum of Fine Arts",
+                  "text": "The Ekaterinburg Museum of Fine Arts houses a significant collection of Russian paintings and intricate ironworks.",
+                  "category": "museum",
+                  "coords": [
+                        60.60324,
+                        56.835181
+                  ]
+            },
+            {
+                  "name": "Sverdlovskii oblastnoi kraevedcheskii muzei",
+                  "text": "The Sverdlovsk Regional Museum of Local Lore in Yekaterinburg contains extensive historical and natural exhibits, including the Shigir Idol.",
+                  "category": "museum",
+                  "coords": [
+                        60.602915,
+                        56.834114
+                  ]
+            },
+            {
+                  "name": "Muzei istorii tramvaia i trolleibusa",
+                  "text": "The Museum of the History of Trams and Trolleybuses in Yekaterinburg displays the evolution of urban public transport.",
+                  "category": "museum",
+                  "coords": [
+                        60.61151,
+                        56.814596
+                  ]
+            },
+            {
+                  "name": "Ural'skii geologicheskii muzei",
+                  "text": "The Ural Geological Museum in Yekaterinburg exhibits a vast array of minerals and rocks mined from the Ural Mountains.",
+                  "category": "museum",
+                  "coords": [
+                        60.595469,
+                        56.826492
+                  ]
+            },
+            {
+                  "name": "The Museum of History, Science and Technology Sverdlovsk Railway",
+                  "text": "Located in the old railway station, this Yekaterinburg museum is dedicated to the history of the Sverdlovsk Railway.",
+                  "category": "museum",
+                  "coords": [
+                        60.60076,
+                        56.85876
+                  ]
+            },
+            {
+                  "name": "Dom-muzei F.M. Reshetnikova",
+                  "text": "The F.M. Reshetnikov House-Museum is a literary museum in Yekaterinburg exploring the life of the Russian realist writer.",
+                  "category": "museum",
+                  "coords": [
+                        60.606867,
+                        56.842442
+                  ]
+            },
+            {
+                  "name": "Dom Metenkova",
+                  "text": "Metenkov House in Yekaterinburg is a museum of photography located in the former residence of a famous local photographer.",
+                  "category": "museum",
+                  "coords": [
+                        60.611025,
+                        56.841974
+                  ]
+            },
+            {
+                  "name": "Khudozhestvennyi Muzei Ernsta Neizvestnogo",
+                  "text": "The Ernst Neizvestny Art Museum in Yekaterinburg showcases the sculptures and artworks of the renowned Soviet-American artist.",
+                  "category": "museum",
+                  "coords": [
+                        60.603762,
+                        56.831727
+                  ]
+            },
+            {
+                  "name": "Muzei Bazhova",
+                  "text": "The Bazhov Memorial House-Museum in Yekaterinburg preserves the home of Pavel Bazhov, author of famous Ural folktales.",
+                  "category": "museum",
+                  "coords": [
+                        60.613449,
+                        56.818381
+                  ]
+            },
+            {
+                  "name": "Administratsiia goroda Ekaterinburga",
+                  "text": "The Yekaterinburg City Administration building is a prominent town hall structure and a key civic landmark in Yekaterinburg.",
+                  "category": "historical",
+                  "coords": [
+                        60.597583,
+                        56.837199
+                  ]
+            },
+            {
+                  "name": "Ural'skii gosudarstvennyi Teatr Estrady",
+                  "text": "The Ural State Variety Theater is a well-known cultural institution in Yekaterinburg.",
+                  "category": "cultural",
+                  "coords": [
+                        60.599998,
+                        56.835646
+                  ]
+            },
+            {
+                  "name": "Teatr Volkhonka",
+                  "text": "The Volkhonka Theater hosts performances in the city of Yekaterinburg.",
+                  "category": "cultural",
+                  "coords": [
+                        60.591417,
+                        56.833311
+                  ]
+            },
+            {
+                  "name": "Young Spectator Theater",
+                  "text": "The Young Spectator Theater in Yekaterinburg is a cultural institution geared towards a young audience.",
+                  "category": "cultural",
+                  "coords": [
+                        60.610788,
+                        56.847363
+                  ]
+            },
+            {
+                  "name": "Teatr muzykal'noi komedii",
+                  "text": "The Sverdlovsk State Academic Theater of Musical Comedy offers performances in Yekaterinburg.",
+                  "category": "cultural",
+                  "coords": [
+                        60.611746,
+                        56.839646
+                  ]
+            },
+            {
+                  "name": "Khram Sviatoi Anny",
+                  "text": "The Church of St. Anne is a historic place of worship in Yekaterinburg.",
+                  "category": "religious",
+                  "coords": [
+                        60.610839,
+                        56.834073
+                  ]
+            },
+            {
+                  "name": "Teatr kukol",
+                  "text": "The Puppet Theater in Yekaterinburg entertains families and children with its performances.",
+                  "category": "cultural",
+                  "coords": [
+                        60.618767,
+                        56.838172
+                  ]
+            },
+            {
+                  "name": "Teatr baleta <<Shchelkunchik>>",
+                  "text": "The Nutcracker Ballet Theater is a dance and performance venue in Yekaterinburg.",
+                  "category": "cultural",
+                  "coords": [
+                        60.60723,
+                        56.814432
+                  ]
+            },
+            {
+                  "name": "Koliada teatr",
+                  "text": "The Kolyada Theater is a widely known independent theater venue in Yekaterinburg.",
+                  "category": "cultural",
+                  "coords": [
+                        60.640927,
+                        56.842908
+                  ]
+            },
+            {
+                  "name": "Khram v chest' Sviatoi Zhivonachal'noi Troitsy na Shartashe",
+                  "text": "The Holy Trinity Church on Lake Shartash serves as a place of worship for believers in Yekaterinburg.",
+                  "category": "religious",
+                  "coords": [
+                        60.691859,
+                        56.87608
+                  ]
+            },
+            {
+                  "name": "Uspenskii sobor na VIZe",
+                  "text": "The Assumption Cathedral in VIZ is a prominent church located in Yekaterinburg.",
+                  "category": "religious",
+                  "coords": [
+                        60.556286,
+                        56.839154
+                  ]
+            },
+            {
+                  "name": "Great Zlatoust Church",
+                  "text": "The Great Zlatoust Church is a rebuilt bell-tower temple in the center of Yekaterinburg.",
+                  "category": "religious",
+                  "coords": [
+                        60.600545,
+                        56.83467
+                  ]
+            },
+            {
+                  "name": "Akademicheskii teatr dramy",
+                  "text": "The Academic Drama Theater is a significant theatrical venue in Yekaterinburg.",
+                  "category": "cultural",
+                  "coords": [
+                        60.593197,
+                        56.843723
+                  ]
+            },
+            {
+                  "name": "Khram vo imia Vsekh Sviatykh",
+                  "text": "The Church of All Saints is a religious facility for the local community in Yekaterinburg.",
+                  "category": "religious",
+                  "coords": [
+                        60.637507,
+                        56.847963
+                  ]
+            },
+            {
+                  "name": "Khram v chest' Vozneseniia Gospodnia",
+                  "text": "The Church of the Ascension is a traditional place of worship in Yekaterinburg.",
+                  "category": "religious",
+                  "coords": [
+                        60.612766,
+                        56.844767
+                  ]
+            },
+            {
+                  "name": "Church on Blood in Honour of All Saints Resplendent in the Russian Land",
+                  "text": "The Church on Blood in Yekaterinburg was built on the site where the Romanov imperial family was assassinated.",
+                  "category": "religious",
+                  "coords": [
+                        60.608972,
+                        56.844389
+                  ]
+            }
+      ]
+},
     type: "theater",
     parent: "RU",
     name: { de: "Jekaterinburger Zirkus", hu: "Jekatyerinburgi Cirkusz", ro: "Circul din Yekaterinburg", en: "Yekaterinburg Circus" },
@@ -5248,7 +7786,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Tul'skii oblastnoi kraevedcheskii muzei",
-                  "text": "Ein Museum, das die lokale Geschichte und Kultur von Tula präsentiert.",
+                  "text": "Heimatmuseum im Kreml von Tula.",
                   "category": "museum",
                   "coords": [
                         37.618568,
@@ -5311,7 +7849,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Fabrika - Klub virtual'noi real'nosti",
-                  "text": "Ein Virtual-Reality-Club beim Tulaer Samowar-Museum.",
+                  "text": "Fabrika - Klub virtual'noi real'nosti ist ein Virtual-Reality-Club in einer ehemaligen Fabrik in der Nähe des Tulaer Samowarmuseums.",
                   "category": "recreational",
                   "coords": [
                         37.599277,
@@ -5329,7 +7867,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Kharakter",
-                  "text": "Ein Freizeitpark beim Samowar-Museum in Tula.",
+                  "text": "Ein Freizeitbereich mit dem Namen ‚Kharakter‘ (Charakter) innerhalb des Tula-Samowar-Museums.",
                   "category": "recreational",
                   "coords": [
                         37.593657,
@@ -5338,7 +7876,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Otryv",
-                  "text": "Ein Freizeitpark beim Samowar-Museum in Tula.",
+                  "text": "Ein Erlebnisraum namens ‚Otryv‘ (Ablösung) im Tula-Samowar-Museum.",
                   "category": "recreational",
                   "coords": [
                         37.602294,
@@ -5347,7 +7885,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Komnata iarosti Raznos",
-                  "text": "Ein Wutraum-Erlebnis beim Tulaer Samowar-Museum.",
+                  "text": "Ein Raum mit dem Namen ‚Komnata iarosti Raznos‘ (Wutraum) im Tula-Samowar-Museum.",
                   "category": "recreational",
                   "coords": [
                         37.613326,
@@ -5367,7 +7905,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Tul'skii oblastnoi kraevedcheskii muzei",
-                  "text": "Tula helytörténetét és kultúráját bemutató múzeum.",
+                  "text": "Helytörténeti múzeum Tula Kremljében.",
                   "category": "museum",
                   "coords": [
                         37.618568,
@@ -5430,7 +7968,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Fabrika - Klub virtual'noi real'nosti",
-                  "text": "Virtuális valóság klub a Tula-szamovár Múzeumnál.",
+                  "text": "A Fabrika - Klub virtual'noi real'nosti egy virtuális valóság klub egy egykori gyárépületben, a Tula Szamovár Múzeum közelében.",
                   "category": "recreational",
                   "coords": [
                         37.599277,
@@ -5448,7 +7986,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Kharakter",
-                  "text": "Szórakoztató park a Tula-szamovár Múzeum közelében.",
+                  "text": "Egy 'Kharakter' (Karakter) nevű szabadidős zóna a Tula Szamovármúzeum területén.",
                   "category": "recreational",
                   "coords": [
                         37.593657,
@@ -5457,7 +7995,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Otryv",
-                  "text": "Szórakoztató park a Tula-szamovár Múzeumnál.",
+                  "text": "Egy 'Otryv' (Leválás) nevű élménytér a Tula Szamovármúzeumban.",
                   "category": "recreational",
                   "coords": [
                         37.602294,
@@ -5466,7 +8004,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Komnata iarosti Raznos",
-                  "text": "Dühöngő szoba a Tula-szamovár Múzeum közelében.",
+                  "text": "Egy 'Komnata iarosti Raznos' (Dühszoba) nevű helyiség a Tula Szamovármúzeumban.",
                   "category": "recreational",
                   "coords": [
                         37.613326,
@@ -5486,7 +8024,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Tul'skii oblastnoi kraevedcheskii muzei",
-                  "text": "Un muzeu care prezintă istoria și cultura locală din Tula.",
+                  "text": "Muzeul de istorie locală în Kremlinul din Tula.",
                   "category": "museum",
                   "coords": [
                         37.618568,
@@ -5549,7 +8087,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Fabrika - Klub virtual'noi real'nosti",
-                  "text": "Un club de realitate virtuală lângă Muzeul Samovarelor din Tula.",
+                  "text": "Fabrika - Klub virtual'noi real'nosti este un club de realitate virtuală într-o fostă fabrică, lângă Muzeul Samovarului din Tula.",
                   "category": "recreational",
                   "coords": [
                         37.599277,
@@ -5567,7 +8105,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Kharakter",
-                  "text": "Un parc tematic lângă Muzeul Samovarelor din Tula.",
+                  "text": "O zonă de agrement numită 'Kharakter' (Caracter) în incinta Muzeului Samovarului din Tula.",
                   "category": "recreational",
                   "coords": [
                         37.593657,
@@ -5576,7 +8114,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Otryv",
-                  "text": "Un parc tematic lângă Muzeul Samovarelor din Tula.",
+                  "text": "Un spațiu de experiență numit 'Otryv' (Desprindere) în Muzeul Samovarului din Tula.",
                   "category": "recreational",
                   "coords": [
                         37.602294,
@@ -5585,7 +8123,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Komnata iarosti Raznos",
-                  "text": "O cameră de eliberare a furiei lângă Muzeul Samovarelor din Tula.",
+                  "text": "O încăpere numită 'Komnata iarosti Raznos' (Cameră de furie) în Muzeul Samovarului din Tula.",
                   "category": "recreational",
                   "coords": [
                         37.613326,
@@ -5605,7 +8143,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Tula Local Museum",
-                  "text": "A museum presenting the local history and culture of Tula.",
+                  "text": "Local history museum in the Kremlin of Tula.",
                   "category": "museum",
                   "coords": [
                         37.618568,
@@ -5668,7 +8206,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Fabrika - Klub virtual'noi real'nosti",
-                  "text": "A virtual reality club near the Tula Samovar Museum.",
+                  "text": "Fabrika - Klub virtual'noi real'nosti is a virtual reality club in a former factory building, near the Tula Samovar Museum.",
                   "category": "recreational",
                   "coords": [
                         37.599277,
@@ -5686,7 +8224,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Kharakter",
-                  "text": "A theme park located near the Tula Samovar Museum.",
+                  "text": "A recreational zone named 'Kharakter' inside the Tula Samovar Museum.",
                   "category": "recreational",
                   "coords": [
                         37.593657,
@@ -5695,7 +8233,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Otryv",
-                  "text": "A theme park situated near the Tula Samovar Museum.",
+                  "text": "An experience room called 'Otryv' (Breakaway) in the Tula Samovar Museum.",
                   "category": "recreational",
                   "coords": [
                         37.602294,
@@ -5704,7 +8242,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Komnata iarosti Raznos",
-                  "text": "A rage room experience near the Tula Samovar Museum.",
+                  "text": "A room called 'Komnata iarosti Raznos' (Rage Room) in the Tula Samovar Museum.",
                   "category": "recreational",
                   "coords": [
                         37.613326,
@@ -5833,7 +8371,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Trogatel'nyi zoopark",
-                  "text": "Ein Streichelzoo beim staatlichen Waffenmuseum in Tula.",
+                  "text": "Ein ‚Trogatel'nyi zoopark‘ (Streichelzoo) im Tulaer Waffenmuseum.",
                   "category": "recreational",
                   "coords": [
                         37.596199,
@@ -5842,7 +8380,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Fabrika - Klub virtual'noi real'nosti",
-                  "text": "Ein Virtual-Reality-Erlebnispark in Tula.",
+                  "text": "Ein Virtual-Reality-Club namens ‚Fabrika - Klub virtual'noi real'nosti‘ im Tulaer Waffenmuseum.",
                   "category": "recreational",
                   "coords": [
                         37.599277,
@@ -5851,7 +8389,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Tul'skii ekzotarium (novaia ekspozitsiia)",
-                  "text": "Die neue Ausstellung des Exotariums in Tula.",
+                  "text": "Die neue Ausstellung des Tulaer Exotariums im Tulaer Waffenmuseum.",
                   "category": "recreational",
                   "coords": [
                         37.588762,
@@ -5860,7 +8398,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Kharakter",
-                  "text": "Ein Freizeit- und Erlebnispark im Zentrum von Tula.",
+                  "text": "Ein Freizeitbereich namens ‚Kharakter‘ im Tulaer Waffenmuseum.",
                   "category": "recreational",
                   "coords": [
                         37.593657,
@@ -5869,7 +8407,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Otryv",
-                  "text": "Ein Vergnügungspark in der Nähe des Waffenmuseums in Tula.",
+                  "text": "Ein Erlebnisraum namens ‚Otryv‘ im Tulaer Waffenmuseum.",
                   "category": "recreational",
                   "coords": [
                         37.602294,
@@ -5952,7 +8490,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Trogatel'nyi zoopark",
-                  "text": "Állatsimogató a tulai Állami Fegyvermuzeumnál.",
+                  "text": "Egy 'Trogatel'nyi zoopark' (Simogató állatkert) a Tula Fegyvermúzeumban.",
                   "category": "recreational",
                   "coords": [
                         37.596199,
@@ -5961,7 +8499,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Fabrika - Klub virtual'noi real'nosti",
-                  "text": "Virtuális valóság élménypark Tulában.",
+                  "text": "Egy 'Fabrika - Klub virtual'noi real'nosti' nevű virtuális valóság klub a Tula Fegyvermúzeumban.",
                   "category": "recreational",
                   "coords": [
                         37.599277,
@@ -5970,7 +8508,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Tul'skii ekzotarium (novaia ekspozitsiia)",
-                  "text": "A tulai exotikus állatkert (exotarium) új kiállítása.",
+                  "text": "A Tula Egzotárium új kiállítása a Tula Fegyvermúzeumban.",
                   "category": "recreational",
                   "coords": [
                         37.588762,
@@ -5979,7 +8517,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Kharakter",
-                  "text": "Szórakoztató és élménypark Tula központjában.",
+                  "text": "Egy 'Kharakter' (Karakter) nevű szabadidős zóna a Tula Fegyvermúzeumban.",
                   "category": "recreational",
                   "coords": [
                         37.593657,
@@ -5988,7 +8526,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Otryv",
-                  "text": "Vidámpark a tulai fegyvermuzeum közelében.",
+                  "text": "Egy 'Otryv' (Leválás) nevű élménytér a Tula Fegyvermúzeumban.",
                   "category": "recreational",
                   "coords": [
                         37.602294,
@@ -6071,7 +8609,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Trogatel'nyi zoopark",
-                  "text": "O grădină zoologică interactivă lângă Muzeul de Arme din Tula.",
+                  "text": "Un 'Trogatel'nyi zoopark' (Grădină zoologică de contact) la Muzeul Armelor din Tula.",
                   "category": "recreational",
                   "coords": [
                         37.596199,
@@ -6080,7 +8618,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Fabrika - Klub virtual'noi real'nosti",
-                  "text": "Un parc de distracții cu realitate virtuală în Tula.",
+                  "text": "Un club de realitate virtuală numit 'Fabrika - Klub virtual'noi real'nosti' la Muzeul Armelor din Tula.",
                   "category": "recreational",
                   "coords": [
                         37.599277,
@@ -6089,7 +8627,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Tul'skii ekzotarium (novaia ekspozitsiia)",
-                  "text": "Noua expoziție a exotariului din Tula.",
+                  "text": "Noua expoziție a Exotariului din Tula, găzduită de Muzeul Armelor din Tula.",
                   "category": "recreational",
                   "coords": [
                         37.588762,
@@ -6098,7 +8636,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Kharakter",
-                  "text": "Un parc de distracții și recreere în centrul orașului Tula.",
+                  "text": "O zonă de agrement numită 'Kharakter' la Muzeul Armelor din Tula.",
                   "category": "recreational",
                   "coords": [
                         37.593657,
@@ -6107,7 +8645,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Otryv",
-                  "text": "Un parc de distracții situat lângă Muzeul de Arme din Tula.",
+                  "text": "Un spațiu de experiență numit 'Otryv' la Muzeul Armelor din Tula.",
                   "category": "recreational",
                   "coords": [
                         37.602294,
@@ -6190,7 +8728,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Trogatel'nyi zoopark",
-                  "text": "A petting zoo located by the Tula State Arms Museum.",
+                  "text": "A petting zoo named 'Trogatel'nyi zoopark' at the Tula Arms Museum.",
                   "category": "recreational",
                   "coords": [
                         37.596199,
@@ -6199,7 +8737,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Fabrika - Klub virtual'noi real'nosti",
-                  "text": "A virtual reality theme park club in Tula.",
+                  "text": "A VR club called 'Fabrika - Klub virtual'noi real'nosti' inside the Tula Arms Museum.",
                   "category": "recreational",
                   "coords": [
                         37.599277,
@@ -6208,7 +8746,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Tul'skii ekzotarium (novaia ekspozitsiia)",
-                  "text": "The new exhibition of the Tula Exotarium zoo.",
+                  "text": "The new exhibition of the Tula Exotarium inside the Tula Arms Museum.",
                   "category": "recreational",
                   "coords": [
                         37.588762,
@@ -6217,7 +8755,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Kharakter",
-                  "text": "A leisure and entertainment theme park in Tula.",
+                  "text": "A recreational zone called 'Kharakter' within the Tula Arms Museum.",
                   "category": "recreational",
                   "coords": [
                         37.593657,
@@ -6226,7 +8764,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Otryv",
-                  "text": "A theme park situated near the Tula State Arms Museum.",
+                  "text": "An experience room called 'Otryv' in the Tula Arms Museum.",
                   "category": "recreational",
                   "coords": [
                         37.602294,
@@ -6279,7 +8817,160 @@ imageHint: "Pavlovsk Palace golden facade and dome",
     image: "/poi-images/russia-tula-arms-museum-history-v2.webp",
   },
   {
-    id: "russia-novosibirsk-opera-house-history-v2",
+    id: "russia-novosibirsk-opera-house-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Staatliches Akademisches Opern- und Ballett-Theater Nowosibirsk",
+                  "text": "Das größte Theater Russlands besticht durch seine massive silberne Kuppel und die monumentale stalinistische Architektur.",
+                  "category": "cultural",
+                  "coords": [
+                        82.924693,
+                        55.030408
+                  ]
+            },
+            {
+                  "name": "Krasnyi fakel",
+                  "text": "Das renommierte Dramentheater ist in einem markanten Jugendstilgebäude aus dem Jahr 1914 untergebracht.",
+                  "category": "cultural",
+                  "coords": [
+                        82.908351,
+                        55.028266
+                  ]
+            },
+            {
+                  "name": "Teatr kukol",
+                  "text": "Dieses professionelle Puppentheater ist für seine farbenfrohe Fassade und sein familienfreundliches Repertoire bekannt.",
+                  "category": "cultural",
+                  "coords": [
+                        82.909462,
+                        55.029404
+                  ]
+            },
+            {
+                  "name": "Komsomol'skii most",
+                  "text": "Diese 1931 fertiggestellte Eisenbahnbrücke überquert den Fluss Ob und war ein wichtiges Glied für die Transsibirische Eisenbahn.",
+                  "category": "landmark",
+                  "coords": [
+                        82.985187,
+                        54.961524
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Novosibirskii gosudarstvennyi akademicheskii teatr opery i baleta",
+                  "text": "Oroszország legnagyobb színházépülete hatalmas ezüst kupolájával és monumentális sztálini építészetével tűnik ki.",
+                  "category": "cultural",
+                  "coords": [
+                        82.924693,
+                        55.030408
+                  ]
+            },
+            {
+                  "name": "Krasnyi fakel",
+                  "text": "A neves drámai színház egy jellegzetes, 1914-ben épült szecessziós épületben kapott helyet.",
+                  "category": "cultural",
+                  "coords": [
+                        82.908351,
+                        55.028266
+                  ]
+            },
+            {
+                  "name": "Teatr kukol",
+                  "text": "Ez a professzionális bábszínház színes homlokzatáról és családbarát repertoárjáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        82.909462,
+                        55.029404
+                  ]
+            },
+            {
+                  "name": "Komsomol'skii most",
+                  "text": "Az 1931-ben befejezett vasúti híd az Ob folyón ível át, és a Transzszibériai vasútvonal egyik kulcsfontosságú eleme volt.",
+                  "category": "landmark",
+                  "coords": [
+                        82.985187,
+                        54.961524
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Novosibirskii gosudarstvennyi akademicheskii teatr opery i baleta",
+                  "text": "Cea mai mare clădire de teatru din Rusia impresionează prin cupola sa argintie masivă și arhitectura stalinistă monumentală.",
+                  "category": "cultural",
+                  "coords": [
+                        82.924693,
+                        55.030408
+                  ]
+            },
+            {
+                  "name": "Krasnyi fakel",
+                  "text": "Acest teatru dramatic renumit este găzduit într-o clădire emblematică în stil Art Nouveau din anul 1914.",
+                  "category": "cultural",
+                  "coords": [
+                        82.908351,
+                        55.028266
+                  ]
+            },
+            {
+                  "name": "Teatr kukol",
+                  "text": "Acest teatru de păpuși profesionist este cunoscut pentru fațada sa colorată și repertoriul dedicat familiilor.",
+                  "category": "cultural",
+                  "coords": [
+                        82.909462,
+                        55.029404
+                  ]
+            },
+            {
+                  "name": "Komsomol'skii most",
+                  "text": "Acest pod feroviar, finalizat în 1931, traversează râul Obi și a fost o legătură esențială pentru calea ferată Transsiberiană.",
+                  "category": "landmark",
+                  "coords": [
+                        82.985187,
+                        54.961524
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Novosibirsk State Academic Opera and Ballet Theatre",
+                  "text": "Russia's largest theatre building features a massive silver dome and monumental Stalinist architecture.",
+                  "category": "cultural",
+                  "coords": [
+                        82.924693,
+                        55.030408
+                  ]
+            },
+            {
+                  "name": "Krasnyi fakel",
+                  "text": "The renowned drama theatre is housed in a landmark Art Nouveau building dating from 1914.",
+                  "category": "cultural",
+                  "coords": [
+                        82.908351,
+                        55.028266
+                  ]
+            },
+            {
+                  "name": "Teatr kukol",
+                  "text": "This professional puppet theatre is known for its colourful facade and family-oriented repertoire.",
+                  "category": "cultural",
+                  "coords": [
+                        82.909462,
+                        55.029404
+                  ]
+            },
+            {
+                  "name": "Komsomol'skii most",
+                  "text": "This railway bridge, completed in 1931, spans the Ob River and was a key link for the Trans-Siberian Railway.",
+                  "category": "landmark",
+                  "coords": [
+                        82.985187,
+                        54.961524
+                  ]
+            }
+      ]
+},
     type: "theater",
     parent: "RU",
     name: { de: "Nowosibirsker Oper", hu: "Novoszibirszki Operaház", ro: "Opera din Novosibirsk", en: "Novosibirsk Opera House" },
@@ -6324,7 +9015,1096 @@ imageHint: "Pavlovsk Palace golden facade and dome",
     image: "/poi-images/russia-novosibirsk-opera-house-history-v2.webp",
   },
   {
-    id: "russia-omsk-drama-theater-history-v2",
+    id: "russia-omsk-drama-theater-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzei im. Vrubelia",
+                  "text": "Das zwischen 1911 und 1914 gegründete Museum beherbergt eine bedeutende Sammlung von Werken des Malers Michail Wrubel.",
+                  "category": "museum",
+                  "coords": [
+                        73.372638,
+                        54.98833
+                  ]
+            },
+            {
+                  "name": "Uspenskii sobor",
+                  "text": "Ein Wahrzeichen, das am 15. Juli 2007 an der Stelle einer im sowjetischen Zeitalter zerstörten Kathedrale geweiht wurde.",
+                  "category": "religious",
+                  "coords": [
+                        73.366925,
+                        54.990176
+                  ]
+            },
+            {
+                  "name": "Dom Egora Letova",
+                  "text": "Die ehemalige Wohnung von Jegor Letow, in der sich das legendäre Aufnahmestudio „GrOb Records“ befand.",
+                  "category": "landmark",
+                  "coords": [
+                        73.46344,
+                        54.976782
+                  ]
+            },
+            {
+                  "name": "Kharchikov Mikhail Borisovchi",
+                  "text": "Ein Ort, der Michail Chartschikow gewidmet ist, einem bolschewistischen Revolutionär, der in der Geschichte von Omsk eine wichtige Rolle spielte.",
+                  "category": "landmark",
+                  "coords": [
+                        73.408168,
+                        54.993588
+                  ]
+            },
+            {
+                  "name": "Omskaia krepost'",
+                  "text": "Ein historischer Militärposten aus dem 18. Jahrhundert mit restaurierten Toren wie dem Tara-Tor.",
+                  "category": "landmark",
+                  "coords": [
+                        73.362869,
+                        54.985689
+                  ]
+            },
+            {
+                  "name": "Iubileinyi most",
+                  "text": "Eine 1967 eröffnete Betonbrücke, die den Fluss Om nahe seiner Mündung in den Irtysch überquert.",
+                  "category": "landmark",
+                  "coords": [
+                        73.376547,
+                        54.982567
+                  ]
+            },
+            {
+                  "name": "Most imeni 60-letiia Pobedy",
+                  "text": "Diese Schrägseilbrücke über den Irtysch wurde zu Ehren des 60. Jahrestages des Sieges im Zweiten Weltkrieg benannt.",
+                  "category": "landmark",
+                  "coords": [
+                        73.349455,
+                        54.989814
+                  ]
+            },
+            {
+                  "name": "Park Pobedy",
+                  "text": "Ein weitläufiger Gedenkpark mit einer monumentalen Bronzestatue eines Soldaten und einer ewigen Flamme.",
+                  "category": "park",
+                  "coords": [
+                        73.358743,
+                        54.961079
+                  ]
+            },
+            {
+                  "name": "Ptich'ia gavan'",
+                  "text": "Ein 1979 gegründetes Naturschutzgebiet im Stadtzentrum, das als wichtiger Rastplatz für Zugvögel dient.",
+                  "category": "park",
+                  "coords": [
+                        73.351304,
+                        54.972556
+                  ]
+            },
+            {
+                  "name": "Dvorets general-gubernatora Zapadnoi Sibiri",
+                  "text": "Eine prachtvolle klassizistische Residenz, die zwischen 1859 und 1862 für die kaiserlichen Gouverneure von Westsibirien erbaut wurde.",
+                  "category": "historical",
+                  "coords": [
+                        73.378444,
+                        54.980419
+                  ]
+            },
+            {
+                  "name": "Muzei Omskogo kirpicha",
+                  "text": "Ein einzigartiges Industriemuseum, das die Geschichte der Ziegelherstellung und die Entwicklung der lokalen Architektur zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        73.435269,
+                        54.918594
+                  ]
+            },
+            {
+                  "name": "Muzei geroev Sovetskogo Soiuza",
+                  "text": "Ein Museum, das den Einwohnern von Omsk gewidmet ist, die für ihre Tapferkeit im Zweiten Weltkrieg als „Helden der Sowjetunion“ ausgezeichnet wurden.",
+                  "category": "museum",
+                  "coords": [
+                        73.468564,
+                        54.973601
+                  ]
+            },
+            {
+                  "name": "Omskii muzei Kondratiia Belova",
+                  "text": "Dieses Museum befindet sich in einem historischen Holzhaus und ist den Landschaftsbildern des sibirischen Künstlers Kondrati Below gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        73.380636,
+                        54.974527
+                  ]
+            },
+            {
+                  "name": "Omskii muzei prosveshcheniia",
+                  "text": "Ein Museum, das die Geschichte des Schulwesens und die Entwicklung pädagogischer Traditionen in Sibirien erforscht.",
+                  "category": "museum",
+                  "coords": [
+                        73.37254,
+                        54.985774
+                  ]
+            },
+            {
+                  "name": "Art. galereia \"Kvadrat\"",
+                  "text": "Eine Galerie für zeitgenössische Kunst, die Werke lokaler Künstler durch wechselnde Ausstellungen von Malerei und Grafik fördert.",
+                  "category": "museum",
+                  "coords": [
+                        73.368692,
+                        54.984105
+                  ]
+            },
+            {
+                  "name": "Liberov-Tsentr",
+                  "text": "Ein Kunstmuseum, das sich den Pastelllandschaften des Malers Alexei Liberow widmet.",
+                  "category": "museum",
+                  "coords": [
+                        73.382577,
+                        54.983767
+                  ]
+            },
+            {
+                  "name": "Muzeinyi kompleks voinskoi slavy omichei",
+                  "text": "Dieses Museum stellt Militärtechnik und die Geschichte der Omsker Soldaten im Zweiten Weltkrieg aus.",
+                  "category": "museum",
+                  "coords": [
+                        73.365853,
+                        54.984665
+                  ]
+            },
+            {
+                  "name": "Zabroshennaia gostinitsa \"Voskhod\"",
+                  "text": "Die mehrstöckige Ruine eines verlassenen sowjetischen Hotels.",
+                  "category": "historical",
+                  "coords": [
+                        73.362945,
+                        54.971162
+                  ]
+            },
+            {
+                  "name": "Polurazrushennoe zdanie",
+                  "text": "Die verfallenden Überreste eines kleinen gemauerten Gebäudes.",
+                  "category": "historical",
+                  "coords": [
+                        73.488729,
+                        54.964045
+                  ]
+            },
+            {
+                  "name": "Zabroshennoe zdanie",
+                  "text": "Die leere Betonschale eines verlassenen Stadtgebäudes.",
+                  "category": "historical",
+                  "coords": [
+                        73.49326,
+                        54.964591
+                  ]
+            },
+            {
+                  "name": "Raketa Kosmos-3M",
+                  "text": "Ein monumentales Denkmal einer Kosmos-3M-Trägerrakete auf einem hohen Sockel.",
+                  "category": "historical",
+                  "coords": [
+                        73.446256,
+                        54.969156
+                  ]
+            },
+            {
+                  "name": "Byvshii izoliator",
+                  "text": "Die Ruine eines ehemaligen Isoliergebäudes einer medizinischen oder staatlichen Einrichtung.",
+                  "category": "historical",
+                  "coords": [
+                        73.462186,
+                        54.985803
+                  ]
+            },
+            {
+                  "name": "Kotel'naia",
+                  "text": "Die industriellen Ruinen eines alten Heizhauses mit Überresten von Rohrleitungen.",
+                  "category": "historical",
+                  "coords": [
+                        73.455551,
+                        54.987855
+                  ]
+            },
+            {
+                  "name": "Byvshii sklad khimikatov",
+                  "text": "Die Überreste eines ehemaligen Lagers für Chemikalien aus der Sowjetzeit.",
+                  "category": "historical",
+                  "coords": [
+                        73.458142,
+                        54.985683
+                  ]
+            },
+            {
+                  "name": "Izvestkovaia",
+                  "text": "Die industriellen Überreste einer Anlage zur Kalkverarbeitung.",
+                  "category": "historical",
+                  "coords": [
+                        73.459914,
+                        54.985253
+                  ]
+            },
+            {
+                  "name": "Zabroshennaia nasosnaia stantsiia",
+                  "text": "Die technischen Überreste einer verlassenen Pumpstation.",
+                  "category": "historical",
+                  "coords": [
+                        73.370921,
+                        54.98263
+                  ]
+            },
+            {
+                  "name": "Dokhodnyi dom",
+                  "text": "Die baufälligen Überreste eines vorrevolutionären Mietshauses aus Backstein.",
+                  "category": "historical",
+                  "coords": [
+                        73.375695,
+                        54.993777
+                  ]
+            },
+            {
+                  "name": "Zabroshennyi profilaktorii \"Voskhod\"",
+                  "text": "Die verlassene Ruine eines mehrstöckigen Sanatoriums und Erholungsheims.",
+                  "category": "historical",
+                  "coords": [
+                        73.365842,
+                        54.972113
+                  ]
+            },
+            {
+                  "name": "Zabroshennoe GIBDD",
+                  "text": "Die Ruine eines Verwaltungsgebäudes, das früher von der Verkehrspolizei genutzt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        73.355488,
+                        54.979682
+                  ]
+            },
+            {
+                  "name": "Osobniak kuptsa Batiushkina",
+                  "text": "Ein elegantes Herrenhaus aus dem Jahr 1902, das Admiral Koltschak als Residenz diente.",
+                  "category": "historical",
+                  "coords": [
+                        73.373694,
+                        54.979162
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzei im. Vrubelia",
+                  "text": "Az 1911 és 1914 között alapított múzeum Mihail Vrubel festőművész alkotásainak jelentős gyűjteményét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        73.372638,
+                        54.98833
+                  ]
+            },
+            {
+                  "name": "Uspenskii sobor",
+                  "text": "Egy jelentős látnivaló, amelyet 2007. július 15-én szenteltek fel egy szovjet korszakban lerombolt székesegyház helyén.",
+                  "category": "religious",
+                  "coords": [
+                        73.366925,
+                        54.990176
+                  ]
+            },
+            {
+                  "name": "Dom Egora Letova",
+                  "text": "Jegor Letov egykori lakása, amely a legendás „GrOb Records” lemezstúdió helyszíne volt.",
+                  "category": "landmark",
+                  "coords": [
+                        73.46344,
+                        54.976782
+                  ]
+            },
+            {
+                  "name": "Kharchikov Mikhail Borisovchi",
+                  "text": "Mihail Harcsikovnak, az omszki történelemben fontos szerepet játszó bolsevik forradalmárnak szentelt emlékhely.",
+                  "category": "landmark",
+                  "coords": [
+                        73.408168,
+                        54.993588
+                  ]
+            },
+            {
+                  "name": "Omskaia krepost'",
+                  "text": "18. századi történelmi katonai erődítmény restaurált kapukkal, például a Tara-kapuval.",
+                  "category": "landmark",
+                  "coords": [
+                        73.362869,
+                        54.985689
+                  ]
+            },
+            {
+                  "name": "Iubileinyi most",
+                  "text": "1967-ben megnyitott betonhíd, amely az Om folyón ível át az Irtisbe való torkolata közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        73.376547,
+                        54.982567
+                  ]
+            },
+            {
+                  "name": "Most imeni 60-letiia Pobedy",
+                  "text": "Az Irtis felett átívelő ferdekábeles híd, amelyet a második világháborús győzelem 60. évfordulója tiszteletére neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        73.349455,
+                        54.989814
+                  ]
+            },
+            {
+                  "name": "Park Pobedy",
+                  "text": "Hatalmas emlékpark egy katona monumentális bronzszobrával és az öröklánggal.",
+                  "category": "park",
+                  "coords": [
+                        73.358743,
+                        54.961079
+                  ]
+            },
+            {
+                  "name": "Ptich'ia gavan'",
+                  "text": "1979-ben alapított természetvédelmi terület a városközpontban, amely a költöző madarak fontos pihenőhelye.",
+                  "category": "park",
+                  "coords": [
+                        73.351304,
+                        54.972556
+                  ]
+            },
+            {
+                  "name": "Dvorets general-gubernatora Zapadnoi Sibiri",
+                  "text": "Pompás neoklasszicista rezidencia, amely 1859 és 1862 között épült Nyugat-Szibéria birodalmi kormányzói számára.",
+                  "category": "historical",
+                  "coords": [
+                        73.378444,
+                        54.980419
+                  ]
+            },
+            {
+                  "name": "Muzei Omskogo kirpicha",
+                  "text": "Egyedülálló ipari múzeum, amely a téglagyártás történetét és a helyi építészet fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        73.435269,
+                        54.918594
+                  ]
+            },
+            {
+                  "name": "Muzei geroev Sovetskogo Soiuza",
+                  "text": "Azoknak az omszkiaknak szentelt múzeum, akik a második világháborúban tanúsított bátorságukért „Szovjetunió Hőse” kitüntetést kaptak.",
+                  "category": "museum",
+                  "coords": [
+                        73.468564,
+                        54.973601
+                  ]
+            },
+            {
+                  "name": "Omskii muzei Kondratiia Belova",
+                  "text": "Ez a történelmi faházban működő múzeum Kondratyij Belov szibériai művész tájképeinek van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        73.380636,
+                        54.974527
+                  ]
+            },
+            {
+                  "name": "Omskii muzei prosveshcheniia",
+                  "text": "A szibériai iskoláztatás történetét és a pedagógiai hagyományok fejlődését bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        73.37254,
+                        54.985774
+                  ]
+            },
+            {
+                  "name": "Art. galereia \"Kvadrat\"",
+                  "text": "Kortárs művészeti galéria, amely festészeti és grafikai időszaki kiállításokkal népszerűsíti a helyi alkotók műveit.",
+                  "category": "museum",
+                  "coords": [
+                        73.368692,
+                        54.984105
+                  ]
+            },
+            {
+                  "name": "Liberov-Tsentr",
+                  "text": "Alekszej Liberov festő pasztell tájképeit bemutató művészeti központ.",
+                  "category": "museum",
+                  "coords": [
+                        73.382577,
+                        54.983767
+                  ]
+            },
+            {
+                  "name": "Muzeinyi kompleks voinskoi slavy omichei",
+                  "text": "A múzeum haditechnikát és az omszki katonák második világháborús történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        73.365853,
+                        54.984665
+                  ]
+            },
+            {
+                  "name": "Zabroshennaia gostinitsa \"Voskhod\"",
+                  "text": "Egy elhagyatott, többszintes szovjet szálloda omladozó épülete.",
+                  "category": "historical",
+                  "coords": [
+                        73.362945,
+                        54.971162
+                  ]
+            },
+            {
+                  "name": "Polurazrushennoe zdanie",
+                  "text": "Egy kisméretű téglaépület romos maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        73.488729,
+                        54.964045
+                  ]
+            },
+            {
+                  "name": "Zabroshennoe zdanie",
+                  "text": "Egy elhagyatott városi épület üres betonváza.",
+                  "category": "historical",
+                  "coords": [
+                        73.49326,
+                        54.964591
+                  ]
+            },
+            {
+                  "name": "Raketa Kosmos-3M",
+                  "text": "Egy Koszmosz-3M hordozórakéta monumentális emlékműve egy magas talapzaton.",
+                  "category": "historical",
+                  "coords": [
+                        73.446256,
+                        54.969156
+                  ]
+            },
+            {
+                  "name": "Byvshii izoliator",
+                  "text": "Egy egészségügyi vagy állami intézmény egykori elkülönítőjének romjai.",
+                  "category": "historical",
+                  "coords": [
+                        73.462186,
+                        54.985803
+                  ]
+            },
+            {
+                  "name": "Kotel'naia",
+                  "text": "Egy régi kazánház ipari romjai csővezetékek maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        73.455551,
+                        54.987855
+                  ]
+            },
+            {
+                  "name": "Byvshii sklad khimikatov",
+                  "text": "Egy egykori szovjet vegyianyag-raktár romos maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        73.458142,
+                        54.985683
+                  ]
+            },
+            {
+                  "name": "Izvestkovaia",
+                  "text": "Egy mészfeldolgozó üzem ipari maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        73.459914,
+                        54.985253
+                  ]
+            },
+            {
+                  "name": "Zabroshennaia nasosnaia stantsiia",
+                  "text": "Egy elhagyatott szivattyúállomás technikai maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        73.370921,
+                        54.98263
+                  ]
+            },
+            {
+                  "name": "Dokhodnyi dom",
+                  "text": "Egy forradalom előtti, téglából épült bérház omladozó maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        73.375695,
+                        54.993777
+                  ]
+            },
+            {
+                  "name": "Zabroshennyi profilaktorii \"Voskhod\"",
+                  "text": "Egy többszintes szanatórium és üdülő elhagyatott romjai.",
+                  "category": "historical",
+                  "coords": [
+                        73.365842,
+                        54.972113
+                  ]
+            },
+            {
+                  "name": "Zabroshennoe GIBDD",
+                  "text": "Egy korábban a közlekedésrendészet által használt adminisztratív épület romjai.",
+                  "category": "historical",
+                  "coords": [
+                        73.355488,
+                        54.979682
+                  ]
+            },
+            {
+                  "name": "Osobniak kuptsa Batiushkina",
+                  "text": "Elegáns, 1902-es kastély, amely Kolcsak admirális rezidenciájaként szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        73.373694,
+                        54.979162
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzei im. Vrubelia",
+                  "text": "Fondat între 1911 și 1914, muzeul găzduiește o colecție importantă de lucrări ale pictorului Mihail Vrubel.",
+                  "category": "museum",
+                  "coords": [
+                        73.372638,
+                        54.98833
+                  ]
+            },
+            {
+                  "name": "Uspenskii sobor",
+                  "text": "Un punct de reper major, sfințit la 15 iulie 2007 pe locul unei catedrale distruse în perioada sovietică.",
+                  "category": "religious",
+                  "coords": [
+                        73.366925,
+                        54.990176
+                  ]
+            },
+            {
+                  "name": "Dom Egora Letova",
+                  "text": "Fostul apartament al lui Egor Letov, care a găzduit legendarul studio de înregistrări „GrOb Records”.",
+                  "category": "landmark",
+                  "coords": [
+                        73.46344,
+                        54.976782
+                  ]
+            },
+            {
+                  "name": "Kharchikov Mikhail Borisovchi",
+                  "text": "Un loc dedicat lui Mihail Harcikov, un revoluționar bolșevic care a jucat un rol important în istoria Omskului.",
+                  "category": "landmark",
+                  "coords": [
+                        73.408168,
+                        54.993588
+                  ]
+            },
+            {
+                  "name": "Omskaia krepost'",
+                  "text": "O fortăreață militară istorică din secolul al XVIII-lea, cu porți restaurate, cum ar fi Poarta Tara.",
+                  "category": "landmark",
+                  "coords": [
+                        73.362869,
+                        54.985689
+                  ]
+            },
+            {
+                  "name": "Iubileinyi most",
+                  "text": "Un pod de beton deschis în 1967, care traversează râul Om lângă confluența sa cu Irtîșul.",
+                  "category": "landmark",
+                  "coords": [
+                        73.376547,
+                        54.982567
+                  ]
+            },
+            {
+                  "name": "Most imeni 60-letiia Pobedy",
+                  "text": "Acest pod cu hobane peste Irtîș a fost numit în onoarea celei de-a 60-a aniversări a victoriei în cel de-al Doilea Război Mondial.",
+                  "category": "landmark",
+                  "coords": [
+                        73.349455,
+                        54.989814
+                  ]
+            },
+            {
+                  "name": "Park Pobedy",
+                  "text": "Un vast parc memorial cu o statuie monumentală de bronz a unui soldat și o flacără eternă.",
+                  "category": "park",
+                  "coords": [
+                        73.358743,
+                        54.961079
+                  ]
+            },
+            {
+                  "name": "Ptich'ia gavan'",
+                  "text": "O rezervație naturală înființată în 1979 în centrul orașului, care servește drept popas important pentru păsările migratoare.",
+                  "category": "park",
+                  "coords": [
+                        73.351304,
+                        54.972556
+                  ]
+            },
+            {
+                  "name": "Dvorets general-gubernatora Zapadnoi Sibiri",
+                  "text": "O mare reședință neoclasică construită între 1859 și 1862 pentru guvernatorii imperiali ai Siberiei de Vest.",
+                  "category": "historical",
+                  "coords": [
+                        73.378444,
+                        54.980419
+                  ]
+            },
+            {
+                  "name": "Muzei Omskogo kirpicha",
+                  "text": "Un muzeu industrial unic care prezintă istoria fabricării cărămizilor și dezvoltarea arhitecturii locale.",
+                  "category": "museum",
+                  "coords": [
+                        73.435269,
+                        54.918594
+                  ]
+            },
+            {
+                  "name": "Muzei geroev Sovetskogo Soiuza",
+                  "text": "Un muzeu dedicat locuitorilor din Omsk care au fost decorați ca „Eroi ai Uniunii Sovietice” pentru curajul lor în cel de-al Doilea Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        73.468564,
+                        54.973601
+                  ]
+            },
+            {
+                  "name": "Omskii muzei Kondratiia Belova",
+                  "text": "Situat într-o casă istorică din lemn, acest muzeu este dedicat peisajelor artistului siberian Kondrati Belov.",
+                  "category": "museum",
+                  "coords": [
+                        73.380636,
+                        54.974527
+                  ]
+            },
+            {
+                  "name": "Omskii muzei prosveshcheniia",
+                  "text": "Un muzeu care explorează istoria școlarizării și dezvoltarea tradițiilor pedagogice în Siberia.",
+                  "category": "museum",
+                  "coords": [
+                        73.37254,
+                        54.985774
+                  ]
+            },
+            {
+                  "name": "Art. galereia \"Kvadrat\"",
+                  "text": "O galerie de artă contemporană care promovează lucrările artiștilor locali prin expoziții rotative de pictură și grafică.",
+                  "category": "museum",
+                  "coords": [
+                        73.368692,
+                        54.984105
+                  ]
+            },
+            {
+                  "name": "Liberov-Tsentr",
+                  "text": "Un centru de artă dedicat peisajelor în pastel ale pictorului Alexei Liberov.",
+                  "category": "museum",
+                  "coords": [
+                        73.382577,
+                        54.983767
+                  ]
+            },
+            {
+                  "name": "Muzeinyi kompleks voinskoi slavy omichei",
+                  "text": "Muzeul expune tehnică militară și istoria soldaților din Omsk în Al Doilea Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        73.365853,
+                        54.984665
+                  ]
+            },
+            {
+                  "name": "Zabroshennaia gostinitsa \"Voskhod\"",
+                  "text": "Ruina multietajată a unui hotel sovietic abandonat.",
+                  "category": "historical",
+                  "coords": [
+                        73.362945,
+                        54.971162
+                  ]
+            },
+            {
+                  "name": "Polurazrushennoe zdanie",
+                  "text": "Rămășițele dărăpănate ale unei mici clădiri de zidărie.",
+                  "category": "historical",
+                  "coords": [
+                        73.488729,
+                        54.964045
+                  ]
+            },
+            {
+                  "name": "Zabroshennoe zdanie",
+                  "text": "Carcasa goală de beton a unei clădiri urbane abandonate.",
+                  "category": "historical",
+                  "coords": [
+                        73.49326,
+                        54.964591
+                  ]
+            },
+            {
+                  "name": "Raketa Kosmos-3M",
+                  "text": "Un monument monumental al unei rachete purtătoare Kosmos-3M pe un piedestal înalt.",
+                  "category": "historical",
+                  "coords": [
+                        73.446256,
+                        54.969156
+                  ]
+            },
+            {
+                  "name": "Byvshii izoliator",
+                  "text": "Ruina unui fost izolator al unei instituții medicale sau de stat.",
+                  "category": "historical",
+                  "coords": [
+                        73.462186,
+                        54.985803
+                  ]
+            },
+            {
+                  "name": "Kotel'naia",
+                  "text": "Ruinele industriale ale unei vechi centrale termice, cu resturi de conducte.",
+                  "category": "historical",
+                  "coords": [
+                        73.455551,
+                        54.987855
+                  ]
+            },
+            {
+                  "name": "Byvshii sklad khimikatov",
+                  "text": "Rămășițele unui fost depozit de substanțe chimice din epoca sovietică.",
+                  "category": "historical",
+                  "coords": [
+                        73.458142,
+                        54.985683
+                  ]
+            },
+            {
+                  "name": "Izvestkovaia",
+                  "text": "Rămășițele industriale ale unei instalații de prelucrare a varului.",
+                  "category": "historical",
+                  "coords": [
+                        73.459914,
+                        54.985253
+                  ]
+            },
+            {
+                  "name": "Zabroshennaia nasosnaia stantsiia",
+                  "text": "Rămășițele tehnice ale unei stații de pompare abandonate.",
+                  "category": "historical",
+                  "coords": [
+                        73.370921,
+                        54.98263
+                  ]
+            },
+            {
+                  "name": "Dokhodnyi dom",
+                  "text": "Rămășițele dărăpănate ale unei case de raport din cărămidă din perioada prerevoluționară.",
+                  "category": "historical",
+                  "coords": [
+                        73.375695,
+                        54.993777
+                  ]
+            },
+            {
+                  "name": "Zabroshennyi profilaktorii \"Voskhod\"",
+                  "text": "Ruina abandonată a unui sanatoriu și centru de odihnă multietajat.",
+                  "category": "historical",
+                  "coords": [
+                        73.365842,
+                        54.972113
+                  ]
+            },
+            {
+                  "name": "Zabroshennoe GIBDD",
+                  "text": "Ruina unei clădiri administrative utilizate anterior de poliția rutieră.",
+                  "category": "historical",
+                  "coords": [
+                        73.355488,
+                        54.979682
+                  ]
+            },
+            {
+                  "name": "Osobniak kuptsa Batiushkina",
+                  "text": "Un conac elegant din 1902 care a servit drept reședință amiralului Kolceak.",
+                  "category": "historical",
+                  "coords": [
+                        73.373694,
+                        54.979162
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vrubel museum",
+                  "text": "Founded between 1911 and 1914, this museum holds a significant collection of works by the painter Mikhail Vrubel.",
+                  "category": "museum",
+                  "coords": [
+                        73.372638,
+                        54.98833
+                  ]
+            },
+            {
+                  "name": "Uspenskii sobor",
+                  "text": "A major landmark consecrated on July 15, 2007, on the site of a cathedral destroyed during the Soviet era.",
+                  "category": "religious",
+                  "coords": [
+                        73.366925,
+                        54.990176
+                  ]
+            },
+            {
+                  "name": "Yegor Letov House",
+                  "text": "The former apartment of Yegor Letov, which served as the location for the legendary 'GrOb Records' studio.",
+                  "category": "landmark",
+                  "coords": [
+                        73.46344,
+                        54.976782
+                  ]
+            },
+            {
+                  "name": "Kharchikov Mikhail Borisovchi",
+                  "text": "A site dedicated to Mikhail Kharchikov, a Bolshevik revolutionary who played a significant role in Omsk's history.",
+                  "category": "landmark",
+                  "coords": [
+                        73.408168,
+                        54.993588
+                  ]
+            },
+            {
+                  "name": "Omskaia krepost'",
+                  "text": "An 18th-century historical military outpost featuring restored gates such as the Tara Gate.",
+                  "category": "landmark",
+                  "coords": [
+                        73.362869,
+                        54.985689
+                  ]
+            },
+            {
+                  "name": "Iubileinyi most",
+                  "text": "A concrete bridge opened in 1967 that crosses the Om River near its confluence with the Irtysh.",
+                  "category": "landmark",
+                  "coords": [
+                        73.376547,
+                        54.982567
+                  ]
+            },
+            {
+                  "name": "Most imeni 60-letiia Pobedy",
+                  "text": "This cable-stayed bridge over the Irtysh was named in honor of the 60th anniversary of the victory in WWII.",
+                  "category": "landmark",
+                  "coords": [
+                        73.349455,
+                        54.989814
+                  ]
+            },
+            {
+                  "name": "Park Pobedy",
+                  "text": "A vast memorial park featuring a monumental bronze statue of a soldier and an eternal flame.",
+                  "category": "park",
+                  "coords": [
+                        73.358743,
+                        54.961079
+                  ]
+            },
+            {
+                  "name": "Ptich'ia gavan'",
+                  "text": "A nature sanctuary established in 1979 within the city center, serving as a key stopover for migratory birds.",
+                  "category": "park",
+                  "coords": [
+                        73.351304,
+                        54.972556
+                  ]
+            },
+            {
+                  "name": "Dvorets general-gubernatora Zapadnoi Sibiri",
+                  "text": "A grand neoclassical residence built between 1859 and 1862 for the Imperial governors of Western Siberia.",
+                  "category": "historical",
+                  "coords": [
+                        73.378444,
+                        54.980419
+                  ]
+            },
+            {
+                  "name": "Muzei Omskogo kirpicha",
+                  "text": "A unique industrial museum showcasing the history of brickmaking and the development of local architecture.",
+                  "category": "museum",
+                  "coords": [
+                        73.435269,
+                        54.918594
+                  ]
+            },
+            {
+                  "name": "Muzei geroev Sovetskogo Soiuza",
+                  "text": "A museum dedicated to Omsk residents who were awarded as 'Heroes of the Soviet Union' for bravery in WWII.",
+                  "category": "museum",
+                  "coords": [
+                        73.468564,
+                        54.973601
+                  ]
+            },
+            {
+                  "name": "Omskii muzei Kondratiia Belova",
+                  "text": "Located in a historic wooden house, this museum is dedicated to the landscape paintings of Siberian artist Kondraty Belov.",
+                  "category": "museum",
+                  "coords": [
+                        73.380636,
+                        54.974527
+                  ]
+            },
+            {
+                  "name": "Omskii muzei prosveshcheniia",
+                  "text": "A museum exploring the history of schooling and the development of pedagogical traditions in Siberia.",
+                  "category": "museum",
+                  "coords": [
+                        73.37254,
+                        54.985774
+                  ]
+            },
+            {
+                  "name": "Art. galereia \"Kvadrat\"",
+                  "text": "A contemporary art gallery that promotes local artists through rotating exhibitions of paintings and graphics.",
+                  "category": "museum",
+                  "coords": [
+                        73.368692,
+                        54.984105
+                  ]
+            },
+            {
+                  "name": "Liberov-Tsentr",
+                  "text": "An art museum dedicated to the pastel landscapes of the painter Alexey Liberov.",
+                  "category": "museum",
+                  "coords": [
+                        73.382577,
+                        54.983767
+                  ]
+            },
+            {
+                  "name": "Muzeinyi kompleks voinskoi slavy omichei",
+                  "text": "This museum displays military equipment and the history of Omsk soldiers in World War II.",
+                  "category": "museum",
+                  "coords": [
+                        73.365853,
+                        54.984665
+                  ]
+            },
+            {
+                  "name": "Zabroshennaia gostinitsa \"Voskhod\"",
+                  "text": "The multi-story ruins of an abandoned Soviet-era hotel.",
+                  "category": "historical",
+                  "coords": [
+                        73.362945,
+                        54.971162
+                  ]
+            },
+            {
+                  "name": "Polurazrushennoe zdanie",
+                  "text": "The decaying remains of a small masonry building.",
+                  "category": "historical",
+                  "coords": [
+                        73.488729,
+                        54.964045
+                  ]
+            },
+            {
+                  "name": "Zabroshennoe zdanie",
+                  "text": "The empty concrete shell of an abandoned urban building.",
+                  "category": "historical",
+                  "coords": [
+                        73.49326,
+                        54.964591
+                  ]
+            },
+            {
+                  "name": "Raketa Kosmos-3M",
+                  "text": "A monumental monument of a Kosmos-3M carrier rocket standing on a high pedestal.",
+                  "category": "historical",
+                  "coords": [
+                        73.446256,
+                        54.969156
+                  ]
+            },
+            {
+                  "name": "Byvshii izoliator",
+                  "text": "The ruins of a former isolation block of a medical or state facility.",
+                  "category": "historical",
+                  "coords": [
+                        73.462186,
+                        54.985803
+                  ]
+            },
+            {
+                  "name": "Kotel'naia",
+                  "text": "The industrial ruins of an old boiler facility with remains of piping.",
+                  "category": "historical",
+                  "coords": [
+                        73.455551,
+                        54.987855
+                  ]
+            },
+            {
+                  "name": "Byvshii sklad khimikatov",
+                  "text": "The remains of a former chemical storage warehouse from the Soviet era.",
+                  "category": "historical",
+                  "coords": [
+                        73.458142,
+                        54.985683
+                  ]
+            },
+            {
+                  "name": "Izvestkovaia",
+                  "text": "The industrial remains of a lime processing facility.",
+                  "category": "historical",
+                  "coords": [
+                        73.459914,
+                        54.985253
+                  ]
+            },
+            {
+                  "name": "Zabroshennaia nasosnaia stantsiia",
+                  "text": "The technical remains of an abandoned pumping station.",
+                  "category": "historical",
+                  "coords": [
+                        73.370921,
+                        54.98263
+                  ]
+            },
+            {
+                  "name": "Dokhodnyi dom",
+                  "text": "The dilapidated remains of a pre-revolutionary brick tenement house.",
+                  "category": "historical",
+                  "coords": [
+                        73.375695,
+                        54.993777
+                  ]
+            },
+            {
+                  "name": "Zabroshennyi profilaktorii \"Voskhod\"",
+                  "text": "The abandoned ruins of a multi-story sanatorium and health resort.",
+                  "category": "historical",
+                  "coords": [
+                        73.365842,
+                        54.972113
+                  ]
+            },
+            {
+                  "name": "Zabroshennoe GIBDD",
+                  "text": "The ruins of an administrative building formerly used by the traffic police.",
+                  "category": "historical",
+                  "coords": [
+                        73.355488,
+                        54.979682
+                  ]
+            },
+            {
+                  "name": "Osobniak kuptsa Batiushkina",
+                  "text": "An elegant 1902 mansion that served as the residence of Admiral Kolchak.",
+                  "category": "historical",
+                  "coords": [
+                        73.373694,
+                        54.979162
+                  ]
+            }
+      ]
+},
     type: "theater",
     parent: "RU",
     name: { de: "Omsker Dramatheater", hu: "Omszki Drámai Színház", ro: "Teatrul de Dramă din Omsk", en: "Omsk Drama Theater" },
@@ -6414,7 +10194,1348 @@ imageHint: "Pavlovsk Palace golden facade and dome",
     image: "/poi-images/russia-perm-opera-ballet-history-v2.webp",
   },
   {
-    id: "russia-chelyabinsk-opera-history-v2",
+    id: "russia-chelyabinsk-opera-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzei istorii Iuzhno-Ural'skoi zheleznoi dorogi",
+                  "text": "Ein Freilichtmuseum, das historische sowjetische Dampf- und Diesellokomotiven ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        61.4123,
+                        55.149335
+                  ]
+            },
+            {
+                  "name": "I. V. Kurchatovu",
+                  "text": "Ein Denkmal von 1986, das den Physiker Igor Kurtschatow zwischen zwei gespaltenen Atomhalbkugeln zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        61.362653,
+                        55.15931
+                  ]
+            },
+            {
+                  "name": "Maneken",
+                  "text": "Ein experimentelles Studiotheater, das für seine kreativen und unkonventionellen Inszenierungen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        61.4092,
+                        55.158056
+                  ]
+            },
+            {
+                  "name": "Cheliabinskii gosudarstvennyi dramaticheskii molodezhnyi teatr",
+                  "text": "Ein Jugendtheater, das im historischen Gebäude des „Volkshaues“ aus dem Jahr 1903 untergebracht ist.",
+                  "category": "cultural",
+                  "coords": [
+                        61.400517,
+                        55.159424
+                  ]
+            },
+            {
+                  "name": "Cheliabinskii gosudarstvennyi akademicheskii teatr dramy imeni Nauma Orlova",
+                  "text": "Das staatliche Dramentheater ist in einem markanten modernistischen Marmorbau untergebracht.",
+                  "category": "cultural",
+                  "coords": [
+                        61.402844,
+                        55.155973
+                  ]
+            },
+            {
+                  "name": "Khram Aleksandra Nevskogo",
+                  "text": "Eine im byzantinischen Stil erbaute Backsteinkirche, die 1911 nach Entwürfen von Alexander Pomeranzew fertiggestellt wurde.",
+                  "category": "religious",
+                  "coords": [
+                        61.390986,
+                        55.162551
+                  ]
+            },
+            {
+                  "name": "Sviato-Troitskaia tserkov'",
+                  "text": "Eine imposante russisch-orthodoxe Kirche aus rotem Backstein, die 1914 geweiht wurde.",
+                  "category": "religious",
+                  "coords": [
+                        61.399092,
+                        55.174224
+                  ]
+            },
+            {
+                  "name": "Cheliabinskii gosudarstvennyi oblastnoi teatr kukol imeni V. Vol'khovskogo",
+                  "text": "Ein Regionaltheater, das sich auf künstlerische Puppenspiele für Kinder und Erwachsene spezialisiert hat.",
+                  "category": "cultural",
+                  "coords": [
+                        61.398675,
+                        55.180518
+                  ]
+            },
+            {
+                  "name": "Zal organnoi i kamernoi muzyki <<Rodina>>",
+                  "text": "Ein Konzertsaal aus dem Jahr 1950, der über eine große Pfeifenorgel verfügt.",
+                  "category": "cultural",
+                  "coords": [
+                        61.399421,
+                        55.171464
+                  ]
+            },
+            {
+                  "name": "Cheliabinskii gosudarstvennyi akademicheskii teatr opery i baleta imeni M. I. Glinki",
+                  "text": "Ein neoklassizistisches Theater mit einer prachtvollen Säulenfront, das 1956 eröffnet wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        61.40199,
+                        55.166493
+                  ]
+            },
+            {
+                  "name": "Khram Neporochnogo Zachatiia Presviatoi Devy Marii",
+                  "text": "Eine moderne katholische Kirche aus rotem Backstein, die 1999 nach Entwürfen von Franz Wesinger erbaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        61.383972,
+                        55.243084
+                  ]
+            },
+            {
+                  "name": "Istrebitel' I-16",
+                  "text": "Ein Denkmal für das Jagdflugzeug Polikarpow I-16, ein ikonisches Flugzeug der 1930er Jahre.",
+                  "category": "landmark",
+                  "coords": [
+                        61.375009,
+                        55.143852
+                  ]
+            },
+            {
+                  "name": "Parovoz Es-350 <<Krasnyi kommunar>>",
+                  "text": "Ein Denkmal der Lokomotive ES-350, die erste, die im Tscheljabinsker Depot repariert wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        61.407557,
+                        55.153162
+                  ]
+            },
+            {
+                  "name": "Elevator",
+                  "text": "Ein verlassener Stahlbetonbau aus dem Jahr 1916, der einst das höchste Gebäude der Stadt war.",
+                  "category": "landmark",
+                  "coords": [
+                        61.400221,
+                        55.153761
+                  ]
+            },
+            {
+                  "name": "Troitskii most",
+                  "text": "Eine historische Stahlbetonbrücke aus dem Jahr 1924, die den Fluss Miass überquert.",
+                  "category": "landmark",
+                  "coords": [
+                        61.400255,
+                        55.168718
+                  ]
+            },
+            {
+                  "name": "Cheliabinskaia sinagoga",
+                  "text": "Eine 1905 erbaute Backsteinsynagoge mit maurischen Architekturelementen.",
+                  "category": "landmark",
+                  "coords": [
+                        61.407406,
+                        55.167021
+                  ]
+            },
+            {
+                  "name": "Cheliabinskii gorodskoi bor",
+                  "text": "Ein großes Naturschutzgebiet mit einem Relikt-Kiefernwald innerhalb der Stadtgrenzen.",
+                  "category": "natural",
+                  "coords": [
+                        61.34398,
+                        55.145591
+                  ]
+            },
+            {
+                  "name": "Cheliabinskii zoopark",
+                  "text": "Dieser 1996 eröffnete Zoo beherbergt über 100 Tierarten in weitläufigen Gehegen.",
+                  "category": "recreational",
+                  "coords": [
+                        61.367414,
+                        55.168514
+                  ]
+            },
+            {
+                  "name": "Cheliabinskii gosudarstvennyi muzei izobrazitel'nykh iskusstv (vystavochnyi zal)",
+                  "text": "Diese 1940 gegründete Kunstgalerie präsentiert wechselnde Ausstellungen russischer Malerei.",
+                  "category": "museum",
+                  "coords": [
+                        61.404379,
+                        55.159638
+                  ]
+            },
+            {
+                  "name": "Cheliabinskii gosudarstvennyi muzei izobrazitel'nykh iskusstv (kartinnaia galereia)",
+                  "text": "Die Gemäldegalerie zeigt eine bedeutende Sammlung klassischer russischer und europäischer Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        61.401836,
+                        55.168209
+                  ]
+            },
+            {
+                  "name": "Muzei zheleznodorozhnoi tekhniki",
+                  "text": "Dieses 2005 eröffnete Freilichtmuseum zeigt historische Dampflokomotiven und Waggons.",
+                  "category": "museum",
+                  "coords": [
+                        61.411039,
+                        55.133959
+                  ]
+            },
+            {
+                  "name": "Gosudarstvennyi istoricheskii muzei Iuzhnogo Urala",
+                  "text": "Das 1923 gegründete Museum bewahrt regionale Artefakte, darunter das berühmte Fragment des Tscheljabinsk-Meteors.",
+                  "category": "museum",
+                  "coords": [
+                        61.397525,
+                        55.168304
+                  ]
+            },
+            {
+                  "name": "OKNO",
+                  "text": "Dieses 2001 eröffnete Zentrum für zeitgenössische Kunst konzentriert sich auf neue Medien und lokale Talente.",
+                  "category": "cultural",
+                  "coords": [
+                        61.370942,
+                        55.156586
+                  ]
+            },
+            {
+                  "name": "Memorial'nyi kompleks <<Zolotaia gora>>",
+                  "text": "Dieser Gedenkpark liegt an einem ehemaligen Goldbergwerk und erinnert an die Opfer politischer Repressionen.",
+                  "category": "park",
+                  "coords": [
+                        61.28291,
+                        55.161214
+                  ]
+            },
+            {
+                  "name": "Zdanie byvshego Real'nogo uchilishcha",
+                  "text": "Dieses markante Backsteingebäude aus dem Jahr 1907 beherbergte einst eine renommierte Realschule.",
+                  "category": "landmark",
+                  "coords": [
+                        61.392847,
+                        55.15902
+                  ]
+            },
+            {
+                  "name": "Muzei pochtovoi sviazi",
+                  "text": "Das Museum dokumentiert die Entwicklung des Postwesens im Ural mit historischen Stempeln und Uniformen.",
+                  "category": "museum",
+                  "coords": [
+                        61.384249,
+                        55.160477
+                  ]
+            },
+            {
+                  "name": "Muzei zerna",
+                  "text": "Dieses spezialisierte Museum zeigt die Geschichte des Ackerbaus und verschiedene Getreidesorten der Region.",
+                  "category": "museum",
+                  "coords": [
+                        61.385381,
+                        55.16804
+                  ]
+            },
+            {
+                  "name": "Muzei istorii mody XX veka",
+                  "text": "Die exhibition verfolgt die Entwicklung von Stil und Kleidung im Laufe des 20. Jahrhunderts.",
+                  "category": "museum",
+                  "coords": [
+                        61.320213,
+                        55.198505
+                  ]
+            },
+            {
+                  "name": "Cheliabinskii muzei lesa",
+                  "text": "Das Forstmuseum präsentiert die Flora der Uralwälder und Werkzeuge der Holzverarbeitung.",
+                  "category": "museum",
+                  "coords": [
+                        61.367813,
+                        55.141421
+                  ]
+            },
+            {
+                  "name": "Muzei arkheologii i etnografii ChelGU",
+                  "text": "Das Universitätsmuseum bewahrt archäologische Funde aus bronzezeitlichen Siedlungen des Süd-Urals auf.",
+                  "category": "museum",
+                  "coords": [
+                        61.319029,
+                        55.177932
+                  ]
+            },
+            {
+                  "name": "Tsentr istoricheskogo naslediia IuUZhD",
+                  "text": "Dieses Zentrum widmet sich der technischen Geschichte und den Pionieren der Südural-Eisenbahn.",
+                  "category": "museum",
+                  "coords": [
+                        61.413386,
+                        55.136933
+                  ]
+            },
+            {
+                  "name": "Pozharno-tekhnicheskaia vystavka Cheliabinskoi oblasti",
+                  "text": "Die Ausstellung zeigt historische Feuerlöschfahrzeuge und die Entwicklung der Brandbekämpfungstechnik.",
+                  "category": "museum",
+                  "coords": [
+                        61.408998,
+                        55.156511
+                  ]
+            },
+            {
+                  "name": "poselenie <<Universitet>>",
+                  "text": "Diese Ausgrabungsstätte legt die Überreste einer antiken Siedlung im Stadtgebiet frei.",
+                  "category": "historical",
+                  "coords": [
+                        61.315046,
+                        55.170207
+                  ]
+            },
+            {
+                  "name": "mini",
+                  "text": "Dieses kleine Theater bietet eine intime Bühne für experimentelle und zeitgenössische Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        61.408563,
+                        55.154986
+                  ]
+            },
+            {
+                  "name": "Cheliabinskii gosudarstvennyi dramaticheskii <<Kamernyi teatr>>",
+                  "text": "Das 1988 gegründete Kammertheater ist bekannt für seine anspruchsvollen Schauspielinszenierungen in kleinem Rahmen.",
+                  "category": "cultural",
+                  "coords": [
+                        61.404076,
+                        55.165813
+                  ]
+            },
+            {
+                  "name": "Cheliabinskii teatr sovremennogo tantsa",
+                  "text": "Diese professionelle Kompanie widmet sich innovativen Formen des modernen choreografischen Tanzes.",
+                  "category": "cultural",
+                  "coords": [
+                        61.412555,
+                        55.164177
+                  ]
+            },
+            {
+                  "name": "Uchebnyi teatr <<Debiut>>",
+                  "text": "Das Übungstheater dient als Plattform für junge Schauspieltalente und studentische Produktionen.",
+                  "category": "cultural",
+                  "coords": [
+                        61.411649,
+                        55.154035
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzei istorii Iuzhno-Ural'skoi zheleznoi dorogi",
+                  "text": "Szabadtéri múzeum, amely történelmi szovjet gőz- és dízelmozdonyokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        61.4123,
+                        55.149335
+                  ]
+            },
+            {
+                  "name": "I. V. Kurchatovu",
+                  "text": "1986-os emlékmű, amely Igor Kurcsatov fizikust ábrázolja az atom két hasított félgömbje között.",
+                  "category": "historical",
+                  "coords": [
+                        61.362653,
+                        55.15931
+                  ]
+            },
+            {
+                  "name": "Maneken",
+                  "text": "Kísérleti stúdiószínház, amely kreatív és rendhagyó előadásairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        61.4092,
+                        55.158056
+                  ]
+            },
+            {
+                  "name": "Cheliabinskii gosudarstvennyi dramaticheskii molodezhnyi teatr",
+                  "text": "Ifjúsági színház, amely az 1903-ban épült történelmi „Népház” épületében működik.",
+                  "category": "cultural",
+                  "coords": [
+                        61.400517,
+                        55.159424
+                  ]
+            },
+            {
+                  "name": "Cheliabinskii gosudarstvennyi akademicheskii teatr dramy imeni Nauma Orlova",
+                  "text": "Az állami drámai színház egy jellegzetes modernista márványépületben kapott helyet.",
+                  "category": "cultural",
+                  "coords": [
+                        61.402844,
+                        55.155973
+                  ]
+            },
+            {
+                  "name": "Khram Aleksandra Nevskogo",
+                  "text": "1911-ben, Alekszandr Pomerancev tervei alapján épült, bizánci stílusú tégla templom.",
+                  "category": "religious",
+                  "coords": [
+                        61.390986,
+                        55.162551
+                  ]
+            },
+            {
+                  "name": "Sviato-Troitskaia tserkov'",
+                  "text": "Impozáns, vörös téglából épült orosz ortodox templom, amelyet 1914-ben szenteltek fel.",
+                  "category": "religious",
+                  "coords": [
+                        61.399092,
+                        55.174224
+                  ]
+            },
+            {
+                  "name": "Cheliabinskii gosudarstvennyi oblastnoi teatr kukol imeni V. Vol'khovskogo",
+                  "text": "Regionális bábszínház, amely művészi előadásokra specializálódott gyermekek és felnőttek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        61.398675,
+                        55.180518
+                  ]
+            },
+            {
+                  "name": "Zal organnoi i kamernoi muzyki <<Rodina>>",
+                  "text": "1950-es építésű hangversenyterem, amely egy nagy sípos orgonával rendelkezik.",
+                  "category": "cultural",
+                  "coords": [
+                        61.399421,
+                        55.171464
+                  ]
+            },
+            {
+                  "name": "Cheliabinskii gosudarstvennyi akademicheskii teatr opery i baleta imeni M. I. Glinki",
+                  "text": "Neoklasszicista stílusú színház pompás oszlopsorral, amelyet 1956-ban nyitottak meg.",
+                  "category": "cultural",
+                  "coords": [
+                        61.40199,
+                        55.166493
+                  ]
+            },
+            {
+                  "name": "Khram Neporochnogo Zachatiia Presviatoi Devy Marii",
+                  "text": "Modern, vörös téglából épült katolikus templom, amely 1999-ben készült Franz Wesinger tervei alapján.",
+                  "category": "religious",
+                  "coords": [
+                        61.383972,
+                        55.243084
+                  ]
+            },
+            {
+                  "name": "Istrebitel' I-16",
+                  "text": "Az 1930-as évek ikonikus repülőgépének, a Polikarpov I-16-os vadászgépnek állított emlékmű.",
+                  "category": "landmark",
+                  "coords": [
+                        61.375009,
+                        55.143852
+                  ]
+            },
+            {
+                  "name": "Parovoz Es-350 <<Krasnyi kommunar>>",
+                  "text": "Az ESZ-350-es mozdony emlékműve, amely az első volt, amit a cseljabinszki depóban megjavítottak.",
+                  "category": "landmark",
+                  "coords": [
+                        61.407557,
+                        55.153162
+                  ]
+            },
+            {
+                  "name": "Elevator",
+                  "text": "Elhagyatott, 1916-os vasbeton építmény, amely egykor a város legmagasabb épülete volt.",
+                  "category": "landmark",
+                  "coords": [
+                        61.400221,
+                        55.153761
+                  ]
+            },
+            {
+                  "name": "Troitskii most",
+                  "text": "Történelmi, 1924-ben épült vasbeton híd a Miassz folyó felett.",
+                  "category": "landmark",
+                  "coords": [
+                        61.400255,
+                        55.168718
+                  ]
+            },
+            {
+                  "name": "Cheliabinskaia sinagoga",
+                  "text": "1905-ben épült téglazsinagóga mór építészeti elemekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        61.407406,
+                        55.167021
+                  ]
+            },
+            {
+                  "name": "Cheliabinskii gorodskoi bor",
+                  "text": "Városhatáron belüli, reliktum erdeifenyő-erdőt magában foglaló nagy természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        61.34398,
+                        55.145591
+                  ]
+            },
+            {
+                  "name": "Cheliabinskii zoopark",
+                  "text": "Az 1996-ban alapított állatkert több mint száz állatfajnak ad otthont tágas kifutóiban.",
+                  "category": "recreational",
+                  "coords": [
+                        61.367414,
+                        55.168514
+                  ]
+            },
+            {
+                  "name": "Cheliabinskii gosudarstvennyi muzei izobrazitel'nykh iskusstv (vystavochnyi zal)",
+                  "text": "Az 1940-ben alapított művészeti múzeum kiállítóterme változatos orosz festészeti tárlatoknak ad helyet.",
+                  "category": "museum",
+                  "coords": [
+                        61.404379,
+                        55.159638
+                  ]
+            },
+            {
+                  "name": "Cheliabinskii gosudarstvennyi muzei izobrazitel'nykh iskusstv (kartinnaia galereia)",
+                  "text": "A képtár az orosz és európai klasszikus művészet jelentős gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        61.401836,
+                        55.168209
+                  ]
+            },
+            {
+                  "name": "Muzei zheleznodorozhnoi tekhniki",
+                  "text": "A 2005-ben megnyitott szabadtéri múzeumban régi gőzmozdonyokat és vasúti kocsikat láthatunk.",
+                  "category": "museum",
+                  "coords": [
+                        61.411039,
+                        55.133959
+                  ]
+            },
+            {
+                  "name": "Gosudarstvennyi istoricheskii muzei Iuzhnogo Urala",
+                  "text": "Az 1923-as alapítású múzeum őrzi a régió kincseit, köztük a híres cseljabinszki meteorit egy darabját.",
+                  "category": "museum",
+                  "coords": [
+                        61.397525,
+                        55.168304
+                  ]
+            },
+            {
+                  "name": "OKNO",
+                  "text": "Ez a 2001-ben nyílt kortárs művészeti központ az új médiára és a helyi tehetségekre fókuszál.",
+                  "category": "cultural",
+                  "coords": [
+                        61.370942,
+                        55.156586
+                  ]
+            },
+            {
+                  "name": "Memorial'nyi kompleks <<Zolotaia gora>>",
+                  "text": "Ez az egykori aranybánya helyén kialakított emlékpark a politikai elnyomás áldozatainak állít emléket.",
+                  "category": "park",
+                  "coords": [
+                        61.28291,
+                        55.161214
+                  ]
+            },
+            {
+                  "name": "Zdanie byvshego Real'nogo uchilishcha",
+                  "text": "Ez a jellegzetes, 1907-ben épült téglaépület egykor neves reáliskolának adott otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        61.392847,
+                        55.15902
+                  ]
+            },
+            {
+                  "name": "Muzei pochtovoi sviazi",
+                  "text": "A múzeum az uráli postai szolgáltatások fejlődését mutatja be régi bélyegzőkön és egyenruhákon keresztül.",
+                  "category": "museum",
+                  "coords": [
+                        61.384249,
+                        55.160477
+                  ]
+            },
+            {
+                  "name": "Muzei zerna",
+                  "text": "Ez a specializált múzeum a mezőgazdaság történetét és a régió gabonafajtáit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        61.385381,
+                        55.16804
+                  ]
+            },
+            {
+                  "name": "Muzei istorii mody XX veka",
+                  "text": "A kiállítás a stílus és az öltözködés fejlődését követi nyomon a 20. század folyamán.",
+                  "category": "museum",
+                  "coords": [
+                        61.320213,
+                        55.198505
+                  ]
+            },
+            {
+                  "name": "Cheliabinskii muzei lesa",
+                  "text": "Az erdészeti múzeum az uráli erdők élővilágát és a fafeldolgozás eszközeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        61.367813,
+                        55.141421
+                  ]
+            },
+            {
+                  "name": "Muzei arkheologii i etnografii ChelGU",
+                  "text": "Az egyetemi múzeum a Dél-Urál bronzkori településeiről származó régészeti leleteket őriz.",
+                  "category": "museum",
+                  "coords": [
+                        61.319029,
+                        55.177932
+                  ]
+            },
+            {
+                  "name": "Tsentr istoricheskogo naslediia IuUZhD",
+                  "text": "Ez a központ a dél-uráli vasút műszaki történetének és úttörőinek szentelt tárlat.",
+                  "category": "museum",
+                  "coords": [
+                        61.413386,
+                        55.136933
+                  ]
+            },
+            {
+                  "name": "Pozharno-tekhnicheskaia vystavka Cheliabinskoi oblasti",
+                  "text": "A kiállítás régi tűzoltóautókat és a tűzoltási technika fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        61.408998,
+                        55.156511
+                  ]
+            },
+            {
+                  "name": "poselenie <<Universitet>>",
+                  "text": "Ez a régészeti helyszín egy ősi település maradványait tárja fel a város területén.",
+                  "category": "historical",
+                  "coords": [
+                        61.315046,
+                        55.170207
+                  ]
+            },
+            {
+                  "name": "mini",
+                  "text": "Ez a kis színház meghitt színpadot kínál kísérleti és kortárs előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        61.408563,
+                        55.154986
+                  ]
+            },
+            {
+                  "name": "Cheliabinskii gosudarstvennyi dramaticheskii <<Kamernyi teatr>>",
+                  "text": "Az 1988-ban alapított kamaraszínház igényes drámai előadásairól ismert, családias környezetben.",
+                  "category": "cultural",
+                  "coords": [
+                        61.404076,
+                        55.165813
+                  ]
+            },
+            {
+                  "name": "Cheliabinskii teatr sovremennogo tantsa",
+                  "text": "Ez a professzionális társulat a modern koreográfiai táncművészet innovatív formáinak szenteli magát.",
+                  "category": "cultural",
+                  "coords": [
+                        61.412555,
+                        55.164177
+                  ]
+            },
+            {
+                  "name": "Uchebnyi teatr <<Debiut>>",
+                  "text": "Ez az oktatószínház platformként szolgál fiatal színésztehetségek és egyetemi produkciók számára.",
+                  "category": "cultural",
+                  "coords": [
+                        61.411649,
+                        55.154035
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzei istorii Iuzhno-Ural'skoi zheleznoi dorogi",
+                  "text": "Un muzeu în aer liber care expune locomotive sovietice istorice cu abur și diesel.",
+                  "category": "museum",
+                  "coords": [
+                        61.4123,
+                        55.149335
+                  ]
+            },
+            {
+                  "name": "I. V. Kurchatovu",
+                  "text": "Un monument din 1986 care îl înfățișează pe fizicianul Igor Kurceatov între două emisfere scindate ale unui atom.",
+                  "category": "historical",
+                  "coords": [
+                        61.362653,
+                        55.15931
+                  ]
+            },
+            {
+                  "name": "Maneken",
+                  "text": "Un teatru de studio experimental cunoscut pentru montările sale creative și neconvenționale.",
+                  "category": "cultural",
+                  "coords": [
+                        61.4092,
+                        55.158056
+                  ]
+            },
+            {
+                  "name": "Cheliabinskii gosudarstvennyi dramaticheskii molodezhnyi teatr",
+                  "text": "Un teatru pentru tineret găzduit în clădirea istorică a „Casei Poporului”, construită în 1903.",
+                  "category": "cultural",
+                  "coords": [
+                        61.400517,
+                        55.159424
+                  ]
+            },
+            {
+                  "name": "Cheliabinskii gosudarstvennyi akademicheskii teatr dramy imeni Nauma Orlova",
+                  "text": "Teatrul dramatic de stat este găzduit într-o clădire modernistă impunătoare din marmură.",
+                  "category": "cultural",
+                  "coords": [
+                        61.402844,
+                        55.155973
+                  ]
+            },
+            {
+                  "name": "Khram Aleksandra Nevskogo",
+                  "text": "O biserică din cărămidă în stil bizantin, finalizată în 1911 după planurile lui Alexandr Pomeranțev.",
+                  "category": "religious",
+                  "coords": [
+                        61.390986,
+                        55.162551
+                  ]
+            },
+            {
+                  "name": "Sviato-Troitskaia tserkov'",
+                  "text": "O biserică ortodoxă rusă impunătoare din cărămidă roșie, sfințită în 1914.",
+                  "category": "religious",
+                  "coords": [
+                        61.399092,
+                        55.174224
+                  ]
+            },
+            {
+                  "name": "Cheliabinskii gosudarstvennyi oblastnoi teatr kukol imeni V. Vol'khovskogo",
+                  "text": "Un teatru regional specializat în spectacole artistice de păpuși pentru copii și adulți.",
+                  "category": "cultural",
+                  "coords": [
+                        61.398675,
+                        55.180518
+                  ]
+            },
+            {
+                  "name": "Zal organnoi i kamernoi muzyki <<Rodina>>",
+                  "text": "O sală de concerte din 1950 care găzduiește o orgă mare cu tuburi.",
+                  "category": "cultural",
+                  "coords": [
+                        61.399421,
+                        55.171464
+                  ]
+            },
+            {
+                  "name": "Cheliabinskii gosudarstvennyi akademicheskii teatr opery i baleta imeni M. I. Glinki",
+                  "text": "Un teatru neoclasic cu o colonadă grandioasă, inaugurat în 1956.",
+                  "category": "cultural",
+                  "coords": [
+                        61.40199,
+                        55.166493
+                  ]
+            },
+            {
+                  "name": "Khram Neporochnogo Zachatiia Presviatoi Devy Marii",
+                  "text": "O biserică catolică modernă din cărămidă roșie, construită în 1999 după planurile lui Franz Wesinger.",
+                  "category": "religious",
+                  "coords": [
+                        61.383972,
+                        55.243084
+                  ]
+            },
+            {
+                  "name": "Istrebitel' I-16",
+                  "text": "Un monument dedicat avionului de vânătoare Polikarpov I-16, o aeronavă iconică din anii 1930.",
+                  "category": "landmark",
+                  "coords": [
+                        61.375009,
+                        55.143852
+                  ]
+            },
+            {
+                  "name": "Parovoz Es-350 <<Krasnyi kommunar>>",
+                  "text": "Un monument al locomotivei ES-350, prima reparată la depoul din Celeabinsk.",
+                  "category": "landmark",
+                  "coords": [
+                        61.407557,
+                        55.153162
+                  ]
+            },
+            {
+                  "name": "Elevator",
+                  "text": "O structură abandonată din beton armat din 1916, care a fost odată cea mai înaltă clădire din oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        61.400221,
+                        55.153761
+                  ]
+            },
+            {
+                  "name": "Troitskii most",
+                  "text": "Un pod istoric din beton armat construit în 1924, care traversează râul Miass.",
+                  "category": "landmark",
+                  "coords": [
+                        61.400255,
+                        55.168718
+                  ]
+            },
+            {
+                  "name": "Cheliabinskaia sinagoga",
+                  "text": "O sinagogă din cărămidă construită în 1905, cu elemente arhitecturale maure.",
+                  "category": "landmark",
+                  "coords": [
+                        61.407406,
+                        55.167021
+                  ]
+            },
+            {
+                  "name": "Cheliabinskii gorodskoi bor",
+                  "text": "O rezervație naturală mare care cuprinde o pădure de pini relicvă în limitele orașului.",
+                  "category": "natural",
+                  "coords": [
+                        61.34398,
+                        55.145591
+                  ]
+            },
+            {
+                  "name": "Cheliabinskii zoopark",
+                  "text": "Deschisă în 1996, această grădină zoologică găzduiește peste 100 de specii de animale.",
+                  "category": "recreational",
+                  "coords": [
+                        61.367414,
+                        55.168514
+                  ]
+            },
+            {
+                  "name": "Cheliabinskii gosudarstvennyi muzei izobrazitel'nykh iskusstv (vystavochnyi zal)",
+                  "text": "Înființată în 1940, această sală de expoziții prezintă colecții diverse de artă rusă.",
+                  "category": "museum",
+                  "coords": [
+                        61.404379,
+                        55.159638
+                  ]
+            },
+            {
+                  "name": "Cheliabinskii gosudarstvennyi muzei izobrazitel'nykh iskusstv (kartinnaia galereia)",
+                  "text": "Această galerie de artă deține o colecție importantă de pictură clasică rusă și europeană.",
+                  "category": "museum",
+                  "coords": [
+                        61.401836,
+                        55.168209
+                  ]
+            },
+            {
+                  "name": "Muzei zheleznodorozhnoi tekhniki",
+                  "text": "Deschis în 2005, acest muzeu în aer liber expune locomotive cu abur și vagoane istorice.",
+                  "category": "museum",
+                  "coords": [
+                        61.411039,
+                        55.133959
+                  ]
+            },
+            {
+                  "name": "Gosudarstvennyi istoricheskii muzei Iuzhnogo Urala",
+                  "text": "Fondat în 1923, muzeul păstrează artefacte regionale, inclusiv fragmentul faimosului meteorit de la Celeabinsk.",
+                  "category": "museum",
+                  "coords": [
+                        61.397525,
+                        55.168304
+                  ]
+            },
+            {
+                  "name": "OKNO",
+                  "text": "Deschis în 2001, acest centru de artă contemporană se concentrează pe noile media și talentele locale.",
+                  "category": "cultural",
+                  "coords": [
+                        61.370942,
+                        55.156586
+                  ]
+            },
+            {
+                  "name": "Memorial'nyi kompleks <<Zolotaia gora>>",
+                  "text": "Situat pe locul unei foste mine de aur, acest parc memorial onorează victimele represiunilor politice.",
+                  "category": "park",
+                  "coords": [
+                        61.28291,
+                        55.161214
+                  ]
+            },
+            {
+                  "name": "Zdanie byvshego Real'nogo uchilishcha",
+                  "text": "Această clădire distinctivă din cărămidă, datând din 1907, a găzduit odinioară o școală reală de renume.",
+                  "category": "landmark",
+                  "coords": [
+                        61.392847,
+                        55.15902
+                  ]
+            },
+            {
+                  "name": "Muzei pochtovoi sviazi",
+                  "text": "Muzeul documentează evoluția serviciilor poștale din Urali prin ștampile și uniforme istorice.",
+                  "category": "museum",
+                  "coords": [
+                        61.384249,
+                        55.160477
+                  ]
+            },
+            {
+                  "name": "Muzei zerna",
+                  "text": "Acest muzeu specializat prezintă istoria agriculturii și diversele soiuri de cereale din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        61.385381,
+                        55.16804
+                  ]
+            },
+            {
+                  "name": "Muzei istorii mody XX veka",
+                  "text": "Expoziția urmărește evoluția stilului și a vestimentației pe parcursul secolului al XX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        61.320213,
+                        55.198505
+                  ]
+            },
+            {
+                  "name": "Cheliabinskii muzei lesa",
+                  "text": "Muzeul forestier prezintă flora pădurilor din Urali și unelte de prelucrare a lemnului.",
+                  "category": "museum",
+                  "coords": [
+                        61.367813,
+                        55.141421
+                  ]
+            },
+            {
+                  "name": "Muzei arkheologii i etnografii ChelGU",
+                  "text": "Muzeul universitar păstrează descoperiri arheologice din așezările epocii bronzului din Uralul de Sud.",
+                  "category": "museum",
+                  "coords": [
+                        61.319029,
+                        55.177932
+                  ]
+            },
+            {
+                  "name": "Tsentr istoricheskogo naslediia IuUZhD",
+                  "text": "Acest centru este dedicat istoriei tehnice și pionierilor Căii Ferate din Uralul de Sud.",
+                  "category": "museum",
+                  "coords": [
+                        61.413386,
+                        55.136933
+                  ]
+            },
+            {
+                  "name": "Pozharno-tekhnicheskaia vystavka Cheliabinskoi oblasti",
+                  "text": "Expoziția prezintă vehicule istorice de pompieri și evoluția tehnicilor de combatere a incendiilor.",
+                  "category": "museum",
+                  "coords": [
+                        61.408998,
+                        55.156511
+                  ]
+            },
+            {
+                  "name": "poselenie <<Universitet>>",
+                  "text": "Acest sit arheologic scoate la iveală vestigiile unei așezări antice din zona urbană.",
+                  "category": "historical",
+                  "coords": [
+                        61.315046,
+                        55.170207
+                  ]
+            },
+            {
+                  "name": "mini",
+                  "text": "Acest teatru mic oferă o scenă intimă pentru spectacole experimentale și contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        61.408563,
+                        55.154986
+                  ]
+            },
+            {
+                  "name": "Cheliabinskii gosudarstvennyi dramaticheskii <<Kamernyi teatr>>",
+                  "text": "Fondat în 1988, acest teatru de cameră este cunoscut pentru producțiile dramatice sofisticate într-un cadru intim.",
+                  "category": "cultural",
+                  "coords": [
+                        61.404076,
+                        55.165813
+                  ]
+            },
+            {
+                  "name": "Cheliabinskii teatr sovremennogo tantsa",
+                  "text": "Această companie profesionistă este dedicată formelor inovatoare ale dansului coregrafic modern.",
+                  "category": "cultural",
+                  "coords": [
+                        61.412555,
+                        55.164177
+                  ]
+            },
+            {
+                  "name": "Uchebnyi teatr <<Debiut>>",
+                  "text": "Acest teatru de exercițiu servește ca platformă pentru tinerii actori și producțiile studențești.",
+                  "category": "cultural",
+                  "coords": [
+                        61.411649,
+                        55.154035
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chelyabinsk railway history museum",
+                  "text": "An outdoor museum showcasing historic Soviet steam and diesel locomotives.",
+                  "category": "museum",
+                  "coords": [
+                        61.4123,
+                        55.149335
+                  ]
+            },
+            {
+                  "name": "Igor Kurchatov",
+                  "text": "A 1986 monument depicting the physicist Igor Kurchatov standing between two split hemispheres of an atom.",
+                  "category": "historical",
+                  "coords": [
+                        61.362653,
+                        55.15931
+                  ]
+            },
+            {
+                  "name": "Maneken",
+                  "text": "An experimental studio theater known for its creative and unconventional stagings.",
+                  "category": "cultural",
+                  "coords": [
+                        61.4092,
+                        55.158056
+                  ]
+            },
+            {
+                  "name": "Cheliabinskii gosudarstvennyi dramaticheskii molodezhnyi teatr",
+                  "text": "A youth theater housed in the historic People's House building, dating back to 1903.",
+                  "category": "cultural",
+                  "coords": [
+                        61.400517,
+                        55.159424
+                  ]
+            },
+            {
+                  "name": "Chelyabinsk State Academic Drama Theater named after Naum Orlov",
+                  "text": "The state drama theater is housed in a striking modernist marble building.",
+                  "category": "cultural",
+                  "coords": [
+                        61.402844,
+                        55.155973
+                  ]
+            },
+            {
+                  "name": "Temple of Alexander Nevsky",
+                  "text": "A red-brick Byzantine-style church designed by Alexander Pomerantsev and completed in 1911.",
+                  "category": "religious",
+                  "coords": [
+                        61.390986,
+                        55.162551
+                  ]
+            },
+            {
+                  "name": "Sviato-Troitskaia tserkov'",
+                  "text": "An imposing red-brick Russian Orthodox church consecrated in 1914.",
+                  "category": "religious",
+                  "coords": [
+                        61.399092,
+                        55.174224
+                  ]
+            },
+            {
+                  "name": "Cheliabinskii gosudarstvennyi oblastnoi teatr kukol imeni V. Vol'khovskogo",
+                  "text": "A regional theater specializing in artistic puppet performances for children and adults.",
+                  "category": "cultural",
+                  "coords": [
+                        61.398675,
+                        55.180518
+                  ]
+            },
+            {
+                  "name": "Zal organnoi i kamernoi muzyki <<Rodina>>",
+                  "text": "A concert hall built in 1950 that features a large pipe organ.",
+                  "category": "cultural",
+                  "coords": [
+                        61.399421,
+                        55.171464
+                  ]
+            },
+            {
+                  "name": "Chelyabinsk State Academic Opera and Ballet Theater",
+                  "text": "A neoclassical theater with a grand colonnade, opened in 1956.",
+                  "category": "cultural",
+                  "coords": [
+                        61.40199,
+                        55.166493
+                  ]
+            },
+            {
+                  "name": "Temple of the Immaculate Conception of the Blessed Virgin Mary",
+                  "text": "A modern red-brick Catholic church built in 1999 according to the designs of Franz Wesinger.",
+                  "category": "religious",
+                  "coords": [
+                        61.383972,
+                        55.243084
+                  ]
+            },
+            {
+                  "name": "Istrebitel' I-16",
+                  "text": "A monument featuring the Polikarpov I-16 fighter plane, an iconic aircraft of the 1930s.",
+                  "category": "landmark",
+                  "coords": [
+                        61.375009,
+                        55.143852
+                  ]
+            },
+            {
+                  "name": "Locomotive ES-350 «Red Kommunar»",
+                  "text": "A monument of the ES-350 locomotive, the first to be repaired at the Chelyabinsk depot.",
+                  "category": "landmark",
+                  "coords": [
+                        61.407557,
+                        55.153162
+                  ]
+            },
+            {
+                  "name": "Chelyabinsk grain elevator",
+                  "text": "An abandoned 1916 reinforced concrete structure that was once the tallest building in the city.",
+                  "category": "landmark",
+                  "coords": [
+                        61.400221,
+                        55.153761
+                  ]
+            },
+            {
+                  "name": "Trinity Bridge",
+                  "text": "A historic reinforced concrete bridge built in 1924, spanning the Miass River.",
+                  "category": "landmark",
+                  "coords": [
+                        61.400255,
+                        55.168718
+                  ]
+            },
+            {
+                  "name": "Chelyabinsk Synagogue",
+                  "text": "A red-brick synagogue built in 1905 featuring Moorish architectural elements.",
+                  "category": "landmark",
+                  "coords": [
+                        61.407406,
+                        55.167021
+                  ]
+            },
+            {
+                  "name": "Chelyabinsk city boron",
+                  "text": "A large nature reserve featuring a relict pine forest within the city limits.",
+                  "category": "natural",
+                  "coords": [
+                        61.34398,
+                        55.145591
+                  ]
+            },
+            {
+                  "name": "Chelyabinsk Zoo",
+                  "text": "Founded in 1996, this zoo houses over 100 animal species in spacious enclosures.",
+                  "category": "recreational",
+                  "coords": [
+                        61.367414,
+                        55.168514
+                  ]
+            },
+            {
+                  "name": "Cheliabinskii gosudarstvennyi muzei izobrazitel'nykh iskusstv (vystavochnyi zal)",
+                  "text": "Established in 1940, this exhibition hall showcases rotating displays of Russian painting.",
+                  "category": "museum",
+                  "coords": [
+                        61.404379,
+                        55.159638
+                  ]
+            },
+            {
+                  "name": "Cheliabinskii gosudarstvennyi muzei izobrazitel'nykh iskusstv (kartinnaia galereia)",
+                  "text": "The picture gallery features a significant collection of classical Russian and European art.",
+                  "category": "museum",
+                  "coords": [
+                        61.401836,
+                        55.168209
+                  ]
+            },
+            {
+                  "name": "Muzei zheleznodorozhnoi tekhniki",
+                  "text": "Opened in 2005, this open-air museum displays historic steam locomotives and railcars.",
+                  "category": "museum",
+                  "coords": [
+                        61.411039,
+                        55.133959
+                  ]
+            },
+            {
+                  "name": "State Historical Museum of the Southern Urals",
+                  "text": "Founded in 1923, the museum houses regional artifacts including the famous Chelyabinsk meteor fragment.",
+                  "category": "museum",
+                  "coords": [
+                        61.397525,
+                        55.168304
+                  ]
+            },
+            {
+                  "name": "OKNO Gallery",
+                  "text": "Opened in 2001, this contemporary arts centre focuses on new media and local talent.",
+                  "category": "cultural",
+                  "coords": [
+                        61.370942,
+                        55.156586
+                  ]
+            },
+            {
+                  "name": "Memorial complex \"Golden Mountain\"",
+                  "text": "Located at a former gold mine, this memorial park honors the victims of political repression.",
+                  "category": "park",
+                  "coords": [
+                        61.28291,
+                        55.161214
+                  ]
+            },
+            {
+                  "name": "Zdanie byvshego Real'nogo uchilishcha",
+                  "text": "This distinctive brick building from 1907 formerly housed a prestigious vocational school.",
+                  "category": "landmark",
+                  "coords": [
+                        61.392847,
+                        55.15902
+                  ]
+            },
+            {
+                  "name": "Muzei pochtovoi sviazi",
+                  "text": "The museum documents the evolution of Ural postal services with historic stamps and uniforms.",
+                  "category": "museum",
+                  "coords": [
+                        61.384249,
+                        55.160477
+                  ]
+            },
+            {
+                  "name": "Muzei zerna",
+                  "text": "This specialized museum showcases the history of farming and regional grain varieties.",
+                  "category": "museum",
+                  "coords": [
+                        61.385381,
+                        55.16804
+                  ]
+            },
+            {
+                  "name": "Muzei istorii mody XX veka",
+                  "text": "The exhibition traces the evolution of style and clothing throughout the 20th century.",
+                  "category": "museum",
+                  "coords": [
+                        61.320213,
+                        55.198505
+                  ]
+            },
+            {
+                  "name": "Cheliabinskii muzei lesa",
+                  "text": "The forest museum presents the flora of Ural woodlands and woodworking tools.",
+                  "category": "museum",
+                  "coords": [
+                        61.367813,
+                        55.141421
+                  ]
+            },
+            {
+                  "name": "Muzei arkheologii i etnografii ChelGU",
+                  "text": "The university museum preserves archaeological finds from Bronze Age settlements of the Southern Urals.",
+                  "category": "museum",
+                  "coords": [
+                        61.319029,
+                        55.177932
+                  ]
+            },
+            {
+                  "name": "Tsentr istoricheskogo naslediia IuUZhD",
+                  "text": "This center is dedicated to the technical history and pioneers of the South Urals Railway.",
+                  "category": "museum",
+                  "coords": [
+                        61.413386,
+                        55.136933
+                  ]
+            },
+            {
+                  "name": "Pozharno-tekhnicheskaia vystavka Cheliabinskoi oblasti",
+                  "text": "The exhibition displays historic fire engines and the evolution of firefighting technology.",
+                  "category": "museum",
+                  "coords": [
+                        61.408998,
+                        55.156511
+                  ]
+            },
+            {
+                  "name": "poselenie <<Universitet>>",
+                  "text": "This archaeological site uncovers the remains of an ancient settlement within the city area.",
+                  "category": "historical",
+                  "coords": [
+                        61.315046,
+                        55.170207
+                  ]
+            },
+            {
+                  "name": "mini",
+                  "text": "This small theatre provides an intimate stage for experimental and contemporary performances.",
+                  "category": "cultural",
+                  "coords": [
+                        61.408563,
+                        55.154986
+                  ]
+            },
+            {
+                  "name": "Cheliabinskii gosudarstvennyi dramaticheskii <<Kamernyi teatr>>",
+                  "text": "Founded in 1988, this chamber theatre is known for sophisticated drama productions in an intimate setting.",
+                  "category": "cultural",
+                  "coords": [
+                        61.404076,
+                        55.165813
+                  ]
+            },
+            {
+                  "name": "Cheliabinskii teatr sovremennogo tantsa",
+                  "text": "This professional company is dedicated to innovative forms of modern choreographic dance.",
+                  "category": "cultural",
+                  "coords": [
+                        61.412555,
+                        55.164177
+                  ]
+            },
+            {
+                  "name": "Uchebnyi teatr <<Debiut>>",
+                  "text": "This training theatre serves as a platform for young acting talent and student productions.",
+                  "category": "cultural",
+                  "coords": [
+                        61.411649,
+                        55.154035
+                  ]
+            }
+      ]
+},
     type: "theater",
     parent: "RU",
     name: { de: "Tscheljabinsker Oper", hu: "Cseljabinszki Operaház", ro: "Opera din Chelyabinsk", en: "Chelyabinsk Opera House" },
@@ -6549,7 +11670,1312 @@ imageHint: "Pavlovsk Palace golden facade and dome",
     image: "/poi-images/russia-voronezh-annunciation-cathedral-history-v2.webp",
   },
   {
-    id: "russia-astrakhan-kremlin-history-v2",
+    id: "russia-astrakhan-kremlin-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Astrakhanskii gosudarstvennyi teatr opery i baleta",
+                  "text": "Ein monumentales, märchenhaftes Theatergebäude in Astrachan, das zu den größten Opernhäusern Russlands zählt.",
+                  "category": "cultural",
+                  "coords": [
+                        48.044137,
+                        46.360234
+                  ]
+            },
+            {
+                  "name": "Astrachaner Staatliches Puppentheater",
+                  "text": "Ein charmantes Theater für Kinder mit farbenfrohen Puppen und einem vielfältigen Repertoire.",
+                  "category": "cultural",
+                  "coords": [
+                        48.03105,
+                        46.353293
+                  ]
+            },
+            {
+                  "name": "Astrakhanskii teatr iunogo zritelia",
+                  "text": "Ein professionelles Jugendtheater in Astrachan, das in einem historischen Stadtgebäude untergebracht ist.",
+                  "category": "cultural",
+                  "coords": [
+                        48.032553,
+                        46.346516
+                  ]
+            },
+            {
+                  "name": "Chiornaia mechet'",
+                  "text": "Eine historische tatarische Moschee in Astrachan, die im 19. Jahrhundert aus Stein neu errichtet wurde.",
+                  "category": "religious",
+                  "coords": [
+                        48.03336,
+                        46.342904
+                  ]
+            },
+            {
+                  "name": "Zelionaia mechet'",
+                  "text": "Ein seltenes Beispiel einer traditionellen Holzmoschee in Astrachan mit einem markanten grünen Minarett.",
+                  "category": "religious",
+                  "coords": [
+                        48.027754,
+                        46.342658
+                  ]
+            },
+            {
+                  "name": "Belaia mechet'",
+                  "text": "Die älteste erhaltene Moschee Astrachans, Anfang des 19. Jahrhunderts im klassizistischen Stil erbaut.",
+                  "category": "religious",
+                  "coords": [
+                        48.030484,
+                        46.342746
+                  ]
+            },
+            {
+                  "name": "Shiitskaia Mechet'",
+                  "text": "Diese Moschee wurde von der aserbaidschanischen Gemeinde erbaut und ist auch als Baku-Moschee bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        48.043313,
+                        46.341634
+                  ]
+            },
+            {
+                  "name": "Staatliches Dramentheater Astrachan",
+                  "text": "Eines der ältesten Dramentheater in der russischen Provinz, gegründet im späten 18. Jahrhundert.",
+                  "category": "cultural",
+                  "coords": [
+                        48.044398,
+                        46.34855
+                  ]
+            },
+            {
+                  "name": "Tserkov' Uspeniia Presviatoi bogoroditse Rimsko-Katolicheskoi tserkvi",
+                  "text": "Diese katholische Kirche von 1721 besticht durch ihre markante Barockfassade.",
+                  "category": "religious",
+                  "coords": [
+                        48.051025,
+                        46.345918
+                  ]
+            },
+            {
+                  "name": "Ioanno-Predtechenskii muzhskoi monastyr'",
+                  "text": "Ein orthodoxes Kloster aus dem 17. Jahrhundert, bekannt für seinen historischen Glockenturm.",
+                  "category": "religious",
+                  "coords": [
+                        48.058464,
+                        46.34901
+                  ]
+            },
+            {
+                  "name": "Astrakhanskaia telebashnia",
+                  "text": "Ein 180 Meter hoher Gittermast aus Stahl, der das Stadtbild von Astrachan dominiert.",
+                  "category": "tower",
+                  "coords": [
+                        48.050677,
+                        46.360313
+                  ]
+            },
+            {
+                  "name": "Astrachaner Kreml",
+                  "text": "Eine Steinfestung aus dem 16. Jahrhundert auf einem Hügel, das historische Herz von Astrachan.",
+                  "category": "landmark",
+                  "coords": [
+                        48.030888,
+                        46.349316
+                  ]
+            },
+            {
+                  "name": "Kolokol'nia Uspenskogo sobora <<Prechistenskie vorota>>",
+                  "text": "Ein 80 Meter hoher Glockenturm am Kreml-Tor, der als Wahrzeichen der Stadt gilt.",
+                  "category": "tower",
+                  "coords": [
+                        48.033606,
+                        46.349673
+                  ]
+            },
+            {
+                  "name": "Astrakhanskii dub",
+                  "text": "Eine denkmalgeschützte Eiche aus dem Jahr 1570, die als eine der ältesten in der Wolgaregion gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.062495,
+                        46.359727
+                  ]
+            },
+            {
+                  "name": "Dom kuptsa Tetiushinova",
+                  "text": "Ein prächtiges Holzhaus aus dem 19. Jahrhundert mit kunstvollen Schnitzereien im russischen Stil.",
+                  "category": "museum",
+                  "coords": [
+                        48.043699,
+                        46.355031
+                  ]
+            },
+            {
+                  "name": "Muzei istorii goroda",
+                  "text": "Ein Museum in einem alten Anwesen, das die soziale und wirtschaftliche Geschichte der Stadt dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        48.031598,
+                        46.35214
+                  ]
+            },
+            {
+                  "name": "Muzei liagushek i zhab \"MuLiaZh\"",
+                  "text": "Ein originelles Privatmuseum in Astrachan, das eine riesige Sammlung an Froschfiguren zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        48.030788,
+                        46.354603
+                  ]
+            },
+            {
+                  "name": "Muzei kul'tury Astrakhani",
+                  "text": "Dieses Museum zeigt Alltag, Musik und Traditionen der vielfältigen ethnischen Gruppen Astrachans.",
+                  "category": "museum",
+                  "coords": [
+                        48.034563,
+                        46.348681
+                  ]
+            },
+            {
+                  "name": "Muzei shokolada",
+                  "text": "Ein kleines Museum, in dem Besucher etwas über Süßwarengeschichte lernen und Schokoladenskulpturen sehen können.",
+                  "category": "museum",
+                  "coords": [
+                        48.039695,
+                        46.351094
+                  ]
+            },
+            {
+                  "name": "Kraevedcheskii muzei",
+                  "text": "Eines der ältesten Regionalmuseen Russlands mit bedeutenden archäologischen und naturkundlichen Exponaten.",
+                  "category": "museum",
+                  "coords": [
+                        48.04166,
+                        46.349591
+                  ]
+            },
+            {
+                  "name": "Bashnia Spaso-Preobrazhenskogo monastyria",
+                  "text": "Der einzige erhaltene weiße Steinturm eines abgerissenen Klosters aus dem 17. Jahrhundert.",
+                  "category": "castle",
+                  "coords": [
+                        48.042063,
+                        46.351271
+                  ]
+            },
+            {
+                  "name": "Muzei boevoi slavy",
+                  "text": "Ein Museum zur regionalen Militärgeschichte mit Panzern und Geschützen im Innenhof.",
+                  "category": "museum",
+                  "coords": [
+                        48.036489,
+                        46.351127
+                  ]
+            },
+            {
+                  "name": "Tseikhgauz",
+                  "text": "Ein restauriertes Arsenalgebäude im Kreml, das heute für Kunst- und Geschichtsausstellungen genutzt wird.",
+                  "category": "museum",
+                  "coords": [
+                        48.02768,
+                        46.348365
+                  ]
+            },
+            {
+                  "name": "Artilleriiskii Dvor",
+                  "text": "Ein historischer Militärhof innerhalb der Kremlmauern mit alten Kanonen und Befestigungen.",
+                  "category": "museum",
+                  "coords": [
+                        48.033422,
+                        46.350838
+                  ]
+            },
+            {
+                  "name": "Troitskii Sobor",
+                  "text": "Eine majestätische Steinkathedrale im Kreml mit mehreren Kuppeln und komplexer Architektur.",
+                  "category": "castle",
+                  "coords": [
+                        48.031872,
+                        46.350203
+                  ]
+            },
+            {
+                  "name": "Dom-muzei B.M. Kustodieva",
+                  "text": "Das ehemalige Wohnhaus des Künstlers Boris Kustodijew, das heute seine persönlichen Gegenstände zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        48.049312,
+                        46.350266
+                  ]
+            },
+            {
+                  "name": "Astrakhanskaia Kartinnaia galereia",
+                  "text": "Regionale Kunstgalerie mit einer bedeutenden Sammlung russischer Malerei und Grafik.",
+                  "category": "museum",
+                  "coords": [
+                        48.051923,
+                        46.349265
+                  ]
+            },
+            {
+                  "name": "0 kilometr",
+                  "text": "Eine dekorative Markierung im Stadtzentrum, die den Ausgangspunkt regionaler Straßen anzeigt.",
+                  "category": "historical",
+                  "coords": [
+                        48.036702,
+                        46.348772
+                  ]
+            },
+            {
+                  "name": "Sviatomu kniaziu Vladimiru",
+                  "text": "Ein großes Bronzedenkmal für Fürst Wladimir, das prominent in der Nähe der Kathedrale steht.",
+                  "category": "historical",
+                  "coords": [
+                        48.01583,
+                        46.340125
+                  ]
+            },
+            {
+                  "name": "Kurmangazy Sagyrbaevu",
+                  "text": "Ein Denkmal zu Ehren des berühmten kasachischen Komponisten und Musikers Kurmangazy Sagyrbajew.",
+                  "category": "historical",
+                  "coords": [
+                        48.048292,
+                        46.348682
+                  ]
+            },
+            {
+                  "name": "Palitra",
+                  "text": "Dieses Kunstzentrum in Astrachan präsentiert wechselnde Ausstellungen zeitgenössischer lokaler Maler.",
+                  "category": "cultural",
+                  "coords": [
+                        48.044168,
+                        46.369693
+                  ]
+            },
+            {
+                  "name": "Astrakhanskii dvorets kul'tury <<Arkadiia>>",
+                  "text": "Ein weitläufiger Kulturpalast in Astrachan, der in einem Stadtpark liegt und als Veranstaltungsort für öffentliche Feste dient.",
+                  "category": "cultural",
+                  "coords": [
+                        48.050848,
+                        46.357232
+                  ]
+            },
+            {
+                  "name": "Astrakhanskaia gosudarstvennaia filarmoniia",
+                  "text": "Die staatliche Philharmonie von Astrachan ist der wichtigste Konzertsaal der Stadt, bekannt für ihre erstklassige Akustik.",
+                  "category": "cultural",
+                  "coords": [
+                        48.040775,
+                        46.35062
+                  ]
+            },
+            {
+                  "name": "Dom tvorchestva \"Uspekh\"",
+                  "text": "Dieses kreative Zentrum in Astrachan bietet Workshops und Kurse zur künstlerischen Entwicklung von Jugendlichen an.",
+                  "category": "cultural",
+                  "coords": [
+                        47.985107,
+                        46.338602
+                  ]
+            },
+            {
+                  "name": "Letnii teatr",
+                  "text": "Dieses Freilufttheater in Astrachan bietet während der warmen Sommermonate Platz für Aufführungen unter freiem Himmel.",
+                  "category": "cultural",
+                  "coords": [
+                        47.98654,
+                        46.338283
+                  ]
+            },
+            {
+                  "name": "Tserkov' Petra i Pavla",
+                  "text": "Diese den Heiligen Peter und Paul gewidmete Kirche ist ein wichtiges religiöses Zentrum für die Gemeinde in Astrachan.",
+                  "category": "religious",
+                  "coords": [
+                        48.079864,
+                        46.384473
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Astrakhanskii gosudarstvennyi teatr opery i baleta",
+                  "text": "Monumentális, mesebeli színházépület Asztrahánban, amely Oroszország egyik legnagyobb operaháza.",
+                  "category": "cultural",
+                  "coords": [
+                        48.044137,
+                        46.360234
+                  ]
+            },
+            {
+                  "name": "Astrakhanskii teatr kukol",
+                  "text": "Bájos gyerekszínház színes bábokkal és változatos repertoárral.",
+                  "category": "cultural",
+                  "coords": [
+                        48.03105,
+                        46.353293
+                  ]
+            },
+            {
+                  "name": "Astrakhanskii teatr iunogo zritelia",
+                  "text": "Profi ifjúsági színház Asztrahánban, amely egy történelmi városi épületben található.",
+                  "category": "cultural",
+                  "coords": [
+                        48.032553,
+                        46.346516
+                  ]
+            },
+            {
+                  "name": "Chiornaia mechet'",
+                  "text": "Történelmi tatár mecset Asztrahánban, amelyet a 19. században építettek újjá kőből.",
+                  "category": "religious",
+                  "coords": [
+                        48.03336,
+                        46.342904
+                  ]
+            },
+            {
+                  "name": "Zelionaia mechet'",
+                  "text": "Hagyományos fa mecset ritka példája Asztrahánban, jellegzetes zöld minarettel.",
+                  "category": "religious",
+                  "coords": [
+                        48.027754,
+                        46.342658
+                  ]
+            },
+            {
+                  "name": "Belaia mechet'",
+                  "text": "Asztrahán legrégebbi fennmaradt mecsete, amely a 19. század elején épült klasszicista stílusban.",
+                  "category": "religious",
+                  "coords": [
+                        48.030484,
+                        46.342746
+                  ]
+            },
+            {
+                  "name": "Shiitskaia Mechet'",
+                  "text": "Az azerbajdzsáni közösség által épített mecset, amelyet Baku-mecsetként is ismernek.",
+                  "category": "religious",
+                  "coords": [
+                        48.043313,
+                        46.341634
+                  ]
+            },
+            {
+                  "name": "Astrakhanskii gosudarstvennyi dramaticheskii teatr",
+                  "text": "Az orosz vidék egyik legrégebbi drámai színháza, amelyet a 18. század végén alapítottak.",
+                  "category": "cultural",
+                  "coords": [
+                        48.044398,
+                        46.34855
+                  ]
+            },
+            {
+                  "name": "Tserkov' Uspeniia Presviatoi bogoroditse Rimsko-Katolicheskoi tserkvi",
+                  "text": "Római katolikus templom 1721-ből, amely jellegzetes barokk homlokzattal rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        48.051025,
+                        46.345918
+                  ]
+            },
+            {
+                  "name": "Ioanno-Predtechenskii muzhskoi monastyr'",
+                  "text": "17. századi ortodox kolostor, amely történelmi harangtornyáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        48.058464,
+                        46.34901
+                  ]
+            },
+            {
+                  "name": "Astrakhanskaia telebashnia",
+                  "text": "180 méter magas acélrácsos torony, amely meghatározza Asztrahán látképét.",
+                  "category": "tower",
+                  "coords": [
+                        48.050677,
+                        46.360313
+                  ]
+            },
+            {
+                  "name": "Astrakhanskii kreml'",
+                  "text": "16. századi kőerőd egy dombon, amely Asztrahán történelmi szíve.",
+                  "category": "landmark",
+                  "coords": [
+                        48.030888,
+                        46.349316
+                  ]
+            },
+            {
+                  "name": "Kolokol'nia Uspenskogo sobora <<Prechistenskie vorota>>",
+                  "text": "80 méter magas harangtorony a Kreml kapujánál, amely a város egyik jelképe.",
+                  "category": "tower",
+                  "coords": [
+                        48.033606,
+                        46.349673
+                  ]
+            },
+            {
+                  "name": "Astrakhanskii dub",
+                  "text": "Védett tölgyfa 1570-ből, amelyet a Volga-vidék egyik legöregebb fájának tartanak.",
+                  "category": "landmark",
+                  "coords": [
+                        48.062495,
+                        46.359727
+                  ]
+            },
+            {
+                  "name": "Dom kuptsa Tetiushinova",
+                  "text": "Pompás 19. századi faház bonyolult faragásokkal, orosz stílusban.",
+                  "category": "museum",
+                  "coords": [
+                        48.043699,
+                        46.355031
+                  ]
+            },
+            {
+                  "name": "Muzei istorii goroda",
+                  "text": "Múzeum egy régi birtokon, amely a város társadalmi és gazdasági történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        48.031598,
+                        46.35214
+                  ]
+            },
+            {
+                  "name": "Muzei liagushek i zhab \"MuLiaZh\"",
+                  "text": "Különleges magánmúzeum Asztrahánban, amely békákkal kapcsolatos tárgyak hatalmas gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        48.030788,
+                        46.354603
+                  ]
+            },
+            {
+                  "name": "Muzei kul'tury Astrakhani",
+                  "text": "A múzeum Asztrahán sokszínű etnikai csoportjainak mindennapjait, zenéjét és hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        48.034563,
+                        46.348681
+                  ]
+            },
+            {
+                  "name": "Muzei shokolada",
+                  "text": "Kis múzeum, ahol a látogatók az édességgyártás történetéről tanulhatnak és csokoládészobrokat láthatnak.",
+                  "category": "museum",
+                  "coords": [
+                        48.039695,
+                        46.351094
+                  ]
+            },
+            {
+                  "name": "Kraevedcheskii muzei",
+                  "text": "Oroszország egyik legrégebbi regionális múzeuma, gazdag régészeti és természettudományi gyűjteménnyel.",
+                  "category": "museum",
+                  "coords": [
+                        48.04166,
+                        46.349591
+                  ]
+            },
+            {
+                  "name": "Bashnia Spaso-Preobrazhenskogo monastyria",
+                  "text": "Egy lebontott 17. századi kolostor egyetlen fennmaradt fehér kőtornya.",
+                  "category": "castle",
+                  "coords": [
+                        48.042063,
+                        46.351271
+                  ]
+            },
+            {
+                  "name": "Muzei boevoi slavy",
+                  "text": "Regionális hadtörténeti múzeum, udvarán harckocsikkal és fegyverekkel.",
+                  "category": "museum",
+                  "coords": [
+                        48.036489,
+                        46.351127
+                  ]
+            },
+            {
+                  "name": "Tseikhgauz",
+                  "text": "Restaurált történelmi fegyvertár a Kremlben, amely ma művészeti és történelmi kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        48.02768,
+                        46.348365
+                  ]
+            },
+            {
+                  "name": "Artilleriiskii Dvor",
+                  "text": "Történelmi katonai udvar a Kreml falain belül, régi ágyúkkal és erődítményekkel.",
+                  "category": "museum",
+                  "coords": [
+                        48.033422,
+                        46.350838
+                  ]
+            },
+            {
+                  "name": "Troitskii Sobor",
+                  "text": "Fenséges kőszékesegyház a Kremlben, több kupolával és összetett építészeti történettel.",
+                  "category": "castle",
+                  "coords": [
+                        48.031872,
+                        46.350203
+                  ]
+            },
+            {
+                  "name": "Dom-muzei B.M. Kustodieva",
+                  "text": "Borisz Kusztogyijev művész szülőháza, ahol ma személyes tárgyai és festményei láthatók.",
+                  "category": "museum",
+                  "coords": [
+                        48.049312,
+                        46.350266
+                  ]
+            },
+            {
+                  "name": "Astrakhanskaia Kartinnaia galereia",
+                  "text": "Regionális művészeti galéria orosz festmények és grafikai alkotások jelentős gyűjteményével.",
+                  "category": "museum",
+                  "coords": [
+                        48.051923,
+                        46.349265
+                  ]
+            },
+            {
+                  "name": "0 kilometr",
+                  "text": "Díszes jelzés a városközpontban, amely a regionális utak kiindulópontját jelöli.",
+                  "category": "historical",
+                  "coords": [
+                        48.036702,
+                        46.348772
+                  ]
+            },
+            {
+                  "name": "Sviatomu kniaziu Vladimiru",
+                  "text": "Vlagyimir herceg nagy bronzszobra, amely feltűnő helyen, a székesegyház közelében áll.",
+                  "category": "historical",
+                  "coords": [
+                        48.01583,
+                        46.340125
+                  ]
+            },
+            {
+                  "name": "Kurmangazy Sagyrbaevu",
+                  "text": "Emlékmű a híres kazah zeneszerző és zenész, Kurmangazi Szagirbajev tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        48.048292,
+                        46.348682
+                  ]
+            },
+            {
+                  "name": "Palitra",
+                  "text": "Ez az asztraháni művészeti központ helyi kortárs festők időszaki kiállításainak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        48.044168,
+                        46.369693
+                  ]
+            },
+            {
+                  "name": "Astrakhanskii dvorets kul'tury <<Arkadiia>>",
+                  "text": "Egy tágas asztraháni kulturális palota, amely egy városi parkban található, és közösségi ünnepek helyszíneként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        48.050848,
+                        46.357232
+                  ]
+            },
+            {
+                  "name": "Astrakhanskaia gosudarstvennaia filarmoniia",
+                  "text": "Az Asztraháni Állami Filharmónia a város legfontosabb hangversenyterme, amely kiváló akusztikájáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        48.040775,
+                        46.35062
+                  ]
+            },
+            {
+                  "name": "Dom tvorchestva \"Uspekh\"",
+                  "text": "Ez az asztraháni alkotóház műhelyfoglalkozásokat és kurzusokat kínál a fiatalok művészeti fejlődéséhez.",
+                  "category": "cultural",
+                  "coords": [
+                        47.985107,
+                        46.338602
+                  ]
+            },
+            {
+                  "name": "Letnii teatr",
+                  "text": "Ez az asztraháni szabadtéri színház a meleg nyári hónapokban kínál helyszínt az ég alatti előadásokhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        47.98654,
+                        46.338283
+                  ]
+            },
+            {
+                  "name": "Tserkov' Petra i Pavla",
+                  "text": "Ez a Szent Péternek és Pálnak szentelt templom fontos vallási központ az asztraháni közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        48.079864,
+                        46.384473
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Astrakhanskii gosudarstvennyi teatr opery i baleta",
+                  "text": "O clădire de teatru monumentală, ca de basm, din Astrahan, una dintre cele mai mari opere din Rusia.",
+                  "category": "cultural",
+                  "coords": [
+                        48.044137,
+                        46.360234
+                  ]
+            },
+            {
+                  "name": "Astrakhanskii teatr kukol",
+                  "text": "Un teatru fermecător pentru copii, cu păpuși colorate și un repertoriu diversificat.",
+                  "category": "cultural",
+                  "coords": [
+                        48.03105,
+                        46.353293
+                  ]
+            },
+            {
+                  "name": "Astrakhanskii teatr iunogo zritelia",
+                  "text": "Un teatru profesionist pentru tineret din Astrahan, situat într-o clădire istorică a orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        48.032553,
+                        46.346516
+                  ]
+            },
+            {
+                  "name": "Chiornaia mechet'",
+                  "text": "O moschee tătară istorică din Astrahan, reconstruită din piatră în secolul al XIX-lea.",
+                  "category": "religious",
+                  "coords": [
+                        48.03336,
+                        46.342904
+                  ]
+            },
+            {
+                  "name": "Zelionaia mechet'",
+                  "text": "Un exemplu rar de moschee tradițională din lemn în Astrahan, cu un minaret verde distinctiv.",
+                  "category": "religious",
+                  "coords": [
+                        48.027754,
+                        46.342658
+                  ]
+            },
+            {
+                  "name": "Belaia mechet'",
+                  "text": "Cea mai veche moschee supraviețuitoare din Astrahan, construită la începutul secolului al XIX-lea în stil clasic.",
+                  "category": "religious",
+                  "coords": [
+                        48.030484,
+                        46.342746
+                  ]
+            },
+            {
+                  "name": "Shiitskaia Mechet'",
+                  "text": "O moschee construită de comunitatea azeră, cunoscută și sub numele de Moscheea Baku.",
+                  "category": "religious",
+                  "coords": [
+                        48.043313,
+                        46.341634
+                  ]
+            },
+            {
+                  "name": "Astrakhanskii gosudarstvennyi dramaticheskii teatr",
+                  "text": "Unul dintre cele mai vechi teatre dramatice din provincia rusă, fondat la sfârșitul secolului al XVIII-lea.",
+                  "category": "cultural",
+                  "coords": [
+                        48.044398,
+                        46.34855
+                  ]
+            },
+            {
+                  "name": "Tserkov' Uspeniia Presviatoi bogoroditse Rimsko-Katolicheskoi tserkvi",
+                  "text": "O biserică romano-catolică finalizată în 1721, cu o fațadă barocă distinctivă.",
+                  "category": "religious",
+                  "coords": [
+                        48.051025,
+                        46.345918
+                  ]
+            },
+            {
+                  "name": "Ioanno-Predtechenskii muzhskoi monastyr'",
+                  "text": "O mănăstire ortodoxă din secolul al XVII-lea, cunoscută pentru clopotnița sa istorică.",
+                  "category": "religious",
+                  "coords": [
+                        48.058464,
+                        46.34901
+                  ]
+            },
+            {
+                  "name": "Astrakhanskaia telebashnia",
+                  "text": "Un turn din oțel înalt de 180 de metri care domină orizontul orașului Astrahan.",
+                  "category": "tower",
+                  "coords": [
+                        48.050677,
+                        46.360313
+                  ]
+            },
+            {
+                  "name": "Astrakhanskii kreml'",
+                  "text": "O cetate de piatră din secolul al XVI-lea de pe un deal, inima istorică a orașului Astrahan.",
+                  "category": "landmark",
+                  "coords": [
+                        48.030888,
+                        46.349316
+                  ]
+            },
+            {
+                  "name": "Kolokol'nia Uspenskogo sobora <<Prechistenskie vorota>>",
+                  "text": "O clopotniță înaltă de 80 de metri la porțile Kremlinului, un simbol al orașului.",
+                  "category": "tower",
+                  "coords": [
+                        48.033606,
+                        46.349673
+                  ]
+            },
+            {
+                  "name": "Astrakhanskii dub",
+                  "text": "Un stejar protejat plantat în 1570, considerat unul dintre cei mai vechi din regiunea Volgăi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.062495,
+                        46.359727
+                  ]
+            },
+            {
+                  "name": "Dom kuptsa Tetiushinova",
+                  "text": "O vilă superbă din lemn din secolul al XIX-lea, cu sculpturi complicate în stil rusesc.",
+                  "category": "museum",
+                  "coords": [
+                        48.043699,
+                        46.355031
+                  ]
+            },
+            {
+                  "name": "Muzei istorii goroda",
+                  "text": "Un muzeu situat într-o veche moșie, care documentează istoria socială și economică a orașului.",
+                  "category": "museum",
+                  "coords": [
+                        48.031598,
+                        46.35214
+                  ]
+            },
+            {
+                  "name": "Muzei liagushek i zhab \"MuLiaZh\"",
+                  "text": "Un muzeu privat inedit din Astrahan, care expune o colecție vastă de figurine cu broaște.",
+                  "category": "museum",
+                  "coords": [
+                        48.030788,
+                        46.354603
+                  ]
+            },
+            {
+                  "name": "Muzei kul'tury Astrakhani",
+                  "text": "Un muzeu care explorează viața de zi cu zi, muzica și tradițiile diverselor grupuri etnice din Astrahan.",
+                  "category": "museum",
+                  "coords": [
+                        48.034563,
+                        46.348681
+                  ]
+            },
+            {
+                  "name": "Muzei shokolada",
+                  "text": "Un mic muzeu unde vizitatorii pot învăța despre istoria cofetăriei și pot vedea sculpturi din ciocolată.",
+                  "category": "museum",
+                  "coords": [
+                        48.039695,
+                        46.351094
+                  ]
+            },
+            {
+                  "name": "Kraevedcheskii muzei",
+                  "text": "Unul dintre cele mai vechi muzee regionale din Rusia, cu exponate arheologice și naturale bogate.",
+                  "category": "museum",
+                  "coords": [
+                        48.04166,
+                        46.349591
+                  ]
+            },
+            {
+                  "name": "Bashnia Spaso-Preobrazhenskogo monastyria",
+                  "text": "Singurul turn de piatră albă supraviețuitor al unei mănăstiri demolate din secolul al XVII-lea.",
+                  "category": "castle",
+                  "coords": [
+                        48.042063,
+                        46.351271
+                  ]
+            },
+            {
+                  "name": "Muzei boevoi slavy",
+                  "text": "Un muzeu axat pe istoria militară regională, cu tancuri și armament expuse în curte.",
+                  "category": "museum",
+                  "coords": [
+                        48.036489,
+                        46.351127
+                  ]
+            },
+            {
+                  "name": "Tseikhgauz",
+                  "text": "O clădire istorică a arsenalului restaurată în interiorul Kremlinului, folosită pentru expoziții de artă.",
+                  "category": "museum",
+                  "coords": [
+                        48.02768,
+                        46.348365
+                  ]
+            },
+            {
+                  "name": "Artilleriiskii Dvor",
+                  "text": "O curte militară istorică în zidurile Kremlinului, care prezintă tunuri vechi și fortificații.",
+                  "category": "museum",
+                  "coords": [
+                        48.033422,
+                        46.350838
+                  ]
+            },
+            {
+                  "name": "Troitskii Sobor",
+                  "text": "O catedrală maiestuoasă de piatră în Kremlin, cu cupole multiple și o istorie arhitecturală complexă.",
+                  "category": "castle",
+                  "coords": [
+                        48.031872,
+                        46.350203
+                  ]
+            },
+            {
+                  "name": "Dom-muzei B.M. Kustodieva",
+                  "text": "Casa natală a artistului Boris Kustodiev, care adăpostește acum obiectele sale personale și picturi.",
+                  "category": "museum",
+                  "coords": [
+                        48.049312,
+                        46.350266
+                  ]
+            },
+            {
+                  "name": "Astrakhanskaia Kartinnaia galereia",
+                  "text": "O galerie regională de artă cu o colecție semnificativă de picturi rusești și arte grafice.",
+                  "category": "museum",
+                  "coords": [
+                        48.051923,
+                        46.349265
+                  ]
+            },
+            {
+                  "name": "0 kilometr",
+                  "text": "Un marcaj decorativ în centrul orașului care indică punctul de plecare al drumurilor regionale.",
+                  "category": "historical",
+                  "coords": [
+                        48.036702,
+                        46.348772
+                  ]
+            },
+            {
+                  "name": "Sviatomu kniaziu Vladimiru",
+                  "text": "Un monument mare din bronz al Prințului Vladimir, situat proeminent lângă catedrală.",
+                  "category": "historical",
+                  "coords": [
+                        48.01583,
+                        46.340125
+                  ]
+            },
+            {
+                  "name": "Kurmangazy Sagyrbaevu",
+                  "text": "Un monument în onoarea celebrului compozitor și muzician kazah Kurmangazi Sagîrbaev.",
+                  "category": "historical",
+                  "coords": [
+                        48.048292,
+                        46.348682
+                  ]
+            },
+            {
+                  "name": "Palitra",
+                  "text": "Acest centru de artă din Astrahan găzduiește expoziții temporare ale pictorilor locali contemporani.",
+                  "category": "cultural",
+                  "coords": [
+                        48.044168,
+                        46.369693
+                  ]
+            },
+            {
+                  "name": "Astrakhanskii dvorets kul'tury <<Arkadiia>>",
+                  "text": "Un palat cultural spațios din Astrahan, situat într-un parc orășenesc, care servește drept loc de desfășurare pentru festivaluri publice.",
+                  "category": "cultural",
+                  "coords": [
+                        48.050848,
+                        46.357232
+                  ]
+            },
+            {
+                  "name": "Astrakhanskaia gosudarstvennaia filarmoniia",
+                  "text": "Filarmonica de Stat din Astrahan este cea mai importantă sală de concerte a orașului, cunoscută pentru acustica sa excelentă.",
+                  "category": "cultural",
+                  "coords": [
+                        48.040775,
+                        46.35062
+                  ]
+            },
+            {
+                  "name": "Dom tvorchestva \"Uspekh\"",
+                  "text": "Acest centru de creație din Astrahan oferă ateliere și cursuri pentru dezvoltarea artistică a tinerilor.",
+                  "category": "cultural",
+                  "coords": [
+                        47.985107,
+                        46.338602
+                  ]
+            },
+            {
+                  "name": "Letnii teatr",
+                  "text": "Acest teatru de vară din Astrahan oferă un spațiu pentru spectacole în aer liber în timpul lunilor calde de vară.",
+                  "category": "cultural",
+                  "coords": [
+                        47.98654,
+                        46.338283
+                  ]
+            },
+            {
+                  "name": "Tserkov' Petra i Pavla",
+                  "text": "Această biserică dedicată Sfinților Petru și Pavel este un centru religios important pentru comunitatea din Astrahan.",
+                  "category": "religious",
+                  "coords": [
+                        48.079864,
+                        46.384473
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Astrakhan State Theatre of Opera and Ballet",
+                  "text": "A massive, fairytale-like theater building in Astrakhan, one of the largest opera houses in Russia.",
+                  "category": "cultural",
+                  "coords": [
+                        48.044137,
+                        46.360234
+                  ]
+            },
+            {
+                  "name": "Astrakhan State Puppet Theatre",
+                  "text": "A charming theater for children featuring colorful puppets and a diverse repertoire.",
+                  "category": "cultural",
+                  "coords": [
+                        48.03105,
+                        46.353293
+                  ]
+            },
+            {
+                  "name": "Astrakhanskii teatr iunogo zritelia",
+                  "text": "A professional theater dedicated to youth productions, located in a historic building in Astrakhan.",
+                  "category": "cultural",
+                  "coords": [
+                        48.032553,
+                        46.346516
+                  ]
+            },
+            {
+                  "name": "Chiornaia mechet'",
+                  "text": "A historic Tatar mosque in Astrakhan that was rebuilt in stone during the 19th century.",
+                  "category": "religious",
+                  "coords": [
+                        48.03336,
+                        46.342904
+                  ]
+            },
+            {
+                  "name": "Zelionaia mechet'",
+                  "text": "A rare example of a traditional wooden mosque in Astrakhan with a distinct green minaret.",
+                  "category": "religious",
+                  "coords": [
+                        48.027754,
+                        46.342658
+                  ]
+            },
+            {
+                  "name": "Belaia mechet'",
+                  "text": "The oldest surviving mosque in Astrakhan, built in the early 19th century in classical style.",
+                  "category": "religious",
+                  "coords": [
+                        48.030484,
+                        46.342746
+                  ]
+            },
+            {
+                  "name": "Shiitskaia Mechet'",
+                  "text": "A mosque built by the local Azerbaijani community, also known as the Baku Mosque.",
+                  "category": "religious",
+                  "coords": [
+                        48.043313,
+                        46.341634
+                  ]
+            },
+            {
+                  "name": "Astrakhan State Drama Theatre",
+                  "text": "One of the oldest drama theaters in provincial Russia, founded in the late 18th century.",
+                  "category": "cultural",
+                  "coords": [
+                        48.044398,
+                        46.34855
+                  ]
+            },
+            {
+                  "name": "Church of the Assumption of Mary",
+                  "text": "A Roman Catholic church completed in 1721, featuring a distinctive Baroque facade.",
+                  "category": "religious",
+                  "coords": [
+                        48.051025,
+                        46.345918
+                  ]
+            },
+            {
+                  "name": "Ioanno-Predtechenskii muzhskoi monastyr'",
+                  "text": "A 17th-century Orthodox monastery known for its historic bell tower and quiet courtyards.",
+                  "category": "religious",
+                  "coords": [
+                        48.058464,
+                        46.34901
+                  ]
+            },
+            {
+                  "name": "Astrakhan TV Tower",
+                  "text": "A 180-meter tall lattice steel tower that dominates the skyline of Astrakhan.",
+                  "category": "tower",
+                  "coords": [
+                        48.050677,
+                        46.360313
+                  ]
+            },
+            {
+                  "name": "Astrakhan Kremlin",
+                  "text": "A 16th-century stone fortress on a hill, serving as the historic heart of Astrakhan.",
+                  "category": "landmark",
+                  "coords": [
+                        48.030888,
+                        46.349316
+                  ]
+            },
+            {
+                  "name": "Kolokol'nia Uspenskogo sobora <<Prechistenskie vorota>>",
+                  "text": "An 80-meter tall bell tower at the Kremlin gates, serving as a landmark symbol of the city.",
+                  "category": "tower",
+                  "coords": [
+                        48.033606,
+                        46.349673
+                  ]
+            },
+            {
+                  "name": "Astrakhanskii dub",
+                  "text": "A protected oak tree planted in 1570, considered one of the oldest in the Volga region.",
+                  "category": "landmark",
+                  "coords": [
+                        48.062495,
+                        46.359727
+                  ]
+            },
+            {
+                  "name": "Dom kuptsa Tetiushinova",
+                  "text": "A stunning 19th-century wooden mansion with intricate carvings in the traditional Russian style.",
+                  "category": "museum",
+                  "coords": [
+                        48.043699,
+                        46.355031
+                  ]
+            },
+            {
+                  "name": "Muzei istorii goroda",
+                  "text": "A museum housed in an old estate documenting the social and economic history of the city.",
+                  "category": "museum",
+                  "coords": [
+                        48.031598,
+                        46.35214
+                  ]
+            },
+            {
+                  "name": "Muzei liagushek i zhab \"MuLiaZh\"",
+                  "text": "A quirky private museum in Astrakhan showcasing a vast collection of frog-themed art and figures.",
+                  "category": "museum",
+                  "coords": [
+                        48.030788,
+                        46.354603
+                  ]
+            },
+            {
+                  "name": "Muzei kul'tury Astrakhani",
+                  "text": "A museum exploring the daily life, music, and traditions of Astrakhan's diverse ethnic groups.",
+                  "category": "museum",
+                  "coords": [
+                        48.034563,
+                        46.348681
+                  ]
+            },
+            {
+                  "name": "Muzei shokolada",
+                  "text": "A small museum where visitors can learn about confectionery history and see chocolate sculptures.",
+                  "category": "museum",
+                  "coords": [
+                        48.039695,
+                        46.351094
+                  ]
+            },
+            {
+                  "name": "Kraevedcheskii muzei",
+                  "text": "One of the oldest regional museums in Russia, featuring rich archaeological and nature exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        48.04166,
+                        46.349591
+                  ]
+            },
+            {
+                  "name": "Bashnia Spaso-Preobrazhenskogo monastyria",
+                  "text": "The only surviving white-stone tower of a demolished 17th-century monastery.",
+                  "category": "castle",
+                  "coords": [
+                        48.042063,
+                        46.351271
+                  ]
+            },
+            {
+                  "name": "Muzei boevoi slavy",
+                  "text": "A museum focused on regional military history, featuring tanks and weaponry in its courtyard.",
+                  "category": "museum",
+                  "coords": [
+                        48.036489,
+                        46.351127
+                  ]
+            },
+            {
+                  "name": "Tseikhgauz",
+                  "text": "A restored historic arsenal building inside the Kremlin used for art and historical exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        48.02768,
+                        46.348365
+                  ]
+            },
+            {
+                  "name": "Artilleriiskii Dvor",
+                  "text": "A historic military courtyard within the Kremlin walls showcasing old cannons and fortifications.",
+                  "category": "museum",
+                  "coords": [
+                        48.033422,
+                        46.350838
+                  ]
+            },
+            {
+                  "name": "Troitskii Sobor",
+                  "text": "A majestic stone cathedral in the Kremlin with multiple domes and a complex architectural history.",
+                  "category": "castle",
+                  "coords": [
+                        48.031872,
+                        46.350203
+                  ]
+            },
+            {
+                  "name": "Dom-muzei B.M. Kustodieva",
+                  "text": "The childhood home of artist Boris Kustodiev, now housing his personal items and paintings.",
+                  "category": "museum",
+                  "coords": [
+                        48.049312,
+                        46.350266
+                  ]
+            },
+            {
+                  "name": "Astrakhanskaia Kartinnaia galereia",
+                  "text": "A regional art gallery with a significant collection of Russian paintings and graphic arts.",
+                  "category": "museum",
+                  "coords": [
+                        48.051923,
+                        46.349265
+                  ]
+            },
+            {
+                  "name": "0 kilometr",
+                  "text": "A decorative marker in the city center indicating the starting point of regional roads.",
+                  "category": "historical",
+                  "coords": [
+                        48.036702,
+                        46.348772
+                  ]
+            },
+            {
+                  "name": "Sviatomu kniaziu Vladimiru",
+                  "text": "A large bronze monument of Prince Vladimir standing prominently near the cathedral.",
+                  "category": "historical",
+                  "coords": [
+                        48.01583,
+                        46.340125
+                  ]
+            },
+            {
+                  "name": "Kurmangazy Sagyrbaevu",
+                  "text": "A monument honoring the famous Kazakh composer and musician Kurmangazy Sagyrbaev.",
+                  "category": "historical",
+                  "coords": [
+                        48.048292,
+                        46.348682
+                  ]
+            },
+            {
+                  "name": "Palitra",
+                  "text": "This arts centre in Astrakhan hosts rotating exhibitions featuring the works of contemporary local painters.",
+                  "category": "cultural",
+                  "coords": [
+                        48.044168,
+                        46.369693
+                  ]
+            },
+            {
+                  "name": "Astrakhanskii dvorets kul'tury <<Arkadiia>>",
+                  "text": "A spacious cultural palace in Astrakhan located within a city park, serving as a venue for public festivals.",
+                  "category": "cultural",
+                  "coords": [
+                        48.050848,
+                        46.357232
+                  ]
+            },
+            {
+                  "name": "Astrakhanskaia gosudarstvennaia filarmoniia",
+                  "text": "The Astrakhan State Philharmonia is the city's premier concert hall, renowned for its excellent acoustics.",
+                  "category": "cultural",
+                  "coords": [
+                        48.040775,
+                        46.35062
+                  ]
+            },
+            {
+                  "name": "Dom tvorchestva \"Uspekh\"",
+                  "text": "This creative hub in Astrakhan offers workshops and classes focused on the artistic development of youth.",
+                  "category": "cultural",
+                  "coords": [
+                        47.985107,
+                        46.338602
+                  ]
+            },
+            {
+                  "name": "Letnii teatr",
+                  "text": "This open-air theater in Astrakhan provides a venue for performances under the sky during the warm summer months.",
+                  "category": "cultural",
+                  "coords": [
+                        47.98654,
+                        46.338283
+                  ]
+            },
+            {
+                  "name": "Tserkov' Petra i Pavla",
+                  "text": "This church dedicated to Saints Peter and Paul is a significant religious center for the Astrakhan community.",
+                  "category": "religious",
+                  "coords": [
+                        48.079864,
+                        46.384473
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "RU",
     name: { de: "Kreml von Astrachan", hu: "Asztraháni Kreml", ro: "Kremlinul din Astrahan", en: "Astrakhan Kremlin" },
@@ -7215,7 +13641,988 @@ imageHint: "Pavlovsk Palace golden facade and dome",
     image: "/poi-images/russia-tolyatti-technological-park-history-v2.webp",
   },
   {
-    id: "russia-chita-decembrist-museum-history-v2",
+    id: "russia-chita-decembrist-museum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fonari v vide muzykantov",
+                  "text": "Dekorative Straßenlaternen in Form von Musikern verleihen dem Stadtzentrum von Tschita eine künstlerische Note.",
+                  "category": "landmark",
+                  "coords": [
+                        113.538024,
+                        52.021823
+                  ]
+            },
+            {
+                  "name": "Zabaikal'skii khudozhestvennyi salon",
+                  "text": "Ein Kunstsalon, der Werke lokaler transbaikalischer Künstler sowie traditionelles Handwerk und Gemälde ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        113.508988,
+                        52.03052
+                  ]
+            },
+            {
+                  "name": "Oblastnaia stantsiia iunykh naturalistov",
+                  "text": "Ein regionales Zentrum für junge Naturforscher mit Ausstellungen zur vielfältigen Flora und Fauna Transbaikaliens.",
+                  "category": "landmark",
+                  "coords": [
+                        113.478835,
+                        52.074274
+                  ]
+            },
+            {
+                  "name": "Masterskaia kamennogo veka <<Titovskaia sopka>>",
+                  "text": "Eine antike Fundstätte am Hang der Titowskaja Sopka, wo vor Jahrtausenden primitive Steinwerkzeuge gefertigt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        113.472455,
+                        52.007605
+                  ]
+            },
+            {
+                  "name": "Poselenie <<Sukhotino-3>>",
+                  "text": "Teil eines Komplexes paläolithischer Siedlungen am Ufer des Flusses Ingoda in der Nähe von Tschita.",
+                  "category": "historical",
+                  "coords": [
+                        113.461888,
+                        51.993755
+                  ]
+            },
+            {
+                  "name": "Muzei Dekabristov",
+                  "text": "Dieses in einer historischen Holzkirche untergebrachte Museum erzählt die Geschichte der verbannten Dekabristen in Tschita.",
+                  "category": "museum",
+                  "coords": [
+                        113.513151,
+                        52.021474
+                  ]
+            },
+            {
+                  "name": "Zabaikal'skii gosudarstvennyi teatr kukol <<Trideviatoe tsarstvo>>",
+                  "text": "Das regionale Puppentheater bietet Vorstellungen für Kinder und Familien in der Welt der russischen Märchen.",
+                  "category": "cultural",
+                  "coords": [
+                        113.531177,
+                        52.027071
+                  ]
+            },
+            {
+                  "name": "Zabaikal'skii kraevoi dramaticheskii teatr",
+                  "text": "Eine 1970 eröffnete Kulturstätte, die klassische und zeitgenössische russische Stücke in Tschita auf die Bühne bringt.",
+                  "category": "cultural",
+                  "coords": [
+                        113.504538,
+                        52.030567
+                  ]
+            },
+            {
+                  "name": "Zabaikal'skie uzory",
+                  "text": "Ein Theater- und Volksensemble, das sich der Bewahrung traditioneller Lieder und Tänze der Region Transbaikalien widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        113.383473,
+                        52.071897
+                  ]
+            },
+            {
+                  "name": "Muzei parovozov",
+                  "text": "Ein Freilichtmuseum mit einer Sammlung historischer Dampflokomotiven, die einst auf der Transsibirischen Eisenbahn verkehrten.",
+                  "category": "museum",
+                  "coords": [
+                        113.454812,
+                        52.037961
+                  ]
+            },
+            {
+                  "name": "Naskal'nye risunki",
+                  "text": "Antike Petroglyphen, die in die Granitfelsen der Region Suchotino geritzt wurden und mehrere Jahrtausende alt sind.",
+                  "category": "historical",
+                  "coords": [
+                        113.453355,
+                        51.996556
+                  ]
+            },
+            {
+                  "name": "Masterskaia kamennogo veka <<Sukhotino>>",
+                  "text": "Eine prähistorische Stätte, an der Archäologen bedeutende Überreste der Steinwerkzeugproduktion und des paläolithischen Lebens fanden.",
+                  "category": "historical",
+                  "coords": [
+                        113.459373,
+                        51.99724
+                  ]
+            },
+            {
+                  "name": "Poselenie <<Sukhotino-2>>",
+                  "text": "Eine der alten Wohnstätten am Fluss Ingoda, die Siedlungsschichten menschlicher Geschichte seit der Steinzeit offenbart.",
+                  "category": "historical",
+                  "coords": [
+                        113.458951,
+                        51.992728
+                  ]
+            },
+            {
+                  "name": "Poselenie <<Sukhotino-1>>",
+                  "text": "Eine paläolithische Ausgrabungsstätte, die für Funde von Knochenwerkzeugen und Hinweisen auf Mammutjäger bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        113.456397,
+                        51.992408
+                  ]
+            },
+            {
+                  "name": "<<Naskal'nye risunki <<Sukhotinskii kamen'>>",
+                  "text": "Antike Felsbilder mit Darstellungen von Tieren und rituellen Szenen an den malerischen Felsvorsprüngen am Fluss Ingoda.",
+                  "category": "historical",
+                  "coords": [
+                        113.446779,
+                        51.992364
+                  ]
+            },
+            {
+                  "name": "Kul'turno-dosugovyi tsentr <<Iunost'>>",
+                  "text": "Ein lebhaftes Kulturzentrum, das auf Veranstaltungen und Freizeitaktivitäten für die lokale Jugend spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        113.594888,
+                        51.989803
+                  ]
+            },
+            {
+                  "name": "chasovnia Aleksandra Nevskogo",
+                  "text": "Eine orthodoxe Kapelle, die dem Heiligen Alexander Newski gewidmet ist und als Ort der Andacht dient.",
+                  "category": "landmark",
+                  "coords": [
+                        113.47576,
+                        52.026767
+                  ]
+            },
+            {
+                  "name": "Chitinskii kafedral'nyi sobor Kazanskoi ikony Bozh'ei Materi",
+                  "text": "Die prächtige Hauptkathedrale der Stadt, die durch ihre leuchtend blauen Fassaden und goldenen Kuppeln besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        113.497073,
+                        52.03005
+                  ]
+            },
+            {
+                  "name": "Chitinskaia sinagoga",
+                  "text": "Diese historische Synagoge wurde 1907 erbaut und zeugt von der jüdischen Geschichte der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        113.515739,
+                        52.0259
+                  ]
+            },
+            {
+                  "name": "Chitinskaia sobornaia mechet'",
+                  "text": "Die 1906 errichtete tatarische Moschee ist ein bedeutendes architektonisches Denkmal der muslimischen Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        113.517181,
+                        52.023777
+                  ]
+            },
+            {
+                  "name": "Khram v chest' vozdvizheniia Kresta Gospodnia",
+                  "text": "Eine orthodoxe Kirche, die der Kreuzerhöhung geweiht ist und im traditionellen russischen Sakralstil erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        113.385517,
+                        52.073442
+                  ]
+            },
+            {
+                  "name": "Munkhan (mechet')",
+                  "text": "Ein im September 2012 eröffneter buddhistischer Schrein, der als Ort der Meditation und Verehrung dient.",
+                  "category": "landmark",
+                  "coords": [
+                        113.457018,
+                        52.009229
+                  ]
+            },
+            {
+                  "name": "Fermerskii rynok",
+                  "text": "Ein lokaler Bauernmarkt, auf dem frische Produkte und Spezialitäten aus der sibirischen Landwirtschaft angeboten werden.",
+                  "category": "cultural",
+                  "coords": [
+                        113.561889,
+                        52.006624
+                  ]
+            },
+            {
+                  "name": "Viten",
+                  "text": "Ein zentraler Marktkomplex, der eine Vielzahl an Waren des täglichen Bedarfs und Kleidung bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        113.532478,
+                        52.025869
+                  ]
+            },
+            {
+                  "name": "Kashtakskii",
+                  "text": "Ein belebter Markt im Stadtteil Kaschtak, der die Anwohner mit frischen Lebensmitteln und Haushaltswaren versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        113.482214,
+                        52.086094
+                  ]
+            },
+            {
+                  "name": "Rynok Desiatka",
+                  "text": "Ein beliebter lokaler Handelsplatz mit einer breiten Palette an erschwinglichen Produkten und Lebensmitteln.",
+                  "category": "cultural",
+                  "coords": [
+                        113.449789,
+                        52.032694
+                  ]
+            },
+            {
+                  "name": "Bania No. 8",
+                  "text": "Ein traditionelles russisches Badehaus, das authentische Dampfbad-Erlebnisse und Entspannung bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        113.521139,
+                        52.026706
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fonari v vide muzykantov",
+                  "text": "Zenészeket formázó díszes utcai lámpák, amelyek művészi hangulatot kölcsönöznek Csita városközpontjának.",
+                  "category": "landmark",
+                  "coords": [
+                        113.538024,
+                        52.021823
+                  ]
+            },
+            {
+                  "name": "Zabaikal'skii khudozhestvennyi salon",
+                  "text": "Művészeti szalon, amely helyi bajkálontúli művészek alkotásait, hagyományos kézműves termékeket és festményeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        113.508988,
+                        52.03052
+                  ]
+            },
+            {
+                  "name": "Oblastnaia stantsiia iunykh naturalistov",
+                  "text": "Regionális központ fiatal természetbúvárok számára, kiállításokkal a Bajkálontúl változatos növény- és állatvilágáról.",
+                  "category": "landmark",
+                  "coords": [
+                        113.478835,
+                        52.074274
+                  ]
+            },
+            {
+                  "name": "Masterskaia kamennogo veka <<Titovskaia sopka>>",
+                  "text": "Ősi lelőhely a Titovszkaja Szopka lejtőin, ahol évezredekkel ezelőtt primitív kőeszközöket készítettek.",
+                  "category": "historical",
+                  "coords": [
+                        113.472455,
+                        52.007605
+                  ]
+            },
+            {
+                  "name": "Poselenie <<Sukhotino-3>>",
+                  "text": "Az Ingoda-folyó partján, Csita közelében található paleolit településegyüttes része.",
+                  "category": "historical",
+                  "coords": [
+                        113.461888,
+                        51.993755
+                  ]
+            },
+            {
+                  "name": "Muzei Dekabristov",
+                  "text": "Egy történelmi fatemplomban berendezett múzeum, amely a Csitába száműzött dekabristák történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        113.513151,
+                        52.021474
+                  ]
+            },
+            {
+                  "name": "Zabaikal'skii gosudarstvennyi teatr kukol <<Trideviatoe tsarstvo>>",
+                  "text": "A regionális bábszínház előadásokat kínál gyerekeknek és családoknak az orosz népmesék világában.",
+                  "category": "cultural",
+                  "coords": [
+                        113.531177,
+                        52.027071
+                  ]
+            },
+            {
+                  "name": "Zabaikal'skii kraevoi dramaticheskii teatr",
+                  "text": "1970-ben megnyitott kulturális helyszín, amely klasszikus és kortárs orosz darabokat mutat be Csitában.",
+                  "category": "cultural",
+                  "coords": [
+                        113.504538,
+                        52.030567
+                  ]
+            },
+            {
+                  "name": "Zabaikal'skie uzory",
+                  "text": "Színházi és népi együttes, amely a Bajkálontúl hagyományos dalainak és táncainak megőrzésével foglalkozik.",
+                  "category": "cultural",
+                  "coords": [
+                        113.383473,
+                        52.071897
+                  ]
+            },
+            {
+                  "name": "Muzei parovozov",
+                  "text": "Szabadtéri múzeum, amely a Transzszibériai vasúton egykor közlekedő történelmi gőzmozdonyok gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        113.454812,
+                        52.037961
+                  ]
+            },
+            {
+                  "name": "Naskal'nye risunki",
+                  "text": "A szuhotinói régió gránitszikláiba vésett ősi sziklarajzok, amelyek több évezredesek.",
+                  "category": "historical",
+                  "coords": [
+                        113.453355,
+                        51.996556
+                  ]
+            },
+            {
+                  "name": "Masterskaia kamennogo veka <<Sukhotino>>",
+                  "text": "Prahisztorikus lelőhely, ahol a régészek a kőeszköz-készítés és a paleolit életmód jelentős emlékeit tárták fel.",
+                  "category": "historical",
+                  "coords": [
+                        113.459373,
+                        51.99724
+                  ]
+            },
+            {
+                  "name": "Poselenie <<Sukhotino-2>>",
+                  "text": "Az Ingoda-folyó menti ősi lakóhelyek egyike, amely az emberi történelem rétegeit tárja fel a kőkorszaktól kezdve.",
+                  "category": "historical",
+                  "coords": [
+                        113.458951,
+                        51.992728
+                  ]
+            },
+            {
+                  "name": "Poselenie <<Sukhotino-1>>",
+                  "text": "Paleolit régészeti lelőhely, amely csonteszközeiről és a mamutvadászok életére utaló leleteiről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        113.456397,
+                        51.992408
+                  ]
+            },
+            {
+                  "name": "<<Naskal'nye risunki <<Sukhotinskii kamen'>>",
+                  "text": "Állatokat és rituális jeleneteket ábrázoló ősi sziklarajzok az Ingoda-folyó menti festői sziklákon.",
+                  "category": "historical",
+                  "coords": [
+                        113.446779,
+                        51.992364
+                  ]
+            },
+            {
+                  "name": "Kul'turno-dosugovyi tsentr <<Iunost'>>",
+                  "text": "Élénk kulturális központ, amely a helyi ifjúsági rendezvényekre és szabadidős tevékenységekre szakosodott.",
+                  "category": "cultural",
+                  "coords": [
+                        113.594888,
+                        51.989803
+                  ]
+            },
+            {
+                  "name": "chasovnia Aleksandra Nevskogo",
+                  "text": "Szent Alekszandr Nyevszkijnek szentelt ortodox kápolna, amely az elcsendesedés és az imádság helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        113.47576,
+                        52.026767
+                  ]
+            },
+            {
+                  "name": "Chitinskii kafedral'nyi sobor Kazanskoi ikony Bozh'ei Materi",
+                  "text": "A város lenyűgöző főszékesegyháza, amely élénkkék homlokzatával és arany kupoláival hívja fel magára a figyelmet.",
+                  "category": "landmark",
+                  "coords": [
+                        113.497073,
+                        52.03005
+                  ]
+            },
+            {
+                  "name": "Chitinskaia sinagoga",
+                  "text": "Ezt a történelmi zsinagógát 1907-ben építették, és a régió zsidó múltjának állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        113.515739,
+                        52.0259
+                  ]
+            },
+            {
+                  "name": "Chitinskaia sobornaia mechet'",
+                  "text": "Az 1906-ban emelt tatár mecset a muszlim közösség jelentős építészeti emléke.",
+                  "category": "landmark",
+                  "coords": [
+                        113.517181,
+                        52.023777
+                  ]
+            },
+            {
+                  "name": "Khram v chest' vozdvizheniia Kresta Gospodnia",
+                  "text": "A Szent Kereszt felmagasztalásának szentelt ortodox templom, amely a hagyományos orosz szakrális stílusban épült.",
+                  "category": "landmark",
+                  "coords": [
+                        113.385517,
+                        52.073442
+                  ]
+            },
+            {
+                  "name": "Munkhan (mechet')",
+                  "text": "2012 szeptemberében megnyitott buddhista szentély, amely a meditáció és a tiszteletadás helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        113.457018,
+                        52.009229
+                  ]
+            },
+            {
+                  "name": "Fermerskii rynok",
+                  "text": "Helyi termelői piac, ahol friss szibériai mezőgazdasági termékeket és különlegességeket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        113.561889,
+                        52.006624
+                  ]
+            },
+            {
+                  "name": "Viten",
+                  "text": "Központi piaci komplexum, amely napi fogyasztási cikkek és ruházati termékek széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        113.532478,
+                        52.025869
+                  ]
+            },
+            {
+                  "name": "Kashtakskii",
+                  "text": "Forgalmas piac a Kastak negyedben, amely friss élelmiszerekkel és háztartási cikkekkel látja el a lakókat.",
+                  "category": "cultural",
+                  "coords": [
+                        113.482214,
+                        52.086094
+                  ]
+            },
+            {
+                  "name": "Rynok Desiatka",
+                  "text": "Népszerű helyi kereskedelmi helyszín, ahol megfizethető termékek és élelmiszerek széles választéka található.",
+                  "category": "cultural",
+                  "coords": [
+                        113.449789,
+                        52.032694
+                  ]
+            },
+            {
+                  "name": "Bania No. 8",
+                  "text": "Hagyományos orosz közfürdő, amely autentikus gőzfürdő-élményt és kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        113.521139,
+                        52.026706
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fonari v vide muzykantov",
+                  "text": "Felinare stradale decorative în formă de muzicieni, care adaugă o notă artistică centrului orașului Cita.",
+                  "category": "landmark",
+                  "coords": [
+                        113.538024,
+                        52.021823
+                  ]
+            },
+            {
+                  "name": "Zabaikal'skii khudozhestvennyi salon",
+                  "text": "Un salon de artă care expune lucrări ale artiștilor locali din Transbaikal, inclusiv meșteșuguri tradiționale și picturi.",
+                  "category": "museum",
+                  "coords": [
+                        113.508988,
+                        52.03052
+                  ]
+            },
+            {
+                  "name": "Oblastnaia stantsiia iunykh naturalistov",
+                  "text": "Un centru regional pentru tinerii naturaliști, cu expoziții despre flora și fauna diversă a regiunii Transbaikal.",
+                  "category": "landmark",
+                  "coords": [
+                        113.478835,
+                        52.074274
+                  ]
+            },
+            {
+                  "name": "Masterskaia kamennogo veka <<Titovskaia sopka>>",
+                  "text": "Un sit antic pe versanții de pe Titovskaia Sopka, unde se fabricau unelte primitive de piatră în urmă cu mii de ani.",
+                  "category": "historical",
+                  "coords": [
+                        113.472455,
+                        52.007605
+                  ]
+            },
+            {
+                  "name": "Poselenie <<Sukhotino-3>>",
+                  "text": "Parte a unui complex de așezări paleolitice situate pe malurile râului Ingoda, lângă Cita.",
+                  "category": "historical",
+                  "coords": [
+                        113.461888,
+                        51.993755
+                  ]
+            },
+            {
+                  "name": "Muzei Dekabristov",
+                  "text": "Găzduit într-o biserică istorică de lemn, acest muzeu spune povestea revoluționarilor decembriști exilați în Cita.",
+                  "category": "museum",
+                  "coords": [
+                        113.513151,
+                        52.021474
+                  ]
+            },
+            {
+                  "name": "Zabaikal'skii gosudarstvennyi teatr kukol <<Trideviatoe tsarstvo>>",
+                  "text": "Teatrul regional de păpuși oferă spectacole pentru copii și familii în lumea basmelor rusești.",
+                  "category": "cultural",
+                  "coords": [
+                        113.531177,
+                        52.027071
+                  ]
+            },
+            {
+                  "name": "Zabaikal'skii kraevoi dramaticheskii teatr",
+                  "text": "O instituție culturală deschisă în 1970, care pune în scenă piese rusești clasice și contemporane în Cita.",
+                  "category": "cultural",
+                  "coords": [
+                        113.504538,
+                        52.030567
+                  ]
+            },
+            {
+                  "name": "Zabaikal'skie uzory",
+                  "text": "Un teatru și ansamblu folcloric dedicat conservării și interpretării cântecelor și dansurilor tradiționale din Transbaikal.",
+                  "category": "cultural",
+                  "coords": [
+                        113.383473,
+                        52.071897
+                  ]
+            },
+            {
+                  "name": "Muzei parovozov",
+                  "text": "Un muzeu în aer liber care expune o colecție de locomotive cu abur istorice ce au circulat pe calea ferată Transsiberiană.",
+                  "category": "museum",
+                  "coords": [
+                        113.454812,
+                        52.037961
+                  ]
+            },
+            {
+                  "name": "Naskal'nye risunki",
+                  "text": "Petroglife antice gravate în stâncile de granit din zona Suhotino, datând de câteva milenii.",
+                  "category": "historical",
+                  "coords": [
+                        113.453355,
+                        51.996556
+                  ]
+            },
+            {
+                  "name": "Masterskaia kamennogo veka <<Sukhotino>>",
+                  "text": "Un sit preistoric unde arheologii au descoperit resturi semnificative ale producției de unelte de piatră și ale vieții paleolitice.",
+                  "category": "historical",
+                  "coords": [
+                        113.459373,
+                        51.99724
+                  ]
+            },
+            {
+                  "name": "Poselenie <<Sukhotino-2>>",
+                  "text": "Una dintre vechile așezări de lângă râul Ingoda, care dezvăluie straturi de istorie umană încă din epoca pietrei.",
+                  "category": "historical",
+                  "coords": [
+                        113.458951,
+                        51.992728
+                  ]
+            },
+            {
+                  "name": "Poselenie <<Sukhotino-1>>",
+                  "text": "Un sit arheologic paleolitic cunoscut pentru descoperirile de unelte din os și dovezi ale vânătorilor de mamuți.",
+                  "category": "historical",
+                  "coords": [
+                        113.456397,
+                        51.992408
+                  ]
+            },
+            {
+                  "name": "<<Naskal'nye risunki <<Sukhotinskii kamen'>>",
+                  "text": "Picturi rupestre antice care înfățișează animale și scene ritualice, situate pe aflorimentele stâncoase de lângă râul Ingoda.",
+                  "category": "historical",
+                  "coords": [
+                        113.446779,
+                        51.992364
+                  ]
+            },
+            {
+                  "name": "Kul'turno-dosugovyi tsentr <<Iunost'>>",
+                  "text": "Un centru cultural vibrant, specializat în evenimente și activități de recreere pentru tineretul local.",
+                  "category": "cultural",
+                  "coords": [
+                        113.594888,
+                        51.989803
+                  ]
+            },
+            {
+                  "name": "chasovnia Aleksandra Nevskogo",
+                  "text": "O capelă ortodoxă dedicată Sfântului Alexandru Nevski, servind ca loc de rugăciune și reculegere.",
+                  "category": "landmark",
+                  "coords": [
+                        113.47576,
+                        52.026767
+                  ]
+            },
+            {
+                  "name": "Chitinskii kafedral'nyi sobor Kazanskoi ikony Bozh'ei Materi",
+                  "text": "Catedrala principală a orașului, impresionând prin fațadele sale albastru aprins și cupolele aurii.",
+                  "category": "landmark",
+                  "coords": [
+                        113.497073,
+                        52.03005
+                  ]
+            },
+            {
+                  "name": "Chitinskaia sinagoga",
+                  "text": "Această sinagogă istorică a fost construită în 1907, fiind o mărturie a istoriei evreiești din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        113.515739,
+                        52.0259
+                  ]
+            },
+            {
+                  "name": "Chitinskaia sobornaia mechet'",
+                  "text": "Construită în 1906, această moschee tătară este un monument arhitectural important al comunității musulmane.",
+                  "category": "landmark",
+                  "coords": [
+                        113.517181,
+                        52.023777
+                  ]
+            },
+            {
+                  "name": "Khram v chest' vozdvizheniia Kresta Gospodnia",
+                  "text": "O biserică ortodoxă dedicată Înălțării Sfintei Cruci, construită în stilul sacru tradițional rusesc.",
+                  "category": "landmark",
+                  "coords": [
+                        113.385517,
+                        52.073442
+                  ]
+            },
+            {
+                  "name": "Munkhan (mechet')",
+                  "text": "Un altar budist deschis în septembrie 2012, servind ca loc de meditație și venerare.",
+                  "category": "landmark",
+                  "coords": [
+                        113.457018,
+                        52.009229
+                  ]
+            },
+            {
+                  "name": "Fermerskii rynok",
+                  "text": "O piață locală de fermieri, unde sunt oferite produse proaspete și specialități din agricultura siberiană.",
+                  "category": "cultural",
+                  "coords": [
+                        113.561889,
+                        52.006624
+                  ]
+            },
+            {
+                  "name": "Viten",
+                  "text": "Un complex comercial central care oferă o varietate de bunuri de larg consum și îmbrăcăminte.",
+                  "category": "cultural",
+                  "coords": [
+                        113.532478,
+                        52.025869
+                  ]
+            },
+            {
+                  "name": "Kashtakskii",
+                  "text": "O piață animată din cartierul Kaștak, care deservește localnicii cu alimente proaspete și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        113.482214,
+                        52.086094
+                  ]
+            },
+            {
+                  "name": "Rynok Desiatka",
+                  "text": "Un loc de tranzacționare local popular, cu o gamă largă de produse și alimente la prețuri accesibile.",
+                  "category": "cultural",
+                  "coords": [
+                        113.449789,
+                        52.032694
+                  ]
+            },
+            {
+                  "name": "Bania No. 8",
+                  "text": "O baie publică rusească tradițională, oferind experiențe autentice de saună și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        113.521139,
+                        52.026706
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fonari v vide muzykantov",
+                  "text": "Decorative street lanterns shaped like musicians, adding an artistic touch to Chita's city center.",
+                  "category": "landmark",
+                  "coords": [
+                        113.538024,
+                        52.021823
+                  ]
+            },
+            {
+                  "name": "Zabaikal'skii khudozhestvennyi salon",
+                  "text": "An art salon showcasing works by local Transbaikal artists, including traditional crafts and paintings.",
+                  "category": "museum",
+                  "coords": [
+                        113.508988,
+                        52.03052
+                  ]
+            },
+            {
+                  "name": "Oblastnaia stantsiia iunykh naturalistov",
+                  "text": "A regional center for young naturalists featuring displays about the diverse flora and fauna of Transbaikalia.",
+                  "category": "landmark",
+                  "coords": [
+                        113.478835,
+                        52.074274
+                  ]
+            },
+            {
+                  "name": "Stone Age Workshop \"Titovskaya Sopka\"",
+                  "text": "An ancient site on the slopes of Titovskaya Sopka where primitive stone tools were crafted millennia ago.",
+                  "category": "historical",
+                  "coords": [
+                        113.472455,
+                        52.007605
+                  ]
+            },
+            {
+                  "name": "Sukhotino-4 settlement",
+                  "text": "Part of a complex of Paleolithic settlements located on the banks of the Ingoda River near Chita.",
+                  "category": "historical",
+                  "coords": [
+                        113.461888,
+                        51.993755
+                  ]
+            },
+            {
+                  "name": "Muzei Dekabristov",
+                  "text": "Housed in a historic wooden church, this museum tells the story of the exiled Decembrist revolutionaries in Chita.",
+                  "category": "museum",
+                  "coords": [
+                        113.513151,
+                        52.021474
+                  ]
+            },
+            {
+                  "name": "Zabaikal'skii gosudarstvennyi teatr kukol <<Trideviatoe tsarstvo>>",
+                  "text": "The regional puppet theatre offers performances for children and families set in the world of Russian fairy tales.",
+                  "category": "cultural",
+                  "coords": [
+                        113.531177,
+                        52.027071
+                  ]
+            },
+            {
+                  "name": "Zabaikal'skii kraevoi dramaticheskii teatr",
+                  "text": "A cultural venue opened in 1970 that stages classic and contemporary Russian plays in Chita.",
+                  "category": "cultural",
+                  "coords": [
+                        113.504538,
+                        52.030567
+                  ]
+            },
+            {
+                  "name": "Zabaikal'skie uzory",
+                  "text": "A theatre and folk ensemble dedicated to preserving the traditional songs and dances of the Transbaikal region.",
+                  "category": "cultural",
+                  "coords": [
+                        113.383473,
+                        52.071897
+                  ]
+            },
+            {
+                  "name": "Muzei parovozov",
+                  "text": "An open-air museum displaying historic steam locomotives that once operated on the Trans-Siberian Railway.",
+                  "category": "museum",
+                  "coords": [
+                        113.454812,
+                        52.037961
+                  ]
+            },
+            {
+                  "name": "Rock carvings",
+                  "text": "Ancient petroglyphs etched into the granite cliffs of the Sukhotino area, dating back several millennia.",
+                  "category": "historical",
+                  "coords": [
+                        113.453355,
+                        51.996556
+                  ]
+            },
+            {
+                  "name": "Stone Age Workshop \"Sukhotino\"",
+                  "text": "A prehistoric site where archaeologists discovered significant remains of stone tool production and Paleolithic life.",
+                  "category": "historical",
+                  "coords": [
+                        113.459373,
+                        51.99724
+                  ]
+            },
+            {
+                  "name": "Sukhotino-2 settlement",
+                  "text": "One of several ancient habitation sites near the Ingoda River, revealing layers of human history from the Stone Age.",
+                  "category": "historical",
+                  "coords": [
+                        113.458951,
+                        51.992728
+                  ]
+            },
+            {
+                  "name": "Sukhotino-1 settlement",
+                  "text": "A Paleolithic archaeological site known for its findings of bone tools and evidence of mammoth hunters.",
+                  "category": "historical",
+                  "coords": [
+                        113.456397,
+                        51.992408
+                  ]
+            },
+            {
+                  "name": "\"Sukhotinsky Stone Rock Paintings\"",
+                  "text": "Ancient rock art depicting animals and ritual scenes, located on the picturesque rocky outcrops near the Ingoda River.",
+                  "category": "historical",
+                  "coords": [
+                        113.446779,
+                        51.992364
+                  ]
+            },
+            {
+                  "name": "Kul'turno-dosugovyi tsentr <<Iunost'>>",
+                  "text": "A lively cultural center specializing in events and leisure activities for the local youth.",
+                  "category": "cultural",
+                  "coords": [
+                        113.594888,
+                        51.989803
+                  ]
+            },
+            {
+                  "name": "chasovnia Aleksandra Nevskogo",
+                  "text": "An Orthodox chapel dedicated to St. Alexander Nevsky, serving as a place for prayer and reflection.",
+                  "category": "landmark",
+                  "coords": [
+                        113.47576,
+                        52.026767
+                  ]
+            },
+            {
+                  "name": "Chitinskii kafedral'nyi sobor Kazanskoi ikony Bozh'ei Materi",
+                  "text": "The city's magnificent main cathedral, striking with its bright blue facades and golden domes.",
+                  "category": "landmark",
+                  "coords": [
+                        113.497073,
+                        52.03005
+                  ]
+            },
+            {
+                  "name": "Chitinskaia sinagoga",
+                  "text": "This historic synagogue was built in 1907, serving as a testament to the Jewish history of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        113.515739,
+                        52.0259
+                  ]
+            },
+            {
+                  "name": "Chitinskaia sobornaia mechet'",
+                  "text": "Built in 1906, this Tatar mosque is a significant architectural monument of the Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        113.517181,
+                        52.023777
+                  ]
+            },
+            {
+                  "name": "Khram v chest' vozdvizheniia Kresta Gospodnia",
+                  "text": "An Orthodox church dedicated to the Exaltation of the Holy Cross, built in the traditional Russian sacred style.",
+                  "category": "landmark",
+                  "coords": [
+                        113.385517,
+                        52.073442
+                  ]
+            },
+            {
+                  "name": "Munkhan (mechet')",
+                  "text": "A Buddhist shrine opened in September 2012, serving as a place for meditation and worship.",
+                  "category": "landmark",
+                  "coords": [
+                        113.457018,
+                        52.009229
+                  ]
+            },
+            {
+                  "name": "Fermerskii rynok",
+                  "text": "A local farmers' market offering fresh produce and specialties from Siberian agriculture.",
+                  "category": "cultural",
+                  "coords": [
+                        113.561889,
+                        52.006624
+                  ]
+            },
+            {
+                  "name": "Viten",
+                  "text": "A central market complex offering a variety of daily consumer goods and clothing.",
+                  "category": "cultural",
+                  "coords": [
+                        113.532478,
+                        52.025869
+                  ]
+            },
+            {
+                  "name": "Kashtakskii",
+                  "text": "A busy market in the Kashtak district, supplying residents with fresh food and household wares.",
+                  "category": "cultural",
+                  "coords": [
+                        113.482214,
+                        52.086094
+                  ]
+            },
+            {
+                  "name": "Rynok Desiatka",
+                  "text": "A popular local trading spot featuring a wide range of affordable products and food items.",
+                  "category": "cultural",
+                  "coords": [
+                        113.449789,
+                        52.032694
+                  ]
+            },
+            {
+                  "name": "Bania No. 8",
+                  "text": "A traditional Russian public bathhouse offering authentic steam bath experiences and relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        113.521139,
+                        52.026706
+                  ]
+            }
+      ]
+},
     type: "museum",
     parent: "RU",
     name: { de: "Dekabristenmuseum Tschita", hu: "Csitai Dekabrista Múzeum", ro: "Muzeul Decembriștilor din Chita", en: "Decembrist Museum Chita" },
@@ -7381,7 +14788,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Trogatel'nyi zoopark",
-                  "text": "Ein Streichelzoo beim Turm des Tulaer Kremls.",
+                  "text": "Ein Streichelzoo namens ‚Trogatel'nyi zoopark‘ am Tulaer Kreml-Turm.",
                   "category": "recreational",
                   "coords": [
                         37.596199,
@@ -7390,7 +14797,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Fabrika - Klub virtual'noi real'nosti",
-                  "text": "Ein Virtual-Reality-Club beim Turm des Tulaer Kremls.",
+                  "text": "Ein Virtual-Reality-Club namens ‚Fabrika - Klub virtual'noi real'nosti‘ am Tulaer Kreml-Turm.",
                   "category": "recreational",
                   "coords": [
                         37.599277,
@@ -7399,7 +14806,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Tul'skii ekzotarium (novaia ekspozitsiia)",
-                  "text": "Ein Exotarium beim Turm des Tulaer Kremls.",
+                  "text": "Die neue Ausstellung des Tulaer Exotariums am Tulaer Kreml-Turm.",
                   "category": "recreational",
                   "coords": [
                         37.588762,
@@ -7408,7 +14815,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Kharakter",
-                  "text": "Ein Freizeitpark beim Turm des Tulaer Kremls.",
+                  "text": "Ein Freizeitbereich namens ‚Kharakter‘ am Tulaer Kreml-Turm.",
                   "category": "recreational",
                   "coords": [
                         37.593657,
@@ -7417,7 +14824,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Otryv",
-                  "text": "Ein Freizeitpark beim Turm des Tulaer Kremls.",
+                  "text": "Ein Erlebnisraum namens ‚Otryv‘ am Tulaer Kreml-Turm.",
                   "category": "recreational",
                   "coords": [
                         37.602294,
@@ -7500,7 +14907,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Trogatel'nyi zoopark",
-                  "text": "Állatsimogató a Tulai Kreml tornyánál.",
+                  "text": "Egy 'Trogatel'nyi zoopark' (Simogató állatkert) a Tula Kreml torony mellett.",
                   "category": "recreational",
                   "coords": [
                         37.596199,
@@ -7509,7 +14916,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Fabrika - Klub virtual'noi real'nosti",
-                  "text": "Virtuális valóság klub a Tulai Kreml tornyánál.",
+                  "text": "Egy 'Fabrika - Klub virtual'noi real'nosti' VR klub a Tula Kreml torony közelében.",
                   "category": "recreational",
                   "coords": [
                         37.599277,
@@ -7518,7 +14925,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Tul'skii ekzotarium (novaia ekspozitsiia)",
-                  "text": "Egzotikus állatkert a Tulai Kreml tornyánál.",
+                  "text": "A Tula Egzotárium új kiállítása a Tula Kreml torony mellett.",
                   "category": "recreational",
                   "coords": [
                         37.588762,
@@ -7527,7 +14934,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Kharakter",
-                  "text": "Szórakoztató park a Tulai Kreml tornyánál.",
+                  "text": "Egy 'Kharakter' (Karakter) nevű szabadidős zóna a Tula Kreml torony közelében.",
                   "category": "recreational",
                   "coords": [
                         37.593657,
@@ -7536,7 +14943,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Otryv",
-                  "text": "Szórakoztató park a Tulai Kreml tornyánál.",
+                  "text": "Egy 'Otryv' (Leválás) nevű élménytér a Tula Kreml torony mellett.",
                   "category": "recreational",
                   "coords": [
                         37.602294,
@@ -7619,7 +15026,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Trogatel'nyi zoopark",
-                  "text": "O grădină zoologică cu animale de mângâiat lângă Turnul Kremlinului din Tula.",
+                  "text": "O grădină zoologică de contact numită 'Trogatel'nyi zoopark' lângă Turnul Kremlinului din Tula.",
                   "category": "recreational",
                   "coords": [
                         37.596199,
@@ -7628,7 +15035,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Fabrika - Klub virtual'noi real'nosti",
-                  "text": "Un club de realitate virtuală lângă Turnul Kremlinului din Tula.",
+                  "text": "Un club VR numit 'Fabrika - Klub virtual'noi real'nosti' lângă Turnul Kremlinului din Tula.",
                   "category": "recreational",
                   "coords": [
                         37.599277,
@@ -7637,7 +15044,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Tul'skii ekzotarium (novaia ekspozitsiia)",
-                  "text": "Un exotarium lângă Turnul Kremlinului din Tula.",
+                  "text": "Noua expoziție a Exotariului din Tula lângă Turnul Kremlinului din Tula.",
                   "category": "recreational",
                   "coords": [
                         37.588762,
@@ -7646,7 +15053,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Kharakter",
-                  "text": "Un parc tematic lângă Turnul Kremlinului din Tula.",
+                  "text": "O zonă de agrement numită 'Kharakter' lângă Turnul Kremlinului din Tula.",
                   "category": "recreational",
                   "coords": [
                         37.593657,
@@ -7655,7 +15062,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Otryv",
-                  "text": "Un parc tematic lângă Turnul Kremlinului din Tula.",
+                  "text": "Un spațiu de experiență numit 'Otryv' lângă Turnul Kremlinului din Tula.",
                   "category": "recreational",
                   "coords": [
                         37.602294,
@@ -7738,7 +15145,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Trogatel'nyi zoopark",
-                  "text": "A petting zoo located near the Tula Kremlin Tower.",
+                  "text": "A petting zoo called 'Trogatel'nyi zoopark' near the Tula Kremlin Tower.",
                   "category": "recreational",
                   "coords": [
                         37.596199,
@@ -7747,7 +15154,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Fabrika - Klub virtual'noi real'nosti",
-                  "text": "A virtual reality club near the Tula Kremlin Tower.",
+                  "text": "A VR club called 'Fabrika - Klub virtual'noi real'nosti' by the Tula Kremlin Tower.",
                   "category": "recreational",
                   "coords": [
                         37.599277,
@@ -7756,7 +15163,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Tul'skii ekzotarium (novaia ekspozitsiia)",
-                  "text": "An exotarium located near the Tula Kremlin Tower.",
+                  "text": "The new exhibition of the Tula Exotarium at the Tula Kremlin Tower.",
                   "category": "recreational",
                   "coords": [
                         37.588762,
@@ -7765,7 +15172,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Kharakter",
-                  "text": "A theme park near the Tula Kremlin Tower.",
+                  "text": "A recreational zone called 'Kharakter' near the Tula Kremlin Tower.",
                   "category": "recreational",
                   "coords": [
                         37.593657,
@@ -7774,7 +15181,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             },
             {
                   "name": "Otryv",
-                  "text": "A theme park situated near the Tula Kremlin Tower.",
+                  "text": "An experience room called 'Otryv' by the Tula Kremlin Tower.",
                   "category": "recreational",
                   "coords": [
                         37.602294,
@@ -7872,7 +15279,1420 @@ imageHint: "Pavlovsk Palace golden facade and dome",
     image: "/poi-images/russia-volgograd-mill-ruins-history-v2.webp",
   },
   {
-    id: "russia-krasnoyarsk-museum-history-v2",
+    id: "russia-krasnoyarsk-museum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Regionalmuseum Krasnojarsk",
+                  "text": "Ein bedeutendes Regionalmuseum in einem einzigartigen Gebäude im Stil eines altägyptischen Tempels.",
+                  "category": "museum",
+                  "coords": [
+                        92.872803,
+                        56.007412
+                  ]
+            },
+            {
+                  "name": "Krasnoiarskii khudozhestvennyi muzei im. V. I. Surikova.",
+                  "text": "Eine Kunstgalerie mit Werken des berühmten Historienmalers Wassili Surikow.",
+                  "category": "museum",
+                  "coords": [
+                        92.881743,
+                        56.011324
+                  ]
+            },
+            {
+                  "name": "Muzeinyi tsentr <<Ploshchad' Mira>>",
+                  "text": "Das größte Zentrum für zeitgenössische Kunst in Sibirien, ehemals ein Lenin-Museum.",
+                  "category": "museum",
+                  "coords": [
+                        92.893811,
+                        56.010964
+                  ]
+            },
+            {
+                  "name": "Parokhod \"Sviatitel' Nikolai\"",
+                  "text": "Ein historischer Flussdampfer aus dem 19. Jahrhundert, heute ein Museum auf dem Jenissei.",
+                  "category": "museum",
+                  "coords": [
+                        92.894969,
+                        56.0106
+                  ]
+            },
+            {
+                  "name": "Muzei-usad'ba Vasiliia Ivanovicha Surikova",
+                  "text": "Das erhaltene Holzanwesen, in dem der gefeierte Maler Wassili Surikow geboren wurde.",
+                  "category": "museum",
+                  "coords": [
+                        92.861861,
+                        56.013456
+                  ]
+            },
+            {
+                  "name": "Muzei-usad'ba G. V. Iudina",
+                  "text": "Das ehemalige Anwesen des Bibliophilen Gennadi Judin, heute ein Museum mit Blick auf den Fluss.",
+                  "category": "museum",
+                  "coords": [
+                        92.808765,
+                        55.996032
+                  ]
+            },
+            {
+                  "name": "Pravitel'stvo Krasnoiarskogo kraia",
+                  "text": "Ein prominentes Beispiel monumentaler Sowjetarchitektur, bekannt als „Haus der Sowjets“.",
+                  "category": "historical",
+                  "coords": [
+                        92.852393,
+                        56.011649
+                  ]
+            },
+            {
+                  "name": "Sviato-Pokrovskii kafedral'nyi sobor",
+                  "text": "Das älteste Steingebäude in Krasnojarsk, 1795 im Stil des sibirischen Barocks fertiggestellt.",
+                  "category": "religious",
+                  "coords": [
+                        92.876634,
+                        56.012836
+                  ]
+            },
+            {
+                  "name": "Krasnoiarskaia kraevaia filarmoniia",
+                  "text": "Ein modernistischer Konzerthallenkomplex am Zusammenfluss von Jenissei und Katscha.",
+                  "category": "cultural",
+                  "coords": [
+                        92.894792,
+                        56.01246
+                  ]
+            },
+            {
+                  "name": "Krasnoiarskii gosudarstvennyi tsirk",
+                  "text": "Ein permanentes Zirkusgebäude mit einer markanten Kuppelstruktur am rechten Ufer der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        92.907502,
+                        55.995657
+                  ]
+            },
+            {
+                  "name": "Krasnoiarskii teatr iunogo zritelia",
+                  "text": "Ein professionelles Theater für junges Publikum und ein wichtiges Kulturzentrum der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        92.928588,
+                        55.996789
+                  ]
+            },
+            {
+                  "name": "Tserkov' Sviatogo Sarkisa",
+                  "text": "Eine armenisch-apostolische Kirche, erbaut aus traditionellem orangefarbenem Tuffstein aus Armenien.",
+                  "category": "religious",
+                  "coords": [
+                        92.913316,
+                        56.044363
+                  ]
+            },
+            {
+                  "name": "Krasnoiarskii gosudarstvennyi teatr opery i baleta",
+                  "text": "Ein bedeutendes Opernhaus, benannt zu Ehren des weltberühmten Baritons Dmitri Chworostowski.",
+                  "category": "cultural",
+                  "coords": [
+                        92.868386,
+                        56.008656
+                  ]
+            },
+            {
+                  "name": "Krasnoiarskii muzykal'nyi teatr",
+                  "text": "Ein beliebtes Stadttheater, das auf Musicals, Operetten und Rockopern spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        92.835898,
+                        56.009781
+                  ]
+            },
+            {
+                  "name": "Prikhod Preobrazheniia Gospodnia",
+                  "text": "Eine neugotische katholische Backsteinkirche von 1910, in der auch Orgelkonzerte stattfinden.",
+                  "category": "religious",
+                  "coords": [
+                        92.847458,
+                        56.007589
+                  ]
+            },
+            {
+                  "name": "Krasnoiarskii Big-Ben",
+                  "text": "Ein großer Uhrturm auf dem Gebäude der Stadtverwaltung, der an Londons Wahrzeichen erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        92.872459,
+                        56.009503
+                  ]
+            },
+            {
+                  "name": "Vinogradovskii most",
+                  "text": "Eine Schrägseil-Fußgängerbrücke, die das Stadtzentrum mit der Erholungsinsel Tatyschew verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        92.900448,
+                        56.013797
+                  ]
+            },
+            {
+                  "name": "Chasovnia Paraskevy Piatnitsy",
+                  "text": "Eine ikonische Kapelle auf einem Hügel, die auf der russischen 10-Rubel-Banknote abgebildet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        92.859775,
+                        56.023646
+                  ]
+            },
+            {
+                  "name": "Nikolaevskii most",
+                  "text": "Eine große mehrspurige Straßenbrücke über den Jenissei, die im Jahr 2015 eröffnet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        92.81193,
+                        55.983922
+                  ]
+            },
+            {
+                  "name": "Blagoveshchenskii zhenskii monastyr'",
+                  "text": "Ein orthodoxes Frauenkloster mit der Verkündigungskirche und ihrer markanten grünen Fassade.",
+                  "category": "landmark",
+                  "coords": [
+                        92.886241,
+                        56.014216
+                  ]
+            },
+            {
+                  "name": "Ostrov Tatyshev",
+                  "text": "Die größte Insel am Jenissei in Krasnojarsk mit ausgedehnten Radwegen und Erholungsgebieten.",
+                  "category": "park",
+                  "coords": [
+                        92.943763,
+                        56.027351
+                  ]
+            },
+            {
+                  "name": "Gorki-Zentralpark",
+                  "text": "Der älteste Park der Stadt mit einer historischen Kindereisenbahn und schattigen Alleen nahe dem Jenissei-Ufer.",
+                  "category": "park",
+                  "coords": [
+                        92.853043,
+                        56.00786
+                  ]
+            },
+            {
+                  "name": "Nikolaevskoe kladbishche",
+                  "text": "Ein historischer Friedhof aus dem späten 19. Jahrhundert, der als ruhige, parkähnliche Nekropole mit alten Denkmälern dient.",
+                  "category": "park",
+                  "coords": [
+                        92.788637,
+                        56.013341
+                  ]
+            },
+            {
+                  "name": "Dendrarii Instituta lesa imeni V. N. Sukachiova SO RAN",
+                  "text": "Ein wissenschaftliches Arboretum mit einer vielfältigen Sammlung sibirischer Baumarten und regionaler Flora.",
+                  "category": "park",
+                  "coords": [
+                        92.76536,
+                        55.986134
+                  ]
+            },
+            {
+                  "name": "Literaturnyi muzei im. V.P. Astaf'eva",
+                  "text": "Ein dem Leben des Schriftstellers Viktor Astafjew gewidmetes Museum, das in einem Holzhaus untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        92.872981,
+                        56.01385
+                  ]
+            },
+            {
+                  "name": "grot Khitryi kliuch",
+                  "text": "Eine natürliche Felsgrotte und archäologische Stätte, eingebettet in die malerische Landschaft in der Nähe der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        92.894742,
+                        55.926233
+                  ]
+            },
+            {
+                  "name": "Magda",
+                  "text": "Ein markanter Felsgipfel im Naturschutzgebiet Krasnojarsker Stolby, der bei Kletterern beliebt ist.",
+                  "category": "natural",
+                  "coords": [
+                        92.896613,
+                        55.92968
+                  ]
+            },
+            {
+                  "name": "Narodnyi muzei istorii i razvitiia sudokhodstva v Eniseiskom basseine",
+                  "text": "Ein Museum, das die Geschichte der Schifffahrt und der Entwicklung des Transportwesens auf dem Jenissei dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        92.874272,
+                        56.008254
+                  ]
+            },
+            {
+                  "name": "Muzei geologii Tsentral'noi Sibiri",
+                  "text": "Dieses Museum zeigt eine umfangreiche Sammlung von Mineralien, Erzen und Fossilien aus Zentralsibirien.",
+                  "category": "museum",
+                  "coords": [
+                        92.872631,
+                        56.012036
+                  ]
+            },
+            {
+                  "name": "Khudozhestvennaia galereia",
+                  "text": "Eine Kunstgalerie, die eine breite Palette an Gemälden und Skulpturen zeitgenössischer sibirischer Künstler zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        92.967077,
+                        56.011528
+                  ]
+            },
+            {
+                  "name": "Khogvarts Kholl",
+                  "text": "Ein thematisches Museum und Ausstellungsraum, inspiriert von der magischen Welt der Fantasy-Literatur.",
+                  "category": "museum",
+                  "coords": [
+                        92.901223,
+                        56.019715
+                  ]
+            },
+            {
+                  "name": "Narodnyi muzei istorii OVD Krasnoiarskogo kraia",
+                  "text": "Ein Fachmuseum, das die Geschichte und Entwicklung der regionalen Strafverfolgungsbehörden detailliert darstellt.",
+                  "category": "museum",
+                  "coords": [
+                        92.858575,
+                        56.010015
+                  ]
+            },
+            {
+                  "name": "V tsentre mira",
+                  "text": "Eine moderne Kunstgalerie an der zentralen Mira-Allee der Stadt, die verschiedene kulturelle Ausstellungen beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        92.861261,
+                        56.011678
+                  ]
+            },
+            {
+                  "name": "Muzei istorii Krasnoiarskoi Zheleznoi Dorogi",
+                  "text": "Ein Museum, das den Bau und das technologische Erbe der Transsibirischen Eisenbahn in der Region erkundet.",
+                  "category": "museum",
+                  "coords": [
+                        92.848162,
+                        56.010685
+                  ]
+            },
+            {
+                  "name": "Muzei istorii finansovoi sistemy Eniseiskoi gubernii (Krasnoiarskogo kraia)",
+                  "text": "Ein historisches Museum, das die Entwicklung des Bankwesens im ehemaligen Gouvernement Jenisseisk nachzeichnet.",
+                  "category": "museum",
+                  "coords": [
+                        92.846674,
+                        56.010631
+                  ]
+            },
+            {
+                  "name": "Memorial Pobedy",
+                  "text": "Ein feierlicher Gedenkkomplex mit einer ewigen Flamme, gewidmet den Soldaten des Großen Vaterländischen Krieges.",
+                  "category": "museum",
+                  "coords": [
+                        92.886896,
+                        56.023144
+                  ]
+            },
+            {
+                  "name": "Dom-muzei P.A. Krasikova",
+                  "text": "Das einstige Wohnhaus des Revolutionärs Peter Krassikow mit Inneneinrichtung des frühen 20. Jahrhunderts.",
+                  "category": "museum",
+                  "coords": [
+                        92.84782,
+                        56.012511
+                  ]
+            },
+            {
+                  "name": "Geologicheskii muzei",
+                  "text": "Ein Fachmuseum mit einer vielfältigen Ausstellung sibirischer Mineralien, Quarzkristalle und geologischer Proben.",
+                  "category": "museum",
+                  "coords": [
+                        92.740442,
+                        55.994601
+                  ]
+            },
+            {
+                  "name": "Bortsam za sovetskuiu vlast'",
+                  "text": "Ein massives Bronzedenkmal auf dem Revolutionsplatz zu Ehren der Kämpfer für die Sowjetmacht in der Region.",
+                  "category": "historical",
+                  "coords": [
+                        92.838744,
+                        56.008748
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Krasnoiarskii kraevoi kraevedcheskii muzei",
+                  "text": "Jelentős regionális múzeum egy egyedülálló, ókori egyiptomi templomra emlékeztető épületben.",
+                  "category": "museum",
+                  "coords": [
+                        92.872803,
+                        56.007412
+                  ]
+            },
+            {
+                  "name": "Krasnoiarskii khudozhestvennyi muzei im. V. I. Surikova.",
+                  "text": "Művészeti galéria, amely a híres történelmi festő, Vaszilij Szurikov műveit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        92.881743,
+                        56.011324
+                  ]
+            },
+            {
+                  "name": "Muzeinyi tsentr <<Ploshchad' Mira>>",
+                  "text": "Szibéria legnagyobb kortárs művészeti központja, amely korábban Lenin-múzeum volt.",
+                  "category": "museum",
+                  "coords": [
+                        92.893811,
+                        56.010964
+                  ]
+            },
+            {
+                  "name": "Parokhod \"Sviatitel' Nikolai\"",
+                  "text": "Történelmi, 19. századi folyami gőzhajó, amely ma múzeumként horgonyoz a Jenyiszejen.",
+                  "category": "museum",
+                  "coords": [
+                        92.894969,
+                        56.0106
+                  ]
+            },
+            {
+                  "name": "Muzei-usad'ba Vasiliia Ivanovicha Surikova",
+                  "text": "A megőrzött faudvarház, ahol a híres festő, Vaszilij Szurikov született.",
+                  "category": "museum",
+                  "coords": [
+                        92.861861,
+                        56.013456
+                  ]
+            },
+            {
+                  "name": "Muzei-usad'ba G. V. Iudina",
+                  "text": "Gennagyij Jugyin bibliofil egykori birtoka, ma a folyóra néző múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        92.808765,
+                        55.996032
+                  ]
+            },
+            {
+                  "name": "Pravitel'stvo Krasnoiarskogo kraia",
+                  "text": "A szovjet monumentális építészet kiemelkedő példája, amelyet a „Szovjetek Házaként” ismernek.",
+                  "category": "historical",
+                  "coords": [
+                        92.852393,
+                        56.011649
+                  ]
+            },
+            {
+                  "name": "Sviato-Pokrovskii kafedral'nyi sobor",
+                  "text": "Krasznojarszk legrégebbi kőépülete, amely 1795-ben készült el szibériai barokk stílusban.",
+                  "category": "religious",
+                  "coords": [
+                        92.876634,
+                        56.012836
+                  ]
+            },
+            {
+                  "name": "Krasnoiarskaia kraevaia filarmoniia",
+                  "text": "Modernista hangversenyterem-komplexum a Jenyiszej és a Kacsa folyók összefolyásánál.",
+                  "category": "cultural",
+                  "coords": [
+                        92.894792,
+                        56.01246
+                  ]
+            },
+            {
+                  "name": "Krasnoiarskii gosudarstvennyi tsirk",
+                  "text": "Állandó cirkuszi helyszín jellegzetes kupolás szerkezettel a város jobb partján.",
+                  "category": "cultural",
+                  "coords": [
+                        92.907502,
+                        55.995657
+                  ]
+            },
+            {
+                  "name": "Krasnoiarskii teatr iunogo zritelia",
+                  "text": "Professzionális ifjúsági színház és a város egyik jelentős kulturális központja.",
+                  "category": "cultural",
+                  "coords": [
+                        92.928588,
+                        55.996789
+                  ]
+            },
+            {
+                  "name": "Tserkov' Sviatogo Sarkisa",
+                  "text": "Örmény apostoli templom, amely Örményországból származó hagyományos narancssárga tufából épült.",
+                  "category": "religious",
+                  "coords": [
+                        92.913316,
+                        56.044363
+                  ]
+            },
+            {
+                  "name": "Krasnoiarskii gosudarstvennyi teatr opery i baleta",
+                  "text": "Jelentős operaház, amelyet a világhírű bariton, Dmitrij Hvorosztovszkij tiszteletére neveztek el.",
+                  "category": "cultural",
+                  "coords": [
+                        92.868386,
+                        56.008656
+                  ]
+            },
+            {
+                  "name": "Krasnoiarskii muzykal'nyi teatr",
+                  "text": "Népszerű városi színház, amely musicalekre, operettekre és rockoperákra specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        92.835898,
+                        56.009781
+                  ]
+            },
+            {
+                  "name": "Prikhod Preobrazheniia Gospodnia",
+                  "text": "1910-ből származó neogótikus vöröstéglás katolikus templom, amely orgonakoncerteknek is helyet ad.",
+                  "category": "religious",
+                  "coords": [
+                        92.847458,
+                        56.007589
+                  ]
+            },
+            {
+                  "name": "Krasnoiarskii Big-Ben",
+                  "text": "A városi közigazgatási épület nagy óratornya, amely a londoni jelképre emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        92.872459,
+                        56.009503
+                  ]
+            },
+            {
+                  "name": "Vinogradovskii most",
+                  "text": "Kábeltartós gyalogoshíd, amely a városközpontot köti össze a szabadidős Tatisev-szigettel.",
+                  "category": "landmark",
+                  "coords": [
+                        92.900448,
+                        56.013797
+                  ]
+            },
+            {
+                  "name": "Chasovnia Paraskevy Piatnitsy",
+                  "text": "Egy dombtetőn álló ikonikus kápolna, amely az orosz 10 rubeles bankjegyen is szerepel.",
+                  "category": "landmark",
+                  "coords": [
+                        92.859775,
+                        56.023646
+                  ]
+            },
+            {
+                  "name": "Nikolaevskii most",
+                  "text": "Jelentős többsávos közúti híd a Jenyiszej felett, amelyet 2015-ben adtak át.",
+                  "category": "landmark",
+                  "coords": [
+                        92.81193,
+                        55.983922
+                  ]
+            },
+            {
+                  "name": "Blagoveshchenskii zhenskii monastyr'",
+                  "text": "Ortodox női kolostor az Örömhír-templommal, amelynek jellegzetes zöld homlokzata van.",
+                  "category": "landmark",
+                  "coords": [
+                        92.886241,
+                        56.014216
+                  ]
+            },
+            {
+                  "name": "Ostrov Tatyshev",
+                  "text": "A Jenyiszej folyó legnagyobb szigete Krasznojarszkban, kiterjedt kerékpárutakkal és szabadidős területekkel.",
+                  "category": "park",
+                  "coords": [
+                        92.943763,
+                        56.027351
+                  ]
+            },
+            {
+                  "name": "Tsentral'nyi park",
+                  "text": "A város legrégebbi parkja történelmi gyermekvasúttal és árnyas sétányokkal a Jenyiszej partján.",
+                  "category": "park",
+                  "coords": [
+                        92.853043,
+                        56.00786
+                  ]
+            },
+            {
+                  "name": "Nikolaevskoe kladbishche",
+                  "text": "A 19. század végén alapított történelmi temető, amely csendes, parkos nekropoliszként szolgál régi emlékművekkel.",
+                  "category": "park",
+                  "coords": [
+                        92.788637,
+                        56.013341
+                  ]
+            },
+            {
+                  "name": "Dendrarii Instituta lesa imeni V. N. Sukachiova SO RAN",
+                  "text": "Tudományos arborétum, amely a szibériai fafajok és a regionális flóra változatos gyűjteményét mutatja be.",
+                  "category": "park",
+                  "coords": [
+                        92.76536,
+                        55.986134
+                  ]
+            },
+            {
+                  "name": "Literaturnyi muzei im. V.P. Astaf'eva",
+                  "text": "Viktor Asztafjev író életének szentelt múzeum, amely egy szép faházban kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        92.872981,
+                        56.01385
+                  ]
+            },
+            {
+                  "name": "grot Khitryi kliuch",
+                  "text": "Természetes sziklabarlang és régészeti lelőhely a város közeli festői tájakon.",
+                  "category": "historical",
+                  "coords": [
+                        92.894742,
+                        55.926233
+                  ]
+            },
+            {
+                  "name": "Magda",
+                  "text": "Kiemelkedő sziklás csúcs a Krasznojarszki Stolbi Természetvédelmi Területen, amely népszerű a sziklamászók körében.",
+                  "category": "natural",
+                  "coords": [
+                        92.896613,
+                        55.92968
+                  ]
+            },
+            {
+                  "name": "Narodnyi muzei istorii i razvitiia sudokhodstva v Eniseiskom basseine",
+                  "text": "A Jenyiszej folyó hajózásának és a vízi közlekedés fejlődésének történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        92.874272,
+                        56.008254
+                  ]
+            },
+            {
+                  "name": "Muzei geologii Tsentral'noi Sibiri",
+                  "text": "Ez a múzeum Közép-Szibéria geológiájára jellemző ásványok, ércek és kövületek gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        92.872631,
+                        56.012036
+                  ]
+            },
+            {
+                  "name": "Khudozhestvennaia galereia",
+                  "text": "Kortárs szibériai művészek festményeinek és szobrainak széles választékát bemutató művészeti galéria.",
+                  "category": "museum",
+                  "coords": [
+                        92.967077,
+                        56.011528
+                  ]
+            },
+            {
+                  "name": "Khogvarts Kholl",
+                  "text": "Tematikus múzeum és kiállítótér, amelyet a fantasy irodalom mágikus világa ihletett.",
+                  "category": "museum",
+                  "coords": [
+                        92.901223,
+                        56.019715
+                  ]
+            },
+            {
+                  "name": "Narodnyi muzei istorii OVD Krasnoiarskogo kraia",
+                  "text": "Speciális múzeum, amely a regionális bűnüldözés és belügyek történetét és fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        92.858575,
+                        56.010015
+                  ]
+            },
+            {
+                  "name": "V tsentre mira",
+                  "text": "Modern művészeti galéria a város központi Mira sugárútján, amely változatos kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        92.861261,
+                        56.011678
+                  ]
+            },
+            {
+                  "name": "Muzei istorii Krasnoiarskoi Zheleznoi Dorogi",
+                  "text": "A Transzszibériai Vasút építését és technológiai örökségét bemutató múzeum a régióban.",
+                  "category": "museum",
+                  "coords": [
+                        92.848162,
+                        56.010685
+                  ]
+            },
+            {
+                  "name": "Muzei istorii finansovoi sistemy Eniseiskoi gubernii (Krasnoiarskogo kraia)",
+                  "text": "Történeti múzeum, amely a bankolás fejlődését mutatja be az egykori Jenyiszeji kormányzóságban.",
+                  "category": "museum",
+                  "coords": [
+                        92.846674,
+                        56.010631
+                  ]
+            },
+            {
+                  "name": "Memorial Pobedy",
+                  "text": "Komor emlékkomplexum öröklánggal, amelyet a Nagy Honvédő Háború katonáinak szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        92.886896,
+                        56.023144
+                  ]
+            },
+            {
+                  "name": "Dom-muzei P.A. Krasikova",
+                  "text": "Peter Kraszikov forradalmár egykori otthona, amely megőrizte a 20. század eleji belső tereket.",
+                  "category": "museum",
+                  "coords": [
+                        92.84782,
+                        56.012511
+                  ]
+            },
+            {
+                  "name": "Geologicheskii muzei",
+                  "text": "Speciális múzeum, amely szibériai ásványok és geológiai minták változatos gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        92.740442,
+                        55.994601
+                  ]
+            },
+            {
+                  "name": "Bortsam za sovetskuiu vlast'",
+                  "text": "Hatalmas bronz emlékmű a Forradalom téren a régió szovjet hatalmáért küzdő harcosok tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        92.838744,
+                        56.008748
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Krasnoiarskii kraevoi kraevedcheskii muzei",
+                  "text": "Un muzeu regional major găzduit într-o clădire unică, proiectată ca un templu egiptean antic.",
+                  "category": "museum",
+                  "coords": [
+                        92.872803,
+                        56.007412
+                  ]
+            },
+            {
+                  "name": "Krasnoiarskii khudozhestvennyi muzei im. V. I. Surikova.",
+                  "text": "O galerie de artă care expune lucrări ale celebrului pictor istoric Vasili Surikov.",
+                  "category": "museum",
+                  "coords": [
+                        92.881743,
+                        56.011324
+                  ]
+            },
+            {
+                  "name": "Muzeinyi tsentr <<Ploshchad' Mira>>",
+                  "text": "Cel mai mare centru de artă contemporană din Siberia, fost muzeu dedicat lui Lenin.",
+                  "category": "museum",
+                  "coords": [
+                        92.893811,
+                        56.010964
+                  ]
+            },
+            {
+                  "name": "Parokhod \"Sviatitel' Nikolai\"",
+                  "text": "Un vapor fluvial istoric din secolul al XIX-lea, acum un muzeu ancorat pe fluviul Enisei.",
+                  "category": "museum",
+                  "coords": [
+                        92.894969,
+                        56.0106
+                  ]
+            },
+            {
+                  "name": "Muzei-usad'ba Vasiliia Ivanovicha Surikova",
+                  "text": "Moșia din lemn conservată unde s-a născut celebrul pictor Vasili Surikov.",
+                  "category": "museum",
+                  "coords": [
+                        92.861861,
+                        56.013456
+                  ]
+            },
+            {
+                  "name": "Muzei-usad'ba G. V. Iudina",
+                  "text": "Fosta moșie a bibliofilului Ghenadi Iudin, acum un muzeu cu vedere la râu.",
+                  "category": "museum",
+                  "coords": [
+                        92.808765,
+                        55.996032
+                  ]
+            },
+            {
+                  "name": "Pravitel'stvo Krasnoiarskogo kraia",
+                  "text": "Un exemplu proeminent de arhitectură monumentală sovietică, cunoscut sub numele de „Casa Sovietelor”.",
+                  "category": "historical",
+                  "coords": [
+                        92.852393,
+                        56.011649
+                  ]
+            },
+            {
+                  "name": "Sviato-Pokrovskii kafedral'nyi sobor",
+                  "text": "Cea mai veche clădire din piatră din Krasnoiarsk, finalizată în 1795 în stil baroc siberian.",
+                  "category": "religious",
+                  "coords": [
+                        92.876634,
+                        56.012836
+                  ]
+            },
+            {
+                  "name": "Krasnoiarskaia kraevaia filarmoniia",
+                  "text": "Un complex modernist de săli de concerte situat la confluența râurilor Enisei și Kacia.",
+                  "category": "cultural",
+                  "coords": [
+                        92.894792,
+                        56.01246
+                  ]
+            },
+            {
+                  "name": "Krasnoiarskii gosudarstvennyi tsirk",
+                  "text": "O sală de circ permanentă, cu o structură distinctivă sub formă de cupolă, pe malul drept al orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        92.907502,
+                        55.995657
+                  ]
+            },
+            {
+                  "name": "Krasnoiarskii teatr iunogo zritelia",
+                  "text": "Un teatru profesionist pentru publicul tânăr și un centru cultural major al orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        92.928588,
+                        55.996789
+                  ]
+            },
+            {
+                  "name": "Tserkov' Sviatogo Sarkisa",
+                  "text": "O biserică apostolică armeană construită cu tuf portocaliu tradițional din Armenia.",
+                  "category": "religious",
+                  "coords": [
+                        92.913316,
+                        56.044363
+                  ]
+            },
+            {
+                  "name": "Krasnoiarskii gosudarstvennyi teatr opery i baleta",
+                  "text": "O operă majoră numită în onoarea baritonului de renume mondial Dmitri Hvorostovski.",
+                  "category": "cultural",
+                  "coords": [
+                        92.868386,
+                        56.008656
+                  ]
+            },
+            {
+                  "name": "Krasnoiarskii muzykal'nyi teatr",
+                  "text": "Un teatru popular din oraș, specializat în musicaluri, operete și opere rock.",
+                  "category": "cultural",
+                  "coords": [
+                        92.835898,
+                        56.009781
+                  ]
+            },
+            {
+                  "name": "Prikhod Preobrazheniia Gospodnia",
+                  "text": "O biserică catolică neogotică din cărămidă roșie din 1910, care găzduiește și concerte de orgă.",
+                  "category": "religious",
+                  "coords": [
+                        92.847458,
+                        56.007589
+                  ]
+            },
+            {
+                  "name": "Krasnoiarskii Big-Ben",
+                  "text": "Un turn cu ceas mare de pe clădirea administrației orașului, care seamănă cu simbolul Londrei.",
+                  "category": "landmark",
+                  "coords": [
+                        92.872459,
+                        56.009503
+                  ]
+            },
+            {
+                  "name": "Vinogradovskii most",
+                  "text": "Un pod pietonal hobanat care leagă centrul orașului de insula de recreere Tatîșev.",
+                  "category": "landmark",
+                  "coords": [
+                        92.900448,
+                        56.013797
+                  ]
+            },
+            {
+                  "name": "Chasovnia Paraskevy Piatnitsy",
+                  "text": "O capelă emblematică pe un deal, reprezentată pe bancnota rusească de 10 ruble.",
+                  "category": "landmark",
+                  "coords": [
+                        92.859775,
+                        56.023646
+                  ]
+            },
+            {
+                  "name": "Nikolaevskii most",
+                  "text": "Un pod rutier major cu mai multe benzi care traversează fluviul Enisei, deschis în 2015.",
+                  "category": "landmark",
+                  "coords": [
+                        92.81193,
+                        55.983922
+                  ]
+            },
+            {
+                  "name": "Blagoveshchenskii zhenskii monastyr'",
+                  "text": "O mănăstire ortodoxă de maici care include Biserica Bunei Vestiri, cu fațada sa verde distinctă.",
+                  "category": "landmark",
+                  "coords": [
+                        92.886241,
+                        56.014216
+                  ]
+            },
+            {
+                  "name": "Ostrov Tatyshev",
+                  "text": "Cea mai mare insulă de pe râul Enisei din Krasnoiarsk, oferind piste lungi de biciclete și zone de recreere.",
+                  "category": "park",
+                  "coords": [
+                        92.943763,
+                        56.027351
+                  ]
+            },
+            {
+                  "name": "Tsentral'nyi park",
+                  "text": "Cel mai vechi parc al orașului, dotat cu o cale ferată istorică pentru copii și alei umbrite lângă malul Eniseiului.",
+                  "category": "park",
+                  "coords": [
+                        92.853043,
+                        56.00786
+                  ]
+            },
+            {
+                  "name": "Nikolaevskoe kladbishche",
+                  "text": "Un cimitir istoric înființat la sfârșitul secolului al XIX-lea, servind ca o necropolă liniștită, asemănătoare unui parc, cu monumente vechi.",
+                  "category": "park",
+                  "coords": [
+                        92.788637,
+                        56.013341
+                  ]
+            },
+            {
+                  "name": "Dendrarii Instituta lesa imeni V. N. Sukachiova SO RAN",
+                  "text": "Un arboretum științific ce prezintă o colecție diversă de specii de arbori siberieni și floră regională.",
+                  "category": "park",
+                  "coords": [
+                        92.76536,
+                        55.986134
+                  ]
+            },
+            {
+                  "name": "Literaturnyi muzei im. V.P. Astaf'eva",
+                  "text": "Un muzeu dedicat vieții scriitorului Viktor Astafiev, găzduit într-un conac de lemn restaurat.",
+                  "category": "museum",
+                  "coords": [
+                        92.872981,
+                        56.01385
+                  ]
+            },
+            {
+                  "name": "grot Khitryi kliuch",
+                  "text": "O grotă naturală și sit arheologic cuibărit în peisajele pitorești din apropierea orașului.",
+                  "category": "historical",
+                  "coords": [
+                        92.894742,
+                        55.926233
+                  ]
+            },
+            {
+                  "name": "Magda",
+                  "text": "Un vârf stâncos proeminent situat în Rezervația Naturală Stolbi din Krasnoiarsk, popular printre alpiniști.",
+                  "category": "natural",
+                  "coords": [
+                        92.896613,
+                        55.92968
+                  ]
+            },
+            {
+                  "name": "Narodnyi muzei istorii i razvitiia sudokhodstva v Eniseiskom basseine",
+                  "text": "Un muzeu ce relatează istoria navigației și dezvoltarea transportului naval de-a lungul fluviului Enisei.",
+                  "category": "museum",
+                  "coords": [
+                        92.874272,
+                        56.008254
+                  ]
+            },
+            {
+                  "name": "Muzei geologii Tsentral'noi Sibiri",
+                  "text": "Acest muzeu expune o colecție vastă de minerale, minereuri și fosile unice pentru geologia Siberiei Centrale.",
+                  "category": "museum",
+                  "coords": [
+                        92.872631,
+                        56.012036
+                  ]
+            },
+            {
+                  "name": "Khudozhestvennaia galereia",
+                  "text": "O galerie de artă ce expune o gamă largă de picturi și sculpturi realizate de artiști siberieni contemporani.",
+                  "category": "museum",
+                  "coords": [
+                        92.967077,
+                        56.011528
+                  ]
+            },
+            {
+                  "name": "Khogvarts Kholl",
+                  "text": "Un muzeu tematic și spațiu expozițional inspirat de lumea magică a literaturii fantasy.",
+                  "category": "museum",
+                  "coords": [
+                        92.901223,
+                        56.019715
+                  ]
+            },
+            {
+                  "name": "Narodnyi muzei istorii OVD Krasnoiarskogo kraia",
+                  "text": "Un muzeu specializat ce detaliază istoria și dezvoltarea forțelor de ordine și a afacerilor interne regionale.",
+                  "category": "museum",
+                  "coords": [
+                        92.858575,
+                        56.010015
+                  ]
+            },
+            {
+                  "name": "V tsentre mira",
+                  "text": "O galerie de artă modernă situată pe bulevardul central Mira, care găzduiește diverse expoziții culturale.",
+                  "category": "museum",
+                  "coords": [
+                        92.861261,
+                        56.011678
+                  ]
+            },
+            {
+                  "name": "Muzei istorii Krasnoiarskoi Zheleznoi Dorogi",
+                  "text": "Un muzeu ce explorează construcția și moștenirea tehnologică a Căii Ferate Transsiberiene în regiune.",
+                  "category": "museum",
+                  "coords": [
+                        92.848162,
+                        56.010685
+                  ]
+            },
+            {
+                  "name": "Muzei istorii finansovoi sistemy Eniseiskoi gubernii (Krasnoiarskogo kraia)",
+                  "text": "Un muzeu istoric ce urmărește evoluția sistemului bancar și financiar în fosta gubernie Enisei.",
+                  "category": "museum",
+                  "coords": [
+                        92.846674,
+                        56.010631
+                  ]
+            },
+            {
+                  "name": "Memorial Pobedy",
+                  "text": "Un complex memorial solemn cu o flacără eternă, dedicat soldaților din Marele Război pentru Apărarea Patriei.",
+                  "category": "museum",
+                  "coords": [
+                        92.886896,
+                        56.023144
+                  ]
+            },
+            {
+                  "name": "Dom-muzei P.A. Krasikova",
+                  "text": "Fosta casă a revoluționarului Peter Krasikov, păstrând interioare de la începutul secolului XX.",
+                  "category": "museum",
+                  "coords": [
+                        92.84782,
+                        56.012511
+                  ]
+            },
+            {
+                  "name": "Geologicheskii muzei",
+                  "text": "Un muzeu specializat ce prezintă o expoziție diversă de minerale siberiene și specimene geologice.",
+                  "category": "museum",
+                  "coords": [
+                        92.740442,
+                        55.994601
+                  ]
+            },
+            {
+                  "name": "Bortsam za sovetskuiu vlast'",
+                  "text": "Un monument masiv din bronz situat în Piața Revoluției, onorând luptătorii pentru puterea sovietică.",
+                  "category": "historical",
+                  "coords": [
+                        92.838744,
+                        56.008748
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of local studies",
+                  "text": "A major regional museum housed in a unique building designed like an ancient Egyptian temple.",
+                  "category": "museum",
+                  "coords": [
+                        92.872803,
+                        56.007412
+                  ]
+            },
+            {
+                  "name": "Krasnoiarskii khudozhestvennyi muzei im. V. I. Surikova.",
+                  "text": "An art gallery showcasing works by the famous historical painter Vasily Surikov.",
+                  "category": "museum",
+                  "coords": [
+                        92.881743,
+                        56.011324
+                  ]
+            },
+            {
+                  "name": "Muzeinyi tsentr <<Ploshchad' Mira>>",
+                  "text": "The largest contemporary art center in Siberia, formerly a museum dedicated to Lenin.",
+                  "category": "museum",
+                  "coords": [
+                        92.893811,
+                        56.010964
+                  ]
+            },
+            {
+                  "name": "Steamship \"Sainted Nicholas\"",
+                  "text": "A historic 19th-century river steamer, now a museum anchored on the Yenisei River.",
+                  "category": "museum",
+                  "coords": [
+                        92.894969,
+                        56.0106
+                  ]
+            },
+            {
+                  "name": "Muzei-usad'ba Vasiliia Ivanovicha Surikova",
+                  "text": "The preserved wooden estate where the celebrated painter Vasily Surikov was born.",
+                  "category": "museum",
+                  "coords": [
+                        92.861861,
+                        56.013456
+                  ]
+            },
+            {
+                  "name": "G.V.Yudin manor museum",
+                  "text": "The former estate of bibliophile Gennady Yudin, now a museum overlooking the river.",
+                  "category": "museum",
+                  "coords": [
+                        92.808765,
+                        55.996032
+                  ]
+            },
+            {
+                  "name": "Government of Krasnoyarsk Krai",
+                  "text": "A prominent example of Soviet monumental architecture, known as the \"House of Soviets.\"",
+                  "category": "historical",
+                  "coords": [
+                        92.852393,
+                        56.011649
+                  ]
+            },
+            {
+                  "name": "Sviato-Pokrovskii kafedral'nyi sobor",
+                  "text": "The oldest stone building in Krasnoyarsk, completed in 1795 in the Siberian Baroque style.",
+                  "category": "religious",
+                  "coords": [
+                        92.876634,
+                        56.012836
+                  ]
+            },
+            {
+                  "name": "Krasnoiarskaia kraevaia filarmoniia",
+                  "text": "A modernist concert hall complex located at the confluence of the Yenisei and Kacha rivers.",
+                  "category": "cultural",
+                  "coords": [
+                        92.894792,
+                        56.01246
+                  ]
+            },
+            {
+                  "name": "Krasnoyarsk State Circus",
+                  "text": "A permanent circus venue featuring a distinctive dome structure on the city's right bank.",
+                  "category": "cultural",
+                  "coords": [
+                        92.907502,
+                        55.995657
+                  ]
+            },
+            {
+                  "name": "Krasnoiarskii teatr iunogo zritelia",
+                  "text": "A professional theater for young audiences and a major cultural center of the city.",
+                  "category": "cultural",
+                  "coords": [
+                        92.928588,
+                        55.996789
+                  ]
+            },
+            {
+                  "name": "Tserkov' Sviatogo Sarkisa",
+                  "text": "An Armenian Apostolic church built with traditional orange tufa stone from Armenia.",
+                  "category": "religious",
+                  "coords": [
+                        92.913316,
+                        56.044363
+                  ]
+            },
+            {
+                  "name": "Krasnoyarsk State Opera and Ballet Theatre",
+                  "text": "A major opera house named in honor of the world-famous baritone Dmitri Hvorostovsky.",
+                  "category": "cultural",
+                  "coords": [
+                        92.868386,
+                        56.008656
+                  ]
+            },
+            {
+                  "name": "Krasnoiarskii muzykal'nyi teatr",
+                  "text": "A popular city theater specializing in musicals, operettas, and rock operas.",
+                  "category": "cultural",
+                  "coords": [
+                        92.835898,
+                        56.009781
+                  ]
+            },
+            {
+                  "name": "Roman Catholic Transfiguration Parish",
+                  "text": "A Neo-Gothic red-brick Catholic church from 1910 that also hosts organ concerts.",
+                  "category": "religious",
+                  "coords": [
+                        92.847458,
+                        56.007589
+                  ]
+            },
+            {
+                  "name": "Krasnoiarskii Big-Ben",
+                  "text": "A large clock tower on the city administration building that resembles London's landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        92.872459,
+                        56.009503
+                  ]
+            },
+            {
+                  "name": "Vinogradovskii most",
+                  "text": "A cable-stayed pedestrian bridge connecting the city center to the recreational Tatyshev Island.",
+                  "category": "landmark",
+                  "coords": [
+                        92.900448,
+                        56.013797
+                  ]
+            },
+            {
+                  "name": "Chasovnia Paraskevy Piatnitsy",
+                  "text": "An iconic hilltop chapel featured on the Russian 10-ruble banknote.",
+                  "category": "landmark",
+                  "coords": [
+                        92.859775,
+                        56.023646
+                  ]
+            },
+            {
+                  "name": "Nikolaevskii most",
+                  "text": "A major multi-lane road bridge spanning the Yenisei River, opened in 2015.",
+                  "category": "landmark",
+                  "coords": [
+                        92.81193,
+                        55.983922
+                  ]
+            },
+            {
+                  "name": "Blagoveshchenskii zhenskii monastyr'",
+                  "text": "An Orthodox convent featuring the Church of the Annunciation with its distinct green facade.",
+                  "category": "landmark",
+                  "coords": [
+                        92.886241,
+                        56.014216
+                  ]
+            },
+            {
+                  "name": "Tatyshev Island",
+                  "text": "The largest island on the Yenisei River within Krasnoyarsk, featuring extensive cycling paths and recreational areas.",
+                  "category": "park",
+                  "coords": [
+                        92.943763,
+                        56.027351
+                  ]
+            },
+            {
+                  "name": "Tsentral'nyi park",
+                  "text": "The city's oldest park, featuring a historic children's railway and shaded alleys near the Yenisei bank.",
+                  "category": "park",
+                  "coords": [
+                        92.853043,
+                        56.00786
+                  ]
+            },
+            {
+                  "name": "Nikolaevskoe kladbishche",
+                  "text": "A historic cemetery established in the late 19th century, serving as a quiet park-like necropolis with old monuments.",
+                  "category": "park",
+                  "coords": [
+                        92.788637,
+                        56.013341
+                  ]
+            },
+            {
+                  "name": "Dendrarii Instituta lesa imeni V. N. Sukachiova SO RAN",
+                  "text": "A scientific arboretum showcasing a diverse collection of Siberian tree species and regional flora.",
+                  "category": "park",
+                  "coords": [
+                        92.76536,
+                        55.986134
+                  ]
+            },
+            {
+                  "name": "Literaturnyi muzei im. V.P. Astaf'eva",
+                  "text": "A museum dedicated to the life of writer Viktor Astafyev, housed in a beautifully restored wooden mansion.",
+                  "category": "museum",
+                  "coords": [
+                        92.872981,
+                        56.01385
+                  ]
+            },
+            {
+                  "name": "grot Khitryi kliuch",
+                  "text": "A natural rock grotto and archaeological site nestled within the scenic landscapes near the city.",
+                  "category": "historical",
+                  "coords": [
+                        92.894742,
+                        55.926233
+                  ]
+            },
+            {
+                  "name": "Magda",
+                  "text": "A prominent rocky peak located within the Krasnoyarsk Stolby Nature Reserve, popular among climbers.",
+                  "category": "natural",
+                  "coords": [
+                        92.896613,
+                        55.92968
+                  ]
+            },
+            {
+                  "name": "Narodnyi muzei istorii i razvitiia sudokhodstva v Eniseiskom basseine",
+                  "text": "A museum chronicling the history of navigation and shipping development along the mighty Yenisei River.",
+                  "category": "museum",
+                  "coords": [
+                        92.874272,
+                        56.008254
+                  ]
+            },
+            {
+                  "name": "Muzei geologii Tsentral'noi Sibiri",
+                  "text": "This museum displays a vast collection of minerals, ores, and fossils unique to the geology of Central Siberia.",
+                  "category": "museum",
+                  "coords": [
+                        92.872631,
+                        56.012036
+                  ]
+            },
+            {
+                  "name": "Khudozhestvennaia galereia",
+                  "text": "An art gallery showcasing a wide array of paintings and sculptures by contemporary Siberian artists.",
+                  "category": "museum",
+                  "coords": [
+                        92.967077,
+                        56.011528
+                  ]
+            },
+            {
+                  "name": "Khogvarts Kholl",
+                  "text": "A thematic museum and exhibition space inspired by the magical world of fantasy literature.",
+                  "category": "museum",
+                  "coords": [
+                        92.901223,
+                        56.019715
+                  ]
+            },
+            {
+                  "name": "Narodnyi muzei istorii OVD Krasnoiarskogo kraia",
+                  "text": "A specialized museum detailing the history and development of the regional law enforcement and internal affairs.",
+                  "category": "museum",
+                  "coords": [
+                        92.858575,
+                        56.010015
+                  ]
+            },
+            {
+                  "name": "V tsentre mira",
+                  "text": "A modern art gallery located on the city's central Mira Avenue, hosting diverse cultural exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        92.861261,
+                        56.011678
+                  ]
+            },
+            {
+                  "name": "Muzei istorii Krasnoiarskoi Zheleznoi Dorogi",
+                  "text": "A museum exploring the construction and technological heritage of the Trans-Siberian Railway in the region.",
+                  "category": "museum",
+                  "coords": [
+                        92.848162,
+                        56.010685
+                  ]
+            },
+            {
+                  "name": "Muzei istorii finansovoi sistemy Eniseiskoi gubernii (Krasnoiarskogo kraia)",
+                  "text": "A historical museum tracing the evolution of banking and finance in the former Yenisei Governorate.",
+                  "category": "museum",
+                  "coords": [
+                        92.846674,
+                        56.010631
+                  ]
+            },
+            {
+                  "name": "Victory Memorial",
+                  "text": "A somber memorial complex with an eternal flame dedicated to the soldiers of the Great Patriotic War.",
+                  "category": "museum",
+                  "coords": [
+                        92.886896,
+                        56.023144
+                  ]
+            },
+            {
+                  "name": "Dom-muzei P.A. Krasikova",
+                  "text": "The former home of revolutionary Peter Krasikov, preserving early 20th-century interiors and political artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        92.84782,
+                        56.012511
+                  ]
+            },
+            {
+                  "name": "Geologicheskii muzei",
+                  "text": "A specialized museum featuring a diverse display of Siberian minerals, quartz crystals, and geological specimens.",
+                  "category": "museum",
+                  "coords": [
+                        92.740442,
+                        55.994601
+                  ]
+            },
+            {
+                  "name": "Bortsam za sovetskuiu vlast'",
+                  "text": "A massive bronze monument on Revolution Square honoring the fighters who established Soviet power in the region.",
+                  "category": "historical",
+                  "coords": [
+                        92.838744,
+                        56.008748
+                  ]
+            }
+      ]
+},
     type: "museum",
     parent: "RU",
     name: { de: "Krasnojarsker Regionalmuseum", hu: "Krasznojarszki Regionális Múzeum", ro: "Muzeul Regional din Krasnoyarsk", en: "Krasnoyarsk Regional Museum" },
@@ -7917,7 +16737,1348 @@ imageHint: "Pavlovsk Palace golden facade and dome",
     image: "/poi-images/russia-krasnoyarsk-museum-history-v2.webp",
   },
   {
-    id: "russia-irkutsk-decembrist-museum-history-v2",
+    id: "russia-irkutsk-decembrist-museum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kraevedcheskii muzei",
+                  "text": "Dieses Regionalmuseum ist in einem markanten Gebäude mit einem Turm im maurischen Stil untergebracht.",
+                  "category": "museum",
+                  "coords": [
+                        104.278243,
+                        52.275791
+                  ]
+            },
+            {
+                  "name": "Akademicheskii most",
+                  "text": "Eine moderne Brücke über die Angara, die wichtige Stadtteile von Irkutsk miteinander verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        104.281779,
+                        52.259982
+                  ]
+            },
+            {
+                  "name": "Irkutskaia sobornaia mechet'",
+                  "text": "Diese steinerne Moschee aus dem Jahr 1905 besitzt ein hohes, schlankes Minarett.",
+                  "category": "landmark",
+                  "coords": [
+                        104.305992,
+                        52.281336
+                  ]
+            },
+            {
+                  "name": "Kaiskaia reliktovaia roshcha",
+                  "text": "Ein Naturschutzgebiet in Irkutsk, das einen urzeitlichen Kiefernwald innerhalb der Stadtgrenzen bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        104.236527,
+                        52.27583
+                  ]
+            },
+            {
+                  "name": "skver imeni Sigeki Mori",
+                  "text": "Ein Stadtpark in Irkutsk, der nach dem japanischen Politiker Shigeki Mori benannt wurde.",
+                  "category": "park",
+                  "coords": [
+                        104.283249,
+                        52.282788
+                  ]
+            },
+            {
+                  "name": "Angara",
+                  "text": "Ein schwimmendes Museum auf der „Angara“, einem der ältesten erhaltenen Eisbrecher der Welt von 1900.",
+                  "category": "museum",
+                  "coords": [
+                        104.343836,
+                        52.250117
+                  ]
+            },
+            {
+                  "name": "Irkutskii oblastnoi kraevedcheskii muzei",
+                  "text": "Das 1883 gegründete Regionalmuseum dokumentiert die umfangreiche Geschichte und Ethnografie Sibiriens.",
+                  "category": "museum",
+                  "coords": [
+                        104.284199,
+                        52.28184
+                  ]
+            },
+            {
+                  "name": "Muzykal'nyi teatr imeni N. M. Zagurskogo",
+                  "text": "Ein bedeutendes Theater in Irkutsk, das Opern, Ballette und Musicals in einem modernen Saal aufführt.",
+                  "category": "cultural",
+                  "coords": [
+                        104.292212,
+                        52.274485
+                  ]
+            },
+            {
+                  "name": "Vkhodo-Ierusalimskii khram",
+                  "text": "Diese orthodoxe Kirche von 1792 steht auf einem Hügel und bietet Ausblicke auf das historische Zentrum.",
+                  "category": "landmark",
+                  "coords": [
+                        104.297286,
+                        52.276981
+                  ]
+            },
+            {
+                  "name": "Krestovozdvizhenskaia tserkov'",
+                  "text": "Dieses Meisterwerk des sibirischen Barock von 1760 ist berühmt für seine kunstvollen Backsteinmuster.",
+                  "category": "landmark",
+                  "coords": [
+                        104.288328,
+                        52.276347
+                  ]
+            },
+            {
+                  "name": "Eksperimentarii",
+                  "text": "Ein interaktives Wissenschaftsmuseum, in dem Besucher physikalische und chemische Experimente durchführen können.",
+                  "category": "museum",
+                  "coords": [
+                        104.271463,
+                        52.245091
+                  ]
+            },
+            {
+                  "name": "Muzei retromototekhniki i predmetov epokhi SSSR",
+                  "text": "Diese Privatsammlung zeigt seltene sowjetische Motorräder und Alltagsgegenstände aus der UdSSR.",
+                  "category": "museum",
+                  "coords": [
+                        104.298762,
+                        52.278566
+                  ]
+            },
+            {
+                  "name": "Muzei istorii g.Irkutska im.A.M.Sibiriakova",
+                  "text": "Dieses Museum dokumentiert die Entwicklung von Irkutsk von einer Kosakenfestung zur Provinzhauptstadt.",
+                  "category": "museum",
+                  "coords": [
+                        104.236784,
+                        52.281192
+                  ]
+            },
+            {
+                  "name": "Dom detskogo tvorchestva No. 3",
+                  "text": "Ein kulturelles Zentrum und Museum, das sich der Volkskunst und dem Handwerk von Kindern widmet.",
+                  "category": "museum",
+                  "coords": [
+                        104.315918,
+                        52.231905
+                  ]
+            },
+            {
+                  "name": "Dom Ruslana",
+                  "text": "Ein eklektisches Gebäude mit Türmchen und architektonischen Details, die an ein Märchenschloss erinnern.",
+                  "category": "castle",
+                  "coords": [
+                        104.386262,
+                        52.298869
+                  ]
+            },
+            {
+                  "name": "Usad'ba Sukachiova",
+                  "text": "Ein erhaltenes Anwesen aus dem 19. Jahrhundert mit einem historischen Herrenhaus, Park und Kunstgalerie.",
+                  "category": "museum",
+                  "coords": [
+                        104.316346,
+                        52.278949
+                  ]
+            },
+            {
+                  "name": "Irkutsk - Okno v Aziiu",
+                  "text": "Diese Ausstellung beleuchtet die historische Rolle von Irkutsk als Tor für den Handel mit Asien.",
+                  "category": "museum",
+                  "coords": [
+                        104.289291,
+                        52.273693
+                  ]
+            },
+            {
+                  "name": "Patriot",
+                  "text": "Ein Kunstzentrum in Irkutsk, das patriotische Ausstellungen und kulturelle Veranstaltungen organisiert.",
+                  "category": "cultural",
+                  "coords": [
+                        104.347334,
+                        52.2643
+                  ]
+            },
+            {
+                  "name": "Irkutskaia oblastnaia filarmoniia",
+                  "text": "Ein Konzertsaal in einer neugotischen Backsteinkirche, die ursprünglich für die polnische Gemeinde erbaut wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        104.285285,
+                        52.277929
+                  ]
+            },
+            {
+                  "name": "Teatr odnogo eksperimenta",
+                  "text": "Ein kleines experimentelles Theater, das für seine unkonventionellen und intimen Bühnenproduktionen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        104.276657,
+                        52.283605
+                  ]
+            },
+            {
+                  "name": "Irkutskii gorodskoi teatr narodnoi dramy",
+                  "text": "Dieses Theater widmet sich der Bewahrung russischer Volkstraditionen durch Musik und Schauspiel.",
+                  "category": "cultural",
+                  "coords": [
+                        104.312856,
+                        52.227206
+                  ]
+            },
+            {
+                  "name": "Irkutskii oblastnoi teatr kukol <<Aistenok>>",
+                  "text": "Ein beliebtes Puppentheater, das fantasievolle Aufführungen für Kinder und Familien bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        104.30278,
+                        52.275463
+                  ]
+            },
+            {
+                  "name": "Irkutskii akademicheskii dramaticheskii teatr im. N. P. Okhlopkova",
+                  "text": "Das älteste Theater der Stadt, untergebracht in einem prachtvollen klassizistischen Gebäude mit vergoldetem Interieur.",
+                  "category": "cultural",
+                  "coords": [
+                        104.281325,
+                        52.277683
+                  ]
+            },
+            {
+                  "name": "Tserkov' Sviatoi Troitsy",
+                  "text": "Eine historische orthodoxe Kirche mit traditioneller russischer Sakralarchitektur und Zwiebeltürmen.",
+                  "category": "religious",
+                  "coords": [
+                        104.225933,
+                        52.27952
+                  ]
+            },
+            {
+                  "name": "Khram Aleksandra Nevskogo",
+                  "text": "Eine Kapelle in Irkutsk, die dem Heiligen Alexander Newski gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        104.31178,
+                        52.229406
+                  ]
+            },
+            {
+                  "name": "Tserkov' Khristian Adventistov Sed'mogo Dnia, Obshchina No. 1",
+                  "text": "Ein modernes christliches Gotteshaus der Gemeinschaft der Siebenten-Tags-Adventisten in Irkutsk.",
+                  "category": "religious",
+                  "coords": [
+                        104.334866,
+                        52.281536
+                  ]
+            },
+            {
+                  "name": "Khram velikomuchenika i tselitelia Panteleimona",
+                  "text": "Eine orthodoxe Kirche in Irkutsk, die dem Heiligen Panteleimon gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        104.203989,
+                        52.334212
+                  ]
+            },
+            {
+                  "name": "Raduzhnyi",
+                  "text": "Ein lokaler Lebensmittelmarkt im Raduschny-Wohnviertel, der die Bewohner mit täglichen Waren versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        104.282345,
+                        52.228467
+                  ]
+            },
+            {
+                  "name": "Pokrovskii",
+                  "text": "Ein geschäftiger Marktplatz, der nach dem christlichen Fest der Mariä Schutz und Fürbitte benannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        104.293978,
+                        52.326294
+                  ]
+            },
+            {
+                  "name": "Kitai-gorod",
+                  "text": "Ein belebtes Handelszentrum in Irkutsk, das für sein breites Angebot an preiswerten Importwaren bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        104.292694,
+                        52.324207
+                  ]
+            },
+            {
+                  "name": "Rynok na Volzhskoi",
+                  "text": "Ein zentraler Markt an der Volschskaja-Straße, der auf frische regionale Erzeugnisse spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        104.314604,
+                        52.263678
+                  ]
+            },
+            {
+                  "name": "Severnyi",
+                  "text": "Ein Versorgungsmarkt im nördlichen Teil der Stadt mit zahlreichen Einzelhandelsständen für Kleidung und Lebensmittel.",
+                  "category": "cultural",
+                  "coords": [
+                        104.320884,
+                        52.339471
+                  ]
+            },
+            {
+                  "name": "TTs \"Novyi\"",
+                  "text": "Ein modernes mehrstöckiges Einkaufszentrum mit zahlreichen Modeboutiquen und einem großen Gastronomiebereich.",
+                  "category": "cultural",
+                  "coords": [
+                        104.305965,
+                        52.27487
+                  ]
+            },
+            {
+                  "name": "Sverdlovskii rynok",
+                  "text": "Ein traditioneller Stadtviertelmarkt im Sverdlovsky-Distrikt, der für seine Auswahl an Fleisch und Molkereiprodukten bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        104.25205,
+                        52.279703
+                  ]
+            },
+            {
+                  "name": "Most KBZhD",
+                  "text": "Eine historische Eisenbahnbrücke der Baikal-Bahn, die als Meisterwerk der sibirischen Ingenieurskunst gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        104.277432,
+                        52.251109
+                  ]
+            },
+            {
+                  "name": "Naberezhnaia",
+                  "text": "Eine beliebte Uferpromenade am Fluss Angara, die weite Ausblicke auf das Wasser und Grünflächen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        104.30707,
+                        52.257035
+                  ]
+            },
+            {
+                  "name": "Arka",
+                  "text": "Ein dekoratives bogenförmiges Bauwerk in Irkutsk, das oft als markanter Treffpunkt für Stadtführungen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        104.309504,
+                        52.256574
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kraevedcheskii muzei",
+                  "text": "Ez a helytörténeti múzeum egy jellegzetes, mór stílusú toronnyal díszített épületben található.",
+                  "category": "museum",
+                  "coords": [
+                        104.278243,
+                        52.275791
+                  ]
+            },
+            {
+                  "name": "Akademicheskii most",
+                  "text": "Modern híd az Angara felett, amely Irkutszk fontos városrészeit köti össze.",
+                  "category": "landmark",
+                  "coords": [
+                        104.281779,
+                        52.259982
+                  ]
+            },
+            {
+                  "name": "Irkutskaia sobornaia mechet'",
+                  "text": "Ez az 1905-ben épült kőmecset magas, karcsú minarettel rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        104.305992,
+                        52.281336
+                  ]
+            },
+            {
+                  "name": "Kaiskaia reliktovaia roshcha",
+                  "text": "Természetvédelmi terület Irkutszkban, amely egy ősi fenyőerdőt őriz a városhatáron belül.",
+                  "category": "natural",
+                  "coords": [
+                        104.236527,
+                        52.27583
+                  ]
+            },
+            {
+                  "name": "skver imeni Sigeki Mori",
+                  "text": "Városi park Irkutszkban, amelyet Mori Sigeki japán politikusról neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        104.283249,
+                        52.282788
+                  ]
+            },
+            {
+                  "name": "Angara",
+                  "text": "Úszó múzeum az „Angara” fedélzetén, amely a világ egyik legrégebbi, 1900-ból származó jégtörője.",
+                  "category": "museum",
+                  "coords": [
+                        104.343836,
+                        52.250117
+                  ]
+            },
+            {
+                  "name": "Irkutskii oblastnoi kraevedcheskii muzei",
+                  "text": "Az 1883-ban alapított múzeum Szibéria kiterjedt történelmét és néprajzát dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        104.284199,
+                        52.28184
+                  ]
+            },
+            {
+                  "name": "Muzykal'nyi teatr imeni N. M. Zagurskogo",
+                  "text": "Irkutszk jelentős színháza, amely operákat, baletteket és musicaleket mutat be modern termében.",
+                  "category": "cultural",
+                  "coords": [
+                        104.292212,
+                        52.274485
+                  ]
+            },
+            {
+                  "name": "Vkhodo-Ierusalimskii khram",
+                  "text": "Ez az 1792-ben épült ortodox templom egy dombon áll, kilátással a történelmi központra.",
+                  "category": "landmark",
+                  "coords": [
+                        104.297286,
+                        52.276981
+                  ]
+            },
+            {
+                  "name": "Krestovozdvizhenskaia tserkov'",
+                  "text": "A szibériai barokk 1760-as remekműve, amely díszes téglamintáiról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        104.288328,
+                        52.276347
+                  ]
+            },
+            {
+                  "name": "Eksperimentarii",
+                  "text": "Interaktív tudományos múzeum, ahol a látogatók fizikai és kémiai kísérleteket végezhetnek.",
+                  "category": "museum",
+                  "coords": [
+                        104.271463,
+                        52.245091
+                  ]
+            },
+            {
+                  "name": "Muzei retromototekhniki i predmetov epokhi SSSR",
+                  "text": "Ez a magángyűjtemény ritka szovjet motorkerékpárokat és a Szovjetunióból származó régiségeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        104.298762,
+                        52.278566
+                  ]
+            },
+            {
+                  "name": "Muzei istorii g.Irkutska im.A.M.Sibiriakova",
+                  "text": "Ez a múzeum dokumentálja Irkutszk fejlődését a kozák erődtől a tartományi fővárosig.",
+                  "category": "museum",
+                  "coords": [
+                        104.236784,
+                        52.281192
+                  ]
+            },
+            {
+                  "name": "Dom detskogo tvorchestva No. 3",
+                  "text": "Kulturális központ és múzeum, amely a gyermekek népművészetének és kézművességének szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        104.315918,
+                        52.231905
+                  ]
+            },
+            {
+                  "name": "Dom Ruslana",
+                  "text": "Eklektikus épület tornyocskákkal és építészeti részletekkel, amelyek egy mesebeli kastélyra emlékeztetnek.",
+                  "category": "castle",
+                  "coords": [
+                        104.386262,
+                        52.298869
+                  ]
+            },
+            {
+                  "name": "Usad'ba Sukachiova",
+                  "text": "Fennmaradt 19. századi birtok történelmi kúriával, parkkal és művészeti galériával.",
+                  "category": "museum",
+                  "coords": [
+                        104.316346,
+                        52.278949
+                  ]
+            },
+            {
+                  "name": "Irkutsk - Okno v Aziiu",
+                  "text": "Ez a kiállítás Irkutszk történelmi szerepét mutatja be, mint az Ázsiával való kereskedelem kapuját.",
+                  "category": "museum",
+                  "coords": [
+                        104.289291,
+                        52.273693
+                  ]
+            },
+            {
+                  "name": "Patriot",
+                  "text": "Irkutszki művészeti központ, amely hazafias kiállításoknak és kulturális eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        104.347334,
+                        52.2643
+                  ]
+            },
+            {
+                  "name": "Irkutskaia oblastnaia filarmoniia",
+                  "text": "Koncertterem egy neogótikus téglaépületben, amely eredetileg a lengyel közösség számára épült templom volt.",
+                  "category": "cultural",
+                  "coords": [
+                        104.285285,
+                        52.277929
+                  ]
+            },
+            {
+                  "name": "Teatr odnogo eksperimenta",
+                  "text": "Kisméretű kísérleti színház, amely szokatlan és meghitt színpadi produkcióiról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        104.276657,
+                        52.283605
+                  ]
+            },
+            {
+                  "name": "Irkutskii gorodskoi teatr narodnoi dramy",
+                  "text": "Ez a színház az orosz népi hagyományok megőrzésének szentelt zene és dráma útján.",
+                  "category": "cultural",
+                  "coords": [
+                        104.312856,
+                        52.227206
+                  ]
+            },
+            {
+                  "name": "Irkutskii oblastnoi teatr kukol <<Aistenok>>",
+                  "text": "Népszerű bábszínház, amely ötletes előadásokat kínál gyerekeknek és családoknak.",
+                  "category": "cultural",
+                  "coords": [
+                        104.30278,
+                        52.275463
+                  ]
+            },
+            {
+                  "name": "Irkutskii akademicheskii dramaticheskii teatr im. N. P. Okhlopkova",
+                  "text": "A város legrégebbi színháza, egy pompás klasszicista épületben, aranyozott belsővel.",
+                  "category": "cultural",
+                  "coords": [
+                        104.281325,
+                        52.277683
+                  ]
+            },
+            {
+                  "name": "Tserkov' Sviatoi Troitsy",
+                  "text": "Történelmi ortodox templom hagyományos orosz egyházi építészettel és hagymakupolákkal.",
+                  "category": "religious",
+                  "coords": [
+                        104.225933,
+                        52.27952
+                  ]
+            },
+            {
+                  "name": "Khram Aleksandra Nevskogo",
+                  "text": "Irkutszki kápolna, amelyet Szent Alekszandr Nyevszkijnek szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        104.31178,
+                        52.229406
+                  ]
+            },
+            {
+                  "name": "Tserkov' Khristian Adventistov Sed'mogo Dnia, Obshchina No. 1",
+                  "text": "A Hetednapi Adventista Egyház modern keresztény imaháza Irkutszkban.",
+                  "category": "religious",
+                  "coords": [
+                        104.334866,
+                        52.281536
+                  ]
+            },
+            {
+                  "name": "Khram velikomuchenika i tselitelia Panteleimona",
+                  "text": "Szent Panteleimonnak szentelt ortodox templom Irkutszkban.",
+                  "category": "religious",
+                  "coords": [
+                        104.203989,
+                        52.334212
+                  ]
+            },
+            {
+                  "name": "Raduzhnyi",
+                  "text": "Helyi élelmiszerpiac a Raduzsnij lakónegyedben, amely napi árukkal látja el a lakókat.",
+                  "category": "cultural",
+                  "coords": [
+                        104.282345,
+                        52.228467
+                  ]
+            },
+            {
+                  "name": "Pokrovskii",
+                  "text": "Nyüzsgő piactér, amelyet az Oltalmazó Boldogasszony keresztény ünnepéről neveztek el.",
+                  "category": "cultural",
+                  "coords": [
+                        104.293978,
+                        52.326294
+                  ]
+            },
+            {
+                  "name": "Kitai-gorod",
+                  "text": "Forgalmas kereskedelmi központ Irkutszkban, amely az olcsó importcikkek széles választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        104.292694,
+                        52.324207
+                  ]
+            },
+            {
+                  "name": "Rynok na Volzhskoi",
+                  "text": "Központi piac a Volzsszkaja utcában, amely friss regionális termékekre specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        104.314604,
+                        52.263678
+                  ]
+            },
+            {
+                  "name": "Severnyi",
+                  "text": "Ellátó piac a város északi részén, számos ruházati és élelmiszeripari kiskereskedelmi standdal.",
+                  "category": "cultural",
+                  "coords": [
+                        104.320884,
+                        52.339471
+                  ]
+            },
+            {
+                  "name": "TTs \"Novyi\"",
+                  "text": "Modern, többszintes bevásárlóközpont számos divatüzlettel és tágas éttermi résszel.",
+                  "category": "cultural",
+                  "coords": [
+                        104.305965,
+                        52.27487
+                  ]
+            },
+            {
+                  "name": "Sverdlovskii rynok",
+                  "text": "Hagyományos negyedi piac a Szverdlovszkij kerületben, amely hús- és tejtermék-választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        104.25205,
+                        52.279703
+                  ]
+            },
+            {
+                  "name": "Most KBZhD",
+                  "text": "A bajkáli vasútvonal történelmi vasúti hídja, amelyet a szibériai mérnöki munka remekműveként tartanak számon.",
+                  "category": "landmark",
+                  "coords": [
+                        104.277432,
+                        52.251109
+                  ]
+            },
+            {
+                  "name": "Naberezhnaia",
+                  "text": "Népszerű sétány az Angara folyó partján, amely széles kilátást nyújt a vízre és zöldterületekre.",
+                  "category": "landmark",
+                  "coords": [
+                        104.30707,
+                        52.257035
+                  ]
+            },
+            {
+                  "name": "Arka",
+                  "text": "Dekoratív íves építmény Irkutszkban, amely gyakran szolgál jellegzetes találkozóhelyként a városnéző túrákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        104.309504,
+                        52.256574
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kraevedcheskii muzei",
+                  "text": "Acest muzeu regional este găzduit într-o clădire distinctivă, cu un turn în stil maur.",
+                  "category": "museum",
+                  "coords": [
+                        104.278243,
+                        52.275791
+                  ]
+            },
+            {
+                  "name": "Akademicheskii most",
+                  "text": "Un pod modern peste râul Angara, care conectează districte importante ale orașului Irkutsk.",
+                  "category": "landmark",
+                  "coords": [
+                        104.281779,
+                        52.259982
+                  ]
+            },
+            {
+                  "name": "Irkutskaia sobornaia mechet'",
+                  "text": "Această moschee din piatră, construită în 1905, are un minaret înalt și subțire.",
+                  "category": "landmark",
+                  "coords": [
+                        104.305992,
+                        52.281336
+                  ]
+            },
+            {
+                  "name": "Kaiskaia reliktovaia roshcha",
+                  "text": "O rezervație naturală din Irkutsk care protejează o pădure de pini relicvă în limitele orașului.",
+                  "category": "natural",
+                  "coords": [
+                        104.236527,
+                        52.27583
+                  ]
+            },
+            {
+                  "name": "skver imeni Sigeki Mori",
+                  "text": "Un parc orășenesc din Irkutsk, numit după politicianul japonez Shigeki Mori.",
+                  "category": "park",
+                  "coords": [
+                        104.283249,
+                        52.282788
+                  ]
+            },
+            {
+                  "name": "Angara",
+                  "text": "Un muzeu plutitor pe „Angara”, unul dintre cele mai vechi spărgătoare de gheață din lume, datând din 1900.",
+                  "category": "museum",
+                  "coords": [
+                        104.343836,
+                        52.250117
+                  ]
+            },
+            {
+                  "name": "Irkutskii oblastnoi kraevedcheskii muzei",
+                  "text": "Fondat în 1883, acest muzeu regional documentează istoria extinsă și etnografia Siberiei.",
+                  "category": "museum",
+                  "coords": [
+                        104.284199,
+                        52.28184
+                  ]
+            },
+            {
+                  "name": "Muzykal'nyi teatr imeni N. M. Zagurskogo",
+                  "text": "Un teatru important din Irkutsk care pune în scenă opere, balete și musicaluri într-o sală modernă.",
+                  "category": "cultural",
+                  "coords": [
+                        104.292212,
+                        52.274485
+                  ]
+            },
+            {
+                  "name": "Vkhodo-Ierusalimskii khram",
+                  "text": "Această biserică ortodoxă din 1792 se află pe un deal, oferind vederi spre centrul istoric.",
+                  "category": "landmark",
+                  "coords": [
+                        104.297286,
+                        52.276981
+                  ]
+            },
+            {
+                  "name": "Krestovozdvizhenskaia tserkov'",
+                  "text": "O capodoperă a barocului siberian din 1760, faimoasă pentru modelele sale ornamentate din cărămidă.",
+                  "category": "landmark",
+                  "coords": [
+                        104.288328,
+                        52.276347
+                  ]
+            },
+            {
+                  "name": "Eksperimentarii",
+                  "text": "Un muzeu interactiv de știință unde vizitatorii pot efectua experimente de fizică și chimie.",
+                  "category": "museum",
+                  "coords": [
+                        104.271463,
+                        52.245091
+                  ]
+            },
+            {
+                  "name": "Muzei retromototekhniki i predmetov epokhi SSSR",
+                  "text": "Această colecție privată expune motociclete sovietice rare și antichități din perioada URSS.",
+                  "category": "museum",
+                  "coords": [
+                        104.298762,
+                        52.278566
+                  ]
+            },
+            {
+                  "name": "Muzei istorii g.Irkutska im.A.M.Sibiriakova",
+                  "text": "Acest muzeu documentează dezvoltarea orașului Irkutsk de la un fort căzăcesc la capitală regională.",
+                  "category": "museum",
+                  "coords": [
+                        104.236784,
+                        52.281192
+                  ]
+            },
+            {
+                  "name": "Dom detskogo tvorchestva No. 3",
+                  "text": "Un centru cultural și muzeu dedicat artei populare și meșteșugurilor realizate de copii.",
+                  "category": "museum",
+                  "coords": [
+                        104.315918,
+                        52.231905
+                  ]
+            },
+            {
+                  "name": "Dom Ruslana",
+                  "text": "O clădire eclectică cu turnulețe și detalii arhitecturale care amintesc de un castel de basm.",
+                  "category": "castle",
+                  "coords": [
+                        104.386262,
+                        52.298869
+                  ]
+            },
+            {
+                  "name": "Usad'ba Sukachiova",
+                  "text": "O proprietate conservată din secolul al XIX-lea, cu un conac istoric, parc și galerie de artă.",
+                  "category": "museum",
+                  "coords": [
+                        104.316346,
+                        52.278949
+                  ]
+            },
+            {
+                  "name": "Irkutsk - Okno v Aziiu",
+                  "text": "Această expoziție explorează rolul istoric al orașului Irkutsk ca poartă pentru comerțul cu Asia.",
+                  "category": "museum",
+                  "coords": [
+                        104.289291,
+                        52.273693
+                  ]
+            },
+            {
+                  "name": "Patriot",
+                  "text": "Un centru de artă din Irkutsk care găzduiește expoziții patriotice și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        104.347334,
+                        52.2643
+                  ]
+            },
+            {
+                  "name": "Irkutskaia oblastnaia filarmoniia",
+                  "text": "O sală de concerte într-o clădire neogotică din cărămidă, construită inițial ca biserică poloneză.",
+                  "category": "cultural",
+                  "coords": [
+                        104.285285,
+                        52.277929
+                  ]
+            },
+            {
+                  "name": "Teatr odnogo eksperimenta",
+                  "text": "Un teatru experimental mic, cunoscut pentru producțiile sale scenice neconvenționale și intime.",
+                  "category": "cultural",
+                  "coords": [
+                        104.276657,
+                        52.283605
+                  ]
+            },
+            {
+                  "name": "Irkutskii gorodskoi teatr narodnoi dramy",
+                  "text": "Acest teatru este dedicat conservării tradițiilor populare rusești prin muzică și dramă.",
+                  "category": "cultural",
+                  "coords": [
+                        104.312856,
+                        52.227206
+                  ]
+            },
+            {
+                  "name": "Irkutskii oblastnoi teatr kukol <<Aistenok>>",
+                  "text": "Un teatru de păpuși popular care oferă spectacole imaginative pentru copii și familii.",
+                  "category": "cultural",
+                  "coords": [
+                        104.30278,
+                        52.275463
+                  ]
+            },
+            {
+                  "name": "Irkutskii akademicheskii dramaticheskii teatr im. N. P. Okhlopkova",
+                  "text": "Cel mai vechi teatru din oraș, găzduit într-o clădire clasicistă magnifică, cu interior aurit.",
+                  "category": "cultural",
+                  "coords": [
+                        104.281325,
+                        52.277683
+                  ]
+            },
+            {
+                  "name": "Tserkov' Sviatoi Troitsy",
+                  "text": "O biserică ortodoxă istorică cu arhitectură ecleziastică tradițională rusă și cupole în formă de ceapă.",
+                  "category": "religious",
+                  "coords": [
+                        104.225933,
+                        52.27952
+                  ]
+            },
+            {
+                  "name": "Khram Aleksandra Nevskogo",
+                  "text": "O capelă din Irkutsk dedicată Sfântului Alexandru Nevski.",
+                  "category": "religious",
+                  "coords": [
+                        104.31178,
+                        52.229406
+                  ]
+            },
+            {
+                  "name": "Tserkov' Khristian Adventistov Sed'mogo Dnia, Obshchina No. 1",
+                  "text": "Un lăcaș de cult creștin modern al comunității Adventiste de Ziua a Șaptea din Irkutsk.",
+                  "category": "religious",
+                  "coords": [
+                        104.334866,
+                        52.281536
+                  ]
+            },
+            {
+                  "name": "Khram velikomuchenika i tselitelia Panteleimona",
+                  "text": "O biserică ortodoxă din Irkutsk dedicată Sfântului Panteleimon.",
+                  "category": "religious",
+                  "coords": [
+                        104.203989,
+                        52.334212
+                  ]
+            },
+            {
+                  "name": "Raduzhnyi",
+                  "text": "O piață locală de alimente în cartierul rezidențial Raduzhnyi, care deservește locuitorii cu produse zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        104.282345,
+                        52.228467
+                  ]
+            },
+            {
+                  "name": "Pokrovskii",
+                  "text": "O piață plină de viață, numită după sărbătoarea creștină a Acoperământului Maicii Domnului.",
+                  "category": "cultural",
+                  "coords": [
+                        104.293978,
+                        52.326294
+                  ]
+            },
+            {
+                  "name": "Kitai-gorod",
+                  "text": "Un centru comercial aglomerat din Irkutsk, cunoscut pentru gama sa largă de mărfuri de import accesibile.",
+                  "category": "cultural",
+                  "coords": [
+                        104.292694,
+                        52.324207
+                  ]
+            },
+            {
+                  "name": "Rynok na Volzhskoi",
+                  "text": "O piață centrală pe strada Volzhskaya, specializată în produse regionale proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        104.314604,
+                        52.263678
+                  ]
+            },
+            {
+                  "name": "Severnyi",
+                  "text": "O piață de aprovizionare în partea de nord a orașului, cu numeroase standuri de vânzare cu amănuntul pentru haine și alimente.",
+                  "category": "cultural",
+                  "coords": [
+                        104.320884,
+                        52.339471
+                  ]
+            },
+            {
+                  "name": "TTs \"Novyi\"",
+                  "text": "Un centru comercial modern cu mai multe etaje, cu numeroase buticuri de modă și o zonă generoasă de restaurante.",
+                  "category": "cultural",
+                  "coords": [
+                        104.305965,
+                        52.27487
+                  ]
+            },
+            {
+                  "name": "Sverdlovskii rynok",
+                  "text": "O piață tradițională de cartier în districtul Sverdlovsky, cunoscută pentru selecția de carne și produse lactate.",
+                  "category": "cultural",
+                  "coords": [
+                        104.25205,
+                        52.279703
+                  ]
+            },
+            {
+                  "name": "Most KBZhD",
+                  "text": "Un pod feroviar istoric al căii ferate Circum-Baikal, considerat o capodoperă a ingineriei siberiene.",
+                  "category": "landmark",
+                  "coords": [
+                        104.277432,
+                        52.251109
+                  ]
+            },
+            {
+                  "name": "Naberezhnaia",
+                  "text": "O faleză populară pe malul râului Angara, care oferă vederi largi spre apă și spații verzi.",
+                  "category": "landmark",
+                  "coords": [
+                        104.30707,
+                        52.257035
+                  ]
+            },
+            {
+                  "name": "Arka",
+                  "text": "O structură decorativă în formă de arc din Irkutsk, care servește adesea ca punct de întâlnire pentru tururile orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        104.309504,
+                        52.256574
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kraevedcheskii muzei",
+                  "text": "This regional museum is housed in a striking building featuring a Moorish-style tower.",
+                  "category": "museum",
+                  "coords": [
+                        104.278243,
+                        52.275791
+                  ]
+            },
+            {
+                  "name": "Akademicheskii most",
+                  "text": "A modern bridge over the Angara, connecting major districts of Irkutsk.",
+                  "category": "landmark",
+                  "coords": [
+                        104.281779,
+                        52.259982
+                  ]
+            },
+            {
+                  "name": "Irkutsk Cathedral Mosque",
+                  "text": "This stone mosque built in 1905 features a tall, slender minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        104.305992,
+                        52.281336
+                  ]
+            },
+            {
+                  "name": "Kaiskaia reliktovaia roshcha",
+                  "text": "A nature reserve in Irkutsk protecting a relic pine forest within the city limits.",
+                  "category": "natural",
+                  "coords": [
+                        104.236527,
+                        52.27583
+                  ]
+            },
+            {
+                  "name": "skver imeni Sigeki Mori",
+                  "text": "A city park in Irkutsk named after the Japanese politician Shigeki Mori.",
+                  "category": "park",
+                  "coords": [
+                        104.283249,
+                        52.282788
+                  ]
+            },
+            {
+                  "name": "Angara",
+                  "text": "A floating museum on the 'Angara', one of the world's oldest surviving icebreakers from 1900.",
+                  "category": "museum",
+                  "coords": [
+                        104.343836,
+                        52.250117
+                  ]
+            },
+            {
+                  "name": "Irkutskii oblastnoi kraevedcheskii muzei",
+                  "text": "Founded in 1883, this regional museum documents the extensive history and ethnography of Siberia.",
+                  "category": "museum",
+                  "coords": [
+                        104.284199,
+                        52.28184
+                  ]
+            },
+            {
+                  "name": "Muzykal'nyi teatr imeni N. M. Zagurskogo",
+                  "text": "A prominent theatre in Irkutsk staging operas, ballets, and musicals in a modern hall.",
+                  "category": "cultural",
+                  "coords": [
+                        104.292212,
+                        52.274485
+                  ]
+            },
+            {
+                  "name": "Vkhodo-Ierusalimskii khram",
+                  "text": "This 1792 Orthodox church stands on a hill, offering views over the historic center.",
+                  "category": "landmark",
+                  "coords": [
+                        104.297286,
+                        52.276981
+                  ]
+            },
+            {
+                  "name": "Raising of the Cross Church",
+                  "text": "A 1760 masterpiece of Siberian Baroque architecture, famous for its ornate brick patterns.",
+                  "category": "landmark",
+                  "coords": [
+                        104.288328,
+                        52.276347
+                  ]
+            },
+            {
+                  "name": "Eksperimentarii",
+                  "text": "An interactive science museum where visitors can conduct physics and chemistry experiments.",
+                  "category": "museum",
+                  "coords": [
+                        104.271463,
+                        52.245091
+                  ]
+            },
+            {
+                  "name": "Museum of Vintage motorcycles and Antiques of USSR",
+                  "text": "This private collection features rare Soviet motorcycles and antiques from the USSR era.",
+                  "category": "museum",
+                  "coords": [
+                        104.298762,
+                        52.278566
+                  ]
+            },
+            {
+                  "name": "Museum of the history of the city of Irkutsk",
+                  "text": "This museum documents Irkutsk's development from a Cossack fort to a regional capital.",
+                  "category": "museum",
+                  "coords": [
+                        104.236784,
+                        52.281192
+                  ]
+            },
+            {
+                  "name": "Dom detskogo tvorchestva No. 3",
+                  "text": "A cultural center and museum dedicated to children's folk art and crafts.",
+                  "category": "museum",
+                  "coords": [
+                        104.315918,
+                        52.231905
+                  ]
+            },
+            {
+                  "name": "Dom Ruslana",
+                  "text": "An eclectic building with turrets and architectural details resembling a fairytale castle.",
+                  "category": "castle",
+                  "coords": [
+                        104.386262,
+                        52.298869
+                  ]
+            },
+            {
+                  "name": "Usad'ba Sukachiova",
+                  "text": "A preserved 19th-century estate featuring a historic mansion, park, and art gallery.",
+                  "category": "museum",
+                  "coords": [
+                        104.316346,
+                        52.278949
+                  ]
+            },
+            {
+                  "name": "Irkutsk - Okno v Aziiu",
+                  "text": "This exhibition explores Irkutsk's historical role as a gateway for trade with Asia.",
+                  "category": "museum",
+                  "coords": [
+                        104.289291,
+                        52.273693
+                  ]
+            },
+            {
+                  "name": "Patriot",
+                  "text": "An arts center in Irkutsk hosting patriotic exhibitions and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        104.347334,
+                        52.2643
+                  ]
+            },
+            {
+                  "name": "Irkutskaia oblastnaia filarmoniia",
+                  "text": "A concert hall housed in a neo-Gothic brick building originally built as a Polish church.",
+                  "category": "cultural",
+                  "coords": [
+                        104.285285,
+                        52.277929
+                  ]
+            },
+            {
+                  "name": "Teatr odnogo eksperimenta",
+                  "text": "A small experimental theatre known for its unconventional and intimate stage productions.",
+                  "category": "cultural",
+                  "coords": [
+                        104.276657,
+                        52.283605
+                  ]
+            },
+            {
+                  "name": "Irkutskii gorodskoi teatr narodnoi dramy",
+                  "text": "This theatre is dedicated to preserving Russian folk traditions through music and drama.",
+                  "category": "cultural",
+                  "coords": [
+                        104.312856,
+                        52.227206
+                  ]
+            },
+            {
+                  "name": "Irkutskii oblastnoi teatr kukol <<Aistenok>>",
+                  "text": "A popular puppet theatre offering imaginative shows for children and families.",
+                  "category": "cultural",
+                  "coords": [
+                        104.30278,
+                        52.275463
+                  ]
+            },
+            {
+                  "name": "Irkutskii akademicheskii dramaticheskii teatr im. N. P. Okhlopkova",
+                  "text": "The city's oldest theatre, housed in a magnificent classical building with a gold-leafed interior.",
+                  "category": "cultural",
+                  "coords": [
+                        104.281325,
+                        52.277683
+                  ]
+            },
+            {
+                  "name": "Tserkov' Sviatoi Troitsy",
+                  "text": "A historic Orthodox church featuring traditional Russian ecclesiastical architecture and onion domes.",
+                  "category": "religious",
+                  "coords": [
+                        104.225933,
+                        52.27952
+                  ]
+            },
+            {
+                  "name": "Khram Aleksandra Nevskogo",
+                  "text": "A chapel in Irkutsk dedicated to Saint Alexander Nevsky.",
+                  "category": "religious",
+                  "coords": [
+                        104.31178,
+                        52.229406
+                  ]
+            },
+            {
+                  "name": "Tserkov' Khristian Adventistov Sed'mogo Dnia, Obshchina No. 1",
+                  "text": "A modern Christian place of worship for the Seventh-day Adventist community in Irkutsk.",
+                  "category": "religious",
+                  "coords": [
+                        104.334866,
+                        52.281536
+                  ]
+            },
+            {
+                  "name": "Khram velikomuchenika i tselitelia Panteleimona",
+                  "text": "An Orthodox church in Irkutsk dedicated to Saint Panteleimon.",
+                  "category": "religious",
+                  "coords": [
+                        104.203989,
+                        52.334212
+                  ]
+            },
+            {
+                  "name": "Raduzhnyi",
+                  "text": "A local food market in the Raduzhnyi residential district providing residents with daily essentials.",
+                  "category": "cultural",
+                  "coords": [
+                        104.282345,
+                        52.228467
+                  ]
+            },
+            {
+                  "name": "Pokrovskii",
+                  "text": "A busy marketplace named after the Christian Feast of the Intercession.",
+                  "category": "cultural",
+                  "coords": [
+                        104.293978,
+                        52.326294
+                  ]
+            },
+            {
+                  "name": "Kitai-gorod",
+                  "text": "A bustling trade center in Irkutsk known for its wide variety of affordable imported goods.",
+                  "category": "cultural",
+                  "coords": [
+                        104.292694,
+                        52.324207
+                  ]
+            },
+            {
+                  "name": "Rynok na Volzhskoi",
+                  "text": "A central market on Volzhskaya Street specializing in fresh regional produce.",
+                  "category": "cultural",
+                  "coords": [
+                        104.314604,
+                        52.263678
+                  ]
+            },
+            {
+                  "name": "Severnyi",
+                  "text": "A supply market in the northern part of the city with numerous retail stalls for clothing and food.",
+                  "category": "cultural",
+                  "coords": [
+                        104.320884,
+                        52.339471
+                  ]
+            },
+            {
+                  "name": "TTs \"Novyi\"",
+                  "text": "A modern multi-story shopping mall featuring numerous fashion boutiques and a large food court.",
+                  "category": "cultural",
+                  "coords": [
+                        104.305965,
+                        52.27487
+                  ]
+            },
+            {
+                  "name": "Sverdlovskii rynok",
+                  "text": "A traditional neighborhood market in the Sverdlovsky district known for its selection of meat and dairy products.",
+                  "category": "cultural",
+                  "coords": [
+                        104.25205,
+                        52.279703
+                  ]
+            },
+            {
+                  "name": "Most KBZhD",
+                  "text": "A historic railway bridge of the Circum-Baikal line, regarded as a masterpiece of Siberian engineering.",
+                  "category": "landmark",
+                  "coords": [
+                        104.277432,
+                        52.251109
+                  ]
+            },
+            {
+                  "name": "Naberezhnaia",
+                  "text": "A popular riverside promenade along the Angara River offering wide water views and green spaces.",
+                  "category": "landmark",
+                  "coords": [
+                        104.30707,
+                        52.257035
+                  ]
+            },
+            {
+                  "name": "Arka",
+                  "text": "A decorative arched structure in Irkutsk often serving as a distinct meeting point for city tours.",
+                  "category": "landmark",
+                  "coords": [
+                        104.309504,
+                        52.256574
+                  ]
+            }
+      ]
+},
     type: "museum",
     parent: "RU",
     name: { de: "Dekabristenmuseum Irkutsk", hu: "Irkutszki Dekabrista Múzeum", ro: "Muzeul Decembriștilor din Irkutsk", en: "Decembrist Museum Irkutsk" },

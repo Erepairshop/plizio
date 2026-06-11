@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraJordanLifeV2: POI[] = [
   {
-    id: "royal-botanic-garden-jordan-life-v2",
+    id: "royal-botanic-garden-jordan-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rujm Shubayl",
+                  "text": "Ein antikes Steingebäude, das die Hänge und die vielfältige Flora des Botanischen Gartens überblickt.",
+                  "category": "historical",
+                  "coords": [
+                        35.85,
+                        32.15
+                  ]
+            },
+            {
+                  "name": "Rujm al Madbaah",
+                  "text": "Hochgelegene Steinfundamente einer historischen Stätte in den Hügeln des Botanischen Gartens.",
+                  "category": "historical",
+                  "coords": [
+                        35.85,
+                        32.133333
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rujm Shubayl",
+                  "text": "Egy ókori kőépítmény, amely a Botanikus Kert lejtőire és változatos flórájára néz.",
+                  "category": "historical",
+                  "coords": [
+                        35.85,
+                        32.15
+                  ]
+            },
+            {
+                  "name": "Rujm al Madbaah",
+                  "text": "Egy történelmi lelőhely magaslati kőalapjai a Botanikus Kert dombjai között.",
+                  "category": "historical",
+                  "coords": [
+                        35.85,
+                        32.133333
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rujm Shubayl",
+                  "text": "O structură veche de piatră care domină pantele și flora diversă a Grădinii Botanice.",
+                  "category": "historical",
+                  "coords": [
+                        35.85,
+                        32.15
+                  ]
+            },
+            {
+                  "name": "Rujm al Madbaah",
+                  "text": "Fundații de piatră la mare altitudine ale unui sit istoric din dealurile Grădinii Botanice.",
+                  "category": "historical",
+                  "coords": [
+                        35.85,
+                        32.133333
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rujm Shubayl",
+                  "text": "An ancient stone structure overlooking the slopes and diverse flora of the Botanic Garden.",
+                  "category": "historical",
+                  "coords": [
+                        35.85,
+                        32.15
+                  ]
+            },
+            {
+                  "name": "Rujm al Madbaah",
+                  "text": "High-altitude stone foundations of a historical site in the hills of the Botanic Garden.",
+                  "category": "historical",
+                  "coords": [
+                        35.85,
+                        32.133333
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "JO-BA",
     coords: [35.834, 32.185],
@@ -39,7 +120,52 @@ export const poiExtraJordanLifeV2: POI[] = [
     },
   },
   {
-    id: "amman-national-park-life-v2",
+    id: "amman-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tall Jawa",
+                  "text": "Die archäologische Ausgrabungsstätte Tall Jawa umfasst Überreste einer eisenzeitlichen Siedlung, die während des ammonitischen Königreichs von einer Festungsmauer umgeben war.",
+                  "category": "historical",
+                  "coords": [
+                        35.931614,
+                        31.857629
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tall Jawa",
+                  "text": "A Tall Jawa régészeti lelőhely egy vaskori település maradványait rejt, amelyet az ammonita királyság idején erődítményfal vett körül.",
+                  "category": "historical",
+                  "coords": [
+                        35.931614,
+                        31.857629
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tall Jawa",
+                  "text": "Situl arheologic Tall Jawa conține rămășițele unei așezări din Epoca Fierului care a fost înconjurată de un zid de cetate în timpul regatului amonit.",
+                  "category": "historical",
+                  "coords": [
+                        35.931614,
+                        31.857629
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tall Jawa",
+                  "text": "The archaeological site of Tall Jawa features remains of an Iron Age settlement that was enclosed by a casemate wall during the Ammonite kingdom.",
+                  "category": "historical",
+                  "coords": [
+                        35.931614,
+                        31.857629
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "JO-AM",
     coords: [35.918, 31.848],
@@ -75,7 +201,916 @@ export const poiExtraJordanLifeV2: POI[] = [
     },
   },
   {
-    id: "al-hussein-public-parks-life-v2",
+    id: "al-hussein-public-parks-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jubaiha Amusement City",
+                  "text": "Ein beliebter Freizeitpark mit einem großen Riesenrad und zahlreichen Fahrgeschäften für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        35.872957,
+                        32.047208
+                  ]
+            },
+            {
+                  "name": "Khirbat al Muqbilah",
+                  "text": "Überreste einer antiken Siedlung am Rande der modernen Stadtgebiete von Amman.",
+                  "category": "historical",
+                  "coords": [
+                        35.8,
+                        32.016667
+                  ]
+            },
+            {
+                  "name": "Dr. Qays Omari",
+                  "text": "Eine bekannte medizinische Einrichtung und lokaler Orientierungspunkt im Viertel Al-Hussein.",
+                  "category": "landmark",
+                  "coords": [
+                        35.889153,
+                        32.057243
+                  ]
+            },
+            {
+                  "name": "Eagle statue",
+                  "text": "Eine markante Steinskulptur eines Adlers in der Grünanlage des öffentlichen Parks.",
+                  "category": "historical",
+                  "coords": [
+                        35.817502,
+                        31.993996
+                  ]
+            },
+            {
+                  "name": "Hrhr",
+                  "text": "Antike Steinruinen einer kleinen Festung auf einem Hügel über den öffentlichen Gärten.",
+                  "category": "castle",
+                  "coords": [
+                        35.861529,
+                        31.994608
+                  ]
+            },
+            {
+                  "name": "Lora home",
+                  "text": "Ein markantes lokales Wahrzeichen, das für seine einzigartige architektonische Gestaltung in Amman bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.870445,
+                        32.033158
+                  ]
+            },
+            {
+                  "name": "1989",
+                  "text": "Ein Gedenkmonument im Park, das an ein bedeutendes historisches Datum erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        35.865745,
+                        32.018488
+                  ]
+            },
+            {
+                  "name": "ACOR",
+                  "text": "Dieses Zentrum beherbergt eine umfangreiche archäologische Bibliothek und bedeutende historische Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        35.868227,
+                        32.008811
+                  ]
+            },
+            {
+                  "name": "Hada'iq al-Malik Hussein",
+                  "text": "Dieser weitläufige Park beherbergt das Königliche Automobilmuseum und das Kindermuseum von Jordanien.",
+                  "category": "park",
+                  "coords": [
+                        35.826554,
+                        31.985523
+                  ]
+            },
+            {
+                  "name": "Abu Nuseir Mosque",
+                  "text": "Diese Moschee im Wohnviertel Abu Nuseir dient als lokales Gemeindezentrum für das tägliche Gebet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.881297,
+                        32.052028
+                  ]
+            },
+            {
+                  "name": "mouhanad hijazeen",
+                  "text": "Ein kleiner lokaler Gebetsraum für Muslime, der in das städtische Gefüge des Viertels integriert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.861292,
+                        31.996517
+                  ]
+            },
+            {
+                  "name": "Jerusalem Mosque",
+                  "text": "Diese nach der heiligen Stadt benannte Moschee weist klassische islamische Bauelemente in Jordanien auf.",
+                  "category": "landmark",
+                  "coords": [
+                        35.841804,
+                        32.072591
+                  ]
+            },
+            {
+                  "name": "Al Ansar",
+                  "text": "Eine lokale Moschee, die nach den historischen 'Helfern' benannt ist und den Bewohnern nahe der Parks dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.88396,
+                        32.062155
+                  ]
+            },
+            {
+                  "name": "Hisham",
+                  "text": "Ein schlichter islamischer Gebetsort, der eine ruhige Atmosphäre inmitten des belebten Stadtteils bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.873532,
+                        32.056202
+                  ]
+            },
+            {
+                  "name": "Almuhajereen and alansaar",
+                  "text": "Diese Moschee erinnert an die frühen Gefährten des Propheten und ist ein geistlicher Treffpunkt vor Ort.",
+                  "category": "landmark",
+                  "coords": [
+                        35.837399,
+                        32.017427
+                  ]
+            },
+            {
+                  "name": "tibah",
+                  "text": "Ein lokaler Gebetsort, der für seine traditionelle Gestaltung und seine Rolle im Gemeindeleben bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.871995,
+                        32.003138
+                  ]
+            },
+            {
+                  "name": "kaied al assaf",
+                  "text": "Diese nach einer lokalen Familie benannte Moschee ist durch ihre klassische Kuppel und das Minarett gekennzeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.864271,
+                        32.002088
+                  ]
+            },
+            {
+                  "name": "Al-Jubaiha Mosque",
+                  "text": "Eine markante Moschee im Viertel Al-Jubaiha, die weithin für ihre Gemeinschaftsdienste sichtbar ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.864863,
+                        32.02531
+                  ]
+            },
+            {
+                  "name": "Al Haaj Atillawi Mosque",
+                  "text": "Diese traditionelle Moschee zeichnet sich durch ein hohes Minarett und ein schlichtes Steinäußeres aus.",
+                  "category": "landmark",
+                  "coords": [
+                        35.87297,
+                        32.02674
+                  ]
+            },
+            {
+                  "name": "Jordan University Mosque",
+                  "text": "Diese große Moschee auf dem Campus der Universität von Jordanien dient Studenten und Anwohnern gleichermaßen.",
+                  "category": "landmark",
+                  "coords": [
+                        35.866742,
+                        32.017901
+                  ]
+            },
+            {
+                  "name": "Najih Khalaf",
+                  "text": "Eine kleine Moschee für die täglichen Gebete, die harmonisch in das Wohngebiet eingebettet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.85823,
+                        32.018109
+                  ]
+            },
+            {
+                  "name": "salim al assaf mosque",
+                  "text": "Ein lokales islamisches Gotteshaus mit einem einzigen Minarett, das im traditionellen jordanischen Stil erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        35.863834,
+                        32.012353
+                  ]
+            },
+            {
+                  "name": "Uhud",
+                  "text": "Die nach der historischen Schlacht von Uhud benannte Moschee ist ein zentraler Gebetsort im Viertel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.855367,
+                        31.975182
+                  ]
+            },
+            {
+                  "name": "Dukkan",
+                  "text": "Ein traditioneller kleiner Laden, der wichtige Waren für die Besucher der öffentlichen Parks anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        35.821688,
+                        31.998275
+                  ]
+            },
+            {
+                  "name": "Curve",
+                  "text": "Ein moderner Marktplatz, der für seine geschwungene Architektur und seine vielfältigen Verkaufsstände bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        35.8513,
+                        31.979175
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jubaiha Amusement City",
+                  "text": "Népszerű vidámpark egy nagy óriáskerékkel és számos családi játékkal.",
+                  "category": "recreational",
+                  "coords": [
+                        35.872957,
+                        32.047208
+                  ]
+            },
+            {
+                  "name": "Khirbat al Muqbilah",
+                  "text": "Egy ókori település maradványai Amman modern városi területeinek szélén.",
+                  "category": "historical",
+                  "coords": [
+                        35.8,
+                        32.016667
+                  ]
+            },
+            {
+                  "name": "Dr. Qays Omari",
+                  "text": "Egy ismert orvosi létesítmény és helyi tájékozódási pont az Al-Hussein negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        35.889153,
+                        32.057243
+                  ]
+            },
+            {
+                  "name": "Eagle statue",
+                  "text": "Egy jellegzetes kő sasszobor a nyilvános park zöldövezetében.",
+                  "category": "historical",
+                  "coords": [
+                        35.817502,
+                        31.993996
+                  ]
+            },
+            {
+                  "name": "Hrhr",
+                  "text": "Egy kis dombtetőn lévő erőd ókori kőromjai a közparkok felett.",
+                  "category": "castle",
+                  "coords": [
+                        35.861529,
+                        31.994608
+                  ]
+            },
+            {
+                  "name": "Lora home",
+                  "text": "Egy jellegzetes helyi nevezetesség, amely egyedi építészeti kialakításáról ismert Ammanban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.870445,
+                        32.033158
+                  ]
+            },
+            {
+                  "name": "1989",
+                  "text": "Egy emlékoszlop a parkban, amely egy jelentős történelmi dátumnak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        35.865745,
+                        32.018488
+                  ]
+            },
+            {
+                  "name": "ACOR",
+                  "text": "Ez a központ egy kiterjedt régészeti könyvtárnak és jelentős történelmi leleteknek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        35.868227,
+                        32.008811
+                  ]
+            },
+            {
+                  "name": "Hada'iq al-Malik Hussein",
+                  "text": "Ebben a kiterjedt parkban található a Királyi Autómúzeum és a Jordániai Gyermekmúzeum is.",
+                  "category": "park",
+                  "coords": [
+                        35.826554,
+                        31.985523
+                  ]
+            },
+            {
+                  "name": "Abu Nuseir Mosque",
+                  "text": "Ez a lakónegyedben található mecset helyi közösségi központként szolgál a napi imádságokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        35.881297,
+                        32.052028
+                  ]
+            },
+            {
+                  "name": "mouhanad hijazeen",
+                  "text": "Kicsi, helyi muszlim imaház, amely szervesen illeszkedik a negyed városi szövetébe.",
+                  "category": "landmark",
+                  "coords": [
+                        35.861292,
+                        31.996517
+                  ]
+            },
+            {
+                  "name": "Jerusalem Mosque",
+                  "text": "A szent városról elnevezett mecset klasszikus iszlám építészeti elemeket mutat be Jordániában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.841804,
+                        32.072591
+                  ]
+            },
+            {
+                  "name": "Al Ansar",
+                  "text": "A történelmi „Segítőkről” elnevezett helyi mecset, amely a parkok közelében élő lakókat szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.88396,
+                        32.062155
+                  ]
+            },
+            {
+                  "name": "Hisham",
+                  "text": "Egyszerű iszlám imádkozóhely, amely nyugodt légkört biztosít a forgalmas városrész közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        35.873532,
+                        32.056202
+                  ]
+            },
+            {
+                  "name": "Almuhajereen and alansaar",
+                  "text": "Ez a mecset a próféta korai társaira emlékezik, és a helyi közösség szellemi találkozóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        35.837399,
+                        32.017427
+                  ]
+            },
+            {
+                  "name": "tibah",
+                  "text": "Helyi imaház, amely hagyományos kialakításáról és a közösségi életben betöltött szerepéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.871995,
+                        32.003138
+                  ]
+            },
+            {
+                  "name": "kaied al assaf",
+                  "text": "Ez a helyi családról elnevezett mecset klasszikus kupolájáról és minaretjéről ismerhető fel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.864271,
+                        32.002088
+                  ]
+            },
+            {
+                  "name": "Al-Jubaiha Mosque",
+                  "text": "Al-Jubaiha negyed egyik meghatározó mecsetje, amely közösségi szolgáltatásairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.864863,
+                        32.02531
+                  ]
+            },
+            {
+                  "name": "Al Haaj Atillawi Mosque",
+                  "text": "Ezt a hagyományos mecsetet magas minaret és egyszerű kőhomlokzat jellemzi.",
+                  "category": "landmark",
+                  "coords": [
+                        35.87297,
+                        32.02674
+                  ]
+            },
+            {
+                  "name": "Jordan University Mosque",
+                  "text": "A Jordániai Egyetem kampuszán található nagy mecset a hallgatókat és a helyi lakosokat egyaránt kiszolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.866742,
+                        32.017901
+                  ]
+            },
+            {
+                  "name": "Najih Khalaf",
+                  "text": "Kicsi mecset a napi imádságokhoz, amely harmonikusan illeszkedik a lakóövezetbe.",
+                  "category": "landmark",
+                  "coords": [
+                        35.85823,
+                        32.018109
+                  ]
+            },
+            {
+                  "name": "salim al assaf mosque",
+                  "text": "Helyi iszlám imaház egyetlen minarettel, amely hagyományos jordán stílusban épült.",
+                  "category": "landmark",
+                  "coords": [
+                        35.863834,
+                        32.012353
+                  ]
+            },
+            {
+                  "name": "Uhud",
+                  "text": "A történelmi Uhud-i csatáról elnevezett mecset a negyed egyik központi imádkozóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        35.855367,
+                        31.975182
+                  ]
+            },
+            {
+                  "name": "Dukkan",
+                  "text": "Hagyományos kisbolt, amely alapvető árucikkeket kínál a nyilvános parkok látogatóinak.",
+                  "category": "cultural",
+                  "coords": [
+                        35.821688,
+                        31.998275
+                  ]
+            },
+            {
+                  "name": "Curve",
+                  "text": "Modern piactér, amely ívelt építészetéről és változatos árusítóhelyeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        35.8513,
+                        31.979175
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jubaiha Amusement City",
+                  "text": "Un parc de distracții popular, cu o roată mare și numeroase atracții pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        35.872957,
+                        32.047208
+                  ]
+            },
+            {
+                  "name": "Khirbat al Muqbilah",
+                  "text": "Rămășițele unei așezări antice la marginea zonelor urbane moderne din Amman.",
+                  "category": "historical",
+                  "coords": [
+                        35.8,
+                        32.016667
+                  ]
+            },
+            {
+                  "name": "Dr. Qays Omari",
+                  "text": "O facilitate medicală cunoscută și un punct de reper local în cartierul Al-Hussein.",
+                  "category": "landmark",
+                  "coords": [
+                        35.889153,
+                        32.057243
+                  ]
+            },
+            {
+                  "name": "Eagle statue",
+                  "text": "O sculptură distinctivă de piatră a unui vultur situată în zona verde a parcului public.",
+                  "category": "historical",
+                  "coords": [
+                        35.817502,
+                        31.993996
+                  ]
+            },
+            {
+                  "name": "Hrhr",
+                  "text": "Ruinele antice de piatră ale unei mici fortificații pe un deal deasupra grădinilor publice.",
+                  "category": "castle",
+                  "coords": [
+                        35.861529,
+                        31.994608
+                  ]
+            },
+            {
+                  "name": "Lora home",
+                  "text": "Un punct de reper local distinctiv, cunoscut pentru designul său arhitectural unic în Amman.",
+                  "category": "landmark",
+                  "coords": [
+                        35.870445,
+                        32.033158
+                  ]
+            },
+            {
+                  "name": "1989",
+                  "text": "Un monument comemorativ în parc care marchează o dată istorică semnificativă.",
+                  "category": "historical",
+                  "coords": [
+                        35.865745,
+                        32.018488
+                  ]
+            },
+            {
+                  "name": "ACOR",
+                  "text": "Acest centru găzduiește o bibliotecă arheologică extinsă și artefacte istorice importante.",
+                  "category": "museum",
+                  "coords": [
+                        35.868227,
+                        32.008811
+                  ]
+            },
+            {
+                  "name": "Hada'iq al-Malik Hussein",
+                  "text": "Acest parc vast găzduiește Muzeul Regal al Automobilelor și Muzeul Copiilor din Iordania.",
+                  "category": "park",
+                  "coords": [
+                        35.826554,
+                        31.985523
+                  ]
+            },
+            {
+                  "name": "Abu Nuseir Mosque",
+                  "text": "Această moschee din cartierul rezidențial Abu Nuseir servește ca centru comunitar local pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        35.881297,
+                        32.052028
+                  ]
+            },
+            {
+                  "name": "mouhanad hijazeen",
+                  "text": "O mică sală de rugăciune musulmană locală, integrată în țesutul urban al cartierului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.861292,
+                        31.996517
+                  ]
+            },
+            {
+                  "name": "Jerusalem Mosque",
+                  "text": "Această moschee, numită după orașul sfânt, prezintă elemente arhitecturale islamice clasice în Iordania.",
+                  "category": "landmark",
+                  "coords": [
+                        35.841804,
+                        32.072591
+                  ]
+            },
+            {
+                  "name": "Al Ansar",
+                  "text": "O moschee locală numită după „Ajutoarele” istorice, care deservește locuitorii din apropierea parcurilor.",
+                  "category": "landmark",
+                  "coords": [
+                        35.88396,
+                        32.062155
+                  ]
+            },
+            {
+                  "name": "Hisham",
+                  "text": "Un loc de rugăciune islamic simplu, care oferă o atmosferă liniștită în mijlocul cartierului aglomerat.",
+                  "category": "landmark",
+                  "coords": [
+                        35.873532,
+                        32.056202
+                  ]
+            },
+            {
+                  "name": "Almuhajereen and alansaar",
+                  "text": "Această moschee îi comemorează pe primii însoțitori ai Profetului și este un punct de întâlnire spiritual local.",
+                  "category": "landmark",
+                  "coords": [
+                        35.837399,
+                        32.017427
+                  ]
+            },
+            {
+                  "name": "tibah",
+                  "text": "Un loc de rugăciune local, cunoscut pentru designul său tradițional și rolul său în viața comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        35.871995,
+                        32.003138
+                  ]
+            },
+            {
+                  "name": "kaied al assaf",
+                  "text": "Această moschee, numită după o familie locală, este caracterizată prin cupola și minaretul său clasic.",
+                  "category": "landmark",
+                  "coords": [
+                        35.864271,
+                        32.002088
+                  ]
+            },
+            {
+                  "name": "Al-Jubaiha Mosque",
+                  "text": "O moschee proeminentă în cartierul Al-Jubaiha, vizibilă pentru serviciile sale comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        35.864863,
+                        32.02531
+                  ]
+            },
+            {
+                  "name": "Al Haaj Atillawi Mosque",
+                  "text": "Această moschee tradițională se distinge printr-un minaret înalt și un exterior simplu din piatră.",
+                  "category": "landmark",
+                  "coords": [
+                        35.87297,
+                        32.02674
+                  ]
+            },
+            {
+                  "name": "Jordan University Mosque",
+                  "text": "Această moschee mare din campusul Universității Iordaniei deservește atât studenții, cât și localnicii.",
+                  "category": "landmark",
+                  "coords": [
+                        35.866742,
+                        32.017901
+                  ]
+            },
+            {
+                  "name": "Najih Khalaf",
+                  "text": "O mică moschee pentru rugăciunile zilnice, integrată armonios în zona rezidențială.",
+                  "category": "landmark",
+                  "coords": [
+                        35.85823,
+                        32.018109
+                  ]
+            },
+            {
+                  "name": "salim al assaf mosque",
+                  "text": "Un lăcaș de cult islamic local cu un singur minaret, construit în stil tradițional iordanian.",
+                  "category": "landmark",
+                  "coords": [
+                        35.863834,
+                        32.012353
+                  ]
+            },
+            {
+                  "name": "Uhud",
+                  "text": "Numită după bătălia istorică de la Uhud, această moschee este un loc central de rugăciune în cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        35.855367,
+                        31.975182
+                  ]
+            },
+            {
+                  "name": "Dukkan",
+                  "text": "Un mic magazin tradițional care oferă produse esențiale vizitatorilor parcurilor publice.",
+                  "category": "cultural",
+                  "coords": [
+                        35.821688,
+                        31.998275
+                  ]
+            },
+            {
+                  "name": "Curve",
+                  "text": "O piață modernă, cunoscută pentru arhitectura sa curbată și standurile sale de vânzare variate.",
+                  "category": "cultural",
+                  "coords": [
+                        35.8513,
+                        31.979175
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jubaiha Amusement City",
+                  "text": "A popular amusement park featuring a large Ferris wheel and numerous family rides.",
+                  "category": "recreational",
+                  "coords": [
+                        35.872957,
+                        32.047208
+                  ]
+            },
+            {
+                  "name": "Khirbat al Muqbilah",
+                  "text": "Remnants of an ancient settlement on the edge of the modern urban areas of Amman.",
+                  "category": "historical",
+                  "coords": [
+                        35.8,
+                        32.016667
+                  ]
+            },
+            {
+                  "name": "Dr. Qays Omari",
+                  "text": "A well-known medical facility and local landmark in the Al-Hussein neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        35.889153,
+                        32.057243
+                  ]
+            },
+            {
+                  "name": "Eagle statue",
+                  "text": "A distinctive stone eagle sculpture located within the greenery of the public park.",
+                  "category": "historical",
+                  "coords": [
+                        35.817502,
+                        31.993996
+                  ]
+            },
+            {
+                  "name": "Hrhr",
+                  "text": "Ancient stone ruins of a small hilltop fortification overlooking the public gardens.",
+                  "category": "castle",
+                  "coords": [
+                        35.861529,
+                        31.994608
+                  ]
+            },
+            {
+                  "name": "Lora home",
+                  "text": "A distinctive local landmark known for its unique architectural design in Amman.",
+                  "category": "landmark",
+                  "coords": [
+                        35.870445,
+                        32.033158
+                  ]
+            },
+            {
+                  "name": "1989",
+                  "text": "A commemorative monument in the park marking a significant historical date.",
+                  "category": "historical",
+                  "coords": [
+                        35.865745,
+                        32.018488
+                  ]
+            },
+            {
+                  "name": "ACOR",
+                  "text": "This center houses an extensive archaeological library and significant historical artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        35.868227,
+                        32.008811
+                  ]
+            },
+            {
+                  "name": "Hada'iq al-Malik Hussein",
+                  "text": "This expansive park complex houses the Royal Automobile Museum and the Children's Museum of Jordan.",
+                  "category": "park",
+                  "coords": [
+                        35.826554,
+                        31.985523
+                  ]
+            },
+            {
+                  "name": "Abu Nuseir Mosque",
+                  "text": "This mosque in the Abu Nuseir residential district serves as a local community hub for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        35.881297,
+                        32.052028
+                  ]
+            },
+            {
+                  "name": "mouhanad hijazeen",
+                  "text": "A small local Muslim prayer space integrated into the neighborhood's urban fabric.",
+                  "category": "landmark",
+                  "coords": [
+                        35.861292,
+                        31.996517
+                  ]
+            },
+            {
+                  "name": "Jerusalem Mosque",
+                  "text": "Named after the holy city, this mosque features classic Islamic architectural elements in Jordan.",
+                  "category": "landmark",
+                  "coords": [
+                        35.841804,
+                        32.072591
+                  ]
+            },
+            {
+                  "name": "Al Ansar",
+                  "text": "A local mosque named after the historic 'Helpers', serving residents near the public parks.",
+                  "category": "landmark",
+                  "coords": [
+                        35.88396,
+                        32.062155
+                  ]
+            },
+            {
+                  "name": "Hisham",
+                  "text": "A simple Islamic prayer site providing a quiet atmosphere amidst the busy urban district.",
+                  "category": "landmark",
+                  "coords": [
+                        35.873532,
+                        32.056202
+                  ]
+            },
+            {
+                  "name": "Almuhajereen and alansaar",
+                  "text": "Commemorating the early companions of the Prophet, this mosque is a local spiritual meeting point.",
+                  "category": "landmark",
+                  "coords": [
+                        35.837399,
+                        32.017427
+                  ]
+            },
+            {
+                  "name": "tibah",
+                  "text": "A local prayer site known for its traditional design and its role in neighborhood community life.",
+                  "category": "landmark",
+                  "coords": [
+                        35.871995,
+                        32.003138
+                  ]
+            },
+            {
+                  "name": "kaied al assaf",
+                  "text": "Named after a local family, this mosque is characterized by its classic dome and minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        35.864271,
+                        32.002088
+                  ]
+            },
+            {
+                  "name": "Al-Jubaiha Mosque",
+                  "text": "A prominent mosque in the Al-Jubaiha district, widely visible for its community services.",
+                  "category": "landmark",
+                  "coords": [
+                        35.864863,
+                        32.02531
+                  ]
+            },
+            {
+                  "name": "Al Haaj Atillawi Mosque",
+                  "text": "This traditional mosque is distinguished by a tall minaret and a simple stone exterior.",
+                  "category": "landmark",
+                  "coords": [
+                        35.87297,
+                        32.02674
+                  ]
+            },
+            {
+                  "name": "Jordan University Mosque",
+                  "text": "This large mosque on the University of Jordan campus serves students and local residents alike.",
+                  "category": "landmark",
+                  "coords": [
+                        35.866742,
+                        32.017901
+                  ]
+            },
+            {
+                  "name": "Najih Khalaf",
+                  "text": "A small mosque for daily prayers, harmoniously embedded within the residential area.",
+                  "category": "landmark",
+                  "coords": [
+                        35.85823,
+                        32.018109
+                  ]
+            },
+            {
+                  "name": "salim al assaf mosque",
+                  "text": "A local Islamic place of worship with a single minaret, built in the traditional Jordanian style.",
+                  "category": "landmark",
+                  "coords": [
+                        35.863834,
+                        32.012353
+                  ]
+            },
+            {
+                  "name": "Uhud",
+                  "text": "Named after the historic Battle of Uhud, this mosque is a central prayer location in the district.",
+                  "category": "landmark",
+                  "coords": [
+                        35.855367,
+                        31.975182
+                  ]
+            },
+            {
+                  "name": "Dukkan",
+                  "text": "A traditional small shop offering essential goods to visitors of the public parks.",
+                  "category": "cultural",
+                  "coords": [
+                        35.821688,
+                        31.998275
+                  ]
+            },
+            {
+                  "name": "Curve",
+                  "text": "A modern marketplace known for its curved architecture and diverse vending stalls.",
+                  "category": "cultural",
+                  "coords": [
+                        35.8513,
+                        31.979175
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "JO-AM",
     coords: [35.828, 31.986],
@@ -111,7 +1146,88 @@ export const poiExtraJordanLifeV2: POI[] = [
     },
   },
   {
-    id: "jordan-valley-citrus-farms-life-v2",
+    id: "jordan-valley-citrus-farms-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khirbat al Mira",
+                  "text": "Antike Ruinen im Jordantal, die Überreste von Lehmziegelbauten einer frühen landwirtschaftlichen Gemeinde zeigen.",
+                  "category": "historical",
+                  "coords": [
+                        35.666488,
+                        32.082673
+                  ]
+            },
+            {
+                  "name": "Tall Dāmiyā",
+                  "text": "Ein archäologischer Tell am Jordan, der mit der biblischen Stadt Adam nahe einer historischen Flussfurt identifiziert wird.",
+                  "category": "historical",
+                  "coords": [
+                        35.546856,
+                        32.10385
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khirbat al Mira",
+                  "text": "Ősi romok a Jordán-völgyben, amelyek egy korai mezőgazdasági közösség vályogépületeinek maradványait mutatják.",
+                  "category": "historical",
+                  "coords": [
+                        35.666488,
+                        32.082673
+                  ]
+            },
+            {
+                  "name": "Tall Dāmiyā",
+                  "text": "Régészeti domb a Jordán partján, amelyet a bibliai Ádám városával azonosítanak egy történelmi gázló közelében.",
+                  "category": "historical",
+                  "coords": [
+                        35.546856,
+                        32.10385
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khirbat al Mira",
+                  "text": "Ruine antice în Valea Iordanului, care prezintă resturi ale construcțiilor din chirpici ale unei timpurii comunități agricole.",
+                  "category": "historical",
+                  "coords": [
+                        35.666488,
+                        32.082673
+                  ]
+            },
+            {
+                  "name": "Tall Dāmiyā",
+                  "text": "O movilă arheologică pe malul Iordanului, identificată cu orașul biblic Adam, lângă un vad istoric.",
+                  "category": "historical",
+                  "coords": [
+                        35.546856,
+                        32.10385
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khirbat al Mira",
+                  "text": "Ancient ruins in the Jordan Valley showing remnants of mudbrick buildings from an early agricultural community.",
+                  "category": "historical",
+                  "coords": [
+                        35.666488,
+                        32.082673
+                  ]
+            },
+            {
+                  "name": "Tall Dāmiyā",
+                  "text": "An archaeological tell on the Jordan River identified with the biblical city of Adam near a historical ford.",
+                  "category": "historical",
+                  "coords": [
+                        35.546856,
+                        32.10385
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "JO-BA",
     coords: [35.590, 32.062],
@@ -147,7 +1263,232 @@ export const poiExtraJordanLifeV2: POI[] = [
     },
   },
   {
-    id: "aqaba-bird-observatory-life-v2",
+    id: "aqaba-bird-observatory-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "B12",
+                  "text": "Dieses Strandbad an der Küste bietet einen erholsamen Sandstrand direkt am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        34.983372,
+                        29.552325
+                  ]
+            },
+            {
+                  "name": "Aqaba Bird Observatory",
+                  "text": "Diese Feuchtgebietsattraktion dient als wichtiger Rastplatz für große Schwärme von Zugvögeln, die die Region durchqueren.",
+                  "category": "landmark",
+                  "coords": [
+                        34.985221,
+                        29.571997
+                  ]
+            },
+            {
+                  "name": "Ayla Oasis",
+                  "text": "Diese Attraktion am Wasser kombiniert Resort-Einrichtungen mit malerischen Lagunen entlang der Küste.",
+                  "category": "landmark",
+                  "coords": [
+                        34.987858,
+                        29.554993
+                  ]
+            },
+            {
+                  "name": "Al Kaloty Mousq",
+                  "text": "Diese muslimische Kultstätte bietet der örtlichen islamischen Gemeinde einen eigenen Raum für das Gebet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.013194,
+                        29.554738
+                  ]
+            },
+            {
+                  "name": "Al Reyatie Mosque",
+                  "text": "Als aktive muslimische Moschee verfügt sie über traditionelle architektonische Elemente für die täglichen Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        35.012908,
+                        29.55977
+                  ]
+            },
+            {
+                  "name": "8th Reseidential Area Market",
+                  "text": "Dieser belebte Marktplatz versorgt die Bewohner des achten Bezirks mit frischen Lebensmitteln und Alltagsgütern.",
+                  "category": "cultural",
+                  "coords": [
+                        35.011722,
+                        29.559248
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "B12",
+                  "text": "Ez a tengerparti strand úti cél pihentető, homokos menedéket kínál a vízpart mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        34.983372,
+                        29.552325
+                  ]
+            },
+            {
+                  "name": "Aqaba Bird Observatory",
+                  "text": "Ez a vizenyős terület fontos pihenőhelyként szolgál a régión áthaladó hatalmas vándormadárrajok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        34.985221,
+                        29.571997
+                  ]
+            },
+            {
+                  "name": "Ayla Oasis",
+                  "text": "Ez a vízparti látványosság üdülőhelyi létesítményeket és festői part menti lagúnákat ötvöz.",
+                  "category": "landmark",
+                  "coords": [
+                        34.987858,
+                        29.554993
+                  ]
+            },
+            {
+                  "name": "Al Kaloty Mousq",
+                  "text": "Ez a muszlim istentiszteleti hely dedikált imateret biztosít a helyi iszlám közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        35.013194,
+                        29.554738
+                  ]
+            },
+            {
+                  "name": "Al Reyatie Mosque",
+                  "text": "Aktív muszlim mecsetként funkcionál, amely hagyományos építészeti elemekkel szolgálja a napi imákat.",
+                  "category": "landmark",
+                  "coords": [
+                        35.012908,
+                        29.55977
+                  ]
+            },
+            {
+                  "name": "8th Reseidential Area Market",
+                  "text": "Ez a nyüzsgő piac friss termékekkel és mindennapi árukkal látja el a nyolcadik kerület lakosait.",
+                  "category": "cultural",
+                  "coords": [
+                        35.011722,
+                        29.559248
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "B12",
+                  "text": "Această destinație de plajă pe coastă oferă o retragere relaxantă pe nisip de-a lungul malului apei.",
+                  "category": "recreational",
+                  "coords": [
+                        34.983372,
+                        29.552325
+                  ]
+            },
+            {
+                  "name": "Aqaba Bird Observatory",
+                  "text": "Această atracție cu zone umede servește drept punct crucial de odihnă pentru marile stoluri de păsări migratoare care traversează regiunea.",
+                  "category": "landmark",
+                  "coords": [
+                        34.985221,
+                        29.571997
+                  ]
+            },
+            {
+                  "name": "Ayla Oasis",
+                  "text": "Această atracție pe malul apei combină facilități de resort cu lagune pitorești de-a lungul coastei.",
+                  "category": "landmark",
+                  "coords": [
+                        34.987858,
+                        29.554993
+                  ]
+            },
+            {
+                  "name": "Al Kaloty Mousq",
+                  "text": "Acest lăcaș de cult musulman oferă un spațiu de rugăciune dedicat comunității islamice locale.",
+                  "category": "landmark",
+                  "coords": [
+                        35.013194,
+                        29.554738
+                  ]
+            },
+            {
+                  "name": "Al Reyatie Mosque",
+                  "text": "Funcționând ca o moschee musulmană activă, prezintă elemente arhitecturale tradiționale pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        35.012908,
+                        29.55977
+                  ]
+            },
+            {
+                  "name": "8th Reseidential Area Market",
+                  "text": "Această piață plină de viață furnizează produse proaspete și bunuri de uz cotidian locuitorilor din cartierul al optulea.",
+                  "category": "cultural",
+                  "coords": [
+                        35.011722,
+                        29.559248
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "B12",
+                  "text": "This coastal beach destination offers a relaxing sandy retreat along the waterfront.",
+                  "category": "recreational",
+                  "coords": [
+                        34.983372,
+                        29.552325
+                  ]
+            },
+            {
+                  "name": "Aqaba Bird Observatory",
+                  "text": "This wetland attraction serves as a crucial resting point for large flocks of migratory birds passing through the region.",
+                  "category": "landmark",
+                  "coords": [
+                        34.985221,
+                        29.571997
+                  ]
+            },
+            {
+                  "name": "Ayla Oasis",
+                  "text": "This waterfront attraction combines resort facilities with scenic lagoons along the coast.",
+                  "category": "landmark",
+                  "coords": [
+                        34.987858,
+                        29.554993
+                  ]
+            },
+            {
+                  "name": "Al Kaloty Mousq",
+                  "text": "This Muslim place of worship provides a dedicated prayer space for the local Islamic community.",
+                  "category": "landmark",
+                  "coords": [
+                        35.013194,
+                        29.554738
+                  ]
+            },
+            {
+                  "name": "Al Reyatie Mosque",
+                  "text": "Functioning as an active Muslim mosque, it features traditional architectural elements for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        35.012908,
+                        29.55977
+                  ]
+            },
+            {
+                  "name": "8th Reseidential Area Market",
+                  "text": "This bustling marketplace supplies fresh produce and everyday goods to the residents of the eighth district.",
+                  "category": "cultural",
+                  "coords": [
+                        35.011722,
+                        29.559248
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "JO-AQ",
     coords: [34.991, 29.566],
@@ -183,7 +1524,196 @@ export const poiExtraJordanLifeV2: POI[] = [
     },
   },
   {
-    id: "childrens-museum-jordan-life-v2",
+    id: "childrens-museum-jordan-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Royal Automobile Museum",
+                  "text": "Das Royal Automobile Museum zeigt die private Sammlung klassischer und sportlicher Fahrzeuge des verstorbenen Königs Hussein von Jordanien.",
+                  "category": "museum",
+                  "coords": [
+                        35.826332,
+                        31.983099
+                  ]
+            },
+            {
+                  "name": "The Children's Museum",
+                  "text": "Dieses Kindermuseum bietet zahlreiche interaktive Ausstellungen und Hands-on-Experimente in speziellen wissenschaftlichen Entdeckungszonen.",
+                  "category": "museum",
+                  "coords": [
+                        35.825687,
+                        31.984298
+                  ]
+            },
+            {
+                  "name": "KHBP Mosque",
+                  "text": "Die muslimische KHBP-Moschee ist in die moderne Architektur des King Hussein Business Parks integriert und verfügt über eine zentrale Kuppel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.833769,
+                        31.97113
+                  ]
+            },
+            {
+                  "name": "King Hussein Ben Talal Mosque",
+                  "text": "Die King Hussein Ben Talal Moschee im Umayyaden-Stil zeichnet sich durch vier hoch aufragende Minarette an den Ecken aus.",
+                  "category": "landmark",
+                  "coords": [
+                        35.822801,
+                        31.985694
+                  ]
+            },
+            {
+                  "name": "Zink Supermarket",
+                  "text": "Der Zink Supermarket ist ein lebhafter Marktplatz, auf dem Anwohner frische Lebensmittel und Waren des täglichen Bedarfs einkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        35.792423,
+                        32.002709
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Royal Automobile Museum",
+                  "text": "A Királyi Autómúzeum a néhai Husszein jordán király klasszikus és sportautókból álló magángyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        35.826332,
+                        31.983099
+                  ]
+            },
+            {
+                  "name": "The Children's Museum",
+                  "text": "Ez a gyerekmúzeum számos interaktív kiállítást és gyakorlati kísérletet kínál a dedikált tudományos felfedező zónákban.",
+                  "category": "museum",
+                  "coords": [
+                        35.825687,
+                        31.984298
+                  ]
+            },
+            {
+                  "name": "KHBP Mosque",
+                  "text": "A muszlim KHBP mecset a King Hussein Business Park modern építészetébe illeszkedik, és egy központi kupolával rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        35.833769,
+                        31.97113
+                  ]
+            },
+            {
+                  "name": "King Hussein Ben Talal Mosque",
+                  "text": "Az omajjád stílusú King Hussein Ben Talal mecset négy sarkán egy-egy magasba törő minarettel rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        35.822801,
+                        31.985694
+                  ]
+            },
+            {
+                  "name": "Zink Supermarket",
+                  "text": "A Zink Supermarket egy nyüzsgő piactér, ahol a helyi lakosok friss élelmiszereket és mindennapi cikkeket vásárolhatnak.",
+                  "category": "cultural",
+                  "coords": [
+                        35.792423,
+                        32.002709
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Royal Automobile Museum",
+                  "text": "Muzeul Regal al Automobilului expune colecția privată de vehicule clasice și sport a regretatului rege Hussein al Iordaniei.",
+                  "category": "museum",
+                  "coords": [
+                        35.826332,
+                        31.983099
+                  ]
+            },
+            {
+                  "name": "The Children's Museum",
+                  "text": "Acest muzeu pentru copii oferă numeroase expoziții interactive și experimente practice în zonele dedicate descoperirilor științifice.",
+                  "category": "museum",
+                  "coords": [
+                        35.825687,
+                        31.984298
+                  ]
+            },
+            {
+                  "name": "KHBP Mosque",
+                  "text": "Moscheea musulmană KHBP este integrată în arhitectura modernă a parcului de afaceri King Hussein și are un dom central.",
+                  "category": "landmark",
+                  "coords": [
+                        35.833769,
+                        31.97113
+                  ]
+            },
+            {
+                  "name": "King Hussein Ben Talal Mosque",
+                  "text": "Moscheea King Hussein Ben Talal, construită în stil omeyad, se remarcă prin cele patru minarete înalte dispuse la colțuri.",
+                  "category": "landmark",
+                  "coords": [
+                        35.822801,
+                        31.985694
+                  ]
+            },
+            {
+                  "name": "Zink Supermarket",
+                  "text": "Zink Supermarket este o piață animată unde localnicii pot cumpăra alimente proaspete și bunuri de uz curent.",
+                  "category": "cultural",
+                  "coords": [
+                        35.792423,
+                        32.002709
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Royal Automobile Museum",
+                  "text": "The Royal Automobile Museum showcases the private collection of classic and sports cars belonging to the late King Hussein of Jordan.",
+                  "category": "museum",
+                  "coords": [
+                        35.826332,
+                        31.983099
+                  ]
+            },
+            {
+                  "name": "The Children's Museum",
+                  "text": "This Children's Museum offers numerous interactive exhibits and hands-on experiments within its dedicated science discovery zones.",
+                  "category": "museum",
+                  "coords": [
+                        35.825687,
+                        31.984298
+                  ]
+            },
+            {
+                  "name": "KHBP Mosque",
+                  "text": "The Muslim KHBP Mosque is integrated into the modern architecture of the King Hussein Business Park and features a central dome.",
+                  "category": "landmark",
+                  "coords": [
+                        35.833769,
+                        31.97113
+                  ]
+            },
+            {
+                  "name": "King Hussein Ben Talal Mosque",
+                  "text": "The Umayyad-style King Hussein Ben Talal Mosque is distinguished by the four towering minarets standing at its corners.",
+                  "category": "landmark",
+                  "coords": [
+                        35.822801,
+                        31.985694
+                  ]
+            },
+            {
+                  "name": "Zink Supermarket",
+                  "text": "Zink Supermarket is a bustling marketplace where local residents can purchase fresh groceries and daily essentials.",
+                  "category": "cultural",
+                  "coords": [
+                        35.792423,
+                        32.002709
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "JO-AM",
     coords: [35.826, 31.984],
@@ -219,7 +1749,448 @@ export const poiExtraJordanLifeV2: POI[] = [
     },
   },
   {
-    id: "ghamadan-park-life-v2",
+    id: "ghamadan-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "hussam h. d. home",
+                  "text": "Ein markantes privates Wohnhaus in burgähnlicher Architektur nahe dem Ghamadan-Park.",
+                  "category": "castle",
+                  "coords": [
+                        35.932182,
+                        31.87254
+                  ]
+            },
+            {
+                  "name": "Al Hanayifa",
+                  "text": "Diese antiken Ruinen am Rande von Amman zeugen von einer historischen Siedlung in den Hügeln.",
+                  "category": "historical",
+                  "coords": [
+                        35.9,
+                        31.9
+                  ]
+            },
+            {
+                  "name": "Amman Waves Aqua Park and Resort",
+                  "text": "Ein beliebter Wasserpark mit großen Außenbecken und Rutschen, ideal für Abkühlung in der Wüstenhitze.",
+                  "category": "recreational",
+                  "coords": [
+                        35.890204,
+                        31.861213
+                  ]
+            },
+            {
+                  "name": "Um Rummana",
+                  "text": "Überreste einer alten Steinstruktur, die einen weiten Blick über die südlichen Vororte von Amman bietet.",
+                  "category": "historical",
+                  "coords": [
+                        35.866667,
+                        31.866667
+                  ]
+            },
+            {
+                  "name": "Tall al-Umayri",
+                  "text": "Dieser bedeutende archäologische Hügel beherbergt Siedlungsspuren, die bis in die frühe Bronzezeit zurückreichen.",
+                  "category": "historical",
+                  "coords": [
+                        35.887968,
+                        31.86876
+                  ]
+            },
+            {
+                  "name": "Al Iman Mosque",
+                  "text": "Eine moderne Moschee in der Nähe des Na'ur-Distrikts, die als wichtiges religiöses Zentrum fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.88531,
+                        31.897928
+                  ]
+            },
+            {
+                  "name": "Abu Bakr Al Sedeeq Mosque",
+                  "text": "Diese im traditionellen Stil erbaute Moschee ist ein zentraler Gebetsort für die Gemeinde in Na'ur.",
+                  "category": "landmark",
+                  "coords": [
+                        35.891947,
+                        31.890755
+                  ]
+            },
+            {
+                  "name": "Na'ur Grand Mosque",
+                  "text": "Die Hauptmoschee von Na'ur, bekannt für ihr großes Minarett und die zentrale Bedeutung für lokale Festlichkeiten.",
+                  "category": "landmark",
+                  "coords": [
+                        35.82758,
+                        31.87677
+                  ]
+            },
+            {
+                  "name": "Masjid Al Hamza",
+                  "text": "Eine lokale Nachbarschaftsmoschee, die durch ihre klassische islamische Architektur in der Region Ghamadan auffällt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.91411,
+                        31.856924
+                  ]
+            },
+            {
+                  "name": "Ayesh Al-Hoyan Mosque",
+                  "text": "Ein bescheidenes muslimisches Gotteshaus, das die lokale Bevölkerung im hügeligen Umland von Amman bedient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.929683,
+                        31.898203
+                  ]
+            },
+            {
+                  "name": "St. Charbel Maronite Church",
+                  "text": "Diese maronitische Kirche ist ein wichtiges spirituelles Zentrum für die libanesisch-katholische Gemeinde in Jordanien.",
+                  "category": "landmark",
+                  "coords": [
+                        35.880043,
+                        31.876469
+                  ]
+            },
+            {
+                  "name": "Sts. Constantine and Helen Greek Orthodox Church",
+                  "text": "Eine griechisch-orthodoxe Kirche, die für ihre byzantinisch inspirierte Architektur und farbenfrohen Ikonen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.860453,
+                        31.897152
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "hussam h. d. home",
+                  "text": "Jellegzetes, várszerű architektúrával rendelkező magánház a Ghamadan-park közelében.",
+                  "category": "castle",
+                  "coords": [
+                        35.932182,
+                        31.87254
+                  ]
+            },
+            {
+                  "name": "Al Hanayifa",
+                  "text": "Ezek az Amman szélén található ókori romok egy dombok közötti történelmi településről tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        35.9,
+                        31.9
+                  ]
+            },
+            {
+                  "name": "Amman Waves Aqua Park and Resort",
+                  "text": "Népszerű vízipark hatalmas kültéri medencékkel és csúszdákkal, ideális a sivatagi hőségben való hűsölésre.",
+                  "category": "recreational",
+                  "coords": [
+                        35.890204,
+                        31.861213
+                  ]
+            },
+            {
+                  "name": "Um Rummana",
+                  "text": "Egy régi kőépítmény maradványai, amely tágas kilátást nyújt Amman déli elővárosaira.",
+                  "category": "historical",
+                  "coords": [
+                        35.866667,
+                        31.866667
+                  ]
+            },
+            {
+                  "name": "Tall al-Umayri",
+                  "text": "Ez a jelentős régészeti domb a kora bronzkorig visszanyúló településnyomokat őriz.",
+                  "category": "historical",
+                  "coords": [
+                        35.887968,
+                        31.86876
+                  ]
+            },
+            {
+                  "name": "Al Iman Mosque",
+                  "text": "Modern mecset a Na'ur kerület közelében, amely fontos vallási központként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        35.88531,
+                        31.897928
+                  ]
+            },
+            {
+                  "name": "Abu Bakr Al Sedeeq Mosque",
+                  "text": "Ez a hagyományos stílusban épült mecset központi imahely a Na'ur-i közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        35.891947,
+                        31.890755
+                  ]
+            },
+            {
+                  "name": "Na'ur Grand Mosque",
+                  "text": "Na'ur főmecsetje, amely nagy minaretjéről és a helyi ünnepségekben betöltött központi szerepéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.82758,
+                        31.87677
+                  ]
+            },
+            {
+                  "name": "Masjid Al Hamza",
+                  "text": "Helyi szomszédsági mecset, amely klasszikus iszlám építészetével tűnik ki a Ghamadan régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.91411,
+                        31.856924
+                  ]
+            },
+            {
+                  "name": "Ayesh Al-Hoyan Mosque",
+                  "text": "Szerény muszlim templom, amely Amman dombos környékének lakosságát szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.929683,
+                        31.898203
+                  ]
+            },
+            {
+                  "name": "St. Charbel Maronite Church",
+                  "text": "Ez a maronita templom fontos szellemi központ a jordániai libanoni katolikus közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        35.880043,
+                        31.876469
+                  ]
+            },
+            {
+                  "name": "Sts. Constantine and Helen Greek Orthodox Church",
+                  "text": "Görög ortodox templom, amely bizánci ihletésű építészetéről és színes ikonjairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.860453,
+                        31.897152
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "hussam h. d. home",
+                  "text": "O locuință privată distinctivă, cu arhitectură asemănătoare unui castel, lângă Parcul Ghamadan.",
+                  "category": "castle",
+                  "coords": [
+                        35.932182,
+                        31.87254
+                  ]
+            },
+            {
+                  "name": "Al Hanayifa",
+                  "text": "Aceste ruine antice de la marginea Ammanului atestă existența unei așezări istorice în dealuri.",
+                  "category": "historical",
+                  "coords": [
+                        35.9,
+                        31.9
+                  ]
+            },
+            {
+                  "name": "Amman Waves Aqua Park and Resort",
+                  "text": "Un parc acvatic popular, cu piscine exterioare mari și tobogane, ideal pentru răcorire în arșița deșertului.",
+                  "category": "recreational",
+                  "coords": [
+                        35.890204,
+                        31.861213
+                  ]
+            },
+            {
+                  "name": "Um Rummana",
+                  "text": "Rămășițele unei vechi structuri de piatră care oferă o vedere largă asupra suburbiilor sudice ale Ammanului.",
+                  "category": "historical",
+                  "coords": [
+                        35.866667,
+                        31.866667
+                  ]
+            },
+            {
+                  "name": "Tall al-Umayri",
+                  "text": "Acest tell arheologic important găzduiește urme de așezări care datează din epoca timpurie a bronzului.",
+                  "category": "historical",
+                  "coords": [
+                        35.887968,
+                        31.86876
+                  ]
+            },
+            {
+                  "name": "Al Iman Mosque",
+                  "text": "O moschee modernă lângă districtul Na'ur, care funcționează ca un important centru religios.",
+                  "category": "landmark",
+                  "coords": [
+                        35.88531,
+                        31.897928
+                  ]
+            },
+            {
+                  "name": "Abu Bakr Al Sedeeq Mosque",
+                  "text": "Această moschee construită în stil tradițional este un loc central de rugăciune pentru comunitatea din Na'ur.",
+                  "category": "landmark",
+                  "coords": [
+                        35.891947,
+                        31.890755
+                  ]
+            },
+            {
+                  "name": "Na'ur Grand Mosque",
+                  "text": "Marea Moschee din Na'ur, cunoscută pentru minaretul său mare și importanța centrală pentru festivitățile locale.",
+                  "category": "landmark",
+                  "coords": [
+                        35.82758,
+                        31.87677
+                  ]
+            },
+            {
+                  "name": "Masjid Al Hamza",
+                  "text": "O moschee locală de cartier care se remarcă prin arhitectura sa islamică clasică în regiunea Ghamadan.",
+                  "category": "landmark",
+                  "coords": [
+                        35.91411,
+                        31.856924
+                  ]
+            },
+            {
+                  "name": "Ayesh Al-Hoyan Mosque",
+                  "text": "Un lăcaș de cult musulman modest care deservește populația locală din împrejurimile deluroase ale Ammanului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.929683,
+                        31.898203
+                  ]
+            },
+            {
+                  "name": "St. Charbel Maronite Church",
+                  "text": "Această biserică maronită este un important centru spiritual pentru comunitatea catolică libaneză din Iordania.",
+                  "category": "landmark",
+                  "coords": [
+                        35.880043,
+                        31.876469
+                  ]
+            },
+            {
+                  "name": "Sts. Constantine and Helen Greek Orthodox Church",
+                  "text": "O biserică greco-ortodoxă cunoscută pentru arhitectura sa de inspirație bizantină și icoanele colorate.",
+                  "category": "landmark",
+                  "coords": [
+                        35.860453,
+                        31.897152
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "hussam h. d. home",
+                  "text": "A distinctive private residence featuring castle-like architecture near Ghamadan Park.",
+                  "category": "castle",
+                  "coords": [
+                        35.932182,
+                        31.87254
+                  ]
+            },
+            {
+                  "name": "Al Hanayifa",
+                  "text": "These ancient ruins on the outskirts of Amman testify to a historic settlement in the hills.",
+                  "category": "historical",
+                  "coords": [
+                        35.9,
+                        31.9
+                  ]
+            },
+            {
+                  "name": "Amman Waves Aqua Park and Resort",
+                  "text": "A popular water park featuring large outdoor pools and slides, ideal for cooling off in the desert heat.",
+                  "category": "recreational",
+                  "coords": [
+                        35.890204,
+                        31.861213
+                  ]
+            },
+            {
+                  "name": "Um Rummana",
+                  "text": "Remains of an old stone structure offering a wide view over the southern suburbs of Amman.",
+                  "category": "historical",
+                  "coords": [
+                        35.866667,
+                        31.866667
+                  ]
+            },
+            {
+                  "name": "Tall al-Umayri",
+                  "text": "This significant archaeological tell contains settlement layers dating back to the Early Bronze Age.",
+                  "category": "historical",
+                  "coords": [
+                        35.887968,
+                        31.86876
+                  ]
+            },
+            {
+                  "name": "Al Iman Mosque",
+                  "text": "A modern mosque near the Na'ur district, serving as an important religious center.",
+                  "category": "landmark",
+                  "coords": [
+                        35.88531,
+                        31.897928
+                  ]
+            },
+            {
+                  "name": "Abu Bakr Al Sedeeq Mosque",
+                  "text": "This mosque, built in a traditional style, is a central place of prayer for the community in Na'ur.",
+                  "category": "landmark",
+                  "coords": [
+                        35.891947,
+                        31.890755
+                  ]
+            },
+            {
+                  "name": "Na'ur Grand Mosque",
+                  "text": "The main mosque of Na'ur, known for its large minaret and central importance for local festivities.",
+                  "category": "landmark",
+                  "coords": [
+                        35.82758,
+                        31.87677
+                  ]
+            },
+            {
+                  "name": "Masjid Al Hamza",
+                  "text": "A local neighborhood mosque distinguished by its classic Islamic architecture in the Ghamadan region.",
+                  "category": "landmark",
+                  "coords": [
+                        35.91411,
+                        31.856924
+                  ]
+            },
+            {
+                  "name": "Ayesh Al-Hoyan Mosque",
+                  "text": "A modest Muslim place of worship serving the local population in the hilly outskirts of Amman.",
+                  "category": "landmark",
+                  "coords": [
+                        35.929683,
+                        31.898203
+                  ]
+            },
+            {
+                  "name": "St. Charbel Maronite Church",
+                  "text": "This Maronite church is an important spiritual center for the Lebanese Catholic community in Jordan.",
+                  "category": "landmark",
+                  "coords": [
+                        35.880043,
+                        31.876469
+                  ]
+            },
+            {
+                  "name": "Sts. Constantine and Helen Greek Orthodox Church",
+                  "text": "A Greek Orthodox church known for its Byzantine-inspired architecture and colorful icons.",
+                  "category": "landmark",
+                  "coords": [
+                        35.860453,
+                        31.897152
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "JO-AM",
     coords: [35.911, 31.861],
@@ -255,7 +2226,88 @@ export const poiExtraJordanLifeV2: POI[] = [
     },
   },
   {
-    id: "ajloun-olive-groves-life-v2",
+    id: "ajloun-olive-groves-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Our Lady of the Mountain Monastery",
+                  "text": "Ein christliches Kloster eingebettet zwischen den Olivenhainen von Adschlun.",
+                  "category": "landmark",
+                  "coords": [
+                        35.749843,
+                        32.30612
+                  ]
+            },
+            {
+                  "name": "Omari Masdjid",
+                  "text": "Ein historisches islamisches Gotteshaus, das der Gemeinde in der Nähe der Olivenhaine von Adschlun dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.754205,
+                        32.30654
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Our Lady of the Mountain Monastery",
+                  "text": "Keresztény kolostor, amely Adzslun olajfaligetei között bújik meg.",
+                  "category": "landmark",
+                  "coords": [
+                        35.749843,
+                        32.30612
+                  ]
+            },
+            {
+                  "name": "Omari Masdjid",
+                  "text": "Történelmi iszlám istentiszteleti hely, amely az adzsluni olajfaligetek melletti közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.754205,
+                        32.30654
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Our Lady of the Mountain Monastery",
+                  "text": "O mănăstire creștină ascunsă printre livezile de măslini din Ajloun.",
+                  "category": "landmark",
+                  "coords": [
+                        35.749843,
+                        32.30612
+                  ]
+            },
+            {
+                  "name": "Omari Masdjid",
+                  "text": "Un lăcaș de cult islamic istoric care deservește comunitatea de lângă livezile de măslini din Ajloun.",
+                  "category": "landmark",
+                  "coords": [
+                        35.754205,
+                        32.30654
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Our Lady of the Mountain Monastery",
+                  "text": "A Christian monastery nestled among the olive groves of Ajloun.",
+                  "category": "landmark",
+                  "coords": [
+                        35.749843,
+                        32.30612
+                  ]
+            },
+            {
+                  "name": "Omari Masdjid",
+                  "text": "A historic Islamic place of worship serving the community near the Ajloun olive groves.",
+                  "category": "landmark",
+                  "coords": [
+                        35.754205,
+                        32.30654
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "JO-AJ",
     coords: [35.751, 32.332],
@@ -291,7 +2343,232 @@ export const poiExtraJordanLifeV2: POI[] = [
     },
   },
   {
-    id: "al-mawa-wildlife-life-v2",
+    id: "al-mawa-wildlife-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Samta",
+                  "text": "Antike archäologische Überreste in der hügeligen Landschaft der Region Ajloun.",
+                  "category": "historical",
+                  "coords": [
+                        35.833333,
+                        32.383333
+                  ]
+            },
+            {
+                  "name": "Al-Khirbeh",
+                  "text": "Steinruinen einer historischen Siedlung im nördlichen jordanischen Hochland.",
+                  "category": "historical",
+                  "coords": [
+                        35.805436,
+                        32.28853
+                  ]
+            },
+            {
+                  "name": "Khibet al Hadeer",
+                  "text": "Überreste einer antiken Struktur mit Blick auf die bewaldeten Täler von Dzseras.",
+                  "category": "historical",
+                  "coords": [
+                        35.815118,
+                        32.28912
+                  ]
+            },
+            {
+                  "name": "Khirbet Troun",
+                  "text": "Archäologische Stätte mit den Fundamenten historischer Steinbehausungen.",
+                  "category": "historical",
+                  "coords": [
+                        35.819109,
+                        32.292911
+                  ]
+            },
+            {
+                  "name": "Khirbat al Kawm",
+                  "text": "Antike Ruinen, die in der Landschaft in der Nähe des Dorfes Sakib verstreut sind.",
+                  "category": "historical",
+                  "coords": [
+                        35.900262,
+                        32.335024
+                  ]
+            },
+            {
+                  "name": "The old Cemetery",
+                  "text": "Ein historischer Begräbnisplatz mit verwitterten Steingräbern, die mehrere Jahrhunderte alt sind.",
+                  "category": "historical",
+                  "coords": [
+                        35.811569,
+                        32.284686
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Samta",
+                  "text": "Ősi régészeti maradványok Dzseras környékének dombos vidékén.",
+                  "category": "historical",
+                  "coords": [
+                        35.833333,
+                        32.383333
+                  ]
+            },
+            {
+                  "name": "Al-Khirbeh",
+                  "text": "Egy történelmi település kőromjai az észak-jordániai felföldön.",
+                  "category": "historical",
+                  "coords": [
+                        35.805436,
+                        32.28853
+                  ]
+            },
+            {
+                  "name": "Khibet al Hadeer",
+                  "text": "Egy ősi építmény maradványai, amelyek Dzseras erdős völgyeire néznek.",
+                  "category": "historical",
+                  "coords": [
+                        35.815118,
+                        32.28912
+                  ]
+            },
+            {
+                  "name": "Khirbet Troun",
+                  "text": "Régészeti lelőhely történelmi kőlakóházak alapjaival.",
+                  "category": "historical",
+                  "coords": [
+                        35.819109,
+                        32.292911
+                  ]
+            },
+            {
+                  "name": "Khirbat al Kawm",
+                  "text": "Ősi romok, amelyek Sakib falu közelében, a tájban elszórva találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        35.900262,
+                        32.335024
+                  ]
+            },
+            {
+                  "name": "The old Cemetery",
+                  "text": "Történelmi temetkezési hely több évszázados, megkopott kősírokkal.",
+                  "category": "historical",
+                  "coords": [
+                        35.811569,
+                        32.284686
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Samta",
+                  "text": "Rămășițe arheologice antice situate în terenul deluros din regiunea Ajloun.",
+                  "category": "historical",
+                  "coords": [
+                        35.833333,
+                        32.383333
+                  ]
+            },
+            {
+                  "name": "Al-Khirbeh",
+                  "text": "Ruine de piatră ale unei așezări istorice situate în zonele înalte din nordul Iordaniei.",
+                  "category": "historical",
+                  "coords": [
+                        35.805436,
+                        32.28853
+                  ]
+            },
+            {
+                  "name": "Khibet al Hadeer",
+                  "text": "Rămășițele unei structuri antice care domină văile împădurite din Jerash.",
+                  "category": "historical",
+                  "coords": [
+                        35.815118,
+                        32.28912
+                  ]
+            },
+            {
+                  "name": "Khirbet Troun",
+                  "text": "Situl arheologic prezintă fundațiile unor locuințe istorice din piatră.",
+                  "category": "historical",
+                  "coords": [
+                        35.819109,
+                        32.292911
+                  ]
+            },
+            {
+                  "name": "Khirbat al Kawm",
+                  "text": "Ruine antice împrăștiate în peisajul de lângă satul Sakib.",
+                  "category": "historical",
+                  "coords": [
+                        35.900262,
+                        32.335024
+                  ]
+            },
+            {
+                  "name": "The old Cemetery",
+                  "text": "Un loc de înmormântare istoric, cu morminte de piatră erodate, vechi de câteva secole.",
+                  "category": "historical",
+                  "coords": [
+                        35.811569,
+                        32.284686
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Samta",
+                  "text": "Ancient archaeological remains located in the hilly terrain of the Ajloun region.",
+                  "category": "historical",
+                  "coords": [
+                        35.833333,
+                        32.383333
+                  ]
+            },
+            {
+                  "name": "Al-Khirbeh",
+                  "text": "Stone ruins of a historical settlement situated in the northern Jordanian highlands.",
+                  "category": "historical",
+                  "coords": [
+                        35.805436,
+                        32.28853
+                  ]
+            },
+            {
+                  "name": "Khibet al Hadeer",
+                  "text": "Remains of an ancient structure overlooking the forested valleys of Jerash.",
+                  "category": "historical",
+                  "coords": [
+                        35.815118,
+                        32.28912
+                  ]
+            },
+            {
+                  "name": "Khirbet Troun",
+                  "text": "Archaeological site featuring the foundations of historical stone dwellings.",
+                  "category": "historical",
+                  "coords": [
+                        35.819109,
+                        32.292911
+                  ]
+            },
+            {
+                  "name": "Khirbat al Kawm",
+                  "text": "Ancient ruins scattered across the landscape near the village of Sakib.",
+                  "category": "historical",
+                  "coords": [
+                        35.900262,
+                        32.335024
+                  ]
+            },
+            {
+                  "name": "The old Cemetery",
+                  "text": "A historic burial site with weathered stone tombs dating back several centuries.",
+                  "category": "historical",
+                  "coords": [
+                        35.811569,
+                        32.284686
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "JO-JA",
     coords: [35.850, 32.316],
@@ -327,7 +2604,1312 @@ export const poiExtraJordanLifeV2: POI[] = [
     },
   },
   {
-    id: "king-abdullah-park-irbid-life-v2",
+    id: "king-abdullah-park-irbid-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abu Zeit",
+                  "text": "Überreste einer antiken Siedlung mit verstreuten Mauerruinen nahe Irbid.",
+                  "category": "historical",
+                  "coords": [
+                        35.816739,
+                        32.549988
+                  ]
+            },
+            {
+                  "name": "Al Marama",
+                  "text": "Archäologische Stätte mit Fundamenten aus vergangener Zeit in der Hügellandschaft von Jordanien.",
+                  "category": "historical",
+                  "coords": [
+                        35.800203,
+                        32.48429
+                  ]
+            },
+            {
+                  "name": "Khirbat Ayata",
+                  "text": "Die Ruinen von Khirbat Ayata zeigen Siedlungsspuren aus der byzantinischen Ära.",
+                  "category": "historical",
+                  "coords": [
+                        35.8,
+                        32.5
+                  ]
+            },
+            {
+                  "name": "M. S Resident",
+                  "text": "Ein erhöhter Aussichtspunkt in Irbid, der weite Ausblicke über die Stadtarchitektur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        35.850909,
+                        32.52323
+                  ]
+            },
+            {
+                  "name": "Abu Mustafa House",
+                  "text": "Ein markantes lokales Wohnhaus, das für seine traditionelle Bauweise in Irbid bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.858497,
+                        32.525325
+                  ]
+            },
+            {
+                  "name": "Khirbat Haufa",
+                  "text": "Die Ausgrabungsstätte Khirbat Haufa bewahrt Überreste einer antiken ländlichen Siedlung.",
+                  "category": "historical",
+                  "coords": [
+                        35.833333,
+                        32.483333
+                  ]
+            },
+            {
+                  "name": "Khirbat Rakisa",
+                  "text": "Historische Ruinenstätte mit Überresten antiker Steinmauern in der Region Irbid.",
+                  "category": "historical",
+                  "coords": [
+                        35.866667,
+                        32.483333
+                  ]
+            },
+            {
+                  "name": "Khirbat Zambut Mulayk",
+                  "text": "Eine archäologische Fundstätte, die Einblicke in die antike Besiedlung Jordaniens bietet.",
+                  "category": "historical",
+                  "coords": [
+                        35.85,
+                        32.45
+                  ]
+            },
+            {
+                  "name": "Khirbat al Zeiraqun",
+                  "text": "Eine bedeutende befestigte Ausgrabungsstätte aus der frühen Bronzezeit mit massiven Mauern.",
+                  "category": "historical",
+                  "coords": [
+                        35.93336,
+                        32.583436
+                  ]
+            },
+            {
+                  "name": "Capitolias",
+                  "text": "Überreste der antiken Stadt Capitolias, einer der Städte der Dekapolis, bekannt für ihre römischen Zisternen.",
+                  "category": "historical",
+                  "coords": [
+                        35.858388,
+                        32.598626
+                  ]
+            },
+            {
+                  "name": "Irbid Archaeological Museum",
+                  "text": "Das Museum zeigt Keramik und Fundstücke aus der Steinzeit bis zur islamischen Periode.",
+                  "category": "museum",
+                  "coords": [
+                        35.848029,
+                        32.557785
+                  ]
+            },
+            {
+                  "name": "Tell Johfiyeh",
+                  "text": "Ein künstlicher Siedlungshügel (Tell), der bedeutende Funde aus der Eisenzeit beherbergt.",
+                  "category": "historical",
+                  "coords": [
+                        35.820846,
+                        32.4932
+                  ]
+            },
+            {
+                  "name": "Historical Museum",
+                  "text": "Ein Museum, das die Regionalgeschichte und die kulturelle Entwicklung von Irbid dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        35.853838,
+                        32.535708
+                  ]
+            },
+            {
+                  "name": "Khadiga bint Khowalied",
+                  "text": "Eine Moschee in Irbid, die nach Khadija bint Khuwaylid, der ersten Frau des Propheten, benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.864398,
+                        32.550996
+                  ]
+            },
+            {
+                  "name": "Hashim Pipers Mosqe",
+                  "text": "Ein muslimisches Gebetshaus mit lokaler Steinarchitektur im Stadtviertel von Irbid.",
+                  "category": "landmark",
+                  "coords": [
+                        35.864718,
+                        32.568186
+                  ]
+            },
+            {
+                  "name": "Hakema",
+                  "text": "Eine Moschee im Stadtteil Hakama, die durch ihr modernes Minarett auffällt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.886111,
+                        32.595
+                  ]
+            },
+            {
+                  "name": "Masjid Shorhbeel",
+                  "text": "Diese Moschee dient als geistliches Zentrum für die Bewohner des umliegenden Wohngebiets.",
+                  "category": "landmark",
+                  "coords": [
+                        35.867846,
+                        32.523831
+                  ]
+            },
+            {
+                  "name": "the college mosque",
+                  "text": "Eine Moschee in der Nähe der Bildungseinrichtungen, die oft von Studenten besucht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        35.892193,
+                        32.487196
+                  ]
+            },
+            {
+                  "name": "Greek Orthodox Church",
+                  "text": "Eine christliche Kirche mit byzantinischen Stilelementen, die der griechisch-orthodoxen Gemeinde gehört.",
+                  "category": "landmark",
+                  "coords": [
+                        35.846953,
+                        32.557592
+                  ]
+            },
+            {
+                  "name": "Alfayha",
+                  "text": "Ein elegantes muslimisches Gebetshaus mit einer großen, steinernen Kuppel in Irbid.",
+                  "category": "landmark",
+                  "coords": [
+                        35.855616,
+                        32.548678
+                  ]
+            },
+            {
+                  "name": "Irbid Great Mosque",
+                  "text": "Die Große Moschee von Irbid ist ein historisches Bauwerk aus Stein im Herzen der Altstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.848077,
+                        32.555684
+                  ]
+            },
+            {
+                  "name": "Ohod Mosque",
+                  "text": "Die Ohod-Moschee in Irbid zeichnet sich durch ihre helle Fassade und ihre traditionelle Architektur aus.",
+                  "category": "landmark",
+                  "coords": [
+                        35.851499,
+                        32.565437
+                  ]
+            },
+            {
+                  "name": "Fallujah mosque",
+                  "text": "Diese muslimische Gebetsstätte in Irbid dient mit ihrem hohen Minarett als markanter Orientierungspunkt im Viertel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.844024,
+                        32.567412
+                  ]
+            },
+            {
+                  "name": "Balat As-Shudaà Mosque",
+                  "text": "Eine lokale Moschee in Irbid, die durch ihre schlichte Steinarchitektur und den zentralen Gebetssaal geprägt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.847395,
+                        32.567462
+                  ]
+            },
+            {
+                  "name": "Amnah Al Attar Mosque",
+                  "text": "Diese Moschee ist ein wichtiges religiöses Zentrum für die Bewohner des King-Abdullah-Park-Viertels in Irbid.",
+                  "category": "landmark",
+                  "coords": [
+                        35.846901,
+                        32.572382
+                  ]
+            },
+            {
+                  "name": "Ibn Al Qayyim Mosque",
+                  "text": "Die nach dem Gelehrten Ibn Al Qayyim benannte Moschee fügt sich mit ihren hellen Kalksteinwänden in das Stadtbild ein.",
+                  "category": "landmark",
+                  "coords": [
+                        35.84461,
+                        32.572943
+                  ]
+            },
+            {
+                  "name": "Musab Bin Omair",
+                  "text": "Ein moderner islamischer Sakralbau in Irbid, der als Treffpunkt für die täglichen Gebete der Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.851145,
+                        32.575327
+                  ]
+            },
+            {
+                  "name": "Mosque of the Caliphs",
+                  "text": "Die Moschee der Kalifen in Irbid besticht durch ihre klassische Kuppelkonstruktion im Herzen des Wohngebiets.",
+                  "category": "landmark",
+                  "coords": [
+                        35.855086,
+                        32.575764
+                  ]
+            },
+            {
+                  "name": "Mecca Masjid",
+                  "text": "Diese Moschee in Irbid ist ein bedeutender Ort der Andacht, der nach dem heiligen Mekka benannt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        35.851032,
+                        32.568201
+                  ]
+            },
+            {
+                  "name": "Ammar Bin Yaser Mosque",
+                  "text": "Ein lokaler Sakralbau in Irbid, der durch seine charakteristische Fassade und die rituellen Waschräume definiert wird.",
+                  "category": "landmark",
+                  "coords": [
+                        35.854769,
+                        32.57004
+                  ]
+            },
+            {
+                  "name": "Al Ansar Mosque",
+                  "text": "Die Al-Ansar-Moschee ist ein fester Bestandteil des sozialen Lebens im King-Abdullah-Park-Viertel von Irbid.",
+                  "category": "landmark",
+                  "coords": [
+                        35.854905,
+                        32.567394
+                  ]
+            },
+            {
+                  "name": "Al Zaitawi Mosque",
+                  "text": "Diese Moschee in Irbid bietet mit ihrem schattigen Vorhof einen ruhigen Raum für die islamische Religionsausübung.",
+                  "category": "landmark",
+                  "coords": [
+                        35.827011,
+                        32.573629
+                  ]
+            },
+            {
+                  "name": "Zaid bin Thabit",
+                  "text": "Ein lokales Gotteshaus in Irbid, das durch seinen schlanken Turm und die traditionelle Innenausstattung auffällt.",
+                  "category": "religious",
+                  "coords": [
+                        35.836954,
+                        32.533093
+                  ]
+            },
+            {
+                  "name": "Latin Church",
+                  "text": "Diese Kirche in Irbid ist ein Zentrum für die katholische Gemeinde und zeigt europäisch inspirierte Architekturmotive.",
+                  "category": "religious",
+                  "coords": [
+                        35.88229,
+                        32.485947
+                  ]
+            },
+            {
+                  "name": "Central Farmers' Market",
+                  "text": "Auf diesem geschäftigen Markt in Irbid wird täglich frisches Obst und Gemüse direkt aus dem Jordantal angeboten.",
+                  "category": "cultural",
+                  "coords": [
+                        35.847013,
+                        32.55573
+                  ]
+            },
+            {
+                  "name": "Irbid Flea Market",
+                  "text": "Ein lebhafter Flohmarkt in Irbid, auf dem man zwischen Trödel auch lokale Antiquitäten und handwerkliche Kuriositäten findet.",
+                  "category": "cultural",
+                  "coords": [
+                        35.849436,
+                        32.558587
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abu Zeit",
+                  "text": "Egy ősi település maradványai szétszórt falromokkal Irbid közelében.",
+                  "category": "historical",
+                  "coords": [
+                        35.816739,
+                        32.549988
+                  ]
+            },
+            {
+                  "name": "Al Marama",
+                  "text": "Régészeti lelőhely múltbéli alapfalakkal a jordániai dombvidéken.",
+                  "category": "historical",
+                  "coords": [
+                        35.800203,
+                        32.48429
+                  ]
+            },
+            {
+                  "name": "Khirbat Ayata",
+                  "text": "Khirbat Ayata romjai a bizánci korszakból származó településnyomokat őriznek.",
+                  "category": "historical",
+                  "coords": [
+                        35.8,
+                        32.5
+                  ]
+            },
+            {
+                  "name": "M. S Resident",
+                  "text": "Megemelt kilátópont Irbidben, amely tágas rálátást nyújt a város építészetére.",
+                  "category": "natural",
+                  "coords": [
+                        35.850909,
+                        32.52323
+                  ]
+            },
+            {
+                  "name": "Abu Mustafa House",
+                  "text": "Jellegzetes helyi lakóház, amely hagyományos építési módjáról ismert Irbidben.",
+                  "category": "landmark",
+                  "coords": [
+                        35.858497,
+                        32.525325
+                  ]
+            },
+            {
+                  "name": "Khirbat Haufa",
+                  "text": "Khirbat Haufa régészeti lelőhelye egy ősi vidéki település maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        35.833333,
+                        32.483333
+                  ]
+            },
+            {
+                  "name": "Khirbat Rakisa",
+                  "text": "Történelmi romterület ősi kőfalak maradványaival Irbid régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        35.866667,
+                        32.483333
+                  ]
+            },
+            {
+                  "name": "Khirbat Zambut Mulayk",
+                  "text": "Régészeti lelőhely, amely betekintést nyújt Jordánia ősi benépesülésébe.",
+                  "category": "historical",
+                  "coords": [
+                        35.85,
+                        32.45
+                  ]
+            },
+            {
+                  "name": "Khirbat al Zeiraqun",
+                  "text": "Jelentős kora bronzkori erődített lelőhely hatalmas falmaradványokkal.",
+                  "category": "historical",
+                  "coords": [
+                        35.93336,
+                        32.583436
+                  ]
+            },
+            {
+                  "name": "Capitolias",
+                  "text": "Az ókori Capitolias romjai; a Dekapolisz egyik városa, amely római ciszternáiról ismert.",
+                  "category": "historical",
+                  "coords": [
+                        35.858388,
+                        32.598626
+                  ]
+            },
+            {
+                  "name": "Irbid Archaeological Museum",
+                  "text": "A múzeum a kőkorszaktól az iszlám korszakig terjedő kerámiákat és leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        35.848029,
+                        32.557785
+                  ]
+            },
+            {
+                  "name": "Tell Johfiyeh",
+                  "text": "Mesterséges településhalom (tell), amely jelentős vaskori leleteket rejt.",
+                  "category": "historical",
+                  "coords": [
+                        35.820846,
+                        32.4932
+                  ]
+            },
+            {
+                  "name": "Historical Museum",
+                  "text": "Múzeum, amely Irbid regionális történelmét és kulturális fejlődését dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        35.853838,
+                        32.535708
+                  ]
+            },
+            {
+                  "name": "Khadiga bint Khowalied",
+                  "text": "Irbid egyik mecsete, amely Mohamed próféta első feleségéről, Hadídzsa bint Huvajlidról kapta nevét.",
+                  "category": "landmark",
+                  "coords": [
+                        35.864398,
+                        32.550996
+                  ]
+            },
+            {
+                  "name": "Hashim Pipers Mosqe",
+                  "text": "Muszlim imaház helyi kőépítészettel Irbid egyik városnegyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.864718,
+                        32.568186
+                  ]
+            },
+            {
+                  "name": "Hakama",
+                  "text": "A Hakama negyedben található mecset, amely modern minaretjével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        35.886111,
+                        32.595
+                  ]
+            },
+            {
+                  "name": "Masjid Shorhbeel",
+                  "text": "Ez a mecset szellemi központként szolgál a környező lakónegyed lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        35.867846,
+                        32.523831
+                  ]
+            },
+            {
+                  "name": "the college mosque",
+                  "text": "Az oktatási intézmények közelében található mecset, amelyet gyakran látogatnak hallgatók.",
+                  "category": "landmark",
+                  "coords": [
+                        35.892193,
+                        32.487196
+                  ]
+            },
+            {
+                  "name": "Greek Orthodox Church",
+                  "text": "Bizánci stílusjegyeket hordozó keresztény templom, amely a görög ortodox közösségé.",
+                  "category": "landmark",
+                  "coords": [
+                        35.846953,
+                        32.557592
+                  ]
+            },
+            {
+                  "name": "Alfayha",
+                  "text": "Elegáns muszlim imaház nagy kőből készült kupolával Irbidben.",
+                  "category": "landmark",
+                  "coords": [
+                        35.855616,
+                        32.548678
+                  ]
+            },
+            {
+                  "name": "Irbid Great Mosque",
+                  "text": "Az Irbidi Nagymecset egy történelmi kőépület az óváros szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.848077,
+                        32.555684
+                  ]
+            },
+            {
+                  "name": "Ohod Mosque",
+                  "text": "Az irbidi Ohod-mecsetet világos homlokzata és hagyományos építészeti stílusa jellemzi.",
+                  "category": "landmark",
+                  "coords": [
+                        35.851499,
+                        32.565437
+                  ]
+            },
+            {
+                  "name": "Fallujah mosque",
+                  "text": "Ez az irbidi muszlim imaház magas minaretjével a környék jellegzetes tájékozódási pontja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.844024,
+                        32.567412
+                  ]
+            },
+            {
+                  "name": "Balat As-Shudaà Mosque",
+                  "text": "Helyi mecset Irbidben, amelyet egyszerű kőarchitektúra és központi imaterem jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        35.847395,
+                        32.567462
+                  ]
+            },
+            {
+                  "name": "Amnah Al Attar Mosque",
+                  "text": "Ez a mecset fontos vallási központ az irbidi Abdullah király park környékének lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        35.846901,
+                        32.572382
+                  ]
+            },
+            {
+                  "name": "Ibn Al Qayyim Mosque",
+                  "text": "Az Ibn Al Qayyim tudósról elnevezett mecset világos mészkő falaival illeszkedik a városképbe.",
+                  "category": "landmark",
+                  "coords": [
+                        35.84461,
+                        32.572943
+                  ]
+            },
+            {
+                  "name": "Musab Bin Omair",
+                  "text": "Modern iszlám szakrális épület Irbidben, amely a közösség napi imádságainak találkozóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        35.851145,
+                        32.575327
+                  ]
+            },
+            {
+                  "name": "Mosque of the Caliphs",
+                  "text": "Az irbidi Kalifák mecsetje klasszikus kupolás szerkezetével tűnik ki a lakóövezet szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.855086,
+                        32.575764
+                  ]
+            },
+            {
+                  "name": "Mecca Masjid",
+                  "text": "Ez az irbidi mecset a szent Mekkáról elnevezett jelentős áhítati hely.",
+                  "category": "landmark",
+                  "coords": [
+                        35.851032,
+                        32.568201
+                  ]
+            },
+            {
+                  "name": "Ammar Bin Yaser Mosque",
+                  "text": "Helyi szakrális épület Irbidben, amelyet jellegzetes homlokzata és a rituális mosdók határoznak meg.",
+                  "category": "landmark",
+                  "coords": [
+                        35.854769,
+                        32.57004
+                  ]
+            },
+            {
+                  "name": "Al Ansar Mosque",
+                  "text": "Az Al Ansar mecset az irbidi Abdullah király park negyed társadalmi életének szerves része.",
+                  "category": "landmark",
+                  "coords": [
+                        35.854905,
+                        32.567394
+                  ]
+            },
+            {
+                  "name": "Al Zaitawi Mosque",
+                  "text": "Ez az irbidi mecset árnyas előudvarával nyugodt helyet biztosít az iszlám vallásgyakorláshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        35.827011,
+                        32.573629
+                  ]
+            },
+            {
+                  "name": "Zaid bin Thabit",
+                  "text": "Helyi imaház Irbidben, amely karcsú tornyával és hagyományos belső kialakításával hívja fel magára a figyelmet.",
+                  "category": "religious",
+                  "coords": [
+                        35.836954,
+                        32.533093
+                  ]
+            },
+            {
+                  "name": "Latin Church",
+                  "text": "Ez az irbidi templom a katolikus közösség központja, amely európai ihletésű építészeti motívumokat mutat.",
+                  "category": "religious",
+                  "coords": [
+                        35.88229,
+                        32.485947
+                  ]
+            },
+            {
+                  "name": "Central Farmers' Market",
+                  "text": "Ezen a nyüzsgő irbidi piacon naponta kínálnak friss gyümölcsöt és zöldséget közvetlenül a Jordán-völgyből.",
+                  "category": "cultural",
+                  "coords": [
+                        35.847013,
+                        32.55573
+                  ]
+            },
+            {
+                  "name": "Irbid Flea Market",
+                  "text": "Élénk bolhapiac Irbidben, ahol a kacatok között helyi régiségeket és kézműves érdekességeket is találni.",
+                  "category": "cultural",
+                  "coords": [
+                        35.849436,
+                        32.558587
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abu Zeit",
+                  "text": "Rămășițele unei așezări antice cu ruine de ziduri dispersate lângă Irbid.",
+                  "category": "historical",
+                  "coords": [
+                        35.816739,
+                        32.549988
+                  ]
+            },
+            {
+                  "name": "Al Marama",
+                  "text": "Sit arheologic cu fundații din vremuri trecute în zona de deal a Iordaniei.",
+                  "category": "historical",
+                  "coords": [
+                        35.800203,
+                        32.48429
+                  ]
+            },
+            {
+                  "name": "Khirbat Ayata",
+                  "text": "Ruinele de la Khirbat Ayata prezintă urme de locuire din epoca bizantină.",
+                  "category": "historical",
+                  "coords": [
+                        35.8,
+                        32.5
+                  ]
+            },
+            {
+                  "name": "M. S Resident",
+                  "text": "Un punct de observație elevat în Irbid, oferind vederi largi asupra arhitecturii orașului.",
+                  "category": "natural",
+                  "coords": [
+                        35.850909,
+                        32.52323
+                  ]
+            },
+            {
+                  "name": "Abu Mustafa House",
+                  "text": "O casă rezidențială locală distinctivă, cunoscută pentru construcția sa tradițională în Irbid.",
+                  "category": "landmark",
+                  "coords": [
+                        35.858497,
+                        32.525325
+                  ]
+            },
+            {
+                  "name": "Khirbat Haufa",
+                  "text": "Situl arheologic Khirbat Haufa păstrează vestigiile unei vechi așezări rurale.",
+                  "category": "historical",
+                  "coords": [
+                        35.833333,
+                        32.483333
+                  ]
+            },
+            {
+                  "name": "Khirbat Rakisa",
+                  "text": "Situl istoric cu ruine ce păstrează resturi de ziduri antice de piatră în regiunea Irbid.",
+                  "category": "historical",
+                  "coords": [
+                        35.866667,
+                        32.483333
+                  ]
+            },
+            {
+                  "name": "Khirbat Zambut Mulayk",
+                  "text": "Un sit arheologic care oferă perspective asupra populării antice a Iordaniei.",
+                  "category": "historical",
+                  "coords": [
+                        35.85,
+                        32.45
+                  ]
+            },
+            {
+                  "name": "Khirbat al Zeiraqun",
+                  "text": "Un important sit fortificat din epoca timpurie a bronzului, cu ziduri masive.",
+                  "category": "historical",
+                  "coords": [
+                        35.93336,
+                        32.583436
+                  ]
+            },
+            {
+                  "name": "Capitolias",
+                  "text": "Vestigiile orașului antic Capitolias, una dintre cetățile Decapolisului, cunoscută pentru cisternele sale romane.",
+                  "category": "historical",
+                  "coords": [
+                        35.858388,
+                        32.598626
+                  ]
+            },
+            {
+                  "name": "Irbid Archaeological Museum",
+                  "text": "Muzeul expune ceramică și artefacte din epoca pietrei până în perioada islamică.",
+                  "category": "museum",
+                  "coords": [
+                        35.848029,
+                        32.557785
+                  ]
+            },
+            {
+                  "name": "Tell Johfiyeh",
+                  "text": "Un monticul artificial (tell) care adăpostește descoperiri importante din epoca fierului.",
+                  "category": "historical",
+                  "coords": [
+                        35.820846,
+                        32.4932
+                  ]
+            },
+            {
+                  "name": "Historical Museum",
+                  "text": "Un muzeu ce documentează istoria regională și evoluția culturală a orașului Irbid.",
+                  "category": "museum",
+                  "coords": [
+                        35.853838,
+                        32.535708
+                  ]
+            },
+            {
+                  "name": "Khadiga bint Khowalied",
+                  "text": "O moschee din Irbid numită după Khadija bint Khuwaylid, prima soție a profetului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.864398,
+                        32.550996
+                  ]
+            },
+            {
+                  "name": "Hashim Pipers Mosqe",
+                  "text": "Un lăcaș de cult musulman cu arhitectură locală din piatră în cartierul Irbid.",
+                  "category": "landmark",
+                  "coords": [
+                        35.864718,
+                        32.568186
+                  ]
+            },
+            {
+                  "name": "Hakama",
+                  "text": "O moschee în cartierul Hakama, care se remarcă prin minaretul său modern.",
+                  "category": "landmark",
+                  "coords": [
+                        35.886111,
+                        32.595
+                  ]
+            },
+            {
+                  "name": "Masjid Shorhbeel",
+                  "text": "Această moschee servește drept centru spiritual pentru locuitorii din zona rezidențială învecinată.",
+                  "category": "landmark",
+                  "coords": [
+                        35.867846,
+                        32.523831
+                  ]
+            },
+            {
+                  "name": "the college mosque",
+                  "text": "O moschee situată lângă instituțiile de învățământ, frecventată adesea de studenți.",
+                  "category": "landmark",
+                  "coords": [
+                        35.892193,
+                        32.487196
+                  ]
+            },
+            {
+                  "name": "Greek Orthodox Church",
+                  "text": "O biserică creștină cu elemente de stil bizantin, aparținând comunității greco-ortodoxe.",
+                  "category": "landmark",
+                  "coords": [
+                        35.846953,
+                        32.557592
+                  ]
+            },
+            {
+                  "name": "Alfayha",
+                  "text": "Un lăcaș de rugăciune musulman elegant, dotat cu o cupolă mare din piatră în Irbid.",
+                  "category": "landmark",
+                  "coords": [
+                        35.855616,
+                        32.548678
+                  ]
+            },
+            {
+                  "name": "Irbid Great Mosque",
+                  "text": "Marea Moschee din Irbid este o structură istorică din piatră situată în inima orașului vechi.",
+                  "category": "landmark",
+                  "coords": [
+                        35.848077,
+                        32.555684
+                  ]
+            },
+            {
+                  "name": "Ohod Mosque",
+                  "text": "Moscheea Ohod din Irbid se distinge prin fațada sa deschisă la culoare și arhitectura tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        35.851499,
+                        32.565437
+                  ]
+            },
+            {
+                  "name": "Fallujah mosque",
+                  "text": "Acest lăcaș de cult musulman din Irbid servește ca punct de reper în cartier, având un minaret înalt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.844024,
+                        32.567412
+                  ]
+            },
+            {
+                  "name": "Balat As-Shudaà Mosque",
+                  "text": "O moschee locală din Irbid, caracterizată prin arhitectura simplă din piatră și sala centrală de rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        35.847395,
+                        32.567462
+                  ]
+            },
+            {
+                  "name": "Amnah Al Attar Mosque",
+                  "text": "Această moschee este un centru religios important pentru locuitorii din zona parcului Regele Abdullah din Irbid.",
+                  "category": "landmark",
+                  "coords": [
+                        35.846901,
+                        32.572382
+                  ]
+            },
+            {
+                  "name": "Ibn Al Qayyim Mosque",
+                  "text": "Moscheea numită după învățatul Ibn Al Qayyim se integrează în peisajul urban cu pereții săi din calcar deschis.",
+                  "category": "landmark",
+                  "coords": [
+                        35.84461,
+                        32.572943
+                  ]
+            },
+            {
+                  "name": "Musab Bin Omair",
+                  "text": "O clădire sacră islamică modernă în Irbid, care servește ca loc de întâlnire pentru rugăciunile zilnice ale comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        35.851145,
+                        32.575327
+                  ]
+            },
+            {
+                  "name": "Mosque of the Caliphs",
+                  "text": "Moscheea Califilor din Irbid impresionează prin construcția sa clasică cu cupolă în inima zonei rezidențiale.",
+                  "category": "landmark",
+                  "coords": [
+                        35.855086,
+                        32.575764
+                  ]
+            },
+            {
+                  "name": "Mecca Masjid",
+                  "text": "Această moschee din Irbid este un loc important de rugăciune, numit după sfânta Mecca.",
+                  "category": "landmark",
+                  "coords": [
+                        35.851032,
+                        32.568201
+                  ]
+            },
+            {
+                  "name": "Ammar Bin Yaser Mosque",
+                  "text": "O clădire sacră locală în Irbid, definită prin fațada sa caracteristică și sălile pentru spălări rituale.",
+                  "category": "landmark",
+                  "coords": [
+                        35.854769,
+                        32.57004
+                  ]
+            },
+            {
+                  "name": "Al Ansar Mosque",
+                  "text": "Moscheea Al Ansar este o parte integrantă a vieții sociale din cartierul parcului Regele Abdullah din Irbid.",
+                  "category": "landmark",
+                  "coords": [
+                        35.854905,
+                        32.567394
+                  ]
+            },
+            {
+                  "name": "Al Zaitawi Mosque",
+                  "text": "Această moschee din Irbid oferă un spațiu liniștit pentru practica religioasă islamică, având o curte interioară umbrită.",
+                  "category": "landmark",
+                  "coords": [
+                        35.827011,
+                        32.573629
+                  ]
+            },
+            {
+                  "name": "Zaid bin Thabit",
+                  "text": "Un lăcaș de cult local din Irbid, care se remarcă prin turnul său zvelt și designul interior tradițional.",
+                  "category": "religious",
+                  "coords": [
+                        35.836954,
+                        32.533093
+                  ]
+            },
+            {
+                  "name": "Latin Church",
+                  "text": "Această biserică din Irbid este un centru pentru comunitatea catolică și prezintă motive arhitecturale de inspirație europeană.",
+                  "category": "religious",
+                  "coords": [
+                        35.88229,
+                        32.485947
+                  ]
+            },
+            {
+                  "name": "Central Farmers' Market",
+                  "text": "În această piață aglomerată din Irbid, se oferă zilnic fructe și legume proaspete direct din Valea Iordanului.",
+                  "category": "cultural",
+                  "coords": [
+                        35.847013,
+                        32.55573
+                  ]
+            },
+            {
+                  "name": "Irbid Flea Market",
+                  "text": "O piață de vechituri plină de viață în Irbid, unde printre mărunțișuri se pot găsi antichități locale și curiozități artizanale.",
+                  "category": "cultural",
+                  "coords": [
+                        35.849436,
+                        32.558587
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abu Zeit",
+                  "text": "Remains of an ancient settlement with scattered wall ruins near Irbid.",
+                  "category": "historical",
+                  "coords": [
+                        35.816739,
+                        32.549988
+                  ]
+            },
+            {
+                  "name": "Al Marama",
+                  "text": "Archaeological site featuring foundations from past eras in the Jordanian hill country.",
+                  "category": "historical",
+                  "coords": [
+                        35.800203,
+                        32.48429
+                  ]
+            },
+            {
+                  "name": "Khirbat Ayata",
+                  "text": "The ruins of Khirbat Ayata display traces of settlement from the Byzantine era.",
+                  "category": "historical",
+                  "coords": [
+                        35.8,
+                        32.5
+                  ]
+            },
+            {
+                  "name": "M. S Residency",
+                  "text": "An elevated viewpoint in Irbid offering expansive views over the city's architecture.",
+                  "category": "natural",
+                  "coords": [
+                        35.850909,
+                        32.52323
+                  ]
+            },
+            {
+                  "name": "Abu Mustafa House",
+                  "text": "A distinctive local residential house known for its traditional construction in Irbid.",
+                  "category": "landmark",
+                  "coords": [
+                        35.858497,
+                        32.525325
+                  ]
+            },
+            {
+                  "name": "Khirbat Haufa",
+                  "text": "The Khirbat Haufa archaeological site preserves remains of an ancient rural settlement.",
+                  "category": "historical",
+                  "coords": [
+                        35.833333,
+                        32.483333
+                  ]
+            },
+            {
+                  "name": "Khirbat Rakisa",
+                  "text": "Historical ruin site featuring remains of ancient stone walls in the Irbid region.",
+                  "category": "historical",
+                  "coords": [
+                        35.866667,
+                        32.483333
+                  ]
+            },
+            {
+                  "name": "Khirbat Zambut Mulayk",
+                  "text": "An archaeological site providing insights into the ancient habitation of Jordan.",
+                  "category": "historical",
+                  "coords": [
+                        35.85,
+                        32.45
+                  ]
+            },
+            {
+                  "name": "Khirbat al Zeiraqun",
+                  "text": "A major fortified archaeological site from the Early Bronze Age with massive walls.",
+                  "category": "historical",
+                  "coords": [
+                        35.93336,
+                        32.583436
+                  ]
+            },
+            {
+                  "name": "Capitolias",
+                  "text": "Remains of the ancient city of Capitolias, one of the Decapolis cities, known for its Roman cisterns.",
+                  "category": "historical",
+                  "coords": [
+                        35.858388,
+                        32.598626
+                  ]
+            },
+            {
+                  "name": "Irbid Archaeological Museum",
+                  "text": "The museum displays pottery and artifacts ranging from the Stone Age to the Islamic period.",
+                  "category": "museum",
+                  "coords": [
+                        35.848029,
+                        32.557785
+                  ]
+            },
+            {
+                  "name": "Tell Johfiyeh",
+                  "text": "An artificial settlement mound (tell) containing significant finds from the Iron Age.",
+                  "category": "historical",
+                  "coords": [
+                        35.820846,
+                        32.4932
+                  ]
+            },
+            {
+                  "name": "Historical Museum",
+                  "text": "A museum documenting the regional history and cultural development of Irbid.",
+                  "category": "museum",
+                  "coords": [
+                        35.853838,
+                        32.535708
+                  ]
+            },
+            {
+                  "name": "Khadiga bint Khowalied",
+                  "text": "A mosque in Irbid named after Khadija bint Khuwaylid, the first wife of the Prophet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.864398,
+                        32.550996
+                  ]
+            },
+            {
+                  "name": "Hashim Pipers Mosqe",
+                  "text": "A Muslim place of worship featuring local stone architecture in the Irbid district.",
+                  "category": "landmark",
+                  "coords": [
+                        35.864718,
+                        32.568186
+                  ]
+            },
+            {
+                  "name": "Hakama",
+                  "text": "A mosque in the Hakama area, notable for its modern minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        35.886111,
+                        32.595
+                  ]
+            },
+            {
+                  "name": "Masjid Shorhbeel",
+                  "text": "This mosque serves as a spiritual center for residents of the surrounding residential area.",
+                  "category": "landmark",
+                  "coords": [
+                        35.867846,
+                        32.523831
+                  ]
+            },
+            {
+                  "name": "the college mosque",
+                  "text": "A mosque located near the educational institutions, frequently attended by students.",
+                  "category": "landmark",
+                  "coords": [
+                        35.892193,
+                        32.487196
+                  ]
+            },
+            {
+                  "name": "Greek Orthodox Church",
+                  "text": "A Christian church with Byzantine style elements belonging to the Greek Orthodox community.",
+                  "category": "landmark",
+                  "coords": [
+                        35.846953,
+                        32.557592
+                  ]
+            },
+            {
+                  "name": "Alfayha",
+                  "text": "An elegant Muslim prayer house featuring a large stone dome in Irbid.",
+                  "category": "landmark",
+                  "coords": [
+                        35.855616,
+                        32.548678
+                  ]
+            },
+            {
+                  "name": "Irbid Great Mosque",
+                  "text": "The Irbid Great Mosque is a historic stone structure located in the heart of the old city.",
+                  "category": "landmark",
+                  "coords": [
+                        35.848077,
+                        32.555684
+                  ]
+            },
+            {
+                  "name": "Ohod Mosque",
+                  "text": "The Ohod Mosque in Irbid is characterized by its light-colored facade and traditional architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        35.851499,
+                        32.565437
+                  ]
+            },
+            {
+                  "name": "Fallujah mosque",
+                  "text": "This Muslim place of worship in Irbid serves as a prominent neighborhood landmark with its tall minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        35.844024,
+                        32.567412
+                  ]
+            },
+            {
+                  "name": "Balat As-Shudaà Mosque",
+                  "text": "A local mosque in Irbid characterized by its simple stone architecture and central prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        35.847395,
+                        32.567462
+                  ]
+            },
+            {
+                  "name": "Amnah Al Attar Mosque",
+                  "text": "This mosque is an important religious center for the residents of the King Abdullah Park area in Irbid.",
+                  "category": "landmark",
+                  "coords": [
+                        35.846901,
+                        32.572382
+                  ]
+            },
+            {
+                  "name": "Ibn Al Qayyim Mosque",
+                  "text": "The mosque, named after the scholar Ibn Al Qayyim, blends into the cityscape with its light limestone walls.",
+                  "category": "landmark",
+                  "coords": [
+                        35.84461,
+                        32.572943
+                  ]
+            },
+            {
+                  "name": "Musab Bin Omair",
+                  "text": "A modern Islamic sacred building in Irbid that serves as a gathering place for the community's daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        35.851145,
+                        32.575327
+                  ]
+            },
+            {
+                  "name": "Mosque of the Caliphs",
+                  "text": "The Mosque of the Caliphs in Irbid features a classic dome construction in the heart of the residential area.",
+                  "category": "landmark",
+                  "coords": [
+                        35.855086,
+                        32.575764
+                  ]
+            },
+            {
+                  "name": "Mecca Masjid",
+                  "text": "This mosque in Irbid is a significant place of devotion named after the holy city of Mecca.",
+                  "category": "landmark",
+                  "coords": [
+                        35.851032,
+                        32.568201
+                  ]
+            },
+            {
+                  "name": "Ammar Bin Yaser Mosque",
+                  "text": "A local sacred building in Irbid defined by its characteristic facade and ritual washing areas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.854769,
+                        32.57004
+                  ]
+            },
+            {
+                  "name": "Al Ansar Mosque",
+                  "text": "The Al Ansar Mosque is an integral part of social life in the King Abdullah Park district of Irbid.",
+                  "category": "landmark",
+                  "coords": [
+                        35.854905,
+                        32.567394
+                  ]
+            },
+            {
+                  "name": "Al Zaitawi Mosque",
+                  "text": "This mosque in Irbid offers a peaceful space for Islamic worship with its shaded courtyard.",
+                  "category": "landmark",
+                  "coords": [
+                        35.827011,
+                        32.573629
+                  ]
+            },
+            {
+                  "name": "Zaid bin Thabit",
+                  "text": "A local place of worship in Irbid, notable for its slender tower and traditional interior design.",
+                  "category": "religious",
+                  "coords": [
+                        35.836954,
+                        32.533093
+                  ]
+            },
+            {
+                  "name": "Latin Church",
+                  "text": "This church in Irbid is a center for the Catholic community and displays European-inspired architectural motifs.",
+                  "category": "religious",
+                  "coords": [
+                        35.88229,
+                        32.485947
+                  ]
+            },
+            {
+                  "name": "Central Farmers' Market",
+                  "text": "At this bustling market in Irbid, fresh fruits and vegetables straight from the Jordan Valley are offered daily.",
+                  "category": "cultural",
+                  "coords": [
+                        35.847013,
+                        32.55573
+                  ]
+            },
+            {
+                  "name": "Irbid Flea Market",
+                  "text": "A lively flea market in Irbid where you can find local antiques and artisanal curiosities among second-hand goods.",
+                  "category": "cultural",
+                  "coords": [
+                        35.849436,
+                        32.558587
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "JO-IR",
     coords: [35.853, 32.531],
@@ -363,7 +3945,772 @@ export const poiExtraJordanLifeV2: POI[] = [
     },
   },
   {
-    id: "prince-hashem-bird-garden-life-v2",
+    id: "prince-hashem-bird-garden-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fulbright Commission",
+                  "text": "Eine Bildungseinrichtung in Amman, die den internationalen akademischen Austausch fördert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.890594,
+                        31.968982
+                  ]
+            },
+            {
+                  "name": "Prince Hashem Bird Garden",
+                  "text": "Ein ruhiger grüner Park, in dem verschiedene Arten von exotischen Vögeln und Enten leben.",
+                  "category": "recreational",
+                  "coords": [
+                        35.892834,
+                        31.970771
+                  ]
+            },
+            {
+                  "name": "Younes",
+                  "text": "Eine lokale Sehenswürdigkeit in der Nähe des Haya Cultural Center im Stadtteil Shmeisani.",
+                  "category": "landmark",
+                  "coords": [
+                        35.871622,
+                        31.99016
+                  ]
+            },
+            {
+                  "name": "MOENV",
+                  "text": "Ein monumentales Gebäude, das die Bemühungen um den Umweltschutz in der Region repräsentiert.",
+                  "category": "historical",
+                  "coords": [
+                        35.894022,
+                        31.959852
+                  ]
+            },
+            {
+                  "name": "Rujm al Shumaysani",
+                  "text": "Die Ruinen eines Wachturms aus der Eisenzeit, die einen Panoramablick über das moderne Amman bieten.",
+                  "category": "historical",
+                  "coords": [
+                        35.883333,
+                        31.966667
+                  ]
+            },
+            {
+                  "name": "Haya Cultural Center",
+                  "text": "Ein lebendiges Zentrum für Kinder mit Kunst-, Musik- und Bildungsprogrammen.",
+                  "category": "cultural",
+                  "coords": [
+                        35.896751,
+                        31.96645
+                  ]
+            },
+            {
+                  "name": "Prince Hassan Mosque",
+                  "text": "Eine moderne Moschee mit einem markanten Minarett, die sich unweit des Vogelgartens befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.898145,
+                        31.962527
+                  ]
+            },
+            {
+                  "name": "Al Rawi",
+                  "text": "Ein friedliches Gebetshaus in der Nachbarschaft, das der lokalen muslimischen Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.895604,
+                        31.971346
+                  ]
+            },
+            {
+                  "name": "Um Yahya Mosque",
+                  "text": "Eine lokale Moschee im Herzen von Shmeisani, die einen Raum für spirituelle Besinnung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.871482,
+                        31.964072
+                  ]
+            },
+            {
+                  "name": "Suhaib Bin Sinan",
+                  "text": "Eine dem Gefährten des Propheten gewidmete Moschee, die als wichtiges religiöses Zentrum fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.866032,
+                        31.959732
+                  ]
+            },
+            {
+                  "name": "Cathedral of St. Ephrem",
+                  "text": "Eine syrisch-orthodoxe Kathedrale, die als geistliches Zentrum für die christliche Gemeinde Ammans dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.867082,
+                        31.948374
+                  ]
+            },
+            {
+                  "name": "Al-Kalooti",
+                  "text": "Eine weithin bekannte Moschee in Amman, die oft für wichtige Gemeindeveranstaltungen genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        35.87064,
+                        31.977579
+                  ]
+            },
+            {
+                  "name": "Masjed al-Kalouti",
+                  "text": "Ein bedeutendes religiöses Wahrzeichen mit einem großen Innenhof und moderner Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        35.869405,
+                        31.98554
+                  ]
+            },
+            {
+                  "name": "Tabaa Mosque",
+                  "text": "Eine ruhige Nachbarschaftsmoschee, die für die täglichen Gebete der Gläubigen in der Nähe geöffnet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.879298,
+                        31.986615
+                  ]
+            },
+            {
+                  "name": "Al Fayha",
+                  "text": "Eine lokale Moschee in Amman mit traditionellen Minaretten, die das Wohnviertel bedient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.889814,
+                        31.971044
+                  ]
+            },
+            {
+                  "name": "Billal",
+                  "text": "Eine schlichte Moschee in Amman, die als zentraler Ort für das tägliche Gebet der Anwohner fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.892308,
+                        31.974659
+                  ]
+            },
+            {
+                  "name": "West Amman Baptist Church",
+                  "text": "Eine christliche Kirche der baptistischen Denomination, die Gottesdienste im Westen von Amman anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.878056,
+                        31.973621
+                  ]
+            },
+            {
+                  "name": "Abu A'esha Mosque",
+                  "text": "Eine Stadtviertel-Moschee in Amman, die sich durch ihre markante Kuppel und ihren islamischen Baustil auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.858951,
+                        31.947936
+                  ]
+            },
+            {
+                  "name": "Ebad Al Rahman Mosque",
+                  "text": "Eine lokale muslimische Gebetsstätte in Amman, die für ihre ruhige Atmosphäre und traditionelle Gestaltung bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.870275,
+                        31.954666
+                  ]
+            },
+            {
+                  "name": "Panorama Amman Hotel , Almmawal rent a car, Ahwet Panorama",
+                  "text": "Ein Standort auf einem Hügel, der einen weiten Blick auf das Stadtbild von Amman und die umliegenden Hügel bietet.",
+                  "category": "religious",
+                  "coords": [
+                        35.867964,
+                        31.959733
+                  ]
+            },
+            {
+                  "name": "Virgin of Nasiriya Church",
+                  "text": "Eine christliche Kirche in Amman, die der Jungfrau Maria gewidmet ist und der lokalen Gemeinde von Nasiriya dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.870841,
+                        31.951501
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fulbright Commission",
+                  "text": "Oktatási intézmény Ammanban, amely a nemzetközi akadémiai cserét segíti elő.",
+                  "category": "landmark",
+                  "coords": [
+                        35.890594,
+                        31.968982
+                  ]
+            },
+            {
+                  "name": "Prince Hashem Bird Garden",
+                  "text": "Nyugodt zöld park, ahol különféle egzotikus madárfajok és kacsák élnek.",
+                  "category": "recreational",
+                  "coords": [
+                        35.892834,
+                        31.970771
+                  ]
+            },
+            {
+                  "name": "Younes",
+                  "text": "Helyi látnivaló a Shmeisani negyedben, a Haya Kulturális Központ közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.871622,
+                        31.99016
+                  ]
+            },
+            {
+                  "name": "MOENV",
+                  "text": "Monumentális épület, amely a régió környezetvédelmi törekvéseit jelképezi.",
+                  "category": "historical",
+                  "coords": [
+                        35.894022,
+                        31.959852
+                  ]
+            },
+            {
+                  "name": "Rujm al Shumaysani",
+                  "text": "Vaskori őrtorony romjai, ahonnan panorámás kilátás nyílik a modern Ammanra.",
+                  "category": "historical",
+                  "coords": [
+                        35.883333,
+                        31.966667
+                  ]
+            },
+            {
+                  "name": "Haya Cultural Center",
+                  "text": "Vibráló központ gyerekeknek, ahol művészeti, zenei és oktatási programokat tartanak.",
+                  "category": "cultural",
+                  "coords": [
+                        35.896751,
+                        31.96645
+                  ]
+            },
+            {
+                  "name": "Prince Hassan Mosque",
+                  "text": "Modern mecset jellegzetes minarettel, amely nem messze található a madárkerttől.",
+                  "category": "landmark",
+                  "coords": [
+                        35.898145,
+                        31.962527
+                  ]
+            },
+            {
+                  "name": "Al Rawi",
+                  "text": "Békés imaház a környéken, amely a helyi muszlim közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.895604,
+                        31.971346
+                  ]
+            },
+            {
+                  "name": "Um Yahya Mosque",
+                  "text": "Helyi mecset Shmeisani szívében, amely helyet biztosít a lelki elmélyüléshez.",
+                  "category": "landmark",
+                  "coords": [
+                        35.871482,
+                        31.964072
+                  ]
+            },
+            {
+                  "name": "Suhaib Bin Sinan",
+                  "text": "A Próféta egyik társának szentelt mecset, amely fontos vallási központként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        35.866032,
+                        31.959732
+                  ]
+            },
+            {
+                  "name": "Cathedral of St. Ephrem",
+                  "text": "Szír ortodox katedrális, amely Amman keresztény közösségének szellemi központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        35.867082,
+                        31.948374
+                  ]
+            },
+            {
+                  "name": "Al-Kalooti",
+                  "text": "Széles körben ismert mecset Ammanban, amelyet gyakran használnak fontos közösségi eseményekre.",
+                  "category": "landmark",
+                  "coords": [
+                        35.87064,
+                        31.977579
+                  ]
+            },
+            {
+                  "name": "Masjed al-Kalouti",
+                  "text": "Jelentős vallási nevezetesség nagy belső udvarral és modern építészeti stílussal.",
+                  "category": "landmark",
+                  "coords": [
+                        35.869405,
+                        31.98554
+                  ]
+            },
+            {
+                  "name": "Tabaa Mosque",
+                  "text": "Csendes szomszédsági mecset, amely a hívők mindennapi imádságaihoz áll nyitva.",
+                  "category": "landmark",
+                  "coords": [
+                        35.879298,
+                        31.986615
+                  ]
+            },
+            {
+                  "name": "Al Fayha",
+                  "text": "Amman egyik helyi mecsetje hagyományos minaretekkel a lakónegyed szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.889814,
+                        31.971044
+                  ]
+            },
+            {
+                  "name": "Billal",
+                  "text": "Egyszerű mecset Ammanban, amely a helyi lakosok napi imádságainak központi helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        35.892308,
+                        31.974659
+                  ]
+            },
+            {
+                  "name": "West Amman Baptist Church",
+                  "text": "Baptista felekezetű keresztény templom, amely Amman nyugati részén tart istentiszteleteket.",
+                  "category": "landmark",
+                  "coords": [
+                        35.878056,
+                        31.973621
+                  ]
+            },
+            {
+                  "name": "Abu A'esha Mosque",
+                  "text": "Amman egyik városnegyedi mecsetje, amelyet jellegzetes kupolája és iszlám építészeti stílusa határoz meg.",
+                  "category": "landmark",
+                  "coords": [
+                        35.858951,
+                        31.947936
+                  ]
+            },
+            {
+                  "name": "Ebad Al Rahman Mosque",
+                  "text": "Helyi muszlim imaház Ammanban, amely nyugodt légköréről és hagyományos kialakításáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.870275,
+                        31.954666
+                  ]
+            },
+            {
+                  "name": "Panorama Amman Hotel , Almmawal rent a car, Ahwet Panorama",
+                  "text": "Domboldali helyszín, amely széles kilátást nyújt Amman városára és a környező dombokra.",
+                  "category": "religious",
+                  "coords": [
+                        35.867964,
+                        31.959733
+                  ]
+            },
+            {
+                  "name": "Virgin of Nasiriya Church",
+                  "text": "Szűz Máriának szentelt keresztény templom Ammanban, amely a helyi Nasiriya közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.870841,
+                        31.951501
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fulbright Commission",
+                  "text": "O instituție de învățământ din Amman care promovează schimbul academic internațional.",
+                  "category": "landmark",
+                  "coords": [
+                        35.890594,
+                        31.968982
+                  ]
+            },
+            {
+                  "name": "Prince Hashem Bird Garden",
+                  "text": "Un parc verde liniștit care găzduiește diverse specii de păsări exotice și rațe.",
+                  "category": "recreational",
+                  "coords": [
+                        35.892834,
+                        31.970771
+                  ]
+            },
+            {
+                  "name": "Younes",
+                  "text": "Un obiectiv turistic local situat în apropierea Centrului Cultural Haya, în cartierul Shmeisani.",
+                  "category": "landmark",
+                  "coords": [
+                        35.871622,
+                        31.99016
+                  ]
+            },
+            {
+                  "name": "MOENV",
+                  "text": "O clădire monumentală care reprezintă eforturile de protecție a mediului în regiune.",
+                  "category": "historical",
+                  "coords": [
+                        35.894022,
+                        31.959852
+                  ]
+            },
+            {
+                  "name": "Rujm al Shumaysani",
+                  "text": "Ruinele unui turn de veghe din Epoca Fierului, care oferă o vedere panoramică asupra orașului Amman modern.",
+                  "category": "historical",
+                  "coords": [
+                        35.883333,
+                        31.966667
+                  ]
+            },
+            {
+                  "name": "Haya Cultural Center",
+                  "text": "Un centru vibrant pentru copii, cu programe de artă, muzică și educație.",
+                  "category": "cultural",
+                  "coords": [
+                        35.896751,
+                        31.96645
+                  ]
+            },
+            {
+                  "name": "Prince Hassan Mosque",
+                  "text": "O moschee modernă cu un minaret proeminent, situată nu departe de grădina de păsări.",
+                  "category": "landmark",
+                  "coords": [
+                        35.898145,
+                        31.962527
+                  ]
+            },
+            {
+                  "name": "Al Rawi",
+                  "text": "O casă de rugăciune pașnică din cartier, care deservește comunitatea musulmană locală.",
+                  "category": "landmark",
+                  "coords": [
+                        35.895604,
+                        31.971346
+                  ]
+            },
+            {
+                  "name": "Um Yahya Mosque",
+                  "text": "O moschee locală în inima cartierului Shmeisani, care oferă un spațiu pentru reflecție spirituală.",
+                  "category": "landmark",
+                  "coords": [
+                        35.871482,
+                        31.964072
+                  ]
+            },
+            {
+                  "name": "Suhaib Bin Sinan",
+                  "text": "O moschee dedicată însoțitorului Profetului, care funcționează ca un centru religios important.",
+                  "category": "landmark",
+                  "coords": [
+                        35.866032,
+                        31.959732
+                  ]
+            },
+            {
+                  "name": "Cathedral of St. Ephrem",
+                  "text": "O catedrală ortodoxă siriacă ce servește ca centru spiritual pentru comunitatea creștină din Amman.",
+                  "category": "landmark",
+                  "coords": [
+                        35.867082,
+                        31.948374
+                  ]
+            },
+            {
+                  "name": "Al-Kalooti",
+                  "text": "O moschee binecunoscută în Amman, utilizată adesea pentru evenimente comunitare importante.",
+                  "category": "landmark",
+                  "coords": [
+                        35.87064,
+                        31.977579
+                  ]
+            },
+            {
+                  "name": "Masjed al-Kalouti",
+                  "text": "Un punct de reper religios semnificativ, cu o curte mare și arhitectură modernă.",
+                  "category": "landmark",
+                  "coords": [
+                        35.869405,
+                        31.98554
+                  ]
+            },
+            {
+                  "name": "Tabaa Mosque",
+                  "text": "O moschee de cartier liniștită, deschisă pentru rugăciunile zilnice ale credincioșilor din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        35.879298,
+                        31.986615
+                  ]
+            },
+            {
+                  "name": "Al Fayha",
+                  "text": "O moschee locală din Amman, cu minarete tradiționale, care deservește cartierul rezidențial.",
+                  "category": "landmark",
+                  "coords": [
+                        35.889814,
+                        31.971044
+                  ]
+            },
+            {
+                  "name": "Billal",
+                  "text": "O moschee simplă din Amman, care servește ca loc central pentru rugăciunile zilnice ale rezidenților.",
+                  "category": "landmark",
+                  "coords": [
+                        35.892308,
+                        31.974659
+                  ]
+            },
+            {
+                  "name": "West Amman Baptist Church",
+                  "text": "O biserică creștină de confesiune baptistă care oferă servicii religioase în vestul orașului Amman.",
+                  "category": "landmark",
+                  "coords": [
+                        35.878056,
+                        31.973621
+                  ]
+            },
+            {
+                  "name": "Abu A'esha Mosque",
+                  "text": "O moschee de cartier din Amman, caracterizată prin cupola sa proeminentă și stilul arhitectural islamic.",
+                  "category": "landmark",
+                  "coords": [
+                        35.858951,
+                        31.947936
+                  ]
+            },
+            {
+                  "name": "Ebad Al Rahman Mosque",
+                  "text": "Un lăcaș de cult musulman local din Amman, cunoscut pentru atmosfera sa liniștită și designul tradițional.",
+                  "category": "landmark",
+                  "coords": [
+                        35.870275,
+                        31.954666
+                  ]
+            },
+            {
+                  "name": "Panorama Amman Hotel , Almmawal rent a car, Ahwet Panorama",
+                  "text": "O locație pe deal ce oferă vederi largi asupra peisajului urban din Amman și a colinelor din jur.",
+                  "category": "religious",
+                  "coords": [
+                        35.867964,
+                        31.959733
+                  ]
+            },
+            {
+                  "name": "Virgin of Nasiriya Church",
+                  "text": "O biserică creștină din Amman dedicată Fecioarei Maria, care deservește comunitatea locală din Nasiriya.",
+                  "category": "landmark",
+                  "coords": [
+                        35.870841,
+                        31.951501
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fulbright Commission",
+                  "text": "An educational institution in Amman that facilitates international academic exchange.",
+                  "category": "landmark",
+                  "coords": [
+                        35.890594,
+                        31.968982
+                  ]
+            },
+            {
+                  "name": "Prince Hashem Bird Garden",
+                  "text": "A tranquil green park housing various species of exotic birds and ducks.",
+                  "category": "recreational",
+                  "coords": [
+                        35.892834,
+                        31.970771
+                  ]
+            },
+            {
+                  "name": "Younes",
+                  "text": "A local landmark located near the Haya Cultural Center in the Shmeisani district.",
+                  "category": "landmark",
+                  "coords": [
+                        35.871622,
+                        31.99016
+                  ]
+            },
+            {
+                  "name": "MOENV",
+                  "text": "A monumental building representing environmental protection efforts in the region.",
+                  "category": "historical",
+                  "coords": [
+                        35.894022,
+                        31.959852
+                  ]
+            },
+            {
+                  "name": "Rujm al Shumaysani",
+                  "text": "Ruins of an Iron Age watchtower that offer a panoramic view over modern Amman.",
+                  "category": "historical",
+                  "coords": [
+                        35.883333,
+                        31.966667
+                  ]
+            },
+            {
+                  "name": "Haya Cultural Center",
+                  "text": "A vibrant center for children featuring arts, music, and educational programs.",
+                  "category": "cultural",
+                  "coords": [
+                        35.896751,
+                        31.96645
+                  ]
+            },
+            {
+                  "name": "Prince Hassan Mosque",
+                  "text": "A modern mosque with a prominent minaret located not far from the bird garden.",
+                  "category": "landmark",
+                  "coords": [
+                        35.898145,
+                        31.962527
+                  ]
+            },
+            {
+                  "name": "Al Rawi",
+                  "text": "A peaceful neighborhood prayer house serving the local Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        35.895604,
+                        31.971346
+                  ]
+            },
+            {
+                  "name": "Um Yahya Mosque",
+                  "text": "A local mosque in the heart of Shmeisani providing a space for spiritual reflection.",
+                  "category": "landmark",
+                  "coords": [
+                        35.871482,
+                        31.964072
+                  ]
+            },
+            {
+                  "name": "Suhaib Bin Sinan",
+                  "text": "A mosque dedicated to the companion of the Prophet, serving as an important religious center.",
+                  "category": "landmark",
+                  "coords": [
+                        35.866032,
+                        31.959732
+                  ]
+            },
+            {
+                  "name": "Cathedral of St. Ephrem",
+                  "text": "A Syriac Orthodox cathedral serving as a spiritual center for Amman's Christian community.",
+                  "category": "landmark",
+                  "coords": [
+                        35.867082,
+                        31.948374
+                  ]
+            },
+            {
+                  "name": "Al-Kalooti",
+                  "text": "A well-known mosque in Amman often used for important community events.",
+                  "category": "landmark",
+                  "coords": [
+                        35.87064,
+                        31.977579
+                  ]
+            },
+            {
+                  "name": "Masjed al-Kalouti",
+                  "text": "A significant religious landmark featuring a large courtyard and modern architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        35.869405,
+                        31.98554
+                  ]
+            },
+            {
+                  "name": "Tabaa Mosque",
+                  "text": "A quiet neighborhood mosque open for the daily prayers of the nearby faithful.",
+                  "category": "landmark",
+                  "coords": [
+                        35.879298,
+                        31.986615
+                  ]
+            },
+            {
+                  "name": "Al Fayha",
+                  "text": "A local mosque in Amman featuring traditional minarets and serving the residential neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        35.889814,
+                        31.971044
+                  ]
+            },
+            {
+                  "name": "Billal",
+                  "text": "A simple mosque in Amman serving as a central location for the daily prayers of local residents.",
+                  "category": "landmark",
+                  "coords": [
+                        35.892308,
+                        31.974659
+                  ]
+            },
+            {
+                  "name": "West Amman Baptist Church",
+                  "text": "A Christian church of the Baptist denomination offering religious services in western Amman.",
+                  "category": "landmark",
+                  "coords": [
+                        35.878056,
+                        31.973621
+                  ]
+            },
+            {
+                  "name": "Abu A'esha Mosque",
+                  "text": "A neighborhood mosque in Amman characterized by its prominent dome and Islamic architectural style.",
+                  "category": "landmark",
+                  "coords": [
+                        35.858951,
+                        31.947936
+                  ]
+            },
+            {
+                  "name": "Ebad Al Rahman Mosque",
+                  "text": "A local Muslim place of worship in Amman known for its quiet atmosphere and traditional design.",
+                  "category": "landmark",
+                  "coords": [
+                        35.870275,
+                        31.954666
+                  ]
+            },
+            {
+                  "name": "Panorama Amman Hotel , Almmawal rent a car, Ahwet Panorama",
+                  "text": "A hilltop location offering wide views of the Amman cityscape and surrounding hills.",
+                  "category": "religious",
+                  "coords": [
+                        35.867964,
+                        31.959733
+                  ]
+            },
+            {
+                  "name": "Virgin of Nasiriya Church",
+                  "text": "A Christian church in Amman dedicated to the Virgin Mary, serving the local Nasiriya community.",
+                  "category": "landmark",
+                  "coords": [
+                        35.870841,
+                        31.951501
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "JO-AM",
     coords: [35.895, 31.966],
@@ -399,7 +4746,232 @@ export const poiExtraJordanLifeV2: POI[] = [
     },
   },
   {
-    id: "haya-cultural-center-life-v2",
+    id: "haya-cultural-center-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khirbet Yajouz archaeological site",
+                  "text": "Diese byzantinische Ausgrabungsstätte zeigt die Ruinen von Kirchen, Weinpressen und Gräbern aus dem 5. Jahrhundert.",
+                  "category": "historical",
+                  "coords": [
+                        35.914987,
+                        32.036177
+                  ]
+            },
+            {
+                  "name": "Al Shams Theater",
+                  "text": "Ein unabhängiges Kulturzentrum und Theater, das für seine zeitgenössischen Stücke und Kunstaufführungen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        35.907276,
+                        31.969247
+                  ]
+            },
+            {
+                  "name": "The Boulevard's Corner",
+                  "text": "Ein Kunstraum im modernen Viertel Al-Abdali, in dem zeitgenössische Werke lokaler Künstler ausgestellt werden.",
+                  "category": "museum",
+                  "coords": [
+                        35.903647,
+                        31.964935
+                  ]
+            },
+            {
+                  "name": "Al Qaaqaa Ben Omeir mosque",
+                  "text": "Eine Moschee mit moderner Steinarchitektur im Geschäftsviertel von Amman.",
+                  "category": "landmark",
+                  "coords": [
+                        35.891671,
+                        31.998896
+                  ]
+            },
+            {
+                  "name": "HOSPITAL MOSQUE",
+                  "text": "Ein kleiner Gebetsraum, der speziell für die Bedürfnisse von Patienten und Besuchern des Krankenhauses eingerichtet wurde.",
+                  "category": "religious",
+                  "coords": [
+                        35.918446,
+                        32.000043
+                  ]
+            },
+            {
+                  "name": "Baptist Church Dahiet alrasheed",
+                  "text": "Eine christliche Kirche im Viertel Dahiet al-Rasheed, die durch ihr schlichtes Kreuz an der Fassade erkennbar ist.",
+                  "category": "religious",
+                  "coords": [
+                        35.887406,
+                        32.001356
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khirbet Yajouz archaeological site",
+                  "text": "Ez a bizánci régészeti lelőhely 5. századi templomok, szőlőprések és sírok romjait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        35.914987,
+                        32.036177
+                  ]
+            },
+            {
+                  "name": "Al Shams Theater",
+                  "text": "Független kulturális központ és színház, amely kortárs darabjairól és művészeti előadásairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        35.907276,
+                        31.969247
+                  ]
+            },
+            {
+                  "name": "The Boulevard's Corner",
+                  "text": "Művészeti tér a modern Al-Abdali negyedben, ahol helyi művészek kortárs alkotásait állítják ki.",
+                  "category": "museum",
+                  "coords": [
+                        35.903647,
+                        31.964935
+                  ]
+            },
+            {
+                  "name": "Al Qaaqaa Ben Omeir mosque",
+                  "text": "Modern kőépítészetű mecset Amman üzleti negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.891671,
+                        31.998896
+                  ]
+            },
+            {
+                  "name": "HOSPITAL MOSQUE",
+                  "text": "Kisméretű imaterem, amelyet kifejezetten a kórház betegei és látogatói számára alakítottak ki.",
+                  "category": "religious",
+                  "coords": [
+                        35.918446,
+                        32.000043
+                  ]
+            },
+            {
+                  "name": "Baptist Church Dahiet alrasheed",
+                  "text": "Keresztény templom a Dahiet al-Rasheed negyedben, homlokzatán egyszerű kereszttel.",
+                  "category": "religious",
+                  "coords": [
+                        35.887406,
+                        32.001356
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khirbet Yajouz archaeological site",
+                  "text": "Acest sit arheologic bizantin prezintă ruinele unor biserici, prese de vin și morminte din secolul al V-lea.",
+                  "category": "historical",
+                  "coords": [
+                        35.914987,
+                        32.036177
+                  ]
+            },
+            {
+                  "name": "Al Shams Theater",
+                  "text": "Un centru cultural și teatru independent, cunoscut pentru piesele sale contemporane și spectacolele de artă.",
+                  "category": "cultural",
+                  "coords": [
+                        35.907276,
+                        31.969247
+                  ]
+            },
+            {
+                  "name": "The Boulevard's Corner",
+                  "text": "Un spațiu de artă în cartierul modern Al-Abdali, unde sunt expuse lucrări contemporane ale artiștilor locali.",
+                  "category": "museum",
+                  "coords": [
+                        35.903647,
+                        31.964935
+                  ]
+            },
+            {
+                  "name": "Al Qaaqaa Ben Omeir mosque",
+                  "text": "O moschee cu arhitectură modernă din piatră situată în districtul de afaceri al Ammanului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.891671,
+                        31.998896
+                  ]
+            },
+            {
+                  "name": "HOSPITAL MOSQUE",
+                  "text": "O mică sală de rugăciune amenajată special pentru nevoile pacienților și vizitatorilor spitalului.",
+                  "category": "religious",
+                  "coords": [
+                        35.918446,
+                        32.000043
+                  ]
+            },
+            {
+                  "name": "Baptist Church Dahiet alrasheed",
+                  "text": "O biserică creștină în cartierul Dahiet al-Rasheed, recunoscută după crucea simplă de pe fațadă.",
+                  "category": "religious",
+                  "coords": [
+                        35.887406,
+                        32.001356
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khirbet Yajouz archaeological site",
+                  "text": "This Byzantine archaeological site features the ruins of 5th-century churches, wine presses, and tombs.",
+                  "category": "historical",
+                  "coords": [
+                        35.914987,
+                        32.036177
+                  ]
+            },
+            {
+                  "name": "Al Shams Theater",
+                  "text": "An independent cultural center and theater known for its contemporary plays and artistic performances.",
+                  "category": "cultural",
+                  "coords": [
+                        35.907276,
+                        31.969247
+                  ]
+            },
+            {
+                  "name": "The Boulevard's Corner",
+                  "text": "An art space in the modern Al-Abdali district, showcasing contemporary works by local artists.",
+                  "category": "museum",
+                  "coords": [
+                        35.903647,
+                        31.964935
+                  ]
+            },
+            {
+                  "name": "Al Qaaqaa Ben Omeir mosque",
+                  "text": "A mosque featuring modern stone architecture located in Amman's business district.",
+                  "category": "landmark",
+                  "coords": [
+                        35.891671,
+                        31.998896
+                  ]
+            },
+            {
+                  "name": "HOSPITAL MOSQUE",
+                  "text": "A small prayer room established specifically for the needs of hospital patients and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        35.918446,
+                        32.000043
+                  ]
+            },
+            {
+                  "name": "Baptist Church Dahiet alrasheed",
+                  "text": "A Christian church in the Dahiet al-Rasheed neighborhood, recognizable by the simple cross on its facade.",
+                  "category": "religious",
+                  "coords": [
+                        35.887406,
+                        32.001356
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "JO-AM",
     coords: [35.901, 31.968],
@@ -435,7 +5007,160 @@ export const poiExtraJordanLifeV2: POI[] = [
     },
   },
   {
-    id: "sharhabil-bin-hassneh-ecopark-life-v2",
+    id: "sharhabil-bin-hassneh-ecopark-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khirbat Sharhabil",
+                  "text": "Diese archäologische Stätte im Jordantal zeigt Mauerreste und Fundamente einer ehemaligen Siedlung.",
+                  "category": "historical",
+                  "coords": [
+                        35.583333,
+                        32.4
+                  ]
+            },
+            {
+                  "name": "Khirbat Dayr Halawah",
+                  "text": "Ruinen einer historischen Anlage auf einer Anhöhe, die ehemals den Zugang zum Tal überwachte.",
+                  "category": "historical",
+                  "coords": [
+                        35.666667,
+                        32.4
+                  ]
+            },
+            {
+                  "name": "Khirbat Butmat Sinan",
+                  "text": "Verstreute Steinruinen einer antiken Siedlung, die inmitten der trockenen Landschaft des Ghor-Gebiets liegen.",
+                  "category": "historical",
+                  "coords": [
+                        35.65,
+                        32.4
+                  ]
+            },
+            {
+                  "name": "Khirbat Miryamin",
+                  "text": "Eine archäologische Ausgrabungsstätte, an der Reste von Behausungen aus vergangenen Jahrhunderten sichtbar sind.",
+                  "category": "historical",
+                  "coords": [
+                        35.633333,
+                        32.433333
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khirbat Sharhabil",
+                  "text": "Ez a Jordán-völgyi régészeti lelőhely egy egykori település falfalmaradványait és alapjait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        35.583333,
+                        32.4
+                  ]
+            },
+            {
+                  "name": "Khirbat Dayr Halawah",
+                  "text": "Egy történelmi építmény romjai egy magaslaton, amely egykor a völgybe való bejutást ellenőrizte.",
+                  "category": "historical",
+                  "coords": [
+                        35.666667,
+                        32.4
+                  ]
+            },
+            {
+                  "name": "Khirbat Butmat Sinan",
+                  "text": "Egy ókori település szétszórt kőromjai a Ghor-vidék száraz tájai között.",
+                  "category": "historical",
+                  "coords": [
+                        35.65,
+                        32.4
+                  ]
+            },
+            {
+                  "name": "Khirbat Miryamin",
+                  "text": "Régészeti feltárási helyszín, ahol az elmúlt évszázadok lakóházainak maradványai láthatók.",
+                  "category": "historical",
+                  "coords": [
+                        35.633333,
+                        32.433333
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khirbat Sharhabil",
+                  "text": "Acest sit arheologic din Valea Iordanului prezintă resturi de ziduri și fundații ale unei foste așezări.",
+                  "category": "historical",
+                  "coords": [
+                        35.583333,
+                        32.4
+                  ]
+            },
+            {
+                  "name": "Khirbat Dayr Halawah",
+                  "text": "Ruinele unei structuri istorice pe o înălțime, care în trecut supraveghea accesul în vale.",
+                  "category": "historical",
+                  "coords": [
+                        35.666667,
+                        32.4
+                  ]
+            },
+            {
+                  "name": "Khirbat Butmat Sinan",
+                  "text": "Ruine de piatră împrăștiate ale unei așezări antice, situate în mijlocul peisajului arid al regiunii Ghor.",
+                  "category": "historical",
+                  "coords": [
+                        35.65,
+                        32.4
+                  ]
+            },
+            {
+                  "name": "Khirbat Miryamin",
+                  "text": "Un sit de excavații arheologice unde sunt vizibile resturi de locuințe din secolele trecute.",
+                  "category": "historical",
+                  "coords": [
+                        35.633333,
+                        32.433333
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khirbat Sharhabil",
+                  "text": "This archaeological site in the Jordan Valley displays wall remains and foundations of a former settlement.",
+                  "category": "historical",
+                  "coords": [
+                        35.583333,
+                        32.4
+                  ]
+            },
+            {
+                  "name": "Khirbat Dayr Halawah",
+                  "text": "Ruins of a historical complex on a hill that formerly monitored access to the valley.",
+                  "category": "historical",
+                  "coords": [
+                        35.666667,
+                        32.4
+                  ]
+            },
+            {
+                  "name": "Khirbat Butmat Sinan",
+                  "text": "Scattered stone ruins of an ancient settlement located amidst the arid landscape of the Ghor area.",
+                  "category": "historical",
+                  "coords": [
+                        35.65,
+                        32.4
+                  ]
+            },
+            {
+                  "name": "Khirbat Miryamin",
+                  "text": "An archaeological excavation site where remains of dwellings from past centuries are visible.",
+                  "category": "historical",
+                  "coords": [
+                        35.633333,
+                        32.433333
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "JO-IR",
     coords: [35.608, 32.441],
@@ -471,7 +5196,52 @@ export const poiExtraJordanLifeV2: POI[] = [
     },
   },
   {
-    id: "ghor-al-safi-tomato-farms-life-v2",
+    id: "ghor-al-safi-tomato-farms-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lot's Cave",
+                  "text": "Eine archäologische Stätte mit einem byzantinischen Kloster, das um eine Höhle errichtet wurde, in der Lot Zuflucht suchte.",
+                  "category": "landmark",
+                  "coords": [
+                        35.502805,
+                        31.046804
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lot's Cave",
+                  "text": "Régészeti lelőhely egy bizánci kolostorral, amelyet aköré a barlang köré építettek, ahol a bibliai Lót keresett menedéket.",
+                  "category": "landmark",
+                  "coords": [
+                        35.502805,
+                        31.046804
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lot's Cave",
+                  "text": "Un sit arheologic cu o mănăstire bizantină construită în jurul unei peșteri unde s-ar fi refugiat Lot.",
+                  "category": "landmark",
+                  "coords": [
+                        35.502805,
+                        31.046804
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lot's Cave",
+                  "text": "An archaeological site featuring a Byzantine monastery built around a cave where the biblical Lot sought refuge.",
+                  "category": "landmark",
+                  "coords": [
+                        35.502805,
+                        31.046804
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "JO-KA",
     coords: [35.485, 31.036],
@@ -507,7 +5277,340 @@ export const poiExtraJordanLifeV2: POI[] = [
     },
   },
   {
-    id: "aqaba-marine-park-life-v2",
+    id: "aqaba-marine-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Underwater military museum",
+                  "text": "Ein faszinierender Tauchplatz in Akaba mit versenkten Panzern, einem Schützenpanzer und einem Hubschrauber in geringer Tiefe.",
+                  "category": "landmark",
+                  "coords": [
+                        34.967101,
+                        29.44647
+                  ]
+            },
+            {
+                  "name": "Plane wreck",
+                  "text": "Das Wrack einer C-130 Hercules, das absichtlich als künstliches Riff versenkt wurde und heute viele Fische und Taucher anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        34.97162,
+                        29.418063
+                  ]
+            },
+            {
+                  "name": "Rainbow reef",
+                  "text": "Ein farbenfroher Korallengarten, der für seine enorme Vielfalt an Riffischen und die leuchtenden Regenbogenfarben der Korallen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        34.973785,
+                        29.432524
+                  ]
+            },
+            {
+                  "name": "Berenice Beach Club",
+                  "text": "Ein exklusiver Strandclub mit mehreren Pools und privatem Zugang zu den besten Schnorchelplätzen am Roten Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        34.974329,
+                        29.435018
+                  ]
+            },
+            {
+                  "name": "König-Abdullah-Riff",
+                  "text": "Ein nach dem iordanischen König benanntes Riff, das für seine großen Fächerkorallen und die reiche Meeresfauna berühmt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        34.968544,
+                        29.439767
+                  ]
+            },
+            {
+                  "name": "Cedar Pride Shipwreck",
+                  "text": "Ein 74 Meter langes libanesisches Frachtschiff, das 1985 versenkt wurde und heute eines der berühmtesten Wracks für Taucher ist.",
+                  "category": "landmark",
+                  "coords": [
+                        34.973161,
+                        29.431066
+                  ]
+            },
+            {
+                  "name": "Aqaba marine park",
+                  "text": "Ein geschütztes Meeresgebiet entlang der Küste von Akaba, das die empfindlichen Korallenriffe und die Artenvielfalt des Golfs bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        34.969699,
+                        29.426867
+                  ]
+            },
+            {
+                  "name": "Südstrand von Akaba",
+                  "text": "Ein beliebter öffentlicher Strand in Akaba mit flachem Wasser und Korallenriffen, die direkt vom Ufer aus erreichbar sind.",
+                  "category": "recreational",
+                  "coords": [
+                        34.974681,
+                        29.421107
+                  ]
+            },
+            {
+                  "name": "mosque",
+                  "text": "Eine schlichte Moschee in der Nähe des Meeresparks, die Besuchern und Einheimischen einen ruhigen Ort zum Gebet bietet.",
+                  "category": "religious",
+                  "coords": [
+                        34.964687,
+                        29.358616
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Underwater military museum",
+                  "text": "Látványos merülőhely Akabában, ahol sekély vízben elsüllyesztett tankok, csapatszállító és egy helikopter látható.",
+                  "category": "landmark",
+                  "coords": [
+                        34.967101,
+                        29.44647
+                  ]
+            },
+            {
+                  "name": "Plane wreck",
+                  "text": "Egy C–130 Hercules roncsa, amelyet szándékosan süllyesztettek el mesterséges zátonyként, és ma rengeteg halat és búvárt vonz.",
+                  "category": "landmark",
+                  "coords": [
+                        34.97162,
+                        29.418063
+                  ]
+            },
+            {
+                  "name": "Rainbow reef",
+                  "text": "Színpompás korallkert, amely a zátonyhalak hatalmas választékáról és a korallok ragyogó szivárványszíneiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        34.973785,
+                        29.432524
+                  ]
+            },
+            {
+                  "name": "Berenice Beach Club",
+                  "text": "Exkluzív strandklub több medencével és privát bejárattal a Vörös-tenger legjobb sznorkelező helyeihez.",
+                  "category": "recreational",
+                  "coords": [
+                        34.974329,
+                        29.435018
+                  ]
+            },
+            {
+                  "name": "King abdullah reef",
+                  "text": "A jordán királyról elnevezett zátony, amely hatalmas legyezőkoralljairól és gazdag tengeri élővilágáról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        34.968544,
+                        29.439767
+                  ]
+            },
+            {
+                  "name": "Cedar Pride Shipwreck",
+                  "text": "Egy 74 méteres libanoni teherhajó, amelyet 1985-ben süllyesztettek el, és ma az egyik leghíresebb roncs a búvárok körében.",
+                  "category": "landmark",
+                  "coords": [
+                        34.973161,
+                        29.431066
+                  ]
+            },
+            {
+                  "name": "Aqaba marine park",
+                  "text": "Védett tengeri terület Akaba partjainál, amely az öböl kényes korallzátonyait és biológiai sokféleségét őrzi.",
+                  "category": "natural",
+                  "coords": [
+                        34.969699,
+                        29.426867
+                  ]
+            },
+            {
+                  "name": "Aqaba South Beach",
+                  "text": "Népszerű akabai szabadstrand sekély vízzel és közvetlenül a partról elérhető korallzátonyokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        34.974681,
+                        29.421107
+                  ]
+            },
+            {
+                  "name": "mosque",
+                  "text": "Egyszerű mecset a tengeri park közelében, amely csendes helyet kínál az imádkozáshoz a látogatóknak és a helyieknek.",
+                  "category": "religious",
+                  "coords": [
+                        34.964687,
+                        29.358616
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Underwater military museum",
+                  "text": "Un sit de scufundări fascinant în Aqaba, cu tancuri scufundate, un transportor blindat și un elicopter la adâncime mică.",
+                  "category": "landmark",
+                  "coords": [
+                        34.967101,
+                        29.44647
+                  ]
+            },
+            {
+                  "name": "Plane wreck",
+                  "text": "Epava unui avion C-130 Hercules, scufundată intenționat ca recif artificial, care atrage acum mulți pești și scafandri.",
+                  "category": "landmark",
+                  "coords": [
+                        34.97162,
+                        29.418063
+                  ]
+            },
+            {
+                  "name": "Rainbow reef",
+                  "text": "O grădină de corali colorată, cunoscută pentru diversitatea enormă de pești de recif și culorile strălucitoare ale coralilor.",
+                  "category": "landmark",
+                  "coords": [
+                        34.973785,
+                        29.432524
+                  ]
+            },
+            {
+                  "name": "Berenice Beach Club",
+                  "text": "Un club de plajă exclusivist, cu mai multe piscine și acces privat la cele mai bune locuri de snorkeling de la Marea Roșie.",
+                  "category": "recreational",
+                  "coords": [
+                        34.974329,
+                        29.435018
+                  ]
+            },
+            {
+                  "name": "King abdullah reef",
+                  "text": "Un recif numit după regele iordanian, faimos pentru corali evantai mari și fauna marină bogată.",
+                  "category": "landmark",
+                  "coords": [
+                        34.968544,
+                        29.439767
+                  ]
+            },
+            {
+                  "name": "Cedar Pride Shipwreck",
+                  "text": "O navă de marfă libaneză de 74 de metri, scufundată în 1985, care este astăzi una dintre cele mai faimoase epave pentru scafandri.",
+                  "category": "landmark",
+                  "coords": [
+                        34.973161,
+                        29.431066
+                  ]
+            },
+            {
+                  "name": "Aqaba marine park",
+                  "text": "O zonă marină protejată de-a lungul coastei Aqaba, care conservă recifele de corali delicate și biodiversitatea golfului.",
+                  "category": "natural",
+                  "coords": [
+                        34.969699,
+                        29.426867
+                  ]
+            },
+            {
+                  "name": "Aqaba South Beach",
+                  "text": "O plajă publică populară în Aqaba, cu ape puțin adânci și recife de corali accesibile direct de pe țărm.",
+                  "category": "recreational",
+                  "coords": [
+                        34.974681,
+                        29.421107
+                  ]
+            },
+            {
+                  "name": "mosque",
+                  "text": "O moschee simplă lângă parcul marin, care oferă vizitatorilor și localnicilor un loc liniștit pentru rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        34.964687,
+                        29.358616
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Underwater military museum",
+                  "text": "A fascinating dive site in Aqaba featuring sunken tanks, an armored personnel carrier, and a helicopter in shallow waters.",
+                  "category": "landmark",
+                  "coords": [
+                        34.967101,
+                        29.44647
+                  ]
+            },
+            {
+                  "name": "Plane wreck",
+                  "text": "The wreck of a C-130 Hercules aircraft, purposefully sunken as an artificial reef, now attracting many fish and divers.",
+                  "category": "landmark",
+                  "coords": [
+                        34.97162,
+                        29.418063
+                  ]
+            },
+            {
+                  "name": "Rainbow reef",
+                  "text": "A vibrant coral garden known for its enormous variety of reef fish and the bright, rainbow-like colors of its corals.",
+                  "category": "landmark",
+                  "coords": [
+                        34.973785,
+                        29.432524
+                  ]
+            },
+            {
+                  "name": "Berenice Beach Club",
+                  "text": "An exclusive beach club featuring multiple pools and private access to some of the Red Sea's best snorkeling spots.",
+                  "category": "recreational",
+                  "coords": [
+                        34.974329,
+                        29.435018
+                  ]
+            },
+            {
+                  "name": "King abdullah reef",
+                  "text": "A reef named after the Jordanian king, famous for its large fan corals and rich marine biodiversity.",
+                  "category": "landmark",
+                  "coords": [
+                        34.968544,
+                        29.439767
+                  ]
+            },
+            {
+                  "name": "Cedar Pride Shipwreck",
+                  "text": "A 74-meter Lebanese cargo ship scuttled in 1985, now serving as one of the most famous shipwrecks for divers.",
+                  "category": "landmark",
+                  "coords": [
+                        34.973161,
+                        29.431066
+                  ]
+            },
+            {
+                  "name": "Aqaba marine park",
+                  "text": "A protected marine area along the Aqaba coast, preserving the delicate coral reefs and biodiversity of the gulf.",
+                  "category": "natural",
+                  "coords": [
+                        34.969699,
+                        29.426867
+                  ]
+            },
+            {
+                  "name": "Aqaba South Beach",
+                  "text": "A popular public beach in Aqaba featuring shallow waters and coral reefs accessible directly from the shore.",
+                  "category": "recreational",
+                  "coords": [
+                        34.974681,
+                        29.421107
+                  ]
+            },
+            {
+                  "name": "mosque",
+                  "text": "A simple mosque near the marine park, providing a quiet place for prayer for visitors and locals alike.",
+                  "category": "religious",
+                  "coords": [
+                        34.964687,
+                        29.358616
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "JO-AQ",
     coords: [34.975, 29.431],
@@ -543,7 +5646,52 @@ export const poiExtraJordanLifeV2: POI[] = [
     },
   },
   {
-    id: "amman-waves-aqua-park-life-v2",
+    id: "amman-waves-aqua-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid Al Aodat",
+                  "text": "Ein islamisches Gotteshaus in günstiger Lage nahe dem Amman Waves Aqua Park.",
+                  "category": "landmark",
+                  "coords": [
+                        35.916437,
+                        31.85522
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid Al Aodat",
+                  "text": "Iszlám istentiszteleti hely, amely az Amman Waves Aqua Park közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        35.916437,
+                        31.85522
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid Al Aodat",
+                  "text": "Un lăcaș de cult islamic situat convenabil în apropiere de Amman Waves Aqua Park.",
+                  "category": "landmark",
+                  "coords": [
+                        35.916437,
+                        31.85522
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjid Al Aodat",
+                  "text": "An Islamic place of worship situated conveniently near the Amman Waves Aqua Park.",
+                  "category": "landmark",
+                  "coords": [
+                        35.916437,
+                        31.85522
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "JO-AM",
     coords: [35.915, 31.849],
@@ -579,7 +5727,448 @@ export const poiExtraJordanLifeV2: POI[] = [
     },
   },
   {
-    id: "wild-jordan-center-life-v2",
+    id: "wild-jordan-center-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Syrian Catholic Church of St. Joseph",
+                  "text": "Diese elegante Kirche besticht durch traditionelles jordanisches Mauerwerk und dient der örtlichen syrisch-katholischen Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        35.919,
+                        31.951965
+                  ]
+            },
+            {
+                  "name": "Rainbow Art House Theatre",
+                  "text": "Ein ikonisches Boutique-Kino und Kulturort an der berühmten und historischen Rainbow Street in Amman.",
+                  "category": "cultural",
+                  "coords": [
+                        35.928108,
+                        31.951214
+                  ]
+            },
+            {
+                  "name": "Nabad",
+                  "text": "Eine Galerie für zeitgenössische Kunst in einem wunderschön erhaltenen Wohngebäude aus den 1930er Jahren.",
+                  "category": "museum",
+                  "coords": [
+                        35.929992,
+                        31.951392
+                  ]
+            },
+            {
+                  "name": "Darat al Funun",
+                  "text": "Ein bedeutendes Kunstzentrum in historischen Villen, umgeben von alten byzantinischen Kirchenruinen.",
+                  "category": "cultural",
+                  "coords": [
+                        35.930024,
+                        31.953991
+                  ]
+            },
+            {
+                  "name": "Paris Circle",
+                  "text": "Ein belebter öffentlicher Platz im Künstlerviertel Lweibdeh, bekannt für seine Architektur im europäischen Stil und Cafés.",
+                  "category": "landmark",
+                  "coords": [
+                        35.927946,
+                        31.955736
+                  ]
+            },
+            {
+                  "name": "Gallery Hodroj",
+                  "text": "Eine lokale Kunstgalerie in Amman, die zeitgenössische Werke und jordanisches Kunsthandwerk ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        35.924292,
+                        31.956419
+                  ]
+            },
+            {
+                  "name": "signs of Amman",
+                  "text": "Ein Museum, das sich der visuellen Geschichte und der Typografie der Straßenschilder von Amman widmet.",
+                  "category": "museum",
+                  "coords": [
+                        35.932158,
+                        31.952724
+                  ]
+            },
+            {
+                  "name": "Villa Abu Al Huda",
+                  "text": "Eine historische Villa, die heute als eleganter Raum für Kunstausstellungen und Kulturveranstaltungen dient.",
+                  "category": "museum",
+                  "coords": [
+                        35.931848,
+                        31.951017
+                  ]
+            },
+            {
+                  "name": "Adventist church",
+                  "text": "Eine christliche Kirche der Siebenten-Tags-Adventisten in der Nähe des Stadtzentrums von Amman.",
+                  "category": "landmark",
+                  "coords": [
+                        35.927166,
+                        31.949121
+                  ]
+            },
+            {
+                  "name": "Abu Sham Mosque",
+                  "text": "Eine lokale Moschee im Viertel Jabal Amman, die für die Anwohner nahe der Rainbow Street von Bedeutung ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.922898,
+                        31.952223
+                  ]
+            },
+            {
+                  "name": "Church of Our Lady of Annunciation",
+                  "text": "Eine christliche Kirche in Amman, die der Verkündigung an die Jungfrau Maria gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.924574,
+                        31.955237
+                  ]
+            },
+            {
+                  "name": "Souk Jara",
+                  "text": "Ein lebhafter Flohmarkt im Freien, der im Sommer freitags in der Rainbow Street stattfindet.",
+                  "category": "cultural",
+                  "coords": [
+                        35.930321,
+                        31.949389
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Syrian Catholic Church of St. Joseph",
+                  "text": "Ez az elegáns templom hagyományos jordániai kőmunkákkal rendelkezik, és a helyi szír katolikus közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.919,
+                        31.951965
+                  ]
+            },
+            {
+                  "name": "Rainbow Art House Theatre",
+                  "text": "Ikonikus butikmozi és kulturális helyszín Amman híres és történelmi Rainbow utcájában.",
+                  "category": "cultural",
+                  "coords": [
+                        35.928108,
+                        31.951214
+                  ]
+            },
+            {
+                  "name": "Nabad",
+                  "text": "Kortárs művészeti galéria egy gyönyörűen megőrzött, 1930-as évekbeli lakóépületben.",
+                  "category": "museum",
+                  "coords": [
+                        35.929992,
+                        31.951392
+                  ]
+            },
+            {
+                  "name": "Darat al Funun",
+                  "text": "Jelentős művészeti központ történelmi villákban, ókori bizánci templomromokkal körülvéve.",
+                  "category": "cultural",
+                  "coords": [
+                        35.930024,
+                        31.953991
+                  ]
+            },
+            {
+                  "name": "Paris Circle",
+                  "text": "Élénk nyilvános tér a művészi Lweibdeh negyedben, amely európai stílusú építészetéről és kávézóiról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.927946,
+                        31.955736
+                  ]
+            },
+            {
+                  "name": "Gallery Hodroj",
+                  "text": "Helyi művészeti galéria Ammanban, amely kortárs műveket és jordániai kézműves termékeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        35.924292,
+                        31.956419
+                  ]
+            },
+            {
+                  "name": "signs of Amman",
+                  "text": "Múzeum, amely Amman utcatábláinak vizuális történetének és tipográfiájának szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        35.932158,
+                        31.952724
+                  ]
+            },
+            {
+                  "name": "Villa Abu Al Huda",
+                  "text": "Történelmi villa, amely ma elegáns helyszínként szolgál művészeti kiállítások és kulturális események számára.",
+                  "category": "museum",
+                  "coords": [
+                        35.931848,
+                        31.951017
+                  ]
+            },
+            {
+                  "name": "Adventist church",
+                  "text": "A Hetednapi Adventista Egyház keresztény temploma Amman városközpontjának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.927166,
+                        31.949121
+                  ]
+            },
+            {
+                  "name": "Abu Sham Mosque",
+                  "text": "Helyi mecset Jabal Amman negyedben, amely a Rainbow Street közelében lakók számára fontos.",
+                  "category": "landmark",
+                  "coords": [
+                        35.922898,
+                        31.952223
+                  ]
+            },
+            {
+                  "name": "Church of Our Lady of Annunciation",
+                  "text": "Keresztény templom Ammanban, amelyet Szűz Mária müv Angyali üdvözletének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        35.924574,
+                        31.955237
+                  ]
+            },
+            {
+                  "name": "Souk Jara",
+                  "text": "Nyüzsgő szabadtéri bolhapiac, amelyet nyáron péntekenként tartanak a Rainbow Streeten.",
+                  "category": "cultural",
+                  "coords": [
+                        35.930321,
+                        31.949389
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Syrian Catholic Church of St. Joseph",
+                  "text": "Această biserică elegantă prezintă zidărie tradițională iordaniană și deservește comunitatea locală greco-catolică siriană.",
+                  "category": "landmark",
+                  "coords": [
+                        35.919,
+                        31.951965
+                  ]
+            },
+            {
+                  "name": "Rainbow Art House Theatre",
+                  "text": "Un cinematograf boutique iconic și un spațiu cultural situat pe faimoasa și istorica stradă Rainbow din Amman.",
+                  "category": "cultural",
+                  "coords": [
+                        35.928108,
+                        31.951214
+                  ]
+            },
+            {
+                  "name": "Nabad",
+                  "text": "O galerie de artă contemporană găzduită într-o clădire rezidențială din anii 1930, conservată frumos.",
+                  "category": "museum",
+                  "coords": [
+                        35.929992,
+                        31.951392
+                  ]
+            },
+            {
+                  "name": "Darat al Funun",
+                  "text": "Un centru de artă major situat în vile istorice și înconjurat de ruinele unei vechi biserici bizantine.",
+                  "category": "cultural",
+                  "coords": [
+                        35.930024,
+                        31.953991
+                  ]
+            },
+            {
+                  "name": "Paris Circle",
+                  "text": "O piață publică plină de viață în cartierul artistic Lweibdeh, cunoscută pentru arhitectura sa în stil european și cafenele.",
+                  "category": "landmark",
+                  "coords": [
+                        35.927946,
+                        31.955736
+                  ]
+            },
+            {
+                  "name": "Gallery Hodroj",
+                  "text": "O galerie de artă locală din Amman, care expune lucrări contemporane și obiecte de meșteșugărit iordanian.",
+                  "category": "museum",
+                  "coords": [
+                        35.924292,
+                        31.956419
+                  ]
+            },
+            {
+                  "name": "signs of Amman",
+                  "text": "Un muzeu dedicat istoriei vizuale și tipografiei semnelor stradale din Amman.",
+                  "category": "museum",
+                  "coords": [
+                        35.932158,
+                        31.952724
+                  ]
+            },
+            {
+                  "name": "Villa Abu Al Huda",
+                  "text": "O vilă istorică ce servește astăzi ca spațiu elegant pentru expoziții de artă și evenimente culturale.",
+                  "category": "museum",
+                  "coords": [
+                        35.931848,
+                        31.951017
+                  ]
+            },
+            {
+                  "name": "Adventist church",
+                  "text": "O biserică creștină adventistă de ziua a șaptea, situată în apropierea centrului orașului Amman.",
+                  "category": "landmark",
+                  "coords": [
+                        35.927166,
+                        31.949121
+                  ]
+            },
+            {
+                  "name": "Abu Sham Mosque",
+                  "text": "O moschee locală din cartierul Jabal Amman, importantă pentru rezidenții de lângă Rainbow Street.",
+                  "category": "landmark",
+                  "coords": [
+                        35.922898,
+                        31.952223
+                  ]
+            },
+            {
+                  "name": "Church of Our Lady of Annunciation",
+                  "text": "O biserică creștină din Amman, dedicată Bunei Vestiri a Fecioarei Maria.",
+                  "category": "landmark",
+                  "coords": [
+                        35.924574,
+                        31.955237
+                  ]
+            },
+            {
+                  "name": "Souk Jara",
+                  "text": "O piață de vechituri în aer liber plină de viață, organizată în zilele de vineri pe timpul verii pe Rainbow Street.",
+                  "category": "cultural",
+                  "coords": [
+                        35.930321,
+                        31.949389
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Syrian Catholic Church of St. Joseph",
+                  "text": "This elegant church features traditional Jordanian stonework and serves the local Syrian Catholic community.",
+                  "category": "landmark",
+                  "coords": [
+                        35.919,
+                        31.951965
+                  ]
+            },
+            {
+                  "name": "Rainbow Art House Theatre",
+                  "text": "An iconic boutique cinema and cultural venue located on Amman's famous and historic Rainbow Street.",
+                  "category": "cultural",
+                  "coords": [
+                        35.928108,
+                        31.951214
+                  ]
+            },
+            {
+                  "name": "Nabad",
+                  "text": "A contemporary art gallery housed in a beautifully preserved 1930s residential building.",
+                  "category": "museum",
+                  "coords": [
+                        35.929992,
+                        31.951392
+                  ]
+            },
+            {
+                  "name": "Darat al Funun",
+                  "text": "A major arts center set within historic villas and surrounded by ancient Byzantine church ruins.",
+                  "category": "cultural",
+                  "coords": [
+                        35.930024,
+                        31.953991
+                  ]
+            },
+            {
+                  "name": "Paris Circle",
+                  "text": "A lively public square in the artistic Lweibdeh district, known for its European-style architecture and cafes.",
+                  "category": "landmark",
+                  "coords": [
+                        35.927946,
+                        31.955736
+                  ]
+            },
+            {
+                  "name": "Gallery Hodroj",
+                  "text": "A local art gallery in Amman exhibiting contemporary works and Jordanian handicrafts.",
+                  "category": "museum",
+                  "coords": [
+                        35.924292,
+                        31.956419
+                  ]
+            },
+            {
+                  "name": "signs of Amman",
+                  "text": "A museum dedicated to the visual history and typography of Amman's street signs.",
+                  "category": "museum",
+                  "coords": [
+                        35.932158,
+                        31.952724
+                  ]
+            },
+            {
+                  "name": "Villa Abu Al Huda",
+                  "text": "A historic villa that now serves as an elegant space for art exhibitions and cultural events.",
+                  "category": "museum",
+                  "coords": [
+                        35.931848,
+                        31.951017
+                  ]
+            },
+            {
+                  "name": "Adventist church",
+                  "text": "A Seventh-day Adventist Christian church located near Amman's city center.",
+                  "category": "landmark",
+                  "coords": [
+                        35.927166,
+                        31.949121
+                  ]
+            },
+            {
+                  "name": "Abu Sham Mosque",
+                  "text": "A local mosque in the Jabal Amman neighborhood serving residents near Rainbow Street.",
+                  "category": "landmark",
+                  "coords": [
+                        35.922898,
+                        31.952223
+                  ]
+            },
+            {
+                  "name": "Church of Our Lady of Annunciation",
+                  "text": "A Christian church in Amman dedicated to the Annunciation of the Virgin Mary.",
+                  "category": "landmark",
+                  "coords": [
+                        35.924574,
+                        31.955237
+                  ]
+            },
+            {
+                  "name": "Souk Jara",
+                  "text": "A vibrant outdoor flea market held on Rainbow Street during summer Fridays.",
+                  "category": "cultural",
+                  "coords": [
+                        35.930321,
+                        31.949389
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "JO-AM",
     coords: [35.931, 31.951],
@@ -615,7 +6204,52 @@ export const poiExtraJordanLifeV2: POI[] = [
     },
   },
   {
-    id: "jordan-valley-date-palms-life-v2",
+    id: "jordan-valley-date-palms-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tall al Gharabah",
+                  "text": "Ein archäologischer Hügel im Jordantal, der von ausgedehnten Dattelpalmenhainen umgeben ist.",
+                  "category": "historical",
+                  "coords": [
+                        35.566667,
+                        31.9
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tall al Gharabah",
+                  "text": "Régészeti domb a Jordán-völgyében, amelyet kiterjedt datolyapálma-ültetvények vesznek körül.",
+                  "category": "historical",
+                  "coords": [
+                        35.566667,
+                        31.9
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tall al Gharabah",
+                  "text": "Un dâmb arheologic în Valea Iordanului, înconjurat de plantații întinse de curmali.",
+                  "category": "historical",
+                  "coords": [
+                        35.566667,
+                        31.9
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tall al Gharabah",
+                  "text": "An archaeological mound in the Jordan Valley surrounded by extensive date palm groves.",
+                  "category": "historical",
+                  "coords": [
+                        35.566667,
+                        31.9
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "JO-BA",
     coords: [35.568, 31.921],
@@ -651,7 +6285,124 @@ export const poiExtraJordanLifeV2: POI[] = [
     },
   },
   {
-    id: "al-azraq-desert-agriculture-life-v2",
+    id: "al-azraq-desert-agriculture-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Geoglyph Old Dwelling",
+                  "text": "Antike kreisförmige Steinstruktur, Teil der aus der Luft sichtbaren „Werke der alten Männer“.",
+                  "category": "historical",
+                  "coords": [
+                        36.789079,
+                        31.905958
+                  ]
+            },
+            {
+                  "name": "Qasr Al-Azraq",
+                  "text": "Wüstenfestung aus schwarzem Basalt, die T.E. Lawrence 1917 als Hauptquartier diente.",
+                  "category": "historical",
+                  "coords": [
+                        36.827256,
+                        31.880176
+                  ]
+            },
+            {
+                  "name": "Azraq oasis",
+                  "text": "Diese Wüstenoase umfasst einzigartige Schlammflächen und ist ein wichtiger Rastplatz für Zugvögel.",
+                  "category": "landmark",
+                  "coords": [
+                        36.830053,
+                        31.879031
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Geoglyph Old Dwelling",
+                  "text": "Ősi kör alakú kőszerkezet, a sivatagban látható „Öregek művei” nevű alakzatok része.",
+                  "category": "historical",
+                  "coords": [
+                        36.789079,
+                        31.905958
+                  ]
+            },
+            {
+                  "name": "Qasr Al-Azraq",
+                  "text": "Fekete bazaltból épült sivatagi erőd, amely 1917-ben T. E. Lawrence főhadiszállásaként szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        36.827256,
+                        31.880176
+                  ]
+            },
+            {
+                  "name": "Azraq oasis",
+                  "text": "Ez a sivatagi oázis különleges mocsaras területeivel a vándormadarak egyik legfontosabb pihenőhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        36.830053,
+                        31.879031
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Geoglyph Old Dwelling",
+                  "text": "Structură circulară antică din piatră, parte a „Lucrărilor Oamenilor Vechi” vizibile din aer în deșert.",
+                  "category": "historical",
+                  "coords": [
+                        36.789079,
+                        31.905958
+                  ]
+            },
+            {
+                  "name": "Qasr Al-Azraq",
+                  "text": "Fortăreață din bazalt negru în deșert care a servit drept sediu pentru T.E. Lawrence în 1917.",
+                  "category": "historical",
+                  "coords": [
+                        36.827256,
+                        31.880176
+                  ]
+            },
+            {
+                  "name": "Azraq oasis",
+                  "text": "Această oază de deșert cuprinde zone mlăștinoase unice și este un popas vital pentru păsările migratoare.",
+                  "category": "landmark",
+                  "coords": [
+                        36.830053,
+                        31.879031
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Geoglyph Old Dwelling",
+                  "text": "Ancient circular stone structure, part of the 'Works of the Old Men' visible in the desert.",
+                  "category": "historical",
+                  "coords": [
+                        36.789079,
+                        31.905958
+                  ]
+            },
+            {
+                  "name": "Qasr Al-Azraq",
+                  "text": "Black basalt desert fortress that served as the headquarters for T.E. Lawrence in 1917.",
+                  "category": "historical",
+                  "coords": [
+                        36.827256,
+                        31.880176
+                  ]
+            },
+            {
+                  "name": "Azraq oasis",
+                  "text": "This desert oasis features unique mudflats and is a vital stop for migratory birds.",
+                  "category": "landmark",
+                  "coords": [
+                        36.830053,
+                        31.879031
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "JO-AZ",
     coords: [36.828, 31.879],
@@ -687,7 +6438,304 @@ export const poiExtraJordanLifeV2: POI[] = [
     },
   },
   {
-    id: "wadi-bin-hammad-nature-life-v2",
+    id: "wadi-bin-hammad-nature-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khirbat al Zuqeiba",
+                  "text": "Ruinen einer antiken Höhensiedlung mit Steinmauern über dem Wadi Bin Hammad.",
+                  "category": "historical",
+                  "coords": [
+                        35.725056,
+                        31.309668
+                  ]
+            },
+            {
+                  "name": "Al Fityan",
+                  "text": "Überreste eines römischen Castellums zur Sicherung der Wüstengrenze und Überwachung der Region.",
+                  "category": "historical",
+                  "coords": [
+                        35.85,
+                        31.25
+                  ]
+            },
+            {
+                  "name": "Hujfe",
+                  "text": "Stätte antiker Steinruinen, die über das Hochwüstenplateau von Jordanien verstreut sind.",
+                  "category": "historical",
+                  "coords": [
+                        35.766667,
+                        31.216667
+                  ]
+            },
+            {
+                  "name": "Zarraa",
+                  "text": "Archäologische Überreste einer historischen Siedlung in den Hügeln über dem Toten Meer.",
+                  "category": "historical",
+                  "coords": [
+                        35.767396,
+                        31.233919
+                  ]
+            },
+            {
+                  "name": "Um Kariya",
+                  "text": "Ehemalige landwirtschaftliche Siedlung mit antikem Mauerwerk und terrassierten Überresten.",
+                  "category": "historical",
+                  "coords": [
+                        35.766667,
+                        31.25
+                  ]
+            },
+            {
+                  "name": "Khirbat Um Rummanah",
+                  "text": "Ruinen eines kleinen antiken Dorfes mit Fundamenten und in den Fels gehauenen Zisternen.",
+                  "category": "historical",
+                  "coords": [
+                        35.696111,
+                        31.236944
+                  ]
+            },
+            {
+                  "name": "Hudeib",
+                  "text": "Archäologische Stätte in der Wüste mit Steinfundamenten einer frühen Hirten-Siedlung.",
+                  "category": "historical",
+                  "coords": [
+                        35.666667,
+                        31.266667
+                  ]
+            },
+            {
+                  "name": "ar-Rabba",
+                  "text": "Antikes Areopolis, wo Säulen römischer Tempel im modernen Stadtzentrum sichtbar sind.",
+                  "category": "historical",
+                  "coords": [
+                        35.737517,
+                        31.270391
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khirbat al Zuqeiba",
+                  "text": "Egy ősi hegyi település kőfalmaradványai a Wadi Bin Hammad felett.",
+                  "category": "historical",
+                  "coords": [
+                        35.725056,
+                        31.309668
+                  ]
+            },
+            {
+                  "name": "Al Fityan",
+                  "text": "Egy római castellum maradványai, amelyet a sivatagi határ őrzésére és a térség ellenőrzésére terveztek.",
+                  "category": "historical",
+                  "coords": [
+                        35.85,
+                        31.25
+                  ]
+            },
+            {
+                  "name": "Hujfe",
+                  "text": "Ősi kőromok helyszíne Jordánia magas sivatagi fennsíkján.",
+                  "category": "historical",
+                  "coords": [
+                        35.766667,
+                        31.216667
+                  ]
+            },
+            {
+                  "name": "Zarraa",
+                  "text": "Egy történelmi település régészeti maradványai a Holt-tenger feletti dombokon.",
+                  "category": "historical",
+                  "coords": [
+                        35.767396,
+                        31.233919
+                  ]
+            },
+            {
+                  "name": "Um Kariya",
+                  "text": "Egykori mezőgazdasági település ősi kőfalakkal és teraszos maradványokkal.",
+                  "category": "historical",
+                  "coords": [
+                        35.766667,
+                        31.25
+                  ]
+            },
+            {
+                  "name": "Khirbat Um Rummanah",
+                  "text": "Egy kis ősi falu romjai alapfalakkal és sziklába vájt ciszternákkal.",
+                  "category": "historical",
+                  "coords": [
+                        35.696111,
+                        31.236944
+                  ]
+            },
+            {
+                  "name": "Hudeib",
+                  "text": "Sivatagi régészeti lelőhely egy korai pásztortelepülés kőalapjaival.",
+                  "category": "historical",
+                  "coords": [
+                        35.666667,
+                        31.266667
+                  ]
+            },
+            {
+                  "name": "ar-Rabba",
+                  "text": "Az ősi Areopolis, ahol római templomoszlopok és építészeti töredékek láthatók a modern városban.",
+                  "category": "historical",
+                  "coords": [
+                        35.737517,
+                        31.270391
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khirbat al Zuqeiba",
+                  "text": "Ruinele unei vechi așezări pe deal, cu ziduri de piatră care domină Wadi Bin Hammad.",
+                  "category": "historical",
+                  "coords": [
+                        35.725056,
+                        31.309668
+                  ]
+            },
+            {
+                  "name": "Al Fityan",
+                  "text": "Rămășițele unui castellum roman proiectat pentru a păzi frontiera deșertului și a monitoriza regiunea.",
+                  "category": "historical",
+                  "coords": [
+                        35.85,
+                        31.25
+                  ]
+            },
+            {
+                  "name": "Hujfe",
+                  "text": "Sit de ruine antice de piatră împrăștiate pe platoul deșertic înalt al Iordaniei.",
+                  "category": "historical",
+                  "coords": [
+                        35.766667,
+                        31.216667
+                  ]
+            },
+            {
+                  "name": "Zarraa",
+                  "text": "Rămășițe arheologice ale unei așezări istorice situate în dealurile de deasupra Mării Moarte.",
+                  "category": "historical",
+                  "coords": [
+                        35.767396,
+                        31.233919
+                  ]
+            },
+            {
+                  "name": "Um Kariya",
+                  "text": "Fostă așezare agricolă cu zidărie antică din piatră și rămășițe de terase.",
+                  "category": "historical",
+                  "coords": [
+                        35.766667,
+                        31.25
+                  ]
+            },
+            {
+                  "name": "Khirbat Um Rummanah",
+                  "text": "Ruinele unui mic sat antic cu fundații și cisterne săpate în stâncă.",
+                  "category": "historical",
+                  "coords": [
+                        35.696111,
+                        31.236944
+                  ]
+            },
+            {
+                  "name": "Hudeib",
+                  "text": "Sit arheologic în deșert care conține fundațiile de piatră ale unei așezări pastorale timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        35.666667,
+                        31.266667
+                  ]
+            },
+            {
+                  "name": "ar-Rabba",
+                  "text": "Vechiul Areopolis, unde coloanele templelor romane și fragmentele arhitecturale sunt vizibile în orașul modern.",
+                  "category": "historical",
+                  "coords": [
+                        35.737517,
+                        31.270391
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khirbat al Zuqeiba",
+                  "text": "Ruins of an ancient hilltop settlement with stone walls overlooking the Wadi Bin Hammad.",
+                  "category": "historical",
+                  "coords": [
+                        35.725056,
+                        31.309668
+                  ]
+            },
+            {
+                  "name": "Al Fityan",
+                  "text": "Remains of a Roman castellum designed to guard the desert frontier and monitor local movement.",
+                  "category": "historical",
+                  "coords": [
+                        35.85,
+                        31.25
+                  ]
+            },
+            {
+                  "name": "Hujfe",
+                  "text": "Site of ancient stone ruins scattered across the high desert plateau of Jordan.",
+                  "category": "historical",
+                  "coords": [
+                        35.766667,
+                        31.216667
+                  ]
+            },
+            {
+                  "name": "Zarraa",
+                  "text": "Archaeological remains of a historic settlement located in the hills above the Dead Sea.",
+                  "category": "historical",
+                  "coords": [
+                        35.767396,
+                        31.233919
+                  ]
+            },
+            {
+                  "name": "Um Kariya",
+                  "text": "Former agricultural settlement featuring ancient stone masonry and terraced remains.",
+                  "category": "historical",
+                  "coords": [
+                        35.766667,
+                        31.25
+                  ]
+            },
+            {
+                  "name": "Khirbat Um Rummanah",
+                  "text": "Ruins of a small ancient village with foundations and cisterns carved into the rock.",
+                  "category": "historical",
+                  "coords": [
+                        35.696111,
+                        31.236944
+                  ]
+            },
+            {
+                  "name": "Hudeib",
+                  "text": "Desert archaeological site containing the stone foundations of an early pastoral settlement.",
+                  "category": "historical",
+                  "coords": [
+                        35.666667,
+                        31.266667
+                  ]
+            },
+            {
+                  "name": "ar-Rabba",
+                  "text": "Ancient Areopolis, where Roman temple columns and architectural fragments are visible in the modern town.",
+                  "category": "historical",
+                  "coords": [
+                        35.737517,
+                        31.270391
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "JO-KA",
     coords: [35.748, 31.246],

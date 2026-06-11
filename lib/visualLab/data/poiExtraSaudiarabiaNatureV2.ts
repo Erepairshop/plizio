@@ -3,7 +3,160 @@ import type { POI } from "./poi";
 
 export const poiExtraSaudiarabiaNatureV2: POI[] = [
   {
-    id: "jabal-sawda-nature-v2",
+    id: "jabal-sawda-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Start of the hiking trail 6,5 km",
+                  "text": "Der markierte Ausgangspunkt für eine Wanderung durch die kühlen Wacholderwälder des Asir-Gebirges.",
+                  "category": "historical",
+                  "coords": [
+                        42.328363,
+                        18.250347
+                  ]
+            },
+            {
+                  "name": "Jabal Sawda",
+                  "text": "Der höchste Gipfel Saudi-Arabiens, der oft in dichten Bergnebel gehüllt ist und weite Aussichten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        42.367559,
+                        18.265593
+                  ]
+            },
+            {
+                  "name": "The 1 km of hiking trail",
+                  "text": "Eine Markierung entlang des Panoramawegs, der über die bewaldeten Kämme des Sawda-Hochlands führt.",
+                  "category": "historical",
+                  "coords": [
+                        42.361012,
+                        18.283115
+                  ]
+            },
+            {
+                  "name": "Beautiful rocks",
+                  "text": "Aussichtspunkt auf markanten Felsformationen mit steilem Blick hinab auf die Tihama-Küstenebene.",
+                  "category": "natural",
+                  "coords": [
+                        42.373053,
+                        18.257322
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Start of the hiking trail 6,5 km",
+                  "text": "Az Aszir-hegység hűvös borókaerdőin átvezető túraútvonal kijelölt kezdőpontja.",
+                  "category": "historical",
+                  "coords": [
+                        42.328363,
+                        18.250347
+                  ]
+            },
+            {
+                  "name": "Jabal Sawda",
+                  "text": "Szaúd-Arábia legmagasabb csúcsa, amelyet gyakran sűrű hegyi köd borít, és messzi kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        42.367559,
+                        18.265593
+                  ]
+            },
+            {
+                  "name": "The 1 km of hiking trail",
+                  "text": "Jelzés a panorámaút mentén, amely a Sawda-felföld erdős gerincein vezet keresztül.",
+                  "category": "historical",
+                  "coords": [
+                        42.361012,
+                        18.283115
+                  ]
+            },
+            {
+                  "name": "Beautiful rocks",
+                  "text": "Kilátópont jellegzetes sziklaalakzatokon, ahonnan meredek kilátás nyílik a Tihama-partvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        42.373053,
+                        18.257322
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Start of the hiking trail 6,5 km",
+                  "text": "Punctul de plecare marcat pentru o drumeție prin pădurile răcoroase de ienupăr din Munții Asir.",
+                  "category": "historical",
+                  "coords": [
+                        42.328363,
+                        18.250347
+                  ]
+            },
+            {
+                  "name": "Jabal Sawda",
+                  "text": "Cel mai înalt vârf din Arabia Saudită, adesea învăluit în ceață densă de munte, oferind vederi spectaculoase.",
+                  "category": "natural",
+                  "coords": [
+                        42.367559,
+                        18.265593
+                  ]
+            },
+            {
+                  "name": "The 1 km of hiking trail",
+                  "text": "Un marcaj de-a lungul traseului panoramic care traversează crestele împădurite ale podișului Sawda.",
+                  "category": "historical",
+                  "coords": [
+                        42.361012,
+                        18.283115
+                  ]
+            },
+            {
+                  "name": "Beautiful rocks",
+                  "text": "Punct de observație pe formațiuni stâncoase proeminente, cu o vedere abruptă asupra câmpiei de coastă Tihama.",
+                  "category": "natural",
+                  "coords": [
+                        42.373053,
+                        18.257322
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Start of the hiking trail 6,5 km",
+                  "text": "The marked starting point for a trek through the cool juniper forests of the Asir Mountains.",
+                  "category": "historical",
+                  "coords": [
+                        42.328363,
+                        18.250347
+                  ]
+            },
+            {
+                  "name": "Jabal Sawda",
+                  "text": "The highest peak in Saudi Arabia, often shrouded in dense mountain mist and offering expansive views.",
+                  "category": "natural",
+                  "coords": [
+                        42.367559,
+                        18.265593
+                  ]
+            },
+            {
+                  "name": "The 1 km of hiking trail",
+                  "text": "A marker along the scenic path crossing the forested ridges of the Sawda highlands.",
+                  "category": "historical",
+                  "coords": [
+                        42.361012,
+                        18.283115
+                  ]
+            },
+            {
+                  "name": "Beautiful rocks",
+                  "text": "A viewpoint atop striking rock formations with a steep gaze down onto the Tihama coastal plain.",
+                  "category": "natural",
+                  "coords": [
+                        42.373053,
+                        18.257322
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SA-14",
     coords: [42.3670, 18.2670],
@@ -75,7 +228,88 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
     },
   },
   {
-    id: "wadi-hanifa-nature-v2",
+    id: "wadi-hanifa-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aliman mosque",
+                  "text": "Die Aliman Moschee dient als Ort der islamischen Einkehr nahe dem Flusstal Wadi Hanifa.",
+                  "category": "landmark",
+                  "coords": [
+                        46.732686,
+                        24.600156
+                  ]
+            },
+            {
+                  "name": "Junk Souq",
+                  "text": "Der Junk Souq am Rande des Wadi Hanifa ist ein belebter Marktplatz für gebrauchte Waren und Antiquitäten.",
+                  "category": "cultural",
+                  "coords": [
+                        46.731192,
+                        24.601235
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aliman mosque",
+                  "text": "Az Aliman Mecset az iszlám elmélkedés helyeként szolgál a Wadi Hanifa folyóvölgy közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        46.732686,
+                        24.600156
+                  ]
+            },
+            {
+                  "name": "Junk Souq",
+                  "text": "A Wadi Hanifa szélén található Junk Souq egy nyüzsgő piac, ahol használt cikkeket és régiségeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        46.731192,
+                        24.601235
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aliman mosque",
+                  "text": "Moscheea Aliman servește drept loc de reculegere islamică în apropierea văii râului Wadi Hanifa.",
+                  "category": "landmark",
+                  "coords": [
+                        46.732686,
+                        24.600156
+                  ]
+            },
+            {
+                  "name": "Junk Souq",
+                  "text": "Junk Souq, de la marginea Wadi Hanifa, este o piață plină de viață pentru bunuri la mâna a doua și antichități.",
+                  "category": "cultural",
+                  "coords": [
+                        46.731192,
+                        24.601235
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aliman mosque",
+                  "text": "Aliman Mosque serves as a place for Islamic reflection near the river valley of Wadi Hanifa.",
+                  "category": "landmark",
+                  "coords": [
+                        46.732686,
+                        24.600156
+                  ]
+            },
+            {
+                  "name": "Junk Souq",
+                  "text": "The Junk Souq on the edge of Wadi Hanifa is a bustling marketplace for second-hand goods and antiques.",
+                  "category": "cultural",
+                  "coords": [
+                        46.731192,
+                        24.601235
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "SA-01",
     coords: [46.7369, 24.5714],
@@ -111,7 +345,52 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
     },
   },
   {
-    id: "jabal-tuwaiq-nature-v2",
+    id: "jabal-tuwaiq-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abar al Bijadiyah",
+                  "text": "Eine Gruppe historischer Steinbrunnen, die einst für Karawanen im Tuwaiq-Gebirge lebensnotwendig waren.",
+                  "category": "historical",
+                  "coords": [
+                        46.233727,
+                        24.584308
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abar al Bijadiyah",
+                  "text": "Történelmi kőkutak csoportja, amelyek egykor létfontosságúak voltak a karavánok számára a Tuwaiq-hegységben.",
+                  "category": "historical",
+                  "coords": [
+                        46.233727,
+                        24.584308
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abar al Bijadiyah",
+                  "text": "Un grup de fântâni de piatră istorice, care odinioară erau vitale pentru caravanele din munții Tuwaiq.",
+                  "category": "historical",
+                  "coords": [
+                        46.233727,
+                        24.584308
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abar al Bijadiyah",
+                  "text": "A group of historical stone-lined wells that were once vital for caravans in the Tuwaiq mountains.",
+                  "category": "historical",
+                  "coords": [
+                        46.233727,
+                        24.584308
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SA-01",
     coords: [46.1950, 24.5880],
@@ -147,7 +426,124 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
     },
   },
   {
-    id: "al-asfar-lake-nature-v2",
+    id: "al-asfar-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "`Ayn Umm Hishah",
+                  "text": "Die Überreste einer alten Siedlung am Ufer des Al-Asfar-Sees zeugen von der langen Geschichte der Al-Ahsa-Oase.",
+                  "category": "historical",
+                  "coords": [
+                        49.79675,
+                        25.564612
+                  ]
+            },
+            {
+                  "name": "Qalib al Ghurabi",
+                  "text": "Historische Ruinenstätten in der Wüste, die einst Teil des komplexen Bewässerungssystems der Al-Asfar-Region waren.",
+                  "category": "historical",
+                  "coords": [
+                        49.704229,
+                        25.589495
+                  ]
+            },
+            {
+                  "name": "Jawatha mosque",
+                  "text": "Diese bedeutende historische Stätte gilt als eine der ältesten Moscheen in Ost-Arabien, ursprünglich im 7. Jahrhundert erbaut.",
+                  "category": "landmark",
+                  "coords": [
+                        49.678455,
+                        25.469794
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "`Ayn Umm Hishah",
+                  "text": "Egy ősi település maradványai az Al-Asfar-tó partján, amelyek az Al-Ahszá oázis hosszú történelméről tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        49.79675,
+                        25.564612
+                  ]
+            },
+            {
+                  "name": "Qalib al Ghurabi",
+                  "text": "Történelmi romterület a sivatagban, amely egykor az Al-Asfar régió összetett öntözőrendszerének része volt.",
+                  "category": "historical",
+                  "coords": [
+                        49.704229,
+                        25.589495
+                  ]
+            },
+            {
+                  "name": "Jawatha mosque",
+                  "text": "Ez a jelentős történelmi helyszín Kelet-Arábia egyik legrégebbi mecsetje, amelyet eredetileg a 7. században építettek.",
+                  "category": "landmark",
+                  "coords": [
+                        49.678455,
+                        25.469794
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "`Ayn Umm Hishah",
+                  "text": "Rămășițele unei vechi așezări pe malul lacului Al-Asfar, care atestă istoria lungă a oazei Al-Ahsa.",
+                  "category": "historical",
+                  "coords": [
+                        49.79675,
+                        25.564612
+                  ]
+            },
+            {
+                  "name": "Qalib al Ghurabi",
+                  "text": "Situl unor ruine istorice din deșert, care făceau parte cândva din complexul sistem de irigații al regiunii Al-Asfar.",
+                  "category": "historical",
+                  "coords": [
+                        49.704229,
+                        25.589495
+                  ]
+            },
+            {
+                  "name": "Jawatha mosque",
+                  "text": "Acest sit istoric important este considerat una dintre cele mai vechi moschei din estul Arabiei, construită inițial în secolul al VII-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        49.678455,
+                        25.469794
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "`Ayn Umm Hishah",
+                  "text": "The remains of an ancient settlement on the shores of Al-Asfar Lake, testifying to the long history of the Al-Ahsa oasis.",
+                  "category": "historical",
+                  "coords": [
+                        49.79675,
+                        25.564612
+                  ]
+            },
+            {
+                  "name": "Qalib al Ghurabi",
+                  "text": "Historic desert ruin sites that were once part of the complex irrigation system of the Al-Asfar region.",
+                  "category": "historical",
+                  "coords": [
+                        49.704229,
+                        25.589495
+                  ]
+            },
+            {
+                  "name": "Jawatha mosque",
+                  "text": "This significant historical site is considered one of the oldest mosques in eastern Arabia, originally built in the 7th century.",
+                  "category": "landmark",
+                  "coords": [
+                        49.678455,
+                        25.469794
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "SA-04",
     coords: [49.7180, 25.5180],
@@ -219,7 +615,124 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
     },
   },
   {
-    id: "jabal-al-lawz-nature-v2",
+    id: "jabal-al-lawz-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal al Lawz",
+                  "text": "Ein hoher Berg in Saudi-Arabien, der für seine archäologischen Stätten und gelegentlichen Schneefall bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        35.305229,
+                        28.654701
+                  ]
+            },
+            {
+                  "name": "Remains of 12 pillars",
+                  "text": "Archäologische Überreste von Steinsäulen am Fuße des Berges, die oft mit biblischen Berichten verbunden werden.",
+                  "category": "historical",
+                  "coords": [
+                        35.37844,
+                        28.584788
+                  ]
+            },
+            {
+                  "name": "Masyoun",
+                  "text": "Eine prähistorische archäologische Stätte, deren Ursprünge bis etwa 9000 v. Chr. zurückreichen.",
+                  "category": "landmark",
+                  "coords": [
+                        35.379549,
+                        28.631866
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal al Lawz",
+                  "text": "Egy magas hegy Szaúd-Arábiában, amely régészeti lelőhelyeiről és alkalmankénti havazásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        35.305229,
+                        28.654701
+                  ]
+            },
+            {
+                  "name": "Remains of 12 pillars",
+                  "text": "Kőoszlopok régészeti maradványai a hegy lábánál, amelyeket gyakran bibliai történetekkel hoznak összefüggésbe.",
+                  "category": "historical",
+                  "coords": [
+                        35.37844,
+                        28.584788
+                  ]
+            },
+            {
+                  "name": "Masyoun",
+                  "text": "Egy őskori régészeti lelőhely, amelynek eredete körülbelül i. e. 9000-ig nyúlik vissza.",
+                  "category": "landmark",
+                  "coords": [
+                        35.379549,
+                        28.631866
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal al Lawz",
+                  "text": "Un munte înalt din Arabia Saudită, cunoscut pentru siturile sale arheologice și căderile ocazionale de zăpadă.",
+                  "category": "natural",
+                  "coords": [
+                        35.305229,
+                        28.654701
+                  ]
+            },
+            {
+                  "name": "Remains of 12 pillars",
+                  "text": "Rămășițe arheologice ale unor coloane de piatră la baza muntelui, asociate adesea cu relatările biblice.",
+                  "category": "historical",
+                  "coords": [
+                        35.37844,
+                        28.584788
+                  ]
+            },
+            {
+                  "name": "Masyoun",
+                  "text": "Un sit arheologic preistoric ale cărui origini datează de aproximativ 9000 î.Hr.",
+                  "category": "landmark",
+                  "coords": [
+                        35.379549,
+                        28.631866
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal al Lawz",
+                  "text": "A high mountain in Saudi Arabia known for its archaeological sites and occasional snowfall.",
+                  "category": "natural",
+                  "coords": [
+                        35.305229,
+                        28.654701
+                  ]
+            },
+            {
+                  "name": "Remains of 12 pillars",
+                  "text": "Archaeological remains of stone pillars at the foot of the mountain, often linked to biblical accounts.",
+                  "category": "historical",
+                  "coords": [
+                        35.37844,
+                        28.584788
+                  ]
+            },
+            {
+                  "name": "Masyoun",
+                  "text": "A prehistoric archaeological site with origins dating back to approximately 9000 BCE.",
+                  "category": "landmark",
+                  "coords": [
+                        35.379549,
+                        28.631866
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SA-07",
     coords: [35.3130, 28.6536],
@@ -327,7 +840,124 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
     },
   },
   {
-    id: "al-kharrarah-nature-v2",
+    id: "al-kharrarah-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "MawridUmmalHartbil",
+                  "text": "Verlassene Ruinen einer Wasserstelle in der Sandwüste nahe der Al-Kharrarah-Ebene.",
+                  "category": "historical",
+                  "coords": [
+                        46.197831,
+                        24.41184
+                  ]
+            },
+            {
+                  "name": "Mawridal`Aql",
+                  "text": "Historische Überreste einer Wüstenquelle, die vom einstigen Leben in dieser trockenen Region zeugen.",
+                  "category": "historical",
+                  "coords": [
+                        46.214416,
+                        24.402014
+                  ]
+            },
+            {
+                  "name": "Bi'r al Qurayniyah",
+                  "text": "Ruinen eines alten Brunnens, der als seltener Orientierungspunkt in der weitläufigen Wüste dient.",
+                  "category": "historical",
+                  "coords": [
+                        46.10375,
+                        24.386758
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "MawridUmmalHartbil",
+                  "text": "Egy elhagyatott vízlelőhely romjai a homoksivatagban, az Al-Kharrarah-síkság közelében.",
+                  "category": "historical",
+                  "coords": [
+                        46.197831,
+                        24.41184
+                  ]
+            },
+            {
+                  "name": "Mawridal`Aql",
+                  "text": "Egy sivatagi forrás történelmi maradványai, amelyek a régió egykori életéről tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        46.214416,
+                        24.402014
+                  ]
+            },
+            {
+                  "name": "Bi'r al Qurayniyah",
+                  "text": "Egy régi kút romjai, amely ritka tájékozódási pontként szolgál a hatalmas sivatagban.",
+                  "category": "historical",
+                  "coords": [
+                        46.10375,
+                        24.386758
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "MawridUmmalHartbil",
+                  "text": "Ruinele părăsite ale unui punct de apă în deșertul de nisip de lângă câmpia Al-Kharrarah.",
+                  "category": "historical",
+                  "coords": [
+                        46.197831,
+                        24.41184
+                  ]
+            },
+            {
+                  "name": "Mawridal`Aql",
+                  "text": "Rămășițe istorice ale unui izvor de deșert, care atestă viața de odinioară din această regiune aridă.",
+                  "category": "historical",
+                  "coords": [
+                        46.214416,
+                        24.402014
+                  ]
+            },
+            {
+                  "name": "Bi'r al Qurayniyah",
+                  "text": "Ruinele unei fântâni vechi, care servesc drept punct de reper rar în deșertul vast.",
+                  "category": "historical",
+                  "coords": [
+                        46.10375,
+                        24.386758
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "MawridUmmalHartbil",
+                  "text": "Abandoned ruins of a watering hole in the sandy desert near the Al-Kharrarah plain.",
+                  "category": "historical",
+                  "coords": [
+                        46.197831,
+                        24.41184
+                  ]
+            },
+            {
+                  "name": "Mawridal`Aql",
+                  "text": "Historical remains of a desert spring that testify to former life in this arid region.",
+                  "category": "historical",
+                  "coords": [
+                        46.214416,
+                        24.402014
+                  ]
+            },
+            {
+                  "name": "Bi'r al Qurayniyah",
+                  "text": "Ruins of an ancient well that serve as a rare landmark in the vast desert expanse.",
+                  "category": "historical",
+                  "coords": [
+                        46.10375,
+                        24.386758
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "SA-01",
     coords: [46.1554, 24.3980],
@@ -363,7 +993,52 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
     },
   },
   {
-    id: "sharaan-nature-reserve-nature-v2",
+    id: "sharaan-nature-reserve-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sharaan Nature Reserve",
+                  "text": "Das Naturschutzgebiet Sharaan zeichnet sich durch markante rote Sandsteinschluchten aus und schützt die heimische Tierwelt der Region. Dieses Schutzgebiet ist für die Erhaltung von Arten wie dem Arabischen Steinbock und Leoparden von entscheidender Bedeutung.",
+                  "category": "natural",
+                  "coords": [
+                        38.209135,
+                        26.884236
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sharaan Nature Reserve",
+                  "text": "A Saraan Természetvédelmi Terület lenyűgöző vörös homokkő kanyonokkal rendelkezik, és a régió őshonos vadvilágát védi. Ez a védett terület kulcsfontosságú az olyan fajok megőrzésében, mint az arab kőszáli kecske és a leopárd.",
+                  "category": "natural",
+                  "coords": [
+                        38.209135,
+                        26.884236
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sharaan Nature Reserve",
+                  "text": "Rezervația naturală Sharaan prezintă canioane impresionante de gresie roșie și protejează fauna nativă a regiunii. Această arie protejată este crucială pentru conservarea unor specii precum ibexul arab și leopardul.",
+                  "category": "natural",
+                  "coords": [
+                        38.209135,
+                        26.884236
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sharaan Nature Reserve",
+                  "text": "The Sharaan Nature Reserve features striking red sandstone canyons and protects the native wildlife of the region. This protected area is crucial for the conservation of species like the Arabian ibex and leopard.",
+                  "category": "natural",
+                  "coords": [
+                        38.209135,
+                        26.884236
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "SA-03",
     coords: [38.2500, 26.8500],
@@ -435,7 +1110,52 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
     },
   },
   {
-    id: "jabal-daka-nature-v2",
+    id: "jabal-daka-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Dakah",
+                  "text": "Der höchste Gipfel im Ash Shafa-Gebirge, der weite Ausblicke über die zerklüftete Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        40.287306,
+                        21.093669
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Dakah",
+                  "text": "Az Ash Shafa-hegység legmagasabb csúcsa, amely tágas kilátást nyújt a sziklás tájra.",
+                  "category": "natural",
+                  "coords": [
+                        40.287306,
+                        21.093669
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Dakah",
+                  "text": "Cel mai înalt vârf din munții Ash Shafa, oferind vederi panoramice asupra peisajului accidentat.",
+                  "category": "natural",
+                  "coords": [
+                        40.287306,
+                        21.093669
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Dakah",
+                  "text": "The highest peak in the Ash Shafa range, offering expansive views over the rugged mountain landscape.",
+                  "category": "natural",
+                  "coords": [
+                        40.287306,
+                        21.093669
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SA-02",
     coords: [40.2483, 21.0505],
@@ -471,7 +1191,88 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
     },
   },
   {
-    id: "wadi-namar-nature-v2",
+    id: "wadi-namar-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Suwaidi Park",
+                  "text": "Ein öffentlicher Park in der Nähe des Wadi Namar mit angelegten Grünflächen und Spazierwegen zur Erholung.",
+                  "category": "park",
+                  "coords": [
+                        46.695046,
+                        24.596918
+                  ]
+            },
+            {
+                  "name": "A market",
+                  "text": "Ein belebter lokaler Marktplatz in der Nähe von Wadi Namar, auf dem Verkäufer verschiedene Waren des täglichen Bedarfs anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        46.620461,
+                        24.552576
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Suwaidi Park",
+                  "text": "Egy nyilvános park a Wadi Namar közelében, parkosított zöldterületekkel és rekreációs sétautakkal.",
+                  "category": "park",
+                  "coords": [
+                        46.695046,
+                        24.596918
+                  ]
+            },
+            {
+                  "name": "A market",
+                  "text": "Nyüzsgő helyi piac a Wadi Namar közelében, ahol az árusok különféle mindennapi cikkeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        46.620461,
+                        24.552576
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Suwaidi Park",
+                  "text": "Un parc public de lângă Wadi Namar, cu spații verzi amenajate și trasee de plimbare recreative.",
+                  "category": "park",
+                  "coords": [
+                        46.695046,
+                        24.596918
+                  ]
+            },
+            {
+                  "name": "A market",
+                  "text": "O piață locală plină de viață lângă Wadi Namar, unde vânzătorii se adună pentru a vinde diverse bunuri de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        46.620461,
+                        24.552576
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Suwaidi Park",
+                  "text": "A public park near Wadi Namar featuring landscaped green spaces and recreational walking paths.",
+                  "category": "park",
+                  "coords": [
+                        46.695046,
+                        24.596918
+                  ]
+            },
+            {
+                  "name": "A market",
+                  "text": "A bustling local marketplace near Wadi Namar where vendors gather to sell a variety of everyday goods.",
+                  "category": "cultural",
+                  "coords": [
+                        46.620461,
+                        24.552576
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "SA-01",
     coords: [46.6669, 24.5800],
@@ -507,7 +1308,52 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
     },
   },
   {
-    id: "raydah-escarpment-reserve-nature-v2",
+    id: "raydah-escarpment-reserve-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jurf Raydah Reserve",
+                  "text": "Das Schutzgebiet umfasst ein steiles Steilwandhabitat und bietet Zuflucht für seltene Flora des arabischen Hochlandes sowie endemische Vogelarten.",
+                  "category": "natural",
+                  "coords": [
+                        42.396212,
+                        18.197021
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jurf Raydah Reserve",
+                  "text": "A meredek sziklafalak élőhelyét védő menedékhely a ritka arab hegyvidéki flóra és endemikus madárfajok otthona.",
+                  "category": "natural",
+                  "coords": [
+                        42.396212,
+                        18.197021
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jurf Raydah Reserve",
+                  "text": "Protejând un habitat cu versanți abrupți, sanctuarul oferă refugiu pentru flora rară a zonelor înalte arabe și pentru speciile endemice de păsări.",
+                  "category": "natural",
+                  "coords": [
+                        42.396212,
+                        18.197021
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jurf Raydah Reserve",
+                  "text": "Protecting a sheer escarpment habitat, the sanctuary provides refuge for rare Arabian highlands flora and endemic bird species.",
+                  "category": "natural",
+                  "coords": [
+                        42.396212,
+                        18.197021
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "SA-14",
     coords: [42.4172, 18.2325],
@@ -543,7 +1389,52 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
     },
   },
   {
-    id: "jabal-shada-nature-v2",
+    id: "jabal-shada-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Shada al-A‘la Reserve",
+                  "text": "Ein geschütztes Naturschutzgebiet, das die schroffen Gipfel und die vielfältige Tierwelt des Shada-Berges umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        41.322901,
+                        19.840844
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Shada al-A‘la Reserve",
+                  "text": "Védett természetvédelmi terület, amely magában foglalja a Shada-hegy zord csúcsait és változatos vadvilágát.",
+                  "category": "natural",
+                  "coords": [
+                        41.322901,
+                        19.840844
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Shada al-A‘la Reserve",
+                  "text": "O rezervație naturală protejată care cuprinde vârfurile accidentate și viața sălbatică diversă a Muntelui Shada.",
+                  "category": "natural",
+                  "coords": [
+                        41.322901,
+                        19.840844
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Shada al-A‘la Reserve",
+                  "text": "A protected nature reserve encompassing the rugged peaks and diverse wildlife of the Shada Mountain.",
+                  "category": "natural",
+                  "coords": [
+                        41.322901,
+                        19.840844
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SA-11",
     coords: [41.3150, 19.7891],
@@ -687,7 +1578,52 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
     },
   },
   {
-    id: "jabal-qidr-nature-v2",
+    id: "jabal-qidr-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Qidr",
+                  "text": "Ein gewaltiger Vulkankegel mit tiefem Krater in den schwarzen Basalt-Lavafeldern von Harrat Khaybar.",
+                  "category": "landmark",
+                  "coords": [
+                        39.943348,
+                        25.71996
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Qidr",
+                  "text": "Hatalmas vulkáni kúp mély kráterrel Harrat Khaybar fekete bazalt lávamezői között.",
+                  "category": "landmark",
+                  "coords": [
+                        39.943348,
+                        25.71996
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Qidr",
+                  "text": "Un con vulcanic masiv cu un crater adânc, situat în câmpurile de lavă bazaltică neagră din Harrat Khaybar.",
+                  "category": "landmark",
+                  "coords": [
+                        39.943348,
+                        25.71996
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Qidr",
+                  "text": "A massive volcanic cone with a deep crater, situated in the black basalt lava fields of Harrat Khaybar.",
+                  "category": "landmark",
+                  "coords": [
+                        39.943348,
+                        25.71996
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SA-03",
     coords: [39.9575, 25.7175],

@@ -527,7 +527,7 @@ imageHint: "Lika plateau landscape Croatia",
             },
             {
                   "name": "Bršljanac",
-                  "text": "Eine archäologische Fundstätte in der Region Moslavačka gora.",
+                  "text": "Mittelalterliche Befestigung auf dem Moslavačka Gora.",
                   "category": "historical",
                   "coords": [
                         16.789204,
@@ -536,7 +536,7 @@ imageHint: "Lika plateau landscape Croatia",
             },
             {
                   "name": "Denkmal für die Revolution der Einwohner von Moslavina",
-                  "text": "Ein monumentales Denkmal in Kroatien, das der Revolution von Moslavina gewidmet ist.",
+                  "text": "Enthüllt am 7. September 1967, dieses monumentale Denkmal erinnert an die Revolution in Moslavina, Kroatien.",
                   "category": "historical",
                   "coords": [
                         16.777772,
@@ -554,7 +554,7 @@ imageHint: "Lika plateau landscape Croatia",
             },
             {
                   "name": "Manastir Bršljanac",
-                  "text": "Ein historisches Kloster in der Region der Moslavačka gora.",
+                  "text": "Ein historisches Kloster in den bewaldeten Hügeln von Moslavačka Gora.",
                   "category": "religious",
                   "coords": [
                         16.795859,
@@ -574,7 +574,7 @@ imageHint: "Lika plateau landscape Croatia",
             },
             {
                   "name": "Brestyanóc",
-                  "text": "Régészeti lelőhely a Moslavina-hegység régiójában.",
+                  "text": "Középkori erődítmény a Moslavačka Gorán.",
                   "category": "historical",
                   "coords": [
                         16.789204,
@@ -583,7 +583,7 @@ imageHint: "Lika plateau landscape Croatia",
             },
             {
                   "name": "Spomenik revolucije naroda Moslavine",
-                  "text": "Hatalmas emlékmű Horvátországban, amely a moslavinai forradalomnak állít emléket.",
+                  "text": "1967. szeptember 7-én avatták fel, ez a monumentális szobor a horvátországi Moslavina forradalmára emlékeztet.",
                   "category": "historical",
                   "coords": [
                         16.777772,
@@ -601,7 +601,7 @@ imageHint: "Lika plateau landscape Croatia",
             },
             {
                   "name": "Manastir Bršljanac",
-                  "text": "Történelmi kolostor a Moslavina-hegység régiójában.",
+                  "text": "Egy történelmi kolostor a Moslavačka Gora erdős dombjain.",
                   "category": "religious",
                   "coords": [
                         16.795859,
@@ -621,7 +621,7 @@ imageHint: "Lika plateau landscape Croatia",
             },
             {
                   "name": "Bršljanac",
-                  "text": "Un sit arheologic în regiunea Moslavačka gora.",
+                  "text": "Fortificație medievală pe Moslavačka Gora.",
                   "category": "historical",
                   "coords": [
                         16.789204,
@@ -630,7 +630,7 @@ imageHint: "Lika plateau landscape Croatia",
             },
             {
                   "name": "Spomenik revolucije naroda Moslavine",
-                  "text": "Un monument monumental în Croația, dedicat revoluției din Moslavina.",
+                  "text": "Dezvelit pe 7 septembrie 1967, acest monument sculptural comemorează revoluția din Moslavina, Croația.",
                   "category": "historical",
                   "coords": [
                         16.777772,
@@ -648,7 +648,7 @@ imageHint: "Lika plateau landscape Croatia",
             },
             {
                   "name": "Manastir Bršljanac",
-                  "text": "O mănăstire istorică în regiunea Moslavačka gora.",
+                  "text": "O mănăstire istorică în dealurile împădurite ale Moslavačka Gora.",
                   "category": "religious",
                   "coords": [
                         16.795859,
@@ -668,7 +668,7 @@ imageHint: "Lika plateau landscape Croatia",
             },
             {
                   "name": "Bršljanac",
-                  "text": "An archaeological site in the Moslavačka gora region.",
+                  "text": "Medieval fortification on Moslavačka Gora.",
                   "category": "historical",
                   "coords": [
                         16.789204,
@@ -677,7 +677,7 @@ imageHint: "Lika plateau landscape Croatia",
             },
             {
                   "name": "Monument to the Revolution of the people of Moslavina",
-                  "text": "A monumental landmark in Croatia dedicated to the Revolution of Moslavina.",
+                  "text": "Unveiled September 7, 1967, this monumental sculpture commemorates the revolution in Moslavina, Croatia.",
                   "category": "historical",
                   "coords": [
                         16.777772,
@@ -695,7 +695,7 @@ imageHint: "Lika plateau landscape Croatia",
             },
             {
                   "name": "Manastir Bršljanac",
-                  "text": "A historical monastery in the Moslavačka gora region.",
+                  "text": "A historic monastery in the wooded hills of Moslavačka Gora.",
                   "category": "religious",
                   "coords": [
                         16.795859,
@@ -1374,7 +1374,7 @@ imageHint: "Zumberak mountain range border",
             },
             {
                   "name": "Vuklec",
-                  "text": "Ein Berggipfel im Kalnik-Gebirge.",
+                  "text": "Ein Gipfel im Kalnik-Gebirge in Kroatien mit Aussicht über die Region.",
                   "category": "landmark",
                   "coords": [
                         16.47039,
@@ -1383,7 +1383,7 @@ imageHint: "Zumberak mountain range border",
             },
             {
                   "name": "Škrinja",
-                  "text": "Ein markanter Berggipfel des Kalnik-Massivs.",
+                  "text": "Ein Gipfel im Kalnik-Gebirge in Kroatien, bekannt für seine kistenförmige Felsformation.",
                   "category": "landmark",
                   "coords": [
                         16.50327,
@@ -1392,7 +1392,7 @@ imageHint: "Zumberak mountain range border",
             },
             {
                   "name": "Vranilac",
-                  "text": "Der höchste Gipfel des Kalnik-Gebirges.",
+                  "text": "Ein Gipfel im Kalnik-Gebirge in Kroatien mit einer mittelalterlichen Burgruine.",
                   "category": "landmark",
                   "coords": [
                         16.45467,
@@ -1419,7 +1419,7 @@ imageHint: "Zumberak mountain range border",
             },
             {
                   "name": "Rinkov",
-                  "text": "Historische Ruinen in der Umgebung von Kalnik.",
+                  "text": "Prähistorischer Ringwall auf dem Kalnik-Berg.",
                   "category": "historical",
                   "coords": [
                         16.513678,
@@ -1448,7 +1448,7 @@ imageHint: "Zumberak mountain range border",
             },
             {
                   "name": "Vuklec",
-                  "text": "Egy hegycsúcs a Kalnik-hegységben.",
+                  "text": "Egy csúcs a Kalnik-hegységben Horvátországban, kilátással a régióra.",
                   "category": "landmark",
                   "coords": [
                         16.47039,
@@ -1457,7 +1457,7 @@ imageHint: "Zumberak mountain range border",
             },
             {
                   "name": "Škrinja",
-                  "text": "A Kalnik-masszívum egyik jellegzetes hegycsúcsa.",
+                  "text": "Egy csúcs a Kalnik-hegységben Horvátországban, híres láda alakú sziklaformációjáról.",
                   "category": "landmark",
                   "coords": [
                         16.50327,
@@ -1466,7 +1466,7 @@ imageHint: "Zumberak mountain range border",
             },
             {
                   "name": "Vranilac",
-                  "text": "A Kalnik-hegység legmagasabb csúcsa.",
+                  "text": "Egy csúcs a Kalnik-hegységben Horvátországban, középkori várrommal.",
                   "category": "landmark",
                   "coords": [
                         16.45467,
@@ -1493,7 +1493,7 @@ imageHint: "Zumberak mountain range border",
             },
             {
                   "name": "Rinkov",
-                  "text": "Történelmi romok Kalnik környékén.",
+                  "text": "Őskori földvár a Kalnik-hegyen.",
                   "category": "historical",
                   "coords": [
                         16.513678,
@@ -1522,7 +1522,7 @@ imageHint: "Zumberak mountain range border",
             },
             {
                   "name": "Vuklec",
-                  "text": "Un vârf muntos în masivul Kalnik.",
+                  "text": "Un vârf în Munții Kalnik din Croația, oferind vedere asupra regiunii.",
                   "category": "landmark",
                   "coords": [
                         16.47039,
@@ -1531,7 +1531,7 @@ imageHint: "Zumberak mountain range border",
             },
             {
                   "name": "Škrinja",
-                  "text": "Un vârf muntos distinctiv în masivul Kalnik.",
+                  "text": "Un vârf în Munții Kalnik din Croația, cunoscut pentru formațiunea stâncoasă în formă de cutie.",
                   "category": "landmark",
                   "coords": [
                         16.50327,
@@ -1540,7 +1540,7 @@ imageHint: "Zumberak mountain range border",
             },
             {
                   "name": "Vranilac",
-                  "text": "Cel mai înalt vârf din munții Kalnik.",
+                  "text": "Un vârf în Munții Kalnik din Croația, cu ruinele unui castel medieval.",
                   "category": "landmark",
                   "coords": [
                         16.45467,
@@ -1567,7 +1567,7 @@ imageHint: "Zumberak mountain range border",
             },
             {
                   "name": "Rinkov",
-                  "text": "Ruine istorice în împrejurimile localității Kalnik.",
+                  "text": "Fortificație preistorică pe muntele Kalnik.",
                   "category": "historical",
                   "coords": [
                         16.513678,
@@ -1596,7 +1596,7 @@ imageHint: "Zumberak mountain range border",
             },
             {
                   "name": "Vuklec",
-                  "text": "A mountain peak in the Kalnik range.",
+                  "text": "A peak in the Kalnik mountain range in Croatia, offering views of the region.",
                   "category": "landmark",
                   "coords": [
                         16.47039,
@@ -1605,7 +1605,7 @@ imageHint: "Zumberak mountain range border",
             },
             {
                   "name": "Škrinja",
-                  "text": "A distinctive mountain peak of the Kalnik massif.",
+                  "text": "A summit in the Kalnik mountain range in Croatia, known for its chest-shaped rock formation.",
                   "category": "landmark",
                   "coords": [
                         16.50327,
@@ -1614,7 +1614,7 @@ imageHint: "Zumberak mountain range border",
             },
             {
                   "name": "Vranilac",
-                  "text": "The highest peak of the Kalnik mountain range.",
+                  "text": "A peak in the Kalnik mountain range in Croatia, with a medieval fort ruin.",
                   "category": "landmark",
                   "coords": [
                         16.45467,
@@ -1641,7 +1641,7 @@ imageHint: "Zumberak mountain range border",
             },
             {
                   "name": "Rinkov",
-                  "text": "Historic ruins located in the vicinity of Kalnik.",
+                  "text": "Prehistoric hillfort on Kalnik mountain.",
                   "category": "historical",
                   "coords": [
                         16.513678,
@@ -2752,7 +2752,7 @@ imageHint: "Tulove Grede rocky cliffs Velebit",
       "de": [
             {
                   "name": "Festung Sluin",
-                  "text": "Die Überreste einer alten Festungsanlage in der Nähe von Slunj, Kroatien.",
+                  "text": "Eine mittelalterliche Burgruine auf dem Slunjčica-Plateau oberhalb des Flusses Slunjčica.",
                   "category": "fortress",
                   "coords": [
                         15.587993,
@@ -2761,7 +2761,7 @@ imageHint: "Tulove Grede rocky cliffs Velebit",
             },
             {
                   "name": "Pliš",
-                  "text": "Ein Berggipfel auf dem Slunjčica-Plateau in Kroatien.",
+                  "text": "Eine natürliche Felsformation auf dem Slunjčica-Plateau.",
                   "category": "landmark",
                   "coords": [
                         15.562047,
@@ -2826,7 +2826,7 @@ imageHint: "Tulove Grede rocky cliffs Velebit",
       "hu": [
             {
                   "name": "Stari grad Slovin",
-                  "text": "Egy régi erődítmény maradványai a horvátországi Szluin (Slunj) közelében.",
+                  "text": "Egy középkori várrom a Slunjčica-fennsíkon, a Slunjčica folyó felett.",
                   "category": "fortress",
                   "coords": [
                         15.587993,
@@ -2835,7 +2835,7 @@ imageHint: "Tulove Grede rocky cliffs Velebit",
             },
             {
                   "name": "Pliš",
-                  "text": "Hegycsúcs a horvátországi Slunjčica-fennsíkon.",
+                  "text": "Egy természetes sziklaalakzat a Slunjčica-fennsíkon.",
                   "category": "landmark",
                   "coords": [
                         15.562047,
@@ -2900,7 +2900,7 @@ imageHint: "Tulove Grede rocky cliffs Velebit",
       "ro": [
             {
                   "name": "Stari grad Slovin",
-                  "text": "Rămășițele unei vechi fortificații de lângă Slunj, Croația.",
+                  "text": "O ruină de cetate medievală pe platoul Slunjčica, deasupra râului Slunjčica.",
                   "category": "fortress",
                   "coords": [
                         15.587993,
@@ -2909,7 +2909,7 @@ imageHint: "Tulove Grede rocky cliffs Velebit",
             },
             {
                   "name": "Pliš",
-                  "text": "Un vârf muntos de pe podișul Slunjčica din Croația.",
+                  "text": "O formațiune stâncoasă naturală pe platoul Slunjčica.",
                   "category": "landmark",
                   "coords": [
                         15.562047,
@@ -2974,7 +2974,7 @@ imageHint: "Tulove Grede rocky cliffs Velebit",
       "en": [
             {
                   "name": "Old Town of Slunj",
-                  "text": "The remains of an old fortification near Slunj, Croatia.",
+                  "text": "A medieval fortress ruin on the Slunjčica Plateau above the Slunjčica River.",
                   "category": "fortress",
                   "coords": [
                         15.587993,
@@ -2983,7 +2983,7 @@ imageHint: "Tulove Grede rocky cliffs Velebit",
             },
             {
                   "name": "Pliš",
-                  "text": "A mountain peak on the Slunjčica Plateau in Croatia.",
+                  "text": "A natural rock formation on the Slunjčica Plateau.",
                   "category": "landmark",
                   "coords": [
                         15.562047,
@@ -3238,7 +3238,7 @@ imageHint: "Tulove Grede rocky cliffs Velebit",
             },
             {
                   "name": "Crnobrnjsko brdo",
-                  "text": "Crnobrnjsko brdo ist ein markanter Gipfel in der Zrinska Gora.",
+                  "text": "Ein Hügel in der Bergkette Zrinska Gora.",
                   "category": "landmark",
                   "coords": [
                         16.439929,
@@ -3258,7 +3258,7 @@ imageHint: "Tulove Grede rocky cliffs Velebit",
             },
             {
                   "name": "Crnobrnjsko brdo",
-                  "text": "Crnobrnjsko brdo egy hegycsúcs a Zrinska Gora területén.",
+                  "text": "Egy domb a Zrinska Gora hegységben.",
                   "category": "landmark",
                   "coords": [
                         16.439929,
@@ -3278,7 +3278,7 @@ imageHint: "Tulove Grede rocky cliffs Velebit",
             },
             {
                   "name": "Crnobrnjsko brdo",
-                  "text": "Crnobrnjsko brdo este un vârf muntos situat în Zrinska Gora.",
+                  "text": "Un deal în lanțul montan Zrinska Gora.",
                   "category": "landmark",
                   "coords": [
                         16.439929,
@@ -3298,7 +3298,7 @@ imageHint: "Tulove Grede rocky cliffs Velebit",
             },
             {
                   "name": "Crnobrnjsko brdo",
-                  "text": "Crnobrnjsko brdo is a mountain peak in the Zrinska Gora area.",
+                  "text": "A hill in the Zrinska Gora mountain range.",
                   "category": "landmark",
                   "coords": [
                         16.439929,

@@ -505,7 +505,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Puente Antiguo Chixtún",
-                  "text": "Eine historische Brücke in San Pedro Carchá, Guatemala.",
+                  "text": "Historische Steinbrücke über den Chixtún-Fluss.",
                   "category": "historical",
                   "coords": [
                         -90.308832,
@@ -516,7 +516,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Puente Antiguo Chixtún",
-                  "text": "Történelmi híd San Pedro Carchá településen, Guatemalában.",
+                  "text": "Történelmi kőhíd a Chixtún folyón.",
                   "category": "historical",
                   "coords": [
                         -90.308832,
@@ -527,7 +527,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Puente Antiguo Chixtún",
-                  "text": "Un pod istoric situat în San Pedro Carchá, Guatemala.",
+                  "text": "Pod istoric de piatră peste râul Chixtún.",
                   "category": "historical",
                   "coords": [
                         -90.308832,
@@ -538,7 +538,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Puente Antiguo Chixtún",
-                  "text": "A historical bridge in San Pedro Carchá, Guatemala.",
+                  "text": "Historic stone bridge over the Chixtún River.",
                   "category": "historical",
                   "coords": [
                         -90.308832,
@@ -625,7 +625,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "EUPHORIA JAKAL",
-                  "text": "Ein Veranstaltungsort für darstellende Künste in Jacaltenango.",
+                  "text": "Kulturort mit traditionellen Jakaltek-Maya-Aufführungen.",
                   "category": "cultural",
                   "coords": [
                         -91.709986,
@@ -652,7 +652,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             },
             {
                   "name": "El Monumento",
-                  "text": "Ein lokales Denkmal zu Ehren der Geschichte von Jacaltenango.",
+                  "text": "Steinmonument auf dem Hauptplatz von Jacaltenango.",
                   "category": "historical",
                   "coords": [
                         -91.708313,
@@ -681,7 +681,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "EUPHORIA JAKAL",
-                  "text": "Előadó-művészeti helyszín Jacaltenango városában.",
+                  "text": "Kulturális helyszín hagyományos jakaltek maja előadásokkal.",
                   "category": "cultural",
                   "coords": [
                         -91.709986,
@@ -708,7 +708,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             },
             {
                   "name": "El Monumento",
-                  "text": "Helyi emlékmű Jacaltenango történelmének tiszteletére.",
+                  "text": "Kőemlékmű Jacaltenango főterén.",
                   "category": "historical",
                   "coords": [
                         -91.708313,
@@ -737,7 +737,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "EUPHORIA JAKAL",
-                  "text": "Un spațiu pentru artele spectacolului în Jacaltenango.",
+                  "text": "Locație culturală cu spectacole tradiționale mayașe jakaltek.",
                   "category": "cultural",
                   "coords": [
                         -91.709986,
@@ -764,7 +764,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             },
             {
                   "name": "El Monumento",
-                  "text": "Un monument local în cinstea istoriei orașului Jacaltenango.",
+                  "text": "Monument de piatră în piața principală din Jacaltenango.",
                   "category": "historical",
                   "coords": [
                         -91.708313,
@@ -793,7 +793,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "EUPHORIA JAKAL",
-                  "text": "A venue for performing arts in Jacaltenango.",
+                  "text": "Cultural venue hosting traditional Jakaltek Maya performances.",
                   "category": "cultural",
                   "coords": [
                         -91.709986,
@@ -820,7 +820,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             },
             {
                   "name": "El Monumento",
-                  "text": "A local monument honoring the history of Jacaltenango.",
+                  "text": "Stone monument on the main square of Jacaltenango.",
                   "category": "historical",
                   "coords": [
                         -91.708313,
@@ -1171,7 +1171,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Acueducto de Esquipulas",
-                  "text": "Historische Überreste eines alten Aquädukts in Esquipulas.",
+                  "text": "Kolonialzeitliches Aquädukt, das die Stadt früher mit Wasser versorgte.",
                   "category": "historical",
                   "coords": [
                         -89.356984,
@@ -1198,7 +1198,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a la Paz",
-                  "text": "Ein Denkmal in Esquipulas, das dem Frieden gewidmet ist.",
+                  "text": "Denkmal, das an die 1987 in Esquipulas unterzeichneten Friedensabkommen erinnert.",
                   "category": "historical",
                   "coords": [
                         -89.34955,
@@ -1218,7 +1218,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Acueducto de Esquipulas",
-                  "text": "Egy régi vízvezeték történelmi maradványai Esquipulas városában.",
+                  "text": "Gyarmati kori vízvezeték, amely egykor a várost látta el vízzel.",
                   "category": "historical",
                   "coords": [
                         -89.356984,
@@ -1245,7 +1245,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a la Paz",
-                  "text": "A békének szentelt emlékmű Esquipulas városában.",
+                  "text": "Emlékmű, amely az 1987-ben Esquipulasban aláírt békeszerződésekre emlékeztet.",
                   "category": "historical",
                   "coords": [
                         -89.34955,
@@ -1265,7 +1265,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Acueducto de Esquipulas",
-                  "text": "Vestigiile istorice ale unui vechi apeduct în Esquipulas.",
+                  "text": "Apeduct din epoca colonială care alimenta orașul cu apă.",
                   "category": "historical",
                   "coords": [
                         -89.356984,
@@ -1292,7 +1292,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a la Paz",
-                  "text": "Un monument în Esquipulas dedicat păcii.",
+                  "text": "Monument dedicat acordurilor de pace semnate la Esquipulas în 1987.",
                   "category": "historical",
                   "coords": [
                         -89.34955,
@@ -1312,7 +1312,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Acueducto de Esquipulas",
-                  "text": "Historical remains of an ancient aqueduct in Esquipulas.",
+                  "text": "Colonial-era aqueduct that once supplied water to the town.",
                   "category": "historical",
                   "coords": [
                         -89.356984,
@@ -1339,7 +1339,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a la Paz",
-                  "text": "A monument in Esquipulas dedicated to peace.",
+                  "text": "Monument commemorating the 1987 Esquipulas Peace Accords.",
                   "category": "historical",
                   "coords": [
                         -89.34955,
@@ -1577,7 +1577,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Cerro La Ahorcada",
-                  "text": "Ein markanter Berggipfel in der Nähe von Asunción Mita.",
+                  "text": "Felsiger Hügel mit Blick auf das umliegende Tal.",
                   "category": "natural",
                   "coords": [
                         -89.702676,
@@ -1606,7 +1606,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Cerro La Ahorcada",
-                  "text": "Jellegzetes hegycsúcs Asunción Mita közelében.",
+                  "text": "Sziklás domb kilátással a környező völgyre.",
                   "category": "natural",
                   "coords": [
                         -89.702676,
@@ -1635,7 +1635,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Cerro La Ahorcada",
-                  "text": "Un vârf montan proeminent situat lângă Asunción Mita.",
+                  "text": "Deal stâncos cu vedere asupra văii înconjurătoare.",
                   "category": "natural",
                   "coords": [
                         -89.702676,
@@ -1664,7 +1664,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Cerro La Ahorcada",
-                  "text": "A prominent mountain peak located near Asunción Mita.",
+                  "text": "Rocky hill with views of the surrounding valley.",
                   "category": "natural",
                   "coords": [
                         -89.702676,
@@ -1938,7 +1938,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             },
             {
                   "name": "Cruze",
-                  "text": "Ein lokaler Orientierungspunkt und Sehenswürdigkeit in Sayaxché.",
+                  "text": "Großes Kreuz auf einem Hügel mit Blick auf die Stadt.",
                   "category": "landmark",
                   "coords": [
                         -90.123935,
@@ -1958,7 +1958,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             },
             {
                   "name": "Cruze",
-                  "text": "Helyi tájékozódási pont és látnivaló Sayaxché városában.",
+                  "text": "Nagy kereszt egy dombon, rálátással a városra.",
                   "category": "landmark",
                   "coords": [
                         -90.123935,
@@ -1978,7 +1978,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             },
             {
                   "name": "Cruze",
-                  "text": "Un punct de reper local și o atracție în Sayaxché.",
+                  "text": "Cruce mare pe o colină cu vedere asupra orașului.",
                   "category": "landmark",
                   "coords": [
                         -90.123935,
@@ -1998,7 +1998,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             },
             {
                   "name": "Cruze",
-                  "text": "A local landmark and point of interest in Sayaxché.",
+                  "text": "Large cross on a hilltop overlooking the town.",
                   "category": "landmark",
                   "coords": [
                         -90.123935,
@@ -2318,7 +2318,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             },
             {
                   "name": "Nice view of Santa Maria volcano",
-                  "text": "Ein Standort, der eine gute Sicht auf den Vulkan Santa Maria bietet.",
+                  "text": "Aussichtspunkt mit Blick auf den Vulkan Santa Maria.",
                   "category": "natural",
                   "coords": [
                         -91.408991,
@@ -2338,7 +2338,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             },
             {
                   "name": "Nice view of Santa Maria volcano",
-                  "text": "Helyszín, ahonnan kiváló kilátás nyílik a Santa Maria vulkánra.",
+                  "text": "Kilátó, ahonnan a Santa Maria vulkán látható.",
                   "category": "natural",
                   "coords": [
                         -91.408991,
@@ -2358,7 +2358,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             },
             {
                   "name": "Nice view of Santa Maria volcano",
-                  "text": "Un loc care oferă o vedere bună asupra vulcanului Santa Maria.",
+                  "text": "Punct de belvedere cu vedere la vulcanul Santa Maria.",
                   "category": "natural",
                   "coords": [
                         -91.408991,
@@ -2378,7 +2378,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             },
             {
                   "name": "Nice view of Santa Maria volcano",
-                  "text": "A location offering a clear view of the Santa Maria volcano.",
+                  "text": "Viewpoint offering views of the Santa Maria volcano.",
                   "category": "natural",
                   "coords": [
                         -91.408991,
@@ -2546,7 +2546,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Agua Clara",
-                  "text": "Ein Schwimmbad in Malacatán zur Entspannung.",
+                  "text": "Klarwasser-Flussschwimmstelle.",
                   "category": "recreational",
                   "coords": [
                         -92.146032,
@@ -2557,7 +2557,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Agua Clara",
-                  "text": "Egy úszómedence Malacatánban, pihenésre.",
+                  "text": "Tiszta vizű folyami fürdőhely.",
                   "category": "recreational",
                   "coords": [
                         -92.146032,
@@ -2568,7 +2568,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Agua Clara",
-                  "text": "O piscină în Malacatán pentru relaxare.",
+                  "text": "Loc de înot într-un râu cu apă clară.",
                   "category": "recreational",
                   "coords": [
                         -92.146032,
@@ -2579,7 +2579,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Agua Clara",
-                  "text": "A swimming pool in Malacatán for relaxation.",
+                  "text": "Clear-water river swimming spot.",
                   "category": "recreational",
                   "coords": [
                         -92.146032,
@@ -2700,7 +2700,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Jersey ACJ",
-                  "text": "Ein kleiner Zoo oder Tierpark in San José Pinula.",
+                  "text": "Familiengeführter Laden mit Trikots lokaler Fußballmannschaften.",
                   "category": "family",
                   "coords": [
                         -90.418193,
@@ -2729,7 +2729,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Jersey ACJ",
-                  "text": "Kisméretű állatkert vagy vadaspark San José Pinulában.",
+                  "text": "Családi üzlet, ahol helyi futballcsapatok mezét árulják.",
                   "category": "family",
                   "coords": [
                         -90.418193,
@@ -2758,7 +2758,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Jersey ACJ",
-                  "text": "O mică grădină zoologică sau parc de animale în San José Pinula.",
+                  "text": "Magazin de familie care vinde tricouri ale echipelor locale de fotbal.",
                   "category": "family",
                   "coords": [
                         -90.418193,
@@ -2787,7 +2787,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Jersey ACJ",
-                  "text": "A small zoo or animal park in San José Pinula.",
+                  "text": "Family-run shop selling local soccer team jerseys.",
                   "category": "family",
                   "coords": [
                         -90.418193,
@@ -3294,7 +3294,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Teatro Municipal",
-                  "text": "Das städtische Theater von La Esperanza für kulturelle Veranstaltungen.",
+                  "text": "Historisches Stadttheater mit lokalen Aufführungen.",
                   "category": "cultural",
                   "coords": [
                         -91.592289,
@@ -3303,7 +3303,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             },
             {
                   "name": "Seminario San Jose",
-                  "text": "Ein Naturschutzgebiet in der Region La Esperanza.",
+                  "text": "Naturschutzgebiet mit Wanderwegen nahe dem San Jose Seminar.",
                   "category": "natural",
                   "coords": [
                         -91.548271,
@@ -3332,7 +3332,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Teatro Municipal",
-                  "text": "La Esperanza városi színháza, amely kulturális eseményeknek ad otthont.",
+                  "text": "Történelmi városi színház helyi előadásokkal.",
                   "category": "cultural",
                   "coords": [
                         -91.592289,
@@ -3341,7 +3341,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             },
             {
                   "name": "Seminario San Jose",
-                  "text": "Természetvédelmi terület La Esperanza régiójában.",
+                  "text": "Természetvédelmi terület túraútvonalakkal a San Jose szeminárium közelében.",
                   "category": "natural",
                   "coords": [
                         -91.548271,
@@ -3370,7 +3370,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Teatro Municipal",
-                  "text": "Teatrul municipal din La Esperanza pentru evenimente culturale.",
+                  "text": "Teatru municipal istoric cu spectacole locale.",
                   "category": "cultural",
                   "coords": [
                         -91.592289,
@@ -3379,7 +3379,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             },
             {
                   "name": "Seminario San Jose",
-                  "text": "O rezervație naturală în regiunea La Esperanza.",
+                  "text": "Rezervație naturală cu trasee de drumeție lângă Seminarul San Jose.",
                   "category": "natural",
                   "coords": [
                         -91.548271,
@@ -3408,7 +3408,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Teatro Municipal",
-                  "text": "The municipal theatre of La Esperanza for cultural events.",
+                  "text": "Historic municipal theatre hosting local performances.",
                   "category": "cultural",
                   "coords": [
                         -91.592289,
@@ -3417,7 +3417,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             },
             {
                   "name": "Seminario San Jose",
-                  "text": "A nature reserve in the La Esperanza region.",
+                  "text": "Natural reserve with hiking trails near the San Jose seminary.",
                   "category": "natural",
                   "coords": [
                         -91.548271,
@@ -3470,7 +3470,196 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       fr: ["La Esperanza est une banlieue en pleine croissance de la métropole de Quetzaltenango.", "La ville offre un mélange attrayant de zones résidentielles et commerciales.", "Elle est située à plus de 2 400 mètres d'altitude dans les hauts plateaux frais.", "La commune est un élément important du tissu économique de l'ouest du Guatemala."],
     }, image: "/poi-images/gt-la-esperanza-cities-v2.webp"},
   {
-    id: "gt-cantel-cities-v2", "sights": {"de": [{"name": "Parque Regional Municipal Zunil", "text": "Ein kommunales Naturschutzgebiet in Cantel, das die lokale Flora schützt.", "category": "natural", "coords": [-91.470067, 14.74316]}, {"name": "Cerro Jolom", "text": "Der Berggipfel Cerro Jolom erhebt sich in der Nähe von Cantel in Guatemala. Er ist ein beliebtes Naturziel für lokale Erkundungen in der Umgebung.", "category": "natural", "coords": [-91.435282, 14.79907]}, {"name": "Cerro Chuicham", "text": "Ein markanter Gipfel in der bergigen Region von Cantel.", "category": "natural", "coords": [-91.434711, 14.785065]}, {"name": "Cerro Chonajtajuyub", "text": "Ein weiterer Berggipfel in der Umgebung von Cantel.", "category": "natural", "coords": [-91.446516, 14.784874]}, {"name": "copavic", "text": "Eine lokale Sehenswürdigkeit oder Einrichtung in der Stadt Cantel.", "category": "landmark", "coords": [-91.447903, 14.806815]}], "hu": [{"name": "Parque Regional Municipal Zunil", "text": "Önkormányzati természetvédelmi terület Cantelben, a helyi flóra védelmére.", "category": "natural", "coords": [-91.470067, 14.74316]}, {"name": "Cerro Jolom", "text": "A Cerro Jolom egy hegycsúcs, amely a guatemalai Cantel közelében magasodik. Ez a természetes helyszín kifejezetten népszerű a helyi felfedezők és túrázók körében.", "category": "natural", "coords": [-91.435282, 14.79907]}, {"name": "Cerro Chuicham", "text": "Jellegzetes csúcs Cantel hegyvidéki régiójában.", "category": "natural", "coords": [-91.434711, 14.785065]}, {"name": "Cerro Chonajtajuyub", "text": "Egy másik hegycsúcs Cantel környékén.", "category": "natural", "coords": [-91.446516, 14.784874]}, {"name": "copavic", "text": "Helyi látnivaló vagy létesítmény Cantel városában.", "category": "landmark", "coords": [-91.447903, 14.806815]}], "ro": [{"name": "Parque Regional Municipal Zunil", "text": "O rezervație naturală municipală în Cantel, protejând flora locală.", "category": "natural", "coords": [-91.470067, 14.74316]}, {"name": "Cerro Jolom", "text": "Cerro Jolom este un vârf de munte situat în apropiere de Cantel, în Guatemala. Acest loc natural este preferat pentru explorări și drumeții locale.", "category": "natural", "coords": [-91.435282, 14.79907]}, {"name": "Cerro Chuicham", "text": "Un vârf proeminent în regiunea muntoasă din Cantel.", "category": "natural", "coords": [-91.434711, 14.785065]}, {"name": "Cerro Chonajtajuyub", "text": "Un alt vârf montan în împrejurimile orașului Cantel.", "category": "natural", "coords": [-91.446516, 14.784874]}, {"name": "copavic", "text": "O atracție locală sau facilitate în orașul Cantel.", "category": "landmark", "coords": [-91.447903, 14.806815]}], "en": [{"name": "Parque Regional Municipal Zunil", "text": "A municipal nature reserve in Cantel protecting local flora.", "category": "natural", "coords": [-91.470067, 14.74316]}, {"name": "Cerro Jolom", "text": "Cerro Jolom is a mountain peak situated near the town of Cantel in Guatemala. It is a favored natural spot for local exploration and hiking.", "category": "natural", "coords": [-91.435282, 14.79907]}, {"name": "Cerro Chuicham", "text": "A prominent peak in the mountainous region of Cantel.", "category": "natural", "coords": [-91.434711, 14.785065]}, {"name": "Cerro Chonajtajuyub", "text": "Another mountain peak in the surroundings of Cantel.", "category": "natural", "coords": [-91.446516, 14.784874]}, {"name": "copavic", "text": "A local attraction or facility in the town of Cantel.", "category": "landmark", "coords": [-91.447903, 14.806815]}]},
+    id: "gt-cantel-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque Regional Municipal Zunil",
+                  "text": "Ein kommunales Naturschutzgebiet in Cantel, das die lokale Flora schützt.",
+                  "category": "natural",
+                  "coords": [
+                        -91.470067,
+                        14.74316
+                  ]
+            },
+            {
+                  "name": "Cerro Jolom",
+                  "text": "Der Berggipfel Cerro Jolom erhebt sich in der Nähe von Cantel in Guatemala. Er ist ein beliebtes Naturziel für lokale Erkundungen in der Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        -91.435282,
+                        14.79907
+                  ]
+            },
+            {
+                  "name": "Cerro Chuicham",
+                  "text": "Bewaldeter Hügel mit Wanderweg zum Gipfel.",
+                  "category": "natural",
+                  "coords": [
+                        -91.434711,
+                        14.785065
+                  ]
+            },
+            {
+                  "name": "Cerro Chonajtajuyub",
+                  "text": "Vulkanischer Hügel mit einzigartigen Felsformationen.",
+                  "category": "natural",
+                  "coords": [
+                        -91.446516,
+                        14.784874
+                  ]
+            },
+            {
+                  "name": "copavic",
+                  "text": "Wahrzeichen-Gebäude im Zentrum von Cantel.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.447903,
+                        14.806815
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Regional Municipal Zunil",
+                  "text": "Önkormányzati természetvédelmi terület Cantelben, a helyi flóra védelmére.",
+                  "category": "natural",
+                  "coords": [
+                        -91.470067,
+                        14.74316
+                  ]
+            },
+            {
+                  "name": "Cerro Jolom",
+                  "text": "A Cerro Jolom egy hegycsúcs, amely a guatemalai Cantel közelében magasodik. Ez a természetes helyszín kifejezetten népszerű a helyi felfedezők és túrázók körében.",
+                  "category": "natural",
+                  "coords": [
+                        -91.435282,
+                        14.79907
+                  ]
+            },
+            {
+                  "name": "Cerro Chuicham",
+                  "text": "Erdős domb túraútvonallal a csúcsra.",
+                  "category": "natural",
+                  "coords": [
+                        -91.434711,
+                        14.785065
+                  ]
+            },
+            {
+                  "name": "Cerro Chonajtajuyub",
+                  "text": "Vulkáni domb egyedi sziklaformációkkal.",
+                  "category": "natural",
+                  "coords": [
+                        -91.446516,
+                        14.784874
+                  ]
+            },
+            {
+                  "name": "copavic",
+                  "text": "Nevezetes épület Cantel központjában.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.447903,
+                        14.806815
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Regional Municipal Zunil",
+                  "text": "O rezervație naturală municipală în Cantel, protejând flora locală.",
+                  "category": "natural",
+                  "coords": [
+                        -91.470067,
+                        14.74316
+                  ]
+            },
+            {
+                  "name": "Cerro Jolom",
+                  "text": "Cerro Jolom este un vârf de munte situat în apropiere de Cantel, în Guatemala. Acest loc natural este preferat pentru explorări și drumeții locale.",
+                  "category": "natural",
+                  "coords": [
+                        -91.435282,
+                        14.79907
+                  ]
+            },
+            {
+                  "name": "Cerro Chuicham",
+                  "text": "Deal împădurit cu traseu de drumeție până în vârf.",
+                  "category": "natural",
+                  "coords": [
+                        -91.434711,
+                        14.785065
+                  ]
+            },
+            {
+                  "name": "Cerro Chonajtajuyub",
+                  "text": "Deal vulcanic cu formațiuni stâncoase unice.",
+                  "category": "natural",
+                  "coords": [
+                        -91.446516,
+                        14.784874
+                  ]
+            },
+            {
+                  "name": "copavic",
+                  "text": "Clădire emblematică în centrul orașului Cantel.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.447903,
+                        14.806815
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque Regional Municipal Zunil",
+                  "text": "A municipal nature reserve in Cantel protecting local flora.",
+                  "category": "natural",
+                  "coords": [
+                        -91.470067,
+                        14.74316
+                  ]
+            },
+            {
+                  "name": "Cerro Jolom",
+                  "text": "Cerro Jolom is a mountain peak situated near the town of Cantel in Guatemala. It is a favored natural spot for local exploration and hiking.",
+                  "category": "natural",
+                  "coords": [
+                        -91.435282,
+                        14.79907
+                  ]
+            },
+            {
+                  "name": "Cerro Chuicham",
+                  "text": "Forested hill with a hiking trail to the summit.",
+                  "category": "natural",
+                  "coords": [
+                        -91.434711,
+                        14.785065
+                  ]
+            },
+            {
+                  "name": "Cerro Chonajtajuyub",
+                  "text": "Volcanic hill with unique rock formations.",
+                  "category": "natural",
+                  "coords": [
+                        -91.446516,
+                        14.784874
+                  ]
+            },
+            {
+                  "name": "copavic",
+                  "text": "Landmark building in the center of Cantel.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.447903,
+                        14.806815
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GT-QZ",
     coords: [-91.4500, 14.8000],
@@ -3537,7 +3726,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             },
             {
                   "name": "Cueva Jul Iq'",
-                  "text": "Eine natürliche Höhlenformation und Sehenswürdigkeit in Chisec.",
+                  "text": "Kalksteinhöhle mit antiken Maya-Artefakten.",
                   "category": "landmark",
                   "coords": [
                         -90.274998,
@@ -3557,7 +3746,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             },
             {
                   "name": "Cueva Jul Iq'",
-                  "text": "Természetes barlangképződmény és látnivaló Chisecben.",
+                  "text": "Mészkőbarlang ősi maja műtárgyakkal.",
                   "category": "landmark",
                   "coords": [
                         -90.274998,
@@ -3577,7 +3766,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             },
             {
                   "name": "Cueva Jul Iq'",
-                  "text": "O formațiune naturală de peșteră și punct de atracție în Chisec.",
+                  "text": "Peșteră de calcar cu artefacte mayașe antice.",
                   "category": "landmark",
                   "coords": [
                         -90.274998,
@@ -3597,7 +3786,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             },
             {
                   "name": "Cueva Jul Iq'",
-                  "text": "A natural cave formation and attraction in Chisec.",
+                  "text": "Limestone cave with ancient Mayan artifacts.",
                   "category": "landmark",
                   "coords": [
                         -90.274998,
@@ -3856,7 +4045,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             },
             {
                   "name": "Centro de Salud",
-                  "text": "Ein lokales Gesundheitszentrum, das als Orientierungspunkt dient.",
+                  "text": "Gemeinschaftsklinik für die Grenzstadt.",
                   "category": "landmark",
                   "coords": [
                         -89.157589,
@@ -3874,7 +4063,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             },
             {
                   "name": "Group C ruins (overgrown)",
-                  "text": "Überwachsene Ruinen der Gruppe C in Melchor de Mencos.",
+                  "text": "Überwucherte Maya-Ruinen der Gruppe C, Teil einer größeren archäologischen Stätte.",
                   "category": "landmark",
                   "coords": [
                         -89.141626,
@@ -3939,7 +4128,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             },
             {
                   "name": "Centro de Salud",
-                  "text": "Helyi egészségügyi központ, amely tájékozódási pontként is szolgál.",
+                  "text": "Közösségi egészségügyi központ a határvárosban.",
                   "category": "landmark",
                   "coords": [
                         -89.157589,
@@ -3957,7 +4146,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             },
             {
                   "name": "Group C ruins (overgrown)",
-                  "text": "A C-csoport növényzettel benőtt romjai Melchor de Mencosban.",
+                  "text": "Bennőtt maja romok a C csoportból, egy nagyobb régészeti lelőhely része.",
                   "category": "landmark",
                   "coords": [
                         -89.141626,
@@ -4022,7 +4211,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             },
             {
                   "name": "Centro de Salud",
-                  "text": "Un centru de sănătate local care servește ca punct de reper.",
+                  "text": "Centru de sănătate comunitar pentru orașul de frontieră.",
                   "category": "landmark",
                   "coords": [
                         -89.157589,
@@ -4040,7 +4229,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             },
             {
                   "name": "Group C ruins (overgrown)",
-                  "text": "Ruinele acoperite de vegetație ale Grupului C din Melchor de Mencos.",
+                  "text": "Ruine mayașe acoperite de vegetație din Grupul C, parte a unui sit arheologic mai mare.",
                   "category": "landmark",
                   "coords": [
                         -89.141626,
@@ -4105,7 +4294,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             },
             {
                   "name": "Health Centre",
-                  "text": "A local health centre that serves as a landmark.",
+                  "text": "Community health clinic serving the border town.",
                   "category": "landmark",
                   "coords": [
                         -89.157589,
@@ -4123,7 +4312,7 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             },
             {
                   "name": "Group C ruins (overgrown)",
-                  "text": "The overgrown ruins of Group C in Melchor de Mencos.",
+                  "text": "Overgrown Mayan ruins from Group C, part of a larger archaeological site.",
                   "category": "landmark",
                   "coords": [
                         -89.141626,

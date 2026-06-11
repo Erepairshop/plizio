@@ -7,7 +7,7 @@ export const ukEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Trimley Shores",
-                  "text": "Trimley Shores liegt nahe beim Hafen von Felixstowe.",
+                  "text": "Trimley Shores ist ein Kies- und Sandstrand mit Blick auf den Containerhafen von Felixstowe.",
                   "category": "recreational",
                   "coords": [
                         1.283137,
@@ -18,7 +18,7 @@ export const ukEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Trimley Shores",
-                  "text": "Trimley Shores a felixstowe-i kikötő közelében található.",
+                  "text": "A Trimley Shores egy kavicsos és homokos strand Felixstowe konténerkikötőjére néző kilátással.",
                   "category": "recreational",
                   "coords": [
                         1.283137,
@@ -29,7 +29,7 @@ export const ukEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Trimley Shores",
-                  "text": "Trimley Shores este situat lângă portul Felixstowe.",
+                  "text": "Trimley Shores este o plajă de pietriș și nisip cu vedere la portul de containere Felixstowe.",
                   "category": "recreational",
                   "coords": [
                         1.283137,
@@ -40,7 +40,7 @@ export const ukEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Trimley Shores",
-                  "text": "Trimley Shores is located near the Port of Felixstowe.",
+                  "text": "Trimley Shores is a shingle and sand beach with views of Felixstowe's container port.",
                   "category": "recreational",
                   "coords": [
                         1.283137,
@@ -236,7 +236,7 @@ imageHint: "Drax Power Station with cooling towers and chimneys",
       "de": [
             {
                   "name": "Beach Ballroom Bathing Area",
-                  "text": "Badebereich am Aberdeen Energy Hub.",
+                  "text": "Der Beach Ballroom Bathing Area ist ein historischer Ballsaal und Meerwasserbadebecken an der Uferpromenade von Aberdeen.",
                   "category": "recreational",
                   "coords": [
                         -2.077115,
@@ -245,7 +245,7 @@ imageHint: "Drax Power Station with cooling towers and chimneys",
             },
             {
                   "name": "Aberdeen Beach",
-                  "text": "Ein langer Sandstrand in der Nähe der Stadt Aberdeen.",
+                  "text": "Der Aberdeen Beach ist ein langer Sandstrand mit einer Promenade und Spielhallen.",
                   "category": "recreational",
                   "coords": [
                         -2.072272,
@@ -256,7 +256,7 @@ imageHint: "Drax Power Station with cooling towers and chimneys",
       "hu": [
             {
                   "name": "Beach Ballroom Bathing Area",
-                  "text": "Fürdőhely az Aberdeen Energy Hubnál.",
+                  "text": "A Beach Ballroom Bathing Area egy történelmi bálterem és tengervizes fürdőmedence Aberdeen tengerpartján.",
                   "category": "recreational",
                   "coords": [
                         -2.077115,
@@ -265,7 +265,7 @@ imageHint: "Drax Power Station with cooling towers and chimneys",
             },
             {
                   "name": "Aberdeen Beach",
-                  "text": "Hosszú homokos strand Aberdeen városának közelében.",
+                  "text": "Az Aberdeen Beach egy hosszú homokos strand sétánnyal és játéktermekkel.",
                   "category": "recreational",
                   "coords": [
                         -2.072272,
@@ -276,7 +276,7 @@ imageHint: "Drax Power Station with cooling towers and chimneys",
       "ro": [
             {
                   "name": "Beach Ballroom Bathing Area",
-                  "text": "Zonă de scăldat la Aberdeen Energy Hub.",
+                  "text": "Beach Ballroom Bathing Area este un salon de bal istoric și o piscină cu apă de mare pe malul mării din Aberdeen.",
                   "category": "recreational",
                   "coords": [
                         -2.077115,
@@ -285,7 +285,7 @@ imageHint: "Drax Power Station with cooling towers and chimneys",
             },
             {
                   "name": "Aberdeen Beach",
-                  "text": "O plajă lungă cu nisip în apropierea orașului Aberdeen.",
+                  "text": "Aberdeen Beach este o plajă lungă cu nisip, cu o promenadă și arcade de jocuri.",
                   "category": "recreational",
                   "coords": [
                         -2.072272,
@@ -296,7 +296,7 @@ imageHint: "Drax Power Station with cooling towers and chimneys",
       "en": [
             {
                   "name": "Beach Ballroom Bathing Area",
-                  "text": "Bathing area at Aberdeen Energy Hub.",
+                  "text": "Beach Ballroom Bathing Area is a historic ballroom and seawater bathing pool on Aberdeen's seafront.",
                   "category": "recreational",
                   "coords": [
                         -2.077115,
@@ -305,7 +305,7 @@ imageHint: "Drax Power Station with cooling towers and chimneys",
             },
             {
                   "name": "Aberdeen Beach",
-                  "text": "A long sandy beach near the city of Aberdeen.",
+                  "text": "Aberdeen Beach is a long sandy beach with a promenade and amusement arcades.",
                   "category": "recreational",
                   "coords": [
                         -2.072272,
@@ -617,7 +617,7 @@ imageHint: "Modern office buildings and street layout in Milton Keynes",
             },
             {
                   "name": "Kingfisher Lake",
-                  "text": "Der Kingfisher Lake in Milton Keynes ist ein ruhiges Gewässer, ideal zur Vogelbeobachtung.",
+                  "text": "Der Kingfisher Lake ist ein Süßwassersee mit einem Vogelbeobachtungsversteck und Angelplattformen in Milton Keynes.",
                   "category": "natural",
                   "coords": [
                         -0.711532,
@@ -896,7 +896,7 @@ imageHint: "Modern office buildings and street layout in Milton Keynes",
             },
             {
                   "name": "Bancroft Roman Villa",
-                  "text": "Die archäologischen Überreste einer römischen Villa in Milton Keynes.",
+                  "text": "Eine römische Villa mit Mosaikböden, in den 1970er Jahren in Milton Keynes ausgegraben.",
                   "category": "historical",
                   "coords": [
                         -0.795092,
@@ -905,7 +905,7 @@ imageHint: "Modern office buildings and street layout in Milton Keynes",
             },
             {
                   "name": "Moated site and fishponds at Great Woolstone",
-                  "text": "Eine mittelalterliche befestigte Anlage mit ehemaligen Fischteichen in Milton Keynes.",
+                  "text": "Eine mittelalterliche Wasserburganlage mit Fischteichen bei Great Woolstone in Milton Keynes.",
                   "category": "historical",
                   "coords": [
                         -0.724477,
@@ -1051,7 +1051,7 @@ imageHint: "Modern office buildings and street layout in Milton Keynes",
             },
             {
                   "name": "Kingfisher Lake",
-                  "text": "A Milton Keynes-i Kingfisher Lake egy csendes tó, amely ideális madármegfigyeléshez.",
+                  "text": "A Kingfisher Lake egy édesvizű tó madármegfigyelővel és horgászplatformokkal Milton Keynesben.",
                   "category": "natural",
                   "coords": [
                         -0.711532,
@@ -1330,7 +1330,7 @@ imageHint: "Modern office buildings and street layout in Milton Keynes",
             },
             {
                   "name": "Bancroft Roman Villa",
-                  "text": "Egy római kori villa régészeti maradványai Milton Keynes-ben.",
+                  "text": "Egy római villa mozaikpadlókkal, az 1970-es években feltárva Milton Keynes-ben.",
                   "category": "historical",
                   "coords": [
                         -0.795092,
@@ -1339,7 +1339,7 @@ imageHint: "Modern office buildings and street layout in Milton Keynes",
             },
             {
                   "name": "Moated site and fishponds at Great Woolstone",
-                  "text": "Középkori vizesárokkal körülvett terület és egykori halastavak Milton Keynes-ben.",
+                  "text": "Középkori vizesárok-rendszer halastavakkal Great Woolstone mellett, Milton Keynesben.",
                   "category": "historical",
                   "coords": [
                         -0.724477,
@@ -1485,7 +1485,7 @@ imageHint: "Modern office buildings and street layout in Milton Keynes",
             },
             {
                   "name": "Kingfisher Lake",
-                  "text": "Kingfisher Lake din Milton Keynes este un lac liniștit, ideal pentru observarea păsărilor.",
+                  "text": "Kingfisher Lake este un lac de apă dulce cu un adăpost pentru observarea păsărilor și platforme de pescuit în Milton Keynes.",
                   "category": "natural",
                   "coords": [
                         -0.711532,
@@ -1764,7 +1764,7 @@ imageHint: "Modern office buildings and street layout in Milton Keynes",
             },
             {
                   "name": "Bancroft Roman Villa",
-                  "text": "Vestigiile arheologice ale unei vile romane din Milton Keynes.",
+                  "text": "O vilă romană cu podele de mozaic, excavată în anii 1970 în Milton Keynes.",
                   "category": "historical",
                   "coords": [
                         -0.795092,
@@ -1773,7 +1773,7 @@ imageHint: "Modern office buildings and street layout in Milton Keynes",
             },
             {
                   "name": "Moated site and fishponds at Great Woolstone",
-                  "text": "Un sit medieval cu șanț de apărare și foste iazuri piscicole în Milton Keynes.",
+                  "text": "Un sit medieval cu șanț și iazuri de pești lângă Great Woolstone în Milton Keynes.",
                   "category": "historical",
                   "coords": [
                         -0.724477,
@@ -1919,7 +1919,7 @@ imageHint: "Modern office buildings and street layout in Milton Keynes",
             },
             {
                   "name": "Kingfisher Lake",
-                  "text": "Kingfisher Lake in Milton Keynes is a quiet lake, ideal for birdwatching.",
+                  "text": "Kingfisher Lake is a freshwater lake with a bird hide and fishing platforms in Milton Keynes.",
                   "category": "natural",
                   "coords": [
                         -0.711532,
@@ -2198,7 +2198,7 @@ imageHint: "Modern office buildings and street layout in Milton Keynes",
             },
             {
                   "name": "Bancroft Roman Villa",
-                  "text": "The archaeological remains of a Roman villa located in Milton Keynes.",
+                  "text": "A Roman villa with mosaic floors, excavated in the 1970s in Milton Keynes.",
                   "category": "historical",
                   "coords": [
                         -0.795092,
@@ -2207,7 +2207,7 @@ imageHint: "Modern office buildings and street layout in Milton Keynes",
             },
             {
                   "name": "Moated site and fishponds at Great Woolstone",
-                  "text": "A medieval moated site and former fishponds located in Milton Keynes.",
+                  "text": "A medieval moated site with fishponds near Great Woolstone in Milton Keynes.",
                   "category": "historical",
                   "coords": [
                         -0.724477,
@@ -2239,7 +2239,7 @@ imageHint: "Modern office buildings and street layout in Milton Keynes",
       "de": [
             {
                   "name": "Margam Sands",
-                  "text": "Margam Sands liegt bei den Port Talbot Steelworks.",
+                  "text": "Margam Sands ist ein Sandstrand mit Dünen und Blick auf das Margam-Stahlwerk.",
                   "category": "recreational",
                   "coords": [
                         -3.773066,
@@ -2248,7 +2248,7 @@ imageHint: "Modern office buildings and street layout in Milton Keynes",
             },
             {
                   "name": "Aberavon Beach",
-                  "text": "Aberavon Beach liegt in der Nähe von Port Talbot.",
+                  "text": "Aberavon Beach ist ein Blauer-Flagge-Sandstrand mit einer Promenade und Küstenschutzanlagen.",
                   "category": "recreational",
                   "coords": [
                         -3.820341,
@@ -2259,7 +2259,7 @@ imageHint: "Modern office buildings and street layout in Milton Keynes",
       "hu": [
             {
                   "name": "Margam Sands",
-                  "text": "A Margam Sands a Port Talbot Steelworks közelében található.",
+                  "text": "A Margam Sands egy homokos strand dűnékkel és a Margam acélműre nyíló kilátással.",
                   "category": "recreational",
                   "coords": [
                         -3.773066,
@@ -2268,7 +2268,7 @@ imageHint: "Modern office buildings and street layout in Milton Keynes",
             },
             {
                   "name": "Aberavon Beach",
-                  "text": "Az Aberavon Beach strand Port Talbot közelében található.",
+                  "text": "Az Aberavon Beach egy Kék Zászlós homokos strand sétánnyal és tengeri védművekkel.",
                   "category": "recreational",
                   "coords": [
                         -3.820341,
@@ -2279,7 +2279,7 @@ imageHint: "Modern office buildings and street layout in Milton Keynes",
       "ro": [
             {
                   "name": "Margam Sands",
-                  "text": "Margam Sands se află lângă Port Talbot Steelworks.",
+                  "text": "Margam Sands este o plajă cu nisip, cu dune și vedere la oțelăria Margam.",
                   "category": "recreational",
                   "coords": [
                         -3.773066,
@@ -2288,7 +2288,7 @@ imageHint: "Modern office buildings and street layout in Milton Keynes",
             },
             {
                   "name": "Aberavon Beach",
-                  "text": "Aberavon Beach este situată lângă Port Talbot.",
+                  "text": "Aberavon Beach este o plajă cu nisip cu Steag Albastru, cu o promenadă și apărări maritime.",
                   "category": "recreational",
                   "coords": [
                         -3.820341,
@@ -2299,7 +2299,7 @@ imageHint: "Modern office buildings and street layout in Milton Keynes",
       "en": [
             {
                   "name": "Margam Sands",
-                  "text": "Margam Sands is located near Port Talbot Steelworks.",
+                  "text": "Margam Sands is a sandy beach with dunes and views of the Margam steelworks.",
                   "category": "recreational",
                   "coords": [
                         -3.773066,
@@ -2308,7 +2308,7 @@ imageHint: "Modern office buildings and street layout in Milton Keynes",
             },
             {
                   "name": "Aberavon Beach",
-                  "text": "Aberavon Beach is located near Port Talbot.",
+                  "text": "Aberavon Beach is a Blue Flag sandy beach with a promenade and sea defences.",
                   "category": "recreational",
                   "coords": [
                         -3.820341,

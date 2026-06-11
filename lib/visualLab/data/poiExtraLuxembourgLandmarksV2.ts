@@ -666,7 +666,7 @@ export const luxembourgLandmarksV2: POI[] = [
             },
             {
                   "name": "Centre Culturel",
-                  "text": "Ein Veranstaltungsort für kulturelle Aktivitäten und Gemeinschaftsevents.",
+                  "text": "Ein Kulturzentrum im ehemaligen Schiefermuseum in Martelange.",
                   "category": "cultural",
                   "coords": [
                         5.729326,
@@ -740,7 +740,7 @@ export const luxembourgLandmarksV2: POI[] = [
             },
             {
                   "name": "Centre Culturel",
-                  "text": "Kulturális tevékenységeknek és közösségi eseményeknek otthont adó helyszín.",
+                  "text": "Kulturális központ az egykori palamúzeumban Martelange-ban.",
                   "category": "cultural",
                   "coords": [
                         5.729326,
@@ -814,7 +814,7 @@ export const luxembourgLandmarksV2: POI[] = [
             },
             {
                   "name": "Centre Culturel",
-                  "text": "Un centru destinat activităților culturale și evenimentelor comunitare.",
+                  "text": "Un centru cultural în fosta clădire a Muzeului Ardeziei din Martelange.",
                   "category": "cultural",
                   "coords": [
                         5.729326,
@@ -888,7 +888,7 @@ export const luxembourgLandmarksV2: POI[] = [
             },
             {
                   "name": "Centre Culturel",
-                  "text": "A venue for cultural activities and community events.",
+                  "text": "A cultural center housed in the former slate museum building in Martelange.",
                   "category": "cultural",
                   "coords": [
                         5.729326,

@@ -43,7 +43,7 @@ export const lithuaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Šiaulių Aušros muziejus",
-                  "text": "Ein bedeutendes Geschichts- und Kunstmuseum in Šiauliai.",
+                  "text": "Das Aušros-Museum in Šiauliai zeigt Exponate zur litauischen Geschichte.",
                   "category": "museum",
                   "coords": [
                         23.271738,
@@ -61,7 +61,7 @@ export const lithuaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Šiaulių tardymo izoliatoriaus muziejus",
-                  "text": "Ein Museum im Gebäude des ehemaligen Gefängnisses von Šiauliai.",
+                  "text": "Das Museum der Untersuchungshaftanstalt in Šiauliai zeigt originale Zellen und Folterinstrumente.",
                   "category": "museum",
                   "coords": [
                         23.32322,
@@ -97,7 +97,7 @@ export const lithuaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Šokolado muziejus",
-                  "text": "Ein Schokoladenmuseum in einer ehemaligen Süßwarenfabrik.",
+                  "text": "Das Schokoladenmuseum in Šiauliai bietet Verkostungen und zeigt den Herstellungsprozess.",
                   "category": "museum",
                   "coords": [
                         23.311771,
@@ -295,7 +295,7 @@ export const lithuaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Traukinys",
-                  "text": "Ein ausgestelltes historisches Schienenfahrzeug in Šiauliai.",
+                  "text": "Der Traukinys in Šiauliai ist eine historische Dampflokomotive auf dem Bahnhofsvorplatz.",
                   "category": "landmark",
                   "coords": [
                         23.302265,
@@ -342,7 +342,7 @@ export const lithuaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Šiaulių Aušros muziejus",
-                  "text": "Jelentős történelmi és művészeti múzeum Šiauliai-ban.",
+                  "text": "A siauliai Aušros Múzeum litván történelmi kiállításokat mutat be.",
                   "category": "museum",
                   "coords": [
                         23.271738,
@@ -360,7 +360,7 @@ export const lithuaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Šiaulių tardymo izoliatoriaus muziejus",
-                  "text": "Múzeum a volt Šiauliai börtön épületében.",
+                  "text": "A siauliai vizsgálati fogház múzeuma eredeti cellákat és kínzóeszközöket mutat be.",
                   "category": "museum",
                   "coords": [
                         23.32322,
@@ -396,7 +396,7 @@ export const lithuaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Šokolado muziejus",
-                  "text": "Csokoládémúzeum egy egykori édességgyár épületében.",
+                  "text": "A siauliai Csokoládémúzeum kóstolókat kínál és bemutatja a gyártási folyamatot.",
                   "category": "museum",
                   "coords": [
                         23.311771,
@@ -594,7 +594,7 @@ export const lithuaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Traukinys",
-                  "text": "Kiállított történelmi vasúti jármű Šiauliai-ban.",
+                  "text": "A siauliai Traukinys egy történelmi gőzmozdony az állomás előtti téren.",
                   "category": "landmark",
                   "coords": [
                         23.302265,
@@ -641,7 +641,7 @@ export const lithuaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Šiaulių Aušros muziejus",
-                  "text": "Un important muzeu de istorie și artă din Šiauliai.",
+                  "text": "Muzeul Aušros din Šiauliai expune exponate despre istoria Lituaniei.",
                   "category": "museum",
                   "coords": [
                         23.271738,
@@ -659,7 +659,7 @@ export const lithuaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Šiaulių tardymo izoliatoriaus muziejus",
-                  "text": "Un muzeu situat în fosta închisoare din Šiauliai.",
+                  "text": "Muzeul izolatorului de anchetă din Šiauliai prezintă celule originale și instrumente de tortură.",
                   "category": "museum",
                   "coords": [
                         23.32322,
@@ -695,7 +695,7 @@ export const lithuaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Šokolado muziejus",
-                  "text": "Un muzeu al ciocolatei situat într-o fostă fabrică de dulciuri.",
+                  "text": "Muzeul Ciocolatei din Šiauliai oferă degustări și arată procesul de producție.",
                   "category": "museum",
                   "coords": [
                         23.311771,
@@ -893,7 +893,7 @@ export const lithuaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Traukinys",
-                  "text": "Un vehicul feroviar istoric expus în Šiauliai.",
+                  "text": "Traukinys din Šiauliai este o locomotivă cu abur istorică pe piața gării.",
                   "category": "landmark",
                   "coords": [
                         23.302265,
@@ -940,7 +940,7 @@ export const lithuaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Šiaulių Aušros muziejus",
-                  "text": "A major history and art museum in Šiauliai.",
+                  "text": "The Aušros Museum in Šiauliai displays exhibits on Lithuanian history.",
                   "category": "museum",
                   "coords": [
                         23.271738,
@@ -958,7 +958,7 @@ export const lithuaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Šiaulių tardymo izoliatoriaus muziejus",
-                  "text": "A museum located in the former Šiauliai prison.",
+                  "text": "The Prison Interrogation Museum in Šiauliai shows original cells and instruments.",
                   "category": "museum",
                   "coords": [
                         23.32322,
@@ -994,7 +994,7 @@ export const lithuaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Šokolado muziejus",
-                  "text": "A chocolate museum located in a former confectionery factory.",
+                  "text": "The Chocolate Museum in Šiauliai offers tastings and shows the production process.",
                   "category": "museum",
                   "coords": [
                         23.311771,
@@ -1192,7 +1192,7 @@ export const lithuaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Traukinys",
-                  "text": "An exhibited historical rail vehicle in Šiauliai.",
+                  "text": "The Traukinys in Šiauliai is a historic steam locomotive on the station square.",
                   "category": "landmark",
                   "coords": [
                         23.302265,
@@ -1313,7 +1313,7 @@ imageHint: "Siauliai city square and cathedral",
             },
             {
                   "name": "A. G. Audickų dviračių kolekcija",
-                  "text": "Museum mit einer privaten Fahrradsammlung in Panevėžys.",
+                  "text": "Die Fahrradsammlung von A.G. Audickas in Panevėžys zeigt eine Sammlung historischer Fahrräder.",
                   "category": "museum",
                   "coords": [
                         24.377084,
@@ -1594,7 +1594,7 @@ imageHint: "Siauliai city square and cathedral",
             },
             {
                   "name": "A. G. Audickų dviračių kolekcija",
-                  "text": "Magán kerékpárgyűjteményt bemutató múzeum Panevėžysben.",
+                  "text": "A panevėžysi A.G. Audickas kerékpárgyűjteménye történelmi bicikliket mutat be.",
                   "category": "museum",
                   "coords": [
                         24.377084,
@@ -1875,7 +1875,7 @@ imageHint: "Siauliai city square and cathedral",
             },
             {
                   "name": "A. G. Audickų dviračių kolekcija",
-                  "text": "Muzeu cu o colecție privată de biciclete situat în Panevėžys.",
+                  "text": "Colecția de biciclete a lui A.G. Audickas din Panevėžys expune o colecție de biciclete istorice.",
                   "category": "museum",
                   "coords": [
                         24.377084,
@@ -2156,7 +2156,7 @@ imageHint: "Siauliai city square and cathedral",
             },
             {
                   "name": "A. G. Audickų dviračių kolekcija",
-                  "text": "Private bicycle collection museum located in Panevėžys.",
+                  "text": "The bicycle collection of A.G. Audickas in Panevėžys shows a collection of historical bicycles.",
                   "category": "museum",
                   "coords": [
                         24.377084,
@@ -2520,7 +2520,7 @@ imageHint: "Panevezys city park and river",
             },
             {
                   "name": "Sveikatos tako apžvalgos aikštelė",
-                  "text": "Ein Aussichtspunkt entlang des Gesundheitspfads in Alytus.",
+                  "text": "Der Aussichtspunkt am Gesundheitspfad in Alytus bietet einen Panoramablick über die Stadt.",
                   "category": "natural",
                   "coords": [
                         24.079792,
@@ -2684,7 +2684,7 @@ imageHint: "Panevezys city park and river",
             },
             {
                   "name": "Sveikatos tako apžvalgos aikštelė",
-                  "text": "Kilátóhely az alytusi egészségsétány mentén.",
+                  "text": "Az alytusi egészségösvény kilátója panorámás kilátást nyújt a városra.",
                   "category": "natural",
                   "coords": [
                         24.079792,
@@ -2848,7 +2848,7 @@ imageHint: "Panevezys city park and river",
             },
             {
                   "name": "Sveikatos tako apžvalgos aikštelė",
-                  "text": "Un punct de observație situat de-a lungul traseului de sănătate din Alytus.",
+                  "text": "Platforma de observare de pe poteca sănătății din Alytus oferă o vedere panoramică asupra orașului.",
                   "category": "natural",
                   "coords": [
                         24.079792,
@@ -3012,7 +3012,7 @@ imageHint: "Panevezys city park and river",
             },
             {
                   "name": "Sveikatos tako apžvalgos aikštelė",
-                  "text": "A viewpoint located along the health trail in Alytus.",
+                  "text": "The observation deck on the health path in Alytus offers a panoramic view of the city.",
                   "category": "natural",
                   "coords": [
                         24.079792,
@@ -3223,7 +3223,7 @@ imageHint: "Alytus bridge over Nemunas river",
             },
             {
                   "name": "Baraginės tv.",
-                  "text": "Baraginės tv. in Marijampole ist ein Stausee, der zu Spaziergängen in der Natur einlädt.",
+                  "text": "Der Baraginės-See in Marijampolė ist ein ruhiger Angelsee.",
                   "category": "natural",
                   "coords": [
                         23.453434,
@@ -3268,7 +3268,7 @@ imageHint: "Alytus bridge over Nemunas river",
             },
             {
                   "name": "Mauglis ir vaikai",
-                  "text": "Mauglis ir vaikai in Marijampole ist ein familienfreundlicher Spielplatz mit vielen Attraktionen.",
+                  "text": "Die Skulpturengruppe 'Mauglis und Kinder' in Marijampolė stellt Figuren aus dem Dschungelbuch dar.",
                   "category": "family",
                   "coords": [
                         23.351262,
@@ -3378,7 +3378,7 @@ imageHint: "Alytus bridge over Nemunas river",
             },
             {
                   "name": "Baraginės tv.",
-                  "text": "A Marijampole településen található Baraginės tv. egy víztározó, amely természetjárásra hívogat.",
+                  "text": "A marijampolėi Baraginės-tó egy csendes horgásztó.",
                   "category": "natural",
                   "coords": [
                         23.453434,
@@ -3423,7 +3423,7 @@ imageHint: "Alytus bridge over Nemunas river",
             },
             {
                   "name": "Mauglis ir vaikai",
-                  "text": "A Marijampole-i Mauglis ir vaikai egy családbarát játszótér számos látnivalóval.",
+                  "text": "A marijampolėi 'Mauglis és a gyerekek' szoborcsoport a dzsungel könyve szereplőit ábrázolja.",
                   "category": "family",
                   "coords": [
                         23.351262,
@@ -3533,7 +3533,7 @@ imageHint: "Alytus bridge over Nemunas river",
             },
             {
                   "name": "Baraginės tv.",
-                  "text": "Baraginės tv. din Marijampole este un lac de acumulare ce invită la plimbări în natură.",
+                  "text": "Lacul Baraginės din Marijampolė este un lac de pescuit liniștit.",
                   "category": "natural",
                   "coords": [
                         23.453434,
@@ -3578,7 +3578,7 @@ imageHint: "Alytus bridge over Nemunas river",
             },
             {
                   "name": "Mauglis ir vaikai",
-                  "text": "Mauglis ir vaikai din Marijampole este un loc de joacă prietenos pentru familii, cu multe atracții.",
+                  "text": "Grupul de sculpturi 'Mauglis și copiii' din Marijampolė prezintă personaje din Cartea junglei.",
                   "category": "family",
                   "coords": [
                         23.351262,
@@ -3688,7 +3688,7 @@ imageHint: "Alytus bridge over Nemunas river",
             },
             {
                   "name": "Baraginės tv.",
-                  "text": "Baraginės tv. in Marijampole is a reservoir inviting for nature walks.",
+                  "text": "Lake Baraginės in Marijampolė is a calm fishing lake.",
                   "category": "natural",
                   "coords": [
                         23.453434,
@@ -3733,7 +3733,7 @@ imageHint: "Alytus bridge over Nemunas river",
             },
             {
                   "name": "Mauglis ir vaikai",
-                  "text": "Mauglis ir vaikai in Marijampole is a family-friendly playground with many attractions.",
+                  "text": "The sculpture group 'Mauglis and Children' in Marijampolė depicts characters from The Jungle Book.",
                   "category": "family",
                   "coords": [
                         23.351262,
@@ -3890,7 +3890,7 @@ imageHint: "Marijampole city square and church",
             },
             {
                   "name": "Kurmaičių II tv.",
-                  "text": "Kurmaičių II tv. in Mazeikiai ist ein lokales Ziel für Spaziergänge am Wasser.",
+                  "text": "Der Kurmaičių-II-See in Mažeikiai ist ein beliebter Badeort.",
                   "category": "natural",
                   "coords": [
                         22.253365,
@@ -4081,7 +4081,7 @@ imageHint: "Marijampole city square and church",
             },
             {
                   "name": "Kurmaičių II tv.",
-                  "text": "A Mazeikiai területén fekvő Kurmaičių II tv. egy helyi úti cél a vízparti sétákhoz.",
+                  "text": "A mažeikiai Kurmaičių II-tó népszerű fürdőhely.",
                   "category": "natural",
                   "coords": [
                         22.253365,
@@ -4272,7 +4272,7 @@ imageHint: "Marijampole city square and church",
             },
             {
                   "name": "Kurmaičių II tv.",
-                  "text": "Kurmaičių II tv. din Mazeikiai este o destinație locală pentru plimbări pe malul apei.",
+                  "text": "Lacul Kurmaičiai II din Mažeikiai este un loc popular de înot.",
                   "category": "natural",
                   "coords": [
                         22.253365,
@@ -4463,7 +4463,7 @@ imageHint: "Marijampole city square and church",
             },
             {
                   "name": "Kurmaičių II tv.",
-                  "text": "Kurmaičių II tv. in Mazeikiai is a local destination for walks by the water.",
+                  "text": "Lake Kurmaičiai II in Mažeikiai is a popular swimming spot.",
                   "category": "natural",
                   "coords": [
                         22.253365,
@@ -4620,7 +4620,7 @@ imageHint: "Mazeikiai industrial skyline and refinery",
             },
             {
                   "name": "Samulevičių sodyba",
-                  "text": "Ein Museum im ehemaligen Gehöft der Künstlerfamilie Samulevičius.",
+                  "text": "Die Samulevičiai-Hofstelle in Jonava ist ein Freilichtmuseum mit traditioneller Architektur.",
                   "category": "museum",
                   "coords": [
                         24.289444,
@@ -4710,7 +4710,7 @@ imageHint: "Mazeikiai industrial skyline and refinery",
             },
             {
                   "name": "Taurosta-Brücke",
-                  "text": "Eine Brücke, die den Fluss Neris in Jonava überquert.",
+                  "text": "Fußgängerbrücke über den Fluss Neris in Jonava.",
                   "category": "landmark",
                   "coords": [
                         24.315164,
@@ -4728,7 +4728,7 @@ imageHint: "Mazeikiai industrial skyline and refinery",
             },
             {
                   "name": "Bulotų ež.",
-                  "text": "Ein ruhiger See bei Jonava, der sich gut für Spaziergänge in der Natur eignet.",
+                  "text": "Der Bulotų-See in Jonava ist ein kleiner See mit Sandstrand.",
                   "category": "natural",
                   "coords": [
                         24.29342,
@@ -4800,7 +4800,7 @@ imageHint: "Mazeikiai industrial skyline and refinery",
             },
             {
                   "name": "Kunigiškių tv.",
-                  "text": "Ein ruhiger Stausee in Jonava, ideal für entspannende Spaziergänge.",
+                  "text": "Der Kunigiškių-See in Jonava ist ein Fischteich.",
                   "category": "natural",
                   "coords": [
                         24.290812,
@@ -4838,7 +4838,7 @@ imageHint: "Mazeikiai industrial skyline and refinery",
             },
             {
                   "name": "Samulevičių sodyba",
-                  "text": "Múzeum a Samulevičius művészcsalád egykori tanyáján.",
+                  "text": "A jonavai Samulevičiai-tanya egy szabadtéri múzeum hagyományos építészettel.",
                   "category": "museum",
                   "coords": [
                         24.289444,
@@ -4928,7 +4928,7 @@ imageHint: "Mazeikiai industrial skyline and refinery",
             },
             {
                   "name": "Taurostos tiltas",
-                  "text": "A Neris folyón átívelő híd Jonavában.",
+                  "text": "Gyalogoshíd a Neris folyó felett, Jonavában.",
                   "category": "landmark",
                   "coords": [
                         24.315164,
@@ -4946,7 +4946,7 @@ imageHint: "Mazeikiai industrial skyline and refinery",
             },
             {
                   "name": "Bulotų ež.",
-                  "text": "Egy nyugodt tó Jonava közelében, amely alkalmas természeti sétákhoz.",
+                  "text": "A jonavai Bulotų-tó egy kis tó homokos stranddal.",
                   "category": "natural",
                   "coords": [
                         24.29342,
@@ -5018,7 +5018,7 @@ imageHint: "Mazeikiai industrial skyline and refinery",
             },
             {
                   "name": "Kunigiškių tv.",
-                  "text": "Egy nyugodt víztározó Jonavában, amely ideális pihentető sétákhoz.",
+                  "text": "A jonavai Kunigiškių-tó egy halastó.",
                   "category": "natural",
                   "coords": [
                         24.290812,
@@ -5056,7 +5056,7 @@ imageHint: "Mazeikiai industrial skyline and refinery",
             },
             {
                   "name": "Samulevičių sodyba",
-                  "text": "Un muzeu situat în fosta gospodărie a familiei de artiști Samulevičius.",
+                  "text": "Gospodăria Samulevičiai din Jonava este un muzeu în aer liber cu arhitectură tradițională.",
                   "category": "museum",
                   "coords": [
                         24.289444,
@@ -5146,7 +5146,7 @@ imageHint: "Mazeikiai industrial skyline and refinery",
             },
             {
                   "name": "Taurostos tiltas",
-                  "text": "Un pod care traversează râul Neris în Jonava.",
+                  "text": "Pod pietonal peste râul Neris în Jonava.",
                   "category": "landmark",
                   "coords": [
                         24.315164,
@@ -5164,7 +5164,7 @@ imageHint: "Mazeikiai industrial skyline and refinery",
             },
             {
                   "name": "Bulotų ež.",
-                  "text": "Un lac liniștit lângă Jonava, potrivit pentru plimbări în natură.",
+                  "text": "Lacul Bulota din Jonava este un lac mic cu plajă nisipoasă.",
                   "category": "natural",
                   "coords": [
                         24.29342,
@@ -5236,7 +5236,7 @@ imageHint: "Mazeikiai industrial skyline and refinery",
             },
             {
                   "name": "Kunigiškių tv.",
-                  "text": "Un lac de acumulare liniștit în Jonava, ideal pentru plimbări relaxante.",
+                  "text": "Lacul Kunigiškiai din Jonava este un iaz de pești.",
                   "category": "natural",
                   "coords": [
                         24.290812,
@@ -5274,7 +5274,7 @@ imageHint: "Mazeikiai industrial skyline and refinery",
             },
             {
                   "name": "Samulevičių sodyba",
-                  "text": "A museum located in the former homestead of the Samulevičius artist family.",
+                  "text": "The Samulevičiai homestead in Jonava is an open-air museum with traditional architecture.",
                   "category": "museum",
                   "coords": [
                         24.289444,
@@ -5364,7 +5364,7 @@ imageHint: "Mazeikiai industrial skyline and refinery",
             },
             {
                   "name": "Taurosta Bridge",
-                  "text": "A bridge crossing the Neris River in Jonava.",
+                  "text": "Pedestrian bridge over the Neris River in Jonava.",
                   "category": "landmark",
                   "coords": [
                         24.315164,
@@ -5382,7 +5382,7 @@ imageHint: "Mazeikiai industrial skyline and refinery",
             },
             {
                   "name": "Bulotų ež.",
-                  "text": "A calm lake near Jonava, suitable for walks in nature.",
+                  "text": "Lake Bulota in Jonava is a small lake with a sandy beach.",
                   "category": "natural",
                   "coords": [
                         24.29342,
@@ -5454,7 +5454,7 @@ imageHint: "Mazeikiai industrial skyline and refinery",
             },
             {
                   "name": "Kunigiškių tv.",
-                  "text": "A calm reservoir in Jonava, ideal for relaxing walks.",
+                  "text": "Lake Kunigiškiai in Jonava is a fish pond.",
                   "category": "natural",
                   "coords": [
                         24.290812,
@@ -7937,7 +7937,7 @@ imageHint: "Visaginas modern apartment buildings in forest",
             },
             {
                   "name": "Baseinas",
-                  "text": "Ein öffentliches Schwimmbad in Tauragė für die Anwohner.",
+                  "text": "Das Schwimmbad in Tauragė hat eine 25-Meter-Bahn.",
                   "category": "recreational",
                   "coords": [
                         22.333666,
@@ -8164,7 +8164,7 @@ imageHint: "Visaginas modern apartment buildings in forest",
             },
             {
                   "name": "Baseinas",
-                  "text": "Közösségi úszómedence Tauragė lakosai számára.",
+                  "text": "A tauragėi uszoda rendelkezik egy 25 méteres sávval.",
                   "category": "recreational",
                   "coords": [
                         22.333666,
@@ -8391,7 +8391,7 @@ imageHint: "Visaginas modern apartment buildings in forest",
             },
             {
                   "name": "Baseinas",
-                  "text": "O piscină publică în Tauragė pentru rezidenți.",
+                  "text": "Piscina din Tauragė are un bazin de 25 de metri.",
                   "category": "recreational",
                   "coords": [
                         22.333666,
@@ -8618,7 +8618,7 @@ imageHint: "Visaginas modern apartment buildings in forest",
             },
             {
                   "name": "Baseinas",
-                  "text": "A public swimming pool in Tauragė for local residents.",
+                  "text": "The swimming pool in Tauragė has a 25-meter lane.",
                   "category": "recreational",
                   "coords": [
                         22.333666,
@@ -8730,7 +8730,7 @@ imageHint: "Taurage castle and museum",
             },
             {
                   "name": "Ukmergės Viešpaties Prisikėlimo cerkvė",
-                  "text": "Eine orthodoxe Kirche und ein religiöses Gebäude in Ukmergė.",
+                  "text": "Orthodoxe Kirche mit einer markanten blauen Kuppel in Ukmerge.",
                   "category": "religious",
                   "coords": [
                         24.784201,
@@ -8804,7 +8804,7 @@ imageHint: "Taurage castle and museum",
             },
             {
                   "name": "Ukmergės Viešpaties Prisikėlimo cerkvė",
-                  "text": "Ortodox templom és vallási épület Ukmergében.",
+                  "text": "Ortodox templom jellegzetes kék kupolával, Ukmergében.",
                   "category": "religious",
                   "coords": [
                         24.784201,
@@ -8878,7 +8878,7 @@ imageHint: "Taurage castle and museum",
             },
             {
                   "name": "Ukmergės Viešpaties Prisikėlimo cerkvė",
-                  "text": "O biserică ortodoxă și clădire religioasă în Ukmergė.",
+                  "text": "Biserică ortodoxă cu o cupolă albastră distinctivă în Ukmerge.",
                   "category": "religious",
                   "coords": [
                         24.784201,
@@ -8952,7 +8952,7 @@ imageHint: "Taurage castle and museum",
             },
             {
                   "name": "Ukmergės Viešpaties Prisikėlimo cerkvė",
-                  "text": "An Orthodox church and religious building in Ukmergė.",
+                  "text": "Orthodox church with a distinctive blue dome in Ukmerge.",
                   "category": "religious",
                   "coords": [
                         24.784201,
@@ -9470,7 +9470,7 @@ imageHint: "Plunge Oginski palace and park",
             },
             {
                   "name": "Kretingos Sv. Klaros seseru vienuolynas",
-                  "text": "Ein Kloster der Schwestern der Heiligen Klara in Kretinga.",
+                  "text": "Kloster der Klarissen in Kretinga.",
                   "category": "religious",
                   "coords": [
                         21.239382,
@@ -9553,7 +9553,7 @@ imageHint: "Plunge Oginski palace and park",
             },
             {
                   "name": "Kretingos Sv. Klaros seseru vienuolynas",
-                  "text": "Szent Klára nővérek kolostora Kretingában.",
+                  "text": "Klarissza kolostor Kretingában.",
                   "category": "religious",
                   "coords": [
                         21.239382,
@@ -9636,7 +9636,7 @@ imageHint: "Plunge Oginski palace and park",
             },
             {
                   "name": "Kretingos Sv. Klaros seseru vienuolynas",
-                  "text": "Mănăstirea Surorilor Sfintei Clara din Kretinga.",
+                  "text": "Mănăstirea Surorilor Clare în Kretinga.",
                   "category": "religious",
                   "coords": [
                         21.239382,
@@ -9719,7 +9719,7 @@ imageHint: "Plunge Oginski palace and park",
             },
             {
                   "name": "Kretingos Sv. Klaros seseru vienuolynas",
-                  "text": "A monastery of the Sisters of Saint Clare in Kretinga.",
+                  "text": "Monastery of the Poor Clares in Kretinga.",
                   "category": "religious",
                   "coords": [
                         21.239382,
@@ -9777,7 +9777,7 @@ imageHint: "Kretinga manor and winter garden",
       "de": [
             {
                   "name": "Šilutės Hugo Šojaus muziejus",
-                  "text": "Ein Museum in Šilutė, das dem Erbe des Gutshofs von Hugo Scheu gewidmet ist.",
+                  "text": "Das Hugo-Scheu-Museum in Šilutė zeigt Exponate zur Regionalgeschichte.",
                   "category": "museum",
                   "coords": [
                         21.459917,
@@ -9831,7 +9831,7 @@ imageHint: "Kretinga manor and winter garden",
             },
             {
                   "name": "Šilutės Šv. Kryžiaus bažnyčia",
-                  "text": "Eine katholische Kirche und ein Ort des Gebets in Šilutė.",
+                  "text": "Die Šilutės Šv. Kryžiaus bažnyčia ist eine katholische Backsteinkirche mit einem hohen Turm am Fluss Minge.",
                   "category": "religious",
                   "coords": [
                         21.486097,
@@ -9858,7 +9858,7 @@ imageHint: "Kretinga manor and winter garden",
             },
             {
                   "name": "Šlažų tiltas",
-                  "text": "Eine bemerkenswerte historische Brücke in der Nähe von Šilutė.",
+                  "text": "Brücke über den Fluss Šyša bei Silute.",
                   "category": "landmark",
                   "coords": [
                         21.454199,
@@ -9867,7 +9867,7 @@ imageHint: "Kretinga manor and winter garden",
             },
             {
                   "name": "Verdainės tiltas",
-                  "text": "Eine Brücke im Stadtteil Verdainė von Šilutė.",
+                  "text": "Eine 1910 erbaute Straßenbrücke in Šilutė.",
                   "category": "landmark",
                   "coords": [
                         21.494472,
@@ -9878,7 +9878,7 @@ imageHint: "Kretinga manor and winter garden",
       "hu": [
             {
                   "name": "Šilutės Hugo Šojaus muziejus",
-                  "text": "Šilutėi múzeum, amely Hugo Scheu birtokának örökségét mutatja be.",
+                  "text": "A šilutėi Hugo Scheu Múzeum helytörténeti tárgyakat mutat be.",
                   "category": "museum",
                   "coords": [
                         21.459917,
@@ -9932,7 +9932,7 @@ imageHint: "Kretinga manor and winter garden",
             },
             {
                   "name": "Šilutės Šv. Kryžiaus bažnyčia",
-                  "text": "Katolikus templom és vallási helyszín Šilutében.",
+                  "text": "A šilutėi Szent Kereszt-templom egy téglából épült katolikus templom magas toronnyal a Minge folyó mellett.",
                   "category": "religious",
                   "coords": [
                         21.486097,
@@ -9959,7 +9959,7 @@ imageHint: "Kretinga manor and winter garden",
             },
             {
                   "name": "Šlažų tiltas",
-                  "text": "Nevezetes történelmi híd Šilutė környékén.",
+                  "text": "Híd a Šyša folyó felett, Silute közelében.",
                   "category": "landmark",
                   "coords": [
                         21.454199,
@@ -9968,7 +9968,7 @@ imageHint: "Kretinga manor and winter garden",
             },
             {
                   "name": "Verdainės tiltas",
-                  "text": "Híd Šilutė Verdainė városrészében.",
+                  "text": "Egy 1910-ben épült közúti híd Šilutėben.",
                   "category": "landmark",
                   "coords": [
                         21.494472,
@@ -9979,7 +9979,7 @@ imageHint: "Kretinga manor and winter garden",
       "ro": [
             {
                   "name": "Šilutės Hugo Šojaus muziejus",
-                  "text": "Un muzeu din Šilutė dedicat moștenirii domeniului Hugo Scheu.",
+                  "text": "Muzeul Hugo Scheu din Šilutė expune obiecte de istorie locală.",
                   "category": "museum",
                   "coords": [
                         21.459917,
@@ -10033,7 +10033,7 @@ imageHint: "Kretinga manor and winter garden",
             },
             {
                   "name": "Šilutės Šv. Kryžiaus bažnyčia",
-                  "text": "O biserică catolică și lăcaș de cult în Šilutė.",
+                  "text": "Biserica Sfintei Cruci din Šilutė este o biserică catolică de cărămidă cu un turn înalt lângă râul Minge.",
                   "category": "religious",
                   "coords": [
                         21.486097,
@@ -10060,7 +10060,7 @@ imageHint: "Kretinga manor and winter garden",
             },
             {
                   "name": "Šlažų tiltas",
-                  "text": "Un pod istoric remarcabil în apropiere de Šilutė.",
+                  "text": "Pod peste râul Šyša lângă Silute.",
                   "category": "landmark",
                   "coords": [
                         21.454199,
@@ -10069,7 +10069,7 @@ imageHint: "Kretinga manor and winter garden",
             },
             {
                   "name": "Verdainės tiltas",
-                  "text": "Un pod în zona Verdainė din Šilutė.",
+                  "text": "Un pod rutier construit în 1910 în Šilutė.",
                   "category": "landmark",
                   "coords": [
                         21.494472,
@@ -10080,7 +10080,7 @@ imageHint: "Kretinga manor and winter garden",
       "en": [
             {
                   "name": "Šilutė Hugo Scheu museum",
-                  "text": "A museum in Šilutė dedicated to the heritage of the Hugo Scheu estate.",
+                  "text": "The Hugo Scheu Museum in Šilutė exhibits local history artifacts.",
                   "category": "museum",
                   "coords": [
                         21.459917,
@@ -10134,7 +10134,7 @@ imageHint: "Kretinga manor and winter garden",
             },
             {
                   "name": "Šilutės Šv. Kryžiaus bažnyčia",
-                  "text": "A Catholic church and place of worship in Šilutė.",
+                  "text": "The Church of the Holy Cross in Šilutė is a brick Catholic church with a tall spire by the Minge River.",
                   "category": "religious",
                   "coords": [
                         21.486097,
@@ -10161,7 +10161,7 @@ imageHint: "Kretinga manor and winter garden",
             },
             {
                   "name": "Šlažų tiltas",
-                  "text": "A notable historical bridge in the vicinity of Šilutė.",
+                  "text": "Bridge over the Šyša River near Silute.",
                   "category": "landmark",
                   "coords": [
                         21.454199,
@@ -10170,7 +10170,7 @@ imageHint: "Kretinga manor and winter garden",
             },
             {
                   "name": "Verdainės tiltas",
-                  "text": "A bridge in the Verdainė area of Šilutė.",
+                  "text": "A road bridge built in 1910 in Šilutė.",
                   "category": "landmark",
                   "coords": [
                         21.494472,
@@ -10264,7 +10264,7 @@ imageHint: "Silute old post office and canal",
             },
             {
                   "name": "Medžių labirintas",
-                  "text": "Eine Außenattraktion mit einem Baum- oder Heckenlabyrinth in Radviliškis.",
+                  "text": "Das Baumlabyrinth in Radviliškis ist ein Heckenirrgarten.",
                   "category": "landmark",
                   "coords": [
                         23.538905,
@@ -10365,7 +10365,7 @@ imageHint: "Silute old post office and canal",
             },
             {
                   "name": "Medžių labirintas",
-                  "text": "Kültéri falabirintus Radviliškisben.",
+                  "text": "A radviliškisi faútvesztő egy sövénylabirintus.",
                   "category": "landmark",
                   "coords": [
                         23.538905,
@@ -10466,7 +10466,7 @@ imageHint: "Silute old post office and canal",
             },
             {
                   "name": "Medžių labirintas",
-                  "text": "O atracție în aer liber reprezentată de un labirint de copaci în Radviliškis.",
+                  "text": "Labirintul de copaci din Radviliškis este un labirint de gard viu.",
                   "category": "landmark",
                   "coords": [
                         23.538905,
@@ -10567,7 +10567,7 @@ imageHint: "Silute old post office and canal",
             },
             {
                   "name": "Medžių labirintas",
-                  "text": "An outdoor tree maze attraction in Radviliškis.",
+                  "text": "The tree labyrinth in Radviliškis is a hedge maze.",
                   "category": "landmark",
                   "coords": [
                         23.538905,
@@ -12030,7 +12030,7 @@ imageHint: "Palanga beach and sea pier at sunset",
             },
             {
                   "name": "Gargždų Šv. arkangelo Mykolo bažnyčia",
-                  "text": "Eine katholische Kirche und ein religiöses Gebäude in Gargždai.",
+                  "text": "Katholische Kirche des Erzengels Michael in Gargždai.",
                   "category": "religious",
                   "coords": [
                         21.402062,
@@ -12140,7 +12140,7 @@ imageHint: "Palanga beach and sea pier at sunset",
             },
             {
                   "name": "Gargždų Šv. arkangelo Mykolo bažnyčia",
-                  "text": "Katolikus templom és vallási épület Gargždaiban.",
+                  "text": "Szent Mihály arkangyal római katolikus temploma Gargždaiban.",
                   "category": "religious",
                   "coords": [
                         21.402062,
@@ -12250,7 +12250,7 @@ imageHint: "Palanga beach and sea pier at sunset",
             },
             {
                   "name": "Gargždų Šv. arkangelo Mykolo bažnyčia",
-                  "text": "O biserică catolică și clădire religioasă în Gargždai.",
+                  "text": "Biserica catolică a Sfântului Mihail Arhanghelul din Gargždai.",
                   "category": "religious",
                   "coords": [
                         21.402062,
@@ -12360,7 +12360,7 @@ imageHint: "Palanga beach and sea pier at sunset",
             },
             {
                   "name": "Gargždų Šv. arkangelo Mykolo bažnyčia",
-                  "text": "A Catholic church and religious building in Gargždai.",
+                  "text": "Catholic church of St. Michael the Archangel in Gargždai.",
                   "category": "religious",
                   "coords": [
                         21.402062,
@@ -12477,7 +12477,1564 @@ imageHint: "Gargzdai city center and park",
     },
     image: "/poi-images/lithuania-gargzdai-cities-v2.webp",
 },  {
-    id: "lithuania-druskininkai-cities-v2", "sights": {"de": [{"name": "Druskininkų miesto muziejus", "text": "Ein Heimatmuseum in einer markanten Villa im Kurort Druskininkai.", "category": "museum", "coords": [23.973087, 54.016657]}, {"name": "Vasaros amfiteatras", "text": "Ein Sommer-Freilichttheater, in dem kulturelle Veranstaltungen in Druskininkai stattfinden.", "category": "cultural", "coords": [23.967325, 54.028475]}, {"name": "M.K.Čiurlionio memorialinis muziejus", "text": "Das M.K.Čiurlionio memorialinis muziejus in Druskininkai widmet sich dem Leben und Schaffen des berühmten Künstlers. Besucher des Museums erhalten spannende Einblicke in das Werk des litauischen Malers und Komponisten.", "category": "museum", "coords": [23.969428, 54.01772]}, {"name": "Rezistencijos ir tremties muziejus", "text": "Ein Museum, das die Geschichte des Widerstands und der Deportationen in Druskininkai dokumentiert.", "category": "museum", "coords": [23.973058, 54.022063]}, {"name": "ONE nuotykių parkas", "text": "Ein Abenteuerpark in Druskininkai mit verschiedenen Kletter- und Seilrutschenparcours.", "category": "family", "coords": [23.973018, 54.025602]}, {"name": "VIVI Wake Druskininkai", "text": "Ein Wakeboard-Park in Druskininkai, der für Wassersportler konzipiert wurde.", "category": "family", "coords": [23.995354, 54.008712]}, {"name": "Druskininkų gydykla", "text": "Ein traditionelles Kurhaus und Gesundheitszentrum im Kurort Druskininkai.", "category": "family", "coords": [23.975212, 54.022449]}, {"name": "Miško muziejus „Girios aidas“", "text": "Ein Waldmuseum in Druskininkai mit Ausstellungen über die lokale Natur und Tierwelt.", "category": "museum", "coords": [24.003848, 54.007115]}, {"name": "Žako Lipšico memorialinis muziejus", "text": "Ein Gedenkmuseum für den berühmten Bildhauer Jacques Lipchitz an seinem Geburtsort.", "category": "museum", "coords": [23.972158, 54.020043]}, {"name": "Druskininkų lynų kelias", "text": "Eine Seilbahn in Druskininkai, die das Stadtzentrum mit der Snow Arena verbindet.", "category": "landmark", "coords": [23.972702, 54.023588]}, {"name": "Druskininkų Vandens Parkas", "text": "Ein großer Indoor-Wasserpark in Druskininkai mit Pools, Rutschen und Saunen.", "category": "landmark", "coords": [23.97453, 54.023424]}, {"name": "Snow Arena", "text": "Ein ganzjähriger Indoor-Skikomplex und bekanntes Wahrzeichen in Druskininkai.", "category": "natural", "coords": [23.959705, 54.030929]}, {"name": "Apverstas namas", "text": "Eine beliebte Touristenattraktion „Das auf dem Kopf stehende Haus“ in Druskininkai.", "category": "landmark", "coords": [23.974096, 54.01958]}, {"name": "Druskininkų ir Aušros šaltinis", "text": "Berühmte Mineralwasserquellen im Kurpark von Druskininkai.", "category": "landmark", "coords": [23.977131, 54.021676]}, {"name": "Druskininkų Dievo Motinos ikonos „Visų liūdinčiųjų Džiaugsmas“ cerkvė", "text": "Eine orthodoxe Kirche in Druskininkai, die für ihre markante blaue Holzarchitektur bekannt ist.", "category": "religious", "coords": [23.971185, 54.021177]}, {"name": "Druskininkų Švč. Mergelės Marijos Škaplierinės bažnyčia", "text": "Die katholische Hauptkirche in Druskininkai, erbaut im neugotischen Stil.", "category": "religious", "coords": [23.974675, 54.017267]}, {"name": "Druskininkų Šv. Gabrieliaus cerkvė", "text": "Ein orthodoxes Gotteshaus in der Gegend von Druskininkai.", "category": "religious", "coords": [23.973489, 54.012707]}, {"name": "Parko tiltas", "text": "Eine malerische Fußgängerbrücke über den Fluss Ratnyčia in Druskininkai.", "category": "landmark", "coords": [23.976565, 54.024384]}, {"name": "Girininkijos tv.", "text": "Girininkijos tv. in Druskininkai ist ein idyllischer Stausee inmitten der Natur.", "category": "natural", "coords": [24.025484, 54.01477]}, {"name": "ež. Gervinis", "text": "Der See Gervinis bei Druskininkai lädt zu entspannten Stunden am Wasser ein.", "category": "natural", "coords": [23.900993, 54.06479]}, {"name": "ež. Azagis", "text": "Der See Azagis ist ein ruhiges Gewässer in Druskininkai, ideal für Naturliebhaber.", "category": "natural", "coords": [23.862096, 54.05384]}, {"name": "ež. Mergelių Akys", "text": "Der See Mergelių Akys bietet eine malerische Kulisse für Spaziergänge in Druskininkai.", "category": "natural", "coords": [23.97005, 54.010432]}, {"name": "ež. Juodelis", "text": "Der See Juodelis ist ein kleiner Naturschatz in der Nähe von Druskininkai.", "category": "natural", "coords": [23.969622, 54.07739]}, {"name": "ež. Klonis", "text": "Genießen Sie die friedliche Atmosphäre am See Klonis in Druskininkai.", "category": "natural", "coords": [23.988439, 54.076449]}, {"name": "ež. Kruglis", "text": "Der See Kruglis ist ein ruhiges Ausflugsziel in der Region Druskininkai.", "category": "natural", "coords": [23.964199, 54.078719]}, {"name": "ež. Ončiuškis", "text": "Der See Ončiuškis lädt zu entspannten Momenten in der Natur von Druskininkai ein.", "category": "natural", "coords": [23.981324, 54.077002]}, {"name": "ež. Juodaitis", "text": "Der See Juodaitis ist ein malerisches Gewässer in der Umgebung von Druskininkai.", "category": "natural", "coords": [23.891081, 54.030409]}, {"name": "ež. Varlinis", "text": "Der See Varlinis bietet eine friedliche Umgebung für Erholungssuchende in Druskininkai.", "category": "natural", "coords": [24.053945, 54.023261]}, {"name": "ež. Grūtas", "text": "Der See Grūtas ist ein bekanntes Gewässer in Druskininkai, umgeben von schöner Landschaft.", "category": "natural", "coords": [24.081587, 54.026591]}, {"name": "Baltosios Ančios HE tv.", "text": "Das Baltosios Ančios Reservoir ist ein beeindruckendes Gewässer in Druskininkai.", "category": "natural", "coords": [23.789271, 53.992215]}, {"name": "ež. Ilgis", "text": "Der See Ilgis zeichnet sich durch seine ruhige Lage in Druskininkai aus.", "category": "natural", "coords": [24.08159, 54.0393]}, {"name": "Neravų tv.", "text": "Das Neravų Reservoir bietet eine friedliche Kulisse für Naturbeobachtungen in Druskininkai.", "category": "natural", "coords": [24.031444, 54.030564]}, {"name": "Alkos I tv.", "text": "Das Alkos I Reservoir ist ein lokaler Ort der Ruhe in Druskininkai.", "category": "natural", "coords": [23.98968, 54.002792]}, {"name": "Alkos II tv.", "text": "Das Alkos II Reservoir lädt zu einem entspannten Aufenthalt im Freien in Druskininkai ein.", "category": "natural", "coords": [23.993638, 54.007381]}, {"name": "ež. Baltajis Bilsas", "text": "Der See Baltajis Bilsas ist ein idyllisches Gewässer in der Nähe von Druskininkai.", "category": "natural", "coords": [23.876179, 54.057353]}, {"name": "ež. Juodiškis", "text": "Der See Juodiškis bietet eine stille Umgebung für einen Ausflug in Druskininkai.", "category": "natural", "coords": [24.006492, 54.070905]}, {"name": "ež. Pamelnyčys", "text": "Der See Pamelnyčys ist ein ruhiger Ort, um die Natur in Druskininkai zu genießen.", "category": "natural", "coords": [24.014208, 54.072235]}, {"name": "ež. Vidutinis", "text": "Der See Vidutinis ist ein malerischer Punkt in der Wasserlandschaft von Druskininkai.", "category": "natural", "coords": [24.011531, 54.074292]}, {"name": "ež. Skirzaitis", "text": "Der See Skirzaitis lädt zu ruhigen Spaziergängen am Ufer in Druskininkai ein.", "category": "natural", "coords": [23.881707, 54.006963]}, {"name": "ež. Skirzius", "text": "Der See Skirzius ist ein friedliches Naturobjekt in der Region Druskininkai.", "category": "natural", "coords": [23.885462, 54.016183]}, {"name": "ež. Ilgelis", "text": "Der See Ilgelis bietet eine entspannende Aussicht in Druskininkai.", "category": "natural", "coords": [23.961441, 54.083705]}, {"name": "ež. Maželis", "text": "Der See Maželis ist ein ruhiger kleiner See in Druskininkai.", "category": "natural", "coords": [23.955892, 54.087199]}, {"name": "Vijūnėlės tv.", "text": "Das Vijūnėlės Reservoir ist ein beliebter Ort für Freizeitaktivitäten in Druskininkai.", "category": "natural", "coords": [23.963217, 54.016439]}], "hu": [{"name": "Druskininkų miesto muziejus", "text": "Helytörténeti múzeum egy jellegzetes villában Druskininkai üdülővárosában.", "category": "museum", "coords": [23.973087, 54.016657]}, {"name": "Vasaros amfiteatras", "text": "Kulturális eseményeknek otthont adó szabadtéri nyári amfiteátrum Druskininkaiban.", "category": "cultural", "coords": [23.967325, 54.028475]}, {"name": "M.K.Čiurlionio memorialinis muziejus", "text": "A Druskininkai városában található M.K.Čiurlionio memorialinis muziejus a híres művész életének és munkásságának állít emléket. A múzeum látogatói izgalmas betekintést nyerhetnek a litván festő és zeneszerző alkotásaiba.", "category": "museum", "coords": [23.969428, 54.01772]}, {"name": "Rezistencijos ir tremties muziejus", "text": "Druskininkai ellenállásának és deportálásainak történetét dokumentáló múzeum.", "category": "museum", "coords": [23.973058, 54.022063]}, {"name": "ONE nuotykių parkas", "text": "Különféle mászó- és kötélpályákat kínáló kalandpark Druskininkaiban.", "category": "family", "coords": [23.973018, 54.025602]}, {"name": "VIVI Wake Druskininkai", "text": "Vízisportok kedvelőinek kialakított wakeboard-pálya Druskininkaiban.", "category": "family", "coords": [23.995354, 54.008712]}, {"name": "Druskininkų gydykla", "text": "Hagyományos gyógyfürdő és egészségügyi kezelőközpont Druskininkai üdülőhelyén.", "category": "family", "coords": [23.975212, 54.022449]}, {"name": "Miško muziejus „Girios aidas“", "text": "Erdészeti múzeum Druskininkaiban, a helyi természetet és vadvilágot bemutató kiállításokkal.", "category": "museum", "coords": [24.003848, 54.007115]}, {"name": "Žako Lipšico memorialinis muziejus", "text": "Emlékmúzeum a híres szobrász, Jacques Lipchitz tiszteletére szülőhelyén.", "category": "museum", "coords": [23.972158, 54.020043]}, {"name": "Druskininkų lynų kelias", "text": "Druskininkai felvonórendszere, amely összeköti a városközpontot a Snow Arenával.", "category": "landmark", "coords": [23.972702, 54.023588]}, {"name": "Druskininkų Vandens Parkas", "text": "Nagy beltéri vízipark Druskininkaiban medencékkel, csúszdákkal és szaunákkal.", "category": "landmark", "coords": [23.97453, 54.023424]}, {"name": "Snow Arena", "text": "Egész évben üzemelő fedett síkomplexum és látványosság Druskininkaiban.", "category": "natural", "coords": [23.959705, 54.030929]}, {"name": "Apverstas namas", "text": "Népszerű „fordított ház” turisztikai látványosság Druskininkaiban.", "category": "landmark", "coords": [23.974096, 54.01958]}, {"name": "Druskininkų ir Aušros šaltinis", "text": "Híres ásványvízforrások Druskininkai üdülőparkjában.", "category": "landmark", "coords": [23.977131, 54.021676]}, {"name": "Druskininkų Dievo Motinos ikonos „Visų liūdinčiųjų Džiaugsmas“ cerkvė", "text": "Jellegzetes kék faarchitektúrájáról ismert ortodox templom Druskininkaiban.", "category": "religious", "coords": [23.971185, 54.021177]}, {"name": "Druskininkų Švč. Mergelės Marijos Škaplierinės bažnyčia", "text": "Druskininkai fő katolikus temploma, amely neogótikus stílusban épült.", "category": "religious", "coords": [23.974675, 54.017267]}, {"name": "Druskininkų Šv. Gabrieliaus cerkvė", "text": "Ortodox istentiszteleti hely Druskininkai területén.", "category": "religious", "coords": [23.973489, 54.012707]}, {"name": "Parko tiltas", "text": "Festői gyaloghíd a Ratnyčia folyón Druskininkaiban.", "category": "landmark", "coords": [23.976565, 54.024384]}, {"name": "Girininkijos tv.", "text": "A Druskininkai-ban található Girininkijos tv. egy idilli víztározó a természet közepén.", "category": "natural", "coords": [24.025484, 54.01477]}, {"name": "ež. Gervinis", "text": "A Druskininkai környéki Gervinis tó pihentető órákra hív a vízparton.", "category": "natural", "coords": [23.900993, 54.06479]}, {"name": "ež. Azagis", "text": "Az Azagis-tó egy nyugodt vízfelület Druskininkai területén, amely ideális a természet kedvelőinek.", "category": "natural", "coords": [23.862096, 54.05384]}, {"name": "ež. Mergelių Akys", "text": "A Mergelių Akys-tó festői környezetet biztosít a sétákhoz Druskininkaiban.", "category": "natural", "coords": [23.97005, 54.010432]}, {"name": "ež. Juodelis", "text": "A Juodelis-tó egy apró természeti kincs Druskininkai közelében.", "category": "natural", "coords": [23.969622, 54.07739]}, {"name": "ež. Klonis", "text": "Élvezze a Klonis-tó békés hangulatát Druskininkaiban.", "category": "natural", "coords": [23.988439, 54.076449]}, {"name": "ež. Kruglis", "text": "A Kruglis-tó egy nyugodt kirándulóhely Druskininkai régiójában.", "category": "natural", "coords": [23.964199, 54.078719]}, {"name": "ež. Ončiuškis", "text": "Az Ončiuškis-tó pihentető pillanatokra hív Druskininkai természetében.", "category": "natural", "coords": [23.981324, 54.077002]}, {"name": "ež. Juodaitis", "text": "A Juodaitis-tó egy festői vízfelület Druskininkai környékén.", "category": "natural", "coords": [23.891081, 54.030409]}, {"name": "ež. Varlinis", "text": "A Varlinis-tó békés környezetet kínál a pihenni vágyóknak Druskininkaiban.", "category": "natural", "coords": [24.053945, 54.023261]}, {"name": "ež. Grūtas", "text": "A Grūtas-tó egy ismert vízfelület Druskininkaiban, szép tájjal körülvéve.", "category": "natural", "coords": [24.081587, 54.026591]}, {"name": "Baltosios Ančios HE tv.", "text": "A Baltosios Ančios-víztározó egy lenyűgöző vízfelület Druskininkaiban.", "category": "natural", "coords": [23.789271, 53.992215]}, {"name": "ež. Ilgis", "text": "Az Ilgis-tavat a nyugodt elhelyezkedése jellemzi Druskininkaiban.", "category": "natural", "coords": [24.08159, 54.0393]}, {"name": "Neravų tv.", "text": "A Neravų-víztározó békés hátteret biztosít a természet megfigyeléséhez Druskininkaiban.", "category": "natural", "coords": [24.031444, 54.030564]}, {"name": "Alkos I tv.", "text": "Az Alkos I-víztározó a nyugalom egyik helyi szigete Druskininkaiban.", "category": "natural", "coords": [23.98968, 54.002792]}, {"name": "Alkos II tv.", "text": "Az Alkos II-víztározó kellemes szabadtéri kikapcsolódásra hív Druskininkaiban.", "category": "natural", "coords": [23.993638, 54.007381]}, {"name": "ež. Baltajis Bilsas", "text": "A Baltajis Bilsas-tó egy idilli vízfelület Druskininkai közelében.", "category": "natural", "coords": [23.876179, 54.057353]}, {"name": "ež. Juodiškis", "text": "A Juodiškis-tó csendes környezetet biztosít egy kiránduláshoz Druskininkaiban.", "category": "natural", "coords": [24.006492, 54.070905]}, {"name": "ež. Pamelnyčys", "text": "A Pamelnyčys-tó nyugodt hely a természet élvezetére Druskininkaiban.", "category": "natural", "coords": [24.014208, 54.072235]}, {"name": "ež. Vidutinis", "text": "A Vidutinis-tó a druskininkai vízparti táj egyik festői pontja.", "category": "natural", "coords": [24.011531, 54.074292]}, {"name": "ež. Skirzaitis", "text": "A Skirzaitis-tó nyugodt vízparti sétákra hív Druskininkaiban.", "category": "natural", "coords": [23.881707, 54.006963]}, {"name": "ež. Skirzius", "text": "A Skirzius-tó egy békés természeti képződmény Druskininkai régiójában.", "category": "natural", "coords": [23.885462, 54.016183]}, {"name": "ež. Ilgelis", "text": "Az Ilgelis-tó pihentető kilátást nyújt Druskininkaiban.", "category": "natural", "coords": [23.961441, 54.083705]}, {"name": "ež. Maželis", "text": "A Maželis-tó egy csendes kis tó Druskininkaiban.", "category": "natural", "coords": [23.955892, 54.087199]}, {"name": "Vijūnėlės tv.", "text": "A Vijūnėlės-víztározó népszerű hely a szabadidős tevékenységekhez Druskininkaiban.", "category": "natural", "coords": [23.963217, 54.016439]}], "ro": [{"name": "Druskininkų miesto muziejus", "text": "Un muzeu de istorie locală situat într-o vilă distinctivă din orașul stațiune Druskininkai.", "category": "museum", "coords": [23.973087, 54.016657]}, {"name": "Vasaros amfiteatras", "text": "Un amfiteatru de vară în aer liber care găzduiește evenimente culturale în Druskininkai.", "category": "cultural", "coords": [23.967325, 54.028475]}, {"name": "M.K.Čiurlionio memorialinis muziejus", "text": "M.K.Čiurlionio memorialinis muziejus din Druskininkai este dedicat vieții și creației celebrului artist. Vizitatorii muzeului primesc informații captivante despre opera pictorului și compozitorului lituanian.", "category": "museum", "coords": [23.969428, 54.01772]}, {"name": "Rezistencijos ir tremties muziejus", "text": "Un muzeu care documentează istoria rezistenței și deportărilor din Druskininkai.", "category": "museum", "coords": [23.973058, 54.022063]}, {"name": "ONE nuotykių parkas", "text": "Un parc de aventură din Druskininkai care oferă diverse trasee de escaladă și tiroliană.", "category": "family", "coords": [23.973018, 54.025602]}, {"name": "VIVI Wake Druskininkai", "text": "Un parc de wakeboarding din Druskininkai conceput pentru pasionații de sporturi nautice.", "category": "family", "coords": [23.995354, 54.008712]}, {"name": "Druskininkų gydykla", "text": "O stațiune balneară tradițională și un centru de tratament în stațiunea Druskininkai.", "category": "family", "coords": [23.975212, 54.022449]}, {"name": "Miško muziejus „Girios aidas“", "text": "Un muzeu al pădurii din Druskininkai, cu expoziții despre natura și fauna locală.", "category": "museum", "coords": [24.003848, 54.007115]}, {"name": "Žako Lipšico memorialinis muziejus", "text": "Un muzeu memorial dedicat celebrului sculptor Jacques Lipchitz în locul său natal.", "category": "museum", "coords": [23.972158, 54.020043]}, {"name": "Druskininkų lynų kelias", "text": "Un sistem de telecabină din Druskininkai care conectează centrul orașului cu Snow Arena.", "category": "landmark", "coords": [23.972702, 54.023588]}, {"name": "Druskininkų Vandens Parkas", "text": "Un mare parc acvatic interior din Druskininkai, cu piscine, tobogane și saune.", "category": "landmark", "coords": [23.97453, 54.023424]}, {"name": "Snow Arena", "text": "Un complex de schi interior deschis tot anul și un punct de referință în Druskininkai.", "category": "natural", "coords": [23.959705, 54.030929]}, {"name": "Apverstas namas", "text": "O atracție turistică populară de tip „casa răsturnată” situată în Druskininkai.", "category": "landmark", "coords": [23.974096, 54.01958]}, {"name": "Druskininkų ir Aušros šaltinis", "text": "Izvoare de apă minerală renumite situate în parcul stațiunii Druskininkai.", "category": "landmark", "coords": [23.977131, 54.021676]}, {"name": "Druskininkų Dievo Motinos ikonos „Visų liūdinčiųjų Džiaugsmas“ cerkvė", "text": "O biserică ortodoxă din Druskininkai, cunoscută pentru arhitectura sa din lemn albastru.", "category": "religious", "coords": [23.971185, 54.021177]}, {"name": "Druskininkų Švč. Mergelės Marijos Škaplierinės bažnyčia", "text": "Principala biserică catolică din Druskininkai, construită în stil neogotic.", "category": "religious", "coords": [23.974675, 54.017267]}, {"name": "Druskininkų Šv. Gabrieliaus cerkvė", "text": "Un lăcaș de cult ortodox situat în zona Druskininkai.", "category": "religious", "coords": [23.973489, 54.012707]}, {"name": "Parko tiltas", "text": "Un pod pietonal pitoresc care traversează râul Ratnyčia în Druskininkai.", "category": "landmark", "coords": [23.976565, 54.024384]}, {"name": "Girininkijos tv.", "text": "Girininkijos tv. din Druskininkai este un lac de acumulare idilic în mijlocul naturii.", "category": "natural", "coords": [24.025484, 54.01477]}, {"name": "ež. Gervinis", "text": "Lacul Gervinis de lângă Druskininkai invită la ore de relaxare pe malul apei.", "category": "natural", "coords": [23.900993, 54.06479]}, {"name": "ež. Azagis", "text": "Lacul Azagis este o întindere de apă liniștită în Druskininkai, ideală pentru iubitorii de natură.", "category": "natural", "coords": [23.862096, 54.05384]}, {"name": "ež. Mergelių Akys", "text": "Lacul Mergelių Akys oferă un cadru pitoresc pentru plimbări în Druskininkai.", "category": "natural", "coords": [23.97005, 54.010432]}, {"name": "ež. Juodelis", "text": "Lacul Juodelis este o mică comoară naturală situată lângă Druskininkai.", "category": "natural", "coords": [23.969622, 54.07739]}, {"name": "ež. Klonis", "text": "Bucurați-vă de atmosfera liniștită de la lacul Klonis din Druskininkai.", "category": "natural", "coords": [23.988439, 54.076449]}, {"name": "ež. Kruglis", "text": "Lacul Kruglis este o destinație de excursie liniștită în regiunea Druskininkai.", "category": "natural", "coords": [23.964199, 54.078719]}, {"name": "ež. Ončiuškis", "text": "Lacul Ončiuškis invită la momente de relaxare în natura din Druskininkai.", "category": "natural", "coords": [23.981324, 54.077002]}, {"name": "ež. Juodaitis", "text": "Lacul Juodaitis este o întindere de apă pitorească în împrejurimile orașului Druskininkai.", "category": "natural", "coords": [23.891081, 54.030409]}, {"name": "ež. Varlinis", "text": "Lacul Varlinis oferă un mediu liniștit pentru cei care caută relaxare în Druskininkai.", "category": "natural", "coords": [24.053945, 54.023261]}, {"name": "ež. Grūtas", "text": "Lacul Grūtas este o întindere de apă cunoscută în Druskininkai, înconjurată de un peisaj frumos.", "category": "natural", "coords": [24.081587, 54.026591]}, {"name": "Baltosios Ančios HE tv.", "text": "Rezervorul Baltosios Ančios este o acumulare de apă impresionantă în Druskininkai.", "category": "natural", "coords": [23.789271, 53.992215]}, {"name": "ež. Ilgis", "text": "Lacul Ilgis se remarcă prin locația sa liniștită în Druskininkai.", "category": "natural", "coords": [24.08159, 54.0393]}, {"name": "Neravų tv.", "text": "Rezervorul Neravų oferă un cadru liniștit pentru observarea naturii în Druskininkai.", "category": "natural", "coords": [24.031444, 54.030564]}, {"name": "Alkos I tv.", "text": "Rezervorul Alkos I este un loc local de liniște în Druskininkai.", "category": "natural", "coords": [23.98968, 54.002792]}, {"name": "Alkos II tv.", "text": "Rezervorul Alkos II invită la o ședere relaxantă în aer liber în Druskininkai.", "category": "natural", "coords": [23.993638, 54.007381]}, {"name": "ež. Baltajis Bilsas", "text": "Lacul Baltajis Bilsas este o întindere de apă idilică lângă Druskininkai.", "category": "natural", "coords": [23.876179, 54.057353]}, {"name": "ež. Juodiškis", "text": "Lacul Juodiškis oferă un mediu liniștit pentru o excursie în Druskininkai.", "category": "natural", "coords": [24.006492, 54.070905]}, {"name": "ež. Pamelnyčys", "text": "Lacul Pamelnyčys este un loc liniștit pentru a vă bucura de natură în Druskininkai.", "category": "natural", "coords": [24.014208, 54.072235]}, {"name": "ež. Vidutinis", "text": "Lacul Vidutinis este un punct pitoresc în peisajul acvatic din Druskininkai.", "category": "natural", "coords": [24.011531, 54.074292]}, {"name": "ež. Skirzaitis", "text": "Lacul Skirzaitis invită la plimbări liniștite pe malul apei în Druskininkai.", "category": "natural", "coords": [23.881707, 54.006963]}, {"name": "ež. Skirzius", "text": "Lacul Skirzius este un obiectiv natural pașnic în regiunea Druskininkai.", "category": "natural", "coords": [23.885462, 54.016183]}, {"name": "ež. Ilgelis", "text": "Lacul Ilgelis oferă o priveliște relaxantă în Druskininkai.", "category": "natural", "coords": [23.961441, 54.083705]}, {"name": "ež. Maželis", "text": "Lacul Maželis este un lac mic și liniștit în Druskininkai.", "category": "natural", "coords": [23.955892, 54.087199]}, {"name": "Vijūnėlės tv.", "text": "Rezervorul Vijūnėlės este un loc popular pentru activități de recreere în Druskininkai.", "category": "natural", "coords": [23.963217, 54.016439]}], "en": [{"name": "Druskininkų miesto muziejus", "text": "A local history museum located in a distinctive villa in the resort town of Druskininkai.", "category": "museum", "coords": [23.973087, 54.016657]}, {"name": "Vasaros amfiteatras", "text": "An open-air summer amphitheater hosting cultural events in Druskininkai.", "category": "cultural", "coords": [23.967325, 54.028475]}, {"name": "M.K.Čiurlionio memorialinis muziejus", "text": "The M.K.Čiurlionio memorialinis muziejus in Druskininkai is dedicated to the life and work of the famous artist. Visitors to the museum gain fascinating insights into the creations of the Lithuanian painter and composer.", "category": "museum", "coords": [23.969428, 54.01772]}, {"name": "Rezistencijos ir tremties muziejus", "text": "A museum documenting the history of resistance and deportations in Druskininkai.", "category": "museum", "coords": [23.973058, 54.022063]}, {"name": "ONE nuotykių parkas", "text": "An adventure park in Druskininkai offering various climbing and zip-line courses.", "category": "family", "coords": [23.973018, 54.025602]}, {"name": "VIVI Wake Druskininkai", "text": "A wakeboarding park in Druskininkai designed for water sports enthusiasts.", "category": "family", "coords": [23.995354, 54.008712]}, {"name": "Druskininkų gydykla", "text": "A traditional medical spa and health treatment center in the resort of Druskininkai.", "category": "family", "coords": [23.975212, 54.022449]}, {"name": "Miško muziejus „Girios aidas“", "text": "A forest museum in Druskininkai featuring exhibitions about local nature and wildlife.", "category": "museum", "coords": [24.003848, 54.007115]}, {"name": "Žako Lipšico memorialinis muziejus", "text": "A memorial museum dedicated to the famous sculptor Jacques Lipchitz in his birthplace.", "category": "museum", "coords": [23.972158, 54.020043]}, {"name": "Druskininkų lynų kelias", "text": "A cable car system in Druskininkai connecting the town center with the Snow Arena.", "category": "landmark", "coords": [23.972702, 54.023588]}, {"name": "Aqua park Druskininkai", "text": "A large indoor water park in Druskininkai featuring pools, slides, and saunas.", "category": "landmark", "coords": [23.97453, 54.023424]}, {"name": "Snow Arena", "text": "A year-round indoor skiing complex and landmark in Druskininkai.", "category": "natural", "coords": [23.959705, 54.030929]}, {"name": "Apverstas namas", "text": "A popular \"Upside-Down House\" tourist attraction located in Druskininkai.", "category": "landmark", "coords": [23.974096, 54.01958]}, {"name": "Druskininkų ir Aušros šaltinis", "text": "Famous mineral water springs located in the resort park of Druskininkai.", "category": "landmark", "coords": [23.977131, 54.021676]}, {"name": "Joy of all who Sorrow Church", "text": "An Orthodox church in Druskininkai known for its distinctive blue wooden architecture.", "category": "religious", "coords": [23.971185, 54.021177]}, {"name": "Church of Our Lady of the Scapular", "text": "The main Catholic church in Druskininkai, built in the Neo-Gothic style.", "category": "religious", "coords": [23.974675, 54.017267]}, {"name": "Orthodox church", "text": "An Orthodox place of worship located in the Druskininkai area.", "category": "religious", "coords": [23.973489, 54.012707]}, {"name": "Parko tiltas", "text": "A scenic pedestrian bridge crossing the Ratnyčia river in Druskininkai.", "category": "landmark", "coords": [23.976565, 54.024384]}, {"name": "Girininkijos tv.", "text": "Girininkijos tv. in Druskininkai is an idyllic reservoir in the middle of nature.", "category": "natural", "coords": [24.025484, 54.01477]}, {"name": "ež. Gervinis", "text": "Gervinis lake near Druskininkai invites you to spend relaxing hours by the water.", "category": "natural", "coords": [23.900993, 54.06479]}, {"name": "ež. Azagis", "text": "Lake Azagis is a calm body of water in Druskininkai, ideal for nature lovers.", "category": "natural", "coords": [23.862096, 54.05384]}, {"name": "ež. Mergelių Akys", "text": "Lake Mergelių Akys offers a scenic backdrop for walks in Druskininkai.", "category": "natural", "coords": [23.97005, 54.010432]}, {"name": "ež. Juodelis", "text": "Lake Juodelis is a small natural treasure located near Druskininkai.", "category": "natural", "coords": [23.969622, 54.07739]}, {"name": "ež. Klonis", "text": "Enjoy the peaceful atmosphere at Lake Klonis in Druskininkai.", "category": "natural", "coords": [23.988439, 54.076449]}, {"name": "ež. Kruglis", "text": "Lake Kruglis is a quiet excursion destination in the Druskininkai region.", "category": "natural", "coords": [23.964199, 54.078719]}, {"name": "ež. Ončiuškis", "text": "Lake Ončiuškis invites you to relaxing moments in the nature of Druskininkai.", "category": "natural", "coords": [23.981324, 54.077002]}, {"name": "ež. Juodaitis", "text": "Lake Juodaitis is a scenic body of water in the surroundings of Druskininkai.", "category": "natural", "coords": [23.891081, 54.030409]}, {"name": "ež. Varlinis", "text": "Lake Varlinis offers a peaceful environment for those seeking relaxation in Druskininkai.", "category": "natural", "coords": [24.053945, 54.023261]}, {"name": "ež. Grūtas", "text": "Lake Grūtas is a well-known body of water in Druskininkai, surrounded by beautiful scenery.", "category": "natural", "coords": [24.081587, 54.026591]}, {"name": "Baltosios Ančios HE tv.", "text": "The Baltosios Ančios Reservoir is an impressive body of water in Druskininkai.", "category": "natural", "coords": [23.789271, 53.992215]}, {"name": "ež. Ilgis", "text": "Lake Ilgis is characterized by its quiet location in Druskininkai.", "category": "natural", "coords": [24.08159, 54.0393]}, {"name": "Neravų tv.", "text": "The Neravų Reservoir offers a peaceful setting for nature observation in Druskininkai.", "category": "natural", "coords": [24.031444, 54.030564]}, {"name": "Alkos I tv.", "text": "The Alkos I Reservoir is a local place of tranquility in Druskininkai.", "category": "natural", "coords": [23.98968, 54.002792]}, {"name": "Alkos II tv.", "text": "The Alkos II Reservoir invites you to a relaxing outdoor stay in Druskininkai.", "category": "natural", "coords": [23.993638, 54.007381]}, {"name": "ež. Baltajis Bilsas", "text": "Lake Baltajis Bilsas is an idyllic body of water near Druskininkai.", "category": "natural", "coords": [23.876179, 54.057353]}, {"name": "ež. Juodiškis", "text": "Lake Juodiškis offers a quiet environment for a trip in Druskininkai.", "category": "natural", "coords": [24.006492, 54.070905]}, {"name": "ež. Pamelnyčys", "text": "Lake Pamelnyčys is a peaceful place to enjoy nature in Druskininkai.", "category": "natural", "coords": [24.014208, 54.072235]}, {"name": "ež. Vidutinis", "text": "Lake Vidutinis is a scenic spot in the aquatic landscape of Druskininkai.", "category": "natural", "coords": [24.011531, 54.074292]}, {"name": "ež. Skirzaitis", "text": "Lake Skirzaitis invites you to quiet walks along the shore in Druskininkai.", "category": "natural", "coords": [23.881707, 54.006963]}, {"name": "ež. Skirzius", "text": "Lake Skirzius is a peaceful natural feature in the Druskininkai region.", "category": "natural", "coords": [23.885462, 54.016183]}, {"name": "ež. Ilgelis", "text": "Lake Ilgelis offers a relaxing view in Druskininkai.", "category": "natural", "coords": [23.961441, 54.083705]}, {"name": "ež. Maželis", "text": "Lake Maželis is a quiet small lake in Druskininkai.", "category": "natural", "coords": [23.955892, 54.087199]}, {"name": "Vijūnėlės tv.", "text": "The Vijūnėlės Reservoir is a popular spot for leisure activities in Druskininkai.", "category": "natural", "coords": [23.963217, 54.016439]}]},
+    id: "lithuania-druskininkai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Druskininkų miesto muziejus",
+                  "text": "Ein Heimatmuseum in einer markanten Villa im Kurort Druskininkai.",
+                  "category": "museum",
+                  "coords": [
+                        23.973087,
+                        54.016657
+                  ]
+            },
+            {
+                  "name": "Vasaros amfiteatras",
+                  "text": "Ein Sommer-Freilichttheater, in dem kulturelle Veranstaltungen in Druskininkai stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        23.967325,
+                        54.028475
+                  ]
+            },
+            {
+                  "name": "M.K.Čiurlionio memorialinis muziejus",
+                  "text": "Das M.K.Čiurlionio memorialinis muziejus in Druskininkai widmet sich dem Leben und Schaffen des berühmten Künstlers. Besucher des Museums erhalten spannende Einblicke in das Werk des litauischen Malers und Komponisten.",
+                  "category": "museum",
+                  "coords": [
+                        23.969428,
+                        54.01772
+                  ]
+            },
+            {
+                  "name": "Rezistencijos ir tremties muziejus",
+                  "text": "Ein Museum, das die Geschichte des Widerstands und der Deportationen in Druskininkai dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        23.973058,
+                        54.022063
+                  ]
+            },
+            {
+                  "name": "ONE nuotykių parkas",
+                  "text": "Ein Abenteuerpark in Druskininkai mit verschiedenen Kletter- und Seilrutschenparcours.",
+                  "category": "family",
+                  "coords": [
+                        23.973018,
+                        54.025602
+                  ]
+            },
+            {
+                  "name": "VIVI Wake Druskininkai",
+                  "text": "Ein Wakeboard-Park in Druskininkai, der für Wassersportler konzipiert wurde.",
+                  "category": "family",
+                  "coords": [
+                        23.995354,
+                        54.008712
+                  ]
+            },
+            {
+                  "name": "Druskininkų gydykla",
+                  "text": "Ein traditionelles Kurhaus und Gesundheitszentrum im Kurort Druskininkai.",
+                  "category": "family",
+                  "coords": [
+                        23.975212,
+                        54.022449
+                  ]
+            },
+            {
+                  "name": "Miško muziejus „Girios aidas“",
+                  "text": "Ein Waldmuseum in Druskininkai mit Ausstellungen über die lokale Natur und Tierwelt.",
+                  "category": "museum",
+                  "coords": [
+                        24.003848,
+                        54.007115
+                  ]
+            },
+            {
+                  "name": "Žako Lipšico memorialinis muziejus",
+                  "text": "Ein Gedenkmuseum für den berühmten Bildhauer Jacques Lipchitz an seinem Geburtsort.",
+                  "category": "museum",
+                  "coords": [
+                        23.972158,
+                        54.020043
+                  ]
+            },
+            {
+                  "name": "Druskininkų lynų kelias",
+                  "text": "Eine Seilbahn in Druskininkai, die das Stadtzentrum mit der Snow Arena verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        23.972702,
+                        54.023588
+                  ]
+            },
+            {
+                  "name": "Druskininkų Vandens Parkas",
+                  "text": "Ein großer Indoor-Wasserpark in Druskininkai mit Pools, Rutschen und Saunen.",
+                  "category": "landmark",
+                  "coords": [
+                        23.97453,
+                        54.023424
+                  ]
+            },
+            {
+                  "name": "Snow Arena",
+                  "text": "Ein ganzjähriger Indoor-Skikomplex und bekanntes Wahrzeichen in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.959705,
+                        54.030929
+                  ]
+            },
+            {
+                  "name": "Apverstas namas",
+                  "text": "Eine beliebte Touristenattraktion „Das auf dem Kopf stehende Haus“ in Druskininkai.",
+                  "category": "landmark",
+                  "coords": [
+                        23.974096,
+                        54.01958
+                  ]
+            },
+            {
+                  "name": "Druskininkų ir Aušros šaltinis",
+                  "text": "Berühmte Mineralwasserquellen im Kurpark von Druskininkai.",
+                  "category": "landmark",
+                  "coords": [
+                        23.977131,
+                        54.021676
+                  ]
+            },
+            {
+                  "name": "Druskininkų Dievo Motinos ikonos „Visų liūdinčiųjų Džiaugsmas“ cerkvė",
+                  "text": "Eine orthodoxe Kirche in Druskininkai, die für ihre markante blaue Holzarchitektur bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        23.971185,
+                        54.021177
+                  ]
+            },
+            {
+                  "name": "Druskininkų Švč. Mergelės Marijos Škaplierinės bažnyčia",
+                  "text": "Die katholische Hauptkirche in Druskininkai, erbaut im neugotischen Stil.",
+                  "category": "religious",
+                  "coords": [
+                        23.974675,
+                        54.017267
+                  ]
+            },
+            {
+                  "name": "Druskininkų Šv. Gabrieliaus cerkvė",
+                  "text": "Ein orthodoxes Gotteshaus in der Gegend von Druskininkai.",
+                  "category": "religious",
+                  "coords": [
+                        23.973489,
+                        54.012707
+                  ]
+            },
+            {
+                  "name": "Parko tiltas",
+                  "text": "Eine malerische Fußgängerbrücke über den Fluss Ratnyčia in Druskininkai.",
+                  "category": "landmark",
+                  "coords": [
+                        23.976565,
+                        54.024384
+                  ]
+            },
+            {
+                  "name": "Girininkijos tv.",
+                  "text": "Der Girininkijos-See in Druskininkai liegt mitten im Wald.",
+                  "category": "natural",
+                  "coords": [
+                        24.025484,
+                        54.01477
+                  ]
+            },
+            {
+                  "name": "ež. Gervinis",
+                  "text": "Der See Gervinis bei Druskininkai lädt zu entspannten Stunden am Wasser ein.",
+                  "category": "natural",
+                  "coords": [
+                        23.900993,
+                        54.06479
+                  ]
+            },
+            {
+                  "name": "ež. Azagis",
+                  "text": "Der See Azagis ist ein ruhiges Gewässer in Druskininkai, ideal für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        23.862096,
+                        54.05384
+                  ]
+            },
+            {
+                  "name": "ež. Mergelių Akys",
+                  "text": "Der See Mergelių Akys bietet eine malerische Kulisse für Spaziergänge in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.97005,
+                        54.010432
+                  ]
+            },
+            {
+                  "name": "ež. Juodelis",
+                  "text": "Der Juodelis-See in Druskininkai ist ein glasklarer Waldsee.",
+                  "category": "natural",
+                  "coords": [
+                        23.969622,
+                        54.07739
+                  ]
+            },
+            {
+                  "name": "ež. Klonis",
+                  "text": "Genießen Sie die friedliche Atmosphäre am See Klonis in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.988439,
+                        54.076449
+                  ]
+            },
+            {
+                  "name": "ež. Kruglis",
+                  "text": "Der See Kruglis ist ein ruhiges Ausflugsziel in der Region Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.964199,
+                        54.078719
+                  ]
+            },
+            {
+                  "name": "ež. Ončiuškis",
+                  "text": "Der See Ončiuškis lädt zu entspannten Momenten in der Natur von Druskininkai ein.",
+                  "category": "natural",
+                  "coords": [
+                        23.981324,
+                        54.077002
+                  ]
+            },
+            {
+                  "name": "ež. Juodaitis",
+                  "text": "Der See Juodaitis ist ein malerisches Gewässer in der Umgebung von Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.891081,
+                        54.030409
+                  ]
+            },
+            {
+                  "name": "ež. Varlinis",
+                  "text": "Der See Varlinis bietet eine friedliche Umgebung für Erholungssuchende in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        24.053945,
+                        54.023261
+                  ]
+            },
+            {
+                  "name": "ež. Grūtas",
+                  "text": "Der See Grūtas ist ein bekanntes Gewässer in Druskininkai, umgeben von schöner Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        24.081587,
+                        54.026591
+                  ]
+            },
+            {
+                  "name": "Baltosios Ančios HE tv.",
+                  "text": "Der Stausee des Wasserkraftwerks Baltosios Ančios in Druskininkai ist ein beliebtes Wassersportrevier.",
+                  "category": "natural",
+                  "coords": [
+                        23.789271,
+                        53.992215
+                  ]
+            },
+            {
+                  "name": "ež. Ilgis",
+                  "text": "Der See Ilgis zeichnet sich durch seine ruhige Lage in Druskininkai aus.",
+                  "category": "natural",
+                  "coords": [
+                        24.08159,
+                        54.0393
+                  ]
+            },
+            {
+                  "name": "Neravų tv.",
+                  "text": "Das Neravų Reservoir bietet eine friedliche Kulisse für Naturbeobachtungen in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        24.031444,
+                        54.030564
+                  ]
+            },
+            {
+                  "name": "Alkos I tv.",
+                  "text": "Der Alkos-I-See in Druskininkai ist ein ruhiger See in der Nähe des Kurortes.",
+                  "category": "natural",
+                  "coords": [
+                        23.98968,
+                        54.002792
+                  ]
+            },
+            {
+                  "name": "Alkos II tv.",
+                  "text": "Das Alkos II Reservoir lädt zu einem entspannten Aufenthalt im Freien in Druskininkai ein.",
+                  "category": "natural",
+                  "coords": [
+                        23.993638,
+                        54.007381
+                  ]
+            },
+            {
+                  "name": "ež. Baltajis Bilsas",
+                  "text": "Der Baltajis-Bilsas-See in Druskininkai ist für seine weißen Sandstrände bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        23.876179,
+                        54.057353
+                  ]
+            },
+            {
+                  "name": "ež. Juodiškis",
+                  "text": "Der See Juodiškis bietet eine stille Umgebung für einen Ausflug in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        24.006492,
+                        54.070905
+                  ]
+            },
+            {
+                  "name": "ež. Pamelnyčys",
+                  "text": "Der See Pamelnyčys ist ein ruhiger Ort, um die Natur in Druskininkai zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        24.014208,
+                        54.072235
+                  ]
+            },
+            {
+                  "name": "ež. Vidutinis",
+                  "text": "Der See Vidutinis ist ein malerischer Punkt in der Wasserlandschaft von Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        24.011531,
+                        54.074292
+                  ]
+            },
+            {
+                  "name": "ež. Skirzaitis",
+                  "text": "Der See Skirzaitis lädt zu ruhigen Spaziergängen am Ufer in Druskininkai ein.",
+                  "category": "natural",
+                  "coords": [
+                        23.881707,
+                        54.006963
+                  ]
+            },
+            {
+                  "name": "ež. Skirzius",
+                  "text": "Der Skirzius-See in Druskininkai ist ein Moorsee mit seltenen Pflanzen.",
+                  "category": "natural",
+                  "coords": [
+                        23.885462,
+                        54.016183
+                  ]
+            },
+            {
+                  "name": "ež. Ilgelis",
+                  "text": "Der Ilgelis-See in Druskininkai ist ein kleiner See mit Angelplätzen.",
+                  "category": "natural",
+                  "coords": [
+                        23.961441,
+                        54.083705
+                  ]
+            },
+            {
+                  "name": "ež. Maželis",
+                  "text": "Der Maželis-See in Druskininkai ist der kleinste See der Region.",
+                  "category": "natural",
+                  "coords": [
+                        23.955892,
+                        54.087199
+                  ]
+            },
+            {
+                  "name": "Vijūnėlės tv.",
+                  "text": "Das Vijūnėlės Reservoir ist ein beliebter Ort für Freizeitaktivitäten in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.963217,
+                        54.016439
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Druskininkų miesto muziejus",
+                  "text": "Helytörténeti múzeum egy jellegzetes villában Druskininkai üdülővárosában.",
+                  "category": "museum",
+                  "coords": [
+                        23.973087,
+                        54.016657
+                  ]
+            },
+            {
+                  "name": "Vasaros amfiteatras",
+                  "text": "Kulturális eseményeknek otthont adó szabadtéri nyári amfiteátrum Druskininkaiban.",
+                  "category": "cultural",
+                  "coords": [
+                        23.967325,
+                        54.028475
+                  ]
+            },
+            {
+                  "name": "M.K.Čiurlionio memorialinis muziejus",
+                  "text": "A Druskininkai városában található M.K.Čiurlionio memorialinis muziejus a híres művész életének és munkásságának állít emléket. A múzeum látogatói izgalmas betekintést nyerhetnek a litván festő és zeneszerző alkotásaiba.",
+                  "category": "museum",
+                  "coords": [
+                        23.969428,
+                        54.01772
+                  ]
+            },
+            {
+                  "name": "Rezistencijos ir tremties muziejus",
+                  "text": "Druskininkai ellenállásának és deportálásainak történetét dokumentáló múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        23.973058,
+                        54.022063
+                  ]
+            },
+            {
+                  "name": "ONE nuotykių parkas",
+                  "text": "Különféle mászó- és kötélpályákat kínáló kalandpark Druskininkaiban.",
+                  "category": "family",
+                  "coords": [
+                        23.973018,
+                        54.025602
+                  ]
+            },
+            {
+                  "name": "VIVI Wake Druskininkai",
+                  "text": "Vízisportok kedvelőinek kialakított wakeboard-pálya Druskininkaiban.",
+                  "category": "family",
+                  "coords": [
+                        23.995354,
+                        54.008712
+                  ]
+            },
+            {
+                  "name": "Druskininkų gydykla",
+                  "text": "Hagyományos gyógyfürdő és egészségügyi kezelőközpont Druskininkai üdülőhelyén.",
+                  "category": "family",
+                  "coords": [
+                        23.975212,
+                        54.022449
+                  ]
+            },
+            {
+                  "name": "Miško muziejus „Girios aidas“",
+                  "text": "Erdészeti múzeum Druskininkaiban, a helyi természetet és vadvilágot bemutató kiállításokkal.",
+                  "category": "museum",
+                  "coords": [
+                        24.003848,
+                        54.007115
+                  ]
+            },
+            {
+                  "name": "Žako Lipšico memorialinis muziejus",
+                  "text": "Emlékmúzeum a híres szobrász, Jacques Lipchitz tiszteletére szülőhelyén.",
+                  "category": "museum",
+                  "coords": [
+                        23.972158,
+                        54.020043
+                  ]
+            },
+            {
+                  "name": "Druskininkų lynų kelias",
+                  "text": "Druskininkai felvonórendszere, amely összeköti a városközpontot a Snow Arenával.",
+                  "category": "landmark",
+                  "coords": [
+                        23.972702,
+                        54.023588
+                  ]
+            },
+            {
+                  "name": "Druskininkų Vandens Parkas",
+                  "text": "Nagy beltéri vízipark Druskininkaiban medencékkel, csúszdákkal és szaunákkal.",
+                  "category": "landmark",
+                  "coords": [
+                        23.97453,
+                        54.023424
+                  ]
+            },
+            {
+                  "name": "Snow Arena",
+                  "text": "Egész évben üzemelő fedett síkomplexum és látványosság Druskininkaiban.",
+                  "category": "natural",
+                  "coords": [
+                        23.959705,
+                        54.030929
+                  ]
+            },
+            {
+                  "name": "Apverstas namas",
+                  "text": "Népszerű „fordított ház” turisztikai látványosság Druskininkaiban.",
+                  "category": "landmark",
+                  "coords": [
+                        23.974096,
+                        54.01958
+                  ]
+            },
+            {
+                  "name": "Druskininkų ir Aušros šaltinis",
+                  "text": "Híres ásványvízforrások Druskininkai üdülőparkjában.",
+                  "category": "landmark",
+                  "coords": [
+                        23.977131,
+                        54.021676
+                  ]
+            },
+            {
+                  "name": "Druskininkų Dievo Motinos ikonos „Visų liūdinčiųjų Džiaugsmas“ cerkvė",
+                  "text": "Jellegzetes kék faarchitektúrájáról ismert ortodox templom Druskininkaiban.",
+                  "category": "religious",
+                  "coords": [
+                        23.971185,
+                        54.021177
+                  ]
+            },
+            {
+                  "name": "Druskininkų Švč. Mergelės Marijos Škaplierinės bažnyčia",
+                  "text": "Druskininkai fő katolikus temploma, amely neogótikus stílusban épült.",
+                  "category": "religious",
+                  "coords": [
+                        23.974675,
+                        54.017267
+                  ]
+            },
+            {
+                  "name": "Druskininkų Šv. Gabrieliaus cerkvė",
+                  "text": "Ortodox istentiszteleti hely Druskininkai területén.",
+                  "category": "religious",
+                  "coords": [
+                        23.973489,
+                        54.012707
+                  ]
+            },
+            {
+                  "name": "Parko tiltas",
+                  "text": "Festői gyaloghíd a Ratnyčia folyón Druskininkaiban.",
+                  "category": "landmark",
+                  "coords": [
+                        23.976565,
+                        54.024384
+                  ]
+            },
+            {
+                  "name": "Girininkijos tv.",
+                  "text": "A druskininkai Girininkijos-tó az erdő közepén található.",
+                  "category": "natural",
+                  "coords": [
+                        24.025484,
+                        54.01477
+                  ]
+            },
+            {
+                  "name": "ež. Gervinis",
+                  "text": "A Druskininkai környéki Gervinis tó pihentető órákra hív a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        23.900993,
+                        54.06479
+                  ]
+            },
+            {
+                  "name": "ež. Azagis",
+                  "text": "Az Azagis-tó egy nyugodt vízfelület Druskininkai területén, amely ideális a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        23.862096,
+                        54.05384
+                  ]
+            },
+            {
+                  "name": "ež. Mergelių Akys",
+                  "text": "A Mergelių Akys-tó festői környezetet biztosít a sétákhoz Druskininkaiban.",
+                  "category": "natural",
+                  "coords": [
+                        23.97005,
+                        54.010432
+                  ]
+            },
+            {
+                  "name": "ež. Juodelis",
+                  "text": "A druskininkai Juodelis-tó egy kristálytiszta erdei tó.",
+                  "category": "natural",
+                  "coords": [
+                        23.969622,
+                        54.07739
+                  ]
+            },
+            {
+                  "name": "ež. Klonis",
+                  "text": "Élvezze a Klonis-tó békés hangulatát Druskininkaiban.",
+                  "category": "natural",
+                  "coords": [
+                        23.988439,
+                        54.076449
+                  ]
+            },
+            {
+                  "name": "ež. Kruglis",
+                  "text": "A Kruglis-tó egy nyugodt kirándulóhely Druskininkai régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        23.964199,
+                        54.078719
+                  ]
+            },
+            {
+                  "name": "ež. Ončiuškis",
+                  "text": "Az Ončiuškis-tó pihentető pillanatokra hív Druskininkai természetében.",
+                  "category": "natural",
+                  "coords": [
+                        23.981324,
+                        54.077002
+                  ]
+            },
+            {
+                  "name": "ež. Juodaitis",
+                  "text": "A Juodaitis-tó egy festői vízfelület Druskininkai környékén.",
+                  "category": "natural",
+                  "coords": [
+                        23.891081,
+                        54.030409
+                  ]
+            },
+            {
+                  "name": "ež. Varlinis",
+                  "text": "A Varlinis-tó békés környezetet kínál a pihenni vágyóknak Druskininkaiban.",
+                  "category": "natural",
+                  "coords": [
+                        24.053945,
+                        54.023261
+                  ]
+            },
+            {
+                  "name": "ež. Grūtas",
+                  "text": "A Grūtas-tó egy ismert vízfelület Druskininkaiban, szép tájjal körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        24.081587,
+                        54.026591
+                  ]
+            },
+            {
+                  "name": "Baltosios Ančios HE tv.",
+                  "text": "A druskininkai Baltosios Ančios vízerőmű tározója népszerű vízisport terület.",
+                  "category": "natural",
+                  "coords": [
+                        23.789271,
+                        53.992215
+                  ]
+            },
+            {
+                  "name": "ež. Ilgis",
+                  "text": "Az Ilgis-tavat a nyugodt elhelyezkedése jellemzi Druskininkaiban.",
+                  "category": "natural",
+                  "coords": [
+                        24.08159,
+                        54.0393
+                  ]
+            },
+            {
+                  "name": "Neravų tv.",
+                  "text": "A Neravų-víztározó békés hátteret biztosít a természet megfigyeléséhez Druskininkaiban.",
+                  "category": "natural",
+                  "coords": [
+                        24.031444,
+                        54.030564
+                  ]
+            },
+            {
+                  "name": "Alkos I tv.",
+                  "text": "A druskininkai Alkos I-tó egy csendes tó a gyógyhely közelében.",
+                  "category": "natural",
+                  "coords": [
+                        23.98968,
+                        54.002792
+                  ]
+            },
+            {
+                  "name": "Alkos II tv.",
+                  "text": "Az Alkos II-víztározó kellemes szabadtéri kikapcsolódásra hív Druskininkaiban.",
+                  "category": "natural",
+                  "coords": [
+                        23.993638,
+                        54.007381
+                  ]
+            },
+            {
+                  "name": "ež. Baltajis Bilsas",
+                  "text": "A druskininkai Baltajis Bilsas-tó a fehér homokos strandjairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        23.876179,
+                        54.057353
+                  ]
+            },
+            {
+                  "name": "ež. Juodiškis",
+                  "text": "A Juodiškis-tó csendes környezetet biztosít egy kiránduláshoz Druskininkaiban.",
+                  "category": "natural",
+                  "coords": [
+                        24.006492,
+                        54.070905
+                  ]
+            },
+            {
+                  "name": "ež. Pamelnyčys",
+                  "text": "A Pamelnyčys-tó nyugodt hely a természet élvezetére Druskininkaiban.",
+                  "category": "natural",
+                  "coords": [
+                        24.014208,
+                        54.072235
+                  ]
+            },
+            {
+                  "name": "ež. Vidutinis",
+                  "text": "A Vidutinis-tó a druskininkai vízparti táj egyik festői pontja.",
+                  "category": "natural",
+                  "coords": [
+                        24.011531,
+                        54.074292
+                  ]
+            },
+            {
+                  "name": "ež. Skirzaitis",
+                  "text": "A Skirzaitis-tó nyugodt vízparti sétákra hív Druskininkaiban.",
+                  "category": "natural",
+                  "coords": [
+                        23.881707,
+                        54.006963
+                  ]
+            },
+            {
+                  "name": "ež. Skirzius",
+                  "text": "A druskininkai Skirzius-tó egy mocsári tó ritka növényekkel.",
+                  "category": "natural",
+                  "coords": [
+                        23.885462,
+                        54.016183
+                  ]
+            },
+            {
+                  "name": "ež. Ilgelis",
+                  "text": "A druskininkai Ilgelis-tó egy kis tó horgászhelyekkel.",
+                  "category": "natural",
+                  "coords": [
+                        23.961441,
+                        54.083705
+                  ]
+            },
+            {
+                  "name": "ež. Maželis",
+                  "text": "A druskininkai Maželis-tó a régió legkisebb tava.",
+                  "category": "natural",
+                  "coords": [
+                        23.955892,
+                        54.087199
+                  ]
+            },
+            {
+                  "name": "Vijūnėlės tv.",
+                  "text": "A Vijūnėlės-víztározó népszerű hely a szabadidős tevékenységekhez Druskininkaiban.",
+                  "category": "natural",
+                  "coords": [
+                        23.963217,
+                        54.016439
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Druskininkų miesto muziejus",
+                  "text": "Un muzeu de istorie locală situat într-o vilă distinctivă din orașul stațiune Druskininkai.",
+                  "category": "museum",
+                  "coords": [
+                        23.973087,
+                        54.016657
+                  ]
+            },
+            {
+                  "name": "Vasaros amfiteatras",
+                  "text": "Un amfiteatru de vară în aer liber care găzduiește evenimente culturale în Druskininkai.",
+                  "category": "cultural",
+                  "coords": [
+                        23.967325,
+                        54.028475
+                  ]
+            },
+            {
+                  "name": "M.K.Čiurlionio memorialinis muziejus",
+                  "text": "M.K.Čiurlionio memorialinis muziejus din Druskininkai este dedicat vieții și creației celebrului artist. Vizitatorii muzeului primesc informații captivante despre opera pictorului și compozitorului lituanian.",
+                  "category": "museum",
+                  "coords": [
+                        23.969428,
+                        54.01772
+                  ]
+            },
+            {
+                  "name": "Rezistencijos ir tremties muziejus",
+                  "text": "Un muzeu care documentează istoria rezistenței și deportărilor din Druskininkai.",
+                  "category": "museum",
+                  "coords": [
+                        23.973058,
+                        54.022063
+                  ]
+            },
+            {
+                  "name": "ONE nuotykių parkas",
+                  "text": "Un parc de aventură din Druskininkai care oferă diverse trasee de escaladă și tiroliană.",
+                  "category": "family",
+                  "coords": [
+                        23.973018,
+                        54.025602
+                  ]
+            },
+            {
+                  "name": "VIVI Wake Druskininkai",
+                  "text": "Un parc de wakeboarding din Druskininkai conceput pentru pasionații de sporturi nautice.",
+                  "category": "family",
+                  "coords": [
+                        23.995354,
+                        54.008712
+                  ]
+            },
+            {
+                  "name": "Druskininkų gydykla",
+                  "text": "O stațiune balneară tradițională și un centru de tratament în stațiunea Druskininkai.",
+                  "category": "family",
+                  "coords": [
+                        23.975212,
+                        54.022449
+                  ]
+            },
+            {
+                  "name": "Miško muziejus „Girios aidas“",
+                  "text": "Un muzeu al pădurii din Druskininkai, cu expoziții despre natura și fauna locală.",
+                  "category": "museum",
+                  "coords": [
+                        24.003848,
+                        54.007115
+                  ]
+            },
+            {
+                  "name": "Žako Lipšico memorialinis muziejus",
+                  "text": "Un muzeu memorial dedicat celebrului sculptor Jacques Lipchitz în locul său natal.",
+                  "category": "museum",
+                  "coords": [
+                        23.972158,
+                        54.020043
+                  ]
+            },
+            {
+                  "name": "Druskininkų lynų kelias",
+                  "text": "Un sistem de telecabină din Druskininkai care conectează centrul orașului cu Snow Arena.",
+                  "category": "landmark",
+                  "coords": [
+                        23.972702,
+                        54.023588
+                  ]
+            },
+            {
+                  "name": "Druskininkų Vandens Parkas",
+                  "text": "Un mare parc acvatic interior din Druskininkai, cu piscine, tobogane și saune.",
+                  "category": "landmark",
+                  "coords": [
+                        23.97453,
+                        54.023424
+                  ]
+            },
+            {
+                  "name": "Snow Arena",
+                  "text": "Un complex de schi interior deschis tot anul și un punct de referință în Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.959705,
+                        54.030929
+                  ]
+            },
+            {
+                  "name": "Apverstas namas",
+                  "text": "O atracție turistică populară de tip „casa răsturnată” situată în Druskininkai.",
+                  "category": "landmark",
+                  "coords": [
+                        23.974096,
+                        54.01958
+                  ]
+            },
+            {
+                  "name": "Druskininkų ir Aušros šaltinis",
+                  "text": "Izvoare de apă minerală renumite situate în parcul stațiunii Druskininkai.",
+                  "category": "landmark",
+                  "coords": [
+                        23.977131,
+                        54.021676
+                  ]
+            },
+            {
+                  "name": "Druskininkų Dievo Motinos ikonos „Visų liūdinčiųjų Džiaugsmas“ cerkvė",
+                  "text": "O biserică ortodoxă din Druskininkai, cunoscută pentru arhitectura sa din lemn albastru.",
+                  "category": "religious",
+                  "coords": [
+                        23.971185,
+                        54.021177
+                  ]
+            },
+            {
+                  "name": "Druskininkų Švč. Mergelės Marijos Škaplierinės bažnyčia",
+                  "text": "Principala biserică catolică din Druskininkai, construită în stil neogotic.",
+                  "category": "religious",
+                  "coords": [
+                        23.974675,
+                        54.017267
+                  ]
+            },
+            {
+                  "name": "Druskininkų Šv. Gabrieliaus cerkvė",
+                  "text": "Un lăcaș de cult ortodox situat în zona Druskininkai.",
+                  "category": "religious",
+                  "coords": [
+                        23.973489,
+                        54.012707
+                  ]
+            },
+            {
+                  "name": "Parko tiltas",
+                  "text": "Un pod pietonal pitoresc care traversează râul Ratnyčia în Druskininkai.",
+                  "category": "landmark",
+                  "coords": [
+                        23.976565,
+                        54.024384
+                  ]
+            },
+            {
+                  "name": "Girininkijos tv.",
+                  "text": "Lacul Girininkija din Druskininkai este situat în mijlocul pădurii.",
+                  "category": "natural",
+                  "coords": [
+                        24.025484,
+                        54.01477
+                  ]
+            },
+            {
+                  "name": "ež. Gervinis",
+                  "text": "Lacul Gervinis de lângă Druskininkai invită la ore de relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        23.900993,
+                        54.06479
+                  ]
+            },
+            {
+                  "name": "ež. Azagis",
+                  "text": "Lacul Azagis este o întindere de apă liniștită în Druskininkai, ideală pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        23.862096,
+                        54.05384
+                  ]
+            },
+            {
+                  "name": "ež. Mergelių Akys",
+                  "text": "Lacul Mergelių Akys oferă un cadru pitoresc pentru plimbări în Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.97005,
+                        54.010432
+                  ]
+            },
+            {
+                  "name": "ež. Juodelis",
+                  "text": "Lacul Juodelis din Druskininkai este un lac de pădure cu apă cristalină.",
+                  "category": "natural",
+                  "coords": [
+                        23.969622,
+                        54.07739
+                  ]
+            },
+            {
+                  "name": "ež. Klonis",
+                  "text": "Bucurați-vă de atmosfera liniștită de la lacul Klonis din Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.988439,
+                        54.076449
+                  ]
+            },
+            {
+                  "name": "ež. Kruglis",
+                  "text": "Lacul Kruglis este o destinație de excursie liniștită în regiunea Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.964199,
+                        54.078719
+                  ]
+            },
+            {
+                  "name": "ež. Ončiuškis",
+                  "text": "Lacul Ončiuškis invită la momente de relaxare în natura din Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.981324,
+                        54.077002
+                  ]
+            },
+            {
+                  "name": "ež. Juodaitis",
+                  "text": "Lacul Juodaitis este o întindere de apă pitorească în împrejurimile orașului Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.891081,
+                        54.030409
+                  ]
+            },
+            {
+                  "name": "ež. Varlinis",
+                  "text": "Lacul Varlinis oferă un mediu liniștit pentru cei care caută relaxare în Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        24.053945,
+                        54.023261
+                  ]
+            },
+            {
+                  "name": "ež. Grūtas",
+                  "text": "Lacul Grūtas este o întindere de apă cunoscută în Druskininkai, înconjurată de un peisaj frumos.",
+                  "category": "natural",
+                  "coords": [
+                        24.081587,
+                        54.026591
+                  ]
+            },
+            {
+                  "name": "Baltosios Ančios HE tv.",
+                  "text": "Rezervorul hidrocentralei Baltosios Ančios din Druskininkai este o zonă populară pentru sporturi nautice.",
+                  "category": "natural",
+                  "coords": [
+                        23.789271,
+                        53.992215
+                  ]
+            },
+            {
+                  "name": "ež. Ilgis",
+                  "text": "Lacul Ilgis se remarcă prin locația sa liniștită în Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        24.08159,
+                        54.0393
+                  ]
+            },
+            {
+                  "name": "Neravų tv.",
+                  "text": "Rezervorul Neravų oferă un cadru liniștit pentru observarea naturii în Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        24.031444,
+                        54.030564
+                  ]
+            },
+            {
+                  "name": "Alkos I tv.",
+                  "text": "Lacul Alka I din Druskininkai este un lac liniștit lângă stațiune.",
+                  "category": "natural",
+                  "coords": [
+                        23.98968,
+                        54.002792
+                  ]
+            },
+            {
+                  "name": "Alkos II tv.",
+                  "text": "Rezervorul Alkos II invită la o ședere relaxantă în aer liber în Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.993638,
+                        54.007381
+                  ]
+            },
+            {
+                  "name": "ež. Baltajis Bilsas",
+                  "text": "Lacul Baltajis Bilsas din Druskininkai este cunoscut pentru plajele sale cu nisip alb.",
+                  "category": "natural",
+                  "coords": [
+                        23.876179,
+                        54.057353
+                  ]
+            },
+            {
+                  "name": "ež. Juodiškis",
+                  "text": "Lacul Juodiškis oferă un mediu liniștit pentru o excursie în Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        24.006492,
+                        54.070905
+                  ]
+            },
+            {
+                  "name": "ež. Pamelnyčys",
+                  "text": "Lacul Pamelnyčys este un loc liniștit pentru a vă bucura de natură în Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        24.014208,
+                        54.072235
+                  ]
+            },
+            {
+                  "name": "ež. Vidutinis",
+                  "text": "Lacul Vidutinis este un punct pitoresc în peisajul acvatic din Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        24.011531,
+                        54.074292
+                  ]
+            },
+            {
+                  "name": "ež. Skirzaitis",
+                  "text": "Lacul Skirzaitis invită la plimbări liniștite pe malul apei în Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.881707,
+                        54.006963
+                  ]
+            },
+            {
+                  "name": "ež. Skirzius",
+                  "text": "Lacul Skirzius din Druskininkai este un lac de mlaștină cu plante rare.",
+                  "category": "natural",
+                  "coords": [
+                        23.885462,
+                        54.016183
+                  ]
+            },
+            {
+                  "name": "ež. Ilgelis",
+                  "text": "Lacul Ilgelis din Druskininkai este un lac mic cu locuri de pescuit.",
+                  "category": "natural",
+                  "coords": [
+                        23.961441,
+                        54.083705
+                  ]
+            },
+            {
+                  "name": "ež. Maželis",
+                  "text": "Lacul Maželis din Druskininkai este cel mai mic lac din regiune.",
+                  "category": "natural",
+                  "coords": [
+                        23.955892,
+                        54.087199
+                  ]
+            },
+            {
+                  "name": "Vijūnėlės tv.",
+                  "text": "Rezervorul Vijūnėlės este un loc popular pentru activități de recreere în Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.963217,
+                        54.016439
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Druskininkų miesto muziejus",
+                  "text": "A local history museum located in a distinctive villa in the resort town of Druskininkai.",
+                  "category": "museum",
+                  "coords": [
+                        23.973087,
+                        54.016657
+                  ]
+            },
+            {
+                  "name": "Vasaros amfiteatras",
+                  "text": "An open-air summer amphitheater hosting cultural events in Druskininkai.",
+                  "category": "cultural",
+                  "coords": [
+                        23.967325,
+                        54.028475
+                  ]
+            },
+            {
+                  "name": "M.K.Čiurlionio memorialinis muziejus",
+                  "text": "The M.K.Čiurlionio memorialinis muziejus in Druskininkai is dedicated to the life and work of the famous artist. Visitors to the museum gain fascinating insights into the creations of the Lithuanian painter and composer.",
+                  "category": "museum",
+                  "coords": [
+                        23.969428,
+                        54.01772
+                  ]
+            },
+            {
+                  "name": "Rezistencijos ir tremties muziejus",
+                  "text": "A museum documenting the history of resistance and deportations in Druskininkai.",
+                  "category": "museum",
+                  "coords": [
+                        23.973058,
+                        54.022063
+                  ]
+            },
+            {
+                  "name": "ONE nuotykių parkas",
+                  "text": "An adventure park in Druskininkai offering various climbing and zip-line courses.",
+                  "category": "family",
+                  "coords": [
+                        23.973018,
+                        54.025602
+                  ]
+            },
+            {
+                  "name": "VIVI Wake Druskininkai",
+                  "text": "A wakeboarding park in Druskininkai designed for water sports enthusiasts.",
+                  "category": "family",
+                  "coords": [
+                        23.995354,
+                        54.008712
+                  ]
+            },
+            {
+                  "name": "Druskininkų gydykla",
+                  "text": "A traditional medical spa and health treatment center in the resort of Druskininkai.",
+                  "category": "family",
+                  "coords": [
+                        23.975212,
+                        54.022449
+                  ]
+            },
+            {
+                  "name": "Miško muziejus „Girios aidas“",
+                  "text": "A forest museum in Druskininkai featuring exhibitions about local nature and wildlife.",
+                  "category": "museum",
+                  "coords": [
+                        24.003848,
+                        54.007115
+                  ]
+            },
+            {
+                  "name": "Žako Lipšico memorialinis muziejus",
+                  "text": "A memorial museum dedicated to the famous sculptor Jacques Lipchitz in his birthplace.",
+                  "category": "museum",
+                  "coords": [
+                        23.972158,
+                        54.020043
+                  ]
+            },
+            {
+                  "name": "Druskininkų lynų kelias",
+                  "text": "A cable car system in Druskininkai connecting the town center with the Snow Arena.",
+                  "category": "landmark",
+                  "coords": [
+                        23.972702,
+                        54.023588
+                  ]
+            },
+            {
+                  "name": "Aqua park Druskininkai",
+                  "text": "A large indoor water park in Druskininkai featuring pools, slides, and saunas.",
+                  "category": "landmark",
+                  "coords": [
+                        23.97453,
+                        54.023424
+                  ]
+            },
+            {
+                  "name": "Snow Arena",
+                  "text": "A year-round indoor skiing complex and landmark in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.959705,
+                        54.030929
+                  ]
+            },
+            {
+                  "name": "Apverstas namas",
+                  "text": "A popular \"Upside-Down House\" tourist attraction located in Druskininkai.",
+                  "category": "landmark",
+                  "coords": [
+                        23.974096,
+                        54.01958
+                  ]
+            },
+            {
+                  "name": "Druskininkų ir Aušros šaltinis",
+                  "text": "Famous mineral water springs located in the resort park of Druskininkai.",
+                  "category": "landmark",
+                  "coords": [
+                        23.977131,
+                        54.021676
+                  ]
+            },
+            {
+                  "name": "Joy of all who Sorrow Church",
+                  "text": "An Orthodox church in Druskininkai known for its distinctive blue wooden architecture.",
+                  "category": "religious",
+                  "coords": [
+                        23.971185,
+                        54.021177
+                  ]
+            },
+            {
+                  "name": "Church of Our Lady of the Scapular",
+                  "text": "The main Catholic church in Druskininkai, built in the Neo-Gothic style.",
+                  "category": "religious",
+                  "coords": [
+                        23.974675,
+                        54.017267
+                  ]
+            },
+            {
+                  "name": "Orthodox church",
+                  "text": "An Orthodox place of worship located in the Druskininkai area.",
+                  "category": "religious",
+                  "coords": [
+                        23.973489,
+                        54.012707
+                  ]
+            },
+            {
+                  "name": "Parko tiltas",
+                  "text": "A scenic pedestrian bridge crossing the Ratnyčia river in Druskininkai.",
+                  "category": "landmark",
+                  "coords": [
+                        23.976565,
+                        54.024384
+                  ]
+            },
+            {
+                  "name": "Girininkijos tv.",
+                  "text": "Lake Girininkija in Druskininkai is located in the middle of the forest.",
+                  "category": "natural",
+                  "coords": [
+                        24.025484,
+                        54.01477
+                  ]
+            },
+            {
+                  "name": "ež. Gervinis",
+                  "text": "Gervinis lake near Druskininkai invites you to spend relaxing hours by the water.",
+                  "category": "natural",
+                  "coords": [
+                        23.900993,
+                        54.06479
+                  ]
+            },
+            {
+                  "name": "ež. Azagis",
+                  "text": "Lake Azagis is a calm body of water in Druskininkai, ideal for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        23.862096,
+                        54.05384
+                  ]
+            },
+            {
+                  "name": "ež. Mergelių Akys",
+                  "text": "Lake Mergelių Akys offers a scenic backdrop for walks in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.97005,
+                        54.010432
+                  ]
+            },
+            {
+                  "name": "ež. Juodelis",
+                  "text": "Lake Juodelis in Druskininkai is a crystal-clear forest lake.",
+                  "category": "natural",
+                  "coords": [
+                        23.969622,
+                        54.07739
+                  ]
+            },
+            {
+                  "name": "ež. Klonis",
+                  "text": "Enjoy the peaceful atmosphere at Lake Klonis in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.988439,
+                        54.076449
+                  ]
+            },
+            {
+                  "name": "ež. Kruglis",
+                  "text": "Lake Kruglis is a quiet excursion destination in the Druskininkai region.",
+                  "category": "natural",
+                  "coords": [
+                        23.964199,
+                        54.078719
+                  ]
+            },
+            {
+                  "name": "ež. Ončiuškis",
+                  "text": "Lake Ončiuškis invites you to relaxing moments in the nature of Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.981324,
+                        54.077002
+                  ]
+            },
+            {
+                  "name": "ež. Juodaitis",
+                  "text": "Lake Juodaitis is a scenic body of water in the surroundings of Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.891081,
+                        54.030409
+                  ]
+            },
+            {
+                  "name": "ež. Varlinis",
+                  "text": "Lake Varlinis offers a peaceful environment for those seeking relaxation in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        24.053945,
+                        54.023261
+                  ]
+            },
+            {
+                  "name": "ež. Grūtas",
+                  "text": "Lake Grūtas is a well-known body of water in Druskininkai, surrounded by beautiful scenery.",
+                  "category": "natural",
+                  "coords": [
+                        24.081587,
+                        54.026591
+                  ]
+            },
+            {
+                  "name": "Baltosios Ančios HE tv.",
+                  "text": "The reservoir of the Baltosios Ančios hydroelectric plant in Druskininkai is a popular water sports area.",
+                  "category": "natural",
+                  "coords": [
+                        23.789271,
+                        53.992215
+                  ]
+            },
+            {
+                  "name": "ež. Ilgis",
+                  "text": "Lake Ilgis is characterized by its quiet location in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        24.08159,
+                        54.0393
+                  ]
+            },
+            {
+                  "name": "Neravų tv.",
+                  "text": "The Neravų Reservoir offers a peaceful setting for nature observation in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        24.031444,
+                        54.030564
+                  ]
+            },
+            {
+                  "name": "Alkos I tv.",
+                  "text": "Lake Alka I in Druskininkai is a quiet lake near the resort.",
+                  "category": "natural",
+                  "coords": [
+                        23.98968,
+                        54.002792
+                  ]
+            },
+            {
+                  "name": "Alkos II tv.",
+                  "text": "The Alkos II Reservoir invites you to a relaxing outdoor stay in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.993638,
+                        54.007381
+                  ]
+            },
+            {
+                  "name": "ež. Baltajis Bilsas",
+                  "text": "Lake Baltajis Bilsas in Druskininkai is known for its white sandy beaches.",
+                  "category": "natural",
+                  "coords": [
+                        23.876179,
+                        54.057353
+                  ]
+            },
+            {
+                  "name": "ež. Juodiškis",
+                  "text": "Lake Juodiškis offers a quiet environment for a trip in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        24.006492,
+                        54.070905
+                  ]
+            },
+            {
+                  "name": "ež. Pamelnyčys",
+                  "text": "Lake Pamelnyčys is a peaceful place to enjoy nature in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        24.014208,
+                        54.072235
+                  ]
+            },
+            {
+                  "name": "ež. Vidutinis",
+                  "text": "Lake Vidutinis is a scenic spot in the aquatic landscape of Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        24.011531,
+                        54.074292
+                  ]
+            },
+            {
+                  "name": "ež. Skirzaitis",
+                  "text": "Lake Skirzaitis invites you to quiet walks along the shore in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.881707,
+                        54.006963
+                  ]
+            },
+            {
+                  "name": "ež. Skirzius",
+                  "text": "Lake Skirzius in Druskininkai is a bog lake with rare plants.",
+                  "category": "natural",
+                  "coords": [
+                        23.885462,
+                        54.016183
+                  ]
+            },
+            {
+                  "name": "ež. Ilgelis",
+                  "text": "Lake Ilgelis in Druskininkai is a small lake with fishing spots.",
+                  "category": "natural",
+                  "coords": [
+                        23.961441,
+                        54.083705
+                  ]
+            },
+            {
+                  "name": "ež. Maželis",
+                  "text": "Lake Maželis in Druskininkai is the smallest lake in the region.",
+                  "category": "natural",
+                  "coords": [
+                        23.955892,
+                        54.087199
+                  ]
+            },
+            {
+                  "name": "Vijūnėlės tv.",
+                  "text": "The Vijūnėlės Reservoir is a popular spot for leisure activities in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.963217,
+                        54.016439
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Druskininkai", hu: "Druskininkai", ro: "Druskininkai", en: "Druskininkai"},
@@ -12906,7 +14463,7 @@ imageHint: "Rokiskis manor and church square",
             },
             {
                   "name": "Biržų pilies tiltas",
-                  "text": "Die Brücke, die zur historischen Burg Biržai führt.",
+                  "text": "Eine historische Brücke, die zur Burg Biržai führt.",
                   "category": "landmark",
                   "coords": [
                         24.755627,
@@ -13025,7 +14582,7 @@ imageHint: "Rokiskis manor and church square",
             },
             {
                   "name": "Biržų pilies tiltas",
-                  "text": "A történelmi biržai várhoz vezető híd.",
+                  "text": "Egy történelmi híd, amely a biržai várhoz vezet.",
                   "category": "landmark",
                   "coords": [
                         24.755627,
@@ -13144,7 +14701,7 @@ imageHint: "Rokiskis manor and church square",
             },
             {
                   "name": "Biržų pilies tiltas",
-                  "text": "Podul care duce la castelul istoric Biržai.",
+                  "text": "Un pod istoric care duce la Castelul Biržai.",
                   "category": "landmark",
                   "coords": [
                         24.755627,
@@ -13263,7 +14820,7 @@ imageHint: "Rokiskis manor and church square",
             },
             {
                   "name": "Biržų pilies tiltas",
-                  "text": "The bridge leading to the historical Biržai Castle.",
+                  "text": "A historic bridge leading to Biržai Castle.",
                   "category": "landmark",
                   "coords": [
                         24.755627,
@@ -13339,7 +14896,7 @@ imageHint: "Birzai castle and lake bridge",
             },
             {
                   "name": "Beržonkos ež.",
-                  "text": "Der Beržonkos-See ist ein malerisches Gewässer in Elektrenai.",
+                  "text": "Der Beržonkos-See in Elektrėnai ist ein beliebter Badesee.",
                   "category": "natural",
                   "coords": [
                         24.776855,
@@ -13375,7 +14932,7 @@ imageHint: "Birzai castle and lake bridge",
             },
             {
                   "name": "ež. Varliukas",
-                  "text": "Der See Varliukas ist ein kleiner, friedlicher See in Elektrenai.",
+                  "text": "Der Varliukas-See in Elektrėnai ist ein kleiner, abgelegener See.",
                   "category": "natural",
                   "coords": [
                         24.651837,
@@ -13393,7 +14950,7 @@ imageHint: "Birzai castle and lake bridge",
             },
             {
                   "name": "ež. Bizdukas",
-                  "text": "Der See Bizdukas ist ein ruhiger Ort für einen Spaziergang in Elektrenai.",
+                  "text": "Der Bizdukas-See in Elektrėnai hat eine kleine Insel.",
                   "category": "natural",
                   "coords": [
                         24.689837,
@@ -13402,7 +14959,7 @@ imageHint: "Birzai castle and lake bridge",
             },
             {
                   "name": "ež. Kūdrelis",
-                  "text": "Der See Kūdrelis ist ein idyllisches Gewässer in Elektrenai.",
+                  "text": "Der Kūdrelis-See in Elektrėnai ist ein flacher See mit Schilfgürtel.",
                   "category": "natural",
                   "coords": [
                         24.711358,
@@ -13420,7 +14977,7 @@ imageHint: "Birzai castle and lake bridge",
             },
             {
                   "name": "Elektrėnų marios",
-                  "text": "Das Elektrėnai-Reservoir ist ein großes und beliebtes Gewässer für Erholung in Elektrenai.",
+                  "text": "Der Elektrėnai-Stausee ist das größte Gewässer der Gegend, umgeben von Wäldern.",
                   "category": "natural",
                   "coords": [
                         24.671892,
@@ -13438,7 +14995,7 @@ imageHint: "Birzai castle and lake bridge",
             },
             {
                   "name": "Austeriškių ež.",
-                  "text": "Der Austeriškių-See ist ein ruhiger Naturschauplatz in Elektrenai.",
+                  "text": "Der Austeriškių-See in Elektrėnai ist ein künstlicher See mit Bademöglichkeit.",
                   "category": "natural",
                   "coords": [
                         24.784358,
@@ -13456,7 +15013,7 @@ imageHint: "Birzai castle and lake bridge",
             },
             {
                   "name": "ež. Orys",
-                  "text": "Der See Orys ist ein idyllisches Ziel für einen Ausflug in Elektrenai.",
+                  "text": "Der Orys-See in Elektrėnai ist ein Moorsee mit dunklem Wasser.",
                   "category": "natural",
                   "coords": [
                         24.712592,
@@ -13492,7 +15049,7 @@ imageHint: "Birzai castle and lake bridge",
             },
             {
                   "name": "Geibonių ež.",
-                  "text": "Der Geibonių-See ist ein ruhiges Plätzchen in der Natur von Elektrenai.",
+                  "text": "Der Geibonių-See in Elektrėnai ist ein Angelsee mit Karpfenbesatz.",
                   "category": "natural",
                   "coords": [
                         24.703973,
@@ -13528,7 +15085,7 @@ imageHint: "Birzai castle and lake bridge",
             },
             {
                   "name": "ež. Salcekas",
-                  "text": "Der See Salcekas ist ein idyllisches Gewässer in der Nähe von Elektrenai.",
+                  "text": "Der Salcekas-See in Elektrėnai ist ein kleiner Waldsee.",
                   "category": "natural",
                   "coords": [
                         24.614351,
@@ -13555,7 +15112,7 @@ imageHint: "Birzai castle and lake bridge",
             },
             {
                   "name": "Kareivonių tv.",
-                  "text": "Das Kareivonių Reservoir ist ein ruhiger Ort für Erholung in Elektrenai.",
+                  "text": "Der Kareivionys-Teich, ein kleiner künstlicher See bei Elektrenai.",
                   "category": "natural",
                   "coords": [
                         24.603536,
@@ -13584,7 +15141,7 @@ imageHint: "Birzai castle and lake bridge",
             },
             {
                   "name": "Beržonkos ež.",
-                  "text": "A Beržonkos-tó egy festői vízfelület Elektrenaiban.",
+                  "text": "A elektrėnai Beržonkos-tó népszerű fürdőtó.",
                   "category": "natural",
                   "coords": [
                         24.776855,
@@ -13620,7 +15177,7 @@ imageHint: "Birzai castle and lake bridge",
             },
             {
                   "name": "ež. Varliukas",
-                  "text": "A Varliukas-tó egy apró, békés tó Elektrenaiban.",
+                  "text": "A elektrėnai Varliukas-tó egy kis, félreeső tó.",
                   "category": "natural",
                   "coords": [
                         24.651837,
@@ -13638,7 +15195,7 @@ imageHint: "Birzai castle and lake bridge",
             },
             {
                   "name": "ež. Bizdukas",
-                  "text": "A Bizdukas-tó nyugodt hely egy sétához Elektrenaiban.",
+                  "text": "A elektrėnai Bizdukas-tónak van egy kis szigete.",
                   "category": "natural",
                   "coords": [
                         24.689837,
@@ -13647,7 +15204,7 @@ imageHint: "Birzai castle and lake bridge",
             },
             {
                   "name": "ež. Kūdrelis",
-                  "text": "A Kūdrelis-tó egy idilli vízfelület Elektrenaiban.",
+                  "text": "A elektrėnai Kūdrelis-tó egy sekély tó nádassal.",
                   "category": "natural",
                   "coords": [
                         24.711358,
@@ -13665,7 +15222,7 @@ imageHint: "Birzai castle and lake bridge",
             },
             {
                   "name": "Elektrėnų marios",
-                  "text": "Az Elektrėnai-víztározó egy nagy és népszerű vízfelület a kikapcsolódáshoz Elektrenaiban.",
+                  "text": "Az elektrėnai víztározó a környék legnagyobb vízfelülete, erdőkkel körülvéve.",
                   "category": "natural",
                   "coords": [
                         24.671892,
@@ -13683,7 +15240,7 @@ imageHint: "Birzai castle and lake bridge",
             },
             {
                   "name": "Austeriškių ež.",
-                  "text": "Az Austeriškių-tó egy nyugodt természeti helyszín Elektrenaiban.",
+                  "text": "A elektrėnai Austeriškių-tó egy mesterséges tó fürdőzési lehetőséggel.",
                   "category": "natural",
                   "coords": [
                         24.784358,
@@ -13701,7 +15258,7 @@ imageHint: "Birzai castle and lake bridge",
             },
             {
                   "name": "ež. Orys",
-                  "text": "Az Orys-tó idilli úti cél egy kiránduláshoz Elektrenaiban.",
+                  "text": "A elektrėnai Orys-tó egy mocsári tó sötét vízzel.",
                   "category": "natural",
                   "coords": [
                         24.712592,
@@ -13737,7 +15294,7 @@ imageHint: "Birzai castle and lake bridge",
             },
             {
                   "name": "Geibonių ež.",
-                  "text": "A Geibonių-tó egy nyugodt hely Elektrenai természetében.",
+                  "text": "A elektrėnai Geibonių-tó egy horgásztó pontyokkal.",
                   "category": "natural",
                   "coords": [
                         24.703973,
@@ -13773,7 +15330,7 @@ imageHint: "Birzai castle and lake bridge",
             },
             {
                   "name": "ež. Salcekas",
-                  "text": "A Salcekas-tó egy idilli vízfelület Elektrenai közelében.",
+                  "text": "A elektrėnai Salcekas-tó egy kis erdei tó.",
                   "category": "natural",
                   "coords": [
                         24.614351,
@@ -13800,7 +15357,7 @@ imageHint: "Birzai castle and lake bridge",
             },
             {
                   "name": "Kareivonių tv.",
-                  "text": "A Kareivonių-víztározó nyugodt hely a kikapcsolódáshoz Elektrenaiban.",
+                  "text": "A Kareivionys-tó, egy kis mesterséges tó Elektrenai közelében.",
                   "category": "natural",
                   "coords": [
                         24.603536,
@@ -13829,7 +15386,7 @@ imageHint: "Birzai castle and lake bridge",
             },
             {
                   "name": "Beržonkos ež.",
-                  "text": "Lacul Beržonkos este o întindere de apă pitorească în Elektrenai.",
+                  "text": "Lacul Beržonka din Elektrėnai este un lac de înot popular.",
                   "category": "natural",
                   "coords": [
                         24.776855,
@@ -13865,7 +15422,7 @@ imageHint: "Birzai castle and lake bridge",
             },
             {
                   "name": "ež. Varliukas",
-                  "text": "Lacul Varliukas este un lac mic și liniștit în Elektrenai.",
+                  "text": "Lacul Varliukas din Elektrėnai este un lac mic și izolat.",
                   "category": "natural",
                   "coords": [
                         24.651837,
@@ -13883,7 +15440,7 @@ imageHint: "Birzai castle and lake bridge",
             },
             {
                   "name": "ež. Bizdukas",
-                  "text": "Lacul Bizdukas este un loc liniștit pentru o plimbare în Elektrenai.",
+                  "text": "Lacul Bizdukas din Elektrėnai are o insulă mică.",
                   "category": "natural",
                   "coords": [
                         24.689837,
@@ -13892,7 +15449,7 @@ imageHint: "Birzai castle and lake bridge",
             },
             {
                   "name": "ež. Kūdrelis",
-                  "text": "Lacul Kūdrelis este o întindere de apă idilică în Elektrenai.",
+                  "text": "Lacul Kūdrelis din Elektrėnai este un lac mic cu stuf.",
                   "category": "natural",
                   "coords": [
                         24.711358,
@@ -13910,7 +15467,7 @@ imageHint: "Birzai castle and lake bridge",
             },
             {
                   "name": "Elektrėnų marios",
-                  "text": "Rezervorul Elektrėnai este o întindere de apă mare și populară pentru recreere în Elektrenai.",
+                  "text": "Rezervorul Elektrėnai este cea mai mare întindere de apă din zonă, înconjurat de păduri.",
                   "category": "natural",
                   "coords": [
                         24.671892,
@@ -13928,7 +15485,7 @@ imageHint: "Birzai castle and lake bridge",
             },
             {
                   "name": "Austeriškių ež.",
-                  "text": "Lacul Austeriškių este un cadru natural liniștit în Elektrenai.",
+                  "text": "Lacul Austeriškiai din Elektrėnai este un lac artificial cu posibilitate de înot.",
                   "category": "natural",
                   "coords": [
                         24.784358,
@@ -13946,7 +15503,7 @@ imageHint: "Birzai castle and lake bridge",
             },
             {
                   "name": "ež. Orys",
-                  "text": "Lacul Orys este o destinație idilică pentru o excursie în Elektrenai.",
+                  "text": "Lacul Orys din Elektrėnai este un lac de mlaștină cu apă întunecată.",
                   "category": "natural",
                   "coords": [
                         24.712592,
@@ -13982,7 +15539,7 @@ imageHint: "Birzai castle and lake bridge",
             },
             {
                   "name": "Geibonių ež.",
-                  "text": "Lacul Geibonių este un loc liniștit în natura din Elektrenai.",
+                  "text": "Lacul Geiboniai din Elektrėnai este un lac de pescuit cu crapi.",
                   "category": "natural",
                   "coords": [
                         24.703973,
@@ -14018,7 +15575,7 @@ imageHint: "Birzai castle and lake bridge",
             },
             {
                   "name": "ež. Salcekas",
-                  "text": "Lacul Salcekas este o întindere de apă idilică lângă Elektrenai.",
+                  "text": "Lacul Salcekas din Elektrėnai este un mic lac de pădure.",
                   "category": "natural",
                   "coords": [
                         24.614351,
@@ -14045,7 +15602,7 @@ imageHint: "Birzai castle and lake bridge",
             },
             {
                   "name": "Kareivonių tv.",
-                  "text": "Rezervorul Kareivonių este un loc liniștit pentru recreere în Elektrenai.",
+                  "text": "Heleșteul Kareivionys, un mic lac artificial lângă Elektrenai.",
                   "category": "natural",
                   "coords": [
                         24.603536,
@@ -14074,7 +15631,7 @@ imageHint: "Birzai castle and lake bridge",
             },
             {
                   "name": "Beržonkos ež.",
-                  "text": "Beržonkos Lake is a scenic body of water in Elektrenai.",
+                  "text": "Lake Beržonka in Elektrėnai is a popular swimming lake.",
                   "category": "natural",
                   "coords": [
                         24.776855,
@@ -14110,7 +15667,7 @@ imageHint: "Birzai castle and lake bridge",
             },
             {
                   "name": "ež. Varliukas",
-                  "text": "Lake Varliukas is a small, peaceful lake in Elektrenai.",
+                  "text": "Lake Varliukas in Elektrėnai is a small, secluded lake.",
                   "category": "natural",
                   "coords": [
                         24.651837,
@@ -14128,7 +15685,7 @@ imageHint: "Birzai castle and lake bridge",
             },
             {
                   "name": "ež. Bizdukas",
-                  "text": "Lake Bizdukas is a calm place for a walk in Elektrenai.",
+                  "text": "Lake Bizdukas in Elektrėnai has a small island.",
                   "category": "natural",
                   "coords": [
                         24.689837,
@@ -14137,7 +15694,7 @@ imageHint: "Birzai castle and lake bridge",
             },
             {
                   "name": "ež. Kūdrelis",
-                  "text": "Lake Kūdrelis is an idyllic body of water in Elektrenai.",
+                  "text": "Lake Kūdrelis in Elektrėnai is a shallow lake with reeds.",
                   "category": "natural",
                   "coords": [
                         24.711358,
@@ -14155,7 +15712,7 @@ imageHint: "Birzai castle and lake bridge",
             },
             {
                   "name": "Elektrėnai Reservoir",
-                  "text": "The Elektrėnai Reservoir is a large and popular body of water for recreation in Elektrenai.",
+                  "text": "The Elektrėnai Reservoir is the largest body of water in the area, surrounded by forests.",
                   "category": "natural",
                   "coords": [
                         24.671892,
@@ -14173,7 +15730,7 @@ imageHint: "Birzai castle and lake bridge",
             },
             {
                   "name": "Austeriškių ež.",
-                  "text": "Austeriškių Lake is a peaceful natural setting in Elektrenai.",
+                  "text": "Lake Austeriškiai in Elektrėnai is an artificial lake with swimming.",
                   "category": "natural",
                   "coords": [
                         24.784358,
@@ -14191,7 +15748,7 @@ imageHint: "Birzai castle and lake bridge",
             },
             {
                   "name": "ež. Orys",
-                  "text": "Lake Orys is an idyllic destination for a trip in Elektrenai.",
+                  "text": "Lake Orys in Elektrėnai is a bog lake with dark water.",
                   "category": "natural",
                   "coords": [
                         24.712592,
@@ -14227,7 +15784,7 @@ imageHint: "Birzai castle and lake bridge",
             },
             {
                   "name": "Geibonių ež.",
-                  "text": "Geibonių Lake is a quiet spot in the nature of Elektrenai.",
+                  "text": "Lake Geiboniai in Elektrėnai is a fishing lake stocked with carp.",
                   "category": "natural",
                   "coords": [
                         24.703973,
@@ -14263,7 +15820,7 @@ imageHint: "Birzai castle and lake bridge",
             },
             {
                   "name": "ež. Salcekas",
-                  "text": "Lake Salcekas is an idyllic body of water near Elektrenai.",
+                  "text": "Lake Salcekas in Elektrėnai is a small forest lake.",
                   "category": "natural",
                   "coords": [
                         24.614351,
@@ -14290,7 +15847,7 @@ imageHint: "Birzai castle and lake bridge",
             },
             {
                   "name": "Kareivonių tv.",
-                  "text": "The Kareivonių Reservoir is a peaceful place for recreation in Elektrenai.",
+                  "text": "Kareivionys pond, a small man-made lake near Elektrenai.",
                   "category": "natural",
                   "coords": [
                         24.603536,
@@ -14348,7 +15905,7 @@ imageHint: "Elektrenai power plant and church",
       "de": [
             {
                   "name": "Maudykla-pliažas „Palangikė“",
-                  "text": "Badestrand „Palangikė“ in Kuršėnai.",
+                  "text": "Der Palangikė-Badestrände, ein beliebter Badeplatz in Kursenai.",
                   "category": "recreational",
                   "coords": [
                         22.959505,
@@ -14447,7 +16004,7 @@ imageHint: "Elektrenai power plant and church",
             },
             {
                   "name": "Gergždelių šiaurinis tv.",
-                  "text": "Ein schöner See in Kuršėnai, der sich hervorragend für eine Auszeit im Freien eignet.",
+                  "text": "Der nördliche Gergždėliai-Teich, ein Gewässer im Norden nahe Kursenai.",
                   "category": "natural",
                   "coords": [
                         23.003974,
@@ -14584,7 +16141,7 @@ imageHint: "Elektrenai power plant and church",
       "hu": [
             {
                   "name": "Maudykla-pliažas „Palangikė“",
-                  "text": "„Palangikė“ fürdőstrand Kuršėnaiban.",
+                  "text": "A Palangikė strand, egy népszerű fürdőhely Kursenaiban.",
                   "category": "recreational",
                   "coords": [
                         22.959505,
@@ -14683,7 +16240,7 @@ imageHint: "Elektrenai power plant and church",
             },
             {
                   "name": "Gergždelių šiaurinis tv.",
-                  "text": "Egy szép tó Kuršėnai területén, amely kiválóan alkalmas egy szabadtéri kikapcsolódásra.",
+                  "text": "A Gergždėliai-északi-tó, egy északi tó Kursenai közelében.",
                   "category": "natural",
                   "coords": [
                         23.003974,
@@ -14820,7 +16377,7 @@ imageHint: "Elektrenai power plant and church",
       "ro": [
             {
                   "name": "Maudykla-pliažas „Palangikė“",
-                  "text": "Plaja de scăldat „Palangikė“ în Kuršėnai.",
+                  "text": "Plaja Palangikė, o zonă populară de înot în Kursenai.",
                   "category": "recreational",
                   "coords": [
                         22.959505,
@@ -14919,7 +16476,7 @@ imageHint: "Elektrenai power plant and church",
             },
             {
                   "name": "Gergždelių šiaurinis tv.",
-                  "text": "Un lac frumos în Kuršėnai, excelent pentru o escapadă în aer liber.",
+                  "text": "Heleșteul nordic Gergždėliai, un lac în nordul zonei Kursenai.",
                   "category": "natural",
                   "coords": [
                         23.003974,
@@ -15056,7 +16613,7 @@ imageHint: "Elektrenai power plant and church",
       "en": [
             {
                   "name": "Maudykla-pliažas „Palangikė“",
-                  "text": "Maudykla-pliažas „Palangikė“ in Kursenai.",
+                  "text": "Palangikė swimming beach, a popular bathing spot in Kursenai.",
                   "category": "recreational",
                   "coords": [
                         22.959505,
@@ -15155,7 +16712,7 @@ imageHint: "Elektrenai power plant and church",
             },
             {
                   "name": "Gergždelių šiaurinis tv.",
-                  "text": "A lovely lake in Kuršėnai, great for an outdoor break.",
+                  "text": "Gergždėliai northern pond, a water body north of Kursenai.",
                   "category": "natural",
                   "coords": [
                         23.003974,
@@ -15339,7 +16896,7 @@ imageHint: "Kursenai pottery monument and bridge",
       "de": [
             {
                   "name": "Jurbarko paplūdimys",
-                  "text": "Strand von Jurbarkas.",
+                  "text": "Der Jurbarkas-Strand, ein sandiger Abschnitt an der Memel in Jurbarkas.",
                   "category": "recreational",
                   "coords": [
                         22.770597,
@@ -15429,7 +16986,7 @@ imageHint: "Kursenai pottery monument and bridge",
             },
             {
                   "name": "Vyninė Vilkenta",
-                  "text": "Ein Weingut und eine lokale Sehenswürdigkeit in der Region Jurbarkas.",
+                  "text": "Die Vilkenta-Weinkellerei, eine lokale Weinkellerei in Jurbarkas mit Fruchtweinen.",
                   "category": "landmark",
                   "coords": [
                         22.79086,
@@ -15458,7 +17015,7 @@ imageHint: "Kursenai pottery monument and bridge",
       "hu": [
             {
                   "name": "Jurbarko paplūdimys",
-                  "text": "Jurbarkas strandja.",
+                  "text": "A Jurbarkas strand, egy homokos szakasz a Nemunas folyón Jurbarkasban.",
                   "category": "recreational",
                   "coords": [
                         22.770597,
@@ -15548,7 +17105,7 @@ imageHint: "Kursenai pottery monument and bridge",
             },
             {
                   "name": "Vyninė Vilkenta",
-                  "text": "Borászat és helyi látnivaló Jurbarkas környékén.",
+                  "text": "A Vilkenta borászat, egy helyi borászati üzem Jurbarkasban gyümölcsborokkal.",
                   "category": "landmark",
                   "coords": [
                         22.79086,
@@ -15577,7 +17134,7 @@ imageHint: "Kursenai pottery monument and bridge",
       "ro": [
             {
                   "name": "Jurbarko paplūdimys",
-                  "text": "Plaja din Jurbarkas.",
+                  "text": "Plaja Jurbarkas, o porțiune nisipoasă pe râul Nemunas în Jurbarkas.",
                   "category": "recreational",
                   "coords": [
                         22.770597,
@@ -15667,7 +17224,7 @@ imageHint: "Kursenai pottery monument and bridge",
             },
             {
                   "name": "Vyninė Vilkenta",
-                  "text": "O vinărie și o atracție locală în regiunea Jurbarkas.",
+                  "text": "Crama Vilkenta, o cramă locală în Jurbarkas, specializată în vinuri din fructe.",
                   "category": "landmark",
                   "coords": [
                         22.79086,
@@ -15696,7 +17253,7 @@ imageHint: "Kursenai pottery monument and bridge",
       "en": [
             {
                   "name": "Jurbarko paplūdimys",
-                  "text": "Jurbarkas beach.",
+                  "text": "Jurbarkas beach, a sandy stretch along the Nemunas River in Jurbarkas.",
                   "category": "recreational",
                   "coords": [
                         22.770597,
@@ -15786,7 +17343,7 @@ imageHint: "Kursenai pottery monument and bridge",
             },
             {
                   "name": "Vyninė Vilkenta",
-                  "text": "A winery and local attraction in the Jurbarkas region.",
+                  "text": "Vilkenta winery, a local winery in Jurbarkas producing fruit wines.",
                   "category": "landmark",
                   "coords": [
                         22.79086,
@@ -15862,7 +17419,7 @@ imageHint: "Jurbarkas bridge over Nemunas and park",
       "de": [
             {
                   "name": "Tilto griuvėsiai",
-                  "text": "Historische Brückenruinen in der Umgebung von Garliava.",
+                  "text": "Brückenruinen in Garliava, Überreste einer historischen Brücke.",
                   "category": "historical",
                   "coords": [
                         23.906996,
@@ -15891,7 +17448,7 @@ imageHint: "Jurbarkas bridge over Nemunas and park",
       "hu": [
             {
                   "name": "Tilto griuvėsiai",
-                  "text": "Történelmi hídromok Garliava környékén.",
+                  "text": "Hídromok Garliavánál, egy történelmi híd maradványai.",
                   "category": "historical",
                   "coords": [
                         23.906996,
@@ -15920,7 +17477,7 @@ imageHint: "Jurbarkas bridge over Nemunas and park",
       "ro": [
             {
                   "name": "Tilto griuvėsiai",
-                  "text": "Ruinele unui pod istoric situate în apropiere de Garliava.",
+                  "text": "Ruinele podului din Garliava, vestigiile unui pod istoric.",
                   "category": "historical",
                   "coords": [
                         23.906996,
@@ -15949,7 +17506,7 @@ imageHint: "Jurbarkas bridge over Nemunas and park",
       "en": [
             {
                   "name": "Tilto griuvėsiai",
-                  "text": "Historical bridge ruins located in the vicinity of Garliava.",
+                  "text": "Bridge ruins in Garliava, remnants of a historic bridge.",
                   "category": "historical",
                   "coords": [
                         23.906996,
@@ -16801,7 +18358,7 @@ imageHint: "Raseiniai monument and church",
             },
             {
                   "name": "ež. Kunigo ežerėlis",
-                  "text": "Der See Kunigo ežerėlis ist ein kleiner, friedlicher See in Anykščiai.",
+                  "text": "Der Kunigo ežerėlis, ein kleiner See bei Anyksciai, auch „Priestersee“ genannt.",
                   "category": "natural",
                   "coords": [
                         25.025209,
@@ -17109,7 +18666,7 @@ imageHint: "Raseiniai monument and church",
             },
             {
                   "name": "ež. Kunigo ežerėlis",
-                  "text": "A Kunigo ežerėlis egy apró, békés tó Anykščiaiban.",
+                  "text": "A Kunigo ežerėlis, egy kis tó Anyksciai közelében, más néven Pap-tó.",
                   "category": "natural",
                   "coords": [
                         25.025209,
@@ -17417,7 +18974,7 @@ imageHint: "Raseiniai monument and church",
             },
             {
                   "name": "ež. Kunigo ežerėlis",
-                  "text": "Lacul Kunigo ežerėlis este un lac mic și liniștit în Anykščiai.",
+                  "text": "Lacul Kunigo ežerėlis, un mic lac lângă Anyksciai, numit și Lacul Preotului.",
                   "category": "natural",
                   "coords": [
                         25.025209,
@@ -17725,7 +19282,7 @@ imageHint: "Raseiniai monument and church",
             },
             {
                   "name": "ež. Kunigo ežerėlis",
-                  "text": "Lake Kunigo ežerėlis is a small, peaceful lake in Anykščiai.",
+                  "text": "Kunigo ežerėlis lake, a small lake near Anyksciai known as Priest's Lake.",
                   "category": "natural",
                   "coords": [
                         25.025209,
@@ -18972,7 +20529,7 @@ imageHint: "Lentvaris palace and lake",
             },
             {
                   "name": "Salų piliakalnis",
-                  "text": "Eine historische Wallburg in der Nähe von Grigiškės.",
+                  "text": "Der Salų piliakalnis, ein Inselburgberg auf der Neris bei Grigiskes.",
                   "category": "historical",
                   "coords": [
                         25.090363,
@@ -19062,7 +20619,7 @@ imageHint: "Lentvaris palace and lake",
             },
             {
                   "name": "Dėdeliškių ež.",
-                  "text": "Ein ruhiger See in Grigiskes, perfekt für einen entspannten Spaziergang.",
+                  "text": "Der Dėdeliškiai-See, ein Waldsee in der Nähe von Grigiskes.",
                   "category": "natural",
                   "coords": [
                         25.05045,
@@ -19224,7 +20781,7 @@ imageHint: "Lentvaris palace and lake",
             },
             {
                   "name": "Bevardis ež.",
-                  "text": "Ein kleiner See in Grigiskes für eine ruhige Auszeit in der Natur.",
+                  "text": "Der Bevardis-See, ein namenloser See in der Region Grigiskes.",
                   "category": "natural",
                   "coords": [
                         25.191472,
@@ -19271,7 +20828,7 @@ imageHint: "Lentvaris palace and lake",
             },
             {
                   "name": "Salų piliakalnis",
-                  "text": "Történelmi várhely Grigiškés környékén.",
+                  "text": "A Salų piliakalnis, egy szigeten lévő földvár a Neris folyón Grigiskes mellett.",
                   "category": "historical",
                   "coords": [
                         25.090363,
@@ -19361,7 +20918,7 @@ imageHint: "Lentvaris palace and lake",
             },
             {
                   "name": "Dėdeliškių ež.",
-                  "text": "Egy nyugodt tó Grigiskesben, tökéletes egy pihentető sétához.",
+                  "text": "A Dėdeliškiai-tó, egy erdei tó Grigiskes közelében.",
                   "category": "natural",
                   "coords": [
                         25.05045,
@@ -19523,7 +21080,7 @@ imageHint: "Lentvaris palace and lake",
             },
             {
                   "name": "Bevardis ež.",
-                  "text": "Egy kis tó Grigiskesben egy nyugodt természeti kikapcsolódáshoz.",
+                  "text": "A Bevardis-tó, egy névtelen tó a Grigiskes régióban.",
                   "category": "natural",
                   "coords": [
                         25.191472,
@@ -19570,7 +21127,7 @@ imageHint: "Lentvaris palace and lake",
             },
             {
                   "name": "Salų piliakalnis",
-                  "text": "Un sit istoric de fortificație situat în apropiere de Grigiškės.",
+                  "text": "Salų piliakalnis, o fortificație pe insulă pe râul Neris lângă Grigiskes.",
                   "category": "historical",
                   "coords": [
                         25.090363,
@@ -19660,7 +21217,7 @@ imageHint: "Lentvaris palace and lake",
             },
             {
                   "name": "Dėdeliškių ež.",
-                  "text": "Un lac liniștit în Grigiskes, perfect pentru o plimbare relaxantă.",
+                  "text": "Lacul Dėdeliškiai, un lac de pădure lângă Grigiskes.",
                   "category": "natural",
                   "coords": [
                         25.05045,
@@ -19822,7 +21379,7 @@ imageHint: "Lentvaris palace and lake",
             },
             {
                   "name": "Bevardis ež.",
-                  "text": "Un lac mic în Grigiskes pentru o pauză liniștită în natură.",
+                  "text": "Lacul Bevardis, un lac fără nume în regiunea Grigiskes.",
                   "category": "natural",
                   "coords": [
                         25.191472,
@@ -19869,7 +21426,7 @@ imageHint: "Lentvaris palace and lake",
             },
             {
                   "name": "Salų piliakalnis",
-                  "text": "A historical hillfort site located in the vicinity of Grigiškės.",
+                  "text": "Salų piliakalnis, an island hillfort on the Neris River near Grigiskes.",
                   "category": "historical",
                   "coords": [
                         25.090363,
@@ -19959,7 +21516,7 @@ imageHint: "Lentvaris palace and lake",
             },
             {
                   "name": "Dėdeliškių ež.",
-                  "text": "A calm lake in Grigiskes, perfect for a relaxed walk.",
+                  "text": "Dėdeliškiai lake, a forest lake near Grigiskes.",
                   "category": "natural",
                   "coords": [
                         25.05045,
@@ -20121,7 +21678,7 @@ imageHint: "Lentvaris palace and lake",
             },
             {
                   "name": "Bevardis ež.",
-                  "text": "A small lake in Grigiskes for a quiet break in nature.",
+                  "text": "Bevardis lake, an unnamed lake in the Grigiskes region.",
                   "category": "natural",
                   "coords": [
                         25.191472,
@@ -21397,7 +22954,7 @@ imageHint: "Joniskis synagogue and church",
             },
             {
                   "name": "ež. Plaušinis",
-                  "text": "Der See Plaušinis ist ein ruhiges Naturobjekt in der Region Varena.",
+                  "text": "Der Plaušinis-See, ein klarer See in den Wäldern von Varena.",
                   "category": "natural",
                   "coords": [
                         24.510518,
@@ -21406,7 +22963,7 @@ imageHint: "Joniskis synagogue and church",
             },
             {
                   "name": "ež. Ašarėlis",
-                  "text": "Der See Ašarėlis ist ein kleiner, idyllischer See in Varena.",
+                  "text": "Der Ašarėlis-See, ein kleiner See bei Varena; sein Name bedeutet „Tränchen“.",
                   "category": "natural",
                   "coords": [
                         24.590477,
@@ -21561,7 +23118,7 @@ imageHint: "Joniskis synagogue and church",
             },
             {
                   "name": "ež. Plaušinis",
-                  "text": "A Plaušinis-tó ein békés természeti képződmény Varena régiójában.",
+                  "text": "A Plaušinis-tó, egy tiszta vizű tó Varena erdeiben.",
                   "category": "natural",
                   "coords": [
                         24.510518,
@@ -21570,7 +23127,7 @@ imageHint: "Joniskis synagogue and church",
             },
             {
                   "name": "ež. Ašarėlis",
-                  "text": "Az Ašarėlis-tó egy apró, idilli tó Varenában.",
+                  "text": "A Ašarėlis-tó, egy kis tó Varena mellett; neve „könnyecskét” jelent.",
                   "category": "natural",
                   "coords": [
                         24.590477,
@@ -21725,7 +23282,7 @@ imageHint: "Joniskis synagogue and church",
             },
             {
                   "name": "ež. Plaušinis",
-                  "text": "Lacul Plaušinis este un obiectiv natural pașnic în regiunea Varena.",
+                  "text": "Lacul Plaušinis, un lac cu apă limpede în pădurile din Varena.",
                   "category": "natural",
                   "coords": [
                         24.510518,
@@ -21734,7 +23291,7 @@ imageHint: "Joniskis synagogue and church",
             },
             {
                   "name": "ež. Ašarėlis",
-                  "text": "Lacul Ašarėlis este un lac mic și idilic în Varena.",
+                  "text": "Lacul Ašarėlis, un mic lac lângă Varena; numele său înseamnă „lăcrimioară”.",
                   "category": "natural",
                   "coords": [
                         24.590477,
@@ -21889,7 +23446,7 @@ imageHint: "Joniskis synagogue and church",
             },
             {
                   "name": "ež. Plaušinis",
-                  "text": "Lake Plaušinis is a peaceful natural feature in the Varena region.",
+                  "text": "Plaušinis lake, a clear-water lake in the forests of Varena.",
                   "category": "natural",
                   "coords": [
                         24.510518,
@@ -21898,7 +23455,7 @@ imageHint: "Joniskis synagogue and church",
             },
             {
                   "name": "ež. Ašarėlis",
-                  "text": "Lake Ašarėlis is a small, idyllic lake in Varena.",
+                  "text": "Ašarėlis lake, a small lake near Varena; its name means 'little tear'.",
                   "category": "natural",
                   "coords": [
                         24.590477,
@@ -25336,7 +26893,7 @@ imageHint: "Zarasai lake panoramic view and bridge",
             },
             {
                   "name": "Skuodo kultūros centras",
-                  "text": "Ein Zentrum für kulturelle Veranstaltungen und Kunst in Skuodas.",
+                  "text": "Das Skuodas-Kulturzentrum, ein Treffpunkt für lokale Kunst und Aufführungen in Skuodas.",
                   "category": "cultural",
                   "coords": [
                         21.529547,
@@ -25345,7 +26902,7 @@ imageHint: "Zarasai lake panoramic view and bridge",
             },
             {
                   "name": "Skuodo Švč. Trejybės bažnyčia",
-                  "text": "Die katholische Dreifaltigkeitskirche in Skuodas.",
+                  "text": "Die Skuodo Švč. Trejybės bažnyčia ist eine barocke Holzkirche mit einem freistehenden Glockenturm.",
                   "category": "religious",
                   "coords": [
                         21.526932,
@@ -25374,7 +26931,7 @@ imageHint: "Zarasai lake panoramic view and bridge",
             },
             {
                   "name": "Skuodo kultūros centras",
-                  "text": "Skuodas kulturális rendezvényeinek és művészetének központja.",
+                  "text": "A Skuodas Kulturális Központ, a helyi művészet és előadások központja Skuodasban.",
                   "category": "cultural",
                   "coords": [
                         21.529547,
@@ -25383,7 +26940,7 @@ imageHint: "Zarasai lake panoramic view and bridge",
             },
             {
                   "name": "Skuodo Švč. Trejybės bažnyčia",
-                  "text": "Skuodas katolikus Szentháromság-temploma.",
+                  "text": "A skuodasi Szentháromság-templom egy barokk fatemplom szabadon álló harangtoronnyal.",
                   "category": "religious",
                   "coords": [
                         21.526932,
@@ -25412,7 +26969,7 @@ imageHint: "Zarasai lake panoramic view and bridge",
             },
             {
                   "name": "Skuodo kultūros centras",
-                  "text": "Un centru pentru evenimente culturale și artă în Skuodas.",
+                  "text": "Centrul Cultural Skuodas, un hub pentru arta și spectacolele locale din Skuodas.",
                   "category": "cultural",
                   "coords": [
                         21.529547,
@@ -25421,7 +26978,7 @@ imageHint: "Zarasai lake panoramic view and bridge",
             },
             {
                   "name": "Skuodo Švč. Trejybės bažnyčia",
-                  "text": "Biserica catolică Sfânta Treime din Skuodas.",
+                  "text": "Biserica Sfintei Treimi din Skuodas este o biserică de lemn barocă cu un turn de clopotniță separat.",
                   "category": "religious",
                   "coords": [
                         21.526932,
@@ -25450,7 +27007,7 @@ imageHint: "Zarasai lake panoramic view and bridge",
             },
             {
                   "name": "Skuodo kultūros centras",
-                  "text": "A center for cultural events and arts in Skuodas.",
+                  "text": "Skuodas Cultural Centre, a hub for local art and performances in Skuodas.",
                   "category": "cultural",
                   "coords": [
                         21.529547,
@@ -25459,7 +27016,7 @@ imageHint: "Zarasai lake panoramic view and bridge",
             },
             {
                   "name": "Skuodo Švč. Trejybės bažnyčia",
-                  "text": "The Catholic Holy Trinity Church in Skuodas.",
+                  "text": "The Holy Trinity Church in Skuodas is a Baroque wooden church with a freestanding bell tower.",
                   "category": "religious",
                   "coords": [
                         21.526932,
@@ -25978,7 +27535,7 @@ imageHint: "Sirvintos city park and river",
             },
             {
                   "name": "Molėtūno vandens malūnas",
-                  "text": "Die Überreste einer historischen Wassermühle in Molėtai.",
+                  "text": "Die Molėtūnas-Wassermühle, eine historische Mühle am Bach Molėtūnas in Moletai.",
                   "category": "historical",
                   "coords": [
                         25.393375,
@@ -26277,7 +27834,7 @@ imageHint: "Sirvintos city park and river",
             },
             {
                   "name": "Molėtūno vandens malūnas",
-                  "text": "Egy történelmi vízimalom maradványai Molėtaiban.",
+                  "text": "A Molėtūnas vízimalom, egy történelmi malom a Molėtūnas-patakon Moletai közelében.",
                   "category": "historical",
                   "coords": [
                         25.393375,
@@ -26576,7 +28133,7 @@ imageHint: "Sirvintos city park and river",
             },
             {
                   "name": "Molėtūno vandens malūnas",
-                  "text": "Resturile unei mori de apă istorice în Molėtai.",
+                  "text": "Moara de apă Molėtūnas, o moară istorică pe pârâul Molėtūnas lângă Moletai.",
                   "category": "historical",
                   "coords": [
                         25.393375,
@@ -26875,7 +28432,7 @@ imageHint: "Sirvintos city park and river",
             },
             {
                   "name": "Molėtūno vandens malūnas",
-                  "text": "The remains of a historical water mill in Molėtai.",
+                  "text": "Molėtūnas water mill, a historic mill on the Molėtūnas stream in Moletai.",
                   "category": "historical",
                   "coords": [
                         25.393375,
@@ -27163,7 +28720,268 @@ imageHint: "Moletai ethnocosmology museum architecture",
     },
     image: "/poi-images/lithuania-moletai-cities-v2.webp",
 },  {
-    id: "lithuania-salcininkai-cities-v2", "sights": {"de": [{"name": "Šalčininkų dvaro sodyba", "text": "Ein klassizistisches Herrenhaus in Šalčininkai, das historisch mit der Familie Wagner verbunden ist.", "category": "historical", "coords": [25.393432, 54.311961]}, {"name": "Šalčininkų Šv. apaštalo Petro bažnyčia", "text": "Eine katholische Kirche in Šalčininkai.", "category": "religious", "coords": [25.397441, 54.303456]}, {"name": "Šalčininkų Šv. Tichono maldos namai", "text": "Ein orthodoxes Gotteshaus in Šalčininkai.", "category": "religious", "coords": [25.392545, 54.304966]}, {"name": "Benyakonskae vozera", "text": "Ein See bei Salcininkai, ideal für eine Pause in einer ruhigen Umgebung.", "category": "natural", "coords": [25.368954, 54.255551]}, {"name": "Šalčininkų I tv.", "text": "Ein See in Salcininkai, der eine angenehme Kulisse für Spaziergänge am Wasser bietet.", "category": "natural", "coords": [25.39032, 54.309141]}, {"name": "Tribonių žuvininkystės tv.", "text": "Ein Gewässerkomplex bei Salcininkai, der sich gut in die lokale Natur einfügt.", "category": "natural", "coords": [25.316758, 54.284562]}, {"name": "Šalčininkų II tv.", "text": "Ein weiterer ruhiger See in Salcininkai, passend für Erholung im Freien.", "category": "natural", "coords": [25.396932, 54.318924]}], "hu": [{"name": "Šalčininkų dvaro sodyba", "text": "Klasszicista kúria Šalčininkai településen, amely történelmileg a Wagner családhoz köthető.", "category": "historical", "coords": [25.393432, 54.311961]}, {"name": "Šalčininkų Šv. apaštalo Petro bažnyčia", "text": "Katolikus templom Šalčininkai városában.", "category": "religious", "coords": [25.397441, 54.303456]}, {"name": "Šalčininkų Šv. Tichono maldos namai", "text": "Ortodox imaház Šalčininkai településen.", "category": "religious", "coords": [25.392545, 54.304966]}, {"name": "Benyakonskae vozera", "text": "Salcininkai melletti tó, amely ideális egy pihenőhöz nyugodt környezetben.", "category": "natural", "coords": [25.368954, 54.255551]}, {"name": "Šalčininkų I tv.", "text": "Salcininkai-i tó, amely kellemes környezetet biztosít a vízparti sétákhoz.", "category": "natural", "coords": [25.39032, 54.309141]}, {"name": "Tribonių žuvininkystės tv.", "text": "Vízfelület-együttes Salcininkai közelében, amely jól illeszkedik a helyi természetbe.", "category": "natural", "coords": [25.316758, 54.284562]}, {"name": "Šalčininkų II tv.", "text": "Újabb csendes tó Salcininkai területén, amely alkalmas a szabadtéri pihenésre.", "category": "natural", "coords": [25.396932, 54.318924]}], "ro": [{"name": "Šalčininkų dvaro sodyba", "text": "Un conac neoclasic din Šalčininkai, asociat istoric cu familia Wagner.", "category": "historical", "coords": [25.393432, 54.311961]}, {"name": "Šalčininkų Šv. apaštalo Petro bažnyčia", "text": "O biserică romano-catolică din Šalčininkai.", "category": "religious", "coords": [25.397441, 54.303456]}, {"name": "Šalčininkų Šv. Tichono maldos namai", "text": "O casă de rugăciune ortodoxă din Šalčininkai.", "category": "religious", "coords": [25.392545, 54.304966]}, {"name": "Benyakonskae vozera", "text": "Un lac lângă Salcininkai, ideal pentru o pauză într-un mediu liniștit.", "category": "natural", "coords": [25.368954, 54.255551]}, {"name": "Šalčininkų I tv.", "text": "Un lac în Salcininkai, care oferă un cadru plăcut pentru plimbări pe malul apei.", "category": "natural", "coords": [25.39032, 54.309141]}, {"name": "Tribonių žuvininkystės tv.", "text": "Un complex acvatic lângă Salcininkai, care se integrează frumos în natura locală.", "category": "natural", "coords": [25.316758, 54.284562]}, {"name": "Šalčininkų II tv.", "text": "Un alt lac liniștit în Salcininkai, potrivit pentru recreere în aer liber.", "category": "natural", "coords": [25.396932, 54.318924]}], "en": [{"name": "Šalčininkų dvaro sodyba", "text": "A Neoclassical manor house in Šalčininkai, historically associated with the Wagner family.", "category": "historical", "coords": [25.393432, 54.311961]}, {"name": "Šalčininkų Šv. apaštalo Petro bažnyčia", "text": "A Catholic church located in Šalčininkai.", "category": "religious", "coords": [25.397441, 54.303456]}, {"name": "Šalčininkų Šv. Tichono maldos namai", "text": "An Orthodox house of prayer in Šalčininkai.", "category": "religious", "coords": [25.392545, 54.304966]}, {"name": "Benyakonskae vozera", "text": "A lake near Salcininkai, ideal for a break in a calm environment.", "category": "natural", "coords": [25.368954, 54.255551]}, {"name": "Šalčininkų I tv.", "text": "A lake in Salcininkai, offering a pleasant setting for walks by the water.", "category": "natural", "coords": [25.39032, 54.309141]}, {"name": "Tribonys fishponds", "text": "A water complex near Salcininkai, fitting well into the local natural landscape.", "category": "natural", "coords": [25.316758, 54.284562]}, {"name": "Šalčininkų II tv.", "text": "Another quiet lake in Salcininkai, suitable for outdoor recreation.", "category": "natural", "coords": [25.396932, 54.318924]}]},
+    id: "lithuania-salcininkai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Šalčininkų dvaro sodyba",
+                  "text": "Ein klassizistisches Herrenhaus in Šalčininkai, das historisch mit der Familie Wagner verbunden ist.",
+                  "category": "historical",
+                  "coords": [
+                        25.393432,
+                        54.311961
+                  ]
+            },
+            {
+                  "name": "Šalčininkų Šv. apaštalo Petro bažnyčia",
+                  "text": "Die Šalčininkų Šv. apaštalo Petro bažnyčia ist eine neoklassizistische Kirche mit einer Säulenvorhalle.",
+                  "category": "religious",
+                  "coords": [
+                        25.397441,
+                        54.303456
+                  ]
+            },
+            {
+                  "name": "Šalčininkų Šv. Tichono maldos namai",
+                  "text": "Orthodoxes Gebetshaus des Heiligen Tichon in Šalčininkai.",
+                  "category": "religious",
+                  "coords": [
+                        25.392545,
+                        54.304966
+                  ]
+            },
+            {
+                  "name": "Benyakonskae vozera",
+                  "text": "Ein See bei Salcininkai, ideal für eine Pause in einer ruhigen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        25.368954,
+                        54.255551
+                  ]
+            },
+            {
+                  "name": "Šalčininkų I tv.",
+                  "text": "Ein See in Salcininkai, der eine angenehme Kulisse für Spaziergänge am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.39032,
+                        54.309141
+                  ]
+            },
+            {
+                  "name": "Tribonių žuvininkystės tv.",
+                  "text": "Ein Gewässerkomplex bei Salcininkai, der sich gut in die lokale Natur einfügt.",
+                  "category": "natural",
+                  "coords": [
+                        25.316758,
+                        54.284562
+                  ]
+            },
+            {
+                  "name": "Šalčininkų II tv.",
+                  "text": "Ein weiterer ruhiger See in Salcininkai, passend für Erholung im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        25.396932,
+                        54.318924
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Šalčininkų dvaro sodyba",
+                  "text": "Klasszicista kúria Šalčininkai településen, amely történelmileg a Wagner családhoz köthető.",
+                  "category": "historical",
+                  "coords": [
+                        25.393432,
+                        54.311961
+                  ]
+            },
+            {
+                  "name": "Šalčininkų Šv. apaštalo Petro bažnyčia",
+                  "text": "A šalčininkaii Szent Péter apostol-templom egy neoklasszicista templom oszlopos előcsarnokkal.",
+                  "category": "religious",
+                  "coords": [
+                        25.397441,
+                        54.303456
+                  ]
+            },
+            {
+                  "name": "Šalčininkų Šv. Tichono maldos namai",
+                  "text": "Szent Tyihon ortodox imaháza Šalčininkaiban.",
+                  "category": "religious",
+                  "coords": [
+                        25.392545,
+                        54.304966
+                  ]
+            },
+            {
+                  "name": "Benyakonskae vozera",
+                  "text": "Salcininkai melletti tó, amely ideális egy pihenőhöz nyugodt környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        25.368954,
+                        54.255551
+                  ]
+            },
+            {
+                  "name": "Šalčininkų I tv.",
+                  "text": "Salcininkai-i tó, amely kellemes környezetet biztosít a vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.39032,
+                        54.309141
+                  ]
+            },
+            {
+                  "name": "Tribonių žuvininkystės tv.",
+                  "text": "Vízfelület-együttes Salcininkai közelében, amely jól illeszkedik a helyi természetbe.",
+                  "category": "natural",
+                  "coords": [
+                        25.316758,
+                        54.284562
+                  ]
+            },
+            {
+                  "name": "Šalčininkų II tv.",
+                  "text": "Újabb csendes tó Salcininkai területén, amely alkalmas a szabadtéri pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        25.396932,
+                        54.318924
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Šalčininkų dvaro sodyba",
+                  "text": "Un conac neoclasic din Šalčininkai, asociat istoric cu familia Wagner.",
+                  "category": "historical",
+                  "coords": [
+                        25.393432,
+                        54.311961
+                  ]
+            },
+            {
+                  "name": "Šalčininkų Šv. apaštalo Petro bažnyčia",
+                  "text": "Biserica Sfântul Apostol Petru din Šalčininkai este o biserică neoclasică cu un pridvor cu coloane.",
+                  "category": "religious",
+                  "coords": [
+                        25.397441,
+                        54.303456
+                  ]
+            },
+            {
+                  "name": "Šalčininkų Šv. Tichono maldos namai",
+                  "text": "Casă de rugăciune ortodoxă a Sfântului Tihon din Šalčininkai.",
+                  "category": "religious",
+                  "coords": [
+                        25.392545,
+                        54.304966
+                  ]
+            },
+            {
+                  "name": "Benyakonskae vozera",
+                  "text": "Un lac lângă Salcininkai, ideal pentru o pauză într-un mediu liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        25.368954,
+                        54.255551
+                  ]
+            },
+            {
+                  "name": "Šalčininkų I tv.",
+                  "text": "Un lac în Salcininkai, care oferă un cadru plăcut pentru plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        25.39032,
+                        54.309141
+                  ]
+            },
+            {
+                  "name": "Tribonių žuvininkystės tv.",
+                  "text": "Un complex acvatic lângă Salcininkai, care se integrează frumos în natura locală.",
+                  "category": "natural",
+                  "coords": [
+                        25.316758,
+                        54.284562
+                  ]
+            },
+            {
+                  "name": "Šalčininkų II tv.",
+                  "text": "Un alt lac liniștit în Salcininkai, potrivit pentru recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        25.396932,
+                        54.318924
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Šalčininkų dvaro sodyba",
+                  "text": "A Neoclassical manor house in Šalčininkai, historically associated with the Wagner family.",
+                  "category": "historical",
+                  "coords": [
+                        25.393432,
+                        54.311961
+                  ]
+            },
+            {
+                  "name": "Šalčininkų Šv. apaštalo Petro bažnyčia",
+                  "text": "St. Peter the Apostle Church in Šalčininkai is a Neoclassical church with a columned portico.",
+                  "category": "religious",
+                  "coords": [
+                        25.397441,
+                        54.303456
+                  ]
+            },
+            {
+                  "name": "Šalčininkų Šv. Tichono maldos namai",
+                  "text": "Orthodox prayer house of St. Tikhon in Šalčininkai.",
+                  "category": "religious",
+                  "coords": [
+                        25.392545,
+                        54.304966
+                  ]
+            },
+            {
+                  "name": "Benyakonskae vozera",
+                  "text": "A lake near Salcininkai, ideal for a break in a calm environment.",
+                  "category": "natural",
+                  "coords": [
+                        25.368954,
+                        54.255551
+                  ]
+            },
+            {
+                  "name": "Šalčininkų I tv.",
+                  "text": "A lake in Salcininkai, offering a pleasant setting for walks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        25.39032,
+                        54.309141
+                  ]
+            },
+            {
+                  "name": "Tribonys fishponds",
+                  "text": "A water complex near Salcininkai, fitting well into the local natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        25.316758,
+                        54.284562
+                  ]
+            },
+            {
+                  "name": "Šalčininkų II tv.",
+                  "text": "Another quiet lake in Salcininkai, suitable for outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        25.396932,
+                        54.318924
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Šalčininkai", hu: "Šalčininkai", ro: "Šalčininkai", en: "Šalčininkai"},
@@ -27312,7 +29130,7 @@ imageHint: "Salcininkai manor house and park",
             },
             {
                   "name": "Apolo wake park",
-                  "text": "Der Apolo Wake Park ist ein Themenpark in Šakiai, der sich dem Wakeboarding widmet.",
+                  "text": "Der Apolo Wake Park, ein Kabelwasserskipark auf einem See bei Sakiai.",
                   "category": "recreational",
                   "coords": [
                         23.084287,
@@ -27422,7 +29240,7 @@ imageHint: "Salcininkai manor house and park",
             },
             {
                   "name": "Apolo wake park",
-                  "text": "Az Apolo wake park egy szabadtéri élménypark Šakiaiban, amely a wakeboardozásra összpontosít.",
+                  "text": "Az Apolo Wake Park, egy kábeles wakeboard park egy tóban Sakiai közelében.",
                   "category": "recreational",
                   "coords": [
                         23.084287,
@@ -27532,7 +29350,7 @@ imageHint: "Salcininkai manor house and park",
             },
             {
                   "name": "Apolo wake park",
-                  "text": "Apolo wake park este un parc tematic în aer liber din Šakiai dedicat wakeboarding-ului.",
+                  "text": "Apolo Wake Park, un parc de wakeboarding cu cablu pe un lac lângă Sakiai.",
                   "category": "recreational",
                   "coords": [
                         23.084287,
@@ -27642,7 +29460,7 @@ imageHint: "Salcininkai manor house and park",
             },
             {
                   "name": "Apolo wake park",
-                  "text": "Apolo wake park is an outdoor theme park in Šakiai dedicated to wakeboarding.",
+                  "text": "Apolo wake park, a cable wakeboarding park on a lake near Sakiai.",
                   "category": "recreational",
                   "coords": [
                         23.084287,
@@ -27746,7 +29564,7 @@ imageHint: "Kybartai railway border crossing",
       "de": [
             {
                   "name": "Pabradės Švč. Mergelės Marijos Šeimų karalienės bažnyčia",
-                  "text": "Eine moderne katholische Kirche in Pabradė.",
+                  "text": "Katholische Kirche Mariens, der Königin der Familien, in Pabradė.",
                   "category": "religious",
                   "coords": [
                         25.764848,
@@ -27755,7 +29573,7 @@ imageHint: "Kybartai railway border crossing",
             },
             {
                   "name": "Pabradės Šv. Sergijaus Radonežiečio cerkvė",
-                  "text": "Eine orthodoxe Kirche in Pabradė.",
+                  "text": "Orthodoxe Kirche des Heiligen Sergius von Radonesch in Pabradė.",
                   "category": "religious",
                   "coords": [
                         25.76694,
@@ -27899,7 +29717,7 @@ imageHint: "Kybartai railway border crossing",
             },
             {
                   "name": "ež. Pašliaužas",
-                  "text": "Ein ruhiger See bei Pabrade, der eine idyllische Aussicht bietet.",
+                  "text": "Der Pašliaužas-See, ein ruhiger See in der Gegend von Pabrade.",
                   "category": "natural",
                   "coords": [
                         25.669328,
@@ -27991,7 +29809,7 @@ imageHint: "Kybartai railway border crossing",
       "hu": [
             {
                   "name": "Pabradės Švč. Mergelės Marijos Šeimų karalienės bažnyčia",
-                  "text": "Modern katolikus templom Pabradė városában.",
+                  "text": "Mária, a Családok Királynője római katolikus temploma Pabradėben.",
                   "category": "religious",
                   "coords": [
                         25.764848,
@@ -28000,7 +29818,7 @@ imageHint: "Kybartai railway border crossing",
             },
             {
                   "name": "Pabradės Šv. Sergijaus Radonežiečio cerkvė",
-                  "text": "Ortodox templom Pabradė városában.",
+                  "text": "Radonyezsi Szent Szergij ortodox temploma Pabradėben.",
                   "category": "religious",
                   "coords": [
                         25.76694,
@@ -28144,7 +29962,7 @@ imageHint: "Kybartai railway border crossing",
             },
             {
                   "name": "ež. Pašliaužas",
-                  "text": "Csendes tó Pabrade mellett, amely idilli kilátást nyújt.",
+                  "text": "A Pašliaužas-tó, egy nyugodt tó a Pabrade környékén.",
                   "category": "natural",
                   "coords": [
                         25.669328,
@@ -28236,7 +30054,7 @@ imageHint: "Kybartai railway border crossing",
       "ro": [
             {
                   "name": "Pabradės Švč. Mergelės Marijos Šeimų karalienės bažnyčia",
-                  "text": "O biserică catolică modernă din Pabradė.",
+                  "text": "Biserica catolică a Maicii Domnului, Regina Familiilor, din Pabradė.",
                   "category": "religious",
                   "coords": [
                         25.764848,
@@ -28245,7 +30063,7 @@ imageHint: "Kybartai railway border crossing",
             },
             {
                   "name": "Pabradės Šv. Sergijaus Radonežiečio cerkvė",
-                  "text": "O biserică ortodoxă din Pabradė.",
+                  "text": "Biserica ortodoxă a Sfântului Serghie de Radonej din Pabradė.",
                   "category": "religious",
                   "coords": [
                         25.76694,
@@ -28389,7 +30207,7 @@ imageHint: "Kybartai railway border crossing",
             },
             {
                   "name": "ež. Pašliaužas",
-                  "text": "Un lac liniștit lângă Pabrade, care oferă o priveliște idilică.",
+                  "text": "Lacul Pašliaužas, un lac liniștit în zona Pabrade.",
                   "category": "natural",
                   "coords": [
                         25.669328,
@@ -28481,7 +30299,7 @@ imageHint: "Kybartai railway border crossing",
       "en": [
             {
                   "name": "Pabradės Švč. Mergelės Marijos Šeimų karalienės bažnyčia",
-                  "text": "A modern Catholic church in Pabradė.",
+                  "text": "Catholic church of Mary, Queen of Families, in Pabradė.",
                   "category": "religious",
                   "coords": [
                         25.764848,
@@ -28490,7 +30308,7 @@ imageHint: "Kybartai railway border crossing",
             },
             {
                   "name": "Pabradės Šv. Sergijaus Radonežiečio cerkvė",
-                  "text": "An Orthodox church in Pabradė.",
+                  "text": "Orthodox church of St. Sergius of Radonezh in Pabradė.",
                   "category": "religious",
                   "coords": [
                         25.76694,
@@ -28634,7 +30452,7 @@ imageHint: "Kybartai railway border crossing",
             },
             {
                   "name": "ež. Pašliaužas",
-                  "text": "A quiet lake near Pabrade, offering an idyllic view.",
+                  "text": "Pašliaužas lake, a serene lake in the Pabrade area.",
                   "category": "natural",
                   "coords": [
                         25.669328,
@@ -29116,7 +30934,7 @@ imageHint: "Silale church and central park",
       "de": [
             {
                   "name": "Vėlykščio nudistų paplūdimys",
-                  "text": "FKK-Strand Vėlykščis in Ignalina.",
+                  "text": "Der Vėlykščio Nacktbadestrand, ein textilfreier Strand am Vėlykštis-See bei Ignalina.",
                   "category": "recreational",
                   "coords": [
                         26.214716,
@@ -29352,7 +31170,7 @@ imageHint: "Silale church and central park",
       "hu": [
             {
                   "name": "Vėlykščio nudistų paplūdimys",
-                  "text": "Vėlykščis nudista strand Ignalinában.",
+                  "text": "A Vėlykščio nudist strand, egy ruha nélküli strand a Vėlykštis-tónál Ignalina közelében.",
                   "category": "recreational",
                   "coords": [
                         26.214716,
@@ -29588,7 +31406,7 @@ imageHint: "Silale church and central park",
       "ro": [
             {
                   "name": "Vėlykščio nudistų paplūdimys",
-                  "text": "Plaja de nudiști Vėlykščis din Ignalina.",
+                  "text": "Plaja nudistă Vėlykščio, o plajă pentru nudisti pe lacul Vėlykštis lângă Ignalina.",
                   "category": "recreational",
                   "coords": [
                         26.214716,
@@ -29824,7 +31642,7 @@ imageHint: "Silale church and central park",
       "en": [
             {
                   "name": "Vėlykščio nudistų paplūdimys",
-                  "text": "Vėlykščis nudist beach in Ignalina.",
+                  "text": "Vėlykščio nudist beach, a clothing-optional beach on Lake Vėlykštis near Ignalina.",
                   "category": "recreational",
                   "coords": [
                         26.214716,
@@ -30107,7 +31925,7 @@ imageHint: "Ignalina winter sports center and lake",
       "de": [
             {
                   "name": "Balto molio papludimys",
-                  "text": "Weißer Sandstrand in der Nähe von Nemenčinė.",
+                  "text": "Der Balto molio Strand, ein Strand aus weißem Ton an der Neris in Nemencine.",
                   "category": "recreational",
                   "coords": [
                         25.509586,
@@ -30134,7 +31952,7 @@ imageHint: "Ignalina winter sports center and lake",
             },
             {
                   "name": "Buvusi ryšių bazė",
-                  "text": "Überreste einer ehemaligen Kommunikationsbasis bei Nemenčinė.",
+                  "text": "Die ehemalige Kommunikationsbasis bei Nemencine, heute ein historisches Gelände.",
                   "category": "historical",
                   "coords": [
                         25.441027,
@@ -30152,7 +31970,7 @@ imageHint: "Ignalina winter sports center and lake",
             },
             {
                   "name": "Naujasis Nemenčinės tiltas",
-                  "text": "Eine moderne Brücke über die Neris in Nemenčinė.",
+                  "text": "Die neuere von zwei Brücken über den Fluss in Nemenčinė.",
                   "category": "landmark",
                   "coords": [
                         25.471404,
@@ -30161,7 +31979,7 @@ imageHint: "Ignalina winter sports center and lake",
             },
             {
                   "name": "Nemenčinės tiltas",
-                  "text": "Eine Brücke über die Neris im Stadtgebiet von Nemenčinė.",
+                  "text": "Die ältere Brücke über den Fluss in Nemenčinė.",
                   "category": "landmark",
                   "coords": [
                         25.463733,
@@ -30170,7 +31988,7 @@ imageHint: "Ignalina winter sports center and lake",
             },
             {
                   "name": "Nemenčinės kapinių koplyčia",
-                  "text": "Eine kleine Kapelle auf dem Friedhof von Nemenčinė.",
+                  "text": "Eine Friedhofskapelle in Nemenčinė.",
                   "category": "religious",
                   "coords": [
                         25.45974,
@@ -30233,7 +32051,7 @@ imageHint: "Ignalina winter sports center and lake",
             },
             {
                   "name": "Trinkulio tv.",
-                  "text": "Ein ruhiger See bei Nemencine, der sich gut für Spaziergänge eignet.",
+                  "text": "Der Trinkulio-Teich, ein kleiner Stausee im Gebiet Trinkuliai bei Nemencine.",
                   "category": "natural",
                   "coords": [
                         25.546667,
@@ -30352,7 +32170,7 @@ imageHint: "Ignalina winter sports center and lake",
       "hu": [
             {
                   "name": "Balto molio papludimys",
-                  "text": "Fehér homokos strand Nemenčinė közelében.",
+                  "text": "A Balto molio strand, egy fehér agyagos strand a Neris folyón Nemencinében.",
                   "category": "recreational",
                   "coords": [
                         25.509586,
@@ -30379,7 +32197,7 @@ imageHint: "Ignalina winter sports center and lake",
             },
             {
                   "name": "Buvusi ryšių bazė",
-                  "text": "Egy egykori hírközlési bázis maradványai Nemenčinėben.",
+                  "text": "A volt kommunikációs bázis Nemencine közelében, ma történelmi helyszín.",
                   "category": "historical",
                   "coords": [
                         25.441027,
@@ -30397,7 +32215,7 @@ imageHint: "Ignalina winter sports center and lake",
             },
             {
                   "name": "Naujasis Nemenčinės tiltas",
-                  "text": "Modern híd a Neris felett Nemenčinėben.",
+                  "text": "A folyón átívelő két híd közül az újabb Nemenčinėben.",
                   "category": "landmark",
                   "coords": [
                         25.471404,
@@ -30406,7 +32224,7 @@ imageHint: "Ignalina winter sports center and lake",
             },
             {
                   "name": "Nemenčinės tiltas",
-                  "text": "Híd a Neris folyón Nemenčinė területén.",
+                  "text": "A régebbi híd a folyón Nemenčinėben.",
                   "category": "landmark",
                   "coords": [
                         25.463733,
@@ -30415,7 +32233,7 @@ imageHint: "Ignalina winter sports center and lake",
             },
             {
                   "name": "Nemenčinės kapinių koplyčia",
-                  "text": "Kisméretű kápolna a nemenčinėi temetőben.",
+                  "text": "Egy temetőkápolna Nemenčinėben.",
                   "category": "religious",
                   "coords": [
                         25.45974,
@@ -30478,7 +32296,7 @@ imageHint: "Ignalina winter sports center and lake",
             },
             {
                   "name": "Trinkulio tv.",
-                  "text": "Csendes tó Nemencine közelében, amely kiválóan alkalmas sétákhoz.",
+                  "text": "A Trinkulio-tó, egy kis víztározó a Trinkuliai területen Nemencine közelében.",
                   "category": "natural",
                   "coords": [
                         25.546667,
@@ -30597,7 +32415,7 @@ imageHint: "Ignalina winter sports center and lake",
       "ro": [
             {
                   "name": "Balto molio papludimys",
-                  "text": "Plajă cu nisip alb lângă Nemenčinė.",
+                  "text": "Plaja Balto molio, o plajă cu argilă albă pe râul Neris în Nemencine.",
                   "category": "recreational",
                   "coords": [
                         25.509586,
@@ -30624,7 +32442,7 @@ imageHint: "Ignalina winter sports center and lake",
             },
             {
                   "name": "Buvusi ryšių bazė",
-                  "text": "Ruinele unei foste baze de comunicații de lângă Nemenčinė.",
+                  "text": "Fosta bază de comunicații lângă Nemencine, acum un sit istoric.",
                   "category": "historical",
                   "coords": [
                         25.441027,
@@ -30642,7 +32460,7 @@ imageHint: "Ignalina winter sports center and lake",
             },
             {
                   "name": "Naujasis Nemenčinės tiltas",
-                  "text": "Un pod modern peste râul Neris în Nemenčinė.",
+                  "text": "Cel mai nou dintre cele două poduri peste râu din Nemenčinė.",
                   "category": "landmark",
                   "coords": [
                         25.471404,
@@ -30651,7 +32469,7 @@ imageHint: "Ignalina winter sports center and lake",
             },
             {
                   "name": "Nemenčinės tiltas",
-                  "text": "Un pod peste râul Neris în localitatea Nemenčinė.",
+                  "text": "Podul mai vechi peste râu din Nemenčinė.",
                   "category": "landmark",
                   "coords": [
                         25.463733,
@@ -30660,7 +32478,7 @@ imageHint: "Ignalina winter sports center and lake",
             },
             {
                   "name": "Nemenčinės kapinių koplyčia",
-                  "text": "O mică capelă situată în cimitirul din Nemenčinė.",
+                  "text": "O capelă de cimitir în Nemenčinė.",
                   "category": "religious",
                   "coords": [
                         25.45974,
@@ -30723,7 +32541,7 @@ imageHint: "Ignalina winter sports center and lake",
             },
             {
                   "name": "Trinkulio tv.",
-                  "text": "Un lac liniștit lângă Nemencine, potrivit pentru plimbări.",
+                  "text": "Heleșteul Trinkulio, un mic rezervor în zona Trinkuliai lângă Nemencine.",
                   "category": "natural",
                   "coords": [
                         25.546667,
@@ -30842,7 +32660,7 @@ imageHint: "Ignalina winter sports center and lake",
       "en": [
             {
                   "name": "Balto molio papludimys",
-                  "text": "White clay beach near Nemencine.",
+                  "text": "Balto molio beach, a white clay beach on the Neris River in Nemencine.",
                   "category": "recreational",
                   "coords": [
                         25.509586,
@@ -30869,7 +32687,7 @@ imageHint: "Ignalina winter sports center and lake",
             },
             {
                   "name": "Buvusi ryšių bazė",
-                  "text": "Ruins of a former communication base near Nemenčinė.",
+                  "text": "Former communications base near Nemencine, now a historical site.",
                   "category": "historical",
                   "coords": [
                         25.441027,
@@ -30887,7 +32705,7 @@ imageHint: "Ignalina winter sports center and lake",
             },
             {
                   "name": "Naujasis Nemenčinės tiltas",
-                  "text": "A modern bridge crossing the Neris River in Nemenčinė.",
+                  "text": "The newer of two bridges over the river in Nemenčinė.",
                   "category": "landmark",
                   "coords": [
                         25.471404,
@@ -30896,7 +32714,7 @@ imageHint: "Ignalina winter sports center and lake",
             },
             {
                   "name": "Nemenčinės tiltas",
-                  "text": "A bridge crossing the Neris River in Nemenčinė.",
+                  "text": "The older bridge over the river in Nemenčinė.",
                   "category": "landmark",
                   "coords": [
                         25.463733,
@@ -30905,7 +32723,7 @@ imageHint: "Ignalina winter sports center and lake",
             },
             {
                   "name": "Nemenčinės kapinių koplyčia",
-                  "text": "A small chapel located in the Nemenčinė cemetery.",
+                  "text": "A cemetery chapel in Nemenčinė.",
                   "category": "religious",
                   "coords": [
                         25.45974,
@@ -30968,7 +32786,7 @@ imageHint: "Ignalina winter sports center and lake",
             },
             {
                   "name": "Trinkulio tv.",
-                  "text": "A quiet lake near Nemencine, well-suited for strolls.",
+                  "text": "Trinkulio pond, a small reservoir in the Trinkuliai area near Nemencine.",
                   "category": "natural",
                   "coords": [
                         25.546667,
@@ -31188,7 +33006,7 @@ imageHint: "Nemencine bridge over Neris river",
             },
             {
                   "name": "Pakruojo Šv. Jono Krikštytojo bažnyčia",
-                  "text": "Eine lokale katholische Kirche, die der Gemeinde Pakruojis dient.",
+                  "text": "Die Pakruojo Šv. Jono Krikštytojo bažnyčia ist eine gotische Backsteinkirche mit einem massiven Westturm.",
                   "category": "religious",
                   "coords": [
                         23.853941,
@@ -31397,7 +33215,7 @@ imageHint: "Nemencine bridge over Neris river",
             },
             {
                   "name": "Pakruojo Šv. Jono Krikštytojo bažnyčia",
-                  "text": "Helyi katolikus templom, amely a pakruojisi plébániát szolgálja.",
+                  "text": "A pakruojisi Keresztelő Szent János-templom egy gótikus téglatemplom masszív nyugati toronnyal.",
                   "category": "religious",
                   "coords": [
                         23.853941,
@@ -31606,7 +33424,7 @@ imageHint: "Nemencine bridge over Neris river",
             },
             {
                   "name": "Pakruojo Šv. Jono Krikštytojo bažnyčia",
-                  "text": "O biserică catolică locală care deservește parohia Pakruojis.",
+                  "text": "Biserica Sfântul Ioan Botezătorul din Pakruojis este o biserică gotică de cărămidă cu un turn masiv de vest.",
                   "category": "religious",
                   "coords": [
                         23.853941,
@@ -31815,7 +33633,7 @@ imageHint: "Nemencine bridge over Neris river",
             },
             {
                   "name": "Pakruojo Šv. Jono Krikštytojo bažnyčia",
-                  "text": "A local Catholic church serving the Pakruojis parish.",
+                  "text": "St. John the Baptist Church in Pakruojis is a Gothic brick church with a massive west tower.",
                   "category": "religious",
                   "coords": [
                         23.853941,
@@ -32026,7 +33844,7 @@ imageHint: "Pakruojis manor and stone bridge",
             },
             {
                   "name": "ež. Pakinis",
-                  "text": "Der Pakinis-See in Svencioneliai ist ein kleiner, ruhiger Naturort.",
+                  "text": "Der Pakinis-See, ein kleiner See im Kreis Svencioneliai.",
                   "category": "natural",
                   "coords": [
                         25.92514,
@@ -32143,7 +33961,7 @@ imageHint: "Pakruojis manor and stone bridge",
             },
             {
                   "name": "ež. Buivydas",
-                  "text": "Der See Buivydas in Svencioneliai ist ein ruhiges Naturziel in der Region.",
+                  "text": "Der Buivydas-See, ein See in der Gegend von Svencioneliai, benannt nach der Familie Buivydas.",
                   "category": "natural",
                   "coords": [
                         25.977442,
@@ -32188,7 +34006,7 @@ imageHint: "Pakruojis manor and stone bridge",
             },
             {
                   "name": "ež. Sergelis",
-                  "text": "Der See Sergelis in Svencioneliai ist ein friedliches Ziel für Wanderer.",
+                  "text": "Der Sergelis-See, ein friedlicher See in Svencioneliai.",
                   "category": "natural",
                   "coords": [
                         25.951485,
@@ -32226,7 +34044,7 @@ imageHint: "Pakruojis manor and stone bridge",
             },
             {
                   "name": "ež. Pakinis",
-                  "text": "A Pakinis-tó Svencioneliai területén egy kicsi, csendes természeti helyszín.",
+                  "text": "A Pakinis-tó, egy kis tó a Svencioneliai járásban.",
                   "category": "natural",
                   "coords": [
                         25.92514,
@@ -32343,7 +34161,7 @@ imageHint: "Pakruojis manor and stone bridge",
             },
             {
                   "name": "ež. Buivydas",
-                  "text": "A Buivydas-tó Svencioneliai környékén egy csendes természeti célpont a régióban.",
+                  "text": "A Buivydas-tó, egy tó Svencioneliai környékén, a Buivydas családról elnevezve.",
                   "category": "natural",
                   "coords": [
                         25.977442,
@@ -32388,7 +34206,7 @@ imageHint: "Pakruojis manor and stone bridge",
             },
             {
                   "name": "ež. Sergelis",
-                  "text": "A Sergelis-tó Svencioneliai környékén békés célpont a túrázók számára.",
+                  "text": "A Sergelis-tó, egy békés tó Svencioneliaiban.",
                   "category": "natural",
                   "coords": [
                         25.951485,
@@ -32426,7 +34244,7 @@ imageHint: "Pakruojis manor and stone bridge",
             },
             {
                   "name": "ež. Pakinis",
-                  "text": "Lacul Pakinis din Svencioneliai este un loc natural mic și liniștit.",
+                  "text": "Lacul Pakinis, un mic lac în districtul Svencioneliai.",
                   "category": "natural",
                   "coords": [
                         25.92514,
@@ -32543,7 +34361,7 @@ imageHint: "Pakruojis manor and stone bridge",
             },
             {
                   "name": "ež. Buivydas",
-                  "text": "Lacul Buivydas din Svencioneliai este o destinație naturală liniștită din regiune.",
+                  "text": "Lacul Buivydas, un lac în zona Svencioneliai, numit după familia Buivydas.",
                   "category": "natural",
                   "coords": [
                         25.977442,
@@ -32588,7 +34406,7 @@ imageHint: "Pakruojis manor and stone bridge",
             },
             {
                   "name": "ež. Sergelis",
-                  "text": "Lacul Sergelis din Svencioneliai este o destinație pașnică pentru drumeți.",
+                  "text": "Lacul Sergelis, un lac liniștit în Svencioneliai.",
                   "category": "natural",
                   "coords": [
                         25.951485,
@@ -32626,7 +34444,7 @@ imageHint: "Pakruojis manor and stone bridge",
             },
             {
                   "name": "ež. Pakinis",
-                  "text": "Pakinis Lake in Svencioneliai is a small, quiet natural spot.",
+                  "text": "Pakinis lake, a small lake in the Svencioneliai district.",
                   "category": "natural",
                   "coords": [
                         25.92514,
@@ -32743,7 +34561,7 @@ imageHint: "Pakruojis manor and stone bridge",
             },
             {
                   "name": "ež. Buivydas",
-                  "text": "Buivydas Lake in Svencioneliai is a quiet natural destination in the region.",
+                  "text": "Buivydas lake, a lake in the Svencioneliai area named after the Buivydas family.",
                   "category": "natural",
                   "coords": [
                         25.977442,
@@ -32788,7 +34606,7 @@ imageHint: "Pakruojis manor and stone bridge",
             },
             {
                   "name": "ež. Sergelis",
-                  "text": "Sergelis Lake in Svencioneliai is a peaceful destination for hikers.",
+                  "text": "Sergelis lake, a peaceful lake in Svencioneliai.",
                   "category": "natural",
                   "coords": [
                         25.951485,
@@ -33324,7 +35142,7 @@ imageHint: "Vievis lake and church",
             },
             {
                   "name": "ež. Aukštakalnis",
-                  "text": "Ein kleiner See in Lazdijai, umgeben von sanfter Natur.",
+                  "text": "Der Aukštakalnis-See, ein See bei Lazdijai; sein Name bedeutet „Hoher Hügel“.",
                   "category": "natural",
                   "coords": [
                         23.45328,
@@ -33333,7 +35151,7 @@ imageHint: "Vievis lake and church",
             },
             {
                   "name": "Teizų ež.",
-                  "text": "Ein friedlicher See in Lazdijai, der sich gut für einen Spaziergang eignet.",
+                  "text": "Der Teizai-See, ein See im Dorf Teizai nahe Lazdijai.",
                   "category": "natural",
                   "coords": [
                         23.619872,
@@ -33587,7 +35405,7 @@ imageHint: "Vievis lake and church",
             },
             {
                   "name": "ež. Aukštakalnis",
-                  "text": "Kicsi tó Lazdijai területén, szelíd természet által körülvéve.",
+                  "text": "A Aukštakalnis-tó, egy tó Lazdijai mellett; neve „Magasdomb”-ot jelent.",
                   "category": "natural",
                   "coords": [
                         23.45328,
@@ -33596,7 +35414,7 @@ imageHint: "Vievis lake and church",
             },
             {
                   "name": "Teizų ež.",
-                  "text": "Békés tó Lazdijai területén, amely alkalmas egy kellemes sétára.",
+                  "text": "A Teizai-tó, egy tó a Teizai faluban Lazdijai közelében.",
                   "category": "natural",
                   "coords": [
                         23.619872,
@@ -33850,7 +35668,7 @@ imageHint: "Vievis lake and church",
             },
             {
                   "name": "ež. Aukštakalnis",
-                  "text": "Un lac mic în Lazdijai, înconjurat de o natură blândă.",
+                  "text": "Lacul Aukštakalnis, un lac lângă Lazdijai; numele său înseamnă „Deal Înalt”.",
                   "category": "natural",
                   "coords": [
                         23.45328,
@@ -33859,7 +35677,7 @@ imageHint: "Vievis lake and church",
             },
             {
                   "name": "Teizų ež.",
-                  "text": "Un lac pașnic în Lazdijai, potrivit pentru o plimbare.",
+                  "text": "Lacul Teizai, un lac în satul Teizai lângă Lazdijai.",
                   "category": "natural",
                   "coords": [
                         23.619872,
@@ -34113,7 +35931,7 @@ imageHint: "Vievis lake and church",
             },
             {
                   "name": "ež. Aukštakalnis",
-                  "text": "A small lake in Lazdijai, surrounded by gentle nature.",
+                  "text": "Aukštakalnis lake, a lake near Lazdijai; its name means 'High Hill'.",
                   "category": "natural",
                   "coords": [
                         23.45328,
@@ -34122,7 +35940,7 @@ imageHint: "Vievis lake and church",
             },
             {
                   "name": "Teizų ež.",
-                  "text": "A peaceful lake in Lazdijai, well-suited for a walk.",
+                  "text": "Teizai lake, a lake in the village of Teizai near Lazdijai.",
                   "category": "natural",
                   "coords": [
                         23.619872,
@@ -34198,7 +36016,7 @@ imageHint: "Lazdijai border crossing and church",
       "de": [
             {
                   "name": "Spūskai",
-                  "text": "Spūskai-Strand in der Nähe von Kalvarija.",
+                  "text": "Spūskai, ein beliebtes Badegebiet in Kalvarija.",
                   "category": "recreational",
                   "coords": [
                         23.209029,
@@ -34398,7 +36216,7 @@ imageHint: "Lazdijai border crossing and church",
       "hu": [
             {
                   "name": "Spūskai",
-                  "text": "Spūskai strand Kalvarija közelében.",
+                  "text": "Spūskai, egy népszerű fürdőhely Kalvarijában.",
                   "category": "recreational",
                   "coords": [
                         23.209029,
@@ -34598,7 +36416,7 @@ imageHint: "Lazdijai border crossing and church",
       "ro": [
             {
                   "name": "Spūskai",
-                  "text": "Plaja Spūskai lângă Kalvarija.",
+                  "text": "Spūskai, o zonă populară de înot în Kalvarija.",
                   "category": "recreational",
                   "coords": [
                         23.209029,
@@ -34798,7 +36616,7 @@ imageHint: "Lazdijai border crossing and church",
       "en": [
             {
                   "name": "Spūskai",
-                  "text": "Spūskai beach near Kalvarija.",
+                  "text": "Spūskai, a popular swimming area in Kalvarija.",
                   "category": "recreational",
                   "coords": [
                         23.209029,
@@ -35838,7 +37656,7 @@ imageHint: "Lazdijai border crossing and church",
       "de": [
             {
                   "name": "Veiviržėnų maudykla",
-                  "text": "Badestelle Veiviržėnai in der Ortschaft Veiviržėnai.",
+                  "text": "Die Veiviržėnai-Badestelle, ein ausgewiesener Badeplatz am Fluss Veiviržas.",
                   "category": "recreational",
                   "coords": [
                         21.599383,
@@ -35856,7 +37674,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Vyskupiškių piliakalnis",
-                  "text": "Ein weiterer historischer Burgberg in der Region Veiviržėnai.",
+                  "text": "Eine Hügelburg nahe dem Dorf Vyskupiškes.",
                   "category": "historical",
                   "coords": [
                         21.565972,
@@ -35874,7 +37692,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Veiviržėnų Šv. apaštalo evangelisto Mato bažnyčia",
-                  "text": "Die katholische St.-Matthäus-Kirche in Veiviržėnai.",
+                  "text": "Katholische Kirche des Heiligen Matthäus, des Evangelisten, in Veiviržėnai.",
                   "category": "religious",
                   "coords": [
                         21.599669,
@@ -35894,7 +37712,7 @@ imageHint: "Lazdijai border crossing and church",
       "hu": [
             {
                   "name": "Veiviržėnų maudykla",
-                  "text": "Veiviržėnai fürdőhely Veiviržėnai településen.",
+                  "text": "A Veiviržėnai fürdőhely, egy kijelölt fürdőhely a Veiviržas folyón.",
                   "category": "recreational",
                   "coords": [
                         21.599383,
@@ -35912,7 +37730,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Vyskupiškių piliakalnis",
-                  "text": "Újabb történelmi várhely Veiviržėnai régiójában.",
+                  "text": "Egy földvár Vyskupiškes falu közelében.",
                   "category": "historical",
                   "coords": [
                         21.565972,
@@ -35930,7 +37748,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Veiviržėnų Šv. apaštalo evangelisto Mato bažnyčia",
-                  "text": "Veiviržėnai katolikus Szent Máté-temploma.",
+                  "text": "Szent Máté evangélista római katolikus temploma Veiviržėnaiban.",
                   "category": "religious",
                   "coords": [
                         21.599669,
@@ -35950,7 +37768,7 @@ imageHint: "Lazdijai border crossing and church",
       "ro": [
             {
                   "name": "Veiviržėnų maudykla",
-                  "text": "Loc de scăldat Veiviržėnai în localitatea Veiviržėnai.",
+                  "text": "Zona de înot Veiviržėnai, o plajă amenajată pe râul Veiviržas.",
                   "category": "recreational",
                   "coords": [
                         21.599383,
@@ -35968,7 +37786,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Vyskupiškių piliakalnis",
-                  "text": "O altă așezare fortificată istorică în regiunea Veiviržėnai.",
+                  "text": "O fortificație de deal lângă satul Vyskupiškes.",
                   "category": "historical",
                   "coords": [
                         21.565972,
@@ -35986,7 +37804,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Veiviržėnų Šv. apaštalo evangelisto Mato bažnyčia",
-                  "text": "Biserica catolică Sfântul Matei din Veiviržėnai.",
+                  "text": "Biserica catolică a Sfântului Matei Evanghelistul din Veiviržėnai.",
                   "category": "religious",
                   "coords": [
                         21.599669,
@@ -36006,7 +37824,7 @@ imageHint: "Lazdijai border crossing and church",
       "en": [
             {
                   "name": "Veiviržėnų maudykla",
-                  "text": "Veiviržėnai swimming area in the town of Veiviržėnai.",
+                  "text": "Veiviržėnai swimming area, a designated bathing spot on the Veiviržas River.",
                   "category": "recreational",
                   "coords": [
                         21.599383,
@@ -36024,7 +37842,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Vyskupiškių piliakalnis",
-                  "text": "Another historical hillfort in the Veiviržėnai region.",
+                  "text": "A hillfort near Vyskupiškes village.",
                   "category": "historical",
                   "coords": [
                         21.565972,
@@ -36042,7 +37860,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Veiviržėnų Šv. apaštalo evangelisto Mato bažnyčia",
-                  "text": "The Catholic St. Matthew's Church in Veiviržėnai.",
+                  "text": "Catholic church of St. Matthew the Evangelist in Veiviržėnai.",
                   "category": "religious",
                   "coords": [
                         21.599669,
@@ -36297,7 +38115,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Daugų irklavimo bazės paplūdimys",
-                  "text": "Ein Strand in Daugai, der zur lokalen Ruderbasis gehört.",
+                  "text": "Der Daugai-Ruderbasisstrand, ein Sandstrand am Daugai-See für Ruderer.",
                   "category": "recreational",
                   "coords": [
                         24.345305,
@@ -36335,7 +38153,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Daugų irklavimo bazės paplūdimys",
-                  "text": "Daugai strandja, amely a helyi evezős bázishoz tartozik.",
+                  "text": "A Daugai evezős bázis strand, egy homokos strand a Daugai-tónál evezősöknek.",
                   "category": "recreational",
                   "coords": [
                         24.345305,
@@ -36373,7 +38191,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Daugų irklavimo bazės paplūdimys",
-                  "text": "O plajă în Daugai, aparținând bazei locale de canotaj.",
+                  "text": "Plaja bazei de canotaj Daugai, o plajă nisipoasă pe lacul Daugai pentru canotori.",
                   "category": "recreational",
                   "coords": [
                         24.345305,
@@ -36411,7 +38229,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Daugų irklavimo bazės paplūdimys",
-                  "text": "A beach in Daugai belonging to the local rowing base.",
+                  "text": "Daugai rowing base beach, a sandy beach on Lake Daugai for rowing.",
                   "category": "recreational",
                   "coords": [
                         24.345305,
@@ -37797,7 +39615,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Prastavonių tv.",
-                  "text": "Ein beschaulicher Teich in Seduva, perfekt für Naturliebhaber.",
+                  "text": "Der Prastavonys-Teich, ein Angelplatz in der Nähe von Seduva.",
                   "category": "natural",
                   "coords": [
                         23.785121,
@@ -37806,7 +39624,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Arimaičių ež.",
-                  "text": "Ein großer See bei Seduva, der zu ausgiebigen Spaziergängen einlädt.",
+                  "text": "Der Arimaičiai-See, ein kleiner See in der Region Seduva.",
                   "category": "natural",
                   "coords": [
                         23.660721,
@@ -37835,7 +39653,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Prastavonių tv.",
-                  "text": "Megnyugtató tó Seduva területén, tökéletes a természet kedvelőinek.",
+                  "text": "A Prastavonys-tó, egy horgászhely Seduva közelében.",
                   "category": "natural",
                   "coords": [
                         23.785121,
@@ -37844,7 +39662,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Arimaičių ež.",
-                  "text": "Nagy tó Seduva közelében, amely hosszú sétákra hív.",
+                  "text": "A Arimaičiai-tó, egy kis tó a Seduva régióban.",
                   "category": "natural",
                   "coords": [
                         23.660721,
@@ -37873,7 +39691,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Prastavonių tv.",
-                  "text": "Un iaz liniștit în Seduva, perfect pentru iubitorii de natură.",
+                  "text": "Heleșteul Prastavonys, un loc de pescuit lângă Seduva.",
                   "category": "natural",
                   "coords": [
                         23.785121,
@@ -37882,7 +39700,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Arimaičių ež.",
-                  "text": "Un lac mare lângă Seduva, care invită la plimbări lungi.",
+                  "text": "Lacul Arimaičiai, un mic lac în regiunea Seduva.",
                   "category": "natural",
                   "coords": [
                         23.660721,
@@ -37911,7 +39729,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Prastavonių tv.",
-                  "text": "A tranquil pond in Seduva, perfect for nature lovers.",
+                  "text": "Prastavonys pond, a fishing spot near Seduva.",
                   "category": "natural",
                   "coords": [
                         23.785121,
@@ -37920,7 +39738,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Arimaičių ež.",
-                  "text": "A large lake near Seduva, inviting for long walks.",
+                  "text": "Arimaičiai lake, a small lake in the Seduva region.",
                   "category": "natural",
                   "coords": [
                         23.660721,
@@ -38283,7 +40101,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Veisiejų Šv. Jurgio bažnyčia",
-                  "text": "Die St.-Georgs-Kirche ist ein bedeutendes religiöses Denkmal in Veisiejai.",
+                  "text": "Katholische Kirche des Heiligen Georg in Veisiejai.",
                   "category": "religious",
                   "coords": [
                         23.694946,
@@ -38319,7 +40137,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "ež. Bludelis",
-                  "text": "Der Bludelis-See in Veisiejai ist ein naturbelassener See, der zum Entspannen einlädt.",
+                  "text": "Der Bludelis-See, ein See im Gebiet von Veisiejai.",
                   "category": "natural",
                   "coords": [
                         23.659263,
@@ -38609,7 +40427,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Veisiejų Šv. Jurgio bažnyčia",
-                  "text": "A Szent György-templom Veisiejai jelentős vallási műemléke.",
+                  "text": "Szent György római katolikus temploma Veisiejai-ban.",
                   "category": "religious",
                   "coords": [
                         23.694946,
@@ -38645,7 +40463,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "ež. Bludelis",
-                  "text": "A Veisiejai közelében fekvő Bludelis-tó egy érintetlen tó, amely kikapcsolódásra hívogat.",
+                  "text": "A Bludelis-tó, egy tó a Veisiejai környékén.",
                   "category": "natural",
                   "coords": [
                         23.659263,
@@ -38935,7 +40753,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Veisiejų Šv. Jurgio bažnyčia",
-                  "text": "Biserica Sfântul Gheorghe este un monument religios important din Veisiejai.",
+                  "text": "Biserica catolică a Sfântului Gheorghe din Veisiejai.",
                   "category": "religious",
                   "coords": [
                         23.694946,
@@ -38971,7 +40789,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "ež. Bludelis",
-                  "text": "Lacul Bludelis din Veisiejai este un lac natural care invită la relaxare.",
+                  "text": "Lacul Bludelis, un lac în zona Veisiejai.",
                   "category": "natural",
                   "coords": [
                         23.659263,
@@ -39261,7 +41079,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Veisiejų Šv. Jurgio bažnyčia",
-                  "text": "St. George's Church is a significant religious monument in Veisiejai.",
+                  "text": "Catholic church of St. George in Veisiejai.",
                   "category": "religious",
                   "coords": [
                         23.694946,
@@ -39297,7 +41115,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "ež. Bludelis",
-                  "text": "Lake Bludelis in Veisiejai is a natural lake that invites visitors to relax.",
+                  "text": "Bludelis lake, a lake in the Veisiejai area.",
                   "category": "natural",
                   "coords": [
                         23.659263,
@@ -39624,7 +41442,7 @@ imageHint: "Lazdijai border crossing and church",
       "de": [
             {
                   "name": "Rimolių piliakalnis",
-                  "text": "Ein archäologisch bedeutender Burgberg bei Varduva.",
+                  "text": "Eine Hügelburg nahe dem Dorf Rimoliai.",
                   "category": "historical",
                   "coords": [
                         22.07175,
@@ -39635,7 +41453,7 @@ imageHint: "Lazdijai border crossing and church",
       "hu": [
             {
                   "name": "Rimolių piliakalnis",
-                  "text": "Régészetileg jelentős várhely Varduva közelében.",
+                  "text": "Egy földvár Rimoliai falu közelében.",
                   "category": "historical",
                   "coords": [
                         22.07175,
@@ -39646,7 +41464,7 @@ imageHint: "Lazdijai border crossing and church",
       "ro": [
             {
                   "name": "Rimolių piliakalnis",
-                  "text": "Un sit arheologic de tip dâmb de fortificație lângă Varduva.",
+                  "text": "O fortificație de deal lângă satul Rimoliai.",
                   "category": "historical",
                   "coords": [
                         22.07175,
@@ -39657,7 +41475,7 @@ imageHint: "Lazdijai border crossing and church",
       "en": [
             {
                   "name": "Rimolių piliakalnis",
-                  "text": "An archaeologically significant hillfort near Varduva.",
+                  "text": "A hillfort near Rimoliai village.",
                   "category": "historical",
                   "coords": [
                         22.07175,
@@ -40092,7 +41910,7 @@ imageHint: "Lazdijai border crossing and church",
       "de": [
             {
                   "name": "Daučkėnų buv. dvaro sodybos fragmentai",
-                  "text": "Die Überreste eines ehemaligen Herrenhauses in Pabiržė.",
+                  "text": "Die Ruinen eines ehemaligen Gutshofs in Daučkėnai.",
                   "category": "historical",
                   "coords": [
                         24.62835,
@@ -40103,7 +41921,7 @@ imageHint: "Lazdijai border crossing and church",
       "hu": [
             {
                   "name": "Daučkėnų buv. dvaro sodybos fragmentai",
-                  "text": "Egy egykori kúria maradványai Pabiržė-ben.",
+                  "text": "Egykori udvarház romjai Daučkėnaiban.",
                   "category": "historical",
                   "coords": [
                         24.62835,
@@ -40114,7 +41932,7 @@ imageHint: "Lazdijai border crossing and church",
       "ro": [
             {
                   "name": "Daučkėnų buv. dvaro sodybos fragmentai",
-                  "text": "Resturile unui fost conac în Pabiržė.",
+                  "text": "Ruinele unui fost conac în Daučkėnai.",
                   "category": "historical",
                   "coords": [
                         24.62835,
@@ -40125,7 +41943,7 @@ imageHint: "Lazdijai border crossing and church",
       "en": [
             {
                   "name": "Daučkėnų buv. dvaro sodybos fragmentai",
-                  "text": "The remains of a former manor house in Pabiržė.",
+                  "text": "The ruins of a former manor estate in Daučkėnai.",
                   "category": "historical",
                   "coords": [
                         24.62835,
@@ -40182,7 +42000,7 @@ imageHint: "Lazdijai border crossing and church",
       "de": [
             {
                   "name": "Černiauskų piliakalnis",
-                  "text": "Ein historischer Burgberg in der Nähe von Leipalingis.",
+                  "text": "Eine Hügelburg nahe dem Dorf Černiauskai.",
                   "category": "historical",
                   "coords": [
                         23.86725,
@@ -40191,7 +42009,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Druskininkėlių piliakalnis",
-                  "text": "Ein archäologisches Denkmal bei Leipalingis.",
+                  "text": "Eine Hügelburg nahe dem Dorf Druskininkėliai.",
                   "category": "historical",
                   "coords": [
                         23.8375,
@@ -40211,7 +42029,7 @@ imageHint: "Lazdijai border crossing and church",
       "hu": [
             {
                   "name": "Černiauskų piliakalnis",
-                  "text": "Történelmi várhely Leipalingis közelében.",
+                  "text": "Egy földvár Černiauskai falu közelében.",
                   "category": "historical",
                   "coords": [
                         23.86725,
@@ -40220,7 +42038,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Druskininkėlių piliakalnis",
-                  "text": "Régészeti műemlék Leipalingis közelében.",
+                  "text": "Egy földvár Druskininkėliai falu közelében.",
                   "category": "historical",
                   "coords": [
                         23.8375,
@@ -40240,7 +42058,7 @@ imageHint: "Lazdijai border crossing and church",
       "ro": [
             {
                   "name": "Černiauskų piliakalnis",
-                  "text": "Un sit arheologic istoric situat lângă Leipalingis.",
+                  "text": "O fortificație de deal lângă satul Černiauskai.",
                   "category": "historical",
                   "coords": [
                         23.86725,
@@ -40249,7 +42067,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Druskininkėlių piliakalnis",
-                  "text": "Un monument arheologic de lângă Leipalingis.",
+                  "text": "O fortificație de deal lângă satul Druskininkėliai.",
                   "category": "historical",
                   "coords": [
                         23.8375,
@@ -40269,7 +42087,7 @@ imageHint: "Lazdijai border crossing and church",
       "en": [
             {
                   "name": "Černiauskų piliakalnis",
-                  "text": "A historical hillfort located near Leipalingis.",
+                  "text": "A hillfort near Černiauskai village.",
                   "category": "historical",
                   "coords": [
                         23.86725,
@@ -40278,7 +42096,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Druskininkėlių piliakalnis",
-                  "text": "An archaeological monument located near Leipalingis.",
+                  "text": "A hillfort near Druskininkėliai village.",
                   "category": "historical",
                   "coords": [
                         23.8375,
@@ -40650,7 +42468,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Stirniškių tv.",
-                  "text": "Ein ruhiger Stausee in Subacius, ideal für eine kurze Rast.",
+                  "text": "Der Stirniškės-Teich, ein Teich im Bezirk Subacius.",
                   "category": "natural",
                   "coords": [
                         24.863387,
@@ -40688,7 +42506,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Stirniškių tv.",
-                  "text": "Csendes víztározó Subacius területén, ideális egy rövid pihenőhöz.",
+                  "text": "A Stirniškės-tó, egy tó a Subacius körzetben.",
                   "category": "natural",
                   "coords": [
                         24.863387,
@@ -40726,7 +42544,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Stirniškių tv.",
-                  "text": "Un lac de acumulare liniștit în Subacius, ideal pentru un scurt popas.",
+                  "text": "Heleșteul Stirniškės, un iaz în districtul Subacius.",
                   "category": "natural",
                   "coords": [
                         24.863387,
@@ -40764,7 +42582,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Stirniškių tv.",
-                  "text": "A quiet reservoir in Subacius, ideal for a short rest.",
+                  "text": "Stirniškės pond, a pond in the Subacius district.",
                   "category": "natural",
                   "coords": [
                         24.863387,
@@ -40875,7 +42693,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Skemų I tv.",
-                  "text": "Das Reservoir Skemų I in Obeliai ist ein Ziel für die lokale Naherholung.",
+                  "text": "Der Skemai-I-Teich, einer der Skemai-Teiche nahe Obeliai.",
                   "category": "natural",
                   "coords": [
                         25.710058,
@@ -41102,7 +42920,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Skemų I tv.",
-                  "text": "A Skemų I-víztározó Obeliai területén a helyi pihenés egyik célpontja.",
+                  "text": "A Skemai I-tó, az egyik Skemai-tó Obeliai közelében.",
                   "category": "natural",
                   "coords": [
                         25.710058,
@@ -41329,7 +43147,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Skemų I tv.",
-                  "text": "Rezervorul Skemų I din Obeliai este o destinație pentru recreere locală.",
+                  "text": "Heleșteul Skemai I, unul dintre heleșteele Skemai lângă Obeliai.",
                   "category": "natural",
                   "coords": [
                         25.710058,
@@ -41556,7 +43374,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Skemų I tv.",
-                  "text": "Skemų I reservoir in Obeliai is a destination for local recreation.",
+                  "text": "Skemai I pond, one of the Skemai ponds near Obeliai.",
                   "category": "natural",
                   "coords": [
                         25.710058,
@@ -41784,7 +43602,7 @@ imageHint: "Lazdijai border crossing and church",
       "de": [
             {
                   "name": "Akmuo Rapolas",
-                  "text": "Ein großer, sagenumwobener Findling in der Nähe von Krekenava.",
+                  "text": "Ein großer Findling, ein geschütztes Naturdenkmal in Krakinava.",
                   "category": "landmark",
                   "coords": [
                         24.114915,
@@ -41820,7 +43638,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Malūno liekanos",
-                  "text": "Die historischen Überreste einer alten Mühle in Krekenava.",
+                  "text": "Mühlenreste in Krakinava, Ruinen einer historischen Wassermühle.",
                   "category": "landmark",
                   "coords": [
                         24.113764,
@@ -41912,7 +43730,7 @@ imageHint: "Lazdijai border crossing and church",
       "hu": [
             {
                   "name": "Akmuo Rapolas",
-                  "text": "Hatalmas, legendás szikla Krekenava közelében.",
+                  "text": "Egy nagy jégkorszaki sziklatömb, védett természeti emlék Krakinavában.",
                   "category": "landmark",
                   "coords": [
                         24.114915,
@@ -41948,7 +43766,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Malūno liekanos",
-                  "text": "Egy régi malom történelmi maradványai Krekenavában.",
+                  "text": "Malomromok Krakinavában, egy történelmi vízimalom maradványai.",
                   "category": "landmark",
                   "coords": [
                         24.113764,
@@ -42040,7 +43858,7 @@ imageHint: "Lazdijai border crossing and church",
       "ro": [
             {
                   "name": "Akmuo Rapolas",
-                  "text": "O stâncă mare, legendară, situată lângă Krekenava.",
+                  "text": "Un bloc mare de piatră erratică glaciară, monument natural protejat în Krakinava.",
                   "category": "landmark",
                   "coords": [
                         24.114915,
@@ -42076,7 +43894,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Malūno liekanos",
-                  "text": "Resturile istorice ale unei mori vechi în Krekenava.",
+                  "text": "Ruine de moară în Krakinava, vestigiile unei mori de apă istorice.",
                   "category": "landmark",
                   "coords": [
                         24.113764,
@@ -42168,7 +43986,7 @@ imageHint: "Lazdijai border crossing and church",
       "en": [
             {
                   "name": "Akmuo Rapolas",
-                  "text": "A large, legendary boulder located near Krekenava.",
+                  "text": "A large glacial erratic boulder, a protected natural monument in Krakinava.",
                   "category": "landmark",
                   "coords": [
                         24.114915,
@@ -42204,7 +44022,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Malūno liekanos",
-                  "text": "The historical remains of an old mill in Krekenava.",
+                  "text": "Mill remains in Krakinava, ruins of a historic watermill.",
                   "category": "landmark",
                   "coords": [
                         24.113764,
@@ -42765,7 +44583,7 @@ imageHint: "Lazdijai border crossing and church",
       "de": [
             {
                   "name": "Ukmergės piliakalnis",
-                  "text": "Ein historischer Burgberg in der Nähe von Ukmergė.",
+                  "text": "Eine Hügelburg in Ukmergė am Fluss Šventoji.",
                   "category": "historical",
                   "coords": [
                         24.768556,
@@ -42801,7 +44619,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Ukmergės Švč. Trejybės bažnyčia",
-                  "text": "Die katholische Dreifaltigkeitskirche in Ukmergė.",
+                  "text": "Barocke katholische Dreifaltigkeitskirche, ehemals Piaristenkirche, in Ukmergė.",
                   "category": "religious",
                   "coords": [
                         24.762216,
@@ -42819,7 +44637,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Ukmergės Viešpaties Prisikėlimo cerkvė",
-                  "text": "Die orthodoxe Auferstehungskirche in Ukmergė.",
+                  "text": "Orthodoxe Kirche der Auferstehung des Herrn in Ukmergė.",
                   "category": "religious",
                   "coords": [
                         24.784201,
@@ -42839,7 +44657,7 @@ imageHint: "Lazdijai border crossing and church",
       "hu": [
             {
                   "name": "Ukmergės piliakalnis",
-                  "text": "Történelmi várhely Ukmergė közelében.",
+                  "text": "Egy földvár Ukmergėben a Šventoji folyó mellett.",
                   "category": "historical",
                   "coords": [
                         24.768556,
@@ -42875,7 +44693,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Ukmergės Švč. Trejybės bažnyčia",
-                  "text": "Ukmergė katolikus Szentháromság-temploma.",
+                  "text": "Barokk katolikus Szentháromság-templom, egykori piarista templom Ukmergėben.",
                   "category": "religious",
                   "coords": [
                         24.762216,
@@ -42893,7 +44711,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Ukmergės Viešpaties Prisikėlimo cerkvė",
-                  "text": "Ukmergė ortodox Feltámadás-temploma.",
+                  "text": "Az Úr Feltámadása ortodox templom Ukmergėben.",
                   "category": "religious",
                   "coords": [
                         24.784201,
@@ -42913,7 +44731,7 @@ imageHint: "Lazdijai border crossing and church",
       "ro": [
             {
                   "name": "Ukmergės piliakalnis",
-                  "text": "O așezare fortificată istorică lângă Ukmergė.",
+                  "text": "O fortificație de deal în Ukmergė, pe râul Šventoji.",
                   "category": "historical",
                   "coords": [
                         24.768556,
@@ -42949,7 +44767,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Ukmergės Švč. Trejybės bažnyčia",
-                  "text": "Biserica catolică Sfânta Treime din Ukmergė.",
+                  "text": "Biserica catolică barocă a Sfintei Treimi, fostă piaristă, în Ukmergė.",
                   "category": "religious",
                   "coords": [
                         24.762216,
@@ -42967,7 +44785,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Ukmergės Viešpaties Prisikėlimo cerkvė",
-                  "text": "Biserica ortodoxă a Învierii din Ukmergė.",
+                  "text": "Biserica ortodoxă a Învierii Domnului din Ukmergė.",
                   "category": "religious",
                   "coords": [
                         24.784201,
@@ -42987,7 +44805,7 @@ imageHint: "Lazdijai border crossing and church",
       "en": [
             {
                   "name": "Ukmergės piliakalnis",
-                  "text": "A historical hillfort located near Ukmergė.",
+                  "text": "A hillfort on the Šventoji River in Ukmergė.",
                   "category": "historical",
                   "coords": [
                         24.768556,
@@ -43023,7 +44841,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Ukmergės Švč. Trejybės bažnyčia",
-                  "text": "The Catholic Holy Trinity Church in Ukmergė.",
+                  "text": "Baroque Catholic church of the Holy Trinity, formerly Piarist, in Ukmergė.",
                   "category": "religious",
                   "coords": [
                         24.762216,
@@ -43041,7 +44859,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Ukmergės Viešpaties Prisikėlimo cerkvė",
-                  "text": "The Orthodox Church of the Resurrection in Ukmergė.",
+                  "text": "Orthodox Church of the Resurrection in Ukmergė.",
                   "category": "religious",
                   "coords": [
                         24.784201,
@@ -43152,7 +44970,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Radviliškio sentikių cerkvė",
-                  "text": "Eine Kirche der Altgläubigen in der Region Radviliškis.",
+                  "text": "Altgläubigenkirche der Heiligen Peter und Paul in Radviliškis.",
                   "category": "religious",
                   "coords": [
                         23.541331,
@@ -43161,7 +44979,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Evangelisch-Lutherische Kirche Radviliškis",
-                  "text": "Eine evangelisch-lutherische Kirche bei Radviliškis.",
+                  "text": "Evangelisch-lutherische Kirche in Radviliškis.",
                   "category": "religious",
                   "coords": [
                         23.534419,
@@ -43226,7 +45044,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Radviliškio sentikių cerkvė",
-                  "text": "Óhitű ortodox templom Radviliškis környékén.",
+                  "text": "Szent Péter és Pál óhitű temploma Radviliškisben.",
                   "category": "religious",
                   "coords": [
                         23.541331,
@@ -43235,7 +45053,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Radviliškio evangelikų liuteronų bažnyčia",
-                  "text": "Evangélikus templom Radviliškis környékén.",
+                  "text": "Evangélikus templom Radviliškisben.",
                   "category": "religious",
                   "coords": [
                         23.534419,
@@ -43300,7 +45118,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Radviliškio sentikių cerkvė",
-                  "text": "O biserică a rușilor lipoveni din regiunea Radviliškis.",
+                  "text": "Biserica vechilor credincioși a Sfinților Petru și Pavel din Radviliškis.",
                   "category": "religious",
                   "coords": [
                         23.541331,
@@ -43309,7 +45127,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Radviliškio evangelikų liuteronų bažnyčia",
-                  "text": "O biserică evanghelică luterană din apropiere de Radviliškis.",
+                  "text": "Biserica luterană din Radviliškis.",
                   "category": "religious",
                   "coords": [
                         23.534419,
@@ -43374,7 +45192,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Radviliškio sentikių cerkvė",
-                  "text": "An Old Believers' church in the Radviliškis region.",
+                  "text": "Old Believers church of Sts. Peter and Paul in Radviliškis.",
                   "category": "religious",
                   "coords": [
                         23.541331,
@@ -43383,7 +45201,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Radviliškio evangelikų liuteronų bažnyčia",
-                  "text": "An Evangelical Lutheran church near Radviliškis.",
+                  "text": "Lutheran church in Radviliškis.",
                   "category": "religious",
                   "coords": [
                         23.534419,
@@ -43917,7 +45735,7 @@ imageHint: "Lazdijai border crossing and church",
       "de": [
             {
                   "name": "Vilkaviškio dvaro sodybos rūmai",
-                  "text": "Das Haupthaus des historischen Gutshofs von Vilkaviškis.",
+                  "text": "Das Herrenhaus des Guts Vilkaviškis.",
                   "category": "historical",
                   "coords": [
                         23.044364,
@@ -43935,7 +45753,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Vilkaviškio Šv. Kryžiaus bažnyčia",
-                  "text": "Eine Heilig-Kreuz-Kirche in der Umgebung von Vilkaviškis.",
+                  "text": "Katholische Kirche des Heiligen Kreuzes in Vilkaviškis.",
                   "category": "religious",
                   "coords": [
                         23.039652,
@@ -43955,7 +45773,7 @@ imageHint: "Lazdijai border crossing and church",
       "hu": [
             {
                   "name": "Vilkaviškio dvaro sodybos rūmai",
-                  "text": "A vilkaviškisi történelmi udvarház főépülete.",
+                  "text": "A vilkaviškisi kastély (udvarház).",
                   "category": "historical",
                   "coords": [
                         23.044364,
@@ -43973,7 +45791,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Vilkaviškio Šv. Kryžiaus bažnyčia",
-                  "text": "Szent Kereszt-templom Vilkaviškis környékén.",
+                  "text": "Szent Kereszt római katolikus temploma Vilkaviškisben.",
                   "category": "religious",
                   "coords": [
                         23.039652,
@@ -43993,7 +45811,7 @@ imageHint: "Lazdijai border crossing and church",
       "ro": [
             {
                   "name": "Vilkaviškio dvaro sodybos rūmai",
-                  "text": "Clădirea principală a conacului istoric din Vilkaviškis.",
+                  "text": "Palatul conacului Vilkaviškis.",
                   "category": "historical",
                   "coords": [
                         23.044364,
@@ -44011,7 +45829,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Vilkaviškio Šv. Kryžiaus bažnyčia",
-                  "text": "O biserică închinată Sfintei Cruci în apropiere de Vilkaviškis.",
+                  "text": "Biserica catolică a Sfintei Cruci din Vilkaviškis.",
                   "category": "religious",
                   "coords": [
                         23.039652,
@@ -44031,7 +45849,7 @@ imageHint: "Lazdijai border crossing and church",
       "en": [
             {
                   "name": "Vilkaviškio dvaro sodybos rūmai",
-                  "text": "The main building of the historical Vilkaviškis manor.",
+                  "text": "The palace of Vilkaviškis manor estate.",
                   "category": "historical",
                   "coords": [
                         23.044364,
@@ -44049,7 +45867,7 @@ imageHint: "Lazdijai border crossing and church",
             },
             {
                   "name": "Vilkaviškio Šv. Kryžiaus bažnyčia",
-                  "text": "A Holy Cross church in the Vilkaviškis area.",
+                  "text": "Catholic church of the Holy Cross in Vilkaviškis.",
                   "category": "religious",
                   "coords": [
                         23.039652,

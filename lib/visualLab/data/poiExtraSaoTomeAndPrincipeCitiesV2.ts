@@ -128,7 +128,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Sé Catedral de Nossa Senhora da Graça",
-                  "text": "Die Kathedrale Unserer Lieben Frau der Gnade ist ein Gotteshaus in Cruzeiro.",
+                  "text": "Kathedrale Unserer Lieben Frau von der Gnade in Cruzeiro, erbaut 1534.",
                   "category": "religious",
                   "coords": [
                         6.732685,
@@ -139,7 +139,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Sé Catedral de Nossa Senhora da Graça",
-                  "text": "A Kegyelmes Szűzanya Katedrális egy imaház Cruzeiróban.",
+                  "text": "A Kegyelem Boldogasszony székesegyház Cruzeiroban, 1534-ben épült.",
                   "category": "religious",
                   "coords": [
                         6.732685,
@@ -150,7 +150,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Sé Catedral de Nossa Senhora da Graça",
-                  "text": "Catedrala Maicii Domnului Harului este un lăcaș de cult în Cruzeiro.",
+                  "text": "Catedrala Maica Domnului a Harului în Cruzeiro, construită în 1534.",
                   "category": "religious",
                   "coords": [
                         6.732685,
@@ -161,7 +161,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Our Lady of Grace Cathedral",
-                  "text": "Our Lady of Grace Cathedral is a place of worship in Cruzeiro.",
+                  "text": "Our Lady of Grace Cathedral in Cruzeiro, built in 1534.",
                   "category": "religious",
                   "coords": [
                         6.732685,
@@ -361,7 +361,232 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "quinta-da-favorita-cities-v2", "sights": {"de": [{"name": "Praia Lagarto", "text": "Eingebettet in Quinta Da Favorita ist die Praia Lagarto ein wunderschöner Küstenort, der perfekt für Meeresliebhaber ist. Die Gegend versprüht oft einen entspannten, tropischen Charme, der charakteristisch für São Tomé ist. Besucher sind willkommen, sich am warmen Ufer zu sonnen, im einladenden Wasser zu schwimmen oder einfach die Aussicht auf die Küste zu genießen. Es ist ratsam, Sonnenschutz und Wasser einzupacken, um den Aufenthalt bequem zu verlängern.", "category": "recreational", "coords": [6.714638, 0.362456]}, {"name": "Praia P.M", "text": "Die Praia P.M bietet eine angenehme, sandige Zuflucht entlang der Küste von Quinta Da Favorita. Der Strand hat eine spürbar ruhige Atmosphäre und zieht all jene an, die stille Momente am Meer schätzen. Es ist ein fantastisches Ziel für ein spontanes Bad oder einen entspannten Nachmittag beim Sonnenbaden. Vergessen Sie nicht, ein Strandtuch mitzubringen, um den weichen Sand in vollen Zügen zu genießen.", "category": "recreational", "coords": [6.738947, 0.34591]}, {"name": "Espaço Cacau", "text": "Der Espaço Cacau ist eine Kunstgalerie in Quinta da Favorita.", "category": "museum", "coords": [6.737243, 0.343727]}, {"name": "Gesunkenes Schiff", "text": "Dieses Schiffswrack ist eine Ruinenstätte in Quinta da Favorita.", "category": "historical", "coords": [6.742856, 0.328309]}, {"name": "Antigo Forte", "text": "Das Antigo Forte ist eine historische Ruine in Quinta da Favorita.", "category": "historical", "coords": [6.74223, 0.331788]}, {"name": "Sé Catedral de Nossa Senhora da Graça", "text": "Die Kathedrale Unserer Lieben Frau der Gnade ist ein Gotteshaus in Quinta da Favorita.", "category": "religious", "coords": [6.732685, 0.338362]}], "hu": [{"name": "Praia Lagarto", "text": "A Quinta Da Favorita területén megbúvó Praia Lagarto egy gyönyörű tengerparti hely, amely tökéletes az óceán szerelmeseinek. A környék gyakran áraszt nyugodt, trópusi bájat, amely São Tomé védjegye. A látogatók napozhatnak a meleg parton, úszhatnak a hívogató vizekben, vagy egyszerűen csak értékelhetik a tengerparti kilátást. Érdemes árnyékot adó eszközt és vizet csomagolni, hogy kényelmesen meghosszabbíthassuk az ittlétet.", "category": "recreational", "coords": [6.714638, 0.362456]}, {"name": "Praia P.M", "text": "A Praia P.M kellemes homokos menedéket kínál a Quinta Da Favorita partvonala mentén. A strand határozottan nyugodt légkörrel rendelkezik, vonzva azokat, akik értékelik a tenger melletti csendes pillanatokat. Fantasztikus úti cél egy spontán úszáshoz vagy egy pihentető, napozással töltött délutánhoz. Ne felejtsen el strandtörölközőt hozni, hogy teljes mértékben élvezhesse a puha homokot.", "category": "recreational", "coords": [6.738947, 0.34591]}, {"name": "Espaço Cacau", "text": "Az Espaço Cacau egy művészeti galéria Quinta da Favoritában.", "category": "museum", "coords": [6.737243, 0.343727]}, {"name": "Navio Naufragado", "text": "Ez a hajóroncs egy romterület Quinta da Favoritában.", "category": "historical", "coords": [6.742856, 0.328309]}, {"name": "Antigo Forte", "text": "Az Antigo Forte egy történelmi rom Quinta da Favoritában.", "category": "historical", "coords": [6.74223, 0.331788]}, {"name": "Sé Catedral de Nossa Senhora da Graça", "text": "A Kegyelmes Szűzanya Katedrális egy imaház Quinta da Favoritában.", "category": "religious", "coords": [6.732685, 0.338362]}], "ro": [{"name": "Praia Lagarto", "text": "Amplasată în Quinta Da Favorita, Praia Lagarto este un loc de coastă frumos, perfect pentru iubitorii de ocean. Zona emană adesea un farmec tropical relaxat, care este semnătura pentru São Tomé. Vizitatorii sunt bineveniți să facă plajă pe țărmul cald, să înoate în apele primitoare sau pur și simplu să aprecieze priveliștea coastei. Este înțelept să împachetați umbră și apă pentru a vă prelungi confortabil șederea.", "category": "recreational", "coords": [6.714638, 0.362456]}, {"name": "Praia P.M", "text": "Praia P.M oferă o evadare plăcută de nisip de-a lungul coastei Quinta Da Favorita. Plaja are o atmosferă distinctă de senină, atrăgând pe cei care apreciază momentele de liniște la malul mării. Este o destinație fantastică pentru o baie spontană sau o după-amiază relaxantă la plajă. Nu uitați să aduceți un prosop de plajă pentru a vă bucura din plin de nisipurile moi.", "category": "recreational", "coords": [6.738947, 0.34591]}, {"name": "Espaço Cacau", "text": "Espaço Cacau este o galerie de artă în Quinta da Favorita.", "category": "museum", "coords": [6.737243, 0.343727]}, {"name": "Navio Naufragado", "text": "Această epavă este un sit în ruină în Quinta da Favorita.", "category": "historical", "coords": [6.742856, 0.328309]}, {"name": "Antigo Forte", "text": "Antigo Forte este o ruină istorică în Quinta da Favorita.", "category": "historical", "coords": [6.74223, 0.331788]}, {"name": "Sé Catedral de Nossa Senhora da Graça", "text": "Catedrala Maicii Domnului Harului este un lăcaș de cult în Quinta da Favorita.", "category": "religious", "coords": [6.732685, 0.338362]}], "en": [{"name": "Praia Lagarto", "text": "Nestled in Quinta Da Favorita, Praia Lagarto is a beautiful coastal spot perfect for ocean lovers. The area often exudes a relaxed, tropical charm that is signature to São Tomé. Visitors are welcome to sunbathe on the warm shore, swim in the inviting waters, or simply appreciate the coastal views. It is wise to pack some shade and water to comfortably prolong your stay.", "category": "recreational", "coords": [6.714638, 0.362456]}, {"name": "Praia P.M", "text": "Praia P.M offers a pleasant sandy escape along the coast of Quinta Da Favorita. The beach has a distinctly serene atmosphere, drawing those who appreciate quiet moments by the sea. It is a fantastic destination for a spontaneous swim or a relaxing afternoon of sunbathing. Don't forget to bring a beach towel to fully enjoy the soft sands.", "category": "recreational", "coords": [6.738947, 0.34591]}, {"name": "Espaço Cacau", "text": "Espaço Cacau is an art gallery in Quinta da Favorita.", "category": "museum", "coords": [6.737243, 0.343727]}, {"name": "Shipwreck", "text": "This shipwreck is a ruin site in Quinta da Favorita.", "category": "historical", "coords": [6.742856, 0.328309]}, {"name": "Antigo Forte", "text": "Antigo Forte is a historic ruin in Quinta da Favorita.", "category": "historical", "coords": [6.74223, 0.331788]}, {"name": "Our Lady of Grace Cathedral", "text": "Our Lady of Grace Cathedral is a place of worship in Quinta da Favorita.", "category": "religious", "coords": [6.732685, 0.338362]}]},
+    id: "quinta-da-favorita-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia Lagarto",
+                  "text": "Eingebettet in Quinta Da Favorita ist die Praia Lagarto ein wunderschöner Küstenort, der perfekt für Meeresliebhaber ist. Die Gegend versprüht oft einen entspannten, tropischen Charme, der charakteristisch für São Tomé ist. Besucher sind willkommen, sich am warmen Ufer zu sonnen, im einladenden Wasser zu schwimmen oder einfach die Aussicht auf die Küste zu genießen. Es ist ratsam, Sonnenschutz und Wasser einzupacken, um den Aufenthalt bequem zu verlängern.",
+                  "category": "recreational",
+                  "coords": [
+                        6.714638,
+                        0.362456
+                  ]
+            },
+            {
+                  "name": "Praia P.M",
+                  "text": "Die Praia P.M bietet eine angenehme, sandige Zuflucht entlang der Küste von Quinta Da Favorita. Der Strand hat eine spürbar ruhige Atmosphäre und zieht all jene an, die stille Momente am Meer schätzen. Es ist ein fantastisches Ziel für ein spontanes Bad oder einen entspannten Nachmittag beim Sonnenbaden. Vergessen Sie nicht, ein Strandtuch mitzubringen, um den weichen Sand in vollen Zügen zu genießen.",
+                  "category": "recreational",
+                  "coords": [
+                        6.738947,
+                        0.34591
+                  ]
+            },
+            {
+                  "name": "Espaço Cacau",
+                  "text": "Das Kakaomuseum mit interaktiver Schokoladenwerkstatt und Verkostung in Da Favorita.",
+                  "category": "museum",
+                  "coords": [
+                        6.737243,
+                        0.343727
+                  ]
+            },
+            {
+                  "name": "Gesunkenes Schiff",
+                  "text": "Das halb versunkene Holzschiffswrack, das bei Ebbe am Strand von Da Favorita sichtbar wird.",
+                  "category": "historical",
+                  "coords": [
+                        6.742856,
+                        0.328309
+                  ]
+            },
+            {
+                  "name": "Antigo Forte",
+                  "text": "Die alte Steinfort, das den Flussübergang bei Da Favorita bewachte.",
+                  "category": "historical",
+                  "coords": [
+                        6.74223,
+                        0.331788
+                  ]
+            },
+            {
+                  "name": "Sé Catedral de Nossa Senhora da Graça",
+                  "text": "Kathedrale Unserer Lieben Frau von der Gnade in Da Favorita, erbaut 1534.",
+                  "category": "religious",
+                  "coords": [
+                        6.732685,
+                        0.338362
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia Lagarto",
+                  "text": "A Quinta Da Favorita területén megbúvó Praia Lagarto egy gyönyörű tengerparti hely, amely tökéletes az óceán szerelmeseinek. A környék gyakran áraszt nyugodt, trópusi bájat, amely São Tomé védjegye. A látogatók napozhatnak a meleg parton, úszhatnak a hívogató vizekben, vagy egyszerűen csak értékelhetik a tengerparti kilátást. Érdemes árnyékot adó eszközt és vizet csomagolni, hogy kényelmesen meghosszabbíthassuk az ittlétet.",
+                  "category": "recreational",
+                  "coords": [
+                        6.714638,
+                        0.362456
+                  ]
+            },
+            {
+                  "name": "Praia P.M",
+                  "text": "A Praia P.M kellemes homokos menedéket kínál a Quinta Da Favorita partvonala mentén. A strand határozottan nyugodt légkörrel rendelkezik, vonzva azokat, akik értékelik a tenger melletti csendes pillanatokat. Fantasztikus úti cél egy spontán úszáshoz vagy egy pihentető, napozással töltött délutánhoz. Ne felejtsen el strandtörölközőt hozni, hogy teljes mértékben élvezhesse a puha homokot.",
+                  "category": "recreational",
+                  "coords": [
+                        6.738947,
+                        0.34591
+                  ]
+            },
+            {
+                  "name": "Espaço Cacau",
+                  "text": "A kakaómúzeum interaktív csokoládé-műhellyel és kóstolóval Da Favoritában.",
+                  "category": "museum",
+                  "coords": [
+                        6.737243,
+                        0.343727
+                  ]
+            },
+            {
+                  "name": "Navio Naufragado",
+                  "text": "A félig elsüllyedt fahajóroncs, amely apálykor láthatóvá válik Da Favorita strandján.",
+                  "category": "historical",
+                  "coords": [
+                        6.742856,
+                        0.328309
+                  ]
+            },
+            {
+                  "name": "Antigo Forte",
+                  "text": "A régi kőerőd, amely a Da Favorita-i folyóátkelőt őrizte.",
+                  "category": "historical",
+                  "coords": [
+                        6.74223,
+                        0.331788
+                  ]
+            },
+            {
+                  "name": "Sé Catedral de Nossa Senhora da Graça",
+                  "text": "A Kegyelem Boldogasszony székesegyház Da Favoritában, 1534-ben épült.",
+                  "category": "religious",
+                  "coords": [
+                        6.732685,
+                        0.338362
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia Lagarto",
+                  "text": "Amplasată în Quinta Da Favorita, Praia Lagarto este un loc de coastă frumos, perfect pentru iubitorii de ocean. Zona emană adesea un farmec tropical relaxat, care este semnătura pentru São Tomé. Vizitatorii sunt bineveniți să facă plajă pe țărmul cald, să înoate în apele primitoare sau pur și simplu să aprecieze priveliștea coastei. Este înțelept să împachetați umbră și apă pentru a vă prelungi confortabil șederea.",
+                  "category": "recreational",
+                  "coords": [
+                        6.714638,
+                        0.362456
+                  ]
+            },
+            {
+                  "name": "Praia P.M",
+                  "text": "Praia P.M oferă o evadare plăcută de nisip de-a lungul coastei Quinta Da Favorita. Plaja are o atmosferă distinctă de senină, atrăgând pe cei care apreciază momentele de liniște la malul mării. Este o destinație fantastică pentru o baie spontană sau o după-amiază relaxantă la plajă. Nu uitați să aduceți un prosop de plajă pentru a vă bucura din plin de nisipurile moi.",
+                  "category": "recreational",
+                  "coords": [
+                        6.738947,
+                        0.34591
+                  ]
+            },
+            {
+                  "name": "Espaço Cacau",
+                  "text": "Muzeul de cacao cu atelier interactiv de ciocolată și degustare în Da Favorita.",
+                  "category": "museum",
+                  "coords": [
+                        6.737243,
+                        0.343727
+                  ]
+            },
+            {
+                  "name": "Navio Naufragado",
+                  "text": "Epava de lemn pe jumătate scufundată, vizibilă la reflux pe plaja din Da Favorita.",
+                  "category": "historical",
+                  "coords": [
+                        6.742856,
+                        0.328309
+                  ]
+            },
+            {
+                  "name": "Antigo Forte",
+                  "text": "Vechiul fort de piatră care păzea trecerea râului lângă Da Favorita.",
+                  "category": "historical",
+                  "coords": [
+                        6.74223,
+                        0.331788
+                  ]
+            },
+            {
+                  "name": "Sé Catedral de Nossa Senhora da Graça",
+                  "text": "Catedrala Maica Domnului a Harului în Da Favorita, construită în 1534.",
+                  "category": "religious",
+                  "coords": [
+                        6.732685,
+                        0.338362
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia Lagarto",
+                  "text": "Nestled in Quinta Da Favorita, Praia Lagarto is a beautiful coastal spot perfect for ocean lovers. The area often exudes a relaxed, tropical charm that is signature to São Tomé. Visitors are welcome to sunbathe on the warm shore, swim in the inviting waters, or simply appreciate the coastal views. It is wise to pack some shade and water to comfortably prolong your stay.",
+                  "category": "recreational",
+                  "coords": [
+                        6.714638,
+                        0.362456
+                  ]
+            },
+            {
+                  "name": "Praia P.M",
+                  "text": "Praia P.M offers a pleasant sandy escape along the coast of Quinta Da Favorita. The beach has a distinctly serene atmosphere, drawing those who appreciate quiet moments by the sea. It is a fantastic destination for a spontaneous swim or a relaxing afternoon of sunbathing. Don't forget to bring a beach towel to fully enjoy the soft sands.",
+                  "category": "recreational",
+                  "coords": [
+                        6.738947,
+                        0.34591
+                  ]
+            },
+            {
+                  "name": "Espaço Cacau",
+                  "text": "The cocoa museum with interactive chocolate workshop and tasting in Da Favorita.",
+                  "category": "museum",
+                  "coords": [
+                        6.737243,
+                        0.343727
+                  ]
+            },
+            {
+                  "name": "Shipwreck",
+                  "text": "The half-submerged wooden shipwreck visible at low tide on the beach of Da Favorita.",
+                  "category": "historical",
+                  "coords": [
+                        6.742856,
+                        0.328309
+                  ]
+            },
+            {
+                  "name": "Antigo Forte",
+                  "text": "The old stone fort that guarded the river crossing near Da Favorita.",
+                  "category": "historical",
+                  "coords": [
+                        6.74223,
+                        0.331788
+                  ]
+            },
+            {
+                  "name": "Our Lady of Grace Cathedral",
+                  "text": "Our Lady of Grace Cathedral in Da Favorita, built in 1534.",
+                  "category": "religious",
+                  "coords": [
+                        6.732685,
+                        0.338362
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-01",
     coords: [6.72, 0.34],
@@ -726,7 +951,160 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       en: "Porto Alegre lies at the southernmost tip of the main island of São Tomé in the Caué district and forms the gateway to the tiny Ilhéu das Rolas island, only a few hundred meters offshore and cut precisely in two by the Equator. The small port settlement emerged in the 19th century as part of the vast roça plantations that produced cocoa, coffee and coconuts for export. Today, crumbling warehouses, a wooden jetty and colorful pirogues define the village, while the Piscina natural pools and endless black-sand beaches draw ecotourists. Porto Alegre is also an internationally important sea-turtle sanctuary: programs run by ATM (Associação Tatô) guard the nesting sites of leatherback, green and hawksbill turtles every season. The region is the terminus of the only southern coastal road and the gateway to the protected Obô National Park, with its pristine rainforests, waterfalls and endemic bird species, making it one of the island's most exciting nature destinations."
     }, image: "/poi-images/porto-alegre-cities-v2.webp"},
   {
-    id: "dona-augusta-cities-v2", "sights": {"de": [{"name": "Praia Grande", "text": "Entlang der Küstenlinie von Dona Augusta verlaufend, bietet die Praia Grande einen großzügigen Strandabschnitt für Badefreuden am Meer. Das Gebiet wirkt weitläufig und luftig, was ideale Voraussetzungen für lange Küstenspaziergänge und Entspannung im Freien schafft. Besucher lieben es, ein erfrischendes Bad im Ozean zu nehmen oder sich einen Platz zum Lesen und Sonnenbaden einzurichten. Ein Besuch während der goldenen Stunde bietet wunderbares Licht, um die lokale Landschaft zu genießen.", "category": "recreational", "coords": [6.570921, 0.08519]}, {"name": "Praia Diogo Afonso", "text": "In Dona Augusta gelegen, bietet die Praia Diogo Afonso ein entspanntes Stranderlebnis in São Tomé und Príncipe. Besucher erwartet eine ruhige Umgebung, die sich perfekt zum Sonnenbaden oder für Spaziergänge am Ufer eignet. Das natürliche Küstenflair lädt zum Verweilen am Wasser ein. Für optimale Bedingungen empfiehlt sich ein Besuch in den wärmeren Monaten.", "category": "recreational", "coords": [6.598518, 0.081325]}, {"name": "Praia Zongõnhim", "text": "Dieser schöne Strandabschnitt, die Praia Zongõnhim, befindet sich ebenfalls in Dona Augusta. Wer hierher kommt, darf sich auf eine unberührte Kulisse freuen, die das landestypische Küstenleben von São Tomé und Príncipe widerspiegelt. Man kann wunderbar im Sand sitzen und dem Rauschen der Wellen lauschen. Es ist ratsam, ausreichend Wasser und Sonnenschutz mitzubringen.", "category": "recreational", "coords": [6.578645, 0.086206]}, {"name": "Pico do Cão Grande", "text": "Pico do Cão Grande ist ein Aussichtspunkt in Dona Augusta.", "category": "natural", "coords": [6.580968, 0.092864]}], "hu": [{"name": "Praia Grande", "text": "A Dona Augusta partvonala mentén elterülő Praia Grande bőséges partszakaszt biztosít a tengerparti élvezetekhez. A terület tágasnak és szellősnek hat, ideális környezetet teremtve a hosszú tengerparti sétákhoz és a szabadtéri pihenéshez. A látogatók imádnak frissítőket venni az óceánban, vagy kialakítani egy helyet az olvasáshoz és a napozáshoz. Az aranyórában tett látogatás csodálatos fényeket kínál a helyi táj élvezetéhez.", "category": "recreational", "coords": [6.570921, 0.08519]}, {"name": "Praia Diogo Afonso", "text": "A Dona Augusta területén található Praia Diogo Afonso egy kellemes tengerparti élményt nyújt São Tomé és Príncipe szigetén. A látogatókat csendes környezet várja, amely tökéletes napozáshoz vagy egy hosszú sétához a parton. A természetes parti hangulat maradásra csábít a víz mellett. Az optimális körülmények érdekében érdemes a melegebb hónapokban idelátogatni.", "category": "recreational", "coords": [6.598518, 0.081325]}, {"name": "Praia Zongõnhim", "text": "Ez a gyönyörű partszakasz, a Praia Zongõnhim, szintén Dona Augusta városában található. Az ide látogatók érintetlen környezetre számíthatnak, amely tükrözi São Tomé és Príncipe jellegzetes tengerparti életét. Csodálatos dolog a homokban ülni és hallgatni a hullámok zúgását. Célszerű elegendő vizet és naptejet hozni.", "category": "recreational", "coords": [6.578645, 0.086206]}, {"name": "Pico do Cão Grande", "text": "A Pico do Cão Grande egy nevezetes kilátópont Dona Augusta területén.", "category": "natural", "coords": [6.580968, 0.092864]}], "ro": [{"name": "Praia Grande", "text": "Curgând de-a lungul țărmului din Dona Augusta, Praia Grande oferă o întindere generoasă de plajă pentru bucuria pe litoral. Zona se simte vastă și aerisită, creând un cadru ideal pentru plimbări lungi pe coastă și relaxare în aer liber. Vizitatorii adoră să facă băi răcoritoare în ocean sau să-și amenajeze un loc pentru a citi și a face plajă. Vizitarea în timpul orei de aur prezintă o iluminare minunată pentru a vă bucura de peisajul local.", "category": "recreational", "coords": [6.570921, 0.08519]}, {"name": "Praia Diogo Afonso", "text": "Situată în Dona Augusta, Praia Diogo Afonso oferă o experiență relaxantă pe plajă în São Tomé și Príncipe. Vizitatorii sunt întâmpinați de un mediu liniștit, perfect pentru plajă sau plimbări lungi pe țărm. Atmosfera naturală de coastă te invită să zăbovești la malul apei. Pentru condiții optime, se recomandă o vizită în lunile mai calde.", "category": "recreational", "coords": [6.598518, 0.081325]}, {"name": "Praia Zongõnhim", "text": "Această frumoasă secțiune de plajă, Praia Zongõnhim, este situată tot în Dona Augusta. Cei care vin aici se pot aștepta la un fundal neatins care reflectă viața de coastă tipică a insulelor São Tomé și Príncipe. Este minunat să stai pe nisip și să asculți sunetul valurilor. Este indicat să aduceți suficientă apă și protecție solară.", "category": "recreational", "coords": [6.578645, 0.086206]}, {"name": "Pico do Cão Grande", "text": "Pico do Cão Grande este un punct de belvedere în Dona Augusta.", "category": "natural", "coords": [6.580968, 0.092864]}], "en": [{"name": "Praia Grande", "text": "Flowing along the shoreline of Dona Augusta, Praia Grande provides a generous stretch of beach for seaside enjoyment. The area feels expansive and breezy, creating an ideal setting for long coastal walks and outdoor relaxation. Visitors love taking refreshing dips in the ocean or setting up a spot to read and sunbathe. Visiting during the golden hour presents wonderful lighting for enjoying the local scenery.", "category": "recreational", "coords": [6.570921, 0.08519]}, {"name": "Praia Diogo Afonso", "text": "Located in Dona Augusta, Praia Diogo Afonso offers a relaxing beach experience in São Tomé and Príncipe. Visitors can expect a quiet environment that is perfect for sunbathing or taking long walks along the shore. The natural coastal flair invites you to linger by the water. For the best conditions, a visit during the warmer months is recommended.", "category": "recreational", "coords": [6.598518, 0.081325]}, {"name": "Praia Zongõnhim", "text": "This beautiful stretch of beach, Praia Zongõnhim, is also located in Dona Augusta. Those who come here can look forward to an unspoiled backdrop that reflects the typical coastal life of São Tomé and Príncipe. It is wonderful to sit in the sand and listen to the sound of the waves. It is advisable to bring enough water and sun protection.", "category": "recreational", "coords": [6.578645, 0.086206]}, {"name": "Pico do Cão Grande", "text": "Pico do Cão Grande is a viewpoint in Dona Augusta.", "category": "natural", "coords": [6.580968, 0.092864]}]},
+    id: "dona-augusta-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia Grande",
+                  "text": "Entlang der Küstenlinie von Dona Augusta verlaufend, bietet die Praia Grande einen großzügigen Strandabschnitt für Badefreuden am Meer. Das Gebiet wirkt weitläufig und luftig, was ideale Voraussetzungen für lange Küstenspaziergänge und Entspannung im Freien schafft. Besucher lieben es, ein erfrischendes Bad im Ozean zu nehmen oder sich einen Platz zum Lesen und Sonnenbaden einzurichten. Ein Besuch während der goldenen Stunde bietet wunderbares Licht, um die lokale Landschaft zu genießen.",
+                  "category": "recreational",
+                  "coords": [
+                        6.570921,
+                        0.08519
+                  ]
+            },
+            {
+                  "name": "Praia Diogo Afonso",
+                  "text": "In Dona Augusta gelegen, bietet die Praia Diogo Afonso ein entspanntes Stranderlebnis in São Tomé und Príncipe. Besucher erwartet eine ruhige Umgebung, die sich perfekt zum Sonnenbaden oder für Spaziergänge am Ufer eignet. Das natürliche Küstenflair lädt zum Verweilen am Wasser ein. Für optimale Bedingungen empfiehlt sich ein Besuch in den wärmeren Monaten.",
+                  "category": "recreational",
+                  "coords": [
+                        6.598518,
+                        0.081325
+                  ]
+            },
+            {
+                  "name": "Praia Zongõnhim",
+                  "text": "Dieser schöne Strandabschnitt, die Praia Zongõnhim, befindet sich ebenfalls in Dona Augusta. Wer hierher kommt, darf sich auf eine unberührte Kulisse freuen, die das landestypische Küstenleben von São Tomé und Príncipe widerspiegelt. Man kann wunderbar im Sand sitzen und dem Rauschen der Wellen lauschen. Es ist ratsam, ausreichend Wasser und Sonnenschutz mitzubringen.",
+                  "category": "recreational",
+                  "coords": [
+                        6.578645,
+                        0.086206
+                  ]
+            },
+            {
+                  "name": "Pico do Cão Grande",
+                  "text": "Der steile Vulkankegel Pico do Cão Grande, der die Stadt Augusta überragt.",
+                  "category": "natural",
+                  "coords": [
+                        6.580968,
+                        0.092864
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia Grande",
+                  "text": "A Dona Augusta partvonala mentén elterülő Praia Grande bőséges partszakaszt biztosít a tengerparti élvezetekhez. A terület tágasnak és szellősnek hat, ideális környezetet teremtve a hosszú tengerparti sétákhoz és a szabadtéri pihenéshez. A látogatók imádnak frissítőket venni az óceánban, vagy kialakítani egy helyet az olvasáshoz és a napozáshoz. Az aranyórában tett látogatás csodálatos fényeket kínál a helyi táj élvezetéhez.",
+                  "category": "recreational",
+                  "coords": [
+                        6.570921,
+                        0.08519
+                  ]
+            },
+            {
+                  "name": "Praia Diogo Afonso",
+                  "text": "A Dona Augusta területén található Praia Diogo Afonso egy kellemes tengerparti élményt nyújt São Tomé és Príncipe szigetén. A látogatókat csendes környezet várja, amely tökéletes napozáshoz vagy egy hosszú sétához a parton. A természetes parti hangulat maradásra csábít a víz mellett. Az optimális körülmények érdekében érdemes a melegebb hónapokban idelátogatni.",
+                  "category": "recreational",
+                  "coords": [
+                        6.598518,
+                        0.081325
+                  ]
+            },
+            {
+                  "name": "Praia Zongõnhim",
+                  "text": "Ez a gyönyörű partszakasz, a Praia Zongõnhim, szintén Dona Augusta városában található. Az ide látogatók érintetlen környezetre számíthatnak, amely tükrözi São Tomé és Príncipe jellegzetes tengerparti életét. Csodálatos dolog a homokban ülni és hallgatni a hullámok zúgását. Célszerű elegendő vizet és naptejet hozni.",
+                  "category": "recreational",
+                  "coords": [
+                        6.578645,
+                        0.086206
+                  ]
+            },
+            {
+                  "name": "Pico do Cão Grande",
+                  "text": "A meredek Pico do Cão Grande vulkánkúp, amely Augusta városa fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        6.580968,
+                        0.092864
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia Grande",
+                  "text": "Curgând de-a lungul țărmului din Dona Augusta, Praia Grande oferă o întindere generoasă de plajă pentru bucuria pe litoral. Zona se simte vastă și aerisită, creând un cadru ideal pentru plimbări lungi pe coastă și relaxare în aer liber. Vizitatorii adoră să facă băi răcoritoare în ocean sau să-și amenajeze un loc pentru a citi și a face plajă. Vizitarea în timpul orei de aur prezintă o iluminare minunată pentru a vă bucura de peisajul local.",
+                  "category": "recreational",
+                  "coords": [
+                        6.570921,
+                        0.08519
+                  ]
+            },
+            {
+                  "name": "Praia Diogo Afonso",
+                  "text": "Situată în Dona Augusta, Praia Diogo Afonso oferă o experiență relaxantă pe plajă în São Tomé și Príncipe. Vizitatorii sunt întâmpinați de un mediu liniștit, perfect pentru plajă sau plimbări lungi pe țărm. Atmosfera naturală de coastă te invită să zăbovești la malul apei. Pentru condiții optime, se recomandă o vizită în lunile mai calde.",
+                  "category": "recreational",
+                  "coords": [
+                        6.598518,
+                        0.081325
+                  ]
+            },
+            {
+                  "name": "Praia Zongõnhim",
+                  "text": "Această frumoasă secțiune de plajă, Praia Zongõnhim, este situată tot în Dona Augusta. Cei care vin aici se pot aștepta la un fundal neatins care reflectă viața de coastă tipică a insulelor São Tomé și Príncipe. Este minunat să stai pe nisip și să asculți sunetul valurilor. Este indicat să aduceți suficientă apă și protecție solară.",
+                  "category": "recreational",
+                  "coords": [
+                        6.578645,
+                        0.086206
+                  ]
+            },
+            {
+                  "name": "Pico do Cão Grande",
+                  "text": "Conul vulcanic abrupt Pico do Cão Grande, care domină orașul Augusta.",
+                  "category": "natural",
+                  "coords": [
+                        6.580968,
+                        0.092864
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia Grande",
+                  "text": "Flowing along the shoreline of Dona Augusta, Praia Grande provides a generous stretch of beach for seaside enjoyment. The area feels expansive and breezy, creating an ideal setting for long coastal walks and outdoor relaxation. Visitors love taking refreshing dips in the ocean or setting up a spot to read and sunbathe. Visiting during the golden hour presents wonderful lighting for enjoying the local scenery.",
+                  "category": "recreational",
+                  "coords": [
+                        6.570921,
+                        0.08519
+                  ]
+            },
+            {
+                  "name": "Praia Diogo Afonso",
+                  "text": "Located in Dona Augusta, Praia Diogo Afonso offers a relaxing beach experience in São Tomé and Príncipe. Visitors can expect a quiet environment that is perfect for sunbathing or taking long walks along the shore. The natural coastal flair invites you to linger by the water. For the best conditions, a visit during the warmer months is recommended.",
+                  "category": "recreational",
+                  "coords": [
+                        6.598518,
+                        0.081325
+                  ]
+            },
+            {
+                  "name": "Praia Zongõnhim",
+                  "text": "This beautiful stretch of beach, Praia Zongõnhim, is also located in Dona Augusta. Those who come here can look forward to an unspoiled backdrop that reflects the typical coastal life of São Tomé and Príncipe. It is wonderful to sit in the sand and listen to the sound of the waves. It is advisable to bring enough water and sun protection.",
+                  "category": "recreational",
+                  "coords": [
+                        6.578645,
+                        0.086206
+                  ]
+            },
+            {
+                  "name": "Pico do Cão Grande",
+                  "text": "The steep volcanic cone Pico do Cão Grande towering over the town of Augusta.",
+                  "category": "natural",
+                  "coords": [
+                        6.580968,
+                        0.092864
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-03",
     coords: [6.59, 0.08],
@@ -986,7 +1364,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Túnel",
-                  "text": "Der Túnel ist eine Attraktion in Diogo Vaz.",
+                  "text": "Der alte Eisenbahntunnel, heute ein begehbarer Fußweg im Dorf Vaz.",
                   "category": "landmark",
                   "coords": [
                         6.489827,
@@ -997,7 +1375,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Túnel",
-                  "text": "A Túnel egy látnivaló Diogo Vazban.",
+                  "text": "A régi vasúti alagút, ma járható gyalogút Vaz faluban.",
                   "category": "landmark",
                   "coords": [
                         6.489827,
@@ -1008,7 +1386,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Túnel",
-                  "text": "Túnel este o atracție în Diogo Vaz.",
+                  "text": "Vechiul tunel feroviar, acum un pasaj pietonal în satul Vaz.",
                   "category": "landmark",
                   "coords": [
                         6.489827,
@@ -1019,7 +1397,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Túnel",
-                  "text": "Túnel is an attraction in Diogo Vaz.",
+                  "text": "The old railway tunnel, now a walkable pedestrian passage in the village of Vaz.",
                   "category": "landmark",
                   "coords": [
                         6.489827,
@@ -1095,7 +1473,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Cascata Angolares",
-                  "text": "Cascata Angolares ist eine Sehenswürdigkeit in Henrique.",
+                  "text": "Der Angolares-Wasserfall, der in einen natürlichen Pool im Wald bei Henrique stürzt.",
                   "category": "landmark",
                   "coords": [
                         6.553862,
@@ -1106,7 +1484,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Cascata Angolares",
-                  "text": "A Cascata Angolares egy látványosság Henrique városában.",
+                  "text": "Az Angolares-vízesés, amely egy természetes medencébe zuhan a Henrique melletti erdőben.",
                   "category": "landmark",
                   "coords": [
                         6.553862,
@@ -1117,7 +1495,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Cascata Angolares",
-                  "text": "Cascata Angolares este o atracție în Henrique.",
+                  "text": "Cascada Angolares, care se prăbușește într-un bazin natural în pădurea de lângă Henrique.",
                   "category": "landmark",
                   "coords": [
                         6.553862,
@@ -1128,7 +1506,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Cascata Angolares",
-                  "text": "Cascata Angolares is an attraction located in Henrique.",
+                  "text": "The Angolares waterfall plunging into a natural pool in the forest near Henrique.",
                   "category": "landmark",
                   "coords": [
                         6.553862,
@@ -1456,7 +1834,124 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "conde-cities-v2", "sights": {"de": [{"name": "Farol da Lagoa Azul", "text": "Der Farol da Lagoa Azul ist ein Leuchtturm in Conde.", "category": "landmark", "coords": [6.6102, 0.407526]}, {"name": "Praia Guégué", "text": "Umgeben von der tropischen Natur von Conde, ist die Praia Guégué ein wunderbarer Rückzugsort am Meer. Hier kann man dem Alltag entfliehen und die warme Brise des Ozeans spüren. Die ruhigen Ufer laden zu erfrischenden Spaziergängen oder entspannten Momenten im Sand ein. Wer früh am Morgen anreist, hat die Küste oft ganz für sich allein.", "category": "recreational", "coords": [6.634879, 0.406759]}, {"name": "Praia das Conchas", "text": "Ebenfalls in Conde verbirgt sich die charmante Praia das Conchas, die typische Inselidylle verspricht. Badegäste finden an diesem Strandabschnitt von São Tomé und Príncipe ideale Bedingungen, um die Seele baumeln zu lassen. Ob zum Muschelsammeln oder einfach zum Entspannen, dieser Ort strahlt große Friedlichkeit aus. Ein kleines Picknick im Gepäck rundet den Aufenthalt perfekt ab.", "category": "recreational", "coords": [6.621376, 0.406963]}], "hu": [{"name": "Farol da Lagoa Azul", "text": "A Farol da Lagoa Azul egy világítótorony Condében.", "category": "landmark", "coords": [6.6102, 0.407526]}, {"name": "Praia Guégué", "text": "A Conde trópusi természetével körülvett Praia Guégué egy csodálatos menedék a tenger mellett. Itt az ember elmenekülhet a mindennapok elől, és érezheti az óceán meleg szellőjét. A csendes partok frissítő sétákra vagy pihentető pillanatokra hívogatnak a homokban. Aki kora reggel érkezik, annak gyakran az egész partvidék a rendelkezésére áll.", "category": "recreational", "coords": [6.634879, 0.406759]}, {"name": "Praia das Conchas", "text": "Szintén Conde területén bújik meg a bájos Praia das Conchas, amely jellegzetes szigeti idillt ígér. A fürdőzők São Tomé és Príncipe ezen partszakaszán ideális feltételeket találnak a kikapcsolódáshoz. Akár kagylógyűjtésre, akár csak pihenésre vágyik, ez a hely nagy békességet sugároz. Egy kis csomagolt piknik tökéletessé teszi a tartózkodást.", "category": "recreational", "coords": [6.621376, 0.406963]}], "ro": [{"name": "Farol da Lagoa Azul", "text": "Farol da Lagoa Azul este un far în Conde.", "category": "landmark", "coords": [6.6102, 0.407526]}, {"name": "Praia Guégué", "text": "Înconjurată de natura tropicală din Conde, Praia Guégué este un refugiu minunat pe malul mării. Aici poți scăpa de viața de zi cu zi și poți simți briza caldă a oceanului. Țărmurile liniștite te invită la plimbări revigorante sau la momente de relaxare pe nisip. Cei care sosesc dimineața devreme au adesea coasta doar pentru ei.", "category": "recreational", "coords": [6.634879, 0.406759]}, {"name": "Praia das Conchas", "text": "Tot în Conde este ascunsă fermecătoarea Praia das Conchas, care promite o idilă tipică de insulă. Băieții găsesc condiții ideale pentru a se relaxa pe această porțiune de plajă din São Tomé și Príncipe. Fie pentru a colecta scoici, fie pur și simplu pentru a te relaxa, acest loc radiază o mare liniște. Un mic picnic în bagaj completează perfect șederea.", "category": "recreational", "coords": [6.621376, 0.406963]}], "en": [{"name": "Farol da Lagoa Azul", "text": "Farol da Lagoa Azul is a lighthouse in Conde.", "category": "landmark", "coords": [6.6102, 0.407526]}, {"name": "Praia Guégué", "text": "Surrounded by the tropical nature of Conde, Praia Guégué is a wonderful retreat by the sea. Here you can escape everyday life and feel the warm ocean breeze. The quiet shores invite you to take refreshing walks or spend relaxing moments in the sand. Those who arrive early in the morning often have the coast entirely to themselves.", "category": "recreational", "coords": [6.634879, 0.406759]}, {"name": "Praia das Conchas", "text": "Also hidden in Conde is the charming Praia das Conchas, which promises a typical island idyll. Bathers find ideal conditions to unwind on this stretch of beach in São Tomé and Príncipe. Whether for collecting shells or simply relaxing, this place radiates great peacefulness. A small packed picnic perfectly rounds off the stay.", "category": "recreational", "coords": [6.621376, 0.406963]}]},
+    id: "conde-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Farol da Lagoa Azul",
+                  "text": "Der gestreifte Leuchtturm auf den Klippen oberhalb der Lagoa Azul bei Conde.",
+                  "category": "landmark",
+                  "coords": [
+                        6.6102,
+                        0.407526
+                  ]
+            },
+            {
+                  "name": "Praia Guégué",
+                  "text": "Umgeben von der tropischen Natur von Conde, ist die Praia Guégué ein wunderbarer Rückzugsort am Meer. Hier kann man dem Alltag entfliehen und die warme Brise des Ozeans spüren. Die ruhigen Ufer laden zu erfrischenden Spaziergängen oder entspannten Momenten im Sand ein. Wer früh am Morgen anreist, hat die Küste oft ganz für sich allein.",
+                  "category": "recreational",
+                  "coords": [
+                        6.634879,
+                        0.406759
+                  ]
+            },
+            {
+                  "name": "Praia das Conchas",
+                  "text": "Ebenfalls in Conde verbirgt sich die charmante Praia das Conchas, die typische Inselidylle verspricht. Badegäste finden an diesem Strandabschnitt von São Tomé und Príncipe ideale Bedingungen, um die Seele baumeln zu lassen. Ob zum Muschelsammeln oder einfach zum Entspannen, dieser Ort strahlt große Friedlichkeit aus. Ein kleines Picknick im Gepäck rundet den Aufenthalt perfekt ab.",
+                  "category": "recreational",
+                  "coords": [
+                        6.621376,
+                        0.406963
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Farol da Lagoa Azul",
+                  "text": "A csíkos világítótorony a Lagoa Azul szikláin Conde mellett.",
+                  "category": "landmark",
+                  "coords": [
+                        6.6102,
+                        0.407526
+                  ]
+            },
+            {
+                  "name": "Praia Guégué",
+                  "text": "A Conde trópusi természetével körülvett Praia Guégué egy csodálatos menedék a tenger mellett. Itt az ember elmenekülhet a mindennapok elől, és érezheti az óceán meleg szellőjét. A csendes partok frissítő sétákra vagy pihentető pillanatokra hívogatnak a homokban. Aki kora reggel érkezik, annak gyakran az egész partvidék a rendelkezésére áll.",
+                  "category": "recreational",
+                  "coords": [
+                        6.634879,
+                        0.406759
+                  ]
+            },
+            {
+                  "name": "Praia das Conchas",
+                  "text": "Szintén Conde területén bújik meg a bájos Praia das Conchas, amely jellegzetes szigeti idillt ígér. A fürdőzők São Tomé és Príncipe ezen partszakaszán ideális feltételeket találnak a kikapcsolódáshoz. Akár kagylógyűjtésre, akár csak pihenésre vágyik, ez a hely nagy békességet sugároz. Egy kis csomagolt piknik tökéletessé teszi a tartózkodást.",
+                  "category": "recreational",
+                  "coords": [
+                        6.621376,
+                        0.406963
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Farol da Lagoa Azul",
+                  "text": "Farul dungat de pe stâncile de deasupra Lagoa Azul lângă Conde.",
+                  "category": "landmark",
+                  "coords": [
+                        6.6102,
+                        0.407526
+                  ]
+            },
+            {
+                  "name": "Praia Guégué",
+                  "text": "Înconjurată de natura tropicală din Conde, Praia Guégué este un refugiu minunat pe malul mării. Aici poți scăpa de viața de zi cu zi și poți simți briza caldă a oceanului. Țărmurile liniștite te invită la plimbări revigorante sau la momente de relaxare pe nisip. Cei care sosesc dimineața devreme au adesea coasta doar pentru ei.",
+                  "category": "recreational",
+                  "coords": [
+                        6.634879,
+                        0.406759
+                  ]
+            },
+            {
+                  "name": "Praia das Conchas",
+                  "text": "Tot în Conde este ascunsă fermecătoarea Praia das Conchas, care promite o idilă tipică de insulă. Băieții găsesc condiții ideale pentru a se relaxa pe această porțiune de plajă din São Tomé și Príncipe. Fie pentru a colecta scoici, fie pur și simplu pentru a te relaxa, acest loc radiază o mare liniște. Un mic picnic în bagaj completează perfect șederea.",
+                  "category": "recreational",
+                  "coords": [
+                        6.621376,
+                        0.406963
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Farol da Lagoa Azul",
+                  "text": "The striped lighthouse on the cliffs above Lagoa Azul near Conde.",
+                  "category": "landmark",
+                  "coords": [
+                        6.6102,
+                        0.407526
+                  ]
+            },
+            {
+                  "name": "Praia Guégué",
+                  "text": "Surrounded by the tropical nature of Conde, Praia Guégué is a wonderful retreat by the sea. Here you can escape everyday life and feel the warm ocean breeze. The quiet shores invite you to take refreshing walks or spend relaxing moments in the sand. Those who arrive early in the morning often have the coast entirely to themselves.",
+                  "category": "recreational",
+                  "coords": [
+                        6.634879,
+                        0.406759
+                  ]
+            },
+            {
+                  "name": "Praia das Conchas",
+                  "text": "Also hidden in Conde is the charming Praia das Conchas, which promises a typical island idyll. Bathers find ideal conditions to unwind on this stretch of beach in São Tomé and Príncipe. Whether for collecting shells or simply relaxing, this place radiates great peacefulness. A small packed picnic perfectly rounds off the stay.",
+                  "category": "recreational",
+                  "coords": [
+                        6.621376,
+                        0.406963
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-05",
     coords: [6.63, 0.4],
@@ -1652,7 +2147,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Roça Agostinho Neto ( Roça de Cinco mil)",
-                  "text": "Die Roça Agostinho Neto bietet einen schönen Aussichtspunkt in Agostinho Neto.",
+                  "text": "Die historische Kaffeeplantage Roça Agostinho Neto mit Herrenhaus aus dem 19. Jahrhundert in Neto.",
                   "category": "natural",
                   "coords": [
                         6.644974,
@@ -1663,7 +2158,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Roça Agostinho Neto ( Roça de Cinco mil)",
-                  "text": "A Roça Agostinho Neto egy szép kilátópontot kínál Agostinho Netóban.",
+                  "text": "A történelmi Roça Agostinho Neto kávéültetvény 19. századi kúriával Netóban.",
                   "category": "natural",
                   "coords": [
                         6.644974,
@@ -1674,7 +2169,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Roça Agostinho Neto ( Roça de Cinco mil)",
-                  "text": "Roça Agostinho Neto oferă un punct de belvedere frumos în Agostinho Neto.",
+                  "text": "Plantația istorică de cafea Roça Agostinho Neto cu conacul din secolul al XIX-lea în Neto.",
                   "category": "natural",
                   "coords": [
                         6.644974,
@@ -1685,7 +2180,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Roça Agostinho Neto ( Roça de Cinco mil)",
-                  "text": "Roça Agostinho Neto offers a nice viewpoint in Agostinho Neto.",
+                  "text": "The historic coffee plantation Roça Agostinho Neto with 19th-century manor house in Neto.",
                   "category": "natural",
                   "coords": [
                         6.644974,
@@ -1889,7 +2384,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Roça Agostinho Neto ( Roça de Cinco mil)",
-                  "text": "Die Roça Agostinho Neto bietet einen Aussichtspunkt in Blublu.",
+                  "text": "Die ehemalige Kaffee-Plantage Roça Agostinho Neto mit den Arbeiterhütten aus der Kolonialzeit in Blublu.",
                   "category": "natural",
                   "coords": [
                         6.644974,
@@ -1900,7 +2395,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Roça Agostinho Neto ( Roça de Cinco mil)",
-                  "text": "A Roça Agostinho Neto egy kilátópontot kínál Blubluban.",
+                  "text": "Az egykori Roça Agostinho Neto kávéültetvény gyarmati kori munkásházakkal Blubluban.",
                   "category": "natural",
                   "coords": [
                         6.644974,
@@ -1911,7 +2406,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Roça Agostinho Neto ( Roça de Cinco mil)",
-                  "text": "Roça Agostinho Neto oferă un punct de belvedere în Blublu.",
+                  "text": "Fosta plantație de cafea Roça Agostinho Neto cu colibele muncitorești din perioada colonială în Blublu.",
                   "category": "natural",
                   "coords": [
                         6.644974,
@@ -1922,7 +2417,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Roça Agostinho Neto ( Roça de Cinco mil)",
-                  "text": "Roça Agostinho Neto offers a viewpoint in Blublu.",
+                  "text": "The former coffee plantation Roça Agostinho Neto with colonial-era workers' huts in Blublu.",
                   "category": "natural",
                   "coords": [
                         6.644974,
@@ -2062,7 +2557,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Coffe Museum",
-                  "text": "Das Coffe Museum ist ein Museum zum Thema Kaffee in Madalena.",
+                  "text": "Das Kaffeemuseum in einer ehemaligen Rösterei mit Blick auf den Hafen von Madalena.",
                   "category": "museum",
                   "coords": [
                         6.640265,
@@ -2073,7 +2568,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Coffe Museum",
-                  "text": "A Coffe Museum egy múzeum Madalena városában.",
+                  "text": "A kávémúzeum egy egykori pörkölőben, a madalenai kikötőre néző kilátással.",
                   "category": "museum",
                   "coords": [
                         6.640265,
@@ -2084,7 +2579,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Coffe Museum",
-                  "text": "Coffe Museum este un muzeu din Madalena.",
+                  "text": "Muzeul cafelei într-o fostă prăjitorie cu vedere la portul Madalena.",
                   "category": "museum",
                   "coords": [
                         6.640265,
@@ -2095,7 +2590,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Coffe Museum",
-                  "text": "The Coffe Museum is a museum located in Madalena.",
+                  "text": "The coffee museum in a former roastery overlooking the harbor of Madalena.",
                   "category": "museum",
                   "coords": [
                         6.640265,
@@ -2536,7 +3031,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Coffe Museum",
-                  "text": "Das Coffe Museum ist ein Museum in Batepá.",
+                  "text": "Ein Museum, das der Geschichte des Kaffees in Batepa gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         6.640265,
@@ -2547,7 +3042,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Coffe Museum",
-                  "text": "A Coffe Museum egy múzeum Batepá területén.",
+                  "text": "Egy múzeum, amely a kávé történetét mutatja be Batepa városában.",
                   "category": "museum",
                   "coords": [
                         6.640265,
@@ -2558,7 +3053,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Coffe Museum",
-                  "text": "Coffe Museum este un muzeu din Batepá.",
+                  "text": "Un muzeu dedicat istoriei cafelei în Batepa.",
                   "category": "museum",
                   "coords": [
                         6.640265,
@@ -2569,7 +3064,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Coffe Museum",
-                  "text": "The Coffe Museum is a museum in Batepá.",
+                  "text": "A museum dedicated to the history of coffee in Batepa.",
                   "category": "museum",
                   "coords": [
                         6.640265,
@@ -2654,7 +3149,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
             },
             {
                   "name": "Botanischer Garten",
-                  "text": "Der Botanische Garten ist eine attraktive Anlage in Monte Café.",
+                  "text": "Ein botanischer Garten mit einheimischen Pflanzen in Cafe.",
                   "category": "landmark",
                   "coords": [
                         6.61216,
@@ -2674,7 +3169,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
             },
             {
                   "name": "Jardim Botânico",
-                  "text": "A Botanikus Kert egy vonzó terület Monte Caféban.",
+                  "text": "Egy botanikus kert, mely a helyi növényfajokat mutatja be Cafe-ban.",
                   "category": "landmark",
                   "coords": [
                         6.61216,
@@ -2694,7 +3189,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
             },
             {
                   "name": "Jardim Botânico",
-                  "text": "Grădina Botanică este o facilitate atractivă în Monte Café.",
+                  "text": "O grădină botanică cu plante locale în Cafe.",
                   "category": "landmark",
                   "coords": [
                         6.61216,
@@ -2714,7 +3209,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
             },
             {
                   "name": "Botanical Garden",
-                  "text": "The Botanical Garden is an attractive facility in Monte Café.",
+                  "text": "A botanical garden showcasing local plant species in Cafe.",
                   "category": "landmark",
                   "coords": [
                         6.61216,
@@ -3091,7 +3586,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Miradouro Terreiro Velho",
-                  "text": "Miradouro Terreiro Velho ist ein Aussichtspunkt in Paciência.",
+                  "text": "Ein natürlicher Aussichtspunkt mit Blick auf das Paciencia-Tal.",
                   "category": "natural",
                   "coords": [
                         7.427073,
@@ -3102,7 +3597,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Miradouro Terreiro Velho",
-                  "text": "A Miradouro Terreiro Velho egy kilátópont Paciência településen.",
+                  "text": "Egy természetes kilátó, amely a Paciencia-völgyre nyújt kilátást.",
                   "category": "natural",
                   "coords": [
                         7.427073,
@@ -3113,7 +3608,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Miradouro Terreiro Velho",
-                  "text": "Miradouro Terreiro Velho este un punct de belvedere situat în Paciência.",
+                  "text": "Un punct de belvedere natural cu vedere asupra văii Paciencia.",
                   "category": "natural",
                   "coords": [
                         7.427073,
@@ -3124,7 +3619,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Miradouro Terreiro Velho",
-                  "text": "Miradouro Terreiro Velho is a viewpoint located in Paciência.",
+                  "text": "A natural viewpoint offering views over the Paciencia valley.",
                   "category": "natural",
                   "coords": [
                         7.427073,
@@ -3241,7 +3736,88 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       en: "Ponta do Sol marks the northwestern tip of Príncipe Island and feels, both geographically and atmospherically, like an „end of the world“. Steep volcanic cliffs plunge here into the Atlantic, and a historic lighthouse built in the early 20th century guides ships through the sometimes treacherous currents of the Gulf of Guinea. Because the point faces almost due west, it is one of the best places in the entire archipelago to watch the sunset over the open ocean — on clear days, the setting sun bathes the Atlantic in deep gold and red. The small scattered settlement at the foot of the lighthouse lives from deep-sea fishing, particularly tuna and wahoo, and from the gentle tourism increasingly discovering the region. Rare birds such as the São Tomé drongo and the Sandwich tern nest on the cliffs, and humpback whales pass offshore between July and October."
     }, image: "/poi-images/ponta-do-sol-cities-v2.webp"},
   {
-    id: "nova-estrela-cities-v2", "sights": {"de": [{"name": "Praia Abade", "text": "Nahe Nova Estrela befindet sich die einladende Praia Abade. Der weiche Sand und die friedliche Stimmung machen diesen Strand zu einer idealen Destination für erholungsuchende Urlauber. In der landestypischen Kulisse lässt es sich wunderbar sonnenbaden oder entspannt spazieren. Es lohnt sich, rechtzeitig anzureisen, um einen schönen Schattenplatz zu ergattern.", "category": "recreational", "coords": [7.455994, 1.631382]}, {"name": "Miradouro Terreiro Velho", "text": "Der Miradouro Terreiro Velho ist ein Aussichtspunkt in Nova Estrela.", "category": "natural", "coords": [7.427073, 1.614192]}], "hu": [{"name": "Praia Abade", "text": "Nova Estrela közelében található a hívogató Praia Abade. A puha homok és a békés hangulat ideális célponttá teszi ezt a strandot a kikapcsolódásra vágyó nyaralók számára. A helyi jellegzetes környezetben csodálatosan lehet napozni vagy nyugodtan sétálni. Érdemes időben érkezni, hogy találjunk egy kellemes árnyékos helyet.", "category": "recreational", "coords": [7.455994, 1.631382]}, {"name": "Miradouro Terreiro Velho", "text": "A Miradouro Terreiro Velho egy kilátópont Nova Estrelában.", "category": "natural", "coords": [7.427073, 1.614192]}], "ro": [{"name": "Praia Abade", "text": "Aproape de Nova Estrela se află primitoarea Praia Abade. Nisipul moale și atmosfera pașnică fac din această plajă o destinație ideală pentru turiștii care caută relaxare. În decorul tipic țării, te poți bucura minunat de soare sau te poți plimba relaxat. Merită să ajungeți la timp pentru a prinde un loc frumos la umbră.", "category": "recreational", "coords": [7.455994, 1.631382]}, {"name": "Miradouro Terreiro Velho", "text": "Miradouro Terreiro Velho este un punct de belvedere în Nova Estrela.", "category": "natural", "coords": [7.427073, 1.614192]}], "en": [{"name": "Praia Abade", "text": "Near Nova Estrela is the inviting Praia Abade. The soft sand and peaceful atmosphere make this beach an ideal destination for vacationers seeking relaxation. In the setting typical of the country, you can wonderfully sunbathe or take a relaxed walk. It is worth arriving early enough to secure a nice shady spot.", "category": "recreational", "coords": [7.455994, 1.631382]}, {"name": "Miradouro Terreiro Velho", "text": "Miradouro Terreiro Velho is a viewpoint in Nova Estrela.", "category": "natural", "coords": [7.427073, 1.614192]}]},
+    id: "nova-estrela-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia Abade",
+                  "text": "Nahe Nova Estrela befindet sich die einladende Praia Abade. Der weiche Sand und die friedliche Stimmung machen diesen Strand zu einer idealen Destination für erholungsuchende Urlauber. In der landestypischen Kulisse lässt es sich wunderbar sonnenbaden oder entspannt spazieren. Es lohnt sich, rechtzeitig anzureisen, um einen schönen Schattenplatz zu ergattern.",
+                  "category": "recreational",
+                  "coords": [
+                        7.455994,
+                        1.631382
+                  ]
+            },
+            {
+                  "name": "Miradouro Terreiro Velho",
+                  "text": "Ein natürlicher Aussichtspunkt mit Panoramablick über die Region Estrela.",
+                  "category": "natural",
+                  "coords": [
+                        7.427073,
+                        1.614192
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia Abade",
+                  "text": "Nova Estrela közelében található a hívogató Praia Abade. A puha homok és a békés hangulat ideális célponttá teszi ezt a strandot a kikapcsolódásra vágyó nyaralók számára. A helyi jellegzetes környezetben csodálatosan lehet napozni vagy nyugodtan sétálni. Érdemes időben érkezni, hogy találjunk egy kellemes árnyékos helyet.",
+                  "category": "recreational",
+                  "coords": [
+                        7.455994,
+                        1.631382
+                  ]
+            },
+            {
+                  "name": "Miradouro Terreiro Velho",
+                  "text": "Egy természetes kilátó, amely az Estrela régióra nyújt panorámakilátást.",
+                  "category": "natural",
+                  "coords": [
+                        7.427073,
+                        1.614192
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia Abade",
+                  "text": "Aproape de Nova Estrela se află primitoarea Praia Abade. Nisipul moale și atmosfera pașnică fac din această plajă o destinație ideală pentru turiștii care caută relaxare. În decorul tipic țării, te poți bucura minunat de soare sau te poți plimba relaxat. Merită să ajungeți la timp pentru a prinde un loc frumos la umbră.",
+                  "category": "recreational",
+                  "coords": [
+                        7.455994,
+                        1.631382
+                  ]
+            },
+            {
+                  "name": "Miradouro Terreiro Velho",
+                  "text": "Un punct de belvedere natural cu panoramă asupra regiunii Estrela.",
+                  "category": "natural",
+                  "coords": [
+                        7.427073,
+                        1.614192
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia Abade",
+                  "text": "Near Nova Estrela is the inviting Praia Abade. The soft sand and peaceful atmosphere make this beach an ideal destination for vacationers seeking relaxation. In the setting typical of the country, you can wonderfully sunbathe or take a relaxed walk. It is worth arriving early enough to secure a nice shady spot.",
+                  "category": "recreational",
+                  "coords": [
+                        7.455994,
+                        1.631382
+                  ]
+            },
+            {
+                  "name": "Miradouro Terreiro Velho",
+                  "text": "A natural viewpoint overlooking the Estrela region.",
+                  "category": "natural",
+                  "coords": [
+                        7.427073,
+                        1.614192
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-P",
     coords: [7.44, 1.61],
@@ -3437,7 +4013,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Miradouro Terreiro Velho",
-                  "text": "Der Miradouro Terreiro Velho ist ein Aussichtspunkt in Esperança.",
+                  "text": "Ein natürlicher Aussichtspunkt mit weiter Sicht über Esperanca.",
                   "category": "natural",
                   "coords": [
                         7.427073,
@@ -3448,7 +4024,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Miradouro Terreiro Velho",
-                  "text": "A Miradouro Terreiro Velho egy kilátópont Esperançában.",
+                  "text": "Egy természetes kilátó, amely Esperanca térségére nyújt kilátást.",
                   "category": "natural",
                   "coords": [
                         7.427073,
@@ -3459,7 +4035,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Miradouro Terreiro Velho",
-                  "text": "Miradouro Terreiro Velho este un punct de belvedere în Esperança.",
+                  "text": "Un punct de belvedere natural cu vederi panoramice asupra Esperanței.",
                   "category": "natural",
                   "coords": [
                         7.427073,
@@ -3470,7 +4046,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Miradouro Terreiro Velho",
-                  "text": "Miradouro Terreiro Velho is a viewpoint in Esperança.",
+                  "text": "A natural viewpoint with panoramic vistas of Esperanca.",
                   "category": "natural",
                   "coords": [
                         7.427073,
@@ -3610,7 +4186,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Oque Daniel",
-                  "text": "Oque Daniel ist ein Aussichtspunkt in Maria Correia.",
+                  "text": "Eine natürliche Quelle namens Oque Daniel in Correia.",
                   "category": "natural",
                   "coords": [
                         7.371496,
@@ -3621,7 +4197,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Oque Daniel",
-                  "text": "Az Oque Daniel egy kilátó Maria Correia területén.",
+                  "text": "Egy természetes forrás, Oque Daniel, Correia területén.",
                   "category": "natural",
                   "coords": [
                         7.371496,
@@ -3632,7 +4208,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Oque Daniel",
-                  "text": "Oque Daniel este un punct de belvedere în Maria Correia.",
+                  "text": "Un izvor natural numit Oque Daniel în Correia.",
                   "category": "natural",
                   "coords": [
                         7.371496,
@@ -3643,7 +4219,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Oque Daniel",
-                  "text": "Oque Daniel is a viewpoint in Maria Correia.",
+                  "text": "A natural spring known as Oque Daniel in Correia.",
                   "category": "natural",
                   "coords": [
                         7.371496,
@@ -3783,7 +4359,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Cascata Angolares",
-                  "text": "Cascata Angolares ist eine Sehenswürdigkeit in Henrique (Lembá).",
+                  "text": "Ein Wasserfall namens Cascata Angolares in Lemba.",
                   "category": "landmark",
                   "coords": [
                         6.553862,
@@ -3794,7 +4370,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Cascata Angolares",
-                  "text": "A Cascata Angolares egy látványosság Henrique (Lembá) városában.",
+                  "text": "Egy Cascata Angolares nevű vízesés Lembában.",
                   "category": "landmark",
                   "coords": [
                         6.553862,
@@ -3805,7 +4381,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Cascata Angolares",
-                  "text": "Cascata Angolares este o atracție în Henrique (Lembá).",
+                  "text": "O cascadă numită Cascata Angolares în Lemba.",
                   "category": "landmark",
                   "coords": [
                         6.553862,
@@ -3816,7 +4392,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Cascata Angolares",
-                  "text": "Cascata Angolares is an attraction located in Henrique (Lembá).",
+                  "text": "A waterfall named Cascata Angolares in Lemba.",
                   "category": "landmark",
                   "coords": [
                         6.553862,
@@ -4080,7 +4656,124 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "sandy-principe-cities-v2", "sights": {"de": [{"name": "Praia Santa Rita", "text": "An der malerischen Sundy-Küste lockt die Praia Santa Rita mit ihrem besonderen Inselflair. Die Wellen branden hier an einem weitestgehend ungestörten Küstenabschnitt, der sich großartig zum Durchatmen eignet. Wer die authentische Natur von São Tomé und Príncipe schätzt, wird diesen Ort lieben. Ein gemütliches Strandlaken reicht vollkommen aus, um hier einen perfekten Tag zu verbringen.", "category": "recreational", "coords": [7.400309, 1.691993]}, {"name": "Praia de Santa Rita", "text": "Als wunderbarer Badestrand an der Sundy-Küste bietet die Praia de Santa Rita exzellente Bedingungen für alle Wasserliebhaber. Das warme Meer und die feine Uferlinie versprechen sorglose Badefreuden in tropischem Rahmen. Die Atmosphäre bleibt hier angenehm entspannt und lokal geprägt. Man sollte unbedingt die frühen Morgenstunden nutzen, wenn das Wasser am ruhigsten ist.", "category": "recreational", "coords": [7.405776, 1.691625]}, {"name": "Oque Daniel", "text": "Oque Daniel ist ein Aussichtspunkt an der Sundy-Küste.", "category": "natural", "coords": [7.371496, 1.658931]}], "hu": [{"name": "Praia Santa Rita", "text": "A festői Sundy-parton található Praia Santa Rita különleges szigeti hangulatával vonzza a látogatókat. A hullámok itt egy nagyrészt zavartalan partszakaszon törnek meg, amely kiválóan alkalmas egy kis fellélegzésre. Aki értékeli São Tomé és Príncipe autentikus természetét, imádni fogja ezt a helyet. Egy kényelmes strandtörölköző bőven elegendő egy tökéletes nap eltöltéséhez itt.", "category": "recreational", "coords": [7.400309, 1.691993]}, {"name": "Praia de Santa Rita", "text": "A Sundy-part csodálatos fürdőstrandjaként a Praia de Santa Rita kiváló feltételeket kínál a víz szerelmeseinek. A meleg tenger és a finom partvonal gondtalan fürdőzést ígér trópusi környezetben. A hangulat kellemesen nyugodt és helyi jellegű marad. Érdemes kihasználni a kora reggeli órákat, amikor a víz a legnyugodtabb.", "category": "recreational", "coords": [7.405776, 1.691625]}, {"name": "Oque Daniel", "text": "Az Oque Daniel egy kilátó Sundy partvidékén.", "category": "natural", "coords": [7.371496, 1.658931]}], "ro": [{"name": "Praia Santa Rita", "text": "Pe pitoreasca coastă Sundy, Praia Santa Rita atrage cu flerul său special de insulă. Valurile se sparg aici pe o secțiune de coastă în mare parte netulburată, care este excelentă pentru a lua o gură de aer proaspăt. Cei care apreciază natura autentică din São Tomé și Príncipe vor iubi acest loc. Un prosop de plajă confortabil este tot ce ai nevoie pentru a petrece o zi perfectă aici.", "category": "recreational", "coords": [7.400309, 1.691993]}, {"name": "Praia de Santa Rita", "text": "Ca o plajă minunată pentru înot pe coasta Sundy, Praia de Santa Rita oferă condiții excelente pentru toți iubitorii de apă. Marea caldă și țărmul fin promit distracție fără griji la scăldat într-un cadru tropical. Atmosfera rămâne plăcut de relaxată și marcată local aici. Cu siguranță ar trebui să profitați de orele dimineții devreme, când apa este cea mai calmă.", "category": "recreational", "coords": [7.405776, 1.691625]}, {"name": "Oque Daniel", "text": "Oque Daniel este un punct de belvedere de pe coasta Sundy.", "category": "natural", "coords": [7.371496, 1.658931]}], "en": [{"name": "Praia Santa Rita", "text": "On the picturesque Sundy Coast, Praia Santa Rita attracts visitors with its special island flair. The waves break here on a largely undisturbed stretch of coast that is great for taking a breather. Those who appreciate the authentic nature of São Tomé and Príncipe will love this place. A cozy beach towel is all you need to spend a perfect day here.", "category": "recreational", "coords": [7.400309, 1.691993]}, {"name": "Praia de Santa Rita", "text": "As a wonderful swimming beach on the Sundy Coast, Praia de Santa Rita offers excellent conditions for all water lovers. The warm sea and fine shoreline promise carefree bathing fun in a tropical setting. The atmosphere here remains pleasantly relaxed and local. You should definitely take advantage of the early morning hours when the water is calmest.", "category": "recreational", "coords": [7.405776, 1.691625]}, {"name": "Oque Daniel", "text": "Oque Daniel is a viewpoint situated along the Sundy coast.", "category": "natural", "coords": [7.371496, 1.658931]}]},
+    id: "sandy-principe-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia Santa Rita",
+                  "text": "An der malerischen Sundy-Küste lockt die Praia Santa Rita mit ihrem besonderen Inselflair. Die Wellen branden hier an einem weitestgehend ungestörten Küstenabschnitt, der sich großartig zum Durchatmen eignet. Wer die authentische Natur von São Tomé und Príncipe schätzt, wird diesen Ort lieben. Ein gemütliches Strandlaken reicht vollkommen aus, um hier einen perfekten Tag zu verbringen.",
+                  "category": "recreational",
+                  "coords": [
+                        7.400309,
+                        1.691993
+                  ]
+            },
+            {
+                  "name": "Praia de Santa Rita",
+                  "text": "Als wunderbarer Badestrand an der Sundy-Küste bietet die Praia de Santa Rita exzellente Bedingungen für alle Wasserliebhaber. Das warme Meer und die feine Uferlinie versprechen sorglose Badefreuden in tropischem Rahmen. Die Atmosphäre bleibt hier angenehm entspannt und lokal geprägt. Man sollte unbedingt die frühen Morgenstunden nutzen, wenn das Wasser am ruhigsten ist.",
+                  "category": "recreational",
+                  "coords": [
+                        7.405776,
+                        1.691625
+                  ]
+            },
+            {
+                  "name": "Oque Daniel",
+                  "text": "Eine natürliche Quelle Oque Daniel auf der Insel Principe.",
+                  "category": "natural",
+                  "coords": [
+                        7.371496,
+                        1.658931
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia Santa Rita",
+                  "text": "A festői Sundy-parton található Praia Santa Rita különleges szigeti hangulatával vonzza a látogatókat. A hullámok itt egy nagyrészt zavartalan partszakaszon törnek meg, amely kiválóan alkalmas egy kis fellélegzésre. Aki értékeli São Tomé és Príncipe autentikus természetét, imádni fogja ezt a helyet. Egy kényelmes strandtörölköző bőven elegendő egy tökéletes nap eltöltéséhez itt.",
+                  "category": "recreational",
+                  "coords": [
+                        7.400309,
+                        1.691993
+                  ]
+            },
+            {
+                  "name": "Praia de Santa Rita",
+                  "text": "A Sundy-part csodálatos fürdőstrandjaként a Praia de Santa Rita kiváló feltételeket kínál a víz szerelmeseinek. A meleg tenger és a finom partvonal gondtalan fürdőzést ígér trópusi környezetben. A hangulat kellemesen nyugodt és helyi jellegű marad. Érdemes kihasználni a kora reggeli órákat, amikor a víz a legnyugodtabb.",
+                  "category": "recreational",
+                  "coords": [
+                        7.405776,
+                        1.691625
+                  ]
+            },
+            {
+                  "name": "Oque Daniel",
+                  "text": "Egy természetes forrás, Oque Daniel, a Principe szigeten.",
+                  "category": "natural",
+                  "coords": [
+                        7.371496,
+                        1.658931
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia Santa Rita",
+                  "text": "Pe pitoreasca coastă Sundy, Praia Santa Rita atrage cu flerul său special de insulă. Valurile se sparg aici pe o secțiune de coastă în mare parte netulburată, care este excelentă pentru a lua o gură de aer proaspăt. Cei care apreciază natura autentică din São Tomé și Príncipe vor iubi acest loc. Un prosop de plajă confortabil este tot ce ai nevoie pentru a petrece o zi perfectă aici.",
+                  "category": "recreational",
+                  "coords": [
+                        7.400309,
+                        1.691993
+                  ]
+            },
+            {
+                  "name": "Praia de Santa Rita",
+                  "text": "Ca o plajă minunată pentru înot pe coasta Sundy, Praia de Santa Rita oferă condiții excelente pentru toți iubitorii de apă. Marea caldă și țărmul fin promit distracție fără griji la scăldat într-un cadru tropical. Atmosfera rămâne plăcut de relaxată și marcată local aici. Cu siguranță ar trebui să profitați de orele dimineții devreme, când apa este cea mai calmă.",
+                  "category": "recreational",
+                  "coords": [
+                        7.405776,
+                        1.691625
+                  ]
+            },
+            {
+                  "name": "Oque Daniel",
+                  "text": "Un izvor natural Oque Daniel pe insula Principe.",
+                  "category": "natural",
+                  "coords": [
+                        7.371496,
+                        1.658931
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia Santa Rita",
+                  "text": "On the picturesque Sundy Coast, Praia Santa Rita attracts visitors with its special island flair. The waves break here on a largely undisturbed stretch of coast that is great for taking a breather. Those who appreciate the authentic nature of São Tomé and Príncipe will love this place. A cozy beach towel is all you need to spend a perfect day here.",
+                  "category": "recreational",
+                  "coords": [
+                        7.400309,
+                        1.691993
+                  ]
+            },
+            {
+                  "name": "Praia de Santa Rita",
+                  "text": "As a wonderful swimming beach on the Sundy Coast, Praia de Santa Rita offers excellent conditions for all water lovers. The warm sea and fine shoreline promise carefree bathing fun in a tropical setting. The atmosphere here remains pleasantly relaxed and local. You should definitely take advantage of the early morning hours when the water is calmest.",
+                  "category": "recreational",
+                  "coords": [
+                        7.405776,
+                        1.691625
+                  ]
+            },
+            {
+                  "name": "Oque Daniel",
+                  "text": "A natural spring Oque Daniel on Principe island.",
+                  "category": "natural",
+                  "coords": [
+                        7.371496,
+                        1.658931
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-P",
     coords: [7.39, 1.67],
@@ -4148,7 +4841,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Miradouro Terreiro Velho",
-                  "text": "Der Miradouro Terreiro Velho ist ein Aussichtspunkt in Paciência.",
+                  "text": "Ein Aussichtspunkt im Inland von Principe.",
                   "category": "natural",
                   "coords": [
                         7.427073,
@@ -4159,7 +4852,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Miradouro Terreiro Velho",
-                  "text": "A Miradouro Terreiro Velho egy kilátópont Paciênciában.",
+                  "text": "Egy kilátó Principe belső területén.",
                   "category": "natural",
                   "coords": [
                         7.427073,
@@ -4170,7 +4863,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Miradouro Terreiro Velho",
-                  "text": "Miradouro Terreiro Velho este un punct de belvedere în Paciência.",
+                  "text": "Un punct de belvedere în interiorul insulei Principe.",
                   "category": "natural",
                   "coords": [
                         7.427073,
@@ -4181,7 +4874,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Miradouro Terreiro Velho",
-                  "text": "Miradouro Terreiro Velho is a viewpoint in Paciência.",
+                  "text": "A viewpoint in the interior of Principe.",
                   "category": "natural",
                   "coords": [
                         7.427073,
@@ -4701,7 +5394,88 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "pantufo-agua-grande-coast-cities-v2", "sights": {"de": [{"name": "Praia das Pombas", "text": "Entlang der Küste von Pantufo bildet die Praia das Pombas ein reizvolles Ausflugsziel. Der feine Sand und das blaue Wasser formen ein typisch tropisches Paradies, das zum Träumen anregt. Man kann sich wunderbar am Ufer entspannen oder am Strand entlang spazieren. Es ist ratsam, leichte Badebekleidung und eine gute Sonnencreme nicht zu vergessen.", "category": "recreational", "coords": [6.750893, 0.287407]}, {"name": "Gesunkenes Schiff", "text": "Shipwreck sind Ruinen in Pantufo (Küste).", "category": "historical", "coords": [6.742856, 0.328309]}], "hu": [{"name": "Praia das Pombas", "text": "Pantufo partja mentén a Praia das Pombas egy bájos kirándulóhelyet alkot. A finom homok és a kék víz jellegzetes trópusi paradicsomot formál, amely álmodozásra ösztönöz. Csodálatosan lehet a parton pihenni vagy sétálni a strand mentén. Célszerű nem megfeledkezni a könnyű fürdőruháról és a jó naptejről.", "category": "recreational", "coords": [6.750893, 0.287407]}, {"name": "Navio Naufragado", "text": "A Shipwreck egy rom Pantufo (Küste) városában.", "category": "historical", "coords": [6.742856, 0.328309]}], "ro": [{"name": "Praia das Pombas", "text": "De-a lungul coastei din Pantufo, Praia das Pombas este o destinație fermecătoare de excursie. Nisipul fin și apa albastră formează un paradis tropical tipic care inspiră la visare. Te poți relaxa minunat pe mal sau te poți plimba de-a lungul plajei. Este indicat să nu uiți costumele de baie lejere și o protecție solară bună.", "category": "recreational", "coords": [6.750893, 0.287407]}, {"name": "Navio Naufragado", "text": "Shipwreck reprezintă niște ruine în Pantufo (Küste).", "category": "historical", "coords": [6.742856, 0.328309]}], "en": [{"name": "Praia das Pombas", "text": "Along the coast of Pantufo, Praia das Pombas forms a charming excursion destination. The fine sand and blue water form a typical tropical paradise that inspires dreaming. You can relax wonderfully on the shore or walk along the beach. It is advisable not to forget light swimwear and good sunscreen.", "category": "recreational", "coords": [6.750893, 0.287407]}, {"name": "Shipwreck", "text": "Shipwreck is a ruined site located in Pantufo (Küste).", "category": "historical", "coords": [6.742856, 0.328309]}]},
+    id: "pantufo-agua-grande-coast-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia das Pombas",
+                  "text": "Entlang der Küste von Pantufo bildet die Praia das Pombas ein reizvolles Ausflugsziel. Der feine Sand und das blaue Wasser formen ein typisch tropisches Paradies, das zum Träumen anregt. Man kann sich wunderbar am Ufer entspannen oder am Strand entlang spazieren. Es ist ratsam, leichte Badebekleidung und eine gute Sonnencreme nicht zu vergessen.",
+                  "category": "recreational",
+                  "coords": [
+                        6.750893,
+                        0.287407
+                  ]
+            },
+            {
+                  "name": "Gesunkenes Schiff",
+                  "text": "Die Überreste eines Schiffsunglücks an der Küste von Agua Grande.",
+                  "category": "historical",
+                  "coords": [
+                        6.742856,
+                        0.328309
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia das Pombas",
+                  "text": "Pantufo partja mentén a Praia das Pombas egy bájos kirándulóhelyet alkot. A finom homok és a kék víz jellegzetes trópusi paradicsomot formál, amely álmodozásra ösztönöz. Csodálatosan lehet a parton pihenni vagy sétálni a strand mentén. Célszerű nem megfeledkezni a könnyű fürdőruháról és a jó naptejről.",
+                  "category": "recreational",
+                  "coords": [
+                        6.750893,
+                        0.287407
+                  ]
+            },
+            {
+                  "name": "Navio Naufragado",
+                  "text": "Egy hajóroncs maradványai az Agua Grande partján.",
+                  "category": "historical",
+                  "coords": [
+                        6.742856,
+                        0.328309
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia das Pombas",
+                  "text": "De-a lungul coastei din Pantufo, Praia das Pombas este o destinație fermecătoare de excursie. Nisipul fin și apa albastră formează un paradis tropical tipic care inspiră la visare. Te poți relaxa minunat pe mal sau te poți plimba de-a lungul plajei. Este indicat să nu uiți costumele de baie lejere și o protecție solară bună.",
+                  "category": "recreational",
+                  "coords": [
+                        6.750893,
+                        0.287407
+                  ]
+            },
+            {
+                  "name": "Navio Naufragado",
+                  "text": "Rămășițele unui naufragiu de-a lungul coastei Agua Grande.",
+                  "category": "historical",
+                  "coords": [
+                        6.742856,
+                        0.328309
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia das Pombas",
+                  "text": "Along the coast of Pantufo, Praia das Pombas forms a charming excursion destination. The fine sand and blue water form a typical tropical paradise that inspires dreaming. You can relax wonderfully on the shore or walk along the beach. It is advisable not to forget light swimwear and good sunscreen.",
+                  "category": "recreational",
+                  "coords": [
+                        6.750893,
+                        0.287407
+                  ]
+            },
+            {
+                  "name": "Shipwreck",
+                  "text": "The remains of a shipwreck along the Agua Grande coast.",
+                  "category": "historical",
+                  "coords": [
+                        6.742856,
+                        0.328309
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-01",
     coords: [6.76, 0.31],
@@ -4769,7 +5543,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Cascata Angolares",
-                  "text": "Cascata Angolares ist eine Attraktion in der Henrique-Hochebene.",
+                  "text": "Ein Wasserfall auf dem Lemba-Plateau.",
                   "category": "landmark",
                   "coords": [
                         6.553862,
@@ -4780,7 +5554,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Cascata Angolares",
-                  "text": "A Cascata Angolares egy látványosság Henrique fennsíkján.",
+                  "text": "Egy vízesés a Lemba-fennsíkon.",
                   "category": "landmark",
                   "coords": [
                         6.553862,
@@ -4791,7 +5565,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Cascata Angolares",
-                  "text": "Cascata Angolares este o atracție situată pe podișul Henrique.",
+                  "text": "O cascadă pe Platoul Lemba.",
                   "category": "landmark",
                   "coords": [
                         6.553862,
@@ -4802,7 +5576,7 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Cascata Angolares",
-                  "text": "Cascata Angolares is an attraction located in the Henrique plateau.",
+                  "text": "A waterfall on the Lemba Plateau.",
                   "category": "landmark",
                   "coords": [
                         6.553862,
@@ -5066,7 +5840,124 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "sandy-principe-north-cities-v2", "sights": {"de": [{"name": "Praia Santa Rita", "text": "In der Gegend von Sundy North gelegen, ist Praia Santa Rita ein angenehmer Strand, der einen Eindruck von der faszinierenden Küste des Landes vermittelt. Die Umgebung ist im Allgemeinen ruhig und zieht all jene an, die eine unaufdringliche Atmosphäre abseits des Trubels suchen. Die Zeit hier verbringt man am besten mit Entspannen im Sand, gemütlichen Spaziergängen und dem Lauschen der rhythmischen Brandung. Wenn man einen kleinen Snack und Wasser einpackt, wird der Aufenthalt an diesem bescheidenen Uferabschnitt noch angenehmer.", "category": "recreational", "coords": [7.400309, 1.691993]}, {"name": "Praia de Santa Rita", "text": "Praia de Santa Rita ruht anmutig in Sundy North und bereichert den Charme des Küstenangebots von São Tomé und Príncipe. Besucher erwartet eine unbeschwerte Stimmung, die zu wahrer Entspannung am Wasser einlädt. Es ist ein fantastischer Ort für die einfachen Freuden des Lebens, wie Waten im seichten Wasser oder Sonnenbaden am Ufer. Ein Besuch an einem Wochentag garantiert oft, dass man diesen friedlichen Raum fast für sich allein hat.", "category": "recreational", "coords": [7.405776, 1.691625]}, {"name": "Oque Daniel", "text": "Oque Daniel ist ein Aussichtspunkt in Sundy.", "category": "natural", "coords": [7.371496, 1.658931]}], "hu": [{"name": "Praia Santa Rita", "text": "A Sundy North területén található Praia Santa Rita egy kellemes strand, amely bepillantást enged az ország lenyűgöző partvidékébe. A környezet általában csendes, ami vonzó azok számára, akik a forgalmas helyektől távol keresnek nyugodt légkört. Az itteni időtöltés főként a homokban való pihenésből, a ráérős sétákból és a ritmikus hullámverés hallgatásából áll. Egy könnyű kis harapnivaló és víz csomagolása kényelmesebbé teszi a tartózkodást ezen a szerény partszakaszon.", "category": "recreational", "coords": [7.400309, 1.691993]}, {"name": "Praia de Santa Rita", "text": "A Praia de Santa Rita kecsesen pihen Sundy North térségében, tovább növelve São Tomé és Príncipe tengerparti kínálatának varázsát. A látogatókat könnyed hangulat fogadja, amely igazi kikapcsolódásra ösztönöz a vízparton. Fantasztikus helyszín az olyan egyszerű örömökre, mint a sekély vízben való gázolás vagy a napozás a parton. Egy hétköznapi látogatás gyakran garantálja, hogy ezt a csendes teret nagyrészt magunkénak tudhatjuk.", "category": "recreational", "coords": [7.405776, 1.691625]}, {"name": "Oque Daniel", "text": "Oque Daniel egy kilátópont Sundyban.", "category": "natural", "coords": [7.371496, 1.658931]}], "ro": [{"name": "Praia Santa Rita", "text": "Aflată în zona Sundy North, Praia Santa Rita este o plajă plăcută, care oferă o privire asupra coastei captivante a țării. Cadrul este în general liniștit, atrăgându-i pe cei care caută un mediu discret, departe de locurile aglomerate. Timpul petrecut aici implică relaxare pe nisip, plimbări pe îndelete și ascultarea valurilor ritmice. Împachetarea unei mici gustări și a apei face ca șederea pe această porțiune modestă de țărm să fie mai confortabilă.", "category": "recreational", "coords": [7.400309, 1.691993]}, {"name": "Praia de Santa Rita", "text": "Praia de Santa Rita se odihnește cu grație în Sundy North, adăugând farmec ofertelor de coastă din São Tomé și Príncipe. Vizitatorii vor întâlni o atmosferă relaxată, care încurajează o deconectare autentică la malul apei. Este o locație fantastică pentru plăceri simple, precum plimbarea prin apele puțin adânci sau o baie de soare pe mal. O vizită într-o zi a săptămânii garantează adesea că veți avea mare parte din acest spațiu liniștit doar pentru dumneavoastră.", "category": "recreational", "coords": [7.405776, 1.691625]}, {"name": "Oque Daniel", "text": "Oque Daniel este un punct de belvedere în Sundy.", "category": "natural", "coords": [7.371496, 1.658931]}], "en": [{"name": "Praia Santa Rita", "text": "Found in the Sundy North area, Praia Santa Rita is a pleasant beach offering a glimpse of the country's captivating seaboard. The setting is generally quiet, appealing to those seeking a low-key environment away from busy spots. Spending time here involves relaxing on the sand, taking leisurely strolls, and listening to the rhythmic surf. Packing a light snack and water makes for a more comfortable stay on this modest stretch of shore.", "category": "recreational", "coords": [7.400309, 1.691993]}, {"name": "Praia de Santa Rita", "text": "Praia de Santa Rita gracefully rests within Sundy North, adding to the charm of Sao Tome and Principe's coastal offerings. Visitors will encounter an easygoing vibe that encourages authentic relaxation by the water. It is a fantastic location for simple pleasures like wading in the shallows or catching some sun on the shore. Visiting on a weekday often guarantees having much of this tranquil space to yourself.", "category": "recreational", "coords": [7.405776, 1.691625]}, {"name": "Oque Daniel", "text": "Oque Daniel is a viewpoint in Sundy.", "category": "natural", "coords": [7.371496, 1.658931]}]},
+    id: "sandy-principe-north-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia Santa Rita",
+                  "text": "In der Gegend von Sundy North gelegen, ist Praia Santa Rita ein angenehmer Strand, der einen Eindruck von der faszinierenden Küste des Landes vermittelt. Die Umgebung ist im Allgemeinen ruhig und zieht all jene an, die eine unaufdringliche Atmosphäre abseits des Trubels suchen. Die Zeit hier verbringt man am besten mit Entspannen im Sand, gemütlichen Spaziergängen und dem Lauschen der rhythmischen Brandung. Wenn man einen kleinen Snack und Wasser einpackt, wird der Aufenthalt an diesem bescheidenen Uferabschnitt noch angenehmer.",
+                  "category": "recreational",
+                  "coords": [
+                        7.400309,
+                        1.691993
+                  ]
+            },
+            {
+                  "name": "Praia de Santa Rita",
+                  "text": "Praia de Santa Rita ruht anmutig in Sundy North und bereichert den Charme des Küstenangebots von São Tomé und Príncipe. Besucher erwartet eine unbeschwerte Stimmung, die zu wahrer Entspannung am Wasser einlädt. Es ist ein fantastischer Ort für die einfachen Freuden des Lebens, wie Waten im seichten Wasser oder Sonnenbaden am Ufer. Ein Besuch an einem Wochentag garantiert oft, dass man diesen friedlichen Raum fast für sich allein hat.",
+                  "category": "recreational",
+                  "coords": [
+                        7.405776,
+                        1.691625
+                  ]
+            },
+            {
+                  "name": "Oque Daniel",
+                  "text": "Eine natürliche Quelle Oque Daniel im Norden von Principe.",
+                  "category": "natural",
+                  "coords": [
+                        7.371496,
+                        1.658931
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia Santa Rita",
+                  "text": "A Sundy North területén található Praia Santa Rita egy kellemes strand, amely bepillantást enged az ország lenyűgöző partvidékébe. A környezet általában csendes, ami vonzó azok számára, akik a forgalmas helyektől távol keresnek nyugodt légkört. Az itteni időtöltés főként a homokban való pihenésből, a ráérős sétákból és a ritmikus hullámverés hallgatásából áll. Egy könnyű kis harapnivaló és víz csomagolása kényelmesebbé teszi a tartózkodást ezen a szerény partszakaszon.",
+                  "category": "recreational",
+                  "coords": [
+                        7.400309,
+                        1.691993
+                  ]
+            },
+            {
+                  "name": "Praia de Santa Rita",
+                  "text": "A Praia de Santa Rita kecsesen pihen Sundy North térségében, tovább növelve São Tomé és Príncipe tengerparti kínálatának varázsát. A látogatókat könnyed hangulat fogadja, amely igazi kikapcsolódásra ösztönöz a vízparton. Fantasztikus helyszín az olyan egyszerű örömökre, mint a sekély vízben való gázolás vagy a napozás a parton. Egy hétköznapi látogatás gyakran garantálja, hogy ezt a csendes teret nagyrészt magunkénak tudhatjuk.",
+                  "category": "recreational",
+                  "coords": [
+                        7.405776,
+                        1.691625
+                  ]
+            },
+            {
+                  "name": "Oque Daniel",
+                  "text": "Egy természetes forrás, Oque Daniel, Principe északi részén.",
+                  "category": "natural",
+                  "coords": [
+                        7.371496,
+                        1.658931
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia Santa Rita",
+                  "text": "Aflată în zona Sundy North, Praia Santa Rita este o plajă plăcută, care oferă o privire asupra coastei captivante a țării. Cadrul este în general liniștit, atrăgându-i pe cei care caută un mediu discret, departe de locurile aglomerate. Timpul petrecut aici implică relaxare pe nisip, plimbări pe îndelete și ascultarea valurilor ritmice. Împachetarea unei mici gustări și a apei face ca șederea pe această porțiune modestă de țărm să fie mai confortabilă.",
+                  "category": "recreational",
+                  "coords": [
+                        7.400309,
+                        1.691993
+                  ]
+            },
+            {
+                  "name": "Praia de Santa Rita",
+                  "text": "Praia de Santa Rita se odihnește cu grație în Sundy North, adăugând farmec ofertelor de coastă din São Tomé și Príncipe. Vizitatorii vor întâlni o atmosferă relaxată, care încurajează o deconectare autentică la malul apei. Este o locație fantastică pentru plăceri simple, precum plimbarea prin apele puțin adânci sau o baie de soare pe mal. O vizită într-o zi a săptămânii garantează adesea că veți avea mare parte din acest spațiu liniștit doar pentru dumneavoastră.",
+                  "category": "recreational",
+                  "coords": [
+                        7.405776,
+                        1.691625
+                  ]
+            },
+            {
+                  "name": "Oque Daniel",
+                  "text": "Un izvor natural Oque Daniel în nordul insulei Principe.",
+                  "category": "natural",
+                  "coords": [
+                        7.371496,
+                        1.658931
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia Santa Rita",
+                  "text": "Found in the Sundy North area, Praia Santa Rita is a pleasant beach offering a glimpse of the country's captivating seaboard. The setting is generally quiet, appealing to those seeking a low-key environment away from busy spots. Spending time here involves relaxing on the sand, taking leisurely strolls, and listening to the rhythmic surf. Packing a light snack and water makes for a more comfortable stay on this modest stretch of shore.",
+                  "category": "recreational",
+                  "coords": [
+                        7.400309,
+                        1.691993
+                  ]
+            },
+            {
+                  "name": "Praia de Santa Rita",
+                  "text": "Praia de Santa Rita gracefully rests within Sundy North, adding to the charm of Sao Tome and Principe's coastal offerings. Visitors will encounter an easygoing vibe that encourages authentic relaxation by the water. It is a fantastic location for simple pleasures like wading in the shallows or catching some sun on the shore. Visiting on a weekday often guarantees having much of this tranquil space to yourself.",
+                  "category": "recreational",
+                  "coords": [
+                        7.405776,
+                        1.691625
+                  ]
+            },
+            {
+                  "name": "Oque Daniel",
+                  "text": "A natural spring Oque Daniel in northern Principe.",
+                  "category": "natural",
+                  "coords": [
+                        7.371496,
+                        1.658931
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-P",
     coords: [7.38, 1.68],
@@ -5130,7 +6021,88 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "paciencia-principe-coast-cities-v2", "sights": {"de": [{"name": "Praia Abade", "text": "Entlang der ruhigen Küste von Paciência gelegen, spiegelt Praia Abade die stille Schönheit der umliegenden Landschaft wider. Die lokale Umgebung fördert einen langsamen Lebensrhythmus und lädt die Gäste ein, den Alltagsstress abzustreifen. Ideal, um ein Buch im Sand zu lesen oder ein erfrischendes Bad zu nehmen, verkörpert dieser Strand einfache tropische Freude. Ein Besuch am frühen Abend bietet ein wunderbares, gedämpftes Licht, das sich im Wasser spiegelt.", "category": "recreational", "coords": [7.455994, 1.631382]}, {"name": "Miradouro Terreiro Velho", "text": "Der Miradouro Terreiro Velho ist ein Aussichtspunkt in Paciência (Küste).", "category": "natural", "coords": [7.427073, 1.614192]}], "hu": [{"name": "Praia Abade", "text": "A békés Paciência partvidék mentén fekvő Praia Abade a környező táj csendes szépségét tükrözi. A helyi környezet elősegíti a lassú életritmust, és arra hívja a vendégeket, hogy hagyják hátra a mindennapi stresszt. Ez a strand, amely ideális a homokon való olvasáshoz vagy egy frissítő csobbanáshoz, az egyszerű trópusi örömöket testesíti meg. Kora esti látogatás esetén csodálatos, tompa fények verődnek vissza a vízről.", "category": "recreational", "coords": [7.455994, 1.631382]}, {"name": "Miradouro Terreiro Velho", "text": "A Miradouro Terreiro Velho egy kilátó Paciência (Küste) városában.", "category": "natural", "coords": [7.427073, 1.614192]}], "ro": [{"name": "Praia Abade", "text": "Poziționată de-a lungul liniștitei coaste Paciência, Praia Abade reflectă frumusețea tăcută a peisajului înconjurător. Cadrul local promovează un ritm de viață lent, invitând oaspeții să se elibereze de stresul zilnic. Ideală pentru a citi o carte pe nisip sau pentru a face o baie răcoroasă, această plajă întruchipează bucuria tropicală simplă. O vizită la începutul serii oferă aici o lumină superbă, estompată, care se reflectă pe apă.", "category": "recreational", "coords": [7.455994, 1.631382]}, {"name": "Miradouro Terreiro Velho", "text": "Miradouro Terreiro Velho este un punct de belvedere în Paciência (Küste).", "category": "natural", "coords": [7.427073, 1.614192]}], "en": [{"name": "Praia Abade", "text": "Positioned along the tranquil Paciencia Coast, Praia Abade reflects the quiet beauty of its surrounding landscape. The local setting promotes a slow pace of life, inviting guests to shed their daily stress. Ideal for reading a book on the sand or taking a refreshing dip, this beach embodies simple tropical joy. An early evening visit here provides lovely, muted light reflecting off the water.", "category": "recreational", "coords": [7.455994, 1.631382]}, {"name": "Miradouro Terreiro Velho", "text": "The Miradouro Terreiro Velho is a viewpoint located in Paciência (Küste).", "category": "natural", "coords": [7.427073, 1.614192]}]},
+    id: "paciencia-principe-coast-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia Abade",
+                  "text": "Entlang der ruhigen Küste von Paciência gelegen, spiegelt Praia Abade die stille Schönheit der umliegenden Landschaft wider. Die lokale Umgebung fördert einen langsamen Lebensrhythmus und lädt die Gäste ein, den Alltagsstress abzustreifen. Ideal, um ein Buch im Sand zu lesen oder ein erfrischendes Bad zu nehmen, verkörpert dieser Strand einfache tropische Freude. Ein Besuch am frühen Abend bietet ein wunderbares, gedämpftes Licht, das sich im Wasser spiegelt.",
+                  "category": "recreational",
+                  "coords": [
+                        7.455994,
+                        1.631382
+                  ]
+            },
+            {
+                  "name": "Miradouro Terreiro Velho",
+                  "text": "Ein Aussichtspunkt entlang der Küste von Principe.",
+                  "category": "natural",
+                  "coords": [
+                        7.427073,
+                        1.614192
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia Abade",
+                  "text": "A békés Paciência partvidék mentén fekvő Praia Abade a környező táj csendes szépségét tükrözi. A helyi környezet elősegíti a lassú életritmust, és arra hívja a vendégeket, hogy hagyják hátra a mindennapi stresszt. Ez a strand, amely ideális a homokon való olvasáshoz vagy egy frissítő csobbanáshoz, az egyszerű trópusi örömöket testesíti meg. Kora esti látogatás esetén csodálatos, tompa fények verődnek vissza a vízről.",
+                  "category": "recreational",
+                  "coords": [
+                        7.455994,
+                        1.631382
+                  ]
+            },
+            {
+                  "name": "Miradouro Terreiro Velho",
+                  "text": "Egy kilátó Principe partja mentén.",
+                  "category": "natural",
+                  "coords": [
+                        7.427073,
+                        1.614192
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia Abade",
+                  "text": "Poziționată de-a lungul liniștitei coaste Paciência, Praia Abade reflectă frumusețea tăcută a peisajului înconjurător. Cadrul local promovează un ritm de viață lent, invitând oaspeții să se elibereze de stresul zilnic. Ideală pentru a citi o carte pe nisip sau pentru a face o baie răcoroasă, această plajă întruchipează bucuria tropicală simplă. O vizită la începutul serii oferă aici o lumină superbă, estompată, care se reflectă pe apă.",
+                  "category": "recreational",
+                  "coords": [
+                        7.455994,
+                        1.631382
+                  ]
+            },
+            {
+                  "name": "Miradouro Terreiro Velho",
+                  "text": "Un punct de belvedere de-a lungul coastei Principe.",
+                  "category": "natural",
+                  "coords": [
+                        7.427073,
+                        1.614192
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia Abade",
+                  "text": "Positioned along the tranquil Paciencia Coast, Praia Abade reflects the quiet beauty of its surrounding landscape. The local setting promotes a slow pace of life, inviting guests to shed their daily stress. Ideal for reading a book on the sand or taking a refreshing dip, this beach embodies simple tropical joy. An early evening visit here provides lovely, muted light reflecting off the water.",
+                  "category": "recreational",
+                  "coords": [
+                        7.455994,
+                        1.631382
+                  ]
+            },
+            {
+                  "name": "Miradouro Terreiro Velho",
+                  "text": "A viewpoint along the Principe coast.",
+                  "category": "natural",
+                  "coords": [
+                        7.427073,
+                        1.614192
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-P",
     coords: [7.43, 1.64],

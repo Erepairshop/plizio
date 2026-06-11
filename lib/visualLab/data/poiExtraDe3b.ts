@@ -1329,7 +1329,7 @@ export const poiExtraDe3b: POI[] = [
       "de": [
             {
                   "name": "Hasselberg",
-                  "text": "Ein Hügel und Aussichtspunkt im Havelland.",
+                  "text": "Der Hasselberg in der Havelland-Region ist ein Hügel mit dem Namen Haselberg.",
                   "category": "landmark",
                   "coords": [
                         12.487593,
@@ -1367,7 +1367,7 @@ export const poiExtraDe3b: POI[] = [
       "hu": [
             {
                   "name": "Hasselberg",
-                  "text": "Domb és kilátóhely a Havel-vidéken.",
+                  "text": "A Hasselberg a Havelland régióban egy domb, amelynek neve Mogyoró-hegy.",
                   "category": "landmark",
                   "coords": [
                         12.487593,
@@ -1405,7 +1405,7 @@ export const poiExtraDe3b: POI[] = [
       "ro": [
             {
                   "name": "Hasselberg",
-                  "text": "Un deal și punct de observație situat în regiunea Havel.",
+                  "text": "Hasselberg din regiunea Havelland este un deal numit „Dealul Alunilor”.",
                   "category": "landmark",
                   "coords": [
                         12.487593,
@@ -1443,7 +1443,7 @@ export const poiExtraDe3b: POI[] = [
       "en": [
             {
                   "name": "Hasselberg",
-                  "text": "A hill and vantage point located in the Havel region.",
+                  "text": "Hasselberg in the Havelland region is a hill named 'Hazel Hill'.",
                   "category": "landmark",
                   "coords": [
                         12.487593,
@@ -1537,7 +1537,7 @@ export const poiExtraDe3b: POI[] = [
             },
             {
                   "name": "Badestelle Radlow",
-                  "text": "Badestelle am Scharmützelsee bei Radlow.",
+                  "text": "Badestelle Radlow: eine ausgewiesene Badestelle am Scharmützelsee nahe dem Ort Radlow.",
                   "category": "recreational",
                   "coords": [
                         14.050397,
@@ -1546,7 +1546,7 @@ export const poiExtraDe3b: POI[] = [
             },
             {
                   "name": "Hundebadestelle",
-                  "text": "Die Hundebadestelle liegt am Scharmützelsee.",
+                  "text": "Hundebadestelle: ein hundefreundlicher Badebereich am Scharmützelsee.",
                   "category": "recreational",
                   "coords": [
                         14.020986,
@@ -1555,7 +1555,7 @@ export const poiExtraDe3b: POI[] = [
             },
             {
                   "name": "Hundestrand",
-                  "text": "Ausgewiesener Strandabschnitt für Hunde am Scharmützelsee.",
+                  "text": "Hundestrand: ein Hundestrand am Scharmützelsee.",
                   "category": "recreational",
                   "coords": [
                         14.014943,
@@ -1593,7 +1593,7 @@ export const poiExtraDe3b: POI[] = [
             },
             {
                   "name": "Badestelle Radlow",
-                  "text": "Fürdőhely a Scharmützelsee-nél, Radlow mellett.",
+                  "text": "Radlowi fürdőhely: kijelölt fürdőhely a Scharmützelsee partján, Radlow falu mellett.",
                   "category": "recreational",
                   "coords": [
                         14.050397,
@@ -1602,7 +1602,7 @@ export const poiExtraDe3b: POI[] = [
             },
             {
                   "name": "Hundebadestelle",
-                  "text": "A Hundebadestelle a Scharmützelsee tónál található.",
+                  "text": "Hundebadestelle: kutyabarát fürdőhely a Scharmützelsee partján.",
                   "category": "recreational",
                   "coords": [
                         14.020986,
@@ -1611,7 +1611,7 @@ export const poiExtraDe3b: POI[] = [
             },
             {
                   "name": "Hundestrand",
-                  "text": "Kutyák számára kijelölt strandrész a Scharmützelsee-nél.",
+                  "text": "Hundestrand: kutyastrand a Scharmützelsee partján.",
                   "category": "recreational",
                   "coords": [
                         14.014943,
@@ -1649,7 +1649,7 @@ export const poiExtraDe3b: POI[] = [
             },
             {
                   "name": "Badestelle Radlow",
-                  "text": "Loc de îmbăiere la lacul Scharmützelsee lângă Radlow.",
+                  "text": "Badestelle Radlow: un loc de înot amenajat pe malul lacului Scharmützelsee, lângă satul Radlow.",
                   "category": "recreational",
                   "coords": [
                         14.050397,
@@ -1658,7 +1658,7 @@ export const poiExtraDe3b: POI[] = [
             },
             {
                   "name": "Hundebadestelle",
-                  "text": "Hundebadestelle este situată pe lacul Scharmützelsee.",
+                  "text": "Hundebadestelle: o zonă de înot pentru câini pe malul lacului Scharmützelsee.",
                   "category": "recreational",
                   "coords": [
                         14.020986,
@@ -1667,7 +1667,7 @@ export const poiExtraDe3b: POI[] = [
             },
             {
                   "name": "Hundestrand",
-                  "text": "Zonă de plajă special amenajată pentru câini la Scharmützelsee.",
+                  "text": "Hundestrand: o plajă pentru câini pe malul lacului Scharmützelsee.",
                   "category": "recreational",
                   "coords": [
                         14.014943,
@@ -1705,7 +1705,7 @@ export const poiExtraDe3b: POI[] = [
             },
             {
                   "name": "Badestelle Radlow",
-                  "text": "Bathing area at Lake Scharmützelsee near Radlow.",
+                  "text": "Badestelle Radlow: a designated swimming spot on the Scharmützelsee near the village of Radlow.",
                   "category": "recreational",
                   "coords": [
                         14.050397,
@@ -1714,7 +1714,7 @@ export const poiExtraDe3b: POI[] = [
             },
             {
                   "name": "Hundebadestelle",
-                  "text": "Hundebadestelle is located on Lake Scharmuetzelsee.",
+                  "text": "Hundebadestelle: a dog-friendly swimming area on the Scharmützelsee.",
                   "category": "recreational",
                   "coords": [
                         14.020986,
@@ -1723,7 +1723,7 @@ export const poiExtraDe3b: POI[] = [
             },
             {
                   "name": "Hundestrand",
-                  "text": "Designated beach area for dogs at Lake Scharmützelsee.",
+                  "text": "Hundestrand: a dog beach on the Scharmützelsee.",
                   "category": "recreational",
                   "coords": [
                         14.014943,
@@ -3518,7 +3518,7 @@ export const poiExtraDe3b: POI[] = [
             },
             {
                   "name": "Kleine Adria",
-                  "text": "Die Kleine Adria in Dessau-Roßlau ist ein beliebtes Ziel für Naturfreunde.",
+                  "text": "Kleine Adria: ein See im Dessau-Wörlitzer Gartenreich, UNESCO-Welterbe.",
                   "category": "natural",
                   "coords": [
                         12.257404,
@@ -3536,7 +3536,7 @@ export const poiExtraDe3b: POI[] = [
             },
             {
                   "name": "Zoberbergsee",
-                  "text": "Der Zoberbergsee in Dessau-Roßlau ist ein lokales Gewässer für erholsame Spaziergänge.",
+                  "text": "Zoberbergsee: ein See auf dem Zoberberg-Hügel in Dessau.",
                   "category": "natural",
                   "coords": [
                         12.180334,
@@ -3545,7 +3545,7 @@ export const poiExtraDe3b: POI[] = [
             },
             {
                   "name": "Leiner See",
-                  "text": "Der Leiner See in Dessau-Roßlau ist ein idyllisch gelegenes Naturgewässer.",
+                  "text": "Leiner See: ein See im Leiner Park in Dessau.",
                   "category": "natural",
                   "coords": [
                         12.287847,
@@ -3563,7 +3563,7 @@ export const poiExtraDe3b: POI[] = [
             },
             {
                   "name": "Kühnauer See",
-                  "text": "Der Kühnauer See in Dessau-Roßlau ist ein bedeutendes Gewässer in der Region.",
+                  "text": "Kühnauer See: ein See im Kühnauer Viertel von Dessau.",
                   "category": "natural",
                   "coords": [
                         12.189511,
@@ -3581,7 +3581,7 @@ export const poiExtraDe3b: POI[] = [
             },
             {
                   "name": "Scholitzer See",
-                  "text": "Der Scholitzer See in Dessau-Roßlau ist ein ruhiger Ort für Naturbeobachtungen.",
+                  "text": "Scholitzer See: ein See nahe dem Ort Scholitze in Dessau.",
                   "category": "natural",
                   "coords": [
                         12.287694,
@@ -3644,7 +3644,7 @@ export const poiExtraDe3b: POI[] = [
             },
             {
                   "name": "Rapunzelturm",
-                  "text": "Der Rapunzelturm in Dessau-Roßlau ist ein phantasievoll gestalteter Spielplatz.",
+                  "text": "Rapunzelturm: ein märchenhafter Kletterturm für Kinder in Dessau.",
                   "category": "family",
                   "coords": [
                         12.238246,
@@ -3830,7 +3830,7 @@ export const poiExtraDe3b: POI[] = [
             },
             {
                   "name": "Kleine Adria",
-                  "text": "A Dessau-Roßlauban található Kleine Adria kedvelt célpont a természet kedvelői számára.",
+                  "text": "Kleine Adria: egy tó a dessau-wörlitzi kertbirodalomban, UNESCO világörökség.",
                   "category": "natural",
                   "coords": [
                         12.257404,
@@ -3848,7 +3848,7 @@ export const poiExtraDe3b: POI[] = [
             },
             {
                   "name": "Zoberbergsee",
-                  "text": "A Dessau-Roßlauban található Zoberbergsee egy helyi tó pihentető sétákhoz.",
+                  "text": "Zoberbergsee: egy tó a dessaui Zoberberg-dombon.",
                   "category": "natural",
                   "coords": [
                         12.180334,
@@ -3857,7 +3857,7 @@ export const poiExtraDe3b: POI[] = [
             },
             {
                   "name": "Leiner See",
-                  "text": "A Dessau-Roßlauban található Leiner See egy idilli fekvésű természetes vízfelület.",
+                  "text": "Leiner See: egy tó a dessaui Leiner Parkban.",
                   "category": "natural",
                   "coords": [
                         12.287847,
@@ -3875,7 +3875,7 @@ export const poiExtraDe3b: POI[] = [
             },
             {
                   "name": "Kühnauer See",
-                  "text": "A Dessau-Roßlauban található Kühnauer See a régió egyik jelentős tava.",
+                  "text": "Kühnauer See: egy tó Dessau Kühnauer negyedében.",
                   "category": "natural",
                   "coords": [
                         12.189511,
@@ -3893,7 +3893,7 @@ export const poiExtraDe3b: POI[] = [
             },
             {
                   "name": "Scholitzer See",
-                  "text": "A Dessau-Roßlauban található Scholitzer See nyugodt hely a természet megfigyelésére.",
+                  "text": "Scholitzer See: egy tó a dessaui Scholitze település közelében.",
                   "category": "natural",
                   "coords": [
                         12.287694,
@@ -3956,7 +3956,7 @@ export const poiExtraDe3b: POI[] = [
             },
             {
                   "name": "Rapunzelturm",
-                  "text": "A Dessau-Roßlauban található Rapunzelturm egy fantáziadúsan kialakított játszótér.",
+                  "text": "Rapunzelturm: egy mesés mászótorony gyermekek számára Dessau-ban.",
                   "category": "family",
                   "coords": [
                         12.238246,
@@ -4142,7 +4142,7 @@ export const poiExtraDe3b: POI[] = [
             },
             {
                   "name": "Kleine Adria",
-                  "text": "Kleine Adria din Dessau-Rosslau este o destinație populară pentru iubitorii de natură.",
+                  "text": "Kleine Adria: un lac în Grădinile Dessau-Wörlitz, patrimoniu UNESCO.",
                   "category": "natural",
                   "coords": [
                         12.257404,
@@ -4160,7 +4160,7 @@ export const poiExtraDe3b: POI[] = [
             },
             {
                   "name": "Zoberbergsee",
-                  "text": "Zoberbergsee din Dessau-Rosslau este un lac local pentru plimbări relaxante.",
+                  "text": "Zoberbergsee: un lac pe dealul Zoberberg din Dessau.",
                   "category": "natural",
                   "coords": [
                         12.180334,
@@ -4169,7 +4169,7 @@ export const poiExtraDe3b: POI[] = [
             },
             {
                   "name": "Leiner See",
-                  "text": "Leiner See din Dessau-Rosslau este un corp de apă natural situat idilic.",
+                  "text": "Leiner See: un lac în Parcul Leiner din Dessau.",
                   "category": "natural",
                   "coords": [
                         12.287847,
@@ -4187,7 +4187,7 @@ export const poiExtraDe3b: POI[] = [
             },
             {
                   "name": "Kühnauer See",
-                  "text": "Kühnauer See din Dessau-Rosslau este un corp de apă important în regiune.",
+                  "text": "Kühnauer See: un lac în cartierul Kühnauer din Dessau.",
                   "category": "natural",
                   "coords": [
                         12.189511,
@@ -4205,7 +4205,7 @@ export const poiExtraDe3b: POI[] = [
             },
             {
                   "name": "Scholitzer See",
-                  "text": "Scholitzer See din Dessau-Rosslau este un loc liniștit pentru observarea naturii.",
+                  "text": "Scholitzer See: un lac lângă localitatea Scholitze din Dessau.",
                   "category": "natural",
                   "coords": [
                         12.287694,
@@ -4268,7 +4268,7 @@ export const poiExtraDe3b: POI[] = [
             },
             {
                   "name": "Rapunzelturm",
-                  "text": "Rapunzelturm din Dessau-Rosslau este un loc de joacă conceput cu imaginație.",
+                  "text": "Rapunzelturm: un turn de cățărare pentru copii cu temă de basm în Dessau.",
                   "category": "family",
                   "coords": [
                         12.238246,
@@ -4454,7 +4454,7 @@ export const poiExtraDe3b: POI[] = [
             },
             {
                   "name": "Kleine Adria",
-                  "text": "The Kleine Adria in Dessau-Rosslau is a popular destination for nature lovers.",
+                  "text": "Kleine Adria: a lake in the Dessau-Wörlitz Garden Realm, a UNESCO World Heritage site.",
                   "category": "natural",
                   "coords": [
                         12.257404,
@@ -4472,7 +4472,7 @@ export const poiExtraDe3b: POI[] = [
             },
             {
                   "name": "Zoberbergsee",
-                  "text": "The Zoberbergsee in Dessau-Rosslau is a local lake for relaxing walks.",
+                  "text": "Zoberbergsee: a lake on the Zoberberg hill in Dessau.",
                   "category": "natural",
                   "coords": [
                         12.180334,
@@ -4481,7 +4481,7 @@ export const poiExtraDe3b: POI[] = [
             },
             {
                   "name": "Leiner See",
-                  "text": "The Leiner See in Dessau-Rosslau is an idyllically situated natural body of water.",
+                  "text": "Leiner See: a lake in Dessau's Leiner Park.",
                   "category": "natural",
                   "coords": [
                         12.287847,
@@ -4499,7 +4499,7 @@ export const poiExtraDe3b: POI[] = [
             },
             {
                   "name": "Kühnauer See",
-                  "text": "The Kühnauer See in Dessau-Rosslau is a significant body of water in the region.",
+                  "text": "Kühnauer See: a lake in Dessau's Kühnauer district.",
                   "category": "natural",
                   "coords": [
                         12.189511,
@@ -4517,7 +4517,7 @@ export const poiExtraDe3b: POI[] = [
             },
             {
                   "name": "Scholitzer See",
-                  "text": "The Scholitzer See in Dessau-Rosslau is a quiet place for nature observation.",
+                  "text": "Scholitzer See: a lake near the locality of Scholitze in Dessau.",
                   "category": "natural",
                   "coords": [
                         12.287694,
@@ -4580,7 +4580,7 @@ export const poiExtraDe3b: POI[] = [
             },
             {
                   "name": "Rapunzelturm",
-                  "text": "The Rapunzelturm in Dessau-Rosslau is an imaginatively designed playground.",
+                  "text": "Rapunzelturm: a fairy-tale themed climbing tower for children in Dessau.",
                   "category": "family",
                   "coords": [
                         12.238246,
@@ -4770,7 +4770,7 @@ export const poiExtraDe3b: POI[] = [
       "de": [
             {
                   "name": "Badestelle Zießau",
-                  "text": "Badestelle am Arendsee bei Zießau.",
+                  "text": "Badestelle Zießau: eine Badestelle am Arendsee nahe dem Dorf Zießau.",
                   "category": "recreational",
                   "coords": [
                         11.469195,
@@ -4779,7 +4779,7 @@ export const poiExtraDe3b: POI[] = [
             },
             {
                   "name": "Pferdeschwemme",
-                  "text": "Badestelle an der Pferdeschwemme am Arendsee.",
+                  "text": "Pferdeschwemme: eine historische Pferdeschwemme, heute Badestelle am Arendsee.",
                   "category": "recreational",
                   "coords": [
                         11.462603,
@@ -4790,7 +4790,7 @@ export const poiExtraDe3b: POI[] = [
       "hu": [
             {
                   "name": "Badestelle Zießau",
-                  "text": "Fürdőhely az Arendsee-nél, Zießau mellett.",
+                  "text": "Zießaui fürdőhely: egy fürdőhely az Arendsee partján, Zießau falu mellett.",
                   "category": "recreational",
                   "coords": [
                         11.469195,
@@ -4799,7 +4799,7 @@ export const poiExtraDe3b: POI[] = [
             },
             {
                   "name": "Pferdeschwemme",
-                  "text": "Fürdőhely az Arendsee-nél, a Pferdeschwemme-nél.",
+                  "text": "Pferdeschwemme: egy történelmi lóúsztató, ma fürdőhely az Arendsee partján.",
                   "category": "recreational",
                   "coords": [
                         11.462603,
@@ -4810,7 +4810,7 @@ export const poiExtraDe3b: POI[] = [
       "ro": [
             {
                   "name": "Badestelle Zießau",
-                  "text": "Loc de îmbăiere la lacul Arendsee lângă Zießau.",
+                  "text": "Badestelle Zießau: un loc de înot pe malul lacului Arendsee, lângă satul Zießau.",
                   "category": "recreational",
                   "coords": [
                         11.469195,
@@ -4819,7 +4819,7 @@ export const poiExtraDe3b: POI[] = [
             },
             {
                   "name": "Pferdeschwemme",
-                  "text": "Loc de îmbăiere la lacul Arendsee, zona Pferdeschwemme.",
+                  "text": "Pferdeschwemme: o scăldătoare istorică pentru cai, acum loc de înot pe malul lacului Arendsee.",
                   "category": "recreational",
                   "coords": [
                         11.462603,
@@ -4830,7 +4830,7 @@ export const poiExtraDe3b: POI[] = [
       "en": [
             {
                   "name": "Badestelle Zießau",
-                  "text": "Bathing area at Lake Arendsee near Zießau.",
+                  "text": "Badestelle Zießau: a swimming spot on Lake Arendsee near the village of Zießau.",
                   "category": "recreational",
                   "coords": [
                         11.469195,
@@ -4839,7 +4839,7 @@ export const poiExtraDe3b: POI[] = [
             },
             {
                   "name": "Pferdeschwemme",
-                  "text": "Bathing area at the Pferdeschwemme on Lake Arendsee.",
+                  "text": "Pferdeschwemme: a historic horse watering place, now a swimming spot on Lake Arendsee.",
                   "category": "recreational",
                   "coords": [
                         11.462603,

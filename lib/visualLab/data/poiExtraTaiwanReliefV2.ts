@@ -3,7 +3,232 @@ import type { POI } from "./poi";
 
 export const poiExtraTaiwanReliefV2: POI[] = [
   {
-    id: "yushan-relief-v2",
+    id: "yushan-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Yushan",
+                  "text": "Mit einer Höhe von fast 4.000 Metern über dem Meeresspiegel ist dieser majestätische Gipfel der höchste Berg Taiwans und ein Höhepunkt des ostasiatischen alpinen Geländes.",
+                  "category": "natural",
+                  "coords": [
+                        120.957274,
+                        23.469987
+                  ]
+            },
+            {
+                  "name": "Yushan East Peak",
+                  "text": "Gekennzeichnet durch eine steile, abschreckende Felswand, die oft die „Zehn Reichen“ genannt wird, stellt dieser Gipfel eine der technischsten Klettereien im Yushan-Gebiet dar.",
+                  "category": "natural",
+                  "coords": [
+                        120.965193,
+                        23.470743
+                  ]
+            },
+            {
+                  "name": "Yushan North Peak",
+                  "text": "Als Standort der höchstgelegenen Wetterstation in Taiwan bietet dieser Gipfel klassische, postkartenschöne Ansichten des Yushan-Hauptberges.",
+                  "category": "natural",
+                  "coords": [
+                        120.959497,
+                        23.48757
+                  ]
+            },
+            {
+                  "name": "Duiguanshan",
+                  "text": "Positioniert im schroffen Relief der zentralen Berge, überblickt dieser Gipfel tiefe Flusstäler, die sich in die Yushan-Landschaft gegraben haben.",
+                  "category": "natural",
+                  "coords": [
+                        120.981469,
+                        23.5426
+                  ]
+            },
+            {
+                  "name": "Dongxiaonanshan",
+                  "text": "Dieser hochgelegene Gipfel verfügt über sanfte, grasbewachsene Hänge, die in starkem Kontrast zu den steilen Klippen stehen, die weite Teile der Yushan-Kette dominieren.",
+                  "category": "natural",
+                  "coords": [
+                        120.963353,
+                        23.439098
+                  ]
+            },
+            {
+                  "name": "Yushan South Peak",
+                  "text": "Definiert durch scharfe, zerklüftete schwarze Schieferformationen verankert dieser schroffe Gipfel optisch die südliche Ausdehnung des Yushan-Massivs.",
+                  "category": "natural",
+                  "coords": [
+                        120.958951,
+                        23.446594
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Yushan",
+                  "text": "A csaknem 4000 méteres tengerszint feletti magasságba tornyosuló fenséges csúcs Tajvan legmagasabb hegye és a kelet-ázsiai alpesi terep csúcspontja.",
+                  "category": "natural",
+                  "coords": [
+                        120.957274,
+                        23.469987
+                  ]
+            },
+            {
+                  "name": "Yushan East Peak",
+                  "text": "A meredek, zord, gyakran a \"Tíz Nyúlásnak\" nevezett sziklafal jellemezte csúcs az egyik leginkább technikai mászást jelenti a Yushan területén.",
+                  "category": "natural",
+                  "coords": [
+                        120.965193,
+                        23.470743
+                  ]
+            },
+            {
+                  "name": "Yushan North Peak",
+                  "text": "A Tajvan legmagasabb tengerszint feletti magasságban lévő meteorológiai állomásának otthont adó csúcs klasszikus, képeslapra illő kilátást nyújt a fő Yushan-hegyre.",
+                  "category": "natural",
+                  "coords": [
+                        120.959497,
+                        23.48757
+                  ]
+            },
+            {
+                  "name": "Duiguanshan",
+                  "text": "A központi hegyek zord domborzatában elhelyezkedő csúcs a Yushan-tájba vájt mély folyóvölgyekre néz.",
+                  "category": "natural",
+                  "coords": [
+                        120.981469,
+                        23.5426
+                  ]
+            },
+            {
+                  "name": "Dongxiaonanshan",
+                  "text": "Ez a magaslati csúcs lankás, füves lejtőkkel rendelkezik, amelyek éles kontrasztot alkotnak a Yushan-hegység nagy részét uraló meredek sziklákkal.",
+                  "category": "natural",
+                  "coords": [
+                        120.963353,
+                        23.439098
+                  ]
+            },
+            {
+                  "name": "Yushan South Peak",
+                  "text": "Az éles, csipkézett fekete palaformációk által meghatározott zord csúcs vizuálisan lehorgonyozza a Yushan-masszívum déli kiterjedését.",
+                  "category": "natural",
+                  "coords": [
+                        120.958951,
+                        23.446594
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Yushan",
+                  "text": "Înălțându-se la aproape 4.000 de metri deasupra nivelului mării, acest vârf maiestuos este cel mai înalt munte din Taiwan și un punct culminant al terenului alpin est-asiatic.",
+                  "category": "natural",
+                  "coords": [
+                        120.957274,
+                        23.469987
+                  ]
+            },
+            {
+                  "name": "Yushan East Peak",
+                  "text": "Caracterizat de un perete de stâncă abrupt și neprietenos, deseori numit „Zece Întinderi”, acest vârf reprezintă una dintre cele mai tehnice ascensiuni din zona Yushan.",
+                  "category": "natural",
+                  "coords": [
+                        120.965193,
+                        23.470743
+                  ]
+            },
+            {
+                  "name": "Yushan North Peak",
+                  "text": "Găzduind stația meteo la cea mai mare altitudine din Taiwan, acest vârf oferă priveliști clasice, perfecte pentru vederi, asupra muntelui principal Yushan.",
+                  "category": "natural",
+                  "coords": [
+                        120.959497,
+                        23.48757
+                  ]
+            },
+            {
+                  "name": "Duiguanshan",
+                  "text": "Poziționat în relieful accidentat al munților centrali, acest vârf are vedere la văile adânci ale râurilor sculptate în peisajul Yushan.",
+                  "category": "natural",
+                  "coords": [
+                        120.981469,
+                        23.5426
+                  ]
+            },
+            {
+                  "name": "Dongxiaonanshan",
+                  "text": "Acest vârf de mare altitudine prezintă pante blânde, înierbate, care contrastează puternic cu stâncile abrupte care domină o mare parte din lanțul Yushan.",
+                  "category": "natural",
+                  "coords": [
+                        120.963353,
+                        23.439098
+                  ]
+            },
+            {
+                  "name": "Yushan South Peak",
+                  "text": "Definit de formațiuni ascuțite, zimțate de șist negru, acest vârf accidentat ancorează vizual întinderea sudică a masivului Yushan.",
+                  "category": "natural",
+                  "coords": [
+                        120.958951,
+                        23.446594
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yushan",
+                  "text": "Towering at nearly 4,000 meters above sea level, this majestic peak is the highest mountain in Taiwan and a pinnacle of East Asian alpine terrain.",
+                  "category": "natural",
+                  "coords": [
+                        120.957274,
+                        23.469987
+                  ]
+            },
+            {
+                  "name": "Yushan East Peak",
+                  "text": "Characterized by a sheer, forbidding rock wall often called the \"Ten Reaches\", this peak poses one of the most technical climbs in the Yushan area.",
+                  "category": "natural",
+                  "coords": [
+                        120.965193,
+                        23.470743
+                  ]
+            },
+            {
+                  "name": "Yushan North Peak",
+                  "text": "Home to the highest-altitude weather station in Taiwan, this peak offers classic, postcard-perfect views of the main Yushan mountain.",
+                  "category": "natural",
+                  "coords": [
+                        120.959497,
+                        23.48757
+                  ]
+            },
+            {
+                  "name": "Duiguanshan",
+                  "text": "Positioned in the rugged relief of the central mountains, this peak overlooks deep river valleys etched into the Yushan landscape.",
+                  "category": "natural",
+                  "coords": [
+                        120.981469,
+                        23.5426
+                  ]
+            },
+            {
+                  "name": "Dongxiaonanshan",
+                  "text": "This high-altitude peak features gentle, grassy slopes that starkly contrast with the sheer cliffs dominating much of the Yushan range.",
+                  "category": "natural",
+                  "coords": [
+                        120.963353,
+                        23.439098
+                  ]
+            },
+            {
+                  "name": "Yushan South Peak",
+                  "text": "Defined by sharp, jagged black shale formations, this rugged peak visually anchors the southern expanse of the Yushan massif.",
+                  "category": "natural",
+                  "coords": [
+                        120.958951,
+                        23.446594
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TW-NAN",
     coords: [120.9573, 23.4700],
@@ -47,7 +272,412 @@ export const poiExtraTaiwanReliefV2: POI[] = [
     },
   },
   {
-    id: "xueshan-relief-v2",
+    id: "xueshan-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "FuWan Mountain",
+                  "text": "Der FuWan-Berg steht als markanter, schroffer Gipfel innerhalb des dramatischen Hochgebirgsreliefs der Xueshan-Bergkette.",
+                  "category": "natural",
+                  "coords": [
+                        121.16362,
+                        24.332493
+                  ]
+            },
+            {
+                  "name": "Touyingshan",
+                  "text": "Touyingshan verfügt über steile alpine Hänge und felsiges Terrain, das diesen Teil der Xueshan-Bergregion dominiert.",
+                  "category": "natural",
+                  "coords": [
+                        121.140723,
+                        24.359628
+                  ]
+            },
+            {
+                  "name": "Touyingshanbeifeng",
+                  "text": "Der Nordgipfel des Touyingshan bietet exponierte Felsgrate und anspruchsvolles Hochgebirgsterrain für Bergsteiger.",
+                  "category": "natural",
+                  "coords": [
+                        121.134542,
+                        24.374344
+                  ]
+            },
+            {
+                  "name": "DaNan Mountain",
+                  "text": "Der DaNan-Berg zeichnet sich durch seine hochalpine Umgebung und das steile felsige Relief in der Xueshan-Kette aus.",
+                  "category": "natural",
+                  "coords": [
+                        121.168402,
+                        24.361891
+                  ]
+            },
+            {
+                  "name": "Huoshishan",
+                  "text": "Huoshishan ist ein anerkannter Berggipfel, der für seine kargen, felsigen Hänge und das anspruchsvolle hochalpine Terrain berühmt ist.",
+                  "category": "natural",
+                  "coords": [
+                        121.175115,
+                        24.38194
+                  ]
+            },
+            {
+                  "name": "Dajianshan",
+                  "text": "Der hoch aufragende Dajianshan-Gipfel besticht durch seine steilen, markanten Hänge, die sich über das umliegende Bergrelief erheben.",
+                  "category": "natural",
+                  "coords": [
+                        121.200501,
+                        24.340927
+                  ]
+            },
+            {
+                  "name": "Snow Mountain Southwest Peak",
+                  "text": "Der Südwestgipfel des Snow Mountain bietet eine raue alpine Umgebung mit exponierten Felswänden und großer Höhe.",
+                  "category": "natural",
+                  "coords": [
+                        121.205441,
+                        24.357219
+                  ]
+            },
+            {
+                  "name": "Mt. Cuichi Sancha",
+                  "text": "Der Mt. Cuichi Sancha ist ein schroffer Berggipfel, der für seine steilen Grate in der hochalpinen Xueshan-Landschaft bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        121.215337,
+                        24.379266
+                  ]
+            },
+            {
+                  "name": "South Peak of Xue Mountain",
+                  "text": "Der Südgipfel des Xue Mountain zeigt eine dramatische alpine Topografie mit steilen, felsigen Hängen und hochalpiner Vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        121.237262,
+                        24.372172
+                  ]
+            },
+            {
+                  "name": "Wujiajiananshan",
+                  "text": "Wujiajiananshan wird durch seine schroffen alpinen Hänge und das anspruchsvolle felsige Terrain im Xueshan-Relief definiert.",
+                  "category": "natural",
+                  "coords": [
+                        121.248618,
+                        24.317686
+                  ]
+            },
+            {
+                  "name": "YouPoLan Mountain",
+                  "text": "Der YouPoLan-Berg präsentiert eine steile, bewaldete Gebirgsumgebung, die typisch für die hochalpine Xueshan-Region ist.",
+                  "category": "natural",
+                  "coords": [
+                        121.205286,
+                        24.322055
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "FuWan Mountain",
+                  "text": "A FuWan-hegy kiemelkedő, zord csúcsként áll a Xueshan-hegylánc drámai magashegyi domborzatában.",
+                  "category": "natural",
+                  "coords": [
+                        121.16362,
+                        24.332493
+                  ]
+            },
+            {
+                  "name": "Touyingshan",
+                  "text": "A Touyingshan meredek alpesi lejtőkkel és sziklás tereppel rendelkezik, amely uralja a Xueshan hegyvidéki terület ezen részét.",
+                  "category": "natural",
+                  "coords": [
+                        121.140723,
+                        24.359628
+                  ]
+            },
+            {
+                  "name": "Touyingshanbeifeng",
+                  "text": "A Touyingshan északi csúcsa kitett sziklás gerinceket és megerőltető magaslati terepet kínál a hegymászók számára.",
+                  "category": "natural",
+                  "coords": [
+                        121.134542,
+                        24.374344
+                  ]
+            },
+            {
+                  "name": "DaNan Mountain",
+                  "text": "A DaNan-hegyet magas alpesi környezete és a Xueshan-hegylánc meredek sziklás domborzata jellemzi.",
+                  "category": "natural",
+                  "coords": [
+                        121.168402,
+                        24.361891
+                  ]
+            },
+            {
+                  "name": "Huoshishan",
+                  "text": "A Huoshishan egy elismert hegycsúcs, amely kopár, sziklás lejtőiről és kihívást jelentő magashegyi terepéről híres.",
+                  "category": "natural",
+                  "coords": [
+                        121.175115,
+                        24.38194
+                  ]
+            },
+            {
+                  "name": "Dajianshan",
+                  "text": "A magasba törő Dajianshan csúcsot meredek, kiemelkedő lejtői teszik különlegessé, amelyek a környező hegyvidéki domborzat fölé magasodnak.",
+                  "category": "natural",
+                  "coords": [
+                        121.200501,
+                        24.340927
+                  ]
+            },
+            {
+                  "name": "Snow Mountain Southwest Peak",
+                  "text": "A Hó-hegy délnyugati csúcsa zord alpesi környezettel, kitett sziklafalakkal és nagy magassággal rendelkezik.",
+                  "category": "natural",
+                  "coords": [
+                        121.205441,
+                        24.357219
+                  ]
+            },
+            {
+                  "name": "Mt. Cuichi Sancha",
+                  "text": "A Cuichi Sancha-hegy egy zord hegycsúcs, amely a magashegyi Xueshan tájon lévő meredek gerinceiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        121.215337,
+                        24.379266
+                  ]
+            },
+            {
+                  "name": "South Peak of Xue Mountain",
+                  "text": "A Xue-hegy déli csúcsa drámai alpesi domborzatot mutat be meredek, sziklás emelkedőkkel és magaslati növényzettel.",
+                  "category": "natural",
+                  "coords": [
+                        121.237262,
+                        24.372172
+                  ]
+            },
+            {
+                  "name": "Wujiajiananshan",
+                  "text": "A Wujiajiananshan hegyet zord alpesi lejtői és a Xueshan domborzatán belüli kihívást jelentő sziklás terep határozza meg.",
+                  "category": "natural",
+                  "coords": [
+                        121.248618,
+                        24.317686
+                  ]
+            },
+            {
+                  "name": "YouPoLan Mountain",
+                  "text": "A YouPoLan-hegy egy meredek, erdős hegyvidéki környezetet mutat be, amely tipikus a magashegyi Xueshan régióban.",
+                  "category": "natural",
+                  "coords": [
+                        121.205286,
+                        24.322055
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "FuWan Mountain",
+                  "text": "Muntele FuWan se înalță ca un vârf accidentat proeminent în cadrul reliefului dramatic de mare altitudine al lanțului Xueshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.16362,
+                        24.332493
+                  ]
+            },
+            {
+                  "name": "Touyingshan",
+                  "text": "Touyingshan prezintă pante alpine abrupte și un teren stâncos care domină această secțiune a zonei montane Xueshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.140723,
+                        24.359628
+                  ]
+            },
+            {
+                  "name": "Touyingshanbeifeng",
+                  "text": "Vârful nordic al muntelui Touyingshan oferă creste stâncoase expuse și un teren de mare altitudine solicitant pentru alpiniști.",
+                  "category": "natural",
+                  "coords": [
+                        121.134542,
+                        24.374344
+                  ]
+            },
+            {
+                  "name": "DaNan Mountain",
+                  "text": "Muntele DaNan este caracterizat de mediul său alpin înalt și de relieful stâncos abrupt din lanțul Xueshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.168402,
+                        24.361891
+                  ]
+            },
+            {
+                  "name": "Huoshishan",
+                  "text": "Huoshishan este un vârf montan recunoscut, faimos pentru pantele sale stâncoase, golașe și terenul de mare altitudine provocator.",
+                  "category": "natural",
+                  "coords": [
+                        121.175115,
+                        24.38194
+                  ]
+            },
+            {
+                  "name": "Dajianshan",
+                  "text": "Vârful impunător Dajianshan se distinge prin pantele sale abrupte și proeminente, ridicându-se deasupra reliefului montan înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        121.200501,
+                        24.340927
+                  ]
+            },
+            {
+                  "name": "Snow Mountain Southwest Peak",
+                  "text": "Vârful de sud-vest al Muntelui Zăpezii prezintă un mediu alpin accidentat, cu fețe stâncoase expuse și altitudine ridicată.",
+                  "category": "natural",
+                  "coords": [
+                        121.205441,
+                        24.357219
+                  ]
+            },
+            {
+                  "name": "Mt. Cuichi Sancha",
+                  "text": "Muntele Cuichi Sancha este un vârf montan accidentat cunoscut pentru crestele sale abrupte în peisajul de mare altitudine din Xueshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.215337,
+                        24.379266
+                  ]
+            },
+            {
+                  "name": "South Peak of Xue Mountain",
+                  "text": "Vârful sudic al Muntelui Xue prezintă o topografie alpină dramatică, cu pante stâncoase abrupte și vegetație de mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        121.237262,
+                        24.372172
+                  ]
+            },
+            {
+                  "name": "Wujiajiananshan",
+                  "text": "Wujiajiananshan este definit de pantele sale alpine accidentate și de terenul stâncos provocator din cadrul reliefului Xueshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.248618,
+                        24.317686
+                  ]
+            },
+            {
+                  "name": "YouPoLan Mountain",
+                  "text": "Muntele YouPoLan prezintă un mediu montan împădurit, abrupt, tipic pentru regiunea de mare altitudine Xueshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.205286,
+                        24.322055
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "FuWan Mountain",
+                  "text": "FuWan Mountain stands as a prominent rugged peak within the dramatic high-altitude relief of the Xueshan range.",
+                  "category": "natural",
+                  "coords": [
+                        121.16362,
+                        24.332493
+                  ]
+            },
+            {
+                  "name": "Touyingshan",
+                  "text": "Touyingshan features steep alpine slopes and rocky terrain that dominate this section of the Xueshan mountainous area.",
+                  "category": "natural",
+                  "coords": [
+                        121.140723,
+                        24.359628
+                  ]
+            },
+            {
+                  "name": "Touyingshanbeifeng",
+                  "text": "The northern peak of Touyingshan offers exposed rocky ridges and demanding high-altitude terrain for mountaineers.",
+                  "category": "natural",
+                  "coords": [
+                        121.134542,
+                        24.374344
+                  ]
+            },
+            {
+                  "name": "DaNan Mountain",
+                  "text": "DaNan Mountain is characterized by its high alpine environment and steep rocky relief in the Xueshan range.",
+                  "category": "natural",
+                  "coords": [
+                        121.168402,
+                        24.361891
+                  ]
+            },
+            {
+                  "name": "Huoshishan",
+                  "text": "Huoshishan is a recognized mountain summit famous for its stark, rocky slopes and challenging high-altitude terrain.",
+                  "category": "natural",
+                  "coords": [
+                        121.175115,
+                        24.38194
+                  ]
+            },
+            {
+                  "name": "Dajianshan",
+                  "text": "The towering Dajianshan peak is distinguished by its steep, prominent slopes rising above the surrounding mountainous relief.",
+                  "category": "natural",
+                  "coords": [
+                        121.200501,
+                        24.340927
+                  ]
+            },
+            {
+                  "name": "Snow Mountain Southwest Peak",
+                  "text": "The Snow Mountain Southwest Peak features a rugged alpine environment with exposed rocky faces and high elevation.",
+                  "category": "natural",
+                  "coords": [
+                        121.205441,
+                        24.357219
+                  ]
+            },
+            {
+                  "name": "Mt. Cuichi Sancha",
+                  "text": "Mt. Cuichi Sancha is a rugged mountainous summit known for its steep ridges in the high-altitude Xueshan landscape.",
+                  "category": "natural",
+                  "coords": [
+                        121.215337,
+                        24.379266
+                  ]
+            },
+            {
+                  "name": "South Peak of Xue Mountain",
+                  "text": "The South Peak of Xue Mountain features dramatic alpine topography with steep, rocky inclines and high-altitude vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        121.237262,
+                        24.372172
+                  ]
+            },
+            {
+                  "name": "Wujiajiananshan",
+                  "text": "Wujiajiananshan is defined by its rugged alpine slopes and challenging rocky terrain within the Xueshan relief.",
+                  "category": "natural",
+                  "coords": [
+                        121.248618,
+                        24.317686
+                  ]
+            },
+            {
+                  "name": "YouPoLan Mountain",
+                  "text": "YouPoLan Mountain presents a steep, forested mountainous environment typical of the high-altitude Xueshan region.",
+                  "category": "natural",
+                  "coords": [
+                        121.205286,
+                        24.322055
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TW-TXG",
     coords: [121.2319, 24.3828],
@@ -91,7 +721,736 @@ export const poiExtraTaiwanReliefV2: POI[] = [
     },
   },
   {
-    id: "qingshui-cliff-relief-v2",
+    id: "qingshui-cliff-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Xiaoxingshan",
+                  "text": "Dieser markante Gipfel sticht in der dramatischen Küstentopografie von qingshui-cliff-relief-v2 hervor.",
+                  "category": "natural",
+                  "coords": [
+                        121.615199,
+                        24.273777
+                  ]
+            },
+            {
+                  "name": "Jinyanshan",
+                  "text": "Dieser katalogisierte Berggipfel erhebt sich steil nahe der Küstenregion von qingshui-cliff-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.724421,
+                        24.248219
+                  ]
+            },
+            {
+                  "name": "Feitianpanshan",
+                  "text": "Als anerkannter Gipfel prägt er das steile Küstengebirge in qingshui-cliff-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.719793,
+                        24.268441
+                  ]
+            },
+            {
+                  "name": "Elephant trunk tunnel",
+                  "text": "Dieser in den Felsen gehauene Tunnel ermöglicht den Durchgang durch die massiven Klippen von qingshui-cliff-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        121.743208,
+                        24.260842
+                  ]
+            },
+            {
+                  "name": "Youanshan",
+                  "text": "Dieser bemerkenswerte Gipfel überblickt die dramatische Küstenlandschaft rund um qingshui-cliff-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.693486,
+                        24.233291
+                  ]
+            },
+            {
+                  "name": "Qingshui Cliff",
+                  "text": "Diese spektakuläre Küstenattraktion zeichnet sich durch steile Felswände aus, die direkt in den Pazifischen Ozean abfallen.",
+                  "category": "landmark",
+                  "coords": [
+                        121.692911,
+                        24.218595
+                  ]
+            },
+            {
+                  "name": "Qianliyanshan",
+                  "text": "Dieser katalogisierte Berggipfel ragt hoch über das Küstengelände von qingshui-cliff-relief-v2 hinaus.",
+                  "category": "natural",
+                  "coords": [
+                        121.647618,
+                        24.205979
+                  ]
+            },
+            {
+                  "name": "Qingshuidashan",
+                  "text": "Dieser markante Gipfel dominiert die Skyline mit seinem steilen Aufstieg in der Region qingshui-cliff-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.651485,
+                        24.235273
+                  ]
+            },
+            {
+                  "name": "Sanjiaozhuishan",
+                  "text": "Ein bemerkenswerter dreieckiger Berggipfel, der das raue Küstenrelief von qingshui-cliff-relief-v2 charakterisiert.",
+                  "category": "natural",
+                  "coords": [
+                        121.590872,
+                        24.209534
+                  ]
+            },
+            {
+                  "name": "Shakadang Trail turnaround point (3D Cabin)",
+                  "text": "Diese strukturelle Attraktion markiert einen bestimmten Rastplatz entlang des Canyon-Wanderwegs in qingshui-cliff-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        121.626738,
+                        24.182998
+                  ]
+            },
+            {
+                  "name": "Liwushan",
+                  "text": "Dieser für seine geografische Bedeutung dokumentierte Gipfel erhebt sich scharf innerhalb der Landschaft von qingshui-cliff-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.641896,
+                        24.178102
+                  ]
+            },
+            {
+                  "name": "Baifashan",
+                  "text": "Dieser bemerkenswerte Gipfel trägt zur steilen, bewaldeten Bergkette bei, die qingshui-cliff-relief-v2 flankiert.",
+                  "category": "natural",
+                  "coords": [
+                        121.610054,
+                        24.193755
+                  ]
+            },
+            {
+                  "name": "Entrance Arch Gate Taroko",
+                  "text": "Dieser traditionelle strukturelle Bogen wurde im Mai 1960 errichtet und dient als ikonisches Tor zur Schlucht.",
+                  "category": "landmark",
+                  "coords": [
+                        121.621629,
+                        24.155504
+                  ]
+            },
+            {
+                  "name": "Banxia Beach",
+                  "text": "Dieser Küstenabschnitt verfügt über eine sandige und felsige Küste, die in qingshui-cliff-relief-v2 auf den Ozean trifft.",
+                  "category": "recreational",
+                  "coords": [
+                        121.658095,
+                        24.17802
+                  ]
+            },
+            {
+                  "name": "Qingshui",
+                  "text": "Diese natürliche Strandumgebung bietet eine Sandküste unterhalb der Klippen von qingshui-cliff-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        121.688406,
+                        24.215931
+                  ]
+            },
+            {
+                  "name": "Taroko Bridge",
+                  "text": "Diese weltweit anerkannte Brücke überspannt das Flusstal mit einem markanten strukturellen Bogen in qingshui-cliff-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        121.643868,
+                        24.142083
+                  ]
+            },
+            {
+                  "name": "Chongde Beach",
+                  "text": "Dieser katalogisierte Küstenstrand verfügt über einen langen Kies- und Sandstreifen, der auf den Pazifik trifft.",
+                  "category": "recreational",
+                  "coords": [
+                        121.659008,
+                        24.178269
+                  ]
+            },
+            {
+                  "name": "ChanGuang Temple",
+                  "text": "Dieser religiöse Tempel bietet traditionelle Architektur eingebettet in das bergige Gelände von qingshui-cliff-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        121.605994,
+                        24.159196
+                  ]
+            },
+            {
+                  "name": "Xincheng Catholic Church",
+                  "text": "Dieses christliche Gotteshaus zeichnet sich durch kirchliche Architektur innerhalb des Gebiets qingshui-cliff-relief-v2 aus.",
+                  "category": "landmark",
+                  "coords": [
+                        121.650279,
+                        24.129422
+                  ]
+            },
+            {
+                  "name": "Chong De Catholic Church",
+                  "text": "Diese engagierte christliche Kirche dient ihrer Gemeinde mit traditionellen religiösen Strukturen in qingshui-cliff-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        121.650316,
+                        24.157964
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Xiaoxingshan",
+                  "text": "Ez a kiemelkedő csúcs kitűnik a qingshui-cliff-relief-v2 drámai tengerparti topográfiájából.",
+                  "category": "natural",
+                  "coords": [
+                        121.615199,
+                        24.273777
+                  ]
+            },
+            {
+                  "name": "Jinyanshan",
+                  "text": "Ez a katalogizált hegycsúcs meredeken emelkedik a qingshui-cliff-relief-v2 tengerparti régiójának közelében.",
+                  "category": "natural",
+                  "coords": [
+                        121.724421,
+                        24.248219
+                  ]
+            },
+            {
+                  "name": "Feitianpanshan",
+                  "text": "Elismert csúcsként formálja a meredek part menti hegyláncot qingshui-cliff-relief-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        121.719793,
+                        24.268441
+                  ]
+            },
+            {
+                  "name": "Elephant trunk tunnel",
+                  "text": "Ez a sziklába vájt alagút áthaladást biztosít a qingshui-cliff-relief-v2 masszív szikláin.",
+                  "category": "landmark",
+                  "coords": [
+                        121.743208,
+                        24.260842
+                  ]
+            },
+            {
+                  "name": "Youanshan",
+                  "text": "Ez a figyelemre méltó csúcs a qingshui-cliff-relief-v2 körüli drámai tengerparti tájra néz.",
+                  "category": "natural",
+                  "coords": [
+                        121.693486,
+                        24.233291
+                  ]
+            },
+            {
+                  "name": "Qingshui Cliff",
+                  "text": "Ez a látványos tengerparti látványosság meredek sziklafalakkal rendelkezik, amelyek közvetlenül a Csendes-óceánba zuhannak.",
+                  "category": "landmark",
+                  "coords": [
+                        121.692911,
+                        24.218595
+                  ]
+            },
+            {
+                  "name": "Qianliyanshan",
+                  "text": "Ez a katalogizált hegycsúcs magasan a qingshui-cliff-relief-v2 tengerparti terepe fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        121.647618,
+                        24.205979
+                  ]
+            },
+            {
+                  "name": "Qingshuidashan",
+                  "text": "Ez a kiemelkedő csúcs meredek emelkedésével uralja a látképet a qingshui-cliff-relief-v2 régióban.",
+                  "category": "natural",
+                  "coords": [
+                        121.651485,
+                        24.235273
+                  ]
+            },
+            {
+                  "name": "Sanjiaozhuishan",
+                  "text": "Egy figyelemre méltó háromszög alakú hegycsúcs, amely a qingshui-cliff-relief-v2 zord part menti domborzatát jellemzi.",
+                  "category": "natural",
+                  "coords": [
+                        121.590872,
+                        24.209534
+                  ]
+            },
+            {
+                  "name": "Shakadang Trail turnaround point (3D Cabin)",
+                  "text": "Ez a szerkezeti látványosság egy konkrét pihenőhelyet jelöl a kanyon túraútvonala mentén qingshui-cliff-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        121.626738,
+                        24.182998
+                  ]
+            },
+            {
+                  "name": "Liwushan",
+                  "text": "A földrajzi kiemelkedéséért dokumentált csúcs élesen emelkedik ki a qingshui-cliff-relief-v2 tájából.",
+                  "category": "natural",
+                  "coords": [
+                        121.641896,
+                        24.178102
+                  ]
+            },
+            {
+                  "name": "Baifashan",
+                  "text": "Ez a figyelemre méltó csúcs hozzájárul a qingshui-cliff-relief-v2 területet szegélyező meredek, erdős hegylánchoz.",
+                  "category": "natural",
+                  "coords": [
+                        121.610054,
+                        24.193755
+                  ]
+            },
+            {
+                  "name": "Entrance Arch Gate Taroko",
+                  "text": "Az 1960 májusában emelt hagyományos szerkezeti boltív ikonikus kapuként szolgál a szurdokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        121.621629,
+                        24.155504
+                  ]
+            },
+            {
+                  "name": "Banxia Beach",
+                  "text": "Ez a partszakasz homokos és sziklás partvonallal rendelkezik, amely az óceánnal találkozik qingshui-cliff-relief-v2 területén.",
+                  "category": "recreational",
+                  "coords": [
+                        121.658095,
+                        24.17802
+                  ]
+            },
+            {
+                  "name": "Qingshui",
+                  "text": "Ez a természetes tengerparti környezet homokos partvonalat kínál a qingshui-cliff-relief-v2 sziklái alatt.",
+                  "category": "recreational",
+                  "coords": [
+                        121.688406,
+                        24.215931
+                  ]
+            },
+            {
+                  "name": "Taroko Bridge",
+                  "text": "Ez a világszerte elismert híd egy kiemelkedő szerkezeti ívvel íveli át a folyóvölgyet qingshui-cliff-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        121.643868,
+                        24.142083
+                  ]
+            },
+            {
+                  "name": "Chongde Beach",
+                  "text": "Ez a katalogizált tengerparti strand egy hosszú kavicsos és homokos szakasszal rendelkezik, amely a Csendes-óceánnal találkozik.",
+                  "category": "recreational",
+                  "coords": [
+                        121.659008,
+                        24.178269
+                  ]
+            },
+            {
+                  "name": "ChanGuang Temple",
+                  "text": "Ez a vallási templom hagyományos építészettel rendelkezik, amely a qingshui-cliff-relief-v2 hegyvidéki terepén fészkel.",
+                  "category": "religious",
+                  "coords": [
+                        121.605994,
+                        24.159196
+                  ]
+            },
+            {
+                  "name": "Xincheng Catholic Church",
+                  "text": "Ez a keresztény istentiszteleti hely egyházi építészettel rendelkezik a qingshui-cliff-relief-v2 területén belül.",
+                  "category": "landmark",
+                  "coords": [
+                        121.650279,
+                        24.129422
+                  ]
+            },
+            {
+                  "name": "Chong De Catholic Church",
+                  "text": "Ez a felszentelt keresztény templom hagyományos vallási struktúrákkal szolgálja gyülekezetét qingshui-cliff-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        121.650316,
+                        24.157964
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Xiaoxingshan",
+                  "text": "Acest vârf proeminent iese în evidență în topografia de coastă dramatică a qingshui-cliff-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.615199,
+                        24.273777
+                  ]
+            },
+            {
+                  "name": "Jinyanshan",
+                  "text": "Acest vârf montan catalogat se înalță abrupt în apropierea regiunii de coastă a qingshui-cliff-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.724421,
+                        24.248219
+                  ]
+            },
+            {
+                  "name": "Feitianpanshan",
+                  "text": "Un vârf recunoscut, acesta modelează lanțul muntos de coastă abrupt din qingshui-cliff-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.719793,
+                        24.268441
+                  ]
+            },
+            {
+                  "name": "Elephant trunk tunnel",
+                  "text": "Acest tunel sculptat în stâncă oferă trecere prin stâncile masive din qingshui-cliff-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        121.743208,
+                        24.260842
+                  ]
+            },
+            {
+                  "name": "Youanshan",
+                  "text": "Acest vârf notabil are vedere la peisajul de coastă dramatic din jurul qingshui-cliff-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.693486,
+                        24.233291
+                  ]
+            },
+            {
+                  "name": "Qingshui Cliff",
+                  "text": "Această atracție de coastă spectaculoasă prezintă fețe abrupte de stâncă care coboară direct în Oceanul Pacific.",
+                  "category": "landmark",
+                  "coords": [
+                        121.692911,
+                        24.218595
+                  ]
+            },
+            {
+                  "name": "Qianliyanshan",
+                  "text": "Acest vârf montan catalogat se află mult deasupra terenului de coastă din qingshui-cliff-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.647618,
+                        24.205979
+                  ]
+            },
+            {
+                  "name": "Qingshuidashan",
+                  "text": "Acest vârf proeminent domină orizontul cu ascensiunea sa abruptă în regiunea qingshui-cliff-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.651485,
+                        24.235273
+                  ]
+            },
+            {
+                  "name": "Sanjiaozhuishan",
+                  "text": "Un vârf montan triunghiular notabil care caracterizează relieful accidentat de coastă din qingshui-cliff-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.590872,
+                        24.209534
+                  ]
+            },
+            {
+                  "name": "Shakadang Trail turnaround point (3D Cabin)",
+                  "text": "Această atracție structurală marchează un punct de odihnă specific de-a lungul potecii din canion în qingshui-cliff-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        121.626738,
+                        24.182998
+                  ]
+            },
+            {
+                  "name": "Liwushan",
+                  "text": "Documentat pentru proeminența sa geografică, acest vârf se înalță brusc în cadrul peisajului qingshui-cliff-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.641896,
+                        24.178102
+                  ]
+            },
+            {
+                  "name": "Baifashan",
+                  "text": "Acest vârf notabil contribuie la lanțul muntos abrupt și împădurit care flanchează qingshui-cliff-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.610054,
+                        24.193755
+                  ]
+            },
+            {
+                  "name": "Entrance Arch Gate Taroko",
+                  "text": "Ridicat în mai 1960, acest arc structural tradițional servește ca poartă emblematică a defileului.",
+                  "category": "landmark",
+                  "coords": [
+                        121.621629,
+                        24.155504
+                  ]
+            },
+            {
+                  "name": "Banxia Beach",
+                  "text": "Această întindere de coastă prezintă un țărm nisipos și stâncos care întâlnește oceanul în qingshui-cliff-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        121.658095,
+                        24.17802
+                  ]
+            },
+            {
+                  "name": "Qingshui",
+                  "text": "Acest mediu natural de plajă oferă un țărm nisipos sub stâncile din qingshui-cliff-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        121.688406,
+                        24.215931
+                  ]
+            },
+            {
+                  "name": "Taroko Bridge",
+                  "text": "Acest pod recunoscut la nivel global traversează valea râului cu un arc structural proeminent în qingshui-cliff-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        121.643868,
+                        24.142083
+                  ]
+            },
+            {
+                  "name": "Chongde Beach",
+                  "text": "Această plajă de coastă catalogată prezintă o întindere lungă de pietriș și nisip care se întâlnește cu Pacificul.",
+                  "category": "recreational",
+                  "coords": [
+                        121.659008,
+                        24.178269
+                  ]
+            },
+            {
+                  "name": "ChanGuang Temple",
+                  "text": "Acest templu religios prezintă o arhitectură tradițională amplasată în terenul muntos din qingshui-cliff-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        121.605994,
+                        24.159196
+                  ]
+            },
+            {
+                  "name": "Xincheng Catholic Church",
+                  "text": "Acest lăcaș de cult creștin prezintă o arhitectură ecleziastică în cadrul zonei qingshui-cliff-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        121.650279,
+                        24.129422
+                  ]
+            },
+            {
+                  "name": "Chong De Catholic Church",
+                  "text": "Această biserică creștină dedicată își servește congregația cu structuri religioase tradiționale în qingshui-cliff-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        121.650316,
+                        24.157964
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Xiaoxingshan",
+                  "text": "This prominent peak stands out in the dramatic coastal topography of qingshui-cliff-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.615199,
+                        24.273777
+                  ]
+            },
+            {
+                  "name": "Jinyanshan",
+                  "text": "This catalogued mountain summit rises steeply near the coastal region of qingshui-cliff-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.724421,
+                        24.248219
+                  ]
+            },
+            {
+                  "name": "Feitianpanshan",
+                  "text": "A recognized peak, it shapes the steep coastal mountain range in qingshui-cliff-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.719793,
+                        24.268441
+                  ]
+            },
+            {
+                  "name": "Elephant trunk tunnel",
+                  "text": "This rock-carved tunnel attraction provides passage through the solid cliffs of qingshui-cliff-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        121.743208,
+                        24.260842
+                  ]
+            },
+            {
+                  "name": "Youanshan",
+                  "text": "This notable peak overlooks the dramatic coastal landscape surrounding qingshui-cliff-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.693486,
+                        24.233291
+                  ]
+            },
+            {
+                  "name": "Qingshui Cliff",
+                  "text": "This spectacular coastal attraction features sheer rock faces dropping directly into the Pacific Ocean.",
+                  "category": "landmark",
+                  "coords": [
+                        121.692911,
+                        24.218595
+                  ]
+            },
+            {
+                  "name": "Qianliyanshan",
+                  "text": "This catalogued mountain summit stands high above the coastal terrain of qingshui-cliff-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.647618,
+                        24.205979
+                  ]
+            },
+            {
+                  "name": "Qingshuidashan",
+                  "text": "This prominent peak dominates the skyline with its steep ascent in the qingshui-cliff-relief-v2 region.",
+                  "category": "natural",
+                  "coords": [
+                        121.651485,
+                        24.235273
+                  ]
+            },
+            {
+                  "name": "Sanjiaozhuishan",
+                  "text": "A notable triangular mountain summit characterizing the rugged coastal relief of qingshui-cliff-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.590872,
+                        24.209534
+                  ]
+            },
+            {
+                  "name": "Shakadang Trail turnaround point (3D Cabin)",
+                  "text": "This structural attraction marks a specific rest point along the canyon hiking path in qingshui-cliff-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        121.626738,
+                        24.182998
+                  ]
+            },
+            {
+                  "name": "Liwushan",
+                  "text": "Documented for its geographical prominence, this peak rises sharply within the qingshui-cliff-relief-v2 landscape.",
+                  "category": "natural",
+                  "coords": [
+                        121.641896,
+                        24.178102
+                  ]
+            },
+            {
+                  "name": "Baifashan",
+                  "text": "This notable peak contributes to the steep, forested mountain range flanking qingshui-cliff-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.610054,
+                        24.193755
+                  ]
+            },
+            {
+                  "name": "Entrance Arch Gate Taroko",
+                  "text": "Erected in May 1960, this traditional structural arch serves as the iconic gateway to the gorge.",
+                  "category": "landmark",
+                  "coords": [
+                        121.621629,
+                        24.155504
+                  ]
+            },
+            {
+                  "name": "Banxia Beach",
+                  "text": "This coastal stretch features a sandy and rocky shoreline meeting the ocean in qingshui-cliff-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        121.658095,
+                        24.17802
+                  ]
+            },
+            {
+                  "name": "Qingshui",
+                  "text": "This natural beach environment offers a sandy shoreline beneath the cliffs of qingshui-cliff-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        121.688406,
+                        24.215931
+                  ]
+            },
+            {
+                  "name": "Taroko Bridge",
+                  "text": "This globally recognized bridge spans the river valley with a prominent structural arch in qingshui-cliff-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        121.643868,
+                        24.142083
+                  ]
+            },
+            {
+                  "name": "Chongde Beach",
+                  "text": "This catalogued coastal beach features a long stretch of gravel and sand meeting the Pacific.",
+                  "category": "recreational",
+                  "coords": [
+                        121.659008,
+                        24.178269
+                  ]
+            },
+            {
+                  "name": "ChanGuang Temple",
+                  "text": "This religious temple features traditional architecture nestled in the mountainous terrain of qingshui-cliff-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        121.605994,
+                        24.159196
+                  ]
+            },
+            {
+                  "name": "Xincheng Catholic Church",
+                  "text": "This Christian place of worship features ecclesiastical architecture within the qingshui-cliff-relief-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        121.650279,
+                        24.129422
+                  ]
+            },
+            {
+                  "name": "Chong De Catholic Church",
+                  "text": "This dedicated Christian church serves its congregation with traditional religious structures in qingshui-cliff-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        121.650316,
+                        24.157964
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "TW-HUA",
     coords: [121.6736, 24.2052],
@@ -135,7 +1494,844 @@ export const poiExtraTaiwanReliefV2: POI[] = [
     },
   },
   {
-    id: "east-rift-valley-relief-v2",
+    id: "east-rift-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Liushishishan",
+                  "text": "Liushishishan, auch bekannt als Sechzig-Stein-Berg, ist ein malerischer Gipfel, der jeden Spätsommer berühmt für seine blühenden Taglilien ist.",
+                  "category": "natural",
+                  "coords": [
+                        121.317566,
+                        23.219109
+                  ]
+            },
+            {
+                  "name": "Wanrenshan",
+                  "text": "Wanrenshan ist ein steiler Berggipfel, der einen weiten Blick über das langgestreckte und fruchtbare East Rift Valley darunter bietet.",
+                  "category": "natural",
+                  "coords": [
+                        121.316737,
+                        23.232412
+                  ]
+            },
+            {
+                  "name": "Chengguangaoshan",
+                  "text": "Chengguangaoshan ist ein bewaldeter Berggipfel, der Teil der markanten Bergwand entlang des East Rift Valley ist.",
+                  "category": "natural",
+                  "coords": [
+                        121.338264,
+                        23.190413
+                  ]
+            },
+            {
+                  "name": "Shiningshan",
+                  "text": "Shiningshan ist ein abgelegener Berggipfel, der die üppigen landwirtschaftlichen Landschaften des East Rift Valley überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        121.410015,
+                        23.22279
+                  ]
+            },
+            {
+                  "name": "Chimenshan",
+                  "text": "Der Chimenshan ist ein markanter Berggipfel, der sich über die Landschaft des East Rift Valley erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        121.41347,
+                        23.274764
+                  ]
+            },
+            {
+                  "name": "Saobieshan",
+                  "text": "Der Saobieshan ist ein schroffer Berggipfel, der das umliegende East Rift Valley überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        121.421204,
+                        23.309028
+                  ]
+            },
+            {
+                  "name": "Wumaozishan",
+                  "text": "Dieser bemerkenswerte Berggipfel bietet einen majestätischen Blick auf das Gelände des East Rift Valley.",
+                  "category": "natural",
+                  "coords": [
+                        121.37693,
+                        23.292232
+                  ]
+            },
+            {
+                  "name": "Antongshan",
+                  "text": "Der Antongshan ist ein steiler Gipfel, der in der malerischen Topographie des East Rift Valley liegt.",
+                  "category": "natural",
+                  "coords": [
+                        121.354994,
+                        23.303721
+                  ]
+            },
+            {
+                  "name": "Torii of Halauone Shrine",
+                  "text": "Dieses traditionelle japanische Torii-Tor ist ein historisches Überbleibsel des ehemaligen Shinto-Schreins.",
+                  "category": "landmark",
+                  "coords": [
+                        121.344888,
+                        23.31842
+                  ]
+            },
+            {
+                  "name": "Dazhuangshan",
+                  "text": "Der Dazhuangshan ist ein hoch aufragender Berggipfel, der die Skyline des East Rift Valley prägt.",
+                  "category": "natural",
+                  "coords": [
+                        121.327338,
+                        23.272321
+                  ]
+            },
+            {
+                  "name": "Kecheng Iron Bridge",
+                  "text": "Diese markante rote Eisenbahnbrücke aus Eisen überspannt das Flussbett und bietet einen malerischen architektonischen Kontrast zum Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        121.310868,
+                        23.319897
+                  ]
+            },
+            {
+                  "name": "Sea plate",
+                  "text": "Die Sea plate ist eine ausgeprägte geologische Formation, die die tektonische Aktivität des East Rift Valley zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        121.330376,
+                        23.321205
+                  ]
+            },
+            {
+                  "name": "Yuanwanshan",
+                  "text": "Der Yuanwanshan ist ein markanter Berggipfel, der für seine steilen Hänge im East Rift Valley bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        121.345005,
+                        23.324518
+                  ]
+            },
+            {
+                  "name": "Shigongshan",
+                  "text": "Dieser erhöhte Gipfel ist Teil des zerklüfteten natürlichen Geländes des East Rift Valley.",
+                  "category": "natural",
+                  "coords": [
+                        121.365891,
+                        23.345386
+                  ]
+            },
+            {
+                  "name": "Huadongshan",
+                  "text": "Der Huadongshan ist ein imposanter Berggipfel mit Blick auf das weite East Rift Valley.",
+                  "category": "natural",
+                  "coords": [
+                        121.399712,
+                        23.324814
+                  ]
+            },
+            {
+                  "name": "Beihuadongshan",
+                  "text": "Der Beihuadongshan ist ein nördlicher Berggipfel, der zur dramatischen Topographie des East Rift Valley beiträgt.",
+                  "category": "natural",
+                  "coords": [
+                        121.406054,
+                        23.339222
+                  ]
+            },
+            {
+                  "name": "Lundun Gufeng Temple",
+                  "text": "Diese traditionelle Kultstätte weist komplexe architektonische Details auf, die typisch für lokale religiöse Schreine sind.",
+                  "category": "religious",
+                  "coords": [
+                        121.317686,
+                        23.328454
+                  ]
+            },
+            {
+                  "name": "Catholic church",
+                  "text": "Diese christlich-katholische Kirche dient der örtlichen Gemeinde mit ihrer unverwechselbaren religiösen Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        121.315256,
+                        23.336781
+                  ]
+            },
+            {
+                  "name": "Yi-Wan Catholic Church",
+                  "text": "Die katholische Kirche Yi-Wan ist eine christliche Kultstätte, die für ihren eigenen Versammlungsraum bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        121.400398,
+                        23.210428
+                  ]
+            },
+            {
+                  "name": "Wanshan Temple",
+                  "text": "Der Wanshan-Tempel ist ein reich verziertes daoistisches Heiligtum, in dem sich Einheimische zu traditionellen religiösen Ritualen versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        121.316288,
+                        23.326029
+                  ]
+            },
+            {
+                  "name": "Cihui Temple",
+                  "text": "Dieser daoistische Tempel ist ein Zentrum für traditionelle Gottesdienste und zeichnet sich durch seine klassischen architektonischen Motive aus.",
+                  "category": "landmark",
+                  "coords": [
+                        121.313851,
+                        23.327322
+                  ]
+            },
+            {
+                  "name": "Xietian Temple",
+                  "text": "Der Xietian-Tempel ist eine heilige daoistische Stätte mit farbenfrohen Dachdekorationen und brennendem Weihrauch.",
+                  "category": "landmark",
+                  "coords": [
+                        121.316007,
+                        23.333927
+                  ]
+            },
+            {
+                  "name": "Yuli Roundabout Shopping District",
+                  "text": "Dieser belebte Markt umgibt einen zentralen Kreisverkehr und bietet eine Vielzahl an lokalen Waren und Streetfood.",
+                  "category": "cultural",
+                  "coords": [
+                        121.315565,
+                        23.331751
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Liushishishan",
+                  "text": "A Liushishishan, más néven a Hatvan Kő Hegye, egy festői csúcs, amelyet minden nyár végén virágzó sáslilomok borítanak.",
+                  "category": "natural",
+                  "coords": [
+                        121.317566,
+                        23.219109
+                  ]
+            },
+            {
+                  "name": "Wanrenshan",
+                  "text": "A Wanrenshan egy meredek hegycsúcs, amely kiterjedt kilátást nyújt a lent elterülő hosszú és termékeny Keleti-hasadékvölgyre.",
+                  "category": "natural",
+                  "coords": [
+                        121.316737,
+                        23.232412
+                  ]
+            },
+            {
+                  "name": "Chengguangaoshan",
+                  "text": "A Chengguangaoshan egy magas erdős csúcs, amely a Keleti-hasadékvölgy menti kiemelkedő hegyfal részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        121.338264,
+                        23.190413
+                  ]
+            },
+            {
+                  "name": "Shiningshan",
+                  "text": "A Shiningshan egy távoli hegycsúcs, amely a Keleti-hasadékvölgyet keresztező buja mezőgazdasági tájakra néz.",
+                  "category": "natural",
+                  "coords": [
+                        121.410015,
+                        23.22279
+                  ]
+            },
+            {
+                  "name": "Chimenshan",
+                  "text": "A Chimenshan egy kiemelkedő hegycsúcs, amely a Keleti-hasadékvölgy tája fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        121.41347,
+                        23.274764
+                  ]
+            },
+            {
+                  "name": "Saobieshan",
+                  "text": "A Saobieshan egy zord hegycsúcs, amely a környező Keleti-hasadékvölgyre néz.",
+                  "category": "natural",
+                  "coords": [
+                        121.421204,
+                        23.309028
+                  ]
+            },
+            {
+                  "name": "Wumaozishan",
+                  "text": "Ez a figyelemre méltó hegycsúcs fenséges kilátást nyújt a Keleti-hasadékvölgy vidékére.",
+                  "category": "natural",
+                  "coords": [
+                        121.37693,
+                        23.292232
+                  ]
+            },
+            {
+                  "name": "Antongshan",
+                  "text": "Az Antongshan egy meredek csúcs, amely a Keleti-hasadékvölgy festői domborzatában helyezkedik el.",
+                  "category": "natural",
+                  "coords": [
+                        121.354994,
+                        23.303721
+                  ]
+            },
+            {
+                  "name": "Torii of Halauone Shrine",
+                  "text": "Ez a hagyományos japán torii kapu az egykori sintoista szentély történelmi maradványaként áll.",
+                  "category": "landmark",
+                  "coords": [
+                        121.344888,
+                        23.31842
+                  ]
+            },
+            {
+                  "name": "Dazhuangshan",
+                  "text": "A Dazhuangshan egy magasba nyúló hegycsúcs, amely a Keleti-hasadékvölgy látképét formálja.",
+                  "category": "natural",
+                  "coords": [
+                        121.327338,
+                        23.272321
+                  ]
+            },
+            {
+                  "name": "Kecheng Iron Bridge",
+                  "text": "Ez a feltűnő piros vasúti vashíd ível át a folyómedren, festői építészeti kontrasztot kínálva a völgynek.",
+                  "category": "landmark",
+                  "coords": [
+                        121.310868,
+                        23.319897
+                  ]
+            },
+            {
+                  "name": "Sea plate",
+                  "text": "A Sea plate egy különleges geológiai képződmény, amely bemutatja a Keleti-hasadékvölgy tektonikus aktivitását.",
+                  "category": "landmark",
+                  "coords": [
+                        121.330376,
+                        23.321205
+                  ]
+            },
+            {
+                  "name": "Yuanwanshan",
+                  "text": "A Yuanwanshan egy kiemelkedő hegycsúcs, amely a Keleti-hasadékvölgyben található meredek lejtőiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        121.345005,
+                        23.324518
+                  ]
+            },
+            {
+                  "name": "Shigongshan",
+                  "text": "Ez a magas csúcs a Keleti-hasadékvölgy zord természetes domborzatának részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        121.365891,
+                        23.345386
+                  ]
+            },
+            {
+                  "name": "Huadongshan",
+                  "text": "A Huadongshan impozáns hegycsúcsként magasodik a hatalmas Keleti-hasadékvölgy fölé.",
+                  "category": "natural",
+                  "coords": [
+                        121.399712,
+                        23.324814
+                  ]
+            },
+            {
+                  "name": "Beihuadongshan",
+                  "text": "A Beihuadongshan egy északi hegycsúcs, amely hozzájárul a Keleti-hasadékvölgy drámai domborzatához.",
+                  "category": "natural",
+                  "coords": [
+                        121.406054,
+                        23.339222
+                  ]
+            },
+            {
+                  "name": "Lundun Gufeng Temple",
+                  "text": "Ez a hagyományos istentiszteleti hely a helyi vallási szentélyekre jellemző bonyolult építészeti részletekkel rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        121.317686,
+                        23.328454
+                  ]
+            },
+            {
+                  "name": "Catholic church",
+                  "text": "Ez a keresztény katolikus templom sajátos vallási építészetével szolgálja a helyi közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        121.315256,
+                        23.336781
+                  ]
+            },
+            {
+                  "name": "Yi-Wan Catholic Church",
+                  "text": "A Yi-Wan katolikus templom egy keresztény istentiszteleti hely, amely a gyülekezet számára fenntartott teréről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        121.400398,
+                        23.210428
+                  ]
+            },
+            {
+                  "name": "Wanshan Temple",
+                  "text": "A Wanshan-templom egy díszes taoista szentély, ahol a helyiek hagyományos vallási rituálékra gyűlnek össze.",
+                  "category": "landmark",
+                  "coords": [
+                        121.316288,
+                        23.326029
+                  ]
+            },
+            {
+                  "name": "Cihui Temple",
+                  "text": "Ez a taoista templom a hagyományos istentisztelet központja, melyet klasszikus építészeti motívumai tesznek különlegessé.",
+                  "category": "landmark",
+                  "coords": [
+                        121.313851,
+                        23.327322
+                  ]
+            },
+            {
+                  "name": "Xietian Temple",
+                  "text": "A Xietian-templom egy szent taoista hely, amelyet színes tetődíszek és égő füstölők jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        121.316007,
+                        23.333927
+                  ]
+            },
+            {
+                  "name": "Yuli Roundabout Shopping District",
+                  "text": "Ez a nyüzsgő piactér egy központi körforgalmat vesz körül, és különféle helyi árukat, valamint utcai ételeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        121.315565,
+                        23.331751
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Liushishishan",
+                  "text": "Liushishishan, cunoscut și sub numele de Muntele celor Șaizeci de Pietre, este un vârf pitoresc acoperit faimos de crini de o zi înfloriți la fiecare sfârșit de vară.",
+                  "category": "natural",
+                  "coords": [
+                        121.317566,
+                        23.219109
+                  ]
+            },
+            {
+                  "name": "Wanrenshan",
+                  "text": "Wanrenshan este un vârf muntos abrupt care oferă vederi ample asupra lungii și fertilei Văi East Rift de dedesubt.",
+                  "category": "natural",
+                  "coords": [
+                        121.316737,
+                        23.232412
+                  ]
+            },
+            {
+                  "name": "Chengguangaoshan",
+                  "text": "Chengguangaoshan este un vârf împădurit înalt care face parte din peretele muntos proeminent de-a lungul Văii East Rift.",
+                  "category": "natural",
+                  "coords": [
+                        121.338264,
+                        23.190413
+                  ]
+            },
+            {
+                  "name": "Shiningshan",
+                  "text": "Shiningshan este un vârf muntos izolat cu vedere spre peisajele agricole luxuriante care traversează Valea East Rift.",
+                  "category": "natural",
+                  "coords": [
+                        121.410015,
+                        23.22279
+                  ]
+            },
+            {
+                  "name": "Chimenshan",
+                  "text": "Chimenshan este un vârf montan proeminent care se înalță deasupra peisajului din East Rift Valley.",
+                  "category": "natural",
+                  "coords": [
+                        121.41347,
+                        23.274764
+                  ]
+            },
+            {
+                  "name": "Saobieshan",
+                  "text": "Saobieshan este un vârf montan accidentat care domină East Rift Valley din jur.",
+                  "category": "natural",
+                  "coords": [
+                        121.421204,
+                        23.309028
+                  ]
+            },
+            {
+                  "name": "Wumaozishan",
+                  "text": "Acest vârf montan remarcabil oferă vederi impunătoare asupra terenului din East Rift Valley.",
+                  "category": "natural",
+                  "coords": [
+                        121.37693,
+                        23.292232
+                  ]
+            },
+            {
+                  "name": "Antongshan",
+                  "text": "Antongshan este un vârf abrupt situat în topografia pitorească a văii East Rift Valley.",
+                  "category": "natural",
+                  "coords": [
+                        121.354994,
+                        23.303721
+                  ]
+            },
+            {
+                  "name": "Torii of Halauone Shrine",
+                  "text": "Această poartă tradițională japoneză torii stă ca o rămășiță istorică a fostului altar șintoist.",
+                  "category": "landmark",
+                  "coords": [
+                        121.344888,
+                        23.31842
+                  ]
+            },
+            {
+                  "name": "Dazhuangshan",
+                  "text": "Dazhuangshan este un vârf de munte înalt care conturează orizontul văii East Rift Valley.",
+                  "category": "natural",
+                  "coords": [
+                        121.327338,
+                        23.272321
+                  ]
+            },
+            {
+                  "name": "Kecheng Iron Bridge",
+                  "text": "Acest pod feroviar de fier roșu, izbitor, traversează albia râului, oferind un contrast arhitectural pitoresc cu valea.",
+                  "category": "landmark",
+                  "coords": [
+                        121.310868,
+                        23.319897
+                  ]
+            },
+            {
+                  "name": "Sea plate",
+                  "text": "Sea plate este o formațiune geologică distinctă, care prezintă activitatea tectonică din East Rift Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        121.330376,
+                        23.321205
+                  ]
+            },
+            {
+                  "name": "Yuanwanshan",
+                  "text": "Yuanwanshan este un vârf montan proeminent, recunoscut pentru versanții săi abrupți din East Rift Valley.",
+                  "category": "natural",
+                  "coords": [
+                        121.345005,
+                        23.324518
+                  ]
+            },
+            {
+                  "name": "Shigongshan",
+                  "text": "Acest vârf înalt face parte din terenul natural accidentat al văii East Rift Valley.",
+                  "category": "natural",
+                  "coords": [
+                        121.365891,
+                        23.345386
+                  ]
+            },
+            {
+                  "name": "Huadongshan",
+                  "text": "Huadongshan este un vârf montan impunător cu vedere la vasta East Rift Valley.",
+                  "category": "natural",
+                  "coords": [
+                        121.399712,
+                        23.324814
+                  ]
+            },
+            {
+                  "name": "Beihuadongshan",
+                  "text": "Beihuadongshan este un vârf montan nordic care contribuie la topografia dramatică a văii East Rift Valley.",
+                  "category": "natural",
+                  "coords": [
+                        121.406054,
+                        23.339222
+                  ]
+            },
+            {
+                  "name": "Lundun Gufeng Temple",
+                  "text": "Acest lăcaș de cult tradițional prezintă detalii arhitecturale complexe, tipice altarelor religioase locale.",
+                  "category": "religious",
+                  "coords": [
+                        121.317686,
+                        23.328454
+                  ]
+            },
+            {
+                  "name": "Catholic church",
+                  "text": "Această biserică creștină catolică servește comunitatea locală prin arhitectura sa religioasă distinctă.",
+                  "category": "landmark",
+                  "coords": [
+                        121.315256,
+                        23.336781
+                  ]
+            },
+            {
+                  "name": "Yi-Wan Catholic Church",
+                  "text": "Biserica Catolică Yi-Wan este un lăcaș de cult creștin cunoscut pentru spațiul său dedicat congregației.",
+                  "category": "landmark",
+                  "coords": [
+                        121.400398,
+                        23.210428
+                  ]
+            },
+            {
+                  "name": "Wanshan Temple",
+                  "text": "Templul Wanshan este un sanctuar taoist ornamentat, unde localnicii se adună pentru ritualuri religioase tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        121.316288,
+                        23.326029
+                  ]
+            },
+            {
+                  "name": "Cihui Temple",
+                  "text": "Acest templu taoist este un centru de cult tradițional, remarcându-se prin motivele sale arhitecturale clasice.",
+                  "category": "landmark",
+                  "coords": [
+                        121.313851,
+                        23.327322
+                  ]
+            },
+            {
+                  "name": "Xietian Temple",
+                  "text": "Templul Xietian este un sit taoist sacru, cu decorațiuni colorate pe acoperiș și tămâie arzând.",
+                  "category": "landmark",
+                  "coords": [
+                        121.316007,
+                        23.333927
+                  ]
+            },
+            {
+                  "name": "Yuli Roundabout Shopping District",
+                  "text": "Această piață plină de viață înconjoară un sens giratoriu central, oferind o varietate de produse locale și mâncare stradală.",
+                  "category": "cultural",
+                  "coords": [
+                        121.315565,
+                        23.331751
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Liushishishan",
+                  "text": "Liushishishan, also known as Sixty Stone Mountain, is a picturesque peak famously blanketed with blooming daylilies every late summer.",
+                  "category": "natural",
+                  "coords": [
+                        121.317566,
+                        23.219109
+                  ]
+            },
+            {
+                  "name": "Wanrenshan",
+                  "text": "Wanrenshan is a steep mountain peak offering expansive views over the long and fertile East Rift Valley below.",
+                  "category": "natural",
+                  "coords": [
+                        121.316737,
+                        23.232412
+                  ]
+            },
+            {
+                  "name": "Chengguangaoshan",
+                  "text": "Chengguangaoshan is an elevated forested summit that forms part of the prominent mountain wall along the East Rift Valley.",
+                  "category": "natural",
+                  "coords": [
+                        121.338264,
+                        23.190413
+                  ]
+            },
+            {
+                  "name": "Shiningshan",
+                  "text": "Shiningshan is a remote mountain peak overlooking the lush agricultural landscapes traversing the East Rift Valley.",
+                  "category": "natural",
+                  "coords": [
+                        121.410015,
+                        23.22279
+                  ]
+            },
+            {
+                  "name": "Chimenshan",
+                  "text": "Chimenshan is a prominent mountain peak rising over the East Rift Valley landscape.",
+                  "category": "natural",
+                  "coords": [
+                        121.41347,
+                        23.274764
+                  ]
+            },
+            {
+                  "name": "Saobieshan",
+                  "text": "Saobieshan is a rugged mountain peak that overlooks the surrounding East Rift Valley.",
+                  "category": "natural",
+                  "coords": [
+                        121.421204,
+                        23.309028
+                  ]
+            },
+            {
+                  "name": "Wumaozishan",
+                  "text": "This notable mountain peak offers commanding views of the East Rift Valley terrain.",
+                  "category": "natural",
+                  "coords": [
+                        121.37693,
+                        23.292232
+                  ]
+            },
+            {
+                  "name": "Antongshan",
+                  "text": "Antongshan is a steep peak situated within the scenic topography of the East Rift Valley.",
+                  "category": "natural",
+                  "coords": [
+                        121.354994,
+                        23.303721
+                  ]
+            },
+            {
+                  "name": "Torii of Halauone Shrine",
+                  "text": "This traditional Japanese torii gate stands as a historical remnant of the former Shinto shrine.",
+                  "category": "landmark",
+                  "coords": [
+                        121.344888,
+                        23.31842
+                  ]
+            },
+            {
+                  "name": "Dazhuangshan",
+                  "text": "Dazhuangshan is an elevated mountain peak shaping the skyline of the East Rift Valley.",
+                  "category": "natural",
+                  "coords": [
+                        121.327338,
+                        23.272321
+                  ]
+            },
+            {
+                  "name": "Kecheng Iron Bridge",
+                  "text": "This striking red iron railway bridge spans the riverbed, offering a picturesque architectural contrast to the valley.",
+                  "category": "landmark",
+                  "coords": [
+                        121.310868,
+                        23.319897
+                  ]
+            },
+            {
+                  "name": "Sea plate",
+                  "text": "The Sea plate is a distinct geological formation showcasing the tectonic activity of the East Rift Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        121.330376,
+                        23.321205
+                  ]
+            },
+            {
+                  "name": "Yuanwanshan",
+                  "text": "Yuanwanshan is a prominent mountain peak recognized for its steep slopes in the East Rift Valley.",
+                  "category": "natural",
+                  "coords": [
+                        121.345005,
+                        23.324518
+                  ]
+            },
+            {
+                  "name": "Shigongshan",
+                  "text": "This elevated peak forms part of the rugged natural terrain of the East Rift Valley.",
+                  "category": "natural",
+                  "coords": [
+                        121.365891,
+                        23.345386
+                  ]
+            },
+            {
+                  "name": "Huadongshan",
+                  "text": "Huadongshan stands as an imposing mountain peak overlooking the vast East Rift Valley.",
+                  "category": "natural",
+                  "coords": [
+                        121.399712,
+                        23.324814
+                  ]
+            },
+            {
+                  "name": "Beihuadongshan",
+                  "text": "Beihuadongshan is a northern mountain peak contributing to the dramatic topography of the East Rift Valley.",
+                  "category": "natural",
+                  "coords": [
+                        121.406054,
+                        23.339222
+                  ]
+            },
+            {
+                  "name": "Lundun Gufeng Temple",
+                  "text": "This traditional place of worship features intricate architectural details typical of local religious shrines.",
+                  "category": "religious",
+                  "coords": [
+                        121.317686,
+                        23.328454
+                  ]
+            },
+            {
+                  "name": "Catholic church",
+                  "text": "This Christian Catholic church serves the local community with its distinct religious architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        121.315256,
+                        23.336781
+                  ]
+            },
+            {
+                  "name": "Yi-Wan Catholic Church",
+                  "text": "The Yi-Wan Catholic Church is a Christian place of worship known for its dedicated congregation space.",
+                  "category": "landmark",
+                  "coords": [
+                        121.400398,
+                        23.210428
+                  ]
+            },
+            {
+                  "name": "Wanshan Temple",
+                  "text": "Wanshan Temple is an ornate Taoist sanctuary where locals gather for traditional religious rituals.",
+                  "category": "landmark",
+                  "coords": [
+                        121.316288,
+                        23.326029
+                  ]
+            },
+            {
+                  "name": "Cihui Temple",
+                  "text": "This Taoist temple is a center for traditional worship, distinguished by its classic architectural motifs.",
+                  "category": "landmark",
+                  "coords": [
+                        121.313851,
+                        23.327322
+                  ]
+            },
+            {
+                  "name": "Xietian Temple",
+                  "text": "Xietian Temple is a sacred Taoist site featuring colorful roof decorations and burning incense.",
+                  "category": "landmark",
+                  "coords": [
+                        121.316007,
+                        23.333927
+                  ]
+            },
+            {
+                  "name": "Yuli Roundabout Shopping District",
+                  "text": "This bustling marketplace surrounds a central roundabout, offering a variety of local goods and street food.",
+                  "category": "cultural",
+                  "coords": [
+                        121.315565,
+                        23.331751
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "TW-HUA",
     coords: [121.3650, 23.2720],
@@ -179,7 +2375,376 @@ export const poiExtraTaiwanReliefV2: POI[] = [
     },
   },
   {
-    id: "hehuanshan-relief-v2",
+    id: "hehuanshan-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Hehuan",
+                  "text": "Der Mount Hehuan ist ein bekannter Berggipfel mit alpinen Pfaden und einem weiten Blick auf das Hehuanshan-Relief.",
+                  "category": "natural",
+                  "coords": [
+                        121.283604,
+                        24.144409
+                  ]
+            },
+            {
+                  "name": "Heiyanshan",
+                  "text": "Heiyanshan ist ein steiler Berggipfel in der schroffen alpinen Landschaft der Hehuanshan-Region.",
+                  "category": "natural",
+                  "coords": [
+                        121.3581,
+                        24.1922
+                  ]
+            },
+            {
+                  "name": "Maomushan",
+                  "text": "Maomushan ist ein erhöhter Gipfel, der spektakuläre Aussichtspunkte über die sanften Hehuanshan-Berge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        121.316639,
+                        24.187156
+                  ]
+            },
+            {
+                  "name": "sehr guter Aussichtspunkt",
+                  "text": "Dieser Aussichtspunkt bietet ein weites malerisches Panorama über das hochgelegene Relief des Hehuanshan-Gebiets.",
+                  "category": "natural",
+                  "coords": [
+                        121.317484,
+                        24.179332
+                  ]
+            },
+            {
+                  "name": "Xiao Qilaishan",
+                  "text": "Xiao Qilaishan ist eine alpine Gedenkstätte eingebettet in die schroffen Gipfel des Hehuanshan-Reliefs.",
+                  "category": "historical",
+                  "coords": [
+                        121.295356,
+                        24.132237
+                  ]
+            },
+            {
+                  "name": "Hehuanshan East Peak",
+                  "text": "Der Ostgipfel des Hehuanshan ist ein markanter Berggipfel, der durch steile alpine Hänge im Hehuanshan-Gebiet gekennzeichnet ist.",
+                  "category": "natural",
+                  "coords": [
+                        121.281112,
+                        24.135667
+                  ]
+            },
+            {
+                  "name": "Shimenshan",
+                  "text": "Shimenshan ist ein leicht zugänglicher Berggipfel im Hehuanshan-Relief, bekannt für seinen Wanderweg, der zu weiten alpinen Aussichten führt.",
+                  "category": "natural",
+                  "coords": [
+                        121.284546,
+                        24.152422
+                  ]
+            },
+            {
+                  "name": "Shimenshanbeifeng",
+                  "text": "Shimenshanbeifeng ist der schroffe Nordgipfel des Shimenshan, der über der Hochlandschaft des Hehuanshan thront.",
+                  "category": "natural",
+                  "coords": [
+                        121.279557,
+                        24.157605
+                  ]
+            },
+            {
+                  "name": "Hehuanshan North Peak",
+                  "text": "Der Hehuanshan North Peak ist der höchste Punkt der Hehuan-Bergkette und zeichnet sich durch breite Grashänge aus.",
+                  "category": "natural",
+                  "coords": [
+                        121.281594,
+                        24.181513
+                  ]
+            },
+            {
+                  "name": "Bilushannanfeng",
+                  "text": "Bilushannanfeng ist ein hoch aufragender Südgipfel inmitten des anspruchsvollen Bergterrains des Hehuanshan-Reliefs.",
+                  "category": "natural",
+                  "coords": [
+                        121.348824,
+                        24.202719
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Hehuan",
+                  "text": "A Hehuan-hegy egy jól ismert hegycsúcs, amely alpesi ösvényekkel és a Hehuanshan domborzatára nyíló pazar kilátással várja a látogatókat.",
+                  "category": "natural",
+                  "coords": [
+                        121.283604,
+                        24.144409
+                  ]
+            },
+            {
+                  "name": "Heiyanshan",
+                  "text": "A Heiyanshan egy meredek hegycsúcs a Hehuanshan régió zord alpesi táján.",
+                  "category": "natural",
+                  "coords": [
+                        121.3581,
+                        24.1922
+                  ]
+            },
+            {
+                  "name": "Maomushan",
+                  "text": "A Maomushan egy magaslati csúcs, ahonnan látványos kilátás nyílik a hullámzó Hehuanshan-hegységre.",
+                  "category": "natural",
+                  "coords": [
+                        121.316639,
+                        24.187156
+                  ]
+            },
+            {
+                  "name": "nice Viewspot",
+                  "text": "Ez a kilátópont pazar festői panorámát kínál a Hehuanshan térség magaslati domborzatára.",
+                  "category": "natural",
+                  "coords": [
+                        121.317484,
+                        24.179332
+                  ]
+            },
+            {
+                  "name": "Xiao Qilaishan",
+                  "text": "A Xiao Qilaishan egy magashegyi emlékhely, amely a Hehuanshan domborzatának zord csúcsai között bújik meg.",
+                  "category": "historical",
+                  "coords": [
+                        121.295356,
+                        24.132237
+                  ]
+            },
+            {
+                  "name": "Hehuanshan East Peak",
+                  "text": "A Hehuanshan keleti csúcsa egy kiemelkedő hegycsúcs, amelyet meredek alpesi lejtők jellemeznek a Hehuanshan területén.",
+                  "category": "natural",
+                  "coords": [
+                        121.281112,
+                        24.135667
+                  ]
+            },
+            {
+                  "name": "Shimenshan",
+                  "text": "A Shimenshan egy könnyen megközelíthető hegycsúcs a Hehuanshan területén, amely a tágas alpesi kilátáshoz vezető ösvényéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        121.284546,
+                        24.152422
+                  ]
+            },
+            {
+                  "name": "Shimenshanbeifeng",
+                  "text": "A Shimenshanbeifeng a Shimenshan zord északi csúcsa, amely a Hehuanshan felvidéki tája fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        121.279557,
+                        24.157605
+                  ]
+            },
+            {
+                  "name": "Hehuanshan North Peak",
+                  "text": "A Hehuanshan északi csúcsa a Hehuan-hegység legmagasabb pontja, amelyet széles füves lejtők jellemeznek.",
+                  "category": "natural",
+                  "coords": [
+                        121.281594,
+                        24.181513
+                  ]
+            },
+            {
+                  "name": "Bilushannanfeng",
+                  "text": "A Bilushannanfeng egy magasba tornyosuló déli csúcs a Hehuanshan domborzatának kihívást jelentő hegyvidéki terepén.",
+                  "category": "natural",
+                  "coords": [
+                        121.348824,
+                        24.202719
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Hehuan",
+                  "text": "Muntele Hehuan este un vârf montan binecunoscut, cu trasee alpine și vederi panoramice ale reliefului Hehuanshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.283604,
+                        24.144409
+                  ]
+            },
+            {
+                  "name": "Heiyanshan",
+                  "text": "Heiyanshan este un vârf montan abrupt situat în peisajul alpin accidentat al regiunii Hehuanshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.3581,
+                        24.1922
+                  ]
+            },
+            {
+                  "name": "Maomushan",
+                  "text": "Maomushan este un vârf înalt care oferă puncte de observație spectaculoase asupra munților ondulați Hehuanshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.316639,
+                        24.187156
+                  ]
+            },
+            {
+                  "name": "nice Viewspot",
+                  "text": "Acest punct de belvedere oferă o panoramă pitorească vastă asupra reliefului de mare altitudine din zona Hehuanshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.317484,
+                        24.179332
+                  ]
+            },
+            {
+                  "name": "Xiao Qilaishan",
+                  "text": "Xiao Qilaishan este un memorial alpin cuibărit printre vârfurile accidentate ale reliefului Hehuanshan.",
+                  "category": "historical",
+                  "coords": [
+                        121.295356,
+                        24.132237
+                  ]
+            },
+            {
+                  "name": "Hehuanshan East Peak",
+                  "text": "Vârful estic Hehuanshan este o culme montană proeminentă, caracterizată de pante alpine abrupte în zona Hehuanshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.281112,
+                        24.135667
+                  ]
+            },
+            {
+                  "name": "Shimenshan",
+                  "text": "Shimenshan este un vârf montan accesibil în relieful Hehuanshan, cunoscut pentru traseul său care duce la priveliști alpine extinse.",
+                  "category": "natural",
+                  "coords": [
+                        121.284546,
+                        24.152422
+                  ]
+            },
+            {
+                  "name": "Shimenshanbeifeng",
+                  "text": "Shimenshanbeifeng este vârful nordic accidentat al muntelui Shimenshan, dominând peisajul de podiș al Hehuanshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.279557,
+                        24.157605
+                  ]
+            },
+            {
+                  "name": "Hehuanshan North Peak",
+                  "text": "Vârful nordic Hehuanshan este cel mai înalt punct al lanțului muntos Hehuan, prezentând pante largi acoperite cu iarbă.",
+                  "category": "natural",
+                  "coords": [
+                        121.281594,
+                        24.181513
+                  ]
+            },
+            {
+                  "name": "Bilushannanfeng",
+                  "text": "Bilushannanfeng este un vârf sudic impunător situat în mijlocul terenului montan provocator al reliefului Hehuanshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.348824,
+                        24.202719
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Hehuan",
+                  "text": "Mount Hehuan is a well-known mountain peak featuring alpine trails and sweeping views of the Hehuanshan relief.",
+                  "category": "natural",
+                  "coords": [
+                        121.283604,
+                        24.144409
+                  ]
+            },
+            {
+                  "name": "Heiyanshan",
+                  "text": "Heiyanshan is a steep mountain peak set in the rugged alpine landscape of the Hehuanshan region.",
+                  "category": "natural",
+                  "coords": [
+                        121.3581,
+                        24.1922
+                  ]
+            },
+            {
+                  "name": "Maomushan",
+                  "text": "Maomushan is an elevated peak offering spectacular vantage points over the rolling Hehuanshan mountains.",
+                  "category": "natural",
+                  "coords": [
+                        121.316639,
+                        24.187156
+                  ]
+            },
+            {
+                  "name": "nice Viewspot",
+                  "text": "This viewpoint offers a sweeping scenic panorama over the high-altitude relief of the Hehuanshan area.",
+                  "category": "natural",
+                  "coords": [
+                        121.317484,
+                        24.179332
+                  ]
+            },
+            {
+                  "name": "Xiao Qilaishan",
+                  "text": "Xiao Qilaishan is an alpine memorial site nestled among the rugged peaks of the Hehuanshan relief.",
+                  "category": "historical",
+                  "coords": [
+                        121.295356,
+                        24.132237
+                  ]
+            },
+            {
+                  "name": "Hehuanshan East Peak",
+                  "text": "Hehuanshan East Peak is a prominent mountain summit characterized by steep alpine slopes in the Hehuanshan area.",
+                  "category": "natural",
+                  "coords": [
+                        121.281112,
+                        24.135667
+                  ]
+            },
+            {
+                  "name": "Shimenshan",
+                  "text": "Shimenshan is an accessible mountain peak in the Hehuanshan relief, known for its trail leading to expansive alpine views.",
+                  "category": "natural",
+                  "coords": [
+                        121.284546,
+                        24.152422
+                  ]
+            },
+            {
+                  "name": "Shimenshanbeifeng",
+                  "text": "Shimenshanbeifeng is the rugged northern peak of Shimenshan, towering over the Hehuanshan highland landscape.",
+                  "category": "natural",
+                  "coords": [
+                        121.279557,
+                        24.157605
+                  ]
+            },
+            {
+                  "name": "Hehuanshan North Peak",
+                  "text": "Hehuanshan North Peak is the highest point of the Hehuan mountain range, featuring broad grassy slopes.",
+                  "category": "natural",
+                  "coords": [
+                        121.281594,
+                        24.181513
+                  ]
+            },
+            {
+                  "name": "Bilushannanfeng",
+                  "text": "Bilushannanfeng is a towering south peak located amidst the challenging mountain terrain of the Hehuanshan relief.",
+                  "category": "natural",
+                  "coords": [
+                        121.348824,
+                        24.202719
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TW-NAN",
     coords: [121.2811, 24.1417],
@@ -223,7 +2788,412 @@ export const poiExtraTaiwanReliefV2: POI[] = [
     },
   },
   {
-    id: "qixingshan-relief-v2",
+    id: "qixingshan-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qixingshan",
+                  "text": "Qixingshan ist ein erloschener Vulkan und der höchste Gipfel im Yangmingshan-Nationalpark in qixingshan-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.55344,
+                        25.170702
+                  ]
+            },
+            {
+                  "name": "Mt. Qixing East Peak",
+                  "text": "Der Ostgipfel des Berges Qixing ist eine markante Erhebung in der vulkanischen Landschaft von qixingshan-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.555574,
+                        25.169509
+                  ]
+            },
+            {
+                  "name": "Menghuanhu Lookout",
+                  "text": "Der Aussichtspunkt Menghuanhu ist ein malerischer Aussichtspunkt mit Panoramablick auf die umliegende Natur von qixingshan-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.560409,
+                        25.166956
+                  ]
+            },
+            {
+                  "name": "Lengshuikeng Naked Hot Spring",
+                  "text": "Die heißen Nacktquellen von Lengshuikeng sind eine öffentliche Badeattraktion mit natürlichem Thermalwasser in qixingshan-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        121.562729,
+                        25.167812
+                  ]
+            },
+            {
+                  "name": "Milk Lake Viewing Platform",
+                  "text": "Die Milk Lake Viewing Platform bietet Besuchern einen ausgewiesenen Beobachtungspunkt über einem auffälligen, trüben Becken in qixingshan-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        121.564345,
+                        25.1663
+                  ]
+            },
+            {
+                  "name": "Mt. Qigu",
+                  "text": "Der Berg Qigu ist ein steiler natürlicher Gipfel, der sich über der bewaldeten Landschaft von qixingshan-relief-v2 erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        121.565687,
+                        25.171777
+                  ]
+            },
+            {
+                  "name": "Mt. Xiaqigu",
+                  "text": "Der Berg Xiaqigu ist ein schroffer Hochlandgipfel und eine markante geologische Besonderheit in qixingshan-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.577669,
+                        25.187486
+                  ]
+            },
+            {
+                  "name": "Dayoukeng",
+                  "text": "Dayoukeng ist eine faszinierende Naturattraktion, die von aktiven Fumarolen und Schwefelablagerungen in qixingshan-relief-v2 geprägt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        121.580471,
+                        25.172539
+                  ]
+            },
+            {
+                  "name": "Yangmingshan National Park",
+                  "text": "Der 1985 gegründete Yangmingshan-Nationalpark in qixingshan-relief-v2 ist ein bekanntes Naturschutzgebiet mit vulkanischem Terrain und heißen Quellen.",
+                  "category": "natural",
+                  "coords": [
+                        121.561972,
+                        25.17995
+                  ]
+            },
+            {
+                  "name": "Lujiaokeng Ecological Conservation Zone",
+                  "text": "Die Lujiaokeng Ecological Conservation Zone ist ein 1985 eingerichtetes Naturschutzgebiet zur Erhaltung der vielfältigen lokalen Flora und Fauna von qixingshan-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.560412,
+                        25.207342
+                  ]
+            },
+            {
+                  "name": "Xia Qi Gu Hot Spring",
+                  "text": "Die heiße Quelle Xia Qi Gu bietet Besuchern die Möglichkeit, in natürlich erhitztem Thermalwasser inmitten der Landschaft von qixingshan-relief-v2 zu entspannen.",
+                  "category": "natural",
+                  "coords": [
+                        121.580389,
+                        25.182034
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qixingshan",
+                  "text": "A Qixingshan egy kialudt vulkán és a Yangmingshan Nemzeti Park legmagasabb csúcsa a qixingshan-relief-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        121.55344,
+                        25.170702
+                  ]
+            },
+            {
+                  "name": "Mt. Qixing East Peak",
+                  "text": "A Qixing-hegy keleti csúcsa egy kiemelkedő hegyvidéki magaslat a qixingshan-relief-v2 vulkanikus táján.",
+                  "category": "natural",
+                  "coords": [
+                        121.555574,
+                        25.169509
+                  ]
+            },
+            {
+                  "name": "Menghuanhu Lookout",
+                  "text": "A Menghuanhu kilátó egy festői megfigyelőpont, amely panorámás kilátást nyújt a qixingshan-relief-v2 környező természeti területeire.",
+                  "category": "natural",
+                  "coords": [
+                        121.560409,
+                        25.166956
+                  ]
+            },
+            {
+                  "name": "Lengshuikeng Naked Hot Spring",
+                  "text": "A Lengshuikeng meztelen hőforrás egy nyilvános fürdőhely, amely természetes geotermikus vizeket kínál qixingshan-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        121.562729,
+                        25.167812
+                  ]
+            },
+            {
+                  "name": "Milk Lake Viewing Platform",
+                  "text": "A Tej-tó kilátóplatform a látogatók számára kijelölt megfigyelőhelyet biztosít egy feltűnő, átlátszatlan medence felett qixingshan-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        121.564345,
+                        25.1663
+                  ]
+            },
+            {
+                  "name": "Mt. Qigu",
+                  "text": "A Qigu-hegy egy meredek természetes csúcs, amely a qixingshan-relief-v2 erdős tája fölé emelkedik.",
+                  "category": "natural",
+                  "coords": [
+                        121.565687,
+                        25.171777
+                  ]
+            },
+            {
+                  "name": "Mt. Xiaqigu",
+                  "text": "A Xiaqigu-hegy egy zord felvidéki csúcs, amely kiemelkedő geológiai képződmény a qixingshan-relief-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        121.577669,
+                        25.187486
+                  ]
+            },
+            {
+                  "name": "Dayoukeng",
+                  "text": "Dayoukeng egy lenyűgöző természeti látványosság, amelyet aktív fumarolák és kénlerakódások jellemeznek a qixingshan-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        121.580471,
+                        25.172539
+                  ]
+            },
+            {
+                  "name": "Yangmingshan National Park",
+                  "text": "Az 1985-ben alapított Yangmingshan Nemzeti Park egy híres természetvédelmi terület, amely vulkanikus terepéről és hőforrásairól ismert qixingshan-relief-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        121.561972,
+                        25.17995
+                  ]
+            },
+            {
+                  "name": "Lujiaokeng Ecological Conservation Zone",
+                  "text": "A Lujiaokeng Ökológiai Természetvédelmi Területet 1985-ben hozták létre a qixingshan-relief-v2 változatos helyi növény- és állatvilágának megőrzése érdekében.",
+                  "category": "natural",
+                  "coords": [
+                        121.560412,
+                        25.207342
+                  ]
+            },
+            {
+                  "name": "Xia Qi Gu Hot Spring",
+                  "text": "A Xia Qi Gu hőforrás lehetőséget kínál a látogatóknak, hogy a qixingshan-relief-v2 tájába ágyazott, természetesen melegített geotermikus vizekben pihenjenek.",
+                  "category": "natural",
+                  "coords": [
+                        121.580389,
+                        25.182034
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qixingshan",
+                  "text": "Qixingshan este un vulcan stins și cel mai înalt vârf din zona Parcului Național Yangmingshan din qixingshan-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.55344,
+                        25.170702
+                  ]
+            },
+            {
+                  "name": "Mt. Qixing East Peak",
+                  "text": "Vârful de Est al Muntelui Qixing este o altitudine muntoasă proeminentă situată în peisajul vulcanic din qixingshan-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.555574,
+                        25.169509
+                  ]
+            },
+            {
+                  "name": "Menghuanhu Lookout",
+                  "text": "Punctul de belvedere Menghuanhu oferă o perspectivă pitorească și vederi panoramice asupra zonei naturale înconjurătoare din qixingshan-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.560409,
+                        25.166956
+                  ]
+            },
+            {
+                  "name": "Lengshuikeng Naked Hot Spring",
+                  "text": "Izvorul termal nud Lengshuikeng este o atracție publică de scăldat cu ape geotermale naturale în qixingshan-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        121.562729,
+                        25.167812
+                  ]
+            },
+            {
+                  "name": "Milk Lake Viewing Platform",
+                  "text": "Platforma de observare Milk Lake oferă vizitatorilor un punct special amenajat pentru a vedea un bazin opac și izbitor din qixingshan-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        121.564345,
+                        25.1663
+                  ]
+            },
+            {
+                  "name": "Mt. Qigu",
+                  "text": "Muntele Qigu este un vârf natural abrupt care se înalță deasupra peisajului împădurit din qixingshan-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.565687,
+                        25.171777
+                  ]
+            },
+            {
+                  "name": "Mt. Xiaqigu",
+                  "text": "Muntele Xiaqigu este un vârf montan accidentat, care reprezintă o caracteristică geologică proeminentă în qixingshan-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.577669,
+                        25.187486
+                  ]
+            },
+            {
+                  "name": "Dayoukeng",
+                  "text": "Dayoukeng este o atracție naturală fascinantă, caracterizată de fumarole active și depozite de sulf în qixingshan-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        121.580471,
+                        25.172539
+                  ]
+            },
+            {
+                  "name": "Yangmingshan National Park",
+                  "text": "Înființat în 1985, Parcul Național Yangmingshan este o rezervație naturală proeminentă, renumită pentru relieful vulcanic și izvoarele sale termale din qixingshan-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.561972,
+                        25.17995
+                  ]
+            },
+            {
+                  "name": "Lujiaokeng Ecological Conservation Zone",
+                  "text": "Zona de Conservare Ecologică Lujiaokeng este o rezervație naturală protejată, înființată în 1985 pentru a conserva diversitatea florei și faunei locale din qixingshan-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.560412,
+                        25.207342
+                  ]
+            },
+            {
+                  "name": "Xia Qi Gu Hot Spring",
+                  "text": "Izvorul termal Xia Qi Gu oferă vizitatorilor șansa de a se relaxa în ape geotermale încălzite natural, amplasate în peisajul din qixingshan-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.580389,
+                        25.182034
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qixingshan",
+                  "text": "Qixingshan is an extinct volcano and the highest peak in the Yangmingshan National Park area of qixingshan-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.55344,
+                        25.170702
+                  ]
+            },
+            {
+                  "name": "Mt. Qixing East Peak",
+                  "text": "Mount Qixing East Peak is a prominent mountainous elevation standing in the volcanic landscape of qixingshan-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.555574,
+                        25.169509
+                  ]
+            },
+            {
+                  "name": "Menghuanhu Lookout",
+                  "text": "Menghuanhu Lookout is a scenic viewing point offering panoramic vistas over the surrounding natural area of qixingshan-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.560409,
+                        25.166956
+                  ]
+            },
+            {
+                  "name": "Lengshuikeng Naked Hot Spring",
+                  "text": "Lengshuikeng Naked Hot Spring is a public bathing attraction featuring natural geothermal waters in qixingshan-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        121.562729,
+                        25.167812
+                  ]
+            },
+            {
+                  "name": "Milk Lake Viewing Platform",
+                  "text": "Milk Lake Viewing Platform provides visitors with a designated observational spot over a striking, opaque pool in qixingshan-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        121.564345,
+                        25.1663
+                  ]
+            },
+            {
+                  "name": "Mt. Qigu",
+                  "text": "Mount Qigu is a steep natural peak rising above the forested landscape of qixingshan-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.565687,
+                        25.171777
+                  ]
+            },
+            {
+                  "name": "Mt. Xiaqigu",
+                  "text": "Mount Xiaqigu is a rugged highland peak standing as a prominent geological feature in qixingshan-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.577669,
+                        25.187486
+                  ]
+            },
+            {
+                  "name": "Dayoukeng",
+                  "text": "Dayoukeng is a fascinating natural attraction characterized by active fumaroles and sulfur deposits in qixingshan-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        121.580471,
+                        25.172539
+                  ]
+            },
+            {
+                  "name": "Yangmingshan National Park",
+                  "text": "Established in 1985, Yangmingshan National Park is a prominent nature reserve known for its volcanic terrain and hot springs in qixingshan-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.561972,
+                        25.17995
+                  ]
+            },
+            {
+                  "name": "Lujiaokeng Ecological Conservation Zone",
+                  "text": "The Lujiaokeng Ecological Conservation Zone is a protected nature reserve established in 1985 to preserve the diverse local flora and fauna of qixingshan-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.560412,
+                        25.207342
+                  ]
+            },
+            {
+                  "name": "Xia Qi Gu Hot Spring",
+                  "text": "Xia Qi Gu Hot Spring offers visitors a chance to relax in naturally heated geothermal waters nestled in the landscape of qixingshan-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.580389,
+                        25.182034
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TW-TPE",
     coords: [121.5539, 25.1708],
@@ -267,7 +3237,484 @@ export const poiExtraTaiwanReliefV2: POI[] = [
     },
   },
   {
-    id: "dabajianshan-relief-v2",
+    id: "dabajianshan-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kalayeshan",
+                  "text": "Der Kalayeshan ist ein weithin bekannter Berggipfel in der felsigen Region Dabajianshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.321218,
+                        24.449776
+                  ]
+            },
+            {
+                  "name": "Nanmayangshan",
+                  "text": "Der Nanmayangshan trägt zur hoch aufragenden Bergsilhouette von Dabajianshan bei.",
+                  "category": "natural",
+                  "coords": [
+                        121.279028,
+                        24.494528
+                  ]
+            },
+            {
+                  "name": "Mayangshan",
+                  "text": "Der Mayangshan ist ein markanter Berggipfel inmitten der Dabajianshan-Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        121.277514,
+                        24.50144
+                  ]
+            },
+            {
+                  "name": "Bianjiyanshan",
+                  "text": "Der Bianjiyanshan ist eine zerklüftete Bergformation im Dabajianshan-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        121.344429,
+                        24.482284
+                  ]
+            },
+            {
+                  "name": "Guishan",
+                  "text": "Der Guishan ist ein bemerkenswerter Naturfelsen in der Dabajianshan-Reliefzone.",
+                  "category": "natural",
+                  "coords": [
+                        121.203161,
+                        24.512524
+                  ]
+            },
+            {
+                  "name": "Jingjieshan",
+                  "text": "Der Jingjieshan erhebt sich als felsiger Gipfel über die Täler von Dabajianshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.220663,
+                        24.501532
+                  ]
+            },
+            {
+                  "name": "Yebaaoshan",
+                  "text": "Der Yebaaoshan ist ein Berggipfel, der die dramatische Landschaft von Dabajianshan ergänzt.",
+                  "category": "natural",
+                  "coords": [
+                        121.231372,
+                        24.466885
+                  ]
+            },
+            {
+                  "name": "Yizeshan",
+                  "text": "Der Yizeshan ist ein bedeutender Gipfel, der für seine alpine Umgebung in Dabajianshan bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        121.243612,
+                        24.469981
+                  ]
+            },
+            {
+                  "name": "Dabajianshan",
+                  "text": "Der Dabajianshan ist ein ikonischer Hauptgipfel, der für seine unverwechselbare tonnenförmige Felsformation berühmt ist.",
+                  "category": "natural",
+                  "coords": [
+                        121.257999,
+                        24.457742
+                  ]
+            },
+            {
+                  "name": "Xiaobajianshan",
+                  "text": "Der Xiaobajianshan ist ein beeindruckender Nebengipfel in der Nähe des majestätischen Hauptmassivs von Dabajianshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.252122,
+                        24.4556
+                  ]
+            },
+            {
+                  "name": "Jialishan",
+                  "text": "Der Jialishan bietet Bergwanderern herausfordernde Klettersteige in der Dabajianshan-Region.",
+                  "category": "natural",
+                  "coords": [
+                        121.2162,
+                        24.459477
+                  ]
+            },
+            {
+                  "name": "Sanrongshan",
+                  "text": "Der Sanrongshan ist ein natürlicher Aussichtspunkt im rauen Berggelände von Dabajianshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.179777,
+                        24.457032
+                  ]
+            },
+            {
+                  "name": "Jiechengshan",
+                  "text": "Der Jiechengshan erhebt sich als unberührter Gipfel im Dabajianshan-Naturpark.",
+                  "category": "natural",
+                  "coords": [
+                        121.178395,
+                        24.507235
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalayeshan",
+                  "text": "A Kalayeshan egy széles körben ismert hegycsúcs a sziklás Dabajianshan régióban.",
+                  "category": "natural",
+                  "coords": [
+                        121.321218,
+                        24.449776
+                  ]
+            },
+            {
+                  "name": "Nanmayangshan",
+                  "text": "A Nanmayangshan hozzájárul Dabajianshan magasra nyúló hegyi sziluettjéhez.",
+                  "category": "natural",
+                  "coords": [
+                        121.279028,
+                        24.494528
+                  ]
+            },
+            {
+                  "name": "Mayangshan",
+                  "text": "A Mayangshan egy kiemelkedő hegycsúcs a Dabajianshan táj közepén.",
+                  "category": "natural",
+                  "coords": [
+                        121.277514,
+                        24.50144
+                  ]
+            },
+            {
+                  "name": "Bianjiyanshan",
+                  "text": "A Bianjiyanshan egy zord hegyképződmény a Dabajianshan területén.",
+                  "category": "natural",
+                  "coords": [
+                        121.344429,
+                        24.482284
+                  ]
+            },
+            {
+                  "name": "Guishan",
+                  "text": "A Guishan egy figyelemre méltó természeti szikla a Dabajianshan domborzati zónában.",
+                  "category": "natural",
+                  "coords": [
+                        121.203161,
+                        24.512524
+                  ]
+            },
+            {
+                  "name": "Jingjieshan",
+                  "text": "A Jingjieshan sziklás csúcsként emelkedik a Dabajianshan völgyei fölé.",
+                  "category": "natural",
+                  "coords": [
+                        121.220663,
+                        24.501532
+                  ]
+            },
+            {
+                  "name": "Yebaaoshan",
+                  "text": "A Yebaaoshan egy hegycsúcs, amely kiegészíti Dabajianshan drámai táját.",
+                  "category": "natural",
+                  "coords": [
+                        121.231372,
+                        24.466885
+                  ]
+            },
+            {
+                  "name": "Yizeshan",
+                  "text": "A Yizeshan egy jelentős csúcs, amely alpesi környezetéről ismert Dabajianshanban.",
+                  "category": "natural",
+                  "coords": [
+                        121.243612,
+                        24.469981
+                  ]
+            },
+            {
+                  "name": "Dabajianshan",
+                  "text": "A Dabajianshan egy ikonikus főcsúcs, amely jellegzetes hordó alakú sziklaképződményéről híres.",
+                  "category": "natural",
+                  "coords": [
+                        121.257999,
+                        24.457742
+                  ]
+            },
+            {
+                  "name": "Xiaobajianshan",
+                  "text": "A Xiaobajianshan egy lenyűgöző mellékcsúcs a Dabajianshan fenséges fő masszívuma közelében.",
+                  "category": "natural",
+                  "coords": [
+                        121.252122,
+                        24.4556
+                  ]
+            },
+            {
+                  "name": "Jialishan",
+                  "text": "A Jialishan kihívást jelentő hegymászó utakat kínál a természetjáróknak a Dabajianshan régióban.",
+                  "category": "natural",
+                  "coords": [
+                        121.2162,
+                        24.459477
+                  ]
+            },
+            {
+                  "name": "Sanrongshan",
+                  "text": "A Sanrongshan egy természetes kilátópont a zord hegyi terepen, Dabajianshanban.",
+                  "category": "natural",
+                  "coords": [
+                        121.179777,
+                        24.457032
+                  ]
+            },
+            {
+                  "name": "Jiechengshan",
+                  "text": "A Jiechengshan érintetlen csúcsként magasodik a Dabajianshan természeti parkban.",
+                  "category": "natural",
+                  "coords": [
+                        121.178395,
+                        24.507235
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalayeshan",
+                  "text": "Kalayeshan este un vârf montan foarte cunoscut în regiunea stâncoasă Dabajianshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.321218,
+                        24.449776
+                  ]
+            },
+            {
+                  "name": "Nanmayangshan",
+                  "text": "Nanmayangshan contribuie la silueta montană înaltă din regiunea Dabajianshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.279028,
+                        24.494528
+                  ]
+            },
+            {
+                  "name": "Mayangshan",
+                  "text": "Mayangshan este un vârf montan proeminent situat în mijlocul peisajului Dabajianshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.277514,
+                        24.50144
+                  ]
+            },
+            {
+                  "name": "Bianjiyanshan",
+                  "text": "Bianjiyanshan este o formațiune montană stâncoasă în zona Dabajianshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.344429,
+                        24.482284
+                  ]
+            },
+            {
+                  "name": "Guishan",
+                  "text": "Guishan este o stâncă naturală notabilă din zona de relief Dabajianshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.203161,
+                        24.512524
+                  ]
+            },
+            {
+                  "name": "Jingjieshan",
+                  "text": "Jingjieshan se ridică ca un vârf stâncos deasupra văilor din Dabajianshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.220663,
+                        24.501532
+                  ]
+            },
+            {
+                  "name": "Yebaaoshan",
+                  "text": "Yebaaoshan este un vârf montan care completează peisajul dramatic din Dabajianshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.231372,
+                        24.466885
+                  ]
+            },
+            {
+                  "name": "Yizeshan",
+                  "text": "Yizeshan este un vârf important cunoscut pentru mediul său alpin din Dabajianshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.243612,
+                        24.469981
+                  ]
+            },
+            {
+                  "name": "Dabajianshan",
+                  "text": "Dabajianshan este un vârf principal iconic renumit pentru formațiunea sa stâncoasă distinctivă în formă de butoi.",
+                  "category": "natural",
+                  "coords": [
+                        121.257999,
+                        24.457742
+                  ]
+            },
+            {
+                  "name": "Xiaobajianshan",
+                  "text": "Xiaobajianshan este un vârf secundar impresionant situat aproape de masivul principal majestuos din Dabajianshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.252122,
+                        24.4556
+                  ]
+            },
+            {
+                  "name": "Jialishan",
+                  "text": "Jialishan oferă drumeților rute montane provocatoare în regiunea Dabajianshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.2162,
+                        24.459477
+                  ]
+            },
+            {
+                  "name": "Sanrongshan",
+                  "text": "Sanrongshan este un punct de observare natural în terenul montan accidentat din Dabajianshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.179777,
+                        24.457032
+                  ]
+            },
+            {
+                  "name": "Jiechengshan",
+                  "text": "Jiechengshan se înalță ca un vârf imaculat în parcul natural Dabajianshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.178395,
+                        24.507235
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kalayeshan",
+                  "text": "Kalayeshan is a widely recognized mountain summit in the rugged Dabajianshan region.",
+                  "category": "natural",
+                  "coords": [
+                        121.321218,
+                        24.449776
+                  ]
+            },
+            {
+                  "name": "Nanmayangshan",
+                  "text": "Nanmayangshan contributes to the towering mountainous skyline of the Dabajianshan area.",
+                  "category": "natural",
+                  "coords": [
+                        121.279028,
+                        24.494528
+                  ]
+            },
+            {
+                  "name": "Mayangshan",
+                  "text": "Mayangshan is a prominent mountain peak set amidst the Dabajianshan landscape.",
+                  "category": "natural",
+                  "coords": [
+                        121.277514,
+                        24.50144
+                  ]
+            },
+            {
+                  "name": "Bianjiyanshan",
+                  "text": "Bianjiyanshan stands as a rugged mountain formation in the Dabajianshan area.",
+                  "category": "natural",
+                  "coords": [
+                        121.344429,
+                        24.482284
+                  ]
+            },
+            {
+                  "name": "Guishan",
+                  "text": "Guishan is a notable natural peak located in the Dabajianshan relief zone.",
+                  "category": "natural",
+                  "coords": [
+                        121.203161,
+                        24.512524
+                  ]
+            },
+            {
+                  "name": "Jingjieshan",
+                  "text": "Jingjieshan rises as a rocky summit above the valleys of Dabajianshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.220663,
+                        24.501532
+                  ]
+            },
+            {
+                  "name": "Yebaaoshan",
+                  "text": "Yebaaoshan is a mountain summit that adds to the dramatic scenery of Dabajianshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.231372,
+                        24.466885
+                  ]
+            },
+            {
+                  "name": "Yizeshan",
+                  "text": "Yizeshan is a significant peak recognized for its alpine surroundings in Dabajianshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.243612,
+                        24.469981
+                  ]
+            },
+            {
+                  "name": "Dabajianshan",
+                  "text": "Dabajianshan is an iconic main peak famous for its distinctive barrel-shaped rock formation.",
+                  "category": "natural",
+                  "coords": [
+                        121.257999,
+                        24.457742
+                  ]
+            },
+            {
+                  "name": "Xiaobajianshan",
+                  "text": "Xiaobajianshan is a striking sub-peak located near the majestic main massif of Dabajianshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.252122,
+                        24.4556
+                  ]
+            },
+            {
+                  "name": "Jialishan",
+                  "text": "Jialishan provides challenging climbing trails for hikers in the Dabajianshan region.",
+                  "category": "natural",
+                  "coords": [
+                        121.2162,
+                        24.459477
+                  ]
+            },
+            {
+                  "name": "Sanrongshan",
+                  "text": "Sanrongshan acts as a natural vantage point within the rough mountainous terrain of Dabajianshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.179777,
+                        24.457032
+                  ]
+            },
+            {
+                  "name": "Jiechengshan",
+                  "text": "Jiechengshan rises as a pristine peak within the Dabajianshan natural park.",
+                  "category": "natural",
+                  "coords": [
+                        121.178395,
+                        24.507235
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TW-HSQ",
     coords: [121.2619, 24.4608],
@@ -311,7 +3758,268 @@ export const poiExtraTaiwanReliefV2: POI[] = [
     },
   },
   {
-    id: "laomei-green-reef-relief-v2",
+    id: "laomei-green-reef-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shimenshan",
+                  "text": "Shimenshan ist ein Berggipfel im zerklüfteten Küstengebiet nahe dem Laomei Green Reef Relief.",
+                  "category": "natural",
+                  "coords": [
+                        121.56479,
+                        25.285903
+                  ]
+            },
+            {
+                  "name": "Northernmost point of Taiwan",
+                  "text": "Dieser malerische Aussichtspunkt an der Küste bietet einen unverbauten Blick auf das Meer direkt von der nördlichsten Spitze Taiwans in der Nähe des Laomei Green Reefs.",
+                  "category": "natural",
+                  "coords": [
+                        121.537586,
+                        25.29835
+                  ]
+            },
+            {
+                  "name": "Alilaoshan",
+                  "text": "Alilaoshan ist ein markanter Berggipfel, der sich deutlich über die Küstenlandschaften rund um das Laomei Green Reef Relief erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        121.614267,
+                        25.274254
+                  ]
+            },
+            {
+                  "name": "Kengtoushan",
+                  "text": "Kengtoushan liegt in der hügeligen Region nahe dem Laomei Green Reef und ist ein bedeutender felsiger Gipfel, der mit Küstenvegetation bedeckt ist.",
+                  "category": "natural",
+                  "coords": [
+                        121.574868,
+                        25.25023
+                  ]
+            },
+            {
+                  "name": "Caoli fishing port",
+                  "text": "Dieser funktionierende Fischereihafen in der Nähe des Laomei Green Reefs ist eine Küstenattraktion, wo Besucher die einheimischen Boote mit ihrem täglichen Fang zurückkehren sehen können.",
+                  "category": "landmark",
+                  "coords": [
+                        121.60615,
+                        25.282798
+                  ]
+            },
+            {
+                  "name": "Yinggong Miao",
+                  "text": "Dieser traditionelle Tempel ist den daoistischen Gottheiten gewidmet und dient der lokalen Küstengemeinde nahe dem Laomei Green Reef Relief.",
+                  "category": "landmark",
+                  "coords": [
+                        121.494502,
+                        25.259312
+                  ]
+            },
+            {
+                  "name": "Dingshan",
+                  "text": "Diese lokale Stätte der chinesischen Volksreligion ist ein spiritueller Versammlungsort für die Gemeinde, die in der Nähe des Laomei Green Reefs lebt.",
+                  "category": "landmark",
+                  "coords": [
+                        121.539621,
+                        25.238467
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shimenshan",
+                  "text": "A Shimenshan egy hegycsúcs a zord tengerparti terepen, a Laomei zöld zátony domborzatának közelében.",
+                  "category": "natural",
+                  "coords": [
+                        121.56479,
+                        25.285903
+                  ]
+            },
+            {
+                  "name": "Northernmost point of Taiwan",
+                  "text": "Ez a festői tengerparti kilátó akadálytalan kilátást nyújt a tengerre közvetlenül Tajvan legészakibb csücskéről, a Laomei zöld zátony közelében.",
+                  "category": "natural",
+                  "coords": [
+                        121.537586,
+                        25.29835
+                  ]
+            },
+            {
+                  "name": "Alilaoshan",
+                  "text": "Az Alilaoshan egy kiemelkedő hegycsúcs, amely egyértelműen a Laomei zöld zátony domborzatát körülvevő tengerparti tájak fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        121.614267,
+                        25.274254
+                  ]
+            },
+            {
+                  "name": "Kengtoushan",
+                  "text": "A Laomei zöld zátonyhoz közeli dombos vidéken található Kengtoushan egy jelentős sziklás csúcs, amelyet tengerparti növényzet borít.",
+                  "category": "natural",
+                  "coords": [
+                        121.574868,
+                        25.25023
+                  ]
+            },
+            {
+                  "name": "Caoli fishing port",
+                  "text": "Ez a működő halászkikötő a Laomei zöld zátony közelében egy tengerparti látványosság, ahol a látogatók megnézhetik a napi fogásukkal visszatérő helyi hajókat.",
+                  "category": "landmark",
+                  "coords": [
+                        121.60615,
+                        25.282798
+                  ]
+            },
+            {
+                  "name": "Yinggong Miao",
+                  "text": "A taoista istenségeknek szentelt hagyományos templom a helyi tengerparti közösséget szolgálja a Laomei zöld zátony domborzatának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        121.494502,
+                        25.259312
+                  ]
+            },
+            {
+                  "name": "Dingshan",
+                  "text": "Ez a helyi kínai népi vallási hely spirituális gyülekezőhely a Laomei zöld zátony közelében élő közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        121.539621,
+                        25.238467
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shimenshan",
+                  "text": "Shimenshan este un vârf montan situat în terenul de coastă accidentat de lângă relieful recifului verde Laomei.",
+                  "category": "natural",
+                  "coords": [
+                        121.56479,
+                        25.285903
+                  ]
+            },
+            {
+                  "name": "Northernmost point of Taiwan",
+                  "text": "Acest punct de belvedere pitoresc de pe coastă oferă vederi neobstrucționate ale mării direct de pe extremitatea nordică a Taiwanului, lângă reciful verde Laomei.",
+                  "category": "natural",
+                  "coords": [
+                        121.537586,
+                        25.29835
+                  ]
+            },
+            {
+                  "name": "Alilaoshan",
+                  "text": "Alilaoshan este un vârf montan proeminent care se ridică distinct deasupra peisajelor de coastă care înconjoară relieful recifului verde Laomei.",
+                  "category": "natural",
+                  "coords": [
+                        121.614267,
+                        25.274254
+                  ]
+            },
+            {
+                  "name": "Kengtoushan",
+                  "text": "Situat în regiunea deluroasă de lângă reciful verde Laomei, Kengtoushan este un vârf stâncos semnificativ acoperit de vegetație de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        121.574868,
+                        25.25023
+                  ]
+            },
+            {
+                  "name": "Caoli fishing port",
+                  "text": "Acest port de pescuit funcțional de lângă reciful verde Laomei este o atracție de coastă unde vizitatorii pot urmări bărcile locale întorcându-se cu captura lor zilnică.",
+                  "category": "landmark",
+                  "coords": [
+                        121.60615,
+                        25.282798
+                  ]
+            },
+            {
+                  "name": "Yinggong Miao",
+                  "text": "Dedicat zeităților taoiste, acest templu tradițional servește comunitatea de coastă locală lângă relieful recifului verde Laomei.",
+                  "category": "landmark",
+                  "coords": [
+                        121.494502,
+                        25.259312
+                  ]
+            },
+            {
+                  "name": "Dingshan",
+                  "text": "Acest sit local al religiei populare chineze este un loc de adunare spirituală pentru comunitatea care trăiește lângă reciful verde Laomei.",
+                  "category": "landmark",
+                  "coords": [
+                        121.539621,
+                        25.238467
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shimenshan",
+                  "text": "Shimenshan is a mountain peak situated in the rugged coastal terrain near the Laomei green reef relief.",
+                  "category": "natural",
+                  "coords": [
+                        121.56479,
+                        25.285903
+                  ]
+            },
+            {
+                  "name": "Northernmost point of Taiwan",
+                  "text": "This scenic coastal viewpoint offers unobstructed views of the sea directly from the northernmost tip of Taiwan near the Laomei green reef.",
+                  "category": "natural",
+                  "coords": [
+                        121.537586,
+                        25.29835
+                  ]
+            },
+            {
+                  "name": "Alilaoshan",
+                  "text": "Alilaoshan is a prominent mountain peak rising distinctly above the coastal landscapes surrounding the Laomei green reef relief.",
+                  "category": "natural",
+                  "coords": [
+                        121.614267,
+                        25.274254
+                  ]
+            },
+            {
+                  "name": "Kengtoushan",
+                  "text": "Located in the hilly region near the Laomei green reef, Kengtoushan is a significant rocky peak covered in coastal vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        121.574868,
+                        25.25023
+                  ]
+            },
+            {
+                  "name": "Caoli fishing port",
+                  "text": "This working fishing port near the Laomei green reef is a coastal attraction where visitors can watch local boats return with their daily catch.",
+                  "category": "landmark",
+                  "coords": [
+                        121.60615,
+                        25.282798
+                  ]
+            },
+            {
+                  "name": "Yinggong Miao",
+                  "text": "Dedicated to Taoist deities, this traditional temple serves the local coastal community near the Laomei green reef relief.",
+                  "category": "landmark",
+                  "coords": [
+                        121.494502,
+                        25.259312
+                  ]
+            },
+            {
+                  "name": "Dingshan",
+                  "text": "This local Chinese folk religion site is a spiritual gathering place for the community living near the Laomei green reef.",
+                  "category": "landmark",
+                  "coords": [
+                        121.539621,
+                        25.238467
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "TW-NWT",
     coords: [121.5447, 25.2925],
@@ -355,7 +4063,880 @@ export const poiExtraTaiwanReliefV2: POI[] = [
     },
   },
   {
-    id: "nanhushan-relief-v2",
+    id: "nanhushan-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zhongyangjianshanxifeng",
+                  "text": "Zhongyangjianshanxifeng ist der Westgipfel der Central Range, bekannt für sein steiles, zerklüftetes Profil im Nanhushan-Relief.",
+                  "category": "natural",
+                  "coords": [
+                        121.404505,
+                        24.308732
+                  ]
+            },
+            {
+                  "name": "Zhongyangjianshan",
+                  "text": "Zhongyangjianshan ist ein bedeutender Berggipfel, der die Skyline der Nanhushan-Region dominiert.",
+                  "category": "natural",
+                  "coords": [
+                        121.416266,
+                        24.310224
+                  ]
+            },
+            {
+                  "name": "Xinxieshan",
+                  "text": "Xinxieshan ist ein hoch aufragender Alpengipfel, der Teil des dramatischen Nanhushan-Gebirgsreliefs ist.",
+                  "category": "natural",
+                  "coords": [
+                        121.38695,
+                        24.320748
+                  ]
+            },
+            {
+                  "name": "11.5k",
+                  "text": "Die 11,5-km-Markierung ist eine ausgewiesene landschaftliche Attraktion entlang der schroffen Bergpfade des Nanhushan-Reliefs.",
+                  "category": "landmark",
+                  "coords": [
+                        121.395004,
+                        24.378341
+                  ]
+            },
+            {
+                  "name": "13.2K",
+                  "text": "Der Wegpunkt 13,2K dient als beliebte Raststätte mit Blick auf die Landschaft des Nanhushan.",
+                  "category": "landmark",
+                  "coords": [
+                        121.404138,
+                        24.377935
+                  ]
+            },
+            {
+                  "name": "Shenmazhenshan",
+                  "text": "Shenmazhenshan ist ein markanter Berggipfel im Nanhushan-Relief, der für seine weiten alpinen Wiesen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        121.417492,
+                        24.380164
+                  ]
+            },
+            {
+                  "name": "Duojiatunshan",
+                  "text": "Duojiatunshan ist ein waldbedeckter Berggipfel, der im alpinen Nanhushan-Gelände steil ansteigt.",
+                  "category": "natural",
+                  "coords": [
+                        121.381152,
+                        24.367739
+                  ]
+            },
+            {
+                  "name": "Badounuofushan",
+                  "text": "Badounuofushan ist ein schroffer Gipfel, der anspruchsvolle Anstiege und weite Ausblicke über die Nanhushan-Region bietet.",
+                  "category": "natural",
+                  "coords": [
+                        121.441461,
+                        24.400605
+                  ]
+            },
+            {
+                  "name": "Futashan",
+                  "text": "Futashan ist ein imposanter Berggipfel, der die Skyline des dramatischen alpinen Nanhushan-Reliefs prägt.",
+                  "category": "natural",
+                  "coords": [
+                        121.459632,
+                        24.414741
+                  ]
+            },
+            {
+                  "name": "Banailiangshan",
+                  "text": "Banailiangshan ist ein erhöhter Berggipfel, der sich zwischen den malerischen Kämmen des Nanhushan-Gebiets befindet.",
+                  "category": "natural",
+                  "coords": [
+                        121.519907,
+                        24.371752
+                  ]
+            },
+            {
+                  "name": "Fudaoshan",
+                  "text": "Der Fudaoshan ist ein Berggipfel im gebirgigen Relief von Nanhushan.",
+                  "category": "natural",
+                  "coords": [
+                        121.524348,
+                        24.389113
+                  ]
+            },
+            {
+                  "name": "Badoufushan",
+                  "text": "Der Badoufushan ragt als markanter Berggipfel in der Nanhushan-Region empor.",
+                  "category": "natural",
+                  "coords": [
+                        121.438773,
+                        24.391794
+                  ]
+            },
+            {
+                  "name": "Nanhubeishan",
+                  "text": "Der Nanhubeishan ist ein bekannter Gipfel, der Teil der weiten Gebirgslandschaft von Nanhushan ist.",
+                  "category": "natural",
+                  "coords": [
+                        121.437256,
+                        24.38367
+                  ]
+            },
+            {
+                  "name": "Nanhudashanbeifeng",
+                  "text": "Der Nanhudashanbeifeng ist der nördliche Gipfel des Hauptmassivs von Nanhushan.",
+                  "category": "natural",
+                  "coords": [
+                        121.441712,
+                        24.374006
+                  ]
+            },
+            {
+                  "name": "Nanhudashan East Peak",
+                  "text": "Der Nanhudashan East Peak ist eine bemerkenswerte östliche Erhebung in der Gebirgskette von Nanhushan.",
+                  "category": "natural",
+                  "coords": [
+                        121.450853,
+                        24.365594
+                  ]
+            },
+            {
+                  "name": "Nanhudashandongbeifeng",
+                  "text": "Der Nanhudashandongbeifeng bildet einen nordöstlichen Nebengipfel in der weiten Nanhushan-Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        121.446798,
+                        24.37598
+                  ]
+            },
+            {
+                  "name": "Nanhudashanzhongnanfeng",
+                  "text": "Der Nanhudashanzhongnanfeng ist ein zerklüfteter Berggipfel im zentral-südlichen Abschnitt von Nanhushan.",
+                  "category": "natural",
+                  "coords": [
+                        121.44743,
+                        24.360276
+                  ]
+            },
+            {
+                  "name": "Nanhudashan",
+                  "text": "Der Nanhudashan ist ein markanter Hauptgipfel, der die umliegende Relieflandschaft dominiert.",
+                  "category": "natural",
+                  "coords": [
+                        121.439377,
+                        24.361812
+                  ]
+            },
+            {
+                  "name": "Nanhudashan South Peak",
+                  "text": "Der Nanhudashan South Peak ist die hoch aufragende südliche Spitze des Nanhushan-Massivs.",
+                  "category": "natural",
+                  "coords": [
+                        121.43476,
+                        24.347699
+                  ]
+            },
+            {
+                  "name": "Babashan",
+                  "text": "Der Babashan ist ein bekannter Berggipfel inmitten der Nanhushan-Reliefzone.",
+                  "category": "natural",
+                  "coords": [
+                        121.437829,
+                        24.342391
+                  ]
+            },
+            {
+                  "name": "Nanhudashandongnanfeng",
+                  "text": "Der Nanhudashandongnanfeng ist ein südöstlicher Erhebungspunkt in der weiten Landschaft von Nanhushan.",
+                  "category": "natural",
+                  "coords": [
+                        121.464929,
+                        24.355831
+                  ]
+            },
+            {
+                  "name": "Mabishanshan",
+                  "text": "Der Mabishanshan ragt als markanter Gipfel in der Bergregion von Nanhushan auf.",
+                  "category": "natural",
+                  "coords": [
+                        121.485637,
+                        24.348225
+                  ]
+            },
+            {
+                  "name": "Xijinanshan",
+                  "text": "Der Xijinanshan bietet steile Hänge in der felsigen Nanhushan-Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        121.487216,
+                        24.320174
+                  ]
+            },
+            {
+                  "name": "Zhongyangjianshandongfeng",
+                  "text": "Der Zhongyangjianshandongfeng ist ein markanter östlicher Gipfel in den Nanhushan-Bergen.",
+                  "category": "natural",
+                  "coords": [
+                        121.423602,
+                        24.308174
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zhongyangjianshanxifeng",
+                  "text": "A Zhongyangjianshanxifeng a Központi-hegység nyugati csúcsa, amely a Nanhushan területének meredek, csipkézett profiljáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        121.404505,
+                        24.308732
+                  ]
+            },
+            {
+                  "name": "Zhongyangjianshan",
+                  "text": "A Zhongyangjianshan egy jelentős hegycsúcs, amely uralja a Nanhushan régió látképét.",
+                  "category": "natural",
+                  "coords": [
+                        121.416266,
+                        24.310224
+                  ]
+            },
+            {
+                  "name": "Xinxieshan",
+                  "text": "A Xinxieshan egy magasba tornyosuló alpesi csúcs, amely a drámai Nanhushan hegyi domborzat része.",
+                  "category": "natural",
+                  "coords": [
+                        121.38695,
+                        24.320748
+                  ]
+            },
+            {
+                  "name": "11.5k",
+                  "text": "A 11,5 kilométeres kő egy kijelölt festői látványosság a Nanhushan zord hegyi ösvényei mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        121.395004,
+                        24.378341
+                  ]
+            },
+            {
+                  "name": "13.2K",
+                  "text": "A 13,2 km-es túrapont egy népszerű pihenőhely, ahonnan csodálatos kilátás nyílik a Nanhushan tájára.",
+                  "category": "landmark",
+                  "coords": [
+                        121.404138,
+                        24.377935
+                  ]
+            },
+            {
+                  "name": "Shenmazhenshan",
+                  "text": "A Shenmazhenshan egy kiemelkedő hegycsúcs a Nanhushan térségben, amely kiterjedt alpesi rétjeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        121.417492,
+                        24.380164
+                  ]
+            },
+            {
+                  "name": "Duojiatunshan",
+                  "text": "A Duojiatunshan egy erdővel borított hegycsúcs, amely meredeken emelkedik az alpesi Nanhushan terepén.",
+                  "category": "natural",
+                  "coords": [
+                        121.381152,
+                        24.367739
+                  ]
+            },
+            {
+                  "name": "Badounuofushan",
+                  "text": "A Badounuofushan egy zord hegycsúcs, amely kihívást jelentő emelkedőket és pazar kilátást kínál a Nanhushan régióra.",
+                  "category": "natural",
+                  "coords": [
+                        121.441461,
+                        24.400605
+                  ]
+            },
+            {
+                  "name": "Futashan",
+                  "text": "A Futashan egy impozáns hegycsúcs, amely a drámai Nanhushan alpesi domborzat látképét határozza meg.",
+                  "category": "natural",
+                  "coords": [
+                        121.459632,
+                        24.414741
+                  ]
+            },
+            {
+                  "name": "Banailiangshan",
+                  "text": "A Banailiangshan egy magas hegycsúcs a Nanhushan térség festői gerincei között.",
+                  "category": "natural",
+                  "coords": [
+                        121.519907,
+                        24.371752
+                  ]
+            },
+            {
+                  "name": "Fudaoshan",
+                  "text": "A Fudaoshan egy hegycsúcs Nanhushan hegyvidéki domborzatában.",
+                  "category": "natural",
+                  "coords": [
+                        121.524348,
+                        24.389113
+                  ]
+            },
+            {
+                  "name": "Badoufushan",
+                  "text": "A Badoufushan egy kiemelkedő hegycsúcs a Nanhushan régióban.",
+                  "category": "natural",
+                  "coords": [
+                        121.438773,
+                        24.391794
+                  ]
+            },
+            {
+                  "name": "Nanhubeishan",
+                  "text": "A Nanhubeishan egy jól ismert csúcs, amely a Nanhushan hegyvidéki táj része.",
+                  "category": "natural",
+                  "coords": [
+                        121.437256,
+                        24.38367
+                  ]
+            },
+            {
+                  "name": "Nanhudashanbeifeng",
+                  "text": "A Nanhudashanbeifeng a Nanhushan fő masszívumának északi csúcsa.",
+                  "category": "natural",
+                  "coords": [
+                        121.441712,
+                        24.374006
+                  ]
+            },
+            {
+                  "name": "Nanhudashan East Peak",
+                  "text": "A Nanhudashan East Peak egy figyelemre méltó keleti kiemelkedés a Nanhushan hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        121.450853,
+                        24.365594
+                  ]
+            },
+            {
+                  "name": "Nanhudashandongbeifeng",
+                  "text": "A Nanhudashandongbeifeng egy északkeleti mellékcsúcsot alkot a kiterjedt Nanhushan tájon.",
+                  "category": "natural",
+                  "coords": [
+                        121.446798,
+                        24.37598
+                  ]
+            },
+            {
+                  "name": "Nanhudashanzhongnanfeng",
+                  "text": "A Nanhudashanzhongnanfeng egy zord hegycsúcs a Nanhushan középső-déli szakaszán.",
+                  "category": "natural",
+                  "coords": [
+                        121.44743,
+                        24.360276
+                  ]
+            },
+            {
+                  "name": "Nanhudashan",
+                  "text": "A Nanhudashan egy kiemelkedő főcsúcs, amely uralja a környező domborzatot.",
+                  "category": "natural",
+                  "coords": [
+                        121.439377,
+                        24.361812
+                  ]
+            },
+            {
+                  "name": "Nanhudashan South Peak",
+                  "text": "A Nanhudashan South Peak a Nanhushan-masszívum magasan fekvő déli csúcsa.",
+                  "category": "natural",
+                  "coords": [
+                        121.43476,
+                        24.347699
+                  ]
+            },
+            {
+                  "name": "Babashan",
+                  "text": "A Babashan egy ismert hegycsúcs a Nanhushan domborzati zóna közepén.",
+                  "category": "natural",
+                  "coords": [
+                        121.437829,
+                        24.342391
+                  ]
+            },
+            {
+                  "name": "Nanhudashandongnanfeng",
+                  "text": "A Nanhudashandongnanfeng egy délkeleti magaslat a Nanhushan hatalmas tájában.",
+                  "category": "natural",
+                  "coords": [
+                        121.464929,
+                        24.355831
+                  ]
+            },
+            {
+                  "name": "Mabishanshan",
+                  "text": "A Mabishanshan kiemelkedő csúcsként magasodik Nanhushan hegyvidéki régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        121.485637,
+                        24.348225
+                  ]
+            },
+            {
+                  "name": "Xijinanshan",
+                  "text": "A Xijinanshan meredek lejtőket kínál a sziklás Nanhushan környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        121.487216,
+                        24.320174
+                  ]
+            },
+            {
+                  "name": "Zhongyangjianshandongfeng",
+                  "text": "A Zhongyangjianshandongfeng egy feltűnő keleti csúcs a Nanhushan-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        121.423602,
+                        24.308174
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zhongyangjianshanxifeng",
+                  "text": "Zhongyangjianshanxifeng este vârful vestic al Lanțului Central, cunoscut pentru profilul său abrupt și zimțat din relieful Nanhushan.",
+                  "category": "natural",
+                  "coords": [
+                        121.404505,
+                        24.308732
+                  ]
+            },
+            {
+                  "name": "Zhongyangjianshan",
+                  "text": "Zhongyangjianshan este un vârf major care domină orizontul regiunii Nanhushan.",
+                  "category": "natural",
+                  "coords": [
+                        121.416266,
+                        24.310224
+                  ]
+            },
+            {
+                  "name": "Xinxieshan",
+                  "text": "Xinxieshan este un vârf alpin falnic care face parte din relieful montan dramatic Nanhushan.",
+                  "category": "natural",
+                  "coords": [
+                        121.38695,
+                        24.320748
+                  ]
+            },
+            {
+                  "name": "11.5k",
+                  "text": "Marcajul de 11,5 km este o atracție pitorească desemnată de-a lungul traseelor montane accidentate ale reliefului Nanhushan.",
+                  "category": "landmark",
+                  "coords": [
+                        121.395004,
+                        24.378341
+                  ]
+            },
+            {
+                  "name": "13.2K",
+                  "text": "Punctul de traseu 13,2K servește ca o atracție populară de odihnă, oferind vederi asupra peisajului Nanhushan.",
+                  "category": "landmark",
+                  "coords": [
+                        121.404138,
+                        24.377935
+                  ]
+            },
+            {
+                  "name": "Shenmazhenshan",
+                  "text": "Shenmazhenshan este un vârf montan proeminent din relieful Nanhushan, cunoscut pentru pajiștile sale alpine întinse.",
+                  "category": "natural",
+                  "coords": [
+                        121.417492,
+                        24.380164
+                  ]
+            },
+            {
+                  "name": "Duojiatunshan",
+                  "text": "Duojiatunshan este un vârf montan acoperit de păduri care se înalță abrupt în terenul alpin Nanhushan.",
+                  "category": "natural",
+                  "coords": [
+                        121.381152,
+                        24.367739
+                  ]
+            },
+            {
+                  "name": "Badounuofushan",
+                  "text": "Badounuofushan este un vârf accidentat care oferă ascensiuni provocatoare și vederi extinse în regiunea Nanhushan.",
+                  "category": "natural",
+                  "coords": [
+                        121.441461,
+                        24.400605
+                  ]
+            },
+            {
+                  "name": "Futashan",
+                  "text": "Futashan este un vârf montan impunător care definește orizontul reliefului alpin dramatic Nanhushan.",
+                  "category": "natural",
+                  "coords": [
+                        121.459632,
+                        24.414741
+                  ]
+            },
+            {
+                  "name": "Banailiangshan",
+                  "text": "Banailiangshan este un vârf montan înalt situat printre crestele pitorești ale zonei Nanhushan.",
+                  "category": "natural",
+                  "coords": [
+                        121.519907,
+                        24.371752
+                  ]
+            },
+            {
+                  "name": "Fudaoshan",
+                  "text": "Fudaoshan este un vârf montan în relieful muntos din Nanhushan.",
+                  "category": "natural",
+                  "coords": [
+                        121.524348,
+                        24.389113
+                  ]
+            },
+            {
+                  "name": "Badoufushan",
+                  "text": "Badoufushan se înalță ca un vârf montan proeminent în regiunea Nanhushan.",
+                  "category": "natural",
+                  "coords": [
+                        121.438773,
+                        24.391794
+                  ]
+            },
+            {
+                  "name": "Nanhubeishan",
+                  "text": "Nanhubeishan este un vârf proeminent care face parte din peisajul montan din Nanhushan.",
+                  "category": "natural",
+                  "coords": [
+                        121.437256,
+                        24.38367
+                  ]
+            },
+            {
+                  "name": "Nanhudashanbeifeng",
+                  "text": "Nanhudashanbeifeng este vârful nordic al masivului principal din Nanhushan.",
+                  "category": "natural",
+                  "coords": [
+                        121.441712,
+                        24.374006
+                  ]
+            },
+            {
+                  "name": "Nanhudashan East Peak",
+                  "text": "Nanhudashan East Peak este o elevație estică notabilă din lanțul muntos Nanhushan.",
+                  "category": "natural",
+                  "coords": [
+                        121.450853,
+                        24.365594
+                  ]
+            },
+            {
+                  "name": "Nanhudashandongbeifeng",
+                  "text": "Nanhudashandongbeifeng formează un vârf secundar nord-estic în peisajul vast din Nanhushan.",
+                  "category": "natural",
+                  "coords": [
+                        121.446798,
+                        24.37598
+                  ]
+            },
+            {
+                  "name": "Nanhudashanzhongnanfeng",
+                  "text": "Nanhudashanzhongnanfeng este un vârf montan stâncos situat în secțiunea central-sudică din Nanhushan.",
+                  "category": "natural",
+                  "coords": [
+                        121.44743,
+                        24.360276
+                  ]
+            },
+            {
+                  "name": "Nanhudashan",
+                  "text": "Nanhudashan este un vârf principal impresionant care domină relieful înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        121.439377,
+                        24.361812
+                  ]
+            },
+            {
+                  "name": "Nanhudashan South Peak",
+                  "text": "Nanhudashan South Peak este vârful sudic înalt al masivului Nanhushan.",
+                  "category": "natural",
+                  "coords": [
+                        121.43476,
+                        24.347699
+                  ]
+            },
+            {
+                  "name": "Babashan",
+                  "text": "Babashan este un vârf montan notabil din mijlocul zonei de relief Nanhushan.",
+                  "category": "natural",
+                  "coords": [
+                        121.437829,
+                        24.342391
+                  ]
+            },
+            {
+                  "name": "Nanhudashandongnanfeng",
+                  "text": "Nanhudashandongnanfeng este o elevație sud-estică în peisajul vast din Nanhushan.",
+                  "category": "natural",
+                  "coords": [
+                        121.464929,
+                        24.355831
+                  ]
+            },
+            {
+                  "name": "Mabishanshan",
+                  "text": "Mabishanshan se înalță ca un vârf proeminent în regiunea muntoasă Nanhushan.",
+                  "category": "natural",
+                  "coords": [
+                        121.485637,
+                        24.348225
+                  ]
+            },
+            {
+                  "name": "Xijinanshan",
+                  "text": "Xijinanshan prezintă versanți abrupți în mediul stâncos din Nanhushan.",
+                  "category": "natural",
+                  "coords": [
+                        121.487216,
+                        24.320174
+                  ]
+            },
+            {
+                  "name": "Zhongyangjianshandongfeng",
+                  "text": "Zhongyangjianshandongfeng este un vârf estic impresionant din munții Nanhushan.",
+                  "category": "natural",
+                  "coords": [
+                        121.423602,
+                        24.308174
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zhongyangjianshanxifeng",
+                  "text": "Zhongyangjianshanxifeng is the western peak of the Central Range, known for its steep, jagged profile in the Nanhushan relief.",
+                  "category": "natural",
+                  "coords": [
+                        121.404505,
+                        24.308732
+                  ]
+            },
+            {
+                  "name": "Zhongyangjianshan",
+                  "text": "Zhongyangjianshan, or Central Range Point Mountain, is a major peak dominating the skyline of the Nanhushan region.",
+                  "category": "natural",
+                  "coords": [
+                        121.416266,
+                        24.310224
+                  ]
+            },
+            {
+                  "name": "Xinxieshan",
+                  "text": "Xinxieshan is a towering alpine peak that forms part of the dramatic Nanhushan mountain relief.",
+                  "category": "natural",
+                  "coords": [
+                        121.38695,
+                        24.320748
+                  ]
+            },
+            {
+                  "name": "11.5k",
+                  "text": "The 11.5k marker is a designated scenic attraction along the rugged mountain trails of the Nanhushan relief.",
+                  "category": "landmark",
+                  "coords": [
+                        121.395004,
+                        24.378341
+                  ]
+            },
+            {
+                  "name": "13.2K",
+                  "text": "The 13.2K trail point serves as a popular resting attraction offering views over the Nanhushan landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        121.404138,
+                        24.377935
+                  ]
+            },
+            {
+                  "name": "Shenmazhenshan",
+                  "text": "Shenmazhenshan is a prominent mountain peak known for its sweeping alpine meadows in the Nanhushan relief.",
+                  "category": "natural",
+                  "coords": [
+                        121.417492,
+                        24.380164
+                  ]
+            },
+            {
+                  "name": "Duojiatunshan",
+                  "text": "Duojiatunshan is a forest-covered mountain peak rising steeply within the alpine Nanhushan terrain.",
+                  "category": "natural",
+                  "coords": [
+                        121.381152,
+                        24.367739
+                  ]
+            },
+            {
+                  "name": "Badounuofushan",
+                  "text": "Badounuofushan is a rugged peak offering challenging ascents and expansive views across the Nanhushan region.",
+                  "category": "natural",
+                  "coords": [
+                        121.441461,
+                        24.400605
+                  ]
+            },
+            {
+                  "name": "Futashan",
+                  "text": "Futashan is an imposing mountain peak defining the skyline of the dramatic Nanhushan alpine relief.",
+                  "category": "natural",
+                  "coords": [
+                        121.459632,
+                        24.414741
+                  ]
+            },
+            {
+                  "name": "Banailiangshan",
+                  "text": "Banailiangshan is an elevated mountain peak located among the scenic ridges of the Nanhushan area.",
+                  "category": "natural",
+                  "coords": [
+                        121.519907,
+                        24.371752
+                  ]
+            },
+            {
+                  "name": "Fudaoshan",
+                  "text": "Fudaoshan is a mountain peak in the rugged relief of Nanhushan.",
+                  "category": "natural",
+                  "coords": [
+                        121.524348,
+                        24.389113
+                  ]
+            },
+            {
+                  "name": "Badoufushan",
+                  "text": "Badoufushan stands out as a prominent mountain peak in the Nanhushan region.",
+                  "category": "natural",
+                  "coords": [
+                        121.438773,
+                        24.391794
+                  ]
+            },
+            {
+                  "name": "Nanhubeishan",
+                  "text": "Nanhubeishan is a noted summit that forms part of the expansive mountainous landscape of Nanhushan.",
+                  "category": "natural",
+                  "coords": [
+                        121.437256,
+                        24.38367
+                  ]
+            },
+            {
+                  "name": "Nanhudashanbeifeng",
+                  "text": "Nanhudashanbeifeng serves as the northern peak of the main Nanhushan massif.",
+                  "category": "natural",
+                  "coords": [
+                        121.441712,
+                        24.374006
+                  ]
+            },
+            {
+                  "name": "Nanhudashan East Peak",
+                  "text": "Nanhudashan East Peak is a notable eastern elevation in the Nanhushan mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        121.450853,
+                        24.365594
+                  ]
+            },
+            {
+                  "name": "Nanhudashandongbeifeng",
+                  "text": "Nanhudashandongbeifeng forms a northeastern sub-peak within the expansive Nanhushan landscape.",
+                  "category": "natural",
+                  "coords": [
+                        121.446798,
+                        24.37598
+                  ]
+            },
+            {
+                  "name": "Nanhudashanzhongnanfeng",
+                  "text": "Nanhudashanzhongnanfeng is a rugged mountain summit situated in the central-southern section of Nanhushan.",
+                  "category": "natural",
+                  "coords": [
+                        121.44743,
+                        24.360276
+                  ]
+            },
+            {
+                  "name": "Nanhudashan",
+                  "text": "Nanhudashan is a prominent main peak that dominates the surrounding relief landscape.",
+                  "category": "natural",
+                  "coords": [
+                        121.439377,
+                        24.361812
+                  ]
+            },
+            {
+                  "name": "Nanhudashan South Peak",
+                  "text": "Nanhudashan South Peak is the towering southern extremity of the Nanhushan massif.",
+                  "category": "natural",
+                  "coords": [
+                        121.43476,
+                        24.347699
+                  ]
+            },
+            {
+                  "name": "Babashan",
+                  "text": "Babashan is a recognized mountain summit located amidst the Nanhushan relief zone.",
+                  "category": "natural",
+                  "coords": [
+                        121.437829,
+                        24.342391
+                  ]
+            },
+            {
+                  "name": "Nanhudashandongnanfeng",
+                  "text": "Nanhudashandongnanfeng serves as a southeastern elevation point within the expansive Nanhushan landscape.",
+                  "category": "natural",
+                  "coords": [
+                        121.464929,
+                        24.355831
+                  ]
+            },
+            {
+                  "name": "Mabishanshan",
+                  "text": "Mabishanshan rises as a prominent peak within the mountainous region of Nanhushan.",
+                  "category": "natural",
+                  "coords": [
+                        121.485637,
+                        24.348225
+                  ]
+            },
+            {
+                  "name": "Xijinanshan",
+                  "text": "Xijinanshan features steep slopes set against the rocky Nanhushan environment.",
+                  "category": "natural",
+                  "coords": [
+                        121.487216,
+                        24.320174
+                  ]
+            },
+            {
+                  "name": "Zhongyangjianshandongfeng",
+                  "text": "Zhongyangjianshandongfeng stands as a striking eastern summit in the Nanhushan mountains.",
+                  "category": "natural",
+                  "coords": [
+                        121.423602,
+                        24.308174
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TW-TXG",
     coords: [121.4344, 24.3619],
@@ -399,7 +4980,412 @@ export const poiExtraTaiwanReliefV2: POI[] = [
     },
   },
   {
-    id: "liji-badlands-relief-v2",
+    id: "liji-badlands-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Small Yellow Mountain Viewpoint",
+                  "text": "Der Aussichtspunkt Small Yellow Mountain bietet weite Ausblicke über die erodierten, schroffen Felsformationen der Badlands.",
+                  "category": "natural",
+                  "coords": [
+                        121.133284,
+                        22.833258
+                  ]
+            },
+            {
+                  "name": "liji badlands",
+                  "text": "Die Liji Badlands weisen eine karge, tief erodierte Schlammsteinlandschaft auf, die durch steile, kahle Kämme gekennzeichnet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        121.138692,
+                        22.814512
+                  ]
+            },
+            {
+                  "name": "Hutoushan",
+                  "text": "Hutoushan ist ein markanter Berggipfel, der anspruchsvolle Pfade bietet, die sich über die umliegenden Badlands erheben.",
+                  "category": "natural",
+                  "coords": [
+                        121.147664,
+                        22.793275
+                  ]
+            },
+            {
+                  "name": "Shitoushan",
+                  "text": "Shitoushan ist ein felsiger Berggipfel, der einen Panoramablick über das erodierte Liji-Terrain bietet.",
+                  "category": "natural",
+                  "coords": [
+                        121.158833,
+                        22.792454
+                  ]
+            },
+            {
+                  "name": "Karoroan / Jialulan",
+                  "text": "Jialulan ist ein Küstenerholungsgebiet, das für seine weitläufigen Rasenflächen und großflächigen Treibholzkunstwerke mit Blick auf das Meer bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        121.197189,
+                        22.807314
+                  ]
+            },
+            {
+                  "name": "Xiao Yeliu",
+                  "text": "Xiao Yeliu ist ein Küstenpark, der einzigartige, von Wellen geformte Sandsteinformationen zeigt, die an Tofu und Pilze erinnern.",
+                  "category": "landmark",
+                  "coords": [
+                        121.196334,
+                        22.796766
+                  ]
+            },
+            {
+                  "name": "View-hill 360 degrees",
+                  "text": "Dieser Aussichtspunkt auf dem Hügel bietet ein unverbautes 360-Grad-Rundumpanorama auf die umliegenden Badlands und die Küste.",
+                  "category": "natural",
+                  "coords": [
+                        121.170059,
+                        22.762308
+                  ]
+            },
+            {
+                  "name": "View",
+                  "text": "Dieser malerische Aussichtspunkt bietet eine weitreichende Perspektive über die tief erodierten Kämme der Liji Badlands.",
+                  "category": "natural",
+                  "coords": [
+                        121.165109,
+                        22.758931
+                  ]
+            },
+            {
+                  "name": "View-tower 360 degrees",
+                  "text": "Dieser erhöhte Aussichtsturm ermöglicht es Besuchern, für einen kompletten 360-Grad-Blick auf die dramatische Küsten- und Badland-Landschaft hinaufzusteigen.",
+                  "category": "natural",
+                  "coords": [
+                        121.116245,
+                        22.8181
+                  ]
+            },
+            {
+                  "name": "Beinan River and background mountains",
+                  "text": "Dieser malerische Ort fängt das fließende Wasser des Flusses Beinan ein, das perfekt von den schroffen Bergen im Hintergrund eingerahmt wird.",
+                  "category": "natural",
+                  "coords": [
+                        121.118748,
+                        22.816891
+                  ]
+            },
+            {
+                  "name": "Taitung Forest Park",
+                  "text": "Dieser weitläufige Park, der wegen seiner dichten Kasuarinenbäume lokal als Schwarzwald bekannt ist, bietet ruhige Seen und schattige Radwege.",
+                  "category": "park",
+                  "coords": [
+                        121.161348,
+                        22.764277
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Small Yellow Mountain Viewpoint",
+                  "text": "A Kis Sárga-hegy kilátó elsöprő kilátást nyújt az erodált, zord badland sziklaalakzatokra.",
+                  "category": "natural",
+                  "coords": [
+                        121.133284,
+                        22.833258
+                  ]
+            },
+            {
+                  "name": "liji badlands",
+                  "text": "A Liji Badlands egy kopár, mélyen erodált iszapkőből álló tájat mutat be, amelyet meredek, kopár gerincek jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        121.138692,
+                        22.814512
+                  ]
+            },
+            {
+                  "name": "Hutoushan",
+                  "text": "A Hutoushan egy kiemelkedő hegycsúcs, amely kihívást jelentő ösvényeket kínál, és a környező badland fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        121.147664,
+                        22.793275
+                  ]
+            },
+            {
+                  "name": "Shitoushan",
+                  "text": "A Shitoushan egy sziklás hegycsúcs, ahonnan panorámás kilátás nyílik az erodált Liji terepre.",
+                  "category": "natural",
+                  "coords": [
+                        121.158833,
+                        22.792454
+                  ]
+            },
+            {
+                  "name": "Karoroan / Jialulan",
+                  "text": "A Jialulan egy tengerparti rekreációs terület, amely hatalmas pázsitjairól és az óceánra néző, nagyméretű uszadékfa művészeti installációiról híres.",
+                  "category": "natural",
+                  "coords": [
+                        121.197189,
+                        22.807314
+                  ]
+            },
+            {
+                  "name": "Xiao Yeliu",
+                  "text": "A Xiao Yeliu egy tengerparti park, amely egyedi, hullámok által faragott homokkő képződményeket mutat be, amelyek tofura és gombára hasonlítanak.",
+                  "category": "landmark",
+                  "coords": [
+                        121.196334,
+                        22.796766
+                  ]
+            },
+            {
+                  "name": "View-hill 360 degrees",
+                  "text": "Ez a dombtetőn lévő kilátó zavartalan, 360 fokos körkörös panorámát kínál a környező erodált vidékre és a partvonalra.",
+                  "category": "natural",
+                  "coords": [
+                        121.170059,
+                        22.762308
+                  ]
+            },
+            {
+                  "name": "View",
+                  "text": "Ez a festői kilátó elsöprő perspektívát nyújt a Liji Badlands mélyen erodált gerinceire.",
+                  "category": "natural",
+                  "coords": [
+                        121.165109,
+                        22.758931
+                  ]
+            },
+            {
+                  "name": "View-tower 360 degrees",
+                  "text": "Ez a magasított megfigyelőtorony lehetővé teszi a látogatók számára, hogy felmásszanak, és teljes, 360 fokos kilátásban gyönyörködjenek a drámai tengerparti és badland tájban.",
+                  "category": "natural",
+                  "coords": [
+                        121.116245,
+                        22.8181
+                  ]
+            },
+            {
+                  "name": "Beinan River and background mountains",
+                  "text": "Ez a festői hely megörökíti a Beinan folyó vizét, amelyet a zord háttérhegyek tökéletesen kereteznek.",
+                  "category": "natural",
+                  "coords": [
+                        121.118748,
+                        22.816891
+                  ]
+            },
+            {
+                  "name": "Taitung Forest Park",
+                  "text": "A sűrű kazuárfái miatt helyi nevén Fekete-erdőként ismert kiterjedt park békés tavakkal és árnyékos kerékpárutakkal rendelkezik.",
+                  "category": "park",
+                  "coords": [
+                        121.161348,
+                        22.764277
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Small Yellow Mountain Viewpoint",
+                  "text": "Punctul de belvedere al Micului Munte Galben oferă priveliști largi asupra formațiunilor stâncoase erodate și accidentate de tip badlands.",
+                  "category": "natural",
+                  "coords": [
+                        121.133284,
+                        22.833258
+                  ]
+            },
+            {
+                  "name": "liji badlands",
+                  "text": "Badlands Liji prezintă un peisaj pustiu din rocă argiloasă profund erodată, caracterizat de creste abrupte și sterile.",
+                  "category": "landmark",
+                  "coords": [
+                        121.138692,
+                        22.814512
+                  ]
+            },
+            {
+                  "name": "Hutoushan",
+                  "text": "Hutoushan este un vârf montan proeminent care oferă trasee dificile, ridicându-se deasupra terenurilor erodate din jur.",
+                  "category": "natural",
+                  "coords": [
+                        121.147664,
+                        22.793275
+                  ]
+            },
+            {
+                  "name": "Shitoushan",
+                  "text": "Shitoushan este un vârf de munte stâncos care oferă vederi panoramice asupra terenului erodat Liji.",
+                  "category": "natural",
+                  "coords": [
+                        121.158833,
+                        22.792454
+                  ]
+            },
+            {
+                  "name": "Karoroan / Jialulan",
+                  "text": "Jialulan este o zonă de recreere de coastă renumită pentru peluzele sale întinse și instalațiile de artă din lemn adus de ape, cu fața la ocean.",
+                  "category": "natural",
+                  "coords": [
+                        121.197189,
+                        22.807314
+                  ]
+            },
+            {
+                  "name": "Xiao Yeliu",
+                  "text": "Xiao Yeliu este un parc de coastă care prezintă formațiuni de gresie unice, sculptate de valuri, care seamănă cu tofu și ciuperci.",
+                  "category": "landmark",
+                  "coords": [
+                        121.196334,
+                        22.796766
+                  ]
+            },
+            {
+                  "name": "View-hill 360 degrees",
+                  "text": "Acest punct de belvedere de pe deal oferă o panoramă circulară neobstrucționată de 360 de grade a terenurilor erodate din jur și a coastei.",
+                  "category": "natural",
+                  "coords": [
+                        121.170059,
+                        22.762308
+                  ]
+            },
+            {
+                  "name": "View",
+                  "text": "Această vedere pitorească oferă o perspectivă largă asupra crestelor profund erodate ale Liji Badlands.",
+                  "category": "natural",
+                  "coords": [
+                        121.165109,
+                        22.758931
+                  ]
+            },
+            {
+                  "name": "View-tower 360 degrees",
+                  "text": "Acest turn de observație înalt permite vizitatorilor să urce pentru o vedere completă, de 360 de grade, asupra peisajului dramatic de coastă și al badlands.",
+                  "category": "natural",
+                  "coords": [
+                        121.116245,
+                        22.8181
+                  ]
+            },
+            {
+                  "name": "Beinan River and background mountains",
+                  "text": "Acest loc pitoresc surprinde apele curgătoare ale râului Beinan încadrate perfect de munții accidentați din fundal.",
+                  "category": "natural",
+                  "coords": [
+                        121.118748,
+                        22.816891
+                  ]
+            },
+            {
+                  "name": "Taitung Forest Park",
+                  "text": "Cunoscut local sub numele de Pădurea Neagră datorită copacilor săi denși de casuarina, acest parc întins are lacuri liniștite și piste de biciclete umbrite.",
+                  "category": "park",
+                  "coords": [
+                        121.161348,
+                        22.764277
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Small Yellow Mountain Viewpoint",
+                  "text": "Small Yellow Mountain Viewpoint provides sweeping vistas over the eroded, rugged badland rock formations.",
+                  "category": "natural",
+                  "coords": [
+                        121.133284,
+                        22.833258
+                  ]
+            },
+            {
+                  "name": "liji badlands",
+                  "text": "The Liji Badlands feature a stark, deeply eroded mudstone landscape characterized by steep, barren ridges.",
+                  "category": "landmark",
+                  "coords": [
+                        121.138692,
+                        22.814512
+                  ]
+            },
+            {
+                  "name": "Hutoushan",
+                  "text": "Hutoushan is a prominent mountain peak offering challenging trails that rise above the surrounding badlands.",
+                  "category": "natural",
+                  "coords": [
+                        121.147664,
+                        22.793275
+                  ]
+            },
+            {
+                  "name": "Shitoushan",
+                  "text": "Shitoushan is a rocky mountain peak that provides panoramic views over the eroded Liji terrain.",
+                  "category": "natural",
+                  "coords": [
+                        121.158833,
+                        22.792454
+                  ]
+            },
+            {
+                  "name": "Karoroan / Jialulan",
+                  "text": "Jialulan is a coastal recreation area renowned for its expansive lawns and large-scale driftwood art installations facing the ocean.",
+                  "category": "natural",
+                  "coords": [
+                        121.197189,
+                        22.807314
+                  ]
+            },
+            {
+                  "name": "Xiao Yeliu",
+                  "text": "Xiao Yeliu is a coastal park showcasing unique, wave-sculpted sandstone formations that resemble tofu and mushrooms.",
+                  "category": "landmark",
+                  "coords": [
+                        121.196334,
+                        22.796766
+                  ]
+            },
+            {
+                  "name": "View-hill 360 degrees",
+                  "text": "This hilltop vantage point offers an unobstructed, 360-degree circular panorama of the surrounding badlands and coastline.",
+                  "category": "natural",
+                  "coords": [
+                        121.170059,
+                        22.762308
+                  ]
+            },
+            {
+                  "name": "View",
+                  "text": "This scenic overlook provides a sweeping perspective over the deeply eroded ridges of the Liji Badlands.",
+                  "category": "natural",
+                  "coords": [
+                        121.165109,
+                        22.758931
+                  ]
+            },
+            {
+                  "name": "View-tower 360 degrees",
+                  "text": "This elevated observation tower allows visitors to climb up for a complete, 360-degree view of the dramatic coastal and badland scenery.",
+                  "category": "natural",
+                  "coords": [
+                        121.116245,
+                        22.8181
+                  ]
+            },
+            {
+                  "name": "Beinan River and background mountains",
+                  "text": "This scenic spot captures the flowing waters of the Beinan River perfectly framed by the rugged background mountains.",
+                  "category": "natural",
+                  "coords": [
+                        121.118748,
+                        22.816891
+                  ]
+            },
+            {
+                  "name": "Taitung Forest Park",
+                  "text": "Known locally as the Black Forest due to its dense beefwood trees, this expansive park features tranquil lakes and shaded cycling paths.",
+                  "category": "park",
+                  "coords": [
+                        121.161348,
+                        22.764277
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "TW-TTT",
     coords: [121.1394, 22.8122],
@@ -443,7 +5429,556 @@ export const poiExtraTaiwanReliefV2: POI[] = [
     },
   },
   {
-    id: "xiuguluanshan-relief-v2",
+    id: "xiuguluanshan-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wushuangshan",
+                  "text": "Der Wushuangshan ist ein isolierter Gipfel mit steilen Klippen in der rauen Gebirgslandschaft der Region Xiuguluanshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.057149,
+                        23.591011
+                  ]
+            },
+            {
+                  "name": "Zhushan",
+                  "text": "Der Zhushan erhebt sich als wuchtige Bergkuppe über den Hochlandpfaden der Bergkette von Xiuguluanshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.082492,
+                        23.590759
+                  ]
+            },
+            {
+                  "name": "Benxiangshan",
+                  "text": "Der felsige Gipfel des Benxiangshan ist Teil der zentralen Gebirgskette nahe dem Massiv des Xiuguluanshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.085731,
+                        23.611404
+                  ]
+            },
+            {
+                  "name": "Benxiangshanxifeng",
+                  "text": "Als westlicher Nebengipfel des Benxiangshan bietet dieser Berg im Xiuguluanshan-Gebiet steile, grasbewachsene Hänge.",
+                  "category": "natural",
+                  "coords": [
+                        121.064818,
+                        23.612919
+                  ]
+            },
+            {
+                  "name": "Malijiananshan",
+                  "text": "Der Malijiananshan in der Region Xiuguluanshan beeindruckt durch seine markanten Felsbänder und eine anspruchsvolle Gratwanderung.",
+                  "category": "natural",
+                  "coords": [
+                        121.117173,
+                        23.521573
+                  ]
+            },
+            {
+                  "name": "Huangdangkuoshanzhongfeng",
+                  "text": "Dieser mittlere Nebengipfel des Huangdangkuoshan im Xiuguluanshan-Relief ist von zwergwüchsigen Kiefern und Berggräsern bewachsen.",
+                  "category": "natural",
+                  "coords": [
+                        121.075399,
+                        23.534089
+                  ]
+            },
+            {
+                  "name": "Huangdangkuoshan",
+                  "text": "Der weite Gipfelkamm des Huangdangkuoshan prägt die hochalpine Skyline in der abgelegenen Xiuguluanshan-Region.",
+                  "category": "natural",
+                  "coords": [
+                        121.068279,
+                        23.546925
+                  ]
+            },
+            {
+                  "name": "Penjushan",
+                  "text": "Der Penjushan ist ein markanter Berg in der Xiuguluanshan-Bergkette, der von steilen Schluchten und dichten Wäldern umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        121.032493,
+                        23.548379
+                  ]
+            },
+            {
+                  "name": "Xiuguluanshan",
+                  "text": "Der Xiuguluanshan ist der höchste Gipfel im zentralen Gebirge Taiwans und zeichnet sich durch extrem raues und zerklüftetes Terrain aus.",
+                  "category": "natural",
+                  "coords": [
+                        121.057457,
+                        23.49685
+                  ]
+            },
+            {
+                  "name": "Mabolasishan",
+                  "text": "Der Mabolasishan ist ein gewaltiger, isolierter Berggipfel in der Xiuguluanshan-Kette, der eine lange und anspruchsvolle Wanderung erfordert.",
+                  "category": "natural",
+                  "coords": [
+                        121.067108,
+                        23.520401
+                  ]
+            },
+            {
+                  "name": "Maliyawenlushan",
+                  "text": "Der Maliyawenlushan erhebt sich mit steilen, grasbewachsenen Hängen über das raue Massiv der Xiuguluanshan-Region.",
+                  "category": "natural",
+                  "coords": [
+                        121.092062,
+                        23.514896
+                  ]
+            },
+            {
+                  "name": "Maliyawenlushanbeifeng",
+                  "text": "Dieser nördliche Vorstoß des Maliyawenlushan im Xiuguluanshan-Gebiet ist oft in dichten Bergnebel gehüllt.",
+                  "category": "natural",
+                  "coords": [
+                        121.094412,
+                        23.518888
+                  ]
+            },
+            {
+                  "name": "Puluoxikuoshan",
+                  "text": "Der Puluoxikuoshan ist ein ausgedehnter Bergkamm, der die hochgelegenen Täler der Xiuguluanshan-Region verbindet.",
+                  "category": "natural",
+                  "coords": [
+                        121.145805,
+                        23.554345
+                  ]
+            },
+            {
+                  "name": "Wumeilangpangshan",
+                  "text": "Der entlegene Gipfel des Wumeilangpangshan im Xiuguluanshan-Gebirge wird von unberührten, dichten Alpenwäldern flankiert.",
+                  "category": "natural",
+                  "coords": [
+                        121.153304,
+                        23.571775
+                  ]
+            },
+            {
+                  "name": "Gongshan",
+                  "text": "Der Gongshan in der Region Xiuguluanshan bietet raue Felsformationen, die steil in die umliegenden Schluchten abfallen.",
+                  "category": "natural",
+                  "coords": [
+                        121.105882,
+                        23.448581
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wushuangshan",
+                  "text": "A Wushuangshan egy elszigetelt, meredek sziklákkal szegélyezett csúcs a Xiuguluanshan régió zord hegyvidéki táján.",
+                  "category": "natural",
+                  "coords": [
+                        121.057149,
+                        23.591011
+                  ]
+            },
+            {
+                  "name": "Zhushan",
+                  "text": "A Zhushan masszív hegykúpként emelkedik a Xiuguluanshan hegyvonulatának magaslati ösvényei fölé.",
+                  "category": "natural",
+                  "coords": [
+                        121.082492,
+                        23.590759
+                  ]
+            },
+            {
+                  "name": "Benxiangshan",
+                  "text": "A Benxiangshan sziklás csúcsa a Központi-hegység része a Xiuguluanshan masszívumának közelében.",
+                  "category": "natural",
+                  "coords": [
+                        121.085731,
+                        23.611404
+                  ]
+            },
+            {
+                  "name": "Benxiangshanxifeng",
+                  "text": "A Benxiangshan nyugati mellékcsúcsaként ez a hegy a Xiuguluanshan térségben meredek, füves lejtőkkel rendelkezik.",
+                  "category": "natural",
+                  "coords": [
+                        121.064818,
+                        23.612919
+                  ]
+            },
+            {
+                  "name": "Malijiananshan",
+                  "text": "A Xiuguluanshan régióban található Malijiananshan jellegzetes sziklasávjaival és kihívást jelentő gerincútjával nyűgözi le a túrázókat.",
+                  "category": "natural",
+                  "coords": [
+                        121.117173,
+                        23.521573
+                  ]
+            },
+            {
+                  "name": "Huangdangkuoshanzhongfeng",
+                  "text": "A Huangdangkuoshan ezen középső mellékcsúcsát a Xiuguluanshan domborzatában törpefenyők és hegyi füvek borítják.",
+                  "category": "natural",
+                  "coords": [
+                        121.075399,
+                        23.534089
+                  ]
+            },
+            {
+                  "name": "Huangdangkuoshan",
+                  "text": "A Huangdangkuoshan széles hegygerince határozza meg a magashegyi sziluettet az elszigetelt Xiuguluanshan régióban.",
+                  "category": "natural",
+                  "coords": [
+                        121.068279,
+                        23.546925
+                  ]
+            },
+            {
+                  "name": "Penjushan",
+                  "text": "A Penjushan egy jellegzetes hegy a Xiuguluanshan hegyvonulatban, amelyet meredek szurdokok és sűrű erdők vesznek körül.",
+                  "category": "natural",
+                  "coords": [
+                        121.032493,
+                        23.548379
+                  ]
+            },
+            {
+                  "name": "Xiuguluanshan",
+                  "text": "A Xiuguluanshan a tajvani Központi-hegység legmagasabb csúcsa, amelyet rendkívül zord és sziklás terep jellemez.",
+                  "category": "natural",
+                  "coords": [
+                        121.057457,
+                        23.49685
+                  ]
+            },
+            {
+                  "name": "Mabolasishan",
+                  "text": "A Mabolasishan egy hatalmas, elszigetelt hegycsúcs a Xiuguluanshan láncolatában, amelynek megmászása hosszú és kihívást jelentő túrát igényel.",
+                  "category": "natural",
+                  "coords": [
+                        121.067108,
+                        23.520401
+                  ]
+            },
+            {
+                  "name": "Maliyawenlushan",
+                  "text": "A Maliyawenlushan meredek, füves lejtőivel emelkedik a Xiuguluanshan régió zord masszívuma fölé.",
+                  "category": "natural",
+                  "coords": [
+                        121.092062,
+                        23.514896
+                  ]
+            },
+            {
+                  "name": "Maliyawenlushanbeifeng",
+                  "text": "A Maliyawenlushan ezen északi nyúlványa a Xiuguluanshan területén gyakran burkolózik sűrű hegyi ködbe.",
+                  "category": "natural",
+                  "coords": [
+                        121.094412,
+                        23.518888
+                  ]
+            },
+            {
+                  "name": "Puluoxikuoshan",
+                  "text": "A Puluoxikuoshan egy kiterjedt hegygerinc, amely a Xiuguluanshan régió magasan fekvő völgyeit köti össze.",
+                  "category": "natural",
+                  "coords": [
+                        121.145805,
+                        23.554345
+                  ]
+            },
+            {
+                  "name": "Wumeilangpangshan",
+                  "text": "A Xiuguluanshan-hegységben található Wumeilangpangshan távoli csúcsát érintetlen, sűrű alpesi erdők szegélyezik.",
+                  "category": "natural",
+                  "coords": [
+                        121.153304,
+                        23.571775
+                  ]
+            },
+            {
+                  "name": "Gongshan",
+                  "text": "A Xiuguluanshan régióban fekvő Gongshan zord sziklaformációkat kínál, amelyek meredeken szakadnak le a környező szurdokokba.",
+                  "category": "natural",
+                  "coords": [
+                        121.105882,
+                        23.448581
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wushuangshan",
+                  "text": "Wushuangshan este un vârf izolat cu stânci abrupte în peisajul montan accidentat al regiunii Xiuguluanshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.057149,
+                        23.591011
+                  ]
+            },
+            {
+                  "name": "Zhushan",
+                  "text": "Zhushan se înalță ca o culme masivă deasupra potecilor înalte din lanțul muntos Xiuguluanshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.082492,
+                        23.590759
+                  ]
+            },
+            {
+                  "name": "Benxiangshan",
+                  "text": "Vârful stâncos Benxiangshan face parte din lanțul muntos central din apropierea masivului Xiuguluanshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.085731,
+                        23.611404
+                  ]
+            },
+            {
+                  "name": "Benxiangshanxifeng",
+                  "text": "Fiind vârful vestic secundar al lui Benxiangshan, acest munte din regiunea Xiuguluanshan are pante abrupte și înierbate.",
+                  "category": "natural",
+                  "coords": [
+                        121.064818,
+                        23.612919
+                  ]
+            },
+            {
+                  "name": "Malijiananshan",
+                  "text": "Malijiananshan din regiunea Xiuguluanshan impresionează prin benzile sale stâncoase proeminente și un traseu de creastă solicitant.",
+                  "category": "natural",
+                  "coords": [
+                        121.117173,
+                        23.521573
+                  ]
+            },
+            {
+                  "name": "Huangdangkuoshanzhongfeng",
+                  "text": "Acest vârf central secundar al lui Huangdangkuoshan din relieful Xiuguluanshan este acoperit de pini pitici și ierburi de munte.",
+                  "category": "natural",
+                  "coords": [
+                        121.075399,
+                        23.534089
+                  ]
+            },
+            {
+                  "name": "Huangdangkuoshan",
+                  "text": "Creasta lată a lui Huangdangkuoshan domină orizontul alpin înalt din regiunea izolată Xiuguluanshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.068279,
+                        23.546925
+                  ]
+            },
+            {
+                  "name": "Penjushan",
+                  "text": "Penjushan este un munte proeminent din lanțul montan Xiuguluanshan, înconjurat de defileuri abrupte și păduri dese.",
+                  "category": "natural",
+                  "coords": [
+                        121.032493,
+                        23.548379
+                  ]
+            },
+            {
+                  "name": "Xiuguluanshan",
+                  "text": "Xiuguluanshan este cel mai înalt vârf din Munții Centrali ai Taiwanului, caracterizat printr-un teren extrem de aspru și accidentat.",
+                  "category": "natural",
+                  "coords": [
+                        121.057457,
+                        23.49685
+                  ]
+            },
+            {
+                  "name": "Mabolasishan",
+                  "text": "Mabolasishan este un vârf montan masiv și izolat din lanțul Xiuguluanshan, a cărui ascensiune necesită o drumeție lungă și dificilă.",
+                  "category": "natural",
+                  "coords": [
+                        121.067108,
+                        23.520401
+                  ]
+            },
+            {
+                  "name": "Maliyawenlushan",
+                  "text": "Maliyawenlushan se înalță cu pante abrupte, acoperite de iarbă, deasupra masivului aspru din regiunea Xiuguluanshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.092062,
+                        23.514896
+                  ]
+            },
+            {
+                  "name": "Maliyawenlushanbeifeng",
+                  "text": "Această extensie nordică a lui Maliyawenlushan din regiunea Xiuguluanshan este adesea învăluită în ceață montană densă.",
+                  "category": "natural",
+                  "coords": [
+                        121.094412,
+                        23.518888
+                  ]
+            },
+            {
+                  "name": "Puluoxikuoshan",
+                  "text": "Puluoxikuoshan este o creastă montană extinsă care conectează văile înalte din regiunea Xiuguluanshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.145805,
+                        23.554345
+                  ]
+            },
+            {
+                  "name": "Wumeilangpangshan",
+                  "text": "Vârful izolat Wumeilangpangshan din munții Xiuguluanshan este flancat de păduri alpine dese și neatinse.",
+                  "category": "natural",
+                  "coords": [
+                        121.153304,
+                        23.571775
+                  ]
+            },
+            {
+                  "name": "Gongshan",
+                  "text": "Gongshan din regiunea Xiuguluanshan prezintă formațiuni stâncoase aspre, care coboară abrupt în defileurile din jur.",
+                  "category": "natural",
+                  "coords": [
+                        121.105882,
+                        23.448581
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wushuangshan",
+                  "text": "Wushuangshan is an isolated peak characterized by steep cliffs within the rugged mountainous terrain of the Xiuguluanshan region.",
+                  "category": "natural",
+                  "coords": [
+                        121.057149,
+                        23.591011
+                  ]
+            },
+            {
+                  "name": "Zhushan",
+                  "text": "Zhushan rises as a massive mountain dome above the high-altitude trails of the Xiuguluanshan mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        121.082492,
+                        23.590759
+                  ]
+            },
+            {
+                  "name": "Benxiangshan",
+                  "text": "The rocky summit of Benxiangshan forms part of the central mountain ridge near the Xiuguluanshan massif.",
+                  "category": "natural",
+                  "coords": [
+                        121.085731,
+                        23.611404
+                  ]
+            },
+            {
+                  "name": "Benxiangshanxifeng",
+                  "text": "Serving as the western sub-peak of Benxiangshan, this mountain in the Xiuguluanshan area features steep, grass-covered slopes.",
+                  "category": "natural",
+                  "coords": [
+                        121.064818,
+                        23.612919
+                  ]
+            },
+            {
+                  "name": "Malijiananshan",
+                  "text": "Malijiananshan in the Xiuguluanshan region is noted for its striking rocky bands and challenging ridgeline approaches.",
+                  "category": "natural",
+                  "coords": [
+                        121.117173,
+                        23.521573
+                  ]
+            },
+            {
+                  "name": "Huangdangkuoshanzhongfeng",
+                  "text": "This middle sub-peak of Huangdangkuoshan in the Xiuguluanshan relief is blanketed by alpine dwarf pines and high-altitude grasses.",
+                  "category": "natural",
+                  "coords": [
+                        121.075399,
+                        23.534089
+                  ]
+            },
+            {
+                  "name": "Huangdangkuoshan",
+                  "text": "The broad summit ridge of Huangdangkuoshan shapes the high alpine skyline in the remote Xiuguluanshan region.",
+                  "category": "natural",
+                  "coords": [
+                        121.068279,
+                        23.546925
+                  ]
+            },
+            {
+                  "name": "Penjushan",
+                  "text": "Penjushan is a distinct mountain within the Xiuguluanshan range, flanked by steep ravines and dense forests.",
+                  "category": "natural",
+                  "coords": [
+                        121.032493,
+                        23.548379
+                  ]
+            },
+            {
+                  "name": "Xiuguluanshan",
+                  "text": "Xiuguluanshan is the highest peak in Taiwan's Central Mountain Range, characterized by its exceptionally rugged and rocky alpine terrain.",
+                  "category": "natural",
+                  "coords": [
+                        121.057457,
+                        23.49685
+                  ]
+            },
+            {
+                  "name": "Mabolasishan",
+                  "text": "Mabolasishan is a massive, isolated mountain peak in the Xiuguluanshan range, requiring a long and demanding multi-day trek to summit.",
+                  "category": "natural",
+                  "coords": [
+                        121.067108,
+                        23.520401
+                  ]
+            },
+            {
+                  "name": "Maliyawenlushan",
+                  "text": "Maliyawenlushan rises with steep, grass-covered slopes above the rugged massif of the Xiuguluanshan region.",
+                  "category": "natural",
+                  "coords": [
+                        121.092062,
+                        23.514896
+                  ]
+            },
+            {
+                  "name": "Maliyawenlushanbeifeng",
+                  "text": "This northern sub-peak of Maliyawenlushan in the Xiuguluanshan area is frequently shrouded in dense, high-altitude mountain fog.",
+                  "category": "natural",
+                  "coords": [
+                        121.094412,
+                        23.518888
+                  ]
+            },
+            {
+                  "name": "Puluoxikuoshan",
+                  "text": "Puluoxikuoshan is an expansive mountain ridge that bridges the high-elevation valleys within the Xiuguluanshan region.",
+                  "category": "natural",
+                  "coords": [
+                        121.145805,
+                        23.554345
+                  ]
+            },
+            {
+                  "name": "Wumeilangpangshan",
+                  "text": "The remote summit of Wumeilangpangshan in the Xiuguluanshan mountains is flanked by pristine, dense alpine forests.",
+                  "category": "natural",
+                  "coords": [
+                        121.153304,
+                        23.571775
+                  ]
+            },
+            {
+                  "name": "Gongshan",
+                  "text": "Gongshan in the Xiuguluanshan region features rugged rock formations that drop steeply into the surrounding ravines.",
+                  "category": "natural",
+                  "coords": [
+                        121.105882,
+                        23.448581
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TW-HUA",
     coords: [121.0664, 23.5303],
@@ -487,7 +6022,628 @@ export const poiExtraTaiwanReliefV2: POI[] = [
     },
   },
   {
-    id: "beidawushan-relief-v2",
+    id: "beidawushan-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Djaniliga",
+                  "text": "Djaniliga ist ein malerischer Aussichtspunkt, der weite Panoramen über die üppigen Täler und schroffen Kämme der umliegenden Region bietet.",
+                  "category": "natural",
+                  "coords": [
+                        120.720549,
+                        22.661365
+                  ]
+            },
+            {
+                  "name": "Old Tsuen Wan",
+                  "text": "Das alte Tsuen Wan ist eine historische Attraktion, die Besuchern einen Einblick in die traditionelle Architektur und das kulturelle Erbe der Region bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        120.714023,
+                        22.668073
+                  ]
+            },
+            {
+                  "name": "Mt. Qiyan",
+                  "text": "Der Berg Qiyan ist ein markanter Gipfel, der an seinem steilen Gelände und den felsigen Formationen zu erkennen ist, die sich über die umliegende Landschaft erheben.",
+                  "category": "natural",
+                  "coords": [
+                        120.73187,
+                        22.671872
+                  ]
+            },
+            {
+                  "name": "Chapuyan",
+                  "text": "Chapuyan ist ein markanter Berggipfel, der anspruchsvolle Aufstiege und weite Ausblicke über die dichten Wälder darunter bietet.",
+                  "category": "natural",
+                  "coords": [
+                        120.786614,
+                        22.66313
+                  ]
+            },
+            {
+                  "name": "Mt. Xiadie'er",
+                  "text": "Der Berg Xiadie'er zeichnet sich durch ein schroffes Hochlandgelände aus und zieht Wanderer an, die seine abgelegenen Pfade und die reiche alpine Artenvielfalt erkunden möchten.",
+                  "category": "natural",
+                  "coords": [
+                        120.761949,
+                        22.703863
+                  ]
+            },
+            {
+                  "name": "Mt. Wutou",
+                  "text": "Der Berg Wutou ist ein markantes Naturdenkmal, das sich durch seine dicht bewaldeten Hänge und steilen Steigungen auszeichnet.",
+                  "category": "natural",
+                  "coords": [
+                        120.786579,
+                        22.693112
+                  ]
+            },
+            {
+                  "name": "Songshan",
+                  "text": "Songshan ist ein imposanter Berggipfel, auf dem Outdoor-Enthusiasten auf schroffen Pfaden inmitten unberührter Natur wandern können.",
+                  "category": "natural",
+                  "coords": [
+                        120.819138,
+                        22.690887
+                  ]
+            },
+            {
+                  "name": "Yushan",
+                  "text": "Yushan ist ein bemerkenswerter Gipfel, der für seine beeindruckende Höhe und die anspruchsvollen Routen, die zu seinem Gipfel führen, bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        120.84109,
+                        22.673885
+                  ]
+            },
+            {
+                  "name": "Doulidoulishan",
+                  "text": "Doulidoulishan ist ein schroffer Berggipfel, der abenteuerlustigen Wanderern steile Anstiege und Panoramablicke auf die umliegenden Täler bietet.",
+                  "category": "natural",
+                  "coords": [
+                        120.82874,
+                        22.637279
+                  ]
+            },
+            {
+                  "name": "Milaolaoshan",
+                  "text": "Milaolaoshan ist ein markanter Gipfel, der sich durch seine steilen Konturen und die üppige Vegetation an seinen Hängen auszeichnet.",
+                  "category": "natural",
+                  "coords": [
+                        120.831928,
+                        22.583728
+                  ]
+            },
+            {
+                  "name": "Beidawushan",
+                  "text": "Beidawushan, oder der nördliche Dawu-Berg, ist ein hoch aufragender Gipfel, der den lokalen Ureinwohnern als heiliger Berg und ambitionierten Kletterern als erstklassiges Ziel dient.",
+                  "category": "natural",
+                  "coords": [
+                        120.761381,
+                        22.627061
+                  ]
+            },
+            {
+                  "name": "Xidawushan",
+                  "text": "Xidawushan ist ein bedeutender Berggipfel in der Region, der über schroffe Pfade verfügt, die sein dicht bewaldetes Gelände durchqueren.",
+                  "category": "natural",
+                  "coords": [
+                        120.725186,
+                        22.618646
+                  ]
+            },
+            {
+                  "name": "Nandawushan",
+                  "text": "Nandawushan ist Teil der majestätischen Dawu-Bergkette und bietet erfahrenen Trekkern abgelegene alpine Umgebungen und weite Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        120.748543,
+                        22.572521
+                  ]
+            },
+            {
+                  "name": "Laisheshan",
+                  "text": "Laisheshan ist ein malerischer Berggipfel, auf dem dichte tropische Vegetation markanten Aussichtspunkten auf den Kämmen weicht.",
+                  "category": "natural",
+                  "coords": [
+                        120.721362,
+                        22.547455
+                  ]
+            },
+            {
+                  "name": "Fangtunshan",
+                  "text": "Fangtunshan ist eine markante Erhebung, die für ihre steilen Felsvorsprünge und die anspruchsvollen Wanderwege, die an ihren Flanken hinaufführen, bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        120.803563,
+                        22.550647
+                  ]
+            },
+            {
+                  "name": "Dawushan Nature Reserve",
+                  "text": "Das 1988 gegründete Dawushan-Naturschutzgebiet ist ein riesiges Schutzgebiet, das zur Erhaltung der unberührten Bergökosysteme und der vielfältigen Tierwelt der Region eingerichtet wurde.",
+                  "category": "natural",
+                  "coords": [
+                        120.844866,
+                        22.597531
+                  ]
+            },
+            {
+                  "name": "Majia Sabbath Church",
+                  "text": "Die Majia Sabbath Church ist ein lokales christliches Heiligtum, das als zentraler Ort der Anbetung und der Gemeindezusammenkunft in der Bergregion dient.",
+                  "category": "landmark",
+                  "coords": [
+                        120.686664,
+                        22.677499
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Djaniliga",
+                  "text": "Djaniliga egy festői kilátópont, amely széles panorámát kínál a környező régió buja völgyeire és zord gerinceire.",
+                  "category": "natural",
+                  "coords": [
+                        120.720549,
+                        22.661365
+                  ]
+            },
+            {
+                  "name": "Old Tsuen Wan",
+                  "text": "Az ókori Tsuen Wan egy történelmi látványosság, amely bepillantást enged a környék hagyományos építészetébe és kulturális örökségébe.",
+                  "category": "landmark",
+                  "coords": [
+                        120.714023,
+                        22.668073
+                  ]
+            },
+            {
+                  "name": "Mt. Qiyan",
+                  "text": "A Qiyan-hegy egy kiemelkedő csúcs, amely meredek terepéről és a környező táj fölé magasodó sziklás formációiról ismerhető fel.",
+                  "category": "natural",
+                  "coords": [
+                        120.73187,
+                        22.671872
+                  ]
+            },
+            {
+                  "name": "Chapuyan",
+                  "text": "Chapuyan egy jellegzetes hegycsúcs, amely kihívást jelentő emelkedőket és pazar kilátást kínál az alatta elterülő sűrű erdőkre.",
+                  "category": "natural",
+                  "coords": [
+                        120.786614,
+                        22.66313
+                  ]
+            },
+            {
+                  "name": "Mt. Xiadie'er",
+                  "text": "A Xiadie'er-hegy zord felvidéki tereppel rendelkezik, amely vonzza a túrázókat, akik alig várják, hogy felfedezzék távoli ösvényeit és gazdag alpesi biológiai sokféleségét.",
+                  "category": "natural",
+                  "coords": [
+                        120.761949,
+                        22.703863
+                  ]
+            },
+            {
+                  "name": "Mt. Wutou",
+                  "text": "A Wutou-hegy kiemelkedő természeti nevezetességként áll, melyet sűrűn erdősített lejtői és meredek emelkedői jellemeznek.",
+                  "category": "natural",
+                  "coords": [
+                        120.786579,
+                        22.693112
+                  ]
+            },
+            {
+                  "name": "Songshan",
+                  "text": "A Songshan egy impozáns hegycsúcs, ahol a szabadtéri szerelmesek érintetlen természeti táj közepette navigálhatnak a zord ösvényeken.",
+                  "category": "natural",
+                  "coords": [
+                        120.819138,
+                        22.690887
+                  ]
+            },
+            {
+                  "name": "Yushan",
+                  "text": "A Yushan egy figyelemre méltó csúcs, amely lenyűgöző magasságáról és a csúcsra vezető kihívást jelentő útvonalairól híres.",
+                  "category": "natural",
+                  "coords": [
+                        120.84109,
+                        22.673885
+                  ]
+            },
+            {
+                  "name": "Doulidoulishan",
+                  "text": "A Doulidoulishan egy zord hegycsúcs, amely meredek mászásokat és panorámás kilátást kínál a kalandvágyó túrázóknak a környező völgyekre.",
+                  "category": "natural",
+                  "coords": [
+                        120.82874,
+                        22.637279
+                  ]
+            },
+            {
+                  "name": "Milaolaoshan",
+                  "text": "A Milaolaoshan egy kiemelkedő csúcs, amelyet meredek kontúrjai és a lejtőit borító buja növényzet különböztet meg.",
+                  "category": "natural",
+                  "coords": [
+                        120.831928,
+                        22.583728
+                  ]
+            },
+            {
+                  "name": "Beidawushan",
+                  "text": "A Beidawushan, vagyis az Északi-Dawu-hegy egy magasba tornyosuló csúcs, amely a helyi őslakosok szent hegyeként és a komoly hegymászók első számú célpontjaként szolgál.",
+                  "category": "natural",
+                  "coords": [
+                        120.761381,
+                        22.627061
+                  ]
+            },
+            {
+                  "name": "Xidawushan",
+                  "text": "A Xidawushan a régió egyik jelentős hegycsúcsa, amelynek zord ösvényei átszelik a sűrűn erdősített terepet.",
+                  "category": "natural",
+                  "coords": [
+                        120.725186,
+                        22.618646
+                  ]
+            },
+            {
+                  "name": "Nandawushan",
+                  "text": "A fenséges Dawu-hegység részét képező Nandawushan távoli alpesi környezetet és pazar kilátást kínál a tapasztalt túrázóknak.",
+                  "category": "natural",
+                  "coords": [
+                        120.748543,
+                        22.572521
+                  ]
+            },
+            {
+                  "name": "Laisheshan",
+                  "text": "A Laisheshan egy festői hegycsúcs, ahol a sűrű trópusi növényzet átadja helyét a gerincen található lenyűgöző kilátópontoknak.",
+                  "category": "natural",
+                  "coords": [
+                        120.721362,
+                        22.547455
+                  ]
+            },
+            {
+                  "name": "Fangtunshan",
+                  "text": "A Fangtunshan egy kiemelkedő magaslat, amely meredek sziklakibúvásairól és a szárnyain felfelé ívelő, kihívást jelentő túraútvonalairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        120.803563,
+                        22.550647
+                  ]
+            },
+            {
+                  "name": "Dawushan Nature Reserve",
+                  "text": "Az 1988-ban alapított Dawushan Természetvédelmi Terület egy hatalmas védett terület, amelyet a régió érintetlen hegyi ökoszisztémáinak és változatos élővilágának megőrzésére hoztak létre.",
+                  "category": "natural",
+                  "coords": [
+                        120.844866,
+                        22.597531
+                  ]
+            },
+            {
+                  "name": "Majia Sabbath Church",
+                  "text": "A Majia Szombat Templom egy helyi keresztény szentély, amely az istentisztelet és a közösségi összejövetelek központi helyszíneként szolgál a hegyvidéki területen.",
+                  "category": "landmark",
+                  "coords": [
+                        120.686664,
+                        22.677499
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Djaniliga",
+                  "text": "Djaniliga este un punct de belvedere pitoresc care oferă panorame ample asupra văilor luxuriante și a crestelor stâncoase din regiunea înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        120.720549,
+                        22.661365
+                  ]
+            },
+            {
+                  "name": "Old Tsuen Wan",
+                  "text": "Vechiul Tsuen Wan este o atracție istorică care oferă vizitatorilor o privire asupra arhitecturii tradiționale și a patrimoniului cultural al zonei.",
+                  "category": "landmark",
+                  "coords": [
+                        120.714023,
+                        22.668073
+                  ]
+            },
+            {
+                  "name": "Mt. Qiyan",
+                  "text": "Muntele Qiyan este un vârf proeminent, recunoscut prin terenul său abrupt și formațiunile stâncoase care se înalță deasupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        120.73187,
+                        22.671872
+                  ]
+            },
+            {
+                  "name": "Chapuyan",
+                  "text": "Chapuyan este un vârf montan distinctiv care oferă ascensiuni provocatoare și priveliști ample asupra pădurilor dese de dedesubt.",
+                  "category": "natural",
+                  "coords": [
+                        120.786614,
+                        22.66313
+                  ]
+            },
+            {
+                  "name": "Mt. Xiadie'er",
+                  "text": "Muntele Xiadie'er prezintă un teren montan accidentat, atrăgând drumeții dornici să exploreze traseele sale îndepărtate și biodiversitatea alpină bogată.",
+                  "category": "natural",
+                  "coords": [
+                        120.761949,
+                        22.703863
+                  ]
+            },
+            {
+                  "name": "Mt. Wutou",
+                  "text": "Muntele Wutou este un punct de reper natural proeminent, caracterizat prin pantele sale puternic împădurite și înclinațiile abrupte.",
+                  "category": "natural",
+                  "coords": [
+                        120.786579,
+                        22.693112
+                  ]
+            },
+            {
+                  "name": "Songshan",
+                  "text": "Songshan este un vârf montan impunător unde pasionații de aer liber pot naviga pe trasee accidentate în mijlocul peisajelor naturale imaculate.",
+                  "category": "natural",
+                  "coords": [
+                        120.819138,
+                        22.690887
+                  ]
+            },
+            {
+                  "name": "Yushan",
+                  "text": "Yushan este un vârf remarcabil, renumit pentru altitudinea sa impresionantă și pentru traseele provocatoare care duc spre vârful său.",
+                  "category": "natural",
+                  "coords": [
+                        120.84109,
+                        22.673885
+                  ]
+            },
+            {
+                  "name": "Doulidoulishan",
+                  "text": "Doulidoulishan este un vârf montan accidentat care oferă drumeților aventuroși urcușuri abrupte și vederi panoramice ale văilor din jur.",
+                  "category": "natural",
+                  "coords": [
+                        120.82874,
+                        22.637279
+                  ]
+            },
+            {
+                  "name": "Milaolaoshan",
+                  "text": "Milaolaoshan este un vârf proeminent distins prin contururile sale abrupte și vegetația luxuriantă care îi acoperă pantele.",
+                  "category": "natural",
+                  "coords": [
+                        120.831928,
+                        22.583728
+                  ]
+            },
+            {
+                  "name": "Beidawushan",
+                  "text": "Beidawushan, sau Muntele Dawu de Nord, este un vârf falnic care servește drept munte sacru pentru populațiile indigene locale și o destinație principală pentru alpiniștii experimentați.",
+                  "category": "natural",
+                  "coords": [
+                        120.761381,
+                        22.627061
+                  ]
+            },
+            {
+                  "name": "Xidawushan",
+                  "text": "Xidawushan este un vârf montan semnificativ din regiune, prezentând trasee accidentate care traversează terenul său dens împădurit.",
+                  "category": "natural",
+                  "coords": [
+                        120.725186,
+                        22.618646
+                  ]
+            },
+            {
+                  "name": "Nandawushan",
+                  "text": "Nandawushan, făcând parte din maiestuosul lanț muntos Dawu, oferă medii alpine îndepărtate și priveliști vaste pentru iubitorii de drumeții experimentați.",
+                  "category": "natural",
+                  "coords": [
+                        120.748543,
+                        22.572521
+                  ]
+            },
+            {
+                  "name": "Laisheshan",
+                  "text": "Laisheshan este un vârf montan pitoresc unde vegetația tropicală densă face loc punctelor de belvedere izbitoare de pe creastă.",
+                  "category": "natural",
+                  "coords": [
+                        120.721362,
+                        22.547455
+                  ]
+            },
+            {
+                  "name": "Fangtunshan",
+                  "text": "Fangtunshan este o altitudine proeminentă recunoscută pentru aflorimentele sale stâncoase abrupte și pentru traseele de drumeție solicitante care îi urcă pe flancuri.",
+                  "category": "natural",
+                  "coords": [
+                        120.803563,
+                        22.550647
+                  ]
+            },
+            {
+                  "name": "Dawushan Nature Reserve",
+                  "text": "Înființată în 1988, Rezervația Naturală Dawushan este o zonă protejată vastă stabilită pentru a conserva ecosistemele montane imaculate și viața sălbatică diversă a regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        120.844866,
+                        22.597531
+                  ]
+            },
+            {
+                  "name": "Majia Sabbath Church",
+                  "text": "Biserica Majia Sabbath este un sanctuar creștin local care servește drept loc central de cult și de adunare a comunității în zona montană.",
+                  "category": "landmark",
+                  "coords": [
+                        120.686664,
+                        22.677499
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Djaniliga",
+                  "text": "Djaniliga is a scenic viewpoint offering sweeping panoramas over the lush valleys and rugged ridges of the surrounding region.",
+                  "category": "natural",
+                  "coords": [
+                        120.720549,
+                        22.661365
+                  ]
+            },
+            {
+                  "name": "Old Tsuen Wan",
+                  "text": "Old Tsuen Wan is a historic attraction that provides visitors with a glimpse into the traditional architecture and cultural heritage of the area.",
+                  "category": "landmark",
+                  "coords": [
+                        120.714023,
+                        22.668073
+                  ]
+            },
+            {
+                  "name": "Mt. Qiyan",
+                  "text": "Mount Qiyan is a prominent peak recognizable by its steep terrain and rocky formations towering above the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        120.73187,
+                        22.671872
+                  ]
+            },
+            {
+                  "name": "Chapuyan",
+                  "text": "Chapuyan is a distinctive mountain peak offering challenging ascents and expansive views over the dense forests below.",
+                  "category": "natural",
+                  "coords": [
+                        120.786614,
+                        22.66313
+                  ]
+            },
+            {
+                  "name": "Mt. Xiadie'er",
+                  "text": "Mount Xiadie'er features rugged highland terrain, attracting hikers eager to explore its remote trails and rich alpine biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        120.761949,
+                        22.703863
+                  ]
+            },
+            {
+                  "name": "Mt. Wutou",
+                  "text": "Mount Wutou stands as a prominent natural landmark, characterized by its heavily forested slopes and steep inclines.",
+                  "category": "natural",
+                  "coords": [
+                        120.786579,
+                        22.693112
+                  ]
+            },
+            {
+                  "name": "Songshan",
+                  "text": "Songshan is an imposing mountain peak where outdoor enthusiasts can navigate rugged trails amidst pristine natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        120.819138,
+                        22.690887
+                  ]
+            },
+            {
+                  "name": "Yushan",
+                  "text": "Yushan is a notable peak renowned for its impressive elevation and the challenging routes that lead to its summit.",
+                  "category": "natural",
+                  "coords": [
+                        120.84109,
+                        22.673885
+                  ]
+            },
+            {
+                  "name": "Doulidoulishan",
+                  "text": "Doulidoulishan is a rugged mountain peak that offers adventurous hikers steep climbs and panoramic views of the surrounding valleys.",
+                  "category": "natural",
+                  "coords": [
+                        120.82874,
+                        22.637279
+                  ]
+            },
+            {
+                  "name": "Milaolaoshan",
+                  "text": "Milaolaoshan is a prominent peak distinguished by its steep contours and the lush vegetation covering its slopes.",
+                  "category": "natural",
+                  "coords": [
+                        120.831928,
+                        22.583728
+                  ]
+            },
+            {
+                  "name": "Beidawushan",
+                  "text": "Beidawushan, or North Dawu Mountain, is a towering peak that serves as a sacred mountain for local indigenous people and a prime destination for serious climbers.",
+                  "category": "natural",
+                  "coords": [
+                        120.761381,
+                        22.627061
+                  ]
+            },
+            {
+                  "name": "Xidawushan",
+                  "text": "Xidawushan is a significant mountain peak in the region, featuring rugged trails that traverse its densely forested terrain.",
+                  "category": "natural",
+                  "coords": [
+                        120.725186,
+                        22.618646
+                  ]
+            },
+            {
+                  "name": "Nandawushan",
+                  "text": "Nandawushan, forming part of the majestic Dawu mountain range, offers remote alpine environments and sweeping vistas for experienced trekkers.",
+                  "category": "natural",
+                  "coords": [
+                        120.748543,
+                        22.572521
+                  ]
+            },
+            {
+                  "name": "Laisheshan",
+                  "text": "Laisheshan is a scenic mountain peak where dense tropical vegetation gives way to striking ridgeline viewpoints.",
+                  "category": "natural",
+                  "coords": [
+                        120.721362,
+                        22.547455
+                  ]
+            },
+            {
+                  "name": "Fangtunshan",
+                  "text": "Fangtunshan is a prominent elevation recognized for its steep rocky outcrops and the challenging hiking trails that ascend its flanks.",
+                  "category": "natural",
+                  "coords": [
+                        120.803563,
+                        22.550647
+                  ]
+            },
+            {
+                  "name": "Dawushan Nature Reserve",
+                  "text": "Founded in 1988, the Dawushan Nature Reserve is a vast protected area established to preserve the region's pristine mountain ecosystems and diverse wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        120.844866,
+                        22.597531
+                  ]
+            },
+            {
+                  "name": "Majia Sabbath Church",
+                  "text": "The Majia Sabbath Church is a local Christian sanctuary that serves as a central place of worship and community gathering in the mountainous area.",
+                  "category": "landmark",
+                  "coords": [
+                        120.686664,
+                        22.677499
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TW-PIF",
     coords: [120.7619, 22.6272],
@@ -531,7 +6687,592 @@ export const poiExtraTaiwanReliefV2: POI[] = [
     },
   },
   {
-    id: "qilaishan-relief-v2",
+    id: "qilaishan-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wujiabengshan",
+                  "text": "Ein schroffer Berggipfel, der einen steilen und anspruchsvollen Teil des hochgelegenen Zentralgebirges bildet.",
+                  "category": "natural",
+                  "coords": [
+                        121.325305,
+                        24.026319
+                  ]
+            },
+            {
+                  "name": "Nanhuashan",
+                  "text": "Ein markanter alpiner Gipfel im Zentralgebirge, berühmt für seine ausgedehnten, weiten Grashänge.",
+                  "category": "natural",
+                  "coords": [
+                        121.285931,
+                        24.039345
+                  ]
+            },
+            {
+                  "name": "Qilaichishan",
+                  "text": "Ein beeindruckender Berggipfel, der bei Wanderern für seine steilen, felsigen Kämme und dramatischen Höhenunterschiede bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        121.323406,
+                        24.100151
+                  ]
+            },
+            {
+                  "name": "Qilaishan North Peak",
+                  "text": "Ein markanter, zerklüfteter Gipfel, der als einer der imposantesten Punkte der Qilai-Bergkette aufragt.",
+                  "category": "natural",
+                  "coords": [
+                        121.334546,
+                        24.118338
+                  ]
+            },
+            {
+                  "name": "Qilaishan",
+                  "text": "Der imposante Hauptgipfel des Qilai-Kamms ist berühmt für seine gefährlichen, wettergegerbten schwarzen Klippen.",
+                  "category": "natural",
+                  "coords": [
+                        121.323263,
+                        24.086458
+                  ]
+            },
+            {
+                  "name": "Tuzhoushan",
+                  "text": "Ein abgelegener Berggipfel, der vollständig von dichtem alpinen Gestrüpp und steilem, weglosem Gelände umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        121.3559,
+                        24.076185
+                  ]
+            },
+            {
+                  "name": "Panshishanxifeng",
+                  "text": "Der westliche Gipfel der Panshi-Berggruppe, der sich durch ein sehr unebenes, felsiges Wandergelände auszeichnet.",
+                  "category": "natural",
+                  "coords": [
+                        121.357832,
+                        24.109929
+                  ]
+            },
+            {
+                  "name": "Panshishanzhongfeng",
+                  "text": "Der zentrale Gipfel des Panshi-Kamms bietet weitreichende, unverborgene alpine Ausblicke auf das Zentralgebirge.",
+                  "category": "natural",
+                  "coords": [
+                        121.370752,
+                        24.104819
+                  ]
+            },
+            {
+                  "name": "Panshishan",
+                  "text": "Ein schroffer Berggipfel, der an den hochalpinen Wanderwegen des anspruchsvollen Zentralgebirges liegt.",
+                  "category": "natural",
+                  "coords": [
+                        121.388268,
+                        24.10471
+                  ]
+            },
+            {
+                  "name": "Tailugedashan",
+                  "text": "Dieser gewaltige Berggipfel bietet weitreichende, atemberaubende Ausblicke über die tiefen Schluchten der Taroko-Region.",
+                  "category": "natural",
+                  "coords": [
+                        121.421001,
+                        24.079071
+                  ]
+            },
+            {
+                  "name": "Tianzhangshan",
+                  "text": "Ein steiler Berggipfel, der sich abrupt über die umliegenden dicht bewachsenen Alpentäler erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        121.369438,
+                        24.052559
+                  ]
+            },
+            {
+                  "name": "Kirai Police Station Ruin",
+                  "text": "Die atmosphärischen Überreste eines historischen Polizeipostens aus der japanischen Ära, hoch oben in den schroffen Bergen gelegen.",
+                  "category": "historical",
+                  "coords": [
+                        121.351062,
+                        24.028228
+                  ]
+            },
+            {
+                  "name": "Dumoushan",
+                  "text": "Ein hoch aufragender Berggipfel, der durch seine karge, isolierte Topographie und anspruchsvollen Zugangsrouten gekennzeichnet ist.",
+                  "category": "natural",
+                  "coords": [
+                        121.386562,
+                        24.148159
+                  ]
+            },
+            {
+                  "name": "Jiabeilishan",
+                  "text": "Ein dicht bewaldeter Berggipfel, versteckt im steilen, welligen Gelände des zentralen Gebirgsmassivs.",
+                  "category": "natural",
+                  "coords": [
+                        121.36578,
+                        24.183669
+                  ]
+            },
+            {
+                  "name": "Pingfengshan",
+                  "text": "Dieser steile Berggipfel bildet eine natürliche, barriereartige Wand in der Alpenlandschaft, was ihm seinen schirmähnlichen Namen einbrachte.",
+                  "category": "natural",
+                  "coords": [
+                        121.343015,
+                        24.149233
+                  ]
+            },
+            {
+                  "name": "Mt Pingfeng South Peak",
+                  "text": "Der südliche Gipfel des Pingfeng-Kamms ist bekannt für seine scharfen Steigungen und gefährlich schmalen Grate.",
+                  "category": "natural",
+                  "coords": [
+                        121.334488,
+                        24.136427
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wujiabengshan",
+                  "text": "Zord hegycsúcs, amely a magaslati központi hegység meredek és kihívást jelentő részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        121.325305,
+                        24.026319
+                  ]
+            },
+            {
+                  "name": "Nanhuashan",
+                  "text": "A Központi-hegység kiemelkedő alpesi csúcsa, amely kiterjedt, füves lejtőiről híres.",
+                  "category": "natural",
+                  "coords": [
+                        121.285931,
+                        24.039345
+                  ]
+            },
+            {
+                  "name": "Qilaichishan",
+                  "text": "Egy parancsoló hegycsúcs, amely a túrázók körében meredek, sziklás gerinceiről és drámai szintkülönbségeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        121.323406,
+                        24.100151
+                  ]
+            },
+            {
+                  "name": "Qilaishan North Peak",
+                  "text": "Egy jellegzetes, sziklás csúcs, amely a Qilai hegylánc egyik legimpozánsabb pontjaként magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        121.334546,
+                        24.118338
+                  ]
+            },
+            {
+                  "name": "Qilaishan",
+                  "text": "A Qilai-gerinc impozáns főcsúcsa veszélyes, időjárás által kikezdett fekete szikláiról híres.",
+                  "category": "natural",
+                  "coords": [
+                        121.323263,
+                        24.086458
+                  ]
+            },
+            {
+                  "name": "Tuzhoushan",
+                  "text": "Távoli hegycsúcs, amelyet sűrű alpesi cserjék és meredek, úttalan terep vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        121.3559,
+                        24.076185
+                  ]
+            },
+            {
+                  "name": "Panshishanxifeng",
+                  "text": "A Panshi hegycsoport nyugati csúcsa, amelyet rendkívül egyenetlen, sziklás túraterep jellemez.",
+                  "category": "natural",
+                  "coords": [
+                        121.357832,
+                        24.109929
+                  ]
+            },
+            {
+                  "name": "Panshishanzhongfeng",
+                  "text": "A Panshi-gerinc középső csúcsa lenyűgöző, akadálytalan alpesi kilátást nyújt a központi hegységre.",
+                  "category": "natural",
+                  "coords": [
+                        121.370752,
+                        24.104819
+                  ]
+            },
+            {
+                  "name": "Panshishan",
+                  "text": "Zord hegycsúcs, amely a kihívást jelentő központi hegység magaslati túraútvonalai mentén található.",
+                  "category": "natural",
+                  "coords": [
+                        121.388268,
+                        24.10471
+                  ]
+            },
+            {
+                  "name": "Tailugedashan",
+                  "text": "Ez a hatalmas hegycsúcs kiterjedt, lélegzetelállító kilátást nyújt a Taroko régió mély kanyonjaira.",
+                  "category": "natural",
+                  "coords": [
+                        121.421001,
+                        24.079071
+                  ]
+            },
+            {
+                  "name": "Tianzhangshan",
+                  "text": "Egy meredek hegycsúcs, amely hirtelen emelkedik a környező sűrű növényzetű alpesi völgyek fölé.",
+                  "category": "natural",
+                  "coords": [
+                        121.369438,
+                        24.052559
+                  ]
+            },
+            {
+                  "name": "Kirai Police Station Ruin",
+                  "text": "Egy történelmi japán kori rendőrségi előőrs hangulatos maradványai magasan a zord hegyekben.",
+                  "category": "historical",
+                  "coords": [
+                        121.351062,
+                        24.028228
+                  ]
+            },
+            {
+                  "name": "Dumoushan",
+                  "text": "Egy magasodó hegycsúcs, amelyet kietlen, elszigetelt domborzata és kihívást jelentő megközelítési útvonalai jellemeznek.",
+                  "category": "natural",
+                  "coords": [
+                        121.386562,
+                        24.148159
+                  ]
+            },
+            {
+                  "name": "Jiabeilishan",
+                  "text": "Egy sűrűn erdősült hegycsúcs, amely a központi hegység meredek, hullámzó terepén bújik meg.",
+                  "category": "natural",
+                  "coords": [
+                        121.36578,
+                        24.183669
+                  ]
+            },
+            {
+                  "name": "Pingfengshan",
+                  "text": "Ez a meredek hegycsúcs egy természetes, gátszerű falat alkot az alpesi tájban, innen ered paravánhoz hasonló neve is.",
+                  "category": "natural",
+                  "coords": [
+                        121.343015,
+                        24.149233
+                  ]
+            },
+            {
+                  "name": "Mt Pingfeng South Peak",
+                  "text": "A Pingfeng-gerinc déli csúcsa éles emelkedőiről és veszélyesen keskeny gerinceiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        121.334488,
+                        24.136427
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wujiabengshan",
+                  "text": "Un vârf de munte accidentat care formează o parte abruptă și provocatoare a lanțului central de mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        121.325305,
+                        24.026319
+                  ]
+            },
+            {
+                  "name": "Nanhuashan",
+                  "text": "Un vârf alpin proeminent din Lanțul Muntos Central, faimos pentru pantele sale ierboase întinse.",
+                  "category": "natural",
+                  "coords": [
+                        121.285931,
+                        24.039345
+                  ]
+            },
+            {
+                  "name": "Qilaichishan",
+                  "text": "Un vârf de munte impunător, cunoscut drumeților pentru crestele sale stâncoase abrupte și schimbările dramatice de altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        121.323406,
+                        24.100151
+                  ]
+            },
+            {
+                  "name": "Qilaishan North Peak",
+                  "text": "Un vârf stâncos și distinctiv care se înalță ca unul dintre cele mai impunătoare puncte din lanțul muntos Qilai.",
+                  "category": "natural",
+                  "coords": [
+                        121.334546,
+                        24.118338
+                  ]
+            },
+            {
+                  "name": "Qilaishan",
+                  "text": "Vârful principal impunător al crestei Qilai este faimos pentru stâncile sale negre, periculoase și bătute de vreme.",
+                  "category": "natural",
+                  "coords": [
+                        121.323263,
+                        24.086458
+                  ]
+            },
+            {
+                  "name": "Tuzhoushan",
+                  "text": "Un vârf de munte izolat, complet înconjurat de desiș alpin și teren abrupt, fără poteci.",
+                  "category": "natural",
+                  "coords": [
+                        121.3559,
+                        24.076185
+                  ]
+            },
+            {
+                  "name": "Panshishanxifeng",
+                  "text": "Vârful vestic al grupului muntos Panshi, cu un teren de drumeție foarte stâncos și accidentat.",
+                  "category": "natural",
+                  "coords": [
+                        121.357832,
+                        24.109929
+                  ]
+            },
+            {
+                  "name": "Panshishanzhongfeng",
+                  "text": "Vârful central al crestei Panshi oferă priveliști alpine neobstrucționate și spectaculoase ale lanțului central.",
+                  "category": "natural",
+                  "coords": [
+                        121.370752,
+                        24.104819
+                  ]
+            },
+            {
+                  "name": "Panshishan",
+                  "text": "Un vârf de munte accidentat, situat de-a lungul traseelor de drumeție de mare altitudine din lanțul central provocator.",
+                  "category": "natural",
+                  "coords": [
+                        121.388268,
+                        24.10471
+                  ]
+            },
+            {
+                  "name": "Tailugedashan",
+                  "text": "Acest vârf masiv de munte oferă priveliști extinse și uluitoare asupra canioanelor adânci ale regiunii Taroko.",
+                  "category": "natural",
+                  "coords": [
+                        121.421001,
+                        24.079071
+                  ]
+            },
+            {
+                  "name": "Tianzhangshan",
+                  "text": "Un vârf de munte abrupt care se înalță brusc deasupra văilor alpine cu vegetație densă din jur.",
+                  "category": "natural",
+                  "coords": [
+                        121.369438,
+                        24.052559
+                  ]
+            },
+            {
+                  "name": "Kirai Police Station Ruin",
+                  "text": "Rămășițele pline de atmosferă ale unui fost post de poliție din era japoneză, situat la mare altitudine în munții accidentați.",
+                  "category": "historical",
+                  "coords": [
+                        121.351062,
+                        24.028228
+                  ]
+            },
+            {
+                  "name": "Dumoushan",
+                  "text": "Un vârf de munte impunător, caracterizat prin topografia sa izolată, aridă și traseele de acces dificile.",
+                  "category": "natural",
+                  "coords": [
+                        121.386562,
+                        24.148159
+                  ]
+            },
+            {
+                  "name": "Jiabeilishan",
+                  "text": "Un vârf de munte dens împădurit, ascuns în terenul abrupt și ondulat al lanțului muntos central.",
+                  "category": "natural",
+                  "coords": [
+                        121.36578,
+                        24.183669
+                  ]
+            },
+            {
+                  "name": "Pingfengshan",
+                  "text": "Acest vârf de munte abrupt formează un zid natural, ca o barieră în peisajul alpin, de unde și numele său ca de paravan.",
+                  "category": "natural",
+                  "coords": [
+                        121.343015,
+                        24.149233
+                  ]
+            },
+            {
+                  "name": "Mt Pingfeng South Peak",
+                  "text": "Vârful sudic al crestei Pingfeng este cunoscut pentru pantele sale ascuțite și crestele înguste și precare.",
+                  "category": "natural",
+                  "coords": [
+                        121.334488,
+                        24.136427
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wujiabengshan",
+                  "text": "A rugged mountain peak forming a steep and challenging part of the high-altitude central range.",
+                  "category": "natural",
+                  "coords": [
+                        121.325305,
+                        24.026319
+                  ]
+            },
+            {
+                  "name": "Nanhuashan",
+                  "text": "A prominent alpine peak in the Central Mountain Range, famous for its expansive, sweeping grassy slopes.",
+                  "category": "natural",
+                  "coords": [
+                        121.285931,
+                        24.039345
+                  ]
+            },
+            {
+                  "name": "Qilaichishan",
+                  "text": "A commanding mountain peak known to hikers for its steep, rocky ridges and dramatic elevation changes.",
+                  "category": "natural",
+                  "coords": [
+                        121.323406,
+                        24.100151
+                  ]
+            },
+            {
+                  "name": "Qilaishan North Peak",
+                  "text": "A distinctive, craggy summit towering as one of the most imposing points in the Qilai mountain chain.",
+                  "category": "natural",
+                  "coords": [
+                        121.334546,
+                        24.118338
+                  ]
+            },
+            {
+                  "name": "Qilaishan",
+                  "text": "The imposing main peak of the Qilai ridge is famous for its dangerous, weather-beaten black cliffs.",
+                  "category": "natural",
+                  "coords": [
+                        121.323263,
+                        24.086458
+                  ]
+            },
+            {
+                  "name": "Tuzhoushan",
+                  "text": "A remote mountain summit entirely surrounded by dense alpine scrub and steep, trackless terrain.",
+                  "category": "natural",
+                  "coords": [
+                        121.3559,
+                        24.076185
+                  ]
+            },
+            {
+                  "name": "Panshishanxifeng",
+                  "text": "The western peak of the Panshi mountain group, featuring a highly uneven, rocky hiking terrain.",
+                  "category": "natural",
+                  "coords": [
+                        121.357832,
+                        24.109929
+                  ]
+            },
+            {
+                  "name": "Panshishanzhongfeng",
+                  "text": "The central summit of the Panshi ridge offers sweeping, unobstructed alpine vistas of the central range.",
+                  "category": "natural",
+                  "coords": [
+                        121.370752,
+                        24.104819
+                  ]
+            },
+            {
+                  "name": "Panshishan",
+                  "text": "A rugged mountain peak situated along the high-altitude hiking trails of the challenging central range.",
+                  "category": "natural",
+                  "coords": [
+                        121.388268,
+                        24.10471
+                  ]
+            },
+            {
+                  "name": "Tailugedashan",
+                  "text": "This massive mountain peak commands extensive, breathtaking views over the deep canyons of the Taroko region.",
+                  "category": "natural",
+                  "coords": [
+                        121.421001,
+                        24.079071
+                  ]
+            },
+            {
+                  "name": "Tianzhangshan",
+                  "text": "A steep mountain summit that rises abruptly above the surrounding densely vegetated alpine valleys.",
+                  "category": "natural",
+                  "coords": [
+                        121.369438,
+                        24.052559
+                  ]
+            },
+            {
+                  "name": "Kirai Police Station Ruin",
+                  "text": "The atmospheric remains of a historic Japanese-era police outpost located high up in the rugged mountains.",
+                  "category": "historical",
+                  "coords": [
+                        121.351062,
+                        24.028228
+                  ]
+            },
+            {
+                  "name": "Dumoushan",
+                  "text": "A towering mountain peak characterized by its stark, isolated topography and challenging approach routes.",
+                  "category": "natural",
+                  "coords": [
+                        121.386562,
+                        24.148159
+                  ]
+            },
+            {
+                  "name": "Jiabeilishan",
+                  "text": "A densely forested mountain peak tucked into the steep, undulating terrain of the central mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        121.36578,
+                        24.183669
+                  ]
+            },
+            {
+                  "name": "Pingfengshan",
+                  "text": "This steep mountain peak forms a natural, barrier-like wall in the alpine landscape, hence its screen-like name.",
+                  "category": "natural",
+                  "coords": [
+                        121.343015,
+                        24.149233
+                  ]
+            },
+            {
+                  "name": "Mt Pingfeng South Peak",
+                  "text": "The southern summit of the Pingfeng ridge is known for its sharp inclines and precarious narrow ridges.",
+                  "category": "natural",
+                  "coords": [
+                        121.334488,
+                        24.136427
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TW-HUA",
     coords: [121.3289, 24.1089],
@@ -575,7 +7316,592 @@ export const poiExtraTaiwanReliefV2: POI[] = [
     },
   },
   {
-    id: "guanshan-relief-v2",
+    id: "guanshan-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Xiangyang Great Wall",
+                  "text": "Die Xiangyang Great Wall ist eine massive und dramatische Erdrutsch-Felswand entlang der rauen Southern Cross-Island Highway.",
+                  "category": "landmark",
+                  "coords": [
+                        120.983006,
+                        23.278496
+                  ]
+            },
+            {
+                  "name": "Xiangyangshan",
+                  "text": "Xiangyangshan ist ein markanter 3.602 Meter hoher Gipfel in der zentralen Gebirgskette, der für seine atemberaubenden Sonnenaufgänge und steilen Klippen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        120.992447,
+                        23.284361
+                  ]
+            },
+            {
+                  "name": "Duoweilanshan",
+                  "text": "Duoweilanshan ist ein isolierter Berggipfel, der anspruchsvolle Wanderwege durch die dichten alpinen Wälder des Guanshan-Reliefgebiets bietet.",
+                  "category": "natural",
+                  "coords": [
+                        120.936306,
+                        23.319887
+                  ]
+            },
+            {
+                  "name": "Tiebenshan",
+                  "text": "Tiebenshan ist ein steil bewaldeter Berggipfel in den abgelegenen Hochlandketten um Guanshan.",
+                  "category": "natural",
+                  "coords": [
+                        120.866404,
+                        23.229003
+                  ]
+            },
+            {
+                  "name": "Wufudongshan",
+                  "text": "Wufudongshan ist ein hoch aufragender Gipfel, der das raue und anspruchsvolle Gelände des Guanshan-Reliefgebiets prägt.",
+                  "category": "natural",
+                  "coords": [
+                        120.83802,
+                        23.248721
+                  ]
+            },
+            {
+                  "name": "Mamayudunshan",
+                  "text": "Mamayudunshan ist ein malerischer Berggipfel, der von steilen Kämmen und üppiger Hochlandvegetation in der Region Guanshan umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        120.854704,
+                        23.281606
+                  ]
+            },
+            {
+                  "name": "Laonongshan",
+                  "text": "Laonongshan ist ein imposanter Alpengipfel, der die oberen Wassereinzugsgebiete der Guanshan-Relieflandschaft dominiert.",
+                  "category": "natural",
+                  "coords": [
+                        120.866387,
+                        23.31316
+                  ]
+            },
+            {
+                  "name": "Taguanshan",
+                  "text": "Taguanshan ist ein bekannter Hochgebirgsgipfel, der für seine steilen Pfade und den weiten Blick über das Zentralgebirge bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        120.941245,
+                        23.25194
+                  ]
+            },
+            {
+                  "name": "The Daguan Police Station",
+                  "text": "Die Ruinen der Daguan-Polizeistation bieten einen Einblick in die historischen Hochland-Verwaltungsstrukturen der Guanshan-Region.",
+                  "category": "historical",
+                  "coords": [
+                        120.938034,
+                        23.26321
+                  ]
+            },
+            {
+                  "name": "Guanshanlingshan",
+                  "text": "Guanshanlingshan ist ein majestätischer, 3.176 Meter hoher Gipfel, der als einer der \"Top 100 Gipfel Taiwans\" gilt und über den Southern Cross-Island Highway erreichbar ist.",
+                  "category": "natural",
+                  "coords": [
+                        120.959482,
+                        23.270994
+                  ]
+            },
+            {
+                  "name": "Guanshan",
+                  "text": "Guanshan ist ein gewaltiger, pyramidenförmiger Gipfel auf 3.668 Metern Höhe, der als einer der höchsten und anspruchsvollsten Berge im südlichen Taiwan verehrt wird.",
+                  "category": "natural",
+                  "coords": [
+                        120.911744,
+                        23.228183
+                  ]
+            },
+            {
+                  "name": "Hainuonanshan",
+                  "text": "Hainuonanshan ist ein bedeutender hochgelegener Gipfel, der Teil der anspruchsvollen Kammlinien ist, die sich vom Guanshan-Massiv erstrecken.",
+                  "category": "natural",
+                  "coords": [
+                        120.911297,
+                        23.185528
+                  ]
+            },
+            {
+                  "name": "Shichangshan",
+                  "text": "Shichangshan ist ein rauer Berggipfel, der ein karges, bewaldetes Profil innerhalb des hochgelegenen Guanshan-Reliefs aufweist.",
+                  "category": "natural",
+                  "coords": [
+                        120.924669,
+                        23.161282
+                  ]
+            },
+            {
+                  "name": "Xiaoguanshanbeifeng",
+                  "text": "Xiaoguanshanbeifeng ist der markante Nordgipfel der Xiaoguanshan-Gruppe, der durch seine scharfen Klippen und seine Hochlandflora gekennzeichnet ist.",
+                  "category": "natural",
+                  "coords": [
+                        120.895426,
+                        23.161629
+                  ]
+            },
+            {
+                  "name": "Silabakushan",
+                  "text": "Silabakushan ist ein hochgelegener Gipfel, der stark von alpinen Wäldern bedeckt ist und majestätisch in der Hochlandregion Guanshan steht.",
+                  "category": "natural",
+                  "coords": [
+                        120.847715,
+                        23.179381
+                  ]
+            },
+            {
+                  "name": "Fuxing Hot Spring",
+                  "text": "Die Fuxing Hot Spring ist ein natürliches Geothermalbad, das tief in den gebirgigen Flusstälern der Region Guanshan liegt.",
+                  "category": "natural",
+                  "coords": [
+                        120.842146,
+                        23.214693
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Xiangyang Great Wall",
+                  "text": "A Xiangyang Nagy Fal egy hatalmas és drámai hegyi földcsuszamlás sziklafala a zord Déli Szigetközi Autópálya mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        120.983006,
+                        23.278496
+                  ]
+            },
+            {
+                  "name": "Xiangyangshan",
+                  "text": "A Xiangyangshan a Központi-hegység egyik kiemelkedő, 3602 méteres csúcsa, amely lélegzetelállító napfelkeltéiről és meredek szikláiról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        120.992447,
+                        23.284361
+                  ]
+            },
+            {
+                  "name": "Duoweilanshan",
+                  "text": "A Duoweilanshan egy elszigetelt hegycsúcs, amely megerőltető túraútvonalakat kínál a Guanshan-domborzat sűrű alpesi erdein keresztül.",
+                  "category": "natural",
+                  "coords": [
+                        120.936306,
+                        23.319887
+                  ]
+            },
+            {
+                  "name": "Tiebenshan",
+                  "text": "A Tiebenshan egy meredek erdős hegycsúcs a Guanshan körüli távoli felvidéki vonulatokban.",
+                  "category": "natural",
+                  "coords": [
+                        120.866404,
+                        23.229003
+                  ]
+            },
+            {
+                  "name": "Wufudongshan",
+                  "text": "A Wufudongshan egy magaslati hegycsúcs, amely a Guanshan-domborzat zord és kihívást jelentő terepét jellemzi.",
+                  "category": "natural",
+                  "coords": [
+                        120.83802,
+                        23.248721
+                  ]
+            },
+            {
+                  "name": "Mamayudunshan",
+                  "text": "A Mamayudunshan egy festői hegycsúcs, amelyet meredek gerincek és buja felvidéki növényzet vesz körül a Guanshan régióban.",
+                  "category": "natural",
+                  "coords": [
+                        120.854704,
+                        23.281606
+                  ]
+            },
+            {
+                  "name": "Laonongshan",
+                  "text": "A Laonongshan egy impozáns alpesi csúcs, amely a Guanshan-domborzat felső vízgyűjtő területeit uralja.",
+                  "category": "natural",
+                  "coords": [
+                        120.866387,
+                        23.31316
+                  ]
+            },
+            {
+                  "name": "Taguanshan",
+                  "text": "A Taguanshan egy jól ismert magashegységi csúcs, amely meredek ösvényeiről és a Központi-hegységre nyíló pazar kilátásáról nevezetes.",
+                  "category": "natural",
+                  "coords": [
+                        120.941245,
+                        23.25194
+                  ]
+            },
+            {
+                  "name": "The Daguan Police Station",
+                  "text": "A daguani rendőrőrs romjai bepillantást engednek a guanshani térség történelmi hegyvidéki közigazgatási struktúráiba.",
+                  "category": "historical",
+                  "coords": [
+                        120.938034,
+                        23.26321
+                  ]
+            },
+            {
+                  "name": "Guanshanlingshan",
+                  "text": "A Guanshanlingshan egy fenséges, 3176 méteres csúcs, amely Tajvan 100 legjobb csúcsának egyikeként ismert, és a Déli Szigetközi Autópályáról közelíthető meg.",
+                  "category": "natural",
+                  "coords": [
+                        120.959482,
+                        23.270994
+                  ]
+            },
+            {
+                  "name": "Guanshan",
+                  "text": "A Guanshan egy hatalmas, piramis alakú, 3668 méteres csúcs, amelyet Dél-Tajvan egyik legmagasabb és legnagyobb kihívást jelentő hegyeként tartanak számon.",
+                  "category": "natural",
+                  "coords": [
+                        120.911744,
+                        23.228183
+                  ]
+            },
+            {
+                  "name": "Hainuonanshan",
+                  "text": "A Hainuonanshan egy jelentős magaslati csúcs, amely a Guanshan-masszívumból kinyúló, kihívást jelentő gerincvonalak részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        120.911297,
+                        23.185528
+                  ]
+            },
+            {
+                  "name": "Shichangshan",
+                  "text": "A Shichangshan egy zord hegycsúcs, amely egy meredek, erdős profilt mutat be a magaslati Guanshan-domborzaton belül.",
+                  "category": "natural",
+                  "coords": [
+                        120.924669,
+                        23.161282
+                  ]
+            },
+            {
+                  "name": "Xiaoguanshanbeifeng",
+                  "text": "A Xiaoguanshanbeifeng a Xiaoguanshan-csoport kiemelkedő északi csúcsa, amelyet éles sziklái és felvidéki flórája jellemez.",
+                  "category": "natural",
+                  "coords": [
+                        120.895426,
+                        23.161629
+                  ]
+            },
+            {
+                  "name": "Silabakushan",
+                  "text": "A Silabakushan egy alpesi erdőkkel sűrűn borított magas csúcs, amely fenségesen áll a guanshani felvidéki régióban.",
+                  "category": "natural",
+                  "coords": [
+                        120.847715,
+                        23.179381
+                  ]
+            },
+            {
+                  "name": "Fuxing Hot Spring",
+                  "text": "A Fuxing hőforrás egy természetes geotermikus fürdő, amely a Guanshan térség hegyvidéki folyóvölgyeinek mélyén fészkel.",
+                  "category": "natural",
+                  "coords": [
+                        120.842146,
+                        23.214693
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Xiangyang Great Wall",
+                  "text": "Marele Zid Xiangyang este o față de stâncă masivă și dramatică rezultată dintr-o alunecare de teren, situată de-a lungul autostrăzii aspre Southern Cross-Island.",
+                  "category": "landmark",
+                  "coords": [
+                        120.983006,
+                        23.278496
+                  ]
+            },
+            {
+                  "name": "Xiangyangshan",
+                  "text": "Xiangyangshan este un vârf proeminent de 3.602 metri din Lanțul Muntos Central, cunoscut pentru priveliștile uluitoare la răsărit și stâncile abrupte.",
+                  "category": "natural",
+                  "coords": [
+                        120.992447,
+                        23.284361
+                  ]
+            },
+            {
+                  "name": "Duoweilanshan",
+                  "text": "Duoweilanshan este un vârf muntos izolat care oferă trasee de drumeție solicitante prin pădurile alpine dese din zona de relief Guanshan.",
+                  "category": "natural",
+                  "coords": [
+                        120.936306,
+                        23.319887
+                  ]
+            },
+            {
+                  "name": "Tiebenshan",
+                  "text": "Tiebenshan este un vârf muntos împădurit abrupt situat în lanțurile muntoase izolate din jurul zonei Guanshan.",
+                  "category": "natural",
+                  "coords": [
+                        120.866404,
+                        23.229003
+                  ]
+            },
+            {
+                  "name": "Wufudongshan",
+                  "text": "Wufudongshan este un vârf impunător de mare altitudine care caracterizează terenul accidentat și provocator al zonei de relief Guanshan.",
+                  "category": "natural",
+                  "coords": [
+                        120.83802,
+                        23.248721
+                  ]
+            },
+            {
+                  "name": "Mamayudunshan",
+                  "text": "Mamayudunshan este un vârf muntos pitoresc înconjurat de creste abrupte și de vegetație luxuriantă de munte în regiunea Guanshan.",
+                  "category": "natural",
+                  "coords": [
+                        120.854704,
+                        23.281606
+                  ]
+            },
+            {
+                  "name": "Laonongshan",
+                  "text": "Laonongshan este un vârf alpin impunător care domină bazinele hidrografice superioare ale peisajului de relief Guanshan.",
+                  "category": "natural",
+                  "coords": [
+                        120.866387,
+                        23.31316
+                  ]
+            },
+            {
+                  "name": "Taguanshan",
+                  "text": "Taguanshan este un vârf muntos înalt proeminent, cunoscut pentru traseele sale abrupte și priveliștile ample asupra Lanțului Muntos Central.",
+                  "category": "natural",
+                  "coords": [
+                        120.941245,
+                        23.25194
+                  ]
+            },
+            {
+                  "name": "The Daguan Police Station",
+                  "text": "Ruinele secției de poliție Daguan oferă o privire asupra structurilor administrative istorice din zonele muntoase ale regiunii Guanshan.",
+                  "category": "historical",
+                  "coords": [
+                        120.938034,
+                        23.26321
+                  ]
+            },
+            {
+                  "name": "Guanshanlingshan",
+                  "text": "Guanshanlingshan este un vârf maiestuos de 3.176 metri, recunoscut drept unul dintre „Top 100 vârfuri din Taiwan”, accesibil de pe autostrada Southern Cross-Island.",
+                  "category": "natural",
+                  "coords": [
+                        120.959482,
+                        23.270994
+                  ]
+            },
+            {
+                  "name": "Guanshan",
+                  "text": "Guanshan este un vârf masiv în formă de piramidă, situat la 3.668 de metri, venerat ca unul dintre cei mai înalți și provocatori munți din sudul Taiwanului.",
+                  "category": "natural",
+                  "coords": [
+                        120.911744,
+                        23.228183
+                  ]
+            },
+            {
+                  "name": "Hainuonanshan",
+                  "text": "Hainuonanshan este un vârf semnificativ de mare altitudine care face parte din liniile de creastă provocatoare ce se întind din masivul Guanshan.",
+                  "category": "natural",
+                  "coords": [
+                        120.911297,
+                        23.185528
+                  ]
+            },
+            {
+                  "name": "Shichangshan",
+                  "text": "Shichangshan este un vârf muntos accidentat care prezintă un profil forestier aspru în cadrul reliefului înalt din Guanshan.",
+                  "category": "natural",
+                  "coords": [
+                        120.924669,
+                        23.161282
+                  ]
+            },
+            {
+                  "name": "Xiaoguanshanbeifeng",
+                  "text": "Xiaoguanshanbeifeng este vârful nordic proeminent al grupului Xiaoguanshan, caracterizat prin stâncile sale ascuțite și flora montană.",
+                  "category": "natural",
+                  "coords": [
+                        120.895426,
+                        23.161629
+                  ]
+            },
+            {
+                  "name": "Silabakushan",
+                  "text": "Silabakushan este un vârf înalt acoperit dens de păduri alpine, stând maiestuos în regiunea muntoasă Guanshan.",
+                  "category": "natural",
+                  "coords": [
+                        120.847715,
+                        23.179381
+                  ]
+            },
+            {
+                  "name": "Fuxing Hot Spring",
+                  "text": "Izvorul termal Fuxing este o baie geotermală naturală situată adânc în văile muntoase ale râurilor din zona Guanshan.",
+                  "category": "natural",
+                  "coords": [
+                        120.842146,
+                        23.214693
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Xiangyang Great Wall",
+                  "text": "The Xiangyang Great Wall is a massive and dramatic mountain landslide cliff face situated along the rugged Southern Cross-Island Highway.",
+                  "category": "landmark",
+                  "coords": [
+                        120.983006,
+                        23.278496
+                  ]
+            },
+            {
+                  "name": "Xiangyangshan",
+                  "text": "Xiangyangshan is a prominent 3,602-metre peak in the Central Mountain Range known for its breathtaking sunrise views and steep cliffs.",
+                  "category": "natural",
+                  "coords": [
+                        120.992447,
+                        23.284361
+                  ]
+            },
+            {
+                  "name": "Duoweilanshan",
+                  "text": "Duoweilanshan is an isolated mountain peak offering demanding trekking paths through the dense alpine forests of the Guanshan relief area.",
+                  "category": "natural",
+                  "coords": [
+                        120.936306,
+                        23.319887
+                  ]
+            },
+            {
+                  "name": "Tiebenshan",
+                  "text": "Tiebenshan is a steeply forested mountain peak situated in the remote highland ranges around Guanshan.",
+                  "category": "natural",
+                  "coords": [
+                        120.866404,
+                        23.229003
+                  ]
+            },
+            {
+                  "name": "Wufudongshan",
+                  "text": "Wufudongshan is a towering high-altitude peak characterizing the rugged and challenging terrain of the Guanshan relief area.",
+                  "category": "natural",
+                  "coords": [
+                        120.83802,
+                        23.248721
+                  ]
+            },
+            {
+                  "name": "Mamayudunshan",
+                  "text": "Mamayudunshan is a scenic mountain peak surrounded by steep ridges and lush highland vegetation in the Guanshan region.",
+                  "category": "natural",
+                  "coords": [
+                        120.854704,
+                        23.281606
+                  ]
+            },
+            {
+                  "name": "Laonongshan",
+                  "text": "Laonongshan is an imposing alpine peak dominating the upper watersheds of the Guanshan relief landscape.",
+                  "category": "natural",
+                  "coords": [
+                        120.866387,
+                        23.31316
+                  ]
+            },
+            {
+                  "name": "Taguanshan",
+                  "text": "Taguanshan is a prominent high-mountain peak known for its steep trails and sweeping views of the Central Mountain Range.",
+                  "category": "natural",
+                  "coords": [
+                        120.941245,
+                        23.25194
+                  ]
+            },
+            {
+                  "name": "The Daguan Police Station",
+                  "text": "The ruins of the Daguan Police Station offer a glimpse into the historic highland administration structures of the Guanshan area.",
+                  "category": "historical",
+                  "coords": [
+                        120.938034,
+                        23.26321
+                  ]
+            },
+            {
+                  "name": "Guanshanlingshan",
+                  "text": "Guanshanlingshan is a majestic 3,176-metre peak recognized as one of the \"Top 100 Peaks of Taiwan\" accessible from the Southern Cross-Island Highway.",
+                  "category": "natural",
+                  "coords": [
+                        120.959482,
+                        23.270994
+                  ]
+            },
+            {
+                  "name": "Guanshan",
+                  "text": "Guanshan is a massive pyramid-shaped peak standing at 3,668 metres, revered as one of the highest and most challenging mountains in southern Taiwan.",
+                  "category": "natural",
+                  "coords": [
+                        120.911744,
+                        23.228183
+                  ]
+            },
+            {
+                  "name": "Hainuonanshan",
+                  "text": "Hainuonanshan is a significant high-altitude peak forming part of the challenging ridge lines stretching out from the Guanshan massif.",
+                  "category": "natural",
+                  "coords": [
+                        120.911297,
+                        23.185528
+                  ]
+            },
+            {
+                  "name": "Shichangshan",
+                  "text": "Shichangshan is a rugged mountain peak that presents a stark, forested profile within the elevated Guanshan relief.",
+                  "category": "natural",
+                  "coords": [
+                        120.924669,
+                        23.161282
+                  ]
+            },
+            {
+                  "name": "Xiaoguanshanbeifeng",
+                  "text": "Xiaoguanshanbeifeng is the prominent northern peak of the Xiaoguanshan cluster, characterized by its sharp cliffs and highland flora.",
+                  "category": "natural",
+                  "coords": [
+                        120.895426,
+                        23.161629
+                  ]
+            },
+            {
+                  "name": "Silabakushan",
+                  "text": "Silabakushan is an elevated peak heavily blanketed by alpine forests, standing majestically within the Guanshan highland region.",
+                  "category": "natural",
+                  "coords": [
+                        120.847715,
+                        23.179381
+                  ]
+            },
+            {
+                  "name": "Fuxing Hot Spring",
+                  "text": "Fuxing Hot Spring is a natural geothermal bath nestled deep in the mountainous river valleys of the Guanshan area.",
+                  "category": "natural",
+                  "coords": [
+                        120.842146,
+                        23.214693
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TW-KHH",
     coords: [120.9083, 23.2428],
@@ -619,7 +7945,340 @@ export const poiExtraTaiwanReliefV2: POI[] = [
     },
   },
   {
-    id: "pintianshan-relief-v2",
+    id: "pintianshan-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Taoshan",
+                  "text": "Der Taoshan ist ein malerischer Berg in der Region Pintianshan, der oft von Wanderern besucht wird.",
+                  "category": "natural",
+                  "coords": [
+                        121.304893,
+                        24.432635
+                  ]
+            },
+            {
+                  "name": "Chryou Shan",
+                  "text": "Der Chryou Shan ist ein markanter Berggipfel, der die Skyline von Pintianshan prägt.",
+                  "category": "natural",
+                  "coords": [
+                        121.288154,
+                        24.431098
+                  ]
+            },
+            {
+                  "name": "Pool famous tree",
+                  "text": "Der berühmte Pool famous tree ist eine einzigartige Naturattraktion in den Wäldern von Pintianshan.",
+                  "category": "landmark",
+                  "coords": [
+                        121.287015,
+                        24.430155
+                  ]
+            },
+            {
+                  "name": "Buxiulanshan",
+                  "text": "Der Buxiulanshan ist ein steiler Berggipfel in den felsigen Erhebungen von Pintianshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.259206,
+                        24.428891
+                  ]
+            },
+            {
+                  "name": "Bashalayunshan",
+                  "text": "Der Bashalayunshan ist ein charakteristischer Gipfel im weitläufigen Bergmassiv von Pintianshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.258124,
+                        24.438695
+                  ]
+            },
+            {
+                  "name": "Pintianshanqianfeng",
+                  "text": "Der Pintianshanqianfeng ist der markante Vorgipfel, der zum Hauptmassiv von Pintianshan führt.",
+                  "category": "natural",
+                  "coords": [
+                        121.269225,
+                        24.427584
+                  ]
+            },
+            {
+                  "name": "Pintianshan",
+                  "text": "Der Pintianshan ist ein bekannter Berggipfel, der durch seine einzigartige, gefaltete Felsstruktur auffällt.",
+                  "category": "natural",
+                  "coords": [
+                        121.266766,
+                        24.4283
+                  ]
+            },
+            {
+                  "name": "Xueshan North Peak",
+                  "text": "Dieser weltweit anerkannte Gipfel bildet einen markanten alpinen Kamm in der Nähe von pintianshan-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.240404,
+                        24.414714
+                  ]
+            },
+            {
+                  "name": "Linzhuanshan",
+                  "text": "Dieser bemerkenswerte Gipfel zeichnet sich durch steile Hänge aus, die in der Region pintianshan-relief-v2 markant ansteigen.",
+                  "category": "natural",
+                  "coords": [
+                        121.225462,
+                        24.420625
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Taoshan",
+                  "text": "A Taoshan egy festői hegy a Pintianshan régióban, amelyet gyakran látogatnak a túrázók.",
+                  "category": "natural",
+                  "coords": [
+                        121.304893,
+                        24.432635
+                  ]
+            },
+            {
+                  "name": "Chryou Shan",
+                  "text": "A Chryou Shan egy kiemelkedő hegycsúcs, amely meghatározza Pintianshan látképét.",
+                  "category": "natural",
+                  "coords": [
+                        121.288154,
+                        24.431098
+                  ]
+            },
+            {
+                  "name": "Pool famous tree",
+                  "text": "A Pool famous tree egyedülálló természeti látványosság Pintianshan erdeiben.",
+                  "category": "landmark",
+                  "coords": [
+                        121.287015,
+                        24.430155
+                  ]
+            },
+            {
+                  "name": "Buxiulanshan",
+                  "text": "A Buxiulanshan egy meredek hegycsúcs a Pintianshan sziklás magaslatain.",
+                  "category": "natural",
+                  "coords": [
+                        121.259206,
+                        24.428891
+                  ]
+            },
+            {
+                  "name": "Bashalayunshan",
+                  "text": "A Bashalayunshan egy jellegzetes csúcs a Pintianshan kiterjedt hegységében.",
+                  "category": "natural",
+                  "coords": [
+                        121.258124,
+                        24.438695
+                  ]
+            },
+            {
+                  "name": "Pintianshanqianfeng",
+                  "text": "A Pintianshanqianfeng az a jellegzetes előcsúcs, amely a Pintianshan fő masszívumához vezet.",
+                  "category": "natural",
+                  "coords": [
+                        121.269225,
+                        24.427584
+                  ]
+            },
+            {
+                  "name": "Pintianshan",
+                  "text": "A Pintianshan egy ismert hegycsúcs, amely egyedülálló, gyűrt sziklaszerkezetével hívja fel magára a figyelmet.",
+                  "category": "natural",
+                  "coords": [
+                        121.266766,
+                        24.4283
+                  ]
+            },
+            {
+                  "name": "Xueshan North Peak",
+                  "text": "Ez a világszerte elismert csúcs drámai alpesi gerincet alkot pintianshan-relief-v2 közelében.",
+                  "category": "natural",
+                  "coords": [
+                        121.240404,
+                        24.414714
+                  ]
+            },
+            {
+                  "name": "Linzhuanshan",
+                  "text": "Ez a figyelemre méltó csúcs meredek lejtőkkel rendelkezik, amelyek feltűnően emelkednek ki a pintianshan-relief-v2 régióban.",
+                  "category": "natural",
+                  "coords": [
+                        121.225462,
+                        24.420625
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Taoshan",
+                  "text": "Taoshan este un munte pitoresc din regiunea Pintianshan, vizitat des de drumeți.",
+                  "category": "natural",
+                  "coords": [
+                        121.304893,
+                        24.432635
+                  ]
+            },
+            {
+                  "name": "Chryou Shan",
+                  "text": "Chryou Shan este un vârf montan impresionant care definește orizontul din Pintianshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.288154,
+                        24.431098
+                  ]
+            },
+            {
+                  "name": "Pool famous tree",
+                  "text": "Pool famous tree este o atracție naturală unică în pădurile din regiunea Pintianshan.",
+                  "category": "landmark",
+                  "coords": [
+                        121.287015,
+                        24.430155
+                  ]
+            },
+            {
+                  "name": "Buxiulanshan",
+                  "text": "Buxiulanshan este un vârf montan abrupt în zonele stâncoase din Pintianshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.259206,
+                        24.428891
+                  ]
+            },
+            {
+                  "name": "Bashalayunshan",
+                  "text": "Bashalayunshan este un vârf caracteristic din masivul muntos extins din Pintianshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.258124,
+                        24.438695
+                  ]
+            },
+            {
+                  "name": "Pintianshanqianfeng",
+                  "text": "Pintianshanqianfeng este vârful anterior impresionant care duce spre masivul principal Pintianshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.269225,
+                        24.427584
+                  ]
+            },
+            {
+                  "name": "Pintianshan",
+                  "text": "Pintianshan este un vârf montan renumit care se remarcă prin structura sa stâncoasă cutată unică.",
+                  "category": "natural",
+                  "coords": [
+                        121.266766,
+                        24.4283
+                  ]
+            },
+            {
+                  "name": "Xueshan North Peak",
+                  "text": "Acest vârf recunoscut la nivel global formează o creastă alpină dramatică lângă pintianshan-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.240404,
+                        24.414714
+                  ]
+            },
+            {
+                  "name": "Linzhuanshan",
+                  "text": "Acest vârf notabil prezintă pante abrupte care se înalță proeminent în regiunea pintianshan-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.225462,
+                        24.420625
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Taoshan",
+                  "text": "Taoshan is a scenic mountain in the Pintianshan region often visited by hikers.",
+                  "category": "natural",
+                  "coords": [
+                        121.304893,
+                        24.432635
+                  ]
+            },
+            {
+                  "name": "Chryou Shan",
+                  "text": "Chryou Shan is a prominent mountain peak that defines the skyline of Pintianshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.288154,
+                        24.431098
+                  ]
+            },
+            {
+                  "name": "Pool famous tree",
+                  "text": "The Pool famous tree is a unique natural attraction found in the forests of Pintianshan.",
+                  "category": "landmark",
+                  "coords": [
+                        121.287015,
+                        24.430155
+                  ]
+            },
+            {
+                  "name": "Buxiulanshan",
+                  "text": "Buxiulanshan is a steep mountain peak among the rocky elevations of Pintianshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.259206,
+                        24.428891
+                  ]
+            },
+            {
+                  "name": "Bashalayunshan",
+                  "text": "Bashalayunshan is a characteristic summit in the extensive mountain massif of Pintianshan.",
+                  "category": "natural",
+                  "coords": [
+                        121.258124,
+                        24.438695
+                  ]
+            },
+            {
+                  "name": "Pintianshanqianfeng",
+                  "text": "Pintianshanqianfeng is the striking fore-peak leading towards the main Pintianshan massif.",
+                  "category": "natural",
+                  "coords": [
+                        121.269225,
+                        24.427584
+                  ]
+            },
+            {
+                  "name": "Pintianshan",
+                  "text": "Pintianshan is a well-known mountain peak noted for its unique folded rock structure.",
+                  "category": "natural",
+                  "coords": [
+                        121.266766,
+                        24.4283
+                  ]
+            },
+            {
+                  "name": "Xueshan North Peak",
+                  "text": "This globally recognized peak forms a dramatic alpine crest near pintianshan-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.240404,
+                        24.414714
+                  ]
+            },
+            {
+                  "name": "Linzhuanshan",
+                  "text": "This notable peak features steep slopes rising prominently in the pintianshan-relief-v2 region.",
+                  "category": "natural",
+                  "coords": [
+                        121.225462,
+                        24.420625
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TW-HSQ",
     coords: [121.2611, 24.4283],
@@ -663,7 +8322,304 @@ export const poiExtraTaiwanReliefV2: POI[] = [
     },
   },
   {
-    id: "taipingshan-relief-v2",
+    id: "taipingshan-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shendaishan",
+                  "text": "Dieser anerkannte Berggipfel verankert die alpine Skyline der Region taipingshan-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.47529,
+                        24.517728
+                  ]
+            },
+            {
+                  "name": "Sanxingshan",
+                  "text": "Dieser markante Gipfel ist in der lokalen Geographie dokumentiert und prägt die hochgelegene Landschaft von taipingshan-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.563952,
+                        24.50919
+                  ]
+            },
+            {
+                  "name": "Wangyangshan",
+                  "text": "Dieser katalogisierte Gipfel steigt steil an und bildet einen bedeutenden Höhepunkt in der Nähe von taipingshan-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.616301,
+                        24.510628
+                  ]
+            },
+            {
+                  "name": "Zaonanshan",
+                  "text": "Dieser markante Berggipfel trägt zur rauen Topografie rund um taipingshan-relief-v2 bei.",
+                  "category": "natural",
+                  "coords": [
+                        121.604814,
+                        24.547692
+                  ]
+            },
+            {
+                  "name": "Guishushan",
+                  "text": "Als bemerkenswertes Merkmal in großer Höhe dominiert dieser Gipfel das Gelände in taipingshan-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.577297,
+                        24.549955
+                  ]
+            },
+            {
+                  "name": "Shizilushan",
+                  "text": "Dieser anerkannte Berggipfel prägt die wilde, aufsteigende Landschaft der Region taipingshan-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.488927,
+                        24.545575
+                  ]
+            },
+            {
+                  "name": "Taipingshan National Forest Recreation Area",
+                  "text": "Dieses berühmte Naturschutzgebiet schützt weitläufige gemäßigte Wälder und bergige Lebensräume in taipingshan-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.577068,
+                        24.520596
+                  ]
+            },
+            {
+                  "name": "spa",
+                  "text": "Diese öffentliche Badeanstalt bietet geothermisch beheizte Entspannungsbecken in der Region taipingshan-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        121.50779,
+                        24.545328
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shendaishan",
+                  "text": "Ez az elismert hegycsúcs rögzíti a taipingshan-relief-v2 régió alpesi látképét.",
+                  "category": "natural",
+                  "coords": [
+                        121.47529,
+                        24.517728
+                  ]
+            },
+            {
+                  "name": "Sanxingshan",
+                  "text": "A helyi földrajzban dokumentált kiemelkedő csúcs formálja a taipingshan-relief-v2 magasan fekvő táját.",
+                  "category": "natural",
+                  "coords": [
+                        121.563952,
+                        24.50919
+                  ]
+            },
+            {
+                  "name": "Wangyangshan",
+                  "text": "Ez a katalogizált csúcs meredeken emelkedik, és egy jelentős magaslatot alkot taipingshan-relief-v2 közelében.",
+                  "category": "natural",
+                  "coords": [
+                        121.616301,
+                        24.510628
+                  ]
+            },
+            {
+                  "name": "Zaonanshan",
+                  "text": "Ez a különleges hegycsúcs hozzájárul a taipingshan-relief-v2 körüli zord topográfiához.",
+                  "category": "natural",
+                  "coords": [
+                        121.604814,
+                        24.547692
+                  ]
+            },
+            {
+                  "name": "Guishushan",
+                  "text": "Kiemelkedő nagy magasságú képződményként ez a csúcs uralja a terepet a taipingshan-relief-v2 régióban.",
+                  "category": "natural",
+                  "coords": [
+                        121.577297,
+                        24.549955
+                  ]
+            },
+            {
+                  "name": "Shizilushan",
+                  "text": "Ez az elismert hegycsúcs a taipingshan-relief-v2 terület vad, emelkedő táját jellemzi.",
+                  "category": "natural",
+                  "coords": [
+                        121.488927,
+                        24.545575
+                  ]
+            },
+            {
+                  "name": "Taipingshan National Forest Recreation Area",
+                  "text": "Ez a híres természetvédelmi terület kiterjedt mérsékelt égövi erdőket és hegyvidéki élőhelyeket véd taipingshan-relief-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        121.577068,
+                        24.520596
+                  ]
+            },
+            {
+                  "name": "spa",
+                  "text": "Ez a nyilvános fürdő geotermikusan fűtött relaxációs medencéket kínál a taipingshan-relief-v2 régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        121.50779,
+                        24.545328
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shendaishan",
+                  "text": "Acest vârf montan recunoscut ancorează orizontul alpin al regiunii taipingshan-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.47529,
+                        24.517728
+                  ]
+            },
+            {
+                  "name": "Sanxingshan",
+                  "text": "Documentat în geografia locală, acest vârf proeminent modelează peisajul de mare altitudine din taipingshan-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.563952,
+                        24.50919
+                  ]
+            },
+            {
+                  "name": "Wangyangshan",
+                  "text": "Acest vârf catalogat urcă abrupt pentru a forma un punct înalt semnificativ lângă taipingshan-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.616301,
+                        24.510628
+                  ]
+            },
+            {
+                  "name": "Zaonanshan",
+                  "text": "Acest vârf montan distinct contribuie la topografia accidentată din jurul taipingshan-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.604814,
+                        24.547692
+                  ]
+            },
+            {
+                  "name": "Guishushan",
+                  "text": "O caracteristică notabilă de mare altitudine, acest vârf domină terenul din taipingshan-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.577297,
+                        24.549955
+                  ]
+            },
+            {
+                  "name": "Shizilushan",
+                  "text": "Acest vârf montan recunoscut caracterizează peisajul sălbatic, ascendent al zonei taipingshan-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.488927,
+                        24.545575
+                  ]
+            },
+            {
+                  "name": "Taipingshan National Forest Recreation Area",
+                  "text": "Această renumită rezervație naturală protejează păduri temperate extinse și habitate muntoase în taipingshan-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.577068,
+                        24.520596
+                  ]
+            },
+            {
+                  "name": "spa",
+                  "text": "Această baie publică oferă piscine de relaxare încălzite geotermal în regiunea taipingshan-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        121.50779,
+                        24.545328
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shendaishan",
+                  "text": "This recognized mountain summit anchors the alpine skyline of the taipingshan-relief-v2 region.",
+                  "category": "natural",
+                  "coords": [
+                        121.47529,
+                        24.517728
+                  ]
+            },
+            {
+                  "name": "Sanxingshan",
+                  "text": "Documented in local geography, this prominent peak shapes the high-altitude landscape of taipingshan-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.563952,
+                        24.50919
+                  ]
+            },
+            {
+                  "name": "Wangyangshan",
+                  "text": "This catalogued peak rises steeply to form a significant high point near taipingshan-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.616301,
+                        24.510628
+                  ]
+            },
+            {
+                  "name": "Zaonanshan",
+                  "text": "This distinct mountain summit contributes to the rugged topography surrounding taipingshan-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.604814,
+                        24.547692
+                  ]
+            },
+            {
+                  "name": "Guishushan",
+                  "text": "A notable high-elevation feature, this peak dominates the terrain in taipingshan-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.577297,
+                        24.549955
+                  ]
+            },
+            {
+                  "name": "Shizilushan",
+                  "text": "This recognized mountain peak characterizes the wild, ascending landscape of the taipingshan-relief-v2 area.",
+                  "category": "natural",
+                  "coords": [
+                        121.488927,
+                        24.545575
+                  ]
+            },
+            {
+                  "name": "Taipingshan National Forest Recreation Area",
+                  "text": "This renowned nature reserve protects expansive temperate woodlands and mountainous habitats in taipingshan-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        121.577068,
+                        24.520596
+                  ]
+            },
+            {
+                  "name": "spa",
+                  "text": "This public bath facility offers geothermally heated relaxation pools in the taipingshan-relief-v2 region.",
+                  "category": "recreational",
+                  "coords": [
+                        121.50779,
+                        24.545328
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TW-ILN",
     coords: [121.5369, 24.4947],
@@ -707,7 +8663,628 @@ export const poiExtraTaiwanReliefV2: POI[] = [
     },
   },
   {
-    id: "dulanshan-relief-v2",
+    id: "dulanshan-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dulan nose",
+                  "text": "Eine markante Küstenlandzunge in der Nähe von Dulan, die in den Pazifischen Ozean ragt und dramatische Ausblicke auf das Meer bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        121.231521,
+                        22.865536
+                  ]
+            },
+            {
+                  "name": "Nagisa Bridge",
+                  "text": "Eine malerische Aussichtsbrücke, die weitreichende Ausblicke auf die umliegende Naturlandschaft in der Nähe des Küstengebiets von Dulan bietet.",
+                  "category": "natural",
+                  "coords": [
+                        121.203557,
+                        22.860963
+                  ]
+            },
+            {
+                  "name": "The Water runing upward park",
+                  "text": "Eine berühmte Attraktion mit einer optischen Täuschung, bei der ein kleiner Bewässerungskanal scheinbar bergauf gegen die Schwerkraft fließt.",
+                  "category": "landmark",
+                  "coords": [
+                        121.218426,
+                        22.868267
+                  ]
+            },
+            {
+                  "name": "Pig farm",
+                  "text": "Eine landwirtschaftliche Attraktion, die traditionelle Schweinezuchtpraktiken in der ländlichen Umgebung von Dulan zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        121.220313,
+                        22.875926
+                  ]
+            },
+            {
+                  "name": "Dulan Site - Sarcophagus",
+                  "text": "Eine wichtige archäologische Stätte mit alten megalithischen Steinsärgen, die die prähistorische Kultur der Region offenbaren.",
+                  "category": "historical",
+                  "coords": [
+                        121.219546,
+                        22.88486
+                  ]
+            },
+            {
+                  "name": "Doutushan",
+                  "text": "Ein bewaldeter Berggipfel in der Küstenkette von Dulan, der anspruchsvolle Wanderwege für Einheimische bietet.",
+                  "category": "natural",
+                  "coords": [
+                        121.215811,
+                        22.904093
+                  ]
+            },
+            {
+                  "name": "Doulanshan",
+                  "text": "Ein heiliger Berggipfel für das indigene Volk der Amis, der mit seinen üppigen, nebelverhangenen Hängen die Skyline dominiert.",
+                  "category": "natural",
+                  "coords": [
+                        121.188299,
+                        22.895085
+                  ]
+            },
+            {
+                  "name": "Puyuma altar",
+                  "text": "Eine traditionelle spirituelle Stätte und ein Altar, der den kulturellen und religiösen Praktiken des indigenen Puyuma-Volkes gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        121.18092,
+                        22.886803
+                  ]
+            },
+            {
+                  "name": "Jianshan",
+                  "text": "Ein scharf umrissener Berggipfel, der sich durch seine steilen, bewaldeten Hänge auszeichnet, die sich über die umliegenden Küstenebenen erheben.",
+                  "category": "natural",
+                  "coords": [
+                        121.165412,
+                        22.867914
+                  ]
+            },
+            {
+                  "name": "Wuling Green Tunnel",
+                  "text": "Ein malerischer Straßenabschnitt, der natürlich durch ein dichtes Blätterdach ineinandergreifender Bäume beschattet wird und einen tunnelartigen Effekt erzeugt.",
+                  "category": "landmark",
+                  "coords": [
+                        121.124774,
+                        22.960033
+                  ]
+            },
+            {
+                  "name": "Baohuashan",
+                  "text": "Ein bemerkenswerter Berggipfel in der Küstenkette, der Wanderern einen weiten Blick auf die umliegende Täler und den Ozean bietet.",
+                  "category": "natural",
+                  "coords": [
+                        121.197102,
+                        22.988135
+                  ]
+            },
+            {
+                  "name": "Second floor Pingshui Bridge",
+                  "text": "Eine faszinierende strukturelle Attraktion, die erhöhte Aussichtspunkte auf die umliegende malerische Landschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        121.162576,
+                        22.951446
+                  ]
+            },
+            {
+                  "name": "Luliaodongshan",
+                  "text": "Ein markanter bewaldeter Gipfel, der Teil des zerklüfteten Geländes im östlichen Küstengebirge ist.",
+                  "category": "natural",
+                  "coords": [
+                        121.163007,
+                        22.927153
+                  ]
+            },
+            {
+                  "name": "Zoumiaoshan",
+                  "text": "Dieser markante Berggipfel erhebt sich steil aus der üppigen, subtropischen Landschaft der Region Dulan.",
+                  "category": "natural",
+                  "coords": [
+                        121.215704,
+                        22.961018
+                  ]
+            },
+            {
+                  "name": "Badoushan",
+                  "text": "Ein schroffer Berggipfel, der abenteuerlustigen Wanderern einen Panoramablick über das Küstengebiet bietet.",
+                  "category": "natural",
+                  "coords": [
+                        121.262249,
+                        22.960345
+                  ]
+            },
+            {
+                  "name": "Jihanalashan",
+                  "text": "Ein hoch gelegener Berggipfel, der sich durch dichte Vegetation und anspruchsvolle Wanderwege auszeichnet.",
+                  "category": "natural",
+                  "coords": [
+                        121.250249,
+                        22.935366
+                  ]
+            },
+            {
+                  "name": "Dulan Catholic Church",
+                  "text": "Ein lokales katholisches Gotteshaus, das der Gemeinde mit seiner traditionellen Architektur im Herzen von Dulan dient.",
+                  "category": "religious",
+                  "coords": [
+                        121.22736,
+                        22.875131
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dulan nose",
+                  "text": "Egy kiemelkedő partvidéki hegyfok Dulan közelében, amely a Csendes-óceánba nyúlik, és drámai kilátást nyújt a tengerre.",
+                  "category": "landmark",
+                  "coords": [
+                        121.231521,
+                        22.865536
+                  ]
+            },
+            {
+                  "name": "Nagisa Bridge",
+                  "text": "Egy festői kilátóhíd, amely széleskörű kilátást nyújt a környező természeti tájra a dulani tengerparti terület közelében.",
+                  "category": "natural",
+                  "coords": [
+                        121.203557,
+                        22.860963
+                  ]
+            },
+            {
+                  "name": "The Water runing upward park",
+                  "text": "Egy híres optikai csalódás, ahol egy kis öntözőcsatorna látszólag felfelé folyik a gravitáció ellenében.",
+                  "category": "landmark",
+                  "coords": [
+                        121.218426,
+                        22.868267
+                  ]
+            },
+            {
+                  "name": "Pig farm",
+                  "text": "Egy mezőgazdasági látványosság, amely a hagyományos sertéstenyésztési gyakorlatokat mutatja be Dulan vidéki környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        121.220313,
+                        22.875926
+                  ]
+            },
+            {
+                  "name": "Dulan Site - Sarcophagus",
+                  "text": "Fontos régészeti lelőhely ősi megalitikus kőkoporsókkal, amelyek feltárják a régió őskori kultúráját.",
+                  "category": "historical",
+                  "coords": [
+                        121.219546,
+                        22.88486
+                  ]
+            },
+            {
+                  "name": "Doutushan",
+                  "text": "Egy erdős hegycsúcs a dulani parti hegységben, amely kihívást jelentő ösvényeket kínál a helyi túrázóknak.",
+                  "category": "natural",
+                  "coords": [
+                        121.215811,
+                        22.904093
+                  ]
+            },
+            {
+                  "name": "Doulanshan",
+                  "text": "Az őslakos amis nép szent hegycsúcsa, amely buja, ködbe burkolózó lejtőivel uralja a látképet.",
+                  "category": "natural",
+                  "coords": [
+                        121.188299,
+                        22.895085
+                  ]
+            },
+            {
+                  "name": "Puyuma altar",
+                  "text": "Egy hagyományos spirituális hely és oltár, amelyet az őslakos puyuma nép kulturális és vallási gyakorlatainak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        121.18092,
+                        22.886803
+                  ]
+            },
+            {
+                  "name": "Jianshan",
+                  "text": "Élesen kirajzolódó hegycsúcs, amelyet a környező tengerparti síkságok fölé magasodó meredek, erdős lejtők jellemeznek.",
+                  "category": "natural",
+                  "coords": [
+                        121.165412,
+                        22.867914
+                  ]
+            },
+            {
+                  "name": "Wuling Green Tunnel",
+                  "text": "Egy festői útszakasz, amelyet az összefonódó fák sűrű lombkoronája természetes módon beárnyékol, alagútszerű hatást keltve.",
+                  "category": "landmark",
+                  "coords": [
+                        121.124774,
+                        22.960033
+                  ]
+            },
+            {
+                  "name": "Baohuashan",
+                  "text": "A parti hegység egyik figyelemre méltó hegycsúcs, amely lenyűgöző kilátást nyújt a túrázóknak a környező völgyekre és az óceánra.",
+                  "category": "natural",
+                  "coords": [
+                        121.197102,
+                        22.988135
+                  ]
+            },
+            {
+                  "name": "Second floor Pingshui Bridge",
+                  "text": "Egy érdekes szerkezeti látványosság, amely megemelt kilátóhelyeket kínál a környező festői tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        121.162576,
+                        22.951446
+                  ]
+            },
+            {
+                  "name": "Luliaodongshan",
+                  "text": "Egy kiemelkedő erdős csúcs, amely a zord keleti parti hegyvidék részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        121.163007,
+                        22.927153
+                  ]
+            },
+            {
+                  "name": "Zoumiaoshan",
+                  "text": "Ez a jellegzetes hegycsúcs meredeken emelkedik ki Dulan vidékének buja, szubtrópusi tájából.",
+                  "category": "natural",
+                  "coords": [
+                        121.215704,
+                        22.961018
+                  ]
+            },
+            {
+                  "name": "Badoushan",
+                  "text": "Egy zord hegycsúcs, amely panorámás kilátást nyújt a kalandvágyó túrázóknak a tengerparti vidékre.",
+                  "category": "natural",
+                  "coords": [
+                        121.262249,
+                        22.960345
+                  ]
+            },
+            {
+                  "name": "Jihanalashan",
+                  "text": "Magaslati hegycsúcs, amelyet sűrű növényzet és kihívást jelentő túraútvonalak jellemeznek.",
+                  "category": "natural",
+                  "coords": [
+                        121.250249,
+                        22.935366
+                  ]
+            },
+            {
+                  "name": "Dulan Catholic Church",
+                  "text": "Egy helyi katolikus istentiszteleti hely, amely hagyományos építészetével szolgálja a közösséget Dulan szívében.",
+                  "category": "religious",
+                  "coords": [
+                        121.22736,
+                        22.875131
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dulan nose",
+                  "text": "Un promontoriu de coastă proeminent lângă Dulan, care iese în Oceanul Pacific, oferind priveliști dramatice la malul mării.",
+                  "category": "landmark",
+                  "coords": [
+                        121.231521,
+                        22.865536
+                  ]
+            },
+            {
+                  "name": "Nagisa Bridge",
+                  "text": "Un pod cu un punct de belvedere pitoresc care oferă priveliști ample asupra peisajului natural înconjurător de lângă zona de coastă Dulan.",
+                  "category": "natural",
+                  "coords": [
+                        121.203557,
+                        22.860963
+                  ]
+            },
+            {
+                  "name": "The Water runing upward park",
+                  "text": "O atracție faimoasă cu iluzie optică, unde un mic canal de irigații pare să curgă la deal împotriva gravitației.",
+                  "category": "landmark",
+                  "coords": [
+                        121.218426,
+                        22.868267
+                  ]
+            },
+            {
+                  "name": "Pig farm",
+                  "text": "O atracție agricolă care prezintă practicile tradiționale de creștere a porcilor în mediul rural din jurul Dulanului.",
+                  "category": "landmark",
+                  "coords": [
+                        121.220313,
+                        22.875926
+                  ]
+            },
+            {
+                  "name": "Dulan Site - Sarcophagus",
+                  "text": "Un sit arheologic important, cu sicrie de piatră megalitice antice, care dezvăluie cultura preistorică a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        121.219546,
+                        22.88486
+                  ]
+            },
+            {
+                  "name": "Doutushan",
+                  "text": "Un vârf de munte împădurit din lanțul de coastă Dulan, care oferă trasee provocatoare pentru drumeții locali.",
+                  "category": "natural",
+                  "coords": [
+                        121.215811,
+                        22.904093
+                  ]
+            },
+            {
+                  "name": "Doulanshan",
+                  "text": "Un vârf de munte sacru pentru populația indigenă Amis, dominând orizontul cu pantele sale luxuriante, învăluite în ceață.",
+                  "category": "natural",
+                  "coords": [
+                        121.188299,
+                        22.895085
+                  ]
+            },
+            {
+                  "name": "Puyuma altar",
+                  "text": "Un loc spiritual tradițional și un altar dedicat practicilor culturale și religioase ale poporului indigen Puyuma.",
+                  "category": "landmark",
+                  "coords": [
+                        121.18092,
+                        22.886803
+                  ]
+            },
+            {
+                  "name": "Jianshan",
+                  "text": "Un vârf de munte bine conturat, caracterizat prin pantele sale abrupte și împădurite care se ridică deasupra câmpiilor de coastă din jur.",
+                  "category": "natural",
+                  "coords": [
+                        121.165412,
+                        22.867914
+                  ]
+            },
+            {
+                  "name": "Wuling Green Tunnel",
+                  "text": "O porțiune pitorească de drum, umbrită natural de un baldachin dens de copaci împletiți, creând un efect asemănător unui tunel.",
+                  "category": "landmark",
+                  "coords": [
+                        121.124774,
+                        22.960033
+                  ]
+            },
+            {
+                  "name": "Baohuashan",
+                  "text": "Un summit montan notabil din lanțul de coastă care oferă drumeților priveliști panoramice ale văilor și oceanului din jur.",
+                  "category": "natural",
+                  "coords": [
+                        121.197102,
+                        22.988135
+                  ]
+            },
+            {
+                  "name": "Second floor Pingshui Bridge",
+                  "text": "O atracție structurală intrigantă care oferă puncte de observație ridicate asupra peisajului pitoresc înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        121.162576,
+                        22.951446
+                  ]
+            },
+            {
+                  "name": "Luliaodongshan",
+                  "text": "Un vârf împădurit proeminent care face parte din terenul accidentat din lanțul muntos de coastă estic.",
+                  "category": "natural",
+                  "coords": [
+                        121.163007,
+                        22.927153
+                  ]
+            },
+            {
+                  "name": "Zoumiaoshan",
+                  "text": "Acest summit montan distinct se ridică abrupt din peisajul luxuriant și subtropical al zonei Dulan.",
+                  "category": "natural",
+                  "coords": [
+                        121.215704,
+                        22.961018
+                  ]
+            },
+            {
+                  "name": "Badoushan",
+                  "text": "Un vârf de munte accidentat care oferă drumeților aventuroși vederi panoramice peste terenul de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        121.262249,
+                        22.960345
+                  ]
+            },
+            {
+                  "name": "Jihanalashan",
+                  "text": "Un vârf de munte înalt caracterizat de vegetație densă și trasee de drumeții provocatoare.",
+                  "category": "natural",
+                  "coords": [
+                        121.250249,
+                        22.935366
+                  ]
+            },
+            {
+                  "name": "Dulan Catholic Church",
+                  "text": "Un lăcaș de cult catolic local care deservește comunitatea cu arhitectura sa tradițională în inima orașului Dulan.",
+                  "category": "religious",
+                  "coords": [
+                        121.22736,
+                        22.875131
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dulan nose",
+                  "text": "A prominent coastal headland near Dulan that juts out into the Pacific Ocean, offering dramatic seaside views.",
+                  "category": "landmark",
+                  "coords": [
+                        121.231521,
+                        22.865536
+                  ]
+            },
+            {
+                  "name": "Nagisa Bridge",
+                  "text": "A scenic viewpoint bridge providing sweeping vistas over the surrounding natural landscape near the Dulan coastal area.",
+                  "category": "natural",
+                  "coords": [
+                        121.203557,
+                        22.860963
+                  ]
+            },
+            {
+                  "name": "The Water runing upward park",
+                  "text": "A famous optical illusion attraction where a small irrigation canal appears to flow uphill against gravity.",
+                  "category": "landmark",
+                  "coords": [
+                        121.218426,
+                        22.868267
+                  ]
+            },
+            {
+                  "name": "Pig farm",
+                  "text": "An agricultural attraction that showcases traditional pig farming practices in the rural environment around Dulan.",
+                  "category": "landmark",
+                  "coords": [
+                        121.220313,
+                        22.875926
+                  ]
+            },
+            {
+                  "name": "Dulan Site - Sarcophagus",
+                  "text": "An important archaeological site featuring ancient megalithic stone coffins that reveal the region's prehistoric culture.",
+                  "category": "historical",
+                  "coords": [
+                        121.219546,
+                        22.88486
+                  ]
+            },
+            {
+                  "name": "Doutushan",
+                  "text": "A forested mountain peak in the Dulan coastal range, offering challenging trails for local hikers.",
+                  "category": "natural",
+                  "coords": [
+                        121.215811,
+                        22.904093
+                  ]
+            },
+            {
+                  "name": "Doulanshan",
+                  "text": "A sacred mountain peak for the indigenous Amis people, dominating the skyline with its lush, mist-shrouded slopes.",
+                  "category": "natural",
+                  "coords": [
+                        121.188299,
+                        22.895085
+                  ]
+            },
+            {
+                  "name": "Puyuma altar",
+                  "text": "A traditional spiritual site and altar dedicated to the cultural and religious practices of the indigenous Puyuma people.",
+                  "category": "landmark",
+                  "coords": [
+                        121.18092,
+                        22.886803
+                  ]
+            },
+            {
+                  "name": "Jianshan",
+                  "text": "A sharply defined mountain peak characterized by its steep, forested slopes rising above the surrounding coastal plains.",
+                  "category": "natural",
+                  "coords": [
+                        121.165412,
+                        22.867914
+                  ]
+            },
+            {
+                  "name": "Wuling Green Tunnel",
+                  "text": "A picturesque stretch of road naturally shaded by a dense canopy of intertwining trees, creating a tunnel-like effect.",
+                  "category": "landmark",
+                  "coords": [
+                        121.124774,
+                        22.960033
+                  ]
+            },
+            {
+                  "name": "Baohuashan",
+                  "text": "A notable mountain summit in the coastal range that offers hikers sweeping views of the surrounding valleys and ocean.",
+                  "category": "natural",
+                  "coords": [
+                        121.197102,
+                        22.988135
+                  ]
+            },
+            {
+                  "name": "Second floor Pingshui Bridge",
+                  "text": "An intriguing structural attraction offering elevated vantage points over the surrounding scenic landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        121.162576,
+                        22.951446
+                  ]
+            },
+            {
+                  "name": "Luliaodongshan",
+                  "text": "A prominent forested peak forming part of the rugged terrain in the eastern coastal mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        121.163007,
+                        22.927153
+                  ]
+            },
+            {
+                  "name": "Zoumiaoshan",
+                  "text": "This distinct mountain summit rises steeply from the lush, subtropical landscape of the Dulan area.",
+                  "category": "natural",
+                  "coords": [
+                        121.215704,
+                        22.961018
+                  ]
+            },
+            {
+                  "name": "Badoushan",
+                  "text": "A rugged mountain peak that offers adventurous hikers panoramic views across the coastal terrain.",
+                  "category": "natural",
+                  "coords": [
+                        121.262249,
+                        22.960345
+                  ]
+            },
+            {
+                  "name": "Jihanalashan",
+                  "text": "An elevated mountain summit characterized by dense vegetation and challenging hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        121.250249,
+                        22.935366
+                  ]
+            },
+            {
+                  "name": "Dulan Catholic Church",
+                  "text": "A local Catholic place of worship serving the community with its traditional architecture in the heart of Dulan.",
+                  "category": "religious",
+                  "coords": [
+                        121.22736,
+                        22.875131
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TW-TTT",
     coords: [121.1925, 22.9056],
@@ -751,7 +9328,232 @@ export const poiExtraTaiwanReliefV2: POI[] = [
     },
   },
   {
-    id: "dajianshan-relief-v2",
+    id: "dajianshan-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Verdant Pavilion",
+                  "text": "Der Verdant Pavilion ist eine malerische Aussichtsplattform inmitten der Natur, die Besuchern einen ruhigen Ort bietet, um die üppige, grüne Umgebung zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        120.825601,
+                        21.952987
+                  ]
+            },
+            {
+                  "name": "Skyward Pavilion",
+                  "text": "Der Skyward Pavilion ist ein erhöhter Aussichtspunkt, der weite, unverbaute Panoramen bietet, die sich bis zu den dramatischen Berggipfeln erstrecken.",
+                  "category": "natural",
+                  "coords": [
+                        120.823343,
+                        21.953318
+                  ]
+            },
+            {
+                  "name": "Sail Rock",
+                  "text": "Sail Rock ist eine markante Küstenattraktion, die aus einem massiven Korallenrifffragment besteht, das dem Segel eines sich nähernden Schiffes vor der Küste ähnelt.",
+                  "category": "landmark",
+                  "coords": [
+                        120.823756,
+                        21.931198
+                  ]
+            },
+            {
+                  "name": "Dayuanshan",
+                  "text": "Dayuanshan ist ein markanter Berggipfel im Nationalpark, der sich durch seine schroffen Hänge und die vielfältige Flora in seinen Höhenlagen auszeichnet.",
+                  "category": "natural",
+                  "coords": [
+                        120.815488,
+                        21.938842
+                  ]
+            },
+            {
+                  "name": "Little Bay",
+                  "text": "Little Bay ist ein malerischer Sandstrand, der versteckt an der Küste liegt und wegen seines klaren Wassers und der geschützten Badebedingungen beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        120.804584,
+                        21.941357
+                  ]
+            },
+            {
+                  "name": "Stella Maris Catholic Church",
+                  "text": "Die Stella Maris Catholic Church ist ein friedlicher christlicher Andachtsort, der der lokalen Gemeinde und vorbeikommenden Besuchern spirituelle Dienste anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        120.800333,
+                        21.944256
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Verdant Pavilion",
+                  "text": "A Verdant Pavilion egy természetbe simuló, festői kilátóplatform, amely csendes helyet kínál a látogatóknak a buja, zöld környező táj megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        120.825601,
+                        21.952987
+                  ]
+            },
+            {
+                  "name": "Skyward Pavilion",
+                  "text": "A Skyward Pavilion egy magaslati megfigyelőpont, amelyet úgy terveztek, hogy széles, akadálytalan panorámát nyújtson, amely egészen a drámai hegycsúcsokig nyúlik.",
+                  "category": "natural",
+                  "coords": [
+                        120.823343,
+                        21.953318
+                  ]
+            },
+            {
+                  "name": "Sail Rock",
+                  "text": "A Sail Rock egy feltűnő tengerparti látványosság, amely egy masszív korallzátony-töredékből áll, és úgy néz ki, mint egy közeledő hajó vitorlája a part mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        120.823756,
+                        21.931198
+                  ]
+            },
+            {
+                  "name": "Dayuanshan",
+                  "text": "A Dayuanshan a nemzeti park egyik kiemelkedő hegycsúcsa, amelyet zord lejtői és a magasságaiban virágzó változatos növényvilág különböztet meg.",
+                  "category": "natural",
+                  "coords": [
+                        120.815488,
+                        21.938842
+                  ]
+            },
+            {
+                  "name": "Little Bay",
+                  "text": "A Little Bay egy festői, tengerparton megbúvó homokos strand, amelyet tiszta vize és védett fürdőzési feltételei miatt kedvelnek.",
+                  "category": "recreational",
+                  "coords": [
+                        120.804584,
+                        21.941357
+                  ]
+            },
+            {
+                  "name": "Stella Maris Catholic Church",
+                  "text": "A Stella Maris Katolikus Templom egy békés keresztény istentiszteleti hely, amely spirituális szolgáltatásokat nyújt a helyi közösségnek és az átutazó látogatóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        120.800333,
+                        21.944256
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Verdant Pavilion",
+                  "text": "Pavilionul Verdant este o platformă de observare pitorească ascunsă în natură, oferind vizitatorilor un loc liniștit pentru a admira peisajul verde luxuriant din jur.",
+                  "category": "natural",
+                  "coords": [
+                        120.825601,
+                        21.952987
+                  ]
+            },
+            {
+                  "name": "Skyward Pavilion",
+                  "text": "Pavilionul Skyward este un punct de observare ridicat, conceput pentru a oferi panorame ample, neobstrucționate, care se întind spre vârfurile montane dramatice.",
+                  "category": "natural",
+                  "coords": [
+                        120.823343,
+                        21.953318
+                  ]
+            },
+            {
+                  "name": "Sail Rock",
+                  "text": "Sail Rock este o atracție de coastă izbitoare constând dintr-un fragment masiv de recif de corali care seamănă cu pânza unei nave care se apropie în larg.",
+                  "category": "landmark",
+                  "coords": [
+                        120.823756,
+                        21.931198
+                  ]
+            },
+            {
+                  "name": "Dayuanshan",
+                  "text": "Dayuanshan este un vârf montan proeminent din cadrul parcului național, distins prin pantele sale accidentate și flora diversă care înflorește la altitudinile sale.",
+                  "category": "natural",
+                  "coords": [
+                        120.815488,
+                        21.938842
+                  ]
+            },
+            {
+                  "name": "Little Bay",
+                  "text": "Little Bay este o plajă pitorească cu nisip ascunsă de-a lungul coastei, favorizată pentru apele sale limpezi și condițiile de înot adăpostite.",
+                  "category": "recreational",
+                  "coords": [
+                        120.804584,
+                        21.941357
+                  ]
+            },
+            {
+                  "name": "Stella Maris Catholic Church",
+                  "text": "Biserica Catolică Stella Maris este un lăcaș de cult creștin pașnic care oferă servicii spirituale comunității locale și vizitatorilor aflați în trecere.",
+                  "category": "landmark",
+                  "coords": [
+                        120.800333,
+                        21.944256
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Verdant Pavilion",
+                  "text": "Verdant Pavilion is a scenic viewing platform nestled in nature, providing visitors with a quiet spot to observe the lush, green surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        120.825601,
+                        21.952987
+                  ]
+            },
+            {
+                  "name": "Skyward Pavilion",
+                  "text": "Skyward Pavilion is an elevated observation point designed to offer expansive, unobstructed panoramas stretching up towards the dramatic mountain peaks.",
+                  "category": "natural",
+                  "coords": [
+                        120.823343,
+                        21.953318
+                  ]
+            },
+            {
+                  "name": "Sail Rock",
+                  "text": "Sail Rock is a striking coastal attraction consisting of a massive coral reef fragment that resembles the sail of an approaching ship off the coast.",
+                  "category": "landmark",
+                  "coords": [
+                        120.823756,
+                        21.931198
+                  ]
+            },
+            {
+                  "name": "Dayuanshan",
+                  "text": "Dayuanshan is a prominent mountain peak within the national park, distinguished by its rugged slopes and the diverse flora flourishing at its elevations.",
+                  "category": "natural",
+                  "coords": [
+                        120.815488,
+                        21.938842
+                  ]
+            },
+            {
+                  "name": "Little Bay",
+                  "text": "Little Bay is a picturesque sandy beach tucked away along the coastline, favored for its clear waters and sheltered swimming conditions.",
+                  "category": "recreational",
+                  "coords": [
+                        120.804584,
+                        21.941357
+                  ]
+            },
+            {
+                  "name": "Stella Maris Catholic Church",
+                  "text": "Stella Maris Catholic Church is a peaceful Christian place of worship that provides spiritual services to the local community and passing visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        120.800333,
+                        21.944256
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TW-PIF",
     coords: [120.8039, 21.9422],
@@ -795,7 +9597,1204 @@ export const poiExtraTaiwanReliefV2: POI[] = [
     },
   },
   {
-    id: "shitoushan-relief-v2",
+    id: "shitoushan-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fuxinghoushan",
+                  "text": "Dieser erhöhte natürliche Gipfel im Shitoushan-Reliefgebiet zeichnet sich durch seine steilen, bewaldeten Hänge und den schroffen Wanderzugang aus.",
+                  "category": "natural",
+                  "coords": [
+                        120.9782,
+                        24.687142
+                  ]
+            },
+            {
+                  "name": "TongJing Mountain Trail",
+                  "text": "Dieser malerische, unbefestigte Weg schlängelt sich durch das bewaldete Hochland des Shitoushan-Gebiets und bietet Wanderern ein tiefes Eintauchen in die lokale Flora.",
+                  "category": "landmark",
+                  "coords": [
+                        120.974488,
+                        24.66647
+                  ]
+            },
+            {
+                  "name": "Laoqipingding",
+                  "text": "Dieser schroffe Gipfel ragt über die Shitoushan-Landschaft hinaus und bietet malerische Aussichtspunkte über die umliegenden bewaldeten Täler.",
+                  "category": "natural",
+                  "coords": [
+                        120.951391,
+                        24.693278
+                  ]
+            },
+            {
+                  "name": "Renzishan",
+                  "text": "Dieser markante, mit dichter subtropischer Vegetation bedeckte Gipfel in der Shitoushan-Region erfordert einen stetigen Aufstieg über schmale Bergpfade.",
+                  "category": "natural",
+                  "coords": [
+                        120.926872,
+                        24.669234
+                  ]
+            },
+            {
+                  "name": "Daxidishan",
+                  "text": "Dieser natürliche topografische Höhepunkt im Shitoushan-Reliefgebiet zeichnet sich durch seine felsigen Aufschlüsse und den anspruchsvollen bewaldeten Aufstieg aus.",
+                  "category": "natural",
+                  "coords": [
+                        120.933574,
+                        24.625582
+                  ]
+            },
+            {
+                  "name": "Waidaping",
+                  "text": "Dieser Berggipfel im malerischen Shitoushan-Gebiet bietet weitreichende Ausblicke für Wanderer, die seinen steilen, bewachsenen Weg bezwingen.",
+                  "category": "natural",
+                  "coords": [
+                        120.918533,
+                        24.621521
+                  ]
+            },
+            {
+                  "name": "Huoyanshan",
+                  "text": "Der Huoyanshan ist ein markanter Berggipfel mit charakteristischen geologischen Hängen im Gebiet von Shitoushan.",
+                  "category": "natural",
+                  "coords": [
+                        120.949141,
+                        24.657778
+                  ]
+            },
+            {
+                  "name": "Xiaonanpushan",
+                  "text": "Der bewaldete Gipfel des Xiaonanpushan bietet einen weiten Blick über das umliegende Shitoushan-Relief.",
+                  "category": "natural",
+                  "coords": [
+                        120.9711,
+                        24.629878
+                  ]
+            },
+            {
+                  "name": "Dawukengshan",
+                  "text": "Der Dawukengshan ist ein schroffer Berggipfel, der Wanderer in der Region Shitoushan herausfordert.",
+                  "category": "natural",
+                  "coords": [
+                        120.978148,
+                        24.593736
+                  ]
+            },
+            {
+                  "name": "Shenzhuoshan",
+                  "text": "Der Shenzhuoshan-Gipfel ist für seine markante tischartige Formation bekannt und ragt prominent über die Landschaft von Shitoushan hinaus.",
+                  "category": "natural",
+                  "coords": [
+                        120.974528,
+                        24.583321
+                  ]
+            },
+            {
+                  "name": "Taoniupingshan",
+                  "text": "Der Taoniupingshan ist ein steiler Berggipfel, der malerische Wanderwege durch das Hochland von Shitoushan bietet.",
+                  "category": "natural",
+                  "coords": [
+                        120.970633,
+                        24.576543
+                  ]
+            },
+            {
+                  "name": "Sanjianshan",
+                  "text": "Der felsige Gipfel des Sanjianshan bietet einen rauen Aussichtspunkt über die üppigen Täler von Shitoushan.",
+                  "category": "natural",
+                  "coords": [
+                        120.937459,
+                        24.590119
+                  ]
+            },
+            {
+                  "name": "Xiaodongheshan",
+                  "text": "Die hochgelegenen Pfade des Xiaodongheshan-Gipfels schlängeln sich durch die dichten Hangwälder des Shitoushan-Gebiets.",
+                  "category": "natural",
+                  "coords": [
+                        120.996093,
+                        24.559232
+                  ]
+            },
+            {
+                  "name": "Guangtiangaoshan",
+                  "text": "Der Guangtiangaoshan ist ein markanter Berggipfel, der hoch über dem umliegenden Gelände von Shitoushan aufragt.",
+                  "category": "natural",
+                  "coords": [
+                        121.021194,
+                        24.571776
+                  ]
+            },
+            {
+                  "name": "Niaozuishan",
+                  "text": "Seinem Namen treu bleibend, weist der Niaozuishan einen scharfen, schnabelartigen Gipfel auf, der die Skyline von Shitoushan prägt.",
+                  "category": "natural",
+                  "coords": [
+                        121.07525,
+                        24.580864
+                  ]
+            },
+            {
+                  "name": "Egongjishan",
+                  "text": "Der Egongjishan ist ein einzigartig geformter Berggipfel im Shitoushan-Relief, der an den Kamm einer Gans erinnert.",
+                  "category": "natural",
+                  "coords": [
+                        121.075545,
+                        24.609983
+                  ]
+            },
+            {
+                  "name": "Gengliaopingshan",
+                  "text": "Der ruhige Gipfel des Gengliaopingshan bietet einsame Waldwege, die sich durch das Hochland von Shitoushan schlängeln.",
+                  "category": "natural",
+                  "coords": [
+                        121.058179,
+                        24.645766
+                  ]
+            },
+            {
+                  "name": "Shiyingshan",
+                  "text": "Der Shiyingshan ist ein markanter Berggipfel im Shitoushan-Gebiet, der sich durch seine steilen, felsigen Hänge auszeichnet.",
+                  "category": "natural",
+                  "coords": [
+                        121.039737,
+                        24.651625
+                  ]
+            },
+            {
+                  "name": "A Thread of Sky",
+                  "text": "Diese dramatische Naturattraktion verfügt über eine schmale Felsspalte, in der Besucher oben nur einen schmalen Streifen Tageslicht sehen können.",
+                  "category": "landmark",
+                  "coords": [
+                        121.024235,
+                        24.656497
+                  ]
+            },
+            {
+                  "name": "Water Curtain Cave",
+                  "text": "Diese malerische Naturhöhle ist berühmt für den kontinuierlichen Wasserschleier, der sanft über ihren felsigen Eingang rieselt.",
+                  "category": "landmark",
+                  "coords": [
+                        121.02563,
+                        24.655022
+                  ]
+            },
+            {
+                  "name": "Seven Stars",
+                  "text": "Sieben Sterne ist eine faszinierende Naturattraktion in Shitoushan, die aus einer markanten Gruppe malerischer Felsformationen besteht.",
+                  "category": "landmark",
+                  "coords": [
+                        121.021001,
+                        24.64506
+                  ]
+            },
+            {
+                  "name": "Yuanshan",
+                  "text": "Der abgerundete, bewaldete Gipfel des Yuanshan bietet Naturwanderern in Shitoushan einen sanften Aufstieg.",
+                  "category": "natural",
+                  "coords": [
+                        121.025488,
+                        24.641248
+                  ]
+            },
+            {
+                  "name": "Hengpingbeishan",
+                  "text": "Der Hengpingbeishan ist ein abgelegener Berggipfel, der weite, panoramische Ausblicke auf die dicht bewaldete Region Shitoushan bietet.",
+                  "category": "natural",
+                  "coords": [
+                        121.026999,
+                        24.615366
+                  ]
+            },
+            {
+                  "name": "Xiangshan",
+                  "text": "Die markanten Konturen des Xiangshan-Gipfels dominieren die lokale Topographie des Shitoushan-Reliefs.",
+                  "category": "natural",
+                  "coords": [
+                        120.995244,
+                        24.621278
+                  ]
+            },
+            {
+                  "name": "Jue Wangdong",
+                  "text": "Jue Wangdong ist eine faszinierende Felshöhle, die in der üppigen Wildnis der Shitoushan-Hügel verborgen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        121.015283,
+                        24.6459
+                  ]
+            },
+            {
+                  "name": "Lingyun Cave",
+                  "text": "Die Lingyun-Höhle ist eine stimmungsvolle unterirdische Kaverne mit alten, feuchten Felswänden und ruhigem Tageslicht.",
+                  "category": "landmark",
+                  "coords": [
+                        121.006515,
+                        24.643404
+                  ]
+            },
+            {
+                  "name": "Guanyin Cave",
+                  "text": "Diese ruhige Höhle am Hang in Shitoushan ist der Göttin der Barmherzigkeit gewidmet und beherbergt religiöse Schreine, die direkt in den natürlichen Fels integriert sind.",
+                  "category": "landmark",
+                  "coords": [
+                        121.007481,
+                        24.64335
+                  ]
+            },
+            {
+                  "name": "View spot",
+                  "text": "Diese auf einem hohen Kamm gelegene Aussichtsplattform bietet weitreichende Panoramen über die üppigen Shitoushan-Täler im Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        120.993192,
+                        24.669945
+                  ]
+            },
+            {
+                  "name": "Chikepingshan",
+                  "text": "Die große Höhe des Chikepingshan-Gipfels belohnt Kletterer mit einem freien Blick auf das Shitoushan-Gebirgsrelief.",
+                  "category": "natural",
+                  "coords": [
+                        120.999224,
+                        24.689199
+                  ]
+            },
+            {
+                  "name": "NanZhuang Old Street",
+                  "text": "Die NanZhuang Old Street ist eine lebhafte historische Gasse, die für ihre traditionellen Hakka-Restaurants und erhaltene Holzarchitektur berühmt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        120.999245,
+                        24.599127
+                  ]
+            },
+            {
+                  "name": "Yuanguang Temple",
+                  "text": "Der Yuanguang-Tempel liegt an einem ruhigen Hang und ist ein friedlicher buddhistischer Rückzugsort mit reich verzierten Hallen und meditativen Gärten.",
+                  "category": "landmark",
+                  "coords": [
+                        121.012189,
+                        24.643089
+                  ]
+            },
+            {
+                  "name": "Shell Temple",
+                  "text": "Dieses einzigartige buddhistische Heiligtum in Shitoushan wird für seine bemerkenswerten Schrein-Strukturen gefeiert, die akribisch mit Tausenden von Muscheln verziert sind.",
+                  "category": "landmark",
+                  "coords": [
+                        121.008801,
+                        24.642772
+                  ]
+            },
+            {
+                  "name": "Quanhua Temple",
+                  "text": "Dramatisch in die Klippen des Berges gebaut, ist der Quanhua-Tempel ein atemberaubender buddhistischer Komplex mit Blick auf das Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        121.010076,
+                        24.641789
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fuxinghoushan",
+                  "text": "A Shitoushan domborzati területén található magaslati természetes hegycsúcsot meredek, erdős lejtők és zord túraútvonalak jellemzik.",
+                  "category": "natural",
+                  "coords": [
+                        120.9782,
+                        24.687142
+                  ]
+            },
+            {
+                  "name": "TongJing Mountain Trail",
+                  "text": "Ez a festői, burkolatlan ösvény a Shitoushan térség erdős fennsíkjain kanyarog, lehetőséget adva a túrázóknak, hogy elmerüljenek a helyi növényvilágban.",
+                  "category": "landmark",
+                  "coords": [
+                        120.974488,
+                        24.66647
+                  ]
+            },
+            {
+                  "name": "Laoqipingding",
+                  "text": "A Shitoushan tájból kiemelkedő zord hegycsúcsról panorámás kilátás nyílik a környező erdős völgyekre.",
+                  "category": "natural",
+                  "coords": [
+                        120.951391,
+                        24.693278
+                  ]
+            },
+            {
+                  "name": "Renzishan",
+                  "text": "Sűrű szubtrópusi növényzettel borított kiemelkedő hegycsúcs a Shitoushan régióban, amelynek meghódítása keskeny hegyi ösvényeken való kitartó mászást igényel.",
+                  "category": "natural",
+                  "coords": [
+                        120.926872,
+                        24.669234
+                  ]
+            },
+            {
+                  "name": "Daxidishan",
+                  "text": "A Shitoushan domborzati terület természetes topográfiai csúcspontját sziklás kiemelkedései és kihívást jelentő erdős emelkedői teszik különlegessé.",
+                  "category": "natural",
+                  "coords": [
+                        120.933574,
+                        24.625582
+                  ]
+            },
+            {
+                  "name": "Waidaping",
+                  "text": "A festői Shitoushan térségben található hegycsúcs lenyűgöző kilátást nyújt azoknak a túrázóknak, akik meghódítják meredek, benőtt ösvényét.",
+                  "category": "natural",
+                  "coords": [
+                        120.918533,
+                        24.621521
+                  ]
+            },
+            {
+                  "name": "Huoyanshan",
+                  "text": "A Huoyanshan egy kiemelkedő hegycsúcs, amely jellegzetes geológiai lejtőiről ismert Shitoushan területén.",
+                  "category": "natural",
+                  "coords": [
+                        120.949141,
+                        24.657778
+                  ]
+            },
+            {
+                  "name": "Xiaonanpushan",
+                  "text": "A Xiaonanpushan erdős csúcsa pazar kilátást nyújt a környező Shitoushan domborzatára.",
+                  "category": "natural",
+                  "coords": [
+                        120.9711,
+                        24.629878
+                  ]
+            },
+            {
+                  "name": "Dawukengshan",
+                  "text": "A Dawukengshan egy zord hegycsúcs, amely kihívást jelent a Shitoushan régióban túrázóknak.",
+                  "category": "natural",
+                  "coords": [
+                        120.978148,
+                        24.593736
+                  ]
+            },
+            {
+                  "name": "Shenzhuoshan",
+                  "text": "A jellegzetes asztalszerű képződményéről ismert Shenzhuoshan csúcs kiemelkedik Shitoushan tájából.",
+                  "category": "natural",
+                  "coords": [
+                        120.974528,
+                        24.583321
+                  ]
+            },
+            {
+                  "name": "Taoniupingshan",
+                  "text": "A Taoniupingshan egy meredek hegycsúcs, amely festői túraútvonalakat kínál a Shitoushan-fennsíkon át.",
+                  "category": "natural",
+                  "coords": [
+                        120.970633,
+                        24.576543
+                  ]
+            },
+            {
+                  "name": "Sanjianshan",
+                  "text": "A Sanjianshan sziklás csúcsa zord kilátópontot nyújt a buja Shitoushan-völgyekre.",
+                  "category": "natural",
+                  "coords": [
+                        120.937459,
+                        24.590119
+                  ]
+            },
+            {
+                  "name": "Xiaodongheshan",
+                  "text": "A Xiaodongheshan csúcs magaslati ösvényei a Shitoushan terület sűrű hegyoldali erdeiben kanyarognak.",
+                  "category": "natural",
+                  "coords": [
+                        120.996093,
+                        24.559232
+                  ]
+            },
+            {
+                  "name": "Guangtiangaoshan",
+                  "text": "A Guangtiangaoshan egy kiemelkedő hegycsúcs, amely magasan a környező Shitoushan terep fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        121.021194,
+                        24.571776
+                  ]
+            },
+            {
+                  "name": "Niaozuishan",
+                  "text": "A nevéhez hűen a Niaozuishan egy éles, csőrszerű csúccsal rendelkezik, amely áttöri Shitoushan látképét.",
+                  "category": "natural",
+                  "coords": [
+                        121.07525,
+                        24.580864
+                  ]
+            },
+            {
+                  "name": "Egongjishan",
+                  "text": "Az Egongjishan egy egyedi alakú hegycsúcs Shitoushan domborzatában, amely egy lúd tarajára emlékeztet.",
+                  "category": "natural",
+                  "coords": [
+                        121.075545,
+                        24.609983
+                  ]
+            },
+            {
+                  "name": "Gengliaopingshan",
+                  "text": "A Gengliaopingshan nyugodt csúcsa elszigetelt erdei ösvényeket kínál, amelyek a Shitoushan-fennsíkon kanyarognak.",
+                  "category": "natural",
+                  "coords": [
+                        121.058179,
+                        24.645766
+                  ]
+            },
+            {
+                  "name": "Shiyingshan",
+                  "text": "A Shiyingshan egy kiemelkedő hegycsúcs, amelyet meredek, sziklás lejtői jellemeznek a Shitoushan területén.",
+                  "category": "natural",
+                  "coords": [
+                        121.039737,
+                        24.651625
+                  ]
+            },
+            {
+                  "name": "A Thread of Sky",
+                  "text": "Ez a drámai természeti látványosság egy szűk sziklahasadékot foglal magában, ahol a látogatók csak egy vékony sávnyi nappali fényt láthatnak odafent.",
+                  "category": "landmark",
+                  "coords": [
+                        121.024235,
+                        24.656497
+                  ]
+            },
+            {
+                  "name": "Water Curtain Cave",
+                  "text": "Ez a festői természetes barlang arról a folyamatos vízfüggönyről híres, amely lágyan zuhatagként hullik alá a sziklás bejáraton.",
+                  "category": "landmark",
+                  "coords": [
+                        121.02563,
+                        24.655022
+                  ]
+            },
+            {
+                  "name": "Seven Stars",
+                  "text": "A Hét Csillag egy magával ragadó természeti látványosság Shitoushanban, amely festői sziklaképződmények különleges csoportjából áll.",
+                  "category": "landmark",
+                  "coords": [
+                        121.021001,
+                        24.64506
+                  ]
+            },
+            {
+                  "name": "Yuanshan",
+                  "text": "A Yuanshan csúcs lekerekített, erdős hegytetője lankás emelkedőt biztosít a Shitoushanban kirándulóknak.",
+                  "category": "natural",
+                  "coords": [
+                        121.025488,
+                        24.641248
+                  ]
+            },
+            {
+                  "name": "Hengpingbeishan",
+                  "text": "A Hengpingbeishan egy távoli hegycsúcs, amely széles, panorámás kilátást nyújt a sűrűn erdősült Shitoushan régióra.",
+                  "category": "natural",
+                  "coords": [
+                        121.026999,
+                        24.615366
+                  ]
+            },
+            {
+                  "name": "Xiangshan",
+                  "text": "A Xiangshan csúcs határozott kontúrjai uralják a Shitoushan domborzat helyi topográfiáját.",
+                  "category": "natural",
+                  "coords": [
+                        120.995244,
+                        24.621278
+                  ]
+            },
+            {
+                  "name": "Jue Wangdong",
+                  "text": "A Jue Wangdong egy lenyűgöző sziklabarlang, amely a Shitoushan-dombok buja vadonjában bújik meg.",
+                  "category": "landmark",
+                  "coords": [
+                        121.015283,
+                        24.6459
+                  ]
+            },
+            {
+                  "name": "Lingyun Cave",
+                  "text": "A Lingyun-barlang egy hangulatos földalatti üreg, amely ősi, nedves sziklafalakkal és békés természetes fénnyel rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        121.006515,
+                        24.643404
+                  ]
+            },
+            {
+                  "name": "Guanyin Cave",
+                  "text": "Az Irgalom Istennőjének szentelt, csendes hegyoldali barlang Shitoushanban közvetlenül a természetes sziklába épített vallási szentélyeket rejt.",
+                  "category": "landmark",
+                  "coords": [
+                        121.007481,
+                        24.64335
+                  ]
+            },
+            {
+                  "name": "View spot",
+                  "text": "A magas gerincen elhelyezkedő kijelölt kilátóterasz széles panorámát nyújt a lenti buja Shitoushan-völgyekre.",
+                  "category": "landmark",
+                  "coords": [
+                        120.993192,
+                        24.669945
+                  ]
+            },
+            {
+                  "name": "Chikepingshan",
+                  "text": "A Chikepingshan csúcs nagy magassága akadálytalan kilátással jutalmazza a hegymászókat a Shitoushan hegyvidéki domborzatára.",
+                  "category": "natural",
+                  "coords": [
+                        120.999224,
+                        24.689199
+                  ]
+            },
+            {
+                  "name": "NanZhuang Old Street",
+                  "text": "A NanZhuang Öregutca egy élénk történelmi sikátor, amely híres a hagyományos hakka éttermeiről és megőrzött faépítészetéről.",
+                  "category": "landmark",
+                  "coords": [
+                        120.999245,
+                        24.599127
+                  ]
+            },
+            {
+                  "name": "Yuanguang Temple",
+                  "text": "A nyugodt hegyoldalon található Yuanguang templom egy békés buddhista menedékhely, amely díszes termekkel és meditatív kertekkel rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        121.012189,
+                        24.643089
+                  ]
+            },
+            {
+                  "name": "Shell Temple",
+                  "text": "Ezt a páratlan buddhista szentélyt Shitoushanban a több ezer tengeri kagylóval aprólékosan díszített figyelemre méltó oltárépítményei miatt ünneplik.",
+                  "category": "landmark",
+                  "coords": [
+                        121.008801,
+                        24.642772
+                  ]
+            },
+            {
+                  "name": "Quanhua Temple",
+                  "text": "A drámai módon magába a hegy sziklájába épült Quanhua templom egy lélegzetelállító buddhista komplexum, amely a völgyre néz.",
+                  "category": "landmark",
+                  "coords": [
+                        121.010076,
+                        24.641789
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fuxinghoushan",
+                  "text": "Situat în zona de relief Shitoushan, acest vârf natural înalt se caracterizează prin pantele sale abrupte, împădurite și accesul accidentat pentru drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        120.9782,
+                        24.687142
+                  ]
+            },
+            {
+                  "name": "TongJing Mountain Trail",
+                  "text": "Acest traseu pitoresc neasfaltat șerpuiește prin zonele muntoase împădurite ale zonei Shitoushan, oferind drumeților o scufundare profundă în flora locală.",
+                  "category": "landmark",
+                  "coords": [
+                        120.974488,
+                        24.66647
+                  ]
+            },
+            {
+                  "name": "Laoqipingding",
+                  "text": "Ieșind deasupra peisajului Shitoushan, acest vârf accidentat oferă puncte de belvedere panoramice asupra văilor împădurite din jur.",
+                  "category": "natural",
+                  "coords": [
+                        120.951391,
+                        24.693278
+                  ]
+            },
+            {
+                  "name": "Renzishan",
+                  "text": "Acoperit de o vegetație subtropicală densă, acest vârf proeminent din regiunea Shitoushan necesită o urcare constantă de-a lungul potecilor montane înguste.",
+                  "category": "natural",
+                  "coords": [
+                        120.926872,
+                        24.669234
+                  ]
+            },
+            {
+                  "name": "Daxidishan",
+                  "text": "Acest punct înalt topografic natural din zona de relief Shitoushan se distinge prin aflorimentele sale stâncoase și ascensiunea împădurită provocatoare.",
+                  "category": "natural",
+                  "coords": [
+                        120.933574,
+                        24.625582
+                  ]
+            },
+            {
+                  "name": "Waidaping",
+                  "text": "Situat în zona pitorească Shitoushan, acest vârf de munte oferă priveliști panoramice drumeților care îi cuceresc traseul abrupt și plin de vegetație.",
+                  "category": "natural",
+                  "coords": [
+                        120.918533,
+                        24.621521
+                  ]
+            },
+            {
+                  "name": "Huoyanshan",
+                  "text": "Huoyanshan este un vârf montan proeminent, cunoscut pentru pantele sale geologice distincte din zona Shitoushan.",
+                  "category": "natural",
+                  "coords": [
+                        120.949141,
+                        24.657778
+                  ]
+            },
+            {
+                  "name": "Xiaonanpushan",
+                  "text": "Vârful împădurit al Xiaonanpushan oferă o priveliște vastă asupra reliefului înconjurător din Shitoushan.",
+                  "category": "natural",
+                  "coords": [
+                        120.9711,
+                        24.629878
+                  ]
+            },
+            {
+                  "name": "Dawukengshan",
+                  "text": "Dawukengshan este un vârf montan accidentat care provoacă drumeții ce traversează regiunea Shitoushan.",
+                  "category": "natural",
+                  "coords": [
+                        120.978148,
+                        24.593736
+                  ]
+            },
+            {
+                  "name": "Shenzhuoshan",
+                  "text": "Cunoscut pentru formația sa distinctivă asemănătoare unei mese, vârful Shenzhuoshan se înalță proeminent deasupra peisajului din Shitoushan.",
+                  "category": "natural",
+                  "coords": [
+                        120.974528,
+                        24.583321
+                  ]
+            },
+            {
+                  "name": "Taoniupingshan",
+                  "text": "Taoniupingshan este un vârf montan abrupt care oferă trasee de drumeție pitorești prin ținutul muntos Shitoushan.",
+                  "category": "natural",
+                  "coords": [
+                        120.970633,
+                        24.576543
+                  ]
+            },
+            {
+                  "name": "Sanjianshan",
+                  "text": "Vârful stâncos Sanjianshan oferă un punct de belvedere accidentat deasupra văilor luxuriante din Shitoushan.",
+                  "category": "natural",
+                  "coords": [
+                        120.937459,
+                        24.590119
+                  ]
+            },
+            {
+                  "name": "Xiaodongheshan",
+                  "text": "Traseele la altitudine ale vârfului Xiaodongheshan șerpuiesc prin pădurile dense de pe dealurile din zona Shitoushan.",
+                  "category": "natural",
+                  "coords": [
+                        120.996093,
+                        24.559232
+                  ]
+            },
+            {
+                  "name": "Guangtiangaoshan",
+                  "text": "Guangtiangaoshan este un vârf montan proeminent care se înalță mult deasupra terenului înconjurător din Shitoushan.",
+                  "category": "natural",
+                  "coords": [
+                        121.021194,
+                        24.571776
+                  ]
+            },
+            {
+                  "name": "Niaozuishan",
+                  "text": "Fidel numelui său, Niaozuishan prezintă un vârf ascuțit, asemănător unui cioc, care punctează orizontul din Shitoushan.",
+                  "category": "natural",
+                  "coords": [
+                        121.07525,
+                        24.580864
+                  ]
+            },
+            {
+                  "name": "Egongjishan",
+                  "text": "Egongjishan este un vârf montan cu o formă unică, asemănătoare cu creasta unei gâște, în relieful Shitoushan.",
+                  "category": "natural",
+                  "coords": [
+                        121.075545,
+                        24.609983
+                  ]
+            },
+            {
+                  "name": "Gengliaopingshan",
+                  "text": "Vârful liniștit al Gengliaopingshan oferă cărări de pădure izolate care șerpuiesc prin ținuturile înalte din Shitoushan.",
+                  "category": "natural",
+                  "coords": [
+                        121.058179,
+                        24.645766
+                  ]
+            },
+            {
+                  "name": "Shiyingshan",
+                  "text": "Shiyingshan este un vârf montan proeminent caracterizat de pantele sale stâncoase și abrupte din zona Shitoushan.",
+                  "category": "natural",
+                  "coords": [
+                        121.039737,
+                        24.651625
+                  ]
+            },
+            {
+                  "name": "A Thread of Sky",
+                  "text": "Această atracție naturală dramatică prezintă o crevasă îngustă în stâncă unde vizitatorii pot vedea doar o linie subțire de lumină deasupra.",
+                  "category": "landmark",
+                  "coords": [
+                        121.024235,
+                        24.656497
+                  ]
+            },
+            {
+                  "name": "Water Curtain Cave",
+                  "text": "Această peșteră naturală pitorească este renumită pentru perdeaua continuă de apă care cade ușor peste intrarea sa stâncoasă.",
+                  "category": "landmark",
+                  "coords": [
+                        121.02563,
+                        24.655022
+                  ]
+            },
+            {
+                  "name": "Seven Stars",
+                  "text": "Șapte Stele este o atracție naturală captivantă din Shitoushan, constând dintr-un grup distinct de formațiuni stâncoase pitorești.",
+                  "category": "landmark",
+                  "coords": [
+                        121.021001,
+                        24.64506
+                  ]
+            },
+            {
+                  "name": "Yuanshan",
+                  "text": "Vârful rotunjit și împădurit al muntelui Yuanshan oferă o ascensiune lină pentru plimbăreții în natură care explorează Shitoushan.",
+                  "category": "natural",
+                  "coords": [
+                        121.025488,
+                        24.641248
+                  ]
+            },
+            {
+                  "name": "Hengpingbeishan",
+                  "text": "Hengpingbeishan este un vârf montan izolat care oferă vederi panoramice vaste asupra regiunii dens împădurite Shitoushan.",
+                  "category": "natural",
+                  "coords": [
+                        121.026999,
+                        24.615366
+                  ]
+            },
+            {
+                  "name": "Xiangshan",
+                  "text": "Contururile distincte ale vârfului Xiangshan domină topografia locală a reliefului Shitoushan.",
+                  "category": "natural",
+                  "coords": [
+                        120.995244,
+                        24.621278
+                  ]
+            },
+            {
+                  "name": "Jue Wangdong",
+                  "text": "Jue Wangdong este o peșteră stâncoasă fascinantă, ascunsă în sălbăticia luxuriantă a dealurilor Shitoushan.",
+                  "category": "landmark",
+                  "coords": [
+                        121.015283,
+                        24.6459
+                  ]
+            },
+            {
+                  "name": "Lingyun Cave",
+                  "text": "Peștera Lingyun este o cavernă subterană cu o atmosferă deosebită, având pereți de stâncă antici, umezi și o lumină naturală senină.",
+                  "category": "landmark",
+                  "coords": [
+                        121.006515,
+                        24.643404
+                  ]
+            },
+            {
+                  "name": "Guanyin Cave",
+                  "text": "Dedicată Zeiței Milei, această peșteră liniștită de pe dealul din Shitoushan conține altare religioase integrate direct în stânca naturală.",
+                  "category": "landmark",
+                  "coords": [
+                        121.007481,
+                        24.64335
+                  ]
+            },
+            {
+                  "name": "View spot",
+                  "text": "Situată pe o creastă înaltă, această platformă de observare desemnată oferă panorame vaste asupra văilor luxuriante din Shitoushan de dedesubt.",
+                  "category": "landmark",
+                  "coords": [
+                        120.993192,
+                        24.669945
+                  ]
+            },
+            {
+                  "name": "Chikepingshan",
+                  "text": "Altitudinea mare a vârfului Chikepingshan răsplătește alpiniștii cu vederi neobstrucționate asupra reliefului montan Shitoushan.",
+                  "category": "natural",
+                  "coords": [
+                        120.999224,
+                        24.689199
+                  ]
+            },
+            {
+                  "name": "NanZhuang Old Street",
+                  "text": "NanZhuang Old Street este o alee istorică vibrantă, renumită pentru restaurantele sale tradiționale Hakka și arhitectura din lemn conservată.",
+                  "category": "landmark",
+                  "coords": [
+                        120.999245,
+                        24.599127
+                  ]
+            },
+            {
+                  "name": "Yuanguang Temple",
+                  "text": "Situat pe un deal liniștit, Templul Yuanguang este un refugiu budist pașnic, cu săli ornate și grădini meditative.",
+                  "category": "landmark",
+                  "coords": [
+                        121.012189,
+                        24.643089
+                  ]
+            },
+            {
+                  "name": "Shell Temple",
+                  "text": "Acest sanctuar budist unic din Shitoushan este celebrat pentru structurile sale remarcabile de altar, decorate meticulos cu mii de scoici.",
+                  "category": "landmark",
+                  "coords": [
+                        121.008801,
+                        24.642772
+                  ]
+            },
+            {
+                  "name": "Quanhua Temple",
+                  "text": "Construit dramatic chiar în stâncile muntelui, Templul Quanhua este un complex budist uluitor care domină valea.",
+                  "category": "landmark",
+                  "coords": [
+                        121.010076,
+                        24.641789
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fuxinghoushan",
+                  "text": "Located in the Shitoushan relief area, this elevated natural peak is characterized by its steep, forested slopes and rugged hiking access.",
+                  "category": "natural",
+                  "coords": [
+                        120.9782,
+                        24.687142
+                  ]
+            },
+            {
+                  "name": "TongJing Mountain Trail",
+                  "text": "This scenic unpaved trail winds through the forested highlands of the Shitoushan area, offering hikers deep immersion into the local flora.",
+                  "category": "landmark",
+                  "coords": [
+                        120.974488,
+                        24.66647
+                  ]
+            },
+            {
+                  "name": "Laoqipingding",
+                  "text": "Jutting above the Shitoushan landscape, this rugged peak offers panoramic viewpoints over the surrounding forested valleys.",
+                  "category": "natural",
+                  "coords": [
+                        120.951391,
+                        24.693278
+                  ]
+            },
+            {
+                  "name": "Renzishan",
+                  "text": "Covered in dense subtropical vegetation, this prominent summit in the Shitoushan region requires a steady climb along narrow mountain paths.",
+                  "category": "natural",
+                  "coords": [
+                        120.926872,
+                        24.669234
+                  ]
+            },
+            {
+                  "name": "Daxidishan",
+                  "text": "This natural topographic high point in the Shitoushan relief area is distinguished by its rocky outcrops and challenging forested ascent.",
+                  "category": "natural",
+                  "coords": [
+                        120.933574,
+                        24.625582
+                  ]
+            },
+            {
+                  "name": "Waidaping",
+                  "text": "Positioned within the scenic Shitoushan area, this mountain peak provides sweeping vistas for hikers who conquer its steep, overgrown trail.",
+                  "category": "natural",
+                  "coords": [
+                        120.918533,
+                        24.621521
+                  ]
+            },
+            {
+                  "name": "Huoyanshan",
+                  "text": "Huoyanshan is a prominent mountain peak known for its distinct geological slopes in the Shitoushan area.",
+                  "category": "natural",
+                  "coords": [
+                        120.949141,
+                        24.657778
+                  ]
+            },
+            {
+                  "name": "Xiaonanpushan",
+                  "text": "The forested summit of Xiaonanpushan offers sweeping views over the surrounding Shitoushan relief.",
+                  "category": "natural",
+                  "coords": [
+                        120.9711,
+                        24.629878
+                  ]
+            },
+            {
+                  "name": "Dawukengshan",
+                  "text": "Dawukengshan is a rugged mountain peak that challenges hikers traversing the Shitoushan region.",
+                  "category": "natural",
+                  "coords": [
+                        120.978148,
+                        24.593736
+                  ]
+            },
+            {
+                  "name": "Shenzhuoshan",
+                  "text": "Known for its distinctive table-like formation, the Shenzhuoshan peak rises prominently above the Shitoushan landscape.",
+                  "category": "natural",
+                  "coords": [
+                        120.974528,
+                        24.583321
+                  ]
+            },
+            {
+                  "name": "Taoniupingshan",
+                  "text": "Taoniupingshan is a steep mountain peak offering scenic hiking trails through the Shitoushan highland.",
+                  "category": "natural",
+                  "coords": [
+                        120.970633,
+                        24.576543
+                  ]
+            },
+            {
+                  "name": "Sanjianshan",
+                  "text": "The rocky peak of Sanjianshan provides a rugged vantage point over the lush Shitoushan valleys.",
+                  "category": "natural",
+                  "coords": [
+                        120.937459,
+                        24.590119
+                  ]
+            },
+            {
+                  "name": "Xiaodongheshan",
+                  "text": "The elevated trails of Xiaodongheshan peak weave through the dense hillside forests of the Shitoushan area.",
+                  "category": "natural",
+                  "coords": [
+                        120.996093,
+                        24.559232
+                  ]
+            },
+            {
+                  "name": "Guangtiangaoshan",
+                  "text": "Guangtiangaoshan is a prominent mountain peak towering high above the surrounding Shitoushan terrain.",
+                  "category": "natural",
+                  "coords": [
+                        121.021194,
+                        24.571776
+                  ]
+            },
+            {
+                  "name": "Niaozuishan",
+                  "text": "True to its name, Niaozuishan features a sharp, beak-like peak that punctuates the Shitoushan skyline.",
+                  "category": "natural",
+                  "coords": [
+                        121.07525,
+                        24.580864
+                  ]
+            },
+            {
+                  "name": "Egongjishan",
+                  "text": "Egongjishan is a uniquely shaped mountain peak resembling a goose's crest within the Shitoushan relief.",
+                  "category": "natural",
+                  "coords": [
+                        121.075545,
+                        24.609983
+                  ]
+            },
+            {
+                  "name": "Gengliaopingshan",
+                  "text": "The tranquil summit of Gengliaopingshan offers isolated forest paths winding through the Shitoushan highlands.",
+                  "category": "natural",
+                  "coords": [
+                        121.058179,
+                        24.645766
+                  ]
+            },
+            {
+                  "name": "Shiyingshan",
+                  "text": "Shiyingshan is a prominent mountainous peak characterized by its steep, rocky inclines in the Shitoushan area.",
+                  "category": "natural",
+                  "coords": [
+                        121.039737,
+                        24.651625
+                  ]
+            },
+            {
+                  "name": "A Thread of Sky",
+                  "text": "This dramatic natural attraction features a narrow rock crevice where visitors can only see a thin line of daylight above.",
+                  "category": "landmark",
+                  "coords": [
+                        121.024235,
+                        24.656497
+                  ]
+            },
+            {
+                  "name": "Water Curtain Cave",
+                  "text": "This scenic natural cave is renowned for the continuous sheet of water that cascades gently over its rocky entrance.",
+                  "category": "landmark",
+                  "coords": [
+                        121.02563,
+                        24.655022
+                  ]
+            },
+            {
+                  "name": "Seven Stars",
+                  "text": "Seven Stars is a captivating natural attraction in Shitoushan consisting of a distinct cluster of scenic rock formations.",
+                  "category": "landmark",
+                  "coords": [
+                        121.021001,
+                        24.64506
+                  ]
+            },
+            {
+                  "name": "Yuanshan",
+                  "text": "The rounded, forested summit of Yuanshan peak provides a gentle ascent for nature walkers exploring Shitoushan.",
+                  "category": "natural",
+                  "coords": [
+                        121.025488,
+                        24.641248
+                  ]
+            },
+            {
+                  "name": "Hengpingbeishan",
+                  "text": "Hengpingbeishan is a remote mountain peak offering sweeping, panoramic views of the densely wooded Shitoushan region.",
+                  "category": "natural",
+                  "coords": [
+                        121.026999,
+                        24.615366
+                  ]
+            },
+            {
+                  "name": "Xiangshan",
+                  "text": "The distinct contours of the Xiangshan peak dominate the local topography of the Shitoushan relief.",
+                  "category": "natural",
+                  "coords": [
+                        120.995244,
+                        24.621278
+                  ]
+            },
+            {
+                  "name": "Jue Wangdong",
+                  "text": "Jue Wangdong is a fascinating rock cave hidden within the lush wilderness of the Shitoushan hills.",
+                  "category": "landmark",
+                  "coords": [
+                        121.015283,
+                        24.6459
+                  ]
+            },
+            {
+                  "name": "Lingyun Cave",
+                  "text": "Lingyun Cave is an atmospheric subterranean cavern featuring ancient, damp rock walls and serene natural light.",
+                  "category": "landmark",
+                  "coords": [
+                        121.006515,
+                        24.643404
+                  ]
+            },
+            {
+                  "name": "Guanyin Cave",
+                  "text": "Dedicated to the Goddess of Mercy, this quiet hillside cave in Shitoushan contains religious shrines integrated directly into the natural rock.",
+                  "category": "landmark",
+                  "coords": [
+                        121.007481,
+                        24.64335
+                  ]
+            },
+            {
+                  "name": "View spot",
+                  "text": "Perched on a high ridge, this designated viewing platform provides sweeping panoramas over the lush Shitoushan valleys below.",
+                  "category": "landmark",
+                  "coords": [
+                        120.993192,
+                        24.669945
+                  ]
+            },
+            {
+                  "name": "Chikepingshan",
+                  "text": "The high elevation of the Chikepingshan peak rewards climbers with unobstructed views of the Shitoushan mountain relief.",
+                  "category": "natural",
+                  "coords": [
+                        120.999224,
+                        24.689199
+                  ]
+            },
+            {
+                  "name": "NanZhuang Old Street",
+                  "text": "NanZhuang Old Street is a vibrant historic alleyway famed for its traditional Hakka eateries and preserved wooden architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        120.999245,
+                        24.599127
+                  ]
+            },
+            {
+                  "name": "Yuanguang Temple",
+                  "text": "Situated on a tranquil hillside, Yuanguang Temple is a peaceful Buddhist retreat featuring ornate halls and meditative gardens.",
+                  "category": "landmark",
+                  "coords": [
+                        121.012189,
+                        24.643089
+                  ]
+            },
+            {
+                  "name": "Shell Temple",
+                  "text": "This unique Buddhist sanctuary in Shitoushan is celebrated for its remarkable shrine structures meticulously decorated with thousands of seashells.",
+                  "category": "landmark",
+                  "coords": [
+                        121.008801,
+                        24.642772
+                  ]
+            },
+            {
+                  "name": "Quanhua Temple",
+                  "text": "Dramatically constructed into the very cliffs of the mountain, Quanhua Temple is a breathtaking Buddhist complex overlooking the valley.",
+                  "category": "landmark",
+                  "coords": [
+                        121.010076,
+                        24.641789
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TW-HSQ",
     coords: [121.0092, 24.6464],
@@ -839,7 +10838,376 @@ export const poiExtraTaiwanReliefV2: POI[] = [
     },
   },
   {
-    id: "alangyi-coast-relief-v2",
+    id: "alangyi-coast-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Peony Bay",
+                  "text": "Diese ruhige, halbmondförmige Bucht ist an ihrem unberührten Pazifikstrand mit glatten, von den Wellen polierten Kieseln anstelle von Sand gesäumt.",
+                  "category": "landmark",
+                  "coords": [
+                        120.888566,
+                        22.194301
+                  ]
+            },
+            {
+                  "name": "Taiheshan",
+                  "text": "Dieser Küstenberg thront über dem historischen Alangyi-Pfad und verfügt über steile, dem Meer zugewandte Klippen, die durch aktive tektonische Hebung entstanden sind.",
+                  "category": "natural",
+                  "coords": [
+                        120.858659,
+                        22.239423
+                  ]
+            },
+            {
+                  "name": "0k+200",
+                  "text": "Diese spezielle Entfernungsmarkierung entlang der Küstenstraße markiert einen beliebten Haltepunkt, um die dramatische Pazifikküste zu fotografieren.",
+                  "category": "landmark",
+                  "coords": [
+                        120.886808,
+                        22.269226
+                  ]
+            },
+            {
+                  "name": "Guanyinbi",
+                  "text": "Diese steile felsige Landzunge stürzt direkt in den Pazifischen Ozean und zwingt Wanderer auf dem historischen Alangyi-Pfad, über ihren Kamm zu klettern.",
+                  "category": "natural",
+                  "coords": [
+                        120.890446,
+                        22.236237
+                  ]
+            },
+            {
+                  "name": "Balangweishan",
+                  "text": "Ein anspruchsvoller Küstengipfel, der mit salzwasserresistentem Gestrüpp bedeckt ist und einen weiten Blick über die ungezähmte Ostküste bietet.",
+                  "category": "natural",
+                  "coords": [
+                        120.878083,
+                        22.322655
+                  ]
+            },
+            {
+                  "name": "Zhushishan",
+                  "text": "Dieser dicht bewaldete Gipfel fungiert als bedeutende Wasserscheide entlang der schroffen südöstlichen Kante Taiwans.",
+                  "category": "natural",
+                  "coords": [
+                        120.835454,
+                        22.319443
+                  ]
+            },
+            {
+                  "name": "Shuangliu Forest Recreation Area",
+                  "text": "Dieses in einem schattigen Flusstal gelegene Naturschutzgebiet ist berühmt für einen mächtigen Wasserfall, an dem zwei Bergbäche zusammenfließen.",
+                  "category": "natural",
+                  "coords": [
+                        120.823384,
+                        22.227229
+                  ]
+            },
+            {
+                  "name": "Xuhai-Guanyinbi Nature Reserve",
+                  "text": "Dieses 2012 offiziell gegründete Schutzgebiet bewahrt einen der letzten verbliebenen Abschnitte völlig natürlicher, unbefestigter Küste Taiwans.",
+                  "category": "natural",
+                  "coords": [
+                        120.882868,
+                        22.225486
+                  ]
+            },
+            {
+                  "name": "Kuchi Lake",
+                  "text": "Dieses ruhige Küstenfeuchtgebiet ist von dichten, grasbewachsenen Sumpflandschaften umgeben, die einen lebenswichtigen Lebensraum für Zugvogelarten bieten.",
+                  "category": "landmark",
+                  "coords": [
+                        120.855144,
+                        22.205762
+                  ]
+            },
+            {
+                  "name": "Shouka Biker Rest Station",
+                  "text": "Diese ehemalige Polizeistation am anstrengenden, 460 Meter hohen Scheitelpunkt des South-Link-Highways dient heute als gefeierter Rastplatz für Insel-überquerende Radfahrer.",
+                  "category": "landmark",
+                  "coords": [
+                        120.835706,
+                        22.245203
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Peony Bay",
+                  "text": "Ezt a nyugodt, félhold alakú öblöt az érintetlen csendes-óceáni partvidék mentén homok helyett sima, hullámok által csiszolt kavicsok szegélyezik.",
+                  "category": "landmark",
+                  "coords": [
+                        120.888566,
+                        22.194301
+                  ]
+            },
+            {
+                  "name": "Taiheshan",
+                  "text": "A történelmi Alangyi-ösvény fölé magasodó tengerparti hegy aktív tektonikus felemelkedés által kialakított meredek, tenger felé néző sziklákkal rendelkezik.",
+                  "category": "natural",
+                  "coords": [
+                        120.858659,
+                        22.239423
+                  ]
+            },
+            {
+                  "name": "0k+200",
+                  "text": "Ez a különleges távolságjelző a tengerparti útvonal mentén egy népszerű megállóhelyet jelöl a drámai csendes-óceáni partvidék fotózásához.",
+                  "category": "landmark",
+                  "coords": [
+                        120.886808,
+                        22.269226
+                  ]
+            },
+            {
+                  "name": "Guanyinbi",
+                  "text": "Ez a meredek sziklás hegyfok közvetlenül a Csendes-óceánba zuhan, így az Alangyi történelmi ösvényen túrázóknak át kell mászniuk a gerincén.",
+                  "category": "natural",
+                  "coords": [
+                        120.890446,
+                        22.236237
+                  ]
+            },
+            {
+                  "name": "Balangweishan",
+                  "text": "A sópermetnek ellenálló cserjékkel borított, kihívást jelentő tengerparti hegycsúcsról hatalmas kilátás nyílik a vadregényes keleti partvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        120.878083,
+                        22.322655
+                  ]
+            },
+            {
+                  "name": "Zhushishan",
+                  "text": "Ez a sűrűn erdősült hegycsúcs jelentős vízválasztóként működik Tajvan zord délkeleti pereme mentén.",
+                  "category": "natural",
+                  "coords": [
+                        120.835454,
+                        22.319443
+                  ]
+            },
+            {
+                  "name": "Shuangliu Forest Recreation Area",
+                  "text": "Az árnyékos folyóvölgyben található természetvédelmi terület egy hatalmas vízesésről híres, ahol két hegyi patak találkozik.",
+                  "category": "natural",
+                  "coords": [
+                        120.823384,
+                        22.227229
+                  ]
+            },
+            {
+                  "name": "Xuhai-Guanyinbi Nature Reserve",
+                  "text": "A 2012-ben hivatalosan létrehozott védett terület Tajvan egyik utolsó, teljesen természetes, burkolatlan partvonalát őrzi.",
+                  "category": "natural",
+                  "coords": [
+                        120.882868,
+                        22.225486
+                  ]
+            },
+            {
+                  "name": "Kuchi Lake",
+                  "text": "Ezt a nyugodt tengerparti vizenyős területet sűrű füves mocsárvidék veszi körül, amely létfontosságú élőhelyet biztosít a vándormadarak számára.",
+                  "category": "landmark",
+                  "coords": [
+                        120.855144,
+                        22.205762
+                  ]
+            },
+            {
+                  "name": "Shouka Biker Rest Station",
+                  "text": "A South-Link autópálya fárasztó, 460 méteres csúcsán található egykori rendőrőrs ma a szigetet átszelő kerékpárosok híres pihenőhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        120.835706,
+                        22.245203
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Peony Bay",
+                  "text": "Acest golf senin, în formă de semilună, este căptușit cu pietricele netede, lustruite de valuri, în loc de nisip de-a lungul coastei sale imaculate a Pacificului.",
+                  "category": "landmark",
+                  "coords": [
+                        120.888566,
+                        22.194301
+                  ]
+            },
+            {
+                  "name": "Taiheshan",
+                  "text": "Profilându-se deasupra traseului istoric Alangyi, acest munte de coastă prezintă stânci abrupte spre mare, formate de ridicarea tectonică activă.",
+                  "category": "natural",
+                  "coords": [
+                        120.858659,
+                        22.239423
+                  ]
+            },
+            {
+                  "name": "0k+200",
+                  "text": "Acest indicator de distanță specific de-a lungul rutei de coastă desemnează un punct de oprire popular pentru a fotografia coasta dramatică a Pacificului.",
+                  "category": "landmark",
+                  "coords": [
+                        120.886808,
+                        22.269226
+                  ]
+            },
+            {
+                  "name": "Guanyinbi",
+                  "text": "Acest promontoriu stâncos abrupt se scufundă direct în Oceanul Pacific, forțând drumeții de pe Traseul Istoric Alangyi să se cațăre peste creasta sa.",
+                  "category": "natural",
+                  "coords": [
+                        120.890446,
+                        22.236237
+                  ]
+            },
+            {
+                  "name": "Balangweishan",
+                  "text": "Un vârf de coastă dificil acoperit de tufișuri rezistente la stropi de sare, oferind vederi expansive peste coasta de est sălbatică.",
+                  "category": "natural",
+                  "coords": [
+                        120.878083,
+                        22.322655
+                  ]
+            },
+            {
+                  "name": "Zhushishan",
+                  "text": "Acest vârf dens împădurit acționează ca o cumpănă de ape semnificativă de-a lungul marginii sud-estice accidentate a Taiwanului.",
+                  "category": "natural",
+                  "coords": [
+                        120.835454,
+                        22.319443
+                  ]
+            },
+            {
+                  "name": "Shuangliu Forest Recreation Area",
+                  "text": "Situată într-o vale umbrită de râu, această rezervație naturală este faimoasă pentru o cascadă puternică unde converg două pâraie de munte.",
+                  "category": "natural",
+                  "coords": [
+                        120.823384,
+                        22.227229
+                  ]
+            },
+            {
+                  "name": "Xuhai-Guanyinbi Nature Reserve",
+                  "text": "Înființată oficial în 2012, această arie protejată păstrează una dintre ultimele întinderi rămase din coasta complet naturală și neasfaltată a Taiwanului.",
+                  "category": "natural",
+                  "coords": [
+                        120.882868,
+                        22.225486
+                  ]
+            },
+            {
+                  "name": "Kuchi Lake",
+                  "text": "Această zonă umedă de coastă liniștită este înconjurată de mlaștini ierboase dense care oferă un habitat vital pentru speciile de păsări migratoare.",
+                  "category": "landmark",
+                  "coords": [
+                        120.855144,
+                        22.205762
+                  ]
+            },
+            {
+                  "name": "Shouka Biker Rest Station",
+                  "text": "Situată la vârful obositor de 460 de metri al autostrăzii South-Link, această fostă secție de poliție servește acum ca loc de odihnă celebru pentru bicicliștii care traversează insula.",
+                  "category": "landmark",
+                  "coords": [
+                        120.835706,
+                        22.245203
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Peony Bay",
+                  "text": "This serene, crescent-shaped bay is lined with smooth, wave-polished pebbles instead of sand along its pristine Pacific shoreline.",
+                  "category": "landmark",
+                  "coords": [
+                        120.888566,
+                        22.194301
+                  ]
+            },
+            {
+                  "name": "Taiheshan",
+                  "text": "Looming over the historic Alangyi trail, this coastal mountain features steep seaward cliffs formed by active tectonic uplifting.",
+                  "category": "natural",
+                  "coords": [
+                        120.858659,
+                        22.239423
+                  ]
+            },
+            {
+                  "name": "0k+200",
+                  "text": "This specific distance marker along the coastal route designates a popular stopping point to photograph the dramatic Pacific shoreline.",
+                  "category": "landmark",
+                  "coords": [
+                        120.886808,
+                        22.269226
+                  ]
+            },
+            {
+                  "name": "Guanyinbi",
+                  "text": "This sheer rocky headland plunges directly into the Pacific Ocean, forcing hikers on the Alangyi Historic Trail to scramble over its ridge.",
+                  "category": "natural",
+                  "coords": [
+                        120.890446,
+                        22.236237
+                  ]
+            },
+            {
+                  "name": "Balangweishan",
+                  "text": "A challenging coastal peak blanketed in salt-spray resilient scrub, offering expansive views over the untamed eastern seaboard.",
+                  "category": "natural",
+                  "coords": [
+                        120.878083,
+                        22.322655
+                  ]
+            },
+            {
+                  "name": "Zhushishan",
+                  "text": "This densely forested summit acts as a significant watershed divide along the rugged southeastern edge of Taiwan.",
+                  "category": "natural",
+                  "coords": [
+                        120.835454,
+                        22.319443
+                  ]
+            },
+            {
+                  "name": "Shuangliu Forest Recreation Area",
+                  "text": "Located in a shaded river valley, this nature reserve is famed for a powerful cascade where two mountain streams converge.",
+                  "category": "natural",
+                  "coords": [
+                        120.823384,
+                        22.227229
+                  ]
+            },
+            {
+                  "name": "Xuhai-Guanyinbi Nature Reserve",
+                  "text": "Formally established in 2012, this protected area preserves one of Taiwan's last remaining stretches of completely natural, unpaved coastline.",
+                  "category": "natural",
+                  "coords": [
+                        120.882868,
+                        22.225486
+                  ]
+            },
+            {
+                  "name": "Kuchi Lake",
+                  "text": "This tranquil coastal wetland is surrounded by dense grassy marshlands that provide a vital habitat for migratory bird species.",
+                  "category": "landmark",
+                  "coords": [
+                        120.855144,
+                        22.205762
+                  ]
+            },
+            {
+                  "name": "Shouka Biker Rest Station",
+                  "text": "Situated at the strenuous 460-meter peak of the South-Link Highway, this former police station now serves as a celebrated rest stop for cross-island cyclists.",
+                  "category": "landmark",
+                  "coords": [
+                        120.835706,
+                        22.245203
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "TW-PIF",
     coords: [120.8931, 22.2514],

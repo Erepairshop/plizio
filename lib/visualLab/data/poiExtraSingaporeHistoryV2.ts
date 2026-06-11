@@ -3,7 +3,124 @@ import type { POI } from "./poi";
 
 export const poiExtraSingaporeHistoryV2: POI[] = [
   {
-    id: "sg-thian-hock-keng-temple-history-v2",
+    id: "sg-thian-hock-keng-temple-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mural: Samsui Lady with Cigarette",
+                  "text": "Ein bemerkenswertes Street-Art-Kunstwerk, das eine traditionelle Bauarbeiterin bei einer ruhigen Raucherpause darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.845087,
+                        1.2812
+                  ]
+            },
+            {
+                  "name": "Nagore Durgha Indian Muslim Heritage Centre",
+                  "text": "Dieses 1830 ursprünglich als Schrein erbaute historische Gebäude weist eine einzigartige Mischung aus klassischen und islamischen Architekturmotiven auf.",
+                  "category": "museum",
+                  "coords": [
+                        103.84787,
+                        1.281459
+                  ]
+            },
+            {
+                  "name": "Ann Siang Hill Park",
+                  "text": "Ein schattiger Weg am Hang, der sich an restaurierten historischen Shophouses und alten Gewürzbäumen vorbeischlängelt.",
+                  "category": "park",
+                  "coords": [
+                        103.846346,
+                        1.280811
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mural: Samsui Lady with Cigarette",
+                  "text": "Lenyűgöző utcai művészeti alkotás, amely egy csendes cigarettaszünetet tartó, hagyományos női építőmunkást ábrázol.",
+                  "category": "landmark",
+                  "coords": [
+                        103.845087,
+                        1.2812
+                  ]
+            },
+            {
+                  "name": "Nagore Durgha Indian Muslim Heritage Centre",
+                  "text": "Az eredetileg 1830-ban szentélyként épült történelmi épület a klasszikus és az iszlám építészeti motívumok egyedülálló keverékével rendelkezik.",
+                  "category": "museum",
+                  "coords": [
+                        103.84787,
+                        1.281459
+                  ]
+            },
+            {
+                  "name": "Ann Siang Hill Park",
+                  "text": "Árnyékos hegyoldali ösvény, amely felújított műemlék üzletházak és öreg fűszerfák mellett kanyarog.",
+                  "category": "park",
+                  "coords": [
+                        103.846346,
+                        1.280811
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mural: Samsui Lady with Cigarette",
+                  "text": "O operă de artă stradală impresionantă, care înfățișează o muncitoare tradițională în construcții bucurându-se de o pauză de fumat liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        103.845087,
+                        1.2812
+                  ]
+            },
+            {
+                  "name": "Nagore Durgha Indian Muslim Heritage Centre",
+                  "text": "Construită inițial ca un altar în 1830, această clădire istorică prezintă un amestec unic de motive arhitecturale clasice și islamice.",
+                  "category": "museum",
+                  "coords": [
+                        103.84787,
+                        1.281459
+                  ]
+            },
+            {
+                  "name": "Ann Siang Hill Park",
+                  "text": "O cărare umbrită pe deal, care șerpuiește pe lângă case-magazin de patrimoniu restaurate și copaci vechi de mirodenii.",
+                  "category": "park",
+                  "coords": [
+                        103.846346,
+                        1.280811
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mural: Samsui Lady with Cigarette",
+                  "text": "A striking street art piece depicting a traditional female construction worker enjoying a quiet smoking break.",
+                  "category": "landmark",
+                  "coords": [
+                        103.845087,
+                        1.2812
+                  ]
+            },
+            {
+                  "name": "Nagore Durgha Indian Muslim Heritage Centre",
+                  "text": "Originally built as a shrine in 1830, this historic building features a unique blend of classical and Islamic architectural motifs.",
+                  "category": "museum",
+                  "coords": [
+                        103.84787,
+                        1.281459
+                  ]
+            },
+            {
+                  "name": "Ann Siang Hill Park",
+                  "text": "A shaded hillside pathway winding past restored heritage shophouses and old spice trees.",
+                  "category": "park",
+                  "coords": [
+                        103.846346,
+                        1.280811
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "SG-01",
     coords: [103.847, 1.2813],
@@ -99,7 +216,124 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     },
   },
   {
-    id: "sg-the-cenotaph-history-v2",
+    id: "sg-the-cenotaph-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Anderson Bridge",
+                  "text": "Diese historische Straßenbrücke aus dem Jahr 1910 mit ihren markanten Stahlfachwerken überspannt den Singapore River.",
+                  "category": "landmark",
+                  "coords": [
+                        103.853001,
+                        1.287283
+                  ]
+            },
+            {
+                  "name": "Esplanade Park",
+                  "text": "Dieser historische Grünraum entlang der Uferpromenade ist einer der ältesten Parks der Stadt und beherbergt mehrere Nationaldenkmäler.",
+                  "category": "park",
+                  "coords": [
+                        103.853707,
+                        1.289672
+                  ]
+            },
+            {
+                  "name": "Esplanade Bridge",
+                  "text": "Diese bekannte Fußgänger- und Autobrücke bietet einen Panoramablick auf die Skyline der Stadt und die Uferpromenade.",
+                  "category": "landmark",
+                  "coords": [
+                        103.85411,
+                        1.287986
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Anderson Bridge",
+                  "text": "Az 1910-ben épült, jellegzetes acél rácsos szerkezetű történelmi közúti híd a Szingapúr-folyót íveli át.",
+                  "category": "landmark",
+                  "coords": [
+                        103.853001,
+                        1.287283
+                  ]
+            },
+            {
+                  "name": "Esplanade Park",
+                  "text": "A város egyik legrégebbi parkja ez a vízparti történelmi zöldterület, amely számos nemzeti emlékműnek ad otthont.",
+                  "category": "park",
+                  "coords": [
+                        103.853707,
+                        1.289672
+                  ]
+            },
+            {
+                  "name": "Esplanade Bridge",
+                  "text": "Ez a jól ismert gyalogos és közúti híd panorámás kilátást nyújt a város látképére és a vízpartra.",
+                  "category": "landmark",
+                  "coords": [
+                        103.85411,
+                        1.287986
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Anderson Bridge",
+                  "text": "Construit în 1910, acest pod rutier istoric prezintă ferme de oțel distincte și traversează râul Singapore.",
+                  "category": "landmark",
+                  "coords": [
+                        103.853001,
+                        1.287283
+                  ]
+            },
+            {
+                  "name": "Esplanade Park",
+                  "text": "Unul dintre cele mai vechi parcuri din oraș, acest spațiu verde istoric de-a lungul falezei găzduiește mai multe monumente naționale.",
+                  "category": "park",
+                  "coords": [
+                        103.853707,
+                        1.289672
+                  ]
+            },
+            {
+                  "name": "Esplanade Bridge",
+                  "text": "Acest renumit pod pietonal și rutier oferă o vedere panoramică asupra orizontului orașului și a falezei.",
+                  "category": "landmark",
+                  "coords": [
+                        103.85411,
+                        1.287986
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Anderson Bridge",
+                  "text": "Built in 1910, this historic vehicular bridge features distinct steel trusses and spans across the Singapore River.",
+                  "category": "landmark",
+                  "coords": [
+                        103.853001,
+                        1.287283
+                  ]
+            },
+            {
+                  "name": "Esplanade Park",
+                  "text": "One of the oldest parks in the city, this historic green space along the waterfront is home to several national monuments.",
+                  "category": "park",
+                  "coords": [
+                        103.853707,
+                        1.289672
+                  ]
+            },
+            {
+                  "name": "Esplanade Bridge",
+                  "text": "This renowned pedestrian and vehicular bridge offers panoramic views of the city skyline and waterfront.",
+                  "category": "landmark",
+                  "coords": [
+                        103.85411,
+                        1.287986
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "SG-01",
     coords: [103.8538, 1.2885],
@@ -147,7 +381,160 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     },
   },
   {
-    id: "sg-tanjong-pagar-railway-station-history-v2",
+    id: "sg-tanjong-pagar-railway-station-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Pinnacle@Duxton",
+                  "text": "Ein hochgelegener Aussichtspunkt, der für seine weitläufigen Himmelsbrücken mit weitem Blick über die Stadtlandschaft bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        103.841319,
+                        1.275581
+                  ]
+            },
+            {
+                  "name": "SAM at Tanjong Pagar Distripark",
+                  "text": "Ein Museum für zeitgenössische Kunst, das auf einzigartige Weise in einem massiven industriellen Lagerraum untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        103.836555,
+                        1.271882
+                  ]
+            },
+            {
+                  "name": "Masjid Haji Muhammad Salleh",
+                  "text": "Eine muslimische Kultstätte, die eng mit dem verehrten historischen Schrein Keramat Habib Noh verbunden ist.",
+                  "category": "religious",
+                  "coords": [
+                        103.847462,
+                        1.272768
+                  ]
+            },
+            {
+                  "name": "Poo Thor Jee Temple",
+                  "text": "Ein ruhiges buddhistisches Heiligtum, das 1968 gegründet wurde und eine friedliche Umgebung für spirituelle Praktiken bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.842456,
+                        1.277042
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Pinnacle@Duxton",
+                  "text": "Sokemeletes kilátó, amely hatalmas égi hídjairól ismert, ahonnan pazar kilátás nyílik a városi tájra.",
+                  "category": "natural",
+                  "coords": [
+                        103.841319,
+                        1.275581
+                  ]
+            },
+            {
+                  "name": "SAM at Tanjong Pagar Distripark",
+                  "text": "Hatalmas ipari raktárhelyiségben egyedülálló módon helyet kapó kortárs művészeti múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        103.836555,
+                        1.271882
+                  ]
+            },
+            {
+                  "name": "Masjid Haji Muhammad Salleh",
+                  "text": "Muszlim istentiszteleti hely, amely szorosan kapcsolódik a nagy tiszteletben álló Keramat Habib Noh történelmi szentélyhez.",
+                  "category": "religious",
+                  "coords": [
+                        103.847462,
+                        1.272768
+                  ]
+            },
+            {
+                  "name": "Poo Thor Jee Temple",
+                  "text": "Egy békés, 1968-ban alapított buddhista szentély, amely nyugodt környezetet biztosít a spirituális gyakorlatokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        103.842456,
+                        1.277042
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Pinnacle@Duxton",
+                  "text": "Un punct de belvedere la mare înălțime, recunoscut pentru punțile sale suspendate extinse, care oferă vederi panoramice asupra peisajului urban.",
+                  "category": "natural",
+                  "coords": [
+                        103.841319,
+                        1.275581
+                  ]
+            },
+            {
+                  "name": "SAM at Tanjong Pagar Distripark",
+                  "text": "Un muzeu de artă contemporană găzduit într-un mod unic într-un spațiu masiv de depozit industrial.",
+                  "category": "museum",
+                  "coords": [
+                        103.836555,
+                        1.271882
+                  ]
+            },
+            {
+                  "name": "Masjid Haji Muhammad Salleh",
+                  "text": "Un lăcaș de cult musulman care este strâns asociat cu veneratul altar istoric Keramat Habib Noh.",
+                  "category": "religious",
+                  "coords": [
+                        103.847462,
+                        1.272768
+                  ]
+            },
+            {
+                  "name": "Poo Thor Jee Temple",
+                  "text": "Un sanctuar budist liniștit, înființat în 1968, care oferă un mediu pașnic pentru practicile spirituale.",
+                  "category": "landmark",
+                  "coords": [
+                        103.842456,
+                        1.277042
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Pinnacle@Duxton",
+                  "text": "A high-rise viewpoint recognized for its expansive sky bridges that provide sweeping views over the urban landscape.",
+                  "category": "natural",
+                  "coords": [
+                        103.841319,
+                        1.275581
+                  ]
+            },
+            {
+                  "name": "SAM at Tanjong Pagar Distripark",
+                  "text": "A contemporary art museum uniquely housed within a massive industrial warehouse space.",
+                  "category": "museum",
+                  "coords": [
+                        103.836555,
+                        1.271882
+                  ]
+            },
+            {
+                  "name": "Masjid Haji Muhammad Salleh",
+                  "text": "A Muslim place of worship that is closely associated with the revered Keramat Habib Noh historical shrine.",
+                  "category": "religious",
+                  "coords": [
+                        103.847462,
+                        1.272768
+                  ]
+            },
+            {
+                  "name": "Poo Thor Jee Temple",
+                  "text": "A tranquil Buddhist sanctuary established in 1968, providing a peaceful environment for spiritual practices.",
+                  "category": "landmark",
+                  "coords": [
+                        103.842456,
+                        1.277042
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "SG-01",
     coords: [103.8407, 1.2721],
@@ -195,7 +582,880 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     },
   },
   {
-    id: "sg-istana-kampong-glam-history-v2",
+    id: "sg-istana-kampong-glam-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Indian Heritage Centre",
+                  "text": "Dieses Museum in Little India zeichnet die reiche Geschichte, Kultur und das Erbe der indischen und südasiatischen Gemeinschaften Singapurs nach.",
+                  "category": "museum",
+                  "coords": [
+                        103.852288,
+                        1.30567
+                  ]
+            },
+            {
+                  "name": "Malay Heritage Centre",
+                  "text": "Dieses 1843 erbaute, in einem ehemaligen Palast untergebrachte Kulturzentrum präsentiert das Erbe und die Geschichte der malaiischen Singapurer.",
+                  "category": "museum",
+                  "coords": [
+                        103.859827,
+                        1.302888
+                  ]
+            },
+            {
+                  "name": "Thekchen Choling",
+                  "text": "Dieser tibetisch-buddhistische Tempel ist bekannt für seine traditionellen Heilpraktiken und die regelmäßigen gemeinsamen Gesänge.",
+                  "category": "religious",
+                  "coords": [
+                        103.860461,
+                        1.312016
+                  ]
+            },
+            {
+                  "name": "Masjid Abdul Gafoor",
+                  "text": "Diese historische Moschee besticht durch eine einzigartige Mischung aus südindischer, mogulischer und römischer Architektur sowie eine markante Sonnenuhr über dem Eingang.",
+                  "category": "religious",
+                  "coords": [
+                        103.853738,
+                        1.3044
+                  ]
+            },
+            {
+                  "name": "Sri Veeramakaliamman",
+                  "text": "Dieser aufwendig gestaltete Hindu-Tempel ist der furchteinflößenden Göttin Kali gewidmet und einer der ältesten im Viertel Little India.",
+                  "category": "religious",
+                  "coords": [
+                        103.852397,
+                        1.307932
+                  ]
+            },
+            {
+                  "name": "Kampong Kapor Methodist Church",
+                  "text": "Diese für eine chinesische Gemeinde der Straits-Region gegründete Kirche besticht durch eine markante Art-déco-Fassade und einen hohen Glockenturm.",
+                  "category": "religious",
+                  "coords": [
+                        103.854033,
+                        1.307213
+                  ]
+            },
+            {
+                  "name": "Sri Srinivasa Perumal Temple",
+                  "text": "Dieser majestätische, dem Gott Vishnu geweihte Hindu-Tempel ist leicht an seinem hoch aufragenden Gopuram mit kunstvollen Götterstatuen zu erkennen.",
+                  "category": "religious",
+                  "coords": [
+                        103.856436,
+                        1.313553
+                  ]
+            },
+            {
+                  "name": "Sri Vadapathira Kaliamman Temple",
+                  "text": "Dieser farbenfrohe Hindu-Tempel ist der Göttin Kali gewidmet und bekannt für den heiligen Banyanbaum, der seinen Schrein schützt.",
+                  "category": "religious",
+                  "coords": [
+                        103.857961,
+                        1.315398
+                  ]
+            },
+            {
+                  "name": "Church of Our Lady of Lourdes",
+                  "text": "Diese neugotische katholische Kirche ist dem berühmten Heiligtum in Frankreich nachempfunden und wurde ursprünglich für die tamilischsprachige Gemeinde erbaut.",
+                  "category": "religious",
+                  "coords": [
+                        103.855942,
+                        1.303202
+                  ]
+            },
+            {
+                  "name": "House of Tan Teng Niah",
+                  "text": "Diese außergewöhnlich farbenfrohe, zweistöckige chinesische Villa ist ein lebendiges und viel fotografiertes historisches Wahrzeichen in Little India.",
+                  "category": "landmark",
+                  "coords": [
+                        103.850938,
+                        1.307057
+                  ]
+            },
+            {
+                  "name": "Masjid Malabar",
+                  "text": "Diese 1963 eröffnete, atemberaubende Moschee ist berühmt für die wunderschönen blauen Lapislazuli-Fliesen, die ihre Außenwände und Kuppeln bedecken.",
+                  "category": "religious",
+                  "coords": [
+                        103.859789,
+                        1.305114
+                  ]
+            },
+            {
+                  "name": "7879 Gallery",
+                  "text": "Diese Galerie für zeitgenössische Kunst zeigt wechselnde Ausstellungen moderner Gemälde und Mixed-Media-Installationen lokaler Künstler.",
+                  "category": "museum",
+                  "coords": [
+                        103.856204,
+                        1.30845
+                  ]
+            },
+            {
+                  "name": "XM Studios",
+                  "text": "Diese Galerie und der Showroom zeigen hochdetaillierte, erstklassige Sammlerstatuen und Dioramen, die von beliebten Comic- und Filmfiguren inspiriert sind.",
+                  "category": "museum",
+                  "coords": [
+                        103.862186,
+                        1.30833
+                  ]
+            },
+            {
+                  "name": "Sakya Muni Buddha Gaya Temple",
+                  "text": "Dieses Denkmal, oft als Tempel der tausend Lichter bezeichnet, gruppiert sich um eine massive, 15 Meter hohe Buddhastatue, die von leuchtenden Lampen umgeben ist.",
+                  "category": "historical",
+                  "coords": [
+                        103.856897,
+                        1.31482
+                  ]
+            },
+            {
+                  "name": "The Martial Arts Centre",
+                  "text": "Diese spezielle Trainingseinrichtung verfügt über Mattenböden und Spiegelwände, an denen Praktizierende verschiedene traditionelle und moderne Kampfsportdisziplinen erlernen.",
+                  "category": "cultural",
+                  "coords": [
+                        103.862454,
+                        1.310242
+                  ]
+            },
+            {
+                  "name": "Singapore Indian Fine Arts Society",
+                  "text": "Diese angesehene Kunstakademie bewahrt das kulturelle Erbe durch strenges Training und öffentliche Aufführungen von klassischem indischem Tanz, Musik und Gesang.",
+                  "category": "cultural",
+                  "coords": [
+                        103.853083,
+                        1.314717
+                  ]
+            },
+            {
+                  "name": "Aliwal Arts Centre",
+                  "text": "Dieses multidisziplinäre Kunstzentrum, das in einem ehemaligen Schulgebäude untergebracht ist, bietet Proberäume und Bühnen für unabhängige darstellende Künstler.",
+                  "category": "cultural",
+                  "coords": [
+                        103.861138,
+                        1.302475
+                  ]
+            },
+            {
+                  "name": "Kampong Glam",
+                  "text": "Einst Sitz des malaiischen Königshauses, ist dieses historische Viertel heute eine lebendige kulturelle Enklave, die für ihre Textilgeschäfte, nahöstlichen Cafés und beeindruckende Straßenkunst bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        103.862273,
+                        1.301549
+                  ]
+            },
+            {
+                  "name": "Haji lane",
+                  "text": "Diese extrem schmale Gasse ist weltweit berühmt für ihre deckenhohen Graffiti-Wandmalereien, skurrilen Indie-Boutiquen und das pulsierende Nachtleben.",
+                  "category": "landmark",
+                  "coords": [
+                        103.858471,
+                        1.301547
+                  ]
+            },
+            {
+                  "name": "Bugis Street Back Lane",
+                  "text": "Versteckt hinter dem Haupteinkaufszentrum sind diese dichten Seitengassen vollgepackt mit unzähligen kleinen Ständen, an denen günstige Kleidung, Souvenirs und lokale Straßensnacks verkauft werden.",
+                  "category": "landmark",
+                  "coords": [
+                        103.855027,
+                        1.300902
+                  ]
+            },
+            {
+                  "name": "Arab street shops",
+                  "text": "Diese traditionellen, zweistöckigen Geschäftshäuser quellen über vor reichen Textilien, kunstvoll geflochtenen Körben und importierten Laternen aus dem Nahen Osten.",
+                  "category": "landmark",
+                  "coords": [
+                        103.859803,
+                        1.30044
+                  ]
+            },
+            {
+                  "name": "Tibetan Buddhist Centre",
+                  "text": "Dieses mit bunten Gebetsfahnen geschmückte buddhistische Zentrum bietet Vajrayana-Lehren, geführte Meditationen und einen friedlichen Zufluchtsort vor den Straßen der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.858644,
+                        1.310736
+                  ]
+            },
+            {
+                  "name": "Jubilee Assembly of God",
+                  "text": "Diese lebendige Pfingstkirche versammelt ihre Gemeinde in einem strukturierten, modernen Gottesdienstraum für temperamentvolle musikalische Gottesdienste und Gemeindetreffen.",
+                  "category": "landmark",
+                  "coords": [
+                        103.861363,
+                        1.304033
+                  ]
+            },
+            {
+                  "name": "Covenant Presbyterian Church",
+                  "text": "Diese etablierde presbyterianische Gemeinde versammelt sich in einem klassisch strukturierten Heiligtum und bietet traditionelle Kirchenlieder, Bibelstudien und Familiendienste an.",
+                  "category": "landmark",
+                  "coords": [
+                        103.85191,
+                        1.309282
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Indian Heritage Centre",
+                  "text": "Ez a Little India negyedben található múzeum Szingapúr indiai és dél-ázsiai közösségeinek gazdag történelmét és kulturális örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        103.852288,
+                        1.30567
+                  ]
+            },
+            {
+                  "name": "Malay Heritage Centre",
+                  "text": "Az 1843-ban épült egykori palotában működő kulturális központ a szingapúri maláj közösség történelmét és örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        103.859827,
+                        1.302888
+                  ]
+            },
+            {
+                  "name": "Thekchen Choling",
+                  "text": "Ez a tibeti buddhista templom hagyományos gyógyító gyakorlatairól és rendszeres közösségi kántálásairól ismert.",
+                  "category": "religious",
+                  "coords": [
+                        103.860461,
+                        1.312016
+                  ]
+            },
+            {
+                  "name": "Masjid Abdul Gafoor",
+                  "text": "Ez a történelmi mecset a dél-indiai, a mogul és a római építészet egyedülálló keverékét kínálja, bejáratát pedig egy figyelemre méltó napóra koronázza.",
+                  "category": "religious",
+                  "coords": [
+                        103.853738,
+                        1.3044
+                  ]
+            },
+            {
+                  "name": "Sri Veeramakaliamman",
+                  "text": "A félelmetes Káli istennőnek szentelt, bonyolult faragású hindu templom a Little India negyed egyik legrégebbi szentélye.",
+                  "category": "religious",
+                  "coords": [
+                        103.852397,
+                        1.307932
+                  ]
+            },
+            {
+                  "name": "Kampong Kapor Methodist Church",
+                  "text": "A szorosi kínai gyülekezet számára alapított templom feltűnő Art Deco homlokzattal és egy kiemelkedő harangtoronnyal büszkélkedhet.",
+                  "category": "religious",
+                  "coords": [
+                        103.854033,
+                        1.307213
+                  ]
+            },
+            {
+                  "name": "Sri Srinivasa Perumal Temple",
+                  "text": "A Visnu istennek szentelt hatalmas hindu templom könnyen felismerhető az istenségek bonyolult szobraival díszített, magasba tornyosuló gopuramjáról.",
+                  "category": "religious",
+                  "coords": [
+                        103.856436,
+                        1.313553
+                  ]
+            },
+            {
+                  "name": "Sri Vadapathira Kaliamman Temple",
+                  "text": "Ezt a vibráló hindu templomot Káli istennőnek szentelték, és a szentélyét védelmező szent banyánfájáról nevezetes.",
+                  "category": "religious",
+                  "coords": [
+                        103.857961,
+                        1.315398
+                  ]
+            },
+            {
+                  "name": "Church of Our Lady of Lourdes",
+                  "text": "A franciaországi híres szentély mintájára épült neogótikus katolikus templomot eredetileg a helyi tamil nyelvű közösség számára emelték.",
+                  "category": "religious",
+                  "coords": [
+                        103.855942,
+                        1.303202
+                  ]
+            },
+            {
+                  "name": "House of Tan Teng Niah",
+                  "text": "Ez a kivételesen színes, kétszintes kínai villa egy vibráló és sokat fotózott történelmi nevezetesség Little India szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        103.850938,
+                        1.307057
+                  ]
+            },
+            {
+                  "name": "Masjid Malabar",
+                  "text": "Az 1963-ban megnyílt, lenyűgöző mecset arról híres, hogy külső falait és kupoláit gyönyörű kék lapis lazuli csempék borítják.",
+                  "category": "religious",
+                  "coords": [
+                        103.859789,
+                        1.305114
+                  ]
+            },
+            {
+                  "name": "7879 Gallery",
+                  "text": "Ez a kortárs művészeti galéria helyi művészek modern festményeinek és vegyes technikájú installációinak változó kiállításait kínálja.",
+                  "category": "museum",
+                  "coords": [
+                        103.856204,
+                        1.30845
+                  ]
+            },
+            {
+                  "name": "XM Studios",
+                  "text": "Ez a galéria és bemutatóterem népszerű képregény- és filmfigurák ihlette, rendkívül részletgazdag, prémium gyűjtői szobrokat és diorámákat állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        103.862186,
+                        1.30833
+                  ]
+            },
+            {
+                  "name": "Sakya Muni Buddha Gaya Temple",
+                  "text": "A gyakran az Ezer Fény Templomának nevezett műemlék központjában egy hatalmas, 15 méter magas, kivilágított lámpásokkal körülvett Buddha-szobor áll.",
+                  "category": "historical",
+                  "coords": [
+                        103.856897,
+                        1.31482
+                  ]
+            },
+            {
+                  "name": "The Martial Arts Centre",
+                  "text": "Ez a dedikált edzőközpont tatamival és tükrös falakkal van felszerelve, ahol a gyakorlók különböző hagyományos és modern küzdősportokat sajátíthatnak el.",
+                  "category": "cultural",
+                  "coords": [
+                        103.862454,
+                        1.310242
+                  ]
+            },
+            {
+                  "name": "Singapore Indian Fine Arts Society",
+                  "text": "Ez a nagyra becsült művészeti akadémia a kulturális örökséget a klasszikus indiai tánc, zene és ének szigorú oktatásával és nyilvános előadásaival őrzi.",
+                  "category": "cultural",
+                  "coords": [
+                        103.853083,
+                        1.314717
+                  ]
+            },
+            {
+                  "name": "Aliwal Arts Centre",
+                  "text": "Az egykori iskolaépületben működő, multidiszciplináris művészeti központ próbatermeket és színpadokat biztosít független előadóművészek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        103.861138,
+                        1.302475
+                  ]
+            },
+            {
+                  "name": "Kampong Glam",
+                  "text": "Az egykor a maláj királyság székhelyeként szolgáló történelmi negyed ma vibráló kulturális enklávé, amely textilboltjairól, közel-keleti kávézóiról és lenyűgöző utcai művészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        103.862273,
+                        1.301549
+                  ]
+            },
+            {
+                  "name": "Haji lane",
+                  "text": "Ez a rendkívül szűk sikátor világszerte híres a padlótól a mennyezetig érő graffiti falfestményeiről, a furcsa indie butikokról és a nyüzsgő éjszakai életről.",
+                  "category": "landmark",
+                  "coords": [
+                        103.858471,
+                        1.301547
+                  ]
+            },
+            {
+                  "name": "Bugis Street Back Lane",
+                  "text": "A bevásárlóközpont mögött megbújó, sűrű hátsó utcácskák tele vannak számtalan apró standdal, amelyek megfizethető ruhákat, ajándéktárgyakat és helyi utcai ételeket árusítanak.",
+                  "category": "landmark",
+                  "coords": [
+                        103.855027,
+                        1.300902
+                  ]
+            },
+            {
+                  "name": "Arab street shops",
+                  "text": "Ezek a hagyományos, kétszintes üzletházak roskadoznak a gazdag textilektől, a bonyolultan fonott kosaraktól és az importált közel-keleti lámpásoktól.",
+                  "category": "landmark",
+                  "coords": [
+                        103.859803,
+                        1.30044
+                  ]
+            },
+            {
+                  "name": "Tibetan Buddhist Centre",
+                  "text": "A színes imazászlókkal díszített buddhista központ vadzsrajána tanításokat, vezetett meditációt és békés menedéket kínál a város zajától.",
+                  "category": "landmark",
+                  "coords": [
+                        103.858644,
+                        1.310736
+                  ]
+            },
+            {
+                  "name": "Jubilee Assembly of God",
+                  "text": "Ez a vibráló pünkösdi gyülekezet egy jól felszerelt, modern istentiszteleti térben gyűjti össze híveit lelkes zenés istentiszteletekre és közösségi összejövetelekre.",
+                  "category": "landmark",
+                  "coords": [
+                        103.861363,
+                        1.304033
+                  ]
+            },
+            {
+                  "name": "Covenant Presbyterian Church",
+                  "text": "Ez a bejáratott presbiteriánus gyülekezet egy klasszikus elrendezésű szentélyben gyűlik össze, ahol hagyományos himnuszokat, bibliaórákat és családi szolgálatokat kínálnak.",
+                  "category": "landmark",
+                  "coords": [
+                        103.85191,
+                        1.309282
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Indian Heritage Centre",
+                  "text": "Acest muzeu din Little India urmărește istoria, cultura și patrimoniul bogat al comunităților indiene și sud-asiatice din Singapore.",
+                  "category": "museum",
+                  "coords": [
+                        103.852288,
+                        1.30567
+                  ]
+            },
+            {
+                  "name": "Malay Heritage Centre",
+                  "text": "Găzduit într-un fost palat istoric construit în 1843, acest centru cultural prezintă moștenirea și istoria comunității malaeziene din Singapore.",
+                  "category": "museum",
+                  "coords": [
+                        103.859827,
+                        1.302888
+                  ]
+            },
+            {
+                  "name": "Thekchen Choling",
+                  "text": "Acest templu budist tibetan este renumit pentru practicile sale tradiționale de vindecare și pentru sesiunile regulate de incantații ale comunității.",
+                  "category": "religious",
+                  "coords": [
+                        103.860461,
+                        1.312016
+                  ]
+            },
+            {
+                  "name": "Masjid Abdul Gafoor",
+                  "text": "Această moschee istorică prezintă un amestec unic de arhitectură sud-indiană, mogulă și romană, completată de un cadran solar vizibil deasupra intrării.",
+                  "category": "religious",
+                  "coords": [
+                        103.853738,
+                        1.3044
+                  ]
+            },
+            {
+                  "name": "Sri Veeramakaliamman",
+                  "text": "Dedicat fioroasei zeițe Kali, acest templu hindus sculptat complex este unul dintre cele mai vechi din cartierul Little India.",
+                  "category": "religious",
+                  "coords": [
+                        103.852397,
+                        1.307932
+                  ]
+            },
+            {
+                  "name": "Kampong Kapor Methodist Church",
+                  "text": "Fondată pentru o congregație chineză din strâmtori, această biserică prezintă o fațadă Art Deco impresionantă și un turn cu clopot proeminent.",
+                  "category": "religious",
+                  "coords": [
+                        103.854033,
+                        1.307213
+                  ]
+            },
+            {
+                  "name": "Sri Srinivasa Perumal Temple",
+                  "text": "Acest grandios templu hindus dedicat zeului Vishnu este ușor de recunoscut datorită gopuram-ului său impunător, împodobit cu statui complicate ale zeităților.",
+                  "category": "religious",
+                  "coords": [
+                        103.856436,
+                        1.313553
+                  ]
+            },
+            {
+                  "name": "Sri Vadapathira Kaliamman Temple",
+                  "text": "Acest templu hindus vibrant este dedicat zeiței Kali și se remarcă prin copacul sacru banyan care îi adăpostește altarul.",
+                  "category": "religious",
+                  "coords": [
+                        103.857961,
+                        1.315398
+                  ]
+            },
+            {
+                  "name": "Church of Our Lady of Lourdes",
+                  "text": "Modelată după celebrul sanctuar din Franța, această biserică catolică neogotică a fost construită inițial pentru comunitatea locală vorbitoare de tamilă.",
+                  "category": "religious",
+                  "coords": [
+                        103.855942,
+                        1.303202
+                  ]
+            },
+            {
+                  "name": "House of Tan Teng Niah",
+                  "text": "Această vilă chinezească cu două etaje, extrem de colorată, se evidențiază ca un reper istoric vibrant și foarte fotografiat din Little India.",
+                  "category": "landmark",
+                  "coords": [
+                        103.850938,
+                        1.307057
+                  ]
+            },
+            {
+                  "name": "Masjid Malabar",
+                  "text": "Deschisă în 1963, această moschee uimitoare este faimoasă pentru frumoasele plăci albastre de lapis lazuli care îi acoperă pereții exteriori și domurile.",
+                  "category": "religious",
+                  "coords": [
+                        103.859789,
+                        1.305114
+                  ]
+            },
+            {
+                  "name": "7879 Gallery",
+                  "text": "Această galerie de artă contemporană prezintă expoziții temporare de picturi moderne și instalații media mixte realizate de artiști locali.",
+                  "category": "museum",
+                  "coords": [
+                        103.856204,
+                        1.30845
+                  ]
+            },
+            {
+                  "name": "XM Studios",
+                  "text": "Această galerie și showroom expune statui și diorame de colecție premium, foarte detaliate, inspirate din personaje populare de benzi desenate și filme.",
+                  "category": "museum",
+                  "coords": [
+                        103.862186,
+                        1.30833
+                  ]
+            },
+            {
+                  "name": "Sakya Muni Buddha Gaya Temple",
+                  "text": "Deseori numit Templul celor o Mie de Lumini, acest monument este centrat în jurul unei statui masive a lui Buddha, de 15 metri înălțime, înconjurată de lămpi iluminate.",
+                  "category": "historical",
+                  "coords": [
+                        103.856897,
+                        1.31482
+                  ]
+            },
+            {
+                  "name": "The Martial Arts Centre",
+                  "text": "Această facilitate de antrenament dedicată are podele cu saltele și pereți cu oglinzi, unde practicanții învață diverse discipline de luptă tradiționale și moderne.",
+                  "category": "cultural",
+                  "coords": [
+                        103.862454,
+                        1.310242
+                  ]
+            },
+            {
+                  "name": "Singapore Indian Fine Arts Society",
+                  "text": "Această prestigioasă academie de arte păstrează moștenirea culturală prin cursuri riguroase și spectacole publice de dans, muzică și canto clasic indian.",
+                  "category": "cultural",
+                  "coords": [
+                        103.853083,
+                        1.314717
+                  ]
+            },
+            {
+                  "name": "Aliwal Arts Centre",
+                  "text": "Găzduit într-o fostă clădire de școală, acest centru de arte multidisciplinar oferă săli de repetiție și scene pentru artiști independenți ai artelor spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        103.861138,
+                        1.302475
+                  ]
+            },
+            {
+                  "name": "Kampong Glam",
+                  "text": "Cândva sediul regalității malaeziene, acest cartier istoric este acum o enclavă culturală vibrantă cunoscută pentru magazinele sale de textile, cafenelele din Orientul Mijlociu și arta stradală impresionantă.",
+                  "category": "landmark",
+                  "coords": [
+                        103.862273,
+                        1.301549
+                  ]
+            },
+            {
+                  "name": "Haji lane",
+                  "text": "Această alee extrem de îngustă este renumită la nivel mondial pentru picturile sale murale graffiti de sus până jos, buticurile indie excentrice și viața de noapte animată.",
+                  "category": "landmark",
+                  "coords": [
+                        103.858471,
+                        1.301547
+                  ]
+            },
+            {
+                  "name": "Bugis Street Back Lane",
+                  "text": "Ascunse în spatele centrului comercial principal, aceste străduțe lăturalnice înghesuite sunt pline cu nenumărate tarabe mici care vând haine la prețuri accesibile, suveniruri și gustări stradale locale.",
+                  "category": "landmark",
+                  "coords": [
+                        103.855027,
+                        1.300902
+                  ]
+            },
+            {
+                  "name": "Arab street shops",
+                  "text": "Aceste prăvălii tradiționale cu două etaje sunt pline ochi cu textile bogate, coșuri împletite complicat și felinare importate din Orientul Mijlociu.",
+                  "category": "landmark",
+                  "coords": [
+                        103.859803,
+                        1.30044
+                  ]
+            },
+            {
+                  "name": "Tibetan Buddhist Centre",
+                  "text": "Decorat cu steaguri de rugăciune colorate, acest centru budist oferă învățături Vajrayana, meditație ghidată și un refugiu pașnic de pe străzile aglomerate ale orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        103.858644,
+                        1.310736
+                  ]
+            },
+            {
+                  "name": "Jubilee Assembly of God",
+                  "text": "Această biserică penticostală vibrantă își adună congregația într-un spațiu de închinare structurat și modern pentru slujbe muzicale pline de spirit și adunări ale comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        103.861363,
+                        1.304033
+                  ]
+            },
+            {
+                  "name": "Covenant Presbyterian Church",
+                  "text": "Această congregație prezbiteriană consacrată se adună într-un sanctuar cu structură clasică, oferind imnuri tradiționale, studii biblice și slujiri pentru familii.",
+                  "category": "landmark",
+                  "coords": [
+                        103.85191,
+                        1.309282
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Indian Heritage Centre",
+                  "text": "This museum in Little India traces the rich history, culture, and heritage of Singapore's Indian and South Asian communities.",
+                  "category": "museum",
+                  "coords": [
+                        103.852288,
+                        1.30567
+                  ]
+            },
+            {
+                  "name": "Malay Heritage Centre",
+                  "text": "Set in a historic former palace built in 1843, this cultural centre showcases the heritage and history of Malay Singaporeans.",
+                  "category": "museum",
+                  "coords": [
+                        103.859827,
+                        1.302888
+                  ]
+            },
+            {
+                  "name": "Thekchen Choling",
+                  "text": "This Tibetan Buddhist temple is renowned for its traditional healing practices and regular community chanting sessions.",
+                  "category": "religious",
+                  "coords": [
+                        103.860461,
+                        1.312016
+                  ]
+            },
+            {
+                  "name": "Masjid Abdul Gafoor",
+                  "text": "This historic mosque features a unique blend of South Indian, Moghul, and Roman architecture, complete with a notable sundial crowning its entrance.",
+                  "category": "religious",
+                  "coords": [
+                        103.853738,
+                        1.3044
+                  ]
+            },
+            {
+                  "name": "Sri Veeramakaliamman",
+                  "text": "Dedicated to the fierce goddess Kali, this intricately sculpted Hindu temple is one of the oldest in the Little India district.",
+                  "category": "religious",
+                  "coords": [
+                        103.852397,
+                        1.307932
+                  ]
+            },
+            {
+                  "name": "Kampong Kapor Methodist Church",
+                  "text": "Founded for a Straits Chinese congregation, this church features a striking Art Deco facade and a prominent bell tower.",
+                  "category": "religious",
+                  "coords": [
+                        103.854033,
+                        1.307213
+                  ]
+            },
+            {
+                  "name": "Sri Srinivasa Perumal Temple",
+                  "text": "This grand Hindu temple dedicated to Lord Vishnu is easily recognized by its towering gopuram adorned with intricate statues of deities.",
+                  "category": "religious",
+                  "coords": [
+                        103.856436,
+                        1.313553
+                  ]
+            },
+            {
+                  "name": "Sri Vadapathira Kaliamman Temple",
+                  "text": "This vibrant Hindu temple is dedicated to the goddess Kali and is notable for the sacred banyan tree sheltering its shrine.",
+                  "category": "religious",
+                  "coords": [
+                        103.857961,
+                        1.315398
+                  ]
+            },
+            {
+                  "name": "Church of Our Lady of Lourdes",
+                  "text": "Modeled after the famous sanctuary in France, this Neo-Gothic Catholic church was originally built for the local Tamil-speaking community.",
+                  "category": "religious",
+                  "coords": [
+                        103.855942,
+                        1.303202
+                  ]
+            },
+            {
+                  "name": "House of Tan Teng Niah",
+                  "text": "This exceptionally colorful, two-story Chinese villa stands out as a vibrant and highly photographed historical landmark in Little India.",
+                  "category": "landmark",
+                  "coords": [
+                        103.850938,
+                        1.307057
+                  ]
+            },
+            {
+                  "name": "Masjid Malabar",
+                  "text": "Opened in 1963, this stunning mosque is famously clad in beautiful blue lapis lazuli tiles that cover its exterior walls and domes.",
+                  "category": "religious",
+                  "coords": [
+                        103.859789,
+                        1.305114
+                  ]
+            },
+            {
+                  "name": "7879 Gallery",
+                  "text": "This contemporary art gallery features rotating exhibitions of modern paintings and mixed-media installations by local artists.",
+                  "category": "museum",
+                  "coords": [
+                        103.856204,
+                        1.30845
+                  ]
+            },
+            {
+                  "name": "XM Studios",
+                  "text": "This gallery and showroom displays highly detailed, premium collectible statues and dioramas inspired by popular comic and film characters.",
+                  "category": "museum",
+                  "coords": [
+                        103.862186,
+                        1.30833
+                  ]
+            },
+            {
+                  "name": "Sakya Muni Buddha Gaya Temple",
+                  "text": "Often called the Temple of a Thousand Lights, this monument centers around a massive, 15-meter-tall Buddha statue surrounded by illuminated lamps.",
+                  "category": "historical",
+                  "coords": [
+                        103.856897,
+                        1.31482
+                  ]
+            },
+            {
+                  "name": "The Martial Arts Centre",
+                  "text": "This dedicated training facility features matted floors and mirrored walls where practitioners learn various traditional and modern combat disciplines.",
+                  "category": "cultural",
+                  "coords": [
+                        103.862454,
+                        1.310242
+                  ]
+            },
+            {
+                  "name": "Singapore Indian Fine Arts Society",
+                  "text": "This esteemed arts academy preserves cultural heritage through rigorous training and public performances of classical Indian dance, music, and vocals.",
+                  "category": "cultural",
+                  "coords": [
+                        103.853083,
+                        1.314717
+                  ]
+            },
+            {
+                  "name": "Aliwal Arts Centre",
+                  "text": "Housed in a former school building, this multi-disciplinary arts centre provides rehearsal spaces and stages for independent performing artists.",
+                  "category": "cultural",
+                  "coords": [
+                        103.861138,
+                        1.302475
+                  ]
+            },
+            {
+                  "name": "Kampong Glam",
+                  "text": "Once the seat of Malay royalty, this historic district is now a vibrant cultural enclave known for its textile shops, Middle Eastern cafes, and striking street art.",
+                  "category": "landmark",
+                  "coords": [
+                        103.862273,
+                        1.301549
+                  ]
+            },
+            {
+                  "name": "Haji lane",
+                  "text": "This extremely narrow alleyway is globally famous for its floor-to-ceiling graffiti murals, quirky indie boutiques, and bustling nightlife.",
+                  "category": "landmark",
+                  "coords": [
+                        103.858471,
+                        1.301547
+                  ]
+            },
+            {
+                  "name": "Bugis Street Back Lane",
+                  "text": "Tucked behind the main shopping hub, these dense back lanes are packed with countless small stalls selling affordable clothing, souvenirs, and local street snacks.",
+                  "category": "landmark",
+                  "coords": [
+                        103.855027,
+                        1.300902
+                  ]
+            },
+            {
+                  "name": "Arab street shops",
+                  "text": "These traditional two-story shophouses overflow with rich textiles, intricately woven baskets, and imported Middle Eastern lanterns.",
+                  "category": "landmark",
+                  "coords": [
+                        103.859803,
+                        1.30044
+                  ]
+            },
+            {
+                  "name": "Tibetan Buddhist Centre",
+                  "text": "Decorated with colourful prayer flags, this Buddhist centre offers Vajrayana teachings, guided meditation, and a peaceful refuge from the city streets.",
+                  "category": "landmark",
+                  "coords": [
+                        103.858644,
+                        1.310736
+                  ]
+            },
+            {
+                  "name": "Jubilee Assembly of God",
+                  "text": "This vibrant Pentecostal church gathers its congregation in a structured, modern worship space for spirited musical services and community gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        103.861363,
+                        1.304033
+                  ]
+            },
+            {
+                  "name": "Covenant Presbyterian Church",
+                  "text": "This established Presbyterian congregation gathers in a classically structured sanctuary, offering traditional hymns, bible studies, and family ministries.",
+                  "category": "landmark",
+                  "coords": [
+                        103.85191,
+                        1.309282
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "SG-01",
     coords: [103.8601, 1.3028],
@@ -243,7 +1503,448 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     },
   },
   {
-    id: "sg-alexandra-hospital-wwii-history-v2",
+    id: "sg-alexandra-hospital-wwii-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Skyville@Dawson",
+                  "text": "Eine Hochhaus-Sozialsiedlung mit einem Panoramablick auf das historische Areal des Alexandra Hospitals.",
+                  "category": "natural",
+                  "coords": [
+                        103.809992,
+                        1.295806
+                  ]
+            },
+            {
+                  "name": "Auditorium",
+                  "text": "Ein Veranstaltungsauditorium in der Umgebung des historischen Alexandra Hospitals.",
+                  "category": "cultural",
+                  "coords": [
+                        103.80024,
+                        1.286024
+                  ]
+            },
+            {
+                  "name": "Sri Muneeswaran Temple",
+                  "text": "Ein bemerkenswerter Hindu-Tempel in der Nähe des historischen Alexandra Hospitals.",
+                  "category": "religious",
+                  "coords": [
+                        103.798478,
+                        1.295662
+                  ]
+            },
+            {
+                  "name": "Masjid Hang Jebat",
+                  "text": "Eine historische lokale Moschee, die als Kultstätte in der Nähe des Alexandra Hospitals dient.",
+                  "category": "religious",
+                  "coords": [
+                        103.798622,
+                        1.289556
+                  ]
+            },
+            {
+                  "name": "The Lost Ark",
+                  "text": "Eine faszinierende Attraktionsstruktur im historischen Viertel rund um das Alexandra Hospital.",
+                  "category": "landmark",
+                  "coords": [
+                        103.797709,
+                        1.288285
+                  ]
+            },
+            {
+                  "name": "Masjid Mujahidin",
+                  "text": "Eine anerkannte Moschee, die die lokale islamische Gemeinschaft nahe der historischen Stätte des Alexandra Hospitals unterstützt.",
+                  "category": "religious",
+                  "coords": [
+                        103.800962,
+                        1.298135
+                  ]
+            },
+            {
+                  "name": "Immanuel Christian Church",
+                  "text": "Eine christliche Gottesdiensteinrichtung in der Nachbarschaft des historischen Alexandra Hospitals.",
+                  "category": "landmark",
+                  "coords": [
+                        103.813858,
+                        1.290859
+                  ]
+            },
+            {
+                  "name": "The Fisherman of Christ Fellowship",
+                  "text": "Ein Raum für christliche Gemeinschaft, in dem sich Gläubige nahe dem historischen Alexandra Hospital versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        103.80362,
+                        1.299158
+                  ]
+            },
+            {
+                  "name": "True Way Presby Church",
+                  "text": "Eine presbyterianische Kirche, die in der Nähe des historischen Bezirks des Alexandra Hospitals christliche Dienste anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.8059,
+                        1.29377
+                  ]
+            },
+            {
+                  "name": "Tiong Ghee Temple",
+                  "text": "Ein daoistischer Tempel, der der traditionellen Anbetung und Ritualen nahe dem historischen Alexandra Hospital gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        103.804108,
+                        1.29094
+                  ]
+            },
+            {
+                  "name": "Kwan Yam Theng Buddhist Temple",
+                  "text": "Ein buddhistischer Tempel, der als Zufluchtsort für das Gebet in der Nähe der Stätte des historischen Alexandra Hospitals dient.",
+                  "category": "landmark",
+                  "coords": [
+                        103.812235,
+                        1.291649
+                  ]
+            },
+            {
+                  "name": "Queenstown Baptist Church",
+                  "text": "Eine christliche Baptistenkirche, die der örtlichen Gemeinde nahe dem historischen Viertel des Alexandra Hospital dient.",
+                  "category": "landmark",
+                  "coords": [
+                        103.808524,
+                        1.297119
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Skyville@Dawson",
+                  "text": "Egy sokemeletes közösségi lakópark panorámás kilátóval a történelmi Alexandra Kórház területére.",
+                  "category": "natural",
+                  "coords": [
+                        103.809992,
+                        1.295806
+                  ]
+            },
+            {
+                  "name": "Auditorium",
+                  "text": "Előadóterem a történelmi Alexandra Kórház szomszédságában.",
+                  "category": "cultural",
+                  "coords": [
+                        103.80024,
+                        1.286024
+                  ]
+            },
+            {
+                  "name": "Sri Muneeswaran Temple",
+                  "text": "A történelmi Alexandra Kórház közelében lévő közösséget szolgáló jelentős hindu templom.",
+                  "category": "religious",
+                  "coords": [
+                        103.798478,
+                        1.295662
+                  ]
+            },
+            {
+                  "name": "Masjid Hang Jebat",
+                  "text": "Egy történelmi helyi mecset, amely istentiszteleti helyként szolgál az Alexandra Kórház közelében.",
+                  "category": "religious",
+                  "coords": [
+                        103.798622,
+                        1.289556
+                  ]
+            },
+            {
+                  "name": "The Lost Ark",
+                  "text": "Érdekes látványosság az Alexandra Kórház körüli történelmi negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        103.797709,
+                        1.288285
+                  ]
+            },
+            {
+                  "name": "Masjid Mujahidin",
+                  "text": "Egy elismert mecset, amely a történelmi Alexandra Kórház közelében működő helyi iszlám közösséget támogatja.",
+                  "category": "religious",
+                  "coords": [
+                        103.800962,
+                        1.298135
+                  ]
+            },
+            {
+                  "name": "Immanuel Christian Church",
+                  "text": "A történelmi Alexandra Kórház szomszédságában alapított keresztény istentiszteleti létesítmény.",
+                  "category": "landmark",
+                  "coords": [
+                        103.813858,
+                        1.290859
+                  ]
+            },
+            {
+                  "name": "The Fisherman of Christ Fellowship",
+                  "text": "A történelmi Alexandra Kórház közelében lévő hívőket összegyűjtő keresztény közösségi tér.",
+                  "category": "landmark",
+                  "coords": [
+                        103.80362,
+                        1.299158
+                  ]
+            },
+            {
+                  "name": "True Way Presby Church",
+                  "text": "A történelmi Alexandra Kórház negyedének közelében keresztény szolgálatokat kínáló presbiteriánus templom.",
+                  "category": "landmark",
+                  "coords": [
+                        103.8059,
+                        1.29377
+                  ]
+            },
+            {
+                  "name": "Tiong Ghee Temple",
+                  "text": "A hagyományos imádatnak és rituáléknak szentelt taoista templom a történelmi Alexandra Kórház közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        103.804108,
+                        1.29094
+                  ]
+            },
+            {
+                  "name": "Kwan Yam Theng Buddhist Temple",
+                  "text": "A történelmi Alexandra Kórház helyének közelében az imádság szentélyeként szolgáló buddhista templom.",
+                  "category": "landmark",
+                  "coords": [
+                        103.812235,
+                        1.291649
+                  ]
+            },
+            {
+                  "name": "Queenstown Baptist Church",
+                  "text": "Keresztény baptista templom a történelmi Alexandra Kórház negyedének közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        103.808524,
+                        1.297119
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Skyville@Dawson",
+                  "text": "O dezvoltare de locuințe publice la mare înălțime, care oferă un punct de vedere panoramic asupra zonei istorice a Spitalului Alexandra.",
+                  "category": "natural",
+                  "coords": [
+                        103.809992,
+                        1.295806
+                  ]
+            },
+            {
+                  "name": "Auditorium",
+                  "text": "O sală de spectacole situată în vecinătatea istoricului Spital Alexandra.",
+                  "category": "cultural",
+                  "coords": [
+                        103.80024,
+                        1.286024
+                  ]
+            },
+            {
+                  "name": "Sri Muneeswaran Temple",
+                  "text": "Un templu hindus remarcabil care deservește comunitatea din apropierea istoricului Spital Alexandra.",
+                  "category": "religious",
+                  "coords": [
+                        103.798478,
+                        1.295662
+                  ]
+            },
+            {
+                  "name": "Masjid Hang Jebat",
+                  "text": "O moschee locală istorică care oferă un loc de cult în apropierea Spitalului Alexandra.",
+                  "category": "religious",
+                  "coords": [
+                        103.798622,
+                        1.289556
+                  ]
+            },
+            {
+                  "name": "The Lost Ark",
+                  "text": "O atracție intrigantă situată în districtul istoric din jurul Spitalului Alexandra.",
+                  "category": "landmark",
+                  "coords": [
+                        103.797709,
+                        1.288285
+                  ]
+            },
+            {
+                  "name": "Masjid Mujahidin",
+                  "text": "O moschee recunoscută care sprijină comunitatea islamică locală în apropierea sitului istoric al Spitalului Alexandra.",
+                  "category": "religious",
+                  "coords": [
+                        103.800962,
+                        1.298135
+                  ]
+            },
+            {
+                  "name": "Immanuel Christian Church",
+                  "text": "O facilitate de cult creștin înființată în cartierul istoricului Spital Alexandra.",
+                  "category": "landmark",
+                  "coords": [
+                        103.813858,
+                        1.290859
+                  ]
+            },
+            {
+                  "name": "The Fisherman of Christ Fellowship",
+                  "text": "Un spațiu de părtășie creștină care adună credincioșii în apropierea istoricului Spital Alexandra.",
+                  "category": "landmark",
+                  "coords": [
+                        103.80362,
+                        1.299158
+                  ]
+            },
+            {
+                  "name": "True Way Presby Church",
+                  "text": "O biserică presbiteriană care oferă slujiri creștine în apropierea districtului istoric al Spitalului Alexandra.",
+                  "category": "landmark",
+                  "coords": [
+                        103.8059,
+                        1.29377
+                  ]
+            },
+            {
+                  "name": "Tiong Ghee Temple",
+                  "text": "Un templu taoist dedicat cultului și ritualurilor tradiționale în apropierea istoricului Spital Alexandra.",
+                  "category": "landmark",
+                  "coords": [
+                        103.804108,
+                        1.29094
+                  ]
+            },
+            {
+                  "name": "Kwan Yam Theng Buddhist Temple",
+                  "text": "Un templu budist care servește drept sanctuar pentru rugăciune în apropierea sitului istoric al Spitalului Alexandra.",
+                  "category": "landmark",
+                  "coords": [
+                        103.812235,
+                        1.291649
+                  ]
+            },
+            {
+                  "name": "Queenstown Baptist Church",
+                  "text": "O biserică baptistă creștină care deservește comunitatea locală din apropierea cartierului istoric al Spitalului Alexandra.",
+                  "category": "landmark",
+                  "coords": [
+                        103.808524,
+                        1.297119
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Skyville@Dawson",
+                  "text": "A high-rise public housing development featuring a panoramic viewpoint overlooking the historic Alexandra Hospital area.",
+                  "category": "natural",
+                  "coords": [
+                        103.809992,
+                        1.295806
+                  ]
+            },
+            {
+                  "name": "Auditorium",
+                  "text": "A performance auditorium situated within the vicinity of the historic Alexandra Hospital.",
+                  "category": "cultural",
+                  "coords": [
+                        103.80024,
+                        1.286024
+                  ]
+            },
+            {
+                  "name": "Sri Muneeswaran Temple",
+                  "text": "A notable Hindu temple serving the community near the historic Alexandra Hospital.",
+                  "category": "religious",
+                  "coords": [
+                        103.798478,
+                        1.295662
+                  ]
+            },
+            {
+                  "name": "Masjid Hang Jebat",
+                  "text": "A historic local mosque providing a place of worship near the site of the Alexandra Hospital.",
+                  "category": "religious",
+                  "coords": [
+                        103.798622,
+                        1.289556
+                  ]
+            },
+            {
+                  "name": "The Lost Ark",
+                  "text": "An intriguing attraction structure located in the historical district around Alexandra Hospital.",
+                  "category": "landmark",
+                  "coords": [
+                        103.797709,
+                        1.288285
+                  ]
+            },
+            {
+                  "name": "Masjid Mujahidin",
+                  "text": "A recognised mosque supporting the local Islamic community near the historic Alexandra Hospital site.",
+                  "category": "religious",
+                  "coords": [
+                        103.800962,
+                        1.298135
+                  ]
+            },
+            {
+                  "name": "Immanuel Christian Church",
+                  "text": "A Christian worship facility established in the neighbourhood of the historic Alexandra Hospital.",
+                  "category": "landmark",
+                  "coords": [
+                        103.813858,
+                        1.290859
+                  ]
+            },
+            {
+                  "name": "The Fisherman of Christ Fellowship",
+                  "text": "A Christian fellowship space gathering worshippers near the historic Alexandra Hospital.",
+                  "category": "landmark",
+                  "coords": [
+                        103.80362,
+                        1.299158
+                  ]
+            },
+            {
+                  "name": "True Way Presby Church",
+                  "text": "A Presbyterian church offering Christian ministries near the historic Alexandra Hospital district.",
+                  "category": "landmark",
+                  "coords": [
+                        103.8059,
+                        1.29377
+                  ]
+            },
+            {
+                  "name": "Tiong Ghee Temple",
+                  "text": "A Taoist temple dedicated to traditional worship and rituals near the historic Alexandra Hospital.",
+                  "category": "landmark",
+                  "coords": [
+                        103.804108,
+                        1.29094
+                  ]
+            },
+            {
+                  "name": "Kwan Yam Theng Buddhist Temple",
+                  "text": "A Buddhist temple serving as a sanctuary for prayer near the site of the historic Alexandra Hospital.",
+                  "category": "landmark",
+                  "coords": [
+                        103.812235,
+                        1.291649
+                  ]
+            },
+            {
+                  "name": "Queenstown Baptist Church",
+                  "text": "A Christian Baptist church serving the local community near the historic Alexandra Hospital district.",
+                  "category": "landmark",
+                  "coords": [
+                        103.808524,
+                        1.297119
+                  ]
+            }
+      ]
+},
     type: "battlefield",
     parent: "SG-01",
     coords: [103.805, 1.288],
@@ -291,7 +1992,232 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     },
   },
   {
-    id: "sg-adam-park-battlefield-history-v2",
+    id: "sg-adam-park-battlefield-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abandoned Car",
+                  "text": "Die verrosteten Überreste eines alten Fahrzeugs liegen versteckt im Dschungel des historischen Adam-Park-Gebiets.",
+                  "category": "landmark",
+                  "coords": [
+                        103.821653,
+                        1.331317
+                  ]
+            },
+            {
+                  "name": "Aqueduct",
+                  "text": "Dieses historische steinerne Aquädukt diente einst dem Wassertransport durch das umliegende Gelände.",
+                  "category": "landmark",
+                  "coords": [
+                        103.81527,
+                        1.335364
+                  ]
+            },
+            {
+                  "name": "True Jesus Church",
+                  "text": "Ein christliches Gotteshaus der überkonfessionellen Wahren Jesus-Kirche.",
+                  "category": "landmark",
+                  "coords": [
+                        103.813229,
+                        1.326552
+                  ]
+            },
+            {
+                  "name": "Adam Road Presbyterian Church",
+                  "text": "Eine christliche Gemeinde an der Adam Road, die in der presbyterianischen Tradition steht.",
+                  "category": "landmark",
+                  "coords": [
+                        103.813368,
+                        1.327583
+                  ]
+            },
+            {
+                  "name": "Kuan Yin San Temple",
+                  "text": "Ein ruhiger buddhistischer Tempel, der Kuan Yin, der Göttin der Barmherzigkeit, gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        103.811342,
+                        1.324774
+                  ]
+            },
+            {
+                  "name": "Poh Ming Tse Temple",
+                  "text": "Ein beschaulicher buddhistischer Tempel, der einen ruhigen Ort für Meditation und spirituelle Einkehr bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.809748,
+                        1.325336
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abandoned Car",
+                  "text": "Egy régi jármű rozsdás maradványai bújnak meg a történelmi Adam Park dzsungelében.",
+                  "category": "landmark",
+                  "coords": [
+                        103.821653,
+                        1.331317
+                  ]
+            },
+            {
+                  "name": "Aqueduct",
+                  "text": "Ez a történelmi kő akvadukt egykor a víz szállítását szolgálta a környező terepen keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        103.81527,
+                        1.335364
+                  ]
+            },
+            {
+                  "name": "True Jesus Church",
+                  "text": "Az Igaz Jézus Egyház felekezet nélküli mozgalmához tartozó keresztény istentiszteleti hely.",
+                  "category": "landmark",
+                  "coords": [
+                        103.813229,
+                        1.326552
+                  ]
+            },
+            {
+                  "name": "Adam Road Presbyterian Church",
+                  "text": "Az Adam Road-on található, presbiteriánus hagyományokat követő keresztény gyülekezet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.813368,
+                        1.327583
+                  ]
+            },
+            {
+                  "name": "Kuan Yin San Temple",
+                  "text": "Békés buddhista templom, amelyet Kuan Jinnek, az irgalom istennőjének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        103.811342,
+                        1.324774
+                  ]
+            },
+            {
+                  "name": "Poh Ming Tse Temple",
+                  "text": "Egy csendes buddhista templom, amely nyugodt teret biztosít a meditációhoz és a spirituális elvonulásokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        103.809748,
+                        1.325336
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abandoned Car",
+                  "text": "Rămășițele ruginite ale unui vehicul vechi zac ascunse în jungla din zona istorică Adam Park.",
+                  "category": "landmark",
+                  "coords": [
+                        103.821653,
+                        1.331317
+                  ]
+            },
+            {
+                  "name": "Aqueduct",
+                  "text": "Acest apeduct istoric de piatră a servit cândva la transportul apei de-a lungul terenului înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        103.81527,
+                        1.335364
+                  ]
+            },
+            {
+                  "name": "True Jesus Church",
+                  "text": "Un lăcaș de cult creștin aparținând mișcării non-denominaționale Adevărata Biserică a lui Iisus.",
+                  "category": "landmark",
+                  "coords": [
+                        103.813229,
+                        1.326552
+                  ]
+            },
+            {
+                  "name": "Adam Road Presbyterian Church",
+                  "text": "O congregație creștină de pe Adam Road care funcționează în tradiția prezbiteriană.",
+                  "category": "landmark",
+                  "coords": [
+                        103.813368,
+                        1.327583
+                  ]
+            },
+            {
+                  "name": "Kuan Yin San Temple",
+                  "text": "Un templu budist senin dedicat lui Kuan Yin, Zeița Milei.",
+                  "category": "landmark",
+                  "coords": [
+                        103.811342,
+                        1.324774
+                  ]
+            },
+            {
+                  "name": "Poh Ming Tse Temple",
+                  "text": "Un templu budist liniștit, care oferă un spațiu retras pentru meditație și reculegere spirituală.",
+                  "category": "landmark",
+                  "coords": [
+                        103.809748,
+                        1.325336
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abandoned Car",
+                  "text": "The rusted remains of an old vehicle lie hidden in the jungle of the historic Adam Park area.",
+                  "category": "landmark",
+                  "coords": [
+                        103.821653,
+                        1.331317
+                  ]
+            },
+            {
+                  "name": "Aqueduct",
+                  "text": "This historic stone aqueduct once served to transport water across the surrounding terrain.",
+                  "category": "landmark",
+                  "coords": [
+                        103.81527,
+                        1.335364
+                  ]
+            },
+            {
+                  "name": "True Jesus Church",
+                  "text": "A Christian place of worship belonging to the non-denominational True Jesus Church movement.",
+                  "category": "landmark",
+                  "coords": [
+                        103.813229,
+                        1.326552
+                  ]
+            },
+            {
+                  "name": "Adam Road Presbyterian Church",
+                  "text": "A Christian congregation on Adam Road operating within the Presbyterian tradition.",
+                  "category": "landmark",
+                  "coords": [
+                        103.813368,
+                        1.327583
+                  ]
+            },
+            {
+                  "name": "Kuan Yin San Temple",
+                  "text": "A serene Buddhist temple dedicated to Kuan Yin, the Goddess of Mercy.",
+                  "category": "landmark",
+                  "coords": [
+                        103.811342,
+                        1.324774
+                  ]
+            },
+            {
+                  "name": "Poh Ming Tse Temple",
+                  "text": "A tranquil Buddhist temple offering a quiet space for meditation and spiritual retreats.",
+                  "category": "landmark",
+                  "coords": [
+                        103.809748,
+                        1.325336
+                  ]
+            }
+      ]
+},
     type: "battlefield",
     parent: "SG-01",
     coords: [103.815, 1.331],
@@ -339,7 +2265,88 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     },
   },
   {
-    id: "sg-yuch-hai-ching-temple-history-v2",
+    id: "sg-yuch-hai-ching-temple-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fuk Tak Chi",
+                  "text": "Ein ehemaliger chinesischer Tempel aus dem 19. Jahrhundert, der sorgfältig restauriert und in ein Kulturerbe-Museum auf Straßenebene umgewandelt wurde.",
+                  "category": "museum",
+                  "coords": [
+                        103.848782,
+                        1.282876
+                  ]
+            },
+            {
+                  "name": "Yueh Hai Ching Temple",
+                  "text": "Dieser 1976 restaurierte traditionelle chinesische Tempel ist berühmt für sein kunstvolles, dicht verziertes Dach.",
+                  "category": "religious",
+                  "coords": [
+                        103.849317,
+                        1.284555
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fuk Tak Chi",
+                  "text": "Egykori 19. századi kínai templom, amelyet gondosan felújítottak, és utcaszinti örökségmúzeummá alakítottak át.",
+                  "category": "museum",
+                  "coords": [
+                        103.848782,
+                        1.282876
+                  ]
+            },
+            {
+                  "name": "Yueh Hai Ching Temple",
+                  "text": "Az 1976-ban restaurált hagyományos kínai templom híres bonyolult, sűrűn díszített tetőzetéről.",
+                  "category": "religious",
+                  "coords": [
+                        103.849317,
+                        1.284555
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fuk Tak Chi",
+                  "text": "Un fost templu chinezesc din secolul al XIX-lea, care a fost restaurat cu grijă și transformat într-un muzeu de patrimoniu la nivelul străzii.",
+                  "category": "museum",
+                  "coords": [
+                        103.848782,
+                        1.282876
+                  ]
+            },
+            {
+                  "name": "Yueh Hai Ching Temple",
+                  "text": "Restaurat în 1976, acest templu tradițional chinezesc este renumit pentru acoperișul său elaborat și dens ornamentat.",
+                  "category": "religious",
+                  "coords": [
+                        103.849317,
+                        1.284555
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fuk Tak Chi",
+                  "text": "A former 19th-century Chinese temple that has been carefully restored and converted into a street-level heritage museum.",
+                  "category": "museum",
+                  "coords": [
+                        103.848782,
+                        1.282876
+                  ]
+            },
+            {
+                  "name": "Yueh Hai Ching Temple",
+                  "text": "Restored in 1976, this traditional Chinese temple is famous for its elaborate, densely ornamented roof.",
+                  "category": "religious",
+                  "coords": [
+                        103.849317,
+                        1.284555
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "SG-01",
     coords: [103.8488, 1.284],
@@ -387,7 +2394,160 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     },
   },
   {
-    id: "sg-german-girl-shrine-history-v2",
+    id: "sg-german-girl-shrine-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Former Thai Temple",
+                  "text": "Der ehemalige Thai-Tempel bietet Besuchern einen Einblick in das historische spirituelle Erbe dieser Küstenregion.",
+                  "category": "landmark",
+                  "coords": [
+                        103.952105,
+                        1.416849
+                  ]
+            },
+            {
+                  "name": "Sarang Buaya Pasir Gudang",
+                  "text": "Sarang Buaya Pasir Gudang ist ein spezielles Krokodilschutzgebiet, in dem Besucher diese großen Reptilien in einem geschützten Gehege beobachten können.",
+                  "category": "landmark",
+                  "coords": [
+                        103.998521,
+                        1.442534
+                  ]
+            },
+            {
+                  "name": "Mamam Beach",
+                  "text": "Mamam Beach ist ein ruhiger Küstenabschnitt, der entspannende Ausblicke auf das umliegende Wasser und die Sandstrände bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        103.975799,
+                        1.418375
+                  ]
+            },
+            {
+                  "name": "Taman Rekreasi Bakau Tanjung Langsat",
+                  "text": "Taman Rekreasi Bakau Tanjung Langsat ist ein geschütztes Naturschutzgebiet mit einem empfindlichen Mangroven-Ökosystem, das über Holzstege zugänglich ist.",
+                  "category": "natural",
+                  "coords": [
+                        103.995076,
+                        1.441839
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Former Thai Temple",
+                  "text": "Az egykori thai templom bepillantást enged a látogatóknak a partvidéki régióban hátrahagyott történelmi spirituális örökségbe.",
+                  "category": "landmark",
+                  "coords": [
+                        103.952105,
+                        1.416849
+                  ]
+            },
+            {
+                  "name": "Sarang Buaya Pasir Gudang",
+                  "text": "A Sarang Buaya Pasir Gudang egy dedikált krokodilrezervátum, ahol a látogatók védett kifutóban figyelhetik meg ezeket a nagy hüllőket.",
+                  "category": "landmark",
+                  "coords": [
+                        103.998521,
+                        1.442534
+                  ]
+            },
+            {
+                  "name": "Mamam Beach",
+                  "text": "A Mamam Beach egy csendes partszakasz, amely pihentető kilátást nyújt a környező vizekre és a homokos partokra.",
+                  "category": "recreational",
+                  "coords": [
+                        103.975799,
+                        1.418375
+                  ]
+            },
+            {
+                  "name": "Taman Rekreasi Bakau Tanjung Langsat",
+                  "text": "A Taman Rekreasi Bakau Tanjung Langsat egy védett természetvédelmi terület, amelynek törékeny mangrove ökoszisztémája fa sétányokon keresztül közelíthető meg.",
+                  "category": "natural",
+                  "coords": [
+                        103.995076,
+                        1.441839
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Former Thai Temple",
+                  "text": "Fostul templu thailandez oferă vizitatorilor o privire asupra moștenirii spirituale istorice lăsate în urmă în această regiune de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        103.952105,
+                        1.416849
+                  ]
+            },
+            {
+                  "name": "Sarang Buaya Pasir Gudang",
+                  "text": "Sarang Buaya Pasir Gudang este un sanctuar dedicat crocodililor, unde vizitatorii pot observa aceste reptile mari într-o incintă protejată.",
+                  "category": "landmark",
+                  "coords": [
+                        103.998521,
+                        1.442534
+                  ]
+            },
+            {
+                  "name": "Mamam Beach",
+                  "text": "Plaja Mamam este o zonă de coastă liniștită, care oferă vederi relaxante asupra apelor din jur și țărmuri nisipoase.",
+                  "category": "recreational",
+                  "coords": [
+                        103.975799,
+                        1.418375
+                  ]
+            },
+            {
+                  "name": "Taman Rekreasi Bakau Tanjung Langsat",
+                  "text": "Taman Rekreasi Bakau Tanjung Langsat este o rezervație naturală protejată, cu un ecosistem fragil de mangrove, accesibil prin pasarele din lemn.",
+                  "category": "natural",
+                  "coords": [
+                        103.995076,
+                        1.441839
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Former Thai Temple",
+                  "text": "The Former Thai Temple offers visitors a glimpse into the historical spiritual heritage left behind in this coastal region.",
+                  "category": "landmark",
+                  "coords": [
+                        103.952105,
+                        1.416849
+                  ]
+            },
+            {
+                  "name": "Sarang Buaya Pasir Gudang",
+                  "text": "Sarang Buaya Pasir Gudang is a dedicated crocodile sanctuary where visitors can observe these large reptiles in a protected enclosure.",
+                  "category": "landmark",
+                  "coords": [
+                        103.998521,
+                        1.442534
+                  ]
+            },
+            {
+                  "name": "Mamam Beach",
+                  "text": "Mamam Beach is a quiet coastal stretch offering relaxing views over the surrounding waters and sandy shores.",
+                  "category": "recreational",
+                  "coords": [
+                        103.975799,
+                        1.418375
+                  ]
+            },
+            {
+                  "name": "Taman Rekreasi Bakau Tanjung Langsat",
+                  "text": "Taman Rekreasi Bakau Tanjung Langsat is a protected nature reserve featuring a fragile mangrove ecosystem accessed via wooden boardwalks.",
+                  "category": "natural",
+                  "coords": [
+                        103.995076,
+                        1.441839
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "SG-01",
     coords: [103.96, 1.411],
@@ -435,7 +2595,196 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     },
   },
   {
-    id: "sg-masjid-hajjah-fatimah-history-v2",
+    id: "sg-masjid-hajjah-fatimah-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Banyan Tree & Ruin",
+                  "text": "Ein Banyan-Baum, der mit historischen Architekturruinen verwachsen ist und eine einzigartige lokale Attraktion darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.8664,
+                        1.306683
+                  ]
+            },
+            {
+                  "name": "Art Social",
+                  "text": "Ein lokaler Galerieraum, der der Ausstellung zeitgenössischer Kunstwerke und sozialer Ausstellungen gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        103.864616,
+                        1.303483
+                  ]
+            },
+            {
+                  "name": "Merdeka Bridge",
+                  "text": "Diese bekannte Brücke überspannt das Kallang-Becken und führt den Verkehr des Nicoll Highway über das Wasser.",
+                  "category": "landmark",
+                  "coords": [
+                        103.868909,
+                        1.304561
+                  ]
+            },
+            {
+                  "name": "Masjid Hajjah Fatimah",
+                  "text": "Diese islamische Kultstätte zeichnet sich durch ihr schiefes Minarett mit europäischen Architektureinflüssen aus.",
+                  "category": "religious",
+                  "coords": [
+                        103.862948,
+                        1.302834
+                  ]
+            },
+            {
+                  "name": "Singapore Sports Museum",
+                  "text": "Ein engagiertes Museum, das das reiche sportliche Erbe und die sportlichen Errungenschaften der Nation zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        103.873441,
+                        1.30136
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Banyan Tree & Ruin",
+                  "text": "Egy történelmi romokkal egybenőtt banyánfa, amely egyedülálló helyi látványosságként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        103.8664,
+                        1.306683
+                  ]
+            },
+            {
+                  "name": "Art Social",
+                  "text": "Egy helyi galéria, amely kortárs művészeti alkotások és társadalmi témájú kiállítások bemutatására szolgál.",
+                  "category": "museum",
+                  "coords": [
+                        103.864616,
+                        1.303483
+                  ]
+            },
+            {
+                  "name": "Merdeka Bridge",
+                  "text": "Ez a figyelemre méltó híd a Kallang-medencén ível át, és a Nicoll Highway forgalmát vezeti át a vízen.",
+                  "category": "landmark",
+                  "coords": [
+                        103.868909,
+                        1.304561
+                  ]
+            },
+            {
+                  "name": "Masjid Hajjah Fatimah",
+                  "text": "Ez az iszlám istentiszteleti hely különösen ismert európai építészeti hatásokat tükröző, ferde minaretjéről.",
+                  "category": "religious",
+                  "coords": [
+                        103.862948,
+                        1.302834
+                  ]
+            },
+            {
+                  "name": "Singapore Sports Museum",
+                  "text": "Egy tematikus múzeum, amely a nemzet gazdag sporthagyatékát és atlétikai eredményeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        103.873441,
+                        1.30136
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Banyan Tree & Ruin",
+                  "text": "Un arbore banyan împletit cu ruine arhitecturale istorice, servind drept o atracție locală inedită.",
+                  "category": "landmark",
+                  "coords": [
+                        103.8664,
+                        1.306683
+                  ]
+            },
+            {
+                  "name": "Art Social",
+                  "text": "O galerie locală dedicată expunerii de lucrări artistice contemporane și expoziții sociale.",
+                  "category": "museum",
+                  "coords": [
+                        103.864616,
+                        1.303483
+                  ]
+            },
+            {
+                  "name": "Merdeka Bridge",
+                  "text": "Acest pod notabil traversează bazinul Kallang, preluând traficul de pe autostrada Nicoll peste apă.",
+                  "category": "landmark",
+                  "coords": [
+                        103.868909,
+                        1.304561
+                  ]
+            },
+            {
+                  "name": "Masjid Hajjah Fatimah",
+                  "text": "Acest lăcaș de cult islamic se remarcă prin minaretul său înclinat, proiectat cu influențe arhitecturale europene.",
+                  "category": "religious",
+                  "coords": [
+                        103.862948,
+                        1.302834
+                  ]
+            },
+            {
+                  "name": "Singapore Sports Museum",
+                  "text": "Un muzeu dedicat care prezintă bogata moștenire sportivă și realizările atletice ale națiunii.",
+                  "category": "museum",
+                  "coords": [
+                        103.873441,
+                        1.30136
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Banyan Tree & Ruin",
+                  "text": "A banyan tree intertwined with historic architectural ruins, serving as a unique local attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        103.8664,
+                        1.306683
+                  ]
+            },
+            {
+                  "name": "Art Social",
+                  "text": "A local gallery space dedicated to displaying contemporary artistic works and social exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        103.864616,
+                        1.303483
+                  ]
+            },
+            {
+                  "name": "Merdeka Bridge",
+                  "text": "This notable bridge spans the Kallang Basin, carrying Nicoll Highway traffic across the water.",
+                  "category": "landmark",
+                  "coords": [
+                        103.868909,
+                        1.304561
+                  ]
+            },
+            {
+                  "name": "Hajjah Fatimah Mosque",
+                  "text": "This Islamic place of worship is uniquely notable for its leaning minaret designed with European architectural influences.",
+                  "category": "religious",
+                  "coords": [
+                        103.862948,
+                        1.302834
+                  ]
+            },
+            {
+                  "name": "Singapore Sports Museum",
+                  "text": "A dedicated museum showcasing the rich sporting heritage and athletic achievements of the nation.",
+                  "category": "museum",
+                  "coords": [
+                        103.873441,
+                        1.30136
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "SG-01",
     coords: [103.8655, 1.3025],
@@ -483,7 +2832,448 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     },
   },
   {
-    id: "sg-hong-san-see-temple-history-v2",
+    id: "sg-hong-san-see-temple-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Opera Gallery",
+                  "text": "Eine Galerie für zeitgenössische Kunst, die eine kuratierte Auswahl moderner internationaler und lokaler Kunstwerke ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        103.832456,
+                        1.30353
+                  ]
+            },
+            {
+                  "name": "Grace Assembly of God Singapore (Tanglin)",
+                  "text": "Ein pfingstchristliches Gotteshaus, das der örtlichen Gemeinde seit 1950 dient.",
+                  "category": "religious",
+                  "coords": [
+                        103.816497,
+                        1.294411
+                  ]
+            },
+            {
+                  "name": "Tiong Bahru Park",
+                  "text": "Ein ruhiger Stadtpark, der bei einheimischen Familien für seinen ikonischen, lebensgroßen Kippzug-Spielplatz bekannt ist.",
+                  "category": "park",
+                  "coords": [
+                        103.824339,
+                        1.287692
+                  ]
+            },
+            {
+                  "name": "Masjid Istiqamah - KBRI",
+                  "text": "Eine muslimische Moschee im Komplex der indonesischen Botschaft, die der lokalen indonesischen Expat-Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        103.822385,
+                        1.298957
+                  ]
+            },
+            {
+                  "name": "Church of God",
+                  "text": "Eine christliche Gemeindekirche, die regelmäßige Gottesdienste in der Umgebung des Hong-San-See-Tempels anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.815828,
+                        1.291187
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Queenstown",
+                  "text": "Eine bedeutende muslimische Moschee mit markanten javanischen Architekturelementen, die dem Viertel Queenstown dient.",
+                  "category": "landmark",
+                  "coords": [
+                        103.815465,
+                        1.292982
+                  ]
+            },
+            {
+                  "name": "Zion Full Gospel Church",
+                  "text": "Die Zion Full Gospel Church ist eine christliche Kultstätte, die der lokalen Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        103.830326,
+                        1.297298
+                  ]
+            },
+            {
+                  "name": "Masjid Jamiyah Ar-Rabitah",
+                  "text": "Die Masjid Jamiyah Ar-Rabitah ist eine lokale islamische Moschee für die muslimischen Gläubigen.",
+                  "category": "landmark",
+                  "coords": [
+                        103.820161,
+                        1.288359
+                  ]
+            },
+            {
+                  "name": "My Saviour's Church",
+                  "text": "My Saviour's Church fungiert als ein dem Gebet gewidmetes christliches Gotteshaus in der Gegend.",
+                  "category": "landmark",
+                  "coords": [
+                        103.823691,
+                        1.292219
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Delta",
+                  "text": "Die Masjid Kampong Delta ist ein islamisches Gotteshaus, das der muslimischen Gemeinde des Viertels dient.",
+                  "category": "landmark",
+                  "coords": [
+                        103.82837,
+                        1.291651
+                  ]
+            },
+            {
+                  "name": "Kay Poh Road Baptist Church",
+                  "text": "Die Kay Poh Road Baptist Church ist ein christliches Gemeindegebäude, das sich auf baptistische Traditionen konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        103.829168,
+                        1.296606
+                  ]
+            },
+            {
+                  "name": "Church of St Bernadette",
+                  "text": "Die Church of St Bernadette ist eine christliche Pfarrkirche, die der lokalen Gemeinde religiöse Dienste anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.830345,
+                        1.294678
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Opera Gallery",
+                  "text": "Kortárs művészeti galéria, amely modern nemzetközi és helyi alkotások gondosan összeállított válogatását állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        103.832456,
+                        1.30353
+                  ]
+            },
+            {
+                  "name": "Grace Assembly of God Singapore (Tanglin)",
+                  "text": "Pünkösdi keresztény istentiszteleti hely, amely 1950 óta szolgálja a helyi gyülekezetet.",
+                  "category": "religious",
+                  "coords": [
+                        103.816497,
+                        1.294411
+                  ]
+            },
+            {
+                  "name": "Tiong Bahru Park",
+                  "text": "Nyugodt városi park, amely a helyi családok körében ikonikus, életnagyságú, dőlő vonatot ábrázoló játszóteréről híres.",
+                  "category": "park",
+                  "coords": [
+                        103.824339,
+                        1.287692
+                  ]
+            },
+            {
+                  "name": "Masjid Istiqamah - KBRI",
+                  "text": "Az indonéz nagykövetség épületegyüttesében található muszlim mecset, amely a helyi indonéz közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        103.822385,
+                        1.298957
+                  ]
+            },
+            {
+                  "name": "Church of God",
+                  "text": "Keresztény közösségi templom, amely rendszeres istentiszteleteket kínál a Hong San See templom környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        103.815828,
+                        1.291187
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Queenstown",
+                  "text": "Kiemelkedő, jellegzetes jávai építészeti elemekkel díszített muszlim mecset, amely Queenstown negyedét szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        103.815465,
+                        1.292982
+                  ]
+            },
+            {
+                  "name": "Zion Full Gospel Church",
+                  "text": "A Zion Full Gospel Church egy keresztény istentiszteleti hely, amely a helyi közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        103.830326,
+                        1.297298
+                  ]
+            },
+            {
+                  "name": "Masjid Jamiyah Ar-Rabitah",
+                  "text": "A Masjid Jamiyah Ar-Rabitah egy helyi iszlám mecset, amely a muszlim híveket szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        103.820161,
+                        1.288359
+                  ]
+            },
+            {
+                  "name": "My Saviour's Church",
+                  "text": "A My Saviour's Church egy dedikált keresztény imaházként működik a környéken.",
+                  "category": "landmark",
+                  "coords": [
+                        103.823691,
+                        1.292219
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Delta",
+                  "text": "A Masjid Kampong Delta egy iszlám istentiszteleti hely, amely a környék muszlim közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        103.82837,
+                        1.291651
+                  ]
+            },
+            {
+                  "name": "Kay Poh Road Baptist Church",
+                  "text": "A Kay Poh Road Baptist Church egy keresztény gyülekezeti épület, amely a baptista hagyományokra összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        103.829168,
+                        1.296606
+                  ]
+            },
+            {
+                  "name": "Church of St Bernadette",
+                  "text": "A Church of St Bernadette egy keresztény plébániatemplom, amely vallási szolgáltatásokat nyújt a helyi közösségnek.",
+                  "category": "landmark",
+                  "coords": [
+                        103.830345,
+                        1.294678
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Opera Gallery",
+                  "text": "O galerie de artă contemporană care expune o selecție curatorială de opere de artă moderne internaționale și locale.",
+                  "category": "museum",
+                  "coords": [
+                        103.832456,
+                        1.30353
+                  ]
+            },
+            {
+                  "name": "Grace Assembly of God Singapore (Tanglin)",
+                  "text": "Un lăcaș de cult creștin penticostal care deservește congregația locală din 1950.",
+                  "category": "religious",
+                  "coords": [
+                        103.816497,
+                        1.294411
+                  ]
+            },
+            {
+                  "name": "Tiong Bahru Park",
+                  "text": "Un parc urban liniștit, renumit printre familiile locale pentru terenul său de joacă emblematic în formă de tren înclinat, în mărime naturală.",
+                  "category": "park",
+                  "coords": [
+                        103.824339,
+                        1.287692
+                  ]
+            },
+            {
+                  "name": "Masjid Istiqamah - KBRI",
+                  "text": "O moschee musulmană situată în complexul Ambasadei Indoneziei pentru a deservi comunitatea locală de expatriați indonezieni.",
+                  "category": "landmark",
+                  "coords": [
+                        103.822385,
+                        1.298957
+                  ]
+            },
+            {
+                  "name": "Church of God",
+                  "text": "O biserică comunitară creștină care oferă slujbe religioase regulate în zona templului Hong San See.",
+                  "category": "landmark",
+                  "coords": [
+                        103.815828,
+                        1.291187
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Queenstown",
+                  "text": "O moschee musulmană proeminentă, cu elemente arhitecturale javaneze distinctive, care deservește cartierul Queenstown.",
+                  "category": "landmark",
+                  "coords": [
+                        103.815465,
+                        1.292982
+                  ]
+            },
+            {
+                  "name": "Zion Full Gospel Church",
+                  "text": "Zion Full Gospel Church este un lăcaș de cult creștin care deservește comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        103.830326,
+                        1.297298
+                  ]
+            },
+            {
+                  "name": "Masjid Jamiyah Ar-Rabitah",
+                  "text": "Masjid Jamiyah Ar-Rabitah este o moschee islamică locală destinată credincioșilor musulmani.",
+                  "category": "landmark",
+                  "coords": [
+                        103.820161,
+                        1.288359
+                  ]
+            },
+            {
+                  "name": "My Saviour's Church",
+                  "text": "My Saviour's Church funcționează ca o casă de rugăciune creștină dedicată în zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        103.823691,
+                        1.292219
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Delta",
+                  "text": "Masjid Kampong Delta este un lăcaș de cult islamic care deservește comunitatea musulmană din cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        103.82837,
+                        1.291651
+                  ]
+            },
+            {
+                  "name": "Kay Poh Road Baptist Church",
+                  "text": "Kay Poh Road Baptist Church este o clădire a congregației creștine axată pe tradițiile baptiste.",
+                  "category": "landmark",
+                  "coords": [
+                        103.829168,
+                        1.296606
+                  ]
+            },
+            {
+                  "name": "Church of St Bernadette",
+                  "text": "Biserica Sf. Bernadette este o biserică parohială creștină care oferă servicii religioase comunității locale.",
+                  "category": "landmark",
+                  "coords": [
+                        103.830345,
+                        1.294678
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Opera Gallery",
+                  "text": "A contemporary art gallery exhibiting a curated selection of modern international and local artwork.",
+                  "category": "museum",
+                  "coords": [
+                        103.832456,
+                        1.30353
+                  ]
+            },
+            {
+                  "name": "Grace Assembly of God Singapore (Tanglin)",
+                  "text": "A Pentecostal Christian place of worship that has been serving the local congregation since 1950.",
+                  "category": "religious",
+                  "coords": [
+                        103.816497,
+                        1.294411
+                  ]
+            },
+            {
+                  "name": "Tiong Bahru Park",
+                  "text": "A tranquil urban park renowned among local families for its iconic, life-sized tilting train playground.",
+                  "category": "park",
+                  "coords": [
+                        103.824339,
+                        1.287692
+                  ]
+            },
+            {
+                  "name": "Masjid Istiqamah - KBRI",
+                  "text": "A Muslim mosque situated within the Indonesian Embassy complex to serve the local Indonesian expatriate community.",
+                  "category": "landmark",
+                  "coords": [
+                        103.822385,
+                        1.298957
+                  ]
+            },
+            {
+                  "name": "Church of God",
+                  "text": "A Christian community church offering regular worship services in the Hong San See temple area.",
+                  "category": "landmark",
+                  "coords": [
+                        103.815828,
+                        1.291187
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Queenstown",
+                  "text": "A prominent Muslim mosque featuring distinctive Javanese architectural elements serving the Queenstown neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        103.815465,
+                        1.292982
+                  ]
+            },
+            {
+                  "name": "Zion Full Gospel Church",
+                  "text": "Zion Full Gospel Church is a Christian place of worship serving the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        103.830326,
+                        1.297298
+                  ]
+            },
+            {
+                  "name": "Masjid Jamiyah Ar-Rabitah",
+                  "text": "Masjid Jamiyah Ar-Rabitah is a local Islamic mosque catering to the Muslim faithful.",
+                  "category": "landmark",
+                  "coords": [
+                        103.820161,
+                        1.288359
+                  ]
+            },
+            {
+                  "name": "My Saviour's Church",
+                  "text": "My Saviour's Church functions as a dedicated Christian house of prayer in the area.",
+                  "category": "landmark",
+                  "coords": [
+                        103.823691,
+                        1.292219
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Delta",
+                  "text": "Masjid Kampong Delta is an Islamic house of worship serving the neighborhood's Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        103.82837,
+                        1.291651
+                  ]
+            },
+            {
+                  "name": "Kay Poh Road Baptist Church",
+                  "text": "Kay Poh Road Baptist Church is a Christian congregation building focused on Baptist traditions.",
+                  "category": "landmark",
+                  "coords": [
+                        103.829168,
+                        1.296606
+                  ]
+            },
+            {
+                  "name": "Church of St Bernadette",
+                  "text": "The Church of St Bernadette is a Christian parish church providing religious services to the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        103.830345,
+                        1.294678
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "SG-01",
     coords: [103.8236, 1.2892],
@@ -531,7 +3321,412 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     },
   },
   {
-    id: "sg-st-georges-church-history-v2",
+    id: "sg-st-georges-church-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Art Works Gallery",
+                  "text": "Eine Kunstgalerie in der Nähe der historischen St. George's Church, die visuelle Kunstwerke ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        103.793813,
+                        1.31117
+                  ]
+            },
+            {
+                  "name": "Holland Village Methodist Church",
+                  "text": "Ein methodistisches Kirchengebäude im lebhaften Viertel Holland Village in der Nähe der St. George's Church.",
+                  "category": "landmark",
+                  "coords": [
+                        103.797771,
+                        1.307746
+                  ]
+            },
+            {
+                  "name": "Free Community Church",
+                  "text": "Ein integrativer Raum für christliche Gottesdienste in der Nähe der St. George's Church.",
+                  "category": "landmark",
+                  "coords": [
+                        103.797289,
+                        1.303934
+                  ]
+            },
+            {
+                  "name": "Queenstown Lutheran Church",
+                  "text": "Eine lutherische Gemeinde, die in der Gegend von Queenstown nahe der St. George's Church christliche Gottesdienste abhält.",
+                  "category": "landmark",
+                  "coords": [
+                        103.799209,
+                        1.306287
+                  ]
+            },
+            {
+                  "name": "Ying Fo Fui Kun Ancestral Temple",
+                  "text": "Ein traditioneller Ahnentempel des Hakka-Clans in der Nähe der St. George's Church.",
+                  "category": "religious",
+                  "coords": [
+                        103.795972,
+                        1.305747
+                  ]
+            },
+            {
+                  "name": "Tan Kong Tian Temple",
+                  "text": "Ein lokaler chinesischer Tempel nahe der St. George's Church, der ein Ort für Gottesdienste und spirituelle Praktiken ist.",
+                  "category": "religious",
+                  "coords": [
+                        103.779339,
+                        1.315108
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Huda",
+                  "text": "Eine Moschee in der Nähe der historischen St. George's Church, die der lokalen muslimischen Gemeinschaft für die täglichen Gebete dient.",
+                  "category": "landmark",
+                  "coords": [
+                        103.794933,
+                        1.323304
+                  ]
+            },
+            {
+                  "name": "St. James' Church",
+                  "text": "Eine moderne christliche Kirche, in der regelmäßig Gottesdienste nahe der St. George's Church stattfinden.",
+                  "category": "landmark",
+                  "coords": [
+                        103.796216,
+                        1.312852
+                  ]
+            },
+            {
+                  "name": "Faith Methodist Church;Queenstown Chinese Methodist Church",
+                  "text": "Ein gemeinsames christliches Gebäude nahe der St. George's Church, in dem sowohl die Faith- als auch die Queenstown-Chinese-Methodistengemeinden untergebracht sind.",
+                  "category": "landmark",
+                  "coords": [
+                        103.797336,
+                        1.302581
+                  ]
+            },
+            {
+                  "name": "Ghim Moh Road Market",
+                  "text": "Ein beliebter lokaler Markt und Food-Center entlang der Ghim Moh Road nahe der St. George's Church.",
+                  "category": "cultural",
+                  "coords": [
+                        103.788374,
+                        1.311
+                  ]
+            },
+            {
+                  "name": "Holland Village Market",
+                  "text": "Ein Marktkomplex im belebten Holland Village nahe der St. George's Church, der frische Lebensmittel und Stände bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        103.79476,
+                        1.311019
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Art Works Gallery",
+                  "text": "Vizuális művészeti alkotásokat bemutató művészeti galéria a történelmi Szent György-templom közelében.",
+                  "category": "museum",
+                  "coords": [
+                        103.793813,
+                        1.31117
+                  ]
+            },
+            {
+                  "name": "Holland Village Methodist Church",
+                  "text": "Egy metodista templomépület a nyüzsgő Holland Village negyedben, a Szent György-templom közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        103.797771,
+                        1.307746
+                  ]
+            },
+            {
+                  "name": "Free Community Church",
+                  "text": "Befogadó keresztény templomi gyülekezeti tér a Szent György-templom szomszédságában.",
+                  "category": "landmark",
+                  "coords": [
+                        103.797289,
+                        1.303934
+                  ]
+            },
+            {
+                  "name": "Queenstown Lutheran Church",
+                  "text": "A Szent György-templomhoz közeli Queenstown területén működő evangélikus gyülekezet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.799209,
+                        1.306287
+                  ]
+            },
+            {
+                  "name": "Ying Fo Fui Kun Ancestral Temple",
+                  "text": "Egy hagyományos Hakka klán ősi temploma, amely hagyományos istentiszteleti helyként szolgál a Szent György-templom közelében.",
+                  "category": "religious",
+                  "coords": [
+                        103.795972,
+                        1.305747
+                  ]
+            },
+            {
+                  "name": "Tan Kong Tian Temple",
+                  "text": "Helyi kínai templom, amely az imádat és a spirituális gyakorlatok helyszíne a Szent György-templom közelében.",
+                  "category": "religious",
+                  "coords": [
+                        103.779339,
+                        1.315108
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Huda",
+                  "text": "A helyi muszlim közösséget a napi imák során kiszolgáló mecset a történelmi Szent György-templom közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        103.794933,
+                        1.323304
+                  ]
+            },
+            {
+                  "name": "St. James' Church",
+                  "text": "Egy modern keresztény templomépület, ahol rendszeres istentiszteleteket tartanak a Szent György-templom közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        103.796216,
+                        1.312852
+                  ]
+            },
+            {
+                  "name": "Faith Methodist Church;Queenstown Chinese Methodist Church",
+                  "text": "A Faith és a Queenstown-i kínai metodista gyülekezetnek egyaránt otthont adó közös keresztény épület a Szent György-templom közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        103.797336,
+                        1.302581
+                  ]
+            },
+            {
+                  "name": "Ghim Moh Road Market",
+                  "text": "Egy népszerű helyi piac és ételközpont a Ghim Moh Road mentén, a Szent György-templom közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        103.788374,
+                        1.311
+                  ]
+            },
+            {
+                  "name": "Holland Village Market",
+                  "text": "Friss ételeket és standokat kínáló piackomplexum a nyüzsgő Holland Village negyedben, a Szent György-templom közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        103.79476,
+                        1.311019
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Art Works Gallery",
+                  "text": "O galerie de artă dedicată expunerii de lucrări de artă vizuală în apropierea zonei istorice a Bisericii Sf. Gheorghe.",
+                  "category": "museum",
+                  "coords": [
+                        103.793813,
+                        1.31117
+                  ]
+            },
+            {
+                  "name": "Holland Village Methodist Church",
+                  "text": "O clădire a bisericii metodiste situată în vibrantul cartier Holland Village, lângă Biserica Sf. Gheorghe.",
+                  "category": "landmark",
+                  "coords": [
+                        103.797771,
+                        1.307746
+                  ]
+            },
+            {
+                  "name": "Free Community Church",
+                  "text": "Un spațiu de adunare bisericească creștină incluzivă, situat în vecinătatea Bisericii Sf. Gheorghe.",
+                  "category": "landmark",
+                  "coords": [
+                        103.797289,
+                        1.303934
+                  ]
+            },
+            {
+                  "name": "Queenstown Lutheran Church",
+                  "text": "O congregație luterană care oficiază slujbe creștine în zona Queenstown, lângă Biserica Sf. Gheorghe.",
+                  "category": "landmark",
+                  "coords": [
+                        103.799209,
+                        1.306287
+                  ]
+            },
+            {
+                  "name": "Ying Fo Fui Kun Ancestral Temple",
+                  "text": "Un templu tradițional ancestral al clanului Hakka, care servește drept loc de cult în apropierea Bisericii Sf. Gheorghe.",
+                  "category": "religious",
+                  "coords": [
+                        103.795972,
+                        1.305747
+                  ]
+            },
+            {
+                  "name": "Tan Kong Tian Temple",
+                  "text": "Un templu chinezesc local care oferă un loc de cult și practică spirituală în apropierea Bisericii Sf. Gheorghe.",
+                  "category": "religious",
+                  "coords": [
+                        103.779339,
+                        1.315108
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Huda",
+                  "text": "O moschee care deservește comunitatea musulmană locală pentru rugăciunile zilnice în apropierea Bisericii istorice Sf. Gheorghe.",
+                  "category": "landmark",
+                  "coords": [
+                        103.794933,
+                        1.323304
+                  ]
+            },
+            {
+                  "name": "St. James' Church",
+                  "text": "O biserică creștină modernă care găzduiește slujbe regulate în apropierea Bisericii Sf. Gheorghe.",
+                  "category": "landmark",
+                  "coords": [
+                        103.796216,
+                        1.312852
+                  ]
+            },
+            {
+                  "name": "Faith Methodist Church;Queenstown Chinese Methodist Church",
+                  "text": "O clădire creștină comună care găzduiește atât congregația Faith, cât și congregația Queenstown Chinese Methodist lângă Biserica Sf. Gheorghe.",
+                  "category": "landmark",
+                  "coords": [
+                        103.797336,
+                        1.302581
+                  ]
+            },
+            {
+                  "name": "Ghim Moh Road Market",
+                  "text": "O piață locală populară și un centru alimentar situat de-a lungul drumului Ghim Moh, lângă Biserica Sf. Gheorghe.",
+                  "category": "cultural",
+                  "coords": [
+                        103.788374,
+                        1.311
+                  ]
+            },
+            {
+                  "name": "Holland Village Market",
+                  "text": "Un complex de piețe care oferă alimente proaspete și tarabe în zona aglomerată Holland Village, lângă Biserica Sf. Gheorghe.",
+                  "category": "cultural",
+                  "coords": [
+                        103.79476,
+                        1.311019
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Art Works Gallery",
+                  "text": "A dedicated art gallery showcasing visual artworks near the historic St. George's Church area.",
+                  "category": "museum",
+                  "coords": [
+                        103.793813,
+                        1.31117
+                  ]
+            },
+            {
+                  "name": "Holland Village Methodist Church",
+                  "text": "A Methodist church building located in the vibrant Holland Village district near St. George's Church.",
+                  "category": "landmark",
+                  "coords": [
+                        103.797771,
+                        1.307746
+                  ]
+            },
+            {
+                  "name": "Free Community Church",
+                  "text": "An inclusive Christian church gathering space situated in the vicinity of St. George's Church.",
+                  "category": "landmark",
+                  "coords": [
+                        103.797289,
+                        1.303934
+                  ]
+            },
+            {
+                  "name": "Queenstown Lutheran Church",
+                  "text": "A Lutheran congregation holding Christian services in the Queenstown area near St. George's Church.",
+                  "category": "landmark",
+                  "coords": [
+                        103.799209,
+                        1.306287
+                  ]
+            },
+            {
+                  "name": "Ying Fo Fui Kun Ancestral Temple",
+                  "text": "A traditional Hakka clan ancestral temple serving as a place of traditional worship near St. George's Church.",
+                  "category": "religious",
+                  "coords": [
+                        103.795972,
+                        1.305747
+                  ]
+            },
+            {
+                  "name": "Tan Kong Tian Temple",
+                  "text": "A local Chinese temple providing a place of worship and spiritual practice near St. George's Church.",
+                  "category": "religious",
+                  "coords": [
+                        103.779339,
+                        1.315108
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Huda",
+                  "text": "A mosque serving the local Muslim community for daily prayers near the historic St. George's Church.",
+                  "category": "landmark",
+                  "coords": [
+                        103.794933,
+                        1.323304
+                  ]
+            },
+            {
+                  "name": "St. James' Church",
+                  "text": "A modern Christian church facility holding regular worship services near St. George's Church.",
+                  "category": "landmark",
+                  "coords": [
+                        103.796216,
+                        1.312852
+                  ]
+            },
+            {
+                  "name": "Faith Methodist Church;Queenstown Chinese Methodist Church",
+                  "text": "A shared Christian building housing both the Faith and Queenstown Chinese Methodist congregations near St. George's Church.",
+                  "category": "landmark",
+                  "coords": [
+                        103.797336,
+                        1.302581
+                  ]
+            },
+            {
+                  "name": "Ghim Moh Road Market",
+                  "text": "A popular local marketplace and food centre situated along Ghim Moh Road near St. George's Church.",
+                  "category": "cultural",
+                  "coords": [
+                        103.788374,
+                        1.311
+                  ]
+            },
+            {
+                  "name": "Holland Village Market",
+                  "text": "A marketplace complex offering fresh food and stalls in the bustling Holland Village area near St. George's Church.",
+                  "category": "cultural",
+                  "coords": [
+                        103.79476,
+                        1.311019
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "SG-01",
     coords: [103.7919, 1.3094],
@@ -579,7 +3774,196 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     },
   },
   {
-    id: "sg-tan-si-chong-su-temple-history-v2",
+    id: "sg-tan-si-chong-su-temple-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Eagle’s Eye Gallery",
+                  "text": "Eine Kunstgalerie, die zeitgenössische regionale Kunstwerke in einem geschäftigen Stadtviertel ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        103.847211,
+                        1.286936
+                  ]
+            },
+            {
+                  "name": "Confluence",
+                  "text": "Eine Galerie für moderne Kunst, die vielfältige kreative Ausstellungen in der Nähe des historischen Singapore Rivers präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        103.845067,
+                        1.286897
+                  ]
+            },
+            {
+                  "name": "Tan Si Chong Su",
+                  "text": "Diese 1878 gegründete traditionelle chinesische Ahnenhalle verfügt über aufwendige Dachschnitzereien und Innenhöfe.",
+                  "category": "religious",
+                  "coords": [
+                        103.842856,
+                        1.289301
+                  ]
+            },
+            {
+                  "name": "Masjid Omar Kampung Melaka",
+                  "text": "Diese im Jahr 1820 gegründete historische Moschee verfügt über ein markantes Minarett, das später zu ihrer ursprünglich einfachen Struktur hinzugefügt wurde.",
+                  "category": "religious",
+                  "coords": [
+                        103.84433,
+                        1.287829
+                  ]
+            },
+            {
+                  "name": "Read Bridge",
+                  "text": "Ein historischer Fußgängerübergang über den Singapore River, benannt nach einem bekannten Kaufmann aus dem 19. Jahrhundert.",
+                  "category": "landmark",
+                  "coords": [
+                        103.845102,
+                        1.289194
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eagle’s Eye Gallery",
+                  "text": "Képzőművészeti galéria, amely kortárs regionális alkotásokat mutat be egy nyüzsgő városi negyedben.",
+                  "category": "museum",
+                  "coords": [
+                        103.847211,
+                        1.286936
+                  ]
+            },
+            {
+                  "name": "Confluence",
+                  "text": "Modern művészeti galéria, amely változatos kreatív kiállításokat mutat be a történelmi Szingapúr-folyó közelében.",
+                  "category": "museum",
+                  "coords": [
+                        103.845067,
+                        1.286897
+                  ]
+            },
+            {
+                  "name": "Tan Si Chong Su",
+                  "text": "Az 1878-ban alapított hagyományos kínai ősi csarnok bonyolult tetőfaragványokkal és belső udvarokkal rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        103.842856,
+                        1.289301
+                  ]
+            },
+            {
+                  "name": "Masjid Omar Kampung Melaka",
+                  "text": "Az 1820-ban alapított történelmi mecset jellegzetessége egy minaret, amelyet később adtak hozzá az eredeti, egyszerű szerkezetéhez.",
+                  "category": "religious",
+                  "coords": [
+                        103.84433,
+                        1.287829
+                  ]
+            },
+            {
+                  "name": "Read Bridge",
+                  "text": "Történelmi gyalogos átkelő a Szingapúr-folyó felett, amelyet egy kiemelkedő 19. századi kereskedőről neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        103.845102,
+                        1.289194
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Eagle’s Eye Gallery",
+                  "text": "O galerie de arte frumoase care expune opere de artă regionale contemporane într-un cartier urban aglomerat.",
+                  "category": "museum",
+                  "coords": [
+                        103.847211,
+                        1.286936
+                  ]
+            },
+            {
+                  "name": "Confluence",
+                  "text": "O galerie de artă modernă care prezintă diverse expoziții creative lângă istoricul râu Singapore.",
+                  "category": "museum",
+                  "coords": [
+                        103.845067,
+                        1.286897
+                  ]
+            },
+            {
+                  "name": "Tan Si Chong Su",
+                  "text": "Înființată în 1878, această sală tradițională chinezească a strămoșilor are sculpturi complicate pe acoperiș și curți interioare.",
+                  "category": "religious",
+                  "coords": [
+                        103.842856,
+                        1.289301
+                  ]
+            },
+            {
+                  "name": "Masjid Omar Kampung Melaka",
+                  "text": "Fondată în 1820, această moschee istorică prezintă un minaret distinct adăugat ulterior la structura sa simplă originală.",
+                  "category": "religious",
+                  "coords": [
+                        103.84433,
+                        1.287829
+                  ]
+            },
+            {
+                  "name": "Read Bridge",
+                  "text": "O trecere pietonală istorică peste râul Singapore, numită după un proeminent comerciant din secolul al XIX-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        103.845102,
+                        1.289194
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Eagle’s Eye Gallery",
+                  "text": "A fine arts gallery showcasing contemporary regional artworks within a bustling urban district.",
+                  "category": "museum",
+                  "coords": [
+                        103.847211,
+                        1.286936
+                  ]
+            },
+            {
+                  "name": "Confluence",
+                  "text": "A modern art gallery presenting diverse creative exhibitions near the historic Singapore River.",
+                  "category": "museum",
+                  "coords": [
+                        103.845067,
+                        1.286897
+                  ]
+            },
+            {
+                  "name": "Tan Si Chong Su",
+                  "text": "Established in 1878, this traditional Chinese ancestral hall features intricate roof carvings and inner courtyards.",
+                  "category": "religious",
+                  "coords": [
+                        103.842856,
+                        1.289301
+                  ]
+            },
+            {
+                  "name": "Masjid Omar Kampung Melaka",
+                  "text": "Founded in 1820, this historic mosque features a distinct minaret added later to its original simple structure.",
+                  "category": "religious",
+                  "coords": [
+                        103.84433,
+                        1.287829
+                  ]
+            },
+            {
+                  "name": "Read Bridge",
+                  "text": "A historic pedestrian crossing over the Singapore River, named after a prominent 19th-century merchant.",
+                  "category": "landmark",
+                  "coords": [
+                        103.845102,
+                        1.289194
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "SG-01",
     coords: [103.8465, 1.2882],
@@ -627,7 +4011,52 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     },
   },
   {
-    id: "sg-bowyer-block-sgh-history-v2",
+    id: "sg-bowyer-block-sgh-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kai San Temple",
+                  "text": "Der Kai San Tempel ist ein buddhistisches Heiligtum, das in der Nähe des historischen Bowyer Blocks steht.",
+                  "category": "landmark",
+                  "coords": [
+                        103.828145,
+                        1.279294
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kai San Temple",
+                  "text": "A Kai San templom egy buddhista szentély, amely a történelmi Bowyer Block közelében áll.",
+                  "category": "landmark",
+                  "coords": [
+                        103.828145,
+                        1.279294
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kai San Temple",
+                  "text": "Templul Kai San este un sanctuar budist situat în apropierea clădirii istorice Bowyer Block.",
+                  "category": "landmark",
+                  "coords": [
+                        103.828145,
+                        1.279294
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kai San Temple",
+                  "text": "The Kai San Temple is a Buddhist sanctuary situated close to the historic Bowyer Block.",
+                  "category": "landmark",
+                  "coords": [
+                        103.828145,
+                        1.279294
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "SG-01",
     coords: [103.834, 1.279],
@@ -675,7 +4104,988 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     },
   },
   {
-    id: "sg-tomb-of-tan-tock-seng-history-v2",
+    id: "sg-tomb-of-tan-tock-seng-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "MOE Heritage Centre",
+                  "text": "Ein Museum im Balestier-Viertel, das die Geschichte und kontinuierliche Entwicklung des staatlichen Bildungssystems in Singapur dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        103.844868,
+                        1.32582
+                  ]
+            },
+            {
+                  "name": "Shout",
+                  "text": "Eine Galerie im Viertel um das Tan Tock Seng Hospital, die in ihren Räumlichkeiten wechselnde Ausstellungen moderner Kunstwerke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        103.832892,
+                        1.305777
+                  ]
+            },
+            {
+                  "name": "Chancery Lane Pill Box",
+                  "text": "Ein historischer Bunkerbau an der Chancery Lane, der als erhaltenes Relikt für Singapurs militärische Verteidigungsanlagen aus dem Zweiten Weltkrieg dient.",
+                  "category": "landmark",
+                  "coords": [
+                        103.838514,
+                        1.322148
+                  ]
+            },
+            {
+                  "name": "Police Heritage Centre",
+                  "text": "Ein Museum, das anhand von alten Uniformen und historischen Artefakten die lange Geschichte der Polizeikräfte Singapurs beleuchtet.",
+                  "category": "museum",
+                  "coords": [
+                        103.845492,
+                        1.324405
+                  ]
+            },
+            {
+                  "name": "Decomissioned Bus",
+                  "text": "Ein ausrangierter, zur Attraktion umfunktionierter Bus, der heute als unkonventioneller Blickfang nahe dem Tan Tock Seng Hospital steht.",
+                  "category": "landmark",
+                  "coords": [
+                        103.846463,
+                        1.324003
+                  ]
+            },
+            {
+                  "name": "Cairnhill Arts Centre",
+                  "text": "Ein lebendiges Theater- und Kunstzentrum, das in den Räumen eines historischen Gebäudes in Cairnhill kreative Aufführungen beheimatet.",
+                  "category": "cultural",
+                  "coords": [
+                        103.83748,
+                        1.308507
+                  ]
+            },
+            {
+                  "name": "Beulah House",
+                  "text": "Ein historisches Sakralgebäude im Balestier-Gebiet, das weithin für seine klassische und gut erhaltene Architektur aus der Kolonialzeit bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        103.838842,
+                        1.315289
+                  ]
+            },
+            {
+                  "name": "Church of St Alphonsus",
+                  "text": "Bekannt als Novena Church, ist dies eine bedeutende katholische Kirche, in der jeden Samstag Novenen-Andachten viele Gläubige anziehen.",
+                  "category": "religious",
+                  "coords": [
+                        103.842694,
+                        1.321774
+                  ]
+            },
+            {
+                  "name": "Kuang Chee Tng Buddhist Association",
+                  "text": "Eine etablierte spirituelle Einrichtung, die buddhistische Lehren fördert und traditionelle religiöse Rituale für die lokale Gemeinde anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        103.849013,
+                        1.318658
+                  ]
+            },
+            {
+                  "name": "Chan Chor Bin Fatt Tong",
+                  "text": "Ein historischer Gebetsort der Chan Chor Min Tong, der tief in den jahrzehntealten buddhistischen Traditionen der lokalen chinesischen Gemeinde verwurzelt ist.",
+                  "category": "religious",
+                  "coords": [
+                        103.848591,
+                        1.32269
+                  ]
+            },
+            {
+                  "name": "Masjid Tasek Utara",
+                  "text": "Eine Moschee unweit des Tan Tock Seng Hospital, in der sich die muslimischen Gläubigen der Nachbarschaft wöchentlich zum traditionellen Freitagsgebet versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        103.848721,
+                        1.313127
+                  ]
+            },
+            {
+                  "name": "Barker Road Methodist Church",
+                  "text": "Eine bedeutende christliche Kirche an der Barker Road, die neben ihren methodistischen Gottesdiensten auch Gemeindeprogramme anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.834778,
+                        1.319116
+                  ]
+            },
+            {
+                  "name": "Leng Kwang Baptist Church",
+                  "text": "Diese baptistische Kirche im Viertel legt ihren Fokus auf Predigten und engagiert sich stark in der familiären Gemeindearbeit.",
+                  "category": "landmark",
+                  "coords": [
+                        103.828963,
+                        1.318775
+                  ]
+            },
+            {
+                  "name": "Thomson Road Baptist Church",
+                  "text": "Eine etablierte christliche Kirche an der Thomson Road, die in ihren Gemeinderäumen eine einladende Atmosphäre für Gläubige schafft.",
+                  "category": "landmark",
+                  "coords": [
+                        103.844596,
+                        1.315061
+                  ]
+            },
+            {
+                  "name": "Newton Life Church",
+                  "text": "Eine moderne Kirche unweit des Novena-Viertels, die regelmäßige christliche Zusammenkünfte für spirituelles Wachstum und Fellowship organisiert.",
+                  "category": "landmark",
+                  "coords": [
+                        103.840787,
+                        1.313813
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "Ein repräsentatives Kirchengebäude der Mormonen im Balestier-Viertel, das seinen Mitgliedern als Zentrum für Andacht und Gemeinschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        103.836716,
+                        1.314867
+                  ]
+            },
+            {
+                  "name": "Masjid Abdul Hamid Kampung Pasiran",
+                  "text": "Diese traditionelle Moschee ist tief im Erbe des ehemaligen Dorfes Kampung Pasiran in Singapur verwurzelt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.841037,
+                        1.319982
+                  ]
+            },
+            {
+                  "name": "Seventh-Day Adventist Church",
+                  "text": "Ein adventistisches Heiligtum, das Gläubige zu Samstagsgottesdiensten nahe dem historischen Viertel Tan Tock Seng versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.84134,
+                        1.321671
+                  ]
+            },
+            {
+                  "name": "Hakka Methodist Church",
+                  "text": "Diese methodistische Kirche wurde historisch gegründet, um der Hakka sprechenden chinesischen Gemeinde in Singapur zu dienen.",
+                  "category": "landmark",
+                  "coords": [
+                        103.840749,
+                        1.315522
+                  ]
+            },
+            {
+                  "name": "Revival Centre Church",
+                  "text": "Dieses lebendige evangelikale Zentrum konzentriert sich auf spirituelle Erweckungsversammlungen nahe dem Novena-Viertel in Singapur.",
+                  "category": "landmark",
+                  "coords": [
+                        103.84633,
+                        1.319016
+                  ]
+            },
+            {
+                  "name": "Qing De Gong Temple",
+                  "text": "Ein traditioneller chinesischer Tempel, geschmückt mit kunstvollen Dachschnitzereien und Räuchergefäßen für einheimische Gläubige.",
+                  "category": "religious",
+                  "coords": [
+                        103.84961,
+                        1.314275
+                  ]
+            },
+            {
+                  "name": "Hong Leng Yien Temple",
+                  "text": "Ein ruhiger taoistischer Schrein, der einen eigenen Raum für Ahnenverehrung und Götterhuldigung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.844743,
+                        1.314002
+                  ]
+            },
+            {
+                  "name": "The Singapore Baptist Church",
+                  "text": "Eine etablierte baptistische Einrichtung, die regelmäßige Schriftlehren und Gemeinschaftsveranstaltungen für die lokale Gemeinde abhält.",
+                  "category": "landmark",
+                  "coords": [
+                        103.846477,
+                        1.313438
+                  ]
+            },
+            {
+                  "name": "Parish of Christ Churc",
+                  "text": "Eine einladende Pfarrei, die traditionelle christliche Liturgie und soziale Programme für die Nachbarschaft anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.847904,
+                        1.312012
+                  ]
+            },
+            {
+                  "name": "Balestier Road Seventh-day Adventist Church",
+                  "text": "Diese an der Balestier Road prominent gelegene adventistische Kirche ist für ihre samstäglichen Sabbatfeiern bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.854437,
+                        1.319489
+                  ]
+            },
+            {
+                  "name": "Pek Kio Market & Food Centre",
+                  "text": "Ein geschäftiges Hawker-Zentrum im Viertel, das für sein erschwingliches lokales Streetfood, einschließlich beliebter Garnelennudelstände, berühmt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        103.850234,
+                        1.316136
+                  ]
+            },
+            {
+                  "name": "Coral Ocean Wellness",
+                  "text": "Ein entspannender städtischer Rückzugsort, der spezialisierte Massagetherapien und ganzheitliche Wellnessbehandlungen anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        103.844778,
+                        1.316794
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "MOE Heritage Centre",
+                  "text": "A Balestier negyedben található múzeum, amely dokumentálja a szingapúri állami oktatási rendszer történetét és folyamatos fejlődését.",
+                  "category": "museum",
+                  "coords": [
+                        103.844868,
+                        1.32582
+                  ]
+            },
+            {
+                  "name": "Shout",
+                  "text": "Egy galéria a Tan Tock Seng Kórház környékén, amely termeiben modern művészeti alkotások változó kiállításait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        103.832892,
+                        1.305777
+                  ]
+            },
+            {
+                  "name": "Chancery Lane Pill Box",
+                  "text": "Egy történelmi bunkerépítmény a Chancery Lane-en, amely Szingapúr második világháborús katonai védműveinek megőrzött emlékeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        103.838514,
+                        1.322148
+                  ]
+            },
+            {
+                  "name": "Police Heritage Centre",
+                  "text": "Egy múzeum, amely régi egyenruhák és történelmi műtárgyak segítségével mutatja be a szingapúri rendőrség hosszú történetét.",
+                  "category": "museum",
+                  "coords": [
+                        103.845492,
+                        1.324405
+                  ]
+            },
+            {
+                  "name": "Decomissioned Bus",
+                  "text": "Egy leselejtezett, látványossággá alakított busz, amely ma nem mindennapi látványelemként áll a Tan Tock Seng Kórház közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        103.846463,
+                        1.324003
+                  ]
+            },
+            {
+                  "name": "Cairnhill Arts Centre",
+                  "text": "Egy nyüzsgő színházi és művészeti központ, amely a Cairnhill-i történelmi épület termeiben kreatív előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        103.83748,
+                        1.308507
+                  ]
+            },
+            {
+                  "name": "Beulah House",
+                  "text": "Egy történelmi szakrális épület a Balestier negyedben, amely széles körben ismert a gyarmati korszakból származó klasszikus és jól karbantartott építészetéről.",
+                  "category": "religious",
+                  "coords": [
+                        103.838842,
+                        1.315289
+                  ]
+            },
+            {
+                  "name": "Church of St Alphonsus",
+                  "text": "A Novena templomként is ismert, jelentős katolikus templom, ahol a szombati novena áhítatok számos hívőt vonzanak.",
+                  "category": "religious",
+                  "coords": [
+                        103.842694,
+                        1.321774
+                  ]
+            },
+            {
+                  "name": "Kuang Chee Tng Buddhist Association",
+                  "text": "Egy elismert spirituális intézmény, amely a buddhista tanításokat támogatja, és hagyományos vallási rituálékat kínál a helyi közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        103.849013,
+                        1.318658
+                  ]
+            },
+            {
+                  "name": "Chan Chor Bin Fatt Tong",
+                  "text": "A Chan Chor Min Tong történelmi imahelye, amely mélyen gyökerezik a helyi kínai közösség évtizedes buddhista hagyományaiban.",
+                  "category": "religious",
+                  "coords": [
+                        103.848591,
+                        1.32269
+                  ]
+            },
+            {
+                  "name": "Masjid Tasek Utara",
+                  "text": "Egy mecset nem messze a Tan Tock Seng Kórháztól, ahol a környék muszlim hívői hetente összegyűlnek a hagyományos pénteki imára.",
+                  "category": "landmark",
+                  "coords": [
+                        103.848721,
+                        1.313127
+                  ]
+            },
+            {
+                  "name": "Barker Road Methodist Church",
+                  "text": "Egy jelentős keresztény templom a Barker Roadon, amely metodista istentiszteletei mellett közösségi programokat is kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        103.834778,
+                        1.319116
+                  ]
+            },
+            {
+                  "name": "Leng Kwang Baptist Church",
+                  "text": "Ez a baptista gyülekezet a negyedben a prédikációkra fókuszál, és erősen elkötelezett a családias közösségi munka iránt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.828963,
+                        1.318775
+                  ]
+            },
+            {
+                  "name": "Thomson Road Baptist Church",
+                  "text": "Egy elismert keresztény templom a Thomson Roadon, amely közösségi termeiben hívogató légkört teremt a hívők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        103.844596,
+                        1.315061
+                  ]
+            },
+            {
+                  "name": "Newton Life Church",
+                  "text": "Modern templom a Novena negyed közelében, amely rendszeres keresztény összejöveteleket szervez a spirituális fejlődés és a közösségépítés érdekében.",
+                  "category": "landmark",
+                  "coords": [
+                        103.840787,
+                        1.313813
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "A mormon egyház reprezentatív épülete a Balestier negyedben, amely a tagok számára az áhítat és a közösség központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        103.836716,
+                        1.314867
+                  ]
+            },
+            {
+                  "name": "Masjid Abdul Hamid Kampung Pasiran",
+                  "text": "Ez a hagyományos mecset mélyen gyökerezik a korábbi szingapúri Kampung Pasiran falu örökségében.",
+                  "category": "landmark",
+                  "coords": [
+                        103.841037,
+                        1.319982
+                  ]
+            },
+            {
+                  "name": "Seventh-Day Adventist Church",
+                  "text": "Az adventista szentély szombati istentiszteletekre gyűjti össze a hívőket a történelmi Tan Tock Seng negyed közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        103.84134,
+                        1.321671
+                  ]
+            },
+            {
+                  "name": "Hakka Methodist Church",
+                  "text": "Ezt a metodista templomot történelmileg a szingapúri hakka nyelvű kínai közösség szolgálatára hozták létre.",
+                  "category": "landmark",
+                  "coords": [
+                        103.840749,
+                        1.315522
+                  ]
+            },
+            {
+                  "name": "Revival Centre Church",
+                  "text": "Ez a nyüzsgő evangéliumi központ a spirituális ébredési összejövetelekre összpontosít a szingapúri Novena negyed közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        103.84633,
+                        1.319016
+                  ]
+            },
+            {
+                  "name": "Qing De Gong Temple",
+                  "text": "Egy hagyományos kínai templom, amelyet díszes tetőfaragványok és füstölők díszítenek a helyi hívők számára.",
+                  "category": "religious",
+                  "coords": [
+                        103.84961,
+                        1.314275
+                  ]
+            },
+            {
+                  "name": "Hong Leng Yien Temple",
+                  "text": "Egy békés taoista szentély, amely dedikált teret biztosít az ősök és az istenségek tiszteletének.",
+                  "category": "landmark",
+                  "coords": [
+                        103.844743,
+                        1.314002
+                  ]
+            },
+            {
+                  "name": "The Singapore Baptist Church",
+                  "text": "Egy bejáratott baptista intézmény, amely rendszeres szentírás-tanításokat és közösségi eseményeket tart a helyiek számára.",
+                  "category": "landmark",
+                  "coords": [
+                        103.846477,
+                        1.313438
+                  ]
+            },
+            {
+                  "name": "Parish of Christ Churc",
+                  "text": "Egy barátságos egyházközség, amely hagyományos keresztény liturgiát és közösségi programokat kínál a környéken.",
+                  "category": "landmark",
+                  "coords": [
+                        103.847904,
+                        1.312012
+                  ]
+            },
+            {
+                  "name": "Balestier Road Seventh-day Adventist Church",
+                  "text": "A Balestier Roadon kiemelkedő helyen található adventista templom a szombati napok megtartásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        103.854437,
+                        1.319489
+                  ]
+            },
+            {
+                  "name": "Pek Kio Market & Food Centre",
+                  "text": "Egy nyüzsgő környékbeli ételpiac, amely megfizethető helyi utcai ételeiről, köztük a népszerű garnélarákos tészta standokról híres.",
+                  "category": "cultural",
+                  "coords": [
+                        103.850234,
+                        1.316136
+                  ]
+            },
+            {
+                  "name": "Coral Ocean Wellness",
+                  "text": "Egy pihentető városi menedékhely, amely speciális masszázsterápiákat és holisztikus wellness kezeléseket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        103.844778,
+                        1.316794
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "MOE Heritage Centre",
+                  "text": "Un muzeu în cartierul Balestier, care documentează istoria și dezvoltarea continuă a sistemului de învățământ de stat din Singapore.",
+                  "category": "museum",
+                  "coords": [
+                        103.844868,
+                        1.32582
+                  ]
+            },
+            {
+                  "name": "Shout",
+                  "text": "O galerie în zona spitalului Tan Tock Seng, care prezintă expoziții temporare de opere de artă modernă în incinta sa.",
+                  "category": "museum",
+                  "coords": [
+                        103.832892,
+                        1.305777
+                  ]
+            },
+            {
+                  "name": "Chancery Lane Pill Box",
+                  "text": "Un buncăr istoric pe Chancery Lane, care servește ca o relicvă conservată a apărării militare a statului Singapore din al Doilea Război Mondial.",
+                  "category": "landmark",
+                  "coords": [
+                        103.838514,
+                        1.322148
+                  ]
+            },
+            {
+                  "name": "Police Heritage Centre",
+                  "text": "Un muzeu care pune în lumină istoria îndelungată a forțelor de poliție din Singapore prin uniforme vechi și artefacte istorice.",
+                  "category": "museum",
+                  "coords": [
+                        103.845492,
+                        1.324405
+                  ]
+            },
+            {
+                  "name": "Decomissioned Bus",
+                  "text": "Un autobuz dezafectat transformat în atracție, care astăzi servește drept punct de atracție neconvențional lângă spitalul Tan Tock Seng.",
+                  "category": "landmark",
+                  "coords": [
+                        103.846463,
+                        1.324003
+                  ]
+            },
+            {
+                  "name": "Cairnhill Arts Centre",
+                  "text": "Un teatru și centru de artă vibrant, care găzduiește spectacole creative în încăperile unei clădiri istorice din Cairnhill.",
+                  "category": "cultural",
+                  "coords": [
+                        103.83748,
+                        1.308507
+                  ]
+            },
+            {
+                  "name": "Beulah House",
+                  "text": "Un edificiu religios istoric în zona Balestier, cunoscut pe scară largă pentru arhitectura sa clasică și bine conservată din perioada colonială.",
+                  "category": "religious",
+                  "coords": [
+                        103.838842,
+                        1.315289
+                  ]
+            },
+            {
+                  "name": "Church of St Alphonsus",
+                  "text": "Cunoscută sub numele de Biserica Novena, aceasta este o biserică catolică importantă, unde devoțiunile de sâmbătă (novenele) atrag mulți credincioși.",
+                  "category": "religious",
+                  "coords": [
+                        103.842694,
+                        1.321774
+                  ]
+            },
+            {
+                  "name": "Kuang Chee Tng Buddhist Association",
+                  "text": "O instituție spirituală consacrată care promovează învățăturile budiste și oferă ritualuri religioase tradiționale pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        103.849013,
+                        1.318658
+                  ]
+            },
+            {
+                  "name": "Chan Chor Bin Fatt Tong",
+                  "text": "Un lăcaș de rugăciune istoric al asociației Chan Chor Min Tong, profund înrădăcinat în tradițiile budiste vechi de decenii ale comunității chineze locale.",
+                  "category": "religious",
+                  "coords": [
+                        103.848591,
+                        1.32269
+                  ]
+            },
+            {
+                  "name": "Masjid Tasek Utara",
+                  "text": "O moschee aflată nu departe de spitalul Tan Tock Seng, unde credincioșii musulmani din cartier se adună săptămânal pentru rugăciunea tradițională de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        103.848721,
+                        1.313127
+                  ]
+            },
+            {
+                  "name": "Barker Road Methodist Church",
+                  "text": "O biserică creștină proeminentă pe Barker Road care, pe lângă slujbele metodiste, oferă și programe comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        103.834778,
+                        1.319116
+                  ]
+            },
+            {
+                  "name": "Leng Kwang Baptist Church",
+                  "text": "Această biserică baptistă din cartier se concentrează pe predici și este puternic implicată în munca comunitară axată pe familie.",
+                  "category": "landmark",
+                  "coords": [
+                        103.828963,
+                        1.318775
+                  ]
+            },
+            {
+                  "name": "Thomson Road Baptist Church",
+                  "text": "O biserică creștină consacrată pe Thomson Road, care creează o atmosferă primitoare pentru credincioși în sălile sale comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        103.844596,
+                        1.315061
+                  ]
+            },
+            {
+                  "name": "Newton Life Church",
+                  "text": "O biserică modernă, nu departe de cartierul Novena, care organizează adunări creștine regulate pentru creștere spirituală și părtășie.",
+                  "category": "landmark",
+                  "coords": [
+                        103.840787,
+                        1.313813
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "O clădire reprezentativă a bisericii mormone din cartierul Balestier, care servește membrilor săi drept centru pentru devotament și comunitate.",
+                  "category": "landmark",
+                  "coords": [
+                        103.836716,
+                        1.314867
+                  ]
+            },
+            {
+                  "name": "Masjid Abdul Hamid Kampung Pasiran",
+                  "text": "Această moschee tradițională este adânc înrădăcinată în moștenirea fostului sat Kampung Pasiran din Singapore.",
+                  "category": "landmark",
+                  "coords": [
+                        103.841037,
+                        1.319982
+                  ]
+            },
+            {
+                  "name": "Seventh-Day Adventist Church",
+                  "text": "Un sanctuar adventist care adună credincioșii pentru slujbele de sâmbătă lângă cartierul istoric Tan Tock Seng.",
+                  "category": "landmark",
+                  "coords": [
+                        103.84134,
+                        1.321671
+                  ]
+            },
+            {
+                  "name": "Hakka Methodist Church",
+                  "text": "Această biserică metodistă a fost înființată istoric pentru a deservi comunitatea chineză vorbitoare de dialect hakka din Singapore.",
+                  "category": "landmark",
+                  "coords": [
+                        103.840749,
+                        1.315522
+                  ]
+            },
+            {
+                  "name": "Revival Centre Church",
+                  "text": "Acest centru evanghelic vibrant se concentrează pe adunări de renaștere spirituală lângă zona Novena din Singapore.",
+                  "category": "landmark",
+                  "coords": [
+                        103.84633,
+                        1.319016
+                  ]
+            },
+            {
+                  "name": "Qing De Gong Temple",
+                  "text": "Un templu tradițional chinezesc împodobit cu sculpturi ornamentale pe acoperiș și arzătoare de tămâie pentru devotații locali.",
+                  "category": "religious",
+                  "coords": [
+                        103.84961,
+                        1.314275
+                  ]
+            },
+            {
+                  "name": "Hong Leng Yien Temple",
+                  "text": "Un altar taoist senin care oferă un spațiu dedicat pentru venerarea strămoșilor și a zeităților.",
+                  "category": "landmark",
+                  "coords": [
+                        103.844743,
+                        1.314002
+                  ]
+            },
+            {
+                  "name": "The Singapore Baptist Church",
+                  "text": "O instituție baptistă consacrată care organizează predări regulate din scripturi și evenimente de părtășie pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        103.846477,
+                        1.313438
+                  ]
+            },
+            {
+                  "name": "Parish of Christ Churc",
+                  "text": "O parohie primitoare care oferă liturghie creștină tradițională și programe de asistență comunitară în cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        103.847904,
+                        1.312012
+                  ]
+            },
+            {
+                  "name": "Balestier Road Seventh-day Adventist Church",
+                  "text": "Situată vizibil pe Balestier Road, această biserică adventistă este cunoscută pentru respectarea Sabatului de sâmbătă.",
+                  "category": "landmark",
+                  "coords": [
+                        103.854437,
+                        1.319489
+                  ]
+            },
+            {
+                  "name": "Pek Kio Market & Food Centre",
+                  "text": "Un centru alimentar de cartier plin de viață, renumit pentru mâncarea stradală locală la prețuri accesibile, inclusiv standurile populare cu tăiței cu creveți.",
+                  "category": "cultural",
+                  "coords": [
+                        103.850234,
+                        1.316136
+                  ]
+            },
+            {
+                  "name": "Coral Ocean Wellness",
+                  "text": "Un refugiu urban relaxant care oferă terapii de masaj specializate și tratamente de wellness holistice.",
+                  "category": "recreational",
+                  "coords": [
+                        103.844778,
+                        1.316794
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "MOE Heritage Centre",
+                  "text": "A museum in the Balestier district that documents the history and continuous development of the state education system in Singapore.",
+                  "category": "museum",
+                  "coords": [
+                        103.844868,
+                        1.32582
+                  ]
+            },
+            {
+                  "name": "Shout",
+                  "text": "A gallery in the neighbourhood of Tan Tock Seng Hospital that presents changing exhibitions of modern artworks in its spaces.",
+                  "category": "museum",
+                  "coords": [
+                        103.832892,
+                        1.305777
+                  ]
+            },
+            {
+                  "name": "Chancery Lane Pill Box",
+                  "text": "A historic pillbox structure on Chancery Lane that serves as a preserved relic of Singapore's military defences from the Second World War.",
+                  "category": "landmark",
+                  "coords": [
+                        103.838514,
+                        1.322148
+                  ]
+            },
+            {
+                  "name": "Police Heritage Centre",
+                  "text": "A museum that sheds light on the long history of the Singapore Police Force through old uniforms and historical artefacts.",
+                  "category": "museum",
+                  "coords": [
+                        103.845492,
+                        1.324405
+                  ]
+            },
+            {
+                  "name": "Decomissioned Bus",
+                  "text": "A decommissioned bus repurposed into an attraction, which today stands as an unconventional eye-catcher near Tan Tock Seng Hospital.",
+                  "category": "landmark",
+                  "coords": [
+                        103.846463,
+                        1.324003
+                  ]
+            },
+            {
+                  "name": "Cairnhill Arts Centre",
+                  "text": "A vibrant theatre and arts centre that hosts creative performances in the rooms of a historic building in Cairnhill.",
+                  "category": "cultural",
+                  "coords": [
+                        103.83748,
+                        1.308507
+                  ]
+            },
+            {
+                  "name": "Beulah House",
+                  "text": "A historic sacred building in the Balestier area, widely known for its classical and well-preserved colonial-era architecture.",
+                  "category": "religious",
+                  "coords": [
+                        103.838842,
+                        1.315289
+                  ]
+            },
+            {
+                  "name": "Church of St Alphonsus",
+                  "text": "Known as Novena Church, this is a significant Catholic church where Saturday novena devotions attract many worshippers.",
+                  "category": "religious",
+                  "coords": [
+                        103.842694,
+                        1.321774
+                  ]
+            },
+            {
+                  "name": "Kuang Chee Tng Buddhist Association",
+                  "text": "An established spiritual institution that promotes Buddhist teachings and offers traditional religious rituals for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        103.849013,
+                        1.318658
+                  ]
+            },
+            {
+                  "name": "Chan Chor Bin Fatt Tong",
+                  "text": "A historic place of prayer of the Chan Chor Min Tong, deeply rooted in the decades-old Buddhist traditions of the local Chinese community.",
+                  "category": "religious",
+                  "coords": [
+                        103.848591,
+                        1.32269
+                  ]
+            },
+            {
+                  "name": "Tasek Utara Mosque",
+                  "text": "A mosque not far from Tan Tock Seng Hospital where Muslim worshippers from the neighbourhood gather weekly for traditional Friday prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        103.848721,
+                        1.313127
+                  ]
+            },
+            {
+                  "name": "Barker Road Methodist Church",
+                  "text": "A prominent Christian church on Barker Road that offers community programmes alongside its Methodist services.",
+                  "category": "landmark",
+                  "coords": [
+                        103.834778,
+                        1.319116
+                  ]
+            },
+            {
+                  "name": "Leng Kwang Baptist Church",
+                  "text": "This Baptist church in the neighbourhood focuses on preaching and is heavily involved in family-oriented community work.",
+                  "category": "landmark",
+                  "coords": [
+                        103.828963,
+                        1.318775
+                  ]
+            },
+            {
+                  "name": "Thomson Road Baptist Church",
+                  "text": "An established Christian church on Thomson Road that creates a welcoming atmosphere for worshippers in its community rooms.",
+                  "category": "landmark",
+                  "coords": [
+                        103.844596,
+                        1.315061
+                  ]
+            },
+            {
+                  "name": "Newton Life Church",
+                  "text": "A modern church not far from the Novena district that organises regular Christian gatherings for spiritual growth and fellowship.",
+                  "category": "landmark",
+                  "coords": [
+                        103.840787,
+                        1.313813
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "A representative Mormon church building in the Balestier district that serves its members as a centre for devotion and community.",
+                  "category": "landmark",
+                  "coords": [
+                        103.836716,
+                        1.314867
+                  ]
+            },
+            {
+                  "name": "Masjid Abdul Hamid Kampung Pasiran",
+                  "text": "This traditional mosque is deeply rooted in the heritage of Singapore's former Kampung Pasiran village.",
+                  "category": "landmark",
+                  "coords": [
+                        103.841037,
+                        1.319982
+                  ]
+            },
+            {
+                  "name": "Seventh-Day Adventist Church",
+                  "text": "An Adventist sanctuary gathering worshippers for Saturday services near the historic Tan Tock Seng district.",
+                  "category": "landmark",
+                  "coords": [
+                        103.84134,
+                        1.321671
+                  ]
+            },
+            {
+                  "name": "Hakka Methodist Church",
+                  "text": "This Methodist church was historically established to serve the Hakka-speaking Chinese community in Singapore.",
+                  "category": "landmark",
+                  "coords": [
+                        103.840749,
+                        1.315522
+                  ]
+            },
+            {
+                  "name": "Revival Centre Church",
+                  "text": "This vibrant evangelical center focuses on spiritual revival gatherings near Singapore's Novena area.",
+                  "category": "landmark",
+                  "coords": [
+                        103.84633,
+                        1.319016
+                  ]
+            },
+            {
+                  "name": "Qing De Gong Temple",
+                  "text": "A traditional Chinese temple adorned with ornate roof carvings and incense burners for local devotees.",
+                  "category": "religious",
+                  "coords": [
+                        103.84961,
+                        1.314275
+                  ]
+            },
+            {
+                  "name": "Hong Leng Yien Temple",
+                  "text": "A serene Taoist shrine providing a dedicated space for ancestral worship and deity veneration.",
+                  "category": "landmark",
+                  "coords": [
+                        103.844743,
+                        1.314002
+                  ]
+            },
+            {
+                  "name": "The Singapore Baptist Church",
+                  "text": "An established Baptist institution that holds regular scripture teachings and fellowship events for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        103.846477,
+                        1.313438
+                  ]
+            },
+            {
+                  "name": "Parish of Christ Churc",
+                  "text": "A welcoming parish offering traditional Christian liturgy and community outreach programs in the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        103.847904,
+                        1.312012
+                  ]
+            },
+            {
+                  "name": "Balestier Road Seventh-day Adventist Church",
+                  "text": "Prominently situated on Balestier Road, this Adventist church is known for its Saturday Sabbath observances.",
+                  "category": "landmark",
+                  "coords": [
+                        103.854437,
+                        1.319489
+                  ]
+            },
+            {
+                  "name": "Pek Kio Market & Food Centre",
+                  "text": "A bustling neighborhood hawker center famous for its affordable local street food, including popular prawn noodle stalls.",
+                  "category": "cultural",
+                  "coords": [
+                        103.850234,
+                        1.316136
+                  ]
+            },
+            {
+                  "name": "Coral Ocean Wellness",
+                  "text": "A relaxing urban retreat offering specialized massage therapies and holistic wellness treatments.",
+                  "category": "recreational",
+                  "coords": [
+                        103.844778,
+                        1.316794
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "SG-01",
     coords: [103.839, 1.32],
@@ -723,7 +5133,196 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     },
   },
   {
-    id: "sg-pasir-ris-red-house-history-v2",
+    id: "sg-pasir-ris-red-house-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid Al-Istighfar",
+                  "text": "Diese bemerkenswerte Moschee ist ein wichtiges islamisches Gotteshaus mit markanten architektonischen Elementen.",
+                  "category": "religious",
+                  "coords": [
+                        103.964097,
+                        1.371034
+                  ]
+            },
+            {
+                  "name": "Loyang Tua Pek Kong Temple",
+                  "text": "Dieses Gotteshaus beherbergt einzigartigerweise mehrere Gottheiten aus verschiedenen religiösen Traditionen unter einem Dach.",
+                  "category": "religious",
+                  "coords": [
+                        103.969825,
+                        1.371328
+                  ]
+            },
+            {
+                  "name": "Shalom Bible-Presbyterian Church",
+                  "text": "Diese örtliche Kirche fungiert als Zentrum für christliche Lehre, Gottesdienst und Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        103.958161,
+                        1.378397
+                  ]
+            },
+            {
+                  "name": "Carmel Presbyterian Church",
+                  "text": "Diese christliche Einrichtung bietet einen Ort für presbyterianische Gebete und spirituelles Wachstum in der Nachbarschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        103.960378,
+                        1.378986
+                  ]
+            },
+            {
+                  "name": "Bethesda Pasir Ris Mission Church",
+                  "text": "Als christliches spirituelles Zentrum unterstützt diese Kirche ihre Anhänger mit wöchentlichen Gottesdiensten und Gemeindeveranstaltungen.",
+                  "category": "landmark",
+                  "coords": [
+                        103.96446,
+                        1.36799
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid Al-Istighfar",
+                  "text": "Ez a nevezetes mecset egy kiemelkedő iszlám istentiszteleti hely, amely jellegzetes építészeti elemekkel rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        103.964097,
+                        1.371034
+                  ]
+            },
+            {
+                  "name": "Loyang Tua Pek Kong Temple",
+                  "text": "Ez az istentiszteleti hely egyedülálló módon több különböző vallási hagyomány istenségének ad otthont egy fedél alatt.",
+                  "category": "religious",
+                  "coords": [
+                        103.969825,
+                        1.371328
+                  ]
+            },
+            {
+                  "name": "Shalom Bible-Presbyterian Church",
+                  "text": "Ez a helyi templom a keresztény tanítás, istentisztelet és közösségi összejövetelek központjaként működik.",
+                  "category": "religious",
+                  "coords": [
+                        103.958161,
+                        1.378397
+                  ]
+            },
+            {
+                  "name": "Carmel Presbyterian Church",
+                  "text": "Ez a keresztény intézmény a presbiteriánus imádság és a spirituális fejlődés helyszíne a környéken.",
+                  "category": "landmark",
+                  "coords": [
+                        103.960378,
+                        1.378986
+                  ]
+            },
+            {
+                  "name": "Bethesda Pasir Ris Mission Church",
+                  "text": "Keresztény spirituális központként ez a templom heti istentiszteletekkel és közösségi eseményekkel támogatja a híveket.",
+                  "category": "landmark",
+                  "coords": [
+                        103.96446,
+                        1.36799
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid Al-Istighfar",
+                  "text": "Această moschee notabilă este un loc de cult islamic proeminent, cu elemente arhitecturale distincte.",
+                  "category": "religious",
+                  "coords": [
+                        103.964097,
+                        1.371034
+                  ]
+            },
+            {
+                  "name": "Loyang Tua Pek Kong Temple",
+                  "text": "Acest lăcaș de cult găzduiește în mod unic mai multe zeități din diferite tradiții religioase sub același acoperiș.",
+                  "category": "religious",
+                  "coords": [
+                        103.969825,
+                        1.371328
+                  ]
+            },
+            {
+                  "name": "Shalom Bible-Presbyterian Church",
+                  "text": "Această biserică locală funcționează ca un centru pentru învățătura creștină, închinare și părtășie comunitară.",
+                  "category": "religious",
+                  "coords": [
+                        103.958161,
+                        1.378397
+                  ]
+            },
+            {
+                  "name": "Carmel Presbyterian Church",
+                  "text": "Această instituție creștină oferă un loc pentru rugăciunea prezbiteriană și creșterea spirituală în cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        103.960378,
+                        1.378986
+                  ]
+            },
+            {
+                  "name": "Bethesda Pasir Ris Mission Church",
+                  "text": "Servind ca centru spiritual creștin, această biserică își sprijină adepții prin slujbe săptămânale și evenimente comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        103.96446,
+                        1.36799
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjid Al-Istighfar",
+                  "text": "This notable mosque is a prominent place of Islamic worship featuring distinct architectural elements.",
+                  "category": "religious",
+                  "coords": [
+                        103.964097,
+                        1.371034
+                  ]
+            },
+            {
+                  "name": "Loyang Tua Pek Kong Temple",
+                  "text": "This place of worship uniquely houses multiple deities from different religious traditions under one roof.",
+                  "category": "religious",
+                  "coords": [
+                        103.969825,
+                        1.371328
+                  ]
+            },
+            {
+                  "name": "Shalom Bible-Presbyterian Church",
+                  "text": "This local church operates as a center for Christian teaching, worship, and community fellowship.",
+                  "category": "religious",
+                  "coords": [
+                        103.958161,
+                        1.378397
+                  ]
+            },
+            {
+                  "name": "Carmel Presbyterian Church",
+                  "text": "This Christian establishment provides a place for Presbyterian prayer and spiritual growth in the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        103.960378,
+                        1.378986
+                  ]
+            },
+            {
+                  "name": "Bethesda Pasir Ris Mission Church",
+                  "text": "Serving as a Christian spiritual hub, this church supports its followers with weekly services and community events.",
+                  "category": "landmark",
+                  "coords": [
+                        103.96446,
+                        1.36799
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "SG-04",
     coords: [103.961, 1.383],
@@ -771,7 +5370,160 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     },
   },
   {
-    id: "sg-sembawang-naval-base-history-v2",
+    id: "sg-sembawang-naval-base-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "bunker",
+                  "text": "Dieser unscheinbare Bunkerkomplex auf dem alten Marinegelände von Sembawang erinnert an Singapurs militärische Vergangenheit.",
+                  "category": "landmark",
+                  "coords": [
+                        103.826613,
+                        1.454787
+                  ]
+            },
+            {
+                  "name": "Gibraltar Crescent Bunker",
+                  "text": "Der massive Gibraltar Crescent Bunker ist eine historische militärische Attraktion im Gebiet des alten Flottenstützpunkts Sembawang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.835147,
+                        1.457724
+                  ]
+            },
+            {
+                  "name": "Majodi Centre",
+                  "text": "Das Majodi Centre ist eine christliche Gemeindeeinrichtung, die den Gläubigen in der Region Sembawang dient.",
+                  "category": "landmark",
+                  "coords": [
+                        103.82689,
+                        1.519312
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Azim Permas Jaya",
+                  "text": "Die Masjid Al-Azim ist eine lokale islamische Kultstätte, in der sich die muslimische Gemeinde aus der Gegend von Permas Jaya versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.824502,
+                        1.49944
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "bunker",
+                  "text": "A régi sembawangi haditengerészeti támaszponton található feltűnésmentes bunkerkomplexum Szingapúr katonai múltjára emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.826613,
+                        1.454787
+                  ]
+            },
+            {
+                  "name": "Gibraltar Crescent Bunker",
+                  "text": "A masszív Gibraltar Crescent Bunker egy történelmi katonai látványosság a régi Sembawang flottabázis területén.",
+                  "category": "landmark",
+                  "coords": [
+                        103.835147,
+                        1.457724
+                  ]
+            },
+            {
+                  "name": "Majodi Centre",
+                  "text": "A Majodi Centre egy keresztény közösségi létesítmény, amely a sembawang-i régió hívőit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        103.82689,
+                        1.519312
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Azim Permas Jaya",
+                  "text": "A Masjid Al-Azim egy helyi iszlám istentiszteleti hely, amely a Permas Jaya terület muszlim közösségét fogadja.",
+                  "category": "landmark",
+                  "coords": [
+                        103.824502,
+                        1.49944
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "bunker",
+                  "text": "Acest complex discret de buncăre de pe fosta bază navală Sembawang amintește de trecutul militar al orașului Singapore.",
+                  "category": "landmark",
+                  "coords": [
+                        103.826613,
+                        1.454787
+                  ]
+            },
+            {
+                  "name": "Gibraltar Crescent Bunker",
+                  "text": "Masivul buncăr Gibraltar Crescent este o atracție militară istorică în zona vechii baze navale Sembawang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.835147,
+                        1.457724
+                  ]
+            },
+            {
+                  "name": "Majodi Centre",
+                  "text": "Majodi Centre este un centru comunitar creștin care deservește credincioșii din regiunea Sembawang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.82689,
+                        1.519312
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Azim Permas Jaya",
+                  "text": "Masjid Al-Azim este un lăcaș de cult islamic local unde se adună comunitatea musulmană din zona Permas Jaya.",
+                  "category": "landmark",
+                  "coords": [
+                        103.824502,
+                        1.49944
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "bunker",
+                  "text": "This inconspicuous bunker complex at the old Sembawang naval base is a reminder of Singapore's military past.",
+                  "category": "landmark",
+                  "coords": [
+                        103.826613,
+                        1.454787
+                  ]
+            },
+            {
+                  "name": "Gibraltar Crescent Bunker",
+                  "text": "The massive Gibraltar Crescent Bunker is a historical military attraction in the area of the old Sembawang naval base.",
+                  "category": "landmark",
+                  "coords": [
+                        103.835147,
+                        1.457724
+                  ]
+            },
+            {
+                  "name": "Majodi Centre",
+                  "text": "The Majodi Centre is a Christian community facility serving the local faithful in the Sembawang region.",
+                  "category": "landmark",
+                  "coords": [
+                        103.82689,
+                        1.519312
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Azim Permas Jaya",
+                  "text": "Masjid Al-Azim is a local Islamic worship site gathering the Muslim community of the Permas Jaya area.",
+                  "category": "landmark",
+                  "coords": [
+                        103.824502,
+                        1.49944
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "SG-03",
     coords: [103.829, 1.458],
@@ -819,7 +5571,268 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     },
   },
   {
-    id: "sg-former-keng-teck-whay-bldg-history-v2",
+    id: "sg-former-keng-teck-whay-bldg-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Singapore City Gallery",
+                  "text": "Ein dreistöckiges Museum, das die physische Transformation und umfassende Stadtplanung Singapurs dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        103.84519,
+                        1.279502
+                  ]
+            },
+            {
+                  "name": "Harmony in Diversity Gallery",
+                  "text": "Eine Galerie in Singapur, die sich der Förderung des Verständnisses und der religiösen Harmonie zwischen verschiedenen kulturellen Gemeinschaften widmet.",
+                  "category": "museum",
+                  "coords": [
+                        103.846603,
+                        1.279357
+                  ]
+            },
+            {
+                  "name": "Musical Box Museum",
+                  "text": "Ein Museum, das sich antiken Spieldosen widmet und Einblicke in historische mechanische Musik bietet.",
+                  "category": "museum",
+                  "coords": [
+                        103.847466,
+                        1.280726
+                  ]
+            },
+            {
+                  "name": "Singapore Conference Hall",
+                  "text": "Ein markanter Veranstaltungsort für Theatervorstellungen und große kulturelle Zusammenkünfte.",
+                  "category": "cultural",
+                  "coords": [
+                        103.849106,
+                        1.276331
+                  ]
+            },
+            {
+                  "name": "Chinatown",
+                  "text": "Eine lebendige historische Enklave, die für ihre traditionellen Shophouses und ihr reiches kulturelles Erbe berühmt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        103.843688,
+                        1.279969
+                  ]
+            },
+            {
+                  "name": "Tanjong Pagar Park",
+                  "text": "Ein grüner Stadtpark, der mit seinen angelegten Gärten einen erholsamen Naturraum inmitten der belebten Innenstadt bietet.",
+                  "category": "park",
+                  "coords": [
+                        103.845834,
+                        1.27655
+                  ]
+            },
+            {
+                  "name": "Seng Wong Beo Temple",
+                  "text": "Dieser buddhistische Tempel ist seit 1898 ein aktiver Ort für traditionelle Andachten und spirituelle Reflexion.",
+                  "category": "landmark",
+                  "coords": [
+                        103.844867,
+                        1.275649
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Singapore City Gallery",
+                  "text": "Egy háromemeletes múzeum, amely Szingapúr fizikai átalakulását és átfogó várostervezését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        103.84519,
+                        1.279502
+                  ]
+            },
+            {
+                  "name": "Harmony in Diversity Gallery",
+                  "text": "Egy szingapúri galéria, amely a különböző kulturális közösségek közötti megértés és vallási harmónia előmozdításának szentelte magát.",
+                  "category": "museum",
+                  "coords": [
+                        103.846603,
+                        1.279357
+                  ]
+            },
+            {
+                  "name": "Musical Box Museum",
+                  "text": "Az antik zenedobozoknak szentelt múzeum bepillantást enged a történelmi mechanikus zenébe.",
+                  "category": "museum",
+                  "coords": [
+                        103.847466,
+                        1.280726
+                  ]
+            },
+            {
+                  "name": "Singapore Conference Hall",
+                  "text": "Egy kiemelkedő színházi helyszín, amelyet nagyszabású előadások és kulturális összejövetelek megrendezésére terveztek.",
+                  "category": "cultural",
+                  "coords": [
+                        103.849106,
+                        1.276331
+                  ]
+            },
+            {
+                  "name": "Chinatown",
+                  "text": "Élénk történelmi negyed, amely híres hagyományos üzletházairól és gazdag kulturális örökségéről.",
+                  "category": "landmark",
+                  "coords": [
+                        103.843688,
+                        1.279969
+                  ]
+            },
+            {
+                  "name": "Tanjong Pagar Park",
+                  "text": "Zöld városi park, amely parkosított kertjeivel pihentető természeti teret nyújt a forgalmas városkép közepette.",
+                  "category": "park",
+                  "coords": [
+                        103.845834,
+                        1.27655
+                  ]
+            },
+            {
+                  "name": "Seng Wong Beo Temple",
+                  "text": "Ez a buddhista templom 1898 óta a hagyományos istentiszteletek és a spirituális elmélkedés aktív helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        103.844867,
+                        1.275649
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Singapore City Gallery",
+                  "text": "Un muzeu pe trei etaje care documentează transformarea fizică și planificarea urbană cuprinzătoare a orașului Singapore.",
+                  "category": "museum",
+                  "coords": [
+                        103.84519,
+                        1.279502
+                  ]
+            },
+            {
+                  "name": "Harmony in Diversity Gallery",
+                  "text": "O galerie din Singapore dedicată promovării înțelegerii și armoniei religioase între diferite comunități culturale.",
+                  "category": "museum",
+                  "coords": [
+                        103.846603,
+                        1.279357
+                  ]
+            },
+            {
+                  "name": "Musical Box Museum",
+                  "text": "Un muzeu dedicat cutiilor muzicale antice, oferind o privire asupra muzicii mecanice istorice.",
+                  "category": "museum",
+                  "coords": [
+                        103.847466,
+                        1.280726
+                  ]
+            },
+            {
+                  "name": "Singapore Conference Hall",
+                  "text": "O locație teatrală proeminentă concepută pentru găzduirea spectacolelor la scară largă și a adunărilor culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        103.849106,
+                        1.276331
+                  ]
+            },
+            {
+                  "name": "Chinatown",
+                  "text": "O enclavă istorică vibrantă, faimoasă pentru casele sale tradiționale cu prăvălii și moștenirea culturală bogată.",
+                  "category": "landmark",
+                  "coords": [
+                        103.843688,
+                        1.279969
+                  ]
+            },
+            {
+                  "name": "Tanjong Pagar Park",
+                  "text": "Un parc urban verde care oferă un spațiu natural de relaxare, cu grădini amenajate în mijlocul peisajului urban aglomerat.",
+                  "category": "park",
+                  "coords": [
+                        103.845834,
+                        1.27655
+                  ]
+            },
+            {
+                  "name": "Seng Wong Beo Temple",
+                  "text": "Acest templu budist este un loc activ de închinare tradițională și reflecție spirituală din 1898.",
+                  "category": "landmark",
+                  "coords": [
+                        103.844867,
+                        1.275649
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Singapore City Gallery",
+                  "text": "A three-story museum documenting the physical transformation and comprehensive urban planning of Singapore.",
+                  "category": "museum",
+                  "coords": [
+                        103.84519,
+                        1.279502
+                  ]
+            },
+            {
+                  "name": "Harmony in Diversity Gallery",
+                  "text": "A gallery in Singapore dedicated to promoting understanding and religious harmony among different cultural communities.",
+                  "category": "museum",
+                  "coords": [
+                        103.846603,
+                        1.279357
+                  ]
+            },
+            {
+                  "name": "Musical Box Museum",
+                  "text": "A museum dedicated to antique musical boxes, offering a glimpse into historical mechanical music.",
+                  "category": "museum",
+                  "coords": [
+                        103.847466,
+                        1.280726
+                  ]
+            },
+            {
+                  "name": "Singapore Conference Hall",
+                  "text": "A prominent theatrical venue designed for hosting large-scale performances and cultural gatherings.",
+                  "category": "cultural",
+                  "coords": [
+                        103.849106,
+                        1.276331
+                  ]
+            },
+            {
+                  "name": "Chinatown",
+                  "text": "A vibrant historic enclave famous for its traditional shophouses and rich cultural heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        103.843688,
+                        1.279969
+                  ]
+            },
+            {
+                  "name": "Tanjong Pagar Park",
+                  "text": "A green urban park providing a relaxing natural space with landscaped gardens amidst the busy cityscape.",
+                  "category": "park",
+                  "coords": [
+                        103.845834,
+                        1.27655
+                  ]
+            },
+            {
+                  "name": "Seng Wong Beo Temple",
+                  "text": "This Buddhist temple has been an active site of traditional worship and spiritual reflection since 1898.",
+                  "category": "landmark",
+                  "coords": [
+                        103.844867,
+                        1.275649
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "SG-01",
     coords: [103.8472, 1.2801],
@@ -867,7 +5880,1096 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     },
   },
   {
-    id: "sg-old-police-coast-guard-hq-history-v2",
+    id: "sg-old-police-coast-guard-hq-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kallang Theatre",
+                  "text": "Ein bedeutendes Theater für darstellende Künste in Singapur, das für die Ausrichtung großer Konzerte und Musicals bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        103.875723,
+                        1.301912
+                  ]
+            },
+            {
+                  "name": "Masjid Sallim Mattar",
+                  "text": "Eine Gemeindemoschee in Singapur, die der lokalen muslimischen Bevölkerung für die täglichen Gebete dient.",
+                  "category": "religious",
+                  "coords": [
+                        103.881224,
+                        1.325753
+                  ]
+            },
+            {
+                  "name": "Central Sikh Temple",
+                  "text": "Ein markanter Sikh-Gurdwara aus dem Jahr 1986, der als Hauptgebetshaus der lokalen Sikh-Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        103.860425,
+                        1.318848
+                  ]
+            },
+            {
+                  "name": "Elim Church Assembly Of God",
+                  "text": "Eine christliche Pfingstkirche der Denomination Assembly of God in Singapur.",
+                  "category": "religious",
+                  "coords": [
+                        103.864268,
+                        1.323896
+                  ]
+            },
+            {
+                  "name": "Sri Sivan Temple",
+                  "text": "Ein bekannter hinduistischer Tempel, der der Gottheit Shiva gewidmet ist und dravidische Architektur aufweist.",
+                  "category": "religious",
+                  "coords": [
+                        103.888709,
+                        1.318449
+                  ]
+            },
+            {
+                  "name": "55 Artspace",
+                  "text": "Ein intimer Galerieraum, der der Präsentation zeitgenössischer Kunstwerke gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        103.875143,
+                        1.327481
+                  ]
+            },
+            {
+                  "name": "Art Seasons Gallery",
+                  "text": "Eine zeitgenössische Kunstgalerie mit Fokus auf aufstrebende und etablierte asiatische Künstler.",
+                  "category": "museum",
+                  "coords": [
+                        103.873874,
+                        1.327515
+                  ]
+            },
+            {
+                  "name": "Aesthetic Art Gallery",
+                  "text": "Eine lokale Galerie, die eine kuratierte Auswahl an bildenden Künsten und ästhetischen Stücken ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        103.862907,
+                        1.312104
+                  ]
+            },
+            {
+                  "name": "Kwong Wai Shiu Hospital Heritage Gallery",
+                  "text": "Ein Museum, das die reiche medizinische und kulturelle Geschichte des Kwong Wai Shiu Hospitals bewahrt und ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        103.858593,
+                        1.317781
+                  ]
+            },
+            {
+                  "name": "Serangoon Broadway",
+                  "text": "Ein traditionsreiches lokales Studio und Veranstaltungsort entlang des Serangoon-Abschnitts.",
+                  "category": "cultural",
+                  "coords": [
+                        103.867327,
+                        1.327098
+                  ]
+            },
+            {
+                  "name": "Goodman Arts Centre",
+                  "text": "Ein weitläufiges Künstlerviertel mit zahlreichen Studios, Galerien und Theaterräumen.",
+                  "category": "cultural",
+                  "coords": [
+                        103.884969,
+                        1.303952
+                  ]
+            },
+            {
+                  "name": "Buddhist Art Centre",
+                  "text": "Ein Kunstzentrum, das der Ausstellung und Erhaltung buddhistischer kultureller Artefakte und Kunstwerke gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        103.878191,
+                        1.312551
+                  ]
+            },
+            {
+                  "name": "Association Building",
+                  "text": "Ein Mehrzweck-Andachtsort und Versammlungsraum für einen lokalen Gemeindeverein.",
+                  "category": "religious",
+                  "coords": [
+                        103.879774,
+                        1.310424
+                  ]
+            },
+            {
+                  "name": "Grace Baptist Church",
+                  "text": "Eine christliche Baptistenkirche mit einer engagierten Gemeinde in der Umgebung.",
+                  "category": "religious",
+                  "coords": [
+                        103.882537,
+                        1.325453
+                  ]
+            },
+            {
+                  "name": "Hua Giam Building",
+                  "text": "Ein religiöses Gebäude, das als Kloster und Zufluchtsort für spirituelle Praktizierende dient.",
+                  "category": "religious",
+                  "coords": [
+                        103.87697,
+                        1.309162
+                  ]
+            },
+            {
+                  "name": "Shan Fook Tong Temple",
+                  "text": "Dieser lokale Tempel bietet einen traditionellen Ort der Anbetung in sg-old-police-coast-guard-hq-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        103.8757,
+                        1.312404
+                  ]
+            },
+            {
+                  "name": "Kwan Imm See Temple",
+                  "text": "Ein eigens eingerichteter Ort der Anbetung für die lokale Gemeinde in sg-old-police-coast-guard-hq-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        103.886438,
+                        1.315519
+                  ]
+            },
+            {
+                  "name": "Kallang Estate Fresh Market and Food Centre",
+                  "text": "Dieser belebte Markt in sg-old-police-coast-guard-hq-history-v2 bietet eine Vielzahl an frischen Produkten und warmen Mahlzeiten.",
+                  "category": "cultural",
+                  "coords": [
+                        103.884012,
+                        1.307351
+                  ]
+            },
+            {
+                  "name": "Blk 117 Aljunied Ave 2 Market",
+                  "text": "Dieser Markt in Block 117 versorgt die Bewohner von sg-old-police-coast-guard-hq-history-v2 täglich mit frischen Lebensmitteln.",
+                  "category": "cultural",
+                  "coords": [
+                        103.887189,
+                        1.320648
+                  ]
+            },
+            {
+                  "name": "The Life Church and Missions",
+                  "text": "Eine christliche Kirche in sg-old-police-coast-guard-hq-history-v2, die sich aktiv in der lokalen Missionsarbeit engagiert.",
+                  "category": "landmark",
+                  "coords": [
+                        103.890847,
+                        1.327951
+                  ]
+            },
+            {
+                  "name": "Faith Mission Home",
+                  "text": "Diese christliche Einrichtung in sg-old-police-coast-guard-hq-history-v2 bietet Hilfsdienste und Unterkünfte für die Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        103.877096,
+                        1.312906
+                  ]
+            },
+            {
+                  "name": "Indonesia Family Church",
+                  "text": "Diese christliche Kirche in sg-old-police-coast-guard-hq-history-v2 hält Gottesdienste ab, die auf indonesische Familien zugeschnitten sind.",
+                  "category": "landmark",
+                  "coords": [
+                        103.881677,
+                        1.318166
+                  ]
+            },
+            {
+                  "name": "Maha Care Buddhist Centre",
+                  "text": "Ein buddhistisches Zentrum in sg-old-police-coast-guard-hq-history-v2, das sich der Lehre und dem Wohl der Gemeinschaft widmet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.888622,
+                        1.31608
+                  ]
+            },
+            {
+                  "name": "Tibetan Buddhist Centre",
+                  "text": "Praktizierende versammeln sich in diesem Zentrum in sg-old-police-coast-guard-hq-history-v2, um tibetisch-buddhistische Rituale zu studieren und durchzuführen.",
+                  "category": "landmark",
+                  "coords": [
+                        103.888484,
+                        1.314505
+                  ]
+            },
+            {
+                  "name": "Singapore San Ching Taoism Association",
+                  "text": "Diese taoistische Vereinigungshalle in sg-old-police-coast-guard-hq-history-v2 fördert die Lehren der Drei Reinen.",
+                  "category": "landmark",
+                  "coords": [
+                        103.888444,
+                        1.311919
+                  ]
+            },
+            {
+                  "name": "Lorong Koo Chye Sheng Hong Temple",
+                  "text": "Ein renommierter taoistischer Tempel in sg-old-police-coast-guard-hq-history-v2, der für die Ausrichtung lebhafter traditioneller Feste bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        103.891907,
+                        1.326271
+                  ]
+            },
+            {
+                  "name": "Sim Choon Huat Temple",
+                  "text": "Dieser buddhistische Tempel in sg-old-police-coast-guard-hq-history-v2 bietet eine ruhige Umgebung für Meditation und Gebet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.866076,
+                        1.326558
+                  ]
+            },
+            {
+                  "name": "Kim Keat Christian Church",
+                  "text": "Diese christliche Kirche im Viertel Kim Keat bietet den Bewohnern von sg-old-police-coast-guard-hq-history-v2 spirituelle Führung.",
+                  "category": "landmark",
+                  "coords": [
+                        103.865904,
+                        1.324395
+                  ]
+            },
+            {
+                  "name": "Chwee Kang Beo",
+                  "text": "Dieser Tempel am Flussufer in sg-old-police-coast-guard-hq-history-v2 ist der chinesischen Volksreligion und lokalen Schutzgeistern gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.869993,
+                        1.315309
+                  ]
+            },
+            {
+                  "name": "Sri Manmatha Karuneshvarar (Sivan) Temple",
+                  "text": "Ein lebhafter Hindu-Tempel in sg-old-police-coast-guard-hq-history-v2 mit kunstvollen Schnitzereien, die Lord Shiva gewidmet sind.",
+                  "category": "landmark",
+                  "coords": [
+                        103.865952,
+                        1.308833
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kallang Theatre",
+                  "text": "Egy jelentős előadó-művészeti színház Szingapúrban, amely nagyszabású koncerteknek és musicaleknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        103.875723,
+                        1.301912
+                  ]
+            },
+            {
+                  "name": "Masjid Sallim Mattar",
+                  "text": "Közösségi mecset Szingapúrban, amely a helyi muszlim lakosságot szolgálja a napi imák során.",
+                  "category": "religious",
+                  "coords": [
+                        103.881224,
+                        1.325753
+                  ]
+            },
+            {
+                  "name": "Central Sikh Temple",
+                  "text": "Egy kiemelkedő, 1986-ban épült szikh gurdwara, amely a helyi szikh közösség fő istentiszteleti helyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        103.860425,
+                        1.318848
+                  ]
+            },
+            {
+                  "name": "Elim Church Assembly Of God",
+                  "text": "A szingapúri Assembly of God felekezethez tartozó pünkösdi keresztény templom.",
+                  "category": "religious",
+                  "coords": [
+                        103.864268,
+                        1.323896
+                  ]
+            },
+            {
+                  "name": "Sri Sivan Temple",
+                  "text": "A Siva istenségnek szentelt jól ismert hindu templom, amely dravida építészettel büszkélkedhet.",
+                  "category": "religious",
+                  "coords": [
+                        103.888709,
+                        1.318449
+                  ]
+            },
+            {
+                  "name": "55 Artspace",
+                  "text": "A kortárs művészeti alkotások bemutatásának szentelt meghitt galériatér.",
+                  "category": "museum",
+                  "coords": [
+                        103.875143,
+                        1.327481
+                  ]
+            },
+            {
+                  "name": "Art Seasons Gallery",
+                  "text": "Kortárs művészeti galéria, amely a feltörekvő és elismert ázsiai művészekre fókuszál.",
+                  "category": "museum",
+                  "coords": [
+                        103.873874,
+                        1.327515
+                  ]
+            },
+            {
+                  "name": "Aesthetic Art Gallery",
+                  "text": "Helyi galéria, amely a képzőművészet és az esztétikus alkotások válogatott darabjait állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        103.862907,
+                        1.312104
+                  ]
+            },
+            {
+                  "name": "Kwong Wai Shiu Hospital Heritage Gallery",
+                  "text": "A Kwong Wai Shiu Kórház gazdag orvosi és kulturális történelmét őrző és bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        103.858593,
+                        1.317781
+                  ]
+            },
+            {
+                  "name": "Serangoon Broadway",
+                  "text": "Nagy múltú helyi stúdió és rendezvénytér a Serangoon szakaszon.",
+                  "category": "cultural",
+                  "coords": [
+                        103.867327,
+                        1.327098
+                  ]
+            },
+            {
+                  "name": "Goodman Arts Centre",
+                  "text": "Kiterjedt művészeti negyed számos stúdióval, galériával és színházi térrel.",
+                  "category": "cultural",
+                  "coords": [
+                        103.884969,
+                        1.303952
+                  ]
+            },
+            {
+                  "name": "Buddhist Art Centre",
+                  "text": "A buddhista kulturális leletek és műalkotások kiállításának és megőrzésének szentelt művészeti központ.",
+                  "category": "cultural",
+                  "coords": [
+                        103.878191,
+                        1.312551
+                  ]
+            },
+            {
+                  "name": "Association Building",
+                  "text": "Többcélú imaház és gyülekezeti tér egy helyi közösségi egyesület számára.",
+                  "category": "religious",
+                  "coords": [
+                        103.879774,
+                        1.310424
+                  ]
+            },
+            {
+                  "name": "Grace Baptist Church",
+                  "text": "Keresztény baptista templom, amelynek elkötelezett gyülekezete van a környéken.",
+                  "category": "religious",
+                  "coords": [
+                        103.882537,
+                        1.325453
+                  ]
+            },
+            {
+                  "name": "Hua Giam Building",
+                  "text": "Vallási épület, amely kolostorként és szentélyként szolgál a spirituális gyakorlók számára.",
+                  "category": "religious",
+                  "coords": [
+                        103.87697,
+                        1.309162
+                  ]
+            },
+            {
+                  "name": "Shan Fook Tong Temple",
+                  "text": "Ez a helyi templom hagyományos istentiszteleti teret biztosít sg-old-police-coast-guard-hq-history-v2 területén.",
+                  "category": "religious",
+                  "coords": [
+                        103.8757,
+                        1.312404
+                  ]
+            },
+            {
+                  "name": "Kwan Imm See Temple",
+                  "text": "A helyi közösséget szolgáló istentiszteleti hely sg-old-police-coast-guard-hq-history-v2 városában.",
+                  "category": "religious",
+                  "coords": [
+                        103.886438,
+                        1.315519
+                  ]
+            },
+            {
+                  "name": "Kallang Estate Fresh Market and Food Centre",
+                  "text": "Ez a nyüzsgő piac sg-old-police-coast-guard-hq-history-v2 területén friss termékeket és főtt ételeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        103.884012,
+                        1.307351
+                  ]
+            },
+            {
+                  "name": "Blk 117 Aljunied Ave 2 Market",
+                  "text": "A 117-es blokkban található piac napi árucikkekkel és friss élelmiszerekkel látja el sg-old-police-coast-guard-hq-history-v2 lakóit.",
+                  "category": "cultural",
+                  "coords": [
+                        103.887189,
+                        1.320648
+                  ]
+            },
+            {
+                  "name": "The Life Church and Missions",
+                  "text": "Egy keresztény templom sg-old-police-coast-guard-hq-history-v2 városában, amely aktívan részt vesz a helyi missziós munkában.",
+                  "category": "landmark",
+                  "coords": [
+                        103.890847,
+                        1.327951
+                  ]
+            },
+            {
+                  "name": "Faith Mission Home",
+                  "text": "Ez a keresztény létesítmény sg-old-police-coast-guard-hq-history-v2 területén segélyszolgálatokat és menedéket nyújt a közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        103.877096,
+                        1.312906
+                  ]
+            },
+            {
+                  "name": "Indonesia Family Church",
+                  "text": "Ez a keresztény templom sg-old-police-coast-guard-hq-history-v2 területén indonéz családok számára tart istentiszteleteket.",
+                  "category": "landmark",
+                  "coords": [
+                        103.881677,
+                        1.318166
+                  ]
+            },
+            {
+                  "name": "Maha Care Buddhist Centre",
+                  "text": "Buddhista központ sg-old-police-coast-guard-hq-history-v2 városában, amely a tanításoknak és a közösség jólétének szenteli magát.",
+                  "category": "landmark",
+                  "coords": [
+                        103.888622,
+                        1.31608
+                  ]
+            },
+            {
+                  "name": "Tibetan Buddhist Centre",
+                  "text": "A gyakorlók ebben a központban gyűlnek össze sg-old-police-coast-guard-hq-history-v2 területén, hogy tibeti buddhista rituálékat tanulmányozzanak és végezzenek.",
+                  "category": "landmark",
+                  "coords": [
+                        103.888484,
+                        1.314505
+                  ]
+            },
+            {
+                  "name": "Singapore San Ching Taoism Association",
+                  "text": "Ez a taoista egyesületi csarnok sg-old-police-coast-guard-hq-history-v2 városában a Három Tiszta tanításait hirdeti.",
+                  "category": "landmark",
+                  "coords": [
+                        103.888444,
+                        1.311919
+                  ]
+            },
+            {
+                  "name": "Lorong Koo Chye Sheng Hong Temple",
+                  "text": "Egy híres taoista templom sg-old-police-coast-guard-hq-history-v2 területén, amely széles körben ismert az élénk hagyományos fesztiválok megrendezéséről.",
+                  "category": "landmark",
+                  "coords": [
+                        103.891907,
+                        1.326271
+                  ]
+            },
+            {
+                  "name": "Sim Choon Huat Temple",
+                  "text": "Ez a buddhista templom sg-old-police-coast-guard-hq-history-v2 városában nyugodt környezetet kínál a meditációhoz és az imához.",
+                  "category": "landmark",
+                  "coords": [
+                        103.866076,
+                        1.326558
+                  ]
+            },
+            {
+                  "name": "Kim Keat Christian Church",
+                  "text": "A Kim Keat negyedben található keresztény templom spirituális útmutatást nyújt sg-old-police-coast-guard-hq-history-v2 lakóinak.",
+                  "category": "landmark",
+                  "coords": [
+                        103.865904,
+                        1.324395
+                  ]
+            },
+            {
+                  "name": "Chwee Kang Beo",
+                  "text": "Ezt a folyóparti templomot sg-old-police-coast-guard-hq-history-v2 területén a kínai népi vallásnak és a helyi védőszellemeknek szentelték.",
+                  "category": "landmark",
+                  "coords": [
+                        103.869993,
+                        1.315309
+                  ]
+            },
+            {
+                  "name": "Sri Manmatha Karuneshvarar (Sivan) Temple",
+                  "text": "Egy nyüzsgő hindu templom sg-old-police-coast-guard-hq-history-v2 városában, amely Siva istennek szentelt díszes faragványokkal rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        103.865952,
+                        1.308833
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kallang Theatre",
+                  "text": "Un teatru remarcabil de arte spectacolului din Singapore, cunoscut pentru găzduirea de concerte de mare amploare și musicaluri.",
+                  "category": "cultural",
+                  "coords": [
+                        103.875723,
+                        1.301912
+                  ]
+            },
+            {
+                  "name": "Masjid Sallim Mattar",
+                  "text": "O moschee comunitară din Singapore care deservește populația musulmană locală pentru rugăciunile zilnice.",
+                  "category": "religious",
+                  "coords": [
+                        103.881224,
+                        1.325753
+                  ]
+            },
+            {
+                  "name": "Central Sikh Temple",
+                  "text": "O gurdwara sikh proeminentă, construită în 1986, care servește drept principal lăcaș de cult pentru comunitatea sikh locală.",
+                  "category": "religious",
+                  "coords": [
+                        103.860425,
+                        1.318848
+                  ]
+            },
+            {
+                  "name": "Elim Church Assembly Of God",
+                  "text": "O biserică creștină penticostală aparținând confesiunii Assembly of God din Singapore.",
+                  "category": "religious",
+                  "coords": [
+                        103.864268,
+                        1.323896
+                  ]
+            },
+            {
+                  "name": "Sri Sivan Temple",
+                  "text": "Un cunoscut templu hindus dedicat zeității Shiva, cu arhitectură dravidiană.",
+                  "category": "religious",
+                  "coords": [
+                        103.888709,
+                        1.318449
+                  ]
+            },
+            {
+                  "name": "55 Artspace",
+                  "text": "Un spațiu de galerie intim dedicat prezentării operelor de artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        103.875143,
+                        1.327481
+                  ]
+            },
+            {
+                  "name": "Art Seasons Gallery",
+                  "text": "O galerie de artă contemporană axată pe artiști asiatici emergenți și consacrați.",
+                  "category": "museum",
+                  "coords": [
+                        103.873874,
+                        1.327515
+                  ]
+            },
+            {
+                  "name": "Aesthetic Art Gallery",
+                  "text": "O galerie locală care expune o selecție curatoriată de arte plastice și piese estetice.",
+                  "category": "museum",
+                  "coords": [
+                        103.862907,
+                        1.312104
+                  ]
+            },
+            {
+                  "name": "Kwong Wai Shiu Hospital Heritage Gallery",
+                  "text": "Un muzeu care păstrează și expune bogata istorie medicală și culturală a Spitalului Kwong Wai Shiu.",
+                  "category": "museum",
+                  "coords": [
+                        103.858593,
+                        1.317781
+                  ]
+            },
+            {
+                  "name": "Serangoon Broadway",
+                  "text": "Un studio local cu tradiție lungă și spațiu de evenimente situat pe tronsonul Serangoon.",
+                  "category": "cultural",
+                  "coords": [
+                        103.867327,
+                        1.327098
+                  ]
+            },
+            {
+                  "name": "Goodman Arts Centre",
+                  "text": "O enclavă artistică întinsă, cu numeroase studiouri, galerii și spații de teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        103.884969,
+                        1.303952
+                  ]
+            },
+            {
+                  "name": "Buddhist Art Centre",
+                  "text": "Un centru de artă dedicat expoziției și conservării artefactelor culturale și a operelor de artă budiste.",
+                  "category": "cultural",
+                  "coords": [
+                        103.878191,
+                        1.312551
+                  ]
+            },
+            {
+                  "name": "Association Building",
+                  "text": "Un lăcaș de cult multifuncțional și un spațiu de adunare pentru o asociație comunitară locală.",
+                  "category": "religious",
+                  "coords": [
+                        103.879774,
+                        1.310424
+                  ]
+            },
+            {
+                  "name": "Grace Baptist Church",
+                  "text": "O biserică creștină baptistă cu o congregație dedicată în zonă.",
+                  "category": "religious",
+                  "coords": [
+                        103.882537,
+                        1.325453
+                  ]
+            },
+            {
+                  "name": "Hua Giam Building",
+                  "text": "O clădire religioasă care servește ca mănăstire și sanctuar pentru practicanții spirituali.",
+                  "category": "religious",
+                  "coords": [
+                        103.87697,
+                        1.309162
+                  ]
+            },
+            {
+                  "name": "Shan Fook Tong Temple",
+                  "text": "Acest templu local oferă un spațiu tradițional de cult în sg-old-police-coast-guard-hq-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        103.8757,
+                        1.312404
+                  ]
+            },
+            {
+                  "name": "Kwan Imm See Temple",
+                  "text": "Un lăcaș de cult dedicat care deservește comunitatea locală din sg-old-police-coast-guard-hq-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        103.886438,
+                        1.315519
+                  ]
+            },
+            {
+                  "name": "Kallang Estate Fresh Market and Food Centre",
+                  "text": "Această piață plină de viață din sg-old-police-coast-guard-hq-history-v2 oferă o varietate de produse proaspete și mâncăruri gătite.",
+                  "category": "cultural",
+                  "coords": [
+                        103.884012,
+                        1.307351
+                  ]
+            },
+            {
+                  "name": "Blk 117 Aljunied Ave 2 Market",
+                  "text": "Situată în blocul 117, această piață oferă bunuri zilnice și alimente proaspete rezidenților din sg-old-police-coast-guard-hq-history-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        103.887189,
+                        1.320648
+                  ]
+            },
+            {
+                  "name": "The Life Church and Missions",
+                  "text": "O biserică creștină din sg-old-police-coast-guard-hq-history-v2 care se implică activ în activități de misiune locală.",
+                  "category": "landmark",
+                  "coords": [
+                        103.890847,
+                        1.327951
+                  ]
+            },
+            {
+                  "name": "Faith Mission Home",
+                  "text": "Această facilitate creștină din sg-old-police-coast-guard-hq-history-v2 oferă servicii de asistență și adăpost pentru comunitate.",
+                  "category": "landmark",
+                  "coords": [
+                        103.877096,
+                        1.312906
+                  ]
+            },
+            {
+                  "name": "Indonesia Family Church",
+                  "text": "Această biserică creștină din sg-old-police-coast-guard-hq-history-v2 organizează slujbe adaptate pentru familiile indoneziene.",
+                  "category": "landmark",
+                  "coords": [
+                        103.881677,
+                        1.318166
+                  ]
+            },
+            {
+                  "name": "Maha Care Buddhist Centre",
+                  "text": "Un centru budist din sg-old-police-coast-guard-hq-history-v2 dedicat învățăturilor și bunăstării comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        103.888622,
+                        1.31608
+                  ]
+            },
+            {
+                  "name": "Tibetan Buddhist Centre",
+                  "text": "Practicanții se adună la acest centru din sg-old-police-coast-guard-hq-history-v2 pentru a studia și a efectua ritualuri budiste tibetane.",
+                  "category": "landmark",
+                  "coords": [
+                        103.888484,
+                        1.314505
+                  ]
+            },
+            {
+                  "name": "Singapore San Ching Taoism Association",
+                  "text": "Această sală a asociației taoiste din sg-old-police-coast-guard-hq-history-v2 promovează învățăturile Celor Trei Puri.",
+                  "category": "landmark",
+                  "coords": [
+                        103.888444,
+                        1.311919
+                  ]
+            },
+            {
+                  "name": "Lorong Koo Chye Sheng Hong Temple",
+                  "text": "Un renumit templu taoist din sg-old-police-coast-guard-hq-history-v2, cunoscut pentru găzduirea unor festivaluri tradiționale pline de viață.",
+                  "category": "landmark",
+                  "coords": [
+                        103.891907,
+                        1.326271
+                  ]
+            },
+            {
+                  "name": "Sim Choon Huat Temple",
+                  "text": "Acest templu budist din sg-old-police-coast-guard-hq-history-v2 oferă un mediu liniștit pentru meditație și rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        103.866076,
+                        1.326558
+                  ]
+            },
+            {
+                  "name": "Kim Keat Christian Church",
+                  "text": "Situată în cartierul Kim Keat, această biserică creștină oferă îndrumare spirituală rezidenților din sg-old-police-coast-guard-hq-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        103.865904,
+                        1.324395
+                  ]
+            },
+            {
+                  "name": "Chwee Kang Beo",
+                  "text": "Acest templu de pe malul râului din sg-old-police-coast-guard-hq-history-v2 este dedicat religiei populare chinezești și spiritelor păzitoare locale.",
+                  "category": "landmark",
+                  "coords": [
+                        103.869993,
+                        1.315309
+                  ]
+            },
+            {
+                  "name": "Sri Manmatha Karuneshvarar (Sivan) Temple",
+                  "text": "Un templu hindus vibrant din sg-old-police-coast-guard-hq-history-v2 care prezintă sculpturi ornamentate dedicate zeului Shiva.",
+                  "category": "landmark",
+                  "coords": [
+                        103.865952,
+                        1.308833
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kallang Theatre",
+                  "text": "A notable performing arts theatre in Singapore known for hosting large-scale concerts and musicals.",
+                  "category": "cultural",
+                  "coords": [
+                        103.875723,
+                        1.301912
+                  ]
+            },
+            {
+                  "name": "Masjid Sallim Mattar",
+                  "text": "A community mosque in Singapore serving the local Muslim population for daily prayers.",
+                  "category": "religious",
+                  "coords": [
+                        103.881224,
+                        1.325753
+                  ]
+            },
+            {
+                  "name": "Central Sikh Temple",
+                  "text": "A prominent Sikh gurdwara built in 1986, serving as the main place of worship for the local Sikh community.",
+                  "category": "religious",
+                  "coords": [
+                        103.860425,
+                        1.318848
+                  ]
+            },
+            {
+                  "name": "Elim Church Assembly Of God",
+                  "text": "A Pentecostal Christian church belonging to the Assembly of God denomination in Singapore.",
+                  "category": "religious",
+                  "coords": [
+                        103.864268,
+                        1.323896
+                  ]
+            },
+            {
+                  "name": "Sri Sivan Temple",
+                  "text": "A well-known Hindu temple dedicated to the deity Shiva, featuring distinct Dravidian architecture.",
+                  "category": "religious",
+                  "coords": [
+                        103.888709,
+                        1.318449
+                  ]
+            },
+            {
+                  "name": "55 Artspace",
+                  "text": "An intimate gallery space dedicated to showcasing contemporary artworks.",
+                  "category": "museum",
+                  "coords": [
+                        103.875143,
+                        1.327481
+                  ]
+            },
+            {
+                  "name": "Art Seasons Gallery",
+                  "text": "A contemporary art gallery focusing on emerging and established Asian artists.",
+                  "category": "museum",
+                  "coords": [
+                        103.873874,
+                        1.327515
+                  ]
+            },
+            {
+                  "name": "Aesthetic Art Gallery",
+                  "text": "A local gallery exhibiting a curated selection of fine arts and aesthetic pieces.",
+                  "category": "museum",
+                  "coords": [
+                        103.862907,
+                        1.312104
+                  ]
+            },
+            {
+                  "name": "Kwong Wai Shiu Hospital Heritage Gallery",
+                  "text": "A museum preserving and displaying the rich medical and cultural history of the Kwong Wai Shiu Hospital.",
+                  "category": "museum",
+                  "coords": [
+                        103.858593,
+                        1.317781
+                  ]
+            },
+            {
+                  "name": "Serangoon Broadway",
+                  "text": "A long-established local studio and events space located along the Serangoon stretch.",
+                  "category": "cultural",
+                  "coords": [
+                        103.867327,
+                        1.327098
+                  ]
+            },
+            {
+                  "name": "Goodman Arts Centre",
+                  "text": "A sprawling arts enclave featuring numerous studios, galleries, and theatre spaces.",
+                  "category": "cultural",
+                  "coords": [
+                        103.884969,
+                        1.303952
+                  ]
+            },
+            {
+                  "name": "Buddhist Art Centre",
+                  "text": "An arts centre dedicated to the exhibition and preservation of Buddhist cultural artifacts and artworks.",
+                  "category": "cultural",
+                  "coords": [
+                        103.878191,
+                        1.312551
+                  ]
+            },
+            {
+                  "name": "Association Building",
+                  "text": "A multi-purpose place of worship and gathering space for a local community association.",
+                  "category": "religious",
+                  "coords": [
+                        103.879774,
+                        1.310424
+                  ]
+            },
+            {
+                  "name": "Grace Baptist Church",
+                  "text": "A Christian Baptist church with a dedicated congregation in the area.",
+                  "category": "religious",
+                  "coords": [
+                        103.882537,
+                        1.325453
+                  ]
+            },
+            {
+                  "name": "Hua Giam Building",
+                  "text": "A religious building serving as a monastery and sanctuary for spiritual practitioners.",
+                  "category": "religious",
+                  "coords": [
+                        103.87697,
+                        1.309162
+                  ]
+            },
+            {
+                  "name": "Shan Fook Tong Temple",
+                  "text": "This local temple provides a traditional space for worship in sg-old-police-coast-guard-hq-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        103.8757,
+                        1.312404
+                  ]
+            },
+            {
+                  "name": "Kwan Imm See Temple",
+                  "text": "A dedicated place of worship serving the local community in sg-old-police-coast-guard-hq-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        103.886438,
+                        1.315519
+                  ]
+            },
+            {
+                  "name": "Kallang Estate Fresh Market and Food Centre",
+                  "text": "This bustling marketplace in sg-old-police-coast-guard-hq-history-v2 offers a variety of fresh produce and cooked meals.",
+                  "category": "cultural",
+                  "coords": [
+                        103.884012,
+                        1.307351
+                  ]
+            },
+            {
+                  "name": "Blk 117 Aljunied Ave 2 Market",
+                  "text": "Located in block 117, this market provides daily goods and fresh food to residents in sg-old-police-coast-guard-hq-history-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        103.887189,
+                        1.320648
+                  ]
+            },
+            {
+                  "name": "The Life Church and Missions",
+                  "text": "A Christian church in sg-old-police-coast-guard-hq-history-v2 that actively engages in local mission work.",
+                  "category": "landmark",
+                  "coords": [
+                        103.890847,
+                        1.327951
+                  ]
+            },
+            {
+                  "name": "Faith Mission Home",
+                  "text": "This Christian facility in sg-old-police-coast-guard-hq-history-v2 provides outreach services and shelter for the community.",
+                  "category": "landmark",
+                  "coords": [
+                        103.877096,
+                        1.312906
+                  ]
+            },
+            {
+                  "name": "Indonesia Family Church",
+                  "text": "This Christian church in sg-old-police-coast-guard-hq-history-v2 holds services tailored for Indonesian families.",
+                  "category": "landmark",
+                  "coords": [
+                        103.881677,
+                        1.318166
+                  ]
+            },
+            {
+                  "name": "Maha Care Buddhist Centre",
+                  "text": "A Buddhist centre in sg-old-police-coast-guard-hq-history-v2 dedicated to teachings and community welfare.",
+                  "category": "landmark",
+                  "coords": [
+                        103.888622,
+                        1.31608
+                  ]
+            },
+            {
+                  "name": "Tibetan Buddhist Centre",
+                  "text": "Practitioners gather at this centre in sg-old-police-coast-guard-hq-history-v2 to study and perform Tibetan Buddhist rituals.",
+                  "category": "landmark",
+                  "coords": [
+                        103.888484,
+                        1.314505
+                  ]
+            },
+            {
+                  "name": "Singapore San Ching Taoism Association",
+                  "text": "This Taoist association hall in sg-old-police-coast-guard-hq-history-v2 promotes the teachings of the Three Pure Ones.",
+                  "category": "landmark",
+                  "coords": [
+                        103.888444,
+                        1.311919
+                  ]
+            },
+            {
+                  "name": "Lorong Koo Chye Sheng Hong Temple",
+                  "text": "A renowned Taoist temple in sg-old-police-coast-guard-hq-history-v2, widely known for hosting lively traditional festivals.",
+                  "category": "landmark",
+                  "coords": [
+                        103.891907,
+                        1.326271
+                  ]
+            },
+            {
+                  "name": "Sim Choon Huat Temple",
+                  "text": "This Buddhist temple in sg-old-police-coast-guard-hq-history-v2 offers a tranquil environment for meditation and prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        103.866076,
+                        1.326558
+                  ]
+            },
+            {
+                  "name": "Kim Keat Christian Church",
+                  "text": "Set in the Kim Keat neighborhood, this Christian church provides spiritual guidance to residents of sg-old-police-coast-guard-hq-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        103.865904,
+                        1.324395
+                  ]
+            },
+            {
+                  "name": "Chwee Kang Beo",
+                  "text": "This riverside temple in sg-old-police-coast-guard-hq-history-v2 is dedicated to Chinese folk religion and local guardian spirits.",
+                  "category": "landmark",
+                  "coords": [
+                        103.869993,
+                        1.315309
+                  ]
+            },
+            {
+                  "name": "Sri Manmatha Karuneshvarar (Sivan) Temple",
+                  "text": "A vibrant Hindu temple in sg-old-police-coast-guard-hq-history-v2 featuring ornate carvings dedicated to Lord Shiva.",
+                  "category": "landmark",
+                  "coords": [
+                        103.865952,
+                        1.308833
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "SG-01",
     coords: [103.8708, 1.3093],
@@ -915,7 +7017,232 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     },
   },
   {
-    id: "sg-former-st-andrews-mission-hospital-history-v2",
+    id: "sg-former-st-andrews-mission-hospital-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Railway corridor entry point",
+                  "text": "Dieser Zugangspunkt zum Eisenbahnkorridor markiert den Beginn eines malerischen Weges entlang einer umgenutzten ehemaligen Bahntrasse.",
+                  "category": "landmark",
+                  "coords": [
+                        103.83238,
+                        1.275215
+                  ]
+            },
+            {
+                  "name": "Old Boys Gallery",
+                  "text": "Die Old Boys Gallery ist ein Kunstausstellungsraum, in dem verschiedene kreative Werke zeitgenössischer Künstler ausgestellt werden.",
+                  "category": "museum",
+                  "coords": [
+                        103.835825,
+                        1.276504
+                  ]
+            },
+            {
+                  "name": "Church of St. Teresa",
+                  "text": "Die Church of St. Teresa ist eine katholische Kultstätte, die für ihre markante romano-byzantinische Architektur bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        103.828166,
+                        1.273277
+                  ]
+            },
+            {
+                  "name": "Wat Anada Metyarama Thai Buddhist Temple",
+                  "text": "Wat Ananda Metyarama ist ein bedeutender thailändischer buddhistischer Tempel mit traditioneller Theravada-Architektur und goldenen Stupas.",
+                  "category": "religious",
+                  "coords": [
+                        103.829029,
+                        1.278328
+                  ]
+            },
+            {
+                  "name": "Baba House",
+                  "text": "Das Baba House ist ein historisches Museum, das in einem authentischen, farbenfrohen Peranakan-Stadthaus erhalten geblieben ist.",
+                  "category": "museum",
+                  "coords": [
+                        103.837357,
+                        1.277064
+                  ]
+            },
+            {
+                  "name": "Silat Road Sikh Temple",
+                  "text": "Der Sikh-Tempel an der Silat Road ist ein traditioneller Gurdwara, der als spirituelles Zentrum für die lokale Sikh-Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        103.832604,
+                        1.276985
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Railway corridor entry point",
+                  "text": "Ez a vasúti folyosó belépési pontja egy festői ösvény kezdetét jelzi egy újrahasznosított egykori vasútvonal mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        103.83238,
+                        1.275215
+                  ]
+            },
+            {
+                  "name": "Old Boys Gallery",
+                  "text": "Az Old Boys Gallery egy művészeti kiállítótér, amely kortárs művészek különféle kreatív alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        103.835825,
+                        1.276504
+                  ]
+            },
+            {
+                  "name": "Church of St. Teresa",
+                  "text": "A Church of St. Teresa egy katolikus istentiszteleti hely, amely jellegzetes római-bizánci építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        103.828166,
+                        1.273277
+                  ]
+            },
+            {
+                  "name": "Wat Anada Metyarama Thai Buddhist Temple",
+                  "text": "A Wat Ananda Metyarama egy figyelemre méltó thai buddhista templom, amely hagyományos théraváda építészeti dizájnnal és arany sztúpákkal rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        103.829029,
+                        1.278328
+                  ]
+            },
+            {
+                  "name": "Baba House",
+                  "text": "A Baba House egy történelmi múzeum, amelyet egy autentikus, élénk színű Peranakan örökségi sorházban őriztek meg.",
+                  "category": "museum",
+                  "coords": [
+                        103.837357,
+                        1.277064
+                  ]
+            },
+            {
+                  "name": "Silat Road Sikh Temple",
+                  "text": "A Silat Road szikh templom egy hagyományos gurdwara, amely a helyi szikh közösség spirituális központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        103.832604,
+                        1.276985
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Railway corridor entry point",
+                  "text": "Acest punct de intrare în coridorul feroviar marchează începutul unui traseu pitoresc de-a lungul unei foste șine de tren reamenajate.",
+                  "category": "landmark",
+                  "coords": [
+                        103.83238,
+                        1.275215
+                  ]
+            },
+            {
+                  "name": "Old Boys Gallery",
+                  "text": "Old Boys Gallery este un spațiu de expoziție de artă care afișează diverse lucrări creative ale artiștilor contemporani.",
+                  "category": "museum",
+                  "coords": [
+                        103.835825,
+                        1.276504
+                  ]
+            },
+            {
+                  "name": "Church of St. Teresa",
+                  "text": "Biserica Sf. Teresa este un lăcaș de cult catolic cunoscut pentru arhitectura sa distinctă romano-bizantină.",
+                  "category": "religious",
+                  "coords": [
+                        103.828166,
+                        1.273277
+                  ]
+            },
+            {
+                  "name": "Wat Anada Metyarama Thai Buddhist Temple",
+                  "text": "Wat Ananda Metyarama este un templu budist thailandez remarcabil, cu design arhitectural tradițional Theravada și stupe aurii.",
+                  "category": "religious",
+                  "coords": [
+                        103.829029,
+                        1.278328
+                  ]
+            },
+            {
+                  "name": "Baba House",
+                  "text": "Casa Baba este un muzeu istoric conservat într-o casă de oraș autentică, viu colorată, de patrimoniu Peranakan.",
+                  "category": "museum",
+                  "coords": [
+                        103.837357,
+                        1.277064
+                  ]
+            },
+            {
+                  "name": "Silat Road Sikh Temple",
+                  "text": "Templul Sikh Silat Road este un Gurdwara tradițional care servește drept centru spiritual pentru comunitatea sikh locală.",
+                  "category": "landmark",
+                  "coords": [
+                        103.832604,
+                        1.276985
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Railway corridor entry point",
+                  "text": "This railway corridor entry point marks the start of a scenic trail along a repurposed former train track.",
+                  "category": "landmark",
+                  "coords": [
+                        103.83238,
+                        1.275215
+                  ]
+            },
+            {
+                  "name": "Old Boys Gallery",
+                  "text": "Old Boys Gallery is an art exhibition space displaying various creative works from contemporary artists.",
+                  "category": "museum",
+                  "coords": [
+                        103.835825,
+                        1.276504
+                  ]
+            },
+            {
+                  "name": "Church of St. Teresa",
+                  "text": "The Church of St. Teresa is a Catholic place of worship known for its distinct Romano-Byzantine architecture.",
+                  "category": "religious",
+                  "coords": [
+                        103.828166,
+                        1.273277
+                  ]
+            },
+            {
+                  "name": "Wat Anada Metyarama Thai Buddhist Temple",
+                  "text": "Wat Ananda Metyarama is a notable Thai Buddhist temple featuring traditional Theravada architectural design and golden stupas.",
+                  "category": "religious",
+                  "coords": [
+                        103.829029,
+                        1.278328
+                  ]
+            },
+            {
+                  "name": "Baba House",
+                  "text": "Baba House is a historic museum preserved in an authentic, vibrantly colored Peranakan heritage townhouse.",
+                  "category": "museum",
+                  "coords": [
+                        103.837357,
+                        1.277064
+                  ]
+            },
+            {
+                  "name": "Silat Road Sikh Temple",
+                  "text": "Silat Road Sikh Temple is a traditional Gurdwara serving as a spiritual hub for the local Sikh community.",
+                  "category": "landmark",
+                  "coords": [
+                        103.832604,
+                        1.276985
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "SG-01",
     coords: [103.834, 1.2785],

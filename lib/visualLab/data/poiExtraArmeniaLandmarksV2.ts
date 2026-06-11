@@ -59,7 +59,484 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
       fr: [],
     }, image: "/poi-images/armenia-khor-virap-landmarks-v2.webp"},
     {
-    id: "armenia-sevanavank-landmarks-v2",
+    id: "armenia-sevanavank-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Amico",
+                  "text": "Ein Strandresort am Sewansee, das Erholung und Wassersportmöglichkeiten in der armenischen Sommerfrische bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        44.98933,
+                        40.539586
+                  ]
+            },
+            {
+                  "name": "Adana",
+                  "text": "Eine gemütliche Ferienanlage am Seeufer, die Besuchern einen direkten Zugang zum erfrischenden Bergwasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        44.990476,
+                        40.539892
+                  ]
+            },
+            {
+                  "name": "Cocobello",
+                  "text": "Ein beliebter Strandabschnitt mit Liegestühlen und Verpflegung direkt am blauen Wasser des Sewansees.",
+                  "category": "recreational",
+                  "coords": [
+                        44.988257,
+                        40.53946
+                  ]
+            },
+            {
+                  "name": "Սառնուտ",
+                  "text": "Ein Gipfel in der Nähe von Sewan, von dem aus man einen spektakulären Blick auf den gesamten See hat.",
+                  "category": "natural",
+                  "coords": [
+                        45.060692,
+                        40.634053
+                  ]
+            },
+            {
+                  "name": "Pik",
+                  "text": "Dieser Aussichtspunkt auf der Halbinsel bietet den perfekten Panoramablick auf das Kloster Sevanavank und den See.",
+                  "category": "natural",
+                  "coords": [
+                        44.965132,
+                        40.571886
+                  ]
+            },
+            {
+                  "name": "Արջանոց",
+                  "text": "Ein markanter Berg im Geghama-Hochland, der oft als Orientierungspunkt für Wanderer am See dient.",
+                  "category": "natural",
+                  "coords": [
+                        44.942738,
+                        40.573105
+                  ]
+            },
+            {
+                  "name": "Jrahars Resort",
+                  "text": "Ein am See gelegenes Resort, das für seine gepflegten Grünanlagen und den Blick auf das Kloster bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        44.992248,
+                        40.559473
+                  ]
+            },
+            {
+                  "name": "Փիրուզյա լողափ",
+                  "text": "Ein Sandstrand am Sewansee, der für sein außergewöhnlich klares und türkis schimmerndes Wasser geschätzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        45.016396,
+                        40.513536
+                  ]
+            },
+            {
+                  "name": "Ծովասար ընտանեկան հանգստի համալիր",
+                  "text": "Diese Ferienanlage bietet Cottages und Freizeitaktivitäten direkt am Nordufer des Sewansees.",
+                  "category": "recreational",
+                  "coords": [
+                        45.025882,
+                        40.513813
+                  ]
+            },
+            {
+                  "name": "Եկեղեցի Սբ. Աստվածածին",
+                  "text": "Eine historische Kirche auf der Halbinsel von Sewan, die der Heiligen Gottesmutter gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        45.010548,
+                        40.564012
+                  ]
+            },
+            {
+                  "name": "Ոսկե ավազ",
+                  "text": "Dieser Strand am Ufer des Sewansees ist für seinen feinen, hellen Sand bekannt.",
+                  "category": "recreational",
+                  "coords": [
+                        44.963656,
+                        40.600643
+                  ]
+            },
+            {
+                  "name": "Metsep chapel",
+                  "text": "Eine kleine, abgelegene armenische Kapelle in der Nähe des historischen Sevanavank-Klosterkomplexes.",
+                  "category": "landmark",
+                  "coords": [
+                        44.942697,
+                        40.559625
+                  ]
+            },
+            {
+                  "name": "Մաշտոցներ",
+                  "text": "Eine mittelalterliche armenische Kapelle, die für ihre Lage in der zerklüfteten Landschaft bei Sevanavank bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        44.979252,
+                        40.57763
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Amico",
+                  "text": "Egy strandüdülő a Szeván-tónál, amely pihenést és vízi sportokat kínál az örmény nyári szünetben.",
+                  "category": "recreational",
+                  "coords": [
+                        44.98933,
+                        40.539586
+                  ]
+            },
+            {
+                  "name": "Adana",
+                  "text": "Egy barátságos tóparti üdülőhely, amely közvetlen hozzáférést biztosít a frissítő hegyi vízhez.",
+                  "category": "recreational",
+                  "coords": [
+                        44.990476,
+                        40.539892
+                  ]
+            },
+            {
+                  "name": "Cocobello",
+                  "text": "Népszerű strand szakasz napozóágyakkal és büfével, közvetlenül a Szeván-tó kék vize mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        44.988257,
+                        40.53946
+                  ]
+            },
+            {
+                  "name": "Սառնուտ",
+                  "text": "Szeván közeli csúcs, ahonnan látványos kilátás nyílik az egész tóra.",
+                  "category": "natural",
+                  "coords": [
+                        45.060692,
+                        40.634053
+                  ]
+            },
+            {
+                  "name": "Pik",
+                  "text": "Ez a félszigeten található kilátópont tökéletes panorámát nyújt a Szevanavank-kolostorra és a tóra.",
+                  "category": "natural",
+                  "coords": [
+                        44.965132,
+                        40.571886
+                  ]
+            },
+            {
+                  "name": "Արջանոց",
+                  "text": "A Geghama-fennsík jellegzetes hegye, amely gyakran tájékozódási pontként szolgál a túrázóknak.",
+                  "category": "natural",
+                  "coords": [
+                        44.942738,
+                        40.573105
+                  ]
+            },
+            {
+                  "name": "Jrahars Resort",
+                  "text": "Tóparti üdülőhely, amely gondozott parkjairól és a kolostorra nyíló kilátásáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        44.992248,
+                        40.559473
+                  ]
+            },
+            {
+                  "name": "Փիրուզյա լողափ",
+                  "text": "Homokos strand a Szeván-tónál, amelyet kivételesen tiszta és türkizkék vize miatt kedvelnek.",
+                  "category": "recreational",
+                  "coords": [
+                        45.016396,
+                        40.513536
+                  ]
+            },
+            {
+                  "name": "Ծովասար ընտանեկան հանգստի համալիր",
+                  "text": "Ez az üdülőközpont nyaralókat és szabadidős tevékenységeket kínál közvetlenül a Szeván-tó északi partján.",
+                  "category": "recreational",
+                  "coords": [
+                        45.025882,
+                        40.513813
+                  ]
+            },
+            {
+                  "name": "Եկեղեցի Սբ. Աստվածածին",
+                  "text": "Történelmi templom a Szeván-félszigeten, amelyet az Istenanyának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        45.010548,
+                        40.564012
+                  ]
+            },
+            {
+                  "name": "Ոսկե ավազ",
+                  "text": "A Szeván-tó partján fekvő strand finom, világos homokjáról kapta a nevét.",
+                  "category": "recreational",
+                  "coords": [
+                        44.963656,
+                        40.600643
+                  ]
+            },
+            {
+                  "name": "Metsep chapel",
+                  "text": "Egy kicsi, eldugott örmény kápolna a történelmi Szevanavank kolostorkomplexum közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        44.942697,
+                        40.559625
+                  ]
+            },
+            {
+                  "name": "Մաշտոցներ",
+                  "text": "Középkori örmény kápolna, amely a Szevanavank melletti sziklás tájon elfoglalt helyéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        44.979252,
+                        40.57763
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Amico",
+                  "text": "O stațiune de plajă pe malul lacului Sevan, oferind relaxare și sporturi nautice în timpul verii armene.",
+                  "category": "recreational",
+                  "coords": [
+                        44.98933,
+                        40.539586
+                  ]
+            },
+            {
+                  "name": "Adana",
+                  "text": "O stațiune primitoare de pe malul lacului, care oferă vizitatorilor acces direct la apa revigorantă de munte.",
+                  "category": "recreational",
+                  "coords": [
+                        44.990476,
+                        40.539892
+                  ]
+            },
+            {
+                  "name": "Cocobello",
+                  "text": "O secțiune populară de plajă cu șezlonguri și facilități chiar lângă apele albastre ale lacului Sevan.",
+                  "category": "recreational",
+                  "coords": [
+                        44.988257,
+                        40.53946
+                  ]
+            },
+            {
+                  "name": "Սառնուտ",
+                  "text": "Un vârf situat lângă Sevan, oferind o vedere spectaculoasă asupra întregului lac.",
+                  "category": "natural",
+                  "coords": [
+                        45.060692,
+                        40.634053
+                  ]
+            },
+            {
+                  "name": "Pik",
+                  "text": "Acest punct de observație de pe peninsulă oferă o panoramă perfectă asupra mănăstirii Sevanavank și a lacului.",
+                  "category": "natural",
+                  "coords": [
+                        44.965132,
+                        40.571886
+                  ]
+            },
+            {
+                  "name": "Արջանոց",
+                  "text": "Un munte proeminent în podișul Geghama, care servește adesea ca punct de reper pentru drumeții de la lac.",
+                  "category": "natural",
+                  "coords": [
+                        44.942738,
+                        40.573105
+                  ]
+            },
+            {
+                  "name": "Jrahars Resort",
+                  "text": "O stațiune situată pe malul lacului, cunoscută pentru spațiile verzi îngrijite și vederea spre mănăstire.",
+                  "category": "recreational",
+                  "coords": [
+                        44.992248,
+                        40.559473
+                  ]
+            },
+            {
+                  "name": "Փիրուզյա լողափ",
+                  "text": "O plajă cu nisip la lacul Sevan, apreciată pentru apele sale excepțional de limpezi și turcoaz.",
+                  "category": "recreational",
+                  "coords": [
+                        45.016396,
+                        40.513536
+                  ]
+            },
+            {
+                  "name": "Ծովասար ընտանեկան հանգստի համալիր",
+                  "text": "Acest complex de recreere oferă cabane și activități de petrecere a timpului liber chiar pe malul nordic al lacului Sevan.",
+                  "category": "recreational",
+                  "coords": [
+                        45.025882,
+                        40.513813
+                  ]
+            },
+            {
+                  "name": "Եկեղեցի Սբ. Աստվածածին",
+                  "text": "O biserică istorică de pe peninsula Sevan, dedicată Sfintei Născătoare de Dumnezeu.",
+                  "category": "religious",
+                  "coords": [
+                        45.010548,
+                        40.564012
+                  ]
+            },
+            {
+                  "name": "Ոսկե ավազ",
+                  "text": "Această plajă de pe malul Lacului Sevan este renumită pentru nisipul său fin și deschis la culoare.",
+                  "category": "recreational",
+                  "coords": [
+                        44.963656,
+                        40.600643
+                  ]
+            },
+            {
+                  "name": "Metsep chapel",
+                  "text": "O mică capelă armenească izolată, situată în apropierea complexului monastic istoric Sevanavank.",
+                  "category": "landmark",
+                  "coords": [
+                        44.942697,
+                        40.559625
+                  ]
+            },
+            {
+                  "name": "Մաշտոցներ",
+                  "text": "O capelă armenească medievală, cunoscută pentru amplasarea sa în peisajul accidentat de lângă Sevanavank.",
+                  "category": "religious",
+                  "coords": [
+                        44.979252,
+                        40.57763
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Amico",
+                  "text": "A beach resort on Lake Sevan offering recreation and water sports during the Armenian summer season.",
+                  "category": "recreational",
+                  "coords": [
+                        44.98933,
+                        40.539586
+                  ]
+            },
+            {
+                  "name": "Adana",
+                  "text": "A cozy lakeside resort providing visitors with direct access to the refreshing mountain waters.",
+                  "category": "recreational",
+                  "coords": [
+                        44.990476,
+                        40.539892
+                  ]
+            },
+            {
+                  "name": "Cocobello",
+                  "text": "A popular beach section with sun loungers and catering right by the blue waters of Lake Sevan.",
+                  "category": "recreational",
+                  "coords": [
+                        44.988257,
+                        40.53946
+                  ]
+            },
+            {
+                  "name": "Sarnut",
+                  "text": "A peak located near Sevan that offers a spectacular view of the entire lake.",
+                  "category": "natural",
+                  "coords": [
+                        45.060692,
+                        40.634053
+                  ]
+            },
+            {
+                  "name": "Pik",
+                  "text": "This viewpoint on the peninsula offers the perfect panorama of Sevanavank Monastery and the lake.",
+                  "category": "natural",
+                  "coords": [
+                        44.965132,
+                        40.571886
+                  ]
+            },
+            {
+                  "name": "Arjanots",
+                  "text": "A prominent mountain in the Geghama highlands that often serves as a landmark for hikers by the lake.",
+                  "category": "natural",
+                  "coords": [
+                        44.942738,
+                        40.573105
+                  ]
+            },
+            {
+                  "name": "Jrahars Resort",
+                  "text": "A lakeside resort known for its well-maintained green areas and views toward the monastery.",
+                  "category": "recreational",
+                  "coords": [
+                        44.992248,
+                        40.559473
+                  ]
+            },
+            {
+                  "name": "Turquoise beach",
+                  "text": "A sandy beach on Lake Sevan prized for its exceptionally clear and turquoise-shimmering water.",
+                  "category": "recreational",
+                  "coords": [
+                        45.016396,
+                        40.513536
+                  ]
+            },
+            {
+                  "name": "Tsovasar Family Recreation Complex",
+                  "text": "This recreation complex offers cottages and leisure activities right on the northern shore of Lake Sevan.",
+                  "category": "recreational",
+                  "coords": [
+                        45.025882,
+                        40.513813
+                  ]
+            },
+            {
+                  "name": "Surp Astvatsatsin",
+                  "text": "A historical church on the Sevan peninsula dedicated to the Holy Mother of God.",
+                  "category": "religious",
+                  "coords": [
+                        45.010548,
+                        40.564012
+                  ]
+            },
+            {
+                  "name": "Ոսկե ավազ",
+                  "text": "This beach on the shores of Lake Sevan is known for its fine, light-colored sand.",
+                  "category": "recreational",
+                  "coords": [
+                        44.963656,
+                        40.600643
+                  ]
+            },
+            {
+                  "name": "Metsep chapel",
+                  "text": "A small, secluded Armenian chapel located near the historical Sevanavank monastery complex.",
+                  "category": "landmark",
+                  "coords": [
+                        44.942697,
+                        40.559625
+                  ]
+            },
+            {
+                  "name": "Mashtotsner",
+                  "text": "A medieval Armenian chapel known for its setting in the rugged landscape near Sevanavank.",
+                  "category": "religious",
+                  "coords": [
+                        44.979252,
+                        40.57763
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AM-GE",
     coords: [45.0109, 40.5638],
@@ -115,7 +592,592 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
       fr: [],
     }, image: "/poi-images/armenia-sevanavank-landmarks-v2.webp"},
   {
-    id: "armenia-echmiadzin-cathedral-landmarks-v2",
+    id: "armenia-echmiadzin-cathedral-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Հ.Հովհաննիսյանի անվան թանգարան",
+                  "text": "Das Hausmuseum des berühmten armenischen Dichters und Pädagogen Hovhannes Hovhannisyan.",
+                  "category": "museum",
+                  "coords": [
+                        44.292821,
+                        40.163583
+                  ]
+            },
+            {
+                  "name": "Եղիշե Չարենց",
+                  "text": "Eine Hommage an einen der bedeutendsten armenischen Dichter des 20. Jahrhunderts.",
+                  "category": "historical",
+                  "coords": [
+                        44.282914,
+                        40.160768
+                  ]
+            },
+            {
+                  "name": "Մաչանենց տուն",
+                  "text": "Ein Kulturzentrum mit traditionellem armenischem Handwerk und einer historischen Bäckerei.",
+                  "category": "landmark",
+                  "coords": [
+                        44.298038,
+                        40.16068
+                  ]
+            },
+            {
+                  "name": "Roman House",
+                  "text": "Ein kultureller Veranstaltungsort mit klassischen architektonischen Elementen in der Nähe der Kathedrale.",
+                  "category": "landmark",
+                  "coords": [
+                        44.295287,
+                        40.160487
+                  ]
+            },
+            {
+                  "name": "Սրբոց Հրեշտակապետաց եկեղեցի",
+                  "text": "Eine moderne armenische Kirche aus dem Jahr 2011 mit einem einzigartigen kreisförmigen Innenraum.",
+                  "category": "religious",
+                  "coords": [
+                        44.293462,
+                        40.16261
+                  ]
+            },
+            {
+                  "name": "Եկեղեցի Սբ. Ստեփանոս",
+                  "text": "Eine lokale Gebetsstätte, die der christlichen Gemeinde von Wagharschapat dient.",
+                  "category": "religious",
+                  "coords": [
+                        44.231206,
+                        40.217422
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գայանե եկեղեցի",
+                  "text": "Eine zum UNESCO-Weltkulturerbe gehörende Kirche aus dem 7. Jahrhundert mit einer ruhigen dreibogigen Vorhalle.",
+                  "category": "religious",
+                  "coords": [
+                        44.291853,
+                        40.157481
+                  ]
+            },
+            {
+                  "name": "Էջմիածին",
+                  "text": "Das geistliche Zentrum der Armenischen Apostolischen Kirche und Sitz des Katholikos.",
+                  "category": "religious",
+                  "coords": [
+                        44.291291,
+                        40.161864
+                  ]
+            },
+            {
+                  "name": "Ալեք և Մարի Մանուկյան Գանձատուն",
+                  "text": "Zeigt unschätzbare armenische religiöse Artefakte, darunter die legendäre Heilige Lanze.",
+                  "category": "museum",
+                  "coords": [
+                        44.288464,
+                        40.161332
+                  ]
+            },
+            {
+                  "name": "Էջմիածնի պատմաազգագրական թանգարան",
+                  "text": "Erforscht die alten Wurzeln und das reiche kulturelle Erbe der historischen Stadt Wagharschapat.",
+                  "category": "museum",
+                  "coords": [
+                        44.294408,
+                        40.164478
+                  ]
+            },
+            {
+                  "name": "Խորեն Տեր-Հարությանի թանգարան",
+                  "text": "Beherbergt Skulpturen und Grafiken des renommierten armenisch-amerikanischen Künstlers Khoren Ter-Harutyunyan.",
+                  "category": "museum",
+                  "coords": [
+                        44.294521,
+                        40.162091
+                  ]
+            },
+            {
+                  "name": "Kirche St. Hripsime",
+                  "text": "UNESCO-Stätte aus dem 7. Jahrhundert und ein Meisterwerk der frühmittelalterlichen armenischen Kreuzkuppelarchitektur.",
+                  "category": "religious",
+                  "coords": [
+                        44.309561,
+                        40.166979
+                  ]
+            },
+            {
+                  "name": "Շողակաթ",
+                  "text": "Eine UNESCO-Kirche aus dem 17. Jahrhundert, erbaut aus charakteristischem rötlichem Tuffstein.",
+                  "category": "religious",
+                  "coords": [
+                        44.304805,
+                        40.168063
+                  ]
+            },
+            {
+                  "name": "Աստվածածին",
+                  "text": "Eine christliche Gebetsstätte zu Ehren der Jungfrau Maria innerhalb der Kathedralstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        44.292261,
+                        40.164893
+                  ]
+            },
+            {
+                  "name": "Արմավիրի մարզի Ծիածան համայնքի գյուղմթերքների շուկա",
+                  "text": "Ein lebhafter Bauernmarkt mit frischen landwirtschaftlichen Produkten aus der fruchtbaren Region Armawir.",
+                  "category": "cultural",
+                  "coords": [
+                        44.252348,
+                        40.166572
+                  ]
+            },
+            {
+                  "name": "Շուկա",
+                  "text": "Ein geschäftiger Basar mit lokalen armenischen Lebensmitteln und traditionellen Haushaltswaren.",
+                  "category": "cultural",
+                  "coords": [
+                        44.289193,
+                        40.167133
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Հ.Հովհաննիսյանի անվան թանգարան",
+                  "text": "Hovhannesz Hovhanniszjan híres örmény költő és pedagógus emlékmúzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        44.292821,
+                        40.163583
+                  ]
+            },
+            {
+                  "name": "Եղիշե Չարենց",
+                  "text": "Tisztelgés a 20. század egyik legjelentősebb örmény költője előtt.",
+                  "category": "historical",
+                  "coords": [
+                        44.282914,
+                        40.160768
+                  ]
+            },
+            {
+                  "name": "Մաչանենց տուն",
+                  "text": "Kulturális központ hagyományos örmény kézműves műhelyekkel és egy történelmi pékséggel.",
+                  "category": "landmark",
+                  "coords": [
+                        44.298038,
+                        40.16068
+                  ]
+            },
+            {
+                  "name": "Roman House",
+                  "text": "Klasszikus építészeti elemekkel tervezett kulturális helyszín a székesegyház közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        44.295287,
+                        40.160487
+                  ]
+            },
+            {
+                  "name": "Սրբոց Հրեշտակապետաց եկեղեցի",
+                  "text": "Egy 2011-ben épült modern örmény templom, amely egyedülálló kör alakú belső térrel rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        44.293462,
+                        40.16261
+                  ]
+            },
+            {
+                  "name": "Եկեղեցի Սբ. Ստեփանոս",
+                  "text": "Helyi istentiszteleti hely, amely Vagarsapat keresztény közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        44.231206,
+                        40.217422
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գայանե եկեղեցի",
+                  "text": "7. századi UNESCO világörökségi templom, nyugodt, háromíves portikusszal.",
+                  "category": "religious",
+                  "coords": [
+                        44.291853,
+                        40.157481
+                  ]
+            },
+            {
+                  "name": "Էջմիածին",
+                  "text": "Az Örmény Apostoli Egyház szellemi központja és a katolikosz székhelye.",
+                  "category": "religious",
+                  "coords": [
+                        44.291291,
+                        40.161864
+                  ]
+            },
+            {
+                  "name": "Ալեք և Մարի Մանուկյան Գանձատուն",
+                  "text": "Felbecsülhetetlen értékű örmény vallási ereklyéket mutat be, köztük a legendás Szent Lándzsát.",
+                  "category": "museum",
+                  "coords": [
+                        44.288464,
+                        40.161332
+                  ]
+            },
+            {
+                  "name": "Էջմիածնի պատմաազգագրական թանգարան",
+                  "text": "Vagarsapat történelmi városának ősi gyökereit és gazdag kulturális örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        44.294408,
+                        40.164478
+                  ]
+            },
+            {
+                  "name": "Խորեն Տեր-Հարությանի թանգարան",
+                  "text": "Khoren Ter-Harutyunyan neves örmény-amerikai művész szobrait és grafikai alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        44.294521,
+                        40.162091
+                  ]
+            },
+            {
+                  "name": "Սուրբ Հռիփսիմե եկեղեցի",
+                  "text": "7. századi UNESCO-helyszín, a kora középkori örmény keresztkupolás építészet remekműve.",
+                  "category": "religious",
+                  "coords": [
+                        44.309561,
+                        40.166979
+                  ]
+            },
+            {
+                  "name": "Շողակաթ",
+                  "text": "17. századi UNESCO-templom, amely jellegzetes vöröses tufa kőből épült.",
+                  "category": "religious",
+                  "coords": [
+                        44.304805,
+                        40.168063
+                  ]
+            },
+            {
+                  "name": "Աստվածածին",
+                  "text": "Szűz Mária tiszteletére emelt keresztény istentiszteleti hely a székesegyház városában.",
+                  "category": "landmark",
+                  "coords": [
+                        44.292261,
+                        40.164893
+                  ]
+            },
+            {
+                  "name": "Արմավիրի մարզի Ծիածան համայնքի գյուղմթերքների շուկա",
+                  "text": "Élénk termelői piac friss mezőgazdasági termékekkel a termékeny Armavir régióból.",
+                  "category": "cultural",
+                  "coords": [
+                        44.252348,
+                        40.166572
+                  ]
+            },
+            {
+                  "name": "Շուկա",
+                  "text": "Nyüzsgő bazár helyi örmény élelmiszerekkel és hagyományos háztartási cikkekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        44.289193,
+                        40.167133
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Հ.Հովհաննիսյանի անվան թանգարան",
+                  "text": "Casa-muzeu a celebrului poet și educator armean Hovhannes Hovhannisyan.",
+                  "category": "museum",
+                  "coords": [
+                        44.292821,
+                        40.163583
+                  ]
+            },
+            {
+                  "name": "Եղիշե Չարենց",
+                  "text": "Un omagiu adus unuia dintre cei mai importanți poeți armeni ai secolului XX.",
+                  "category": "historical",
+                  "coords": [
+                        44.282914,
+                        40.160768
+                  ]
+            },
+            {
+                  "name": "Մաչանենց տուն",
+                  "text": "Un centru cultural care oferă ateliere de meșteșuguri tradiționale armenești și o brutărie istorică.",
+                  "category": "landmark",
+                  "coords": [
+                        44.298038,
+                        40.16068
+                  ]
+            },
+            {
+                  "name": "Roman House",
+                  "text": "Un loc cultural proiectat cu elemente arhitecturale clasice, situat lângă catedrală.",
+                  "category": "landmark",
+                  "coords": [
+                        44.295287,
+                        40.160487
+                  ]
+            },
+            {
+                  "name": "Սրբոց Հրեշտակապետաց եկեղեցի",
+                  "text": "O biserică armeană modernă din 2011, cu un design interior circular unic.",
+                  "category": "religious",
+                  "coords": [
+                        44.293462,
+                        40.16261
+                  ]
+            },
+            {
+                  "name": "Եկեղեցի Սբ. Ստեփանոս",
+                  "text": "Un lăcaș de cult local care deservește comunitatea creștină din Vagharshapat.",
+                  "category": "religious",
+                  "coords": [
+                        44.231206,
+                        40.217422
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գայանե եկեղեցի",
+                  "text": "O biserică din secolul al VII-lea din patrimoniul mondial UNESCO, cu un portic liniștit cu trei arcade.",
+                  "category": "religious",
+                  "coords": [
+                        44.291853,
+                        40.157481
+                  ]
+            },
+            {
+                  "name": "Էջմիածին",
+                  "text": "Centrul spiritual al Bisericii Apostolice Armene și sediul Catolicosului.",
+                  "category": "religious",
+                  "coords": [
+                        44.291291,
+                        40.161864
+                  ]
+            },
+            {
+                  "name": "Ալեք և Մարի Մանուկյան Գանձատուն",
+                  "text": "Expune artefacte religioase armenești neprețuite, inclusiv legendara Sfântă Lance.",
+                  "category": "museum",
+                  "coords": [
+                        44.288464,
+                        40.161332
+                  ]
+            },
+            {
+                  "name": "Էջմիածնի պատմաազգագրական թանգարան",
+                  "text": "Explorează rădăcinile antice și bogata moștenire culturală a orașului istoric Vagharshapat.",
+                  "category": "museum",
+                  "coords": [
+                        44.294408,
+                        40.164478
+                  ]
+            },
+            {
+                  "name": "Խորեն Տեր-Հարությանի թանգարան",
+                  "text": "Găzduiește sculpturile și lucrările grafice ale renumitului artist armeano-american Khoren Ter-Harutyunyan.",
+                  "category": "museum",
+                  "coords": [
+                        44.294521,
+                        40.162091
+                  ]
+            },
+            {
+                  "name": "Սուրբ Հռիփսիմե եկեղեցի",
+                  "text": "Sit UNESCO din secolul al VII-lea și o capodoperă a arhitecturii armene timpurii cu dom în cruce.",
+                  "category": "religious",
+                  "coords": [
+                        44.309561,
+                        40.166979
+                  ]
+            },
+            {
+                  "name": "Շողակաթ",
+                  "text": "O biserică UNESCO din secolul al XVII-lea, construită din tuf roșiatic caracteristic.",
+                  "category": "religious",
+                  "coords": [
+                        44.304805,
+                        40.168063
+                  ]
+            },
+            {
+                  "name": "Աստվածածին",
+                  "text": "Un lăcaș de cult creștin onorând-o pe Fecioara Maria în orașul catedralei.",
+                  "category": "landmark",
+                  "coords": [
+                        44.292261,
+                        40.164893
+                  ]
+            },
+            {
+                  "name": "Արմավիրի մարզի Ծիածան համայնքի գյուղմթերքների շուկա",
+                  "text": "O piață locală plină de viață, cu produse agricole proaspete din regiunea fertilă Armavir.",
+                  "category": "cultural",
+                  "coords": [
+                        44.252348,
+                        40.166572
+                  ]
+            },
+            {
+                  "name": "Շուկա",
+                  "text": "Un bazar plin de viață care oferă alimente locale armenești și articole tradiționale de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        44.289193,
+                        40.167133
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum aft. Hovhanes Hovhanisyan",
+                  "text": "The house-museum of the famous Armenian poet and educator Hovhannes Hovhannisyan.",
+                  "category": "museum",
+                  "coords": [
+                        44.292821,
+                        40.163583
+                  ]
+            },
+            {
+                  "name": "Egishe Charents",
+                  "text": "A tribute to one of Armenia's greatest 20th-century poets.",
+                  "category": "historical",
+                  "coords": [
+                        44.282914,
+                        40.160768
+                  ]
+            },
+            {
+                  "name": "Machanents home",
+                  "text": "A cultural center offering traditional Armenian craft workshops and a historical bakery.",
+                  "category": "landmark",
+                  "coords": [
+                        44.298038,
+                        40.16068
+                  ]
+            },
+            {
+                  "name": "Roman House",
+                  "text": "A cultural venue designed with classical architectural elements near the cathedral.",
+                  "category": "landmark",
+                  "coords": [
+                        44.295287,
+                        40.160487
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Archangels",
+                  "text": "A modern Armenian church (2011) featuring a unique circular interior layout.",
+                  "category": "religious",
+                  "coords": [
+                        44.293462,
+                        40.16261
+                  ]
+            },
+            {
+                  "name": "St. Stepanos Church",
+                  "text": "A local place of worship serving the Christian community of Vagharshapat.",
+                  "category": "religious",
+                  "coords": [
+                        44.231206,
+                        40.217422
+                  ]
+            },
+            {
+                  "name": "Saint Gayane Church",
+                  "text": "A 7th-century UNESCO World Heritage church with a serene three-arched portico.",
+                  "category": "religious",
+                  "coords": [
+                        44.291853,
+                        40.157481
+                  ]
+            },
+            {
+                  "name": "Etchmiadzin",
+                  "text": "The spiritual center of the Armenian Apostolic Church and the seat of the Catholicos.",
+                  "category": "religious",
+                  "coords": [
+                        44.291291,
+                        40.161864
+                  ]
+            },
+            {
+                  "name": "Alex and Marie Manoogian Treasury House",
+                  "text": "Displays priceless Armenian religious artifacts, including the legendary Holy Spear.",
+                  "category": "museum",
+                  "coords": [
+                        44.288464,
+                        40.161332
+                  ]
+            },
+            {
+                  "name": "Historical and Ethnographic Museum of Ejmiatsin",
+                  "text": "Explores the ancient roots and rich cultural heritage of the historic city of Vagharshapat.",
+                  "category": "museum",
+                  "coords": [
+                        44.294408,
+                        40.164478
+                  ]
+            },
+            {
+                  "name": "Khoren Ter-Harutyunyan Museum",
+                  "text": "Houses the sculptures and graphic works of the renowned Armenian-American artist Khoren Ter-Harutyunyan.",
+                  "category": "museum",
+                  "coords": [
+                        44.294521,
+                        40.162091
+                  ]
+            },
+            {
+                  "name": "Saint Hripsime Church",
+                  "text": "A 7th-century UNESCO site and a masterpiece of early medieval Armenian cross-domed architecture.",
+                  "category": "religious",
+                  "coords": [
+                        44.309561,
+                        40.166979
+                  ]
+            },
+            {
+                  "name": "Shoghakat Church",
+                  "text": "A 17th-century UNESCO church built with characteristic reddish tufa stone.",
+                  "category": "religious",
+                  "coords": [
+                        44.304805,
+                        40.168063
+                  ]
+            },
+            {
+                  "name": "Աստվածածին",
+                  "text": "A Christian place of worship honoring the Virgin Mary within the cathedral city.",
+                  "category": "landmark",
+                  "coords": [
+                        44.292261,
+                        40.164893
+                  ]
+            },
+            {
+                  "name": "Agricultural market of Tsiatsan community of Armavir region",
+                  "text": "A lively farmers' market with fresh agricultural products from the fertile Armavir region.",
+                  "category": "cultural",
+                  "coords": [
+                        44.252348,
+                        40.166572
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "A bustling bazaar offering local Armenian food and traditional household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        44.289193,
+                        40.167133
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AM-AV",
     coords: [44.2911, 40.1618],
@@ -227,7 +1289,412 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
       fr: [],
     }, image: "/poi-images/armenia-noravank-landmarks-v2.webp"},
       {
-    id: "armenia-cascade-complex-landmarks-v2",
+    id: "armenia-cascade-complex-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Մեր բակը ֆիլմ",
+                  "text": "Dieser Innenhof wurde als Hauptdrehort für die ikonische armenische Musikkomödie „Unser Hof“ berühmt.",
+                  "category": "landmark",
+                  "coords": [
+                        44.511882,
+                        40.186899
+                  ]
+            },
+            {
+                  "name": "Արմեն Ելբակյան թատրոն",
+                  "text": "Dieses Theater führt fantasievolle Puppen- und Marionettenaufführungen für Kinder und Erwachsene auf.",
+                  "category": "cultural",
+                  "coords": [
+                        44.518149,
+                        40.189987
+                  ]
+            },
+            {
+                  "name": "Museum of Russian Art",
+                  "text": "Dieses Museum zeigt eine erlesene Sammlung russischer Gemälde und Skulpturen aus dem 19. und 20. Jahrhundert.",
+                  "category": "museum",
+                  "coords": [
+                        44.5158,
+                        40.18949
+                  ]
+            },
+            {
+                  "name": "Երվանդ Քոչար թանգարան",
+                  "text": "Dieses Museum feiert das Werk des Künstlers, der die Technik des „Malens im Raum“ und die Sasunzi-Dawit-Statue schuf.",
+                  "category": "museum",
+                  "coords": [
+                        44.516234,
+                        40.188424
+                  ]
+            },
+            {
+                  "name": "Արամ Խաչատրյանի տուն թանգարան",
+                  "text": "Dieses dem weltberühmten Komponisten gewidmete Museum beherbergt seinen Flügel, Partituren und persönliche Archive.",
+                  "category": "museum",
+                  "coords": [
+                        44.513348,
+                        40.190266
+                  ]
+            },
+            {
+                  "name": "Գաֆեսջյանի արվեստի կենտրոն",
+                  "text": "Dieses im Kaskaden-Komplex gelegene Museum zeigt moderne Skulpturen und Glaskunst aus aller Welt.",
+                  "category": "museum",
+                  "coords": [
+                        44.515562,
+                        40.191424
+                  ]
+            },
+            {
+                  "name": "Վերածնված Հայաստան",
+                  "text": "Dieses massive Monument an der Spitze der Kaskade bietet einen Panoramablick über die Stadt und den Berg Ararat.",
+                  "category": "historical",
+                  "coords": [
+                        44.515813,
+                        40.195048
+                  ]
+            },
+            {
+                  "name": "Արամ Խաչատրյան համերգասրահ",
+                  "text": "Ein bedeutender Konzertsaal für klassische Musik im Komplex des armenischen Opernhauses.",
+                  "category": "cultural",
+                  "coords": [
+                        44.51511,
+                        40.186246
+                  ]
+            },
+            {
+                  "name": "Զազալենդ",
+                  "text": "Ein familienfreundlicher Vergnügungspark mit Fahrgeschäften am Fuße des Kaskaden-Komplexes.",
+                  "category": "recreational",
+                  "coords": [
+                        44.518324,
+                        40.188228
+                  ]
+            },
+            {
+                  "name": "Կոմիտասի անվան զբոսայգի",
+                  "text": "Ein ruhiger Stadtpark, der dem berühmten armenischen Komponisten und Musikwissenschaftler Komitas gewidmet ist.",
+                  "category": "park",
+                  "coords": [
+                        44.516265,
+                        40.187201
+                  ]
+            },
+            {
+                  "name": "Շառլ Ազնավուրի կեցավայր",
+                  "text": "Ein 2017 eröffnetes Museum, das dem Leben und Werk des französisch-armenischen Sängers Charles Aznavour gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        44.514648,
+                        40.192954
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Մեր բակը ֆիլմ",
+                  "text": "Ez az udvar az „A mi udvarunk” című ikonikus örmény zenés vígjáték fő forgatási helyszíneként vált híressé.",
+                  "category": "landmark",
+                  "coords": [
+                        44.511882,
+                        40.186899
+                  ]
+            },
+            {
+                  "name": "Արմեն Ելբակյան թատրոն",
+                  "text": "Ez a színház ötletes báb- és marionett-előadásokat tart gyerekeknek és felnőtteknek egyaránt.",
+                  "category": "cultural",
+                  "coords": [
+                        44.518149,
+                        40.189987
+                  ]
+            },
+            {
+                  "name": "Museum of Russian Art",
+                  "text": "Ez a múzeum a 19. és 20. századi orosz festmények és szobrok finom gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        44.5158,
+                        40.18949
+                  ]
+            },
+            {
+                  "name": "Երվանդ Քոչար թանգարան",
+                  "text": "Ez a múzeum annak a művésznek az életművét mutatja be, aki a „térbeli festészet” technikáját és a Szaszuni Dávid-szobrot alkotta.",
+                  "category": "museum",
+                  "coords": [
+                        44.516234,
+                        40.188424
+                  ]
+            },
+            {
+                  "name": "Արամ Խաչատրյանի տուն թանգարան",
+                  "text": "Ez a világhírű zeneszerzőnek szentelt múzeum ad otthont zongorájának, kottáinak és személyes archívumának.",
+                  "category": "museum",
+                  "coords": [
+                        44.513348,
+                        40.190266
+                  ]
+            },
+            {
+                  "name": "Գաֆեսջյանի արվեստի կենտրոն",
+                  "text": "A Kaszkád-komplexumban található múzeum modern szobrokat és üvegművészeti alkotásokat mutat be a világ minden tájáról.",
+                  "category": "museum",
+                  "coords": [
+                        44.515562,
+                        40.191424
+                  ]
+            },
+            {
+                  "name": "Վերածնված Հայաստան",
+                  "text": "A Kaszkád tetején álló monumentális emlékműről panorámás kilátás nyílik a városra és az Ararát-hegyre.",
+                  "category": "historical",
+                  "coords": [
+                        44.515813,
+                        40.195048
+                  ]
+            },
+            {
+                  "name": "Արամ Խաչատրյան համերգասրահ",
+                  "text": "Komolyzenei koncertek helyszíne az örmény operaház épületegyüttesében.",
+                  "category": "cultural",
+                  "coords": [
+                        44.51511,
+                        40.186246
+                  ]
+            },
+            {
+                  "name": "Զազալենդ",
+                  "text": "Családbarát vidámpark játékokkal a Kaszkád-komplexum lábánál.",
+                  "category": "recreational",
+                  "coords": [
+                        44.518324,
+                        40.188228
+                  ]
+            },
+            {
+                  "name": "Կոմիտասի անվան զբոսայգի",
+                  "text": "A híres örmény zeneszerzőről és zenetudósról, Komitaszról elnevezett csendes városi park.",
+                  "category": "park",
+                  "coords": [
+                        44.516265,
+                        40.187201
+                  ]
+            },
+            {
+                  "name": "Շառլ Ազնավուրի կեցավայր",
+                  "text": "A francia-örmény énekes, Charles Aznavour életének szentelt múzeum, amely 2017-ben nyílt meg.",
+                  "category": "museum",
+                  "coords": [
+                        44.514648,
+                        40.192954
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Մեր բակը ֆիլմ",
+                  "text": "Această curte a devenit celebră ca locație principală de filmare pentru emblematica comedie muzicală armeană „Curtea noastră”.",
+                  "category": "landmark",
+                  "coords": [
+                        44.511882,
+                        40.186899
+                  ]
+            },
+            {
+                  "name": "Արմեն Ելբակյան թատրոն",
+                  "text": "Acest teatru pune în scenă spectacole pline de imaginație cu păpuși și marionete, atât pentru copii, cât și pentru adulți.",
+                  "category": "cultural",
+                  "coords": [
+                        44.518149,
+                        40.189987
+                  ]
+            },
+            {
+                  "name": "Museum of Russian Art",
+                  "text": "Acest muzeu expune o colecție rafinată de picturi și sculpturi rusești din secolele al XIX-lea și al XX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        44.5158,
+                        40.18949
+                  ]
+            },
+            {
+                  "name": "Երվանդ Քոչար թանգարան",
+                  "text": "Acest muzeu celebrează opera artistului care a creat tehnica „picturii în spațiu” și statuia Sasuntsi Davit.",
+                  "category": "museum",
+                  "coords": [
+                        44.516234,
+                        40.188424
+                  ]
+            },
+            {
+                  "name": "Արամ Խաչատրյանի տուն թանգարան",
+                  "text": "Dedicat compozitorului de renume mondial, acest muzeu găzduiește pianul, partiturile și arhivele sale personale.",
+                  "category": "museum",
+                  "coords": [
+                        44.513348,
+                        40.190266
+                  ]
+            },
+            {
+                  "name": "Գաֆեսջյանի արվեստի կենտրոն",
+                  "text": "Situat în complexul Cascada, acest muzeu expune sculpturi moderne și artă din sticlă din întreaga lume.",
+                  "category": "museum",
+                  "coords": [
+                        44.515562,
+                        40.191424
+                  ]
+            },
+            {
+                  "name": "Վերածնված Հայաստան",
+                  "text": "Acest monument masiv din vârful Cascadei oferă o vedere panoramică asupra orașului și a Muntelui Ararat.",
+                  "category": "historical",
+                  "coords": [
+                        44.515813,
+                        40.195048
+                  ]
+            },
+            {
+                  "name": "Արամ Խաչատրյան համերգասրահ",
+                  "text": "O sală de concerte importantă pentru muzică clasică situată în complexul Operei din Erevan.",
+                  "category": "cultural",
+                  "coords": [
+                        44.51511,
+                        40.186246
+                  ]
+            },
+            {
+                  "name": "Զազալենդ",
+                  "text": "Un parc de distracții pentru familii, cu diverse atracții, situat la baza Cascadei.",
+                  "category": "recreational",
+                  "coords": [
+                        44.518324,
+                        40.188228
+                  ]
+            },
+            {
+                  "name": "Կոմիտասի անվան զբոսայգի",
+                  "text": "Un parc urban liniștit dedicat celebrului compozitor și muzicolog armean Komitas.",
+                  "category": "park",
+                  "coords": [
+                        44.516265,
+                        40.187201
+                  ]
+            },
+            {
+                  "name": "Շառլ Ազնավուրի կեցավայր",
+                  "text": "Un muzeu deschis în 2017 dedicat vieții și operei cântărețului franco-armean Charles Aznavour.",
+                  "category": "museum",
+                  "coords": [
+                        44.514648,
+                        40.192954
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Filming location for the movie \"Our Yard\"",
+                  "text": "This courtyard became famous as the primary filming location for the iconic Armenian musical comedy \"Our Yard\".",
+                  "category": "landmark",
+                  "coords": [
+                        44.511882,
+                        40.186899
+                  ]
+            },
+            {
+                  "name": "Armen Elbakyan Marionette Theatre",
+                  "text": "This theatre performs imaginative puppet and marionette shows for both children and adult audiences.",
+                  "category": "cultural",
+                  "coords": [
+                        44.518149,
+                        40.189987
+                  ]
+            },
+            {
+                  "name": "Museum of Russian Art",
+                  "text": "This museum displays a refined collection of 19th and 20th-century Russian paintings and sculptures.",
+                  "category": "museum",
+                  "coords": [
+                        44.5158,
+                        40.18949
+                  ]
+            },
+            {
+                  "name": "Ervand Kochar Museum",
+                  "text": "This museum celebrates the work of the artist who created the \"painting in space\" technique and the Sasuntsi Davit statue.",
+                  "category": "museum",
+                  "coords": [
+                        44.516234,
+                        40.188424
+                  ]
+            },
+            {
+                  "name": "House Museum of Aram Khachaturyan",
+                  "text": "Dedicated to the world-renowned composer, this museum houses his piano, scores, and personal archives.",
+                  "category": "museum",
+                  "coords": [
+                        44.513348,
+                        40.190266
+                  ]
+            },
+            {
+                  "name": "Cafesjian Center for the Arts",
+                  "text": "Located within the Cascade complex, this museum displays modern sculptures and glass art from around the world.",
+                  "category": "museum",
+                  "coords": [
+                        44.515562,
+                        40.191424
+                  ]
+            },
+            {
+                  "name": "Reborn Armenia",
+                  "text": "This massive monument at the top of the Cascade offers panoramic views over the city and Mount Ararat.",
+                  "category": "historical",
+                  "coords": [
+                        44.515813,
+                        40.195048
+                  ]
+            },
+            {
+                  "name": "Aram Khachaturian Concert Hall",
+                  "text": "A major venue for classical music located within the Armenian Opera and Ballet Theatre complex.",
+                  "category": "cultural",
+                  "coords": [
+                        44.51511,
+                        40.186246
+                  ]
+            },
+            {
+                  "name": "Zazaland",
+                  "text": "A family-friendly amusement park with rides located at the base of the Cascade complex.",
+                  "category": "recreational",
+                  "coords": [
+                        44.518324,
+                        40.188228
+                  ]
+            },
+            {
+                  "name": "Park after Komitas",
+                  "text": "A peaceful city park dedicated to the famous Armenian composer and musicologist Komitas.",
+                  "category": "park",
+                  "coords": [
+                        44.516265,
+                        40.187201
+                  ]
+            },
+            {
+                  "name": "Museum of Charle Aznavour",
+                  "text": "A museum opened in 2017 dedicated to the life and work of the French-Armenian singer Charles Aznavour.",
+                  "category": "museum",
+                  "coords": [
+                        44.514648,
+                        40.192954
+                  ]
+            }
+      ]
+},
     type: "tourist-attraction",
     parent: "AM-ER",
     coords: [44.5156, 40.1915],
@@ -283,7 +1750,160 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
       fr: [],
     },},
     {
-    id: "armenia-republic-square-landmarks-v2",
+    id: "armenia-republic-square-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Copy of Baylonian Map of the World",
+                  "text": "Eine Freiluft-Replik der babylonischen Tontafel aus dem 6. Jahrhundert v. Chr., die die älteste bekannte Weltkarte zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        44.514718,
+                        40.17822
+                  ]
+            },
+            {
+                  "name": "Առնո Բաբաջանյան համերգասրահ",
+                  "text": "In diesem historischen Gebäude am Republikplatz finden regelmäßig klassische Konzerte und Jazzabende statt.",
+                  "category": "cultural",
+                  "coords": [
+                        44.513691,
+                        40.179116
+                  ]
+            },
+            {
+                  "name": "Ալեքսանդր Թամանյանի անվան ճարտարապետության ազգային թանգարան-ինստիտուտ",
+                  "text": "Dieses Institut widmet sich der Stadtplanung Jerewans und dem Werk des Architekten Alexander Tamanjan.",
+                  "category": "museum",
+                  "coords": [
+                        44.516121,
+                        40.178026
+                  ]
+            },
+            {
+                  "name": "Form & Seasons",
+                  "text": "Eine moderne Kunstgalerie, die zeitgenössische Skulpturen und Gemälde lokaler Künstler in einem stilvollen Ambiente ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        44.511481,
+                        40.177568
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Copy of Baylonian Map of the World",
+                  "text": "A Krisztus előtt 6. századból származó babiloni agyagtábla szabadtéri másolata, amely a legrégebbi ismert világtérképet ábrázolja.",
+                  "category": "landmark",
+                  "coords": [
+                        44.514718,
+                        40.17822
+                  ]
+            },
+            {
+                  "name": "Առնո Բաբաջանյան համերգասրահ",
+                  "text": "Ebben a Köztársaság téri történelmi épületben rendszeresen tartanak klasszikus zenei koncerteket és jazz-esteket.",
+                  "category": "cultural",
+                  "coords": [
+                        44.513691,
+                        40.179116
+                  ]
+            },
+            {
+                  "name": "Ալեքսանդր Թամանյանի անվան ճարտարապետության ազգային թանգարան-ինստիտուտ",
+                  "text": "Ez az intézet Jereván várostervezésének és Alexander Tamanjan építész munkásságának szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        44.516121,
+                        40.178026
+                  ]
+            },
+            {
+                  "name": "Form & Seasons",
+                  "text": "Modern művészeti galéria, amely stílusos környezetben mutatja be helyi művészek kortárs szobrait és festményeit.",
+                  "category": "museum",
+                  "coords": [
+                        44.511481,
+                        40.177568
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Copy of Baylonian Map of the World",
+                  "text": "O replică în aer liber a tăbliței de lut babiloniene din secolul al VI-lea î.Hr., care prezintă cea mai veche hartă a lumii cunoscută.",
+                  "category": "landmark",
+                  "coords": [
+                        44.514718,
+                        40.17822
+                  ]
+            },
+            {
+                  "name": "Առնո Բաբաջանյան համերգասրահ",
+                  "text": "În această clădire istorică din Piața Republicii au loc în mod regulat concerte de muzică clasică și seri de jazz.",
+                  "category": "cultural",
+                  "coords": [
+                        44.513691,
+                        40.179116
+                  ]
+            },
+            {
+                  "name": "Ալեքսանդր Թամանյանի անվան ճարտարապետության ազգային թանգարան-ինստիտուտ",
+                  "text": "Acest institut este dedicat planificării urbane a Erevanului și operei arhitectului Alexander Tamanian.",
+                  "category": "museum",
+                  "coords": [
+                        44.516121,
+                        40.178026
+                  ]
+            },
+            {
+                  "name": "Form & Seasons",
+                  "text": "O galerie de artă modernă care expune sculpturi și picturi contemporane ale artiștilor locali într-un cadru elegant.",
+                  "category": "museum",
+                  "coords": [
+                        44.511481,
+                        40.177568
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Copy of Baylonian Map of the World",
+                  "text": "An outdoor replica of the 6th-century BC Babylonian clay tablet showing the oldest known map of the world.",
+                  "category": "landmark",
+                  "coords": [
+                        44.514718,
+                        40.17822
+                  ]
+            },
+            {
+                  "name": "Arno Babajanian Concert Hall",
+                  "text": "Located in a historic building on Republic Square, this hall regularly hosts classical concerts and jazz evenings.",
+                  "category": "cultural",
+                  "coords": [
+                        44.513691,
+                        40.179116
+                  ]
+            },
+            {
+                  "name": "National Museum-Institute of Architecture after Alexander Tamanyan",
+                  "text": "This institute is dedicated to Yerevan's urban planning and the work of architect Alexander Tamanyan.",
+                  "category": "museum",
+                  "coords": [
+                        44.516121,
+                        40.178026
+                  ]
+            },
+            {
+                  "name": "Form & Seasons",
+                  "text": "A modern art gallery exhibiting contemporary sculptures and paintings by local artists in a stylish setting.",
+                  "category": "museum",
+                  "coords": [
+                        44.511481,
+                        40.177568
+                  ]
+            }
+      ]
+},
     type: "tourist-attraction",
     parent: "AM-ER",
     coords: [44.5126, 40.1776],
@@ -339,7 +1959,268 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
       fr: [],
     }, image: "/poi-images/armenia-republic-square-landmarks-v2.webp"},
     {
-    id: "armenia-matenadaran-landmarks-v2",
+    id: "armenia-matenadaran-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Գրատպության թանգարան",
+                  "text": "Ein Museum in der Nationalbibliothek, das die Geschichte der armenischen Typografie dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        44.523361,
+                        40.189781
+                  ]
+            },
+            {
+                  "name": "Ձկնացլակերպ վիշապաքար",
+                  "text": "Prähistorische Basaltmonolithe aus dem armenischen Hochland, die mythologische Drachenwesen darstellen.",
+                  "category": "landmark",
+                  "coords": [
+                        44.51942,
+                        40.187859
+                  ]
+            },
+            {
+                  "name": "Երեվանի Հ. Ղափլանյանի անվան դրամատիկական թատրոն",
+                  "text": "Ein renommiertes Theater, benannt nach Hratschja Tschaplanjan, das auf klassische und moderne armenische Stücke spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        44.519726,
+                        40.18878
+                  ]
+            },
+            {
+                  "name": "Կամերային Թատրոն",
+                  "text": "Ein im Stadtzentrum gelegenes Theater, das für seine satirischen und experimentellen Aufführungen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        44.520306,
+                        40.191214
+                  ]
+            },
+            {
+                  "name": "Օղակաձև զբոսայգի",
+                  "text": "Ein hufeisenförmiger Grüngürtel, der den zentralen Teil der Stadt umschließt.",
+                  "category": "park",
+                  "coords": [
+                        44.521065,
+                        40.187058
+                  ]
+            },
+            {
+                  "name": "Matenadaran",
+                  "text": "Ein bedeutendes Museum für alte Handschriften in einem monumentalen Gebäude des Architekten Mark Grigorjan.",
+                  "category": "museum",
+                  "coords": [
+                        44.521041,
+                        40.19213
+                  ]
+            },
+            {
+                  "name": "Արագիլ լքված շինություններ",
+                  "text": "Überreste eines ehemaligen Restaurantkomplexes auf einem Hügel mit Blick auf die Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        44.520354,
+                        40.19435
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Գրատպության թանգարան",
+                  "text": "A Nemzeti Könyvtárban található múzeum, amely az örmény nyomdászat történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        44.523361,
+                        40.189781
+                  ]
+            },
+            {
+                  "name": "Ձկնացլակերպ վիշապաքար",
+                  "text": "Az örmény felföldről származó, mitológiai sárkányokat ábrázoló őskori bazalt monolitok.",
+                  "category": "landmark",
+                  "coords": [
+                        44.51942,
+                        40.187859
+                  ]
+            },
+            {
+                  "name": "Երեվանի Հ. Ղափլանյանի անվան դրամատիկական թատրոն",
+                  "text": "Hracsja Csaplanyjanról elnevezett elismert színház, amely klasszikus és modern örmény darabokra specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        44.519726,
+                        40.18878
+                  ]
+            },
+            {
+                  "name": "Կամերային Թատրոն",
+                  "text": "A városközpontban található színház, amely szatirikus és kísérleti előadásairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        44.520306,
+                        40.191214
+                  ]
+            },
+            {
+                  "name": "Օղակաձև զբոսայգի",
+                  "text": "Patkó alakú zöldövezet, amely körbeöleli a város központi részét.",
+                  "category": "park",
+                  "coords": [
+                        44.521065,
+                        40.187058
+                  ]
+            },
+            {
+                  "name": "Երևանի Մատենադարան",
+                  "text": "Régi kéziratok jelentős múzeuma Mark Grigorjan építész monumentális épületében.",
+                  "category": "museum",
+                  "coords": [
+                        44.521041,
+                        40.19213
+                  ]
+            },
+            {
+                  "name": "Արագիլ լքված շինություններ",
+                  "text": "Egy egykori étteremkomplexum maradványai a városra néző domboldalon.",
+                  "category": "landmark",
+                  "coords": [
+                        44.520354,
+                        40.19435
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Գրատպության թանգարան",
+                  "text": "Un muzeu aflat în interiorul Bibliotecii Naționale, care documentează istoria tipografiei armene.",
+                  "category": "museum",
+                  "coords": [
+                        44.523361,
+                        40.189781
+                  ]
+            },
+            {
+                  "name": "Ձկնացլակերպ վիշապաքար",
+                  "text": "Monoliți preistorici din bazalt din zonele muntoase armene, reprezentând creaturi mitologice sub formă de dragoni.",
+                  "category": "landmark",
+                  "coords": [
+                        44.51942,
+                        40.187859
+                  ]
+            },
+            {
+                  "name": "Երեվանի Հ. Ղափլանյանի անվան դրամատիկական թատրոն",
+                  "text": "Un teatru renumit, numit după Hrachya Chaplanyan, specializat în piese armenești clasice și moderne.",
+                  "category": "cultural",
+                  "coords": [
+                        44.519726,
+                        40.18878
+                  ]
+            },
+            {
+                  "name": "Կամերային Թատրոն",
+                  "text": "Un teatru situat în centrul orașului, cunoscut pentru spectacolele sale satirice și experimentale.",
+                  "category": "cultural",
+                  "coords": [
+                        44.520306,
+                        40.191214
+                  ]
+            },
+            {
+                  "name": "Օղակաձև զբոսայգի",
+                  "text": "O centură verde în formă de potcoavă care înconjoară partea centrală a orașului.",
+                  "category": "park",
+                  "coords": [
+                        44.521065,
+                        40.187058
+                  ]
+            },
+            {
+                  "name": "Երևանի Մատենադարան",
+                  "text": "Un muzeu important de manuscrise vechi, găzduit într-o clădire monumentală de arhitectul Mark Grigorian.",
+                  "category": "museum",
+                  "coords": [
+                        44.521041,
+                        40.19213
+                  ]
+            },
+            {
+                  "name": "Արագիլ լքված շինություններ",
+                  "text": "Rămășițele unui fost complex de restaurante situat pe un deal cu vedere spre oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        44.520354,
+                        40.19435
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Book Printing Museum",
+                  "text": "A museum located within the National Library, documenting the history of Armenian typography.",
+                  "category": "museum",
+                  "coords": [
+                        44.523361,
+                        40.189781
+                  ]
+            },
+            {
+                  "name": "Fish and bull shaped vishap(akar) (dragon stone)",
+                  "text": "Prehistoric basalt monoliths from the Armenian highlands depicting mythological dragon-like creatures.",
+                  "category": "landmark",
+                  "coords": [
+                        44.51942,
+                        40.187859
+                  ]
+            },
+            {
+                  "name": "Yerevan Dramatic Theatre after Hrachya Chaplanyan",
+                  "text": "A renowned theatre named after Hrachya Chaplanyan, specializing in classical and modern Armenian plays.",
+                  "category": "cultural",
+                  "coords": [
+                        44.519726,
+                        40.18878
+                  ]
+            },
+            {
+                  "name": "Yerevan State Chamber Theatre",
+                  "text": "A theater located in the city center, known for its satirical and experimental performances.",
+                  "category": "cultural",
+                  "coords": [
+                        44.520306,
+                        40.191214
+                  ]
+            },
+            {
+                  "name": "Circular Park",
+                  "text": "A horseshoe-shaped green belt that wraps around the central part of the city.",
+                  "category": "park",
+                  "coords": [
+                        44.521065,
+                        40.187058
+                  ]
+            },
+            {
+                  "name": "Matenadaran",
+                  "text": "A major museum of ancient manuscripts housed in a monumental building by architect Mark Grigorian.",
+                  "category": "museum",
+                  "coords": [
+                        44.521041,
+                        40.19213
+                  ]
+            },
+            {
+                  "name": "Aragil abandoned buildings",
+                  "text": "Remnants of a former restaurant complex located on a hill overlooking the city.",
+                  "category": "landmark",
+                  "coords": [
+                        44.520354,
+                        40.19435
+                  ]
+            }
+      ]
+},
     type: "tourist-attraction",
     parent: "AM-ER",
     coords: [44.5209, 40.1919],
@@ -395,7 +2276,484 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
       fr: [],
     }, image: "/poi-images/armenia-matenadaran-landmarks-v2.webp"},
     {
-    id: "armenia-zorats-karer-landmarks-v2",
+    id: "armenia-zorats-karer-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aghitu (Aghudi) Memorial",
+                  "text": "Ein prächtiges Grabmal aus dem 7. Jahrhundert mit kunstvollen Steinmetzarbeiten und zwei verzierten Bögen.",
+                  "category": "landmark",
+                  "coords": [
+                        46.081888,
+                        39.51672
+                  ]
+            },
+            {
+                  "name": "Sisian History Museum",
+                  "text": "Das Museum beherbergt eine reiche Sammlung lokaler Artefakte, von der Bronzezeit bis zur Neuzeit.",
+                  "category": "museum",
+                  "coords": [
+                        46.023643,
+                        39.525222
+                  ]
+            },
+            {
+                  "name": "Named after Hamo Sahyan",
+                  "text": "Ein Kulturzentrum in Sisian, das dem Andenken des berühmten armenischen Dichters Hamo Sahyan gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        46.024817,
+                        39.522638
+                  ]
+            },
+            {
+                  "name": "Youth art centre named after Aghvan Minasyan",
+                  "text": "Ein Zentrum für junge Talente, benannt nach Aghvan Minasyan, das die lokale Kunst und Kreativität fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        46.02145,
+                        39.519169
+                  ]
+            },
+            {
+                  "name": "Tolors Churche",
+                  "text": "Aussichtspunkt auf die Überreste einer alten Kirche, die im Tolors-Stausee versunken ist.",
+                  "category": "natural",
+                  "coords": [
+                        46.004339,
+                        39.478377
+                  ]
+            },
+            {
+                  "name": "Շաքիի ջրվեժ",
+                  "text": "Panoramablick auf den 18 Meter hohen Schaki-Wasserfall, der über Basaltfelsen in die Tiefe stürzt.",
+                  "category": "natural",
+                  "coords": [
+                        45.993578,
+                        39.552136
+                  ]
+            },
+            {
+                  "name": "Եկեղեցի Սբ. Գևորգ",
+                  "text": "Eine historische armenische Kirche, die als spirituelles Zentrum für das Dorf Tolors dient.",
+                  "category": "religious",
+                  "coords": [
+                        45.915179,
+                        39.559014
+                  ]
+            },
+            {
+                  "name": "Որոտնավանք",
+                  "text": "Ein befestigtes Kloster aus dem 10. Jahrhundert, das hoch über der tiefen Worotan-Schlucht thront.",
+                  "category": "landmark",
+                  "coords": [
+                        46.121202,
+                        39.496187
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գրիգոր եկեղեցի",
+                  "text": "Ein mittelalterliches armenisches Kloster mit fein gearbeiteten Chatschkaren (Kreuzsteinen) in der Nähe von Sisian.",
+                  "category": "religious",
+                  "coords": [
+                        46.017833,
+                        39.528506
+                  ]
+            },
+            {
+                  "name": "Contemporary Standing Rocks Installation",
+                  "text": "Eine moderne Kunstinstallation aus aufrecht stehenden Steinen, die an die prähistorischen Megalithen von Zorakarer erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        46.034218,
+                        39.549084
+                  ]
+            },
+            {
+                  "name": "Եկեղեցի Սբ. Գրիգոր",
+                  "text": "Die Dorfkirche von Brnakot, ein klassischer armenischer Steinbau mit traditioneller religiöser Bedeutung.",
+                  "category": "religious",
+                  "coords": [
+                        45.971808,
+                        39.497388
+                  ]
+            },
+            {
+                  "name": "Տոլորսի եկեղեցի",
+                  "text": "Diese Kirche ist berühmt dafür, dass sie bei hohem Wasserstand teilweise im Tolors-Stausee versinkt.",
+                  "category": "landmark",
+                  "coords": [
+                        46.026031,
+                        39.473277
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գայանէ մատուռ",
+                  "text": "Eine kleine Kapelle, die der heiligen Gajane gewidmet ist und die typische Schlichtheit armenischer Sakralbauten zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        45.970654,
+                        39.497844
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aghitu (Aghudi) Memorial",
+                  "text": "Pompás 7. századi síremlék művészi kőfaragásokkal és két díszes boltívvel.",
+                  "category": "landmark",
+                  "coords": [
+                        46.081888,
+                        39.51672
+                  ]
+            },
+            {
+                  "name": "Sisian History Museum",
+                  "text": "A múzeum gazdag helyi leletgyűjteménynek ad otthont a bronzkortól egészen az újkorig.",
+                  "category": "museum",
+                  "coords": [
+                        46.023643,
+                        39.525222
+                  ]
+            },
+            {
+                  "name": "Named after Hamo Sahyan",
+                  "text": "Sziszian egyik kulturális központja, amely a híres örmény költő, Hamo Szahjan emlékét őrzi.",
+                  "category": "cultural",
+                  "coords": [
+                        46.024817,
+                        39.522638
+                  ]
+            },
+            {
+                  "name": "Youth art centre named after Aghvan Minasyan",
+                  "text": "Fiatal tehetségek központja, amely Aghvan Minasyan nevét viseli, és a helyi művészetet és kreativitást támogatja.",
+                  "category": "cultural",
+                  "coords": [
+                        46.02145,
+                        39.519169
+                  ]
+            },
+            {
+                  "name": "Tolors Churche",
+                  "text": "Kilátópont a Tolors-víztározóban részben elsüllyedt régi templom maradványaira.",
+                  "category": "natural",
+                  "coords": [
+                        46.004339,
+                        39.478377
+                  ]
+            },
+            {
+                  "name": "Շաքիի ջրվեժ",
+                  "text": "Panorámás kilátás a 18 méter magas Saki-vízesésre, amely bazaltsziklákon keresztül zúdul a mélybe.",
+                  "category": "natural",
+                  "coords": [
+                        45.993578,
+                        39.552136
+                  ]
+            },
+            {
+                  "name": "Եկեղեցի Սբ. Գևորգ",
+                  "text": "Történelmi örmény templom, amely Tolors falu lelki központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        45.915179,
+                        39.559014
+                  ]
+            },
+            {
+                  "name": "Որոտնավանք",
+                  "text": "10. századi erődített kolostor, amely magasan a mély Vorotan-szurdok felett trónol.",
+                  "category": "landmark",
+                  "coords": [
+                        46.121202,
+                        39.496187
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գրիգոր եկեղեցի",
+                  "text": "Középkori örmény kolostor finoman megmunkált hacskarokkal (keresztkövekkel) Sziszian közelében.",
+                  "category": "religious",
+                  "coords": [
+                        46.017833,
+                        39.528506
+                  ]
+            },
+            {
+                  "name": "Contemporary Standing Rocks Installation",
+                  "text": "Modern művészeti alkotás álló kövekből, amely a Zorakarer őskori megallitjait idézi.",
+                  "category": "historical",
+                  "coords": [
+                        46.034218,
+                        39.549084
+                  ]
+            },
+            {
+                  "name": "Եկեղեցի Սբ. Գրիգոր",
+                  "text": "Brnakot falusi temploma, egy klasszikus örmény kőépület hagyományos vallási jelentőséggel.",
+                  "category": "religious",
+                  "coords": [
+                        45.971808,
+                        39.497388
+                  ]
+            },
+            {
+                  "name": "Տոլորսի եկեղեցի",
+                  "text": "Ez a templom arról nevezetes, hogy magas vízállás esetén részben elmerül a Tolors-víztározóban.",
+                  "category": "landmark",
+                  "coords": [
+                        46.026031,
+                        39.473277
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գայանէ մատուռ",
+                  "text": "Szent Gajánénak szentelt kis kápolna, amely az örmény szakrális építészet tipikus egyszerűségét mutatja.",
+                  "category": "landmark",
+                  "coords": [
+                        45.970654,
+                        39.497844
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aghitu (Aghudi) Memorial",
+                  "text": "Un monument funerar splendid din secolul al VII-lea, cu sculpturi ornamentale în piatră și două arcade decorate.",
+                  "category": "landmark",
+                  "coords": [
+                        46.081888,
+                        39.51672
+                  ]
+            },
+            {
+                  "name": "Sisian History Museum",
+                  "text": "Muzeul găzduiește o colecție bogată de artefacte locale, din epoca bronzului până în perioada modernă.",
+                  "category": "museum",
+                  "coords": [
+                        46.023643,
+                        39.525222
+                  ]
+            },
+            {
+                  "name": "Named after Hamo Sahyan",
+                  "text": "Un centru cultural din Sisian, dedicat memoriei celebrului poet armean Hamo Sahyan.",
+                  "category": "cultural",
+                  "coords": [
+                        46.024817,
+                        39.522638
+                  ]
+            },
+            {
+                  "name": "Youth art centre named after Aghvan Minasyan",
+                  "text": "Un centru pentru tineri talentați, numit după Aghvan Minasyan, care promovează arta și creativitatea locală.",
+                  "category": "cultural",
+                  "coords": [
+                        46.02145,
+                        39.519169
+                  ]
+            },
+            {
+                  "name": "Tolors Churche",
+                  "text": "Punct de observație spre vestigiile unei vechi biserici scufundate în rezervorul Tolors.",
+                  "category": "natural",
+                  "coords": [
+                        46.004339,
+                        39.478377
+                  ]
+            },
+            {
+                  "name": "Շաքիի ջրվեժ",
+                  "text": "Vedere panoramică asupra Cascadei Shaki, înaltă de 18 metri, care se revarsă peste stânci de bazalt.",
+                  "category": "natural",
+                  "coords": [
+                        45.993578,
+                        39.552136
+                  ]
+            },
+            {
+                  "name": "Եկեղեցի Սբ. Գևորգ",
+                  "text": "O biserică istorică armenească ce servește ca centru spiritual pentru satul Tolors.",
+                  "category": "religious",
+                  "coords": [
+                        45.915179,
+                        39.559014
+                  ]
+            },
+            {
+                  "name": "Որոտնավանք",
+                  "text": "O mănăstire fortificată din secolul al X-lea, situată pe o culme deasupra defileului Vorotan.",
+                  "category": "landmark",
+                  "coords": [
+                        46.121202,
+                        39.496187
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գրիգոր եկեղեցի",
+                  "text": "O mănăstire armeană medievală cu hacikaruri (cruci în piatră) fin lucrate, situată lângă Sisian.",
+                  "category": "religious",
+                  "coords": [
+                        46.017833,
+                        39.528506
+                  ]
+            },
+            {
+                  "name": "Contemporary Standing Rocks Installation",
+                  "text": "O instalație artistică modernă din pietre ridicate, care amintește de megalitii preistorici de la Zorats Karer.",
+                  "category": "historical",
+                  "coords": [
+                        46.034218,
+                        39.549084
+                  ]
+            },
+            {
+                  "name": "Եկեղեցի Սբ. Գրիգոր",
+                  "text": "Biserica din satul Brnakot, o construcție clasică armeană din piatră, cu o importanță religioasă tradițională.",
+                  "category": "religious",
+                  "coords": [
+                        45.971808,
+                        39.497388
+                  ]
+            },
+            {
+                  "name": "Տոլորսի եկեղեցի",
+                  "text": "Această biserică este faimoasă pentru faptul că este parțial scufundată în rezervorul Tolors când nivelul apei este ridicat.",
+                  "category": "landmark",
+                  "coords": [
+                        46.026031,
+                        39.473277
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գայանէ մատուռ",
+                  "text": "O mică capelă dedicată Sfintei Gayane, exemplificând simplitatea tipică a construcțiilor sacre armenești.",
+                  "category": "landmark",
+                  "coords": [
+                        45.970654,
+                        39.497844
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aghitu (Aghudi) Memorial",
+                  "text": "A magnificent 7th-century funerary monument featuring intricate stonework and two ornate arches.",
+                  "category": "landmark",
+                  "coords": [
+                        46.081888,
+                        39.51672
+                  ]
+            },
+            {
+                  "name": "Sisian History Museum",
+                  "text": "The museum houses a rich collection of local artifacts, ranging from the Bronze Age to modern times.",
+                  "category": "museum",
+                  "coords": [
+                        46.023643,
+                        39.525222
+                  ]
+            },
+            {
+                  "name": "Named after Hamo Sahyan",
+                  "text": "A cultural center in Sisian dedicated to the memory of the renowned Armenian poet Hamo Sahyan.",
+                  "category": "cultural",
+                  "coords": [
+                        46.024817,
+                        39.522638
+                  ]
+            },
+            {
+                  "name": "Youth art centre named after Aghvan Minasyan",
+                  "text": "A center for young talents named after Aghvan Minasyan, fostering local art and creativity.",
+                  "category": "cultural",
+                  "coords": [
+                        46.02145,
+                        39.519169
+                  ]
+            },
+            {
+                  "name": "Tolors Churche",
+                  "text": "Viewpoint overlooking the remains of an old church partially submerged in the Tolors Reservoir.",
+                  "category": "natural",
+                  "coords": [
+                        46.004339,
+                        39.478377
+                  ]
+            },
+            {
+                  "name": "Shaki Waterfall",
+                  "text": "Panoramic view of the 18-meter-high Shaki Waterfall cascading over basalt rock formations.",
+                  "category": "natural",
+                  "coords": [
+                        45.993578,
+                        39.552136
+                  ]
+            },
+            {
+                  "name": "Saint Gevorg Church",
+                  "text": "A historic Armenian church serving as the spiritual center for the village of Tolors.",
+                  "category": "religious",
+                  "coords": [
+                        45.915179,
+                        39.559014
+                  ]
+            },
+            {
+                  "name": "Vorotnavank",
+                  "text": "A 10th-century fortified monastery complex perched high above the deep Vorotan River gorge.",
+                  "category": "landmark",
+                  "coords": [
+                        46.121202,
+                        39.496187
+                  ]
+            },
+            {
+                  "name": "Surb Hovhannes Monastery",
+                  "text": "A medieval Armenian monastery featuring intricately carved khachkars (cross-stones) near Sisian.",
+                  "category": "religious",
+                  "coords": [
+                        46.017833,
+                        39.528506
+                  ]
+            },
+            {
+                  "name": "Contemporary Standing Rocks Installation",
+                  "text": "A contemporary art installation of standing stones, echoing the prehistoric megaliths of nearby Zorats Karer.",
+                  "category": "historical",
+                  "coords": [
+                        46.034218,
+                        39.549084
+                  ]
+            },
+            {
+                  "name": "Saint Grigor Church of Brnakot",
+                  "text": "The village church of Brnakot, a classical Armenian stone structure with traditional religious significance.",
+                  "category": "religious",
+                  "coords": [
+                        45.971808,
+                        39.497388
+                  ]
+            },
+            {
+                  "name": "Tolors Saint Hripsime Church",
+                  "text": "This church is famous for being partially submerged in the Tolors Reservoir when the water level is high.",
+                  "category": "landmark",
+                  "coords": [
+                        46.026031,
+                        39.473277
+                  ]
+            },
+            {
+                  "name": "Saint Gayane Chapel",
+                  "text": "A small chapel dedicated to Saint Gayane, showcasing the typical simplicity of Armenian religious architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        45.970654,
+                        39.497844
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AM-SU",
     coords: [46.0286, 39.5501],
@@ -451,7 +2809,376 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
       fr: [],
     }, image: "/poi-images/armenia-zorats-karer-landmarks-v2.webp"},
   {
-    id: "armenia-symphony-of-stones-landmarks-v2",
+    id: "armenia-symphony-of-stones-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Symphony of Stones",
+                  "text": "Ein beeindruckendes Naturdenkmal in der Garni-Schlucht, bestehend aus massiven, vertikalen Basaltsäulen, die an eine Orgel erinnern.",
+                  "category": "landmark",
+                  "coords": [
+                        44.74227,
+                        40.116657
+                  ]
+            },
+            {
+                  "name": "Blrashen",
+                  "text": "Die archäologischen Überreste der antiken Siedlung Blrashen, die sich in der Nähe des Dorfes Garni befinden.",
+                  "category": "historical",
+                  "coords": [
+                        44.734882,
+                        40.101212
+                  ]
+            },
+            {
+                  "name": "Բարդենուտ",
+                  "text": "Ein markanter Berggipfel im Geghama-Hochland, der einen weiten Panoramablick auf das armenische Hochland bietet.",
+                  "category": "natural",
+                  "coords": [
+                        44.749855,
+                        40.052253
+                  ]
+            },
+            {
+                  "name": "Շագրիար",
+                  "text": "Diese historischen Ruinen von Shagriar stellen eine verlassene mittelalterliche Siedlung in der Region Garni dar.",
+                  "category": "historical",
+                  "coords": [
+                        44.744507,
+                        40.060911
+                  ]
+            },
+            {
+                  "name": "Քամալար",
+                  "text": "Die Steinfundamente und Ruinen von Kamalar, einer antiken Wohnstätte in der Nähe des Flusses Asat.",
+                  "category": "historical",
+                  "coords": [
+                        44.756824,
+                        40.106866
+                  ]
+            },
+            {
+                  "name": "Մաշտոց Հայրապետ եկեղեցի",
+                  "text": "Eine armenische Kirche aus dem 12. Jahrhundert in Garni, erbaut aus dunkelgrauem Basalt mit einzigartigen Schnitzereien um die Fenster.",
+                  "category": "religious",
+                  "coords": [
+                        44.73769,
+                        40.119169
+                  ]
+            },
+            {
+                  "name": "Օտլաղ",
+                  "text": "Otlagh bewahrt die verstreuten Ruinen einer ehemaligen Siedlung in der malerischen Landschaft in der Nähe von Garni.",
+                  "category": "historical",
+                  "coords": [
+                        44.750203,
+                        40.076572
+                  ]
+            },
+            {
+                  "name": "Սուրբ Կարապետ մատուռ",
+                  "text": "Die erhaltenen Steinruinen der St.-Karapet-Kapelle, einer mittelalterlichen Pilgerstätte mit Blick auf die Garni-Schlucht.",
+                  "category": "historical",
+                  "coords": [
+                        44.77178,
+                        40.122488
+                  ]
+            },
+            {
+                  "name": "Եկեղեցի Սբ. Ամենափրկիչ",
+                  "text": "Eine armenisch-apostolische Kirche in Garni, die dem Heiligen Erlöser (Surb Amenaprkich) gewidmet ist und traditionelles Mauerwerk aufweist.",
+                  "category": "religious",
+                  "coords": [
+                        44.767556,
+                        40.122894
+                  ]
+            },
+            {
+                  "name": "Հավուց Թառ",
+                  "text": "Ruinen eines befestigten Klosterkomplexes aus dem 11. Jahrhundert auf einem Kamm über dem Fluss Asat.",
+                  "category": "landmark",
+                  "coords": [
+                        44.769323,
+                        40.12303
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Symphony of Stones",
+                  "text": "Lenyűgöző természeti műemlék a Garni-szurdokban, amely hatalmas, függőleges bazaltoszlopokból áll, és egy orgonára hasonlít.",
+                  "category": "landmark",
+                  "coords": [
+                        44.74227,
+                        40.116657
+                  ]
+            },
+            {
+                  "name": "Blrashen",
+                  "text": "Blrashen ősi településének régészeti maradványai, Garni falu közelében.",
+                  "category": "historical",
+                  "coords": [
+                        44.734882,
+                        40.101212
+                  ]
+            },
+            {
+                  "name": "Բարդենուտ",
+                  "text": "Jelentős hegycsúcs a Geghama-felföldön, amely széles panorámás kilátást nyújt az örmény fennsíkra.",
+                  "category": "natural",
+                  "coords": [
+                        44.749855,
+                        40.052253
+                  ]
+            },
+            {
+                  "name": "Շագրիար",
+                  "text": "Shagriar történelmi romjai egy elhagyatott középkori települést képviselnek a Garni régióban.",
+                  "category": "historical",
+                  "coords": [
+                        44.744507,
+                        40.060911
+                  ]
+            },
+            {
+                  "name": "Քամալար",
+                  "text": "Kamalar kőalapjai és romjai, egy ősi lakóhely az Azat-folyó közelében.",
+                  "category": "historical",
+                  "coords": [
+                        44.756824,
+                        40.106866
+                  ]
+            },
+            {
+                  "name": "Մաշտոց Հայրապետ եկեղեցի",
+                  "text": "12. századi örmény templom Garniban, sötétszürke bazaltból építve, az ablakok körül egyedi faragványokkal.",
+                  "category": "religious",
+                  "coords": [
+                        44.73769,
+                        40.119169
+                  ]
+            },
+            {
+                  "name": "Օտլաղ",
+                  "text": "Otlagh egy korábbi település szétszórt romjait őrzi a Garni környéki festői tájon.",
+                  "category": "historical",
+                  "coords": [
+                        44.750203,
+                        40.076572
+                  ]
+            },
+            {
+                  "name": "Սուրբ Կարապետ մատուռ",
+                  "text": "A Szent Karapet-kápolna fennmaradt kőromjai, egy középkori zarándokhely, amely a Garni-szurdokra néz.",
+                  "category": "historical",
+                  "coords": [
+                        44.77178,
+                        40.122488
+                  ]
+            },
+            {
+                  "name": "Եկեղեցի Սբ. Ամենափրկիչ",
+                  "text": "Garniban található örmény apostoli templom a Szent Megváltó (Szurb Amenaprkics) tiszteletére, hagyományos kőművesmunkával.",
+                  "category": "religious",
+                  "coords": [
+                        44.767556,
+                        40.122894
+                  ]
+            },
+            {
+                  "name": "Հավուց Թառ",
+                  "text": "Egy 11. századi erődített kolostorkomplexum romjai az Azat-folyó feletti gerincen.",
+                  "category": "landmark",
+                  "coords": [
+                        44.769323,
+                        40.12303
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Symphony of Stones",
+                  "text": "Un monument natural uimitor în defileul Garni, format din coloane masive de bazalt verticale care seamănă cu o orgă.",
+                  "category": "landmark",
+                  "coords": [
+                        44.74227,
+                        40.116657
+                  ]
+            },
+            {
+                  "name": "Blrashen",
+                  "text": "Rămășițele arheologice ale vechii așezări Blrashen, situată lângă satul Garni.",
+                  "category": "historical",
+                  "coords": [
+                        44.734882,
+                        40.101212
+                  ]
+            },
+            {
+                  "name": "Բարդենուտ",
+                  "text": "Un vârf muntos proeminent din podișul Geghama, care oferă o vedere panoramică largă asupra platoului armenesc.",
+                  "category": "natural",
+                  "coords": [
+                        44.749855,
+                        40.052253
+                  ]
+            },
+            {
+                  "name": "Շագրիար",
+                  "text": "Aceste ruine istorice din Shagriar reprezintă o așezare medievală abandonată din regiunea Garni.",
+                  "category": "historical",
+                  "coords": [
+                        44.744507,
+                        40.060911
+                  ]
+            },
+            {
+                  "name": "Քամալար",
+                  "text": "Fundațiile de piatră și ruinele din Kamalar, un sit antic de locuire situat lângă râul Azat.",
+                  "category": "historical",
+                  "coords": [
+                        44.756824,
+                        40.106866
+                  ]
+            },
+            {
+                  "name": "Մաշտոց Հայրապետ եկեղեցի",
+                  "text": "O biserică armeană din secolul al XII-lea din Garni, construită din bazalt gri închis, cu sculpturi unice în jurul ferestrelor.",
+                  "category": "religious",
+                  "coords": [
+                        44.73769,
+                        40.119169
+                  ]
+            },
+            {
+                  "name": "Օտլաղ",
+                  "text": "Otlagh păstrează ruinele risipite ale unei foste așezări în peisajul pitoresc de lângă Garni.",
+                  "category": "historical",
+                  "coords": [
+                        44.750203,
+                        40.076572
+                  ]
+            },
+            {
+                  "name": "Սուրբ Կարապետ մատուռ",
+                  "text": "Ruinele din piatră supraviețuitoare ale Capelei Sfântul Karapet, un loc medieval de pelerinaj cu vedere spre defileul Garni.",
+                  "category": "historical",
+                  "coords": [
+                        44.77178,
+                        40.122488
+                  ]
+            },
+            {
+                  "name": "Եկեղեցի Սբ. Ամենափրկիչ",
+                  "text": "O biserică apostolică armeană din Garni dedicată Sfântului Mântuitor (Surb Amenaprkich), cu o zidărie tradițională din piatră.",
+                  "category": "religious",
+                  "coords": [
+                        44.767556,
+                        40.122894
+                  ]
+            },
+            {
+                  "name": "Հավուց Թառ",
+                  "text": "Ruinele unui complex monahal fortificat din secolul al XI-lea, situat pe o creastă deasupra râului Azat.",
+                  "category": "landmark",
+                  "coords": [
+                        44.769323,
+                        40.12303
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Symphony of Stones",
+                  "text": "A stunning natural monument in Garni Gorge consisting of massive, vertical basalt columns that resemble a pipe organ.",
+                  "category": "landmark",
+                  "coords": [
+                        44.74227,
+                        40.116657
+                  ]
+            },
+            {
+                  "name": "Blrashen",
+                  "text": "The archaeological remains of the ancient settlement of Blrashen, located near the village of Garni.",
+                  "category": "historical",
+                  "coords": [
+                        44.734882,
+                        40.101212
+                  ]
+            },
+            {
+                  "name": "Bardenut",
+                  "text": "A prominent mountain peak in the Geghama Highlands, offering a wide panoramic view of the Armenian plateau.",
+                  "category": "natural",
+                  "coords": [
+                        44.749855,
+                        40.052253
+                  ]
+            },
+            {
+                  "name": "Շագրիար",
+                  "text": "These historic ruins of Shagriar represent an abandoned medieval settlement in the Garni region.",
+                  "category": "historical",
+                  "coords": [
+                        44.744507,
+                        40.060911
+                  ]
+            },
+            {
+                  "name": "Քամալար",
+                  "text": "The stone foundations and ruins of Kamalar, an ancient habitation site near the Azat River.",
+                  "category": "historical",
+                  "coords": [
+                        44.756824,
+                        40.106866
+                  ]
+            },
+            {
+                  "name": "Mashtots Hayrapet Church of Garni",
+                  "text": "A 12th-century Armenian church in Garni, built from dark gray basalt with unique carvings around its windows.",
+                  "category": "religious",
+                  "coords": [
+                        44.73769,
+                        40.119169
+                  ]
+            },
+            {
+                  "name": "Օտլաղ",
+                  "text": "Otlagh preserves the scattered ruins of a former settlement within the picturesque landscape near Garni.",
+                  "category": "historical",
+                  "coords": [
+                        44.750203,
+                        40.076572
+                  ]
+            },
+            {
+                  "name": "Saint Karapet Chapel",
+                  "text": "The surviving stone ruins of the Saint Karapet Chapel, a medieval pilgrimage site overlooking the Garni Gorge.",
+                  "category": "historical",
+                  "coords": [
+                        44.77178,
+                        40.122488
+                  ]
+            },
+            {
+                  "name": "Surb Amenaprkich",
+                  "text": "An Armenian Apostolic church in Garni dedicated to the Holy Savior (Surb Amenaprkich), featuring traditional stone masonry.",
+                  "category": "religious",
+                  "coords": [
+                        44.767556,
+                        40.122894
+                  ]
+            },
+            {
+                  "name": "Havuts Tar",
+                  "text": "Ruins of an 11th-century walled monastery complex on a ridge above the Azat River.",
+                  "category": "landmark",
+                  "coords": [
+                        44.769323,
+                        40.12303
+                  ]
+            }
+      ]
+},
     type: "tourist-attraction",
     parent: "AM-KO",
     coords: [44.7408, 40.1119],
@@ -644,7 +3371,340 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
       fr: [],
     }, image: "/poi-images/armenia-akhtala-fortress-landmarks-v2.webp"},
   {
-    id: "armenia-alphabet-monument-landmarks-v2",
+    id: "armenia-alphabet-monument-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Անգարսակ",
+                  "text": "Die Ruinen von Angarsak bestehen aus alten Steinfundamenten, die über die Landschaft verstreut sind.",
+                  "category": "historical",
+                  "coords": [
+                        44.320767,
+                        40.37965
+                  ]
+            },
+            {
+                  "name": "Սաղմոսավան",
+                  "text": "Saghmosavank ist ein historischer mittelalterlicher armenischer Klosterkomplex, der dramatisch am Rande der Kasagh-Schlucht thront.",
+                  "category": "religious",
+                  "coords": [
+                        44.396783,
+                        40.380587
+                  ]
+            },
+            {
+                  "name": "Եկեղեցի Սբ. Թադևոս Առաքյալ",
+                  "text": "St. Tadevos in Artashavan ist ein bemerkenswertes religiöses Denkmal, das die klassische armenische Kirchenarchitektur widerspiegelt.",
+                  "category": "religious",
+                  "coords": [
+                        44.385635,
+                        40.389293
+                  ]
+            },
+            {
+                  "name": "Եկեղեցի Սբ. Ամենափրկիչ",
+                  "text": "Die Kirche Surb Amenaprkich dient als historische heilige Stätte in der Region, die dem Heiligen Erlöser gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        44.387152,
+                        40.391843
+                  ]
+            },
+            {
+                  "name": "Ամամլու",
+                  "text": "Die Stätte Amamlu enthält verfallene bauliche Ruinen, die auf eine frühere historische Besiedlung des Gebiets hinweisen.",
+                  "category": "historical",
+                  "coords": [
+                        44.404624,
+                        40.410223
+                  ]
+            },
+            {
+                  "name": "Նիգատուն",
+                  "text": "Nigatun zeigt das eingestürzte Mauerwerk und die Grundmauerreste einer vergangenen Siedlung.",
+                  "category": "historical",
+                  "coords": [
+                        44.363804,
+                        40.434602
+                  ]
+            },
+            {
+                  "name": "Կոյտուր",
+                  "text": "Die historischen Ruinen von Koytur bieten Besuchern einen Blick auf die verwitterten Steinreste eines alten Bauwerks.",
+                  "category": "historical",
+                  "coords": [
+                        44.369597,
+                        40.413721
+                  ]
+            },
+            {
+                  "name": "Սուրբ Մարիամ-Եղիսաբեթ մատուռ",
+                  "text": "Die St.-Maria-Elisabeth-Kapelle ist ein besonderes religiöses Heiligtum, das für die einheimischen Gläubigen erbaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        44.380838,
+                        40.45139
+                  ]
+            },
+            {
+                  "name": "Թուխ մանուկ",
+                  "text": "Die Tukh-Manuk-Kapelle ist ein traditioneller armenischer Schrein, der typischerweise mit alten heidnischen Ursprüngen in Verbindung gebracht wird, die später christianisiert wurden.",
+                  "category": "religious",
+                  "coords": [
+                        44.398393,
+                        40.476729
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Անգարսակ",
+                  "text": "Angarsak romjai a tájon szétszórt ősi kőalapokból állnak.",
+                  "category": "historical",
+                  "coords": [
+                        44.320767,
+                        40.37965
+                  ]
+            },
+            {
+                  "name": "Սաղմոսավան",
+                  "text": "A Saghmosavank egy történelmi középkori örmény kolostorkomplexum, amely drámai módon a Kasagh-folyó szurdokának szélén fekszik.",
+                  "category": "religious",
+                  "coords": [
+                        44.396783,
+                        40.380587
+                  ]
+            },
+            {
+                  "name": "Եկեղեցի Սբ. Թադևոս Առաքյալ",
+                  "text": "Az artashavani Szent Tadevos egy figyelemre méltó vallási emlékmű, amely a klasszikus örmény templomépítészetet tükrözi.",
+                  "category": "religious",
+                  "coords": [
+                        44.385635,
+                        40.389293
+                  ]
+            },
+            {
+                  "name": "Եկեղեցի Սբ. Ամենափրկիչ",
+                  "text": "A Surb Amenaprkich templom a régió egy történelmi szent helye, amelyet a Szent Megváltónak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        44.387152,
+                        40.391843
+                  ]
+            },
+            {
+                  "name": "Ամամլու",
+                  "text": "Az Amamlu lelőhely leromlott szerkezeti romokat tartalmaz, amelyek a terület korábbi történelmi megszállására utalnak.",
+                  "category": "historical",
+                  "coords": [
+                        44.404624,
+                        40.410223
+                  ]
+            },
+            {
+                  "name": "Նիգատուն",
+                  "text": "Nigatun egy letűnt település beomlott falazatát és alapjainak maradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        44.363804,
+                        40.434602
+                  ]
+            },
+            {
+                  "name": "Կոյտուր",
+                  "text": "Koytur történelmi romjai bepillantást engednek a látogatóknak egy ókori építmény mállott kőmaradványaiba.",
+                  "category": "historical",
+                  "coords": [
+                        44.369597,
+                        40.413721
+                  ]
+            },
+            {
+                  "name": "Սուրբ Մարիամ-Եղիսաբեթ մատուռ",
+                  "text": "A Szent Mária-Erzsébet kápolna egy különálló vallási szentély, amelyet a helyi hívők befogadására építettek.",
+                  "category": "religious",
+                  "coords": [
+                        44.380838,
+                        40.45139
+                  ]
+            },
+            {
+                  "name": "Թուխ մանուկ",
+                  "text": "A Tukh Manuk kápolna egy hagyományos örmény szentély, amelyet jellemzően a később keresztényiesített ősi pogány eredettel hoznak összefüggésbe.",
+                  "category": "religious",
+                  "coords": [
+                        44.398393,
+                        40.476729
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Անգարսակ",
+                  "text": "Ruinele din Angarsak constau din fundații antice de piatră împrăștiate peisaj.",
+                  "category": "historical",
+                  "coords": [
+                        44.320767,
+                        40.37965
+                  ]
+            },
+            {
+                  "name": "Սաղմոսավան",
+                  "text": "Saghmosavank este un complex monahal armean medieval istoric, situat spectaculos pe marginea defileului râului Kasagh.",
+                  "category": "religious",
+                  "coords": [
+                        44.396783,
+                        40.380587
+                  ]
+            },
+            {
+                  "name": "Եկեղեցի Սբ. Թադևոս Առաքյալ",
+                  "text": "Sfântul Tadevos din Artashavan este un monument religios notabil care reflectă arhitectura clasică a bisericii armene.",
+                  "category": "religious",
+                  "coords": [
+                        44.385635,
+                        40.389293
+                  ]
+            },
+            {
+                  "name": "Եկեղեցի Սբ. Ամենափրկիչ",
+                  "text": "Biserica Surb Amenaprkich servește ca un sit istoric sfânt dedicat Sfântului Mântuitor din regiune.",
+                  "category": "religious",
+                  "coords": [
+                        44.387152,
+                        40.391843
+                  ]
+            },
+            {
+                  "name": "Ամամլու",
+                  "text": "Situl Amamlu conține ruine structurale deteriorate care indică ocuparea istorică anterioară a zonei.",
+                  "category": "historical",
+                  "coords": [
+                        44.404624,
+                        40.410223
+                  ]
+            },
+            {
+                  "name": "Նիգատուն",
+                  "text": "Nigatun prezintă zidăria prăbușită și rămășițele fundației unei așezări trecute.",
+                  "category": "historical",
+                  "coords": [
+                        44.363804,
+                        40.434602
+                  ]
+            },
+            {
+                  "name": "Կոյտուր",
+                  "text": "Ruinele istorice din Koytur oferă vizitatorilor o privire asupra resturilor de piatră erodate ale unei structuri antice.",
+                  "category": "historical",
+                  "coords": [
+                        44.369597,
+                        40.413721
+                  ]
+            },
+            {
+                  "name": "Սուրբ Մարիամ-Եղիսաբեթ մատուռ",
+                  "text": "Capela Sfânta Maria-Elisabeta este un sanctuar religios distinct construit pentru a găzdui credincioșii locali.",
+                  "category": "religious",
+                  "coords": [
+                        44.380838,
+                        40.45139
+                  ]
+            },
+            {
+                  "name": "Թուխ մանուկ",
+                  "text": "Capela Tukh Manuk este un altar tradițional armean asociat de obicei cu origini păgâne antice creștinată ulterior.",
+                  "category": "religious",
+                  "coords": [
+                        44.398393,
+                        40.476729
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Անգարսակ",
+                  "text": "The ruins of Angarsak consist of ancient stone foundations scattered across the landscape.",
+                  "category": "historical",
+                  "coords": [
+                        44.320767,
+                        40.37965
+                  ]
+            },
+            {
+                  "name": "Saghmosavank",
+                  "text": "Saghmosavank is a historic medieval Armenian monastic complex perched dramatically on the edge of the Kasagh River gorge.",
+                  "category": "religious",
+                  "coords": [
+                        44.396783,
+                        40.380587
+                  ]
+            },
+            {
+                  "name": "Saint Tadevos, Artashavan",
+                  "text": "Saint Tadevos in Artashavan is a notable religious monument reflecting classical Armenian church architecture.",
+                  "category": "religious",
+                  "coords": [
+                        44.385635,
+                        40.389293
+                  ]
+            },
+            {
+                  "name": "Surb Amenaprkich Church",
+                  "text": "Surb Amenaprkich Church serves as a historic holy site dedicated to the Holy Savior in the region.",
+                  "category": "religious",
+                  "coords": [
+                        44.387152,
+                        40.391843
+                  ]
+            },
+            {
+                  "name": "Ամամլու",
+                  "text": "The Amamlu site contains deteriorated structural ruins that point to earlier historical occupation of the area.",
+                  "category": "historical",
+                  "coords": [
+                        44.404624,
+                        40.410223
+                  ]
+            },
+            {
+                  "name": "Նիգատուն",
+                  "text": "Nigatun features the collapsed masonry and foundational remnants of a bygone settlement.",
+                  "category": "historical",
+                  "coords": [
+                        44.363804,
+                        40.434602
+                  ]
+            },
+            {
+                  "name": "Կոյտուր",
+                  "text": "The historic ruins of Koytur offer visitors a glimpse into the weathered stone remains of an ancient structure.",
+                  "category": "historical",
+                  "coords": [
+                        44.369597,
+                        40.413721
+                  ]
+            },
+            {
+                  "name": "St. Mary-Elizabeth Chapel",
+                  "text": "St. Mary-Elizabeth Chapel is a distinct religious sanctuary built to accommodate local worshippers.",
+                  "category": "religious",
+                  "coords": [
+                        44.380838,
+                        40.45139
+                  ]
+            },
+            {
+                  "name": "Tukh Manuk Chapel",
+                  "text": "Tukh Manuk Chapel is a traditional Armenian shrine typically associated with ancient pagan origins later Christianized.",
+                  "category": "religious",
+                  "coords": [
+                        44.398393,
+                        40.476729
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "AM-AG",
     coords: [44.3804, 40.4079],
@@ -700,7 +3760,412 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
       fr: [],
     }, image: "/poi-images/armenia-alphabet-monument-landmarks-v2.webp"},
   {
-    id: "armenia-vernissage-landmarks-v2",
+    id: "armenia-vernissage-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gallery by Melikyans",
+                  "text": "Eine Kunstgalerie, die zeitgenössische Werke armenischer Künstler und private Sammlungen präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        44.52449,
+                        40.169294
+                  ]
+            },
+            {
+                  "name": "Մորդեխայ Նավի սինագոգ",
+                  "text": "Die im Jahr 2011 eröffnete Synagoge ist das religiöse Zentrum der jüdischen Gemeinde in Armenien.",
+                  "category": "religious",
+                  "coords": [
+                        44.513876,
+                        40.165841
+                  ]
+            },
+            {
+                  "name": "Հայաստանի բնության պետական թանգարան",
+                  "text": "Ein Museum, das die vielfältige Flora, Fauna und Geologie des armenischen Hochlands zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        44.512693,
+                        40.165644
+                  ]
+            },
+            {
+                  "name": "Հենրիկ Մալյանի թատրոն",
+                  "text": "Ein renommiertes Theater, das nach dem Filmregisseur Henrik Malian benannt ist und für seine poetische Bildsprache bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        44.519489,
+                        40.175683
+                  ]
+            },
+            {
+                  "name": "Նորարար Փորձառական Արվեստի Կենտրոն",
+                  "text": "Ein Zentrum für avantgardistische Kunst und experimentelle Installationen im Herzen der Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        44.51748,
+                        40.175399
+                  ]
+            },
+            {
+                  "name": "Լունապարկ",
+                  "text": "Ein Vergnügungspark mit einem Riesenrad und verschiedenen Fahrgeschäften für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        44.515079,
+                        40.172888
+                  ]
+            },
+            {
+                  "name": "Kathedrale des Heiligen Gregor des Erleuchters",
+                  "text": "Die größte armenisch-apostolische Kathedrale der Welt, die im Jahr 2001 zum 1700. Jahrestag der Christianisierung geweiht wurde.",
+                  "category": "religious",
+                  "coords": [
+                        44.516892,
+                        40.172049
+                  ]
+            },
+            {
+                  "name": "Օղակաձև զբոսայգի",
+                  "text": "Ein schattiger Teil des ringförmigen Parks, der mit Springbrunnen und Cafés zum Verweilen einlädt.",
+                  "category": "park",
+                  "coords": [
+                        44.517815,
+                        40.173159
+                  ]
+            },
+            {
+                  "name": "Հայաստանի Երգի Պետական Թատրոն",
+                  "text": "Ein spezialisiertes Theater für moderne armenische Musik und Unterhaltungsshows.",
+                  "category": "cultural",
+                  "coords": [
+                        44.518587,
+                        40.174943
+                  ]
+            },
+            {
+                  "name": "Seventh-day Adventist Church",
+                  "text": "Eine christliche Kirche der Siebenten-Tags-Adventisten in der Nähe des Vernissage-Marktes.",
+                  "category": "landmark",
+                  "coords": [
+                        44.522228,
+                        40.166746
+                  ]
+            },
+            {
+                  "name": "GumMarket",
+                  "text": "Ein lebhafter Markt, der für seine Auswahl an traditionellen armenischen Trockenfrüchten und Süßwaren bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        44.515022,
+                        40.167208
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gallery by Melikyans",
+                  "text": "Művészeti galéria, amely örmény alkotók kortárs műveit és magángyűjteményeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        44.52449,
+                        40.169294
+                  ]
+            },
+            {
+                  "name": "Մորդեխայ Նավի սինագոգ",
+                  "text": "A 2011-ben megnyitott zsinagóga az örményországi zsidó közösség vallási központja.",
+                  "category": "religious",
+                  "coords": [
+                        44.513876,
+                        40.165841
+                  ]
+            },
+            {
+                  "name": "Հայաստանի բնության պետական թանգարան",
+                  "text": "Múzeum, amely az örmény felföld változatos növény- és állatvilágát, valamint geológiáját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        44.512693,
+                        40.165644
+                  ]
+            },
+            {
+                  "name": "Հենրիկ Մալյանի թատրոն",
+                  "text": "Henrik Malian filmrendezőről elnevezett elismert színház, amely költői képi világáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        44.519489,
+                        40.175683
+                  ]
+            },
+            {
+                  "name": "Նորարար Փորձառական Արվեստի Կենտրոն",
+                  "text": "Az avantgárd művészet és a kísérleti installációk központja a város szívében.",
+                  "category": "museum",
+                  "coords": [
+                        44.51748,
+                        40.175399
+                  ]
+            },
+            {
+                  "name": "Լունապարկ",
+                  "text": "Vidámpark óriáskerékkel és különféle játékokkal a családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        44.515079,
+                        40.172888
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գրիգոր Լուսավորիչ եկեղեցի",
+                  "text": "A világ legnagyobb örmény apostoli székesegyháza, amelyet 2001-ben szenteltek fel.",
+                  "category": "religious",
+                  "coords": [
+                        44.516892,
+                        40.172049
+                  ]
+            },
+            {
+                  "name": "Օղակաձև զբոսայգի",
+                  "text": "A gyűrű alakú park árnyas része, amely szökőkutakkal és kávézókkal hívogat a pihenésre.",
+                  "category": "park",
+                  "coords": [
+                        44.517815,
+                        40.173159
+                  ]
+            },
+            {
+                  "name": "Հայաստանի Երգի Պետական Թատրոն",
+                  "text": "Modern örmény zenére és szórakoztató műsorokra szakosodott színház.",
+                  "category": "cultural",
+                  "coords": [
+                        44.518587,
+                        40.174943
+                  ]
+            },
+            {
+                  "name": "Seventh-day Adventist Church",
+                  "text": "A hetednapi adventista felekezet keresztény temploma a Vernissage piac közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        44.522228,
+                        40.166746
+                  ]
+            },
+            {
+                  "name": "GumMarket",
+                  "text": "Élénk piac, amely hagyományos örmény aszalt gyümölcseiről és édességeiről híres.",
+                  "category": "cultural",
+                  "coords": [
+                        44.515022,
+                        40.167208
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gallery by Melikyans",
+                  "text": "O galerie de artă care prezintă lucrări contemporane ale artiștilor armeni și colecții private.",
+                  "category": "museum",
+                  "coords": [
+                        44.52449,
+                        40.169294
+                  ]
+            },
+            {
+                  "name": "Մորդեխայ Նավի սինագոգ",
+                  "text": "Sinagoga deschisă în 2011 este centrul religios al comunității evreiești din Armenia.",
+                  "category": "religious",
+                  "coords": [
+                        44.513876,
+                        40.165841
+                  ]
+            },
+            {
+                  "name": "Հայաստանի բնության պետական թանգարան",
+                  "text": "Un muzeu care prezintă flora, fauna și geologia diversă a podișului armean.",
+                  "category": "museum",
+                  "coords": [
+                        44.512693,
+                        40.165644
+                  ]
+            },
+            {
+                  "name": "Հենրիկ Մալյանի թատրոն",
+                  "text": "Un teatru renumit, numit după regizorul Henrik Malian, cunoscut pentru limbajul său vizual poetic.",
+                  "category": "cultural",
+                  "coords": [
+                        44.519489,
+                        40.175683
+                  ]
+            },
+            {
+                  "name": "Նորարար Փորձառական Արվեստի Կենտրոն",
+                  "text": "Un centru pentru artă avangardistă și instalații experimentale în inima orașului.",
+                  "category": "museum",
+                  "coords": [
+                        44.51748,
+                        40.175399
+                  ]
+            },
+            {
+                  "name": "Լունապարկ",
+                  "text": "Un parc de distracții cu o roată panoramică și diverse atracții pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        44.515079,
+                        40.172888
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գրիգոր Լուսավորիչ եկեղեցի",
+                  "text": "Cea mai mare catedrală apostolică armeană din lume, sfințită în anul 2001.",
+                  "category": "religious",
+                  "coords": [
+                        44.516892,
+                        40.172049
+                  ]
+            },
+            {
+                  "name": "Օղակաձև զբոսայգի",
+                  "text": "O parte umbrită a parcului circular, care invită la relaxare cu fântâni și cafenele.",
+                  "category": "park",
+                  "coords": [
+                        44.517815,
+                        40.173159
+                  ]
+            },
+            {
+                  "name": "Հայաստանի Երգի Պետական Թատրոն",
+                  "text": "Un teatru specializat în muzică armeană modernă și spectacole de divertisment.",
+                  "category": "cultural",
+                  "coords": [
+                        44.518587,
+                        40.174943
+                  ]
+            },
+            {
+                  "name": "Seventh-day Adventist Church",
+                  "text": "O biserică creștină a Adventiștilor de Ziua a Șaptea, situată în apropierea pieței Vernissage.",
+                  "category": "landmark",
+                  "coords": [
+                        44.522228,
+                        40.166746
+                  ]
+            },
+            {
+                  "name": "GumMarket",
+                  "text": "O piață vibrantă, renumită pentru selecția de fructe uscate și dulciuri tradiționale armenești.",
+                  "category": "cultural",
+                  "coords": [
+                        44.515022,
+                        40.167208
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gallery by Melikyans",
+                  "text": "An art gallery showcasing contemporary works by Armenian artists and private collections.",
+                  "category": "museum",
+                  "coords": [
+                        44.52449,
+                        40.169294
+                  ]
+            },
+            {
+                  "name": "Mordechai Navi Synagogue",
+                  "text": "The synagogue, opened in 2011, serves as the religious center for the Jewish community in Armenia.",
+                  "category": "religious",
+                  "coords": [
+                        44.513876,
+                        40.165841
+                  ]
+            },
+            {
+                  "name": "State Museum of Nature of Armenia",
+                  "text": "A museum exhibiting the diverse flora, fauna, and geology of the Armenian highlands.",
+                  "category": "museum",
+                  "coords": [
+                        44.512693,
+                        40.165644
+                  ]
+            },
+            {
+                  "name": "Henrik Malian Theater",
+                  "text": "A renowned theatre named after film director Henrik Malian, known for its poetic visual style.",
+                  "category": "cultural",
+                  "coords": [
+                        44.519489,
+                        40.175683
+                  ]
+            },
+            {
+                  "name": "Armenian Center for Contemporary Experimental Art",
+                  "text": "A center for avant-garde art and experimental installations in the heart of the city.",
+                  "category": "museum",
+                  "coords": [
+                        44.51748,
+                        40.175399
+                  ]
+            },
+            {
+                  "name": "Lunapark",
+                  "text": "An amusement park featuring a Ferris wheel and various family-friendly rides.",
+                  "category": "recreational",
+                  "coords": [
+                        44.515079,
+                        40.172888
+                  ]
+            },
+            {
+                  "name": "Saint Gregory the Illuminator Cathedral",
+                  "text": "The largest Armenian Apostolic cathedral in the world, consecrated in 2001.",
+                  "category": "religious",
+                  "coords": [
+                        44.516892,
+                        40.172049
+                  ]
+            },
+            {
+                  "name": "Circular Park",
+                  "text": "A shaded part of the circular park inviting relaxation with fountains and cafes.",
+                  "category": "park",
+                  "coords": [
+                        44.517815,
+                        40.173159
+                  ]
+            },
+            {
+                  "name": "Armenian State Song Theatre",
+                  "text": "A specialized theater for modern Armenian music and entertainment shows.",
+                  "category": "cultural",
+                  "coords": [
+                        44.518587,
+                        40.174943
+                  ]
+            },
+            {
+                  "name": "Seventh-day Adventist Church",
+                  "text": "A Seventh-day Adventist Christian church located near the Vernissage market.",
+                  "category": "landmark",
+                  "coords": [
+                        44.522228,
+                        40.166746
+                  ]
+            },
+            {
+                  "name": "GUM Market",
+                  "text": "A vibrant marketplace famous for its selection of traditional Armenian dried fruits and sweets.",
+                  "category": "cultural",
+                  "coords": [
+                        44.515022,
+                        40.167208
+                  ]
+            }
+      ]
+},
     type: "tourist-attraction",
     parent: "AM-ER",
     coords: [44.5173, 40.1744],

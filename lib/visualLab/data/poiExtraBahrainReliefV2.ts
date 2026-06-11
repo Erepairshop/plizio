@@ -48,7 +48,88 @@ export const bahrainReliefV2: POI[] = [
     image: "/poi-images/bahrain-jabal-al-dukhan-relief-v2.webp",
   },
   {
-    id: "bahrain-sakhrat-al-khabiyah-relief-v2",
+    id: "bahrain-sakhrat-al-khabiyah-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Cathedral of Our Lady of Arabia",
+                  "text": "Diese im Dezember 2021 geweihte moderne katholische Kathedrale mit ihrem markanten zeltartigen Design dient dem Apostolischen Vikariat Nördliches Arabien.",
+                  "category": "religious",
+                  "coords": [
+                        50.545335,
+                        26.078922
+                  ]
+            },
+            {
+                  "name": "Bahrain National Charter Monument",
+                  "text": "Dieses große Denkmal verfügt über Mauern, in die die Namen der bahrainischen Bürger eingraviert sind, die 2001 für die Nationale Aktionscharta gestimmt haben.",
+                  "category": "landmark",
+                  "coords": [
+                        50.526663,
+                        26.071264
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Cathedral of Our Lady of Arabia",
+                  "text": "A 2021 decemberében felszentelt, jellegzetes sátorszerű kialakítású modern katolikus katedrális az Észak-Arábiai Apostoli Vikariátust szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        50.545335,
+                        26.078922
+                  ]
+            },
+            {
+                  "name": "Bahrain National Charter Monument",
+                  "text": "Ez a grandiózus emlékmű olyan falakkal rendelkezik, amelyekre a 2001-es Nemzeti Cselekvési Charta mellett szavazó bahreini állampolgárok nevei vannak felvésve.",
+                  "category": "landmark",
+                  "coords": [
+                        50.526663,
+                        26.071264
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Cathedral of Our Lady of Arabia",
+                  "text": "Consacrată în decembrie 2021, această catedrală catolică modernă, cu un design distinctiv în formă de cort, deservește Vicariatul Apostolic al Arabiei de Nord.",
+                  "category": "religious",
+                  "coords": [
+                        50.545335,
+                        26.078922
+                  ]
+            },
+            {
+                  "name": "Bahrain National Charter Monument",
+                  "text": "Acest monument grandios prezintă ziduri inscripționate cu numele cetățenilor bahreinezi care au votat în favoarea Cartei Naționale de Acțiune din 2001.",
+                  "category": "landmark",
+                  "coords": [
+                        50.526663,
+                        26.071264
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Cathedral of Our Lady of Arabia",
+                  "text": "Consecrated in December 2021, this modern Catholic cathedral features a distinctive tent-like architectural design serving the Apostolic Vicariate of Northern Arabia.",
+                  "category": "religious",
+                  "coords": [
+                        50.545335,
+                        26.078922
+                  ]
+            },
+            {
+                  "name": "Bahrain National Charter Monument",
+                  "text": "This grand monument features walls inscribed with the names of Bahraini citizens who voted in favor of the 2001 National Action Charter.",
+                  "category": "landmark",
+                  "coords": [
+                        50.526663,
+                        26.071264
+                  ]
+            }
+      ]
+},
     parent: "BH",
     type: "landmark",
     name: { de: "Sakhrat al-Khabiyah", hu: "Sakhrat al-Khabiyah", ro: "Sakhrat al-Khabiyah", en: "Sakhrat al-Khabiyah" },
@@ -723,7 +804,124 @@ export const bahrainReliefV2: POI[] = [
     image: "/poi-images/bahrain-jaradah-relief-v2.webp",
   },
   {
-    id: "bahrain-al-hamalah-relief-v2",
+    id: "bahrain-al-hamalah-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Imam Al Sajad mosque",
+                  "text": "Die Imam-Al-Sajad-Moschee ist ein aktives lokales islamisches Gebetszentrum, das dem Dorf Al Hamalah dient.",
+                  "category": "landmark",
+                  "coords": [
+                        50.497681,
+                        26.1459
+                  ]
+            },
+            {
+                  "name": "Ali Bin Ali grand mosque",
+                  "text": "Die große Ali-Bin-Ali-Moschee ist ein markantes islamisches Architekturwahrzeichen, das in Al Hamalah große Freitagsgemeinden beherbergt.",
+                  "category": "landmark",
+                  "coords": [
+                        50.496668,
+                        26.15196
+                  ]
+            },
+            {
+                  "name": "Waqif Central Market",
+                  "text": "Der Waqif Central Market ist ein geschäftiger traditioneller Marktplatz, auf dem in Al Hamalah lokale Produkte und Waren des täglichen Bedarfs angeboten werden.",
+                  "category": "cultural",
+                  "coords": [
+                        50.494359,
+                        26.143513
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Imam Al Sajad mosque",
+                  "text": "Az Imam Al Sajad mecset egy aktív helyi iszlám imaközpont, amely Al Hamalah falut szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        50.497681,
+                        26.1459
+                  ]
+            },
+            {
+                  "name": "Ali Bin Ali grand mosque",
+                  "text": "Az Ali Bin Ali nagymecset egy kiemelkedő iszlám építészeti nevezetesség, amely nagy pénteki gyülekezeteknek ad otthont Al Hamalah-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        50.496668,
+                        26.15196
+                  ]
+            },
+            {
+                  "name": "Waqif Central Market",
+                  "text": "A Waqif Central Market egy nyüzsgő hagyományos piac, amely helyi termékeket és napi cikkeket kínál Al Hamalah-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        50.494359,
+                        26.143513
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Imam Al Sajad mosque",
+                  "text": "Moscheea Imam Al Sajad este un centru activ de rugăciune islamică locală care deservește satul Al Hamalah.",
+                  "category": "landmark",
+                  "coords": [
+                        50.497681,
+                        26.1459
+                  ]
+            },
+            {
+                  "name": "Ali Bin Ali grand mosque",
+                  "text": "Marea Moschee Ali Bin Ali este un reper arhitectural islamic proeminent, care găzduiește mari congregații de vineri în Al Hamalah.",
+                  "category": "landmark",
+                  "coords": [
+                        50.496668,
+                        26.15196
+                  ]
+            },
+            {
+                  "name": "Waqif Central Market",
+                  "text": "Piața centrală Waqif este o piață tradițională plină de viață care oferă produse locale și mărfuri zilnice în Al Hamalah.",
+                  "category": "cultural",
+                  "coords": [
+                        50.494359,
+                        26.143513
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Imam Al Sajad mosque",
+                  "text": "The Imam Al Sajad Mosque is an active local Islamic prayer center serving the village of Al Hamalah.",
+                  "category": "landmark",
+                  "coords": [
+                        50.497681,
+                        26.1459
+                  ]
+            },
+            {
+                  "name": "Ali Bin Ali grand mosque",
+                  "text": "The Ali Bin Ali Grand Mosque is a prominent Islamic architectural landmark hosting large Friday congregations in Al Hamalah.",
+                  "category": "landmark",
+                  "coords": [
+                        50.496668,
+                        26.15196
+                  ]
+            },
+            {
+                  "name": "Waqif Central Market",
+                  "text": "Waqif Central Market is a bustling traditional marketplace offering local produce and daily goods in Al Hamalah.",
+                  "category": "cultural",
+                  "coords": [
+                        50.494359,
+                        26.143513
+                  ]
+            }
+      ]
+},
     parent: "BH",
     type: "landmark",
     name: { de: "Al-Hamalah", hu: "Al-Hamalah", ro: "Al-Hamalah", en: "Al-Hamalah" },
@@ -813,7 +1011,52 @@ export const bahrainReliefV2: POI[] = [
     image: "/poi-images/bahrain-ras-abu-jarjur-relief-v2.webp",
   },
   {
-    id: "bahrain-ras-mumalah-relief-v2",
+    id: "bahrain-ras-mumalah-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grand Mosque",
+                  "text": "Die Große Moschee von Ras Mumalah verfügt über eine große Gebetshalle, die für umfangreiche Freitagsgebete ausgelegt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        50.613629,
+                        25.834182
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grand Mosque",
+                  "text": "A Ras Mumalah-i Nagymecset egy nagy imateremmel rendelkezik, amely képes befogadni a jelentős pénteki gyülekezeti összejöveteleket.",
+                  "category": "landmark",
+                  "coords": [
+                        50.613629,
+                        25.834182
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grand Mosque",
+                  "text": "Marea Moschee din Ras Mumalah are o sală de rugăciune spațioasă, capabilă să găzduiască mari adunări ale congregației de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        50.613629,
+                        25.834182
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grand Mosque",
+                  "text": "The Grand Mosque of Ras Mumalah features a large prayer hall capable of hosting substantial Friday congregation gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        50.613629,
+                        25.834182
+                  ]
+            }
+      ]
+},
     parent: "BH",
     type: "landmark",
     name: { de: "Ras Mumalah", hu: "Ras Mumalah", ro: "Ras Mumalah", en: "Ras Mumalah" },
@@ -858,7 +1101,52 @@ export const bahrainReliefV2: POI[] = [
     image: "/poi-images/bahrain-ras-mumalah-relief-v2.webp",
   },
   {
-    id: "bahrain-ras-al-qurayn-relief-v2",
+    id: "bahrain-ras-al-qurayn-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ladies Prayer Hall",
+                  "text": "Diese spezielle Damengebetshalle bietet einen ruhigen, eigens für Frauen bestimmten islamischen Gottesdienstraum in der Gegend von Ras Al Qurayn.",
+                  "category": "landmark",
+                  "coords": [
+                        50.617641,
+                        25.829766
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ladies Prayer Hall",
+                  "text": "Ez a kifejezetten hölgyeknek fenntartott imaterem csendes, dedikált iszlám istentiszteleti teret kínál a nők számára a Ras Al Qurayn területén.",
+                  "category": "landmark",
+                  "coords": [
+                        50.617641,
+                        25.829766
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ladies Prayer Hall",
+                  "text": "Această sală de rugăciune pentru doamne oferă un spațiu de cult islamic liniștit și dedicat femeilor în zona Ras Al Qurayn.",
+                  "category": "landmark",
+                  "coords": [
+                        50.617641,
+                        25.829766
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ladies Prayer Hall",
+                  "text": "This specific Ladies Prayer Hall offers a quiet, dedicated Islamic worship space for women in the Ras Al Qurayn area.",
+                  "category": "landmark",
+                  "coords": [
+                        50.617641,
+                        25.829766
+                  ]
+            }
+      ]
+},
     parent: "BH",
     type: "landmark",
     name: { de: "Ras al-Qurayn", hu: "Ras al-Qurayn", ro: "Ras al-Qurayn", en: "Ras al-Qurayn" },
@@ -903,7 +1191,88 @@ export const bahrainReliefV2: POI[] = [
     image: "/poi-images/bahrain-ras-al-qurayn-relief-v2.webp",
   },
   {
-    id: "bahrain-umm-jidr-relief-v2",
+    id: "bahrain-umm-jidr-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bait Ishaq",
+                  "text": "Ein traditionelles Wohnhaus in der Nähe von Umm Jidr, das die historische Architektur und Lebensweise in Bahrain bewahrt.",
+                  "category": "landmark",
+                  "coords": [
+                        50.499688,
+                        26.100507
+                  ]
+            },
+            {
+                  "name": "Roundabout 14",
+                  "text": "Ein markanter Verkehrsknotenpunkt und lokaler Orientierungspunkt in der geplanten Wohnstadt Madinat Hamad.",
+                  "category": "landmark",
+                  "coords": [
+                        50.505482,
+                        26.096969
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bait Ishaq",
+                  "text": "Hagyományos lakóház Umm Jidr közelében, amely megőrzi Bahrein történelmi építészetét és életmódját.",
+                  "category": "landmark",
+                  "coords": [
+                        50.499688,
+                        26.100507
+                  ]
+            },
+            {
+                  "name": "Roundabout 14",
+                  "text": "Jellegzetes közlekedési csomópont és helyi tájékozódási pont Madinat Hamad tervezett lakóvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        50.505482,
+                        26.096969
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bait Ishaq",
+                  "text": "O casă tradițională lângă Umm Jidr, care conservă arhitectura istorică și modul de viață din Bahrain.",
+                  "category": "landmark",
+                  "coords": [
+                        50.499688,
+                        26.100507
+                  ]
+            },
+            {
+                  "name": "Roundabout 14",
+                  "text": "Un nod rutier proeminent și un punct de orientare local în orașul rezidențial planificat Madinat Hamad.",
+                  "category": "landmark",
+                  "coords": [
+                        50.505482,
+                        26.096969
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bait Ishaq",
+                  "text": "A traditional residential house near Umm Jidr, preserving Bahrain's historical architecture and way of life.",
+                  "category": "landmark",
+                  "coords": [
+                        50.499688,
+                        26.100507
+                  ]
+            },
+            {
+                  "name": "Roundabout 14",
+                  "text": "A prominent traffic junction and local landmark in the planned residential city of Madinat Hamad.",
+                  "category": "landmark",
+                  "coords": [
+                        50.505482,
+                        26.096969
+                  ]
+            }
+      ]
+},
     parent: "BH",
     type: "landmark",
     name: { de: "Umm Jidr", hu: "Umm Jidr", ro: "Umm Jidr", en: "Umm Jidr" },
@@ -948,7 +1317,448 @@ export const bahrainReliefV2: POI[] = [
     image: "/poi-images/bahrain-umm-jidr-relief-v2.webp",
   },
   {
-    id: "bahrain-al-markh-relief-v2",
+    id: "bahrain-al-markh-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Karzakkan Beach",
+                  "text": "Dieser Sandstrand im Westen Bahrains ist ein beliebter Ort für Entspannung am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        50.46984,
+                        26.106542
+                  ]
+            },
+            {
+                  "name": "Shaikh Moh’d Abu Rommana mosque",
+                  "text": "Eine lokale muslimische Moschee, die den spirituellen Bedürfnissen der Gemeinde Al Markh in Bahrain dient.",
+                  "category": "landmark",
+                  "coords": [
+                        50.47436,
+                        26.124724
+                  ]
+            },
+            {
+                  "name": "Karzakkan Grand Mosque",
+                  "text": "Diese große muslimische Moschee ist ein markantes architektonisches Wahrzeichen und ein Gotteshaus in Karzakkan.",
+                  "category": "landmark",
+                  "coords": [
+                        50.480967,
+                        26.113981
+                  ]
+            },
+            {
+                  "name": "Imam Hussain mosque",
+                  "text": "Diese islamische Moschee bietet tägliche Gottesdienste für die Gläubigen in der Region Al Markh.",
+                  "category": "landmark",
+                  "coords": [
+                        50.482582,
+                        26.104283
+                  ]
+            },
+            {
+                  "name": "Jamea Al Nabi Mohamed",
+                  "text": "Eine traditionelle muslimische Moschee, die als religiöses Zentrum für Gemeindegebete in Bahrain dient.",
+                  "category": "landmark",
+                  "coords": [
+                        50.488124,
+                        26.098114
+                  ]
+            },
+            {
+                  "name": "Imam Hassan mosque",
+                  "text": "Diese muslimische Moschee in der Gegend von Al Markh ist Gastgeber für religiöse Versammlungen und tägliche Gottesdienste.",
+                  "category": "landmark",
+                  "coords": [
+                        50.487521,
+                        26.110142
+                  ]
+            },
+            {
+                  "name": "Great Prophet mosque",
+                  "text": "Eine aktive muslimische Moschee, die den islamischen Lehren und den Gebeten der örtlichen Gemeinde in Bahrain gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        50.486119,
+                        26.115966
+                  ]
+            },
+            {
+                  "name": "Imam Ali mosque",
+                  "text": "Eine muslimische Gemeindemoschee in Bahrain, die tägliche Gottesdienste für die Bewohner ermöglicht.",
+                  "category": "landmark",
+                  "coords": [
+                        50.483392,
+                        26.118608
+                  ]
+            },
+            {
+                  "name": "AlRawdah mosque",
+                  "text": "Diese lokale muslimische Moschee dient als friedlicher Ort für islamische Gottesdienste im Bezirk Al Markh.",
+                  "category": "landmark",
+                  "coords": [
+                        50.47578,
+                        26.128086
+                  ]
+            },
+            {
+                  "name": "Al Qadam mosque",
+                  "text": "Diese muslimische Moschee, die der umliegenden Nachbarschaft dient, bietet einen ruhigen Raum für das Gebet in Bahrain.",
+                  "category": "landmark",
+                  "coords": [
+                        50.482658,
+                        26.115038
+                  ]
+            },
+            {
+                  "name": "Amir Zaid bin Sohan mosque",
+                  "text": "Diese bahrainisch-muslimische Moschee bietet Platz für die lokale islamische Gemeinde für das tägliche Gebet und das Freitagsgebet.",
+                  "category": "landmark",
+                  "coords": [
+                        50.481762,
+                        26.096581
+                  ]
+            },
+            {
+                  "name": "Imama Al Sajad Mosque",
+                  "text": "Eine prominente muslimische Moschee, die im Gebiet Al Markh spirituelle Führung und Gottesdienste anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        50.486153,
+                        26.125303
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Karzakkan Beach",
+                  "text": "A Nyugat-Bahreinben található homokos tengerpart népszerű hely a tengerparti kikapcsolódásra.",
+                  "category": "recreational",
+                  "coords": [
+                        50.46984,
+                        26.106542
+                  ]
+            },
+            {
+                  "name": "Shaikh Moh’d Abu Rommana mosque",
+                  "text": "Helyi muszlim mecset, amely az Al Markh közösség spirituális igényeit szolgálja Bahreinben.",
+                  "category": "landmark",
+                  "coords": [
+                        50.47436,
+                        26.124724
+                  ]
+            },
+            {
+                  "name": "Karzakkan Grand Mosque",
+                  "text": "Ez a nagyszerű muszlim mecset egy kiemelkedő építészeti tájékozódási pont és istentiszteleti hely Karzakkanban.",
+                  "category": "landmark",
+                  "coords": [
+                        50.480967,
+                        26.113981
+                  ]
+            },
+            {
+                  "name": "Imam Hussain mosque",
+                  "text": "Ez az iszlám mecset napi istentiszteleteket biztosít a hívők számára az Al Markh régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        50.482582,
+                        26.104283
+                  ]
+            },
+            {
+                  "name": "Jamea Al Nabi Mohamed",
+                  "text": "Hagyományos muszlim mecset, amely a gyülekezeti imák vallási központjaként működik Bahreinben.",
+                  "category": "landmark",
+                  "coords": [
+                        50.488124,
+                        26.098114
+                  ]
+            },
+            {
+                  "name": "Imam Hassan mosque",
+                  "text": "Az Al Markh térségében található muszlim mecset vallási összejöveteleknek és napi istentiszteleteknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        50.487521,
+                        26.110142
+                  ]
+            },
+            {
+                  "name": "Great Prophet mosque",
+                  "text": "Aktív muszlim mecset Bahreinben, amelyet az iszlám tanításoknak és a helyi közösségi imáknak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        50.486119,
+                        26.115966
+                  ]
+            },
+            {
+                  "name": "Imam Ali mosque",
+                  "text": "Közösségi muszlim mecset Bahreinben, amely megkönnyíti a lakosok napi gyülekezeti istentiszteleteit.",
+                  "category": "landmark",
+                  "coords": [
+                        50.483392,
+                        26.118608
+                  ]
+            },
+            {
+                  "name": "AlRawdah mosque",
+                  "text": "Ez a helyi muszlim mecset az iszlám istentisztelet békés helyszíneként szolgál az Al Markh negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        50.47578,
+                        26.128086
+                  ]
+            },
+            {
+                  "name": "Al Qadam mosque",
+                  "text": "A környező környéket kiszolgáló muszlim mecset csendes teret kínál az imádkozáshoz Bahreinben.",
+                  "category": "landmark",
+                  "coords": [
+                        50.482658,
+                        26.115038
+                  ]
+            },
+            {
+                  "name": "Amir Zaid bin Sohan mosque",
+                  "text": "Ez a bahreini muszlim mecset ad otthont a helyi iszlám gyülekezetnek a napi és a pénteki imákra.",
+                  "category": "landmark",
+                  "coords": [
+                        50.481762,
+                        26.096581
+                  ]
+            },
+            {
+                  "name": "Imama Al Sajad Mosque",
+                  "text": "Kiemelkedő muszlim mecset, amely spirituális útmutatást és imaszolgáltatásokat nyújt az Al Markh térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        50.486153,
+                        26.125303
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Karzakkan Beach",
+                  "text": "Situată în vestul Bahrainului, această plajă de coastă cu nisip este un loc popular pentru relaxare la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        50.46984,
+                        26.106542
+                  ]
+            },
+            {
+                  "name": "Shaikh Moh’d Abu Rommana mosque",
+                  "text": "O moschee musulmană locală care deservește nevoile spirituale ale comunității Al Markh din Bahrain.",
+                  "category": "landmark",
+                  "coords": [
+                        50.47436,
+                        26.124724
+                  ]
+            },
+            {
+                  "name": "Karzakkan Grand Mosque",
+                  "text": "Această mare moschee musulmană este un punct de reper arhitectural proeminent și un lăcaș de cult în Karzakkan.",
+                  "category": "landmark",
+                  "coords": [
+                        50.480967,
+                        26.113981
+                  ]
+            },
+            {
+                  "name": "Imam Hussain mosque",
+                  "text": "Această moschee islamică oferă servicii de rugăciune zilnică pentru credincioșii din regiunea Al Markh.",
+                  "category": "landmark",
+                  "coords": [
+                        50.482582,
+                        26.104283
+                  ]
+            },
+            {
+                  "name": "Jamea Al Nabi Mohamed",
+                  "text": "O moschee musulmană tradițională care acționează ca un centru religios pentru rugăciunile congregaționale din Bahrain.",
+                  "category": "landmark",
+                  "coords": [
+                        50.488124,
+                        26.098114
+                  ]
+            },
+            {
+                  "name": "Imam Hassan mosque",
+                  "text": "Situată în zona Al Markh, această moschee musulmană găzduiește adunări religioase și închinare zilnică.",
+                  "category": "landmark",
+                  "coords": [
+                        50.487521,
+                        26.110142
+                  ]
+            },
+            {
+                  "name": "Great Prophet mosque",
+                  "text": "O moschee musulmană activă dedicată învățăturilor islamice și rugăciunilor comunității locale din Bahrain.",
+                  "category": "landmark",
+                  "coords": [
+                        50.486119,
+                        26.115966
+                  ]
+            },
+            {
+                  "name": "Imam Ali mosque",
+                  "text": "O moschee musulmană comunitară din Bahrain care facilitează slujbele congregaționale zilnice pentru rezidenți.",
+                  "category": "landmark",
+                  "coords": [
+                        50.483392,
+                        26.118608
+                  ]
+            },
+            {
+                  "name": "AlRawdah mosque",
+                  "text": "Această moschee musulmană locală servește ca un loc liniștit pentru închinarea islamică în districtul Al Markh.",
+                  "category": "landmark",
+                  "coords": [
+                        50.47578,
+                        26.128086
+                  ]
+            },
+            {
+                  "name": "Al Qadam mosque",
+                  "text": "Deservind cartierul înconjurător, această moschee musulmană oferă un spațiu liniștit pentru rugăciune în Bahrain.",
+                  "category": "landmark",
+                  "coords": [
+                        50.482658,
+                        26.115038
+                  ]
+            },
+            {
+                  "name": "Amir Zaid bin Sohan mosque",
+                  "text": "Această moschee musulmană din Bahrain găzduiește congregația islamică locală pentru rugăciunile zilnice și de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        50.481762,
+                        26.096581
+                  ]
+            },
+            {
+                  "name": "Imama Al Sajad Mosque",
+                  "text": "O moschee musulmană proeminentă care oferă îndrumare spirituală și servicii de rugăciune în zona Al Markh.",
+                  "category": "landmark",
+                  "coords": [
+                        50.486153,
+                        26.125303
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Karzakkan Beach",
+                  "text": "Located in western Bahrain, this sandy coastal beach is a popular spot for seaside relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        50.46984,
+                        26.106542
+                  ]
+            },
+            {
+                  "name": "Shaikh Moh’d Abu Rommana mosque",
+                  "text": "A local Muslim mosque serving the spiritual needs of the Al Markh community in Bahrain.",
+                  "category": "landmark",
+                  "coords": [
+                        50.47436,
+                        26.124724
+                  ]
+            },
+            {
+                  "name": "Karzakkan Grand Mosque",
+                  "text": "This grand Muslim mosque is a prominent architectural landmark and place of worship in Karzakkan.",
+                  "category": "landmark",
+                  "coords": [
+                        50.480967,
+                        26.113981
+                  ]
+            },
+            {
+                  "name": "Imam Hussain mosque",
+                  "text": "This Islamic mosque provides daily prayer services for the faithful in the Al Markh region.",
+                  "category": "landmark",
+                  "coords": [
+                        50.482582,
+                        26.104283
+                  ]
+            },
+            {
+                  "name": "Jamea Al Nabi Mohamed",
+                  "text": "A traditional Muslim mosque acting as a religious center for congregational prayers in Bahrain.",
+                  "category": "landmark",
+                  "coords": [
+                        50.488124,
+                        26.098114
+                  ]
+            },
+            {
+                  "name": "Imam Hassan mosque",
+                  "text": "Situated in the Al Markh area, this Muslim mosque hosts religious gatherings and daily worship.",
+                  "category": "landmark",
+                  "coords": [
+                        50.487521,
+                        26.110142
+                  ]
+            },
+            {
+                  "name": "Great Prophet mosque",
+                  "text": "An active Muslim mosque dedicated to Islamic teachings and local community prayers in Bahrain.",
+                  "category": "landmark",
+                  "coords": [
+                        50.486119,
+                        26.115966
+                  ]
+            },
+            {
+                  "name": "Imam Ali mosque",
+                  "text": "A community Muslim mosque in Bahrain that facilitates daily congregational services for residents.",
+                  "category": "landmark",
+                  "coords": [
+                        50.483392,
+                        26.118608
+                  ]
+            },
+            {
+                  "name": "AlRawdah mosque",
+                  "text": "This local Muslim mosque serves as a peaceful venue for Islamic worship in the Al Markh district.",
+                  "category": "landmark",
+                  "coords": [
+                        50.47578,
+                        26.128086
+                  ]
+            },
+            {
+                  "name": "Al Qadam mosque",
+                  "text": "Serving the surrounding neighborhood, this Muslim mosque offers a tranquil space for prayer in Bahrain.",
+                  "category": "landmark",
+                  "coords": [
+                        50.482658,
+                        26.115038
+                  ]
+            },
+            {
+                  "name": "Amir Zaid bin Sohan mosque",
+                  "text": "This Bahraini Muslim mosque accommodates the local Islamic congregation for daily and Friday prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        50.481762,
+                        26.096581
+                  ]
+            },
+            {
+                  "name": "Imama Al Sajad Mosque",
+                  "text": "A prominent Muslim mosque providing spiritual guidance and prayer services in the Al Markh area.",
+                  "category": "landmark",
+                  "coords": [
+                        50.486153,
+                        26.125303
+                  ]
+            }
+      ]
+},
     parent: "BH",
     type: "landmark",
     name: { de: "Al-Markh", hu: "Al-Markh", ro: "Al-Markh", en: "Al-Markh" },
@@ -1173,7 +1983,52 @@ export const bahrainReliefV2: POI[] = [
     image: "/poi-images/bahrain-jazirat-mashtan-relief-v2.webp",
   },
   {
-    id: "bahrain-al-hajiyat-relief-v2",
+    id: "bahrain-al-hajiyat-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bin Tooq Mosque",
+                  "text": "Die Bin Tooq Moschee bietet ein spirituelles Heiligtum und tägliche Gebetsgottesdienste für die Gläubigen im Viertel Al Hajiyat.",
+                  "category": "landmark",
+                  "coords": [
+                        50.572345,
+                        26.121675
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bin Tooq Mosque",
+                  "text": "A Bin Tooq mecset spirituális menedéket és napi istentiszteletet biztosít az Al Hajiyat negyed hívői számára.",
+                  "category": "landmark",
+                  "coords": [
+                        50.572345,
+                        26.121675
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bin Tooq Mosque",
+                  "text": "Moscheea Bin Tooq oferă un sanctuar spiritual și slujbe de rugăciune zilnice pentru credincioșii din cartierul Al Hajiyat.",
+                  "category": "landmark",
+                  "coords": [
+                        50.572345,
+                        26.121675
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bin Tooq Mosque",
+                  "text": "Bin Tooq Mosque provides a spiritual sanctuary and daily prayer services for the believers in the Al Hajiyat neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        50.572345,
+                        26.121675
+                  ]
+            }
+      ]
+},
     parent: "BH",
     type: "landmark",
     name: { de: "Al-Hajiyat", hu: "Al-Hajiyat", ro: "Al-Hajiyat", en: "Al-Hajiyat" },

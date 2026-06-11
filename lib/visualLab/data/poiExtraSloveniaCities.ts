@@ -8,7 +8,7 @@ export const poiExtraSloveniaCities: POI[] = [
       "de": [
             {
                   "name": "Mestni muzej Ljubljana",
-                  "text": "Das Mestni muzej Ljubljana ist das Stadtmuseum der slowenischen Hauptstadt Ljubljana.",
+                  "text": "Das Stadtmuseum Ljubljana ist im ehemaligen Auersperg-Palast aus dem 18. Jahrhundert in der Altstadt untergebracht.",
                   "category": "museum",
                   "coords": [
                         14.504024,
@@ -107,7 +107,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Galetov grad",
-                  "text": "Galetov grad ist ein historisches Herrenhaus in Ljubljana.",
+                  "text": "Galetov grad ist eine Burgruine auf einem Hügel oberhalb von Ljubljana.",
                   "category": "historical",
                   "coords": [
                         14.489651,
@@ -134,7 +134,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Mestna občina Ljubljana",
-                  "text": "Dies ist das historische Rathaus, in dem sich die Stadtverwaltung von Ljubljana befindet.",
+                  "text": "Das Rathaus von Ljubljana (Mestna hiša) ist ein gotisch-renaissancezeitlicher Bau mit einem Glockenturm am Hauptplatz.",
                   "category": "historical",
                   "coords": [
                         14.507157,
@@ -206,7 +206,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Cerkev Marijinega obiskanja",
-                  "text": "Die Kirche Mariä Heimsuchung ist eine historische Kultstätte in Ljubljana.",
+                  "text": "Die Kirche Mariä Heimsuchung ist eine barocke Wallfahrtskirche im Vorort Trnovo.",
                   "category": "religious",
                   "coords": [
                         14.47735,
@@ -224,7 +224,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Uršulinska cerkev svete Trojice",
-                  "text": "Die Ursulinenkirche der Heiligen Dreifaltigkeit ist eine bekannte barocke Kirche in Ljubljana.",
+                  "text": "Die Ursulinenkirche zur Heiligen Dreifaltigkeit ist eine barocke Kirche am Kongressplatz mit einer Dreifaltigkeitssäule davor.",
                   "category": "religious",
                   "coords": [
                         14.501926,
@@ -287,7 +287,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Krakovska kapelica",
-                  "text": "Die Krakovska kapelica ist eine kleine, historische Kapelle in Ljubljana.",
+                  "text": "Die Krakovska-Kapelle ist eine gotische Kapelle im historischen Viertel Krakovo.",
                   "category": "religious",
                   "coords": [
                         14.502233,
@@ -413,7 +413,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Miklošičev park",
-                  "text": "Der Miklošičev park ist ein öffentlicher Park in Ljubljana.",
+                  "text": "Der Miklošičev-Park ist ein kleiner Park mit einer Statue des Sprachwissenschaftlers Franc Miklošič.",
                   "category": "park",
                   "coords": [
                         14.506531,
@@ -422,7 +422,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Ambrožev trg",
-                  "text": "Ambrožev trg ist ein Park und Platz in Ljubljana.",
+                  "text": "Der Ambrožev trg ist ein Platz im Stadtzentrum, benannt nach dem Dichter Ambrož.",
                   "category": "park",
                   "coords": [
                         14.517666,
@@ -449,7 +449,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Spomenik Ć",
-                  "text": "Spomenik Ć ist ein öffentliches Denkmal in Ljubljana.",
+                  "text": "Das Denkmal Ć (Spomenik Ć) ist ein modernes Denkmal, das 2023 in Ljubljana errichtet wurde.",
                   "category": "historical",
                   "coords": [
                         14.515419,
@@ -458,7 +458,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Grad Rakovnik",
-                  "text": "Grad Rakovnik ist ein historisches Herrenhaus in Ljubljana.",
+                  "text": "Grad Rakovnik ist ein historisches Herrenhaus am Stadtrand von Ljubljana.",
                   "category": "historical",
                   "coords": [
                         14.525945,
@@ -467,7 +467,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Vodni hram Debeli hrib",
-                  "text": "Vodni hram Debeli hrib ist ein Wasserreservoir oder See in Ljubljana.",
+                  "text": "Eine natürliche Quelle am Debeli hrib in Ljubljana.",
                   "category": "natural",
                   "coords": [
                         14.481379,
@@ -494,7 +494,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "igrišče Žabji skok",
-                  "text": "Playground Frog hop ist ein unterhaltsamer Bereich für Kinder in Ljubljana.",
+                  "text": "Ein Spielplatz mit Frosch-Motiven in Ljubljana.",
                   "category": "family",
                   "coords": [
                         14.471228,
@@ -512,7 +512,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Pod skakalnico",
-                  "text": "Pod skakalnico ist ein Spielplatz in Ljubljana, ideal für Familienaktivitäten.",
+                  "text": "Ein Freizeitbereich unterhalb der Skisprungschanze in Ljubljana.",
                   "category": "family",
                   "coords": [
                         14.488297,
@@ -550,7 +550,7 @@ export const poiExtraSloveniaCities: POI[] = [
       "hu": [
             {
                   "name": "Mestni muzej Ljubljana",
-                  "text": "A Mestni muzej Ljubljana Szlovénia fővárosának városi múzeuma.",
+                  "text": "A Ljubljanai Városi Múzeum a 18. századi Auersperg-palotában található az óvárosban.",
                   "category": "museum",
                   "coords": [
                         14.504024,
@@ -649,7 +649,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Galetov grad",
-                  "text": "A Galetov grad egy történelmi kúria Ljubljana területén.",
+                  "text": "A Galetov grad egy várrom a Ljubljana feletti dombon.",
                   "category": "historical",
                   "coords": [
                         14.489651,
@@ -676,7 +676,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Mestna občina Ljubljana",
-                  "text": "Ez a történelmi városháza ad otthont Ljubljana önkormányzatának.",
+                  "text": "A Ljubljanai Városháza (Mestna hiša) egy gótikus-reneszánsz épület harangtoronnyal a főtéren.",
                   "category": "historical",
                   "coords": [
                         14.507157,
@@ -748,7 +748,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Cerkev Marijinega obiskanja",
-                  "text": "A Mária látogatása templom egy történelmi istentiszteleti hely Ljubljana városában.",
+                  "text": "A Látogatás-templom egy barokk zarándoktemplom a Trnovo negyedben.",
                   "category": "religious",
                   "coords": [
                         14.47735,
@@ -766,7 +766,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Uršulinska cerkev svete Trojice",
-                  "text": "A Szentháromság Orsolya-rendi templom egy jelentős barokk stílusú egyházi épület Ljubljana területén.",
+                  "text": "A Szentháromság-templom (Ursulinák) egy barokk templom a Kongresszus téren, előtte a Szentháromság-szoborral.",
                   "category": "religious",
                   "coords": [
                         14.501926,
@@ -829,7 +829,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Krakovska kapelica",
-                  "text": "A Krakovska kapelica egy kis történelmi kápolna Ljubljana területén.",
+                  "text": "A Krakovska-kápolna egy gótikus kápolna a történelmi Krakovo negyedben.",
                   "category": "religious",
                   "coords": [
                         14.502233,
@@ -955,7 +955,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Miklošičev park",
-                  "text": "A Miklošičev park egy köztér és park Ljubljanában.",
+                  "text": "A Miklošičev park egy kis park, benne Franc Miklošič nyelvész szobrával.",
                   "category": "park",
                   "coords": [
                         14.506531,
@@ -964,7 +964,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Ambrožev trg",
-                  "text": "Az Ambrožev trg egy park és tér Ljubljanában.",
+                  "text": "Az Ambrožev trg egy tér a városközpontban, Ambrož költőről elnevezve.",
                   "category": "park",
                   "coords": [
                         14.517666,
@@ -991,7 +991,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Spomenik Ć",
-                  "text": "A Spomenik Ć egy köztéri emlékmű Ljubljanában.",
+                  "text": "A Ć-emlékmű (Spomenik Ć) egy modern emlékmű, amelyet 2023-ban avattak Ljubljanában.",
                   "category": "historical",
                   "coords": [
                         14.515419,
@@ -1000,7 +1000,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Grad Rakovnik",
-                  "text": "A Grad Rakovnik egy történelmi udvarház Ljubljanában.",
+                  "text": "A Grad Rakovnik egy történelmi kúria Ljubljana külvárosában.",
                   "category": "historical",
                   "coords": [
                         14.525945,
@@ -1009,7 +1009,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Vodni hram Debeli hrib",
-                  "text": "A Vodni hram Debeli hrib egy víztározó vagy tó Ljubljanában.",
+                  "text": "Egy természetes forrás a Debeli hrib-en Ljubljanában.",
                   "category": "natural",
                   "coords": [
                         14.481379,
@@ -1036,7 +1036,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "igrišče Žabji skok",
-                  "text": "A Playground Frog hop egy szórakoztató terület gyerekeknek Ljubljanában.",
+                  "text": "Egy béka témájú játszótér Ljubljanában.",
                   "category": "family",
                   "coords": [
                         14.471228,
@@ -1054,7 +1054,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Pod skakalnico",
-                  "text": "A Pod skakalnico egy játszótér Ljubljana területén, amely ideális családi tevékenységekhez.",
+                  "text": "Egy szabadidős terület a síugró-sánc alatt Ljubljanában.",
                   "category": "family",
                   "coords": [
                         14.488297,
@@ -1092,7 +1092,7 @@ export const poiExtraSloveniaCities: POI[] = [
       "ro": [
             {
                   "name": "Mestni muzej Ljubljana",
-                  "text": "Mestni muzej Ljubljana este muzeul orașului în capitala Sloveniei.",
+                  "text": "Muzeul Orașului Ljubljana este găzduit în Palatul Auersperg din secolul al XVIII-lea, în centrul vechi.",
                   "category": "museum",
                   "coords": [
                         14.504024,
@@ -1191,7 +1191,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Galetov grad",
-                  "text": "Galetov grad este un conac istoric situat în Ljubljana.",
+                  "text": "Galetov grad este o ruină de castel pe un deal deasupra Ljubljanei.",
                   "category": "historical",
                   "coords": [
                         14.489651,
@@ -1218,7 +1218,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Mestna občina Ljubljana",
-                  "text": "Aceasta este primăria istorică care găzduiește municipalitatea din Ljubljana.",
+                  "text": "Primăria din Ljubljana (Mestna hiša) este o clădire gotic-renascentistă cu un turn cu ceas în piața principală.",
                   "category": "historical",
                   "coords": [
                         14.507157,
@@ -1290,7 +1290,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Cerkev Marijinega obiskanja",
-                  "text": "Biserica Vizitarea Mariei este un lăcaș de cult istoric situat în Ljubljana.",
+                  "text": "Biserica Vizitării Mariei este o biserică barocă de pelerinaj în cartierul Trnovo.",
                   "category": "religious",
                   "coords": [
                         14.47735,
@@ -1308,7 +1308,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Uršulinska cerkev svete Trojice",
-                  "text": "Biserica Ursulinelor Sfânta Treime este o biserică barocă distinctivă din Ljubljana.",
+                  "text": "Biserica Ursulinelor a Sfintei Treimi este o biserică barocă în Piața Congresului, cu o statuie a Sfintei Treimi în față.",
                   "category": "religious",
                   "coords": [
                         14.501926,
@@ -1371,7 +1371,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Krakovska kapelica",
-                  "text": "Krakovska kapelica este o mică capelă istorică situată în Ljubljana.",
+                  "text": "Capela Krakovska este o capelă gotică în cartierul istoric Krakovo.",
                   "category": "religious",
                   "coords": [
                         14.502233,
@@ -1497,7 +1497,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Miklošičev park",
-                  "text": "Miklošičev park este un parc public situat în Ljubljana.",
+                  "text": "Parcul Miklošičev este un parc mic cu o statuie a lingvistului Franc Miklošič.",
                   "category": "park",
                   "coords": [
                         14.506531,
@@ -1506,7 +1506,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Ambrožev trg",
-                  "text": "Ambrožev trg este un parc și o piață situată în Ljubljana.",
+                  "text": "Piața Ambrožev trg este o piață în centrul orașului, numită după poetul Ambrož.",
                   "category": "park",
                   "coords": [
                         14.517666,
@@ -1533,7 +1533,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Spomenik Ć",
-                  "text": "Spomenik Ć este un monument public situat în Ljubljana.",
+                  "text": "Monumentul Ć (Spomenik Ć) este un monument modern ridicat în 2023 în Ljubljana.",
                   "category": "historical",
                   "coords": [
                         14.515419,
@@ -1542,7 +1542,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Grad Rakovnik",
-                  "text": "Grad Rakovnik este un conac istoric din Ljubljana.",
+                  "text": "Grad Rakovnik este un conac istoric la periferia Ljubljanei.",
                   "category": "historical",
                   "coords": [
                         14.525945,
@@ -1551,7 +1551,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Vodni hram Debeli hrib",
-                  "text": "Vodni hram Debeli hrib este un rezervor de apă sau lac în Ljubljana.",
+                  "text": "Un izvor natural pe dealul Debeli hrib din Ljubljana.",
                   "category": "natural",
                   "coords": [
                         14.481379,
@@ -1578,7 +1578,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "igrišče Žabji skok",
-                  "text": "Playground Frog hop este o zonă distractivă pentru copii în Ljubljana.",
+                  "text": "Un loc de joacă cu tematică broască în Ljubljana.",
                   "category": "family",
                   "coords": [
                         14.471228,
@@ -1596,7 +1596,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Pod skakalnico",
-                  "text": "Pod skakalnico este un teren de joacă situat în Ljubljana, ideal pentru activități de familie.",
+                  "text": "O zonă de agrement sub trambulina de sărituri cu schiurile din Ljubljana.",
                   "category": "family",
                   "coords": [
                         14.488297,
@@ -1634,7 +1634,7 @@ export const poiExtraSloveniaCities: POI[] = [
       "en": [
             {
                   "name": "Mestni muzej Ljubljana",
-                  "text": "The Mestni muzej Ljubljana is the city museum of Slovenia's capital, Ljubljana.",
+                  "text": "The City Museum of Ljubljana is housed in the 18th-century Auersperg Palace in the old town.",
                   "category": "museum",
                   "coords": [
                         14.504024,
@@ -1733,7 +1733,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Galetov grad",
-                  "text": "Galetov grad is a historical manor house located in Ljubljana.",
+                  "text": "Galetov grad is a ruined castle on a hill overlooking Ljubljana.",
                   "category": "historical",
                   "coords": [
                         14.489651,
@@ -1760,7 +1760,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Mestna občina Ljubljana",
-                  "text": "This historic townhall is the seat of the municipality of Ljubljana.",
+                  "text": "Ljubljana Town Hall (Mestna hiša) is a Gothic-Renaissance building with a clock tower on the main square.",
                   "category": "historical",
                   "coords": [
                         14.507157,
@@ -1832,7 +1832,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Visitation of Mary Church",
-                  "text": "The Visitation of Mary Church is a historic place of worship located in Ljubljana.",
+                  "text": "Visitation of Mary Church is a Baroque pilgrimage church in the Trnovo district.",
                   "category": "religious",
                   "coords": [
                         14.47735,
@@ -1850,7 +1850,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Ursuline Church of the Holy Trinity",
-                  "text": "The Ursuline Church of the Holy Trinity is a distinctive Baroque church situated in Ljubljana.",
+                  "text": "The Ursuline Church of the Holy Trinity is a Baroque church on Congress Square, fronted by a Holy Trinity statue.",
                   "category": "religious",
                   "coords": [
                         14.501926,
@@ -1913,7 +1913,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Krakovska kapelica",
-                  "text": "Krakovska kapelica is a small, historical chapel located in Ljubljana.",
+                  "text": "Krakovska kapelica is a Gothic chapel in the historic Krakovo district.",
                   "category": "religious",
                   "coords": [
                         14.502233,
@@ -2039,7 +2039,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Miklošičev park",
-                  "text": "Miklošičev park is a public park located in Ljubljana.",
+                  "text": "Miklošičev park is a small park with a statue of linguist Franc Miklošič.",
                   "category": "park",
                   "coords": [
                         14.506531,
@@ -2048,7 +2048,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Ambrožev trg",
-                  "text": "Ambrožev trg is a park and square situated in Ljubljana.",
+                  "text": "Ambrožev trg is a square in the city center, named after the poet Ambrož.",
                   "category": "park",
                   "coords": [
                         14.517666,
@@ -2075,7 +2075,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Spomenik Ć",
-                  "text": "Spomenik Ć is a public monument located in Ljubljana.",
+                  "text": "Spomenik Ć (Monument Ć) is a modern monument erected in 2023 in Ljubljana.",
                   "category": "historical",
                   "coords": [
                         14.515419,
@@ -2084,7 +2084,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Grad Rakovnik",
-                  "text": "Grad Rakovnik is a historic manor house in Ljubljana.",
+                  "text": "Grad Rakovnik is a historic manor house on the outskirts of Ljubljana.",
                   "category": "historical",
                   "coords": [
                         14.525945,
@@ -2093,7 +2093,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Vodni hram Debeli hrib",
-                  "text": "Vodni hram Debeli hrib is a water reservoir or lake in Ljubljana.",
+                  "text": "A natural spring on Debeli hrib hill in Ljubljana.",
                   "category": "natural",
                   "coords": [
                         14.481379,
@@ -2120,7 +2120,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Playground Frog hop",
-                  "text": "Playground Frog hop is a fun area for children in Ljubljana.",
+                  "text": "A frog-themed playground in Ljubljana.",
                   "category": "family",
                   "coords": [
                         14.471228,
@@ -2138,7 +2138,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Pod skakalnico",
-                  "text": "Pod skakalnico is a playground located in Ljubljana, ideal for family activities.",
+                  "text": "A recreational area beneath the ski-jumping hill in Ljubljana.",
                   "category": "family",
                   "coords": [
                         14.488297,
@@ -2252,7 +2252,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Dvorec Betnava",
-                  "text": "Ein barockes Schloss am Stadtrand von Maribor.",
+                  "text": "Dvorec Betnava ist ein Renaissanceschloss mit einem großen Park bei Maribor.",
                   "category": "castle",
                   "coords": [
                         15.639859,
@@ -2279,7 +2279,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Medieval wall ruins",
-                  "text": "Überreste der mittelalterlichen Stadtmauer von Maribor.",
+                  "text": "Reste der mittelalterlichen Stadtmauer von Maribor entlang der Drau.",
                   "category": "historical",
                   "coords": [
                         15.642594,
@@ -2306,7 +2306,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Trafika - Muzej za enega",
-                  "text": "Ein winziges Museum in einem ehemaligen Kiosk in Maribor.",
+                  "text": "Ein winziges Museum in einem ehemaligen Kiosk, das nur einen Besucher aufnimmt.",
                   "category": "museum",
                   "coords": [
                         15.645695,
@@ -2342,7 +2342,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Samotni bor",
-                  "text": "Ein markanter Punkt mit Aussicht in der Nähe von Maribor.",
+                  "text": "Der Samotni bor (Einsame Kiefer) ist eine einsame Kiefer auf einem Hügel mit Blick auf Maribor.",
                   "category": "natural",
                   "coords": [
                         15.635272,
@@ -2387,7 +2387,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Jožefov studenec",
-                  "text": "Eine historische Quelle oder ein Brunnen in Maribor.",
+                  "text": "Ein 1930 erbauter Brunnen in Maribor.",
                   "category": "landmark",
                   "coords": [
                         15.631315,
@@ -2396,7 +2396,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Razgledišče Pri sedmih hrastih",
-                  "text": "Ein Aussichtspunkt in Maribor, bekannt als „Bei den sieben Eichen“.",
+                  "text": "Ein Aussichtspunkt bei sieben alten Eichen mit Blick auf Maribor.",
                   "category": "natural",
                   "coords": [
                         15.642823,
@@ -2405,7 +2405,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "VIM1",
-                  "text": "Ein Aussichtspunkt in Maribor mit Blick auf die Stadt.",
+                  "text": "Ein kleines Naturdenkmal mit der Bezeichnung VIM1 in der Umgebung von Maribor.",
                   "category": "natural",
                   "coords": [
                         15.683964,
@@ -2450,7 +2450,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Galerija K18",
-                  "text": "Ein zeitgenössischer Kunstraum und eine Galerie in Maribor.",
+                  "text": "Eine Galerie für zeitgenössische Kunst in einem historischen Keller in der K18-Straße in Maribor.",
                   "category": "museum",
                   "coords": [
                         15.642713,
@@ -2468,7 +2468,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Doprsni spomenik",
-                  "text": "Eine Büste, die an eine bedeutende Persönlichkeit in Maribor erinnert.",
+                  "text": "Eine Bronzebüste einer bedeutenden Persönlichkeit in einem Park in Maribor.",
                   "category": "historical",
                   "coords": [
                         15.623894,
@@ -2495,7 +2495,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Stolna cerkev sv. Janeza Krstnika",
-                  "text": "Die Kathedrale des Heiligen Johannes des Täufers ist der Sitz der Diözese Maribor.",
+                  "text": "Die Kathedrale des heiligen Johannes des Täufers ist eine gotische Kathedrale im Stadtzentrum von Maribor.",
                   "category": "religious",
                   "coords": [
                         15.64502,
@@ -2504,7 +2504,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Evangeličanska cerkev",
-                  "text": "Eine evangelische Kirche in Maribor.",
+                  "text": "Die Evangeličanska cerkev ist eine lutherische Kirche im Stadtzentrum von Maribor.",
                   "category": "religious",
                   "coords": [
                         15.644026,
@@ -2513,7 +2513,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Kapela",
-                  "text": "Eine kleine Kapelle für Gottesdienste in Maribor.",
+                  "text": "Die Kapela ist eine kleine Kapelle in Maribor.",
                   "category": "religious",
                   "coords": [
                         15.665007,
@@ -2522,7 +2522,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Kapela sv. Ane",
-                  "text": "Eine barocke Kapelle zu Ehren der Heiligen Anna in Maribor.",
+                  "text": "Die Kapelle der Hl. Anna ist eine barocke Kapelle im Stadtteil Ribniško selo in Maribor.",
                   "category": "religious",
                   "coords": [
                         15.638704,
@@ -2605,7 +2605,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Dvorec Betnava",
-                  "text": "Barokk kastély Maribor szélén.",
+                  "text": "A Dvorec Betnava egy reneszánsz kastély nagy parkkal Maribor mellett.",
                   "category": "castle",
                   "coords": [
                         15.639859,
@@ -2632,7 +2632,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Medieval wall ruins",
-                  "text": "Maribor középkori városfalának maradványai.",
+                  "text": "A maribori középkori városfal maradványai a Dráva mentén.",
                   "category": "historical",
                   "coords": [
                         15.642594,
@@ -2659,7 +2659,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Trafika - Muzej za enega",
-                  "text": "Apró múzeum egy egykori kioszkban Mariborban.",
+                  "text": "Egy apró múzeum egy egykori újságosbódéban, amely egyszerre csak egy látogatót fogad.",
                   "category": "museum",
                   "coords": [
                         15.645695,
@@ -2695,7 +2695,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Samotni bor",
-                  "text": "Jellegzetes kilátópont Maribor közelében.",
+                  "text": "A Samotni bor (Magányos fenyő) egy magányos fenyőfa egy dombon, Mariborra nézve.",
                   "category": "natural",
                   "coords": [
                         15.635272,
@@ -2740,7 +2740,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Jožefov studenec",
-                  "text": "Történelmi forrás vagy kút Mariborban.",
+                  "text": "Egy 1930-ban épült kút Mariborban.",
                   "category": "landmark",
                   "coords": [
                         15.631315,
@@ -2749,7 +2749,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Razgledišče Pri sedmih hrastih",
-                  "text": "Kilátóhely Mariborban, az „A hét tölgynél” néven ismert területen.",
+                  "text": "Egy kilátópont hét öreg tölgy mellett, Mariborra nézve.",
                   "category": "natural",
                   "coords": [
                         15.642823,
@@ -2758,7 +2758,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "VIM1",
-                  "text": "Kilátóhely Mariborban, ahonnan rálátni a városra.",
+                  "text": "Egy kis természeti emlék a VIM1 jelöléssel Maribor környékén.",
                   "category": "natural",
                   "coords": [
                         15.683964,
@@ -2803,7 +2803,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Galerija K18",
-                  "text": "Kortárs művészeti tér és galéria Mariborban.",
+                  "text": "Egy kortárs művészeti galéria egy történelmi pincében a maribori K18 utcában.",
                   "category": "museum",
                   "coords": [
                         15.642713,
@@ -2821,7 +2821,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Doprsni spomenik",
-                  "text": "Egy jelentős személyiség emlékére állított mellszobor Mariborban.",
+                  "text": "Egy bronz mellszobor egy jelentős személyiségről egy maribori parkban.",
                   "category": "historical",
                   "coords": [
                         15.623894,
@@ -2848,7 +2848,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Keresztelő Szent János-székesegyház",
-                  "text": "A Keresztelő Szent János-székesegyház a Maribori egyházmegye központja.",
+                  "text": "A Keresztelő Szent János-székesegyház egy gótikus katedrális Maribor óvárosában.",
                   "category": "religious",
                   "coords": [
                         15.64502,
@@ -2857,7 +2857,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Evangeličanska cerkev",
-                  "text": "Evangélikus templom Mariborban.",
+                  "text": "Az Evangeličanska cerkev egy evangélikus templom Maribor belvárosában.",
                   "category": "religious",
                   "coords": [
                         15.644026,
@@ -2866,7 +2866,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Kapela",
-                  "text": "Kis kápolna Mariborban.",
+                  "text": "A Kapela egy kis kápolna Mariborban.",
                   "category": "religious",
                   "coords": [
                         15.665007,
@@ -2875,7 +2875,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Kapela sv. Ane",
-                  "text": "Szent Anna tiszteletére szentelt barokk kápolna Mariborban.",
+                  "text": "A Szent Anna-kápolna egy barokk kápolna a maribori Ribniško selo városrészben.",
                   "category": "religious",
                   "coords": [
                         15.638704,
@@ -2958,7 +2958,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Dvorec Betnava",
-                  "text": "Un castel baroc situat la periferia orașului Maribor.",
+                  "text": "Dvorec Betnava este un castel renascentist cu un parc mare lângă Maribor.",
                   "category": "castle",
                   "coords": [
                         15.639859,
@@ -2985,7 +2985,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Medieval wall ruins",
-                  "text": "Rămășițele zidurilor medievale ale orașului Maribor.",
+                  "text": "Vestigiile zidului medieval al orașului Maribor de-a lungul râului Drava.",
                   "category": "historical",
                   "coords": [
                         15.642594,
@@ -3012,7 +3012,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Trafika - Muzej za enega",
-                  "text": "Un muzeu minuscul situat într-un fost chioșc din Maribor.",
+                  "text": "Un muzeu minuscul într-un fost chioșc, care primește un singur vizitator odată.",
                   "category": "museum",
                   "coords": [
                         15.645695,
@@ -3048,7 +3048,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Samotni bor",
-                  "text": "Un punct de observație distinctiv lângă Maribor.",
+                  "text": "Samotni bor (Pinul Solitar) este un pin solitar pe un deal care oferă vedere spre Maribor.",
                   "category": "natural",
                   "coords": [
                         15.635272,
@@ -3093,7 +3093,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Jožefov studenec",
-                  "text": "O sursă istorică de apă sau o fântână în Maribor.",
+                  "text": "Un puț construit în 1930 în Maribor.",
                   "category": "landmark",
                   "coords": [
                         15.631315,
@@ -3102,7 +3102,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Razgledišče Pri sedmih hrastih",
-                  "text": "Un punct de belvedere în Maribor, cunoscut sub numele de „La cei șapte stejari”.",
+                  "text": "Un punct de belvedere lângă șapte stejari bătrâni, cu vedere spre Maribor.",
                   "category": "natural",
                   "coords": [
                         15.642823,
@@ -3111,7 +3111,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "VIM1",
-                  "text": "Un punct de belvedere în Maribor cu vedere spre oraș.",
+                  "text": "Un mic monument natural cu denumirea VIM1 în zona Maribor.",
                   "category": "natural",
                   "coords": [
                         15.683964,
@@ -3156,7 +3156,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Galerija K18",
-                  "text": "Un spațiu de artă contemporană și galerie în Maribor.",
+                  "text": "O galerie de artă contemporană într-o pivniță istorică pe strada K18 din Maribor.",
                   "category": "museum",
                   "coords": [
                         15.642713,
@@ -3174,7 +3174,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Doprsni spomenik",
-                  "text": "Un bust care comemorează o personalitate importantă în Maribor.",
+                  "text": "Un bust din bronz al unei personalități notabile într-un parc din Maribor.",
                   "category": "historical",
                   "coords": [
                         15.623894,
@@ -3201,7 +3201,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Stolna cerkev sv. Janeza Krstnika",
-                  "text": "Catedrala Sfântul Ioan Botezătorul este sediul eparhiei din Maribor.",
+                  "text": "Catedrala Sfântul Ioan Botezătorul este o catedrală gotică în centrul orașului Maribor.",
                   "category": "religious",
                   "coords": [
                         15.64502,
@@ -3210,7 +3210,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Evangeličanska cerkev",
-                  "text": "O biserică evanghelică din Maribor.",
+                  "text": "Evangeličanska cerkev este o biserică luterană în centrul orașului Maribor.",
                   "category": "religious",
                   "coords": [
                         15.644026,
@@ -3219,7 +3219,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Kapela",
-                  "text": "O mică capelă pentru cult în Maribor.",
+                  "text": "Kapela este o capelă mică în Maribor.",
                   "category": "religious",
                   "coords": [
                         15.665007,
@@ -3228,7 +3228,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Kapela sv. Ane",
-                  "text": "O capelă barocă dedicată Sfintei Ana în Maribor.",
+                  "text": "Capela Sfintei Ana este o capelă barocă în cartierul Ribniško selo din Maribor.",
                   "category": "religious",
                   "coords": [
                         15.638704,
@@ -3311,7 +3311,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Dvorec Betnava",
-                  "text": "A Baroque castle located on the outskirts of Maribor.",
+                  "text": "Dvorec Betnava is a Renaissance mansion with a large park near Maribor.",
                   "category": "castle",
                   "coords": [
                         15.639859,
@@ -3338,7 +3338,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Medieval wall ruins",
-                  "text": "Remains of the medieval city walls in Maribor.",
+                  "text": "Remains of the medieval city wall of Maribor along the Drava River.",
                   "category": "historical",
                   "coords": [
                         15.642594,
@@ -3365,7 +3365,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Trafika - museum for one",
-                  "text": "A tiny museum housed in a former kiosk in Maribor.",
+                  "text": "A tiny museum in a former kiosk that accommodates only one visitor at a time.",
                   "category": "museum",
                   "coords": [
                         15.645695,
@@ -3401,7 +3401,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Samotni bor",
-                  "text": "A distinctive viewpoint near Maribor.",
+                  "text": "Samotni bor (Lone Pine) is a solitary pine tree on a hill overlooking Maribor.",
                   "category": "natural",
                   "coords": [
                         15.635272,
@@ -3446,7 +3446,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Jožefov studenec",
-                  "text": "A historical spring or fountain in Maribor.",
+                  "text": "A well built in 1930 in Maribor.",
                   "category": "landmark",
                   "coords": [
                         15.631315,
@@ -3455,7 +3455,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Razgledišče Pri sedmih hrastih",
-                  "text": "A viewpoint in Maribor known as \"By the Seven Oaks.\"",
+                  "text": "A viewpoint by seven ancient oaks overlooking Maribor.",
                   "category": "natural",
                   "coords": [
                         15.642823,
@@ -3464,7 +3464,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "VIM1",
-                  "text": "A viewpoint in Maribor offering views of the city.",
+                  "text": "A small natural monument designated VIM1 in the Maribor area.",
                   "category": "natural",
                   "coords": [
                         15.683964,
@@ -3509,7 +3509,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Galerija K18",
-                  "text": "A contemporary art space and gallery in Maribor.",
+                  "text": "A contemporary art gallery in a historic cellar on K18 street in Maribor.",
                   "category": "museum",
                   "coords": [
                         15.642713,
@@ -3527,7 +3527,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Doprsni spomenik",
-                  "text": "A bust memorializing a significant figure in Maribor.",
+                  "text": "A bronze bust of a notable figure in a park in Maribor.",
                   "category": "historical",
                   "coords": [
                         15.623894,
@@ -3554,7 +3554,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Cathedral of St. John the Baptist",
-                  "text": "The Cathedral of St. John the Baptist is the seat of the Maribor diocese.",
+                  "text": "Cathedral of St. John the Baptist is a Gothic cathedral in Maribor's city center.",
                   "category": "religious",
                   "coords": [
                         15.64502,
@@ -3563,7 +3563,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Evangeličanska cerkev",
-                  "text": "An Evangelical church in Maribor.",
+                  "text": "Evangeličanska cerkev is a Lutheran church in Maribor's city center.",
                   "category": "religious",
                   "coords": [
                         15.644026,
@@ -3572,7 +3572,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Kapela",
-                  "text": "A small chapel for worship in Maribor.",
+                  "text": "Kapela is a small chapel in Maribor.",
                   "category": "religious",
                   "coords": [
                         15.665007,
@@ -3581,7 +3581,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Kapela sv. Ane",
-                  "text": "A Baroque chapel dedicated to Saint Anne in Maribor.",
+                  "text": "Kapela sv. Ane is a Baroque chapel in the Ribniško selo district of Maribor.",
                   "category": "religious",
                   "coords": [
                         15.638704,
@@ -3767,7 +3767,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Sveti Miklavž",
-                  "text": "Eine Kirche in Celje, die dem heiligen Nikolaus gewidmet ist.",
+                  "text": "Sveti Miklavž ist eine gotische Kirche in der Altstadt von Celje.",
                   "category": "religious",
                   "coords": [
                         15.260882,
@@ -3922,7 +3922,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Sveti Miklavž",
-                  "text": "Szent Miklósnak szentelt templom Celje városában.",
+                  "text": "A Sveti Miklavž egy gótikus templom Celje óvárosában.",
                   "category": "religious",
                   "coords": [
                         15.260882,
@@ -4077,7 +4077,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Sveti Miklavž",
-                  "text": "O biserică din Celje dedicată Sfântului Nicolae.",
+                  "text": "Sveti Miklavž este o biserică gotică în centrul vechi al Celjului.",
                   "category": "religious",
                   "coords": [
                         15.260882,
@@ -4232,7 +4232,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Sveti Miklavž",
-                  "text": "A church in Celje dedicated to Saint Nicholas.",
+                  "text": "Sveti Miklavž is a Gothic church in the old town of Celje.",
                   "category": "religious",
                   "coords": [
                         15.260882,
@@ -4328,7 +4328,7 @@ export const poiExtraSloveniaCities: POI[] = [
       "de": [
             {
                   "name": "Prešernova hiša",
-                  "text": "Prešernova hiša ist ein Gedenkmuseum in Kranj.",
+                  "text": "Prešernova hiša ist das Geburtshaus des Dichters France Prešeren, heute ein Museum.",
                   "category": "museum",
                   "coords": [
                         14.356177,
@@ -4337,7 +4337,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Prešernovo gledališče",
-                  "text": "Das Prešeren Theater ist ein Theater in Kranj.",
+                  "text": "Das Prešeren Theater ist das Haupttheatergebäude am Stadtplatz von Kranj.",
                   "category": "cultural",
                   "coords": [
                         14.355901,
@@ -4346,7 +4346,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Grad Khislstein",
-                  "text": "Schloss Khislstein ist eine historische Burg in Kranj.",
+                  "text": "Das Schloss Khislstein (Grad Kieselstein) ist ein Renaissanceschloss auf einem Hügel über der Altstadt von Kranj.",
                   "category": "castle",
                   "coords": [
                         14.354392,
@@ -4355,7 +4355,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Wartenberg castle ruins",
-                  "text": "Die Burgruine Wartenberg ist eine archäologische Stätte in Kranj.",
+                  "text": "Die Burgruine Wartenberg liegt auf einem Hügel oberhalb von Kranj.",
                   "category": "historical",
                   "coords": [
                         14.330174,
@@ -4364,7 +4364,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Šmarjetna gora",
-                  "text": "Šmarjetna gora ist ein markanter Gipfel oberhalb von Kranj.",
+                  "text": "Die Šmarjetna gora (Sankt Margarethen Berg) ist ein Hügel mit einer Kirche der Hl. Margareta auf dem Gipfel.",
                   "category": "natural",
                   "coords": [
                         14.336239,
@@ -4373,7 +4373,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Prešernov gaj",
-                  "text": "Prešernov gaj ist ein Gedenkpark in Kranj.",
+                  "text": "Der Prešernov gaj ist ein Gedenkpark mit einem Denkmal für den Nationaldichter France Prešeren in Kranj.",
                   "category": "park",
                   "coords": [
                         14.358161,
@@ -4391,7 +4391,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Janez Bleiweis pl. Trsteniški",
-                  "text": "Janez Bleiweis pl. Trsteniški ist ein Denkmal in Kranj.",
+                  "text": "Ein Denkmal für den slowenischen Politiker Janez Bleiweis im Zentrum von Kranj.",
                   "category": "historical",
                   "coords": [
                         14.355051,
@@ -4400,7 +4400,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Spomenik padlim športnikom",
-                  "text": "Spomenik padlim športnikom ist ein Denkmal für gefallene Sportler in Kranj.",
+                  "text": "Ein Denkmal für gefallene Sportler des Zweiten Weltkriegs in Kranj.",
                   "category": "historical",
                   "coords": [
                         14.364387,
@@ -4409,7 +4409,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Gerija Prešernovih nagrajencev",
-                  "text": "Gerija Prešernovih nagrajencev ist eine lokale Galerie in Kranj.",
+                  "text": "Ein Museum im ehemaligen Wohnhaus der Prešeren-Preisträger in Kranj.",
                   "category": "museum",
                   "coords": [
                         14.355355,
@@ -4418,7 +4418,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Kulturni dom Šmartinski dom",
-                  "text": "Das Kulturni dom Šmartinski dom ist ein Kunst- und Kulturzentrum in Kranj.",
+                  "text": "Ein Kulturhaus, das Aufführungen im Stadtteil Šmartin in Kranj beherbergt.",
                   "category": "cultural",
                   "coords": [
                         14.346372,
@@ -4427,7 +4427,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Cerkev sv. Mihaela",
-                  "text": "Die Cerkev sv. Mihaela ist eine Kirche in Kranj.",
+                  "text": "Cerkev sv. Mihaela ist eine dem Erzengel Michael geweihte Kirche in Kranj.",
                   "category": "religious",
                   "coords": [
                         14.371018,
@@ -4436,7 +4436,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Kapela sv. Petra",
-                  "text": "Kapela sv. Petra ist eine Kapelle in Kranj.",
+                  "text": "Die Kapela sv. Petra ist eine kleine Kapelle nahe der Altstadt von Kranj.",
                   "category": "religious",
                   "coords": [
                         14.340503,
@@ -4445,7 +4445,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Trbojsko jezero",
-                  "text": "Lake Trboje ist ein See in Kranj, der eine ruhige Atmosphäre bietet.",
+                  "text": "Ein künstlicher See an der Save bei Kranj, beliebt für Wassersport.",
                   "category": "natural",
                   "coords": [
                         14.403652,
@@ -4454,7 +4454,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Stražišče",
-                  "text": "Stražišče ist ein Spielplatz in Kranj für die Nutzung durch Familien.",
+                  "text": "Ein Kinderspielplatz mit Aussicht über Kranj.",
                   "category": "family",
                   "coords": [
                         14.346154,
@@ -4483,7 +4483,7 @@ export const poiExtraSloveniaCities: POI[] = [
       "hu": [
             {
                   "name": "Prešernova hiša",
-                  "text": "A Prešernova hiša egy emlékmúzeum Kranjban.",
+                  "text": "A Prešernova hiša France Prešeren költő szülőháza, ma múzeum.",
                   "category": "museum",
                   "coords": [
                         14.356177,
@@ -4492,7 +4492,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Prešernovo gledališče",
-                  "text": "A Prešeren Színház egy kulturális színház Kranjban.",
+                  "text": "A Prešeren Színház a fő színházépület Kranj főterén.",
                   "category": "cultural",
                   "coords": [
                         14.355901,
@@ -4501,7 +4501,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Grad Khislstein",
-                  "text": "A Khislstein kastély egy történelmi vár Kranj városában.",
+                  "text": "A Khislstein-vár (Grad Kieselstein) egy reneszánsz vár a kranj-i óváros feletti dombon.",
                   "category": "castle",
                   "coords": [
                         14.354392,
@@ -4510,7 +4510,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Wartenberg castle ruins",
-                  "text": "A Wartenberg várrom egy régészeti lelőhely Kranjban.",
+                  "text": "A Wartenberg várrom egy dombon található Kranj felett.",
                   "category": "historical",
                   "coords": [
                         14.330174,
@@ -4519,7 +4519,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Šmarjetna gora",
-                  "text": "A Šmarjetna gora egy kiemelkedő hegycsúcs Kranj felett.",
+                  "text": "A Šmarjetna gora (Szent Margit-hegy) egy domb, tetején Szent Margit-templommal.",
                   "category": "natural",
                   "coords": [
                         14.336239,
@@ -4528,7 +4528,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Prešernov gaj",
-                  "text": "A Prešernov gaj egy emlékpark Kranjban.",
+                  "text": "A Prešernov gaj egy emlékpark France Prešeren nemzeti költő szobrával Kranjban.",
                   "category": "park",
                   "coords": [
                         14.358161,
@@ -4546,7 +4546,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Janez Bleiweis pl. Trsteniški",
-                  "text": "A Janez Bleiweis pl. Trsteniški egy emlékmű Kranjban.",
+                  "text": "Egy emlékmű Janez Bleiweis szlovén politikusnak Kranj központjában.",
                   "category": "historical",
                   "coords": [
                         14.355051,
@@ -4555,7 +4555,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Spomenik padlim športnikom",
-                  "text": "A Spomenik padlim športnikom az elesett sportolók emlékműve Kranjban.",
+                  "text": "Egy emlékmű a második világháborúban elesett sportolóknak Kranjban.",
                   "category": "historical",
                   "coords": [
                         14.364387,
@@ -4564,7 +4564,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Gerija Prešernovih nagrajencev",
-                  "text": "A Gerija Prešernovih nagrajencev egy helyi galéria Kranjban.",
+                  "text": "Egy múzeum a Prešeren-díjasok egykori lakóházában Kranjban.",
                   "category": "museum",
                   "coords": [
                         14.355355,
@@ -4573,7 +4573,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Kulturni dom Šmartinski dom",
-                  "text": "A Kulturni dom Šmartinski dom egy művészeti és kulturális központ Kranjban.",
+                  "text": "Egy kultúrház, amely előadásoknak ad otthont Kranj Šmartin negyedében.",
                   "category": "cultural",
                   "coords": [
                         14.346372,
@@ -4582,7 +4582,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Cerkev sv. Mihaela",
-                  "text": "A Cerkev sv. Mihaela egy templom Kranjban.",
+                  "text": "A Cerkev sv. Mihaela egy Mihály arkangyalnak szentelt templom Kranjban.",
                   "category": "religious",
                   "coords": [
                         14.371018,
@@ -4591,7 +4591,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Kapela sv. Petra",
-                  "text": "A Kapela sv. Petra egy kápolna Kranjban.",
+                  "text": "A Kapela sv. Petra egy kis kápolna Kranj óvárosa közelében.",
                   "category": "religious",
                   "coords": [
                         14.340503,
@@ -4600,7 +4600,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Trbojsko jezero",
-                  "text": "A Lake Trboje egy tó Kranj városában, amely nyugodt légkört áraszt.",
+                  "text": "Egy mesterséges tó a Száva folyón Kranj közelében, népszerű vízi sportokhoz.",
                   "category": "natural",
                   "coords": [
                         14.403652,
@@ -4609,7 +4609,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Stražišče",
-                  "text": "A Stražišče egy játszótér Kranj területén, családi használatra.",
+                  "text": "Egy gyermekjátszótér kilátással Kranjra.",
                   "category": "family",
                   "coords": [
                         14.346154,
@@ -4638,7 +4638,7 @@ export const poiExtraSloveniaCities: POI[] = [
       "ro": [
             {
                   "name": "Prešernova hiša",
-                  "text": "Prešernova hiša este un muzeu memorial situat în Kranj.",
+                  "text": "Prešernova hiša este casa natală a poetului France Prešeren, acum muzeu.",
                   "category": "museum",
                   "coords": [
                         14.356177,
@@ -4647,7 +4647,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Prešernovo gledališče",
-                  "text": "Teatrul Prešeren este un teatru cultural situat în Kranj.",
+                  "text": "Teatrul Prešeren este clădirea principală de teatru din piața centrală a Kranjului.",
                   "category": "cultural",
                   "coords": [
                         14.355901,
@@ -4656,7 +4656,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Grad Khislstein",
-                  "text": "Castelul Khislstein este un castel istoric situat în Kranj.",
+                  "text": "Castelul Khislstein (Grad Kieselstein) este un castel renascentist pe un deal deasupra orașului vechi din Kranj.",
                   "category": "castle",
                   "coords": [
                         14.354392,
@@ -4665,7 +4665,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Wartenberg castle ruins",
-                  "text": "Ruinele castelului Wartenberg sunt un sit arheologic din Kranj.",
+                  "text": "Ruinele castelului Wartenberg se află pe un deal deasupra Kranjului.",
                   "category": "historical",
                   "coords": [
                         14.330174,
@@ -4674,7 +4674,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Šmarjetna gora",
-                  "text": "Šmarjetna gora este un vârf proeminent situat deasupra orașului Kranj.",
+                  "text": "Šmarjetna gora (Dealul Sfintei Margareta) este un deal cu o biserică dedicată Sfintei Margareta pe vârf.",
                   "category": "natural",
                   "coords": [
                         14.336239,
@@ -4683,7 +4683,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Prešernov gaj",
-                  "text": "Prešernov gaj este un parc memorial situat în Kranj.",
+                  "text": "Prešernov gaj este un parc memorial cu un monument al poetului național France Prešeren în Kranj.",
                   "category": "park",
                   "coords": [
                         14.358161,
@@ -4701,7 +4701,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Janez Bleiweis pl. Trsteniški",
-                  "text": "Janez Bleiweis pl. Trsteniški este un monument situat în Kranj.",
+                  "text": "Un monument dedicat politicianului sloven Janez Bleiweis în centrul orașului Kranj.",
                   "category": "historical",
                   "coords": [
                         14.355051,
@@ -4710,7 +4710,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Spomenik padlim športnikom",
-                  "text": "Spomenik padlim športnikom este un monument dedicat sportivilor căzuți din Kranj.",
+                  "text": "Un monument dedicat sportivilor căzuți în al Doilea Război Mondial în Kranj.",
                   "category": "historical",
                   "coords": [
                         14.364387,
@@ -4719,7 +4719,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Gerija Prešernovih nagrajencev",
-                  "text": "Gerija Prešernovih nagrajencev este o galerie situată în Kranj.",
+                  "text": "Un muzeu în fosta casă a laureaților premiului Prešeren din Kranj.",
                   "category": "museum",
                   "coords": [
                         14.355355,
@@ -4728,7 +4728,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Kulturni dom Šmartinski dom",
-                  "text": "Kulturni dom Šmartinski dom este un centru de artă și cultură din Kranj.",
+                  "text": "O casă de cultură care găzduiește spectacole în cartierul Šmartin din Kranj.",
                   "category": "cultural",
                   "coords": [
                         14.346372,
@@ -4737,7 +4737,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Cerkev sv. Mihaela",
-                  "text": "Cerkev sv. Mihaela este o biserică situată în Kranj.",
+                  "text": "Cerkev sv. Mihaela este o biserică dedicată Arhanghelului Mihail în Kranj.",
                   "category": "religious",
                   "coords": [
                         14.371018,
@@ -4746,7 +4746,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Kapela sv. Petra",
-                  "text": "Kapela sv. Petra este o capelă situată în Kranj.",
+                  "text": "Kapela sv. Petra este o capelă mică lângă centrul vechi al Kranjului.",
                   "category": "religious",
                   "coords": [
                         14.340503,
@@ -4755,7 +4755,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Trbojsko jezero",
-                  "text": "Lake Trboje este un lac din Kranj, oferind o atmosferă senină.",
+                  "text": "Un lac artificial pe râul Sava lângă Kranj, popular pentru sporturi nautice.",
                   "category": "natural",
                   "coords": [
                         14.403652,
@@ -4764,7 +4764,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Stražišče",
-                  "text": "Stražišče este un teren de joacă situat în Kranj pentru uz familial.",
+                  "text": "Un loc de joacă pentru copii cu vedere spre Kranj.",
                   "category": "family",
                   "coords": [
                         14.346154,
@@ -4793,7 +4793,7 @@ export const poiExtraSloveniaCities: POI[] = [
       "en": [
             {
                   "name": "Prešernova hiša",
-                  "text": "Prešernova hiša is a memorial museum situated in Kranj.",
+                  "text": "Prešernova hiša is the birthplace of poet France Prešeren, now a museum.",
                   "category": "museum",
                   "coords": [
                         14.356177,
@@ -4802,7 +4802,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Prešeren Theater",
-                  "text": "Prešeren Theater is a cultural theatre located in Kranj.",
+                  "text": "Prešeren Theater is the main theatre building on Kranj's town square.",
                   "category": "cultural",
                   "coords": [
                         14.355901,
@@ -4811,7 +4811,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Castle Khislstein",
-                  "text": "Castle Khislstein is a historic castle located in Kranj.",
+                  "text": "Castle Khislstein (Grad Kieselstein) is a Renaissance castle on a hill above Kranj's old town.",
                   "category": "castle",
                   "coords": [
                         14.354392,
@@ -4820,7 +4820,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Wartenberg castle ruins",
-                  "text": "The Wartenberg castle ruins are an archaeological site in Kranj.",
+                  "text": "Wartenberg castle ruins sit on a hill overlooking Kranj.",
                   "category": "historical",
                   "coords": [
                         14.330174,
@@ -4829,7 +4829,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Šmarjetna gora",
-                  "text": "Šmarjetna gora is a prominent peak situated above Kranj.",
+                  "text": "Šmarjetna gora (St Margaret's Hill) is a hill with a church dedicated to St Margaret on its summit.",
                   "category": "natural",
                   "coords": [
                         14.336239,
@@ -4838,7 +4838,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Prešernov gaj",
-                  "text": "Prešernov gaj is a memorial park located in Kranj.",
+                  "text": "Prešernov gaj is a memorial park with a monument to national poet France Prešeren in Kranj.",
                   "category": "park",
                   "coords": [
                         14.358161,
@@ -4856,7 +4856,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Janez Bleiweis pl. Trsteniški",
-                  "text": "Janez Bleiweis pl. Trsteniški is a monument located in Kranj.",
+                  "text": "A monument to Slovenian politician Janez Bleiweis in the center of Kranj.",
                   "category": "historical",
                   "coords": [
                         14.355051,
@@ -4865,7 +4865,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Spomenik padlim športnikom",
-                  "text": "Spomenik padlim športnikom is a monument to fallen athletes in Kranj.",
+                  "text": "A memorial to fallen athletes of World War II in Kranj.",
                   "category": "historical",
                   "coords": [
                         14.364387,
@@ -4874,7 +4874,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Gerija Prešernovih nagrajencev",
-                  "text": "Gerija Prešernovih nagrajencev is a local gallery situated in Kranj.",
+                  "text": "A museum in the former home of Prešeren Prize laureates in Kranj.",
                   "category": "museum",
                   "coords": [
                         14.355355,
@@ -4883,7 +4883,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Kulturni dom Šmartinski dom",
-                  "text": "Kulturni dom Šmartinski dom is an arts and cultural centre in Kranj.",
+                  "text": "A cultural venue hosting performances in the Šmartin district of Kranj.",
                   "category": "cultural",
                   "coords": [
                         14.346372,
@@ -4892,7 +4892,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Cerkev sv. Mihaela",
-                  "text": "Cerkev sv. Mihaela is a church located in Kranj.",
+                  "text": "Cerkev sv. Mihaela is a church dedicated to St. Michael in Kranj.",
                   "category": "religious",
                   "coords": [
                         14.371018,
@@ -4901,7 +4901,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Kapela sv. Petra",
-                  "text": "Kapela sv. Petra is a chapel situated in Kranj.",
+                  "text": "Kapela sv. Petra is a small chapel near Kranj's old town.",
                   "category": "religious",
                   "coords": [
                         14.340503,
@@ -4910,7 +4910,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Lake Trboje",
-                  "text": "Lake Trboje is a lake in Kranj, offering a serene atmosphere.",
+                  "text": "A man-made lake on the Sava River near Kranj, popular for water sports.",
                   "category": "natural",
                   "coords": [
                         14.403652,
@@ -4919,7 +4919,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Stražišče",
-                  "text": "Stražišče is a playground located in Kranj for family use.",
+                  "text": "A children's playground with a view over Kranj.",
                   "category": "family",
                   "coords": [
                         14.346154,
@@ -5015,7 +5015,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Gravisijev grad",
-                  "text": "Ein historisches Schlossgebäude in der Stadt Koper.",
+                  "text": "Gravisijev grad ist ein Schloss im historischen Zentrum von Koper.",
                   "category": "castle",
                   "coords": [
                         13.715287,
@@ -5114,7 +5114,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Cerkev svetega Bassa / Chiesa di San Basso",
-                  "text": "Eine historische Kirche am zentralen Platz von Koper.",
+                  "text": "Die St.-Bassus-Kirche ist eine barocke Kirche am Hauptplatz von Koper, dem Stadtheiligen geweiht.",
                   "category": "religious",
                   "coords": [
                         13.730132,
@@ -5123,7 +5123,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Kapela svetega Tomaža / Cappella di San Tommaso",
-                  "text": "Eine kleine historische Kapelle, die dem Heiligen Thomas gewidmet ist.",
+                  "text": "Die St Thomas Chapel ist eine gotische Kapelle in der Altstadt von Koper.",
                   "category": "religious",
                   "coords": [
                         13.733621,
@@ -5242,7 +5242,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Gravisijev grad",
-                  "text": "Történelmi kastélyépület Koper városában.",
+                  "text": "A Gravisijev grad egy kastély Koper történelmi központjában.",
                   "category": "castle",
                   "coords": [
                         13.715287,
@@ -5341,7 +5341,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Cerkev svetega Bassa / Chiesa di San Basso",
-                  "text": "Történelmi templom Koper központi terén.",
+                  "text": "A Szent Basszus-templom egy barokk templom Koper főterén, a város védőszentjének szentelve.",
                   "category": "religious",
                   "coords": [
                         13.730132,
@@ -5350,7 +5350,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Kapela svetega Tomaža / Cappella di San Tommaso",
-                  "text": "Szent Tamásnak szentelt kis történelmi kápolna.",
+                  "text": "A St Thomas-kápolna egy gótikus kápolna Koper óvárosában.",
                   "category": "religious",
                   "coords": [
                         13.733621,
@@ -5469,7 +5469,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Gravisijev grad",
-                  "text": "O clădire istorică de castel situată în orașul Koper.",
+                  "text": "Gravisijev grad este un castel în centrul istoric al Koperului.",
                   "category": "castle",
                   "coords": [
                         13.715287,
@@ -5568,7 +5568,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Cerkev svetega Bassa / Chiesa di San Basso",
-                  "text": "O biserică istorică situată în piața centrală din Koper.",
+                  "text": "Biserica Sfântul Bassus este o biserică barocă în piața principală a orașului Koper, dedicată patronului orașului.",
                   "category": "religious",
                   "coords": [
                         13.730132,
@@ -5577,7 +5577,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Kapela svetega Tomaža / Cappella di San Tommaso",
-                  "text": "O mică chapelă istorică dedicată Sfântului Toma.",
+                  "text": "Capela Sfântul Toma este o capelă gotică în centrul vechi al Koperului.",
                   "category": "religious",
                   "coords": [
                         13.733621,
@@ -5696,7 +5696,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "Gravisijev grad",
-                  "text": "A historic castle building located in the city of Koper.",
+                  "text": "Gravisijev grad is a castle in Koper's historic center.",
                   "category": "castle",
                   "coords": [
                         13.715287,
@@ -5795,7 +5795,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "St Bassus Church",
-                  "text": "A historic church located in the central square of Koper.",
+                  "text": "St Bassus Church is a Baroque church on Koper's main square, dedicated to the city's patron saint.",
                   "category": "religious",
                   "coords": [
                         13.730132,
@@ -5804,7 +5804,7 @@ export const poiExtraSloveniaCities: POI[] = [
             },
             {
                   "name": "St Thomas Chapel",
-                  "text": "A small historic chapel dedicated to Saint Thomas.",
+                  "text": "St Thomas Chapel is a Gothic chapel in Koper's old town.",
                   "category": "religious",
                   "coords": [
                         13.733621,

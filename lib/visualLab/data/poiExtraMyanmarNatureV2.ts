@@ -3,7 +3,124 @@ import type { POI } from "./poi";
 
 export const poiExtraMyanmarNatureV2: POI[] = [
   {
-    id: "inle-lake-nature-v2",
+    id: "inle-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "maing thauk bridge",
+                  "text": "Eine lange Holzbrücke, die das Ufer des Inle-Sees mit dem auf Pfählen errichteten Dorf Maing Thauk verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        96.939428,
+                        20.580952
+                  ]
+            },
+            {
+                  "name": "Monastery Mam Thouk Forest",
+                  "text": "Ein Waldkloster am Hang mit Panoramablick auf den Inle-See und Meditationspfaden.",
+                  "category": "landmark",
+                  "coords": [
+                        96.959959,
+                        20.579187
+                  ]
+            },
+            {
+                  "name": "Pagoda",
+                  "text": "Eine religiöse Stätte am Seeufer, die oft von Pilgern per Boot besucht wird.",
+                  "category": "religious",
+                  "coords": [
+                        96.939027,
+                        20.503731
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "maing thauk bridge",
+                  "text": "Hosszú fahíd, amely az Inle-tó partját köti össze a cölöpökre épült Maing Thauk faluval.",
+                  "category": "landmark",
+                  "coords": [
+                        96.939428,
+                        20.580952
+                  ]
+            },
+            {
+                  "name": "Monastery Mam Thouk Forest",
+                  "text": "Domboldali erdei kolostor panorámás kilátással az Inle-tóra és meditációs ösvényekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        96.959959,
+                        20.579187
+                  ]
+            },
+            {
+                  "name": "Pagoda",
+                  "text": "Tóparti vallási helyszín, amelyet a zarándokok gyakran csónakkal keresnek fel.",
+                  "category": "religious",
+                  "coords": [
+                        96.939027,
+                        20.503731
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "maing thauk bridge",
+                  "text": "Un pod lung de lemn care leagă malul lacului Inle de satul Maing Thauk, construit pe piloni.",
+                  "category": "landmark",
+                  "coords": [
+                        96.939428,
+                        20.580952
+                  ]
+            },
+            {
+                  "name": "Monastery Mam Thouk Forest",
+                  "text": "O mănăstire de pădure pe versant, cu vedere panoramică la lacul Inle și poteci de meditație.",
+                  "category": "landmark",
+                  "coords": [
+                        96.959959,
+                        20.579187
+                  ]
+            },
+            {
+                  "name": "Pagoda",
+                  "text": "Un sit religios pe malul lacului, vizitat adesea de pelerini cu barca.",
+                  "category": "religious",
+                  "coords": [
+                        96.939027,
+                        20.503731
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "maing thauk bridge",
+                  "text": "A long wooden bridge connecting the shore of Inle Lake to the stilt-built village of Maing Thauk.",
+                  "category": "landmark",
+                  "coords": [
+                        96.939428,
+                        20.580952
+                  ]
+            },
+            {
+                  "name": "Monastery Mam Thouk Forest",
+                  "text": "A forest monastery on the hillside featuring panoramic views of Inle Lake and meditation paths.",
+                  "category": "landmark",
+                  "coords": [
+                        96.959959,
+                        20.579187
+                  ]
+            },
+            {
+                  "name": "Pagoda",
+                  "text": "A religious site on the lakeshore often visited by pilgrims by boat.",
+                  "category": "religious",
+                  "coords": [
+                        96.939027,
+                        20.503731
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "MM-17",
     coords: [96.9333, 20.5500],
@@ -47,7 +164,52 @@ export const poiExtraMyanmarNatureV2: POI[] = [
     },
   },
   {
-    id: "irrawaddy-river-nature-v2",
+    id: "irrawaddy-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "အောင်မြေ",
+                  "text": "Diese buddhistische Stätte liegt in der Nähe der Ufer des Irrawaddy-Flusses und bietet eine friedliche Umgebung für die Meditation.",
+                  "category": "landmark",
+                  "coords": [
+                        96.017602,
+                        21.047382
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "အောင်မြေ",
+                  "text": "Az Irrawaddy folyó partjához közel található buddhista helyszín békés környezetet biztosít a meditációhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        96.017602,
+                        21.047382
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "အောင်မြေ",
+                  "text": "Situat în apropierea malurilor râului Irrawaddy, acest sit budist oferă un mediu liniștit pentru meditație.",
+                  "category": "landmark",
+                  "coords": [
+                        96.017602,
+                        21.047382
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "အောင်မြေ",
+                  "text": "Situated near the banks of the Irrawaddy River, this Buddhist site provides a peaceful environment for meditation.",
+                  "category": "landmark",
+                  "coords": [
+                        96.017602,
+                        21.047382
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "MM-04",
     coords: [95.9500, 21.0000],
@@ -223,7 +385,700 @@ export const poiExtraMyanmarNatureV2: POI[] = [
     },
   },
   {
-    id: "mount-popa-nature-v2",
+    id: "mount-popa-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "ပုပ္ပါးတောင်သဘာဝထိန်းသိမ်းရေးနယ်မြေ",
+                  "text": "Ein geschütztes Naturschutzgebiet rund um einen erloschenen Vulkan, das einen üppigen, bewaldeten Lebensraum für die Makakenpopulation der Region bietet.",
+                  "category": "natural",
+                  "coords": [
+                        95.232151,
+                        20.910531
+                  ]
+            },
+            {
+                  "name": "ပုပ္ပါးတောင်သဘာဝထိန်းသိမ်းရေးနယ်မြေ",
+                  "text": "Dieses Vulkanreservat umfasst dichte Sandelholzwälder und dient als wichtiges Schutzgebiet für die endemische Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        95.283007,
+                        20.843035
+                  ]
+            },
+            {
+                  "name": "မြင့်မြတ်ထူးစေတီတော်",
+                  "text": "Ein vergoldeter buddhistischer Stupa vor der dramatischen, steilen Kulisse der Caldera des Mount Popa.",
+                  "category": "landmark",
+                  "coords": [
+                        95.252891,
+                        20.919429
+                  ]
+            },
+            {
+                  "name": "စေတီတော်",
+                  "text": "Eine friedliche buddhistische Pagode, die über gewundene Steintreppen erreichbar ist, welche in das Vulkangestein gehauen wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        95.253613,
+                        20.920508
+                  ]
+            },
+            {
+                  "name": "Mount Popa Pagoda",
+                  "text": "Ein kleiner buddhistischer Schrein, der einen Panoramablick auf die bewaldeten Vulkanebenen unten bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        95.243132,
+                        20.917219
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Dieser traditionelle glockenförmige buddhistische Stupa dient als spirituelles Wahrzeichen für Pilger, die den Berg besteigen.",
+                  "category": "landmark",
+                  "coords": [
+                        95.236506,
+                        20.923098
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Ein buddhistisches Denkmal mit goldener Spitze, das sich in das dichte Blätterdach des Naturschutzgebiets schmiegt.",
+                  "category": "landmark",
+                  "coords": [
+                        95.245351,
+                        20.952058
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Ein bescheidener buddhistischer Schrein, der von hoch aufragenden Bäumen am Rand des Kraters beschattet wird.",
+                  "category": "landmark",
+                  "coords": [
+                        95.244909,
+                        20.964926
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Besucher nähern sich diesem abgelegenen buddhistischen Schrein über einen Waldweg, der von neugierigen Affen bewohnt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        95.247304,
+                        20.963358
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Dieser buddhistische Schrein wird von einem großen heiligen Feigenbaum beschattet und bietet durchreisenden Mönchen Erholung.",
+                  "category": "landmark",
+                  "coords": [
+                        95.243789,
+                        20.965052
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Dieses in strahlendem Ocker gestrichene buddhistische Denkmal ist durch das dichte Berglaub hindurch leicht zu erkennen.",
+                  "category": "landmark",
+                  "coords": [
+                        95.241035,
+                        20.964882
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Ein schlanker buddhistischer Stupa, der sich durch seine steile konische Spitze auszeichnet, die auf den Berggipfel zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        95.240363,
+                        20.96613
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Über einen staubigen Pfad erreichbar, finden an diesem buddhistischen Schrein regelmäßig Reis- und Räucherstäbchenopfer statt.",
+                  "category": "landmark",
+                  "coords": [
+                        95.236052,
+                        20.96476
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Die terrassenförmige Basis dieses buddhistischen Denkmals ermöglicht es mehreren Gläubigen, es gleichzeitig zu umrunden.",
+                  "category": "landmark",
+                  "coords": [
+                        95.240898,
+                        20.95867
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Dieser buddhistische Stupa verfügt über eine geschnitzte Löwenwache an seinem östlichen Zugang, die über das Tal blickt.",
+                  "category": "landmark",
+                  "coords": [
+                        95.227444,
+                        20.961571
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Ein moosbedecktes buddhistisches Denkmal, das sich wunderbar in die neblige Hochgebirgs-Regenwaldumgebung einfügt.",
+                  "category": "landmark",
+                  "coords": [
+                        95.23078,
+                        20.96461
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Eine von der Sonne gebleichte buddhistische Pagode, die allein auf einem grasbewachsenen Plateau entlang der Trekkingroute des Berges steht.",
+                  "category": "landmark",
+                  "coords": [
+                        95.23408,
+                        20.973646
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Dieser lokale buddhistische Stupa trägt zur spirituellen Atmosphäre der Landschaft des Mount Popa bei.",
+                  "category": "landmark",
+                  "coords": [
+                        95.243303,
+                        20.968338
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Umgeben von Natur bietet dieser buddhistische Schrein einen ruhigen Ort der Besinnung am Mount Popa.",
+                  "category": "landmark",
+                  "coords": [
+                        95.238022,
+                        20.971476
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ပုပ္ပါးတောင်သဘာဝထိန်းသိမ်းရေးနယ်မြေ",
+                  "text": "Kialudt vulkán köré épült természetvédelmi terület, amely buja, erdős élőhelyet biztosít a régió jelentős makákópopulációjának.",
+                  "category": "natural",
+                  "coords": [
+                        95.232151,
+                        20.910531
+                  ]
+            },
+            {
+                  "name": "ပုပ္ပါးတောင်သဘာဝထိန်းသိမ်းရေးနယ်မြေ",
+                  "text": "Ez a vulkanikus rezervátum sűrű szantálfaerdőket foglal magában, és az endemikus növény- és állatvilág létfontosságú menedékhelye.",
+                  "category": "natural",
+                  "coords": [
+                        95.283007,
+                        20.843035
+                  ]
+            },
+            {
+                  "name": "မြင့်မြတ်ထူးစေတီတော်",
+                  "text": "Aranyozott buddhista sztúpa a Popa-hegy kalderájának drámai, meredek lejtőin.",
+                  "category": "landmark",
+                  "coords": [
+                        95.252891,
+                        20.919429
+                  ]
+            },
+            {
+                  "name": "စေတီတော်",
+                  "text": "Vulkáni kőzetbe vájt, kanyargós kőlépcsőkön megközelíthető békés buddhista pagoda.",
+                  "category": "landmark",
+                  "coords": [
+                        95.253613,
+                        20.920508
+                  ]
+            },
+            {
+                  "name": "Mount Popa Pagoda",
+                  "text": "Egy kis buddhista szentély, ahonnan panorámás kilátás nyílik az alatta elterülő erdős vulkáni síkságra.",
+                  "category": "landmark",
+                  "coords": [
+                        95.243132,
+                        20.917219
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Ez a hagyományos harang alakú buddhista sztúpa a hegyet megmászó zarándokok spirituális tájékozódási pontjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        95.236506,
+                        20.923098
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "A természetvédelmi terület sűrű lombkoronája között megbúvó, aranytornyos buddhista emlékmű.",
+                  "category": "landmark",
+                  "coords": [
+                        95.245351,
+                        20.952058
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Szerény buddhista szentély, amelyet magas fák védelmeznek a kráter peremén.",
+                  "category": "landmark",
+                  "coords": [
+                        95.244909,
+                        20.964926
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "A látogatók egy kíváncsi majmok lakta erdei ösvényen közelíthetik meg ezt az elszigetelt buddhista szentélyt.",
+                  "category": "landmark",
+                  "coords": [
+                        95.247304,
+                        20.963358
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Ezt a buddhista szentélyt egy nagy szent fügefa árnyékolja, pihenést kínálva az átutazó szerzeteseknek.",
+                  "category": "landmark",
+                  "coords": [
+                        95.243789,
+                        20.965052
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "A ragyogó okkersárgára festett buddhista emlékmű könnyen észrevehető a sűrű hegyi lombozat között.",
+                  "category": "landmark",
+                  "coords": [
+                        95.241035,
+                        20.964882
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Karcsú buddhista sztúpa, amelyet a hegycsúcs felé mutató meredek kúpos tornya jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        95.240363,
+                        20.96613
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "A poros ösvényen megközelíthető buddhista szentélyben gyakran mutatnak be rizs- és füstölőáldozatokat.",
+                  "category": "landmark",
+                  "coords": [
+                        95.236052,
+                        20.96476
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Ennek a buddhista emlékműnek a teraszos alapja lehetővé teszi, hogy több hívő egyidejűleg járja körül.",
+                  "category": "landmark",
+                  "coords": [
+                        95.240898,
+                        20.95867
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Ennek a buddhista sztúpának a keleti feljáratánál egy faragott oroszlánőr áll, amely a völgyre néz.",
+                  "category": "landmark",
+                  "coords": [
+                        95.227444,
+                        20.961571
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Mohával borított buddhista emlékmű, amely gyönyörűen beleolvad a ködös, nagy tengerszint feletti magasságú esőerdő környezetébe.",
+                  "category": "landmark",
+                  "coords": [
+                        95.23078,
+                        20.96461
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Napszítta buddhista pagoda, amely egyedül áll egy füves fennsíkon a hegyi túraútvonal mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        95.23408,
+                        20.973646
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Ez a helyi buddhista sztúpa hozzájárul a Popa-hegy tájának spirituális atmoszférájához.",
+                  "category": "landmark",
+                  "coords": [
+                        95.243303,
+                        20.968338
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "A természettel körülvett buddhista szentély csendes teret kínál a szemlélődésre a Popa-hegynél.",
+                  "category": "landmark",
+                  "coords": [
+                        95.238022,
+                        20.971476
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ပုပ္ပါးတောင်သဘာဝထိန်းသိမ်းရေးနယ်မြေ",
+                  "text": "O rezervație naturală protejată, centrată în jurul unui vulcan stins, oferind un habitat luxuriant și împădurit pentru populația de macaci a regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        95.232151,
+                        20.910531
+                  ]
+            },
+            {
+                  "name": "ပုပ္ပါးတောင်သဘာဝထိန်းသိမ်းရေးနယ်မြေ",
+                  "text": "Această rezervație vulcanică cuprinde păduri dese de lemn de santal și servește ca sanctuar vital pentru flora și fauna endemică.",
+                  "category": "natural",
+                  "coords": [
+                        95.283007,
+                        20.843035
+                  ]
+            },
+            {
+                  "name": "မြင့်မြတ်ထူးစေတီတော်",
+                  "text": "O stupa budistă aurită, așezată pe pantele abrupte și dramatice ale calderei Muntelui Popa.",
+                  "category": "landmark",
+                  "coords": [
+                        95.252891,
+                        20.919429
+                  ]
+            },
+            {
+                  "name": "စေတီတော်",
+                  "text": "O pagodă budistă senină, accesibilă prin scări de piatră șerpuitoare construite în roca vulcanică.",
+                  "category": "landmark",
+                  "coords": [
+                        95.253613,
+                        20.920508
+                  ]
+            },
+            {
+                  "name": "Mount Popa Pagoda",
+                  "text": "Un mic altar budist care oferă vederi panoramice ale câmpiilor vulcanice împădurite de dedesubt.",
+                  "category": "landmark",
+                  "coords": [
+                        95.243132,
+                        20.917219
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Această stupa budistă tradițională în formă de clopot reprezintă un reper spiritual pentru pelerinii care urcă pe munte.",
+                  "category": "landmark",
+                  "coords": [
+                        95.236506,
+                        20.923098
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Un monument budist cu turlă aurită, cuibărit printre coronamentul des al rezervației naturale.",
+                  "category": "landmark",
+                  "coords": [
+                        95.245351,
+                        20.952058
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Un altar budist modest, adăpostit de copaci falnici la marginea craterului.",
+                  "category": "landmark",
+                  "coords": [
+                        95.244909,
+                        20.964926
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Vizitatorii abordează acest altar budist izolat printr-o potecă de pădure locuită de maimuțe curioase.",
+                  "category": "landmark",
+                  "coords": [
+                        95.247304,
+                        20.963358
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Acest altar budist este umbrit de un smochin sacru uriaș, oferind răgaz călugărilor în trecere.",
+                  "category": "landmark",
+                  "coords": [
+                        95.243789,
+                        20.965052
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Vopsit în ocru strălucitor, acest monument budist este ușor de reperat prin frunzișul dens al muntelui.",
+                  "category": "landmark",
+                  "coords": [
+                        95.241035,
+                        20.964882
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "O stupa budistă subțire, caracterizată prin turla sa conică abruptă, îndreptată spre vârful muntelui.",
+                  "category": "landmark",
+                  "coords": [
+                        95.240363,
+                        20.96613
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Accesibil printr-o potecă prăfuită, acest altar budist găzduiește frecvent ofrande de orez și tămâie.",
+                  "category": "landmark",
+                  "coords": [
+                        95.236052,
+                        20.96476
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Baza terasată a acestui monument budist permite mai multor închinători să îl înconjoare simultan.",
+                  "category": "landmark",
+                  "coords": [
+                        95.240898,
+                        20.95867
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Această stupa budistă are un leu sculptat de gardă la abordarea sa estică, având vedere la vale.",
+                  "category": "landmark",
+                  "coords": [
+                        95.227444,
+                        20.961571
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Un monument budist acoperit de mușchi, care se integrează frumos în mediul cețos al pădurii tropicale de mare altitudine.",
+                  "category": "landmark",
+                  "coords": [
+                        95.23078,
+                        20.96461
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "O pagodă budistă albită de soare, care stă singură pe un platou cu iarbă de-a lungul traseului de drumeție montan.",
+                  "category": "landmark",
+                  "coords": [
+                        95.23408,
+                        20.973646
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Această stupă budistă locală contribuie la atmosfera spirituală a peisajului Muntelui Popa.",
+                  "category": "landmark",
+                  "coords": [
+                        95.243303,
+                        20.968338
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Înconjurat de natură, acest altar budist oferă un spațiu liniștit pentru contemplare la Muntele Popa.",
+                  "category": "landmark",
+                  "coords": [
+                        95.238022,
+                        20.971476
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ပုပ္ပါးတောင်သဘာဝထိန်းသိမ်းရေးနယ်မြေ",
+                  "text": "A protected nature reserve centered around an extinct volcano, providing a lush, forested habitat for the region's prominent macaque population.",
+                  "category": "natural",
+                  "coords": [
+                        95.232151,
+                        20.910531
+                  ]
+            },
+            {
+                  "name": "ပုပ္ပါးတောင်သဘာဝထိန်းသိမ်းရေးနယ်မြေ",
+                  "text": "This volcanic reserve encompasses dense sandalwood forests and serves as a vital sanctuary for endemic flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        95.283007,
+                        20.843035
+                  ]
+            },
+            {
+                  "name": "Myint Myat Htoo Ceti",
+                  "text": "A gilded Buddhist stupa set against the dramatic, steep slopes of the Mount Popa caldera.",
+                  "category": "landmark",
+                  "coords": [
+                        95.252891,
+                        20.919429
+                  ]
+            },
+            {
+                  "name": "စေတီတော်",
+                  "text": "A serene Buddhist pagoda accessible via winding stone stairs built into the volcanic rock.",
+                  "category": "landmark",
+                  "coords": [
+                        95.253613,
+                        20.920508
+                  ]
+            },
+            {
+                  "name": "Pagoda",
+                  "text": "A small Buddhist shrine offering panoramic views of the forested volcanic plains below.",
+                  "category": "landmark",
+                  "coords": [
+                        95.243132,
+                        20.917219
+                  ]
+            },
+            {
+                  "name": "Ceti",
+                  "text": "This traditional bell-shaped Buddhist stupa stands as a spiritual landmark for pilgrims climbing the mountain.",
+                  "category": "landmark",
+                  "coords": [
+                        95.236506,
+                        20.923098
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "A golden-spired Buddhist monument nestled amongst the dense canopy of the nature reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        95.245351,
+                        20.952058
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "A modest Buddhist shrine sheltered by towering trees at the edge of the crater rim.",
+                  "category": "landmark",
+                  "coords": [
+                        95.244909,
+                        20.964926
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Visitors approach this isolated Buddhist shrine via a forest path inhabited by inquisitive monkeys.",
+                  "category": "landmark",
+                  "coords": [
+                        95.247304,
+                        20.963358
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "This Buddhist shrine is shaded by a large sacred fig tree, offering respite to traversing monks.",
+                  "category": "landmark",
+                  "coords": [
+                        95.243789,
+                        20.965052
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Painted in brilliant ochre, this Buddhist monument is easily spotted through the dense mountain foliage.",
+                  "category": "landmark",
+                  "coords": [
+                        95.241035,
+                        20.964882
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "A slender Buddhist stupa characterized by its steep conical spire pointing towards the mountain's peak.",
+                  "category": "landmark",
+                  "coords": [
+                        95.240363,
+                        20.96613
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Reached by a dusty trail, this Buddhist shrine frequently hosts offerings of rice and incense.",
+                  "category": "landmark",
+                  "coords": [
+                        95.236052,
+                        20.96476
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "The terraced base of this Buddhist monument allows several worshippers to circle it concurrently.",
+                  "category": "landmark",
+                  "coords": [
+                        95.240898,
+                        20.95867
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "This Buddhist stupa features a carved lion guard at its eastern approach, overlooking the valley.",
+                  "category": "landmark",
+                  "coords": [
+                        95.227444,
+                        20.961571
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "A moss-covered Buddhist monument blending beautifully into the misty, high-altitude rainforest environment.",
+                  "category": "landmark",
+                  "coords": [
+                        95.23078,
+                        20.96461
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "A sun-bleached Buddhist pagoda standing alone on a grassy plateau along the mountain's trekking route.",
+                  "category": "landmark",
+                  "coords": [
+                        95.23408,
+                        20.973646
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "This local Buddhist stupa contributes to the spiritual atmosphere of the Mount Popa landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        95.243303,
+                        20.968338
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Surrounded by nature, this Buddhist shrine offers a quiet space for contemplation at Mount Popa.",
+                  "category": "landmark",
+                  "coords": [
+                        95.238022,
+                        20.971476
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "MM-04",
     coords: [95.2700, 20.9200],
@@ -267,7 +1122,88 @@ export const poiExtraMyanmarNatureV2: POI[] = [
     },
   },
   {
-    id: "nat-ma-taung-nature-v2",
+    id: "nat-ma-taung-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "နတ်မတောင",
+                  "text": "Der höchste Berg im Chin-Staat, auch als Mount Victoria bekannt, bietet eine einzigartige alpine Flora.",
+                  "category": "natural",
+                  "coords": [
+                        93.90256,
+                        21.23386
+                  ]
+            },
+            {
+                  "name": "နတ်မတောင် အမျိုးသားဥယျာဉ်",
+                  "text": "Ein Nationalpark, der den Mount Victoria umschließt und seltene Vögel sowie Rhododendronwälder schützt.",
+                  "category": "natural",
+                  "coords": [
+                        93.84911,
+                        21.263451
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "နတ်မတောင",
+                  "text": "Csin állam legmagasabb hegye, a Mount Victoria néven is ismert, egyedülálló alpesi flórával rendelkezik.",
+                  "category": "natural",
+                  "coords": [
+                        93.90256,
+                        21.23386
+                  ]
+            },
+            {
+                  "name": "နတ်မတောင် အမျိုးသားဥယျာဉ်",
+                  "text": "Nemzeti park a Mount Victoria körül, amely ritka madárfajokat és rododendronerdőket védelmez.",
+                  "category": "natural",
+                  "coords": [
+                        93.84911,
+                        21.263451
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "နတ်မတောင",
+                  "text": "Cel mai înalt vârf din statul Chin, cunoscut și sub numele de Mount Victoria, găzduiește o floră alpină unică.",
+                  "category": "natural",
+                  "coords": [
+                        93.90256,
+                        21.23386
+                  ]
+            },
+            {
+                  "name": "နတ်မတောင် အမျိုးသားဥယျာဉ်",
+                  "text": "Parc național ce înconjoară muntele Victoria, protejând specii rare de păsări și păduri de rododendron.",
+                  "category": "natural",
+                  "coords": [
+                        93.84911,
+                        21.263451
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nat Ma Taung",
+                  "text": "The highest peak in Chin State, also known as Mount Victoria, featuring unique alpine flora and vast views.",
+                  "category": "natural",
+                  "coords": [
+                        93.90256,
+                        21.23386
+                  ]
+            },
+            {
+                  "name": "Mount Victoria National Park",
+                  "text": "A national park surrounding Mount Victoria, protecting rare bird species and rhododendron forests.",
+                  "category": "natural",
+                  "coords": [
+                        93.84911,
+                        21.263451
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "MM-14",
     coords: [93.9000, 21.2300],
@@ -311,7 +1247,88 @@ export const poiExtraMyanmarNatureV2: POI[] = [
     },
   },
   {
-    id: "alaungdaw-kathapa-national-park-nature-v2",
+    id: "alaungdaw-kathapa-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Elephant Camp",
+                  "text": "Hier werden Elefanten trainiert, um Pilger durch den dichten Dschungel zum Schrein von Alaungdaw Kathapa zu bringen.",
+                  "category": "recreational",
+                  "coords": [
+                        94.476624,
+                        22.317919
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Eine einsame Pagode im Herzen des Nationalparks, umgeben von unberührtem tropischem Regenwald.",
+                  "category": "landmark",
+                  "coords": [
+                        94.463255,
+                        22.31273
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Elephant Camp",
+                  "text": "Itt idomítják az elefántokat, amelyek a zarándokokat viszik a sűrű dzsungelen át Alaungdaw Kathapa szentélyéhez.",
+                  "category": "recreational",
+                  "coords": [
+                        94.476624,
+                        22.317919
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "Magányos pagoda a nemzeti park szívében, érintetlen trópusi esőerdővel körülvéve.",
+                  "category": "landmark",
+                  "coords": [
+                        94.463255,
+                        22.31273
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Elephant Camp",
+                  "text": "Aici sunt antrenați elefanții care transportă pelerinii prin jungla deasă către altarul Alaungdaw Kathapa.",
+                  "category": "recreational",
+                  "coords": [
+                        94.476624,
+                        22.317919
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "O pagodă solitară în inima parcului național, înconjurată de pădure tropicală virgină.",
+                  "category": "landmark",
+                  "coords": [
+                        94.463255,
+                        22.31273
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Elephant Camp",
+                  "text": "Elephants here are trained to carry pilgrims through the dense jungle to the Alaungdaw Kathapa shrine.",
+                  "category": "recreational",
+                  "coords": [
+                        94.476624,
+                        22.317919
+                  ]
+            },
+            {
+                  "name": "စေတီ",
+                  "text": "A solitary pagoda in the heart of the national park, surrounded by pristine tropical rainforest.",
+                  "category": "landmark",
+                  "coords": [
+                        94.463255,
+                        22.31273
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "MM-01",
     coords: [94.4600, 22.3100],
@@ -399,7 +1416,664 @@ export const poiExtraMyanmarNatureV2: POI[] = [
     },
   },
   {
-    id: "hlawga-national-park-nature-v2",
+    id: "hlawga-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "လှော်ကားဥယျာဉ်",
+                  "text": "Der Hlawga Wildlife Park fungiert als zoologisches Reservat zum Schutz der einheimischen Fauna.",
+                  "category": "recreational",
+                  "coords": [
+                        96.116152,
+                        17.042417
+                  ]
+            },
+            {
+                  "name": "Sun Bear",
+                  "text": "Diese zoologische Attraktion im Hlawga-Park zeigt einheimische Malaienbären.",
+                  "category": "landmark",
+                  "coords": [
+                        96.114917,
+                        17.04457
+                  ]
+            },
+            {
+                  "name": "Hlawga Park Elephant Camp",
+                  "text": "Dieses Elefantencamp fungiert als zoologische Attraktion innerhalb des Hlawga-Naturparks.",
+                  "category": "recreational",
+                  "coords": [
+                        96.098985,
+                        17.032347
+                  ]
+            },
+            {
+                  "name": "301 Ancient Statue of Buddha",
+                  "text": "Diese kulturelle Attraktion bietet eine Sammlung von 301 antiken Buddha-Statuen in der Hlawga-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        96.08267,
+                        17.078379
+                  ]
+            },
+            {
+                  "name": "လှော်ကားအမျိုးသားဥယျာဉ်",
+                  "text": "Der weltweit anerkannte Hlawga-Nationalpark dient als wichtiges Wildtierreservat und Zoo.",
+                  "category": "recreational",
+                  "coords": [
+                        96.10318,
+                        17.046181
+                  ]
+            },
+            {
+                  "name": "ရွှေပြည်သာမြို့ဦးစေတီ",
+                  "text": "Die Shwe Pyi Thar Myo Oo Zaydi ist eine markante buddhistische Pagode in der Nähe des Hlawga-Parks.",
+                  "category": "landmark",
+                  "coords": [
+                        96.085025,
+                        16.961576
+                  ]
+            },
+            {
+                  "name": "ကိုးနဝင်းဘုရား",
+                  "text": "Koe Nawin Paya ist eine aktive buddhistische Kultstätte in der Nähe von Hlawga.",
+                  "category": "landmark",
+                  "coords": [
+                        96.098753,
+                        16.972536
+                  ]
+            },
+            {
+                  "name": "ကရင္ဘုရား႐ွိခိုးေက်ာင္း",
+                  "text": "Diese christliche Kultstätte dient der lokalen Karen-Gemeinde in der Nähe des Hlawga-Nationalparks.",
+                  "category": "religious",
+                  "coords": [
+                        96.069001,
+                        17.049061
+                  ]
+            },
+            {
+                  "name": "ရွှေမော်တင်စေတီတော်",
+                  "text": "Die ShweMawTin-Pagode ist ein buddhistisches Heiligtum, das einen friedlichen Rückzugsort in der Gegend von Hlawga bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        96.036941,
+                        17.093419
+                  ]
+            },
+            {
+                  "name": "St. Gemma Galgani's Catholic Church",
+                  "text": "Die katholische Kirche St. Gemma Galgani bietet einen formellen Rahmen für katholische Gottesdienste in der Hlawga-Region.",
+                  "category": "religious",
+                  "coords": [
+                        96.09742,
+                        16.966529
+                  ]
+            },
+            {
+                  "name": "သာဓုကန္ေစတီ",
+                  "text": "Die Thar Du Kan Pagode fungiert als spirituelles buddhistisches Wahrzeichen für die Einwohner von Hlawga.",
+                  "category": "landmark",
+                  "coords": [
+                        96.098506,
+                        16.983269
+                  ]
+            },
+            {
+                  "name": "နှစ်ကျိပ်ရှစ်ဆူဘုရား",
+                  "text": "Dieser buddhistische Tempel ist den 28 Buddhas gewidmet und dient als wichtige religiöse Stätte in der Nähe von Hlawga.",
+                  "category": "religious",
+                  "coords": [
+                        96.093538,
+                        17.025492
+                  ]
+            },
+            {
+                  "name": "Thae Phyu Taw Ya",
+                  "text": "Thae Phyu Taw Ya ist ein abgelegener Ort für buddhistische Meditation in der Gegend von Hlawga.",
+                  "category": "landmark",
+                  "coords": [
+                        96.086081,
+                        17.055258
+                  ]
+            },
+            {
+                  "name": "သီရိ မာလာစျေး Thiri Marlar Market",
+                  "text": "Der Thiri Marlar Markt ist ein belebter lokaler Marktplatz, auf dem Händler in Hlawga Waren des täglichen Bedarfs verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        96.081807,
+                        16.956387
+                  ]
+            },
+            {
+                  "name": "သံဒင်းဈေး",
+                  "text": "Der Than Din Markt bietet frische Produkte und Dinge des täglichen Bedarfs als Gemeindemarktplatz in der Nähe von Hlawga.",
+                  "category": "cultural",
+                  "coords": [
+                        96.062254,
+                        16.963989
+                  ]
+            },
+            {
+                  "name": "လေုာ်ကားစျေး Hlaw Kar Market",
+                  "text": "Der Hlaw Kar Markt ist ein wichtiger Handelsknotenpunkt für das Markttreiben in der Hlawga-Region.",
+                  "category": "cultural",
+                  "coords": [
+                        96.073815,
+                        16.999631
+                  ]
+            },
+            {
+                  "name": "Hmawbi market",
+                  "text": "Der Hmawbi-Markt fungiert als geschäftiger regionaler Marktplatz in der Nähe des Hlawga-Naturparks.",
+                  "category": "cultural",
+                  "coords": [
+                        96.04266,
+                        17.100221
+                  ]
+            },
+            {
+                  "name": "ငေမာက္ေစ်း",
+                  "text": "Der NgaMauk-Markt bietet als zentraler Marktplatz in der Region Hlawga eine Vielzahl lokaler Waren.",
+                  "category": "cultural",
+                  "coords": [
+                        96.075967,
+                        16.980092
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "လှော်ကားဥယျာဉ်",
+                  "text": "A Hlawga Vadaspark állattani rezervátumként működik, védve a helyi faunát.",
+                  "category": "recreational",
+                  "coords": [
+                        96.116152,
+                        17.042417
+                  ]
+            },
+            {
+                  "name": "Sun Bear",
+                  "text": "A Hlawga park ezen állattani látványossága helyi maláj medvéket mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        96.114917,
+                        17.04457
+                  ]
+            },
+            {
+                  "name": "Hlawga Park Elephant Camp",
+                  "text": "Ez az elefánttábor állattani látványosságként működik a Hlawga natúrparkon belül.",
+                  "category": "recreational",
+                  "coords": [
+                        96.098985,
+                        17.032347
+                  ]
+            },
+            {
+                  "name": "301 Ancient Statue of Buddha",
+                  "text": "Ez a kulturális látványosság 301 ősi Buddha-szobor gyűjteményével büszkélkedhet a Hlawga régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        96.08267,
+                        17.078379
+                  ]
+            },
+            {
+                  "name": "လှော်ကားအမျိုးသားဥယျာဉ်",
+                  "text": "A világszerte ismert Hlawga Nemzeti Park jelentős vadasparkként és állatkertként szolgál.",
+                  "category": "recreational",
+                  "coords": [
+                        96.10318,
+                        17.046181
+                  ]
+            },
+            {
+                  "name": "ရွှေပြည်သာမြို့ဦးစေတီ",
+                  "text": "A Shwe Pyi Thar Myo Oo Zaydi egy kiemelkedő buddhista pagoda a Hlawga park közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        96.085025,
+                        16.961576
+                  ]
+            },
+            {
+                  "name": "ကိုးနဝင်းဘုရား",
+                  "text": "A Koe Nawin Paya egy aktív buddhista vallási helyszín Hlawga környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        96.098753,
+                        16.972536
+                  ]
+            },
+            {
+                  "name": "ကရင္ဘုရား႐ွိခိုးေက်ာင္း",
+                  "text": "Ez a keresztény istentiszteleti hely a helyi karen közösséget szolgálja a Hlawga nemzeti park közelében.",
+                  "category": "religious",
+                  "coords": [
+                        96.069001,
+                        17.049061
+                  ]
+            },
+            {
+                  "name": "ရွှေမော်တင်စေတီတော်",
+                  "text": "A ShweMawTin pagoda egy buddhista szentély, amely békés menedéket nyújt Hlawga területén.",
+                  "category": "landmark",
+                  "coords": [
+                        96.036941,
+                        17.093419
+                  ]
+            },
+            {
+                  "name": "St. Gemma Galgani's Catholic Church",
+                  "text": "A Szent Gemma Galgani katolikus templom hivatalos helyszínt biztosít a katolikus istentiszteletek számára a Hlawga régióban.",
+                  "category": "religious",
+                  "coords": [
+                        96.09742,
+                        16.966529
+                  ]
+            },
+            {
+                  "name": "သာဓုကန္ေစတီ",
+                  "text": "A Thar Du Kan pagoda spirituális buddhista mérföldkőként szolgál Hlawga lakosai számára.",
+                  "category": "landmark",
+                  "coords": [
+                        96.098506,
+                        16.983269
+                  ]
+            },
+            {
+                  "name": "နှစ်ကျိပ်ရှစ်ဆူဘုရား",
+                  "text": "Ezt a buddhista templomot a 28 Buddhának szentelték, és fontos vallási helyszínként szolgál Hlawga közelében.",
+                  "category": "religious",
+                  "coords": [
+                        96.093538,
+                        17.025492
+                  ]
+            },
+            {
+                  "name": "Thae Phyu Taw Ya",
+                  "text": "A Thae Phyu Taw Ya egy eldugott buddhista meditációs elvonulóhely Hlawga területén.",
+                  "category": "landmark",
+                  "coords": [
+                        96.086081,
+                        17.055258
+                  ]
+            },
+            {
+                  "name": "သီရိ မာလာစျေး Thiri Marlar Market",
+                  "text": "A Thiri Marlar Market egy nyüzsgő helyi piac, ahol az árusok mindennapi cikkeket árulnak Hlawgában.",
+                  "category": "cultural",
+                  "coords": [
+                        96.081807,
+                        16.956387
+                  ]
+            },
+            {
+                  "name": "သံဒင်းဈေး",
+                  "text": "A Than Din Market friss termékeket és napi szükségleti cikkeket kínál közösségi piacként Hlawga közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        96.062254,
+                        16.963989
+                  ]
+            },
+            {
+                  "name": "လေုာ်ကားစျေး Hlaw Kar Market",
+                  "text": "A Hlaw Kar Market a piaci kereskedelem létfontosságú kereskedelmi központja a Hlawga régióban.",
+                  "category": "cultural",
+                  "coords": [
+                        96.073815,
+                        16.999631
+                  ]
+            },
+            {
+                  "name": "Hmawbi market",
+                  "text": "A Hmawbi piac nyüzsgő regionális piacként működik a Hlawga natúrpark közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        96.04266,
+                        17.100221
+                  ]
+            },
+            {
+                  "name": "ငေမာက္ေစ်း",
+                  "text": "A NgaMauk Market helyi áruk széles választékát kínálja központi piacként Hlawga területén.",
+                  "category": "cultural",
+                  "coords": [
+                        96.075967,
+                        16.980092
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "လှော်ကားဥယျာဉ်",
+                  "text": "Parcul Zoologic Hlawga funcționează ca o rezervație zoologică ce protejează fauna nativă.",
+                  "category": "recreational",
+                  "coords": [
+                        96.116152,
+                        17.042417
+                  ]
+            },
+            {
+                  "name": "Sun Bear",
+                  "text": "Această atracție zoologică din parcul Hlawga prezintă urși soare nativi.",
+                  "category": "landmark",
+                  "coords": [
+                        96.114917,
+                        17.04457
+                  ]
+            },
+            {
+                  "name": "Hlawga Park Elephant Camp",
+                  "text": "Această tabără de elefanți operează ca o atracție zoologică în cadrul parcului natural Hlawga.",
+                  "category": "recreational",
+                  "coords": [
+                        96.098985,
+                        17.032347
+                  ]
+            },
+            {
+                  "name": "301 Ancient Statue of Buddha",
+                  "text": "Această atracție culturală prezintă o colecție de 301 statui antice ale lui Buddha în regiunea Hlawga.",
+                  "category": "landmark",
+                  "coords": [
+                        96.08267,
+                        17.078379
+                  ]
+            },
+            {
+                  "name": "လှော်ကားအမျိုးသားဥယျာဉ်",
+                  "text": "Parcul Național Hlawga, recunoscut la nivel mondial, servește drept o importantă rezervație zoologică și de viață sălbatică.",
+                  "category": "recreational",
+                  "coords": [
+                        96.10318,
+                        17.046181
+                  ]
+            },
+            {
+                  "name": "ရွှေပြည်သာမြို့ဦးစေတီ",
+                  "text": "Shwe Pyi Thar Myo Oo Zaydi este o pagodă budistă proeminentă în apropierea parcului Hlawga.",
+                  "category": "landmark",
+                  "coords": [
+                        96.085025,
+                        16.961576
+                  ]
+            },
+            {
+                  "name": "ကိုးနဝင်းဘုရား",
+                  "text": "Koe Nawin Paya este un sit religios budist activ situat în vecinătatea Hlawga.",
+                  "category": "landmark",
+                  "coords": [
+                        96.098753,
+                        16.972536
+                  ]
+            },
+            {
+                  "name": "ကရင္ဘုရား႐ွိခိုးေက်ာင္း",
+                  "text": "Acest lăcaș de cult creștin deservește comunitatea locală Karen de lângă parcul național Hlawga.",
+                  "category": "religious",
+                  "coords": [
+                        96.069001,
+                        17.049061
+                  ]
+            },
+            {
+                  "name": "ရွှေမော်တင်စေတီတော်",
+                  "text": "Pagoda ShweMawTin este un sanctuar budist care oferă o retragere pașnică în zona Hlawga.",
+                  "category": "landmark",
+                  "coords": [
+                        96.036941,
+                        17.093419
+                  ]
+            },
+            {
+                  "name": "St. Gemma Galgani's Catholic Church",
+                  "text": "Biserica catolică Sfânta Gemma Galgani oferă un cadru formal pentru slujbele catolice din regiunea Hlawga.",
+                  "category": "religious",
+                  "coords": [
+                        96.09742,
+                        16.966529
+                  ]
+            },
+            {
+                  "name": "သာဓုကန္ေစတီ",
+                  "text": "Pagoda Thar Du Kan funcționează ca un punct de reper spiritual budist pentru locuitorii din Hlawga.",
+                  "category": "landmark",
+                  "coords": [
+                        96.098506,
+                        16.983269
+                  ]
+            },
+            {
+                  "name": "နှစ်ကျိပ်ရှစ်ဆူဘုရား",
+                  "text": "Acest templu budist este dedicat celor 28 de Buddha și servește drept un important sit religios lângă Hlawga.",
+                  "category": "religious",
+                  "coords": [
+                        96.093538,
+                        17.025492
+                  ]
+            },
+            {
+                  "name": "Thae Phyu Taw Ya",
+                  "text": "Thae Phyu Taw Ya este un loc retras pentru meditație budistă situat în zona Hlawga.",
+                  "category": "landmark",
+                  "coords": [
+                        96.086081,
+                        17.055258
+                  ]
+            },
+            {
+                  "name": "သီရိ မာလာစျေး Thiri Marlar Market",
+                  "text": "Piața Thiri Marlar este o piață locală plină de viață unde vânzătorii oferă bunuri de zi cu zi în Hlawga.",
+                  "category": "cultural",
+                  "coords": [
+                        96.081807,
+                        16.956387
+                  ]
+            },
+            {
+                  "name": "သံဒင်းဈေး",
+                  "text": "Piața Than Din oferă produse proaspete și necesități zilnice, fiind o piață comunitară lângă Hlawga.",
+                  "category": "cultural",
+                  "coords": [
+                        96.062254,
+                        16.963989
+                  ]
+            },
+            {
+                  "name": "လေုာ်ကားစျေး Hlaw Kar Market",
+                  "text": "Piața Hlaw Kar este un centru comercial vital pentru tranzacțiile de pe piață în regiunea Hlawga.",
+                  "category": "cultural",
+                  "coords": [
+                        96.073815,
+                        16.999631
+                  ]
+            },
+            {
+                  "name": "Hmawbi market",
+                  "text": "Piața Hmawbi funcționează ca o piață regională aglomerată, aproape de parcul natural Hlawga.",
+                  "category": "cultural",
+                  "coords": [
+                        96.04266,
+                        17.100221
+                  ]
+            },
+            {
+                  "name": "ငေမာက္ေစ်း",
+                  "text": "Piața NgaMauk oferă o varietate de bunuri locale, servind drept piață centrală în zona Hlawga.",
+                  "category": "cultural",
+                  "coords": [
+                        96.075967,
+                        16.980092
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hlawga Wildlife Park",
+                  "text": "The Hlawga Wildlife Park functions as a zoological reserve protecting native fauna.",
+                  "category": "recreational",
+                  "coords": [
+                        96.116152,
+                        17.042417
+                  ]
+            },
+            {
+                  "name": "Sun Bear",
+                  "text": "This zoological attraction within the Hlawga park features native sun bears.",
+                  "category": "landmark",
+                  "coords": [
+                        96.114917,
+                        17.04457
+                  ]
+            },
+            {
+                  "name": "Hlawga Park Elephant Camp",
+                  "text": "This elephant camp operates as a zoological attraction within the Hlawga natural park.",
+                  "category": "recreational",
+                  "coords": [
+                        96.098985,
+                        17.032347
+                  ]
+            },
+            {
+                  "name": "301 Ancient Statue of Buddha",
+                  "text": "This cultural attraction features a collection of 301 ancient Buddha statues in the Hlawga region.",
+                  "category": "landmark",
+                  "coords": [
+                        96.08267,
+                        17.078379
+                  ]
+            },
+            {
+                  "name": "Hlawga National Park",
+                  "text": "The globally recognized Hlawga National Park serves as a major wildlife reserve and zoo.",
+                  "category": "recreational",
+                  "coords": [
+                        96.10318,
+                        17.046181
+                  ]
+            },
+            {
+                  "name": "Shwe Pyi Thar Myo Oo Zaydi",
+                  "text": "The Shwe Pyi Thar Myo Oo Zaydi is a prominent Buddhist pagoda near the Hlawga park.",
+                  "category": "landmark",
+                  "coords": [
+                        96.085025,
+                        16.961576
+                  ]
+            },
+            {
+                  "name": "Koe Nawin Paya",
+                  "text": "Koe Nawin Paya is an active Buddhist religious site set in the vicinity of Hlawga.",
+                  "category": "landmark",
+                  "coords": [
+                        96.098753,
+                        16.972536
+                  ]
+            },
+            {
+                  "name": "Karen Church",
+                  "text": "This Christian place of worship serves the local Karen community near the Hlawga national park.",
+                  "category": "religious",
+                  "coords": [
+                        96.069001,
+                        17.049061
+                  ]
+            },
+            {
+                  "name": "ShweMawTin Pagoda",
+                  "text": "The ShweMawTin Pagoda is a Buddhist sanctuary offering a peaceful retreat in the Hlawga area.",
+                  "category": "landmark",
+                  "coords": [
+                        96.036941,
+                        17.093419
+                  ]
+            },
+            {
+                  "name": "St. Gemma Galgani's Catholic Church",
+                  "text": "St. Gemma Galgani's Catholic Church provides a formal setting for Catholic services in the Hlawga region.",
+                  "category": "religious",
+                  "coords": [
+                        96.09742,
+                        16.966529
+                  ]
+            },
+            {
+                  "name": "Thar Du Kan Pagoda",
+                  "text": "Thar Du Kan Pagoda functions as a spiritual Buddhist landmark for the residents of Hlawga.",
+                  "category": "landmark",
+                  "coords": [
+                        96.098506,
+                        16.983269
+                  ]
+            },
+            {
+                  "name": "28 Buddhas Pagoda",
+                  "text": "This Buddhist temple is dedicated to the 28 Buddhas and serves as a major religious site near Hlawga.",
+                  "category": "religious",
+                  "coords": [
+                        96.093538,
+                        17.025492
+                  ]
+            },
+            {
+                  "name": "Thae Phyu Taw Ya",
+                  "text": "Thae Phyu Taw Ya is a secluded Buddhist meditation retreat located within the Hlawga area.",
+                  "category": "landmark",
+                  "coords": [
+                        96.086081,
+                        17.055258
+                  ]
+            },
+            {
+                  "name": "Thiri Marlar Market",
+                  "text": "Thiri Marlar Market is a bustling local marketplace where vendors sell everyday goods in Hlawga.",
+                  "category": "cultural",
+                  "coords": [
+                        96.081807,
+                        16.956387
+                  ]
+            },
+            {
+                  "name": "Than Din Market",
+                  "text": "Than Din Market provides fresh produce and daily necessities as a community marketplace near Hlawga.",
+                  "category": "cultural",
+                  "coords": [
+                        96.062254,
+                        16.963989
+                  ]
+            },
+            {
+                  "name": "Hlaw Kar Market",
+                  "text": "The Hlaw Kar Market is a vital commercial hub for marketplace trading in the Hlawga region.",
+                  "category": "cultural",
+                  "coords": [
+                        96.073815,
+                        16.999631
+                  ]
+            },
+            {
+                  "name": "Hmawbi market",
+                  "text": "The Hmawbi market functions as a bustling regional marketplace close to the Hlawga natural park.",
+                  "category": "cultural",
+                  "coords": [
+                        96.04266,
+                        17.100221
+                  ]
+            },
+            {
+                  "name": "NgaMauk Market",
+                  "text": "NgaMauk Market offers a variety of local goods as a central marketplace in the Hlawga area.",
+                  "category": "cultural",
+                  "coords": [
+                        96.075967,
+                        16.980092
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "MM-06",
     coords: [96.1100, 17.0400],
@@ -531,7 +2205,412 @@ export const poiExtraMyanmarNatureV2: POI[] = [
     },
   },
   {
-    id: "indawgyi-lake-nature-v2",
+    id: "indawgyi-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "ပုလ္လင်တောင် ဘုန်းကြီးကျောင်း",
+                  "text": "Ein buddhistisches Kloster auf dem Berg Palin, das einen weiten Blick über das Indawgyi-See-Reservat bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        96.414252,
+                        25.093568
+                  ]
+            },
+            {
+                  "name": "Nam Paung Zin Monastery and Pagoda Ruins",
+                  "text": "Die Ruinen einer alten Pagode und eines Klosters, die von der historischen religiösen Bedeutung der Region am Indawgyi-See zeugen.",
+                  "category": "landmark",
+                  "coords": [
+                        96.292493,
+                        25.129998
+                  ]
+            },
+            {
+                  "name": "Kat Kyaw Mt.",
+                  "text": "Ein Aussichtspunkt auf dem Kat Kyaw Berg mit Blick auf den größten natürlichen See Myanmars.",
+                  "category": "natural",
+                  "coords": [
+                        96.278363,
+                        25.079844
+                  ]
+            },
+            {
+                  "name": "Shan Tribe",
+                  "text": "Ein Kulturzentrum, das die Traditionen und das Erbe der lokalen Shan-ni-Ethnie am Indawgyi-See bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        96.286797,
+                        25.100644
+                  ]
+            },
+            {
+                  "name": "ဟိုဖာကမ်းခြေ",
+                  "text": "Eine Pagode in der Nähe des Dorfes Hopa, die als Aussichtspunkt über die südlichen Ufer des Sees dient.",
+                  "category": "natural",
+                  "coords": [
+                        96.290756,
+                        25.11398
+                  ]
+            },
+            {
+                  "name": "ရွှေမဥ္ဇူ ဘုရား",
+                  "text": "Diese berühmte Pagode wurde auf Stelzen direkt im Wasser des Indawgyi-Sees errichtet.",
+                  "category": "landmark",
+                  "coords": [
+                        96.316087,
+                        25.148745
+                  ]
+            },
+            {
+                  "name": "footprint",
+                  "text": "Eine heilige Stätte am Seeufer, die einen verehrten Fußabdruck des Buddha beherbergt.",
+                  "category": "landmark",
+                  "coords": [
+                        96.314543,
+                        25.190465
+                  ]
+            },
+            {
+                  "name": "In Tha monastery",
+                  "text": "Ein Kloster der In-Tha-Gemeinschaft, das am Rand der Feuchtgebiete des Indawgyi-Sees liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        96.365727,
+                        25.033843
+                  ]
+            },
+            {
+                  "name": "Monastery",
+                  "text": "Ein buddhistisches Kloster am Westufer des Sees, das als lokales Zentrum für spirituelle Einkehr dient.",
+                  "category": "landmark",
+                  "coords": [
+                        96.357122,
+                        25.071558
+                  ]
+            },
+            {
+                  "name": "pagoda",
+                  "text": "Eine traditionelle Pagode mit einer vergoldeten Spitze, die typisch für die Sakralarchitektur im Norden Myanmars ist.",
+                  "category": "landmark",
+                  "coords": [
+                        96.31158,
+                        25.182675
+                  ]
+            },
+            {
+                  "name": "Loi mun monastery",
+                  "text": "Ein Klosterkomplex auf einer Anhöhe, der das tägliche Leben am Indawgyi-See überblickt.",
+                  "category": "landmark",
+                  "coords": [
+                        96.313359,
+                        25.187393
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ပုလ္လင်တောင် ဘုန်းကြီးကျောင်း",
+                  "text": "Buddhista kolostor a Palin-hegyen, amely széles kilátást nyújt az Indawgyi-tó természetvédelmi területére.",
+                  "category": "landmark",
+                  "coords": [
+                        96.414252,
+                        25.093568
+                  ]
+            },
+            {
+                  "name": "Nam Paung Zin Monastery and Pagoda Ruins",
+                  "text": "Egy régi pagoda és kolostor romjai, amelyek az Indawgyi-tó környékének történelmi vallási jelentőségéről tanúskodnak.",
+                  "category": "landmark",
+                  "coords": [
+                        96.292493,
+                        25.129998
+                  ]
+            },
+            {
+                  "name": "Kat Kyaw Mt.",
+                  "text": "Kilátópont a Kat Kyaw-hegyen, ahonnan rálátni Mianmar legnagyobb természetes tavára.",
+                  "category": "natural",
+                  "coords": [
+                        96.278363,
+                        25.079844
+                  ]
+            },
+            {
+                  "name": "Shan Tribe",
+                  "text": "Kulturális központ, amely a helyi san-ni etnikai csoport hagyományait és örökségét őrzi az Indawgyi-tónál.",
+                  "category": "museum",
+                  "coords": [
+                        96.286797,
+                        25.100644
+                  ]
+            },
+            {
+                  "name": "ဟိုဖာကမ်းခြေ",
+                  "text": "Pagoda Hopa falu közelében, amely kilátópontként szolgál a tó déli partjaira.",
+                  "category": "natural",
+                  "coords": [
+                        96.290756,
+                        25.11398
+                  ]
+            },
+            {
+                  "name": "ရွှေမဥ္ဇူ ဘုရား",
+                  "text": "Ez a híres pagoda cölöpökre épült közvetlenül az Indawgyi-tó vizében.",
+                  "category": "landmark",
+                  "coords": [
+                        96.316087,
+                        25.148745
+                  ]
+            },
+            {
+                  "name": "footprint",
+                  "text": "Szent hely a tóparton, amely egy tisztelt Buddha-lábnyomnak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        96.314543,
+                        25.190465
+                  ]
+            },
+            {
+                  "name": "In Tha monastery",
+                  "text": "Az In-Tha közösség kolostora, amely az Indawgyi-tó mocsaras területeinek szélén található.",
+                  "category": "landmark",
+                  "coords": [
+                        96.365727,
+                        25.033843
+                  ]
+            },
+            {
+                  "name": "Monastery",
+                  "text": "Buddhista kolostor a tó nyugati partján, amely a spirituális elvonulás helyi központja.",
+                  "category": "landmark",
+                  "coords": [
+                        96.357122,
+                        25.071558
+                  ]
+            },
+            {
+                  "name": "pagoda",
+                  "text": "Hagyományos pagoda aranyozott csúccsal, amely jellemző Észak-Mianmar szakrális építészetére.",
+                  "category": "landmark",
+                  "coords": [
+                        96.31158,
+                        25.182675
+                  ]
+            },
+            {
+                  "name": "Loi mun monastery",
+                  "text": "Kolostorkomplexum egy magaslaton, amely az Indawgyi-tó mindennapi életére néz.",
+                  "category": "landmark",
+                  "coords": [
+                        96.313359,
+                        25.187393
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ပုလ္လင်တောင် ဘုန်းကြီးကျောင်း",
+                  "text": "O mănăstire budistă pe muntele Palin, care oferă o vedere panoramică asupra rezervației lacului Indawgyi.",
+                  "category": "landmark",
+                  "coords": [
+                        96.414252,
+                        25.093568
+                  ]
+            },
+            {
+                  "name": "Nam Paung Zin Monastery and Pagoda Ruins",
+                  "text": "Ruinele unei vechi pagode și mănăstiri, care atestă importanța religioasă istorică a regiunii lacului Indawgyi.",
+                  "category": "landmark",
+                  "coords": [
+                        96.292493,
+                        25.129998
+                  ]
+            },
+            {
+                  "name": "Kat Kyaw Mt.",
+                  "text": "Un punct de observație pe muntele Kat Kyaw, cu vedere spre cel mai mare lac natural din Myanmar.",
+                  "category": "natural",
+                  "coords": [
+                        96.278363,
+                        25.079844
+                  ]
+            },
+            {
+                  "name": "Shan Tribe",
+                  "text": "Un centru comunitar care păstrează tradițiile și moștenirea etniei locale Shan-ni de lângă lacul Indawgyi.",
+                  "category": "museum",
+                  "coords": [
+                        96.286797,
+                        25.100644
+                  ]
+            },
+            {
+                  "name": "ဟိုဖာကမ်းခြေ",
+                  "text": "O pagodă lângă satul Hopa, care servește ca punct de observație asupra malurilor sudice ale lacului.",
+                  "category": "natural",
+                  "coords": [
+                        96.290756,
+                        25.11398
+                  ]
+            },
+            {
+                  "name": "ရွှေမဥ္ဇူ ဘုရား",
+                  "text": "Această celebră pagodă a fost construită pe piloni direct în apele lacului Indawgyi.",
+                  "category": "landmark",
+                  "coords": [
+                        96.316087,
+                        25.148745
+                  ]
+            },
+            {
+                  "name": "footprint",
+                  "text": "Un sit sacru pe malul lacului, care adăpostește o amprentă venerată a lui Buddha.",
+                  "category": "landmark",
+                  "coords": [
+                        96.314543,
+                        25.190465
+                  ]
+            },
+            {
+                  "name": "In Tha monastery",
+                  "text": "O mănăstire a comunității In Tha, situată la marginea zonelor umede ale lacului Indawgyi.",
+                  "category": "landmark",
+                  "coords": [
+                        96.365727,
+                        25.033843
+                  ]
+            },
+            {
+                  "name": "Monastery",
+                  "text": "O mănăstire budistă pe malul de vest al lacului, care servește ca centru local pentru reculegere spirituală.",
+                  "category": "landmark",
+                  "coords": [
+                        96.357122,
+                        25.071558
+                  ]
+            },
+            {
+                  "name": "pagoda",
+                  "text": "O pagodă tradițională cu vârful aurit, tipică pentru arhitectura sacră din nordul Myanmarului.",
+                  "category": "landmark",
+                  "coords": [
+                        96.31158,
+                        25.182675
+                  ]
+            },
+            {
+                  "name": "Loi mun monastery",
+                  "text": "Un complex monahal pe o înălțime, care domină viața de zi cu zi de pe lacul Indawgyi.",
+                  "category": "landmark",
+                  "coords": [
+                        96.313359,
+                        25.187393
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mt. Palin Monastery",
+                  "text": "A Buddhist monastery on Mt. Palin, offering wide views over the Indawgyi Lake nature reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        96.414252,
+                        25.093568
+                  ]
+            },
+            {
+                  "name": "Nam Paung Zin Monastery and Pagoda Ruins",
+                  "text": "The ruins of an ancient pagoda and monastery, testifying to the historical religious importance of the Indawgyi Lake region.",
+                  "category": "landmark",
+                  "coords": [
+                        96.292493,
+                        25.129998
+                  ]
+            },
+            {
+                  "name": "Kat Kyaw Mt.",
+                  "text": "A viewpoint on Kat Kyaw Mt. overlooking Myanmar's largest natural lake.",
+                  "category": "natural",
+                  "coords": [
+                        96.278363,
+                        25.079844
+                  ]
+            },
+            {
+                  "name": "Shan-ni Community Center",
+                  "text": "A community center preserving the traditions and heritage of the local Shan-ni ethnic group at Indawgyi Lake.",
+                  "category": "museum",
+                  "coords": [
+                        96.286797,
+                        25.100644
+                  ]
+            },
+            {
+                  "name": "Hopa Pagoda",
+                  "text": "A pagoda near Hopa village that serves as a vantage point over the southern shores of the lake.",
+                  "category": "natural",
+                  "coords": [
+                        96.290756,
+                        25.11398
+                  ]
+            },
+            {
+                  "name": "ရွှေမဥ္ဇူ ဘုရား",
+                  "text": "This famous pagoda was built on stilts directly in the waters of Indawgyi Lake.",
+                  "category": "landmark",
+                  "coords": [
+                        96.316087,
+                        25.148745
+                  ]
+            },
+            {
+                  "name": "footprint",
+                  "text": "A sacred site on the lakeshore housing a revered footprint of the Buddha.",
+                  "category": "landmark",
+                  "coords": [
+                        96.314543,
+                        25.190465
+                  ]
+            },
+            {
+                  "name": "In Tha monastery",
+                  "text": "A monastery of the In Tha community, located on the edge of the Indawgyi Lake wetlands.",
+                  "category": "landmark",
+                  "coords": [
+                        96.365727,
+                        25.033843
+                  ]
+            },
+            {
+                  "name": "Monastery",
+                  "text": "A Buddhist monastery on the western shore of the lake, serving as a local center for spiritual retreat.",
+                  "category": "landmark",
+                  "coords": [
+                        96.357122,
+                        25.071558
+                  ]
+            },
+            {
+                  "name": "pagoda",
+                  "text": "A traditional pagoda with a gilded spire, typical of the sacred architecture in northern Myanmar.",
+                  "category": "landmark",
+                  "coords": [
+                        96.31158,
+                        25.182675
+                  ]
+            },
+            {
+                  "name": "Loi mun monastery",
+                  "text": "A monastery complex on an elevation overlooking the daily life on Indawgyi Lake.",
+                  "category": "landmark",
+                  "coords": [
+                        96.313359,
+                        25.187393
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "MM-11",
     coords: [96.3400, 25.1200],
@@ -619,7 +2698,124 @@ export const poiExtraMyanmarNatureV2: POI[] = [
     },
   },
   {
-    id: "moeyungyi-wetland-nature-v2",
+    id: "moeyungyi-wetland-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "မေရဉ္စရာမြို့ဟောင်း (ဟံသာဝတီမြို့​ဟောင်း ၃၂ မြို့)",
+                  "text": "Die archäologischen Überreste einer antiken Siedlung in der Nähe des Feuchtgebiets Moeyungyi.",
+                  "category": "historical",
+                  "coords": [
+                        96.524251,
+                        17.618359
+                  ]
+            },
+            {
+                  "name": "ဘူတာဂျာမေဗလီ",
+                  "text": "Eine lokale muslimische Kultstätte, die der Gemeinde in den Feuchtgebieten von Moeyungyi dient.",
+                  "category": "landmark",
+                  "coords": [
+                        96.523035,
+                        17.47851
+                  ]
+            },
+            {
+                  "name": "မင်းလမ်းဂျာမေဗလီ",
+                  "text": "Ein muslimischer Versammlungs- und Gebetsort in der Feuchtgebietsregion Moeyungyi.",
+                  "category": "landmark",
+                  "coords": [
+                        96.527255,
+                        17.476579
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "မေရဉ္စရာမြို့ဟောင်း (ဟံသာဝတီမြို့​ဟောင်း ၃၂ မြို့)",
+                  "text": "Egy ősi település régészeti maradványai a Moeyungyi vizes élőhely közelében.",
+                  "category": "historical",
+                  "coords": [
+                        96.524251,
+                        17.618359
+                  ]
+            },
+            {
+                  "name": "ဘူတာဂျာမေဗလီ",
+                  "text": "Egy helyi muszlim istentiszteleti hely, amely a Moeyungyi vizes élőhelyek közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        96.523035,
+                        17.47851
+                  ]
+            },
+            {
+                  "name": "မင်းလမ်းဂျာမေဗလီ",
+                  "text": "Muszlim gyülekezeti és imahely a Moeyungyi vizes élőhely régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        96.527255,
+                        17.476579
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "မေရဉ္စရာမြို့ဟောင်း (ဟံသာဝတီမြို့​ဟောင်း ၃၂ မြို့)",
+                  "text": "Rămășițele arheologice ale unei așezări antice din apropierea zonei umede Moeyungyi.",
+                  "category": "historical",
+                  "coords": [
+                        96.524251,
+                        17.618359
+                  ]
+            },
+            {
+                  "name": "ဘူတာဂျာမေဗလီ",
+                  "text": "Un lăcaș de cult musulman local care deservește comunitatea de lângă zonele umede Moeyungyi.",
+                  "category": "landmark",
+                  "coords": [
+                        96.523035,
+                        17.47851
+                  ]
+            },
+            {
+                  "name": "မင်းလမ်းဂျာမေဗလီ",
+                  "text": "Un loc musulman de adunare și rugăciune situat în regiunea zonelor umede Moeyungyi.",
+                  "category": "landmark",
+                  "coords": [
+                        96.527255,
+                        17.476579
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mayrinzaya Old City",
+                  "text": "The archaeological remains of an ancient settlement near the Moeyungyi wetland area.",
+                  "category": "historical",
+                  "coords": [
+                        96.524251,
+                        17.618359
+                  ]
+            },
+            {
+                  "name": "Butar Jamay Masjid",
+                  "text": "A local Muslim place of worship serving the community near the Moeyungyi wetlands.",
+                  "category": "landmark",
+                  "coords": [
+                        96.523035,
+                        17.47851
+                  ]
+            },
+            {
+                  "name": "Minlan Jamay Masjid",
+                  "text": "A Muslim site of gathering and prayer located in the Moeyungyi wetland region.",
+                  "category": "landmark",
+                  "coords": [
+                        96.527255,
+                        17.476579
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "MM-02",
     coords: [96.5300, 17.5500],
@@ -707,7 +2903,124 @@ export const poiExtraMyanmarNatureV2: POI[] = [
     },
   },
   {
-    id: "tanintharyi-nature-reserve-nature-v2",
+    id: "tanintharyi-nature-reserve-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "ကမ္းပနီ ဘုန္းႀကီးေက်ာင္း",
+                  "text": "Ein ruhiges religiöses Denkmal inmitten des üppigen Grüns des Tanintharyi-Naturreservats.",
+                  "category": "historical",
+                  "coords": [
+                        98.082544,
+                        14.064224
+                  ]
+            },
+            {
+                  "name": "San Maria Bay",
+                  "text": "Ein abgelegener Küstenstrand in der Nähe des Tanintharyi-Naturreservats mit unberührtem Sand und ruhigem Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        98.076145,
+                        14.071233
+                  ]
+            },
+            {
+                  "name": "မျှော်ရစ်ဘုရား",
+                  "text": "Eine markante buddhistische Pagode an einem einzigartigen Standort auf einem felsigen Küstenvorsprung mit Blick auf die Andamanensee.",
+                  "category": "landmark",
+                  "coords": [
+                        98.069755,
+                        14.087216
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ကမ္းပနီ ဘုန္းႀကီးေက်ာင္း",
+                  "text": "Nyugodt vallási műemlék a Tanintharyi Természetvédelmi Terület buja zöldjében.",
+                  "category": "historical",
+                  "coords": [
+                        98.082544,
+                        14.064224
+                  ]
+            },
+            {
+                  "name": "San Maria Bay",
+                  "text": "Egy félreeső tengerparti strand a Tanintharyi Természetvédelmi Terület közelében, érintetlen homokkal és nyugodt vizekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        98.076145,
+                        14.071233
+                  ]
+            },
+            {
+                  "name": "မျှော်ရစ်ဘုရား",
+                  "text": "Egy kiemelkedő buddhista pagoda, amely egyedülálló módon egy sziklás tengerparti kiemelkedésen helyezkedik el, kilátással az Andamán-tengerre.",
+                  "category": "landmark",
+                  "coords": [
+                        98.069755,
+                        14.087216
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ကမ္းပနီ ဘုန္းႀကီးေက်ာင္း",
+                  "text": "Un monument religios senin, cuibărit printre verdeața luxuriantă a Rezervației Naturale Tanintharyi.",
+                  "category": "historical",
+                  "coords": [
+                        98.082544,
+                        14.064224
+                  ]
+            },
+            {
+                  "name": "San Maria Bay",
+                  "text": "O plajă de coastă izolată, în apropiere de Rezervația Naturală Tanintharyi, care oferă nisipuri imaculate și ape liniștite.",
+                  "category": "recreational",
+                  "coords": [
+                        98.076145,
+                        14.071233
+                  ]
+            },
+            {
+                  "name": "မျှော်ရစ်ဘုရား",
+                  "text": "O pagodă budistă proeminentă, poziționată unic pe un afloriment de coastă stâncos, cu vedere la Marea Andaman.",
+                  "category": "landmark",
+                  "coords": [
+                        98.069755,
+                        14.087216
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kanpani Monastery",
+                  "text": "A serene religious monument nestled among the lush greenery of the Tanintharyi Nature Reserve.",
+                  "category": "historical",
+                  "coords": [
+                        98.082544,
+                        14.064224
+                  ]
+            },
+            {
+                  "name": "San Maria Bay",
+                  "text": "A secluded coastal beach near the Tanintharyi Nature Reserve, offering pristine sands and calm waters.",
+                  "category": "recreational",
+                  "coords": [
+                        98.076145,
+                        14.071233
+                  ]
+            },
+            {
+                  "name": "Hmyawyit",
+                  "text": "A prominent Buddhist pagoda uniquely positioned on a rocky coastal outcrop overlooking the Andaman Sea.",
+                  "category": "landmark",
+                  "coords": [
+                        98.069755,
+                        14.087216
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "MM-05",
     coords: [98.0000, 14.1000],
@@ -839,7 +3152,1384 @@ export const poiExtraMyanmarNatureV2: POI[] = [
     },
   },
   {
-    id: "inya-lake-nature-v2",
+    id: "inya-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Myanmar Gems Museum",
+                  "text": "Dieses Museum zeigt eine umfangreiche Sammlung von Edelsteinen, darunter Rubine, Saphire und Jade aus dem ganzen Land.",
+                  "category": "museum",
+                  "coords": [
+                        96.156504,
+                        16.855152
+                  ]
+            },
+            {
+                  "name": "Kaba Aye Pagoda",
+                  "text": "Diese als Weltfriedenspagode bekannte bedeutende buddhistische Stätte wurde für das Sechste Buddhistische Konzil erbaut.",
+                  "category": "religious",
+                  "coords": [
+                        96.154498,
+                        16.856828
+                  ]
+            },
+            {
+                  "name": "မဟာပါသာနလှိုင်ဂူတော်",
+                  "text": "Diese riesige künstliche Höhle in der Nähe der Kaba Aye Pagode wurde speziell erbaut, um die Satta-Panni-Höhle in Indien für das buddhistische Konzil nachzuahmen.",
+                  "category": "natural",
+                  "coords": [
+                        96.153688,
+                        16.859074
+                  ]
+            },
+            {
+                  "name": "ကမ္ဘာအေးဗုဒ္ဓပြတိုက်",
+                  "text": "Dieses Museum im Viertel des Inya-Sees bewahrt wichtige religiöse Artefakte, Schriften und buddhistische Reliquien auf.",
+                  "category": "museum",
+                  "coords": [
+                        96.153128,
+                        16.861164
+                  ]
+            },
+            {
+                  "name": "ဗိုလ်ချုပ်အောင်ဆန်းကြေးရုပ်",
+                  "text": "Dieses imposante Bronzemonument erinnert an den Unabhängigkeitshelden des Landes und dient als lokales Wahrzeichen.",
+                  "category": "historical",
+                  "coords": [
+                        96.180768,
+                        16.864742
+                  ]
+            },
+            {
+                  "name": "ကုလား ဘုရားကျောင်း",
+                  "text": "Ein historisches Bildungsdenkmal, das die frühe Integration der traditionellen religiösen Schulbildung in der Region zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        96.127132,
+                        16.835318
+                  ]
+            },
+            {
+                  "name": "Department of Insein Jail Administrator",
+                  "text": "Dieses Verwaltungsdenkmal repräsentiert ein Stück der komplexen Strafvollzugsgeschichte der Stadt in der Nähe des Inya-Sees.",
+                  "category": "historical",
+                  "coords": [
+                        96.100334,
+                        16.885937
+                  ]
+            },
+            {
+                  "name": "Arts Building",
+                  "text": "Ein markantes Kulturzentrum, das kreative Ausstellungen und Kunstveranstaltungen auf Universitätsniveau im pulsierenden Seengebiet beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        96.134891,
+                        16.832305
+                  ]
+            },
+            {
+                  "name": "Holy Cross",
+                  "text": "Diese christliche Kultstätte zeichnet sich durch eine markante Kreuzarchitektur aus und dient der örtlichen Gemeinde am Inya-See.",
+                  "category": "religious",
+                  "coords": [
+                        96.139784,
+                        16.828446
+                  ]
+            },
+            {
+                  "name": "Sri Kalyana Venkatesa Temple",
+                  "text": "Ein kunstvoller hinduistischer Tempel, der mit farbenfrohen Götterskulpturen geschmückt ist und der lokalen tamilischen Gemeinschaft als spirituelles Zentrum dient.",
+                  "category": "religious",
+                  "coords": [
+                        96.168145,
+                        16.837275
+                  ]
+            },
+            {
+                  "name": "Chan Myae Yeiktha Meditation Center",
+                  "text": "Ein ruhiger Rückzugsort, der geführte Vipassana-Meditationssitzungen in der schattigen Umgebung der Seenplatte anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        96.157332,
+                        16.84868
+                  ]
+            },
+            {
+                  "name": "MICT",
+                  "text": "Als einzigartiges modernes Heiligtum versammelt diese Kultstätte Gemeindemitglieder inmitten des Technologieviertels der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        96.12952,
+                        16.851767
+                  ]
+            },
+            {
+                  "name": "ဇေယျမင်္ဂလာ​ကျောင်းတိုက်​",
+                  "text": "Ein klassisches buddhistisches Kloster aus Holz und Backstein, das ein Zentrum für das tägliche Almosengeben und die klösterliche Ausbildung bildet.",
+                  "category": "religious",
+                  "coords": [
+                        96.123235,
+                        16.835284
+                  ]
+            },
+            {
+                  "name": "Nyaung Si Yay Kan Monastery",
+                  "text": "Dieses Kloster liegt an einem ruhigen örtlichen Teich und lädt Mönche und Laien gleichermaßen zur Besinnung und zum Gebet ein.",
+                  "category": "religious",
+                  "coords": [
+                        96.119989,
+                        16.831624
+                  ]
+            },
+            {
+                  "name": "ဇေတ၀န်ဘုန်းကြီးကျောင်း Zatawon Monestry",
+                  "text": "Diese traditionelle klösterliche Einrichtung bewahrt alte Pali-Lehren und beherbergt junge Novizen aus den umliegenden Vierteln.",
+                  "category": "religious",
+                  "coords": [
+                        96.122196,
+                        16.851895
+                  ]
+            },
+            {
+                  "name": "သဒၶမၼရံသီမဟာစည္ ရိပ္သာ",
+                  "text": "Dieses weitläufige Zentrum ist der Mahasi Sayadaw-Tradition gewidmet und ermöglicht intensive Achtsamkeits-Retreats für internationale Praktizierende.",
+                  "category": "religious",
+                  "coords": [
+                        96.136284,
+                        16.864855
+                  ]
+            },
+            {
+                  "name": "Pansanikaya Monestry",
+                  "text": "Ein angesehenes buddhistisches Heiligtum mit kunstvoll geschnitzten Holzpavillons, die dem Studium der Schriften gewidmet sind.",
+                  "category": "religious",
+                  "coords": [
+                        96.164279,
+                        16.843435
+                  ]
+            },
+            {
+                  "name": "K Family Electric Store",
+                  "text": "Obwohl dieser lokale Gemeindeschrein ungewöhnlich benannt ist, bietet er einen Ort der Anbetung in der Nähe der kommerziellen Einrichtungen des Viertels.",
+                  "category": "religious",
+                  "coords": [
+                        96.177209,
+                        16.851705
+                  ]
+            },
+            {
+                  "name": "Judson Church",
+                  "text": "Diese historische Kirche wurde zu Ehren des amerikanischen Pionier-Missionars Adoniram Judson gegründet und steht anmutig auf dem Universitätscampus.",
+                  "category": "religious",
+                  "coords": [
+                        96.134159,
+                        16.830812
+                  ]
+            },
+            {
+                  "name": "Chinese Temple",
+                  "text": "Dieser mit roten Laternen und aufwendigen Drachenmotiven geschmückte Tempel dient den mahayana-buddhistischen und taoistischen Gemeinden in der Nähe des Sees.",
+                  "category": "religious",
+                  "coords": [
+                        96.13154,
+                        16.818933
+                  ]
+            },
+            {
+                  "name": "San Yeik Nyein Market",
+                  "text": "Ein geschäftiger Freiluftmarkt mit Ständen, an denen frisch gefangener Fisch, tropische Früchte und farbenfrohe Textilien verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        96.188709,
+                        16.903879
+                  ]
+            },
+            {
+                  "name": "ကျောက်ရေတွင်းဈေး",
+                  "text": "Dieser geschäftige Gemeindemarkt ist bekannt für sein Angebot an lokalen Gewürzen und Haushaltswaren und ein täglicher Treffpunkt für die Anwohner.",
+                  "category": "cultural",
+                  "coords": [
+                        96.153528,
+                        16.890186
+                  ]
+            },
+            {
+                  "name": "၂ဈေး",
+                  "text": "Ein gut organisierter kommerzieller Basar, auf dem Verkäufer saisonale Produkte neben traditionellen burmesischen Streetfood-Snacks anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        96.155873,
+                        16.879102
+                  ]
+            },
+            {
+                  "name": "Afternoon Food Market",
+                  "text": "Dieser lebhafte Markt erwacht zum Leben, wenn die Sonne tiefer steht, und bietet brutzelnde Woks und Stände, die dampfende Schüsseln mit Mohinga servieren.",
+                  "category": "cultural",
+                  "coords": [
+                        96.119969,
+                        16.837209
+                  ]
+            },
+            {
+                  "name": "Morning Grocery Market",
+                  "text": "Frühaufsteher strömen auf diesen energiereichen Markt, um das frischeste lokal angebaute Gemüse und aromatische Kräuter zu kaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        96.116966,
+                        16.836647
+                  ]
+            },
+            {
+                  "name": "New Thiri Mingalar Market",
+                  "text": "Ein weitläufiger authentischer lokaler Basar, auf dem ein lebendiges Labyrinth von Verkäufern mit allem von frischen Produkten bis hin zu regionalen Kleidungsstücken handelt.",
+                  "category": "cultural",
+                  "coords": [
+                        96.111406,
+                        16.842398
+                  ]
+            },
+            {
+                  "name": "မြရတနာဈေး",
+                  "text": "Dieses Einkaufszentrum im Viertel ist auf frisches Fleisch und Geflügel spezialisiert und richtet sich hauptsächlich an einheimische Familien, die ihre täglichen Mahlzeiten zubereiten.",
+                  "category": "cultural",
+                  "coords": [
+                        96.11362,
+                        16.863188
+                  ]
+            },
+            {
+                  "name": "Ben Ben Ma",
+                  "text": "Ein kompakter, aber dynamischer Marktplatz, der schnelle Lebensmittel und eine farbenfrohe Auswahl an alltäglichen Haushaltsartikeln bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        96.108572,
+                        16.896498
+                  ]
+            },
+            {
+                  "name": "ဈ ဈေး",
+                  "text": "Ein traditionelles Nachbarschaftsmarkt-Ambiente, in dem frische Blumenarrangements und lokale Trockenwaren stolz präsentiert werden.",
+                  "category": "cultural",
+                  "coords": [
+                        96.161834,
+                        16.911357
+                  ]
+            },
+            {
+                  "name": "ဘိုကုန်း Bo Gone",
+                  "text": "Dieser von Wohnstraßen umgebene tägliche Markt ist ein wichtiger Ort für den Kauf regionaler Reissorten und frischem Blattgemüse.",
+                  "category": "cultural",
+                  "coords": [
+                        96.106025,
+                        16.901455
+                  ]
+            },
+            {
+                  "name": "Myo Thit Market",
+                  "text": "Dieser geschäftige städtische Markt versorgt das wachsende Gebiet der „Neustadt“ mit einer großen Auswahl an tropischen Früchten und Gütern des täglichen Bedarfs.",
+                  "category": "cultural",
+                  "coords": [
+                        96.099944,
+                        16.878373
+                  ]
+            },
+            {
+                  "name": "Thiri Mon Plaza",
+                  "text": "Ein mehrstöckiger kommerzieller Marktplatz mit modernen Ständen, die Kleidung, Elektronik und importierte Kosmetik verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        96.10716,
+                        16.858368
+                  ]
+            },
+            {
+                  "name": "Thirimingalar Market",
+                  "text": "Als eines der größten Großhandelszentren der Stadt schlägt dieser riesige Markt tonnenweise Massenprodukte um, die landesweit vertrieben werden.",
+                  "category": "cultural",
+                  "coords": [
+                        96.109418,
+                        16.842119
+                  ]
+            },
+            {
+                  "name": "အုတ်ကျင်းေစျး Okkyin grocery market",
+                  "text": "Dieser lokalisierte Einkaufsort versteckt im Okkyin-Viertel versorgt die lokalen Pendler mit lebenswichtigen Nahrungsmitteln und aromatischen Currys.",
+                  "category": "cultural",
+                  "coords": [
+                        96.115417,
+                        16.853745
+                  ]
+            },
+            {
+                  "name": "ရှမ်းချောင်းဈေး Shan Chaung Market",
+                  "text": "Ein lebhafter lokaler Markt, auf dem frische Produkte und alltägliche Waren gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        96.090036,
+                        16.859934
+                  ]
+            },
+            {
+                  "name": "အင်းစိန်ဈေး",
+                  "text": "Ein bekannter Markt in Insein, der frische Lebensmittel und verschiedene Haushaltswaren anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        96.101803,
+                        16.887441
+                  ]
+            },
+            {
+                  "name": "လေဟာပြင်ဈေး",
+                  "text": "Ein traditioneller Markt, auf dem Einheimische ihre täglichen Besorgungen machen.",
+                  "category": "cultural",
+                  "coords": [
+                        96.10285,
+                        16.887482
+                  ]
+            },
+            {
+                  "name": "ပဒေသာဈေး",
+                  "text": "Ein lebendiger Basar mit Ständen, die frisches Gemüse und lokales Streetfood verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        96.184149,
+                        16.843709
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Myanmar Gems Museum",
+                  "text": "Ez a múzeum drágakövek hatalmas gyűjteményét mutatja be, beleértve az ország egész területéről származó rubinokat, zafírokat és jádét.",
+                  "category": "museum",
+                  "coords": [
+                        96.156504,
+                        16.855152
+                  ]
+            },
+            {
+                  "name": "Kaba Aye Pagoda",
+                  "text": "A Világbéke Pagodaként is ismert jelentős buddhista helyszínt a Hatodik Buddhista Zsinat megrendezésére építették.",
+                  "category": "religious",
+                  "coords": [
+                        96.154498,
+                        16.856828
+                  ]
+            },
+            {
+                  "name": "မဟာပါသာနလှိုင်ဂူတော်",
+                  "text": "Ezt a hatalmas mesterséges barlangot a Kaba Aye Pagoda közelében építették, hogy a buddhista zsinat számára a legendás indiai Satta Panni barlangot utánozza.",
+                  "category": "natural",
+                  "coords": [
+                        96.153688,
+                        16.859074
+                  ]
+            },
+            {
+                  "name": "ကမ္ဘာအေးဗုဒ္ဓပြတိုက်",
+                  "text": "Az Inya-tó negyedében található múzeum fontos vallási tárgyakat, szentírásokat és buddhista ereklyéket őriz.",
+                  "category": "museum",
+                  "coords": [
+                        96.153128,
+                        16.861164
+                  ]
+            },
+            {
+                  "name": "ဗိုလ်ချုပ်အောင်ဆန်းကြေးရုပ်",
+                  "text": "Ez az impozáns bronz emlékmű az ország függetlenségi hősének állít emléket, és fontos helyi nevezetességként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        96.180768,
+                        16.864742
+                  ]
+            },
+            {
+                  "name": "ကုလား ဘုရားကျောင်း",
+                  "text": "Történelmi oktatási emlékmű, amely a hagyományos vallási iskoláztatás korai integrációját mutatja be a régióban.",
+                  "category": "historical",
+                  "coords": [
+                        96.127132,
+                        16.835318
+                  ]
+            },
+            {
+                  "name": "Department of Insein Jail Administrator",
+                  "text": "Ez a közigazgatási műemlék a város összetett büntetés-végrehajtási történelmének egy darabját képviseli az Inya-tó negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        96.100334,
+                        16.885937
+                  ]
+            },
+            {
+                  "name": "Arts Building",
+                  "text": "Kiemelkedő kulturális központ, amely kreatív kiállításoknak és egyetemi szintű művészeti eseményeknek ad otthont a nyüzsgő tóvidéken.",
+                  "category": "cultural",
+                  "coords": [
+                        96.134891,
+                        16.832305
+                  ]
+            },
+            {
+                  "name": "Holy Cross",
+                  "text": "Ez a keresztény istentiszteleti hely jellegzetes kereszt-építészettel rendelkezik, és a helyi gyülekezetet szolgálja az Inya-tó közelében.",
+                  "category": "religious",
+                  "coords": [
+                        96.139784,
+                        16.828446
+                  ]
+            },
+            {
+                  "name": "Sri Kalyana Venkatesa Temple",
+                  "text": "Színes istenszobrokkal díszített díszes hindu templom, amely spirituális központként szolgál a helyi tamil közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        96.168145,
+                        16.837275
+                  ]
+            },
+            {
+                  "name": "Chan Myae Yeiktha Meditation Center",
+                  "text": "Nyugodt elvonulóhely, amely irányított Vipassana meditációs foglalkozásokat kínál a tóvidék árnyékos környezetében.",
+                  "category": "religious",
+                  "coords": [
+                        96.157332,
+                        16.84868
+                  ]
+            },
+            {
+                  "name": "MICT",
+                  "text": "Egyedülálló modern szentélyként működve ez az istentiszteleti hely a közösség tagjait gyűjti össze a város technológiai negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        96.12952,
+                        16.851767
+                  ]
+            },
+            {
+                  "name": "ဇေယျမင်္ဂလာ​ကျောင်းတိုက်​",
+                  "text": "Klasszikus fa és tégla építésű buddhista kolostor, amely a napi alamizsnaosztás és a szerzetesi oktatás központja.",
+                  "category": "religious",
+                  "coords": [
+                        96.123235,
+                        16.835284
+                  ]
+            },
+            {
+                  "name": "Nyaung Si Yay Kan Monastery",
+                  "text": "Egy békés helyi tó körül elhelyezkedő kolostor elmélkedésre és imádságra hívja a szerzeteseket és a világiakat egyaránt.",
+                  "category": "religious",
+                  "coords": [
+                        96.119989,
+                        16.831624
+                  ]
+            },
+            {
+                  "name": "ဇေတ၀န်ဘုန်းကြီးကျောင်း Zatawon Monestry",
+                  "text": "Ez a hagyományos kolostori intézmény őrzi az ősi páli tanításokat, és fiatal novíciusoknak ad otthont a környező városrészekből.",
+                  "category": "religious",
+                  "coords": [
+                        96.122196,
+                        16.851895
+                  ]
+            },
+            {
+                  "name": "သဒၶမၼရံသီမဟာစည္ ရိပ္သာ",
+                  "text": "A Mahasi Sayadaw hagyománynak szentelt tágas központ intenzív éberségi elvonulásokat tesz lehetővé nemzetközi gyakorlók számára.",
+                  "category": "religious",
+                  "coords": [
+                        96.136284,
+                        16.864855
+                  ]
+            },
+            {
+                  "name": "Pansanikaya Monestry",
+                  "text": "Tisztelt buddhista szentély, amelynek bonyolult faragású fa pavilonjait a szentírások tanulmányozásának szentelték.",
+                  "category": "religious",
+                  "coords": [
+                        96.164279,
+                        16.843435
+                  ]
+            },
+            {
+                  "name": "K Family Electric Store",
+                  "text": "Bár szokatlan neve van, ez a helyi közösségi szentély istentiszteleti teret kínál a környék kereskedelmi létesítményei közelében.",
+                  "category": "religious",
+                  "coords": [
+                        96.177209,
+                        16.851705
+                  ]
+            },
+            {
+                  "name": "Judson Church",
+                  "text": "Az úttörő amerikai misszionárius, Adoniram Judson tiszteletére alapított történelmi templom kecsesen áll az egyetemi kampuszon.",
+                  "category": "religious",
+                  "coords": [
+                        96.134159,
+                        16.830812
+                  ]
+            },
+            {
+                  "name": "Chinese Temple",
+                  "text": "A vörös lámpásokkal és bonyolult sárkánymotívumokkal díszített templom a mahájána buddhista és taoista közösségeket szolgálja a tó közelében.",
+                  "category": "religious",
+                  "coords": [
+                        96.13154,
+                        16.818933
+                  ]
+            },
+            {
+                  "name": "San Yeik Nyein Market",
+                  "text": "Nyüzsgő szabadtéri piac, amely tele van frissen fogott halat, trópusi gyümölcsöket és élénk textíliákat árusító standokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        96.188709,
+                        16.903879
+                  ]
+            },
+            {
+                  "name": "ကျောက်ရေတွင်းဈေး",
+                  "text": "A helyi fűszerek és háztartási cikkek kínálatáról ismert nyüzsgő közösségi piac a környékbeli lakosok napi központja.",
+                  "category": "cultural",
+                  "coords": [
+                        96.153528,
+                        16.890186
+                  ]
+            },
+            {
+                  "name": "၂ဈေး",
+                  "text": "Jól szervezett kereskedelmi bazár, ahol az árusok szezonális termékeket kínálnak a hagyományos burmai utcai harapnivalók mellett.",
+                  "category": "cultural",
+                  "coords": [
+                        96.155873,
+                        16.879102
+                  ]
+            },
+            {
+                  "name": "Afternoon Food Market",
+                  "text": "A naplementekor megelevenedő nyüzsgő piacon sercegő wokok és gőzölgő tál Mohingát felszolgáló standok találhatók.",
+                  "category": "cultural",
+                  "coords": [
+                        96.119969,
+                        16.837209
+                  ]
+            },
+            {
+                  "name": "Morning Grocery Market",
+                  "text": "A korán kelők özönlenek erre az energikus piacra, hogy megvásárolják a legfrissebb helyi termesztésű zöldségeket és aromás fűszernövényeket.",
+                  "category": "cultural",
+                  "coords": [
+                        96.116966,
+                        16.836647
+                  ]
+            },
+            {
+                  "name": "New Thiri Mingalar Market",
+                  "text": "Kiterjedt, autentikus helyi bazár, ahol az árusok nyüzsgő útvesztője a friss termékektől a regionális ruházati cikkekig mindennel kereskedik.",
+                  "category": "cultural",
+                  "coords": [
+                        96.111406,
+                        16.842398
+                  ]
+            },
+            {
+                  "name": "မြရတနာဈေး",
+                  "text": "Ez a környékbeli bevásárlóhely friss húsokra és baromfira specializálódott, elsősorban a napi étkezésüket készítő helyi családokat szolgálja ki.",
+                  "category": "cultural",
+                  "coords": [
+                        96.11362,
+                        16.863188
+                  ]
+            },
+            {
+                  "name": "Ben Ben Ma",
+                  "text": "Kompakt, mégis dinamikus piac, amely gyors élelmiszereket és a mindennapi háztartási cikkek színes választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        96.108572,
+                        16.896498
+                  ]
+            },
+            {
+                  "name": "ဈ ဈေး",
+                  "text": "Hagyományos környékbeli piaci környezet, ahol a friss virágdíszeket és a helyi szárazárukat büszkén mutatják be.",
+                  "category": "cultural",
+                  "coords": [
+                        96.161834,
+                        16.911357
+                  ]
+            },
+            {
+                  "name": "ဘိုကုန်း Bo Gone",
+                  "text": "A lakóutcákkal körülvett napi piac fontos hely a regionális rizsfajták és a friss zöldségek vásárlására.",
+                  "category": "cultural",
+                  "coords": [
+                        96.106025,
+                        16.901455
+                  ]
+            },
+            {
+                  "name": "Myo Thit Market",
+                  "text": "Ez a nyüzsgő városi piac a növekvő „Újváros” területét látja el trópusi gyümölcsök és mindennapi cikkek hatalmas választékával.",
+                  "category": "cultural",
+                  "coords": [
+                        96.099944,
+                        16.878373
+                  ]
+            },
+            {
+                  "name": "Thiri Mon Plaza",
+                  "text": "Többszintes kereskedelmi piac modern standokkal, amelyek ruházatot, elektronikát és import kozmetikumokat árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        96.10716,
+                        16.858368
+                  ]
+            },
+            {
+                  "name": "Thirimingalar Market",
+                  "text": "A város egyik legnagyobb nagykereskedelmi központjaként működő hatalmas piac országosan forgalmazott tömegtermékek tonnáit kezeli.",
+                  "category": "cultural",
+                  "coords": [
+                        96.109418,
+                        16.842119
+                  ]
+            },
+            {
+                  "name": "အုတ်ကျင်းေစျး Okkyin grocery market",
+                  "text": "Az Okkyin negyedben megbúvó helyi bevásárlóközpont napi alapvető élelmiszerekkel és aromás currykkel látja el a helyi ingázókat.",
+                  "category": "cultural",
+                  "coords": [
+                        96.115417,
+                        16.853745
+                  ]
+            },
+            {
+                  "name": "ရှမ်းချောင်းဈေး Shan Chaung Market",
+                  "text": "Nyüzsgő helyi piac, ahol friss termékeket és mindennapi árukat kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        96.090036,
+                        16.859934
+                  ]
+            },
+            {
+                  "name": "အင်းစိန်ဈေး",
+                  "text": "Egy ismert Insein-i piac, amely friss élelmiszereket és különféle háztartási cikkeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        96.101803,
+                        16.887441
+                  ]
+            },
+            {
+                  "name": "လေဟာပြင်ဈေး",
+                  "text": "Hagyományos piac, ahol a helyiek beszerzik mindennapi szükségleteiket.",
+                  "category": "cultural",
+                  "coords": [
+                        96.10285,
+                        16.887482
+                  ]
+            },
+            {
+                  "name": "ပဒေသာဈေး",
+                  "text": "Egy élénk bazár, ahol a standokon friss zöldségeket és helyi utcai ételeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        96.184149,
+                        16.843709
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Myanmar Gems Museum",
+                  "text": "Acest muzeu prezintă o colecție vastă de pietre prețioase, inclusiv rubine, safire și jad din întreaga țară.",
+                  "category": "museum",
+                  "coords": [
+                        96.156504,
+                        16.855152
+                  ]
+            },
+            {
+                  "name": "Kaba Aye Pagoda",
+                  "text": "Cunoscută și sub numele de Pagoda Păcii Mondiale, acest important sit budist a fost construit pentru a găzdui cel de-al Șaselea Consiliu Budist.",
+                  "category": "religious",
+                  "coords": [
+                        96.154498,
+                        16.856828
+                  ]
+            },
+            {
+                  "name": "မဟာပါသာနလှိုင်ဂူတော်",
+                  "text": "Această peșteră artificială masivă a fost construită lângă Pagoda Kaba Aye special pentru a imita peștera Satta Panni din India pentru consiliul budist.",
+                  "category": "natural",
+                  "coords": [
+                        96.153688,
+                        16.859074
+                  ]
+            },
+            {
+                  "name": "ကမ္ဘာအေးဗုဒ္ဓပြတိုက်",
+                  "text": "Situat în cartierul Lacului Inya, acest muzeu conservă artefacte religioase importante, scripturi și relicve budiste.",
+                  "category": "museum",
+                  "coords": [
+                        96.153128,
+                        16.861164
+                  ]
+            },
+            {
+                  "name": "ဗိုလ်ချုပ်အောင်ဆန်းကြေးရုပ်",
+                  "text": "Acest impunător monument din bronz îl comemorează pe eroul independenței țării și servește ca un punct de reper local.",
+                  "category": "historical",
+                  "coords": [
+                        96.180768,
+                        16.864742
+                  ]
+            },
+            {
+                  "name": "ကုလား ဘုရားကျောင်း",
+                  "text": "Un monument educațional istoric care prezintă integrarea timpurie a școlarizării religioase tradiționale în regiune.",
+                  "category": "historical",
+                  "coords": [
+                        96.127132,
+                        16.835318
+                  ]
+            },
+            {
+                  "name": "Department of Insein Jail Administrator",
+                  "text": "Acest monument administrativ reprezintă o parte din istoria penală complexă a orașului din apropierea districtului Lacului Inya.",
+                  "category": "historical",
+                  "coords": [
+                        96.100334,
+                        16.885937
+                  ]
+            },
+            {
+                  "name": "Arts Building",
+                  "text": "Un centru cultural proeminent care găzduiește expoziții creative și evenimente artistice de nivel universitar în zona vibrantă a lacului.",
+                  "category": "cultural",
+                  "coords": [
+                        96.134891,
+                        16.832305
+                  ]
+            },
+            {
+                  "name": "Holy Cross",
+                  "text": "Acest lăcaș de cult creștin are o arhitectură distinctă în formă de cruce, deservind congregația locală de lângă Lacul Inya.",
+                  "category": "religious",
+                  "coords": [
+                        96.139784,
+                        16.828446
+                  ]
+            },
+            {
+                  "name": "Sri Kalyana Venkatesa Temple",
+                  "text": "Un templu hindus ornamentat, împodobit cu sculpturi colorate ale zeităților, care oferă un centru spiritual pentru comunitatea tamilă locală.",
+                  "category": "religious",
+                  "coords": [
+                        96.168145,
+                        16.837275
+                  ]
+            },
+            {
+                  "name": "Chan Myae Yeiktha Meditation Center",
+                  "text": "Un refugiu liniștit care oferă sesiuni ghidate de meditație Vipassana în împrejurimile umbrite ale districtului lacurilor.",
+                  "category": "religious",
+                  "coords": [
+                        96.157332,
+                        16.84868
+                  ]
+            },
+            {
+                  "name": "MICT",
+                  "text": "Funcționând ca un sanctuar modern unic, acest lăcaș de cult adună membrii comunității în mijlocul cartierului tehnologic al orașului.",
+                  "category": "religious",
+                  "coords": [
+                        96.12952,
+                        16.851767
+                  ]
+            },
+            {
+                  "name": "ဇေယျမင်္ဂလာ​ကျောင်းတိုက်​",
+                  "text": "O mănăstire budistă clasică din lemn și cărămidă, oferind un centru pentru dăruirea zilnică a pomenilor și educația monahală.",
+                  "category": "religious",
+                  "coords": [
+                        96.123235,
+                        16.835284
+                  ]
+            },
+            {
+                  "name": "Nyaung Si Yay Kan Monastery",
+                  "text": "Situată în jurul unui iaz local liniștit, această mănăstire invită călugării și laicii deopotrivă pentru reflecție și rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        96.119989,
+                        16.831624
+                  ]
+            },
+            {
+                  "name": "ဇေတ၀န်ဘုန်းကြီးကျောင်း Zatawon Monestry",
+                  "text": "Această instituție monahală tradițională păstrează vechile învățături Pali și găzduiește tineri novici din cartierele învecinate.",
+                  "category": "religious",
+                  "coords": [
+                        96.122196,
+                        16.851895
+                  ]
+            },
+            {
+                  "name": "သဒၶမၼရံသီမဟာစည္ ရိပ္သာ",
+                  "text": "Dedicat tradiției Mahasi Sayadaw, acest centru spațios facilitează retrageri intensive de mindfulness pentru practicanții internaționali.",
+                  "category": "religious",
+                  "coords": [
+                        96.136284,
+                        16.864855
+                  ]
+            },
+            {
+                  "name": "Pansanikaya Monestry",
+                  "text": "Un respectat sanctuar budist cu pavilioane din lemn sculptate complex, dedicate studiului scripturilor.",
+                  "category": "religious",
+                  "coords": [
+                        96.164279,
+                        16.843435
+                  ]
+            },
+            {
+                  "name": "K Family Electric Store",
+                  "text": "Deși este numit neobișnuit, acest altar al comunității locale oferă un spațiu de cult lângă unitățile comerciale din cartier.",
+                  "category": "religious",
+                  "coords": [
+                        96.177209,
+                        16.851705
+                  ]
+            },
+            {
+                  "name": "Judson Church",
+                  "text": "Fondată în onoarea pionierului misionar american Adoniram Judson, această biserică istorică se înalță grațios pe campusul universitar.",
+                  "category": "religious",
+                  "coords": [
+                        96.134159,
+                        16.830812
+                  ]
+            },
+            {
+                  "name": "Chinese Temple",
+                  "text": "Împodobit cu felinare roșii și motive elaborate cu dragoni, acest templu deservește comunitățile budiste Mahayana și taoiste din apropierea lacului.",
+                  "category": "religious",
+                  "coords": [
+                        96.13154,
+                        16.818933
+                  ]
+            },
+            {
+                  "name": "San Yeik Nyein Market",
+                  "text": "O piață plină de viață în aer liber, plină cu tarabe care vând pește proaspăt prins, fructe tropicale și textile vibrante.",
+                  "category": "cultural",
+                  "coords": [
+                        96.188709,
+                        16.903879
+                  ]
+            },
+            {
+                  "name": "ကျောက်ရေတွင်းဈေး",
+                  "text": "Cunoscută pentru gama sa de condimente locale și articole de uz casnic, această piață comunitară aglomerată este un centru zilnic pentru locuitorii din apropiere.",
+                  "category": "cultural",
+                  "coords": [
+                        96.153528,
+                        16.890186
+                  ]
+            },
+            {
+                  "name": "၂ဈေး",
+                  "text": "Un bazar comercial bine organizat unde vânzătorii oferă produse de sezon alături de gustări tradiționale stradale birmaneze.",
+                  "category": "cultural",
+                  "coords": [
+                        96.155873,
+                        16.879102
+                  ]
+            },
+            {
+                  "name": "Afternoon Food Market",
+                  "text": "Prinzând viață pe măsură ce soarele apune, această piață plină de viață are wok-uri sfârâitoare și tarabe care servesc boluri aburinde de Mohinga.",
+                  "category": "cultural",
+                  "coords": [
+                        96.119969,
+                        16.837209
+                  ]
+            },
+            {
+                  "name": "Morning Grocery Market",
+                  "text": "Cei care se trezesc devreme se îngrămădesc în această piață energică pentru a cumpăra cele mai proaspete legume cultivate local și ierburi aromatice.",
+                  "category": "cultural",
+                  "coords": [
+                        96.116966,
+                        16.836647
+                  ]
+            },
+            {
+                  "name": "New Thiri Mingalar Market",
+                  "text": "Un bazar local autentic, întins, unde un labirint vibrant de vânzători comercializează totul, de la produse proaspete la articole de îmbrăcăminte regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        96.111406,
+                        16.842398
+                  ]
+            },
+            {
+                  "name": "မြရတနာဈေး",
+                  "text": "Această locație comercială de cartier este specializată în carne proaspătă și păsări de curte, găzduind în mare parte familiile locale care își pregătesc mesele zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        96.11362,
+                        16.863188
+                  ]
+            },
+            {
+                  "name": "Ben Ben Ma",
+                  "text": "O piață compactă, dar dinamică, oferind produse alimentare rapide și o gamă colorată de articole de uz casnic de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        96.108572,
+                        16.896498
+                  ]
+            },
+            {
+                  "name": "ဈ ဈေး",
+                  "text": "Un cadru tradițional de piață de cartier unde aranjamentele florale proaspete și produsele uscate locale sunt expuse cu mândrie.",
+                  "category": "cultural",
+                  "coords": [
+                        96.161834,
+                        16.911357
+                  ]
+            },
+            {
+                  "name": "ဘိုကုန်း Bo Gone",
+                  "text": "Înconjurată de străzi rezidențiale, această piață zilnică este un loc crucial pentru cumpărarea varietăților regionale de orez și verdeață proaspătă.",
+                  "category": "cultural",
+                  "coords": [
+                        96.106025,
+                        16.901455
+                  ]
+            },
+            {
+                  "name": "Myo Thit Market",
+                  "text": "Această piață municipală plină de viață oferă zonei în creștere „New Town” o selecție vastă de fructe tropicale și necesități zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        96.099944,
+                        16.878373
+                  ]
+            },
+            {
+                  "name": "Thiri Mon Plaza",
+                  "text": "O piață comercială pe mai multe niveluri, cu tarabe moderne care vând haine, electronice și produse cosmetice de import.",
+                  "category": "cultural",
+                  "coords": [
+                        96.10716,
+                        16.858368
+                  ]
+            },
+            {
+                  "name": "Thirimingalar Market",
+                  "text": "Funcționând ca unul dintre cele mai mari centre cu ridicata ale orașului, această piață masivă manipulează tone de produse în vrac distribuite la nivel național.",
+                  "category": "cultural",
+                  "coords": [
+                        96.109418,
+                        16.842119
+                  ]
+            },
+            {
+                  "name": "အုတ်ကျင်းေစျး Okkyin grocery market",
+                  "text": "Ascuns în districtul Okkyin, acest centru comercial localizat oferă alimente esențiale zilnice și curry aromat navetiștilor locali.",
+                  "category": "cultural",
+                  "coords": [
+                        96.115417,
+                        16.853745
+                  ]
+            },
+            {
+                  "name": "ရှမ်းချောင်းဈေး Shan Chaung Market",
+                  "text": "O piață locală plină de viață, unde se comercializează produse proaspete și bunuri de uz zilnic.",
+                  "category": "cultural",
+                  "coords": [
+                        96.090036,
+                        16.859934
+                  ]
+            },
+            {
+                  "name": "အင်းစိန်ဈေး",
+                  "text": "O piață recunoscută din Insein, care oferă alimente proaspete și diverse articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        96.101803,
+                        16.887441
+                  ]
+            },
+            {
+                  "name": "လေဟာပြင်ဈေး",
+                  "text": "O piață tradițională unde localnicii își fac cumpărăturile zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        96.10285,
+                        16.887482
+                  ]
+            },
+            {
+                  "name": "ပဒေသာဈေး",
+                  "text": "Un bazar plin de viață, cu tarabe care vând legume proaspete și mâncare stradală locală.",
+                  "category": "cultural",
+                  "coords": [
+                        96.184149,
+                        16.843709
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Myanmar Gems Museum",
+                  "text": "This dedicated museum showcases an extensive collection of precious stones, including rubies, sapphires, and jade from across the country.",
+                  "category": "museum",
+                  "coords": [
+                        96.156504,
+                        16.855152
+                  ]
+            },
+            {
+                  "name": "Kaba Aye Pagoda",
+                  "text": "Also known as the World Peace Pagoda, this significant Buddhist site was built to host the Sixth Buddhist Council.",
+                  "category": "religious",
+                  "coords": [
+                        96.154498,
+                        16.856828
+                  ]
+            },
+            {
+                  "name": "Mahar Par Sa Na Cave",
+                  "text": "This massive artificial cave was constructed near the Kaba Aye Pagoda specifically to mimic the Satta Panni Cave in India for the Buddhist council.",
+                  "category": "natural",
+                  "coords": [
+                        96.153688,
+                        16.859074
+                  ]
+            },
+            {
+                  "name": "Gabar Aye Buddhist Museum",
+                  "text": "Located in the Inya Lake district, this museum preserves important religious artifacts, scriptures, and Buddhist relics.",
+                  "category": "museum",
+                  "coords": [
+                        96.153128,
+                        16.861164
+                  ]
+            },
+            {
+                  "name": "General Aung San bronze statue",
+                  "text": "This imposing bronze monument commemorates the country's independence hero and serves as a local landmark.",
+                  "category": "historical",
+                  "coords": [
+                        96.180768,
+                        16.864742
+                  ]
+            },
+            {
+                  "name": "Phayar School",
+                  "text": "A historical educational monument showcasing the early integration of traditional religious schooling in the region.",
+                  "category": "historical",
+                  "coords": [
+                        96.127132,
+                        16.835318
+                  ]
+            },
+            {
+                  "name": "Department of Insein Jail Administrator",
+                  "text": "This administrative monument represents a piece of the city's complex penal history near the Inya Lake district.",
+                  "category": "historical",
+                  "coords": [
+                        96.100334,
+                        16.885937
+                  ]
+            },
+            {
+                  "name": "Arts Building",
+                  "text": "A prominent cultural center hosting creative exhibitions and university-level arts events in the vibrant lake area.",
+                  "category": "cultural",
+                  "coords": [
+                        96.134891,
+                        16.832305
+                  ]
+            },
+            {
+                  "name": "Holy Cross",
+                  "text": "This Christian place of worship features a distinct cross architecture, serving the local congregation near Inya Lake.",
+                  "category": "religious",
+                  "coords": [
+                        96.139784,
+                        16.828446
+                  ]
+            },
+            {
+                  "name": "Sri Kalyana Venkatesa Temple",
+                  "text": "An ornate Hindu temple adorned with colorful deity sculptures that provides a spiritual hub for the local Tamil community.",
+                  "category": "religious",
+                  "coords": [
+                        96.168145,
+                        16.837275
+                  ]
+            },
+            {
+                  "name": "Chan Myae Yeiktha Meditation Center",
+                  "text": "A tranquil retreat offering guided Vipassana meditation sessions within the shaded environs of the lake district.",
+                  "category": "religious",
+                  "coords": [
+                        96.157332,
+                        16.84868
+                  ]
+            },
+            {
+                  "name": "MICT",
+                  "text": "Functioning as a unique modern sanctuary, this place of worship gathers community members amidst the city's tech district.",
+                  "category": "religious",
+                  "coords": [
+                        96.12952,
+                        16.851767
+                  ]
+            },
+            {
+                  "name": "Zeya Mingalar Monastery",
+                  "text": "A classic timber and brick Buddhist monastery providing a center for daily alms-giving and monastic education.",
+                  "category": "religious",
+                  "coords": [
+                        96.123235,
+                        16.835284
+                  ]
+            },
+            {
+                  "name": "Nyaung Si Yay Kan Monastery",
+                  "text": "Set around a peaceful local pond, this monastery invites monks and laypeople alike for reflection and prayer.",
+                  "category": "religious",
+                  "coords": [
+                        96.119989,
+                        16.831624
+                  ]
+            },
+            {
+                  "name": "Zatawon Monestry",
+                  "text": "This traditional monastic institution preserves ancient Pali teachings and houses young novices from the surrounding neighborhoods.",
+                  "category": "religious",
+                  "coords": [
+                        96.122196,
+                        16.851895
+                  ]
+            },
+            {
+                  "name": "Saddhammaransi Maharsi Meditation Centre",
+                  "text": "Devoted to the Mahasi Sayadaw tradition, this spacious center facilitates intensive mindfulness retreats for international practitioners.",
+                  "category": "religious",
+                  "coords": [
+                        96.136284,
+                        16.864855
+                  ]
+            },
+            {
+                  "name": "Pansanikaya Monestry",
+                  "text": "A respected Buddhist sanctuary featuring intricately carved wooden pavilions dedicated to scripture study.",
+                  "category": "religious",
+                  "coords": [
+                        96.164279,
+                        16.843435
+                  ]
+            },
+            {
+                  "name": "K Family Electric Store",
+                  "text": "Although unusually named, this local community shrine offers a space of worship near the neighborhood's commercial establishments.",
+                  "category": "religious",
+                  "coords": [
+                        96.177209,
+                        16.851705
+                  ]
+            },
+            {
+                  "name": "Judson Church",
+                  "text": "Founded in honor of the pioneering American missionary Adoniram Judson, this historic church stands gracefully on the university campus.",
+                  "category": "religious",
+                  "coords": [
+                        96.134159,
+                        16.830812
+                  ]
+            },
+            {
+                  "name": "Chinese Temple",
+                  "text": "Adorned with red lanterns and elaborate dragon motifs, this temple serves the Mahayana Buddhist and Taoist communities near the lake.",
+                  "category": "religious",
+                  "coords": [
+                        96.13154,
+                        16.818933
+                  ]
+            },
+            {
+                  "name": "San Yeik Nyein Market",
+                  "text": "A bustling open-air marketplace filled with stalls selling freshly caught fish, tropical fruits, and vibrant textiles.",
+                  "category": "cultural",
+                  "coords": [
+                        96.188709,
+                        16.903879
+                  ]
+            },
+            {
+                  "name": "Kyauk Yeay Twin Market",
+                  "text": "Known for its array of local spices and household goods, this busy community market is a daily hub for nearby residents.",
+                  "category": "cultural",
+                  "coords": [
+                        96.153528,
+                        16.890186
+                  ]
+            },
+            {
+                  "name": "No.2 Market",
+                  "text": "A well-organized commercial bazaar where vendors offer seasonal produce alongside traditional Burmese street snacks.",
+                  "category": "cultural",
+                  "coords": [
+                        96.155873,
+                        16.879102
+                  ]
+            },
+            {
+                  "name": "Afternoon Food Market",
+                  "text": "Coming alive as the sun lowers, this lively market features sizzling woks and stalls serving steaming bowls of Mohinga.",
+                  "category": "cultural",
+                  "coords": [
+                        96.119969,
+                        16.837209
+                  ]
+            },
+            {
+                  "name": "Morning Grocery Market",
+                  "text": "Early risers flock to this energetic marketplace to purchase the freshest locally grown vegetables and aromatic herbs.",
+                  "category": "cultural",
+                  "coords": [
+                        96.116966,
+                        16.836647
+                  ]
+            },
+            {
+                  "name": "သီရိမဂ်လာ",
+                  "text": "A sprawling authentic local bazaar where a vibrant maze of vendors trade in everything from fresh produce to regional garments.",
+                  "category": "cultural",
+                  "coords": [
+                        96.111406,
+                        16.842398
+                  ]
+            },
+            {
+                  "name": "Mya Yadana Market",
+                  "text": "This neighborhood shopping venue specializes in fresh meat and poultry, catering largely to local families preparing their daily meals.",
+                  "category": "cultural",
+                  "coords": [
+                        96.11362,
+                        16.863188
+                  ]
+            },
+            {
+                  "name": "Ben Ben Ma",
+                  "text": "A compact yet dynamic marketplace offering quick groceries and colorful array of everyday household essentials.",
+                  "category": "cultural",
+                  "coords": [
+                        96.108572,
+                        16.896498
+                  ]
+            },
+            {
+                  "name": "Za Myin Swel Market",
+                  "text": "A traditional neighborhood market setting where fresh floral arrangements and local dry goods are proudly displayed.",
+                  "category": "cultural",
+                  "coords": [
+                        96.161834,
+                        16.911357
+                  ]
+            },
+            {
+                  "name": "Bo Kone Market",
+                  "text": "Surrounded by residential streets, this daily market is a crucial spot for buying regional rice varieties and fresh greens.",
+                  "category": "cultural",
+                  "coords": [
+                        96.106025,
+                        16.901455
+                  ]
+            },
+            {
+                  "name": "Myo Thit Market",
+                  "text": "This bustling municipal market provides the growing \"New Town\" area with a vast selection of tropical fruits and daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        96.099944,
+                        16.878373
+                  ]
+            },
+            {
+                  "name": "Thiri Mon Plaza",
+                  "text": "A multi-level commercial marketplace featuring modern stalls that sell clothing, electronics, and imported cosmetics.",
+                  "category": "cultural",
+                  "coords": [
+                        96.10716,
+                        16.858368
+                  ]
+            },
+            {
+                  "name": "Thirimingalar Market",
+                  "text": "Operating as one of the city's largest wholesale centers, this massive market handles tons of bulk produce distributed nationwide.",
+                  "category": "cultural",
+                  "coords": [
+                        96.109418,
+                        16.842119
+                  ]
+            },
+            {
+                  "name": "Okkyin grocery market",
+                  "text": "Tucked in the Okkyin district, this localized shopping hub provides daily essential foods and aromatic curries to local commuters.",
+                  "category": "cultural",
+                  "coords": [
+                        96.115417,
+                        16.853745
+                  ]
+            },
+            {
+                  "name": "ရှမ်းချောင်းဈေး Shan Chaung Market",
+                  "text": "A bustling local market trading in fresh produce and everyday goods.",
+                  "category": "cultural",
+                  "coords": [
+                        96.090036,
+                        16.859934
+                  ]
+            },
+            {
+                  "name": "Insein Market",
+                  "text": "A known local market in Insein offering fresh food and assorted household wares.",
+                  "category": "cultural",
+                  "coords": [
+                        96.101803,
+                        16.887441
+                  ]
+            },
+            {
+                  "name": "Lay Har Pyin Market",
+                  "text": "A traditional market where locals trade daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        96.10285,
+                        16.887482
+                  ]
+            },
+            {
+                  "name": "ပဒေသာဈေး",
+                  "text": "A vibrant neighborhood bazaar with stalls selling fresh vegetables and local street food.",
+                  "category": "cultural",
+                  "coords": [
+                        96.184149,
+                        16.843709
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "MM-06",
     coords: [96.1500, 16.8300],

@@ -195,7 +195,124 @@ export const poiExtraMongoliaNatureV2: POI[] = [
     },
   },
   {
-    id: "tuul-river-nature-v2",
+    id: "tuul-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ulaanbaatar sign",
+                  "text": "Ein großes, dekoratives Stadtschild in der Nähe des Tuul-Flusses, das ein beliebtes Fotomotiv darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        106.915605,
+                        47.915614
+                  ]
+            },
+            {
+                  "name": "Khonkh",
+                  "text": "Diese große Friedensglocke am Ufer des Tuul ist ein Symbol für internationale Freundschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        106.91711,
+                        47.917257
+                  ]
+            },
+            {
+                  "name": "Egg mart",
+                  "text": "Ein lokaler Marktplatz am Tuul-Fluss, der frische Lebensmittel und Waren des täglichen Bedarfs anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        106.905311,
+                        47.911838
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ulaanbaatar sign",
+                  "text": "Egy nagy, dekoratív városfelirat a Tuul-folyó közelében, amely népszerű fotóhelyszín.",
+                  "category": "landmark",
+                  "coords": [
+                        106.915605,
+                        47.915614
+                  ]
+            },
+            {
+                  "name": "Khonkh",
+                  "text": "A Tuul partján álló hatalmas békéharang a nemzetközi barátság szimbóluma.",
+                  "category": "landmark",
+                  "coords": [
+                        106.91711,
+                        47.917257
+                  ]
+            },
+            {
+                  "name": "Egg mart",
+                  "text": "Helyi piac a Tuul-folyónál, ahol friss élelmiszereket és napi cikkeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        106.905311,
+                        47.911838
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ulaanbaatar sign",
+                  "text": "O inscripție decorativă mare cu numele orașului lângă râul Tuul, fiind un loc popular pentru fotografii.",
+                  "category": "landmark",
+                  "coords": [
+                        106.915605,
+                        47.915614
+                  ]
+            },
+            {
+                  "name": "Khonkh",
+                  "text": "Această mare clopot al păcii pe malul râului Tuul este un simbol al prieteniei internaționale.",
+                  "category": "landmark",
+                  "coords": [
+                        106.91711,
+                        47.917257
+                  ]
+            },
+            {
+                  "name": "Egg mart",
+                  "text": "O piață locală lângă râul Tuul, oferind alimente proaspete și produse de uz zilnic.",
+                  "category": "cultural",
+                  "coords": [
+                        106.905311,
+                        47.911838
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ulaanbaatar sign",
+                  "text": "A large decorative city sign near the Tuul River that serves as a popular photo spot.",
+                  "category": "landmark",
+                  "coords": [
+                        106.915605,
+                        47.915614
+                  ]
+            },
+            {
+                  "name": "World Peace Bell",
+                  "text": "This large peace bell on the banks of the Tuul is a symbol of international friendship.",
+                  "category": "landmark",
+                  "coords": [
+                        106.91711,
+                        47.917257
+                  ]
+            },
+            {
+                  "name": "Egg mart",
+                  "text": "A local marketplace near the Tuul River providing fresh food and daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        106.905311,
+                        47.911838
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "MN-1",
     coords: [106.9167, 47.9167],
@@ -291,7 +408,88 @@ export const poiExtraMongoliaNatureV2: POI[] = [
     },
   },
   {
-    id: "otgontenger-mountain-nature-v2",
+    id: "otgontenger-mountain-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Otgontenger",
+                  "text": "Der höchste Gipfel des Khangai-Gebirges ist ein heiliger Berg mit ewigem Schneefeld.",
+                  "category": "natural",
+                  "coords": [
+                        97.5525,
+                        47.608333
+                  ]
+            },
+            {
+                  "name": "Otgontenger Turiin tahilga ovoo",
+                  "text": "Ein zeremonieller schamanischer Steinhaufen (Ovoo) an den Hängen des heiligen Berges Otgontenger.",
+                  "category": "historical",
+                  "coords": [
+                        97.60786,
+                        47.574084
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Otgontenger",
+                  "text": "A Hangaj-hegység legmagasabb csúcsa egy szent hegy, örök hómezővel.",
+                  "category": "natural",
+                  "coords": [
+                        97.5525,
+                        47.608333
+                  ]
+            },
+            {
+                  "name": "Otgontenger Turiin tahilga ovoo",
+                  "text": "Egy ceremoniális sámán kőhalom (ovoo) a szent Otgontenger-hegy lejtőin.",
+                  "category": "historical",
+                  "coords": [
+                        97.60786,
+                        47.574084
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Otgontenger",
+                  "text": "Cel mai înalt vârf din munții Khangai este un munte sfânt cu un câmp de zăpadă eternă.",
+                  "category": "natural",
+                  "coords": [
+                        97.5525,
+                        47.608333
+                  ]
+            },
+            {
+                  "name": "Otgontenger Turiin tahilga ovoo",
+                  "text": "O grămadă de pietre șamanice ceremoniale (ovoo) pe pantele muntelui sfânt Otgontenger.",
+                  "category": "historical",
+                  "coords": [
+                        97.60786,
+                        47.574084
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Otgontenger",
+                  "text": "The highest peak of the Khangai Mountains is a sacred mountain with an eternal snowfield.",
+                  "category": "natural",
+                  "coords": [
+                        97.5525,
+                        47.608333
+                  ]
+            },
+            {
+                  "name": "Otgontenger Turiin tahilga ovoo",
+                  "text": "A ceremonial shamanic stone cairn (ovoo) on the slopes of the sacred Otgontenger mountain.",
+                  "category": "historical",
+                  "coords": [
+                        97.60786,
+                        47.574084
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "MN-055",
     coords: [97.5500, 47.6167],
@@ -435,7 +633,88 @@ export const poiExtraMongoliaNatureV2: POI[] = [
     },
   },
   {
-    id: "khar-lake-zavkhan-nature-v2",
+    id: "khar-lake-zavkhan-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khar nuur",
+                  "text": "Bietet einen Panoramablick über den 'Schwarzen See', der von hohen Sanddünen umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        96.065409,
+                        48.338168
+                  ]
+            },
+            {
+                  "name": "ulaagchiin khar nuur",
+                  "text": "Ein malerischer Alpensee, der direkt an die massiven Bor-Khyariin-Sanddünen grenzt.",
+                  "category": "landmark",
+                  "coords": [
+                        96.08039,
+                        48.321561
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khar nuur",
+                  "text": "Panorámás kilátást nyújt a magas homokdűnékkel körülvett „Fekete-tóra”.",
+                  "category": "natural",
+                  "coords": [
+                        96.065409,
+                        48.338168
+                  ]
+            },
+            {
+                  "name": "ulaagchiin khar nuur",
+                  "text": "Festői alpesi tó, amely közvetlenül a masszív Bor-Khyariin homokdűnékkel határos.",
+                  "category": "landmark",
+                  "coords": [
+                        96.08039,
+                        48.321561
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khar nuur",
+                  "text": "Oferă o vedere panoramică asupra „Lacului Negru”, înconjurat de dune de nisip înalte.",
+                  "category": "natural",
+                  "coords": [
+                        96.065409,
+                        48.338168
+                  ]
+            },
+            {
+                  "name": "ulaagchiin khar nuur",
+                  "text": "Un lac alpin pitoresc care se învecinează direct cu masivele dune de nisip Bor-Khyariin.",
+                  "category": "landmark",
+                  "coords": [
+                        96.08039,
+                        48.321561
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khar nuur",
+                  "text": "Offers a panoramic view over the 'Black Lake' surrounded by high sand dunes.",
+                  "category": "natural",
+                  "coords": [
+                        96.065409,
+                        48.338168
+                  ]
+            },
+            {
+                  "name": "ulaagchiin khar nuur",
+                  "text": "A scenic alpine lake bordering directly on the massive Bor Khyariin sand dunes.",
+                  "category": "landmark",
+                  "coords": [
+                        96.08039,
+                        48.321561
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "MN-057",
     coords: [96.0500, 48.3333],
@@ -627,7 +906,52 @@ export const poiExtraMongoliaNatureV2: POI[] = [
     },
   },
   {
-    id: "buir-lake-nature-v2",
+    id: "buir-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Amrakh kheseg",
+                  "text": "Amrakh Kheseg ist ein Sandstrand-Resortgebiet, das an der malerischen Küstenlinie des Sees liegt.",
+                  "category": "recreational",
+                  "coords": [
+                        117.87065,
+                        47.798851
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Amrakh kheseg",
+                  "text": "Az Amrakh kheseg egy homokos tengerparti üdülőövezet a tó festői partvonalán.",
+                  "category": "recreational",
+                  "coords": [
+                        117.87065,
+                        47.798851
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Amrakh kheseg",
+                  "text": "Amrakh kheseg este o zonă de stațiune cu plajă cu nisip situată de-a lungul coastei pitorești a lacului.",
+                  "category": "recreational",
+                  "coords": [
+                        117.87065,
+                        47.798851
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Amrakh kheseg",
+                  "text": "Amrakh kheseg is a sandy beach resort area situated along the scenic shoreline of the lake.",
+                  "category": "recreational",
+                  "coords": [
+                        117.87065,
+                        47.798851
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "MN-061",
     coords: [117.8333, 47.8000],
@@ -675,7 +999,52 @@ export const poiExtraMongoliaNatureV2: POI[] = [
     },
   },
   {
-    id: "ikh-bogd-mountain-nature-v2",
+    id: "ikh-bogd-mountain-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Baiankhongor",
+                  "text": "Der höchste Gipfel des Gobi-Altai, bekannt für seinen durch ein Erdbeben entstandenen See und markante Bergrücken.",
+                  "category": "landmark",
+                  "coords": [
+                        100.230833,
+                        44.995
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Baiankhongor",
+                  "text": "A Góbi-Altaj legmagasabb csúcsa, amely földrengés által kialakult taváról és jellegzetes hegygerinceiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        100.230833,
+                        44.995
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Baiankhongor",
+                  "text": "Cel mai înalt vârf din Gobi Altai, cunoscut pentru lacul său format în urma unui cutremur și crestele sale proeminente.",
+                  "category": "landmark",
+                  "coords": [
+                        100.230833,
+                        44.995
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ikh Bogd uul orgil",
+                  "text": "The highest peak of the Gobi Altai, known for its earthquake-formed lake and prominent ridges.",
+                  "category": "landmark",
+                  "coords": [
+                        100.230833,
+                        44.995
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "MN-069",
     coords: [100.2333, 44.9833],
@@ -915,7 +1284,88 @@ export const poiExtraMongoliaNatureV2: POI[] = [
     },
   },
   {
-    id: "bogd-khan-uul-forest-nature-v2",
+    id: "bogd-khan-uul-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tsetsee Gun",
+                  "text": "Der höchste Gipfel des Bogd-Khan-Massivs bietet weite Panoramablicke über das Tal von Ulaanbaatar.",
+                  "category": "natural",
+                  "coords": [
+                        107.002694,
+                        47.808379
+                  ]
+            },
+            {
+                  "name": "Bogdkhan uulyn darkhan tsaazat gazar bogda qagan agula yin darqan chagajatu gajar",
+                  "text": "Dieses 1778 gegründete Schutzgebiet gehört zu den ältesten der Welt und beherbergt dichte Zedern- und Kiefernwälder.",
+                  "category": "natural",
+                  "coords": [
+                        106.990045,
+                        47.807381
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tsetsee Gun",
+                  "text": "A Bogd-kán-hegység legmagasabb csúcsa, amely széles panorámát nyújt Ulánbátor völgyére.",
+                  "category": "natural",
+                  "coords": [
+                        107.002694,
+                        47.808379
+                  ]
+            },
+            {
+                  "name": "Bogdkhan uulyn darkhan tsaazat gazar bogda qagan agula yin darqan chagajatu gajar",
+                  "text": "Ez az 1778-ban alapított, a világ egyik legrégebbi természetvédelmi területe sűrű cédrus- és fenyőerdőknek ad otthont.",
+                  "category": "natural",
+                  "coords": [
+                        106.990045,
+                        47.807381
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tsetsee Gun",
+                  "text": "Cel mai înalt vârf al masivului Bogd Khan, oferind vederi panoramice vaste asupra văii Ulaanbaatar.",
+                  "category": "natural",
+                  "coords": [
+                        107.002694,
+                        47.808379
+                  ]
+            },
+            {
+                  "name": "Bogdkhan uulyn darkhan tsaazat gazar bogda qagan agula yin darqan chagajatu gajar",
+                  "text": "Înființată în 1778, această zonă protejată este printre cele mai vechi din lume și adăpostește păduri dese de cedru și pin.",
+                  "category": "natural",
+                  "coords": [
+                        106.990045,
+                        47.807381
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tsetsee Gun",
+                  "text": "The highest peak of the Bogd Khan range, offering wide panoramic views over the Ulaanbaatar valley.",
+                  "category": "natural",
+                  "coords": [
+                        107.002694,
+                        47.808379
+                  ]
+            },
+            {
+                  "name": "Bogd khan mountain Strictly protected area",
+                  "text": "Established in 1778, this protected area is among the world's oldest and features dense cedar and pine forests.",
+                  "category": "natural",
+                  "coords": [
+                        106.990045,
+                        47.807381
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "MN-047",
     coords: [106.9833, 47.8000],

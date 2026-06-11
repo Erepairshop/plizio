@@ -498,7 +498,52 @@ export const palauNatureV2: POI[] = [
     image: "/poi-images/palau-pulo-anna-nature-v2.webp",
   },
   {
-    id: "palau-tobi-island-nature-v2",
+    id: "palau-tobi-island-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mt Carmel Church",
+                  "text": "Die Mt Carmel Church ist ein kleines, aber zentrales christliches Gotteshaus, das der abgelegenen Gemeinde auf Tobi Island dient.",
+                  "category": "landmark",
+                  "coords": [
+                        131.120584,
+                        3.007226
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mt Carmel Church",
+                  "text": "A Mt Carmel templom egy kicsi, de központi keresztény istentiszteleti hely, amely a távoli Tobi-sziget közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        131.120584,
+                        3.007226
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mt Carmel Church",
+                  "text": "Biserica Mt Carmel este un loc de cult creștin mic, dar central, care deservește comunitatea îndepărtată de pe Insula Tobi.",
+                  "category": "landmark",
+                  "coords": [
+                        131.120584,
+                        3.007226
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mt Carmel Church",
+                  "text": "Mt Carmel Church is a small but central Christian place of worship serving the remote community on Tobi Island.",
+                  "category": "landmark",
+                  "coords": [
+                        131.120584,
+                        3.007226
+                  ]
+            }
+      ]
+},
     parent: "PW",
     type: "park",
     name: { de: "Tobi", hu: "Tobi-sziget", ro: "Insula Tobi", en: "Tobi Island" },

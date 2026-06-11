@@ -61,7 +61,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Church of the Holy Cross",
-                  "text": "Eine römisch-katholische Kirche in der Nähe des Paphos-Tors.",
+                  "text": "Eine griechisch-orthodoxe Kirche in Strovolos, Nikosia, bekannt für ihre byzantinischen Fresken.",
                   "category": "religious",
                   "coords": [
                         33.357419,
@@ -97,7 +97,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Zypernmuseum",
-                  "text": "Das größte und älteste archäologische Museum Zyperns.",
+                  "text": "Das Nationalmuseum für Archäologie Zyperns in Strovolos mit einer Sammlung von der Jungsteinzeit bis zum Mittelalter.",
                   "category": "museum",
                   "coords": [
                         33.355753,
@@ -106,7 +106,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Moyseio Astynomias Kyproy",
-                  "text": "Ein Museum, das sich der Geschichte der zypriotischen Polizei widmet.",
+                  "text": "Ein Museum zur Geschichte der zypriotischen Polizei in Strovolos.",
                   "category": "museum",
                   "coords": [
                         33.374292,
@@ -142,7 +142,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Sourp Asdvadzadzin",
-                  "text": "Eine historische armenisch-apostolische Kirche in Nicosia.",
+                  "text": "Eine armenisch-apostolische Kirche in Strovolos, Nikosia.",
                   "category": "religious",
                   "coords": [
                         33.367166,
@@ -196,7 +196,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Ypaithrio Moyseio Neroy",
-                  "text": "Ein Freilichtmuseum, das sich mit der Geschichte der Wasserwirtschaft befasst.",
+                  "text": "Freilichtmuseum mit traditionellen Wassermühlen und Aquädukten.",
                   "category": "museum",
                   "coords": [
                         33.357653,
@@ -205,7 +205,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "MOYSEIO EThNOMARTYRA ARChIEPISKOPOY KYPRIANOY",
-                  "text": "Ein Museum zu Ehren des Erzbischofs Kyprianos, einem nationalen Märtyrer.",
+                  "text": "Museum über das Leben von Erzbischof Kyprianos, einem Nationalhelden.",
                   "category": "museum",
                   "coords": [
                         33.340049,
@@ -241,7 +241,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Modern Gallery",
-                  "text": "Eine Galerie, die zeitgenössische und moderne Kunstwerke präsentiert.",
+                  "text": "Galerie für zeitgenössische Kunst in Strovolos.",
                   "category": "museum",
                   "coords": [
                         33.317684,
@@ -250,7 +250,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Iron Art Gallery",
-                  "text": "Eine spezialisierte Kunstgalerie in Strovolos.",
+                  "text": "Galerie mit Eisenkunst und Metallskulpturen.",
                   "category": "museum",
                   "coords": [
                         33.3378,
@@ -268,7 +268,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Out of Limits",
-                  "text": "Ein Ausstellungsraum für moderne Kunst in Strovolos.",
+                  "text": "Ein Museum in Strovolos, das sich mit dem Thema Grenzen und Überschreitung beschäftigt.",
                   "category": "museum",
                   "coords": [
                         33.353954,
@@ -277,7 +277,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "ARUCAD Art Space",
-                  "text": "Ein kreativer Raum für Ausstellungen zeitgenössischer Kunst.",
+                  "text": "Eine zeitgenössische Kunstgalerie in Strovolos mit wechselnden Ausstellungen.",
                   "category": "museum",
                   "coords": [
                         33.35989,
@@ -295,7 +295,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Vartan",
-                  "text": "Eine private Kunstgalerie in der Gegend von Nicosia.",
+                  "text": "Museum, das dem Leben und Werk von Vartan gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         33.351157,
@@ -304,7 +304,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Marginalia",
-                  "text": "Eine Galerie für zeitgenössische Kunst und kulturelle Veranstaltungen.",
+                  "text": "Museum über handschriftliche Randnotizen und Buchgeschichte.",
                   "category": "museum",
                   "coords": [
                         33.344131,
@@ -313,7 +313,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Kyklades",
-                  "text": "Eine Galerie in Strovolos, benannt nach den Kykladen.",
+                  "text": "Museum zur Kultur und Geschichte der Kykladeninseln.",
                   "category": "museum",
                   "coords": [
                         33.36026,
@@ -340,7 +340,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Archaeological Park of the old Nicosia town hall",
-                  "text": "Ein archäologischer Park an der Stelle des alten Rathauses von Nicosia.",
+                  "text": "Eine archäologische Stätte mit den Überresten des alten Rathauses von Nikosia in Strovolos.",
                   "category": "historical",
                   "coords": [
                         33.366066,
@@ -367,7 +367,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Zodia - Epistrofi Sylloros Apofoiton",
-                  "text": "Ein lokales Denkmal der Zodia Alumni Association in Strovolos.",
+                  "text": "Historisches Gebäude der Zodia-Alumni-Vereinigung in Strovolos.",
                   "category": "historical",
                   "coords": [
                         33.358872,
@@ -376,7 +376,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "José Martí 1853-1895 National Hero of the Republic of Cuba",
-                  "text": "Ein Denkmal in Strovolos zu Ehren des kubanischen Nationalhelden José Martí.",
+                  "text": "Denkmal zu Ehren des kubanischen Nationalhelden José Martí in Strovolos.",
                   "category": "historical",
                   "coords": [
                         33.367276,
@@ -385,7 +385,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "AThLITIKO KENTRO KOSTAS PAPAELLINAS",
-                  "text": "Ein Denkmal am Kostas Papellinas Sportzentrum in Strovolos.",
+                  "text": "Historisches Sportzentrum benannt nach dem zyprischen Sportler Kostas Papellinas.",
                   "category": "historical",
                   "coords": [
                         33.339588,
@@ -394,7 +394,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Monument to the Fallen and Missing",
-                  "text": "Ein Denkmal in Strovolos für die Gefallenen und Vermissten.",
+                  "text": "Kriegsdenkmal in Strovolos für gefallene und vermisste Soldaten.",
                   "category": "historical",
                   "coords": [
                         33.358618,
@@ -430,7 +430,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Limni toy Magli",
-                  "text": "Ein kleiner See bei Strovolos, ideal für kurze Spaziergänge.",
+                  "text": "Süßwassersee in Strovolos, Lebensraum für Wasservögel.",
                   "category": "natural",
                   "coords": [
                         33.308401,
@@ -448,7 +448,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Zembilas Park",
-                  "text": "Ein Park in Strovolos mit Spielbereichen für Kinder.",
+                  "text": "Familienfreundlicher Park mit Spielplätzen und Picknickplätzen in Strovolos.",
                   "category": "family",
                   "coords": [
                         33.34221,
@@ -475,7 +475,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Hamam Omerye",
-                  "text": "Hamam Omerye in Strovolos ist ein öffentliches Bad für Entspannung und Wellness.",
+                  "text": "Historisches türkisches Bad (Hamam) in Strovolos, kulturelles Familienerlebnis.",
                   "category": "family",
                   "coords": [
                         33.365357,
@@ -558,7 +558,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Church of the Holy Cross",
-                  "text": "Római katolikus templom a Paphos-kapu közelében.",
+                  "text": "Görög ortodox templom Strovolosban, Nicosiában, híres bizánci freskóiról.",
                   "category": "religious",
                   "coords": [
                         33.357419,
@@ -594,7 +594,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Kypriako Moyseio",
-                  "text": "Ciprus legnagyobb és legrégebbi régészeti múzeuma.",
+                  "text": "Ciprus Nemzeti Régészeti Múzeuma Strovolosban, a neolitikumtól a középkorig ívelő gyűjteménnyel.",
                   "category": "museum",
                   "coords": [
                         33.355753,
@@ -603,7 +603,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Moyseio Astynomias Kyproy",
-                  "text": "A ciprusi rendőrség történetének szentelt múzeum.",
+                  "text": "A ciprusi rendőrség történetének szentelt múzeum Strovolosban.",
                   "category": "museum",
                   "coords": [
                         33.374292,
@@ -639,7 +639,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Sourp Asdvadzadzin",
-                  "text": "Történelmi örmény apostoli templom Nicosiában.",
+                  "text": "Egy örmény apostoli templom Strovolosban, Nicosiában.",
                   "category": "religious",
                   "coords": [
                         33.367166,
@@ -693,7 +693,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Ypaithrio Moyseio Neroy",
-                  "text": "A vízgazdálkodás történetével foglalkozó szabadtéri múzeum.",
+                  "text": "Szabadtéri múzeum hagyományos vízimalmokkal és vízvezetékekkel.",
                   "category": "museum",
                   "coords": [
                         33.357653,
@@ -702,7 +702,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "MOYSEIO EThNOMARTYRA ARChIEPISKOPOY KYPRIANOY",
-                  "text": "Kyprianos érseknek, a nemzeti mártírnak szentelt múzeum.",
+                  "text": "Kyprianos érsek életét bemutató múzeum, nemzeti hős.",
                   "category": "museum",
                   "coords": [
                         33.340049,
@@ -738,7 +738,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Modern Gallery",
-                  "text": "Kortárs és modern művészeti alkotásokat bemutató galéria.",
+                  "text": "Kortárs művészeti galéria Strovolosban.",
                   "category": "museum",
                   "coords": [
                         33.317684,
@@ -747,7 +747,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Iron Art Gallery",
-                  "text": "Speciális művészeti galéria Strovolosban.",
+                  "text": "Vasból készült művészeti alkotásokat és fémszobrokat bemutató galéria.",
                   "category": "museum",
                   "coords": [
                         33.3378,
@@ -765,7 +765,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Out of Limits",
-                  "text": "Modern művészeti kiállítótér Strovolosban.",
+                  "text": "Múzeum Strovolosban, amely a határok és áthágások témáját járja körül.",
                   "category": "museum",
                   "coords": [
                         33.353954,
@@ -774,7 +774,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "ARUCAD Art Space",
-                  "text": "Kreatív tér kortárs művészeti kiállítások számára.",
+                  "text": "Kortárs művészeti galéria Strovolosban, változó kiállításokkal.",
                   "category": "museum",
                   "coords": [
                         33.35989,
@@ -792,7 +792,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Vartan",
-                  "text": "Magán művészeti galéria Nicosia környékén.",
+                  "text": "Múzeum, amely Vartan életének és munkásságának állít emléket.",
                   "category": "museum",
                   "coords": [
                         33.351157,
@@ -801,7 +801,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Marginalia",
-                  "text": "Kortárs művészeti galéria és kulturális rendezvények helyszíne.",
+                  "text": "A kézzel írt lapszéli jegyzetekkel és könyvtörténettel foglalkozó múzeum.",
                   "category": "museum",
                   "coords": [
                         33.344131,
@@ -810,7 +810,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Kyklades",
-                  "text": "A Kükládokról elnevezett galéria Strovolosban.",
+                  "text": "A Kükládok kultúráját és történelmét bemutató múzeum.",
                   "category": "museum",
                   "coords": [
                         33.36026,
@@ -837,7 +837,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Archaeological Park of the old Nicosia town hall",
-                  "text": "Régészeti park Nicosia régi városházájának helyén.",
+                  "text": "Egy régészeti lelőhely a régi nicosiai városháza maradványaival Strovolosban.",
                   "category": "historical",
                   "coords": [
                         33.366066,
@@ -864,7 +864,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Zodia - Epistrofi Sylloros Apofoiton",
-                  "text": "A Zodia Öregdiák Szövetség helyi emlékműve Strovolosban.",
+                  "text": "A Zodia öregdiák-szövetség történelmi épülete Strovolosban.",
                   "category": "historical",
                   "coords": [
                         33.358872,
@@ -873,7 +873,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "José Martí 1853-1895 National Hero of the Republic of Cuba",
-                  "text": "José Martí kubai nemzeti hős tiszteletére emelt emlékmű Strovolosban.",
+                  "text": "José Martí kubai nemzeti hős emlékműve Strovolosban.",
                   "category": "historical",
                   "coords": [
                         33.367276,
@@ -882,7 +882,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "AThLITIKO KENTRO KOSTAS PAPAELLINAS",
-                  "text": "Emlékmű a Kostas Papellinas Sportközpontnál Strovolosban.",
+                  "text": "Kostas Papellinas ciprusi sportolóról elnevezett történelmi sportközpont.",
                   "category": "historical",
                   "coords": [
                         33.339588,
@@ -891,7 +891,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Monument to the Fallen and Missing",
-                  "text": "Az elesetteknek és eltűnteknek szentelt emlékmű Strovolosban.",
+                  "text": "Háborús emlékmű Strovolosban az elesett és eltűnt katonák tiszteletére.",
                   "category": "historical",
                   "coords": [
                         33.358618,
@@ -927,7 +927,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Limni toy Magli",
-                  "text": "Kicsi tó Strovolos közelében, ideális rövid sétákhoz.",
+                  "text": "Édesvizű tó Strovolosban, vízimadarak élőhelye.",
                   "category": "natural",
                   "coords": [
                         33.308401,
@@ -945,7 +945,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Zembilas Park",
-                  "text": "Park Strovolos területén játszóhelyekkel a gyerekek számára.",
+                  "text": "Családbarát park játszóterekkel és piknikhelyekkel Strovolosban.",
                   "category": "family",
                   "coords": [
                         33.34221,
@@ -972,7 +972,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Hamam Omerye",
-                  "text": "A strovolosi Hamam Omerye egy nyilvános fürdő a pihenéshez és wellnesshez.",
+                  "text": "Történelmi török fürdő (hamam) Strovolosban, családi kulturális élmény.",
                   "category": "family",
                   "coords": [
                         33.365357,
@@ -1055,7 +1055,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Church of the Holy Cross",
-                  "text": "O biserică romano-catolică situată lângă Poarta Paphos.",
+                  "text": "O biserică ortodoxă greacă în Strovolos, Nicosia, cunoscută pentru frescele sale bizantine.",
                   "category": "religious",
                   "coords": [
                         33.357419,
@@ -1091,7 +1091,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Kypriako Moyseio",
-                  "text": "Cel mai mare și mai vechi muzeu arheologic din Cipru.",
+                  "text": "Muzeul Național de Arheologie al Ciprului din Strovolos, cu o colecție de la neolitic până în Evul Mediu.",
                   "category": "museum",
                   "coords": [
                         33.355753,
@@ -1100,7 +1100,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Moyseio Astynomias Kyproy",
-                  "text": "Un muzeu dedicat istoriei poliției cipriote.",
+                  "text": "Un muzeu dedicat istoriei Poliției Cipriote în Strovolos.",
                   "category": "museum",
                   "coords": [
                         33.374292,
@@ -1136,7 +1136,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Biserica armeană „Sourp Asdvadzadzin” Nicosia",
-                  "text": "O biserică apostolică armeană istorică din Nicosia.",
+                  "text": "O biserică armeană apostolică în Strovolos, Nicosia.",
                   "category": "religious",
                   "coords": [
                         33.367166,
@@ -1190,7 +1190,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Ypaithrio Moyseio Neroy",
-                  "text": "Un muzeu în aer liber care se ocupă de istoria gestionării apei.",
+                  "text": "Muzeu în aer liber cu mori de apă tradiționale și apeducte.",
                   "category": "museum",
                   "coords": [
                         33.357653,
@@ -1199,7 +1199,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "MOYSEIO EThNOMARTYRA ARChIEPISKOPOY KYPRIANOY",
-                  "text": "Un muzeu în onoarea arhiepiscopului Kyprianos, un martir național.",
+                  "text": "Muzeu dedicat vieții arhiepiscopului Kyprianos, un erou național.",
                   "category": "museum",
                   "coords": [
                         33.340049,
@@ -1235,7 +1235,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Modern Gallery",
-                  "text": "O galerie care prezintă opere de artă contemporană și modernă.",
+                  "text": "Galerie de artă contemporană în Strovolos.",
                   "category": "museum",
                   "coords": [
                         33.317684,
@@ -1244,7 +1244,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Iron Art Gallery",
-                  "text": "O galerie de artă specializată situată în Strovolos.",
+                  "text": "Galerie de artă din fier și sculpturi metalice.",
                   "category": "museum",
                   "coords": [
                         33.3378,
@@ -1262,7 +1262,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Out of Limits",
-                  "text": "Un spațiu de expoziție pentru artă modernă în Strovolos.",
+                  "text": "Un muzeu din Strovolos care explorează tema limitelor și transgresiunii.",
                   "category": "museum",
                   "coords": [
                         33.353954,
@@ -1271,7 +1271,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "ARUCAD Art Space",
-                  "text": "Un spațiu creativ pentru expoziții de artă contemporană.",
+                  "text": "O galerie de artă contemporană în Strovolos, cu expoziții temporare.",
                   "category": "museum",
                   "coords": [
                         33.35989,
@@ -1289,7 +1289,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Vartan",
-                  "text": "O galerie de artă privată în zona Nicosia.",
+                  "text": "Muzeu dedicat vieții și operei lui Vartan.",
                   "category": "museum",
                   "coords": [
                         33.351157,
@@ -1298,7 +1298,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Marginalia",
-                  "text": "O galerie pentru artă contemporană și evenimente culturale.",
+                  "text": "Muzeu axat pe însemnări marginale manuscrise și istoria cărții.",
                   "category": "museum",
                   "coords": [
                         33.344131,
@@ -1307,7 +1307,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Kyklades",
-                  "text": "O galerie din Strovolos numită după Ciclade.",
+                  "text": "Muzeu care prezintă cultura și istoria insulelor Ciclade.",
                   "category": "museum",
                   "coords": [
                         33.36026,
@@ -1334,7 +1334,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Archaeological Park of the old Nicosia town hall",
-                  "text": "Un parc arheologic situat pe locul vechii primării din Nicosia.",
+                  "text": "Un sit arheologic cu rămășițele vechii primării din Nicosia în Strovolos.",
                   "category": "historical",
                   "coords": [
                         33.366066,
@@ -1361,7 +1361,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Zodia - Epistrofi Sylloros Apofoiton",
-                  "text": "Un monument local al Asociației foștilor elevi din Zodia în Strovolos.",
+                  "text": "Clădire istorică a asociației absolvenților Zodia din Strovolos.",
                   "category": "historical",
                   "coords": [
                         33.358872,
@@ -1370,7 +1370,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "José Martí 1853-1895 National Hero of the Republic of Cuba",
-                  "text": "Un monument în Strovolos ridicat în onoarea eroului național cubanez José Martí.",
+                  "text": "Monument în onoarea eroului național cubanez José Martí în Strovolos.",
                   "category": "historical",
                   "coords": [
                         33.367276,
@@ -1379,7 +1379,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "AThLITIKO KENTRO KOSTAS PAPAELLINAS",
-                  "text": "Un monument la Centrul Sportiv Kostas Papellinas din Strovolos.",
+                  "text": "Centru sportiv istoric numit după sportivul cipriot Kostas Papellinas.",
                   "category": "historical",
                   "coords": [
                         33.339588,
@@ -1388,7 +1388,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Monument to the Fallen and Missing",
-                  "text": "Un monument în Strovolos dedicat celor căzuți și dispăruți.",
+                  "text": "Monument de război în Strovolos dedicat soldaților căzuți și dispăruți.",
                   "category": "historical",
                   "coords": [
                         33.358618,
@@ -1424,7 +1424,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Limni toy Magli",
-                  "text": "Un lac mic lângă Strovolos, ideal pentru scurte plimbări.",
+                  "text": "Lac de apă dulce în Strovolos, habitat pentru păsări acvatice.",
                   "category": "natural",
                   "coords": [
                         33.308401,
@@ -1442,7 +1442,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Zembilas Park",
-                  "text": "Un parc în Strovolos cu zone de joacă pentru copii.",
+                  "text": "Parc prietenos cu familii, cu locuri de joacă și zone de picnic în Strovolos.",
                   "category": "family",
                   "coords": [
                         33.34221,
@@ -1469,7 +1469,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Hamam Omerye",
-                  "text": "Hamam Omerye din Strovolos este o baie publică pentru relaxare și wellness.",
+                  "text": "Baie turcească istorică (hamam) în Strovolos, experiență culturală de familie.",
                   "category": "family",
                   "coords": [
                         33.365357,
@@ -1552,7 +1552,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Church of the Holy Cross",
-                  "text": "A Roman Catholic church situated near the Paphos Gate.",
+                  "text": "A Greek Orthodox church in Strovolos, Nicosia, known for its Byzantine frescoes.",
                   "category": "religious",
                   "coords": [
                         33.357419,
@@ -1588,7 +1588,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Cyprus Museum",
-                  "text": "The largest and oldest archaeological museum in Cyprus.",
+                  "text": "The national archaeological museum of Cyprus in Strovolos, featuring artifacts from the Neolithic to the Middle Ages.",
                   "category": "museum",
                   "coords": [
                         33.355753,
@@ -1597,7 +1597,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Cyprus Police Museum",
-                  "text": "A museum dedicated to the history of the Cypriot police.",
+                  "text": "A museum dedicated to the history of the Cyprus Police in Strovolos.",
                   "category": "museum",
                   "coords": [
                         33.374292,
@@ -1633,7 +1633,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Sourp Asdvadzadzin",
-                  "text": "A historic Armenian Apostolic church in Nicosia.",
+                  "text": "An Armenian Apostolic church in Strovolos, Nicosia.",
                   "category": "religious",
                   "coords": [
                         33.367166,
@@ -1687,7 +1687,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Outdoor Water Museum",
-                  "text": "An outdoor museum dealing with the history of water management.",
+                  "text": "Open-air museum featuring traditional watermills and aqueducts.",
                   "category": "museum",
                   "coords": [
                         33.357653,
@@ -1696,7 +1696,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "MUSEUM OF ETHNOMARTYR ARCHBISHOP KYPRIANOS",
-                  "text": "A museum honoring Archbishop Kyprianos, a national martyr.",
+                  "text": "Museum about the life of Archbishop Kyprianos, a national hero.",
                   "category": "museum",
                   "coords": [
                         33.340049,
@@ -1732,7 +1732,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Modern Gallery",
-                  "text": "A gallery showcasing contemporary and modern artworks.",
+                  "text": "Contemporary art gallery in Strovolos.",
                   "category": "museum",
                   "coords": [
                         33.317684,
@@ -1741,7 +1741,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Iron Art Gallery",
-                  "text": "A specialized art gallery located in Strovolos.",
+                  "text": "Gallery showcasing iron art and metal sculptures.",
                   "category": "museum",
                   "coords": [
                         33.3378,
@@ -1759,7 +1759,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Out of Limits",
-                  "text": "An exhibition space for modern art in Strovolos.",
+                  "text": "A museum in Strovolos exploring the theme of boundaries and transgression.",
                   "category": "museum",
                   "coords": [
                         33.353954,
@@ -1768,7 +1768,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "ARUCAD Art Space",
-                  "text": "A creative space for contemporary art exhibitions.",
+                  "text": "A contemporary art space in Strovolos hosting rotating exhibitions.",
                   "category": "museum",
                   "coords": [
                         33.35989,
@@ -1786,7 +1786,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Vartan",
-                  "text": "A private art gallery in the Nicosia area.",
+                  "text": "Museum dedicated to the life and work of Vartan.",
                   "category": "museum",
                   "coords": [
                         33.351157,
@@ -1795,7 +1795,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Marginalia",
-                  "text": "A gallery for contemporary art and cultural events.",
+                  "text": "Museum focusing on handwritten marginal notes and book history.",
                   "category": "museum",
                   "coords": [
                         33.344131,
@@ -1804,7 +1804,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Kyklades",
-                  "text": "A gallery in Strovolos named after the Cyclades.",
+                  "text": "Museum presenting the culture and history of the Cycladic islands.",
                   "category": "museum",
                   "coords": [
                         33.36026,
@@ -1831,7 +1831,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Archaeological Park of the old Nicosia town hall",
-                  "text": "An archaeological park located at the site of the old Nicosia town hall.",
+                  "text": "An archaeological site featuring the remains of the old Nicosia town hall in Strovolos.",
                   "category": "historical",
                   "coords": [
                         33.366066,
@@ -1858,7 +1858,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Zodia Alumni Association",
-                  "text": "A local monument of the Zodia Alumni Association in Strovolos.",
+                  "text": "Historical building housing the Zodia alumni association in Strovolos.",
                   "category": "historical",
                   "coords": [
                         33.358872,
@@ -1867,7 +1867,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "José Martí 1853-1895 National Hero of the Republic of Cuba",
-                  "text": "A monument in Strovolos honoring the Cuban national hero José Martí.",
+                  "text": "Monument honoring Cuban national hero José Martí in Strovolos.",
                   "category": "historical",
                   "coords": [
                         33.367276,
@@ -1876,7 +1876,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Kostas Papellinas Sports Center",
-                  "text": "A monument located at the Kostas Papellinas Sports Center in Strovolos.",
+                  "text": "Historical sports center named after Cypriot athlete Kostas Papellinas.",
                   "category": "historical",
                   "coords": [
                         33.339588,
@@ -1885,7 +1885,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Monument to the Fallen and Missing",
-                  "text": "A monument in Strovolos dedicated to the fallen and missing.",
+                  "text": "War memorial in Strovolos dedicated to fallen and missing soldiers.",
                   "category": "historical",
                   "coords": [
                         33.358618,
@@ -1921,7 +1921,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Maglee Lake",
-                  "text": "A small lake near Strovolos, ideal for short walks.",
+                  "text": "A freshwater lake in Strovolos, a habitat for waterfowl.",
                   "category": "natural",
                   "coords": [
                         33.308401,
@@ -1939,7 +1939,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Zembilas Park",
-                  "text": "A park in Strovolos with play areas for children.",
+                  "text": "Family-friendly park with playgrounds and picnic areas in Strovolos.",
                   "category": "family",
                   "coords": [
                         33.34221,
@@ -1966,7 +1966,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Hamam Omerye",
-                  "text": "Hamam Omerye in Strovolos is a public bath for relaxation and wellness.",
+                  "text": "Historical Turkish bath (hamam) offering a cultural family experience in Strovolos.",
                   "category": "family",
                   "coords": [
                         33.365357,
@@ -2113,7 +2113,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Theatro Anemona",
-                  "text": "Das Theatro Anemona ist ein Theater in Latsia, das zur lokalen Kulturszene beiträgt.",
+                  "text": "Kulturtheater in Latsia mit Aufführungen und Theaterstücken.",
                   "category": "cultural",
                   "coords": [
                         33.380217,
@@ -2196,7 +2196,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Theatro Anemona",
-                  "text": "A Theatro Anemona egy színház Latsiában, amely a helyi kulturális életet gazdagítja.",
+                  "text": "Kulturális színház Latsiában, előadásokkal és színdarabokkal.",
                   "category": "cultural",
                   "coords": [
                         33.380217,
@@ -2279,7 +2279,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Theatro Anemona",
-                  "text": "Theatro Anemona este un teatru din Latsia care contribuie la scena culturală locală.",
+                  "text": "Teatru cultural în Latsia, cu spectacole și piese de teatru.",
                   "category": "cultural",
                   "coords": [
                         33.380217,
@@ -2362,7 +2362,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Theatro Anemona",
-                  "text": "Theatro Anemona is a theatre in Latsia that contributes to the local cultural scene.",
+                  "text": "Cultural theater in Latsia hosting plays and performances.",
                   "category": "cultural",
                   "coords": [
                         33.380217,
@@ -2599,7 +2599,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Shark's teeth",
-                  "text": "Ein einzigartiges Denkmal in Mesa Geitonia, bekannt als Haifischzähne.",
+                  "text": "Historische Stätte mit fossilen Haizähnen in Mesa Geitonia.",
                   "category": "historical",
                   "coords": [
                         33.051819,
@@ -2608,7 +2608,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "\"My Love\"",
-                  "text": "Ein Denkmal in Mesa Geitonia mit dem Titel My Love.",
+                  "text": "Denkmal oder Skulptur mit dem Titel ‚My Love‘ in Mesa Geitonia.",
                   "category": "historical",
                   "coords": [
                         33.066879,
@@ -2680,7 +2680,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Diatehnon Arts & Culture",
-                  "text": "Ein Zentrum für Kunst und Kultur in Mesa Geitonia.",
+                  "text": "Kulturzentrum in Mesa Geitonia mit Workshops und Ausstellungen.",
                   "category": "cultural",
                   "coords": [
                         33.042951,
@@ -2788,7 +2788,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Plateia Synergatismoy",
-                  "text": "Ein lokaler Spielplatz in Mesa Geitonia für Spielspaß im Freien.",
+                  "text": "Öffentlicher Platz in Mesa Geitonia, Treffpunkt für Familien.",
                   "category": "family",
                   "coords": [
                         33.047853,
@@ -2943,7 +2943,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Shark's teeth",
-                  "text": "Cápafogakként ismert egyedi emlékmű Mesa Geitoniában.",
+                  "text": "Fosszilis cápa fogakkal rendelkező történelmi helyszín Mesa Geitoniában.",
                   "category": "historical",
                   "coords": [
                         33.051819,
@@ -2952,7 +2952,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "\"My Love\"",
-                  "text": "„My Love” című emlékmű Mesa Geitonia területén.",
+                  "text": "‚My Love‘ című emlékmű vagy szobor Mesa Geitoniában.",
                   "category": "historical",
                   "coords": [
                         33.066879,
@@ -3024,7 +3024,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Diatehnon Arts & Culture",
-                  "text": "Művészeti és kulturális központ Mesa Geitoniában.",
+                  "text": "Kulturális központ Mesa Geitoniában, műhelyekkel és kiállításokkal.",
                   "category": "cultural",
                   "coords": [
                         33.042951,
@@ -3132,7 +3132,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Plateia Synergatismoy",
-                  "text": "Helyi játszótér Mesa Geitoniában a szabadtéri játékhoz.",
+                  "text": "Nyilvános tér Mesa Geitoniában, családok találkozóhelye.",
                   "category": "family",
                   "coords": [
                         33.047853,
@@ -3287,7 +3287,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Shark's teeth",
-                  "text": "Un monument unic în Mesa Geitonia, cunoscut sub numele de Dinții de Rechin.",
+                  "text": "Sit istoric cu dinți de rechin fosilizați în Mesa Geitonia.",
                   "category": "historical",
                   "coords": [
                         33.051819,
@@ -3296,7 +3296,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "\"My Love\"",
-                  "text": "Un monument din Mesa Geitonia intitulat „My Love”.",
+                  "text": "Monument sau sculptură intitulată ‚My Love‘ în Mesa Geitonia.",
                   "category": "historical",
                   "coords": [
                         33.066879,
@@ -3368,7 +3368,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Diatehnon Arts & Culture",
-                  "text": "Un centru pentru artă și cultură din Mesa Geitonia.",
+                  "text": "Centru cultural în Mesa Geitonia, cu ateliere și expoziții.",
                   "category": "cultural",
                   "coords": [
                         33.042951,
@@ -3476,7 +3476,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Plateia Synergatismoy",
-                  "text": "Un loc de joacă local în Mesa Geitonia pentru distracție în aer liber.",
+                  "text": "Piață publică în Mesa Geitonia, loc de întâlnire pentru familii.",
                   "category": "family",
                   "coords": [
                         33.047853,
@@ -3631,7 +3631,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Shark's teeth",
-                  "text": "A unique monument in Mesa Geitonia known as Shark's teeth.",
+                  "text": "Historical site known for fossilized shark teeth in Mesa Geitonia.",
                   "category": "historical",
                   "coords": [
                         33.051819,
@@ -3640,7 +3640,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "\"My Love\"",
-                  "text": "A monument in Mesa Geitonia titled \"My Love\".",
+                  "text": "Monument or sculpture titled 'My Love' in Mesa Geitonia.",
                   "category": "historical",
                   "coords": [
                         33.066879,
@@ -3712,7 +3712,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Diatehnon Arts & Culture",
-                  "text": "A centre for arts and culture located in Mesa Geitonia.",
+                  "text": "Arts and culture venue in Mesa Geitonia offering workshops and exhibitions.",
                   "category": "cultural",
                   "coords": [
                         33.042951,
@@ -3820,7 +3820,7 @@ export const cyprusCitiesV2: POI[] = [
             },
             {
                   "name": "Plateia Synergatismoy",
-                  "text": "A local playground in Mesa Geitonia for outdoor play.",
+                  "text": "Public square in Mesa Geitonia, a meeting point for families.",
                   "category": "family",
                   "coords": [
                         33.047853,

@@ -205,7 +205,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
             },
             {
                   "name": "Zuri Dzong",
-                  "text": "Zuri Dzong ist eine befestigte Burg in Paro.",
+                  "text": "Festungskloster (Dzong) im Paro-Tal mit weiß getünchten Mauern und traditioneller Architektur Bhutans.",
                   "category": "castle",
                   "coords": [
                         89.428087,
@@ -214,7 +214,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
             },
             {
                   "name": "|White Lotus Art Gallery",
-                  "text": "Die White Lotus Art Gallery ist ein Ausstellungsort für Kunst in Paro.",
+                  "text": "Kunstgalerie in Paro mit zeitgenössischer bhutanischer Kunst und traditionellen Thangka-Gemälden.",
                   "category": "cultural",
                   "coords": [
                         89.415685,
@@ -223,7 +223,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
             },
             {
                   "name": "Jangtsa Dumtseg Lhakhang",
-                  "text": "Jangtsa Dumtseg Lhakhang ist ein einzigartiger Tempel in Paro.",
+                  "text": "Jangtsa Dumtseg Lhakhang ist ein buddhistischer Tempel in Paro, auf einem felsigen Grat gelegen.",
                   "category": "religious",
                   "coords": [
                         89.413395,
@@ -243,7 +243,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
             },
             {
                   "name": "Zuri Dzong",
-                  "text": "Zuri Dzong egy erődített kastély Paróban.",
+                  "text": "Erődítmény-kolostor (dzong) a Paro-völgyben, fehérre meszelt falakkal és hagyományos bhutáni építészettel.",
                   "category": "castle",
                   "coords": [
                         89.428087,
@@ -252,7 +252,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
             },
             {
                   "name": "|White Lotus Art Gallery",
-                  "text": "A White Lotus Művészeti Galéria egy kiállítóhely Paróban.",
+                  "text": "Művészeti galéria Paro-ban, kortárs bhutáni művészettel és hagyományos thangka festményekkel.",
                   "category": "cultural",
                   "coords": [
                         89.415685,
@@ -261,7 +261,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
             },
             {
                   "name": "Jangtsa Dumtseg Lhakhang",
-                  "text": "Jangtsa Dumtseg Lhakhang egy egyedülálló templom Paróban.",
+                  "text": "A Jangtsa Dumtseg Lhakhang egy buddhista templom Paróban, egy sziklás gerincen található.",
                   "category": "religious",
                   "coords": [
                         89.413395,
@@ -281,7 +281,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
             },
             {
                   "name": "Zuri Dzong",
-                  "text": "Zuri Dzong este un castel fortificat din Paro.",
+                  "text": "Mănăstire-fortăreață (dzong) în valea Paro, cu pereți văruiți în alb și arhitectură tradițională bhutaneză.",
                   "category": "castle",
                   "coords": [
                         89.428087,
@@ -290,7 +290,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
             },
             {
                   "name": "|White Lotus Art Gallery",
-                  "text": "Galeria de Artă White Lotus este un spațiu expozițional din Paro.",
+                  "text": "Galerie de artă în Paro, care prezintă artă contemporană bhutaneză și picturi tradiționale thangka.",
                   "category": "cultural",
                   "coords": [
                         89.415685,
@@ -299,7 +299,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
             },
             {
                   "name": "Jangtsa Dumtseg Lhakhang",
-                  "text": "Jangtsa Dumtseg Lhakhang este un templu unic din Paro.",
+                  "text": "Jangtsa Dumtseg Lhakhang este un templu budist în Paro, situat pe o creastă stâncoasă.",
                   "category": "religious",
                   "coords": [
                         89.413395,
@@ -319,7 +319,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
             },
             {
                   "name": "Zuri Dzong",
-                  "text": "Zuri Dzong is a fortified castle in Paro.",
+                  "text": "Fortress-monastery (dzong) in Paro valley, featuring whitewashed walls and traditional Bhutanese architecture.",
                   "category": "castle",
                   "coords": [
                         89.428087,
@@ -328,7 +328,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
             },
             {
                   "name": "|White Lotus Art Gallery",
-                  "text": "The White Lotus Art Gallery is an exhibition space in Paro.",
+                  "text": "Art gallery in Paro showcasing contemporary Bhutanese art and traditional thangka paintings.",
                   "category": "cultural",
                   "coords": [
                         89.415685,
@@ -337,7 +337,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
             },
             {
                   "name": "Jangtsa Dumtseg Lhakhang",
-                  "text": "Jangtsa Dumtseg Lhakhang is a unique temple in Paro.",
+                  "text": "Jangtsa Dumtseg Lhakhang is a Buddhist temple in Paro, perched on a rocky ridge.",
                   "category": "religious",
                   "coords": [
                         89.413395,
@@ -561,7 +561,52 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
   },
   {
-    id: "wangdue-phodrang-cities-v2",
+    id: "wangdue-phodrang-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wangdue Court of justice",
+                  "text": "Dieses Bauwerk in Wangdue Phodrang fungiert neben seiner zivilen Bedeutung auch als lokales Gotteshaus.",
+                  "category": "religious",
+                  "coords": [
+                        89.899052,
+                        27.478686
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wangdue Court of justice",
+                  "text": "A Wangdue Phodrangban található építmény civil jelentősége mellett helyi istentiszteleti helyként is funkcionál.",
+                  "category": "religious",
+                  "coords": [
+                        89.899052,
+                        27.478686
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wangdue Court of justice",
+                  "text": "Situată în Wangdue Phodrang, această structură funcționează ca un lăcaș de cult local alături de importanța sa civilă.",
+                  "category": "religious",
+                  "coords": [
+                        89.899052,
+                        27.478686
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wangdue Court of justice",
+                  "text": "Located in Wangdue Phodrang, this structure functions as a local place of worship alongside its civil significance.",
+                  "category": "religious",
+                  "coords": [
+                        89.899052,
+                        27.478686
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BT-24",
     coords: [89.9000, 27.4833],
@@ -622,7 +667,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Changyul Galem House",
-                  "text": "Changyul Galem House ist ein Denkmal in Punakha.",
+                  "text": "Historisches traditionelles Haus in Punakha, einst Wohnsitz eines lokalen Adligen.",
                   "category": "historical",
                   "coords": [
                         89.861161,
@@ -633,7 +678,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Changyul Galem House",
-                  "text": "A Changyul Galem House egy emlékmű Punakha városában.",
+                  "text": "Történelmi hagyományos ház Punakhaban, egykor egy helyi nemes háza.",
                   "category": "historical",
                   "coords": [
                         89.861161,
@@ -644,7 +689,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Changyul Galem House",
-                  "text": "Changyul Galem House este un monument în Punakha.",
+                  "text": "Casă tradițională istorică din Punakha, fostă reședință a unui nobil local.",
                   "category": "historical",
                   "coords": [
                         89.861161,
@@ -655,7 +700,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Changyul Galem House",
-                  "text": "Changyul Galem House is a monument located in Punakha.",
+                  "text": "Historic traditional house in Punakha, once the residence of a local noble.",
                   "category": "historical",
                   "coords": [
                         89.861161,
@@ -720,7 +765,52 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
   },
   {
-    id: "jakar-cities-v2",
+    id: "jakar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lhodrak Kharchu Monastery",
+                  "text": "Dieses große buddhistische Kloster mit Blick auf die Stadt Jakar ist berühmt für seine lebendigen Wandmalereien und seine aktive religiöse Gemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        90.759308,
+                        27.550785
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lhodrak Kharchu Monastery",
+                  "text": "A Jakar városára néző nagy buddhista kolostor élénk falfestményeiről és aktív vallási közösségéről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        90.759308,
+                        27.550785
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lhodrak Kharchu Monastery",
+                  "text": "Cu vedere spre orașul Jakar, această mare mănăstire budistă este renumită pentru picturile sale murale vibrante și comunitatea religioasă activă.",
+                  "category": "landmark",
+                  "coords": [
+                        90.759308,
+                        27.550785
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lhodrak Kharchu Monastery",
+                  "text": "Overlooking the town of Jakar, this large Buddhist monastery is renowned for its vibrant murals and active religious community.",
+                  "category": "landmark",
+                  "coords": [
+                        90.759308,
+                        27.550785
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BT-31",
     coords: [90.7500, 27.5500],
@@ -781,7 +871,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Mongar Chorten",
-                  "text": "Das Mongar Chorten ist ein bedeutendes Denkmal in Mongar.",
+                  "text": "Buddhistischer Stupa (Chorten) in Mongar, eine heilige Stätte für Gebete und Umrundungen.",
                   "category": "historical",
                   "coords": [
                         91.236934,
@@ -792,7 +882,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Mongar Chorten",
-                  "text": "A Mongar Chorten egy jelentős emlékmű Mongarban.",
+                  "text": "Buddhista sztúpa (chorten) Mongarban, szent hely imádságra és körbejárásra.",
                   "category": "historical",
                   "coords": [
                         91.236934,
@@ -803,7 +893,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Mongar Chorten",
-                  "text": "Mongar Chorten este un monument important din Mongar.",
+                  "text": "Stupa budistă (chorten) în Mongar, un loc sacru pentru rugăciune și circumambulație.",
                   "category": "historical",
                   "coords": [
                         91.236934,
@@ -814,7 +904,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Mongar Chorten",
-                  "text": "The Mongar Chorten is a significant monument in Mongar.",
+                  "text": "Buddhist stupa (chorten) in Mongar, a sacred site for prayer and circumambulation.",
                   "category": "historical",
                   "coords": [
                         91.236934,
@@ -883,7 +973,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Trashigang Dzong",
-                  "text": "Trashigang Dzong ist eine Kultstätte in Trashigang.",
+                  "text": "Trashigang Dzong ist ein buddhistisches Kloster in Trashigang, über dem Gamri-Fluss gelegen.",
                   "category": "religious",
                   "coords": [
                         91.551354,
@@ -894,7 +984,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Trashigang Dzong",
-                  "text": "A Trashigang Dzong egy istentiszteleti hely Trashigang városában.",
+                  "text": "A Trashigang Dzong egy buddhista kolostor Trashigangban, a Gamri folyó fölé magasodva.",
                   "category": "religious",
                   "coords": [
                         91.551354,
@@ -905,7 +995,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Trashigang Dzong",
-                  "text": "Trashigang Dzong este un lăcaș de cult în Trashigang.",
+                  "text": "Trashigang Dzong este o mănăstire budistă în Trashigang, cu vedere spre râul Gamri.",
                   "category": "religious",
                   "coords": [
                         91.551354,
@@ -916,7 +1006,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Trashigang Dzong",
-                  "text": "Trashigang Dzong is a place of worship located in Trashigang.",
+                  "text": "Trashigang Dzong is a Buddhist monastery in Trashigang, overlooking the Gamri river.",
                   "category": "religious",
                   "coords": [
                         91.551354,
@@ -985,7 +1075,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Ta-Dzong",
-                  "text": "Ta-Dzong ist ein historischer Wachturm in Trongsa, der in ein Museum umgewandelt wurde.",
+                  "text": "Wachturm, der in ein Museum umgewandelt wurde und Artefakte der bhutanischen Geschichte und Monarchie zeigt.",
                   "category": "museum",
                   "coords": [
                         90.508019,
@@ -994,7 +1084,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
             },
             {
                   "name": "Thrupang Palace",
-                  "text": "Der Thrupang-Palast ist eine traditionelle Schlossanlage in Trongsa.",
+                  "text": "Der 2022 eröffnete Thrupang-Palast in Trongsa ist ein modernes Schloss.",
                   "category": "castle",
                   "coords": [
                         90.508561,
@@ -1003,7 +1093,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
             },
             {
                   "name": "Trongsa Dzong",
-                  "text": "Der Trongsa-Dzong ist ein bedeutender Festungs- und Schlosskomplex in Trongsa.",
+                  "text": "Massives Festungskloster in Trongsa, Stammhaus der bhutanischen Königsfamilie.",
                   "category": "castle",
                   "coords": [
                         90.505088,
@@ -1014,7 +1104,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Ta-Dzong",
-                  "text": "A Ta-Dzong egy történelmi őrtorony, amelyet múzeummá alakítottak át Trongsában.",
+                  "text": "Őrtoronyból átalakított múzeum, amely Bhután történelmének és monarchiájának tárgyait mutatja be.",
                   "category": "museum",
                   "coords": [
                         90.508019,
@@ -1023,7 +1113,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
             },
             {
                   "name": "Thrupang Palace",
-                  "text": "A Thrupang Palota egy hagyományos kastélyépület Trongsában.",
+                  "text": "A 2022-ben megnyílt Thrupang-palota Trongsában egy modern kastély.",
                   "category": "castle",
                   "coords": [
                         90.508561,
@@ -1032,7 +1122,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
             },
             {
                   "name": "Trongsa Dzong",
-                  "text": "A Trongsa Dzong egy jelentős erődítmény és kastélykomplexum Trongsában.",
+                  "text": "Hatalmas erődítmény-kolostor Trongsában, a bhutáni királyi család ősi otthona.",
                   "category": "castle",
                   "coords": [
                         90.505088,
@@ -1043,7 +1133,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Ta-Dzong",
-                  "text": "Ta-Dzong este un turn de veghe istoric transformat într-un muzeu în Trongsa.",
+                  "text": "Turn de pază transformat în muzeu, care găzduiește artefacte din istoria Bhutaneză și a monarhiei.",
                   "category": "museum",
                   "coords": [
                         90.508019,
@@ -1052,7 +1142,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
             },
             {
                   "name": "Thrupang Palace",
-                  "text": "Palatul Thrupang este o structură de castel tradițională situată în Trongsa.",
+                  "text": "Palatul Thrupang, deschis în 2022, este un castel modern din Trongsa.",
                   "category": "castle",
                   "coords": [
                         90.508561,
@@ -1061,7 +1151,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
             },
             {
                   "name": "Trongsa Dzong",
-                  "text": "Trongsa Dzong este o cetate majoră și un complex de castele situat în Trongsa.",
+                  "text": "Mănăstire-fortăreață masivă în Trongsa, casa ancestrală a familiei regale bhutaneze.",
                   "category": "castle",
                   "coords": [
                         90.505088,
@@ -1072,7 +1162,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Ta-Dzong",
-                  "text": "Ta-Dzong is a historical watchtower converted into a museum in Trongsa.",
+                  "text": "Watchtower turned museum in Trongsa, housing artifacts of Bhutanese history and the monarchy.",
                   "category": "museum",
                   "coords": [
                         90.508019,
@@ -1081,7 +1171,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
             },
             {
                   "name": "Thrupang Palace",
-                  "text": "Thrupang Palace is a traditional castle structure located in Trongsa.",
+                  "text": "Thrupang Palace is a modern castle opened in 2022 in Trongsa.",
                   "category": "castle",
                   "coords": [
                         90.508561,
@@ -1090,7 +1180,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
             },
             {
                   "name": "Trongsa Dzong",
-                  "text": "Trongsa Dzong is a major fortress and castle complex situated in Trongsa.",
+                  "text": "Massive fortress-monastery in Trongsa, the ancestral home of the Bhutanese royal family.",
                   "category": "castle",
                   "coords": [
                         90.505088,
@@ -1212,7 +1302,124 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
   },
   {
-    id: "damphu-cities-v2",
+    id: "damphu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tsirang Dzongkhag",
+                  "text": "Diese traditionelle bhutanische Festung dient als administrativer und religiöser Hauptsitz für den Distrikt Tsirang.",
+                  "category": "castle",
+                  "coords": [
+                        90.122797,
+                        27.00147
+                  ]
+            },
+            {
+                  "name": "Tsirang Dratshang",
+                  "text": "Als zentrale Klosterschule beherbergt diese buddhistische Einrichtung in Damphu ansässige Mönche, die sich dem täglichen Singen und Studieren widmen.",
+                  "category": "landmark",
+                  "coords": [
+                        90.131684,
+                        26.996316
+                  ]
+            },
+            {
+                  "name": "Vegetable Market",
+                  "text": "Dieser belebte Marktplatz in Damphu bietet eine bunte Auswahl an frischen, lokal angebauten landwirtschaftlichen Produkten und regionalen Gewürzen aus dem Himalaya.",
+                  "category": "cultural",
+                  "coords": [
+                        90.123215,
+                        27.007988
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tsirang Dzongkhag",
+                  "text": "Ez a hagyományos bhutáni erődítmény a Tsirang körzet közigazgatási és vallási központjaként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        90.122797,
+                        27.00147
+                  ]
+            },
+            {
+                  "name": "Tsirang Dratshang",
+                  "text": "Központi kolostori iskolaként működve ez a damphui buddhista intézmény a napi kántálással és tanulással foglalkozó szerzetesek otthona.",
+                  "category": "landmark",
+                  "coords": [
+                        90.131684,
+                        26.996316
+                  ]
+            },
+            {
+                  "name": "Vegetable Market",
+                  "text": "Ez a nyüzsgő damphui piac a friss, helyben termesztett himalájai termékek és regionális fűszerek élénk választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        90.123215,
+                        27.007988
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tsirang Dzongkhag",
+                  "text": "Această fortăreață tradițională bhutaneză servește drept sediu administrativ și religios pentru districtul Tsirang.",
+                  "category": "castle",
+                  "coords": [
+                        90.122797,
+                        27.00147
+                  ]
+            },
+            {
+                  "name": "Tsirang Dratshang",
+                  "text": "Funcționând ca o școală monahală centrală, această instituție budistă din Damphu găzduiește călugări rezidenți angajați în cântări și studii zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        90.131684,
+                        26.996316
+                  ]
+            },
+            {
+                  "name": "Vegetable Market",
+                  "text": "Această piață plină de viață din Damphu oferă o gamă vibrantă de produse proaspete, cultivate local în Himalaya și condimente regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        90.123215,
+                        27.007988
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tsirang Dzongkhag",
+                  "text": "This traditional Bhutanese fortress serves as the administrative and religious headquarters for the Tsirang district.",
+                  "category": "castle",
+                  "coords": [
+                        90.122797,
+                        27.00147
+                  ]
+            },
+            {
+                  "name": "Tsirang Dratshang",
+                  "text": "Functioning as a central monastic school, this Buddhist institution in Damphu is home to resident monks engaged in daily chanting and study.",
+                  "category": "landmark",
+                  "coords": [
+                        90.131684,
+                        26.996316
+                  ]
+            },
+            {
+                  "name": "Vegetable Market",
+                  "text": "This bustling marketplace in Damphu offers a vibrant array of fresh, locally grown Himalayan produce and regional spices.",
+                  "category": "cultural",
+                  "coords": [
+                        90.123215,
+                        27.007988
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BT-21",
     coords: [90.1167, 27.0167],
@@ -1273,7 +1480,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Haa Wangchuk LoDzong",
-                  "text": "Der Haa Wangchuk LoDzong ist ein markantes Schloss und Verwaltungszentrum in Haa.",
+                  "text": "Festungskloster im Haa-Tal, ursprünglich zur Abwehr tibetischer Invasionen erbaut.",
                   "category": "castle",
                   "coords": [
                         89.292538,
@@ -1282,7 +1489,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
             },
             {
                   "name": "Recreational Park",
-                  "text": "Der Recreational Park ist ein Freizeitpark, der Unterhaltungsmöglichkeiten in Haa bietet.",
+                  "text": "Familienpark in Haa mit Spielplätzen, Picknickbereichen und Wanderwegen.",
                   "category": "family",
                   "coords": [
                         89.280932,
@@ -1291,7 +1498,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
             },
             {
                   "name": "Haa valley view",
-                  "text": "Der Haa valley view ist ein malerischer Aussichtspunkt, der weite Panoramen auf Haa bietet.",
+                  "text": "Aussichtspunkt mit Blick auf das malerische Haa-Tal, bekannt für Reisterrassen und traditionelle Dörfer.",
                   "category": "natural",
                   "coords": [
                         89.289298,
@@ -1300,7 +1507,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
             },
             {
                   "name": "Yak Monument",
-                  "text": "Das Yak-Denkmal ist eine lokale Statue und ein Monument in Haa.",
+                  "text": "Denkmal in Haa, das dem Yak gewidmet ist, einem unverzichtbaren Tier des bhutanischen Hochlandlebens.",
                   "category": "historical",
                   "coords": [
                         89.278992,
@@ -1320,7 +1527,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Haa Wangchuk LoDzong",
-                  "text": "A Haa Wangchuk LoDzong egy figyelemre méltó kastély és adminisztratív központ Haa városában.",
+                  "text": "Erődítmény-kolostor a Haa-völgyben, eredetileg tibeti betörések elleni védelemre épült.",
                   "category": "castle",
                   "coords": [
                         89.292538,
@@ -1329,7 +1536,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
             },
             {
                   "name": "Recreational Park",
-                  "text": "A Szabadidőpark egy tematikus park, amely szabadidős tevékenységeket kínál Haa-ban.",
+                  "text": "Családi park Haaban, játszóterekkel, piknikezőhelyekkel és sétányokkal.",
                   "category": "family",
                   "coords": [
                         89.280932,
@@ -1338,7 +1545,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
             },
             {
                   "name": "Haa valley view",
-                  "text": "A Haa völgyi kilátó egy festői pont, amely széles panorámát nyújt Haa-ra.",
+                  "text": "Kilátó a festői Haa-völgyre, rizsteraszairól és hagyományos falvairól ismert.",
                   "category": "natural",
                   "coords": [
                         89.289298,
@@ -1347,7 +1554,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
             },
             {
                   "name": "Yak Monument",
-                  "text": "A Jak Emlékmű egy helyi szobor és emlékmű Haa-ban.",
+                  "text": "Jakszobor Haaban, a bhutáni felvidéki élet nélkülözhetetlen állatának emlékére.",
                   "category": "historical",
                   "coords": [
                         89.278992,
@@ -1367,7 +1574,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Haa Wangchuk LoDzong",
-                  "text": "Haa Wangchuk LoDzong este un castel notabil și centru administrativ în Haa.",
+                  "text": "Mănăstire-fortăreață în valea Haa, construită inițial pentru a apăra împotriva invaziilor tibetane.",
                   "category": "castle",
                   "coords": [
                         89.292538,
@@ -1376,7 +1583,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
             },
             {
                   "name": "Recreational Park",
-                  "text": "Parcul Recreativ este un parc tematic care oferă activități de agrement în Haa.",
+                  "text": "Parc de agrement pentru familii în Haa, cu locuri de joacă, zone de picnic și trasee de mers.",
                   "category": "family",
                   "coords": [
                         89.280932,
@@ -1385,7 +1592,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
             },
             {
                   "name": "Haa valley view",
-                  "text": "Priveliștea văii Haa este un punct de observare pitoresc care oferă panorame largi asupra orașului Haa.",
+                  "text": "Punct de belvedere care oferă vedere spre valea pitorească Haa, cunoscută pentru terasele de orez și satele tradiționale.",
                   "category": "natural",
                   "coords": [
                         89.289298,
@@ -1394,7 +1601,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
             },
             {
                   "name": "Yak Monument",
-                  "text": "Monumentul Iacului este o statuie și un monument local situat în Haa.",
+                  "text": "Monument în Haa dedicat iacului, animal esențial pentru viața din zonele înalte ale Bhutanului.",
                   "category": "historical",
                   "coords": [
                         89.278992,
@@ -1414,7 +1621,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Haa Wangchuk LoDzong",
-                  "text": "Haa Wangchuk LoDzong is a notable castle and administrative center in Haa.",
+                  "text": "Fortress-monastery in Haa valley, originally built to defend against Tibetan invasions.",
                   "category": "castle",
                   "coords": [
                         89.292538,
@@ -1423,7 +1630,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
             },
             {
                   "name": "Recreational Park",
-                  "text": "The Recreational Park is a theme park providing leisure activities in Haa.",
+                  "text": "Family recreational park in Haa with playgrounds, picnic areas, and walking trails.",
                   "category": "family",
                   "coords": [
                         89.280932,
@@ -1432,7 +1639,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
             },
             {
                   "name": "Haa valley view",
-                  "text": "The Haa valley view is a scenic viewpoint offering sweeping panoramas of Haa.",
+                  "text": "Scenic viewpoint overlooking the picturesque Haa valley, known for its rice terraces and traditional villages.",
                   "category": "natural",
                   "coords": [
                         89.289298,
@@ -1441,7 +1648,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
             },
             {
                   "name": "Yak Monument",
-                  "text": "The Yak Monument is a local statue and monument located in Haa.",
+                  "text": "Monument in Haa dedicated to the yak, an essential animal for Bhutanese highland life.",
                   "category": "historical",
                   "coords": [
                         89.278992,
@@ -1519,7 +1726,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Lhuentse Dzong",
-                  "text": "Lhuentse Dzong ist eine historische Burg in Lhuntse.",
+                  "text": "Lhuentse Dzong ist eine Festung und ein Kloster in Lhuntse, auf einem Felsvorsprung über dem Fluss gelegen.",
                   "category": "castle",
                   "coords": [
                         91.186624,
@@ -1530,7 +1737,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Lhuentse Dzong",
-                  "text": "Lhuentse Dzong egy történelmi kastély Lhuncében.",
+                  "text": "A Lhuentse Dzong egy erődítmény és kolostor Lhuntsében, egy folyó feletti sziklanyúlványon található.",
                   "category": "castle",
                   "coords": [
                         91.186624,
@@ -1541,7 +1748,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Lhuentse Dzong",
-                  "text": "Lhuentse Dzong este un castel istoric din Lhuntse.",
+                  "text": "Lhuentse Dzong este o fortăreață-mănăstire în Lhuntse, situată pe o culme deasupra râului.",
                   "category": "castle",
                   "coords": [
                         91.186624,
@@ -1552,7 +1759,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Lhuentse Dzong",
-                  "text": "Lhuentse Dzong is a historic castle in Lhuntse.",
+                  "text": "Lhuentse Dzong is a fortress-monastery in Lhuntse, situated on a spur above the river.",
                   "category": "castle",
                   "coords": [
                         91.186624,
@@ -1617,7 +1824,376 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
   },
   {
-    id: "pemagatshel-cities-v2",
+    id: "pemagatshel-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zobel Community Lhakhang",
+                  "text": "Ein Gemeindetempel in Pemagatshel, der von den Bewohnern von Zobel für tägliche buddhistische Rituale genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        91.456735,
+                        27.047526
+                  ]
+            },
+            {
+                  "name": "Pemagatshel dzong",
+                  "text": "Eine bauliche Stützmauer in Pemagatshel, die in das Ensemble eines lokalen Kultplatzes integriert ist.",
+                  "category": "religious",
+                  "coords": [
+                        91.426353,
+                        27.031938
+                  ]
+            },
+            {
+                  "name": "Mani Dungkhor",
+                  "text": "Eine große handbetriebene Gebetsmühle in Pemagatshel, die Segenssprüche in die Umgebung aussenden soll.",
+                  "category": "landmark",
+                  "coords": [
+                        91.426272,
+                        27.035009
+                  ]
+            },
+            {
+                  "name": "Murshinggoenpa",
+                  "text": "Ein friedvolles buddhistisches Kloster, das auf den bewaldeten Hängen der Pemagatshel-Region liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        91.41932,
+                        27.021211
+                  ]
+            },
+            {
+                  "name": "Shomarthung Lhakhang",
+                  "text": "Dieser Tempel in Shomarthung zeugt von der tief verwurzelten buddhistischen Architekturtradition in Pemagatshel.",
+                  "category": "landmark",
+                  "coords": [
+                        91.436369,
+                        27.049351
+                  ]
+            },
+            {
+                  "name": "Jashar Gonpa",
+                  "text": "Ein buddhistisches Kloster in Pemagatshel, das den Gläubigen der Region spirituelle Orientierung und Gemeinschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        91.457836,
+                        27.026407
+                  ]
+            },
+            {
+                  "name": "Hermitage",
+                  "text": "Eine einsame Klause in den Hügeln von Pemagatshel, die buddhistischen Asketen für längere Meditationsretreats dient.",
+                  "category": "landmark",
+                  "coords": [
+                        91.459233,
+                        27.025665
+                  ]
+            },
+            {
+                  "name": "Pangthangdaza Community Lhakhang",
+                  "text": "Ein Gemeindetempel im Gebiet Pangthangdaza in Pemagatshel, der als zentraler Treffpunkt für dörfliche Zeremonien fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        91.439377,
+                        27.028489
+                  ]
+            },
+            {
+                  "name": "Choeten",
+                  "text": "Dieser buddhistische Stupa liegt in der Gegend von Pemagatshel und dient der lokalen Bevölkerung als spiritueller Ort.",
+                  "category": "landmark",
+                  "coords": [
+                        91.419225,
+                        27.044992
+                  ]
+            },
+            {
+                  "name": "Wogmin Khachoet Choelinng Lhakhang",
+                  "text": "Der buddhistische Tempel Wogmin Khachoet Choelinng Lhakhang befindet sich im Bezirk Pemagatshel und ist ein traditioneller Ort der Meditation.",
+                  "category": "landmark",
+                  "coords": [
+                        91.403828,
+                        27.037646
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zobel Community Lhakhang",
+                  "text": "Egy közösségi templom Pemagatshelben, amelyet a zobeli lakosok napi buddhista rituálékhoz használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        91.456735,
+                        27.047526
+                  ]
+            },
+            {
+                  "name": "Pemagatshel dzong",
+                  "text": "Egy támfal Pemagatshelben, amely egy helyi istentiszteleti hely együttesébe van beépítve.",
+                  "category": "religious",
+                  "coords": [
+                        91.426353,
+                        27.031938
+                  ]
+            },
+            {
+                  "name": "Mani Dungkhor",
+                  "text": "Egy nagy, kézzel hajtott imakerék Pemagatshelben, amelynek célja, hogy áldásokat küldjön a környezetbe.",
+                  "category": "landmark",
+                  "coords": [
+                        91.426272,
+                        27.035009
+                  ]
+            },
+            {
+                  "name": "Murshinggoenpa",
+                  "text": "Egy békés buddhista kolostor, amely a Pemagatshel régió erdős lejtőin fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        91.41932,
+                        27.021211
+                  ]
+            },
+            {
+                  "name": "Shomarthung Lhakhang",
+                  "text": "Ez a shomarthungi templom a mélyen gyökerező buddhista építészeti hagyományokról tanúskodik Pemagatshelben.",
+                  "category": "landmark",
+                  "coords": [
+                        91.436369,
+                        27.049351
+                  ]
+            },
+            {
+                  "name": "Jashar Gonpa",
+                  "text": "Egy buddhista kolostor Pemagatshelben, amely spirituális iránymutatást és közösséget kínál a régió hívőinek.",
+                  "category": "landmark",
+                  "coords": [
+                        91.457836,
+                        27.026407
+                  ]
+            },
+            {
+                  "name": "Hermitage",
+                  "text": "Egy magányos remetelak a pemagatsheli dombokon, amely hosszabb meditációs elvonulásokra szolgál a buddhista aszkéták számára.",
+                  "category": "landmark",
+                  "coords": [
+                        91.459233,
+                        27.025665
+                  ]
+            },
+            {
+                  "name": "Pangthangdaza Community Lhakhang",
+                  "text": "Egy közösségi templom a pemagatsheli Pangthangdaza területen, amely a falusi szertartások központi találkozóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        91.439377,
+                        27.028489
+                  ]
+            },
+            {
+                  "name": "Choeten",
+                  "text": "Ez a buddhista sztúpa Pemagatshel környékén található, és a helyi lakosság számára nyújt spirituális központot.",
+                  "category": "landmark",
+                  "coords": [
+                        91.419225,
+                        27.044992
+                  ]
+            },
+            {
+                  "name": "Wogmin Khachoet Choelinng Lhakhang",
+                  "text": "A Wogmin Khachoet Choelinng Lhakhang buddhista templom Pemagatshel régiójában áll, és a meditáció hagyományos helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        91.403828,
+                        27.037646
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zobel Community Lhakhang",
+                  "text": "Un templu comunitar în Pemagatshel, folosit de locuitorii din Zobel pentru ritualuri budiste zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        91.456735,
+                        27.047526
+                  ]
+            },
+            {
+                  "name": "Pemagatshel dzong",
+                  "text": "Un zid de sprijin structural în Pemagatshel, integrat în ansamblul unui lăcaș de cult local.",
+                  "category": "religious",
+                  "coords": [
+                        91.426353,
+                        27.031938
+                  ]
+            },
+            {
+                  "name": "Mani Dungkhor",
+                  "text": "O mare roată de rugăciune acționată manual în Pemagatshel, menită să trimită binecuvântări în împrejurimi.",
+                  "category": "landmark",
+                  "coords": [
+                        91.426272,
+                        27.035009
+                  ]
+            },
+            {
+                  "name": "Murshinggoenpa",
+                  "text": "O mănăstire budistă pașnică, situată pe pantele împădurite ale regiunii Pemagatshel.",
+                  "category": "landmark",
+                  "coords": [
+                        91.41932,
+                        27.021211
+                  ]
+            },
+            {
+                  "name": "Shomarthung Lhakhang",
+                  "text": "Acest templu din Shomarthung stă mărturie pentru tradiția arhitecturală budistă adânc înrădăcinată din Pemagatshel.",
+                  "category": "landmark",
+                  "coords": [
+                        91.436369,
+                        27.049351
+                  ]
+            },
+            {
+                  "name": "Jashar Gonpa",
+                  "text": "O mănăstire budistă din Pemagatshel care oferă îndrumare spirituală și comunitate credincioșilor din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        91.457836,
+                        27.026407
+                  ]
+            },
+            {
+                  "name": "Hermitage",
+                  "text": "Un schit singuratic pe dealurile din Pemagatshel, servind ascetilor budiști pentru retrageri de meditație mai lungi.",
+                  "category": "landmark",
+                  "coords": [
+                        91.459233,
+                        27.025665
+                  ]
+            },
+            {
+                  "name": "Pangthangdaza Community Lhakhang",
+                  "text": "Un templu comunitar în zona Pangthangdaza din Pemagatshel, care funcționează ca punct central de întâlnire pentru ceremoniile satului.",
+                  "category": "landmark",
+                  "coords": [
+                        91.439377,
+                        27.028489
+                  ]
+            },
+            {
+                  "name": "Choeten",
+                  "text": "Această stupa budistă se află în zona Pemagatshel, reprezentând un centru spiritual pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        91.419225,
+                        27.044992
+                  ]
+            },
+            {
+                  "name": "Wogmin Khachoet Choelinng Lhakhang",
+                  "text": "Templul budist Wogmin Khachoet Choelinng Lhakhang este situat în regiunea Pemagatshel, fiind un loc tradițional de meditație.",
+                  "category": "landmark",
+                  "coords": [
+                        91.403828,
+                        27.037646
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zobel Community Lhakhang",
+                  "text": "A community temple in Pemagatshel, used by the residents of Zobel for daily Buddhist rituals.",
+                  "category": "landmark",
+                  "coords": [
+                        91.456735,
+                        27.047526
+                  ]
+            },
+            {
+                  "name": "Retaining wall",
+                  "text": "A structural retaining wall in Pemagatshel integrated into the ensemble of a local place of worship.",
+                  "category": "religious",
+                  "coords": [
+                        91.426353,
+                        27.031938
+                  ]
+            },
+            {
+                  "name": "Mani Dungkhor",
+                  "text": "A large hand-operated prayer wheel in Pemagatshel, designed to send blessings into the surroundings.",
+                  "category": "landmark",
+                  "coords": [
+                        91.426272,
+                        27.035009
+                  ]
+            },
+            {
+                  "name": "Murshinggoenpa",
+                  "text": "A peaceful Buddhist monastery nestled on the forested slopes of the Pemagatshel region.",
+                  "category": "landmark",
+                  "coords": [
+                        91.41932,
+                        27.021211
+                  ]
+            },
+            {
+                  "name": "Shomarthung Lhakhang",
+                  "text": "This temple in Shomarthung bears witness to the deeply rooted Buddhist architectural tradition in Pemagatshel.",
+                  "category": "landmark",
+                  "coords": [
+                        91.436369,
+                        27.049351
+                  ]
+            },
+            {
+                  "name": "Jashar Gonpa",
+                  "text": "A Buddhist monastery in Pemagatshel offering spiritual guidance and community to worshippers in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        91.457836,
+                        27.026407
+                  ]
+            },
+            {
+                  "name": "Hermitage",
+                  "text": "A solitary hermitage in the hills of Pemagatshel, serving Buddhist ascetics for extended meditation retreats.",
+                  "category": "landmark",
+                  "coords": [
+                        91.459233,
+                        27.025665
+                  ]
+            },
+            {
+                  "name": "Pangthangdaza Community Lhakhang",
+                  "text": "A community temple in the Pangthangdaza area of Pemagatshel, functioning as a central meeting point for village ceremonies.",
+                  "category": "landmark",
+                  "coords": [
+                        91.439377,
+                        27.028489
+                  ]
+            },
+            {
+                  "name": "Choeten",
+                  "text": "This Buddhist stupa is located in the Pemagatshel area, serving as a spiritual site for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        91.419225,
+                        27.044992
+                  ]
+            },
+            {
+                  "name": "Wogmin Khachoet Choelinng Lhakhang",
+                  "text": "The Wogmin Khachoet Choelinng Lhakhang Buddhist temple is situated in the Pemagatshel region, offering a traditional space for meditation.",
+                  "category": "landmark",
+                  "coords": [
+                        91.403828,
+                        27.037646
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BT-43",
     coords: [91.4333, 27.0333],
@@ -1776,7 +2352,52 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
   },
   {
-    id: "gasa-cities-v2",
+    id: "gasa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jigme-Dorji-Nationalpark",
+                  "text": "Dieses renommierte Naturschutzgebiet ist Bhutans zweitgrößter Nationalpark, der sich durch sehr vielfältige alpine Ökosysteme und wichtige Lebensräume für Schneeleoparden auszeichnet.",
+                  "category": "natural",
+                  "coords": [
+                        89.706827,
+                        27.888894
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "རྒྱལ་ཡོངས་སེམས་ཅན། ༼འབྲོང་གྱིམ་ཙི༽",
+                  "text": "Ez a híres természetvédelmi terület Bhután második legnagyobb nemzeti parkja, amely rendkívül változatos alpesi ökoszisztémákkal és a hópárducok kritikus élőhelyeivel büszkélkedhet.",
+                  "category": "natural",
+                  "coords": [
+                        89.706827,
+                        27.888894
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "རྒྱལ་ཡོངས་སེམས་ཅན། ༼འབྲོང་གྱིམ་ཙི༽",
+                  "text": "Această renumită rezervație naturală este al doilea parc național ca mărime din Bhutan, caracterizându-se prin ecosisteme alpine extrem de diverse și habitate critice pentru leoparzii zăpezilor.",
+                  "category": "natural",
+                  "coords": [
+                        89.706827,
+                        27.888894
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jigme Dorji National Park",
+                  "text": "This renowned nature reserve is Bhutan's second largest national park, featuring highly diverse alpine ecosystems and critical snow leopard habitats.",
+                  "category": "natural",
+                  "coords": [
+                        89.706827,
+                        27.888894
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BT-33",
     coords: [89.7167, 27.9000],
@@ -1837,7 +2458,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       "de": [
             {
                   "name": "MSTF",
-                  "text": "MSTF ist ein Aussichtspunkt in Daga.",
+                  "text": "Naturgebiet in Daga, geprägt von dichten Wäldern und Bächen.",
                   "category": "natural",
                   "coords": [
                         89.8806,
@@ -1848,7 +2469,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "MSTF",
-                  "text": "A MSTF egy kilátó Daga városában.",
+                  "text": "Természetes terület Daga településen, sűrű erdőkkel és patakokkal.",
                   "category": "natural",
                   "coords": [
                         89.8806,
@@ -1859,7 +2480,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "MSTF",
-                  "text": "MSTF este un punct de belvedere în Daga.",
+                  "text": "Zonă naturală în Daga, caracterizată de păduri dese și pâraie.",
                   "category": "natural",
                   "coords": [
                         89.8806,
@@ -1870,7 +2491,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       "en": [
             {
                   "name": "MSTF",
-                  "text": "MSTF is a viewpoint located in Daga.",
+                  "text": "Natural area in Daga, characterized by dense forests and streams.",
                   "category": "natural",
                   "coords": [
                         89.8806,
@@ -1935,7 +2556,88 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
   },
   {
-    id: "nganglam-cities-v2",
+    id: "nganglam-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nganglam Pekarchoeling Dratshang",
+                  "text": "Ein großes buddhistisches Kloster in Nganglam, das als Hauptausbildungsstätte für junge Mönche der Region dient.",
+                  "category": "landmark",
+                  "coords": [
+                        91.248108,
+                        26.835356
+                  ]
+            },
+            {
+                  "name": "Menchu Lhakhang",
+                  "text": "Ein lokaler Tempel in Nganglam, der für seine traditionellen Wandmalereien und zeremoniellen Feste bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        91.254576,
+                        26.857392
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nganglam Pekarchoeling Dratshang",
+                  "text": "Egy nagy buddhista kolostor Nganglamban, amely a régió fiatal szerzeteseinek fő képzési központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        91.248108,
+                        26.835356
+                  ]
+            },
+            {
+                  "name": "Menchu Lhakhang",
+                  "text": "Egy helyi templom Nganglamban, amely hagyományos falfestményeiről és ünnepi szertartásairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        91.254576,
+                        26.857392
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nganglam Pekarchoeling Dratshang",
+                  "text": "O mare mănăstire budistă din Nganglam, care servește drept principal centru de pregătire pentru tinerii călugări din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        91.248108,
+                        26.835356
+                  ]
+            },
+            {
+                  "name": "Menchu Lhakhang",
+                  "text": "Un templu local din Nganglam, cunoscut pentru picturile sale murale tradiționale și festivalurile ceremoniale.",
+                  "category": "landmark",
+                  "coords": [
+                        91.254576,
+                        26.857392
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nganglam Pekarchoeling Dratshang",
+                  "text": "A large Buddhist monastery in Nganglam, serving as the main training center for young monks in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        91.248108,
+                        26.835356
+                  ]
+            },
+            {
+                  "name": "Menchu Lhakhang",
+                  "text": "A local temple in Nganglam known for its traditional murals and ceremonial festivals.",
+                  "category": "landmark",
+                  "coords": [
+                        91.254576,
+                        26.857392
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BT-43",
     coords: [91.2500, 26.8333],
@@ -1996,7 +2698,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Raimona National Park",
-                  "text": "Der Raimona-Nationalpark in Sarpang ist ein wichtiges Naturschutzgebiet.",
+                  "text": "Nationalpark in Sarpang, der bedrohte Arten wie den Königstiger und den Asiatischen Elefanten schützt.",
                   "category": "natural",
                   "coords": [
                         90.057718,
@@ -2007,7 +2709,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Raimona National Park",
-                  "text": "A Sarpangban található Raimona Nemzeti Park egy fontos természetvédelmi terület.",
+                  "text": "Nemzeti park Sarpangban, amely veszélyeztetett fajokat, mint a bengáli tigris és az ázsiai elefánt véd.",
                   "category": "natural",
                   "coords": [
                         90.057718,
@@ -2018,7 +2720,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Raimona National Park",
-                  "text": "Parcul Național Raimona din Sarpang este o importantă rezervație naturală.",
+                  "text": "Parcul național din Sarpang, care protejează specii pe cale de dispariție, precum tigrul Bengal și elefantul asiatic.",
                   "category": "natural",
                   "coords": [
                         90.057718,
@@ -2029,7 +2731,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Raimona National Park",
-                  "text": "The Raimona National Park in Sarpang is an important nature reserve.",
+                  "text": "National park in Sarpang protecting endangered species like the Bengal tiger and Asian elephant.",
                   "category": "natural",
                   "coords": [
                         90.057718,
@@ -2253,7 +2955,124 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
   },
   {
-    id: "kanglung-cities-v2",
+    id: "kanglung-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Andum Chorten",
+                  "text": "Der Andum-Chörten in Kanglung ist ein typischer bhutanischer Stupa-Bau, der die örtliche buddhistische Gemeinde prägt.",
+                  "category": "landmark",
+                  "coords": [
+                        91.522875,
+                        27.286065
+                  ]
+            },
+            {
+                  "name": "Public Zangdopelri",
+                  "text": "Das Public Zangdopelri ist ein zentraler buddhistischer Tempel in Kanglung, der Padmasambhavas himmlischen Palast darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        91.526053,
+                        27.287934
+                  ]
+            },
+            {
+                  "name": "College Zangdogpelri",
+                  "text": "Auf dem Campusgelände befindet sich das College Zangdogpelri, ein buddhistischer Tempel, der Studenten in Kanglung spirituellen Raum bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        91.52146,
+                        27.283709
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Andum Chorten",
+                  "text": "A kanglungi Andum Chorten egy jellegzetes bhutáni sztúpaépítmény, amely a helyi buddhista közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        91.522875,
+                        27.286065
+                  ]
+            },
+            {
+                  "name": "Public Zangdopelri",
+                  "text": "A Public Zangdopelri egy központi buddhista templom Kanglungban, amely Padmaszambhava mennyei palotáját ábrázolja.",
+                  "category": "landmark",
+                  "coords": [
+                        91.526053,
+                        27.287934
+                  ]
+            },
+            {
+                  "name": "College Zangdogpelri",
+                  "text": "A kampusz területén található a College Zangdogpelri, egy buddhista templom, amely spirituális teret kínál a kanglungi diákoknak.",
+                  "category": "landmark",
+                  "coords": [
+                        91.52146,
+                        27.283709
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Andum Chorten",
+                  "text": "Andum Chorten din Kanglung este o construcție tipică de stupă bhutaneză, ce deservește comunitatea budistă locală.",
+                  "category": "landmark",
+                  "coords": [
+                        91.522875,
+                        27.286065
+                  ]
+            },
+            {
+                  "name": "Public Zangdopelri",
+                  "text": "Public Zangdopelri este un templu budist central din Kanglung, care reprezintă palatul celest al lui Padmasambhava.",
+                  "category": "landmark",
+                  "coords": [
+                        91.526053,
+                        27.287934
+                  ]
+            },
+            {
+                  "name": "College Zangdogpelri",
+                  "text": "Pe teritoriul campusului se află College Zangdogpelri, un templu budist care oferă un spațiu spiritual studenților din Kanglung.",
+                  "category": "landmark",
+                  "coords": [
+                        91.52146,
+                        27.283709
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Andum Chorten",
+                  "text": "The Andum Chorten in Kanglung is a typical Bhutanese stupa structure that serves the local Buddhist community.",
+                  "category": "landmark",
+                  "coords": [
+                        91.522875,
+                        27.286065
+                  ]
+            },
+            {
+                  "name": "Public Zangdopelri",
+                  "text": "The Public Zangdopelri is a central Buddhist temple in Kanglung, depicting Padmasambhava's heavenly palace.",
+                  "category": "landmark",
+                  "coords": [
+                        91.526053,
+                        27.287934
+                  ]
+            },
+            {
+                  "name": "College Zangdogpelri",
+                  "text": "Located on the campus grounds, the College Zangdogpelri is a Buddhist temple providing a spiritual space for students in Kanglung.",
+                  "category": "landmark",
+                  "coords": [
+                        91.52146,
+                        27.283709
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BT-41",
     coords: [91.5167, 27.2667],
@@ -2310,7 +3129,52 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
   },
   {
-    id: "gyalpozhing-cities-v2",
+    id: "gyalpozhing-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chorten",
+                  "text": "Dieser markante Chörten in der Gegend von Gyalpozhing markiert eine spirituelle Wegkreuzung in Ostbhutan.",
+                  "category": "landmark",
+                  "coords": [
+                        91.170674,
+                        27.261195
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chorten",
+                  "text": "Ez a feltűnő csörten a Gyalpozhing térségében egy spirituális útkereszteződést jelöl Kelet-Bhutánban.",
+                  "category": "landmark",
+                  "coords": [
+                        91.170674,
+                        27.261195
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chorten",
+                  "text": "Acest chorten marcant din zona Gyalpozhing marchează o intersecție spirituală în estul Bhutanului.",
+                  "category": "landmark",
+                  "coords": [
+                        91.170674,
+                        27.261195
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chorten",
+                  "text": "This striking chorten in the Gyalpozhing area marks a spiritual crossroad in eastern Bhutan.",
+                  "category": "landmark",
+                  "coords": [
+                        91.170674,
+                        27.261195
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BT-42",
     coords: [91.1833, 27.2667],
@@ -2485,7 +3349,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Chimi Lhakhang",
-                  "text": "Chimi Lhakhang ist eine Kultstätte in Khuruthang.",
+                  "text": "Chimi Lhakhang ist ein buddhistischer Tempel in Khuruthang, dem göttlichen Verrückten gewidmet.",
                   "category": "religious",
                   "coords": [
                         89.878193,
@@ -2496,7 +3360,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Chimi Lhakhang",
-                  "text": "A Chimi Lhakhang egy istentiszteleti hely Khuruthang városában.",
+                  "text": "A Chimi Lhakhang egy buddhista templom Khuruthangban, az Isteni Bolondnak szentelve.",
                   "category": "religious",
                   "coords": [
                         89.878193,
@@ -2507,7 +3371,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Chimi Lhakhang",
-                  "text": "Chimi Lhakhang este un lăcaș de cult în Khuruthang.",
+                  "text": "Chimi Lhakhang este un templu budist în Khuruthang, dedicat Nebunului Divin.",
                   "category": "religious",
                   "coords": [
                         89.878193,
@@ -2518,7 +3382,7 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Chimi Lhakhang",
-                  "text": "Chimi Lhakhang is a place of worship located in Khuruthang.",
+                  "text": "Chimi Lhakhang is a Buddhist temple in Khuruthang, dedicated to the Divine Madman.",
                   "category": "religious",
                   "coords": [
                         89.878193,
@@ -2583,7 +3447,52 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
   },
   {
-    id: "trashi-yangtse-cities-v2",
+    id: "trashi-yangtse-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Old Trashiyangtse Dzong",
+                  "text": "Der alte Trashiyangtse-Dzong ist eine historische Festung und ein Kloster, das über dem Flusstal thront und eine reiche buddhistische Geschichte aufweist.",
+                  "category": "landmark",
+                  "coords": [
+                        91.493504,
+                        27.584818
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Old Trashiyangtse Dzong",
+                  "text": "A régi Trashiyangtse dzong egy történelmi erőd és kolostor, amely a folyóvölgy fölé magasodik, és gazdag buddhista történelemmel rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        91.493504,
+                        27.584818
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Old Trashiyangtse Dzong",
+                  "text": "Vechiul Dzong Trashiyangtse este o fortăreață și o mănăstire istorică care domină valea râului, având o bogată istorie budistă.",
+                  "category": "landmark",
+                  "coords": [
+                        91.493504,
+                        27.584818
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Trashiyangtse Dzong",
+                  "text": "The Old Trashiyangtse Dzong is a historic fortress and monastery overlooking the river valley with a rich Buddhist history.",
+                  "category": "landmark",
+                  "coords": [
+                        91.493504,
+                        27.584818
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BT-46",
     coords: [91.5000, 27.6000],

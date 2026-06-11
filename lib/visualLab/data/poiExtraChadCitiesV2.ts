@@ -92,7 +92,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Sarh Regional Museum",
-                  "text": "متحف ساره الإقليمي ist ein Museum in der Stadt Sarh.",
+                  "text": "Regionalmuseum von Sarh, untergebracht in einem ehemaligen Kolonialgebäude, zeigt die Kultur der Sara.",
                   "category": "museum",
                   "coords": [
                         18.388815,
@@ -101,7 +101,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             },
             {
                   "name": "Ruin of the Hotel de Chasse",
-                  "text": "Ruin of the Hotel de Chasse ist eine Touristenattraktion in der Stadt Sarh.",
+                  "text": "Ruine des ehemaligen Jagdhotels Hotel de Chasse in Sarh.",
                   "category": "landmark",
                   "coords": [
                         18.391382,
@@ -110,7 +110,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             },
             {
                   "name": "Crafts Center",
-                  "text": "مركز الحرفيين ist eine Touristenattraktion in der Stadt Sarh.",
+                  "text": "Handwerkszentrum mit Werkstätten lokaler Kunsthandwerker im Zentrum von Sarh.",
                   "category": "landmark",
                   "coords": [
                         18.384889,
@@ -119,7 +119,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             },
             {
                   "name": "Ruine of the house of François Tombalbaye",
-                  "text": "Ruine of the house of François Tombalbaye ist eine Touristenattraktion in der Stadt Sarh.",
+                  "text": "Ruine des Wohnhauses von François Tombalbaye, dem ersten Präsidenten des Tschad.",
                   "category": "landmark",
                   "coords": [
                         18.387879,
@@ -128,7 +128,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             },
             {
                   "name": "Cadre d’Action Humaniste pour les Personnes Handicapées CAHPH",
-                  "text": "Cadre d’Action Humaniste pour les Personnes Handicapées CAHPH ist eine Touristenattraktion in der Stadt Sarh.",
+                  "text": "Hauptsitz der Hilfsorganisation CAHPH für Menschen mit Behinderungen in Sarh.",
                   "category": "landmark",
                   "coords": [
                         18.381469,
@@ -137,7 +137,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             },
             {
                   "name": "Sarh Cultural Center",
-                  "text": "مركز ثقافي ساره ist ein Kunstzentrum in der Stadt Sarh.",
+                  "text": "Kulturzentrum mit Galerie und Konzertsaal mitten in Sarh.",
                   "category": "cultural",
                   "coords": [
                         18.384115,
@@ -157,7 +157,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Sarh Regional Museum",
-                  "text": "A متحف ساره الإقليمي egy múzeum Sarh városában.",
+                  "text": "A szarhi regionális múzeum egy egykori gyarmati épületben, a sara kultúrát mutatja be.",
                   "category": "museum",
                   "coords": [
                         18.388815,
@@ -166,7 +166,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             },
             {
                   "name": "Ruin of the Hotel de Chasse",
-                  "text": "A Ruin of the Hotel de Chasse egy turisztikai látványosság Sarh városában.",
+                  "text": "A Hotel de Chasse egykori vadászhotel romjai Sarhban.",
                   "category": "landmark",
                   "coords": [
                         18.391382,
@@ -175,7 +175,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             },
             {
                   "name": "Crafts Center",
-                  "text": "A مركز الحرفيين egy turisztikai látványosság Sarh városában.",
+                  "text": "Kézműves központ, helyi mesterek műhelyeivel Sarh központjában.",
                   "category": "landmark",
                   "coords": [
                         18.384889,
@@ -184,7 +184,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             },
             {
                   "name": "Ruine of the house of François Tombalbaye",
-                  "text": "A Ruine of the house of François Tombalbaye egy turisztikai látványosság Sarh városában.",
+                  "text": "François Tombalbaye, Csád első elnökének egykori házának romjai.",
                   "category": "landmark",
                   "coords": [
                         18.387879,
@@ -193,7 +193,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             },
             {
                   "name": "Cadre d’Action Humaniste pour les Personnes Handicapées CAHPH",
-                  "text": "A Cadre d’Action Humaniste pour les Personnes Handicapées CAHPH egy turisztikai látványosság Sarh városában.",
+                  "text": "A CAHPH fogyatékkal élőket segítő szervezet sarhi központja.",
                   "category": "landmark",
                   "coords": [
                         18.381469,
@@ -202,7 +202,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             },
             {
                   "name": "Sarh Cultural Center",
-                  "text": "A مركز ثقافي ساره egy művészeti központ Sarh városában.",
+                  "text": "Központi fekvésű kulturális központ kiállítóteremmel és hangversenyteremmel Sarh-ban.",
                   "category": "cultural",
                   "coords": [
                         18.384115,
@@ -222,7 +222,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Sarh Regional Museum",
-                  "text": "متحف ساره الإقليمي este un muzeu situat în orașul Sarh.",
+                  "text": "Muzeul Regional Sarh, găzduit într-o fostă clădire colonială, expune cultura Sara.",
                   "category": "museum",
                   "coords": [
                         18.388815,
@@ -231,7 +231,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             },
             {
                   "name": "Ruin of the Hotel de Chasse",
-                  "text": "Ruin of the Hotel de Chasse este o atracție turistică situată în orașul Sarh.",
+                  "text": "Ruinele fostului hotel de vânătoare Hotel de Chasse în Sarh.",
                   "category": "landmark",
                   "coords": [
                         18.391382,
@@ -240,7 +240,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             },
             {
                   "name": "Crafts Center",
-                  "text": "مركز الحرفيين este o atracție turistică situată în orașul Sarh.",
+                  "text": "Centru de meșteșuguri cu ateliere ale artizanilor locali, în centrul orașului Sarh.",
                   "category": "landmark",
                   "coords": [
                         18.384889,
@@ -249,7 +249,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             },
             {
                   "name": "Ruine of the house of François Tombalbaye",
-                  "text": "Ruine of the house of François Tombalbaye este o atracție turistică situată în orașul Sarh.",
+                  "text": "Ruinele casei lui François Tombalbaye, primul președinte al Ciadului.",
                   "category": "landmark",
                   "coords": [
                         18.387879,
@@ -258,7 +258,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             },
             {
                   "name": "Cadre d’Action Humaniste pour les Personnes Handicapées CAHPH",
-                  "text": "Cadre d’Action Humaniste pour les Personnes Handicapées CAHPH este o atracție turistică situată în orașul Sarh.",
+                  "text": "Sediu al organizației umanitare CAHPH pentru persoane cu handicap, în Sarh.",
                   "category": "landmark",
                   "coords": [
                         18.381469,
@@ -267,7 +267,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             },
             {
                   "name": "Sarh Cultural Center",
-                  "text": "مركز ثقافي ساره este un centru de arte situat în orașul Sarh.",
+                  "text": "Centru cultural cu galerie și sală de concert, situat în centrul orașului Sarh.",
                   "category": "cultural",
                   "coords": [
                         18.384115,
@@ -287,7 +287,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Sarh Regional Museum",
-                  "text": "متحف ساره الإقليمي is a museum located in the city of Sarh.",
+                  "text": "Sarh Regional Museum: housed in a former colonial building, dedicated to the culture of the Sara people.",
                   "category": "museum",
                   "coords": [
                         18.388815,
@@ -296,7 +296,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             },
             {
                   "name": "Ruin of the Hotel de Chasse",
-                  "text": "Ruin of the Hotel de Chasse is a tourist attraction located in the city of Sarh.",
+                  "text": "Ruins of the former Hotel de Chasse hunting lodge in Sarh.",
                   "category": "landmark",
                   "coords": [
                         18.391382,
@@ -305,7 +305,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             },
             {
                   "name": "Crafts Center",
-                  "text": "مركز الحرفيين is a tourist attraction located in the city of Sarh.",
+                  "text": "Crafts center with workshops of local artisans in central Sarh.",
                   "category": "landmark",
                   "coords": [
                         18.384889,
@@ -314,7 +314,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             },
             {
                   "name": "Ruine of the house of François Tombalbaye",
-                  "text": "Ruine of the house of François Tombalbaye is a tourist attraction located in the city of Sarh.",
+                  "text": "Ruins of the house of François Tombalbaye, Chad's first president.",
                   "category": "landmark",
                   "coords": [
                         18.387879,
@@ -323,7 +323,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             },
             {
                   "name": "Cadre d’Action Humaniste pour les Personnes Handicapées CAHPH",
-                  "text": "Cadre d’Action Humaniste pour les Personnes Handicapées CAHPH is a tourist attraction located in the city of Sarh.",
+                  "text": "Headquarters of the CAHPH humanitarian organization for disabled persons in Sarh.",
                   "category": "landmark",
                   "coords": [
                         18.381469,
@@ -332,7 +332,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             },
             {
                   "name": "Sarh Cultural Center",
-                  "text": "مركز ثقافي ساره is an arts centre located in the city of Sarh.",
+                  "text": "Cultural center with a gallery and concert hall in central Sarh.",
                   "category": "cultural",
                   "coords": [
                         18.384115,
@@ -398,7 +398,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Rond Point Franco-Arabe",
-                  "text": "Rond Point Franco-Arabe ist ein bekanntes Denkmal in Abéché.",
+                  "text": "Historischer Kreisverkehr, benannt nach der französisch-arabischen Freundschaft, in Abeche.",
                   "category": "historical",
                   "coords": [
                         20.822685,
@@ -407,7 +407,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             },
             {
                   "name": "Monument de la Libération",
-                  "text": "Das Monument de la Libération ist ein bedeutendes Denkmal in Abéché.",
+                  "text": "Befreiungsdenkmal auf dem Hauptplatz von Abeche.",
                   "category": "historical",
                   "coords": [
                         20.825282,
@@ -418,7 +418,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Rond Point Franco-Arabe",
-                  "text": "A Rond Point Franco-Arabe egy elismert emlékmű Abéché városában.",
+                  "text": "Történelmi körforgalom, amely a francia-arab barátságra utal, Abéchében.",
                   "category": "historical",
                   "coords": [
                         20.822685,
@@ -427,7 +427,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             },
             {
                   "name": "Monument de la Libération",
-                  "text": "A Monument de la Libération egy jelentős emlékmű Abéchéban.",
+                  "text": "Felszabadulási emlékmű Abéche főterén.",
                   "category": "historical",
                   "coords": [
                         20.825282,
@@ -438,7 +438,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Rond Point Franco-Arabe",
-                  "text": "Rond Point Franco-Arabe este un monument recunoscut din Abéché.",
+                  "text": "Sens giratoriu istoric numit după prietenia franco-arabă, în Abeche.",
                   "category": "historical",
                   "coords": [
                         20.822685,
@@ -447,7 +447,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             },
             {
                   "name": "Monument de la Libération",
-                  "text": "Monument de la Libération este un monument semnificativ situat în Abéché.",
+                  "text": "Monument al Eliberării în piața centrală din Abeche.",
                   "category": "historical",
                   "coords": [
                         20.825282,
@@ -458,7 +458,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Rond Point Franco-Arabe",
-                  "text": "Rond Point Franco-Arabe is a recognized monument located in Abéché.",
+                  "text": "Historical roundabout named after Franco-Arab friendship in Abeche.",
                   "category": "historical",
                   "coords": [
                         20.822685,
@@ -467,7 +467,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             },
             {
                   "name": "Monument de la Libération",
-                  "text": "Monument de la Libération is a significant monument situated in Abéché.",
+                  "text": "Liberation monument on the main square of Abeche.",
                   "category": "historical",
                   "coords": [
                         20.825282,
@@ -615,7 +615,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "de": [
             {
                   "name": "cathédrale Saint-Pierre-et-Saint-Paul",
-                  "text": "Die Cathédrale Saint-Pierre-et-Saint-Paul ist eine bedeutende Kultstätte in Pala.",
+                  "text": "Die römisch-katholische Kathedrale von Pala im Tschad, Sitz des Bistums Pala.",
                   "category": "religious",
                   "coords": [
                         14.902918,
@@ -626,7 +626,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "cathédrale Saint-Pierre-et-Saint-Paul",
-                  "text": "A Cathédrale Saint-Pierre-et-Saint-Paul egy nevezetes istentiszteleti hely Palában.",
+                  "text": "A palai római katolikus székesegyház Csádban, a Palai Egyházmegye székhelye.",
                   "category": "religious",
                   "coords": [
                         14.902918,
@@ -637,7 +637,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "cathédrale Saint-Pierre-et-Saint-Paul",
-                  "text": "Catedrala Saint-Pierre-et-Saint-Paul este un lăcaș de cult notabil din Pala.",
+                  "text": "Catedrala romano-catolică din Pala, Ciad, sediul Diecezei de Pala.",
                   "category": "religious",
                   "coords": [
                         14.902918,
@@ -648,7 +648,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "en": [
             {
                   "name": "cathédrale Saint-Pierre-et-Saint-Paul",
-                  "text": "The Cathédrale Saint-Pierre-et-Saint-Paul is a notable place of worship located in Pala.",
+                  "text": "The Roman Catholic cathedral of Pala in Chad, seat of the Diocese of Pala.",
                   "category": "religious",
                   "coords": [
                         14.902918,
@@ -795,7 +795,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Réserve de faune d'Abou Telfane",
-                  "text": "Die Réserve de faune d'Abou Telfane ist ein bemerkenswertes Naturschutzgebiet in Mongo.",
+                  "text": "Wildreservat Abou Telfane mit Akazien-Savanne und Vogelreichtum in der Nähe von Mongo.",
                   "category": "natural",
                   "coords": [
                         18.884281,
@@ -804,7 +804,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             },
             {
                   "name": "Hassan Moussa Water Park",
-                  "text": "حسن موسى ist ein lebhafter Wasserpark in Mongo.",
+                  "text": "Wasserpark mit mehreren Becken und Rutschen in Mongo.",
                   "category": "family",
                   "coords": [
                         18.684019,
@@ -815,7 +815,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Réserve de faune d'Abou Telfane",
-                  "text": "A Réserve de faune d'Abou Telfane egy nevezetes természetvédelmi terület Mongóban.",
+                  "text": "Abou Telfane vadvédelmi rezervátum akácia-szavannával és gazdag madárvilággal Mongo közelében.",
                   "category": "natural",
                   "coords": [
                         18.884281,
@@ -824,7 +824,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             },
             {
                   "name": "Hassan Moussa Water Park",
-                  "text": "A حسن موسى egy élénk vízi park Mongóban.",
+                  "text": "Több medencével és csúszdával rendelkező vízipark Mongóban.",
                   "category": "family",
                   "coords": [
                         18.684019,
@@ -835,7 +835,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Réserve de faune d'Abou Telfane",
-                  "text": "Réserve de faune d'Abou Telfane este o rezervație naturală notabilă din Mongo.",
+                  "text": "Rezervația de faună Abou Telfane, cu savană de salcâm și păsări variate, lângă Mongo.",
                   "category": "natural",
                   "coords": [
                         18.884281,
@@ -844,7 +844,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             },
             {
                   "name": "Hassan Moussa Water Park",
-                  "text": "حسن موسى este un parc acvatic plin de viață situat în Mongo.",
+                  "text": "Parc acvatic cu mai multe bazine și tobogane în Mongo.",
                   "category": "family",
                   "coords": [
                         18.684019,
@@ -855,7 +855,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Réserve de faune d'Abou Telfane",
-                  "text": "The Réserve de faune d'Abou Telfane is a notable nature reserve in Mongo.",
+                  "text": "Abou Telfane wildlife reserve with acacia savanna and rich birdlife near Mongo.",
                   "category": "natural",
                   "coords": [
                         18.884281,
@@ -864,7 +864,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             },
             {
                   "name": "Hassan Moussa Water Park",
-                  "text": "حسن موسى is a lively water park located in Mongo.",
+                  "text": "Water park with multiple pools and slides in Mongo.",
                   "category": "family",
                   "coords": [
                         18.684019,
@@ -1011,7 +1011,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Palace of the Sultan of Kanem",
-                  "text": "Der Palais du Sultant du Kanem قصر سلطان كانم ist eine historische Burganlage in Mao.",
+                  "text": "Palast des Sultans von Kanem, traditionelle Lehmziegel-Architektur im Zentrum von Mao.",
                   "category": "castle",
                   "coords": [
                         15.312927,
@@ -1031,7 +1031,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Palace of the Sultan of Kanem",
-                  "text": "A Palais du Sultant du Kanem قصر سلطان كانم egy történelmi kastélyépület Maóban.",
+                  "text": "A Kanem szultánjának palotája, hagyományos vályogépítészet Mao központjában.",
                   "category": "castle",
                   "coords": [
                         15.312927,
@@ -1051,7 +1051,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Palace of the Sultan of Kanem",
-                  "text": "Palais du Sultant du Kanem قصر سلطان كانم este o structură de castel istoric din Mao.",
+                  "text": "Palatul sultanului din Kanem, arhitectură tradițională din cărămidă de lut, în centrul orașului Mao.",
                   "category": "castle",
                   "coords": [
                         15.312927,
@@ -1071,7 +1071,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Palace of the Sultan of Kanem",
-                  "text": "Palais du Sultant du Kanem قصر سلطان كانم is a historical castle structure in Mao.",
+                  "text": "Palace of the Sultan of Kanem, traditional mud-brick architecture in central Mao.",
                   "category": "castle",
                   "coords": [
                         15.312927,
@@ -1138,7 +1138,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Rond point",
-                  "text": "Der Rond point ist ein zentraler Denkmalplatz in Faya-Largeau.",
+                  "text": "Zentraler Kreisverkehr in Largeau, Verkehrsknotenpunkt der Stadt.",
                   "category": "historical",
                   "coords": [
                         19.104372,
@@ -1147,7 +1147,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             },
             {
                   "name": "Stade municipal Hussein Habre",
-                  "text": "Städtisches Stadion in Faya-Largeau.",
+                  "text": "Stadion, benannt nach dem ehemaligen Präsidenten Hussein Habré, in Largeau.",
                   "category": "landmark",
                   "coords": [
                         19.095935,
@@ -1156,7 +1156,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             },
             {
                   "name": "Rond point Chifini",
-                  "text": "Denkmal am Rond point Chifini in Faya-Largeau.",
+                  "text": "Rond-point Chifini, ein Kreisverkehr an einer wichtigen Kreuzung in Largeau.",
                   "category": "historical",
                   "coords": [
                         19.107216,
@@ -1167,7 +1167,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Rond point",
-                  "text": "A Rond point egy központi emlékmű Faya-Largeau városában.",
+                  "text": "Központi körforgalom Largeau-ban, a város forgalmi csomópontja.",
                   "category": "historical",
                   "coords": [
                         19.104372,
@@ -1176,7 +1176,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             },
             {
                   "name": "Stade municipal Hussein Habre",
-                  "text": "Városi stadion Faya-Largeau-ban.",
+                  "text": "Stadion Largeau-ban, mely Hussein Habré volt elnök nevét viseli.",
                   "category": "landmark",
                   "coords": [
                         19.095935,
@@ -1185,7 +1185,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             },
             {
                   "name": "Rond point Chifini",
-                  "text": "Emlékmű a Faya-Largeau-i Rond point Chifini-nél.",
+                  "text": "A Chifini körforgalom, egy fontos kereszteződés Largeau-ban.",
                   "category": "historical",
                   "coords": [
                         19.107216,
@@ -1196,7 +1196,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Rond point",
-                  "text": "Rond point este o piață centrală cu monumente în Faya-Largeau.",
+                  "text": "Sens giratoriu central în Largeau, nod rutier al orașului.",
                   "category": "historical",
                   "coords": [
                         19.104372,
@@ -1205,7 +1205,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             },
             {
                   "name": "Stade municipal Hussein Habre",
-                  "text": "Stadion municipal în Faya-Largeau.",
+                  "text": "Stadion numit după fostul președinte Hussein Habré, în Largeau.",
                   "category": "landmark",
                   "coords": [
                         19.095935,
@@ -1214,7 +1214,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             },
             {
                   "name": "Rond point Chifini",
-                  "text": "Monument la Rond point Chifini în Faya-Largeau.",
+                  "text": "Rond-point Chifini, un sens giratoriu la o intersectie importantă din Largeau.",
                   "category": "historical",
                   "coords": [
                         19.107216,
@@ -1225,7 +1225,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Rond point",
-                  "text": "The Rond point is a central monument site in Faya-Largeau.",
+                  "text": "Central roundabout in Largeau, the city's traffic hub.",
                   "category": "historical",
                   "coords": [
                         19.104372,
@@ -1234,7 +1234,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             },
             {
                   "name": "Stade municipal Hussein Habre",
-                  "text": "Municipal stadium in Faya-Largeau.",
+                  "text": "Stadium named after former president Hussein Habré in Largeau.",
                   "category": "landmark",
                   "coords": [
                         19.095935,
@@ -1243,7 +1243,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             },
             {
                   "name": "Rond point Chifini",
-                  "text": "Monument at Rond point Chifini in Faya-Largeau.",
+                  "text": "Chifini roundabout at a major intersection in Largeau.",
                   "category": "historical",
                   "coords": [
                         19.107216,
@@ -1390,7 +1390,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Chez MCD",
-                  "text": "Chez MCD ist eine lokale Attraktion in Moussoro.",
+                  "text": "Chez MCD, ein beliebtes Restaurant mit lokaler tschadischer Küche in Moussoro.",
                   "category": "landmark",
                   "coords": [
                         16.467924,
@@ -1399,7 +1399,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             },
             {
                   "name": "Centre de Lecture et d'animation culturelle",
-                  "text": "Das Centre de Lecture et d'animation culturelle ist ein Kunstzentrum in Moussoro.",
+                  "text": "Bibliothek und Kulturzentrum mit Lesesälen und Veranstaltungsräumen in Moussoro.",
                   "category": "cultural",
                   "coords": [
                         16.485834,
@@ -1410,7 +1410,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Chez MCD",
-                  "text": "A Chez MCD egy helyi látványosság Moussoróban.",
+                  "text": "Chez MCD, népszerű étterem helyi csádi ételekkel Moussoróban.",
                   "category": "landmark",
                   "coords": [
                         16.467924,
@@ -1419,7 +1419,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             },
             {
                   "name": "Centre de Lecture et d'animation culturelle",
-                  "text": "A Centre de Lecture et d'animation culturelle egy művészeti központ Moussoróban.",
+                  "text": "Könyvtár és kulturális központ olvasótermekkel és rendezvényhelyiségekkel Moussoróban.",
                   "category": "cultural",
                   "coords": [
                         16.485834,
@@ -1430,7 +1430,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Chez MCD",
-                  "text": "Chez MCD este o atracție locală din Moussoro.",
+                  "text": "Chez MCD, un restaurant popular cu preparate locale din Ciad în Moussoro.",
                   "category": "landmark",
                   "coords": [
                         16.467924,
@@ -1439,7 +1439,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             },
             {
                   "name": "Centre de Lecture et d'animation culturelle",
-                  "text": "Centre de Lecture et d'animation culturelle este un centru de arte situat în Moussoro.",
+                  "text": "Centru de lectură și animație culturală cu săli de lectură și evenimente în Moussoro.",
                   "category": "cultural",
                   "coords": [
                         16.485834,
@@ -1450,7 +1450,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Chez MCD",
-                  "text": "Chez MCD is a local attraction located in Moussoro.",
+                  "text": "Chez MCD, a popular restaurant serving local Chadian cuisine in Moussoro.",
                   "category": "landmark",
                   "coords": [
                         16.467924,
@@ -1459,7 +1459,7 @@ export const poiExtraChadCitiesV2: POI[] = [
             },
             {
                   "name": "Centre de Lecture et d'animation culturelle",
-                  "text": "Centre de Lecture et d'animation culturelle is an arts centre situated in Moussoro.",
+                  "text": "Reading and cultural center with reading rooms and event spaces in Moussoro.",
                   "category": "cultural",
                   "coords": [
                         16.485834,
@@ -1697,7 +1697,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "de": [
             {
                   "name": "House of Bashir Yusuf",
-                  "text": "Ruinen des Hauses von Bashir Yusuf in Oum Hadjer.",
+                  "text": "Historisches Wohnhaus von Bashir Yusuf, einem bekannten lokalen Führer, in Hadjer.",
                   "category": "historical",
                   "coords": [
                         19.689049,
@@ -1708,7 +1708,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "House of Bashir Yusuf",
-                  "text": "Bashir Yusuf házának romjai Oum Hadjerben.",
+                  "text": "Bashir Yusuf, ismert helyi vezető történelmi lakóháza Hadjer-ben.",
                   "category": "historical",
                   "coords": [
                         19.689049,
@@ -1719,7 +1719,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "House of Bashir Yusuf",
-                  "text": "Ruinele casei lui Bashir Yusuf în Oum Hadjer.",
+                  "text": "Casă istorică a lui Bashir Yusuf, un lider local cunoscut, în Hadjer.",
                   "category": "historical",
                   "coords": [
                         19.689049,
@@ -1730,7 +1730,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "en": [
             {
                   "name": "House of Bashir Yusuf",
-                  "text": "Ruins of Bashir Yusuf's house in Oum Hadjer.",
+                  "text": "Historical house of Bashir Yusuf, a notable local leader, in Hadjer.",
                   "category": "historical",
                   "coords": [
                         19.689049,
@@ -1908,7 +1908,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Réserve de Faune de Binder-Léré",
-                  "text": "Réserve de Faune de Binder-Léré ist ein Naturschutzgebiet in der Stadt Léré.",
+                  "text": "Wildreservat Binder-Léré entlang des Logone-Flusses mit Wasservögeln und Flusspferden.",
                   "category": "natural",
                   "coords": [
                         14.372381,
@@ -1919,7 +1919,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Réserve de Faune de Binder-Léré",
-                  "text": "A Réserve de Faune de Binder-Léré egy természetvédelmi terület Léré városában.",
+                  "text": "Binder-Léré vadvédelmi rezervátum a Logone folyó mentén vízimadarakkal és vízilovakkal.",
                   "category": "natural",
                   "coords": [
                         14.372381,
@@ -1930,7 +1930,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Réserve de Faune de Binder-Léré",
-                  "text": "Réserve de Faune de Binder-Léré este o rezervație naturală situată în orașul Léré.",
+                  "text": "Rezervația de faună Binder-Léré de-a lungul râului Logone, cu păsări acvatice și hipopotami.",
                   "category": "natural",
                   "coords": [
                         14.372381,
@@ -1941,7 +1941,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Réserve de Faune de Binder-Léré",
-                  "text": "Réserve de Faune de Binder-Léré is a nature reserve located in the city of Léré.",
+                  "text": "Binder-Léré wildlife reserve along the Logone River, home to waterbirds and hippos.",
                   "category": "natural",
                   "coords": [
                         14.372381,
@@ -2436,7 +2436,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Rond-point",
-                  "text": "Rond-point ist ein Denkmal in der Stadt Bardaï.",
+                  "text": "Kreisverkehr im Zentrum von Bardai, Treffpunkt der Einheimischen.",
                   "category": "historical",
                   "coords": [
                         16.999042,
@@ -2447,7 +2447,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Rond-point",
-                  "text": "A Rond-point egy emlékmű Bardaï városában.",
+                  "text": "Körforgalom Bardai központjában, a helyiek találkozóhelye.",
                   "category": "historical",
                   "coords": [
                         16.999042,
@@ -2458,7 +2458,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Rond-point",
-                  "text": "Rond-point este un monument situat în orașul Bardaï.",
+                  "text": "Sens giratoriu în centrul orașului Bardai, punct de întâlnire al localnicilor.",
                   "category": "historical",
                   "coords": [
                         16.999042,
@@ -2469,7 +2469,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Rond-point",
-                  "text": "Rond-point is a monument located in the city of Bardaï.",
+                  "text": "Roundabout in central Bardai, a local meeting point.",
                   "category": "historical",
                   "coords": [
                         16.999042,
@@ -2721,7 +2721,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Pont",
-                  "text": "Bridge ist eine Touristenattraktion in der Stadt Fianga.",
+                  "text": "Brücke über den Fluss in Fianga, die die beiden Stadtteile verbindet.",
                   "category": "landmark",
                   "coords": [
                         15.160162,
@@ -2732,7 +2732,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Pont",
-                  "text": "A Bridge egy turisztikai látványosság Fianga városában.",
+                  "text": "Híd a folyó felett Fiangában, összekötve a város két részét.",
                   "category": "landmark",
                   "coords": [
                         15.160162,
@@ -2743,7 +2743,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Pont",
-                  "text": "Bridge este o atracție turistică situată în orașul Fianga.",
+                  "text": "Pod peste râu în Fianga, care leagă cele două cartiere ale orașului.",
                   "category": "landmark",
                   "coords": [
                         15.160162,
@@ -2754,7 +2754,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Bridge",
-                  "text": "Bridge is a tourist attraction located in the city of Fianga.",
+                  "text": "Bridge over the river in Fianga, connecting the two parts of town.",
                   "category": "landmark",
                   "coords": [
                         15.160162,

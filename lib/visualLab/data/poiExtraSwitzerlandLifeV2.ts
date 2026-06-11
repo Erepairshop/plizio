@@ -52,7 +52,7 @@ export const switzerlandLifeV2: POI[] = [
             },
             {
                   "name": "Muottas Champsech",
-                  "text": "Ein Berggipfel im Kanton Graubünden.",
+                  "text": "Muottas Champsech ist ein Berggipfel im Schweizer Nationalpark.",
                   "category": "landmark",
                   "coords": [
                         10.155842,
@@ -126,7 +126,7 @@ export const switzerlandLifeV2: POI[] = [
             },
             {
                   "name": "Muottas Champsech",
-                  "text": "Hegycsúcs Graubünden kantonban.",
+                  "text": "A Muottas Champsech egy hegycsúcs a Svájci Nemzeti Parkban.",
                   "category": "landmark",
                   "coords": [
                         10.155842,
@@ -200,7 +200,7 @@ export const switzerlandLifeV2: POI[] = [
             },
             {
                   "name": "Muottas Champsech",
-                  "text": "Un vârf montan în cantonul Grisons.",
+                  "text": "Muottas Champsech este un vârf montan în Parcul Național Elvețian.",
                   "category": "landmark",
                   "coords": [
                         10.155842,
@@ -274,7 +274,7 @@ export const switzerlandLifeV2: POI[] = [
             },
             {
                   "name": "Muottas Champsech",
-                  "text": "A mountain peak located in the canton of Grisons.",
+                  "text": "Muottas Champsech is a mountain summit in the Swiss National Park.",
                   "category": "landmark",
                   "coords": [
                         10.155842,
@@ -583,7 +583,7 @@ export const switzerlandLifeV2: POI[] = [
             },
             {
                   "name": "Papiliorama",
-                  "text": "Ein Schmetterlingshaus und Tropengarten in Kerzers.",
+                  "text": "Das Papiliorama zeigt in einer tropischen Kuppel frei fliegende Schmetterlinge und exotische Pflanzen.",
                   "category": "recreational",
                   "coords": [
                         7.200384,
@@ -592,7 +592,7 @@ export const switzerlandLifeV2: POI[] = [
             },
             {
                   "name": "Faverried",
-                  "text": "Ein geschütztes Naturgebiet in der Region Niederried.",
+                  "text": "Natürliches Feuchtgebiet im Niederried-Moor.",
                   "category": "natural",
                   "coords": [
                         7.229239,
@@ -630,7 +630,7 @@ export const switzerlandLifeV2: POI[] = [
             },
             {
                   "name": "Papiliorama",
-                  "text": "Pillangóház és trópusi kert Kerzers közelében.",
+                  "text": "A Papiliorama egy trópusi kupolában szabadon repülő pillangókat és egzotikus növényeket mutat be.",
                   "category": "recreational",
                   "coords": [
                         7.200384,
@@ -639,7 +639,7 @@ export const switzerlandLifeV2: POI[] = [
             },
             {
                   "name": "Faverried",
-                  "text": "Védett természeti terület a Niederried régióban.",
+                  "text": "Természetes vizes élőhely a Niederried-mocsárban.",
                   "category": "natural",
                   "coords": [
                         7.229239,
@@ -677,7 +677,7 @@ export const switzerlandLifeV2: POI[] = [
             },
             {
                   "name": "Papiliorama",
-                  "text": "O grădină de fluturi și grădină tropicală în Kerzers.",
+                  "text": "Papiliorama prezintă fluturi zburând liber și plante exotice într-o cupolă tropicală.",
                   "category": "recreational",
                   "coords": [
                         7.200384,
@@ -686,7 +686,7 @@ export const switzerlandLifeV2: POI[] = [
             },
             {
                   "name": "Faverried",
-                  "text": "O zonă naturală protejată în regiunea Niederried.",
+                  "text": "Zonă umedă naturală în Mlaștina Niederried.",
                   "category": "natural",
                   "coords": [
                         7.229239,
@@ -724,7 +724,7 @@ export const switzerlandLifeV2: POI[] = [
             },
             {
                   "name": "Papiliorama",
-                  "text": "A butterfly house and tropical garden in Kerzers.",
+                  "text": "Papiliorama features free-flying butterflies and exotic plants inside a tropical dome.",
                   "category": "recreational",
                   "coords": [
                         7.200384,
@@ -733,7 +733,7 @@ export const switzerlandLifeV2: POI[] = [
             },
             {
                   "name": "Faverried",
-                  "text": "A protected natural area in the Niederried region.",
+                  "text": "Natural wetland area in the Niederried Wetland.",
                   "category": "natural",
                   "coords": [
                         7.229239,
@@ -1357,7 +1357,7 @@ export const switzerlandLifeV2: POI[] = [
             },
             {
                   "name": "Pra de Cray",
-                  "text": "Ein markanter Alpengipfel in der Region Gruyère.",
+                  "text": "Pra de Cray ist eine Wiese in der Region Gruyère Pays d'Enhaut.",
                   "category": "landmark",
                   "coords": [
                         7.114497,
@@ -1375,7 +1375,7 @@ export const switzerlandLifeV2: POI[] = [
             },
             {
                   "name": "Gros Perré",
-                  "text": "Ein Berg im Herzen des regionalen Naturparks.",
+                  "text": "Gros Perré ist ein großer Felsblock im Gebiet Gruyère Pays d'Enhaut.",
                   "category": "landmark",
                   "coords": [
                         7.126337,
@@ -1384,7 +1384,7 @@ export const switzerlandLifeV2: POI[] = [
             },
             {
                   "name": "Le Curtillet",
-                  "text": "Ein Berggipfel, der Teil der Freiburger Voralpen ist.",
+                  "text": "Le Curtillet ist ein markanter Hügel in der Gruyère Pays d'Enhaut.",
                   "category": "landmark",
                   "coords": [
                         7.132879,
@@ -1431,7 +1431,7 @@ export const switzerlandLifeV2: POI[] = [
             },
             {
                   "name": "Pra de Cray",
-                  "text": "Jellegzetes alpesi csúcs a Gruyère régióban.",
+                  "text": "A Pra de Cray egy rét a Gruyere Pays d'Enhaut régióban.",
                   "category": "landmark",
                   "coords": [
                         7.114497,
@@ -1449,7 +1449,7 @@ export const switzerlandLifeV2: POI[] = [
             },
             {
                   "name": "Gros Perré",
-                  "text": "Hegy a regionális natúrpark szívében.",
+                  "text": "A Gros Perré egy nagy sziklatömb a Gruyere Pays d'Enhaut területén.",
                   "category": "landmark",
                   "coords": [
                         7.126337,
@@ -1458,7 +1458,7 @@ export const switzerlandLifeV2: POI[] = [
             },
             {
                   "name": "Le Curtillet",
-                  "text": "A fribourgi Elő-Alpokhoz tartozó hegycsúcs.",
+                  "text": "A Le Curtillet egy jellegzetes domb a Gruyere Pays d'Enhaut-ban.",
                   "category": "landmark",
                   "coords": [
                         7.132879,
@@ -1505,7 +1505,7 @@ export const switzerlandLifeV2: POI[] = [
             },
             {
                   "name": "Pra de Cray",
-                  "text": "Un vârf alpin proeminent în regiunea Gruyère.",
+                  "text": "Pra de Cray este o pajiște în regiunea Gruyere Pays d'Enhaut.",
                   "category": "landmark",
                   "coords": [
                         7.114497,
@@ -1523,7 +1523,7 @@ export const switzerlandLifeV2: POI[] = [
             },
             {
                   "name": "Gros Perré",
-                  "text": "Un munte în inima parcului natural regional.",
+                  "text": "Gros Perré este un bolovan mare în zona Gruyere Pays d'Enhaut.",
                   "category": "landmark",
                   "coords": [
                         7.126337,
@@ -1532,7 +1532,7 @@ export const switzerlandLifeV2: POI[] = [
             },
             {
                   "name": "Le Curtillet",
-                  "text": "Un vârf montan care face parte din Prealpii friburghezi.",
+                  "text": "Le Curtillet este un deal emblematic în Gruyere Pays d'Enhaut.",
                   "category": "landmark",
                   "coords": [
                         7.132879,
@@ -1579,7 +1579,7 @@ export const switzerlandLifeV2: POI[] = [
             },
             {
                   "name": "Pra de Cray",
-                  "text": "A prominent alpine peak in the Gruyère region.",
+                  "text": "Pra de Cray is a meadow in the Gruyere Pays d'Enhaut region.",
                   "category": "landmark",
                   "coords": [
                         7.114497,
@@ -1597,7 +1597,7 @@ export const switzerlandLifeV2: POI[] = [
             },
             {
                   "name": "Gros Perré",
-                  "text": "A mountain in the heart of the regional nature park.",
+                  "text": "Gros Perré is a large boulder in the Gruyere Pays d'Enhaut area.",
                   "category": "landmark",
                   "coords": [
                         7.126337,
@@ -1606,7 +1606,7 @@ export const switzerlandLifeV2: POI[] = [
             },
             {
                   "name": "Le Curtillet",
-                  "text": "A mountain peak that is part of the Fribourg Prealps.",
+                  "text": "Le Curtillet is a landmark hill in the Gruyere Pays d'Enhaut.",
                   "category": "landmark",
                   "coords": [
                         7.132879,

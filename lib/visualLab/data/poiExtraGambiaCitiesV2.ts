@@ -46,7 +46,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Ebun Jan Theatre",
-                  "text": "Das Ebun Jan Theatre ist ein Veranstaltungsort für darstellende Künste in Serekunda.",
+                  "text": "Ebun Jan Theatre, ein Kulturort in Serekunda mit Theaterstücken und Veranstaltungen.",
                   "category": "cultural",
                   "coords": [
                         -16.674481,
@@ -55,7 +55,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tanbi Wetland National Park",
-                  "text": "Der Tanbi Wetland National Park ist ein Naturschutzgebiet in der Nähe von Serekunda.",
+                  "text": "Mangroven-Feuchtgebiet-Nationalpark nahe Serekunda.",
                   "category": "natural",
                   "coords": [
                         -16.622231,
@@ -64,7 +64,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tallinding Sitokoto",
-                  "text": "Tallinding Sitokoto ist ein lokales Denkmal in Serekunda.",
+                  "text": "Historische Stätte Tallinding Sitokoto mit dem berühmten Affenbrotbaum in Serekunda.",
                   "category": "historical",
                   "coords": [
                         -16.658461,
@@ -73,7 +73,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Westfield Youth Monument",
-                  "text": "Das Westfield Youth Monument ist ein bemerkenswertes lokales Wahrzeichen in Serekunda.",
+                  "text": "Jugenddenkmal in Westfield, Serekunda.",
                   "category": "historical",
                   "coords": [
                         -16.67507,
@@ -82,7 +82,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Alliance Française de Banjul",
-                  "text": "Die Alliance Française de Banjul ist ein Kultur- und Kunstzentrum in Serekunda.",
+                  "text": "Alliance Française-Zweigstelle in Serekunda mit Französischkursen und Kulturveranstaltungen.",
                   "category": "cultural",
                   "coords": [
                         -16.678321,
@@ -91,7 +91,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pipeline Mosque",
-                  "text": "Die Pipeline Mosque ist eine bedeutende Kultstätte in Serekunda.",
+                  "text": "Moschee mit blau-weißem Minarett in Serekunda.",
                   "category": "religious",
                   "coords": [
                         -16.685138,
@@ -102,7 +102,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Ebun Jan Theatre",
-                  "text": "Az Ebun Jan Theatre egy előadóművészeti helyszín Serekunda városában.",
+                  "text": "Ebun Jan Theatre, kulturális helyszín Serekunda-ban, színdarabokkal és eseményekkel.",
                   "category": "cultural",
                   "coords": [
                         -16.674481,
@@ -111,7 +111,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tanbi Wetland National Park",
-                  "text": "A Tanbi Wetland National Park egy természetvédelmi terület Serekunda közelében.",
+                  "text": "Mangrove mocsaras nemzeti park Serekunda közelében.",
                   "category": "natural",
                   "coords": [
                         -16.622231,
@@ -120,7 +120,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tallinding Sitokoto",
-                  "text": "A Tallinding Sitokoto egy helyi emlékmű Serekunda városában.",
+                  "text": "Tallinding Sitokoto történelmi helyszíne a híres baobabfával Serekunda-ban.",
                   "category": "historical",
                   "coords": [
                         -16.658461,
@@ -129,7 +129,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Westfield Youth Monument",
-                  "text": "A Westfield Youth Monument egy figyelemre méltó helyi nevezetesség Serekunda városában.",
+                  "text": "Ifjúsági emlékmű Westfield-ben, Serekunda-ban.",
                   "category": "historical",
                   "coords": [
                         -16.67507,
@@ -138,7 +138,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Alliance Française de Banjul",
-                  "text": "Az Alliance Française de Banjul egy kulturális és művészeti központ Serekunda városában.",
+                  "text": "Alliance Française fiók Serekunda-ban, francia nyelvtanfolyamokkal és kulturális eseményekkel.",
                   "category": "cultural",
                   "coords": [
                         -16.678321,
@@ -147,7 +147,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pipeline Mosque",
-                  "text": "A Pipeline Mosque egy fontos istentiszteleti hely Serekunda városában.",
+                  "text": "Kék-fehér minarettel rendelkező mecset Serekundában.",
                   "category": "religious",
                   "coords": [
                         -16.685138,
@@ -158,7 +158,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Ebun Jan Theatre",
-                  "text": "Ebun Jan Theatre este un loc pentru artele spectacolului situat în Serekunda.",
+                  "text": "Teatrul Ebun Jan, un spațiu cultural în Serekunda care găzduiește piese de teatru și evenimente.",
                   "category": "cultural",
                   "coords": [
                         -16.674481,
@@ -167,7 +167,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tanbi Wetland National Park",
-                  "text": "Tanbi Wetland National Park este o rezervație naturală situată lângă Serekunda.",
+                  "text": "Parcul național de mangrove umede lângă Serekunda.",
                   "category": "natural",
                   "coords": [
                         -16.622231,
@@ -176,7 +176,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tallinding Sitokoto",
-                  "text": "Tallinding Sitokoto este un monument local situat în Serekunda.",
+                  "text": "Situl istoric Tallinding Sitokoto, cu faimosul arbore baobab, în Serekunda.",
                   "category": "historical",
                   "coords": [
                         -16.658461,
@@ -185,7 +185,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Westfield Youth Monument",
-                  "text": "Westfield Youth Monument este un punct de reper local notabil în Serekunda.",
+                  "text": "Monumentul Tineretului în Westfield, Serekunda.",
                   "category": "historical",
                   "coords": [
                         -16.67507,
@@ -194,7 +194,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Alliance Française de Banjul",
-                  "text": "Alliance Française de Banjul este un centru cultural și de arte situat în Serekunda.",
+                  "text": "Filiala Alliance Française în Serekunda, oferind cursuri de limbă franceză și evenimente culturale.",
                   "category": "cultural",
                   "coords": [
                         -16.678321,
@@ -203,7 +203,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pipeline Mosque",
-                  "text": "Pipeline Mosque este un important lăcaș de cult situat în Serekunda.",
+                  "text": "Moschee cu minaret albastru și alb în Serekunda.",
                   "category": "religious",
                   "coords": [
                         -16.685138,
@@ -214,7 +214,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Ebun Jan Theatre",
-                  "text": "Ebun Jan Theatre is a performing arts venue situated in Serekunda.",
+                  "text": "Ebun Jan Theatre, a cultural venue in Serekunda hosting plays and events.",
                   "category": "cultural",
                   "coords": [
                         -16.674481,
@@ -223,7 +223,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tanbi Wetland National Park",
-                  "text": "Tanbi Wetland National Park is a nature reserve located near Serekunda.",
+                  "text": "Mangrove wetland national park near Serekunda.",
                   "category": "natural",
                   "coords": [
                         -16.622231,
@@ -232,7 +232,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tallinding Sitokoto",
-                  "text": "Tallinding Sitokoto is a local monument situated in Serekunda.",
+                  "text": "Historical site of Tallinding Sitokoto, featuring the famous baobab tree, in Serekunda.",
                   "category": "historical",
                   "coords": [
                         -16.658461,
@@ -241,7 +241,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Westfield Youth Monument",
-                  "text": "The Westfield Youth Monument is a notable local landmark in Serekunda.",
+                  "text": "Youth monument in Westfield, Serekunda.",
                   "category": "historical",
                   "coords": [
                         -16.67507,
@@ -250,7 +250,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Alliance Française de Banjul",
-                  "text": "Alliance Française de Banjul is a cultural and arts center located in Serekunda.",
+                  "text": "Alliance Française branch in Serekunda, offering French language and cultural events.",
                   "category": "cultural",
                   "coords": [
                         -16.678321,
@@ -259,7 +259,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pipeline Mosque",
-                  "text": "Pipeline Mosque is a major place of worship situated in Serekunda.",
+                  "text": "Mosque with blue-and-white minaret in Serekunda.",
                   "category": "religious",
                   "coords": [
                         -16.685138,
@@ -316,7 +316,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Furnya Forest Park",
-                  "text": "Furnya Forest Park ist ein Naturschutzgebiet in Brikama.",
+                  "text": "Waldpark in Brikama mit Wanderwegen und Tierwelt.",
                   "category": "natural",
                   "coords": [
                         -16.612374,
@@ -325,7 +325,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Nyambai Forest Park",
-                  "text": "Nyambai Forest Park ist ein Naturschutzgebiet in Brikama.",
+                  "text": "Waldpark in Brikama mit vielfältiger Flora und Fauna.",
                   "category": "natural",
                   "coords": [
                         -16.664002,
@@ -336,7 +336,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Furnya Forest Park",
-                  "text": "A Furnya Forest Park egy természetvédelmi terület Brikama városában.",
+                  "text": "Erdei park Brikama-ban, túraútvonalakkal és vadon élő állatokkal.",
                   "category": "natural",
                   "coords": [
                         -16.612374,
@@ -345,7 +345,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Nyambai Forest Park",
-                  "text": "A Nyambai Forest Park egy természetvédelmi terület Brikama városában.",
+                  "text": "Erdei park Brikama-ban, változatos növény- és állatvilággal.",
                   "category": "natural",
                   "coords": [
                         -16.664002,
@@ -356,7 +356,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Furnya Forest Park",
-                  "text": "Furnya Forest Park este o rezervație naturală situată în Brikama.",
+                  "text": "Parcul forestier din Brikama, cu trasee de drumeție și viață sălbatică.",
                   "category": "natural",
                   "coords": [
                         -16.612374,
@@ -365,7 +365,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Nyambai Forest Park",
-                  "text": "Nyambai Forest Park este o rezervație naturală situată în Brikama.",
+                  "text": "Parcul forestier din Brikama, cu floră și faună diversă.",
                   "category": "natural",
                   "coords": [
                         -16.664002,
@@ -376,7 +376,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Furnya Forest Park",
-                  "text": "Furnya Forest Park is a nature reserve located in Brikama.",
+                  "text": "Forest park in Brikama with walking trails and wildlife.",
                   "category": "natural",
                   "coords": [
                         -16.612374,
@@ -385,7 +385,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Nyambai Forest Park",
-                  "text": "Nyambai Forest Park is a nature reserve located in Brikama.",
+                  "text": "Forest park in Brikama with diverse flora and fauna.",
                   "category": "natural",
                   "coords": [
                         -16.664002,
@@ -438,7 +438,160 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     image: "/poi-images/brikama-cities-v2.webp"
   },
   {
-    id: "bakau-cities-v2", "sights": {"de": [{"name": "Kotu Beach", "text": "In Bakau gelegen, entfaltet sich der Kotu Beach als breiter und einladender westafrikanischer Sandstreifen. Seine lebendige, aber dennoch überschaubare Atmosphäre macht ihn zum erstklassigen Terrain für temperamentvolle Runden im Ozean und stundenlanges Sonnenbaden. Ein Spaziergang entlang der Küste ermöglicht es Ihnen, die sanften lokalen Rhythmen des Ozeans zu beobachten. Großzügiges Auftragen von Sonnencreme wird wärmstens empfohlen, um der starken Mittagshitze zu trotzen.", "category": "recreational", "coords": [-16.704145, 13.465045]}, {"name": "Ebun Jan Theatre", "text": "Ebun Jan Theatre ist ein Theater in Bakau.", "category": "cultural", "coords": [-16.674481, 13.462587]}, {"name": "Kachikally Crocodile Pool", "text": "Kachikally Crocodile Pool ist eine bekannte Attraktion und ein Museum in Bakau.", "category": "landmark", "coords": [-16.672562, 13.476531]}, {"name": "Pipeline Mosque", "text": "Die Pipeline Mosque ist eine Kultstätte in Bakau.", "category": "religious", "coords": [-16.685138, 13.457628]}], "hu": [{"name": "Kotu Beach", "text": "A Bakau városában fekvő Kotu Beach a nyugat-afrikai homok egy széles és hívogató szakaszaként tárul elénk. Élénk, mégis kezelhető atmoszférája elsőrangú területté teszi mind a lendületes óceáni úszáshoz, mind a hosszú órákon át tartó napozáshoz. A partvonal mentén barangolva megfigyelheti az óceán lágy, helyi ritmusát. A bőséges naptej használata erősen ajánlott a masszív déli hőség kivédése érdekében.", "category": "recreational", "coords": [-16.704145, 13.465045]}, {"name": "Ebun Jan Theatre", "text": "Az Ebun Jan Theatre egy színház Bakau városában.", "category": "cultural", "coords": [-16.674481, 13.462587]}, {"name": "Kachikally Crocodile Pool", "text": "A Kachikally Crocodile Pool egy ismert látványosság és múzeum Bakau területén.", "category": "landmark", "coords": [-16.672562, 13.476531]}, {"name": "Pipeline Mosque", "text": "A Pipeline Mosque egy istentiszteleti hely Bakau városában.", "category": "religious", "coords": [-16.685138, 13.457628]}], "ro": [{"name": "Kotu Beach", "text": "Situată în Bakau, Kotu Beach se desfășoară ca o întindere largă și primitoare de nisip vest-african. Atmosfera sa plină de viață, dar ușor de gestionat, o face un teritoriu excelent atât pentru înotul plin de spirit în ocean, cât și pentru ore lungi de plajă. Rătăcirea pe linia coastei vă permite să observați ritmurile locale blânde ale oceanului. Aplicarea unei cantități generoase de cremă de soare este foarte recomandată pentru a alunga căldura robustă a amiezii.", "category": "recreational", "coords": [-16.704145, 13.465045]}, {"name": "Ebun Jan Theatre", "text": "Ebun Jan Theatre este un teatru din Bakau.", "category": "cultural", "coords": [-16.674481, 13.462587]}, {"name": "Kachikally Crocodile Pool", "text": "Kachikally Crocodile Pool este o atracție și un muzeu notabil din Bakau.", "category": "landmark", "coords": [-16.672562, 13.476531]}, {"name": "Pipeline Mosque", "text": "Pipeline Mosque este un lăcaș de cult în Bakau.", "category": "religious", "coords": [-16.685138, 13.457628]}], "en": [{"name": "Kotu Beach", "text": "Situated in Bakau, Kotu Beach unfolds as a broad and welcoming stretch of West African sand. Its lively yet manageable atmosphere makes it prime territory for both spirited ocean swims and long hours of sunbathing. Wandering down the coastline allows you to observe the gentle local rhythms of the ocean. Slathering on ample sunscreen is highly recommended to ward off the robust midday heat.", "category": "recreational", "coords": [-16.704145, 13.465045]}, {"name": "Ebun Jan Theatre", "text": "Ebun Jan Theatre is a theatre in Bakau.", "category": "cultural", "coords": [-16.674481, 13.462587]}, {"name": "Kachikally Crocodile Pool", "text": "Kachikally Crocodile Pool is a notable attraction and museum in Bakau.", "category": "landmark", "coords": [-16.672562, 13.476531]}, {"name": "Pipeline Mosque", "text": "Pipeline Mosque is a place of worship in Bakau.", "category": "religious", "coords": [-16.685138, 13.457628]}]},
+    id: "bakau-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kotu Beach",
+                  "text": "In Bakau gelegen, entfaltet sich der Kotu Beach als breiter und einladender westafrikanischer Sandstreifen. Seine lebendige, aber dennoch überschaubare Atmosphäre macht ihn zum erstklassigen Terrain für temperamentvolle Runden im Ozean und stundenlanges Sonnenbaden. Ein Spaziergang entlang der Küste ermöglicht es Ihnen, die sanften lokalen Rhythmen des Ozeans zu beobachten. Großzügiges Auftragen von Sonnencreme wird wärmstens empfohlen, um der starken Mittagshitze zu trotzen.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.704145,
+                        13.465045
+                  ]
+            },
+            {
+                  "name": "Ebun Jan Theatre",
+                  "text": "Ebun Jan Theatre, ein Kulturort in Bakau mit Theaterstücken und Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.674481,
+                        13.462587
+                  ]
+            },
+            {
+                  "name": "Kachikally Crocodile Pool",
+                  "text": "Kachikally-Krokodilbecken in Bakau, ein heiliger Ort mit zahmen Krokodilen.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.672562,
+                        13.476531
+                  ]
+            },
+            {
+                  "name": "Pipeline Mosque",
+                  "text": "Pipeline-Moschee in Bakau, nahe dem Strand.",
+                  "category": "religious",
+                  "coords": [
+                        -16.685138,
+                        13.457628
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kotu Beach",
+                  "text": "A Bakau városában fekvő Kotu Beach a nyugat-afrikai homok egy széles és hívogató szakaszaként tárul elénk. Élénk, mégis kezelhető atmoszférája elsőrangú területté teszi mind a lendületes óceáni úszáshoz, mind a hosszú órákon át tartó napozáshoz. A partvonal mentén barangolva megfigyelheti az óceán lágy, helyi ritmusát. A bőséges naptej használata erősen ajánlott a masszív déli hőség kivédése érdekében.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.704145,
+                        13.465045
+                  ]
+            },
+            {
+                  "name": "Ebun Jan Theatre",
+                  "text": "Ebun Jan Theatre, kulturális helyszín Bakau-ban, színdarabokkal és eseményekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.674481,
+                        13.462587
+                  ]
+            },
+            {
+                  "name": "Kachikally Crocodile Pool",
+                  "text": "Kachikally krokodilmedence Bakau-ban, szent hely szelíd krokodilokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.672562,
+                        13.476531
+                  ]
+            },
+            {
+                  "name": "Pipeline Mosque",
+                  "text": "Pipeline-mecset Bakauban, a strand közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -16.685138,
+                        13.457628
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kotu Beach",
+                  "text": "Situată în Bakau, Kotu Beach se desfășoară ca o întindere largă și primitoare de nisip vest-african. Atmosfera sa plină de viață, dar ușor de gestionat, o face un teritoriu excelent atât pentru înotul plin de spirit în ocean, cât și pentru ore lungi de plajă. Rătăcirea pe linia coastei vă permite să observați ritmurile locale blânde ale oceanului. Aplicarea unei cantități generoase de cremă de soare este foarte recomandată pentru a alunga căldura robustă a amiezii.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.704145,
+                        13.465045
+                  ]
+            },
+            {
+                  "name": "Ebun Jan Theatre",
+                  "text": "Teatrul Ebun Jan, un spațiu cultural în Bakau care găzduiește piese de teatru și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.674481,
+                        13.462587
+                  ]
+            },
+            {
+                  "name": "Kachikally Crocodile Pool",
+                  "text": "Bazinul cu crocodili Kachikally din Bakau, un loc sacru cu crocodili blânzi.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.672562,
+                        13.476531
+                  ]
+            },
+            {
+                  "name": "Pipeline Mosque",
+                  "text": "Moscheea Pipeline din Bakau, lângă plajă.",
+                  "category": "religious",
+                  "coords": [
+                        -16.685138,
+                        13.457628
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kotu Beach",
+                  "text": "Situated in Bakau, Kotu Beach unfolds as a broad and welcoming stretch of West African sand. Its lively yet manageable atmosphere makes it prime territory for both spirited ocean swims and long hours of sunbathing. Wandering down the coastline allows you to observe the gentle local rhythms of the ocean. Slathering on ample sunscreen is highly recommended to ward off the robust midday heat.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.704145,
+                        13.465045
+                  ]
+            },
+            {
+                  "name": "Ebun Jan Theatre",
+                  "text": "Ebun Jan Theatre, a cultural venue in Bakau hosting plays and events.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.674481,
+                        13.462587
+                  ]
+            },
+            {
+                  "name": "Kachikally Crocodile Pool",
+                  "text": "Kachikally Crocodile Pool in Bakau, a sacred site with tame crocodiles.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.672562,
+                        13.476531
+                  ]
+            },
+            {
+                  "name": "Pipeline Mosque",
+                  "text": "Pipeline Mosque in Bakau, near the beach.",
+                  "category": "religious",
+                  "coords": [
+                        -16.685138,
+                        13.457628
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GM-W",
     coords: [-16.6819, 13.4781],
@@ -847,7 +1000,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Tanji Nature Reserve",
-                  "text": "Tanji Nature Reserve ist ein Naturschutzgebiet in Brufut.",
+                  "text": "Naturschutzgebiet in Brufut zum Schutz von Küstenfeuchtgebieten und Vogelwelt.",
                   "category": "natural",
                   "coords": [
                         -16.781219,
@@ -856,7 +1009,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tanji Bird Reserve",
-                  "text": "Tanji Bird Reserve ist ein Naturschutzgebiet in Brufut.",
+                  "text": "Vogelschutzgebiet in Brufut, bekannt für Zugvögel.",
                   "category": "natural",
                   "coords": [
                         -16.782546,
@@ -865,7 +1018,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Sannehmentereng",
-                  "text": "Sannehmentereng ist eine Attraktion in Brufut.",
+                  "text": "Heiliger Stein oder traditionelles Wahrzeichen in Brufut.",
                   "category": "landmark",
                   "coords": [
                         -16.766511,
@@ -876,7 +1029,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Tanji Nature Reserve",
-                  "text": "A Tanji Nature Reserve egy természetvédelmi terület Brufut területén.",
+                  "text": "Természetvédelmi terület Brufut-ban, part menti vizes élőhelyek és madárvilág védelmére.",
                   "category": "natural",
                   "coords": [
                         -16.781219,
@@ -885,7 +1038,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tanji Bird Reserve",
-                  "text": "A Tanji Bird Reserve egy természetvédelmi terület Brufut városában.",
+                  "text": "Madárrezervátum Brufut-ban, híres vonuló madarakról.",
                   "category": "natural",
                   "coords": [
                         -16.782546,
@@ -894,7 +1047,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Sannehmentereng",
-                  "text": "A Sannehmentereng egy látványosság Brufut területén.",
+                  "text": "Szent kő vagy hagyományos nevezetesség Brufut-ban.",
                   "category": "landmark",
                   "coords": [
                         -16.766511,
@@ -905,7 +1058,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Tanji Nature Reserve",
-                  "text": "Tanji Nature Reserve este o rezervație naturală din Brufut.",
+                  "text": "Rezervația naturală din Brufut care protejează zonele umede de coastă și păsările.",
                   "category": "natural",
                   "coords": [
                         -16.781219,
@@ -914,7 +1067,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tanji Bird Reserve",
-                  "text": "Tanji Bird Reserve este o rezervație naturală în Brufut.",
+                  "text": "Rezervația de păsări din Brufut, cunoscută pentru păsările migratoare.",
                   "category": "natural",
                   "coords": [
                         -16.782546,
@@ -923,7 +1076,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Sannehmentereng",
-                  "text": "Sannehmentereng este o atracție în Brufut.",
+                  "text": "Piatră sacră sau reper tradițional în Brufut.",
                   "category": "landmark",
                   "coords": [
                         -16.766511,
@@ -934,7 +1087,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Tanji Nature Reserve",
-                  "text": "Tanji Nature Reserve is a nature reserve in Brufut.",
+                  "text": "Nature reserve in Brufut protecting coastal wetlands and birdlife.",
                   "category": "natural",
                   "coords": [
                         -16.781219,
@@ -943,7 +1096,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tanji Bird Reserve",
-                  "text": "Tanji Bird Reserve is a nature reserve in Brufut.",
+                  "text": "Bird reserve in Brufut known for migratory birds.",
                   "category": "natural",
                   "coords": [
                         -16.782546,
@@ -952,7 +1105,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Sannehmentereng",
-                  "text": "Sannehmentereng is an attraction in Brufut.",
+                  "text": "Sacred stone or traditional landmark in Brufut.",
                   "category": "landmark",
                   "coords": [
                         -16.766511,
@@ -1053,7 +1206,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Marike Forest Park",
-                  "text": "Marike Forest Park ist ein Naturschutzgebiet in Kerewan.",
+                  "text": "Waldpark in Kerewan mit vielfältiger Tierwelt.",
                   "category": "natural",
                   "coords": [
                         -16.07244,
@@ -1064,7 +1217,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Marike Forest Park",
-                  "text": "A Marike Forest Park egy természetvédelmi terület Kerewan városában.",
+                  "text": "Erdei park Kerewan-ban, változatos vadon élő állatokkal.",
                   "category": "natural",
                   "coords": [
                         -16.07244,
@@ -1075,7 +1228,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Marike Forest Park",
-                  "text": "Marike Forest Park este o rezervație naturală situată în Kerewan.",
+                  "text": "Parcul forestier din Kerewan, cu faună diversă.",
                   "category": "natural",
                   "coords": [
                         -16.07244,
@@ -1086,7 +1239,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Marike Forest Park",
-                  "text": "Marike Forest Park is a nature reserve located in Kerewan.",
+                  "text": "Forest park in Kerewan with diverse wildlife.",
                   "category": "natural",
                   "coords": [
                         -16.07244,
@@ -1276,7 +1429,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Wassu Stone Circles",
-                  "text": "Wassu Stone Circles sind eine bedeutende archäologische Stätte in Kuntaur.",
+                  "text": "Wassu-Steinkreise, UNESCO-Weltkulturerbe im Gambia, aus dem 8.–13. Jahrhundert.",
                   "category": "historical",
                   "coords": [
                         -14.873088,
@@ -1285,7 +1438,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Embarquement Chimpanzees & Hippos",
-                  "text": "Embarquement Chimpanzees & Hippos ist eine Attraktion in Kuntaur.",
+                  "text": "Einschiffungspunkt für Bootsfahrten zur Beobachtung von Schimpansen und Nilpferden in Kuntaur.",
                   "category": "landmark",
                   "coords": [
                         -14.891025,
@@ -1296,7 +1449,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Wassu Stone Circles",
-                  "text": "A Wassu Stone Circles egy jelentős régészeti lelőhely Kuntaur városában.",
+                  "text": "Wassu kőkörök, az UNESCO világörökség része Gambiában, a 8–13. századból.",
                   "category": "historical",
                   "coords": [
                         -14.873088,
@@ -1305,7 +1458,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Embarquement Chimpanzees & Hippos",
-                  "text": "Az Embarquement Chimpanzees & Hippos egy látványosság Kuntaur városában.",
+                  "text": "Hajókirándulások kiindulópontja csimpánzok és vízilovak megfigyelésére Kuntaur-ban.",
                   "category": "landmark",
                   "coords": [
                         -14.891025,
@@ -1316,7 +1469,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Wassu Stone Circles",
-                  "text": "Wassu Stone Circles reprezintă un important sit arheologic din Kuntaur.",
+                  "text": "Cercurile de pietre Wassu, patrimoniu UNESCO în Gambia, datând din secolele VIII–XIII.",
                   "category": "historical",
                   "coords": [
                         -14.873088,
@@ -1325,7 +1478,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Embarquement Chimpanzees & Hippos",
-                  "text": "Embarquement Chimpanzees & Hippos este o atracție din Kuntaur.",
+                  "text": "Punct de îmbarcare pentru excursii cu barca pentru a vedea cimpanzei și hipopotami în Kuntaur.",
                   "category": "landmark",
                   "coords": [
                         -14.891025,
@@ -1336,7 +1489,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Wassu Stone Circles",
-                  "text": "Wassu Stone Circles is a notable archaeological site in Kuntaur.",
+                  "text": "Wassu stone circles, a UNESCO World Heritage site in the Gambia, dating from the 8th–13th centuries.",
                   "category": "historical",
                   "coords": [
                         -14.873088,
@@ -1345,7 +1498,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Embarquement Chimpanzees & Hippos",
-                  "text": "Embarquement Chimpanzees & Hippos is an attraction in Kuntaur.",
+                  "text": "Embarkation point for boat trips viewing chimpanzees and hippos in Kuntaur.",
                   "category": "landmark",
                   "coords": [
                         -14.891025,
@@ -1575,7 +1728,196 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     }
   },
   {
-    id: "bijilo-cities-v2", "sights": {"de": [{"name": "Kololi Beach", "text": "Der Kololi Beach nimmt einen lebendigen Abschnitt der Uferlinie nahe Bijilo in Gambia ein. Er zeichnet sich durch ein energiegeladenes und warmes Umfeld aus, das sich perfekt an Strandbesucher richtet, die schwimmen oder einfach nur Sonnenstrahlen einfangen möchten. Die langen Sandwege sind ideal für morgendliche Spaziergänge, während die Sonne über dem Wasser aufgeht. Ein Besuch während der Trockenzeit bringt im Allgemeinen das angenehmste Strandwetter mit sich.", "category": "recreational", "coords": [-16.719015, 13.454655]}, {"name": "Kotu Beach", "text": "In der Nähe von Bijilo gelegen, bietet dieser Abschnitt des Kotu Beach einen charmanten Rückzugsort an der gambischen Küste. Die entspannende Atmosphäre bildet die ideale Kulisse für ungestörtes Sonnenbaden und erfrischende Sprünge in den Atlantik. Ein gemütlicher Spaziergang am Rande des Wassers lässt Sie unweigerlich in das ruhige Küstenambiente eintauchen. Das Packen einer kleinen Tasche mit Wasser und Handtuch garantiert, dass Sie für einen vergnüglichen Ausflug gerüstet sind.", "category": "recreational", "coords": [-16.711258, 13.460914]}, {"name": "Senegambia Beach", "text": "Der Senegambia Beach sticht als prominentes und lebhaftes Küstengebiet in Bijilo hervor. Hier ermutigt die energiegeladene Stimmung die Besucher, in die rollenden Wellen zu springen oder ihr Lager für einen Nachmittag voller Sonnenanbetung aufzuschlagen. Wer lieber aktiv bleibt, kann erfrischende Strandspaziergänge mit wunderschönem Meerblick genießen. Ein gutes Buch mitzubringen, macht die Ruhepausen zwischen den Schwimmeinlagen unglaublich lohnend.", "category": "recreational", "coords": [-16.725213, 13.443951]}, {"name": "Bijilo Forest Park", "text": "Bijilo Forest Park ist eine bekannte Attraktion in Bijilo.", "category": "landmark", "coords": [-16.728552, 13.431525]}, {"name": "Kasumai Beach Resort", "text": "An der Küste von Bijilo gelegen, bietet das Kasumai Beach Resort einen einladenden Rückzugsort in Gambia. Besucher erwartet eine entspannte Atmosphäre, die sich perfekt zum Sonnenbaden oder für ausgedehnte Spaziergänge am Meer eignet. Es ist der ideale Ort, um die lokale Wärme und den Blick auf den Ozean zu genießen. Ein früher Besuch am Morgen verspricht einen ruhigen Start in den Strandtag.", "category": "recreational", "coords": [-16.733864, 13.423401]}], "hu": [{"name": "Kololi Beach", "text": "A Kololi Beach a partvonal egy pezsgő szakaszát foglalja el a gambiai Bijilo közelében. Energikus és meleg környezet jellemzi, amely tökéletesen kiszolgálja az úszni vágyó vagy egyszerűen csak a napsugarakat élvező strandolókat. A hosszú homokos ösvények ideálisak a reggeli sétákhoz, ahogy a nap felkel a víz felett. A száraz évszakban történő látogatás általában a legkellemesebb strandolási időjárást biztosítja.", "category": "recreational", "coords": [-16.719015, 13.454655]}, {"name": "Kotu Beach", "text": "A Bijilo közelében elhelyezkedő Kotu Beach ezen szakasza bájos menedéket nyújt a gambiai partvidéken. A pihentető hangulat megteremti az alapot a zavartalan napozáshoz és a frissítő csobbanáshoz az Atlanti-óceánban. A vízparton tett laza séta biztosan elmeríti a nyugodt tengerparti miliőben. Egy kis táska vízzel és törölközővel való előkészítése garantálja a készenlétet az élvezetes kiruccanáshoz.", "category": "recreational", "coords": [-16.711258, 13.460914]}, {"name": "Senegambia Beach", "text": "A Senegambia Beach kiemelkedő és nyüzsgő tengerparti területként helyezkedik el Bijilo városában. Az itteni energikus hangulat arra ösztönzi a látogatókat, hogy fejest ugorjanak a gördülő hullámokba, vagy letáborozzanak egy napimádattal töltött délutánra. Akik az aktív kikapcsolódást részesítik előnyben, élvezhetik a frissítő tengerparti sétákat és a gyönyörű kilátást. Egy jó könyv magunkkal hozatala hihetetlenül hasznossá teszi az úszások közötti pihenőidőt.", "category": "recreational", "coords": [-16.725213, 13.443951]}, {"name": "Bijilo Forest Park", "text": "A Bijilo Forest Park egy jelentős látványosság Bijilo városában.", "category": "landmark", "coords": [-16.728552, 13.431525]}, {"name": "Kasumai Beach Resort", "text": "A gambiai Bijilo tengerpartján fekvő Kasumai Beach Resort hívogató tengerparti menedéket kínál az utazóknak. A látogatókat pihentető légkör várja, amely tökéletes a napozáshoz és a kellemes sétákhoz a víz mentén. Kiváló helyszín a helyi melegség és az óceáni kilátás élvezetére. A korai érkezés nyugodt kezdést biztosít egy tengerparti kiruccanáshoz.", "category": "recreational", "coords": [-16.733864, 13.423401]}], "ro": [{"name": "Kololi Beach", "text": "Kololi Beach ocupă o secțiune vibrantă a țărmului lângă Bijilo din Gambia. Se caracterizează printr-un mediu energic și cald, găzduind perfect pasionații de plajă dornici să înoate sau pur și simplu să prindă câteva raze. Cărările lungi de nisip sunt ideale pentru plimbările de dimineață, când soarele răsare peste apă. Vizitarea în timpul sezonului uscat aduce în general cea mai agreabilă vreme de plajă.", "category": "recreational", "coords": [-16.719015, 13.454655]}, {"name": "Kotu Beach", "text": "Situat în apropiere de Bijilo, acest segment al plajei Kotu oferă o evadare fermecătoare pe coasta gambiană. Vibrația relaxantă de aici creează scena pentru plajă netulburată și scufundări revigorante în Atlantic. O plimbare lejeră pe marginea apei vă va cufunda cu siguranță în ambianța de coastă liniștită. Pregătirea unei pungi mici cu apă și un prosop garantează că sunteți gata pentru o ieșire plăcută.", "category": "recreational", "coords": [-16.711258, 13.460914]}, {"name": "Senegambia Beach", "text": "Senegambia Beach se remarcă ca o zonă de coastă proeminentă și plină de viață situată în Bijilo. Aici, starea de spirit plină de energie încurajează vizitatorii să sară în valurile care se rostogolesc sau să-și instaleze tabăra pentru o după-amiază de închinare la soare. Cei care preferă să rămână activi se pot bucura de plimbări revigorante pe plajă, cu vederi frumoase la litoral. Aducerea unei cărți bune face ca timpul de nefuncționare dintre reprizele de înot să fie incredibil de plin de satisfacții.", "category": "recreational", "coords": [-16.725213, 13.443951]}, {"name": "Bijilo Forest Park", "text": "Bijilo Forest Park este o atracție notabilă situată în Bijilo.", "category": "landmark", "coords": [-16.728552, 13.431525]}, {"name": "Kasumai Beach Resort", "text": "Situat pe coasta din Bijilo, Kasumai Beach Resort oferă un refugiu de coastă primitor în Gambia. Vizitatorii se pot aștepta la o atmosferă relaxantă, perfectă pentru a face plajă sau pentru plimbări plăcute pe malul mării. Este un loc excelent pentru a te bucura de căldura locală și de priveliștile oceanului. Ajungând devreme, vă puteți bucura de un început liniștit al zilei de plajă.", "category": "recreational", "coords": [-16.733864, 13.423401]}], "en": [{"name": "Kololi Beach", "text": "Kololi Beach occupies a vibrant section of the shoreline near Bijilo in Gambia. It is characterized by an energetic and warm environment, catering perfectly to beachgoers keen on swimming or simply catching some rays. The long sandy paths are ideal for morning walks as the sun rises over the water. Visiting during the dry season generally yields the most agreeable beach weather.", "category": "recreational", "coords": [-16.719015, 13.454655]}, {"name": "Kotu Beach", "text": "Located near Bijilo, this segment of Kotu Beach provides a charming getaway on the Gambian coast. The relaxing vibe here sets the stage for undisturbed sunbathing and refreshing dips into the Atlantic. A casual stroll along the water's edge will surely immerse you in the tranquil coastal ambiance. Preparing a small bag with water and a towel guarantees you're ready for an enjoyable outing.", "category": "recreational", "coords": [-16.711258, 13.460914]}, {"name": "Senegambia Beach", "text": "Senegambia Beach stands out as a prominent and lively coastal area situated in Bijilo. Here, the energetic mood encourages visitors to jump into the rolling waves or set up camp for an afternoon of sun worship. Those who prefer staying active can enjoy invigorating beach walks with beautiful seaside views. Bringing along a good book makes the downtime between swims incredibly rewarding.", "category": "recreational", "coords": [-16.725213, 13.443951]}, {"name": "Bijilo Forest Park", "text": "Bijilo Forest Park is a notable attraction located in Bijilo.", "category": "landmark", "coords": [-16.728552, 13.431525]}, {"name": "Kasumai Beach Resort", "text": "Situated along the coast of Bijilo, Kasumai Beach Resort offers a welcoming coastal retreat in Gambia. Visitors can expect a relaxing atmosphere perfect for sunbathing or leisurely seaside walks. It is a great spot to enjoy the local warmth and ocean views. Arriving early in the day provides a peaceful start to a beach outing.", "category": "recreational", "coords": [-16.733864, 13.423401]}]},
+    id: "bijilo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kololi Beach",
+                  "text": "Der Kololi Beach nimmt einen lebendigen Abschnitt der Uferlinie nahe Bijilo in Gambia ein. Er zeichnet sich durch ein energiegeladenes und warmes Umfeld aus, das sich perfekt an Strandbesucher richtet, die schwimmen oder einfach nur Sonnenstrahlen einfangen möchten. Die langen Sandwege sind ideal für morgendliche Spaziergänge, während die Sonne über dem Wasser aufgeht. Ein Besuch während der Trockenzeit bringt im Allgemeinen das angenehmste Strandwetter mit sich.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.719015,
+                        13.454655
+                  ]
+            },
+            {
+                  "name": "Kotu Beach",
+                  "text": "In der Nähe von Bijilo gelegen, bietet dieser Abschnitt des Kotu Beach einen charmanten Rückzugsort an der gambischen Küste. Die entspannende Atmosphäre bildet die ideale Kulisse für ungestörtes Sonnenbaden und erfrischende Sprünge in den Atlantik. Ein gemütlicher Spaziergang am Rande des Wassers lässt Sie unweigerlich in das ruhige Küstenambiente eintauchen. Das Packen einer kleinen Tasche mit Wasser und Handtuch garantiert, dass Sie für einen vergnüglichen Ausflug gerüstet sind.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.711258,
+                        13.460914
+                  ]
+            },
+            {
+                  "name": "Senegambia Beach",
+                  "text": "Der Senegambia Beach sticht als prominentes und lebhaftes Küstengebiet in Bijilo hervor. Hier ermutigt die energiegeladene Stimmung die Besucher, in die rollenden Wellen zu springen oder ihr Lager für einen Nachmittag voller Sonnenanbetung aufzuschlagen. Wer lieber aktiv bleibt, kann erfrischende Strandspaziergänge mit wunderschönem Meerblick genießen. Ein gutes Buch mitzubringen, macht die Ruhepausen zwischen den Schwimmeinlagen unglaublich lohnend.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.725213,
+                        13.443951
+                  ]
+            },
+            {
+                  "name": "Bijilo Forest Park",
+                  "text": "1982 gegründeter Waldpark bei Bijilo an der Küste.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.728552,
+                        13.431525
+                  ]
+            },
+            {
+                  "name": "Kasumai Beach Resort",
+                  "text": "An der Küste von Bijilo gelegen, bietet das Kasumai Beach Resort einen einladenden Rückzugsort in Gambia. Besucher erwartet eine entspannte Atmosphäre, die sich perfekt zum Sonnenbaden oder für ausgedehnte Spaziergänge am Meer eignet. Es ist der ideale Ort, um die lokale Wärme und den Blick auf den Ozean zu genießen. Ein früher Besuch am Morgen verspricht einen ruhigen Start in den Strandtag.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.733864,
+                        13.423401
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kololi Beach",
+                  "text": "A Kololi Beach a partvonal egy pezsgő szakaszát foglalja el a gambiai Bijilo közelében. Energikus és meleg környezet jellemzi, amely tökéletesen kiszolgálja az úszni vágyó vagy egyszerűen csak a napsugarakat élvező strandolókat. A hosszú homokos ösvények ideálisak a reggeli sétákhoz, ahogy a nap felkel a víz felett. A száraz évszakban történő látogatás általában a legkellemesebb strandolási időjárást biztosítja.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.719015,
+                        13.454655
+                  ]
+            },
+            {
+                  "name": "Kotu Beach",
+                  "text": "A Bijilo közelében elhelyezkedő Kotu Beach ezen szakasza bájos menedéket nyújt a gambiai partvidéken. A pihentető hangulat megteremti az alapot a zavartalan napozáshoz és a frissítő csobbanáshoz az Atlanti-óceánban. A vízparton tett laza séta biztosan elmeríti a nyugodt tengerparti miliőben. Egy kis táska vízzel és törölközővel való előkészítése garantálja a készenlétet az élvezetes kiruccanáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.711258,
+                        13.460914
+                  ]
+            },
+            {
+                  "name": "Senegambia Beach",
+                  "text": "A Senegambia Beach kiemelkedő és nyüzsgő tengerparti területként helyezkedik el Bijilo városában. Az itteni energikus hangulat arra ösztönzi a látogatókat, hogy fejest ugorjanak a gördülő hullámokba, vagy letáborozzanak egy napimádattal töltött délutánra. Akik az aktív kikapcsolódást részesítik előnyben, élvezhetik a frissítő tengerparti sétákat és a gyönyörű kilátást. Egy jó könyv magunkkal hozatala hihetetlenül hasznossá teszi az úszások közötti pihenőidőt.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.725213,
+                        13.443951
+                  ]
+            },
+            {
+                  "name": "Bijilo Forest Park",
+                  "text": "1982-ben alapított erdei park Bijilo közelében, a tengerparton.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.728552,
+                        13.431525
+                  ]
+            },
+            {
+                  "name": "Kasumai Beach Resort",
+                  "text": "A gambiai Bijilo tengerpartján fekvő Kasumai Beach Resort hívogató tengerparti menedéket kínál az utazóknak. A látogatókat pihentető légkör várja, amely tökéletes a napozáshoz és a kellemes sétákhoz a víz mentén. Kiváló helyszín a helyi melegség és az óceáni kilátás élvezetére. A korai érkezés nyugodt kezdést biztosít egy tengerparti kiruccanáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.733864,
+                        13.423401
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kololi Beach",
+                  "text": "Kololi Beach ocupă o secțiune vibrantă a țărmului lângă Bijilo din Gambia. Se caracterizează printr-un mediu energic și cald, găzduind perfect pasionații de plajă dornici să înoate sau pur și simplu să prindă câteva raze. Cărările lungi de nisip sunt ideale pentru plimbările de dimineață, când soarele răsare peste apă. Vizitarea în timpul sezonului uscat aduce în general cea mai agreabilă vreme de plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.719015,
+                        13.454655
+                  ]
+            },
+            {
+                  "name": "Kotu Beach",
+                  "text": "Situat în apropiere de Bijilo, acest segment al plajei Kotu oferă o evadare fermecătoare pe coasta gambiană. Vibrația relaxantă de aici creează scena pentru plajă netulburată și scufundări revigorante în Atlantic. O plimbare lejeră pe marginea apei vă va cufunda cu siguranță în ambianța de coastă liniștită. Pregătirea unei pungi mici cu apă și un prosop garantează că sunteți gata pentru o ieșire plăcută.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.711258,
+                        13.460914
+                  ]
+            },
+            {
+                  "name": "Senegambia Beach",
+                  "text": "Senegambia Beach se remarcă ca o zonă de coastă proeminentă și plină de viață situată în Bijilo. Aici, starea de spirit plină de energie încurajează vizitatorii să sară în valurile care se rostogolesc sau să-și instaleze tabăra pentru o după-amiază de închinare la soare. Cei care preferă să rămână activi se pot bucura de plimbări revigorante pe plajă, cu vederi frumoase la litoral. Aducerea unei cărți bune face ca timpul de nefuncționare dintre reprizele de înot să fie incredibil de plin de satisfacții.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.725213,
+                        13.443951
+                  ]
+            },
+            {
+                  "name": "Bijilo Forest Park",
+                  "text": "Parcul forestier înființat în 1982 lângă Bijilo, pe coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.728552,
+                        13.431525
+                  ]
+            },
+            {
+                  "name": "Kasumai Beach Resort",
+                  "text": "Situat pe coasta din Bijilo, Kasumai Beach Resort oferă un refugiu de coastă primitor în Gambia. Vizitatorii se pot aștepta la o atmosferă relaxantă, perfectă pentru a face plajă sau pentru plimbări plăcute pe malul mării. Este un loc excelent pentru a te bucura de căldura locală și de priveliștile oceanului. Ajungând devreme, vă puteți bucura de un început liniștit al zilei de plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.733864,
+                        13.423401
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kololi Beach",
+                  "text": "Kololi Beach occupies a vibrant section of the shoreline near Bijilo in Gambia. It is characterized by an energetic and warm environment, catering perfectly to beachgoers keen on swimming or simply catching some rays. The long sandy paths are ideal for morning walks as the sun rises over the water. Visiting during the dry season generally yields the most agreeable beach weather.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.719015,
+                        13.454655
+                  ]
+            },
+            {
+                  "name": "Kotu Beach",
+                  "text": "Located near Bijilo, this segment of Kotu Beach provides a charming getaway on the Gambian coast. The relaxing vibe here sets the stage for undisturbed sunbathing and refreshing dips into the Atlantic. A casual stroll along the water's edge will surely immerse you in the tranquil coastal ambiance. Preparing a small bag with water and a towel guarantees you're ready for an enjoyable outing.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.711258,
+                        13.460914
+                  ]
+            },
+            {
+                  "name": "Senegambia Beach",
+                  "text": "Senegambia Beach stands out as a prominent and lively coastal area situated in Bijilo. Here, the energetic mood encourages visitors to jump into the rolling waves or set up camp for an afternoon of sun worship. Those who prefer staying active can enjoy invigorating beach walks with beautiful seaside views. Bringing along a good book makes the downtime between swims incredibly rewarding.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.725213,
+                        13.443951
+                  ]
+            },
+            {
+                  "name": "Bijilo Forest Park",
+                  "text": "Forest park established in 1982 near Bijilo on the coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.728552,
+                        13.431525
+                  ]
+            },
+            {
+                  "name": "Kasumai Beach Resort",
+                  "text": "Situated along the coast of Bijilo, Kasumai Beach Resort offers a welcoming coastal retreat in Gambia. Visitors can expect a relaxing atmosphere perfect for sunbathing or leisurely seaside walks. It is a great spot to enjoy the local warmth and ocean views. Arriving early in the day provides a peaceful start to a beach outing.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.733864,
+                        13.423401
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GM-W",
     coords: [-16.7167, 13.4333],
@@ -1620,7 +1962,160 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     image: "/poi-images/bijilo-cities-v2.webp"
   },
   {
-    id: "kololi-cities-v2", "sights": {"de": [{"name": "Kololi Beach", "text": "Entdecken Sie den maritimen Charme des Kololi Beach, der wunderschön im Herzen von Kololi in Gambia liegt. Dieser Sandstrand bietet eine wunderbare Umgebung zum Schwimmen und Entspannen am Ozean. Die sanft brechenden Wellen schaffen eine angenehme Kulisse für einen erholsamen Tag im Freien. Für das beste Erlebnis empfiehlt sich ein Besuch in den kühleren Morgenstunden.", "category": "recreational", "coords": [-16.719015, 13.454655]}, {"name": "Kotu Beach", "text": "Der Kotu Beach bildet einen malerischen Küstenabschnitt innerhalb des lebhaften Gebiets von Kololi in Gambia. Gäste können sich auf angenehme Spaziergänge entlang der Uferlinie und ausreichend Gelegenheiten zum Sonnenbaden freuen. Die sanfte Meeresbrise macht diesen Ort sowohl für aktive Morgenstunden als auch für ruhevolle Nachmittage attraktiv. Sonnenschutz sollte für einen langen Tag am Meer nicht vergessen werden.", "category": "recreational", "coords": [-16.711258, 13.460914]}, {"name": "Senegambia Beach", "text": "Der in Kololi gelegene Senegambia Beach ist ein lebhaftes Küstenziel in Gambia. Die Umgebung ist ideal für alle, die gerne schwimmen, am Strand spazieren gehen und das geschäftige lokale Treiben genießen möchten. Mit seinem weiten Blick über den Ozean fängt er die Essenz eines typisch afrikanischen Badeurlaubs ein. Der späte Nachmittag eignet sich hervorragend, um die wechselnden Farben des Himmels zu beobachten.", "category": "recreational", "coords": [-16.725213, 13.443951]}, {"name": "Bijilo Forest Park", "text": "Bijilo Forest Park ist eine bekannte Naturattraktion in Kololi.", "category": "landmark", "coords": [-16.728552, 13.431525]}], "hu": [{"name": "Kololi Beach", "text": "Fedezze fel a gambiai Kololi szívében elterülő Kololi Beach tengerparti varázsát. Ez a homokos partszakasz csodálatos környezetet biztosít az óceáni úszáshoz és a pihenéshez. A ritmikusan hullámzó víz kellemes hátteret teremt egy szabadtéri naphoz. A legjobb élmény érdekében érdemes a hűvösebb reggeli órákban idelátogatni.", "category": "recreational", "coords": [-16.719015, 13.454655]}, {"name": "Kotu Beach", "text": "A Kotu Beach egy festői tengerparti szakaszt alkot Gambia nyüzsgő Kololi városrészében. A vendégek kellemes sétákat tehetnek a part mentén, és bőséges lehetőségük nyílik a napozásra. A lágy óceáni szellő miatt kényelmes helyszín mind az energikus reggelek, mind a pihentető délutánok eltöltésére. A tengerparti élvezetekhez erősen ajánlott a megfelelő napvédelem.", "category": "recreational", "coords": [-16.711258, 13.460914]}, {"name": "Senegambia Beach", "text": "A Kololiban található Senegambia Beach egy nyüzsgő tengerparti célpont Gambiában. A környék ideális azok számára, akik élvezni szeretnék az úszást, a parti sétákat és a pezsgő helyi atmoszférát. Panorámás óceáni kilátásával megragadja egy igazi afrikai vízparti kikapcsolódás lényegét. A késő délután csodálatos időpont a látogatásra és a színpompás égbolt megcsodálására.", "category": "recreational", "coords": [-16.725213, 13.443951]}, {"name": "Bijilo Forest Park", "text": "A Bijilo Forest Park egy ismert természeti látványosság Kololi területén.", "category": "landmark", "coords": [-16.728552, 13.431525]}], "ro": [{"name": "Kololi Beach", "text": "Descoperiți farmecul de coastă al plajei Kololi Beach, frumos situată în inima orașului Kololi, Gambia. Această întindere de nisip oferă un mediu minunat pentru înot și relaxare la ocean. Valurile ritmice creează un fundal plăcut pentru o zi odihnitoare în aer liber. Pentru cea mai bună experiență, luați în considerare o vizită în orele mai răcoroase ale dimineții.", "category": "recreational", "coords": [-16.719015, 13.454655]}, {"name": "Kotu Beach", "text": "Plaja Kotu Beach formează o secțiune de coastă pitorească în zona animată a orașului Kololi, Gambia. Oaspeții se pot aștepta la plimbări plăcute de-a lungul țărmului și la oportunități de a se bucura de soare. Briza blândă a oceanului îl face un loc confortabil atât pentru dimineți energice, cât și pentru după-amiezi odihnitoare. Protecția solară este foarte recomandată pentru o zi întreagă de relaxare la malul mării.", "category": "recreational", "coords": [-16.711258, 13.460914]}, {"name": "Senegambia Beach", "text": "Situată în Kololi, Senegambia Beach iese în evidență ca o destinație de coastă vibrantă în Gambia. Zona este ideală pentru cei care doresc să se bucure de înot, de plimbări pe plajă și de atmosfera locală plină de viață. Cu priveliștile sale ample asupra oceanului, surprinde esența unei evadări africane la plajă. După-amiaza târziu este un moment minunat pentru a vizita și a asista la culorile schimbătoare ale cerului.", "category": "recreational", "coords": [-16.725213, 13.443951]}, {"name": "Bijilo Forest Park", "text": "Bijilo Forest Park este o atracție naturală notabilă din Kololi.", "category": "landmark", "coords": [-16.728552, 13.431525]}], "en": [{"name": "Kololi Beach", "text": "Discover the coastal charm of Kololi Beach, beautifully situated in the heart of Kololi, Gambia. This sandy stretch provides a wonderful environment for swimming and unwinding by the ocean. The rhythmic waves create a pleasant backdrop for a relaxing day outdoors. For the best experience, consider visiting during the cooler morning hours.", "category": "recreational", "coords": [-16.719015, 13.454655]}, {"name": "Kotu Beach", "text": "Kotu Beach forms a scenic coastal section within the bustling area of Kololi, Gambia. Guests can look forward to pleasant walks along the shoreline and opportunities to soak up the sun. The gentle ocean breeze makes it a comfortable spot for both energetic mornings and restful afternoons. Packing sun protection is highly recommended for a full day of seaside enjoyment.", "category": "recreational", "coords": [-16.711258, 13.460914]}, {"name": "Senegambia Beach", "text": "Located in Kololi, Senegambia Beach stands out as a vibrant coastal destination in Gambia. The area is ideal for those looking to enjoy swimming, beach walks, and the vibrant local atmosphere. With its sweeping ocean views, it captures the essence of a lively African beach getaway. Late afternoon is a wonderful time to visit and witness the changing colors of the sky.", "category": "recreational", "coords": [-16.725213, 13.443951]}, {"name": "Bijilo Forest Park", "text": "Bijilo Forest Park is a recognized nature attraction in Kololi.", "category": "landmark", "coords": [-16.728552, 13.431525]}]},
+    id: "kololi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kololi Beach",
+                  "text": "Entdecken Sie den maritimen Charme des Kololi Beach, der wunderschön im Herzen von Kololi in Gambia liegt. Dieser Sandstrand bietet eine wunderbare Umgebung zum Schwimmen und Entspannen am Ozean. Die sanft brechenden Wellen schaffen eine angenehme Kulisse für einen erholsamen Tag im Freien. Für das beste Erlebnis empfiehlt sich ein Besuch in den kühleren Morgenstunden.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.719015,
+                        13.454655
+                  ]
+            },
+            {
+                  "name": "Kotu Beach",
+                  "text": "Der Kotu Beach bildet einen malerischen Küstenabschnitt innerhalb des lebhaften Gebiets von Kololi in Gambia. Gäste können sich auf angenehme Spaziergänge entlang der Uferlinie und ausreichend Gelegenheiten zum Sonnenbaden freuen. Die sanfte Meeresbrise macht diesen Ort sowohl für aktive Morgenstunden als auch für ruhevolle Nachmittage attraktiv. Sonnenschutz sollte für einen langen Tag am Meer nicht vergessen werden.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.711258,
+                        13.460914
+                  ]
+            },
+            {
+                  "name": "Senegambia Beach",
+                  "text": "Der in Kololi gelegene Senegambia Beach ist ein lebhaftes Küstenziel in Gambia. Die Umgebung ist ideal für alle, die gerne schwimmen, am Strand spazieren gehen und das geschäftige lokale Treiben genießen möchten. Mit seinem weiten Blick über den Ozean fängt er die Essenz eines typisch afrikanischen Badeurlaubs ein. Der späte Nachmittag eignet sich hervorragend, um die wechselnden Farben des Himmels zu beobachten.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.725213,
+                        13.443951
+                  ]
+            },
+            {
+                  "name": "Bijilo Forest Park",
+                  "text": "1982 gegründeter Waldpark bei Kololi an der Küste.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.728552,
+                        13.431525
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kololi Beach",
+                  "text": "Fedezze fel a gambiai Kololi szívében elterülő Kololi Beach tengerparti varázsát. Ez a homokos partszakasz csodálatos környezetet biztosít az óceáni úszáshoz és a pihenéshez. A ritmikusan hullámzó víz kellemes hátteret teremt egy szabadtéri naphoz. A legjobb élmény érdekében érdemes a hűvösebb reggeli órákban idelátogatni.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.719015,
+                        13.454655
+                  ]
+            },
+            {
+                  "name": "Kotu Beach",
+                  "text": "A Kotu Beach egy festői tengerparti szakaszt alkot Gambia nyüzsgő Kololi városrészében. A vendégek kellemes sétákat tehetnek a part mentén, és bőséges lehetőségük nyílik a napozásra. A lágy óceáni szellő miatt kényelmes helyszín mind az energikus reggelek, mind a pihentető délutánok eltöltésére. A tengerparti élvezetekhez erősen ajánlott a megfelelő napvédelem.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.711258,
+                        13.460914
+                  ]
+            },
+            {
+                  "name": "Senegambia Beach",
+                  "text": "A Kololiban található Senegambia Beach egy nyüzsgő tengerparti célpont Gambiában. A környék ideális azok számára, akik élvezni szeretnék az úszást, a parti sétákat és a pezsgő helyi atmoszférát. Panorámás óceáni kilátásával megragadja egy igazi afrikai vízparti kikapcsolódás lényegét. A késő délután csodálatos időpont a látogatásra és a színpompás égbolt megcsodálására.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.725213,
+                        13.443951
+                  ]
+            },
+            {
+                  "name": "Bijilo Forest Park",
+                  "text": "1982-ben alapított erdei park Kololi közelében, a tengerparton.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.728552,
+                        13.431525
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kololi Beach",
+                  "text": "Descoperiți farmecul de coastă al plajei Kololi Beach, frumos situată în inima orașului Kololi, Gambia. Această întindere de nisip oferă un mediu minunat pentru înot și relaxare la ocean. Valurile ritmice creează un fundal plăcut pentru o zi odihnitoare în aer liber. Pentru cea mai bună experiență, luați în considerare o vizită în orele mai răcoroase ale dimineții.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.719015,
+                        13.454655
+                  ]
+            },
+            {
+                  "name": "Kotu Beach",
+                  "text": "Plaja Kotu Beach formează o secțiune de coastă pitorească în zona animată a orașului Kololi, Gambia. Oaspeții se pot aștepta la plimbări plăcute de-a lungul țărmului și la oportunități de a se bucura de soare. Briza blândă a oceanului îl face un loc confortabil atât pentru dimineți energice, cât și pentru după-amiezi odihnitoare. Protecția solară este foarte recomandată pentru o zi întreagă de relaxare la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.711258,
+                        13.460914
+                  ]
+            },
+            {
+                  "name": "Senegambia Beach",
+                  "text": "Situată în Kololi, Senegambia Beach iese în evidență ca o destinație de coastă vibrantă în Gambia. Zona este ideală pentru cei care doresc să se bucure de înot, de plimbări pe plajă și de atmosfera locală plină de viață. Cu priveliștile sale ample asupra oceanului, surprinde esența unei evadări africane la plajă. După-amiaza târziu este un moment minunat pentru a vizita și a asista la culorile schimbătoare ale cerului.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.725213,
+                        13.443951
+                  ]
+            },
+            {
+                  "name": "Bijilo Forest Park",
+                  "text": "Parcul forestier înființat în 1982 lângă Kololi, pe coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.728552,
+                        13.431525
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kololi Beach",
+                  "text": "Discover the coastal charm of Kololi Beach, beautifully situated in the heart of Kololi, Gambia. This sandy stretch provides a wonderful environment for swimming and unwinding by the ocean. The rhythmic waves create a pleasant backdrop for a relaxing day outdoors. For the best experience, consider visiting during the cooler morning hours.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.719015,
+                        13.454655
+                  ]
+            },
+            {
+                  "name": "Kotu Beach",
+                  "text": "Kotu Beach forms a scenic coastal section within the bustling area of Kololi, Gambia. Guests can look forward to pleasant walks along the shoreline and opportunities to soak up the sun. The gentle ocean breeze makes it a comfortable spot for both energetic mornings and restful afternoons. Packing sun protection is highly recommended for a full day of seaside enjoyment.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.711258,
+                        13.460914
+                  ]
+            },
+            {
+                  "name": "Senegambia Beach",
+                  "text": "Located in Kololi, Senegambia Beach stands out as a vibrant coastal destination in Gambia. The area is ideal for those looking to enjoy swimming, beach walks, and the vibrant local atmosphere. With its sweeping ocean views, it captures the essence of a lively African beach getaway. Late afternoon is a wonderful time to visit and witness the changing colors of the sky.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.725213,
+                        13.443951
+                  ]
+            },
+            {
+                  "name": "Bijilo Forest Park",
+                  "text": "Forest park established in 1982 near Kololi on the coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.728552,
+                        13.431525
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GM-W",
     coords: [-16.7167, 13.45],
@@ -1759,7 +2254,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Tanbi Wetland National Park",
-                  "text": "Der Tanbi Wetland National Park ist ein Naturschutzgebiet in Tallinding.",
+                  "text": "Mangroven-Feuchtgebiet-Nationalpark nahe Tallinding.",
                   "category": "natural",
                   "coords": [
                         -16.622231,
@@ -1768,7 +2263,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tallinding Sitokoto",
-                  "text": "Tallinding Sitokoto ist ein Denkmal in Tallinding.",
+                  "text": "Historische Stätte Tallinding Sitokoto mit dem berühmten Affenbrotbaum in Tallinding.",
                   "category": "historical",
                   "coords": [
                         -16.658461,
@@ -1779,7 +2274,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Tanbi Wetland National Park",
-                  "text": "A Tanbi Wetland National Park egy természetvédelmi terület Tallinding városában.",
+                  "text": "Mangrove mocsaras nemzeti park Tallinding közelében.",
                   "category": "natural",
                   "coords": [
                         -16.622231,
@@ -1788,7 +2283,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tallinding Sitokoto",
-                  "text": "A Tallinding Sitokoto egy emlékmű Tallinding területén.",
+                  "text": "Tallinding Sitokoto történelmi helyszíne a híres baobabfával Tallinding-ban.",
                   "category": "historical",
                   "coords": [
                         -16.658461,
@@ -1799,7 +2294,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Tanbi Wetland National Park",
-                  "text": "Tanbi Wetland National Park este o rezervație naturală în Tallinding.",
+                  "text": "Parcul național de mangrove umede lângă Tallinding.",
                   "category": "natural",
                   "coords": [
                         -16.622231,
@@ -1808,7 +2303,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tallinding Sitokoto",
-                  "text": "Tallinding Sitokoto este un monument din Tallinding.",
+                  "text": "Situl istoric Tallinding Sitokoto, cu faimosul arbore baobab, în Tallinding.",
                   "category": "historical",
                   "coords": [
                         -16.658461,
@@ -1819,7 +2314,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Tanbi Wetland National Park",
-                  "text": "Tanbi Wetland National Park is a nature reserve in Tallinding.",
+                  "text": "Mangrove wetland national park near Tallinding.",
                   "category": "natural",
                   "coords": [
                         -16.622231,
@@ -1828,7 +2323,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tallinding Sitokoto",
-                  "text": "Tallinding Sitokoto is a monument in Tallinding.",
+                  "text": "Historical site of Tallinding Sitokoto, featuring the famous baobab tree, in Tallinding.",
                   "category": "historical",
                   "coords": [
                         -16.658461,
@@ -1930,7 +2425,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Tanbi Wetland National Park",
-                  "text": "Tanbi Wetland National Park ist ein Naturschutzgebiet in Dippa Kunda.",
+                  "text": "Mangroven-Feuchtgebiet-Nationalpark nahe Kunda.",
                   "category": "natural",
                   "coords": [
                         -16.622231,
@@ -1939,7 +2434,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tallinding Sitokoto",
-                  "text": "Tallinding Sitokoto ist ein Denkmal in Dippa Kunda.",
+                  "text": "Historische Stätte Tallinding Sitokoto mit dem berühmten Affenbrotbaum in Kunda.",
                   "category": "historical",
                   "coords": [
                         -16.658461,
@@ -1948,7 +2443,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Westfield Youth Monument",
-                  "text": "Westfield Youth Monument ist ein Denkmal in Dippa Kunda.",
+                  "text": "Jugenddenkmal in Westfield, Kunda.",
                   "category": "historical",
                   "coords": [
                         -16.67507,
@@ -1957,7 +2452,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Alliance Française de Banjul",
-                  "text": "Alliance Française de Banjul ist ein Kunstzentrum in Dippa Kunda.",
+                  "text": "Alliance Française-Zweigstelle in Kunda mit Französischkursen und Kulturveranstaltungen.",
                   "category": "cultural",
                   "coords": [
                         -16.678321,
@@ -1966,7 +2461,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pipeline Mosque",
-                  "text": "Pipeline Mosque ist eine Kultstätte in Dippa Kunda.",
+                  "text": "Moschee in der Stadt Kunda.",
                   "category": "religious",
                   "coords": [
                         -16.685138,
@@ -1977,7 +2472,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Tanbi Wetland National Park",
-                  "text": "A Tanbi Wetland National Park egy természetvédelmi terület Dippa Kunda városában.",
+                  "text": "Mangrove mocsaras nemzeti park Kunda közelében.",
                   "category": "natural",
                   "coords": [
                         -16.622231,
@@ -1986,7 +2481,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tallinding Sitokoto",
-                  "text": "A Tallinding Sitokoto egy emlékmű Dippa Kunda városában.",
+                  "text": "Tallinding Sitokoto történelmi helyszíne a híres baobabfával Kunda-ban.",
                   "category": "historical",
                   "coords": [
                         -16.658461,
@@ -1995,7 +2490,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Westfield Youth Monument",
-                  "text": "A Westfield Youth Monument egy emlékmű Dippa Kunda városában.",
+                  "text": "Ifjúsági emlékmű Westfield-ben, Kunda-ban.",
                   "category": "historical",
                   "coords": [
                         -16.67507,
@@ -2004,7 +2499,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Alliance Française de Banjul",
-                  "text": "Az Alliance Française de Banjul egy művészeti központ Dippa Kunda városában.",
+                  "text": "Alliance Française fiók Kunda-ban, francia nyelvtanfolyamokkal és kulturális eseményekkel.",
                   "category": "cultural",
                   "coords": [
                         -16.678321,
@@ -2013,7 +2508,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pipeline Mosque",
-                  "text": "A Pipeline Mosque egy istentiszteleti hely Dippa Kunda városában.",
+                  "text": "Mecset Kunda városában.",
                   "category": "religious",
                   "coords": [
                         -16.685138,
@@ -2024,7 +2519,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Tanbi Wetland National Park",
-                  "text": "Tanbi Wetland National Park este o rezervație naturală situată în Dippa Kunda.",
+                  "text": "Parcul național de mangrove umede lângă Kunda.",
                   "category": "natural",
                   "coords": [
                         -16.622231,
@@ -2033,7 +2528,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tallinding Sitokoto",
-                  "text": "Tallinding Sitokoto este un monument situat în Dippa Kunda.",
+                  "text": "Situl istoric Tallinding Sitokoto, cu faimosul arbore baobab, în Kunda.",
                   "category": "historical",
                   "coords": [
                         -16.658461,
@@ -2042,7 +2537,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Westfield Youth Monument",
-                  "text": "Westfield Youth Monument este un monument situat în Dippa Kunda.",
+                  "text": "Monumentul Tineretului în Westfield, Kunda.",
                   "category": "historical",
                   "coords": [
                         -16.67507,
@@ -2051,7 +2546,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Alliance Française de Banjul",
-                  "text": "Alliance Française de Banjul este un centru de arte situat în Dippa Kunda.",
+                  "text": "Filiala Alliance Française în Kunda, oferind cursuri de limbă franceză și evenimente culturale.",
                   "category": "cultural",
                   "coords": [
                         -16.678321,
@@ -2060,7 +2555,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pipeline Mosque",
-                  "text": "Pipeline Mosque este un loc de cult situat în Dippa Kunda.",
+                  "text": "Moschee în orașul Kunda.",
                   "category": "religious",
                   "coords": [
                         -16.685138,
@@ -2071,7 +2566,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Tanbi Wetland National Park",
-                  "text": "Tanbi Wetland National Park is a nature reserve located in Dippa Kunda.",
+                  "text": "Mangrove wetland national park near Kunda.",
                   "category": "natural",
                   "coords": [
                         -16.622231,
@@ -2080,7 +2575,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tallinding Sitokoto",
-                  "text": "Tallinding Sitokoto is a monument located in Dippa Kunda.",
+                  "text": "Historical site of Tallinding Sitokoto, featuring the famous baobab tree, in Kunda.",
                   "category": "historical",
                   "coords": [
                         -16.658461,
@@ -2089,7 +2584,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Westfield Youth Monument",
-                  "text": "Westfield Youth Monument is a monument located in Dippa Kunda.",
+                  "text": "Youth monument in Westfield, Kunda.",
                   "category": "historical",
                   "coords": [
                         -16.67507,
@@ -2098,7 +2593,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Alliance Française de Banjul",
-                  "text": "Alliance Française de Banjul is an arts centre located in Dippa Kunda.",
+                  "text": "Alliance Française branch in Kunda, offering French language and cultural events.",
                   "category": "cultural",
                   "coords": [
                         -16.678321,
@@ -2107,7 +2602,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pipeline Mosque",
-                  "text": "Pipeline Mosque is a place of worship located in Dippa Kunda.",
+                  "text": "Mosque in the town of Kunda.",
                   "category": "religious",
                   "coords": [
                         -16.685138,
@@ -2253,7 +2748,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Tanji Bird Reserve",
-                  "text": "Tanji Bird Reserve ist ein Naturschutzgebiet in Tujereng.",
+                  "text": "Vogelschutzgebiet in Tujereng, bekannt für Zugvögel.",
                   "category": "natural",
                   "coords": [
                         -16.782546,
@@ -2262,7 +2757,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "art village turning",
-                  "text": "art village turning ist eine Attraktion in Tujereng.",
+                  "text": "Künstlerdorf an einer Straßenkurve in Tujereng mit lokalen Handwerksprodukten.",
                   "category": "landmark",
                   "coords": [
                         -16.788709,
@@ -2271,7 +2766,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Fish Market and Smokery",
-                  "text": "Fish Market and Smokery ist eine Attraktion in Tujereng.",
+                  "text": "Fischmarkt mit Räucherei in Tujereng, frischer und geräucherter Fisch.",
                   "category": "landmark",
                   "coords": [
                         -16.798133,
@@ -2282,7 +2777,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Tanji Bird Reserve",
-                  "text": "A Tanji Bird Reserve egy természetvédelmi terület Tujereng városában.",
+                  "text": "Madárrezervátum Tujereng-ben, híres vonuló madarakról.",
                   "category": "natural",
                   "coords": [
                         -16.782546,
@@ -2291,7 +2786,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "art village turning",
-                  "text": "Az art village turning egy látványosság Tujereng városában.",
+                  "text": "Művészfalu egy útfordulónál Tujereng-ben, helyi kézműves termékekkel.",
                   "category": "landmark",
                   "coords": [
                         -16.788709,
@@ -2300,7 +2795,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Fish Market and Smokery",
-                  "text": "A Fish Market and Smokery egy látványosság Tujereng városában.",
+                  "text": "Halpiac füstölővel Tujereng-ben, friss és füstölt halak árusítása.",
                   "category": "landmark",
                   "coords": [
                         -16.798133,
@@ -2311,7 +2806,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Tanji Bird Reserve",
-                  "text": "Tanji Bird Reserve este o rezervație naturală situată în Tujereng.",
+                  "text": "Rezervația de păsări din Tujereng, cunoscută pentru păsările migratoare.",
                   "category": "natural",
                   "coords": [
                         -16.782546,
@@ -2320,7 +2815,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "art village turning",
-                  "text": "art village turning este o atracție situată în Tujereng.",
+                  "text": "Satul artistic la o cotitură de drum în Tujereng, cu meșteșuguri locale.",
                   "category": "landmark",
                   "coords": [
                         -16.788709,
@@ -2329,7 +2824,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Fish Market and Smokery",
-                  "text": "Fish Market and Smokery este o atracție situată în Tujereng.",
+                  "text": "Piață de pește cu afumătorie în Tujereng, vânzare de pește proaspăt și afumat.",
                   "category": "landmark",
                   "coords": [
                         -16.798133,
@@ -2340,7 +2835,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Tanji Bird Reserve",
-                  "text": "Tanji Bird Reserve is a nature reserve located in Tujereng.",
+                  "text": "Bird reserve in Tujereng known for migratory birds.",
                   "category": "natural",
                   "coords": [
                         -16.782546,
@@ -2349,7 +2844,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "art village turning",
-                  "text": "art village turning is an attraction located in Tujereng.",
+                  "text": "Art village at a road turning in Tujereng, featuring local crafts.",
                   "category": "landmark",
                   "coords": [
                         -16.788709,
@@ -2358,7 +2853,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Fish Market and Smokery",
-                  "text": "Fish Market and Smokery is an attraction located in Tujereng.",
+                  "text": "Fish market with smoking facility in Tujereng, selling fresh and smoked fish.",
                   "category": "landmark",
                   "coords": [
                         -16.798133,
@@ -2503,7 +2998,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Tanbi Wetland National Park",
-                  "text": "Tanbi Wetland National Park ist ein Naturschutzgebiet in Yundum.",
+                  "text": "Mangroven-Feuchtgebiet-Nationalpark nahe Yundum.",
                   "category": "natural",
                   "coords": [
                         -16.622231,
@@ -2512,7 +3007,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Elephant Tree",
-                  "text": "Elephant Tree ist eine Attraktion in Yundum.",
+                  "text": "Ein elefantenförmiger Baum nahe Yundum, ein Naturwahrzeichen.",
                   "category": "landmark",
                   "coords": [
                         -16.622798,
@@ -2523,7 +3018,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Tanbi Wetland National Park",
-                  "text": "A Tanbi Wetland National Park egy természetvédelmi terület Yundum városában.",
+                  "text": "Mangrove mocsaras nemzeti park Yundum közelében.",
                   "category": "natural",
                   "coords": [
                         -16.622231,
@@ -2532,7 +3027,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Elephant Tree",
-                  "text": "Az Elephant Tree egy látványosság Yundum városában.",
+                  "text": "Egy elefánt alakú fa Yundum közelében, természeti nevezetesség.",
                   "category": "landmark",
                   "coords": [
                         -16.622798,
@@ -2543,7 +3038,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Tanbi Wetland National Park",
-                  "text": "Tanbi Wetland National Park este o rezervație naturală situată în Yundum.",
+                  "text": "Parcul național de mangrove umede lângă Yundum.",
                   "category": "natural",
                   "coords": [
                         -16.622231,
@@ -2552,7 +3047,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Elephant Tree",
-                  "text": "Elephant Tree este o atracție situată în Yundum.",
+                  "text": "Un copac în formă de elefant lângă Yundum, un reper natural.",
                   "category": "landmark",
                   "coords": [
                         -16.622798,
@@ -2563,7 +3058,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Tanbi Wetland National Park",
-                  "text": "Tanbi Wetland National Park is a nature reserve located in Yundum.",
+                  "text": "Mangrove wetland national park near Yundum.",
                   "category": "natural",
                   "coords": [
                         -16.622231,
@@ -2572,7 +3067,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Elephant Tree",
-                  "text": "Elephant Tree is an attraction located in Yundum.",
+                  "text": "A tree shaped like an elephant near Yundum, a natural landmark.",
                   "category": "landmark",
                   "coords": [
                         -16.622798,
@@ -2624,7 +3119,160 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "kotu-cities-v2", "sights": {"de": [{"name": "Kololi Beach", "text": "Dieser in der Nähe von Kotu gelegene Teil des Kololi Beach bietet ein wunderschönes Stück der gambischen Küste. Besucher erwartet ein einladendes Sandufer, das sich hervorragend für entspannte Sonnenbäder und erfrischendes Schwimmen eignet. Das rhythmische Rauschen der Wellen erzeugt eine beruhigende Umgebung für alle Altersgruppen. Für einen mehrstündigen Aufenthalt empfiehlt es sich, ausreichend Trinkwasser mitzubringen.", "category": "recreational", "coords": [-16.719015, 13.454655]}, {"name": "Kotu Beach", "text": "Direkt im Zentrum von Kotu fungiert der Kotu Beach als klassisches Badeziel in Gambia. Die weitläufige Sandfläche lädt Gäste dazu ein, gemütliche Spaziergänge am Rand des Atlantiks zu unternehmen oder einfach in der Sonne zu entspannen. Er verbindet eine lebendige lokale Atmosphäre mit genügend Platz, um ein ruhiges Plätzchen am Wasser zu finden. Ein gutes Buch und ein Strandtuch reichen für einen perfekten Nachmittag völlig aus.", "category": "recreational", "coords": [-16.711258, 13.460914]}, {"name": "Ebun Jan Theatre", "text": "Ebun Jan Theatre ist ein Theater in Kotu.", "category": "cultural", "coords": [-16.674481, 13.462587]}, {"name": "Pipeline Mosque", "text": "Die Pipeline Mosque ist eine Kultstätte in Kotu.", "category": "religious", "coords": [-16.685138, 13.457628]}], "hu": [{"name": "Kololi Beach", "text": "A Kotu közelében húzódó Kololi Beach ezen szakasza csodálatos szeletet kínál a gambiai partvidékből. A látogatókat hívogató homokos part várja, amely tökéletesen alkalmas pihentető napozásra és frissítő úszásra. A hullámok ritmikus zúgása minden korosztály számára megnyugtató környezetet teremt. Ha több órát tölt itt, mindenképpen vigyen magával elegendő ivóvizet.", "category": "recreational", "coords": [-16.719015, 13.454655]}, {"name": "Kotu Beach", "text": "A Kotu szívében található Kotu Beach egy klasszikus tengerparti úti cél Gambiában. A kiterjedt homokos terület arra invitálja a vendégeket, hogy kényelmes sétákat tegyenek az Atlanti-óceán partján, vagy egyszerűen csak pihenjenek a napfényben. Remekül egyensúlyoz a pezsgő helyi hangulat és a békés vízparti terek között. Egy jó könyv és egy strandtörölköző bőven elég a tökéletes délutánhoz.", "category": "recreational", "coords": [-16.711258, 13.460914]}, {"name": "Ebun Jan Theatre", "text": "Az Ebun Jan Theatre egy színház Kotu területén.", "category": "cultural", "coords": [-16.674481, 13.462587]}, {"name": "Pipeline Mosque", "text": "A Pipeline Mosque egy istentiszteleti hely Kotu városában.", "category": "religious", "coords": [-16.685138, 13.457628]}], "ro": [{"name": "Kololi Beach", "text": "Întinzându-se în apropiere de Kotu, această parte a plajei Kololi Beach oferă o felie frumoasă a coastei gambiene. Vizitatorii vor găsi un țărm nisipos primitor, care este foarte potrivit pentru sesiuni relaxante de plajă și înoturi revigorante. Sunetul ritmic al valurilor creează un mediu liniștitor pentru toate vârstele. Pentru a petrece câteva ore aici, cel mai bine este să aveți la voi apă de băut din belșug.", "category": "recreational", "coords": [-16.719015, 13.454655]}, {"name": "Kotu Beach", "text": "Chiar în inima orașului Kotu, plaja Kotu Beach servește ca o destinație clasică la malul mării în Gambia. Zona vastă de nisip invită oaspeții să se bucure de plimbări relaxante de-a lungul marginii Atlanticului sau pur și simplu să se relaxeze sub soare. Aceasta echilibrează vibrația locală plină de viață cu suficient spațiu pentru a găsi un loc liniștit lângă apă. O carte bună și un prosop de plajă sunt tot ce aveți nevoie pentru o după-amiază perfectă.", "category": "recreational", "coords": [-16.711258, 13.460914]}, {"name": "Ebun Jan Theatre", "text": "Ebun Jan Theatre este un teatru în Kotu.", "category": "cultural", "coords": [-16.674481, 13.462587]}, {"name": "Pipeline Mosque", "text": "Pipeline Mosque este un lăcaș de cult din Kotu.", "category": "religious", "coords": [-16.685138, 13.457628]}], "en": [{"name": "Kololi Beach", "text": "Stretching near Kotu, this part of Kololi Beach offers a beautiful slice of the Gambian coastline. Visitors will find an inviting sandy shore that is well-suited for relaxing sunbathing sessions and refreshing swims. The rhythmic sound of the waves creates a soothing environment for all ages. Spending a few hours here is best complemented by carrying plenty of drinking water.", "category": "recreational", "coords": [-16.719015, 13.454655]}, {"name": "Kotu Beach", "text": "Right in the heart of Kotu, Kotu Beach serves as a classic seaside destination in Gambia. The expansive sandy area invites guests to enjoy leisurely walks along the Atlantic edge or to simply relax under the sun. It balances a lively local vibe with enough space to find a peaceful spot by the water. Bringing a good book and a beach towel is all you need for a perfect afternoon.", "category": "recreational", "coords": [-16.711258, 13.460914]}, {"name": "Ebun Jan Theatre", "text": "Ebun Jan Theatre is a theatre in Kotu.", "category": "cultural", "coords": [-16.674481, 13.462587]}, {"name": "Pipeline Mosque", "text": "Pipeline Mosque is a place of worship in Kotu.", "category": "religious", "coords": [-16.685138, 13.457628]}]},
+    id: "kotu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kololi Beach",
+                  "text": "Dieser in der Nähe von Kotu gelegene Teil des Kololi Beach bietet ein wunderschönes Stück der gambischen Küste. Besucher erwartet ein einladendes Sandufer, das sich hervorragend für entspannte Sonnenbäder und erfrischendes Schwimmen eignet. Das rhythmische Rauschen der Wellen erzeugt eine beruhigende Umgebung für alle Altersgruppen. Für einen mehrstündigen Aufenthalt empfiehlt es sich, ausreichend Trinkwasser mitzubringen.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.719015,
+                        13.454655
+                  ]
+            },
+            {
+                  "name": "Kotu Beach",
+                  "text": "Direkt im Zentrum von Kotu fungiert der Kotu Beach als klassisches Badeziel in Gambia. Die weitläufige Sandfläche lädt Gäste dazu ein, gemütliche Spaziergänge am Rand des Atlantiks zu unternehmen oder einfach in der Sonne zu entspannen. Er verbindet eine lebendige lokale Atmosphäre mit genügend Platz, um ein ruhiges Plätzchen am Wasser zu finden. Ein gutes Buch und ein Strandtuch reichen für einen perfekten Nachmittag völlig aus.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.711258,
+                        13.460914
+                  ]
+            },
+            {
+                  "name": "Ebun Jan Theatre",
+                  "text": "Ebun Jan Theatre, ein Kulturort in Kotu mit Theaterstücken und Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.674481,
+                        13.462587
+                  ]
+            },
+            {
+                  "name": "Pipeline Mosque",
+                  "text": "Moschee im Stadtteil Kotu.",
+                  "category": "religious",
+                  "coords": [
+                        -16.685138,
+                        13.457628
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kololi Beach",
+                  "text": "A Kotu közelében húzódó Kololi Beach ezen szakasza csodálatos szeletet kínál a gambiai partvidékből. A látogatókat hívogató homokos part várja, amely tökéletesen alkalmas pihentető napozásra és frissítő úszásra. A hullámok ritmikus zúgása minden korosztály számára megnyugtató környezetet teremt. Ha több órát tölt itt, mindenképpen vigyen magával elegendő ivóvizet.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.719015,
+                        13.454655
+                  ]
+            },
+            {
+                  "name": "Kotu Beach",
+                  "text": "A Kotu szívében található Kotu Beach egy klasszikus tengerparti úti cél Gambiában. A kiterjedt homokos terület arra invitálja a vendégeket, hogy kényelmes sétákat tegyenek az Atlanti-óceán partján, vagy egyszerűen csak pihenjenek a napfényben. Remekül egyensúlyoz a pezsgő helyi hangulat és a békés vízparti terek között. Egy jó könyv és egy strandtörölköző bőven elég a tökéletes délutánhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.711258,
+                        13.460914
+                  ]
+            },
+            {
+                  "name": "Ebun Jan Theatre",
+                  "text": "Ebun Jan Theatre, kulturális helyszín Kotu-ban, színdarabokkal és eseményekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.674481,
+                        13.462587
+                  ]
+            },
+            {
+                  "name": "Pipeline Mosque",
+                  "text": "Mecset Kotu negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -16.685138,
+                        13.457628
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kololi Beach",
+                  "text": "Întinzându-se în apropiere de Kotu, această parte a plajei Kololi Beach oferă o felie frumoasă a coastei gambiene. Vizitatorii vor găsi un țărm nisipos primitor, care este foarte potrivit pentru sesiuni relaxante de plajă și înoturi revigorante. Sunetul ritmic al valurilor creează un mediu liniștitor pentru toate vârstele. Pentru a petrece câteva ore aici, cel mai bine este să aveți la voi apă de băut din belșug.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.719015,
+                        13.454655
+                  ]
+            },
+            {
+                  "name": "Kotu Beach",
+                  "text": "Chiar în inima orașului Kotu, plaja Kotu Beach servește ca o destinație clasică la malul mării în Gambia. Zona vastă de nisip invită oaspeții să se bucure de plimbări relaxante de-a lungul marginii Atlanticului sau pur și simplu să se relaxeze sub soare. Aceasta echilibrează vibrația locală plină de viață cu suficient spațiu pentru a găsi un loc liniștit lângă apă. O carte bună și un prosop de plajă sunt tot ce aveți nevoie pentru o după-amiază perfectă.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.711258,
+                        13.460914
+                  ]
+            },
+            {
+                  "name": "Ebun Jan Theatre",
+                  "text": "Teatrul Ebun Jan, un spațiu cultural în Kotu care găzduiește piese de teatru și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.674481,
+                        13.462587
+                  ]
+            },
+            {
+                  "name": "Pipeline Mosque",
+                  "text": "Moschee în cartierul Kotu.",
+                  "category": "religious",
+                  "coords": [
+                        -16.685138,
+                        13.457628
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kololi Beach",
+                  "text": "Stretching near Kotu, this part of Kololi Beach offers a beautiful slice of the Gambian coastline. Visitors will find an inviting sandy shore that is well-suited for relaxing sunbathing sessions and refreshing swims. The rhythmic sound of the waves creates a soothing environment for all ages. Spending a few hours here is best complemented by carrying plenty of drinking water.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.719015,
+                        13.454655
+                  ]
+            },
+            {
+                  "name": "Kotu Beach",
+                  "text": "Right in the heart of Kotu, Kotu Beach serves as a classic seaside destination in Gambia. The expansive sandy area invites guests to enjoy leisurely walks along the Atlantic edge or to simply relax under the sun. It balances a lively local vibe with enough space to find a peaceful spot by the water. Bringing a good book and a beach towel is all you need for a perfect afternoon.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.711258,
+                        13.460914
+                  ]
+            },
+            {
+                  "name": "Ebun Jan Theatre",
+                  "text": "Ebun Jan Theatre, a cultural venue in Kotu hosting plays and events.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.674481,
+                        13.462587
+                  ]
+            },
+            {
+                  "name": "Pipeline Mosque",
+                  "text": "Mosque in the Kotu district.",
+                  "category": "religious",
+                  "coords": [
+                        -16.685138,
+                        13.457628
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GM-W",
     coords: [-16.7, 13.4667],
@@ -2669,7 +3317,196 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     image: "/poi-images/kotu-cities-v2.webp"
   },
   {
-    id: "manjai-kunda-cities-v2", "sights": {"de": [{"name": "Kololi Beach", "text": "Bekannt als beliebter Sandstrand in Manjai Kunda, präsentiert der Kololi Beach die natürliche Schönheit Gambias. Menschen kommen hierher, um den weichen Sand unter den Füßen zu spüren und sich bei einem erfrischenden Bad im Ozean abzukühlen. Die maritime Umgebung lädt ganz natürlich zum Entspannen und zum Genießen der Panoramasicht auf das Meer ein. Sonnenaufgang und Sonnenuntergang sind besonders magische Momente für einen Besuch.", "category": "recreational", "coords": [-16.719015, 13.454655]}, {"name": "Senegambia Beach", "text": "Der Senegambia Beach ist ein bekanntes Küstenjuwel eingebettet in Manjai Kunda, das ein unvergessliches gambisches Stranderlebnis bietet. Dieser Küstenstreifen eignet sich hervorragend für ausgiebige Strandspaziergänge und ruhige Stunden in der Sonne. Besucher erwartet eine dynamische Mischung aus Einheimischen und Reisenden, die gemeinsam das maritime Ambiente genießen. Ein leichter Sonnenhut und eine Sonnenbrille sind praktische Begleiter für einen sonnigen Tag.", "category": "recreational", "coords": [-16.725213, 13.443951]}, {"name": "Bijilo Forest Park", "text": "Der Bijilo Forest Park ist eine Sehenswürdigkeit in Manjai Kunda. Es ist ein Waldpark in Gambia.", "category": "landmark", "coords": [-16.728552, 13.431525]}, {"name": "Westfield Youth Monument", "text": "Das Westfield Youth Monument ist ein Denkmal in Manjai Kunda.", "category": "historical", "coords": [-16.67507, 13.445396]}, {"name": "Alliance Française de Banjul", "text": "Alliance Française de Banjul ist ein Kunstzentrum in Manjai Kunda.", "category": "cultural", "coords": [-16.678321, 13.448294]}], "hu": [{"name": "Kololi Beach", "text": "A Manjai Kunda népszerű homokos menedékeként ismert Kololi Beach bemutatja Gambia természetes szépségét. Az emberek azért jönnek ide, hogy érezzék a puha homokot a lábujjaik között, és élvezzék a frissítő mártózást az óceánban. A tengerparti környezet természetes módon ösztönöz a lazításra és a tengeri panoráma befogadására. A napkelte és a napnyugta különösen varázslatos időszaka a látogatásnak.", "category": "recreational", "coords": [-16.719015, 13.454655]}, {"name": "Senegambia Beach", "text": "A Senegambia Beach egy jól ismert tengerparti gyöngyszem Manjai Kundában, amely emlékezetes gambiai tengerparti élményt nyújt. Ez a partszakasz tökéletes lendületes parti sétákhoz és csendes, napozással töltött órákhoz. A helyiek és az utazók dinamikus keveréke várja, akik mind a partvidéki hangulatot élvezik. Egy könnyű kalap és egy napszemüveg praktikus társ egy napsütéses sétához.", "category": "recreational", "coords": [-16.725213, 13.443951]}, {"name": "Bijilo Forest Park", "text": "A Bijilo Forest Park egy látványosság Manjai Kunda városában. Ez egy erdei park Gambiában.", "category": "landmark", "coords": [-16.728552, 13.431525]}, {"name": "Westfield Youth Monument", "text": "A Westfield Youth Monument egy műemlék Manjai Kunda városában.", "category": "historical", "coords": [-16.67507, 13.445396]}, {"name": "Alliance Française de Banjul", "text": "Az Alliance Française de Banjul egy művészeti központ Manjai Kunda városában.", "category": "cultural", "coords": [-16.678321, 13.448294]}], "ro": [{"name": "Kololi Beach", "text": "Cunoscută ca un refugiu popular cu nisip în Manjai Kunda, plaja Kololi Beach prezintă frumusețea naturală a Gambiei. Oamenii vin aici pentru a simți nisipul fin sub picioare și pentru a se bucura de o baie răcoritoare în ocean. Mediul de coastă încurajează în mod natural relaxarea și admirarea priveliștilor panoramice la mare. Răsăritul și apusul soarelui sunt momente deosebit de magice pentru a vizita această locație pitorească.", "category": "recreational", "coords": [-16.719015, 13.454655]}, {"name": "Senegambia Beach", "text": "Senegambia Beach este o bijuterie de coastă bine cunoscută, cuibărită în Manjai Kunda, care oferă o experiență memorabilă la malul mării în Gambia. Această porțiune de țărm este perfectă pentru plimbări energice pe plajă și pentru a petrece ore liniștite la soare. Vă puteți aștepta la un amestec dinamic de localnici și călători care se bucură de ambianța de coastă. O pălărie ușoară și ochelarii de soare sunt tovarăși practici pentru o plimbare însorită.", "category": "recreational", "coords": [-16.725213, 13.443951]}, {"name": "Bijilo Forest Park", "text": "Bijilo Forest Park este o atracție situată în Manjai Kunda. Este un parc forestier din Gambia.", "category": "landmark", "coords": [-16.728552, 13.431525]}, {"name": "Westfield Youth Monument", "text": "Westfield Youth Monument este un monument situat în Manjai Kunda.", "category": "historical", "coords": [-16.67507, 13.445396]}, {"name": "Alliance Française de Banjul", "text": "Alliance Française de Banjul este un centru de arte situat în Manjai Kunda.", "category": "cultural", "coords": [-16.678321, 13.448294]}], "en": [{"name": "Kololi Beach", "text": "Renowned as a popular sandy retreat in Manjai Kunda, Kololi Beach showcases the natural beauty of Gambia. People flock here to feel the soft sand between their toes and enjoy refreshing dips in the ocean. The coastal environment here naturally encourages unwinding and taking in the panoramic sea views. Sunrise and sunset are particularly magical times to visit this scenic location.", "category": "recreational", "coords": [-16.719015, 13.454655]}, {"name": "Senegambia Beach", "text": "Senegambia Beach is a well-known coastal gem nestled in Manjai Kunda, offering a memorable Gambian seaside experience. This stretch of shore is perfect for energetic beach walks and spending quiet hours sunbathing. You can expect a dynamic blend of locals and travelers enjoying the coastal ambiance. A lightweight hat and sunglasses are practical companions for a sunny stroll.", "category": "recreational", "coords": [-16.725213, 13.443951]}, {"name": "Bijilo Forest Park", "text": "Bijilo Forest Park is an attraction located in Manjai Kunda. It is a forest park in The Gambia.", "category": "landmark", "coords": [-16.728552, 13.431525]}, {"name": "Westfield Youth Monument", "text": "Westfield Youth Monument is a monument located in Manjai Kunda.", "category": "historical", "coords": [-16.67507, 13.445396]}, {"name": "Alliance Française de Banjul", "text": "Alliance Française de Banjul is an arts centre located in Manjai Kunda.", "category": "cultural", "coords": [-16.678321, 13.448294]}]},
+    id: "manjai-kunda-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kololi Beach",
+                  "text": "Bekannt als beliebter Sandstrand in Manjai Kunda, präsentiert der Kololi Beach die natürliche Schönheit Gambias. Menschen kommen hierher, um den weichen Sand unter den Füßen zu spüren und sich bei einem erfrischenden Bad im Ozean abzukühlen. Die maritime Umgebung lädt ganz natürlich zum Entspannen und zum Genießen der Panoramasicht auf das Meer ein. Sonnenaufgang und Sonnenuntergang sind besonders magische Momente für einen Besuch.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.719015,
+                        13.454655
+                  ]
+            },
+            {
+                  "name": "Senegambia Beach",
+                  "text": "Der Senegambia Beach ist ein bekanntes Küstenjuwel eingebettet in Manjai Kunda, das ein unvergessliches gambisches Stranderlebnis bietet. Dieser Küstenstreifen eignet sich hervorragend für ausgiebige Strandspaziergänge und ruhige Stunden in der Sonne. Besucher erwartet eine dynamische Mischung aus Einheimischen und Reisenden, die gemeinsam das maritime Ambiente genießen. Ein leichter Sonnenhut und eine Sonnenbrille sind praktische Begleiter für einen sonnigen Tag.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.725213,
+                        13.443951
+                  ]
+            },
+            {
+                  "name": "Bijilo Forest Park",
+                  "text": "1982 gegründeter Waldpark bei Kunda an der Küste.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.728552,
+                        13.431525
+                  ]
+            },
+            {
+                  "name": "Westfield Youth Monument",
+                  "text": "Jugenddenkmal in Westfield, Kunda.",
+                  "category": "historical",
+                  "coords": [
+                        -16.67507,
+                        13.445396
+                  ]
+            },
+            {
+                  "name": "Alliance Française de Banjul",
+                  "text": "Alliance Française-Zweigstelle in Kunda mit Französischkursen und Kulturveranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.678321,
+                        13.448294
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kololi Beach",
+                  "text": "A Manjai Kunda népszerű homokos menedékeként ismert Kololi Beach bemutatja Gambia természetes szépségét. Az emberek azért jönnek ide, hogy érezzék a puha homokot a lábujjaik között, és élvezzék a frissítő mártózást az óceánban. A tengerparti környezet természetes módon ösztönöz a lazításra és a tengeri panoráma befogadására. A napkelte és a napnyugta különösen varázslatos időszaka a látogatásnak.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.719015,
+                        13.454655
+                  ]
+            },
+            {
+                  "name": "Senegambia Beach",
+                  "text": "A Senegambia Beach egy jól ismert tengerparti gyöngyszem Manjai Kundában, amely emlékezetes gambiai tengerparti élményt nyújt. Ez a partszakasz tökéletes lendületes parti sétákhoz és csendes, napozással töltött órákhoz. A helyiek és az utazók dinamikus keveréke várja, akik mind a partvidéki hangulatot élvezik. Egy könnyű kalap és egy napszemüveg praktikus társ egy napsütéses sétához.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.725213,
+                        13.443951
+                  ]
+            },
+            {
+                  "name": "Bijilo Forest Park",
+                  "text": "1982-ben alapított erdei park Kunda közelében, a tengerparton.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.728552,
+                        13.431525
+                  ]
+            },
+            {
+                  "name": "Westfield Youth Monument",
+                  "text": "Ifjúsági emlékmű Westfield-ben, Kunda-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -16.67507,
+                        13.445396
+                  ]
+            },
+            {
+                  "name": "Alliance Française de Banjul",
+                  "text": "Alliance Française fiók Kunda-ban, francia nyelvtanfolyamokkal és kulturális eseményekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.678321,
+                        13.448294
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kololi Beach",
+                  "text": "Cunoscută ca un refugiu popular cu nisip în Manjai Kunda, plaja Kololi Beach prezintă frumusețea naturală a Gambiei. Oamenii vin aici pentru a simți nisipul fin sub picioare și pentru a se bucura de o baie răcoritoare în ocean. Mediul de coastă încurajează în mod natural relaxarea și admirarea priveliștilor panoramice la mare. Răsăritul și apusul soarelui sunt momente deosebit de magice pentru a vizita această locație pitorească.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.719015,
+                        13.454655
+                  ]
+            },
+            {
+                  "name": "Senegambia Beach",
+                  "text": "Senegambia Beach este o bijuterie de coastă bine cunoscută, cuibărită în Manjai Kunda, care oferă o experiență memorabilă la malul mării în Gambia. Această porțiune de țărm este perfectă pentru plimbări energice pe plajă și pentru a petrece ore liniștite la soare. Vă puteți aștepta la un amestec dinamic de localnici și călători care se bucură de ambianța de coastă. O pălărie ușoară și ochelarii de soare sunt tovarăși practici pentru o plimbare însorită.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.725213,
+                        13.443951
+                  ]
+            },
+            {
+                  "name": "Bijilo Forest Park",
+                  "text": "Parcul forestier înființat în 1982 lângă Kunda, pe coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.728552,
+                        13.431525
+                  ]
+            },
+            {
+                  "name": "Westfield Youth Monument",
+                  "text": "Monumentul Tineretului în Westfield, Kunda.",
+                  "category": "historical",
+                  "coords": [
+                        -16.67507,
+                        13.445396
+                  ]
+            },
+            {
+                  "name": "Alliance Française de Banjul",
+                  "text": "Filiala Alliance Française în Kunda, oferind cursuri de limbă franceză și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.678321,
+                        13.448294
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kololi Beach",
+                  "text": "Renowned as a popular sandy retreat in Manjai Kunda, Kololi Beach showcases the natural beauty of Gambia. People flock here to feel the soft sand between their toes and enjoy refreshing dips in the ocean. The coastal environment here naturally encourages unwinding and taking in the panoramic sea views. Sunrise and sunset are particularly magical times to visit this scenic location.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.719015,
+                        13.454655
+                  ]
+            },
+            {
+                  "name": "Senegambia Beach",
+                  "text": "Senegambia Beach is a well-known coastal gem nestled in Manjai Kunda, offering a memorable Gambian seaside experience. This stretch of shore is perfect for energetic beach walks and spending quiet hours sunbathing. You can expect a dynamic blend of locals and travelers enjoying the coastal ambiance. A lightweight hat and sunglasses are practical companions for a sunny stroll.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.725213,
+                        13.443951
+                  ]
+            },
+            {
+                  "name": "Bijilo Forest Park",
+                  "text": "Forest park established in 1982 near Kunda on the coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.728552,
+                        13.431525
+                  ]
+            },
+            {
+                  "name": "Westfield Youth Monument",
+                  "text": "Youth monument in Westfield, Kunda.",
+                  "category": "historical",
+                  "coords": [
+                        -16.67507,
+                        13.445396
+                  ]
+            },
+            {
+                  "name": "Alliance Française de Banjul",
+                  "text": "Alliance Française branch in Kunda, offering French language and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.678321,
+                        13.448294
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GM-W",
     coords: [-16.7, 13.4333],
@@ -2718,7 +3555,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Tanbi Wetland National Park",
-                  "text": "Tanbi Wetland National Park ist ein Naturschutzgebiet in Bakoteh.",
+                  "text": "Mangroven-Feuchtgebiet-Nationalpark nahe Bakoteh.",
                   "category": "natural",
                   "coords": [
                         -16.622231,
@@ -2727,7 +3564,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "MyFarm",
-                  "text": "MyFarm ist eine Attraktion in Bakoteh.",
+                  "text": "Ein Bauernhof in Bakoteh mit landwirtschaftlichen Erlebnissen.",
                   "category": "landmark",
                   "coords": [
                         -16.690703,
@@ -2738,7 +3575,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Tanbi Wetland National Park",
-                  "text": "A Tanbi Wetland National Park egy természetvédelmi terület Bakoteh városában.",
+                  "text": "Mangrove mocsaras nemzeti park Bakoteh közelében.",
                   "category": "natural",
                   "coords": [
                         -16.622231,
@@ -2747,7 +3584,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "MyFarm",
-                  "text": "A MyFarm egy látványosság Bakoteh városában.",
+                  "text": "Egy farm Bakoteh-ban, mezőgazdasági élményekkel.",
                   "category": "landmark",
                   "coords": [
                         -16.690703,
@@ -2758,7 +3595,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Tanbi Wetland National Park",
-                  "text": "Tanbi Wetland National Park este o rezervație naturală situată în Bakoteh.",
+                  "text": "Parcul național de mangrove umede lângă Bakoteh.",
                   "category": "natural",
                   "coords": [
                         -16.622231,
@@ -2767,7 +3604,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "MyFarm",
-                  "text": "MyFarm este o atracție situată în Bakoteh.",
+                  "text": "O fermă în Bakoteh care oferă experiențe agricole.",
                   "category": "landmark",
                   "coords": [
                         -16.690703,
@@ -2778,7 +3615,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Tanbi Wetland National Park",
-                  "text": "Tanbi Wetland National Park is a nature reserve located in Bakoteh.",
+                  "text": "Mangrove wetland national park near Bakoteh.",
                   "category": "natural",
                   "coords": [
                         -16.622231,
@@ -2787,7 +3624,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "MyFarm",
-                  "text": "MyFarm is an attraction located in Bakoteh.",
+                  "text": "A farm in Bakoteh offering agricultural experiences.",
                   "category": "landmark",
                   "coords": [
                         -16.690703,
@@ -2844,7 +3681,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Ebun Jan Theatre",
-                  "text": "Ebun Jan Theatre ist ein Theater in Old Jeshwang.",
+                  "text": "Ebun Jan Theatre, ein Kulturort in Jeshwang mit Theaterstücken und Veranstaltungen.",
                   "category": "cultural",
                   "coords": [
                         -16.674481,
@@ -2853,7 +3690,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tanbi Wetland National Park",
-                  "text": "Der Tanbi Wetland National Park ist ein Naturschutzgebiet in Old Jeshwang.",
+                  "text": "Mangroven-Feuchtgebiet in Jeshwang, ein Rastplatz für Zugvögel.",
                   "category": "natural",
                   "coords": [
                         -16.622231,
@@ -2862,7 +3699,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Kachikally Crocodile Pool",
-                  "text": "Kachikally Crocodile Pool ist eine bekannte Attraktion in Old Jeshwang.",
+                  "text": "Kachikally-Krokodilbecken in Jeshwang, Gambia, ein heiliger Ort mit vielen Krokodilen.",
                   "category": "landmark",
                   "coords": [
                         -16.672562,
@@ -2873,7 +3710,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Ebun Jan Theatre",
-                  "text": "Az Ebun Jan Theatre egy színház Old Jeshwang városában.",
+                  "text": "Ebun Jan Theatre, kulturális helyszín Jeshwang-ban, színdarabokkal és eseményekkel.",
                   "category": "cultural",
                   "coords": [
                         -16.674481,
@@ -2882,7 +3719,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tanbi Wetland National Park",
-                  "text": "A Tanbi Wetland National Park egy természetvédelmi terület Old Jeshwang területén.",
+                  "text": "Mangrove-mocsár Jeshwangban, a vándormadarak pihenőhelye.",
                   "category": "natural",
                   "coords": [
                         -16.622231,
@@ -2891,7 +3728,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Kachikally Crocodile Pool",
-                  "text": "A Kachikally Crocodile Pool egy híres látványosság Old Jeshwang városában.",
+                  "text": "Kachikally krokodilmedence Jeshwang-ban, Gambiában, szent hely sok krokodillal.",
                   "category": "landmark",
                   "coords": [
                         -16.672562,
@@ -2902,7 +3739,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Ebun Jan Theatre",
-                  "text": "Ebun Jan Theatre este un teatru în Old Jeshwang.",
+                  "text": "Teatrul Ebun Jan, un spațiu cultural în Jeshwang care găzduiește piese de teatru și evenimente.",
                   "category": "cultural",
                   "coords": [
                         -16.674481,
@@ -2911,7 +3748,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tanbi Wetland National Park",
-                  "text": "Tanbi Wetland National Park este o rezervație naturală în Old Jeshwang.",
+                  "text": "Rezervație naturală de mangrove în Jeshwang, loc de popas pentru păsările migratoare.",
                   "category": "natural",
                   "coords": [
                         -16.622231,
@@ -2920,7 +3757,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Kachikally Crocodile Pool",
-                  "text": "Kachikally Crocodile Pool este o atracție notabilă din Old Jeshwang.",
+                  "text": "Bazinul cu crocodili Kachikally din Jeshwang, Gambia, un loc sacru cu mulți crocodili.",
                   "category": "landmark",
                   "coords": [
                         -16.672562,
@@ -2931,7 +3768,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Ebun Jan Theatre",
-                  "text": "Ebun Jan Theatre is a theatre in Old Jeshwang.",
+                  "text": "Ebun Jan Theatre, a cultural venue in Jeshwang hosting plays and events.",
                   "category": "cultural",
                   "coords": [
                         -16.674481,
@@ -2940,7 +3777,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tanbi Wetland National Park",
-                  "text": "Tanbi Wetland National Park is a nature reserve in Old Jeshwang.",
+                  "text": "Mangrove wetland in Jeshwang, a haven for migratory birds.",
                   "category": "natural",
                   "coords": [
                         -16.622231,
@@ -2949,7 +3786,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Kachikally Crocodile Pool",
-                  "text": "Kachikally Crocodile Pool is a notable attraction in Old Jeshwang.",
+                  "text": "Kachikally Crocodile Pool in Jeshwang, Gambia, a sacred site with many crocodiles.",
                   "category": "landmark",
                   "coords": [
                         -16.672562,
@@ -3092,7 +3929,232 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     image: "/poi-images/ebo-town-cities-v2.webp"
   },
   {
-    id: "latri-kunda-cities-v2", "sights": {"de": [{"name": "Kotu Beach", "text": "Der von Latri Kunda aus zugängliche Kotu Beach unterstreicht die einladende Natur der gambischen Küstenlinie. Besucher werden von den beruhigenden Geräuschen der Wellen und den weiten, zum Faulenzen idealen Sandflächen angezogen. Hier bietet sich eine wunderbare Gelegenheit, abzuschalten und den entspannten Lebensstil am Meer anzunehmen. Abendliche Spaziergänge sind hier besonders lohnend, wenn die Hitze des Tages langsam nachlässt.", "category": "recreational", "coords": [-16.711258, 13.460914]}, {"name": "Ebun Jan Theatre", "text": "Ebun Jan Theatre ist ein Theater in Latri Kunda.", "category": "cultural", "coords": [-16.674481, 13.462587]}, {"name": "Tanbi Wetland National Park", "text": "Tanbi Wetland National Park ist ein Naturschutzgebiet in Latri Kunda.", "category": "natural", "coords": [-16.622231, 13.424589]}, {"name": "Westfield Youth Monument", "text": "Westfield Youth Monument ist ein Denkmal in Latri Kunda.", "category": "historical", "coords": [-16.67507, 13.445396]}, {"name": "Alliance Française de Banjul", "text": "Alliance Française de Banjul ist ein Kunstzentrum in Latri Kunda.", "category": "cultural", "coords": [-16.678321, 13.448294]}, {"name": "Pipeline Mosque", "text": "Pipeline Mosque ist eine Kultstätte in Latri Kunda.", "category": "religious", "coords": [-16.685138, 13.457628]}], "hu": [{"name": "Kotu Beach", "text": "A Latri Kunda felől megközelíthető Kotu Beach Gambia partvidékének vendégszerető jellegét hangsúlyozza. A látogatókat vonzza a hullámok megnyugtató hangja és a heverészéshez ideális, széles homokos területek. Csodálatos lehetőséget kínál a kikapcsolódásra és a laza tengerparti életmód befogadására. Az esti séták itt különösen hálásak, amikor a nappali hőség elkezd enyhülni.", "category": "recreational", "coords": [-16.711258, 13.460914]}, {"name": "Ebun Jan Theatre", "text": "Az Ebun Jan Theatre egy színház Latri Kunda városában.", "category": "cultural", "coords": [-16.674481, 13.462587]}, {"name": "Tanbi Wetland National Park", "text": "A Tanbi Wetland National Park egy természetvédelmi terület Latri Kunda városában.", "category": "natural", "coords": [-16.622231, 13.424589]}, {"name": "Westfield Youth Monument", "text": "A Westfield Youth Monument egy emlékmű Latri Kunda városában.", "category": "historical", "coords": [-16.67507, 13.445396]}, {"name": "Alliance Française de Banjul", "text": "Az Alliance Française de Banjul egy művészeti központ Latri Kunda városában.", "category": "cultural", "coords": [-16.678321, 13.448294]}, {"name": "Pipeline Mosque", "text": "A Pipeline Mosque egy istentiszteleti hely Latri Kunda városában.", "category": "religious", "coords": [-16.685138, 13.457628]}], "ro": [{"name": "Kotu Beach", "text": "Accesibilă din Latri Kunda, plaja Kotu Beach evidențiază natura primitoare a coastei gambiene. Vizitatorii sunt atrași de sunetele liniștitoare ale valurilor și de întinderile largi de nisip, care sunt ideale pentru a lenevi. Oferă o oportunitate minunată de a vă deconecta și de a îmbrățișa stilul de viață relaxat de pe coastă. Plimbările de seară pe aici sunt foarte pline de satisfacții pe măsură ce căldura zilei începe să scadă.", "category": "recreational", "coords": [-16.711258, 13.460914]}, {"name": "Ebun Jan Theatre", "text": "Ebun Jan Theatre este un teatru situat în Latri Kunda.", "category": "cultural", "coords": [-16.674481, 13.462587]}, {"name": "Tanbi Wetland National Park", "text": "Tanbi Wetland National Park este o rezervație naturală situată în Latri Kunda.", "category": "natural", "coords": [-16.622231, 13.424589]}, {"name": "Westfield Youth Monument", "text": "Westfield Youth Monument este un monument situat în Latri Kunda.", "category": "historical", "coords": [-16.67507, 13.445396]}, {"name": "Alliance Française de Banjul", "text": "Alliance Française de Banjul este un centru de arte situat în Latri Kunda.", "category": "cultural", "coords": [-16.678321, 13.448294]}, {"name": "Pipeline Mosque", "text": "Pipeline Mosque este un loc de cult situat în Latri Kunda.", "category": "religious", "coords": [-16.685138, 13.457628]}], "en": [{"name": "Kotu Beach", "text": "Accessible from Latri Kunda, Kotu Beach highlights the welcoming nature of Gambia's coastline. Visitors are drawn to the soothing sounds of the waves and the broad sandy expanses that are ideal for lounging. It presents a wonderful opportunity to disconnect and embrace the laid-back coastal lifestyle. Evening walks here are highly rewarding as the day's heat begins to fade.", "category": "recreational", "coords": [-16.711258, 13.460914]}, {"name": "Ebun Jan Theatre", "text": "Ebun Jan Theatre is a theatre located in Latri Kunda.", "category": "cultural", "coords": [-16.674481, 13.462587]}, {"name": "Tanbi Wetland National Park", "text": "Tanbi Wetland National Park is a nature reserve located in Latri Kunda.", "category": "natural", "coords": [-16.622231, 13.424589]}, {"name": "Westfield Youth Monument", "text": "Westfield Youth Monument is a monument located in Latri Kunda.", "category": "historical", "coords": [-16.67507, 13.445396]}, {"name": "Alliance Française de Banjul", "text": "Alliance Française de Banjul is an arts centre located in Latri Kunda.", "category": "cultural", "coords": [-16.678321, 13.448294]}, {"name": "Pipeline Mosque", "text": "Pipeline Mosque is a place of worship located in Latri Kunda.", "category": "religious", "coords": [-16.685138, 13.457628]}]},
+    id: "latri-kunda-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kotu Beach",
+                  "text": "Der von Latri Kunda aus zugängliche Kotu Beach unterstreicht die einladende Natur der gambischen Küstenlinie. Besucher werden von den beruhigenden Geräuschen der Wellen und den weiten, zum Faulenzen idealen Sandflächen angezogen. Hier bietet sich eine wunderbare Gelegenheit, abzuschalten und den entspannten Lebensstil am Meer anzunehmen. Abendliche Spaziergänge sind hier besonders lohnend, wenn die Hitze des Tages langsam nachlässt.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.711258,
+                        13.460914
+                  ]
+            },
+            {
+                  "name": "Ebun Jan Theatre",
+                  "text": "Gemeindetheater in Kunda mit lokalen Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.674481,
+                        13.462587
+                  ]
+            },
+            {
+                  "name": "Tanbi Wetland National Park",
+                  "text": "Mangroven-Feuchtgebiet in Kunda, Heimat von Wasservögeln.",
+                  "category": "natural",
+                  "coords": [
+                        -16.622231,
+                        13.424589
+                  ]
+            },
+            {
+                  "name": "Westfield Youth Monument",
+                  "text": "Jugenddenkmal in Kunda, errichtet zur Erinnerung an die lokale Jugend.",
+                  "category": "historical",
+                  "coords": [
+                        -16.67507,
+                        13.445396
+                  ]
+            },
+            {
+                  "name": "Alliance Française de Banjul",
+                  "text": "Französisches Kulturinstitut in Kunda mit Sprachkursen und Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.678321,
+                        13.448294
+                  ]
+            },
+            {
+                  "name": "Pipeline Mosque",
+                  "text": "Moschee in Kunda (zweiter Standort).",
+                  "category": "religious",
+                  "coords": [
+                        -16.685138,
+                        13.457628
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kotu Beach",
+                  "text": "A Latri Kunda felől megközelíthető Kotu Beach Gambia partvidékének vendégszerető jellegét hangsúlyozza. A látogatókat vonzza a hullámok megnyugtató hangja és a heverészéshez ideális, széles homokos területek. Csodálatos lehetőséget kínál a kikapcsolódásra és a laza tengerparti életmód befogadására. Az esti séták itt különösen hálásak, amikor a nappali hőség elkezd enyhülni.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.711258,
+                        13.460914
+                  ]
+            },
+            {
+                  "name": "Ebun Jan Theatre",
+                  "text": "Közösségi színház Kundában, helyi előadások színhelye.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.674481,
+                        13.462587
+                  ]
+            },
+            {
+                  "name": "Tanbi Wetland National Park",
+                  "text": "Mangrove-mocsár Kundában, vízimadarak otthona.",
+                  "category": "natural",
+                  "coords": [
+                        -16.622231,
+                        13.424589
+                  ]
+            },
+            {
+                  "name": "Westfield Youth Monument",
+                  "text": "Ifjúsági emlékmű Kundában, a helyi ifjúság emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        -16.67507,
+                        13.445396
+                  ]
+            },
+            {
+                  "name": "Alliance Française de Banjul",
+                  "text": "Francia kulturális intézet Kundában, nyelvtanfolyamokkal és rendezvényekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.678321,
+                        13.448294
+                  ]
+            },
+            {
+                  "name": "Pipeline Mosque",
+                  "text": "Mecset Kundában (második helyszín).",
+                  "category": "religious",
+                  "coords": [
+                        -16.685138,
+                        13.457628
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kotu Beach",
+                  "text": "Accesibilă din Latri Kunda, plaja Kotu Beach evidențiază natura primitoare a coastei gambiene. Vizitatorii sunt atrași de sunetele liniștitoare ale valurilor și de întinderile largi de nisip, care sunt ideale pentru a lenevi. Oferă o oportunitate minunată de a vă deconecta și de a îmbrățișa stilul de viață relaxat de pe coastă. Plimbările de seară pe aici sunt foarte pline de satisfacții pe măsură ce căldura zilei începe să scadă.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.711258,
+                        13.460914
+                  ]
+            },
+            {
+                  "name": "Ebun Jan Theatre",
+                  "text": "Teatru comunitar în Kunda, gazdă a spectacolelor locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.674481,
+                        13.462587
+                  ]
+            },
+            {
+                  "name": "Tanbi Wetland National Park",
+                  "text": "Rezervație naturală de mangrove în Kunda, habitat pentru păsări acvatice.",
+                  "category": "natural",
+                  "coords": [
+                        -16.622231,
+                        13.424589
+                  ]
+            },
+            {
+                  "name": "Westfield Youth Monument",
+                  "text": "Monument al tineretului în Kunda, dedicat tinerilor locali.",
+                  "category": "historical",
+                  "coords": [
+                        -16.67507,
+                        13.445396
+                  ]
+            },
+            {
+                  "name": "Alliance Française de Banjul",
+                  "text": "Institut cultural francez în Kunda, cu cursuri de limbă și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.678321,
+                        13.448294
+                  ]
+            },
+            {
+                  "name": "Pipeline Mosque",
+                  "text": "Moschee în Kunda (al doilea amplasament).",
+                  "category": "religious",
+                  "coords": [
+                        -16.685138,
+                        13.457628
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kotu Beach",
+                  "text": "Accessible from Latri Kunda, Kotu Beach highlights the welcoming nature of Gambia's coastline. Visitors are drawn to the soothing sounds of the waves and the broad sandy expanses that are ideal for lounging. It presents a wonderful opportunity to disconnect and embrace the laid-back coastal lifestyle. Evening walks here are highly rewarding as the day's heat begins to fade.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.711258,
+                        13.460914
+                  ]
+            },
+            {
+                  "name": "Ebun Jan Theatre",
+                  "text": "Community theatre in Kunda hosting local performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.674481,
+                        13.462587
+                  ]
+            },
+            {
+                  "name": "Tanbi Wetland National Park",
+                  "text": "Mangrove wetland in Kunda, home to waterbirds.",
+                  "category": "natural",
+                  "coords": [
+                        -16.622231,
+                        13.424589
+                  ]
+            },
+            {
+                  "name": "Westfield Youth Monument",
+                  "text": "Youth monument in Kunda, commemorating local youth.",
+                  "category": "historical",
+                  "coords": [
+                        -16.67507,
+                        13.445396
+                  ]
+            },
+            {
+                  "name": "Alliance Française de Banjul",
+                  "text": "French cultural centre in Kunda offering language courses and events.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.678321,
+                        13.448294
+                  ]
+            },
+            {
+                  "name": "Pipeline Mosque",
+                  "text": "Mosque in Kunda (second location).",
+                  "category": "religious",
+                  "coords": [
+                        -16.685138,
+                        13.457628
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GM-W",
     coords: [-16.6833, 13.45],
@@ -3141,7 +4203,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Maurel Frères Building",
-                  "text": "Das Maurel Frères Building ist ein bekanntes Museum in Albreda.",
+                  "text": "Ehemaliges Kolonialwarenlager, heute Museum, UNESCO-Weltkulturerbe.",
                   "category": "museum",
                   "coords": [
                         -16.382361,
@@ -3159,7 +4221,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Kunta Kinteh Island",
-                  "text": "Kunta Kinteh Island ist eine bekannte historische Attraktion bei Albreda.",
+                  "text": "Insel mit historischer Sklavenfestung, UNESCO-Weltkulturerbe.",
                   "category": "landmark",
                   "coords": [
                         -16.361424,
@@ -3168,7 +4230,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Portuguese Chapel",
-                  "text": "Die Portuguese Chapel besteht aus historischen Ruinen in Albreda.",
+                  "text": "Kleine portugiesische Kapelle aus dem 15. Jahrhundert, UNESCO-Weltkulturerbe.",
                   "category": "historical",
                   "coords": [
                         -16.385294,
@@ -3179,7 +4241,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Maurel Frères Building",
-                  "text": "A Maurel Frères Building egy ismert múzeum Albreda városában.",
+                  "text": "Egykori gyarmati áruház, ma múzeum, UNESCO világörökség.",
                   "category": "museum",
                   "coords": [
                         -16.382361,
@@ -3197,7 +4259,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Kunta Kinteh Island",
-                  "text": "A Kunta Kinteh Island egy ismert történelmi látványosság Albreda közelében.",
+                  "text": "Sziget történelmi rabszolgaerőddel, UNESCO világörökség.",
                   "category": "landmark",
                   "coords": [
                         -16.361424,
@@ -3206,7 +4268,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Portuguese Chapel",
-                  "text": "A Portuguese Chapel történelmi romokat jelöl Albreda városában.",
+                  "text": "15. századi kis portugál kápolna, UNESCO világörökség.",
                   "category": "historical",
                   "coords": [
                         -16.385294,
@@ -3217,7 +4279,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Maurel Frères Building",
-                  "text": "Maurel Frères Building este un muzeu recunoscut din Albreda.",
+                  "text": "Fost depozit colonial, acum muzeu, patrimoniu UNESCO.",
                   "category": "museum",
                   "coords": [
                         -16.382361,
@@ -3235,7 +4297,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Kunta Kinteh Island",
-                  "text": "Kunta Kinteh Island este o atracție istorică recunoscută lângă Albreda.",
+                  "text": "Insulă cu fortăreață istorică a sclavilor, patrimoniu UNESCO.",
                   "category": "landmark",
                   "coords": [
                         -16.361424,
@@ -3244,7 +4306,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Portuguese Chapel",
-                  "text": "Portuguese Chapel reprezintă ruinele unei capele din Albreda.",
+                  "text": "Capela portugheză mică din secolul al XV-lea, patrimoniu UNESCO.",
                   "category": "historical",
                   "coords": [
                         -16.385294,
@@ -3255,7 +4317,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Maurel Frères Building",
-                  "text": "Maurel Frères Building is a renowned museum in Albreda.",
+                  "text": "Former colonial warehouse, now a museum, a UNESCO World Heritage site.",
                   "category": "museum",
                   "coords": [
                         -16.382361,
@@ -3273,7 +4335,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Kunta Kinteh Island",
-                  "text": "Kunta Kinteh Island is a well-known historical attraction near Albreda.",
+                  "text": "Island with a historic slave fort, a UNESCO World Heritage site.",
                   "category": "landmark",
                   "coords": [
                         -16.361424,
@@ -3282,7 +4344,7 @@ export const poiExtraGambiaCitiesV2: POI[] = [
             },
             {
                   "name": "Portuguese Chapel",
-                  "text": "Portuguese Chapel features historic ruins in Albreda.",
+                  "text": "Small 15th-century Portuguese chapel, a UNESCO World Heritage site.",
                   "category": "historical",
                   "coords": [
                         -16.385294,

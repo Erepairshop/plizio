@@ -830,7 +830,7 @@ export const poiExtraDe4b: POI[] = [
             },
             {
                   "name": "Brakenburger Brack",
-                  "text": "Das Brakenburger Brack in Altona ist ein historisch entstandenes Gewässer.",
+                  "text": "Brakenburger Brack: ein Brackgewässer im Hamburger Stadtteil Altona.",
                   "category": "natural",
                   "coords": [
                         9.876761,
@@ -839,7 +839,7 @@ export const poiExtraDe4b: POI[] = [
             },
             {
                   "name": "Flottbek",
-                  "text": "Die Flottbek in Altona ist ein Wasserlauf, der das Stadtbild prägt.",
+                  "text": "Flottbek: ein Bach, der durch den Hamburger Stadtteil Flottbek fließt.",
                   "category": "natural",
                   "coords": [
                         9.870051,
@@ -848,7 +848,7 @@ export const poiExtraDe4b: POI[] = [
             },
             {
                   "name": "Schiffloch",
-                  "text": "Das Schiffloch in Altona ist ein markanter Ort am Wasser.",
+                  "text": "Schiffloch: ein Gewässer im Hamburger Stadtteil Altona-Schiffloch.",
                   "category": "natural",
                   "coords": [
                         9.998141,
@@ -1019,7 +1019,7 @@ export const poiExtraDe4b: POI[] = [
             },
             {
                   "name": "Schwimmbad",
-                  "text": "Das Schwimmbad in Altona ist ein schönes Ziel für Familien.",
+                  "text": "Schwimmbad: ein Familien-Schwimmbad im Hamburger Stadtteil Altona.",
                   "category": "family",
                   "coords": [
                         9.90617,
@@ -1450,7 +1450,7 @@ export const poiExtraDe4b: POI[] = [
             },
             {
                   "name": "Brakenburger Brack",
-                  "text": "Az altonai Brakenburger Brack egy történelmileg kialakult vízfelület.",
+                  "text": "Brakenburger Brack: egy brakkvízű víztest Hamburg Altona negyedében.",
                   "category": "natural",
                   "coords": [
                         9.876761,
@@ -1459,7 +1459,7 @@ export const poiExtraDe4b: POI[] = [
             },
             {
                   "name": "Flottbek",
-                  "text": "Az altonai Flottbek egy vízfolyás, amely meghatározza a városképet.",
+                  "text": "Flottbek: egy patak, amely Hamburg Flottbek negyedén folyik keresztül.",
                   "category": "natural",
                   "coords": [
                         9.870051,
@@ -1468,7 +1468,7 @@ export const poiExtraDe4b: POI[] = [
             },
             {
                   "name": "Schiffloch",
-                  "text": "Az altonai Schiffloch egy jellegzetes vízparti helyszín.",
+                  "text": "Schiffloch: egy víztest Hamburg Altona-Schiffloch negyedében.",
                   "category": "natural",
                   "coords": [
                         9.998141,
@@ -1639,7 +1639,7 @@ export const poiExtraDe4b: POI[] = [
             },
             {
                   "name": "Schwimmbad",
-                  "text": "Az Altonában található Schwimmbad remek helyszín családok számára.",
+                  "text": "Schwimmbad: egy családi uszoda Hamburg Altona negyedében.",
                   "category": "family",
                   "coords": [
                         9.90617,
@@ -2070,7 +2070,7 @@ export const poiExtraDe4b: POI[] = [
             },
             {
                   "name": "Brakenburger Brack",
-                  "text": "Brakenburger Brack din Altona este un corp de apă format istoric.",
+                  "text": "Brakenburger Brack: un corp de apă salmastră în cartierul Altona din Hamburg.",
                   "category": "natural",
                   "coords": [
                         9.876761,
@@ -2079,7 +2079,7 @@ export const poiExtraDe4b: POI[] = [
             },
             {
                   "name": "Flottbek",
-                  "text": "Flottbek din Altona este un curs de apă care definește peisajul urban.",
+                  "text": "Flottbek: un pârâu care traversează cartierul Flottbek din Hamburg.",
                   "category": "natural",
                   "coords": [
                         9.870051,
@@ -2088,7 +2088,7 @@ export const poiExtraDe4b: POI[] = [
             },
             {
                   "name": "Schiffloch",
-                  "text": "Schiffloch din Altona este un loc distinctiv lângă apă.",
+                  "text": "Schiffloch: un corp de apă în cartierul Altona-Schiffloch din Hamburg.",
                   "category": "natural",
                   "coords": [
                         9.998141,
@@ -2259,7 +2259,7 @@ export const poiExtraDe4b: POI[] = [
             },
             {
                   "name": "Schwimmbad",
-                  "text": "Schwimmbad din Altona este o destinație frumoasă pentru familii.",
+                  "text": "Schwimmbad: o piscină pentru familii în cartierul Altona din Hamburg.",
                   "category": "family",
                   "coords": [
                         9.90617,
@@ -2690,7 +2690,7 @@ export const poiExtraDe4b: POI[] = [
             },
             {
                   "name": "Brakenburger Brack",
-                  "text": "The Brakenburger Brack in Altona is a historically formed body of water.",
+                  "text": "Brakenburger Brack: a brackish water body in Hamburg's Altona district.",
                   "category": "natural",
                   "coords": [
                         9.876761,
@@ -2699,7 +2699,7 @@ export const poiExtraDe4b: POI[] = [
             },
             {
                   "name": "Flottbek",
-                  "text": "The Flottbek in Altona is a watercourse that shapes the cityscape.",
+                  "text": "Flottbek: a stream flowing through Hamburg's Flottbek neighborhood.",
                   "category": "natural",
                   "coords": [
                         9.870051,
@@ -2708,7 +2708,7 @@ export const poiExtraDe4b: POI[] = [
             },
             {
                   "name": "Schiffloch",
-                  "text": "The Schiffloch in Altona is a distinctive spot by the water.",
+                  "text": "Schiffloch: a water body in Hamburg's Altona-Schiffloch district.",
                   "category": "natural",
                   "coords": [
                         9.998141,
@@ -2879,7 +2879,7 @@ export const poiExtraDe4b: POI[] = [
             },
             {
                   "name": "Schwimmbad",
-                  "text": "The Schwimmbad in Altona is a great destination for families.",
+                  "text": "Schwimmbad: a family swimming pool in Hamburg's Altona district.",
                   "category": "family",
                   "coords": [
                         9.90617,
@@ -3152,7 +3152,7 @@ export const poiExtraDe4b: POI[] = [
             },
             {
                   "name": "Nordspitze",
-                  "text": "Die Nordspitze ist ein Strandbereich in Bergedorf.",
+                  "text": "Nordspitze: ein Erholungsgebiet an der nördlichen Spitze von Bergedorf, Hamburg.",
                   "category": "recreational",
                   "coords": [
                         10.164587,
@@ -3206,7 +3206,7 @@ export const poiExtraDe4b: POI[] = [
             },
             {
                   "name": "See Hinterm Horn",
-                  "text": "Der See Hinterm Horn in Bergedorf ist ein naturnahes Gewässer für entspannte Stunden.",
+                  "text": "See Hinterm Horn: ein See im Hamburger Stadtteil Bergedorf, hinter dem Horn genannten Gebiet.",
                   "category": "natural",
                   "coords": [
                         10.154589,
@@ -3242,7 +3242,7 @@ export const poiExtraDe4b: POI[] = [
             },
             {
                   "name": "Kutter-Spielplatz",
-                  "text": "Der Kutter-Spielplatz in Bergedorf ist ein schönes Ziel für Familien mit Kindern.",
+                  "text": "Kutter-Spielplatz: ein Spielplatz in Form eines Fischerkutters in Bergedorf, Hamburg.",
                   "category": "family",
                   "coords": [
                         10.189576,
@@ -3278,7 +3278,7 @@ export const poiExtraDe4b: POI[] = [
             },
             {
                   "name": "Pollhof Boldtstraße neben 6",
-                  "text": "Der Spielplatz in der Boldtstraße in Bergedorf ist ein freundliches Ziel für den Familienalltag.",
+                  "text": "Pollhof Boldtstraße neben 6: ein Spielplatz am Pollhof in der Boldtstraße in Bergedorf, Hamburg.",
                   "category": "family",
                   "coords": [
                         10.232213,
@@ -3392,7 +3392,7 @@ export const poiExtraDe4b: POI[] = [
             },
             {
                   "name": "Nordspitze",
-                  "text": "A Nordspitze egy strandterület Bergedorfban.",
+                  "text": "Nordspitze: egy rekreációs terület Bergedorf északi csücskénél, Hamburgban.",
                   "category": "recreational",
                   "coords": [
                         10.164587,
@@ -3446,7 +3446,7 @@ export const poiExtraDe4b: POI[] = [
             },
             {
                   "name": "See Hinterm Horn",
-                  "text": "A bergedorfi See Hinterm Horn egy természetközeli állóvíz a pihentető órákhoz.",
+                  "text": "See Hinterm Horn: egy tó Hamburg Bergedorf negyedében, a Horn nevű terület mögött.",
                   "category": "natural",
                   "coords": [
                         10.154589,
@@ -3482,7 +3482,7 @@ export const poiExtraDe4b: POI[] = [
             },
             {
                   "name": "Kutter-Spielplatz",
-                  "text": "A bergedorfi Kutter-Spielplatz szép úti cél a kisgyermekes családok számára.",
+                  "text": "Kutter-Spielplatz: egy halászkutter formájú játszótér Bergedorfban, Hamburgban.",
                   "category": "family",
                   "coords": [
                         10.189576,
@@ -3518,7 +3518,7 @@ export const poiExtraDe4b: POI[] = [
             },
             {
                   "name": "Pollhof Boldtstraße neben 6",
-                  "text": "A bergedorfi Boldtstraße játszótere barátságos úti cél a családok mindennapjaiban.",
+                  "text": "Pollhof Boldtstraße neben 6: egy játszótér a Pollhofnál a Boldtstraßén Bergedorfban, Hamburgban.",
                   "category": "family",
                   "coords": [
                         10.232213,
@@ -3632,7 +3632,7 @@ export const poiExtraDe4b: POI[] = [
             },
             {
                   "name": "Nordspitze",
-                  "text": "Nordspitze este o zonă de plajă în Bergedorf.",
+                  "text": "Nordspitze: o zonă de agrement la vârful nordic al cartierului Bergedorf, Hamburg.",
                   "category": "recreational",
                   "coords": [
                         10.164587,
@@ -3686,7 +3686,7 @@ export const poiExtraDe4b: POI[] = [
             },
             {
                   "name": "See Hinterm Horn",
-                  "text": "Lacul Hinterm Horn din Bergedorf este o apă naturală pentru ore de relaxare.",
+                  "text": "See Hinterm Horn: un lac în cartierul Bergedorf din Hamburg, în spatele zonei numite Horn.",
                   "category": "natural",
                   "coords": [
                         10.154589,
@@ -3722,7 +3722,7 @@ export const poiExtraDe4b: POI[] = [
             },
             {
                   "name": "Kutter-Spielplatz",
-                  "text": "Locul de joacă Kutter din Bergedorf este o destinație frumoasă pentru familiile cu copii.",
+                  "text": "Kutter-Spielplatz: un loc de joacă în formă de cutter de pescuit în Bergedorf, Hamburg.",
                   "category": "family",
                   "coords": [
                         10.189576,
@@ -3758,7 +3758,7 @@ export const poiExtraDe4b: POI[] = [
             },
             {
                   "name": "Pollhof Boldtstraße neben 6",
-                  "text": "Locul de joacă de pe Boldtstraße din Bergedorf este o destinație prietenoasă pentru rutina zilnică a familiilor.",
+                  "text": "Pollhof Boldtstraße neben 6: un loc de joacă la Pollhof pe strada Boldtstraße în Bergedorf, Hamburg.",
                   "category": "family",
                   "coords": [
                         10.232213,
@@ -3872,7 +3872,7 @@ export const poiExtraDe4b: POI[] = [
             },
             {
                   "name": "Nordspitze",
-                  "text": "Nordspitze is a beach area in Bergedorf.",
+                  "text": "Nordspitze: a recreational area at the northern tip of Bergedorf, Hamburg.",
                   "category": "recreational",
                   "coords": [
                         10.164587,
@@ -3926,7 +3926,7 @@ export const poiExtraDe4b: POI[] = [
             },
             {
                   "name": "See Hinterm Horn",
-                  "text": "See Hinterm Horn in Bergedorf is a near-natural body of water for relaxing hours.",
+                  "text": "See Hinterm Horn: a lake in Hamburg's Bergedorf district, behind the area called Horn.",
                   "category": "natural",
                   "coords": [
                         10.154589,
@@ -3962,7 +3962,7 @@ export const poiExtraDe4b: POI[] = [
             },
             {
                   "name": "Kutter-Spielplatz",
-                  "text": "The Kutter-Spielplatz in Bergedorf is a nice destination for families with children.",
+                  "text": "Kutter-Spielplatz: a playground shaped like a fishing cutter in Bergedorf, Hamburg.",
                   "category": "family",
                   "coords": [
                         10.189576,
@@ -3998,7 +3998,7 @@ export const poiExtraDe4b: POI[] = [
             },
             {
                   "name": "Pollhof Boldtstraße neben 6",
-                  "text": "The playground in Boldtstraße in Bergedorf is a friendly destination for family life.",
+                  "text": "Pollhof Boldtstraße neben 6: a playground at Pollhof on Boldtstraße in Bergedorf, Hamburg.",
                   "category": "family",
                   "coords": [
                         10.232213,

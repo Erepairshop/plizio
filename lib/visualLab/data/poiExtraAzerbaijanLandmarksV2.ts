@@ -3,7 +3,520 @@ import type { POI } from "./poi";
 
 export const poiExtraAzerbaijanLandmarksV2: POI[] = [
   {
-    id: "flame-towers-landmarks-v2",
+    id: "flame-towers-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "16 saylı Musiqi məktəbi",
+                  "text": "Eine renommierte Musikschule im Stadtzentrum, die Instrumental- und Vokalunterricht anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        49.817411,
+                        40.36426
+                  ]
+            },
+            {
+                  "name": "Respublika İncəsənət Gimnaziyası",
+                  "text": "Ein spezialisiertes Gymnasium, das eine allgemeine Schulausbildung mit intensiver künstlerischer Förderung kombiniert.",
+                  "category": "cultural",
+                  "coords": [
+                        49.818331,
+                        40.364995
+                  ]
+            },
+            {
+                  "name": "Bakı panorama",
+                  "text": "Ein Aussichtspunkt, der einen weiten Blick über die Bucht von Baku und das moderne Stadtbild bietet.",
+                  "category": "natural",
+                  "coords": [
+                        49.830319,
+                        40.357657
+                  ]
+            },
+            {
+                  "name": "Bakı Türk Şəhidliyi",
+                  "text": "Dieses 1999 eingeweihte Denkmal ehrt die türkischen Soldaten, die 1918 bei der Befreiung Bakus fielen.",
+                  "category": "historical",
+                  "coords": [
+                        49.827996,
+                        40.357889
+                  ]
+            },
+            {
+                  "name": "Müslüm Maqomayev qəbri",
+                  "text": "Die letzte Ruhestätte von Müslüm Maqomayev, dem weltberühmten aserbaidschanischen Bariton und Komponisten.",
+                  "category": "landmark",
+                  "coords": [
+                        49.820896,
+                        40.361975
+                  ]
+            },
+            {
+                  "name": "Çəmbərəkənd Parkı",
+                  "text": "Eine moderne Parkanlage am Hang mit weitläufigen Gehwegen und einer großen Aussichtsbrücke.",
+                  "category": "landmark",
+                  "coords": [
+                        49.826015,
+                        40.363491
+                  ]
+            },
+            {
+                  "name": "Şəlalə Parkı",
+                  "text": "Ein terrassierter Park, der für seine künstlichen Wasserfälle und den Blick auf die Flammentürme bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        49.827941,
+                        40.363207
+                  ]
+            },
+            {
+                  "name": "Space TV",
+                  "text": "Der Sitz des privaten aserbaidschanischen Fernsehsenders Space TV mit seinen Produktionsstudios.",
+                  "category": "cultural",
+                  "coords": [
+                        49.817729,
+                        40.366498
+                  ]
+            },
+            {
+                  "name": "Yaşıl Teatr",
+                  "text": "Ein großes Freiluft-Amphitheater in den Hügeln von Baku, das für Konzerte und Festivals genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        49.830367,
+                        40.360376
+                  ]
+            },
+            {
+                  "name": "Dağüstü Park / Highland Park",
+                  "text": "Der höchste Punkt der Stadt bietet ein Panorama über das Kaspische Meer und die modernen Wahrzeichen Bakus.",
+                  "category": "natural",
+                  "coords": [
+                        49.829287,
+                        40.357749
+                  ]
+            },
+            {
+                  "name": "Alley of Martyrs",
+                  "text": "Ein bewegender Gedenkort für die Opfer des Schwarzen Januars 1990 und des Bergkarabach-Krieges.",
+                  "category": "historical",
+                  "coords": [
+                        49.828563,
+                        40.356725
+                  ]
+            },
+            {
+                  "name": "Flame Towers",
+                  "text": "Drei markante Wolkenkratzer, deren LED-Fassaden nachts lodernde Flammen über der Bucht von Baku simulieren.",
+                  "category": "landmark",
+                  "coords": [
+                        49.826458,
+                        40.35992
+                  ]
+            },
+            {
+                  "name": "İlahiyyət Məscidi",
+                  "text": "Eine Moschee, die an die Theologische Fakultät angegliedert ist und eine ruhige Atmosphäre bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        49.807819,
+                        40.375624
+                  ]
+            },
+            {
+                  "name": "Panda",
+                  "text": "Ein lokaler Marktplatz, auf dem Besucher frische Lebensmittel und Waren des täglichen Bedarfs finden.",
+                  "category": "cultural",
+                  "coords": [
+                        49.818635,
+                        40.369122
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "16 saylı Musiqi məktəbi",
+                  "text": "A városközpontban található neves zeneiskola, amely hangszeres és énekes képzést nyújt.",
+                  "category": "cultural",
+                  "coords": [
+                        49.817411,
+                        40.36426
+                  ]
+            },
+            {
+                  "name": "Respublika İncəsənət Gimnaziyası",
+                  "text": "Speciális gimnázium, amely az általános képzést intenzív művészeti oktatással ötvözi.",
+                  "category": "cultural",
+                  "coords": [
+                        49.818331,
+                        40.364995
+                  ]
+            },
+            {
+                  "name": "Bakı panorama",
+                  "text": "Kilátópont, ahonnan tágas kilátás nyílik a Bakui-öbölre és a modern városképre.",
+                  "category": "natural",
+                  "coords": [
+                        49.830319,
+                        40.357657
+                  ]
+            },
+            {
+                  "name": "Bakı Türk Şəhidliyi",
+                  "text": "Ez az 1999-ben felavatott emlékmű a Baku 1918-as felszabadításakor elesett török katonák előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        49.827996,
+                        40.357889
+                  ]
+            },
+            {
+                  "name": "Müslüm Maqomayev qəbri",
+                  "text": "Müslüm Maqomayev, a világhírű azerbajdzsáni bariton és zeneszerző végső nyughelye.",
+                  "category": "landmark",
+                  "coords": [
+                        49.820896,
+                        40.361975
+                  ]
+            },
+            {
+                  "name": "Çəmbərəkənd Parkı",
+                  "text": "Modern park a domboldalon, tágas sétányokkal és egy nagy kilátóhíddal.",
+                  "category": "landmark",
+                  "coords": [
+                        49.826015,
+                        40.363491
+                  ]
+            },
+            {
+                  "name": "Şəlalə Parkı",
+                  "text": "Teraszos park, amely mesterséges vízeséseiről és a Lángtornyokra nyíló kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        49.827941,
+                        40.363207
+                  ]
+            },
+            {
+                  "name": "Space TV",
+                  "text": "A Space TV magán televíziócsatorna székhelye és produkciós stúdiói.",
+                  "category": "cultural",
+                  "coords": [
+                        49.817729,
+                        40.366498
+                  ]
+            },
+            {
+                  "name": "Yaşıl Teatr",
+                  "text": "Nagy szabadtéri amfiteátrum Baku dombjai között, amelyet koncertekre és fesztiválokra használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        49.830367,
+                        40.360376
+                  ]
+            },
+            {
+                  "name": "Dağüstü Park / Highland Park",
+                  "text": "A város legmagasabb pontja panorámát kínál a Kaszpi-tengerre és Baku modern jelképeire.",
+                  "category": "natural",
+                  "coords": [
+                        49.829287,
+                        40.357749
+                  ]
+            },
+            {
+                  "name": "Alley of Martyrs",
+                  "text": "Megható emlékhely az 1990-es fekete január és a hegyi-karabahi háború áldozatainak.",
+                  "category": "historical",
+                  "coords": [
+                        49.828563,
+                        40.356725
+                  ]
+            },
+            {
+                  "name": "Flame Towers",
+                  "text": "Három jellegzetes felhőkarcoló, amelyek LED-es homlokzata éjszaka lobogó lángokat szimulál a Bakui-öböl felett.",
+                  "category": "landmark",
+                  "coords": [
+                        49.826458,
+                        40.35992
+                  ]
+            },
+            {
+                  "name": "İlahiyyət Məscidi",
+                  "text": "A Teológiai Karhoz kapcsolódó mecset, amely nyugodt légkört biztosít.",
+                  "category": "landmark",
+                  "coords": [
+                        49.807819,
+                        40.375624
+                  ]
+            },
+            {
+                  "name": "Panda",
+                  "text": "Helyi piactér, ahol a látogatók friss élelmiszereket és napi fogyasztási cikkeket találnak.",
+                  "category": "cultural",
+                  "coords": [
+                        49.818635,
+                        40.369122
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "16 saylı Musiqi məktəbi",
+                  "text": "O școală de muzică renumită din centrul orașului, care oferă lecții instrumentale și vocale.",
+                  "category": "cultural",
+                  "coords": [
+                        49.817411,
+                        40.36426
+                  ]
+            },
+            {
+                  "name": "Respublika İncəsənət Gimnaziyası",
+                  "text": "Un gimnaziu specializat care combină educația generală cu o pregătire artistică intensă.",
+                  "category": "cultural",
+                  "coords": [
+                        49.818331,
+                        40.364995
+                  ]
+            },
+            {
+                  "name": "Bakı panorama",
+                  "text": "Un punct de observație care oferă o vedere panoramică asupra Golfului Baku și a peisajului urban modern.",
+                  "category": "natural",
+                  "coords": [
+                        49.830319,
+                        40.357657
+                  ]
+            },
+            {
+                  "name": "Bakı Türk Şəhidliyi",
+                  "text": "Inaugurat în 1999, acest monument onorează soldații turci căzuți în 1918 în timpul eliberării orașului Baku.",
+                  "category": "historical",
+                  "coords": [
+                        49.827996,
+                        40.357889
+                  ]
+            },
+            {
+                  "name": "Müslüm Maqomayev qəbri",
+                  "text": "Locul de odihnă veșnică al lui Müslüm Maqomayev, baritonul și compozitorul azer de renume mondial.",
+                  "category": "landmark",
+                  "coords": [
+                        49.820896,
+                        40.361975
+                  ]
+            },
+            {
+                  "name": "Çəmbərəkənd Parkı",
+                  "text": "Un parc modern pe versantul dealului, cu alei largi și un pod mare de observație.",
+                  "category": "landmark",
+                  "coords": [
+                        49.826015,
+                        40.363491
+                  ]
+            },
+            {
+                  "name": "Şəlalə Parkı",
+                  "text": "Un parc terasat cunoscut pentru cascadele sale artificiale și vederea spre Turnurile Flacără.",
+                  "category": "natural",
+                  "coords": [
+                        49.827941,
+                        40.363207
+                  ]
+            },
+            {
+                  "name": "Space TV",
+                  "text": "Sediul postului privat de televiziune azer Space TV, incluzând studiourile sale de producție.",
+                  "category": "cultural",
+                  "coords": [
+                        49.817729,
+                        40.366498
+                  ]
+            },
+            {
+                  "name": "Yaşıl Teatr",
+                  "text": "Un amfiteatru mare în aer liber situat pe dealurile din Baku, folosit pentru concerte și festivaluri.",
+                  "category": "cultural",
+                  "coords": [
+                        49.830367,
+                        40.360376
+                  ]
+            },
+            {
+                  "name": "Dağüstü Park / Highland Park",
+                  "text": "Cel mai înalt punct din oraș oferă o panoramă asupra Mării Caspice și a simbolurilor moderne ale orașului Baku.",
+                  "category": "natural",
+                  "coords": [
+                        49.829287,
+                        40.357749
+                  ]
+            },
+            {
+                  "name": "Alley of Martyrs",
+                  "text": "Un loc memorial emoționant dedicat victimelor Ianuarie Negru din 1990 și ale războiului din Nagorno-Karabah.",
+                  "category": "historical",
+                  "coords": [
+                        49.828563,
+                        40.356725
+                  ]
+            },
+            {
+                  "name": "Flame Towers",
+                  "text": "Trei zgârie-nori emblematici ale căror fațade LED simulează flăcări mistuitoare noaptea deasupra Golfului Baku.",
+                  "category": "landmark",
+                  "coords": [
+                        49.826458,
+                        40.35992
+                  ]
+            },
+            {
+                  "name": "İlahiyyət Məscidi",
+                  "text": "O moschee afiliată Facultății de Teologie, care oferă o atmosferă liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        49.807819,
+                        40.375624
+                  ]
+            },
+            {
+                  "name": "Panda",
+                  "text": "O piață locală unde vizitatorii pot găsi alimente proaspete și bunuri de larg consum.",
+                  "category": "cultural",
+                  "coords": [
+                        49.818635,
+                        40.369122
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "16 saylı Musiqi məktəbi",
+                  "text": "A renowned music school in the city center offering instrumental and vocal training.",
+                  "category": "cultural",
+                  "coords": [
+                        49.817411,
+                        40.36426
+                  ]
+            },
+            {
+                  "name": "Respublika İncəsənət Gimnaziyası",
+                  "text": "A specialized gymnasium that combines general education with intensive artistic training.",
+                  "category": "cultural",
+                  "coords": [
+                        49.818331,
+                        40.364995
+                  ]
+            },
+            {
+                  "name": "Panorama of Baku",
+                  "text": "A viewpoint offering a broad look over Baku Bay and the modern cityscape.",
+                  "category": "natural",
+                  "coords": [
+                        49.830319,
+                        40.357657
+                  ]
+            },
+            {
+                  "name": "Baku Turkish Martyrs' Memorial",
+                  "text": "Inaugurated in 1999, this monument honors the Turkish soldiers who fell in 1918 during the liberation of Baku.",
+                  "category": "historical",
+                  "coords": [
+                        49.827996,
+                        40.357889
+                  ]
+            },
+            {
+                  "name": "Müslüm Maqomayev qəbri",
+                  "text": "The final resting place of Müslüm Maqomayev, the world-famous Azerbaijani baritone and composer.",
+                  "category": "landmark",
+                  "coords": [
+                        49.820896,
+                        40.361975
+                  ]
+            },
+            {
+                  "name": "Çəmbərəkənd Parkı",
+                  "text": "A modern hillside park featuring expansive walkways and a large observation bridge.",
+                  "category": "landmark",
+                  "coords": [
+                        49.826015,
+                        40.363491
+                  ]
+            },
+            {
+                  "name": "Şəlalə Parkı",
+                  "text": "A terraced park known for its artificial waterfalls and the view toward the Flame Towers.",
+                  "category": "natural",
+                  "coords": [
+                        49.827941,
+                        40.363207
+                  ]
+            },
+            {
+                  "name": "Space TV",
+                  "text": "The headquarters of the private Azerbaijani television channel Space TV, including its production studios.",
+                  "category": "cultural",
+                  "coords": [
+                        49.817729,
+                        40.366498
+                  ]
+            },
+            {
+                  "name": "Green Theatre",
+                  "text": "A large open-air amphitheater nestled in the hills of Baku, used for concerts and festivals.",
+                  "category": "cultural",
+                  "coords": [
+                        49.830367,
+                        40.360376
+                  ]
+            },
+            {
+                  "name": "Highland Park",
+                  "text": "The highest point in the city offers a panorama over the Caspian Sea and Baku's modern landmarks.",
+                  "category": "natural",
+                  "coords": [
+                        49.829287,
+                        40.357749
+                  ]
+            },
+            {
+                  "name": "Alley of Martyrs",
+                  "text": "A moving memorial site dedicated to the victims of Black January 1990 and the Nagorno-Karabakh War.",
+                  "category": "historical",
+                  "coords": [
+                        49.828563,
+                        40.356725
+                  ]
+            },
+            {
+                  "name": "Flame Towers",
+                  "text": "Three iconic skyscrapers whose LED facades simulate blazing flames over Baku Bay at night.",
+                  "category": "landmark",
+                  "coords": [
+                        49.826458,
+                        40.35992
+                  ]
+            },
+            {
+                  "name": "Ilahiyyat Masjid (Ilahiyyat Mosque)",
+                  "text": "A mosque affiliated with the Faculty of Theology, offering a tranquil atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        49.807819,
+                        40.375624
+                  ]
+            },
+            {
+                  "name": "Panda",
+                  "text": "A local marketplace where visitors can find fresh food and daily consumer goods.",
+                  "category": "cultural",
+                  "coords": [
+                        49.818635,
+                        40.369122
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AZ-BA",
     coords: [49.8267, 40.3597],
@@ -38,7 +551,844 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
       fr: ["La hauteur de la tour la plus élevée est de 182 mètres.", "Le complexe a été achevé en 2012.", "Le coût total de la construction s'est élevé à environ 350 millions de dollars US.", "La façade est recouverte de plus de 10 000 lampes LED haute performance.", "Les trois tours sont nommées Tour 1 (appartements), Tour 2 (hôtel) et Tour 3 (bureaux).", "Conçues par HOK (Hellmuth, Obata + Kassabaum).", "L'hôtel du complexe est le Fairmont Baku.", "Les tours sont un symbole de l'Azerbaïdjan moderne et post-soviétique."],
     }, image: "/poi-images/flame-towers-landmarks-v2.webp"},
   {
-    id: "maiden-tower-landmarks-v2",
+    id: "maiden-tower-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nizami Gəncəvi adına Milli Azərbaycan Ədəbiyyatı muzeyi",
+                  "text": "Das Museum zeigt an seiner prächtigen Fassade sechs Statuen bedeutender aserbaidschanischer Schriftsteller.",
+                  "category": "museum",
+                  "coords": [
+                        49.836352,
+                        40.369891
+                  ]
+            },
+            {
+                  "name": "Niyazinin ev-muzeyi",
+                  "text": "Dieses Museum ist dem Leben des berühmten aserbaidschanischen Dirigenten und Komponisten Niyazi gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        49.843036,
+                        40.374853
+                  ]
+            },
+            {
+                  "name": "Milli Azərbaycan Tarixi Muzeyi",
+                  "text": "Das Museum ist im prunkvollen ehemaligen Herrenhaus des Ölbarons Haji Zeynalabdin Taghiyev untergebracht.",
+                  "category": "museum",
+                  "coords": [
+                        49.840071,
+                        40.369348
+                  ]
+            },
+            {
+                  "name": "Jungfrauenturm",
+                  "text": "Dieser zylindrische Turm aus dem 12. Jahrhundert ist ein UNESCO-geschütztes Wahrzeichen der Altstadt von Baku.",
+                  "category": "castle",
+                  "coords": [
+                        49.83724,
+                        40.366143
+                  ]
+            },
+            {
+                  "name": "Underground Bath of Baku",
+                  "text": "Ein restauriertes unterirdisches Badehaus aus dem 17. Jahrhundert in der Nähe der Haupttore der Altstadt.",
+                  "category": "museum",
+                  "coords": [
+                        49.83673,
+                        40.368661
+                  ]
+            },
+            {
+                  "name": "Muzey Mərkəzi",
+                  "text": "Ein neoklassizistisches Gebäude, das mehrere staatliche Museen beherbergt und früher als Lenin-Museum diente.",
+                  "category": "museum",
+                  "coords": [
+                        49.842563,
+                        40.369745
+                  ]
+            },
+            {
+                  "name": "Cəfər Cabbarlı heykəli",
+                  "text": "Eine monumentale Statue des aserbaidschanischen Dramatikers auf dem Platz vor dem Bahnhof.",
+                  "category": "historical",
+                  "coords": [
+                        49.847927,
+                        40.379326
+                  ]
+            },
+            {
+                  "name": "Hökumət Evi",
+                  "text": "Ein massives sowjetisches Gebäude am Azadliq-Platz, das durch seine geschichteten Bogengalerien besticht.",
+                  "category": "historical",
+                  "coords": [
+                        49.85264,
+                        40.373843
+                  ]
+            },
+            {
+                  "name": "Əşkinazi yəhudilərinin Bakıdakı sinaqoqu",
+                  "text": "Diese 2003 errichtete moderne Synagoge dient der aschkenasischen jüdischen Gemeinde von Baku.",
+                  "category": "religious",
+                  "coords": [
+                        49.838098,
+                        40.375557
+                  ]
+            },
+            {
+                  "name": "Opera və Balet Teatrı",
+                  "text": "Ein elegantes Jugendstil-Theatergebäude aus dem Jahr 1911, bekannt für seine prachtvolle Innenausstattung.",
+                  "category": "cultural",
+                  "coords": [
+                        49.845354,
+                        40.374736
+                  ]
+            },
+            {
+                  "name": "Rəşid Behbudov adına Dövlət Mahnı Teatrı",
+                  "text": "Dieses Theater ist in einem prächtigen historischen Gebäude untergebracht, das ursprünglich als Synagoge diente.",
+                  "category": "cultural",
+                  "coords": [
+                        49.846835,
+                        40.374644
+                  ]
+            },
+            {
+                  "name": "Azərbaycan Dövlət Rus Dram Teatrı",
+                  "text": "Eine bedeutende Kulturstätte im Zentrum von Baku, in der klassische und moderne russischsprachige Stücke aufgeführt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        49.840803,
+                        40.372341
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev Sarayı",
+                  "text": "Bakus wichtigste Konzerthalle mit einer markanten modernistischen Fassade, in der große internationale Veranstaltungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        49.841542,
+                        40.37777
+                  ]
+            },
+            {
+                  "name": "Staatliches Puppentheater Aserbaidschans",
+                  "text": "Dieses eklektische Gebäude aus dem Jahr 1910 wurde ursprünglich als Kino entworfen, bevor es zum Puppentheater wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        49.839152,
+                        40.366998
+                  ]
+            },
+            {
+                  "name": "Müqəddəs Qriqori kilsəsi",
+                  "text": "Eine armenische Kirche aus dem 19. Jahrhundert mit traditioneller Kuppel, in der heute ein Archiv der Präsidialbibliothek untergebracht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        49.836439,
+                        40.371664
+                  ]
+            },
+            {
+                  "name": "Paraşüt Qülləsi",
+                  "text": "Ein 75 Meter hoher Gitterstahlturm am Boulevard an der Küste, der in den 1930er Jahren für das Fallschirmtraining gebaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        49.844004,
+                        40.368565
+                  ]
+            },
+            {
+                  "name": "Qış Parkı",
+                  "text": "Ein moderner Stadtpark mit weitläufigen, gepflegten Rasenflächen und Brunnen, der auf einem ehemaligen Wohngebiet errichtet wurde.",
+                  "category": "park",
+                  "coords": [
+                        49.836184,
+                        40.376359
+                  ]
+            },
+            {
+                  "name": "Sahil bağı",
+                  "text": "Dieser zentrale Park verfügt über einen großen dreistöckigen Springbrunnen und Denkmäler für aserbaidschanische Kulturschaffende.",
+                  "category": "park",
+                  "coords": [
+                        49.845756,
+                        40.373129
+                  ]
+            },
+            {
+                  "name": "Dənizkənarı Milli Park",
+                  "text": "Eine malerische Promenade entlang des Kaspischen Meeres mit Gärten, einem Riesenrad und Kanälen im Venedig-Stil.",
+                  "category": "park",
+                  "coords": [
+                        49.844028,
+                        40.367333
+                  ]
+            },
+            {
+                  "name": "Bakı Fotoqrafiya Evi",
+                  "text": "Dieses Museum im historischen „Kettenhaus“ zeigt Fotografien lokaler und internationaler Künstler.",
+                  "category": "museum",
+                  "coords": [
+                        49.836556,
+                        40.36764
+                  ]
+            },
+            {
+                  "name": "Musiqi Mədəniyyət Muzeyi",
+                  "text": "Dieses Museum beherbergt eine riesige Sammlung traditioneller aserbaidschanischer Musikinstrumente wie Tar und Kamantsche.",
+                  "category": "museum",
+                  "coords": [
+                        49.847409,
+                        40.372707
+                  ]
+            },
+            {
+                  "name": "Siyasi Repressiya Qurbanları Muzeyi",
+                  "text": "Ein düsteres Museum im ehemaligen NKWD-Hauptquartier, das die Opfer der sowjetischen Repression dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        49.847543,
+                        40.371056
+                  ]
+            },
+            {
+                  "name": "Tofiq Quliyev heykəli",
+                  "text": "Eine Bronzestatue zu Ehren des bedeutenden aserbaidschanischen Komponisten und Pianisten Tofig Guliyev.",
+                  "category": "historical",
+                  "coords": [
+                        49.849998,
+                        40.37784
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nizami Gəncəvi adına Milli Azərbaycan Ədəbiyyatı muzeyi",
+                  "text": "A múzeum homlokzatát hat kiemelkedő azeri író szobra díszíti.",
+                  "category": "museum",
+                  "coords": [
+                        49.836352,
+                        40.369891
+                  ]
+            },
+            {
+                  "name": "Niyazinin ev-muzeyi",
+                  "text": "Ez a múzeum Niyazi, a híres azeri karmester és zeneszerző életének állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        49.843036,
+                        40.374853
+                  ]
+            },
+            {
+                  "name": "Milli Azərbaycan Tarixi Muzeyi",
+                  "text": "A múzeum Haji Zeynalabdin Taghiyev olajmágnás egykori fényűző kastélyában található.",
+                  "category": "museum",
+                  "coords": [
+                        49.840071,
+                        40.369348
+                  ]
+            },
+            {
+                  "name": "Qız Qalası",
+                  "text": "Ez a 12. századi hengeres torony Baku óvárosának UNESCO-listás jelképe.",
+                  "category": "castle",
+                  "coords": [
+                        49.83724,
+                        40.366143
+                  ]
+            },
+            {
+                  "name": "Underground Bath of Baku",
+                  "text": "Restaurált 17. századi föld alatti fürdő az óváros főkapui közelében.",
+                  "category": "museum",
+                  "coords": [
+                        49.83673,
+                        40.368661
+                  ]
+            },
+            {
+                  "name": "Muzey Mərkəzi",
+                  "text": "Neoklasszicista épület, amely több állami múzeumnak ad otthont, korábban Lenin-múzeum volt.",
+                  "category": "museum",
+                  "coords": [
+                        49.842563,
+                        40.369745
+                  ]
+            },
+            {
+                  "name": "Cəfər Cabbarlı heykəli",
+                  "text": "Az azeri drámaíró monumentális szobra a vasútállomás előtti téren található.",
+                  "category": "historical",
+                  "coords": [
+                        49.847927,
+                        40.379326
+                  ]
+            },
+            {
+                  "name": "Hökumət Evi",
+                  "text": "Masszív szovjet korszakbeli épület az Azadliq téren, amelyet íves galériái jellemeznek.",
+                  "category": "historical",
+                  "coords": [
+                        49.85264,
+                        40.373843
+                  ]
+            },
+            {
+                  "name": "Əşkinazi yəhudilərinin Bakıdakı sinaqoqu",
+                  "text": "Ez a 2003-ban épült modern zsinagóga Baku askenázi zsidó közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        49.838098,
+                        40.375557
+                  ]
+            },
+            {
+                  "name": "Opera və Balet Teatrı",
+                  "text": "Elegáns, 1911-ben elkészült szecessziós színházépület, amely fényűző belső tereiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        49.845354,
+                        40.374736
+                  ]
+            },
+            {
+                  "name": "Rəşid Behbudov adına Dövlət Mahnı Teatrı",
+                  "text": "Ez a színház egy impozáns történelmi épületben található, amely eredetileg zsinagógaként szolgált.",
+                  "category": "cultural",
+                  "coords": [
+                        49.846835,
+                        40.374644
+                  ]
+            },
+            {
+                  "name": "Azərbaycan Dövlət Rus Dram Teatrı",
+                  "text": "Baku központjának jelentős kulturális helyszíne, ahol klasszikus és kortárs orosz nyelvű darabokat játszanak.",
+                  "category": "cultural",
+                  "coords": [
+                        49.840803,
+                        40.372341
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev Sarayı",
+                  "text": "Baku első számú koncertterme, amely jellegzetes modernista homlokzattal rendelkezik és jelentős nemzetközi eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        49.841542,
+                        40.37777
+                  ]
+            },
+            {
+                  "name": "Azərbaycan Dövlət Kukla Teatrı",
+                  "text": "Ez az 1910-ből származó eklektikus épület eredetileg mozinak készült, mielőtt bábszínházzá vált volna.",
+                  "category": "cultural",
+                  "coords": [
+                        49.839152,
+                        40.366998
+                  ]
+            },
+            {
+                  "name": "Müqəddəs Qriqori kilsəsi",
+                  "text": "19. századi örmény templom hagyományos kupolával, amely jelenleg egy elnöki könyvtári archívumnak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        49.836439,
+                        40.371664
+                  ]
+            },
+            {
+                  "name": "Paraşüt Qülləsi",
+                  "text": "75 méter magas acélszerkezetű torony a tengerparti körúton, amelyet az 1930-as években építettek ejtőernyős képzéshez.",
+                  "category": "landmark",
+                  "coords": [
+                        49.844004,
+                        40.368565
+                  ]
+            },
+            {
+                  "name": "Qış Parkı",
+                  "text": "Modern városi park kiterjedt, gondozott pázsittal és szökőkutakkal, egy egykori lakónegyed helyén épült.",
+                  "category": "park",
+                  "coords": [
+                        49.836184,
+                        40.376359
+                  ]
+            },
+            {
+                  "name": "Sahil bağı",
+                  "text": "Ebben a központi parkban egy nagy, háromszintes szökőkút és azeri kulturális alakok emlékműve található.",
+                  "category": "park",
+                  "coords": [
+                        49.845756,
+                        40.373129
+                  ]
+            },
+            {
+                  "name": "Dənizkənarı Milli Park",
+                  "text": "Festői sétány a Kaszpi-tenger mentén, kertekkel, óriáskerékkel és Velence-stílusú csatornákkal.",
+                  "category": "park",
+                  "coords": [
+                        49.844028,
+                        40.367333
+                  ]
+            },
+            {
+                  "name": "Bakı Fotoqrafiya Evi",
+                  "text": "A történelmi „Láncos házban” található múzeum helyi és nemzetközi művészek fotóit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        49.836556,
+                        40.36764
+                  ]
+            },
+            {
+                  "name": "Musiqi Mədəniyyət Muzeyi",
+                  "text": "Ez a múzeum hagyományos azeri hangszerek, például a tar és a kamancsa hatalmas gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        49.847409,
+                        40.372707
+                  ]
+            },
+            {
+                  "name": "Siyasi Repressiya Qurbanları Muzeyi",
+                  "text": "Komor múzeum az egykori NKVD-székházban, amely a szovjet elnyomás áldozatainak állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        49.847543,
+                        40.371056
+                  ]
+            },
+            {
+                  "name": "Tofiq Quliyev heykəli",
+                  "text": "Tofig Guliyev neves azeri zeneszerző és zongoraművész tiszteletére emelt bronzszobor.",
+                  "category": "historical",
+                  "coords": [
+                        49.849998,
+                        40.37784
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nizami Gəncəvi adına Milli Azərbaycan Ədəbiyyatı muzeyi",
+                  "text": "Muzeul prezintă șase statui ale unor scriitori azeri de vază pe fațada sa ornamentată.",
+                  "category": "museum",
+                  "coords": [
+                        49.836352,
+                        40.369891
+                  ]
+            },
+            {
+                  "name": "Niyazinin ev-muzeyi",
+                  "text": "Acest muzeu este dedicat vieții celebrului dirijor și compozitor azer Niyazi.",
+                  "category": "museum",
+                  "coords": [
+                        49.843036,
+                        40.374853
+                  ]
+            },
+            {
+                  "name": "Milli Azərbaycan Tarixi Muzeyi",
+                  "text": "Muzeul este găzduit în fostul conac opulent al magnatului petrolului Haji Zeynalabdin Taghiyev.",
+                  "category": "museum",
+                  "coords": [
+                        49.840071,
+                        40.369348
+                  ]
+            },
+            {
+                  "name": "Qız Qalası",
+                  "text": "Acest turn cilindric din secolul al XII-lea este un simbol al orașului vechi din Baku, inclus în patrimoniul UNESCO.",
+                  "category": "castle",
+                  "coords": [
+                        49.83724,
+                        40.366143
+                  ]
+            },
+            {
+                  "name": "Underground Bath of Baku",
+                  "text": "O baie subterană din secolul al XVII-lea restaurată, situată lângă porțile principale ale orașului vechi.",
+                  "category": "museum",
+                  "coords": [
+                        49.83673,
+                        40.368661
+                  ]
+            },
+            {
+                  "name": "Muzey Mərkəzi",
+                  "text": "O clădire neoclasică ce găzduiește mai multe muzee de stat, folosită anterior ca Muzeu Lenin.",
+                  "category": "museum",
+                  "coords": [
+                        49.842563,
+                        40.369745
+                  ]
+            },
+            {
+                  "name": "Cəfər Cabbarlı heykəli",
+                  "text": "O statuie monumentală a dramaturgului azer situată în piața din fața gării.",
+                  "category": "historical",
+                  "coords": [
+                        49.847927,
+                        40.379326
+                  ]
+            },
+            {
+                  "name": "Hökumət Evi",
+                  "text": "O clădire masiva din epoca sovietică din Piața Azadliq, caracterizată prin galeriile sale cu arcade suprapuse.",
+                  "category": "historical",
+                  "coords": [
+                        49.85264,
+                        40.373843
+                  ]
+            },
+            {
+                  "name": "Əşkinazi yəhudilərinin Bakıdakı sinaqoqu",
+                  "text": "Construită în 2003, această sinagogă modernă deservește comunitatea evreiască așkenază din Baku.",
+                  "category": "religious",
+                  "coords": [
+                        49.838098,
+                        40.375557
+                  ]
+            },
+            {
+                  "name": "Opera və Balet Teatrı",
+                  "text": "O clădire elegantă de teatru în stil Art Nouveau, finalizată în 1911, cunoscută pentru interioarele sale opulente.",
+                  "category": "cultural",
+                  "coords": [
+                        49.845354,
+                        40.374736
+                  ]
+            },
+            {
+                  "name": "Rəşid Behbudov adına Dövlət Mahnı Teatrı",
+                  "text": "Acest teatru este găzduit într-o clădire istorică grandioasă care a servit inițial ca sinagogă.",
+                  "category": "cultural",
+                  "coords": [
+                        49.846835,
+                        40.374644
+                  ]
+            },
+            {
+                  "name": "Azərbaycan Dövlət Rus Dram Teatrı",
+                  "text": "O locație culturală importantă din centrul orașului Baku, unde se pun în scenă piese clasice și contemporane în limba rusă.",
+                  "category": "cultural",
+                  "coords": [
+                        49.840803,
+                        40.372341
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev Sarayı",
+                  "text": "Principala sală de concerte din Baku, cu o fațadă modernistă distinctivă, care găzduiește evenimente internaționale majore.",
+                  "category": "cultural",
+                  "coords": [
+                        49.841542,
+                        40.37777
+                  ]
+            },
+            {
+                  "name": "Azərbaycan Dövlət Kukla Teatrı",
+                  "text": "Această clădire eclectică din 1910 a fost concepută inițial ca cinematograf înainte de a deveni teatru de păpuși.",
+                  "category": "cultural",
+                  "coords": [
+                        49.839152,
+                        40.366998
+                  ]
+            },
+            {
+                  "name": "Müqəddəs Qriqori kilsəsi",
+                  "text": "O biserică armenească din secolul al XIX-lea cu o cupolă tradițională, care găzduiește în prezent o arhivă a bibliotecii prezidențiale.",
+                  "category": "landmark",
+                  "coords": [
+                        49.836439,
+                        40.371664
+                  ]
+            },
+            {
+                  "name": "Paraşüt Qülləsi",
+                  "text": "Un turn de oțel înalt de 75 de metri situat pe bulevardul de la malul mării, construit în anii 1930 pentru antrenamente de parașutism.",
+                  "category": "landmark",
+                  "coords": [
+                        49.844004,
+                        40.368565
+                  ]
+            },
+            {
+                  "name": "Qış Parkı",
+                  "text": "Un parc urban modern cu peluze întinse și fântâni, construit pe locul unei foste zone rezidențiale.",
+                  "category": "park",
+                  "coords": [
+                        49.836184,
+                        40.376359
+                  ]
+            },
+            {
+                  "name": "Sahil bağı",
+                  "text": "Acest parc central are o fântână mare cu trei niveluri și monumente dedicate unor personalități culturale azere.",
+                  "category": "park",
+                  "coords": [
+                        49.845756,
+                        40.373129
+                  ]
+            },
+            {
+                  "name": "Dənizkənarı Milli Park",
+                  "text": "O promenadă pitorească ce se întinde de-a lungul Mării Caspice, cu grădini, o roată panoramică și canale în stil venețian.",
+                  "category": "park",
+                  "coords": [
+                        49.844028,
+                        40.367333
+                  ]
+            },
+            {
+                  "name": "Bakı Fotoqrafiya Evi",
+                  "text": "Situat în istorica „Casă cu lanțuri”, acest muzeu expune fotografii ale unor artiști locali și internaționali.",
+                  "category": "museum",
+                  "coords": [
+                        49.836556,
+                        40.36764
+                  ]
+            },
+            {
+                  "name": "Musiqi Mədəniyyət Muzeyi",
+                  "text": "Acest muzeu adăpostește o colecție vastă de instrumente muzicale tradiționale azere, precum tarul și kamancha.",
+                  "category": "museum",
+                  "coords": [
+                        49.847409,
+                        40.372707
+                  ]
+            },
+            {
+                  "name": "Siyasi Repressiya Qurbanları Muzeyi",
+                  "text": "Un muzeu sumbru situat în fostul sediu al NKVD, care documentează victimele represiunii sovietice.",
+                  "category": "museum",
+                  "coords": [
+                        49.847543,
+                        40.371056
+                  ]
+            },
+            {
+                  "name": "Tofiq Quliyev heykəli",
+                  "text": "O statuie de bronz în cinstea proeminentului compozitor și pianist azer Tofig Guliyev.",
+                  "category": "historical",
+                  "coords": [
+                        49.849998,
+                        40.37784
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nizami Ganjavi Museum",
+                  "text": "The museum features six statues of prominent Azerbaijani writers on its ornate facade.",
+                  "category": "museum",
+                  "coords": [
+                        49.836352,
+                        40.369891
+                  ]
+            },
+            {
+                  "name": "Niyazinin ev-muzeyi",
+                  "text": "This museum is dedicated to the life of the famous Azerbaijani conductor and composer Niyazi.",
+                  "category": "museum",
+                  "coords": [
+                        49.843036,
+                        40.374853
+                  ]
+            },
+            {
+                  "name": "The National History Museum of Azerbaijan",
+                  "text": "The museum is housed in the opulent former mansion of oil magnate Haji Zeynalabdin Taghiyev.",
+                  "category": "museum",
+                  "coords": [
+                        49.840071,
+                        40.369348
+                  ]
+            },
+            {
+                  "name": "Maiden Tower",
+                  "text": "This 12th-century cylindrical tower is a UNESCO-listed symbol of Baku's Old City.",
+                  "category": "castle",
+                  "coords": [
+                        49.83724,
+                        40.366143
+                  ]
+            },
+            {
+                  "name": "Underground Bath of Baku",
+                  "text": "A restored 17th-century subterranean bathhouse located near the main gates of the Old City.",
+                  "category": "museum",
+                  "coords": [
+                        49.83673,
+                        40.368661
+                  ]
+            },
+            {
+                  "name": "The Museum Centre",
+                  "text": "A neoclassical building that hosts several state museums, formerly used as the Lenin Museum.",
+                  "category": "museum",
+                  "coords": [
+                        49.842563,
+                        40.369745
+                  ]
+            },
+            {
+                  "name": "Jafar Jabbarli",
+                  "text": "A monumental statue of the Azerbaijani playwright situated in the square in front of the railway station.",
+                  "category": "historical",
+                  "coords": [
+                        49.847927,
+                        40.379326
+                  ]
+            },
+            {
+                  "name": "House of Government",
+                  "text": "A massive Soviet-era building on Azadliq Square characterized by its layered arched galleries.",
+                  "category": "historical",
+                  "coords": [
+                        49.85264,
+                        40.373843
+                  ]
+            },
+            {
+                  "name": "Synagogue of the Ashkenazi Jews in Baku",
+                  "text": "Built in 2003, this modern synagogue serves the Ashkenazi Jewish community of Baku.",
+                  "category": "religious",
+                  "coords": [
+                        49.838098,
+                        40.375557
+                  ]
+            },
+            {
+                  "name": "Opera və Balet Teatrı",
+                  "text": "An elegant Art Nouveau theatre building completed in 1911, known for its opulent interiors.",
+                  "category": "cultural",
+                  "coords": [
+                        49.845354,
+                        40.374736
+                  ]
+            },
+            {
+                  "name": "Rashid Behbudov State Song Theatre",
+                  "text": "This theatre is housed in a grand historic building that originally served as a synagogue.",
+                  "category": "cultural",
+                  "coords": [
+                        49.846835,
+                        40.374644
+                  ]
+            },
+            {
+                  "name": "Azerbaijan State Russian Drama Theatre",
+                  "text": "A major cultural venue in central Baku performing classic and contemporary Russian-language plays.",
+                  "category": "cultural",
+                  "coords": [
+                        49.840803,
+                        40.372341
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev Sarayı",
+                  "text": "Baku's premier concert hall, featuring a distinctive modernist facade and hosting major international events.",
+                  "category": "cultural",
+                  "coords": [
+                        49.841542,
+                        40.37777
+                  ]
+            },
+            {
+                  "name": "Azərbaycan Dövlət Kukla Teatrı",
+                  "text": "This eclectic building from 1910 was originally designed as a cinema before becoming a puppet theatre.",
+                  "category": "cultural",
+                  "coords": [
+                        49.839152,
+                        40.366998
+                  ]
+            },
+            {
+                  "name": "St. Gregory the Illuminator's Church",
+                  "text": "A 19th-century Armenian church with a traditional dome, currently housing a presidential library archive.",
+                  "category": "landmark",
+                  "coords": [
+                        49.836439,
+                        40.371664
+                  ]
+            },
+            {
+                  "name": "Parachute tower",
+                  "text": "A 75-meter tall lattice steel tower on the seaside boulevard, built in the 1930s for parachute training.",
+                  "category": "landmark",
+                  "coords": [
+                        49.844004,
+                        40.368565
+                  ]
+            },
+            {
+                  "name": "Winter Park",
+                  "text": "A modern urban park featuring expansive manicured lawns and fountains, built on a former residential site.",
+                  "category": "park",
+                  "coords": [
+                        49.836184,
+                        40.376359
+                  ]
+            },
+            {
+                  "name": "Sahil bağı",
+                  "text": "This central park features a large three-tier fountain and monument to Azerbaijani cultural figures.",
+                  "category": "park",
+                  "coords": [
+                        49.845756,
+                        40.373129
+                  ]
+            },
+            {
+                  "name": "Dənizkənarı Milli Park",
+                  "text": "A scenic promenade stretching along the Caspian Sea, featuring gardens, a Ferris wheel, and Venice-style canals.",
+                  "category": "park",
+                  "coords": [
+                        49.844028,
+                        40.367333
+                  ]
+            },
+            {
+                  "name": "Baku Photography House",
+                  "text": "Located in the historic \"Chain House,\" this museum displays photography from local and international artists.",
+                  "category": "museum",
+                  "coords": [
+                        49.836556,
+                        40.36764
+                  ]
+            },
+            {
+                  "name": "Musiqi Mədəniyyət Muzeyi",
+                  "text": "This museum houses a vast collection of traditional Azerbaijani musical instruments like the tar and kamancha.",
+                  "category": "museum",
+                  "coords": [
+                        49.847409,
+                        40.372707
+                  ]
+            },
+            {
+                  "name": "Siyasi Repressiya Qurbanları Muzeyi",
+                  "text": "A somber museum located in the former NKVD headquarters, documenting the victims of Soviet repression.",
+                  "category": "museum",
+                  "coords": [
+                        49.847543,
+                        40.371056
+                  ]
+            },
+            {
+                  "name": "Tofig Guliyev monument",
+                  "text": "A bronze statue honoring the prominent Azerbaijani composer and pianist Tofig Guliyev.",
+                  "category": "historical",
+                  "coords": [
+                        49.849998,
+                        40.37784
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "AZ-BA",
     coords: [49.8373, 40.3662],
@@ -108,7 +1458,628 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
       fr: ["Les travaux de construction ont commencé au XVe siècle.", "C'est une partie importante du patrimoine mondial de l'UNESCO de la vieille ville de Bakou.", "Le complexe comprend un palais principal, une mosquée, un mausolée et des bains.", "C'était le siège de la dynastie régnante des Chirvanchahs.", "Le Divan-khana est un pavillon octogonal unique.", "Le palais a été endommagé en 1723 par un bombardement naval russe.", "Il figure sur le billet de 10 000 manats (ancienne monnaie).", "Le complexe présente divers styles d'architecture islamique médiévale."],
     }, image: "/poi-images/shirvanshahs-palace-landmarks-v2.webp"},
   {
-    id: "heydar-aliyev-center-landmarks-v2",
+    id: "heydar-aliyev-center-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "İncəsənət Akademiyası",
+                  "text": "Die staatliche Kunstakademie Aserbaidschans ist ein wichtiges Zentrum für die Ausbildung junger Talente.",
+                  "category": "cultural",
+                  "coords": [
+                        49.873837,
+                        40.396271
+                  ]
+            },
+            {
+                  "name": "38 saylı Musiqi məktəbi",
+                  "text": "Eine spezialisierte Bildungseinrichtung, die sich der musikalischen Ausbildung von Kindern und Jugendlichen widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        49.858594,
+                        40.40326
+                  ]
+            },
+            {
+                  "name": "Museum of Modern Art",
+                  "text": "Dieses Museum für moderne Kunst zeigt Werke aserbaidschanischer Avantgardisten sowie Stücke von Picasso und Dalí.",
+                  "category": "museum",
+                  "coords": [
+                        49.864607,
+                        40.378095
+                  ]
+            },
+            {
+                  "name": "The Victory Museum",
+                  "text": "Ein Museum, das dem militärischen Sieg und der nationalen Geschichte Aserbaidschans gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        49.865826,
+                        40.375988
+                  ]
+            },
+            {
+                  "name": "Təhsil Muzeyi",
+                  "text": "Das Bildungsmuseum dokumentiert die Entwicklung des Schulwesens und der Pädagogik im Land.",
+                  "category": "museum",
+                  "coords": [
+                        49.861423,
+                        40.392225
+                  ]
+            },
+            {
+                  "name": "21 Uşaq Yaradıcılıq Mərkəzi",
+                  "text": "Ein kreatives Zentrum, das außerschulische Kurse und Kunstprojekte für Kinder anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        49.862673,
+                        40.393012
+                  ]
+            },
+            {
+                  "name": "I love Baku",
+                  "text": "Ein beliebter Fotospot mit einer markanten Skulptur vor der geschwungenen Kulisse des Heydar-Aliyev-Zentrums.",
+                  "category": "landmark",
+                  "coords": [
+                        49.864946,
+                        40.39407
+                  ]
+            },
+            {
+                  "name": "Baki Əyləncə Mərkəzi",
+                  "text": "Ein großer Freizeitkomplex, der verschiedene Unterhaltungsmöglichkeiten und Spiele für Familien bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        49.868658,
+                        40.385041
+                  ]
+            },
+            {
+                  "name": "Dmitri Mendeleyev",
+                  "text": "Ein Denkmal zu Ehren des russischen Chemikers Dmitri Mendelejew, dem Erfinder des Periodensystems.",
+                  "category": "historical",
+                  "coords": [
+                        49.871868,
+                        40.382412
+                  ]
+            },
+            {
+                  "name": "Xocalı soyqırımı memorial",
+                  "text": "Die Bronzeskulptur „Schrei der Mutter“ erinnert an die Opfer der Tragödie von Chodschali im Jahr 1992.",
+                  "category": "historical",
+                  "coords": [
+                        49.873933,
+                        40.382993
+                  ]
+            },
+            {
+                  "name": "Nərimanov parkı",
+                  "text": "Eine zentrale Grünanlage mit Spazierwegen, benannt nach dem Politiker Nariman Narimanov.",
+                  "category": "park",
+                  "coords": [
+                        49.871634,
+                        40.401888
+                  ]
+            },
+            {
+                  "name": "Şəki Dairəsi",
+                  "text": "Ein städtischer Orientierungspunkt, der nach der historischen aserbaidschanischen Stadt Schäki benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        49.864305,
+                        40.408724
+                  ]
+            },
+            {
+                  "name": "Zəfər Parkı",
+                  "text": "Ein moderner Gedenkpark am Ufer des Kaspischen Meeres, der den militärischen Erfolgen des Landes gewidmet ist.",
+                  "category": "park",
+                  "coords": [
+                        49.868936,
+                        40.376218
+                  ]
+            },
+            {
+                  "name": "Hərbi Qənimətlər Parkı",
+                  "text": "Dieses Freilichtmuseum zeigt beschlagnahmte Militärausrüstung und Panzer aus dem Bergkarabach-Konflikt.",
+                  "category": "museum",
+                  "coords": [
+                        49.874301,
+                        40.376713
+                  ]
+            },
+            {
+                  "name": "Sevgi parkı",
+                  "text": "Ein romantisch gestalteter Park mit modernen Skulpturen und gepflegten Blumenbeeten.",
+                  "category": "park",
+                  "coords": [
+                        49.864888,
+                        40.386927
+                  ]
+            },
+            {
+                  "name": "Molokan İcması Bakı",
+                  "text": "Ein Versammlungsort der christlichen Molokanen-Gemeinde, einer ethnischen Minderheit in Baku.",
+                  "category": "landmark",
+                  "coords": [
+                        49.861336,
+                        40.39786
+                  ]
+            },
+            {
+                  "name": "NorthWest",
+                  "text": "Ein zeitgenössisches muslimisches Gotteshaus im nordwestlichen Teil der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        49.859636,
+                        40.420884
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "İncəsənət Akademiyası",
+                  "text": "Azerbajdzsán állami művészeti akadémiája, a fiatal tehetségek képzésének fontos központja.",
+                  "category": "cultural",
+                  "coords": [
+                        49.873837,
+                        40.396271
+                  ]
+            },
+            {
+                  "name": "38 saylı Musiqi məktəbi",
+                  "text": "Speciális oktatási intézmény, amely gyermekek és fiatalok zenei képzésével foglalkozik.",
+                  "category": "cultural",
+                  "coords": [
+                        49.858594,
+                        40.40326
+                  ]
+            },
+            {
+                  "name": "Museum of Modern Art",
+                  "text": "Ez a modern művészeti múzeum azerbajdzsáni avantgárd alkotók, valamint Picasso és Dalí műveit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        49.864607,
+                        40.378095
+                  ]
+            },
+            {
+                  "name": "The Victory Museum",
+                  "text": "A katonai győzelemnek és Azerbajdzsán nemzeti történelmének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        49.865826,
+                        40.375988
+                  ]
+            },
+            {
+                  "name": "Təhsil Muzeyi",
+                  "text": "Az oktatási múzeum az ország iskolarendszerének és pedagógiájának fejlődését dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        49.861423,
+                        40.392225
+                  ]
+            },
+            {
+                  "name": "21 Uşaq Yaradıcılıq Mərkəzi",
+                  "text": "Kreatív központ, amely iskolán kívüli foglalkozásokat és művészeti projekteket kínál gyermekeknek.",
+                  "category": "cultural",
+                  "coords": [
+                        49.862673,
+                        40.393012
+                  ]
+            },
+            {
+                  "name": "I love Baku",
+                  "text": "Népszerű fotóhelyszín jellegzetes szoborral, a Heydar Aliyev Központ hullámzó épülete előtt.",
+                  "category": "landmark",
+                  "coords": [
+                        49.864946,
+                        40.39407
+                  ]
+            },
+            {
+                  "name": "Baki Əyləncə Mərkəzi",
+                  "text": "Nagy szabadidős komplexum, amely különféle szórakozási lehetőségeket és játékokat kínál családoknak.",
+                  "category": "recreational",
+                  "coords": [
+                        49.868658,
+                        40.385041
+                  ]
+            },
+            {
+                  "name": "Dmitri Mendeleyev",
+                  "text": "Emlékmű Dmitrij Mengyelejev orosz kémikus, a periódusos rendszer megalkotója tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        49.871868,
+                        40.382412
+                  ]
+            },
+            {
+                  "name": "Xocalı soyqırımı memorial",
+                  "text": "Az „Anya sikolya” című bronzszobor az 1992-es hodzsali tragédia áldozatainak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        49.873933,
+                        40.382993
+                  ]
+            },
+            {
+                  "name": "Nərimanov parkı",
+                  "text": "Központi zöldterület sétautakkal, amely Nariman Narimanov politikusról kapta a nevét.",
+                  "category": "park",
+                  "coords": [
+                        49.871634,
+                        40.401888
+                  ]
+            },
+            {
+                  "name": "Şəki Dairəsi",
+                  "text": "Városi tájékozódási pont, amelyet a történelmi azerbajdzsáni városról, Sekiről neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        49.864305,
+                        40.408724
+                  ]
+            },
+            {
+                  "name": "Zəfər Parkı",
+                  "text": "Modern emlékpark a Kaszpi-tenger partján, amelyet az ország katonai sikereinek szenteltek.",
+                  "category": "park",
+                  "coords": [
+                        49.868936,
+                        40.376218
+                  ]
+            },
+            {
+                  "name": "Katonai Zsákmánypark",
+                  "text": "Ez a szabadtéri múzeum a hegyi-karabahi konfliktusból származó lefoglalt katonai felszereléseket és tankokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        49.874301,
+                        40.376713
+                  ]
+            },
+            {
+                  "name": "Sevgi parkı",
+                  "text": "Romantikus hangulatú park modern szobrokkal és gondozott virágágyásokkal.",
+                  "category": "park",
+                  "coords": [
+                        49.864888,
+                        40.386927
+                  ]
+            },
+            {
+                  "name": "Molokan İcması Bakı",
+                  "text": "A molokán keresztény közösség gyülekezőhelye, amely egy etnikai kisebbség Bakuban.",
+                  "category": "landmark",
+                  "coords": [
+                        49.861336,
+                        40.39786
+                  ]
+            },
+            {
+                  "name": "NorthWest",
+                  "text": "Kortárs muszlim imaház a város északnyugati részén.",
+                  "category": "religious",
+                  "coords": [
+                        49.859636,
+                        40.420884
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "İncəsənət Akademiyası",
+                  "text": "Academia de stat de arte din Azerbaidjan, un centru important pentru formarea tinerelor talente.",
+                  "category": "cultural",
+                  "coords": [
+                        49.873837,
+                        40.396271
+                  ]
+            },
+            {
+                  "name": "38 saylı Musiqi məktəbi",
+                  "text": "O instituție de învățământ specializată, dedicată educației muzicale a copiilor și tinerilor.",
+                  "category": "cultural",
+                  "coords": [
+                        49.858594,
+                        40.40326
+                  ]
+            },
+            {
+                  "name": "Museum of Modern Art",
+                  "text": "Acest muzeu de artă modernă expune lucrări ale avangardiștilor azeri, precum și piese de Picasso și Dalí.",
+                  "category": "museum",
+                  "coords": [
+                        49.864607,
+                        40.378095
+                  ]
+            },
+            {
+                  "name": "The Victory Museum",
+                  "text": "Un muzeu dedicat victoriei militare și istoriei naționale a Azerbaidjanului.",
+                  "category": "museum",
+                  "coords": [
+                        49.865826,
+                        40.375988
+                  ]
+            },
+            {
+                  "name": "Təhsil Muzeyi",
+                  "text": "Muzeul educației documentează dezvoltarea sistemului școlar și a pedagogiei din țară.",
+                  "category": "museum",
+                  "coords": [
+                        49.861423,
+                        40.392225
+                  ]
+            },
+            {
+                  "name": "21 Uşaq Yaradıcılıq Mərkəzi",
+                  "text": "Un centru de creație care oferă cursuri extrașcolare și proiecte artistice pentru copii.",
+                  "category": "cultural",
+                  "coords": [
+                        49.862673,
+                        40.393012
+                  ]
+            },
+            {
+                  "name": "I love Baku",
+                  "text": "Un loc popular pentru fotografii, cu o sculptură distinctivă în fața fundalului curbat al Centrului Heydar Aliyev.",
+                  "category": "landmark",
+                  "coords": [
+                        49.864946,
+                        40.39407
+                  ]
+            },
+            {
+                  "name": "Baki Əyləncə Mərkəzi",
+                  "text": "Un complex mare de agrement care oferă diverse opțiuni de divertisment și jocuri pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        49.868658,
+                        40.385041
+                  ]
+            },
+            {
+                  "name": "Dmitri Mendeleyev",
+                  "text": "Un monument în onoarea chimistului rus Dmitri Mendeleev, creatorul tabelului periodic.",
+                  "category": "historical",
+                  "coords": [
+                        49.871868,
+                        40.382412
+                  ]
+            },
+            {
+                  "name": "Xocalı soyqırımı memorial",
+                  "text": "Sculptura de bronz „Strigătul mamei” comemorează victimele tragediei de la Khojaly din 1992.",
+                  "category": "historical",
+                  "coords": [
+                        49.873933,
+                        40.382993
+                  ]
+            },
+            {
+                  "name": "Nərimanov parkı",
+                  "text": "Un spațiu verde central cu alei de promenadă, numit după politicianul Nariman Narimanov.",
+                  "category": "park",
+                  "coords": [
+                        49.871634,
+                        40.401888
+                  ]
+            },
+            {
+                  "name": "Şəki Dairəsi",
+                  "text": "Un punct de reper urban numit după orașul istoric azer Șaki.",
+                  "category": "landmark",
+                  "coords": [
+                        49.864305,
+                        40.408724
+                  ]
+            },
+            {
+                  "name": "Zəfər Parkı",
+                  "text": "Un parc memorial modern pe malul Mării Caspice, dedicat succeselor militare ale țării.",
+                  "category": "park",
+                  "coords": [
+                        49.868936,
+                        40.376218
+                  ]
+            },
+            {
+                  "name": "Hərbi Qənimətlər Parkı",
+                  "text": "Acest muzeu în aer liber expune echipament militar capturat și tancuri din conflictul din Nagorno-Karabah.",
+                  "category": "museum",
+                  "coords": [
+                        49.874301,
+                        40.376713
+                  ]
+            },
+            {
+                  "name": "Sevgi parkı",
+                  "text": "Un parc amenajat romantic, cu sculpturi moderne și straturi de flori îngrijite.",
+                  "category": "park",
+                  "coords": [
+                        49.864888,
+                        40.386927
+                  ]
+            },
+            {
+                  "name": "Molokan İcması Bakı",
+                  "text": "Un loc de adunare al comunității creștine molokane, o minoritate etnică din Baku.",
+                  "category": "landmark",
+                  "coords": [
+                        49.861336,
+                        40.39786
+                  ]
+            },
+            {
+                  "name": "NorthWest",
+                  "text": "Un lăcaș de cult musulman contemporan situat în partea de nord-vest a orașului.",
+                  "category": "religious",
+                  "coords": [
+                        49.859636,
+                        40.420884
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "İncəsənət Akademiyası",
+                  "text": "The state art academy of Azerbaijan, a major center for the education of young artistic talents.",
+                  "category": "cultural",
+                  "coords": [
+                        49.873837,
+                        40.396271
+                  ]
+            },
+            {
+                  "name": "38 saylı Musiqi məktəbi",
+                  "text": "A specialized educational institution dedicated to the musical training of children and youth.",
+                  "category": "cultural",
+                  "coords": [
+                        49.858594,
+                        40.40326
+                  ]
+            },
+            {
+                  "name": "Museum of Modern Art",
+                  "text": "This modern art museum showcases works by Azerbaijani avant-garde artists as well as pieces by Picasso and Dalí.",
+                  "category": "museum",
+                  "coords": [
+                        49.864607,
+                        40.378095
+                  ]
+            },
+            {
+                  "name": "The Victory Museum",
+                  "text": "A museum dedicated to military victory and the national history of Azerbaijan.",
+                  "category": "museum",
+                  "coords": [
+                        49.865826,
+                        40.375988
+                  ]
+            },
+            {
+                  "name": "Təhsil Muzeyi",
+                  "text": "The education museum documents the development of schooling and pedagogy in the country.",
+                  "category": "museum",
+                  "coords": [
+                        49.861423,
+                        40.392225
+                  ]
+            },
+            {
+                  "name": "21 Uşaq Yaradıcılıq Mərkəzi",
+                  "text": "A creative center providing after-school classes and art projects for children.",
+                  "category": "cultural",
+                  "coords": [
+                        49.862673,
+                        40.393012
+                  ]
+            },
+            {
+                  "name": "I love Baku",
+                  "text": "A popular photo spot featuring a distinctive sculpture set against the curved backdrop of the Heydar Aliyev Center.",
+                  "category": "landmark",
+                  "coords": [
+                        49.864946,
+                        40.39407
+                  ]
+            },
+            {
+                  "name": "Baku Entertainment Centre",
+                  "text": "A large leisure complex offering various entertainment options and games for families.",
+                  "category": "recreational",
+                  "coords": [
+                        49.868658,
+                        40.385041
+                  ]
+            },
+            {
+                  "name": "Dmitri Mendeleyev",
+                  "text": "A monument honoring the Russian chemist Dmitri Mendeleev, creator of the periodic table.",
+                  "category": "historical",
+                  "coords": [
+                        49.871868,
+                        40.382412
+                  ]
+            },
+            {
+                  "name": "Khojaly Genocide Memorial",
+                  "text": "The bronze sculpture \"Mother's Cry\" commemorates the victims of the Khojaly tragedy of 1992.",
+                  "category": "historical",
+                  "coords": [
+                        49.873933,
+                        40.382993
+                  ]
+            },
+            {
+                  "name": "Nərimanov parkı",
+                  "text": "A central green space with walking paths, named after the politician Nariman Narimanov.",
+                  "category": "park",
+                  "coords": [
+                        49.871634,
+                        40.401888
+                  ]
+            },
+            {
+                  "name": "Şəki Dairəsi",
+                  "text": "An urban landmark named after the historic Azerbaijani city of Sheki.",
+                  "category": "landmark",
+                  "coords": [
+                        49.864305,
+                        40.408724
+                  ]
+            },
+            {
+                  "name": "Zəfər Parkı",
+                  "text": "A modern memorial park on the shores of the Caspian Sea, dedicated to the country's military successes.",
+                  "category": "park",
+                  "coords": [
+                        49.868936,
+                        40.376218
+                  ]
+            },
+            {
+                  "name": "Military Trophies Park",
+                  "text": "This open-air museum displays captured military equipment and tanks from the Nagorno-Karabakh conflict.",
+                  "category": "museum",
+                  "coords": [
+                        49.874301,
+                        40.376713
+                  ]
+            },
+            {
+                  "name": "Love Park",
+                  "text": "A romantically designed park featuring modern sculptures and well-kept flower beds.",
+                  "category": "park",
+                  "coords": [
+                        49.864888,
+                        40.386927
+                  ]
+            },
+            {
+                  "name": "Molokan İcması Bakı",
+                  "text": "A gathering place for the Molokan Christian community, an ethnic minority in Baku.",
+                  "category": "landmark",
+                  "coords": [
+                        49.861336,
+                        40.39786
+                  ]
+            },
+            {
+                  "name": "NorthWest",
+                  "text": "A contemporary Muslim place of worship located in the northwestern part of the city.",
+                  "category": "religious",
+                  "coords": [
+                        49.859636,
+                        40.420884
+                  ]
+            }
+      ]
+},
     type: "icon",
     parent: "AZ-BA",
     coords: [49.8671, 40.3953],
@@ -143,7 +2114,124 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
       fr: ["Conçu par l'architecte de renommée mondiale Zaha Hadid.", "Le bâtiment a été inauguré en 2012.", "A remporté le prix Design of the Year du Design Museum en 2014.", "La structure couvre une surface de 57 500 mètres carrés.", "La conception évite délibérément toute ligne droite ou angle vif.", "L'enveloppe extérieure du bâtiment est en béton renforcé de fibres de verre (GFRC).", "Il porte le nom de Heydar Aliyev, le troisième président de l'Azerbaïdjan.", "Il marque une rupture avec le style architectural rigide de l'ère soviétique."],
     }, image: "/poi-images/heydar-aliyev-center-landmarks-v2.webp"},
   {
-    id: "gobustan-rock-art-landmarks-v2",
+    id: "gobustan-rock-art-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Torağay Dağı Palçıq Vulkanı",
+                  "text": "Einer der weltweit größten Schlammvulkane, der sich auf einem markanten Hügel befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        49.298253,
+                        40.165422
+                  ]
+            },
+            {
+                  "name": "Qobustan Dövlət Qoruğu",
+                  "text": "Ein UNESCO-Welterbe mit über 6.000 prähistorischen Felsbildern aus der Steinzeit.",
+                  "category": "landmark",
+                  "coords": [
+                        49.378801,
+                        40.11174
+                  ]
+            },
+            {
+                  "name": "Qobustan Dövlət Qoruğu",
+                  "text": "Ein Freilichtmuseum, das antike Petroglyphen und archäologische Funde der Region bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        49.381322,
+                        40.111238
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Torağay Dağı Palçıq Vulkanı",
+                  "text": "A világ egyik legnagyobb sárvulkánja, amely egy kiemelkedő dombtetőn található.",
+                  "category": "landmark",
+                  "coords": [
+                        49.298253,
+                        40.165422
+                  ]
+            },
+            {
+                  "name": "Qobustan Dövlət Qoruğu",
+                  "text": "UNESCO világörökségi helyszín több mint 6000 őskori, kőkorszaki sziklarajzzal.",
+                  "category": "landmark",
+                  "coords": [
+                        49.378801,
+                        40.11174
+                  ]
+            },
+            {
+                  "name": "Qobustan Dövlət Qoruğu",
+                  "text": "Szabadtéri múzeum, amely a régió ősi sziklarajzait és régészeti leleteit őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        49.381322,
+                        40.111238
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Torağay Dağı Palçıq Vulkanı",
+                  "text": "Unul dintre cei mai mari vulcani noroioși din lume, situat pe vârful unui deal proeminent.",
+                  "category": "landmark",
+                  "coords": [
+                        49.298253,
+                        40.165422
+                  ]
+            },
+            {
+                  "name": "Qobustan Dövlət Qoruğu",
+                  "text": "Un sit din patrimoniul mondial UNESCO cu peste 6.000 de gravuri rupestre preistorice.",
+                  "category": "landmark",
+                  "coords": [
+                        49.378801,
+                        40.11174
+                  ]
+            },
+            {
+                  "name": "Qobustan Dövlət Qoruğu",
+                  "text": "Un muzeu în aer liber care păstrează petroglife antice și vestigii arheologice din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        49.381322,
+                        40.111238
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Torağay Dağı Palçıq Vulkanı",
+                  "text": "One of the world's largest mud volcanoes, situated on a prominent hilltop.",
+                  "category": "landmark",
+                  "coords": [
+                        49.298253,
+                        40.165422
+                  ]
+            },
+            {
+                  "name": "Gobustan Rock Art Cultural Landscapes",
+                  "text": "A UNESCO World Heritage site featuring over 6,000 prehistoric rock engravings from the Stone Age.",
+                  "category": "landmark",
+                  "coords": [
+                        49.378801,
+                        40.11174
+                  ]
+            },
+            {
+                  "name": "Gobustan State Historical and Cultural Reserve",
+                  "text": "An open-air museum preserving ancient petroglyphs and archaeological remains of the region.",
+                  "category": "museum",
+                  "coords": [
+                        49.381322,
+                        40.111238
+                  ]
+            }
+      ]
+},
     type: "tourist-attraction",
     parent: "AZ-QOB",
     coords: [49.3833, 40.1167],
@@ -178,7 +2266,232 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
       fr: ["Classé au patrimoine mondial de l'UNESCO en 2007.", "Contient plus de 6 000 gravures rupestres (pétroglyphes).", "Les sculptures couvrent une période de 40 000 ans.", "Les représentations incluent des humains, des animaux et des scènes de combat.", "La région abrite également des volcans de boue.", "Une inscription romaine du Ier siècle après J.-C. y a été découverte.", "Le musée sur place offre un contexte aux sculptures.", "Le nom Gobustan signifie 'terre des ravins'."],
     }, image: "/poi-images/gobustan-rock-art-landmarks-v2.webp"},
   {
-    id: "gobustan-mud-volcanoes-landmarks-v2",
+    id: "gobustan-mud-volcanoes-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Heydər Əliyev heykəli",
+                  "text": "Ein Denkmal zu Ehren des ehemaligen aserbaidschanischen Präsidenten im Stadtzentrum.",
+                  "category": "historical",
+                  "coords": [
+                        49.409523,
+                        39.949017
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi",
+                  "text": "Ein regionales Kulturhaus, das für lokale Theateraufführungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        49.410528,
+                        39.94922
+                  ]
+            },
+            {
+                  "name": "Yay Klubu",
+                  "text": "Ein Freilicht-Veranstaltungsort für sommerliche Konzerte und Gemeindefeste.",
+                  "category": "cultural",
+                  "coords": [
+                        49.409951,
+                        39.937968
+                  ]
+            },
+            {
+                  "name": "Məscid",
+                  "text": "Eine lokale Moschee mit klassischem regionalen Design und einem spitzen Minarett.",
+                  "category": "landmark",
+                  "coords": [
+                        49.407728,
+                        39.966014
+                  ]
+            },
+            {
+                  "name": "Ələt Məscidi",
+                  "text": "Eine Küstenmoschee in Alat, die durch ihre traditionelle Architektur besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        49.407767,
+                        39.95455
+                  ]
+            },
+            {
+                  "name": "Bazar Ələt",
+                  "text": "Ein lebhafter Marktplatz in der Hafenstadt Alat, bekannt für frischen Fisch.",
+                  "category": "cultural",
+                  "coords": [
+                        49.410138,
+                        39.954923
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Heydər Əliyev heykəli",
+                  "text": "Azerbajdzsán volt elnökének tiszteletére emelt emlékmű a városközpontban.",
+                  "category": "historical",
+                  "coords": [
+                        49.409523,
+                        39.949017
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi",
+                  "text": "Regionális művelődési ház, amelyet helyi színházi előadásokhoz használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        49.410528,
+                        39.94922
+                  ]
+            },
+            {
+                  "name": "Yay Klubu",
+                  "text": "Szabadtéri rendezvényhelyszín nyári koncertekhez és közösségi fesztiválokhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        49.409951,
+                        39.937968
+                  ]
+            },
+            {
+                  "name": "Məscid",
+                  "text": "Helyi mecset klasszikus regionális stílusban, hegyes minarettel.",
+                  "category": "landmark",
+                  "coords": [
+                        49.407728,
+                        39.966014
+                  ]
+            },
+            {
+                  "name": "Ələt Məscidi",
+                  "text": "Partmenti mecset Ələt városában, amely hagyományos építészetével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        49.407767,
+                        39.95455
+                  ]
+            },
+            {
+                  "name": "Bazar Ələt",
+                  "text": "Nyüzsgő piactér Ələt kikötővárosában, amely friss halairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        49.410138,
+                        39.954923
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Heydər Əliyev heykəli",
+                  "text": "Un monument ridicat în cinstea fostului președinte al Azerbaidjanului în centrul orașului.",
+                  "category": "historical",
+                  "coords": [
+                        49.409523,
+                        39.949017
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi",
+                  "text": "O casă de cultură regională utilizată pentru spectacole de teatru locale.",
+                  "category": "cultural",
+                  "coords": [
+                        49.410528,
+                        39.94922
+                  ]
+            },
+            {
+                  "name": "Yay Klubu",
+                  "text": "Un loc de evenimente în aer liber pentru concerte de vară și festivaluri comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        49.409951,
+                        39.937968
+                  ]
+            },
+            {
+                  "name": "Məscid",
+                  "text": "O moschee locală cu design regional clasic și un minaret ascuțit.",
+                  "category": "landmark",
+                  "coords": [
+                        49.407728,
+                        39.966014
+                  ]
+            },
+            {
+                  "name": "Ələt Məscidi",
+                  "text": "O moschee de coastă în Alat, care se remarcat prin arhitectura sa tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        49.407767,
+                        39.95455
+                  ]
+            },
+            {
+                  "name": "Bazar Ələt",
+                  "text": "O piață plină de viață în orașul port Alat, cunoscută pentru peștele proaspăt.",
+                  "category": "cultural",
+                  "coords": [
+                        49.410138,
+                        39.954923
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Heydər Əliyev heykəli",
+                  "text": "A monument dedicated to the former Azerbaijani president in the town center.",
+                  "category": "historical",
+                  "coords": [
+                        49.409523,
+                        39.949017
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi",
+                  "text": "A regional cultural house used for local theater performances.",
+                  "category": "cultural",
+                  "coords": [
+                        49.410528,
+                        39.94922
+                  ]
+            },
+            {
+                  "name": "Yay Klubu",
+                  "text": "An open-air venue for summer concerts and community festivals.",
+                  "category": "cultural",
+                  "coords": [
+                        49.409951,
+                        39.937968
+                  ]
+            },
+            {
+                  "name": "Məscid",
+                  "text": "A local mosque with classic regional design and a pointed minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        49.407728,
+                        39.966014
+                  ]
+            },
+            {
+                  "name": "Ələt Məscidi",
+                  "text": "A coastal mosque in Alat distinguished by its traditional architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        49.407767,
+                        39.95455
+                  ]
+            },
+            {
+                  "name": "Bazar Ələt",
+                  "text": "A bustling marketplace in the port town of Alat, known for fresh fish.",
+                  "category": "cultural",
+                  "coords": [
+                        49.410138,
+                        39.954923
+                  ]
+            }
+      ]
+},
     type: "tourist-attraction",
     parent: "AZ-QOB",
     coords: [49.4000, 39.9500],
@@ -248,7 +2561,1204 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
       fr: ["Le complexe a été construit aux XVIIe-XVIIIe siècles.", "Il était utilisé par des fidèles hindous, sikhs et zoroastriens.", "Le nom 'Ateshgah' signifie 'Lieu du Feu'.", "La flamme centrale était à l'origine alimentée par une source de gaz naturel.", "Le complexe a une forme pentagonale avec une cour centrale.", "Il a cessé d'être un lieu de culte après 1883.", "Il a été transformé en musée en 1975.", "Le site a été proposé pour le statut de patrimoine mondial de l'UNESCO en 1998."],
     }, image: "/poi-images/ateshgah-baku-landmarks-v2.webp"},
   {
-    id: "yanar-dag-landmarks-v2",
+    id: "yanar-dag-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Yanar Dağ",
+                  "text": "Erdgasfeuer an einem Hang in Aserbaidschan, das seit Jahrzehnten ununterbrochen brennt.",
+                  "category": "landmark",
+                  "coords": [
+                        49.891201,
+                        40.501835
+                  ]
+            },
+            {
+                  "name": "Diyarşünaslıq Muzeyi",
+                  "text": "Museum in der Region Abscheron, das die Kulturgeschichte und Volkskunst Aserbaidschans zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        49.902698,
+                        40.503773
+                  ]
+            },
+            {
+                  "name": "Tarix Diyarşünaslıq Muzeyi",
+                  "text": "Geschichtsmuseum in Aserbaidschan, das sich der Erhaltung von Artefakten und des Erbes der Region widmet.",
+                  "category": "museum",
+                  "coords": [
+                        49.845079,
+                        40.529402
+                  ]
+            },
+            {
+                  "name": "Rəsulzadənin Ev Muzeyi",
+                  "text": "Ein Museum im Geburtshaus des Gründers der Ersten Republik Aserbaidschan in Nowchani.",
+                  "category": "museum",
+                  "coords": [
+                        49.7807,
+                        40.52789
+                  ]
+            },
+            {
+                  "name": "Bakı Elektrik Şəbəkə Muzeyi",
+                  "text": "Ein spezialisiertes Museum in der Nähe von Baku, das die Entwicklung des städtischen Stromnetzes dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        49.840391,
+                        40.463266
+                  ]
+            },
+            {
+                  "name": "Şəhidlər Abidəsi",
+                  "text": "Ein Denkmal für die Gefallenen der Unabhängigkeitsbewegung auf der Halbinsel Abscheron.",
+                  "category": "historical",
+                  "coords": [
+                        49.898167,
+                        40.504911
+                  ]
+            },
+            {
+                  "name": "Abidə",
+                  "text": "Ein lokales Gedenkmonument in der Siedlung, das als Treffpunkt im Ortskern dient.",
+                  "category": "historical",
+                  "coords": [
+                        49.845439,
+                        40.528022
+                  ]
+            },
+            {
+                  "name": "1941-1945 Abidə",
+                  "text": "Ein Denkmal für die Helden des Zweiten Weltkriegs, oft mit einer ewigen Flamme geschmückt.",
+                  "category": "historical",
+                  "coords": [
+                        49.779119,
+                        40.528182
+                  ]
+            },
+            {
+                  "name": "Mehti Hüseyinzadənin abidəsi",
+                  "text": "Eine Statue zu Ehren des legendären aserbaidschanischen Partisanenhelden des Zweiten Weltkriegs.",
+                  "category": "historical",
+                  "coords": [
+                        49.787507,
+                        40.525766
+                  ]
+            },
+            {
+                  "name": "Kürdəxanı Mədəniyyət Evi",
+                  "text": "Ein Gemeinschaftszentrum in Kürdəxanı, das lokale Kunstausstellungen und Theaterabende ausrichtet.",
+                  "category": "cultural",
+                  "coords": [
+                        49.921935,
+                        40.546854
+                  ]
+            },
+            {
+                  "name": "Pirşağı Mədəniyyət Evi",
+                  "text": "Ein Kulturhaus in der Küstensiedlung Pirşağı, das als Treffpunkt für soziale und künstlerische Projekte dient.",
+                  "category": "cultural",
+                  "coords": [
+                        49.887564,
+                        40.558076
+                  ]
+            },
+            {
+                  "name": "Mərkəzi Mədəniyyət Evi",
+                  "text": "Das zentrale Kulturgebäude des Bezirks, in dem festliche Veranstaltungen und Konzerte stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        49.827709,
+                        40.466273
+                  ]
+            },
+            {
+                  "name": "Musiqi Məktəbi",
+                  "text": "Eine Bildungseinrichtung in Binəqədi, die auf das Lehren der Tar und anderer nationaler Instrumente spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        49.851802,
+                        40.496193
+                  ]
+            },
+            {
+                  "name": "Dəniz Uşaq İnkişaf Mərkəzi",
+                  "text": "Ein maritim inspiriertes Bildungszentrum für Kinder an der Küste von Abscheron.",
+                  "category": "cultural",
+                  "coords": [
+                        49.839215,
+                        40.463722
+                  ]
+            },
+            {
+                  "name": "Tataz Piri",
+                  "text": "Eine historische heilige Stätte auf der Halbinsel Abscheron, die als spiritueller Wallfahrtsort dient.",
+                  "category": "religious",
+                  "coords": [
+                        49.890091,
+                        40.562455
+                  ]
+            },
+            {
+                  "name": "Ərzaq Topdan Satlş",
+                  "text": "Ein lebhafter Großhandelsmarkt für frische Lebensmittel und regionale Produkte auf der Halbinsel Abscheron.",
+                  "category": "cultural",
+                  "coords": [
+                        49.841621,
+                        40.457976
+                  ]
+            },
+            {
+                  "name": "Qarabağ Bazarı",
+                  "text": "Ein traditioneller Markt, der nach der Region Karabach benannt ist und frisches Obst und Gemüse anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        49.832209,
+                        40.47069
+                  ]
+            },
+            {
+                  "name": "Anar Kənd Bazarı \\ Goradil",
+                  "text": "Ein dörflicher Markt in Goradil, bekannt für den Verkauf von lokalem Honig und saisonalem Gemüse.",
+                  "category": "cultural",
+                  "coords": [
+                        49.834464,
+                        40.544417
+                  ]
+            },
+            {
+                  "name": "Yarımçıq Tikili Sanatoriya",
+                  "text": "Eine unvollendete Sanatoriumsanlage aus der Sowjetzeit mit Blick auf das Kaspische Meer.",
+                  "category": "landmark",
+                  "coords": [
+                        49.826072,
+                        40.564881
+                  ]
+            },
+            {
+                  "name": "Gilavar Sanatoriyası",
+                  "text": "Ein Kurort auf der Halbinsel Abscheron, der für seine Heilbäder und die salzhaltige Meeresluft bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        49.87819,
+                        40.562639
+                  ]
+            },
+            {
+                  "name": "Transformator",
+                  "text": "Eine industrielle Station in der Siedlung, die als markanter Orientierungspunkt im Viertel dient.",
+                  "category": "landmark",
+                  "coords": [
+                        49.93667,
+                        40.569763
+                  ]
+            },
+            {
+                  "name": "Hacı Zeynal Hamamı",
+                  "text": "Ein historisches aserbaidschanisches Dampfbad mit den charakteristischen Steinkuppeln der Abscheron-Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        49.91908,
+                        40.547419
+                  ]
+            },
+            {
+                  "name": "Hacı Abusalam Hamamı",
+                  "text": "Ein denkmalgeschütztes Hammam aus Stein, das die traditionelle Badekultur der Region bewahrt.",
+                  "category": "landmark",
+                  "coords": [
+                        49.890962,
+                        40.561488
+                  ]
+            },
+            {
+                  "name": "Abbas Bulağı",
+                  "text": "Eine öffentliche Wasserquelle mit einer kleinen Einfassung, die die Anwohner mit frischem Wasser versorgt.",
+                  "category": "landmark",
+                  "coords": [
+                        49.862393,
+                        40.560935
+                  ]
+            },
+            {
+                  "name": "Üç Yol",
+                  "text": "Eine wichtige Kreuzung in Binəqədi, die als zentraler Verkehrsknotenpunkt und Orientierungshilfe dient.",
+                  "category": "landmark",
+                  "coords": [
+                        49.847681,
+                        40.539362
+                  ]
+            },
+            {
+                  "name": "Abşeron Marina",
+                  "text": "Ein moderner Jachthafen am Kaspischen Meer mit Liegeplätzen für Boote und einer Uferpromenade.",
+                  "category": "landmark",
+                  "coords": [
+                        49.817419,
+                        40.565655
+                  ]
+            },
+            {
+                  "name": "Gilavar Oteli",
+                  "text": "Ein Hotel an der Küste von Abscheron, das Zimmer mit direktem Blick auf das Kaspische Meer bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        49.871098,
+                        40.564169
+                  ]
+            },
+            {
+                  "name": "Məmmədli Dairəsi",
+                  "text": "Ein großer Kreisverkehr in der Siedlung Məmmədli, der als wichtiger Wegweiser für Reisende gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        49.940607,
+                        40.512688
+                  ]
+            },
+            {
+                  "name": "Pirşağı dairəsi",
+                  "text": "Ein Verkehrsknotenpunkt am Eingang zum Küstenort Pirşağı, umgeben von lokalen Dienstleistungsgeschäften.",
+                  "category": "landmark",
+                  "coords": [
+                        49.892947,
+                        40.550969
+                  ]
+            },
+            {
+                  "name": "Binəqədi Dairəsi",
+                  "text": "Ein zentraler Kreisverkehr in Binəqədi, der die Hauptstraßen des Bezirks miteinander verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        49.836791,
+                        40.481086
+                  ]
+            },
+            {
+                  "name": "Əlbətti Məscidi",
+                  "text": "Eine moderne Moschee in der Siedlung, die als religiöser Treffpunkt für die lokale Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        49.842083,
+                        40.529101
+                  ]
+            },
+            {
+                  "name": "Hacı Heybət Məscidi",
+                  "text": "Eine kleine Moschee in einem der alten Viertel der Halbinsel Abscheron mit traditionellen Steinmauern.",
+                  "category": "landmark",
+                  "coords": [
+                        49.843717,
+                        40.528441
+                  ]
+            },
+            {
+                  "name": "Həmzə Məscidi",
+                  "text": "Ein muslimisches Gebetshaus in der Gemeinde, das durch seine schlichte Abscheron-Architektur geprägt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        49.784165,
+                        40.534373
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Yanar Dağ",
+                  "text": "Természetes gáztűz egy azerbajdzsáni domboldalon, amely évtizedek óta folyamatosan ég.",
+                  "category": "landmark",
+                  "coords": [
+                        49.891201,
+                        40.501835
+                  ]
+            },
+            {
+                  "name": "Diyarşünaslıq Muzeyi",
+                  "text": "Múzeum az Abseron-régióban, amely Azerbajdzsán kultúrtörténetét és népművészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        49.902698,
+                        40.503773
+                  ]
+            },
+            {
+                  "name": "Tarix Diyarşünaslıq Muzeyi",
+                  "text": "Történeti múzeum Azerbajdzsánban, amely a régió műtárgyainak és örökségének megőrzésével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        49.845079,
+                        40.529402
+                  ]
+            },
+            {
+                  "name": "Rəsulzadənin Ev Muzeyi",
+                  "text": "Azerbajdzsán első köztársasági alapítójának szülőházában berendezett múzeum Novkhani településen.",
+                  "category": "museum",
+                  "coords": [
+                        49.7807,
+                        40.52789
+                  ]
+            },
+            {
+                  "name": "Bakı Elektrik Şəbəkə Muzeyi",
+                  "text": "Bakuban található szakmúzeum, amely a városi elektromos hálózat fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        49.840391,
+                        40.463266
+                  ]
+            },
+            {
+                  "name": "Şəhidlər Abidəsi",
+                  "text": "Az Abşeron-félszigeten emelt emlékmű a függetlenségi mozgalom áldozatainak tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        49.898167,
+                        40.504911
+                  ]
+            },
+            {
+                  "name": "Abidə",
+                  "text": "A település központjában álló helyi emlékoszlop, amely közösségi találkozóhelyként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        49.845439,
+                        40.528022
+                  ]
+            },
+            {
+                  "name": "1941-1945 Abidə",
+                  "text": "A második világháború hőseinek emelt emlékmű, amelyet gyakran örökmécses díszít.",
+                  "category": "historical",
+                  "coords": [
+                        49.779119,
+                        40.528182
+                  ]
+            },
+            {
+                  "name": "Mehti Hüseyinzadənin abidəsi",
+                  "text": "Szobor a második világháború legendás azeri partizánhőse, Mehdi Huseynzade tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        49.787507,
+                        40.525766
+                  ]
+            },
+            {
+                  "name": "Kürdəxanı Mədəniyyət Evi",
+                  "text": "Kürdəxanı közösségi háza, amely helyi művészeti kiállításoknak és színházi esteknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        49.921935,
+                        40.546854
+                  ]
+            },
+            {
+                  "name": "Pirşağı Mədəniyyət Evi",
+                  "text": "Pirşağı tengerparti településének művelődési háza, amely társadalmi és művészeti projektek helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        49.887564,
+                        40.558076
+                  ]
+            },
+            {
+                  "name": "Mərkəzi Mədəniyyət Evi",
+                  "text": "A kerület központi művelődési háza, amely ünnepi eseményeknek és koncerteknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        49.827709,
+                        40.466273
+                  ]
+            },
+            {
+                  "name": "Musiqi Məktəbi",
+                  "text": "Binəqədi egyik oktatási intézménye, amely a tar és más nemzeti hangszerek tanítására szakosodott.",
+                  "category": "cultural",
+                  "coords": [
+                        49.851802,
+                        40.496193
+                  ]
+            },
+            {
+                  "name": "Dəniz Uşaq İnkişaf Mərkəzi",
+                  "text": "Tengerparti ihletésű oktatási központ gyermekek számára az Abşeron-félsziget partján.",
+                  "category": "cultural",
+                  "coords": [
+                        49.839215,
+                        40.463722
+                  ]
+            },
+            {
+                  "name": "Tataz Piri",
+                  "text": "Történelmi szent hely az Abşeron-félszigeten, amely spirituális zarándokhelyként ismert.",
+                  "category": "religious",
+                  "coords": [
+                        49.890091,
+                        40.562455
+                  ]
+            },
+            {
+                  "name": "Ərzaq Topdan Satlş",
+                  "text": "Élénk nagybani piac az Abşeron-félszigeten, ahol friss élelmiszereket és helyi termékeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        49.841621,
+                        40.457976
+                  ]
+            },
+            {
+                  "name": "Qarabağ Bazarı",
+                  "text": "A Karabah régióról elnevezett hagyományos piac, ahol friss gyümölcsöket és zöldségeket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        49.832209,
+                        40.47069
+                  ]
+            },
+            {
+                  "name": "Anar Kənd Bazarı \\ Goradil",
+                  "text": "Goradil falusi piaca, amely a helyi méz és szezonális zöldségek árusításáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        49.834464,
+                        40.544417
+                  ]
+            },
+            {
+                  "name": "Yarımçıq Tikili Sanatoriya",
+                  "text": "Egy befejezetlen, szovjet korszakból származó szanatórium épületegyüttese kilátással a Kaszpi-tengerre.",
+                  "category": "landmark",
+                  "coords": [
+                        49.826072,
+                        40.564881
+                  ]
+            },
+            {
+                  "name": "Gilavar Sanatoriyası",
+                  "text": "Gyógyüdülő az Abşeron-félszigeten, amely gyógyfürdőiről és sós tengeri levegőjéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        49.87819,
+                        40.562639
+                  ]
+            },
+            {
+                  "name": "Transformator",
+                  "text": "Ipari állomás a településen, amely jellegzetes tájékozódási pontként szolgál a környéken.",
+                  "category": "landmark",
+                  "coords": [
+                        49.93667,
+                        40.569763
+                  ]
+            },
+            {
+                  "name": "Hacı Zeynal Hamamı",
+                  "text": "Történelmi azeri gőzfürdő az Abşeron-építészetre jellemző jellegzetes kőkupolákkal.",
+                  "category": "landmark",
+                  "coords": [
+                        49.91908,
+                        40.547419
+                  ]
+            },
+            {
+                  "name": "Hacı Abusalam Hamamı",
+                  "text": "Műemléki védelem alatt álló kő hamam, amely megőrzi a régió hagyományos fürdőkultúráját.",
+                  "category": "landmark",
+                  "coords": [
+                        49.890962,
+                        40.561488
+                  ]
+            },
+            {
+                  "name": "Abbas Bulağı",
+                  "text": "Kis építménnyel körbevett nyilvános forrás, amely friss vizet biztosít a helyi lakosoknak.",
+                  "category": "landmark",
+                  "coords": [
+                        49.862393,
+                        40.560935
+                  ]
+            },
+            {
+                  "name": "Üç Yol",
+                  "text": "Binəqədi egyik fontos útkereszteződése, amely központi közlekedési csomópontként és tájékozódási pontként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        49.847681,
+                        40.539362
+                  ]
+            },
+            {
+                  "name": "Abşeron Marina",
+                  "text": "Modern jachtkikötő a Kaszpi-tengernél hajókikötőkkel és parti sétánnyal.",
+                  "category": "landmark",
+                  "coords": [
+                        49.817419,
+                        40.565655
+                  ]
+            },
+            {
+                  "name": "Gilavar Oteli",
+                  "text": "Szálloda az Abşeron-parton, amely közvetlen kilátást nyújt a Kaszpi-tengerre.",
+                  "category": "landmark",
+                  "coords": [
+                        49.871098,
+                        40.564169
+                  ]
+            },
+            {
+                  "name": "Məmmədli Dairəsi",
+                  "text": "Nagy körforgalom Məmmədli településen, amely fontos útmutatóként szolgál az utazók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        49.940607,
+                        40.512688
+                  ]
+            },
+            {
+                  "name": "Pirşağı dairəsi",
+                  "text": "Közlekedési csomópont Pirşağı tengerparti üdülőfalu bejáratánál, helyi üzletekkel körülvéve.",
+                  "category": "landmark",
+                  "coords": [
+                        49.892947,
+                        40.550969
+                  ]
+            },
+            {
+                  "name": "Binəqədi Dairəsi",
+                  "text": "Binəqədi egyik központi körforgalma, amely összeköti a kerület főútvonalait.",
+                  "category": "landmark",
+                  "coords": [
+                        49.836791,
+                        40.481086
+                  ]
+            },
+            {
+                  "name": "Əlbətti Məscidi",
+                  "text": "Modern mecset a településen, amely a helyi közösség vallási találkozóhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        49.842083,
+                        40.529101
+                  ]
+            },
+            {
+                  "name": "Hacı Heybət Məscidi",
+                  "text": "Kisméretű mecset az Abşeron-félsziget egyik régi negyedében, hagyományos kőfalakkal.",
+                  "category": "landmark",
+                  "coords": [
+                        49.843717,
+                        40.528441
+                  ]
+            },
+            {
+                  "name": "Həmzə Məscidi",
+                  "text": "Muszlim imaház a településen, amelyet egyszerű abşeroni építészeti stílus jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        49.784165,
+                        40.534373
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Yanar Dağ",
+                  "text": "Foc de gaze naturale pe un deal din Azerbaidjan, care arde continuu de zeci de ani.",
+                  "category": "landmark",
+                  "coords": [
+                        49.891201,
+                        40.501835
+                  ]
+            },
+            {
+                  "name": "Diyarşünaslıq Muzeyi",
+                  "text": "Muzeu din regiunea Absheron, care prezintă istoria culturală și arta populară a Azerbaidjanului.",
+                  "category": "museum",
+                  "coords": [
+                        49.902698,
+                        40.503773
+                  ]
+            },
+            {
+                  "name": "Tarix Diyarşünaslıq Muzeyi",
+                  "text": "Muzeu de istorie din Azerbaidjan dedicat conservării artefactelor și moștenirii regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        49.845079,
+                        40.529402
+                  ]
+            },
+            {
+                  "name": "Rəsulzadənin Ev Muzeyi",
+                  "text": "Un muzeu amenajat în casa natală a fondatorului Primei Republici Azerbaidjan din Novkhani.",
+                  "category": "museum",
+                  "coords": [
+                        49.7807,
+                        40.52789
+                  ]
+            },
+            {
+                  "name": "Bakı Elektrik Şəbəkə Muzeyi",
+                  "text": "Un muzeu specializat din apropiere de Baku, dedicat istoriei și dezvoltării rețelei electrice orășenești.",
+                  "category": "museum",
+                  "coords": [
+                        49.840391,
+                        40.463266
+                  ]
+            },
+            {
+                  "name": "Şəhidlər Abidəsi",
+                  "text": "Un monument ridicat în peninsula Abșeron în memoria celor care au căzut pentru independența țării.",
+                  "category": "historical",
+                  "coords": [
+                        49.898167,
+                        40.504911
+                  ]
+            },
+            {
+                  "name": "Abidə",
+                  "text": "Un monument comemorativ local situat în centrul așezării, servind ca punct de reper pentru comunitate.",
+                  "category": "historical",
+                  "coords": [
+                        49.845439,
+                        40.528022
+                  ]
+            },
+            {
+                  "name": "1941-1945 Abidə",
+                  "text": "Un monument dedicat eroilor din al Doilea Război Mondial, adesea decorat cu o flacără eternă.",
+                  "category": "historical",
+                  "coords": [
+                        49.779119,
+                        40.528182
+                  ]
+            },
+            {
+                  "name": "Mehti Hüseyinzadənin abidəsi",
+                  "text": "O statuie ridicată în cinstea legendarului erou partizan azer din al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        49.787507,
+                        40.525766
+                  ]
+            },
+            {
+                  "name": "Kürdəxanı Mədəniyyət Evi",
+                  "text": "Casa de cultură din Kürdəxanı, care găzduiește expoziții de artă locală și seri de teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        49.921935,
+                        40.546854
+                  ]
+            },
+            {
+                  "name": "Pirşağı Mədəniyyət Evi",
+                  "text": "Casa de cultură din așezarea de coastă Pirşağı, ce servește ca loc de întâlnire pentru proiecte sociale și artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        49.887564,
+                        40.558076
+                  ]
+            },
+            {
+                  "name": "Mərkəzi Mədəniyyət Evi",
+                  "text": "Principala clădire culturală a districtului, unde se organizează evenimente festive și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        49.827709,
+                        40.466273
+                  ]
+            },
+            {
+                  "name": "Musiqi Məktəbi",
+                  "text": "O instituție de învățământ din Binəqədi, specializată în predarea instrumentului tar și a altor instrumente naționale.",
+                  "category": "cultural",
+                  "coords": [
+                        49.851802,
+                        40.496193
+                  ]
+            },
+            {
+                  "name": "Dəniz Uşaq İnkişaf Mərkəzi",
+                  "text": "Un centru educațional pentru copii, inspirat de tematica marină, situat pe coasta peninsulei Abșeron.",
+                  "category": "cultural",
+                  "coords": [
+                        49.839215,
+                        40.463722
+                  ]
+            },
+            {
+                  "name": "Tataz Piri",
+                  "text": "Un sit sacru istoric din peninsula Abșeron, servind ca loc de pelerinaj spiritual.",
+                  "category": "religious",
+                  "coords": [
+                        49.890091,
+                        40.562455
+                  ]
+            },
+            {
+                  "name": "Ərzaq Topdan Satlş",
+                  "text": "O piață angro plină de viață din peninsula Abșeron, unde se vând alimente proaspete și produse locale.",
+                  "category": "cultural",
+                  "coords": [
+                        49.841621,
+                        40.457976
+                  ]
+            },
+            {
+                  "name": "Qarabağ Bazarı",
+                  "text": "O piață tradițională denumită după regiunea Karabah, oferind fructe și legume proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        49.832209,
+                        40.47069
+                  ]
+            },
+            {
+                  "name": "Anar Kənd Bazarı \\ Goradil",
+                  "text": "O piață sătească din Goradil, cunoscută pentru vânzarea de miere locală și legume de sezon.",
+                  "category": "cultural",
+                  "coords": [
+                        49.834464,
+                        40.544417
+                  ]
+            },
+            {
+                  "name": "Yarımçıq Tikili Sanatoriya",
+                  "text": "Un complex sanatorial neterminat din epoca sovietică, oferind o vedere spre Marea Caspică.",
+                  "category": "landmark",
+                  "coords": [
+                        49.826072,
+                        40.564881
+                  ]
+            },
+            {
+                  "name": "Gilavar Sanatoriyası",
+                  "text": "O stațiune balneară din peninsula Abșeron, cunoscută pentru băile terapeutice și aerul sărat al mării.",
+                  "category": "landmark",
+                  "coords": [
+                        49.87819,
+                        40.562639
+                  ]
+            },
+            {
+                  "name": "Transformator",
+                  "text": "O stație industrială din localitate, ce servește ca punct de reper distinctiv în cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        49.93667,
+                        40.569763
+                  ]
+            },
+            {
+                  "name": "Hacı Zeynal Hamamı",
+                  "text": "O baie publică azeră istorică, având cupolele de piatră caracteristice arhitecturii din Abșeron.",
+                  "category": "landmark",
+                  "coords": [
+                        49.91908,
+                        40.547419
+                  ]
+            },
+            {
+                  "name": "Hacı Abusalam Hamamı",
+                  "text": "Un hamam din piatră inclus în patrimoniu, care păstrează cultura tradițională a băilor din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        49.890962,
+                        40.561488
+                  ]
+            },
+            {
+                  "name": "Abbas Bulağı",
+                  "text": "Un izvor public cu o mică amenajare din piatră, care furnizează apă proaspătă locuitorilor.",
+                  "category": "landmark",
+                  "coords": [
+                        49.862393,
+                        40.560935
+                  ]
+            },
+            {
+                  "name": "Üç Yol",
+                  "text": "O intersecție importantă din Binəqədi, servind ca nod central de transport și punct de orientare.",
+                  "category": "landmark",
+                  "coords": [
+                        49.847681,
+                        40.539362
+                  ]
+            },
+            {
+                  "name": "Abşeron Marina",
+                  "text": "Un port modern de agrement la Marea Caspică, cu dane pentru ambarcațiuni și o faleză.",
+                  "category": "landmark",
+                  "coords": [
+                        49.817419,
+                        40.565655
+                  ]
+            },
+            {
+                  "name": "Gilavar Oteli",
+                  "text": "Un hotel situat pe coasta Abșeron, oferind camere cu vedere directă la Marea Caspică.",
+                  "category": "landmark",
+                  "coords": [
+                        49.871098,
+                        40.564169
+                  ]
+            },
+            {
+                  "name": "Məmmədli Dairəsi",
+                  "text": "Un sens giratoriu mare din localitatea Məmmədli, servind ca punct de reper important pentru călători.",
+                  "category": "landmark",
+                  "coords": [
+                        49.940607,
+                        40.512688
+                  ]
+            },
+            {
+                  "name": "Pirşağı dairəsi",
+                  "text": "Un nod rutier la intrarea în stațiunea de coastă Pirşağı, înconjurat de unități comerciale locale.",
+                  "category": "landmark",
+                  "coords": [
+                        49.892947,
+                        40.550969
+                  ]
+            },
+            {
+                  "name": "Binəqədi Dairəsi",
+                  "text": "Un sens giratoriu central din Binəqədi, care face legătura între principalele artere ale districtului.",
+                  "category": "landmark",
+                  "coords": [
+                        49.836791,
+                        40.481086
+                  ]
+            },
+            {
+                  "name": "Əlbətti Məscidi",
+                  "text": "O moschee modernă din localitate, servind ca loc de întâlnire religioasă pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        49.842083,
+                        40.529101
+                  ]
+            },
+            {
+                  "name": "Hacı Heybət Məscidi",
+                  "text": "O moschee mică situată într-unul dintre cartierele vechi ale peninsulei Abșeron, cu ziduri tradiționale de piatră.",
+                  "category": "landmark",
+                  "coords": [
+                        49.843717,
+                        40.528441
+                  ]
+            },
+            {
+                  "name": "Həmzə Məscidi",
+                  "text": "O casă de rugăciune musulmană din comunitate, caracterizată prin arhitectura simplă specifică regiunii Abșeron.",
+                  "category": "landmark",
+                  "coords": [
+                        49.784165,
+                        40.534373
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yanar Dag Burning Mountain",
+                  "text": "Natural gas fire on a hillside in Azerbaijan that has burned continuously for decades.",
+                  "category": "landmark",
+                  "coords": [
+                        49.891201,
+                        40.501835
+                  ]
+            },
+            {
+                  "name": "Diyarşünaslıq Muzeyi",
+                  "text": "Museum in the Absheron region showcasing the cultural history and folk art of Azerbaijan.",
+                  "category": "museum",
+                  "coords": [
+                        49.902698,
+                        40.503773
+                  ]
+            },
+            {
+                  "name": "Tarix Diyarşünaslıq Muzeyi",
+                  "text": "History museum in Azerbaijan dedicated to preserving the artifacts and heritage of the local region.",
+                  "category": "museum",
+                  "coords": [
+                        49.845079,
+                        40.529402
+                  ]
+            },
+            {
+                  "name": "Rəsulzadənin Ev Muzeyi",
+                  "text": "A museum housed in the birth home of the founder of the First Republic of Azerbaijan in Novkhani.",
+                  "category": "museum",
+                  "coords": [
+                        49.7807,
+                        40.52789
+                  ]
+            },
+            {
+                  "name": "Bakı Elektrik Şəbəkə Muzeyi",
+                  "text": "A specialized museum near Baku documenting the history and development of the city's electric grid.",
+                  "category": "museum",
+                  "coords": [
+                        49.840391,
+                        40.463266
+                  ]
+            },
+            {
+                  "name": "Şəhidlər Abidəsi",
+                  "text": "A memorial monument on the Absheron Peninsula dedicated to those who died for national independence.",
+                  "category": "historical",
+                  "coords": [
+                        49.898167,
+                        40.504911
+                  ]
+            },
+            {
+                  "name": "Abidə",
+                  "text": "A local commemorative monument in the center of the settlement, serving as a community landmark.",
+                  "category": "historical",
+                  "coords": [
+                        49.845439,
+                        40.528022
+                  ]
+            },
+            {
+                  "name": "1941-1945 Abidə",
+                  "text": "A memorial monument dedicated to the heroes of World War II, often featuring an eternal flame.",
+                  "category": "historical",
+                  "coords": [
+                        49.779119,
+                        40.528182
+                  ]
+            },
+            {
+                  "name": "Mehti Hüseyinzadənin abidəsi",
+                  "text": "A statue honoring the legendary Azerbaijani partisan hero of World War II.",
+                  "category": "historical",
+                  "coords": [
+                        49.787507,
+                        40.525766
+                  ]
+            },
+            {
+                  "name": "Kürdəxanı Mədəniyyət Evi",
+                  "text": "A community center in Kurdakhani hosting local art exhibitions and theater evenings.",
+                  "category": "cultural",
+                  "coords": [
+                        49.921935,
+                        40.546854
+                  ]
+            },
+            {
+                  "name": "Pirşağı Mədəniyyət Evi",
+                  "text": "A culture house in the coastal settlement of Pirshagi, serving as a hub for social and artistic projects.",
+                  "category": "cultural",
+                  "coords": [
+                        49.887564,
+                        40.558076
+                  ]
+            },
+            {
+                  "name": "Mərkəzi Mədəniyyət Evi",
+                  "text": "The district's central cultural building, hosting festive events and concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        49.827709,
+                        40.466273
+                  ]
+            },
+            {
+                  "name": "Musiqi Məktəbi",
+                  "text": "An educational institution in Binagadi specializing in teaching the tar and other national instruments.",
+                  "category": "cultural",
+                  "coords": [
+                        49.851802,
+                        40.496193
+                  ]
+            },
+            {
+                  "name": "Dəniz Uşaq İnkişaf Mərkəzi",
+                  "text": "A maritime-inspired educational center for children located on the Absheron coast.",
+                  "category": "cultural",
+                  "coords": [
+                        49.839215,
+                        40.463722
+                  ]
+            },
+            {
+                  "name": "Tataz Piri",
+                  "text": "A historic sacred site on the Absheron Peninsula, serving as a place of spiritual pilgrimage.",
+                  "category": "religious",
+                  "coords": [
+                        49.890091,
+                        40.562455
+                  ]
+            },
+            {
+                  "name": "Ərzaq Topdan Satlş",
+                  "text": "A bustling wholesale market on the Absheron Peninsula selling fresh food and local produce.",
+                  "category": "cultural",
+                  "coords": [
+                        49.841621,
+                        40.457976
+                  ]
+            },
+            {
+                  "name": "Qarabağ Bazarı",
+                  "text": "A traditional market named after the Karabakh region, offering fresh fruits and vegetables.",
+                  "category": "cultural",
+                  "coords": [
+                        49.832209,
+                        40.47069
+                  ]
+            },
+            {
+                  "name": "Anar Kənd Bazarı \\ Goradil",
+                  "text": "A village market in Goradil known for selling local honey and seasonal vegetables.",
+                  "category": "cultural",
+                  "coords": [
+                        49.834464,
+                        40.544417
+                  ]
+            },
+            {
+                  "name": "Yarımçıq Tikili Sanatoriya",
+                  "text": "An unfinished Soviet-era sanatorium complex with views overlooking the Caspian Sea.",
+                  "category": "landmark",
+                  "coords": [
+                        49.826072,
+                        40.564881
+                  ]
+            },
+            {
+                  "name": "Gilavar Sanatoriyası",
+                  "text": "A health resort on the Absheron Peninsula known for its therapeutic baths and salty sea air.",
+                  "category": "landmark",
+                  "coords": [
+                        49.87819,
+                        40.562639
+                  ]
+            },
+            {
+                  "name": "Transformator",
+                  "text": "An industrial station in the settlement serving as a prominent landmark in the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        49.93667,
+                        40.569763
+                  ]
+            },
+            {
+                  "name": "Hacı Zeynal Hamamı",
+                  "text": "A historic Azerbaijani steam bath with the characteristic stone domes of Absheron architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        49.91908,
+                        40.547419
+                  ]
+            },
+            {
+                  "name": "Hacı Abusalam Hamamı",
+                  "text": "A heritage stone hammam that preserves the traditional bathing culture of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        49.890962,
+                        40.561488
+                  ]
+            },
+            {
+                  "name": "Abbas Bulağı",
+                  "text": "A public water spring with a small stone enclosure, providing fresh water to local residents.",
+                  "category": "landmark",
+                  "coords": [
+                        49.862393,
+                        40.560935
+                  ]
+            },
+            {
+                  "name": "Üç Yol",
+                  "text": "A key intersection in Binagadi serving as a central transportation hub and orientation point.",
+                  "category": "landmark",
+                  "coords": [
+                        49.847681,
+                        40.539362
+                  ]
+            },
+            {
+                  "name": "Abşeron Marina",
+                  "text": "A modern yacht club on the Caspian Sea with boat moorings and a waterfront promenade.",
+                  "category": "landmark",
+                  "coords": [
+                        49.817419,
+                        40.565655
+                  ]
+            },
+            {
+                  "name": "Gilavar Oteli",
+                  "text": "A hotel on the Absheron coast offering rooms with direct views of the Caspian Sea.",
+                  "category": "landmark",
+                  "coords": [
+                        49.871098,
+                        40.564169
+                  ]
+            },
+            {
+                  "name": "Məmmədli Dairəsi",
+                  "text": "A large traffic circle in the Mammadli settlement serving as an important landmark for travelers.",
+                  "category": "landmark",
+                  "coords": [
+                        49.940607,
+                        40.512688
+                  ]
+            },
+            {
+                  "name": "Pirşağı dairəsi",
+                  "text": "A traffic hub at the entrance to the coastal resort of Pirshagi, surrounded by local service shops.",
+                  "category": "landmark",
+                  "coords": [
+                        49.892947,
+                        40.550969
+                  ]
+            },
+            {
+                  "name": "Binəqədi Dairəsi",
+                  "text": "A central roundabout in Binagadi connecting the main thoroughfares of the district.",
+                  "category": "landmark",
+                  "coords": [
+                        49.836791,
+                        40.481086
+                  ]
+            },
+            {
+                  "name": "Əlbətti Məscidi",
+                  "text": "A modern mosque in the settlement serving as a religious gathering place for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        49.842083,
+                        40.529101
+                  ]
+            },
+            {
+                  "name": "Hacı Heybət Məscidi",
+                  "text": "A small mosque in one of the old quarters of the Absheron Peninsula with traditional stone walls.",
+                  "category": "landmark",
+                  "coords": [
+                        49.843717,
+                        40.528441
+                  ]
+            },
+            {
+                  "name": "Həmzə Məscidi",
+                  "text": "A Muslim prayer house in the community characterized by simple Absheron-style architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        49.784165,
+                        40.534373
+                  ]
+            }
+      ]
+},
     type: "tourist-attraction",
     parent: "AZ-ABS",
     coords: [49.8913, 40.5018],
@@ -283,7 +3793,628 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
       fr: ["Le nom Yanar Dağ signifie 'montagne brûlante'.", "Le feu brûle depuis des milliers d'années sans interruption.", "Les flammes peuvent atteindre une hauteur de 3 mètres.", "Il est alimenté par une émanation de gaz naturelle et constante du sol.", "Le site se trouve sur la péninsule d'Abchéron.", "Il brûle quelles que soient les conditions météorologiques.", "Marco Polo a pris des notes sur des incendies similaires dans la région au XIIIe siècle.", "Le site est un pôle d'attraction majeur pour les touristes et les adeptes du zoroastrisme."],
     }, image: "/poi-images/yanar-dag-landmarks-v2.webp"},
   {
-    id: "bibi-heybat-mosque-landmarks-v2",
+    id: "bibi-heybat-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qaradağ Mayakı",
+                  "text": "Ein funktionaler Küstenleuchtturm am Kaspischen Meer, der den Schiffsverkehr in der Nähe der Bucht von Baku leitet.",
+                  "category": "landmark",
+                  "coords": [
+                        49.734774,
+                        40.283887
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi Bibi Heybət",
+                  "text": "Ein lokales Kulturzentrum im Bezirk Bibi-Heybat, das als Treffpunkt für Kunst und gesellschaftliche Veranstaltungen dient.",
+                  "category": "cultural",
+                  "coords": [
+                        49.821272,
+                        40.306862
+                  ]
+            },
+            {
+                  "name": "Bibi Heybət Məscidi",
+                  "text": "Diese am Ufer gelegene Moschee ist eine prächtige Rekonstruktion eines historischen Bauwerks aus dem 13. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        49.820299,
+                        40.308664
+                  ]
+            },
+            {
+                  "name": "Dostluq çimərlik",
+                  "text": "Ein familienfreundlicher Wasserpark am Kaspischen Meer mit verschiedenen Rutschen und Strandzugang.",
+                  "category": "recreational",
+                  "coords": [
+                        49.805401,
+                        40.305403
+                  ]
+            },
+            {
+                  "name": "Mambo Beach",
+                  "text": "Ein moderner Strandclub und Wasserpark am Kaspischen Meer, der Pools und Freizeitaktivitäten an der Küste bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        49.80433,
+                        40.305647
+                  ]
+            },
+            {
+                  "name": "Lökbatan palçıq vulkanı",
+                  "text": "Dieser Schlammvulkan bei Baku ist einer der weltweit aktivsten und für seine spektakulären Gasausbrüche bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        49.709007,
+                        40.304451
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev abidəsi",
+                  "text": "Ein monumentales Denkmal im Bezirk Bibi-Heybat, das dem ehemaligen Präsidenten Aserbaidschans gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        49.729548,
+                        40.280403
+                  ]
+            },
+            {
+                  "name": "Qaradağ Yazısı",
+                  "text": "Ein markantes Wahrzeichen am Eingang des Qaradağ-Bezirks, das die lokale Identität und Geschichte würdigt.",
+                  "category": "historical",
+                  "coords": [
+                        49.72615,
+                        40.28433
+                  ]
+            },
+            {
+                  "name": "Lökbatan Dairəsi Binə Bazarı",
+                  "text": "Ein großer Marktplatz am Verkehrsknotenpunkt Lokbatan, bekannt für seine Vielfalt an Textilwaren.",
+                  "category": "landmark",
+                  "coords": [
+                        49.762862,
+                        40.302419
+                  ]
+            },
+            {
+                  "name": "Binə Bazarı",
+                  "text": "Einer der größten Handelsmärkte Bakus, auf dem Kleidung und Haushaltsartikel im Freien verkauft werden.",
+                  "category": "landmark",
+                  "coords": [
+                        49.759514,
+                        40.302647
+                  ]
+            },
+            {
+                  "name": "İctimai Çimətlik",
+                  "text": "Ein öffentlicher Sandstrand am Kaspischen Meer, der ein beliebter Ort für Einheimische zum Schwimmen ist.",
+                  "category": "recreational",
+                  "coords": [
+                        49.773141,
+                        40.299773
+                  ]
+            },
+            {
+                  "name": "Şıxov çimərliyi",
+                  "text": "Ein bekannter Küstenabschnitt im Shikhov-Viertel, gesäumt von Hotels und beliebten Badebereichen.",
+                  "category": "recreational",
+                  "coords": [
+                        49.782527,
+                        40.303121
+                  ]
+            },
+            {
+                  "name": "Qarabağ Bizimdir / Bibi Heybət",
+                  "text": "Ein patriotisches Denkmal in Küstennähe, das an die Geschichte und Souveränität der Region erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        49.816301,
+                        40.30603
+                  ]
+            },
+            {
+                  "name": "1001 noch'",
+                  "text": "Ein thematisch gestaltetes Strandresort am Kaspischen Meer, das von nahöstlichen Märchen inspiriert ist.",
+                  "category": "recreational",
+                  "coords": [
+                        49.796894,
+                        40.305037
+                  ]
+            },
+            {
+                  "name": "Delfin çimərlik",
+                  "text": "Ein privater Strandbereich in Shikhov, der Pools und Freizeiteinrichtungen direkt am Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        49.791465,
+                        40.304438
+                  ]
+            },
+            {
+                  "name": "Bravo Depo Ambar",
+                  "text": "Ein großes Lagerhaus und Marktplatz, der als wichtiges Versorgungszentrum für den Süden Bakus dient.",
+                  "category": "cultural",
+                  "coords": [
+                        49.750592,
+                        40.308185
+                  ]
+            },
+            {
+                  "name": "Malqara və Quş Bazarı",
+                  "text": "Ein traditioneller Freiluftmarkt für den Handel mit Vieh und Geflügel im Bezirk Lokbatan.",
+                  "category": "cultural",
+                  "coords": [
+                        49.746353,
+                        40.308627
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qaradağ Mayakı",
+                  "text": "Funkcionális tengerparti világítótorony a Kaszpi-tengernél, amely a Bakui-öböl közelében segíti a hajóforgalmat.",
+                  "category": "landmark",
+                  "coords": [
+                        49.734774,
+                        40.283887
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi Bibi Heybət",
+                  "text": "Helyi kulturális központ Bibi-Heybat negyedében, amely művészeti és közösségi események helyszínéül szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        49.821272,
+                        40.306862
+                  ]
+            },
+            {
+                  "name": "Bibi Heybət Məscidi",
+                  "text": "Ez a tengerparti mecset egy 13. századi történelmi építmény pompás rekonstrukciója.",
+                  "category": "religious",
+                  "coords": [
+                        49.820299,
+                        40.308664
+                  ]
+            },
+            {
+                  "name": "Dostluq çimərlik",
+                  "text": "Családbarát vízi park a Kaszpi-tengernél, különféle csúszdákkal és strandkapcsolattal.",
+                  "category": "recreational",
+                  "coords": [
+                        49.805401,
+                        40.305403
+                  ]
+            },
+            {
+                  "name": "Mambo Beach",
+                  "text": "Modern strandklub és vízi park a Kaszpi-tengernél, amely medencéket és tengerparti kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        49.80433,
+                        40.305647
+                  ]
+            },
+            {
+                  "name": "Lökbatan palçıq vulkanı",
+                  "text": "Ez a Baku közeli iszapvulkán a világ egyik legaktívabbja, és látványos gázkitöréseiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        49.709007,
+                        40.304451
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev abidəsi",
+                  "text": "Monumentális emlékmű Bibi-Heybat negyedében, amelyet Azerbajdzsán egykori elnökének szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        49.729548,
+                        40.280403
+                  ]
+            },
+            {
+                  "name": "Qaradağ Yazısı",
+                  "text": "Jellegzetes mérföldkő a Qaradağ negyed bejáratánál, amely a helyi identitást és történelmet hirdeti.",
+                  "category": "historical",
+                  "coords": [
+                        49.72615,
+                        40.28433
+                  ]
+            },
+            {
+                  "name": "Lökbatan Dairəsi Binə Bazarı",
+                  "text": "Nagy piactér a lökbatani közlekedési csomópontnál, amely textiláruk széles választékáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        49.762862,
+                        40.302419
+                  ]
+            },
+            {
+                  "name": "Binə Bazarı",
+                  "text": "Baku egyik legnagyobb kereskedelmi piaca, ahol ruházati és háztartási cikkeket árulnak a szabadban.",
+                  "category": "landmark",
+                  "coords": [
+                        49.759514,
+                        40.302647
+                  ]
+            },
+            {
+                  "name": "İctimai Çimətlik",
+                  "text": "Nyilvános homokos strand a Kaszpi-tengernél, amely a helyiek kedvelt fürdőhelye.",
+                  "category": "recreational",
+                  "coords": [
+                        49.773141,
+                        40.299773
+                  ]
+            },
+            {
+                  "name": "Şıxov çimərliyi",
+                  "text": "Ismert tengerparti szakasz a Shikhov negyedben, szállodákkal és népszerű fürdőhelyekkel szegélyezve.",
+                  "category": "recreational",
+                  "coords": [
+                        49.782527,
+                        40.303121
+                  ]
+            },
+            {
+                  "name": "Qarabağ Bizimdir / Bibi Heybət",
+                  "text": "Hazafias emlékmű a tengerpart közelében, amely a régió történelmére és szuverenitására emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        49.816301,
+                        40.30603
+                  ]
+            },
+            {
+                  "name": "1001 noch'",
+                  "text": "Tematikus tengerparti üdülőhely a Kaszpi-tengernél, amelyet a közel-keleti népmesék ihlettek.",
+                  "category": "recreational",
+                  "coords": [
+                        49.796894,
+                        40.305037
+                  ]
+            },
+            {
+                  "name": "Delfin çimərlik",
+                  "text": "Magánstrand Shikhovban, amely medencéket és szabadidős létesítményeket kínál közvetlenül a tengerparton.",
+                  "category": "recreational",
+                  "coords": [
+                        49.791465,
+                        40.304438
+                  ]
+            },
+            {
+                  "name": "Bravo Depo Ambar",
+                  "text": "Hatalmas raktárépület és piactér, amely fontos ellátó központként szolgál Baku déli részén.",
+                  "category": "cultural",
+                  "coords": [
+                        49.750592,
+                        40.308185
+                  ]
+            },
+            {
+                  "name": "Malqara və Quş Bazarı",
+                  "text": "Hagyományos szabadtéri piac állat- és baromfikereskedelemre Lökbatan negyedében.",
+                  "category": "cultural",
+                  "coords": [
+                        49.746353,
+                        40.308627
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qaradağ Mayakı",
+                  "text": "Un far de coastă funcțional la Marea Caspică, care ghidează traficul maritim în apropierea golfului Baku.",
+                  "category": "landmark",
+                  "coords": [
+                        49.734774,
+                        40.283887
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi Bibi Heybət",
+                  "text": "Un centru cultural local din districtul Bibi-Heybat, care servește ca loc de întâlnire pentru artă și evenimente comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        49.821272,
+                        40.306862
+                  ]
+            },
+            {
+                  "name": "Bibi Heybət Məscidi",
+                  "text": "Această moschee de pe malul mării este o reconstrucție magnifică a unei structuri istorice din secolul al XIII-lea.",
+                  "category": "religious",
+                  "coords": [
+                        49.820299,
+                        40.308664
+                  ]
+            },
+            {
+                  "name": "Dostluq çimərlik",
+                  "text": "Un parc acvatic pentru familii la Marea Caspică, dotat cu diverse tobogane și acces la plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        49.805401,
+                        40.305403
+                  ]
+            },
+            {
+                  "name": "Mambo Beach",
+                  "text": "Un club de plajă modern și parc acvatic la Marea Caspică, oferind piscine și activități de recreere pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        49.80433,
+                        40.305647
+                  ]
+            },
+            {
+                  "name": "Lökbatan palçıq vulkanı",
+                  "text": "Acest vulcan noroios de lângă Baku este unul dintre cei mai activi din lume, fiind cunoscut pentru erupțiile spectaculoase de gaz.",
+                  "category": "landmark",
+                  "coords": [
+                        49.709007,
+                        40.304451
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev abidəsi",
+                  "text": "Un monument monumental în districtul Bibi-Heybat, dedicat fostului președinte al Azerbaidjanului.",
+                  "category": "historical",
+                  "coords": [
+                        49.729548,
+                        40.280403
+                  ]
+            },
+            {
+                  "name": "Qaradağ Yazısı",
+                  "text": "Un punct de reper distinctiv la intrarea în districtul Qaradağ, celebrând identitatea și istoria locală.",
+                  "category": "historical",
+                  "coords": [
+                        49.72615,
+                        40.28433
+                  ]
+            },
+            {
+                  "name": "Lökbatan Dairəsi Binə Bazarı",
+                  "text": "O piață mare situată la nodul de transport Lokbatan, cunoscută pentru varietatea de produse textile.",
+                  "category": "landmark",
+                  "coords": [
+                        49.762862,
+                        40.302419
+                  ]
+            },
+            {
+                  "name": "Binə Bazarı",
+                  "text": "Una dintre cele mai mari piețe comerciale din Baku, unde se vând haine și articole de uz casnic în aer liber.",
+                  "category": "landmark",
+                  "coords": [
+                        49.759514,
+                        40.302647
+                  ]
+            },
+            {
+                  "name": "İctimai Çimətlik",
+                  "text": "O plajă publică cu nisip la Marea Caspică, fiind un loc popular de scăldat pentru localnici.",
+                  "category": "recreational",
+                  "coords": [
+                        49.773141,
+                        40.299773
+                  ]
+            },
+            {
+                  "name": "Şıxov çimərliyi",
+                  "text": "O porțiune de coastă bine cunoscută în cartierul Shikhov, mărginită de hoteluri și zone de agrement popular.",
+                  "category": "recreational",
+                  "coords": [
+                        49.782527,
+                        40.303121
+                  ]
+            },
+            {
+                  "name": "Qarabağ Bizimdir / Bibi Heybət",
+                  "text": "Un monument patriotic situat lângă coastă, amintind de istoria și suveranitatea regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        49.816301,
+                        40.30603
+                  ]
+            },
+            {
+                  "name": "1001 noch'",
+                  "text": "O stațiune de plajă tematică la Marea Caspică, inspirată din basmele populare din Orientul Mijlociu.",
+                  "category": "recreational",
+                  "coords": [
+                        49.796894,
+                        40.305037
+                  ]
+            },
+            {
+                  "name": "Delfin çimərlik",
+                  "text": "O zonă de plajă privată în Shikhov, care oferă piscine și facilități de recreere chiar pe malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        49.791465,
+                        40.304438
+                  ]
+            },
+            {
+                  "name": "Bravo Depo Ambar",
+                  "text": "Un depozit mare și o piață care servește ca centru important de aprovizionare pentru sudul orașului Baku.",
+                  "category": "cultural",
+                  "coords": [
+                        49.750592,
+                        40.308185
+                  ]
+            },
+            {
+                  "name": "Malqara və Quş Bazarı",
+                  "text": "O piață tradițională în aer liber pentru comerțul cu animale și păsări în districtul Lokbatan.",
+                  "category": "cultural",
+                  "coords": [
+                        49.746353,
+                        40.308627
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qaradağ Mayakı",
+                  "text": "A functional coastal lighthouse on the Caspian Sea, guiding maritime traffic near the Baku bay.",
+                  "category": "landmark",
+                  "coords": [
+                        49.734774,
+                        40.283887
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi Bibi Heybət",
+                  "text": "A local cultural center in the Bibi-Heybat district, serving as a hub for arts and community events.",
+                  "category": "cultural",
+                  "coords": [
+                        49.821272,
+                        40.306862
+                  ]
+            },
+            {
+                  "name": "Bibi Heybat Mosque",
+                  "text": "This seaside mosque is a magnificent reconstruction of a historic 13th-century structure.",
+                  "category": "religious",
+                  "coords": [
+                        49.820299,
+                        40.308664
+                  ]
+            },
+            {
+                  "name": "Dostluq çimərlik",
+                  "text": "A family-friendly water park on the Caspian Sea, featuring various slides and beach access.",
+                  "category": "recreational",
+                  "coords": [
+                        49.805401,
+                        40.305403
+                  ]
+            },
+            {
+                  "name": "Mambo Beach",
+                  "text": "A modern beach club and water park on the Caspian Sea, offering pools and seaside recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        49.80433,
+                        40.305647
+                  ]
+            },
+            {
+                  "name": "Mud Volcano Lokbatan",
+                  "text": "This mud volcano near Baku is one of the world's most active, known for its spectacular gas eruptions.",
+                  "category": "landmark",
+                  "coords": [
+                        49.709007,
+                        40.304451
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev abidəsi",
+                  "text": "A monumental memorial in the Bibi-Heybat district, dedicated to the former president of Azerbaijan.",
+                  "category": "historical",
+                  "coords": [
+                        49.729548,
+                        40.280403
+                  ]
+            },
+            {
+                  "name": "Qaradağ Yazısı",
+                  "text": "A prominent landmark at the entrance of the Qaradağ district, celebrating local identity and history.",
+                  "category": "historical",
+                  "coords": [
+                        49.72615,
+                        40.28433
+                  ]
+            },
+            {
+                  "name": "Lökbatan Dairəsi Binə Bazarı",
+                  "text": "A large marketplace at the Lokbatan transport hub, known for its variety of textile goods.",
+                  "category": "landmark",
+                  "coords": [
+                        49.762862,
+                        40.302419
+                  ]
+            },
+            {
+                  "name": "Binə Bazarı",
+                  "text": "One of Baku's largest commercial markets, where clothing and household items are sold in an open-air setting.",
+                  "category": "landmark",
+                  "coords": [
+                        49.759514,
+                        40.302647
+                  ]
+            },
+            {
+                  "name": "İctimai Çimətlik",
+                  "text": "A public sandy beach on the Caspian Sea, serving as a popular swimming spot for locals.",
+                  "category": "recreational",
+                  "coords": [
+                        49.773141,
+                        40.299773
+                  ]
+            },
+            {
+                  "name": "Şıxov çimərliyi",
+                  "text": "A well-known coastal stretch in the Shikhov neighborhood, lined with hotels and popular swimming areas.",
+                  "category": "recreational",
+                  "coords": [
+                        49.782527,
+                        40.303121
+                  ]
+            },
+            {
+                  "name": "Qarabağ Bizimdir / Bibi Heybət",
+                  "text": "A patriotic monument located near the coast, commemorating the history and sovereignty of the region.",
+                  "category": "historical",
+                  "coords": [
+                        49.816301,
+                        40.30603
+                  ]
+            },
+            {
+                  "name": "1001 noch'",
+                  "text": "A themed beach resort on the Caspian Sea inspired by Middle Eastern folk tales.",
+                  "category": "recreational",
+                  "coords": [
+                        49.796894,
+                        40.305037
+                  ]
+            },
+            {
+                  "name": "Delfin çimərlik",
+                  "text": "A private beach area in Shikhov, offering pools and leisure facilities right on the seafront.",
+                  "category": "recreational",
+                  "coords": [
+                        49.791465,
+                        40.304438
+                  ]
+            },
+            {
+                  "name": "Bravo Depo Ambar",
+                  "text": "A large warehouse and marketplace serving as a major supply hub for southern Baku.",
+                  "category": "cultural",
+                  "coords": [
+                        49.750592,
+                        40.308185
+                  ]
+            },
+            {
+                  "name": "Malqara və Quş Bazarı",
+                  "text": "A traditional open-air market for livestock and poultry trade in the Lokbatan district.",
+                  "category": "cultural",
+                  "coords": [
+                        49.746353,
+                        40.308627
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AZ-BA",
     coords: [49.8197, 40.3083],
@@ -353,7 +4484,448 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
       fr: ["Construit en 1797 comme résidence d'été pour les khans de Sheki.", "Célèbre pour ses vitraux 'Shebeke', assemblés sans clous ni colle.", "La façade présente des peintures murales avec des scènes de guerre et de chasse.", "Les murs intérieurs sont couverts de fresques complexes.", "Inscrit sur la liste du patrimoine mondial de l'UNESCO en 2019.", "La construction utilise un mélange de styles architecturaux traditionnels et persans.", "Il se trouve à l'intérieur du plus grand complexe de la forteresse de Sheki.", "Aucun clou n'a été utilisé pour la construction du palais."],
     }, image: "/poi-images/shaki-khans-palace-landmarks-v2.webp"},
   {
-    id: "church-of-kish-landmarks-v2",
+    id: "church-of-kish-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Müqəddəs Yelisey kilsəsi",
+                  "text": "Eine kaukasisch-albanische Kirche aus dem 12. Jahrhundert mit einer markanten Steinkuppel und antiken Gräbern im Innenhof.",
+                  "category": "landmark",
+                  "coords": [
+                        47.1932,
+                        41.248997
+                  ]
+            },
+            {
+                  "name": "YER Photogallery",
+                  "text": "Eine Fotogalerie im Dorf Kisch, die künstlerische Aufnahmen der kaukasischen Landschaften und der lokalen Kultur präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        47.204038,
+                        41.255181
+                  ]
+            },
+            {
+                  "name": "Kiş Körpüsü",
+                  "text": "Eine Steinbrücke über den Gebirgsfluss in Kisch, die einen Panoramablick auf die umliegenden Gipfel bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        47.188924,
+                        41.24516
+                  ]
+            },
+            {
+                  "name": "G@l@rs@n-Gor@rs@n",
+                  "text": "Die Ruinen einer mittelalterlichen Festung am Ufer des Flusses Kisch, die einst als uneinnehmbares Bollwerk galt.",
+                  "category": "landmark",
+                  "coords": [
+                        47.228633,
+                        41.263497
+                  ]
+            },
+            {
+                  "name": "Qədim qəbirstanlıq Oxud",
+                  "text": "Ein historischer Friedhof in Ochud mit verzierten Grabsteinen aus dem 17. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        47.146222,
+                        41.24318
+                  ]
+            },
+            {
+                  "name": "İstirahət Mərkəzi",
+                  "text": "Ein Erholungszentrum in den Ausläufern des Großen Kaukasus, ideal für Wanderungen in die Bergregion.",
+                  "category": "landmark",
+                  "coords": [
+                        47.182408,
+                        41.235066
+                  ]
+            },
+            {
+                  "name": "Cənnət Bağı Şəki",
+                  "text": "Eine Hotelanlage in Şəki mit weitläufigen Gärten, die von der üppigen Vegetation des Kaukasus umgeben ist.",
+                  "category": "landmark",
+                  "coords": [
+                        47.198558,
+                        41.24528
+                  ]
+            },
+            {
+                  "name": "İnçə kənd Məscidi",
+                  "text": "Eine lokale Moschee im Dorf İnçə, die durch ihre traditionelle aserbaidschanische Backsteinarchitektur auffällt.",
+                  "category": "landmark",
+                  "coords": [
+                        47.110645,
+                        41.253623
+                  ]
+            },
+            {
+                  "name": "Cümə məscidi \\ Oxud",
+                  "text": "Die Freitagsmoschee von Ochud, ein zentrales Backsteingebäude für die religiöse Gemeinschaft des Dorfes.",
+                  "category": "landmark",
+                  "coords": [
+                        47.156379,
+                        41.237342
+                  ]
+            },
+            {
+                  "name": "Həzrəti İsmayıl Məscidi \\ Oxud",
+                  "text": "Die Hazrat-Ismail-Moschee in Ochud, bekannt für ihre schlichte Fassade und ihre Bedeutung als dörfliches Heiligtum.",
+                  "category": "landmark",
+                  "coords": [
+                        47.161915,
+                        41.238266
+                  ]
+            },
+            {
+                  "name": "Məhəllə məscidi",
+                  "text": "Eine kleine Stadtviertel-Moschee, die den Bewohnern der umliegenden Gassen als Gebetsstätte dient.",
+                  "category": "landmark",
+                  "coords": [
+                        47.179525,
+                        41.230291
+                  ]
+            },
+            {
+                  "name": "Meşəli Məscid \\ Baş Şabalıd",
+                  "text": "Die 'Waldmoschee' in Baş Şabalıd, die malerisch inmitten dichten Grüns am Berghang liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        47.12226,
+                        41.303554
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Müqəddəs Yelisey kilsəsi",
+                  "text": "Egy 12. századi kaukázusi albán templom jellegzetes kőkupolával és az udvarán található ősi sírokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        47.1932,
+                        41.248997
+                  ]
+            },
+            {
+                  "name": "YER Photogallery",
+                  "text": "Fotógaléria Kis faluban, amely a kaukázusi tájakról és a helyi kultúráról készült művészi felvételeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        47.204038,
+                        41.255181
+                  ]
+            },
+            {
+                  "name": "Kiş Körpüsü",
+                  "text": "Kőhíd a Kis falun átfolyó hegyi folyó felett, ahonnan panorámás kilátás nyílik a környező csúcsokra.",
+                  "category": "landmark",
+                  "coords": [
+                        47.188924,
+                        41.24516
+                  ]
+            },
+            {
+                  "name": "G@l@rs@n-Gor@rs@n",
+                  "text": "Egy középkori erőd romjai a Kis-folyó partján, amely egykor bevehetetlen bástyaként volt ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        47.228633,
+                        41.263497
+                  ]
+            },
+            {
+                  "name": "Qədim qəbirstanlıq Oxud",
+                  "text": "Történelmi temető Ohudban, ahol 17. századi, díszes sírkövek láthatók.",
+                  "category": "religious",
+                  "coords": [
+                        47.146222,
+                        41.24318
+                  ]
+            },
+            {
+                  "name": "İstirahət Mərkəzi",
+                  "text": "Üdülőközpont a Nagy-Kaukázus lábánál, amely ideális kiindulópont a hegyi túrákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        47.182408,
+                        41.235066
+                  ]
+            },
+            {
+                  "name": "Cənnət Bağı Şəki",
+                  "text": "Szállodakomplexum Sekiben hatalmas kertekkel, a Kaukázus buja növényzetével körülvéve.",
+                  "category": "landmark",
+                  "coords": [
+                        47.198558,
+                        41.24528
+                  ]
+            },
+            {
+                  "name": "İnçə kənd Məscidi",
+                  "text": "Helyi mecset Ince faluban, amely hagyományos azeri téglaépítészetével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.110645,
+                        41.253623
+                  ]
+            },
+            {
+                  "name": "Cümə məscidi \\ Oxud",
+                  "text": "Ohud pénteki mecsetje, a falu vallási közösségének központi téglaépülete.",
+                  "category": "landmark",
+                  "coords": [
+                        47.156379,
+                        41.237342
+                  ]
+            },
+            {
+                  "name": "Həzrəti İsmayıl Məscidi \\ Oxud",
+                  "text": "A Hazrati Iszmail mecset Ohudban, amely egyszerű homlokzatáról és falusi szentélyként betöltött szerepéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        47.161915,
+                        41.238266
+                  ]
+            },
+            {
+                  "name": "Məhəllə məscidi",
+                  "text": "Kisméretű negyedi mecset, amely a környező utcák lakóinak imaházaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        47.179525,
+                        41.230291
+                  ]
+            },
+            {
+                  "name": "Meşəli Məscid \\ Baş Şabalıd",
+                  "text": "Az „Erdei mecset” Bas Sabalidban, amely festői környezetben, sűrű zöldövezetben fekszik a hegyoldalban.",
+                  "category": "landmark",
+                  "coords": [
+                        47.12226,
+                        41.303554
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Müqəddəs Yelisey kilsəsi",
+                  "text": "O biserică albaneză caucaziană din secolul al XII-lea, cu o cupolă de piatră distinctivă și morminte vechi în curte.",
+                  "category": "landmark",
+                  "coords": [
+                        47.1932,
+                        41.248997
+                  ]
+            },
+            {
+                  "name": "YER Photogallery",
+                  "text": "O galerie foto în satul Kish, care prezintă capturi artistice ale peisajelor caucaziene și ale culturii locale.",
+                  "category": "museum",
+                  "coords": [
+                        47.204038,
+                        41.255181
+                  ]
+            },
+            {
+                  "name": "Kiş Körpüsü",
+                  "text": "Un pod de piatră peste râul montan din Kish, oferind vederi panoramice spre vârfurile înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        47.188924,
+                        41.24516
+                  ]
+            },
+            {
+                  "name": "G@l@rs@n-Gor@rs@n",
+                  "text": "Ruinele unei cetăți medievale de pe malul râului Kish, cunoscută cândva ca un bastion inexpugnabil.",
+                  "category": "landmark",
+                  "coords": [
+                        47.228633,
+                        41.263497
+                  ]
+            },
+            {
+                  "name": "Qədim qəbirstanlıq Oxud",
+                  "text": "Un cimitir istoric în Okhud, prezentând pietre funerare ornamentate din secolul al XVII-lea.",
+                  "category": "religious",
+                  "coords": [
+                        47.146222,
+                        41.24318
+                  ]
+            },
+            {
+                  "name": "İstirahət Mərkəzi",
+                  "text": "Un centru de recreere la poalele Caucazului Mare, ideal pentru drumeții în regiunea montană.",
+                  "category": "landmark",
+                  "coords": [
+                        47.182408,
+                        41.235066
+                  ]
+            },
+            {
+                  "name": "Cənnət Bağı Şəki",
+                  "text": "Un complex hotelier în Sheki cu grădini vaste, înconjurat de vegetația luxuriantă a Caucazului.",
+                  "category": "landmark",
+                  "coords": [
+                        47.198558,
+                        41.24528
+                  ]
+            },
+            {
+                  "name": "İnçə kənd Məscidi",
+                  "text": "O moschee locală în satul Ince, remarcabilă prin arhitectura tradițională azeră din cărămidă.",
+                  "category": "landmark",
+                  "coords": [
+                        47.110645,
+                        41.253623
+                  ]
+            },
+            {
+                  "name": "Cümə məscidi \\ Oxud",
+                  "text": "Moscheea Juma din Okhud, o clădire centrală din cărămidă pentru comunitatea religioasă a satului.",
+                  "category": "landmark",
+                  "coords": [
+                        47.156379,
+                        41.237342
+                  ]
+            },
+            {
+                  "name": "Həzrəti İsmayıl Məscidi \\ Oxud",
+                  "text": "Moscheea Hazrati Ismayil din Okhud, cunoscută pentru fațada sa simplă și rolul de sanctuar al satului.",
+                  "category": "landmark",
+                  "coords": [
+                        47.161915,
+                        41.238266
+                  ]
+            },
+            {
+                  "name": "Məhəllə məscidi",
+                  "text": "O mică moschee de cartier, care servește ca loc de rugăciune pentru locuitorii de pe străzile din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        47.179525,
+                        41.230291
+                  ]
+            },
+            {
+                  "name": "Meşəli Məscid \\ Baş Şabalıd",
+                  "text": "„Moscheea din pădure” din Bash Shabalid, situată pitoresc în mijlocul verdeții dense de pe versantul muntelui.",
+                  "category": "landmark",
+                  "coords": [
+                        47.12226,
+                        41.303554
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Church of Saint Elishe",
+                  "text": "A 12th-century Caucasian Albanian church featuring a distinctive stone dome and ancient burials in its courtyard.",
+                  "category": "landmark",
+                  "coords": [
+                        47.1932,
+                        41.248997
+                  ]
+            },
+            {
+                  "name": "YER Photogallery",
+                  "text": "A photo gallery in Kish village presenting artistic captures of Caucasian landscapes and local culture.",
+                  "category": "museum",
+                  "coords": [
+                        47.204038,
+                        41.255181
+                  ]
+            },
+            {
+                  "name": "Kiş Körpüsü",
+                  "text": "A stone bridge over the mountain river in Kish, offering panoramic views of the surrounding peaks.",
+                  "category": "landmark",
+                  "coords": [
+                        47.188924,
+                        41.24516
+                  ]
+            },
+            {
+                  "name": "G@l@rs@n-Gor@rs@n",
+                  "text": "The ruins of a medieval fortress on the banks of the Kish River, once known as an impregnable stronghold.",
+                  "category": "landmark",
+                  "coords": [
+                        47.228633,
+                        41.263497
+                  ]
+            },
+            {
+                  "name": "Ancient cemetery Okhud 17th c.",
+                  "text": "A historic cemetery in Okhud featuring ornate gravestones dating back to the 17th century.",
+                  "category": "religious",
+                  "coords": [
+                        47.146222,
+                        41.24318
+                  ]
+            },
+            {
+                  "name": "İstirahət Mərkəzi",
+                  "text": "A recreation center in the foothills of the Greater Caucasus, ideal for hiking into the mountain region.",
+                  "category": "landmark",
+                  "coords": [
+                        47.182408,
+                        41.235066
+                  ]
+            },
+            {
+                  "name": "Cənnət Bağı Şəki",
+                  "text": "A hotel complex in Sheki with extensive gardens, surrounded by the lush vegetation of the Caucasus.",
+                  "category": "landmark",
+                  "coords": [
+                        47.198558,
+                        41.24528
+                  ]
+            },
+            {
+                  "name": "İnçə kənd Məscidi",
+                  "text": "A local mosque in Ince village, notable for its traditional Azerbaijani brick architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        47.110645,
+                        41.253623
+                  ]
+            },
+            {
+                  "name": "Cümə məscidi \\ Oxud",
+                  "text": "The Friday Mosque of Okhud, a central brick building for the village's religious community.",
+                  "category": "landmark",
+                  "coords": [
+                        47.156379,
+                        41.237342
+                  ]
+            },
+            {
+                  "name": "Həzrəti İsmayıl Məscidi \\ Oxud",
+                  "text": "The Hazrati Ismayil Mosque in Okhud, known for its simple facade and role as a village sanctuary.",
+                  "category": "landmark",
+                  "coords": [
+                        47.161915,
+                        41.238266
+                  ]
+            },
+            {
+                  "name": "Məhəllə məscidi",
+                  "text": "A small neighborhood mosque serving as a place of prayer for residents of the surrounding streets.",
+                  "category": "landmark",
+                  "coords": [
+                        47.179525,
+                        41.230291
+                  ]
+            },
+            {
+                  "name": "Meşəli Məscid \\ Baş Şabalıd",
+                  "text": "The 'Forest Mosque' in Bash Shabalid, picturesquely situated amidst dense greenery on the mountainside.",
+                  "category": "landmark",
+                  "coords": [
+                        47.12226,
+                        41.303554
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "AZ-SAK",
     coords: [47.1931, 41.2483],
@@ -388,7 +4960,304 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
       fr: ["Considérée comme la plus ancienne église de la région du Caucase.", "La structure actuelle date du XIIe siècle.", "Les découvertes archéologiques indiquent un lieu de culte beaucoup plus ancien.", "Elle est associée à l'ancien royaume chrétien de l'Albanie du Caucase.", "L'église est dédiée à Saint Élisée.", "Thor Heyerdahl y a mené des recherches et l'a liée à d'anciennes origines scandinaves.", "Elle fait aujourd'hui office de musée présentant son histoire.", "Le projet de restauration a été un effort conjoint de l'Azerbaïdjan et de la Norvège."],
     }, image: "/poi-images/church-of-kish-landmarks-v2.webp"},
   {
-    id: "momine-khatun-mausoleum-landmarks-v2",
+    id: "momine-khatun-mausoleum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Xan Sarayı",
+                  "text": "Xan Sarayı ist ein bemerkenswertes Museum in der Gegend von momine-khatun-mausoleum-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        45.405347,
+                        39.203983
+                  ]
+            },
+            {
+                  "name": "Möminə Xatun məqbərəsi",
+                  "text": "Möminə Xatun məqbərəsi ist ein historisches Baudenkmal in momine-khatun-mausoleum-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        45.406514,
+                        39.204884
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət sarayı",
+                  "text": "Mədəniyyət sarayı ist ein Kulturtheater, das der Gemeinde in momine-khatun-mausoleum-landmarks-v2 dient.",
+                  "category": "cultural",
+                  "coords": [
+                        45.40798,
+                        39.202815
+                  ]
+            },
+            {
+                  "name": "Gənclik Mərkəzi",
+                  "text": "Gənclik Mərkəzi ist ein lokales Kunstzentrum in momine-khatun-mausoleum-landmarks-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        45.408435,
+                        39.206305
+                  ]
+            },
+            {
+                  "name": "Möminə Xatun türbəsi",
+                  "text": "Das Momine-Khatun-Mausoleum ist ein berühmtes Denkmal aus dem 12. Jahrhundert und eine Sehenswürdigkeit in momine-khatun-mausoleum-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        45.406713,
+                        39.206017
+                  ]
+            },
+            {
+                  "name": "Kazım Qarabəkir məscidi",
+                  "text": "Die Kazım Qarabəkir məscidi ist ein islamisches Gotteshaus in der Gegend von momine-khatun-mausoleum-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        45.425749,
+                        39.207067
+                  ]
+            },
+            {
+                  "name": "Pirqəmiş məscidi",
+                  "text": "Die Pirqəmiş məscidi ist eine muslimische Moschee, die einen Ort zum Beten in momine-khatun-mausoleum-landmarks-v2 bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        45.413228,
+                        39.204767
+                  ]
+            },
+            {
+                  "name": "Elit 57 geyim mağazası",
+                  "text": "Elit 57 geyim mağazası ist ein lokaler Marktplatz zum Einkaufen in momine-khatun-mausoleum-landmarks-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        45.424534,
+                        39.202696
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Xan Sarayı",
+                  "text": "A Xan Sarayı egy figyelemre méltó múzeum momine-khatun-mausoleum-landmarks-v2 területén.",
+                  "category": "museum",
+                  "coords": [
+                        45.405347,
+                        39.203983
+                  ]
+            },
+            {
+                  "name": "Möminə Xatun məqbərəsi",
+                  "text": "A Möminə Xatun məqbərəsi egy történelmi építészeti műemlék momine-khatun-mausoleum-landmarks-v2-ben.",
+                  "category": "historical",
+                  "coords": [
+                        45.406514,
+                        39.204884
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət sarayı",
+                  "text": "A Mədəniyyət sarayı egy kulturális színház a momine-khatun-mausoleum-landmarks-v2 közösségében.",
+                  "category": "cultural",
+                  "coords": [
+                        45.40798,
+                        39.202815
+                  ]
+            },
+            {
+                  "name": "Gənclik Mərkəzi",
+                  "text": "A Gənclik Mərkəzi egy helyi művészeti központ momine-khatun-mausoleum-landmarks-v2-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        45.408435,
+                        39.206305
+                  ]
+            },
+            {
+                  "name": "Möminə Xatun türbəsi",
+                  "text": "A Momine Khatun mauzóleum egy híres 12. századi műemlék és látványosság momine-khatun-mausoleum-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        45.406713,
+                        39.206017
+                  ]
+            },
+            {
+                  "name": "Kazım Qarabəkir məscidi",
+                  "text": "A Kazım Qarabəkir mecset egy iszlám istentiszteleti hely momine-khatun-mausoleum-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        45.425749,
+                        39.207067
+                  ]
+            },
+            {
+                  "name": "Pirqəmiş məscidi",
+                  "text": "A Pirqəmiş mecset egy muszlim imaház momine-khatun-mausoleum-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        45.413228,
+                        39.204767
+                  ]
+            },
+            {
+                  "name": "Elit 57 geyim mağazası",
+                  "text": "Az Elit 57 ruházati üzlet egy helyi piactér a vásárláshoz momine-khatun-mausoleum-landmarks-v2-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        45.424534,
+                        39.202696
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Xan Sarayı",
+                  "text": "Xan Sarayı este un muzeu notabil situat în zona momine-khatun-mausoleum-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        45.405347,
+                        39.203983
+                  ]
+            },
+            {
+                  "name": "Möminə Xatun məqbərəsi",
+                  "text": "Möminə Xatun məqbərəsi este un monument arhitectural istoric situat în momine-khatun-mausoleum-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        45.406514,
+                        39.204884
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət sarayı",
+                  "text": "Mədəniyyət sarayı este un teatru cultural care deservește comunitatea din momine-khatun-mausoleum-landmarks-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        45.40798,
+                        39.202815
+                  ]
+            },
+            {
+                  "name": "Gənclik Mərkəzi",
+                  "text": "Gənclik Mərkəzi este un centru local de arte din momine-khatun-mausoleum-landmarks-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        45.408435,
+                        39.206305
+                  ]
+            },
+            {
+                  "name": "Möminə Xatun türbəsi",
+                  "text": "Mausoleul Momine Khatun este un renumit monument din secolul al XII-lea și o atracție de referință în momine-khatun-mausoleum-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        45.406713,
+                        39.206017
+                  ]
+            },
+            {
+                  "name": "Kazım Qarabəkir məscidi",
+                  "text": "Moscheea Kazım Qarabəkir este un lăcaș de cult islamic situat în zona momine-khatun-mausoleum-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        45.425749,
+                        39.207067
+                  ]
+            },
+            {
+                  "name": "Pirqəmiş məscidi",
+                  "text": "Moscheea Pirqəmiş este un lăcaș de cult musulman care oferă un loc de rugăciune în momine-khatun-mausoleum-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        45.413228,
+                        39.204767
+                  ]
+            },
+            {
+                  "name": "Elit 57 geyim mağazası",
+                  "text": "Magazinul de îmbrăcăminte Elit 57 este o piață locală pentru cumpărături situată în momine-khatun-mausoleum-landmarks-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        45.424534,
+                        39.202696
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Xan Sarayı",
+                  "text": "Xan Sarayı is a notable museum situated in the area of momine-khatun-mausoleum-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        45.405347,
+                        39.203983
+                  ]
+            },
+            {
+                  "name": "Möminə Xatun məqbərəsi",
+                  "text": "Möminə Xatun məqbərəsi is a historic architectural monument located in momine-khatun-mausoleum-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        45.406514,
+                        39.204884
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət sarayı",
+                  "text": "Mədəniyyət sarayı is a cultural theatre serving the community in momine-khatun-mausoleum-landmarks-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        45.40798,
+                        39.202815
+                  ]
+            },
+            {
+                  "name": "Gənclik Mərkəzi",
+                  "text": "Gənclik Mərkəzi is a local arts centre in momine-khatun-mausoleum-landmarks-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        45.408435,
+                        39.206305
+                  ]
+            },
+            {
+                  "name": "Momine Khatun Mausoleum",
+                  "text": "The Momine Khatun Mausoleum is a renowned 12th-century monument and landmark attraction in momine-khatun-mausoleum-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        45.406713,
+                        39.206017
+                  ]
+            },
+            {
+                  "name": "Kazım Qarabəkir məscidi",
+                  "text": "Kazım Qarabəkir məscidi is an Islamic place of worship situated in the area of momine-khatun-mausoleum-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        45.425749,
+                        39.207067
+                  ]
+            },
+            {
+                  "name": "Pirqəmiş məscidi",
+                  "text": "Pirqəmiş məscidi is a Muslim mosque providing a site for prayer in momine-khatun-mausoleum-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        45.413228,
+                        39.204767
+                  ]
+            },
+            {
+                  "name": "Elit 57 geyim mağazası",
+                  "text": "Elit 57 geyim mağazası is a local marketplace for shopping located in momine-khatun-mausoleum-landmarks-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        45.424534,
+                        39.202696
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "AZ-NX",
     coords: [45.4058, 39.2065],
@@ -423,7 +5292,124 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
       fr: ["Construit en 1186 dans la ville de Nakhitchevan.", "La structure est une tour en briques à 10 côtés.", "Commandé par Atabeg Jahan Pehlevan pour son épouse Momine Khatun.", "La façade est ornée de motifs géométriques complexes et d'écritures coufiques.", "La hauteur initiale était de 34 mètres, mais la coupole conique manque aujourd'hui.", "Il est parfois appelé le 'tombeau de la reine d'échecs'.", "Il est un monument central de l'école d'architecture de Nakhitchevan."],
     }, image: "/poi-images/momine-khatun-mausoleum-landmarks-v2.webp"},
   {
-    id: "alinja-castle-landmarks-v2",
+    id: "alinja-castle-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qazançı Körpü  (1551 il)",
+                  "text": "Diese historische Steinbrücke aus dem Jahr 1551 überspannt den Fluss Alinjachay in der Nähe der Festung.",
+                  "category": "landmark",
+                  "coords": [
+                        45.703012,
+                        39.233788
+                  ]
+            },
+            {
+                  "name": "Ashabu Kəhf ziyarətgahı",
+                  "text": "Ein heiliger Höhlenkomplex in Nachitschewan, der als die im Koran erwähnte Stätte der „Sieben Schläfer“ gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        45.58854,
+                        39.218937
+                  ]
+            },
+            {
+                  "name": "Əlincə qalası",
+                  "text": "Diese strategische mittelalterliche Festung auf einem steilen Berggipfel wird oft als „Machu Picchu Aserbaidschans“ bezeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        45.69507,
+                        39.193801
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qazançı Körpü  (1551 il)",
+                  "text": "Ez az 1551-ből származó történelmi kőhíd az Alinjachay folyót íveli át az erőd közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        45.703012,
+                        39.233788
+                  ]
+            },
+            {
+                  "name": "Ashabu Kəhf ziyarətgahı",
+                  "text": "Szent barlangkomplexum Nahicsevánban, amelyet a Koránban említett „hét alvó” lakhelyeként tisztelnek.",
+                  "category": "landmark",
+                  "coords": [
+                        45.58854,
+                        39.218937
+                  ]
+            },
+            {
+                  "name": "Əlincə qalası",
+                  "text": "Ezt a meredek hegycsúcson álló stratégiai középkori erődöt gyakran „Azerbajdzsán Machu Picchu-jaként” emlegetik.",
+                  "category": "landmark",
+                  "coords": [
+                        45.69507,
+                        39.193801
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qazançı Körpü  (1551 il)",
+                  "text": "Acest pod istoric de piatră din 1551 traversează râul Alinjachay în apropierea cetății.",
+                  "category": "landmark",
+                  "coords": [
+                        45.703012,
+                        39.233788
+                  ]
+            },
+            {
+                  "name": "Ashabu Kəhf ziyarətgahı",
+                  "text": "Un complex de peșteri sacre din Nakhchivan, considerat locul celor „Șapte Adormiți” menționați în Coran.",
+                  "category": "landmark",
+                  "coords": [
+                        45.58854,
+                        39.218937
+                  ]
+            },
+            {
+                  "name": "Əlincə qalası",
+                  "text": "Această fortăreață medievală strategică de pe un vârf abrupt este adesea numită „Machu Picchu al Azerbaidjanului”.",
+                  "category": "landmark",
+                  "coords": [
+                        45.69507,
+                        39.193801
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qazanchi Bridge (1551 y.)",
+                  "text": "This historic stone bridge built in 1551 spans the Alinjachay river near the fortress.",
+                  "category": "landmark",
+                  "coords": [
+                        45.703012,
+                        39.233788
+                  ]
+            },
+            {
+                  "name": "Ashabi Kahf",
+                  "text": "A sacred cave complex in Nakhchivan, revered as the site of the 'Seven Sleepers' mentioned in the Quran.",
+                  "category": "landmark",
+                  "coords": [
+                        45.58854,
+                        39.218937
+                  ]
+            },
+            {
+                  "name": "Əlincə qalası",
+                  "text": "This strategic medieval fortress atop a steep mountain peak is often called the 'Machu Picchu of Azerbaijan.'",
+                  "category": "landmark",
+                  "coords": [
+                        45.69507,
+                        39.193801
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "AZ-NX",
     coords: [45.6942, 39.1933],
@@ -458,7 +5444,412 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
       fr: ["Le château est situé dans la République autonome du Nakhitchevan.", "Il est souvent surnommé le 'Machu Picchu de l'Azerbaïdjan'.", "Il servit de forteresse importante aux Atabegs d'Azerbaïdjan aux XIIe-XIIIe siècles.", "La forteresse a résisté à un siège de 14 ans mené par Tamerlan.", "Le site comprend des ruines de palais, de bâtiments résidentiels et de citernes d'eau.", "Plus de 1 500 marches mènent à la forteresse principale.", "D'importants travaux de restauration ont été achevés en 2014.", "Il offre une vue panoramique sur le paysage environnant et la rivière Alinja."],
     }, image: "/poi-images/alinja-castle-landmarks-v2.webp"},
   {
-    id: "nizami-mausoleum-landmarks-v2",
+    id: "nizami-mausoleum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Göygöl Diyarşünaslıq Muzeyi",
+                  "text": "Dieses Heimatmuseum in Göygöl ist in einer ehemaligen deutschen lutherischen Kirche untergebracht.",
+                  "category": "museum",
+                  "coords": [
+                        46.319443,
+                        40.587644
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev abidəsi",
+                  "text": "Ein Denkmal für Heydar Aliyev im zentralen Park von Göygöl.",
+                  "category": "historical",
+                  "coords": [
+                        46.317887,
+                        40.587886
+                  ]
+            },
+            {
+                  "name": "Köhnə daş Körpüsü",
+                  "text": "Eine historische Steinbogenbrücke, die den Fluss Ganjachay in Göygöl überspannt.",
+                  "category": "landmark",
+                  "coords": [
+                        46.310326,
+                        40.584432
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev Mərkəzi",
+                  "text": "Ein modernes Kulturzentrum in Göygöl für Ausstellungen und öffentliche Veranstaltungen.",
+                  "category": "museum",
+                  "coords": [
+                        46.315456,
+                        40.591756
+                  ]
+            },
+            {
+                  "name": "Göygöl Mədəniyyət Evi",
+                  "text": "Ein zentrales Kulturhaus in Göygöl, das als Veranstaltungsort für lokale Theateraufführungen und Konzerte dient.",
+                  "category": "cultural",
+                  "coords": [
+                        46.317941,
+                        40.590323
+                  ]
+            },
+            {
+                  "name": "Göygöl şəhəri - Giriş",
+                  "text": "Ein markantes Denkmal am Stadteingang von Göygöl, das Besucher in der historisch bedeutsamen Stadt willkommen heißt.",
+                  "category": "historical",
+                  "coords": [
+                        46.330478,
+                        40.603014
+                  ]
+            },
+            {
+                  "name": "Uşaq Gənclər İnkişaf Mərkəzi",
+                  "text": "Ein modernes Zentrum, das kreative Workshops und Bildungsprogramme für die Jugend der Region anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        46.333275,
+                        40.58616
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev Muzeyi",
+                  "text": "Ein museum, das dem Leben und dem politischen Erbe des ehemaligen aserbaidschanischen Führers Heydar Aliyev gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        46.328689,
+                        40.58127
+                  ]
+            },
+            {
+                  "name": "Qazaxlar məscidi",
+                  "text": "Eine traditionelle Moschee mit lokaler Steinarchitektur, die als geistliches Zentrum des Qazaxlar-Viertels dient.",
+                  "category": "landmark",
+                  "coords": [
+                        46.334632,
+                        40.669823
+                  ]
+            },
+            {
+                  "name": "Bağbanlar məsçidi",
+                  "text": "Eine lokale Moschee im Bağbanlar-Viertel, die für ihre schlichte Gestaltung und die täglichen Gebete bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        46.329357,
+                        40.662443
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "Ein lebhafter lokaler Marktplatz, auf dem frische Produkte, Gewürze und Waren des täglichen Bedarfs angeboten werden.",
+                  "category": "cultural",
+                  "coords": [
+                        46.352619,
+                        40.592919
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Göygöl Diyarşünaslıq Muzeyi",
+                  "text": "Ez a göygöli helytörténeti múzeum egy egykori német evangélikus templom épületében található.",
+                  "category": "museum",
+                  "coords": [
+                        46.319443,
+                        40.587644
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev abidəsi",
+                  "text": "Heydar Aliyev emlékműve Göygöl központi parkjában.",
+                  "category": "historical",
+                  "coords": [
+                        46.317887,
+                        40.587886
+                  ]
+            },
+            {
+                  "name": "Köhnə daş Körpüsü",
+                  "text": "Történelmi kőboltozatos híd, amely a Gandzsacsaj folyón ível át Göygölben.",
+                  "category": "landmark",
+                  "coords": [
+                        46.310326,
+                        40.584432
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev Mərkəzi",
+                  "text": "Modern kulturális központ Göygölben kiállítások és nyilvános események számára.",
+                  "category": "museum",
+                  "coords": [
+                        46.315456,
+                        40.591756
+                  ]
+            },
+            {
+                  "name": "Göygöl Mədəniyyət Evi",
+                  "text": "A Göygöl szívében található kulturális központ, amely helyi színházi előadásoknak és koncerteknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        46.317941,
+                        40.590323
+                  ]
+            },
+            {
+                  "name": "Göygöl şəhəri - Giriş",
+                  "text": "Göygöl városának bejáratánál álló monumentális emlékmű, amely a történelmi városba érkezőket üdvözli.",
+                  "category": "historical",
+                  "coords": [
+                        46.330478,
+                        40.603014
+                  ]
+            },
+            {
+                  "name": "Uşaq Gənclər İnkişaf Mərkəzi",
+                  "text": "Modern központ, amely kreatív műhelyfoglalkozásokat és oktatási programokat kínál a helyi fiatalok számára.",
+                  "category": "cultural",
+                  "coords": [
+                        46.333275,
+                        40.58616
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev Muzeyi",
+                  "text": "Heydar Aliyev egykori azeri államfő életét és politikai örökségét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        46.328689,
+                        40.58127
+                  ]
+            },
+            {
+                  "name": "Qazaxlar məscidi",
+                  "text": "Helyi mészkőből épült hagyományos mecset, amely a Qazaxlar negyed hitéletének központja.",
+                  "category": "landmark",
+                  "coords": [
+                        46.334632,
+                        40.669823
+                  ]
+            },
+            {
+                  "name": "Bağbanlar məsçidi",
+                  "text": "A Bağbanlar negyedben található helyi mecset, amely egyszerű kialakításáról és napi imáiról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        46.329357,
+                        40.662443
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "Élettel teli helyi piac, ahol friss terményeket, fűszereket és mindennapi használati cikkeket árusítanak.",
+                  "category": "cultural",
+                  "coords": [
+                        46.352619,
+                        40.592919
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Göygöl Diyarşünaslıq Muzeyi",
+                  "text": "Acest muzeu de istorie locală din Göygöl este găzduit într-o fostă biserică luterană germană.",
+                  "category": "museum",
+                  "coords": [
+                        46.319443,
+                        40.587644
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev abidəsi",
+                  "text": "Un monument dedicat lui Heydar Aliyev situat în parcul central din Göygöl.",
+                  "category": "historical",
+                  "coords": [
+                        46.317887,
+                        40.587886
+                  ]
+            },
+            {
+                  "name": "Köhnə daş Körpüsü",
+                  "text": "Un pod istoric din piatră cu arcade care traversează râul Ganjachay în Göygöl.",
+                  "category": "landmark",
+                  "coords": [
+                        46.310326,
+                        40.584432
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev Mərkəzi",
+                  "text": "Un centru cultural modern în Göygöl, destinat expozițiilor și evenimentelor publice.",
+                  "category": "museum",
+                  "coords": [
+                        46.315456,
+                        40.591756
+                  ]
+            },
+            {
+                  "name": "Göygöl Mədəniyyət Evi",
+                  "text": "O casă de cultură centrală din Göygöl, care servește drept loc de desfășurare pentru spectacole de teatru și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        46.317941,
+                        40.590323
+                  ]
+            },
+            {
+                  "name": "Göygöl şəhəri - Giriş",
+                  "text": "Un monument proeminent la intrarea în orașul Göygöl, care îi întâmpină pe vizitatori în această localitate istorică.",
+                  "category": "historical",
+                  "coords": [
+                        46.330478,
+                        40.603014
+                  ]
+            },
+            {
+                  "name": "Uşaq Gənclər İnkişaf Mərkəzi",
+                  "text": "Un centru modern care găzduiește ateliere de creație și programe educaționale pentru tinerii din regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        46.333275,
+                        40.58616
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev Muzeyi",
+                  "text": "Un muzeu dedicat vieții și moștenirii politice a fostului lider național al Azerbaidjanului, Heydar Aliyev.",
+                  "category": "museum",
+                  "coords": [
+                        46.328689,
+                        40.58127
+                  ]
+            },
+            {
+                  "name": "Qazaxlar məscidi",
+                  "text": "O moschee tradițională cu arhitectură locală din piatră, care servește drept centru spiritual al cartierului Qazaxlar.",
+                  "category": "landmark",
+                  "coords": [
+                        46.334632,
+                        40.669823
+                  ]
+            },
+            {
+                  "name": "Bağbanlar məsçidi",
+                  "text": "O moschee locală din cartierul Bağbanlar, cunoscută pentru designul său simplu și rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        46.329357,
+                        40.662443
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "O piață locală vibrantă, unde se vând produse proaspete, condimente și bunuri de larg consum.",
+                  "category": "cultural",
+                  "coords": [
+                        46.352619,
+                        40.592919
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Göygöl Diyarşünaslıq Muzeyi",
+                  "text": "This local history museum in Goygol is housed in a former German Lutheran church building.",
+                  "category": "museum",
+                  "coords": [
+                        46.319443,
+                        40.587644
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev abidəsi",
+                  "text": "A monument to Heydar Aliyev located in the central park of Goygol.",
+                  "category": "historical",
+                  "coords": [
+                        46.317887,
+                        40.587886
+                  ]
+            },
+            {
+                  "name": "Old stone bridge",
+                  "text": "A historic stone arch bridge spanning the Ganjachay river in Goygol.",
+                  "category": "landmark",
+                  "coords": [
+                        46.310326,
+                        40.584432
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev Mərkəzi",
+                  "text": "A modern cultural center in Goygol for exhibitions and public events.",
+                  "category": "museum",
+                  "coords": [
+                        46.315456,
+                        40.591756
+                  ]
+            },
+            {
+                  "name": "Göygöl Mədəniyyət Evi",
+                  "text": "A central culture house in Göygöl that serves as a venue for local theatrical performances and concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        46.317941,
+                        40.590323
+                  ]
+            },
+            {
+                  "name": "Göygöl şəhəri - Giriş",
+                  "text": "A prominent monument at the entrance to Göygöl that welcomes visitors to the historically significant town.",
+                  "category": "historical",
+                  "coords": [
+                        46.330478,
+                        40.603014
+                  ]
+            },
+            {
+                  "name": "Uşaq Gənclər İnkişaf Mərkəzi",
+                  "text": "A modern center hosting creative workshops and educational programs for the region's youth.",
+                  "category": "cultural",
+                  "coords": [
+                        46.333275,
+                        40.58616
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev Muzeyi",
+                  "text": "A museum dedicated to the life and political legacy of the former Azerbaijani leader Heydar Aliyev.",
+                  "category": "museum",
+                  "coords": [
+                        46.328689,
+                        40.58127
+                  ]
+            },
+            {
+                  "name": "Qazaxlar məscidi",
+                  "text": "A traditional mosque featuring local stone architecture, serving as the spiritual center of the Qazaxlar neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        46.334632,
+                        40.669823
+                  ]
+            },
+            {
+                  "name": "Bağbanlar məsçidi",
+                  "text": "A local mosque in the Bağbanlar district known for its simple design and daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        46.329357,
+                        40.662443
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "A vibrant local marketplace offering fresh produce, spices, and everyday goods.",
+                  "category": "cultural",
+                  "coords": [
+                        46.352619,
+                        40.592919
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "AZ-GA",
     coords: [46.3314, 40.6711],
@@ -493,7 +5884,412 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
       fr: ["Le mausolée est dédié au poète du XIIe siècle Nizami Ganjavi.", "Il est situé à Gandja, la ville natale du poète.", "La structure actuelle a été construite en 1991, remplaçant un monument plus ancien de l'ère soviétique.", "Nizami est considéré comme le poète national de l'Azerbaïdjan.", "Le bâtiment est en granit et mesure environ 20 mètres de haut.", "La zone autour du mausolée comprend un jardin et des statues de ses personnages.", "Il s'agit d'un site important de pèlerinage culturel en Azerbaïdjan.", "Son œuvre la plus célèbre est le 'Khamsa' (Quintette), un recueil de cinq poèmes épiques."],
     }, image: "/poi-images/nizami-mausoleum-landmarks-v2.webp"},
   {
-    id: "diri-baba-mausoleum-landmarks-v2",
+    id: "diri-baba-mausoleum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Şəhid Valeh Babayev bulağı \\ Nərimanabad",
+                  "text": "Eine Gedenkquelle in Nərimanabad, die dem Andenken an Valeh Babayev gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        48.941352,
+                        40.513
+                  ]
+            },
+            {
+                  "name": "Bayraq",
+                  "text": "Ein Aussichtspunkt mit einer großen Nationalflagge, der einen weiten Blick über die Ebene von Gobustan bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        48.938266,
+                        40.523067
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi",
+                  "text": "Das örtliche Kulturhaus dient als Veranstaltungsort für Theateraufführungen und Gemeinschaftstreffen.",
+                  "category": "cultural",
+                  "coords": [
+                        48.927889,
+                        40.534382
+                  ]
+            },
+            {
+                  "name": "Nərimanabad Mərəzə mağaraları",
+                  "text": "In die Kalksteinfelsen gehauene Höhlen, die historisch als Zufluchtsorte oder Lager genutzt wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        48.936008,
+                        40.509407
+                  ]
+            },
+            {
+                  "name": "Diri Baba məqbərəsi",
+                  "text": "Ein zweistöckiges Mausoleum aus dem 15. Jahrhundert, das eindrucksvoll direkt in eine Felswand gebaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        48.942035,
+                        40.532562
+                  ]
+            },
+            {
+                  "name": "Mərəzə Dairəsi",
+                  "text": "Der zentrale Platz von Maraza, ein wichtiger Knotenpunkt für Reisende auf dem Weg zum Diri-Baba-Mausoleum.",
+                  "category": "landmark",
+                  "coords": [
+                        48.934403,
+                        40.522313
+                  ]
+            },
+            {
+                  "name": "Məscid",
+                  "text": "Eine lokale Moschee in Maraza, die für die Pilger der nahegelegenen heiligen Stätten offen steht.",
+                  "category": "landmark",
+                  "coords": [
+                        48.882685,
+                        40.567742
+                  ]
+            },
+            {
+                  "name": "Cümə məscidi",
+                  "text": "Eine lokale Moschee in Maraza mit traditioneller islamischer Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        48.929353,
+                        40.533574
+                  ]
+            },
+            {
+                  "name": "şeytanın evi",
+                  "text": "Eine historische, in den Fels gehauene christliche Einsiedelei oder Höhlenwohnung.",
+                  "category": "landmark",
+                  "coords": [
+                        48.931731,
+                        40.531689
+                  ]
+            },
+            {
+                  "name": "Heydər Məscidi",
+                  "text": "Eine moderne muslimische Gebetsstätte, die der lokalen Gemeinde in der Region Maraza dient.",
+                  "category": "landmark",
+                  "coords": [
+                        48.933993,
+                        40.523646
+                  ]
+            },
+            {
+                  "name": "Qobustan Bazarı \\ Mərəzə",
+                  "text": "Ein lebhafter lokaler Markt in Maraza, der für regionale Agrarprodukte bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        48.923063,
+                        40.530712
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Şəhid Valeh Babayev bulağı \\ Nərimanabad",
+                  "text": "Emlékforrás Nərimanabadban, amelyet Valeh Babayev emlékének szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        48.941352,
+                        40.513
+                  ]
+            },
+            {
+                  "name": "Bayraq",
+                  "text": "Kilátópont egy nagy nemzeti zászlóval, ahonnan széles kilátás nyílik a Gobusztán-síkságra.",
+                  "category": "landmark",
+                  "coords": [
+                        48.938266,
+                        40.523067
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi",
+                  "text": "A helyi művelődési ház színházi előadások és közösségi találkozók helyszínéül szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        48.927889,
+                        40.534382
+                  ]
+            },
+            {
+                  "name": "Nərimanabad Mərəzə mağaraları",
+                  "text": "A mészkősziklákba vájt barlangok, amelyeket történelmileg menedékként vagy raktárként használtak.",
+                  "category": "landmark",
+                  "coords": [
+                        48.936008,
+                        40.509407
+                  ]
+            },
+            {
+                  "name": "Diri Baba məqbərəsi",
+                  "text": "Egy 15. századi, kétszintes mauzóleum, amelyet lenyűgöző módon közvetlenül egy sziklafalba építettek.",
+                  "category": "landmark",
+                  "coords": [
+                        48.942035,
+                        40.532562
+                  ]
+            },
+            {
+                  "name": "Mərəzə Dairəsi",
+                  "text": "Maraza központi tere, fontos csomópont a Diri Baba-mauzóleum felé tartó utazók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        48.934403,
+                        40.522313
+                  ]
+            },
+            {
+                  "name": "Məscid",
+                  "text": "Helyi mecset Marazában, amely nyitva áll a közeli szent helyek zarándokai előtt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.882685,
+                        40.567742
+                  ]
+            },
+            {
+                  "name": "Cümə məscidi",
+                  "text": "Helyi mecset Maraza városában, hagyományos iszlám építészeti stílusban.",
+                  "category": "landmark",
+                  "coords": [
+                        48.929353,
+                        40.533574
+                  ]
+            },
+            {
+                  "name": "şeytanın evi",
+                  "text": "Történelmi keresztény sziklalakás vagy remetelak, amelyet a kőzetbe vájtak.",
+                  "category": "landmark",
+                  "coords": [
+                        48.931731,
+                        40.531689
+                  ]
+            },
+            {
+                  "name": "Heydər Məscidi",
+                  "text": "Modern muszlim imaház, amely a marazai régió helyi közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        48.933993,
+                        40.523646
+                  ]
+            },
+            {
+                  "name": "Qobustan Bazarı \\ Mərəzə",
+                  "text": "Nyüzsgő helyi piac Maraza városában, amely regionális mezőgazdasági termékeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        48.923063,
+                        40.530712
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Şəhid Valeh Babayev bulağı \\ Nərimanabad",
+                  "text": "O cișmea memorială în Nərimanabad, dedicată memoriei lui Valeh Babayev.",
+                  "category": "historical",
+                  "coords": [
+                        48.941352,
+                        40.513
+                  ]
+            },
+            {
+                  "name": "Bayraq",
+                  "text": "Un punct de observație cu un steag național mare, oferind o vedere largă asupra câmpiei Gobustan.",
+                  "category": "landmark",
+                  "coords": [
+                        48.938266,
+                        40.523067
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi",
+                  "text": "Casa locală de cultură servește ca loc de desfășurare pentru spectacole de teatru și întâlniri comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        48.927889,
+                        40.534382
+                  ]
+            },
+            {
+                  "name": "Nərimanabad Mərəzə mağaraları",
+                  "text": "Peșteri săpate în stâncile de calcar, folosite istoric ca locuri de refugiu sau depozitare.",
+                  "category": "landmark",
+                  "coords": [
+                        48.936008,
+                        40.509407
+                  ]
+            },
+            {
+                  "name": "Diri Baba məqbərəsi",
+                  "text": "Un mausoleu cu două etaje din secolul al XV-lea, construit impresionant direct într-un perete stâncos.",
+                  "category": "landmark",
+                  "coords": [
+                        48.942035,
+                        40.532562
+                  ]
+            },
+            {
+                  "name": "Mərəzə Dairəsi",
+                  "text": "Piața centrală din Maraza, un nod important pentru călătorii care merg spre mausoleul Diri Baba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.934403,
+                        40.522313
+                  ]
+            },
+            {
+                  "name": "Məscid",
+                  "text": "O moschee locală în Maraza, deschisă pelerinilor care vizitează locurile sfinte din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        48.882685,
+                        40.567742
+                  ]
+            },
+            {
+                  "name": "Cümə məscidi",
+                  "text": "O moschee locală în Maraza, prezentând o arhitectură islamică tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        48.929353,
+                        40.533574
+                  ]
+            },
+            {
+                  "name": "şeytanın evi",
+                  "text": "O locuință rupestră creștină istorică sau chilie săpată direct în stâncă.",
+                  "category": "landmark",
+                  "coords": [
+                        48.931731,
+                        40.531689
+                  ]
+            },
+            {
+                  "name": "Heydər Məscidi",
+                  "text": "Un lăcaș de cult musulman modern care servește comunitatea locală din regiunea Maraza.",
+                  "category": "landmark",
+                  "coords": [
+                        48.933993,
+                        40.523646
+                  ]
+            },
+            {
+                  "name": "Qobustan Bazarı \\ Mərəzə",
+                  "text": "O piață locală plină de viață în Maraza, cunoscută pentru produsele agricole regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        48.923063,
+                        40.530712
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Şəhid Valeh Babayev bulağı \\ Nərimanabad",
+                  "text": "A memorial spring in Nərimanabad dedicated to the memory of Valeh Babayev.",
+                  "category": "historical",
+                  "coords": [
+                        48.941352,
+                        40.513
+                  ]
+            },
+            {
+                  "name": "Bayraq",
+                  "text": "A viewpoint with a large national flag, offering a wide view over the Gobustan plain.",
+                  "category": "landmark",
+                  "coords": [
+                        48.938266,
+                        40.523067
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi",
+                  "text": "The local culture house serves as a venue for theatrical performances and community gatherings.",
+                  "category": "cultural",
+                  "coords": [
+                        48.927889,
+                        40.534382
+                  ]
+            },
+            {
+                  "name": "Nərimanabad Mərəzə mağaraları",
+                  "text": "Caves carved into the limestone cliffs, used historically as places of refuge or storage.",
+                  "category": "landmark",
+                  "coords": [
+                        48.936008,
+                        40.509407
+                  ]
+            },
+            {
+                  "name": "Diri Baba Mausoleum",
+                  "text": "A 15th-century two-story mausoleum remarkably built directly into a limestone cliff face.",
+                  "category": "landmark",
+                  "coords": [
+                        48.942035,
+                        40.532562
+                  ]
+            },
+            {
+                  "name": "Mərəzə Dairəsi",
+                  "text": "The central square of Maraza, a key junction for travelers heading toward the Diri Baba Mausoleum.",
+                  "category": "landmark",
+                  "coords": [
+                        48.934403,
+                        40.522313
+                  ]
+            },
+            {
+                  "name": "Məscid",
+                  "text": "A local mosque in Maraza open to pilgrims visiting the nearby holy sites.",
+                  "category": "landmark",
+                  "coords": [
+                        48.882685,
+                        40.567742
+                  ]
+            },
+            {
+                  "name": "Cümə məscidi",
+                  "text": "A local mosque in Maraza featuring traditional Islamic architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        48.929353,
+                        40.533574
+                  ]
+            },
+            {
+                  "name": "şeytanın evi",
+                  "text": "A historical Christian rock-cut dwelling or hermitage carved into the stone.",
+                  "category": "landmark",
+                  "coords": [
+                        48.931731,
+                        40.531689
+                  ]
+            },
+            {
+                  "name": "Heydər Məscidi",
+                  "text": "A modern Muslim place of worship serving the local community in the Maraza region.",
+                  "category": "landmark",
+                  "coords": [
+                        48.933993,
+                        40.523646
+                  ]
+            },
+            {
+                  "name": "Qobustan Bazarı \\ Mərəzə",
+                  "text": "A lively local market in Maraza known for regional agricultural products.",
+                  "category": "cultural",
+                  "coords": [
+                        48.923063,
+                        40.530712
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "AZ-SMI",
     coords: [48.9408, 40.5317],
@@ -528,7 +6324,700 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
       fr: ["Le mausolée a été construit en 1402.", "C'est une structure à deux étages bâtie directement dans une paroi rocheuse.", "C'est un monument clé de l'école d'architecture de Chirvan-Abchéron.", "Le nom 'Diri Baba' signifie 'Grand-père Vivant'.", "La légende veut que le saint enterré ici soit resté intact après sa mort.", "Le site était un lieu de rencontre historique pour les mystiques soufis.", "La façade présente des sculptures sur pierre et des calligraphies complexes.", "Il est situé dans la ville de Maraza, près de Qobustan."],
     }, image: "/poi-images/diri-baba-mausoleum-landmarks-v2.webp"},
   {
-    id: "juma-mosque-shamakhi-landmarks-v2",
+    id: "juma-mosque-shamakhi-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sabir Ev Muzeyi",
+                  "text": "Das Hausmuseum ist dem Leben und Werk des berühmten satirischen Dichters Mirza Alakbar Sabir gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        48.641633,
+                        40.627957
+                  ]
+            },
+            {
+                  "name": "Musiqi məktəbi",
+                  "text": "Ein Bildungszentrum in Şamaxı, das sich auf den Unterricht in traditioneller aserbaidschanischer Musik spezialisiert hat.",
+                  "category": "cultural",
+                  "coords": [
+                        48.703044,
+                        40.594851
+                  ]
+            },
+            {
+                  "name": "Şamaxı Yazı",
+                  "text": "Ein kalligrafisches Steindenkmal, das das literarische Erbe der Stadt Şamaxı repräsentiert.",
+                  "category": "historical",
+                  "coords": [
+                        48.669776,
+                        40.610148
+                  ]
+            },
+            {
+                  "name": "Alaş Məbədi 17-ci əsr",
+                  "text": "Die Überreste eines historischen Tempels aus dem 17. Jahrhundert in der Region Şamaxı.",
+                  "category": "historical",
+                  "coords": [
+                        48.637451,
+                        40.606774
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi",
+                  "text": "Ein lokales Kulturhaus, das für Theateraufführungen und gemeinschaftliche Veranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        48.64167,
+                        40.610786
+                  ]
+            },
+            {
+                  "name": "Şəhidlər Abidəsi",
+                  "text": "Ein Denkmal in Şamaxı, das den Märtyrern des Landes gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        48.657734,
+                        40.62173
+                  ]
+            },
+            {
+                  "name": "Abidə",
+                  "text": "Ein steinernes Gedenkmonument in einem zentralen Viertel von Şamaxı.",
+                  "category": "historical",
+                  "coords": [
+                        48.6535,
+                        40.623645
+                  ]
+            },
+            {
+                  "name": "Diyarşünaslıq muzeyi",
+                  "text": "Ein Heimatmuseum, das die regionale Geschichte und ethnographische Traditionen von Şamaxı zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        48.656114,
+                        40.622099
+                  ]
+            },
+            {
+                  "name": "İslam Təşkilatı",
+                  "text": "Ein Zentrum für islamische Kultur und Bildungsaktivitäten in der historischen Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        48.665795,
+                        40.614587
+                  ]
+            },
+            {
+                  "name": "Tarix Muzeyi",
+                  "text": "Das Regionalmuseum stellt archäologische Funde und historische Artefakte aus der Geschichte Şamaxıs aus.",
+                  "category": "museum",
+                  "coords": [
+                        48.644258,
+                        40.609172
+                  ]
+            },
+            {
+                  "name": "Bayraq \\ Şəhriyar qəsəbəsi",
+                  "text": "Eine markante Anlage mit Nationalflagge in der Siedlung Şəhriyar.",
+                  "category": "landmark",
+                  "coords": [
+                        48.653802,
+                        40.608436
+                  ]
+            },
+            {
+                  "name": "Mirzənin ağacları",
+                  "text": "Ein Aussichtspunkt mit schattigen alten Bäumen, der einen weiten Blick über die Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        48.731896,
+                        40.578074
+                  ]
+            },
+            {
+                  "name": "Şamaxı Cümə Məscidi",
+                  "text": "Die älteste Moschee Aserbaidschans, ursprünglich im Jahr 743 erbaut und bekannt für ihre monumentale Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        48.643815,
+                        40.626865
+                  ]
+            },
+            {
+                  "name": "Yeddi Kümbəz Məqbərəsi",
+                  "text": "Ein Komplex aus Mausoleen des 18. Jahrhunderts, in denen die Familie der Khane von Shirvan begraben liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.635689,
+                        40.620521
+                  ]
+            },
+            {
+                  "name": "Yaşıl Məscid",
+                  "text": "Ein historisches Gotteshaus, das durch seine namensgebenden grünen Dekorelemente auffällt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.6476,
+                        40.553465
+                  ]
+            },
+            {
+                  "name": "El Məscidi",
+                  "text": "Eine traditionelle Moschee, die der lokalen Bevölkerung von Şamaxı als Gebetsstätte dient.",
+                  "category": "landmark",
+                  "coords": [
+                        48.621508,
+                        40.571923
+                  ]
+            },
+            {
+                  "name": "İmam Hüseyn Məscidi",
+                  "text": "Diese Moschee ist dem Imam Hussein gewidmet und ein wichtiger Ort für das religiöse Leben der Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        48.607083,
+                        40.592008
+                  ]
+            },
+            {
+                  "name": "Məscid",
+                  "text": "Ein schlichtes muslimisches Gotteshaus im Herzen der historischen Stadt Şamaxı.",
+                  "category": "landmark",
+                  "coords": [
+                        48.641659,
+                        40.609161
+                  ]
+            },
+            {
+                  "name": "İmamzadə Məscidi",
+                  "text": "Ein historischer Moschee- und Schrein-Komplex, der ein bedeutendes Ziel für lokale Pilger ist.",
+                  "category": "landmark",
+                  "coords": [
+                        48.646033,
+                        40.628162
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sabir Ev Muzeyi",
+                  "text": "A híres szatirikus költő, Mirza Alakbar Sabir életének és munkásságának szentelt emlékmúzeum.",
+                  "category": "museum",
+                  "coords": [
+                        48.641633,
+                        40.627957
+                  ]
+            },
+            {
+                  "name": "Musiqi məktəbi",
+                  "text": "Oktatási központ Semahiban, amely a hagyományos azeri zene tanítására specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        48.703044,
+                        40.594851
+                  ]
+            },
+            {
+                  "name": "Şamaxı Yazı",
+                  "text": "Kalligrafikus kőemlékmű, amely Semahi városának irodalmi örökségét jelképezi.",
+                  "category": "historical",
+                  "coords": [
+                        48.669776,
+                        40.610148
+                  ]
+            },
+            {
+                  "name": "Alaş Məbədi 17-ci əsr",
+                  "text": "Egy 17. századi történelmi templom romjai Semahi régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        48.637451,
+                        40.606774
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi",
+                  "text": "Helyi művelődési ház, amelyet színházi előadásokra és közösségi eseményekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        48.64167,
+                        40.610786
+                  ]
+            },
+            {
+                  "name": "Şəhidlər Abidəsi",
+                  "text": "Az ország mártírjainak szentelt emlékmű Semahiban.",
+                  "category": "historical",
+                  "coords": [
+                        48.657734,
+                        40.62173
+                  ]
+            },
+            {
+                  "name": "Abidə",
+                  "text": "Emlékoszlop Semahi egyik központi negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        48.6535,
+                        40.623645
+                  ]
+            },
+            {
+                  "name": "Diyarşünaslıq muzeyi",
+                  "text": "Helytörténeti múzeum, amely Semahi regionális történelmét és néprajzi hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        48.656114,
+                        40.622099
+                  ]
+            },
+            {
+                  "name": "İslam Təşkilatı",
+                  "text": "Az iszlám kultúra és oktatási tevékenységek központja a történelmi városban.",
+                  "category": "cultural",
+                  "coords": [
+                        48.665795,
+                        40.614587
+                  ]
+            },
+            {
+                  "name": "Tarix Muzeyi",
+                  "text": "Regionális múzeum, amely régészeti leleteket és történelmi tárgyakat mutat be Semahi múltjából.",
+                  "category": "museum",
+                  "coords": [
+                        48.644258,
+                        40.609172
+                  ]
+            },
+            {
+                  "name": "Bayraq \\ Şəhriyar qəsəbəsi",
+                  "text": "Látványos nemzeti zászlórúd és emlékhely Şəhriyar településen.",
+                  "category": "landmark",
+                  "coords": [
+                        48.653802,
+                        40.608436
+                  ]
+            },
+            {
+                  "name": "Mirzənin ağacları",
+                  "text": "Ősi fákkal árnyékolt kilátópont, ahonnan panorámás kilátás nyílik a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        48.731896,
+                        40.578074
+                  ]
+            },
+            {
+                  "name": "Şamaxı Cümə Məscidi",
+                  "text": "Azerbajdzsán legrégebbi mecsetje, amelyet eredetileg 743-ban építettek, és monumentális építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        48.643815,
+                        40.626865
+                  ]
+            },
+            {
+                  "name": "Yeddi Kümbəz Məqbərəsi",
+                  "text": "18. századi mauzóleumok komplexuma, ahol a shirvani kánok családja nyugszik.",
+                  "category": "landmark",
+                  "coords": [
+                        48.635689,
+                        40.620521
+                  ]
+            },
+            {
+                  "name": "Yaşıl Məscid",
+                  "text": "Történelmi imaház, amely nevét adó zöld díszítőelemeiről nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        48.6476,
+                        40.553465
+                  ]
+            },
+            {
+                  "name": "El Məscidi",
+                  "text": "Hagyományos mecset, amely Semahi helyi lakosságának hitéletét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        48.621508,
+                        40.571923
+                  ]
+            },
+            {
+                  "name": "İmam Hüseyn Məscidi",
+                  "text": "Imám Huszeinnek szentelt mecset, amely a közösség vallási életének fontos helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        48.607083,
+                        40.592008
+                  ]
+            },
+            {
+                  "name": "Məscid",
+                  "text": "Egyszerű muszlim imaház Semahi történelmi városának szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.641659,
+                        40.609161
+                  ]
+            },
+            {
+                  "name": "İmamzadə Məscidi",
+                  "text": "Történelmi mecset- és síremlék-komplexum, amely a helyi zarándokok fontos célpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        48.646033,
+                        40.628162
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sabir Ev Muzeyi",
+                  "text": "Casa memorială dedicată vieții și operei celebrului poet satiric Mirza Alakbar Sabir.",
+                  "category": "museum",
+                  "coords": [
+                        48.641633,
+                        40.627957
+                  ]
+            },
+            {
+                  "name": "Musiqi məktəbi",
+                  "text": "Un centru educațional în Șamahi, specializat în predarea muzicii tradiționale azere.",
+                  "category": "cultural",
+                  "coords": [
+                        48.703044,
+                        40.594851
+                  ]
+            },
+            {
+                  "name": "Şamaxı Yazı",
+                  "text": "Un monument din piatră cu inscripții caligrafice, reprezentând moștenirea literară a orașului Șamahi.",
+                  "category": "historical",
+                  "coords": [
+                        48.669776,
+                        40.610148
+                  ]
+            },
+            {
+                  "name": "Alaş Məbədi 17-ci əsr",
+                  "text": "Ruinele unui templu istoric datând din secolul al XVII-lea, situat în regiunea Șamahi.",
+                  "category": "historical",
+                  "coords": [
+                        48.637451,
+                        40.606774
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi",
+                  "text": "O casă de cultură locală utilizată pentru spectacole de teatru și evenimente comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        48.64167,
+                        40.610786
+                  ]
+            },
+            {
+                  "name": "Şəhidlər Abidəsi",
+                  "text": "Un monument în Șamahi dedicat martirilor țării.",
+                  "category": "historical",
+                  "coords": [
+                        48.657734,
+                        40.62173
+                  ]
+            },
+            {
+                  "name": "Abidə",
+                  "text": "Un monument comemorativ din piatră situat într-un cartier central din Șamahi.",
+                  "category": "historical",
+                  "coords": [
+                        48.6535,
+                        40.623645
+                  ]
+            },
+            {
+                  "name": "Diyarşünaslıq muzeyi",
+                  "text": "Un muzeu de istorie locală care prezintă trecutul regional și tradițiile etnografice din Șamahi.",
+                  "category": "museum",
+                  "coords": [
+                        48.656114,
+                        40.622099
+                  ]
+            },
+            {
+                  "name": "İslam Təşkilatı",
+                  "text": "Un centru pentru cultura islamică și activități educaționale în orașul istoric.",
+                  "category": "cultural",
+                  "coords": [
+                        48.665795,
+                        40.614587
+                  ]
+            },
+            {
+                  "name": "Tarix Muzeyi",
+                  "text": "Muzeul regional care expune descoperiri arheologice și artefacte istorice din trecutul orașului Șamahi.",
+                  "category": "museum",
+                  "coords": [
+                        48.644258,
+                        40.609172
+                  ]
+            },
+            {
+                  "name": "Bayraq \\ Şəhriyar qəsəbəsi",
+                  "text": "O instalație proeminentă cu drapelul național în așezarea Șahriyar.",
+                  "category": "landmark",
+                  "coords": [
+                        48.653802,
+                        40.608436
+                  ]
+            },
+            {
+                  "name": "Mirzənin ağacları",
+                  "text": "Un punct de belvedere umbrit de arbori antici, oferind vederi panoramice asupra peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        48.731896,
+                        40.578074
+                  ]
+            },
+            {
+                  "name": "Şamaxı Cümə Məscidi",
+                  "text": "Cea mai veche moschee din Azerbaidjan, construită inițial în anul 743 și cunoscută pentru arhitectura sa monumentală.",
+                  "category": "religious",
+                  "coords": [
+                        48.643815,
+                        40.626865
+                  ]
+            },
+            {
+                  "name": "Yeddi Kümbəz Məqbərəsi",
+                  "text": "Un complex de mausolee din secolul al XVIII-lea, unde este înmormântată familia hanilor din Shirvan.",
+                  "category": "landmark",
+                  "coords": [
+                        48.635689,
+                        40.620521
+                  ]
+            },
+            {
+                  "name": "Yaşıl Məscid",
+                  "text": "Un lăcaș de cult istoric, remarcat prin elementele sale decorative verzi care îi dau numele.",
+                  "category": "landmark",
+                  "coords": [
+                        48.6476,
+                        40.553465
+                  ]
+            },
+            {
+                  "name": "El Məscidi",
+                  "text": "O moschee tradițională care deservește populația locală din Șamahi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.621508,
+                        40.571923
+                  ]
+            },
+            {
+                  "name": "İmam Hüseyn Məscidi",
+                  "text": "Această moschee este dedicată Imamului Hussein și este un loc important pentru viața religioasă a comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        48.607083,
+                        40.592008
+                  ]
+            },
+            {
+                  "name": "Məscid",
+                  "text": "Un lăcaș de cult musulman simplu în inima orașului istoric Șamahi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.641659,
+                        40.609161
+                  ]
+            },
+            {
+                  "name": "İmamzadə Məscidi",
+                  "text": "Un complex istoric format din moschee și sanctuar, fiind o destinație importantă pentru pelerinii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        48.646033,
+                        40.628162
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sabir Ev Muzeyi",
+                  "text": "A house museum dedicated to the life and works of the famous satirical poet Mirza Alakbar Sabir.",
+                  "category": "museum",
+                  "coords": [
+                        48.641633,
+                        40.627957
+                  ]
+            },
+            {
+                  "name": "Musiqi məktəbi",
+                  "text": "An educational center in Shamakhi specialized in teaching traditional Azerbaijani music.",
+                  "category": "cultural",
+                  "coords": [
+                        48.703044,
+                        40.594851
+                  ]
+            },
+            {
+                  "name": "Şamaxı Yazı",
+                  "text": "A calligraphic stone monument representing the literary heritage of Shamakhi.",
+                  "category": "historical",
+                  "coords": [
+                        48.669776,
+                        40.610148
+                  ]
+            },
+            {
+                  "name": "Alaş Məbədi 17-ci əsr",
+                  "text": "The remains of a historical temple dating back to the 17th century in the Shamakhi region.",
+                  "category": "historical",
+                  "coords": [
+                        48.637451,
+                        40.606774
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi",
+                  "text": "A local cultural house used for theatrical performances and community events.",
+                  "category": "cultural",
+                  "coords": [
+                        48.64167,
+                        40.610786
+                  ]
+            },
+            {
+                  "name": "Şəhidlər Abidəsi",
+                  "text": "A monument in Shamakhi dedicated to the martyrs of the country.",
+                  "category": "historical",
+                  "coords": [
+                        48.657734,
+                        40.62173
+                  ]
+            },
+            {
+                  "name": "Abidə",
+                  "text": "A stone commemorative monument located in a central district of Shamakhi.",
+                  "category": "historical",
+                  "coords": [
+                        48.6535,
+                        40.623645
+                  ]
+            },
+            {
+                  "name": "Diyarşünaslıq muzeyi",
+                  "text": "A local history museum showcasing the regional history and ethnographic traditions of Shamakhi.",
+                  "category": "museum",
+                  "coords": [
+                        48.656114,
+                        40.622099
+                  ]
+            },
+            {
+                  "name": "İslam Təşkilatı",
+                  "text": "A center for Islamic culture and educational activities in the historic city.",
+                  "category": "cultural",
+                  "coords": [
+                        48.665795,
+                        40.614587
+                  ]
+            },
+            {
+                  "name": "Tarix Muzeyi",
+                  "text": "The regional museum displaying archaeological finds and historical artifacts from Shamakhi's past.",
+                  "category": "museum",
+                  "coords": [
+                        48.644258,
+                        40.609172
+                  ]
+            },
+            {
+                  "name": "Bayraq \\ Şəhriyar qəsəbəsi",
+                  "text": "A prominent national flag installation and site in the Shahriyar settlement.",
+                  "category": "landmark",
+                  "coords": [
+                        48.653802,
+                        40.608436
+                  ]
+            },
+            {
+                  "name": "Mirzənin ağacları",
+                  "text": "A scenic viewpoint shaded by ancient trees, offering wide views over the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        48.731896,
+                        40.578074
+                  ]
+            },
+            {
+                  "name": "Juma Masjid of Shamakhi",
+                  "text": "The oldest mosque in Azerbaijan, originally built in 743 and known for its monumental architecture.",
+                  "category": "religious",
+                  "coords": [
+                        48.643815,
+                        40.626865
+                  ]
+            },
+            {
+                  "name": "Yeddi Kümbəz Məqbərəsi",
+                  "text": "A complex of 18th-century mausoleums where the family of the Shirvan Khans is buried.",
+                  "category": "landmark",
+                  "coords": [
+                        48.635689,
+                        40.620521
+                  ]
+            },
+            {
+                  "name": "Yaşıl Məscid",
+                  "text": "A historic place of worship distinguished by its namesake green decorative elements.",
+                  "category": "landmark",
+                  "coords": [
+                        48.6476,
+                        40.553465
+                  ]
+            },
+            {
+                  "name": "El Məscidi",
+                  "text": "A traditional mosque serving the local population of Shamakhi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.621508,
+                        40.571923
+                  ]
+            },
+            {
+                  "name": "İmam Hüseyn Məscidi",
+                  "text": "This mosque is dedicated to Imam Hussein and is an important site for the community's religious life.",
+                  "category": "landmark",
+                  "coords": [
+                        48.607083,
+                        40.592008
+                  ]
+            },
+            {
+                  "name": "Məscid",
+                  "text": "A simple Muslim place of worship in the heart of the historic city of Shamakhi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.641659,
+                        40.609161
+                  ]
+            },
+            {
+                  "name": "İmamzadə Məscidi",
+                  "text": "A historical mosque and shrine complex, which is an important destination for local pilgrims.",
+                  "category": "landmark",
+                  "coords": [
+                        48.646033,
+                        40.628162
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "AZ-SMI",
     coords: [48.6406, 40.6272],
@@ -563,7 +7052,340 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
       fr: ["Construite à l'origine en 743 après J.-C., ce qui en fait la première mosquée d'Azerbaïdjan.", "Elle est considérée comme la deuxième plus ancienne mosquée du Caucase.", "La mosquée a été détruite et reconstruite plusieurs fois suite à des tremblements de terre.", "La structure actuelle est le résultat d'une reconstruction majeure entre 2009 et 2013.", "Elle servait de mosquée principale de l'État des Shirvanshah.", "Le plan est inspiré de la Grande Mosquée de Damas.", "Elle possède une grande coupole centrale et deux coupoles plus petites.", "La mosquée est un centre important de l'islam chiite dans le pays."],
     }, image: "/poi-images/juma-mosque-shamakhi-landmarks-v2.webp"},
   {
-    id: "baku-crystal-hall-landmarks-v2",
+    id: "baku-crystal-hall-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mənzərə nöqtəsi / Bayıl",
+                  "text": "Dieser Aussichtspunkt bietet einen weiten Blick über die Bucht von Baku und das Kaspische Meer.",
+                  "category": "natural",
+                  "coords": [
+                        49.831776,
+                        40.345071
+                  ]
+            },
+            {
+                  "name": "\"SURAXANI\" Ship Museum",
+                  "text": "Dieses Museum in der Nähe der Kristallhalle widmet sich der lokalen Kultur und Geschichte Bakus.",
+                  "category": "museum",
+                  "coords": [
+                        49.842003,
+                        40.337373
+                  ]
+            },
+            {
+                  "name": "3 saylı Musiqi Məktəbi",
+                  "text": "Dieses Kunstzentrum dient als Musikschule und Veranstaltungsort für lokale Talente in Baku.",
+                  "category": "cultural",
+                  "coords": [
+                        49.835267,
+                        40.347726
+                  ]
+            },
+            {
+                  "name": "Bayıl Dairəsi / Bulvar",
+                  "text": "Dieser Abschnitt der Küstenpromenade bietet weitläufige Spazierwege direkt am Kaspischen Meer.",
+                  "category": "landmark",
+                  "coords": [
+                        49.834167,
+                        40.338383
+                  ]
+            },
+            {
+                  "name": "Rəngkarlıq Muzeyi",
+                  "text": "Das Museum präsentiert eine bedeutende Sammlung aserbaidschanischer Malerei und moderner Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        49.838289,
+                        40.339588
+                  ]
+            },
+            {
+                  "name": "16 mərtəbə",
+                  "text": "Dieses markante Wohngebäude im Stadtteil Bayıl ist ein bekanntes lokales Orientierungspunkt.",
+                  "category": "landmark",
+                  "coords": [
+                        49.838968,
+                        40.342079
+                  ]
+            },
+            {
+                  "name": "Boyuk Zira",
+                  "text": "Dieser historische Leuchtturm befindet sich auf der Insel Nargin in der Bucht von Baku.",
+                  "category": "landmark",
+                  "coords": [
+                        49.922763,
+                        40.295695
+                  ]
+            },
+            {
+                  "name": "Avropa Oyunları Parkı",
+                  "text": "Der Park wurde für die ersten Europaspiele 2015 erbaut und umfasst moderne Sportanlagen.",
+                  "category": "landmark",
+                  "coords": [
+                        49.839424,
+                        40.333735
+                  ]
+            },
+            {
+                  "name": "Dövlət Bayrağı Meydanı",
+                  "text": "Dieser monumentale Platz am Meer beherbergte einst einen der höchsten Fahnenmasten der Welt.",
+                  "category": "historical",
+                  "coords": [
+                        49.84509,
+                        40.344415
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mənzərə nöqtəsi / Bayıl",
+                  "text": "Erről a kilátópontról széles panoráma nyílik a Bakui-öbölre és a Kaszpi-tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        49.831776,
+                        40.345071
+                  ]
+            },
+            {
+                  "name": "\"SURAXANI\" Ship Museum",
+                  "text": "A Kristálycsarnok közelében található múzeum Baku helyi kultúráját és történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        49.842003,
+                        40.337373
+                  ]
+            },
+            {
+                  "name": "3 saylı Musiqi Məktəbi",
+                  "text": "Ez a művészeti központ zeneiskolaként és helyi tehetségek fellépőhelyeként szolgál Bakuban.",
+                  "category": "cultural",
+                  "coords": [
+                        49.835267,
+                        40.347726
+                  ]
+            },
+            {
+                  "name": "Bayıl Dairəsi / Bulvar",
+                  "text": "A tengerparti sétány ezen szakasza tágas sétálóutakat kínál közvetlenül a Kaszpi-tenger partján.",
+                  "category": "landmark",
+                  "coords": [
+                        49.834167,
+                        40.338383
+                  ]
+            },
+            {
+                  "name": "Rəngkarlıq Muzeyi",
+                  "text": "A múzeum az azerbajdzsáni festészet és modern művészet jelentős gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        49.838289,
+                        40.339588
+                  ]
+            },
+            {
+                  "name": "16 mərtəbə",
+                  "text": "Ez a jellegzetes lakóépület Bayıl negyedében a helyiek körében ismert tájékozódási pont.",
+                  "category": "landmark",
+                  "coords": [
+                        49.838968,
+                        40.342079
+                  ]
+            },
+            {
+                  "name": "Boyuk Zira",
+                  "text": "Ez a történelmi világítótorony a Bakui-öbölben található Nargin-szigeten áll.",
+                  "category": "landmark",
+                  "coords": [
+                        49.922763,
+                        40.295695
+                  ]
+            },
+            {
+                  "name": "Avropa Oyunları Parkı",
+                  "text": "A park a 2015-ös első Európa Játékokra épült, és modern sportlétesítményeknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        49.839424,
+                        40.333735
+                  ]
+            },
+            {
+                  "name": "Dövlət Bayrağı Meydanı",
+                  "text": "Ez a monumentális tengerparti tér egykor a világ egyik legmagasabb zászlórúdjának adott otthont.",
+                  "category": "historical",
+                  "coords": [
+                        49.84509,
+                        40.344415
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mənzərə nöqtəsi / Bayıl",
+                  "text": "Acest punct de observare oferă o vedere panoramică asupra golfului Baku și a Mării Caspice.",
+                  "category": "natural",
+                  "coords": [
+                        49.831776,
+                        40.345071
+                  ]
+            },
+            {
+                  "name": "\"SURAXANI\" Ship Museum",
+                  "text": "Acest muzeu situat lângă Crystal Hall este dedicat culturii și istoriei locale din Baku.",
+                  "category": "museum",
+                  "coords": [
+                        49.842003,
+                        40.337373
+                  ]
+            },
+            {
+                  "name": "3 saylı Musiqi Məktəbi",
+                  "text": "Acest centru de artă servește ca școală de muzică și loc de desfășurare pentru talentele locale din Baku.",
+                  "category": "cultural",
+                  "coords": [
+                        49.835267,
+                        40.347726
+                  ]
+            },
+            {
+                  "name": "Bayıl Dairəsi / Bulvar",
+                  "text": "Această secțiune a falezei oferă alei largi de plimbare chiar pe malul Mării Caspice.",
+                  "category": "landmark",
+                  "coords": [
+                        49.834167,
+                        40.338383
+                  ]
+            },
+            {
+                  "name": "Rəngkarlıq Muzeyi",
+                  "text": "Muzeul prezintă o colecție importantă de pictură azerbaidjană și artă modernă.",
+                  "category": "museum",
+                  "coords": [
+                        49.838289,
+                        40.339588
+                  ]
+            },
+            {
+                  "name": "16 mərtəbə",
+                  "text": "Această clădire rezidențială distinctivă din cartierul Bayıl este un punct de reper local cunoscut.",
+                  "category": "landmark",
+                  "coords": [
+                        49.838968,
+                        40.342079
+                  ]
+            },
+            {
+                  "name": "Boyuk Zira",
+                  "text": "Acest far istoric este situat pe insula Nargin din golful Baku.",
+                  "category": "landmark",
+                  "coords": [
+                        49.922763,
+                        40.295695
+                  ]
+            },
+            {
+                  "name": "Avropa Oyunları Parkı",
+                  "text": "Parcul a fost construit pentru primele Jocuri Europene din 2015 și cuprinde facilități sportive moderne.",
+                  "category": "landmark",
+                  "coords": [
+                        49.839424,
+                        40.333735
+                  ]
+            },
+            {
+                  "name": "Dövlət Bayrağı Meydanı",
+                  "text": "Această piață monumentală de la malul mării a găzduit cândva unul dintre cei mai înalți stâlpi de steag din lume.",
+                  "category": "historical",
+                  "coords": [
+                        49.84509,
+                        40.344415
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mənzərə nöqtəsi / Bayıl",
+                  "text": "This viewpoint offers a wide panorama over the Baku Bay and the Caspian Sea.",
+                  "category": "natural",
+                  "coords": [
+                        49.831776,
+                        40.345071
+                  ]
+            },
+            {
+                  "name": "ilik Muzeyi",
+                  "text": "This museum near the Crystal Hall is dedicated to the local culture and history of Baku.",
+                  "category": "museum",
+                  "coords": [
+                        49.842003,
+                        40.337373
+                  ]
+            },
+            {
+                  "name": "3 saylı Musiqi Məktəbi",
+                  "text": "This arts centre serves as a music school and venue for local talents in Baku.",
+                  "category": "cultural",
+                  "coords": [
+                        49.835267,
+                        40.347726
+                  ]
+            },
+            {
+                  "name": "Bayıl Dairəsi / Bulvar",
+                  "text": "This section of the seaside promenade offers spacious walking paths right on the Caspian Sea.",
+                  "category": "landmark",
+                  "coords": [
+                        49.834167,
+                        40.338383
+                  ]
+            },
+            {
+                  "name": "Rəngkarlıq Muzeyi",
+                  "text": "The museum showcases a significant collection of Azerbaijani painting and modern art.",
+                  "category": "museum",
+                  "coords": [
+                        49.838289,
+                        40.339588
+                  ]
+            },
+            {
+                  "name": "16 mərtəbə",
+                  "text": "This distinctive residential building in the Bayıl district is a well-known local landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        49.838968,
+                        40.342079
+                  ]
+            },
+            {
+                  "name": "Boyuk Zira",
+                  "text": "This historic lighthouse is located on the Nargin Island in the Baku Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        49.922763,
+                        40.295695
+                  ]
+            },
+            {
+                  "name": "Avropa Oyunları Parkı",
+                  "text": "The park was built for the inaugural 2015 European Games and features modern sports facilities.",
+                  "category": "landmark",
+                  "coords": [
+                        49.839424,
+                        40.333735
+                  ]
+            },
+            {
+                  "name": "National Flag Square",
+                  "text": "This monumental seaside square once hosted one of the tallest flagpoles in the world.",
+                  "category": "historical",
+                  "coords": [
+                        49.84509,
+                        40.344415
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AZ-BA",
     coords: [49.8450, 40.3444],
@@ -598,7 +7420,196 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
       fr: ["Construit spécialement pour le Concours Eurovision de la chanson 2012.", "L'arène a une capacité allant jusqu'à 25 000 personnes.", "La construction a été achevée en seulement huit mois.", "La façade est éclairée par des milliers de panneaux LED.", "La surface totale du complexe dépasse les 30 000 mètres carrés.", "Il a accueilli des concerts d'artistes tels que Jennifer Lopez, Shakira et Rihanna.", "Il sert également de lieu pour de grands événements sportifs comme le volley-ball et la boxe.", "Le cabinet d'architecture derrière le projet était GMP Architekten, d'Allemagne."],
     }, image: "/poi-images/baku-crystal-hall-landmarks-v2.webp"},
   {
-    id: "azerbaijan-carpet-museum-landmarks-v2",
+    id: "azerbaijan-carpet-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Azneft Meydanı",
+                  "text": "Dieser zentrale Platz ist ein wichtiger Verkehrsknotenpunkt mit einem dekorativen Springbrunnen in Baku.",
+                  "category": "landmark",
+                  "coords": [
+                        49.835481,
+                        40.362545
+                  ]
+            },
+            {
+                  "name": "Bayıl Qəsri (XIII əsr)",
+                  "text": "Diese Ruinen einer Burg aus dem 13. Jahrhundert liegen teilweise unter dem Meeresspiegel in der Bucht.",
+                  "category": "historical",
+                  "coords": [
+                        49.840829,
+                        40.353302
+                  ]
+            },
+            {
+                  "name": "Bəhram Gur",
+                  "text": "Das Denkmal zeigt den legendären Helden Behram Gur beim Kampf mit einem Drachen.",
+                  "category": "historical",
+                  "coords": [
+                        49.833662,
+                        40.360437
+                  ]
+            },
+            {
+                  "name": "Azərbaycan Xalçası Muzeyi",
+                  "text": "Das Museum beherbergt eine riesige Teppichsammlung in einem Gebäude, das wie ein Teppich gerollt ist.",
+                  "category": "museum",
+                  "coords": [
+                        49.835551,
+                        40.359841
+                  ]
+            },
+            {
+                  "name": "Beynəlxalq Muğam Mərkəzi",
+                  "text": "Das moderne Gebäude ist der traditionellen aserbaidschanischen Mugham-Musik gewidmet.",
+                  "category": "cultural",
+                  "coords": [
+                        49.834909,
+                        40.360843
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Azneft Meydanı",
+                  "text": "Ez a központi tér Baku egyik fontos közlekedési csomópontja díszes szökőkúttal.",
+                  "category": "landmark",
+                  "coords": [
+                        49.835481,
+                        40.362545
+                  ]
+            },
+            {
+                  "name": "Bayıl Qəsri (XIII əsr)",
+                  "text": "Egy 13. századi vár romjai, amelyek részben a tenger felszíne alatt találhatók az öbölben.",
+                  "category": "historical",
+                  "coords": [
+                        49.840829,
+                        40.353302
+                  ]
+            },
+            {
+                  "name": "Bəhram Gur",
+                  "text": "Az emlékmű a legendás hőst, Bəhram Gurt ábrázolja, amint egy sárkánnyal küzd.",
+                  "category": "historical",
+                  "coords": [
+                        49.833662,
+                        40.360437
+                  ]
+            },
+            {
+                  "name": "Azərbaycan Xalçası Muzeyi",
+                  "text": "A múzeum hatalmas szőnyeggyűjteménynek ad otthont egy feltekert szőnyeget formázó épületben.",
+                  "category": "museum",
+                  "coords": [
+                        49.835551,
+                        40.359841
+                  ]
+            },
+            {
+                  "name": "Beynəlxalq Muğam Mərkəzi",
+                  "text": "A modern épület a hagyományos azerbajdzsáni mugham zenének van szentelve.",
+                  "category": "cultural",
+                  "coords": [
+                        49.834909,
+                        40.360843
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Azneft Meydanı",
+                  "text": "Această piață centrală este un nod de trafic important din Baku, având o fântână decorativă.",
+                  "category": "landmark",
+                  "coords": [
+                        49.835481,
+                        40.362545
+                  ]
+            },
+            {
+                  "name": "Bayıl Qəsri (XIII əsr)",
+                  "text": "Aceste ruine ale unui castel din secolul al XIII-lea se află parțial sub nivelul mării în golf.",
+                  "category": "historical",
+                  "coords": [
+                        49.840829,
+                        40.353302
+                  ]
+            },
+            {
+                  "name": "Bəhram Gur",
+                  "text": "Monumentul îl înfățișează pe eroul legendar Behram Gur luptându-se cu un balaur.",
+                  "category": "historical",
+                  "coords": [
+                        49.833662,
+                        40.360437
+                  ]
+            },
+            {
+                  "name": "Azərbaycan Xalçası Muzeyi",
+                  "text": "Muzeul găzduiește o colecție vastă de covoare într-o clădire în formă de covor rulat.",
+                  "category": "museum",
+                  "coords": [
+                        49.835551,
+                        40.359841
+                  ]
+            },
+            {
+                  "name": "Beynəlxalq Muğam Mərkəzi",
+                  "text": "Clădirea modernă este dedicată muzicii tradiționale azerbaidjane Mugham.",
+                  "category": "cultural",
+                  "coords": [
+                        49.834909,
+                        40.360843
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Azneft Square",
+                  "text": "This central square is a major traffic hub in Baku featuring a decorative fountain.",
+                  "category": "landmark",
+                  "coords": [
+                        49.835481,
+                        40.362545
+                  ]
+            },
+            {
+                  "name": "Bayıl Qəsri (XIII əsr)",
+                  "text": "These ruins of a 13th-century castle lie partially submerged beneath the sea in the bay.",
+                  "category": "historical",
+                  "coords": [
+                        49.840829,
+                        40.353302
+                  ]
+            },
+            {
+                  "name": "Behram Gur",
+                  "text": "The monument depicts the legendary hero Behram Gur fighting a dragon.",
+                  "category": "historical",
+                  "coords": [
+                        49.833662,
+                        40.360437
+                  ]
+            },
+            {
+                  "name": "Azerbaijan Carpet Museum",
+                  "text": "The museum houses a vast carpet collection in a building shaped like a rolled-up rug.",
+                  "category": "museum",
+                  "coords": [
+                        49.835551,
+                        40.359841
+                  ]
+            },
+            {
+                  "name": "International Mugham Center of Azerbaijan",
+                  "text": "The modern building is dedicated to the traditional Azerbaijani Mugham music.",
+                  "category": "cultural",
+                  "coords": [
+                        49.834909,
+                        40.360843
+                  ]
+            }
+      ]
+},
     type: "icon",
     parent: "AZ-BA",
     coords: [49.8364, 40.3594],
@@ -633,7 +7644,1132 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
       fr: ["Le bâtiment du musée est célèbre pour sa forme de tapis roulé.", "Il abrite la plus grande collection de tapis azerbaïdjanais au monde.", "Le nouveau bâtiment a été conçu par l'architecte autrichien Franz Janz et inauguré en 2014.", "L'art du tissage de tapis azerbaïdjanais a été inscrit sur la liste du patrimoine culturel immatériel de l'UNESCO en 2010.", "La collection comprend plus de 10 000 objets, dont des céramiques, des ouvrages en métal et des bijoux.", "Le musée a été fondé à l'origine en 1967.", "Il présente différentes écoles régionales de tissage de tapis.", "Les pièces exposées vont de l'âge du bronze à l'époque moderne."],
     }, image: "/poi-images/azerbaijan-carpet-museum-landmarks-v2.webp"},
   {
-    id: "shaki-caravanserai-landmarks-v2",
+    id: "shaki-caravanserai-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Şəki Tarix-Diyarşünaslıq Muzeyi",
+                  "text": "Ein Museum in Scheki, das die Geschichte und Kultur der Region präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        47.195733,
+                        41.203721
+                  ]
+            },
+            {
+                  "name": "Mirzə Fətəli Axundovun Ev Muzeyi",
+                  "text": "Das Hausmuseum des Schriftstellers Mirza Fatali Achundow in Scheki.",
+                  "category": "museum",
+                  "coords": [
+                        47.199146,
+                        41.202238
+                  ]
+            },
+            {
+                  "name": "İmam Əli məscidi",
+                  "text": "Die Imam-Ali-Moschee ist eine historische Gebetsstätte in Scheki.",
+                  "category": "religious",
+                  "coords": [
+                        47.193962,
+                        41.201559
+                  ]
+            },
+            {
+                  "name": "Şəki Cümə Məscidi",
+                  "text": "Die Freitagsmoschee (Dschuma-Moschee) ist ein bedeutendes religiöses Denkmal in Scheki.",
+                  "category": "religious",
+                  "coords": [
+                        47.181262,
+                        41.202507
+                  ]
+            },
+            {
+                  "name": "Aşağı Karvansaray",
+                  "text": "Die untere Karawanserei ist ein historisches Gebäude für Reisende in Scheki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.191754,
+                        41.200653
+                  ]
+            },
+            {
+                  "name": "Şəki Xan Sarayı",
+                  "text": "Der Palast von Scheki Chan ist eine prachtvolle ehemalige Residenz mit berühmten Wandmalereien.",
+                  "category": "landmark",
+                  "coords": [
+                        47.197592,
+                        41.204415
+                  ]
+            },
+            {
+                  "name": "Şəkixanovlar Ev Muzeyi",
+                  "text": "Der Shakikhanov-Palast ist ein historisches Herrenhaus und ein Beispiel für die Architektur von Scheki.",
+                  "category": "castle",
+                  "coords": [
+                        47.190309,
+                        41.202646
+                  ]
+            },
+            {
+                  "name": "Ömər Əfəndi məscidi",
+                  "text": "Die Omar-Efendi-Moschee ist ein elegantes religiöses Bauwerk aus dem 19. Jahrhundert in Scheki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.187766,
+                        41.200477
+                  ]
+            },
+            {
+                  "name": "Üç Müqəddəs Kilsəs",
+                  "text": "Eine ehemalige Rundkirche innerhalb der Festung von Scheki, die heute ein Denkmal ist.",
+                  "category": "landmark",
+                  "coords": [
+                        47.196847,
+                        41.203402
+                  ]
+            },
+            {
+                  "name": "Bio Garden",
+                  "text": "Der Bio Garden in Scheki ist ein privater Garten und Museum für Naturfreunde.",
+                  "category": "museum",
+                  "coords": [
+                        47.196106,
+                        41.138861
+                  ]
+            },
+            {
+                  "name": "Əfəndiyevin Ev Muzei",
+                  "text": "Das Efendiev-Hausmuseum in Scheki ist der lokalen Geschichte gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        47.192092,
+                        41.19927
+                  ]
+            },
+            {
+                  "name": "Sabit Rəhmanın Ev Muzei",
+                  "text": "Das Hausmuseum des Schriftstellers Sabit Rahman in Scheki.",
+                  "category": "museum",
+                  "coords": [
+                        47.188987,
+                        41.201615
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev mərkəzi \\ Şəki",
+                  "text": "Das Heydar-Aliyev-Zentrum in Scheki ist eine kulturelle Einrichtung und ein Museum.",
+                  "category": "museum",
+                  "coords": [
+                        47.161809,
+                        41.162354
+                  ]
+            },
+            {
+                  "name": "Qışlaq hamamı 19-cu əsr",
+                  "text": "Ein historisches Badehaus (Hamam) aus dem 19. Jahrhundert in Scheki.",
+                  "category": "historical",
+                  "coords": [
+                        47.171203,
+                        41.187288
+                  ]
+            },
+            {
+                  "name": "2-ci fabrikin binası 19-cu əsr",
+                  "text": "Ein historisches Herrenhaus aus dem 19. Jahrhundert in Shaki.",
+                  "category": "historical",
+                  "coords": [
+                        47.172758,
+                        41.189781
+                  ]
+            },
+            {
+                  "name": "1941-1945 Abidə",
+                  "text": "Ein Denkmal für den Krieg von 1941-1945 mit Panoramablick über Shaki.",
+                  "category": "historical",
+                  "coords": [
+                        47.185713,
+                        41.198334
+                  ]
+            },
+            {
+                  "name": "Axundov heykəli",
+                  "text": "Ein Denkmal zu Ehren von Mirza Fatali Achundow in Shaki.",
+                  "category": "historical",
+                  "coords": [
+                        47.178332,
+                        41.20357
+                  ]
+            },
+            {
+                  "name": "Dağ Karvansara",
+                  "text": "Ein historisches Karawanserei-Gebäude in Shaki.",
+                  "category": "historical",
+                  "coords": [
+                        47.135717,
+                        41.212318
+                  ]
+            },
+            {
+                  "name": "ŞƏKİ",
+                  "text": "Ein monumentales Wahrzeichen in der Stadt Shaki.",
+                  "category": "historical",
+                  "coords": [
+                        47.19824,
+                        41.152959
+                  ]
+            },
+            {
+                  "name": "Şəki Dram Teatrı",
+                  "text": "Das nach Sabit Rahman benannte Drama-Theater in Shaki.",
+                  "category": "cultural",
+                  "coords": [
+                        47.175859,
+                        41.198829
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi",
+                  "text": "Ein Kulturhaus und Theater für Aufführungen in Shaki.",
+                  "category": "cultural",
+                  "coords": [
+                        47.130712,
+                        41.194954
+                  ]
+            },
+            {
+                  "name": "3 saylı Musiqi məktəbi",
+                  "text": "Eine spezialisierte Musikschule und ein Kunstzentrum in Shaki.",
+                  "category": "cultural",
+                  "coords": [
+                        47.163538,
+                        41.194588
+                  ]
+            },
+            {
+                  "name": "Taza Bazar",
+                  "text": "Ein lebhafter lokaler Markt für traditionelle Waren in Shaki.",
+                  "category": "cultural",
+                  "coords": [
+                        47.166324,
+                        41.200846
+                  ]
+            },
+            {
+                  "name": "Simsim Bazarı",
+                  "text": "Ein traditioneller Marktplatz für lokale Erzeugnisse in Shaki.",
+                  "category": "cultural",
+                  "coords": [
+                        47.162569,
+                        41.200017
+                  ]
+            },
+            {
+                  "name": "At kirayə",
+                  "text": "Ein Reitverleih für Freizeitaktivitäten in Shaki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.191152,
+                        41.195727
+                  ]
+            },
+            {
+                  "name": "Albanlar hamamı 19-cu əsr",
+                  "text": "Ein historisches Bad aus dem 19. Jahrhundert in Shaki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.189517,
+                        41.20049
+                  ]
+            },
+            {
+                  "name": "Karusel",
+                  "text": "Eine beliebte Karussell-Attraktion für Besucher in Shaki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.158018,
+                        41.163106
+                  ]
+            },
+            {
+                  "name": "Alban kilsəsi Calğalı bulaq",
+                  "text": "Eine albanische Kirche aus dem 19. Jahrhundert in Shaki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.174493,
+                        41.202176
+                  ]
+            },
+            {
+                  "name": "Şəki Körpü dairəsi",
+                  "text": "Ein lokaler Orientierungspunkt am Brückenkreis in Shaki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.166362,
+                        41.206924
+                  ]
+            },
+            {
+                  "name": "Dörd Yol Dairəsi",
+                  "text": "Ein zentraler Treffpunkt und Wahrzeichen in Shaki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.163584,
+                        41.16113
+                  ]
+            },
+            {
+                  "name": "Sarıtorpaq məscidi 19-cu əsr",
+                  "text": "Eine Moschee aus dem 19. Jahrhundert im Viertel Sarıtorpaq in Shaki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.187763,
+                        41.2039
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Şəki Tarix-Diyarşünaslıq Muzeyi",
+                  "text": "Múzeum Sekiben, amely a régió történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        47.195733,
+                        41.203721
+                  ]
+            },
+            {
+                  "name": "Mirzə Fətəli Axundovun Ev Muzeyi",
+                  "text": "Mirza Fatali Ahundov író emlékmúzeuma Seki városában.",
+                  "category": "museum",
+                  "coords": [
+                        47.199146,
+                        41.202238
+                  ]
+            },
+            {
+                  "name": "İmam Əli məscidi",
+                  "text": "Az Imam Ali mecset egy történelmi imaház Seki városában.",
+                  "category": "religious",
+                  "coords": [
+                        47.193962,
+                        41.201559
+                  ]
+            },
+            {
+                  "name": "Şəki Cümə Məscidi",
+                  "text": "A Péntek-mecset (Juma Masjid) Seki egyik jelentős vallási műemléke.",
+                  "category": "religious",
+                  "coords": [
+                        47.181262,
+                        41.202507
+                  ]
+            },
+            {
+                  "name": "Aşağı Karvansaray",
+                  "text": "Az Alsó-karavánszeráj egy történelmi szálláshely utazók számára Sekiben.",
+                  "category": "landmark",
+                  "coords": [
+                        47.191754,
+                        41.200653
+                  ]
+            },
+            {
+                  "name": "Şəki Xan Sarayı",
+                  "text": "A Seki kánok palotája egy pompás egykori rezidencia híres falfestményekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        47.197592,
+                        41.204415
+                  ]
+            },
+            {
+                  "name": "Şəkixanovlar Ev Muzeyi",
+                  "text": "A Shakikhanov-palota egy történelmi udvarház és a seki építészet kiváló példája.",
+                  "category": "castle",
+                  "coords": [
+                        47.190309,
+                        41.202646
+                  ]
+            },
+            {
+                  "name": "Ömər Əfəndi məscidi",
+                  "text": "Az Omar Efendi mecset egy elegáns, 19. századi vallási épület Sekiben.",
+                  "category": "landmark",
+                  "coords": [
+                        47.187766,
+                        41.200477
+                  ]
+            },
+            {
+                  "name": "Üç Müqəddəs Kilsəs",
+                  "text": "Egy kör alaprajzú egykori templom a seki erődben, amely ma műemlék.",
+                  "category": "landmark",
+                  "coords": [
+                        47.196847,
+                        41.203402
+                  ]
+            },
+            {
+                  "name": "Bio Garden",
+                  "text": "A seki Bio Garden egy magánkert és múzeum a természet kedvelőinek.",
+                  "category": "museum",
+                  "coords": [
+                        47.196106,
+                        41.138861
+                  ]
+            },
+            {
+                  "name": "Əfəndiyevin Ev Muzei",
+                  "text": "Az Efendiev emlékmúzeum Sekiben a helyi történelemnek van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        47.192092,
+                        41.19927
+                  ]
+            },
+            {
+                  "name": "Sabit Rəhmanın Ev Muzei",
+                  "text": "Sabit Rahman író emlékmúzeuma Seki városában.",
+                  "category": "museum",
+                  "coords": [
+                        47.188987,
+                        41.201615
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev mərkəzi \\ Şəki",
+                  "text": "A seki Heydar Aliyev Központ egy kulturális intézmény és múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        47.161809,
+                        41.162354
+                  ]
+            },
+            {
+                  "name": "Qışlaq hamamı 19-cu əsr",
+                  "text": "Egy történelmi fürdőház (hamam) a 19. századból Seki városában.",
+                  "category": "historical",
+                  "coords": [
+                        47.171203,
+                        41.187288
+                  ]
+            },
+            {
+                  "name": "2-ci fabrikin binası 19-cu əsr",
+                  "text": "Egy 19. századi történelmi udvarház Shaki városában.",
+                  "category": "historical",
+                  "coords": [
+                        47.172758,
+                        41.189781
+                  ]
+            },
+            {
+                  "name": "1941-1945 Abidə",
+                  "text": "Az 1941-1945-ös háború emlékműve, ahonnan panorámás kilátás nyílik Shaki városára.",
+                  "category": "historical",
+                  "coords": [
+                        47.185713,
+                        41.198334
+                  ]
+            },
+            {
+                  "name": "Axundov heykəli",
+                  "text": "Mirza Fatali Ahundov tiszteletére emelt emlékmű Shaki városában.",
+                  "category": "historical",
+                  "coords": [
+                        47.178332,
+                        41.20357
+                  ]
+            },
+            {
+                  "name": "Dağ Karvansara",
+                  "text": "Egy történelmi karavánszeráj épülete Shaki városában.",
+                  "category": "historical",
+                  "coords": [
+                        47.135717,
+                        41.212318
+                  ]
+            },
+            {
+                  "name": "ŞƏKİ",
+                  "text": "Egy monumentális jelkép Shaki városában.",
+                  "category": "historical",
+                  "coords": [
+                        47.19824,
+                        41.152959
+                  ]
+            },
+            {
+                  "name": "Şəki Dram Teatrı",
+                  "text": "A Sabit Rahmanról elnevezett drámai színház Shaki városában.",
+                  "category": "cultural",
+                  "coords": [
+                        47.175859,
+                        41.198829
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi",
+                  "text": "Kulturális központ és színház Shaki városában.",
+                  "category": "cultural",
+                  "coords": [
+                        47.130712,
+                        41.194954
+                  ]
+            },
+            {
+                  "name": "3 saylı Musiqi məktəbi",
+                  "text": "Speciális zeneiskola és művészeti központ Shaki városában.",
+                  "category": "cultural",
+                  "coords": [
+                        47.163538,
+                        41.194588
+                  ]
+            },
+            {
+                  "name": "Taza Bazar",
+                  "text": "Nyüzsgő helyi piac hagyományos árukkal Shaki városában.",
+                  "category": "cultural",
+                  "coords": [
+                        47.166324,
+                        41.200846
+                  ]
+            },
+            {
+                  "name": "Simsim Bazarı",
+                  "text": "Hagyományos piactér helyi termékekkel Shaki városában.",
+                  "category": "cultural",
+                  "coords": [
+                        47.162569,
+                        41.200017
+                  ]
+            },
+            {
+                  "name": "At kirayə",
+                  "text": "Lókölcsönző szabadidős tevékenységekhez Shaki városában.",
+                  "category": "landmark",
+                  "coords": [
+                        47.191152,
+                        41.195727
+                  ]
+            },
+            {
+                  "name": "Albanlar hamamı 19-cu əsr",
+                  "text": "Egy 19. századi történelmi fürdő Shaki városában.",
+                  "category": "landmark",
+                  "coords": [
+                        47.189517,
+                        41.20049
+                  ]
+            },
+            {
+                  "name": "Karusel",
+                  "text": "Népszerű körhinta attrakció a látogatóknak Shaki városában.",
+                  "category": "landmark",
+                  "coords": [
+                        47.158018,
+                        41.163106
+                  ]
+            },
+            {
+                  "name": "Alban kilsəsi Calğalı bulaq",
+                  "text": "Egy 19. századi albán templom Shaki városában.",
+                  "category": "landmark",
+                  "coords": [
+                        47.174493,
+                        41.202176
+                  ]
+            },
+            {
+                  "name": "Şəki Körpü dairəsi",
+                  "text": "Helyi nevezetesség a híd körforgalmánál Shaki városában.",
+                  "category": "landmark",
+                  "coords": [
+                        47.166362,
+                        41.206924
+                  ]
+            },
+            {
+                  "name": "Dörd Yol Dairəsi",
+                  "text": "Központi találkozóhely és tájékozódási pont Shaki városában.",
+                  "category": "landmark",
+                  "coords": [
+                        47.163584,
+                        41.16113
+                  ]
+            },
+            {
+                  "name": "Sarıtorpaq məscidi 19-cu əsr",
+                  "text": "Egy 19. századi mecset Shaki Sarıtorpaq negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        47.187763,
+                        41.2039
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Şəki Tarix-Diyarşünaslıq Muzeyi",
+                  "text": "Un muzeu din Shaki care prezintă istoria și cultura regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        47.195733,
+                        41.203721
+                  ]
+            },
+            {
+                  "name": "Mirzə Fətəli Axundovun Ev Muzeyi",
+                  "text": "Muzeul memorial al scriitorului Mirza Fatali Akhundov din Shaki.",
+                  "category": "museum",
+                  "coords": [
+                        47.199146,
+                        41.202238
+                  ]
+            },
+            {
+                  "name": "İmam Əli məscidi",
+                  "text": "Moscheea Imam Ali este un lăcaș de cult istoric din Shaki.",
+                  "category": "religious",
+                  "coords": [
+                        47.193962,
+                        41.201559
+                  ]
+            },
+            {
+                  "name": "Şəki Cümə Məscidi",
+                  "text": "Moscheea Juma este un monument religios important din Shaki.",
+                  "category": "religious",
+                  "coords": [
+                        47.181262,
+                        41.202507
+                  ]
+            },
+            {
+                  "name": "Aşağı Karvansaray",
+                  "text": "Caravanseraiul de Jos este un edificiu istoric pentru călători în Shaki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.191754,
+                        41.200653
+                  ]
+            },
+            {
+                  "name": "Şəki Xan Sarayı",
+                  "text": "Palatul Hanilor din Shaki este o fostă reședință magnifică, renumită pentru picturile murale.",
+                  "category": "landmark",
+                  "coords": [
+                        47.197592,
+                        41.204415
+                  ]
+            },
+            {
+                  "name": "Şəkixanovlar Ev Muzeyi",
+                  "text": "Palatul Shakikhanov este un conac istoric și un exemplu al arhitecturii din Shaki.",
+                  "category": "castle",
+                  "coords": [
+                        47.190309,
+                        41.202646
+                  ]
+            },
+            {
+                  "name": "Ömər Əfəndi məscidi",
+                  "text": "Moscheea Omar Efendi este un edificiu religios elegant din secolul al XIX-lea în Shaki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.187766,
+                        41.200477
+                  ]
+            },
+            {
+                  "name": "Üç Müqəddəs Kilsəs",
+                  "text": "O fostă biserică circulară în incinta cetății Shaki, astăzi monument.",
+                  "category": "landmark",
+                  "coords": [
+                        47.196847,
+                        41.203402
+                  ]
+            },
+            {
+                  "name": "Bio Garden",
+                  "text": "Bio Garden din Shaki este o grădină privată și muzeu pentru iubitorii de natură.",
+                  "category": "museum",
+                  "coords": [
+                        47.196106,
+                        41.138861
+                  ]
+            },
+            {
+                  "name": "Əfəndiyevin Ev Muzei",
+                  "text": "Muzeul memorial Efendiev din Shaki este dedicat istoriei locale.",
+                  "category": "museum",
+                  "coords": [
+                        47.192092,
+                        41.19927
+                  ]
+            },
+            {
+                  "name": "Sabit Rəhmanın Ev Muzei",
+                  "text": "Muzeul memorial al scriitorului Sabit Rahman din Shaki.",
+                  "category": "museum",
+                  "coords": [
+                        47.188987,
+                        41.201615
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev mərkəzi \\ Şəki",
+                  "text": "Centrul Heydar Aliyev din Shaki este o instituție culturală și muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        47.161809,
+                        41.162354
+                  ]
+            },
+            {
+                  "name": "Qışlaq hamamı 19-cu əsr",
+                  "text": "O baie istorică (hamam) din secolul al XIX-lea în Shaki.",
+                  "category": "historical",
+                  "coords": [
+                        47.171203,
+                        41.187288
+                  ]
+            },
+            {
+                  "name": "2-ci fabrikin binası 19-cu əsr",
+                  "text": "Un conac istoric din secolul al XIX-lea în Shaki.",
+                  "category": "historical",
+                  "coords": [
+                        47.172758,
+                        41.189781
+                  ]
+            },
+            {
+                  "name": "1941-1945 Abidə",
+                  "text": "Un monument dedicat războiului din 1941-1945, oferind o panoramă a orașului Shaki.",
+                  "category": "historical",
+                  "coords": [
+                        47.185713,
+                        41.198334
+                  ]
+            },
+            {
+                  "name": "Axundov heykəli",
+                  "text": "Un monument dedicat lui Mirza Fatali Akhundov în Shaki.",
+                  "category": "historical",
+                  "coords": [
+                        47.178332,
+                        41.20357
+                  ]
+            },
+            {
+                  "name": "Dağ Karvansara",
+                  "text": "O clădire istorică de tip caravanserai în Shaki.",
+                  "category": "historical",
+                  "coords": [
+                        47.135717,
+                        41.212318
+                  ]
+            },
+            {
+                  "name": "ŞƏKİ",
+                  "text": "Un monument simbolic situat în orașul Shaki.",
+                  "category": "historical",
+                  "coords": [
+                        47.19824,
+                        41.152959
+                  ]
+            },
+            {
+                  "name": "Şəki Dram Teatrı",
+                  "text": "Teatrul dramatic din Shaki, numit după Sabit Rahman.",
+                  "category": "cultural",
+                  "coords": [
+                        47.175859,
+                        41.198829
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi",
+                  "text": "O casă de cultură și teatru pentru spectacole în Shaki.",
+                  "category": "cultural",
+                  "coords": [
+                        47.130712,
+                        41.194954
+                  ]
+            },
+            {
+                  "name": "3 saylı Musiqi məktəbi",
+                  "text": "O școală specializată de muzică și centru de artă în Shaki.",
+                  "category": "cultural",
+                  "coords": [
+                        47.163538,
+                        41.194588
+                  ]
+            },
+            {
+                  "name": "Taza Bazar",
+                  "text": "O piață locală plină de viață cu produse tradiționale în Shaki.",
+                  "category": "cultural",
+                  "coords": [
+                        47.166324,
+                        41.200846
+                  ]
+            },
+            {
+                  "name": "Simsim Bazarı",
+                  "text": "O piață tradițională pentru produse locale în Shaki.",
+                  "category": "cultural",
+                  "coords": [
+                        47.162569,
+                        41.200017
+                  ]
+            },
+            {
+                  "name": "At kirayə",
+                  "text": "Un centru de închirieri cai pentru activități de agrement în Shaki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.191152,
+                        41.195727
+                  ]
+            },
+            {
+                  "name": "Albanlar hamamı 19-cu əsr",
+                  "text": "O baie istorică din secolul al XIX-lea în Shaki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.189517,
+                        41.20049
+                  ]
+            },
+            {
+                  "name": "Karusel",
+                  "text": "O atracție populară de tip carusel pentru vizitatori în Shaki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.158018,
+                        41.163106
+                  ]
+            },
+            {
+                  "name": "Alban kilsəsi Calğalı bulaq",
+                  "text": "O biserică albaneză din secolul al XIX-lea în Shaki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.174493,
+                        41.202176
+                  ]
+            },
+            {
+                  "name": "Şəki Körpü dairəsi",
+                  "text": "Un punct de reper local la sensul giratoriu al podului din Shaki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.166362,
+                        41.206924
+                  ]
+            },
+            {
+                  "name": "Dörd Yol Dairəsi",
+                  "text": "Un punct de întâlnire central și reper în Shaki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.163584,
+                        41.16113
+                  ]
+            },
+            {
+                  "name": "Sarıtorpaq məscidi 19-cu əsr",
+                  "text": "O moschee din secolul al XIX-lea în cartierul Sarıtorpaq din Shaki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.187763,
+                        41.2039
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shaki Museum of History and Local Lore",
+                  "text": "A museum in Shaki showcasing the history and culture of the region.",
+                  "category": "museum",
+                  "coords": [
+                        47.195733,
+                        41.203721
+                  ]
+            },
+            {
+                  "name": "Mirza Fatali Akhundov's House Museum",
+                  "text": "The house museum of the writer Mirza Fatali Akhundov in Shaki.",
+                  "category": "museum",
+                  "coords": [
+                        47.199146,
+                        41.202238
+                  ]
+            },
+            {
+                  "name": "İmam Əli məscidi",
+                  "text": "The Imam Ali Mosque is a historic place of worship in Shaki.",
+                  "category": "religious",
+                  "coords": [
+                        47.193962,
+                        41.201559
+                  ]
+            },
+            {
+                  "name": "Juma Masjid",
+                  "text": "The Juma Masjid is a significant religious monument in Shaki.",
+                  "category": "religious",
+                  "coords": [
+                        47.181262,
+                        41.202507
+                  ]
+            },
+            {
+                  "name": "Lower Caravanserai",
+                  "text": "The Lower Caravanserai is a historic lodging building for travelers in Shaki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.191754,
+                        41.200653
+                  ]
+            },
+            {
+                  "name": "Shaki Khan Palace",
+                  "text": "The Palace of Shaki Khans is a magnificent former residence famous for its murals.",
+                  "category": "landmark",
+                  "coords": [
+                        47.197592,
+                        41.204415
+                  ]
+            },
+            {
+                  "name": "Shakikhanov (Winter) Palace \\ Şəki",
+                  "text": "The Shakikhanov Palace is a historic manor and an example of Shaki architecture.",
+                  "category": "castle",
+                  "coords": [
+                        47.190309,
+                        41.202646
+                  ]
+            },
+            {
+                  "name": "Omar Efendi Mosque",
+                  "text": "The Omar Efendi Mosque is an elegant 19th-century religious building in Shaki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.187766,
+                        41.200477
+                  ]
+            },
+            {
+                  "name": "Three Saints Church in Sheki Fortress",
+                  "text": "A circular former church within the Sheki Fortress, now a monument.",
+                  "category": "landmark",
+                  "coords": [
+                        47.196847,
+                        41.203402
+                  ]
+            },
+            {
+                  "name": "Bio Garden \\ Şəki",
+                  "text": "The Bio Garden in Shaki is a private garden and museum for nature lovers.",
+                  "category": "museum",
+                  "coords": [
+                        47.196106,
+                        41.138861
+                  ]
+            },
+            {
+                  "name": "Efendiev's House Museum",
+                  "text": "The Efendiev's House Museum in Shaki is dedicated to local history.",
+                  "category": "museum",
+                  "coords": [
+                        47.192092,
+                        41.19927
+                  ]
+            },
+            {
+                  "name": "Sabit Rahman's House Museum",
+                  "text": "The house museum of the writer Sabit Rahman in Shaki.",
+                  "category": "museum",
+                  "coords": [
+                        47.188987,
+                        41.201615
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev mərkəzi \\ Şəki",
+                  "text": "The Heydar Aliyev Center in Shaki is a cultural institution and museum.",
+                  "category": "museum",
+                  "coords": [
+                        47.161809,
+                        41.162354
+                  ]
+            },
+            {
+                  "name": "Qışlaq hamamı 19-cu əsr",
+                  "text": "A historic bathhouse (hammam) from the 19th century in Shaki.",
+                  "category": "historical",
+                  "coords": [
+                        47.171203,
+                        41.187288
+                  ]
+            },
+            {
+                  "name": "2-ci fabrikin binası 19-cu əsr",
+                  "text": "A historic 19th-century manor building located in Shaki.",
+                  "category": "historical",
+                  "coords": [
+                        47.172758,
+                        41.189781
+                  ]
+            },
+            {
+                  "name": "1941-1945 War Memorial and City Panorama",
+                  "text": "A war memorial for 1941-1945 featuring a panoramic view of Shaki.",
+                  "category": "historical",
+                  "coords": [
+                        47.185713,
+                        41.198334
+                  ]
+            },
+            {
+                  "name": "Mirza Fatali Akhundov monument",
+                  "text": "A monument dedicated to Mirza Fatali Akhundov in Shaki.",
+                  "category": "historical",
+                  "coords": [
+                        47.178332,
+                        41.20357
+                  ]
+            },
+            {
+                  "name": "Dağ Karvansara",
+                  "text": "A historic caravanserai building located in Shaki.",
+                  "category": "historical",
+                  "coords": [
+                        47.135717,
+                        41.212318
+                  ]
+            },
+            {
+                  "name": "ŞƏKİ",
+                  "text": "A monumental landmark located in Shaki city.",
+                  "category": "historical",
+                  "coords": [
+                        47.19824,
+                        41.152959
+                  ]
+            },
+            {
+                  "name": "Shaki dram theatre named Sabit Rahman",
+                  "text": "The Shaki drama theatre named after Sabit Rahman.",
+                  "category": "cultural",
+                  "coords": [
+                        47.175859,
+                        41.198829
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi",
+                  "text": "A cultural house and theatre for performances in Shaki.",
+                  "category": "cultural",
+                  "coords": [
+                        47.130712,
+                        41.194954
+                  ]
+            },
+            {
+                  "name": "3 saylı Musiqi məktəbi",
+                  "text": "A specialized music school and arts centre in Shaki.",
+                  "category": "cultural",
+                  "coords": [
+                        47.163538,
+                        41.194588
+                  ]
+            },
+            {
+                  "name": "Taza Bazar (Local Market)",
+                  "text": "A bustling local market for traditional goods in Shaki.",
+                  "category": "cultural",
+                  "coords": [
+                        47.166324,
+                        41.200846
+                  ]
+            },
+            {
+                  "name": "Simsim Bazarı",
+                  "text": "A traditional marketplace for local produce in Shaki.",
+                  "category": "cultural",
+                  "coords": [
+                        47.162569,
+                        41.200017
+                  ]
+            },
+            {
+                  "name": "Horse rental",
+                  "text": "A horse rental facility for leisure activities in Shaki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.191152,
+                        41.195727
+                  ]
+            },
+            {
+                  "name": "Aghvan's hammam 19th c.",
+                  "text": "A historic 19th-century hammam located in Shaki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.189517,
+                        41.20049
+                  ]
+            },
+            {
+                  "name": "Karusel",
+                  "text": "A popular carousel attraction for visitors in Shaki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.158018,
+                        41.163106
+                  ]
+            },
+            {
+                  "name": "Albanian Church from XIX century",
+                  "text": "An Albanian church dating from the 19th century in Shaki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.174493,
+                        41.202176
+                  ]
+            },
+            {
+                  "name": "Şəki Körpü dairəsi",
+                  "text": "A local landmark located at the bridge circle in Shaki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.166362,
+                        41.206924
+                  ]
+            },
+            {
+                  "name": "Dörd Yol Dairəsi",
+                  "text": "A central meeting point and landmark in Shaki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.163584,
+                        41.16113
+                  ]
+            },
+            {
+                  "name": "Sarıtorpaq məscidi 19-cu əsr",
+                  "text": "A 19th-century mosque in the Sarıtorpaq neighborhood of Shaki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.187763,
+                        41.2039
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "AZ-SAK",
     coords: [47.1975, 41.2044],
@@ -668,7 +8804,484 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
       fr: ["Il existe deux caravansérails principaux à Sheki : le supérieur et l'inférieur.", "Ils ont été construits au XVIIIe siècle pour servir les marchands de la Route de la Soie.", "Les complexes sont construits autour d'une grande cour centrale.", "Ils offraient protection aux marchands, à leurs marchandises et à leurs animaux.", "Le caravansérail inférieur a été transformé en hôtel.", "La surface totale du caravansérail inférieur est d'environ 8 000 mètres carrés.", "Ils possèdent de hautes arches et des chambres spacieuses.", "Ces structures sont des exemples de premier ordre de l'architecture civile médiévale azerbaïdjanaise."],
     }, image: "/poi-images/shaki-caravanserai-landmarks-v2.webp"},
   {
-    id: "lahij-village-landmarks-v2",
+    id: "lahij-village-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qaya 2",
+                  "text": "Ein natürlicher Aussichtspunkt oberhalb des Dorfes Lahij, der einen weiten Blick über das Girdimanchay-Flusstal bietet.",
+                  "category": "natural",
+                  "coords": [
+                        48.373114,
+                        40.833803
+                  ]
+            },
+            {
+                  "name": "Qaya 1",
+                  "text": "Diese Felsformation bietet einen Panoramablick auf die traditionellen Steinhäuser und gepflasterten Gassen des historischen Dorfes Lahij.",
+                  "category": "natural",
+                  "coords": [
+                        48.371543,
+                        40.831335
+                  ]
+            },
+            {
+                  "name": "Seyrangah",
+                  "text": "Eine hölzerne Aussichtsplattform, die Besuchern einen spektakulären Blick auf die zerklüfteten Gipfel des Großen Kaukasus ermöglicht.",
+                  "category": "natural",
+                  "coords": [
+                        48.355156,
+                        40.84049
+                  ]
+            },
+            {
+                  "name": "Bəylərbəyi Sarayı",
+                  "text": "Die Ruinen eines historischen Adelssitzes in Lahij, der für seine traditionelle aserbaidschanische Palastarchitektur aus Stein bekannt war.",
+                  "category": "castle",
+                  "coords": [
+                        48.382223,
+                        40.846249
+                  ]
+            },
+            {
+                  "name": "Lahic Tarix musey",
+                  "text": "Dieses Museum im Bergdorf Lahitsch zeigt traditionelle Kupferarbeiten und lokales Handwerk.",
+                  "category": "museum",
+                  "coords": [
+                        48.380859,
+                        40.845573
+                  ]
+            },
+            {
+                  "name": "Tarix muzeyi \\ Ərəkit",
+                  "text": "Ein kleines Museum in Ərəkit, das sich der ländlichen Geschichte und den Traditionen der Region widmet.",
+                  "category": "museum",
+                  "coords": [
+                        48.388684,
+                        40.851051
+                  ]
+            },
+            {
+                  "name": "Girdiman Castle",
+                  "text": "Historische Festungsruinen auf einem Felsen über dem Fluss Girdimanchay.",
+                  "category": "historical",
+                  "coords": [
+                        48.372264,
+                        40.828289
+                  ]
+            },
+            {
+                  "name": "Namazxan Məscidi",
+                  "text": "Eine traditionelle Moschee mit der charakteristischen Steinarchitektur des Bergdorfes Lahitsch.",
+                  "category": "landmark",
+                  "coords": [
+                        48.329826,
+                        40.834457
+                  ]
+            },
+            {
+                  "name": "Zavaro mascidi",
+                  "text": "Eine der ältesten Moscheen im Viertel Zavaro, bekannt für ihre schlichte Steinfassade.",
+                  "category": "landmark",
+                  "coords": [
+                        48.380514,
+                        40.844178
+                  ]
+            },
+            {
+                  "name": "Badüvan Məscidi",
+                  "text": "Eine lokale Moschee, die sich harmonisch in die engen, gepflasterten Gassen von Lahitsch einfügt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.384304,
+                        40.847876
+                  ]
+            },
+            {
+                  "name": "Yuxarı Ərəkit Zəvro Məscidi",
+                  "text": "Diese Moschee liegt im oberen Teil des Dorfes und prägt das alpine Ortsbild von Zavro.",
+                  "category": "landmark",
+                  "coords": [
+                        48.390845,
+                        40.850719
+                  ]
+            },
+            {
+                  "name": "Hacı Cahanbəxşə Məscidi \\ Əhən",
+                  "text": "Eine kleine Dorfmoschee im abgelegenen Ort Əhən, erbaut aus lokalem Naturstein.",
+                  "category": "landmark",
+                  "coords": [
+                        48.417042,
+                        40.852736
+                  ]
+            },
+            {
+                  "name": "Əhən Piri",
+                  "text": "Ein heiliger Schrein in Əhən, der als lokaler Wallfahrtsort inmitten der Berge dient.",
+                  "category": "landmark",
+                  "coords": [
+                        48.414755,
+                        40.852648
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qaya 2",
+                  "text": "Természetes kilátópont Lahij falu felett, amely tágas kilátást nyújt a Girdimanchay folyó völgyére.",
+                  "category": "natural",
+                  "coords": [
+                        48.373114,
+                        40.833803
+                  ]
+            },
+            {
+                  "name": "Qaya 1",
+                  "text": "Ez a sziklaformáció panorámás kilátást nyújt a történelmi Lahij falu hagyományos kőházaira és kövezett utcáira.",
+                  "category": "natural",
+                  "coords": [
+                        48.371543,
+                        40.831335
+                  ]
+            },
+            {
+                  "name": "Seyrangah",
+                  "text": "Fából készült kilátóterasz, amely látványos panorámát kínál a Nagy-Kaukázus csipkés csúcsaira.",
+                  "category": "natural",
+                  "coords": [
+                        48.355156,
+                        40.84049
+                  ]
+            },
+            {
+                  "name": "Bəylərbəyi Sarayı",
+                  "text": "Egy történelmi nemesi rezidencia romjai Lahidzsban, amely hagyományos azeri kőpalota-építészetéről volt ismert.",
+                  "category": "castle",
+                  "coords": [
+                        48.382223,
+                        40.846249
+                  ]
+            },
+            {
+                  "name": "Lahic Tarix musey",
+                  "text": "Ez a hegyi faluban található múzeum Lahic híres rézműves hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        48.380859,
+                        40.845573
+                  ]
+            },
+            {
+                  "name": "Tarix muzeyi \\ Ərəkit",
+                  "text": "Egy kis múzeum Ərəkitben, amely a régió vidéki történelmét és hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        48.388684,
+                        40.851051
+                  ]
+            },
+            {
+                  "name": "Girdiman Castle",
+                  "text": "Történelmi erődmaradványok a Girdimanchay-folyó feletti sziklán.",
+                  "category": "historical",
+                  "coords": [
+                        48.372264,
+                        40.828289
+                  ]
+            },
+            {
+                  "name": "Namazxan Məscidi",
+                  "text": "Hagyományos mecset Lahic hegyi falujára jellemző kőépítészettel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.329826,
+                        40.834457
+                  ]
+            },
+            {
+                  "name": "Zavaro mascidi",
+                  "text": "A Zavaro negyed egyik legrégebbi mecsete, amely egyszerű kőhomlokzatáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        48.380514,
+                        40.844178
+                  ]
+            },
+            {
+                  "name": "Badüvan Məscidi",
+                  "text": "Helyi mecset, amely harmonikusan illeszkedik Lahic szűk, macskaköves utcáihoz.",
+                  "category": "landmark",
+                  "coords": [
+                        48.384304,
+                        40.847876
+                  ]
+            },
+            {
+                  "name": "Yuxarı Ərəkit Zəvro Məscidi",
+                  "text": "Ez a mecset a falu felső részén található, meghatározva Zavro alpesi jellegű látképét.",
+                  "category": "landmark",
+                  "coords": [
+                        48.390845,
+                        40.850719
+                  ]
+            },
+            {
+                  "name": "Hacı Cahanbəxşə Məscidi \\ Əhən",
+                  "text": "Kisméretű falusi mecset a távoli Əhən településen, helyi terméskőből építve.",
+                  "category": "landmark",
+                  "coords": [
+                        48.417042,
+                        40.852736
+                  ]
+            },
+            {
+                  "name": "Əhən Piri",
+                  "text": "Szent sírhely Əhénben, amely helyi zarándokhelyként szolgál a hegyek között.",
+                  "category": "landmark",
+                  "coords": [
+                        48.414755,
+                        40.852648
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qaya 2",
+                  "text": "Un punct de belvedere natural deasupra satului Lahij, oferind o vedere amplă asupra văii râului Girdimanchay.",
+                  "category": "natural",
+                  "coords": [
+                        48.373114,
+                        40.833803
+                  ]
+            },
+            {
+                  "name": "Qaya 1",
+                  "text": "Această formațiune stâncoasă oferă o vedere panoramică asupra caselor tradiționale din piatră și a străzilor pavate din satul istoric Lahij.",
+                  "category": "natural",
+                  "coords": [
+                        48.371543,
+                        40.831335
+                  ]
+            },
+            {
+                  "name": "Seyrangah",
+                  "text": "O platformă de observație din lemn care oferă vizitatorilor o vedere spectaculoasă asupra vârfurilor zimțate ale Caucazului Mare.",
+                  "category": "natural",
+                  "coords": [
+                        48.355156,
+                        40.84049
+                  ]
+            },
+            {
+                  "name": "Bəylərbəyi Sarayı",
+                  "text": "Ruinele unei reședințe nobiliare istorice din Lahij, cunoscută pentru arhitectura sa tradițională de palat azer din piatră.",
+                  "category": "castle",
+                  "coords": [
+                        48.382223,
+                        40.846249
+                  ]
+            },
+            {
+                  "name": "Lahic Tarix musey",
+                  "text": "Acest muzeu din satul montan Lahij prezintă meșteșugurile tradiționale în cupru și istoria locală.",
+                  "category": "museum",
+                  "coords": [
+                        48.380859,
+                        40.845573
+                  ]
+            },
+            {
+                  "name": "Tarix muzeyi \\ Ərəkit",
+                  "text": "Un mic muzeu în Ərəkit dedicat istoriei rurale și tradițiilor regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        48.388684,
+                        40.851051
+                  ]
+            },
+            {
+                  "name": "Girdiman Castle",
+                  "text": "Ruinele unei cetăți istorice situate pe o stâncă deasupra râului Girdimanchay.",
+                  "category": "historical",
+                  "coords": [
+                        48.372264,
+                        40.828289
+                  ]
+            },
+            {
+                  "name": "Namazxan Məscidi",
+                  "text": "O moschee tradițională cu arhitectura de piatră caracteristică satului montan Lahij.",
+                  "category": "landmark",
+                  "coords": [
+                        48.329826,
+                        40.834457
+                  ]
+            },
+            {
+                  "name": "Zavaro mascidi",
+                  "text": "Una dintre cele mai vechi moschei din cartierul Zavaro, cunoscută pentru fațada sa simplă din piatră.",
+                  "category": "landmark",
+                  "coords": [
+                        48.380514,
+                        40.844178
+                  ]
+            },
+            {
+                  "name": "Badüvan Məscidi",
+                  "text": "O moschee locală care se integrează armonios în străzile înguste și pietruite din Lahij.",
+                  "category": "landmark",
+                  "coords": [
+                        48.384304,
+                        40.847876
+                  ]
+            },
+            {
+                  "name": "Yuxarı Ərəkit Zəvro Məscidi",
+                  "text": "Această moschee este situată în partea de sus a satului, definind peisajul alpin din Zavro.",
+                  "category": "landmark",
+                  "coords": [
+                        48.390845,
+                        40.850719
+                  ]
+            },
+            {
+                  "name": "Hacı Cahanbəxşə Məscidi \\ Əhən",
+                  "text": "O mică moschee sătească în localitatea izolată Əhən, construită din piatră naturală locală.",
+                  "category": "landmark",
+                  "coords": [
+                        48.417042,
+                        40.852736
+                  ]
+            },
+            {
+                  "name": "Əhən Piri",
+                  "text": "Un altar sacru în Əhən, care servește ca loc de pelerinaj local în mijlocul munților.",
+                  "category": "landmark",
+                  "coords": [
+                        48.414755,
+                        40.852648
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qaya 2",
+                  "text": "A natural lookout point above Lahij village offering wide views over the Girdimanchay river valley.",
+                  "category": "natural",
+                  "coords": [
+                        48.373114,
+                        40.833803
+                  ]
+            },
+            {
+                  "name": "Qaya 1",
+                  "text": "This rock formation provides a panoramic view over the traditional stone houses and cobbled streets of historic Lahij village.",
+                  "category": "natural",
+                  "coords": [
+                        48.371543,
+                        40.831335
+                  ]
+            },
+            {
+                  "name": "observation deck",
+                  "text": "A wooden observation deck offering visitors spectacular views of the jagged peaks of the Greater Caucasus.",
+                  "category": "natural",
+                  "coords": [
+                        48.355156,
+                        40.84049
+                  ]
+            },
+            {
+                  "name": "Bəylərbəyi Sarayı",
+                  "text": "The ruins of a historic noble residence in Lahij, known for its traditional Azerbaijani stone palace architecture.",
+                  "category": "castle",
+                  "coords": [
+                        48.382223,
+                        40.846249
+                  ]
+            },
+            {
+                  "name": "Lahic Tarix musey",
+                  "text": "This museum in the mountain village of Lahij showcases traditional copper craftsmanship and local history.",
+                  "category": "museum",
+                  "coords": [
+                        48.380859,
+                        40.845573
+                  ]
+            },
+            {
+                  "name": "Tarix muzeyi \\ Ərəkit",
+                  "text": "A small museum in Ərəkit dedicated to the rural history and traditions of the region.",
+                  "category": "museum",
+                  "coords": [
+                        48.388684,
+                        40.851051
+                  ]
+            },
+            {
+                  "name": "Girdiman Castle",
+                  "text": "Historical fortress ruins situated on a cliff overlooking the Girdimanchay River.",
+                  "category": "historical",
+                  "coords": [
+                        48.372264,
+                        40.828289
+                  ]
+            },
+            {
+                  "name": "Namazxan Məscidi",
+                  "text": "A traditional mosque featuring the stone architecture characteristic of the mountain village of Lahij.",
+                  "category": "landmark",
+                  "coords": [
+                        48.329826,
+                        40.834457
+                  ]
+            },
+            {
+                  "name": "Zavaro mascidi",
+                  "text": "One of the oldest mosques in the Zavaro neighborhood, known for its simple stone facade.",
+                  "category": "landmark",
+                  "coords": [
+                        48.380514,
+                        40.844178
+                  ]
+            },
+            {
+                  "name": "Badüvan Məscidi",
+                  "text": "A local mosque that fits harmoniously into the narrow, cobbled streets of Lahij.",
+                  "category": "landmark",
+                  "coords": [
+                        48.384304,
+                        40.847876
+                  ]
+            },
+            {
+                  "name": "Yuxarı Ərəkit Zəvro Məscidi",
+                  "text": "This mosque is located in the upper part of the village, defining the alpine townscape of Zavro.",
+                  "category": "landmark",
+                  "coords": [
+                        48.390845,
+                        40.850719
+                  ]
+            },
+            {
+                  "name": "Hacı Cahanbəxşə Məscidi \\ Əhən",
+                  "text": "A small village mosque in the remote settlement of Əhən, built from local natural stone.",
+                  "category": "landmark",
+                  "coords": [
+                        48.417042,
+                        40.852736
+                  ]
+            },
+            {
+                  "name": "Əhən Piri",
+                  "text": "A sacred shrine in Əhən that serves as a local pilgrimage site amidst the mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        48.414755,
+                        40.852648
+                  ]
+            }
+      ]
+},
     type: "tourist-attraction",
     parent: "AZ-ISM",
     coords: [48.3842, 40.8617],

@@ -7,7 +7,7 @@ export const finlandLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Hietamaan uimaranta",
-                  "text": "Hietamaa-Badestrand nahe der Kirche von Paavola.",
+                  "text": "Sandstrand in Paavola in der Nähe der Kirche.",
                   "category": "recreational",
                   "coords": [
                         25.072267,
@@ -18,7 +18,7 @@ export const finlandLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Hietamaan uimaranta",
-                  "text": "Hietamaa strand a Paavola templom közelében.",
+                  "text": "Homokos strand Paavolában a templom közelében.",
                   "category": "recreational",
                   "coords": [
                         25.072267,
@@ -29,7 +29,7 @@ export const finlandLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Hietamaan uimaranta",
-                  "text": "Plaja Hietamaa lângă Biserica Paavola.",
+                  "text": "Plajă de nisip în Paavola, lângă biserică.",
                   "category": "recreational",
                   "coords": [
                         25.072267,
@@ -40,7 +40,7 @@ export const finlandLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Hietamaan uimaranta",
-                  "text": "Hietamaa beach near Paavola Church.",
+                  "text": "Sandy beach in Paavola near the church.",
                   "category": "recreational",
                   "coords": [
                         25.072267,
@@ -97,7 +97,7 @@ export const finlandLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Veneranta",
-                  "text": "Einfacher Strand bei der Kirche in Pyhäntä.",
+                  "text": "Bootsanlegestrand in Pyhäntä in der Nähe der Kirche.",
                   "category": "recreational",
                   "coords": [
                         26.337013,
@@ -135,7 +135,7 @@ export const finlandLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Veneranta",
-                  "text": "Egyszerű strand a Pyhäntä-i templomnál.",
+                  "text": "Csónakstrand Pyhännällä a templom közelében.",
                   "category": "recreational",
                   "coords": [
                         26.337013,
@@ -173,7 +173,7 @@ export const finlandLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Veneranta",
-                  "text": "Plajă simplă lângă biserica din Pyhäntä.",
+                  "text": "Plajă pentru bărci în Pyhäntä, lângă biserică.",
                   "category": "recreational",
                   "coords": [
                         26.337013,
@@ -211,7 +211,7 @@ export const finlandLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Veneranta",
-                  "text": "Simple beach by the church in Pyhäntä.",
+                  "text": "Boat beach in Pyhanta near the church.",
                   "category": "recreational",
                   "coords": [
                         26.337013,
@@ -601,7 +601,7 @@ export const finlandLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Uimala",
-                  "text": "Strand bei der Kirche von Toivakka.",
+                  "text": "Öffentliches Strandbad in Toivakka nahe der Kirche.",
                   "category": "recreational",
                   "coords": [
                         26.088757,
@@ -610,7 +610,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Toivakan kirkko",
-                  "text": "Die evangelisch-lutherische Kirche von Toivakka ist für ihre Deckenmalereien bekannt.",
+                  "text": "Die moderne lutherische Kirche im Zentrum von Toivakka.",
                   "category": "religious",
                   "coords": [
                         26.089023,
@@ -621,7 +621,7 @@ export const finlandLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Uimala",
-                  "text": "Strand a Toivakka templom közelében.",
+                  "text": "Nyilvános strand Toivakkában a templom közelében.",
                   "category": "recreational",
                   "coords": [
                         26.088757,
@@ -630,7 +630,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Toivakan kirkko",
-                  "text": "A toivakkai templom egy evangélikus templomépület Finnországban.",
+                  "text": "A modern lutheránus templom Toivakka központjában.",
                   "category": "religious",
                   "coords": [
                         26.089023,
@@ -641,7 +641,7 @@ export const finlandLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Uimala",
-                  "text": "Plajă în apropierea bisericii din Toivakka.",
+                  "text": "Plajă publică în Toivakka, lângă biserică.",
                   "category": "recreational",
                   "coords": [
                         26.088757,
@@ -650,7 +650,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Toivakan kirkko",
-                  "text": "Biserica din Toivakka este un lăcaș de cult evanghelic situat în Toivakka.",
+                  "text": "Biserica luterană modernă din centrul Toivakka.",
                   "category": "religious",
                   "coords": [
                         26.089023,
@@ -661,7 +661,7 @@ export const finlandLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Uimala",
-                  "text": "Beach near the Toivakka church.",
+                  "text": "Public beach in Toivakka near the church.",
                   "category": "recreational",
                   "coords": [
                         26.088757,
@@ -670,7 +670,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Toivakan kirkko",
-                  "text": "Toivakka Church is an Evangelical Lutheran church building in Toivakka.",
+                  "text": "The modern Lutheran church in the center of Toivakka.",
                   "category": "religious",
                   "coords": [
                         26.089023,
@@ -1033,7 +1033,7 @@ export const finlandLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Ruukinrannan uimaranta",
-                  "text": "Ruukinrannan uimaranta ist ein Strand in der Nähe von Kuhmo.",
+                  "text": "Strand am Mühlenstrand in Kuhmo nahe der Kirche.",
                   "category": "recreational",
                   "coords": [
                         29.520838,
@@ -1042,7 +1042,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Harakkasaaren ranta",
-                  "text": "Harakkasaaren ranta ist ein Strand bei Kuhmo Church.",
+                  "text": "Strand auf der Insel Harakkasaari in Kuhmo nahe der Kirche.",
                   "category": "recreational",
                   "coords": [
                         29.609952,
@@ -1051,7 +1051,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Kalevalan leirintäalueen ranta",
-                  "text": "Kalevalan leirintäalueen ranta ist ein Strand beim Campingplatz in Kuhmo Church.",
+                  "text": "Strand am Kalevala-Campingplatz in Kuhmo nahe der Kirche.",
                   "category": "recreational",
                   "coords": [
                         29.59273,
@@ -1060,7 +1060,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Isohiekka",
-                  "text": "Isohiekka ist ein Strand in der Nähe von Kuhmo Church.",
+                  "text": "Großer Sandstrand in Kuhmo nahe der Kirche.",
                   "category": "recreational",
                   "coords": [
                         29.557727,
@@ -1069,7 +1069,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Akonlahden uimaranta",
-                  "text": "Strand Akonlahti in Kuhmo.",
+                  "text": "Strand in der Bucht Akonlahti in Kuhmo nahe der Kirche.",
                   "category": "recreational",
                   "coords": [
                         29.45807,
@@ -1080,7 +1080,7 @@ export const finlandLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Ruukinrannan uimaranta",
-                  "text": "A Ruukinrannan uimaranta egy strand Kuhmo közelében.",
+                  "text": "Malomparti strand Kuhmóban a templom közelében.",
                   "category": "recreational",
                   "coords": [
                         29.520838,
@@ -1089,7 +1089,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Harakkasaaren ranta",
-                  "text": "A Harakkasaaren ranta egy strand Kuhmo Church közelében.",
+                  "text": "Harakkasaari-szigeten, Kuhmóban a templom közelében.",
                   "category": "recreational",
                   "coords": [
                         29.609952,
@@ -1098,7 +1098,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Kalevalan leirintäalueen ranta",
-                  "text": "A Kalevalan leirintäalueen ranta egy strand a Kuhmo Church-i kempingnél.",
+                  "text": "Kalevala kemping strandja Kuhmóban a templom közelében.",
                   "category": "recreational",
                   "coords": [
                         29.59273,
@@ -1107,7 +1107,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Isohiekka",
-                  "text": "Az Isohiekka egy strand Kuhmo Church közelében.",
+                  "text": "Nagy homokos strand Kuhmóban a templom közelében.",
                   "category": "recreational",
                   "coords": [
                         29.557727,
@@ -1116,7 +1116,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Akonlahden uimaranta",
-                  "text": "Akonlahti strand Kuhmóban.",
+                  "text": "Akonlahti-öbölben, Kuhmóban a templom közelében.",
                   "category": "recreational",
                   "coords": [
                         29.45807,
@@ -1127,7 +1127,7 @@ export const finlandLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Ruukinrannan uimaranta",
-                  "text": "Ruukinrannan uimaranta este o plajă lângă Kuhmo.",
+                  "text": "Plajă la malul morii în Kuhmo, lângă biserică.",
                   "category": "recreational",
                   "coords": [
                         29.520838,
@@ -1136,7 +1136,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Harakkasaaren ranta",
-                  "text": "Harakkasaaren ranta este o plajă lângă Kuhmo Church.",
+                  "text": "Plajă pe insula Harakkasaari în Kuhmo, lângă biserică.",
                   "category": "recreational",
                   "coords": [
                         29.609952,
@@ -1145,7 +1145,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Kalevalan leirintäalueen ranta",
-                  "text": "Kalevalan leirintäalueen ranta este o plajă la campingul din Kuhmo Church.",
+                  "text": "Plajă la campingul Kalevala în Kuhmo, lângă biserică.",
                   "category": "recreational",
                   "coords": [
                         29.59273,
@@ -1154,7 +1154,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Isohiekka",
-                  "text": "Isohiekka este o plajă lângă Kuhmo Church.",
+                  "text": "Plajă mare de nisip în Kuhmo, lângă biserică.",
                   "category": "recreational",
                   "coords": [
                         29.557727,
@@ -1163,7 +1163,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Akonlahden uimaranta",
-                  "text": "Plaja Akonlahti din Kuhmo.",
+                  "text": "Plajă în golful Akonlahti în Kuhmo, lângă biserică.",
                   "category": "recreational",
                   "coords": [
                         29.45807,
@@ -1174,7 +1174,7 @@ export const finlandLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Ruukinrannan uimaranta",
-                  "text": "Ruukinrannan uimaranta is a beach near Kuhmo.",
+                  "text": "Beach at the mill shore in Kuhmo near the church.",
                   "category": "recreational",
                   "coords": [
                         29.520838,
@@ -1183,7 +1183,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Harakkasaaren ranta",
-                  "text": "Harakkasaaren ranta is a beach near Kuhmo Church.",
+                  "text": "Beach on Harakkasaari island in Kuhmo near the church.",
                   "category": "recreational",
                   "coords": [
                         29.609952,
@@ -1192,7 +1192,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Kalevalan leirintäalueen ranta",
-                  "text": "Kalevalan leirintäalueen ranta is a beach at the campsite in Kuhmo Church.",
+                  "text": "Beach at Kalevala camping area in Kuhmo near the church.",
                   "category": "recreational",
                   "coords": [
                         29.59273,
@@ -1201,7 +1201,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Isohiekka",
-                  "text": "Isohiekka is a beach near Kuhmo Church.",
+                  "text": "Large sandy beach in Kuhmo near the church.",
                   "category": "recreational",
                   "coords": [
                         29.557727,
@@ -1210,7 +1210,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Akonlahden uimaranta",
-                  "text": "Akonlahti beach in Kuhmo.",
+                  "text": "Beach in Akonlahti bay in Kuhmo near the church.",
                   "category": "recreational",
                   "coords": [
                         29.45807,
@@ -1501,7 +1501,7 @@ export const finlandLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Huutijärven uimaranta",
-                  "text": "Huutijärven uimaranta ist ein Strand in der Nähe von Kangasala.",
+                  "text": "Strand am Huutijärvi-See in Kangasala nahe der Kirche.",
                   "category": "recreational",
                   "coords": [
                         24.113749,
@@ -1510,7 +1510,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Vesaniemen uimaranta",
-                  "text": "Strand bei der Kirche von Kangasala.",
+                  "text": "Strand an der Spitze Vesaniemi in Kangasala nahe der Kirche.",
                   "category": "recreational",
                   "coords": [
                         24.082928,
@@ -1519,7 +1519,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Liuksialan uimaranta",
-                  "text": "Strand bei der Kirche von Kangasala.",
+                  "text": "Strand in Liuksiala in Kangasala nahe der Kirche.",
                   "category": "recreational",
                   "coords": [
                         24.013795,
@@ -1528,7 +1528,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Riun uimaranta",
-                  "text": "Uferbereich bei der Kirche in Kangasala.",
+                  "text": "Strand in Riu in Kangasala nahe der Kirche.",
                   "category": "recreational",
                   "coords": [
                         24.090555,
@@ -1539,7 +1539,7 @@ export const finlandLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Huutijärven uimaranta",
-                  "text": "A Huutijärven uimaranta egy strand Kangasala közelében.",
+                  "text": "Huutijärvi-tó partján, Kangasalában a templom közelében.",
                   "category": "recreational",
                   "coords": [
                         24.113749,
@@ -1548,7 +1548,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Vesaniemen uimaranta",
-                  "text": "Strand a kangasala-i templom közelében.",
+                  "text": "Vesaniemi-foknál, Kangasalában a templom közelében.",
                   "category": "recreational",
                   "coords": [
                         24.082928,
@@ -1557,7 +1557,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Liuksialan uimaranta",
-                  "text": "Strand a kangasala-i templom közelében.",
+                  "text": "Liuksialában, Kangasalában a templom közelében.",
                   "category": "recreational",
                   "coords": [
                         24.013795,
@@ -1566,7 +1566,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Riun uimaranta",
-                  "text": "Vízpart a kangasalai templomnál.",
+                  "text": "Riuban, Kangasalában a templom közelében.",
                   "category": "recreational",
                   "coords": [
                         24.090555,
@@ -1577,7 +1577,7 @@ export const finlandLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Huutijärven uimaranta",
-                  "text": "Huutijärven uimaranta este o plajă lângă Kangasala.",
+                  "text": "Plajă pe lacul Huutijärvi în Kangasala, lângă biserică.",
                   "category": "recreational",
                   "coords": [
                         24.113749,
@@ -1586,7 +1586,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Vesaniemen uimaranta",
-                  "text": "Plajă lângă Biserica din Kangasala.",
+                  "text": "Plajă la capul Vesaniemi în Kangasala, lângă biserică.",
                   "category": "recreational",
                   "coords": [
                         24.082928,
@@ -1595,7 +1595,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Liuksialan uimaranta",
-                  "text": "Plajă lângă Biserica din Kangasala.",
+                  "text": "Plajă în Liuksiala, Kangasala, lângă biserică.",
                   "category": "recreational",
                   "coords": [
                         24.013795,
@@ -1604,7 +1604,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Riun uimaranta",
-                  "text": "Zonă de țărm lângă biserica din Kangasala.",
+                  "text": "Plajă în Riu, Kangasala, lângă biserică.",
                   "category": "recreational",
                   "coords": [
                         24.090555,
@@ -1615,7 +1615,7 @@ export const finlandLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Huutijärven uimaranta",
-                  "text": "Huutijärven uimaranta is a beach near Kangasala.",
+                  "text": "Beach on Lake Huutijärvi in Kangasala near the church.",
                   "category": "recreational",
                   "coords": [
                         24.113749,
@@ -1624,7 +1624,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Vesaniemen uimaranta",
-                  "text": "Beach near Kangasala Church.",
+                  "text": "Beach at Vesaniemi point in Kangasala near the church.",
                   "category": "recreational",
                   "coords": [
                         24.082928,
@@ -1633,7 +1633,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Liuksialan uimaranta",
-                  "text": "Beach near Kangasala Church.",
+                  "text": "Beach in Liuksiala, Kangasala, near the church.",
                   "category": "recreational",
                   "coords": [
                         24.013795,
@@ -1642,7 +1642,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Riun uimaranta",
-                  "text": "Shore area by the church in Kangasala.",
+                  "text": "Beach in Riu, Kangasala, near the church.",
                   "category": "recreational",
                   "coords": [
                         24.090555,
@@ -1789,7 +1789,7 @@ export const finlandLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Uimala",
-                  "text": "Uimala ist ein Badeplatz in der Nähe der Kirche Kangasniemi.",
+                  "text": "Öffentliches Strandbad in Kangasniemi nahe der Kirche.",
                   "category": "recreational",
                   "coords": [
                         26.644529,
@@ -1825,7 +1825,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Kangasniemen kirkon tapuli",
-                  "text": "Der hölzerne Glockenturm der Kirche von Kangasniemi.",
+                  "text": "Ein hölzerner Glockenturm von 1812 an der Kirche Kangasniemi.",
                   "category": "tower",
                   "coords": [
                         26.646012,
@@ -1845,7 +1845,7 @@ export const finlandLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Uimala",
-                  "text": "Az Uimala egy fürdőhely a Kangasniemi templom közelében.",
+                  "text": "Nyilvános strand Kangasniemiben a templom közelében.",
                   "category": "recreational",
                   "coords": [
                         26.644529,
@@ -1881,7 +1881,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Kangasniemen kirkon tapuli",
-                  "text": "A kangasniemi templom fából készült harangtornya.",
+                  "text": "Fából készült harangláb 1812-ből a Kangasniemi templomnál.",
                   "category": "tower",
                   "coords": [
                         26.646012,
@@ -1901,7 +1901,7 @@ export const finlandLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Uimala",
-                  "text": "Uimala este un loc de scăldat situat în apropierea bisericii din Kangasniemi.",
+                  "text": "Plajă publică în Kangasniemi, lângă biserică.",
                   "category": "recreational",
                   "coords": [
                         26.644529,
@@ -1937,7 +1937,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Kangasniemen kirkon tapuli",
-                  "text": "Clopotnița de lemn a bisericii din Kangasniemi.",
+                  "text": "Un turn de clopot din lemn din 1812 la Biserica Kangasniemi.",
                   "category": "tower",
                   "coords": [
                         26.646012,
@@ -1957,7 +1957,7 @@ export const finlandLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Uimala",
-                  "text": "Uimala is a bathing place near Kangasniemi Church.",
+                  "text": "Public beach in Kangasniemi near the church.",
                   "category": "recreational",
                   "coords": [
                         26.644529,
@@ -1993,7 +1993,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Kangasniemen kirkon tapuli",
-                  "text": "The wooden bell tower of the Kangasniemi church.",
+                  "text": "A wooden bell tower from 1812 at Kangasniemi Church.",
                   "category": "tower",
                   "coords": [
                         26.646012,
@@ -2059,7 +2059,7 @@ export const finlandLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Oskari Tokoi museum",
-                  "text": "Ein Museum in Kannus, das dem Politiker Oskari Tokoi gewidmet ist.",
+                  "text": "Oskari-Tokoi-Museum, dem ersten sozialdemokratischen Ministerpräsidenten Finnlands gewidmet, in Kannus.",
                   "category": "museum",
                   "coords": [
                         23.913767,
@@ -2068,7 +2068,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Galleria Justus",
-                  "text": "Ein Kunstzentrum in Kannus, das lokale Ausstellungen zeigt.",
+                  "text": "Kunstgalerie Justus in einem historischen Gebäude nahe der Kannus-Kirche.",
                   "category": "cultural",
                   "coords": [
                         23.915499,
@@ -2077,7 +2077,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Kannuksen kirkko",
-                  "text": "Die hölzerne Pfarrkirche der Gemeinde Kannus.",
+                  "text": "Holzkirche von 1817 in Kannus.",
                   "category": "religious",
                   "coords": [
                         23.914347,
@@ -2088,7 +2088,7 @@ export const finlandLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Oskari Tokoi museo",
-                  "text": "Oskari Tokoi politikusnak szentelt múzeum Kannusban.",
+                  "text": "Oskari Tokoi Múzeum, Finnország első szociáldemokrata miniszterelnökének szentelve, Kannusban.",
                   "category": "museum",
                   "coords": [
                         23.913767,
@@ -2097,7 +2097,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Galleria Justus",
-                  "text": "Művészeti központ Kannusban, amely helyi kiállításoknak ad otthont.",
+                  "text": "Justus Galéria egy történelmi épületben, a kannusi templom közelében.",
                   "category": "cultural",
                   "coords": [
                         23.915499,
@@ -2106,7 +2106,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Kannuksen kirkko",
-                  "text": "Kannus község fából készült plébániatemploma.",
+                  "text": "1817-ben épült fatemplom Kannuksessa.",
                   "category": "religious",
                   "coords": [
                         23.914347,
@@ -2117,7 +2117,7 @@ export const finlandLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Oskari Tokoi museo",
-                  "text": "Un muzeu în Kannus dedicat omului politic Oskari Tokoi.",
+                  "text": "Muzeul Oskari Tokoi, dedicat primului prim-ministru social-democrat al Finlandei, în Kannus.",
                   "category": "museum",
                   "coords": [
                         23.913767,
@@ -2126,7 +2126,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Galleria Justus",
-                  "text": "Un centru de artă în Kannus care găzduiește expoziții locale.",
+                  "text": "Galeria Justus într-o clădire istorică, lângă biserica din Kannus.",
                   "category": "cultural",
                   "coords": [
                         23.915499,
@@ -2135,7 +2135,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Kannuksen kirkko",
-                  "text": "Biserica parohială din lemn a localității Kannus.",
+                  "text": "Biserică de lemn din 1817 în Kannus.",
                   "category": "religious",
                   "coords": [
                         23.914347,
@@ -2146,7 +2146,7 @@ export const finlandLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Oskari Tokoi museum",
-                  "text": "A museum in Kannus dedicated to the politician Oskari Tokoi.",
+                  "text": "Oskari Tokoi Museum, dedicated to Finland's first Social Democratic Prime Minister, in Kannus.",
                   "category": "museum",
                   "coords": [
                         23.913767,
@@ -2155,7 +2155,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Galleria Justus",
-                  "text": "An arts centre in Kannus hosting local exhibitions.",
+                  "text": "Galleria Justus, a contemporary art space in a historic building near Kannus Church.",
                   "category": "cultural",
                   "coords": [
                         23.915499,
@@ -2164,7 +2164,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Kannuksen kirkko",
-                  "text": "The wooden parish church of Kannus.",
+                  "text": "Wooden church from 1817 in Kannus.",
                   "category": "religious",
                   "coords": [
                         23.914347,
@@ -2221,7 +2221,7 @@ export const finlandLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Ruokojärven uimaranta",
-                  "text": "Ruokojärven uimaranta ist ein Strand in der Nähe von Kankaanpaa.",
+                  "text": "Strand am Ruokojärvi-See in Kankaanpää nahe der Kirche.",
                   "category": "recreational",
                   "coords": [
                         22.389984,
@@ -2230,7 +2230,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Kankaanpään helluntaiseurakunta",
-                  "text": "Pfingstkirche in Kankaanpää.",
+                  "text": "Eine Pfingstgemeinde in Kankaanpää.",
                   "category": "religious",
                   "coords": [
                         22.386776,
@@ -2239,7 +2239,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Kankaanpään kirkko",
-                  "text": "Historisches Kirchengebäude in Kankaanpää.",
+                  "text": "Die Hauptsteinkirche von Kankaanpää.",
                   "category": "religious",
                   "coords": [
                         22.402401,
@@ -2250,7 +2250,7 @@ export const finlandLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Ruokojärven uimaranta",
-                  "text": "A Ruokojärven uimaranta egy strand Kankaanpaa közelében.",
+                  "text": "Ruokojärvi-tó partján, Kankaanpääban a templom közelében.",
                   "category": "recreational",
                   "coords": [
                         22.389984,
@@ -2259,7 +2259,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Kankaanpään helluntaiseurakunta",
-                  "text": "Pünkösdi templom Kankaanpääben.",
+                  "text": "Pünkösdi gyülekezet Kankaanpääban.",
                   "category": "religious",
                   "coords": [
                         22.386776,
@@ -2268,7 +2268,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Kankaanpään kirkko",
-                  "text": "Történelmi templomépület Kankaanpääben.",
+                  "text": "Kankaanpää fő kőtemploma.",
                   "category": "religious",
                   "coords": [
                         22.402401,
@@ -2279,7 +2279,7 @@ export const finlandLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Ruokojärven uimaranta",
-                  "text": "Ruokojärven uimaranta este o plajă lângă Kankaanpaa.",
+                  "text": "Plajă pe lacul Ruokojärvi în Kankaanpää, lângă biserică.",
                   "category": "recreational",
                   "coords": [
                         22.389984,
@@ -2288,7 +2288,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Kankaanpään helluntaiseurakunta",
-                  "text": "Biserică penticostală în Kankaanpää.",
+                  "text": "O congregație penticostală în Kankaanpää.",
                   "category": "religious",
                   "coords": [
                         22.386776,
@@ -2297,7 +2297,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Kankaanpään kirkko",
-                  "text": "Clădire istorică de biserică în Kankaanpää.",
+                  "text": "Biserica principală de piatră din Kankaanpää.",
                   "category": "religious",
                   "coords": [
                         22.402401,
@@ -2308,7 +2308,7 @@ export const finlandLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Ruokojärven uimaranta",
-                  "text": "Ruokojärven uimaranta is a beach near Kankaanpaa.",
+                  "text": "Beach on Lake Ruokojärvi in Kankaanpää near the church.",
                   "category": "recreational",
                   "coords": [
                         22.389984,
@@ -2317,7 +2317,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Kankaanpään helluntaiseurakunta",
-                  "text": "Pentecostal church located in Kankaanpää.",
+                  "text": "A Pentecostal congregation in Kankaanpää.",
                   "category": "religious",
                   "coords": [
                         22.386776,
@@ -2326,7 +2326,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Kankaanpään kirkko",
-                  "text": "Historical church building in Kankaanpää.",
+                  "text": "The main stone church of Kankaanpää.",
                   "category": "religious",
                   "coords": [
                         22.402401,
@@ -2383,7 +2383,7 @@ export const finlandLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Peurajärven uimaranta",
-                  "text": "Peurajärvi-Badestrand nahe der Kirche von Karijoki.",
+                  "text": "Der Peurajärven uimaranta ist ein Sandstrand am Peurajärvi-See, beliebt zum Schwimmen mit einem nahegelegenen Campingplatz.",
                   "category": "recreational",
                   "coords": [
                         21.760473,
@@ -2412,7 +2412,7 @@ export const finlandLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Peurajärven uimaranta",
-                  "text": "Peurajärvi strand a Karijoki templom közelében.",
+                  "text": "A Peurajärven uimaranta egy homokos strand a Peurajärvi-tónál, népszerű fürdőzésre, a közelben nyári kempinggel.",
                   "category": "recreational",
                   "coords": [
                         21.760473,
@@ -2441,7 +2441,7 @@ export const finlandLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Peurajärven uimaranta",
-                  "text": "Plaja Peurajärvi lângă Biserica Karijoki.",
+                  "text": "Peurajärven uimaranta este o plajă nisipoasă pe lacul Peurajärvi, populară pentru înot, cu o zonă de camping de vară în apropiere.",
                   "category": "recreational",
                   "coords": [
                         21.760473,
@@ -2470,7 +2470,7 @@ export const finlandLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Peurajärven uimaranta",
-                  "text": "Peurajärvi beach near Karijoki Church.",
+                  "text": "Peurajärven uimaranta is a sandy beach on Lake Peurajärvi, popular for swimming, with a summer camping area nearby.",
                   "category": "recreational",
                   "coords": [
                         21.760473,
@@ -2590,7 +2590,7 @@ export const finlandLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Yleinen uimaranta",
-                  "text": "Dies ist ein öffentlicher Strand in der Nähe der Kirche in Karstula.",
+                  "text": "Öffentlicher Strand in Karstula nahe der Kirche.",
                   "category": "recreational",
                   "coords": [
                         24.799896,
@@ -2599,7 +2599,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Lossin ranta",
-                  "text": "Lossin ranta ist ein Strand in der Nähe von Karstula.",
+                  "text": "Strand in der Bucht Lossin in Karstula nahe der Kirche.",
                   "category": "recreational",
                   "coords": [
                         24.784189,
@@ -2608,7 +2608,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Heikkilänmäen uimaranta",
-                  "text": "Heikkilänmäen uimaranta liegt bei der Kirche von Karstula.",
+                  "text": "Strand am Hügel Heikkilänmäki in Karstula nahe der Kirche.",
                   "category": "recreational",
                   "coords": [
                         24.823827,
@@ -2664,7 +2664,7 @@ export const finlandLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Yleinen uimaranta",
-                  "text": "Ez egy nyilvános strand a karstulai templom közelében.",
+                  "text": "Nyilvános strand Karstulában a templom közelében.",
                   "category": "recreational",
                   "coords": [
                         24.799896,
@@ -2673,7 +2673,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Lossin ranta",
-                  "text": "A Lossin ranta egy strand Karstula közelében.",
+                  "text": "Lossin-öbölben, Karstulában a templom közelében.",
                   "category": "recreational",
                   "coords": [
                         24.784189,
@@ -2682,7 +2682,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Heikkilänmäen uimaranta",
-                  "text": "A Heikkilänmäen uimaranta a karstulai templom közelében található.",
+                  "text": "Heikkilänmäki-dombnál, Karstulában a templom közelében.",
                   "category": "recreational",
                   "coords": [
                         24.823827,
@@ -2738,7 +2738,7 @@ export const finlandLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Yleinen uimaranta",
-                  "text": "Aceasta este o plajă publică situată în apropierea bisericii din Karstula.",
+                  "text": "Plajă publică în Karstula, lângă biserică.",
                   "category": "recreational",
                   "coords": [
                         24.799896,
@@ -2747,7 +2747,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Lossin ranta",
-                  "text": "Lossin ranta este o plajă lângă Karstula.",
+                  "text": "Plajă în golful Lossin în Karstula, lângă biserică.",
                   "category": "recreational",
                   "coords": [
                         24.784189,
@@ -2756,7 +2756,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Heikkilänmäen uimaranta",
-                  "text": "Heikkilänmäen uimaranta este situată lângă biserica din Karstula.",
+                  "text": "Plajă la dealul Heikkilänmäki în Karstula, lângă biserică.",
                   "category": "recreational",
                   "coords": [
                         24.823827,
@@ -2812,7 +2812,7 @@ export const finlandLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Yleinen uimaranta",
-                  "text": "This is a public beach near the church in Karstula.",
+                  "text": "Public beach in Karstula near the church.",
                   "category": "recreational",
                   "coords": [
                         24.799896,
@@ -2821,7 +2821,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Lossin ranta",
-                  "text": "Lossin ranta is a beach near Karstula.",
+                  "text": "Beach in Lossin bay in Karstula near the church.",
                   "category": "recreational",
                   "coords": [
                         24.784189,
@@ -2830,7 +2830,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Heikkilänmäen uimaranta",
-                  "text": "Heikkilänmäen uimaranta is located near the Karstula Church.",
+                  "text": "Beach at Heikkilänmäki hill in Karstula near the church.",
                   "category": "recreational",
                   "coords": [
                         24.823827,
@@ -2932,7 +2932,7 @@ export const finlandLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Syvänniemen uimaranta",
-                  "text": "Syvänniemi-Badestrand nahe der Kirche von Karttula.",
+                  "text": "Strand an der Spitze Syvänniemi in Karttula nahe der Kirche.",
                   "category": "recreational",
                   "coords": [
                         27.155018,
@@ -2952,7 +2952,7 @@ export const finlandLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Syvänniemen uimaranta",
-                  "text": "Syvänniemi strand a Karttula templom közelében.",
+                  "text": "Syvänniemi-foknál, Karttulában a templom közelében.",
                   "category": "recreational",
                   "coords": [
                         27.155018,
@@ -2972,7 +2972,7 @@ export const finlandLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Syvänniemen uimaranta",
-                  "text": "Plaja Syvänniemi lângă Biserica Karttula.",
+                  "text": "Plajă la capul Syvänniemi în Karttula, lângă biserică.",
                   "category": "recreational",
                   "coords": [
                         27.155018,
@@ -2992,7 +2992,7 @@ export const finlandLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Syvänniemen uimaranta",
-                  "text": "Syvänniemi beach near Karttula Church.",
+                  "text": "Beach at Syvänniemi point in Karttula near the church.",
                   "category": "recreational",
                   "coords": [
                         27.155018,
@@ -3274,7 +3274,7 @@ export const finlandLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Kellokosken uimaranta",
-                  "text": "Kellokosken Uimaranta liegt in der Nähe der Kirche in Kellokoski.",
+                  "text": "Strand an den Kellokoski-Stromschnellen nahe der Kellokoski-Kirche.",
                   "category": "recreational",
                   "coords": [
                         25.103245,
@@ -3285,7 +3285,7 @@ export const finlandLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Kellokosken uimaranta",
-                  "text": "A Kellokosken Uimaranta a kellokoski templom közelében található.",
+                  "text": "Kellokoski-zúgónál, a Kellokoski templom közelében.",
                   "category": "recreational",
                   "coords": [
                         25.103245,
@@ -3296,7 +3296,7 @@ export const finlandLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Kellokosken uimaranta",
-                  "text": "Kellokosken Uimaranta este situată în apropierea bisericii din Kellokoski.",
+                  "text": "Plajă la repezirile Kellokoski, lângă biserica din Kellokoski.",
                   "category": "recreational",
                   "coords": [
                         25.103245,
@@ -3307,7 +3307,7 @@ export const finlandLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Kellokosken uimaranta",
-                  "text": "Kellokosken Uimaranta is located near the church in Kellokoski.",
+                  "text": "Beach at the Kellokoski rapids near Kellokoski Church.",
                   "category": "recreational",
                   "coords": [
                         25.103245,
@@ -3643,7 +3643,7 @@ export const finlandLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Kotaluodon uimaranta",
-                  "text": "Kotaluodon uimaranta liegt bei der Kirche von Kerimäki.",
+                  "text": "Strand auf der Insel Kotaluoto in Kerimäki nahe der Kirche.",
                   "category": "recreational",
                   "coords": [
                         29.309031,
@@ -3652,7 +3652,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Kirkkorannan uimaranta",
-                  "text": "Ein lokaler Strand am Ufer des Sees in Kerimäki.",
+                  "text": "Strand am Kirchstrand in Kerimäki nahe der Holzkirche.",
                   "category": "recreational",
                   "coords": [
                         29.287905,
@@ -3661,7 +3661,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Kerimäen kotiseutumuseo",
-                  "text": "Ein Museum, das der lokalen Geschichte und Kultur von Kerimäki gewidmet ist.",
+                  "text": "Heimatmuseum von Kerimäki in einem Gebäude neben der größten Holzkirche der Welt.",
                   "category": "museum",
                   "coords": [
                         29.284093,
@@ -3681,7 +3681,7 @@ export const finlandLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Kotaluodon uimaranta",
-                  "text": "Kotaluodon uimaranta a Kerimäki templom közelében található.",
+                  "text": "Kotaluoto-szigeten, Kerimäkiben a templom közelében.",
                   "category": "recreational",
                   "coords": [
                         29.309031,
@@ -3690,7 +3690,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Kirkkorannan uimaranta",
-                  "text": "Helyi strand a tó partján Kerimäki közelében.",
+                  "text": "Templomparti strand Kerimäkiben a fatemplom közelében.",
                   "category": "recreational",
                   "coords": [
                         29.287905,
@@ -3699,7 +3699,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Kerimäen kotiseutumuseo",
-                  "text": "Kerimäki helyi történelmét és kultúráját bemutató múzeum.",
+                  "text": "Kerimäki helytörténeti múzeuma egy épületben a világ legnagyobb fatemploma mellett.",
                   "category": "museum",
                   "coords": [
                         29.284093,
@@ -3719,7 +3719,7 @@ export const finlandLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Kotaluodon uimaranta",
-                  "text": "Kotaluodon uimaranta este situată lângă Biserica din Kerimäki.",
+                  "text": "Plajă pe insula Kotaluoto în Kerimäki, lângă biserică.",
                   "category": "recreational",
                   "coords": [
                         29.309031,
@@ -3728,7 +3728,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Kirkkorannan uimaranta",
-                  "text": "O plajă locală pe malul lacului în Kerimäki.",
+                  "text": "Plajă la malul bisericii în Kerimäki, lângă biserica de lemn.",
                   "category": "recreational",
                   "coords": [
                         29.287905,
@@ -3737,7 +3737,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Kerimäen kotiseutumuseo",
-                  "text": "Un muzeu dedicat istoriei și culturii locale din Kerimäki.",
+                  "text": "Muzeul local din Kerimäki într-o clădire lângă cea mai mare biserică de lemn din lume.",
                   "category": "museum",
                   "coords": [
                         29.284093,
@@ -3757,7 +3757,7 @@ export const finlandLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Kotaluodon uimaranta",
-                  "text": "Kotaluodon uimaranta is located near the Kerimäki Church.",
+                  "text": "Beach on Kotaluoto island in Kerimäki near the church.",
                   "category": "recreational",
                   "coords": [
                         29.309031,
@@ -3766,7 +3766,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Kirkkorannan uimaranta",
-                  "text": "A local beach on the lakeshore in Kerimäki.",
+                  "text": "Beach at the church shore in Kerimäki near the wooden church.",
                   "category": "recreational",
                   "coords": [
                         29.287905,
@@ -3775,7 +3775,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Kerimaki Local Museum",
-                  "text": "A museum dedicated to the local history and culture of Kerimäki.",
+                  "text": "Kerimäki Local Museum in a building next to the world's largest wooden church.",
                   "category": "museum",
                   "coords": [
                         29.284093,
@@ -4183,7 +4183,7 @@ export const finlandLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Viikinhovin ranta",
-                  "text": "Ein Strand in der Nähe der Kirche von Keuruu.",
+                  "text": "Badestrand am Viikinhovi nahe der Keuruu-Kirche.",
                   "category": "recreational",
                   "coords": [
                         24.669596,
@@ -4266,7 +4266,7 @@ export const finlandLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Viikinhovin ranta",
-                  "text": "Strand a keuruui templom közelében.",
+                  "text": "Strand a Viikinhovi közelében, a Keuruu templom mellett.",
                   "category": "recreational",
                   "coords": [
                         24.669596,
@@ -4349,7 +4349,7 @@ export const finlandLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Viikinhovin ranta",
-                  "text": "O plajă lângă biserica din Keuruu.",
+                  "text": "Plajă la Viikinhovi, lângă Biserica Keuruu.",
                   "category": "recreational",
                   "coords": [
                         24.669596,
@@ -4432,7 +4432,7 @@ export const finlandLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Viikinhovin ranta",
-                  "text": "A beach near the church in Keuruu.",
+                  "text": "Beach at Viikinhovi near Keuruu Church.",
                   "category": "recreational",
                   "coords": [
                         24.669596,
@@ -4651,7 +4651,7 @@ export const finlandLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Jäälin monttu",
-                  "text": "Jäälin Monttu ist ein Badeplatz in der Nähe der Kirche in Kiiminki.",
+                  "text": "Badegrube in Jääli nahe der Kiiminki-Kirche.",
                   "category": "recreational",
                   "coords": [
                         25.682029,
@@ -4660,7 +4660,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Jäälin uimaranta",
-                  "text": "Jäälin Strand befindet sich nahe der Kirche von Kiiminki.",
+                  "text": "Sandstrand in Jääli nahe der Kiiminki-Kirche.",
                   "category": "recreational",
                   "coords": [
                         25.690604,
@@ -4669,7 +4669,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "L.S.alue",
-                  "text": "Ein geschütztes Naturgebiet in der Nähe von Kiiminki.",
+                  "text": "Naturschutzgebiet ‚L.S.‘ nahe der Kiiminki-Kirche.",
                   "category": "natural",
                   "coords": [
                         25.799468,
@@ -4678,7 +4678,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Vehmaansuo",
-                  "text": "Ein Moorgebiet, das für seine Artenvielfalt erhalten wird.",
+                  "text": "Vehmaansuo-Moor nahe der Kiiminki-Kirche.",
                   "category": "natural",
                   "coords": [
                         25.820749,
@@ -4687,7 +4687,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Kiimingin kirkko",
-                  "text": "Eine historische Holzkirche in der Gemeinde Kiiminki.",
+                  "text": "Eine Holzkirche aus dem Jahr 1760 in Kiiminki.",
                   "category": "religious",
                   "coords": [
                         25.758445,
@@ -4698,7 +4698,7 @@ export const finlandLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Jäälin monttu",
-                  "text": "A Jäälin Monttu egy fürdőhely a kiiminki templom közelében.",
+                  "text": "Strandgödör Jääliben, a Kiiminki templom közelében.",
                   "category": "recreational",
                   "coords": [
                         25.682029,
@@ -4707,7 +4707,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Jäälin uimaranta",
-                  "text": "Jäälin strandja a Kiiminki-templom közelében található.",
+                  "text": "Homokos strand Jääliben, a Kiiminki templom mellett.",
                   "category": "recreational",
                   "coords": [
                         25.690604,
@@ -4716,7 +4716,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "L.S.alue",
-                  "text": "Védett természeti terület Kiiminki közelében.",
+                  "text": "L.S. természetvédelmi terület a Kiiminki templom közelében.",
                   "category": "natural",
                   "coords": [
                         25.799468,
@@ -4725,7 +4725,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Vehmaansuo",
-                  "text": "Biológiai sokfélesége miatt megőrzött mocsaras terület.",
+                  "text": "Vehmaansuo láp a Kiiminki templom közelében.",
                   "category": "natural",
                   "coords": [
                         25.820749,
@@ -4734,7 +4734,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Kiimingin kirkko",
-                  "text": "Történelmi fatemplom Kiiminki községben.",
+                  "text": "Fából készült templom 1760-ból Kiimingissä.",
                   "category": "religious",
                   "coords": [
                         25.758445,
@@ -4745,7 +4745,7 @@ export const finlandLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Jäälin monttu",
-                  "text": "Jäälin Monttu este un loc de scăldat situat în apropierea bisericii din Kiiminki.",
+                  "text": "Groapă de înot în Jääli, lângă Biserica Kiiminki.",
                   "category": "recreational",
                   "coords": [
                         25.682029,
@@ -4754,7 +4754,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Jäälin uimaranta",
-                  "text": "Plaja Jäälin este situată lângă biserica din Kiiminki.",
+                  "text": "Plajă nisipoasă în Jääli, lângă Biserica Kiiminki.",
                   "category": "recreational",
                   "coords": [
                         25.690604,
@@ -4763,7 +4763,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "L.S.alue",
-                  "text": "O zonă naturală protejată situată lângă Kiiminki.",
+                  "text": "Zona naturală protejată L.S. lângă Biserica Kiiminki.",
                   "category": "natural",
                   "coords": [
                         25.799468,
@@ -4772,7 +4772,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Vehmaansuo",
-                  "text": "O zonă de mlaștină conservată pentru biodiversitatea sa.",
+                  "text": "Mlaștina Vehmaansuo lângă Biserica Kiiminki.",
                   "category": "natural",
                   "coords": [
                         25.820749,
@@ -4781,7 +4781,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Kiimingin kirkko",
-                  "text": "O biserică istorică din lemn în localitatea Kiiminki.",
+                  "text": "O biserică de lemn construită în 1760 în Kiiminki.",
                   "category": "religious",
                   "coords": [
                         25.758445,
@@ -4792,7 +4792,7 @@ export const finlandLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Jäälin monttu",
-                  "text": "Jäälin Monttu is a bathing place near Kiiminki Church.",
+                  "text": "Swimming pit in Jääli near Kiiminki Church.",
                   "category": "recreational",
                   "coords": [
                         25.682029,
@@ -4801,7 +4801,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Jäälin uimaranta",
-                  "text": "Jäälin beach is located near Kiiminki Church.",
+                  "text": "Sandy beach in Jääli near Kiiminki Church.",
                   "category": "recreational",
                   "coords": [
                         25.690604,
@@ -4810,7 +4810,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "L.S.alue",
-                  "text": "A protected natural area located near Kiiminki.",
+                  "text": "L.S. nature reserve near Kiiminki Church.",
                   "category": "natural",
                   "coords": [
                         25.799468,
@@ -4819,7 +4819,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Vehmaansuo",
-                  "text": "A marshland area preserved for its biodiversity.",
+                  "text": "Vehmaansuo bog near Kiiminki Church.",
                   "category": "natural",
                   "coords": [
                         25.820749,
@@ -4828,7 +4828,7 @@ export const finlandLandmarksV2: POI[] = [
             },
             {
                   "name": "Kiimingin kirkko",
-                  "text": "A historic wooden church in the Kiiminki community.",
+                  "text": "A wooden church built in 1760 in Kiiminki.",
                   "category": "religious",
                   "coords": [
                         25.758445,

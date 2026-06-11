@@ -108,7 +108,52 @@ export const poiExtraEgyptNatureV2: POI[] = [
       fr: ["Superficie totale d'environ 438 000 kilomètres carrés", "Profondeur maximale atteignant 2 211 mètres", "La salinité est d'environ 40 pour mille", "L'expansion tectonique est de 1 à 2 cm par an", "Plus de 1 000 espèces de poissons et 200 espèces de coraux", "Importance stratégique depuis l'ouverture du canal en 1869"],
     }, image: "/poi-images/rotes-meer-sea-nature-v2.webp"},
   {
-    id: "sinai-gebirge-mountain-nature-v2",
+    id: "sinai-gebirge-mountain-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Katharinenberg",
+                  "text": "Der höchste Berg Ägyptens, auf dessen Gipfel Mönche einst die Gebeine der Heiligen Katharina entdeckten.",
+                  "category": "natural",
+                  "coords": [
+                        33.955356,
+                        28.509433
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Catherine",
+                  "text": "Egyiptom legmagasabb hegye, amelynek csúcsán a szerzetesek egykor felfedezték Szent Katalin ereklyéit.",
+                  "category": "natural",
+                  "coords": [
+                        33.955356,
+                        28.509433
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Catherine",
+                  "text": "Cel mai înalt munte din Egipt, pe al cărui vârf călugării au descoperit odinioară moaștele Sfintei Ecaterina.",
+                  "category": "natural",
+                  "coords": [
+                        33.955356,
+                        28.509433
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Catherine",
+                  "text": "The highest peak in Egypt, where monks once discovered the remains of Saint Catherine.",
+                  "category": "natural",
+                  "coords": [
+                        33.955356,
+                        28.509433
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EG-SIN",
     coords: [33.95, 28.50],
@@ -668,7 +713,88 @@ export const poiExtraEgyptNatureV2: POI[] = [
       fr: ["La zone protégée a été officiellement établie en 1989", "Elle abrite les seules cascades de toute l'Égypte", "La dépression se situe jusqu'à 43 mètres sous le niveau de la mer", "Plus de 170 espèces d'oiseaux différentes y ont été recensées", "Le lac supérieur fait environ 65 km², le lac inférieur environ 110 km²", "La température de l'eau reste assez stable toute l'année"],
     }, image: "/poi-images/wadi-el-rayan-lake-nature-v2.webp"},
   {
-    id: "gebels-alk-mountain-nature-v2",
+    id: "gebels-alk-mountain-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Shaykh Awwad",
+                  "text": "Al Shaykh Awwad ist eine islamische Stätte inmitten der zerklüfteten Berglandschaft der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        33.890436,
+                        28.640852
+                  ]
+            },
+            {
+                  "name": "Sheikh Ahmed Tomb",
+                  "text": "Das Grab des Sheikh Ahmed ist eine verehrte islamische Ruhestätte im bergigen Gelände.",
+                  "category": "landmark",
+                  "coords": [
+                        33.887696,
+                        28.615492
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Shaykh Awwad",
+                  "text": "Az Al Shaykh Awwad egy iszlám vallási helyszín, amely a régió zord hegyvidéki tájain fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        33.890436,
+                        28.640852
+                  ]
+            },
+            {
+                  "name": "Sheikh Ahmed Tomb",
+                  "text": "A Sheikh Ahmed sírhely egy tisztelt iszlám nyughely a hegyvidéki terepen.",
+                  "category": "landmark",
+                  "coords": [
+                        33.887696,
+                        28.615492
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Shaykh Awwad",
+                  "text": "Al Shaykh Awwad este un sit islamic situat printre peisajele montane accidentate ale regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        33.890436,
+                        28.640852
+                  ]
+            },
+            {
+                  "name": "Sheikh Ahmed Tomb",
+                  "text": "Mormântul Șeicului Ahmed este un loc de odihnă islamic venerat, amplasat în terenul muntos.",
+                  "category": "landmark",
+                  "coords": [
+                        33.887696,
+                        28.615492
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Shaykh Awwad",
+                  "text": "Al Shaykh Awwad is an Islamic site situated among the rugged mountain landscapes of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        33.890436,
+                        28.640852
+                  ]
+            },
+            {
+                  "name": "Sheikh Ahmed Tomb",
+                  "text": "The Sheikh Ahmed Tomb is a revered Islamic resting place nestled in the mountainous terrain.",
+                  "category": "landmark",
+                  "coords": [
+                        33.887696,
+                        28.615492
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EG-SIN",
     coords: [33.90, 28.60],
@@ -948,7 +1074,376 @@ export const poiExtraEgyptNatureV2: POI[] = [
       fr: ["Située au centre-ville du Caire, sur le Nil.", "Abrite la tour du Caire de 187 m (ouverte en 1961).", "Aménagée à l'origine sous le khédive Ismaïl au XIXe siècle.", "Siège de l'Opéra du Caire et de nombreuses ambassades.", "Reliée par le pont historique Qasr el-Nil.", "Le nom 'Gezira' signifie simplement 'île' en arabe."],
     }, image: "/poi-images/gezirah-island-nature-v2.webp"},
   {
-    id: "rotem-sea-coral-sea-nature-v2",
+    id: "rotem-sea-coral-sea-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Beach",
+                  "text": "Ein ruhiger Strandabschnitt am Roten Meer, bekannt für seine klaren Sichtverhältnisse und Korallenvorkommen.",
+                  "category": "recreational",
+                  "coords": [
+                        34.439972,
+                        28.020523
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Ein Freilichttheater in einem Resort, in dem abends kulturelle Vorführungen und Shows stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        34.422166,
+                        27.973673
+                  ]
+            },
+            {
+                  "name": "Thomas reef",
+                  "text": "Ein berühmtes Korallenriff in der Straße von Tiran, bekannt für seine tiefe Unterwasser-Schlucht.",
+                  "category": "landmark",
+                  "coords": [
+                        34.461481,
+                        27.992166
+                  ]
+            },
+            {
+                  "name": "Louilla",
+                  "text": "Eine Küstenattraktion am Roten Meer, die oft als Ausgangspunkt für Bootsausflüge zu den Riffen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        34.453501,
+                        27.98956
+                  ]
+            },
+            {
+                  "name": "Gordon reef",
+                  "text": "Ein beliebtes Tauchziel, an dem das Wrack des Schiffes Loullia auf dem flachen Riffplateau liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.453597,
+                        27.984875
+                  ]
+            },
+            {
+                  "name": "Jackson reef",
+                  "text": "Das nördlichste Riff in der Straße von Tiran, bekannt für das Wrack der Lara und Hammerhaie.",
+                  "category": "landmark",
+                  "coords": [
+                        34.472557,
+                        28.005967
+                  ]
+            },
+            {
+                  "name": "Aquapark",
+                  "text": "Ein familienfreundlicher Wasserpark mit verschiedenen Pools und Rutschen für alle Altersgruppen.",
+                  "category": "recreational",
+                  "coords": [
+                        34.416743,
+                        27.968466
+                  ]
+            },
+            {
+                  "name": "Amphi-Theatre",
+                  "text": "Eine Bühne unter freiem Himmel, die für Unterhaltungsprogramme und Live-Events in der Ferienanlage genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        34.43708,
+                        28.020105
+                  ]
+            },
+            {
+                  "name": "SUNRISE Remal Beach Resort",
+                  "text": "Ein modernes Strandhotel, das einen Panoramablick auf die Insel Tiran und das azurblaue Wasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        34.415757,
+                        27.964902
+                  ]
+            },
+            {
+                  "name": "Jacuzzi pool",
+                  "text": "Ein beheiztes Entspannungsbecken mit Massagedüsen, das Teil der Spa-Einrichtungen des Resorts ist.",
+                  "category": "natural",
+                  "coords": [
+                        34.438926,
+                        28.025289
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Beach",
+                  "text": "Nyugodt tengerparti szakasz a Vörös-tengernél, amely tiszta látási viszonyairól és koralljairól ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        34.439972,
+                        28.020523
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Egy üdülőhely szabadtéri színháza, ahol esténként kulturális előadásokat és műsorokat tartanak.",
+                  "category": "cultural",
+                  "coords": [
+                        34.422166,
+                        27.973673
+                  ]
+            },
+            {
+                  "name": "Thomas reef",
+                  "text": "Híres korallzátony a Tiráni-szorosban, amely mély víz alatti kanyonjáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        34.461481,
+                        27.992166
+                  ]
+            },
+            {
+                  "name": "Louilla",
+                  "text": "Vörös-tengeri parti látványosság, amely gyakran a zátonyokhoz induló hajókirándulások kiindulópontja.",
+                  "category": "landmark",
+                  "coords": [
+                        34.453501,
+                        27.98956
+                  ]
+            },
+            {
+                  "name": "Gordon reef",
+                  "text": "Népszerű merülőhely, ahol a Loullia hajó roncsa fekszik a sekély zátonyplatón.",
+                  "category": "landmark",
+                  "coords": [
+                        34.453597,
+                        27.984875
+                  ]
+            },
+            {
+                  "name": "Jackson reef",
+                  "text": "A Tiráni-szoros legészakibb zátonya, amely a Lara roncsáról és a pörölycápákról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        34.472557,
+                        28.005967
+                  ]
+            },
+            {
+                  "name": "Aquapark",
+                  "text": "Családbarát vízi park különféle medencékkel és csúszdákkal minden korosztály számára.",
+                  "category": "recreational",
+                  "coords": [
+                        34.416743,
+                        27.968466
+                  ]
+            },
+            {
+                  "name": "Amphi-Theatre",
+                  "text": "Szabadtéri színpad, amelyet szórakoztató programokra és élő eseményekre használnak az üdülőben.",
+                  "category": "cultural",
+                  "coords": [
+                        34.43708,
+                        28.020105
+                  ]
+            },
+            {
+                  "name": "SUNRISE Remal Beach Resort",
+                  "text": "Modern tengerparti szálloda, amely panorámás kilátást nyújt a Tirán-szigetre és az azúrkék vízre.",
+                  "category": "recreational",
+                  "coords": [
+                        34.415757,
+                        27.964902
+                  ]
+            },
+            {
+                  "name": "Jacuzzi pool",
+                  "text": "Masszázsfúvókákkal felszerelt fűtött pihenőmedence, amely az üdülőhely wellness-részlegének része.",
+                  "category": "natural",
+                  "coords": [
+                        34.438926,
+                        28.025289
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Beach",
+                  "text": "O porțiune de plajă liniștită la Marea Roșie, cunoscută pentru vizibilitatea clară a apei și corali.",
+                  "category": "recreational",
+                  "coords": [
+                        34.439972,
+                        28.020523
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Un teatru în aer liber dintr-o stațiune, unde au loc spectacole culturale și show-uri de seară.",
+                  "category": "cultural",
+                  "coords": [
+                        34.422166,
+                        27.973673
+                  ]
+            },
+            {
+                  "name": "Thomas reef",
+                  "text": "Un recif de corali faimos în strâmtoarea Tiran, cunoscut pentru canionul său subacvatic adânc.",
+                  "category": "landmark",
+                  "coords": [
+                        34.461481,
+                        27.992166
+                  ]
+            },
+            {
+                  "name": "Louilla",
+                  "text": "O atracție de coastă la Marea Roșie, care servește adesea ca punct de plecare pentru excursii cu barca la recife.",
+                  "category": "landmark",
+                  "coords": [
+                        34.453501,
+                        27.98956
+                  ]
+            },
+            {
+                  "name": "Gordon reef",
+                  "text": "O destinație de scufundări populară, unde epava navei Loullia se află pe platoul de recif puțin adânc.",
+                  "category": "landmark",
+                  "coords": [
+                        34.453597,
+                        27.984875
+                  ]
+            },
+            {
+                  "name": "Jackson reef",
+                  "text": "Cel mai nordic recif din strâmtoarea Tiran, cunoscut pentru epava Lara și rechinii ciocan.",
+                  "category": "landmark",
+                  "coords": [
+                        34.472557,
+                        28.005967
+                  ]
+            },
+            {
+                  "name": "Aquapark",
+                  "text": "Un parc acvatic potrivit pentru familii, cu diverse piscine și tobogane pentru toate vârstele.",
+                  "category": "recreational",
+                  "coords": [
+                        34.416743,
+                        27.968466
+                  ]
+            },
+            {
+                  "name": "Amphi-Theatre",
+                  "text": "O scenă în aer liber utilizată pentru programe de divertisment și evenimente live în complexul turistic.",
+                  "category": "cultural",
+                  "coords": [
+                        34.43708,
+                        28.020105
+                  ]
+            },
+            {
+                  "name": "SUNRISE Remal Beach Resort",
+                  "text": "Un hotel modern la plajă, care oferă o vedere panoramică asupra insulei Tiran și a apelor azurii.",
+                  "category": "recreational",
+                  "coords": [
+                        34.415757,
+                        27.964902
+                  ]
+            },
+            {
+                  "name": "Jacuzzi pool",
+                  "text": "O piscină de relaxare încălzită, cu jeturi de masaj, parte din facilitățile spa ale stațiunii.",
+                  "category": "natural",
+                  "coords": [
+                        34.438926,
+                        28.025289
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Beach",
+                  "text": "A calm beach section on the Red Sea, known for its clear visibility and coral formations.",
+                  "category": "recreational",
+                  "coords": [
+                        34.439972,
+                        28.020523
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "An open-air theatre within a resort, hosting cultural performances and evening shows.",
+                  "category": "cultural",
+                  "coords": [
+                        34.422166,
+                        27.973673
+                  ]
+            },
+            {
+                  "name": "Thomas reef",
+                  "text": "A famous coral reef in the Straits of Tiran, known for its deep underwater canyon.",
+                  "category": "landmark",
+                  "coords": [
+                        34.461481,
+                        27.992166
+                  ]
+            },
+            {
+                  "name": "Louilla",
+                  "text": "A coastal attraction on the Red Sea, often serving as a starting point for boat trips to the reefs.",
+                  "category": "landmark",
+                  "coords": [
+                        34.453501,
+                        27.98956
+                  ]
+            },
+            {
+                  "name": "Gordon reef",
+                  "text": "A popular diving destination where the wreck of the ship Loullia lies on the shallow reef plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        34.453597,
+                        27.984875
+                  ]
+            },
+            {
+                  "name": "Jackson reef",
+                  "text": "The northernmost reef in the Straits of Tiran, famous for the Lara wreck and hammerhead sharks.",
+                  "category": "landmark",
+                  "coords": [
+                        34.472557,
+                        28.005967
+                  ]
+            },
+            {
+                  "name": "Aquapark",
+                  "text": "A family-friendly water park with various pools and slides for all ages.",
+                  "category": "recreational",
+                  "coords": [
+                        34.416743,
+                        27.968466
+                  ]
+            },
+            {
+                  "name": "Amphi-Theatre",
+                  "text": "An outdoor stage used for entertainment programs and live events within the resort complex.",
+                  "category": "cultural",
+                  "coords": [
+                        34.43708,
+                        28.020105
+                  ]
+            },
+            {
+                  "name": "SUNRISE Remal Beach Resort",
+                  "text": "A modern beachfront hotel offering panoramic views of Tiran Island and the azure waters.",
+                  "category": "recreational",
+                  "coords": [
+                        34.415757,
+                        27.964902
+                  ]
+            },
+            {
+                  "name": "Jacuzzi pool",
+                  "text": "A heated relaxation pool with massage jets, part of the resort's spa facilities.",
+                  "category": "natural",
+                  "coords": [
+                        34.438926,
+                        28.025289
+                  ]
+            }
+      ]
+},
     type: "sea",
     parent: "EG-SIN",
     coords: [34.50, 28.00],

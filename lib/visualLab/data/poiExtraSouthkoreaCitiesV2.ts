@@ -7,7 +7,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Gocho-bong",
-                  "text": "Der Gocho-bong ist ein Gipfel in Hwaseong.",
+                  "text": "Gocho-bong, ein Berggipfel mit markantem felsigem Gipfel.",
                   "category": "natural",
                   "coords": [
                         126.810995,
@@ -16,7 +16,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Nurim Art Hall",
-                  "text": "Die Nurim Art Hall ist ein Kunstzentrum in Hwaseong.",
+                  "text": "Eine Kulturhalle in City mit Kunstausstellungen und Aufführungen.",
                   "category": "cultural",
                   "coords": [
                         126.828569,
@@ -27,7 +27,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Gocho-bong",
-                  "text": "A Gocho-bong egy hegycsúcs Hwaseong területén.",
+                  "text": "Gocho-bong, egy hegycsúcs jellegzetes sziklás csúccsal.",
                   "category": "natural",
                   "coords": [
                         126.810995,
@@ -36,7 +36,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Nurim Art Hall",
-                  "text": "A Nurim Art Hall egy művészeti központ Hwaseong városában.",
+                  "text": "Kulturterem City-ben, művészeti kiállításokkal és előadásokkal.",
                   "category": "cultural",
                   "coords": [
                         126.828569,
@@ -47,7 +47,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Gocho-bong",
-                  "text": "Gocho-bong este un vârf muntos în Hwaseong.",
+                  "text": "Gocho-bong, un vârf montan cu un vârf stâncos distinctiv.",
                   "category": "natural",
                   "coords": [
                         126.810995,
@@ -56,7 +56,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Nurim Art Hall",
-                  "text": "Nurim Art Hall este un centru de arte din Hwaseong.",
+                  "text": "O sală de artă în City, care găzduiește expoziții și spectacole.",
                   "category": "cultural",
                   "coords": [
                         126.828569,
@@ -67,7 +67,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Gocho-bong",
-                  "text": "Gocho-bong is a peak situated in Hwaseong.",
+                  "text": "Gocho-bong, a mountain peak with a distinctive rocky summit.",
                   "category": "natural",
                   "coords": [
                         126.810995,
@@ -76,7 +76,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Nurim Art Hall",
-                  "text": "Nurim Art Hall is an arts centre in Hwaseong.",
+                  "text": "A cultural hall in City hosting art exhibitions and performances.",
                   "category": "cultural",
                   "coords": [
                         126.828569,
@@ -136,7 +136,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Dasan Hall",
-                  "text": "다산홀 ist ein Theater in Namyangju.",
+                  "text": "Eine Veranstaltungshalle in City für Konzerte und Events.",
                   "category": "cultural",
                   "coords": [
                         127.216061,
@@ -147,7 +147,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Dasan Hall",
-                  "text": "A 다산홀 egy színház Namjangdzsu városában.",
+                  "text": "Előadóterem City-ben, koncertek és események számára.",
                   "category": "cultural",
                   "coords": [
                         127.216061,
@@ -158,7 +158,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Dasan Hall",
-                  "text": "다산홀 este un teatru situat în Namyangju.",
+                  "text": "O sală de spectacole în City, pentru concerte și evenimente.",
                   "category": "cultural",
                   "coords": [
                         127.216061,
@@ -169,7 +169,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Dasan Hall",
-                  "text": "다산홀 is a theatre situated in Namyangju.",
+                  "text": "A performance hall in City used for concerts and events.",
                   "category": "cultural",
                   "coords": [
                         127.216061,
@@ -225,7 +225,268 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     },
   },
   {
-    id: "uijeongbu-city-cities-v2",
+    id: "uijeongbu-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "SGI",
+                  "text": "Modernes Zentrum für buddhistische Studien und kulturelle Gemeinschaftsprogramme in Uijeongbu.",
+                  "category": "cultural",
+                  "coords": [
+                        127.060002,
+                        37.755
+                  ]
+            },
+            {
+                  "name": "Sanga Gallery",
+                  "text": "Kleiner Kunstraum mit wechselnden Ausstellungen zeitgenössischer Werke lokaler koreanischer Künstler.",
+                  "category": "cultural",
+                  "coords": [
+                        127.047999,
+                        37.736453
+                  ]
+            },
+            {
+                  "name": "Uijeongbujugongjutaek Exhibition Hall",
+                  "text": "Fachausstellung über die architektonische Entwicklung des sozialen Wohnungsbaus in Uijeongbu.",
+                  "category": "museum",
+                  "coords": [
+                        127.048453,
+                        37.71734
+                  ]
+            },
+            {
+                  "name": "Seokguram)",
+                  "text": "Kleine Bergeinsiedelei mit einer Gebetshalle, die direkt in eine natürliche Granitfelsnische gebaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        127.025138,
+                        37.721276
+                  ]
+            },
+            {
+                  "name": "Baekingul)",
+                  "text": "Eine natürliche Grotte in den Berghängen, die historisch als Ort der Ruhe und Reflexion diente.",
+                  "category": "landmark",
+                  "coords": [
+                        127.025118,
+                        37.726952
+                  ]
+            },
+            {
+                  "name": "Seonbi Gallery",
+                  "text": "Galerie, die dem traditionellen Lebensstil und der Kalligraphie der Joseon-Gelehrten gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        127.040856,
+                        37.750539
+                  ]
+            },
+            {
+                  "name": "Ga-neung Church",
+                  "text": "Christliche Kirche mit markanter Backsteinarchitektur und hohem Turm im Ganeung-Viertel.",
+                  "category": "landmark",
+                  "coords": [
+                        127.037542,
+                        37.751682
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "SGI",
+                  "text": "Modern központ buddhista tanulmányokhoz és közösségi kulturális programokhoz Uijeongbuban.",
+                  "category": "cultural",
+                  "coords": [
+                        127.060002,
+                        37.755
+                  ]
+            },
+            {
+                  "name": "Sanga Gallery",
+                  "text": "Kis művészeti tér helyi koreai művészek kortárs alkotásainak időszaki kiállításaival.",
+                  "category": "cultural",
+                  "coords": [
+                        127.047999,
+                        37.736453
+                  ]
+            },
+            {
+                  "name": "Uijeongbujugongjutaek Exhibition Hall",
+                  "text": "Szakkiállítás az uijeongbui állami lakótelepek építészeti fejlődéséről.",
+                  "category": "museum",
+                  "coords": [
+                        127.048453,
+                        37.71734
+                  ]
+            },
+            {
+                  "name": "Seokguram)",
+                  "text": "Kis hegyi remetelak egy természetes gránitsziklába épített imateremmel.",
+                  "category": "landmark",
+                  "coords": [
+                        127.025138,
+                        37.721276
+                  ]
+            },
+            {
+                  "name": "Baekingul)",
+                  "text": "Természetes barlang a hegyoldalban, amely történelmileg a csendes elvonulás helye volt.",
+                  "category": "landmark",
+                  "coords": [
+                        127.025118,
+                        37.726952
+                  ]
+            },
+            {
+                  "name": "Seonbi Gallery",
+                  "text": "A Joseon-kori tudósok hagyományos életmódjának és kalligráfiájának szentelt galéria.",
+                  "category": "cultural",
+                  "coords": [
+                        127.040856,
+                        37.750539
+                  ]
+            },
+            {
+                  "name": "Ga-neung Church",
+                  "text": "Keresztény templom jellegzetes téglaépítészettel és magas toronnyal a Ganeung negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        127.037542,
+                        37.751682
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "SGI",
+                  "text": "Instalație modernă utilizată pentru studii budiste și programe culturale comunitare în Uijeongbu.",
+                  "category": "cultural",
+                  "coords": [
+                        127.060002,
+                        37.755
+                  ]
+            },
+            {
+                  "name": "Sanga Gallery",
+                  "text": "Mic spațiu de artă care prezintă expoziții temporare ale artiștilor locali coreeni contemporani.",
+                  "category": "cultural",
+                  "coords": [
+                        127.047999,
+                        37.736453
+                  ]
+            },
+            {
+                  "name": "Uijeongbujugongjutaek Exhibition Hall",
+                  "text": "Sală specializată care documentează evoluția arhitecturală a locuințelor publice în Uijeongbu.",
+                  "category": "museum",
+                  "coords": [
+                        127.048453,
+                        37.71734
+                  ]
+            },
+            {
+                  "name": "Seokguram)",
+                  "text": "Mic schit montan cu o sală de rugăciune construită într-o nișă naturală de rocă de granit.",
+                  "category": "landmark",
+                  "coords": [
+                        127.025138,
+                        37.721276
+                  ]
+            },
+            {
+                  "name": "Baekingul)",
+                  "text": "O grotă naturală situată în versanții muntoși, folosită istoric ca loc de reflecție liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        127.025118,
+                        37.726952
+                  ]
+            },
+            {
+                  "name": "Seonbi Gallery",
+                  "text": "Galerie culturală dedicată stilului de viață tradițional și artei caligrafice a învățaților Joseon.",
+                  "category": "cultural",
+                  "coords": [
+                        127.040856,
+                        37.750539
+                  ]
+            },
+            {
+                  "name": "Ga-neung Church",
+                  "text": "Biserică creștină locală cu arhitectură distinctivă din cărămidă și turlă în cartierul Ganeung.",
+                  "category": "landmark",
+                  "coords": [
+                        127.037542,
+                        37.751682
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Korea SGI Uijeongbu Cultural Center",
+                  "text": "Contemporary facility used for Buddhist educational activities and community cultural programs.",
+                  "category": "cultural",
+                  "coords": [
+                        127.060002,
+                        37.755
+                  ]
+            },
+            {
+                  "name": "Sanga Gallery",
+                  "text": "Small art space showcasing rotating exhibitions of contemporary works by local Korean artists.",
+                  "category": "cultural",
+                  "coords": [
+                        127.047999,
+                        37.736453
+                  ]
+            },
+            {
+                  "name": "Uijeongbujugongjutaek Exhibition Hall",
+                  "text": "Specialized hall documenting the evolution of public housing design and urban living in the city.",
+                  "category": "museum",
+                  "coords": [
+                        127.048453,
+                        37.71734
+                  ]
+            },
+            {
+                  "name": "Seokguram",
+                  "text": "Small mountain hermitage featuring a prayer hall built into a natural granite rock formation.",
+                  "category": "landmark",
+                  "coords": [
+                        127.025138,
+                        37.721276
+                  ]
+            },
+            {
+                  "name": "Baekingul",
+                  "text": "A natural grotto located within the mountain ridges, historically used as a place of quiet reflection.",
+                  "category": "landmark",
+                  "coords": [
+                        127.025118,
+                        37.726952
+                  ]
+            },
+            {
+                  "name": "Seonbi Gallery",
+                  "text": "Cultural gallery dedicated to the traditional lifestyle and calligraphic art of Joseon scholars.",
+                  "category": "cultural",
+                  "coords": [
+                        127.040856,
+                        37.750539
+                  ]
+            },
+            {
+                  "name": "Ga-neung Church",
+                  "text": "Local Christian church serving the community with its distinctive red-brick architecture and steeple.",
+                  "category": "landmark",
+                  "coords": [
+                        127.037542,
+                        37.751682
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KR-41",
     coords: [127.0460, 37.7380],
@@ -277,7 +538,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Abraham Park Kenneth Vine Collection",
-                  "text": "Die Abraham Park Kenneth Vine Collection ist ein Museum in Gwangmyeong.",
+                  "text": "Museum in der Stadt, das die Kenneth-Vine-Sammlung von Kunst und Artefakten beherbergt.",
                   "category": "museum",
                   "coords": [
                         126.84495,
@@ -286,7 +547,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Remi Children's Theater",
-                  "text": "Das Remi Children's Theater ist ein Theater in Gwangmyeong.",
+                  "text": "Ein Kindertheater in City mit familienfreundlichen Aufführungen.",
                   "category": "cultural",
                   "coords": [
                         126.895674,
@@ -295,7 +556,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Culture Garden Art Hall",
-                  "text": "Die Culture Garden Art Hall ist ein Theater in Gwangmyeong.",
+                  "text": "Eine Kunsthalle in einem Kulturpark in City mit Ausstellungen.",
                   "category": "cultural",
                   "coords": [
                         126.895927,
@@ -304,7 +565,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Geumcheon Musical Center",
-                  "text": "Das Geumcheon Musical Center ist ein Theater in Gwangmyeong.",
+                  "text": "Ein Musikzentrum im Bezirk Geumcheon in City mit Konzerten.",
                   "category": "cultural",
                   "coords": [
                         126.894382,
@@ -313,7 +574,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Dream Tree Theater",
-                  "text": "Das Dream Tree Theater ist ein Theater in Gwangmyeong.",
+                  "text": "Ein kleines Theater in City namens Dream Tree Theater für intime Aufführungen.",
                   "category": "cultural",
                   "coords": [
                         126.88655,
@@ -322,7 +583,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Art Tree Theater",
-                  "text": "Das Art Tree Theater ist ein Theater in Gwangmyeong.",
+                  "text": "Ein Theater in City namens Art Tree Theater mit vielfältigen Kunstshows.",
                   "category": "cultural",
                   "coords": [
                         126.884002,
@@ -331,7 +592,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Garibong Video",
-                  "text": "Garibong Video ist ein Theater in Gwangmyeong.",
+                  "text": "Ein Kulturraum in City für Videokunst und Vorführungen.",
                   "category": "cultural",
                   "coords": [
                         126.890569,
@@ -340,7 +601,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Oryu Art Hall",
-                  "text": "Die Oryu Art Hall ist ein Theater in Gwangmyeong.",
+                  "text": "Eine Kunsthalle in City für verschiedene kulturelle Veranstaltungen.",
                   "category": "cultural",
                   "coords": [
                         126.847793,
@@ -349,7 +610,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gwangmyeong Anyangcheon Children's Water Park",
-                  "text": "Der Gwangmyeong Anyangcheon Children's Water Park ist ein Wasserpark in Gwangmyeong.",
+                  "text": "Ein Kinderwasserpark am Anyangcheon-Bach in Gwangmyeong, City.",
                   "category": "family",
                   "coords": [
                         126.869649,
@@ -358,7 +619,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gaeungsan",
-                  "text": "Der Gaeungsan ist ein Gipfel in Gwangmyeong.",
+                  "text": "Gaeungsan, ein Berggipfel mit steilen Hängen und bewaldeten Wegen.",
                   "category": "natural",
                   "coords": [
                         126.844655,
@@ -367,7 +628,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Korea SGI Gwangmyeong Cultural Center",
-                  "text": "Das Korea SGI Gwangmyeong Cultural Center ist ein Kunstzentrum in Gwangmyeong.",
+                  "text": "Ein Kulturzentrum der buddhistischen SGI-Organisation in Gwangmyeong, City.",
                   "category": "cultural",
                   "coords": [
                         126.862324,
@@ -376,7 +637,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Art Villa",
-                  "text": "Die Art Villa ist ein Denkmal in Gwangmyeong.",
+                  "text": "Eine historische Villa in City, die heute als Kunstausstellungsraum genutzt wird.",
                   "category": "historical",
                   "coords": [
                         126.843514,
@@ -385,7 +646,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "KCYCLE Sculpture",
-                  "text": "Die KCYCLE Sculpture ist ein Denkmal in Gwangmyeong.",
+                  "text": "Eine öffentliche Skulptur in City mit dem Titel KCYCLE, Teil einer öffentlichen Kunstinitiative.",
                   "category": "historical",
                   "coords": [
                         126.845596,
@@ -394,7 +655,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Spedom Sculpture",
-                  "text": "Die Spedom Sculpture ist ein Denkmal in Gwangmyeong.",
+                  "text": "Die Spedom-Skulptur steht als historische Skulptur im Stadtpark von City.",
                   "category": "historical",
                   "coords": [
                         126.846932,
@@ -403,7 +664,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Memorial Tower",
-                  "text": "Der Memorial Tower ist ein Denkmal in Gwangmyeong.",
+                  "text": "Der Gedenkturm ist ein historischer Turm auf dem Stadtplatz von City.",
                   "category": "historical",
                   "coords": [
                         126.864938,
@@ -412,7 +673,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gwangmyeong Civic Center",
-                  "text": "Das Gwangmyeong Civic Center ist ein Kunstzentrum in Gwangmyeong.",
+                  "text": "Das Gwangmyeong Civic Center ist ein kulturelles Zentrum im Stadtzentrum von City.",
                   "category": "cultural",
                   "coords": [
                         126.863806,
@@ -421,7 +682,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "PostBoxGasan",
-                  "text": "PostBoxGasan ist ein Denkmal in Gwangmyeong.",
+                  "text": "PostBoxGasan ist ein historischer Briefkasten im Gasan-Viertel von City.",
                   "category": "historical",
                   "coords": [
                         126.888548,
@@ -430,7 +691,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gwangmyeong Upcycle Art Center",
-                  "text": "Das Gwangmyeong Upcycle Art Center ist ein Kunstzentrum in Gwangmyeong.",
+                  "text": "Das Gwangmyeong Upcycle Art Center ist ein kulturelles Zentrum für Upcycling-Kunst im Kunstviertel von City.",
                   "category": "cultural",
                   "coords": [
                         126.870364,
@@ -441,7 +702,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "The Abraham Park Kenneth Vine Collection",
-                  "text": "A The Abraham Park Kenneth Vine Collection egy múzeum Gwangmyeong területén.",
+                  "text": "Múzeum a városban, amely Kenneth Vine művészeti és tárgyi gyűjteményét mutatja be.",
                   "category": "museum",
                   "coords": [
                         126.84495,
@@ -450,7 +711,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Remi Children's Theater",
-                  "text": "A Remi Children's Theater egy színház Gwangmyeong városában.",
+                  "text": "Gyermekszínház City-ben, családbarát előadásokkal.",
                   "category": "cultural",
                   "coords": [
                         126.895674,
@@ -459,7 +720,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Culture Garden Art Hall",
-                  "text": "A Culture Garden Art Hall egy színház Gwangmyeong területén.",
+                  "text": "Művészeti terem egy kulturális kertben City-ben, kiállításokkal.",
                   "category": "cultural",
                   "coords": [
                         126.895927,
@@ -468,7 +729,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Geumcheon Musical Center",
-                  "text": "A Geumcheon Musical Center egy színház Gwangmyeong városában.",
+                  "text": "Zenei központ City Geumcheon negyedében, koncertekkel.",
                   "category": "cultural",
                   "coords": [
                         126.894382,
@@ -477,7 +738,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Dream Tree Theater",
-                  "text": "A Dream Tree Theater egy színház Gwangmyeong területén.",
+                  "text": "Kis színház City-ben, Dream Tree Theater néven, meghitt előadásokhoz.",
                   "category": "cultural",
                   "coords": [
                         126.88655,
@@ -486,7 +747,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Art Tree Theater",
-                  "text": "Az Art Tree Theater egy színház Gwangmyeong városában.",
+                  "text": "Színház City-ben, Art Tree Theater néven, sokszínű művészeti előadásokkal.",
                   "category": "cultural",
                   "coords": [
                         126.884002,
@@ -495,7 +756,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Garibong Video",
-                  "text": "A Garibong Video egy színház Gwangmyeong területén.",
+                  "text": "Kulturális tér City-ben, videóművészetre és vetítésekre fókuszálva.",
                   "category": "cultural",
                   "coords": [
                         126.890569,
@@ -504,7 +765,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Oryu Art Hall",
-                  "text": "Az Oryu Art Hall egy színház Gwangmyeong területén.",
+                  "text": "Művészeti terem City-ben, különféle kulturális eseményekkel.",
                   "category": "cultural",
                   "coords": [
                         126.847793,
@@ -513,7 +774,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gwangmyeong Anyangcheon Children's Water Park",
-                  "text": "A Gwangmyeong Anyangcheon Children's Water Park egy vízi park Gwangmyeong városában.",
+                  "text": "Gyermek vízipark az Anyangcheon patak mentén Gwangmyeongban, City-ben.",
                   "category": "family",
                   "coords": [
                         126.869649,
@@ -522,7 +783,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gaeungsan",
-                  "text": "A Gaeungsan egy hegycsúcs Gwangmyeong területén.",
+                  "text": "Gaeungsan, egy hegycsúcs meredek lejtőkkel és erdős ösvényekkel.",
                   "category": "natural",
                   "coords": [
                         126.844655,
@@ -531,7 +792,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Korea SGI Gwangmyeong Cultural Center",
-                  "text": "A Korea SGI Gwangmyeong Cultural Center egy művészeti központ Gwangmyeong városában.",
+                  "text": "A SGI buddhista szervezet kulturális központja Gwangmyeongban, City-ben.",
                   "category": "cultural",
                   "coords": [
                         126.862324,
@@ -540,7 +801,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Art Villa",
-                  "text": "Az Art Villa egy emlékmű Gwangmyeong területén.",
+                  "text": "Történelmi villa City-ben, ma művészeti kiállítótérként használják.",
                   "category": "historical",
                   "coords": [
                         126.843514,
@@ -549,7 +810,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "KCYCLE Sculpture",
-                  "text": "A KCYCLE Sculpture egy emlékmű Gwangmyeong városában.",
+                  "text": "Nyilvános szobor City-ben, KCYCLE címmel, egy közterületi művészeti kezdeményezés része.",
                   "category": "historical",
                   "coords": [
                         126.845596,
@@ -558,7 +819,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Spedom Sculpture",
-                  "text": "A Spedom Sculpture egy emlékmű Gwangmyeong területén.",
+                  "text": "A Spedom-szobor történelmi szobor a City központi parkjában.",
                   "category": "historical",
                   "coords": [
                         126.846932,
@@ -567,7 +828,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Memorial Tower",
-                  "text": "A Memorial Tower egy emlékmű Gwangmyeong városában.",
+                  "text": "Az Emléktorony egy történelmi torony a City főterén.",
                   "category": "historical",
                   "coords": [
                         126.864938,
@@ -576,7 +837,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gwangmyeong Civic Center",
-                  "text": "A Gwangmyeong Civic Center egy művészeti központ Gwangmyeong területén.",
+                  "text": "A Gwangmyeong Városi Központ kulturális központ a City belvárosában.",
                   "category": "cultural",
                   "coords": [
                         126.863806,
@@ -585,7 +846,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "PostBoxGasan",
-                  "text": "A PostBoxGasan egy emlékmű Gwangmyeong városában.",
+                  "text": "A PostBoxGasan egy történelmi postaláda a City Gasan negyedében.",
                   "category": "historical",
                   "coords": [
                         126.888548,
@@ -594,7 +855,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gwangmyeong Upcycle Art Center",
-                  "text": "A Gwangmyeong Upcycle Art Center egy művészeti központ Gwangmyeong területén.",
+                  "text": "A Gwangmyeong Upcycle Művészeti Központ kulturális központ az upcycling művészetnek a City művészeti negyedében.",
                   "category": "cultural",
                   "coords": [
                         126.870364,
@@ -605,7 +866,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "The Abraham Park Kenneth Vine Collection",
-                  "text": "The Abraham Park Kenneth Vine Collection este un muzeu din Gwangmyeong.",
+                  "text": "Muzeu în oraș care găzduiește colecția Kenneth Vine de artă și artefacte.",
                   "category": "museum",
                   "coords": [
                         126.84495,
@@ -614,7 +875,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Remi Children's Theater",
-                  "text": "Remi Children's Theater este un teatru în Gwangmyeong.",
+                  "text": "Un teatru pentru copii în City, cu spectacole potrivite pentru familii.",
                   "category": "cultural",
                   "coords": [
                         126.895674,
@@ -623,7 +884,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Culture Garden Art Hall",
-                  "text": "Culture Garden Art Hall este un teatru din Gwangmyeong.",
+                  "text": "O sală de artă într-o grădină culturală în City, cu expoziții.",
                   "category": "cultural",
                   "coords": [
                         126.895927,
@@ -632,7 +893,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Geumcheon Musical Center",
-                  "text": "Geumcheon Musical Center este un teatru în Gwangmyeong.",
+                  "text": "Un centru muzical în districtul Geumcheon din City, cu concerte.",
                   "category": "cultural",
                   "coords": [
                         126.894382,
@@ -641,7 +902,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Dream Tree Theater",
-                  "text": "Dream Tree Theater este un teatru din Gwangmyeong.",
+                  "text": "Un mic teatru în City numit Dream Tree Theater, pentru spectacole intime.",
                   "category": "cultural",
                   "coords": [
                         126.88655,
@@ -650,7 +911,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Art Tree Theater",
-                  "text": "Art Tree Theater este un teatru în Gwangmyeong.",
+                  "text": "Un teatru în City numit Art Tree Theater, cu spectacole artistice diverse.",
                   "category": "cultural",
                   "coords": [
                         126.884002,
@@ -659,7 +920,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Garibong Video",
-                  "text": "Garibong Video este un teatru din Gwangmyeong.",
+                  "text": "Un spațiu cultural în City dedicat artei video și proiecțiilor.",
                   "category": "cultural",
                   "coords": [
                         126.890569,
@@ -668,7 +929,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Oryu Art Hall",
-                  "text": "Oryu Art Hall este un teatru din Gwangmyeong.",
+                  "text": "O sală de artă în City pentru diverse evenimente culturale.",
                   "category": "cultural",
                   "coords": [
                         126.847793,
@@ -677,7 +938,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gwangmyeong Anyangcheon Children's Water Park",
-                  "text": "Gwangmyeong Anyangcheon Children's Water Park este un parc acvatic în Gwangmyeong.",
+                  "text": "Un parc acvatic pentru copii de-a lungul pârâului Anyangcheon în Gwangmyeong, City.",
                   "category": "family",
                   "coords": [
                         126.869649,
@@ -686,7 +947,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gaeungsan",
-                  "text": "Gaeungsan este un vârf muntos din Gwangmyeong.",
+                  "text": "Gaeungsan, un vârf montan cu pante abrupte și trasee împădurite.",
                   "category": "natural",
                   "coords": [
                         126.844655,
@@ -695,7 +956,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Korea SGI Gwangmyeong Cultural Center",
-                  "text": "Korea SGI Gwangmyeong Cultural Center este un centru de arte în Gwangmyeong.",
+                  "text": "Un centru cultural al organizației budiste SGI în Gwangmyeong, City.",
                   "category": "cultural",
                   "coords": [
                         126.862324,
@@ -704,7 +965,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Art Villa",
-                  "text": "Art Villa este un monument din Gwangmyeong.",
+                  "text": "O vilă istorică în City, acum folosită ca spațiu pentru expoziții de artă.",
                   "category": "historical",
                   "coords": [
                         126.843514,
@@ -713,7 +974,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "KCYCLE Sculpture",
-                  "text": "KCYCLE Sculpture este un monument în Gwangmyeong.",
+                  "text": "O sculptură publică în City intitulată KCYCLE, parte a unei inițiative de artă publică.",
                   "category": "historical",
                   "coords": [
                         126.845596,
@@ -722,7 +983,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Spedom Sculpture",
-                  "text": "Spedom Sculpture este un monument din Gwangmyeong.",
+                  "text": "Sculptura Spedom este o sculptură istorică în parcul central din City.",
                   "category": "historical",
                   "coords": [
                         126.846932,
@@ -731,7 +992,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Memorial Tower",
-                  "text": "Memorial Tower este un monument în Gwangmyeong.",
+                  "text": "Turnul Memorial este un turn istoric în piața orașului City.",
                   "category": "historical",
                   "coords": [
                         126.864938,
@@ -740,7 +1001,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gwangmyeong Civic Center",
-                  "text": "Gwangmyeong Civic Center este un centru de arte din Gwangmyeong.",
+                  "text": "Centrul Civic Gwangmyeong este un centru cultural în centrul orașului City.",
                   "category": "cultural",
                   "coords": [
                         126.863806,
@@ -749,7 +1010,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "PostBoxGasan",
-                  "text": "PostBoxGasan este un monument în Gwangmyeong.",
+                  "text": "PostBoxGasan este o cutie poștală istorică în cartierul Gasan din City.",
                   "category": "historical",
                   "coords": [
                         126.888548,
@@ -758,7 +1019,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gwangmyeong Upcycle Art Center",
-                  "text": "Gwangmyeong Upcycle Art Center este un centru de arte din Gwangmyeong.",
+                  "text": "Centrul de Artă Upcycle Gwangmyeong este un centru cultural pentru artă upcycled în cartierul artistic din City.",
                   "category": "cultural",
                   "coords": [
                         126.870364,
@@ -769,7 +1030,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "The Abraham Park Kenneth Vine Collection",
-                  "text": "The Abraham Park Kenneth Vine Collection is a museum in Gwangmyeong.",
+                  "text": "Museum in the city housing the Kenneth Vine collection of art and artifacts.",
                   "category": "museum",
                   "coords": [
                         126.84495,
@@ -778,7 +1039,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Remi Children's Theater",
-                  "text": "Remi Children's Theater is a theatre in Gwangmyeong.",
+                  "text": "A children's theatre in City offering family-friendly performances.",
                   "category": "cultural",
                   "coords": [
                         126.895674,
@@ -787,7 +1048,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Culture Garden Art Hall",
-                  "text": "Culture Garden Art Hall is a theatre in Gwangmyeong.",
+                  "text": "An art hall within a cultural garden in City, hosting exhibitions.",
                   "category": "cultural",
                   "coords": [
                         126.895927,
@@ -796,7 +1057,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Geumcheon Musical Center",
-                  "text": "Geumcheon Musical Center is a theatre in Gwangmyeong.",
+                  "text": "A musical centre in the Geumcheon district of City, hosting concerts.",
                   "category": "cultural",
                   "coords": [
                         126.894382,
@@ -805,7 +1066,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Dream Tree Theater",
-                  "text": "Dream Tree Theater is a theatre in Gwangmyeong.",
+                  "text": "A small theatre in City known as Dream Tree Theater, for intimate performances.",
                   "category": "cultural",
                   "coords": [
                         126.88655,
@@ -814,7 +1075,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Art Tree Theater",
-                  "text": "Art Tree Theater is a theatre in Gwangmyeong.",
+                  "text": "A theatre in City called Art Tree Theater, featuring diverse artistic shows.",
                   "category": "cultural",
                   "coords": [
                         126.884002,
@@ -823,7 +1084,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Garibong Video",
-                  "text": "Garibong Video is a theatre in Gwangmyeong.",
+                  "text": "A cultural space in City dedicated to video art and screenings.",
                   "category": "cultural",
                   "coords": [
                         126.890569,
@@ -832,7 +1093,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Oryu Art Hall",
-                  "text": "Oryu Art Hall is a theatre in Gwangmyeong.",
+                  "text": "An art hall in City hosting various cultural events.",
                   "category": "cultural",
                   "coords": [
                         126.847793,
@@ -841,7 +1102,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gwangmyeong Anyangcheon Children's Water Park",
-                  "text": "Gwangmyeong Anyangcheon Children's Water Park is a water park in Gwangmyeong.",
+                  "text": "A children's water park along the Anyangcheon stream in Gwangmyeong, City.",
                   "category": "family",
                   "coords": [
                         126.869649,
@@ -850,7 +1111,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gaeungsan",
-                  "text": "Gaeungsan is a peak in Gwangmyeong.",
+                  "text": "Gaeungsan, a mountain peak with steep slopes and forested trails.",
                   "category": "natural",
                   "coords": [
                         126.844655,
@@ -859,7 +1120,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Korea SGI Gwangmyeong Cultural Center",
-                  "text": "Korea SGI Gwangmyeong Cultural Center is an arts centre in Gwangmyeong.",
+                  "text": "A cultural center of the SGI Buddhist organization in Gwangmyeong, City.",
                   "category": "cultural",
                   "coords": [
                         126.862324,
@@ -868,7 +1129,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Art Villa",
-                  "text": "Art Villa is a monument in Gwangmyeong.",
+                  "text": "A historic villa in City now used as an art exhibition space.",
                   "category": "historical",
                   "coords": [
                         126.843514,
@@ -877,7 +1138,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "KCYCLE Sculpture",
-                  "text": "KCYCLE Sculpture is a monument in Gwangmyeong.",
+                  "text": "A public sculpture in City titled KCYCLE, part of a public art initiative.",
                   "category": "historical",
                   "coords": [
                         126.845596,
@@ -886,7 +1147,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Spedom Sculpture",
-                  "text": "Spedom Sculpture is a monument in Gwangmyeong.",
+                  "text": "Spedom Sculpture is a historical sculpture in City's central park.",
                   "category": "historical",
                   "coords": [
                         126.846932,
@@ -895,7 +1156,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Memorial Tower",
-                  "text": "Memorial Tower is a monument in Gwangmyeong.",
+                  "text": "Memorial Tower is a historical tower on City's main square.",
                   "category": "historical",
                   "coords": [
                         126.864938,
@@ -904,7 +1165,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gwangmyeong Civic Center",
-                  "text": "Gwangmyeong Civic Center is an arts centre in Gwangmyeong.",
+                  "text": "Gwangmyeong Civic Center is a cultural venue in downtown City.",
                   "category": "cultural",
                   "coords": [
                         126.863806,
@@ -913,7 +1174,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "PostBoxGasan",
-                  "text": "PostBoxGasan is a monument in Gwangmyeong.",
+                  "text": "PostBoxGasan is a historical postbox in the Gasan district of City.",
                   "category": "historical",
                   "coords": [
                         126.888548,
@@ -922,7 +1183,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gwangmyeong Upcycle Art Center",
-                  "text": "Gwangmyeong Upcycle Art Center is an arts centre in Gwangmyeong.",
+                  "text": "Gwangmyeong Upcycle Art Center is a cultural hub for upcycled art in City's art district.",
                   "category": "cultural",
                   "coords": [
                         126.870364,
@@ -982,7 +1243,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Gibbeumssingkeugongjang Exhibition Hall",
-                  "text": "Die Gibbeumssingkeugongjang Exhibition Hall ist ein Museum in Mokpo.",
+                  "text": "Die Gibbeumssingkeugongjang Ausstellungshalle ist ein Museum in der Industriezone von City.",
                   "category": "museum",
                   "coords": [
                         126.376749,
@@ -991,7 +1252,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Art Theater Warehouse",
-                  "text": "Das Art Theater Warehouse ist ein Theater in Mokpo.",
+                  "text": "Das Kunsttheater Warehouse ist ein kulturelles Theaterlager im Künstlerviertel von City.",
                   "category": "cultural",
                   "coords": [
                         126.38502,
@@ -1000,7 +1261,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Yangeulsan",
-                  "text": "Yangeulsan ist ein Berggipfel in Mokpo.",
+                  "text": "Yangeulsan, ein Berggipfel mit felsigen Aufschlüssen und Panoramablick.",
                   "category": "natural",
                   "coords": [
                         126.407618,
@@ -1009,7 +1270,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Haemalgeun Mokpo",
-                  "text": "해맑은목포 ist ein Denkmal in der Stadt Mokpo.",
+                  "text": "Haemalgeun Mokpo ist eine historische Stätte am klaren Wasser von City.",
                   "category": "historical",
                   "coords": [
                         126.416747,
@@ -1018,7 +1279,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Mokpo Marine Cable Car",
-                  "text": "Das Mokpo Marine Cable Car ist eine Touristenattraktion in Mokpo.",
+                  "text": "Die Mokpo Marine Cable Car ist eine Seilbahn über den Hafen von City.",
                   "category": "landmark",
                   "coords": [
                         126.369709,
@@ -1027,7 +1288,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Mokpo Catholic Shrine",
-                  "text": "목포 천주교성지 ist eine Attraktion in Mokpo.",
+                  "text": "Der Mokpo Katholische Schrein ist ein katholischer Schrein auf einem Hügel in City.",
                   "category": "landmark",
                   "coords": [
                         126.38542,
@@ -1038,7 +1299,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Gibbeumssingkeugongjang Exhibition Hall",
-                  "text": "A Gibbeumssingkeugongjang Exhibition Hall egy múzeum Mokpo városában.",
+                  "text": "A Gibbeumssingkeugongjang Kiállítócsarnok egy múzeum a City ipari negyedében.",
                   "category": "museum",
                   "coords": [
                         126.376749,
@@ -1047,7 +1308,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Art Theater Warehouse",
-                  "text": "Az Art Theater Warehouse egy színház Mokpo városában.",
+                  "text": "Az Art Theater Warehouse egy kulturális színházi raktár a City művészeti negyedében.",
                   "category": "cultural",
                   "coords": [
                         126.38502,
@@ -1056,7 +1317,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Jangeulszan",
-                  "text": "A Jangeulszan egy hegycsúcs Mokpo városában.",
+                  "text": "Yangeulsan, egy hegycsúcs sziklás kibúvásokkal és panorámás kilátással.",
                   "category": "natural",
                   "coords": [
                         126.407618,
@@ -1065,7 +1326,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Haemalgeun Mokpo",
-                  "text": "A 해맑은목포 egy emlékmű Mokpo városában.",
+                  "text": "A Haemalgeun Mokpo egy történelmi helyszín a City tiszta vizénél.",
                   "category": "historical",
                   "coords": [
                         126.416747,
@@ -1074,7 +1335,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Mokpo Marine Cable Car",
-                  "text": "A Mokpo Marine Cable Car egy turisztikai látványosság Mokpo városában.",
+                  "text": "A Mokpo Tengeri Sikló egy tengeri sikló, amely áthalad a City kikötőjén.",
                   "category": "landmark",
                   "coords": [
                         126.369709,
@@ -1083,7 +1344,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Mokpo Catholic Shrine",
-                  "text": "A 목포 천주교성지 egy látványosság Mokpo városában.",
+                  "text": "A Mokpo Katolikus Kegyhely egy katolikus szentély egy dombon Cityben.",
                   "category": "landmark",
                   "coords": [
                         126.38542,
@@ -1094,7 +1355,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Gibbeumssingkeugongjang Exhibition Hall",
-                  "text": "Gibbeumssingkeugongjang Exhibition Hall este un muzeu din Mokpo.",
+                  "text": "Sala de Expoziții Gibbeumssingkeugongjang este un muzeu în zona industrială a orașului City.",
                   "category": "museum",
                   "coords": [
                         126.376749,
@@ -1103,7 +1364,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Art Theater Warehouse",
-                  "text": "Art Theater Warehouse este un teatru în Mokpo.",
+                  "text": "Teatrul Depozit de Artă este un depozit teatral cultural în cartierul artistic din City.",
                   "category": "cultural",
                   "coords": [
                         126.38502,
@@ -1112,7 +1373,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Yangeulsan",
-                  "text": "Yangeulsan este un vârf montan situat în Mokpo.",
+                  "text": "Yangeulsan, un vârf montan cu aflorimente stâncoase și vederi panoramice.",
                   "category": "natural",
                   "coords": [
                         126.407618,
@@ -1121,7 +1382,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Haemalgeun Mokpo",
-                  "text": "해맑은목포 este un monument situat în orașul Mokpo.",
+                  "text": "Haemalgeun Mokpo este un sit istoric lângă apele limpezi din City.",
                   "category": "historical",
                   "coords": [
                         126.416747,
@@ -1130,7 +1391,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Mokpo Marine Cable Car",
-                  "text": "Mokpo Marine Cable Car este o atracție turistică în Mokpo.",
+                  "text": "Telecabina Marină Mokpo este o telecabină care traversează portul orașului City.",
                   "category": "landmark",
                   "coords": [
                         126.369709,
@@ -1139,7 +1400,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Mokpo Catholic Shrine",
-                  "text": "목포 천주교성지 este o atracție situată în Mokpo.",
+                  "text": "Altarul Catolic Mokpo este un altar catolic pe un deal din City.",
                   "category": "landmark",
                   "coords": [
                         126.38542,
@@ -1150,7 +1411,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Gibbeumssingkeugongjang Exhibition Hall",
-                  "text": "The Gibbeumssingkeugongjang Exhibition Hall is a museum in Mokpo.",
+                  "text": "Gibbeumssingkeugongjang Exhibition Hall is a museum in City's industrial zone.",
                   "category": "museum",
                   "coords": [
                         126.376749,
@@ -1159,7 +1420,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Art Theater Warehouse",
-                  "text": "The Art Theater Warehouse is a performance venue in Mokpo.",
+                  "text": "Art Theater Warehouse is a cultural theater warehouse in City's arts quarter.",
                   "category": "cultural",
                   "coords": [
                         126.38502,
@@ -1168,7 +1429,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Yangeulsan",
-                  "text": "Yangeulsan is a mountain peak located in Mokpo.",
+                  "text": "Yangeulsan, a mountain peak with rocky outcrops and panoramic views.",
                   "category": "natural",
                   "coords": [
                         126.407618,
@@ -1177,7 +1438,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Haemalgeun Mokpo",
-                  "text": "해맑은목포 is a monument situated in the city of Mokpo.",
+                  "text": "Haemalgeun Mokpo is a historical site by the clear waters of City.",
                   "category": "historical",
                   "coords": [
                         126.416747,
@@ -1186,7 +1447,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Mokpo Marine Cable Car",
-                  "text": "The Mokpo Marine Cable Car is a major tourist attraction in Mokpo.",
+                  "text": "Mokpo Marine Cable Car is a scenic cable car crossing City's harbor.",
                   "category": "landmark",
                   "coords": [
                         126.369709,
@@ -1195,7 +1456,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Mokpo Catholic Shrine",
-                  "text": "목포 천주교성지 is an attraction located in Mokpo.",
+                  "text": "Mokpo Catholic Shrine is a Catholic shrine on a hill in City.",
                   "category": "landmark",
                   "coords": [
                         126.38542,
@@ -1255,7 +1516,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Seokchang Castle Site",
-                  "text": "The Site of an Ancient Seokchang Castle umfasst historische Burgruinen in Yeosu.",
+                  "text": "Stätte einer antiken Steinburg aus der Joseon- oder früheren Zeit.",
                   "category": "castle",
                   "coords": [
                         127.660655,
@@ -1273,7 +1534,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Padosori Small Theater",
-                  "text": "파도소리 소극장 ist ein Theater in der Stadt Yeosu.",
+                  "text": "Das Padosori Kleine Theater ist ein kleines Kulturtheater an der Küste von City.",
                   "category": "cultural",
                   "coords": [
                         127.667101,
@@ -1282,7 +1543,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Burniaqua",
-                  "text": "버니아쿠아 ist ein Aquarium in Yeosu, das Meereslebewesen zeigt.",
+                  "text": "Burniaqua ist ein familienfreundlicher Wasserpark im Erholungsgebiet von City.",
                   "category": "family",
                   "coords": [
                         127.646117,
@@ -1291,7 +1552,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Yeulmaru",
-                  "text": "예울마루 ist ein Theater in der Stadt Yeosu.",
+                  "text": "Yeulmaru ist ein Kulturzentrum in der Innenstadt von City.",
                   "category": "cultural",
                   "coords": [
                         127.664951,
@@ -1300,7 +1561,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Dino Valley",
-                  "text": "다이노밸리 ist ein Themenpark in Yeosu.",
+                  "text": "Dino Valley ist ein Dinosaurier-Themenpark am Stadtrand von City.",
                   "category": "family",
                   "coords": [
                         127.640183,
@@ -1309,7 +1570,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Ungcheon Beach Park",
-                  "text": "웅천친수공원해수욕장 ist ein Strandbereich für Erholung in Yeosu.",
+                  "text": "Der Ungcheon Beach Park ist ein Strandpark im Ungcheon-Viertel von City.",
                   "category": "recreational",
                   "coords": [
                         127.667569,
@@ -1318,7 +1579,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "U-World Luge Theme Park",
-                  "text": "유월드루지테마파크 ist ein lokaler Themenpark in Yeosu.",
+                  "text": "Der U-World Luge Theme Park ist ein Rodel-Themenpark im U-World-Komplex von City.",
                   "category": "family",
                   "coords": [
                         127.64133,
@@ -1327,7 +1588,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Seonso",
-                  "text": "Seonso ist eine archäologische Stätte in Yeosu.",
+                  "text": "Seonso ist eine historische Stätte in einem Berggebiet von City.",
                   "category": "historical",
                   "coords": [
                         127.662863,
@@ -1336,7 +1597,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Geobukseon Park",
-                  "text": "Der Geobukseon Park ist ein öffentlicher Park in Yeosu.",
+                  "text": "Der Geobukseon Park ist ein Park mit einer Nachbildung eines Schildkrötenschiffs in City.",
                   "category": "park",
                   "coords": [
                         127.666757,
@@ -1363,7 +1624,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gallery Light and Salt",
-                  "text": "갤러리 빛과소금 ist eine Kunstgalerie in der Stadt Yeosu.",
+                  "text": "Die Galerie Licht und Salz ist eine Kunstgalerie in der Altstadt von City.",
                   "category": "museum",
                   "coords": [
                         127.680156,
@@ -1372,7 +1633,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gallery Nomad",
-                  "text": "갤러리노마드 ist eine lokale Galerie, die Kunstwerke in Yeosu ausstellt.",
+                  "text": "Die Galerie Nomad ist eine nomadisch thematisierte Galerie in einem umgebauten Gebäude in City.",
                   "category": "museum",
                   "coords": [
                         127.67525,
@@ -1381,7 +1642,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Sun Gallery",
-                  "text": "선갤러리 ist eine Kunstgalerie in Yeosu.",
+                  "text": "Die Sonnengalerie ist eine Kunstgalerie im Stadtzentrum von City.",
                   "category": "museum",
                   "coords": [
                         127.672894,
@@ -1390,7 +1651,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Yeosu Museum of Art",
-                  "text": "여수미술관 ist eine Galerie für bildende Künste in Yeosu.",
+                  "text": "Das Yeosu Kunstmuseum ist ein Kunstmuseum am Wasser in City.",
                   "category": "museum",
                   "coords": [
                         127.660132,
@@ -1399,7 +1660,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Yeosu Culture Hall",
-                  "text": "Die Yeosu Culture Hall ist ein Zentrum für Kunst und kulturelle Veranstaltungen in Yeosu.",
+                  "text": "Die Yeosu Kulturhalle ist eine Kultuhalle im zentralen Bezirk von City.",
                   "category": "cultural",
                   "coords": [
                         127.663346,
@@ -1417,7 +1678,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Jangdo Exhibition Hall",
-                  "text": "장도전시관 ist eine Kunstgalerie in Yeosu.",
+                  "text": "Die Jangdo Ausstellungshalle ist eine Ausstellungshalle auf der Jangdo-Insel in City.",
                   "category": "museum",
                   "coords": [
                         127.663858,
@@ -1428,7 +1689,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "The Site of an Ancient Seokchang Castle",
-                  "text": "A The Site of an Ancient Seokchang Castle egy történelmi várrom Yeosu városában.",
+                  "text": "Egy ősi kővár helyszíne a Joseon-korból vagy korábbról.",
                   "category": "castle",
                   "coords": [
                         127.660655,
@@ -1446,7 +1707,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Padosori Small Theater",
-                  "text": "A 파도소리 소극장 egy színház Yeosu városában.",
+                  "text": "A Padosori Kis Színház egy kis kulturális színház a City partvidékén.",
                   "category": "cultural",
                   "coords": [
                         127.667101,
@@ -1455,7 +1716,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Burniaqua",
-                  "text": "A 버니아쿠아 egy akvárium, amely vízi élővilágot mutat be Yeosu városában.",
+                  "text": "A Burniaqua egy családbarát vízipark a City rekreációs területén.",
                   "category": "family",
                   "coords": [
                         127.646117,
@@ -1464,7 +1725,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Yeulmaru",
-                  "text": "A 예울마루 egy színház Yeosu városában.",
+                  "text": "A Yeulmaru egy kulturális helyszín a City belvárosában.",
                   "category": "cultural",
                   "coords": [
                         127.664951,
@@ -1473,7 +1734,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Dino Valley",
-                  "text": "A 다이노밸리 egy vidámpark Yeosu városában.",
+                  "text": "A Dino Valley egy dinoszaurusz-témájú családi park City külvárosában.",
                   "category": "family",
                   "coords": [
                         127.640183,
@@ -1482,7 +1743,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Ungcheon Beach Park",
-                  "text": "A 웅천친수공원해수욕장 egy strand és rekreációs terület Yeosu városában.",
+                  "text": "Az Ungcheon Beach Park egy strandpark a City Ungcheon negyedében.",
                   "category": "recreational",
                   "coords": [
                         127.667569,
@@ -1491,7 +1752,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "U-World Luge Theme Park",
-                  "text": "A 유월드루지테마파크 egy helyi vidámpark Yeosu városában.",
+                  "text": "Az U-World Luge Theme Park egy szánkó-témapark a City U-World komplexumában.",
                   "category": "family",
                   "coords": [
                         127.64133,
@@ -1500,7 +1761,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Seonso",
-                  "text": "A Seonso egy régészeti lelőhely Yeosu városában.",
+                  "text": "A Seonso egy történelmi helyszín a City hegyvidéki területén.",
                   "category": "historical",
                   "coords": [
                         127.662863,
@@ -1509,7 +1770,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Geobukseon Park",
-                  "text": "A Geobukseon Park egy nyilvános park Yeosu városában.",
+                  "text": "A Geobukseon Park egy park, amelyben egy teknőshajó másolat található Cityben.",
                   "category": "park",
                   "coords": [
                         127.666757,
@@ -1536,7 +1797,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gallery Light and Salt",
-                  "text": "A 갤러리 빛과소금 egy művészeti galéria Yeosu városában.",
+                  "text": "A Fény és Só Galéria egy művészeti galéria a City óvárosában.",
                   "category": "museum",
                   "coords": [
                         127.680156,
@@ -1545,7 +1806,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gallery Nomad",
-                  "text": "A 갤러리노마드 egy helyi galéria, amely műalkotásokat állít ki Yeosu városában.",
+                  "text": "A Nomád Galéria egy nomád témájú galéria egy átalakított épületben Cityben.",
                   "category": "museum",
                   "coords": [
                         127.67525,
@@ -1554,7 +1815,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Sun Gallery",
-                  "text": "A 선갤러리 egy művészeti galéria Yeosu városában.",
+                  "text": "A Nap Galéria egy művészeti galéria a City központjában.",
                   "category": "museum",
                   "coords": [
                         127.672894,
@@ -1563,7 +1824,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Yeosu Museum of Art",
-                  "text": "A 여수미술관 egy vizuális művészeteket bemutató galéria Yeosu városában.",
+                  "text": "A Yeosu Művészeti Múzeum egy művészeti múzeum a City vízpartján.",
                   "category": "museum",
                   "coords": [
                         127.660132,
@@ -1572,7 +1833,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Yeosu Culture Hall",
-                  "text": "A Yeosu Culture Hall egy művészeti és kulturális rendezvényközpont Yeosu városában.",
+                  "text": "A Yeosu Kulturális Csarnok egy kulturális terem a City központi kerületében.",
                   "category": "cultural",
                   "coords": [
                         127.663346,
@@ -1590,7 +1851,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Jangdo Exhibition Hall",
-                  "text": "A 장도전시관 egy művészeti galéria Yeosu városában.",
+                  "text": "A Jangdo Kiállítócsarnok egy kiállítócsarnok a Citybeli Jangdo-szigeten.",
                   "category": "museum",
                   "coords": [
                         127.663858,
@@ -1601,7 +1862,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Seokchang Castle Site",
-                  "text": "The Site of an Ancient Seokchang Castle prezintă ruinele unui castel istoric din Yeosu.",
+                  "text": "Situl unei cetăți antice de piatră din perioada Joseon sau anterioară.",
                   "category": "castle",
                   "coords": [
                         127.660655,
@@ -1619,7 +1880,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Padosori Small Theater",
-                  "text": "파도소리 소극장 este un teatru situat în orașul Yeosu.",
+                  "text": "Teatrul Mic Padosori este un mic teatru cultural pe coasta orașului City.",
                   "category": "cultural",
                   "coords": [
                         127.667101,
@@ -1628,7 +1889,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Burniaqua",
-                  "text": "버니아쿠아 este un acvariu care prezintă viața acvatică în Yeosu.",
+                  "text": "Burniaqua este un parc acvatic pentru familii în zona de agrement a orașului City.",
                   "category": "family",
                   "coords": [
                         127.646117,
@@ -1637,7 +1898,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Yeulmaru",
-                  "text": "예울마루 este un teatru situat în orașul Yeosu.",
+                  "text": "Yeulmaru este un loc cultural în centrul orașului City.",
                   "category": "cultural",
                   "coords": [
                         127.664951,
@@ -1646,7 +1907,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Dino Valley",
-                  "text": "다이노밸리 este un parc tematic situat în Yeosu.",
+                  "text": "Dino Valley este un parc tematic de dinozauri la periferia orașului City.",
                   "category": "family",
                   "coords": [
                         127.640183,
@@ -1655,7 +1916,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Ungcheon Beach Park",
-                  "text": "웅천친수공원해수욕장 este o zonă de plajă potrivită pentru recreere în Yeosu.",
+                  "text": "Parcul Plaja Ungcheon este un parc de plajă în cartierul Ungcheon din City.",
                   "category": "recreational",
                   "coords": [
                         127.667569,
@@ -1664,7 +1925,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "U-World Luge Theme Park",
-                  "text": "유월드루지테마파크 este un parc tematic local situat în Yeosu.",
+                  "text": "Parcul Tematic Luge U-World este un parc tematic de sanie în complexul U-World din City.",
                   "category": "family",
                   "coords": [
                         127.64133,
@@ -1673,7 +1934,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Seonso",
-                  "text": "Seonso este un sit arheologic din Yeosu.",
+                  "text": "Seonso este un sit istoric într-o zonă montană din City.",
                   "category": "historical",
                   "coords": [
                         127.662863,
@@ -1682,7 +1943,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Geobukseon Park",
-                  "text": "Geobukseon Park este un parc public situat în Yeosu.",
+                  "text": "Parcul Geobukseon este un parc cu o replică a unei nave țestoasă în City.",
                   "category": "park",
                   "coords": [
                         127.666757,
@@ -1709,7 +1970,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gallery Light and Salt",
-                  "text": "갤러리 빛과소금 este o galerie de artă situată în orașul Yeosu.",
+                  "text": "Galeria Lumină și Sare este o galerie de artă în centrul vechi al orașului City.",
                   "category": "museum",
                   "coords": [
                         127.680156,
@@ -1718,7 +1979,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gallery Nomad",
-                  "text": "갤러리노마드 este o galerie locală care expune opere de artă în Yeosu.",
+                  "text": "Galeria Nomad este o galerie tematică nomadă într-o clădire renovată din City.",
                   "category": "museum",
                   "coords": [
                         127.67525,
@@ -1727,7 +1988,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Sun Gallery",
-                  "text": "선갤러리 este o galerie de artă situată în Yeosu.",
+                  "text": "Galeria Soarelui este o galerie de artă în centrul orașului City.",
                   "category": "museum",
                   "coords": [
                         127.672894,
@@ -1736,7 +1997,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Yeosu Museum of Art",
-                  "text": "여수미술관 este o galerie care expune arte vizuale în Yeosu.",
+                  "text": "Muzeul de Artă Yeosu este un muzeu de artă pe malul apei în City.",
                   "category": "museum",
                   "coords": [
                         127.660132,
@@ -1745,7 +2006,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Yeosu Culture Hall",
-                  "text": "Yeosu Culture Hall este un centru pentru arte și evenimente culturale din Yeosu.",
+                  "text": "Sala de Cultură Yeosu este o sală culturală în districtul central al orașului City.",
                   "category": "cultural",
                   "coords": [
                         127.663346,
@@ -1763,7 +2024,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Jangdo Exhibition Hall",
-                  "text": "장도전시관 este o galerie de artă situată în Yeosu.",
+                  "text": "Sala de Expoziții Jangdo este o sală de expoziții pe insula Jangdo din City.",
                   "category": "museum",
                   "coords": [
                         127.663858,
@@ -1774,7 +2035,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "The Site of an Ancient Seokchang Castle",
-                  "text": "The Site of an Ancient Seokchang Castle features historic castle ruins located in Yeosu.",
+                  "text": "Site of an ancient stone castle from the Joseon or earlier period.",
                   "category": "castle",
                   "coords": [
                         127.660655,
@@ -1792,7 +2053,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Padosori Small Theater",
-                  "text": "파도소리 소극장 is a theatre located in the city of Yeosu.",
+                  "text": "Padosori Small Theater is a small cultural theater along City's coastline.",
                   "category": "cultural",
                   "coords": [
                         127.667101,
@@ -1801,7 +2062,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Burniaqua",
-                  "text": "버니아쿠아 is an aquarium showcasing aquatic life in Yeosu.",
+                  "text": "Burniaqua is a family-friendly water park in City's recreational area.",
                   "category": "family",
                   "coords": [
                         127.646117,
@@ -1810,7 +2071,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Yeulmaru",
-                  "text": "예울마루 is a theatre located in the city of Yeosu.",
+                  "text": "Yeulmaru is a cultural venue in downtown City.",
                   "category": "cultural",
                   "coords": [
                         127.664951,
@@ -1819,7 +2080,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Dino Valley",
-                  "text": "다이노밸리 is a theme park attraction located in Yeosu.",
+                  "text": "Dino Valley is a dinosaur-themed family park on the outskirts of City.",
                   "category": "family",
                   "coords": [
                         127.640183,
@@ -1828,7 +2089,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Ungcheon Beach Park",
-                  "text": "웅천친수공원해수욕장 is a beach area suitable for recreation in Yeosu.",
+                  "text": "Ungcheon Beach Park is a beach park in the Ungcheon district of City.",
                   "category": "recreational",
                   "coords": [
                         127.667569,
@@ -1837,7 +2098,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "U-World Luge Theme Park",
-                  "text": "유월드루지테마파크 is a local theme park situated in Yeosu.",
+                  "text": "U-World Luge Theme Park is a luge theme park in the U-World complex of City.",
                   "category": "family",
                   "coords": [
                         127.64133,
@@ -1846,7 +2107,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Seonso",
-                  "text": "Seonso is an archaeological site preserving historical remnants in Yeosu.",
+                  "text": "Seonso is a historical site in a mountainous area of City.",
                   "category": "historical",
                   "coords": [
                         127.662863,
@@ -1855,7 +2116,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Geobukseon Park",
-                  "text": "Geobukseon Park is a public park area located in Yeosu.",
+                  "text": "Geobukseon Park is a park featuring a turtle ship replica in City.",
                   "category": "park",
                   "coords": [
                         127.666757,
@@ -1882,7 +2143,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gallery Light and Salt",
-                  "text": "갤러리 빛과소금 is an art gallery situated in the city of Yeosu.",
+                  "text": "Gallery Light and Salt is an art gallery in City's old town.",
                   "category": "museum",
                   "coords": [
                         127.680156,
@@ -1891,7 +2152,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gallery Nomad",
-                  "text": "갤러리노마드 is a local gallery space exhibiting artwork in Yeosu.",
+                  "text": "Gallery Nomad is a nomadic-themed gallery in a converted building in City.",
                   "category": "museum",
                   "coords": [
                         127.67525,
@@ -1900,7 +2161,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Sun Gallery",
-                  "text": "선갤러리 is an art gallery located in Yeosu.",
+                  "text": "Sun Gallery is an art gallery in the city center of City.",
                   "category": "museum",
                   "coords": [
                         127.672894,
@@ -1909,7 +2170,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Yeosu Museum of Art",
-                  "text": "여수미술관 is a gallery exhibiting visual arts in Yeosu.",
+                  "text": "Yeosu Museum of Art is an art museum on the waterfront in City.",
                   "category": "museum",
                   "coords": [
                         127.660132,
@@ -1918,7 +2179,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Yeosu Culture Hall",
-                  "text": "Yeosu Culture Hall is a center for arts and cultural events in Yeosu.",
+                  "text": "Yeosu Culture Hall is a culture hall in City's central district.",
                   "category": "cultural",
                   "coords": [
                         127.663346,
@@ -1936,7 +2197,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Jangdo Exhibition Hall",
-                  "text": "장도전시관 is an art gallery located in Yeosu.",
+                  "text": "Jangdo Exhibition Hall is an exhibition hall on Jangdo Island in City.",
                   "category": "museum",
                   "coords": [
                         127.663858,
@@ -1996,7 +2257,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Yongdang Daeju Fiore",
-                  "text": "Yongdang Daeju Fiore ist ein Schloss in Suncheon.",
+                  "text": "Yongdang Daeju Fiore ist ein schlossähnliches Bauwerk in einem Wohngebiet von City.",
                   "category": "castle",
                   "coords": [
                         127.494678,
@@ -2005,7 +2266,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Quantum Computer House",
-                  "text": "Das Quantum Computer House ist ein Schloss in Suncheon.",
+                  "text": "Das Quantum Computer House ist ein schlossförmiges Gebäude im Technologiepark von City.",
                   "category": "castle",
                   "coords": [
                         127.478359,
@@ -2014,7 +2275,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Suncheon National University Museum",
-                  "text": "Das Suncheon National University Museum ist ein Museum in Suncheon.",
+                  "text": "Das Suncheon National University Museum ist ein Universitätsmuseum auf dem Suncheon-Campus in City.",
                   "category": "museum",
                   "coords": [
                         127.482933,
@@ -2023,7 +2284,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Suncheon Christian History Museum",
-                  "text": "Das Suncheon Christian History Museum ist ein Museum in Suncheon.",
+                  "text": "Das Suncheon Christliche Geschichtsmuseum ist ein Museum zur christlichen Geschichte im Suncheon-Viertel von City.",
                   "category": "museum",
                   "coords": [
                         127.480187,
@@ -2032,7 +2293,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Seonbi Culture Experience Center",
-                  "text": "Das Seonbi Culture Experience Center ist ein Museum in Suncheon.",
+                  "text": "Das Seonbi Kultur-Erlebniszentrum ist ein Kulturzentrum für Seonbi-Gelehrte im historischen Viertel von City.",
                   "category": "museum",
                   "coords": [
                         127.480232,
@@ -2041,7 +2302,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "European Porcelain Museum Cafe & Restaurant",
-                  "text": "Das European Porcelain Museum Cafe & Restaurant ist ein Museum in Suncheon.",
+                  "text": "Das Europäische Porzellanmuseum Café & Restaurant ist ein Museumscafé mit europäischem Porzellan im Touristenviertel von City.",
                   "category": "museum",
                   "coords": [
                         127.481557,
@@ -2050,7 +2311,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "The Koi",
-                  "text": "The Koi ist ein Zoo in Suncheon.",
+                  "text": "Koi ist eine Familienattraktion (möglicherweise ein Teich) in einem Garten in City.",
                   "category": "family",
                   "coords": [
                         127.482834,
@@ -2059,7 +2320,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Convention Hall",
-                  "text": "Die Convention Hall ist ein Museum in Suncheon.",
+                  "text": "Die Kongresshalle ist ein Kongresszentrum, das als Museum in City genutzt wird.",
                   "category": "museum",
                   "coords": [
                         127.48412,
@@ -2068,7 +2329,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Suncheon Bay National Garden History Museum",
-                  "text": "Ein Museum, das der Geschichte des Staatlichen Gartens der Suncheon-Bucht gewidmet ist.",
+                  "text": "Das Suncheon Bay National Garden Geschichtsmuseum ist ein Geschichtsmuseum im Suncheon Bay Garden in City.",
                   "category": "museum",
                   "coords": [
                         127.49631,
@@ -2077,7 +2338,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Jangcheon Yellow Theater",
-                  "text": "Ein lokales Theater für Aufführungen in Suncheon.",
+                  "text": "Das Jangcheon Gelbe Theater ist ein gelb thematisiertes Theater im Jangcheon-Viertel von City.",
                   "category": "cultural",
                   "coords": [
                         127.490094,
@@ -2095,7 +2356,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Palma Monument",
-                  "text": "Ein historisches Denkmal in der Stadt Suncheon.",
+                  "text": "Das Palma-Denkmal ist ein historisches Denkmal auf einem Platz in City.",
                   "category": "historical",
                   "coords": [
                         127.494397,
@@ -2104,7 +2365,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Suncheon Culture and Arts Center",
-                  "text": "Ein Zentrum für Kultur und Kunst mit Galerieräumen in Suncheon.",
+                  "text": "Das Suncheon Kultur- und Kunstzentrum ist ein Kultur- und Kunstzentrum im Suncheon-Viertel von City.",
                   "category": "museum",
                   "coords": [
                         127.485289,
@@ -2113,7 +2374,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Seogwang Hot Springs",
-                  "text": "Eine öffentliche Thermalquelle und Saunaanlage in Suncheon.",
+                  "text": "Die Seogwang Thermalquelle ist eine natürliche heiße Quelle im Seogwang-Viertel von City.",
                   "category": "landmark",
                   "coords": [
                         127.484446,
@@ -2122,7 +2383,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Yuil Hot Springs",
-                  "text": "Eine lokale Einrichtung mit heißen Quellen und Sauna in Suncheon.",
+                  "text": "Die Yuil Thermalquelle ist ein Thermalbad im Yuil-Viertel von City.",
                   "category": "landmark",
                   "coords": [
                         127.490788,
@@ -2131,7 +2392,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Taeyang Hot Springs",
-                  "text": "Eine öffentliche Sauna und ein Thermalbad in Suncheon.",
+                  "text": "Die Taeyang Thermalquelle ist eine heiße Quelle in der Spa-Zone von City.",
                   "category": "landmark",
                   "coords": [
                         127.4875,
@@ -2142,7 +2403,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Yongdang Daeju Fiore",
-                  "text": "A Yongdang Daeju Fiore egy kastély Suncheon városában.",
+                  "text": "A Yongdang Daeju Fiore egy kastélyszerű épület a City lakóövezetében.",
                   "category": "castle",
                   "coords": [
                         127.494678,
@@ -2151,7 +2412,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Quantum Computer House",
-                  "text": "A Quantum Computer House egy kastély Suncheon területén.",
+                  "text": "A Quantum Computer House egy kastély alakú épület a City technológiai parkjában.",
                   "category": "castle",
                   "coords": [
                         127.478359,
@@ -2160,7 +2421,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Suncheon National University Museum",
-                  "text": "A Suncheon National University Museum egy múzeum Suncheon városában.",
+                  "text": "A Suncheon Nemzeti Egyetemi Múzeum egy egyetemi múzeum a Citybeli Suncheon kampuszon.",
                   "category": "museum",
                   "coords": [
                         127.482933,
@@ -2169,7 +2430,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Suncheon Christian History Museum",
-                  "text": "A Suncheon Christian History Museum egy múzeum Suncheon városában.",
+                  "text": "A Suncheon Keresztény Történeti Múzeum egy keresztény történelem múzeuma a City Suncheon negyedében.",
                   "category": "museum",
                   "coords": [
                         127.480187,
@@ -2178,7 +2439,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Seonbi Culture Experience Center",
-                  "text": "A Seonbi Culture Experience Center egy múzeum Suncheon városában.",
+                  "text": "A Seonbi Kulturális Élményközpont egy Seonbi-tudósoknak szentelt kulturális központ a City történelmi negyedében.",
                   "category": "museum",
                   "coords": [
                         127.480232,
@@ -2187,7 +2448,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "European Porcelain Museum Cafe & Restaurant",
-                  "text": "Az European Porcelain Museum Cafe & Restaurant egy múzeum Suncheon területén.",
+                  "text": "Az Európai Porcelánmúzeum Kávézó és Étterem egy múzeum-kávézó európai porcelánnal a City turista negyedében.",
                   "category": "museum",
                   "coords": [
                         127.481557,
@@ -2196,7 +2457,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "The Koi",
-                  "text": "A The Koi egy állatkert Suncheon városában.",
+                  "text": "A Koi egy családi látványosság (feltehetően egy tó) egy City-beli kertben.",
                   "category": "family",
                   "coords": [
                         127.482834,
@@ -2205,7 +2466,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Convention Hall",
-                  "text": "A Convention Hall egy múzeum Suncheon városában.",
+                  "text": "A Kongresszusi Csarnok egy kongresszusi központ, amelyet múzeumként használnak Cityben.",
                   "category": "museum",
                   "coords": [
                         127.48412,
@@ -2214,7 +2475,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Suncheon Bay National Garden History Museum",
-                  "text": "A Szuncshon-öböli Nemzeti Kert történelmének szentelt múzeum.",
+                  "text": "A Suncheon Bay Nemzeti Kert Történeti Múzeuma egy történeti múzeum a City Suncheon Bay Gardenjében.",
                   "category": "museum",
                   "coords": [
                         127.49631,
@@ -2223,7 +2484,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Jangcheon Yellow Theater",
-                  "text": "Helyi színház előadások számára Szuncshonban.",
+                  "text": "A Jangcheon Sárga Színház egy sárga témájú színház a City Jangcheon negyedében.",
                   "category": "cultural",
                   "coords": [
                         127.490094,
@@ -2241,7 +2502,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Palma Monument",
-                  "text": "Történelmi emlékmű Szuncshon városában.",
+                  "text": "A Palma-emlékmű egy történelmi emlékmű egy téren Cityben.",
                   "category": "historical",
                   "coords": [
                         127.494397,
@@ -2250,7 +2511,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Suncheon Culture and Arts Center",
-                  "text": "Kulturális és művészeti központ galériákkal Szuncshonban.",
+                  "text": "A Suncheon Kulturális és Művészeti Központ egy kulturális és művészeti központ a City Suncheon negyedében.",
                   "category": "museum",
                   "coords": [
                         127.485289,
@@ -2259,7 +2520,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Seogwang Hot Springs",
-                  "text": "Nyilvános termálfürdő és szauna Szuncshonban.",
+                  "text": "A Seogwang Termálforrás egy természetes meleg forrás a City Seogwang negyedében.",
                   "category": "landmark",
                   "coords": [
                         127.484446,
@@ -2268,7 +2529,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Yuil Hot Springs",
-                  "text": "Helyi termálfürdő és szauna Szuncshonban.",
+                  "text": "A Yuil Termálfürdő egy termálfürdő a City Yuil negyedében.",
                   "category": "landmark",
                   "coords": [
                         127.490788,
@@ -2277,7 +2538,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Taeyang Hot Springs",
-                  "text": "Nyilvános szauna és termálfürdő Szuncshonban.",
+                  "text": "A Taeyang Termálforrás egy meleg forrás a City spa zónájában.",
                   "category": "landmark",
                   "coords": [
                         127.4875,
@@ -2288,7 +2549,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Yongdang Daeju Fiore",
-                  "text": "Yongdang Daeju Fiore este un castel în Suncheon.",
+                  "text": "Yongdang Daeju Fiore este o structură asemănătoare unui castel într-o zonă rezidențială din City.",
                   "category": "castle",
                   "coords": [
                         127.494678,
@@ -2297,7 +2558,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Quantum Computer House",
-                  "text": "Quantum Computer House este un castel din Suncheon.",
+                  "text": "Quantum Computer House este o clădire în formă de castel în parcul tehnologic din City.",
                   "category": "castle",
                   "coords": [
                         127.478359,
@@ -2306,7 +2567,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Suncheon National University Museum",
-                  "text": "Suncheon National University Museum este un muzeu în Suncheon.",
+                  "text": "Muzeul Universității Naționale Suncheon este un muzeu universitar pe campusul Suncheon din City.",
                   "category": "museum",
                   "coords": [
                         127.482933,
@@ -2315,7 +2576,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Suncheon Christian History Museum",
-                  "text": "Suncheon Christian History Museum este un muzeu în Suncheon.",
+                  "text": "Muzeul de Istorie Creștină Suncheon este un muzeu al istoriei creștine în cartierul Suncheon din City.",
                   "category": "museum",
                   "coords": [
                         127.480187,
@@ -2324,7 +2585,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Seonbi Culture Experience Center",
-                  "text": "Seonbi Culture Experience Center este un muzeu în Suncheon.",
+                  "text": "Centrul de Experiență Culturală Seonbi este un centru cultural dedicat învățaților Seonbi în cartierul istoric din City.",
                   "category": "museum",
                   "coords": [
                         127.480232,
@@ -2333,7 +2594,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "European Porcelain Museum Cafe & Restaurant",
-                  "text": "European Porcelain Museum Cafe & Restaurant este un muzeu din Suncheon.",
+                  "text": "Muzeul European de Porțelan Cafenea și Restaurant este un muzeu-cafenea cu porțelan european în cartierul turistic din City.",
                   "category": "museum",
                   "coords": [
                         127.481557,
@@ -2342,7 +2603,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "The Koi",
-                  "text": "The Koi este o grădină zoologică în Suncheon.",
+                  "text": "Koi este o atracție de familie (posibil un iaz) într-o grădină din City.",
                   "category": "family",
                   "coords": [
                         127.482834,
@@ -2351,7 +2612,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Convention Hall",
-                  "text": "Convention Hall este un muzeu în Suncheon.",
+                  "text": "Sala de Convenții este un centru de convenții folosit ca muzeu în City.",
                   "category": "museum",
                   "coords": [
                         127.48412,
@@ -2360,7 +2621,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Suncheon Bay National Garden History Museum",
-                  "text": "Un muzeu dedicat istoriei Grădinii Naționale din Golful Suncheon.",
+                  "text": "Muzeul de Istorie al Grădinii Naționale Suncheon Bay este un muzeu de istorie în Grădina Suncheon Bay din City.",
                   "category": "museum",
                   "coords": [
                         127.49631,
@@ -2369,7 +2630,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Jangcheon Yellow Theater",
-                  "text": "Un teatru local pentru spectacole în Suncheon.",
+                  "text": "Teatrul Galben Jangcheon este un teatru cu temă galbenă în cartierul Jangcheon din City.",
                   "category": "cultural",
                   "coords": [
                         127.490094,
@@ -2387,7 +2648,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Palma Monument",
-                  "text": "Un monument istoric în orașul Suncheon.",
+                  "text": "Monumentul Palma este un monument istoric pe o piață din City.",
                   "category": "historical",
                   "coords": [
                         127.494397,
@@ -2396,7 +2657,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Suncheon Culture and Arts Center",
-                  "text": "Un centru de cultură și artă cu spații de galerie în Suncheon.",
+                  "text": "Centrul de Cultură și Arte Suncheon este un centru cultural și artistic în cartierul Suncheon din City.",
                   "category": "museum",
                   "coords": [
                         127.485289,
@@ -2405,7 +2666,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Seogwang Hot Springs",
-                  "text": "O instalație publică de izvoare termale și saună în Suncheon.",
+                  "text": "Izvorul Termal Seogwang este un izvor termal natural în cartierul Seogwang din City.",
                   "category": "landmark",
                   "coords": [
                         127.484446,
@@ -2414,7 +2675,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Yuil Hot Springs",
-                  "text": "O unitate locală cu izvoare termale și saună în Suncheon.",
+                  "text": "Izvorul Termal Yuil este o stațiune termală în cartierul Yuil din City.",
                   "category": "landmark",
                   "coords": [
                         127.490788,
@@ -2423,7 +2684,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Taeyang Hot Springs",
-                  "text": "O saună publică și baie termală în Suncheon.",
+                  "text": "Izvorul Termal Taeyang este un izvor termal în zona spa a orașului City.",
                   "category": "landmark",
                   "coords": [
                         127.4875,
@@ -2434,7 +2695,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Yongdang Daeju Fiore",
-                  "text": "Yongdang Daeju Fiore is a castle in Suncheon.",
+                  "text": "Yongdang Daeju Fiore is a castle-like structure in a residential area of City.",
                   "category": "castle",
                   "coords": [
                         127.494678,
@@ -2443,7 +2704,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Quantum Computer House",
-                  "text": "Quantum Computer House is a castle in Suncheon.",
+                  "text": "Quantum Computer House is a castle-shaped building in City's tech park.",
                   "category": "castle",
                   "coords": [
                         127.478359,
@@ -2452,7 +2713,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Suncheon National University Museum",
-                  "text": "Suncheon National University Museum is a museum in Suncheon.",
+                  "text": "Suncheon National University Museum is a university museum on the Suncheon campus in City.",
                   "category": "museum",
                   "coords": [
                         127.482933,
@@ -2461,7 +2722,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Suncheon Christian History Museum",
-                  "text": "Suncheon Christian History Museum is a museum in Suncheon.",
+                  "text": "Suncheon Christian History Museum is a museum of Christian history in the Suncheon district of City.",
                   "category": "museum",
                   "coords": [
                         127.480187,
@@ -2470,7 +2731,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Seonbi Culture Experience Center",
-                  "text": "Seonbi Culture Experience Center is a museum in Suncheon.",
+                  "text": "Seonbi Culture Experience Center is a culture center dedicated to Seonbi scholars in City's historic quarter.",
                   "category": "museum",
                   "coords": [
                         127.480232,
@@ -2479,7 +2740,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "European Porcelain Museum Cafe & Restaurant",
-                  "text": "European Porcelain Museum Cafe & Restaurant is a museum in Suncheon.",
+                  "text": "European Porcelain Museum Cafe & Restaurant is a museum-cafe showcasing European porcelain in City's tourist district.",
                   "category": "museum",
                   "coords": [
                         127.481557,
@@ -2488,7 +2749,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Koi",
-                  "text": "The Koi is a zoo in Suncheon.",
+                  "text": "Koi is a family attraction (likely a pond) in a garden in City.",
                   "category": "family",
                   "coords": [
                         127.482834,
@@ -2497,7 +2758,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Convention Hall",
-                  "text": "Convention Hall is a museum in Suncheon.",
+                  "text": "Convention Hall is a convention center used as a museum in City.",
                   "category": "museum",
                   "coords": [
                         127.48412,
@@ -2506,7 +2767,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Suncheon Bay National Garden History Museum",
-                  "text": "A museum dedicated to the history of the Suncheon Bay National Garden.",
+                  "text": "Suncheon Bay National Garden History Museum is a history museum in City's Suncheon Bay Garden.",
                   "category": "museum",
                   "coords": [
                         127.49631,
@@ -2515,7 +2776,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Jangcheon Yellow Theater",
-                  "text": "A local theater for performances in Suncheon.",
+                  "text": "Jangcheon Yellow Theater is a yellow-themed theater in the Jangcheon area of City.",
                   "category": "cultural",
                   "coords": [
                         127.490094,
@@ -2533,7 +2794,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Palma Monument",
-                  "text": "A historical monument in the city of Suncheon.",
+                  "text": "Palma Monument is a historical monument on a square in City.",
                   "category": "historical",
                   "coords": [
                         127.494397,
@@ -2542,7 +2803,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Suncheon Culture and Arts Center",
-                  "text": "A center for culture and arts featuring gallery spaces in Suncheon.",
+                  "text": "Suncheon Culture and Arts Center is a culture and arts center in the Suncheon district of City.",
                   "category": "museum",
                   "coords": [
                         127.485289,
@@ -2551,7 +2812,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Seogwang Hot Spring",
-                  "text": "A public hot spring and sauna facility in Suncheon.",
+                  "text": "Seogwang Hot Spring is a natural hot spring in the Seogwang area of City.",
                   "category": "landmark",
                   "coords": [
                         127.484446,
@@ -2560,7 +2821,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Yuil Hot Spring",
-                  "text": "A local hot spring and sauna facility in Suncheon.",
+                  "text": "Yuil Hot Spring is a hot spring resort in the Yuil district of City.",
                   "category": "landmark",
                   "coords": [
                         127.490788,
@@ -2569,7 +2830,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Taeyang Hot Spring",
-                  "text": "A public sauna and hot spring bath in Suncheon.",
+                  "text": "Taeyang Hot Spring is a hot spring in City's spa zone.",
                   "category": "landmark",
                   "coords": [
                         127.4875,
@@ -2625,7 +2886,268 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     },
   },
   {
-    id: "gyeongju-city-cities-v2",
+    id: "gyeongju-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museum",
+                  "text": "Das Museum präsentiert eine bedeutende Sammlung von Artefakten und Goldschmuck aus der Silla-Dynastie.",
+                  "category": "museum",
+                  "coords": [
+                        129.194729,
+                        35.862321
+                  ]
+            },
+            {
+                  "name": "Gyeongju-bu hall",
+                  "text": "Ein historisches Gelände mit Überresten lokaler Regierungsgebäude aus der Zeit der Joseon-Dynastie.",
+                  "category": "historical",
+                  "coords": [
+                        129.21049,
+                        35.846224
+                  ]
+            },
+            {
+                  "name": "Jungang Night Market",
+                  "text": "Ein lebhafter Abendmarkt, der für seine große Auswahl an koreanischem Streetfood und Snacks bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        129.206314,
+                        35.84409
+                  ]
+            },
+            {
+                  "name": "Tomb of King-Talhae",
+                  "text": "Die letzte Ruhestätte von König Talhae, dem vierten Monarchen des antiken Silla-Reiches.",
+                  "category": "historical",
+                  "coords": [
+                        129.232078,
+                        35.852246
+                  ]
+            },
+            {
+                  "name": "Sungsinjeon Shrine",
+                  "text": "Diese traditionelle Gedenkstätte ehrt den ersten König von Silla mit klassischer koreanischer Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        129.232758,
+                        35.85134
+                  ]
+            },
+            {
+                  "name": "Tomb in Yonggang-dong, Gyeongju",
+                  "text": "Ein Steinkammergrab aus der Silla-Zeit, in dem seltene Tonfiguren bei Ausgrabungen entdeckt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        129.224372,
+                        35.861329
+                  ]
+            },
+            {
+                  "name": "Baengnyulsa Temple",
+                  "text": "Ein alter buddhistischer Tempel am Berg Geumgang, der mit dem Märtyrertum von Ichadon verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        129.231406,
+                        35.858884
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum",
+                  "text": "A múzeum a Silla-dinasztia idejéből származó műtárgyak és aranyékszerek jelentős gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        129.194729,
+                        35.862321
+                  ]
+            },
+            {
+                  "name": "Gyeongju-bu hall",
+                  "text": "Történelmi helyszín a Joseon-dinasztia idejéből származó helyi kormányzati épületek maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        129.21049,
+                        35.846224
+                  ]
+            },
+            {
+                  "name": "Jungang Night Market",
+                  "text": "Lüktető esti piac, amely a koreai utcai ételek és snackek széles választékáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        129.206314,
+                        35.84409
+                  ]
+            },
+            {
+                  "name": "Tomb of King-Talhae",
+                  "text": "Talhae királynak, az ősi Silla-birodalom negyedik uralkodójának végső nyughelye.",
+                  "category": "historical",
+                  "coords": [
+                        129.232078,
+                        35.852246
+                  ]
+            },
+            {
+                  "name": "Sungsinjeon Shrine",
+                  "text": "Ez a hagyományos emlékhely klasszikus koreai építészettel tisztelg Silla első királya előtt.",
+                  "category": "landmark",
+                  "coords": [
+                        129.232758,
+                        35.85134
+                  ]
+            },
+            {
+                  "name": "Tomb in Yonggang-dong, Gyeongju",
+                  "text": "Silla-kori kőkamrás sír, amelyben ritka agyagfigurákat találtak a feltárások során.",
+                  "category": "historical",
+                  "coords": [
+                        129.224372,
+                        35.861329
+                  ]
+            },
+            {
+                  "name": "Baengnyulsa Temple",
+                  "text": "Ősi buddhista templom a Geumgang-hegyen, amely Ichadon vértanúságához kötődik.",
+                  "category": "landmark",
+                  "coords": [
+                        129.231406,
+                        35.858884
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum",
+                  "text": "Muzeul prezintă o colecție importantă de artefacte și bijuterii din aur din timpul dinastiei Silla.",
+                  "category": "museum",
+                  "coords": [
+                        129.194729,
+                        35.862321
+                  ]
+            },
+            {
+                  "name": "Gyeongju-bu hall",
+                  "text": "Un sit istoric cu rămășițe ale clădirilor administrative locale din timpul dinastiei Joseon.",
+                  "category": "historical",
+                  "coords": [
+                        129.21049,
+                        35.846224
+                  ]
+            },
+            {
+                  "name": "Jungang Night Market",
+                  "text": "O piață de noapte plină de viață, cunoscută pentru varietatea sa mare de mâncare stradală coreeană.",
+                  "category": "landmark",
+                  "coords": [
+                        129.206314,
+                        35.84409
+                  ]
+            },
+            {
+                  "name": "Tomb of King-Talhae",
+                  "text": "Locul de odihnă veșnică al regelui Talhae, al patrulea monarh al vechiului regat Silla.",
+                  "category": "historical",
+                  "coords": [
+                        129.232078,
+                        35.852246
+                  ]
+            },
+            {
+                  "name": "Sungsinjeon Shrine",
+                  "text": "Acest loc memorial tradițional îl onorează pe primul rege din Silla prin arhitectură coreeană clasică.",
+                  "category": "landmark",
+                  "coords": [
+                        129.232758,
+                        35.85134
+                  ]
+            },
+            {
+                  "name": "Tomb in Yonggang-dong, Gyeongju",
+                  "text": "Un mormânt cu cameră de piatră din epoca Silla, unde au fost descoperite figurine rare de lut în timpul săpăturilor.",
+                  "category": "historical",
+                  "coords": [
+                        129.224372,
+                        35.861329
+                  ]
+            },
+            {
+                  "name": "Baengnyulsa Temple",
+                  "text": "Un vechi templu budist de pe muntele Geumgang, legat de martiriul lui Ichadon.",
+                  "category": "landmark",
+                  "coords": [
+                        129.231406,
+                        35.858884
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum",
+                  "text": "The museum presents a significant collection of artifacts and gold jewelry from the Silla Dynasty.",
+                  "category": "museum",
+                  "coords": [
+                        129.194729,
+                        35.862321
+                  ]
+            },
+            {
+                  "name": "Gyeongju-bu hall",
+                  "text": "A historical site featuring remains of local government buildings from the Joseon Dynasty era.",
+                  "category": "historical",
+                  "coords": [
+                        129.21049,
+                        35.846224
+                  ]
+            },
+            {
+                  "name": "Jungang Night Market",
+                  "text": "A vibrant evening market known for its wide variety of Korean street food and snacks.",
+                  "category": "landmark",
+                  "coords": [
+                        129.206314,
+                        35.84409
+                  ]
+            },
+            {
+                  "name": "Tomb of King-Talhae",
+                  "text": "The final resting place of King Talhae, the fourth monarch of the ancient Silla kingdom.",
+                  "category": "historical",
+                  "coords": [
+                        129.232078,
+                        35.852246
+                  ]
+            },
+            {
+                  "name": "Sungsinjeon Shrine",
+                  "text": "This traditional memorial site honors the first king of Silla with classic Korean architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        129.232758,
+                        35.85134
+                  ]
+            },
+            {
+                  "name": "Tomb in Yonggang-dong, Gyeongju",
+                  "text": "A Silla-era stone chamber tomb where rare clay figurines were discovered during excavations.",
+                  "category": "historical",
+                  "coords": [
+                        129.224372,
+                        35.861329
+                  ]
+            },
+            {
+                  "name": "Baengnyulsa Temple",
+                  "text": "An ancient Buddhist temple on Mount Geumgang associated with the martyrdom of Ichadon.",
+                  "category": "landmark",
+                  "coords": [
+                        129.231406,
+                        35.858884
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KR-47",
     coords: [129.2110, 35.8560],
@@ -2677,7 +3199,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Geoje Land",
-                  "text": "거제랜드 ist ein Vergnügungs- und Themenpark in Geoje.",
+                  "text": "Geoje Land ist ein familienfreundlicher Freizeitpark in der Geoje-Region von City.",
                   "category": "family",
                   "coords": [
                         128.624018,
@@ -2686,7 +3208,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Leaf Parrot",
-                  "text": "리프페럿 ist ein Zoo in der Stadt Geoje.",
+                  "text": "Familienpark mit bunten Papageien und tropischer Vegetation in der Stadt.",
                   "category": "family",
                   "coords": [
                         128.609479,
@@ -2695,7 +3217,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gyeryongsan",
-                  "text": "Gyeryongsan ist ein Berggipfel in Geoje.",
+                  "text": "Gyeryongsan, ein Berg mit einem drachenförmigen Kamm.",
                   "category": "natural",
                   "coords": [
                         128.60759,
@@ -2704,7 +3226,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gohyeon Fortress",
-                  "text": "고현성 ist eine historische Attraktion in Geoje.",
+                  "text": "Gohyeon-Festung auf einem Hügel mit Blick auf die Altstadt.",
                   "category": "landmark",
                   "coords": [
                         128.620578,
@@ -2713,7 +3235,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Deck Observatory",
-                  "text": "데크전망대 ist ein Aussichtspunkt in Geoje, der malerische Ausblicke bietet.",
+                  "text": "Natürliche Aussichtsplattform aus Holz mit Panoramablick auf die Landschaft.",
                   "category": "natural",
                   "coords": [
                         128.616386,
@@ -2722,7 +3244,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Observatory",
-                  "text": "전망대 ist ein Aussichtspunkt in der Stadt Geoje.",
+                  "text": "Astronomische Sternwarte auf einem Hügel mit einem großen Teleskop.",
                   "category": "natural",
                   "coords": [
                         128.61334,
@@ -2733,7 +3255,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Geoje Land",
-                  "text": "A 거제랜드 egy szórakoztató és vidámpark Geoje városában.",
+                  "text": "A Geoje Land egy családi vidámpark a City Geoje régiójában.",
                   "category": "family",
                   "coords": [
                         128.624018,
@@ -2742,7 +3264,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Leaf Parrot",
-                  "text": "A 리프페럿 egy állatkert Geoje városában.",
+                  "text": "Családi park színes papagájokkal és trópusi növényzettel a városban.",
                   "category": "family",
                   "coords": [
                         128.609479,
@@ -2751,7 +3273,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gyeryongsan",
-                  "text": "A Gyeryongsan egy hegycsúcs Geoje városában.",
+                  "text": "Gyeryongsan, egy hegy sárkány alakú gerinccel.",
                   "category": "natural",
                   "coords": [
                         128.60759,
@@ -2760,7 +3282,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gohyeon Fortress",
-                  "text": "A 고현성 egy történelmi látványosság Geoje városában.",
+                  "text": "Gohyeon erőd a dombtetőn, rálátással a régi városra.",
                   "category": "landmark",
                   "coords": [
                         128.620578,
@@ -2769,7 +3291,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Deck Observatory",
-                  "text": "A 데크전망대 egy kilátó, amely festői panorámát nyújt Geoje városában.",
+                  "text": "Természetes kilátó fából, panorámás kilátással a tájra.",
                   "category": "natural",
                   "coords": [
                         128.616386,
@@ -2778,7 +3300,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Observatory",
-                  "text": "A 전망대 egy kilátó Geoje városában.",
+                  "text": "Csillagvizsgáló dombtetőn, nagy távcsővel.",
                   "category": "natural",
                   "coords": [
                         128.61334,
@@ -2789,7 +3311,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Geoje Land",
-                  "text": "거제랜드 este un parc tematic și de distracții situat în Geoje.",
+                  "text": "Geoje Land este un parc de distracții pentru familii în regiunea Geoje din City.",
                   "category": "family",
                   "coords": [
                         128.624018,
@@ -2798,7 +3320,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Leaf Parrot",
-                  "text": "리프페럿 este o grădină zoologică situată în orașul Geoje.",
+                  "text": "Parcul de familie cu papagali colorați și vegetație tropicală în oraș.",
                   "category": "family",
                   "coords": [
                         128.609479,
@@ -2807,7 +3329,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gyeryongsan",
-                  "text": "Gyeryongsan este un vârf de munte situat în Geoje.",
+                  "text": "Gyeryongsan, un munte cu o creastă în formă de dragon.",
                   "category": "natural",
                   "coords": [
                         128.60759,
@@ -2816,7 +3338,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gohyeon Fortress",
-                  "text": "고현성 este o atracție istorică situată în Geoje.",
+                  "text": "Fortăreața Gohyeon pe un deal, cu vedere spre orașul vechi.",
                   "category": "landmark",
                   "coords": [
                         128.620578,
@@ -2825,7 +3347,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Deck Observatory",
-                  "text": "데크전망대 este un punct de belvedere care oferă priveliști pitorești în Geoje.",
+                  "text": "Platformă naturală de observație din lemn cu vedere panoramică asupra peisajului.",
                   "category": "natural",
                   "coords": [
                         128.616386,
@@ -2834,7 +3356,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Observatory",
-                  "text": "전망대 este un punct de belvedere situat în orașul Geoje.",
+                  "text": "Observator astronomic pe un deal, cu un telescop mare.",
                   "category": "natural",
                   "coords": [
                         128.61334,
@@ -2845,7 +3367,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Geoje Land",
-                  "text": "거제랜드 is an amusement and theme park located in Geoje.",
+                  "text": "Geoje Land is a family amusement park in the Geoje region of City.",
                   "category": "family",
                   "coords": [
                         128.624018,
@@ -2854,7 +3376,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Leaf Parrot",
-                  "text": "리프페럿 is a zoo located in the city of Geoje.",
+                  "text": "Family park with colorful parrots and tropical vegetation in the city.",
                   "category": "family",
                   "coords": [
                         128.609479,
@@ -2863,7 +3385,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gyeryongsan (Mountain)",
-                  "text": "Gyeryongsan is a mountain peak located in Geoje.",
+                  "text": "Gyeryongsan, a mountain with a dragon-shaped ridge.",
                   "category": "natural",
                   "coords": [
                         128.60759,
@@ -2872,7 +3394,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gohyeon Fortress",
-                  "text": "고현성 is a historical attraction situated in Geoje.",
+                  "text": "Gohyeon Fortress on a hill overlooking the old town.",
                   "category": "landmark",
                   "coords": [
                         128.620578,
@@ -2881,7 +3403,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Deck Observatory",
-                  "text": "데크전망대 is a viewpoint offering scenic vistas in Geoje.",
+                  "text": "Natural wooden deck observatory offering panoramic views of the landscape.",
                   "category": "natural",
                   "coords": [
                         128.616386,
@@ -2890,7 +3412,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Observatory",
-                  "text": "전망대 is a viewpoint located in the city of Geoje.",
+                  "text": "Astronomical observatory on a hill with a large telescope.",
                   "category": "natural",
                   "coords": [
                         128.61334,
@@ -2950,7 +3472,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Geomdan Prehistoric Museum",
-                  "text": "Ein Museum in Gimpo, das sich auf prähistorische Funde konzentriert.",
+                  "text": "Museum in Andong, das traditionelle koreanische Inhalte zeigt.",
                   "category": "museum",
                   "coords": [
                         126.69869,
@@ -2959,7 +3481,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gimpo Hyanggyo",
-                  "text": "Eine historische konfuzianische Schule in der Stadt Gimpo.",
+                  "text": "Konfuzianische Schule aus der Joseon-Dynastie in Gimpo.",
                   "category": "historical",
                   "coords": [
                         126.709834,
@@ -2968,7 +3490,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gimpo Jangneung",
-                  "text": "Eine königliche Grabstätte aus der Joseon-Dynastie in Gimpo.",
+                  "text": "Königliches Grab der Joseon-Dynastie in Gimpo mit Steinfiguren.",
                   "category": "historical",
                   "coords": [
                         126.711149,
@@ -2977,7 +3499,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Jangneungsan Mountain",
-                  "text": "Ein Berggipfel mit Aussichtspunkten in Gimpo.",
+                  "text": "Jangneungsan, ein Berggipfel mit Panoramablick.",
                   "category": "natural",
                   "coords": [
                         126.709252,
@@ -2986,7 +3508,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Memorial Monument",
-                  "text": "Ein lokales Gedenkmonument in Gimpo.",
+                  "text": "Steinernes Denkmal zur Erinnerung an gefallene Soldaten mit eingravierten Namen.",
                   "category": "historical",
                   "coords": [
                         126.70464,
@@ -2995,7 +3517,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gimpo Art Hall",
-                  "text": "Ein Zentrum für Kunst und kulturelle Veranstaltungen in Gimpo.",
+                  "text": "Kunsthalle in Gimpo mit modernen Ausstellungsräumen und einer Bühne.",
                   "category": "cultural",
                   "coords": [
                         126.720141,
@@ -3006,7 +3528,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Geomdan Prehistoric Museum",
-                  "text": "Múzeum Kimpóban, amely a prahistorikus leletekre összpontosít.",
+                  "text": "Múzeum Andongban, amely hagyományos koreai tartalmakat mutat be.",
                   "category": "museum",
                   "coords": [
                         126.69869,
@@ -3015,7 +3537,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gimpo Hyanggyo",
-                  "text": "Történelmi konfuciánus iskola Kimpo városában.",
+                  "text": "Konfuciánus iskola a Joseon-dinasztiából Gimpóban.",
                   "category": "historical",
                   "coords": [
                         126.709834,
@@ -3024,7 +3546,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gimpo Jangneung",
-                  "text": "Csoszon-kori királyi sírhely Kimpóban.",
+                  "text": "Joseon-dinasztia királyi sírja Gimpóban, kőszobrokkal.",
                   "category": "historical",
                   "coords": [
                         126.711149,
@@ -3033,7 +3555,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Jangneungsan Mountain",
-                  "text": "Hegycsúcs kilátópontokkal Kimpóban.",
+                  "text": "Jangneungsan, egy hegycsúcs panorámás kilátással.",
                   "category": "natural",
                   "coords": [
                         126.709252,
@@ -3042,7 +3564,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Memorial Monument",
-                  "text": "Helyi emlékoszlop Kimpóban.",
+                  "text": "Kőemlékmű az elesett katonák emlékére, nevekkel gravírozva.",
                   "category": "historical",
                   "coords": [
                         126.70464,
@@ -3051,7 +3573,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gimpo Art Hall",
-                  "text": "Művészeti és kulturális rendezvényközpont Kimpóban.",
+                  "text": "Művészeti csarnok Gimpóban modern kiállítóterekkel és színpaddal.",
                   "category": "cultural",
                   "coords": [
                         126.720141,
@@ -3062,7 +3584,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Geomdan Prehistoric Museum",
-                  "text": "Un muzeu în Gimpo care se concentrează pe vestigiile preistorice.",
+                  "text": "Muzeul din Andong care prezintă conținuturi tradiționale coreene.",
                   "category": "museum",
                   "coords": [
                         126.69869,
@@ -3071,7 +3593,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gimpo Hyanggyo",
-                  "text": "O școală confuciană istorică în orașul Gimpo.",
+                  "text": "Școală confuciană din dinastia Joseon din Gimpo.",
                   "category": "historical",
                   "coords": [
                         126.709834,
@@ -3080,7 +3602,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gimpo Jangneung",
-                  "text": "Un sit funerar regal din dinastia Joseon în Gimpo.",
+                  "text": "Mormânt regal al dinastiei Joseon în Gimpo, cu statui de piatră.",
                   "category": "historical",
                   "coords": [
                         126.711149,
@@ -3089,7 +3611,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Jangneungsan Mountain",
-                  "text": "Un vârf de munte cu puncte de belvedere în Gimpo.",
+                  "text": "Jangneungsan, un vârf montan cu vederi panoramice.",
                   "category": "natural",
                   "coords": [
                         126.709252,
@@ -3098,7 +3620,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Memorial Monument",
-                  "text": "Un monument comemorativ local în Gimpo.",
+                  "text": "Monument de piatră în memoria soldaților căzuți, cu nume gravate.",
                   "category": "historical",
                   "coords": [
                         126.70464,
@@ -3107,7 +3629,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gimpo Art Hall",
-                  "text": "Un centru pentru artă și evenimente culturale în Gimpo.",
+                  "text": "Sală de artă în Gimpo cu spații de expoziție moderne și o scenă.",
                   "category": "cultural",
                   "coords": [
                         126.720141,
@@ -3118,7 +3640,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Geomdanseonsa Museum",
-                  "text": "A museum in Gimpo focusing on prehistoric remains.",
+                  "text": "Museum in Andong showcasing traditional Korean cultural contents.",
                   "category": "museum",
                   "coords": [
                         126.69869,
@@ -3127,7 +3649,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gimpo Hyanggyo",
-                  "text": "A historical Confucian school in the city of Gimpo.",
+                  "text": "Confucian school from the Joseon dynasty in Gimpo.",
                   "category": "historical",
                   "coords": [
                         126.709834,
@@ -3136,7 +3658,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gimpo Jangneung",
-                  "text": "A royal tomb site from the Joseon Dynasty in Gimpo.",
+                  "text": "Royal tomb of the Joseon dynasty in Gimpo with stone figures.",
                   "category": "historical",
                   "coords": [
                         126.711149,
@@ -3145,7 +3667,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Jangneungsan (Mt.)",
-                  "text": "A mountain peak with viewpoints in Gimpo.",
+                  "text": "Jangneungsan, a mountain peak with panoramic views.",
                   "category": "natural",
                   "coords": [
                         126.709252,
@@ -3154,7 +3676,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Memorial Monument",
-                  "text": "A local memorial monument in Gimpo.",
+                  "text": "Stone memorial monument commemorating fallen soldiers with engraved names.",
                   "category": "historical",
                   "coords": [
                         126.70464,
@@ -3163,7 +3685,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gimpo Art Hall",
-                  "text": "A center for arts and cultural events in Gimpo.",
+                  "text": "Art hall in Gimpo with modern exhibition spaces and a stage.",
                   "category": "cultural",
                   "coords": [
                         126.720141,
@@ -3232,7 +3754,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Mabu Folk Village",
-                  "text": "Mabu Folk Village ist ein Themenpark in Andong.",
+                  "text": "Traditionelles koreanisches Dorf in Mabu mit strohgedeckten Häusern und Handwerk.",
                   "category": "family",
                   "coords": [
                         128.718059,
@@ -3241,7 +3763,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Andong Traditional Cultural Contents Museum",
-                  "text": "Das Andong Traditional Cultural Contents Museum ist ein Kulturmuseum in Andong.",
+                  "text": "Museum in Andong, das traditionelle koreanische Kulturinhalte interaktiv präsentiert.",
                   "category": "museum",
                   "coords": [
                         128.734234,
@@ -3250,7 +3772,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Soju Museum in Andong",
-                  "text": "Das Soju Museum in Andong ist ein Museum in Andong.",
+                  "text": "Museum in Andong, das die Geschichte und Herstellung von Soju zeigt.",
                   "category": "museum",
                   "coords": [
                         128.708845,
@@ -3259,7 +3781,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Andong Angi-dong Three-story Stone Pagoda",
-                  "text": "안동안기동삼층석탑 ist eine archäologische Stätte in Andong.",
+                  "text": "Dreistöckige Steinpagode aus der Silla-Zeit im Angi-dong von Andong.",
                   "category": "historical",
                   "coords": [
                         128.717881,
@@ -3268,7 +3790,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Andong Unheung-dong Five-story Brick Pagoda",
-                  "text": "안동 운흥동 오층전탑 ist eine historische archäologische Stätte in Andong.",
+                  "text": "Fünfstöckige Ziegelpagode aus der Goryeo-Zeit im Unheung-dong von Andong.",
                   "category": "historical",
                   "coords": [
                         128.731461,
@@ -3277,7 +3799,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Taesa Tomb",
-                  "text": "Taesa Tomb ist eine archäologische Stätte in Andong.",
+                  "text": "Grabhügel eines Silla-Königs in Andong mit steinernen Opfertischen.",
                   "category": "historical",
                   "coords": [
                         128.731822,
@@ -3286,7 +3808,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Andong Culture and Arts Center",
-                  "text": "안동문화예술의 전당 ist ein Theater in Andong.",
+                  "text": "Kulturzentrum in Andong mit Theatersaal und Galerien für Aufführungen.",
                   "category": "cultural",
                   "coords": [
                         128.725357,
@@ -3295,7 +3817,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Imcheonggak House",
-                  "text": "Imcheonggak House ist eine historische archäologische Stätte in Andong.",
+                  "text": "Traditionelles koreanisches Herrenhaus aus der Joseon-Zeit in Andong mit einem Teich.",
                   "category": "historical",
                   "coords": [
                         128.744878,
@@ -3304,7 +3826,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Andong Mask Dance Theater",
-                  "text": "안동탈춤공연장 ist ein Veranstaltungsort in Andong.",
+                  "text": "Theater in Andong, das traditionelle koreanische Maskentänze aufführt.",
                   "category": "cultural",
                   "coords": [
                         128.732754,
@@ -3313,7 +3835,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Goryeo Gallery",
-                  "text": "Die Goryeo Gallery ist ein Kunstzentrum in Andong.",
+                  "text": "Galerie in Andong mit Kunstwerken aus der Goryeo-Dynastie.",
                   "category": "cultural",
                   "coords": [
                         128.729057,
@@ -3322,7 +3844,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Pyeonghwa-dong Three-story Stone Pagoda",
-                  "text": "평화동 삼층석탑 ist eine historische Attraktion in Andong.",
+                  "text": "Dreistöckige Steinpagode aus der Silla-Zeit in Pyeonghwa-dong, Andong.",
                   "category": "landmark",
                   "coords": [
                         128.716843,
@@ -3331,7 +3853,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gwiraejeong Pavilion",
-                  "text": "귀래정 ist eine landschaftlich reizvolle Attraktion in Andong.",
+                  "text": "Traditioneller koreanischer Pavillon am Fluss in Andong mit geschwungenem Dach.",
                   "category": "landmark",
                   "coords": [
                         128.73725,
@@ -3340,7 +3862,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Sinse-dong Mural Village",
-                  "text": "Das Sinse-dong Mural Village ist eine Touristenattraktion in Andong.",
+                  "text": "Dorf in Andong mit bemalten Häuserwänden und bunten Wandmalereien.",
                   "category": "landmark",
                   "coords": [
                         128.737762,
@@ -3349,7 +3871,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Andong Train",
-                  "text": "Der Andong Train ist eine lokale Attraktion in Andong.",
+                  "text": "Historischer Dampfzug, der durch Andong fährt und an Bahnhöfen hält.",
                   "category": "landmark",
                   "coords": [
                         128.756524,
@@ -3369,7 +3891,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Mabu Folk Village",
-                  "text": "A Mabu Folk Village egy vidámpark Andong városában.",
+                  "text": "Hagyományos koreai falu Mabuban, szalmatetős házakkal és kézművességgel.",
                   "category": "family",
                   "coords": [
                         128.718059,
@@ -3378,7 +3900,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Andong Traditional Cultural Contents Museum",
-                  "text": "Az Andong Traditional Cultural Contents Museum egy kulturális múzeum Andong városában.",
+                  "text": "Múzeum Andongban, amely interaktívan mutatja be a hagyományos koreai kultúrát.",
                   "category": "museum",
                   "coords": [
                         128.734234,
@@ -3387,7 +3909,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Soju Museum",
-                  "text": "A Soju Museum egy múzeum Andong városában.",
+                  "text": "Múzeum Andongban, amely a szodzsu történetét és készítését mutatja be.",
                   "category": "museum",
                   "coords": [
                         128.708845,
@@ -3396,7 +3918,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Andong Angi-dong Three-story Stone Pagoda",
-                  "text": "A 안동안기동삼층석탑 egy régészeti lelőhely Andong városában.",
+                  "text": "Háromszintes kőpagoda a Silla-korból Andong Angi-dong negyedében.",
                   "category": "historical",
                   "coords": [
                         128.717881,
@@ -3405,7 +3927,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Andong Unheung-dong Five-story Brick Pagoda",
-                  "text": "A 안동 운흥동 오층전탑 egy történelmi régészeti lelőhely Andong városában.",
+                  "text": "Ötszintes téglapagoda a Goryeo-korból Andong Unheung-dong negyedében.",
                   "category": "historical",
                   "coords": [
                         128.731461,
@@ -3414,7 +3936,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Taesa Tomb",
-                  "text": "A Taesa Tomb egy régészeti lelőhely Andong városában.",
+                  "text": "Silla-kori királyi sírhalom Andongban, kőáldozati asztalokkal.",
                   "category": "historical",
                   "coords": [
                         128.731822,
@@ -3423,7 +3945,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Andong Culture and Arts Center",
-                  "text": "A 안동문화예술의 전당 egy színház Andong városában.",
+                  "text": "Kulturális központ Andongban színházteremmel és galériákkal előadásokhoz.",
                   "category": "cultural",
                   "coords": [
                         128.725357,
@@ -3432,7 +3954,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Imcheonggak House",
-                  "text": "Az Imcheonggak House egy történelmi régészeti lelőhely Andong városában.",
+                  "text": "Hagyományos koreai nemesi ház a Joseon-korból Andongban, tóval.",
                   "category": "historical",
                   "coords": [
                         128.744878,
@@ -3441,7 +3963,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Andong Mask Dance Theater",
-                  "text": "A 안동탈춤공연장 egy előadóterem Andong városában.",
+                  "text": "Színház Andongban, amely hagyományos koreai maszkos táncokat ad elő.",
                   "category": "cultural",
                   "coords": [
                         128.732754,
@@ -3450,7 +3972,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Goryeo Gallery",
-                  "text": "A Goryeo Gallery egy művészeti központ Andong városában.",
+                  "text": "Galéria Andongban a Goryeo-dinasztia műalkotásaival.",
                   "category": "cultural",
                   "coords": [
                         128.729057,
@@ -3459,7 +3981,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Pyeonghwa-dong Three-story Stone Pagoda",
-                  "text": "A 평화동 삼층석탑 egy történelmi látványosság Andong városában.",
+                  "text": "Háromszintes kőpagoda a Silla-korból Andong Pyeonghwa-dong negyedében.",
                   "category": "landmark",
                   "coords": [
                         128.716843,
@@ -3468,7 +3990,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gwiraejeong Pavilion",
-                  "text": "A 귀래정 egy festői látványosság Andong városában.",
+                  "text": "Hagyományos koreai pavilon a folyóparton Andongban, íves tetővel.",
                   "category": "landmark",
                   "coords": [
                         128.73725,
@@ -3477,7 +3999,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Sinse-dong Mural Village",
-                  "text": "A Sinse-dong Mural Village egy turisztikai látványosság Andong városában.",
+                  "text": "Falu Andongban festett házfalakkal és színes falfestményekkel.",
                   "category": "landmark",
                   "coords": [
                         128.737762,
@@ -3486,7 +4008,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Andong Train",
-                  "text": "Az Andong Train egy helyi látványosság Andong városában.",
+                  "text": "Történelmi gőzmozdony, amely áthalad Andongon és állomásokon áll meg.",
                   "category": "landmark",
                   "coords": [
                         128.756524,
@@ -3506,7 +4028,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Mabu Folk Village",
-                  "text": "Mabu Folk Village este un parc tematic situat în Andong.",
+                  "text": "Sat tradițional coreean în Mabu, cu case acoperite cu paie și meșteșuguri.",
                   "category": "family",
                   "coords": [
                         128.718059,
@@ -3515,7 +4037,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Andong Traditional Cultural Contents Museum",
-                  "text": "Andong Traditional Cultural Contents Museum este un muzeu cultural în Andong.",
+                  "text": "Muzeu în Andong care prezintă interactiv conținuturi culturale tradiționale coreene.",
                   "category": "museum",
                   "coords": [
                         128.734234,
@@ -3524,7 +4046,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Soju Museum",
-                  "text": "Soju Museum este un muzeu situat în Andong.",
+                  "text": "Muzeul în Andong care prezintă istoria și fabricarea soju-ului.",
                   "category": "museum",
                   "coords": [
                         128.708845,
@@ -3533,7 +4055,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Andong Angi-dong Three-story Stone Pagoda",
-                  "text": "안동안기동삼층석탑 este un sit arheologic situat în Andong.",
+                  "text": "Pagodă de piatră cu trei etaje din perioada Silla în Angi-dong, Andong.",
                   "category": "historical",
                   "coords": [
                         128.717881,
@@ -3542,7 +4064,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Andong Unheung-dong Five-story Brick Pagoda",
-                  "text": "안동 운흥동 오층전탑 este un sit arheologic istoric din Andong.",
+                  "text": "Pagodă de cărămidă cu cinci etaje din perioada Goryeo în Unheung-dong, Andong.",
                   "category": "historical",
                   "coords": [
                         128.731461,
@@ -3551,7 +4073,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Taesa Tomb",
-                  "text": "Taesa Tomb este un sit arheologic situat în Andong.",
+                  "text": "Mormânt tumular al unui rege Silla în Andong, cu mese de piatră pentru ofrande.",
                   "category": "historical",
                   "coords": [
                         128.731822,
@@ -3560,7 +4082,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Andong Culture and Arts Center",
-                  "text": "안동문화예술의 전당 este un teatru în Andong.",
+                  "text": "Centru cultural în Andong cu sală de teatru și galerii pentru spectacole.",
                   "category": "cultural",
                   "coords": [
                         128.725357,
@@ -3569,7 +4091,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Imcheonggak House",
-                  "text": "Imcheonggak House este un sit arheologic istoric din Andong.",
+                  "text": "Conac tradițional coreean din perioada Joseon în Andong, cu un iaz.",
                   "category": "historical",
                   "coords": [
                         128.744878,
@@ -3578,7 +4100,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Andong Mask Dance Theater",
-                  "text": "안동탈춤공연장 este un teatru în Andong.",
+                  "text": "Teatrul din Andong care prezintă dansuri tradiționale coreene cu măști.",
                   "category": "cultural",
                   "coords": [
                         128.732754,
@@ -3587,7 +4109,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Goryeo Gallery",
-                  "text": "Goryeo Gallery este un centru de arte situat în Andong.",
+                  "text": "Galerie în Andong cu opere de artă din dinastia Goryeo.",
                   "category": "cultural",
                   "coords": [
                         128.729057,
@@ -3596,7 +4118,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Pyeonghwa-dong Three-story Stone Pagoda",
-                  "text": "평화동 삼층석탑 este o atracție istorică situată în Andong.",
+                  "text": "Pagodă de piatră cu trei etaje din perioada Silla în Pyeonghwa-dong, Andong.",
                   "category": "landmark",
                   "coords": [
                         128.716843,
@@ -3605,7 +4127,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gwiraejeong Pavilion",
-                  "text": "귀래정 este o atracție pitorească din Andong.",
+                  "text": "Pavilion tradițional coreean pe malul râului în Andong, cu acoperiș curbat.",
                   "category": "landmark",
                   "coords": [
                         128.73725,
@@ -3614,7 +4136,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Sinse-dong Mural Village",
-                  "text": "Sinse-dong Mural Village este o atracție turistică în Andong.",
+                  "text": "Sat în Andong cu pereți de case pictați și fresce colorate.",
                   "category": "landmark",
                   "coords": [
                         128.737762,
@@ -3623,7 +4145,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Andong Train",
-                  "text": "Andong Train este o atracție locală din Andong.",
+                  "text": "Tren cu aburi istoric care traversează Andongul și oprește în gări.",
                   "category": "landmark",
                   "coords": [
                         128.756524,
@@ -3643,7 +4165,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Mabu Folk Village",
-                  "text": "Mabu Folk Village is a theme park located in Andong.",
+                  "text": "Traditional Korean folk village in Mabu with thatched houses and crafts.",
                   "category": "family",
                   "coords": [
                         128.718059,
@@ -3652,7 +4174,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Andong Traditional Cultural Contents Museum",
-                  "text": "The Andong Traditional Cultural Contents Museum is a cultural museum in Andong.",
+                  "text": "Museum in Andong interactively presenting traditional Korean cultural contents.",
                   "category": "museum",
                   "coords": [
                         128.734234,
@@ -3661,7 +4183,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Soju Museum",
-                  "text": "The Soju Museum is a museum located in Andong.",
+                  "text": "Museum in Andong showcasing the history and production of soju.",
                   "category": "museum",
                   "coords": [
                         128.708845,
@@ -3670,7 +4192,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Andong Angi-dong Three-story Stone Pagoda",
-                  "text": "안동안기동삼층석탑 is an archaeological site located in Andong.",
+                  "text": "Three-story stone pagoda from the Silla period in Angi-dong, Andong.",
                   "category": "historical",
                   "coords": [
                         128.717881,
@@ -3679,7 +4201,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Andong Unheung-dong Five-story Brick Pagoda",
-                  "text": "안동 운흥동 오층전탑 is a historic archaeological site in Andong.",
+                  "text": "Five-story brick pagoda from the Goryeo period in Unheung-dong, Andong.",
                   "category": "historical",
                   "coords": [
                         128.731461,
@@ -3688,7 +4210,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Taesa Tomb",
-                  "text": "Taesa Tomb is an archaeological site located in Andong.",
+                  "text": "Tomb mound of a Silla king in Andong with stone offering tables.",
                   "category": "historical",
                   "coords": [
                         128.731822,
@@ -3697,7 +4219,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Andong Culture and Arts Center",
-                  "text": "안동문화예술의 전당 is a theatre venue in Andong.",
+                  "text": "Culture and arts center in Andong with a theater hall and galleries.",
                   "category": "cultural",
                   "coords": [
                         128.725357,
@@ -3706,7 +4228,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Imcheonggak House",
-                  "text": "Imcheonggak House is a historical archaeological site in Andong.",
+                  "text": "Traditional Korean noble house from the Joseon period in Andong with a pond.",
                   "category": "historical",
                   "coords": [
                         128.744878,
@@ -3715,7 +4237,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Andong Mask Dance Theater",
-                  "text": "안동탈춤공연장 is a performance venue in Andong.",
+                  "text": "Theater in Andong performing traditional Korean mask dances.",
                   "category": "cultural",
                   "coords": [
                         128.732754,
@@ -3724,7 +4246,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Goryeo Gallery",
-                  "text": "Goryeo Gallery is an arts centre situated in Andong.",
+                  "text": "Gallery in Andong featuring artworks from the Goryeo dynasty.",
                   "category": "cultural",
                   "coords": [
                         128.729057,
@@ -3733,7 +4255,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Pyeonghwa-dong Three-story Stone Pagoda",
-                  "text": "평화동 삼층석탑 is a historic attraction located in Andong.",
+                  "text": "Three-story stone pagoda from the Silla period in Pyeonghwa-dong, Andong.",
                   "category": "landmark",
                   "coords": [
                         128.716843,
@@ -3742,7 +4264,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gwiraejeong Pavilion",
-                  "text": "귀래정 is a scenic attraction situated in Andong.",
+                  "text": "Traditional Korean riverside pavilion in Andong with a curved roof.",
                   "category": "landmark",
                   "coords": [
                         128.73725,
@@ -3751,7 +4273,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Sinse-dong Mural Village",
-                  "text": "Sinse-dong Mural Village is a tourist attraction in Andong.",
+                  "text": "Village in Andong with painted house walls and colorful murals.",
                   "category": "landmark",
                   "coords": [
                         128.737762,
@@ -3760,7 +4282,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Andong Train",
-                  "text": "The Andong Train is a local attraction in Andong.",
+                  "text": "Historic steam train running through Andong and stopping at stations.",
                   "category": "landmark",
                   "coords": [
                         128.756524,
@@ -3816,7 +4338,520 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     },
   },
   {
-    id: "seogwipo-city-cities-v2",
+    id: "seogwipo-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pavillion",
+                  "text": "Dieses Freiluftdenkmal in der Gegend von Seogwipo bietet einen architektonischen Rastplatz mit malerischer Umgebung.",
+                  "category": "historical",
+                  "coords": [
+                        126.581215,
+                        33.244632
+                  ]
+            },
+            {
+                  "name": "The Castle of Shells",
+                  "text": "Diese Küstenattraktion in Seogwipo zeichnet sich durch architektonische Elemente aus, die von Meeresmuscheln inspiriert sind.",
+                  "category": "landmark",
+                  "coords": [
+                        126.576969,
+                        33.245193
+                  ]
+            },
+            {
+                  "name": "Coastal view",
+                  "text": "Dieser Aussichtspunkt in Seogwipo bietet einen Panoramablick auf die felsige Küste und das Meer.",
+                  "category": "natural",
+                  "coords": [
+                        126.578731,
+                        33.243949
+                  ]
+            },
+            {
+                  "name": "Seabrook Exhibition Hall",
+                  "text": "In Küstennähe gelegen, beherbergt diese Attraktion in Seogwipo Ausstellungsflächen, die der lokalen Meeresumwelt gewidmet sind.",
+                  "category": "landmark",
+                  "coords": [
+                        126.571931,
+                        33.245435
+                  ]
+            },
+            {
+                  "name": "Seobok sea view",
+                  "text": "Dieser Aussichtspunkt bietet einen weiten Blick auf das Meer von den Küstenklippen Seogwipos.",
+                  "category": "natural",
+                  "coords": [
+                        126.570918,
+                        33.244569
+                  ]
+            },
+            {
+                  "name": "Wasserfall",
+                  "text": "Dieser Aussichtspunkt ermöglicht es den Besuchern, das kraftvolle Wasser zu beobachten, das die felsige Wand hinabstürzt.",
+                  "category": "natural",
+                  "coords": [
+                        126.555101,
+                        33.246421
+                  ]
+            },
+            {
+                  "name": "Oedolgae rock",
+                  "text": "Diese einsame Felsnadel erhebt sich dramatisch über die Meeresoberfläche an der Küste von Seogwipo.",
+                  "category": "landmark",
+                  "coords": [
+                        126.545559,
+                        33.239909
+                  ]
+            },
+            {
+                  "name": "Halla Buddhism Exhibition Hall)",
+                  "text": "Dieser Museumskomplex zeigt eine große Sammlung buddhistischer Statuen und historischer religiöser Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        126.561655,
+                        33.250839
+                  ]
+            },
+            {
+                  "name": "Soam Memorial Museum",
+                  "text": "Dieses Gedenkmuseum ist lokalen Künstlern gewidmet und bewahrt traditionelle koreanische Kalligraphiearbeiten auf.",
+                  "category": "museum",
+                  "coords": [
+                        126.567393,
+                        33.245116
+                  ]
+            },
+            {
+                  "name": "Lee Jung Seop Art Gallery",
+                  "text": "Diese prominente Galerie zeigt die unverwechselbaren Gemälde des berühmten koreanischen modernen Künstlers Lee Jung Seop.",
+                  "category": "museum",
+                  "coords": [
+                        126.564867,
+                        33.245863
+                  ]
+            },
+            {
+                  "name": "Seogwiposi Gidang Art Center",
+                  "text": "Diese lokale Kulturinstitution bietet zeitgenössische bildende Kunst und moderne Ausstellungen in Seogwipo.",
+                  "category": "cultural",
+                  "coords": [
+                        126.551182,
+                        33.24485
+                  ]
+            },
+            {
+                  "name": "WORLD SEASHELL MUSEUM。",
+                  "text": "Dieses Spezialmuseum in Seogwipo stellt Tausende von seltenen Meeresmuscheln aus den Ozeanen der Welt aus.",
+                  "category": "museum",
+                  "coords": [
+                        126.551557,
+                        33.247433
+                  ]
+            },
+            {
+                  "name": "CGI",
+                  "text": "Dieses Kunstzentrum in Seogwipo konzentriert sich auf computergenerierte Bilder und digitale Medienausstellungen.",
+                  "category": "cultural",
+                  "coords": [
+                        126.567403,
+                        33.2522
+                  ]
+            },
+            {
+                  "name": "Bonglimsa Temple",
+                  "text": "Dieser buddhistische Tempel verfügt über traditionelle koreanische Holzarchitektur und eine friedliche Meditationshalle.",
+                  "category": "landmark",
+                  "coords": [
+                        126.539393,
+                        33.25087
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pavillion",
+                  "text": "Ez a Seogwipo területén található szabadtéri műemlék építészeti pihenőhelyet biztosít festői környezetben.",
+                  "category": "historical",
+                  "coords": [
+                        126.581215,
+                        33.244632
+                  ]
+            },
+            {
+                  "name": "The Castle of Shells",
+                  "text": "Ez a seogwipoi tengerparti látványosság tengeri kagylók által ihletett építészeti elemekkel rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        126.576969,
+                        33.245193
+                  ]
+            },
+            {
+                  "name": "Coastal view",
+                  "text": "Ez a seogwipoi kilátó panorámás kilátást nyújt a sziklás partvonalra és az óceánra.",
+                  "category": "natural",
+                  "coords": [
+                        126.578731,
+                        33.243949
+                  ]
+            },
+            {
+                  "name": "Seabrook Exhibition Hall",
+                  "text": "A part közelében található seogwipoi látványosság a helyi tengeri környezettel kapcsolatos kiállítótereknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        126.571931,
+                        33.245435
+                  ]
+            },
+            {
+                  "name": "Seobok sea view",
+                  "text": "Ez a kilátópont pazar kilátást nyújt a tengerre a seogwipoi tengerparti sziklákról.",
+                  "category": "natural",
+                  "coords": [
+                        126.570918,
+                        33.244569
+                  ]
+            },
+            {
+                  "name": "Wasserfall",
+                  "text": "Ez a kilátó lehetővé teszi a látogatók számára, hogy megfigyeljék a sziklás falon lezúduló erőteljes víztömeget.",
+                  "category": "natural",
+                  "coords": [
+                        126.555101,
+                        33.246421
+                  ]
+            },
+            {
+                  "name": "Oedolgae rock",
+                  "text": "Ez a magányos tengeri sziklaoszlop drámaian emelkedik az óceán felszíne fölé a seogwipoi partok mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        126.545559,
+                        33.239909
+                  ]
+            },
+            {
+                  "name": "Halla Buddhism Exhibition Hall)",
+                  "text": "Ez a múzeumkomplexum buddhista szobrok és történelmi vallási tárgyak nagy gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        126.561655,
+                        33.250839
+                  ]
+            },
+            {
+                  "name": "Soam Memorial Museum",
+                  "text": "Ezt az emlékmúzeumot a helyi művészeknek szentelték, és hagyományos koreai kalligráfiai alkotásokat őriz.",
+                  "category": "museum",
+                  "coords": [
+                        126.567393,
+                        33.245116
+                  ]
+            },
+            {
+                  "name": "Lee Jung Seop Art Gallery",
+                  "text": "Ez a kiemelkedő galéria a híres koreai modern művész, Lee Jung Seop jellegzetes festményeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        126.564867,
+                        33.245863
+                  ]
+            },
+            {
+                  "name": "Seogwiposi Gidang Art Center",
+                  "text": "Ez a helyi kulturális intézmény kortárs képzőművészetet és modern kiállításokat mutat be Seogwipóban.",
+                  "category": "cultural",
+                  "coords": [
+                        126.551182,
+                        33.24485
+                  ]
+            },
+            {
+                  "name": "WORLD SEASHELL MUSEUM。",
+                  "text": "Ez a seogwipoi különleges múzeum ritka tengeri kagylók ezreit állítja ki a világ óceánjaiból.",
+                  "category": "museum",
+                  "coords": [
+                        126.551557,
+                        33.247433
+                  ]
+            },
+            {
+                  "name": "CGI",
+                  "text": "Ez a seogwipoi művészeti központ a számítógéppel generált képekre és a digitális média bemutatóira összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        126.567403,
+                        33.2522
+                  ]
+            },
+            {
+                  "name": "Bonglimsa Temple",
+                  "text": "Ez a buddhista templom hagyományos koreai faépítészettel és egy békés meditációs csarnokkal rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        126.539393,
+                        33.25087
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pavillion",
+                  "text": "Acest monument în aer liber din zona Seogwipo oferă un loc de odihnă arhitectural cu împrejurimi pitorești.",
+                  "category": "historical",
+                  "coords": [
+                        126.581215,
+                        33.244632
+                  ]
+            },
+            {
+                  "name": "The Castle of Shells",
+                  "text": "Această atracție de coastă din Seogwipo prezintă elemente arhitecturale inspirate de scoicile marine.",
+                  "category": "landmark",
+                  "coords": [
+                        126.576969,
+                        33.245193
+                  ]
+            },
+            {
+                  "name": "Coastal view",
+                  "text": "Acest punct de belvedere din Seogwipo oferă o vedere panoramică asupra coastei stâncoase și a oceanului.",
+                  "category": "natural",
+                  "coords": [
+                        126.578731,
+                        33.243949
+                  ]
+            },
+            {
+                  "name": "Seabrook Exhibition Hall",
+                  "text": "Situată aproape de țărm, această atracție din Seogwipo găzduiește spații expoziționale dedicate mediului marin local.",
+                  "category": "landmark",
+                  "coords": [
+                        126.571931,
+                        33.245435
+                  ]
+            },
+            {
+                  "name": "Seobok sea view",
+                  "text": "Acest punct de observație oferă vederi panoramice ale mării de pe stâncile de coastă din Seogwipo.",
+                  "category": "natural",
+                  "coords": [
+                        126.570918,
+                        33.244569
+                  ]
+            },
+            {
+                  "name": "Wasserfall",
+                  "text": "Această zonă de vizionare permite vizitatorilor să privească apa puternică prăbușindu-se pe peretele stâncos.",
+                  "category": "natural",
+                  "coords": [
+                        126.555101,
+                        33.246421
+                  ]
+            },
+            {
+                  "name": "Oedolgae rock",
+                  "text": "Această stâncă solitară se ridică dramatic deasupra suprafeței oceanului de-a lungul coastei Seogwipo.",
+                  "category": "landmark",
+                  "coords": [
+                        126.545559,
+                        33.239909
+                  ]
+            },
+            {
+                  "name": "Halla Buddhism Exhibition Hall)",
+                  "text": "Acest complex muzeal expune o mare colecție de statui budiste și artefacte religioase istorice.",
+                  "category": "museum",
+                  "coords": [
+                        126.561655,
+                        33.250839
+                  ]
+            },
+            {
+                  "name": "Soam Memorial Museum",
+                  "text": "Acest muzeu memorial este dedicat artiștilor locali și păstrează lucrări de caligrafie coreeană tradițională.",
+                  "category": "museum",
+                  "coords": [
+                        126.567393,
+                        33.245116
+                  ]
+            },
+            {
+                  "name": "Lee Jung Seop Art Gallery",
+                  "text": "Această galerie proeminentă expune picturile distinctive ale renumitului artist modern coreean Lee Jung Seop.",
+                  "category": "museum",
+                  "coords": [
+                        126.564867,
+                        33.245863
+                  ]
+            },
+            {
+                  "name": "Seogwiposi Gidang Art Center",
+                  "text": "Această instituție culturală locală prezintă arte vizuale contemporane și expoziții moderne în Seogwipo.",
+                  "category": "cultural",
+                  "coords": [
+                        126.551182,
+                        33.24485
+                  ]
+            },
+            {
+                  "name": "WORLD SEASHELL MUSEUM。",
+                  "text": "Acest muzeu de specialitate din Seogwipo expune mii de scoici marine rare din oceanele din întreaga lume.",
+                  "category": "museum",
+                  "coords": [
+                        126.551557,
+                        33.247433
+                  ]
+            },
+            {
+                  "name": "CGI",
+                  "text": "Acest centru de arte din Seogwipo se concentrează pe imagini generate de computer și expoziții de media digitală.",
+                  "category": "cultural",
+                  "coords": [
+                        126.567403,
+                        33.2522
+                  ]
+            },
+            {
+                  "name": "Bonglimsa Temple",
+                  "text": "Acest templu budist are o arhitectură tradițională coreeană din lemn și o sală pașnică de meditație.",
+                  "category": "landmark",
+                  "coords": [
+                        126.539393,
+                        33.25087
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pavillion",
+                  "text": "This outdoor monument structure in the Seogwipo area provides an architectural resting spot with scenic surroundings.",
+                  "category": "historical",
+                  "coords": [
+                        126.581215,
+                        33.244632
+                  ]
+            },
+            {
+                  "name": "The Castle of Shells",
+                  "text": "This coastal attraction in Seogwipo features architectural elements inspired by marine seashells.",
+                  "category": "landmark",
+                  "coords": [
+                        126.576969,
+                        33.245193
+                  ]
+            },
+            {
+                  "name": "Coastal view",
+                  "text": "This viewpoint in Seogwipo provides a panoramic vista over the rocky coastline and the ocean.",
+                  "category": "natural",
+                  "coords": [
+                        126.578731,
+                        33.243949
+                  ]
+            },
+            {
+                  "name": "Seabrook Exhibition Hall",
+                  "text": "Located near the shore, this Seogwipo attraction hosts exhibition spaces dedicated to the local marine environment.",
+                  "category": "landmark",
+                  "coords": [
+                        126.571931,
+                        33.245435
+                  ]
+            },
+            {
+                  "name": "Seobok sea view",
+                  "text": "This vantage point offers sweeping views of the sea from the Seogwipo coastal cliffs.",
+                  "category": "natural",
+                  "coords": [
+                        126.570918,
+                        33.244569
+                  ]
+            },
+            {
+                  "name": "Waterfall",
+                  "text": "This viewing area allows visitors to watch the forceful water plunging down the rocky rock face.",
+                  "category": "natural",
+                  "coords": [
+                        126.555101,
+                        33.246421
+                  ]
+            },
+            {
+                  "name": "Oedolgae rock",
+                  "text": "This solitary sea stack rises dramatically above the ocean surface along the Seogwipo coast.",
+                  "category": "landmark",
+                  "coords": [
+                        126.545559,
+                        33.239909
+                  ]
+            },
+            {
+                  "name": "Halla Buddhism Exhibition Hall",
+                  "text": "This museum complex displays a large collection of Buddhist statues and historical religious artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        126.561655,
+                        33.250839
+                  ]
+            },
+            {
+                  "name": "Soam Memorial Museum",
+                  "text": "Dedicated to local artists, this memorial museum preserves traditional Korean calligraphy works.",
+                  "category": "museum",
+                  "coords": [
+                        126.567393,
+                        33.245116
+                  ]
+            },
+            {
+                  "name": "Lee Jung Seop Art Gallery",
+                  "text": "This prominent gallery showcases the distinctive paintings of the renowned Korean modern artist Lee Jung Seop.",
+                  "category": "museum",
+                  "coords": [
+                        126.564867,
+                        33.245863
+                  ]
+            },
+            {
+                  "name": "Seogwiposi Gidang Art Center",
+                  "text": "This local cultural institution features contemporary visual arts and modern exhibitions in Seogwipo.",
+                  "category": "cultural",
+                  "coords": [
+                        126.551182,
+                        33.24485
+                  ]
+            },
+            {
+                  "name": "WORLD SEASHELL MUSEUM。",
+                  "text": "This specialty museum in Seogwipo exhibits thousands of rare marine seashells from oceans around the globe.",
+                  "category": "museum",
+                  "coords": [
+                        126.551557,
+                        33.247433
+                  ]
+            },
+            {
+                  "name": "CGI",
+                  "text": "This arts centre in Seogwipo focuses on computer-generated imagery and digital media displays.",
+                  "category": "cultural",
+                  "coords": [
+                        126.567403,
+                        33.2522
+                  ]
+            },
+            {
+                  "name": "Bonglimsa Temple",
+                  "text": "This Buddhist temple features traditional Korean wooden architecture and a peaceful meditation hall.",
+                  "category": "landmark",
+                  "coords": [
+                        126.539393,
+                        33.25087
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KR-49",
     coords: [126.5600, 33.2500],
@@ -3877,7 +4912,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Icheon Seolbongsan Fortress",
-                  "text": "Die Ruinen einer historischen Bergfestung in Icheon.",
+                  "text": "Bergfestung Seolbongsanseong auf dem Seolbong-Berg mit Steinmauern.",
                   "category": "castle",
                   "coords": [
                         127.420215,
@@ -3886,7 +4921,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Beer Museum",
-                  "text": "Ein Museum in Icheon, das sich der Geschichte des Bieres widmet.",
+                  "text": "Museum in Andong, das die Geschichte des Bieres und verschiedene Biersorten zeigt.",
                   "category": "museum",
                   "coords": [
                         127.470503,
@@ -3895,7 +4930,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Icheon City Museum",
-                  "text": "Ein Stadtmuseum, das die Geschichte und Kultur von Icheon zeigt.",
+                  "text": "Städtisches Museum in Icheon mit Exponaten zur Keramik- und Stadtgeschichte.",
                   "category": "museum",
                   "coords": [
                         127.427268,
@@ -3904,7 +4939,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Miranda Spa Plus",
-                  "text": "Ein Wasserpark und Wellnessbereich in Icheon.",
+                  "text": "Familien-Spa mit Thermalbecken und Saunen in Icheon.",
                   "category": "family",
                   "coords": [
                         127.451148,
@@ -3931,7 +4966,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Three Brothers Rock",
-                  "text": "Ein Aussichtspunkt am Berg Seolbongsan in Icheon.",
+                  "text": "Drei Bruderfelsen auf dem Seolbong-Berg in Icheon, eine natürliche Felsformation.",
                   "category": "natural",
                   "coords": [
                         127.416419,
@@ -3940,7 +4975,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Icheon Art Hall",
-                  "text": "Ein Veranstaltungsort für Kunst und darstellende Künste in Icheon.",
+                  "text": "Kunsthalle in Icheon mit modernen Ausstellungen und Konzertbühne.",
                   "category": "cultural",
                   "coords": [
                         127.434205,
@@ -3958,7 +4993,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Icheon Seohee Youth Culture Center",
-                  "text": "Ein Kulturzentrum für Jugendliche in der Stadt Icheon.",
+                  "text": "Jugendkulturzentrum in Icheon mit Ateliers und Aufführungsräumen.",
                   "category": "cultural",
                   "coords": [
                         127.451737,
@@ -3978,7 +5013,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Icheon Seolbongsan Fortress",
-                  "text": "Egy történelmi hegyi erőd romjai Icshonban.",
+                  "text": "Seolbongsanseong hegyi erőd a Seolbong-hegyen, kőfalakkal.",
                   "category": "castle",
                   "coords": [
                         127.420215,
@@ -3987,7 +5022,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Beer Museum",
-                  "text": "A sör történetének szentelt múzeum Icshonban.",
+                  "text": "Múzeum Andongban, amely a sör történetét és különböző sörfajtákat mutat be.",
                   "category": "museum",
                   "coords": [
                         127.470503,
@@ -3996,7 +5031,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Icheon City Museum",
-                  "text": "Városi múzeum, amely Icshon történelmét és kultúráját mutatja be.",
+                  "text": "Icheoni városi múzeum kerámia- és várostörténeti kiállításokkal.",
                   "category": "museum",
                   "coords": [
                         127.427268,
@@ -4005,7 +5040,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Miranda Spa Plus",
-                  "text": "Vízipark és wellness központ Icshonban.",
+                  "text": "Családi wellness központ termálmedencékkel és szaunákkal Icheonban.",
                   "category": "family",
                   "coords": [
                         127.451148,
@@ -4032,7 +5067,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Three Brothers Rock",
-                  "text": "Kilátópont az Icshon-i Szeolbongszan-hegyen.",
+                  "text": "Három testvér szikla a Seolbong-hegyen Icheonban, természetes sziklaformáció.",
                   "category": "natural",
                   "coords": [
                         127.416419,
@@ -4041,7 +5076,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Icheon Art Hall",
-                  "text": "Művészeti és előadóművészeti központ Icshonban.",
+                  "text": "Művészeti csarnok Icheonban modern kiállításokkal és koncertszínpaddal.",
                   "category": "cultural",
                   "coords": [
                         127.434205,
@@ -4059,7 +5094,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Icheon Seohee Youth Culture Center",
-                  "text": "Ifjúsági kulturális központ Icshon városában.",
+                  "text": "Ifjúsági kulturális központ Icheonban műtermekkel és előadótermekkel.",
                   "category": "cultural",
                   "coords": [
                         127.451737,
@@ -4079,7 +5114,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Icheon Seolbongsan Fortress",
-                  "text": "Ruinele unei cetăți montane istorice în Icheon.",
+                  "text": "Cetatea de munte Seolbongsanseong pe muntele Seolbong, cu ziduri de piatră.",
                   "category": "castle",
                   "coords": [
                         127.420215,
@@ -4088,7 +5123,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Beer Museum",
-                  "text": "Un muzeu în Icheon dedicat istoriei berii.",
+                  "text": "Muzeul berii în Andong, care prezintă istoria berii și diferite sortimente.",
                   "category": "museum",
                   "coords": [
                         127.470503,
@@ -4097,7 +5132,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Icheon City Museum",
-                  "text": "Un muzeu municipal care prezintă istoria și cultura din Icheon.",
+                  "text": "Muzeul municipal din Icheon cu exponate despre ceramica și istoria orașului.",
                   "category": "museum",
                   "coords": [
                         127.427268,
@@ -4106,7 +5141,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Miranda Spa Plus",
-                  "text": "Un parc acvatic și zonă de wellness în Icheon.",
+                  "text": "Spa de familie cu piscine termale și saune în Icheon.",
                   "category": "family",
                   "coords": [
                         127.451148,
@@ -4133,7 +5168,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Three Brothers Rock",
-                  "text": "Un punct de belvedere pe muntele Seolbongsan din Icheon.",
+                  "text": "Stâncile celor trei frați pe muntele Seolbong în Icheon, formațiune naturală.",
                   "category": "natural",
                   "coords": [
                         127.416419,
@@ -4142,7 +5177,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Icheon Art Hall",
-                  "text": "O locație pentru artă și spectacole în Icheon.",
+                  "text": "Sală de artă în Icheon cu expoziții moderne și scenă de concerte.",
                   "category": "cultural",
                   "coords": [
                         127.434205,
@@ -4160,7 +5195,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Icheon Seohee Youth Culture Center",
-                  "text": "Un centru cultural pentru tineret în orașul Icheon.",
+                  "text": "Centru cultural pentru tineret în Icheon cu ateliere și săli de spectacol.",
                   "category": "cultural",
                   "coords": [
                         127.451737,
@@ -4180,7 +5215,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Fortress Seolbongsanseong",
-                  "text": "The ruins of a historical mountain fortress in Icheon.",
+                  "text": "Mountaintop fortress Seolbongsanseong on Seolbong Mountain with stone walls.",
                   "category": "castle",
                   "coords": [
                         127.420215,
@@ -4189,7 +5224,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Beer Museum",
-                  "text": "A museum in Icheon dedicated to the history of beer.",
+                  "text": "Beer museum in Andong showcasing the history and varieties of beer.",
                   "category": "museum",
                   "coords": [
                         127.470503,
@@ -4198,7 +5233,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Icheon City Museum",
-                  "text": "A city museum showcasing the history and culture of Icheon.",
+                  "text": "Icheon City Museum with exhibits on ceramics and local history.",
                   "category": "museum",
                   "coords": [
                         127.427268,
@@ -4207,7 +5242,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Miranda Spa Plus",
-                  "text": "A water park and spa area in Icheon.",
+                  "text": "Family spa with thermal pools and saunas in Icheon.",
                   "category": "family",
                   "coords": [
                         127.451148,
@@ -4234,7 +5269,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Seolbongsan Samhyeongjebawi",
-                  "text": "A scenic viewpoint on Seolbongsan Mountain in Icheon.",
+                  "text": "Three brothers rock formation on Seolbong Mountain in Icheon.",
                   "category": "natural",
                   "coords": [
                         127.416419,
@@ -4243,7 +5278,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Icheon Art Hall",
-                  "text": "A venue for arts and performing arts in Icheon.",
+                  "text": "Art hall in Icheon with modern exhibitions and a concert stage.",
                   "category": "cultural",
                   "coords": [
                         127.434205,
@@ -4261,7 +5296,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Icheon Seohee Youth Culture Center",
-                  "text": "A cultural center for youth in the city of Icheon.",
+                  "text": "Youth culture center in Icheon with studios and performance spaces.",
                   "category": "cultural",
                   "coords": [
                         127.451737,
@@ -4330,7 +5365,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "13th Provincial Army Memorial",
-                  "text": "13도창의군탑 ist eine archäologische Stätte in Guri.",
+                  "text": "Denkmal für die 13. Provinzarmee in Icheon mit einer Gedenkstele.",
                   "category": "historical",
                   "coords": [
                         127.111735,
@@ -4339,7 +5374,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Donggureung History and Culture Center",
-                  "text": "동구릉역사문화관 ist ein Museum in Guri.",
+                  "text": "Museum in Donggureung, das die Geschichte der königlichen Gräber zeigt.",
                   "category": "museum",
                   "coords": [
                         127.136267,
@@ -4348,7 +5383,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Pororo Premier Theme Park Dasan",
-                  "text": "Der Pororo Premier Theme Park Dasan ist ein Themenpark in Guri.",
+                  "text": "Pororo-Freizeitpark in Namyangju mit Fahrgeschäften und Indoor-Spielplätzen.",
                   "category": "family",
                   "coords": [
                         127.171771,
@@ -4357,7 +5392,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Stone Cist Tomb",
-                  "text": "돌덧널 무덤 ist eine archäologische Stätte in Guri.",
+                  "text": "Steinkistengrab aus der Bronzezeit in Guri mit ovalen Steinplatten.",
                   "category": "historical",
                   "coords": [
                         127.176865,
@@ -4366,7 +5401,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Dasan Art Hall",
-                  "text": "다산아트홀 ist ein Theater in Guri.",
+                  "text": "Kunsthalle in Guri mit Wechselausstellungen und einem Konzertsaal.",
                   "category": "cultural",
                   "coords": [
                         127.155571,
@@ -4375,7 +5410,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Midang Gallery",
-                  "text": "Die Midang Gallery ist ein Kunstzentrum in Guri.",
+                  "text": "Galerie in Guri, die Werke des Dichters Midang zeigt.",
                   "category": "cultural",
                   "coords": [
                         127.130497,
@@ -4384,7 +5419,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Guri Donggureung Royal Tombs",
-                  "text": "Die East Nine Royal Tombs, Guri, sind eine historische Attraktion in Guri.",
+                  "text": "Neun königliche Gräber der Joseon-Dynastie in Guri mit grasbewachsenen Hügeln.",
                   "category": "landmark",
                   "coords": [
                         127.131921,
@@ -4393,7 +5428,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gyeonggi Pyeonghaegil Trail Course 1 Stamp (Mangu Pass)",
-                  "text": "경기옛길평해길1코스스탬프(망우고개) ist eine Attraktion in Guri.",
+                  "text": "Stempelstation für den Gyeonggi Pyeonghaegil Wanderweg am Mangu-Pass.",
                   "category": "landmark",
                   "coords": [
                         127.116867,
@@ -4402,7 +5437,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Godeok-Topyeong-Brücke",
-                  "text": "Die Godeok-Topyeong-Brücke ist eine Brücke über den Han-Fluss in Guri.",
+                  "text": "Brücke über den Han-Fluss, die Godeok und Topyeong verbindet, mit Fußgängerweg.",
                   "category": "landmark",
                   "coords": [
                         127.14757,
@@ -4411,7 +5446,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Bowon Lime Hot Spring",
-                  "text": "Bowon Lime Hot Spring ist eine Saunaanlage in Guri.",
+                  "text": "Kalkstein-Thermalquelle in Icheon mit offenen und geschlossenen Becken.",
                   "category": "landmark",
                   "coords": [
                         127.139925,
@@ -4431,7 +5466,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "13th Provincial Army Memorial",
-                  "text": "A 13도창의군탑 egy régészeti lelőhely Guri városában.",
+                  "text": "A 13. tartományi hadsereg emlékműve Icheonban, emlékoszloppal.",
                   "category": "historical",
                   "coords": [
                         127.111735,
@@ -4440,7 +5475,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Donggureung History and Culture Center",
-                  "text": "A 동구릉역사문화관 egy múzeum Guri városában.",
+                  "text": "Múzeum Donggureungban, amely a királyi sírok történetét mutatja be.",
                   "category": "museum",
                   "coords": [
                         127.136267,
@@ -4449,7 +5484,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Pororo Premier Theme Park Dasan",
-                  "text": "A Pororo Premier Theme Park Dasan egy vidámpark Guri városában.",
+                  "text": "Pororo vidámpark Namyangjuban, játékokkal és fedett játszóterekkel.",
                   "category": "family",
                   "coords": [
                         127.171771,
@@ -4458,7 +5493,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Stone Cist Tomb",
-                  "text": "A 돌덧널 무덤 egy régészeti lelőhely Guri városában.",
+                  "text": "Bronzkori kőkamrasír Guriban, ovális kőlapokkal.",
                   "category": "historical",
                   "coords": [
                         127.176865,
@@ -4467,7 +5502,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Dasan Art Hall",
-                  "text": "A 다산아트홀 egy színház Guri városában.",
+                  "text": "Művészeti csarnok Guriban időszakos kiállításokkal és koncertteremmel.",
                   "category": "cultural",
                   "coords": [
                         127.155571,
@@ -4476,7 +5511,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Midang Gallery",
-                  "text": "A Midang Gallery egy művészeti központ Guri városában.",
+                  "text": "Galéria Guriban, amely Midang költő műveit mutatja be.",
                   "category": "cultural",
                   "coords": [
                         127.130497,
@@ -4485,7 +5520,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "guri East Nine Royal Tombs",
-                  "text": "A guri East Nine Royal Tombs egy történelmi látványosság.",
+                  "text": "Kilenc királyi sír a Joseon-dinasztiából Guriban, füves halmokkal.",
                   "category": "landmark",
                   "coords": [
                         127.131921,
@@ -4494,7 +5529,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gyeonggi Pyeonghaegil Trail Course 1 Stamp (Mangu Pass)",
-                  "text": "A 경기옛길평해길1코스스탬프(망우고개) egy látványosság Guri városában.",
+                  "text": "Bélyegzőállomás a Gyeonggi Pyeonghaegil túraútvonalon a Mangu-hágónál.",
                   "category": "landmark",
                   "coords": [
                         127.116867,
@@ -4503,7 +5538,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Godeok-Topyeong híd",
-                  "text": "A Godeok-Topyeong híd a Han folyót íveli át Guri városában.",
+                  "text": "Híd a Han folyón, amely összeköti Godeokot és Topyeongot, gyalogos úttal.",
                   "category": "landmark",
                   "coords": [
                         127.14757,
@@ -4512,7 +5547,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Bowon Lime Hot Spring",
-                  "text": "A Bowon Lime Hot Spring egy szauna Guri városában.",
+                  "text": "Mészkő termálforrás Icheonban, nyitott és fedett medencékkel.",
                   "category": "landmark",
                   "coords": [
                         127.139925,
@@ -4532,7 +5567,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "13th Provincial Army Memorial",
-                  "text": "13도창의군탑 este un sit arheologic situat în Guri.",
+                  "text": "Monumentul Armatei provinciale a 13-a în Icheon, cu o stelă comemorativă.",
                   "category": "historical",
                   "coords": [
                         127.111735,
@@ -4541,7 +5576,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Donggureung History and Culture Center",
-                  "text": "동구릉역사문화관 este un muzeu din Guri.",
+                  "text": "Muzeul din Donggureung care prezintă istoria mormintelor regale.",
                   "category": "museum",
                   "coords": [
                         127.136267,
@@ -4550,7 +5585,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Pororo Premier Theme Park Dasan",
-                  "text": "Pororo Premier Theme Park Dasan este un parc tematic în Guri.",
+                  "text": "Parcul tematic Pororo în Namyangju, cu atracții și locuri de joacă interioare.",
                   "category": "family",
                   "coords": [
                         127.171771,
@@ -4559,7 +5594,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Stone Cist Tomb",
-                  "text": "돌덧널 무덤 este un sit arheologic descoperit în Guri.",
+                  "text": "Mormânt de piatră din epoca bronzului în Guri, cu plăci ovale de piatră.",
                   "category": "historical",
                   "coords": [
                         127.176865,
@@ -4568,7 +5603,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Dasan Art Hall",
-                  "text": "다산아트홀 este un teatru situat în Guri.",
+                  "text": "Sală de artă în Guri cu expoziții temporare și sală de concerte.",
                   "category": "cultural",
                   "coords": [
                         127.155571,
@@ -4577,7 +5612,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Midang Gallery",
-                  "text": "Midang Gallery este un centru de arte situat în Guri.",
+                  "text": "Galerie în Guri care prezintă operele poetului Midang.",
                   "category": "cultural",
                   "coords": [
                         127.130497,
@@ -4586,7 +5621,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "East Nine Royal Tombs, Guri",
-                  "text": "East Nine Royal Tombs, Guri, este o atracție istorică.",
+                  "text": "Nouă morminte regale ale dinastiei Joseon în Guri, cu movile acoperite cu iarbă.",
                   "category": "landmark",
                   "coords": [
                         127.131921,
@@ -4595,7 +5630,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gyeonggi Pyeonghaegil Trail Course 1 Stamp (Mangu Pass)",
-                  "text": "경기옛길평해길1코스스탬프(망우고개) este o atracție din Guri.",
+                  "text": "Stație de ștampilă pentru traseul de drumeție Gyeonggi Pyeonghaegil la trecătoarea Mangu.",
                   "category": "landmark",
                   "coords": [
                         127.116867,
@@ -4604,7 +5639,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Podul Godeok-Topyeong",
-                  "text": "Podul Godeok-Topyeong este un pod care traversează râul Han în Guri.",
+                  "text": "Pod peste râul Han care leagă Godeok de Topyeong, cu alee pietonală.",
                   "category": "landmark",
                   "coords": [
                         127.14757,
@@ -4613,7 +5648,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Bowon Lime Hot Spring",
-                  "text": "Bowon Lime Hot Spring este o saună situată în Guri.",
+                  "text": "Izvor termal de calcar în Icheon, cu bazine interioare și exterioare.",
                   "category": "landmark",
                   "coords": [
                         127.139925,
@@ -4633,7 +5668,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "13th Provincial Army Memorial",
-                  "text": "13도창의군탑 is an archaeological site located in Guri.",
+                  "text": "Memorial for the 13th Provincial Army in Icheon with a commemorative stele.",
                   "category": "historical",
                   "coords": [
                         127.111735,
@@ -4642,7 +5677,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Donggureung History and Culture Center",
-                  "text": "동구릉역사문화관 is a museum in Guri.",
+                  "text": "Museum in Donggureung showcasing the history of the royal tombs.",
                   "category": "museum",
                   "coords": [
                         127.136267,
@@ -4651,7 +5686,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Pororo Premier Theme Park Dasan",
-                  "text": "Pororo Premier Theme Park Dasan is a theme park in Guri.",
+                  "text": "Pororo theme park in Namyangju with rides and indoor play areas.",
                   "category": "family",
                   "coords": [
                         127.171771,
@@ -4660,7 +5695,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Stone Cist Tomb",
-                  "text": "돌덧널 무덤 is an archaeological site found in Guri.",
+                  "text": "Bronze Age stone cist tomb in Guri with oval stone slabs.",
                   "category": "historical",
                   "coords": [
                         127.176865,
@@ -4669,7 +5704,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Dasan Art Hall",
-                  "text": "다산아트홀 is a theatre venue located in Guri.",
+                  "text": "Art hall in Guri with rotating exhibitions and a concert hall.",
                   "category": "cultural",
                   "coords": [
                         127.155571,
@@ -4678,7 +5713,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Midang Gallery",
-                  "text": "Midang Gallery is an arts centre situated in Guri.",
+                  "text": "Gallery in Guri displaying works of poet Midang.",
                   "category": "cultural",
                   "coords": [
                         127.130497,
@@ -4687,7 +5722,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "East Nine Royal Tombs, Guri",
-                  "text": "The East Nine Royal Tombs, Guri, is an attraction located in Guri.",
+                  "text": "Nine royal tombs of the Joseon dynasty in Guri with grass-covered mounds.",
                   "category": "landmark",
                   "coords": [
                         127.131921,
@@ -4696,7 +5731,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gyeonggi Pyeonghaegil Trail Course 1 Stamp (Mangu Pass)",
-                  "text": "경기옛길평해길1코스스탬프(망우고개) is an attraction in Guri.",
+                  "text": "Stamp station for the Gyeonggi Pyeonghaegil hiking trail at Mangu Pass.",
                   "category": "landmark",
                   "coords": [
                         127.116867,
@@ -4705,7 +5740,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Godeok-Topyeong Bridge",
-                  "text": "Godeok-Topyeong Bridge is a bridge spanning the Han River in Guri.",
+                  "text": "Bridge over the Han River connecting Godeok and Topyeong with a pedestrian path.",
                   "category": "landmark",
                   "coords": [
                         127.14757,
@@ -4714,7 +5749,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Bowon Lime Hot Spring",
-                  "text": "Bowon Lime Hot Spring is a sauna facility located in Guri.",
+                  "text": "Lime hot spring in Icheon with indoor and outdoor pools.",
                   "category": "landmark",
                   "coords": [
                         127.139925,
@@ -4774,7 +5809,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Sokcho Joyang-dong Archaeological Site",
-                  "text": "Diese Stätte in Joyang-dong, Sokcho, bewahrt historische archäologische Funde.",
+                  "text": "Eine archäologische Stätte in Joyang-dong, Sokcho, mit prähistorischen Überresten.",
                   "category": "historical",
                   "coords": [
                         128.590792,
@@ -4783,7 +5818,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Sokcho Beach",
-                  "text": "Sokcho Beach ist ein beliebtes Küstenziel zum Schwimmen und für Erholung in Sokcho.",
+                  "text": "Sokcho Beach ist ein beliebter Sandstrand an der Ostküste Koreas mit klarem Wasser.",
                   "category": "recreational",
                   "coords": [
                         128.606142,
@@ -4792,7 +5827,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Beoseos Museum",
-                  "text": "Das Beoseos Museum ist ein Museum in der Stadt Sokcho.",
+                  "text": "Das Beoseos Museum in Sokcho zeigt lokale Artefakte und zur Geschichte der Region.",
                   "category": "museum",
                   "coords": [
                         128.596012,
@@ -4801,7 +5836,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Sokcho Buddhism Exhibition Hall",
-                  "text": "Die Sokcho Buddhism Exhibition Hall ist ein Museum für buddhistische Kultur in Sokcho.",
+                  "text": "Die Sokcho Buddhism Exhibition Hall ist eine Ausstellungshalle für buddhistische Kunst und Kultur.",
                   "category": "museum",
                   "coords": [
                         128.588316,
@@ -4810,7 +5845,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Sokcho Lighthouse Observatory",
-                  "text": "Das Sokcho Lighthouse Observatory ist ein funktionaler Leuchtturm und Aussichtspunkt in Sokcho.",
+                  "text": "Der Sokcho-Leuchtturm-Observatorium bietet einen Panoramablick über das Meer und die Stadt.",
                   "category": "landmark",
                   "coords": [
                         128.600263,
@@ -4819,7 +5854,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Jodo Lighthouse",
-                  "text": "조도등대 ist ein maritimer Leuchtturm in der Stadt Sokcho.",
+                  "text": "Der Jodo-Leuchtturm steht auf einer felsigen Insel und leitet Schiffe sicher.",
                   "category": "landmark",
                   "coords": [
                         128.613301,
@@ -4828,7 +5863,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Cheongho Beach",
-                  "text": "청호해수욕장 ist ein Sandstrand in Sokcho.",
+                  "text": "Der Cheongho Beach ist ein ruhigerer Strand mit malerischer Küstenlinie.",
                   "category": "recreational",
                   "coords": [
                         128.595199,
@@ -4837,7 +5872,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Pinodia",
-                  "text": "Pinodia ist ein Museum in der Stadt Sokcho.",
+                  "text": "Pinodia ist ein Museum, das sich auf Kiefern und ihr Ökosystem konzentriert.",
                   "category": "museum",
                   "coords": [
                         128.58254,
@@ -4846,7 +5881,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Seokbong Ceramic Art Museum",
-                  "text": "Das Seokbong Ceramic Art Museum ist ein Kunstzentrum für Keramik in Sokcho.",
+                  "text": "Museum in der Stadt, das der Keramikkunst gewidmet ist und traditionelle koreanische Töpferwaren zeigt.",
                   "category": "cultural",
                   "coords": [
                         128.582596,
@@ -4855,7 +5890,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Ijo Gallery",
-                  "text": "Die Ijo Gallery ist ein Kunstzentrum in der Stadt Sokcho.",
+                  "text": "Die Ijo Gallery zeigt zeitgenössische und lokale Kunstwerke.",
                   "category": "cultural",
                   "coords": [
                         128.578856,
@@ -4864,7 +5899,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Jung-ang Market Crossroad",
-                  "text": "Jung-ang Market Crossroad ist ein bemerkenswerter Aussichtspunkt in der belebten Stadt Sokcho.",
+                  "text": "Der Jung-ang Market Crossroad ist ein belebter Marktplatz mit Streetfood-Ständen.",
                   "category": "natural",
                   "coords": [
                         128.591596,
@@ -4873,7 +5908,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gaetbae Ferry Terminal",
-                  "text": "갯배선착장 ist eine beliebte Touristenattraktion in Sokcho.",
+                  "text": "Die Gaetbae Fährterminal verbindet die Stadt mit nahe gelegenen Inseln.",
                   "category": "landmark",
                   "coords": [
                         128.592208,
@@ -4891,7 +5926,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Yeongrangho Lake Country Club",
-                  "text": "영랑호CC ist ein Aussichtspunkt, der malerische Landschaften in Sokcho bietet.",
+                  "text": "Der Yeongrangho Lake Country Club ist ein Golfplatz und Resort am See mit malerischer Aussicht.",
                   "category": "natural",
                   "coords": [
                         128.579791,
@@ -4900,7 +5935,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Cheongchojeong Pavilion",
-                  "text": "Der Cheongchojeong Pavilion ist eine traditionelle Attraktion in Sokcho.",
+                  "text": "Der Cheongchojeong-Pavillon ist ein traditioneller Pavillon mit Blick auf den See oder das Meer.",
                   "category": "landmark",
                   "coords": [
                         128.583837,
@@ -4909,7 +5944,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Main Hall",
-                  "text": "Die Main Hall ist ein Kunstzentrum in der Stadt Sokcho.",
+                  "text": "Die Haupthalle ist das Hauptgebäude eines buddhistischen Tempels mit kunstvoller Architektur.",
                   "category": "cultural",
                   "coords": [
                         128.588529,
@@ -4929,7 +5964,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Sokcho Joyang-dong Archaeological Site",
-                  "text": "Ez a lelőhely Joyang-dongban, Sokcho városában őriz történelmi régészeti leleteket.",
+                  "text": "Egy régészeti lelőhely Joyang-dongban, Sokcho-ban, őskori maradványokkal.",
                   "category": "historical",
                   "coords": [
                         128.590792,
@@ -4938,7 +5973,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Sokcho Beach",
-                  "text": "A Sokcho Beach egy népszerű tengerparti úti cél fürdőzésre és kikapcsolódásra Sokcho városában.",
+                  "text": "A Sokcho Beach egy népszerű homokos tengerpart Korea keleti partján, tiszta vízzel.",
                   "category": "recreational",
                   "coords": [
                         128.606142,
@@ -4947,7 +5982,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Beoseos Museum",
-                  "text": "A Beoseos Museum egy múzeum Sokcho városában.",
+                  "text": "A Beoseos Múzeum Szokcshóban helyi tárgyakat és a régió történetét mutatja be.",
                   "category": "museum",
                   "coords": [
                         128.596012,
@@ -4956,7 +5991,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Sokcho Buddhism Exhibition Hall",
-                  "text": "A Sokcho Buddhism Exhibition Hall egy buddhista kultúrát bemutató múzeum Sokcho városában.",
+                  "text": "A Szokcsói Buddhista Kiállítóterem a buddhista művészet és kultúra bemutatására szolgál.",
                   "category": "museum",
                   "coords": [
                         128.588316,
@@ -4965,7 +6000,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Sokcho Lighthouse Observatory",
-                  "text": "A Sokcho Lighthouse Observatory egy működő világítótorony és kilátó Sokcho városában.",
+                  "text": "A Sokcho Világítótorony Obszervatórium panorámás kilátást nyújt a tengerre és a városra.",
                   "category": "landmark",
                   "coords": [
                         128.600263,
@@ -4974,7 +6009,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Jodo Lighthouse",
-                  "text": "A 조도등대 egy tengerészeti világítótorony Sokcho városában.",
+                  "text": "A Jodo Világítótorony egy sziklás szigeten áll, és biztonságosan irányítja a hajókat.",
                   "category": "landmark",
                   "coords": [
                         128.613301,
@@ -4983,7 +6018,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Cheongho Beach",
-                  "text": "A 청호해수욕장 egy homokos strand Sokcho városában.",
+                  "text": "A Cheongho Beach egy csendesebb strand festői tengerparttal.",
                   "category": "recreational",
                   "coords": [
                         128.595199,
@@ -4992,7 +6027,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Pinodia",
-                  "text": "A Pinodia egy múzeum Sokcho városában.",
+                  "text": "A Pinodia egy múzeum, amely a fenyőkre és ökoszisztémájukra összpontosít.",
                   "category": "museum",
                   "coords": [
                         128.58254,
@@ -5001,7 +6036,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Seokbong Ceramic Art Museum",
-                  "text": "A Seokbong Ceramic Art Museum egy kerámiának szentelt művészeti központ Sokcho városában.",
+                  "text": "Múzeum a városban, amely a kerámiaművészetnek szentelt, hagyományos koreai fazekasságot bemutató.",
                   "category": "cultural",
                   "coords": [
                         128.582596,
@@ -5010,7 +6045,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Ijo Gallery",
-                  "text": "Az Ijo Gallery egy művészeti központ Sokcho városában.",
+                  "text": "Az Ijo Galéria kortárs és helyi műalkotásokat mutat be.",
                   "category": "cultural",
                   "coords": [
                         128.578856,
@@ -5019,7 +6054,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Jung-ang Market Crossroad",
-                  "text": "A Jung-ang Market Crossroad egy nevezetes kilátópont Sokcho nyüzsgő városában.",
+                  "text": "A Jung-ang Market Crossroad egy forgalmas piactér utcai ételstandokkal.",
                   "category": "natural",
                   "coords": [
                         128.591596,
@@ -5028,7 +6063,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gaetbae Ferry Terminal",
-                  "text": "A 갯배선착장 egy népszerű turisztikai látványosság Sokcho városában.",
+                  "text": "A Gaetbae Kompterminál összeköti a várost a közeli szigetekkel.",
                   "category": "landmark",
                   "coords": [
                         128.592208,
@@ -5046,7 +6081,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Yeongrangho Lake Country Club",
-                  "text": "A 영랑호CC egy kilátó, amely festői tájat kínál Sokcho városában.",
+                  "text": "A Yeongrangho-tavi Country Club egy golfpálya és üdülőhely tóparti panorámával.",
                   "category": "natural",
                   "coords": [
                         128.579791,
@@ -5055,7 +6090,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Cheongchojeong Pavilion",
-                  "text": "A Cheongchojeong Pavilion egy hagyományos építészeti látványosság Sokcho városában.",
+                  "text": "A Cheongchojeong Pavilon egy hagyományos pavilon, amely a tóra vagy a tengerre néz.",
                   "category": "landmark",
                   "coords": [
                         128.583837,
@@ -5064,7 +6099,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Main Hall",
-                  "text": "A Main Hall egy művészeti központ Sokcho városában.",
+                  "text": "A Főcsarnok egy buddhista templom főépülete díszes építészettel.",
                   "category": "cultural",
                   "coords": [
                         128.588529,
@@ -5084,7 +6119,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Sokcho Joyang-dong Archaeological Site",
-                  "text": "Acest sit din Joyang-dong, Sokcho păstrează descoperiri arheologice istorice.",
+                  "text": "Un sit arheologic în Joyang-dong, Sokcho, cu vestigii preistorice.",
                   "category": "historical",
                   "coords": [
                         128.590792,
@@ -5093,7 +6128,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Sokcho Beach",
-                  "text": "Sokcho Beach este o destinație de coastă populară pentru înot și recreere în Sokcho.",
+                  "text": "Plaja Sokcho este o plajă populară cu nisip alb pe coasta de est a Coreei, cu ape limpezi.",
                   "category": "recreational",
                   "coords": [
                         128.606142,
@@ -5102,7 +6137,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Beoseos Museum",
-                  "text": "Beoseos Museum este un muzeu situat în orașul Sokcho.",
+                  "text": "Muzeul Beoseos din Sokcho expune artefacte locale și istoria regiunii.",
                   "category": "museum",
                   "coords": [
                         128.596012,
@@ -5111,7 +6146,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Sokcho Buddhism Exhibition Hall",
-                  "text": "Sokcho Buddhism Exhibition Hall este un muzeu dedicat culturii budiste din Sokcho.",
+                  "text": "Sala de Expoziții Budiste Sokcho este dedicată artei și culturii budiste.",
                   "category": "museum",
                   "coords": [
                         128.588316,
@@ -5120,7 +6155,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Sokcho Lighthouse Observatory",
-                  "text": "Sokcho Lighthouse Observatory este un far funcțional și un punct de belvedere în Sokcho.",
+                  "text": "Observatorul Farului Sokcho oferă o panoramă asupra mării și orașului.",
                   "category": "landmark",
                   "coords": [
                         128.600263,
@@ -5129,7 +6164,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Jodo Lighthouse",
-                  "text": "조도등대 este un far maritim situat în orașul Sokcho.",
+                  "text": "Farul Jodo se află pe o insulă stâncoasă și ghidează navele în siguranță.",
                   "category": "landmark",
                   "coords": [
                         128.613301,
@@ -5138,7 +6173,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Cheongho Beach",
-                  "text": "청호해수욕장 este o zonă de plajă cu nisip din Sokcho.",
+                  "text": "Plaja Cheongho este o plajă mai liniștită, cu o coastă pitorească.",
                   "category": "recreational",
                   "coords": [
                         128.595199,
@@ -5147,7 +6182,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Pinodia",
-                  "text": "Pinodia este un muzeu situat în orașul Sokcho.",
+                  "text": "Pinodia este un muzeu dedicat pinilor și ecosistemului lor.",
                   "category": "museum",
                   "coords": [
                         128.58254,
@@ -5156,7 +6191,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Seokbong Ceramic Art Museum",
-                  "text": "Seokbong Ceramic Art Museum este un centru de arte dedicat ceramicii din Sokcho.",
+                  "text": "Muzeu în oraș dedicat artei ceramice, prezentând olăritul tradițional coreean.",
                   "category": "cultural",
                   "coords": [
                         128.582596,
@@ -5165,7 +6200,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Ijo Gallery",
-                  "text": "Ijo Gallery este un centru de arte situat în orașul Sokcho.",
+                  "text": "Galeria Ijo expune lucrări de artă contemporană și locală.",
                   "category": "cultural",
                   "coords": [
                         128.578856,
@@ -5174,7 +6209,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Jung-ang Market Crossroad",
-                  "text": "Jung-ang Market Crossroad este un punct de belvedere notabil din aglomeratul oraș Sokcho.",
+                  "text": "Intersecția Pieței Jung-ang este o piață aglomerată cu tarabe de mâncare stradală.",
                   "category": "natural",
                   "coords": [
                         128.591596,
@@ -5183,7 +6218,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gaetbae Ferry Terminal",
-                  "text": "갯배선착장 este o atracție turistică populară situată în Sokcho.",
+                  "text": "Terminalul de Feribot Gaetbae leagă orașul de insulele din apropiere.",
                   "category": "landmark",
                   "coords": [
                         128.592208,
@@ -5201,7 +6236,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Yeongrangho Lake Country Club",
-                  "text": "영랑호CC este un punct de belvedere care oferă peisaje pitorești în Sokcho.",
+                  "text": "Country Club-ul Yeongrangho Lake este un teren de golf și stațiune pe malul lacului, cu vedere pitorească.",
                   "category": "natural",
                   "coords": [
                         128.579791,
@@ -5210,7 +6245,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Cheongchojeong Pavilion",
-                  "text": "Cheongchojeong Pavilion este o atracție structurală tradițională situată în Sokcho.",
+                  "text": "Pavilionul Cheongchojeong este un pavilion tradițional cu vedere la lac sau mare.",
                   "category": "landmark",
                   "coords": [
                         128.583837,
@@ -5219,7 +6254,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Main Hall",
-                  "text": "Main Hall este un centru de arte situat în orașul Sokcho.",
+                  "text": "Sala Principală este clădirea principală a unui templu budist, cu arhitectură ornamentată.",
                   "category": "cultural",
                   "coords": [
                         128.588529,
@@ -5239,7 +6274,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Archaeological Site in Joyang-dong, Sokcho",
-                  "text": "This site in Joyang-dong, Sokcho preserves historical archaeological findings.",
+                  "text": "An archaeological site in Joyang-dong, Sokcho, containing prehistoric remains.",
                   "category": "historical",
                   "coords": [
                         128.590792,
@@ -5248,7 +6283,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Sokcho Beach",
-                  "text": "Sokcho Beach is a popular coastal destination for swimming and recreation in Sokcho.",
+                  "text": "Sokcho Beach is a popular white-sand beach on Korea's east coast with clear waters.",
                   "category": "recreational",
                   "coords": [
                         128.606142,
@@ -5257,7 +6292,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Beoseos Museum",
-                  "text": "Beoseos Museum is a museum situated in the city of Sokcho.",
+                  "text": "Beoseos Museum in Sokcho displays local artifacts and regional history.",
                   "category": "museum",
                   "coords": [
                         128.596012,
@@ -5266,7 +6301,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Sokcho Buddhism Exhibition Hall",
-                  "text": "Sokcho Buddhism Exhibition Hall is a museum dedicated to Buddhist culture in Sokcho.",
+                  "text": "Sokcho Buddhism Exhibition Hall is dedicated to Buddhist art and culture.",
                   "category": "museum",
                   "coords": [
                         128.588316,
@@ -5275,7 +6310,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Sokcho Lighthouse Observatory",
-                  "text": "Sokcho Lighthouse Observatory is a functional lighthouse and viewpoint in Sokcho.",
+                  "text": "Sokcho Lighthouse Observatory offers panoramic views of the sea and city.",
                   "category": "landmark",
                   "coords": [
                         128.600263,
@@ -5284,7 +6319,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Jodo Lighthouse",
-                  "text": "조도등대 is a maritime lighthouse located in the city of Sokcho.",
+                  "text": "Jodo Lighthouse stands on a rocky island, guiding ships safely.",
                   "category": "landmark",
                   "coords": [
                         128.613301,
@@ -5293,7 +6328,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Cheongho Beach",
-                  "text": "청호해수욕장 is a sandy beach area located in Sokcho.",
+                  "text": "Cheongho Beach is a quieter beach with a scenic coastline.",
                   "category": "recreational",
                   "coords": [
                         128.595199,
@@ -5302,7 +6337,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Pinodia",
-                  "text": "Pinodia is a museum situated in the city of Sokcho.",
+                  "text": "Pinodia is a museum focused on pine trees and their ecosystem.",
                   "category": "museum",
                   "coords": [
                         128.58254,
@@ -5311,7 +6346,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Seokbong Ceramic Art Museum",
-                  "text": "Seokbong Ceramic Art Museum is an arts centre dedicated to ceramics in Sokcho.",
+                  "text": "Museum in the city dedicated to ceramic art, featuring traditional Korean pottery.",
                   "category": "cultural",
                   "coords": [
                         128.582596,
@@ -5320,7 +6355,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Ijo Gallery",
-                  "text": "Ijo Gallery is an arts centre situated in the city of Sokcho.",
+                  "text": "Ijo Gallery showcases contemporary and local artworks.",
                   "category": "cultural",
                   "coords": [
                         128.578856,
@@ -5329,7 +6364,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Jung-ang Market Crossroad",
-                  "text": "Jung-ang Market Crossroad is a notable viewpoint in the bustling city of Sokcho.",
+                  "text": "Jung-ang Market Crossroad is a bustling market square with street food stalls.",
                   "category": "natural",
                   "coords": [
                         128.591596,
@@ -5338,7 +6373,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gaetbae Ferry Terminal",
-                  "text": "갯배선착장 is a popular tourist attraction located in Sokcho.",
+                  "text": "Gaetbae Ferry Terminal connects the city to nearby islands.",
                   "category": "landmark",
                   "coords": [
                         128.592208,
@@ -5356,7 +6391,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Yeongrangho Lake Country Club",
-                  "text": "영랑호CC is a viewpoint offering scenic scenery in Sokcho.",
+                  "text": "Yeongrangho Lake Country Club is a golf course and resort with lakeside scenic views.",
                   "category": "natural",
                   "coords": [
                         128.579791,
@@ -5365,7 +6400,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Cheongchojeong Pavilion",
-                  "text": "Cheongchojeong Pavilion is a traditional structural attraction located in Sokcho.",
+                  "text": "Cheongchojeong Pavilion is a traditional pavilion overlooking the lake or sea.",
                   "category": "landmark",
                   "coords": [
                         128.583837,
@@ -5374,7 +6409,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Main Hall",
-                  "text": "The Main Hall is an arts centre situated in the city of Sokcho.",
+                  "text": "Main Hall is the central building of a Buddhist temple with intricate architecture.",
                   "category": "cultural",
                   "coords": [
                         128.588529,
@@ -5443,7 +6478,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Cheongak Art Gallery",
-                  "text": "Ein Kunstzentrum und eine Galerie in Gimcheon.",
+                  "text": "Die Cheongak Gallery zeigt Werke lokaler Künstler in einer Galerieumgebung.",
                   "category": "cultural",
                   "coords": [
                         128.12252,
@@ -5452,7 +6487,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gimcheon Culture and Arts Center",
-                  "text": "Ein Zentrum für Kultur und darstellende Künste in Gimcheon.",
+                  "text": "Das Gimcheon Culture & Arts Center bietet Theater- und Ausstellungsräume.",
                   "category": "cultural",
                   "coords": [
                         128.088667,
@@ -5461,7 +6496,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gimcheon Cultural Center",
-                  "text": "Ein kulturelles Zentrum zur Förderung der Künste in Gimcheon.",
+                  "text": "Das Gimcheon Cultural Center ist ein Gemeinschaftszentrum für kulturelle Veranstaltungen.",
                   "category": "cultural",
                   "coords": [
                         128.116729,
@@ -5470,7 +6505,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gimcheon Municipal Art Museum",
-                  "text": "Die städtische Kunstgalerie von Gimcheon.",
+                  "text": "Das Gimcheon Municipal Art Museum zeigt moderne und traditionelle koreanische Kunst.",
                   "category": "museum",
                   "coords": [
                         128.119421,
@@ -5481,7 +6516,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Cheongak Art Gallery",
-                  "text": "Művészeti központ és galéria Kimcshonban.",
+                  "text": "A Cheongak Galéria helyi művészek alkotásait mutatja be.",
                   "category": "cultural",
                   "coords": [
                         128.12252,
@@ -5490,7 +6525,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gimcheon Culture and Arts Center",
-                  "text": "Kulturális és előadóművészeti központ Kimcshonban.",
+                  "text": "A Gimcheon Kulturális és Művészeti Központ színház- és kiállítótereket kínál.",
                   "category": "cultural",
                   "coords": [
                         128.088667,
@@ -5499,7 +6534,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gimcheon Cultural Center",
-                  "text": "Kulturális központ a művészetek népszerűsítésére Kimcshonban.",
+                  "text": "A Gimcheon Kulturális Központ egy közösségi központ kulturális események számára.",
                   "category": "cultural",
                   "coords": [
                         128.116729,
@@ -5508,7 +6543,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gimcheon Municipal Art Museum",
-                  "text": "Kimcshon városi művészeti galériája.",
+                  "text": "A Gimcheon Városi Művészeti Múzeum modern és hagyományos koreai művészetet mutat be.",
                   "category": "museum",
                   "coords": [
                         128.119421,
@@ -5519,7 +6554,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Cheongak Art Gallery",
-                  "text": "Un centru de artă și o galerie în Gimcheon.",
+                  "text": "Galeria Cheongak expune lucrări ale artiștilor locali.",
                   "category": "cultural",
                   "coords": [
                         128.12252,
@@ -5528,7 +6563,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gimcheon Culture and Arts Center",
-                  "text": "Un centru pentru cultură și spectacole în Gimcheon.",
+                  "text": "Centrul Cultural și Artistic Gimcheon oferă spații pentru teatru și expoziții.",
                   "category": "cultural",
                   "coords": [
                         128.088667,
@@ -5537,7 +6572,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gimcheon Cultural Center",
-                  "text": "Un centru cultural pentru promovarea artelor în Gimcheon.",
+                  "text": "Centrul Cultural Gimcheon este un centru comunitar pentru evenimente culturale.",
                   "category": "cultural",
                   "coords": [
                         128.116729,
@@ -5546,7 +6581,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gimcheon Municipal Art Museum",
-                  "text": "Galeria municipală de artă din Gimcheon.",
+                  "text": "Muzeul Municipal de Artă Gimcheon expune artă coreeană modernă și tradițională.",
                   "category": "museum",
                   "coords": [
                         128.119421,
@@ -5557,7 +6592,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Cheongak Gallery",
-                  "text": "An arts center and gallery in Gimcheon.",
+                  "text": "Cheongak Gallery features works by local artists.",
                   "category": "cultural",
                   "coords": [
                         128.12252,
@@ -5566,7 +6601,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gimcheon Culture & Arts Center",
-                  "text": "A center for culture and performing arts in Gimcheon.",
+                  "text": "Gimcheon Culture & Arts Center provides theater and exhibition spaces.",
                   "category": "cultural",
                   "coords": [
                         128.088667,
@@ -5575,7 +6610,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gimcheon Cultural Center",
-                  "text": "A cultural center for the promotion of arts in Gimcheon.",
+                  "text": "Gimcheon Cultural Center is a community venue for cultural events.",
                   "category": "cultural",
                   "coords": [
                         128.116729,
@@ -5584,7 +6619,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gimcheon Municipal Art Museum",
-                  "text": "The municipal art gallery of Gimcheon.",
+                  "text": "Gimcheon Municipal Art Museum displays modern and traditional Korean art.",
                   "category": "museum",
                   "coords": [
                         128.119421,
@@ -5644,7 +6679,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "National Chungju Meteorological Science Museum",
-                  "text": "국립충주기상과학관 in Chungju ist ein nationales Wissenschaftsmuseum, das sich der Meteorologie widmet.",
+                  "text": "Meteorologisches Wissenschaftsmuseum in Chungju mit interaktiven Ausstellungen zum Wetter.",
                   "category": "museum",
                   "coords": [
                         127.948782,
@@ -5653,7 +6688,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Buddhism Exhibition Hall",
-                  "text": "Die Buddhism Exhibition Hall ist ein Museum in Chungju.",
+                  "text": "Die Buddhism Exhibition Hall in Gimcheon präsentiert buddhistische Geschichte und Relikte.",
                   "category": "museum",
                   "coords": [
                         127.930652,
@@ -5662,7 +6697,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "World Martial Arts Museum",
-                  "text": "Das World Martial Arts Museum ist ein Museum in Chungju.",
+                  "text": "Das World Martial Arts Museum zeigt Kampfkünste aus aller Welt, einschließlich Taekwondo.",
                   "category": "museum",
                   "coords": [
                         127.907735,
@@ -5671,7 +6706,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Uruk-dang",
-                  "text": "Uruk-dang ist ein Theater in Chungju.",
+                  "text": "Uruk-dang ist ein traditioneller Pavillon mit koreanischer Architektur.",
                   "category": "cultural",
                   "coords": [
                         127.925788,
@@ -5680,7 +6715,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Chungju Larva Land",
-                  "text": "충주라바랜드 ist ein Themenpark in Chungju.",
+                  "text": "Chungju Larva Land ist ein familienfreundlicher Themenpark mit Insektenlarven und Natur.",
                   "category": "family",
                   "coords": [
                         127.907778,
@@ -5698,7 +6733,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Street of Youth",
-                  "text": "젊음의 거리 ist eine Attraktion in Chungju.",
+                  "text": "Die Street of Youth in Chungju ist eine lebhafte Einkaufsstraße, die bei jungen Leuten beliebt ist.",
                   "category": "landmark",
                   "coords": [
                         127.931108,
@@ -5707,7 +6742,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Chungju Cultural Center",
-                  "text": "Das Chungju Cultural Center ist ein Kunstzentrum in Chungju.",
+                  "text": "Das Chungju Cultural Center veranstaltet Aufführungen und Ausstellungen.",
                   "category": "cultural",
                   "coords": [
                         127.93722,
@@ -5718,7 +6753,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "National Chungju Meteorological Science Museum",
-                  "text": "A cshungdzsui 국립충주기상과학관 egy meteorológiának szentelt nemzeti tudományos múzeum.",
+                  "text": "Meteorológiai Tudományos Múzeum Chungjuban, interaktív időjárás-kiállításokkal.",
                   "category": "museum",
                   "coords": [
                         127.948782,
@@ -5727,7 +6762,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Buddhism Exhibition Hall",
-                  "text": "A Buddhism Exhibition Hall egy múzeum Cshungdzsu városában.",
+                  "text": "A Gimcsőn-i Buddhista Kiállítóterem a buddhista történelmet és ereklyéket mutatja be.",
                   "category": "museum",
                   "coords": [
                         127.930652,
@@ -5736,7 +6771,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "World Martial Arts Museum",
-                  "text": "A World Martial Arts Museum egy múzeum Cshungdzsu városában.",
+                  "text": "A Világ Harcművészeti Múzeum a világ harcművészeteit mutatja be, beleértve a taekwondót is.",
                   "category": "museum",
                   "coords": [
                         127.907735,
@@ -5745,7 +6780,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Uruk-dang",
-                  "text": "Az Uruk-dang egy színház Cshungdzsu városában.",
+                  "text": "Az Uruk-dang egy hagyományos pavilon koreai építészettel.",
                   "category": "cultural",
                   "coords": [
                         127.925788,
@@ -5754,7 +6789,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Chungju Larva Land",
-                  "text": "A 충주라바랜드 egy vidámpark Cshungdzsu városában.",
+                  "text": "A Chungju Lárva Föld egy családbarát tematikus park rovarlárvákkal és természettel.",
                   "category": "family",
                   "coords": [
                         127.907778,
@@ -5772,7 +6807,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Street of Youth",
-                  "text": "A 젊음의 거리 egy látványosság Cshungdzsu városában.",
+                  "text": "A Chungju-i Ifjúság Utcája egy élénk bevásárlóutca, népszerű a fiatalok körében.",
                   "category": "landmark",
                   "coords": [
                         127.931108,
@@ -5781,7 +6816,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Chungju Cultural Center",
-                  "text": "A Chungju Cultural Center egy művészeti központ Cshungdzsu városában.",
+                  "text": "A Chungju Kulturális Központ előadásokat és kiállításokat rendez.",
                   "category": "cultural",
                   "coords": [
                         127.93722,
@@ -5792,7 +6827,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "National Chungju Meteorological Science Museum",
-                  "text": "국립충주기상과학관 din Chungju este un muzeu național de știință dedicat meteorologiei.",
+                  "text": "Muzeu de științe meteorologice în Chungju, cu exponate interactive despre vreme.",
                   "category": "museum",
                   "coords": [
                         127.948782,
@@ -5801,7 +6836,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Buddhism Exhibition Hall",
-                  "text": "Buddhism Exhibition Hall este un muzeu situat în Chungju.",
+                  "text": "Sala de Expoziții Budiste din Gimcheon prezintă istoria și relicvele budiste.",
                   "category": "museum",
                   "coords": [
                         127.930652,
@@ -5810,7 +6845,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "World Martial Arts Museum",
-                  "text": "World Martial Arts Museum este un muzeu situat în Chungju.",
+                  "text": "Muzeul Mondial al Artelor Marțiale expune arte marțiale din întreaga lume, inclusiv taekwondo.",
                   "category": "museum",
                   "coords": [
                         127.907735,
@@ -5819,7 +6854,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Uruk-dang",
-                  "text": "Uruk-dang este un teatru din Chungju.",
+                  "text": "Uruk-dang este un pavilion tradițional cu arhitectură coreeană.",
                   "category": "cultural",
                   "coords": [
                         127.925788,
@@ -5828,7 +6863,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Chungju Larva Land",
-                  "text": "충주라바랜드 este un parc tematic în Chungju.",
+                  "text": "Chungju Larva Land este un parc tematic prietenos pentru familii, cu larve de insecte și natură.",
                   "category": "family",
                   "coords": [
                         127.907778,
@@ -5846,7 +6881,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Street of Youth",
-                  "text": "젊음의 거리 este o atracție din Chungju.",
+                  "text": "Strada Tineretului din Chungju este o stradă comercială vibrantă, populară în rândul tinerilor.",
                   "category": "landmark",
                   "coords": [
                         127.931108,
@@ -5855,7 +6890,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Chungju Cultural Center",
-                  "text": "Chungju Cultural Center este un centru de arte situat în Chungju.",
+                  "text": "Centrul Cultural Chungju organizează spectacole și expoziții.",
                   "category": "cultural",
                   "coords": [
                         127.93722,
@@ -5866,7 +6901,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "National Chungju Meteorological Science Museum",
-                  "text": "국립충주기상과학관 in Chungju is a national science museum dedicated to meteorology.",
+                  "text": "Meteorological science museum in Chungju with interactive weather exhibits.",
                   "category": "museum",
                   "coords": [
                         127.948782,
@@ -5875,7 +6910,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Buddhism Exhibition Hall",
-                  "text": "The Buddhism Exhibition Hall is a museum located in Chungju.",
+                  "text": "Buddhism Exhibition Hall in Gimcheon presents Buddhist history and relics.",
                   "category": "museum",
                   "coords": [
                         127.930652,
@@ -5884,7 +6919,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "World Martial Arts Museum",
-                  "text": "The World Martial Arts Museum is a museum located in Chungju.",
+                  "text": "World Martial Arts Museum showcases martial arts from around the world, including taekwondo.",
                   "category": "museum",
                   "coords": [
                         127.907735,
@@ -5893,7 +6928,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Uruk-dang",
-                  "text": "Uruk-dang is a theatre space in Chungju.",
+                  "text": "Uruk-dang is a traditional pavilion with Korean architecture.",
                   "category": "cultural",
                   "coords": [
                         127.925788,
@@ -5902,7 +6937,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Chungju Larva Land",
-                  "text": "충주라바랜드 is a theme park in Chungju.",
+                  "text": "Chungju Larva Land is a family-friendly theme park centered on insect larvae and nature.",
                   "category": "family",
                   "coords": [
                         127.907778,
@@ -5920,7 +6955,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Street of Youth",
-                  "text": "젊음의 거리 is an attraction in Chungju.",
+                  "text": "Street of Youth in Chungju is a vibrant shopping street popular with young people.",
                   "category": "landmark",
                   "coords": [
                         127.931108,
@@ -5929,7 +6964,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Chungju Cultural Center",
-                  "text": "The Chungju Cultural Center is an arts centre located in Chungju.",
+                  "text": "Chungju Cultural Center hosts performances and exhibitions.",
                   "category": "cultural",
                   "coords": [
                         127.93722,
@@ -5985,7 +7020,196 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     },
   },
   {
-    id: "yangsan-city-cities-v2",
+    id: "yangsan-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Korea Buddhism Exhibition Hall",
+                  "text": "Dieses Museum in Yangsan präsentiert eine reiche Sammlung buddhistischer Statuen, historischer Rollbilder und ritueller Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        129.037612,
+                        35.340076
+                  ]
+            },
+            {
+                  "name": "Yangju-dong Community Service Center",
+                  "text": "Das Verwaltungsgebäude von Yangju-dong bietet öffentliche Dienstleistungen und dient als kommunales Zentrum für die Bewohner von Yangsan.",
+                  "category": "historical",
+                  "coords": [
+                        129.032289,
+                        35.336518
+                  ]
+            },
+            {
+                  "name": "Yangsan Culture & Arts Center",
+                  "text": "Ein modernes Kulturzentrum in Yangsan, das über einen Konzertsaal für Theateraufführungen und musikalische Darbietungen verfügt.",
+                  "category": "cultural",
+                  "coords": [
+                        129.036393,
+                        35.333822
+                  ]
+            },
+            {
+                  "name": "Yeun Gallery",
+                  "text": "Eine zeitgenössische Kunstgalerie in Yangsan, die Ausstellungen lokaler Talente und moderne Installationen fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        129.041321,
+                        35.350248
+                  ]
+            },
+            {
+                  "name": "Yangseongsa",
+                  "text": "Ein ruhiger buddhistischer Tempel, der an den bewaldeten Berghängen von Yangsan liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        129.048273,
+                        35.352676
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Korea Buddhism Exhibition Hall",
+                  "text": "Ez a jangsani múzeum buddhista szobrok, történelmi tekercsképek és rituális tárgyak gazdag gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        129.037612,
+                        35.340076
+                  ]
+            },
+            {
+                  "name": "Yangju-dong Community Service Center",
+                  "text": "Yangju-dong közigazgatási épülete közszolgáltatásokat nyújt és közösségi központként szolgál Jangsan lakói számára.",
+                  "category": "historical",
+                  "coords": [
+                        129.032289,
+                        35.336518
+                  ]
+            },
+            {
+                  "name": "Yangsan Culture & Arts Center",
+                  "text": "Modern kulturális központ Jangsanban, amely színházi előadásoknak és zenei produkcióknak helyet adó hangversenyteremmel rendelkezik.",
+                  "category": "cultural",
+                  "coords": [
+                        129.036393,
+                        35.333822
+                  ]
+            },
+            {
+                  "name": "Yeun Gallery",
+                  "text": "Kortárs művészeti galéria Jangsanban, amely a helyi tehetségek kiállításait és modern installációkat támogatja.",
+                  "category": "cultural",
+                  "coords": [
+                        129.041321,
+                        35.350248
+                  ]
+            },
+            {
+                  "name": "Yangseongsa",
+                  "text": "Nyugodt buddhista templom Yangsan erdős hegyoldalában.",
+                  "category": "landmark",
+                  "coords": [
+                        129.048273,
+                        35.352676
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Korea Buddhism Exhibition Hall",
+                  "text": "Acest muzeu din Yangsan prezintă o colecție bogată de statui budiste, picturi pe suluri istorice și artefacte rituale.",
+                  "category": "museum",
+                  "coords": [
+                        129.037612,
+                        35.340076
+                  ]
+            },
+            {
+                  "name": "Yangju-dong Community Service Center",
+                  "text": "Clădirea administrativă din Yangju-dong oferă servicii publice și servește ca centru comunitar pentru locuitorii din Yangsan.",
+                  "category": "historical",
+                  "coords": [
+                        129.032289,
+                        35.336518
+                  ]
+            },
+            {
+                  "name": "Yangsan Culture & Arts Center",
+                  "text": "Un centru cultural modern din Yangsan, care dispune de o sală de concerte pentru spectacole de teatru și reprezentații muzicale.",
+                  "category": "cultural",
+                  "coords": [
+                        129.036393,
+                        35.333822
+                  ]
+            },
+            {
+                  "name": "Yeun Gallery",
+                  "text": "O galerie de artă contemporană din Yangsan care promovează expoziții ale talentelor locale și instalații moderne.",
+                  "category": "cultural",
+                  "coords": [
+                        129.041321,
+                        35.350248
+                  ]
+            },
+            {
+                  "name": "Yangseongsa",
+                  "text": "Un templu budist liniștit, situat pe pantele muntoase împădurite din Yangsan.",
+                  "category": "landmark",
+                  "coords": [
+                        129.048273,
+                        35.352676
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Korea Buddhism Exhibition Hall",
+                  "text": "This museum in Yangsan presents a rich collection of Buddhist statues, historic scroll paintings, and ritual artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        129.037612,
+                        35.340076
+                  ]
+            },
+            {
+                  "name": "Yangju-dong Community Service Center",
+                  "text": "The administrative building of Yangju-dong provides public services and serves as a community center for Yangsan residents.",
+                  "category": "historical",
+                  "coords": [
+                        129.032289,
+                        35.336518
+                  ]
+            },
+            {
+                  "name": "Yangsan Culture & Arts Center",
+                  "text": "A modern cultural center in Yangsan featuring a concert hall for theater performances and musical productions.",
+                  "category": "cultural",
+                  "coords": [
+                        129.036393,
+                        35.333822
+                  ]
+            },
+            {
+                  "name": "Yeun Gallery",
+                  "text": "A contemporary art gallery in Yangsan promoting exhibitions of local talents and modern installations.",
+                  "category": "cultural",
+                  "coords": [
+                        129.041321,
+                        35.350248
+                  ]
+            },
+            {
+                  "name": "Yangseongsa",
+                  "text": "A tranquil Buddhist temple nestled on the wooded mountainsides of Yangsan.",
+                  "category": "landmark",
+                  "coords": [
+                        129.048273,
+                        35.352676
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KR-48",
     coords: [129.0410, 35.3360],
@@ -6033,7 +7257,1204 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     },
   },
   {
-    id: "seosan-city-cities-v2",
+    id: "seosan-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Seosan Hyanggyo",
+                  "text": "Eine traditionelle koreanische Provinzschule, die als Zentrum für konfuzianische Bildung diente.",
+                  "category": "landmark",
+                  "coords": [
+                        126.456588,
+                        36.791046
+                  ]
+            },
+            {
+                  "name": "Seosan Cultural Center",
+                  "text": "Eine prominente Kultureinrichtung für Ausstellungen, Aufführungen und Gemeinschaftsveranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        126.449027,
+                        36.786859
+                  ]
+            },
+            {
+                  "name": "Multipurpose Hall",
+                  "text": "Ein vielseitiges Kirchengebäude, das im April 2022 für Gemeindeveranstaltungen eingeweiht wurde.",
+                  "category": "religious",
+                  "coords": [
+                        126.455844,
+                        36.787611
+                  ]
+            },
+            {
+                  "name": "Jeil Building;Somang Hall",
+                  "text": "Ein mehrstöckiges Kirchengebäude, das als regelmäßiger Versammlungsort für die christliche Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        126.451961,
+                        36.785878
+                  ]
+            },
+            {
+                  "name": "Seosan Dongbu Traditional Market",
+                  "text": "Der traditionelle Seosan Dongbu-Markt ist ein lebendiger Treffpunkt in Seosan, an dem Einheimische frische Produkte und regionale landwirtschaftliche Waren handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        126.455932,
+                        36.782405
+                  ]
+            },
+            {
+                  "name": "Seogwangsa",
+                  "text": "Seogwangsa ist eine friedliche buddhistische Tempelanlage in Seosan, die durch ihre traditionellen Holzhallen einen ruhigen Rückzugsort für spirituelle Kontemplation bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        126.445452,
+                        36.791673
+                  ]
+            },
+            {
+                  "name": "Daum Presbyterian Church",
+                  "text": "Die presbyterianische Daum-Kirche versammelt die christlichen Gläubigen von Seosan zu wöchentlichen Predigten und Bibelstudien.",
+                  "category": "landmark",
+                  "coords": [
+                        126.457711,
+                        36.7912
+                  ]
+            },
+            {
+                  "name": "Pyeonggang Evangelical Church",
+                  "text": "Die evangelische Pyeonggang-Kirche in Seosan widmet sich der christlichen Lehre und engagiert sich stark in lokalen Gemeinschaftsprogrammen.",
+                  "category": "landmark",
+                  "coords": [
+                        126.456757,
+                        36.788904
+                  ]
+            },
+            {
+                  "name": "Seosan Evangelical Church",
+                  "text": "Die evangelische Kirche Seosan ist ein etabliertes Gotteshaus, das Gebetskreise und aktive Seelsorge für die Stadtbewohner anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        126.44921,
+                        36.779087
+                  ]
+            },
+            {
+                  "name": "Sarang Church",
+                  "text": "Die Sarang-Kirche ist ein modernes christliches Zentrum in Seosan, das Jugenddienste und familiengerechte spirituelle Veranstaltungen fördert.",
+                  "category": "landmark",
+                  "coords": [
+                        126.468579,
+                        36.785393
+                  ]
+            },
+            {
+                  "name": "Seosan Presbyterian Church",
+                  "text": "Die Presbyterianische Kirche Seosan ist ein markantes christliches Gebäude, das einer großen lokalen Gemeinde mit regelmäßiger Chorarbeit dient.",
+                  "category": "landmark",
+                  "coords": [
+                        126.474462,
+                        36.779965
+                  ]
+            },
+            {
+                  "name": "Seosan Yecheon-dong Catholic Church",
+                  "text": "Die katholische Kirche Seosan Yecheon-dong feiert regelmäßig die Heilige Messe und dient als spiritueller Anker für die Anwohner des Yecheon-dong-Viertels.",
+                  "category": "landmark",
+                  "coords": [
+                        126.434897,
+                        36.767245
+                  ]
+            },
+            {
+                  "name": "Shincheonji Church of Jesus, the Temple of the Tabernacle of the Testimony Matthia Branch Seosan Church",
+                  "text": "Diese Niederlassung der Shincheonji-Kirche in Seosan ist ein großes Gottesdienstzentrum, das sich speziell auf die Lehren des Matthia-Stammes konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        126.446724,
+                        36.789384
+                  ]
+            },
+            {
+                  "name": "Anguk Temple",
+                  "text": "Der Anguk-Tempel ist eine ruhige buddhistische Stätte in Seosan, die sich durch steinerne Pagoden und traditionelle Meditationshallen in den Bergen auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        126.452134,
+                        36.787845
+                  ]
+            },
+            {
+                  "name": "Tapdong Church",
+                  "text": "Die Tapdong-Kirche ist ein einladendes christliches Heiligtum in Seosan, in dem sich Familien zur wöchentlichen Anbetung versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        126.453202,
+                        36.787119
+                  ]
+            },
+            {
+                  "name": "Seogwang Temple",
+                  "text": "Der Seogwang-Tempel in Seosan bietet eine friedliche Atmosphäre, in der Mönche und Gläubige gemeinsam buddhistische Gesänge und Achtsamkeit praktizieren.",
+                  "category": "landmark",
+                  "coords": [
+                        126.446405,
+                        36.79056
+                  ]
+            },
+            {
+                  "name": "Seoryeong Methodist Church",
+                  "text": "Die methodistische Kirche Seoryeong vereint ihre christliche Gemeinde in Seosan durch Sonntagsgottesdienste und engagierte pastorale Initiativen.",
+                  "category": "landmark",
+                  "coords": [
+                        126.459556,
+                        36.794282
+                  ]
+            },
+            {
+                  "name": "Seosan Citizen Church",
+                  "text": "Die Bürgerkirche Seosan ist tief in das städtische Leben eingebettet und bietet den Einwohnern ein christliches spirituelles Zuhause mit regelmäßigen Seminaren.",
+                  "category": "landmark",
+                  "coords": [
+                        126.45947,
+                        36.790472
+                  ]
+            },
+            {
+                  "name": "Siloam Methodist Church",
+                  "text": "Die methodistische Siloam-Kirche in Seosan ist ein Zentrum des christlichen Glaubens, das sich der religiösen Erziehung der nächsten Generation widmet.",
+                  "category": "landmark",
+                  "coords": [
+                        126.458059,
+                        36.789721
+                  ]
+            },
+            {
+                  "name": "Banseok Springwater Evangelical Church",
+                  "text": "Die Banseok Springwater Evangelical Church zeichnet sich durch einen aktiven christlichen Dienst aus, der theologische Vorträge für die Gemeinde Seosan anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        126.456055,
+                        36.78626
+                  ]
+            },
+            {
+                  "name": "Seosan Dongdu Methodist Church",
+                  "text": "Die methodistische Kirche Seosan Dongdu bietet einen traditionellen christlichen Gottesdienstraum für die Anwohner im Stadtteil Dongdu.",
+                  "category": "landmark",
+                  "coords": [
+                        126.459619,
+                        36.78752
+                  ]
+            },
+            {
+                  "name": "Big Light Church",
+                  "text": "Die Big Light Church ist eine christliche Gemeinde in Seosan, die sich durch ihre moderne Architektur und lebendige Musikdienste auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        126.461941,
+                        36.786694
+                  ]
+            },
+            {
+                  "name": "Seosan Sacred Mountains Presbyterian Church",
+                  "text": "Die presbyterianische Kirche der Heiligen Berge von Seosan nutzt ihre malerische Umgebung für christliche Einkehrtage und Gebete in der Natur.",
+                  "category": "landmark",
+                  "coords": [
+                        126.461942,
+                        36.787742
+                  ]
+            },
+            {
+                  "name": "Pyeongan Church",
+                  "text": "Die Pyeongan-Kirche ist ein lokal geschätztes christliches Heiligtum in Seosan, das die Nachbarschaft durch regelmäßige Wohltätigkeitsaktionen vereint.",
+                  "category": "landmark",
+                  "coords": [
+                        126.459874,
+                        36.788904
+                  ]
+            },
+            {
+                  "name": "World Mission Society Church of God",
+                  "text": "Die World Mission Society Church of God in Seosan ist eine große christliche Einrichtung, die für ihre markante Auslegung des Sabbats bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        126.459923,
+                        36.785837
+                  ]
+            },
+            {
+                  "name": "Seosan Dongil Presbyterian Church",
+                  "text": "Die presbyterianische Kirche Seosan Dongil bringt christliche Familien in ihrer modernen Gemeindehalle für Anbetung und Bibelstudium zusammen.",
+                  "category": "landmark",
+                  "coords": [
+                        126.457255,
+                        36.78596
+                  ]
+            },
+            {
+                  "name": "Seongnim Jungang Evangelical Church",
+                  "text": "Die evangelische Kirche Seongnim Jungang fungiert als zentraler Treffpunkt für Gottesdienste und Gemeindearbeit im belebten Bezirk Seongnim.",
+                  "category": "landmark",
+                  "coords": [
+                        126.465629,
+                        36.772603
+                  ]
+            },
+            {
+                  "name": "Seosan Iroom Church",
+                  "text": "Die Iroom-Kirche in Seosan ist bekannt für ihre multimedialen Predigten, die gezielt eine jüngere christliche Generation ansprechen.",
+                  "category": "landmark",
+                  "coords": [
+                        126.484397,
+                        36.788567
+                  ]
+            },
+            {
+                  "name": "Happy Baptist Church",
+                  "text": "Die Happy Baptist Church veranstaltet freudige, von Gospelmusik begleitete Sonntagsgottesdienste im Herzen von Seosan.",
+                  "category": "landmark",
+                  "coords": [
+                        126.46551,
+                        36.803106
+                  ]
+            },
+            {
+                  "name": "Grace Vision Presbyterian Church",
+                  "text": "Die presbyterianische Kirche Grace Vision in Seosan richtet regelmäßig theologische Seminare in ihren modernen Gemeinderäumen aus.",
+                  "category": "landmark",
+                  "coords": [
+                        126.471838,
+                        36.803395
+                  ]
+            },
+            {
+                  "name": "Gwangcheon Temple",
+                  "text": "Der friedliche Gwangcheon-Tempel liegt idyllisch in den Wäldern bei Seosan und dient als Rückzugsort für buddhistische Meditationen.",
+                  "category": "landmark",
+                  "coords": [
+                        126.470459,
+                        36.804376
+                  ]
+            },
+            {
+                  "name": "Seosan Seongnim-dong Catholic Church",
+                  "text": "Die katholische Kirche Seosan Seongnim-dong prägt mit ihrer markanten traditionellen Architektur das spirituelle Straßenbild des Bezirks.",
+                  "category": "landmark",
+                  "coords": [
+                        126.470031,
+                        36.770963
+                  ]
+            },
+            {
+                  "name": "Grace and Truth Church",
+                  "text": "Die Grace and Truth Church in Seosan engagiert sich neben den sonntäglichen Gottesdiensten stark in der lokalen Armenspeisung.",
+                  "category": "landmark",
+                  "coords": [
+                        126.469053,
+                        36.771182
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Seosan Hyanggyo",
+                  "text": "Hagyományos koreai tartományi iskola, amely a helyi konfuciánus oktatás központjaként szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        126.456588,
+                        36.791046
+                  ]
+            },
+            {
+                  "name": "Seosan Cultural Center",
+                  "text": "Kiemelkedő művészeti létesítmény, amely kiállításoknak, előadásoknak és közösségi eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        126.449027,
+                        36.786859
+                  ]
+            },
+            {
+                  "name": "Multipurpose Hall",
+                  "text": "Egy 2022 áprilisában felavatott, közösségi összejövetelekre és istentiszteletre szolgáló sokoldalú egyházi létesítmény.",
+                  "category": "religious",
+                  "coords": [
+                        126.455844,
+                        36.787611
+                  ]
+            },
+            {
+                  "name": "Jeil Building;Somang Hall",
+                  "text": "Többszintes vallási épület, amely a keresztény gyülekezetek rendszeres találkozóhelyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        126.451961,
+                        36.785878
+                  ]
+            },
+            {
+                  "name": "Seosan Dongbu Traditional Market",
+                  "text": "A Szoszan Dongbu hagyományos piac egy nyüzsgő kereskedelmi központ Szoszanban, ahol a helyiek friss termékeket és regionális mezőgazdasági árukat cserélnek.",
+                  "category": "cultural",
+                  "coords": [
+                        126.455932,
+                        36.782405
+                  ]
+            },
+            {
+                  "name": "Seogwangsa",
+                  "text": "A Szogvangsza egy békés buddhista templomegyüttes Szoszanban, amely hagyományos facsarnokaival csendes menedéket nyújt a spirituális elmélkedéshez.",
+                  "category": "landmark",
+                  "coords": [
+                        126.445452,
+                        36.791673
+                  ]
+            },
+            {
+                  "name": "Daum Presbyterian Church",
+                  "text": "A Daum Presbiteriánus Templom heti prédikációkra és bibliatanulmányozásra gyűjti össze Szoszan keresztény hívőit.",
+                  "category": "landmark",
+                  "coords": [
+                        126.457711,
+                        36.7912
+                  ]
+            },
+            {
+                  "name": "Pyeonggang Evangelical Church",
+                  "text": "A szoszani Pjonggang Evangéliumi Templom a keresztény tanításoknak szenteli magát, és erősen elkötelezett a helyi közösségi programok iránt.",
+                  "category": "landmark",
+                  "coords": [
+                        126.456757,
+                        36.788904
+                  ]
+            },
+            {
+                  "name": "Seosan Evangelical Church",
+                  "text": "A Szoszani Evangéliumi Templom egy jól bejáratott istentiszteleti hely, amely imaköröket és aktív lelkigondozást kínál a városlakóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        126.44921,
+                        36.779087
+                  ]
+            },
+            {
+                  "name": "Sarang Church",
+                  "text": "A Szarang Templom egy modern keresztény központ Szoszanban, amely az ifjúsági szolgálatokat és a családbarát spirituális eseményeket támogatja.",
+                  "category": "landmark",
+                  "coords": [
+                        126.468579,
+                        36.785393
+                  ]
+            },
+            {
+                  "name": "Seosan Presbyterian Church",
+                  "text": "A Szoszan Presbiteriánus Templom egy kiemelkedő keresztény épület, amely jelentős helyi gyülekezetet szolgál ki rendszeres kórusmunkával.",
+                  "category": "landmark",
+                  "coords": [
+                        126.474462,
+                        36.779965
+                  ]
+            },
+            {
+                  "name": "Seosan Yecheon-dong Catholic Church",
+                  "text": "A Szoszan Jecshon-dong Katolikus Templom rendszeres szentmiséket ünnepel, és spirituális horgonyként szolgál a Jecshon-dong negyed lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        126.434897,
+                        36.767245
+                  ]
+            },
+            {
+                  "name": "Shincheonji Church of Jesus, the Temple of the Tabernacle of the Testimony Matthia Branch Seosan Church",
+                  "text": "A Sincshondzsi Egyház szoszani ága egy nagy istentiszteleti központ, amely kifejezetten a Mátyás törzs tanításaira összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        126.446724,
+                        36.789384
+                  ]
+            },
+            {
+                  "name": "Anguk Temple",
+                  "text": "Az Anguk-templom egy nyugodt buddhista helyszín Szoszanban, amelyet hegyvidéki kőpagodák és hagyományos meditációs csarnokok jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        126.452134,
+                        36.787845
+                  ]
+            },
+            {
+                  "name": "Tapdong Church",
+                  "text": "A Thapdong Templom egy barátságos keresztény szentély Szoszanban, ahol a családok heti istentiszteletre gyűlnek össze.",
+                  "category": "landmark",
+                  "coords": [
+                        126.453202,
+                        36.787119
+                  ]
+            },
+            {
+                  "name": "Seogwang Temple",
+                  "text": "A szoszani Szogvang-templom békés légkört kínál, ahol szerzetesek és hívők közösen gyakorolják a buddhista énekeket és a tudatosságot.",
+                  "category": "landmark",
+                  "coords": [
+                        126.446405,
+                        36.79056
+                  ]
+            },
+            {
+                  "name": "Seoryeong Methodist Church",
+                  "text": "A Szorjong Metodista Templom vasárnapi istentiszteletekkel és elkötelezett lelkipásztori kezdeményezésekkel egyesíti keresztény gyülekezetét Szoszanban.",
+                  "category": "landmark",
+                  "coords": [
+                        126.459556,
+                        36.794282
+                  ]
+            },
+            {
+                  "name": "Seosan Citizen Church",
+                  "text": "A Szoszani Polgári Templom mélyen beágyazódik a városi életbe, és rendszeres szemináriumokkal keresztény spirituális otthont nyújt a lakosoknak.",
+                  "category": "landmark",
+                  "coords": [
+                        126.45947,
+                        36.790472
+                  ]
+            },
+            {
+                  "name": "Siloam Methodist Church",
+                  "text": "A szoszani Siloam Metodista Templom a keresztény hit központja, amely a következő generáció vallási oktatásának szenteli magát.",
+                  "category": "landmark",
+                  "coords": [
+                        126.458059,
+                        36.789721
+                  ]
+            },
+            {
+                  "name": "Banseok Springwater Evangelical Church",
+                  "text": "A Banszok Springwater Evangéliumi Templom aktív keresztény szolgálattal büszkélkedhet, amely teológiai előadásokat kínál a szoszani közösségnek.",
+                  "category": "landmark",
+                  "coords": [
+                        126.456055,
+                        36.78626
+                  ]
+            },
+            {
+                  "name": "Seosan Dongdu Methodist Church",
+                  "text": "A Szoszan Dongdu Metodista Templom hagyományos keresztény istentiszteleti teret biztosít a Dongdu városrész lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        126.459619,
+                        36.78752
+                  ]
+            },
+            {
+                  "name": "Big Light Church",
+                  "text": "A Big Light Templom egy keresztény gyülekezet Szoszanban, amely modern építészetével és élénk zenei szolgálataival tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        126.461941,
+                        36.786694
+                  ]
+            },
+            {
+                  "name": "Seosan Sacred Mountains Presbyterian Church",
+                  "text": "A Szoszani Szent Hegyek Presbiteriánus Templom festői környezetét használja fel keresztény elvonulásokhoz és a természetben való imádkozáshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        126.461942,
+                        36.787742
+                  ]
+            },
+            {
+                  "name": "Pyeongan Church",
+                  "text": "A Phjongan Templom egy helyileg nagyra becsült keresztény szentély Szoszanban, amely rendszeres jótékonysági akciókkal egyesíti a szomszédságot.",
+                  "category": "landmark",
+                  "coords": [
+                        126.459874,
+                        36.788904
+                  ]
+            },
+            {
+                  "name": "World Mission Society Church of God",
+                  "text": "A szoszani World Mission Society Isten Egyháza egy nagy keresztény létesítmény, amely a szombat jellegzetes értelmezéséről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        126.459923,
+                        36.785837
+                  ]
+            },
+            {
+                  "name": "Seosan Dongil Presbyterian Church",
+                  "text": "A Szoszan Dongil Presbiteriánus Templom modern gyülekezeti termében hozza össze a keresztény családokat istentiszteletre és bibliatanulmányozásra.",
+                  "category": "landmark",
+                  "coords": [
+                        126.457255,
+                        36.78596
+                  ]
+            },
+            {
+                  "name": "Seongnim Jungang Evangelical Church",
+                  "text": "A Szongnim Csungang Evangéliumi Templom az istentiszteletek és a közösségi munka központi találkozóhelyeként funkcionál a nyüzsgő Szongnim negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        126.465629,
+                        36.772603
+                  ]
+            },
+            {
+                  "name": "Seosan Iroom Church",
+                  "text": "A szoszani Iroom Templom multimédiás prédikációiról ismert, amelyek kifejezetten a fiatalabb keresztény generációt szólítják meg.",
+                  "category": "landmark",
+                  "coords": [
+                        126.484397,
+                        36.788567
+                  ]
+            },
+            {
+                  "name": "Happy Baptist Church",
+                  "text": "A Boldog Baptista Gyülekezet örömteli, gospelzenével kísért vasárnapi istentiszteleteket tart Szoszan szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        126.46551,
+                        36.803106
+                  ]
+            },
+            {
+                  "name": "Grace Vision Presbyterian Church",
+                  "text": "A szoszani Grace Vision Presbiteriánus Templom rendszeresen szervez teológiai szemináriumokat modern gyülekezeti termeiben.",
+                  "category": "landmark",
+                  "coords": [
+                        126.471838,
+                        36.803395
+                  ]
+            },
+            {
+                  "name": "Gwangcheon Temple",
+                  "text": "A békés Kvangcshon-templom idillien fekszik a Szoszan melletti erdőkben, és elvonulási helyként szolgál a buddhista meditációkhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        126.470459,
+                        36.804376
+                  ]
+            },
+            {
+                  "name": "Seosan Seongnim-dong Catholic Church",
+                  "text": "A Szoszan Szongnim-dong Katolikus Templom jellegzetes hagyományos építészetével határozza meg a kerület spirituális utcaképét.",
+                  "category": "landmark",
+                  "coords": [
+                        126.470031,
+                        36.770963
+                  ]
+            },
+            {
+                  "name": "Grace and Truth Church",
+                  "text": "A szoszani Kegyelem és Igazság Temploma a vasárnapi istentiszteletek mellett erősen részt vesz a helyi szegények élelmezésében.",
+                  "category": "landmark",
+                  "coords": [
+                        126.469053,
+                        36.771182
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Seosan Hyanggyo",
+                  "text": "O școală provincială coreeană tradițională care a servit drept centru pentru educația confucianistă locală.",
+                  "category": "landmark",
+                  "coords": [
+                        126.456588,
+                        36.791046
+                  ]
+            },
+            {
+                  "name": "Seosan Cultural Center",
+                  "text": "O facilitate de artă proeminentă care găzduiește expoziții, spectacole și evenimente comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        126.449027,
+                        36.786859
+                  ]
+            },
+            {
+                  "name": "Multipurpose Hall",
+                  "text": "O facilitate bisericească versatilă inaugurată în aprilie 2022 pentru adunări comunitare și închinare.",
+                  "category": "religious",
+                  "coords": [
+                        126.455844,
+                        36.787611
+                  ]
+            },
+            {
+                  "name": "Jeil Building;Somang Hall",
+                  "text": "O clădire religioasă cu mai multe niveluri care servește ca spațiu de adunare pentru congregațiile creștine.",
+                  "category": "religious",
+                  "coords": [
+                        126.451961,
+                        36.785878
+                  ]
+            },
+            {
+                  "name": "Seosan Dongbu Traditional Market",
+                  "text": "Piața tradițională Seosan Dongbu este un centru comercial vibrant din Seosan, unde localnicii vând produse proaspete și bunuri agricole regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        126.455932,
+                        36.782405
+                  ]
+            },
+            {
+                  "name": "Seogwangsa",
+                  "text": "Seogwangsa este un complex de temple budiste liniștit situat în Seosan, oferind prin sălile sale tradiționale din lemn un refugiu tăcut pentru contemplare.",
+                  "category": "landmark",
+                  "coords": [
+                        126.445452,
+                        36.791673
+                  ]
+            },
+            {
+                  "name": "Daum Presbyterian Church",
+                  "text": "Biserica Presbiteriană Daum adună credincioșii creștini din Seosan pentru predici săptămânale și studii biblice.",
+                  "category": "landmark",
+                  "coords": [
+                        126.457711,
+                        36.7912
+                  ]
+            },
+            {
+                  "name": "Pyeonggang Evangelical Church",
+                  "text": "Biserica Evanghelică Pyeonggang din Seosan este dedicată învățăturilor creștine și se implică activ în programele comunității locale.",
+                  "category": "landmark",
+                  "coords": [
+                        126.456757,
+                        36.788904
+                  ]
+            },
+            {
+                  "name": "Seosan Evangelical Church",
+                  "text": "Biserica Evanghelică Seosan este un lăcaș de cult consacrat, care oferă grupuri de rugăciune și asistență pastorală activă orășenilor.",
+                  "category": "landmark",
+                  "coords": [
+                        126.44921,
+                        36.779087
+                  ]
+            },
+            {
+                  "name": "Sarang Church",
+                  "text": "Biserica Sarang este un centru creștin modern din Seosan, care promovează slujirile pentru tineret și evenimentele spirituale destinate familiilor.",
+                  "category": "landmark",
+                  "coords": [
+                        126.468579,
+                        36.785393
+                  ]
+            },
+            {
+                  "name": "Seosan Presbyterian Church",
+                  "text": "Biserica Presbiteriană Seosan este o clădire creștină proeminentă care servește o congregație locală mare cu activități corale regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        126.474462,
+                        36.779965
+                  ]
+            },
+            {
+                  "name": "Seosan Yecheon-dong Catholic Church",
+                  "text": "Biserica Catolică Seosan Yecheon-dong celebrează în mod regulat Sfânta Liturghie, servind ca ancoră spirituală pentru locuitorii cartierului Yecheon-dong.",
+                  "category": "landmark",
+                  "coords": [
+                        126.434897,
+                        36.767245
+                  ]
+            },
+            {
+                  "name": "Shincheonji Church of Jesus, the Temple of the Tabernacle of the Testimony Matthia Branch Seosan Church",
+                  "text": "Această filială a Bisericii Shincheonji din Seosan este un mare centru de cult care se concentrează în mod specific pe învățăturile tribului Matthia.",
+                  "category": "landmark",
+                  "coords": [
+                        126.446724,
+                        36.789384
+                  ]
+            },
+            {
+                  "name": "Anguk Temple",
+                  "text": "Templul Anguk este un sit budist senin din Seosan, caracterizat prin pagode de piatră și săli tradiționale de meditație montane.",
+                  "category": "landmark",
+                  "coords": [
+                        126.452134,
+                        36.787845
+                  ]
+            },
+            {
+                  "name": "Tapdong Church",
+                  "text": "Biserica Tapdong este un sanctuar creștin primitor situat în Seosan, unde familiile se adună pentru închinarea săptămânală.",
+                  "category": "landmark",
+                  "coords": [
+                        126.453202,
+                        36.787119
+                  ]
+            },
+            {
+                  "name": "Seogwang Temple",
+                  "text": "Templul Seogwang din Seosan oferă o atmosferă pașnică în care călugării și credincioșii practică împreună cântările budiste și mindfulness-ul.",
+                  "category": "landmark",
+                  "coords": [
+                        126.446405,
+                        36.79056
+                  ]
+            },
+            {
+                  "name": "Seoryeong Methodist Church",
+                  "text": "Biserica Metodistă Seoryeong își unește congregația creștină din Seosan prin slujbe de duminică și inițiative pastorale dedicate.",
+                  "category": "landmark",
+                  "coords": [
+                        126.459556,
+                        36.794282
+                  ]
+            },
+            {
+                  "name": "Seosan Citizen Church",
+                  "text": "Biserica Cetățenilor din Seosan este profund integrată în viața urbană, oferind locuitorilor o casă spirituală creștină cu seminarii regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        126.45947,
+                        36.790472
+                  ]
+            },
+            {
+                  "name": "Siloam Methodist Church",
+                  "text": "Biserica Metodistă Siloam din Seosan este un centru al credinței creștine, dedicat educației religioase a tinerei generații.",
+                  "category": "landmark",
+                  "coords": [
+                        126.458059,
+                        36.789721
+                  ]
+            },
+            {
+                  "name": "Banseok Springwater Evangelical Church",
+                  "text": "Biserica Evanghelică Banseok Springwater se distinge printr-o lucrare creștină activă, oferind prelegeri teologice pentru comunitatea din Seosan.",
+                  "category": "landmark",
+                  "coords": [
+                        126.456055,
+                        36.78626
+                  ]
+            },
+            {
+                  "name": "Seosan Dongdu Methodist Church",
+                  "text": "Biserica Metodistă Seosan Dongdu oferă un spațiu tradițional de închinare creștină pentru locuitorii din cartierul Dongdu.",
+                  "category": "landmark",
+                  "coords": [
+                        126.459619,
+                        36.78752
+                  ]
+            },
+            {
+                  "name": "Big Light Church",
+                  "text": "Biserica Big Light este o congregație creștină din Seosan, distinsă prin arhitectura sa modernă și slujirile muzicale vibrante.",
+                  "category": "landmark",
+                  "coords": [
+                        126.461941,
+                        36.786694
+                  ]
+            },
+            {
+                  "name": "Seosan Sacred Mountains Presbyterian Church",
+                  "text": "Biserica Presbiteriană a Munților Sacri din Seosan își folosește împrejurimile pitorești pentru retrageri creștine și rugăciuni în natură.",
+                  "category": "landmark",
+                  "coords": [
+                        126.461942,
+                        36.787742
+                  ]
+            },
+            {
+                  "name": "Pyeongan Church",
+                  "text": "Biserica Pyeongan este un sanctuar creștin apreciat local în Seosan, care unește cartierul prin campanii regulate de caritate.",
+                  "category": "landmark",
+                  "coords": [
+                        126.459874,
+                        36.788904
+                  ]
+            },
+            {
+                  "name": "World Mission Society Church of God",
+                  "text": "Biserica lui Dumnezeu a Societății Misionare Mondiale din Seosan este o mare facilitate creștină, cunoscută pentru interpretarea sa distinctă a Sabatului.",
+                  "category": "landmark",
+                  "coords": [
+                        126.459923,
+                        36.785837
+                  ]
+            },
+            {
+                  "name": "Seosan Dongil Presbyterian Church",
+                  "text": "Biserica Presbiteriană Seosan Dongil reunește familiile creștine în sala sa parohială modernă pentru închinare și studiu biblic.",
+                  "category": "landmark",
+                  "coords": [
+                        126.457255,
+                        36.78596
+                  ]
+            },
+            {
+                  "name": "Seongnim Jungang Evangelical Church",
+                  "text": "Biserica Evanghelică Seongnim Jungang funcționează ca un punct de întâlnire central pentru slujbe și activități comunitare în districtul animat Seongnim.",
+                  "category": "landmark",
+                  "coords": [
+                        126.465629,
+                        36.772603
+                  ]
+            },
+            {
+                  "name": "Seosan Iroom Church",
+                  "text": "Biserica Iroom din Seosan este cunoscută pentru predicile sale multimedia, concepute special pentru a atrage o generație creștină mai tânără.",
+                  "category": "landmark",
+                  "coords": [
+                        126.484397,
+                        36.788567
+                  ]
+            },
+            {
+                  "name": "Happy Baptist Church",
+                  "text": "Biserica Baptistă Fericită găzduiește slujbe duminicale pline de bucurie, însoțite de muzică gospel, în inima orașului Seosan.",
+                  "category": "landmark",
+                  "coords": [
+                        126.46551,
+                        36.803106
+                  ]
+            },
+            {
+                  "name": "Grace Vision Presbyterian Church",
+                  "text": "Biserica Presbiteriană Grace Vision din Seosan găzduiește în mod regulat seminarii teologice în sălile sale moderne de parohie.",
+                  "category": "landmark",
+                  "coords": [
+                        126.471838,
+                        36.803395
+                  ]
+            },
+            {
+                  "name": "Gwangcheon Temple",
+                  "text": "Pașnicul templu Gwangcheon este situat idilic în pădurile de lângă Seosan, servind ca refugiu pentru meditațiile budiste.",
+                  "category": "landmark",
+                  "coords": [
+                        126.470459,
+                        36.804376
+                  ]
+            },
+            {
+                  "name": "Seosan Seongnim-dong Catholic Church",
+                  "text": "Biserica Catolică Seosan Seongnim-dong definește peisajul stradal spiritual al districtului cu arhitectura sa tradițională distinctivă.",
+                  "category": "landmark",
+                  "coords": [
+                        126.470031,
+                        36.770963
+                  ]
+            },
+            {
+                  "name": "Grace and Truth Church",
+                  "text": "Biserica Harul și Adevărul din Seosan se implică activ în hrănirea săracilor din localitate, pe lângă slujbele sale duminicale.",
+                  "category": "landmark",
+                  "coords": [
+                        126.469053,
+                        36.771182
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Seosan Hyanggyo",
+                  "text": "A traditional Korean provincial school that served as a center for local Confucian education.",
+                  "category": "landmark",
+                  "coords": [
+                        126.456588,
+                        36.791046
+                  ]
+            },
+            {
+                  "name": "Seosan Cultural Center",
+                  "text": "A prominent arts facility hosting exhibitions, performances, and community events.",
+                  "category": "cultural",
+                  "coords": [
+                        126.449027,
+                        36.786859
+                  ]
+            },
+            {
+                  "name": "Multipurpose Hall",
+                  "text": "A versatile church facility inaugurated in April 2022 for community gatherings and worship.",
+                  "category": "religious",
+                  "coords": [
+                        126.455844,
+                        36.787611
+                  ]
+            },
+            {
+                  "name": "Jeil Building;Somang Hall",
+                  "text": "A multi-level religious building serving as a regular gathering space for Christian congregations.",
+                  "category": "religious",
+                  "coords": [
+                        126.451961,
+                        36.785878
+                  ]
+            },
+            {
+                  "name": "Seosan Dongbu Traditional Market",
+                  "text": "The Seosan Dongbu Traditional Market is a vibrant hub in Seosan where locals gather to trade fresh produce and regional agricultural goods.",
+                  "category": "cultural",
+                  "coords": [
+                        126.455932,
+                        36.782405
+                  ]
+            },
+            {
+                  "name": "Seogwangsa",
+                  "text": "Seogwangsa is a peaceful Buddhist temple complex situated in Seosan, offering a quiet retreat for spiritual contemplation amid its traditional wooden halls.",
+                  "category": "landmark",
+                  "coords": [
+                        126.445452,
+                        36.791673
+                  ]
+            },
+            {
+                  "name": "Daum Presbyterian Church",
+                  "text": "Daum Presbyterian Church gathers the Christian faithful of Seosan for weekly sermons and biblical studies.",
+                  "category": "landmark",
+                  "coords": [
+                        126.457711,
+                        36.7912
+                  ]
+            },
+            {
+                  "name": "Pyeonggang Evangelical Church",
+                  "text": "Pyeonggang Evangelical Church in Seosan is dedicated to Christian teachings and actively engages in local community outreach programs.",
+                  "category": "landmark",
+                  "coords": [
+                        126.456757,
+                        36.788904
+                  ]
+            },
+            {
+                  "name": "Seosan Evangelical Church",
+                  "text": "Seosan Evangelical Church is an established sanctuary offering prayer circles and active pastoral care for the city's residents.",
+                  "category": "landmark",
+                  "coords": [
+                        126.44921,
+                        36.779087
+                  ]
+            },
+            {
+                  "name": "Sarang Church",
+                  "text": "Sarang Church is a modern Christian facility in Seosan that champions youth ministries and family-oriented spiritual events.",
+                  "category": "landmark",
+                  "coords": [
+                        126.468579,
+                        36.785393
+                  ]
+            },
+            {
+                  "name": "Seosan Presbyterian Church",
+                  "text": "Seosan Presbyterian Church is a prominent Christian building accommodating a large local congregation with regular choral activities.",
+                  "category": "landmark",
+                  "coords": [
+                        126.474462,
+                        36.779965
+                  ]
+            },
+            {
+                  "name": "Seosan Yecheon-dong Catholic Church",
+                  "text": "The Seosan Yecheon-dong Catholic Church regularly celebrates the Holy Mass, serving as a spiritual anchor for the residents of the Yecheon-dong neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        126.434897,
+                        36.767245
+                  ]
+            },
+            {
+                  "name": "Shincheonji Church of Jesus, the Temple of the Tabernacle of the Testimony Matthia Branch Seosan Church",
+                  "text": "This Shincheonji Church branch in Seosan is a large worship center specifically focused on the distinctive teachings of the Matthia tribe.",
+                  "category": "landmark",
+                  "coords": [
+                        126.446724,
+                        36.789384
+                  ]
+            },
+            {
+                  "name": "Anguk Temple",
+                  "text": "Anguk Temple is a serene Buddhist site in Seosan, characterized by stone pagodas and traditional mountain meditation halls.",
+                  "category": "landmark",
+                  "coords": [
+                        126.452134,
+                        36.787845
+                  ]
+            },
+            {
+                  "name": "Tapdong Church",
+                  "text": "Tapdong Church is a welcoming Christian sanctuary located in Seosan, where families gather for weekly worship.",
+                  "category": "landmark",
+                  "coords": [
+                        126.453202,
+                        36.787119
+                  ]
+            },
+            {
+                  "name": "Seogwang Temple",
+                  "text": "Seogwang Temple in Seosan offers a peaceful atmosphere where monks and devotees collectively practice Buddhist chanting and mindfulness.",
+                  "category": "landmark",
+                  "coords": [
+                        126.446405,
+                        36.79056
+                  ]
+            },
+            {
+                  "name": "Seoryeong Methodist Church",
+                  "text": "Seoryeong Methodist Church unites its Christian congregation in Seosan through Sunday worship services and dedicated pastoral initiatives.",
+                  "category": "landmark",
+                  "coords": [
+                        126.459556,
+                        36.794282
+                  ]
+            },
+            {
+                  "name": "Seosan Citizen Church",
+                  "text": "Seosan Citizen Church is deeply embedded in the urban life, providing residents a Christian spiritual home with regular seminars.",
+                  "category": "landmark",
+                  "coords": [
+                        126.45947,
+                        36.790472
+                  ]
+            },
+            {
+                  "name": "Siloam Methodist Church",
+                  "text": "Siloam Methodist Church in Seosan is a center of Christian faith dedicated to the religious education of the younger generation.",
+                  "category": "landmark",
+                  "coords": [
+                        126.458059,
+                        36.789721
+                  ]
+            },
+            {
+                  "name": "Banseok Springwater Evangelical Church",
+                  "text": "Banseok Springwater Evangelical Church features an active Christian ministry that provides theological lectures for the Seosan community.",
+                  "category": "landmark",
+                  "coords": [
+                        126.456055,
+                        36.78626
+                  ]
+            },
+            {
+                  "name": "Seosan Dongdu Methodist Church",
+                  "text": "Seosan Dongdu Methodist Church provides a traditional Christian worship space for the residents living in the Dongdu district.",
+                  "category": "landmark",
+                  "coords": [
+                        126.459619,
+                        36.78752
+                  ]
+            },
+            {
+                  "name": "Big Light Church",
+                  "text": "Big Light Church is a Christian congregation in Seosan distinguished by its modern architecture and vibrant musical ministries.",
+                  "category": "landmark",
+                  "coords": [
+                        126.461941,
+                        36.786694
+                  ]
+            },
+            {
+                  "name": "Seosan Sacred Mountains Presbyterian Church",
+                  "text": "Seosan Sacred Mountains Presbyterian Church utilizes its scenic surroundings for Christian retreats and nature-bound prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        126.461942,
+                        36.787742
+                  ]
+            },
+            {
+                  "name": "Pyeongan Church",
+                  "text": "Pyeongan Church is a locally cherished Christian sanctuary in Seosan that unites the neighborhood through regular charity drives.",
+                  "category": "landmark",
+                  "coords": [
+                        126.459874,
+                        36.788904
+                  ]
+            },
+            {
+                  "name": "World Mission Society Church of God",
+                  "text": "The World Mission Society Church of God in Seosan is a large Christian facility known for its distinct observance of the Sabbath.",
+                  "category": "landmark",
+                  "coords": [
+                        126.459923,
+                        36.785837
+                  ]
+            },
+            {
+                  "name": "Seosan Dongil Presbyterian Church",
+                  "text": "Seosan Dongil Presbyterian Church brings Christian families together in its modern fellowship hall for worship and biblical study.",
+                  "category": "landmark",
+                  "coords": [
+                        126.457255,
+                        36.78596
+                  ]
+            },
+            {
+                  "name": "Seongnim Jungang Evangelical Church",
+                  "text": "Seongnim Jungang Evangelical Church functions as a central meeting point for worship and community outreach in the bustling Seongnim district.",
+                  "category": "landmark",
+                  "coords": [
+                        126.465629,
+                        36.772603
+                  ]
+            },
+            {
+                  "name": "Seosan Iroom Church",
+                  "text": "Seosan Iroom Church is known for its multimedia sermons designed specifically to engage a younger Christian generation.",
+                  "category": "landmark",
+                  "coords": [
+                        126.484397,
+                        36.788567
+                  ]
+            },
+            {
+                  "name": "Happy Baptist Church",
+                  "text": "Happy Baptist Church hosts joyful, gospel-accompanied Sunday services in the heart of Seosan.",
+                  "category": "landmark",
+                  "coords": [
+                        126.46551,
+                        36.803106
+                  ]
+            },
+            {
+                  "name": "Grace Vision Presbyterian Church",
+                  "text": "Grace Vision Presbyterian Church in Seosan regularly hosts theological seminars within its modern fellowship rooms.",
+                  "category": "landmark",
+                  "coords": [
+                        126.471838,
+                        36.803395
+                  ]
+            },
+            {
+                  "name": "Gwangcheon Temple",
+                  "text": "The peaceful Gwangcheon Temple is idyllically situated in the woods near Seosan, serving as a retreat for Buddhist meditations.",
+                  "category": "landmark",
+                  "coords": [
+                        126.470459,
+                        36.804376
+                  ]
+            },
+            {
+                  "name": "Seosan Seongnim-dong Catholic Church",
+                  "text": "The Seosan Seongnim-dong Catholic Church defines the spiritual streetscape of the district with its striking traditional architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        126.470031,
+                        36.770963
+                  ]
+            },
+            {
+                  "name": "Grace and Truth Church",
+                  "text": "Grace and Truth Church in Seosan is heavily involved in local food banks alongside its Sunday worship services.",
+                  "category": "landmark",
+                  "coords": [
+                        126.469053,
+                        36.771182
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KR-44",
     coords: [126.4520, 36.7840],
@@ -6094,7 +8515,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Dangjinsuseok Exhibition Hall",
-                  "text": "Die Dangjinsuseok Exhibition Hall ist ein Museum in Dangjin.",
+                  "text": "Die Dangjinsuseok Exhibition Hall zeigt Suseok (Betrachtungssteine) und Steinbildhauerei.",
                   "category": "museum",
                   "coords": [
                         126.623765,
@@ -6103,7 +8524,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Dangjin Fortress South Wall",
-                  "text": "당진읍성 남벽 ist eine archäologische Stätte in Dangjin.",
+                  "text": "Die Dangjin Fortress South Wall ist ein Überrest der Festungsmauer aus der Joseon-Dynastie.",
                   "category": "historical",
                   "coords": [
                         126.628291,
@@ -6112,7 +8533,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Dangjin Culture & Art Center",
-                  "text": "Das Dangjin Culture & Art Center ist ein Kunstzentrum in Dangjin.",
+                  "text": "Das Dangjin Culture & Art Center bietet moderne Theater- und Galerieräume.",
                   "category": "cultural",
                   "coords": [
                         126.637898,
@@ -6132,7 +8553,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Dangjinsuseok Exhibition Hall",
-                  "text": "A Dangjinsuseok Exhibition Hall egy múzeum Dangjin városában.",
+                  "text": "A Dangjinsuseok Kiállítóterem suseok (nézési kövek) és kőszobrászat kiállítása.",
                   "category": "museum",
                   "coords": [
                         126.623765,
@@ -6141,7 +8562,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Dangjin Fortress South Wall",
-                  "text": "A 당진읍성 남벽 egy régészeti lelőhely Dangjin városában.",
+                  "text": "A Dangjin Erőd Déli Fala a Joseon-dinasztia erődfalának maradványa.",
                   "category": "historical",
                   "coords": [
                         126.628291,
@@ -6150,7 +8571,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Dangjin Culture & Art Center",
-                  "text": "A Dangjin Culture & Art Center egy művészeti központ Dangjin városában.",
+                  "text": "A Dangjin Kulturális és Művészeti Központ modern színház- és galériatermeket kínál.",
                   "category": "cultural",
                   "coords": [
                         126.637898,
@@ -6170,7 +8591,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Dangjinsuseok Exhibition Hall",
-                  "text": "Dangjinsuseok Exhibition Hall este un muzeu situat în Dangjin.",
+                  "text": "Sala de Expoziții Dangjinsuseok prezintă suseok (pietre de privit) și sculptură în piatră.",
                   "category": "museum",
                   "coords": [
                         126.623765,
@@ -6179,7 +8600,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Dangjin Fortress South Wall",
-                  "text": "당진읍성 남벽 este un sit arheologic în Dangjin.",
+                  "text": "Zidul de Sud al Cetății Dangjin este un vestigiu al zidului cetății din dinastia Joseon.",
                   "category": "historical",
                   "coords": [
                         126.628291,
@@ -6188,7 +8609,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Dangjin Culture & Art Center",
-                  "text": "Dangjin Culture & Art Center este un centru de arte situat în Dangjin.",
+                  "text": "Centrul Cultural și Artistic Dangjin oferă spații moderne de teatru și galerie.",
                   "category": "cultural",
                   "coords": [
                         126.637898,
@@ -6208,7 +8629,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Dangjinsuseok Exhibition Hall",
-                  "text": "The Dangjinsuseok Exhibition Hall is a museum located in Dangjin.",
+                  "text": "Dangjinsuseok Exhibition Hall features suseok (viewing stones) and stone sculpture.",
                   "category": "museum",
                   "coords": [
                         126.623765,
@@ -6217,7 +8638,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Dangjin Fortress South Wall",
-                  "text": "당진읍성 남벽 is an archaeological site in Dangjin.",
+                  "text": "Dangjin Fortress South Wall is a remnant of the fortress wall from the Joseon dynasty.",
                   "category": "historical",
                   "coords": [
                         126.628291,
@@ -6226,7 +8647,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Dangjin Culture & Art Center",
-                  "text": "The Dangjin Culture & Art Center is an arts centre situated in Dangjin.",
+                  "text": "Dangjin Culture & Art Center offers modern theater and gallery spaces.",
                   "category": "cultural",
                   "coords": [
                         126.637898,
@@ -6282,7 +8703,88 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     },
   },
   {
-    id: "jecheon-city-cities-v2",
+    id: "jecheon-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cheongjeondong Catholic Church",
+                  "text": "Die katholische Kirche Cheongjeondong ist ein christliches Gotteshaus in der Stadt Jecheon.",
+                  "category": "landmark",
+                  "coords": [
+                        128.21207,
+                        37.158834
+                  ]
+            },
+            {
+                  "name": "Sinbaekdong Catholic Church",
+                  "text": "Die katholische Kirche Sinbaekdong dient der örtlichen christlichen Gemeinde im Stadtgebiet von Jecheon.",
+                  "category": "landmark",
+                  "coords": [
+                        128.223866,
+                        37.13091
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cheongjeondong Catholic Church",
+                  "text": "A Cheongjeondong katolikus templom egy keresztény istentiszteleti hely Jecheon városában.",
+                  "category": "landmark",
+                  "coords": [
+                        128.21207,
+                        37.158834
+                  ]
+            },
+            {
+                  "name": "Sinbaekdong Catholic Church",
+                  "text": "A Sinbaekdong katolikus templom a helyi keresztény közösséget szolgálja Jecheon városi területén.",
+                  "category": "landmark",
+                  "coords": [
+                        128.223866,
+                        37.13091
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cheongjeondong Catholic Church",
+                  "text": "Biserica Catolică Cheongjeondong este un lăcaș de cult creștin situat în orașul Jecheon.",
+                  "category": "landmark",
+                  "coords": [
+                        128.21207,
+                        37.158834
+                  ]
+            },
+            {
+                  "name": "Sinbaekdong Catholic Church",
+                  "text": "Biserica Catolică Sinbaekdong servește comunitatea creștină locală în zona urbană a orașului Jecheon.",
+                  "category": "landmark",
+                  "coords": [
+                        128.223866,
+                        37.13091
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cheongjeondong Catholic Church",
+                  "text": "The Cheongjeondong Catholic Church is a Christian place of worship located in the city of Jecheon.",
+                  "category": "landmark",
+                  "coords": [
+                        128.21207,
+                        37.158834
+                  ]
+            },
+            {
+                  "name": "Sinbaekdong Catholic Church",
+                  "text": "Sinbaekdong Catholic Church serves the local Christian community in the urban area of Jecheon.",
+                  "category": "landmark",
+                  "coords": [
+                        128.223866,
+                        37.13091
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KR-43",
     coords: [128.2090, 37.1350],
@@ -6343,7 +8845,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Agricultural Materials Exhibition Hall",
-                  "text": "Eine Ausstellungshalle und ein Museum in Naju.",
+                  "text": "Die Nongjajae Exhibition Hall zeigt landwirtschaftliches Erbe und bäuerliche Werkzeuge.",
                   "category": "museum",
                   "coords": [
                         126.711034,
@@ -6352,7 +8854,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Geumseonggwan Guest House",
-                  "text": "Ein historisches Gästehaus der Regierung in Naju.",
+                  "text": "Geumseonggwan Guest House ist ein traditionelles Gästehaus aus der Joseon-Zeit.",
                   "category": "historical",
                   "coords": [
                         126.716675,
@@ -6361,7 +8863,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Naju Fortress West Gate",
-                  "text": "Das Westtor der historischen Stadtfestung von Naju.",
+                  "text": "Das Naju Fortress West Gate ist das westliche Tor der historischen Naju-Festung.",
                   "category": "castle",
                   "coords": [
                         126.712632,
@@ -6370,7 +8872,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Namgomun Gate",
-                  "text": "Ein historisches Tor und archäologische Stätte in Naju.",
+                  "text": "Das Namgomun Gate ist ein historisches Tor mit traditioneller Architektur.",
                   "category": "historical",
                   "coords": [
                         126.720373,
@@ -6379,7 +8881,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Naju Hyanggyo",
-                  "text": "Eine gut erhaltene traditionelle konfuzianische Schule in Naju.",
+                  "text": "Eine konfuzianische Schule (Hyanggyo) in Naju aus der Joseon-Dynastie.",
                   "category": "landmark",
                   "coords": [
                         126.711281,
@@ -6388,7 +8890,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Naju Student Independence Movement Memorial Hall",
-                  "text": "Eine Gedenkhalle für die studentische Unabhängigkeitsbewegung in Naju.",
+                  "text": "Die Naju Student Dongnipundong Memorial Hall erinnert an die Studenten-Unabhängigkeitsbewegung.",
                   "category": "historical",
                   "coords": [
                         126.726223,
@@ -6397,7 +8899,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Naju Culture and Arts Center",
-                  "text": "Ein Zentrum für Kultur und Kunst in der Stadt Naju.",
+                  "text": "Das Naju Culture & Arts Center bietet Aufführungs- und Ausstellungsmöglichkeiten.",
                   "category": "cultural",
                   "coords": [
                         126.71251,
@@ -6406,7 +8908,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Naju Mok Culture Center",
-                  "text": "Ein lokales Kulturzentrum in Naju.",
+                  "text": "Das Naju Mok Culture Center bewahrt und fördert die lokale Kultur.",
                   "category": "cultural",
                   "coords": [
                         126.715693,
@@ -6415,7 +8917,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Naju Local Culture Center",
-                  "text": "Ein Zentrum für die Förderung der lokalen Kultur in Naju.",
+                  "text": "Das Najusi Local Cultural Center bietet Gemeinschaftsprogramme und Veranstaltungen an.",
                   "category": "cultural",
                   "coords": [
                         126.711432,
@@ -6424,7 +8926,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Naju Hot Springs",
-                  "text": "Eine öffentliche Thermalquelle und Sauna in Naju.",
+                  "text": "Die Naju Hot Spring ist eine natürliche heiße Quelle mit heilendem Wasser.",
                   "category": "landmark",
                   "coords": [
                         126.719469,
@@ -6433,7 +8935,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gungjeon Hot Springs",
-                  "text": "Eine lokale Einrichtung mit Sauna und Thermalbädern in Naju.",
+                  "text": "Die Gungjeon Hot Spring ist eine heiße Quelle, die für ihr mineralreiches Wasser bekannt ist.",
                   "category": "landmark",
                   "coords": [
                         126.71995,
@@ -6453,7 +8955,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Agricultural Materials Exhibition Hall",
-                  "text": "Kiállítóterem és múzeum Nadzuban.",
+                  "text": "A Nongjajae Kiállítóterem a mezőgazdasági örökséget és paraszti eszközöket mutatja be.",
                   "category": "museum",
                   "coords": [
                         126.711034,
@@ -6462,7 +8964,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Geumseonggwan Guest House",
-                  "text": "Történelmi kormányzati vendégház Nadzuban.",
+                  "text": "A Geumseonggwan Vendégház egy hagyományos vendégház a Joseon-korból.",
                   "category": "historical",
                   "coords": [
                         126.716675,
@@ -6471,7 +8973,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Naju Fortress West Gate",
-                  "text": "A történelmi Nadzu városfal nyugati kapuja.",
+                  "text": "A Naju Erőd Nyugati Kapu a történelmi Naju erőd nyugati kapuja.",
                   "category": "castle",
                   "coords": [
                         126.712632,
@@ -6480,7 +8982,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Namgomun Gate",
-                  "text": "Történelmi kapu és régészeti helyszín Nadzuban.",
+                  "text": "A Namgomun Kapu egy történelmi kapu hagyományos építészettel.",
                   "category": "historical",
                   "coords": [
                         126.720373,
@@ -6489,7 +8991,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Naju Hyanggyo",
-                  "text": "Jól megőrzött hagyományos konfuciánus iskola Nadzuban.",
+                  "text": "Egy konfuciánus iskola (hyanggyo) Naju-ban a Joseon-dinasztia idejéből.",
                   "category": "landmark",
                   "coords": [
                         126.711281,
@@ -6498,7 +9000,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Naju Student Independence Movement Memorial Hall",
-                  "text": "Emlékcsarnok a diákok függetlenségi mozgalmának Nadzuban.",
+                  "text": "A Naju Diák Dongnipundong Emlékcsarnok a diák függetlenségi mozgalomra emlékezik.",
                   "category": "historical",
                   "coords": [
                         126.726223,
@@ -6507,7 +9009,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Naju Culture and Arts Center",
-                  "text": "Kulturális és művészeti központ Nadzu városában.",
+                  "text": "A Naju Kulturális és Művészeti Központ előadási és kiállítási lehetőségeket kínál.",
                   "category": "cultural",
                   "coords": [
                         126.71251,
@@ -6516,7 +9018,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Naju Mok Culture Center",
-                  "text": "Helyi kulturális központ Nadzuban.",
+                  "text": "A Naju Mok Kulturális Központ őrzi és népszerűsíti a helyi kultúrát.",
                   "category": "cultural",
                   "coords": [
                         126.715693,
@@ -6525,7 +9027,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Naju Local Culture Center",
-                  "text": "Helyi kultúrát népszerűsítő központ Nadzuban.",
+                  "text": "A Najusi Helyi Kulturális Központ közösségi programokat és eseményeket kínál.",
                   "category": "cultural",
                   "coords": [
                         126.711432,
@@ -6534,7 +9036,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Naju Hot Springs",
-                  "text": "Nyilvános termálfürdő és szauna Nadzuban.",
+                  "text": "A Naju Termálfürdő egy természetes meleg forrás gyógyító vízzel.",
                   "category": "landmark",
                   "coords": [
                         126.719469,
@@ -6543,7 +9045,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gungjeon Hot Springs",
-                  "text": "Helyi szauna és termálfürdő Nadzuban.",
+                  "text": "A Gungjeon Termálfürdő egy meleg forrás, amely ásványi anyagokban gazdag vizéről ismert.",
                   "category": "landmark",
                   "coords": [
                         126.71995,
@@ -6563,7 +9065,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Agricultural Materials Exhibition Hall",
-                  "text": "O sală de expoziții și un muzeu în Naju.",
+                  "text": "Sala de Expoziții Nongjajae prezintă patrimoniul agricol și unelte țărănești.",
                   "category": "museum",
                   "coords": [
                         126.711034,
@@ -6572,7 +9074,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Geumseonggwan Guest House",
-                  "text": "O casă de oaspeți guvernamentală istorică în Naju.",
+                  "text": "Casa de Oaspeți Geumseonggwan este o pensiune tradițională din perioada Joseon.",
                   "category": "historical",
                   "coords": [
                         126.716675,
@@ -6581,7 +9083,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Naju Fortress West Gate",
-                  "text": "Poarta de vest a cetății istorice a orașului Naju.",
+                  "text": "Poarta de Vest a Cetății Naju este poarta de vest a cetății istorice Naju.",
                   "category": "castle",
                   "coords": [
                         126.712632,
@@ -6590,7 +9092,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Namgomun Gate",
-                  "text": "O poartă istorică și sit arheologic în Naju.",
+                  "text": "Poarta Namgomun este o poartă istorică cu arhitectură tradițională.",
                   "category": "historical",
                   "coords": [
                         126.720373,
@@ -6599,7 +9101,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Naju Hyanggyo",
-                  "text": "O școală confuciană tradițională bine conservată în Naju.",
+                  "text": "O școală confuciană (hyanggyo) în Naju, din dinastia Joseon.",
                   "category": "landmark",
                   "coords": [
                         126.711281,
@@ -6608,7 +9110,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Naju Student Independence Movement Memorial Hall",
-                  "text": "O sală memorială pentru mișcarea de independență a studenților în Naju.",
+                  "text": "Sala Memorială a Studenților Dongnipundong Naju comemorează mișcarea de independență a studenților.",
                   "category": "historical",
                   "coords": [
                         126.726223,
@@ -6617,7 +9119,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Naju Culture and Arts Center",
-                  "text": "Un centru pentru cultură și artă în orașul Naju.",
+                  "text": "Centrul Cultural și Artistic Naju oferă facilități pentru spectacole și expoziții.",
                   "category": "cultural",
                   "coords": [
                         126.71251,
@@ -6626,7 +9128,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Naju Mok Culture Center",
-                  "text": "Un centru cultural local în Naju.",
+                  "text": "Centrul Cultural Naju Mok păstrează și promovează cultura locală.",
                   "category": "cultural",
                   "coords": [
                         126.715693,
@@ -6635,7 +9137,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Naju Local Culture Center",
-                  "text": "Un centru pentru promovarea culturii locale în Naju.",
+                  "text": "Centrul Cultural Local Najusi oferă programe și evenimente comunitare.",
                   "category": "cultural",
                   "coords": [
                         126.711432,
@@ -6644,7 +9146,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Naju Hot Springs",
-                  "text": "O sursă de apă termală și saună publică în Naju.",
+                  "text": "Izvorul Termal Naju este un izvor natural cu ape terapeutice.",
                   "category": "landmark",
                   "coords": [
                         126.719469,
@@ -6653,7 +9155,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gungjeon Hot Springs",
-                  "text": "O unitate locală cu saună și băi termale în Naju.",
+                  "text": "Izvorul Termal Gungjeon este un izvor termal cunoscut pentru apele sale bogate în minerale.",
                   "category": "landmark",
                   "coords": [
                         126.71995,
@@ -6673,7 +9175,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Nongjajae Exhibition Hall",
-                  "text": "An exhibition hall and museum in Naju.",
+                  "text": "Nongjajae Exhibition Hall displays agricultural heritage and farming tools.",
                   "category": "museum",
                   "coords": [
                         126.711034,
@@ -6682,7 +9184,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Geumseonggwan Guest House",
-                  "text": "A historical government guesthouse in Naju.",
+                  "text": "Geumseonggwan Guest House is a traditional guest house from the Joseon period.",
                   "category": "historical",
                   "coords": [
                         126.716675,
@@ -6691,7 +9193,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Naju Fortress West Gate",
-                  "text": "The west gate of the historical Naju city fortress.",
+                  "text": "Naju Fortress West Gate is the western gate of the historic Naju Fortress.",
                   "category": "castle",
                   "coords": [
                         126.712632,
@@ -6700,7 +9202,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Namgomun Gate",
-                  "text": "A historical gate and archaeological site in Naju.",
+                  "text": "Namgomun Gate is a historic gate with traditional architecture.",
                   "category": "historical",
                   "coords": [
                         126.720373,
@@ -6709,7 +9211,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Naju Hyanggyo",
-                  "text": "A well-preserved traditional Confucian school in Naju.",
+                  "text": "A Confucian school (hyanggyo) in Naju, dating from the Joseon dynasty.",
                   "category": "landmark",
                   "coords": [
                         126.711281,
@@ -6718,7 +9220,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Naju Student Dongnipundong Memorial Hall",
-                  "text": "A memorial hall for the student independence movement in Naju.",
+                  "text": "Naju Student Dongnipundong Memorial Hall commemorates the student independence movement.",
                   "category": "historical",
                   "coords": [
                         126.726223,
@@ -6727,7 +9229,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Naju Culture & Arts Center",
-                  "text": "A center for culture and arts in the city of Naju.",
+                  "text": "Naju Culture & Arts Center provides performance and exhibition facilities.",
                   "category": "cultural",
                   "coords": [
                         126.71251,
@@ -6736,7 +9238,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Naju Mok Culture Center",
-                  "text": "A local cultural center in Naju.",
+                  "text": "Naju Mok Culture Center preserves and promotes local culture.",
                   "category": "cultural",
                   "coords": [
                         126.715693,
@@ -6745,7 +9247,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Najusi Local Cultural Center",
-                  "text": "A center for the promotion of local culture in Naju.",
+                  "text": "Najusi Local Cultural Center offers community programs and events.",
                   "category": "cultural",
                   "coords": [
                         126.711432,
@@ -6754,7 +9256,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Naju Hot Spring",
-                  "text": "A public hot spring and sauna in Naju.",
+                  "text": "Naju Hot Spring is a natural hot spring with therapeutic waters.",
                   "category": "landmark",
                   "coords": [
                         126.719469,
@@ -6763,7 +9265,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gungjeon Hot Spring",
-                  "text": "A local sauna and hot spring facility in Naju.",
+                  "text": "Gungjeon Hot Spring is a hot spring known for its mineral-rich waters.",
                   "category": "landmark",
                   "coords": [
                         126.71995,
@@ -6823,7 +9325,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Gayasan Mt",
-                  "text": "Gayasan Mt. ist ein Berggipfel in der Stadt Gwangyang.",
+                  "text": "Gayasan, ein Berg im Gayasan-Nationalpark, bekannt für Herbstlaub und den Haeinsa-Tempel.",
                   "category": "natural",
                   "coords": [
                         127.698421,
@@ -6832,7 +9334,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Madong Neighborhood Sports Park",
-                  "text": "마동근린 체육공원 ist ein Park in der Stadt Gwangyang.",
+                  "text": "Sportpark im Stadtviertel mit Sportplätzen und Spazierwegen.",
                   "category": "park",
                   "coords": [
                         127.693448,
@@ -6841,7 +9343,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gwangyang Bay Observatory Rest Area",
-                  "text": "광양만전망대쉼터 ist ein Aussichtspunkt in der Stadt Gwangyang.",
+                  "text": "Die Gwangyang Bay Observatory Rest Area bietet eine Aussichtsplattform mit Blick auf die Bucht.",
                   "category": "natural",
                   "coords": [
                         127.696771,
@@ -6850,7 +9352,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gwangyang Young Culture Center",
-                  "text": "Das Gwangyang Young Culture Center ist ein Kunstzentrum in der Stadt Gwangyang.",
+                  "text": "Das Gwangyang Young Culture Center ist ein Kulturzentrum für Jugendliche mit Aktivitätsräumen.",
                   "category": "cultural",
                   "coords": [
                         127.690877,
@@ -6861,7 +9363,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Gayasan Mt",
-                  "text": "A Gayasan Mt. egy hegycsúcs Gwangyang városában.",
+                  "text": "Gayasan, egy hegy a Gayasan Nemzeti Parkban, híres őszi lombokról és a Haeinsa templomról.",
                   "category": "natural",
                   "coords": [
                         127.698421,
@@ -6870,7 +9372,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Madong Neighborhood Sports Park",
-                  "text": "A 마동근린 체육공원 egy park Gwangyang városában.",
+                  "text": "Szomszédsági sportpark sportpályákkal és sétányokkal.",
                   "category": "park",
                   "coords": [
                         127.693448,
@@ -6879,7 +9381,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gwangyang Bay Observatory Rest Area",
-                  "text": "A 광양만전망대쉼터 egy kilátó Gwangyang városában.",
+                  "text": "A Gwangyang-öböl Megfigyelő Pihenőhely egy kilátóval rendelkezik az öbölre.",
                   "category": "natural",
                   "coords": [
                         127.696771,
@@ -6888,7 +9390,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gwangyang Young Culture Center",
-                  "text": "A Gwangyang Young Culture Center egy művészeti központ Gwangyang városában.",
+                  "text": "A Gwangyang Ifjúsági Kulturális Központ egy fiataloknak szóló kulturális központ tevékenységi terekkel.",
                   "category": "cultural",
                   "coords": [
                         127.690877,
@@ -6899,7 +9401,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Gayasan Mt",
-                  "text": "Gayasan Mt. este un vârf de munte în orașul Gwangyang.",
+                  "text": "Gayasan, un munte în Parcul Național Gayasan, cunoscut pentru frunzișul de toamnă și Templul Haeinsa.",
                   "category": "natural",
                   "coords": [
                         127.698421,
@@ -6908,7 +9410,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Madong Neighborhood Sports Park",
-                  "text": "마동근린 체육공원 este un parc în orașul Gwangyang.",
+                  "text": "Parcul sportiv de cartier cu terenuri sportive și alei de plimbare.",
                   "category": "park",
                   "coords": [
                         127.693448,
@@ -6917,7 +9419,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gwangyang Bay Observatory Rest Area",
-                  "text": "광양만전망대쉼터 este un punct de belvedere în orașul Gwangyang.",
+                  "text": "Zona de Odihnă a Observatorului din Golful Gwangyang oferă o platformă de observare cu vedere asupra golfului.",
                   "category": "natural",
                   "coords": [
                         127.696771,
@@ -6926,7 +9428,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gwangyang Young Culture Center",
-                  "text": "Gwangyang Young Culture Center este un centru de arte în orașul Gwangyang.",
+                  "text": "Centrul Cultural pentru Tineret Gwangyang este un centru cultural pentru tineri, cu spații de activități.",
                   "category": "cultural",
                   "coords": [
                         127.690877,
@@ -6937,7 +9439,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Gayasan Mt.",
-                  "text": "Gayasan Mt. is a mountain peak located in the city of Gwangyang.",
+                  "text": "Gayasan, a mountain in Gayasan National Park, known for autumn foliage and Haeinsa Temple.",
                   "category": "natural",
                   "coords": [
                         127.698421,
@@ -6946,7 +9448,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Madong Neighborhood Sports Park",
-                  "text": "마동근린 체육공원 is a park located in the city of Gwangyang.",
+                  "text": "Neighborhood sports park with sports fields and walking paths.",
                   "category": "park",
                   "coords": [
                         127.693448,
@@ -6955,7 +9457,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gwangyang Bay Observatory Rest Area",
-                  "text": "광양만전망대쉼터 is a viewpoint located in the city of Gwangyang.",
+                  "text": "Gwangyang Bay Observatory Rest Area has an observation deck overlooking the bay.",
                   "category": "natural",
                   "coords": [
                         127.696771,
@@ -6964,7 +9466,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Gwangyang Young Culture Center",
-                  "text": "The Gwangyang Young Culture Center is an arts centre located in the city of Gwangyang.",
+                  "text": "Gwangyang Young Culture Center is a youth cultural center with activity spaces.",
                   "category": "cultural",
                   "coords": [
                         127.690877,
@@ -7024,7 +9526,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Murim Fork Exhibition Hall",
-                  "text": "Die Murim Fork Exhibition Hall ist ein spezialisiertes Museum in Mungyeong.",
+                  "text": "Die Murim Fork Exhibition Hall zeigt Ausstellungen zur Welt der Kampfkünste und Waffen.",
                   "category": "museum",
                   "coords": [
                         128.21042,
@@ -7033,7 +9535,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Dieser Ort",
-                  "text": "Dieser Ort ist ein lokaler Freizeitpark in Mungyeong.",
+                  "text": "Diese Anlage ist eine familienfreundliche Attraktion mit Spielplätzen und Picknickbereichen.",
                   "category": "family",
                   "coords": [
                         128.201969,
@@ -7053,7 +9555,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Murim Fork Exhibition Hall",
-                  "text": "A Murim Fork Exhibition Hall egy tematikus múzeum Mungyeong városában.",
+                  "text": "A Murim Fork Kiállítóterem a harcművészetek világáról és fegyverekről szóló kiállításokat mutat be.",
                   "category": "museum",
                   "coords": [
                         128.21042,
@@ -7062,7 +9564,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Theme Park",
-                  "text": "Ez a helyszín egy helyi vidámpark Mungyeong városában.",
+                  "text": "Ez a hely egy családbarát látványosság játszóterekkel és piknikezőhelyekkel.",
                   "category": "family",
                   "coords": [
                         128.201969,
@@ -7082,7 +9584,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Murim Fork Exhibition Hall",
-                  "text": "Murim Fork Exhibition Hall este un muzeu specializat situat în Mungyeong.",
+                  "text": "Sala de Expoziții Murim Fork prezintă expoziții despre lumea artelor marțiale și arme.",
                   "category": "museum",
                   "coords": [
                         128.21042,
@@ -7091,7 +9593,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Acest loc",
-                  "text": "Acest loc este un parc de distracții local situat în Mungyeong.",
+                  "text": "Acest loc este o atracție prietenoasă pentru familii, cu locuri de joacă și zone de picnic.",
                   "category": "family",
                   "coords": [
                         128.201969,
@@ -7111,7 +9613,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Murim Fork Exhibition Hall",
-                  "text": "Murim Fork Exhibition Hall is a specialized museum located in Mungyeong.",
+                  "text": "Murim Fork Exhibition Hall exhibits displays on the martial arts world and weaponry.",
                   "category": "museum",
                   "coords": [
                         128.21042,
@@ -7120,7 +9622,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "This site",
-                  "text": "This site is a local theme park situated in Mungyeong.",
+                  "text": "This site is a family-friendly attraction with playgrounds and picnic areas.",
                   "category": "family",
                   "coords": [
                         128.201969,
@@ -7185,7 +9687,448 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     },
   },
   {
-    id: "hanam-city-cities-v2", "sights": {"de": [{"name": "Prince Seonseong Tomb", "text": "Die historische Grabstätte des Prinzen Seonseong in Hanam.", "category": "historical", "coords": [127.195804, 37.537597]}, {"name": "Hanam History Museum", "text": "Wer sich für die Vergangenheit der südkoreanischen Stadt Hanam interessiert, sollte das 하남역사박물관 besuchen. Dieses Museum dokumentiert die historische Entwicklung der Region durch vielfältige Exponate.", "category": "museum", "coords": [127.206633, 37.544752]}, {"name": "Aquafield", "text": "Ein moderner Wasserpark und Wellnesskomplex in Hanam.", "category": "family", "coords": [127.224243, 37.54589]}, {"name": "Union Park Water Playground", "text": "Ein Wasserpark im Union Park in Hanam.", "category": "family", "coords": [127.219207, 37.546486]}, {"name": "Zoolung Zoolung Hanam Branch", "text": "Ein Indoor-Streichelzoo und Tierpark in Hanam.", "category": "family", "coords": [127.223567, 37.543578]}, {"name": "Nature Conservation Area", "text": "Ein geschütztes Naturreservat in der Region Hanam.", "category": "natural", "coords": [127.215343, 37.55647]}, {"name": "Hanam Iseongsanseong Fortress", "text": "Eine historische Bergfestung in der Stadt Hanam.", "category": "landmark", "coords": [127.183832, 37.527265]}, {"name": "Eunbangul Park", "text": "Ein lokaler öffentlicher Park in Hanam.", "category": "park", "coords": [127.224618, 37.539848]}, {"name": "Kkumnara Park", "text": "Ein öffentlicher Erholungspark in Hanam.", "category": "park", "coords": [127.221579, 37.537576]}, {"name": "Saenara Park", "text": "Ein städtischer Park für Freizeitaktivitäten in Hanam.", "category": "park", "coords": [127.223279, 37.542313]}, {"name": "Deokpung Park", "text": "Ein lokaler Park für die Bewohner von Hanam.", "category": "park", "coords": [127.197474, 37.536434]}, {"name": "Towards the Heights Monument", "text": "Ein symbolisches Denkmal in der Stadt Hanam.", "category": "historical", "coords": [127.202237, 37.550084]}], "hu": [{"name": "Prince Seonseong Tomb", "text": "Szeonszeong herceg történelmi sírhelye Hanamban.", "category": "historical", "coords": [127.195804, 37.537597]}, {"name": "Hanam History Museum", "text": "Aki érdeklődik a dél-koreai Hanam város múltja iránt, annak érdemes ellátogatnia a 하남역사박물관 nevű múzeumba. Ez a kulturális intézmény változatos kiállítási tárgyakon keresztül dokumentálja a régió történelmi fejlődését.", "category": "museum", "coords": [127.206633, 37.544752]}, {"name": "Aquafield", "text": "Modern vízipark és wellness komplexum Hanamban.", "category": "family", "coords": [127.224243, 37.54589]}, {"name": "Union Park Water Playground", "text": "Vízipark az Union Park területén Hanamban.", "category": "family", "coords": [127.219207, 37.546486]}, {"name": "Zoolung Zoolung Hanam Branch", "text": "Fedett állatsimogató és állatpark Hanamban.", "category": "family", "coords": [127.223567, 37.543578]}, {"name": "Nature Conservation Area", "text": "Védett természetvédelmi terület Hanam régiójában.", "category": "natural", "coords": [127.215343, 37.55647]}, {"name": "Hanam Iseongsanseong Fortress", "text": "Történelmi hegyi erőd Hanam városában.", "category": "landmark", "coords": [127.183832, 37.527265]}, {"name": "Eunbangul Park", "text": "Helyi közpark Hanamban.", "category": "park", "coords": [127.224618, 37.539848]}, {"name": "Kkumnara Park", "text": "Nyilvános pihenőpark Hanamban.", "category": "park", "coords": [127.221579, 37.537576]}, {"name": "Saenara Park", "text": "Városi park szabadidős tevékenységekhez Hanamban.", "category": "park", "coords": [127.223279, 37.542313]}, {"name": "Deokpung Park", "text": "Helyi park Hanam lakói számára.", "category": "park", "coords": [127.197474, 37.536434]}, {"name": "Towards the Heights Monument", "text": "Egy szimbolikus emlékmű Hanam városában.", "category": "historical", "coords": [127.202237, 37.550084]}], "ro": [{"name": "Prince Seonseong Tomb", "text": "Situl funerar istoric al prințului Seonseong în Hanam.", "category": "historical", "coords": [127.195804, 37.537597]}, {"name": "Hanam History Museum", "text": "Cei interesați de trecutul orașului sud-coreean Hanam ar trebui să viziteze 하남역사박물관. Acest muzeu documentează dezvoltarea istorică a regiunii prin diverse exponate.", "category": "museum", "coords": [127.206633, 37.544752]}, {"name": "Aquafield", "text": "Un parc acvatic modern și complex de wellness în Hanam.", "category": "family", "coords": [127.224243, 37.54589]}, {"name": "Union Park Water Playground", "text": "Un parc acvatic situat în Union Park din Hanam.", "category": "family", "coords": [127.219207, 37.546486]}, {"name": "Zoolung Zoolung Hanam Branch", "text": "O grădină zoologică interioară și parc cu animale în Hanam.", "category": "family", "coords": [127.223567, 37.543578]}, {"name": "Nature Conservation Area", "text": "O rezervație naturală protejată în regiunea Hanam.", "category": "natural", "coords": [127.215343, 37.55647]}, {"name": "Hanam Iseongsanseong Fortress", "text": "O cetate montană istorică în orașul Hanam.", "category": "landmark", "coords": [127.183832, 37.527265]}, {"name": "Eunbangul Park", "text": "Un parc public local în Hanam.", "category": "park", "coords": [127.224618, 37.539848]}, {"name": "Kkumnara Park", "text": "Un parc public de recreere în Hanam.", "category": "park", "coords": [127.221579, 37.537576]}, {"name": "Saenara Park", "text": "Un parc urban pentru activități de recreere în Hanam.", "category": "park", "coords": [127.223279, 37.542313]}, {"name": "Deokpung Park", "text": "Un parc local pentru locuitorii din Hanam.", "category": "park", "coords": [127.197474, 37.536434]}, {"name": "Towards the Heights Monument", "text": "Un monument simbolic situat în orașul Hanam.", "category": "historical", "coords": [127.202237, 37.550084]}], "en": [{"name": "Prince Seonseong Tomb", "text": "The historical tomb site of Prince Seonseong in Hanam.", "category": "historical", "coords": [127.195804, 37.537597]}, {"name": "Hanam History Museum", "text": "Anyone interested in the past of the South Korean city of Hanam should visit the 하남역사박물관. This museum carefully documents the region's historical development through various exhibits.", "category": "museum", "coords": [127.206633, 37.544752]}, {"name": "Aquafield", "text": "A modern water park and spa complex in Hanam.", "category": "family", "coords": [127.224243, 37.54589]}, {"name": "Union Park Water Park", "text": "A water park located within Union Park in Hanam.", "category": "family", "coords": [127.219207, 37.546486]}, {"name": "Zoolung Zoolung Hanam Branch", "text": "An indoor petting zoo and animal park in Hanam.", "category": "family", "coords": [127.223567, 37.543578]}, {"name": "Nature Conservation Area", "text": "A protected nature reserve area in the Hanam region.", "category": "natural", "coords": [127.215343, 37.55647]}, {"name": "Iseongsanseong Fortress, Hanam", "text": "A historical mountain fortress in Hanam city.", "category": "landmark", "coords": [127.183832, 37.527265]}, {"name": "EunBangUl Park", "text": "A local public park in Hanam.", "category": "park", "coords": [127.224618, 37.539848]}, {"name": "Kkumnara Park", "text": "A public recreational park in Hanam.", "category": "park", "coords": [127.221579, 37.537576]}, {"name": "Saenara Park", "text": "An urban park for leisure activities in Hanam.", "category": "park", "coords": [127.223279, 37.542313]}, {"name": "Deokpung Park", "text": "A local park for the residents of Hanam.", "category": "park", "coords": [127.197474, 37.536434]}, {"name": "Towards the Heights Monument", "text": "A symbolic monument located in the city of Hanam.", "category": "historical", "coords": [127.202237, 37.550084]}]},
+    id: "hanam-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Prince Seonseong Tomb",
+                  "text": "Das Grab von Prinz Seonseong, einem Joseon-Königlichen, mit Steinfiguren.",
+                  "category": "historical",
+                  "coords": [
+                        127.195804,
+                        37.537597
+                  ]
+            },
+            {
+                  "name": "Hanam History Museum",
+                  "text": "Wer sich für die Vergangenheit der südkoreanischen Stadt Hanam interessiert, sollte das 하남역사박물관 besuchen. Dieses Museum dokumentiert die historische Entwicklung der Region durch vielfältige Exponate.",
+                  "category": "museum",
+                  "coords": [
+                        127.206633,
+                        37.544752
+                  ]
+            },
+            {
+                  "name": "Aquafield",
+                  "text": "Ein Familien-Wasserpark mit mehreren Becken und Rutschen.",
+                  "category": "family",
+                  "coords": [
+                        127.224243,
+                        37.54589
+                  ]
+            },
+            {
+                  "name": "Union Park Water Playground",
+                  "text": "Ein Wasserpark mit einer großen Wellenanlage und einem Kinderbereich.",
+                  "category": "family",
+                  "coords": [
+                        127.219207,
+                        37.546486
+                  ]
+            },
+            {
+                  "name": "Zoolung Zoolung Hanam Branch",
+                  "text": "Ein Indoor-Zoo mit exotischen Tieren und interaktiven Ausstellungen.",
+                  "category": "family",
+                  "coords": [
+                        127.223567,
+                        37.543578
+                  ]
+            },
+            {
+                  "name": "Nature Conservation Area",
+                  "text": "Ein geschütztes Naturgebiet mit Wanderwegen und vielfältiger Flora.",
+                  "category": "natural",
+                  "coords": [
+                        127.215343,
+                        37.55647
+                  ]
+            },
+            {
+                  "name": "Hanam Iseongsanseong Fortress",
+                  "text": "Historische Bergfestung aus der Baekje-Zeit in Hanam.",
+                  "category": "landmark",
+                  "coords": [
+                        127.183832,
+                        37.527265
+                  ]
+            },
+            {
+                  "name": "Eunbangul Park",
+                  "text": "Stadtpark mit einem Teich und Spazierwegen.",
+                  "category": "park",
+                  "coords": [
+                        127.224618,
+                        37.539848
+                  ]
+            },
+            {
+                  "name": "Kkumnara Park",
+                  "text": "Park mit Spielplatz und Picknickbereichen.",
+                  "category": "park",
+                  "coords": [
+                        127.221579,
+                        37.537576
+                  ]
+            },
+            {
+                  "name": "Saenara Park",
+                  "text": "Park mit einem Springbrunnen und Blumengärten.",
+                  "category": "park",
+                  "coords": [
+                        127.223279,
+                        37.542313
+                  ]
+            },
+            {
+                  "name": "Deokpung Park",
+                  "text": "Ein Park mit einem See und Picknickplätzen.",
+                  "category": "park",
+                  "coords": [
+                        127.197474,
+                        37.536434
+                  ]
+            },
+            {
+                  "name": "Towards the Heights Monument",
+                  "text": "Ein historisches Monument, das das Streben nach höheren Zielen symbolisiert.",
+                  "category": "historical",
+                  "coords": [
+                        127.202237,
+                        37.550084
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Prince Seonseong Tomb",
+                  "text": "Seonseong herceg, egy Joseon-királyi családtag sírja kőszobrokkal.",
+                  "category": "historical",
+                  "coords": [
+                        127.195804,
+                        37.537597
+                  ]
+            },
+            {
+                  "name": "Hanam History Museum",
+                  "text": "Aki érdeklődik a dél-koreai Hanam város múltja iránt, annak érdemes ellátogatnia a 하남역사박물관 nevű múzeumba. Ez a kulturális intézmény változatos kiállítási tárgyakon keresztül dokumentálja a régió történelmi fejlődését.",
+                  "category": "museum",
+                  "coords": [
+                        127.206633,
+                        37.544752
+                  ]
+            },
+            {
+                  "name": "Aquafield",
+                  "text": "Családi vízipark több medencével és csúszdával.",
+                  "category": "family",
+                  "coords": [
+                        127.224243,
+                        37.54589
+                  ]
+            },
+            {
+                  "name": "Union Park Water Playground",
+                  "text": "Vízipark nagy hullámmedencével és gyermekrésszel.",
+                  "category": "family",
+                  "coords": [
+                        127.219207,
+                        37.546486
+                  ]
+            },
+            {
+                  "name": "Zoolung Zoolung Hanam Branch",
+                  "text": "Fedett állatkert egzotikus állatokkal és interaktív kiállításokkal.",
+                  "category": "family",
+                  "coords": [
+                        127.223567,
+                        37.543578
+                  ]
+            },
+            {
+                  "name": "Nature Conservation Area",
+                  "text": "Védett természeti terület túraútvonalakkal és változatos növényvilággal.",
+                  "category": "natural",
+                  "coords": [
+                        127.215343,
+                        37.55647
+                  ]
+            },
+            {
+                  "name": "Hanam Iseongsanseong Fortress",
+                  "text": "Történelmi hegyi erődítmény a Baekje-korból Hanamban.",
+                  "category": "landmark",
+                  "coords": [
+                        127.183832,
+                        37.527265
+                  ]
+            },
+            {
+                  "name": "Eunbangul Park",
+                  "text": "Városi park tóval és sétányokkal.",
+                  "category": "park",
+                  "coords": [
+                        127.224618,
+                        37.539848
+                  ]
+            },
+            {
+                  "name": "Kkumnara Park",
+                  "text": "Park játszótérrel és piknikezőhelyekkel.",
+                  "category": "park",
+                  "coords": [
+                        127.221579,
+                        37.537576
+                  ]
+            },
+            {
+                  "name": "Saenara Park",
+                  "text": "Park szökőkúttal és virágoskertekkel.",
+                  "category": "park",
+                  "coords": [
+                        127.223279,
+                        37.542313
+                  ]
+            },
+            {
+                  "name": "Deokpung Park",
+                  "text": "Park tóval és piknikhelyekkel.",
+                  "category": "park",
+                  "coords": [
+                        127.197474,
+                        37.536434
+                  ]
+            },
+            {
+                  "name": "Towards the Heights Monument",
+                  "text": "Történelmi emlékmű, amely a magasabb célok elérését szimbolizálja.",
+                  "category": "historical",
+                  "coords": [
+                        127.202237,
+                        37.550084
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Prince Seonseong Tomb",
+                  "text": "Mormântul prințului Seonseong, un regal Joseon, cu figuri de piatră.",
+                  "category": "historical",
+                  "coords": [
+                        127.195804,
+                        37.537597
+                  ]
+            },
+            {
+                  "name": "Hanam History Museum",
+                  "text": "Cei interesați de trecutul orașului sud-coreean Hanam ar trebui să viziteze 하남역사박물관. Acest muzeu documentează dezvoltarea istorică a regiunii prin diverse exponate.",
+                  "category": "museum",
+                  "coords": [
+                        127.206633,
+                        37.544752
+                  ]
+            },
+            {
+                  "name": "Aquafield",
+                  "text": "Un parc acvatic de familie cu mai multe piscine și tobogane.",
+                  "category": "family",
+                  "coords": [
+                        127.224243,
+                        37.54589
+                  ]
+            },
+            {
+                  "name": "Union Park Water Playground",
+                  "text": "Un parc acvatic cu un bazin mare cu valuri și o zonă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        127.219207,
+                        37.546486
+                  ]
+            },
+            {
+                  "name": "Zoolung Zoolung Hanam Branch",
+                  "text": "O grădină zoologică interioară cu animale exotice și expoziții interactive.",
+                  "category": "family",
+                  "coords": [
+                        127.223567,
+                        37.543578
+                  ]
+            },
+            {
+                  "name": "Nature Conservation Area",
+                  "text": "O arie naturală protejată cu trasee de drumeție și floră diversă.",
+                  "category": "natural",
+                  "coords": [
+                        127.215343,
+                        37.55647
+                  ]
+            },
+            {
+                  "name": "Hanam Iseongsanseong Fortress",
+                  "text": "Fortăreață istorică de munte din perioada Baekje în Hanam.",
+                  "category": "landmark",
+                  "coords": [
+                        127.183832,
+                        37.527265
+                  ]
+            },
+            {
+                  "name": "Eunbangul Park",
+                  "text": "Parcul urban cu un iaz și alei de plimbare.",
+                  "category": "park",
+                  "coords": [
+                        127.224618,
+                        37.539848
+                  ]
+            },
+            {
+                  "name": "Kkumnara Park",
+                  "text": "Parcul cu loc de joacă și zone de picnic.",
+                  "category": "park",
+                  "coords": [
+                        127.221579,
+                        37.537576
+                  ]
+            },
+            {
+                  "name": "Saenara Park",
+                  "text": "Parcul cu o fântână arteziană și grădini de flori.",
+                  "category": "park",
+                  "coords": [
+                        127.223279,
+                        37.542313
+                  ]
+            },
+            {
+                  "name": "Deokpung Park",
+                  "text": "Un parc cu un lac și zone de picnic.",
+                  "category": "park",
+                  "coords": [
+                        127.197474,
+                        37.536434
+                  ]
+            },
+            {
+                  "name": "Towards the Heights Monument",
+                  "text": "Un monument istoric care simbolizează urmărirea unor scopuri superioare.",
+                  "category": "historical",
+                  "coords": [
+                        127.202237,
+                        37.550084
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Prince Seonseong Tomb",
+                  "text": "The tomb of Prince Seonseong, a Joseon royal, with stone figures.",
+                  "category": "historical",
+                  "coords": [
+                        127.195804,
+                        37.537597
+                  ]
+            },
+            {
+                  "name": "Hanam History Museum",
+                  "text": "Anyone interested in the past of the South Korean city of Hanam should visit the 하남역사박물관. This museum carefully documents the region's historical development through various exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        127.206633,
+                        37.544752
+                  ]
+            },
+            {
+                  "name": "Aquafield",
+                  "text": "A family water park with multiple pools and slides.",
+                  "category": "family",
+                  "coords": [
+                        127.224243,
+                        37.54589
+                  ]
+            },
+            {
+                  "name": "Union Park Water Park",
+                  "text": "A water park with a large wave pool and a children's area.",
+                  "category": "family",
+                  "coords": [
+                        127.219207,
+                        37.546486
+                  ]
+            },
+            {
+                  "name": "Zoolung Zoolung Hanam Branch",
+                  "text": "An indoor zoo with exotic animals and interactive exhibits.",
+                  "category": "family",
+                  "coords": [
+                        127.223567,
+                        37.543578
+                  ]
+            },
+            {
+                  "name": "Nature Conservation Area",
+                  "text": "A protected natural area with hiking trails and diverse flora.",
+                  "category": "natural",
+                  "coords": [
+                        127.215343,
+                        37.55647
+                  ]
+            },
+            {
+                  "name": "Iseongsanseong Fortress, Hanam",
+                  "text": "Historic mountain fortress from the Baekje period in Hanam.",
+                  "category": "landmark",
+                  "coords": [
+                        127.183832,
+                        37.527265
+                  ]
+            },
+            {
+                  "name": "EunBangUl Park",
+                  "text": "Urban park with a pond and walking trails.",
+                  "category": "park",
+                  "coords": [
+                        127.224618,
+                        37.539848
+                  ]
+            },
+            {
+                  "name": "Kkumnara Park",
+                  "text": "Park with playground and picnic areas.",
+                  "category": "park",
+                  "coords": [
+                        127.221579,
+                        37.537576
+                  ]
+            },
+            {
+                  "name": "Saenara Park",
+                  "text": "Park featuring a water fountain and flower gardens.",
+                  "category": "park",
+                  "coords": [
+                        127.223279,
+                        37.542313
+                  ]
+            },
+            {
+                  "name": "Deokpung Park",
+                  "text": "A park with a lake and picnic areas.",
+                  "category": "park",
+                  "coords": [
+                        127.197474,
+                        37.536434
+                  ]
+            },
+            {
+                  "name": "Towards the Heights Monument",
+                  "text": "A historical monument symbolizing the pursuit of higher goals.",
+                  "category": "historical",
+                  "coords": [
+                        127.202237,
+                        37.550084
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KR-41",
     coords: [127.2000, 37.5330],
@@ -7233,7 +10176,268 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     },
   },
   {
-    id: "yeongju-city-cities-v2",
+    id: "yeongju-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Geumgang Art Museum",
+                  "text": "Eine Galerie in Yeongju, die zeitgenössische Kunstwerke lokaler Künstler ausstellt.",
+                  "category": "cultural",
+                  "coords": [
+                        128.628922,
+                        36.819167
+                  ]
+            },
+            {
+                  "name": "Yeongju Art Hall",
+                  "text": "Ein kultureller Veranstaltungsort für lokale Konzerte und Kunstausstellungen.",
+                  "category": "cultural",
+                  "coords": [
+                        128.61689,
+                        36.823207
+                  ]
+            },
+            {
+                  "name": "Hamangdong Catholic Church",
+                  "text": "Ein modernes katholisches Kirchengebäude im Stadtteil Hamang-dong.",
+                  "category": "landmark",
+                  "coords": [
+                        128.629477,
+                        36.825293
+                  ]
+            },
+            {
+                  "name": "Chonjugyo Hyuchondong Chruch",
+                  "text": "Eine katholische Pfarrkirche, die der Gemeinde in Yeongju dient.",
+                  "category": "landmark",
+                  "coords": [
+                        128.620827,
+                        36.816012
+                  ]
+            },
+            {
+                  "name": "Yongjujeil Church",
+                  "text": "Eine protestantische Kirche mit einer langen Geschichte in der Stadt Yeongju.",
+                  "category": "landmark",
+                  "coords": [
+                        128.622441,
+                        36.828398
+                  ]
+            },
+            {
+                  "name": "Gahongdong Cathedral",
+                  "text": "Ein bedeutendes katholisches Gotteshaus im Bezirk Gahong-dong.",
+                  "category": "landmark",
+                  "coords": [
+                        128.612288,
+                        36.822535
+                  ]
+            },
+            {
+                  "name": "Yongjupyonggang Chruch",
+                  "text": "Eine lokale christliche Kirche, die im zentralen Teil von Yeongju liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        128.621371,
+                        36.805842
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Geumgang Art Museum",
+                  "text": "Galéria Jondzsuban, ahol helyi művészek kortárs alkotásait állítják ki.",
+                  "category": "cultural",
+                  "coords": [
+                        128.628922,
+                        36.819167
+                  ]
+            },
+            {
+                  "name": "Yeongju Art Hall",
+                  "text": "Kulturális helyszín helyi koncertek és művészeti kiállítások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        128.61689,
+                        36.823207
+                  ]
+            },
+            {
+                  "name": "Hamangdong Catholic Church",
+                  "text": "Modern katolikus templomépület Hamang-dong negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        128.629477,
+                        36.825293
+                  ]
+            },
+            {
+                  "name": "Chonjugyo Hyuchondong Chruch",
+                  "text": "Katolikus plébániatemplom, amely a jondzsi közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        128.620827,
+                        36.816012
+                  ]
+            },
+            {
+                  "name": "Yongjujeil Church",
+                  "text": "Jondzsu városában hosszú múltra visszatekintő protestáns templom.",
+                  "category": "landmark",
+                  "coords": [
+                        128.622441,
+                        36.828398
+                  ]
+            },
+            {
+                  "name": "Gahongdong Cathedral",
+                  "text": "Jelentős katolikus templom Gahong-dong körzetében.",
+                  "category": "landmark",
+                  "coords": [
+                        128.612288,
+                        36.822535
+                  ]
+            },
+            {
+                  "name": "Yongjupyonggang Chruch",
+                  "text": "Helyi keresztény templom Jondzsu központi részén.",
+                  "category": "landmark",
+                  "coords": [
+                        128.621371,
+                        36.805842
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Geumgang Art Museum",
+                  "text": "O galerie în Yeongju care expune lucrări de artă contemporană ale artiștilor locali.",
+                  "category": "cultural",
+                  "coords": [
+                        128.628922,
+                        36.819167
+                  ]
+            },
+            {
+                  "name": "Yeongju Art Hall",
+                  "text": "Un loc cultural pentru concerte locale și expoziții de artă.",
+                  "category": "cultural",
+                  "coords": [
+                        128.61689,
+                        36.823207
+                  ]
+            },
+            {
+                  "name": "Hamangdong Catholic Church",
+                  "text": "O clădire modernă de biserică catolică în cartierul Hamang-dong.",
+                  "category": "landmark",
+                  "coords": [
+                        128.629477,
+                        36.825293
+                  ]
+            },
+            {
+                  "name": "Chonjugyo Hyuchondong Chruch",
+                  "text": "O biserică parohială catolică ce deservește comunitatea din Yeongju.",
+                  "category": "landmark",
+                  "coords": [
+                        128.620827,
+                        36.816012
+                  ]
+            },
+            {
+                  "name": "Yongjujeil Church",
+                  "text": "O biserică protestantă cu o istorie îndelungată în orașul Yeongju.",
+                  "category": "landmark",
+                  "coords": [
+                        128.622441,
+                        36.828398
+                  ]
+            },
+            {
+                  "name": "Gahongdong Cathedral",
+                  "text": "Un lăcaș de cult catolic proeminent în districtul Gahong-dong.",
+                  "category": "landmark",
+                  "coords": [
+                        128.612288,
+                        36.822535
+                  ]
+            },
+            {
+                  "name": "Yongjupyonggang Chruch",
+                  "text": "O biserică creștină locală situată în partea centrală a orașului Yeongju.",
+                  "category": "landmark",
+                  "coords": [
+                        128.621371,
+                        36.805842
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Geumgang Art Museum",
+                  "text": "A gallery in Yeongju exhibiting contemporary artworks by local artists.",
+                  "category": "cultural",
+                  "coords": [
+                        128.628922,
+                        36.819167
+                  ]
+            },
+            {
+                  "name": "Yeongju Art Hall",
+                  "text": "A cultural venue for local concerts and art exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        128.61689,
+                        36.823207
+                  ]
+            },
+            {
+                  "name": "Hamangdong Catholic Church",
+                  "text": "A modern Catholic church building in the Hamang-dong neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        128.629477,
+                        36.825293
+                  ]
+            },
+            {
+                  "name": "Chonjugyo Hyuchondong Chruch",
+                  "text": "A Catholic parish church serving the community in Yeongju.",
+                  "category": "landmark",
+                  "coords": [
+                        128.620827,
+                        36.816012
+                  ]
+            },
+            {
+                  "name": "Yongjujeil Church",
+                  "text": "A Protestant church with a long history in the city of Yeongju.",
+                  "category": "landmark",
+                  "coords": [
+                        128.622441,
+                        36.828398
+                  ]
+            },
+            {
+                  "name": "Gahongdong Cathedral",
+                  "text": "A prominent Catholic place of worship in the Gahong-dong district.",
+                  "category": "landmark",
+                  "coords": [
+                        128.612288,
+                        36.822535
+                  ]
+            },
+            {
+                  "name": "Yongjupyonggang Chruch",
+                  "text": "A local Christian church situated in the central part of Yeongju.",
+                  "category": "landmark",
+                  "coords": [
+                        128.621371,
+                        36.805842
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KR-47",
     coords: [128.6300, 36.8050],
@@ -7294,7 +10498,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Dies",
-                  "text": "Dies ist ein Museum für buddhistische Kultur in Tongyeong.",
+                  "text": "Ein Museum, das buddhistische Kunst und Artefakte aus der Region Tongyeong zeigt.",
                   "category": "museum",
                   "coords": [
                         128.427106,
@@ -7303,7 +10507,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Jeon Hyeok Lim Art Gallery",
-                  "text": "Die Jeon Hyeok Lim Art Gallery ist ein Kunstmuseum in der Stadt Tongyeong.",
+                  "text": "Eine Kunstgalerie mit Werken des lokalen Künstlers Jeon Hyeok Lim.",
                   "category": "museum",
                   "coords": [
                         128.415516,
@@ -7330,7 +10534,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Dies",
-                  "text": "Dies ist eine archäologische Stätte im Zusammenhang mit historischer Infrastruktur in Tongyeong.",
+                  "text": "Eine historische Stätte mit Überresten alter Befestigungen.",
                   "category": "historical",
                   "coords": [
                         128.420772,
@@ -7339,7 +10543,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Tongyeong Citizens Cultural Center",
-                  "text": "Dieses lokale Theater und Kulturzentrum befindet sich in Tongyeong.",
+                  "text": "Ein Kulturzentrum mit Aufführungen und Ausstellungen.",
                   "category": "cultural",
                   "coords": [
                         128.42843,
@@ -7348,7 +10552,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Tongyeong Concert Hall",
-                  "text": "Die Tongyeong Concert Hall ist ein Veranstaltungsort für musikalische Darbietungen in Tongyeong.",
+                  "text": "Ein Konzertsaal mit modernster Akustik für Musikaufführungen.",
                   "category": "cultural",
                   "coords": [
                         128.440042,
@@ -7357,7 +10561,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Diese Stätte",
-                  "text": "Diese Stätte ist eine historische Marinefestung in Tongyeong.",
+                  "text": "Eine Festungsruine mit Blick auf die umliegende Landschaft.",
                   "category": "fortress",
                   "coords": [
                         128.423015,
@@ -7366,7 +10570,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Dongbang Gallery",
-                  "text": "Die Dongbang Gallery ist ein Kunstzentrum in der Stadt Tongyeong.",
+                  "text": "Eine Kunstgalerie, die sich auf zeitgenössische koreanische Kunst spezialisiert hat.",
                   "category": "cultural",
                   "coords": [
                         128.422783,
@@ -7375,7 +10579,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Chungnyeolsa Shrine",
-                  "text": "Diese historische Attraktion befindet sich in der Stadt Tongyeong.",
+                  "text": "Ein Schrein zu Ehren von Admiral Yi Sun-sin mit einer Gedenkhalle und Zeremonienplätzen.",
                   "category": "landmark",
                   "coords": [
                         128.417506,
@@ -7384,7 +10588,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Seopirang Park",
-                  "text": "Diese beliebte lokale Attraktion befindet sich in Tongyeong.",
+                  "text": "Ein Park mit einem malerischen Teich und Spazierwegen.",
                   "category": "landmark",
                   "coords": [
                         128.420897,
@@ -7411,7 +10615,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Unification Observatory",
-                  "text": "Dieser landschaftlich reizvolle Aussichtspunkt befindet sich in der Stadt Tongyeong.",
+                  "text": "Ein Observatorium mit Panoramablick auf die Küste.",
                   "category": "natural",
                   "coords": [
                         128.4404,
@@ -7440,7 +10644,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Tongyeong Buddhist Exhibition Hall",
-                  "text": "Ez egy a buddhista kultúrának szentelt múzeum Tongyeong városában.",
+                  "text": "Múzeum, amely a Tongyeong régióból származó buddhista művészetet és tárgyakat mutat be.",
                   "category": "museum",
                   "coords": [
                         128.427106,
@@ -7449,7 +10653,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Jeon Hyeok Lim Art Gallery",
-                  "text": "A Jeon Hyeok Lim Art Gallery egy művészeti múzeum Tongyeong városában.",
+                  "text": "Művészeti galéria, amely Jeon Hyeok Lim helyi művész alkotásait mutatja be.",
                   "category": "museum",
                   "coords": [
                         128.415516,
@@ -7476,7 +10680,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Munhwadong Waterworks Facility",
-                  "text": "Ez egy történelmi infrastruktúrával kapcsolatos régészeti lelőhely Tongyeongban.",
+                  "text": "Történelmi helyszín régi erődítmények maradványaival.",
                   "category": "historical",
                   "coords": [
                         128.420772,
@@ -7485,7 +10689,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Tongyeong Citizens Cultural Center",
-                  "text": "Ez a helyi színház és kulturális központ Tongyeong városában található.",
+                  "text": "Kulturális központ előadásokkal és kiállításokkal.",
                   "category": "cultural",
                   "coords": [
                         128.42843,
@@ -7494,7 +10698,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Tongyeong Concert Hall",
-                  "text": "A Tongyeong Concert Hall egy zenei előadásoknak otthont adó létesítmény Tongyeongban.",
+                  "text": "Koncertterem korszerű akusztikával zenei előadásokhoz.",
                   "category": "cultural",
                   "coords": [
                         128.440042,
@@ -7503,7 +10707,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Tongyeong Samdosugun Tongjeyeong",
-                  "text": "Ez a helyszín egy történelmi haditengerészeti erőd Tongyeong városában.",
+                  "text": "Erődrom, amely a környező tájra nyújt kilátást.",
                   "category": "fortress",
                   "coords": [
                         128.423015,
@@ -7512,7 +10716,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Dongbang Gallery",
-                  "text": "A Dongbang Gallery egy művészeti központ Tongyeong városában.",
+                  "text": "Művészeti galéria, amely a kortárs koreai művészetre specializálódott.",
                   "category": "cultural",
                   "coords": [
                         128.422783,
@@ -7521,7 +10725,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Chungnyeolsa Shrine",
-                  "text": "Ez a történelmi látványosság Tongyeong városában található.",
+                  "text": "Yi Sun-sin admirális tiszteletére emelt szentély emlékcsarnokkal és szertartási helyszínekkel.",
                   "category": "landmark",
                   "coords": [
                         128.417506,
@@ -7530,7 +10734,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Seopirang Park",
-                  "text": "Ez a népszerű helyi látványosság Tongyeong városában található.",
+                  "text": "Park festői tóval és sétányokkal.",
                   "category": "landmark",
                   "coords": [
                         128.420897,
@@ -7557,7 +10761,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Unification Observatory",
-                  "text": "Ez a festői kilátó Tongyeong városában található.",
+                  "text": "Csillagvizsgáló panorámás kilátással a tengerpartra.",
                   "category": "natural",
                   "coords": [
                         128.4404,
@@ -7586,7 +10790,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Acesta",
-                  "text": "Acesta este un muzeu dedicat culturii budiste, situat în Tongyeong.",
+                  "text": "Un muzeu care expune artă și artefacte budiste din regiunea Tongyeong.",
                   "category": "museum",
                   "coords": [
                         128.427106,
@@ -7595,7 +10799,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Galeria de Artă Jeon Hyeok Lim",
-                  "text": "Galeria de Artă Jeon Hyeok Lim este un muzeu de artă situat în orașul Tongyeong.",
+                  "text": "O galerie de artă care prezintă lucrări ale artistului local Jeon Hyeok Lim.",
                   "category": "museum",
                   "coords": [
                         128.415516,
@@ -7622,7 +10826,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Acesta",
-                  "text": "Acesta este un sit arheologic legat de infrastructura istorică din Tongyeong.",
+                  "text": "Un sit istoric cu rămășițe de fortificații vechi.",
                   "category": "historical",
                   "coords": [
                         128.420772,
@@ -7631,7 +10835,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Acest teatru și centru cultural local",
-                  "text": "Acest teatru și centru cultural local este situat în Tongyeong.",
+                  "text": "Un centru cultural cu spectacole și expoziții.",
                   "category": "cultural",
                   "coords": [
                         128.42843,
@@ -7640,7 +10844,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Tongyeong Concert Hall",
-                  "text": "Tongyeong Concert Hall este un loc dedicat spectacolelor muzicale din Tongyeong.",
+                  "text": "O sală de concerte cu acustică de ultimă generație pentru spectacole muzicale.",
                   "category": "cultural",
                   "coords": [
                         128.440042,
@@ -7649,7 +10853,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Acest sit",
-                  "text": "Acest sit este o fortăreață navală istorică situată în Tongyeong.",
+                  "text": "O ruină de fortăreață care oferă vedere asupra peisajului înconjurător.",
                   "category": "fortress",
                   "coords": [
                         128.423015,
@@ -7658,7 +10862,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Dongbang Gallery",
-                  "text": "Dongbang Gallery este un centru de arte situat în orașul Tongyeong.",
+                  "text": "O galerie de artă specializată în arta coreeană contemporană.",
                   "category": "cultural",
                   "coords": [
                         128.422783,
@@ -7667,7 +10871,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Această atracție istorică",
-                  "text": "Această atracție istorică este situată în orașul Tongyeong.",
+                  "text": "Un altar dedicat amiralului Yi Sun-sin, cu o sală memorială și zone ceremoniale.",
                   "category": "landmark",
                   "coords": [
                         128.417506,
@@ -7676,7 +10880,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Această atracție locală populară",
-                  "text": "Această atracție locală populară este situată în Tongyeong.",
+                  "text": "Un parc cu un iaz pitoresc și alei de plimbare.",
                   "category": "landmark",
                   "coords": [
                         128.420897,
@@ -7703,7 +10907,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Acest punct de observație pitoresc",
-                  "text": "Acest punct de observație pitoresc este situat în orașul Tongyeong.",
+                  "text": "Un observator cu vedere panoramică asupra coastei.",
                   "category": "natural",
                   "coords": [
                         128.4404,
@@ -7732,7 +10936,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Tongyeong Buddhism Exhibition Hall",
-                  "text": "This is a museum dedicated to Buddhist culture, located in Tongyeong.",
+                  "text": "A museum showcasing Buddhist art and artifacts from the Tongyeong region.",
                   "category": "museum",
                   "coords": [
                         128.427106,
@@ -7741,7 +10945,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Jeon Hyeok Lim Art Gallery",
-                  "text": "The Jeon Hyeok Lim Art Gallery is an art museum situated in the city of Tongyeong.",
+                  "text": "An art gallery featuring works by local artist Jeon Hyeok Lim.",
                   "category": "museum",
                   "coords": [
                         128.415516,
@@ -7768,7 +10972,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "This",
-                  "text": "This is an archaeological site relating to historical infrastructure in Tongyeong.",
+                  "text": "A historical site with remnants of old fortifications.",
                   "category": "historical",
                   "coords": [
                         128.420772,
@@ -7777,7 +10981,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Tongyeong Citizens Cultural Center",
-                  "text": "This local theatre and cultural center is situated in Tongyeong.",
+                  "text": "A cultural center hosting performances and exhibitions.",
                   "category": "cultural",
                   "coords": [
                         128.42843,
@@ -7786,7 +10990,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Tongyeong Concert Hall",
-                  "text": "The Tongyeong Concert Hall is a dedicated venue for musical performances in Tongyeong.",
+                  "text": "A concert hall with state-of-the-art acoustics for musical performances.",
                   "category": "cultural",
                   "coords": [
                         128.440042,
@@ -7795,7 +10999,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "This site",
-                  "text": "This site is a historical naval fortress located in Tongyeong.",
+                  "text": "A fortress ruin overlooking the surrounding landscape.",
                   "category": "fortress",
                   "coords": [
                         128.423015,
@@ -7804,7 +11008,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Dongbang Gallery",
-                  "text": "Dongbang Gallery is a center for the arts located in the city of Tongyeong.",
+                  "text": "An art gallery specializing in contemporary Korean art.",
                   "category": "cultural",
                   "coords": [
                         128.422783,
@@ -7813,7 +11017,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Chungnyeolsa Shrine",
-                  "text": "This historic attraction is situated in the city of Tongyeong.",
+                  "text": "A shrine dedicated to Admiral Yi Sun-sin, featuring a memorial hall and ceremonial grounds.",
                   "category": "landmark",
                   "coords": [
                         128.417506,
@@ -7822,7 +11026,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Seopirang Park",
-                  "text": "This popular local attraction is located in Tongyeong.",
+                  "text": "A park with a scenic pond and walking trails.",
                   "category": "landmark",
                   "coords": [
                         128.420897,
@@ -7849,7 +11053,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Unification Observatory",
-                  "text": "This scenic observatory viewpoint is situated in the city of Tongyeong.",
+                  "text": "An observatory providing panoramic views of the coastline.",
                   "category": "natural",
                   "coords": [
                         128.4404,
@@ -7966,7 +11170,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Yeongnamnu Pavilion",
-                  "text": "영남루 ist eine archäologische Stätte in der Stadt Miryang.",
+                  "text": "Ein historischer Pavillon am Flussufer mit Blick auf den Miryang-Fluss.",
                   "category": "historical",
                   "coords": [
                         128.7551,
@@ -7975,7 +11179,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Miryang Government Office",
-                  "text": "밀양관아 ist eine archäologische Stätte in der Stadt Miryang.",
+                  "text": "Ein historisches Regierungsgebäude mit traditioneller koreanischer Architektur.",
                   "category": "historical",
                   "coords": [
                         128.754088,
@@ -7984,7 +11188,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Milsung Park Clan Association",
-                  "text": "밀성박씨대종회 ist eine archäologische Stätte in der Stadt Miryang.",
+                  "text": "Eine traditionelle Clanhalle, die die Genealogie der Familie Milsung Park bewahrt.",
                   "category": "historical",
                   "coords": [
                         128.7556,
@@ -7993,7 +11197,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Kim Jong-jik Birthplace",
-                  "text": "김종직생가 ist ein historisches Schloss in der Stadt Miryang.",
+                  "text": "Der Geburtsort des Gelehrten Kim Jong-jik in einem traditionellen koreanischen Haus.",
                   "category": "castle",
                   "coords": [
                         128.718846,
@@ -8002,7 +11206,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Bongsudae Beacon Mound",
-                  "text": "봉수대 ist eine archäologische Stätte in der Stadt Miryang.",
+                  "text": "Ein historischer Signalfeuerhügel aus der Joseon-Dynastie.",
                   "category": "historical",
                   "coords": [
                         128.769006,
@@ -8011,7 +11215,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Seonghwangsa Temple Site",
-                  "text": "성황사유지 ist eine archäologische Stätte in der Stadt Miryang.",
+                  "text": "Die Stätte eines antiken buddhistischen Tempels mit Fundamentsteinen und Relikten.",
                   "category": "historical",
                   "coords": [
                         128.77114,
@@ -8020,7 +11224,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Miryang Municipal Museum",
-                  "text": "Das Miryang Municipal Museum ist ein Museum in der Stadt Miryang.",
+                  "text": "Ein Museum mit Exponaten zur Geschichte und Kultur von Miryang.",
                   "category": "museum",
                   "coords": [
                         128.759197,
@@ -8029,7 +11233,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Miryang Hyanggyo",
-                  "text": "밀양향교 ist eine archäologische Stätte in der Stadt Miryang.",
+                  "text": "Eine historische konfuzianische Schule mit Vortragssälen und einem Schrein.",
                   "category": "historical",
                   "coords": [
                         128.754583,
@@ -8038,7 +11242,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Dongbang Gallery",
-                  "text": "Die Dongbang Gallery ist ein Kunstzentrum in der Stadt Miryang.",
+                  "text": "Eine Kunstgalerie, die sich auf zeitgenössische koreanische Kunst spezialisiert hat.",
                   "category": "cultural",
                   "coords": [
                         128.754355,
@@ -8047,7 +11251,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Seo Gallery",
-                  "text": "Die Seo Gallery ist ein Kunstzentrum in der Stadt Miryang.",
+                  "text": "Eine Kunstgalerie mit Werken lokaler und internationaler Künstler.",
                   "category": "cultural",
                   "coords": [
                         128.774541,
@@ -8056,7 +11260,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Yongpyeong-dong Scholar Tree",
-                  "text": "용평동 회화나무 ist ein Aussichtspunkt in der Stadt Miryang.",
+                  "text": "Ein jahrhundertealter Gelehrtenbaum, ein geschütztes Naturdenkmal.",
                   "category": "natural",
                   "coords": [
                         128.773318,
@@ -8065,7 +11269,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Snail Observatory",
-                  "text": "달팽이전망대 ist ein Aussichtspunkt in der Stadt Miryang.",
+                  "text": "Ein schneckenförmiges Observatorium mit Blick auf die Umgebung.",
                   "category": "natural",
                   "coords": [
                         128.773452,
@@ -8074,7 +11278,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Grand Performance Hall",
-                  "text": "대공연장 ist ein Kunstzentrum in der Stadt Miryang.",
+                  "text": "Eine große Aufführungshalle für Konzerte, Theater und Veranstaltungen.",
                   "category": "cultural",
                   "coords": [
                         128.758398,
@@ -8083,7 +11287,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Arboretum",
-                  "text": "Das Arboretum ist ein beliebter Picknickplatz in der Stadt Miryang.",
+                  "text": "Ein Arboretum mit einer Sammlung einheimischer und exotischer Baumarten.",
                   "category": "landmark",
                   "coords": [
                         128.744047,
@@ -8094,7 +11298,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Yeongnamnu Pavilion",
-                  "text": "A 영남루 egy régészeti lelőhely Miryang városában.",
+                  "text": "Történelmi pavilon a folyóparton, kilátással a Miryang folyóra.",
                   "category": "historical",
                   "coords": [
                         128.7551,
@@ -8103,7 +11307,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Miryang Government Office",
-                  "text": "A 밀양관아 egy régészeti lelőhely Miryang városában.",
+                  "text": "Történelmi kormányzati épület hagyományos koreai építészettel.",
                   "category": "historical",
                   "coords": [
                         128.754088,
@@ -8112,7 +11316,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Milsung Park Clan Association",
-                  "text": "A 밀성박씨대종회 egy régészeti lelőhely Miryang városában.",
+                  "text": "Hagyományos kláncsarnok, amely a Milsung Park család genealógiáját őrzi.",
                   "category": "historical",
                   "coords": [
                         128.7556,
@@ -8121,7 +11325,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Kim Jong-jik Birthplace",
-                  "text": "A 김종직생가 egy történelmi kastély Miryang városában.",
+                  "text": "Kim Jong-jik tudós szülőháza egy hagyományos koreai házban.",
                   "category": "castle",
                   "coords": [
                         128.718846,
@@ -8130,7 +11334,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Bongsudae Beacon Mound",
-                  "text": "A 봉수대 egy régészeti lelőhely Miryang városában.",
+                  "text": "Történelmi jelzőtűz-halom a Joseon-dinasztia idejéből.",
                   "category": "historical",
                   "coords": [
                         128.769006,
@@ -8139,7 +11343,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Seonghwangsa Temple Site",
-                  "text": "A 성황사유지 egy régészeti lelőhely Miryang városában.",
+                  "text": "Egy ősi buddhista templom helyszíne alapkövekkel és relikviákkal.",
                   "category": "historical",
                   "coords": [
                         128.77114,
@@ -8148,7 +11352,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Miryang Municipal Museum",
-                  "text": "A Miryang Municipal Museum egy múzeum Miryang városában.",
+                  "text": "Múzeum Miryang történelmét és kultúráját bemutató kiállításokkal.",
                   "category": "museum",
                   "coords": [
                         128.759197,
@@ -8157,7 +11361,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Miryang Hyanggyo",
-                  "text": "A 밀양향교 egy régészeti lelőhely Miryang városában.",
+                  "text": "Történelmi konfuciánus iskola előadótermekkel és szentéllyel.",
                   "category": "historical",
                   "coords": [
                         128.754583,
@@ -8166,7 +11370,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Dongbang Gallery",
-                  "text": "A Dongbang Gallery egy művészeti központ Miryang városában.",
+                  "text": "Művészeti galéria, amely a kortárs koreai művészetre specializálódott.",
                   "category": "cultural",
                   "coords": [
                         128.754355,
@@ -8175,7 +11379,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Seo Gallery",
-                  "text": "A Seo Gallery egy művészeti központ Miryang városában.",
+                  "text": "Művészeti galéria helyi és nemzetközi művészek alkotásaival.",
                   "category": "cultural",
                   "coords": [
                         128.774541,
@@ -8184,7 +11388,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Yongpyeong-dong Scholar Tree",
-                  "text": "A 용평동 회화나무 egy kilátó Miryang városában.",
+                  "text": "Egy évszázados tudósfa, védett természeti emlék.",
                   "category": "natural",
                   "coords": [
                         128.773318,
@@ -8193,7 +11397,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Snail Observatory",
-                  "text": "A 달팽이전망대 egy kilátó Miryang városában.",
+                  "text": "Csigaház formájú csillagvizsgáló, kilátással a környékre.",
                   "category": "natural",
                   "coords": [
                         128.773452,
@@ -8202,7 +11406,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Grand Performance Hall",
-                  "text": "A 대공연장 egy művészeti központ Miryang városában.",
+                  "text": "Nagy előadóterem koncertek, színházi előadások és rendezvények számára.",
                   "category": "cultural",
                   "coords": [
                         128.758398,
@@ -8211,7 +11415,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Arboretum",
-                  "text": "Az Arboretum egy népszerű piknikezőhely Miryang városában.",
+                  "text": "Arboretum őshonos és egzotikus fafajok gyűjteményével.",
                   "category": "landmark",
                   "coords": [
                         128.744047,
@@ -8222,7 +11426,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Yeongnamnu Pavilion",
-                  "text": "영남루 este un sit arheologic în orașul Miryang.",
+                  "text": "Un pavilion istoric pe malul râului, cu vedere asupra râului Miryang.",
                   "category": "historical",
                   "coords": [
                         128.7551,
@@ -8231,7 +11435,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Miryang Government Office",
-                  "text": "밀양관아 este un sit arheologic în orașul Miryang.",
+                  "text": "O clădire guvernamentală istorică cu arhitectură tradițională coreeană.",
                   "category": "historical",
                   "coords": [
                         128.754088,
@@ -8240,7 +11444,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Milsung Park Clan Association",
-                  "text": "밀성박씨대종회 este un sit arheologic în orașul Miryang.",
+                  "text": "O sală de clan tradițională care păstrează genealogia familiei Milsung Park.",
                   "category": "historical",
                   "coords": [
                         128.7556,
@@ -8249,7 +11453,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Kim Jong-jik Birthplace",
-                  "text": "김종직생가 este un castel istoric în orașul Miryang.",
+                  "text": "Locul nașterii cărturarului Kim Jong-jik, într-o casă tradițională coreeană.",
                   "category": "castle",
                   "coords": [
                         128.718846,
@@ -8258,7 +11462,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Bongsudae Beacon Mound",
-                  "text": "봉수대 este un sit arheologic în orașul Miryang.",
+                  "text": "O movilă istorică de semnalizare cu foc din dinastia Joseon.",
                   "category": "historical",
                   "coords": [
                         128.769006,
@@ -8267,7 +11471,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Seonghwangsa Temple Site",
-                  "text": "성황사유지 este un sit arheologic în orașul Miryang.",
+                  "text": "Situl unui templu budist antic cu pietre de temelie și relicve.",
                   "category": "historical",
                   "coords": [
                         128.77114,
@@ -8276,7 +11480,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Miryang Municipal Museum",
-                  "text": "Miryang Municipal Museum este un muzeu în orașul Miryang.",
+                  "text": "Un muzeu care expune artefacte și exponate despre istoria și cultura orașului Miryang.",
                   "category": "museum",
                   "coords": [
                         128.759197,
@@ -8285,7 +11489,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Miryang Hyanggyo",
-                  "text": "밀양향교 este un sit arheologic în orașul Miryang.",
+                  "text": "O școală confucianistă istorică cu săli de curs și un altar.",
                   "category": "historical",
                   "coords": [
                         128.754583,
@@ -8294,7 +11498,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Dongbang Gallery",
-                  "text": "Dongbang Gallery este un centru de arte în orașul Miryang.",
+                  "text": "O galerie de artă specializată în arta coreeană contemporană.",
                   "category": "cultural",
                   "coords": [
                         128.754355,
@@ -8303,7 +11507,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Seo Gallery",
-                  "text": "Seo Gallery este un centru de arte în orașul Miryang.",
+                  "text": "O galerie de artă care prezintă lucrări ale artiștilor locali și internaționali.",
                   "category": "cultural",
                   "coords": [
                         128.774541,
@@ -8312,7 +11516,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Yongpyeong-dong Scholar Tree",
-                  "text": "용평동 회화나무 este un punct de belvedere în orașul Miryang.",
+                  "text": "Un arbore al cărturarilor vechi de secole, un monument natural protejat.",
                   "category": "natural",
                   "coords": [
                         128.773318,
@@ -8321,7 +11525,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Snail Observatory",
-                  "text": "달팽이전망대 este un punct de belvedere în orașul Miryang.",
+                  "text": "Un observator în formă de melc, care oferă vedere asupra zonei înconjurătoare.",
                   "category": "natural",
                   "coords": [
                         128.773452,
@@ -8330,7 +11534,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Grand Performance Hall",
-                  "text": "대공연장 este un centru de arte în orașul Miryang.",
+                  "text": "O sală mare de spectacole pentru concerte, teatru și evenimente.",
                   "category": "cultural",
                   "coords": [
                         128.758398,
@@ -8339,7 +11543,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Arboretum",
-                  "text": "Arboretum este un loc de picnic în orașul Miryang.",
+                  "text": "Un arboretum cu o colecție de specii de arbori nativi și exotici.",
                   "category": "landmark",
                   "coords": [
                         128.744047,
@@ -8350,7 +11554,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Yeongnamnu Pavilion",
-                  "text": "영남루 is an archaeological site located in the city of Miryang.",
+                  "text": "A historic pavilion on the riverside, offering views of the Miryang River.",
                   "category": "historical",
                   "coords": [
                         128.7551,
@@ -8359,7 +11563,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Miryang Government Office",
-                  "text": "밀양관아 is an archaeological site located in the city of Miryang.",
+                  "text": "A historic government office building with traditional Korean architecture.",
                   "category": "historical",
                   "coords": [
                         128.754088,
@@ -8368,7 +11572,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Milsung Park Clan Association",
-                  "text": "밀성박씨대종회 is an archaeological site located in the city of Miryang.",
+                  "text": "A traditional clan hall preserving the genealogy of the Milsung Park family.",
                   "category": "historical",
                   "coords": [
                         128.7556,
@@ -8377,7 +11581,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Kim Jong-jik Birthplace",
-                  "text": "김종직생가 is a historical castle located in the city of Miryang.",
+                  "text": "The birthplace of scholar Kim Jong-jik, featuring a traditional Korean house.",
                   "category": "castle",
                   "coords": [
                         128.718846,
@@ -8386,7 +11590,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Bongsudae Beacon Mound",
-                  "text": "봉수대 is an archaeological site located in the city of Miryang.",
+                  "text": "A historic beacon mound used for fire signals in the Joseon dynasty.",
                   "category": "historical",
                   "coords": [
                         128.769006,
@@ -8395,7 +11599,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Seonghwangsa Temple Site",
-                  "text": "성황사유지 is an archaeological site located in the city of Miryang.",
+                  "text": "The site of an ancient Buddhist temple with foundation stones and relics.",
                   "category": "historical",
                   "coords": [
                         128.77114,
@@ -8404,7 +11608,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Miryang Municipal Museum",
-                  "text": "The Miryang Municipal Museum is a museum located in the city of Miryang.",
+                  "text": "A museum displaying artifacts and exhibits on Miryang's history and culture.",
                   "category": "museum",
                   "coords": [
                         128.759197,
@@ -8413,7 +11617,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Miryang Hyanggyo",
-                  "text": "밀양향교 is an archaeological site located in the city of Miryang.",
+                  "text": "A historic Confucian school with lecture halls and a shrine hall.",
                   "category": "historical",
                   "coords": [
                         128.754583,
@@ -8422,7 +11626,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Dongbang Gallery",
-                  "text": "The Dongbang Gallery is an arts centre located in the city of Miryang.",
+                  "text": "An art gallery specializing in contemporary Korean art.",
                   "category": "cultural",
                   "coords": [
                         128.754355,
@@ -8431,7 +11635,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Seo Gallery",
-                  "text": "The Seo Gallery is an arts centre located in the city of Miryang.",
+                  "text": "An art gallery showcasing works by local and international artists.",
                   "category": "cultural",
                   "coords": [
                         128.774541,
@@ -8440,7 +11644,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Yongpyeong-dong Scholar Tree",
-                  "text": "용평동 회화나무 is a viewpoint located in the city of Miryang.",
+                  "text": "A centuries-old scholar tree, a protected natural monument.",
                   "category": "natural",
                   "coords": [
                         128.773318,
@@ -8449,7 +11653,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Snail Observatory",
-                  "text": "달팽이전망대 is a viewpoint located in the city of Miryang.",
+                  "text": "An observatory shaped like a snail, offering views of the surrounding area.",
                   "category": "natural",
                   "coords": [
                         128.773452,
@@ -8458,7 +11662,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Grand Performance Hall",
-                  "text": "대공연장 is an arts centre located in the city of Miryang.",
+                  "text": "A large performance hall hosting concerts, theater, and events.",
                   "category": "cultural",
                   "coords": [
                         128.758398,
@@ -8467,7 +11671,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             },
             {
                   "name": "Arboretum",
-                  "text": "The Arboretum is a picnic site located in the city of Miryang.",
+                  "text": "An arboretum with a collection of native and exotic tree species.",
                   "category": "landmark",
                   "coords": [
                         128.744047,

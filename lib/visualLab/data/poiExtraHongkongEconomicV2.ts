@@ -48,7 +48,484 @@ export const hongkongEconomicV2: POI[] = [
     image: "/poi-images/hongkong-central-district-economic-v2.webp",
   },
   {
-    id: "hongkong-kwai-tsing-container-terminals-economic-v2",
+    id: "hongkong-kwai-tsing-container-terminals-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lai Chi Ling Road Lookout Point",
+                  "text": "Ein Aussichtspunkt an der Lai Chi Ling Road, der einen erhöhten Blick über die Gegend von Kwai Tsing bietet.",
+                  "category": "natural",
+                  "coords": [
+                        114.132043,
+                        22.345118
+                  ]
+            },
+            {
+                  "name": "Sai Shan",
+                  "text": "Ein bekannter Berggipfel im Distrikt Kwai Tsing, der natürliche Wanderwege bietet.",
+                  "category": "natural",
+                  "coords": [
+                        114.103135,
+                        22.3464
+                  ]
+            },
+            {
+                  "name": "Kwai Shun Street Playground",
+                  "text": "Ein lokaler Nachbarschaftspark mit Spielplatz an der Kwai Shun Street.",
+                  "category": "park",
+                  "coords": [
+                        114.124298,
+                        22.354442
+                  ]
+            },
+            {
+                  "name": "Kwai Yi Road Playground",
+                  "text": "Ein Gemeindepark und Spielplatz an der Kwai Yi Road.",
+                  "category": "park",
+                  "coords": [
+                        114.127963,
+                        22.355156
+                  ]
+            },
+            {
+                  "name": "Central Kwai Chung Park",
+                  "text": "Ein großer öffentlicher Park in Kwai Chung mit weitläufigen Grünflächen und Freizeiteinrichtungen.",
+                  "category": "park",
+                  "coords": [
+                        114.132863,
+                        22.356488
+                  ]
+            },
+            {
+                  "name": "Lai King Hill Road Playground",
+                  "text": "Ein Erholungspark mit Spielplatz an den Hängen der Lai King Hill Road.",
+                  "category": "park",
+                  "coords": [
+                        114.127548,
+                        22.345798
+                  ]
+            },
+            {
+                  "name": "Tsing Yi Bridge",
+                  "text": "Eine Betonbrücke über den Rambler Channel, die am 28. Februar 1974 für den Verkehr freigegeben wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        114.113851,
+                        22.34869
+                  ]
+            },
+            {
+                  "name": "Tsing Hung Road Playground",
+                  "text": "Ein Gemeindepark mit Freizeitflächen und Spielgeräten an der Tsing Hung Road.",
+                  "category": "park",
+                  "coords": [
+                        114.109573,
+                        22.342911
+                  ]
+            },
+            {
+                  "name": "Mei King Playground",
+                  "text": "Ein lokaler Park und Spielplatz im Freien, der das Wohngebiet Mei King bedient.",
+                  "category": "park",
+                  "coords": [
+                        114.10767,
+                        22.343667
+                  ]
+            },
+            {
+                  "name": "Chuung Tat Road Sitting-out Area",
+                  "text": "Ein kleiner Rastplatz mit öffentlichen Bänken und Grünanlagen an der Chuung Tat Road.",
+                  "category": "park",
+                  "coords": [
+                        114.11002,
+                        22.349402
+                  ]
+            },
+            {
+                  "name": "Tang Ancestral Hall",
+                  "text": "Ein traditioneller chinesischer Tempel, der als Ahnenhalle für den lokalen Tang-Clan dient.",
+                  "category": "religious",
+                  "coords": [
+                        114.131291,
+                        22.355881
+                  ]
+            },
+            {
+                  "name": "Lai Yiu Estate Market",
+                  "text": "Ein überdachter Markt zur Versorgung der Bewohner der öffentlichen Wohnsiedlung Lai Yiu.",
+                  "category": "cultural",
+                  "coords": [
+                        114.130718,
+                        22.353991
+                  ]
+            },
+            {
+                  "name": "Lai King Estate Market",
+                  "text": "Ein lokaler Markt auf dem Gelände des Lai King Estate, der die Anwohner mit täglichen Lebensmitteln versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        114.126523,
+                        22.34973
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lai Chi Ling Road Lookout Point",
+                  "text": "A Lai Chi Ling Road mentén található kilátópont, amelyből rálátni a Kwai Tsing területre.",
+                  "category": "natural",
+                  "coords": [
+                        114.132043,
+                        22.345118
+                  ]
+            },
+            {
+                  "name": "Sai Shan",
+                  "text": "Egy ismert hegycsúcs a Kwai Tsing kerületben, amely természetes túraútvonalakat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        114.103135,
+                        22.3464
+                  ]
+            },
+            {
+                  "name": "Kwai Shun Street Playground",
+                  "text": "Egy helyi lakossági park és játszótér a Kwai Shun Street mentén.",
+                  "category": "park",
+                  "coords": [
+                        114.124298,
+                        22.354442
+                  ]
+            },
+            {
+                  "name": "Kwai Yi Road Playground",
+                  "text": "A Kwai Yi Road mentén elhelyezkedő közösségi park és játszótér.",
+                  "category": "park",
+                  "coords": [
+                        114.127963,
+                        22.355156
+                  ]
+            },
+            {
+                  "name": "Central Kwai Chung Park",
+                  "text": "Egy tágas nyilvános park Kwai Chungban, amely nagy zöldterületeket és rekreációs létesítményeket kínál.",
+                  "category": "park",
+                  "coords": [
+                        114.132863,
+                        22.356488
+                  ]
+            },
+            {
+                  "name": "Lai King Hill Road Playground",
+                  "text": "A Lai King Hill Road lejtőin elhelyezkedő szabadidőpark és játszótér.",
+                  "category": "park",
+                  "coords": [
+                        114.127548,
+                        22.345798
+                  ]
+            },
+            {
+                  "name": "Tsing Yi Bridge",
+                  "text": "A Rambler-csatornán átívelő híd, amelyet 1974. február 28-án nyitottak meg a forgalom előtt.",
+                  "category": "landmark",
+                  "coords": [
+                        114.113851,
+                        22.34869
+                  ]
+            },
+            {
+                  "name": "Tsing Hung Road Playground",
+                  "text": "A Tsing Hung Road mentén található közösségi park, amely rekreációs tereket és játszóeszközöket kínál.",
+                  "category": "park",
+                  "coords": [
+                        114.109573,
+                        22.342911
+                  ]
+            },
+            {
+                  "name": "Mei King Playground",
+                  "text": "A Mei King lakóövezetét kiszolgáló szabadtéri helyi park és játszótér.",
+                  "category": "park",
+                  "coords": [
+                        114.10767,
+                        22.343667
+                  ]
+            },
+            {
+                  "name": "Chuung Tat Road Sitting-out Area",
+                  "text": "Egy kisebb pihenőhely padokkal és növényzettel a Chuung Tat Road mentén.",
+                  "category": "park",
+                  "coords": [
+                        114.11002,
+                        22.349402
+                  ]
+            },
+            {
+                  "name": "Tang Ancestral Hall",
+                  "text": "Egy hagyományos kínai templom, amely a helyi Tang klán ősi csarnokaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        114.131291,
+                        22.355881
+                  ]
+            },
+            {
+                  "name": "Lai Yiu Estate Market",
+                  "text": "A Lai Yiu állami lakótelep lakóit kiszolgáló fedett piac.",
+                  "category": "cultural",
+                  "coords": [
+                        114.130718,
+                        22.353991
+                  ]
+            },
+            {
+                  "name": "Lai King Estate Market",
+                  "text": "A Lai King Estate területén található napi piac, amely a lakók ellátását biztosítja.",
+                  "category": "cultural",
+                  "coords": [
+                        114.126523,
+                        22.34973
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lai Chi Ling Road Lookout Point",
+                  "text": "Un punct de belvedere panoramic situat pe strada Lai Chi Ling, oferind o vedere de la înălțime asupra zonei Kwai Tsing.",
+                  "category": "natural",
+                  "coords": [
+                        114.132043,
+                        22.345118
+                  ]
+            },
+            {
+                  "name": "Sai Shan",
+                  "text": "Un vârf montan notabil din districtul Kwai Tsing, care oferă trasee naturale de drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        114.103135,
+                        22.3464
+                  ]
+            },
+            {
+                  "name": "Kwai Shun Street Playground",
+                  "text": "Un parc de cartier și loc de joacă situat de-a lungul străzii Kwai Shun.",
+                  "category": "park",
+                  "coords": [
+                        114.124298,
+                        22.354442
+                  ]
+            },
+            {
+                  "name": "Kwai Yi Road Playground",
+                  "text": "Un parc comunitar și loc de joacă situat pe strada Kwai Yi.",
+                  "category": "park",
+                  "coords": [
+                        114.127963,
+                        22.355156
+                  ]
+            },
+            {
+                  "name": "Central Kwai Chung Park",
+                  "text": "Un mare parc public din Kwai Chung, oferind spații verzi extinse și facilități de recreere.",
+                  "category": "park",
+                  "coords": [
+                        114.132863,
+                        22.356488
+                  ]
+            },
+            {
+                  "name": "Lai King Hill Road Playground",
+                  "text": "Un parc de agrement și loc de joacă situat pe versanții străzii Lai King Hill.",
+                  "category": "park",
+                  "coords": [
+                        114.127548,
+                        22.345798
+                  ]
+            },
+            {
+                  "name": "Tsing Yi Bridge",
+                  "text": "Un pod de beton ce traversează canalul Rambler, deschis circulației la 28 februarie 1974.",
+                  "category": "landmark",
+                  "coords": [
+                        114.113851,
+                        22.34869
+                  ]
+            },
+            {
+                  "name": "Tsing Hung Road Playground",
+                  "text": "Un parc comunitar care oferă spații de recreere și echipamente de joacă de-a lungul străzii Tsing Hung.",
+                  "category": "park",
+                  "coords": [
+                        114.109573,
+                        22.342911
+                  ]
+            },
+            {
+                  "name": "Mei King Playground",
+                  "text": "Un parc în aer liber și loc de joacă ce deservește zona rezidențială Mei King.",
+                  "category": "park",
+                  "coords": [
+                        114.10767,
+                        22.343667
+                  ]
+            },
+            {
+                  "name": "Chuung Tat Road Sitting-out Area",
+                  "text": "O mică zonă de odihnă dotată cu bănci publice și verdeață de-a lungul străzii Chuung Tat.",
+                  "category": "park",
+                  "coords": [
+                        114.11002,
+                        22.349402
+                  ]
+            },
+            {
+                  "name": "Tang Ancestral Hall",
+                  "text": "Un templu tradițional chinez care servește ca sală ancestrală pentru clanul local Tang.",
+                  "category": "religious",
+                  "coords": [
+                        114.131291,
+                        22.355881
+                  ]
+            },
+            {
+                  "name": "Lai Yiu Estate Market",
+                  "text": "O piață acoperită ce deservește rezidenții complexului de locuințe sociale Lai Yiu.",
+                  "category": "cultural",
+                  "coords": [
+                        114.130718,
+                        22.353991
+                  ]
+            },
+            {
+                  "name": "Lai King Estate Market",
+                  "text": "O piață zilnică locală situată în incinta cartierului Lai King pentru a furniza provizii locuitorilor.",
+                  "category": "cultural",
+                  "coords": [
+                        114.126523,
+                        22.34973
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lai Chi Ling Road Lookout Point",
+                  "text": "A scenic lookout point along Lai Chi Ling Road offering elevated views over the Kwai Tsing area.",
+                  "category": "natural",
+                  "coords": [
+                        114.132043,
+                        22.345118
+                  ]
+            },
+            {
+                  "name": "Sai Shan",
+                  "text": "A notable mountain peak in the Kwai Tsing district offering natural hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        114.103135,
+                        22.3464
+                  ]
+            },
+            {
+                  "name": "Kwai Shun Street Playground",
+                  "text": "A local neighbourhood park and playground situated along Kwai Shun Street.",
+                  "category": "park",
+                  "coords": [
+                        114.124298,
+                        22.354442
+                  ]
+            },
+            {
+                  "name": "Kwai Yi Road Playground",
+                  "text": "A community park and playground located on Kwai Yi Road.",
+                  "category": "park",
+                  "coords": [
+                        114.127963,
+                        22.355156
+                  ]
+            },
+            {
+                  "name": "Central Kwai Chung Park",
+                  "text": "A large public park in Kwai Chung providing expansive green spaces and recreational facilities.",
+                  "category": "park",
+                  "coords": [
+                        114.132863,
+                        22.356488
+                  ]
+            },
+            {
+                  "name": "Lai King Hill Road Playground",
+                  "text": "A recreational park and playground set on the slopes of Lai King Hill Road.",
+                  "category": "park",
+                  "coords": [
+                        114.127548,
+                        22.345798
+                  ]
+            },
+            {
+                  "name": "Tsing Yi Bridge",
+                  "text": "A concrete bridge spanning the Rambler Channel, opened to traffic on February 28, 1974.",
+                  "category": "landmark",
+                  "coords": [
+                        114.113851,
+                        22.34869
+                  ]
+            },
+            {
+                  "name": "Tsing Hung Road Playground",
+                  "text": "A community park offering recreational spaces and play equipment along Tsing Hung Road.",
+                  "category": "park",
+                  "coords": [
+                        114.109573,
+                        22.342911
+                  ]
+            },
+            {
+                  "name": "Mei King Playground",
+                  "text": "A local outdoor park and playground serving the residential Mei King area.",
+                  "category": "park",
+                  "coords": [
+                        114.10767,
+                        22.343667
+                  ]
+            },
+            {
+                  "name": "Chuung Tat Road Sitting-out Area",
+                  "text": "A small sitting-out area providing public benches and greenery along Chuung Tat Road.",
+                  "category": "park",
+                  "coords": [
+                        114.11002,
+                        22.349402
+                  ]
+            },
+            {
+                  "name": "Tang Ancestral Hall",
+                  "text": "A traditional Chinese temple acting as an ancestral hall for the local Tang clan.",
+                  "category": "religious",
+                  "coords": [
+                        114.131291,
+                        22.355881
+                  ]
+            },
+            {
+                  "name": "Lai Yiu Estate Market",
+                  "text": "An indoor marketplace serving the residents of the Lai Yiu public housing estate.",
+                  "category": "cultural",
+                  "coords": [
+                        114.130718,
+                        22.353991
+                  ]
+            },
+            {
+                  "name": "Lai King Estate Market",
+                  "text": "A local daily market situated within the Lai King Estate to provide provisions for residents.",
+                  "category": "cultural",
+                  "coords": [
+                        114.126523,
+                        22.34973
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "port",
     name: { de: "Kwai Tsing Containerterminals", hu: "Kwai Tsing konténerterminál", ro: "Terminalul de containere Kwai Tsing", en: "Kwai Tsing Container Terminals" },
@@ -93,7 +570,52 @@ export const hongkongEconomicV2: POI[] = [
     image: "/poi-images/hongkong-kwai-tsing-container-terminals-economic-v2.webp",
   },
   {
-    id: "hongkong-international-airport-economic-v2",
+    id: "hongkong-international-airport-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hau Hok Wan",
+                  "text": "Eine Küstenbucht, die in der Nähe des Hong Kong International Airport liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        113.909908,
+                        22.290961
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hau Hok Wan",
+                  "text": "Egy parti öböl, amely a hongkongi nemzetközi repülőtér közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        113.909908,
+                        22.290961
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hau Hok Wan",
+                  "text": "Un golf de coastă situat în apropiere de Aeroportul Internațional Hong Kong.",
+                  "category": "landmark",
+                  "coords": [
+                        113.909908,
+                        22.290961
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hau Hok Wan",
+                  "text": "A coastal bay located near the Hong Kong International Airport.",
+                  "category": "landmark",
+                  "coords": [
+                        113.909908,
+                        22.290961
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "industry",
     name: { de: "Internationaler Flughafen Hongkong", hu: "Hongkongi nemzetközi repülőtér", ro: "Aeroportul Internațional Hong Kong", en: "Hong Kong International Airport" },
@@ -138,7 +660,52 @@ export const hongkongEconomicV2: POI[] = [
     image: "/poi-images/hongkong-international-airport-economic-v2.webp",
   },
   {
-    id: "hongkong-international-commerce-centre-economic-v2",
+    id: "hongkong-international-commerce-centre-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sky100",
+                  "text": "Eine 360-Grad-Indoor-Aussichtsplattform im 100. Stock des International Commerce Centre mit weitem Blick auf den Victoria Harbour.",
+                  "category": "natural",
+                  "coords": [
+                        114.160381,
+                        22.30334
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sky100",
+                  "text": "A Nemzetközi Kereskedelmi Központ 100. emeletén található, 360 fokos beltéri kilátó, ahonnan lenyűgöző kilátás nyílik a Victoria-kikötőre.",
+                  "category": "natural",
+                  "coords": [
+                        114.160381,
+                        22.30334
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sky100",
+                  "text": "O punte de observație interioară de 360 de grade situată la etajul 100 al International Commerce Centre, oferind o priveliște panoramică asupra Portului Victoria.",
+                  "category": "natural",
+                  "coords": [
+                        114.160381,
+                        22.30334
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sky100",
+                  "text": "A 360-degree indoor observation deck located on the 100th floor of the International Commerce Centre, offering sweeping views of Victoria Harbour.",
+                  "category": "natural",
+                  "coords": [
+                        114.160381,
+                        22.30334
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "tower",
     name: { de: "International Commerce Centre", hu: "International Commerce Centre", ro: "Centrul Comercial Internațional", en: "International Commerce Centre" },
@@ -183,7 +750,52 @@ export const hongkongEconomicV2: POI[] = [
     image: "/poi-images/hongkong-international-commerce-centre-economic-v2.webp",
   },
   {
-    id: "hongkong-two-international-finance-centre-economic-v2",
+    id: "hongkong-two-international-finance-centre-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "HKMA Information Centre",
+                  "text": "Dieses Museum befindet sich im International Finance Centre und beschreibt die Währungsgeschichte und die Zentralbankgeschäfte Hongkongs.",
+                  "category": "museum",
+                  "coords": [
+                        114.159482,
+                        22.285211
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "HKMA Information Centre",
+                  "text": "A Nemzetközi Pénzügyi Központban található múzeum Hongkong monetáris történetét és központi banki műveleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        114.159482,
+                        22.285211
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "HKMA Information Centre",
+                  "text": "Situat în incinta International Finance Centre, acest muzeu detaliază istoria monetară și operațiunile bancare centrale din Hong Kong.",
+                  "category": "museum",
+                  "coords": [
+                        114.159482,
+                        22.285211
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "HKMA Information Centre",
+                  "text": "Located within the International Finance Centre, this museum details the monetary history and central banking operations of Hong Kong.",
+                  "category": "museum",
+                  "coords": [
+                        114.159482,
+                        22.285211
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "tower",
     name: { de: "Two International Finance Centre", hu: "Two International Finance Centre", ro: "Two International Finance Centre", en: "Two International Finance Centre" },
@@ -273,7 +885,448 @@ export const hongkongEconomicV2: POI[] = [
     image: "/poi-images/hongkong-cyberport-economic-v2.webp",
   },
   {
-    id: "hongkong-science-park-economic-v2",
+    id: "hongkong-science-park-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Si Yuan Amphitheatre",
+                  "text": "Das Si Yuan Amphitheatre ist ein klassisch strukturierter Open-Air-Veranstaltungsort mit einer halbrunden Sitzanordnung, die direkt in die Landschaft integriert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        114.205061,
+                        22.421686
+                  ]
+            },
+            {
+                  "name": "Chung Chi Shan",
+                  "text": "Chung Chi Shan ist ein markanter Hügel auf dem Universitätscampus mit steilen, bewaldeten Hängen, die die umliegenden Bildungsgebäude überblicken.",
+                  "category": "natural",
+                  "coords": [
+                        114.208633,
+                        22.420739
+                  ]
+            },
+            {
+                  "name": "Jockey Club Museum of Climate Change",
+                  "text": "Das Jockey Club Museum of Climate Change ist ein lehrreiches Ausstellungszentrum, das der Präsentation interaktiver Modelle und Daten zu globalen Umweltveränderungen gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        114.211127,
+                        22.416077
+                  ]
+            },
+            {
+                  "name": "Fook Wo and Laura Jee Li Theatre",
+                  "text": "Das Fook Wo and Laura Jee Li Theatre ist ein gut ausgestattetes Indoor-Auditorium, das für akademische Vorträge, Theaterstücke und formelle Präsentationen konzipiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        114.208265,
+                        22.417695
+                  ]
+            },
+            {
+                  "name": "Pavilion of Harmony",
+                  "text": "Der Pavilion of Harmony ist ein wunderschön strukturierter Pavillon am Wasser, der sich durch seinen reflektierenden Infinity-Pool auszeichnet, der scheinbar mit dem Tolo Harbour verschmilzt.",
+                  "category": "landmark",
+                  "coords": [
+                        114.209921,
+                        22.421592
+                  ]
+            },
+            {
+                  "name": "Lee Hysan Concert Hall",
+                  "text": "Die Lee Hysan Concert Hall ist ein akustisch ausgereifter Indoor-Aufführungsraum mit einer großen Bühne für große Orchester- und Chorveranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        114.208721,
+                        22.413941
+                  ]
+            },
+            {
+                  "name": "Sir Run Run Shaw Hall",
+                  "text": "Die Sir Run Run Shaw Hall fungiert als weitläufiger Veranstaltungsort auf dem Campus, der mit Theaterbeleuchtung und einer großen Bühne für feierliche Zeremonien ausgestattet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        114.207177,
+                        22.420133
+                  ]
+            },
+            {
+                  "name": "Art Museum",
+                  "text": "Dieses Art Museum fungiert als akademische Kulturinstitution und präsentiert eine reichhaltige ständige Sammlung traditioneller chinesischer Gemälde und antiker Keramik.",
+                  "category": "museum",
+                  "coords": [
+                        114.206279,
+                        22.419095
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "Dieses Freiluft-Amphitheater besteht aus ausladenden Sitzterrassen aus Beton, die auf dem Campusgelände einen Halbkreis um eine zentrale Vorführfläche bilden.",
+                  "category": "cultural",
+                  "coords": [
+                        114.21261,
+                        22.426682
+                  ]
+            },
+            {
+                  "name": "Yim Tin Tsai & Ma Shi Chau SSSI",
+                  "text": "Dieses Naturschutzgebiet ist als Gebiet von besonderem wissenschaftlichem Interesse ausgewiesen, um seine einzigartige Küstengeologie zu erhalten.",
+                  "category": "natural",
+                  "coords": [
+                        114.221524,
+                        22.45014
+                  ]
+            },
+            {
+                  "name": "New Chapel to Theology Building",
+                  "text": "Diese christliche Kapelle bietet einen eigenen Andachtsraum im direkten Anschluss an das Theologiegebäude.",
+                  "category": "landmark",
+                  "coords": [
+                        114.206239,
+                        22.417104
+                  ]
+            },
+            {
+                  "name": "Chung Chi College Chapel",
+                  "text": "Diese markante christliche Kapelle bildet einen spirituellen Mittelpunkt für die Campus-Gemeinschaft des Chung Chi College.",
+                  "category": "landmark",
+                  "coords": [
+                        114.207017,
+                        22.415981
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Si Yuan Amphitheatre",
+                  "text": "A Si Yuan Amphitheatre egy klasszikus felépítésű szabadtéri előadóhely, amely közvetlenül a tájba épített, ívelt üléssorokkal rendelkezik.",
+                  "category": "cultural",
+                  "coords": [
+                        114.205061,
+                        22.421686
+                  ]
+            },
+            {
+                  "name": "Chung Chi Shan",
+                  "text": "A Chung Chi Shan egy figyelemre méltó domb az egyetemi kampuszon belül, meredek, erdős lejtőkkel, amelyek a környező oktatási épületekre néznek.",
+                  "category": "natural",
+                  "coords": [
+                        114.208633,
+                        22.420739
+                  ]
+            },
+            {
+                  "name": "Jockey Club Museum of Climate Change",
+                  "text": "A Jockey Club Museum of Climate Change egy oktatási kiállítási központ, amely a globális környezeti változásokkal kapcsolatos interaktív modellek és adatok bemutatásának van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        114.211127,
+                        22.416077
+                  ]
+            },
+            {
+                  "name": "Fook Wo and Laura Jee Li Theatre",
+                  "text": "A Fook Wo and Laura Jee Li Theatre egy jól felszerelt beltéri előadóterem, amelyet tudományos előadások, színdarabok és hivatalos prezentációk megtartására terveztek.",
+                  "category": "cultural",
+                  "coords": [
+                        114.208265,
+                        22.417695
+                  ]
+            },
+            {
+                  "name": "Pavilion of Harmony",
+                  "text": "A Pavilion of Harmony egy gyönyörű felépítésű, vízparti pavilon, amelyet egy tükröződő feszített víztükrű medence tesz különlegessé, amely látszólag egybeolvad a Tolo-kikötővel.",
+                  "category": "landmark",
+                  "coords": [
+                        114.209921,
+                        22.421592
+                  ]
+            },
+            {
+                  "name": "Lee Hysan Concert Hall",
+                  "text": "A Lee Hysan Concert Hall egy akusztikailag kifinomult beltéri előadótér, amely hatalmas színpaddal rendelkezik a teljes zenekari és kórusrendezvények támogatására.",
+                  "category": "cultural",
+                  "coords": [
+                        114.208721,
+                        22.413941
+                  ]
+            },
+            {
+                  "name": "Sir Run Run Shaw Hall",
+                  "text": "A Sir Run Run Shaw Hall nagy kapacitású kampusz helyszínként működik, amely színházi világítással és jelentős színpaddal van felszerelve a nagyszabású ünnepségekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        114.207177,
+                        22.420133
+                  ]
+            },
+            {
+                  "name": "Art Museum",
+                  "text": "Ez az Art Museum akadémiai kulturális intézményként működik, hagyományos kínai festmények és ősi kerámiák gazdag állandó gyűjteményét bemutatva.",
+                  "category": "museum",
+                  "coords": [
+                        114.206279,
+                        22.419095
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "Ez a szabadtéri amfiteátrum ívelt beton ülőteraszokból áll, amelyek félkört alkotnak a kampuszon lévő központi előadókör körül.",
+                  "category": "cultural",
+                  "coords": [
+                        114.21261,
+                        22.426682
+                  ]
+            },
+            {
+                  "name": "Yim Tin Tsai & Ma Shi Chau SSSI",
+                  "text": "Ez a védett természetvédelmi terület különleges tudományos jelentőségű helyszínként őrzi a part menti geológiai formációkat.",
+                  "category": "natural",
+                  "coords": [
+                        114.221524,
+                        22.45014
+                  ]
+            },
+            {
+                  "name": "New Chapel to Theology Building",
+                  "text": "Ez a keresztény kápolna a teológiai épülethez csatlakozva biztosít csendes helyet az istentiszteletek számára.",
+                  "category": "landmark",
+                  "coords": [
+                        114.206239,
+                        22.417104
+                  ]
+            },
+            {
+                  "name": "Chung Chi College Chapel",
+                  "text": "Ez a jellegzetes keresztény kápolna a Chung Chi College egyetemi közösségének spirituális központja.",
+                  "category": "landmark",
+                  "coords": [
+                        114.207017,
+                        22.415981
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Si Yuan Amphitheatre",
+                  "text": "Amfiteatrul Si Yuan este o locație de spectacole în aer liber cu o structură clasică, având un aranjament curbat de locuri construit direct în peisaj.",
+                  "category": "cultural",
+                  "coords": [
+                        114.205061,
+                        22.421686
+                  ]
+            },
+            {
+                  "name": "Chung Chi Shan",
+                  "text": "Chung Chi Shan este un deal notabil situat în interiorul campusului universitar, oferind pante abrupte, împădurite, care domină clădirile educaționale din jur.",
+                  "category": "natural",
+                  "coords": [
+                        114.208633,
+                        22.420739
+                  ]
+            },
+            {
+                  "name": "Jockey Club Museum of Climate Change",
+                  "text": "Muzeul Schimbărilor Climatice Jockey Club este un centru educațional de expoziții dedicat expunerii de modele interactive și date despre schimbările de mediu globale.",
+                  "category": "museum",
+                  "coords": [
+                        114.211127,
+                        22.416077
+                  ]
+            },
+            {
+                  "name": "Fook Wo and Laura Jee Li Theatre",
+                  "text": "Teatrul Fook Wo and Laura Jee Li este un auditoriu interior bine echipat, conceput pentru a găzdui prelegeri academice, piese de teatru și prezentări formale.",
+                  "category": "cultural",
+                  "coords": [
+                        114.208265,
+                        22.417695
+                  ]
+            },
+            {
+                  "name": "Pavilion of Harmony",
+                  "text": "Pavilionul Armoniei este un foișor frumos structurat pe malul apei, care se distinge prin piscina sa infinită reflectorizantă ce pare să fuzioneze cu portul Tolo.",
+                  "category": "landmark",
+                  "coords": [
+                        114.209921,
+                        22.421592
+                  ]
+            },
+            {
+                  "name": "Lee Hysan Concert Hall",
+                  "text": "Sala de concerte Lee Hysan este un spațiu de spectacole interior rafinat acustic, cu o scenă mare pentru a susține evenimente orchestrale și corale complete.",
+                  "category": "cultural",
+                  "coords": [
+                        114.208721,
+                        22.413941
+                  ]
+            },
+            {
+                  "name": "Sir Run Run Shaw Hall",
+                  "text": "Sala Sir Run Run Shaw funcționează ca o locație de campus de mare capacitate, echipată cu iluminat teatral și o scenă substanțială pentru ceremonii grandioase.",
+                  "category": "cultural",
+                  "coords": [
+                        114.207177,
+                        22.420133
+                  ]
+            },
+            {
+                  "name": "Art Museum",
+                  "text": "Acest Muzeu de Artă funcționează ca o instituție culturală academică, prezentând o bogată colecție permanentă de picturi tradiționale chinezești și ceramici antice.",
+                  "category": "museum",
+                  "coords": [
+                        114.206279,
+                        22.419095
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "Acest amfiteatru în aer liber este format din terase extinse din beton cu locuri pe scaune, care formează un semicerc în jurul unui cerc central de spectacole pe terenul campusului.",
+                  "category": "cultural",
+                  "coords": [
+                        114.21261,
+                        22.426682
+                  ]
+            },
+            {
+                  "name": "Yim Tin Tsai & Ma Shi Chau SSSI",
+                  "text": "Această rezervație naturală este desemnată ca sit de interes științific special pentru a proteja geologia unică a coastei.",
+                  "category": "natural",
+                  "coords": [
+                        114.221524,
+                        22.45014
+                  ]
+            },
+            {
+                  "name": "New Chapel to Theology Building",
+                  "text": "Această capelă creștină oferă un spațiu dedicat pentru închinare, fiind atașată clădirii de teologie.",
+                  "category": "landmark",
+                  "coords": [
+                        114.206239,
+                        22.417104
+                  ]
+            },
+            {
+                  "name": "Chung Chi College Chapel",
+                  "text": "Această capelă creștină distinctivă oferă un punct central spiritual pentru comunitatea din campusul Colegiului Chung Chi.",
+                  "category": "landmark",
+                  "coords": [
+                        114.207017,
+                        22.415981
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Si Yuan Amphitheatre",
+                  "text": "The Si Yuan Amphitheatre is a classically structured open-air performance venue featuring a curved seating arrangement built directly into the landscape.",
+                  "category": "cultural",
+                  "coords": [
+                        114.205061,
+                        22.421686
+                  ]
+            },
+            {
+                  "name": "Chung Chi Shan",
+                  "text": "Chung Chi Shan is a notable hill situated within the university campus, offering steep, wooded slopes that overlook the surrounding educational buildings.",
+                  "category": "natural",
+                  "coords": [
+                        114.208633,
+                        22.420739
+                  ]
+            },
+            {
+                  "name": "Jockey Club Museum of Climate Change",
+                  "text": "The Jockey Club Museum of Climate Change is an educational exhibition center dedicated to displaying interactive models and data about global environmental shifts.",
+                  "category": "museum",
+                  "coords": [
+                        114.211127,
+                        22.416077
+                  ]
+            },
+            {
+                  "name": "Fook Wo and Laura Jee Li Theatre",
+                  "text": "The Fook Wo and Laura Jee Li Theatre is a well-equipped indoor auditorium designed to host academic lectures, dramatic plays, and formal presentations.",
+                  "category": "cultural",
+                  "coords": [
+                        114.208265,
+                        22.417695
+                  ]
+            },
+            {
+                  "name": "Pavilion of Harmony",
+                  "text": "The Pavilion of Harmony is a beautifully structured waterfront gazebo, distinguished by its reflective infinity pool that seemingly merges with Tolo Harbour.",
+                  "category": "landmark",
+                  "coords": [
+                        114.209921,
+                        22.421592
+                  ]
+            },
+            {
+                  "name": "Lee Hysan Concert Hall",
+                  "text": "The Lee Hysan Concert Hall is an acoustically refined indoor performance space featuring a grand stage to support full orchestral and choral events.",
+                  "category": "cultural",
+                  "coords": [
+                        114.208721,
+                        22.413941
+                  ]
+            },
+            {
+                  "name": "Sir Run Run Shaw Hall",
+                  "text": "Sir Run Run Shaw Hall operates as a large-capacity campus venue equipped with theatrical lighting and a substantial stage for grand ceremonies.",
+                  "category": "cultural",
+                  "coords": [
+                        114.207177,
+                        22.420133
+                  ]
+            },
+            {
+                  "name": "Art Museum",
+                  "text": "This Art Museum functions as an academic cultural institution, showcasing a rich permanent collection of traditional Chinese paintings and ancient ceramics.",
+                  "category": "museum",
+                  "coords": [
+                        114.206279,
+                        22.419095
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "This outdoor Amphitheater consists of sweeping concrete seating terraces forming a semi-circle around a central performance circle on the campus grounds.",
+                  "category": "cultural",
+                  "coords": [
+                        114.21261,
+                        22.426682
+                  ]
+            },
+            {
+                  "name": "Yim Tin Tsai & Ma Shi Chau SSSI",
+                  "text": "This protected nature reserve is designated as a Site of Special Scientific Interest to preserve its unique coastal geology.",
+                  "category": "natural",
+                  "coords": [
+                        114.221524,
+                        22.45014
+                  ]
+            },
+            {
+                  "name": "New Chapel to Theology Building",
+                  "text": "This Christian chapel provides a dedicated space for worship attached to the theology building.",
+                  "category": "landmark",
+                  "coords": [
+                        114.206239,
+                        22.417104
+                  ]
+            },
+            {
+                  "name": "Chung Chi College Chapel",
+                  "text": "This distinctive Christian chapel provides a spiritual focal point for the Chung Chi College campus community.",
+                  "category": "landmark",
+                  "coords": [
+                        114.207017,
+                        22.415981
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "industry",
     name: { de: "Hong Kong Science Park", hu: "Hongkongi Tudományos Park", ro: "Parcul Științific Hong Kong", en: "Hong Kong Science Park" },
@@ -363,7 +1416,52 @@ export const hongkongEconomicV2: POI[] = [
     image: "/poi-images/hongkong-bank-of-china-tower-economic-v2.webp",
   },
   {
-    id: "hongkong-hsbc-main-building-economic-v2",
+    id: "hongkong-hsbc-main-building-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Louise Bourgeois",
+                  "text": "Dieser Galerieraum präsentiert provokante skulpturale Exponate, die oft die surreale und emotional aufgeladene Kunst hervorheben, die für ihren Namensgeber steht.",
+                  "category": "museum",
+                  "coords": [
+                        114.157681,
+                        22.280249
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Louise Bourgeois",
+                  "text": "Ez a galériatér provokatív szobrászati kiállításokat mutat be, gyakran kiemelve a névadójával szinonim szürreális és érzelmileg töltött művészetet.",
+                  "category": "museum",
+                  "coords": [
+                        114.157681,
+                        22.280249
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Louise Bourgeois",
+                  "text": "Acest spațiu de galerie prezintă expoziții sculpturale provocatoare, evidențiind adesea arta suprarealistă și plină de emoție sinonimă cu omonimul său.",
+                  "category": "museum",
+                  "coords": [
+                        114.157681,
+                        22.280249
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Louise Bourgeois",
+                  "text": "This gallery space showcases provocative sculptural exhibits, often highlighting the surreal and emotionally charged art synonymous with its namesake.",
+                  "category": "museum",
+                  "coords": [
+                        114.157681,
+                        22.280249
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "tower",
     name: { de: "HSBC Main Building", hu: "HSBC főépület", ro: "Clădirea principală HSBC", en: "HSBC Main Building" },
@@ -453,7 +1551,124 @@ export const hongkongEconomicV2: POI[] = [
     image: "/poi-images/hongkong-exchange-square-economic-v2.webp",
   },
   {
-    id: "hongkong-convention-exhibition-centre-economic-v2",
+    id: "hongkong-convention-exhibition-centre-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Expo Promenade",
+                  "text": "Die 1997 eröffnete Expo Promenade bietet einen breiten gepflasterten Bereich für Spaziergänge am Wasser außerhalb des Kongresszentrums.",
+                  "category": "park",
+                  "coords": [
+                        114.172866,
+                        22.284444
+                  ]
+            },
+            {
+                  "name": "Golden Bauhinia Square",
+                  "text": "Der 1997 eingerichtete Golden Bauhinia Square zeigt eine vergoldete Blumenskulptur, die an die Übergabe Hongkongs erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        114.173794,
+                        22.284231
+                  ]
+            },
+            {
+                  "name": "Wan Chai Temporary Promenade",
+                  "text": "Die Wan Chai Temporary Promenade ist ein gepflasterter Küstenweg, der einen ungehinderten Blick auf den Bootsverkehr im Hafen bietet.",
+                  "category": "park",
+                  "coords": [
+                        114.177012,
+                        22.283188
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Expo Promenade",
+                  "text": "Az 1997-ből származó Expo Promenade egy széles, kikövezett területet kínál vízparti sétákhoz a kongresszusi központ előtt.",
+                  "category": "park",
+                  "coords": [
+                        114.172866,
+                        22.284444
+                  ]
+            },
+            {
+                  "name": "Golden Bauhinia Square",
+                  "text": "Az 1997-ben alapított Golden Bauhinia Square egy aranyozott virágszoborral rendelkezik, amely Hongkong átadását jelöli.",
+                  "category": "landmark",
+                  "coords": [
+                        114.173794,
+                        22.284231
+                  ]
+            },
+            {
+                  "name": "Wan Chai Temporary Promenade",
+                  "text": "A Wan Chai ideiglenes sétány egy kikövezett parti sétálóutca, amely akadálytalan kilátást nyújt a kikötő hajóforgalmára.",
+                  "category": "park",
+                  "coords": [
+                        114.177012,
+                        22.283188
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Expo Promenade",
+                  "text": "Datând din 1997, Promenada Expo oferă o zonă pavată largă pentru plimbări pe malul apei în afara centrului de convenții.",
+                  "category": "park",
+                  "coords": [
+                        114.172866,
+                        22.284444
+                  ]
+            },
+            {
+                  "name": "Golden Bauhinia Square",
+                  "text": "Înființată în 1997, Piața Golden Bauhinia prezintă o sculptură de floare aurită care marchează predarea Hong Kong-ului.",
+                  "category": "landmark",
+                  "coords": [
+                        114.173794,
+                        22.284231
+                  ]
+            },
+            {
+                  "name": "Wan Chai Temporary Promenade",
+                  "text": "Promenada temporară Wan Chai este o alee de coastă pavată care oferă vederi neobstrucționate asupra traficului de bărci din port.",
+                  "category": "park",
+                  "coords": [
+                        114.177012,
+                        22.283188
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Expo Promenade",
+                  "text": "Dating back to 1997, the Expo Promenade provides a wide paved area for waterfront strolls outside the convention centre.",
+                  "category": "park",
+                  "coords": [
+                        114.172866,
+                        22.284444
+                  ]
+            },
+            {
+                  "name": "Golden Bauhinia Square",
+                  "text": "Established in 1997, Golden Bauhinia Square features a gilded flower sculpture marking the handover of Hong Kong.",
+                  "category": "landmark",
+                  "coords": [
+                        114.173794,
+                        22.284231
+                  ]
+            },
+            {
+                  "name": "Wan Chai Temporary Promenade",
+                  "text": "Wan Chai Temporary Promenade is a paved coastal walkway offering unobstructed views of the harbour's boat traffic.",
+                  "category": "park",
+                  "coords": [
+                        114.177012,
+                        22.283188
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "landmark",
     name: { de: "HK Convention and Exhibition Centre", hu: "Hongkongi Kongresszusi és Kiállítási Központ", ro: "Centrul de Convenții și Expoziții HK", en: "HK Convention and Exhibition Centre" },
@@ -498,7 +1713,808 @@ export const hongkongEconomicV2: POI[] = [
     image: "/poi-images/hongkong-convention-exhibition-centre-economic-v2.webp",
   },
   {
-    id: "hongkong-tai-po-industrial-estate-economic-v2",
+    id: "hongkong-tai-po-industrial-estate-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cloudy Hill",
+                  "text": "Cloudy Hill ist ein Berggipfel, dessen steile Hänge Wanderern weite Ausblicke über die umliegenden Täler von Tai Po bieten.",
+                  "category": "natural",
+                  "coords": [
+                        114.170518,
+                        22.475892
+                  ]
+            },
+            {
+                  "name": "Tai Shan Mei",
+                  "text": "Tai Shan Mei ist ein markanter Berggipfel mit zerklüftetem, hochgelegenem Gelände, das einen Panoramablick über die Region Tai Po bietet.",
+                  "category": "natural",
+                  "coords": [
+                        114.172212,
+                        22.479154
+                  ]
+            },
+            {
+                  "name": "Hong Kong Museum of Education",
+                  "text": "Das Hong Kong Museum of Education zeigt die Geschichte und Entwicklung des Unterrichts anhand seiner Sammlung historischer Schulbücher und Klassenzimmer-Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        114.19491,
+                        22.468957
+                  ]
+            },
+            {
+                  "name": "Western Garden",
+                  "text": "Der Western Garden dient als erhöhter Aussichtspunkt, der den Besuchern einen freien Blick über die angelegten Grünflächen des Industriegebiets von Tai Po bietet.",
+                  "category": "natural",
+                  "coords": [
+                        114.180107,
+                        22.451262
+                  ]
+            },
+            {
+                  "name": "Tai Po Waterfront Park Lookout Tower",
+                  "text": "Der Tai Po Waterfront Park Lookout Tower ist eine markante, spiralförmige Aussichtsplattform, die einen weiten Blick über den Tolo Harbour gewährt.",
+                  "category": "natural",
+                  "coords": [
+                        114.180088,
+                        22.450194
+                  ]
+            },
+            {
+                  "name": "Sha Lo Tung SSSI",
+                  "text": "Sha Lo Tung ist ein ausgewiesenes Gebiet von besonderem wissenschaftlichen Interesse, das für seine Süßwassersümpfe als wichtiger Lebensraum für einheimische Libellen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        114.183288,
+                        22.478658
+                  ]
+            },
+            {
+                  "name": "Shuen Wan Egretry SSSI",
+                  "text": "Die Shuen Wan Egretry ist ein geschütztes Naturschutzgebiet mit dichten Küstenwäldern, das als wichtiger Nistplatz für wilde Silberreiher dient.",
+                  "category": "natural",
+                  "coords": [
+                        114.208626,
+                        22.463847
+                  ]
+            },
+            {
+                  "name": "Fung Yuen Butterfly Reserve",
+                  "text": "Das Fung Yuen Butterfly Reserve ist ein bewaldetes Naturschutzgebiet, das mit speziellen Nektarpflanzen bepflanzt ist, um verschiedene Schmetterlingsarten anzuziehen und zu schützen.",
+                  "category": "natural",
+                  "coords": [
+                        114.180799,
+                        22.467031
+                  ]
+            },
+            {
+                  "name": "Fung Yuen Valley SSSI",
+                  "text": "Das Fung Yuen Valley ist ein geschütztes ökologisches Gebiet, das sich durch seine üppigen, geschützten Schluchten auszeichnet, die seltene Flora und eine reiche Insektenvielfalt beherbergen.",
+                  "category": "natural",
+                  "coords": [
+                        114.178928,
+                        22.469663
+                  ]
+            },
+            {
+                  "name": "Fung Yuen Playground",
+                  "text": "Der Fung Yuen Playground ist ein offener Gemeindepark mit Freizeitflächen und gepflasterten Wegen vor der Kulisse bewaldeter Hügel.",
+                  "category": "park",
+                  "coords": [
+                        114.18019,
+                        22.459417
+                  ]
+            },
+            {
+                  "name": "Butterfly Valley Organic Farm",
+                  "text": "Die Butterfly Valley Organic Farm ist eine landwirtschaftliche Attraktion, auf der Besucher zwischen kultivierten Gemüsebeeten spazieren und etwas über nachhaltigen Anbau lernen können.",
+                  "category": "landmark",
+                  "coords": [
+                        114.181444,
+                        22.462317
+                  ]
+            },
+            {
+                  "name": "The 10th Anniversary of Hong Kong's Reunification Sculpture",
+                  "text": "Dieses markante Freiluftdenkmal besteht aus symbolischen Metallformen, die eigens zur Erinnerung an das erste Jahrzehnt der Wiedervereinigung Hongkongs errichtet wurden.",
+                  "category": "historical",
+                  "coords": [
+                        114.186675,
+                        22.45265
+                  ]
+            },
+            {
+                  "name": "Tai Po Waterfront Park",
+                  "text": "Der Tai Po Waterfront Park ist ein weitläufiges Erholungsgebiet entlang der Küste mit ausgedehnten Rasenflächen, Promenaden und Blumengärten.",
+                  "category": "park",
+                  "coords": [
+                        114.18232,
+                        22.451665
+                  ]
+            },
+            {
+                  "name": "Open Air Theatre",
+                  "text": "Dieses Freilichttheater verfügt über terrassenförmige Sitzplätze, die um eine zentrale Bühne angeordnet sind und für Gemeindevorführungen unter freiem Himmel konzipiert wurden.",
+                  "category": "cultural",
+                  "coords": [
+                        114.178775,
+                        22.451391
+                  ]
+            },
+            {
+                  "name": "The Church of Christ in China Tai Po Church Fu Shin Mission",
+                  "text": "Die Tai Po Church Fu Shin Mission ist eine aktive christliche Andachtsstätte, die dem örtlichen Wohngebiet mit Gottesdiensten und Gemeindesälen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        114.176716,
+                        22.455303
+                  ]
+            },
+            {
+                  "name": "Lam Muk On Hall",
+                  "text": "Die Lam Muk On Hall ist ein traditioneller Ahnenschrein mit klassischer Backsteinarchitektur, in dem einheimische Dorfbewohner Verehrungsrituale durchführen.",
+                  "category": "religious",
+                  "coords": [
+                        114.195147,
+                        22.472828
+                  ]
+            },
+            {
+                  "name": "Yip's Ancestral Hall",
+                  "text": "Die Yip's Ancestral Hall ist ein denkmalgeschütztes Gebäude mit zeremoniellen Altären, das vom Yip-Clan für Zusammenkünfte und Ahnenverehrung instand gehalten wird.",
+                  "category": "religious",
+                  "coords": [
+                        114.199654,
+                        22.472584
+                  ]
+            },
+            {
+                  "name": "Shuen Wan Temples",
+                  "text": "Der Komplex der Shuen Wan Temples umfasst traditionelle taoistische Heiligtumsgebäude, die mit Räucherspiralen und aufwendigen Dachschnitzereien geschmückt sind.",
+                  "category": "landmark",
+                  "coords": [
+                        114.204203,
+                        22.466941
+                  ]
+            },
+            {
+                  "name": "Cheung's Ancestor Hall",
+                  "text": "Die Cheung's Ancestor Hall ist ein kultureller Mittelpunkt für die lokale Cheung-Linie und verfügt über einen klassischen Altarraum zum Verbrennen von Weihrauch und zur Erweisung der Ehre.",
+                  "category": "religious",
+                  "coords": [
+                        114.202907,
+                        22.463575
+                  ]
+            },
+            {
+                  "name": "Mak's Ancestral Hall",
+                  "text": "Die Mak's Ancestral Hall ist ein traditioneller Ahnenschrein, in dem die lokale Familie Mak ihre genealogischen Aufzeichnungen aufbewahrt und saisonale Riten durchführt.",
+                  "category": "religious",
+                  "coords": [
+                        114.181479,
+                        22.464394
+                  ]
+            },
+            {
+                  "name": "Yip Ancestral Hall",
+                  "text": "Diese Yip Ancestral Hall dient als rustikales kommunales Anbetungszentrum, dessen Mittelpunkt eine Haupthalle bildet, in der die Nachkommen ihren Vorfahren Tribute darbringen.",
+                  "category": "religious",
+                  "coords": [
+                        114.179015,
+                        22.461105
+                  ]
+            },
+            {
+                  "name": "Sam Mun Tsai Pentacostal Holiness Church",
+                  "text": "Die Sam Mun Tsai Pentacostal Holiness Church ist ein lokales christliches Heiligtum, das der Dorfgemeinschaft eine eigene Gottesdiensthalle und religiöse Dienste bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        114.213833,
+                        22.457256
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cloudy Hill",
+                  "text": "A Cloudy Hill egy hegycsúcs, amelynek meredek lejtői tágas kilátást nyújtanak a Tai Po környéki völgyekre.",
+                  "category": "natural",
+                  "coords": [
+                        114.170518,
+                        22.475892
+                  ]
+            },
+            {
+                  "name": "Tai Shan Mei",
+                  "text": "A Tai Shan Mei egy kiemelkedő hegycsúcs, amelynek zord, magaslati terepe panorámás kilátást nyújt a Tai Po régióra.",
+                  "category": "natural",
+                  "coords": [
+                        114.172212,
+                        22.479154
+                  ]
+            },
+            {
+                  "name": "Hong Kong Museum of Education",
+                  "text": "A Hong Kong Museum of Education a tanítás történetét és fejlődését mutatja be történelmi tankönyvek és tantermi tárgyak gyűjteményén keresztül.",
+                  "category": "museum",
+                  "coords": [
+                        114.19491,
+                        22.468957
+                  ]
+            },
+            {
+                  "name": "Western Garden",
+                  "text": "A Western Garden egy megemelt kilátóhely, amely nyílt rálátást biztosít a látogatóknak a Tai Po ipari terület parkosított zöldterületeire.",
+                  "category": "natural",
+                  "coords": [
+                        114.180107,
+                        22.451262
+                  ]
+            },
+            {
+                  "name": "Tai Po Waterfront Park Lookout Tower",
+                  "text": "A Tai Po Waterfront Park Lookout Tower egy lenyűgöző, spirális kilátó, amely széleskörű kilátást nyújt a Tolo-kikötőre.",
+                  "category": "natural",
+                  "coords": [
+                        114.180088,
+                        22.450194
+                  ]
+            },
+            {
+                  "name": "Sha Lo Tung SSSI",
+                  "text": "A Sha Lo Tung egy különleges tudományos jelentőségű terület, amely az őshonos szitakötők számára létfontosságú élőhelyet biztosító édesvízi mocsarairól híres.",
+                  "category": "natural",
+                  "coords": [
+                        114.183288,
+                        22.478658
+                  ]
+            },
+            {
+                  "name": "Shuen Wan Egretry SSSI",
+                  "text": "A Shuen Wan Egretry egy védett természetvédelmi terület sűrű tengerparti erdőkkel, amely a vadon élő kócsagok fontos fészkelőhelyeként szolgál.",
+                  "category": "natural",
+                  "coords": [
+                        114.208626,
+                        22.463847
+                  ]
+            },
+            {
+                  "name": "Fung Yuen Butterfly Reserve",
+                  "text": "A Fung Yuen Butterfly Reserve egy erdős természetvédelmi terület, amelyet speciális nektárvirágokkal ültettek be, hogy vonzzák és védjék a különféle lepkefajokat.",
+                  "category": "natural",
+                  "coords": [
+                        114.180799,
+                        22.467031
+                  ]
+            },
+            {
+                  "name": "Fung Yuen Valley SSSI",
+                  "text": "A Fung Yuen Valley egy védett ökológiai terület, amelyet buja, védett szurdokok jellemeznek, amelyek ritka növényvilágnak és gazdag rovarbiodiverzitásnak adnak otthont.",
+                  "category": "natural",
+                  "coords": [
+                        114.178928,
+                        22.469663
+                  ]
+            },
+            {
+                  "name": "Fung Yuen Playground",
+                  "text": "A Fung Yuen Playground egy nyitott közösségi park szabadtéri rekreációs terekkel és kikövezett ösvényekkel, egy fás, dombos háttér előtt.",
+                  "category": "park",
+                  "coords": [
+                        114.18019,
+                        22.459417
+                  ]
+            },
+            {
+                  "name": "Butterfly Valley Organic Farm",
+                  "text": "A Butterfly Valley Organic Farm egy mezőgazdasági látványosság, ahol a látogatók a megművelt zöldségágyások között sétálhatnak és tanulhatnak a fenntartható gazdálkodásról.",
+                  "category": "landmark",
+                  "coords": [
+                        114.181444,
+                        22.462317
+                  ]
+            },
+            {
+                  "name": "The 10th Anniversary of Hong Kong's Reunification Sculpture",
+                  "text": "Ez a feltűnő szabadtéri emlékmű szimbolikus fémformákkal rendelkezik, amelyeket kifejezetten Hongkong újraegyesítésének első évtizede emlékére állítottak.",
+                  "category": "historical",
+                  "coords": [
+                        114.186675,
+                        22.45265
+                  ]
+            },
+            {
+                  "name": "Tai Po Waterfront Park",
+                  "text": "A Tai Po Waterfront Park egy part mentén elterülő hatalmas rekreációs terület, kiterjedt pázsittal, sétányokkal és virágoskertekkel.",
+                  "category": "park",
+                  "coords": [
+                        114.18232,
+                        22.451665
+                  ]
+            },
+            {
+                  "name": "Open Air Theatre",
+                  "text": "Ez a szabadtéri színház lépcsőzetes, központi színpad köré rendezett ülőhelyeket biztosít a szabad ég alatti közösségi előadásokhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        114.178775,
+                        22.451391
+                  ]
+            },
+            {
+                  "name": "The Church of Christ in China Tai Po Church Fu Shin Mission",
+                  "text": "A Tai Po Church Fu Shin Mission egy aktív keresztény istentiszteleti hely, amely istentiszteletekkel és közösségi termekkel szolgálja a helyi lakótelepet.",
+                  "category": "landmark",
+                  "coords": [
+                        114.176716,
+                        22.455303
+                  ]
+            },
+            {
+                  "name": "Lam Muk On Hall",
+                  "text": "A Lam Muk On Hall egy hagyományos ősi szentély klasszikus téglaépítészettel, ahol a helyi falusiak tiszteletadási rituálékat tartanak.",
+                  "category": "religious",
+                  "coords": [
+                        114.195147,
+                        22.472828
+                  ]
+            },
+            {
+                  "name": "Yip's Ancestral Hall",
+                  "text": "A Yip's Ancestral Hall egy dedikált örökségi épület szertartásos oltárokkal, amelyet a Yip klán tart fenn gyülekezésre és az ősök tiszteletére.",
+                  "category": "religious",
+                  "coords": [
+                        114.199654,
+                        22.472584
+                  ]
+            },
+            {
+                  "name": "Shuen Wan Temples",
+                  "text": "A Shuen Wan Temples komplexum hagyományos taoista szentélyépületeket foglal magában, amelyeket füstölőtekercsek és bonyolult tetőfaragványok díszítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        114.204203,
+                        22.466941
+                  ]
+            },
+            {
+                  "name": "Cheung's Ancestor Hall",
+                  "text": "A Cheung's Ancestor Hall a helyi Cheung vérvonal kulturális központja, amely klasszikus oltártérrel rendelkezik füstölők égetésére és a tiszteletadásra.",
+                  "category": "religious",
+                  "coords": [
+                        114.202907,
+                        22.463575
+                  ]
+            },
+            {
+                  "name": "Mak's Ancestral Hall",
+                  "text": "A Mak's Ancestral Hall egy hagyományos nemzetségi szentély, ahol a helyi Mak család őrzi genealógiai feljegyzéseit és szezonális rítusokat tart.",
+                  "category": "religious",
+                  "coords": [
+                        114.181479,
+                        22.464394
+                  ]
+            },
+            {
+                  "name": "Yip Ancestral Hall",
+                  "text": "Ez a Yip Ancestral Hall rusztikus közösségi istentiszteleti központként szolgál, egy főcsarnok köré épülve, ahol a leszármazottak tisztelegnek őseik előtt.",
+                  "category": "religious",
+                  "coords": [
+                        114.179015,
+                        22.461105
+                  ]
+            },
+            {
+                  "name": "Sam Mun Tsai Pentacostal Holiness Church",
+                  "text": "A Sam Mun Tsai Pentacostal Holiness Church egy helyi keresztény szentély, amely dedikált istentiszteleti termet és vallási szolgáltatásokat nyújt a faluközösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        114.213833,
+                        22.457256
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cloudy Hill",
+                  "text": "Cloudy Hill este un vârf montan ale cărui pante abrupte oferă drumeților priveliști largi asupra văilor din împrejurimile Tai Po.",
+                  "category": "natural",
+                  "coords": [
+                        114.170518,
+                        22.475892
+                  ]
+            },
+            {
+                  "name": "Tai Shan Mei",
+                  "text": "Tai Shan Mei este un vârf montan proeminent cu un teren accidentat, înalt, care oferă vederi panoramice asupra regiunii Tai Po.",
+                  "category": "natural",
+                  "coords": [
+                        114.172212,
+                        22.479154
+                  ]
+            },
+            {
+                  "name": "Hong Kong Museum of Education",
+                  "text": "Hong Kong Museum of Education prezintă istoria și dezvoltarea predării prin colecția sa de manuale istorice și artefacte din sălile de clasă.",
+                  "category": "museum",
+                  "coords": [
+                        114.19491,
+                        22.468957
+                  ]
+            },
+            {
+                  "name": "Western Garden",
+                  "text": "Western Garden servește drept punct de belvedere înalt, oferind vizitatorilor o priveliște deschisă asupra spațiilor verzi amenajate din zona industrială Tai Po.",
+                  "category": "natural",
+                  "coords": [
+                        114.180107,
+                        22.451262
+                  ]
+            },
+            {
+                  "name": "Tai Po Waterfront Park Lookout Tower",
+                  "text": "Turnul de observație Tai Po Waterfront Park este o platformă panoramică spectaculoasă, în formă de spirală, care oferă vederi extinse asupra portului Tolo.",
+                  "category": "natural",
+                  "coords": [
+                        114.180088,
+                        22.450194
+                  ]
+            },
+            {
+                  "name": "Sha Lo Tung SSSI",
+                  "text": "Sha Lo Tung este un sit de interes științific special, renumit pentru mlaștinile sale de apă dulce care oferă un habitat critic pentru libelulele native.",
+                  "category": "natural",
+                  "coords": [
+                        114.183288,
+                        22.478658
+                  ]
+            },
+            {
+                  "name": "Shuen Wan Egretry SSSI",
+                  "text": "Shuen Wan Egretry este o rezervație naturală protejată, cu păduri de coastă dese, care servește drept zonă importantă de cuibărit pentru egretele sălbatice.",
+                  "category": "natural",
+                  "coords": [
+                        114.208626,
+                        22.463847
+                  ]
+            },
+            {
+                  "name": "Fung Yuen Butterfly Reserve",
+                  "text": "Fung Yuen Butterfly Reserve este o arie de conservare împădurită, plantată cu flori de nectar specifice pentru a atrage și proteja diverse specii de fluturi.",
+                  "category": "natural",
+                  "coords": [
+                        114.180799,
+                        22.467031
+                  ]
+            },
+            {
+                  "name": "Fung Yuen Valley SSSI",
+                  "text": "Valea Fung Yuen este un sit ecologic protejat, caracterizat de ravene luxuriante și adăpostite care găzduiesc o floră rară și o bogată biodiversitate de insecte.",
+                  "category": "natural",
+                  "coords": [
+                        114.178928,
+                        22.469663
+                  ]
+            },
+            {
+                  "name": "Fung Yuen Playground",
+                  "text": "Fung Yuen Playground este un parc comunitar deschis, echipat cu spații de recreere în aer liber și alei pavate, așezat pe un fundal colinar împădurit.",
+                  "category": "park",
+                  "coords": [
+                        114.18019,
+                        22.459417
+                  ]
+            },
+            {
+                  "name": "Butterfly Valley Organic Farm",
+                  "text": "Butterfly Valley Organic Farm este o atracție agricolă unde vizitatorii pot merge printre straturile de legume cultivate și pot învăța despre agricultura durabilă.",
+                  "category": "landmark",
+                  "coords": [
+                        114.181444,
+                        22.462317
+                  ]
+            },
+            {
+                  "name": "The 10th Anniversary of Hong Kong's Reunification Sculpture",
+                  "text": "Acest monument impresionant în aer liber prezintă forme simbolice din metal, ridicate special pentru a comemora primul deceniu de la reunificarea Hong Kong-ului.",
+                  "category": "historical",
+                  "coords": [
+                        114.186675,
+                        22.45265
+                  ]
+            },
+            {
+                  "name": "Tai Po Waterfront Park",
+                  "text": "Tai Po Waterfront Park este un spațiu de recreere întins de-a lungul coastei, care include peluze vaste, promenade și grădini cu flori.",
+                  "category": "park",
+                  "coords": [
+                        114.18232,
+                        22.451665
+                  ]
+            },
+            {
+                  "name": "Open Air Theatre",
+                  "text": "Acest teatru în aer liber oferă locuri așezate în trepte în jurul unei scene centrale, concepute pentru spectacole comunitare sub cerul liber.",
+                  "category": "cultural",
+                  "coords": [
+                        114.178775,
+                        22.451391
+                  ]
+            },
+            {
+                  "name": "The Church of Christ in China Tai Po Church Fu Shin Mission",
+                  "text": "Misiunea Tai Po Church Fu Shin este un lăcaș de cult creștin activ care servește cartierul local cu slujbe religioase și săli comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        114.176716,
+                        22.455303
+                  ]
+            },
+            {
+                  "name": "Lam Muk On Hall",
+                  "text": "Sala Lam Muk On este un altar tradițional ancestral, cu o arhitectură clasică din cărămidă, unde sătenii locali desfășoară ritualuri de venerație.",
+                  "category": "religious",
+                  "coords": [
+                        114.195147,
+                        22.472828
+                  ]
+            },
+            {
+                  "name": "Yip's Ancestral Hall",
+                  "text": "Sala Ancestrală Yip este o clădire de patrimoniu cu altare ceremoniale, întreținută de clanul Yip pentru adunări și venerarea strămoșilor.",
+                  "category": "religious",
+                  "coords": [
+                        114.199654,
+                        22.472584
+                  ]
+            },
+            {
+                  "name": "Shuen Wan Temples",
+                  "text": "Complexul de temple Shuen Wan cuprinde clădiri tradiționale de sanctuare taoiste, împodobite cu spirale de tămâie și sculpturi complicate pe acoperiș.",
+                  "category": "landmark",
+                  "coords": [
+                        114.204203,
+                        22.466941
+                  ]
+            },
+            {
+                  "name": "Cheung's Ancestor Hall",
+                  "text": "Sala Strămoșilor Cheung este un punct central cultural pentru filiația locală Cheung, prezentând un spațiu clasic de altar pentru arderea tămâiei și prezentarea respectului.",
+                  "category": "religious",
+                  "coords": [
+                        114.202907,
+                        22.463575
+                  ]
+            },
+            {
+                  "name": "Mak's Ancestral Hall",
+                  "text": "Sala Ancestrală Mak este un altar tradițional de neam, unde familia locală Mak își păstrează înregistrările genealogice și desfășoară rituri sezoniere.",
+                  "category": "religious",
+                  "coords": [
+                        114.181479,
+                        22.464394
+                  ]
+            },
+            {
+                  "name": "Yip Ancestral Hall",
+                  "text": "Această Sală Ancestrală Yip servește drept centru de cult comunal rustic, centrat în jurul unei săli principale unde descendenții aduc omagii strămoșilor lor.",
+                  "category": "religious",
+                  "coords": [
+                        114.179015,
+                        22.461105
+                  ]
+            },
+            {
+                  "name": "Sam Mun Tsai Pentacostal Holiness Church",
+                  "text": "Biserica Penticostală a Sfințeniei Sam Mun Tsai este un sanctuar creștin local care oferă o sală de cult dedicată și servicii religioase comunității satului.",
+                  "category": "landmark",
+                  "coords": [
+                        114.213833,
+                        22.457256
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cloudy Hill",
+                  "text": "Cloudy Hill is a mountain peak whose steep slopes offer hikers sweeping views over the surrounding valleys of Tai Po.",
+                  "category": "natural",
+                  "coords": [
+                        114.170518,
+                        22.475892
+                  ]
+            },
+            {
+                  "name": "Tai Shan Mei",
+                  "text": "Tai Shan Mei is a prominent mountain peak featuring a rugged, elevated terrain that provides panoramic views over the Tai Po region.",
+                  "category": "natural",
+                  "coords": [
+                        114.172212,
+                        22.479154
+                  ]
+            },
+            {
+                  "name": "Hong Kong Museum of Education",
+                  "text": "The Hong Kong Museum of Education showcases the history and development of teaching through its collection of historical textbooks and classroom artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        114.19491,
+                        22.468957
+                  ]
+            },
+            {
+                  "name": "Western Garden",
+                  "text": "Western Garden serves as an elevated scenic viewpoint offering visitors an open vantage point over the landscaped grounds of the Tai Po industrial area.",
+                  "category": "natural",
+                  "coords": [
+                        114.180107,
+                        22.451262
+                  ]
+            },
+            {
+                  "name": "Tai Po Waterfront Park Lookout Tower",
+                  "text": "The Tai Po Waterfront Park Lookout Tower is a striking, spiraling observation deck that grants expansive views across Tolo Harbour.",
+                  "category": "natural",
+                  "coords": [
+                        114.180088,
+                        22.450194
+                  ]
+            },
+            {
+                  "name": "Sha Lo Tung SSSI",
+                  "text": "Sha Lo Tung is a designated Site of Special Scientific Interest renowned for its freshwater marshlands that provide a critical habitat for native dragonflies.",
+                  "category": "natural",
+                  "coords": [
+                        114.183288,
+                        22.478658
+                  ]
+            },
+            {
+                  "name": "Shuen Wan Egretry SSSI",
+                  "text": "The Shuen Wan Egretry is a protected nature reserve featuring dense coastal woodlands that serve as an important nesting ground for wild egrets.",
+                  "category": "natural",
+                  "coords": [
+                        114.208626,
+                        22.463847
+                  ]
+            },
+            {
+                  "name": "Fung Yuen Butterfly Reserve",
+                  "text": "Fung Yuen Butterfly Reserve is a forested conservation area planted with specific nectar flowers to attract and protect diverse butterfly species.",
+                  "category": "natural",
+                  "coords": [
+                        114.180799,
+                        22.467031
+                  ]
+            },
+            {
+                  "name": "Fung Yuen Valley SSSI",
+                  "text": "Fung Yuen Valley is a protected ecological site characterized by its lush, sheltered ravines that harbor rare flora and rich insect biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        114.178928,
+                        22.469663
+                  ]
+            },
+            {
+                  "name": "Fung Yuen Playground",
+                  "text": "Fung Yuen Playground is an open community park equipped with outdoor recreational spaces and paved paths set against a wooded, hilly backdrop.",
+                  "category": "park",
+                  "coords": [
+                        114.18019,
+                        22.459417
+                  ]
+            },
+            {
+                  "name": "Butterfly Valley Organic Farm",
+                  "text": "Butterfly Valley Organic Farm is an agricultural attraction where visitors can walk among cultivated vegetable patches and learn about sustainable farming.",
+                  "category": "landmark",
+                  "coords": [
+                        114.181444,
+                        22.462317
+                  ]
+            },
+            {
+                  "name": "The 10th Anniversary of Hong Kong's Reunification Sculpture",
+                  "text": "This striking outdoor monument features symbolic metalwork forms erected specifically to commemorate the first decade of Hong Kong's reunification.",
+                  "category": "historical",
+                  "coords": [
+                        114.186675,
+                        22.45265
+                  ]
+            },
+            {
+                  "name": "Tai Po Waterfront Park",
+                  "text": "Tai Po Waterfront Park is a sprawling recreational space spread along the coastline, featuring extensive lawns, promenades, and floral gardens.",
+                  "category": "park",
+                  "coords": [
+                        114.18232,
+                        22.451665
+                  ]
+            },
+            {
+                  "name": "Open Air Theatre",
+                  "text": "This open-air theatre provides tiered outdoor seating arranged around a central stage, designed for community performances under the open sky.",
+                  "category": "cultural",
+                  "coords": [
+                        114.178775,
+                        22.451391
+                  ]
+            },
+            {
+                  "name": "The Church of Christ in China Tai Po Church Fu Shin Mission",
+                  "text": "The Tai Po Church Fu Shin Mission is an active Christian place of worship that serves the local estate with religious services and community halls.",
+                  "category": "landmark",
+                  "coords": [
+                        114.176716,
+                        22.455303
+                  ]
+            },
+            {
+                  "name": "Lam Muk On Hall",
+                  "text": "Lam Muk On Hall is a traditional ancestral shrine featuring classic brick architecture where local villagers conduct veneration rituals.",
+                  "category": "religious",
+                  "coords": [
+                        114.195147,
+                        22.472828
+                  ]
+            },
+            {
+                  "name": "Yip's Ancestral Hall",
+                  "text": "Yip's Ancestral Hall is a dedicated heritage building with ceremonial altars maintained by the Yip clan for gathering and ancestral worship.",
+                  "category": "religious",
+                  "coords": [
+                        114.199654,
+                        22.472584
+                  ]
+            },
+            {
+                  "name": "Shuen Wan Temples",
+                  "text": "The Shuen Wan Temples complex comprises traditional Taoist sanctuary buildings adorned with incense coils and intricate roof carvings.",
+                  "category": "landmark",
+                  "coords": [
+                        114.204203,
+                        22.466941
+                  ]
+            },
+            {
+                  "name": "Cheung's Ancestor Hall",
+                  "text": "Cheung's Ancestor Hall is a cultural focal point for the local Cheung lineage, featuring a classic altar space for burning incense and paying respects.",
+                  "category": "religious",
+                  "coords": [
+                        114.202907,
+                        22.463575
+                  ]
+            },
+            {
+                  "name": "Mak's Ancestral Hall",
+                  "text": "Mak's Ancestral Hall is a customary lineage shrine where the local Mak family preserves their genealogical records and conducts seasonal rites.",
+                  "category": "religious",
+                  "coords": [
+                        114.181479,
+                        22.464394
+                  ]
+            },
+            {
+                  "name": "Yip Ancestral Hall",
+                  "text": "This Yip Ancestral Hall serves as a rustic communal worship center, centered around a main hall where descendants offer tributes to their forebears.",
+                  "category": "religious",
+                  "coords": [
+                        114.179015,
+                        22.461105
+                  ]
+            },
+            {
+                  "name": "Sam Mun Tsai Pentacostal Holiness Church",
+                  "text": "The Sam Mun Tsai Pentacostal Holiness Church is a local Christian sanctuary providing a dedicated worship hall and religious services to the village community.",
+                  "category": "landmark",
+                  "coords": [
+                        114.213833,
+                        22.457256
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "industry",
     name: { de: "Tai Po Industrial Estate", hu: "Tai Po ipari negyed", ro: "Zona industrială Tai Po", en: "Tai Po Industrial Estate" },
@@ -543,7 +2559,160 @@ export const hongkongEconomicV2: POI[] = [
     image: "/poi-images/hongkong-tai-po-industrial-estate-economic-v2.webp",
   },
   {
-    id: "hongkong-yuen-long-industrial-estate-economic-v2",
+    id: "hongkong-yuen-long-industrial-estate-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tsim Bei Tsui SSSI",
+                  "text": "Die Tsim Bei Tsui Site of Special Scientific Interest schützt wichtige Mangrovensümpfe und Wattflächen, die Zugvögeln als Lebensraum dienen.",
+                  "category": "natural",
+                  "coords": [
+                        114.010601,
+                        22.486268
+                  ]
+            },
+            {
+                  "name": "Tsim Bei Tsui Lookout",
+                  "text": "Der Aussichtspunkt Tsim Bei Tsui bietet einen weiten Panoramablick über die Deep Bay auf die moderne Skyline von Shenzhen.",
+                  "category": "natural",
+                  "coords": [
+                        114.008806,
+                        22.484863
+                  ]
+            },
+            {
+                  "name": "Tsim Bei Tsui Egretry SSSI",
+                  "text": "Dieses geschützte Naturschutzgebiet ist speziell für den Erhalt einer großen Nistkolonie von Reihern und Silberreihern ausgewiesen.",
+                  "category": "natural",
+                  "coords": [
+                        114.007793,
+                        22.478823
+                  ]
+            },
+            {
+                  "name": "Tin Hau Temple",
+                  "text": "Der historische Tin-Hau-Tempel ist der chinesischen Göttin des Meeres gewidmet und bietet den Küstenbewohnern spirituellen Schutz.",
+                  "category": "religious",
+                  "coords": [
+                        114.019569,
+                        22.464817
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tsim Bei Tsui SSSI",
+                  "text": "A Tsim Bei Tsui Különleges Tudományos Jelentőségű Terület olyan kulcsfontosságú mangrovemocsarakat és iszaplapályokat véd, amelyek vándormadarak élőhelyéül szolgálnak.",
+                  "category": "natural",
+                  "coords": [
+                        114.010601,
+                        22.486268
+                  ]
+            },
+            {
+                  "name": "Tsim Bei Tsui Lookout",
+                  "text": "A Tsim Bei Tsui kilátó széles panorámát nyújt a Deep Bay felett Sencsen modern látképére.",
+                  "category": "natural",
+                  "coords": [
+                        114.008806,
+                        22.484863
+                  ]
+            },
+            {
+                  "name": "Tsim Bei Tsui Egretry SSSI",
+                  "text": "Ezt a védett természetvédelmi területet kifejezetten a kócsagok és gémek jelentős fészkelőkolóniájának megőrzésére jelölték ki.",
+                  "category": "natural",
+                  "coords": [
+                        114.007793,
+                        22.478823
+                  ]
+            },
+            {
+                  "name": "Tin Hau Temple",
+                  "text": "A történelmi Tin Hau templomot a kínai tengeristennőnek szentelték, spirituális védelmet nyújtva a part menti falvak lakóinak.",
+                  "category": "religious",
+                  "coords": [
+                        114.019569,
+                        22.464817
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tsim Bei Tsui SSSI",
+                  "text": "Situl de Interes Științific Special Tsim Bei Tsui protejează mlaștinile de mangrove și vadiurile noroioase cruciale, care servesc drept habitate pentru păsările migratoare.",
+                  "category": "natural",
+                  "coords": [
+                        114.010601,
+                        22.486268
+                  ]
+            },
+            {
+                  "name": "Tsim Bei Tsui Lookout",
+                  "text": "Punctul de belvedere Tsim Bei Tsui oferă vederi panoramice ample peste Golful Deep către orizontul modern al orașului Shenzhen.",
+                  "category": "natural",
+                  "coords": [
+                        114.008806,
+                        22.484863
+                  ]
+            },
+            {
+                  "name": "Tsim Bei Tsui Egretry SSSI",
+                  "text": "Această rezervație naturală protejată este desemnată special pentru a conserva o colonie majoră de cuibărit a egretelor și stârcilor.",
+                  "category": "natural",
+                  "coords": [
+                        114.007793,
+                        22.478823
+                  ]
+            },
+            {
+                  "name": "Tin Hau Temple",
+                  "text": "Istoricul Templu Tin Hau este dedicat zeiței chineze a mării, oferind sătenilor de pe coastă protecție spirituală.",
+                  "category": "religious",
+                  "coords": [
+                        114.019569,
+                        22.464817
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tsim Bei Tsui SSSI",
+                  "text": "The Tsim Bei Tsui Site of Special Scientific Interest protects crucial mangrove swamps and mudflats that serve as habitats for migratory birds.",
+                  "category": "natural",
+                  "coords": [
+                        114.010601,
+                        22.486268
+                  ]
+            },
+            {
+                  "name": "Tsim Bei Tsui Lookout",
+                  "text": "Tsim Bei Tsui Lookout offers sweeping panoramic views across Deep Bay toward the modern skyline of Shenzhen.",
+                  "category": "natural",
+                  "coords": [
+                        114.008806,
+                        22.484863
+                  ]
+            },
+            {
+                  "name": "Tsim Bei Tsui Egretry SSSI",
+                  "text": "This protected nature reserve is specifically designated to preserve a major nesting colony of egrets and herons.",
+                  "category": "natural",
+                  "coords": [
+                        114.007793,
+                        22.478823
+                  ]
+            },
+            {
+                  "name": "Tin Hau Temple",
+                  "text": "The historic Tin Hau Temple is dedicated to the Chinese Goddess of the Sea, offering coastal villagers spiritual protection.",
+                  "category": "religious",
+                  "coords": [
+                        114.019569,
+                        22.464817
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "industry",
     name: { de: "Yuen Long Industrial Estate", hu: "Yuen Long ipari negyed", ro: "Zona industrială Yuen Long", en: "Yuen Long Industrial Estate" },
@@ -588,7 +2757,160 @@ export const hongkongEconomicV2: POI[] = [
     image: "/poi-images/hongkong-yuen-long-industrial-estate-economic-v2.webp",
   },
   {
-    id: "hongkong-tseung-kwan-o-industrial-estate-economic-v2",
+    id: "hongkong-tseung-kwan-o-industrial-estate-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fat Tau Chau",
+                  "text": "Ein Küstenleuchtturm, der den Schiffsverkehr in der Nähe des Industriegebiets Tseung Kwan O leitet.",
+                  "category": "landmark",
+                  "coords": [
+                        114.265817,
+                        22.2741
+                  ]
+            },
+            {
+                  "name": "Site of Chinese Customs Station, Fat Tong Chau",
+                  "text": "Die historischen Steinüberreste eines ehemaligen chinesischen Zollaußenpostens auf der Insel Fat Tong Chau.",
+                  "category": "historical",
+                  "coords": [
+                        114.26728,
+                        22.279682
+                  ]
+            },
+            {
+                  "name": "Junk Bay",
+                  "text": "Eine natürliche Bucht, historisch als Tseung Kwan O bekannt, die von modernen Industrie- und Wohngebieten umgeben ist.",
+                  "category": "landmark",
+                  "coords": [
+                        114.258662,
+                        22.289072
+                  ]
+            },
+            {
+                  "name": "The Park",
+                  "text": "Ein landschaftlich gestalteter grüner Erholungsraum, der zur dicht besiedelten Wohnanlage LOHAS Park gehört.",
+                  "category": "park",
+                  "coords": [
+                        114.271209,
+                        22.29395
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fat Tau Chau",
+                  "text": "A tengeri forgalmat irányító partmenti világítótorony a Tseung Kwan O ipari park közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        114.265817,
+                        22.2741
+                  ]
+            },
+            {
+                  "name": "Site of Chinese Customs Station, Fat Tong Chau",
+                  "text": "Egykori kínai vámállomás történelmi kőmaradványai Fat Tong Chau szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        114.26728,
+                        22.279682
+                  ]
+            },
+            {
+                  "name": "Junk Bay",
+                  "text": "Egy természetes öböl, történelmi nevén Tseung Kwan O, amelyet modern ipari és lakóövezetek vesznek körül.",
+                  "category": "landmark",
+                  "coords": [
+                        114.258662,
+                        22.289072
+                  ]
+            },
+            {
+                  "name": "The Park",
+                  "text": "A sűrűn lakott LOHAS Park lakóparkhoz tartozó, parkosított zöld rekreációs terület.",
+                  "category": "park",
+                  "coords": [
+                        114.271209,
+                        22.29395
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fat Tau Chau",
+                  "text": "Un far de navigație de coastă care ghidează traficul maritim în apropierea zonei industriale Tseung Kwan O.",
+                  "category": "landmark",
+                  "coords": [
+                        114.265817,
+                        22.2741
+                  ]
+            },
+            {
+                  "name": "Site of Chinese Customs Station, Fat Tong Chau",
+                  "text": "Rămășițele istorice de piatră ale unui fost post vamal chinezesc situat pe insula Fat Tong Chau.",
+                  "category": "historical",
+                  "coords": [
+                        114.26728,
+                        22.279682
+                  ]
+            },
+            {
+                  "name": "Junk Bay",
+                  "text": "Un golf natural, cunoscut istoric sub numele de Tseung Kwan O, înconjurat de dezvoltări industriale și rezidențiale moderne.",
+                  "category": "landmark",
+                  "coords": [
+                        114.258662,
+                        22.289072
+                  ]
+            },
+            {
+                  "name": "The Park",
+                  "text": "Un spațiu de recreere verde amenajat, care deservește ansamblul rezidențial dens populat LOHAS Park.",
+                  "category": "park",
+                  "coords": [
+                        114.271209,
+                        22.29395
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fat Tau Chau",
+                  "text": "A coastal navigational lighthouse structure guiding maritime traffic near the Tseung Kwan O Industrial Estate.",
+                  "category": "landmark",
+                  "coords": [
+                        114.265817,
+                        22.2741
+                  ]
+            },
+            {
+                  "name": "Site of Chinese Customs Station, Fat Tong Chau",
+                  "text": "The historical stone remnants of a former Chinese customs outpost situated on the island of Fat Tong Chau.",
+                  "category": "historical",
+                  "coords": [
+                        114.26728,
+                        22.279682
+                  ]
+            },
+            {
+                  "name": "Junk Bay",
+                  "text": "A natural inlet of water, historically known as Tseung Kwan O, surrounded by modern industrial and residential developments.",
+                  "category": "landmark",
+                  "coords": [
+                        114.258662,
+                        22.289072
+                  ]
+            },
+            {
+                  "name": "The Park",
+                  "text": "A landscaped green recreation space serving the densely populated LOHAS Park residential development.",
+                  "category": "park",
+                  "coords": [
+                        114.271209,
+                        22.29395
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "industry",
     name: { de: "Tseung Kwan O Industrial Estate", hu: "Tseung Kwan O ipari negyed", ro: "Zona industrială Tseung Kwan O", en: "Tseung Kwan O Industrial Estate" },
@@ -691,7 +3013,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Hong Kong Science Museum",
-                  "text": "Das Hong Kong Science Museum ist ein interaktives Wissenschaftsmuseum in Causeway Bay.",
+                  "text": "Das Hong Kong Science Museum in Causeway Bay zeigt eine riesige kinetische Energieskulptur.",
                   "category": "museum",
                   "coords": [
                         114.177597,
@@ -727,7 +3049,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Hong Kong Visual Arts Centre",
-                  "text": "Das Hong Kong Visual Arts Centre ist ein Kunstmuseum in Causeway Bay.",
+                  "text": "Das Hong Kong Visual Arts Centre in Causeway Bay ist in einem historischen ehemaligen Schulgebäude untergebracht.",
                   "category": "museum",
                   "coords": [
                         114.159372,
@@ -736,7 +3058,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "City Gallery in Causeway Bay",
-                  "text": "Die City Gallery in Causeway Bay ist ein Museum zur Stadtplanung.",
+                  "text": "Die City Gallery in Causeway Bay widmet sich Ausstellungen zur Stadtplanung und Infrastruktur.",
                   "category": "museum",
                   "coords": [
                         114.162189,
@@ -745,7 +3067,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Health Education Exhibition and Resource Centre",
-                  "text": "Das Health Education Exhibition and Resource Centre ist ein Museum in Causeway Bay.",
+                  "text": "Das Health Education Exhibition and Resource Centre in Causeway Bay bietet interaktive Gesundheitsdisplays.",
                   "category": "museum",
                   "coords": [
                         114.171463,
@@ -754,7 +3076,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Hong Kong Space Museum",
-                  "text": "Das Hong Kong Space Museum ist ein Planetarium und Weltraummuseum in Causeway Bay.",
+                  "text": "Das Hong Kong Space Museum in Causeway Bay ist für sein Planetarium und seine Weltraumausstellung bekannt.",
                   "category": "museum",
                   "coords": [
                         114.17187,
@@ -763,7 +3085,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "ehemalige Hauptquartier der Marinepolizei in Causeway Bay",
-                  "text": "Das ehemalige Hauptquartier der Marinepolizei in Causeway Bay ist ein historisches Denkmal.",
+                  "text": "Der ehemalige Marinepolizei-Hauptquartier-Komplex in Causeway Bay ist heute ein Einkaufs- und Gastronomiezentrum.",
                   "category": "historical",
                   "coords": [
                         114.169959,
@@ -781,7 +3103,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Sunbeam Theatre",
-                  "text": "Das Sunbeam Theatre ist ein bekanntes Theater in Causeway Bay.",
+                  "text": "Das Sunbeam Theatre in Causeway Bay ist auf Kantonesische Oper spezialisiert.",
                   "category": "cultural",
                   "coords": [
                         114.199979,
@@ -799,7 +3121,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Hong Kong Arts Centre",
-                  "text": "Das Hong Kong Arts Centre ist ein Zentrum für zeitgenössische Kunst in Causeway Bay.",
+                  "text": "Das Hong Kong Arts Centre in Causeway Bay veranstaltet zeitgenössische Kunstausstellungen.",
                   "category": "cultural",
                   "coords": [
                         114.170814,
@@ -808,7 +3130,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "China Congregational Church",
-                  "text": "Die China Congregational Church ist eine historische Kirche in Causeway Bay.",
+                  "text": "Die CCC China Congregational Church in Causeway Bay hat eine markante modernistische Fassade.",
                   "category": "religious",
                   "coords": [
                         114.186143,
@@ -826,7 +3148,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Tung Lin Kok Yuen",
-                  "text": "Tung Lin Kok Yuen ist ein buddhistischer Tempel in Causeway Bay.",
+                  "text": "Tung Lin Kok Yuen ist ein buddhistisches Nonnenkloster in Causeway Bay, bekannt für seine ruhigen Gärten.",
                   "category": "religious",
                   "coords": [
                         114.185609,
@@ -835,7 +3157,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "St. Mary's Church in Causeway Bay",
-                  "text": "Die St. Mary's Church in Causeway Bay ist eine religiöse Stätte.",
+                  "text": "Die St. Mary's Church Hung Hom in Causeway Bay diente ursprünglich der portugiesischen Gemeinde.",
                   "category": "religious",
                   "coords": [
                         114.188233,
@@ -853,7 +3175,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Hong Kong Sheng Kung Hui",
-                  "text": "Die Hong Kong Sheng Kung Hui ist die anglikanische Kirchengemeinde in Causeway Bay.",
+                  "text": "Anglikanische Kirche in Causeway Bay mit markanter roter Backsteinfassade.",
                   "category": "religious",
                   "coords": [
                         114.155743,
@@ -862,7 +3184,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Masjid Ammar und Osman Ramju Sadick Islamic Centre",
-                  "text": "Das Masjid Ammar und Osman Ramju Sadick Islamic Centre ist eine Moschee in Causeway Bay.",
+                  "text": "Die Masjid Ammar und das Osman Ramju Sadick Islamic Centre in Causeway Bay ist die größte Moschee Hongkongs.",
                   "category": "religious",
                   "coords": [
                         114.178838,
@@ -871,7 +3193,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Lin Fa Tempel",
-                  "text": "Der Lin Fa Tempel ist ein historischer Tempel in Causeway Bay.",
+                  "text": "Der Lin Fa Tempel in Causeway Bay ist ein taoistischer Tempel, der der Göttin der Barmherzigkeit geweiht ist.",
                   "category": "religious",
                   "coords": [
                         114.192914,
@@ -880,7 +3202,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Pak Tai Tempel in Wan Chai",
-                  "text": "Der Pak Tai Tempel in Wan Chai ist eine religiöse Stätte in Causeway Bay.",
+                  "text": "Der Pak Tai Tempel in Causeway Bay ist ein historischer taoistischer Tempel.",
                   "category": "religious",
                   "coords": [
                         114.173819,
@@ -889,7 +3211,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Symphony of Lights",
-                  "text": "Die Symphony of Lights ist eine bekannte Lichtshow in Causeway Bay.",
+                  "text": "Die Symphony of Lights ist eine nächtliche Lichtshow auf Gebäuden entlang des Victoria Harbour, sichtbar von Causeway Bay.",
                   "category": "landmark",
                   "coords": [
                         114.167647,
@@ -898,7 +3220,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Knutsford Terrace",
-                  "text": "Knutsford Terrace ist eine belebte Straße in Causeway Bay.",
+                  "text": "Die Knutsford Terrace in Causeway Bay ist berühmt für ihr Nachtleben und ihre vielfältige Küche.",
                   "category": "landmark",
                   "coords": [
                         114.173088,
@@ -925,7 +3247,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Wanchai Market",
-                  "text": "Der Wanchai Market ist ein traditioneller Markt in Causeway Bay.",
+                  "text": "Der Wanchai Market in Causeway Bay ist ein traditioneller Nassmarkt in einem Bauhaus-Gebäude.",
                   "category": "landmark",
                   "coords": [
                         114.173676,
@@ -934,7 +3256,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Jardine's Lookout",
-                  "text": "Jardine's Lookout ist ein beliebter Aussichtspunkt in Causeway Bay.",
+                  "text": "Jardine's Lookout ist ein Hügel in Causeway Bay, benannt nach der Familie Jardine, mit Blick auf den Hafen.",
                   "category": "natural",
                   "coords": [
                         114.198333,
@@ -943,7 +3265,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Mount Nicholson",
-                  "text": "Mount Nicholson ist ein bekannter Berg in Causeway Bay.",
+                  "text": "Mount Nicholson ist ein Hügel in Causeway Bay, eines der exklusivsten Wohnviertel Hongkongs.",
                   "category": "natural",
                   "coords": [
                         114.185698,
@@ -952,7 +3274,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Hung Heung Lo Fung",
-                  "text": "Hung Heung Lo Fung ist ein Berg in Causeway Bay.",
+                  "text": "Hung Heung Lo Fung ist eine natürliche Felsformation in Causeway Bay, auch Red Incense Burner Summit genannt.",
                   "category": "natural",
                   "coords": [
                         114.196988,
@@ -961,7 +3283,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Mount Cameron",
-                  "text": "Mount Cameron ist ein Berg in Causeway Bay.",
+                  "text": "Mount Cameron ist ein Hügel in Causeway Bay, Teil des Hong Kong Trail-Netzwerks.",
                   "category": "natural",
                   "coords": [
                         114.17511,
@@ -970,7 +3292,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Braemar Hill",
-                  "text": "Braemar Hill ist ein bekannter Hügel in Causeway Bay.",
+                  "text": "Braemar Hill ist ein Hügel in Causeway Bay, bekannt für seine luxuriösen Wohnhäuser und Schulen.",
                   "category": "natural",
                   "coords": [
                         114.206442,
@@ -988,7 +3310,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Signal Hill",
-                  "text": "Signal Hill ist ein Hügel in Causeway Bay.",
+                  "text": "Signal Hill in Causeway Bay wurde früher für die Signalisierung von Schiffen genutzt, die in den Victoria Harbour einliefen.",
                   "category": "natural",
                   "coords": [
                         114.174922,
@@ -997,7 +3319,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Mount Gough",
-                  "text": "Mount Gough ist ein Berg in Causeway Bay.",
+                  "text": "Mount Gough ist ein Hügel in Causeway Bay, benannt nach einem britischen Armeeoffizier.",
                   "category": "natural",
                   "coords": [
                         114.159655,
@@ -1006,7 +3328,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Kowloon Park",
-                  "text": "Der Kowloon Park ist eine große Grünanlage in Causeway Bay.",
+                  "text": "Park in Causeway Bay mit einem bronzenen Löwen und Springbrunnen.",
                   "category": "park",
                   "coords": [
                         114.17012,
@@ -1015,7 +3337,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Harcourt Garden",
-                  "text": "Der Harcourt Garden ist ein Garten in Causeway Bay.",
+                  "text": "Garten in Causeway Bay mit einem Gedenkbogen und Sitzbänken.",
                   "category": "park",
                   "coords": [
                         114.166964,
@@ -1024,7 +3346,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Centenary Garden",
-                  "text": "Der Centenary Garden ist ein Garten in Causeway Bay.",
+                  "text": "Garten in Causeway Bay mit einem zentralen Springbrunnen und Blumenbeeten.",
                   "category": "park",
                   "coords": [
                         114.17725,
@@ -1033,7 +3355,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Hong Kong Park",
-                  "text": "Der Hong Kong Park ist ein zentraler Park in Causeway Bay.",
+                  "text": "Park in Causeway Bay mit einer großen Voliere und einem Wasserfall.",
                   "category": "park",
                   "coords": [
                         114.161492,
@@ -1042,7 +3364,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Hutchison Park",
-                  "text": "Der Hutchison Park ist eine Grünanlage in Causeway Bay.",
+                  "text": "Der Hutchison Park in Causeway Bay verfügt über ein Schwimmbad und Sportanlagen.",
                   "category": "park",
                   "coords": [
                         114.190879,
@@ -1051,7 +3373,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Tamar Park",
-                  "text": "Der Tamar Park ist ein Park in Causeway Bay.",
+                  "text": "Der Tamar Park in Causeway Bay liegt neben dem Regierungskomplex und dem Hafen.",
                   "category": "park",
                   "coords": [
                         114.165642,
@@ -1060,7 +3382,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Chater Garden",
-                  "text": "Der Chater Garden ist ein bekannter Garten in Causeway Bay.",
+                  "text": "Der Chater Garden in Causeway Bay ist bekannt für seine Statue von Sir Paul Chater und die koloniale Architektur.",
                   "category": "park",
                   "coords": [
                         114.161277,
@@ -1087,7 +3409,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Central and Western District Promenade in Causeway Bay",
-                  "text": "Die Central and Western District Promenade in Causeway Bay ist ein öffentlicher Park am Wasser.",
+                  "text": "Uferpromenade in Causeway Bay mit Blick auf den Victoria Harbour.",
                   "category": "park",
                   "coords": [
                         114.165258,
@@ -1105,7 +3427,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Chinese Methodist Church",
-                  "text": "Die Chinese Methodist Church ist ein religiöses Gebäude in Causeway Bay.",
+                  "text": "Die chinesische methodistische Kirche (North Point) in Causeway Bay.",
                   "category": "religious",
                   "coords": [
                         114.207038,
@@ -1114,7 +3436,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "St. Joseph's Church",
-                  "text": "St. Joseph's Church ist eine Kirche in Causeway Bay.",
+                  "text": "Die St. Josephs Kirche, eine katholische Kirche in Causeway Bay.",
                   "category": "religious",
                   "coords": [
                         114.157903,
@@ -1123,7 +3445,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "First Church of Christ Scientist",
-                  "text": "Die First Church of Christ Scientist ist ein religiöser Ort in Causeway Bay.",
+                  "text": "Die First Church of Christ Scientist in Causeway Bay.",
                   "category": "religious",
                   "coords": [
                         114.157733,
@@ -1132,7 +3454,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Christ the King Chapel",
-                  "text": "Christ the King Chapel ist eine Kapelle in Causeway Bay.",
+                  "text": "Die Christ-König-Kapelle in Causeway Bay.",
                   "category": "religious",
                   "coords": [
                         114.187644,
@@ -1141,7 +3463,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "St. Margaret's Church",
-                  "text": "St. Margaret's Church ist eine Kirche in Causeway Bay.",
+                  "text": "Die St. Margaret's Church in Causeway Bay.",
                   "category": "religious",
                   "coords": [
                         114.184444,
@@ -1150,7 +3472,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "St. Jude's Catholic Church",
-                  "text": "St. Jude's Catholic Church ist eine katholische Kirche in Causeway Bay.",
+                  "text": "Die St. Jude's Catholic Church in Causeway Bay.",
                   "category": "religious",
                   "coords": [
                         114.197838,
@@ -1159,7 +3481,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Garden Road",
-                  "text": "Garden Road ist eine bekannte Attraktion in Causeway Bay.",
+                  "text": "Die Garden Road in Causeway Bay.",
                   "category": "landmark",
                   "coords": [
                         114.158957,
@@ -1168,7 +3490,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Harbour Road Garden",
-                  "text": "Der Harbour Road Garden ist eine grüne Oase in Causeway Bay.",
+                  "text": "Der Harbour Road Garden, ein Park in Causeway Bay.",
                   "category": "park",
                   "coords": [
                         114.175473,
@@ -1188,7 +3510,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Hongkongi Tudományos Múzeum",
-                  "text": "A Hongkongi Tudományos Múzeum egy interaktív tudományos múzeum Causeway Bay-ben.",
+                  "text": "A Hong Kong Science Museum Causeway Bayben egy hatalmas kinetikus energia szobrot mutat be.",
                   "category": "museum",
                   "coords": [
                         114.177597,
@@ -1224,7 +3546,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Hongkongi Vizuális Művészeti Központ",
-                  "text": "A Hongkongi Vizuális Művészeti Központ egy művészeti múzeum Causeway Bay-ben.",
+                  "text": "A Hong Kong Visual Arts Centre Causeway Bayben egy történelmi, egykori iskolaépületben kapott helyet.",
                   "category": "museum",
                   "coords": [
                         114.159372,
@@ -1233,7 +3555,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "City Gallery Causeway Bay-ben",
-                  "text": "A City Gallery Causeway Bay-ben a várostervezéssel foglalkozó múzeum.",
+                  "text": "A City Gallery Causeway Bayben a várostervezés és infrastruktúra kiállításainak szentelt múzeum.",
                   "category": "museum",
                   "coords": [
                         114.162189,
@@ -1242,7 +3564,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Egészségnevelési Kiállítás és Erőforrás Központ",
-                  "text": "A Egészségnevelési Kiállítás és Erőforrás Központ egy múzeum Causeway Bay-ben.",
+                  "text": "A Health Education Exhibition and Resource Centre Causeway Bayben interaktív egészségügyi kiállításokkal vár.",
                   "category": "museum",
                   "coords": [
                         114.171463,
@@ -1251,7 +3573,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Hongkongi Űrmúzeum",
-                  "text": "A Hongkongi Űrmúzeum egy planetárium és űrmúzeum Causeway Bay-ben.",
+                  "text": "A Hong Kong Space Museum Causeway Bayben planetáriumáról és űrkiállításáról ismert.",
                   "category": "museum",
                   "coords": [
                         114.17187,
@@ -1260,7 +3582,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "volt tengeri rendőrségi főkapitányság Causeway Bay-ben",
-                  "text": "A volt tengeri rendőrségi főkapitányság Causeway Bay-ben egy történelmi emlékmű.",
+                  "text": "A volt tengerészeti rendőrség főhadiszállása Causeway Bayben ma bevásárló- és étteremközpont.",
                   "category": "historical",
                   "coords": [
                         114.169959,
@@ -1278,7 +3600,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Sunbeam Színház",
-                  "text": "A Sunbeam Színház egy jól ismert színház Causeway Bay-ben.",
+                  "text": "A Sunbeam Theatre Causeway Bayben a kantoni operára specializálódott.",
                   "category": "cultural",
                   "coords": [
                         114.199979,
@@ -1296,7 +3618,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Hongkongi Művészeti Központ",
-                  "text": "A Hongkongi Művészeti Központ a kortárs művészet központja Causeway Bay-ben.",
+                  "text": "A Hong Kong Arts Centre Causeway Bayben kortárs művészeti kiállításoknak ad otthont.",
                   "category": "cultural",
                   "coords": [
                         114.170814,
@@ -1305,7 +3627,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Kínai Gyülekezeti Egyház",
-                  "text": "A Kínai Gyülekezeti Egyház egy történelmi templom Causeway Bay-ben.",
+                  "text": "A CCC China Congregational Church Causeway Bayben jellegzetes modernista homlokzattal rendelkezik.",
                   "category": "religious",
                   "coords": [
                         114.186143,
@@ -1323,7 +3645,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Tung Lin Kok Yuen",
-                  "text": "A Tung Lin Kok Yuen egy buddhista templom Causeway Bay-ben.",
+                  "text": "A Tung Lin Kok Yuen egy buddhista apácakolostor Causeway Bayben, nyugodt kertjeiről ismert.",
                   "category": "religious",
                   "coords": [
                         114.185609,
@@ -1332,7 +3654,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Szent Mária-templom Causeway Bay-ben",
-                  "text": "A Szent Mária-templom Causeway Bay-ben egy istentiszteleti hely.",
+                  "text": "A St. Mary's Church Hung Hom Causeway Bayben eredetileg a portugál közösséget szolgálta.",
                   "category": "religious",
                   "coords": [
                         114.188233,
@@ -1350,7 +3672,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Hongkongi Sheng Kung Hui",
-                  "text": "A Hongkongi Sheng Kung Hui az anglikán egyházközösség Causeway Bay-ben.",
+                  "text": "Anglikán templom Causeway Bayben, jellegzetes vörös téglahomlokzattal.",
                   "category": "religious",
                   "coords": [
                         114.155743,
@@ -1359,7 +3681,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Masjid Ammar és Osman Ramju Sadick Iszlám Központ",
-                  "text": "A Masjid Ammar és Osman Ramju Sadick Iszlám Központ egy mecset Causeway Bay-ben.",
+                  "text": "A Masjid Ammar és Osman Ramju Sadick Islamic Centre Causeway Bayben Hongkong legnagyobb mecsete.",
                   "category": "religious",
                   "coords": [
                         114.178838,
@@ -1368,7 +3690,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Lin Fa-templom",
-                  "text": "A Lin Fa-templom egy történelmi templom Causeway Bay-ben.",
+                  "text": "A Lin Fa templom Causeway Bayben egy taoista templom, amely a Könyörületesség Istennőjének van szentelve.",
                   "category": "religious",
                   "coords": [
                         114.192914,
@@ -1377,7 +3699,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Wan Chai-i Pak Tai-templom",
-                  "text": "A Wan Chai-i Pak Tai-templom egy istentiszteleti hely Causeway Bay-ben.",
+                  "text": "A Pak Tai templom Causeway Bayben egy történelmi taoista templom.",
                   "category": "religious",
                   "coords": [
                         114.173819,
@@ -1386,7 +3708,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Symphony of Lights",
-                  "text": "A Symphony of Lights egy jól ismert fénybemutató Causeway Bay-ben.",
+                  "text": "A Symphony of Lights egy éjszakai fényjáték a Victoria Harbour menti épületeken, Causeway Bayből látható.",
                   "category": "landmark",
                   "coords": [
                         114.167647,
@@ -1395,7 +3717,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Knutsford Terrace",
-                  "text": "A Knutsford Terrace egy nyüzsgő utca Causeway Bay-ben.",
+                  "text": "A Knutsford Terrace Causeway Bayben híres éjszakai életéről és változatos konyhájáról.",
                   "category": "landmark",
                   "coords": [
                         114.173088,
@@ -1422,7 +3744,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Wanchai piac",
-                  "text": "A Wanchai piac egy hagyományos piac Causeway Bay-ben.",
+                  "text": "A Wanchai Market Causeway Bayben egy hagyományos nedves piac egy Bauhaus stílusú épületben.",
                   "category": "landmark",
                   "coords": [
                         114.173676,
@@ -1431,7 +3753,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Jardine's Lookout",
-                  "text": "A Jardine's Lookout egy népszerű kilátópont Causeway Bay-ben.",
+                  "text": "A Jardine's Lookout egy domb Causeway Bayben, a Jardine családról elnevezve, kikötői kilátással.",
                   "category": "natural",
                   "coords": [
                         114.198333,
@@ -1440,7 +3762,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Mount Nicholson",
-                  "text": "A Mount Nicholson egy jól ismert hegy Causeway Bay-ben.",
+                  "text": "A Mount Nicholson egy domb Causeway Bayben, Hongkong egyik legelőkelőbb lakónegyede.",
                   "category": "natural",
                   "coords": [
                         114.185698,
@@ -1449,7 +3771,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Hung Heung Lo Fung",
-                  "text": "A Hung Heung Lo Fung egy hegy Causeway Bay-ben.",
+                  "text": "A Hung Heung Lo Fung egy természetes sziklaformáció Causeway Bayben, más néven Red Incense Burner Summit.",
                   "category": "natural",
                   "coords": [
                         114.196988,
@@ -1458,7 +3780,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Mount Cameron",
-                  "text": "A Mount Cameron egy hegy Causeway Bay-ben.",
+                  "text": "A Mount Cameron egy domb Causeway Bayben, a Hong Kong Trail hálózat része.",
                   "category": "natural",
                   "coords": [
                         114.17511,
@@ -1467,7 +3789,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Braemar Hill",
-                  "text": "A Braemar Hill egy jól ismert domb Causeway Bay-ben.",
+                  "text": "A Braemar Hill egy domb Causeway Bayben, luxuslakásairól és iskoláiról ismert.",
                   "category": "natural",
                   "coords": [
                         114.206442,
@@ -1485,7 +3807,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Signal Hill",
-                  "text": "A Signal Hill egy domb Causeway Bay-ben.",
+                  "text": "A Signal Hill Causeway Bayben korábban a Victoria Harbourba érkező hajók jelzésére szolgált.",
                   "category": "natural",
                   "coords": [
                         114.174922,
@@ -1494,7 +3816,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Mount Gough",
-                  "text": "A Mount Gough egy hegy Causeway Bay-ben.",
+                  "text": "A Mount Gough egy domb Causeway Bayben, egy brit hadsereg tisztjéről elnevezve.",
                   "category": "natural",
                   "coords": [
                         114.159655,
@@ -1503,7 +3825,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Kowloon Park",
-                  "text": "A Kowloon Park egy nagy zöldterület Causeway Bay-ben.",
+                  "text": "Park Causeway Bayben, bronz oroszlánnal és szökőkutakkal.",
                   "category": "park",
                   "coords": [
                         114.17012,
@@ -1512,7 +3834,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Harcourt kert",
-                  "text": "A Harcourt kert egy kert Causeway Bay-ben.",
+                  "text": "Kert Causeway Bayben, emlékívekkel és padokkal.",
                   "category": "park",
                   "coords": [
                         114.166964,
@@ -1521,7 +3843,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Centenary kert",
-                  "text": "A Centenary kert egy kert Causeway Bay-ben.",
+                  "text": "Kert Causeway Bayben, központi szökőkúttal és virágágyásokkal.",
                   "category": "park",
                   "coords": [
                         114.17725,
@@ -1530,7 +3852,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Hongkongi Park",
-                  "text": "A Hongkongi Park egy központi park Causeway Bay-ben.",
+                  "text": "Park Causeway Bayben, nagy madárházzal és vízeséssel.",
                   "category": "park",
                   "coords": [
                         114.161492,
@@ -1539,7 +3861,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Hutchison Park",
-                  "text": "A Hutchison Park egy zöldterület Causeway Bay-ben.",
+                  "text": "A Hutchison Park Causeway Bayben uszodával és sportlétesítményekkel rendelkezik.",
                   "category": "park",
                   "coords": [
                         114.190879,
@@ -1548,7 +3870,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Tamar Park",
-                  "text": "A Tamar Park egy park Causeway Bay-ben.",
+                  "text": "A Tamar Park Causeway Bayben a kormányzati komplexum és a kikötő mellett található.",
                   "category": "park",
                   "coords": [
                         114.165642,
@@ -1557,7 +3879,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Chater Garden",
-                  "text": "A Chater Garden egy jól ismert kert Causeway Bay-ben.",
+                  "text": "A Chater Garden Causeway Bayben Sir Paul Chater szobráról és a gyarmati építészetről ismert.",
                   "category": "park",
                   "coords": [
                         114.161277,
@@ -1584,7 +3906,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Causeway Bay-i Central and Western District Promenade",
-                  "text": "A Causeway Bay-i Central and Western District Promenade egy nyilvános vízparti park.",
+                  "text": "Tengerparti sétány Causeway Bayben, a Viktória-kikötőre néző kilátással.",
                   "category": "park",
                   "coords": [
                         114.165258,
@@ -1602,7 +3924,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Chinese Methodist Church",
-                  "text": "A Chinese Methodist Church egy vallási épület Causeway Bay-ben.",
+                  "text": "A kínai metodista templom (North Point) a Causeway Bayben.",
                   "category": "religious",
                   "coords": [
                         114.207038,
@@ -1611,7 +3933,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "St. Joseph's Church",
-                  "text": "A St. Joseph's Church egy templom Causeway Bay-ben.",
+                  "text": "A Szent József-templom, egy katolikus templom a Causeway Bayben.",
                   "category": "religious",
                   "coords": [
                         114.157903,
@@ -1620,7 +3942,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "First Church of Christ Scientist",
-                  "text": "A First Church of Christ Scientist egy vallási helyszín Causeway Bay-ben.",
+                  "text": "A First Church of Christ Scientist a Causeway Bayben.",
                   "category": "religious",
                   "coords": [
                         114.157733,
@@ -1629,7 +3951,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Christ the King Chapel",
-                  "text": "A Christ the King Chapel egy kápolna Causeway Bay-ben.",
+                  "text": "A Krisztus Király kápolna a Causeway Bayben.",
                   "category": "religious",
                   "coords": [
                         114.187644,
@@ -1638,7 +3960,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "St. Margaret's Church",
-                  "text": "A St. Margaret's Church egy templom Causeway Bay-ben.",
+                  "text": "A Szent Margit-templom a Causeway Bayben.",
                   "category": "religious",
                   "coords": [
                         114.184444,
@@ -1647,7 +3969,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "St. Jude's Catholic Church",
-                  "text": "A St. Jude's Catholic Church egy katolikus templom Causeway Bay-ben.",
+                  "text": "A Szent Júdás katolikus templom a Causeway Bayben.",
                   "category": "religious",
                   "coords": [
                         114.197838,
@@ -1656,7 +3978,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Garden Road",
-                  "text": "A Garden Road egy ismert látnivaló Causeway Bay-ben.",
+                  "text": "A Garden Road a Causeway Bayben.",
                   "category": "landmark",
                   "coords": [
                         114.158957,
@@ -1665,7 +3987,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Harbour Road Garden",
-                  "text": "A Harbour Road Garden egy zöld oázis Causeway Bay-ben.",
+                  "text": "A Harbour Road Garden, egy park a Causeway Bayben.",
                   "category": "park",
                   "coords": [
                         114.175473,
@@ -1685,7 +4007,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Muzeul de Știință din Hong Kong",
-                  "text": "Muzeul de Știință din Hong Kong este un muzeu științific interactiv în Causeway Bay.",
+                  "text": "Hong Kong Science Museum din Causeway Bay prezintă o sculptură gigantică de energie cinetică.",
                   "category": "museum",
                   "coords": [
                         114.177597,
@@ -1721,7 +4043,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Centrul de Arte Vizuale din Hong Kong",
-                  "text": "Centrul de Arte Vizuale din Hong Kong este un muzeu de artă în Causeway Bay.",
+                  "text": "Hong Kong Visual Arts Centre din Causeway Bay este găzduit într-o clădire istorică de școală.",
                   "category": "museum",
                   "coords": [
                         114.159372,
@@ -1730,7 +4052,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "City Gallery din Causeway Bay",
-                  "text": "City Gallery din Causeway Bay este un muzeu dedicat planificării urbane.",
+                  "text": "City Gallery din Causeway Bay este un muzeu dedicat expozițiilor de urbanism și infrastructură.",
                   "category": "museum",
                   "coords": [
                         114.162189,
@@ -1739,7 +4061,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Centrul de Expoziții și Resurse pentru Educația Sănătății",
-                  "text": "Centrul de Expoziții și Resurse pentru Educația Sănătății este un muzeu în Causeway Bay.",
+                  "text": "Health Education Exhibition and Resource Centre din Causeway Bay oferă exponate interactive de sănătate.",
                   "category": "museum",
                   "coords": [
                         114.171463,
@@ -1748,7 +4070,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Muzeul Spațial din Hong Kong",
-                  "text": "Muzeul Spațial din Hong Kong este un planetariu și muzeu spațial în Causeway Bay.",
+                  "text": "Hong Kong Space Museum din Causeway Bay este cunoscut pentru planetariul și expoziția spațială.",
                   "category": "museum",
                   "coords": [
                         114.17187,
@@ -1757,7 +4079,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Fostul sediu al poliției maritime din Causeway Bay",
-                  "text": "Fostul sediu al poliției maritime din Causeway Bay este un monument istoric.",
+                  "text": "Fostul sediu al Poliției Maritime din Causeway Bay este acum un complex comercial și de restaurante.",
                   "category": "historical",
                   "coords": [
                         114.169959,
@@ -1775,7 +4097,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Sunbeam Theatre",
-                  "text": "Sunbeam Theatre este un teatru bine cunoscut în Causeway Bay.",
+                  "text": "Sunbeam Theatre din Causeway Bay este specializat în opera cantoneză.",
                   "category": "cultural",
                   "coords": [
                         114.199979,
@@ -1793,7 +4115,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Centrul de Arte din Hong Kong",
-                  "text": "Centrul de Arte din Hong Kong este un centru de artă contemporană în Causeway Bay.",
+                  "text": "Hong Kong Arts Centre din Causeway Bay găzduiește expoziții de artă contemporană.",
                   "category": "cultural",
                   "coords": [
                         114.170814,
@@ -1802,7 +4124,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Biserica Congregațională Chineză",
-                  "text": "Biserica Congregațională Chineză este o biserică istorică în Causeway Bay.",
+                  "text": "Biserica CCC China Congregational din Causeway Bay are o fațadă modernistă distinctivă.",
                   "category": "religious",
                   "coords": [
                         114.186143,
@@ -1820,7 +4142,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Tung Lin Kok Yuen",
-                  "text": "Tung Lin Kok Yuen este un templu budist în Causeway Bay.",
+                  "text": "Tung Lin Kok Yuen este o mănăstire budistă în Causeway Bay, cunoscută pentru grădinile sale liniștite.",
                   "category": "religious",
                   "coords": [
                         114.185609,
@@ -1829,7 +4151,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Biserica Sf. Maria din Causeway Bay",
-                  "text": "Biserica Sf. Maria din Causeway Bay este un lăcaș de cult.",
+                  "text": "Biserica St. Mary's Church Hung Hom din Causeway Bay a servit inițial comunitatea portugheză.",
                   "category": "religious",
                   "coords": [
                         114.188233,
@@ -1847,7 +4169,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Hong Kong Sheng Kung Hui",
-                  "text": "Hong Kong Sheng Kung Hui este comunitatea bisericească anglicană din Causeway Bay.",
+                  "text": "Biserică anglicană în Causeway Bay, cu fațadă distinctivă de cărămidă roșie.",
                   "category": "religious",
                   "coords": [
                         114.155743,
@@ -1856,7 +4178,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Masjid Ammar și Centrul Islamic Osman Ramju Sadick",
-                  "text": "Masjid Ammar și Centrul Islamic Osman Ramju Sadick este o moschee în Causeway Bay.",
+                  "text": "Masjid Ammar și Osman Ramju Sadick Islamic Centre din Causeway Bay este cea mai mare moschee din Hong Kong.",
                   "category": "religious",
                   "coords": [
                         114.178838,
@@ -1865,7 +4187,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Templul Lin Fa",
-                  "text": "Templul Lin Fa este un templu istoric în Causeway Bay.",
+                  "text": "Templul Lin Fa din Causeway Bay este un templu taoist dedicat Zeiței Milei.",
                   "category": "religious",
                   "coords": [
                         114.192914,
@@ -1874,7 +4196,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Templul Pak Tai din Wan Chai",
-                  "text": "Templul Pak Tai din Wan Chai este un lăcaș de cult în Causeway Bay.",
+                  "text": "Templul Pak Tai din Causeway Bay este un templu taoist istoric.",
                   "category": "religious",
                   "coords": [
                         114.173819,
@@ -1883,7 +4205,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Symphony of Lights",
-                  "text": "Symphony of Lights este un spectacol de lumini cunoscut în Causeway Bay.",
+                  "text": "Symphony of Lights este un spectacol nocturn de lumini pe clădirile de-a lungul Victoria Harbour, vizibil din Causeway Bay.",
                   "category": "landmark",
                   "coords": [
                         114.167647,
@@ -1892,7 +4214,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Knutsford Terrace",
-                  "text": "Knutsford Terrace este o stradă animată în Causeway Bay.",
+                  "text": "Knutsford Terrace din Causeway Bay este renumită pentru viața de noapte și bucătăria diversă.",
                   "category": "landmark",
                   "coords": [
                         114.173088,
@@ -1919,7 +4241,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Wanchai Market",
-                  "text": "Wanchai Market este o piață tradițională în Causeway Bay.",
+                  "text": "Wanchai Market din Causeway Bay este o piață umedă tradițională într-o clădire Bauhaus.",
                   "category": "landmark",
                   "coords": [
                         114.173676,
@@ -1928,7 +4250,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Jardine's Lookout",
-                  "text": "Jardine's Lookout este un punct de belvedere popular în Causeway Bay.",
+                  "text": "Jardine's Lookout este un deal în Causeway Bay, numit după familia Jardine, cu vedere la port.",
                   "category": "natural",
                   "coords": [
                         114.198333,
@@ -1937,7 +4259,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Mount Nicholson",
-                  "text": "Mount Nicholson este un munte cunoscut în Causeway Bay.",
+                  "text": "Mount Nicholson este un deal în Causeway Bay, una dintre cele mai exclusive zone rezidențiale din Hong Kong.",
                   "category": "natural",
                   "coords": [
                         114.185698,
@@ -1946,7 +4268,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Hung Heung Lo Fung",
-                  "text": "Hung Heung Lo Fung este un munte în Causeway Bay.",
+                  "text": "Hung Heung Lo Fung este o formațiune stâncoasă naturală în Causeway Bay, numită și Red Incense Burner Summit.",
                   "category": "natural",
                   "coords": [
                         114.196988,
@@ -1955,7 +4277,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Mount Cameron",
-                  "text": "Mount Cameron este un munte în Causeway Bay.",
+                  "text": "Mount Cameron este un deal în Causeway Bay, parte a rețelei Hong Kong Trail.",
                   "category": "natural",
                   "coords": [
                         114.17511,
@@ -1964,7 +4286,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Braemar Hill",
-                  "text": "Braemar Hill este un deal cunoscut în Causeway Bay.",
+                  "text": "Braemar Hill este un deal în Causeway Bay, cunoscut pentru locuințele de lux și școli.",
                   "category": "natural",
                   "coords": [
                         114.206442,
@@ -1982,7 +4304,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Signal Hill",
-                  "text": "Signal Hill este un deal în Causeway Bay.",
+                  "text": "Signal Hill din Causeway Bay era folosit pentru semnalizarea navelor care intrau în Victoria Harbour.",
                   "category": "natural",
                   "coords": [
                         114.174922,
@@ -1991,7 +4313,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Mount Gough",
-                  "text": "Mount Gough este un munte în Causeway Bay.",
+                  "text": "Mount Gough este un deal în Causeway Bay, numit după un ofițer al armatei britanice.",
                   "category": "natural",
                   "coords": [
                         114.159655,
@@ -2000,7 +4322,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Kowloon Park",
-                  "text": "Kowloon Park este un spațiu verde mare în Causeway Bay.",
+                  "text": "Parc în Causeway Bay, cu un leu de bronz și fântâni arteziene.",
                   "category": "park",
                   "coords": [
                         114.17012,
@@ -2009,7 +4331,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Harcourt Garden",
-                  "text": "Harcourt Garden este o grădină în Causeway Bay.",
+                  "text": "Grădină în Causeway Bay, cu un arc comemorativ și bănci.",
                   "category": "park",
                   "coords": [
                         114.166964,
@@ -2018,7 +4340,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Centenary Garden",
-                  "text": "Centenary Garden este o grădină în Causeway Bay.",
+                  "text": "Grădină în Causeway Bay, cu o fântână arteziană centrală și straturi de flori.",
                   "category": "park",
                   "coords": [
                         114.17725,
@@ -2027,7 +4349,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Hong Kong Park",
-                  "text": "Hong Kong Park este un parc central în Causeway Bay.",
+                  "text": "Parc în Causeway Bay, cu o volieră mare și o cascadă.",
                   "category": "park",
                   "coords": [
                         114.161492,
@@ -2036,7 +4358,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Hutchison Park",
-                  "text": "Hutchison Park este un spațiu verde în Causeway Bay.",
+                  "text": "Parcul Hutchison din Causeway Bay are o piscină și facilități sportive.",
                   "category": "park",
                   "coords": [
                         114.190879,
@@ -2045,7 +4367,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Tamar Park",
-                  "text": "Tamar Park este un parc în Causeway Bay.",
+                  "text": "Parcul Tamar din Causeway Bay este situat lângă Complexul Guvernamental Central și port.",
                   "category": "park",
                   "coords": [
                         114.165642,
@@ -2054,7 +4376,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Chater Garden",
-                  "text": "Chater Garden este o grădină cunoscută în Causeway Bay.",
+                  "text": "Grădina Chater din Causeway Bay este cunoscută pentru statuia lui Sir Paul Chater și arhitectura colonială.",
                   "category": "park",
                   "coords": [
                         114.161277,
@@ -2081,7 +4403,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Central and Western District Promenade din Causeway Bay",
-                  "text": "Central and Western District Promenade din Causeway Bay este un parc public pe malul apei.",
+                  "text": "Promenadă pe malul apei în Causeway Bay, cu vedere spre portul Victoria.",
                   "category": "park",
                   "coords": [
                         114.165258,
@@ -2099,7 +4421,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Biserica Metodistă Chineză",
-                  "text": "Biserica Metodistă Chineză este o clădire religioasă din Causeway Bay.",
+                  "text": "Biserica metodistă chineză (North Point) din Causeway Bay.",
                   "category": "religious",
                   "coords": [
                         114.207038,
@@ -2108,7 +4430,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Biserica Sf. Iosif",
-                  "text": "Biserica Sf. Iosif este o biserică din Causeway Bay.",
+                  "text": "Biserica Sf. Iosif, o biserică catolică în Causeway Bay.",
                   "category": "religious",
                   "coords": [
                         114.157903,
@@ -2117,7 +4439,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Prima Biserică a lui Hristos Scientist",
-                  "text": "Prima Biserică a lui Hristos Scientist este un lăcaș de cult din Causeway Bay.",
+                  "text": "Prima Biserică a lui Hristos, Științistă, în Causeway Bay.",
                   "category": "religious",
                   "coords": [
                         114.157733,
@@ -2126,7 +4448,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Capela Hristos Rege",
-                  "text": "Capela Hristos Rege este o capelă din Causeway Bay.",
+                  "text": "Capela lui Hristos Regele în Causeway Bay.",
                   "category": "religious",
                   "coords": [
                         114.187644,
@@ -2135,7 +4457,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Biserica Sf. Margareta",
-                  "text": "Biserica Sf. Margareta este o biserică din Causeway Bay.",
+                  "text": "Biserica Sf. Margareta în Causeway Bay.",
                   "category": "religious",
                   "coords": [
                         114.184444,
@@ -2144,7 +4466,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Biserica Catolică Sf. Iuda",
-                  "text": "Biserica Catolică Sf. Iuda este o biserică catolică din Causeway Bay.",
+                  "text": "Biserica catolică Sf. Iuda în Causeway Bay.",
                   "category": "religious",
                   "coords": [
                         114.197838,
@@ -2153,7 +4475,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Garden Road",
-                  "text": "Garden Road este o atracție cunoscută din Causeway Bay.",
+                  "text": "Strada Garden în Causeway Bay.",
                   "category": "landmark",
                   "coords": [
                         114.158957,
@@ -2162,7 +4484,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Grădina Harbour Road",
-                  "text": "Grădina Harbour Road este o oază verde din Causeway Bay.",
+                  "text": "Grădina Harbour Road, un parc în Causeway Bay.",
                   "category": "park",
                   "coords": [
                         114.175473,
@@ -2182,7 +4504,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Hong Kong Science Museum",
-                  "text": "The Hong Kong Science Museum is an interactive science museum in Causeway Bay.",
+                  "text": "Hong Kong Science Museum is a museum in Causeway Bay, featuring a giant kinetic energy sculpture.",
                   "category": "museum",
                   "coords": [
                         114.177597,
@@ -2218,7 +4540,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Hong Kong Visual Arts Centre",
-                  "text": "The Hong Kong Visual Arts Centre is an art museum in Causeway Bay.",
+                  "text": "Hong Kong Visual Arts Centre is a museum in Causeway Bay, housed in a historic former school building.",
                   "category": "museum",
                   "coords": [
                         114.159372,
@@ -2227,7 +4549,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "City Gallery",
-                  "text": "The City Gallery in Causeway Bay is a museum dedicated to urban planning.",
+                  "text": "City Gallery is a museum in Causeway Bay, dedicated to urban planning and infrastructure exhibits.",
                   "category": "museum",
                   "coords": [
                         114.162189,
@@ -2236,7 +4558,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Health Education Exhibition and Resource Centre",
-                  "text": "The Health Education Exhibition and Resource Centre is a museum in Causeway Bay.",
+                  "text": "Health Education Exhibition and Resource Centre is a museum in Causeway Bay, with interactive health displays.",
                   "category": "museum",
                   "coords": [
                         114.171463,
@@ -2245,7 +4567,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Hong Kong Space Museum",
-                  "text": "The Hong Kong Space Museum is a planetarium and space museum in Causeway Bay.",
+                  "text": "Hong Kong Space Museum is a museum in Causeway Bay, known for its planetarium and space exhibition.",
                   "category": "museum",
                   "coords": [
                         114.17187,
@@ -2254,7 +4576,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Former Marine Police Headquarters Compound",
-                  "text": "The former Marine Police Headquarters in Causeway Bay is a historic monument.",
+                  "text": "Former Marine Police Headquarters Compound is a historic compound in Causeway Bay, now a shopping and dining complex.",
                   "category": "historical",
                   "coords": [
                         114.169959,
@@ -2272,7 +4594,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Sunbeam Theatre",
-                  "text": "Sunbeam Theatre is a well-known theatre in Causeway Bay.",
+                  "text": "Sunbeam Theatre is a theatre in Causeway Bay, specialising in Cantonese opera performances.",
                   "category": "cultural",
                   "coords": [
                         114.199979,
@@ -2290,7 +4612,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Hong Kong Arts Centre",
-                  "text": "The Hong Kong Arts Centre is a centre for contemporary art in Causeway Bay.",
+                  "text": "Hong Kong Arts Centre is a cultural centre in Causeway Bay, hosting contemporary art exhibitions.",
                   "category": "cultural",
                   "coords": [
                         114.170814,
@@ -2299,7 +4621,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "CCC China Congregational Church",
-                  "text": "The China Congregational Church is a historic church in Causeway Bay.",
+                  "text": "CCC China Congregational Church is a Protestant church in Causeway Bay, with a striking modernist facade.",
                   "category": "religious",
                   "coords": [
                         114.186143,
@@ -2317,7 +4639,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Tung Lin Kok Yuen",
-                  "text": "Tung Lin Kok Yuen is a Buddhist temple in Causeway Bay.",
+                  "text": "Tung Lin Kok Yuen is a Buddhist nunnery in Causeway Bay, known for its tranquil gardens.",
                   "category": "religious",
                   "coords": [
                         114.185609,
@@ -2326,7 +4648,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "St. Mary's Church Hung Hom",
-                  "text": "St. Mary's Church in Causeway Bay is a place of worship.",
+                  "text": "St. Mary's Church Hung Hom is a Catholic church in Causeway Bay, originally serving the Portuguese community.",
                   "category": "religious",
                   "coords": [
                         114.188233,
@@ -2344,7 +4666,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Hong Kong Sheng Kung Hui",
-                  "text": "The Hong Kong Sheng Kung Hui is the Anglican church community in Causeway Bay.",
+                  "text": "An Anglican church in Causeway Bay with a distinctive red brick façade.",
                   "category": "religious",
                   "coords": [
                         114.155743,
@@ -2353,7 +4675,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Masjid Ammar and Osman Ramju Sadick Islamic Centre",
-                  "text": "Masjid Ammar and Osman Ramju Sadick Islamic Centre is a mosque in Causeway Bay.",
+                  "text": "Masjid Ammar and Osman Ramju Sadick Islamic Centre is a mosque in Causeway Bay, the largest in Hong Kong.",
                   "category": "religious",
                   "coords": [
                         114.178838,
@@ -2362,7 +4684,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Lin Fa Temple",
-                  "text": "Lin Fa Temple is a historic temple in Causeway Bay.",
+                  "text": "Lin Fa Temple is a Taoist temple in Causeway Bay, dedicated to the Goddess of Mercy.",
                   "category": "religious",
                   "coords": [
                         114.192914,
@@ -2371,7 +4693,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Pak Tai Temple, Wan Chai",
-                  "text": "The Pak Tai Temple in Wan Chai is a place of worship in Causeway Bay.",
+                  "text": "Pak Tai Temple, Wan Chai is a historic Taoist temple in Causeway Bay.",
                   "category": "religious",
                   "coords": [
                         114.173819,
@@ -2380,7 +4702,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Symphony of Lights",
-                  "text": "The Symphony of Lights is a well-known light show in Causeway Bay.",
+                  "text": "Symphony of Lights is a nightly light show on buildings along Victoria Harbour, visible from Causeway Bay.",
                   "category": "landmark",
                   "coords": [
                         114.167647,
@@ -2389,7 +4711,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Knutsford Terrace",
-                  "text": "Knutsford Terrace is a lively street in Causeway Bay.",
+                  "text": "Knutsford Terrace is a street in Causeway Bay, famous for its nightlife and diverse cuisine.",
                   "category": "landmark",
                   "coords": [
                         114.173088,
@@ -2416,7 +4738,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Wanchai Market",
-                  "text": "Wanchai Market is a traditional market in Causeway Bay.",
+                  "text": "Wanchai Market is a traditional wet market in Causeway Bay, housed in a Bauhaus-style building.",
                   "category": "landmark",
                   "coords": [
                         114.173676,
@@ -2425,7 +4747,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Jardine's Lookout",
-                  "text": "Jardine's Lookout is a popular viewpoint in Causeway Bay.",
+                  "text": "Jardine's Lookout is a hill in Causeway Bay, named after the Jardine family, with a view of the harbour.",
                   "category": "natural",
                   "coords": [
                         114.198333,
@@ -2434,7 +4756,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Mount Nicholson",
-                  "text": "Mount Nicholson is a well-known mountain in Causeway Bay.",
+                  "text": "Mount Nicholson is a hill in Causeway Bay, one of the most exclusive residential areas in Hong Kong.",
                   "category": "natural",
                   "coords": [
                         114.185698,
@@ -2443,7 +4765,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Hung Heung Lo Fung",
-                  "text": "Hung Heung Lo Fung is a mountain in Causeway Bay.",
+                  "text": "Hung Heung Lo Fung is a natural rock formation in Causeway Bay, also called Red Incense Burner Summit.",
                   "category": "natural",
                   "coords": [
                         114.196988,
@@ -2452,7 +4774,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Mount Cameron",
-                  "text": "Mount Cameron is a mountain in Causeway Bay.",
+                  "text": "Mount Cameron is a hill in Causeway Bay, part of the Hong Kong Trail network.",
                   "category": "natural",
                   "coords": [
                         114.17511,
@@ -2461,7 +4783,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Braemar Hill",
-                  "text": "Braemar Hill is a well-known hill in Causeway Bay.",
+                  "text": "Braemar Hill is a hill in Causeway Bay, known for its luxury housing and schools.",
                   "category": "natural",
                   "coords": [
                         114.206442,
@@ -2479,7 +4801,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Signal Hill",
-                  "text": "Signal Hill is a hill in Causeway Bay.",
+                  "text": "Signal Hill is a hill in Causeway Bay, formerly used for signalling ships entering Victoria Harbour.",
                   "category": "natural",
                   "coords": [
                         114.174922,
@@ -2488,7 +4810,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Mount Gough",
-                  "text": "Mount Gough is a mountain in Causeway Bay.",
+                  "text": "Mount Gough is a hill in Causeway Bay, named after a British Army officer.",
                   "category": "natural",
                   "coords": [
                         114.159655,
@@ -2497,7 +4819,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Kowloon Park",
-                  "text": "Kowloon Park is a large green space in Causeway Bay.",
+                  "text": "A park in Causeway Bay with a bronze lion statue and fountains.",
                   "category": "park",
                   "coords": [
                         114.17012,
@@ -2506,7 +4828,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Harcourt Garden",
-                  "text": "Harcourt Garden is a garden in Causeway Bay.",
+                  "text": "A garden in Causeway Bay with a commemorative arch and benches.",
                   "category": "park",
                   "coords": [
                         114.166964,
@@ -2515,7 +4837,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Centenary Garden",
-                  "text": "Centenary Garden is a garden in Causeway Bay.",
+                  "text": "A garden in Causeway Bay with a central fountain and flowerbeds.",
                   "category": "park",
                   "coords": [
                         114.17725,
@@ -2524,7 +4846,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Hong Kong Park",
-                  "text": "Hong Kong Park is a central park in Causeway Bay.",
+                  "text": "A park in Causeway Bay with a large aviary and a waterfall.",
                   "category": "park",
                   "coords": [
                         114.161492,
@@ -2533,7 +4855,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Hutchison Park",
-                  "text": "Hutchison Park is a green space in Causeway Bay.",
+                  "text": "Hutchison Park is a park in Causeway Bay, with a swimming pool and sports facilities.",
                   "category": "park",
                   "coords": [
                         114.190879,
@@ -2542,7 +4864,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Tamar Park",
-                  "text": "Tamar Park is a park in Causeway Bay.",
+                  "text": "Tamar Park is a park in Causeway Bay, adjacent to the Central Government Complex and the harbour.",
                   "category": "park",
                   "coords": [
                         114.165642,
@@ -2551,7 +4873,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Chater Garden",
-                  "text": "Chater Garden is a well-known garden in Causeway Bay.",
+                  "text": "Chater Garden is a garden in Causeway Bay, known for its statue of Sir Paul Chater and colonial architecture.",
                   "category": "park",
                   "coords": [
                         114.161277,
@@ -2578,7 +4900,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Central and Western District Promenade – Central Section",
-                  "text": "The Central and Western District Promenade in Causeway Bay is a public waterfront park.",
+                  "text": "A waterfront promenade in Causeway Bay with views of Victoria Harbour.",
                   "category": "park",
                   "coords": [
                         114.165258,
@@ -2596,7 +4918,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Chinese Methodist Church (North Point)",
-                  "text": "The Chinese Methodist Church is a place of worship in Causeway Bay.",
+                  "text": "The Chinese Methodist Church (North Point) in Causeway Bay.",
                   "category": "religious",
                   "coords": [
                         114.207038,
@@ -2605,7 +4927,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "St. Joseph's Church",
-                  "text": "St. Joseph's Church is a place of worship in Causeway Bay.",
+                  "text": "St. Joseph's Church, a Catholic church in Causeway Bay.",
                   "category": "religious",
                   "coords": [
                         114.157903,
@@ -2614,7 +4936,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "First Church of Christ Scientist",
-                  "text": "The First Church of Christ Scientist is a place of worship in Causeway Bay.",
+                  "text": "The First Church of Christ Scientist in Causeway Bay.",
                   "category": "religious",
                   "coords": [
                         114.157733,
@@ -2623,7 +4945,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Christ the King Chapel",
-                  "text": "Christ the King Chapel is a place of worship in Causeway Bay.",
+                  "text": "Christ the King Chapel in Causeway Bay.",
                   "category": "religious",
                   "coords": [
                         114.187644,
@@ -2632,7 +4954,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "St. Margaret's Church",
-                  "text": "St. Margaret's Church is a place of worship in Causeway Bay.",
+                  "text": "St. Margaret's Church in Causeway Bay.",
                   "category": "religious",
                   "coords": [
                         114.184444,
@@ -2641,7 +4963,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "St. Jude's Catholic Church",
-                  "text": "St. Jude's Catholic Church is a place of worship in Causeway Bay.",
+                  "text": "St. Jude's Catholic Church in Causeway Bay.",
                   "category": "religious",
                   "coords": [
                         114.197838,
@@ -2650,7 +4972,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Garden Road",
-                  "text": "Garden Road is a well-known attraction in Causeway Bay.",
+                  "text": "Garden Road in Causeway Bay.",
                   "category": "landmark",
                   "coords": [
                         114.158957,
@@ -2659,7 +4981,7 @@ export const hongkongEconomicV2: POI[] = [
             },
             {
                   "name": "Harbour Road Garden",
-                  "text": "Harbour Road Garden is a green oasis in Causeway Bay.",
+                  "text": "Harbour Road Garden, a park in Causeway Bay.",
                   "category": "park",
                   "coords": [
                         114.175473,
@@ -2712,7 +5034,304 @@ export const hongkongEconomicV2: POI[] = [
     image: "/poi-images/hongkong-causeway-bay-economic-v2.webp",
   },
   {
-    id: "hongkong-quarry-bay-taikoo-place-economic-v2",
+    id: "hongkong-quarry-bay-taikoo-place-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Para Site",
+                  "text": "Para Site ist eine führende Galerie für zeitgenössische Kunst und ein unabhängiger Kunstraum in Hongkong.",
+                  "category": "museum",
+                  "coords": [
+                        114.208998,
+                        22.291227
+                  ]
+            },
+            {
+                  "name": "Braemar Hill",
+                  "text": "Der Braemar Hill ist ein markanter Gipfel südlich von North Point, der einen weiten Blick auf den Victoria Harbour bietet.",
+                  "category": "natural",
+                  "coords": [
+                        114.206442,
+                        22.286418
+                  ]
+            },
+            {
+                  "name": "Braemar Hill Lookout",
+                  "text": "Der Braemar Hill Lookout bietet einen atemberaubenden Panoramablick über die Stadt und den Victoria Harbour.",
+                  "category": "natural",
+                  "coords": [
+                        114.207147,
+                        22.285471
+                  ]
+            },
+            {
+                  "name": "ArtisTree",
+                  "text": "ArtisTree ist ein dynamischer Mehrzweck-Kunst- und Kulturort am Taikoo Place.",
+                  "category": "museum",
+                  "coords": [
+                        114.210831,
+                        22.28685
+                  ]
+            },
+            {
+                  "name": "Chinese Methodist Church (North Point)",
+                  "text": "Die Chinese Methodist Church in North Point dient als Hauptgottesdienstort der örtlichen methodistischen Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        114.207039,
+                        22.290747
+                  ]
+            },
+            {
+                  "name": "Healthy Village Playground",
+                  "text": "Der Healthy Village Playground bietet einen Erholungsraum im Freien innerhalb der öffentlichen Wohnsiedlung Healthy Village.",
+                  "category": "park",
+                  "coords": [
+                        114.205805,
+                        22.290671
+                  ]
+            },
+            {
+                  "name": "Dockyard Theatre",
+                  "text": "Das Dockyard Theatre ist ein Veranstaltungsort für darstellende Künste im historischen Hafenviertel.",
+                  "category": "cultural",
+                  "coords": [
+                        114.212877,
+                        22.289057
+                  ]
+            },
+            {
+                  "name": "Yi Pak Kung Temple",
+                  "text": "Der Yi Pak Kung Tempel ist eine traditionelle buddhistische Kultstätte, die Gläubigen einen ruhigen Raum bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        114.210128,
+                        22.285887
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Para Site",
+                  "text": "A Para Site egy vezető kortárs művészeti galéria és független művészeti tér Hongkongban.",
+                  "category": "museum",
+                  "coords": [
+                        114.208998,
+                        22.291227
+                  ]
+            },
+            {
+                  "name": "Braemar Hill",
+                  "text": "A Braemar Hill egy kiemelkedő hegycsúcs North Pointtól délre, ahonnan pazar kilátás nyílik a Victoria kikötőre.",
+                  "category": "natural",
+                  "coords": [
+                        114.206442,
+                        22.286418
+                  ]
+            },
+            {
+                  "name": "Braemar Hill Lookout",
+                  "text": "A Braemar Hill Lookout lenyűgöző panorámás kilátópontot kínál a városra és a Victoria kikötőre.",
+                  "category": "natural",
+                  "coords": [
+                        114.207147,
+                        22.285471
+                  ]
+            },
+            {
+                  "name": "ArtisTree",
+                  "text": "Az ArtisTree egy dinamikus, többcélú művészeti és kulturális helyszín a Taikoo Place területén.",
+                  "category": "museum",
+                  "coords": [
+                        114.210831,
+                        22.28685
+                  ]
+            },
+            {
+                  "name": "Chinese Methodist Church (North Point)",
+                  "text": "A North Point-i Kínai Metodista Templom a helyi metodista gyülekezet elsődleges istentiszteleti helyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        114.207039,
+                        22.290747
+                  ]
+            },
+            {
+                  "name": "Healthy Village Playground",
+                  "text": "A Healthy Village Playground szabadtéri rekreációs teret kínál a Healthy Village állami lakótelepen belül.",
+                  "category": "park",
+                  "coords": [
+                        114.205805,
+                        22.290671
+                  ]
+            },
+            {
+                  "name": "Dockyard Theatre",
+                  "text": "A Dockyard Theatre egy előadóművészeti helyszín, amely a történelmi vízparti negyedben található.",
+                  "category": "cultural",
+                  "coords": [
+                        114.212877,
+                        22.289057
+                  ]
+            },
+            {
+                  "name": "Yi Pak Kung Temple",
+                  "text": "A Yi Pak Kung templom egy hagyományos buddhista istentiszteleti hely, amely nyugodt teret kínál a híveknek.",
+                  "category": "landmark",
+                  "coords": [
+                        114.210128,
+                        22.285887
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Para Site",
+                  "text": "Para Site este o galerie de artă contemporană de top și un spațiu de artă independent din Hong Kong.",
+                  "category": "museum",
+                  "coords": [
+                        114.208998,
+                        22.291227
+                  ]
+            },
+            {
+                  "name": "Braemar Hill",
+                  "text": "Braemar Hill este un vârf proeminent care se înalță la sud de North Point, oferind vederi panoramice asupra Portului Victoria.",
+                  "category": "natural",
+                  "coords": [
+                        114.206442,
+                        22.286418
+                  ]
+            },
+            {
+                  "name": "Braemar Hill Lookout",
+                  "text": "Punctul de belvedere Braemar Hill oferă o perspectivă panoramică uimitoare asupra orașului și a Portului Victoria.",
+                  "category": "natural",
+                  "coords": [
+                        114.207147,
+                        22.285471
+                  ]
+            },
+            {
+                  "name": "ArtisTree",
+                  "text": "ArtisTree este un spațiu cultural și de artă multifuncțional și dinamic situat în Taikoo Place.",
+                  "category": "museum",
+                  "coords": [
+                        114.210831,
+                        22.28685
+                  ]
+            },
+            {
+                  "name": "Chinese Methodist Church (North Point)",
+                  "text": "Biserica Metodistă Chineză din North Point servește drept lăcaș principal de cult pentru congregația metodistă locală.",
+                  "category": "religious",
+                  "coords": [
+                        114.207039,
+                        22.290747
+                  ]
+            },
+            {
+                  "name": "Healthy Village Playground",
+                  "text": "Healthy Village Playground oferă un spațiu de recreere în aer liber situat în cartierul de locuințe sociale Healthy Village.",
+                  "category": "park",
+                  "coords": [
+                        114.205805,
+                        22.290671
+                  ]
+            },
+            {
+                  "name": "Dockyard Theatre",
+                  "text": "Dockyard Theatre este un loc de desfășurare a artelor spectacolului situat în cartierul istoric de pe faleză.",
+                  "category": "cultural",
+                  "coords": [
+                        114.212877,
+                        22.289057
+                  ]
+            },
+            {
+                  "name": "Yi Pak Kung Temple",
+                  "text": "Templul Yi Pak Kung este un lăcaș de cult budist tradițional, care oferă un spațiu liniștit pentru credincioși.",
+                  "category": "landmark",
+                  "coords": [
+                        114.210128,
+                        22.285887
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Para Site",
+                  "text": "Para Site is a leading contemporary art gallery and independent art space in Hong Kong.",
+                  "category": "museum",
+                  "coords": [
+                        114.208998,
+                        22.291227
+                  ]
+            },
+            {
+                  "name": "Braemar Hill",
+                  "text": "Braemar Hill is a prominent peak rising south of North Point, offering sweeping views of Victoria Harbour.",
+                  "category": "natural",
+                  "coords": [
+                        114.206442,
+                        22.286418
+                  ]
+            },
+            {
+                  "name": "Braemar Hill Lookout",
+                  "text": "Braemar Hill Lookout provides a stunning panoramic vantage point over the city and Victoria Harbour.",
+                  "category": "natural",
+                  "coords": [
+                        114.207147,
+                        22.285471
+                  ]
+            },
+            {
+                  "name": "ArtisTree",
+                  "text": "ArtisTree is a dynamic multi-purpose arts and cultural venue located within Taikoo Place.",
+                  "category": "museum",
+                  "coords": [
+                        114.210831,
+                        22.28685
+                  ]
+            },
+            {
+                  "name": "Chinese Methodist Church (North Point)",
+                  "text": "The Chinese Methodist Church in North Point serves as a primary place of worship for the local Methodist congregation.",
+                  "category": "religious",
+                  "coords": [
+                        114.207039,
+                        22.290747
+                  ]
+            },
+            {
+                  "name": "Healthy Village Playground",
+                  "text": "Healthy Village Playground offers an outdoor recreational space situated within the Healthy Village public housing estate.",
+                  "category": "park",
+                  "coords": [
+                        114.205805,
+                        22.290671
+                  ]
+            },
+            {
+                  "name": "Dockyard Theatre",
+                  "text": "The Dockyard Theatre is a performing arts venue situated in the historic waterfront district.",
+                  "category": "cultural",
+                  "coords": [
+                        114.212877,
+                        22.289057
+                  ]
+            },
+            {
+                  "name": "Yi Pak Kung Temple",
+                  "text": "Yi Pak Kung Temple is a traditional Buddhist site of worship offering a tranquil space for devotees.",
+                  "category": "landmark",
+                  "coords": [
+                        114.210128,
+                        22.285887
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "landmark",
     name: { de: "Quarry Bay (Taikoo Place)", hu: "Quarry Bay (Taikoo Place)", ro: "Quarry Bay (Taikoo Place)", en: "Quarry Bay (Taikoo Place)" },
@@ -2757,7 +5376,592 @@ export const hongkongEconomicV2: POI[] = [
     image: "/poi-images/hongkong-quarry-bay-taikoo-place-economic-v2.webp",
   },
   {
-    id: "hongkong-kwun-tong-business-area-economic-v2",
+    id: "hongkong-kwun-tong-business-area-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Osage",
+                  "text": "Dieses weitläufige Kunstzentrum befindet sich in einem ehemaligen Industriegebäude und zeigt hochmoderne zeitgenössische Ausstellungen in Kwun Tong.",
+                  "category": "cultural",
+                  "coords": [
+                        114.225571,
+                        22.308554
+                  ]
+            },
+            {
+                  "name": "On Sau Road Park",
+                  "text": "Dieser moderne öffentliche Park erstreckt sich entlang der On Sau Road in Kwun Tong und bietet angelegte Ruhezonen sowie Fitnessgeräte im Freien.",
+                  "category": "park",
+                  "coords": [
+                        114.232176,
+                        22.323262
+                  ]
+            },
+            {
+                  "name": "Sau Mau Ping Memorial Park",
+                  "text": "Dieser feierliche Park in Kwun Tong wurde zum Gedenken an die Opfer des tragischen Erdrutschs vom Juni 1976 in der Gegend von Sau Mau Ping errichtet.",
+                  "category": "park",
+                  "coords": [
+                        114.228937,
+                        22.317999
+                  ]
+            },
+            {
+                  "name": "Yuet Wah Street Playground",
+                  "text": "Dieser Spielplatz in Kwun Tong liegt in einem belebten Stadtviertel und verfügt über Mehrzweck-Sportplätze und Klettergerüste für Kinder.",
+                  "category": "park",
+                  "coords": [
+                        114.226695,
+                        22.315086
+                  ]
+            },
+            {
+                  "name": "Laguna Park",
+                  "text": "Dieser weitläufige Park in Kwun Tong grenzt an den Wohnkomplex Laguna City und ist für seine angelegten Wasserspiele und Joggingstrecken bekannt.",
+                  "category": "park",
+                  "coords": [
+                        114.226384,
+                        22.307052
+                  ]
+            },
+            {
+                  "name": "Cha Kwo Ling Promenade",
+                  "text": "Diese gepflasterte Promenade in Kwun Tong verläuft am Wasser entlang und bietet einen weiten Blick auf den Victoria Harbour sowie familienfreundliche Sitzgelegenheiten.",
+                  "category": "park",
+                  "coords": [
+                        114.223877,
+                        22.305149
+                  ]
+            },
+            {
+                  "name": "Hong Ning Road Park (Phase 1)",
+                  "text": "Die erste Phase dieses Parks in Kwun Tong ist mit traditionellen chinesischen Gartenelementen gestaltet und umfasst Pavillons sowie malerische Lotusteiche.",
+                  "category": "park",
+                  "coords": [
+                        114.224145,
+                        22.319849
+                  ]
+            },
+            {
+                  "name": "Sau Ming Road Park",
+                  "text": "Dieser über den umliegenden Straßen gelegene, angelegte Nachbarschaftspark in Kwun Tong bietet wichtige Grünflächen und einen schattigen Tai-Chi-Bereich.",
+                  "category": "park",
+                  "coords": [
+                        114.229859,
+                        22.322421
+                  ]
+            },
+            {
+                  "name": "Hong Ning Road Park (Phase 2)",
+                  "text": "Die zweite Phase dieses Parks in Kwun Tong erweitert den ersten Abschnitt um größere Freizeitplätze und ausgedehnte Wanderwege zwischen alten Bäumen.",
+                  "category": "park",
+                  "coords": [
+                        114.225835,
+                        22.320314
+                  ]
+            },
+            {
+                  "name": "the church in hong kong (kwun tong assembly hall)",
+                  "text": "Diese christliche Versammlungshalle in Kwun Tong liegt in einem belebten Geschäftsviertel und bietet ein großes Auditorium für Versammlungen der örtlichen Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        114.223386,
+                        22.313943
+                  ]
+            },
+            {
+                  "name": "Stewards",
+                  "text": "Diese als christliches Sozialunternehmen in Kwun Tong tätige Einrichtung verbindet glaubensbasierte Gemeindedienste mit beruflicher Unterstützung.",
+                  "category": "landmark",
+                  "coords": [
+                        114.222726,
+                        22.318575
+                  ]
+            },
+            {
+                  "name": "Catholic Resurrection Parish",
+                  "text": "Die Resurrection Parish ist eine christliche Pfarrkirche in Hong Kong.",
+                  "category": "landmark",
+                  "coords": [
+                        114.227874,
+                        22.31841
+                  ]
+            },
+            {
+                  "name": "Sheng Kung Hui St. Barnabas' Church",
+                  "text": "Die Sheng Kung Hui St. Barnabas' Church ist ein christliches Gotteshaus in Hong Kong.",
+                  "category": "landmark",
+                  "coords": [
+                        114.225555,
+                        22.316157
+                  ]
+            },
+            {
+                  "name": "Tsui Ping Market",
+                  "text": "Der Tsui Ping Market ist ein lokaler Marktplatz in Hong Kong.",
+                  "category": "cultural",
+                  "coords": [
+                        114.22975,
+                        22.315827
+                  ]
+            },
+            {
+                  "name": "Shui Wo Street Market",
+                  "text": "Der Shui Wo Street Market ist ein geschäftiger Marktplatz in Hong Kong.",
+                  "category": "cultural",
+                  "coords": [
+                        114.224293,
+                        22.315785
+                  ]
+            },
+            {
+                  "name": "Yee On Street Market",
+                  "text": "Der Yee On Street Market ist ein lokaler Markt in Hong Kong.",
+                  "category": "cultural",
+                  "coords": [
+                        114.22178,
+                        22.315558
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Osage",
+                  "text": "Egy egykori ipari épületben található ez a hatalmas művészeti központ, amely élvonalbeli kortárs kiállításokat mutat be Kwun Tongban.",
+                  "category": "cultural",
+                  "coords": [
+                        114.225571,
+                        22.308554
+                  ]
+            },
+            {
+                  "name": "On Sau Road Park",
+                  "text": "A Kwun Tong-i On Sau Road mentén húzódó modern közpark parkosított pihenőhelyekkel és szabadtéri fitneszgépekkel várja a látogatókat.",
+                  "category": "park",
+                  "coords": [
+                        114.232176,
+                        22.323262
+                  ]
+            },
+            {
+                  "name": "Sau Mau Ping Memorial Park",
+                  "text": "Ezt az ünnepélyes Kwun Tong-i parkot a Sau Mau Ping térségben 1976 júniusában bekövetkezett tragikus földcsuszamlás áldozatainak emlékére hozták létre.",
+                  "category": "park",
+                  "coords": [
+                        114.228937,
+                        22.317999
+                  ]
+            },
+            {
+                  "name": "Yuet Wah Street Playground",
+                  "text": "A nyüzsgő városi negyedben található Kwun Tong-i játszótér többcélú sportpályákkal és gyermekmászókákkal rendelkezik.",
+                  "category": "park",
+                  "coords": [
+                        114.226695,
+                        22.315086
+                  ]
+            },
+            {
+                  "name": "Laguna Park",
+                  "text": "A Laguna City lakóparkkal szomszédos, tágas Kwun Tong-i park parkosított vízi látványosságairól és kocogópályáiról ismert.",
+                  "category": "park",
+                  "coords": [
+                        114.226384,
+                        22.307052
+                  ]
+            },
+            {
+                  "name": "Cha Kwo Ling Promenade",
+                  "text": "A vízparton húzódó, burkolt Kwun Tong-i sétány kiterjedt kilátást nyújt a Victoria-kikötőre, és családbarát ülőhelyekkel várja a látogatókat.",
+                  "category": "park",
+                  "coords": [
+                        114.223877,
+                        22.305149
+                  ]
+            },
+            {
+                  "name": "Hong Ning Road Park (Phase 1)",
+                  "text": "A hagyományos kínai kerti elemeket felvonultató Kwun Tong-i park első fázisa pavilonokat és festői lótusztavakat is magában foglal.",
+                  "category": "park",
+                  "coords": [
+                        114.224145,
+                        22.319849
+                  ]
+            },
+            {
+                  "name": "Sau Ming Road Park",
+                  "text": "A környező utcák fölé magasodó, parkosított Kwun Tong-i környékbeli park fontos zöldterületet és egy árnyékos tai chi területet biztosít.",
+                  "category": "park",
+                  "coords": [
+                        114.229859,
+                        22.322421
+                  ]
+            },
+            {
+                  "name": "Hong Ning Road Park (Phase 2)",
+                  "text": "Az első szakaszt kibővítve, a Kwun Tong-i park második fázisa nagyobb rekreációs terekkel és öreg fák közötti kiterjedt sétautakkal bővült.",
+                  "category": "park",
+                  "coords": [
+                        114.225835,
+                        22.320314
+                  ]
+            },
+            {
+                  "name": "the church in hong kong (kwun tong assembly hall)",
+                  "text": "A forgalmas kereskedelmi övezetben található Kwun Tong-i keresztény gyülekezeti terem egy nagy auditóriumot biztosít a helyi közösség összejöveteleihez.",
+                  "category": "landmark",
+                  "coords": [
+                        114.223386,
+                        22.313943
+                  ]
+            },
+            {
+                  "name": "Stewards",
+                  "text": "A Kwun Tong-ban keresztény társadalmi vállalkozásként működő létesítmény a hiten alapuló közösségi szolgáltatásokat szakképzési támogatással ötvözi.",
+                  "category": "landmark",
+                  "coords": [
+                        114.222726,
+                        22.318575
+                  ]
+            },
+            {
+                  "name": "Catholic Resurrection Parish",
+                  "text": "A Resurrection Parish egy keresztény plébániatemplom Hong Kongban.",
+                  "category": "landmark",
+                  "coords": [
+                        114.227874,
+                        22.31841
+                  ]
+            },
+            {
+                  "name": "Sheng Kung Hui St. Barnabas' Church",
+                  "text": "A Sheng Kung Hui St. Barnabas' Church egy keresztény templom Hong Kongban.",
+                  "category": "landmark",
+                  "coords": [
+                        114.225555,
+                        22.316157
+                  ]
+            },
+            {
+                  "name": "Tsui Ping Market",
+                  "text": "A Tsui Ping Market egy helyi piac Hong Kongban.",
+                  "category": "cultural",
+                  "coords": [
+                        114.22975,
+                        22.315827
+                  ]
+            },
+            {
+                  "name": "Shui Wo Street Market",
+                  "text": "A Shui Wo Street Market egy nyüzsgő piac Hong Kongban.",
+                  "category": "cultural",
+                  "coords": [
+                        114.224293,
+                        22.315785
+                  ]
+            },
+            {
+                  "name": "Yee On Street Market",
+                  "text": "A Yee On Street Market egy helyi piac Hong Kongban.",
+                  "category": "cultural",
+                  "coords": [
+                        114.22178,
+                        22.315558
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Osage",
+                  "text": "Situat într-o fostă clădire industrială, acest vast centru de artă prezintă expoziții contemporane de ultimă oră în Kwun Tong.",
+                  "category": "cultural",
+                  "coords": [
+                        114.225571,
+                        22.308554
+                  ]
+            },
+            {
+                  "name": "On Sau Road Park",
+                  "text": "Întinzându-se de-a lungul străzii On Sau din Kwun Tong, acest parc public modern oferă zone de odihnă amenajate și echipamente de fitness în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        114.232176,
+                        22.323262
+                  ]
+            },
+            {
+                  "name": "Sau Mau Ping Memorial Park",
+                  "text": "Acest parc solemn din Kwun Tong a fost înființat pentru a comemora victimele tragicei alunecări de teren din iunie 1976 din zona Sau Mau Ping.",
+                  "category": "park",
+                  "coords": [
+                        114.228937,
+                        22.317999
+                  ]
+            },
+            {
+                  "name": "Yuet Wah Street Playground",
+                  "text": "Amplasat într-un cartier urban aglomerat, acest loc de joacă din Kwun Tong are terenuri de sport polivalente și cadre de joacă pentru copii.",
+                  "category": "park",
+                  "coords": [
+                        114.226695,
+                        22.315086
+                  ]
+            },
+            {
+                  "name": "Laguna Park",
+                  "text": "Adiacent complexului rezidențial Laguna City, acest parc spațios din Kwun Tong este cunoscut pentru jocurile de apă amenajate și traseele sale de jogging.",
+                  "category": "park",
+                  "coords": [
+                        114.226384,
+                        22.307052
+                  ]
+            },
+            {
+                  "name": "Cha Kwo Ling Promenade",
+                  "text": "Desfășurându-se de-a lungul malului apei, această promenadă pavată din Kwun Tong oferă vederi extinse ale portului Victoria și zone de relaxare potrivite pentru familii.",
+                  "category": "park",
+                  "coords": [
+                        114.223877,
+                        22.305149
+                  ]
+            },
+            {
+                  "name": "Hong Ning Road Park (Phase 1)",
+                  "text": "Prezentând elemente de grădină tradițională chineză, prima fază a acestui parc din Kwun Tong include pavilioane și iazuri pitorești cu lotuși.",
+                  "category": "park",
+                  "coords": [
+                        114.224145,
+                        22.319849
+                  ]
+            },
+            {
+                  "name": "Sau Ming Road Park",
+                  "text": "Ridicat deasupra străzilor din jur, acest parc de cartier amenajat din Kwun Tong oferă spațiu verde esențial și o zonă umbrită pentru tai chi.",
+                  "category": "park",
+                  "coords": [
+                        114.229859,
+                        22.322421
+                  ]
+            },
+            {
+                  "name": "Hong Ning Road Park (Phase 2)",
+                  "text": "Extinzând prima secțiune, a doua fază a acestui parc din Kwun Tong adaugă piețe de recreere mai mari și trasee de mers pe jos extinse printre copaci maturi.",
+                  "category": "park",
+                  "coords": [
+                        114.225835,
+                        22.320314
+                  ]
+            },
+            {
+                  "name": "the church in hong kong (kwun tong assembly hall)",
+                  "text": "Situată într-o zonă comercială aglomerată, această sală de adunări creștină din Kwun Tong oferă un auditoriu mare pentru întrunirile congregației locale.",
+                  "category": "landmark",
+                  "coords": [
+                        114.223386,
+                        22.313943
+                  ]
+            },
+            {
+                  "name": "Stewards",
+                  "text": "Funcționând ca o întreprindere socială creștină în Kwun Tong, această facilitate integrează serviciile comunitare bazate pe credință cu sprijinul vocațional.",
+                  "category": "landmark",
+                  "coords": [
+                        114.222726,
+                        22.318575
+                  ]
+            },
+            {
+                  "name": "Catholic Resurrection Parish",
+                  "text": "Resurrection Parish este o biserică parohială creștină din Hong Kong.",
+                  "category": "landmark",
+                  "coords": [
+                        114.227874,
+                        22.31841
+                  ]
+            },
+            {
+                  "name": "Sheng Kung Hui St. Barnabas' Church",
+                  "text": "Sheng Kung Hui St. Barnabas' Church este un lăcaș de cult creștin din Hong Kong.",
+                  "category": "landmark",
+                  "coords": [
+                        114.225555,
+                        22.316157
+                  ]
+            },
+            {
+                  "name": "Tsui Ping Market",
+                  "text": "Tsui Ping Market este o piață locală din Hong Kong.",
+                  "category": "cultural",
+                  "coords": [
+                        114.22975,
+                        22.315827
+                  ]
+            },
+            {
+                  "name": "Shui Wo Street Market",
+                  "text": "Shui Wo Street Market este o piață animată din Hong Kong.",
+                  "category": "cultural",
+                  "coords": [
+                        114.224293,
+                        22.315785
+                  ]
+            },
+            {
+                  "name": "Yee On Street Market",
+                  "text": "Yee On Street Market este o piață locală din Hong Kong.",
+                  "category": "cultural",
+                  "coords": [
+                        114.22178,
+                        22.315558
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Osage",
+                  "text": "Situated in a former industrial building, this expansive arts centre showcases cutting-edge contemporary exhibitions in Kwun Tong.",
+                  "category": "cultural",
+                  "coords": [
+                        114.225571,
+                        22.308554
+                  ]
+            },
+            {
+                  "name": "On Sau Road Park",
+                  "text": "Stretching along On Sau Road in Kwun Tong, this modern public park provides landscaped resting areas and outdoor fitness equipment.",
+                  "category": "park",
+                  "coords": [
+                        114.232176,
+                        22.323262
+                  ]
+            },
+            {
+                  "name": "Sau Mau Ping Memorial Park",
+                  "text": "This solemn Kwun Tong park was established to commemorate the victims of the tragic June 1976 landslide in the Sau Mau Ping area.",
+                  "category": "park",
+                  "coords": [
+                        114.228937,
+                        22.317999
+                  ]
+            },
+            {
+                  "name": "Yuet Wah Street Playground",
+                  "text": "Nestled in a bustling urban district, this Kwun Tong playground features multi-purpose sports courts and children's play frames.",
+                  "category": "park",
+                  "coords": [
+                        114.226695,
+                        22.315086
+                  ]
+            },
+            {
+                  "name": "Laguna Park",
+                  "text": "Adjacent to the Laguna City residential complex, this spacious park in Kwun Tong is known for its landscaped water features and jogging trails.",
+                  "category": "park",
+                  "coords": [
+                        114.226384,
+                        22.307052
+                  ]
+            },
+            {
+                  "name": "Cha Kwo Ling Promenade",
+                  "text": "Running along the waterfront, this paved promenade in Kwun Tong offers expansive views of Victoria Harbour and family-friendly seating areas.",
+                  "category": "park",
+                  "coords": [
+                        114.223877,
+                        22.305149
+                  ]
+            },
+            {
+                  "name": "Hong Ning Road Park (Phase 1)",
+                  "text": "Featuring traditional Chinese garden elements, the first phase of this Kwun Tong park includes pavilions and scenic lotus ponds.",
+                  "category": "park",
+                  "coords": [
+                        114.224145,
+                        22.319849
+                  ]
+            },
+            {
+                  "name": "Sau Ming Road Park",
+                  "text": "Elevated above the surrounding streets, this landscaped neighbourhood park in Kwun Tong provides essential green space and a shaded tai chi area.",
+                  "category": "park",
+                  "coords": [
+                        114.229859,
+                        22.322421
+                  ]
+            },
+            {
+                  "name": "Hong Ning Road Park (Phase 2)",
+                  "text": "Expanding on the first section, the second phase of this Kwun Tong park adds larger recreational plazas and extended walking trails among mature trees.",
+                  "category": "park",
+                  "coords": [
+                        114.225835,
+                        22.320314
+                  ]
+            },
+            {
+                  "name": "the church in hong kong (kwun tong assembly hall)",
+                  "text": "Situated within a busy commercial zone, this Christian assembly hall in Kwun Tong provides a large auditorium for local congregation gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        114.223386,
+                        22.313943
+                  ]
+            },
+            {
+                  "name": "Stewards",
+                  "text": "Operating as a Christian social enterprise in Kwun Tong, this facility integrates faith-based community services with vocational support.",
+                  "category": "landmark",
+                  "coords": [
+                        114.222726,
+                        22.318575
+                  ]
+            },
+            {
+                  "name": "Resurrection Parish",
+                  "text": "Resurrection Parish is a Christian parish church in Hong Kong.",
+                  "category": "landmark",
+                  "coords": [
+                        114.227874,
+                        22.31841
+                  ]
+            },
+            {
+                  "name": "Sheng Kung Hui St. Barnabas' Church",
+                  "text": "Sheng Kung Hui St. Barnabas' Church is a Christian place of worship in Hong Kong.",
+                  "category": "landmark",
+                  "coords": [
+                        114.225555,
+                        22.316157
+                  ]
+            },
+            {
+                  "name": "Tsui Ping Market",
+                  "text": "Tsui Ping Market is a local marketplace in Hong Kong.",
+                  "category": "cultural",
+                  "coords": [
+                        114.22975,
+                        22.315827
+                  ]
+            },
+            {
+                  "name": "Shui Wo Street Market",
+                  "text": "Shui Wo Street Market is a bustling marketplace in Hong Kong.",
+                  "category": "cultural",
+                  "coords": [
+                        114.224293,
+                        22.315785
+                  ]
+            },
+            {
+                  "name": "Yee On Street Market",
+                  "text": "Yee On Street Market is a local marketplace in Hong Kong.",
+                  "category": "cultural",
+                  "coords": [
+                        114.22178,
+                        22.315558
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "city",
     name: { de: "Kwun Tong Geschäftsviertel", hu: "Kwun Tong üzleti negyed", ro: "Zona de afaceri Kwun Tong", en: "Kwun Tong Business Area" },
@@ -2802,7 +6006,160 @@ export const hongkongEconomicV2: POI[] = [
     image: "/poi-images/hongkong-kwun-tong-business-area-economic-v2.webp",
   },
   {
-    id: "hongkong-kowloon-bay-business-district-economic-v2",
+    id: "hongkong-kowloon-bay-business-district-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zero Carbon Building",
+                  "text": "Dieser ökologische Park in Kowloon Bay beherbergt Hongkongs erstes emissionsfreies Gebäude, das nachhaltige Architektur präsentiert.",
+                  "category": "park",
+                  "coords": [
+                        114.208365,
+                        22.320954
+                  ]
+            },
+            {
+                  "name": "Kowloon Bay Park",
+                  "text": "Dieser belebte Erholungspark in Kowloon Bay verfügt über eine Radrennbahn im Freien und Kunstrasenplätze für lokale Sportarten.",
+                  "category": "park",
+                  "coords": [
+                        114.206845,
+                        22.327183
+                  ]
+            },
+            {
+                  "name": "Lam Wah Street Playground",
+                  "text": "Dieser städtische Spielplatz liegt versteckt zwischen den Geschäftsgebäuden der Kowloon Bay und bietet gepflasterte Sportplätze für Anwohner.",
+                  "category": "park",
+                  "coords": [
+                        114.206828,
+                        22.32276
+                  ]
+            },
+            {
+                  "name": "Kowloon Bay Playground",
+                  "text": "Dieser lokale Stadtpark bietet Hartplätze für Sport und einen Kinderspielplatz direkt im Herzen des Geschäftsviertels Kowloon Bay.",
+                  "category": "park",
+                  "coords": [
+                        114.210231,
+                        22.326094
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zero Carbon Building",
+                  "text": "A Kowloon Bay-ben található ökológiai parkban kapott helyet Hongkong első nulla szén-dioxid-kibocsátású épülete, amely a fenntartható építészetet mutatja be.",
+                  "category": "park",
+                  "coords": [
+                        114.208365,
+                        22.320954
+                  ]
+            },
+            {
+                  "name": "Kowloon Bay Park",
+                  "text": "Ez a nyüzsgő pihenőpark Kowloon Bay-ben egy szabadtéri kerékpáros pályával és műfüves sportpályákkal várja a látogatókat.",
+                  "category": "park",
+                  "coords": [
+                        114.206845,
+                        22.327183
+                  ]
+            },
+            {
+                  "name": "Lam Wah Street Playground",
+                  "text": "A Kowloon Bay kereskedelmi épületei között megbúvó városi játszótér aszfaltozott sportpályákkal várja a helyi dolgozókat és lakosokat.",
+                  "category": "park",
+                  "coords": [
+                        114.206828,
+                        22.32276
+                  ]
+            },
+            {
+                  "name": "Kowloon Bay Playground",
+                  "text": "Ez a helyi városi park aszfaltozott sportpályákat és egy játszóteret kínál közvetlenül a Kowloon Bay üzleti negyedének szívében.",
+                  "category": "park",
+                  "coords": [
+                        114.210231,
+                        22.326094
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zero Carbon Building",
+                  "text": "Situat în Kowloon Bay, acest parc ecologic pionier găzduiește prima clădire cu emisii zero de carbon din Hong Kong, concepută pentru a prezenta arhitectura durabilă.",
+                  "category": "park",
+                  "coords": [
+                        114.208365,
+                        22.320954
+                  ]
+            },
+            {
+                  "name": "Kowloon Bay Park",
+                  "text": "Acest spațiu de recreere plin de viață din Kowloon Bay are o pistă de ciclism în aer liber și terenuri de sport cu gazon artificial.",
+                  "category": "park",
+                  "coords": [
+                        114.206845,
+                        22.327183
+                  ]
+            },
+            {
+                  "name": "Lam Wah Street Playground",
+                  "text": "Ascuns printre clădirile comerciale din Kowloon Bay, acest loc de joacă urban oferă o zonă de recreere pavată cu terenuri de sport pentru localnici.",
+                  "category": "park",
+                  "coords": [
+                        114.206828,
+                        22.32276
+                  ]
+            },
+            {
+                  "name": "Kowloon Bay Playground",
+                  "text": "Acest parc urban local oferă terenuri de sport cu suprafață dură și o zonă de joacă pentru copii chiar în inima cartierului de afaceri din Kowloon Bay.",
+                  "category": "park",
+                  "coords": [
+                        114.210231,
+                        22.326094
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zero Carbon Building",
+                  "text": "Located in Kowloon Bay, this pioneering ecological park features Hong Kong's first zero-carbon building designed to showcase sustainable architecture.",
+                  "category": "park",
+                  "coords": [
+                        114.208365,
+                        22.320954
+                  ]
+            },
+            {
+                  "name": "Kowloon Bay Park",
+                  "text": "This vibrant recreational space in Kowloon Bay features an outdoor cycling track and artificial turf pitches for local sports.",
+                  "category": "park",
+                  "coords": [
+                        114.206845,
+                        22.327183
+                  ]
+            },
+            {
+                  "name": "Lam Wah Street Playground",
+                  "text": "Tucked among the commercial buildings of Kowloon Bay, this urban playground offers a paved recreational area with sports courts for local workers and residents.",
+                  "category": "park",
+                  "coords": [
+                        114.206828,
+                        22.32276
+                  ]
+            },
+            {
+                  "name": "Kowloon Bay Playground",
+                  "text": "This local urban park provides hard-surface sports courts and a children's play area right in the heart of the Kowloon Bay business district.",
+                  "category": "park",
+                  "coords": [
+                        114.210231,
+                        22.326094
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "city",
     name: { de: "Kowloon Bay Geschäftsviertel", hu: "Kowloon Bay üzleti negyed", ro: "Districtul de afaceri Kowloon Bay", en: "Kowloon Bay Business District" },
@@ -2847,7 +6204,160 @@ export const hongkongEconomicV2: POI[] = [
     image: "/poi-images/hongkong-kowloon-bay-business-district-economic-v2.webp",
   },
   {
-    id: "hongkong-sheung-wan-trade-area-economic-v2",
+    id: "hongkong-sheung-wan-trade-area-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sheung Wan Civic Centre",
+                  "text": "Das Sheung Wan Civic Centre ist ein städtisches Kulturzentrum mit einem Theater und verschiedenen Ausstellungsräumen.",
+                  "category": "cultural",
+                  "coords": [
+                        114.149526,
+                        22.286154
+                  ]
+            },
+            {
+                  "name": "Marina maison",
+                  "text": "Das Marina Maison ist ein Aussichtspunkt im belebten Geschäftsviertel von Sheung Wan.",
+                  "category": "natural",
+                  "coords": [
+                        114.148603,
+                        22.285398
+                  ]
+            },
+            {
+                  "name": "Hollywood Road Park",
+                  "text": "Der Hollywood Road Park ist eine öffentliche Grünanlage im chinesischen Stil an der historischen Stätte des Possession Point.",
+                  "category": "park",
+                  "coords": [
+                        114.147683,
+                        22.286078
+                  ]
+            },
+            {
+                  "name": "Cleverly Street Sitting-out Area",
+                  "text": "Die Cleverly Street Sitting-out Area ist ein kleiner städtischer Garten, der Pendlern eine kurze Ruhepause bietet.",
+                  "category": "park",
+                  "coords": [
+                        114.15072,
+                        22.28573
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sheung Wan Civic Centre",
+                  "text": "A Sheung Wan Civic Centre egy városi kulturális központ, amely színházteremmel és kiállítóterekkel is rendelkezik.",
+                  "category": "cultural",
+                  "coords": [
+                        114.149526,
+                        22.286154
+                  ]
+            },
+            {
+                  "name": "Marina maison",
+                  "text": "A Marina Maison egy kilátópont Sheung Wan üzleti negyedében.",
+                  "category": "natural",
+                  "coords": [
+                        114.148603,
+                        22.285398
+                  ]
+            },
+            {
+                  "name": "Hollywood Road Park",
+                  "text": "A Hollywood Road Park egy kínai stílusú közpark az egykori Possession Point történelmi helyszínén.",
+                  "category": "park",
+                  "coords": [
+                        114.147683,
+                        22.286078
+                  ]
+            },
+            {
+                  "name": "Cleverly Street Sitting-out Area",
+                  "text": "A Cleverly Street Sitting-out Area egy kis városi kert, amely rövid pihenési lehetőséget nyújt a járókelőknek.",
+                  "category": "park",
+                  "coords": [
+                        114.15072,
+                        22.28573
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sheung Wan Civic Centre",
+                  "text": "Sheung Wan Civic Centre este un centru cultural municipal care dispune de un teatru și săli de expoziție.",
+                  "category": "cultural",
+                  "coords": [
+                        114.149526,
+                        22.286154
+                  ]
+            },
+            {
+                  "name": "Marina maison",
+                  "text": "Marina Maison este un punct de belvedere situat în cartierul comercial Sheung Wan.",
+                  "category": "natural",
+                  "coords": [
+                        114.148603,
+                        22.285398
+                  ]
+            },
+            {
+                  "name": "Hollywood Road Park",
+                  "text": "Hollywood Road Park este un parc public în stil chinezesc, situat pe locul istoric Possession Point.",
+                  "category": "park",
+                  "coords": [
+                        114.147683,
+                        22.286078
+                  ]
+            },
+            {
+                  "name": "Cleverly Street Sitting-out Area",
+                  "text": "Cleverly Street Sitting-out Area este o mică grădină urbană amenajată pentru pauzele scurte ale pietonilor.",
+                  "category": "park",
+                  "coords": [
+                        114.15072,
+                        22.28573
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sheung Wan Civic Centre",
+                  "text": "The Sheung Wan Civic Centre is a municipal arts facility featuring a theatre and exhibition halls.",
+                  "category": "cultural",
+                  "coords": [
+                        114.149526,
+                        22.286154
+                  ]
+            },
+            {
+                  "name": "Marina maison",
+                  "text": "Marina Maison is a viewpoint located in the commercial district of Sheung Wan.",
+                  "category": "natural",
+                  "coords": [
+                        114.148603,
+                        22.285398
+                  ]
+            },
+            {
+                  "name": "Hollywood Road Park",
+                  "text": "Hollywood Road Park is a Chinese-style public park situated at the historical site of Possession Point.",
+                  "category": "park",
+                  "coords": [
+                        114.147683,
+                        22.286078
+                  ]
+            },
+            {
+                  "name": "Cleverly Street Sitting-out Area",
+                  "text": "The Cleverly Street Sitting-out Area is a small urban garden providing a brief resting spot for pedestrians.",
+                  "category": "park",
+                  "coords": [
+                        114.15072,
+                        22.28573
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "city",
     name: { de: "Sheung Wan Handelsviertel", hu: "Sheung Wan kereskedelmi negyed", ro: "Zona comercială Sheung Wan", en: "Sheung Wan Trade Area" },
@@ -2892,7 +6402,376 @@ export const hongkongEconomicV2: POI[] = [
     image: "/poi-images/hongkong-sheung-wan-trade-area-economic-v2.webp",
   },
   {
-    id: "hongkong-mong-kok-retail-economic-v2",
+    id: "hongkong-mong-kok-retail-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kadoorie Hill",
+                  "text": "Dieser äußerst bemerkenswerte Gipfel in Mong Kok ist mit luxuriösen flachen Villen und kurvigen, von Bäumen gesäumten Wohnstraßen bebaut.",
+                  "category": "natural",
+                  "coords": [
+                        114.175416,
+                        22.321752
+                  ]
+            },
+            {
+                  "name": "Goldfish Street",
+                  "text": "Diese weltberühmte Attraktion besteht aus unzähligen Schaufenstern, in denen farbenfrohe tropische Fische in Tausenden von beleuchteten Wasserbeuteln ausgestellt sind.",
+                  "category": "landmark",
+                  "coords": [
+                        114.169823,
+                        22.322972
+                  ]
+            },
+            {
+                  "name": "Shui Yuet Kung",
+                  "text": "Diese als Kulturerbe der Kategorie 5 geschützte, weltweit anerkannte Kultstätte beherbergt einen alten Altar, der der Göttin Guanyin gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        114.172918,
+                        22.317933
+                  ]
+            },
+            {
+                  "name": "Sai Yee Street Garden",
+                  "text": "Mit seinen Schachtischen aus Beton und schattigen Ruheplätzen bietet dieser städtische Park eine friedliche Auszeit vom umliegenden Einzelhandelswahnsinn.",
+                  "category": "park",
+                  "coords": [
+                        114.171857,
+                        22.317254
+                  ]
+            },
+            {
+                  "name": "Living Spring Foursquare Gospel Church",
+                  "text": "Diese in einem Geschäftsgebäude versteckte, dynamische christliche Kirche verfügt über moderne audiovisuelle Geräte für ihre Wochenendgottesdienste.",
+                  "category": "landmark",
+                  "coords": [
+                        114.167954,
+                        22.327428
+                  ]
+            },
+            {
+                  "name": "Kowloon Pentecostal Church (Tabernacle)",
+                  "text": "Die Kowloon Pentecostal Church (Tabernacle) ist eine Pfingstkirche in Mong Kok, die der lokalen christlichen Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        114.175408,
+                        22.318881
+                  ]
+            },
+            {
+                  "name": "The Church of Christ in China Mangkok Church Christian Centre",
+                  "text": "Das Church of Christ in China Mangkok Church Christian Centre ist ein christliches Zentrum dieser Konfession mitten in Mong Kok.",
+                  "category": "landmark",
+                  "coords": [
+                        114.169283,
+                        22.321882
+                  ]
+            },
+            {
+                  "name": "Kowloon Church of Seventh-day Adventists",
+                  "text": "Die Kowloon Church of Seventh-day Adventists ist eine Kirche der Siebenten-Tags-Adventisten in der Nähe von Mong Kok.",
+                  "category": "landmark",
+                  "coords": [
+                        114.169349,
+                        22.326305
+                  ]
+            },
+            {
+                  "name": "First Assembly Of God Church",
+                  "text": "Die First Assembly Of God Church in Mong Kok gehört zur weltweiten Pfingstbewegung der Assemblies of God.",
+                  "category": "landmark",
+                  "coords": [
+                        114.17375,
+                        22.320649
+                  ]
+            },
+            {
+                  "name": "Fa Yuen Street Market",
+                  "text": "Der Fa Yuen Street Market ist ein lebhafter Straßenmarkt in Mong Kok, der für sein dichtes Angebot an Textilien und Alltagsgegenständen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        114.170526,
+                        22.320885
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kadoorie Hill",
+                  "text": "Ezt a Mong Kokban található, igen figyelemreméltó csúcsot luxus, alacsony építésű villák és kanyargós, fákkal szegélyezett lakóutcák borítják.",
+                  "category": "natural",
+                  "coords": [
+                        114.175416,
+                        22.321752
+                  ]
+            },
+            {
+                  "name": "Goldfish Street",
+                  "text": "Ez a világhírű látványosság számtalan üzlethelyiségből áll, amelyek több ezer kivilágított vízzacskóban mutatják be a ragyogó trópusi halakat.",
+                  "category": "landmark",
+                  "coords": [
+                        114.169823,
+                        22.322972
+                  ]
+            },
+            {
+                  "name": "Shui Yuet Kung",
+                  "text": "Az 5-ös kategóriájú műemlékként védett, világszerte elismert istentiszteleti helyen egy ősi oltár található, amelyet Guanyin istennőnek szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        114.172918,
+                        22.317933
+                  ]
+            },
+            {
+                  "name": "Sai Yee Street Garden",
+                  "text": "A beton sakktáblákkal és árnyékos pihenőhelyekkel rendelkező városi park békés kikapcsolódást nyújt a környező kiskereskedelmi őrületből.",
+                  "category": "park",
+                  "coords": [
+                        114.171857,
+                        22.317254
+                  ]
+            },
+            {
+                  "name": "Living Spring Foursquare Gospel Church",
+                  "text": "Az egy kereskedelmi épületben megbúvó, energikus keresztény egyház modern audiovizuális berendezésekkel rendelkezik a hétvégi istentiszteleteihez.",
+                  "category": "landmark",
+                  "coords": [
+                        114.167954,
+                        22.327428
+                  ]
+            },
+            {
+                  "name": "Kowloon Pentecostal Church (Tabernacle)",
+                  "text": "A Kowloon Pentecostal Church (Tabernacle) egy pünkösdi gyülekezeti hely Mong Kok negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        114.175408,
+                        22.318881
+                  ]
+            },
+            {
+                  "name": "The Church of Christ in China Mangkok Church Christian Centre",
+                  "text": "A Church of Christ in China Mangkok Church Christian Centre ennek a felekezetnek a keresztény központja Mong Kokban.",
+                  "category": "landmark",
+                  "coords": [
+                        114.169283,
+                        22.321882
+                  ]
+            },
+            {
+                  "name": "Kowloon Church of Seventh-day Adventists",
+                  "text": "A Kowloon Church of Seventh-day Adventists egy hetednapi adventista templom Mong Kok közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        114.169349,
+                        22.326305
+                  ]
+            },
+            {
+                  "name": "First Assembly Of God Church",
+                  "text": "A Mong Kokban található First Assembly Of God Church az Isten Gyülekezetei pünkösdi mozgalomhoz tartozik.",
+                  "category": "landmark",
+                  "coords": [
+                        114.17375,
+                        22.320649
+                  ]
+            },
+            {
+                  "name": "Fa Yuen Street Market",
+                  "text": "A Fa Yuen Street Market egy nyüzsgő utcai piac Mong Kokban, amely textíliák és mindennapi cikkek sűrű kínálatáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        114.170526,
+                        22.320885
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kadoorie Hill",
+                  "text": "Acest vârf extrem de remarcabil din Mong Kok este acoperit de vile luxoase cu un regim mic de înălțime și de bulevarde rezidențiale șerpuite, mărginite de copaci.",
+                  "category": "natural",
+                  "coords": [
+                        114.175416,
+                        22.321752
+                  ]
+            },
+            {
+                  "name": "Goldfish Street",
+                  "text": "Această atracție faimoasă la nivel mondial este formată din nenumărate vitrine care expun pești tropicali vibranți în mii de pungi de apă iluminate.",
+                  "category": "landmark",
+                  "coords": [
+                        114.169823,
+                        22.322972
+                  ]
+            },
+            {
+                  "name": "Shui Yuet Kung",
+                  "text": "Protejat ca sit de patrimoniu de gradul 5, acest lăcaș de cult recunoscut la nivel mondial adăpostește un altar antic dedicat zeiței Guanyin.",
+                  "category": "religious",
+                  "coords": [
+                        114.172918,
+                        22.317933
+                  ]
+            },
+            {
+                  "name": "Sai Yee Street Garden",
+                  "text": "Dotat cu mese de șah din beton și locuri de odihnă umbrite, acest parc urban oferă o pauză pașnică de la nebunia comercială din jur.",
+                  "category": "park",
+                  "coords": [
+                        114.171857,
+                        22.317254
+                  ]
+            },
+            {
+                  "name": "Living Spring Foursquare Gospel Church",
+                  "text": "Ascunsă într-o clădire comercială, această biserică creștină energică dispune de echipamente audiovizuale moderne pentru slujbele de weekend.",
+                  "category": "landmark",
+                  "coords": [
+                        114.167954,
+                        22.327428
+                  ]
+            },
+            {
+                  "name": "Kowloon Pentecostal Church (Tabernacle)",
+                  "text": "Biserica Penticostală Kowloon (Tabernacle) deservește o congregație penticostală din cartierul Mong Kok.",
+                  "category": "landmark",
+                  "coords": [
+                        114.175408,
+                        22.318881
+                  ]
+            },
+            {
+                  "name": "The Church of Christ in China Mangkok Church Christian Centre",
+                  "text": "Centrul Creștin Mangkok Church, aparținând Bisericii lui Hristos din China, este o destinație religioasă în Mong Kok.",
+                  "category": "landmark",
+                  "coords": [
+                        114.169283,
+                        22.321882
+                  ]
+            },
+            {
+                  "name": "Kowloon Church of Seventh-day Adventists",
+                  "text": "Biserica Adventistă de Ziua a Șaptea din Kowloon deservește comunitatea adventistă din zona Mong Kok.",
+                  "category": "landmark",
+                  "coords": [
+                        114.169349,
+                        22.326305
+                  ]
+            },
+            {
+                  "name": "First Assembly Of God Church",
+                  "text": "Biserica First Assembly Of God din Mong Kok face parte din mișcarea penticostală Adunările lui Dumnezeu.",
+                  "category": "landmark",
+                  "coords": [
+                        114.17375,
+                        22.320649
+                  ]
+            },
+            {
+                  "name": "Fa Yuen Street Market",
+                  "text": "Piața de pe strada Fa Yuen este o piață stradală plină de viață din Mong Kok, cunoscută pentru tarabele sale cu haine și bunuri zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        114.170526,
+                        22.320885
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kadoorie Hill",
+                  "text": "This highly notable peak in Mong Kok is covered with luxurious low-rise villas and winding, tree-lined residential avenues.",
+                  "category": "natural",
+                  "coords": [
+                        114.175416,
+                        22.321752
+                  ]
+            },
+            {
+                  "name": "Goldfish Street",
+                  "text": "This globally famous attraction consists of countless shopfronts displaying vibrant tropical fish in thousands of illuminated water bags.",
+                  "category": "landmark",
+                  "coords": [
+                        114.169823,
+                        22.322972
+                  ]
+            },
+            {
+                  "name": "Shui Yuet Kung",
+                  "text": "Protected as a Grade 5 heritage site, this globally recognized place of worship houses an ancient altar dedicated to the goddess Guanyin.",
+                  "category": "religious",
+                  "coords": [
+                        114.172918,
+                        22.317933
+                  ]
+            },
+            {
+                  "name": "Sai Yee Street Garden",
+                  "text": "Featuring concrete chess tables and shady resting spots, this urban park provides a peaceful break from the surrounding retail madness.",
+                  "category": "park",
+                  "coords": [
+                        114.171857,
+                        22.317254
+                  ]
+            },
+            {
+                  "name": "Living Spring Foursquare Gospel Church",
+                  "text": "Tucked into a commercial building, this energetic Christian church features modern audiovisual equipment for its weekend services.",
+                  "category": "landmark",
+                  "coords": [
+                        114.167954,
+                        22.327428
+                  ]
+            },
+            {
+                  "name": "Kowloon Pentecostal Church (Tabernacle)",
+                  "text": "The Kowloon Pentecostal Church (Tabernacle) serves a Pentecostal congregation in the Mong Kok area.",
+                  "category": "landmark",
+                  "coords": [
+                        114.175408,
+                        22.318881
+                  ]
+            },
+            {
+                  "name": "The Church of Christ in China Mangkok Church Christian Centre",
+                  "text": "The Church of Christ in China Mangkok Church Christian Centre is a religious hub for this denomination in Mong Kok.",
+                  "category": "landmark",
+                  "coords": [
+                        114.169283,
+                        22.321882
+                  ]
+            },
+            {
+                  "name": "Kowloon Church of Seventh-day Adventists",
+                  "text": "The Kowloon Church of Seventh-day Adventists serves the Adventist community in the Mong Kok area.",
+                  "category": "landmark",
+                  "coords": [
+                        114.169349,
+                        22.326305
+                  ]
+            },
+            {
+                  "name": "First Assembly Of God Church",
+                  "text": "The First Assembly Of God Church in Mong Kok is part of the global Assemblies of God Pentecostal movement.",
+                  "category": "landmark",
+                  "coords": [
+                        114.17375,
+                        22.320649
+                  ]
+            },
+            {
+                  "name": "Fa Yuen Street Market",
+                  "text": "The Fa Yuen Street Market is a bustling street market in Mong Kok, known for its dense stalls selling clothing and daily goods.",
+                  "category": "cultural",
+                  "coords": [
+                        114.170526,
+                        22.320885
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "city",
     name: { de: "Mong Kok Einzelhandelsviertel", hu: "Mong Kok kiskereskedelmi negyed", ro: "Districtul de retail Mong Kok", en: "Mong Kok Retail District" },
@@ -2937,7 +6816,88 @@ export const hongkongEconomicV2: POI[] = [
     image: "/poi-images/hongkong-mong-kok-retail-economic-v2.webp",
   },
   {
-    id: "hongkong-hzmb-port-economic-v2",
+    id: "hongkong-hzmb-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Por Kai Shan",
+                  "text": "Por Kai Shan ist ein steiler Berggipfel, der weite Ausblicke über das Hafengebiet der Hongkong-Zhuhai-Macau-Brücke bietet.",
+                  "category": "natural",
+                  "coords": [
+                        113.960569,
+                        22.285782
+                  ]
+            },
+            {
+                  "name": "Ying Tung Market",
+                  "text": "Der Ying Tung Market ist ein öffentlicher Markt, der die lokale Gemeinschaft mit Ständen für frische Lebensmittel versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        113.953107,
+                        22.296672
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Por Kai Shan",
+                  "text": "A Por Kai Shan egy meredek hegycsúcs, amely pazar kilátást nyújt a Hongkong–Csuhaj–Makaó-híd kikötői területére.",
+                  "category": "natural",
+                  "coords": [
+                        113.960569,
+                        22.285782
+                  ]
+            },
+            {
+                  "name": "Ying Tung Market",
+                  "text": "A Ying Tung Market egy nyilvános negyedbeli piac, amely friss élelmiszereket árusító standokkal szolgálja ki a helyi közösséget.",
+                  "category": "cultural",
+                  "coords": [
+                        113.953107,
+                        22.296672
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Por Kai Shan",
+                  "text": "Por Kai Shan este un vârf de munte abrupt ce oferă o vedere panoramică asupra zonei portuare a podului Hong Kong-Zhuhai-Macao.",
+                  "category": "natural",
+                  "coords": [
+                        113.960569,
+                        22.285782
+                  ]
+            },
+            {
+                  "name": "Ying Tung Market",
+                  "text": "Ying Tung Market este o piață publică de cartier care deservește comunitatea locală cu tarabe de alimente proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        113.953107,
+                        22.296672
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Por Kai Shan",
+                  "text": "Por Kai Shan is a steep mountain peak offering expansive views over the Hong Kong-Zhuhai-Macao Bridge port area.",
+                  "category": "natural",
+                  "coords": [
+                        113.960569,
+                        22.285782
+                  ]
+            },
+            {
+                  "name": "Ying Tung Market",
+                  "text": "Ying Tung Market is a neighborhood public market serving the local community with fresh food stalls.",
+                  "category": "cultural",
+                  "coords": [
+                        113.953107,
+                        22.296672
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "industry",
     name: { de: "HZMB Hongkong Port", hu: "HZMB Hongkongi kikötő", ro: "Portul HZMB Hong Kong", en: "HZMB Hong Kong Port" },
@@ -2982,7 +6942,304 @@ export const hongkongEconomicV2: POI[] = [
     image: "/poi-images/hongkong-hzmb-port-economic-v2.webp",
   },
   {
-    id: "hongkong-lamma-power-station-economic-v2",
+    id: "hongkong-lamma-power-station-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "East Tai Peng Beach",
+                  "text": "Der East Tai Peng Beach bietet einen Abschnitt Küstensand in der Gegend um das Lamma Power Station.",
+                  "category": "recreational",
+                  "coords": [
+                        114.120559,
+                        22.230456
+                  ]
+            },
+            {
+                  "name": "Yung Shue Wan",
+                  "text": "Yung Shue Wan ist eine bedeutende Bucht, die als Haupthafengebiet in der Nähe des Lamma Power Station dient.",
+                  "category": "landmark",
+                  "coords": [
+                        114.109163,
+                        22.225686
+                  ]
+            },
+            {
+                  "name": "Tin Hau Temple",
+                  "text": "Dieser etablierte Tin Hau Tempel ist eine Kultstätte in der Nähe des Gebiets des Lamma Power Station.",
+                  "category": "religious",
+                  "coords": [
+                        114.111242,
+                        22.224452
+                  ]
+            },
+            {
+                  "name": "Lamma Power Station Beach",
+                  "text": "Der Lamma Power Station Beach ist ein sandiger Küstenstreifen, der direkt an das Gelände des Industriekraftwerks angrenzt.",
+                  "category": "recreational",
+                  "coords": [
+                        114.115277,
+                        22.220214
+                  ]
+            },
+            {
+                  "name": "Hung Shing Yeh Beach",
+                  "text": "Der sehr bekannte Hung Shing Yeh Beach bietet feinen Sand und ruhiges Wasser in der Nähe des Lamma Power Station.",
+                  "category": "recreational",
+                  "coords": [
+                        114.119589,
+                        22.218801
+                  ]
+            },
+            {
+                  "name": "Shrine",
+                  "text": "Dieser lokale Schrein bietet einen ruhigen Ort für spirituelle Andacht in der Nähe des Kraftwerks Lamma.",
+                  "category": "religious",
+                  "coords": [
+                        114.116648,
+                        22.228939
+                  ]
+            },
+            {
+                  "name": "Old graves",
+                  "text": "Diese historischen Gräber spiegeln die Ahnenverehrung und die frühe Siedlungsgeschichte der Insel wider.",
+                  "category": "religious",
+                  "coords": [
+                        114.114114,
+                        22.234021
+                  ]
+            },
+            {
+                  "name": "Our Lady of Lourdes Chapel",
+                  "text": "Diese intime katholische Kapelle ist Unserer Lieben Frau von Lourdes geweiht und dient den Gläubigen der Insel.",
+                  "category": "religious",
+                  "coords": [
+                        114.115273,
+                        22.224921
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "East Tai Peng Beach",
+                  "text": "Az East Tai Peng Beach egy tengerparti homokos szakaszt biztosít a Lamma Erőmű közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        114.120559,
+                        22.230456
+                  ]
+            },
+            {
+                  "name": "Yung Shue Wan",
+                  "text": "A Yung Shue Wan egy jelentős öböl, amely fő kikötőterületként szolgál a Lamma Erőmű közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        114.109163,
+                        22.225686
+                  ]
+            },
+            {
+                  "name": "Tin Hau Temple",
+                  "text": "Ez a bejáratott Tin Hau templom egy istentiszteleti hely a Lamma Erőmű környékén.",
+                  "category": "religious",
+                  "coords": [
+                        114.111242,
+                        22.224452
+                  ]
+            },
+            {
+                  "name": "Lamma Power Station Beach",
+                  "text": "A Lamma Erőmű strandja egy homokos tengerparti sáv, amely közvetlenül az ipari erőmű létesítménye mellett található.",
+                  "category": "recreational",
+                  "coords": [
+                        114.115277,
+                        22.220214
+                  ]
+            },
+            {
+                  "name": "Hung Shing Yeh Beach",
+                  "text": "A széles körben elismert Hung Shing Yeh Beach finom homokkal és nyugodt vizekkel várja a látogatókat a Lamma Erőmű közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        114.119589,
+                        22.218801
+                  ]
+            },
+            {
+                  "name": "Shrine",
+                  "text": "Ez a helyi szentély csendes teret biztosít a lelki áhítathoz a Lamma erőmű közelében.",
+                  "category": "religious",
+                  "coords": [
+                        114.116648,
+                        22.228939
+                  ]
+            },
+            {
+                  "name": "Old graves",
+                  "text": "Ezek a történelmi sírok a sziget ősi tiszteletét és korai településtörténetét tükrözik.",
+                  "category": "religious",
+                  "coords": [
+                        114.114114,
+                        22.234021
+                  ]
+            },
+            {
+                  "name": "Our Lady of Lourdes Chapel",
+                  "text": "Ezt a meghitt katolikus kápolnát a Lourdes-i Szűzanyának szentelték, és a sziget híveit szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        114.115273,
+                        22.224921
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "East Tai Peng Beach",
+                  "text": "Plaja East Tai Peng oferă o întindere de nisip de coastă în zona de lângă Lamma Power Station.",
+                  "category": "recreational",
+                  "coords": [
+                        114.120559,
+                        22.230456
+                  ]
+            },
+            {
+                  "name": "Yung Shue Wan",
+                  "text": "Yung Shue Wan este un golf important care servește drept zonă portuară principală lângă Lamma Power Station.",
+                  "category": "landmark",
+                  "coords": [
+                        114.109163,
+                        22.225686
+                  ]
+            },
+            {
+                  "name": "Tin Hau Temple",
+                  "text": "Acest templu stabil Tin Hau este un lăcaș de cult situat în apropierea zonei Lamma Power Station.",
+                  "category": "religious",
+                  "coords": [
+                        114.111242,
+                        22.224452
+                  ]
+            },
+            {
+                  "name": "Lamma Power Station Beach",
+                  "text": "Plaja Lamma Power Station este o fâșie de coastă de nisip situată direct adiacentă facilității centralei electrice industriale.",
+                  "category": "recreational",
+                  "coords": [
+                        114.115277,
+                        22.220214
+                  ]
+            },
+            {
+                  "name": "Hung Shing Yeh Beach",
+                  "text": "Plaja foarte recunoscută Hung Shing Yeh are nisip fin și ape calme, aproape de Lamma Power Station.",
+                  "category": "recreational",
+                  "coords": [
+                        114.119589,
+                        22.218801
+                  ]
+            },
+            {
+                  "name": "Shrine",
+                  "text": "Acest altar local oferă un spațiu liniștit pentru devotament spiritual lângă centrala electrică Lamma.",
+                  "category": "religious",
+                  "coords": [
+                        114.116648,
+                        22.228939
+                  ]
+            },
+            {
+                  "name": "Old graves",
+                  "text": "Aceste morminte istorice reflectă venerația strămoșească și istoria așezărilor timpurii de pe insulă.",
+                  "category": "religious",
+                  "coords": [
+                        114.114114,
+                        22.234021
+                  ]
+            },
+            {
+                  "name": "Our Lady of Lourdes Chapel",
+                  "text": "Această capelă catolică intimă este dedicată Maicii Domnului din Lourdes și deservește credincioșii de pe insulă.",
+                  "category": "religious",
+                  "coords": [
+                        114.115273,
+                        22.224921
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "East Tai Peng Beach",
+                  "text": "East Tai Peng Beach provides a stretch of coastal sand in the area near the Lamma Power Station.",
+                  "category": "recreational",
+                  "coords": [
+                        114.120559,
+                        22.230456
+                  ]
+            },
+            {
+                  "name": "Yung Shue Wan",
+                  "text": "Yung Shue Wan is a significant bay serving as a main harbor area near the Lamma Power Station.",
+                  "category": "landmark",
+                  "coords": [
+                        114.109163,
+                        22.225686
+                  ]
+            },
+            {
+                  "name": "Tin Hau Temple",
+                  "text": "This established Tin Hau Temple is a place of worship situated near the Lamma Power Station area.",
+                  "category": "religious",
+                  "coords": [
+                        114.111242,
+                        22.224452
+                  ]
+            },
+            {
+                  "name": "Lamma Power Station Beach",
+                  "text": "Lamma Power Station Beach is a sandy coastal strip situated directly adjacent to the industrial power station facility.",
+                  "category": "recreational",
+                  "coords": [
+                        114.115277,
+                        22.220214
+                  ]
+            },
+            {
+                  "name": "Hung Shing Yeh Beach",
+                  "text": "The highly recognized Hung Shing Yeh Beach features fine sand and calm waters near the Lamma Power Station.",
+                  "category": "recreational",
+                  "coords": [
+                        114.119589,
+                        22.218801
+                  ]
+            },
+            {
+                  "name": "Shrine",
+                  "text": "This local shrine provides a quiet space for spiritual devotion near the Lamma Power Station.",
+                  "category": "religious",
+                  "coords": [
+                        114.116648,
+                        22.228939
+                  ]
+            },
+            {
+                  "name": "Old graves",
+                  "text": "These historical graves reflect the ancestral reverence and early settlement history of the island.",
+                  "category": "religious",
+                  "coords": [
+                        114.114114,
+                        22.234021
+                  ]
+            },
+            {
+                  "name": "Our Lady of Lourdes Chapel",
+                  "text": "This intimate Catholic chapel is dedicated to Our Lady of Lourdes and serves the island's faithful.",
+                  "category": "religious",
+                  "coords": [
+                        114.115273,
+                        22.224921
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "industry",
     name: { de: "Kraftwerk Lamma", hu: "Lamma erőmű", ro: "Centrala electrică Lamma", en: "Lamma Power Station" },
@@ -3027,7 +7284,520 @@ export const hongkongEconomicV2: POI[] = [
     image: "/poi-images/hongkong-lamma-power-station-economic-v2.webp",
   },
   {
-    id: "hongkong-black-point-power-station-economic-v2",
+    id: "hongkong-black-point-power-station-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chiwan Bay Left Fort",
+                  "text": "Das linke Fort in der Chiwan-Bucht ist eine historische Militäranlage, die einst der Verteidigung des strategisch wichtigen Küstenabschnitts diente.",
+                  "category": "landmark",
+                  "coords": [
+                        113.886457,
+                        22.47133
+                  ]
+            },
+            {
+                  "name": "Chiwan",
+                  "text": "Chiwan ist eine bedeutende Bucht im Bezirk Nanshan und beherbergt heute einen wichtigen Containerhafen.",
+                  "category": "landmark",
+                  "coords": [
+                        113.881449,
+                        22.475861
+                  ]
+            },
+            {
+                  "name": "\"Time is money, efficiency is life\" Slogan",
+                  "text": "Das Denkmal mit dem berühmten Slogan \"Zeit ist Geld, Effizienz ist Leben\" in Shekou erinnert an die marktwirtschaftlichen Reformen Chinas in den 1980er Jahren.",
+                  "category": "landmark",
+                  "coords": [
+                        113.907516,
+                        22.481733
+                  ]
+            },
+            {
+                  "name": "Chiwan Right Barbette",
+                  "text": "Die rechte Barbette in Chiwan ist ein historisches Geschützbettungselement der ehemaligen Küstenverteidigungsanlagen am Perlfluss.",
+                  "category": "landmark",
+                  "coords": [
+                        113.877518,
+                        22.483495
+                  ]
+            },
+            {
+                  "name": "Piggy Rock",
+                  "text": "Piggy Rock ist eine markante Felsformation an der Küste, deren natürliche Form mit etwas Fantasie an ein kleines Schwein erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        113.923117,
+                        22.402998
+                  ]
+            },
+            {
+                  "name": "Bird Rock",
+                  "text": "Bird Rock ist eine auffällige natürliche Felsstruktur an der Küste, die wegen ihrer an einen ruhenden Vogel erinnernden Silhouette so benannt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        113.920202,
+                        22.402473
+                  ]
+            },
+            {
+                  "name": "Gully",
+                  "text": "Diese natürliche Rinne an der Küste wurde über Jahrtausende durch die erosive Kraft des Meeres in die Felsen gegraben.",
+                  "category": "landmark",
+                  "coords": [
+                        113.922445,
+                        22.401355
+                  ]
+            },
+            {
+                  "name": "Grand Gully",
+                  "text": "Das Grand Gully ist ein tieferer und breiterer natürlicher Spalt in der Küstenlinie, der dramatische Ausblicke auf die felsige Umgebung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        113.947769,
+                        22.412984
+                  ]
+            },
+            {
+                  "name": "Upper Lung Kwu Tan",
+                  "text": "Ein sandiger Küstenstrand, der einen offenen Raum für Erholung am Wasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        113.914357,
+                        22.395123
+                  ]
+            },
+            {
+                  "name": "King Zhaobing's Mausoleum",
+                  "text": "Dieses markante historische Mausoleum ist die anerkannte Ruhestätte von Kaiser Bing von Song.",
+                  "category": "landmark",
+                  "coords": [
+                        113.881845,
+                        22.483356
+                  ]
+            },
+            {
+                  "name": "Chiwan Tianhou Palace Temple Museum",
+                  "text": "Dieses Museum und Gotteshaus ist der Meeresgöttin Mazu gewidmet und spiegelt die lokalen maritimen Traditionen wider.",
+                  "category": "religious",
+                  "coords": [
+                        113.8872,
+                        22.480987
+                  ]
+            },
+            {
+                  "name": "China Merchants History Museum",
+                  "text": "Diese Institution dokumentiert die umfangreiche Unternehmensgeschichte und den maritimen Einfluss der China Merchants Group.",
+                  "category": "museum",
+                  "coords": [
+                        113.908907,
+                        22.48081
+                  ]
+            },
+            {
+                  "name": "Chiwan Beacon",
+                  "text": "Ein historisches maritimes Leuchtfeuer, das einst Schiffe durch die nahegelegenen Küstengewässer führte.",
+                  "category": "landmark",
+                  "coords": [
+                        113.879648,
+                        22.48816
+                  ]
+            },
+            {
+                  "name": "Hung Shing Temple",
+                  "text": "Dieser traditionelle taoistische Tempel ist Hung Shing gewidmet, einer verehrten Gottheit, die mit dem Wetter und dem Meer assoziiert wird.",
+                  "category": "landmark",
+                  "coords": [
+                        113.919687,
+                        22.41901
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chiwan Bay Left Fort",
+                  "text": "A Chiwan-öböl bal oldali erődje egy történelmi katonai építmény, amely egykor a stratégiailag fontos partszakasz védelmét szolgálta.",
+                  "category": "landmark",
+                  "coords": [
+                        113.886457,
+                        22.47133
+                  ]
+            },
+            {
+                  "name": "Chiwan",
+                  "text": "Chiwan egy jelentős öböl a Nanshan kerületben, amely ma egy forgalmas konténerkikötőnek is otthont ad.",
+                  "category": "landmark",
+                  "coords": [
+                        113.881449,
+                        22.475861
+                  ]
+            },
+            {
+                  "name": "\"Time is money, efficiency is life\" Slogan",
+                  "text": "A \"Az idő pénz, a hatékonyság élet\" híres szlogent hirdető emlékmű Shekouban Kína 1980-as évekbeli piacgazdasági reformjaira emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        113.907516,
+                        22.481733
+                  ]
+            },
+            {
+                  "name": "Chiwan Right Barbette",
+                  "text": "A chiwani jobb oldali barbetta az egykori Gyöngy-folyó menti partvédelmi rendszerek történelmi ágyúállása.",
+                  "category": "landmark",
+                  "coords": [
+                        113.877518,
+                        22.483495
+                  ]
+            },
+            {
+                  "name": "Piggy Rock",
+                  "text": "A Piggy Rock egy jellegzetes part menti sziklaalakzat, amelynek természetes formája némi képzelőerővel egy kismalacra emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        113.923117,
+                        22.402998
+                  ]
+            },
+            {
+                  "name": "Bird Rock",
+                  "text": "A Bird Rock egy feltűnő természetes sziklaképződmény a parton, amelyet egy pihenő madárra emlékeztető sziluettjéről neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        113.920202,
+                        22.402473
+                  ]
+            },
+            {
+                  "name": "Gully",
+                  "text": "Ezt a természetes vízmosást a tenger eróziós ereje vájta a sziklákba az évezredek során.",
+                  "category": "landmark",
+                  "coords": [
+                        113.922445,
+                        22.401355
+                  ]
+            },
+            {
+                  "name": "Grand Gully",
+                  "text": "A Grand Gully egy mélyebb és szélesebb természetes hasadék a partvonalban, amely drámai kilátást nyújt a sziklás környezetre.",
+                  "category": "landmark",
+                  "coords": [
+                        113.947769,
+                        22.412984
+                  ]
+            },
+            {
+                  "name": "Upper Lung Kwu Tan",
+                  "text": "Egy homokos tengerparti strand, amely nyitott teret biztosít a vízparti kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        113.914357,
+                        22.395123
+                  ]
+            },
+            {
+                  "name": "King Zhaobing's Mausoleum",
+                  "text": "Ez a kiemelkedő történelmi mauzóleum Szung Ping császár elismert nyughelye.",
+                  "category": "landmark",
+                  "coords": [
+                        113.881845,
+                        22.483356
+                  ]
+            },
+            {
+                  "name": "Chiwan Tianhou Palace Temple Museum",
+                  "text": "Ez a múzeum és istentiszteleti hely Mazu tengeristennőnek van szentelve, tükrözve a helyi tengerészeti hagyományokat.",
+                  "category": "religious",
+                  "coords": [
+                        113.8872,
+                        22.480987
+                  ]
+            },
+            {
+                  "name": "China Merchants History Museum",
+                  "text": "Ez az intézmény a China Merchants Group kiterjedt vállalati történetét és tengerészeti hatását mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        113.908907,
+                        22.48081
+                  ]
+            },
+            {
+                  "name": "Chiwan Beacon",
+                  "text": "Egy történelmi tengeri jelzőtűz, amely egykor a közeli parti vizeken navigáló hajókat irányította.",
+                  "category": "landmark",
+                  "coords": [
+                        113.879648,
+                        22.48816
+                  ]
+            },
+            {
+                  "name": "Hung Shing Temple",
+                  "text": "Ezt a hagyományos taoista templomot Hung Shingnek, az időjárással és a tengerrel társított istenségnek szentelték.",
+                  "category": "landmark",
+                  "coords": [
+                        113.919687,
+                        22.41901
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chiwan Bay Left Fort",
+                  "text": "Fortul stâng din Golful Chiwan este o instalație militară istorică care apăra odinioară porțiunea de coastă de importanță strategică.",
+                  "category": "landmark",
+                  "coords": [
+                        113.886457,
+                        22.47133
+                  ]
+            },
+            {
+                  "name": "Chiwan",
+                  "text": "Chiwan este un golf important din districtul Nanshan, găzduind astăzi un port de containere aglomerat.",
+                  "category": "landmark",
+                  "coords": [
+                        113.881449,
+                        22.475861
+                  ]
+            },
+            {
+                  "name": "\"Time is money, efficiency is life\" Slogan",
+                  "text": "Monumentul ce afișează faimosul slogan \"Timpul înseamnă bani, eficiența este viață\" din Shekou comemorează reformele economiei de piață ale Chinei din anii 1980.",
+                  "category": "landmark",
+                  "coords": [
+                        113.907516,
+                        22.481733
+                  ]
+            },
+            {
+                  "name": "Chiwan Right Barbette",
+                  "text": "Barbata dreaptă din Chiwan este o platformă istorică de artilerie aparținând fostelor instalații de apărare a coastei de pe Râul Perlelor.",
+                  "category": "landmark",
+                  "coords": [
+                        113.877518,
+                        22.483495
+                  ]
+            },
+            {
+                  "name": "Piggy Rock",
+                  "text": "Piggy Rock este o formațiune stâncoasă de coastă distinctivă a cărei formă naturală seamănă cu un porcușor dacă o privești cu puțină imaginație.",
+                  "category": "landmark",
+                  "coords": [
+                        113.923117,
+                        22.402998
+                  ]
+            },
+            {
+                  "name": "Bird Rock",
+                  "text": "Bird Rock este o structură naturală stâncoasă proeminentă pe coastă, numită astfel datorită siluetei sale care seamănă cu o pasăre care se odihnește.",
+                  "category": "landmark",
+                  "coords": [
+                        113.920202,
+                        22.402473
+                  ]
+            },
+            {
+                  "name": "Gully",
+                  "text": "Acest defileu natural de coastă a fost sculptat în stânci de-a lungul mileniilor de puterea erozivă a valurilor mării.",
+                  "category": "landmark",
+                  "coords": [
+                        113.922445,
+                        22.401355
+                  ]
+            },
+            {
+                  "name": "Grand Gully",
+                  "text": "Grand Gully este o crevasă naturală mai adâncă și mai lată de pe linia de coastă, care oferă vederi dramatice ale peisajului stâncos.",
+                  "category": "landmark",
+                  "coords": [
+                        113.947769,
+                        22.412984
+                  ]
+            },
+            {
+                  "name": "Upper Lung Kwu Tan",
+                  "text": "O plajă de coastă cu nisip, care oferă un spațiu deschis pentru recreere la malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        113.914357,
+                        22.395123
+                  ]
+            },
+            {
+                  "name": "King Zhaobing's Mausoleum",
+                  "text": "Acest mausoleu istoric proeminent este locul de veci recunoscut al împăratului Bing de Song.",
+                  "category": "landmark",
+                  "coords": [
+                        113.881845,
+                        22.483356
+                  ]
+            },
+            {
+                  "name": "Chiwan Tianhou Palace Temple Museum",
+                  "text": "Acest muzeu și lăcaș de cult este dedicat zeiței mării Mazu, reflectând tradițiile maritime locale.",
+                  "category": "religious",
+                  "coords": [
+                        113.8872,
+                        22.480987
+                  ]
+            },
+            {
+                  "name": "China Merchants History Museum",
+                  "text": "Această instituție cronicizează istoria corporativă extinsă și impactul maritim al grupului China Merchants.",
+                  "category": "museum",
+                  "coords": [
+                        113.908907,
+                        22.48081
+                  ]
+            },
+            {
+                  "name": "Chiwan Beacon",
+                  "text": "Un far maritim istoric care a ghidat odinioară navele navigând pe apele de coastă din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        113.879648,
+                        22.48816
+                  ]
+            },
+            {
+                  "name": "Hung Shing Temple",
+                  "text": "Acest templu taoist tradițional este dedicat lui Hung Shing, o zeitate venerată asociată cu vremea și marea.",
+                  "category": "landmark",
+                  "coords": [
+                        113.919687,
+                        22.41901
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chiwan Bay Left Fort",
+                  "text": "The Chiwan Bay Left Fort is a historic military installation that once defended this strategically important stretch of coastline.",
+                  "category": "landmark",
+                  "coords": [
+                        113.886457,
+                        22.47133
+                  ]
+            },
+            {
+                  "name": "Chiwan",
+                  "text": "Chiwan is a significant bay area in the Nanshan district that now accommodates a busy container port.",
+                  "category": "landmark",
+                  "coords": [
+                        113.881449,
+                        22.475861
+                  ]
+            },
+            {
+                  "name": "\"Time is money, efficiency is life\" Slogan",
+                  "text": "The monument bearing the famous slogan \"Time is money, efficiency is life\" in Shekou commemorates China's market-oriented reforms of the 1980s.",
+                  "category": "landmark",
+                  "coords": [
+                        113.907516,
+                        22.481733
+                  ]
+            },
+            {
+                  "name": "Chiwan Right Barbette",
+                  "text": "The Chiwan Right Barbette is a historic gun platform structural element from the former coastal defense installations on the Pearl River.",
+                  "category": "landmark",
+                  "coords": [
+                        113.877518,
+                        22.483495
+                  ]
+            },
+            {
+                  "name": "Piggy Rock",
+                  "text": "Piggy Rock is a distinctive coastal rock formation whose natural shape somewhat resembles a small pig to imaginative observers.",
+                  "category": "landmark",
+                  "coords": [
+                        113.923117,
+                        22.402998
+                  ]
+            },
+            {
+                  "name": "Bird Rock",
+                  "text": "Bird Rock is a prominent natural rock structure along the coastline named for its silhouette that resembles a resting bird.",
+                  "category": "landmark",
+                  "coords": [
+                        113.920202,
+                        22.402473
+                  ]
+            },
+            {
+                  "name": "Gully",
+                  "text": "This natural coastal gully has been carved into the cliffs over millennia by the erosive power of the sea waves.",
+                  "category": "landmark",
+                  "coords": [
+                        113.922445,
+                        22.401355
+                  ]
+            },
+            {
+                  "name": "Grand Gully",
+                  "text": "The Grand Gully is a deeper and wider natural cleft along the coastline, offering dramatic views of the surrounding rocky environment.",
+                  "category": "landmark",
+                  "coords": [
+                        113.947769,
+                        22.412984
+                  ]
+            },
+            {
+                  "name": "Upper Lung Kwu Tan",
+                  "text": "A coastal sandy beach providing an open space for waterfront recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        113.914357,
+                        22.395123
+                  ]
+            },
+            {
+                  "name": "King Zhaobing's Mausoleum",
+                  "text": "This prominent historic mausoleum is the recognized resting place of Emperor Bing of Song.",
+                  "category": "landmark",
+                  "coords": [
+                        113.881845,
+                        22.483356
+                  ]
+            },
+            {
+                  "name": "Chiwan Tianhou Palace Temple Museum",
+                  "text": "This museum and place of worship is dedicated to the sea goddess Mazu, reflecting local maritime traditions.",
+                  "category": "religious",
+                  "coords": [
+                        113.8872,
+                        22.480987
+                  ]
+            },
+            {
+                  "name": "China Merchants History Museum",
+                  "text": "This institution chronicles the extensive corporate history and maritime impact of the China Merchants Group.",
+                  "category": "museum",
+                  "coords": [
+                        113.908907,
+                        22.48081
+                  ]
+            },
+            {
+                  "name": "Chiwan Beacon",
+                  "text": "A historic maritime beacon structure that once guided ships navigating the nearby coastal waters.",
+                  "category": "landmark",
+                  "coords": [
+                        113.879648,
+                        22.48816
+                  ]
+            },
+            {
+                  "name": "Hung Shing Temple",
+                  "text": "This traditional Taoist temple is dedicated to Hung Shing, a revered deity associated with weather and the sea.",
+                  "category": "landmark",
+                  "coords": [
+                        113.919687,
+                        22.41901
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "industry",
     name: { de: "Kraftwerk Black Point", hu: "Black Point erőmű", ro: "Centrala electrică Black Point", en: "Black Point Power Station" },
@@ -3072,7 +7842,1276 @@ export const hongkongEconomicV2: POI[] = [
     image: "/poi-images/hongkong-black-point-power-station-economic-v2.webp",
   },
   {
-    id: "hongkong-castle-peak-power-station-economic-v2",
+    id: "hongkong-castle-peak-power-station-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tsing Shan Monastery",
+                  "text": "Wunderschön an den Hängen des Castle Peak gelegen, wird dieser Komplex als eines der ältesten buddhistischen Klöster Hongkongs verehrt.",
+                  "category": "religious",
+                  "coords": [
+                        113.95943,
+                        22.391862
+                  ]
+            },
+            {
+                  "name": "Tuen Mun Town Hall",
+                  "text": "Dieser große Kulturkomplex verfügt über ein großes Auditorium und Ausstellungsgalerien, in denen regelmäßig darstellende Künste und Gemeindeveranstaltungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        113.976775,
+                        22.391718
+                  ]
+            },
+            {
+                  "name": "Castle Peak Bay",
+                  "text": "Diese Küstenbucht, einst ein florierendes Zentrum der lokalen Fischereiflotte, wird heute von malerischen Promenaden und modernen Wohntürmen eingerahmt.",
+                  "category": "landmark",
+                  "coords": [
+                        113.976185,
+                        22.368936
+                  ]
+            },
+            {
+                  "name": "Sam Shing Temple",
+                  "text": "Dieser historische Tempel vereint auf einzigartige Weise konfuzianische, buddhistische und taoistische Glaubensrichtungen unter einem Dach und zieht vielfältige Gläubige in seine heiligen Hallen.",
+                  "category": "landmark",
+                  "coords": [
+                        113.979473,
+                        22.383042
+                  ]
+            },
+            {
+                  "name": "Castle Peak",
+                  "text": "Gekennzeichnet durch seine steilen, stark erodierten Schluchten bietet dieser hoch aufragende, 583 Meter hohe Gipfel Wanderern einen Panoramablick über die westliche Küste.",
+                  "category": "natural",
+                  "coords": [
+                        113.953311,
+                        22.388282
+                  ]
+            },
+            {
+                  "name": "Por Lo Shan",
+                  "text": "Dieser markante Hügel, der den Spitznamen „Grand Canyon von Hongkong“ trägt, wird für sein dramatisch erodiertes und karges Rotsandsteingelände gefeiert.",
+                  "category": "natural",
+                  "coords": [
+                        113.96305,
+                        22.400367
+                  ]
+            },
+            {
+                  "name": "Butterfly Beach Park",
+                  "text": "Dieser weitläufige Park am Strand ist dicht mit schattenspendenden Bäumen bepflanzt und mit zahlreichen öffentlichen Grillplätzen ausgestattet.",
+                  "category": "park",
+                  "coords": [
+                        113.957689,
+                        22.373704
+                  ]
+            },
+            {
+                  "name": "Wu Shan Recreation Playground",
+                  "text": "Dieses große öffentliche Erholungsgebiet verfügt über Sportplätze und eine spezielle Verkehrssicherheitsstadt, die für Rad fahrende Kinder konzipiert wurde.",
+                  "category": "park",
+                  "coords": [
+                        113.965909,
+                        22.379497
+                  ]
+            },
+            {
+                  "name": "Tuen Mun Park",
+                  "text": "Dieser über 12 Hektar große, belebte Stadtpark zeichnet sich durch seinen großen künstlichen Bootsteich und ein lehrreiches Reptilienhaus aus.",
+                  "category": "park",
+                  "coords": [
+                        113.973561,
+                        22.391389
+                  ]
+            },
+            {
+                  "name": "Dolphin Square",
+                  "text": "Dieser Platz am Wasser wird von markanten goldenen Delfinstatuen geschmückt und bietet Besuchern einen weiten Blick auf den angrenzenden Jachthafen und das Meer.",
+                  "category": "natural",
+                  "coords": [
+                        113.989092,
+                        22.367286
+                  ]
+            },
+            {
+                  "name": "Butterfly Beach",
+                  "text": "Ein langer, sandiger öffentlicher Strand, der mit Hai-Abwehrnetzen und Duschen ausgestattet ist und für Spaziergänge bei Sonnenuntergang sowie zum Schwimmen im Meer beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        113.956375,
+                        22.3727
+                  ]
+            },
+            {
+                  "name": "Castle Peak Beach",
+                  "text": "Dieser geschützte, halbmondförmige Sandstrand blickt auf die Bucht und bietet ruhiges Wasser, das sich ideal zum entspannten Waten und Sonnenbaden eignet.",
+                  "category": "recreational",
+                  "coords": [
+                        113.980053,
+                        22.379138
+                  ]
+            },
+            {
+                  "name": "Kadoorie Beach",
+                  "text": "Der Kadoorie Beach ist ein sandiger Küstenabschnitt in Hongkong, der eine entspannte Atmosphäre am Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        113.981472,
+                        22.376597
+                  ]
+            },
+            {
+                  "name": "Golden Beach",
+                  "text": "Der Golden Beach ist ein bekannter, sandiger Küstenabschnitt in Hongkong und ein beliebtes Ziel am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        113.988234,
+                        22.371754
+                  ]
+            },
+            {
+                  "name": "Hong Kong Society for the Promotion of Virtue Sin Hing Tung",
+                  "text": "Diese lokale Kultstätte in Hongkong bietet der Gemeinde eine ruhige, spirituelle Umgebung unter freiem Himmel.",
+                  "category": "religious",
+                  "coords": [
+                        113.97771,
+                        22.39375
+                  ]
+            },
+            {
+                  "name": "Tuen Mun - Chek Lap Kok Tunnel Toll Plaza",
+                  "text": "Diese große infrastrukturelle Mautstelle mit Brückenverbindung verbindet den regionalen Verkehr mit Chek Lap Kok.",
+                  "category": "landmark",
+                  "coords": [
+                        113.948675,
+                        22.3685
+                  ]
+            },
+            {
+                  "name": "Wu Shan Riverside Park",
+                  "text": "Der Wu Shan Riverside Park ist ein grünes Naherholungsgebiet, das direkt an der Uferpromenade in Hongkong liegt.",
+                  "category": "park",
+                  "coords": [
+                        113.967524,
+                        22.384003
+                  ]
+            },
+            {
+                  "name": "Wah Fat Playground",
+                  "text": "Der Wah Fat Playground ist ein Freizeitpark mit Klettergerüsten und Spielbereichen für die lokale Gemeinde.",
+                  "category": "park",
+                  "coords": [
+                        113.982212,
+                        22.383795
+                  ]
+            },
+            {
+                  "name": "Dr Sun Yat-sen Monument",
+                  "text": "Dieses steinerne Denkmal steht in Hongkong als dauerhafte Hommage an die historische Persönlichkeit Dr. Sun Yat-sen.",
+                  "category": "historical",
+                  "coords": [
+                        113.959386,
+                        22.377538
+                  ]
+            },
+            {
+                  "name": "Hong Kong Evangelical Yan Yiu Church",
+                  "text": "Diese lokale evangelikale Kirche dient als Versammlungsort für die christliche Gemeinde in Hongkong.",
+                  "category": "religious",
+                  "coords": [
+                        113.971484,
+                        22.381155
+                  ]
+            },
+            {
+                  "name": "Fat Yuen Ching Shea",
+                  "text": "Fat Yuen Ching Shea ist ein traditioneller spiritueller Rückzugsort, der einen ruhigen Raum für religiöse Hingabe bietet.",
+                  "category": "religious",
+                  "coords": [
+                        113.962541,
+                        22.387844
+                  ]
+            },
+            {
+                  "name": "Chi Wo Tan",
+                  "text": "Chi Wo Tan ist ein ruhiges lokales Heiligtum, das traditionellen spirituellen Praktiken in Hongkong gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        113.96225,
+                        22.391298
+                  ]
+            },
+            {
+                  "name": "Tin Tak Shing Kau To Tong",
+                  "text": "Diese religiöse Halle in Hongkong fungiert als wichtiges lokales Zentrum für den gemeinschaftlichen Gottesdienst.",
+                  "category": "religious",
+                  "coords": [
+                        113.96426,
+                        22.387389
+                  ]
+            },
+            {
+                  "name": "Shan King Market",
+                  "text": "Der Shan King Market ist ein geschäftiger lokaler Marktplatz, auf dem die Bewohner an unzähligen Ständen frisches Gemüse einkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        113.965935,
+                        22.396775
+                  ]
+            },
+            {
+                  "name": "Melody Garden Market",
+                  "text": "Dieser überdachte Marktplatz liegt in einem Wohngebiet und versorgt die Nachbarschaft täglich mit frischen Lebensmitteln.",
+                  "category": "cultural",
+                  "coords": [
+                        113.960787,
+                        22.375208
+                  ]
+            },
+            {
+                  "name": "Castle Peak Wholesale Fish Market",
+                  "text": "Dieser aktive Küstenmarkt am Castle Peak hat sich auf den Großhandel mit frischem Fisch und Meeresfrüchten spezialisiert.",
+                  "category": "cultural",
+                  "coords": [
+                        113.969099,
+                        22.37657
+                  ]
+            },
+            {
+                  "name": "Yan Oi Market",
+                  "text": "Der Yan Oi Market ist ein lebendiges Handelszentrum voller Verkaufsstände, an denen frisches Fleisch und regionale Zutaten angeboten werden.",
+                  "category": "cultural",
+                  "coords": [
+                        113.980256,
+                        22.387903
+                  ]
+            },
+            {
+                  "name": "Sam Shing Estate Market",
+                  "text": "Dieser lokale Markt befindet sich in einer öffentlichen Wohnsiedlung und bietet an zahlreichen Ständen frische Meeresfrüchte.",
+                  "category": "cultural",
+                  "coords": [
+                        113.978157,
+                        22.38034
+                  ]
+            },
+            {
+                  "name": "Gully",
+                  "text": "Diese natürliche Outdoor-Attraktion zeichnet sich durch eine markante Schluchtenlandschaft aus, die durch Wassererosion geformt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        113.938551,
+                        22.392771
+                  ]
+            },
+            {
+                  "name": "Holy Redeemer",
+                  "text": "Diese christliche Stätte in Hongkong ist eine etablierte Kirche, in der sich einheimische Gläubige zur Messe versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        113.974879,
+                        22.394752
+                  ]
+            },
+            {
+                  "name": "Tuen Mun Kau Hui Hau Kok Tin Hau Temple",
+                  "text": "Dieser traditionelle buddhistische Tempel ist ein gut erhaltenes Heiligtum, das der Verehrung der Meeresgöttin Tin Hau gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        113.970548,
+                        22.390542
+                  ]
+            },
+            {
+                  "name": "Lung Kwu Tan Tin Hau Temple",
+                  "text": "Dieser taoistische Tempel liegt nahe der Küste in Lung Kwu Tan und verfügt über eine traditionelle Architektur zu Ehren der Meeresgöttin.",
+                  "category": "landmark",
+                  "coords": [
+                        113.919587,
+                        22.390815
+                  ]
+            },
+            {
+                  "name": "HKSKH St. Peter's Church, Castle Peak",
+                  "text": "Diese christliche Pfarrkirche bietet der anglikanischen Gemeinde am Castle Peak ein historisches Heiligtum mit einem markanten Kirchenschiff.",
+                  "category": "landmark",
+                  "coords": [
+                        113.967049,
+                        22.392293
+                  ]
+            },
+            {
+                  "name": "Yuan Ming Monastery",
+                  "text": "Das Yuan Ming Kloster ist ein ruhiger buddhistischer Komplex mit klassischen architektonischen Motiven und friedlichen Meditationshöfen.",
+                  "category": "landmark",
+                  "coords": [
+                        113.965618,
+                        22.390238
+                  ]
+            },
+            {
+                  "name": "Lung Kwu Tan Chinese White Dolphin Lookout",
+                  "text": "Diese Aussichtsplattform an der Küste bietet einen erhöhten Aussichtspunkt, der speziell für die Beobachtung der Chinesischen Weißen Delfine konzipiert wurde.",
+                  "category": "natural",
+                  "coords": [
+                        113.917928,
+                        22.392928
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tsing Shan Monastery",
+                  "text": "A Castle Peak lejtőin festőien elhelyezkedő komplexum Hongkong egyik legrégebbi buddhista kolostoraként széles körben tisztelt.",
+                  "category": "religious",
+                  "coords": [
+                        113.95943,
+                        22.391862
+                  ]
+            },
+            {
+                  "name": "Tuen Mun Town Hall",
+                  "text": "Ez a jelentős kulturális komplexum egy nagy előadóteremmel és kiállítógalériákkal rendelkezik, amelyek rendszeres előadóművészeti és közösségi eseményeknek adnak otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        113.976775,
+                        22.391718
+                  ]
+            },
+            {
+                  "name": "Castle Peak Bay",
+                  "text": "A helyi halászflotta egykor virágzó központjaként ismert tengeröblöt ma festői sétányok és modern lakótornyok övezik.",
+                  "category": "landmark",
+                  "coords": [
+                        113.976185,
+                        22.368936
+                  ]
+            },
+            {
+                  "name": "Sam Shing Temple",
+                  "text": "Ez a történelmi templom egyedülálló módon egyesíti a konfuciánus, buddhista és taoista hitet egyetlen tető alatt, sokféle hívőt vonzva szent csarnokaiba.",
+                  "category": "landmark",
+                  "coords": [
+                        113.979473,
+                        22.383042
+                  ]
+            },
+            {
+                  "name": "Castle Peak",
+                  "text": "A meredek, erősen erodált szakadékairól ismert, 583 méter magasra tornyosuló hegycsúcs panorámás kilátást nyújt a túrázóknak a nyugati partvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        113.953311,
+                        22.388282
+                  ]
+            },
+            {
+                  "name": "Por Lo Shan",
+                  "text": "A hongkongi Grand Canyonként emlegetett lenyűgöző domb drámaian erodált és kopár, vörös sziklás terepéről híres.",
+                  "category": "natural",
+                  "coords": [
+                        113.96305,
+                        22.400367
+                  ]
+            },
+            {
+                  "name": "Butterfly Beach Park",
+                  "text": "A partvonal mentén elterülő hatalmas tengerparti park sűrűn beültetett árnyékot adó fákkal és számos nyilvános grillezőhellyel van felszerelve.",
+                  "category": "park",
+                  "coords": [
+                        113.957689,
+                        22.373704
+                  ]
+            },
+            {
+                  "name": "Wu Shan Recreation Playground",
+                  "text": "Ez a nagy nyilvános rekreációs terület sportpályákkal és egy kifejezetten kerékpározó gyermekek számára kialakított közlekedésbiztonsági parkkal rendelkezik.",
+                  "category": "park",
+                  "coords": [
+                        113.965909,
+                        22.379497
+                  ]
+            },
+            {
+                  "name": "Tuen Mun Park",
+                  "text": "A több mint 12 hektáron elterülő nyüzsgő városi park egy nagy mesterséges csónakázótóval és egy oktatási hüllőházzal tűnik ki.",
+                  "category": "park",
+                  "coords": [
+                        113.973561,
+                        22.391389
+                  ]
+            },
+            {
+                  "name": "Dolphin Square",
+                  "text": "Ezt a vízparti teret feltűnő arany delfinszobrok díszítik, ahonnan elsöprő kilátás nyílik a szomszédos kikötőre és a tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        113.989092,
+                        22.367286
+                  ]
+            },
+            {
+                  "name": "Butterfly Beach",
+                  "text": "Egy hosszú, homokos nyilvános strand, amely cápahálókkal és zuhanyzókkal van felszerelve, és népszerű a naplementés séták, valamint az óceáni fürdőzés szerelmeseinek körében.",
+                  "category": "recreational",
+                  "coords": [
+                        113.956375,
+                        22.3727
+                  ]
+            },
+            {
+                  "name": "Castle Peak Beach",
+                  "text": "A bayre néző, védett, félhold alakú finomhomokos strand nyugodt vizet kínál, amely ideális a laza gázoláshoz és a napozáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        113.980053,
+                        22.379138
+                  ]
+            },
+            {
+                  "name": "Kadoorie Beach",
+                  "text": "A Kadoorie Beach egy homokos tengerparti szakasz Hongkongban, amely nyugodt tengerparti környezetet kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        113.981472,
+                        22.376597
+                  ]
+            },
+            {
+                  "name": "Golden Beach",
+                  "text": "A Golden Beach egy népszerű homokos tengerpart Hongkongban, amely kedvelt tengerparti célpontként ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        113.988234,
+                        22.371754
+                  ]
+            },
+            {
+                  "name": "Hong Kong Society for the Promotion of Virtue Sin Hing Tung",
+                  "text": "Ez a helyi hongkongi istentiszteleti hely nyugodt spirituális környezetet kínál a közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        113.97771,
+                        22.39375
+                  ]
+            },
+            {
+                  "name": "Tuen Mun - Chek Lap Kok Tunnel Toll Plaza",
+                  "text": "Ez a jelentős infrastrukturális fizetőkapu és híd köti össze a Chek Lap Kok felé tartó regionális forgalmat.",
+                  "category": "landmark",
+                  "coords": [
+                        113.948675,
+                        22.3685
+                  ]
+            },
+            {
+                  "name": "Wu Shan Riverside Park",
+                  "text": "A Wu Shan Riverside Park egy zöld rekreációs tér, amely közvetlenül a hongkongi vízpart mentén terül el.",
+                  "category": "park",
+                  "coords": [
+                        113.967524,
+                        22.384003
+                  ]
+            },
+            {
+                  "name": "Wah Fat Playground",
+                  "text": "A Wah Fat Playground egy szabadtéri rekreációs park, amely játszóterekkel van felszerelve a helyi közösség számára.",
+                  "category": "park",
+                  "coords": [
+                        113.982212,
+                        22.383795
+                  ]
+            },
+            {
+                  "name": "Dr Sun Yat-sen Monument",
+                  "text": "Ez a kőből készült emlékmű Hongkongban áll, tartós tiszteletadásként Dr. Szun Jat-szen történelmi alakja előtt.",
+                  "category": "historical",
+                  "coords": [
+                        113.959386,
+                        22.377538
+                  ]
+            },
+            {
+                  "name": "Hong Kong Evangelical Yan Yiu Church",
+                  "text": "Ez a helyi evangéliumi templom a hongkongi keresztény gyülekezet gyülekezőhelyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        113.971484,
+                        22.381155
+                  ]
+            },
+            {
+                  "name": "Fat Yuen Ching Shea",
+                  "text": "A Fat Yuen Ching Shea egy hagyományos spirituális elvonulóhely, amely csendes teret kínál a vallási áhítathoz.",
+                  "category": "religious",
+                  "coords": [
+                        113.962541,
+                        22.387844
+                  ]
+            },
+            {
+                  "name": "Chi Wo Tan",
+                  "text": "A Chi Wo Tan egy nyugodt helyi szentély, amelyet a hagyományos spirituális gyakorlatoknak szenteltek Hongkongban.",
+                  "category": "religious",
+                  "coords": [
+                        113.96225,
+                        22.391298
+                  ]
+            },
+            {
+                  "name": "Tin Tak Shing Kau To Tong",
+                  "text": "Ez a hongkongi vallási csarnok a közös istentiszteletek fontos helyi központjaként működik.",
+                  "category": "religious",
+                  "coords": [
+                        113.96426,
+                        22.387389
+                  ]
+            },
+            {
+                  "name": "Shan King Market",
+                  "text": "A Shan King Market egy nyüzsgő helyi piac, ahol a lakosok friss zöldségeket vásárolhatnak a standoknál.",
+                  "category": "cultural",
+                  "coords": [
+                        113.965935,
+                        22.396775
+                  ]
+            },
+            {
+                  "name": "Melody Garden Market",
+                  "text": "A lakóövezetben található fedett piac friss élelmiszerekkel látja el a szomszédságot nap mint nap.",
+                  "category": "cultural",
+                  "coords": [
+                        113.960787,
+                        22.375208
+                  ]
+            },
+            {
+                  "name": "Castle Peak Wholesale Fish Market",
+                  "text": "Ez az aktív Castle Peak-i tengerparti piac a friss halak és tengeri fogások nagykereskedelmére szakosodott.",
+                  "category": "cultural",
+                  "coords": [
+                        113.969099,
+                        22.37657
+                  ]
+            },
+            {
+                  "name": "Yan Oi Market",
+                  "text": "A Yan Oi Market egy élettel teli központ, tele friss húst és regionális alapanyagokat árusító standokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        113.980256,
+                        22.387903
+                  ]
+            },
+            {
+                  "name": "Sam Shing Estate Market",
+                  "text": "Egy állami lakótelepen található ez a helyi piac, amely számos standon kínál friss tenger gyümölcseit.",
+                  "category": "cultural",
+                  "coords": [
+                        113.978157,
+                        22.38034
+                  ]
+            },
+            {
+                  "name": "Gully",
+                  "text": "Ez a természetes szabadtéri látványosság egy jellegzetes szurdoktájjal rendelkezik, amelyet a folyóvízi erózió alakított ki.",
+                  "category": "landmark",
+                  "coords": [
+                        113.938551,
+                        22.392771
+                  ]
+            },
+            {
+                  "name": "Holy Redeemer",
+                  "text": "Ez a hongkongi keresztény helyszín egy elismert templom, ahol a helyi hívők misére gyűlnek össze.",
+                  "category": "landmark",
+                  "coords": [
+                        113.974879,
+                        22.394752
+                  ]
+            },
+            {
+                  "name": "Tuen Mun Kau Hui Hau Kok Tin Hau Temple",
+                  "text": "Ez a hagyományos buddhista templom egy jól karbantartott szentély, amelyet Tin Hau tengeristennő imádatának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        113.970548,
+                        22.390542
+                  ]
+            },
+            {
+                  "name": "Lung Kwu Tan Tin Hau Temple",
+                  "text": "A Lung Kwu Tan partvonalának közelében található taoista templom hagyományos építészeti megoldásokkal tiszteleg a tengeristennő előtt.",
+                  "category": "landmark",
+                  "coords": [
+                        113.919587,
+                        22.390815
+                  ]
+            },
+            {
+                  "name": "HKSKH St. Peter's Church, Castle Peak",
+                  "text": "Ez a keresztény plébániatemplom történelmi szentélyt kínál az anglikan közösség számára a Castle Peak-nél, jellegzetes főhajóval.",
+                  "category": "landmark",
+                  "coords": [
+                        113.967049,
+                        22.392293
+                  ]
+            },
+            {
+                  "name": "Yuan Ming Monastery",
+                  "text": "A Yuan Ming kolostor egy nyugodt buddhista komplexum klasszikus építészeti motívumokkal és békés meditációs udvarokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        113.965618,
+                        22.390238
+                  ]
+            },
+            {
+                  "name": "Lung Kwu Tan Chinese White Dolphin Lookout",
+                  "text": "Ez a part menti kilátó egy megemelt pontot kínál, amelyet kifejezetten a kínai fehér delfinek megfigyelésére alakítottak ki.",
+                  "category": "natural",
+                  "coords": [
+                        113.917928,
+                        22.392928
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tsing Shan Monastery",
+                  "text": "Situat cu grație pe versanții Castle Peak, acest complex este venerat pe scară largă ca fiind una dintre cele mai vechi mănăstiri budiste din Hong Kong.",
+                  "category": "religious",
+                  "coords": [
+                        113.95943,
+                        22.391862
+                  ]
+            },
+            {
+                  "name": "Tuen Mun Town Hall",
+                  "text": "Acest complex cultural major dispune de un auditoriu mare și galerii de expoziție care găzduiesc regulat spectacole de arte și evenimente comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        113.976775,
+                        22.391718
+                  ]
+            },
+            {
+                  "name": "Castle Peak Bay",
+                  "text": "Odinioară un centru prosper pentru flota de pescuit locală, acest golf de coastă este acum încadrat de promenade pitorești și turnuri rezidențiale moderne.",
+                  "category": "landmark",
+                  "coords": [
+                        113.976185,
+                        22.368936
+                  ]
+            },
+            {
+                  "name": "Sam Shing Temple",
+                  "text": "Acest templu istoric unifică în mod unic credințele confucianiste, budiste și taoiste sub un singur acoperiș, atrăgând diverși închinători în sălile sale sacre.",
+                  "category": "landmark",
+                  "coords": [
+                        113.979473,
+                        22.383042
+                  ]
+            },
+            {
+                  "name": "Castle Peak",
+                  "text": "Caracterizat prin râpele sale abrupte și puternic erodate, acest vârf impunător de 583 de metri oferă drumeților vederi panoramice asupra coastei de vest.",
+                  "category": "natural",
+                  "coords": [
+                        113.953311,
+                        22.388282
+                  ]
+            },
+            {
+                  "name": "Por Lo Shan",
+                  "text": "Supranumit Marele Canion al Hong Kong-ului, acest deal impresionant este celebru pentru terenul său stâncos roșu, sterp și erodat dramatic.",
+                  "category": "natural",
+                  "coords": [
+                        113.96305,
+                        22.400367
+                  ]
+            },
+            {
+                  "name": "Butterfly Beach Park",
+                  "text": "Adiacent țărmului, acest parc vast de pe plajă este plantat dens cu copaci de umbră și dotat cu numeroase grătare publice.",
+                  "category": "park",
+                  "coords": [
+                        113.957689,
+                        22.373704
+                  ]
+            },
+            {
+                  "name": "Wu Shan Recreation Playground",
+                  "text": "Această mare zonă publică de recreere dispune de terenuri de sport și un parc educațional de siguranță rutieră dedicat copiilor care merg pe bicicletă.",
+                  "category": "park",
+                  "coords": [
+                        113.965909,
+                        22.379497
+                  ]
+            },
+            {
+                  "name": "Tuen Mun Park",
+                  "text": "Acoperind peste 12 hectare, acest parc municipal plin de viață se remarcă prin lacul său mare artificial pentru plimbări cu barca și o casă educațională de reptile.",
+                  "category": "park",
+                  "coords": [
+                        113.973561,
+                        22.391389
+                  ]
+            },
+            {
+                  "name": "Dolphin Square",
+                  "text": "Ancorată de statui proeminente ale delfinilor aurii, această piață de pe faleză oferă vizitatorilor vederi panoramice asupra portului de agrement adiacent și a mării.",
+                  "category": "natural",
+                  "coords": [
+                        113.989092,
+                        22.367286
+                  ]
+            },
+            {
+                  "name": "Butterfly Beach",
+                  "text": "O plajă publică lungă și nisipoasă, dotată cu plase împotriva rechinilor și dușuri, populară pentru plimbările la apus și înotul în ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        113.956375,
+                        22.3727
+                  ]
+            },
+            {
+                  "name": "Castle Peak Beach",
+                  "text": "Această semilună adăpostită de nisip fin are vedere la golf, oferind ape calme care sunt ideale pentru o bălăceală ocazională și plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        113.980053,
+                        22.379138
+                  ]
+            },
+            {
+                  "name": "Kadoorie Beach",
+                  "text": "Kadoorie Beach este o plajă de nisip din Hong Kong, oferind un cadru de coastă relaxant.",
+                  "category": "recreational",
+                  "coords": [
+                        113.981472,
+                        22.376597
+                  ]
+            },
+            {
+                  "name": "Golden Beach",
+                  "text": "Golden Beach este o întindere de nisip populară din Hong Kong, cunoscută ca o destinație litorală de top.",
+                  "category": "recreational",
+                  "coords": [
+                        113.988234,
+                        22.371754
+                  ]
+            },
+            {
+                  "name": "Hong Kong Society for the Promotion of Virtue Sin Hing Tung",
+                  "text": "Acest lăcaș de cult local din Hong Kong oferă un cadru spiritual liniștit pentru comunitate.",
+                  "category": "religious",
+                  "coords": [
+                        113.97771,
+                        22.39375
+                  ]
+            },
+            {
+                  "name": "Tuen Mun - Chek Lap Kok Tunnel Toll Plaza",
+                  "text": "Această piață de taxare și legătură de pod infrastructurală majoră conectează traficul regional către Chek Lap Kok.",
+                  "category": "landmark",
+                  "coords": [
+                        113.948675,
+                        22.3685
+                  ]
+            },
+            {
+                  "name": "Wu Shan Riverside Park",
+                  "text": "Wu Shan Riverside Park este un spațiu verde de recreere situat direct pe malul apei în Hong Kong.",
+                  "category": "park",
+                  "coords": [
+                        113.967524,
+                        22.384003
+                  ]
+            },
+            {
+                  "name": "Wah Fat Playground",
+                  "text": "Wah Fat Playground este un parc de recreere în aer liber, dotat cu zone de joacă pentru comunitatea locală.",
+                  "category": "park",
+                  "coords": [
+                        113.982212,
+                        22.383795
+                  ]
+            },
+            {
+                  "name": "Dr Sun Yat-sen Monument",
+                  "text": "Acest monument de piatră se înalță în Hong Kong ca un omagiu de durată adus figurii istorice a Dr. Sun Yat-sen.",
+                  "category": "historical",
+                  "coords": [
+                        113.959386,
+                        22.377538
+                  ]
+            },
+            {
+                  "name": "Hong Kong Evangelical Yan Yiu Church",
+                  "text": "Această biserică evanghelică locală servește ca loc de adunare pentru congregația creștină din Hong Kong.",
+                  "category": "religious",
+                  "coords": [
+                        113.971484,
+                        22.381155
+                  ]
+            },
+            {
+                  "name": "Fat Yuen Ching Shea",
+                  "text": "Fat Yuen Ching Shea este un refugiu spiritual tradițional ce oferă un spațiu liniștit pentru devotamentul religios.",
+                  "category": "religious",
+                  "coords": [
+                        113.962541,
+                        22.387844
+                  ]
+            },
+            {
+                  "name": "Chi Wo Tan",
+                  "text": "Chi Wo Tan este un sanctuar local senin, dedicat practicilor spirituale tradiționale din Hong Kong.",
+                  "category": "religious",
+                  "coords": [
+                        113.96225,
+                        22.391298
+                  ]
+            },
+            {
+                  "name": "Tin Tak Shing Kau To Tong",
+                  "text": "Această sală religioasă din Hong Kong funcționează ca un important centru local pentru cultul comunitar.",
+                  "category": "religious",
+                  "coords": [
+                        113.96426,
+                        22.387389
+                  ]
+            },
+            {
+                  "name": "Shan King Market",
+                  "text": "Piața Shan King este o piață locală plină de viață, unde rezidenții cumpără legume proaspete de la tarabe.",
+                  "category": "cultural",
+                  "coords": [
+                        113.965935,
+                        22.396775
+                  ]
+            },
+            {
+                  "name": "Melody Garden Market",
+                  "text": "Situată într-un complex rezidențial, această piață acoperită oferă produse alimentare proaspete zilnice cartierului.",
+                  "category": "cultural",
+                  "coords": [
+                        113.960787,
+                        22.375208
+                  ]
+            },
+            {
+                  "name": "Castle Peak Wholesale Fish Market",
+                  "text": "Această piață de coastă activă de la Castle Peak este specializată în comerțul cu ridicata al peștelui proaspăt.",
+                  "category": "cultural",
+                  "coords": [
+                        113.969099,
+                        22.37657
+                  ]
+            },
+            {
+                  "name": "Yan Oi Market",
+                  "text": "Piața Yan Oi este un centru comercial vibrant, plin de tarabe care vând carne proaspătă și ingrediente regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        113.980256,
+                        22.387903
+                  ]
+            },
+            {
+                  "name": "Sam Shing Estate Market",
+                  "text": "Situată într-un complex de locuințe publice, această piață locală dispune de numeroase tarabe care oferă fructe de mare proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        113.978157,
+                        22.38034
+                  ]
+            },
+            {
+                  "name": "Gully",
+                  "text": "Această atracție naturală în aer liber prezintă un peisaj distinct de râpă format de eroziunea apei curgătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        113.938551,
+                        22.392771
+                  ]
+            },
+            {
+                  "name": "Holy Redeemer",
+                  "text": "Acest sit creștin din Hong Kong este o biserică recunoscută unde credincioșii locali se adună pentru liturghie.",
+                  "category": "landmark",
+                  "coords": [
+                        113.974879,
+                        22.394752
+                  ]
+            },
+            {
+                  "name": "Tuen Mun Kau Hui Hau Kok Tin Hau Temple",
+                  "text": "Acest templu budist tradițional este un sanctuar bine conservat, dedicat venerarii zeiței mării Tin Hau.",
+                  "category": "landmark",
+                  "coords": [
+                        113.970548,
+                        22.390542
+                  ]
+            },
+            {
+                  "name": "Lung Kwu Tan Tin Hau Temple",
+                  "text": "Situat în apropierea coastei din Lung Kwu Tan, acest templu taoist prezintă o arhitectură tradițională dedicată zeiței mării.",
+                  "category": "landmark",
+                  "coords": [
+                        113.919587,
+                        22.390815
+                  ]
+            },
+            {
+                  "name": "HKSKH St. Peter's Church, Castle Peak",
+                  "text": "Această biserică parohială creștină oferă un sanctuar istoric pentru comunitatea anglicană la Castle Peak, având o navă distinctă.",
+                  "category": "landmark",
+                  "coords": [
+                        113.967049,
+                        22.392293
+                  ]
+            },
+            {
+                  "name": "Yuan Ming Monastery",
+                  "text": "Mănăstirea Yuan Ming este un complex budist liniștit, care prezintă motive arhitecturale clasice și curți pașnice pentru meditație.",
+                  "category": "landmark",
+                  "coords": [
+                        113.965618,
+                        22.390238
+                  ]
+            },
+            {
+                  "name": "Lung Kwu Tan Chinese White Dolphin Lookout",
+                  "text": "Această punte de observație de coastă oferă un punct de belvedere conceput special pentru observarea delfinilor albi chinezești.",
+                  "category": "natural",
+                  "coords": [
+                        113.917928,
+                        22.392928
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tsing Shan Monastery",
+                  "text": "Situated gracefully on the slopes of Castle Peak, this complex is widely revered as one of Hong Kong's oldest Buddhist monasteries.",
+                  "category": "religious",
+                  "coords": [
+                        113.95943,
+                        22.391862
+                  ]
+            },
+            {
+                  "name": "Tuen Mun Town Hall",
+                  "text": "This major cultural complex features a large auditorium and exhibition galleries that host regular performing arts and community events.",
+                  "category": "cultural",
+                  "coords": [
+                        113.976775,
+                        22.391718
+                  ]
+            },
+            {
+                  "name": "Castle Peak Bay",
+                  "text": "Once a thriving hub for the local fishing fleet, this coastal inlet is now framed by scenic promenades and modern residential towers.",
+                  "category": "landmark",
+                  "coords": [
+                        113.976185,
+                        22.368936
+                  ]
+            },
+            {
+                  "name": "Sam Shing Temple",
+                  "text": "This historic temple uniquely unifies Confucian, Buddhist, and Taoist faiths under a single roof, drawing diverse worshippers to its sacred halls.",
+                  "category": "landmark",
+                  "coords": [
+                        113.979473,
+                        22.383042
+                  ]
+            },
+            {
+                  "name": "Castle Peak",
+                  "text": "Characterized by its steep, severely eroded gullies, this towering 583-metre peak offers hikers panoramic views over the western coastline.",
+                  "category": "natural",
+                  "coords": [
+                        113.953311,
+                        22.388282
+                  ]
+            },
+            {
+                  "name": "Por Lo Shan",
+                  "text": "Nicknamed Hong Kong's Grand Canyon, this striking hill is celebrated for its dramatically eroded and barren red-rock terrain.",
+                  "category": "natural",
+                  "coords": [
+                        113.96305,
+                        22.400367
+                  ]
+            },
+            {
+                  "name": "Butterfly Beach Park",
+                  "text": "Adjacent to the shoreline, this expansive beachfront park is densely planted with shade trees and equipped with numerous public barbecue pits.",
+                  "category": "park",
+                  "coords": [
+                        113.957689,
+                        22.373704
+                  ]
+            },
+            {
+                  "name": "Wu Shan Recreation Playground",
+                  "text": "This large public recreational area features sports courts and a dedicated traffic safety town designed for children cycling.",
+                  "category": "park",
+                  "coords": [
+                        113.965909,
+                        22.379497
+                  ]
+            },
+            {
+                  "name": "Tuen Mun Park",
+                  "text": "Covering over 12 hectares, this bustling municipal park stands out for its large artificial boating lake and an educational Reptile House.",
+                  "category": "park",
+                  "coords": [
+                        113.973561,
+                        22.391389
+                  ]
+            },
+            {
+                  "name": "Dolphin Square",
+                  "text": "Anchored by prominent golden dolphin statues, this waterfront plaza offers visitors sweeping views of the adjacent marina and sea.",
+                  "category": "natural",
+                  "coords": [
+                        113.989092,
+                        22.367286
+                  ]
+            },
+            {
+                  "name": "Butterfly Beach",
+                  "text": "A long, sandy public beach equipped with shark-prevention nets and shower facilities, popular for sunset walks and ocean swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        113.956375,
+                        22.3727
+                  ]
+            },
+            {
+                  "name": "Castle Peak Beach",
+                  "text": "This sheltered crescent of soft sand overlooks the bay, providing calm waters that are ideal for casual wading and sunbathing.",
+                  "category": "recreational",
+                  "coords": [
+                        113.980053,
+                        22.379138
+                  ]
+            },
+            {
+                  "name": "Kadoorie Beach",
+                  "text": "Kadoorie Beach is a sandy coastal stretch in Hong Kong offering a relaxed seaside setting.",
+                  "category": "recreational",
+                  "coords": [
+                        113.981472,
+                        22.376597
+                  ]
+            },
+            {
+                  "name": "Golden Beach",
+                  "text": "Golden Beach is a popular sandy coastal stretch in Hong Kong, known as a prominent seaside destination.",
+                  "category": "recreational",
+                  "coords": [
+                        113.988234,
+                        22.371754
+                  ]
+            },
+            {
+                  "name": "Hong Kong Society for the Promotion of Virtue Sin Hing Tung",
+                  "text": "This local place of worship in Hong Kong offers a tranquil spiritual setting for the community.",
+                  "category": "religious",
+                  "coords": [
+                        113.97771,
+                        22.39375
+                  ]
+            },
+            {
+                  "name": "Tuen Mun - Chek Lap Kok Tunnel Toll Plaza",
+                  "text": "This major infrastructural toll plaza and bridge link connects the regional traffic of Hong Kong towards Chek Lap Kok.",
+                  "category": "landmark",
+                  "coords": [
+                        113.948675,
+                        22.3685
+                  ]
+            },
+            {
+                  "name": "Wu Shan Riverside Park",
+                  "text": "Wu Shan Riverside Park is a green recreational space situated directly along the waterfront in Hong Kong.",
+                  "category": "park",
+                  "coords": [
+                        113.967524,
+                        22.384003
+                  ]
+            },
+            {
+                  "name": "Wah Fat Playground",
+                  "text": "Wah Fat Playground is an outdoor recreational park equipped with play areas and seating for the local community.",
+                  "category": "park",
+                  "coords": [
+                        113.982212,
+                        22.383795
+                  ]
+            },
+            {
+                  "name": "Dr Sun Yat-sen Monument",
+                  "text": "This stone memorial monument stands in Hong Kong as a lasting tribute to the historical figure Dr. Sun Yat-sen.",
+                  "category": "historical",
+                  "coords": [
+                        113.959386,
+                        22.377538
+                  ]
+            },
+            {
+                  "name": "Hong Kong Evangelical Yan Yiu Church",
+                  "text": "This local Evangelical church serves as a dedicated gathering place for the Christian congregation in Hong Kong.",
+                  "category": "religious",
+                  "coords": [
+                        113.971484,
+                        22.381155
+                  ]
+            },
+            {
+                  "name": "Fat Yuen Ching Shea",
+                  "text": "Fat Yuen Ching Shea is a traditional spiritual retreat offering a quiet space and courtyard for religious devotion.",
+                  "category": "religious",
+                  "coords": [
+                        113.962541,
+                        22.387844
+                  ]
+            },
+            {
+                  "name": "Chi Wo Tan",
+                  "text": "Chi Wo Tan is a serene local sanctuary dedicated to traditional spiritual practices in Hong Kong.",
+                  "category": "religious",
+                  "coords": [
+                        113.96225,
+                        22.391298
+                  ]
+            },
+            {
+                  "name": "Tin Tak Shing Kau To Tong",
+                  "text": "This religious hall in Hong Kong functions as an important local center for communal worship and prayer.",
+                  "category": "religious",
+                  "coords": [
+                        113.96426,
+                        22.387389
+                  ]
+            },
+            {
+                  "name": "Shan King Market",
+                  "text": "Shan King Market is a bustling local marketplace where residents gather at stalls to buy fresh produce.",
+                  "category": "cultural",
+                  "coords": [
+                        113.965935,
+                        22.396775
+                  ]
+            },
+            {
+                  "name": "Melody Garden Market",
+                  "text": "Situated within a residential estate, this indoor marketplace provides daily fresh groceries and meats to the neighborhood.",
+                  "category": "cultural",
+                  "coords": [
+                        113.960787,
+                        22.375208
+                  ]
+            },
+            {
+                  "name": "Castle Peak Wholesale Fish Market",
+                  "text": "This active coastal marketplace at Castle Peak specializes in the bulk wholesale trading of fresh fish and maritime catches.",
+                  "category": "cultural",
+                  "coords": [
+                        113.969099,
+                        22.37657
+                  ]
+            },
+            {
+                  "name": "Yan Oi Market",
+                  "text": "Yan Oi Market is a vibrant commercial hub filled with vendor stalls selling fresh meat, vegetables, and regional ingredients.",
+                  "category": "cultural",
+                  "coords": [
+                        113.980256,
+                        22.387903
+                  ]
+            },
+            {
+                  "name": "Sam Shing Estate Market",
+                  "text": "Located within a public housing estate, this local market features numerous stalls offering fresh seafood and daily provisions.",
+                  "category": "cultural",
+                  "coords": [
+                        113.978157,
+                        22.38034
+                  ]
+            },
+            {
+                  "name": "Gully",
+                  "text": "This natural outdoor attraction features a distinct ravine landscape shaped by flowing water erosion.",
+                  "category": "landmark",
+                  "coords": [
+                        113.938551,
+                        22.392771
+                  ]
+            },
+            {
+                  "name": "Holy Redeemer",
+                  "text": "This Christian site in Hong Kong is an established church where local worshippers gather for mass and prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        113.974879,
+                        22.394752
+                  ]
+            },
+            {
+                  "name": "Tuen Mun Kau Hui Hau Kok Tin Hau Temple",
+                  "text": "This traditional Buddhist temple is a well-preserved sanctuary dedicated to the worship of the sea goddess Tin Hau.",
+                  "category": "landmark",
+                  "coords": [
+                        113.970548,
+                        22.390542
+                  ]
+            },
+            {
+                  "name": "Lung Kwu Tan Tin Hau Temple",
+                  "text": "Located near the coastline at Lung Kwu Tan, this Taoist temple features intricate traditional architecture dedicated to honoring the sea goddess.",
+                  "category": "landmark",
+                  "coords": [
+                        113.919587,
+                        22.390815
+                  ]
+            },
+            {
+                  "name": "HKSKH St. Peter's Church, Castle Peak",
+                  "text": "This Christian parish church offers a historic sanctuary and distinct nave for the Anglican community at Castle Peak.",
+                  "category": "landmark",
+                  "coords": [
+                        113.967049,
+                        22.392293
+                  ]
+            },
+            {
+                  "name": "Yuan Ming Monastery",
+                  "text": "Yuan Ming Monastery is a tranquil Buddhist complex featuring classic architectural motifs and peaceful meditation courtyards.",
+                  "category": "landmark",
+                  "coords": [
+                        113.965618,
+                        22.390238
+                  ]
+            },
+            {
+                  "name": "Lung Kwu Tan Chinese White Dolphin Lookout",
+                  "text": "This coastal observation deck offers an elevated vantage point specifically designed for spotting the endangered Chinese White Dolphins.",
+                  "category": "natural",
+                  "coords": [
+                        113.917928,
+                        22.392928
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "industry",
     name: { de: "Kraftwerk Castle Peak", hu: "Castle Peak erőmű", ro: "Centrala electrică Castle Peak", en: "Castle Peak Power Station" },
@@ -3117,7 +9156,52 @@ export const hongkongEconomicV2: POI[] = [
     image: "/poi-images/hongkong-castle-peak-power-station-economic-v2.webp",
   },
   {
-    id: "hongkong-pacific-place-economic-v2",
+    id: "hongkong-pacific-place-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Victoria Barracks Explosives Magazine",
+                  "text": "Das Victoria Barracks Explosives Magazine ist eine ehemalige militärische Struktur des Grade-III-Erbes mit dicken Explosionsschutzwänden und einem Steingewölbe zur Munitionslagerung.",
+                  "category": "fortress",
+                  "coords": [
+                        114.165595,
+                        22.275037
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Victoria Barracks Explosives Magazine",
+                  "text": "A Victoria Barracks Explosives Magazine egy Grade III örökségvédelmi besorolású, egykori katonai létesítmény vastag védőfalakkal és kőboltozatos lőszerraktárral.",
+                  "category": "fortress",
+                  "coords": [
+                        114.165595,
+                        22.275037
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Victoria Barracks Explosives Magazine",
+                  "text": "Victoria Barracks Explosives Magazine este o fostă structură militară de patrimoniu de gradul III, cu pereți antiexplozivi groși și un depozit de muniție cu boltă din piatră.",
+                  "category": "fortress",
+                  "coords": [
+                        114.165595,
+                        22.275037
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Victoria Barracks Explosives Magazine",
+                  "text": "Victoria Barracks Explosives Magazine is a Grade III heritage former military structure featuring heavy blast walls and stone-vaulted ammunition storage.",
+                  "category": "fortress",
+                  "coords": [
+                        114.165595,
+                        22.275037
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "landmark",
     name: { de: "Pacific Place", hu: "Pacific Place", ro: "Pacific Place", en: "Pacific Place" },
@@ -3252,7 +9336,88 @@ export const hongkongEconomicV2: POI[] = [
     image: "/poi-images/hongkong-jardine-house-economic-v2.webp",
   },
   {
-    id: "hongkong-skycity-airport-economic-v2",
+    id: "hongkong-skycity-airport-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Douglas DC-3",
+                  "text": "Die Douglas DC-3 „Betsy“ ist ein historisches Flugzeugdenkmal, das in der wirtschaftlich florierenden SkyCity am Flughafen Hongkong ausgestellt ist.",
+                  "category": "historical",
+                  "coords": [
+                        113.933425,
+                        22.29798
+                  ]
+            },
+            {
+                  "name": "Travelling Museum",
+                  "text": "Das Travelling Museum ist eine kulturelle Einrichtung in der SkyCity nahe dem internationalen Flughafen von Hongkong.",
+                  "category": "museum",
+                  "coords": [
+                        113.926969,
+                        22.312289
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Douglas DC-3",
+                  "text": "A Douglas DC-3 \"Betsy\" egy történelmi repülőgépes emlékmű, amelyet a hongkongi repülőtér gazdaságilag virágzó SkyCity részén állítottak ki.",
+                  "category": "historical",
+                  "coords": [
+                        113.933425,
+                        22.29798
+                  ]
+            },
+            {
+                  "name": "Travelling Museum",
+                  "text": "A Travelling Museum egy kulturális létesítmény a hongkongi nemzetközi repülőtér közelében lévő SkyCityben.",
+                  "category": "museum",
+                  "coords": [
+                        113.926969,
+                        22.312289
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Douglas DC-3",
+                  "text": "Douglas DC-3 „Betsy” este un monument aviatic istoric expus în zona economică înfloritoare SkyCity de la aeroportul din Hong Kong.",
+                  "category": "historical",
+                  "coords": [
+                        113.933425,
+                        22.29798
+                  ]
+            },
+            {
+                  "name": "Travelling Museum",
+                  "text": "Travelling Museum este o facilitate culturală situată în SkyCity, aproape de aeroportul internațional din Hong Kong.",
+                  "category": "museum",
+                  "coords": [
+                        113.926969,
+                        22.312289
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Douglas DC-3 “Betsy”",
+                  "text": "The Douglas DC-3 “Betsy” is a historic aircraft monument displayed in the thriving economic area of SkyCity at Hong Kong Airport.",
+                  "category": "historical",
+                  "coords": [
+                        113.933425,
+                        22.29798
+                  ]
+            },
+            {
+                  "name": "Travelling Museum",
+                  "text": "The Travelling Museum is a cultural facility situated in the SkyCity complex near Hong Kong International Airport.",
+                  "category": "museum",
+                  "coords": [
+                        113.926969,
+                        22.312289
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "industry",
     name: { de: "SkyCity", hu: "SkyCity", ro: "SkyCity", en: "SkyCity" },
@@ -3297,7 +9462,52 @@ export const hongkongEconomicV2: POI[] = [
     image: "/poi-images/hongkong-skycity-airport-economic-v2.webp",
   },
   {
-    id: "hongkong-stonecutters-island-infrastructure-economic-v2",
+    id: "hongkong-stonecutters-island-infrastructure-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Anchor of Seawise Giant",
+                  "text": "Dieses Denkmal bewahrt den massiven Anker der Seawise Giant, des einst längsten und schwersten jemals gebauten Schiffes.",
+                  "category": "historical",
+                  "coords": [
+                        114.140892,
+                        22.323076
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Anchor of Seawise Giant",
+                  "text": "Ez az emlékmű a Seawise Giant hatalmas horgonyát őrzi, amely egykor a valaha épített leghosszabb és legnehezebb hajó volt.",
+                  "category": "historical",
+                  "coords": [
+                        114.140892,
+                        22.323076
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Anchor of Seawise Giant",
+                  "text": "Acest monument păstrează ancora masivă a navei Seawise Giant, odată cea mai lungă și mai grea navă construită vreodată.",
+                  "category": "historical",
+                  "coords": [
+                        114.140892,
+                        22.323076
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Anchor of Seawise Giant",
+                  "text": "This monument preserves the massive anchor of the Seawise Giant, once the longest and heaviest ship ever built.",
+                  "category": "historical",
+                  "coords": [
+                        114.140892,
+                        22.323076
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "industry",
     name: { de: "Stonecutters Island Infrastruktur", hu: "Stonecutters-szigeti infrastruktúra", ro: "Infrastructura Insulei Stonecutters", en: "Stonecutters Island Infrastructure" },

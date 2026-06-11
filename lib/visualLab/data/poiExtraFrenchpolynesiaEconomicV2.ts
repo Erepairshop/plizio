@@ -1042,7 +1042,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Centre Jacques Brel",
-                  "text": "Centre Jacques Brel ist ein Museum in Wirtschaftshub Atuona.",
+                  "text": "Museum, das Jacques Brel, dem belgischen Sänger, der auf den Marquesas lebte, in Atuona gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         -139.040599,
@@ -1051,7 +1051,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Pétroglyphes de Tehueto",
-                  "text": "Pétroglyphes de Tehueto ist eine archäologische Stätte in Wirtschaftshub Atuona.",
+                  "text": "Felsritzungen (Petroglyphen) in Tehueto nahe Atuona.",
                   "category": "historical",
                   "coords": [
                         -139.027127,
@@ -1060,7 +1060,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Me'ae et Tohua de Tehueto",
-                  "text": "Me'ae et Tohua de Tehueto ist eine archäologische Stätte in Wirtschaftshub Atuona.",
+                  "text": "Heilige Me'ae (Zeremonialstätte) und Tohua (Versammlungsplatz) in Tehueto.",
                   "category": "historical",
                   "coords": [
                         -139.02786,
@@ -1069,7 +1069,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Maison du Jouir",
-                  "text": "Maison du Jouir ist ein Museum in Wirtschaftshub Atuona.",
+                  "text": "Maison du Jouir, die letzte Residenz von Jacques Brel auf den Marquesas, heute ein Museum.",
                   "category": "museum",
                   "coords": [
                         -139.040817,
@@ -1078,7 +1078,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Tikis souriant suivre les indications",
-                  "text": "Tikis souriant suivre les indications ist eine Attraktion in Wirtschaftshub Atuona.",
+                  "text": "Lächelnde Tiki-Statuen, den Hinweisschildern folgend, nahe Atuona.",
                   "category": "landmark",
                   "coords": [
                         -139.00972,
@@ -1087,7 +1087,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Église de l'Immaculée-Conception",
-                  "text": "Église de l'Immaculée-Conception ist eine Kultstätte in Wirtschaftshub Atuona.",
+                  "text": "Katholische Kirche im Wirtschaftszentrum von Atuona.",
                   "category": "religious",
                   "coords": [
                         -139.041857,
@@ -1098,7 +1098,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Centre Jacques Brel",
-                  "text": "A Centre Jacques Brel egy múzeum Wirtschaftshub Atuona területén.",
+                  "text": "Jacques Brel-nek, a Marquesas-szigeteken élt belga énekesnek szentelt múzeum Atuonában.",
                   "category": "museum",
                   "coords": [
                         -139.040599,
@@ -1107,7 +1107,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Pétroglyphes de Tehueto",
-                  "text": "A Pétroglyphes de Tehueto egy régészeti lelőhely Wirtschaftshub Atuona területén.",
+                  "text": "Sziklavésettek (petroglifák) Tehueto-ban, Atuona közelében.",
                   "category": "historical",
                   "coords": [
                         -139.027127,
@@ -1116,7 +1116,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Me'ae et Tohua de Tehueto",
-                  "text": "A Me'ae et Tohua de Tehueto egy régészeti lelőhely Wirtschaftshub Atuona területén.",
+                  "text": "Szent me'ae (szertartási hely) és tohua (gyülekező tér) Tehueto-ban.",
                   "category": "historical",
                   "coords": [
                         -139.02786,
@@ -1125,7 +1125,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Maison du Jouir",
-                  "text": "A Maison du Jouir egy múzeum Wirtschaftshub Atuona területén.",
+                  "text": "Maison du Jouir, Jacques Brel utolsó lakhelye a Marquesas-szigeteken, ma múzeum.",
                   "category": "museum",
                   "coords": [
                         -139.040817,
@@ -1134,7 +1134,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Tikis souriant suivre les indications",
-                  "text": "A Tikis souriant suivre les indications egy látványosság Wirtschaftshub Atuona területén.",
+                  "text": "Mosolygó tiki szobrok, a jelzéseket követve, Atuona közelében.",
                   "category": "landmark",
                   "coords": [
                         -139.00972,
@@ -1143,7 +1143,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Église de l'Immaculée-Conception",
-                  "text": "Az Église de l'Immaculée-Conception egy istentiszteleti hely Wirtschaftshub Atuona területén.",
+                  "text": "Katolikus templom Atuona gazdasági központjában.",
                   "category": "religious",
                   "coords": [
                         -139.041857,
@@ -1154,7 +1154,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Centre Jacques Brel",
-                  "text": "Centre Jacques Brel este un muzeu situat în Wirtschaftshub Atuona.",
+                  "text": "Muzeu dedicat lui Jacques Brel, cântărețul belgian care a trăit în Insulele Marquesas, în Atuona.",
                   "category": "museum",
                   "coords": [
                         -139.040599,
@@ -1163,7 +1163,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Pétroglyphes de Tehueto",
-                  "text": "Pétroglyphes de Tehueto este un sit arheologic situat în Wirtschaftshub Atuona.",
+                  "text": "Gravuri rupestre (petroglife) la Tehueto lângă Atuona.",
                   "category": "historical",
                   "coords": [
                         -139.027127,
@@ -1172,7 +1172,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Me'ae et Tohua de Tehueto",
-                  "text": "Me'ae et Tohua de Tehueto este un sit arheologic situat în Wirtschaftshub Atuona.",
+                  "text": "Me'ae sacru (loc ceremonial) și tohua (piață de adunare) la Tehueto.",
                   "category": "historical",
                   "coords": [
                         -139.02786,
@@ -1181,7 +1181,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Maison du Jouir",
-                  "text": "Maison du Jouir este un muzeu situat în Wirtschaftshub Atuona.",
+                  "text": "Maison du Jouir, ultima reședință a lui Jacques Brel în Insulele Marquesas, acum muzeu.",
                   "category": "museum",
                   "coords": [
                         -139.040817,
@@ -1190,7 +1190,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Tikis souriant suivre les indications",
-                  "text": "Tikis souriant suivre les indications este o atracție situată în Wirtschaftshub Atuona.",
+                  "text": "Statuile zâmbitoare tiki, urmând indicațiile, lângă Atuona.",
                   "category": "landmark",
                   "coords": [
                         -139.00972,
@@ -1199,7 +1199,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Église de l'Immaculée-Conception",
-                  "text": "Église de l'Immaculée-Conception este un loc de cult situat în Wirtschaftshub Atuona.",
+                  "text": "Biserică catolică în centrul economic al orașului Atuona.",
                   "category": "religious",
                   "coords": [
                         -139.041857,
@@ -1210,7 +1210,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Centre Jacques Brel",
-                  "text": "Centre Jacques Brel is a museum located in Wirtschaftshub Atuona.",
+                  "text": "Museum dedicated to Jacques Brel, the Belgian singer who lived in the Marquesas, in Atuona.",
                   "category": "museum",
                   "coords": [
                         -139.040599,
@@ -1219,7 +1219,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Pétroglyphes de Tehueto",
-                  "text": "Pétroglyphes de Tehueto is an archaeological site located in Wirtschaftshub Atuona.",
+                  "text": "Rock carvings (petroglyphs) at Tehueto near Atuona.",
                   "category": "historical",
                   "coords": [
                         -139.027127,
@@ -1228,7 +1228,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Me'ae et Tohua de Tehueto",
-                  "text": "Me'ae et Tohua de Tehueto is an archaeological site located in Wirtschaftshub Atuona.",
+                  "text": "Sacred me'ae (ceremonial site) and tohua (assembly plaza) at Tehueto.",
                   "category": "historical",
                   "coords": [
                         -139.02786,
@@ -1237,7 +1237,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Maison du Jouir",
-                  "text": "Maison du Jouir is a museum located in Wirtschaftshub Atuona.",
+                  "text": "Maison du Jouir, the last residence of Jacques Brel in the Marquesas, now a museum.",
                   "category": "museum",
                   "coords": [
                         -139.040817,
@@ -1246,7 +1246,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Tikis souriant suivre les indications",
-                  "text": "Tikis souriant suivre les indications is an attraction located in Wirtschaftshub Atuona.",
+                  "text": "Smiling tiki statues, follow the signs, near Atuona.",
                   "category": "landmark",
                   "coords": [
                         -139.00972,
@@ -1255,7 +1255,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
             },
             {
                   "name": "Église de l'Immaculée-Conception",
-                  "text": "Église de l'Immaculée-Conception is a place of worship located in Wirtschaftshub Atuona.",
+                  "text": "Catholic church in the economic center of Atuona.",
                   "category": "religious",
                   "coords": [
                         -139.041857,

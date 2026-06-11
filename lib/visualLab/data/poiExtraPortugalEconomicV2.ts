@@ -1303,7 +1303,7 @@ export const portugalEconomicV2: POI[] = [
             },
             {
                   "name": "Praia de Cepães",
-                  "text": "Ein Sandstrand an der Atlantikküste bei Esposende.",
+                  "text": "Ein Sandstrand mit Dünen und einer Promenade in Esposende, nahe der Mündung des Cávado.",
                   "category": "recreational",
                   "coords": [
                         -8.793217,
@@ -1357,7 +1357,7 @@ export const portugalEconomicV2: POI[] = [
             },
             {
                   "name": "Praia Suave Mar (Sul)",
-                  "text": "Südlicher Teil des Suave Mar Strandes in Esposende.",
+                  "text": "Sandstrand südlich des Fischerhafens von Esposende, ruhig und familienfreundlich.",
                   "category": "recreational",
                   "coords": [
                         -8.79258,
@@ -1404,7 +1404,7 @@ export const portugalEconomicV2: POI[] = [
             },
             {
                   "name": "Praia de Cepães",
-                  "text": "Homokos tengerpart az atlanti-parton, Esposende közelében.",
+                  "text": "Homokos strand dűnékkel és sétánnyal Esposendében, a Cávado folyó torkolatánál.",
                   "category": "recreational",
                   "coords": [
                         -8.793217,
@@ -1458,7 +1458,7 @@ export const portugalEconomicV2: POI[] = [
             },
             {
                   "name": "Praia Suave Mar (Sul)",
-                  "text": "A Suave Mar strand déli része Esposendében.",
+                  "text": "Homokos strand az Esposende-i halászkikötőtől délre, csendes és családbarát.",
                   "category": "recreational",
                   "coords": [
                         -8.79258,
@@ -1505,7 +1505,7 @@ export const portugalEconomicV2: POI[] = [
             },
             {
                   "name": "Praia de Cepães",
-                  "text": "O plajă cu nisip pe coasta Atlanticului, lângă Esposende.",
+                  "text": "O plajă nisipoasă cu dune și o promenadă în Esposende, lângă gura râului Cávado.",
                   "category": "recreational",
                   "coords": [
                         -8.793217,
@@ -1559,7 +1559,7 @@ export const portugalEconomicV2: POI[] = [
             },
             {
                   "name": "Praia Suave Mar (Sul)",
-                  "text": "Partea de sud a plajei Suave Mar în Esposende.",
+                  "text": "Plajă nisipoasă la sud de portul de pescuit Esposende, liniștită și prietenoasă cu familiile.",
                   "category": "recreational",
                   "coords": [
                         -8.79258,
@@ -1606,7 +1606,7 @@ export const portugalEconomicV2: POI[] = [
             },
             {
                   "name": "Praia de Cepães",
-                  "text": "A sandy beach on the Atlantic coast near Esposende.",
+                  "text": "A sandy beach with dunes and a boardwalk in Esposende, near the mouth of the Cávado River.",
                   "category": "recreational",
                   "coords": [
                         -8.793217,
@@ -1660,7 +1660,7 @@ export const portugalEconomicV2: POI[] = [
             },
             {
                   "name": "Praia Suave Mar (Sul)",
-                  "text": "Southern part of the Suave Mar beach in Esposende.",
+                  "text": "Sandy beach south of the Esposende fishing harbor, calm and family-friendly.",
                   "category": "recreational",
                   "coords": [
                         -8.79258,
@@ -2050,7 +2050,7 @@ export const portugalEconomicV2: POI[] = [
             },
             {
                   "name": "Solar do Paço da Ermida",
-                  "text": "Ein traditionelles Herrenhaus in der Region Vagos.",
+                  "text": "Historischer Herrensitz mit einer Kapelle aus dem 18. Jahrhundert in Vagos.",
                   "category": "historical",
                   "coords": [
                         -8.674849,
@@ -2068,7 +2068,7 @@ export const portugalEconomicV2: POI[] = [
             },
             {
                   "name": "Piscinas Municipais de Vagos",
-                  "text": "Die städtischen Schwimmbäder von Vagos in Portugal.",
+                  "text": "Freibadkomplex in Vagos mit mehreren Becken und Liegewiesen.",
                   "category": "recreational",
                   "coords": [
                         -8.683236,
@@ -2097,7 +2097,7 @@ export const portugalEconomicV2: POI[] = [
             },
             {
                   "name": "Solar do Paço da Ermida",
-                  "text": "Hagyományos nemesi udvarház Vagos régiójában.",
+                  "text": "Történelmi kúria kápolnával a 18. századból, Vagosban.",
                   "category": "historical",
                   "coords": [
                         -8.674849,
@@ -2115,7 +2115,7 @@ export const portugalEconomicV2: POI[] = [
             },
             {
                   "name": "Piscinas Municipais de Vagos",
-                  "text": "Vagos városi úszómedencéi Portugáliában.",
+                  "text": "Szabadtéri uszodakomplexum Vagosban, több medencével és napozórétekkel.",
                   "category": "recreational",
                   "coords": [
                         -8.683236,
@@ -2144,7 +2144,7 @@ export const portugalEconomicV2: POI[] = [
             },
             {
                   "name": "Solar do Paço da Ermida",
-                  "text": "Un conac tradițional situat în regiunea Vagos.",
+                  "text": "Conac istoric cu o capelă din secolul al XVIII-lea în Vagos.",
                   "category": "historical",
                   "coords": [
                         -8.674849,
@@ -2162,7 +2162,7 @@ export const portugalEconomicV2: POI[] = [
             },
             {
                   "name": "Piscinas Municipais de Vagos",
-                  "text": "Piscinele municipale din Vagos, Portugalia.",
+                  "text": "Complex de piscine în aer liber în Vagos, cu mai multe bazine și zone de relaxare.",
                   "category": "recreational",
                   "coords": [
                         -8.683236,
@@ -2191,7 +2191,7 @@ export const portugalEconomicV2: POI[] = [
             },
             {
                   "name": "Solar do Paço da Ermida",
-                  "text": "A traditional manor house located in the Vagos region.",
+                  "text": "Historic manor house with an 18th-century chapel in Vagos.",
                   "category": "historical",
                   "coords": [
                         -8.674849,
@@ -2209,7 +2209,7 @@ export const portugalEconomicV2: POI[] = [
             },
             {
                   "name": "Piscinas Municipais de Vagos",
-                  "text": "The municipal swimming pools of Vagos in Portugal.",
+                  "text": "Outdoor swimming pool complex in Vagos with multiple pools and sunbathing lawns.",
                   "category": "recreational",
                   "coords": [
                         -8.683236,
@@ -2320,7 +2320,7 @@ export const portugalEconomicV2: POI[] = [
             },
             {
                   "name": "Casa da Borralha",
-                  "text": "Ein traditionelles Herrenhaus oder schlossähnliches Gebäude in Águeda.",
+                  "text": "Ein befestigtes Herrenhaus (Casa da Borralha) mit Türmen, umgeben von Pinienwäldern bei Águeda.",
                   "category": "castle",
                   "coords": [
                         -8.439439,
@@ -2329,7 +2329,7 @@ export const portugalEconomicV2: POI[] = [
             },
             {
                   "name": "D'Orfeu Associação Cultural",
-                  "text": "Ein lokales Kulturzentrum und Veranstaltungsort für Theater in Águeda.",
+                  "text": "Kulturverein in Águeda, der Musik und Kunst fördert, in einem umgebauten Gebäude.",
                   "category": "cultural",
                   "coords": [
                         -8.446163,
@@ -2394,7 +2394,7 @@ export const portugalEconomicV2: POI[] = [
             },
             {
                   "name": "Casa da Borralha",
-                  "text": "Hagyományos udvarház vagy kastélyszerű épület Águedában.",
+                  "text": "Erődített kúria (Casa da Borralha) tornyokkal, fenyőerdők által körülvéve Águeda közelében.",
                   "category": "castle",
                   "coords": [
                         -8.439439,
@@ -2403,7 +2403,7 @@ export const portugalEconomicV2: POI[] = [
             },
             {
                   "name": "D'Orfeu Associação Cultural",
-                  "text": "Helyi kulturális központ és színházi helyszín Águedában.",
+                  "text": "Kulturális egyesület Águedában, amely a zenét és művészetet népszerűsíti, egy átalakított épületben.",
                   "category": "cultural",
                   "coords": [
                         -8.446163,
@@ -2468,7 +2468,7 @@ export const portugalEconomicV2: POI[] = [
             },
             {
                   "name": "Casa da Borralha",
-                  "text": "Un conac tradițional sau o clădire asemănătoare unui castel în Águeda.",
+                  "text": "Un conac fortificat (Casa da Borralha) cu turnuri, înconjurat de păduri de pini lângă Águeda.",
                   "category": "castle",
                   "coords": [
                         -8.439439,
@@ -2477,7 +2477,7 @@ export const portugalEconomicV2: POI[] = [
             },
             {
                   "name": "D'Orfeu Associação Cultural",
-                  "text": "Un centru cultural local și spațiu pentru spectacole de teatru în Águeda.",
+                  "text": "Asociație culturală în Águeda care promovează muzica și arta, într-o clădire reamenajată.",
                   "category": "cultural",
                   "coords": [
                         -8.446163,
@@ -2542,7 +2542,7 @@ export const portugalEconomicV2: POI[] = [
             },
             {
                   "name": "Casa da Borralha",
-                  "text": "A traditional manor or castle-like building in Águeda.",
+                  "text": "A fortified manor house (Casa da Borralha) with towers, surrounded by pine forests near Águeda.",
                   "category": "castle",
                   "coords": [
                         -8.439439,
@@ -2551,7 +2551,7 @@ export const portugalEconomicV2: POI[] = [
             },
             {
                   "name": "D'Orfeu Associação Cultural",
-                  "text": "A local cultural center and theatre venue in Águeda.",
+                  "text": "Cultural association in Águeda promoting music and arts, in a converted building.",
                   "category": "cultural",
                   "coords": [
                         -8.446163,
@@ -2833,7 +2833,7 @@ export const portugalEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Praia do Rato",
-                  "text": "Ein Strand in der Nähe der Salinen von Tavira.",
+                  "text": "Kleiner Strand in der Nähe der Salzgärten von Tavira, ruhig und abgeschieden.",
                   "category": "recreational",
                   "coords": [
                         -7.62473,
@@ -2851,7 +2851,7 @@ export const portugalEconomicV2: POI[] = [
             },
             {
                   "name": "Praia da Ilha de Tavira",
-                  "text": "Ein beliebter Strand auf der Insel Tavira.",
+                  "text": "Langer Sandstrand auf der Insel Tavira, erreichbar mit der Fähre von Tavira.",
                   "category": "recreational",
                   "coords": [
                         -7.621066,
@@ -2860,7 +2860,7 @@ export const portugalEconomicV2: POI[] = [
             },
             {
                   "name": "Praia Tavira-Ria",
-                  "text": "Ein Strandabschnitt an der Ria Formosa in Tavira.",
+                  "text": "Ruhiger Strand an der Lagune Ria Formosa in Tavira, flaches Wasser ideal für Kinder.",
                   "category": "recreational",
                   "coords": [
                         -7.623792,
@@ -2869,7 +2869,7 @@ export const portugalEconomicV2: POI[] = [
             },
             {
                   "name": "Praia de Cabanas",
-                  "text": "Ein Strand im Viertel Cabanas bei Tavira.",
+                  "text": "Ein langer Sandstrand auf der Barriereinsel Cabanas vor Tavira, mit ruhigem Wasser und Blick auf die Ria Formosa.",
                   "category": "recreational",
                   "coords": [
                         -7.590938,
@@ -2889,7 +2889,7 @@ export const portugalEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Praia do Rato",
-                  "text": "Strand a Tavira sólepárlók közelében.",
+                  "text": "Kis strand Tavira sólepárlói közelében, csendes és félreeső.",
                   "category": "recreational",
                   "coords": [
                         -7.62473,
@@ -2907,7 +2907,7 @@ export const portugalEconomicV2: POI[] = [
             },
             {
                   "name": "Praia da Ilha de Tavira",
-                  "text": "Népszerű strand a Tavira-szigeten.",
+                  "text": "Hosszú homokos strand a Tavira-szigeten, komppal megközelíthető Tavira városából.",
                   "category": "recreational",
                   "coords": [
                         -7.621066,
@@ -2916,7 +2916,7 @@ export const portugalEconomicV2: POI[] = [
             },
             {
                   "name": "Praia Tavira-Ria",
-                  "text": "Strandterület a Ria Formosa mentén Taviránál.",
+                  "text": "Csendes strand a Ria Formosa lagúnánál Tavirában, sekély víz ideális gyerekeknek.",
                   "category": "recreational",
                   "coords": [
                         -7.623792,
@@ -2925,7 +2925,7 @@ export const portugalEconomicV2: POI[] = [
             },
             {
                   "name": "Praia de Cabanas",
-                  "text": "Strand Cabanas területén, Tavira közelében.",
+                  "text": "Hosszú homokos strand a Cabanas gát szigeten Tavira előtt, nyugodt vízzel és a Ria Formosa kilátással.",
                   "category": "recreational",
                   "coords": [
                         -7.590938,
@@ -2945,7 +2945,7 @@ export const portugalEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Praia do Rato",
-                  "text": "O plajă situată lângă salinele din Tavira.",
+                  "text": "Plajă mică lângă salinele Tavira, liniștită și retrasă.",
                   "category": "recreational",
                   "coords": [
                         -7.62473,
@@ -2963,7 +2963,7 @@ export const portugalEconomicV2: POI[] = [
             },
             {
                   "name": "Praia da Ilha de Tavira",
-                  "text": "O plajă populară pe insula Tavira.",
+                  "text": "Plajă lungă cu nisip pe insula Tavira, accesibilă cu feribotul din Tavira.",
                   "category": "recreational",
                   "coords": [
                         -7.621066,
@@ -2972,7 +2972,7 @@ export const portugalEconomicV2: POI[] = [
             },
             {
                   "name": "Praia Tavira-Ria",
-                  "text": "O zonă de plajă situată de-a lungul Ria Formosa în Tavira.",
+                  "text": "Plajă calmă pe laguna Ria Formosa în Tavira, apă puțin adâncă ideală pentru copii.",
                   "category": "recreational",
                   "coords": [
                         -7.623792,
@@ -2981,7 +2981,7 @@ export const portugalEconomicV2: POI[] = [
             },
             {
                   "name": "Praia de Cabanas",
-                  "text": "O plajă situată în zona Cabanas, lângă Tavira.",
+                  "text": "O plajă lungă nisipoasă pe insula barieră Cabanas, în fața Tavirei, cu ape calme și vedere la Ria Formosa.",
                   "category": "recreational",
                   "coords": [
                         -7.590938,
@@ -3001,7 +3001,7 @@ export const portugalEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Praia do Rato",
-                  "text": "A beach located near the Tavira Salt Pans.",
+                  "text": "Small beach near the salt pans of Tavira, quiet and secluded.",
                   "category": "recreational",
                   "coords": [
                         -7.62473,
@@ -3019,7 +3019,7 @@ export const portugalEconomicV2: POI[] = [
             },
             {
                   "name": "Praia da Ilha de Tavira",
-                  "text": "A popular beach on Tavira Island.",
+                  "text": "Long sandy beach on Tavira Island, accessible by ferry from Tavira.",
                   "category": "recreational",
                   "coords": [
                         -7.621066,
@@ -3028,7 +3028,7 @@ export const portugalEconomicV2: POI[] = [
             },
             {
                   "name": "Praia Tavira-Ria",
-                  "text": "A beach area situated along the Ria Formosa in Tavira.",
+                  "text": "Calm beach on the Ria Formosa lagoon in Tavira, shallow water ideal for children.",
                   "category": "recreational",
                   "coords": [
                         -7.623792,
@@ -3037,7 +3037,7 @@ export const portugalEconomicV2: POI[] = [
             },
             {
                   "name": "Praia de Cabanas",
-                  "text": "A beach located in the Cabanas area near Tavira.",
+                  "text": "A long sandy beach on the barrier island of Cabanas off Tavira, with calm waters and views of the Ria Formosa.",
                   "category": "recreational",
                   "coords": [
                         -7.590938,

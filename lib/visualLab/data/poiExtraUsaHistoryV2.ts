@@ -34,7 +34,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Cliff Palace",
-                  "text": "Der Cliff Palace im Mesa-Verde-Nationalpark ist die größte Klippenwohnung des Parks.",
+                  "text": "Prähistorische Klippenwohnung der Ancestral Puebloans im Mesa-Verde-Nationalpark.",
                   "category": "landmark",
                   "coords": [
                         -108.473001,
@@ -61,7 +61,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Badger House Community Site",
-                  "text": "Die Badger House Community Site ist eine archäologische Stätte im Mesa-Verde-Nationalpark.",
+                  "text": "Ancestral-Puebloan-Siedlung mit Grubenhäusern im Verde National Park.",
                   "category": "historical",
                   "coords": [
                         -108.532991,
@@ -70,7 +70,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Spring House",
-                  "text": "Das Spring House im Mesa-Verde-Nationalpark ist eine Ruine einer antiken Struktur.",
+                  "text": "Puebloan-Struktur an einer Quelle im Verde National Park.",
                   "category": "historical",
                   "coords": [
                         -108.523005,
@@ -97,7 +97,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Oak Tree House",
-                  "text": "Das Oak Tree House ist eine archäologische Stätte im Mesa-Verde-Nationalpark.",
+                  "text": "Klippenbehausung nahe einer Eiche im Verde National Park.",
                   "category": "historical",
                   "coords": [
                         -108.477322,
@@ -106,7 +106,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mummy House",
-                  "text": "Das Mummy House im Mesa-Verde-Nationalpark ist eine Ruine einer prähistorischen Struktur.",
+                  "text": "Puebloan-Wohnstätte, in der Mumien gefunden wurden, im Verde National Park.",
                   "category": "historical",
                   "coords": [
                         -108.474909,
@@ -315,7 +315,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Cliff Palace",
-                  "text": "A Mesa Verde-i Cliff Palace a park legnagyobb sziklalakása.",
+                  "text": "Ősi pueblos sziklalakás a Mesa Verde Nemzeti Parkban.",
                   "category": "landmark",
                   "coords": [
                         -108.473001,
@@ -342,7 +342,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Badger House Community Site",
-                  "text": "A Badger House Community Site egy régészeti lelőhely a Mesa Verde Nemzeti Parkban.",
+                  "text": "Ancestral Puebloan település földkunyhókkal a Verde Nemzeti Parkban.",
                   "category": "historical",
                   "coords": [
                         -108.532991,
@@ -351,7 +351,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Spring House",
-                  "text": "A Mesa Verde-i Spring House egy ősi építmény romja.",
+                  "text": "Puebloan építmény egy forrásnál a Verde Nemzeti Parkban.",
                   "category": "historical",
                   "coords": [
                         -108.523005,
@@ -378,7 +378,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Oak Tree House",
-                  "text": "Az Oak Tree House egy régészeti lelőhely a Mesa Verde Nemzeti Parkban.",
+                  "text": "Sziklalakás egy tölgyfa közelében a Verde Nemzeti Parkban.",
                   "category": "historical",
                   "coords": [
                         -108.477322,
@@ -387,7 +387,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mummy House",
-                  "text": "A Mesa Verde-i Mummy House egy őskori építmény romja.",
+                  "text": "Puebloan lakóhely, ahol múmiákat találtak, a Verde Nemzeti Parkban.",
                   "category": "historical",
                   "coords": [
                         -108.474909,
@@ -596,7 +596,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Cliff Palace",
-                  "text": "Cliff Palace din Parcul Național Mesa Verde este cea mai mare locuință din stâncă din parc.",
+                  "text": "Locuință preistorică pe stâncă a poporului Ancestral Pueblo din Parcul Național Mesa Verde.",
                   "category": "landmark",
                   "coords": [
                         -108.473001,
@@ -623,7 +623,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Badger House Community Site",
-                  "text": "Situl Badger House Community este un sit arheologic în Parcul Național Mesa Verde.",
+                  "text": "Așezare Puebloană străveche cu case în groapă în Parcul Național Verde.",
                   "category": "historical",
                   "coords": [
                         -108.532991,
@@ -632,7 +632,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Spring House",
-                  "text": "Casa Spring din Parcul Național Mesa Verde este o ruină a unei structuri antice.",
+                  "text": "Structură Puebloană lângă un izvor în Parcul Național Verde.",
                   "category": "historical",
                   "coords": [
                         -108.523005,
@@ -659,7 +659,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Oak Tree House",
-                  "text": "Casa Oak Tree este un sit arheologic în Parcul Național Mesa Verde.",
+                  "text": "Locuință în stâncă lângă un stejar în Parcul Național Verde.",
                   "category": "historical",
                   "coords": [
                         -108.477322,
@@ -668,7 +668,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mummy House",
-                  "text": "Casa Mumie din Parcul Național Mesa Verde este o ruină a unei structuri preistorice.",
+                  "text": "Locuință Puebloană unde s-au găsit mumii în Parcul Național Verde.",
                   "category": "historical",
                   "coords": [
                         -108.474909,
@@ -877,7 +877,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Cliff Palace",
-                  "text": "Cliff Palace at Mesa Verde is the largest cliff dwelling in the park.",
+                  "text": "Ancient Ancestral Puebloan cliff dwelling in Mesa Verde National Park.",
                   "category": "landmark",
                   "coords": [
                         -108.473001,
@@ -904,7 +904,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Badger House Community Site",
-                  "text": "Badger House Community Site is an archaeological site at Mesa Verde.",
+                  "text": "Ancestral Puebloan community site with pit houses in Verde National Park.",
                   "category": "historical",
                   "coords": [
                         -108.532991,
@@ -913,7 +913,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Spring House",
-                  "text": "Spring House at Mesa Verde is a ruin of an ancient structure.",
+                  "text": "Puebloan structure at a spring in Verde National Park.",
                   "category": "historical",
                   "coords": [
                         -108.523005,
@@ -940,7 +940,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Oak Tree House",
-                  "text": "Oak Tree House is an archaeological site at Mesa Verde.",
+                  "text": "Cliff dwelling near an oak tree in Verde National Park.",
                   "category": "historical",
                   "coords": [
                         -108.477322,
@@ -949,7 +949,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mummy House",
-                  "text": "Mummy House at Mesa Verde is a ruin of a prehistoric structure.",
+                  "text": "Puebloan dwelling where mummies were found in Verde National Park.",
                   "category": "historical",
                   "coords": [
                         -108.474909,
@@ -1180,7 +1180,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Mound 94",
-                  "text": "Hügel an der archäologischen Stätte Cahokia Mounds.",
+                  "text": "Einer der plattformartigen Hügel der Cahokia-Kultur in den Mounds.",
                   "category": "historical",
                   "coords": [
                         -90.065138,
@@ -1189,7 +1189,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Stockade",
-                  "text": "Rekonstruierte Palisade an der archäologischen Stätte Cahokia Mounds.",
+                  "text": "Rekonstruierte Palisade der Cahokia-Siedlung in den Mounds.",
                   "category": "historical",
                   "coords": [
                         -90.062634,
@@ -1198,7 +1198,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mound 59",
-                  "text": "Hügel an der archäologischen Stätte Cahokia Mounds.",
+                  "text": "Weiterer Plattformhügel der Cahokia-Kultur (Mound 59) in den Mounds.",
                   "category": "historical",
                   "coords": [
                         -90.064484,
@@ -1207,7 +1207,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mound 60",
-                  "text": "Hügel an der archäologischen Stätte Cahokia Mounds.",
+                  "text": "Plattformhügel Mound 60 der Cahokia-Kultur in den Mounds.",
                   "category": "historical",
                   "coords": [
                         -90.063155,
@@ -1216,7 +1216,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mound 55",
-                  "text": "Hügel an der archäologischen Stätte Cahokia Mounds.",
+                  "text": "Hügel Mound 55 der Cahokia-Kultur in den Mounds.",
                   "category": "historical",
                   "coords": [
                         -90.059832,
@@ -1225,7 +1225,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mound 50",
-                  "text": "Hügel an der archäologischen Stätte Cahokia Mounds.",
+                  "text": "Hügel Mound 50 der Cahokia-Kultur in den Mounds.",
                   "category": "historical",
                   "coords": [
                         -90.059948,
@@ -1243,7 +1243,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mound 76",
-                  "text": "Hügel an der archäologischen Stätte Cahokia Mounds.",
+                  "text": "Hügel Mound 76 der Cahokia-Kultur in den Mounds.",
                   "category": "historical",
                   "coords": [
                         -90.068286,
@@ -1252,7 +1252,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mound 42",
-                  "text": "Hügel an der archäologischen Stätte Cahokia Mounds.",
+                  "text": "Hügel Mound 42 der Cahokia-Kultur in den Mounds.",
                   "category": "historical",
                   "coords": [
                         -90.068838,
@@ -1261,7 +1261,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mound 44",
-                  "text": "Hügel an der archäologischen Stätte Cahokia Mounds.",
+                  "text": "Hügel Mound 44 der Cahokia-Kultur in den Mounds.",
                   "category": "historical",
                   "coords": [
                         -90.073661,
@@ -1270,7 +1270,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mound 51",
-                  "text": "Hügel an der archäologischen Stätte Cahokia Mounds.",
+                  "text": "Hügel Mound 51 der Cahokia-Kultur in den Mounds.",
                   "category": "historical",
                   "coords": [
                         -90.07253,
@@ -1387,7 +1387,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Cahokia Mounds Interpretive Center",
-                  "text": "Das Cahokia Mounds Interpretive Center ist ein Museum in den Cahokia Mounds mit Ausstellungen zur Geschichte des Ortes.",
+                  "text": "Besucherzentrum mit Ausstellungen zur Mississippi-Kultur in den Mounds.",
                   "category": "museum",
                   "coords": [
                         -90.059249,
@@ -1398,7 +1398,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Mound 94",
-                  "text": "Halom a Cahokia Mounds régészeti lelőhelyen.",
+                  "text": "Az egyik Cahokia-kultúrához tartozó platformhalom a Mounds területén.",
                   "category": "historical",
                   "coords": [
                         -90.065138,
@@ -1407,7 +1407,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Stockade",
-                  "text": "Rekonstruált palánk a Cahokia Mounds régészeti lelőhelyen.",
+                  "text": "A Cahokia település rekonstruált palánkja a Mounds területén.",
                   "category": "historical",
                   "coords": [
                         -90.062634,
@@ -1416,7 +1416,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mound 59",
-                  "text": "Halom a Cahokia Mounds régészeti lelőhelyen.",
+                  "text": "Újabb Cahokia-kultúrához tartozó platformhalom (59-es halom) a Mounds területén.",
                   "category": "historical",
                   "coords": [
                         -90.064484,
@@ -1425,7 +1425,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mound 60",
-                  "text": "Halom a Cahokia Mounds régészeti lelőhelyen.",
+                  "text": "60-as platformhalom a Cahokia-kultúrában a Mounds területén.",
                   "category": "historical",
                   "coords": [
                         -90.063155,
@@ -1434,7 +1434,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mound 55",
-                  "text": "Halom a Cahokia Mounds régészeti lelőhelyen.",
+                  "text": "55-ös halom a Cahokia-kultúrában a Mounds területén.",
                   "category": "historical",
                   "coords": [
                         -90.059832,
@@ -1443,7 +1443,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mound 50",
-                  "text": "Halom a Cahokia Mounds régészeti lelőhelyen.",
+                  "text": "50-es halom a Cahokia-kultúrában a Mounds területén.",
                   "category": "historical",
                   "coords": [
                         -90.059948,
@@ -1461,7 +1461,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mound 76",
-                  "text": "Halom a Cahokia Mounds régészeti lelőhelyen.",
+                  "text": "76-os halom a Cahokia-kultúrában a Mounds területén.",
                   "category": "historical",
                   "coords": [
                         -90.068286,
@@ -1470,7 +1470,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mound 42",
-                  "text": "Halom a Cahokia Mounds régészeti lelőhelyen.",
+                  "text": "42-es halom a Cahokia-kultúrában a Mounds területén.",
                   "category": "historical",
                   "coords": [
                         -90.068838,
@@ -1479,7 +1479,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mound 44",
-                  "text": "Halom a Cahokia Mounds régészeti lelőhelyen.",
+                  "text": "44-es halom a Cahokia-kultúrában a Mounds területén.",
                   "category": "historical",
                   "coords": [
                         -90.073661,
@@ -1488,7 +1488,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mound 51",
-                  "text": "Halom a Cahokia Mounds régészeti lelőhelyen.",
+                  "text": "51-es halom a Cahokia-kultúrában a Mounds területén.",
                   "category": "historical",
                   "coords": [
                         -90.07253,
@@ -1605,7 +1605,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Cahokia Mounds Interpretive Center",
-                  "text": "A Cahokia Mounds Interpretive Center egy múzeum a Cahokia Moundsban, amely a helyszín történetének kiállításait mutatja be.",
+                  "text": "Látogatóközpont kiállításokkal a Mississippi-kultúráról a Mounds területén.",
                   "category": "museum",
                   "coords": [
                         -90.059249,
@@ -1616,7 +1616,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Mound 94",
-                  "text": "Movilă la situl arheologic Cahokia Mounds.",
+                  "text": "Unul dintre movilele platformă ale culturii Cahokia în zona Mounds.",
                   "category": "historical",
                   "coords": [
                         -90.065138,
@@ -1625,7 +1625,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Stockade",
-                  "text": "Palisadă reconstruită la situl arheologic Cahokia Mounds.",
+                  "text": "Palisadă reconstruită a așezării Cahokia în zona Mounds.",
                   "category": "historical",
                   "coords": [
                         -90.062634,
@@ -1634,7 +1634,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mound 59",
-                  "text": "Movilă la situl arheologic Cahokia Mounds.",
+                  "text": "Încă o movilă platformă a culturii Cahokia (Movila 59) în zona Mounds.",
                   "category": "historical",
                   "coords": [
                         -90.064484,
@@ -1643,7 +1643,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mound 60",
-                  "text": "Movilă la situl arheologic Cahokia Mounds.",
+                  "text": "Movila 60, platformă a culturii Cahokia, în zona Mounds.",
                   "category": "historical",
                   "coords": [
                         -90.063155,
@@ -1652,7 +1652,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mound 55",
-                  "text": "Movilă la situl arheologic Cahokia Mounds.",
+                  "text": "Movila 55 a culturii Cahokia în zona Mounds.",
                   "category": "historical",
                   "coords": [
                         -90.059832,
@@ -1661,7 +1661,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mound 50",
-                  "text": "Movilă la situl arheologic Cahokia Mounds.",
+                  "text": "Movila 50 a culturii Cahokia în zona Mounds.",
                   "category": "historical",
                   "coords": [
                         -90.059948,
@@ -1679,7 +1679,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mound 76",
-                  "text": "Movilă la situl arheologic Cahokia Mounds.",
+                  "text": "Movila 76 a culturii Cahokia în zona Mounds.",
                   "category": "historical",
                   "coords": [
                         -90.068286,
@@ -1688,7 +1688,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mound 42",
-                  "text": "Movilă la situl arheologic Cahokia Mounds.",
+                  "text": "Movila 42 a culturii Cahokia în zona Mounds.",
                   "category": "historical",
                   "coords": [
                         -90.068838,
@@ -1697,7 +1697,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mound 44",
-                  "text": "Movilă la situl arheologic Cahokia Mounds.",
+                  "text": "Movila 44 a culturii Cahokia în zona Mounds.",
                   "category": "historical",
                   "coords": [
                         -90.073661,
@@ -1706,7 +1706,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mound 51",
-                  "text": "Movilă la situl arheologic Cahokia Mounds.",
+                  "text": "Movila 51 a culturii Cahokia în zona Mounds.",
                   "category": "historical",
                   "coords": [
                         -90.07253,
@@ -1823,7 +1823,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Cahokia Mounds Interpretive Center",
-                  "text": "Centrul de interpretare Cahokia Mounds (Cahokia Mounds Interpretive Center) este un muzeu care oferă expoziții despre istoria sitului.",
+                  "text": "Centru de interpretare cu expoziții despre cultura Mississippi în zona Mounds.",
                   "category": "museum",
                   "coords": [
                         -90.059249,
@@ -1834,7 +1834,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Mound 94",
-                  "text": "Mound at the Cahokia Mounds archaeological site.",
+                  "text": "One of the platform mounds of the Cahokia culture in the Mounds area.",
                   "category": "historical",
                   "coords": [
                         -90.065138,
@@ -1843,7 +1843,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Stockade",
-                  "text": "Reconstructed stockade at the Cahokia Mounds site.",
+                  "text": "Reconstructed palisade of the Cahokia settlement in the Mounds area.",
                   "category": "historical",
                   "coords": [
                         -90.062634,
@@ -1852,7 +1852,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mound 59",
-                  "text": "Mound at the Cahokia Mounds archaeological site.",
+                  "text": "Another platform mound of the Cahokia culture (Mound 59) in the Mounds area.",
                   "category": "historical",
                   "coords": [
                         -90.064484,
@@ -1861,7 +1861,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mound 60",
-                  "text": "Mound at the Cahokia Mounds archaeological site.",
+                  "text": "Platform mound Mound 60 of the Cahokia culture in the Mounds area.",
                   "category": "historical",
                   "coords": [
                         -90.063155,
@@ -1870,7 +1870,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mound 55",
-                  "text": "Mound at the Cahokia Mounds archaeological site.",
+                  "text": "Mound 55 of the Cahokia culture in the Mounds area.",
                   "category": "historical",
                   "coords": [
                         -90.059832,
@@ -1879,7 +1879,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mound 50",
-                  "text": "Mound at the Cahokia Mounds archaeological site.",
+                  "text": "Mound 50 of the Cahokia culture in the Mounds area.",
                   "category": "historical",
                   "coords": [
                         -90.059948,
@@ -1897,7 +1897,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mound 76",
-                  "text": "Mound at the Cahokia Mounds archaeological site.",
+                  "text": "Mound 76 of the Cahokia culture in the Mounds area.",
                   "category": "historical",
                   "coords": [
                         -90.068286,
@@ -1906,7 +1906,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mound 42",
-                  "text": "Mound at the Cahokia Mounds archaeological site.",
+                  "text": "Mound 42 of the Cahokia culture in the Mounds area.",
                   "category": "historical",
                   "coords": [
                         -90.068838,
@@ -1915,7 +1915,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mound 44",
-                  "text": "Mound at the Cahokia Mounds archaeological site.",
+                  "text": "Mound 44 of the Cahokia culture in the Mounds area.",
                   "category": "historical",
                   "coords": [
                         -90.073661,
@@ -1924,7 +1924,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mound 51",
-                  "text": "Mound at the Cahokia Mounds archaeological site.",
+                  "text": "Mound 51 of the Cahokia culture in the Mounds area.",
                   "category": "historical",
                   "coords": [
                         -90.07253,
@@ -2041,7 +2041,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Cahokia Mounds Interpretive Center",
-                  "text": "Cahokia Mounds Interpretive Center is a museum in Cahokia Mounds providing exhibits about the site's history.",
+                  "text": "Interpretive center with exhibits on the Mississippian culture in the Mounds area.",
                   "category": "museum",
                   "coords": [
                         -90.059249,
@@ -2119,7 +2119,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Governor Harvey House",
-                  "text": "Das Governor Harvey House ist eine archäologische Stätte in Jamestown.",
+                  "text": "Historisches Wohnhaus eines Territorialgouverneurs in der Siedlung.",
                   "category": "historical",
                   "coords": [
                         -76.776658,
@@ -2128,7 +2128,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pierce House",
-                  "text": "Das Pierce House ist eine archäologische Stätte in Jamestown.",
+                  "text": "Historisches Wohnhaus aus der Gründungszeit der Siedlung.",
                   "category": "historical",
                   "coords": [
                         -76.774155,
@@ -2137,7 +2137,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Jackson House",
-                  "text": "Das Jackson House ist eine archäologische Stätte in Jamestown.",
+                  "text": "Historisches Wohnhaus aus dem 19. Jahrhundert in der Siedlung.",
                   "category": "historical",
                   "coords": [
                         -76.774686,
@@ -2146,7 +2146,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Old Towne",
-                  "text": "Old Towne ist eine archäologische Stätte in Jamestown.",
+                  "text": "Historischer Ortskern mit originalen Gebäuden in der Siedlung.",
                   "category": "historical",
                   "coords": [
                         -76.77982,
@@ -2155,7 +2155,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Cobham Bay",
-                  "text": "Cobham Bay ist eine Bucht im Gebiet von Jamestown.",
+                  "text": "Bucht an der Küste der Siedlung.",
                   "category": "landmark",
                   "coords": [
                         -76.730514,
@@ -2164,7 +2164,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chestnut Bluffs",
-                  "text": "Chestnut Bluffs sind Klippen in der Region Jamestown.",
+                  "text": "Felsvorsprung mit Aussicht über die Siedlung.",
                   "category": "landmark",
                   "coords": [
                         -76.743847,
@@ -2173,7 +2173,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Barrett's Ferry Bridge",
-                  "text": "Die Barrett's Ferry Bridge ist eine historische Brücke über den James River nahe Jamestown.",
+                  "text": "Brücke an der Stelle einer ehemaligen Fährverbindung.",
                   "category": "landmark",
                   "coords": [
                         -76.876906,
@@ -2209,7 +2209,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Hog Island Wildlife Management Area",
-                  "text": "Das Hog Island Wildlife Management Area schützt natürliche Lebensräume nahe Jamestown.",
+                  "text": "Geschütztes Wildtierhabitat auf Hog Island.",
                   "category": "natural",
                   "coords": [
                         -76.681383,
@@ -2218,7 +2218,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Marble House & Workshop",
-                  "text": "Marble House & Workshop ist eine archäologische Stätte mit Überresten einer Marmorverarbeitungswerkstatt.",
+                  "text": "Historische Marmorwerkstatt mit Schauvorführungen in der Siedlung.",
                   "category": "historical",
                   "coords": [
                         -76.776371,
@@ -2227,7 +2227,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bland Warehouse",
-                  "text": "Bland Warehouse ist eine archäologische Stätte, die die Fundamente eines historischen Lagers bewahrt.",
+                  "text": "Historisches Lagerhaus aus dem 19. Jahrhundert in der Siedlung.",
                   "category": "historical",
                   "coords": [
                         -76.777658,
@@ -2236,7 +2236,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Brian E. Gregson Building",
-                  "text": "Das Brian E. Gregson Building ist ein Museum in Jamestown mit historischen Artefakten.",
+                  "text": "Das Brian E. Gregson Gebäude beherbergt ein Museum in Settlement.",
                   "category": "museum",
                   "coords": [
                         -76.878057,
@@ -2245,7 +2245,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pipsico Reservation",
-                  "text": "Das Pipsico Reservation ist ein Naturschutzgebiet nahe Jamestown zum Schutz der Tierwelt.",
+                  "text": "Das Pipsico Reservation ist ein Naturschutzgebiet in Settlement.",
                   "category": "natural",
                   "coords": [
                         -76.877859,
@@ -2281,7 +2281,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "James Fort",
-                  "text": "James Fort ist ein Nachbau des Forts von 1607 in Jamestown.",
+                  "text": "James Fort ist eine Festung in Settlement, die einst die Siedlung schützte.",
                   "category": "fortress",
                   "coords": [
                         -76.786302,
@@ -2290,7 +2290,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Jamestown Beach",
-                  "text": "Jamestown Beach ist ein sandiger Strand entlang des James River in Jamestown.",
+                  "text": "Jamestown Beach ist ein Sandstrand am Ufer von Settlement.",
                   "category": "recreational",
                   "coords": [
                         -76.789091,
@@ -2308,7 +2308,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chippokes Farm and Forestry Museum",
-                  "text": "Das Chippokes Farm and Forestry Museum ist ein Museum über Land- und Forstwirtschaft in der Region.",
+                  "text": "Das Chippokes Farm and Forestry Museum in Settlement zeigt land- und forstwirtschaftliches Erbe.",
                   "category": "museum",
                   "coords": [
                         -76.728386,
@@ -2337,7 +2337,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Governor Harvey House",
-                  "text": "A Governor Harvey House egy régészeti lelőhely Jamestownban.",
+                  "text": "Történelmi lakóház, egy területi kormányzó otthona a Settlementben.",
                   "category": "historical",
                   "coords": [
                         -76.776658,
@@ -2346,7 +2346,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pierce House",
-                  "text": "A Pierce House egy régészeti lelőhely Jamestownban.",
+                  "text": "Történelmi lakóház a település alapításának idejéből a Settlementben.",
                   "category": "historical",
                   "coords": [
                         -76.774155,
@@ -2355,7 +2355,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Jackson House",
-                  "text": "A Jackson House egy régészeti lelőhely Jamestownban.",
+                  "text": "Történelmi lakóház a 19. századból a Settlementben.",
                   "category": "historical",
                   "coords": [
                         -76.774686,
@@ -2364,7 +2364,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Old Towne",
-                  "text": "Az Old Towne egy régészeti lelőhely Jamestownban.",
+                  "text": "Történelmi településmag eredeti épületekkel a Settlementben.",
                   "category": "historical",
                   "coords": [
                         -76.77982,
@@ -2373,7 +2373,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Cobham Bay",
-                  "text": "A Cobham Bay egy öböl Jamestown környékén.",
+                  "text": "Öböl a település partvidékén.",
                   "category": "landmark",
                   "coords": [
                         -76.730514,
@@ -2382,7 +2382,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chestnut Bluffs",
-                  "text": "A Chestnut Bluffs sziklák a Jamestown régióban.",
+                  "text": "Sziklás magaslat, kilátással a településre.",
                   "category": "landmark",
                   "coords": [
                         -76.743847,
@@ -2391,7 +2391,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Barrett's Ferry Bridge",
-                  "text": "A Barrett's Ferry Bridge egy történelmi híd a James River felett Jamestown közelében.",
+                  "text": "Híd egy korábbi kompátkelő helyén.",
                   "category": "landmark",
                   "coords": [
                         -76.876906,
@@ -2427,7 +2427,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Hog Island Wildlife Management Area",
-                  "text": "A Hog Island Wildlife Management Area természetes élőhelyeket véd Jamestown közelében.",
+                  "text": "Védett vadon élő állatok élőhelye a Hog Island-en.",
                   "category": "natural",
                   "coords": [
                         -76.681383,
@@ -2436,7 +2436,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Marble House & Workshop",
-                  "text": "A Marble House & Workshop egy régészeti lelőhely, ahol egy márványfeldolgozó műhely maradványai találhatók.",
+                  "text": "Történelmi márvány műhely bemutatókkal a Settlementben.",
                   "category": "historical",
                   "coords": [
                         -76.776371,
@@ -2445,7 +2445,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bland Warehouse",
-                  "text": "A Bland Warehouse egy régészeti lelőhely, amely egy történelmi raktár alapjait őrzi.",
+                  "text": "Történelmi raktárépület a 19. századból a Settlementben.",
                   "category": "historical",
                   "coords": [
                         -76.777658,
@@ -2454,7 +2454,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Brian E. Gregson Building",
-                  "text": "A Brian E. Gregson Building egy múzeum Jamestownban, amely történelmi tárgyakat mutat be.",
+                  "text": "A Brian E. Gregson épületben múzeum található Settlementben.",
                   "category": "museum",
                   "coords": [
                         -76.878057,
@@ -2463,7 +2463,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pipsico Reservation",
-                  "text": "A Pipsico Reservation egy természetvédelmi terület Jamestown közelében, amely védi a vadvilágot.",
+                  "text": "A Pipsico Reservation természetvédelmi terület Settlementben.",
                   "category": "natural",
                   "coords": [
                         -76.877859,
@@ -2499,7 +2499,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "James Fort",
-                  "text": "A James Fort az 1607-es erőd rekonstrukciója Jamestownban.",
+                  "text": "A James Fort egy erőd Settlementben, amely egykor a települést védte.",
                   "category": "fortress",
                   "coords": [
                         -76.786302,
@@ -2508,7 +2508,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Jamestown Beach",
-                  "text": "A Jamestown Beach egy homokos strand a James River mentén Jamestownban.",
+                  "text": "A Jamestown Beach homokos strand Settlement partján.",
                   "category": "recreational",
                   "coords": [
                         -76.789091,
@@ -2526,7 +2526,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chippokes Farm and Forestry Museum",
-                  "text": "A Chippokes Farm and Forestry Museum a mezőgazdaságról és erdőgazdálkodásról szól a környéken.",
+                  "text": "A Chippokes Farm and Forestry Museum Settlementben a mezőgazdasági és erdészeti örökséget mutatja be.",
                   "category": "museum",
                   "coords": [
                         -76.728386,
@@ -2555,7 +2555,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Governor Harvey House",
-                  "text": "Guvernatorul Harvey House este un sit arheologic în Jamestown.",
+                  "text": "Casă istorică a unui guvernator teritorial în Settlement.",
                   "category": "historical",
                   "coords": [
                         -76.776658,
@@ -2564,7 +2564,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pierce House",
-                  "text": "Pierce House este un sit arheologic în Jamestown.",
+                  "text": "Casă istorică din perioada fondării așezării în Settlement.",
                   "category": "historical",
                   "coords": [
                         -76.774155,
@@ -2573,7 +2573,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Jackson House",
-                  "text": "Jackson House este un sit arheologic în Jamestown.",
+                  "text": "Casă istorică din secolul al XIX-lea în Settlement.",
                   "category": "historical",
                   "coords": [
                         -76.774686,
@@ -2582,7 +2582,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Old Towne",
-                  "text": "Old Towne este un sit arheologic în Jamestown.",
+                  "text": "Centru istoric al așezării cu clădiri originale în Settlement.",
                   "category": "historical",
                   "coords": [
                         -76.77982,
@@ -2591,7 +2591,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Cobham Bay",
-                  "text": "Cobham Bay este un golf în zona Jamestown.",
+                  "text": "Golf pe coasta așezării.",
                   "category": "landmark",
                   "coords": [
                         -76.730514,
@@ -2600,7 +2600,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chestnut Bluffs",
-                  "text": "Chestnut Bluffs sunt stânci în regiunea Jamestown.",
+                  "text": "Stânci cu priveliști asupra așezării.",
                   "category": "landmark",
                   "coords": [
                         -76.743847,
@@ -2609,7 +2609,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Barrett's Ferry Bridge",
-                  "text": "Podul Barrett's Ferry este un pod istoric peste râul James, lângă Jamestown.",
+                  "text": "Pod pe locul unui fost bac.",
                   "category": "landmark",
                   "coords": [
                         -76.876906,
@@ -2645,7 +2645,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Hog Island Wildlife Management Area",
-                  "text": "Hog Island Wildlife Management Area protejează habitate naturale lângă Jamestown.",
+                  "text": "Habitat protejat pentru fauna sălbatică pe Insula Hog.",
                   "category": "natural",
                   "coords": [
                         -76.681383,
@@ -2654,7 +2654,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Marble House & Workshop",
-                  "text": "Marble House & Workshop este un sit arheologic cu rămășițele unui atelier de prelucrare a marmurei.",
+                  "text": "Atelier istoric de marmură cu demonstrații în Settlement.",
                   "category": "historical",
                   "coords": [
                         -76.776371,
@@ -2663,7 +2663,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bland Warehouse",
-                  "text": "Bland Warehouse este un sit arheologic care păstrează fundațiile unui depozit istoric.",
+                  "text": "Depozit istoric din secolul al XIX-lea în Settlement.",
                   "category": "historical",
                   "coords": [
                         -76.777658,
@@ -2672,7 +2672,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Brian E. Gregson Building",
-                  "text": "Brian E. Gregson Building este un muzeu din Jamestown care expune artefacte istorice.",
+                  "text": "Clădirea Brian E. Gregson găzduiește un muzeu în Settlement.",
                   "category": "museum",
                   "coords": [
                         -76.878057,
@@ -2681,7 +2681,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pipsico Reservation",
-                  "text": "Pipsico Reservation este o rezervație naturală lângă Jamestown care protejează fauna.",
+                  "text": "Pipsico Reservation este o rezervație naturală în Settlement.",
                   "category": "natural",
                   "coords": [
                         -76.877859,
@@ -2717,7 +2717,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "James Fort",
-                  "text": "James Fort este o reconstrucție a fortului din 1607 la Jamestown.",
+                  "text": "James Fort este o fortăreață în Settlement care a protejat așezarea.",
                   "category": "fortress",
                   "coords": [
                         -76.786302,
@@ -2726,7 +2726,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Jamestown Beach",
-                  "text": "Jamestown Beach este o plajă nisipoasă de-a lungul râului James la Jamestown.",
+                  "text": "Jamestown Beach este o plajă nisipoasă pe malul localității Settlement.",
                   "category": "recreational",
                   "coords": [
                         -76.789091,
@@ -2744,7 +2744,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chippokes Farm and Forestry Museum",
-                  "text": "Muzeul Chippokes Farm and Forestry este un muzeu despre agricultură și silvicultură în zonă.",
+                  "text": "Muzeul Chippokes Farm and Forestry din Settlement prezintă patrimoniul agricol și forestier.",
                   "category": "museum",
                   "coords": [
                         -76.728386,
@@ -2773,7 +2773,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Governor Harvey House",
-                  "text": "Governor Harvey House is an archaeological site in Jamestown.",
+                  "text": "Historic home of a territorial governor in the Settlement.",
                   "category": "historical",
                   "coords": [
                         -76.776658,
@@ -2782,7 +2782,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pierce House",
-                  "text": "Pierce House is an archaeological site in Jamestown.",
+                  "text": "Historic residence from the founding period of the Settlement.",
                   "category": "historical",
                   "coords": [
                         -76.774155,
@@ -2791,7 +2791,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Jackson House",
-                  "text": "Jackson House is an archaeological site in Jamestown.",
+                  "text": "19th-century historic house in the Settlement.",
                   "category": "historical",
                   "coords": [
                         -76.774686,
@@ -2800,7 +2800,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Old Towne",
-                  "text": "Old Towne is an archaeological site in Jamestown.",
+                  "text": "Historic town center with original buildings in the Settlement.",
                   "category": "historical",
                   "coords": [
                         -76.77982,
@@ -2809,7 +2809,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Cobham Bay",
-                  "text": "Cobham Bay is a bay in the Jamestown area.",
+                  "text": "Bay on the coastline of Settlement.",
                   "category": "landmark",
                   "coords": [
                         -76.730514,
@@ -2818,7 +2818,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chestnut Bluffs",
-                  "text": "Chestnut Bluffs are cliffs in the Jamestown region.",
+                  "text": "Bluffs overlooking the Settlement area.",
                   "category": "landmark",
                   "coords": [
                         -76.743847,
@@ -2827,7 +2827,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Barrett's Ferry Bridge",
-                  "text": "Barrett's Ferry Bridge is a historic bridge spanning the James River near Jamestown.",
+                  "text": "Bridge on the site of a former ferry crossing.",
                   "category": "landmark",
                   "coords": [
                         -76.876906,
@@ -2863,7 +2863,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Hog Island Wildlife Management Area",
-                  "text": "Hog Island Wildlife Management Area protects natural habitats near Jamestown.",
+                  "text": "Protected wildlife habitat on Hog Island.",
                   "category": "natural",
                   "coords": [
                         -76.681383,
@@ -2872,7 +2872,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Marble House & Workshop",
-                  "text": "Marble House & Workshop is an archaeological site with remains of a marble-working establishment.",
+                  "text": "Historic marble workshop with demonstrations in the Settlement.",
                   "category": "historical",
                   "coords": [
                         -76.776371,
@@ -2881,7 +2881,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bland Warehouse",
-                  "text": "Bland Warehouse is an archaeological site preserving the foundations of a historic warehouse.",
+                  "text": "19th-century historic warehouse in the Settlement.",
                   "category": "historical",
                   "coords": [
                         -76.777658,
@@ -2890,7 +2890,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Brian E. Gregson Building",
-                  "text": "Brian E. Gregson Building is a museum at Jamestown displaying historical artifacts.",
+                  "text": "The Brian E. Gregson Building houses a museum in Settlement.",
                   "category": "museum",
                   "coords": [
                         -76.878057,
@@ -2899,7 +2899,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pipsico Reservation",
-                  "text": "Pipsico Reservation is a nature reserve near Jamestown protecting wildlife.",
+                  "text": "Pipsico Reservation is a nature reserve in Settlement.",
                   "category": "natural",
                   "coords": [
                         -76.877859,
@@ -2935,7 +2935,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "James Fort",
-                  "text": "James Fort is a reconstruction of the 1607 fort at Jamestown.",
+                  "text": "James Fort is a fortress in Settlement that once protected the town.",
                   "category": "fortress",
                   "coords": [
                         -76.786302,
@@ -2944,7 +2944,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Jamestown Beach",
-                  "text": "Jamestown Beach is a sandy beach along the James River at Jamestown.",
+                  "text": "Jamestown Beach is a sandy beach along the Settlement shoreline.",
                   "category": "recreational",
                   "coords": [
                         -76.789091,
@@ -2962,7 +2962,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chippokes Farm and Forestry Museum",
-                  "text": "Chippokes Farm and Forestry Museum is a museum about farming and forestry in the area.",
+                  "text": "Chippokes Farm and Forestry Museum in Settlement focuses on agricultural and forestry heritage.",
                   "category": "museum",
                   "coords": [
                         -76.728386,
@@ -3031,7 +3031,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "First Parish Church",
-                  "text": "Eine historische Kirche in Plymouth, die als die Kirche der Pilger bekannt ist.",
+                  "text": "Unitarisch-universalistische Kirche am Plymouth Rock, gegründet 1620.",
                   "category": "religious",
                   "coords": [
                         -70.664974,
@@ -3103,7 +3103,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "The Plimoth Grist Mill",
-                  "text": "Die Plimoth Grist Mill ist eine funktionsfähige historische Getreidemühle am Fluss in Plymouth.",
+                  "text": "Rekonstruierte Getreidemühle aus dem 17. Jahrhundert mit funktionierendem Wasserrad.",
                   "category": "museum",
                   "coords": [
                         -70.665216,
@@ -3121,7 +3121,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Warren Cove",
-                  "text": "Warren Cove ist eine Bucht in Plymouth mit einer natürlichen Küstenlinie.",
+                  "text": "Kleine Bucht an der Küste von Rock.",
                   "category": "landmark",
                   "coords": [
                         -70.613187,
@@ -3130,7 +3130,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Plymouth Bay",
-                  "text": "Plymouth Bay ist eine große Bucht an der Küste von Massachusetts, die an Plymouth grenzt.",
+                  "text": "Bucht an der Atlantikküste von Rock.",
                   "category": "landmark",
                   "coords": [
                         -70.599478,
@@ -3139,7 +3139,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Duxbury Bay",
-                  "text": "Duxbury Bay ist eine Bucht, die an der Küste von Duxbury und Plymouth liegt.",
+                  "text": "Bucht nahe Duxbury in Rock.",
                   "category": "landmark",
                   "coords": [
                         -70.657813,
@@ -3148,7 +3148,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Plymouth Harbor",
-                  "text": "Plymouth Harbor ist der natürliche Hafen von Plymouth, bekannt für seine historische Bedeutung.",
+                  "text": "Historischer Hafen in Rock.",
                   "category": "landmark",
                   "coords": [
                         -70.666147,
@@ -3247,7 +3247,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Harlow Old Fort House",
-                  "text": "Das Harlow Old Fort House in Plymouth ist ein historisches Haus, das als Festung diente.",
+                  "text": "Das Harlow Old Fort House ist ein historisches Hausmuseum in Rock.",
                   "category": "museum",
                   "coords": [
                         -70.657125,
@@ -3256,7 +3256,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Myles Standish Monument",
-                  "text": "Das Myles Standish Monument in Plymouth ist ein hoher Aussichtsturm zu Ehren von Myles Standish.",
+                  "text": "Granitdenkmal von 1898 zu Ehren des Pilgerkapitäns Myles Standish.",
                   "category": "historical",
                   "coords": [
                         -70.682164,
@@ -3283,7 +3283,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Duxbury Performing Arts Center",
-                  "text": "Das Duxbury Performing Arts Center in Plymouth ist ein Veranstaltungsort für Musik und Theater.",
+                  "text": "Das Duxbury Performing Arts Center ist ein Veranstaltungsort für Konzerte und Theater in Rock.",
                   "category": "cultural",
                   "coords": [
                         -70.680243,
@@ -3303,7 +3303,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "First Parish Church",
-                  "text": "Egy történelmi templom Plymouthban, amely a zarándokok templomaként ismert.",
+                  "text": "Unitárius univerzalista templom a Plymouth Rocknál, alapítva 1620-ban.",
                   "category": "religious",
                   "coords": [
                         -70.664974,
@@ -3375,7 +3375,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "The Plimoth Grist Mill",
-                  "text": "A Plimoth Grist Mill egy működő történelmi gabonamalom Plymouthban, a folyó partján.",
+                  "text": "17. századi rekonstruált gabonamalom működő vízkerékkel.",
                   "category": "museum",
                   "coords": [
                         -70.665216,
@@ -3393,7 +3393,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Warren Cove",
-                  "text": "A Warren Cove egy öböl Plymouthban, természetes partvonallal.",
+                  "text": "Kis öböl Rock partjainál.",
                   "category": "landmark",
                   "coords": [
                         -70.613187,
@@ -3402,7 +3402,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Plymouth Bay",
-                  "text": "A Plymouth Bay egy nagy öböl Massachusetts partjainál, amely Plymouth mellett található.",
+                  "text": "Öböl az Atlanti-óceán partján, Rocknál.",
                   "category": "landmark",
                   "coords": [
                         -70.599478,
@@ -3411,7 +3411,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Duxbury Bay",
-                  "text": "A Duxbury Bay egy öböl, amely Duxbury és Plymouth partjainál található.",
+                  "text": "Öböl Duxbury közelében, Rockban.",
                   "category": "landmark",
                   "coords": [
                         -70.657813,
@@ -3420,7 +3420,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Plymouth Harbor",
-                  "text": "A Plymouth Harbor Plymouth természetes kikötője, amely történelmi jelentőségéről ismert.",
+                  "text": "Történelmi kikötő Rockban.",
                   "category": "landmark",
                   "coords": [
                         -70.666147,
@@ -3519,7 +3519,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Harlow Old Fort House",
-                  "text": "A Harlow Old Fort House Plymouthban egy történelmi ház, amely erődként szolgált.",
+                  "text": "A Harlow Old Fort House egy történelmi háztörténeti múzeum Rockban.",
                   "category": "museum",
                   "coords": [
                         -70.657125,
@@ -3528,7 +3528,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Myles Standish Monument",
-                  "text": "A Myles Standish-emlékmű Plymouthban egy magas kilátótorony Myles Standish tiszteletére.",
+                  "text": "1898-as gránit emlékmű, amely a zarándok kapitány, Myles Standish tiszteletére készült.",
                   "category": "historical",
                   "coords": [
                         -70.682164,
@@ -3555,7 +3555,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Duxbury Performing Arts Center",
-                  "text": "A Duxbury Performing Arts Center Plymouthban egy zenei és színházi előadásoknak otthont adó helyszín.",
+                  "text": "A Duxbury Performing Arts Center koncertek és színházi előadások helyszíne Rockban.",
                   "category": "cultural",
                   "coords": [
                         -70.680243,
@@ -3575,7 +3575,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "First Parish Church",
-                  "text": "O biserică istorică din Plymouth, cunoscută ca biserica pelerinilor.",
+                  "text": "Biserică unitariană universalistă lângă Plymouth Rock, fondată în 1620.",
                   "category": "religious",
                   "coords": [
                         -70.664974,
@@ -3647,7 +3647,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "The Plimoth Grist Mill",
-                  "text": "Plimoth Grist Mill este o moară de cereale istorică funcțională, situată pe un râu în Plymouth.",
+                  "text": "Moară de cereale reconstruită din secolul al XVII-lea cu roată hidraulică funcțională.",
                   "category": "museum",
                   "coords": [
                         -70.665216,
@@ -3665,7 +3665,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Warren Cove",
-                  "text": "Warren Cove este un golf din Plymouth, cu un litoral natural.",
+                  "text": "Golf mic pe coasta localității Rock.",
                   "category": "landmark",
                   "coords": [
                         -70.613187,
@@ -3674,7 +3674,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Plymouth Bay",
-                  "text": "Plymouth Bay este un golf mare pe coasta Massachusetts, care se învecinează cu Plymouth.",
+                  "text": "Golf pe coasta Atlanticului la Rock.",
                   "category": "landmark",
                   "coords": [
                         -70.599478,
@@ -3683,7 +3683,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Duxbury Bay",
-                  "text": "Duxbury Bay este un golf situat pe coasta Duxbury și Plymouth.",
+                  "text": "Golf lângă Duxbury în Rock.",
                   "category": "landmark",
                   "coords": [
                         -70.657813,
@@ -3692,7 +3692,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Plymouth Harbor",
-                  "text": "Plymouth Harbor este portul natural al orașului Plymouth, cunoscut pentru importanța sa istorică.",
+                  "text": "Port istoric în Rock.",
                   "category": "landmark",
                   "coords": [
                         -70.666147,
@@ -3791,7 +3791,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Harlow Old Fort House",
-                  "text": "Harlow Old Fort House din Plymouth este o casă istorică care a servit drept fortăreață.",
+                  "text": "Harlow Old Fort House este un muzeu istoric în Rock.",
                   "category": "museum",
                   "coords": [
                         -70.657125,
@@ -3800,7 +3800,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Myles Standish Monument",
-                  "text": "Monumentul Myles Standish din Plymouth este un turn de observație înalt în cinstea lui Myles Standish.",
+                  "text": "Monument de granit din 1898 în cinstea căpitanului pelerin Myles Standish.",
                   "category": "historical",
                   "coords": [
                         -70.682164,
@@ -3827,7 +3827,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Duxbury Performing Arts Center",
-                  "text": "Duxbury Performing Arts Center din Plymouth este un loc pentru spectacole de muzică și teatru.",
+                  "text": "Centrul de Arte Spectacolului Duxbury este un loc pentru concerte și teatru în Rock.",
                   "category": "cultural",
                   "coords": [
                         -70.680243,
@@ -3847,7 +3847,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "First Parish Church",
-                  "text": "A historic church in Plymouth, known as the church of the Pilgrims.",
+                  "text": "Unitarian Universalist church near Plymouth Rock, founded in 1620.",
                   "category": "religious",
                   "coords": [
                         -70.664974,
@@ -3919,7 +3919,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "The Plimoth Grist Mill",
-                  "text": "The Plimoth Grist Mill is a working historic grist mill located on a stream in Plymouth.",
+                  "text": "Reconstructed 17th-century grist mill with working waterwheel.",
                   "category": "museum",
                   "coords": [
                         -70.665216,
@@ -3937,7 +3937,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Warren Cove",
-                  "text": "Warren Cove is a bay in Plymouth with a natural shoreline.",
+                  "text": "Small cove on the coast of Rock.",
                   "category": "landmark",
                   "coords": [
                         -70.613187,
@@ -3946,7 +3946,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Plymouth Bay",
-                  "text": "Plymouth Bay is a large bay on the coast of Massachusetts, adjacent to Plymouth.",
+                  "text": "Bay on the Atlantic coast of Rock.",
                   "category": "landmark",
                   "coords": [
                         -70.599478,
@@ -3955,7 +3955,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Duxbury Bay",
-                  "text": "Duxbury Bay is a bay located along the shores of Duxbury and Plymouth.",
+                  "text": "Bay near Duxbury in Rock.",
                   "category": "landmark",
                   "coords": [
                         -70.657813,
@@ -3964,7 +3964,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Plymouth Harbor",
-                  "text": "Plymouth Harbor is the natural harbor of Plymouth, known for its historic significance.",
+                  "text": "Historic harbor in Rock.",
                   "category": "landmark",
                   "coords": [
                         -70.666147,
@@ -4063,7 +4063,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Harlow Old Fort House",
-                  "text": "Harlow Old Fort House in Plymouth is a historic house that served as a fort.",
+                  "text": "Harlow Old Fort House is a historic house museum in Rock.",
                   "category": "museum",
                   "coords": [
                         -70.657125,
@@ -4072,7 +4072,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Myles Standish Monument",
-                  "text": "The Myles Standish Monument in Plymouth is a tall observation tower honoring Myles Standish.",
+                  "text": "An 1898 granite monument honoring Pilgrim captain Myles Standish.",
                   "category": "historical",
                   "coords": [
                         -70.682164,
@@ -4099,7 +4099,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Duxbury Performing Arts Center",
-                  "text": "Duxbury Performing Arts Center in Plymouth is a venue for music and theatre performances.",
+                  "text": "Duxbury Performing Arts Center is a venue for concerts and plays in Rock.",
                   "category": "cultural",
                   "coords": [
                         -70.680243,
@@ -4204,7 +4204,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Muscarelle Museum of Art",
-                  "text": "Ein Kunstmuseum in colonial-williamsburg-history-v2 mit verschiedenen Ausstellungen.",
+                  "text": "Kunstmuseum auf dem Campus des College of William & Mary.",
                   "category": "museum",
                   "coords": [
                         -76.716087,
@@ -4222,7 +4222,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "First Baptist Church",
-                  "text": "Ein historischer Gottesdienstort in colonial-williamsburg-history-v2.",
+                  "text": "Historische First Baptist Church, im 18. Jahrhundert von afroamerikanischen Gläubigen gegründet.",
                   "category": "religious",
                   "coords": [
                         -76.710974,
@@ -4285,7 +4285,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "College Landing Park",
-                  "text": "College Landing Park ist ein Park in Colonial Williamsburg mit Erholungsflächen.",
+                  "text": "Park an einem historischen Anlegeplatz am James River.",
                   "category": "park",
                   "coords": [
                         -76.710428,
@@ -4294,7 +4294,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Baldwin Memorial Garden",
-                  "text": "Der Baldwin Memorial Garden ist ein Gedenkgarten in Colonial Williamsburg mit Blumenarrangements.",
+                  "text": "Gedenkgarten zu Ehren der Familie Baldwin.",
                   "category": "park",
                   "coords": [
                         -76.707722,
@@ -4312,7 +4312,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Veterans Park",
-                  "text": "Veterans Park ist ein Park in Colonial Williamsburg, der den Veteranen gewidmet ist.",
+                  "text": "Park mit Denkmälern zu Ehren lokaler Veteranen.",
                   "category": "park",
                   "coords": [
                         -76.760097,
@@ -4321,7 +4321,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Williamsburg Botanical Garden",
-                  "text": "Der Williamsburg Botanical Garden ist ein botanischer Garten mit heimischen Pflanzen und Themengärten.",
+                  "text": "Botanischer Garten mit einheimischen und exotischen Pflanzen.",
                   "category": "park",
                   "coords": [
                         -76.799136,
@@ -4375,7 +4375,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Historic Archaeology Site",
-                  "text": "Die Historic Archaeology Site in Colonial Williamsburg ist eine archäologische Stätte mit historischen Funden.",
+                  "text": "Die Historic Archaeology Site in Williamsburg ist eine aktive archäologische Ausgrabung.",
                   "category": "historical",
                   "coords": [
                         -76.639448,
@@ -4393,7 +4393,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Peter Scott House and Shop Archaeology Project",
-                  "text": "Das Peter Scott House and Shop Archaeology Project ist eine archäologische Ausgrabung eines historischen Hauses und Ladens.",
+                  "text": "Das Peter Scott House and Shop Archaeology Project untersucht das Haus und Geschäft von Peter Scott in Williamsburg.",
                   "category": "historical",
                   "coords": [
                         -76.702827,
@@ -4402,7 +4402,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Custis Square Archaeology Project",
-                  "text": "Das Custis Square Archaeology Project ist ein archäologisches Projekt auf dem Custis Square in Colonial Williamsburg.",
+                  "text": "Das Custis Square Archaeology Project erforscht archäologisch den Custis Square in Williamsburg.",
                   "category": "historical",
                   "coords": [
                         -76.702912,
@@ -4411,7 +4411,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Shenanigans Theatre",
-                  "text": "Das Shenanigans Theatre in Colonial Williamsburg ist ein Theater für komödiantische Aufführungen.",
+                  "text": "Das Shenanigans Theatre ist ein Live-Theater in Williamsburg.",
                   "category": "cultural",
                   "coords": [
                         -76.648912,
@@ -4420,7 +4420,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Governor's Palace Stage",
-                  "text": "Die Governor's Palace Stage ist eine Außenbühne am Gouverneurspalast in Colonial Williamsburg.",
+                  "text": "Die Governor's Palace Stage ist eine Freilichtbühne am Gouverneurspalast in Williamsburg.",
                   "category": "cultural",
                   "coords": [
                         -76.702389,
@@ -4429,7 +4429,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Charlton Stage",
-                  "text": "Die Charlton Stage ist eine Bühne in Colonial Williamsburg für Theaterproduktionen.",
+                  "text": "Die Charlton Stage ist eine Bühne im Theaterkomplex von Williamsburg.",
                   "category": "cultural",
                   "coords": [
                         -76.694211,
@@ -4465,7 +4465,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Globe Theatre",
-                  "text": "Das Globe Theatre in Colonial Williamsburg ist eine Nachbildung des Originals aus der Shakespeare-Zeit.",
+                  "text": "Das Globe Theatre in Williamsburg ist ein nach Shakespeares Globe benanntes Theater.",
                   "category": "cultural",
                   "coords": [
                         -76.64598,
@@ -4530,7 +4530,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Muscarelle Museum of Art",
-                  "text": "Egy művészeti múzeum colonial-williamsburg-history-v2-ben, amely különféle kiállításokat mutat be.",
+                  "text": "Művészeti múzeum a College of William & Mary egyetemi kampuszán.",
                   "category": "museum",
                   "coords": [
                         -76.716087,
@@ -4548,7 +4548,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "First Baptist Church",
-                  "text": "Egy történelmi istentiszteleti hely colonial-williamsburg-history-v2-ben.",
+                  "text": "Történelmi First Baptist Church, amelyet afroamerikai hívők alapítottak a 18. században.",
                   "category": "religious",
                   "coords": [
                         -76.710974,
@@ -4611,7 +4611,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "College Landing Park",
-                  "text": "A College Landing Park egy park Colonial Williamsburgban rekreációs terekkel.",
+                  "text": "Park egy történelmi folyami kikötőhelynél a James Riveren.",
                   "category": "park",
                   "coords": [
                         -76.710428,
@@ -4620,7 +4620,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Baldwin Memorial Garden",
-                  "text": "A Baldwin Memorial Garden egy emlékkert Colonial Williamsburgban virágdíszekkel.",
+                  "text": "Baldwin család emlékére létesített kert.",
                   "category": "park",
                   "coords": [
                         -76.707722,
@@ -4638,7 +4638,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Veterans Park",
-                  "text": "A Veterans Park egy park Colonial Williamsburgban, a veteránok tiszteletére.",
+                  "text": "Park emlékművekkel a helyi veteránok tiszteletére.",
                   "category": "park",
                   "coords": [
                         -76.760097,
@@ -4647,7 +4647,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Williamsburg Botanical Garden",
-                  "text": "A Williamsburg Botanical Garden egy botanikus kert őshonos növényekkel és tematikus kertekkel.",
+                  "text": "Botanikus kert őshonos és egzotikus növényekkel.",
                   "category": "park",
                   "coords": [
                         -76.799136,
@@ -4701,7 +4701,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Historic Archaeology Site",
-                  "text": "A Historic Archaeology Site Colonial Williamsburgban egy régészeti lelőhely történelmi leletekkel.",
+                  "text": "A Historic Archaeology Site Williamsburgban egy aktív régészeti feltárás.",
                   "category": "historical",
                   "coords": [
                         -76.639448,
@@ -4719,7 +4719,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Peter Scott House and Shop Archaeology Project",
-                  "text": "A Peter Scott House and Shop Archaeology Project egy történelmi ház és üzlet régészeti feltárása.",
+                  "text": "A Peter Scott House and Shop Archaeology Project Peter Scott házának és boltjának feltárása Williamsburgban.",
                   "category": "historical",
                   "coords": [
                         -76.702827,
@@ -4728,7 +4728,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Custis Square Archaeology Project",
-                  "text": "A Custis Square Archaeology Project egy régészeti projekt a Custis téren Colonial Williamsburgban.",
+                  "text": "A Custis Square Archaeology Project a Custis Square régészeti feltárása Williamsburgban.",
                   "category": "historical",
                   "coords": [
                         -76.702912,
@@ -4737,7 +4737,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Shenanigans Theatre",
-                  "text": "A Shenanigans Theatre Colonial Williamsburgban egy színház komikus előadások számára.",
+                  "text": "A Shenanigans Theatre egy élő színház Williamsburgban.",
                   "category": "cultural",
                   "coords": [
                         -76.648912,
@@ -4746,7 +4746,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Governor's Palace Stage",
-                  "text": "A Governor's Palace Stage egy szabadtéri színpad a Kormányzói Palotánál Colonial Williamsburgban.",
+                  "text": "A Governor's Palace Stage egy szabadtéri színpad a Kormányzói Palota mellett Williamsburgban.",
                   "category": "cultural",
                   "coords": [
                         -76.702389,
@@ -4755,7 +4755,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Charlton Stage",
-                  "text": "A Charlton Stage egy színpad Colonial Williamsburgban színházi előadások számára.",
+                  "text": "A Charlton Stage egy színpad a williamsburgi színházi komplexumban.",
                   "category": "cultural",
                   "coords": [
                         -76.694211,
@@ -4791,7 +4791,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Globe Theatre",
-                  "text": "A Globe Theatre Colonial Williamsburgban az eredeti Shakespeare-kori színház másolata.",
+                  "text": "A Globe Theatre Williamsburgban egy Shakespeare Globe-járól elnevezett színház.",
                   "category": "cultural",
                   "coords": [
                         -76.64598,
@@ -4856,7 +4856,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Muscarelle Museum of Art",
-                  "text": "Un muzeu de artă în colonial-williamsburg-history-v2 cu diverse expoziții.",
+                  "text": "Muzeu de artă pe campusul Colegiului William & Mary.",
                   "category": "museum",
                   "coords": [
                         -76.716087,
@@ -4874,7 +4874,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "First Baptist Church",
-                  "text": "Un loc de cult istoric în colonial-williamsburg-history-v2.",
+                  "text": "Biserica istorică First Baptist, fondată de credincioși afro-americani în secolul al XVIII-lea.",
                   "category": "religious",
                   "coords": [
                         -76.710974,
@@ -4937,7 +4937,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "College Landing Park",
-                  "text": "College Landing Park este un parc în Colonial Williamsburg cu spații de recreere.",
+                  "text": "Parcul la un loc istoric de debarcare pe râul James.",
                   "category": "park",
                   "coords": [
                         -76.710428,
@@ -4946,7 +4946,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Baldwin Memorial Garden",
-                  "text": "Grădina Memorială Baldwin este o grădină memorială în Colonial Williamsburg cu aranjamente florale.",
+                  "text": "Grădină memorială în onoarea familiei Baldwin.",
                   "category": "park",
                   "coords": [
                         -76.707722,
@@ -4964,7 +4964,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Veterans Park",
-                  "text": "Veterans Park este un parc în Colonial Williamsburg dedicat veteranilor.",
+                  "text": "Parcul cu monumente în onoarea veteranilor locali.",
                   "category": "park",
                   "coords": [
                         -76.760097,
@@ -4973,7 +4973,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Williamsburg Botanical Garden",
-                  "text": "Grădina Botanică Williamsburg este o grădină botanică cu plante native și grădini tematice.",
+                  "text": "Grădină botanică cu plante native și exotice.",
                   "category": "park",
                   "coords": [
                         -76.799136,
@@ -5027,7 +5027,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Historic Archaeology Site",
-                  "text": "Situl Arheologic Istoric din Colonial Williamsburg este un sit arheologic cu artefacte istorice.",
+                  "text": "Situl Arheologic Istoric din Williamsburg este o săpătură arheologică activă.",
                   "category": "historical",
                   "coords": [
                         -76.639448,
@@ -5045,7 +5045,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Peter Scott House and Shop Archaeology Project",
-                  "text": "Proiectul Arheologic Peter Scott House and Shop este o excavare arheologică a unei case și a unui magazin istorice.",
+                  "text": "Proiectul Arheologic Peter Scott House and Shop cercetează casa și magazinul lui Peter Scott din Williamsburg.",
                   "category": "historical",
                   "coords": [
                         -76.702827,
@@ -5054,7 +5054,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Custis Square Archaeology Project",
-                  "text": "Proiectul Arheologic Custis Square este un proiect arheologic în Piața Custis din Colonial Williamsburg.",
+                  "text": "Proiectul Arheologic Custis Square investighează arheologic Piața Custis din Williamsburg.",
                   "category": "historical",
                   "coords": [
                         -76.702912,
@@ -5063,7 +5063,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Shenanigans Theatre",
-                  "text": "Teatrul Shenanigans din Colonial Williamsburg este un teatru pentru spectacole comice.",
+                  "text": "Shenanigans Theatre este un teatru cu spectacole live în Williamsburg.",
                   "category": "cultural",
                   "coords": [
                         -76.648912,
@@ -5072,7 +5072,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Governor's Palace Stage",
-                  "text": "Scena Palatului Guvernatorului este o scenă în aer liber la Palatul Guvernatorului din Colonial Williamsburg.",
+                  "text": "Scena Palatului Guvernatorului este un teatru în aer liber lângă Palatul Guvernatorului din Williamsburg.",
                   "category": "cultural",
                   "coords": [
                         -76.702389,
@@ -5081,7 +5081,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Charlton Stage",
-                  "text": "Scena Charlton este o scenă în Colonial Williamsburg pentru producții teatrale.",
+                  "text": "Scena Charlton este o scenă în complexul teatral din Williamsburg.",
                   "category": "cultural",
                   "coords": [
                         -76.694211,
@@ -5117,7 +5117,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Globe Theatre",
-                  "text": "Teatrul Globe din Colonial Williamsburg este o replică a originalului din epoca shakespeariană.",
+                  "text": "Teatrul Globe din Williamsburg este un teatru numit după Globe-ul lui Shakespeare.",
                   "category": "cultural",
                   "coords": [
                         -76.64598,
@@ -5182,7 +5182,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Muscarelle Museum of Art",
-                  "text": "A museum of art in colonial-williamsburg-history-v2 featuring various exhibitions.",
+                  "text": "Art museum on the campus of the College of William & Mary.",
                   "category": "museum",
                   "coords": [
                         -76.716087,
@@ -5200,7 +5200,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "First Baptist Church",
-                  "text": "A historic place of worship in colonial-williamsburg-history-v2.",
+                  "text": "Historic First Baptist Church, founded by African American worshippers in the 18th century.",
                   "category": "religious",
                   "coords": [
                         -76.710974,
@@ -5263,7 +5263,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "College Landing Park",
-                  "text": "College Landing Park is a park in Colonial Williamsburg offering recreational spaces.",
+                  "text": "Park at a historic river landing on the James River.",
                   "category": "park",
                   "coords": [
                         -76.710428,
@@ -5272,7 +5272,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Baldwin Memorial Garden",
-                  "text": "Baldwin Memorial Garden is a memorial garden in Colonial Williamsburg with floral displays.",
+                  "text": "Memorial garden honoring the Baldwin family.",
                   "category": "park",
                   "coords": [
                         -76.707722,
@@ -5290,7 +5290,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Veterans Park",
-                  "text": "Veterans Park is a park in Colonial Williamsburg dedicated to veterans.",
+                  "text": "Park with memorials honoring local veterans.",
                   "category": "park",
                   "coords": [
                         -76.760097,
@@ -5299,7 +5299,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Williamsburg Botanical Garden",
-                  "text": "Williamsburg Botanical Garden is a botanical garden featuring native plants and themed gardens.",
+                  "text": "Botanical garden showcasing native and exotic plants.",
                   "category": "park",
                   "coords": [
                         -76.799136,
@@ -5353,7 +5353,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Historic Archaeology Site",
-                  "text": "The Historic Archaeology Site in Colonial Williamsburg is an archaeological site revealing historic artifacts.",
+                  "text": "The Historic Archaeology Site in Williamsburg is an active archaeological dig.",
                   "category": "historical",
                   "coords": [
                         -76.639448,
@@ -5371,7 +5371,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Peter Scott House and Shop Archaeology Project",
-                  "text": "The Peter Scott House and Shop Archaeology Project is an archaeological excavation of a historic house and shop.",
+                  "text": "The Peter Scott House and Shop Archaeology Project excavates Peter Scott's house and shop in Williamsburg.",
                   "category": "historical",
                   "coords": [
                         -76.702827,
@@ -5380,7 +5380,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Custis Square Archaeology Project",
-                  "text": "The Custis Square Archaeology Project is an archaeological project in Custis Square in Colonial Williamsburg.",
+                  "text": "The Custis Square Archaeology Project investigates the archaeology of Custis Square in Williamsburg.",
                   "category": "historical",
                   "coords": [
                         -76.702912,
@@ -5389,7 +5389,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Shenanigans Theatre",
-                  "text": "Shenanigans Theatre in Colonial Williamsburg is a theatre hosting comedic performances.",
+                  "text": "Shenanigans Theatre is a live performance venue in Williamsburg.",
                   "category": "cultural",
                   "coords": [
                         -76.648912,
@@ -5398,7 +5398,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Governor's Palace Stage",
-                  "text": "The Governor's Palace Stage is an outdoor stage at the Governor's Palace in Colonial Williamsburg.",
+                  "text": "The Governor's Palace Stage is an outdoor stage at the Governor's Palace in Williamsburg.",
                   "category": "cultural",
                   "coords": [
                         -76.702389,
@@ -5407,7 +5407,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Charlton Stage",
-                  "text": "Charlton Stage is a stage in Colonial Williamsburg for theatrical productions.",
+                  "text": "The Charlton Stage is a stage in the Williamsburg theatre complex.",
                   "category": "cultural",
                   "coords": [
                         -76.694211,
@@ -5443,7 +5443,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Globe Theatre",
-                  "text": "The Globe Theatre in Colonial Williamsburg is a replica of the original Shakespearean theatre.",
+                  "text": "The Globe Theatre in Williamsburg is a theater named after Shakespeare's Globe.",
                   "category": "cultural",
                   "coords": [
                         -76.64598,
@@ -5521,7 +5521,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Peter's Church in the Great Valley",
-                  "text": "Eine historische episkopalische Kirche aus dem 18. Jahrhundert.",
+                  "text": "Episkopale Kirche, erbaut 1704.",
                   "category": "religious",
                   "coords": [
                         -75.525478,
@@ -5539,7 +5539,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Schuylkill River Bridge",
-                  "text": "Eine Brücke über den Schuylkill River in Valley Forge.",
+                  "text": "Steinerne Bogenbrücke, die den Lincoln Highway über den Schuylkill River führt.",
                   "category": "landmark",
                   "coords": [
                         -75.325812,
@@ -5566,7 +5566,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Norristown Farm Park",
-                  "text": "Ein großer Park mit einem Bauernhof in Norristown, Pennsylvania.",
+                  "text": "5 Hektar großer Park auf dem Gelände einer ehemaligen Staatsfarm.",
                   "category": "park",
                   "coords": [
                         -75.346642,
@@ -5575,7 +5575,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chanticleer Garden",
-                  "text": "Ein öffentlicher Garten mit vielfältigen Pflanzensammlungen.",
+                  "text": "14 Hektar großer Garten mit Mischung aus formalen und naturalistischen Bepflanzungen.",
                   "category": "park",
                   "coords": [
                         -75.391297,
@@ -5584,7 +5584,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Elmwood Park Zoo",
-                  "text": "Ein Zoo mit über 100 Tierarten in Norristown.",
+                  "text": "Kleiner Zoo mit über 100 Arten, darunter Rote Pandas.",
                   "category": "recreational",
                   "coords": [
                         -75.338613,
@@ -5593,7 +5593,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Valley Forge National Historical Park Visitor Center",
-                  "text": "Das Besucherzentrum des Valley Forge National Historical Park.",
+                  "text": "Besucherzentrum mit Ausstellungen zum Winterlager der Kontinentalarmee.",
                   "category": "museum",
                   "coords": [
                         -75.422628,
@@ -5602,7 +5602,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "American Treasure Tour Museum",
-                  "text": "Ein Museum mit Sammlungen amerikanischer Schätze.",
+                  "text": "Museum mit einer umfangreichen Sammlung von Oldtimern und Americana.",
                   "category": "museum",
                   "coords": [
                         -75.453547,
@@ -5611,7 +5611,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Paper Mill House",
-                  "text": "Ein Museum in einem historischen Papiermühlenhaus.",
+                  "text": "Historisches Papiermühlengebäude aus dem 19. Jahrhundert.",
                   "category": "museum",
                   "coords": [
                         -75.405324,
@@ -5620,7 +5620,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Valley Forge Station",
-                  "text": "Ein Museum in einem historischen Bahnhofsgebäude in Valley Forge.",
+                  "text": "Historischer Bahnhof aus dem 19. Jahrhundert.",
                   "category": "museum",
                   "coords": [
                         -75.460506,
@@ -5638,7 +5638,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Trinity Presbyterian Church",
-                  "text": "Eine presbyterianische Kirche in Valley Forge.",
+                  "text": "Presbyterianische Kirche, die die Gemeinde von Forge betreut.",
                   "category": "religious",
                   "coords": [
                         -75.441479,
@@ -5647,7 +5647,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "DeKalb Veterans Memorial Bridge",
-                  "text": "Eine Brücke zu Ehren von Veteranen, benannt nach DeKalb.",
+                  "text": "Brücke zu Ehren lokaler Veteranen.",
                   "category": "landmark",
                   "coords": [
                         -75.344439,
@@ -5656,7 +5656,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bridgeport Bridge",
-                  "text": "Eine Brücke über den Schuylkill River in Bridgeport.",
+                  "text": "Historische Brücke über den Schuylkill River.",
                   "category": "landmark",
                   "coords": [
                         -75.346756,
@@ -5665,7 +5665,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Marosek Park",
-                  "text": "Ein kleiner Park in Valley Forge.",
+                  "text": "Nachbarschaftspark mit Spielplatz und Sportplätzen.",
                   "category": "park",
                   "coords": [
                         -75.537434,
@@ -5674,7 +5674,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Radnor Historical Society",
-                  "text": "Ein Museum der Radnor Historical Society in Wayne.",
+                  "text": "Die Radnor Historical Society ist ein Museum zur Ortsgeschichte in Forge.",
                   "category": "museum",
                   "coords": [
                         -75.390216,
@@ -5683,7 +5683,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "LAA Art Collective",
-                  "text": "Eine Kunstgalerie und ein Künstlerkollektiv in Wayne.",
+                  "text": "Das LAA Art Collective ist eine zeitgenössische Kunstgalerie in Forge.",
                   "category": "museum",
                   "coords": [
                         -75.386977,
@@ -5692,7 +5692,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Wharton Esherick Museum",
-                  "text": "Ein Museum in valley-forge-history-v2, das die Werke des Künstlers Wharton Esherick zeigt.",
+                  "text": "Museum im handgeschnitzten Studio des Künstlers Wharton Esherick, eingetragen im National Register of Historic Places.",
                   "category": "museum",
                   "coords": [
                         -75.493211,
@@ -5701,7 +5701,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Gallery 222",
-                  "text": "Eine Galerie in valley-forge-history-v2.",
+                  "text": "Die Gallery 222 zeigt wechselnde Kunstausstellungen in Forge.",
                   "category": "museum",
                   "coords": [
                         -75.511166,
@@ -5710,7 +5710,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Home of John James Audubon",
-                  "text": "Ein Museum im ehemaligen Haus von John James Audubon in valley-forge-history-v2.",
+                  "text": "Das Haus von John James Audubon ist ein Museum im ehemaligen Wohnsitz des Naturforschers in Forge.",
                   "category": "museum",
                   "coords": [
                         -75.444222,
@@ -5719,7 +5719,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Historical Society of Montgomery County",
-                  "text": "Ein Museum der historischen Gesellschaft des Montgomery County in valley-forge-history-v2.",
+                  "text": "Die Historical Society of Montgomery County betreibt ein Museum in Forge.",
                   "category": "museum",
                   "coords": [
                         -75.328839,
@@ -5728,7 +5728,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "The Schuylkill River Heritage Center",
-                  "text": "Ein Museum, das sich mit der Geschichte des Schuylkill River in valley-forge-history-v2 befasst.",
+                  "text": "Das Schuylkill River Heritage Center ist ein Museum am Schuylkill River in Forge.",
                   "category": "museum",
                   "coords": [
                         -75.51739,
@@ -5737,7 +5737,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Locktender's House",
-                  "text": "Ein Museum in einem ehemaligen Schleusenwärterhaus in valley-forge-history-v2.",
+                  "text": "Das Locktender's House ist ein Museum im ehemaligen Schleusenwärterhaus am Schuylkill-Kanal in Forge.",
                   "category": "museum",
                   "coords": [
                         -75.507954,
@@ -5746,7 +5746,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "John James Audubon Center",
-                  "text": "Ein Zentrum, das dem Leben und Werk von John James Audubon in valley-forge-history-v2 gewidmet ist.",
+                  "text": "Das John James Audubon Center ist ein Museum zur Vogelkunde und zum Naturschutz in Forge.",
                   "category": "museum",
                   "coords": [
                         -75.443185,
@@ -5755,7 +5755,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "John James Audubon Center at Mill Grove",
-                  "text": "Ein Zentrum am Mill Grove in valley-forge-history-v2, das John James Audubon gewidmet ist.",
+                  "text": "Das John James Audubon Center at Mill Grove ist ein historisches Anwesen in Forge.",
                   "category": "museum",
                   "coords": [
                         -75.441913,
@@ -5764,7 +5764,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Jones Log Barn History Center",
-                  "text": "Ein Geschichtszentrum in einer Blockhütte in valley-forge-history-v2.",
+                  "text": "Das Jones Log Barn History Center ist ein Museum in einer Blockhütte in Forge.",
                   "category": "museum",
                   "coords": [
                         -75.45015,
@@ -5773,7 +5773,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Defenders' Gate",
-                  "text": "Ein Tor, das als Burg bezeichnet wird, in valley-forge-history-v2.",
+                  "text": "Das Defenders' Gate ist ein burgähnliches Tor in Forge.",
                   "category": "castle",
                   "coords": [
                         -75.441446,
@@ -5782,7 +5782,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "John Brown Lime Kiln",
-                  "text": "Ruinen eines Kalkofens in valley-forge-history-v2.",
+                  "text": "Der John Brown Lime Kiln ist ein Kalkofen, der mit dem Abolitionisten John Brown verbunden ist, in Forge.",
                   "category": "historical",
                   "coords": [
                         -75.453716,
@@ -5791,7 +5791,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "General Wayne Statue",
-                  "text": "Ein Denkmal für General Wayne in valley-forge-history-v2.",
+                  "text": "Das General Wayne Statue zeigt General Anthony Wayne in Forge.",
                   "category": "historical",
                   "coords": [
                         -75.444509,
@@ -5800,7 +5800,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bolingbroke",
-                  "text": "Ein Herrenhaus in valley-forge-history-v2.",
+                  "text": "Bolingbroke ist ein historisches Anwesen in Forge.",
                   "category": "historical",
                   "coords": [
                         -75.363585,
@@ -5809,7 +5809,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Theatre Horizon",
-                  "text": "Ein Theater in valley-forge-history-v2.",
+                  "text": "Das Theatre Horizon ist eine Bühne für darstellende Künste in Forge.",
                   "category": "cultural",
                   "coords": [
                         -75.342233,
@@ -5818,7 +5818,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Jaycee Operation Bandshell",
-                  "text": "Ein Musikpavillon in valley-forge-history-v2.",
+                  "text": "Die Jaycee Operation Bandshell ist eine Freilichtbühne für Gemeinschaftskonzerte in Forge.",
                   "category": "cultural",
                   "coords": [
                         -75.51273,
@@ -5827,7 +5827,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Stress Factory Comedy Club",
-                  "text": "Ein Comedy-Club in valley-forge-history-v2.",
+                  "text": "Der Stress Factory Comedy Club ist ein Comedy-Club in Forge.",
                   "category": "cultural",
                   "coords": [
                         -75.4155,
@@ -5847,7 +5847,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Peter's Church in the Great Valley",
-                  "text": "Egy 18. századi történelmi episzkopális templom.",
+                  "text": "Episzkopális templom, épült 1704-ben.",
                   "category": "religious",
                   "coords": [
                         -75.525478,
@@ -5865,7 +5865,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Schuylkill River Bridge",
-                  "text": "Egy híd a Schuylkill folyó felett Valley Forge-ban.",
+                  "text": "Kőíves híd, amely a Lincoln Highway-t vezeti át a Schuylkill folyón.",
                   "category": "landmark",
                   "coords": [
                         -75.325812,
@@ -5892,7 +5892,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Norristown Farm Park",
-                  "text": "Egy nagy park gazdasággal Norristownban, Pennsylvaniában.",
+                  "text": "5 hektáros park egykori állami gazdaság területén.",
                   "category": "park",
                   "coords": [
                         -75.346642,
@@ -5901,7 +5901,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chanticleer Garden",
-                  "text": "Egy nyilvános kert változatos növénygyűjteményekkel.",
+                  "text": "14 hektáros kert formális és természetes ültetvények keverékével.",
                   "category": "park",
                   "coords": [
                         -75.391297,
@@ -5910,7 +5910,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Elmwood Park Zoo",
-                  "text": "Egy állatkert több mint 100 állatfajjal Norristownban.",
+                  "text": "Kis állatkert több mint 100 fajjal, köztük vörös pandákkal.",
                   "category": "recreational",
                   "coords": [
                         -75.338613,
@@ -5919,7 +5919,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Valley Forge National Historical Park Visitor Center",
-                  "text": "A Valley Forge Nemzeti Történeti Park látogatóközpontja.",
+                  "text": "Látogatóközpont kiállításokkal a Kontinentális Hadsereg téli táborozásáról.",
                   "category": "museum",
                   "coords": [
                         -75.422628,
@@ -5928,7 +5928,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "American Treasure Tour Museum",
-                  "text": "Egy múzeum amerikai kincsek gyűjteményeivel.",
+                  "text": "Múzeum, amely nagy gyűjteményt őriz veterán autókból és amerikai emlékekből.",
                   "category": "museum",
                   "coords": [
                         -75.453547,
@@ -5937,7 +5937,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Paper Mill House",
-                  "text": "Egy múzeum egy történelmi papírmalomházban.",
+                  "text": "19. századi történelmi papírmalom épület.",
                   "category": "museum",
                   "coords": [
                         -75.405324,
@@ -5946,7 +5946,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Valley Forge Station",
-                  "text": "Egy múzeum egy történelmi vasútállomás épületében Valley Forge-ban.",
+                  "text": "19. századi történelmi vasútállomás.",
                   "category": "museum",
                   "coords": [
                         -75.460506,
@@ -5964,7 +5964,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Trinity Presbyterian Church",
-                  "text": "Egy presbiteriánus templom Valley Forge-ban.",
+                  "text": "Presbiteriánus templom, amely a Forge közösségét szolgálja.",
                   "category": "religious",
                   "coords": [
                         -75.441479,
@@ -5973,7 +5973,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "DeKalb Veterans Memorial Bridge",
-                  "text": "Egy híd a veteránok tiszteletére, DeKalb-ról elnevezve.",
+                  "text": "Híd a helyi veteránok tiszteletére.",
                   "category": "landmark",
                   "coords": [
                         -75.344439,
@@ -5982,7 +5982,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bridgeport Bridge",
-                  "text": "Egy híd a Schuylkill folyó felett Bridgeportban.",
+                  "text": "Történelmi híd a Schuylkill folyón.",
                   "category": "landmark",
                   "coords": [
                         -75.346756,
@@ -5991,7 +5991,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Marosek Park",
-                  "text": "Egy kis park Valley Forge-ban.",
+                  "text": "Szomszédsági park játszótérrel és sportpályákkal.",
                   "category": "park",
                   "coords": [
                         -75.537434,
@@ -6000,7 +6000,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Radnor Historical Society",
-                  "text": "A Radnor Történelmi Társaság múzeuma Wayne-ben.",
+                  "text": "A Radnor Historical Society helytörténeti múzeum Forge-ban.",
                   "category": "museum",
                   "coords": [
                         -75.390216,
@@ -6009,7 +6009,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "LAA Art Collective",
-                  "text": "Egy művészeti galéria és művész kollektíva Wayne-ben.",
+                  "text": "Az LAA Art Collective egy kortárs művészeti galéria Forge-ban.",
                   "category": "museum",
                   "coords": [
                         -75.386977,
@@ -6018,7 +6018,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Wharton Esherick Museum",
-                  "text": "Egy múzeum valley-forge-history-v2-ben, amely Wharton Esherick művész munkáit mutatja be.",
+                  "text": "Múzeum Wharton Esherick művész kézzel faragott stúdiójában, a Történelmi Helyek Nemzeti Jegyzékében szerepel.",
                   "category": "museum",
                   "coords": [
                         -75.493211,
@@ -6027,7 +6027,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Gallery 222",
-                  "text": "Egy galéria valley-forge-history-v2-ben.",
+                  "text": "A Gallery 222 változó művészeti kiállításoknak ad otthont Forge-ban.",
                   "category": "museum",
                   "coords": [
                         -75.511166,
@@ -6036,7 +6036,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Home of John James Audubon",
-                  "text": "Egy múzeum John James Audubon egykori otthonában valley-forge-history-v2-ben.",
+                  "text": "John James Audubon háza múzeum a természettudós egykori otthonában Forge-ban.",
                   "category": "museum",
                   "coords": [
                         -75.444222,
@@ -6045,7 +6045,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Historical Society of Montgomery County",
-                  "text": "Egy múzeum, a Montgomery megyei történelmi társaságé valley-forge-history-v2-ben.",
+                  "text": "A Historical Society of Montgomery County múzeumot működtet Forge-ban.",
                   "category": "museum",
                   "coords": [
                         -75.328839,
@@ -6054,7 +6054,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "The Schuylkill River Heritage Center",
-                  "text": "Egy múzeum, amely a Schuylkill folyó történetével foglalkozik valley-forge-history-v2-ben.",
+                  "text": "A Schuylkill River Heritage Center múzeum a Schuylkill folyó partján Forge-ban.",
                   "category": "museum",
                   "coords": [
                         -75.51739,
@@ -6063,7 +6063,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Locktender's House",
-                  "text": "Egy múzeum egy egykori zsilipőr házban valley-forge-history-v2-ben.",
+                  "text": "A Locktender's House múzeum a Schuylkill-csatorna egykori zsilipkezelő házában Forge-ban.",
                   "category": "museum",
                   "coords": [
                         -75.507954,
@@ -6072,7 +6072,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "John James Audubon Center",
-                  "text": "Egy központ, amely John James Audubon életének és munkásságának szentelt valley-forge-history-v2-ben.",
+                  "text": "A John James Audubon Center madártani és természetvédelmi múzeum Forge-ban.",
                   "category": "museum",
                   "coords": [
                         -75.443185,
@@ -6081,7 +6081,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "John James Audubon Center at Mill Grove",
-                  "text": "Egy központ a Mill Grove-ban valley-forge-history-v2-ben, amely John James Audubonnak szentelt.",
+                  "text": "A John James Audubon Center at Mill Grove egy történelmi birtok Forge-ban.",
                   "category": "museum",
                   "coords": [
                         -75.441913,
@@ -6090,7 +6090,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Jones Log Barn History Center",
-                  "text": "Egy történelmi központ egy faházban valley-forge-history-v2-ben.",
+                  "text": "A Jones Log Barn History Center egy rönkfészerben kialakított múzeum Forge-ban.",
                   "category": "museum",
                   "coords": [
                         -75.45015,
@@ -6099,7 +6099,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Defenders' Gate",
-                  "text": "Egy kapu, amelyet várként említenek, valley-forge-history-v2-ben.",
+                  "text": "A Defenders' Gate egy várkapu-szerű építmény Forge-ban.",
                   "category": "castle",
                   "coords": [
                         -75.441446,
@@ -6108,7 +6108,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "John Brown Lime Kiln",
-                  "text": "Egy mészégető kemence romjai valley-forge-history-v2-ben.",
+                  "text": "A John Brown Lime Kiln egy mészégető kemence, amely John Brownhoz, az abolicionistához kapcsolódik Forge-ban.",
                   "category": "historical",
                   "coords": [
                         -75.453716,
@@ -6117,7 +6117,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "General Wayne Statue",
-                  "text": "Egy Wayne tábornok emlékműve valley-forge-history-v2-ben.",
+                  "text": "A General Wayne Statue Anthony Wayne tábornokot ábrázolja Forge-ban.",
                   "category": "historical",
                   "coords": [
                         -75.444509,
@@ -6126,7 +6126,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bolingbroke",
-                  "text": "Egy kúria valley-forge-history-v2-ben.",
+                  "text": "A Bolingbroke egy történelmi birtok Forge-ban.",
                   "category": "historical",
                   "coords": [
                         -75.363585,
@@ -6135,7 +6135,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Theatre Horizon",
-                  "text": "Egy színház valley-forge-history-v2-ben.",
+                  "text": "A Theatre Horizon előadó-művészeti helyszín Forge-ban.",
                   "category": "cultural",
                   "coords": [
                         -75.342233,
@@ -6144,7 +6144,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Jaycee Operation Bandshell",
-                  "text": "Egy zenepavilon valley-forge-history-v2-ben.",
+                  "text": "A Jaycee Operation Bandshell szabadtéri színpad közösségi koncertek számára Forge-ban.",
                   "category": "cultural",
                   "coords": [
                         -75.51273,
@@ -6153,7 +6153,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Stress Factory Comedy Club",
-                  "text": "Egy komédiaklub valley-forge-history-v2-ben.",
+                  "text": "A Stress Factory Comedy Club egy komédiaklub Forge-ban.",
                   "category": "cultural",
                   "coords": [
                         -75.4155,
@@ -6173,7 +6173,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Peter's Church in the Great Valley",
-                  "text": "O biserică episcopală istorică din secolul al XVIII-lea.",
+                  "text": "Biserică episcopală construită în 1704.",
                   "category": "religious",
                   "coords": [
                         -75.525478,
@@ -6191,7 +6191,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Schuylkill River Bridge",
-                  "text": "Un pod peste Râul Schuylkill în Valley Forge.",
+                  "text": "Pod de piatră cu arc care transportă Lincoln Highway peste râul Schuylkill.",
                   "category": "landmark",
                   "coords": [
                         -75.325812,
@@ -6218,7 +6218,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Norristown Farm Park",
-                  "text": "Un parc mare cu o fermă în Norristown, Pennsylvania.",
+                  "text": "Parcul de 5 hectare pe terenul unei foste ferme de stat.",
                   "category": "park",
                   "coords": [
                         -75.346642,
@@ -6227,7 +6227,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chanticleer Garden",
-                  "text": "O grădină publică cu colecții diverse de plante.",
+                  "text": "Grădină de 14 hectare cu un amestec de plantații formale și naturaliste.",
                   "category": "park",
                   "coords": [
                         -75.391297,
@@ -6236,7 +6236,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Elmwood Park Zoo",
-                  "text": "O grădină zoologică cu peste 100 de specii de animale în Norristown.",
+                  "text": "Grădină zoologică mică cu peste 100 de specii, inclusiv panda roșii.",
                   "category": "recreational",
                   "coords": [
                         -75.338613,
@@ -6245,7 +6245,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Valley Forge National Historical Park Visitor Center",
-                  "text": "Centrul de vizitare al Parcului Național Istoric Valley Forge.",
+                  "text": "Centru de vizitare cu expoziții despre tabăra de iarnă a Armatei Continentale.",
                   "category": "museum",
                   "coords": [
                         -75.422628,
@@ -6254,7 +6254,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "American Treasure Tour Museum",
-                  "text": "Un muzeu cu colecții de comori americane.",
+                  "text": "Muzeu care adăpostește o colecție vastă de mașini vintage și obiecte Americana.",
                   "category": "museum",
                   "coords": [
                         -75.453547,
@@ -6263,7 +6263,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Paper Mill House",
-                  "text": "Un muzeu într-o casă istorică a unei mori de hârtie.",
+                  "text": "Clădire istorică de moară de hârtie din secolul al XIX-lea.",
                   "category": "museum",
                   "coords": [
                         -75.405324,
@@ -6272,7 +6272,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Valley Forge Station",
-                  "text": "Un muzeu într-o clădire istorică de gară în Valley Forge.",
+                  "text": "Gară istorică din secolul al XIX-lea.",
                   "category": "museum",
                   "coords": [
                         -75.460506,
@@ -6290,7 +6290,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Trinity Presbyterian Church",
-                  "text": "O biserică prezbiteriană în Valley Forge.",
+                  "text": "Biserică presbiteriană care deservește comunitatea Forge.",
                   "category": "religious",
                   "coords": [
                         -75.441479,
@@ -6299,7 +6299,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "DeKalb Veterans Memorial Bridge",
-                  "text": "Un pod în onoarea veteranilor, numit după DeKalb.",
+                  "text": "Pod în onoarea veteranilor locali.",
                   "category": "landmark",
                   "coords": [
                         -75.344439,
@@ -6308,7 +6308,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bridgeport Bridge",
-                  "text": "Un pod peste Râul Schuylkill în Bridgeport.",
+                  "text": "Pod istoric peste râul Schuylkill.",
                   "category": "landmark",
                   "coords": [
                         -75.346756,
@@ -6317,7 +6317,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Marosek Park",
-                  "text": "Un parc mic în Valley Forge.",
+                  "text": "Parcul de cartier cu loc de joacă și terenuri sportive.",
                   "category": "park",
                   "coords": [
                         -75.537434,
@@ -6326,7 +6326,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Radnor Historical Society",
-                  "text": "Un muzeu al Societății Istorice Radnor în Wayne.",
+                  "text": "Societatea Istorică Radnor este un muzeu de istorie locală în Forge.",
                   "category": "museum",
                   "coords": [
                         -75.390216,
@@ -6335,7 +6335,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "LAA Art Collective",
-                  "text": "O galerie de artă și un colectiv de artiști în Wayne.",
+                  "text": "LAA Art Collective este o galerie de artă contemporană în Forge.",
                   "category": "museum",
                   "coords": [
                         -75.386977,
@@ -6344,7 +6344,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Wharton Esherick Museum",
-                  "text": "Un muzeu în valley-forge-history-v2 care prezintă lucrările artistului Wharton Esherick.",
+                  "text": "Muzeu în atelierul sculptat manual al artistului Wharton Esherick, înscris în Registrul Național al Locurilor Istorice.",
                   "category": "museum",
                   "coords": [
                         -75.493211,
@@ -6353,7 +6353,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Gallery 222",
-                  "text": "O galerie în valley-forge-history-v2.",
+                  "text": "Galeria 222 prezintă expoziții de artă temporare în Forge.",
                   "category": "museum",
                   "coords": [
                         -75.511166,
@@ -6362,7 +6362,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Home of John James Audubon",
-                  "text": "Un muzeu în fosta casă a lui John James Audubon în valley-forge-history-v2.",
+                  "text": "Casa lui John James Audubon este un muzeu în fosta reședință a naturalistului din Forge.",
                   "category": "museum",
                   "coords": [
                         -75.444222,
@@ -6371,7 +6371,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Historical Society of Montgomery County",
-                  "text": "Un muzeu al Societății Istorice a Comitatului Montgomery în valley-forge-history-v2.",
+                  "text": "Societatea Istorică a Comitatului Montgomery administrează un muzeu în Forge.",
                   "category": "museum",
                   "coords": [
                         -75.328839,
@@ -6380,7 +6380,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "The Schuylkill River Heritage Center",
-                  "text": "Un muzeu dedicat istoriei râului Schuylkill în valley-forge-history-v2.",
+                  "text": "Centrul de Patrimoniu al Râului Schuylkill este un muzeu pe malul râului Schuylkill în Forge.",
                   "category": "museum",
                   "coords": [
                         -75.51739,
@@ -6389,7 +6389,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Locktender's House",
-                  "text": "Un muzeu într-o fostă casă a paznicului de ecluză în valley-forge-history-v2.",
+                  "text": "Casa Locktender’s este un muzeu în fosta casă a paznicului de ecluză de pe Canalul Schuylkill din Forge.",
                   "category": "museum",
                   "coords": [
                         -75.507954,
@@ -6398,7 +6398,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "John James Audubon Center",
-                  "text": "Un centru dedicat vieții și operei lui John James Audubon în valley-forge-history-v2.",
+                  "text": "Centrul John James Audubon este un muzeu de ornitologie și conservare în Forge.",
                   "category": "museum",
                   "coords": [
                         -75.443185,
@@ -6407,7 +6407,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "John James Audubon Center at Mill Grove",
-                  "text": "Un centru la Mill Grove în valley-forge-history-v2, dedicat lui John James Audubon.",
+                  "text": "Centrul John James Audubon de la Mill Grove este un domeniu istoric în Forge.",
                   "category": "museum",
                   "coords": [
                         -75.441913,
@@ -6416,7 +6416,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Jones Log Barn History Center",
-                  "text": "Un centru istoric într-un hambar din bușteni în valley-forge-history-v2.",
+                  "text": "Centrul de Istorie Jones Log Barn este un muzeu într-un hambar din bușteni în Forge.",
                   "category": "museum",
                   "coords": [
                         -75.45015,
@@ -6425,7 +6425,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Defenders' Gate",
-                  "text": "O poartă numită castel în valley-forge-history-v2.",
+                  "text": "Poarta Apărătorilor este o structură asemănătoare unui castel în Forge.",
                   "category": "castle",
                   "coords": [
                         -75.441446,
@@ -6434,7 +6434,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "John Brown Lime Kiln",
-                  "text": "Ruinele unui cuptor de var în valley-forge-history-v2.",
+                  "text": "Cuptorul de Var John Brown este un cuptor de var asociat cu aboliționistul John Brown în Forge.",
                   "category": "historical",
                   "coords": [
                         -75.453716,
@@ -6443,7 +6443,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "General Wayne Statue",
-                  "text": "Un monument dedicat generalului Wayne în valley-forge-history-v2.",
+                  "text": "Statuia Generalului Wayne îl înfățișează pe generalul Anthony Wayne în Forge.",
                   "category": "historical",
                   "coords": [
                         -75.444509,
@@ -6452,7 +6452,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bolingbroke",
-                  "text": "Un conac în valley-forge-history-v2.",
+                  "text": "Bolingbroke este un domeniu istoric în Forge.",
                   "category": "historical",
                   "coords": [
                         -75.363585,
@@ -6461,7 +6461,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Theatre Horizon",
-                  "text": "Un teatru în valley-forge-history-v2.",
+                  "text": "Teatrul Horizon este un loc pentru artele spectacolului în Forge.",
                   "category": "cultural",
                   "coords": [
                         -75.342233,
@@ -6470,7 +6470,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Jaycee Operation Bandshell",
-                  "text": "Un pavilion muzical în valley-forge-history-v2.",
+                  "text": "Scenele Jaycee Operation Bandshell este o scenă în aer liber pentru concerte comunitare în Forge.",
                   "category": "cultural",
                   "coords": [
                         -75.51273,
@@ -6479,7 +6479,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Stress Factory Comedy Club",
-                  "text": "Un club de comedie în valley-forge-history-v2.",
+                  "text": "Stress Factory Comedy Club este un club de comedie în Forge.",
                   "category": "cultural",
                   "coords": [
                         -75.4155,
@@ -6499,7 +6499,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Peter's Church in the Great Valley",
-                  "text": "A historic Episcopal church from the 18th century.",
+                  "text": "Episcopal church built in 1704.",
                   "category": "religious",
                   "coords": [
                         -75.525478,
@@ -6517,7 +6517,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Schuylkill River Bridge",
-                  "text": "A bridge spanning the Schuylkill River in Valley Forge.",
+                  "text": "Stone arch bridge carrying the Lincoln Highway over the Schuylkill River.",
                   "category": "landmark",
                   "coords": [
                         -75.325812,
@@ -6544,7 +6544,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Norristown Farm Park",
-                  "text": "A large park with a working farm in Norristown, Pennsylvania.",
+                  "text": "13-acre park on the grounds of a former state hospital farm.",
                   "category": "park",
                   "coords": [
                         -75.346642,
@@ -6553,7 +6553,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chanticleer Garden",
-                  "text": "A public garden with diverse plant collections.",
+                  "text": "35-acre garden with a mix of formal and naturalistic plantings.",
                   "category": "park",
                   "coords": [
                         -75.391297,
@@ -6562,7 +6562,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Elmwood Park Zoo",
-                  "text": "A zoo with over 100 animal species in Norristown.",
+                  "text": "Small zoo with over 100 species, including red pandas.",
                   "category": "recreational",
                   "coords": [
                         -75.338613,
@@ -6571,7 +6571,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Valley Forge National Historical Park Visitor Center",
-                  "text": "The visitor center of Valley Forge National Historical Park.",
+                  "text": "Visitor center with exhibits on the Continental Army's winter encampment.",
                   "category": "museum",
                   "coords": [
                         -75.422628,
@@ -6580,7 +6580,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "American Treasure Tour Museum",
-                  "text": "A museum with collections of American treasures.",
+                  "text": "Museum housing a vast collection of vintage automobiles and Americana.",
                   "category": "museum",
                   "coords": [
                         -75.453547,
@@ -6589,7 +6589,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Paper Mill House",
-                  "text": "A museum in a historic paper mill house.",
+                  "text": "Historic paper mill building dating to the 19th century.",
                   "category": "museum",
                   "coords": [
                         -75.405324,
@@ -6598,7 +6598,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Valley Forge Station",
-                  "text": "A museum in a historic train station building in Valley Forge.",
+                  "text": "Historic train station from the 19th century.",
                   "category": "museum",
                   "coords": [
                         -75.460506,
@@ -6616,7 +6616,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Trinity Presbyterian Church",
-                  "text": "A Presbyterian church in Valley Forge.",
+                  "text": "Presbyterian church serving the Forge community.",
                   "category": "religious",
                   "coords": [
                         -75.441479,
@@ -6625,7 +6625,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "DeKalb Veterans Memorial Bridge",
-                  "text": "A bridge honoring veterans, named after DeKalb.",
+                  "text": "Bridge honoring local veterans.",
                   "category": "landmark",
                   "coords": [
                         -75.344439,
@@ -6634,7 +6634,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bridgeport Bridge",
-                  "text": "A bridge over the Schuylkill River in Bridgeport.",
+                  "text": "Historic bridge spanning the Schuylkill River.",
                   "category": "landmark",
                   "coords": [
                         -75.346756,
@@ -6643,7 +6643,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Marosek Park",
-                  "text": "A small park in Valley Forge.",
+                  "text": "Neighborhood park with playground and sports fields.",
                   "category": "park",
                   "coords": [
                         -75.537434,
@@ -6652,7 +6652,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Radnor Historical Society",
-                  "text": "A museum of the Radnor Historical Society in Wayne.",
+                  "text": "Radnor Historical Society is a local history museum in Forge.",
                   "category": "museum",
                   "coords": [
                         -75.390216,
@@ -6661,7 +6661,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "LAA Art Collective",
-                  "text": "An art gallery and artist collective in Wayne.",
+                  "text": "LAA Art Collective is a contemporary art gallery in Forge.",
                   "category": "museum",
                   "coords": [
                         -75.386977,
@@ -6670,7 +6670,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Wharton Esherick Museum",
-                  "text": "A museum in valley-forge-history-v2 showcasing the works of artist Wharton Esherick.",
+                  "text": "A museum in the hand-carved studio of artist Wharton Esherick, listed on the National Register of Historic Places.",
                   "category": "museum",
                   "coords": [
                         -75.493211,
@@ -6679,7 +6679,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Gallery 222",
-                  "text": "A gallery in valley-forge-history-v2.",
+                  "text": "Gallery 222 features rotating art exhibitions in Forge.",
                   "category": "museum",
                   "coords": [
                         -75.511166,
@@ -6688,7 +6688,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Home of John James Audubon",
-                  "text": "A museum in the former home of John James Audubon in valley-forge-history-v2.",
+                  "text": "The Home of John James Audubon is a museum in the naturalist's former residence in Forge.",
                   "category": "museum",
                   "coords": [
                         -75.444222,
@@ -6697,7 +6697,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Historical Society of Montgomery County",
-                  "text": "A museum of the Historical Society of Montgomery County in valley-forge-history-v2.",
+                  "text": "The Historical Society of Montgomery County operates a museum in Forge.",
                   "category": "museum",
                   "coords": [
                         -75.328839,
@@ -6706,7 +6706,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "The Schuylkill River Heritage Center",
-                  "text": "A museum focused on the history of the Schuylkill River in valley-forge-history-v2.",
+                  "text": "The Schuylkill River Heritage Center is a museum on the Schuylkill River in Forge.",
                   "category": "museum",
                   "coords": [
                         -75.51739,
@@ -6715,7 +6715,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Locktender's House",
-                  "text": "A museum in a former locktender's house in valley-forge-history-v2.",
+                  "text": "Locktender's House is a museum in the former locktender's house along the Schuylkill Canal in Forge.",
                   "category": "museum",
                   "coords": [
                         -75.507954,
@@ -6724,7 +6724,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "John James Audubon Center",
-                  "text": "A center dedicated to the life and work of John James Audubon in valley-forge-history-v2.",
+                  "text": "The John James Audubon Center is a wildlife and conservation museum in Forge.",
                   "category": "museum",
                   "coords": [
                         -75.443185,
@@ -6733,7 +6733,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "John James Audubon Center at Mill Grove",
-                  "text": "A center at Mill Grove in valley-forge-history-v2 dedicated to John James Audubon.",
+                  "text": "The John James Audubon Center at Mill Grove is a historic estate in Forge.",
                   "category": "museum",
                   "coords": [
                         -75.441913,
@@ -6742,7 +6742,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Jones Log Barn History Center",
-                  "text": "A history center in a log barn in valley-forge-history-v2.",
+                  "text": "Jones Log Barn History Center is a museum in a log barn in Forge.",
                   "category": "museum",
                   "coords": [
                         -75.45015,
@@ -6751,7 +6751,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Defenders' Gate",
-                  "text": "A gate referred to as a castle in valley-forge-history-v2.",
+                  "text": "Defenders' Gate is a castle-like gate structure in Forge.",
                   "category": "castle",
                   "coords": [
                         -75.441446,
@@ -6760,7 +6760,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "John Brown Lime Kiln",
-                  "text": "Ruins of a lime kiln in valley-forge-history-v2.",
+                  "text": "The John Brown Lime Kiln is a lime kiln associated with abolitionist John Brown in Forge.",
                   "category": "historical",
                   "coords": [
                         -75.453716,
@@ -6769,7 +6769,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "General Wayne Statue",
-                  "text": "A monument to General Wayne in valley-forge-history-v2.",
+                  "text": "The General Wayne Statue depicts General Anthony Wayne in Forge.",
                   "category": "historical",
                   "coords": [
                         -75.444509,
@@ -6778,7 +6778,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bolingbroke",
-                  "text": "A manor house in valley-forge-history-v2.",
+                  "text": "Bolingbroke is a historic estate in Forge.",
                   "category": "historical",
                   "coords": [
                         -75.363585,
@@ -6787,7 +6787,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Theatre Horizon",
-                  "text": "A theatre in valley-forge-history-v2.",
+                  "text": "Theatre Horizon is a performing arts venue in Forge.",
                   "category": "cultural",
                   "coords": [
                         -75.342233,
@@ -6796,7 +6796,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Jaycee Operation Bandshell",
-                  "text": "A bandshell in valley-forge-history-v2.",
+                  "text": "The Jaycee Operation Bandshell is an outdoor stage for community concerts in Forge.",
                   "category": "cultural",
                   "coords": [
                         -75.51273,
@@ -6805,7 +6805,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Stress Factory Comedy Club",
-                  "text": "A comedy club in valley-forge-history-v2.",
+                  "text": "Stress Factory Comedy Club is a comedy club in Forge.",
                   "category": "cultural",
                   "coords": [
                         -75.4155,
@@ -6865,7 +6865,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Lee Hall Roadside Park",
-                  "text": "Der Lee Hall Roadside Park ist ein kleiner Park entlang der Straße in Yorktown.",
+                  "text": "Kleiner Straßenrandpark entlang der Route 60.",
                   "category": "park",
                   "coords": [
                         -76.553841,
@@ -6874,7 +6874,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Butler Creek",
-                  "text": "Butler Creek ist ein Gezeitenbach in Yorktown.",
+                  "text": "Bach, der durch das Battlefield-Gebiet fließt.",
                   "category": "landmark",
                   "coords": [
                         -76.445503,
@@ -6901,7 +6901,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "York River Cliffs",
-                  "text": "Die York River Cliffs sind malerische Klippen entlang des York River in Yorktown.",
+                  "text": "Klippen mit Blick auf den York River.",
                   "category": "landmark",
                   "coords": [
                         -76.520229,
@@ -6919,7 +6919,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Woodside Park",
-                  "text": "Der Woodside Park ist ein öffentlicher Park in Yorktown.",
+                  "text": "Park mit bewaldeten Wegen und Picknickplätzen.",
                   "category": "park",
                   "coords": [
                         -76.527174,
@@ -6928,7 +6928,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "American Revolution Museum at Yorktown",
-                  "text": "Das American Revolution Museum at Yorktown erzählt die Geschichte der Amerikanischen Revolution.",
+                  "text": "Das American Revolution Museum at Yorktown in Battlefield dokumentiert die entscheidende Schlacht von Yorktown.",
                   "category": "museum",
                   "coords": [
                         -76.518321,
@@ -6937,7 +6937,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Newport News Park",
-                  "text": "Der Newport News Park ist ein großer Park im Gebiet von Newport News nahe Yorktown.",
+                  "text": "Einer der größten Stadtparks Virginias mit einem See und Wanderwegen.",
                   "category": "park",
                   "coords": [
                         -76.485819,
@@ -6946,7 +6946,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Discovery Center",
-                  "text": "Das Discovery Center ist ein Museum in Yorktown mit interaktiven Ausstellungen.",
+                  "text": "Das Discovery Center ist ein Mitmachmuseum am Yorktown-Schlachtfeld in Battlefield.",
                   "category": "museum",
                   "coords": [
                         -76.537195,
@@ -6955,7 +6955,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Skiffe's Creek Redoubt",
-                  "text": "Skiffe's Creek Redoubt ist ein Schlachtfeld aus dem Unabhängigkeitskrieg in Yorktown.",
+                  "text": "Die Skiffe's Creek Redoubt ist eine Feldbefestigung am Skiffe's Creek in Battlefield.",
                   "category": "landmark",
                   "coords": [
                         -76.57586,
@@ -6964,7 +6964,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lee Hall Mansion",
-                  "text": "Die Lee Hall Mansion ist ein historisches Herrenhausmuseum in Yorktown.",
+                  "text": "Das Lee Hall Mansion ist ein historisches Herrenhaus, das während des Bürgerkriegs als Hauptquartier der Konföderierten diente, in Battlefield.",
                   "category": "museum",
                   "coords": [
                         -76.575597,
@@ -6973,7 +6973,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lee Hall Train Depot",
-                  "text": "Der Lee Hall Train Depot ist ein Museum in einem historischen Bahnhof in Yorktown.",
+                  "text": "Restaurierter Bahnhof aus den 1880er Jahren.",
                   "category": "museum",
                   "coords": [
                         -76.572633,
@@ -6982,7 +6982,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Charles E Brown Park",
-                  "text": "Der Charles E Brown Park ist ein Gemeinschaftspark in Yorktown.",
+                  "text": "Park mit Sportplätzen und einem Spielplatz.",
                   "category": "park",
                   "coords": [
                         -76.550178,
@@ -6991,7 +6991,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Endview Plantation",
-                  "text": "Die Endview Plantation ist ein historisches Plantagenhausmuseum in Yorktown.",
+                  "text": "Die Endview Plantation ist ein Plantagenhaus aus der Bürgerkriegszeit in Battlefield.",
                   "category": "museum",
                   "coords": [
                         -76.569157,
@@ -7000,7 +7000,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chesapeake Bay National Estuarine Research Reserve - Catlett Islands",
-                  "text": "Das Chesapeake Bay National Estuarine Research Reserve – Catlett Islands schützt Marschgebiete in der Chesapeake Bay.",
+                  "text": "Das Chesapeake Bay National Estuarine Research Reserve - Catlett Islands ist ein geschütztes Ästuar-Reservat auf den Catlett Islands in Battlefield.",
                   "category": "natural",
                   "coords": [
                         -76.54857,
@@ -7009,7 +7009,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Machicomoco State Park",
-                  "text": "Der Machicomoco State Park ist ein State Park mit Angeboten zur Erholung und Kulturgeschichte.",
+                  "text": "Der Machicomoco State Park ist ein State Park am York River in Battlefield.",
                   "category": "natural",
                   "coords": [
                         -76.541922,
@@ -7027,7 +7027,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Tyndall's Point Park",
-                  "text": "Tyndall's Point Park ist ein Park in Yorktown mit Blick auf den York River.",
+                  "text": "Park an der Mündung des York River mit Blick auf die Chesapeake Bay.",
                   "category": "park",
                   "coords": [
                         -76.50248,
@@ -7036,7 +7036,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chesapeake Bay National Estuarine Research Reserve - Goodwin Islands",
-                  "text": "Das Chesapeake Bay National Estuarine Research Reserve - Goodwin Islands ist ein geschütztes Ästuar-Forschungsreservat nahe Yorktown, das die Goodwin-Inseln umfasst.",
+                  "text": "Das Chesapeake Bay National Estuarine Research Reserve - Goodwin Islands ist ein Forschungsreservat auf den Goodwin Islands in Battlefield.",
                   "category": "natural",
                   "coords": [
                         -76.401955,
@@ -7045,7 +7045,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Back Creek Park",
-                  "text": "Back Creek Park ist ein Park in Yorktown entlang des Back Creek.",
+                  "text": "Park entlang eines Gezeitenbachs mit Angelsteg.",
                   "category": "park",
                   "coords": [
                         -76.439684,
@@ -7063,7 +7063,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Yorktown Beach",
-                  "text": "Yorktown Beach ist ein öffentlicher Strand am York River in Yorktown.",
+                  "text": "Der Yorktown Beach ist ein Sandstrand am York River nahe dem historischen Schlachtfeld von Yorktown in Battlefield.",
                   "category": "recreational",
                   "coords": [
                         -76.505799,
@@ -7072,7 +7072,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Colonial National Historic Park Yorktown Battlefield Visitor Center",
-                  "text": "Das Colonial National Historic Park Yorktown Battlefield Visitor Center ist das Besucherzentrum für das Schlachtfeld von Yorktown im Colonial National Historical Park in Yorktown.",
+                  "text": "Besucherzentrum des Schlachtfelds von Yorktown, Schauplatz der entscheidenden Belagerung von 1781 im Amerikanischen Unabhängigkeitskrieg.",
                   "category": "museum",
                   "coords": [
                         -76.502422,
@@ -7090,7 +7090,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "On-The-Hill Cultural Arts Center",
-                  "text": "Das On-The-Hill Cultural Arts Center ist ein Kultur- und Kunstzentrum auf einem Hügel in Yorktown.",
+                  "text": "Kulturzentrum in einem Gebäude auf einem Hügel mit Blick auf Battlefield.",
                   "category": "cultural",
                   "coords": [
                         -76.508286,
@@ -7108,7 +7108,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Auntie M's American Cottage",
-                  "text": "Auntie M's American Cottage ist eine Kunstgalerie in einem Häuschen in Yorktown.",
+                  "text": "Museum in einem historischen amerikanischen Cottage in Battlefield.",
                   "category": "museum",
                   "coords": [
                         -76.508868,
@@ -7117,7 +7117,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Artillery Amphitheater",
-                  "text": "Artillery Amphitheater ist ein Amphitheater, das für Artillerievorführungen in Yorktown genutzt wird.",
+                  "text": "Freiluft-Amphitheater für Artillerievorführungen auf dem Schlachtfeld.",
                   "category": "cultural",
                   "coords": [
                         -76.516447,
@@ -7126,7 +7126,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Wolf Trap Park",
-                  "text": "Wolf Trap Park ist ein Park in Yorktown.",
+                  "text": "Park mit Naturlehrpfaden und einem Teich.",
                   "category": "park",
                   "coords": [
                         -76.462316,
@@ -7135,7 +7135,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chisman Creek Park",
-                  "text": "Chisman Creek Park ist ein Park entlang des Chisman Creek in Yorktown.",
+                  "text": "Park entlang eines Nebenflusses des York River.",
                   "category": "park",
                   "coords": [
                         -76.459657,
@@ -7146,7 +7146,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Lee Hall Roadside Park",
-                  "text": "A Lee Hall Roadside Park egy kis park az út mentén Yorktownban.",
+                  "text": "Kis útmenti park a 60-as út mentén.",
                   "category": "park",
                   "coords": [
                         -76.553841,
@@ -7155,7 +7155,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Butler Creek",
-                  "text": "Butler Creek egy árapály-patak Yorktownban.",
+                  "text": "Patak, amely a Battlefield területén folyik keresztül.",
                   "category": "landmark",
                   "coords": [
                         -76.445503,
@@ -7182,7 +7182,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "York River Cliffs",
-                  "text": "A York River Cliffs festői sziklák a York River mentén Yorktownban.",
+                  "text": "Sziklafalak, kilátással a York folyóra.",
                   "category": "landmark",
                   "coords": [
                         -76.520229,
@@ -7200,7 +7200,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Woodside Park",
-                  "text": "A Woodside Park egy közpark Yorktownban.",
+                  "text": "Park erdei ösvényekkel és piknikhelyekkel.",
                   "category": "park",
                   "coords": [
                         -76.527174,
@@ -7209,7 +7209,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "American Revolution Museum at Yorktown",
-                  "text": "Az American Revolution Museum at Yorktown az Amerikai Forradalom történetét meséli el.",
+                  "text": "Az American Revolution Museum at Yorktown Battlefieldben a yorktowni döntő csatát mutatja be.",
                   "category": "museum",
                   "coords": [
                         -76.518321,
@@ -7218,7 +7218,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Newport News Park",
-                  "text": "A Newport News Park egy nagy park a Newport News-i területen, Yorktown közelében.",
+                  "text": "Virginia egyik legnagyobb városi parkja, tóval és túraútvonalakkal.",
                   "category": "park",
                   "coords": [
                         -76.485819,
@@ -7227,7 +7227,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Discovery Center",
-                  "text": "A Discovery Center egy múzeum Yorktownban interaktív kiállításokkal.",
+                  "text": "A Discovery Center egy kézműves múzeum a yorktowni csatatéren Battlefieldben.",
                   "category": "museum",
                   "coords": [
                         -76.537195,
@@ -7236,7 +7236,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Skiffe's Creek Redoubt",
-                  "text": "A Skiffe's Creek Redoubt egy csatatér a Függetlenségi Háborúból Yorktownban.",
+                  "text": "A Skiffe's Creek Redoubt egy mezei erődítés a Skiffe's Creek pataknál Battlefieldben.",
                   "category": "landmark",
                   "coords": [
                         -76.57586,
@@ -7245,7 +7245,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lee Hall Mansion",
-                  "text": "A Lee Hall Mansion egy történelmi kúria múzeum Yorktownban.",
+                  "text": "A Lee Hall Mansion egy történelmi kúria, amely a polgárháborúban a Konföderáció főhadiszállása volt Battlefieldben.",
                   "category": "museum",
                   "coords": [
                         -76.575597,
@@ -7254,7 +7254,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lee Hall Train Depot",
-                  "text": "A Lee Hall Train Depot egy múzeum egy történelmi vasútállomásban Yorktownban.",
+                  "text": "1880-as évekbeli helyreállított vasútállomás.",
                   "category": "museum",
                   "coords": [
                         -76.572633,
@@ -7263,7 +7263,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Charles E Brown Park",
-                  "text": "A Charles E Brown Park egy közösségi park Yorktownban.",
+                  "text": "Park sportpályákkal és játszótérrel.",
                   "category": "park",
                   "coords": [
                         -76.550178,
@@ -7272,7 +7272,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Endview Plantation",
-                  "text": "Az Endview Plantation egy történelmi ültetvényház múzeum Yorktownban.",
+                  "text": "Az Endview Plantation egy polgárháborús kori ültetvényház Battlefieldben.",
                   "category": "museum",
                   "coords": [
                         -76.569157,
@@ -7281,7 +7281,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chesapeake Bay National Estuarine Research Reserve - Catlett Islands",
-                  "text": "A Chesapeake Bay National Estuarine Research Reserve – Catlett Islands mocsaras területeket véd a Chesapeake-öbölben.",
+                  "text": "A Chesapeake Bay National Estuarine Research Reserve - Catlett Islands egy védett torkolati rezervátum a Catlett-szigeteken Battlefieldben.",
                   "category": "natural",
                   "coords": [
                         -76.54857,
@@ -7290,7 +7290,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Machicomoco State Park",
-                  "text": "A Machicomoco State Park egy állami park, amely szabadtéri kikapcsolódást és kulturális történetet kínál.",
+                  "text": "A Machicomoco State Park egy állami park a York folyó mellett Battlefieldben.",
                   "category": "natural",
                   "coords": [
                         -76.541922,
@@ -7308,7 +7308,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Tyndall's Point Park",
-                  "text": "A Tyndall's Point Park egy park Yorktownban, ahonnan kilátás nyílik a York folyóra.",
+                  "text": "Park a York folyó torkolatánál, kilátással a Chesapeake-öbölre.",
                   "category": "park",
                   "coords": [
                         -76.50248,
@@ -7317,7 +7317,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chesapeake Bay National Estuarine Research Reserve - Goodwin Islands",
-                  "text": "A Chesapeake Bay National Estuarine Research Reserve - Goodwin Islands egy védett torkolatkutató rezervátum Yorktown közelében, amely magában foglalja a Goodwin-szigeteket.",
+                  "text": "A Chesapeake Bay National Estuarine Research Reserve - Goodwin Islands egy kutatási rezervátum a Goodwin-szigeteken Battlefieldben.",
                   "category": "natural",
                   "coords": [
                         -76.401955,
@@ -7326,7 +7326,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Back Creek Park",
-                  "text": "A Back Creek Park egy park Yorktownban a Back Creek mentén.",
+                  "text": "Park egy árapály-patak mentén horgászmólóval.",
                   "category": "park",
                   "coords": [
                         -76.439684,
@@ -7344,7 +7344,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Yorktown Beach",
-                  "text": "A Yorktown Beach egy nyilvános strand a York folyó mentén Yorktownban.",
+                  "text": "A Yorktown Beach egy homokos strand a York folyón, a történelmi yorktowni csatatér közelében Battlefieldben.",
                   "category": "recreational",
                   "coords": [
                         -76.505799,
@@ -7353,7 +7353,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Colonial National Historic Park Yorktown Battlefield Visitor Center",
-                  "text": "A Colonial National Historic Park Yorktown Battlefield Visitor Center a Yorktown-i csatatér látogatóközpontja a Colonial National Historical Parkban, Yorktownban.",
+                  "text": "A Yorktown csatatér látogatóközpontja, az 1781-es ostrom helyszíne az amerikai függetlenségi háborúban.",
                   "category": "museum",
                   "coords": [
                         -76.502422,
@@ -7371,7 +7371,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "On-The-Hill Cultural Arts Center",
-                  "text": "Az On-The-Hill Cultural Arts Center egy kulturális és művészeti központ egy dombon Yorktownban.",
+                  "text": "Kulturális központ egy dombtetőn lévő épületben, amely Battlefieldre néz.",
                   "category": "cultural",
                   "coords": [
                         -76.508286,
@@ -7389,7 +7389,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Auntie M's American Cottage",
-                  "text": "Az Auntie M's American Cottage egy művészeti galéria egy házikóban Yorktownban.",
+                  "text": "Múzeum egy történelmi amerikai házikóban Battlefieldben.",
                   "category": "museum",
                   "coords": [
                         -76.508868,
@@ -7398,7 +7398,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Artillery Amphitheater",
-                  "text": "Az Artillery Amphitheater egy amfiteátrum, amelyet tüzérségi bemutatókra használnak Yorktownban.",
+                  "text": "Szabadtéri amfiteátrum tüzérségi bemutatóknak a csatatéren.",
                   "category": "cultural",
                   "coords": [
                         -76.516447,
@@ -7407,7 +7407,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Wolf Trap Park",
-                  "text": "A Wolf Trap Park egy park Yorktownban.",
+                  "text": "Park természetjáró ösvényekkel és egy tóval.",
                   "category": "park",
                   "coords": [
                         -76.462316,
@@ -7416,7 +7416,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chisman Creek Park",
-                  "text": "A Chisman Creek Park egy park a Chisman Creek mentén Yorktownban.",
+                  "text": "Park a York folyó egyik mellékfolyója mentén.",
                   "category": "park",
                   "coords": [
                         -76.459657,
@@ -7427,7 +7427,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Lee Hall Roadside Park",
-                  "text": "Lee Hall Roadside Park este un parc mic de-a lungul drumului în Yorktown.",
+                  "text": "Parc mic la marginea drumului de-a lungul rutei 60.",
                   "category": "park",
                   "coords": [
                         -76.553841,
@@ -7436,7 +7436,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Butler Creek",
-                  "text": "Butler Creek este un pârâu de maree în Yorktown.",
+                  "text": "Pârâu care curge prin zona Battlefield.",
                   "category": "landmark",
                   "coords": [
                         -76.445503,
@@ -7463,7 +7463,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "York River Cliffs",
-                  "text": "York River Cliffs sunt stânci pitorești de-a lungul râului York în Yorktown.",
+                  "text": "Stânci cu vedere spre râul York.",
                   "category": "landmark",
                   "coords": [
                         -76.520229,
@@ -7481,7 +7481,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Woodside Park",
-                  "text": "Woodside Park este un parc public în Yorktown.",
+                  "text": "Parcul cu poteci împădurite și zone de picnic.",
                   "category": "park",
                   "coords": [
                         -76.527174,
@@ -7490,7 +7490,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "American Revolution Museum at Yorktown",
-                  "text": "American Revolution Museum at Yorktown spune povestea Revoluției Americane.",
+                  "text": "Muzeul Revoluției Americane de la Yorktown din Battlefield prezintă bătălia decisivă de la Yorktown.",
                   "category": "museum",
                   "coords": [
                         -76.518321,
@@ -7499,7 +7499,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Newport News Park",
-                  "text": "Newport News Park este un parc mare în zona Newport News, lângă Yorktown.",
+                  "text": "Unul dintre cele mai mari parcuri municipale din Virginia, cu lac și trasee.",
                   "category": "park",
                   "coords": [
                         -76.485819,
@@ -7508,7 +7508,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Discovery Center",
-                  "text": "Discovery Center este un muzeu din Yorktown cu exponate interactive.",
+                  "text": "Centrul de Descoperire este un muzeu interactiv pe câmpul de luptă de la Yorktown din Battlefield.",
                   "category": "museum",
                   "coords": [
                         -76.537195,
@@ -7517,7 +7517,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Skiffe's Creek Redoubt",
-                  "text": "Skiffe's Creek Redoubt este un câmp de luptă din Războiul de Independență la Yorktown.",
+                  "text": "Reduta Skiffe's Creek este o fortificație de câmp lângă pârâul Skiffe's Creek din Battlefield.",
                   "category": "landmark",
                   "coords": [
                         -76.57586,
@@ -7526,7 +7526,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lee Hall Mansion",
-                  "text": "Lee Hall Mansion este un muzeu într-un conac istoric din Yorktown.",
+                  "text": "Conacul Lee Hall este un conac istoric care a servit drept cartier general confederat în timpul Războiului Civil în Battlefield.",
                   "category": "museum",
                   "coords": [
                         -76.575597,
@@ -7535,7 +7535,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lee Hall Train Depot",
-                  "text": "Lee Hall Train Depot este un muzeu într-o gară istorică din Yorktown.",
+                  "text": "Gară restaurată din anii 1880.",
                   "category": "museum",
                   "coords": [
                         -76.572633,
@@ -7544,7 +7544,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Charles E Brown Park",
-                  "text": "Charles E Brown Park este un parc comunitar în Yorktown.",
+                  "text": "Parcul cu terenuri sportive și loc de joacă.",
                   "category": "park",
                   "coords": [
                         -76.550178,
@@ -7553,7 +7553,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Endview Plantation",
-                  "text": "Endview Plantation este un muzeu al unei plantații istorice din Yorktown.",
+                  "text": "Plantația Endview este o casă de plantație din era Războiului Civil în Battlefield.",
                   "category": "museum",
                   "coords": [
                         -76.569157,
@@ -7562,7 +7562,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chesapeake Bay National Estuarine Research Reserve - Catlett Islands",
-                  "text": "Chesapeake Bay National Estuarine Research Reserve – Catlett Islands protejează mlaștini în golful Chesapeake.",
+                  "text": "Rezervația Națională de Cercetare Estuară a Golfului Chesapeake - Insulele Catlett este o rezervație estuară protejată pe Insulele Catlett din Battlefield.",
                   "category": "natural",
                   "coords": [
                         -76.54857,
@@ -7571,7 +7571,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Machicomoco State Park",
-                  "text": "Machicomoco State Park este un parc de stat care oferă recreere în aer liber și istorie culturală.",
+                  "text": "Parcul de Stat Machicomoco este un parc de stat pe malul râului York în Battlefield.",
                   "category": "natural",
                   "coords": [
                         -76.541922,
@@ -7589,7 +7589,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Tyndall's Point Park",
-                  "text": "Parcul Tyndall's Point este un parc în Yorktown care oferă vederi asupra râului York.",
+                  "text": "Parcul la gura râului York, cu vedere spre Golful Chesapeake.",
                   "category": "park",
                   "coords": [
                         -76.50248,
@@ -7598,7 +7598,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chesapeake Bay National Estuarine Research Reserve - Goodwin Islands",
-                  "text": "Rezervația Națională de Cercetare Estuarică a Golfului Chesapeake - Insulele Goodwin este o rezervație protejată de cercetare estuarică lângă Yorktown, care cuprinde Insulele Goodwin.",
+                  "text": "Rezervația Națională de Cercetare Estuară a Golfului Chesapeake - Insulele Goodwin este o rezervație de cercetare pe Insulele Goodwin din Battlefield.",
                   "category": "natural",
                   "coords": [
                         -76.401955,
@@ -7607,7 +7607,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Back Creek Park",
-                  "text": "Parcul Back Creek este un parc în Yorktown de-a lungul pârâului Back Creek.",
+                  "text": "Parcul de-a lungul unui pârâu de maree cu debarcader de pescuit.",
                   "category": "park",
                   "coords": [
                         -76.439684,
@@ -7625,7 +7625,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Yorktown Beach",
-                  "text": "Plaja Yorktown este o plajă publică de-a lungul râului York în Yorktown.",
+                  "text": "Plaja Yorktown este o plajă nisipoasă pe râul York, lângă câmpul de luptă istoric de la Yorktown din Battlefield.",
                   "category": "recreational",
                   "coords": [
                         -76.505799,
@@ -7634,7 +7634,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Colonial National Historic Park Yorktown Battlefield Visitor Center",
-                  "text": "Centrul de Vizitatori al Câmpului de Bătălie de la Yorktown din Parcul Istoric Național Colonial este centrul de vizitare pentru câmpul de luptă de la Yorktown din Parcul Istoric Național Colonial din Yorktown.",
+                  "text": "Centrul de vizitatori al câmpului de luptă de la Yorktown, locul asediului decisiv din 1781 al Războiului de Independență al Americii.",
                   "category": "museum",
                   "coords": [
                         -76.502422,
@@ -7652,7 +7652,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "On-The-Hill Cultural Arts Center",
-                  "text": "Centrul de Arte Culturale On-The-Hill este un centru de arte culturale situat pe o colină în Yorktown.",
+                  "text": "Centru de arte culturale găzduit într-o clădire pe deal, cu vedere spre Battlefield.",
                   "category": "cultural",
                   "coords": [
                         -76.508286,
@@ -7670,7 +7670,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Auntie M's American Cottage",
-                  "text": "Auntie M's American Cottage este o galerie de artă într-o căsuță în Yorktown.",
+                  "text": "Muzeu amplasat într-o căsuță americană istorică în Battlefield.",
                   "category": "museum",
                   "coords": [
                         -76.508868,
@@ -7679,7 +7679,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Artillery Amphitheater",
-                  "text": "Amfiteatrul de Artilerie este un amfiteatru folosit pentru demonstrații de artilerie în Yorktown.",
+                  "text": "Amfiteatru în aer liber pentru demonstrații de artilerie pe câmpul de luptă.",
                   "category": "cultural",
                   "coords": [
                         -76.516447,
@@ -7688,7 +7688,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Wolf Trap Park",
-                  "text": "Parcul Wolf Trap este un parc în Yorktown.",
+                  "text": "Parcul cu trasee naturale și un iaz.",
                   "category": "park",
                   "coords": [
                         -76.462316,
@@ -7697,7 +7697,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chisman Creek Park",
-                  "text": "Parcul Chisman Creek este un parc de-a lungul pârâului Chisman Creek în Yorktown.",
+                  "text": "Parcul de-a lungul unui afluent al râului York.",
                   "category": "park",
                   "coords": [
                         -76.459657,
@@ -7708,7 +7708,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Lee Hall Roadside Park",
-                  "text": "Lee Hall Roadside Park is a small park along the road in Yorktown.",
+                  "text": "Small roadside park along Route 60.",
                   "category": "park",
                   "coords": [
                         -76.553841,
@@ -7717,7 +7717,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Butler Creek",
-                  "text": "Butler Creek is a tidal creek in Yorktown.",
+                  "text": "Creek flowing through the Battlefield area.",
                   "category": "landmark",
                   "coords": [
                         -76.445503,
@@ -7744,7 +7744,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "York River Cliffs",
-                  "text": "York River Cliffs are scenic cliffs along the York River in Yorktown.",
+                  "text": "Cliffs offering views of the York River.",
                   "category": "landmark",
                   "coords": [
                         -76.520229,
@@ -7762,7 +7762,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Woodside Park",
-                  "text": "Woodside Park is a public park in Yorktown.",
+                  "text": "Park with wooded trails and picnic areas.",
                   "category": "park",
                   "coords": [
                         -76.527174,
@@ -7771,7 +7771,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "American Revolution Museum at Yorktown",
-                  "text": "American Revolution Museum at Yorktown tells the story of the American Revolution.",
+                  "text": "The American Revolution Museum at Yorktown in Battlefield details the decisive Yorktown battle.",
                   "category": "museum",
                   "coords": [
                         -76.518321,
@@ -7780,7 +7780,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Newport News Park",
-                  "text": "Newport News Park is a large park in the Newport News area near Yorktown.",
+                  "text": "One of the largest municipal parks in Virginia, with a lake and trails.",
                   "category": "park",
                   "coords": [
                         -76.485819,
@@ -7789,7 +7789,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Discovery Center",
-                  "text": "Discovery Center is a museum in Yorktown with interactive exhibits.",
+                  "text": "The Discovery Center is a hands-on museum at the Yorktown battlefield in Battlefield.",
                   "category": "museum",
                   "coords": [
                         -76.537195,
@@ -7798,7 +7798,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Skiffe's Creek Redoubt",
-                  "text": "Skiffe's Creek Redoubt is a Revolutionary War battlefield site at Yorktown.",
+                  "text": "Skiffe's Creek Redoubt is a field fortification on Skiffe's Creek in Battlefield.",
                   "category": "landmark",
                   "coords": [
                         -76.57586,
@@ -7807,7 +7807,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lee Hall Mansion",
-                  "text": "Lee Hall Mansion is a historic house museum in Yorktown.",
+                  "text": "Lee Hall Mansion is a historic mansion used as a Confederate headquarters during the Civil War in Battlefield.",
                   "category": "museum",
                   "coords": [
                         -76.575597,
@@ -7816,7 +7816,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lee Hall Train Depot",
-                  "text": "Lee Hall Train Depot is a museum in a historic train station in Yorktown.",
+                  "text": "Restored 1880s railroad station.",
                   "category": "museum",
                   "coords": [
                         -76.572633,
@@ -7825,7 +7825,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Charles E Brown Park",
-                  "text": "Charles E Brown Park is a community park in Yorktown.",
+                  "text": "Park with athletic fields and a playground.",
                   "category": "park",
                   "coords": [
                         -76.550178,
@@ -7834,7 +7834,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Endview Plantation",
-                  "text": "Endview Plantation is a historic plantation house museum in Yorktown.",
+                  "text": "Endview Plantation is a plantation house from the Civil War era in Battlefield.",
                   "category": "museum",
                   "coords": [
                         -76.569157,
@@ -7843,7 +7843,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chesapeake Bay National Estuarine Research Reserve - Catlett Islands",
-                  "text": "Chesapeake Bay National Estuarine Research Reserve - Catlett Islands protects marshlands in the Chesapeake Bay.",
+                  "text": "The Chesapeake Bay National Estuarine Research Reserve - Catlett Islands is a protected estuarine reserve on the Catlett Islands in Battlefield.",
                   "category": "natural",
                   "coords": [
                         -76.54857,
@@ -7852,7 +7852,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Machicomoco State Park",
-                  "text": "Machicomoco State Park is a state park offering outdoor recreation and cultural history.",
+                  "text": "Machicomoco State Park is a state park along the York River in Battlefield.",
                   "category": "natural",
                   "coords": [
                         -76.541922,
@@ -7870,7 +7870,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Tyndall's Point Park",
-                  "text": "Tyndall's Point Park is a park in Yorktown offering views of the York River.",
+                  "text": "Park at the mouth of the York River with views of the Chesapeake Bay.",
                   "category": "park",
                   "coords": [
                         -76.50248,
@@ -7879,7 +7879,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chesapeake Bay National Estuarine Research Reserve - Goodwin Islands",
-                  "text": "The Chesapeake Bay National Estuarine Research Reserve - Goodwin Islands is a protected estuarine research reserve near Yorktown encompassing the Goodwin Islands.",
+                  "text": "The Chesapeake Bay National Estuarine Research Reserve - Goodwin Islands is a research reserve on the Goodwin Islands in Battlefield.",
                   "category": "natural",
                   "coords": [
                         -76.401955,
@@ -7888,7 +7888,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Back Creek Park",
-                  "text": "Back Creek Park is a park in Yorktown along Back Creek.",
+                  "text": "Park along a tidal creek with fishing pier.",
                   "category": "park",
                   "coords": [
                         -76.439684,
@@ -7906,7 +7906,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Yorktown Beach",
-                  "text": "Yorktown Beach is a public beach along the York River in Yorktown.",
+                  "text": "Yorktown Beach is a sandy beach on the York River near the historic Yorktown battlefield in Battlefield.",
                   "category": "recreational",
                   "coords": [
                         -76.505799,
@@ -7915,7 +7915,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Colonial National Historic Park Yorktown Battlefield Visitor Center",
-                  "text": "Colonial National Historic Park Yorktown Battlefield Visitor Center is the visitor center for the Yorktown Battlefield in Colonial National Historical Park in Yorktown.",
+                  "text": "Visitor center for the Yorktown Battlefield, site of the decisive 1781 siege of the American Revolution.",
                   "category": "museum",
                   "coords": [
                         -76.502422,
@@ -7933,7 +7933,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "On-The-Hill Cultural Arts Center",
-                  "text": "On-The-Hill Cultural Arts Center is a cultural arts center located on a hill in Yorktown.",
+                  "text": "Cultural arts center housed in a hilltop building overlooking Battlefield.",
                   "category": "cultural",
                   "coords": [
                         -76.508286,
@@ -7951,7 +7951,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Auntie M's American Cottage",
-                  "text": "Auntie M's American Cottage is an art gallery in a cottage in Yorktown.",
+                  "text": "Museum set in a historic American cottage in Battlefield.",
                   "category": "museum",
                   "coords": [
                         -76.508868,
@@ -7960,7 +7960,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Artillery Amphitheater",
-                  "text": "Artillery Amphitheater is an amphitheater used for artillery demonstrations in Yorktown.",
+                  "text": "Open-air amphitheater used for artillery demonstrations on the Battlefield.",
                   "category": "cultural",
                   "coords": [
                         -76.516447,
@@ -7969,7 +7969,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Wolf Trap Park",
-                  "text": "Wolf Trap Park is a park in Yorktown.",
+                  "text": "Park with nature trails and a pond.",
                   "category": "park",
                   "coords": [
                         -76.462316,
@@ -7978,7 +7978,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chisman Creek Park",
-                  "text": "Chisman Creek Park is a park along Chisman Creek in Yorktown.",
+                  "text": "Park along a tributary of the York River.",
                   "category": "park",
                   "coords": [
                         -76.459657,
@@ -8047,7 +8047,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Fralin Museum of Art",
-                  "text": "Das Fralin Museum of Art ist ein Kunstmuseum an der University of Virginia in Charlottesville.",
+                  "text": "Museum mit europäischer und amerikanischer Kunst an der Universität von Virginia.",
                   "category": "museum",
                   "coords": [
                         -78.503062,
@@ -8065,7 +8065,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "James Monroe's Highland",
-                  "text": "James Monroe's Highland ist das historische Wohnhaus von Präsident James Monroe in der Nähe von Charlottesville.",
+                  "text": "Historische Plantage und Wohnhaus von Präsident James Monroe nahe Charlottesville.",
                   "category": "landmark",
                   "coords": [
                         -78.458698,
@@ -8074,7 +8074,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mount Jefferson",
-                  "text": "Mount Jefferson ist ein Gipfel in Virginia, benannt nach Thomas Jefferson.",
+                  "text": "480 Meter hoher Berg in der Blue Ridge Mountains.",
                   "category": "natural",
                   "coords": [
                         -78.522378,
@@ -8083,7 +8083,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Market Street Park",
-                  "text": "Market Street Park ist ein öffentlicher Park in der Innenstadt von Charlottesville.",
+                  "text": "Stadtpark mit einer Statue von Lewis und Clark.",
                   "category": "park",
                   "coords": [
                         -78.480618,
@@ -8092,7 +8092,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Court Square Park",
-                  "text": "Court Square Park ist ein historischer Park in Charlottesville.",
+                  "text": "Kleiner Park im historischen Stadtzentrum, Standort eines ehemaligen Sklavenversteigerungsblocks.",
                   "category": "park",
                   "coords": [
                         -78.478085,
@@ -8101,7 +8101,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Kluge-Ruhe Aboriginal Art Collection",
-                  "text": "Kluge-Ruhe Aboriginal Art Collection ist eine Galerie in Charlottesville, die sich der australischen Aborigine-Kunst widmet.",
+                  "text": "Museum mit der größten Sammlung australischer Aborigine-Kunst in den USA.",
                   "category": "museum",
                   "coords": [
                         -78.442626,
@@ -8110,7 +8110,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Michie Tavern",
-                  "text": "Michie Tavern ist ein historisches Wirtshaus und Museum in der Nähe von Monticello.",
+                  "text": "Ein restauriertes Wirtshaus aus dem 18. Jahrhundert, das heute als Museum dient und Kolonialmahlzeiten anbietet, an der Straße nach Monticello gelegen.",
                   "category": "museum",
                   "coords": [
                         -78.463685,
@@ -8119,7 +8119,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Virginia Discovery Museum",
-                  "text": "Virginia Discovery Museum ist ein Kindermuseum in Charlottesville.",
+                  "text": "Ein interaktives Kindermuseum mit Mitmachausstellungen auf der Downtown Mall in Charlottesville bei Monticello.",
                   "category": "museum",
                   "coords": [
                         -78.478015,
@@ -8128,7 +8128,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Albemarle County Office Building",
-                  "text": "Albemarle County Office Building ist das Verwaltungsgebäude für Albemarle County in Charlottesville.",
+                  "text": "Historisches Regierungsgebäude mit Kreisverwaltungsbüros, im Stadtzentrum von Charlottesville unweit des historischen Gerichtsgebäudes.",
                   "category": "historical",
                   "coords": [
                         -78.483578,
@@ -8137,7 +8137,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "The Jefferson Theatre",
-                  "text": "The Jefferson Theatre ist ein historisches Filmtheater in Charlottesville.",
+                  "text": "Ein restauriertes historisches Theater auf der Downtown Mall in Charlottesville, das Filme und Live-Aufführungen zeigt.",
                   "category": "cultural",
                   "coords": [
                         -78.481427,
@@ -8146,7 +8146,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Trinity Presbyterian Church",
-                  "text": "Trinity Presbyterian Church ist eine Kirche in Charlottesville.",
+                  "text": "Presbyterianische Kirche im neugotischen Stil an der Rugby Road nahe des Campus der University of Virginia.",
                   "category": "religious",
                   "coords": [
                         -78.535223,
@@ -8155,7 +8155,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "The Paramount Theater",
-                  "text": "The Paramount Theater ist eine Veranstaltungsstätte für darstellende Kunst in Charlottesville.",
+                  "text": "Ein restauriertes Art-Deco-Theater auf der Downtown Mall in Charlottesville, das Konzerte und Filme bietet.",
                   "category": "cultural",
                   "coords": [
                         -78.480029,
@@ -8164,7 +8164,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "First Baptist Church",
-                  "text": "First Baptist Church ist eine historische Kirche in Charlottesville.",
+                  "text": "Historische afroamerikanische Baptistengemeinde in Charlottesville, nahe der University of Virginia.",
                   "category": "religious",
                   "coords": [
                         -78.489583,
@@ -8173,7 +8173,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Ridge Street Historic District",
-                  "text": "Ridge Street Historic District ist ein historisches Viertel in Charlottesville.",
+                  "text": "Historisches Viertel mit viktorianischen Häusern aus dem späten 19. Jahrhundert in Charlottesville.",
                   "category": "landmark",
                   "coords": [
                         -78.491401,
@@ -8182,7 +8182,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Rugby Road-University Corner Historic District",
-                  "text": "Rugby Road-University Corner Historic District ist ein historischer Bezirk nahe der University of Virginia.",
+                  "text": "Historisches Viertel mit Geschäfts- und Wohngebäuden aus dem frühen 20. Jahrhundert nahe der University of Virginia.",
                   "category": "landmark",
                   "coords": [
                         -78.50029,
@@ -8191,7 +8191,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Stillhouse Mountain",
-                  "text": "Stillhouse Mountain ist ein Gipfel in den Blue Ridge Mountains nahe Charlottesville.",
+                  "text": "Berggipfel in der Blue Ridge Kette bei Monticello, dessen Name auf eine ehemalige Brennerei hinweist.",
                   "category": "natural",
                   "coords": [
                         -78.518068,
@@ -8200,7 +8200,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Sugarloaf Mountain",
-                  "text": "Sugarloaf Mountain ist ein Gipfel im Albemarle County, Virginia.",
+                  "text": "Berg mit einem charakteristischen Zuckerhutprofil in der Blue Ridge Kette bei Monticello.",
                   "category": "natural",
                   "coords": [
                         -78.367231,
@@ -8209,7 +8209,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Long Mountain",
-                  "text": "Long Mountain ist ein Gipfel in den Blue Ridge Mountains nahe Charlottesville.",
+                  "text": "Langgestreckter Bergrücken in der Blue Ridge Kette bei Monticello.",
                   "category": "natural",
                   "coords": [
                         -78.374731,
@@ -8218,7 +8218,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Wolfpit Mountain",
-                  "text": "Wolfpit Mountain ist ein Gipfel im Albemarle County, Virginia.",
+                  "text": "Berg, dessen Name auf eine Wolfsgrube hinweist, in der Blue Ridge Kette bei Monticello.",
                   "category": "natural",
                   "coords": [
                         -78.400287,
@@ -8227,7 +8227,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Trevillian Mountain",
-                  "text": "Trevillian Mountain ist ein Gipfel in der Gegend von Monticello.",
+                  "text": "Berg, benannt nach der Familie Trevillian, in der Blue Ridge Kette bei Monticello.",
                   "category": "natural",
                   "coords": [
                         -78.410843,
@@ -8236,7 +8236,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Piney Mountain",
-                  "text": "Piney Mountain ist ein Gipfel in der Gegend von Monticello.",
+                  "text": "Bewaldeter Berg mit Kiefernbestand in der Blue Ridge Kette bei Monticello.",
                   "category": "natural",
                   "coords": [
                         -78.556376,
@@ -8245,7 +8245,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Carters Mountain",
-                  "text": "Carters Mountain ist ein Gipfel in der Gegend von Monticello.",
+                  "text": "Berg nahe der Carter's Bridge, Teil der Blue Ridge Kette bei Monticello.",
                   "category": "natural",
                   "coords": [
                         -78.489809,
@@ -8254,7 +8254,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Patterson Mountain",
-                  "text": "Patterson Mountain ist ein Gipfel in der Gegend von Monticello.",
+                  "text": "Berg, benannt nach einer örtlichen Familie, in der Blue Ridge Kette bei Monticello.",
                   "category": "natural",
                   "coords": [
                         -78.464178,
@@ -8263,7 +8263,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Round Top",
-                  "text": "Round Top ist ein Gipfel in der Gegend von Monticello.",
+                  "text": "Runder Gipfel in der Blue Ridge Kette bei Monticello.",
                   "category": "natural",
                   "coords": [
                         -78.555014,
@@ -8272,7 +8272,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lewis Mountain",
-                  "text": "Lewis Mountain ist ein Gipfel in der Gegend von Monticello.",
+                  "text": "Berg, benannt nach der Familie Lewis, in der Blue Ridge Kette bei Monticello.",
                   "category": "natural",
                   "coords": [
                         -78.521023,
@@ -8281,7 +8281,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Britts Mountain",
-                  "text": "Britts Mountain ist ein Gipfel in der Gegend von Monticello.",
+                  "text": "Berg, benannt nach der Familie Britt, in der Blue Ridge Kette bei Monticello.",
                   "category": "natural",
                   "coords": [
                         -78.564736,
@@ -8290,7 +8290,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Meade Park",
-                  "text": "Meade Park ist ein Park in der Gegend von Monticello.",
+                  "text": "Nachbarschaftspark mit Baseballfeldern und Spielplätzen im Meade-Viertel von Charlottesville.",
                   "category": "park",
                   "coords": [
                         -78.46505,
@@ -8299,7 +8299,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Greenbrier Park",
-                  "text": "Greenbrier Park ist ein Park in der Gegend von Monticello.",
+                  "text": "Park mit Wanderwegen und einem Teich im Greenbrier-Gebiet von Charlottesville.",
                   "category": "park",
                   "coords": [
                         -78.471509,
@@ -8308,7 +8308,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Azalea Park",
-                  "text": "Azalea Park ist ein Park in der Gegend von Monticello.",
+                  "text": "Park, bekannt für seine Azaleenblüte im Frühling, im Azalea-Viertel von Charlottesville.",
                   "category": "park",
                   "coords": [
                         -78.515287,
@@ -8317,7 +8317,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Frys Spring Park",
-                  "text": "Frys Spring Park ist ein Park in der Gegend von Monticello.",
+                  "text": "Park um eine natürliche Quelle, im Fry's Spring-Gebiet von Charlottesville.",
                   "category": "park",
                   "coords": [
                         -78.51437,
@@ -8326,7 +8326,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Benjamin Tonsler Park",
-                  "text": "Benjamin Tonsler Park ist ein Park in der Gegend von Monticello.",
+                  "text": "Park zu Ehren des Pädagogen Benjamin Tonsler, mit Basketballplätzen und einem Spielplatz.",
                   "category": "park",
                   "coords": [
                         -78.490722,
@@ -8335,7 +8335,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Jordan Park",
-                  "text": "Jordan Park ist ein Park in der Gegend von Monticello.",
+                  "text": "Gemeinschaftspark mit einem Schwimmbad und Sportplätzen in Charlottesville.",
                   "category": "park",
                   "coords": [
                         -78.487715,
@@ -8344,7 +8344,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Rives Park",
-                  "text": "Rives Park ist ein Park in der Gegend von Monticello.",
+                  "text": "Park mit offenen Wiesen und Picknickplätzen, benannt nach der Familie Rives.",
                   "category": "park",
                   "coords": [
                         -78.470613,
@@ -8353,7 +8353,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Quarry Park",
-                  "text": "Quarry Park ist ein Park in der Gegend von Monticello.",
+                  "text": "Park auf dem Gelände eines ehemaligen Steinbruchs, mit Felsformationen.",
                   "category": "park",
                   "coords": [
                         -78.476964,
@@ -8362,7 +8362,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Belmont Park",
-                  "text": "Belmont Park ist ein Park in der Gegend von Monticello.",
+                  "text": "Park im historischen Belmont-Viertel von Charlottesville.",
                   "category": "park",
                   "coords": [
                         -78.481542,
@@ -8382,7 +8382,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Fralin Museum of Art",
-                  "text": "A Fralin Museum of Art egy művészeti múzeum a Virginiai Egyetemen, Charlottesville-ben.",
+                  "text": "Múzeum európai és amerikai művészettel a Virginiai Egyetemen.",
                   "category": "museum",
                   "coords": [
                         -78.503062,
@@ -8400,7 +8400,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "James Monroe's Highland",
-                  "text": "James Monroe's Highland James Monroe elnök történelmi otthona Charlottesville közelében.",
+                  "text": "James Monroe elnök történelmi ültetvénye és otthona Charlottesville közelében.",
                   "category": "landmark",
                   "coords": [
                         -78.458698,
@@ -8409,7 +8409,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mount Jefferson",
-                  "text": "A Mount Jefferson egy csúcs Virginiában, Thomas Jeffersonról elnevezve.",
+                  "text": "480 méteres hegy a Blue Ridge-hegységben.",
                   "category": "natural",
                   "coords": [
                         -78.522378,
@@ -8418,7 +8418,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Market Street Park",
-                  "text": "A Market Street Park egy nyilvános park Charlottesville belvárosában.",
+                  "text": "Városi park Lewis és Clark szobrával.",
                   "category": "park",
                   "coords": [
                         -78.480618,
@@ -8427,7 +8427,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Court Square Park",
-                  "text": "A Court Square Park egy történelmi park Charlottesville-ben.",
+                  "text": "Kis park a történelmi belvárosban, egykori rabszolga-árverési helyszín.",
                   "category": "park",
                   "coords": [
                         -78.478085,
@@ -8436,7 +8436,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Kluge-Ruhe Aboriginal Art Collection",
-                  "text": "A Kluge-Ruhe Aboriginal Art Collection egy galéria Charlottesville-ben, amely az ausztrál őslakos művészetre specializálódott.",
+                  "text": "Múzeum, amely az ausztrál bennszülött művészet legnagyobb gyűjteményét őrzi az Egyesült Államokban.",
                   "category": "museum",
                   "coords": [
                         -78.442626,
@@ -8445,7 +8445,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Michie Tavern",
-                  "text": "A Michie Tavern egy történelmi fogadó és múzeum Monticello közelében.",
+                  "text": "Egy helyreállított 18. századi fogadó, amely ma múzeumként üzemel, gyarmati ételeket kínál, a Monticellóba vezető út mellett.",
                   "category": "museum",
                   "coords": [
                         -78.463685,
@@ -8454,7 +8454,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Virginia Discovery Museum",
-                  "text": "A Virginia Discovery Museum egy gyermekmúzeum Charlottesville-ben.",
+                  "text": "Interaktív gyermekmúzeum gyakorlati kiállításokkal, a Charlottesville-i Downtown Mallon, Monticello közelében.",
                   "category": "museum",
                   "coords": [
                         -78.478015,
@@ -8463,7 +8463,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Albemarle County Office Building",
-                  "text": "Az Albemarle County Office Building az Albemarle megye adminisztratív épülete Charlottesville-ben.",
+                  "text": "Történelmi megyei kormányzati épület irodákkal, Charlottesville belvárosában, a történelmi bíróság közelében.",
                   "category": "historical",
                   "coords": [
                         -78.483578,
@@ -8472,7 +8472,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "The Jefferson Theatre",
-                  "text": "A The Jefferson Theatre egy történelmi mozi Charlottesville-ben.",
+                  "text": "Egy felújított történelmi színház a Charlottesville-i Downtown Mallon, filmeket és élő előadásokat kínálva.",
                   "category": "cultural",
                   "coords": [
                         -78.481427,
@@ -8481,7 +8481,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Trinity Presbyterian Church",
-                  "text": "A Trinity Presbyterian Church egy templom Charlottesville-ben.",
+                  "text": "Presbiteriánus templom neogótikus stílusban, a Rugby Roadon, a Virginiai Egyetem campusa közelében.",
                   "category": "religious",
                   "coords": [
                         -78.535223,
@@ -8490,7 +8490,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "The Paramount Theater",
-                  "text": "A The Paramount Theater egy előadóművészeti helyszín Charlottesville-ben.",
+                  "text": "Egy felújított art déco színház a Charlottesville-i Downtown Mallon, koncertekkel és filmvetítésekkel.",
                   "category": "cultural",
                   "coords": [
                         -78.480029,
@@ -8499,7 +8499,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "First Baptist Church",
-                  "text": "A First Baptist Church egy történelmi templom Charlottesville-ben.",
+                  "text": "Történelmi afroamerikai baptista gyülekezet Charlottesville-ben, a Virginiai Egyetem közelében.",
                   "category": "religious",
                   "coords": [
                         -78.489583,
@@ -8508,7 +8508,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Ridge Street Historic District",
-                  "text": "A Ridge Street Historic District egy történelmi negyed Charlottesville-ben.",
+                  "text": "Történelmi negyed késő 19. századi viktoriánus házakkal Charlottesville-ben.",
                   "category": "landmark",
                   "coords": [
                         -78.491401,
@@ -8517,7 +8517,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Rugby Road-University Corner Historic District",
-                  "text": "A Rugby Road-University Corner Historic District egy történelmi kerület a Virginiai Egyetem közelében.",
+                  "text": "Történelmi negyed kora 20. századi kereskedelmi és lakóépületekkel a Virginiai Egyetem közelében.",
                   "category": "landmark",
                   "coords": [
                         -78.50029,
@@ -8526,7 +8526,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Stillhouse Mountain",
-                  "text": "A Stillhouse Mountain egy csúcs a Blue Ridge-hegységben, Charlottesville közelében.",
+                  "text": "Hegycsúcs a Blue Ridge hegységben Monticello közelében; neve egykori szeszfőzdére utal.",
                   "category": "natural",
                   "coords": [
                         -78.518068,
@@ -8535,7 +8535,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Sugarloaf Mountain",
-                  "text": "A Sugarloaf Mountain egy csúcs Albemarle megyében, Virginiában.",
+                  "text": "Hegy jellegzetes cukorsüveg formájával a Blue Ridge hegységben, Monticello közelében.",
                   "category": "natural",
                   "coords": [
                         -78.367231,
@@ -8544,7 +8544,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Long Mountain",
-                  "text": "A Long Mountain egy csúcs a Blue Ridge-hegységben, Charlottesville közelében.",
+                  "text": "Hosszúkás gerinc a Blue Ridge hegységben, Monticello közelében.",
                   "category": "natural",
                   "coords": [
                         -78.374731,
@@ -8553,7 +8553,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Wolfpit Mountain",
-                  "text": "A Wolfpit Mountain egy csúcs Albemarle megyében, Virginiában.",
+                  "text": "Hegy, melynek neve farkasveremre utal, a Blue Ridge hegységben Monticello közelében.",
                   "category": "natural",
                   "coords": [
                         -78.400287,
@@ -8562,7 +8562,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Trevillian Mountain",
-                  "text": "A Trevillian Mountain egy csúcs a Monticello környékén.",
+                  "text": "Hegy, amely a Trevillian családról kapta a nevét, a Blue Ridge hegységben Monticello közelében.",
                   "category": "natural",
                   "coords": [
                         -78.410843,
@@ -8571,7 +8571,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Piney Mountain",
-                  "text": "A Piney Mountain egy csúcs a Monticello környékén.",
+                  "text": "Erdős hegy fenyőkkel a Blue Ridge hegységben, Monticello közelében.",
                   "category": "natural",
                   "coords": [
                         -78.556376,
@@ -8580,7 +8580,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Carters Mountain",
-                  "text": "A Carters Mountain egy csúcs a Monticello környékén.",
+                  "text": "Hegy a Carter's Bridge közelében, a Blue Ridge hegység része Monticello mellett.",
                   "category": "natural",
                   "coords": [
                         -78.489809,
@@ -8589,7 +8589,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Patterson Mountain",
-                  "text": "A Patterson Mountain egy csúcs a Monticello környékén.",
+                  "text": "Hegy, amely egy helyi családról kapta a nevét, a Blue Ridge hegységben Monticello közelében.",
                   "category": "natural",
                   "coords": [
                         -78.464178,
@@ -8598,7 +8598,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Round Top",
-                  "text": "A Round Top egy csúcs a Monticello környékén.",
+                  "text": "Kerek tetejű csúcs a Blue Ridge hegységben, Monticello közelében.",
                   "category": "natural",
                   "coords": [
                         -78.555014,
@@ -8607,7 +8607,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lewis Mountain",
-                  "text": "A Lewis Mountain egy csúcs a Monticello környékén.",
+                  "text": "Hegy, amely a Lewis családról kapta a nevét, a Blue Ridge hegységben Monticello közelében.",
                   "category": "natural",
                   "coords": [
                         -78.521023,
@@ -8616,7 +8616,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Britts Mountain",
-                  "text": "A Britts Mountain egy csúcs a Monticello környékén.",
+                  "text": "Hegy, amely a Britt családról kapta a nevét, a Blue Ridge hegységben Monticello közelében.",
                   "category": "natural",
                   "coords": [
                         -78.564736,
@@ -8625,7 +8625,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Meade Park",
-                  "text": "A Meade Park egy park a Monticello környékén.",
+                  "text": "Környéki park baseballpályákkal és játszóterekkel, a charlottesville-i Meade negyedben.",
                   "category": "park",
                   "coords": [
                         -78.46505,
@@ -8634,7 +8634,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Greenbrier Park",
-                  "text": "A Greenbrier Park egy park a Monticello környékén.",
+                  "text": "Park sétányokkal és egy tóval, a charlottesville-i Greenbrier területen.",
                   "category": "park",
                   "coords": [
                         -78.471509,
@@ -8643,7 +8643,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Azalea Park",
-                  "text": "Az Azalea Park egy park a Monticello környékén.",
+                  "text": "Park, amely tavasszal azáleavirágzásáról híres, a charlottesville-i Azalea negyedben.",
                   "category": "park",
                   "coords": [
                         -78.515287,
@@ -8652,7 +8652,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Frys Spring Park",
-                  "text": "A Frys Spring Park egy park a Monticello környékén.",
+                  "text": "Park egy természetes forrás körül, a charlottesville-i Fry's Spring területen.",
                   "category": "park",
                   "coords": [
                         -78.51437,
@@ -8661,7 +8661,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Benjamin Tonsler Park",
-                  "text": "A Benjamin Tonsler Park egy park a Monticello környékén.",
+                  "text": "Park Benjamin Tonsler oktató tiszteletére, kosárlabdapályákkal és játszótérrel.",
                   "category": "park",
                   "coords": [
                         -78.490722,
@@ -8670,7 +8670,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Jordan Park",
-                  "text": "A Jordan Park egy park a Monticello környékén.",
+                  "text": "Közösségi park uszodával és sportpályákkal Charlottesville-ben.",
                   "category": "park",
                   "coords": [
                         -78.487715,
@@ -8679,7 +8679,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Rives Park",
-                  "text": "A Rives Park egy park a Monticello környékén.",
+                  "text": "Park nyílt mezőkkel és piknikezőhelyekkel, a Rives családról elnevezve.",
                   "category": "park",
                   "coords": [
                         -78.470613,
@@ -8688,7 +8688,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Quarry Park",
-                  "text": "A Quarry Park egy park a Monticello környékén.",
+                  "text": "Park egykori kőbánya helyén, sziklaformációkkal.",
                   "category": "park",
                   "coords": [
                         -78.476964,
@@ -8697,7 +8697,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Belmont Park",
-                  "text": "A Belmont Park egy park a Monticello környékén.",
+                  "text": "Park a charlottesville-i történelmi Belmont negyedben.",
                   "category": "park",
                   "coords": [
                         -78.481542,
@@ -8717,7 +8717,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Fralin Museum of Art",
-                  "text": "Fralin Museum of Art este un muzeu de artă la Universitatea din Virginia din Charlottesville.",
+                  "text": "Muzeu cu artă europeană și americană la Universitatea din Virginia.",
                   "category": "museum",
                   "coords": [
                         -78.503062,
@@ -8735,7 +8735,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "James Monroe's Highland",
-                  "text": "James Monroe's Highland este casa istorică a președintelui James Monroe lângă Charlottesville.",
+                  "text": "Plantația istorică și casa președintelui James Monroe, lângă Charlottesville.",
                   "category": "landmark",
                   "coords": [
                         -78.458698,
@@ -8744,7 +8744,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mount Jefferson",
-                  "text": "Mount Jefferson este un vârf în Virginia, numit după Thomas Jefferson.",
+                  "text": "Munte de 480 de metri în Munții Blue Ridge.",
                   "category": "natural",
                   "coords": [
                         -78.522378,
@@ -8753,7 +8753,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Market Street Park",
-                  "text": "Market Street Park este un parc public în centrul orașului Charlottesville.",
+                  "text": "Parcul urban cu o statuie a lui Lewis și Clark.",
                   "category": "park",
                   "coords": [
                         -78.480618,
@@ -8762,7 +8762,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Court Square Park",
-                  "text": "Court Square Park este un parc istoric în Charlottesville.",
+                  "text": "Parcul mic în centrul istoric, locul unei foste piețe de sclavi.",
                   "category": "park",
                   "coords": [
                         -78.478085,
@@ -8771,7 +8771,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Kluge-Ruhe Aboriginal Art Collection",
-                  "text": "Kluge-Ruhe Aboriginal Art Collection este o galerie din Charlottesville dedicată artei aborigene australiene.",
+                  "text": "Muzeu care deține cea mai mare colecție de artă aborigenă australiană din Statele Unite.",
                   "category": "museum",
                   "coords": [
                         -78.442626,
@@ -8780,7 +8780,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Michie Tavern",
-                  "text": "Michie Tavern este un han istoric și muzeu lângă Monticello.",
+                  "text": "O tavernă restaurată din secolul al XVIII-lea, care funcționează ca muzeu și servește mâncăruri coloniale, situată pe drumul către Monticello.",
                   "category": "museum",
                   "coords": [
                         -78.463685,
@@ -8789,7 +8789,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Virginia Discovery Museum",
-                  "text": "Virginia Discovery Museum este un muzeu pentru copii în Charlottesville.",
+                  "text": "Un muzeu interactiv pentru copii cu exponate practice, situat pe Downtown Mall din Charlottesville, lângă Monticello.",
                   "category": "museum",
                   "coords": [
                         -78.478015,
@@ -8798,7 +8798,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Albemarle County Office Building",
-                  "text": "Albemarle County Office Building este clădirea administrativă pentru comitatul Albemarle din Charlottesville.",
+                  "text": "Clădire guvernamentală istorică ce găzduiește birouri ale administrației comitatului, în centrul orașului Charlottesville, lângă tribunalul istoric.",
                   "category": "historical",
                   "coords": [
                         -78.483578,
@@ -8807,7 +8807,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "The Jefferson Theatre",
-                  "text": "The Jefferson Theatre este un cinematograf istoric în Charlottesville.",
+                  "text": "Un teatru istoric restaurat pe Downtown Mall din Charlottesville, care găzduiește filme și spectacole live.",
                   "category": "cultural",
                   "coords": [
                         -78.481427,
@@ -8816,7 +8816,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Trinity Presbyterian Church",
-                  "text": "Trinity Presbyterian Church este o biserică în Charlottesville.",
+                  "text": "Biserică prezbiteriană în stil gotic revival, pe Rugby Road, lângă campusul Universității din Virginia.",
                   "category": "religious",
                   "coords": [
                         -78.535223,
@@ -8825,7 +8825,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "The Paramount Theater",
-                  "text": "The Paramount Theater este un loc de spectacole în Charlottesville.",
+                  "text": "Un teatru art deco restaurat pe Downtown Mall din Charlottesville, care prezintă concerte și filme.",
                   "category": "cultural",
                   "coords": [
                         -78.480029,
@@ -8834,7 +8834,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "First Baptist Church",
-                  "text": "First Baptist Church este o biserică istorică în Charlottesville.",
+                  "text": "Biserică baptistă afro-americană istorică în Charlottesville, lângă Universitatea din Virginia.",
                   "category": "religious",
                   "coords": [
                         -78.489583,
@@ -8843,7 +8843,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Ridge Street Historic District",
-                  "text": "Ridge Street Historic District este un cartier istoric în Charlottesville.",
+                  "text": "District istoric cu case victoriene de la sfârșitul secolului al XIX-lea în Charlottesville.",
                   "category": "landmark",
                   "coords": [
                         -78.491401,
@@ -8852,7 +8852,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Rugby Road-University Corner Historic District",
-                  "text": "Rugby Road-University Corner Historic District este un district istoric lângă Universitatea din Virginia.",
+                  "text": "District istoric cu clădiri comerciale și rezidențiale de la începutul secolului XX, lângă Universitatea din Virginia.",
                   "category": "landmark",
                   "coords": [
                         -78.50029,
@@ -8861,7 +8861,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Stillhouse Mountain",
-                  "text": "Stillhouse Mountain este un vârf în Munții Blue Ridge, lângă Charlottesville.",
+                  "text": "Vârf de munte în lanțul Blue Ridge lângă Monticello; numele sugerează o fostă instalație de distilare.",
                   "category": "natural",
                   "coords": [
                         -78.518068,
@@ -8870,7 +8870,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Sugarloaf Mountain",
-                  "text": "Sugarloaf Mountain este un vârf în comitatul Albemarle, Virginia.",
+                  "text": "Munte cu un profil distinctiv de „sugarloaf” în lanțul Blue Ridge, lângă Monticello.",
                   "category": "natural",
                   "coords": [
                         -78.367231,
@@ -8879,7 +8879,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Long Mountain",
-                  "text": "Long Mountain este un vârf în Munții Blue Ridge, lângă Charlottesville.",
+                  "text": "Creastă alungită în lanțul Blue Ridge, lângă Monticello.",
                   "category": "natural",
                   "coords": [
                         -78.374731,
@@ -8888,7 +8888,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Wolfpit Mountain",
-                  "text": "Wolfpit Mountain este un vârf în comitatul Albemarle, Virginia.",
+                  "text": "Munte al cărui nume se referă la o groapă pentru lupi, în lanțul Blue Ridge lângă Monticello.",
                   "category": "natural",
                   "coords": [
                         -78.400287,
@@ -8897,7 +8897,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Trevillian Mountain",
-                  "text": "Muntele Trevillian este un vârf în zona Monticello.",
+                  "text": "Munte numit după familia Trevillian, în lanțul Blue Ridge lângă Monticello.",
                   "category": "natural",
                   "coords": [
                         -78.410843,
@@ -8906,7 +8906,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Piney Mountain",
-                  "text": "Muntele Piney este un vârf în zona Monticello.",
+                  "text": "Munte împădurit cu pini în lanțul Blue Ridge, lângă Monticello.",
                   "category": "natural",
                   "coords": [
                         -78.556376,
@@ -8915,7 +8915,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Carters Mountain",
-                  "text": "Muntele Carters este un vârf în zona Monticello.",
+                  "text": "Munte lângă Carter's Bridge, parte a lanțului Blue Ridge lângă Monticello.",
                   "category": "natural",
                   "coords": [
                         -78.489809,
@@ -8924,7 +8924,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Patterson Mountain",
-                  "text": "Muntele Patterson este un vârf în zona Monticello.",
+                  "text": "Munte numit după o familie locală, în lanțul Blue Ridge lângă Monticello.",
                   "category": "natural",
                   "coords": [
                         -78.464178,
@@ -8933,7 +8933,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Round Top",
-                  "text": "Round Top este un vârf în zona Monticello.",
+                  "text": "Vârf rotunjit în lanțul Blue Ridge, lângă Monticello.",
                   "category": "natural",
                   "coords": [
                         -78.555014,
@@ -8942,7 +8942,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lewis Mountain",
-                  "text": "Muntele Lewis este un vârf în zona Monticello.",
+                  "text": "Munte numit după familia Lewis, în lanțul Blue Ridge lângă Monticello.",
                   "category": "natural",
                   "coords": [
                         -78.521023,
@@ -8951,7 +8951,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Britts Mountain",
-                  "text": "Muntele Britts este un vârf în zona Monticello.",
+                  "text": "Munte numit după familia Britt, în lanțul Blue Ridge lângă Monticello.",
                   "category": "natural",
                   "coords": [
                         -78.564736,
@@ -8960,7 +8960,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Meade Park",
-                  "text": "Parcul Meade este un parc în zona Monticello.",
+                  "text": "Parchet de cartier cu terenuri de baseball și locuri de joacă, în cartierul Meade din Charlottesville.",
                   "category": "park",
                   "coords": [
                         -78.46505,
@@ -8969,7 +8969,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Greenbrier Park",
-                  "text": "Parcul Greenbrier este un parc în zona Monticello.",
+                  "text": "Parchet cu poteci de plimbare și un iaz, în zona Greenbrier din Charlottesville.",
                   "category": "park",
                   "coords": [
                         -78.471509,
@@ -8978,7 +8978,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Azalea Park",
-                  "text": "Parcul Azalea este un parc în zona Monticello.",
+                  "text": "Parchet renumit pentru înflorirea azaleelor primăvara, în cartierul Azalea din Charlottesville.",
                   "category": "park",
                   "coords": [
                         -78.515287,
@@ -8987,7 +8987,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Frys Spring Park",
-                  "text": "Parcul Frys Spring este un parc în zona Monticello.",
+                  "text": "Parchet în jurul unui izvor natural, în zona Fry's Spring din Charlottesville.",
                   "category": "park",
                   "coords": [
                         -78.51437,
@@ -8996,7 +8996,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Benjamin Tonsler Park",
-                  "text": "Parcul Benjamin Tonsler este un parc în zona Monticello.",
+                  "text": "Parchet în onoarea educatorului Benjamin Tonsler, cu terenuri de baschet și un loc de joacă.",
                   "category": "park",
                   "coords": [
                         -78.490722,
@@ -9005,7 +9005,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Jordan Park",
-                  "text": "Parcul Jordan este un parc în zona Monticello.",
+                  "text": "Parchet comunitar cu piscină și terenuri sportive în Charlottesville.",
                   "category": "park",
                   "coords": [
                         -78.487715,
@@ -9014,7 +9014,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Rives Park",
-                  "text": "Parcul Rives este un parc în zona Monticello.",
+                  "text": "Parchet cu terenuri deschise și zone de picnic, numit după familia Rives.",
                   "category": "park",
                   "coords": [
                         -78.470613,
@@ -9023,7 +9023,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Quarry Park",
-                  "text": "Parcul Quarry este un parc în zona Monticello.",
+                  "text": "Parchet construit pe locul unei foste cariere, cu formațiuni stâncoase.",
                   "category": "park",
                   "coords": [
                         -78.476964,
@@ -9032,7 +9032,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Belmont Park",
-                  "text": "Parcul Belmont este un parc în zona Monticello.",
+                  "text": "Parchet în cartierul istoric Belmont din Charlottesville.",
                   "category": "park",
                   "coords": [
                         -78.481542,
@@ -9052,7 +9052,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Fralin Museum of Art",
-                  "text": "The Fralin Museum of Art is an art museum at the University of Virginia in Charlottesville.",
+                  "text": "Museum featuring European and American art at the University of Virginia.",
                   "category": "museum",
                   "coords": [
                         -78.503062,
@@ -9070,7 +9070,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "James Monroe's Highland",
-                  "text": "James Monroe's Highland is the historic home of President James Monroe near Charlottesville.",
+                  "text": "Historic plantation home of President James Monroe near Charlottesville.",
                   "category": "landmark",
                   "coords": [
                         -78.458698,
@@ -9079,7 +9079,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mount Jefferson",
-                  "text": "Mount Jefferson is a peak in Virginia named after Thomas Jefferson.",
+                  "text": "1,600-foot mountain in the Blue Ridge Mountains.",
                   "category": "natural",
                   "coords": [
                         -78.522378,
@@ -9088,7 +9088,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Market Street Park",
-                  "text": "Market Street Park is a public park in downtown Charlottesville.",
+                  "text": "Downtown park with a statue of Lewis and Clark.",
                   "category": "park",
                   "coords": [
                         -78.480618,
@@ -9097,7 +9097,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Court Square Park",
-                  "text": "Court Square Park is a historic park in Charlottesville.",
+                  "text": "Small park in historic downtown, site of a former slave auction block.",
                   "category": "park",
                   "coords": [
                         -78.478085,
@@ -9106,7 +9106,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Kluge-Ruhe Aboriginal Art Collection",
-                  "text": "Kluge-Ruhe Aboriginal Art Collection is a gallery in Charlottesville dedicated to Aboriginal Australian art.",
+                  "text": "Museum housing the largest collection of Australian Aboriginal art in the United States.",
                   "category": "museum",
                   "coords": [
                         -78.442626,
@@ -9115,7 +9115,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Michie Tavern",
-                  "text": "Michie Tavern is a historic tavern and museum near Monticello.",
+                  "text": "A restored 18th-century tavern museum serving colonial-style meals, located on the road to Monticello.",
                   "category": "museum",
                   "coords": [
                         -78.463685,
@@ -9124,7 +9124,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Virginia Discovery Museum",
-                  "text": "Virginia Discovery Museum is a children's museum in Charlottesville.",
+                  "text": "An interactive children's museum with hands-on exhibits, located on the Downtown Mall in Charlottesville near Monticello.",
                   "category": "museum",
                   "coords": [
                         -78.478015,
@@ -9133,7 +9133,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Albemarle County Office Building",
-                  "text": "Albemarle County Office Building is the administrative building for Albemarle County in Charlottesville.",
+                  "text": "Historic county government building with administrative offices, in downtown Charlottesville near the historic courthouse.",
                   "category": "historical",
                   "coords": [
                         -78.483578,
@@ -9142,7 +9142,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "The Jefferson Theatre",
-                  "text": "The Jefferson Theatre is a historic movie theater in Charlottesville.",
+                  "text": "A restored historic theater on the Downtown Mall in Charlottesville, hosting films and live performances.",
                   "category": "cultural",
                   "coords": [
                         -78.481427,
@@ -9151,7 +9151,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Trinity Presbyterian Church",
-                  "text": "Trinity Presbyterian Church is a church in Charlottesville.",
+                  "text": "A Presbyterian church with Gothic Revival architecture, located on Rugby Road near the University of Virginia campus.",
                   "category": "religious",
                   "coords": [
                         -78.535223,
@@ -9160,7 +9160,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "The Paramount Theater",
-                  "text": "The Paramount Theater is a performing arts venue in Charlottesville.",
+                  "text": "A restored art deco theater on the Downtown Mall in Charlottesville, presenting concerts and movies.",
                   "category": "cultural",
                   "coords": [
                         -78.480029,
@@ -9169,7 +9169,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "First Baptist Church",
-                  "text": "First Baptist Church is a historic church in Charlottesville.",
+                  "text": "Historic African American Baptist church in Charlottesville, near the University of Virginia.",
                   "category": "religious",
                   "coords": [
                         -78.489583,
@@ -9178,7 +9178,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Ridge Street Historic District",
-                  "text": "Ridge Street Historic District is a historic neighborhood in Charlottesville.",
+                  "text": "A historic district of late 19th-century Victorian houses in Charlottesville.",
                   "category": "landmark",
                   "coords": [
                         -78.491401,
@@ -9187,7 +9187,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Rugby Road-University Corner Historic District",
-                  "text": "Rugby Road-University Corner Historic District is a historic district near the University of Virginia.",
+                  "text": "A historic district of early 20th-century commercial and residential buildings near the University of Virginia.",
                   "category": "landmark",
                   "coords": [
                         -78.50029,
@@ -9196,7 +9196,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Stillhouse Mountain",
-                  "text": "Stillhouse Mountain is a peak in the Blue Ridge Mountains near Charlottesville.",
+                  "text": "Mountain peak in the Blue Ridge Range near Monticello, its name suggests a former still.",
                   "category": "natural",
                   "coords": [
                         -78.518068,
@@ -9205,7 +9205,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Sugarloaf Mountain",
-                  "text": "Sugarloaf Mountain is a peak in Albemarle County, Virginia.",
+                  "text": "Mountain with a distinctive sugarloaf shape in the Blue Ridge near Monticello.",
                   "category": "natural",
                   "coords": [
                         -78.367231,
@@ -9214,7 +9214,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Long Mountain",
-                  "text": "Long Mountain is a peak in the Blue Ridge Mountains near Charlottesville.",
+                  "text": "Elongated ridge peak in the Blue Ridge near Monticello.",
                   "category": "natural",
                   "coords": [
                         -78.374731,
@@ -9223,7 +9223,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Wolfpit Mountain",
-                  "text": "Wolfpit Mountain is a peak in Albemarle County, Virginia.",
+                  "text": "Mountain named after a wolf pit, in the Blue Ridge near Monticello.",
                   "category": "natural",
                   "coords": [
                         -78.400287,
@@ -9232,7 +9232,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Trevillian Mountain",
-                  "text": "Trevillian Mountain is a peak in the Monticello area.",
+                  "text": "Mountain named after the Trevillian family, in the Blue Ridge near Monticello.",
                   "category": "natural",
                   "coords": [
                         -78.410843,
@@ -9241,7 +9241,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Piney Mountain",
-                  "text": "Piney Mountain is a peak in the Monticello area.",
+                  "text": "Forested mountain with pine trees, in the Blue Ridge near Monticello.",
                   "category": "natural",
                   "coords": [
                         -78.556376,
@@ -9250,7 +9250,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Carters Mountain",
-                  "text": "Carters Mountain is a peak in the Monticello area.",
+                  "text": "Mountain near Carter's Bridge, part of the Blue Ridge near Monticello.",
                   "category": "natural",
                   "coords": [
                         -78.489809,
@@ -9259,7 +9259,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Patterson Mountain",
-                  "text": "Patterson Mountain is a peak in the Monticello area.",
+                  "text": "Mountain named after a local family, in the Blue Ridge near Monticello.",
                   "category": "natural",
                   "coords": [
                         -78.464178,
@@ -9268,7 +9268,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Round Top",
-                  "text": "Round Top is a peak in the Monticello area.",
+                  "text": "Round-topped summit in the Blue Ridge near Monticello.",
                   "category": "natural",
                   "coords": [
                         -78.555014,
@@ -9277,7 +9277,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lewis Mountain",
-                  "text": "Lewis Mountain is a peak in the Monticello area.",
+                  "text": "Mountain named after the Lewis family, in the Blue Ridge near Monticello.",
                   "category": "natural",
                   "coords": [
                         -78.521023,
@@ -9286,7 +9286,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Britts Mountain",
-                  "text": "Britts Mountain is a peak in the Monticello area.",
+                  "text": "Mountain named after the Britt family, in the Blue Ridge near Monticello.",
                   "category": "natural",
                   "coords": [
                         -78.564736,
@@ -9295,7 +9295,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Meade Park",
-                  "text": "Meade Park is a park in the Monticello area.",
+                  "text": "Neighborhood park with baseball fields and playgrounds, located in the Meade area of Charlottesville.",
                   "category": "park",
                   "coords": [
                         -78.46505,
@@ -9304,7 +9304,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Greenbrier Park",
-                  "text": "Greenbrier Park is a park in the Monticello area.",
+                  "text": "Park with walking trails and a pond, located in the Greenbrier area of Charlottesville.",
                   "category": "park",
                   "coords": [
                         -78.471509,
@@ -9313,7 +9313,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Azalea Park",
-                  "text": "Azalea Park is a park in the Monticello area.",
+                  "text": "Park known for its azalea blooms in spring, in the Azalea neighborhood of Charlottesville.",
                   "category": "park",
                   "coords": [
                         -78.515287,
@@ -9322,7 +9322,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Frys Spring Park",
-                  "text": "Frys Spring Park is a park in the Monticello area.",
+                  "text": "Park around a natural spring, located in the Fry's Spring area of Charlottesville.",
                   "category": "park",
                   "coords": [
                         -78.51437,
@@ -9331,7 +9331,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Benjamin Tonsler Park",
-                  "text": "Benjamin Tonsler Park is a park in the Monticello area.",
+                  "text": "Park honoring educator Benjamin Tonsler, with basketball courts and a playground.",
                   "category": "park",
                   "coords": [
                         -78.490722,
@@ -9340,7 +9340,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Jordan Park",
-                  "text": "Jordan Park is a park in the Monticello area.",
+                  "text": "Community park with a pool and sports fields in Charlottesville.",
                   "category": "park",
                   "coords": [
                         -78.487715,
@@ -9349,7 +9349,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Rives Park",
-                  "text": "Rives Park is a park in the Monticello area.",
+                  "text": "Park with open fields and picnic areas, named after the Rives family.",
                   "category": "park",
                   "coords": [
                         -78.470613,
@@ -9358,7 +9358,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Quarry Park",
-                  "text": "Quarry Park is a park in the Monticello area.",
+                  "text": "Park built on a former quarry site, with rock formations.",
                   "category": "park",
                   "coords": [
                         -78.476964,
@@ -9367,7 +9367,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Belmont Park",
-                  "text": "Belmont Park is a park in the Monticello area.",
+                  "text": "Park in the historic Belmont neighborhood of Charlottesville.",
                   "category": "park",
                   "coords": [
                         -78.481542,
@@ -9427,7 +9427,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Battle of North Point",
-                  "text": "Das Battle of North Point Museum zeigt die Schlacht von North Point in Fort-McHenry-History-v2.",
+                  "text": "Museum auf dem Schlachtfeld des Krieges von 1812 vor dem Angriff auf Fort McHenry.",
                   "category": "museum",
                   "coords": [
                         -76.486926,
@@ -9436,7 +9436,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort Carroll",
-                  "text": "Fort Carroll ist eine künstliche Inselbefestigung in Fort-McHenry-History-v2.",
+                  "text": "Festung aus dem 19. Jahrhundert auf einer künstlichen Insel im Patapsco River.",
                   "category": "fortress",
                   "coords": [
                         -76.519206,
@@ -9445,7 +9445,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort Armistead",
-                  "text": "Fort Armistead ist eine Küstenbefestigung in Fort-McHenry-History-v2.",
+                  "text": "Historische Küstenverteidigungsfestung nahe der Einfahrt zum Baltimore Harbor.",
                   "category": "fortress",
                   "coords": [
                         -76.533928,
@@ -9454,7 +9454,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Casimir Catholic Church",
-                  "text": "Die Saint Casimir Catholic Church ist eine katholische Kirche in Fort-McHenry-History-v2.",
+                  "text": "Römisch-katholische Kirche der litauischen Gemeinde in Baltimore.",
                   "category": "religious",
                   "coords": [
                         -76.577527,
@@ -9463,7 +9463,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Thoms Cove",
-                  "text": "Thoms Cove ist eine Bucht in Fort-McHenry-History-v2.",
+                  "text": "Kleine Bucht im Patapsco River nahe Fort Carroll.",
                   "category": "landmark",
                   "coords": [
                         -76.54663,
@@ -9472,7 +9472,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Hanover Street Bridge",
-                  "text": "Die Hanover Street Bridge ist eine Brücke in Fort-McHenry-History-v2.",
+                  "text": "Klappbrücke über den Patapsco River.",
                   "category": "landmark",
                   "coords": [
                         -76.616064,
@@ -9481,7 +9481,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "SS John W. Brown",
-                  "text": "Die SS John W. Brown ist ein Museumsschiff in Fort-McHenry-History-v2.",
+                  "text": "Restauriertes Liberty-Schiff aus dem Zweiten Weltkrieg, im Baltimore Harbor vertäut.",
                   "category": "landmark",
                   "coords": [
                         -76.569885,
@@ -9499,7 +9499,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lazaretto Point Light",
-                  "text": "Das Lazaretto Point Light ist ein Leuchtturm in Fort-McHenry-History-v2.",
+                  "text": "Historischer Leuchtturm am Patapsco River bei Baltimore.",
                   "category": "landmark",
                   "coords": [
                         -76.571546,
@@ -9508,7 +9508,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Baltimore Museum of Industry",
-                  "text": "Das Baltimore Museum of Industry zeigt die Industriegeschichte in Fort-McHenry-History-v2.",
+                  "text": "Museum in einer ehemaligen Austernkonservenfabrik, das Baltimores Industriegeschichte zeigt.",
                   "category": "museum",
                   "coords": [
                         -76.6009,
@@ -9517,7 +9517,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort McHenry",
-                  "text": "Fort McHenry ist ein historisches Fort in Fort-McHenry-History-v2.",
+                  "text": "Sternförmige Festung von 1776, Geburtsort der US-Nationalhymne.",
                   "category": "fortress",
                   "coords": [
                         -76.579942,
@@ -9526,7 +9526,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Smith Cove",
-                  "text": "Smith Cove ist eine Bucht in Fort-McHenry-History-v2.",
+                  "text": "Eine natürliche Bucht an der Chesapeake Bay in McHenry.",
                   "category": "landmark",
                   "coords": [
                         -76.630801,
@@ -9535,7 +9535,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Club Cove",
-                  "text": "Club Cove ist eine Bucht in Fort-McHenry-History-v2.",
+                  "text": "Eine kleine Bucht mit einem Gemeinschaftsclubhaus in McHenry.",
                   "category": "landmark",
                   "coords": [
                         -76.474683,
@@ -9544,7 +9544,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Winans Cove",
-                  "text": "Winans Cove ist eine Bucht in Fort-McHenry-History-v2.",
+                  "text": "Eine nach der Familie Winans benannte Bucht an der Chesapeake Bay in McHenry.",
                   "category": "landmark",
                   "coords": [
                         -76.601633,
@@ -9553,7 +9553,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Stonehouse Cove",
-                  "text": "Stonehouse Cove ist eine Bucht in Fort-McHenry-History-v2.",
+                  "text": "Eine Bucht mit einem historischen Steinhaus an der Chesapeake Bay in McHenry.",
                   "category": "landmark",
                   "coords": [
                         -76.579409,
@@ -9562,7 +9562,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Curtis Bay",
-                  "text": "Curtis Bay ist eine Bucht in Fort-McHenry-History-v2.",
+                  "text": "Eine Bucht in der Chesapeake Bay, Standort der Coast Guard Station Curtis Bay.",
                   "category": "landmark",
                   "coords": [
                         -76.564687,
@@ -9571,7 +9571,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Joseph E. Lee Park",
-                  "text": "Der Joseph E. Lee Park ist ein Park in Fort-McHenry-History-v2.",
+                  "text": "Park mit Spielplatz und Sportplätzen, benannt nach einem lokalen Politiker.",
                   "category": "park",
                   "coords": [
                         -76.541747,
@@ -9580,7 +9580,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Battle Grove Park",
-                  "text": "Der Battle Grove Park ist ein Park in Fort-McHenry-History-v2.",
+                  "text": "Park mit einem bewaldeten Hain, möglicherweise ein historisches Schlachtfeldgelände.",
                   "category": "park",
                   "coords": [
                         -76.469482,
@@ -9589,7 +9589,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Soller's Point Multi Purpose Center",
-                  "text": "Das Soller's Point Multi Purpose Center ist ein Park in Fort-McHenry-History-v2.",
+                  "text": "Park mit einem Mehrzweck-Gemeindezentrum und Erholungsfeldern.",
                   "category": "park",
                   "coords": [
                         -76.508246,
@@ -9598,7 +9598,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bear Creek Park",
-                  "text": "Bear Creek Park ist ein Park im Fort McHenry Gebiet von Baltimore.",
+                  "text": "Park entlang des Bear Creek, mit Wanderwegen und Angelmöglichkeiten.",
                   "category": "park",
                   "coords": [
                         -76.487612,
@@ -9616,7 +9616,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Garrett Park",
-                  "text": "Garrett Park ist ein Park im Fort McHenry Gebiet von Baltimore.",
+                  "text": "Park, benannt nach der Familie Garrett, mit Picknicktischen und einem Spielbereich.",
                   "category": "park",
                   "coords": [
                         -76.607238,
@@ -9625,7 +9625,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lakeland Park",
-                  "text": "Lakeland Park ist ein Park im Fort McHenry Gebiet von Baltimore.",
+                  "text": "Lakeland Park in Mchenry ist ein Park mit einem See und Waldwegen.",
                   "category": "park",
                   "coords": [
                         -76.641043,
@@ -9634,7 +9634,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Latrobe Park",
-                  "text": "Latrobe Park ist ein Park im Fort McHenry Gebiet von Baltimore.",
+                  "text": "Latrobe Park in Mchenry ist ein Gemeindepark mit Spielplatz und Picknickplatz.",
                   "category": "park",
                   "coords": [
                         -76.59361,
@@ -9643,7 +9643,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bay Brook Park",
-                  "text": "Bay Brook Park ist ein Park im Fort McHenry Gebiet von Baltimore.",
+                  "text": "Bay Brook Park in Mchenry liegt an einem Bach und hat einen Naturlehrpfad.",
                   "category": "park",
                   "coords": [
                         -76.59517,
@@ -9652,7 +9652,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort Armistead Park",
-                  "text": "Fort Armistead Park ist ein historischer Park im Fort McHenry Gebiet von Baltimore.",
+                  "text": "Fort Armistead Park in Mchenry erinnert an das historische Fort Armistead.",
                   "category": "park",
                   "coords": [
                         -76.53657,
@@ -9670,7 +9670,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Battle of North Point Memorial Museum",
-                  "text": "Das Battle of North Point Memorial Museum erinnert an die Schlacht von North Point im Krieg von 1812.",
+                  "text": "Museum zur Erinnerung an die Schlacht von North Point im Krieg von 1812, in der Nähe von Fort McHenry.",
                   "category": "museum",
                   "coords": [
                         -76.484753,
@@ -9679,7 +9679,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Baltimore Immigration Museum",
-                  "text": "Das Baltimore Immigration Museum dokumentiert die Einwanderungsgeschichte der Stadt.",
+                  "text": "Museum zur Geschichte der Einwanderung nach Baltimore in McHenry.",
                   "category": "museum",
                   "coords": [
                         -76.593785,
@@ -9688,7 +9688,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Skylofts Gallery & Artist Space",
-                  "text": "Die Skylofts Gallery & Artist Space ist eine Kunstgalerie und ein Künstlerraum in Baltimore.",
+                  "text": "Galerie und Künstlerwerkstatt mit Loft-Ateliers und Oberlichtern in McHenry.",
                   "category": "museum",
                   "coords": [
                         -76.566242,
@@ -9706,7 +9706,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Dundalk - Patapsco Neck Historical Society and Museum",
-                  "text": "Das Dundalk - Patapsco Neck Historical Society and Museum bewahrt die Geschichte der Region Dundalk und Patapsco Neck.",
+                  "text": "Museum der örtlichen historischen Gesellschaft zum Gebiet von Dundalk und Patapsco Neck.",
                   "category": "museum",
                   "coords": [
                         -76.52319,
@@ -9724,7 +9724,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort McHenry Visitor Center",
-                  "text": "Das Fort McHenry Visitor Center informiert Besucher über das historische Fort McHenry.",
+                  "text": "Besucherzentrum in Fort McHenry, dem Geburtsort der US-Nationalhymne.",
                   "category": "museum",
                   "coords": [
                         -76.579609,
@@ -9733,7 +9733,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Creative Alliance at the Patterson",
-                  "text": "Creative Alliance at the Patterson ist ein Kunst- und Kulturzentrum im Patterson Theater in Baltimore.",
+                  "text": "Kreativkunststätte im historischen Patterson Theater in McHenry.",
                   "category": "museum",
                   "coords": [
                         -76.571795,
@@ -9753,7 +9753,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Battle of North Point",
-                  "text": "A Battle of North Point múzeum a North Point-i csatát mutatja be Fort-McHenry-History-v2-ben.",
+                  "text": "Múzeum az 1812-es háború csataterén, Fort McHenry ágyúzása előtti helyszín.",
                   "category": "museum",
                   "coords": [
                         -76.486926,
@@ -9762,7 +9762,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort Carroll",
-                  "text": "Fort Carroll egy mesterséges szigeterőd Fort-McHenry-History-v2-ben.",
+                  "text": "19. századi erőd egy mesterséges szigeten a Patapsco folyón.",
                   "category": "fortress",
                   "coords": [
                         -76.519206,
@@ -9771,7 +9771,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort Armistead",
-                  "text": "Fort Armistead egy parti erőd Fort-McHenry-History-v2-ben.",
+                  "text": "Történelmi partvédelmi erőd a Baltimore Harbor bejáratához közel.",
                   "category": "fortress",
                   "coords": [
                         -76.533928,
@@ -9780,7 +9780,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Casimir Catholic Church",
-                  "text": "A Saint Casimir Catholic Church egy katolikus templom Fort-McHenry-History-v2-ben.",
+                  "text": "A baltimore-i litván közösség római katolikus temploma.",
                   "category": "religious",
                   "coords": [
                         -76.577527,
@@ -9789,7 +9789,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Thoms Cove",
-                  "text": "A Thoms Cove egy öböl Fort-McHenry-History-v2-ben.",
+                  "text": "Kis öböl a Patapsco folyón, Fort Carroll közelében.",
                   "category": "landmark",
                   "coords": [
                         -76.54663,
@@ -9798,7 +9798,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Hanover Street Bridge",
-                  "text": "A Hanover Street Bridge egy híd Fort-McHenry-History-v2-ben.",
+                  "text": "Felvonóhíd a Patapsco folyón.",
                   "category": "landmark",
                   "coords": [
                         -76.616064,
@@ -9807,7 +9807,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "SS John W. Brown",
-                  "text": "Az SS John W. Brown egy múzeumhajó Fort-McHenry-History-v2-ben.",
+                  "text": "Helyreállított második világháborús Liberty hajó, a Baltimore Harborban kikötve.",
                   "category": "landmark",
                   "coords": [
                         -76.569885,
@@ -9825,7 +9825,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lazaretto Point Light",
-                  "text": "A Lazaretto Point Light egy világítótorony Fort-McHenry-History-v2-ben.",
+                  "text": "Történelmi világítótorony a Patapsco folyón, Baltimore közelében.",
                   "category": "landmark",
                   "coords": [
                         -76.571546,
@@ -9834,7 +9834,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Baltimore Museum of Industry",
-                  "text": "A Baltimore Museum of Industry az ipar történetét mutatja be Fort-McHenry-History-v2-ben.",
+                  "text": "Múzeum egy egykori osztrigakonzervgyárban, amely Baltimore ipartörténetét mutatja be.",
                   "category": "museum",
                   "coords": [
                         -76.6009,
@@ -9843,7 +9843,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort McHenry",
-                  "text": "Fort McHenry egy történelmi erőd Fort-McHenry-History-v2-ben.",
+                  "text": "Csillag alakú erőd 1776-ból, az amerikai nemzeti himnusz szülőhelye.",
                   "category": "fortress",
                   "coords": [
                         -76.579942,
@@ -9852,7 +9852,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Smith Cove",
-                  "text": "A Smith Cove egy öböl Fort-McHenry-History-v2-ben.",
+                  "text": "Természetes öböl a Chesapeake-öbölben, McHenry közelében.",
                   "category": "landmark",
                   "coords": [
                         -76.630801,
@@ -9861,7 +9861,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Club Cove",
-                  "text": "A Club Cove egy öböl Fort-McHenry-History-v2-ben.",
+                  "text": "Egy kis öböl közösségi klubházzal McHenry-ben.",
                   "category": "landmark",
                   "coords": [
                         -76.474683,
@@ -9870,7 +9870,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Winans Cove",
-                  "text": "A Winans Cove egy öböl Fort-McHenry-History-v2-ben.",
+                  "text": "A Winans családról elnevezett öböl a Chesapeake-öbölben, McHenry közelében.",
                   "category": "landmark",
                   "coords": [
                         -76.601633,
@@ -9879,7 +9879,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Stonehouse Cove",
-                  "text": "A Stonehouse Cove egy öböl Fort-McHenry-History-v2-ben.",
+                  "text": "Öböl egy történelmi kőházzal a Chesapeake-öbölben, McHenry közelében.",
                   "category": "landmark",
                   "coords": [
                         -76.579409,
@@ -9888,7 +9888,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Curtis Bay",
-                  "text": "A Curtis Bay egy öböl Fort-McHenry-History-v2-ben.",
+                  "text": "Öböl a Chesapeake-öbölben, a Curtis Bay-i parti őrség állomásának helyszíne.",
                   "category": "landmark",
                   "coords": [
                         -76.564687,
@@ -9897,7 +9897,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Joseph E. Lee Park",
-                  "text": "A Joseph E. Lee Park egy park Fort-McHenry-History-v2-ben.",
+                  "text": "Park játszótérrel és sportpályákkal, egy helyi politikusról elnevezve.",
                   "category": "park",
                   "coords": [
                         -76.541747,
@@ -9906,7 +9906,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Battle Grove Park",
-                  "text": "A Battle Grove Park egy park Fort-McHenry-History-v2-ben.",
+                  "text": "Park erdős ligettel, lehetséges történelmi csatatér területe.",
                   "category": "park",
                   "coords": [
                         -76.469482,
@@ -9915,7 +9915,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Soller's Point Multi Purpose Center",
-                  "text": "A Soller's Point Multi Purpose Center egy park Fort-McHenry-History-v2-ben.",
+                  "text": "Park többcélú közösségi központtal és rekreációs mezőkkel.",
                   "category": "park",
                   "coords": [
                         -76.508246,
@@ -9924,7 +9924,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bear Creek Park",
-                  "text": "A Bear Creek Park egy park Baltimore Fort McHenry területén.",
+                  "text": "Park a Bear Creek mentén, sétányokkal és horgászlehetőségekkel.",
                   "category": "park",
                   "coords": [
                         -76.487612,
@@ -9942,7 +9942,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Garrett Park",
-                  "text": "A Garrett Park egy park Baltimore Fort McHenry területén.",
+                  "text": "Park a Garrett családról elnevezve, piknikasztalokkal és játszótérrel.",
                   "category": "park",
                   "coords": [
                         -76.607238,
@@ -9951,7 +9951,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lakeland Park",
-                  "text": "A Lakeland Park egy park Baltimore Fort McHenry területén.",
+                  "text": "A Lakeland Park Mchenryben egy tó melletti park erdei ösvényekkel.",
                   "category": "park",
                   "coords": [
                         -76.641043,
@@ -9960,7 +9960,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Latrobe Park",
-                  "text": "A Latrobe Park egy park Baltimore Fort McHenry területén.",
+                  "text": "A Latrobe Park Mchenryben egy közösségi park játszótérrel és piknikezőhellyel.",
                   "category": "park",
                   "coords": [
                         -76.59361,
@@ -9969,7 +9969,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bay Brook Park",
-                  "text": "A Bay Brook Park egy park Baltimore Fort McHenry területén.",
+                  "text": "A Bay Brook Park Mchenryben egy patak mellett fekszik, természetjáró ösvénnyel.",
                   "category": "park",
                   "coords": [
                         -76.59517,
@@ -9978,7 +9978,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort Armistead Park",
-                  "text": "A Fort Armistead Park egy történelmi park Baltimore Fort McHenry területén.",
+                  "text": "A Fort Armistead Park Mchenryben a történelmi Fort Armisteadre emlékeztet.",
                   "category": "park",
                   "coords": [
                         -76.53657,
@@ -9996,7 +9996,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Battle of North Point Memorial Museum",
-                  "text": "A Battle of North Point Memorial Museum az 1812-es háború north point-i csatájára emlékezik.",
+                  "text": "Múzeum az 1812-es háború north point-i csatájának emlékére, Fort McHenry közelében.",
                   "category": "museum",
                   "coords": [
                         -76.484753,
@@ -10005,7 +10005,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Baltimore Immigration Museum",
-                  "text": "A Baltimore Immigration Museum dokumentálja a város bevándorlástörténetét.",
+                  "text": "Múzeum a Baltimore-ba történő bevándorlás történetének szentelve, McHenryben.",
                   "category": "museum",
                   "coords": [
                         -76.593785,
@@ -10014,7 +10014,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Skylofts Gallery & Artist Space",
-                  "text": "A Skylofts Gallery & Artist Space egy művészeti galéria és művészterem Baltimore-ban.",
+                  "text": "Galéria és művészeti műhely tetőablakos loft stúdiókkal McHenryben.",
                   "category": "museum",
                   "coords": [
                         -76.566242,
@@ -10032,7 +10032,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Dundalk - Patapsco Neck Historical Society and Museum",
-                  "text": "A Dundalk - Patapsco Neck Historical Society and Museum megőrzi a Dundalk és Patapsco Neck régió történelmét.",
+                  "text": "Helyi történelmi társaság múzeuma, amely a Dundalk és Patapsco Neck területére összpontosít.",
                   "category": "museum",
                   "coords": [
                         -76.52319,
@@ -10050,7 +10050,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort McHenry Visitor Center",
-                  "text": "A Fort McHenry Visitor Center tájékoztatja a látogatókat a történelmi Fort McHenry erődről.",
+                  "text": "Látogatóközpont Fort McHenryben, az amerikai himnusz szülőhelyén.",
                   "category": "museum",
                   "coords": [
                         -76.579609,
@@ -10059,7 +10059,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Creative Alliance at the Patterson",
-                  "text": "A Creative Alliance at the Patterson egy művészeti és kulturális központ a baltimore-i Patterson Színházban.",
+                  "text": "Kreatív művészeti helyszín a történelmi Patterson Színházban McHenryben.",
                   "category": "museum",
                   "coords": [
                         -76.571795,
@@ -10079,7 +10079,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Battle of North Point",
-                  "text": "Muzeul Bătăliei de la North Point prezintă bătălia de la North Point în Fort-McHenry-History-v2.",
+                  "text": "Muzeu pe câmpul de luptă al războiului din 1812, anterior bombardării Fort McHenry.",
                   "category": "museum",
                   "coords": [
                         -76.486926,
@@ -10088,7 +10088,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort Carroll",
-                  "text": "Fort Carroll este o fortăreață pe o insulă artificială în Fort-McHenry-History-v2.",
+                  "text": "Fortăreață din secolul al XIX-lea pe o insulă artificială în râul Patapsco.",
                   "category": "fortress",
                   "coords": [
                         -76.519206,
@@ -10097,7 +10097,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort Armistead",
-                  "text": "Fort Armistead este o fortificație de coastă în Fort-McHenry-History-v2.",
+                  "text": "Fortăreață istorică de apărare a coastei lângă intrarea în portul Baltimore.",
                   "category": "fortress",
                   "coords": [
                         -76.533928,
@@ -10106,7 +10106,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Casimir Catholic Church",
-                  "text": "Biserica Saint Casimir este o biserică catolică în Fort-McHenry-History-v2.",
+                  "text": "Biserica romano-catolică a comunității lituaniene din Baltimore.",
                   "category": "religious",
                   "coords": [
                         -76.577527,
@@ -10115,7 +10115,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Thoms Cove",
-                  "text": "Thoms Cove este un golf în Fort-McHenry-History-v2.",
+                  "text": "Golf mic în râul Patapsco, lângă Fort Carroll.",
                   "category": "landmark",
                   "coords": [
                         -76.54663,
@@ -10124,7 +10124,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Hanover Street Bridge",
-                  "text": "Podul Hanover Street este un pod în Fort-McHenry-History-v2.",
+                  "text": "Pod basculant peste râul Patapsco.",
                   "category": "landmark",
                   "coords": [
                         -76.616064,
@@ -10133,7 +10133,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "SS John W. Brown",
-                  "text": "Nava SS John W. Brown este o navă muzeu în Fort-McHenry-History-v2.",
+                  "text": "Navă Liberty restaurată din al Doilea Război Mondial, ancorată în portul Baltimore.",
                   "category": "landmark",
                   "coords": [
                         -76.569885,
@@ -10151,7 +10151,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lazaretto Point Light",
-                  "text": "Farul Lazaretto Point este un far în Fort-McHenry-History-v2.",
+                  "text": "Far istoric pe râul Patapsco, lângă Baltimore.",
                   "category": "landmark",
                   "coords": [
                         -76.571546,
@@ -10160,7 +10160,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Baltimore Museum of Industry",
-                  "text": "Muzeul Industriei din Baltimore prezintă istoria industrială în Fort-McHenry-History-v2.",
+                  "text": "Muzeu într-o fostă fabrică de conserve de stridii, care prezintă istoria industrială a Baltimore-ului.",
                   "category": "museum",
                   "coords": [
                         -76.6009,
@@ -10169,7 +10169,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort McHenry",
-                  "text": "Fort McHenry este o fortăreață istorică în Fort-McHenry-History-v2.",
+                  "text": "Fortăreață în formă de stea din 1776, locul nașterii imnului național al SUA.",
                   "category": "fortress",
                   "coords": [
                         -76.579942,
@@ -10178,7 +10178,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Smith Cove",
-                  "text": "Smith Cove este un golf în Fort-McHenry-History-v2.",
+                  "text": "Un golf natural al golfului Chesapeake, în McHenry.",
                   "category": "landmark",
                   "coords": [
                         -76.630801,
@@ -10187,7 +10187,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Club Cove",
-                  "text": "Club Cove este un golf în Fort-McHenry-History-v2.",
+                  "text": "Un mic golf cu un clubhouse comunitar în McHenry.",
                   "category": "landmark",
                   "coords": [
                         -76.474683,
@@ -10196,7 +10196,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Winans Cove",
-                  "text": "Winans Cove este un golf în Fort-McHenry-History-v2.",
+                  "text": "Un golf numit după familia Winans, pe golful Chesapeake în McHenry.",
                   "category": "landmark",
                   "coords": [
                         -76.601633,
@@ -10205,7 +10205,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Stonehouse Cove",
-                  "text": "Stonehouse Cove este un golf în Fort-McHenry-History-v2.",
+                  "text": "Un golf cu o casă de piatră istorică, pe golful Chesapeake în McHenry.",
                   "category": "landmark",
                   "coords": [
                         -76.579409,
@@ -10214,7 +10214,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Curtis Bay",
-                  "text": "Curtis Bay este un golf în Fort-McHenry-History-v2.",
+                  "text": "Un golf al golfului Chesapeake, locul stației de gardă de coastă Curtis Bay.",
                   "category": "landmark",
                   "coords": [
                         -76.564687,
@@ -10223,7 +10223,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Joseph E. Lee Park",
-                  "text": "Parcul Joseph E. Lee este un parc în Fort-McHenry-History-v2.",
+                  "text": "Parchet cu loc de joacă și terenuri sportive, numit după un politician local.",
                   "category": "park",
                   "coords": [
                         -76.541747,
@@ -10232,7 +10232,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Battle Grove Park",
-                  "text": "Parcul Battle Grove este un parc în Fort-McHenry-History-v2.",
+                  "text": "Parchet cu o dumbravă împădurită, posibil un sit istoric de câmp de luptă.",
                   "category": "park",
                   "coords": [
                         -76.469482,
@@ -10241,7 +10241,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Soller's Point Multi Purpose Center",
-                  "text": "Centrul multifuncțional Soller's Point este un parc în Fort-McHenry-History-v2.",
+                  "text": "Parchet cu un centru comunitar multifuncțional și terenuri de agrement.",
                   "category": "park",
                   "coords": [
                         -76.508246,
@@ -10250,7 +10250,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bear Creek Park",
-                  "text": "Bear Creek Park este un parc în zona Fort McHenry din Baltimore.",
+                  "text": "Parchet de-a lungul Bear Creek, cu poteci de plimbare și posibilități de pescuit.",
                   "category": "park",
                   "coords": [
                         -76.487612,
@@ -10268,7 +10268,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Garrett Park",
-                  "text": "Garrett Park este un parc în zona Fort McHenry din Baltimore.",
+                  "text": "Parchet numit după familia Garrett, cu mese de picnic și un loc de joacă.",
                   "category": "park",
                   "coords": [
                         -76.607238,
@@ -10277,7 +10277,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lakeland Park",
-                  "text": "Lakeland Park este un parc în zona Fort McHenry din Baltimore.",
+                  "text": "Parcul Lakeland din Mchenry este un parc cu lac și poteci forestiere.",
                   "category": "park",
                   "coords": [
                         -76.641043,
@@ -10286,7 +10286,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Latrobe Park",
-                  "text": "Latrobe Park este un parc în zona Fort McHenry din Baltimore.",
+                  "text": "Parcul Latrobe din Mchenry este un parc comunitar cu loc de joacă și zonă de picnic.",
                   "category": "park",
                   "coords": [
                         -76.59361,
@@ -10295,7 +10295,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bay Brook Park",
-                  "text": "Bay Brook Park este un parc în zona Fort McHenry din Baltimore.",
+                  "text": "Parcul Bay Brook din Mchenry este situat lângă un pârâu și are o potecă naturală.",
                   "category": "park",
                   "coords": [
                         -76.59517,
@@ -10304,7 +10304,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort Armistead Park",
-                  "text": "Fort Armistead Park este un parc istoric în zona Fort McHenry din Baltimore.",
+                  "text": "Parcul Fort Armistead din Mchenry amintește de fortul istoric Armistead.",
                   "category": "park",
                   "coords": [
                         -76.53657,
@@ -10322,7 +10322,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Battle of North Point Memorial Museum",
-                  "text": "Battle of North Point Memorial Museum comemorează Bătălia de la North Point din Războiul din 1812.",
+                  "text": "Muzeu care comemorează bătălia de la North Point din Războiul din 1812, lângă Fort McHenry.",
                   "category": "museum",
                   "coords": [
                         -76.484753,
@@ -10331,7 +10331,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Baltimore Immigration Museum",
-                  "text": "Baltimore Immigration Museum documentează istoria imigrației orașului.",
+                  "text": "Muzeu dedicat istoriei imigrației în Baltimore, situat în McHenry.",
                   "category": "museum",
                   "coords": [
                         -76.593785,
@@ -10340,7 +10340,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Skylofts Gallery & Artist Space",
-                  "text": "Skylofts Gallery & Artist Space este o galerie de artă și un spațiu pentru artiști în Baltimore.",
+                  "text": "Galerie și spațiu de lucru pentru artiști cu studiouri tip loft și luminatoare în McHenry.",
                   "category": "museum",
                   "coords": [
                         -76.566242,
@@ -10358,7 +10358,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Dundalk - Patapsco Neck Historical Society and Museum",
-                  "text": "Dundalk - Patapsco Neck Historical Society and Museum păstrează istoria regiunii Dundalk și Patapsco Neck.",
+                  "text": "Muzeul societății istorice locale axat pe zona Dundalk și Patapsco Neck.",
                   "category": "museum",
                   "coords": [
                         -76.52319,
@@ -10376,7 +10376,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort McHenry Visitor Center",
-                  "text": "Fort McHenry Visitor Center informează vizitatorii despre fortul istoric Fort McHenry.",
+                  "text": "Centru de vizitatori la Fort McHenry, locul de naștere al imnului național al SUA.",
                   "category": "museum",
                   "coords": [
                         -76.579609,
@@ -10385,7 +10385,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Creative Alliance at the Patterson",
-                  "text": "Creative Alliance at the Patterson este un centru de artă și cultură la Teatrul Patterson din Baltimore.",
+                  "text": "Locație de arte creative găzduită în istoricul Teatru Patterson din McHenry.",
                   "category": "museum",
                   "coords": [
                         -76.571795,
@@ -10405,7 +10405,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Battle of North Point",
-                  "text": "Battle of North Point museum tells the story of the War of 1812 battle in Fort-McHenry-History-v2.",
+                  "text": "Museum on the War of 1812 battlefield that preceded the bombardment of Fort McHenry.",
                   "category": "museum",
                   "coords": [
                         -76.486926,
@@ -10414,7 +10414,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort Carroll",
-                  "text": "Fort Carroll is an artificial island fort in Fort-McHenry-History-v2.",
+                  "text": "19th-century fort on an artificial island in the Patapsco River.",
                   "category": "fortress",
                   "coords": [
                         -76.519206,
@@ -10423,7 +10423,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort Armistead",
-                  "text": "Fort Armistead is a coastal fortification in Fort-McHenry-History-v2.",
+                  "text": "Historic coastal defense fort near the entrance to Baltimore Harbor.",
                   "category": "fortress",
                   "coords": [
                         -76.533928,
@@ -10432,7 +10432,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Casimir Catholic Church",
-                  "text": "Saint Casimir Catholic Church is a Catholic church in Fort-McHenry-History-v2.",
+                  "text": "Roman Catholic church serving the Lithuanian community in Baltimore.",
                   "category": "religious",
                   "coords": [
                         -76.577527,
@@ -10441,7 +10441,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Thoms Cove",
-                  "text": "Thoms Cove is a bay in Fort-McHenry-History-v2.",
+                  "text": "Small cove in the Patapsco River near Fort Carroll.",
                   "category": "landmark",
                   "coords": [
                         -76.54663,
@@ -10450,7 +10450,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Hanover Street Bridge",
-                  "text": "Hanover Street Bridge is a bridge in Fort-McHenry-History-v2.",
+                  "text": "Bascule bridge over the Patapsco River.",
                   "category": "landmark",
                   "coords": [
                         -76.616064,
@@ -10459,7 +10459,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "SS John W. Brown",
-                  "text": "SS John W. Brown is a museum ship in Fort-McHenry-History-v2.",
+                  "text": "Restored World War II Liberty ship docked in Baltimore Harbor.",
                   "category": "landmark",
                   "coords": [
                         -76.569885,
@@ -10477,7 +10477,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lazaretto Point Light",
-                  "text": "Lazaretto Point Light is a lighthouse in Fort-McHenry-History-v2.",
+                  "text": "Historic lighthouse on the Patapsco River near Baltimore.",
                   "category": "landmark",
                   "coords": [
                         -76.571546,
@@ -10486,7 +10486,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Baltimore Museum of Industry",
-                  "text": "Baltimore Museum of Industry exhibits industrial history in Fort-McHenry-History-v2.",
+                  "text": "Museum in a former oyster cannery, showcasing Baltimore's industrial history.",
                   "category": "museum",
                   "coords": [
                         -76.6009,
@@ -10495,7 +10495,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort McHenry",
-                  "text": "Fort McHenry is a historic fort in Fort-McHenry-History-v2.",
+                  "text": "Star-shaped fort built in 1776, birthplace of the US national anthem.",
                   "category": "fortress",
                   "coords": [
                         -76.579942,
@@ -10504,7 +10504,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Smith Cove",
-                  "text": "Smith Cove is a bay in Fort-McHenry-History-v2.",
+                  "text": "A natural cove on the Chesapeake Bay in McHenry.",
                   "category": "landmark",
                   "coords": [
                         -76.630801,
@@ -10513,7 +10513,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Club Cove",
-                  "text": "Club Cove is a bay in Fort-McHenry-History-v2.",
+                  "text": "A small cove with a community clubhouse in McHenry.",
                   "category": "landmark",
                   "coords": [
                         -76.474683,
@@ -10522,7 +10522,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Winans Cove",
-                  "text": "Winans Cove is a bay in Fort-McHenry-History-v2.",
+                  "text": "A cove named after the Winans family, on the Chesapeake Bay in McHenry.",
                   "category": "landmark",
                   "coords": [
                         -76.601633,
@@ -10531,7 +10531,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Stonehouse Cove",
-                  "text": "Stonehouse Cove is a bay in Fort-McHenry-History-v2.",
+                  "text": "A cove with a historic stone house, on the Chesapeake Bay in McHenry.",
                   "category": "landmark",
                   "coords": [
                         -76.579409,
@@ -10540,7 +10540,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Curtis Bay",
-                  "text": "Curtis Bay is a bay in Fort-McHenry-History-v2.",
+                  "text": "A bay in the Chesapeake, site of the Curtis Bay Coast Guard station.",
                   "category": "landmark",
                   "coords": [
                         -76.564687,
@@ -10549,7 +10549,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Joseph E. Lee Park",
-                  "text": "Joseph E. Lee Park is a park in Fort-McHenry-History-v2.",
+                  "text": "Park with a playground and sports fields, named after a local politician.",
                   "category": "park",
                   "coords": [
                         -76.541747,
@@ -10558,7 +10558,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Battle Grove Park",
-                  "text": "Battle Grove Park is a park in Fort-McHenry-History-v2.",
+                  "text": "Park with a wooded grove, possibly a historic battlefield site.",
                   "category": "park",
                   "coords": [
                         -76.469482,
@@ -10567,7 +10567,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Soller's Point Multi Purpose Center",
-                  "text": "Soller's Point Multi Purpose Center is a park in Fort-McHenry-History-v2.",
+                  "text": "Park with a multi-purpose community center and recreational fields.",
                   "category": "park",
                   "coords": [
                         -76.508246,
@@ -10576,7 +10576,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bear Creek Park",
-                  "text": "Bear Creek Park is a park in the Fort McHenry area of Baltimore.",
+                  "text": "Park along Bear Creek, with walking trails and fishing areas.",
                   "category": "park",
                   "coords": [
                         -76.487612,
@@ -10594,7 +10594,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Garrett Park",
-                  "text": "Garrett Park is a park in the Fort McHenry area of Baltimore.",
+                  "text": "Park named after the Garrett family, with picnic tables and a play area.",
                   "category": "park",
                   "coords": [
                         -76.607238,
@@ -10603,7 +10603,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lakeland Park",
-                  "text": "Lakeland Park is a park in the Fort McHenry area of Baltimore.",
+                  "text": "Lakeland Park in Mchenry is a lakeside park with a lake and forest trails.",
                   "category": "park",
                   "coords": [
                         -76.641043,
@@ -10612,7 +10612,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Latrobe Park",
-                  "text": "Latrobe Park is a park in the Fort McHenry area of Baltimore.",
+                  "text": "Latrobe Park in Mchenry is a community park with a playground and picnic area.",
                   "category": "park",
                   "coords": [
                         -76.59361,
@@ -10621,7 +10621,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bay Brook Park",
-                  "text": "Bay Brook Park is a park in the Fort McHenry area of Baltimore.",
+                  "text": "Bay Brook Park in Mchenry is located along a stream and features a nature trail.",
                   "category": "park",
                   "coords": [
                         -76.59517,
@@ -10630,7 +10630,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort Armistead Park",
-                  "text": "Fort Armistead Park is a historic park in the Fort McHenry area of Baltimore.",
+                  "text": "Fort Armistead Park in Mchenry recalls the historic Fort Armistead.",
                   "category": "park",
                   "coords": [
                         -76.53657,
@@ -10648,7 +10648,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Battle of North Point Memorial Museum",
-                  "text": "The Battle of North Point Memorial Museum commemorates the Battle of North Point in the War of 1812.",
+                  "text": "Museum commemorating the Battle of North Point in the War of 1812, near Fort McHenry.",
                   "category": "museum",
                   "coords": [
                         -76.484753,
@@ -10657,7 +10657,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Baltimore Immigration Museum",
-                  "text": "The Baltimore Immigration Museum documents the immigration history of the city.",
+                  "text": "Museum dedicated to the history of immigration to Baltimore, located in McHenry.",
                   "category": "museum",
                   "coords": [
                         -76.593785,
@@ -10666,7 +10666,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Skylofts Gallery & Artist Space",
-                  "text": "Skylofts Gallery & Artist Space is an art gallery and artist space in Baltimore.",
+                  "text": "Gallery and artist workspace featuring loft-style studios with skylights in McHenry.",
                   "category": "museum",
                   "coords": [
                         -76.566242,
@@ -10684,7 +10684,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Dundalk - Patapsco Neck Historical Society and Museum",
-                  "text": "The Dundalk - Patapsco Neck Historical Society and Museum preserves the history of the Dundalk and Patapsco Neck region.",
+                  "text": "Local historical society museum focused on the Dundalk and Patapsco Neck area.",
                   "category": "museum",
                   "coords": [
                         -76.52319,
@@ -10702,7 +10702,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort McHenry Visitor Center",
-                  "text": "The Fort McHenry Visitor Center informs visitors about the historic Fort McHenry.",
+                  "text": "Visitor center at Fort McHenry, the birthplace of the US national anthem.",
                   "category": "museum",
                   "coords": [
                         -76.579609,
@@ -10711,7 +10711,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Creative Alliance at the Patterson",
-                  "text": "Creative Alliance at the Patterson is an arts and cultural center at the Patterson Theatre in Baltimore.",
+                  "text": "Creative arts venue housed in the historic Patterson Theater in McHenry.",
                   "category": "museum",
                   "coords": [
                         -76.571795,
@@ -10816,7 +10816,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pearl Harbor National Wildlife Refuge",
-                  "text": "Das Pearl Harbor National Wildlife Refuge ist ein Naturschutzgebiet in Pearl Harbor zum Schutz einheimischer Vögel.",
+                  "text": "Schutzgebiet für Küstenfeuchtgebiete an den Ufern von Pearl Harbor.",
                   "category": "natural",
                   "coords": [
                         -158.032239,
@@ -10825,7 +10825,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pearl Harbor National Memorial",
-                  "text": "Das Pearl Harbor National Memorial in Pearl Harbor erinnert an den Angriff auf Pearl Harbor 1941.",
+                  "text": "Das Pearl Harbor National Memorial in Harbor gedenkt der USS Arizona und des Angriffs vom 7. Dezember 1941.",
                   "category": "landmark",
                   "coords": [
                         -157.941705,
@@ -10834,7 +10834,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pearl Harbor Aviation Museum",
-                  "text": "Das Pearl Harbor Aviation Museum ist ein Luftfahrtmuseum in Pearl Harbor.",
+                  "text": "Das Pearl Harbor Aviation Museum auf der Ford Island zeigt Flugzeuge aus dem Zweiten Weltkrieg.",
                   "category": "museum",
                   "coords": [
                         -157.963337,
@@ -10852,7 +10852,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Our Lady Of Good Council",
-                  "text": "Our Lady Of Good Council ist eine Kirche in Pearl Harbor.",
+                  "text": "Our Lady Of Good Council in Harbor ist eine katholische Kirche mit traditionellem Altar.",
                   "category": "religious",
                   "coords": [
                         -157.964785,
@@ -10861,7 +10861,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Wakamiya Inari Shrine",
-                  "text": "Der Wakamiya Inari Schrein ist ein Shinto-Schrein in Pearl Harbor.",
+                  "text": "Wakamiya Inari Shrine in Harbor ist ein Shinto-Schrein mit Torii-Toren.",
                   "category": "religious",
                   "coords": [
                         -158.011514,
@@ -10870,7 +10870,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "City of Refuge Christian Church",
-                  "text": "Die City of Refuge Christian Church ist eine christliche Kirche in Pearl Harbor.",
+                  "text": "City of Refuge Christian Church in Harbor ist eine christliche Kirche mit einem großen Kreuz an der Fassade.",
                   "category": "religious",
                   "coords": [
                         -158.00632,
@@ -10879,7 +10879,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Kalauao Spring",
-                  "text": "Kalauao Spring ist eine natürliche Quelle in Pearl Harbor.",
+                  "text": "Kalauao Spring in Harbor ist eine natürliche Süßwasserquelle, die in den Pearl Harbor fließt.",
                   "category": "landmark",
                   "coords": [
                         -157.942291,
@@ -10888,7 +10888,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Middle Loch",
-                  "text": "Middle Loch ist eine Bucht in Pearl Harbor.",
+                  "text": "Middle Loch ist ein Arm des Pearl Harbor in Harbor, der als Ankerplatz genutzt wird.",
                   "category": "landmark",
                   "coords": [
                         -157.982756,
@@ -10897,7 +10897,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Merry Loch",
-                  "text": "Merry Loch ist eine Bucht in Pearl Harbor.",
+                  "text": "Merry Loch ist ein kleiner Seitenarm des Pearl Harbor in Harbor.",
                   "category": "landmark",
                   "coords": [
                         -157.943662,
@@ -10906,7 +10906,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "East Loch",
-                  "text": "East Loch ist eine Bucht in Pearl Harbor.",
+                  "text": "East Loch ist der östliche Arm des Pearl Harbor in Harbor.",
                   "category": "landmark",
                   "coords": [
                         -157.953408,
@@ -10915,7 +10915,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "West Loch",
-                  "text": "West Loch ist eine Bucht in Pearl Harbor.",
+                  "text": "West Loch ist der westliche Arm des Pearl Harbor in Harbor.",
                   "category": "landmark",
                   "coords": [
                         -158.004025,
@@ -10924,7 +10924,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Southeast Loch",
-                  "text": "Southeast Loch ist eine Bucht in Pearl Harbor.",
+                  "text": "Southeast Loch ist ein südöstlicher Arm des Pearl Harbor in Harbor.",
                   "category": "landmark",
                   "coords": [
                         -157.947432,
@@ -10933,7 +10933,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Magazine Loch",
-                  "text": "Magazine Loch ist eine Bucht in Pearl Harbor.",
+                  "text": "Magazine Loch ist ein Arm des Pearl Harbor in Harbor, benannt nach einem Munitionslager.",
                   "category": "landmark",
                   "coords": [
                         -157.943712,
@@ -10942,7 +10942,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Quarry Loch",
-                  "text": "Quarry Loch ist eine Bucht in Pearl Harbor.",
+                  "text": "Quarry Loch ist ein Arm des Pearl Harbor in Harbor, benannt nach einem Steinbruch.",
                   "category": "landmark",
                   "coords": [
                         -157.94269,
@@ -10951,7 +10951,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Aiea Bay",
-                  "text": "Aiea Bay ist eine Bucht in Pearl Harbor.",
+                  "text": "Aiea Bay ist eine Bucht im Pearl Harbor in Harbor.",
                   "category": "landmark",
                   "coords": [
                         -157.937133,
@@ -10960,7 +10960,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Puʻupōhaku",
-                  "text": "Puʻupōhaku ist ein Gipfel in Pearl Harbor.",
+                  "text": "Puʻupōhaku ist ein markanter Hügel in Harbor, der einen weiten Blick bietet.",
                   "category": "natural",
                   "coords": [
                         -157.99072,
@@ -10969,7 +10969,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Puʻuʻuaʻu",
-                  "text": "Puʻuʻuaʻu ist ein Gipfel in Pearl Harbor.",
+                  "text": "Puʻuʻuaʻu ist ein Hügel in Harbor, Teil des Koʻolau-Gebirges.",
                   "category": "natural",
                   "coords": [
                         -157.882637,
@@ -10978,7 +10978,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Puuloa Beach Park",
-                  "text": "Puuloa Beach Park ist ein Park in Pearl Harbor.",
+                  "text": "Puuloa Beach Park in Harbor ist ein Strandpark mit Sandstrand und Picknicktischen.",
                   "category": "park",
                   "coords": [
                         -157.991836,
@@ -10987,7 +10987,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Ewa Mahiko Park",
-                  "text": "Ewa Mahiko Park ist ein Park in Pearl Harbor.",
+                  "text": "Ewa Mahiko Park in Harbor ist ein Park mit Sportplätzen und einem Kinderspielplatz.",
                   "category": "park",
                   "coords": [
                         -158.037976,
@@ -10996,7 +10996,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Ewa Beach Community Park",
-                  "text": "Ewa Beach Community Park ist ein Park in Pearl Harbor.",
+                  "text": "Ewa Beach Community Park in Harbor ist ein Gemeindepark mit einem Pool und Tennisplätzen.",
                   "category": "park",
                   "coords": [
                         -158.007431,
@@ -11005,7 +11005,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Nahele Neighborhood Park",
-                  "text": "Nahele Neighborhood Park ist ein Park in Pearl Harbor.",
+                  "text": "Nahele Neighborhood Park in Harbor ist ein kleiner Nachbarschaftspark mit einem Spielplatz.",
                   "category": "park",
                   "coords": [
                         -157.943141,
@@ -11014,7 +11014,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Waiau Neighborhood Park",
-                  "text": "Waiau Neighborhood Park ist ein Park in Pearl Harbor.",
+                  "text": "Waiau Neighborhood Park in Harbor liegt am Waiau Stream und hat einen Grillplatz.",
                   "category": "park",
                   "coords": [
                         -157.954577,
@@ -11023,7 +11023,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Honowai Neighborhood Park",
-                  "text": "Honowai Neighborhood Park ist ein Park in Pearl Harbor.",
+                  "text": "Honowai Neighborhood Park in Harbor ist ein Park mit Basketballkorb und Rastplätzen.",
                   "category": "park",
                   "coords": [
                         -158.026928,
@@ -11032,7 +11032,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Waipahu Cultural Garden Park",
-                  "text": "Waipahu Cultural Garden Park ist ein Park in Pearl Harbor.",
+                  "text": "Waipahu Cultural Garden Park in Harbor zeigt Gärten, die verschiedene Kulturen repräsentieren.",
                   "category": "park",
                   "coords": [
                         -158.012152,
@@ -11041,7 +11041,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Waipahu District Park",
-                  "text": "Waipahu District Park ist ein Park in Pearl Harbor.",
+                  "text": "Waipahu District Park in Harbor umfasst eine Sporthalle und Baseballfelder.",
                   "category": "park",
                   "coords": [
                         -158.00016,
@@ -11050,7 +11050,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Patsy T. Mink Central Oahu Regional Park",
-                  "text": "Patsy T. Mink Central Oahu Regional Park ist ein Park in Pearl Harbor.",
+                  "text": "Patsy T. Mink Central Oahu Regional Park ist ein großer Regionalpark mit botanischem Garten und Golfplatz.",
                   "category": "park",
                   "coords": [
                         -158.006493,
@@ -11059,7 +11059,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Napuanani Neighborhood Park",
-                  "text": "Napuanani Neighborhood Park ist ein Park in Pearl Harbor.",
+                  "text": "Napuanani Neighborhood Park in Harbor ist ein kleiner Park mit einem Pavillon.",
                   "category": "park",
                   "coords": [
                         -157.914007,
@@ -11068,7 +11068,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Halawa District Park",
-                  "text": "Halawa District Park ist ein Park in Pearl Harbor.",
+                  "text": "Halawa District Park in Harbor bietet ein Schwimmbad und eine Bibliothek.",
                   "category": "park",
                   "coords": [
                         -157.915999,
@@ -11077,7 +11077,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pearl Harbor Visitor Center Exhibit Galleries: Attack and Road to War",
-                  "text": "Die Pearl Harbor Visitor Center Exhibit Galleries: Attack and Road to War sind ein Museum in Pearl Harbor mit Ausstellungen zum Angriff und Vorkriegszeit.",
+                  "text": "Ausstellungsgalerien im Pearl Harbor Besucherzentrum mit Details zum Angriff und zum Weg in den Krieg.",
                   "category": "museum",
                   "coords": [
                         -157.938839,
@@ -11086,7 +11086,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Battery Selfridge (historical)",
-                  "text": "Battery Selfridge (historical) ist ein historisches Fort in Pearl Harbor.",
+                  "text": "Historische Küstenartillerie-Batterie aus der Endicott-Ära, im NRHP eingetragen.",
                   "category": "fortress",
                   "coords": [
                         -157.952526,
@@ -11095,7 +11095,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Battery Jackson (historical)",
-                  "text": "Ein historisches Fort in Pearl Harbor.",
+                  "text": "Historische Küstenartillerie-Batterie aus der Endicott-Ära, im NRHP eingetragen.",
                   "category": "fortress",
                   "coords": [
                         -157.956128,
@@ -11104,7 +11104,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Battery Hasebrouck",
-                  "text": "Ein Fort in Pearl Harbor, benannt nach einem Offizier.",
+                  "text": "Historische Küstenartillerie-Batterie aus der Endicott-Ära, im NRHP eingetragen.",
                   "category": "fortress",
                   "coords": [
                         -157.961131,
@@ -11113,7 +11113,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Nix Performing Arts Center",
-                  "text": "Ein Kunstzentrum in Pearl Harbor.",
+                  "text": "Nix Performing Arts Center mit Aufführungen in Harbor.",
                   "category": "cultural",
                   "coords": [
                         -157.950305,
@@ -11160,7 +11160,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pearl Harbor National Wildlife Refuge",
-                  "text": "A Pearl Harbor National Wildlife Refuge egy természetvédelmi terület Pearl Harborban, amely az őshonos madarakat védi.",
+                  "text": "Parti vizes élőhelyeket védő rezervátum a Pearl Harbor partján.",
                   "category": "natural",
                   "coords": [
                         -158.032239,
@@ -11169,7 +11169,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pearl Harbor National Memorial",
-                  "text": "A Pearl Harbor National Memorial Pearl Harborban az 1941-es támadás emlékére jött létre.",
+                  "text": "A Pearl Harbor National Memorial Harborban az USS Arizona és az 1941. december 7-i támadás emlékét őrzi.",
                   "category": "landmark",
                   "coords": [
                         -157.941705,
@@ -11178,7 +11178,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pearl Harbor Aviation Museum",
-                  "text": "A Pearl Harbor Aviation Museum egy repülési múzeum Pearl Harborban.",
+                  "text": "A Pearl Harbor Aviation Museum a Ford Islanden második világháborús repülőgépeket állít ki.",
                   "category": "museum",
                   "coords": [
                         -157.963337,
@@ -11196,7 +11196,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Our Lady Of Good Council",
-                  "text": "A Our Lady Of Good Council egy templom Pearl Harborban.",
+                  "text": "Az Our Lady Of Good Council Harborban egy katolikus templom hagyományos oltárral.",
                   "category": "religious",
                   "coords": [
                         -157.964785,
@@ -11205,7 +11205,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Wakamiya Inari Shrine",
-                  "text": "A Wakamiya Inari szentély egy sintó szentély Pearl Harborban.",
+                  "text": "A Wakamiya Inari Shrine Harborban egy sintó szentély torii kapukkal.",
                   "category": "religious",
                   "coords": [
                         -158.011514,
@@ -11214,7 +11214,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "City of Refuge Christian Church",
-                  "text": "A City of Refuge Christian Church egy keresztény templom Pearl Harborban.",
+                  "text": "A City of Refuge Christian Church Harborban egy keresztény templom, nagy kereszttel a homlokzaton.",
                   "category": "religious",
                   "coords": [
                         -158.00632,
@@ -11223,7 +11223,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Kalauao Spring",
-                  "text": "A Kalauao Spring egy természetes forrás Pearl Harborban.",
+                  "text": "A Kalauao Spring Harborban egy természetes édesvízforrás, amely a Pearl Harborba ömlik.",
                   "category": "landmark",
                   "coords": [
                         -157.942291,
@@ -11232,7 +11232,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Middle Loch",
-                  "text": "A Middle Loch egy öböl Pearl Harborban.",
+                  "text": "A Middle Loch a Pearl Harbor egyik ága Harborban, horgonyzóhelyként használva.",
                   "category": "landmark",
                   "coords": [
                         -157.982756,
@@ -11241,7 +11241,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Merry Loch",
-                  "text": "A Merry Loch egy öböl Pearl Harborban.",
+                  "text": "A Merry Loch a Pearl Harbor egy kis mellékága Harborban.",
                   "category": "landmark",
                   "coords": [
                         -157.943662,
@@ -11250,7 +11250,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "East Loch",
-                  "text": "Az East Loch egy öböl Pearl Harborban.",
+                  "text": "Az East Loch a Pearl Harbor keleti ága Harborban.",
                   "category": "landmark",
                   "coords": [
                         -157.953408,
@@ -11259,7 +11259,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "West Loch",
-                  "text": "A West Loch egy öböl Pearl Harborban.",
+                  "text": "A West Loch a Pearl Harbor nyugati ága Harborban.",
                   "category": "landmark",
                   "coords": [
                         -158.004025,
@@ -11268,7 +11268,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Southeast Loch",
-                  "text": "A Southeast Loch egy öböl Pearl Harborban.",
+                  "text": "A Southeast Loch a Pearl Harbor délkeleti ága Harborban.",
                   "category": "landmark",
                   "coords": [
                         -157.947432,
@@ -11277,7 +11277,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Magazine Loch",
-                  "text": "A Magazine Loch egy öböl Pearl Harborban.",
+                  "text": "A Magazine Loch a Pearl Harbor egyik ága Harborban, egy lőszertárról elnevezve.",
                   "category": "landmark",
                   "coords": [
                         -157.943712,
@@ -11286,7 +11286,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Quarry Loch",
-                  "text": "A Quarry Loch egy öböl Pearl Harborban.",
+                  "text": "A Quarry Loch a Pearl Harbor egyik ága Harborban, egy kőbányáról elnevezve.",
                   "category": "landmark",
                   "coords": [
                         -157.94269,
@@ -11295,7 +11295,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Aiea Bay",
-                  "text": "A Aiea Bay egy öböl Pearl Harborban.",
+                  "text": "Az Aiea Bay egy öböl a Pearl Harborban, Harborban.",
                   "category": "landmark",
                   "coords": [
                         -157.937133,
@@ -11304,7 +11304,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Puʻupōhaku",
-                  "text": "A Puʻupōhaku egy csúcs Pearl Harborban.",
+                  "text": "A Puʻupōhaku egy kiemelkedő domb Harborban, panorámás kilátással.",
                   "category": "natural",
                   "coords": [
                         -157.99072,
@@ -11313,7 +11313,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Puʻuʻuaʻu",
-                  "text": "A Puʻuʻuaʻu egy csúcs Pearl Harborban.",
+                  "text": "A Puʻuʻuaʻu egy domb Harborban, a Koʻolau-hegység része.",
                   "category": "natural",
                   "coords": [
                         -157.882637,
@@ -11322,7 +11322,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Puuloa Beach Park",
-                  "text": "A Puuloa Beach Park egy park Pearl Harborban.",
+                  "text": "A Puuloa Beach Park Harborban egy strandpark homokos tengerparttal és piknikezőasztalokkal.",
                   "category": "park",
                   "coords": [
                         -157.991836,
@@ -11331,7 +11331,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Ewa Mahiko Park",
-                  "text": "Az Ewa Mahiko Park egy park Pearl Harborban.",
+                  "text": "Az Ewa Mahiko Park Harborban egy park sportpályákkal és gyermekjátszótérrel.",
                   "category": "park",
                   "coords": [
                         -158.037976,
@@ -11340,7 +11340,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Ewa Beach Community Park",
-                  "text": "Az Ewa Beach Community Park egy park Pearl Harborban.",
+                  "text": "Az Ewa Beach Community Park Harborban egy közösségi park medencével és teniszpályákkal.",
                   "category": "park",
                   "coords": [
                         -158.007431,
@@ -11349,7 +11349,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Nahele Neighborhood Park",
-                  "text": "A Nahele Neighborhood Park egy park Pearl Harborban.",
+                  "text": "A Nahele Neighborhood Park Harborban egy kis szomszédsági park játszótérrel.",
                   "category": "park",
                   "coords": [
                         -157.943141,
@@ -11358,7 +11358,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Waiau Neighborhood Park",
-                  "text": "A Waiau Neighborhood Park egy park Pearl Harborban.",
+                  "text": "A Waiau Neighborhood Park Harborban a Waiau-patak mellett fekszik, grillezőhelylyel.",
                   "category": "park",
                   "coords": [
                         -157.954577,
@@ -11367,7 +11367,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Honowai Neighborhood Park",
-                  "text": "A Honowai Neighborhood Park egy park Pearl Harborban.",
+                  "text": "A Honowai Neighborhood Park Harborban egy park kosárlabdapalánkkal és pihenőhelyekkel.",
                   "category": "park",
                   "coords": [
                         -158.026928,
@@ -11376,7 +11376,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Waipahu Cultural Garden Park",
-                  "text": "A Waipahu Cultural Garden Park egy park Pearl Harborban.",
+                  "text": "A Waipahu Cultural Garden Park Harborban különböző kultúrákat képviselő kerteket mutat be.",
                   "category": "park",
                   "coords": [
                         -158.012152,
@@ -11385,7 +11385,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Waipahu District Park",
-                  "text": "A Waipahu District Park egy park Pearl Harborban.",
+                  "text": "A Waipahu District Park Harborban egy sportcsarnokot és baseballpályákat foglal magában.",
                   "category": "park",
                   "coords": [
                         -158.00016,
@@ -11394,7 +11394,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Patsy T. Mink Central Oahu Regional Park",
-                  "text": "A Patsy T. Mink Central Oahu Regional Park egy park Pearl Harborban.",
+                  "text": "A Patsy T. Mink Central Oahu Regional Park egy nagy regionális park botanikus kerttel és golfpályával.",
                   "category": "park",
                   "coords": [
                         -158.006493,
@@ -11403,7 +11403,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Napuanani Neighborhood Park",
-                  "text": "A Napuanani Neighborhood Park egy park Pearl Harborban.",
+                  "text": "A Napuanani Neighborhood Park Harborban egy kis park pavilonnal.",
                   "category": "park",
                   "coords": [
                         -157.914007,
@@ -11412,7 +11412,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Halawa District Park",
-                  "text": "A Halawa District Park egy park Pearl Harborban.",
+                  "text": "A Halawa District Park Harborban egy uszodát és egy könyvtárat kínál.",
                   "category": "park",
                   "coords": [
                         -157.915999,
@@ -11421,7 +11421,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pearl Harbor Visitor Center Exhibit Galleries: Attack and Road to War",
-                  "text": "A Pearl Harbor Visitor Center Exhibit Galleries: Attack and Road to War egy múzeum Pearl Harborban, amely a támadásról és a háborúhoz vezető útról szóló kiállításokkal rendelkezik.",
+                  "text": "Kiállítótermek a Pearl Harbor Látogatóközpontban, amelyek a támadást és a háborúhoz vezető utat mutatják be.",
                   "category": "museum",
                   "coords": [
                         -157.938839,
@@ -11430,7 +11430,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Battery Selfridge (historical)",
-                  "text": "A Battery Selfridge (historical) egy történelmi erőd Pearl Harborban.",
+                  "text": "Történelmi Endicott-kori parti tüzérségi üteg, az NRHP-n szerepel.",
                   "category": "fortress",
                   "coords": [
                         -157.952526,
@@ -11439,7 +11439,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Battery Jackson (historical)",
-                  "text": "Egy történelmi erőd Pearl Harborban.",
+                  "text": "Történelmi Endicott-kori parti tüzérségi üteg, az NRHP-n szerepel.",
                   "category": "fortress",
                   "coords": [
                         -157.956128,
@@ -11448,7 +11448,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Battery Hasebrouck",
-                  "text": "Egy erőd Pearl Harborban, egy tiszt után elnevezve.",
+                  "text": "Történelmi Endicott-kori parti tüzérségi üteg, az NRHP-n szerepel.",
                   "category": "fortress",
                   "coords": [
                         -157.961131,
@@ -11457,7 +11457,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Nix Performing Arts Center",
-                  "text": "Egy művészeti központ Pearl Harborban.",
+                  "text": "Nix Előadóművészeti Központ, amely előadásokat tart Harborban.",
                   "category": "cultural",
                   "coords": [
                         -157.950305,
@@ -11504,7 +11504,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pearl Harbor National Wildlife Refuge",
-                  "text": "Pearl Harbor National Wildlife Refuge este o rezervație naturală în Pearl Harbor pentru protejarea păsărilor native.",
+                  "text": "Refugiu pentru zonele umede de coastă pe malurile Pearl Harbor.",
                   "category": "natural",
                   "coords": [
                         -158.032239,
@@ -11513,7 +11513,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pearl Harbor National Memorial",
-                  "text": "Pearl Harbor National Memorial din Pearl Harbor comemorează atacul din 1941 asupra Pearl Harbor.",
+                  "text": "Memorialul Național Pearl Harbor din Harbor comemorează USS Arizona și atacul din 7 decembrie 1941.",
                   "category": "landmark",
                   "coords": [
                         -157.941705,
@@ -11522,7 +11522,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pearl Harbor Aviation Museum",
-                  "text": "Muzeul Aviației Pearl Harbor este un muzeu al aviației în Pearl Harbor.",
+                  "text": "Muzeul Aviației Pearl Harbor de pe Insula Ford expune avioane din al Doilea Război Mondial.",
                   "category": "museum",
                   "coords": [
                         -157.963337,
@@ -11540,7 +11540,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Our Lady Of Good Council",
-                  "text": "Our Lady Of Good Council este o biserică în Pearl Harbor.",
+                  "text": "Our Lady Of Good Council din Harbor este o biserică catolică cu un altar tradițional.",
                   "category": "religious",
                   "coords": [
                         -157.964785,
@@ -11549,7 +11549,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Wakamiya Inari Shrine",
-                  "text": "Altarul Wakamiya Inari este un altar șintoist în Pearl Harbor.",
+                  "text": "Wakamiya Inari Shrine din Harbor este un altar șintoist cu porți torii.",
                   "category": "religious",
                   "coords": [
                         -158.011514,
@@ -11558,7 +11558,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "City of Refuge Christian Church",
-                  "text": "City of Refuge Christian Church este o biserică creștină în Pearl Harbor.",
+                  "text": "City of Refuge Christian Church din Harbor este o biserică creștină cu o cruce mare pe fațadă.",
                   "category": "religious",
                   "coords": [
                         -158.00632,
@@ -11567,7 +11567,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Kalauao Spring",
-                  "text": "Kalauao Spring este un izvor natural în Pearl Harbor.",
+                  "text": "Kalauao Spring din Harbor este un izvor natural de apă dulce care se varsă în Pearl Harbor.",
                   "category": "landmark",
                   "coords": [
                         -157.942291,
@@ -11576,7 +11576,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Middle Loch",
-                  "text": "Middle Loch este un golf în Pearl Harbor.",
+                  "text": "Middle Loch este un braț al Pearl Harbor din Harbor, folosit ca ancoraj.",
                   "category": "landmark",
                   "coords": [
                         -157.982756,
@@ -11585,7 +11585,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Merry Loch",
-                  "text": "Merry Loch este un golf în Pearl Harbor.",
+                  "text": "Merry Loch este un braț lateral mic al Pearl Harbor din Harbor.",
                   "category": "landmark",
                   "coords": [
                         -157.943662,
@@ -11594,7 +11594,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "East Loch",
-                  "text": "East Loch este un golf în Pearl Harbor.",
+                  "text": "East Loch este brațul estic al Pearl Harbor din Harbor.",
                   "category": "landmark",
                   "coords": [
                         -157.953408,
@@ -11603,7 +11603,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "West Loch",
-                  "text": "West Loch este un golf în Pearl Harbor.",
+                  "text": "West Loch este brațul vestic al Pearl Harbor din Harbor.",
                   "category": "landmark",
                   "coords": [
                         -158.004025,
@@ -11612,7 +11612,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Southeast Loch",
-                  "text": "Southeast Loch este un golf în Pearl Harbor.",
+                  "text": "Southeast Loch este un braț sud-estic al Pearl Harbor din Harbor.",
                   "category": "landmark",
                   "coords": [
                         -157.947432,
@@ -11621,7 +11621,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Magazine Loch",
-                  "text": "Magazine Loch este un golf în Pearl Harbor.",
+                  "text": "Magazine Loch este un braț al Pearl Harbor din Harbor, numit după un depozit de muniții.",
                   "category": "landmark",
                   "coords": [
                         -157.943712,
@@ -11630,7 +11630,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Quarry Loch",
-                  "text": "Quarry Loch este un golf în Pearl Harbor.",
+                  "text": "Quarry Loch este un braț al Pearl Harbor din Harbor, numit după o carieră de piatră.",
                   "category": "landmark",
                   "coords": [
                         -157.94269,
@@ -11639,7 +11639,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Aiea Bay",
-                  "text": "Aiea Bay este un golf în Pearl Harbor.",
+                  "text": "Aiea Bay este un golf în Pearl Harbor, Harbor.",
                   "category": "landmark",
                   "coords": [
                         -157.937133,
@@ -11648,7 +11648,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Puʻupōhaku",
-                  "text": "Puʻupōhaku este un vârf în Pearl Harbor.",
+                  "text": "Puʻupōhaku este un deal proeminent în Harbor, oferind o priveliște panoramică.",
                   "category": "natural",
                   "coords": [
                         -157.99072,
@@ -11657,7 +11657,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Puʻuʻuaʻu",
-                  "text": "Puʻuʻuaʻu este un vârf în Pearl Harbor.",
+                  "text": "Puʻuʻuaʻu este un deal în Harbor, parte a lanțului muntos Koʻolau.",
                   "category": "natural",
                   "coords": [
                         -157.882637,
@@ -11666,7 +11666,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Puuloa Beach Park",
-                  "text": "Puuloa Beach Park este un parc în Pearl Harbor.",
+                  "text": "Parcul de plajă Puuloa din Harbor este un parc de plajă cu nisip și mese de picnic.",
                   "category": "park",
                   "coords": [
                         -157.991836,
@@ -11675,7 +11675,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Ewa Mahiko Park",
-                  "text": "Ewa Mahiko Park este un parc în Pearl Harbor.",
+                  "text": "Parcul Ewa Mahiko din Harbor este un parc cu terenuri sportive și un loc de joacă pentru copii.",
                   "category": "park",
                   "coords": [
                         -158.037976,
@@ -11684,7 +11684,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Ewa Beach Community Park",
-                  "text": "Ewa Beach Community Park este un parc în Pearl Harbor.",
+                  "text": "Parcul Comunitar Ewa Beach din Harbor este un parc comunitar cu piscină și terenuri de tenis.",
                   "category": "park",
                   "coords": [
                         -158.007431,
@@ -11693,7 +11693,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Nahele Neighborhood Park",
-                  "text": "Nahele Neighborhood Park este un parc în Pearl Harbor.",
+                  "text": "Parcul de Cartier Nahele din Harbor este un mic parc de cartier cu loc de joacă.",
                   "category": "park",
                   "coords": [
                         -157.943141,
@@ -11702,7 +11702,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Waiau Neighborhood Park",
-                  "text": "Waiau Neighborhood Park este un parc în Pearl Harbor.",
+                  "text": "Parcul de Cartier Waiau din Harbor este situat lângă Pârâul Waiau și are o zonă de grătar.",
                   "category": "park",
                   "coords": [
                         -157.954577,
@@ -11711,7 +11711,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Honowai Neighborhood Park",
-                  "text": "Honowai Neighborhood Park este un parc în Pearl Harbor.",
+                  "text": "Parcul de Cartier Honowai din Harbor este un parc cu coș de baschet și zone de odihnă.",
                   "category": "park",
                   "coords": [
                         -158.026928,
@@ -11720,7 +11720,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Waipahu Cultural Garden Park",
-                  "text": "Waipahu Cultural Garden Park este un parc în Pearl Harbor.",
+                  "text": "Parcul Grădinii Culturale Waipahu din Harbor prezintă grădini care reprezintă diferite culturi.",
                   "category": "park",
                   "coords": [
                         -158.012152,
@@ -11729,7 +11729,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Waipahu District Park",
-                  "text": "Waipahu District Park este un parc în Pearl Harbor.",
+                  "text": "Parcul Districtual Waipahu din Harbor include o sală de sport și terenuri de baseball.",
                   "category": "park",
                   "coords": [
                         -158.00016,
@@ -11738,7 +11738,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Patsy T. Mink Central Oahu Regional Park",
-                  "text": "Patsy T. Mink Central Oahu Regional Park este un parc în Pearl Harbor.",
+                  "text": "Parcul Regional Central Oahu Patsy T. Mink este un parc regional mare cu grădină botanică și teren de golf.",
                   "category": "park",
                   "coords": [
                         -158.006493,
@@ -11747,7 +11747,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Napuanani Neighborhood Park",
-                  "text": "Napuanani Neighborhood Park este un parc în Pearl Harbor.",
+                  "text": "Parcul de Cartier Napuanani din Harbor este un parc mic cu un pavilion.",
                   "category": "park",
                   "coords": [
                         -157.914007,
@@ -11756,7 +11756,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Halawa District Park",
-                  "text": "Halawa District Park este un parc în Pearl Harbor.",
+                  "text": "Parcul Districtual Halawa din Harbor oferă o piscină și o bibliotecă.",
                   "category": "park",
                   "coords": [
                         -157.915999,
@@ -11765,7 +11765,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pearl Harbor Visitor Center Exhibit Galleries: Attack and Road to War",
-                  "text": "Pearl Harbor Visitor Center Exhibit Galleries: Attack and Road to War este un muzeu în Pearl Harbor cu expoziții despre atac și drumul către război.",
+                  "text": "Galerii de expoziție la Centrul de Vizitatori Pearl Harbor, care detaliază atacul și drumul către război.",
                   "category": "museum",
                   "coords": [
                         -157.938839,
@@ -11774,7 +11774,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Battery Selfridge (historical)",
-                  "text": "Battery Selfridge (historical) este un fort istoric în Pearl Harbor.",
+                  "text": "Baterie de artilerie de coastă istorică din epoca Endicott, înscrisă în NRHP.",
                   "category": "fortress",
                   "coords": [
                         -157.952526,
@@ -11783,7 +11783,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Battery Jackson (historical)",
-                  "text": "Un fort istoric din Pearl Harbor.",
+                  "text": "Baterie de artilerie de coastă istorică din epoca Endicott, înscrisă în NRHP.",
                   "category": "fortress",
                   "coords": [
                         -157.956128,
@@ -11792,7 +11792,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Battery Hasebrouck",
-                  "text": "Un fort din Pearl Harbor, numit după un ofițer.",
+                  "text": "Baterie de artilerie de coastă istorică din epoca Endicott, înscrisă în NRHP.",
                   "category": "fortress",
                   "coords": [
                         -157.961131,
@@ -11801,7 +11801,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Nix Performing Arts Center",
-                  "text": "Un centru de arte în Pearl Harbor.",
+                  "text": "Centrul de arte performative Nix, care găzduiește spectacole în Harbor.",
                   "category": "cultural",
                   "coords": [
                         -157.950305,
@@ -11848,7 +11848,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pearl Harbor National Wildlife Refuge",
-                  "text": "Pearl Harbor National Wildlife Refuge is a nature reserve in Pearl Harbor protecting native birds.",
+                  "text": "Wildlife refuge protecting coastal wetlands on the shores of Pearl Harbor.",
                   "category": "natural",
                   "coords": [
                         -158.032239,
@@ -11857,7 +11857,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pearl Harbor National Memorial",
-                  "text": "Pearl Harbor National Memorial in Pearl Harbor commemorates the 1941 attack on Pearl Harbor.",
+                  "text": "Pearl Harbor National Memorial in Harbor commemorates the USS Arizona and the attack of December 7, 1941.",
                   "category": "landmark",
                   "coords": [
                         -157.941705,
@@ -11866,7 +11866,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pearl Harbor Aviation Museum",
-                  "text": "Pearl Harbor Aviation Museum is an aviation museum in Pearl Harbor.",
+                  "text": "Pearl Harbor Aviation Museum on Ford Island displays World War II aircraft.",
                   "category": "museum",
                   "coords": [
                         -157.963337,
@@ -11884,7 +11884,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Our Lady Of Good Council",
-                  "text": "Our Lady Of Good Council is a church in Pearl Harbor.",
+                  "text": "Our Lady Of Good Council in Harbor is a Catholic church with a traditional altar.",
                   "category": "religious",
                   "coords": [
                         -157.964785,
@@ -11893,7 +11893,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Wakamiya Inari Shrine",
-                  "text": "Wakamiya Inari Shrine is a Shinto shrine in Pearl Harbor.",
+                  "text": "Wakamiya Inari Shrine in Harbor is a Shinto shrine with torii gates.",
                   "category": "religious",
                   "coords": [
                         -158.011514,
@@ -11902,7 +11902,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "City of Refuge Christian Church",
-                  "text": "City of Refuge Christian Church is a Christian church in Pearl Harbor.",
+                  "text": "City of Refuge Christian Church in Harbor is a Christian church with a large cross on its facade.",
                   "category": "religious",
                   "coords": [
                         -158.00632,
@@ -11911,7 +11911,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Kalauao Spring",
-                  "text": "Kalauao Spring is a natural spring in Pearl Harbor.",
+                  "text": "Kalauao Spring in Harbor is a natural freshwater spring that feeds into Pearl Harbor.",
                   "category": "landmark",
                   "coords": [
                         -157.942291,
@@ -11920,7 +11920,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Middle Loch",
-                  "text": "Middle Loch is a bay in Pearl Harbor.",
+                  "text": "Middle Loch is an arm of Pearl Harbor in Harbor, used as an anchorage.",
                   "category": "landmark",
                   "coords": [
                         -157.982756,
@@ -11929,7 +11929,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Merry Loch",
-                  "text": "Merry Loch is a bay in Pearl Harbor.",
+                  "text": "Merry Loch is a small side arm of Pearl Harbor in Harbor.",
                   "category": "landmark",
                   "coords": [
                         -157.943662,
@@ -11938,7 +11938,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "East Loch",
-                  "text": "East Loch is a bay in Pearl Harbor.",
+                  "text": "East Loch is the eastern arm of Pearl Harbor in Harbor.",
                   "category": "landmark",
                   "coords": [
                         -157.953408,
@@ -11947,7 +11947,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "West Loch",
-                  "text": "West Loch is a bay in Pearl Harbor.",
+                  "text": "West Loch is the western arm of Pearl Harbor in Harbor.",
                   "category": "landmark",
                   "coords": [
                         -158.004025,
@@ -11956,7 +11956,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Southeast Loch",
-                  "text": "Southeast Loch is a bay in Pearl Harbor.",
+                  "text": "Southeast Loch is a southeastern arm of Pearl Harbor in Harbor.",
                   "category": "landmark",
                   "coords": [
                         -157.947432,
@@ -11965,7 +11965,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Magazine Loch",
-                  "text": "Magazine Loch is a bay in Pearl Harbor.",
+                  "text": "Magazine Loch is an arm of Pearl Harbor in Harbor, named after a munitions magazine.",
                   "category": "landmark",
                   "coords": [
                         -157.943712,
@@ -11974,7 +11974,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Quarry Loch",
-                  "text": "Quarry Loch is a bay in Pearl Harbor.",
+                  "text": "Quarry Loch is an arm of Pearl Harbor in Harbor, named after a quarry.",
                   "category": "landmark",
                   "coords": [
                         -157.94269,
@@ -11983,7 +11983,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Aiea Bay",
-                  "text": "Aiea Bay is a bay in Pearl Harbor.",
+                  "text": "Aiea Bay is a bay within Pearl Harbor in Harbor.",
                   "category": "landmark",
                   "coords": [
                         -157.937133,
@@ -11992,7 +11992,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Puʻupōhaku",
-                  "text": "Puʻupōhaku is a peak in Pearl Harbor.",
+                  "text": "Puʻupōhaku is a prominent hill in Harbor, offering panoramic views.",
                   "category": "natural",
                   "coords": [
                         -157.99072,
@@ -12001,7 +12001,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Puʻuʻuaʻu",
-                  "text": "Puʻuʻuaʻu is a peak in Pearl Harbor.",
+                  "text": "Puʻuʻuaʻu is a hill in Harbor, part of the Koʻolau Range.",
                   "category": "natural",
                   "coords": [
                         -157.882637,
@@ -12010,7 +12010,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Puuloa Beach Park",
-                  "text": "Puuloa Beach Park is a park in Pearl Harbor.",
+                  "text": "Puuloa Beach Park in Harbor is a beach park with a sandy beach and picnic tables.",
                   "category": "park",
                   "coords": [
                         -157.991836,
@@ -12019,7 +12019,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Ewa Mahiko Park",
-                  "text": "Ewa Mahiko Park is a park in Pearl Harbor.",
+                  "text": "Ewa Mahiko Park in Harbor is a park with sports fields and a children's playground.",
                   "category": "park",
                   "coords": [
                         -158.037976,
@@ -12028,7 +12028,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Ewa Beach Community Park",
-                  "text": "Ewa Beach Community Park is a park in Pearl Harbor.",
+                  "text": "Ewa Beach Community Park in Harbor is a community park with a pool and tennis courts.",
                   "category": "park",
                   "coords": [
                         -158.007431,
@@ -12037,7 +12037,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Nahele Neighborhood Park",
-                  "text": "Nahele Neighborhood Park is a park in Pearl Harbor.",
+                  "text": "Nahele Neighborhood Park in Harbor is a small neighborhood park with a playground.",
                   "category": "park",
                   "coords": [
                         -157.943141,
@@ -12046,7 +12046,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Waiau Neighborhood Park",
-                  "text": "Waiau Neighborhood Park is a park in Pearl Harbor.",
+                  "text": "Waiau Neighborhood Park in Harbor is located along Waiau Stream with a barbecue area.",
                   "category": "park",
                   "coords": [
                         -157.954577,
@@ -12055,7 +12055,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Honowai Neighborhood Park",
-                  "text": "Honowai Neighborhood Park is a park in Pearl Harbor.",
+                  "text": "Honowai Neighborhood Park in Harbor is a park with a basketball hoop and resting areas.",
                   "category": "park",
                   "coords": [
                         -158.026928,
@@ -12064,7 +12064,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Waipahu Cultural Garden Park",
-                  "text": "Waipahu Cultural Garden Park is a park in Pearl Harbor.",
+                  "text": "Waipahu Cultural Garden Park in Harbor features gardens representing different cultures.",
                   "category": "park",
                   "coords": [
                         -158.012152,
@@ -12073,7 +12073,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Waipahu District Park",
-                  "text": "Waipahu District Park is a park in Pearl Harbor.",
+                  "text": "Waipahu District Park in Harbor includes a gymnasium and baseball fields.",
                   "category": "park",
                   "coords": [
                         -158.00016,
@@ -12082,7 +12082,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Patsy T. Mink Central Oahu Regional Park",
-                  "text": "Patsy T. Mink Central Oahu Regional Park is a park in Pearl Harbor.",
+                  "text": "Patsy T. Mink Central Oahu Regional Park is a large regional park with a botanical garden and golf course.",
                   "category": "park",
                   "coords": [
                         -158.006493,
@@ -12091,7 +12091,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Napuanani Neighborhood Park",
-                  "text": "Napuanani Neighborhood Park is a park in Pearl Harbor.",
+                  "text": "Napuanani Neighborhood Park in Harbor is a small park with a pavilion.",
                   "category": "park",
                   "coords": [
                         -157.914007,
@@ -12100,7 +12100,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Halawa District Park",
-                  "text": "Halawa District Park is a park in Pearl Harbor.",
+                  "text": "Halawa District Park in Harbor offers a swimming pool and a library.",
                   "category": "park",
                   "coords": [
                         -157.915999,
@@ -12109,7 +12109,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pearl Harbor Visitor Center Exhibit Galleries: Attack and Road to War",
-                  "text": "Pearl Harbor Visitor Center Exhibit Galleries: Attack and Road to War is a museum in Pearl Harbor with exhibits on the attack and the road to war.",
+                  "text": "Exhibit galleries at the Pearl Harbor Visitor Center detailing the attack and the road to war.",
                   "category": "museum",
                   "coords": [
                         -157.938839,
@@ -12118,7 +12118,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Battery Selfridge (historical)",
-                  "text": "Battery Selfridge (historical) is a historic fort in Pearl Harbor.",
+                  "text": "A historic Endicott-era coastal artillery battery listed on the NRHP.",
                   "category": "fortress",
                   "coords": [
                         -157.952526,
@@ -12127,7 +12127,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Battery Jackson (historical)",
-                  "text": "A historic fort in Pearl Harbor.",
+                  "text": "A historic Endicott-era coastal artillery battery listed on the NRHP.",
                   "category": "fortress",
                   "coords": [
                         -157.956128,
@@ -12136,7 +12136,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Battery Hasebrouck",
-                  "text": "A fort in Pearl Harbor named after an officer.",
+                  "text": "A historic Endicott-era coastal artillery battery listed on the NRHP.",
                   "category": "fortress",
                   "coords": [
                         -157.961131,
@@ -12145,7 +12145,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Nix Performing Arts Center",
-                  "text": "An arts centre in Pearl Harbor.",
+                  "text": "Performing arts center named Nix hosting shows in Harbor.",
                   "category": "cultural",
                   "coords": [
                         -157.950305,
@@ -12223,7 +12223,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Calhoun Hill",
-                  "text": "Ein Hügel auf dem Schlachtfeld am Little Bighorn.",
+                  "text": "Calhoun Hill auf dem Bighorn Battlefield war der Schauplatz der Schlacht am Little Bighorn.",
                   "category": "natural",
                   "coords": [
                         -107.417437,
@@ -12250,7 +12250,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Real Bird Reenactment of Last Stand - 25 June 1876",
-                  "text": "Eine theatralische Nachstellung des letzten Gefechts, aufgeführt von der Familie Real Bird.",
+                  "text": "Jährliche Nachstellung von Custers letztem Gefecht durch die Familie Real Bird auf dem Bighorn-Schlachtfeld.",
                   "category": "cultural",
                   "coords": [
                         -107.419799,
@@ -12279,7 +12279,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Calhoun Hill",
-                  "text": "Egy domb a Little Bighorn csatamezőn.",
+                  "text": "A Calhoun Hill a Bighorn Battlefielden a Little Bighorn-i csata helyszíne volt.",
                   "category": "natural",
                   "coords": [
                         -107.417437,
@@ -12306,7 +12306,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Real Bird Reenactment of Last Stand - 25 June 1876",
-                  "text": "Az utolsó állomás színházi újrajátszása a Real Bird család előadásában.",
+                  "text": "Custer utolsó állásának éves újrajátszása a Real Bird család által a Bighorn csatatéren.",
                   "category": "cultural",
                   "coords": [
                         -107.419799,
@@ -12335,7 +12335,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Calhoun Hill",
-                  "text": "Un deal pe câmpul de luptă Little Bighorn.",
+                  "text": "Calhoun Hill de pe Câmpul de Bătălie Bighorn a fost scena bătăliei de la Little Bighorn.",
                   "category": "natural",
                   "coords": [
                         -107.417437,
@@ -12362,7 +12362,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Real Bird Reenactment of Last Stand - 25 June 1876",
-                  "text": "O recreare teatrală a Ultimei Lupte, interpretată de familia Real Bird.",
+                  "text": "Reconstituirea anuală a Ultimei Rezistențe a lui Custer de către familia Real Bird pe câmpul de luptă Bighorn.",
                   "category": "cultural",
                   "coords": [
                         -107.419799,
@@ -12391,7 +12391,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Calhoun Hill",
-                  "text": "A hill at the Little Bighorn Battlefield.",
+                  "text": "Calhoun Hill on the Bighorn Battlefield was the site of the Battle of the Little Bighorn.",
                   "category": "natural",
                   "coords": [
                         -107.417437,
@@ -12418,7 +12418,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Real Bird Reenactment of Last Stand - 25 June 1876",
-                  "text": "A theatrical reenactment of the Last Stand performed by the Real Bird family.",
+                  "text": "Annual reenactment of Custer's Last Stand by the Real Bird family on the Bighorn Battlefield.",
                   "category": "cultural",
                   "coords": [
                         -107.419799,
@@ -12478,7 +12478,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Staten Island Children’s Museum",
-                  "text": "Das Staten Island Children’s Museum ist ein Kindermuseum in ellis-island-history-v2.",
+                  "text": "Interaktives Kindermuseum im historischen Gebäude des Snug Harbor Cultural Center.",
                   "category": "museum",
                   "coords": [
                         -74.101893,
@@ -12487,7 +12487,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Staten Island Museum",
-                  "text": "Das Staten Island Museum ist ein allgemeines Museum in ellis-island-history-v2.",
+                  "text": "Älteste Kultureinrichtung von Staten Island, gegründet 1881.",
                   "category": "museum",
                   "coords": [
                         -74.102749,
@@ -12505,7 +12505,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Museum of Russian Art",
-                  "text": "Das Museum of Russian Art ist ein Kunstmuseum mit Schwerpunkt russischer Kunst in ellis-island-history-v2.",
+                  "text": "Museum in einem ehemaligen Bankgebäude mit russischer realistischer und Ikonenmalerei.",
                   "category": "museum",
                   "coords": [
                         -74.037043,
@@ -12523,7 +12523,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chinese Scholar’s Garden",
-                  "text": "Der Chinese Scholar’s Garden ist ein Museum mit einem traditionellen chinesischen Garten in ellis-island-history-v2.",
+                  "text": "Authentischer chinesischer Garten, erbaut von Handwerkern aus Suzhou, China.",
                   "category": "museum",
                   "coords": [
                         -74.104373,
@@ -12532,7 +12532,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lincoln the Mystic",
-                  "text": "Lincoln the Mystic ist ein Denkmal, das Abraham Lincoln darstellt, in ellis-island-history-v2.",
+                  "text": "Bronzestatue Lincolns mit überirdischem Ausdruck im Lincoln Park.",
                   "category": "historical",
                   "coords": [
                         -74.076086,
@@ -12550,7 +12550,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Staten Island Borough Hall",
-                  "text": "Staten Island Borough Hall ist das Bezirksrathaus von Staten Island in ellis-island-history-v2.",
+                  "text": "Neoklassizistisches Gebäude, Sitz der Bezirksregierung, erbaut 1906.",
                   "category": "historical",
                   "coords": [
                         -74.076051,
@@ -12568,7 +12568,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Our Lady of Mount Carmel Church",
-                  "text": "Die Our Lady of Mount Carmel Church ist eine katholische Kirche in ellis-island-history-v2.",
+                  "text": "Römisch-katholische Kirche mit markanter italienischer Kuppel.",
                   "category": "religious",
                   "coords": [
                         -74.117087,
@@ -12595,7 +12595,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Vincent De Paul Church",
-                  "text": "Die Saint Vincent De Paul Church ist eine katholische Kirche in ellis-island-history-v2.",
+                  "text": "Gotische Revival-Kirche, erbaut 1906.",
                   "category": "religious",
                   "coords": [
                         -74.106876,
@@ -12604,7 +12604,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Patrick's Catholic Church",
-                  "text": "Die Saint Patrick's Catholic Church ist eine katholische Kirche in ellis-island-history-v2.",
+                  "text": "Historische katholische Kirche mit hohem Turm aus dem 19. Jahrhundert.",
                   "category": "religious",
                   "coords": [
                         -74.072136,
@@ -12613,7 +12613,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Sacred Heart Church",
-                  "text": "Die Sacred Heart Church ist eine katholische Kirche in ellis-island-history-v2.",
+                  "text": "Romanische Revival-Kirche, erbaut 1885.",
                   "category": "religious",
                   "coords": [
                         -74.083206,
@@ -12622,7 +12622,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Holy Rosary Church",
-                  "text": "Die Holy Rosary Church ist eine katholische Kirche in ellis-island-history-v2.",
+                  "text": "Katholische Kirche mit markanter Doppelturmfassade.",
                   "category": "religious",
                   "coords": [
                         -74.049152,
@@ -12631,7 +12631,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Music Hall",
-                  "text": "Die Music Hall ist ein Theater in ellis-island-history-v2.",
+                  "text": "Viktorianischer Konzertsaal von 1892, Teil des Snug Harbor Cultural Center.",
                   "category": "cultural",
                   "coords": [
                         -74.101278,
@@ -12640,7 +12640,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "First Federated Church",
-                  "text": "Die First Federated Church ist eine Kirche in ellis-island-history-v2.",
+                  "text": "Historische Dutch Reformed Kirche, erbaut 1854.",
                   "category": "religious",
                   "coords": [
                         -74.113918,
@@ -12676,7 +12676,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Newark Bay",
-                  "text": "Die Newark Bay ist eine Bucht in ellis-island-history-v2.",
+                  "text": "Gezeitenmündung, die Teil des Hafens von New York und New Jersey ist.",
                   "category": "landmark",
                   "coords": [
                         -74.135885,
@@ -12685,7 +12685,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lower Hack Lift",
-                  "text": "Lower Hack Lift ist eine Hubbrücke in ellis-island-history-v2.",
+                  "text": "Senkrechte Hubbrücke für die Eisenbahn über den Hackensack River.",
                   "category": "landmark",
                   "coords": [
                         -74.076625,
@@ -12694,7 +12694,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "DB Draw",
-                  "text": "DB Draw ist eine Zugbrücke in ellis-island-history-v2.",
+                  "text": "Eisenbahndrehbrücke über den Hackensack River.",
                   "category": "landmark",
                   "coords": [
                         -74.093359,
@@ -12712,7 +12712,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Point-No-Point Bridge",
-                  "text": "Die Point-No-Point Bridge ist eine Brücke in ellis-island-history-v2.",
+                  "text": "Brücke, die Jersey City mit Kearny über den Hackensack River verbindet.",
                   "category": "landmark",
                   "coords": [
                         -74.121438,
@@ -12721,7 +12721,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Upper Bay Bridge",
-                  "text": "Die Upper Bay Bridge ist eine Brücke in ellis-island-history-v2.",
+                  "text": "Senkrechte Hubbrücke für den Fahrzeugverkehr über den Hackensack River.",
                   "category": "landmark",
                   "coords": [
                         -74.11673,
@@ -12802,7 +12802,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Ellis Island Immigration Museum",
-                  "text": "Das Ellis Island Immigration Museum, ein Museum auf Ellis Island, befindet sich im Hauptgebäude der ehemaligen Einwanderungsstation.",
+                  "text": "Das Ellis Island Immigration Museum auf Ellis Island erinnert an die Einwanderer, die dort ankamen.",
                   "category": "museum",
                   "coords": [
                         -74.039492,
@@ -12831,7 +12831,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Staten Island Children’s Museum",
-                  "text": "A Staten Island Gyermekmúzeum egy gyermekmúzeum az ellis-island-history-v2-ben.",
+                  "text": "Interaktív gyermekmúzeum a Snug Harbor Kulturális Központ történelmi épületében.",
                   "category": "museum",
                   "coords": [
                         -74.101893,
@@ -12840,7 +12840,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Staten Island Museum",
-                  "text": "A Staten Island Múzeum egy általános múzeum az ellis-island-history-v2-ben.",
+                  "text": "Staten Island legrégebbi kulturális intézménye, alapítva 1881-ben.",
                   "category": "museum",
                   "coords": [
                         -74.102749,
@@ -12858,7 +12858,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Museum of Russian Art",
-                  "text": "A Museum of Russian Art egy orosz művészetre összpontosító művészeti múzeum az ellis-island-history-v2-ben.",
+                  "text": "Múzeum egy egykori banképületben, orosz realista és ikonfestményekkel.",
                   "category": "museum",
                   "coords": [
                         -74.037043,
@@ -12876,7 +12876,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chinese Scholar’s Garden",
-                  "text": "A Chinese Scholar’s Garden egy hagyományos kínai kertet bemutató múzeum az ellis-island-history-v2-ben.",
+                  "text": "Hiteles kínai kert, amelyet kínai szucsoui mesteremberek építettek.",
                   "category": "museum",
                   "coords": [
                         -74.104373,
@@ -12885,7 +12885,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lincoln the Mystic",
-                  "text": "A Lincoln the Mystic egy Abraham Lincolnt ábrázoló emlékmű az ellis-island-history-v2-ben.",
+                  "text": "Lincoln bronzszobra túlvilági arckifejezéssel a Lincoln Parkban.",
                   "category": "historical",
                   "coords": [
                         -74.076086,
@@ -12903,7 +12903,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Staten Island Borough Hall",
-                  "text": "A Staten Island Borough Hall Staten Island kerületi tanácsháza az ellis-island-history-v2-ben.",
+                  "text": "Neoklasszikus épület, a kerületi kormányzati székhely, épült 1906-ban.",
                   "category": "historical",
                   "coords": [
                         -74.076051,
@@ -12921,7 +12921,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Our Lady of Mount Carmel Church",
-                  "text": "A Our Lady of Mount Carmel Church egy katolikus templom az ellis-island-history-v2-ben.",
+                  "text": "Római katolikus templom jellegzetes olasz stílusú kupolával.",
                   "category": "religious",
                   "coords": [
                         -74.117087,
@@ -12948,7 +12948,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Vincent De Paul Church",
-                  "text": "A Szent Vincent De Paul Templom egy katolikus templom az ellis-island-history-v2-ben.",
+                  "text": "Gótikus újjászületés templom, épült 1906-ban.",
                   "category": "religious",
                   "coords": [
                         -74.106876,
@@ -12957,7 +12957,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Patrick's Catholic Church",
-                  "text": "A Szent Patrik Katolikus Templom egy katolikus templom az ellis-island-history-v2-ben.",
+                  "text": "Történelmi katolikus templom magas toronnyal a 19. századból.",
                   "category": "religious",
                   "coords": [
                         -74.072136,
@@ -12966,7 +12966,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Sacred Heart Church",
-                  "text": "A Sacred Heart Church egy katolikus templom az ellis-island-history-v2-ben.",
+                  "text": "Román stílusú újjászületés templom, épült 1885-ben.",
                   "category": "religious",
                   "coords": [
                         -74.083206,
@@ -12975,7 +12975,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Holy Rosary Church",
-                  "text": "A Holy Rosary Church egy katolikus templom az ellis-island-history-v2-ben.",
+                  "text": "Katolikus templom jellegzetes ikertornyos homlokzattal.",
                   "category": "religious",
                   "coords": [
                         -74.049152,
@@ -12984,7 +12984,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Music Hall",
-                  "text": "A Music Hall egy színház az ellis-island-history-v2-ben.",
+                  "text": "Viktoriánus koncertterem 1892-ből, a Snug Harbor Kulturális Központ része.",
                   "category": "cultural",
                   "coords": [
                         -74.101278,
@@ -12993,7 +12993,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "First Federated Church",
-                  "text": "A First Federated Church egy templom az ellis-island-history-v2-ben.",
+                  "text": "Történelmi holland református templom, épült 1854-ben.",
                   "category": "religious",
                   "coords": [
                         -74.113918,
@@ -13029,7 +13029,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Newark Bay",
-                  "text": "A Newark Bay egy öböl az ellis-island-history-v2-ben.",
+                  "text": "Árapály-torkolat, amely a New York-i és New Jersey-i kikötő része.",
                   "category": "landmark",
                   "coords": [
                         -74.135885,
@@ -13038,7 +13038,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lower Hack Lift",
-                  "text": "A Lower Hack Lift egy felvonóhíd az ellis-island-history-v2-ben.",
+                  "text": "Függőleges felvonóhíd a vasút számára a Hackensack folyón.",
                   "category": "landmark",
                   "coords": [
                         -74.076625,
@@ -13047,7 +13047,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "DB Draw",
-                  "text": "A DB Draw egy felvonóhíd az ellis-island-history-v2-ben.",
+                  "text": "Vasúti felvonóhíd a Hackensack folyón.",
                   "category": "landmark",
                   "coords": [
                         -74.093359,
@@ -13065,7 +13065,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Point-No-Point Bridge",
-                  "text": "A Point-No-Point hid egy híd az ellis-island-history-v2-ben.",
+                  "text": "Híd, amely Jersey Cityt köti össze Kearnyval a Hackensack folyón át.",
                   "category": "landmark",
                   "coords": [
                         -74.121438,
@@ -13074,7 +13074,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Upper Bay Bridge",
-                  "text": "A Upper Bay hid egy híd az ellis-island-history-v2-ben.",
+                  "text": "Függőleges felvonóhíd a közúti forgalom számára a Hackensack folyón.",
                   "category": "landmark",
                   "coords": [
                         -74.11673,
@@ -13155,7 +13155,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Ellis Island Immigration Museum",
-                  "text": "Az Ellis Island-i Bevándorlási Múzeum, egy múzeum Ellis Island-en, a volt bevándorlási állomás főépületében található.",
+                  "text": "Az Ellis Island Immigration Museum az Ellis Islanden az oda érkező bevándorlókra emlékezik.",
                   "category": "museum",
                   "coords": [
                         -74.039492,
@@ -13184,7 +13184,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Staten Island Children’s Museum",
-                  "text": "Muzeul pentru Copii din Staten Island este un muzeu pentru copii în ellis-island-history-v2.",
+                  "text": "Muzeu interactiv pentru copii într-o clădire istorică din Snug Harbor Cultural Center.",
                   "category": "museum",
                   "coords": [
                         -74.101893,
@@ -13193,7 +13193,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Staten Island Museum",
-                  "text": "Muzeul Staten Island este un muzeu general în ellis-island-history-v2.",
+                  "text": "Cea mai veche instituție culturală din Staten Island, fondată în 1881.",
                   "category": "museum",
                   "coords": [
                         -74.102749,
@@ -13211,7 +13211,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Museum of Russian Art",
-                  "text": "Muzeul de Artă Rusă este un muzeu de artă care se concentrează pe arta rusă în ellis-island-history-v2.",
+                  "text": "Muzeu într-o fostă clădire bancară, cu picturi realiste rusești și icoane.",
                   "category": "museum",
                   "coords": [
                         -74.037043,
@@ -13229,7 +13229,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chinese Scholar’s Garden",
-                  "text": "Grădina Cărturarului Chinez este un muzeu cu o grădină tradițională chineză în ellis-island-history-v2.",
+                  "text": "Gradină chineză autentică construită de meșteșugari din Suzhou, China.",
                   "category": "museum",
                   "coords": [
                         -74.104373,
@@ -13238,7 +13238,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lincoln the Mystic",
-                  "text": "Lincoln the Mystic este un monument care îl înfățișează pe Abraham Lincoln în ellis-island-history-v2.",
+                  "text": "Statuie de bronz a lui Lincoln cu o expresie supraomenească în Lincoln Park.",
                   "category": "historical",
                   "coords": [
                         -74.076086,
@@ -13256,7 +13256,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Staten Island Borough Hall",
-                  "text": "Primăria Borough-ului Staten Island este primăria districtului Staten Island în ellis-island-history-v2.",
+                  "text": "Clădire neoclasică, sediul guvernului districtual, construită în 1906.",
                   "category": "historical",
                   "coords": [
                         -74.076051,
@@ -13274,7 +13274,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Our Lady of Mount Carmel Church",
-                  "text": "Biserica Maica Domnului de pe Muntele Carmel este o biserică catolică în ellis-island-history-v2.",
+                  "text": "Biserică romano-catolică cu o cupolă italiană proeminentă.",
                   "category": "religious",
                   "coords": [
                         -74.117087,
@@ -13301,7 +13301,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Vincent De Paul Church",
-                  "text": "Biserica Sfântul Vincențiu de Paul este o biserică catolică în ellis-island-history-v2.",
+                  "text": "Biserică în stil neogotic construită în 1906.",
                   "category": "religious",
                   "coords": [
                         -74.106876,
@@ -13310,7 +13310,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Patrick's Catholic Church",
-                  "text": "Biserica Catolică Sfântul Patrick este o biserică catolică în ellis-island-history-v2.",
+                  "text": "Biserică catolică istorică cu un turn înalt din secolul al XIX-lea.",
                   "category": "religious",
                   "coords": [
                         -74.072136,
@@ -13319,7 +13319,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Sacred Heart Church",
-                  "text": "Biserica Inimii Sacre este o biserică catolică în ellis-island-history-v2.",
+                  "text": "Biserică în stil romanic revival construită în 1885.",
                   "category": "religious",
                   "coords": [
                         -74.083206,
@@ -13328,7 +13328,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Holy Rosary Church",
-                  "text": "Biserica Sfântului Rozariu este o biserică catolică în ellis-island-history-v2.",
+                  "text": "Biserică catolică cu o fațadă distinctivă cu două turnuri.",
                   "category": "religious",
                   "coords": [
                         -74.049152,
@@ -13337,7 +13337,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Music Hall",
-                  "text": "Sala de Muzică este un teatru în ellis-island-history-v2.",
+                  "text": "Sală de concert victoriană din 1892, parte a Snug Harbor Cultural Center.",
                   "category": "cultural",
                   "coords": [
                         -74.101278,
@@ -13346,7 +13346,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "First Federated Church",
-                  "text": "Biserica First Federated este o biserică în ellis-island-history-v2.",
+                  "text": "Biserică istorică olandeză reformată, construită în 1854.",
                   "category": "religious",
                   "coords": [
                         -74.113918,
@@ -13382,7 +13382,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Newark Bay",
-                  "text": "Golful Newark este un golf în ellis-island-history-v2.",
+                  "text": "Estuar tidal care face parte din portul New York și New Jersey.",
                   "category": "landmark",
                   "coords": [
                         -74.135885,
@@ -13391,7 +13391,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lower Hack Lift",
-                  "text": "Podul Lower Hack Lift este un pod mobil în ellis-island-history-v2.",
+                  "text": "Pod vertical mobil pentru calea ferată peste râul Hackensack.",
                   "category": "landmark",
                   "coords": [
                         -74.076625,
@@ -13400,7 +13400,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "DB Draw",
-                  "text": "Podul DB Draw este un pod basculant în ellis-island-history-v2.",
+                  "text": "Pod feroviar basculant peste râul Hackensack.",
                   "category": "landmark",
                   "coords": [
                         -74.093359,
@@ -13418,7 +13418,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Point-No-Point Bridge",
-                  "text": "Podul Point-No-Point este un pod în ellis-island-history-v2.",
+                  "text": "Pod care leagă Jersey City de Kearny peste râul Hackensack.",
                   "category": "landmark",
                   "coords": [
                         -74.121438,
@@ -13427,7 +13427,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Upper Bay Bridge",
-                  "text": "Podul Upper Bay este un pod în ellis-island-history-v2.",
+                  "text": "Pod vertical mobil pentru traficul rutier peste râul Hackensack.",
                   "category": "landmark",
                   "coords": [
                         -74.11673,
@@ -13508,7 +13508,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Ellis Island Immigration Museum",
-                  "text": "Muzeul Imigrației Ellis Island, un muzeu pe insula Ellis, este situat în clădirea principală a fostei stații de imigrație.",
+                  "text": "Muzeul Imigrației Ellis Island de pe Insula Ellis comemorează imigranții care au sosit acolo.",
                   "category": "museum",
                   "coords": [
                         -74.039492,
@@ -13537,7 +13537,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Staten Island Children’s Museum",
-                  "text": "The Staten Island Children’s Museum is a children's museum in ellis-island-history-v2.",
+                  "text": "Interactive children's museum in a historic building at Snug Harbor Cultural Center.",
                   "category": "museum",
                   "coords": [
                         -74.101893,
@@ -13546,7 +13546,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Staten Island Museum",
-                  "text": "The Staten Island Museum is a general museum in ellis-island-history-v2.",
+                  "text": "Oldest cultural institution on Staten Island, founded in 1881.",
                   "category": "museum",
                   "coords": [
                         -74.102749,
@@ -13564,7 +13564,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Museum of Russian Art",
-                  "text": "The Museum of Russian Art is an art museum focusing on Russian art in ellis-island-history-v2.",
+                  "text": "Museum housed in a former bank building featuring Russian realist and icon paintings.",
                   "category": "museum",
                   "coords": [
                         -74.037043,
@@ -13582,7 +13582,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chinese Scholar’s Garden",
-                  "text": "The Chinese Scholar’s Garden is a museum featuring a traditional Chinese garden in ellis-island-history-v2.",
+                  "text": "Authentic Chinese garden built by artisans from Suzhou, China.",
                   "category": "museum",
                   "coords": [
                         -74.104373,
@@ -13591,7 +13591,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lincoln the Mystic",
-                  "text": "Lincoln the Mystic is a monument depicting Abraham Lincoln in ellis-island-history-v2.",
+                  "text": "Bronze statue of Lincoln with an otherworldly expression in Lincoln Park.",
                   "category": "historical",
                   "coords": [
                         -74.076086,
@@ -13609,7 +13609,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Staten Island Borough Hall",
-                  "text": "Staten Island Borough Hall is the borough hall of Staten Island in ellis-island-history-v2.",
+                  "text": "Neoclassical building serving as the borough's government seat, built in 1906.",
                   "category": "historical",
                   "coords": [
                         -74.076051,
@@ -13627,7 +13627,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Our Lady of Mount Carmel Church",
-                  "text": "Our Lady of Mount Carmel Church is a Catholic church in ellis-island-history-v2.",
+                  "text": "Roman Catholic church with a prominent Italianate dome.",
                   "category": "religious",
                   "coords": [
                         -74.117087,
@@ -13654,7 +13654,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Vincent De Paul Church",
-                  "text": "Saint Vincent De Paul Church is a Catholic church in ellis-island-history-v2.",
+                  "text": "Gothic Revival church built in 1906.",
                   "category": "religious",
                   "coords": [
                         -74.106876,
@@ -13663,7 +13663,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Patrick's Catholic Church",
-                  "text": "Saint Patrick's Catholic Church is a Catholic church in ellis-island-history-v2.",
+                  "text": "Historic Catholic church with a tall spire from the 19th century.",
                   "category": "religious",
                   "coords": [
                         -74.072136,
@@ -13672,7 +13672,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Sacred Heart Church",
-                  "text": "Sacred Heart Church is a Catholic church in ellis-island-history-v2.",
+                  "text": "Romanesque Revival church built in 1885.",
                   "category": "religious",
                   "coords": [
                         -74.083206,
@@ -13681,7 +13681,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Holy Rosary Church",
-                  "text": "Holy Rosary Church is a Catholic church in ellis-island-history-v2.",
+                  "text": "Catholic church with a distinctive twin-tower facade.",
                   "category": "religious",
                   "coords": [
                         -74.049152,
@@ -13690,7 +13690,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Music Hall",
-                  "text": "Music Hall is a theatre in ellis-island-history-v2.",
+                  "text": "Victorian concert hall built in 1892, part of Snug Harbor Cultural Center.",
                   "category": "cultural",
                   "coords": [
                         -74.101278,
@@ -13699,7 +13699,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "First Federated Church",
-                  "text": "First Federated Church is a church in ellis-island-history-v2.",
+                  "text": "Historic Dutch Reformed church built in 1854.",
                   "category": "religious",
                   "coords": [
                         -74.113918,
@@ -13735,7 +13735,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Newark Bay",
-                  "text": "Newark Bay is a bay in ellis-island-history-v2.",
+                  "text": "Tidal estuary that is part of the Port of New York and New Jersey.",
                   "category": "landmark",
                   "coords": [
                         -74.135885,
@@ -13744,7 +13744,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lower Hack Lift",
-                  "text": "Lower Hack Lift is a lift bridge in ellis-island-history-v2.",
+                  "text": "Vertical lift bridge for railway over the Hackensack River.",
                   "category": "landmark",
                   "coords": [
                         -74.076625,
@@ -13753,7 +13753,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "DB Draw",
-                  "text": "DB Draw is a drawbridge in ellis-island-history-v2.",
+                  "text": "Railroad drawbridge over the Hackensack River.",
                   "category": "landmark",
                   "coords": [
                         -74.093359,
@@ -13771,7 +13771,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Point-No-Point Bridge",
-                  "text": "Point-No-Point Bridge is a bridge in ellis-island-history-v2.",
+                  "text": "Bridge connecting Jersey City to Kearny over the Hackensack River.",
                   "category": "landmark",
                   "coords": [
                         -74.121438,
@@ -13780,7 +13780,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Upper Bay Bridge",
-                  "text": "Upper Bay Bridge is a bridge in ellis-island-history-v2.",
+                  "text": "Vertical lift bridge for vehicular traffic over the Hackensack River.",
                   "category": "landmark",
                   "coords": [
                         -74.11673,
@@ -13861,7 +13861,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Ellis Island Immigration Museum",
-                  "text": "Ellis Island Immigration Museum, a museum on Ellis Island, is located in the main building of the former immigration station.",
+                  "text": "Ellis Island Immigration Museum on Ellis Island commemorates the immigrants who arrived there.",
                   "category": "museum",
                   "coords": [
                         -74.039492,
@@ -13948,7 +13948,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mace Brown Museum of Natural History",
-                  "text": "Ein Naturkundemuseum auf dem Campus des College of Charleston.",
+                  "text": "Naturkundemuseum mit Fossilien aus dem Südosten der USA.",
                   "category": "museum",
                   "coords": [
                         -79.939638,
@@ -14164,7 +14164,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Citadel Square Baptist Church",
-                  "text": "Eine historische Baptistenkirche in Charleston.",
+                  "text": "Historische Baptistenkirche von 1851 mit hohem Kirchturm.",
                   "category": "religious",
                   "coords": [
                         -79.934051,
@@ -14173,7 +14173,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Emanuel African Methodist Episcopal Church",
-                  "text": "Eine der ältesten afrikanisch-methodistischen Bischofskirchen im Süden, bekannt als Mother Emanuel.",
+                  "text": "Historische AME-Kirche, gegründet 1816, Schauplatz der Schießerei von 2015.",
                   "category": "religious",
                   "coords": [
                         -79.933107,
@@ -14182,7 +14182,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Stephen's Episcopal Church",
-                  "text": "Eine historische episkopale Kirche in Charleston.",
+                  "text": "Griechisch-Revival-Kirche, erbaut 1835.",
                   "category": "religious",
                   "coords": [
                         -79.931163,
@@ -14191,7 +14191,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "St. John's Reformed Episcopal Church",
-                  "text": "Die St. John's Reformed Episcopal Church ist ein Gotteshaus in Charleston, South Carolina.",
+                  "text": "Gotische Revival-Kirche, erbaut 1897.",
                   "category": "religious",
                   "coords": [
                         -79.931944,
@@ -14209,7 +14209,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "First Baptist Church",
-                  "text": "Die First Baptist Church in Charleston ist ein Gotteshaus der Baptisten in der Stadt.",
+                  "text": "Baptistenkirche von 1822 mit klassizistischem Portikus.",
                   "category": "religious",
                   "coords": [
                         -79.929317,
@@ -14227,7 +14227,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Unitarian Church in Charleston",
-                  "text": "Die Unitarian Church in Charleston ist ein unitarisches Gotteshaus in der Stadt.",
+                  "text": "Unitarische Kirche mit markantem neugotischen Innenraum.",
                   "category": "religious",
                   "coords": [
                         -79.934364,
@@ -14265,7 +14265,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mace Brown Museum of Natural History",
-                  "text": "Egy természetrajzi múzeum a College of Charleston kampuszán.",
+                  "text": "Természetrajzi múzeum, amely fosszíliákat mutat be az USA délkeleti részéből.",
                   "category": "museum",
                   "coords": [
                         -79.939638,
@@ -14481,7 +14481,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Citadel Square Baptist Church",
-                  "text": "Egy történelmi baptista templom Charlestonban.",
+                  "text": "Történelmi baptista templom 1851-ből, magas toronnyal.",
                   "category": "religious",
                   "coords": [
                         -79.934051,
@@ -14490,7 +14490,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Emanuel African Methodist Episcopal Church",
-                  "text": "Az egyik legrégebbi afrikai metodista püspöki templom délen, Mother Emanuel néven ismert.",
+                  "text": "Történelmi AME-templom, alapítva 1816-ban, a 2015-ös lövöldözés helyszíne.",
                   "category": "religious",
                   "coords": [
                         -79.933107,
@@ -14499,7 +14499,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Stephen's Episcopal Church",
-                  "text": "Egy történelmi episzkopális templom Charlestonban.",
+                  "text": "Görög újjászületés stílusú templom, épült 1835-ben.",
                   "category": "religious",
                   "coords": [
                         -79.931163,
@@ -14508,7 +14508,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "St. John's Reformed Episcopal Church",
-                  "text": "A St. John's Reformed Episcopal Church egy istentiszteleti hely Charlestonban, Dél-Karolinában.",
+                  "text": "Gótikus újjászületés templom, épült 1897-ben.",
                   "category": "religious",
                   "coords": [
                         -79.931944,
@@ -14526,7 +14526,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "First Baptist Church",
-                  "text": "A First Baptist Church Charlestonban a baptisták egy istentiszteleti helye a városban.",
+                  "text": "Baptista templom 1822-ből, klasszikus oszlopcsarnokkal.",
                   "category": "religious",
                   "coords": [
                         -79.929317,
@@ -14544,7 +14544,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Unitarian Church in Charleston",
-                  "text": "A Unitarian Church Charlestonban egy unitárius istentiszteleti hely a városban.",
+                  "text": "Unitárius templom jellegzetes neogótikus belsővel.",
                   "category": "religious",
                   "coords": [
                         -79.934364,
@@ -14582,7 +14582,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mace Brown Museum of Natural History",
-                  "text": "Un muzeu de istorie naturală pe campusul College of Charleston.",
+                  "text": "Muzeu de istorie naturală care expune fosile din sud-estul SUA.",
                   "category": "museum",
                   "coords": [
                         -79.939638,
@@ -14798,7 +14798,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Citadel Square Baptist Church",
-                  "text": "O biserică baptistă istorică în Charleston.",
+                  "text": "Biserică baptistă istorică din 1851, cu un turn înalt.",
                   "category": "religious",
                   "coords": [
                         -79.934051,
@@ -14807,7 +14807,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Emanuel African Methodist Episcopal Church",
-                  "text": "Una dintre cele mai vechi biserici afro-americane metodiste episcopale din sud, cunoscută ca Mother Emanuel.",
+                  "text": "Biserică AME istorică fondată în 1816, locul împușcăturilor din 2015.",
                   "category": "religious",
                   "coords": [
                         -79.933107,
@@ -14816,7 +14816,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Stephen's Episcopal Church",
-                  "text": "O biserică episcopală istorică în Charleston.",
+                  "text": "Biserică în stil neogrecesc construită în 1835.",
                   "category": "religious",
                   "coords": [
                         -79.931163,
@@ -14825,7 +14825,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "St. John's Reformed Episcopal Church",
-                  "text": "Biserica Episcopală Reformată Sf. Ioan este un lăcaș de cult în Charleston, Carolina de Sud.",
+                  "text": "Biserică în stil neogotic construită în 1897.",
                   "category": "religious",
                   "coords": [
                         -79.931944,
@@ -14843,7 +14843,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "First Baptist Church",
-                  "text": "Prima Biserică Baptistă din Charleston este un lăcaș de cult baptist în oraș.",
+                  "text": "Biserică baptistă din 1822, cu un portic clasic.",
                   "category": "religious",
                   "coords": [
                         -79.929317,
@@ -14861,7 +14861,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Unitarian Church in Charleston",
-                  "text": "Biserica Unitariană din Charleston este un lăcaș de cult unitarian în oraș.",
+                  "text": "Biserică unitariană cu un interior neogotic distinctiv.",
                   "category": "religious",
                   "coords": [
                         -79.934364,
@@ -14899,7 +14899,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mace Brown Museum of Natural History",
-                  "text": "A natural history museum on the campus of the College of Charleston.",
+                  "text": "Museum of natural history displaying fossils from the southeastern US.",
                   "category": "museum",
                   "coords": [
                         -79.939638,
@@ -15115,7 +15115,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Citadel Square Baptist Church",
-                  "text": "A historic Baptist church in Charleston.",
+                  "text": "Historic Baptist church built in 1851 with a tall steeple.",
                   "category": "religious",
                   "coords": [
                         -79.934051,
@@ -15124,7 +15124,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Emanuel African Methodist Episcopal Church",
-                  "text": "One of the oldest African Methodist Episcopal churches in the South, known as Mother Emanuel.",
+                  "text": "Historic AME church founded in 1816, site of the 2015 shooting.",
                   "category": "religious",
                   "coords": [
                         -79.933107,
@@ -15133,7 +15133,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Stephen's Episcopal Church",
-                  "text": "A historic Episcopal church in Charleston.",
+                  "text": "Greek Revival style church built in 1835.",
                   "category": "religious",
                   "coords": [
                         -79.931163,
@@ -15142,7 +15142,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "St. John's Reformed Episcopal Church",
-                  "text": "St. John's Reformed Episcopal Church is a place of worship in Charleston, South Carolina.",
+                  "text": "Gothic Revival church built in 1897.",
                   "category": "religious",
                   "coords": [
                         -79.931944,
@@ -15160,7 +15160,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "First Baptist Church",
-                  "text": "First Baptist Church in Charleston is a Baptist place of worship in the city.",
+                  "text": "Baptist church built in 1822 with a classic portico.",
                   "category": "religious",
                   "coords": [
                         -79.929317,
@@ -15178,7 +15178,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Unitarian Church in Charleston",
-                  "text": "The Unitarian Church in Charleston is a Unitarian place of worship in the city.",
+                  "text": "Unitarian church with a distinctive Gothic Revival interior.",
                   "category": "religious",
                   "coords": [
                         -79.934364,
@@ -15256,7 +15256,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Piney Mountain",
-                  "text": "Piney Mountain ist ein Gipfel in der Nähe des Appomattox Court House.",
+                  "text": "Piney Mountain in Court House ist ein bewaldeter Berg mit Pinienbestand.",
                   "category": "natural",
                   "coords": [
                         -78.803903,
@@ -15265,7 +15265,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bald Mountain",
-                  "text": "Bald Mountain ist ein Gipfel in der Nähe des Appomattox Court House.",
+                  "text": "Bald Mountain in Court House ist ein kahler Gipfel mit Aussicht auf die umliegenden Täler.",
                   "category": "natural",
                   "coords": [
                         -78.816403,
@@ -15274,7 +15274,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Confederate Cemetery",
-                  "text": "Der Confederate Cemetery in Appomattox ist ein Friedhof für Soldaten der Konföderierten.",
+                  "text": "Friedhof für konföderierte Soldaten in der Nähe des Gerichtsgebäudes in Court House.",
                   "category": "landmark",
                   "coords": [
                         -78.802923,
@@ -15292,7 +15292,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Appomattox Courthouse Theatre",
-                  "text": "Das Appomattox Courthouse Theatre ist ein Veranstaltungsort für darstellende Künste in Appomattox.",
+                  "text": "Theater am Appomattox Court House, Schauplatz der Kapitulation der Konföderierten 1865.",
                   "category": "cultural",
                   "coords": [
                         -78.82977,
@@ -15301,7 +15301,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "The Appomattox Gallery",
-                  "text": "Die Appomattox Gallery zeigt lokale Kunst.",
+                  "text": "Kunstgalerie im historischen Dorf Appomattox Court House.",
                   "category": "museum",
                   "coords": [
                         -78.826987,
@@ -15310,7 +15310,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Wolfbane Performing Arts Center",
-                  "text": "Das Wolfbane Performing Arts Center ist ein Theater in Appomattox.",
+                  "text": "Aufführungszentrum betrieben von Wolfbane Productions in Court House.",
                   "category": "cultural",
                   "coords": [
                         -78.858076,
@@ -15319,7 +15319,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "The American Civil War Museum",
-                  "text": "Das American Civil War Museum in Appomattox ist der Geschichte des Bürgerkriegs gewidmet.",
+                  "text": "Museum zur Geschichte des Amerikanischen Bürgerkriegs am Appomattox Court House.",
                   "category": "museum",
                   "coords": [
                         -78.824488,
@@ -15330,7 +15330,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Piney Mountain",
-                  "text": "A Piney Mountain egy csúcs az Appomattox Court House közelében.",
+                  "text": "A Piney Mountain Court Houseban egy erdős hegy fenyőállománnyal.",
                   "category": "natural",
                   "coords": [
                         -78.803903,
@@ -15339,7 +15339,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bald Mountain",
-                  "text": "A Bald Mountain egy csúcs az Appomattox Court House közelében.",
+                  "text": "A Bald Mountain Court Houseban egy kopár csúcs, kilátással a környező völgyekre.",
                   "category": "natural",
                   "coords": [
                         -78.816403,
@@ -15348,7 +15348,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Confederate Cemetery",
-                  "text": "A Confederate Cemetery Appomattoxban a Konföderációs katonák temetője.",
+                  "text": "A Konföderációs katonák temetője a bíróság közelében Court House-ban.",
                   "category": "landmark",
                   "coords": [
                         -78.802923,
@@ -15366,7 +15366,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Appomattox Courthouse Theatre",
-                  "text": "Az Appomattox Courthouse Theatre egy előadó-művészeti helyszín Appomattoxban.",
+                  "text": "Színház az Appomattox Court House-ban, a Konföderáció 1865-ös megadásának helyszínén.",
                   "category": "cultural",
                   "coords": [
                         -78.82977,
@@ -15375,7 +15375,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "The Appomattox Gallery",
-                  "text": "Az Appomattox Gallery helyi művészeti alkotásokat mutat be.",
+                  "text": "Művészeti galéria a történelmi Appomattox Court House faluban.",
                   "category": "museum",
                   "coords": [
                         -78.826987,
@@ -15384,7 +15384,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Wolfbane Performing Arts Center",
-                  "text": "A Wolfbane Performing Arts Center egy színház Appomattoxban.",
+                  "text": "Előadóművészeti központ, amelyet a Wolfbane Productions üzemeltet Court House-ban.",
                   "category": "cultural",
                   "coords": [
                         -78.858076,
@@ -15393,7 +15393,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "The American Civil War Museum",
-                  "text": "Az American Civil War Museum Appomattoxban a polgárháború történetének szentelt múzeum.",
+                  "text": "Múzeum az amerikai polgárháború történetéről, az Appomattox Court House-ban.",
                   "category": "museum",
                   "coords": [
                         -78.824488,
@@ -15404,7 +15404,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Piney Mountain",
-                  "text": "Piney Mountain este un vârf lângă Appomattox Court House.",
+                  "text": "Piney Mountain din Court House este un munte împădurit cu pini.",
                   "category": "natural",
                   "coords": [
                         -78.803903,
@@ -15413,7 +15413,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bald Mountain",
-                  "text": "Bald Mountain este un vârf lângă Appomattox Court House.",
+                  "text": "Bald Mountain din Court House este un vârf gol, cu vedere spre văile din jur.",
                   "category": "natural",
                   "coords": [
                         -78.816403,
@@ -15422,7 +15422,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Confederate Cemetery",
-                  "text": "Cimitirul Confederate din Appomattox este un loc de înmormântare pentru soldații confederați.",
+                  "text": "Cimitir pentru soldații confederați lângă tribunalul din Court House.",
                   "category": "landmark",
                   "coords": [
                         -78.802923,
@@ -15440,7 +15440,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Appomattox Courthouse Theatre",
-                  "text": "Teatrul Appomattox Courthouse este un spațiu pentru artele spectacolului în Appomattox.",
+                  "text": "Teatru situat la Appomattox Court House, locul predării confederației în 1865.",
                   "category": "cultural",
                   "coords": [
                         -78.82977,
@@ -15449,7 +15449,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "The Appomattox Gallery",
-                  "text": "Galeria Appomattox expune artă locală.",
+                  "text": "Galerie de artă în satul istoric Appomattox Court House.",
                   "category": "museum",
                   "coords": [
                         -78.826987,
@@ -15458,7 +15458,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Wolfbane Performing Arts Center",
-                  "text": "Centrul de Arte Performance Wolfbane este un teatru în Appomattox.",
+                  "text": "Centru de arte performative operat de Wolfbane Productions în Court House.",
                   "category": "cultural",
                   "coords": [
                         -78.858076,
@@ -15467,7 +15467,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "The American Civil War Museum",
-                  "text": "Muzeul American al Războiului Civil din Appomattox este dedicat istoriei Războiului Civil.",
+                  "text": "Muzeu care prezintă istoria Războiului Civil American, situat la Appomattox Court House.",
                   "category": "museum",
                   "coords": [
                         -78.824488,
@@ -15478,7 +15478,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Piney Mountain",
-                  "text": "Piney Mountain is a peak near Appomattox Court House.",
+                  "text": "Piney Mountain in Court House is a forested mountain with pine trees.",
                   "category": "natural",
                   "coords": [
                         -78.803903,
@@ -15487,7 +15487,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bald Mountain",
-                  "text": "Bald Mountain is a peak near Appomattox Court House.",
+                  "text": "Bald Mountain in Court House is a bare summit with views of the surrounding valleys.",
                   "category": "natural",
                   "coords": [
                         -78.816403,
@@ -15496,7 +15496,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Confederate Cemetery",
-                  "text": "Confederate Cemetery in Appomattox is a burial ground for Confederate soldiers.",
+                  "text": "Cemetery for Confederate soldiers near the courthouse in Court House.",
                   "category": "landmark",
                   "coords": [
                         -78.802923,
@@ -15514,7 +15514,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Appomattox Courthouse Theatre",
-                  "text": "Appomattox Courthouse Theatre is a performing arts venue in Appomattox.",
+                  "text": "Theatre located at Appomattox Court House, site of the Confederate surrender in 1865.",
                   "category": "cultural",
                   "coords": [
                         -78.82977,
@@ -15523,7 +15523,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "The Appomattox Gallery",
-                  "text": "The Appomattox Gallery showcases local art.",
+                  "text": "Art gallery in the historic Appomattox Court House village.",
                   "category": "museum",
                   "coords": [
                         -78.826987,
@@ -15532,7 +15532,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Wolfbane Performing Arts Center",
-                  "text": "Wolfbane Performing Arts Center is a theatre in Appomattox.",
+                  "text": "Performing arts center operated by Wolfbane Productions in Court House.",
                   "category": "cultural",
                   "coords": [
                         -78.858076,
@@ -15541,7 +15541,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "The American Civil War Museum",
-                  "text": "The American Civil War Museum in Appomattox is dedicated to the history of the Civil War.",
+                  "text": "Museum chronicling the American Civil War, located at Appomattox Court House.",
                   "category": "museum",
                   "coords": [
                         -78.824488,
@@ -15601,7 +15601,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "27th IN",
-                  "text": "27th IN ist ein Denkmal auf dem Schlachtfeld von Antietam.",
+                  "text": "Historischer Marker für das 27. Indiana-Infanterieregiment auf dem Schlachtfeld.",
                   "category": "historical",
                   "coords": [
                         -77.744661,
@@ -15610,7 +15610,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Hawks Hill",
-                  "text": "Hawks Hill ist ein Gipfel auf dem Schlachtfeld von Antietam.",
+                  "text": "Hawks Hill in Battlefield ist ein Hügel, der für seine Falkensichtungen bekannt ist, auf einem historischen Schlachtfeld.",
                   "category": "natural",
                   "coords": [
                         -77.708325,
@@ -15619,7 +15619,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mount Briar Wetlands Reserve",
-                  "text": "Mount Briar Wetlands Reserve ist ein Park in der Nähe des Schlachtfelds von Antietam.",
+                  "text": "Mount Briar Wetlands Reserve in Battlefield ist ein Feuchtgebiet mit Bohlenwegen und Vogelbeobachtung.",
                   "category": "park",
                   "coords": [
                         -77.67888,
@@ -15628,7 +15628,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Red Hill",
-                  "text": "Red Hill ist ein Gipfel auf dem Schlachtfeld von Antietam.",
+                  "text": "Red Hill in Battlefield ist ein Hügel mit rötlichem Boden, Teil des historischen Schlachtfelds.",
                   "category": "natural",
                   "coords": [
                         -77.70027,
@@ -15637,7 +15637,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Devils Backbone",
-                  "text": "Devils Backbone ist ein Gipfel auf dem Schlachtfeld von Antietam.",
+                  "text": "Devils Backbone in Battlefield ist ein felsiger Bergrücken, ein markantes Landschaftsmerkmal des Schlachtfelds.",
                   "category": "natural",
                   "coords": [
                         -77.704437,
@@ -15646,7 +15646,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Marks Church",
-                  "text": "Saint Marks Church ist eine Kirche auf dem Schlachtfeld von Antietam.",
+                  "text": "Saint Marks Church in Battlefield ist eine Kirche mit einem Friedhof, auf dem Soldaten des Bürgerkriegs begraben sind.",
                   "category": "religious",
                   "coords": [
                         -77.733882,
@@ -15655,7 +15655,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Ferry Hill",
-                  "text": "Ferry Hill ist ein Gipfel auf dem Schlachtfeld von Antietam.",
+                  "text": "Ein natürlicher Hügel auf dem Schlachtfeld von Antietam.",
                   "category": "natural",
                   "coords": [
                         -77.797623,
@@ -15664,7 +15664,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Nicodemus Heights",
-                  "text": "Nicodemus Heights ist ein Gipfel auf dem Schlachtfeld von Antietam.",
+                  "text": "Eine bewaldete Anhöhe auf dem Schlachtfeld von Antietam, genutzt von konföderierten Truppen.",
                   "category": "natural",
                   "coords": [
                         -77.758604,
@@ -15673,7 +15673,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Philadelphia Brigade Monument",
-                  "text": "Philadelphia Brigade Monument ist ein Denkmal auf dem Schlachtfeld von Antietam.",
+                  "text": "Denkmal für die Philadelphia Brigade bei der Schlacht von Antietam.",
                   "category": "historical",
                   "coords": [
                         -77.749225,
@@ -15682,7 +15682,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Hauser Ridge",
-                  "text": "Hauser Ridge ist ein Bergrücken auf dem Schlachtfeld von Antietam.",
+                  "text": "Ein Bergrücken auf dem Schlachtfeld von Antietam.",
                   "category": "natural",
                   "coords": [
                         -77.758327,
@@ -15691,7 +15691,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "New York State Monument",
-                  "text": "New York State Monument ist ein Denkmal auf dem Schlachtfeld von Antietam.",
+                  "text": "Denkmal zu Ehren der Soldaten aus New York bei Antietam.",
                   "category": "historical",
                   "coords": [
                         -77.744912,
@@ -15700,7 +15700,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Maryland Monument",
-                  "text": "Maryland Monument ist ein Denkmal auf dem Schlachtfeld von Antietam.",
+                  "text": "Denkmal für die Truppen Marylands bei der Schlacht von Antietam.",
                   "category": "historical",
                   "coords": [
                         -77.746026,
@@ -15709,7 +15709,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Civil War Medical Museum",
-                  "text": "Civil War Medical Museum ist ein Museum auf dem Schlachtfeld von Antietam.",
+                  "text": "Museum zur Bürgerkriegsmedizin und Feldchirurgie in Battlefield.",
                   "category": "museum",
                   "coords": [
                         -77.714023,
@@ -15718,7 +15718,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "4th New York Volunteers",
-                  "text": "4th New York Volunteers ist ein Denkmal auf dem Schlachtfeld von Antietam.",
+                  "text": "Historischer Marker für das 4. New Yorker Freiwilligen-Infanterieregiment auf dem Schlachtfeld.",
                   "category": "historical",
                   "coords": [
                         -77.741388,
@@ -15727,7 +15727,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Old Slave Block",
-                  "text": "Old Slave Block ist ein Denkmal auf dem Schlachtfeld von Antietam.",
+                  "text": "Historischer Sklavenblock, der zum Verkauf von Sklaven verwendet wurde, auf dem Schlachtfeld.",
                   "category": "historical",
                   "coords": [
                         -77.746157,
@@ -15745,7 +15745,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Georgians Overlook",
-                  "text": "Ein Aussichtspunkt mit Blick auf das Schlachtfeld von Antietam.",
+                  "text": "Aussichtspunkt benannt nach georgischen Truppen mit Blick auf das Schlachtfeld.",
                   "category": "natural",
                   "coords": [
                         -77.730136,
@@ -15754,7 +15754,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Rumsey Monument",
-                  "text": "Ein Denkmal auf dem Schlachtfeld von Antietam.",
+                  "text": "Denkmal für James Rumsey, Pionier der Dampfschifffahrt, in Shepherdstown.",
                   "category": "historical",
                   "coords": [
                         -77.7991,
@@ -15763,7 +15763,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Shepherdstown Historic District",
-                  "text": "Der historische Bezirk von Shepherdstown im Gebiet von Antietam.",
+                  "text": "Historischer Bezirk in Shepherdstown mit Gebäuden aus dem 18. und 19. Jahrhundert.",
                   "category": "landmark",
                   "coords": [
                         -77.805828,
@@ -15772,7 +15772,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Little House",
-                  "text": "Ein kleines historisches Haus auf dem Schlachtfeld von Antietam.",
+                  "text": "Ein historisches Haus auf dem Schlachtfeld von Antietam, das als Krankenhaus diente.",
                   "category": "landmark",
                   "coords": [
                         -77.804092,
@@ -15790,7 +15790,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Shafer Memorial Park",
-                  "text": "Ein Park zu Ehren von jemandem im Antietam-Gebiet.",
+                  "text": "Park mit Gedenkstätte für die Familie Shafer nahe dem Antietam-Schlachtfeld.",
                   "category": "park",
                   "coords": [
                         -77.658554,
@@ -15799,7 +15799,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Yankauer Nature Preserve",
-                  "text": "Ein Naturschutzgebiet im Antietam-Gebiet.",
+                  "text": "Naturschutzgebiet mit vielfältigen Lebensräumen in der Nähe des Schlachtfelds.",
                   "category": "natural",
                   "coords": [
                         -77.850444,
@@ -15808,7 +15808,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Antietam Creek Aqueduct",
-                  "text": "Ein Aquädukt über den Antietam Creek auf dem Schlachtfeld.",
+                  "text": "Steinaquädukt, erbaut für den C&O-Kanal über den Antietam Creek.",
                   "category": "landmark",
                   "coords": [
                         -77.74583,
@@ -15817,7 +15817,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "McClellan's Lookup Fire Tower",
-                  "text": "Ein Feuerwachturm mit Aussicht, benannt nach General McClellan, im Antietam-Gebiet.",
+                  "text": "Feuerwachturm benannt nach General McClellan, als Aussichtspunkt über das Schlachtfeld.",
                   "category": "natural",
                   "coords": [
                         -77.697299,
@@ -15826,7 +15826,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "World War 1",
-                  "text": "Ein Denkmal für den Ersten Weltkrieg auf dem Schlachtfeld von Antietam.",
+                  "text": "Weltkriegsdenkmal auf dem Schlachtfeldgelände.",
                   "category": "historical",
                   "coords": [
                         -77.695466,
@@ -15835,7 +15835,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Boonsboro Museum of History",
-                  "text": "Ein Geschichtsmuseum in Boonsboro im Antietam-Gebiet.",
+                  "text": "Museum zur Geschichte von Boonsboro und Umgebung in Battlefield.",
                   "category": "museum",
                   "coords": [
                         -77.652813,
@@ -15844,7 +15844,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Devil’s Backbone Park",
-                  "text": "Ein Park namens Devil's Backbone im Antietam-Gebiet.",
+                  "text": "Park entlang des Potomac River nahe dem Antietam-Schlachtfeld.",
                   "category": "park",
                   "coords": [
                         -77.710613,
@@ -15853,7 +15853,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Washington County Rural Heritage Museum",
-                  "text": "Ein Museum für ländliches Erbe im Washington County im Antietam-Gebiet.",
+                  "text": "Museum zur ländlichen und landwirtschaftlichen Vergangenheit von Washington County.",
                   "category": "museum",
                   "coords": [
                         -77.744199,
@@ -15862,7 +15862,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Popodicon",
-                  "text": "Ein historisches Herrenhaus im Antietam-Gebiet.",
+                  "text": "Granitdenkmal von 1907, das an die Schlacht am Schlachtfeld erinnert.",
                   "category": "historical",
                   "coords": [
                         -77.808278,
@@ -15871,7 +15871,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lock 38 Path",
-                  "text": "Ein Weg entlang einer Schleuse des Kanals im Antietam-Gebiet.",
+                  "text": "Weg entlang des C&O-Kanals bei Schleuse 38, einem historischen Wasserstraßenwahrzeichen.",
                   "category": "landmark",
                   "coords": [
                         -77.800084,
@@ -15880,7 +15880,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lock 39",
-                  "text": "Eine Kanalschleuse im Antietam-Gebiet.",
+                  "text": "Historische Schleuse 39 am C&O-Kanal in der Nähe von Battlefield.",
                   "category": "landmark",
                   "coords": [
                         -77.783017,
@@ -15889,7 +15889,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Hagerstown Model Railroad Museum at Antietam Station",
-                  "text": "Ein Modellbahnmuseum am Antietam-Bahnhof im Antietam-Gebiet.",
+                  "text": "Modelleisenbahnmuseum im historischen Bahnhof Antietam Station in Battlefield.",
                   "category": "museum",
                   "coords": [
                         -77.768871,
@@ -15898,7 +15898,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lock 40",
-                  "text": "Eine Kanalschleuse im Antietam-Gebiet.",
+                  "text": "Historische Schleuse 40 am C&O-Kanal, ein Wahrzeichen nahe Battlefield.",
                   "category": "landmark",
                   "coords": [
                         -77.779622,
@@ -15907,7 +15907,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "A. Pottenberger Farmhouse",
-                  "text": "Die Ruinen eines Bauernhauses im Antietam-Gebiet.",
+                  "text": "Historisches Bauernhaus einst im Besitz von A. Pottenberger in Battlefield.",
                   "category": "historical",
                   "coords": [
                         -77.752321,
@@ -15916,7 +15916,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Antietam National Battlefield Visitors Center",
-                  "text": "Das Besucherzentrum des Antietam National Battlefield mit Ausstellungen.",
+                  "text": "Besucherzentrum des Antietam National Battlefield mit Ausstellungen zur Schlacht von 1862.",
                   "category": "museum",
                   "coords": [
                         -77.74451,
@@ -15925,7 +15925,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Morgan's Grove Park",
-                  "text": "Ein Park im Antietam-Gebiet.",
+                  "text": "Park mit Picknickplätzen und Wanderwegen nahe dem Antietam-Schlachtfeld in Shepherdstown.",
                   "category": "park",
                   "coords": [
                         -77.821622,
@@ -15936,7 +15936,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "27th IN",
-                  "text": "A 27th IN egy emlékmű az antietami csatatéren.",
+                  "text": "Történelmi emlékmű az Indiana 27. gyalogezred számára a csatatéren.",
                   "category": "historical",
                   "coords": [
                         -77.744661,
@@ -15945,7 +15945,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Hawks Hill",
-                  "text": "A Hawks Hill egy csúcs az antietami csatatéren.",
+                  "text": "A Hawks Hill Battlefieldben egy domb, amely híres sólyommegfigyeléseiről, egy történelmi csatatéren.",
                   "category": "natural",
                   "coords": [
                         -77.708325,
@@ -15954,7 +15954,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mount Briar Wetlands Reserve",
-                  "text": "A Mount Briar Wetlands Reserve egy park az antietami csatatér közelében.",
+                  "text": "A Mount Briar Wetlands Reserve Battlefieldben egy vizes élőhely pallóösvényekkel és madármegfigyeléssel.",
                   "category": "park",
                   "coords": [
                         -77.67888,
@@ -15963,7 +15963,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Red Hill",
-                  "text": "A Red Hill egy csúcs az antietami csatatéren.",
+                  "text": "A Red Hill Battlefieldben egy domb vöröses talajjal, a történelmi csatatér része.",
                   "category": "natural",
                   "coords": [
                         -77.70027,
@@ -15972,7 +15972,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Devils Backbone",
-                  "text": "A Devils Backbone egy csúcs az antietami csatatéren.",
+                  "text": "A Devils Backbone Battlefieldben egy sziklás gerinc, a csatatér jellegzetes tájképi eleme.",
                   "category": "natural",
                   "coords": [
                         -77.704437,
@@ -15981,7 +15981,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Marks Church",
-                  "text": "A Saint Marks Church egy templom az antietami csatatéren.",
+                  "text": "A Saint Marks Church Battlefieldben egy templom temetővel, ahol polgárháborús katonák nyugszanak.",
                   "category": "religious",
                   "coords": [
                         -77.733882,
@@ -15990,7 +15990,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Ferry Hill",
-                  "text": "A Ferry Hill egy csúcs az antietami csatatéren.",
+                  "text": "Egy természetes domb az Antietam-i csatatéren.",
                   "category": "natural",
                   "coords": [
                         -77.797623,
@@ -15999,7 +15999,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Nicodemus Heights",
-                  "text": "A Nicodemus Heights egy csúcs az antietami csatatéren.",
+                  "text": "Egy erdős magaslat az Antietam-i csatatéren, amelyet a konföderációs erők használnak.",
                   "category": "natural",
                   "coords": [
                         -77.758604,
@@ -16008,7 +16008,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Philadelphia Brigade Monument",
-                  "text": "A Philadelphia Brigade Monument egy emlékmű az antietami csatatéren.",
+                  "text": "A philadelphiai dandár emlékműve az antietami csatában.",
                   "category": "historical",
                   "coords": [
                         -77.749225,
@@ -16017,7 +16017,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Hauser Ridge",
-                  "text": "A Hauser Ridge egy gerinc az antietami csatatéren.",
+                  "text": "Egy hegygerinc az Antietam-i csatatéren.",
                   "category": "natural",
                   "coords": [
                         -77.758327,
@@ -16026,7 +16026,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "New York State Monument",
-                  "text": "A New York State Monument egy emlékmű az antietami csatatéren.",
+                  "text": "New York állam emlékműve az antietami harcokban részt vett katonák tiszteletére.",
                   "category": "historical",
                   "coords": [
                         -77.744912,
@@ -16035,7 +16035,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Maryland Monument",
-                  "text": "A Maryland Monument egy emlékmű az antietami csatatéren.",
+                  "text": "Maryland emlékműve az antietami csatában harcoló katonáknak.",
                   "category": "historical",
                   "coords": [
                         -77.746026,
@@ -16044,7 +16044,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Civil War Medical Museum",
-                  "text": "A Civil War Medical Museum egy múzeum az antietami csatatéren.",
+                  "text": "Múzeum a polgárháborús orvoslásnak és tábori sebészetnek szentelve Battlefieldben.",
                   "category": "museum",
                   "coords": [
                         -77.714023,
@@ -16053,7 +16053,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "4th New York Volunteers",
-                  "text": "A 4th New York Volunteers egy emlékmű az antietami csatatéren.",
+                  "text": "Történelmi emlékmű a New York-i 4. önkéntes gyalogezred számára a csatatéren.",
                   "category": "historical",
                   "coords": [
                         -77.741388,
@@ -16062,7 +16062,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Old Slave Block",
-                  "text": "Az Old Slave Block egy emlékmű az antietami csatatéren.",
+                  "text": "Történelmi rabszolgatömb, amelyet rabszolgák eladására használtak, a csatatéren.",
                   "category": "historical",
                   "coords": [
                         -77.746157,
@@ -16080,7 +16080,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Georgians Overlook",
-                  "text": "Egy kilátópont, amely az antietami csatateret szemléli.",
+                  "text": "Tájképi kilátó, amely Georgia csapatokról kapta a nevét, a csatatérre néző kilátással.",
                   "category": "natural",
                   "coords": [
                         -77.730136,
@@ -16089,7 +16089,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Rumsey Monument",
-                  "text": "Egy emlékmű az antietami csatatéren.",
+                  "text": "James Rumsey gőzhajózási úttörő emlékműve Shepherdstownban.",
                   "category": "historical",
                   "coords": [
                         -77.7991,
@@ -16098,7 +16098,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Shepherdstown Historic District",
-                  "text": "Shepherdstown történelmi negyede az antietami területen.",
+                  "text": "Történelmi negyed Shepherdstownban, 18. és 19. századi épületekkel.",
                   "category": "landmark",
                   "coords": [
                         -77.805828,
@@ -16107,7 +16107,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Little House",
-                  "text": "Egy kis történelmi ház az antietami csatatéren.",
+                  "text": "Egy történelmi ház az antietami csatatéren, amelyet kórházként használtak.",
                   "category": "landmark",
                   "coords": [
                         -77.804092,
@@ -16125,7 +16125,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Shafer Memorial Park",
-                  "text": "Shafer-emlékpark az antietami területen.",
+                  "text": "Park a Shafer család emlékművével az Antietam-i csatatér közelében.",
                   "category": "park",
                   "coords": [
                         -77.658554,
@@ -16134,7 +16134,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Yankauer Nature Preserve",
-                  "text": "Yankauer Természetvédelmi Terület az antietami területen.",
+                  "text": "Természetvédelmi terület, amely változatos élőhelyeket véd a csatatér közelében.",
                   "category": "natural",
                   "coords": [
                         -77.850444,
@@ -16143,7 +16143,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Antietam Creek Aqueduct",
-                  "text": "Antietam-pataki vízvezeték a csatatéren.",
+                  "text": "Kő vízvezeték, amely a C&O-csatornát vezeti át az Antietam-patakon.",
                   "category": "landmark",
                   "coords": [
                         -77.74583,
@@ -16152,7 +16152,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "McClellan's Lookup Fire Tower",
-                  "text": "McClellan kilátó tűztornya az antietami területen.",
+                  "text": "Tűztorony, amely McClellan tábornokról kapta a nevét, a csatatér feletti kilátóként használt.",
                   "category": "natural",
                   "coords": [
                         -77.697299,
@@ -16161,7 +16161,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "World War 1",
-                  "text": "Első világháborús emlékmű az antietami csatatéren.",
+                  "text": "Első világháborús emlékmű a csatatér területén.",
                   "category": "historical",
                   "coords": [
                         -77.695466,
@@ -16170,7 +16170,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Boonsboro Museum of History",
-                  "text": "Boonsboro Történeti Múzeum az antietami területen.",
+                  "text": "Múzeum Boonsboro és környéke történetének bemutatására Battlefieldben.",
                   "category": "museum",
                   "coords": [
                         -77.652813,
@@ -16179,7 +16179,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Devil’s Backbone Park",
-                  "text": "Ördög gerince park az antietami területen.",
+                  "text": "Park a Potomac folyó mentén az Antietam-i csatatér közelében.",
                   "category": "park",
                   "coords": [
                         -77.710613,
@@ -16188,7 +16188,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Washington County Rural Heritage Museum",
-                  "text": "Washington Megyei Vidéki Örökség Múzeum az antietami területen.",
+                  "text": "Múzeum, amely Washington megye mezőgazdasági és vidéki örökségét mutatja be.",
                   "category": "museum",
                   "coords": [
                         -77.744199,
@@ -16197,7 +16197,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Popodicon",
-                  "text": "Egy történelmi kúria az antietami területen.",
+                  "text": "1907-es gránit emlékmű, amely a csatára emlékeztet a Battlefieldben.",
                   "category": "historical",
                   "coords": [
                         -77.808278,
@@ -16206,7 +16206,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lock 38 Path",
-                  "text": "A 38-as zsilip ösvénye az antietami területen.",
+                  "text": "Ösvény a C&O-csatorna mentén a 38-as zsilipnél, egy történelmi víziút nevezetesség.",
                   "category": "landmark",
                   "coords": [
                         -77.800084,
@@ -16215,7 +16215,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lock 39",
-                  "text": "A 39-es zsilip az antietami területen.",
+                  "text": "Történelmi 39-es zsilip a C&O-csatornán Battlefield közelében.",
                   "category": "landmark",
                   "coords": [
                         -77.783017,
@@ -16224,7 +16224,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Hagerstown Model Railroad Museum at Antietam Station",
-                  "text": "Hagerstown Modellvasút Múzeum az Antietam állomáson az antietami területen.",
+                  "text": "Modellvasút-múzeum a történelmi Antietam Station állomáson Battlefieldben.",
                   "category": "museum",
                   "coords": [
                         -77.768871,
@@ -16233,7 +16233,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lock 40",
-                  "text": "A 40-es zsilip az antietami területen.",
+                  "text": "Történelmi 40-es zsilip a C&O-csatornán, egy nevezetesség Battlefield közelében.",
                   "category": "landmark",
                   "coords": [
                         -77.779622,
@@ -16242,7 +16242,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "A. Pottenberger Farmhouse",
-                  "text": "Egy farmház romjai az antietami területen.",
+                  "text": "Történelmi tanyaház, amely egykor A. Pottenberger tulajdonában volt Battlefieldben.",
                   "category": "historical",
                   "coords": [
                         -77.752321,
@@ -16251,7 +16251,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Antietam National Battlefield Visitors Center",
-                  "text": "Az Antietam Nemzeti Csatatér Látogatóközpontja.",
+                  "text": "Az Antietam Nemzeti Csatatér Látogatóközpontja az 1862-es csata kiállításaival.",
                   "category": "museum",
                   "coords": [
                         -77.74451,
@@ -16260,7 +16260,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Morgan's Grove Park",
-                  "text": "Morgan liget park az antietami területen.",
+                  "text": "Park piknikezőhelyekkel és ösvényekkel az Antietam-i csatatér közelében, Shepherdstownban.",
                   "category": "park",
                   "coords": [
                         -77.821622,
@@ -16271,7 +16271,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "27th IN",
-                  "text": "27th IN este un monument pe câmpul de luptă de la Antietam.",
+                  "text": "Marcaj istoric pentru Regimentul 27 Infanterie Indiana pe câmpul de luptă.",
                   "category": "historical",
                   "coords": [
                         -77.744661,
@@ -16280,7 +16280,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Hawks Hill",
-                  "text": "Hawks Hill este un vârf pe câmpul de luptă de la Antietam.",
+                  "text": "Hawks Hill din Battlefield este un deal cunoscut pentru observarea șoimilor, pe un câmp de luptă istoric.",
                   "category": "natural",
                   "coords": [
                         -77.708325,
@@ -16289,7 +16289,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mount Briar Wetlands Reserve",
-                  "text": "Mount Briar Wetlands Reserve este un parc lângă câmpul de luptă de la Antietam.",
+                  "text": "Rezervația de Zone Umede Mount Briar din Battlefield este o zonă umedă cu alei de lemn și observare a păsărilor.",
                   "category": "park",
                   "coords": [
                         -77.67888,
@@ -16298,7 +16298,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Red Hill",
-                  "text": "Red Hill este un vârf pe câmpul de luptă de la Antietam.",
+                  "text": "Red Hill din Battlefield este un deal cu sol roșiatic, parte a câmpului de luptă istoric.",
                   "category": "natural",
                   "coords": [
                         -77.70027,
@@ -16307,7 +16307,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Devils Backbone",
-                  "text": "Devils Backbone este un vârf pe câmpul de luptă de la Antietam.",
+                  "text": "Devils Backbone din Battlefield este o creastă stâncoasă, un element peisagistic proeminent al câmpului de luptă.",
                   "category": "natural",
                   "coords": [
                         -77.704437,
@@ -16316,7 +16316,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Marks Church",
-                  "text": "Saint Marks Church este o biserică pe câmpul de luptă de la Antietam.",
+                  "text": "Biserica Saint Marks din Battlefield este o biserică cu un cimitir unde sunt îngropați soldați ai Războiului Civil.",
                   "category": "religious",
                   "coords": [
                         -77.733882,
@@ -16325,7 +16325,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Ferry Hill",
-                  "text": "Ferry Hill este un vârf pe câmpul de luptă de la Antietam.",
+                  "text": "Un deal natural pe câmpul de luptă de la Antietam.",
                   "category": "natural",
                   "coords": [
                         -77.797623,
@@ -16334,7 +16334,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Nicodemus Heights",
-                  "text": "Nicodemus Heights este un vârf pe câmpul de luptă de la Antietam.",
+                  "text": "O înălțime împădurită pe câmpul de luptă de la Antietam, folosită de trupele confederate.",
                   "category": "natural",
                   "coords": [
                         -77.758604,
@@ -16343,7 +16343,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Philadelphia Brigade Monument",
-                  "text": "Philadelphia Brigade Monument este un monument pe câmpul de luptă de la Antietam.",
+                  "text": "Monumentul Brigăzii Philadelphia la bătălia de la Antietam.",
                   "category": "historical",
                   "coords": [
                         -77.749225,
@@ -16352,7 +16352,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Hauser Ridge",
-                  "text": "Hauser Ridge este o creastă pe câmpul de luptă de la Antietam.",
+                  "text": "O creastă pe câmpul de luptă de la Antietam.",
                   "category": "natural",
                   "coords": [
                         -77.758327,
@@ -16361,7 +16361,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "New York State Monument",
-                  "text": "New York State Monument este un monument pe câmpul de luptă de la Antietam.",
+                  "text": "Monumentul statului New York în onoarea soldaților săi de la Antietam.",
                   "category": "historical",
                   "coords": [
                         -77.744912,
@@ -16370,7 +16370,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Maryland Monument",
-                  "text": "Maryland Monument este un monument pe câmpul de luptă de la Antietam.",
+                  "text": "Monumentul Maryland pentru trupele sale la Antietam.",
                   "category": "historical",
                   "coords": [
                         -77.746026,
@@ -16379,7 +16379,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Civil War Medical Museum",
-                  "text": "Civil War Medical Museum este un muzeu pe câmpul de luptă de la Antietam.",
+                  "text": "Muzeu dedicat medicinei și chirurgiei de camp din Războiul Civil în Battlefield.",
                   "category": "museum",
                   "coords": [
                         -77.714023,
@@ -16388,7 +16388,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "4th New York Volunteers",
-                  "text": "4th New York Volunteers este un monument pe câmpul de luptă de la Antietam.",
+                  "text": "Marcaj istoric pentru Regimentul 4 Infanterie Voluntari New York pe câmpul de luptă.",
                   "category": "historical",
                   "coords": [
                         -77.741388,
@@ -16397,7 +16397,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Old Slave Block",
-                  "text": "Old Slave Block este un monument pe câmpul de luptă de la Antietam.",
+                  "text": "Bloc istoric de sclavi folosit pentru vânzarea sclavilor, situat pe câmpul de luptă.",
                   "category": "historical",
                   "coords": [
                         -77.746157,
@@ -16415,7 +16415,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Georgians Overlook",
-                  "text": "Un punct de belvedere cu vedere asupra câmpului de luptă de la Antietam.",
+                  "text": "Punct de belvedere numit după trupele din Georgia, oferind vederi asupra câmpului de luptă.",
                   "category": "natural",
                   "coords": [
                         -77.730136,
@@ -16424,7 +16424,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Rumsey Monument",
-                  "text": "Un monument pe câmpul de luptă de la Antietam.",
+                  "text": "Monumentul lui James Rumsey, pionier al navigației cu aburi, în Shepherdstown.",
                   "category": "historical",
                   "coords": [
                         -77.7991,
@@ -16433,7 +16433,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Shepherdstown Historic District",
-                  "text": "Districtul istoric Shepherdstown în zona Antietam.",
+                  "text": "District istoric în Shepherdstown cu clădiri din secolele XVIII-XIX.",
                   "category": "landmark",
                   "coords": [
                         -77.805828,
@@ -16442,7 +16442,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Little House",
-                  "text": "O casă mică istorică pe câmpul de luptă de la Antietam.",
+                  "text": "O casă istorică pe câmpul de luptă de la Antietam, folosită drept spital.",
                   "category": "landmark",
                   "coords": [
                         -77.804092,
@@ -16460,7 +16460,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Shafer Memorial Park",
-                  "text": "Parcul Memorial Shafer în zona Antietam.",
+                  "text": "Parcul cu un memorial pentru familia Shafer lângă câmpul de luptă Antietam.",
                   "category": "park",
                   "coords": [
                         -77.658554,
@@ -16469,7 +16469,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Yankauer Nature Preserve",
-                  "text": "Rezervația Naturală Yankauer în zona Antietam.",
+                  "text": "Rezervație naturală care protejează habitate diverse lângă câmpul de luptă.",
                   "category": "natural",
                   "coords": [
                         -77.850444,
@@ -16478,7 +16478,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Antietam Creek Aqueduct",
-                  "text": "Apeductul peste pârâul Antietam pe câmpul de luptă.",
+                  "text": "Apeduct din piatră construit pentru Canalul C&O peste Pârâul Antietam.",
                   "category": "landmark",
                   "coords": [
                         -77.74583,
@@ -16487,7 +16487,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "McClellan's Lookup Fire Tower",
-                  "text": "Turnul de observare a incendiilor McClellan în zona Antietam.",
+                  "text": "Turn de observație numit după generalul McClellan, folosit ca punct de observație deasupra câmpului de luptă.",
                   "category": "natural",
                   "coords": [
                         -77.697299,
@@ -16496,7 +16496,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "World War 1",
-                  "text": "Un monument pentru Primul Război Mondial pe câmpul de luptă de la Antietam.",
+                  "text": "Monument al Primului Război Mondial pe terenul câmpului de luptă.",
                   "category": "historical",
                   "coords": [
                         -77.695466,
@@ -16505,7 +16505,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Boonsboro Museum of History",
-                  "text": "Muzeul de Istorie Boonsboro în zona Antietam.",
+                  "text": "Muzeu care acoperă istoria orașului Boonsboro și a zonei înconjurătoare în Battlefield.",
                   "category": "museum",
                   "coords": [
                         -77.652813,
@@ -16514,7 +16514,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Devil’s Backbone Park",
-                  "text": "Parcul Devil's Backbone în zona Antietam.",
+                  "text": "Parcul de-a lungul râului Potomac lângă câmpul de luptă Antietam.",
                   "category": "park",
                   "coords": [
                         -77.710613,
@@ -16523,7 +16523,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Washington County Rural Heritage Museum",
-                  "text": "Muzeul Patrimoniului Rural al Județului Washington în zona Antietam.",
+                  "text": "Muzeu care prezintă patrimoniul agricol și rural al comitatului Washington.",
                   "category": "museum",
                   "coords": [
                         -77.744199,
@@ -16532,7 +16532,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Popodicon",
-                  "text": "Un conac istoric în zona Antietam.",
+                  "text": "Monument de granit din 1907 care comemorează bătălia de la Battlefield.",
                   "category": "historical",
                   "coords": [
                         -77.808278,
@@ -16541,7 +16541,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lock 38 Path",
-                  "text": "Poteca ecluzei 38 în zona Antietam.",
+                  "text": "Potecă de-a lungul Canalului C&O la Ecluza 38, un reper istoric al căii navigabile.",
                   "category": "landmark",
                   "coords": [
                         -77.800084,
@@ -16550,7 +16550,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lock 39",
-                  "text": "Ecluza 39 în zona Antietam.",
+                  "text": "Ecluza istorică 39 pe Canalul C&O lângă Battlefield.",
                   "category": "landmark",
                   "coords": [
                         -77.783017,
@@ -16559,7 +16559,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Hagerstown Model Railroad Museum at Antietam Station",
-                  "text": "Muzeul de Căi Ferate Model Hagerstown la Stația Antietam în zona Antietam.",
+                  "text": "Muzeu de căi ferate model găzduit în istorica Gară Antietam din Battlefield.",
                   "category": "museum",
                   "coords": [
                         -77.768871,
@@ -16568,7 +16568,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lock 40",
-                  "text": "Ecluza 40 în zona Antietam.",
+                  "text": "Ecluza istorică 40 pe Canalul C&O, un reper lângă Battlefield.",
                   "category": "landmark",
                   "coords": [
                         -77.779622,
@@ -16577,7 +16577,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "A. Pottenberger Farmhouse",
-                  "text": "Ruinele unei case de fermă în zona Antietam.",
+                  "text": "Casă de fermă istorică deținută cândva de A. Pottenberger, situată în Battlefield.",
                   "category": "historical",
                   "coords": [
                         -77.752321,
@@ -16586,7 +16586,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Antietam National Battlefield Visitors Center",
-                  "text": "Centrul de Vizitatori al Câmpului de Luptă Național Antietam.",
+                  "text": "Centrul de vizitare al Câmpului de Luptă Național Antietam, cu expoziții despre bătălia din 1862.",
                   "category": "museum",
                   "coords": [
                         -77.74451,
@@ -16595,7 +16595,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Morgan's Grove Park",
-                  "text": "Parcul Morgan's Grove în zona Antietam.",
+                  "text": "Parcul cu zone de picnic și trasee lângă câmpul de luptă Antietam în Shepherdstown.",
                   "category": "park",
                   "coords": [
                         -77.821622,
@@ -16606,7 +16606,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "27th IN",
-                  "text": "27th IN is a monument on the Antietam Battlefield.",
+                  "text": "Historical marker for the 27th Indiana Infantry regiment on the Battlefield.",
                   "category": "historical",
                   "coords": [
                         -77.744661,
@@ -16615,7 +16615,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Hawks Hill",
-                  "text": "Hawks Hill is a peak on the Antietam Battlefield.",
+                  "text": "Hawks Hill in Battlefield is a hill known for hawk sightings, on a historic battlefield.",
                   "category": "natural",
                   "coords": [
                         -77.708325,
@@ -16624,7 +16624,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mount Briar Wetlands Reserve",
-                  "text": "Mount Briar Wetlands Reserve is a park near the Antietam Battlefield.",
+                  "text": "Mount Briar Wetlands Reserve in Battlefield is a wetland area with boardwalks and birdwatching.",
                   "category": "park",
                   "coords": [
                         -77.67888,
@@ -16633,7 +16633,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Red Hill",
-                  "text": "Red Hill is a peak on the Antietam Battlefield.",
+                  "text": "Red Hill in Battlefield is a hill with reddish soil, part of the historic battlefield.",
                   "category": "natural",
                   "coords": [
                         -77.70027,
@@ -16642,7 +16642,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Devils Backbone",
-                  "text": "Devils Backbone is a peak on the Antietam Battlefield.",
+                  "text": "Devils Backbone in Battlefield is a rocky ridge, a prominent landscape feature of the battlefield.",
                   "category": "natural",
                   "coords": [
                         -77.704437,
@@ -16651,7 +16651,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Marks Church",
-                  "text": "Saint Marks Church is a church on the Antietam Battlefield.",
+                  "text": "Saint Marks Church in Battlefield is a church with a cemetery containing Civil War soldiers.",
                   "category": "religious",
                   "coords": [
                         -77.733882,
@@ -16660,7 +16660,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Ferry Hill",
-                  "text": "Ferry Hill is a peak on the Antietam Battlefield.",
+                  "text": "A natural hill on the Antietam battlefield.",
                   "category": "natural",
                   "coords": [
                         -77.797623,
@@ -16669,7 +16669,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Nicodemus Heights",
-                  "text": "Nicodemus Heights is a peak on the Antietam Battlefield.",
+                  "text": "A wooded height on the Antietam battlefield used by Confederate troops.",
                   "category": "natural",
                   "coords": [
                         -77.758604,
@@ -16678,7 +16678,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Philadelphia Brigade Monument",
-                  "text": "Philadelphia Brigade Monument is a monument on the Antietam Battlefield.",
+                  "text": "Monument commemorating the Philadelphia Brigade at the Battle of Antietam.",
                   "category": "historical",
                   "coords": [
                         -77.749225,
@@ -16687,7 +16687,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Hauser Ridge",
-                  "text": "Hauser Ridge is a ridge on the Antietam Battlefield.",
+                  "text": "A ridge on the Antietam battlefield.",
                   "category": "natural",
                   "coords": [
                         -77.758327,
@@ -16696,7 +16696,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "New York State Monument",
-                  "text": "New York State Monument is a monument on the Antietam Battlefield.",
+                  "text": "State monument honoring New York soldiers at Antietam.",
                   "category": "historical",
                   "coords": [
                         -77.744912,
@@ -16705,7 +16705,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Maryland Monument",
-                  "text": "Maryland Monument is a monument on the Antietam Battlefield.",
+                  "text": "Monument honoring Maryland troops at Antietam.",
                   "category": "historical",
                   "coords": [
                         -77.746026,
@@ -16714,7 +16714,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Civil War Medical Museum",
-                  "text": "Civil War Medical Museum is a museum on the Antietam Battlefield.",
+                  "text": "Museum dedicated to Civil War medicine and field surgery in Battlefield.",
                   "category": "museum",
                   "coords": [
                         -77.714023,
@@ -16723,7 +16723,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "4th New York Volunteers",
-                  "text": "4th New York Volunteers is a monument on the Antietam Battlefield.",
+                  "text": "Historical marker for the 4th New York Volunteer Infantry on the Battlefield.",
                   "category": "historical",
                   "coords": [
                         -77.741388,
@@ -16732,7 +16732,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Old Slave Block",
-                  "text": "Old Slave Block is a monument on the Antietam Battlefield.",
+                  "text": "Historic slave block used for selling slaves, located on the Battlefield.",
                   "category": "historical",
                   "coords": [
                         -77.746157,
@@ -16750,7 +16750,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Georgians Overlook",
-                  "text": "A viewpoint overlooking the Antietam battlefield.",
+                  "text": "Scenic overlook named after Georgia troops, offering views of the Battlefield.",
                   "category": "natural",
                   "coords": [
                         -77.730136,
@@ -16759,7 +16759,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Rumsey Monument",
-                  "text": "A monument at the Antietam battlefield.",
+                  "text": "Monument to James Rumsey, steamboat pioneer, in Shepherdstown.",
                   "category": "historical",
                   "coords": [
                         -77.7991,
@@ -16768,7 +16768,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Shepherdstown Historic District",
-                  "text": "The Shepherdstown Historic District in the Antietam area.",
+                  "text": "Historic district in Shepherdstown with 18th- and 19th-century buildings.",
                   "category": "landmark",
                   "coords": [
                         -77.805828,
@@ -16777,7 +16777,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Little House",
-                  "text": "A small historic house at the Antietam battlefield.",
+                  "text": "A historic house on the Antietam battlefield used as a hospital.",
                   "category": "landmark",
                   "coords": [
                         -77.804092,
@@ -16795,7 +16795,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Shafer Memorial Park",
-                  "text": "Shafer Memorial Park in the Antietam area.",
+                  "text": "Park with a memorial to the Shafer family near the Antietam battlefield.",
                   "category": "park",
                   "coords": [
                         -77.658554,
@@ -16804,7 +16804,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Yankauer Nature Preserve",
-                  "text": "Yankauer Nature Preserve in the Antietam area.",
+                  "text": "Nature preserve protecting diverse habitats near the Battlefield.",
                   "category": "natural",
                   "coords": [
                         -77.850444,
@@ -16813,7 +16813,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Antietam Creek Aqueduct",
-                  "text": "An aqueduct over Antietam Creek at the battlefield.",
+                  "text": "Stone aqueduct built to carry the C&O Canal over Antietam Creek.",
                   "category": "landmark",
                   "coords": [
                         -77.74583,
@@ -16822,7 +16822,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "McClellan's Lookup Fire Tower",
-                  "text": "McClellan's Lookout Fire Tower in the Antietam area.",
+                  "text": "Fire tower named after General McClellan, used as a lookout over the Battlefield.",
                   "category": "natural",
                   "coords": [
                         -77.697299,
@@ -16831,7 +16831,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "World War 1",
-                  "text": "A World War I monument at the Antietam battlefield.",
+                  "text": "World War I memorial on the Battlefield grounds.",
                   "category": "historical",
                   "coords": [
                         -77.695466,
@@ -16840,7 +16840,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Boonsboro Museum of History",
-                  "text": "Boonsboro Museum of History in the Antietam area.",
+                  "text": "Museum covering the history of Boonsboro and the surrounding area in Battlefield.",
                   "category": "museum",
                   "coords": [
                         -77.652813,
@@ -16849,7 +16849,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Devil’s Backbone Park",
-                  "text": "Devil's Backbone Park in the Antietam area.",
+                  "text": "Park along the Potomac River near the Antietam battlefield.",
                   "category": "park",
                   "coords": [
                         -77.710613,
@@ -16858,7 +16858,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Washington County Rural Heritage Museum",
-                  "text": "Washington County Rural Heritage Museum in the Antietam area.",
+                  "text": "Museum showcasing agricultural and rural heritage of Washington County.",
                   "category": "museum",
                   "coords": [
                         -77.744199,
@@ -16867,7 +16867,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Popodicon",
-                  "text": "A historic manor in the Antietam area.",
+                  "text": "A 1907 granite monument commemorating the battle at Battlefield.",
                   "category": "historical",
                   "coords": [
                         -77.808278,
@@ -16876,7 +16876,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lock 38 Path",
-                  "text": "A path along Lock 38 in the Antietam area.",
+                  "text": "Path along the C&O Canal at Lock 38, a historic waterway landmark.",
                   "category": "landmark",
                   "coords": [
                         -77.800084,
@@ -16885,7 +16885,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lock 39",
-                  "text": "Lock 39 in the Antietam area.",
+                  "text": "Historic Lock 39 on the C&O Canal near Battlefield.",
                   "category": "landmark",
                   "coords": [
                         -77.783017,
@@ -16894,7 +16894,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Hagerstown Model Railroad Museum at Antietam Station",
-                  "text": "The Hagerstown Model Railroad Museum at Antietam Station in the Antietam area.",
+                  "text": "Model railroad museum housed in the historic Antietam Station in Battlefield.",
                   "category": "museum",
                   "coords": [
                         -77.768871,
@@ -16903,7 +16903,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lock 40",
-                  "text": "Lock 40 in the Antietam area.",
+                  "text": "Historic Lock 40 on the C&O Canal, a landmark near Battlefield.",
                   "category": "landmark",
                   "coords": [
                         -77.779622,
@@ -16912,7 +16912,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "A. Pottenberger Farmhouse",
-                  "text": "Ruins of the A. Pottenberger Farmhouse in the Antietam area.",
+                  "text": "Historic farmhouse once owned by A. Pottenberger, located in Battlefield.",
                   "category": "historical",
                   "coords": [
                         -77.752321,
@@ -16921,7 +16921,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Antietam National Battlefield Visitors Center",
-                  "text": "The Antietam National Battlefield Visitors Center with exhibits.",
+                  "text": "Visitor center for Antietam National Battlefield with exhibits on the 1862 battle.",
                   "category": "museum",
                   "coords": [
                         -77.74451,
@@ -16930,7 +16930,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Morgan's Grove Park",
-                  "text": "Morgan's Grove Park in the Antietam area.",
+                  "text": "Park with picnic areas and trails near the Antietam battlefield in Shepherdstown.",
                   "category": "park",
                   "coords": [
                         -77.821622,
@@ -17026,7 +17026,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "White Hall Tavern",
-                  "text": "Das White Hall Tavern ist ein Museum in Harpers Ferry, das in einem ehemaligen Gasthaus untergebracht ist.",
+                  "text": "Historische Taverne aus dem 18. Jahrhundert in Harpers Ferry, die als Museum dient.",
                   "category": "museum",
                   "coords": [
                         -77.730293,
@@ -17035,7 +17035,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Peter's Roman Catholic Church",
-                  "text": "Die St. Peter’s Roman Catholic Church ist eine römisch-katholische Kirche in Harpers Ferry.",
+                  "text": "Römisch-katholische Kirche in Harpers Ferry, erbaut im 19. Jahrhundert.",
                   "category": "religious",
                   "coords": [
                         -77.731328,
@@ -17044,7 +17044,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Curtis Freewill Baptist Church",
-                  "text": "Die Curtis Freewill Baptist Church ist eine Freie Willensbaptistenkirche in Harpers Ferry.",
+                  "text": "Freie Willensbaptistenkirche in Harpers Ferry.",
                   "category": "religious",
                   "coords": [
                         -77.741478,
@@ -17053,7 +17053,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "White Rock",
-                  "text": "White Rock ist ein Gipfel in der Umgebung von Harpers Ferry.",
+                  "text": "Ein Quarzfelsen in der Nähe von Harpers Ferry.",
                   "category": "natural",
                   "coords": [
                         -77.69777,
@@ -17062,7 +17062,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Dargan Quarry",
-                  "text": "Der Dargan Quarry ist ein Höhleneingang in einem Steinbruch bei Harpers Ferry.",
+                  "text": "Verlassener Kalksteinbruch nahe Harpers Ferry.",
                   "category": "natural",
                   "coords": [
                         -77.743049,
@@ -17071,7 +17071,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Maryland Heights",
-                  "text": "Maryland Heights ist ein markanter Gipfel mit Blick auf Harpers Ferry.",
+                  "text": "Steiler Bergrücken gegenüber von Harpers Ferry am Potomac.",
                   "category": "natural",
                   "coords": [
                         -77.716416,
@@ -17080,7 +17080,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Camp Hill",
-                  "text": "Camp Hill ist ein Gipfel in Harpers Ferry.",
+                  "text": "Ein Hügel in Harpers Ferry, der während des Bürgerkriegs als Lagerplatz genutzt wurde.",
                   "category": "natural",
                   "coords": [
                         -77.741307,
@@ -17089,7 +17089,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Snyder Hill",
-                  "text": "Snyder Hill ist ein Gipfel in der Region Harpers Ferry.",
+                  "text": "Ein Hügel nahe Harpers Ferry.",
                   "category": "natural",
                   "coords": [
                         -77.793327,
@@ -17098,7 +17098,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Brunswick City Park",
-                  "text": "Der Brunswick City Park ist ein Stadtpark in Brunswick im Gebiet von Harpers Ferry.",
+                  "text": "Stadtpark in Brunswick, Maryland.",
                   "category": "park",
                   "coords": [
                         -77.618277,
@@ -17107,7 +17107,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Brunswick Heights Park",
-                  "text": "Der Brunswick Heights Park ist ein Park in Brunswick im Harpers Ferry-Gebiet.",
+                  "text": "Park mit Aussicht auf den Potomac in Brunswick.",
                   "category": "park",
                   "coords": [
                         -77.626726,
@@ -17116,7 +17116,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chestnut Grove Park",
-                  "text": "Der Chestnut Grove Park ist ein Park in der Umgebung von Harpers Ferry.",
+                  "text": "Waldpark nahe Harpers Ferry.",
                   "category": "park",
                   "coords": [
                         -77.702507,
@@ -17125,7 +17125,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Antietam Dargan Community Park",
-                  "text": "Der Antietam Dargan Community Park ist ein Gemeinschaftspark im Harpers Ferry-Gebiet.",
+                  "text": "Gemeinschaftspark für die Gegend von Dargan nahe Harpers Ferry.",
                   "category": "park",
                   "coords": [
                         -77.732774,
@@ -17134,7 +17134,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Nell Boone Park",
-                  "text": "Der Nell Boone Park ist ein Park in der Nähe von Harpers Ferry.",
+                  "text": "Kleiner Park in Harpers Ferry, benannt nach Nell Boone.",
                   "category": "park",
                   "coords": [
                         -77.720885,
@@ -17143,7 +17143,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lovettsville Museum",
-                  "text": "Das Lovettsville Museum ist ein Museum in Lovettsville im historischen Gebiet von Harpers Ferry.",
+                  "text": "Museum zur Geschichte von Lovettsville in der Nähe von Harpers Ferry.",
                   "category": "museum",
                   "coords": [
                         -77.638513,
@@ -17161,7 +17161,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Cotton/Flour Mill Intake Arches",
-                  "text": "Die Cotton/Flour Mill Intake Arches sind Ruinen von Einlassbögen einer Baumwoll-/Mehlmühle in Harpers Ferry.",
+                  "text": "Historische Einlassbögen für eine Baumwoll- und Getreidemühle auf Virginius Island bei Harpers Ferry.",
                   "category": "historical",
                   "coords": [
                         -77.737888,
@@ -17179,7 +17179,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "John Brown Fort Foundation",
-                  "text": "Das John Brown Fort Foundation sind die Ruinen des Fundaments von John Browns Fort in Harpers Ferry.",
+                  "text": "Fundamentreste von John Browns Fort, dem Maschinenhaus, in dem er 1859 seinen letzten Kampf führte.",
                   "category": "historical",
                   "coords": [
                         -77.761578,
@@ -17188,7 +17188,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "B&O - Harpers Ferry Bollman Bridge",
-                  "text": "Die B&O - Harpers Ferry Bollman Bridge sind die Ruinen der Bollman-Fachwerkbrücke der B&O-Eisenbahn in Harpers Ferry.",
+                  "text": "Historische Bollman-Fachwerkbrücke der B&O-Eisenbahn über den Potomac in Harpers Ferry.",
                   "category": "historical",
                   "coords": [
                         -77.727303,
@@ -17215,7 +17215,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pulp Mill Ruins",
-                  "text": "Die Pulp Mill Ruins sind die Ruinen einer Zellstofffabrik in Harpers Ferry.",
+                  "text": "Ruinen einer historischen Zellstoffmühle auf Virginius Island bei Harpers Ferry.",
                   "category": "historical",
                   "coords": [
                         -77.739888,
@@ -17224,7 +17224,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Armory Canal Headrace",
-                  "text": "Der Armory Canal Headrace ist der Ruinenrest des Hauptkanals der Waffenfabrik in Harpers Ferry.",
+                  "text": "Historischer Kanalzulauf, der die Waffenfabrik von Harpers Ferry mit Wasser versorgte.",
                   "category": "historical",
                   "coords": [
                         -77.749802,
@@ -17233,7 +17233,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Virginius Island Cotton/Flour Mill Ruins",
-                  "text": "Die Virginius Island Cotton/Flour Mill Ruins sind die Ruinen einer Baumwoll-/Mehlmühle auf Virginius Island in Harpers Ferry.",
+                  "text": "Ruinen von Baumwoll- und Getreidemühlen auf Virginius Island, einem historischen Industriestandort bei Harpers Ferry.",
                   "category": "historical",
                   "coords": [
                         -77.734155,
@@ -17242,7 +17242,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Huckleberry Hill",
-                  "text": "Huckleberry Hill ist ein Campingplatz im Harpers Ferry-Gebiet.",
+                  "text": "Ein Hügel in Ferry, der einen weiten Panoramablick über die Umgebung bietet.",
                   "category": "landmark",
                   "coords": [
                         -77.757337,
@@ -17251,7 +17251,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Potoma Wayside",
-                  "text": "Potoma Wayside ist eine Straßenattraktion in der Nähe von Harpers Ferry.",
+                  "text": "Ein Rastplatz am Ufer des Potoma River in Ferry.",
                   "category": "landmark",
                   "coords": [
                         -77.712108,
@@ -17316,7 +17316,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "White Hall Tavern",
-                  "text": "A White Hall Tavern múzeum Harpers Ferryben, egy egykori fogadó épületében.",
+                  "text": "18. századi történelmi fogadó Harpers Ferryben, amely ma múzeum.",
                   "category": "museum",
                   "coords": [
                         -77.730293,
@@ -17325,7 +17325,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Peter's Roman Catholic Church",
-                  "text": "A Szent Péter római katolikus templom egy római katolikus templom Harpers Ferryben.",
+                  "text": "Római katolikus templom Harpers Ferryben, a 19. században épült.",
                   "category": "religious",
                   "coords": [
                         -77.731328,
@@ -17334,7 +17334,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Curtis Freewill Baptist Church",
-                  "text": "A Curtis Freewill Baptist Church egy szabad akaratú baptista templom Harpers Ferryben.",
+                  "text": "Szabad akaratú baptista templom Harpers Ferryben.",
                   "category": "religious",
                   "coords": [
                         -77.741478,
@@ -17343,7 +17343,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "White Rock",
-                  "text": "A White Rock egy csúcs Harpers Ferry környékén.",
+                  "text": "Egy kvarc sziklafal Harpers Ferry közelében.",
                   "category": "natural",
                   "coords": [
                         -77.69777,
@@ -17352,7 +17352,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Dargan Quarry",
-                  "text": "A Dargan Quarry egy barlangbejárat egy kőbányában Harpers Ferry közelében.",
+                  "text": "Egy elhagyott mészkőbánya Harpers Ferry közelében.",
                   "category": "natural",
                   "coords": [
                         -77.743049,
@@ -17361,7 +17361,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Maryland Heights",
-                  "text": "A Maryland Heights egy kiemelkedő csúcs, amely Harpers Ferryre néz.",
+                  "text": "Meredek gerinc Harpers Ferry-vel szemben a Potomac folyó mellett.",
                   "category": "natural",
                   "coords": [
                         -77.716416,
@@ -17370,7 +17370,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Camp Hill",
-                  "text": "A Camp Hill egy csúcs Harpers Ferryben.",
+                  "text": "Egy domb Harpers Ferryben, amelyet a polgárháború idején táborhelyként használtak.",
                   "category": "natural",
                   "coords": [
                         -77.741307,
@@ -17379,7 +17379,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Snyder Hill",
-                  "text": "A Snyder Hill egy csúcs a Harpers Ferry régióban.",
+                  "text": "Egy domb Harpers Ferry közelében.",
                   "category": "natural",
                   "coords": [
                         -77.793327,
@@ -17388,7 +17388,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Brunswick City Park",
-                  "text": "A Brunswick City Park egy városi park Brunswickban, a Harpers Ferry területen.",
+                  "text": "Városi park Brunswickban, Marylandben.",
                   "category": "park",
                   "coords": [
                         -77.618277,
@@ -17397,7 +17397,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Brunswick Heights Park",
-                  "text": "A Brunswick Heights Park egy park Brunswickban, a Harpers Ferry régióban.",
+                  "text": "Park kilátással a Potomacra Brunswickban.",
                   "category": "park",
                   "coords": [
                         -77.626726,
@@ -17406,7 +17406,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chestnut Grove Park",
-                  "text": "A Chestnut Grove Park egy park Harpers Ferry környékén.",
+                  "text": "Erdős park Harpers Ferry közelében.",
                   "category": "park",
                   "coords": [
                         -77.702507,
@@ -17415,7 +17415,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Antietam Dargan Community Park",
-                  "text": "Az Antietam Dargan Community Park egy közösségi park a Harpers Ferry régióban.",
+                  "text": "Közösségi park a Dargan környékén, Harpers Ferry közelében.",
                   "category": "park",
                   "coords": [
                         -77.732774,
@@ -17424,7 +17424,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Nell Boone Park",
-                  "text": "A Nell Boone Park egy park Harpers Ferry közelében.",
+                  "text": "Kis park Harpers Ferryben, Nell Boone-ról elnevezve.",
                   "category": "park",
                   "coords": [
                         -77.720885,
@@ -17433,7 +17433,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lovettsville Museum",
-                  "text": "A Lovettsville Museum egy múzeum Lovettsville-ben, a Harpers Ferry történelmi területen.",
+                  "text": "Múzeum Lovettsville történetének bemutatására, Harpers Ferry közelében.",
                   "category": "museum",
                   "coords": [
                         -77.638513,
@@ -17451,7 +17451,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Cotton/Flour Mill Intake Arches",
-                  "text": "A Cotton/Flour Mill Intake Arches egy pamut-/lisztmalom beömlőíveinek romjai Harpers Ferryben.",
+                  "text": "Történelmi beömlőívek egy pamut- és lisztmalom számára a Virginius-szigeten, Harpers Ferry közelében.",
                   "category": "historical",
                   "coords": [
                         -77.737888,
@@ -17469,7 +17469,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "John Brown Fort Foundation",
-                  "text": "A John Brown Fort Foundation John Brown erődítményének alapozási romjai Harpers Ferryben.",
+                  "text": "John Brown erődjének alapozási maradványai, a gépház, ahol 1859-ben végső ellenállást tanúsított.",
                   "category": "historical",
                   "coords": [
                         -77.761578,
@@ -17478,7 +17478,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "B&O - Harpers Ferry Bollman Bridge",
-                  "text": "A B&O - Harpers Ferry Bollman Bridge a B&O vasút Bollman-rácsos hídjának romjai Harpers Ferryben.",
+                  "text": "Történelmi Bollman-rácsos híd, amelyet a B&O vasút épített a Potomac folyón Harpers Ferrynél.",
                   "category": "historical",
                   "coords": [
                         -77.727303,
@@ -17505,7 +17505,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pulp Mill Ruins",
-                  "text": "A Pulp Mill Ruins egy cellulózgyár romjai Harpers Ferryben.",
+                  "text": "Egy történelmi cellulózgyár romjai a Virginius-szigeten, Harpers Ferry közelében.",
                   "category": "historical",
                   "coords": [
                         -77.739888,
@@ -17514,7 +17514,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Armory Canal Headrace",
-                  "text": "Az Armory Canal Headrace a fegyvergyár főcsatornájának romja Harpers Ferryben.",
+                  "text": "Történelmi csatorna befolyó, amely a Harpers Ferry-i fegyvergyárat látta el vízzel.",
                   "category": "historical",
                   "coords": [
                         -77.749802,
@@ -17523,7 +17523,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Virginius Island Cotton/Flour Mill Ruins",
-                  "text": "A Virginius Island Cotton/Flour Mill Ruins egy pamut-/lisztmalom romjai a Virginius-szigeten Harpers Ferryben.",
+                  "text": "Pamut- és lisztmalmok romjai a Virginius-szigeten, egy történelmi ipari terület Harpers Ferry közelében.",
                   "category": "historical",
                   "coords": [
                         -77.734155,
@@ -17532,7 +17532,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Huckleberry Hill",
-                  "text": "A Huckleberry Hill egy kemping a Harpers Ferry területen.",
+                  "text": "Egy domb Ferryben, amely panorámás kilátást nyújt a környékre.",
                   "category": "landmark",
                   "coords": [
                         -77.757337,
@@ -17541,7 +17541,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Potoma Wayside",
-                  "text": "A Potoma Wayside egy út menti látványosság Harpers Ferry közelében.",
+                  "text": "Egy pihenőhely a Potoma folyó partján Ferryben.",
                   "category": "landmark",
                   "coords": [
                         -77.712108,
@@ -17606,7 +17606,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "White Hall Tavern",
-                  "text": "White Hall Tavern este un muzeu în Harpers Ferry, găzduit într-o fostă tavernă.",
+                  "text": "O tavernă istorică din secolul al XVIII-lea în Harpers Ferry, folosită ca muzeu.",
                   "category": "museum",
                   "coords": [
                         -77.730293,
@@ -17615,7 +17615,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Peter's Roman Catholic Church",
-                  "text": "Biserica Catolică Romană Sfântul Petru este o biserică romano-catolică din Harpers Ferry.",
+                  "text": "Biserica romano-catolică din Harpers Ferry, construită în secolul al XIX-lea.",
                   "category": "religious",
                   "coords": [
                         -77.731328,
@@ -17624,7 +17624,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Curtis Freewill Baptist Church",
-                  "text": "Curtis Freewill Baptist Church este o biserică baptistă cu voință liberă din Harpers Ferry.",
+                  "text": "Biserica baptistă liberă din Harpers Ferry.",
                   "category": "religious",
                   "coords": [
                         -77.741478,
@@ -17633,7 +17633,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "White Rock",
-                  "text": "White Rock este un vârf în zona Harpers Ferry.",
+                  "text": "O formațiune de cuarț lângă Harpers Ferry.",
                   "category": "natural",
                   "coords": [
                         -77.69777,
@@ -17642,7 +17642,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Dargan Quarry",
-                  "text": "Dargan Quarry este o intrare în peșteră într-o carieră lângă Harpers Ferry.",
+                  "text": "O carieră de calcar abandonată lângă Harpers Ferry.",
                   "category": "natural",
                   "coords": [
                         -77.743049,
@@ -17651,7 +17651,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Maryland Heights",
-                  "text": "Maryland Heights este un vârf proeminent care domină Harpers Ferry.",
+                  "text": "O creastă abruptă peste râu față de Harpers Ferry, de-a lungul Potomacului.",
                   "category": "natural",
                   "coords": [
                         -77.716416,
@@ -17660,7 +17660,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Camp Hill",
-                  "text": "Camp Hill este un vârf în Harpers Ferry.",
+                  "text": "Un deal în Harpers Ferry folosit ca tabără în timpul Războiului Civil.",
                   "category": "natural",
                   "coords": [
                         -77.741307,
@@ -17669,7 +17669,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Snyder Hill",
-                  "text": "Snyder Hill este un vârf în regiunea Harpers Ferry.",
+                  "text": "Un deal lângă Harpers Ferry.",
                   "category": "natural",
                   "coords": [
                         -77.793327,
@@ -17678,7 +17678,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Brunswick City Park",
-                  "text": "Brunswick City Park este un parc orășenesc în Brunswick, în zona Harpers Ferry.",
+                  "text": "Parcul orașului Brunswick, Maryland.",
                   "category": "park",
                   "coords": [
                         -77.618277,
@@ -17687,7 +17687,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Brunswick Heights Park",
-                  "text": "Brunswick Heights Park este un parc în Brunswick, zona Harpers Ferry.",
+                  "text": "Parcul cu vedere la râul Potomac în Brunswick.",
                   "category": "park",
                   "coords": [
                         -77.626726,
@@ -17696,7 +17696,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chestnut Grove Park",
-                  "text": "Chestnut Grove Park este un parc în zona Harpers Ferry.",
+                  "text": "Un parc împădurit lângă Harpers Ferry.",
                   "category": "park",
                   "coords": [
                         -77.702507,
@@ -17705,7 +17705,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Antietam Dargan Community Park",
-                  "text": "Antietam Dargan Community Park este un parc comunitar în zona Harpers Ferry.",
+                  "text": "Parcul comunitar pentru zona Dargan lângă Harpers Ferry.",
                   "category": "park",
                   "coords": [
                         -77.732774,
@@ -17714,7 +17714,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Nell Boone Park",
-                  "text": "Nell Boone Park este un parc lângă Harpers Ferry.",
+                  "text": "Un parc mic în Harpers Ferry, numit după Nell Boone.",
                   "category": "park",
                   "coords": [
                         -77.720885,
@@ -17723,7 +17723,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lovettsville Museum",
-                  "text": "Muzeul Lovettsville este un muzeu în Lovettsville, în zona istorică Harpers Ferry.",
+                  "text": "Muzeu care prezintă istoria orașului Lovettsville, situat lângă Harpers Ferry.",
                   "category": "museum",
                   "coords": [
                         -77.638513,
@@ -17741,7 +17741,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Cotton/Flour Mill Intake Arches",
-                  "text": "Cotton/Flour Mill Intake Arches sunt ruinele unor arcade de admisie ale unei mori de bumbac/făină din Harpers Ferry.",
+                  "text": "Arcuri de admisie istorice pentru o moară de bumbac și făină pe Insula Virginius lângă Harpers Ferry.",
                   "category": "historical",
                   "coords": [
                         -77.737888,
@@ -17759,7 +17759,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "John Brown Fort Foundation",
-                  "text": "John Brown Fort Foundation sunt ruinele fundației fortului lui John Brown din Harpers Ferry.",
+                  "text": "Rămășițe ale fundației Fortului lui John Brown, sala mașinilor unde a făcut ultima sa rezistență în 1859.",
                   "category": "historical",
                   "coords": [
                         -77.761578,
@@ -17768,7 +17768,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "B&O - Harpers Ferry Bollman Bridge",
-                  "text": "B&O - Harpers Ferry Bollman Bridge sunt ruinele podului Bollman al căii ferate B&O din Harpers Ferry.",
+                  "text": "Pod istoric cu zăbrele Bollman construit de calea ferată B&O peste Potomac la Harpers Ferry.",
                   "category": "historical",
                   "coords": [
                         -77.727303,
@@ -17795,7 +17795,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pulp Mill Ruins",
-                  "text": "Pulp Mill Ruins sunt ruinele unei fabrici de celuloză din Harpers Ferry.",
+                  "text": "Ruinele unei mori istorice de celuloză pe Insula Virginius lângă Harpers Ferry.",
                   "category": "historical",
                   "coords": [
                         -77.739888,
@@ -17804,7 +17804,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Armory Canal Headrace",
-                  "text": "Armory Canal Headrace este ruina canalului principal al arsenalului din Harpers Ferry.",
+                  "text": "Canal istoric de alimentare cu apă care aproviziona Arsenalul de la Harpers Ferry.",
                   "category": "historical",
                   "coords": [
                         -77.749802,
@@ -17813,7 +17813,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Virginius Island Cotton/Flour Mill Ruins",
-                  "text": "Virginius Island Cotton/Flour Mill Ruins sunt ruinele unei mori de bumbac/făină de pe Insula Virginius, Harpers Ferry.",
+                  "text": "Ruine ale morilor de bumbac și făină pe Insula Virginius, un sit industrial istoric lângă Harpers Ferry.",
                   "category": "historical",
                   "coords": [
                         -77.734155,
@@ -17822,7 +17822,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Huckleberry Hill",
-                  "text": "Huckleberry Hill este un loc de campare în zona Harpers Ferry.",
+                  "text": "Un deal din Ferry care oferă o panoramă largă asupra peisajului din jur.",
                   "category": "landmark",
                   "coords": [
                         -77.757337,
@@ -17831,7 +17831,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Potoma Wayside",
-                  "text": "Potoma Wayside este o atracție rutieră lângă Harpers Ferry.",
+                  "text": "Un loc de odihnă pe malul râului Potoma din Ferry.",
                   "category": "landmark",
                   "coords": [
                         -77.712108,
@@ -17896,7 +17896,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "White Hall Tavern",
-                  "text": "White Hall Tavern is a museum in Harpers Ferry housed in a former tavern.",
+                  "text": "An 18th-century historic tavern in Harpers Ferry now operating as a museum.",
                   "category": "museum",
                   "coords": [
                         -77.730293,
@@ -17905,7 +17905,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Peter's Roman Catholic Church",
-                  "text": "Saint Peter's Roman Catholic Church is a Roman Catholic church in Harpers Ferry.",
+                  "text": "A Roman Catholic church in Harpers Ferry, built in the 19th century.",
                   "category": "religious",
                   "coords": [
                         -77.731328,
@@ -17914,7 +17914,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Curtis Freewill Baptist Church",
-                  "text": "Curtis Freewill Baptist Church is a Freewill Baptist church in Harpers Ferry.",
+                  "text": "A Freewill Baptist church in Harpers Ferry.",
                   "category": "religious",
                   "coords": [
                         -77.741478,
@@ -17923,7 +17923,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "White Rock",
-                  "text": "White Rock is a peak in the Harpers Ferry area.",
+                  "text": "A white quartz rock formation near Harpers Ferry.",
                   "category": "natural",
                   "coords": [
                         -77.69777,
@@ -17932,7 +17932,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Dargan Quarry",
-                  "text": "Dargan Quarry is a cave entrance at a quarry near Harpers Ferry.",
+                  "text": "An abandoned limestone quarry near Harpers Ferry.",
                   "category": "natural",
                   "coords": [
                         -77.743049,
@@ -17941,7 +17941,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Maryland Heights",
-                  "text": "Maryland Heights is a prominent peak overlooking Harpers Ferry.",
+                  "text": "A steep ridge across from Harpers Ferry overlooking the Potomac River.",
                   "category": "natural",
                   "coords": [
                         -77.716416,
@@ -17950,7 +17950,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Camp Hill",
-                  "text": "Camp Hill is a peak in Harpers Ferry.",
+                  "text": "A hill in Harpers Ferry used as a camp during the Civil War.",
                   "category": "natural",
                   "coords": [
                         -77.741307,
@@ -17959,7 +17959,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Snyder Hill",
-                  "text": "Snyder Hill is a peak in the Harpers Ferry region.",
+                  "text": "A hill near Harpers Ferry.",
                   "category": "natural",
                   "coords": [
                         -77.793327,
@@ -17968,7 +17968,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Brunswick City Park",
-                  "text": "Brunswick City Park is a city park in Brunswick within the Harpers Ferry area.",
+                  "text": "A city park in Brunswick, Maryland.",
                   "category": "park",
                   "coords": [
                         -77.618277,
@@ -17977,7 +17977,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Brunswick Heights Park",
-                  "text": "Brunswick Heights Park is a park in Brunswick in the Harpers Ferry area.",
+                  "text": "A park with views of the Potomac River in Brunswick.",
                   "category": "park",
                   "coords": [
                         -77.626726,
@@ -17986,7 +17986,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chestnut Grove Park",
-                  "text": "Chestnut Grove Park is a park in the Harpers Ferry area.",
+                  "text": "A wooded park near Harpers Ferry.",
                   "category": "park",
                   "coords": [
                         -77.702507,
@@ -17995,7 +17995,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Antietam Dargan Community Park",
-                  "text": "Antietam Dargan Community Park is a community park in the Harpers Ferry area.",
+                  "text": "A community park serving the Dargan area near Harpers Ferry.",
                   "category": "park",
                   "coords": [
                         -77.732774,
@@ -18004,7 +18004,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Nell Boone Park",
-                  "text": "Nell Boone Park is a park near Harpers Ferry.",
+                  "text": "A small park in Harpers Ferry named after Nell Boone.",
                   "category": "park",
                   "coords": [
                         -77.720885,
@@ -18013,7 +18013,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lovettsville Museum",
-                  "text": "Lovettsville Museum is a museum in Lovettsville within the Harpers Ferry historic area.",
+                  "text": "Museum showcasing the history of Lovettsville, located near Harpers Ferry.",
                   "category": "museum",
                   "coords": [
                         -77.638513,
@@ -18031,7 +18031,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Cotton/Flour Mill Intake Arches",
-                  "text": "Cotton/Flour Mill Intake Arches are ruins of intake arches for a cotton/flour mill in Harpers Ferry.",
+                  "text": "Historic intake arches for a cotton and flour mill on Virginius Island near Harpers Ferry.",
                   "category": "historical",
                   "coords": [
                         -77.737888,
@@ -18049,7 +18049,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "John Brown Fort Foundation",
-                  "text": "John Brown Fort Foundation are the ruins of the foundation of John Brown's Fort in Harpers Ferry.",
+                  "text": "Foundation remains of John Brown's Fort, the engine house where he made his last stand in 1859.",
                   "category": "historical",
                   "coords": [
                         -77.761578,
@@ -18058,7 +18058,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "B&O - Harpers Ferry Bollman Bridge",
-                  "text": "B&O - Harpers Ferry Bollman Bridge are the ruins of the Bollman truss bridge of the B&O Railroad in Harpers Ferry.",
+                  "text": "Historic Bollman truss bridge built by the B&O Railroad crossing the Potomac at Harpers Ferry.",
                   "category": "historical",
                   "coords": [
                         -77.727303,
@@ -18085,7 +18085,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pulp Mill Ruins",
-                  "text": "Pulp Mill Ruins are the ruins of a pulp mill in Harpers Ferry.",
+                  "text": "Ruins of a historic pulp mill on Virginius Island near Harpers Ferry.",
                   "category": "historical",
                   "coords": [
                         -77.739888,
@@ -18094,7 +18094,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Armory Canal Headrace",
-                  "text": "Armory Canal Headrace are the ruins of the armory canal headrace in Harpers Ferry.",
+                  "text": "Historic canal headrace that supplied water to the Harpers Ferry Armory.",
                   "category": "historical",
                   "coords": [
                         -77.749802,
@@ -18103,7 +18103,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Virginius Island Cotton/Flour Mill Ruins",
-                  "text": "Virginius Island Cotton/Flour Mill Ruins are the ruins of a cotton/flour mill on Virginius Island in Harpers Ferry.",
+                  "text": "Ruins of cotton and flour mills on Virginius Island, a historic industrial site near Harpers Ferry.",
                   "category": "historical",
                   "coords": [
                         -77.734155,
@@ -18112,7 +18112,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Huckleberry Hill",
-                  "text": "Huckleberry Hill is a camp site in the Harpers Ferry area.",
+                  "text": "A hill in Ferry offering panoramic views of the surrounding area.",
                   "category": "landmark",
                   "coords": [
                         -77.757337,
@@ -18121,7 +18121,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Potoma Wayside",
-                  "text": "Potoma Wayside is a roadside attraction near Harpers Ferry.",
+                  "text": "A roadside rest area along the banks of the Potoma River in Ferry.",
                   "category": "landmark",
                   "coords": [
                         -77.712108,
@@ -18409,7 +18409,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Casa Chiquita",
-                  "text": "Ein kleines Chacoan-Großhaus im Chaco Canyon.",
+                  "text": "Kleine prähistorische Pueblo-Wohnung in einer Felsnische im Chaco Canyon.",
                   "category": "historical",
                   "coords": [
                         -107.976624,
@@ -18481,7 +18481,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Wijiji",
-                  "text": "Ein kleines, isoliertes Großhaus im Chaco Canyon.",
+                  "text": "Eines der kleineren Great Houses in Chaco Canyon, um 1110 erbaut.",
                   "category": "historical",
                   "coords": [
                         -107.869313,
@@ -18499,7 +18499,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "South Mesa",
-                  "text": "Eine Mesa im Chaco Canyon.",
+                  "text": "Eine Tafelbergformation im Chaco Canyon.",
                   "category": "natural",
                   "coords": [
                         -107.950063,
@@ -18508,7 +18508,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "West Mesa",
-                  "text": "Eine Mesa im Chaco Canyon.",
+                  "text": "Eine Tafelbergformation im Westen des Chaco Canyon.",
                   "category": "natural",
                   "coords": [
                         -107.997009,
@@ -18517,7 +18517,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chaco Culture National Historic Park Historical Marker",
-                  "text": "Ein historischer Marker im Chaco Culture National Historical Park.",
+                  "text": "Historischer Marker im Chaco Culture National Historical Park, der die Ruinen der Chacoaner erklärt.",
                   "category": "park",
                   "coords": [
                         -108.025663,
@@ -18544,7 +18544,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Alto Chiquito",
-                  "text": "Eine archäologische Stätte im Chaco Canyon.",
+                  "text": "Eine kleine prähistorische Pueblo-Siedlung auf einer niedrigen Mesa in Canyon.",
                   "category": "historical",
                   "coords": [
                         -107.956469,
@@ -18553,7 +18553,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Jackson Stairs",
-                  "text": "Eine in den Fels gehauene Treppe im Chaco Canyon.",
+                  "text": "Eine alte, in die Canyonwand gehauene Steintreppe in Canyon.",
                   "category": "historical",
                   "coords": [
                         -107.951462,
@@ -18562,7 +18562,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Kiva",
-                  "text": "Ein Kiva, eine zeremonielle Struktur, im Chaco Canyon.",
+                  "text": "Eine runde, unterirdische Kiva, die von den Pueblo-Völkern für Zeremonien genutzt wurde, in Canyon.",
                   "category": "historical",
                   "coords": [
                         -107.955224,
@@ -18571,7 +18571,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Una Vida",
-                  "text": "Eines der frühesten Großhäuser im Chaco Canyon.",
+                  "text": "Eine große, mehrstöckige Pueblo-Ruine mit Kivas in Canyon.",
                   "category": "historical",
                   "coords": [
                         -107.912219,
@@ -18580,7 +18580,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bc59 Ruin",
-                  "text": "Eine Ruine im Chaco Canyon.",
+                  "text": "Eine archäologische Stätte mit einem kleinen Mauerwerk-Pueblo in Canyon.",
                   "category": "historical",
                   "coords": [
                         -107.959723,
@@ -18589,7 +18589,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bc50 Ruin",
-                  "text": "Eine Ruine im Chaco Canyon.",
+                  "text": "Eine kleine Pueblo-Ruine, bezeichnet als BC50, in Canyon.",
                   "category": "historical",
                   "coords": [
                         -107.958605,
@@ -18598,7 +18598,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Triwall Structure",
-                  "text": "Eine Dreiwandstruktur im Chaco Canyon.",
+                  "text": "Ein dreiwandiges Mauerwerk unbekannter Funktion in Canyon.",
                   "category": "historical",
                   "coords": [
                         -107.966014,
@@ -18607,7 +18607,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Stone Circle",
-                  "text": "Ein Steinkreis im Chaco Canyon.",
+                  "text": "Ein Kreis aus aufrecht stehenden Steinen, vermutlich eine zeremonielle Stätte in Canyon.",
                   "category": "historical",
                   "coords": [
                         -107.965121,
@@ -18616,7 +18616,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "New Alto",
-                  "text": "Eine archäologische Stätte im Chaco Canyon.",
+                  "text": "Eine spätere Pueblo-Struktur auf einer hohen Mesa in Canyon.",
                   "category": "historical",
                   "coords": [
                         -107.959808,
@@ -18643,7 +18643,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chao Wall",
-                  "text": "Eine Wandstruktur im Chaco Canyon.",
+                  "text": "Eine markante Sandsteinklippe in Canyon.",
                   "category": "landmark",
                   "coords": [
                         -107.968264,
@@ -18663,7 +18663,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Casa Chiquita",
-                  "text": "Egy kis chacoai nagy ház a Chaco Canyonban.",
+                  "text": "Kis őskori pueblo lakóhely egy sziklaereszben a Chaco-kanyonban.",
                   "category": "historical",
                   "coords": [
                         -107.976624,
@@ -18735,7 +18735,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Wijiji",
-                  "text": "Egy kicsi, elszigetelt nagy ház a Chaco Canyonban.",
+                  "text": "A Chaco-kanyon egyik kisebb nagy háza, épült 1110 körül.",
                   "category": "historical",
                   "coords": [
                         -107.869313,
@@ -18762,7 +18762,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "West Mesa",
-                  "text": "Egy mesa a Chaco Canyonban.",
+                  "text": "Egy mesa a Chaco Canyon nyugati részén.",
                   "category": "natural",
                   "coords": [
                         -107.997009,
@@ -18771,7 +18771,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chaco Culture National Historic Park Historical Marker",
-                  "text": "Egy történelmi jelző a Chaco Culture Nemzeti Történelmi Parkban.",
+                  "text": "Történelmi jelzés a Chaco Kulturális Nemzeti Történeti Parkban, amely ismerteti a chacoai romokat.",
                   "category": "park",
                   "coords": [
                         -108.025663,
@@ -18798,7 +18798,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Alto Chiquito",
-                  "text": "Egy régészeti lelőhely a Chaco Canyonban.",
+                  "text": "Egy kis ősi pueblo település egy alacsony mesa tetején Canyonban.",
                   "category": "historical",
                   "coords": [
                         -107.956469,
@@ -18807,7 +18807,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Jackson Stairs",
-                  "text": "Egy sziklába vágott lépcső a Chaco Canyonban.",
+                  "text": "Egy ősi, a kanyon falába vésett kőlépcső Canyonban.",
                   "category": "historical",
                   "coords": [
                         -107.951462,
@@ -18816,7 +18816,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Kiva",
-                  "text": "Egy kíva, egy szertartási építmény, a Chaco Canyonban.",
+                  "text": "Egy kör alakú, föld alatti kiva, amelyet a pueblo népek használtak szertartásokra Canyonban.",
                   "category": "historical",
                   "coords": [
                         -107.955224,
@@ -18825,7 +18825,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Una Vida",
-                  "text": "Az egyik legkorábbi nagy ház a Chaco Canyonban.",
+                  "text": "Egy nagy, többszintes pueblo rom kivákkal Canyonban.",
                   "category": "historical",
                   "coords": [
                         -107.912219,
@@ -18834,7 +18834,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bc59 Ruin",
-                  "text": "Egy rom a Chaco Canyonban.",
+                  "text": "Egy régészeti lelőhely egy kis kőből épült puebloval Canyonban.",
                   "category": "historical",
                   "coords": [
                         -107.959723,
@@ -18843,7 +18843,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bc50 Ruin",
-                  "text": "Egy rom a Chaco Canyonban.",
+                  "text": "Egy kis pueblo rom, BC50 jelöléssel, Canyonban.",
                   "category": "historical",
                   "coords": [
                         -107.958605,
@@ -18852,7 +18852,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Triwall Structure",
-                  "text": "Egy háromfalú szerkezet a Chaco Canyonban.",
+                  "text": "Egy háromfalú kőszerkezet ismeretlen céllal Canyonban.",
                   "category": "historical",
                   "coords": [
                         -107.966014,
@@ -18861,7 +18861,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Stone Circle",
-                  "text": "Egy kőkör a Chaco Canyonban.",
+                  "text": "Egy kör alakú, felálló kövekből álló kőgyűrű, valószínűleg szertartási hely Canyonban.",
                   "category": "historical",
                   "coords": [
                         -107.965121,
@@ -18870,7 +18870,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "New Alto",
-                  "text": "Egy régészeti lelőhely a Chaco Canyonban.",
+                  "text": "Egy későbbi pueblo építmény egy magas mesa tetején Canyonban.",
                   "category": "historical",
                   "coords": [
                         -107.959808,
@@ -18897,7 +18897,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chao Wall",
-                  "text": "Egy falszerkezet a Chaco Canyonban.",
+                  "text": "Egy feltűnő homokkő sziklaoldal Canyonban.",
                   "category": "landmark",
                   "coords": [
                         -107.968264,
@@ -18917,7 +18917,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Casa Chiquita",
-                  "text": "O casă mare chacoană mică în Canionul Chaco.",
+                  "text": "Locuință mică preistorică pueblo într-o nișă de stâncă în Canionul Chaco.",
                   "category": "historical",
                   "coords": [
                         -107.976624,
@@ -18989,7 +18989,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Wijiji",
-                  "text": "O casă mare mică și izolată în Canionul Chaco.",
+                  "text": "Una dintre marile case mai mici din Canionul Chaco, construită în jurul anului 1110.",
                   "category": "historical",
                   "coords": [
                         -107.869313,
@@ -19007,7 +19007,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "South Mesa",
-                  "text": "O mesa în Canionul Chaco.",
+                  "text": "O masă de formațiune în Cheile Chaco.",
                   "category": "natural",
                   "coords": [
                         -107.950063,
@@ -19016,7 +19016,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "West Mesa",
-                  "text": "O mesa în Canionul Chaco.",
+                  "text": "O masă la vest de siturile principale din Cheile Chaco.",
                   "category": "natural",
                   "coords": [
                         -107.997009,
@@ -19025,7 +19025,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chaco Culture National Historic Park Historical Marker",
-                  "text": "Un marker istoric în Parcul Istoric Național al Culturii Chaco.",
+                  "text": "Un indicator istoric în Parcul Național Istoric al Culturii Chaco explicând ruinele Chacoane.",
                   "category": "park",
                   "coords": [
                         -108.025663,
@@ -19052,7 +19052,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Alto Chiquito",
-                  "text": "Un sit arheologic în Canionul Chaco.",
+                  "text": "O mică așezare preistorică pueblo pe o mesa joasă în Canyon.",
                   "category": "historical",
                   "coords": [
                         -107.956469,
@@ -19061,7 +19061,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Jackson Stairs",
-                  "text": "O scară tăiată în stâncă în Canionul Chaco.",
+                  "text": "O scară de piatră antică sculptată în peretele canionului din Canyon.",
                   "category": "historical",
                   "coords": [
                         -107.951462,
@@ -19070,7 +19070,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Kiva",
-                  "text": "Un kiva, o structură ceremonială, în Canionul Chaco.",
+                  "text": "O kivă circulară subterană folosită de popoarele pueblo pentru ceremonii în Canyon.",
                   "category": "historical",
                   "coords": [
                         -107.955224,
@@ -19079,7 +19079,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Una Vida",
-                  "text": "Una dintre cele mai vechi case mari din Canionul Chaco.",
+                  "text": "O ruină mare de pueblo cu mai multe etaje și kive în Canyon.",
                   "category": "historical",
                   "coords": [
                         -107.912219,
@@ -19088,7 +19088,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bc59 Ruin",
-                  "text": "O ruină în Canionul Chaco.",
+                  "text": "Un sit arheologic cu un mic pueblo de piatră în Canyon.",
                   "category": "historical",
                   "coords": [
                         -107.959723,
@@ -19097,7 +19097,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bc50 Ruin",
-                  "text": "O ruină în Canionul Chaco.",
+                  "text": "O ruină mică de pueblo, desemnată BC50, în Canyon.",
                   "category": "historical",
                   "coords": [
                         -107.958605,
@@ -19106,7 +19106,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Triwall Structure",
-                  "text": "O structură cu trei pereți în Canionul Chaco.",
+                  "text": "O structură de piatră cu trei pereți, cu scop necunoscut, în Canyon.",
                   "category": "historical",
                   "coords": [
                         -107.966014,
@@ -19115,7 +19115,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Stone Circle",
-                  "text": "Un cerc de piatră în Canionul Chaco.",
+                  "text": "Un cerc de pietre verticale, probabil un sit ceremonial în Canyon.",
                   "category": "historical",
                   "coords": [
                         -107.965121,
@@ -19124,7 +19124,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "New Alto",
-                  "text": "Un sit arheologic în Cheile Chaco.",
+                  "text": "O structură pueblo ulterioară pe o mesa înaltă în Canyon.",
                   "category": "historical",
                   "coords": [
                         -107.959808,
@@ -19151,7 +19151,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chao Wall",
-                  "text": "O structură de zid în Cheile Chaco.",
+                  "text": "O stâncă impresionantă de gresie în Canyon.",
                   "category": "landmark",
                   "coords": [
                         -107.968264,
@@ -19171,7 +19171,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Casa Chiquita",
-                  "text": "A small Chacoan great house in Chaco Canyon.",
+                  "text": "Small prehistoric pueblo dwelling set in a cliff alcove in Chaco Canyon.",
                   "category": "historical",
                   "coords": [
                         -107.976624,
@@ -19243,7 +19243,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Wijiji",
-                  "text": "A small, isolated great house in Chaco Canyon.",
+                  "text": "One of the smaller great houses in Chaco Canyon, built around 1110 AD.",
                   "category": "historical",
                   "coords": [
                         -107.869313,
@@ -19270,7 +19270,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "West Mesa",
-                  "text": "A mesa in Chaco Canyon.",
+                  "text": "A mesa west of the main Chaco Canyon sites.",
                   "category": "natural",
                   "coords": [
                         -107.997009,
@@ -19279,7 +19279,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chaco Culture National Historic Park Historical Marker",
-                  "text": "A historical marker at Chaco Culture National Historical Park.",
+                  "text": "A historical marker in Chaco Culture National Historical Park explaining the Chacoan ruins.",
                   "category": "park",
                   "coords": [
                         -108.025663,
@@ -19306,7 +19306,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Alto Chiquito",
-                  "text": "An archaeological site in Chaco Canyon.",
+                  "text": "A small prehistoric Puebloan settlement on a low mesa in Canyon.",
                   "category": "historical",
                   "coords": [
                         -107.956469,
@@ -19315,7 +19315,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Jackson Stairs",
-                  "text": "A set of stairs carved into the cliff in Chaco Canyon.",
+                  "text": "An ancient stone staircase carved into the canyon wall in Canyon.",
                   "category": "historical",
                   "coords": [
                         -107.951462,
@@ -19324,7 +19324,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Kiva",
-                  "text": "A kiva, a ceremonial structure, in Chaco Canyon.",
+                  "text": "A circular subterranean kiva used for Puebloan ceremonies in Canyon.",
                   "category": "historical",
                   "coords": [
                         -107.955224,
@@ -19333,7 +19333,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Una Vida",
-                  "text": "One of the earliest great houses in Chaco Canyon.",
+                  "text": "A large multi-story Puebloan ruin with kivas in Canyon.",
                   "category": "historical",
                   "coords": [
                         -107.912219,
@@ -19342,7 +19342,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bc59 Ruin",
-                  "text": "A ruin in Chaco Canyon.",
+                  "text": "An archaeological site with a small masonry pueblo in Canyon.",
                   "category": "historical",
                   "coords": [
                         -107.959723,
@@ -19351,7 +19351,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bc50 Ruin",
-                  "text": "A ruin in Chaco Canyon.",
+                  "text": "A small pueblo ruin designated BC50 in Canyon.",
                   "category": "historical",
                   "coords": [
                         -107.958605,
@@ -19360,7 +19360,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Triwall Structure",
-                  "text": "A tri-wall structure in Chaco Canyon.",
+                  "text": "A three-walled masonry structure of unknown purpose in Canyon.",
                   "category": "historical",
                   "coords": [
                         -107.966014,
@@ -19369,7 +19369,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Stone Circle",
-                  "text": "A stone circle in Chaco Canyon.",
+                  "text": "A circle of upright stones, likely a ceremonial site in Canyon.",
                   "category": "historical",
                   "coords": [
                         -107.965121,
@@ -19378,7 +19378,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "New Alto",
-                  "text": "An archaeological site in Chaco Canyon.",
+                  "text": "A later Puebloan structure built on a high mesa in Canyon.",
                   "category": "historical",
                   "coords": [
                         -107.959808,
@@ -19405,7 +19405,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chao Wall",
-                  "text": "A wall structure in Chaco Canyon.",
+                  "text": "A dramatic sandstone cliff face in Canyon.",
                   "category": "landmark",
                   "coords": [
                         -107.968264,
@@ -19465,7 +19465,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Jarnigan Knob",
-                  "text": "Der Jarnigan Knob ist ein Gipfel in der Serpent-Mound-Region.",
+                  "text": "Ein Hügel (Knob) in der Nähe von Mound.",
                   "category": "natural",
                   "coords": [
                         -83.418803,
@@ -19474,7 +19474,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Circle Mound",
-                  "text": "Der Circle Mound ist eine archäologische Stätte (ein alter Hügel) in der Serpent-Mound-Region.",
+                  "text": "Ein runder Erdhügel, errichtet von frühen indigenen Völkern in Mound.",
                   "category": "historical",
                   "coords": [
                         -83.406915,
@@ -19483,7 +19483,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Wickerham Hill",
-                  "text": "Der Wickerham Hill ist ein Gipfel in der Serpent-Mound-Region.",
+                  "text": "Ein Hügel in der Nähe von Mound.",
                   "category": "natural",
                   "coords": [
                         -83.391858,
@@ -19492,7 +19492,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Massie Knob",
-                  "text": "Der Massie Knob ist ein Gipfel in der Serpent-Mound-Region.",
+                  "text": "Ein Hügel (Knob) in der Nähe von Mound.",
                   "category": "natural",
                   "coords": [
                         -83.376579,
@@ -19501,7 +19501,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Potato Knob",
-                  "text": "Der Potato Knob ist ein Gipfel in der Serpent-Mound-Region.",
+                  "text": "Ein Hügel (Knob) in der Nähe von Mound.",
                   "category": "natural",
                   "coords": [
                         -83.349911,
@@ -19510,7 +19510,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Palmer Mountain",
-                  "text": "Der Palmer Mountain ist ein Gipfel in der Serpent-Mound-Region.",
+                  "text": "Ein Berg in der Nähe von Mound.",
                   "category": "natural",
                   "coords": [
                         -83.366579,
@@ -19519,7 +19519,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pine Hill",
-                  "text": "Der Pine Hill ist ein Gipfel in der Serpent-Mound-Region.",
+                  "text": "Ein Hügel in der Nähe von Mound.",
                   "category": "natural",
                   "coords": [
                         -83.3488,
@@ -19528,7 +19528,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Cairn of Peace",
-                  "text": "Der Cairn of Peace ist ein Denkmal in der Serpent-Mound-Region.",
+                  "text": "Ein Steinhügel (Cairn) zur Erinnerung an den Frieden in Mound.",
                   "category": "historical",
                   "coords": [
                         -83.406505,
@@ -19537,7 +19537,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Serpent Mound Museum",
-                  "text": "Das Serpent Mound Museum ist ein Museum über Serpent Mound in der Serpent-Mound-Region.",
+                  "text": "Ein Museum, das der berühmten Schlangen-Erdfigur (Serpent Mound) in der Nähe von Mound gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         -83.429115,
@@ -19546,7 +19546,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Tranquility State Wildlife Area",
-                  "text": "Das Tranquility State Wildlife Area ist ein Naturschutzgebiet in der Serpent-Mound-Region.",
+                  "text": "Ein staatliches Wildtierreservat mit Feuchtgebieten und Wanderwegen in Mound.",
                   "category": "natural",
                   "coords": [
                         -83.502583,
@@ -19555,7 +19555,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Strait Creek Prairie Bluffs Nature Preserve",
-                  "text": "Das Strait Creek Prairie Bluffs Nature Preserve ist ein Naturschutzgebiet in der Serpent-Mound-Region.",
+                  "text": "Ein Naturschutzgebiet mit Präriegras und Klippen entlang des Strait Creek in Mound.",
                   "category": "natural",
                   "coords": [
                         -83.383472,
@@ -19564,7 +19564,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Serpent Mound",
-                  "text": "Der Serpent Mound ist ein prähistorischer Schlangenhügel in der Serpent-Mound-Region.",
+                  "text": "Altes Erdwerk in Schlangenform, über 400 Meter lang.",
                   "category": "historical",
                   "coords": [
                         -83.430566,
@@ -19573,7 +19573,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chalet Nivale Nature Preserve",
-                  "text": "Das Chalet Nivale Nature Preserve ist ein Naturschutzgebiet in der Serpent-Mound-Region.",
+                  "text": "Ein Naturschutzgebiet mit Wanderwegen in der Nähe von Mound.",
                   "category": "natural",
                   "coords": [
                         -83.355409,
@@ -19584,7 +19584,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Jarnigan Knob",
-                  "text": "A Jarnigan Knob egy csúcs a Serpent Mound környékén.",
+                  "text": "Egy domb (knob) Mound közelében.",
                   "category": "natural",
                   "coords": [
                         -83.418803,
@@ -19593,7 +19593,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Circle Mound",
-                  "text": "A Circle Mound egy régészeti lelőhely (ősi halom) a Serpent Mound környékén.",
+                  "text": "Egy kör alakú földhalom, amelyet őslakos népek építettek Moundban.",
                   "category": "historical",
                   "coords": [
                         -83.406915,
@@ -19602,7 +19602,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Wickerham Hill",
-                  "text": "A Wickerham Hill egy csúcs a Serpent Mound környékén.",
+                  "text": "Egy domb Mound közelében.",
                   "category": "natural",
                   "coords": [
                         -83.391858,
@@ -19611,7 +19611,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Massie Knob",
-                  "text": "A Massie Knob egy csúcs a Serpent Mound környékén.",
+                  "text": "Egy domb (knob) Mound közelében.",
                   "category": "natural",
                   "coords": [
                         -83.376579,
@@ -19620,7 +19620,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Potato Knob",
-                  "text": "A Potato Knob egy csúcs a Serpent Mound környékén.",
+                  "text": "Egy domb (knob) Mound közelében.",
                   "category": "natural",
                   "coords": [
                         -83.349911,
@@ -19629,7 +19629,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Palmer Mountain",
-                  "text": "A Palmer Mountain egy csúcs a Serpent Mound környékén.",
+                  "text": "Egy hegy Mound közelében.",
                   "category": "natural",
                   "coords": [
                         -83.366579,
@@ -19638,7 +19638,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pine Hill",
-                  "text": "A Pine Hill egy csúcs a Serpent Mound környékén.",
+                  "text": "Egy domb Mound közelében.",
                   "category": "natural",
                   "coords": [
                         -83.3488,
@@ -19647,7 +19647,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Cairn of Peace",
-                  "text": "A Cairn of Peace egy emlékmű a Serpent Mound környékén.",
+                  "text": "Egy kőhalom (cairn), amely a békét jelképezi Moundban.",
                   "category": "historical",
                   "coords": [
                         -83.406505,
@@ -19656,7 +19656,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Serpent Mound Museum",
-                  "text": "A Serpent Mound Museum egy múzeum a Serpent Moundról a Serpent Mound környékén.",
+                  "text": "Egy múzeum, amely a híres Kígyóhalom (Serpent Mound) közelében található Mound mellett.",
                   "category": "museum",
                   "coords": [
                         -83.429115,
@@ -19665,7 +19665,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Tranquility State Wildlife Area",
-                  "text": "A Tranquility State Wildlife Area egy természetvédelmi terület a Serpent Mound környékén.",
+                  "text": "Egy állami vadvédelmi terület vizes élőhelyekkel és túraútvonalakkal Moundban.",
                   "category": "natural",
                   "coords": [
                         -83.502583,
@@ -19674,7 +19674,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Strait Creek Prairie Bluffs Nature Preserve",
-                  "text": "A Strait Creek Prairie Bluffs Nature Preserve egy természetvédelmi terület a Serpent Mound környékén.",
+                  "text": "Egy természetvédelmi terület prérifüvekkel és sziklafalakkal a Strait Creek mentén Moundban.",
                   "category": "natural",
                   "coords": [
                         -83.383472,
@@ -19683,7 +19683,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Serpent Mound",
-                  "text": "A Serpent Mound egy őskori kígyó alakú halom a Serpent Mound környékén.",
+                  "text": "Ősi kígyó alakú földhalom, hossza több mint 400 méter.",
                   "category": "historical",
                   "coords": [
                         -83.430566,
@@ -19692,7 +19692,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chalet Nivale Nature Preserve",
-                  "text": "A Chalet Nivale Nature Preserve egy természetvédelmi terület a Serpent Mound környékén.",
+                  "text": "Egy természetvédelmi terület túraútvonalakkal Mound közelében.",
                   "category": "natural",
                   "coords": [
                         -83.355409,
@@ -19703,7 +19703,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Jarnigan Knob",
-                  "text": "Jarnigan Knob este un vârf în zona Serpent Mound.",
+                  "text": "Un delușor în apropiere de Mound.",
                   "category": "natural",
                   "coords": [
                         -83.418803,
@@ -19712,7 +19712,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Circle Mound",
-                  "text": "Circle Mound este un sit arheologic (movilă antică) în zona Serpent Mound.",
+                  "text": "Un movilă de pământ circulară construită de popoarele indigene antice din Mound.",
                   "category": "historical",
                   "coords": [
                         -83.406915,
@@ -19721,7 +19721,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Wickerham Hill",
-                  "text": "Wickerham Hill este un vârf în zona Serpent Mound.",
+                  "text": "Un deal lângă Mound.",
                   "category": "natural",
                   "coords": [
                         -83.391858,
@@ -19730,7 +19730,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Massie Knob",
-                  "text": "Massie Knob este un vârf în zona Serpent Mound.",
+                  "text": "Un delușor lângă Mound.",
                   "category": "natural",
                   "coords": [
                         -83.376579,
@@ -19739,7 +19739,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Potato Knob",
-                  "text": "Potato Knob este un vârf în zona Serpent Mound.",
+                  "text": "Un delușor lângă Mound.",
                   "category": "natural",
                   "coords": [
                         -83.349911,
@@ -19748,7 +19748,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Palmer Mountain",
-                  "text": "Palmer Mountain este un vârf în zona Serpent Mound.",
+                  "text": "Un munte lângă Mound.",
                   "category": "natural",
                   "coords": [
                         -83.366579,
@@ -19757,7 +19757,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pine Hill",
-                  "text": "Pine Hill este un vârf în zona Serpent Mound.",
+                  "text": "Un deal lângă Mound.",
                   "category": "natural",
                   "coords": [
                         -83.3488,
@@ -19766,7 +19766,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Cairn of Peace",
-                  "text": "Cairn of Peace este un monument în zona Serpent Mound.",
+                  "text": "Un cairn de piatră care comemorează pacea în Mound.",
                   "category": "historical",
                   "coords": [
                         -83.406505,
@@ -19775,7 +19775,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Serpent Mound Museum",
-                  "text": "Serpent Mound Museum este un muzeu despre Serpent Mound în zona Serpent Mound.",
+                  "text": "Un muzeu dedicat faimosului movilă în formă de șarpe (Serpent Mound) lângă Mound.",
                   "category": "museum",
                   "coords": [
                         -83.429115,
@@ -19784,7 +19784,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Tranquility State Wildlife Area",
-                  "text": "Tranquility State Wildlife Area este o rezervație naturală în zona Serpent Mound.",
+                  "text": "O arie protejată de stat pentru faună sălbatică, cu zone umede și trasee în Mound.",
                   "category": "natural",
                   "coords": [
                         -83.502583,
@@ -19793,7 +19793,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Strait Creek Prairie Bluffs Nature Preserve",
-                  "text": "Strait Creek Prairie Bluffs Nature Preserve este o rezervație naturală în zona Serpent Mound.",
+                  "text": "O rezervație naturală cu pajiști de prerie și stânci de-a lungul pârâului Strait Creek în Mound.",
                   "category": "natural",
                   "coords": [
                         -83.383472,
@@ -19802,7 +19802,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Serpent Mound",
-                  "text": "Serpent Mound este o movilă efigie preistorică în formă de șarpe în zona Serpent Mound.",
+                  "text": "Movilă de pământ antică în formă de șarpe, lungă de peste 400 de metri.",
                   "category": "historical",
                   "coords": [
                         -83.430566,
@@ -19811,7 +19811,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chalet Nivale Nature Preserve",
-                  "text": "Chalet Nivale Nature Preserve este o rezervație naturală în zona Serpent Mound.",
+                  "text": "O rezervație naturală cu trasee lângă Mound.",
                   "category": "natural",
                   "coords": [
                         -83.355409,
@@ -19822,7 +19822,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Jarnigan Knob",
-                  "text": "Jarnigan Knob is a peak in the Serpent Mound area.",
+                  "text": "A knob (hill) near Mound.",
                   "category": "natural",
                   "coords": [
                         -83.418803,
@@ -19831,7 +19831,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Circle Mound",
-                  "text": "Circle Mound is an archaeological site (ancient mound) in the Serpent Mound area.",
+                  "text": "A circular earthen mound built by ancient Native Americans in Mound.",
                   "category": "historical",
                   "coords": [
                         -83.406915,
@@ -19840,7 +19840,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Wickerham Hill",
-                  "text": "Wickerham Hill is a peak in the Serpent Mound area.",
+                  "text": "A hill near Mound.",
                   "category": "natural",
                   "coords": [
                         -83.391858,
@@ -19849,7 +19849,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Massie Knob",
-                  "text": "Massie Knob is a peak in the Serpent Mound area.",
+                  "text": "A knob (hill) near Mound.",
                   "category": "natural",
                   "coords": [
                         -83.376579,
@@ -19858,7 +19858,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Potato Knob",
-                  "text": "Potato Knob is a peak in the Serpent Mound area.",
+                  "text": "A knob (hill) near Mound.",
                   "category": "natural",
                   "coords": [
                         -83.349911,
@@ -19867,7 +19867,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Palmer Mountain",
-                  "text": "Palmer Mountain is a peak in the Serpent Mound area.",
+                  "text": "A mountain near Mound.",
                   "category": "natural",
                   "coords": [
                         -83.366579,
@@ -19876,7 +19876,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pine Hill",
-                  "text": "Pine Hill is a peak in the Serpent Mound area.",
+                  "text": "A hill near Mound.",
                   "category": "natural",
                   "coords": [
                         -83.3488,
@@ -19885,7 +19885,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Cairn of Peace",
-                  "text": "Cairn of Peace is a monument in the Serpent Mound area.",
+                  "text": "A stone cairn commemorating peace in Mound.",
                   "category": "historical",
                   "coords": [
                         -83.406505,
@@ -19894,7 +19894,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Serpent Mound Museum",
-                  "text": "Serpent Mound Museum is a museum about Serpent Mound in the Serpent Mound area.",
+                  "text": "A museum dedicated to the ancient Serpent Mound effigy near Mound.",
                   "category": "museum",
                   "coords": [
                         -83.429115,
@@ -19903,7 +19903,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Tranquility State Wildlife Area",
-                  "text": "Tranquility State Wildlife Area is a nature reserve in the Serpent Mound area.",
+                  "text": "A state wildlife area with wetlands and hiking trails in Mound.",
                   "category": "natural",
                   "coords": [
                         -83.502583,
@@ -19912,7 +19912,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Strait Creek Prairie Bluffs Nature Preserve",
-                  "text": "Strait Creek Prairie Bluffs Nature Preserve is a nature reserve in the Serpent Mound area.",
+                  "text": "A nature preserve featuring tallgrass prairie and bluffs along Strait Creek in Mound.",
                   "category": "natural",
                   "coords": [
                         -83.383472,
@@ -19921,7 +19921,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Serpent Mound",
-                  "text": "Serpent Mound is a prehistoric effigy mound in the shape of a serpent in the Serpent Mound area.",
+                  "text": "Ancient effigy mound in the shape of a serpent, over 1,300 feet long.",
                   "category": "historical",
                   "coords": [
                         -83.430566,
@@ -19930,7 +19930,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chalet Nivale Nature Preserve",
-                  "text": "Chalet Nivale Nature Preserve is a nature reserve in the Serpent Mound area.",
+                  "text": "A nature preserve with trails near Mound.",
                   "category": "natural",
                   "coords": [
                         -83.355409,
@@ -19990,7 +19990,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Pueblo Peak",
-                  "text": "Der Pueblo Peak ist ein Berggipfel in der Region des Taos Pueblo.",
+                  "text": "Ein markanter Berggipfel oberhalb des Taos Pueblo.",
                   "category": "natural",
                   "coords": [
                         -105.483064,
@@ -19999,7 +19999,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Fine Art New Mexico LLC",
-                  "text": "Fine Art New Mexico LLC ist eine Kunstgalerie in der Region des Taos Pueblo.",
+                  "text": "Eine Kunstgalerie, die Werke von Künstlern aus New Mexico in Pueblo ausstellt.",
                   "category": "museum",
                   "coords": [
                         -105.570554,
@@ -20008,7 +20008,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pueblo of Taos Historical Marker",
-                  "text": "Der Pueblo of Taos Historical Marker ist ein historischer Marker in einem Park im Gebiet des Taos Pueblo.",
+                  "text": "Historischer Marker am Taos Pueblo, der die Geschichte des Pueblos erklärt.",
                   "category": "park",
                   "coords": [
                         -105.54447,
@@ -20017,7 +20017,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Taos Pueblo Tribal Office",
-                  "text": "Das Taos Pueblo Tribal Office ist das Büro des Stammesrats des Taos Pueblo, das zum UNESCO-Weltkulturerbe gehört.",
+                  "text": "Verwaltungsgebäude des alten Taos Pueblo, UNESCO-Weltkulturerbe.",
                   "category": "historical",
                   "coords": [
                         -105.547425,
@@ -20035,7 +20035,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Martínez Hacienda",
-                  "text": "Die Martínez Hacienda ist eine historische Hacienda in der Region des Taos Pueblo.",
+                  "text": "Eine spanische Kolonialhazienda aus dem 19. Jahrhundert in Taos.",
                   "category": "landmark",
                   "coords": [
                         -105.608142,
@@ -20044,7 +20044,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Fun Studio",
-                  "text": "Fun Studio ist eine Kunstgalerie in der Region des Taos Pueblo.",
+                  "text": "Ein interaktives Kunststudio für Kinder in Pueblo.",
                   "category": "museum",
                   "coords": [
                         -105.587007,
@@ -20053,7 +20053,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Devisadero Peak",
-                  "text": "Der Devisadero Peak ist ein Berggipfel in der Region des Taos Pueblo.",
+                  "text": "Ein Gipfel nahe dem Taos Pueblo mit Wanderwegen.",
                   "category": "natural",
                   "coords": [
                         -105.533899,
@@ -20062,7 +20062,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Ranchos Peak",
-                  "text": "Der Ranchos Peak ist ein Berggipfel in der Region des Taos Pueblo.",
+                  "text": "Ein markanter Gipfel nahe Pueblo, der sich über dem Tal des Arkansas River erhebt.",
                   "category": "natural",
                   "coords": [
                         -105.478343,
@@ -20071,7 +20071,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Palo Encebado Peak",
-                  "text": "Der Palo Encebado Peak ist ein Berggipfel in der Region des Taos Pueblo.",
+                  "text": "Ein natürlicher Gipfel bei Pueblo mit Ausblick auf das Arkansas River Valley.",
                   "category": "natural",
                   "coords": [
                         -105.454732,
@@ -20080,7 +20080,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Hlauuma (North House)",
-                  "text": "Das North House ist ein historisches Gebäude in Taos Pueblo (Nordhaus).",
+                  "text": "Ein historisches Wohnhaus im Norden von Pueblo.",
                   "category": "landmark",
                   "coords": [
                         -105.545071,
@@ -20089,7 +20089,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "San Geronimo Chapel",
-                  "text": "Die San Geronimo Chapel ist eine Kapelle in Taos Pueblo.",
+                  "text": "Eine historische spanische Missionskapelle in Pueblo.",
                   "category": "landmark",
                   "coords": [
                         -105.546135,
@@ -20098,7 +20098,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Metta Theater",
-                  "text": "Das Metta Theater ist ein Theater in der Region Taos Pueblo.",
+                  "text": "Ein Gemeinschaftstheater mit Live-Aufführungen in Pueblo.",
                   "category": "cultural",
                   "coords": [
                         -105.583407,
@@ -20107,7 +20107,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Hacienda de los Martinez Museum",
-                  "text": "Das Hacienda de los Martinez Museum ist ein Museum in einer historischen Hacienda in der Region Taos Pueblo.",
+                  "text": "Ein restauriertes Museum in einer spanischen Kolonialhazienda aus dem 19. Jahrhundert in Pueblo.",
                   "category": "museum",
                   "coords": [
                         -105.608197,
@@ -20118,7 +20118,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Pueblo Peak",
-                  "text": "A Pueblo Peak egy hegycsúcs a Taos Pueblo régióban.",
+                  "text": "Egy kiemelkedő csúcs a Taos Pueblo fölött.",
                   "category": "natural",
                   "coords": [
                         -105.483064,
@@ -20127,7 +20127,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Fine Art New Mexico LLC",
-                  "text": "A Fine Art New Mexico LLC egy művészeti galéria a Taos Pueblo régióban.",
+                  "text": "Egy művészeti galéria, amely új-mexikói művészek munkáit mutatja be Puebloban.",
                   "category": "museum",
                   "coords": [
                         -105.570554,
@@ -20136,7 +20136,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pueblo of Taos Historical Marker",
-                  "text": "A Pueblo of Taos Historical Marker egy történelmi jelölés egy parkban a Taos Pueblo területén.",
+                  "text": "Történelmi jelzés a Taos Pueblonál, amely a pueblo történetét ismerteti.",
                   "category": "park",
                   "coords": [
                         -105.54447,
@@ -20145,7 +20145,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Taos Pueblo Tribal Office",
-                  "text": "A Taos Pueblo Tribal Office a Taos Pueblo törzsi tanácsának irodája, amely az UNESCO világörökség része.",
+                  "text": "Az ősi Taos Pueblo adminisztratív épülete, UNESCO világörökségi helyszín.",
                   "category": "historical",
                   "coords": [
                         -105.547425,
@@ -20163,7 +20163,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Martínez Hacienda",
-                  "text": "A Martínez Hacienda egy történelmi hacienda a Taos Pueblo régióban.",
+                  "text": "Egy 19. századi spanyol gyarmati hacienda Taosban.",
                   "category": "landmark",
                   "coords": [
                         -105.608142,
@@ -20172,7 +20172,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Fun Studio",
-                  "text": "A Fun Studio egy művészeti galéria a Taos Pueblo régióban.",
+                  "text": "Egy interaktív művészeti stúdió gyerekeknek Puebloban.",
                   "category": "museum",
                   "coords": [
                         -105.587007,
@@ -20181,7 +20181,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Devisadero Peak",
-                  "text": "A Devisadero Peak egy hegycsúcs a Taos Pueblo régióban.",
+                  "text": "Egy csúcs a Taos Pueblo közelében, túraútvonalakkal.",
                   "category": "natural",
                   "coords": [
                         -105.533899,
@@ -20190,7 +20190,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Ranchos Peak",
-                  "text": "A Ranchos Peak egy hegycsúcs a Taos Pueblo régióban.",
+                  "text": "Egy kiemelkedő csúcs Pueblo közelében, amely az Arkansas River völgye fölé emelkedik.",
                   "category": "natural",
                   "coords": [
                         -105.478343,
@@ -20199,7 +20199,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Palo Encebado Peak",
-                  "text": "A Palo Encebado Peak egy hegycsúcs a Taos Pueblo régióban.",
+                  "text": "Egy természetes csúcs Pueblo mellett, az Arkansas River völgyére néző kilátással.",
                   "category": "natural",
                   "coords": [
                         -105.454732,
@@ -20208,7 +20208,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Hlauuma (North House)",
-                  "text": "A North House egy történelmi épület Taos Pueblo-ban (Északi ház).",
+                  "text": "Egy történelmi lakóház Pueblo északi részén.",
                   "category": "landmark",
                   "coords": [
                         -105.545071,
@@ -20217,7 +20217,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "San Geronimo Chapel",
-                  "text": "A San Geronimo Chapel egy kápolna Taos Pueblo-ban.",
+                  "text": "Egy történelmi spanyol missziós kápolna Puebloban.",
                   "category": "landmark",
                   "coords": [
                         -105.546135,
@@ -20226,7 +20226,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Metta Theater",
-                  "text": "A Metta Theater egy színház a Taos Pueblo régióban.",
+                  "text": "Egy közösségi színház élő előadásokkal Puebloban.",
                   "category": "cultural",
                   "coords": [
                         -105.583407,
@@ -20235,7 +20235,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Hacienda de los Martinez Museum",
-                  "text": "A Hacienda de los Martinez Museum egy múzeum egy történelmi haciendában a Taos Pueblo régióban.",
+                  "text": "Egy felújított múzeum egy 19. századi spanyol gyarmati haciendában Puebloban.",
                   "category": "museum",
                   "coords": [
                         -105.608197,
@@ -20246,7 +20246,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Pueblo Peak",
-                  "text": "Vârful Pueblo Peak este un vârf montan în regiunea Taos Pueblo.",
+                  "text": "Un vârf proeminent deasupra Taos Pueblo.",
                   "category": "natural",
                   "coords": [
                         -105.483064,
@@ -20255,7 +20255,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Fine Art New Mexico LLC",
-                  "text": "Fine Art New Mexico LLC este o galerie de artă în regiunea Taos Pueblo.",
+                  "text": "O galerie de artă care prezintă lucrări ale artiștilor din New Mexico în Pueblo.",
                   "category": "museum",
                   "coords": [
                         -105.570554,
@@ -20264,7 +20264,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pueblo of Taos Historical Marker",
-                  "text": "Pueblo of Taos Historical Marker este un marcaj istoric într-un parc din zona Taos Pueblo.",
+                  "text": "Un indicator istoric la Taos Pueblo explicând istoria acestuia.",
                   "category": "park",
                   "coords": [
                         -105.54447,
@@ -20273,7 +20273,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Taos Pueblo Tribal Office",
-                  "text": "Taos Pueblo Tribal Office este oficiiul tribal al Taos Pueblo, care face parte din Patrimoniul Mondial UNESCO.",
+                  "text": "Clădire administrativă a vechiului Taos Pueblo, sit UNESCO.",
                   "category": "historical",
                   "coords": [
                         -105.547425,
@@ -20291,7 +20291,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Martínez Hacienda",
-                  "text": "Martínez Hacienda este o haciendă istorică în regiunea Taos Pueblo.",
+                  "text": "O hacienda colonial spaniolă din secolul al XIX-lea în Taos.",
                   "category": "landmark",
                   "coords": [
                         -105.608142,
@@ -20300,7 +20300,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Fun Studio",
-                  "text": "Fun Studio este o galerie de artă în regiunea Taos Pueblo.",
+                  "text": "Un studio de artă interactiv pentru copii în Pueblo.",
                   "category": "museum",
                   "coords": [
                         -105.587007,
@@ -20309,7 +20309,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Devisadero Peak",
-                  "text": "Vârful Devisadero Peak este un vârf montan în regiunea Taos Pueblo.",
+                  "text": "Un vârf lângă Taos Pueblo, cu trasee de drumeție.",
                   "category": "natural",
                   "coords": [
                         -105.533899,
@@ -20318,7 +20318,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Ranchos Peak",
-                  "text": "Vârful Ranchos Peak este un vârf montan în regiunea Taos Pueblo.",
+                  "text": "Un vârf proeminent lângă Pueblo, care se înalță deasupra văii râului Arkansas.",
                   "category": "natural",
                   "coords": [
                         -105.478343,
@@ -20327,7 +20327,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Palo Encebado Peak",
-                  "text": "Vârful Palo Encebado Peak este un vârf montan în regiunea Taos Pueblo.",
+                  "text": "Un vârf natural lângă Pueblo, cu vedere asupra văii râului Arkansas.",
                   "category": "natural",
                   "coords": [
                         -105.454732,
@@ -20336,7 +20336,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Hlauuma (North House)",
-                  "text": "North House este o clădire istorică în Taos Pueblo (Casa de Nord).",
+                  "text": "O casă istorică în partea de nord a orașului Pueblo.",
                   "category": "landmark",
                   "coords": [
                         -105.545071,
@@ -20345,7 +20345,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "San Geronimo Chapel",
-                  "text": "San Geronimo Chapel este o capelă în Taos Pueblo.",
+                  "text": "O capelă istorică de misiune spaniolă în Pueblo.",
                   "category": "landmark",
                   "coords": [
                         -105.546135,
@@ -20354,7 +20354,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Metta Theater",
-                  "text": "Metta Theater este un teatru în regiunea Taos Pueblo.",
+                  "text": "Un teatru comunitar care găzduiește spectacole live în Pueblo.",
                   "category": "cultural",
                   "coords": [
                         -105.583407,
@@ -20363,7 +20363,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Hacienda de los Martinez Museum",
-                  "text": "Hacienda de los Martinez Museum este un muzeu într-o haciendă istorică în regiunea Taos Pueblo.",
+                  "text": "Un muzeu restaurat într-o hacienda colonială spaniolă din secolul al XIX-lea în Pueblo.",
                   "category": "museum",
                   "coords": [
                         -105.608197,
@@ -20374,7 +20374,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Pueblo Peak",
-                  "text": "Pueblo Peak is a peak in the Taos Pueblo region.",
+                  "text": "A prominent peak above Taos Pueblo.",
                   "category": "natural",
                   "coords": [
                         -105.483064,
@@ -20383,7 +20383,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Fine Art New Mexico LLC",
-                  "text": "Fine Art New Mexico LLC is an art gallery in the Taos Pueblo region.",
+                  "text": "A fine art gallery showcasing New Mexican artists in Pueblo.",
                   "category": "museum",
                   "coords": [
                         -105.570554,
@@ -20392,7 +20392,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pueblo of Taos Historical Marker",
-                  "text": "Pueblo of Taos Historical Marker is a historical marker at a park in the Taos Pueblo area.",
+                  "text": "A historical marker at Taos Pueblo explaining its history.",
                   "category": "park",
                   "coords": [
                         -105.54447,
@@ -20401,7 +20401,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Taos Pueblo Tribal Office",
-                  "text": "Taos Pueblo Tribal Office is the tribal office of Taos Pueblo, a UNESCO World Heritage site.",
+                  "text": "Administrative building of the ancient Taos Pueblo, a UNESCO World Heritage site.",
                   "category": "historical",
                   "coords": [
                         -105.547425,
@@ -20419,7 +20419,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Martínez Hacienda",
-                  "text": "Martínez Hacienda is a historic hacienda in the Taos Pueblo region.",
+                  "text": "A 19th-century Spanish colonial hacienda in Taos.",
                   "category": "landmark",
                   "coords": [
                         -105.608142,
@@ -20428,7 +20428,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Fun Studio",
-                  "text": "Fun Studio is an art gallery in the Taos Pueblo region.",
+                  "text": "A hands-on art studio for children in Pueblo.",
                   "category": "museum",
                   "coords": [
                         -105.587007,
@@ -20437,7 +20437,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Devisadero Peak",
-                  "text": "Devisadero Peak is a peak in the Taos Pueblo region.",
+                  "text": "A peak near Taos Pueblo with hiking trails.",
                   "category": "natural",
                   "coords": [
                         -105.533899,
@@ -20446,7 +20446,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Ranchos Peak",
-                  "text": "Ranchos Peak is a peak in the Taos Pueblo region.",
+                  "text": "A prominent peak near Pueblo, rising above the Arkansas River valley.",
                   "category": "natural",
                   "coords": [
                         -105.478343,
@@ -20455,7 +20455,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Palo Encebado Peak",
-                  "text": "Palo Encebado Peak is a peak in the Taos Pueblo region.",
+                  "text": "A natural peak near Pueblo overlooking the Arkansas River valley.",
                   "category": "natural",
                   "coords": [
                         -105.454732,
@@ -20464,7 +20464,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "North House",
-                  "text": "North House is a historic building in Taos Pueblo (North House).",
+                  "text": "A historic house on Pueblo's north side.",
                   "category": "landmark",
                   "coords": [
                         -105.545071,
@@ -20473,7 +20473,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "San Geronimo Chapel",
-                  "text": "San Geronimo Chapel is a chapel in Taos Pueblo.",
+                  "text": "A historic Spanish mission chapel in Pueblo.",
                   "category": "landmark",
                   "coords": [
                         -105.546135,
@@ -20482,7 +20482,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Metta Theater",
-                  "text": "Metta Theater is a theater in the Taos Pueblo region.",
+                  "text": "A community theater hosting live performances in Pueblo.",
                   "category": "cultural",
                   "coords": [
                         -105.583407,
@@ -20491,7 +20491,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Hacienda de los Martinez Museum",
-                  "text": "Hacienda de los Martinez Museum is a museum in a historic hacienda in the Taos Pueblo region.",
+                  "text": "A restored 19th-century Spanish colonial hacienda museum in Pueblo.",
                   "category": "museum",
                   "coords": [
                         -105.608197,
@@ -20560,7 +20560,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Old Jail Museum",
-                  "text": "Ein ehemaliges Gefängnis in St. Augustine, jetzt ein Museum.",
+                  "text": "Historisches Gefängnis von 1891, heute Museum über die Haftbedingungen des 19. Jahrhunderts.",
                   "category": "museum",
                   "coords": [
                         -81.318572,
@@ -20605,7 +20605,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Spanish Military Hospital Museum",
-                  "text": "Ein Museum in St. Augustine, das ein spanisches Militärkrankenhaus aus dem 18. Jahrhundert nachbildet.",
+                  "text": "Nachbau eines spanischen Kolonialkrankenhauses aus dem 18. Jahrhundert mit medizinischen Exponaten.",
                   "category": "museum",
                   "coords": [
                         -81.311584,
@@ -20704,7 +20704,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Prince of Peace Votive Church",
-                  "text": "Die Prince of Peace Votive Church ist ein Gotteshaus in St. Augustine.",
+                  "text": "Die Kathedralbasilika St. Augustinus, eine historische katholische Kirche im historischen Viertel der Stadt.",
                   "category": "religious",
                   "coords": [
                         -81.316547,
@@ -20713,7 +20713,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Augustine Lighthouse",
-                  "text": "Der Saint Augustine Lighthouse ist ein historischer Leuchtturm mit 219 Stufen bis zur Spitze.",
+                  "text": "Der Leuchtturm aus dem 19. Jahrhundert auf Anastasia Island, der Schiffe nach St. Augustine leitet.",
                   "category": "landmark",
                   "coords": [
                         -81.28854,
@@ -20722,7 +20722,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Grace Gallery",
-                  "text": "Die Grace Gallery ist eine Kunstgalerie in St. Augustine.",
+                  "text": "Eine Kunstgalerie mit zeitgenössischen Werken in Saint Augustine.",
                   "category": "museum",
                   "coords": [
                         -81.311775,
@@ -20731,7 +20731,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Aquamarine",
-                  "text": "Aquamarine ist eine Kunstgalerie in St. Augustine.",
+                  "text": "Ein Museum mit Meeresartefakten und Aquamarin-Edelsteinen in Saint Augustine.",
                   "category": "museum",
                   "coords": [
                         -81.314016,
@@ -20740,7 +20740,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Butterfield Garage Art Gallery",
-                  "text": "Die Butterfield Garage Art Gallery ist eine Kunstgalerie in St. Augustine.",
+                  "text": "Eine Kunstgalerie in einer umgebauten Garage mit lokalen Künstlern in Saint Augustine.",
                   "category": "museum",
                   "coords": [
                         -81.319514,
@@ -20749,7 +20749,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Historic Weapons Exhibit",
-                  "text": "Die Historic Weapons Exhibit ist ein Museum in St. Augustine, das historische Waffen zeigt.",
+                  "text": "Eine Museumsausstellung historischer Feuerwaffen und Schwerter in Saint Augustine.",
                   "category": "museum",
                   "coords": [
                         -81.314971,
@@ -20758,7 +20758,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Maritime Traditions Exhibit",
-                  "text": "Die Maritime Traditions Exhibit ist ein Museum in St. Augustine über maritime Traditionen.",
+                  "text": "Eine Museumsausstellung zur Seefahrtsgeschichte und Schiffbaukunst in Saint Augustine.",
                   "category": "museum",
                   "coords": [
                         -81.313472,
@@ -20778,7 +20778,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Old Jail Museum",
-                  "text": "Egykori börtön St. Augustine-ban, ma múzeum.",
+                  "text": "Történelmi börtön 1891-ből, ma múzeum a 19. századi börtönkörülményekről.",
                   "category": "museum",
                   "coords": [
                         -81.318572,
@@ -20823,7 +20823,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Spanish Military Hospital Museum",
-                  "text": "Múzeum St. Augustine-ban, amely egy 18. századi spanyol katonai kórházat rekonstruál.",
+                  "text": "Egy 18. századi spanyol gyarmati kórház másolata orvosi kiállításokkal.",
                   "category": "museum",
                   "coords": [
                         -81.311584,
@@ -20922,7 +20922,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Prince of Peace Votive Church",
-                  "text": "A Prince of Peace Votive Church egy istentiszteleti hely St. Augustine-ban.",
+                  "text": "A Szent Ágoston-székesegyházi bazilika, egy történelmi katolikus templom a város történelmi negyedében.",
                   "category": "religious",
                   "coords": [
                         -81.316547,
@@ -20931,7 +20931,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Augustine Lighthouse",
-                  "text": "A Saint Augustine Lighthouse egy történelmi világítótorony, 219 lépcsőfokkal a tetejéig.",
+                  "text": "A 19. századi világítótorony Anastasia Islanden, amely hajókat irányít St. Augustine felé.",
                   "category": "landmark",
                   "coords": [
                         -81.28854,
@@ -20940,7 +20940,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Grace Gallery",
-                  "text": "A Grace Gallery egy művészeti galéria St. Augustine-ban.",
+                  "text": "Egy kortárs művészeti galéria Saint Augustine-ban.",
                   "category": "museum",
                   "coords": [
                         -81.311775,
@@ -20949,7 +20949,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Aquamarine",
-                  "text": "Az Aquamarine egy művészeti galéria St. Augustine-ban.",
+                  "text": "Egy múzeum tengeri műtárgyakkal és akvamarin drágakövekkel Saint Augustine-ban.",
                   "category": "museum",
                   "coords": [
                         -81.314016,
@@ -20958,7 +20958,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Butterfield Garage Art Gallery",
-                  "text": "A Butterfield Garage Art Gallery egy művészeti galéria St. Augustine-ban.",
+                  "text": "Egy átalakított garázsban működő művészeti galéria helyi művészekkel Saint Augustine-ban.",
                   "category": "museum",
                   "coords": [
                         -81.319514,
@@ -20967,7 +20967,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Historic Weapons Exhibit",
-                  "text": "A Historic Weapons Exhibit egy múzeum St. Augustine-ban, amely történelmi fegyvereket mutat be.",
+                  "text": "Egy múzeumi kiállítás történelmi lőfegyverekről és kardokról Saint Augustine-ban.",
                   "category": "museum",
                   "coords": [
                         -81.314971,
@@ -20976,7 +20976,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Maritime Traditions Exhibit",
-                  "text": "A Maritime Traditions Exhibit egy múzeum St. Augustine-ban a tengeri hagyományokról.",
+                  "text": "Egy múzeumi kiállítás a tengerészet történetéről és a hajóépítésről Saint Augustine-ban.",
                   "category": "museum",
                   "coords": [
                         -81.313472,
@@ -20996,7 +20996,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Old Jail Museum",
-                  "text": "Un fost închisoare în St. Augustine, acum muzeu.",
+                  "text": "Închisoare istorică din 1891, acum muzeu despre condițiile de detenție din secolul al XIX-lea.",
                   "category": "museum",
                   "coords": [
                         -81.318572,
@@ -21041,7 +21041,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Spanish Military Hospital Museum",
-                  "text": "Un muzeu în St. Augustine care reconstituie un spital militar spaniol din secolul al XVIII-lea.",
+                  "text": "Replică a unui spital colonial spaniol din secolul al XVIII-lea, cu exponate medicale.",
                   "category": "museum",
                   "coords": [
                         -81.311584,
@@ -21140,7 +21140,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Prince of Peace Votive Church",
-                  "text": "Prince of Peace Votive Church este un lăcaș de cult din St. Augustine.",
+                  "text": "Catedrala Bazilica Sfântul Augustin, o biserică catolică istorică în districtul istoric al orașului.",
                   "category": "religious",
                   "coords": [
                         -81.316547,
@@ -21149,7 +21149,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Augustine Lighthouse",
-                  "text": "Farul Saint Augustine este un far istoric cu 219 de trepte până în vârf.",
+                  "text": "Farul din secolul al XIX-lea de pe Insula Anastasia, care ghidează navele spre St. Augustine.",
                   "category": "landmark",
                   "coords": [
                         -81.28854,
@@ -21158,7 +21158,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Grace Gallery",
-                  "text": "Grace Gallery este o galerie de artă din St. Augustine.",
+                  "text": "O galerie de artă contemporană în Saint Augustine.",
                   "category": "museum",
                   "coords": [
                         -81.311775,
@@ -21167,7 +21167,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Aquamarine",
-                  "text": "Aquamarine este o galerie de artă din St. Augustine.",
+                  "text": "Un muzeu cu artefacte marine și pietre prețioase acvamarin în Saint Augustine.",
                   "category": "museum",
                   "coords": [
                         -81.314016,
@@ -21176,7 +21176,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Butterfield Garage Art Gallery",
-                  "text": "Butterfield Garage Art Gallery este o galerie de artă din St. Augustine.",
+                  "text": "O galerie de artă într-un garaj transformat, cu artiști locali în Saint Augustine.",
                   "category": "museum",
                   "coords": [
                         -81.319514,
@@ -21185,7 +21185,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Historic Weapons Exhibit",
-                  "text": "Historic Weapons Exhibit este un muzeu din St. Augustine care prezintă arme istorice.",
+                  "text": "O expoziție muzeală de arme de foc și săbii istorice în Saint Augustine.",
                   "category": "museum",
                   "coords": [
                         -81.314971,
@@ -21194,7 +21194,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Maritime Traditions Exhibit",
-                  "text": "Maritime Traditions Exhibit este un muzeu din St. Augustine despre tradițiile maritime.",
+                  "text": "O expoziție muzeală despre istoria maritimă și construcția de nave în Saint Augustine.",
                   "category": "museum",
                   "coords": [
                         -81.313472,
@@ -21214,7 +21214,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Old Jail Museum",
-                  "text": "A former jail in St. Augustine now a museum.",
+                  "text": "Historic jail built in 1891, now a museum showing 19th-century prison conditions.",
                   "category": "museum",
                   "coords": [
                         -81.318572,
@@ -21259,7 +21259,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Spanish Military Hospital Museum",
-                  "text": "A museum in St. Augustine recreating an 18th-century Spanish military hospital.",
+                  "text": "Replica of a Spanish colonial hospital from the 18th century, with medical exhibits.",
                   "category": "museum",
                   "coords": [
                         -81.311584,
@@ -21358,7 +21358,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Prince of Peace Votive Church",
-                  "text": "Prince of Peace Votive Church is a place of worship in St. Augustine.",
+                  "text": "The Cathedral Basilica of St. Augustine, a historic Catholic church in the city's historic district.",
                   "category": "religious",
                   "coords": [
                         -81.316547,
@@ -21367,7 +21367,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Augustine Lighthouse",
-                  "text": "The Saint Augustine Lighthouse is a historic lighthouse with 219 steps to the top.",
+                  "text": "The 19th-century lighthouse on Anastasia Island, guiding ships into St. Augustine.",
                   "category": "landmark",
                   "coords": [
                         -81.28854,
@@ -21376,7 +21376,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Grace Gallery",
-                  "text": "Grace Gallery is an art gallery in St. Augustine.",
+                  "text": "An art gallery featuring contemporary works in Saint Augustine.",
                   "category": "museum",
                   "coords": [
                         -81.311775,
@@ -21385,7 +21385,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Aquamarine",
-                  "text": "Aquamarine is an art gallery in St. Augustine.",
+                  "text": "A museum of marine artifacts and aquamarine gems in Saint Augustine.",
                   "category": "museum",
                   "coords": [
                         -81.314016,
@@ -21394,7 +21394,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Butterfield Garage Art Gallery",
-                  "text": "Butterfield Garage Art Gallery is an art gallery in St. Augustine.",
+                  "text": "A converted garage art gallery showcasing local artists in Saint Augustine.",
                   "category": "museum",
                   "coords": [
                         -81.319514,
@@ -21403,7 +21403,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Historic Weapons Exhibit",
-                  "text": "The Historic Weapons Exhibit is a museum in St. Augustine featuring historic weapons.",
+                  "text": "A museum display of historic firearms and swords in Saint Augustine.",
                   "category": "museum",
                   "coords": [
                         -81.314971,
@@ -21412,7 +21412,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Maritime Traditions Exhibit",
-                  "text": "The Maritime Traditions Exhibit is a museum in St. Augustine about maritime traditions.",
+                  "text": "A museum exhibit on seafaring history and shipbuilding in Saint Augustine.",
                   "category": "museum",
                   "coords": [
                         -81.313472,
@@ -21490,7 +21490,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Laguna Niguel Regional Park",
-                  "text": "Der Laguna Niguel Regional Park ist ein Regionalpark mit einem See in der Nähe von San Juan Capistrano.",
+                  "text": "Regionalpark mit einem 44 Hektar großen See zum Angeln und Bootfahren.",
                   "category": "park",
                   "coords": [
                         -117.70924,
@@ -21508,7 +21508,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Casa Romantica Cultural Center and Gardens",
-                  "text": "Das Casa Romantica Cultural Center and Gardens ist ein Kulturzentrum mit Gärten in San Juan Capistrano.",
+                  "text": "Ein historisches spanisch-koloniales Haus mit Gärten, heute ein Kulturzentrum in San Juan Capistrano.",
                   "category": "museum",
                   "coords": [
                         -117.62044,
@@ -21517,7 +21517,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Coyote Bluff",
-                  "text": "Coyote Bluff ist eine Klippe im Gebiet von San Juan Capistrano.",
+                  "text": "Eine Küstenklippe in San Juan Capistrano mit Blick auf den Pazifik.",
                   "category": "landmark",
                   "coords": [
                         -117.644494,
@@ -21535,7 +21535,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Capistrano Bight",
-                  "text": "Capistrano Bight ist eine Bucht in der Nähe von Capistrano.",
+                  "text": "Eine Meeresbucht an der Küste von Orange County nahe San Juan Capistrano.",
                   "category": "landmark",
                   "coords": [
                         -117.650883,
@@ -21544,7 +21544,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Rancho Mission Viejo Ecological Reserve",
-                  "text": "Das Rancho Mission Viejo Ecological Reserve ist ein ökologisches Schutzgebiet in der Region San Juan Capistrano.",
+                  "text": "Ein geschütztes ökologisches Reservat in San Juan Capistrano, das Küsten-Salbei und Auenlebensräume bewahrt.",
                   "category": "park",
                   "coords": [
                         -117.567547,
@@ -21553,7 +21553,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Niguel Hill",
-                  "text": "Niguel Hill ist ein Hügel oder Gipfel im Niguel-Gebiet nahe San Juan Capistrano.",
+                  "text": "Ein Hügel im Gebiet von San Juan Capistrano, Teil der Küstenausläufer.",
                   "category": "natural",
                   "coords": [
                         -117.73422,
@@ -21562,7 +21562,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Niguel Marine Life Refuge",
-                  "text": "Das Niguel Marine Life Refuge ist ein Meeresschutzgebiet im Niguel-Gebiet.",
+                  "text": "Ein geschütztes Meeresgebiet vor der Küste von San Juan Capistrano, das Gezeitenbecken und Meereslebewesen schützt.",
                   "category": "park",
                   "coords": [
                         -117.723109,
@@ -21571,7 +21571,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Doheny Marine Life Refuge",
-                  "text": "Das Doheny Marine Life Refuge ist ein Meeresschutzgebiet in der Nähe von Doheny.",
+                  "text": "Ein Meeresrefugium nahe Dana Point, das felsige Gezeitenzonen schützt.",
                   "category": "park",
                   "coords": [
                         -117.680885,
@@ -21580,7 +21580,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Capistrano Beach Park",
-                  "text": "Der Capistrano Beach Park ist ein Strandpark in Capistrano Beach.",
+                  "text": "Ein Strandpark am Pazifik in San Juan Capistrano, beliebt zum Surfen.",
                   "category": "park",
                   "coords": [
                         -117.667936,
@@ -21589,7 +21589,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Aliso and Wood Canyons Wilderness Park",
-                  "text": "Der Aliso and Wood Canyons Wilderness Park ist ein Wildnispark im Gebiet von Aliso und Wood Canyons.",
+                  "text": "Ein Wildnispark mit tiefen Schluchten und Eichenwäldern nahe San Juan Capistrano.",
                   "category": "natural",
                   "coords": [
                         -117.742814,
@@ -21598,7 +21598,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Arce Park",
-                  "text": "Der Arce Park ist ein Park in der Region San Juan Capistrano.",
+                  "text": "Ein kleiner Gemeindepark im Wohngebiet von San Juan Capistrano.",
                   "category": "park",
                   "coords": [
                         -117.666785,
@@ -21607,7 +21607,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Sea Terrace Community Park",
-                  "text": "Der Sea Terrace Community Park ist ein Gemeinschaftspark in der Region San Juan Capistrano.",
+                  "text": "Ein Gemeindepark mit malerischem Blick auf den Pazifischen Ozean in San Juan Capistrano.",
                   "category": "park",
                   "coords": [
                         -117.717516,
@@ -21852,7 +21852,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Laguna Niguel Regional Park",
-                  "text": "A Laguna Niguel Regional Park egy regionális park egy tóval San Juan Capistrano közelében.",
+                  "text": "Regionális park egy 44 hektáros tóval horgászatra és csónakázásra.",
                   "category": "park",
                   "coords": [
                         -117.70924,
@@ -21870,7 +21870,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Casa Romantica Cultural Center and Gardens",
-                  "text": "A Casa Romantica Cultural Center and Gardens egy kulturális központ kertekkel San Juan Capistranóban.",
+                  "text": "Egy történelmi spanyol gyarmati stílusú ház kertekkel, ma kulturális központ San Juan Capistranóban.",
                   "category": "museum",
                   "coords": [
                         -117.62044,
@@ -21879,7 +21879,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Coyote Bluff",
-                  "text": "A Coyote Bluff egy szikla San Juan Capistrano térségében.",
+                  "text": "Egy tengerparti szikla San Juan Capistranóban, a Csendes-óceánra néző kilátással.",
                   "category": "landmark",
                   "coords": [
                         -117.644494,
@@ -21897,7 +21897,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Capistrano Bight",
-                  "text": "A Capistrano Bight egy öböl Capistrano közelében.",
+                  "text": "Egy tengeri öböl Orange County partján, San Juan Capistrano közelében.",
                   "category": "landmark",
                   "coords": [
                         -117.650883,
@@ -21906,7 +21906,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Rancho Mission Viejo Ecological Reserve",
-                  "text": "A Rancho Mission Viejo Ecological Reserve egy ökológiai rezervátum a San Juan Capistrano régióban.",
+                  "text": "Egy védett ökológiai rezervátum San Juan Capistranóban, amely parti zsályát és ártéri élőhelyeket őriz.",
                   "category": "park",
                   "coords": [
                         -117.567547,
@@ -21915,7 +21915,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Niguel Hill",
-                  "text": "A Niguel Hill egy domb vagy csúcs a Niguel térségében San Juan Capistrano közelében.",
+                  "text": "Egy domb San Juan Capistrano térségében, a parti dombvidék része.",
                   "category": "natural",
                   "coords": [
                         -117.73422,
@@ -21924,7 +21924,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Niguel Marine Life Refuge",
-                  "text": "A Niguel Marine Life Refuge egy tengeri élővilág-rezervátum a Niguel térségében.",
+                  "text": "Egy védett tengeri terület San Juan Capistrano partjainál, amely dagálymedencéket és tengeri élőlényeket óv.",
                   "category": "park",
                   "coords": [
                         -117.723109,
@@ -21933,7 +21933,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Doheny Marine Life Refuge",
-                  "text": "A Doheny Marine Life Refuge egy tengeri élővilág-rezervátum Doheny közelében.",
+                  "text": "Egy tengeri menedékhely Dana Point közelében, amely sziklás dagályzónákat véd.",
                   "category": "park",
                   "coords": [
                         -117.680885,
@@ -21942,7 +21942,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Capistrano Beach Park",
-                  "text": "A Capistrano Beach Park egy strandpark Capistrano Beachben.",
+                  "text": "Egy strandpark a Csendes-óceán partján San Juan Capistranóban, népszerű szörfözésre.",
                   "category": "park",
                   "coords": [
                         -117.667936,
@@ -21951,7 +21951,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Aliso and Wood Canyons Wilderness Park",
-                  "text": "Az Aliso and Wood Canyons Wilderness Park egy vadonpark az Aliso és Wood Canyons területén.",
+                  "text": "Egy vadon park mély kanyonokkal és tölgyesekkel San Juan Capistrano közelében.",
                   "category": "natural",
                   "coords": [
                         -117.742814,
@@ -21960,7 +21960,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Arce Park",
-                  "text": "Az Arce Park egy park a San Juan Capistrano régióban.",
+                  "text": "Egy kis közösségi park San Juan Capistrano lakónegyedében.",
                   "category": "park",
                   "coords": [
                         -117.666785,
@@ -21969,7 +21969,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Sea Terrace Community Park",
-                  "text": "A Sea Terrace Community Park egy közösségi park a San Juan Capistrano régióban.",
+                  "text": "Egy közösségi park festői kilátással a Csendes-óceánra San Juan Capistranóban.",
                   "category": "park",
                   "coords": [
                         -117.717516,
@@ -22214,7 +22214,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Laguna Niguel Regional Park",
-                  "text": "Laguna Niguel Regional Park este un parc regional cu un lac în apropiere de San Juan Capistrano.",
+                  "text": "Parcul regional cu un lac de 44 de acri pentru pescuit și navigație.",
                   "category": "park",
                   "coords": [
                         -117.70924,
@@ -22232,7 +22232,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Casa Romantica Cultural Center and Gardens",
-                  "text": "Casa Romantica Cultural Center and Gardens este un centru cultural cu grădini în San Juan Capistrano.",
+                  "text": "O casă istorică în stil colonial spaniol cu grădini, acum centru cultural în San Juan Capistrano.",
                   "category": "museum",
                   "coords": [
                         -117.62044,
@@ -22241,7 +22241,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Coyote Bluff",
-                  "text": "Coyote Bluff este o stâncă în zona San Juan Capistrano.",
+                  "text": "O stâncă de coastă în San Juan Capistrano, cu vedere spre Oceanul Pacific.",
                   "category": "landmark",
                   "coords": [
                         -117.644494,
@@ -22259,7 +22259,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Capistrano Bight",
-                  "text": "Capistrano Bight este un golf în apropiere de Capistrano.",
+                  "text": "Un golf marin pe coasta comitatului Orange, lângă San Juan Capistrano.",
                   "category": "landmark",
                   "coords": [
                         -117.650883,
@@ -22268,7 +22268,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Rancho Mission Viejo Ecological Reserve",
-                  "text": "Rancho Mission Viejo Ecological Reserve este o rezervație ecologică în regiunea San Juan Capistrano.",
+                  "text": "O rezervație ecologică protejată în San Juan Capistrano, care păstrează vegetația de salvia de coastă și habitatele ripariene.",
                   "category": "park",
                   "coords": [
                         -117.567547,
@@ -22277,7 +22277,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Niguel Hill",
-                  "text": "Niguel Hill este un deal sau un vârf în zona Niguel lângă San Juan Capistrano.",
+                  "text": "Un deal în zona San Juan Capistrano, parte a dealurilor de coastă.",
                   "category": "natural",
                   "coords": [
                         -117.73422,
@@ -22286,7 +22286,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Niguel Marine Life Refuge",
-                  "text": "Niguel Marine Life Refuge este un refugiu marin în zona Niguel.",
+                  "text": "O arie marină protejată în largul coastei San Juan Capistrano, care protejează bălțile de maree și viața marină.",
                   "category": "park",
                   "coords": [
                         -117.723109,
@@ -22295,7 +22295,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Doheny Marine Life Refuge",
-                  "text": "Doheny Marine Life Refuge este un refugiu marin în apropiere de Doheny.",
+                  "text": "Un refugiu marin lângă Dana Point, care protejează zonele intertidale stâncoase.",
                   "category": "park",
                   "coords": [
                         -117.680885,
@@ -22304,7 +22304,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Capistrano Beach Park",
-                  "text": "Capistrano Beach Park este un parc de plajă în Capistrano Beach.",
+                  "text": "Un parc de plajă pe Oceanul Pacific în San Juan Capistrano, popular pentru surfing.",
                   "category": "park",
                   "coords": [
                         -117.667936,
@@ -22313,7 +22313,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Aliso and Wood Canyons Wilderness Park",
-                  "text": "Aliso and Wood Canyons Wilderness Park este un parc sălbatic în zona Aliso și Wood Canyons.",
+                  "text": "Un parc sălbatic cu canioane adânci și păduri de stejar lângă San Juan Capistrano.",
                   "category": "natural",
                   "coords": [
                         -117.742814,
@@ -22322,7 +22322,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Arce Park",
-                  "text": "Arce Park este un parc în regiunea San Juan Capistrano.",
+                  "text": "Un mic parc comunitar în zona rezidențială din San Juan Capistrano.",
                   "category": "park",
                   "coords": [
                         -117.666785,
@@ -22331,7 +22331,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Sea Terrace Community Park",
-                  "text": "Sea Terrace Community Park este un parc comunitar în regiunea San Juan Capistrano.",
+                  "text": "Un parc comunitar cu vederi pitorești asupra Oceanului Pacific în San Juan Capistrano.",
                   "category": "park",
                   "coords": [
                         -117.717516,
@@ -22576,7 +22576,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Laguna Niguel Regional Park",
-                  "text": "Laguna Niguel Regional Park is a regional park with a lake near San Juan Capistrano.",
+                  "text": "Regional park centered around a 44-acre lake for fishing and boating.",
                   "category": "park",
                   "coords": [
                         -117.70924,
@@ -22594,7 +22594,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Casa Romantica Cultural Center and Gardens",
-                  "text": "Casa Romantica Cultural Center and Gardens is a cultural center with gardens in San Juan Capistrano.",
+                  "text": "A historic Spanish colonial-style house with gardens, now a cultural center in San Juan Capistrano.",
                   "category": "museum",
                   "coords": [
                         -117.62044,
@@ -22603,7 +22603,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Coyote Bluff",
-                  "text": "Coyote Bluff is a cliff in the San Juan Capistrano area.",
+                  "text": "A coastal bluff in San Juan Capistrano overlooking the Pacific Ocean.",
                   "category": "landmark",
                   "coords": [
                         -117.644494,
@@ -22621,7 +22621,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Capistrano Bight",
-                  "text": "Capistrano Bight is a bay near Capistrano.",
+                  "text": "A coastal bight along the Orange County shoreline near San Juan Capistrano.",
                   "category": "landmark",
                   "coords": [
                         -117.650883,
@@ -22630,7 +22630,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Rancho Mission Viejo Ecological Reserve",
-                  "text": "Rancho Mission Viejo Ecological Reserve is an ecological reserve in the San Juan Capistrano region.",
+                  "text": "A protected ecological reserve in San Juan Capistrano, preserving coastal sage scrub and riparian habitats.",
                   "category": "park",
                   "coords": [
                         -117.567547,
@@ -22639,7 +22639,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Niguel Hill",
-                  "text": "Niguel Hill is a hill or peak in the Niguel area near San Juan Capistrano.",
+                  "text": "A hill in the San Juan Capistrano area, part of the coastal foothills.",
                   "category": "natural",
                   "coords": [
                         -117.73422,
@@ -22648,7 +22648,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Niguel Marine Life Refuge",
-                  "text": "Niguel Marine Life Refuge is a marine life refuge in the Niguel area.",
+                  "text": "A protected marine area off the coast of San Juan Capistrano, safeguarding tidepools and marine life.",
                   "category": "park",
                   "coords": [
                         -117.723109,
@@ -22657,7 +22657,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Doheny Marine Life Refuge",
-                  "text": "Doheny Marine Life Refuge is a marine life refuge near Doheny.",
+                  "text": "A marine refuge near Dana Point, protecting rocky intertidal zones.",
                   "category": "park",
                   "coords": [
                         -117.680885,
@@ -22666,7 +22666,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Capistrano Beach Park",
-                  "text": "Capistrano Beach Park is a beach park in Capistrano Beach.",
+                  "text": "A beach park on the Pacific Ocean in San Juan Capistrano, popular for surfing.",
                   "category": "park",
                   "coords": [
                         -117.667936,
@@ -22675,7 +22675,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Aliso and Wood Canyons Wilderness Park",
-                  "text": "Aliso and Wood Canyons Wilderness Park is a wilderness park in the Aliso and Wood Canyons area.",
+                  "text": "A wilderness park with deep canyons and oak woodlands near San Juan Capistrano.",
                   "category": "natural",
                   "coords": [
                         -117.742814,
@@ -22684,7 +22684,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Arce Park",
-                  "text": "Arce Park is a park in the San Juan Capistrano region.",
+                  "text": "A small community park in the residential area of San Juan Capistrano.",
                   "category": "park",
                   "coords": [
                         -117.666785,
@@ -22693,7 +22693,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Sea Terrace Community Park",
-                  "text": "Sea Terrace Community Park is a community park in the San Juan Capistrano region.",
+                  "text": "A community park with scenic views of the Pacific Ocean in San Juan Capistrano.",
                   "category": "park",
                   "coords": [
                         -117.717516,
@@ -22996,7 +22996,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Arai Pond",
-                  "text": "Ein Teich in Manzanar, Teil der historischen Landschaft.",
+                  "text": "Ein Teich, der ursprünglich von japanisch-amerikanischen Internierten in Manzanar angelegt wurde.",
                   "category": "landmark",
                   "coords": [
                         -118.15697,
@@ -23005,7 +23005,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Fossil Hill",
-                  "text": "Ein Gipfel in der Gegend von Manzanar, bekannt für Fossilienvorkommen.",
+                  "text": "Ein Hügel im Gebiet von Manzanar, bekannt für seine Fossilienvorkommen.",
                   "category": "natural",
                   "coords": [
                         -118.047589,
@@ -23014,7 +23014,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Reinhackle Spring",
-                  "text": "Eine natürliche Quelle in der Gegend von Manzanar.",
+                  "text": "Eine Quelle im Gebiet von Manzanar, eine Wasserstelle in der Wüste.",
                   "category": "landmark",
                   "coords": [
                         -118.105835,
@@ -23023,7 +23023,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chicken Ranch",
-                  "text": "Eine ehemalige Ranch, heute eine Attraktion in Manzanar.",
+                  "text": "Eine ehemalige Hühnerfarm innerhalb des Internierungslagers Manzanar.",
                   "category": "landmark",
                   "coords": [
                         -118.123617,
@@ -23050,7 +23050,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Dehy Park",
-                  "text": "Ein Park innerhalb der Manzanar National Historic Site.",
+                  "text": "Ein Park innerhalb der Manzanar National Historic Site, der an das Internierungslager erinnert.",
                   "category": "park",
                   "coords": [
                         -118.202685,
@@ -23059,7 +23059,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mary Austin's House",
-                  "text": "Ein Museum, das das Haus der Schriftstellerin Mary Austin war.",
+                  "text": "Das historische Haus der Schriftstellerin Mary Austin in Manzanar.",
                   "category": "museum",
                   "coords": [
                         -118.201891,
@@ -23068,7 +23068,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Symmes Creek Wilderness Study Area",
-                  "text": "Ein geschütztes Wildnisstudiengebiet nahe Manzanar.",
+                  "text": "Ein geschütztes Wildnisgebiet entlang des Symmes Creek nahe Manzanar.",
                   "category": "natural",
                   "coords": [
                         -118.215075,
@@ -23077,7 +23077,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Independence Creek Wilderness Study Area",
-                  "text": "Ein Wildnisstudiengebiet entlang des Independence Creek.",
+                  "text": "Ein Wildnisgebiet entlang des Independence Creek nahe Manzanar.",
                   "category": "natural",
                   "coords": [
                         -118.183002,
@@ -23086,7 +23086,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Merritt Park",
-                  "text": "Ein Park in Manzanar.",
+                  "text": "Ein Park innerhalb der Manzanar National Historic Site.",
                   "category": "park",
                   "coords": [
                         -118.15854,
@@ -23095,7 +23095,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Manzanar National Historic Site Visitor Center",
-                  "text": "Das Besucherzentrum-Museum der Manzanar National Historic Site.",
+                  "text": "Das Besucherzentrum der Gedenkstätte des Internierungslagers Manzanar.",
                   "category": "museum",
                   "coords": [
                         -118.14823,
@@ -23133,7 +23133,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Arai Pond",
-                  "text": "Egy tó Manzanarban, a történelmi táj része.",
+                  "text": "Egy tó, amelyet eredetileg japán-amerikai internáltak építettek Manzanarban.",
                   "category": "landmark",
                   "coords": [
                         -118.15697,
@@ -23142,7 +23142,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Fossil Hill",
-                  "text": "Egy csúcs a Manzanar környékén, amely fosszília-lelőhelyeiről ismert.",
+                  "text": "Egy domb Manzanar térségében, híres fosszília lelőhelyeiről.",
                   "category": "natural",
                   "coords": [
                         -118.047589,
@@ -23151,7 +23151,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Reinhackle Spring",
-                  "text": "Egy természetes forrás a Manzanar környékén.",
+                  "text": "Egy forrás Manzanar térségében, egy vízforrás a sivatagban.",
                   "category": "landmark",
                   "coords": [
                         -118.105835,
@@ -23160,7 +23160,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chicken Ranch",
-                  "text": "Egy egykori ranch, ma látványosság Manzanarban.",
+                  "text": "Egy egykori csirkefarm a manzanari internálótáborban.",
                   "category": "landmark",
                   "coords": [
                         -118.123617,
@@ -23187,7 +23187,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Dehy Park",
-                  "text": "Egy park a Manzanar Nemzeti Történelmi Emlékhelyen belül.",
+                  "text": "Egy park a Manzanar Nemzeti Történelmi Emlékhelyen belül, amely az internálótáborra emlékeztet.",
                   "category": "park",
                   "coords": [
                         -118.202685,
@@ -23196,7 +23196,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mary Austin's House",
-                  "text": "Egy múzeum, amely Mary Austin író otthona volt.",
+                  "text": "Mary Austin író történelmi háza Manzanarban.",
                   "category": "museum",
                   "coords": [
                         -118.201891,
@@ -23205,7 +23205,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Symmes Creek Wilderness Study Area",
-                  "text": "Egy védett vadon tanulmányi terület Manzanar közelében.",
+                  "text": "Egy védett vadon a Symmes Creek mentén Manzanar közelében.",
                   "category": "natural",
                   "coords": [
                         -118.215075,
@@ -23214,7 +23214,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Independence Creek Wilderness Study Area",
-                  "text": "Egy vadon tanulmányi terület az Independence Creek mentén.",
+                  "text": "Egy vadon a Independence Creek mentén Manzanar közelében.",
                   "category": "natural",
                   "coords": [
                         -118.183002,
@@ -23223,7 +23223,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Merritt Park",
-                  "text": "Egy park Manzanarban.",
+                  "text": "Egy park a Manzanar Nemzeti Történelmi Emlékhelyen belül.",
                   "category": "park",
                   "coords": [
                         -118.15854,
@@ -23232,7 +23232,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Manzanar National Historic Site Visitor Center",
-                  "text": "A Manzanar Nemzeti Történelmi Emlékhely látogatóközpont-múzeuma.",
+                  "text": "A manzanari internálótábor emlékhelyének látogatóközpontja.",
                   "category": "museum",
                   "coords": [
                         -118.14823,
@@ -23270,7 +23270,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Arai Pond",
-                  "text": "Un iaz din Manzanar, parte a peisajului istoric.",
+                  "text": "Un iaz construit inițial de internii japonezi-americani la Manzanar.",
                   "category": "landmark",
                   "coords": [
                         -118.15697,
@@ -23279,7 +23279,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Fossil Hill",
-                  "text": "Un vârf în zona Manzanar, cunoscut pentru depozitele de fosile.",
+                  "text": "Un deal în zona Manzanar, cunoscut pentru depozitele sale de fosile.",
                   "category": "natural",
                   "coords": [
                         -118.047589,
@@ -23288,7 +23288,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Reinhackle Spring",
-                  "text": "Un izvor natural în zona Manzanar.",
+                  "text": "Un izvor în zona Manzanar, o sursă de apă în deșert.",
                   "category": "landmark",
                   "coords": [
                         -118.105835,
@@ -23297,7 +23297,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chicken Ranch",
-                  "text": "O fostă fermă, acum o atracție în Manzanar.",
+                  "text": "O fostă fermă de găini în cadrul lagărului de internare Manzanar.",
                   "category": "landmark",
                   "coords": [
                         -118.123617,
@@ -23324,7 +23324,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Dehy Park",
-                  "text": "Un parc în cadrul Sitului Istoric Național Manzanar.",
+                  "text": "Un parc în cadrul Sitului Istoric Național Manzanar, care comemorează lagărul de internare.",
                   "category": "park",
                   "coords": [
                         -118.202685,
@@ -23333,7 +23333,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mary Austin's House",
-                  "text": "Un muzeu care a fost casa scriitoarei Mary Austin.",
+                  "text": "Casa istorică a scriitoarei Mary Austin la Manzanar.",
                   "category": "museum",
                   "coords": [
                         -118.201891,
@@ -23342,7 +23342,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Symmes Creek Wilderness Study Area",
-                  "text": "O arie de studiu a sălbăticiei protejată lângă Manzanar.",
+                  "text": "O arie protejată de sălbăticie de-a lungul pârâului Symmes Creek lângă Manzanar.",
                   "category": "natural",
                   "coords": [
                         -118.215075,
@@ -23351,7 +23351,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Independence Creek Wilderness Study Area",
-                  "text": "O arie de studiu a sălbăticiei de-a lungul pârâului Independence.",
+                  "text": "O arie de sălbăticie de-a lungul pârâului Independence Creek lângă Manzanar.",
                   "category": "natural",
                   "coords": [
                         -118.183002,
@@ -23360,7 +23360,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Merritt Park",
-                  "text": "Un parc în Manzanar.",
+                  "text": "Un parc în cadrul Sitului Istoric Național Manzanar.",
                   "category": "park",
                   "coords": [
                         -118.15854,
@@ -23369,7 +23369,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Manzanar National Historic Site Visitor Center",
-                  "text": "Muzeul centrului de vizitare al Sitului Istoric Național Manzanar.",
+                  "text": "Centrul de vizitare al sitului istoric național Manzanar (lagăr de internare).",
                   "category": "museum",
                   "coords": [
                         -118.14823,
@@ -23407,7 +23407,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Arai Pond",
-                  "text": "A pond at Manzanar, part of the historic landscape.",
+                  "text": "A pond originally built by Japanese American internees at Manzanar.",
                   "category": "landmark",
                   "coords": [
                         -118.15697,
@@ -23416,7 +23416,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Fossil Hill",
-                  "text": "A peak in the Manzanar area known for fossil deposits.",
+                  "text": "A hill in the Manzanar area, known for its fossil deposits.",
                   "category": "natural",
                   "coords": [
                         -118.047589,
@@ -23425,7 +23425,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Reinhackle Spring",
-                  "text": "A natural spring in the Manzanar area.",
+                  "text": "A spring in the Manzanar area, a water source in the desert.",
                   "category": "landmark",
                   "coords": [
                         -118.105835,
@@ -23434,7 +23434,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Chicken Ranch",
-                  "text": "A former ranch site now an attraction at Manzanar.",
+                  "text": "A former chicken ranch within the Manzanar internment camp.",
                   "category": "landmark",
                   "coords": [
                         -118.123617,
@@ -23461,7 +23461,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Dehy Park",
-                  "text": "A park within the Manzanar National Historic Site.",
+                  "text": "A park within the Manzanar National Historic Site, commemorating the internment camp.",
                   "category": "park",
                   "coords": [
                         -118.202685,
@@ -23470,7 +23470,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mary Austin's House",
-                  "text": "A museum that was the home of writer Mary Austin.",
+                  "text": "The historic home of author Mary Austin at Manzanar.",
                   "category": "museum",
                   "coords": [
                         -118.201891,
@@ -23479,7 +23479,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Symmes Creek Wilderness Study Area",
-                  "text": "A protected wilderness study area near Manzanar.",
+                  "text": "A protected wilderness area along Symmes Creek near Manzanar.",
                   "category": "natural",
                   "coords": [
                         -118.215075,
@@ -23488,7 +23488,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Independence Creek Wilderness Study Area",
-                  "text": "A wilderness study area along Independence Creek.",
+                  "text": "A wilderness area along Independence Creek near Manzanar.",
                   "category": "natural",
                   "coords": [
                         -118.183002,
@@ -23497,7 +23497,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Merritt Park",
-                  "text": "A park at Manzanar.",
+                  "text": "A park within the Manzanar National Historic Site.",
                   "category": "park",
                   "coords": [
                         -118.15854,
@@ -23506,7 +23506,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Manzanar National Historic Site Visitor Center",
-                  "text": "The visitor center museum at Manzanar National Historic Site.",
+                  "text": "The visitor center for the Manzanar National Historic Site internment camp.",
                   "category": "museum",
                   "coords": [
                         -118.14823,
@@ -23686,7 +23686,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Masquers Playhouse",
-                  "text": "Ein Gemeinschaftstheater auf Angel Island.",
+                  "text": "Historisches Theater in einem ehemaligen Kirchengebäude.",
                   "category": "cultural",
                   "coords": [
                         -122.384775,
@@ -23695,7 +23695,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Old Saint Hilarys Church",
-                  "text": "Eine historische Kirche auf Angel Island.",
+                  "text": "Hölzerne neugotische Kapelle von 1888, heute Museum.",
                   "category": "religious",
                   "coords": [
                         -122.456118,
@@ -23704,7 +23704,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint John's Presbyterian Church",
-                  "text": "Eine historische presbyterianische Kirche auf Angel Island.",
+                  "text": "Neoklassizistische Kirche von 1905 im Stadtteil Pacific Heights.",
                   "category": "religious",
                   "coords": [
                         -122.459686,
@@ -23713,7 +23713,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Saints Peter and Paul Church",
-                  "text": "Eine historische Kirche auf Angel Island.",
+                  "text": "Katholische Kirche mit Zwillingsspitzen, gegenüber dem Washington Square Park.",
                   "category": "religious",
                   "coords": [
                         -122.410237,
@@ -23722,7 +23722,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lime Point",
-                  "text": "Ein Leuchtturm auf Angel Island.",
+                  "text": "Leuchtturm am Golden Gate, nahe der ehemaligen Einwanderungsstation auf Angel Island.",
                   "category": "landmark",
                   "coords": [
                         -122.478338,
@@ -23731,7 +23731,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "South Bay",
-                  "text": "Eine Bucht auf Angel Island.",
+                  "text": "Bucht der San Francisco Bay, die an die ehemalige Einwanderungsstation angrenzt.",
                   "category": "landmark",
                   "coords": [
                         -122.49275,
@@ -23740,7 +23740,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "El Polín Spring",
-                  "text": "Eine historische Quelle auf Angel Island.",
+                  "text": "Natürliche Quelle im Presidio-Park, in der Nähe der Golden Gate Bridge.",
                   "category": "landmark",
                   "coords": [
                         -122.45523,
@@ -23776,7 +23776,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Richardson Bay",
-                  "text": "Eine Bucht in der San Francisco Bay Area auf Angel Island.",
+                  "text": "Gezeitenästuar nördlich von San Francisco, nahe Sausalito.",
                   "category": "landmark",
                   "coords": [
                         -122.486844,
@@ -23875,7 +23875,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mountain Lake Park",
-                  "text": "Ein Park in San Francisco auf Angel Island.",
+                  "text": "Park am See im Richmond District, nahe der ehemaligen Einwanderungsstation.",
                   "category": "park",
                   "coords": [
                         -122.469192,
@@ -24012,7 +24012,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Masquers Playhouse",
-                  "text": "Egy közösségi színház az Angel Islanden.",
+                  "text": "Történelmi színház egy egykori templomépületben.",
                   "category": "cultural",
                   "coords": [
                         -122.384775,
@@ -24021,7 +24021,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Old Saint Hilarys Church",
-                  "text": "Egy történelmi templom az Angel Islanden.",
+                  "text": "Fából készült neogótikus kápolna 1888-ból, ma múzeum.",
                   "category": "religious",
                   "coords": [
                         -122.456118,
@@ -24030,7 +24030,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint John's Presbyterian Church",
-                  "text": "Egy történelmi presbiteriánus templom az Angel Islanden.",
+                  "text": "Neoklasszikus templom 1905-ből, Pacific Heights negyedben.",
                   "category": "religious",
                   "coords": [
                         -122.459686,
@@ -24039,7 +24039,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Saints Peter and Paul Church",
-                  "text": "Egy történelmi templom az Angel Islanden.",
+                  "text": "Katolikus templom ikertornyokkal, a Washington Square Parkkal szemben.",
                   "category": "religious",
                   "coords": [
                         -122.410237,
@@ -24048,7 +24048,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lime Point",
-                  "text": "Egy világítótorony az Angel Islanden.",
+                  "text": "Világítótorony a Golden Gate-nél, az angyalszigeti bevándorlási állomás közelében.",
                   "category": "landmark",
                   "coords": [
                         -122.478338,
@@ -24057,7 +24057,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "South Bay",
-                  "text": "Egy öböl az Angel Islanden.",
+                  "text": "A San Francisco-öböl egy része, a bevándorlási állomás közelében.",
                   "category": "landmark",
                   "coords": [
                         -122.49275,
@@ -24066,7 +24066,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "El Polín Spring",
-                  "text": "Egy történelmi forrás az Angel Islanden.",
+                  "text": "Természetes forrás a Presidio parkban, a Golden Gate híd közelében.",
                   "category": "landmark",
                   "coords": [
                         -122.45523,
@@ -24102,7 +24102,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Richardson Bay",
-                  "text": "Egy öböl a San Francisco-öböl térségében az Angel Islanden.",
+                  "text": "Árapályos torkolat San Franciscótól északra, Sausalito közelében.",
                   "category": "landmark",
                   "coords": [
                         -122.486844,
@@ -24201,7 +24201,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mountain Lake Park",
-                  "text": "Egy park San Franciscóban az Angel Islanden.",
+                  "text": "Tóparti park a Richmond negyedben, a bevándorlási állomás közelében.",
                   "category": "park",
                   "coords": [
                         -122.469192,
@@ -24338,7 +24338,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Masquers Playhouse",
-                  "text": "Un teatru comunitar pe Angel Island.",
+                  "text": "Teatru istoric găzduit într-o fostă clădire bisericească.",
                   "category": "cultural",
                   "coords": [
                         -122.384775,
@@ -24347,7 +24347,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Old Saint Hilarys Church",
-                  "text": "O biserică istorică pe Angel Island.",
+                  "text": "Capelă din lemn neogotică construită în 1888, acum muzeu.",
                   "category": "religious",
                   "coords": [
                         -122.456118,
@@ -24356,7 +24356,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint John's Presbyterian Church",
-                  "text": "O biserică istorică prezbiteriană pe Angel Island.",
+                  "text": "Biserică neoclasică din 1905 în cartierul Pacific Heights.",
                   "category": "religious",
                   "coords": [
                         -122.459686,
@@ -24365,7 +24365,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Saints Peter and Paul Church",
-                  "text": "O biserică istorică pe Angel Island.",
+                  "text": "Biserică catolică cu turle gemene, vizavi de Washington Square Park.",
                   "category": "religious",
                   "coords": [
                         -122.410237,
@@ -24374,7 +24374,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lime Point",
-                  "text": "Un far pe Angel Island.",
+                  "text": "Farul Lime Point la strâmtoarea Golden Gate, lângă fosta stație de imigrație de pe Insula Angel.",
                   "category": "landmark",
                   "coords": [
                         -122.478338,
@@ -24383,7 +24383,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "South Bay",
-                  "text": "Un golf pe Angel Island.",
+                  "text": "Golf al golfului San Francisco, adiacent fostei stații de imigrație.",
                   "category": "landmark",
                   "coords": [
                         -122.49275,
@@ -24392,7 +24392,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "El Polín Spring",
-                  "text": "Un izvor istoric pe Angel Island.",
+                  "text": "Izvor natural în parcul Presidio, aproape de Podul Golden Gate.",
                   "category": "landmark",
                   "coords": [
                         -122.45523,
@@ -24428,7 +24428,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Richardson Bay",
-                  "text": "Un golf în zona Golfului San Francisco pe Angel Island.",
+                  "text": "Estuar tidal la nord de San Francisco, lângă Sausalito.",
                   "category": "landmark",
                   "coords": [
                         -122.486844,
@@ -24527,7 +24527,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mountain Lake Park",
-                  "text": "Un parc în San Francisco pe Angel Island.",
+                  "text": "Parcul lacustru din districtul Richmond, lângă fosta stație de imigrație.",
                   "category": "park",
                   "coords": [
                         -122.469192,
@@ -24664,7 +24664,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Masquers Playhouse",
-                  "text": "A community theatre on Angel Island.",
+                  "text": "Historic theatre housed in a former church building.",
                   "category": "cultural",
                   "coords": [
                         -122.384775,
@@ -24673,7 +24673,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Old Saint Hilarys Church",
-                  "text": "A historic church on Angel Island.",
+                  "text": "Wooden Gothic Revival chapel built in 1888, now a museum.",
                   "category": "religious",
                   "coords": [
                         -122.456118,
@@ -24682,7 +24682,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint John's Presbyterian Church",
-                  "text": "A historic Presbyterian church on Angel Island.",
+                  "text": "Neoclassical church built in 1905 in the Pacific Heights neighborhood.",
                   "category": "religious",
                   "coords": [
                         -122.459686,
@@ -24691,7 +24691,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Saints Peter and Paul Church",
-                  "text": "A historic church on Angel Island.",
+                  "text": "Roman Catholic church with twin spires opposite Washington Square Park.",
                   "category": "religious",
                   "coords": [
                         -122.410237,
@@ -24700,7 +24700,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Lime Point",
-                  "text": "A lighthouse on Angel Island.",
+                  "text": "Lime Point is a historic lighthouse at the Golden Gate strait, near the Angel Island Immigration Station.",
                   "category": "landmark",
                   "coords": [
                         -122.478338,
@@ -24709,7 +24709,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "South Bay",
-                  "text": "A bay on Angel Island.",
+                  "text": "South Bay is a bay of San Francisco Bay, adjacent to the former immigration station.",
                   "category": "landmark",
                   "coords": [
                         -122.49275,
@@ -24718,7 +24718,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "El Polín Spring",
-                  "text": "A historic spring on Angel Island.",
+                  "text": "El Polín Spring is a natural spring in the Presidio of San Francisco, near the Golden Gate Bridge.",
                   "category": "landmark",
                   "coords": [
                         -122.45523,
@@ -24754,7 +24754,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Richardson Bay",
-                  "text": "A bay in the San Francisco Bay Area on Angel Island.",
+                  "text": "Richardson Bay is a tidal estuary north of San Francisco, near Sausalito.",
                   "category": "landmark",
                   "coords": [
                         -122.486844,
@@ -24853,7 +24853,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Mountain Lake Park",
-                  "text": "A park in San Francisco on Angel Island.",
+                  "text": "Mountain Lake Park is a lakeside park in the Richmond District, near the former immigration station.",
                   "category": "park",
                   "coords": [
                         -122.469192,
@@ -24985,7 +24985,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Sand Hill",
-                  "text": "Ein Hügel im Shiloh National Military Park.",
+                  "text": "Ein sandiger Hügel im Vicksburg National Military Park in Mississippi.",
                   "category": "natural",
                   "coords": [
                         -88.246983,
@@ -25003,7 +25003,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pisgah Hill",
-                  "text": "Ein Hügel im Shiloh National Military Park.",
+                  "text": "Ein Hügel im Vicksburg National Military Park in Mississippi.",
                   "category": "natural",
                   "coords": [
                         -88.349486,
@@ -25176,7 +25176,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Sand Hill",
-                  "text": "Egy domb a Shiloh Nemzeti Katonai Parkban.",
+                  "text": "Egy homokos domb a Vicksburg Nemzeti Katonai Parkban, Mississippiben.",
                   "category": "natural",
                   "coords": [
                         -88.246983,
@@ -25194,7 +25194,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pisgah Hill",
-                  "text": "Egy domb a Shiloh Nemzeti Katonai Parkban.",
+                  "text": "Egy domb a Vicksburg Nemzeti Katonai Parkban, Mississippiben.",
                   "category": "natural",
                   "coords": [
                         -88.349486,
@@ -25367,7 +25367,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Sand Hill",
-                  "text": "Un deal în Parcul Militar Național Shiloh.",
+                  "text": "Un deal nisipos în Parcul Militar Național Vicksburg, Mississippi.",
                   "category": "natural",
                   "coords": [
                         -88.246983,
@@ -25385,7 +25385,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pisgah Hill",
-                  "text": "Un deal în Parcul Militar Național Shiloh.",
+                  "text": "Un deal în Parcul Militar Național Vicksburg, Mississippi.",
                   "category": "natural",
                   "coords": [
                         -88.349486,
@@ -25558,7 +25558,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Sand Hill",
-                  "text": "A hill within Shiloh National Military Park.",
+                  "text": "A sandy hill in Vicksburg National Military Park, Mississippi.",
                   "category": "natural",
                   "coords": [
                         -88.246983,
@@ -25576,7 +25576,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pisgah Hill",
-                  "text": "A hill within Shiloh National Military Park.",
+                  "text": "A hill in Vicksburg National Military Park, Mississippi.",
                   "category": "natural",
                   "coords": [
                         -88.349486,
@@ -25789,7 +25789,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "South Fort",
-                  "text": "Eine Festung im Gebiet von Vicksburg.",
+                  "text": "Eine befestigte Stellung im Vicksburg National Military Park (Bürgerkrieg).",
                   "category": "fortress",
                   "coords": [
                         -90.898521,
@@ -25798,7 +25798,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Biedenharn Coca-Cola Museum",
-                  "text": "Ein Museum in Vicksburg über die Geschichte von Coca-Cola.",
+                  "text": "Ein Museum in Vicksburg, in dem Coca-Cola erstmals abgefüllt wurde.",
                   "category": "museum",
                   "coords": [
                         -90.881684,
@@ -25816,7 +25816,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "USS Cairo Museum",
-                  "text": "Ein Museum in Vicksburg, das das Kanonenboot USS Cairo zeigt.",
+                  "text": "Ein Museum, das das geborgene Bürgerkriegspanzerschiff USS Cairo im Vicksburg National Military Park zeigt.",
                   "category": "museum",
                   "coords": [
                         -90.866492,
@@ -25825,7 +25825,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort Hill",
-                  "text": "Ein Hügel in Vicksburg, der als Festung diente.",
+                  "text": "Ein Hügel mit Bürgerkriegsbefestigungen im Vicksburg National Military Park.",
                   "category": "natural",
                   "coords": [
                         -90.869271,
@@ -25834,7 +25834,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Surrender Interview Site",
-                  "text": "Ein Denkmal in Vicksburg, das den Ort des Kapitulationsgesprächs markiert.",
+                  "text": "Der Ort des Übergabe-Gesprächs der Konföderierten bei Vicksburg.",
                   "category": "historical",
                   "coords": [
                         -90.84467,
@@ -25843,7 +25843,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Vicksburg Theatre Guild -  Parkside Playhouse",
-                  "text": "Ein Gemeinschaftstheater in Vicksburg.",
+                  "text": "Ein Gemeinschaftstheater in einem historischen Gebäude in Vicksburg.",
                   "category": "cultural",
                   "coords": [
                         -90.890479,
@@ -25879,7 +25879,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pump House",
-                  "text": "Ein ehemaliges militärisches Pumpenhaus in Vicksburg.",
+                  "text": "Pumpenhaus von 1934 im National Military Park.",
                   "category": "landmark",
                   "coords": [
                         -90.868802,
@@ -25888,7 +25888,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Vicksburg Municipal Auditorium",
-                  "text": "Ein städtisches Auditorium in Vicksburg für Aufführungen.",
+                  "text": "Ein historisches Auditorium für Konzerte und Veranstaltungen in Vicksburg.",
                   "category": "cultural",
                   "coords": [
                         -90.878636,
@@ -25944,7 +25944,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "South Fort",
-                  "text": "Egy erőd Vicksburg környékén.",
+                  "text": "Egy erődített állás a Vicksburg Nemzeti Katonai Parkban (polgárháború).",
                   "category": "fortress",
                   "coords": [
                         -90.898521,
@@ -25953,7 +25953,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Biedenharn Coca-Cola Museum",
-                  "text": "Egy múzeum Vicksburgben a Coca-Cola történetéről.",
+                  "text": "Egy múzeum Vicksburgben, ahol a Coca-Colát először palackozták.",
                   "category": "museum",
                   "coords": [
                         -90.881684,
@@ -25971,7 +25971,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "USS Cairo Museum",
-                  "text": "Egy múzeum Vicksburgben, amely bemutatja a USS Cairo ágyúnaszádot.",
+                  "text": "Egy múzeum, amely a kimentett USS Cairo polgárháborús páncélos hajót mutatja be a Vicksburg Nemzeti Katonai Parkban.",
                   "category": "museum",
                   "coords": [
                         -90.866492,
@@ -25980,7 +25980,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort Hill",
-                  "text": "Egy domb Vicksburgben, amely erődként szolgált.",
+                  "text": "Egy domb polgárháborús erődítményekkel a Vicksburg Nemzeti Katonai Parkban.",
                   "category": "natural",
                   "coords": [
                         -90.869271,
@@ -25989,7 +25989,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Surrender Interview Site",
-                  "text": "Egy emlékmű Vicksburgben, amely a megadási tárgyalás helyét jelöli.",
+                  "text": "A konföderációs erők megadási tárgyalásának helyszíne Vicksburgben.",
                   "category": "historical",
                   "coords": [
                         -90.84467,
@@ -25998,7 +25998,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Vicksburg Theatre Guild -  Parkside Playhouse",
-                  "text": "Egy közösségi színház Vicksburgben.",
+                  "text": "Egy közösségi színház egy történelmi épületben Vicksburgben.",
                   "category": "cultural",
                   "coords": [
                         -90.890479,
@@ -26034,7 +26034,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pump House",
-                  "text": "Egy egykori katonai szivattyúház Vicksburgben.",
+                  "text": "Szivattyúház 1934-ből a National Military Parkban.",
                   "category": "landmark",
                   "coords": [
                         -90.868802,
@@ -26043,7 +26043,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Vicksburg Municipal Auditorium",
-                  "text": "Egy városi előadóterem Vicksburgben előadásokhoz.",
+                  "text": "Egy történelmi nézőtér koncertek és események számára Vicksburgben.",
                   "category": "cultural",
                   "coords": [
                         -90.878636,
@@ -26099,7 +26099,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "South Fort",
-                  "text": "O fortăreață în zona Vicksburg.",
+                  "text": "O poziție fortificată în Parcul Militar Național Vicksburg (războiul civil).",
                   "category": "fortress",
                   "coords": [
                         -90.898521,
@@ -26108,7 +26108,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Biedenharn Coca-Cola Museum",
-                  "text": "Un muzeu în Vicksburg despre istoria Coca-Cola.",
+                  "text": "Un muzeu în Vicksburg unde Coca-Cola a fost îmbuteliată pentru prima dată.",
                   "category": "museum",
                   "coords": [
                         -90.881684,
@@ -26126,7 +26126,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "USS Cairo Museum",
-                  "text": "Un muzeu în Vicksburg care expune canoniera USS Cairo.",
+                  "text": "Un muzeu care expune canoniera blindată USS Cairo, salvată din Războiul Civil, în Parcul Militar Național Vicksburg.",
                   "category": "museum",
                   "coords": [
                         -90.866492,
@@ -26135,7 +26135,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort Hill",
-                  "text": "Un deal în Vicksburg care a servit drept fortificație.",
+                  "text": "Un deal cu fortificații din Războiul Civil în Parcul Militar Național Vicksburg.",
                   "category": "natural",
                   "coords": [
                         -90.869271,
@@ -26144,7 +26144,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Surrender Interview Site",
-                  "text": "Un monument în Vicksburg care marchează locul interviului de capitulare.",
+                  "text": "Locul interviului de predare al forțelor confederate la Vicksburg.",
                   "category": "historical",
                   "coords": [
                         -90.84467,
@@ -26153,7 +26153,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Vicksburg Theatre Guild -  Parkside Playhouse",
-                  "text": "Un teatru comunitar în Vicksburg.",
+                  "text": "Un teatru comunitar găzduit într-o clădire istorică din Vicksburg.",
                   "category": "cultural",
                   "coords": [
                         -90.890479,
@@ -26189,7 +26189,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pump House",
-                  "text": "O fostă instalație militară de pompare în Vicksburg.",
+                  "text": "Căsuță pompe din 1934 în Parcul Militar Național.",
                   "category": "landmark",
                   "coords": [
                         -90.868802,
@@ -26198,7 +26198,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Vicksburg Municipal Auditorium",
-                  "text": "Un auditoriu municipal în Vicksburg pentru spectacole.",
+                  "text": "Un auditoriu istoric care găzduiește concerte și evenimente în Vicksburg.",
                   "category": "cultural",
                   "coords": [
                         -90.878636,
@@ -26254,7 +26254,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "South Fort",
-                  "text": "A fortification in the Vicksburg area.",
+                  "text": "A fortified position in Vicksburg National Military Park (Civil War).",
                   "category": "fortress",
                   "coords": [
                         -90.898521,
@@ -26263,7 +26263,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Biedenharn Coca-Cola Museum",
-                  "text": "A museum about Coca-Cola history in Vicksburg.",
+                  "text": "A museum in Vicksburg where Coca-Cola was first bottled.",
                   "category": "museum",
                   "coords": [
                         -90.881684,
@@ -26281,7 +26281,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "USS Cairo Museum",
-                  "text": "A museum in Vicksburg displaying the USS Cairo gunboat.",
+                  "text": "A museum displaying the salvaged Civil War ironclad gunboat USS Cairo in Vicksburg National Military Park.",
                   "category": "museum",
                   "coords": [
                         -90.866492,
@@ -26290,7 +26290,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort Hill",
-                  "text": "A hill in Vicksburg that served as a fortification.",
+                  "text": "A hill with Civil War fortifications in Vicksburg National Military Park.",
                   "category": "natural",
                   "coords": [
                         -90.869271,
@@ -26299,7 +26299,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Surrender Interview Site",
-                  "text": "A monument marking the site of the surrender interview in Vicksburg.",
+                  "text": "The site of the surrender interview of Confederate forces at Vicksburg.",
                   "category": "historical",
                   "coords": [
                         -90.84467,
@@ -26308,7 +26308,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Vicksburg Theatre Guild -  Parkside Playhouse",
-                  "text": "A community theatre in Vicksburg.",
+                  "text": "A community theater housed in a historic building in Vicksburg.",
                   "category": "cultural",
                   "coords": [
                         -90.890479,
@@ -26344,7 +26344,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Pump House",
-                  "text": "A former military pump house in Vicksburg.",
+                  "text": "Pump house built in 1934 in the National Military Park.",
                   "category": "landmark",
                   "coords": [
                         -90.868802,
@@ -26353,7 +26353,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Vicksburg Municipal Auditorium",
-                  "text": "A municipal auditorium in Vicksburg used for performances.",
+                  "text": "A historic auditorium hosting concerts and events in Vicksburg.",
                   "category": "cultural",
                   "coords": [
                         -90.878636,
@@ -26578,7 +26578,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Beadle Hill",
-                  "text": "Beadle Hill ist ein Hügel im Saratoga Battlefield-Gebiet.",
+                  "text": "Ein Hügel auf einem historischen Schlachtfeld des Bürgerkriegs.",
                   "category": "natural",
                   "coords": [
                         -73.532337,
@@ -26587,7 +26587,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Cornell Hill",
-                  "text": "Cornell Hill ist ein Hügel im Saratoga Battlefield-Gebiet.",
+                  "text": "Ein Hügel auf einem historischen Schlachtfeld des Bürgerkriegs.",
                   "category": "natural",
                   "coords": [
                         -73.735397,
@@ -26596,7 +26596,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Holmes Hill",
-                  "text": "Holmes Hill ist ein Hügel im Saratoga Battlefield-Gebiet.",
+                  "text": "Ein Hügel auf einem historischen Schlachtfeld des Bürgerkriegs.",
                   "category": "natural",
                   "coords": [
                         -73.594283,
@@ -26605,7 +26605,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bear Hill",
-                  "text": "Bear Hill ist ein Hügel im Saratoga Battlefield-Gebiet.",
+                  "text": "Ein Hügel auf einem historischen Schlachtfeld des Bürgerkriegs.",
                   "category": "natural",
                   "coords": [
                         -73.667062,
@@ -26623,7 +26623,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Saratoga National Historical Park",
-                  "text": "Der Saratoga National Historical Park ist ein Schlachtfeld aus dem Amerikanischen Unabhängigkeitskrieg im Saratoga Battlefield-Gebiet.",
+                  "text": "Der Schauplatz der entscheidenden Schlacht von Saratoga im Amerikanischen Unabhängigkeitskrieg.",
                   "category": "landmark",
                   "coords": [
                         -73.638451,
@@ -26650,7 +26650,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Arrowhead Casino Archaeological Preserve",
-                  "text": "Das Arrowhead Casino Archaeological Preserve ist ein archäologisches Schutzgebiet im Saratoga Battlefield-Gebiet.",
+                  "text": "Ein Naturschutzgebiet nahe dem Schlachtfeld von Gettysburg, das archäologische Funde einer ehemaligen Casino-Siedlung bewahrt.",
                   "category": "natural",
                   "coords": [
                         -73.740896,
@@ -26659,7 +26659,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Victory Mills Wildlife Management Area",
-                  "text": "Das Victory Mills Wildlife Management Area ist ein Wildtierschutzgebiet im Saratoga Battlefield-Gebiet.",
+                  "text": "Ein Wildtiergebiet nach dem historischen Victory Mill benannt, in der Nähe des Schlachtfelds von Gettysburg.",
                   "category": "natural",
                   "coords": [
                         -73.600738,
@@ -26668,7 +26668,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Stillwater Blockhouse",
-                  "text": "Das Stillwater Blockhouse ist ein Museum in einem historischen Blockhaus im Saratoga Battlefield-Gebiet.",
+                  "text": "Ein Museum in einem historischen Blockhaus aus dem 18. Jahrhundert nahe dem Schlachtfeld von Gettysburg.",
                   "category": "museum",
                   "coords": [
                         -73.656352,
@@ -26677,7 +26677,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Stillwater United Church",
-                  "text": "Die Stillwater United Church ist ein Gotteshaus im Saratoga Battlefield-Gebiet.",
+                  "text": "Eine historische Kirche auf dem Schlachtfeld von Saratoga in Stillwater, New York.",
                   "category": "religious",
                   "coords": [
                         -73.653862,
@@ -26688,7 +26688,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Beadle Hill",
-                  "text": "A Beadle Hill egy domb a Saratoga Battlefield területén.",
+                  "text": "Egy domb egy történelmi polgárháborús csatatéren.",
                   "category": "natural",
                   "coords": [
                         -73.532337,
@@ -26697,7 +26697,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Cornell Hill",
-                  "text": "A Cornell Hill egy domb a Saratoga Battlefield területén.",
+                  "text": "Egy domb egy történelmi polgárháborús csatatéren.",
                   "category": "natural",
                   "coords": [
                         -73.735397,
@@ -26706,7 +26706,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Holmes Hill",
-                  "text": "A Holmes Hill egy domb a Saratoga Battlefield területén.",
+                  "text": "Egy domb egy történelmi polgárháborús csatatéren.",
                   "category": "natural",
                   "coords": [
                         -73.594283,
@@ -26715,7 +26715,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bear Hill",
-                  "text": "A Bear Hill egy domb a Saratoga Battlefield területén.",
+                  "text": "Egy domb egy történelmi polgárháborús csatatéren.",
                   "category": "natural",
                   "coords": [
                         -73.667062,
@@ -26733,7 +26733,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Saratoga National Historical Park",
-                  "text": "A Saratoga National Historical Park egy csatatér az amerikai függetlenségi háborúból a Saratoga Battlefield területén.",
+                  "text": "A Szaratogai csata (amerikai függetlenségi háború) döntő ütközetének helyszíne.",
                   "category": "landmark",
                   "coords": [
                         -73.638451,
@@ -26760,7 +26760,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Arrowhead Casino Archaeological Preserve",
-                  "text": "Az Arrowhead Casino Archaeological Preserve egy régészeti rezervátum a Saratoga Battlefield területén.",
+                  "text": "Egy természetvédelmi terület a gettysburgi csatatér közelében, amely egy kaszinó település régészeti leleteit őrzi.",
                   "category": "natural",
                   "coords": [
                         -73.740896,
@@ -26769,7 +26769,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Victory Mills Wildlife Management Area",
-                  "text": "A Victory Mills Wildlife Management Area egy vadvédelmi terület a Saratoga Battlefield területén.",
+                  "text": "Egy vadgazdálkodási terület a történelmi Victory Millről elnevezve, a gettysburgi csatatér közelében.",
                   "category": "natural",
                   "coords": [
                         -73.600738,
@@ -26778,7 +26778,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Stillwater Blockhouse",
-                  "text": "A Stillwater Blockhouse egy múzeum egy történelmi gerendaházban a Saratoga Battlefield területén.",
+                  "text": "Egy múzeum egy 18. századi történelmi tömbházban, a gettysburgi csatatér közelében.",
                   "category": "museum",
                   "coords": [
                         -73.656352,
@@ -26787,7 +26787,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Stillwater United Church",
-                  "text": "A Stillwater United Church egy istentiszteleti hely a Saratoga Battlefield területén.",
+                  "text": "Egy történelmi templom a Saratoga csatatéren, Stillwaterben, New York államban.",
                   "category": "religious",
                   "coords": [
                         -73.653862,
@@ -26798,7 +26798,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Beadle Hill",
-                  "text": "Beadle Hill este un deal în zona Saratoga Battlefield.",
+                  "text": "Un deal pe un câmp de luptă istoric din Războiul Civil.",
                   "category": "natural",
                   "coords": [
                         -73.532337,
@@ -26807,7 +26807,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Cornell Hill",
-                  "text": "Cornell Hill este un deal în zona Saratoga Battlefield.",
+                  "text": "Un deal pe un câmp de luptă istoric din Războiul Civil.",
                   "category": "natural",
                   "coords": [
                         -73.735397,
@@ -26816,7 +26816,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Holmes Hill",
-                  "text": "Holmes Hill este un deal în zona Saratoga Battlefield.",
+                  "text": "Un deal pe un câmp de luptă istoric din Războiul Civil.",
                   "category": "natural",
                   "coords": [
                         -73.594283,
@@ -26825,7 +26825,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bear Hill",
-                  "text": "Bear Hill este un deal în zona Saratoga Battlefield.",
+                  "text": "Un deal pe un câmp de luptă istoric din Războiul Civil.",
                   "category": "natural",
                   "coords": [
                         -73.667062,
@@ -26843,7 +26843,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Saratoga National Historical Park",
-                  "text": "Saratoga National Historical Park este un câmp de luptă din Războiul de Independență al Americii în zona Saratoga Battlefield.",
+                  "text": "Locul bătăliei decisive de la Saratoga din Războiul de Independență al Americii.",
                   "category": "landmark",
                   "coords": [
                         -73.638451,
@@ -26870,7 +26870,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Arrowhead Casino Archaeological Preserve",
-                  "text": "Arrowhead Casino Archaeological Preserve este o rezervație arheologică în zona Saratoga Battlefield.",
+                  "text": "O rezervație naturală lângă câmpul de luptă de la Gettysburg, care protejează vestigii arheologice ale unei foste așezări de cazinou.",
                   "category": "natural",
                   "coords": [
                         -73.740896,
@@ -26879,7 +26879,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Victory Mills Wildlife Management Area",
-                  "text": "Victory Mills Wildlife Management Area este o arie de gestionare a faunei sălbatice în zona Saratoga Battlefield.",
+                  "text": "O zonă de gestionare a faunei sălbatice numită după moara istorică Victory Mill, lângă câmpul de luptă Gettysburg.",
                   "category": "natural",
                   "coords": [
                         -73.600738,
@@ -26888,7 +26888,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Stillwater Blockhouse",
-                  "text": "Stillwater Blockhouse este un muzeu într-o casă de bloc istorică în zona Saratoga Battlefield.",
+                  "text": "Un muzeu într-un bloc istoric din secolul al XVIII-lea, lângă câmpul de luptă Gettysburg.",
                   "category": "museum",
                   "coords": [
                         -73.656352,
@@ -26897,7 +26897,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Stillwater United Church",
-                  "text": "Stillwater United Church este un loc de cult în zona Saratoga Battlefield.",
+                  "text": "O biserică istorică pe câmpul de luptă de la Saratoga, în Stillwater, New York.",
                   "category": "religious",
                   "coords": [
                         -73.653862,
@@ -26908,7 +26908,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Beadle Hill",
-                  "text": "Beadle Hill is a hill in the Saratoga Battlefield area.",
+                  "text": "A hill on a historic Civil War battlefield.",
                   "category": "natural",
                   "coords": [
                         -73.532337,
@@ -26917,7 +26917,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Cornell Hill",
-                  "text": "Cornell Hill is a hill in the Saratoga Battlefield area.",
+                  "text": "A hill on a historic Civil War battlefield.",
                   "category": "natural",
                   "coords": [
                         -73.735397,
@@ -26926,7 +26926,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Holmes Hill",
-                  "text": "Holmes Hill is a hill in the Saratoga Battlefield area.",
+                  "text": "A hill on a historic Civil War battlefield.",
                   "category": "natural",
                   "coords": [
                         -73.594283,
@@ -26935,7 +26935,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Bear Hill",
-                  "text": "Bear Hill is a hill in the Saratoga Battlefield area.",
+                  "text": "A hill on a historic Civil War battlefield.",
                   "category": "natural",
                   "coords": [
                         -73.667062,
@@ -26953,7 +26953,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Saratoga National Historical Park",
-                  "text": "Saratoga National Historical Park is a battlefield of the American Revolution in the Saratoga Battlefield area.",
+                  "text": "The site of the decisive Battle of Saratoga in the American Revolution.",
                   "category": "landmark",
                   "coords": [
                         -73.638451,
@@ -26980,7 +26980,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Arrowhead Casino Archaeological Preserve",
-                  "text": "Arrowhead Casino Archaeological Preserve is an archaeological preserve in the Saratoga Battlefield area.",
+                  "text": "A natural preserve near the Gettysburg Battlefield, protecting archaeological remains of a former casino settlement.",
                   "category": "natural",
                   "coords": [
                         -73.740896,
@@ -26989,7 +26989,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Victory Mills Wildlife Management Area",
-                  "text": "Victory Mills Wildlife Management Area is a wildlife management area in the Saratoga Battlefield area.",
+                  "text": "A wildlife management area named after the historic Victory Mill, near the Gettysburg Battlefield.",
                   "category": "natural",
                   "coords": [
                         -73.600738,
@@ -26998,7 +26998,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Stillwater Blockhouse",
-                  "text": "Stillwater Blockhouse is a museum in a historic blockhouse in the Saratoga Battlefield area.",
+                  "text": "A museum in a historic 18th-century blockhouse near the Gettysburg Battlefield.",
                   "category": "museum",
                   "coords": [
                         -73.656352,
@@ -27007,7 +27007,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
             },
             {
                   "name": "Stillwater United Church",
-                  "text": "Stillwater United Church is a place of worship in the Saratoga Battlefield area.",
+                  "text": "A historic church located on the Saratoga Battlefield in Stillwater, New York.",
                   "category": "religious",
                   "coords": [
                         -73.653862,

@@ -142,7 +142,7 @@ export const latviaNatureV2: POI[] = [
       "de": [
             {
                   "name": "Mangaļsalas pludmale",
-                  "text": "Mangaļsala ist ein beliebter Strand im Daugava-Delta.",
+                  "text": "Mangaļsalas pludmale, ein Sandstrand am Daugava-Delta, ideal zum Sonnenbaden.",
                   "category": "recreational",
                   "coords": [
                         24.0625,
@@ -151,7 +151,7 @@ export const latviaNatureV2: POI[] = [
             },
             {
                   "name": "Zirgu peldvieta",
-                  "text": "Zirgu ist ein Badeplatz im Daugava-Delta.",
+                  "text": "Zirgu peldvieta, ein Platz im Daugava-Delta, wo Pferde gebadet werden.",
                   "category": "recreational",
                   "coords": [
                         24.09846,
@@ -243,7 +243,7 @@ export const latviaNatureV2: POI[] = [
       "hu": [
             {
                   "name": "Mangaļsalas pludmale",
-                  "text": "Mangaļsala egy népszerű strand a Daugava-deltában.",
+                  "text": "Mangaļsalas pludmale, homokos tengerpart a Daugava-deltában, napozásra alkalmas.",
                   "category": "recreational",
                   "coords": [
                         24.0625,
@@ -252,7 +252,7 @@ export const latviaNatureV2: POI[] = [
             },
             {
                   "name": "Zirgu peldvieta",
-                  "text": "Zirgu egy fürdőhely a Daugava-deltában.",
+                  "text": "Zirgu peldvieta, hely a Daugava-deltában, ahol lovakat fürdetnek.",
                   "category": "recreational",
                   "coords": [
                         24.09846,
@@ -344,7 +344,7 @@ export const latviaNatureV2: POI[] = [
       "ro": [
             {
                   "name": "Mangaļsalas pludmale",
-                  "text": "Mangaļsala este o plajă populară situată în delta Daugavei.",
+                  "text": "Mangaļsalas pludmale, o plajă nisipoasă în Delta Daugavei, ideală pentru plajă.",
                   "category": "recreational",
                   "coords": [
                         24.0625,
@@ -353,7 +353,7 @@ export const latviaNatureV2: POI[] = [
             },
             {
                   "name": "Zirgu peldvieta",
-                  "text": "Zirgu este o zonă de scăldat în delta Daugavei.",
+                  "text": "Zirgu peldvieta, un loc în Delta Daugavei unde sunt scăldați caii.",
                   "category": "recreational",
                   "coords": [
                         24.09846,
@@ -445,7 +445,7 @@ export const latviaNatureV2: POI[] = [
       "en": [
             {
                   "name": "Mangaļsalas pludmale",
-                  "text": "Mangaļsala is a popular beach in the Daugava Delta.",
+                  "text": "Mangaļsalas pludmale, a sandy beach at the Daugava Delta, ideal for sunbathing.",
                   "category": "recreational",
                   "coords": [
                         24.0625,
@@ -454,7 +454,7 @@ export const latviaNatureV2: POI[] = [
             },
             {
                   "name": "Zirgu peldvieta",
-                  "text": "Zirgu is a swimming spot in the Daugava Delta.",
+                  "text": "Zirgu peldvieta, a spot in the Daugava Delta where horses are bathed.",
                   "category": "recreational",
                   "coords": [
                         24.09846,
@@ -682,7 +682,7 @@ export const latviaNatureV2: POI[] = [
       "de": [
             {
                   "name": "CNC Klēts zāle",
-                  "text": "CNC Klēts zāle ist ein Museum in Gauja River Mouth.",
+                  "text": "CNC Klēts zāle, ein Museum im Gauja-Delta mit einer restaurierten Scheune und lokalen Werkzeugen.",
                   "category": "museum",
                   "coords": [
                         24.272842,
@@ -691,7 +691,7 @@ export const latviaNatureV2: POI[] = [
             },
             {
                   "name": "Carnikavas Novadpētniecības centrs",
-                  "text": "Carnikavas Novadpētniecības centrs ist ein Museum in Gauja River Mouth.",
+                  "text": "Carnikavas Novadpētniecības centrs, Museum im Gauja-Delta zur Regionalgeschichte.",
                   "category": "museum",
                   "coords": [
                         24.271524,
@@ -709,7 +709,7 @@ export const latviaNatureV2: POI[] = [
             },
             {
                   "name": "Carnikavas muižas kapitelis",
-                  "text": "Carnikava Manor Chapiter ist ein Denkmal in Gauja River Mouth.",
+                  "text": "Carnikava Manor Chapiter, ein historischer Gutskomplex im Gauja-Delta.",
                   "category": "historical",
                   "coords": [
                         24.274068,
@@ -718,7 +718,7 @@ export const latviaNatureV2: POI[] = [
             },
             {
                   "name": "Carnikavas kuģītis",
-                  "text": "Carnikavas kuģītis ist eine lokale Sehenswürdigkeit in Gauja River Mouth.",
+                  "text": "Carnikavas kuģītis, ein kleines Schiffswahrzeichen auf dem Gauja-Fluss.",
                   "category": "landmark",
                   "coords": [
                         24.266488,
@@ -729,7 +729,7 @@ export const latviaNatureV2: POI[] = [
       "hu": [
             {
                   "name": "CNC Klēts zāle",
-                  "text": "A CNC Klēts zāle egy múzeum Gauja River Mouth városában.",
+                  "text": "CNC Klēts zāle, múzeum a Gauja-deltában, felújított pajtával és helyi szerszámokkal.",
                   "category": "museum",
                   "coords": [
                         24.272842,
@@ -738,7 +738,7 @@ export const latviaNatureV2: POI[] = [
             },
             {
                   "name": "Carnikavas Novadpētniecības centrs",
-                  "text": "A Carnikavas Novadpētniecības centrs egy múzeum Gauja River Mouth városában.",
+                  "text": "Carnikavas Novadpētniecības centrs, múzeum a Gauja-deltában a helytörténetről.",
                   "category": "museum",
                   "coords": [
                         24.271524,
@@ -756,7 +756,7 @@ export const latviaNatureV2: POI[] = [
             },
             {
                   "name": "Carnikavas muižas kapitelis",
-                  "text": "A Carnikava Manor Chapiter egy emlékmű Gauja River Mouth városában.",
+                  "text": "Carnikava-kastély káptalan, történelmi kastélyegyüttes a Gauja-deltában.",
                   "category": "historical",
                   "coords": [
                         24.274068,
@@ -765,7 +765,7 @@ export const latviaNatureV2: POI[] = [
             },
             {
                   "name": "Carnikavas kuģītis",
-                  "text": "A Carnikavas kuģītis egy helyi látnivaló Gauja River Mouth területén.",
+                  "text": "Carnikavas kuģītis, egy kis hajó jelkép a Gauja folyón.",
                   "category": "landmark",
                   "coords": [
                         24.266488,
@@ -776,7 +776,7 @@ export const latviaNatureV2: POI[] = [
       "ro": [
             {
                   "name": "CNC Klēts zāle",
-                  "text": "CNC Klēts zāle este un muzeu în Gauja River Mouth.",
+                  "text": "CNC Klēts zāle, un muzeu în Delta Gauja, cu un hambar restaurat și unelte locale.",
                   "category": "museum",
                   "coords": [
                         24.272842,
@@ -785,7 +785,7 @@ export const latviaNatureV2: POI[] = [
             },
             {
                   "name": "Carnikavas Novadpētniecības centrs",
-                  "text": "Carnikavas Novadpētniecības centrs este un muzeu în Gauja River Mouth.",
+                  "text": "Carnikavas Novadpētniecības centrs, muzeu în Delta Gauja despre istoria regională.",
                   "category": "museum",
                   "coords": [
                         24.271524,
@@ -803,7 +803,7 @@ export const latviaNatureV2: POI[] = [
             },
             {
                   "name": "Carnikavas muižas kapitelis",
-                  "text": "Carnikava Manor Chapiter este un monument în Gauja River Mouth.",
+                  "text": "Carnikava Manor Chapiter, un complex istoric de conace în Delta Gauja.",
                   "category": "historical",
                   "coords": [
                         24.274068,
@@ -812,7 +812,7 @@ export const latviaNatureV2: POI[] = [
             },
             {
                   "name": "Carnikavas kuģītis",
-                  "text": "Carnikavas kuģītis este o atracție locală în Gauja River Mouth.",
+                  "text": "Carnikavas kuģītis, un mic reper de navă pe râul Gauja.",
                   "category": "landmark",
                   "coords": [
                         24.266488,
@@ -823,7 +823,7 @@ export const latviaNatureV2: POI[] = [
       "en": [
             {
                   "name": "CNC Klēts zāle",
-                  "text": "CNC Klēts zāle is a museum in Gauja River Mouth.",
+                  "text": "CNC Klēts zāle, a museum in Gauja Delta featuring a restored barn with local tools.",
                   "category": "museum",
                   "coords": [
                         24.272842,
@@ -832,7 +832,7 @@ export const latviaNatureV2: POI[] = [
             },
             {
                   "name": "Carnikavas Novadpētniecības centrs",
-                  "text": "Carnikavas Novadpētniecības centrs is a museum in Gauja River Mouth.",
+                  "text": "Carnikava Local Research Center in Gauja Delta exhibits regional history.",
                   "category": "museum",
                   "coords": [
                         24.271524,
@@ -850,7 +850,7 @@ export const latviaNatureV2: POI[] = [
             },
             {
                   "name": "Carnikava Manor Chapiter",
-                  "text": "Carnikava Manor Chapiter is a monument in Gauja River Mouth.",
+                  "text": "Carnikava Manor Chapter, a historic manor complex in Gauja Delta.",
                   "category": "historical",
                   "coords": [
                         24.274068,
@@ -859,7 +859,7 @@ export const latviaNatureV2: POI[] = [
             },
             {
                   "name": "Carnikavas kuģītis",
-                  "text": "Carnikavas kuģītis is a local attraction in Gauja River Mouth.",
+                  "text": "Carnikavas kuģītis, a small ship landmark on the Gauja River.",
                   "category": "landmark",
                   "coords": [
                         24.266488,

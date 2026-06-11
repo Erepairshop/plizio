@@ -39,7 +39,52 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
     },
   },
   {
-    id: "muleeaage-landmarks-v2",
+    id: "muleeaage-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Freitagsmoschee",
+                  "text": "Diese hochbedeutende Moschee aus dem Jahr 1658 ist berühmt dafür, dass sie vollständig aus ineinandergreifenden Korallenblöcken erbaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        73.512389,
+                        4.178033
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ހުކުރު މިސްކިތް",
+                  "text": "Az 1658-ból származó, rendkívül jelentős mecset arról híres, hogy teljes egészében egymásba fonódó koralltömbökből épült.",
+                  "category": "religious",
+                  "coords": [
+                        73.512389,
+                        4.178033
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ހުކުރު މިސްކިތް",
+                  "text": "Datând din 1658, această moschee de o importanță deosebită este faimoasă pentru că este construită în întregime din blocuri de corali interconectate.",
+                  "category": "religious",
+                  "coords": [
+                        73.512389,
+                        4.178033
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Malé Friday Mosque",
+                  "text": "Dating back to 1658, this highly significant mosque is famously constructed entirely from interwoven coral blocks.",
+                  "category": "religious",
+                  "coords": [
+                        73.512389,
+                        4.178033
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MV-XX",
     coords: [73.5118, 4.1774],
@@ -75,7 +120,52 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
     },
   },
   {
-    id: "maldives-national-museum-landmarks-v2",
+    id: "maldives-national-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bandaara Miskiy",
+                  "text": "Diese traditionelle maledivische Moschee befindet sich in der Nähe des Nationalmuseums in Malé und besticht durch feine Korallensteinmetzarbeiten.",
+                  "category": "landmark",
+                  "coords": [
+                        73.509145,
+                        4.179036
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bandaara Miskiy",
+                  "text": "Ez a hagyományos maldív mecset a maléi Nemzeti Múzeum közelében található, és finom korallkő-faragásaival nyűgözi le a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        73.509145,
+                        4.179036
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bandaara Miskiy",
+                  "text": "Această moschee tradițională maldiviană se află lângă Muzeul Național din Malé și impresionează prin sculpturile fine în piatră de coral.",
+                  "category": "landmark",
+                  "coords": [
+                        73.509145,
+                        4.179036
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bandaara Miskiy",
+                  "text": "Located near the National Museum in Malé, this traditional Maldivian mosque captivates visitors with its fine coral stone carvings.",
+                  "category": "landmark",
+                  "coords": [
+                        73.509145,
+                        4.179036
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MV-XX",
     coords: [73.5097, 4.1778],
@@ -111,7 +201,88 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
     },
   },
   {
-    id: "tsunami-monument-landmarks-v2",
+    id: "tsunami-monument-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tsunami Monument",
+                  "text": "Dieses Mahnmal besteht aus einer Skulptur aus Eisenkugeln, die die von der Tsunami-Katastrophe 2004 betroffenen Atolle symbolisieren.",
+                  "category": "historical",
+                  "coords": [
+                        73.501089,
+                        4.171563
+                  ]
+            },
+            {
+                  "name": "މަސްޖިދުއް ސުލްޠާނު މުޙައްމަދު ބިން އަބްދުއްﷲ",
+                  "text": "Die nach einem Sultan benannte Moschee im Zentrum von Malé beeindruckt durch ihre traditionelle islamische Bauweise.",
+                  "category": "landmark",
+                  "coords": [
+                        73.50266,
+                        4.172405
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tsunami Monument",
+                  "text": "Ez az emlékmű vaskorongokból álló szobor, amely a 2004-es szökőár által sújtott atollokat jelképezi.",
+                  "category": "historical",
+                  "coords": [
+                        73.501089,
+                        4.171563
+                  ]
+            },
+            {
+                  "name": "މަސްޖިދުއް ސުލްޠާނު މުޙައްމަދު ބިން އަބްދުއްﷲ",
+                  "text": "A Malé központjában található, egy szultánról elnevezett mecset hagyományos iszlám építészetével nyűgöz le.",
+                  "category": "landmark",
+                  "coords": [
+                        73.50266,
+                        4.172405
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tsunami Monument",
+                  "text": "Acest monument constă într-o sculptură din bile de fier care simbolizează atolii afectați de tsunami-ul din 2004.",
+                  "category": "historical",
+                  "coords": [
+                        73.501089,
+                        4.171563
+                  ]
+            },
+            {
+                  "name": "މަސްޖިދުއް ސުލްޠާނު މުޙައްމަދު ބިން އަބްދުއްﷲ",
+                  "text": "Moșcheea din centrul orașului Malé, numită după un sultan, impresionează prin arhitectura sa islamică tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        73.50266,
+                        4.172405
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tsunami Monument",
+                  "text": "This memorial features a sculpture of iron spheres representing the atolls affected by the 2004 tsunami.",
+                  "category": "historical",
+                  "coords": [
+                        73.501089,
+                        4.171563
+                  ]
+            },
+            {
+                  "name": "މަސްޖިދުއް ސުލްޠާނު މުޙައްމަދު ބިން އަބްދުއްﷲ",
+                  "text": "Named after a Sultan, this mosque in central Malé is notable for its traditional Islamic architectural style.",
+                  "category": "landmark",
+                  "coords": [
+                        73.50266,
+                        4.172405
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MV-XX",
     coords: [73.5050, 4.1717],
@@ -147,7 +318,52 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
     },
   },
   {
-    id: "sinamale-bridge-landmarks-v2",
+    id: "sinamale-bridge-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Velaanaa International Airport Monument",
+                  "text": "Ein markantes Denkmal in der Nähe des Inselflughafens, das den Fortschritt der nationalen Luftfahrt feiert.",
+                  "category": "historical",
+                  "coords": [
+                        73.52788,
+                        4.177061
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Velaanaa International Airport Monument",
+                  "text": "Jellegzetes emlékmű a repülőtér közelében, amely a nemzeti repülés fejlődésének állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        73.52788,
+                        4.177061
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Velaanaa International Airport Monument",
+                  "text": "Un monument distinctiv situat lângă aeroport, celebrând progresul aviației naționale.",
+                  "category": "historical",
+                  "coords": [
+                        73.52788,
+                        4.177061
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Velaanaa International Airport Monument",
+                  "text": "A distinctive monument located near the airport entrance celebrating national aviation progress.",
+                  "category": "historical",
+                  "coords": [
+                        73.52788,
+                        4.177061
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MV-XX",
     coords: [73.5235, 4.1751],
@@ -219,7 +435,52 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
     },
   },
   {
-    id: "victory-monument-landmarks-v2",
+    id: "victory-monument-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "ކަޅުވަކަރު މިސްކިތް",
+                  "text": "Die historisch bedeutsame Kalhuvakaru Miskiy in Malé zeichnet sich durch ihre kunstvolle Holzkonstruktion und lackierten Details aus.",
+                  "category": "religious",
+                  "coords": [
+                        73.510228,
+                        4.177674
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ކަޅުވަކަރު މިސްކިތް",
+                  "text": "A történelmi jelentőségű Kalhuvakaru Miskiy Maléban díszes faszerkezetével és lakkozott részleteivel tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        73.510228,
+                        4.177674
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ކަޅުވަކަރު މިސްކިތް",
+                  "text": "Istorica Kalhuvakaru Miskiy din Malé se distinge prin structura sa complexă din lemn și detaliile lăcuite.",
+                  "category": "religious",
+                  "coords": [
+                        73.510228,
+                        4.177674
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ކަޅުވަކަރު މިސްކިތް",
+                  "text": "The historically significant Kalhuvakaru Miskiy in Malé is distinguished by its intricate wooden structure and lacquered details.",
+                  "category": "religious",
+                  "coords": [
+                        73.510228,
+                        4.177674
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MV-XX",
     coords: [73.5101, 4.1779],
@@ -255,7 +516,88 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
     },
   },
   {
-    id: "republic-square-landmarks-v2",
+    id: "republic-square-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid-al-Sultan Muhammad Thakurufaanu Al Auzam",
+                  "text": "Das große islamische Zentrum dominiert die Skyline der Stadt und wird von einer massiven, glänzenden goldenen Kuppel gekrönt.",
+                  "category": "religious",
+                  "coords": [
+                        73.510586,
+                        4.178449
+                  ]
+            },
+            {
+                  "name": "Fish Market",
+                  "text": "Frisch gefangener Thunfisch und andere Rifffische werden zügig von Dhonis entladen und direkt auf dem Fliesenboden fachmännisch filetiert.",
+                  "category": "cultural",
+                  "coords": [
+                        73.509588,
+                        4.179875
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid-al-Sultan Muhammad Thakurufaanu Al Auzam",
+                  "text": "A város látképét uraló, hatalmas iszlám központot egy masszív, csillogó aranykupolás tető koronázza meg.",
+                  "category": "religious",
+                  "coords": [
+                        73.510586,
+                        4.178449
+                  ]
+            },
+            {
+                  "name": "Fish Market",
+                  "text": "A frissen fogott tonhalat és más zátonyhalakat gyorsan kirakodják a dhonikról, és szakszerűen filézik ki közvetlenül a csempézett padlón.",
+                  "category": "cultural",
+                  "coords": [
+                        73.509588,
+                        4.179875
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid-al-Sultan Muhammad Thakurufaanu Al Auzam",
+                  "text": "Dominând orizontul orașului, acest mare Centru Islamic este încoronat de o cupolă aurie masivă și strălucitoare.",
+                  "category": "religious",
+                  "coords": [
+                        73.510586,
+                        4.178449
+                  ]
+            },
+            {
+                  "name": "Fish Market",
+                  "text": "Tonul proaspăt prins și alți pești de recif sunt descărcați rapid de pe dhoni și filetați cu pricepere chiar pe podeaua cu gresie.",
+                  "category": "cultural",
+                  "coords": [
+                        73.509588,
+                        4.179875
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjid-al-Sultan Muhammad Thakurufaanu Al Auzam",
+                  "text": "Dominating the city skyline, this grand Islamic Centre is crowned by a massive, gleaming golden dome.",
+                  "category": "religious",
+                  "coords": [
+                        73.510586,
+                        4.178449
+                  ]
+            },
+            {
+                  "name": "Fish Market",
+                  "text": "Freshly caught tuna and other reef fish are swiftly unloaded from dhonis and expertly filleted right on the tiled floor.",
+                  "category": "cultural",
+                  "coords": [
+                        73.509588,
+                        4.179875
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MV-XX",
     coords: [73.5106, 4.1783],
@@ -291,7 +633,52 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
     },
   },
   {
-    id: "sultan-park-landmarks-v2",
+    id: "sultan-park-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maldivian Police Museum",
+                  "text": "Das Maldivian Police Museum ist eine kulturelle Einrichtung in sultan-park-landmarks-v2, die die lokale Geschichte der Strafverfolgung detailliert darstellt.",
+                  "category": "museum",
+                  "coords": [
+                        73.510359,
+                        4.17742
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maldivian Police Museum",
+                  "text": "A Maldivian Police Museum egy kulturális intézmény sultan-park-landmarks-v2 területén, amely a helyi bűnüldözés történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        73.510359,
+                        4.17742
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maldivian Police Museum",
+                  "text": "Maldivian Police Museum este o instituție culturală care detaliază istoria locală a forțelor de ordine în sultan-park-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        73.510359,
+                        4.17742
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maldivian Police Museum",
+                  "text": "The Maldivian Police Museum is a cultural institution detailing local law enforcement history in sultan-park-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        73.510359,
+                        4.17742
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MV-XX",
     coords: [73.5100, 4.1775],
@@ -327,7 +714,88 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
     },
   },
   {
-    id: "utheemu-ganduvaru-landmarks-v2",
+    id: "utheemu-ganduvaru-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Thakandhoo Thundi",
+                  "text": "Eine markante Sandspitze auf Thakandhoo, die sich weit in das klare blaue Wasser erstreckt.",
+                  "category": "landmark",
+                  "coords": [
+                        72.992203,
+                        6.848262
+                  ]
+            },
+            {
+                  "name": "Masjidh Al-Shaheedh Ali Thakurufaan",
+                  "text": "Eine historische Moschee, die dem maledivischen Nationalhelden Ali Thakurufaan gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        72.995186,
+                        6.843745
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Thakandhoo Thundi",
+                  "text": "Thakandhoo jellegzetes homokos nyúlványa, amely hosszan benyúlik a tiszta kék vízbe.",
+                  "category": "landmark",
+                  "coords": [
+                        72.992203,
+                        6.848262
+                  ]
+            },
+            {
+                  "name": "Masjidh Al-Shaheedh Ali Thakurufaan",
+                  "text": "Történelmi mecset, amelyet a maldív nemzeti hősnek, Ali Thakurufaannak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        72.995186,
+                        6.843745
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Thakandhoo Thundi",
+                  "text": "O limbă de nisip distinctivă pe Thakandhoo, care se întinde mult în apele albastre și clare.",
+                  "category": "landmark",
+                  "coords": [
+                        72.992203,
+                        6.848262
+                  ]
+            },
+            {
+                  "name": "Masjidh Al-Shaheedh Ali Thakurufaan",
+                  "text": "O moschee istorică dedicată eroului național maldivian Ali Thakurufaan.",
+                  "category": "landmark",
+                  "coords": [
+                        72.995186,
+                        6.843745
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Thakandhoo Thundi",
+                  "text": "A distinctive sandy point on Thakandhoo that extends far into the clear blue waters.",
+                  "category": "landmark",
+                  "coords": [
+                        72.992203,
+                        6.848262
+                  ]
+            },
+            {
+                  "name": "Masjidh Al-Shaheedh Ali Thakurufaan",
+                  "text": "A historic mosque dedicated to the Maldivian national hero, Ali Thakurufaan.",
+                  "category": "landmark",
+                  "coords": [
+                        72.995186,
+                        6.843745
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MV-XX",
     coords: [72.9348, 6.8016],
@@ -363,7 +831,52 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
     },
   },
   {
-    id: "medhu-ziyaaraiy-landmarks-v2",
+    id: "medhu-ziyaaraiy-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "National Art Gallery",
+                  "text": "Der wichtigste Ausstellungsraum des Landes zeigt eine wechselnde Auswahl an zeitgenössischer maledivischer Malerei und konzeptionellen Installationen.",
+                  "category": "museum",
+                  "coords": [
+                        73.511236,
+                        4.177664
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "National Art Gallery",
+                  "text": "Az ország első számú kiállítótere kortárs maldív festményeket és konceptuális installációkat mutat be forgó rendszerben.",
+                  "category": "museum",
+                  "coords": [
+                        73.511236,
+                        4.177664
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "National Art Gallery",
+                  "text": "Spațiul expozițional principal din țară prezintă o selecție rotativă de pictură contemporană maldiviană și instalații conceptuale.",
+                  "category": "museum",
+                  "coords": [
+                        73.511236,
+                        4.177664
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Art Gallery",
+                  "text": "The premier exhibition space in the country showcases a rotating selection of contemporary Maldivian painting and conceptual installations.",
+                  "category": "museum",
+                  "coords": [
+                        73.511236,
+                        4.177664
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MV-XX",
     coords: [73.5117, 4.1773],
@@ -399,7 +912,376 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
     },
   },
   {
-    id: "hanifaru-bay-landmarks-v2",
+    id: "hanifaru-bay-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dhigu thila",
+                  "text": "Ein langes Unterwasserriff im Baa-Atoll, das für seine reiche Korallenvielfalt bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        73.106207,
+                        5.174378
+                  ]
+            },
+            {
+                  "name": "Dharavandhoo thila",
+                  "text": "Ein beliebter Tauchplatz bei Dharavandhoo mit vielen Überhängen und großen Fächerkorallen.",
+                  "category": "landmark",
+                  "coords": [
+                        73.121948,
+                        5.161224
+                  ]
+            },
+            {
+                  "name": "Dhonfanu thila",
+                  "text": "Ein markantes Riffplateau mit einem Unterwassertunnel, das Heimat für viele Rifffische ist.",
+                  "category": "landmark",
+                  "coords": [
+                        73.115684,
+                        5.172076
+                  ]
+            },
+            {
+                  "name": "Bodu Gaa",
+                  "text": "Dieser große Korallenblock im Baa-Atoll ist ein beliebter Tauchplatz, der für seine reiche Meeresfauna bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        73.124589,
+                        5.183365
+                  ]
+            },
+            {
+                  "name": "Kuda Gaa",
+                  "text": "Ein markanter Korallenfelsen oder „Thila“ in der Nähe der Hanifaru-Bucht, der hervorragende Bedingungen zur Beobachtung von Rifffischen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        73.121548,
+                        5.183747
+                  ]
+            },
+            {
+                  "name": "blue hole",
+                  "text": "Dieses spektakuläre Unterwasser-Sinkloch bei Amilla Fushi bietet Tauchern einen vertikalen Abstieg durch einen engen Korallenkamin.",
+                  "category": "landmark",
+                  "coords": [
+                        73.107741,
+                        5.235371
+                  ]
+            },
+            {
+                  "name": "Amilla Fushi Maldives Resort and Residences",
+                  "text": "Ein luxuriöses Inselresort im Baa-Atoll, das für seine markanten weißen Villen inmitten üppiger tropischer Vegetation bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        73.111797,
+                        5.235082
+                  ]
+            },
+            {
+                  "name": "New Kihaadhoo Mosque",
+                  "text": "Ein modernes islamisches Gotteshaus auf der bewohnten Insel Kihaadhoo, das der lokalen Gemeinde im Baa-Atoll dient.",
+                  "category": "landmark",
+                  "coords": [
+                        73.124697,
+                        5.215082
+                  ]
+            },
+            {
+                  "name": "Dhonfanu mosque",
+                  "text": "Die zentrale Moschee auf der kleinen Insel Dhonfanu ist ein wichtiger Treffpunkt für das Gebet der lokalen maledivischen Bevölkerung.",
+                  "category": "landmark",
+                  "coords": [
+                        73.123404,
+                        5.187013
+                  ]
+            },
+            {
+                  "name": "Old Kihaadhoo Mosque",
+                  "text": "Ein traditionelles religiöses Bauwerk auf der Insel Kihaadhoo, das die historische Korallenstein-Architektur der Malediven widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        73.123608,
+                        5.216752
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dhigu thila",
+                  "text": "Hosszú víz alatti zátony a Baa-atollban, amely gazdag korallvilágáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        73.106207,
+                        5.174378
+                  ]
+            },
+            {
+                  "name": "Dharavandhoo thila",
+                  "text": "Népszerű merülőhely Dharavandhoo közelében, sok áthajlással és nagy legyezőkorallokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        73.121948,
+                        5.161224
+                  ]
+            },
+            {
+                  "name": "Dhonfanu thila",
+                  "text": "Jellegzetes zátonyfennsík víz alatti alagúttal, amely számos szirti halnak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        73.115684,
+                        5.172076
+                  ]
+            },
+            {
+                  "name": "Bodu Gaa",
+                  "text": "Ez a hatalmas koralltömb a Baa-atoll egyik népszerű merülőhelye, amely gazdag tengeri élővilágáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        73.124589,
+                        5.183365
+                  ]
+            },
+            {
+                  "name": "Kuda Gaa",
+                  "text": "Egy jellegzetes korallzátony vagy „thila” a Hanifaru-öböl közelében, amely kiváló feltételeket kínál szirti halak megfigyelésére.",
+                  "category": "landmark",
+                  "coords": [
+                        73.121548,
+                        5.183747
+                  ]
+            },
+            {
+                  "name": "blue hole",
+                  "text": "Ez a látványos víz alatti víznyelő az Amilla Fushi közelében függőleges ereszkedést kínál a búvároknak egy szűk korallkéményen keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        73.107741,
+                        5.235371
+                  ]
+            },
+            {
+                  "name": "Amilla Fushi Maldives Resort and Residences",
+                  "text": "Luxus üdülősziget a Baa-atollon, amely jellegzetes fehér villáiról és buja trópusi környezetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        73.111797,
+                        5.235082
+                  ]
+            },
+            {
+                  "name": "New Kihaadhoo Mosque",
+                  "text": "A Baa-atoll lakott Kihaadhoo szigetén található modern iszlám imaház, amely a helyi közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        73.124697,
+                        5.215082
+                  ]
+            },
+            {
+                  "name": "Dhonfanu mosque",
+                  "text": "Dhonfanu kis szigetének központi mecsete a helyi maldív lakosság imádkozásának fontos helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        73.123404,
+                        5.187013
+                  ]
+            },
+            {
+                  "name": "Old Kihaadhoo Mosque",
+                  "text": "Hagyományos vallási épület Kihaadhoo szigetén, amely a Maldív-szigetek történelmi korallkő-építészetét tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        73.123608,
+                        5.216752
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dhigu thila",
+                  "text": "Un recif subacvatic lung în atolul Baa, cunoscut pentru diversitatea sa bogată de corali.",
+                  "category": "landmark",
+                  "coords": [
+                        73.106207,
+                        5.174378
+                  ]
+            },
+            {
+                  "name": "Dharavandhoo thila",
+                  "text": "Un loc de scufundări popular lângă Dharavandhoo, cu multe arcade și corali evantai mari.",
+                  "category": "landmark",
+                  "coords": [
+                        73.121948,
+                        5.161224
+                  ]
+            },
+            {
+                  "name": "Dhonfanu thila",
+                  "text": "Un platou de recif distinctiv cu un tunel subacvatic, care adăpostește numeroși pești de recif.",
+                  "category": "landmark",
+                  "coords": [
+                        73.115684,
+                        5.172076
+                  ]
+            },
+            {
+                  "name": "Bodu Gaa",
+                  "text": "Acest bloc mare de corali din Atolul Baa este un loc de scufundări popular, cunoscut pentru fauna sa marină bogată.",
+                  "category": "landmark",
+                  "coords": [
+                        73.124589,
+                        5.183365
+                  ]
+            },
+            {
+                  "name": "Kuda Gaa",
+                  "text": "Un vârf de corali distinctiv sau „thila” lângă Golful Hanifaru, care oferă condiții excelente pentru observarea peștilor de recif.",
+                  "category": "landmark",
+                  "coords": [
+                        73.121548,
+                        5.183747
+                  ]
+            },
+            {
+                  "name": "blue hole",
+                  "text": "Această gaură albastră subacvatică spectaculoasă de lângă Amilla Fushi oferă scafandrilor o coborâre verticală printr-un horn îngust de corali.",
+                  "category": "landmark",
+                  "coords": [
+                        73.107741,
+                        5.235371
+                  ]
+            },
+            {
+                  "name": "Amilla Fushi Maldives Resort and Residences",
+                  "text": "Un complex de lux pe o insulă din Atolul Baa, cunoscut pentru vilele sale albe distinctive amplasate în vegetația tropicală luxuriantă.",
+                  "category": "landmark",
+                  "coords": [
+                        73.111797,
+                        5.235082
+                  ]
+            },
+            {
+                  "name": "New Kihaadhoo Mosque",
+                  "text": "Un lăcaș de cult islamic modern situat pe insula locuită Kihaadhoo, care deservește comunitatea locală din Atolul Baa.",
+                  "category": "landmark",
+                  "coords": [
+                        73.124697,
+                        5.215082
+                  ]
+            },
+            {
+                  "name": "Dhonfanu mosque",
+                  "text": "Moscheea centrală de pe mica insulă Dhonfanu este un loc important de întâlnire pentru rugăciune al populației locale maldiviene.",
+                  "category": "landmark",
+                  "coords": [
+                        73.123404,
+                        5.187013
+                  ]
+            },
+            {
+                  "name": "Old Kihaadhoo Mosque",
+                  "text": "O structură religioasă tradițională de pe insula Kihaadhoo, care reflectă arhitectura istorică din piatră de corali a Maldivelor.",
+                  "category": "landmark",
+                  "coords": [
+                        73.123608,
+                        5.216752
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dhigu thila",
+                  "text": "A long underwater reef in the Baa Atoll known for its rich diversity of coral species.",
+                  "category": "landmark",
+                  "coords": [
+                        73.106207,
+                        5.174378
+                  ]
+            },
+            {
+                  "name": "Dharavandhoo thila",
+                  "text": "A popular diving site near Dharavandhoo featuring many overhangs and large sea fans.",
+                  "category": "landmark",
+                  "coords": [
+                        73.121948,
+                        5.161224
+                  ]
+            },
+            {
+                  "name": "Dhonfanu thila",
+                  "text": "A distinctive reef pinnacle with an underwater swim-through that is home to many reef fish.",
+                  "category": "landmark",
+                  "coords": [
+                        73.115684,
+                        5.172076
+                  ]
+            },
+            {
+                  "name": "Bodu Gaa",
+                  "text": "This large coral block in the Baa Atoll is a popular dive site known for its vibrant and diverse marine life.",
+                  "category": "landmark",
+                  "coords": [
+                        73.124589,
+                        5.183365
+                  ]
+            },
+            {
+                  "name": "Kuda Gaa",
+                  "text": "A distinct coral pinnacle or 'thila' near Hanifaru Bay that offers excellent conditions for spotting a variety of reef fish.",
+                  "category": "landmark",
+                  "coords": [
+                        73.121548,
+                        5.183747
+                  ]
+            },
+            {
+                  "name": "blue hole",
+                  "text": "This spectacular underwater sinkhole near Amilla Fushi offers divers a vertical drop through a narrow coral chimney.",
+                  "category": "landmark",
+                  "coords": [
+                        73.107741,
+                        5.235371
+                  ]
+            },
+            {
+                  "name": "Amilla Fushi Maldives Resort and Residences",
+                  "text": "A luxury island resort in the Baa Atoll known for its distinctive white villas set amidst lush tropical vegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        73.111797,
+                        5.235082
+                  ]
+            },
+            {
+                  "name": "New Kihaadhoo Mosque",
+                  "text": "A modern Islamic place of worship on the inhabited island of Kihaadhoo, serving the local community in the Baa Atoll.",
+                  "category": "landmark",
+                  "coords": [
+                        73.124697,
+                        5.215082
+                  ]
+            },
+            {
+                  "name": "Dhonfanu mosque",
+                  "text": "The central mosque on the small island of Dhonfanu is an important gathering place for prayer for the local Maldivian population.",
+                  "category": "landmark",
+                  "coords": [
+                        73.123404,
+                        5.187013
+                  ]
+            },
+            {
+                  "name": "Old Kihaadhoo Mosque",
+                  "text": "A traditional religious structure on Kihaadhoo island that reflects the historical coral-stone architecture of the Maldives.",
+                  "category": "landmark",
+                  "coords": [
+                        73.123608,
+                        5.216752
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MV-XX",
     coords: [73.1119, 5.1706],
@@ -435,7 +1317,88 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
     },
   },
   {
-    id: "banana-reef-landmarks-v2",
+    id: "banana-reef-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sharks and rays viewpoint",
+                  "text": "Der Sharks and rays viewpoint ist eine Attraktion, die Beobachtungen der Meereswelt in banana-reef-landmarks-v2 bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        73.493364,
+                        4.268835
+                  ]
+            },
+            {
+                  "name": "Anggerik Spa",
+                  "text": "Das Anggerik Spa bietet Wellness- und Entspannungsbehandlungen in banana-reef-landmarks-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.492593,
+                        4.269964
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sharks and rays viewpoint",
+                  "text": "A Sharks and rays viewpoint egy attrakció, amely tengeri vadvilág megfigyelését kínálja banana-reef-landmarks-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        73.493364,
+                        4.268835
+                  ]
+            },
+            {
+                  "name": "Anggerik Spa",
+                  "text": "Az Anggerik Spa wellness- és relaxációs kezeléseket nyújt banana-reef-landmarks-v2 területén.",
+                  "category": "recreational",
+                  "coords": [
+                        73.492593,
+                        4.269964
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sharks and rays viewpoint",
+                  "text": "Sharks and rays viewpoint este o atracție care oferă observații ale faunei marine în banana-reef-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.493364,
+                        4.268835
+                  ]
+            },
+            {
+                  "name": "Anggerik Spa",
+                  "text": "Anggerik Spa oferă tratamente de wellness și relaxare în banana-reef-landmarks-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.492593,
+                        4.269964
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sharks and rays viewpoint",
+                  "text": "The sharks and rays viewpoint is an attraction offering marine wildlife observations in banana-reef-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.493364,
+                        4.268835
+                  ]
+            },
+            {
+                  "name": "Anggerik Spa",
+                  "text": "Anggerik Spa provides wellness and relaxation treatments in banana-reef-landmarks-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.492593,
+                        4.269964
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MV-XX",
     coords: [73.5414, 4.2547],
@@ -471,7 +1434,52 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
     },
   },
   {
-    id: "sea-of-stars-landmarks-v2",
+    id: "sea-of-stars-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Angolhitheemu Masjid",
+                  "text": "Eine Inselmoschee in Angolhitheemu, unweit der berühmten Strände am Sea of Stars.",
+                  "category": "landmark",
+                  "coords": [
+                        73.006394,
+                        5.793383
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Angolhitheemu Masjid",
+                  "text": "Szigeti mecset Angolhitheemuban, nem messze a Csillagok Tengere híres strandjaitól.",
+                  "category": "landmark",
+                  "coords": [
+                        73.006394,
+                        5.793383
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Angolhitheemu Masjid",
+                  "text": "O moschee insulară în Angolhitheemu, nu departe de faimoasele plaje de la Sea of Stars.",
+                  "category": "landmark",
+                  "coords": [
+                        73.006394,
+                        5.793383
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Angolhitheemu Masjid",
+                  "text": "An island mosque in Angolhitheemu, not far from the famous beaches at the Sea of Stars.",
+                  "category": "landmark",
+                  "coords": [
+                        73.006394,
+                        5.793383
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MV-XX",
     coords: [72.9818, 5.8589],
@@ -507,7 +1515,196 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
     },
   },
   {
-    id: "ithaa-undersea-restaurant-landmarks-v2",
+    id: "ithaa-undersea-restaurant-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pineapple Island Hausriff",
+                  "text": "Ein flaches Hausriff rund um Pineapple Island, ideal für die Beobachtung tropischer Fische.",
+                  "category": "landmark",
+                  "coords": [
+                        72.77895,
+                        3.654217
+                  ]
+            },
+            {
+                  "name": "Rangali Madivaru",
+                  "text": "Ein bekannter Sammelplatz für Mantarochen in den strömungsreichen Gewässern des Ari-Atolls.",
+                  "category": "landmark",
+                  "coords": [
+                        72.718926,
+                        3.595454
+                  ]
+            },
+            {
+                  "name": "Rangali manta point",
+                  "text": "Ein saisonaler Beobachtungspunkt für Mantarochen in der Nähe der Sandbänke von Rangali.",
+                  "category": "landmark",
+                  "coords": [
+                        72.719387,
+                        3.587973
+                  ]
+            },
+            {
+                  "name": "Hukurudhoo reef",
+                  "text": "Ein geschütztes Korallenriff in der Lagune von Hukurudhoo mit einer großen Vielfalt an Weichkorallen.",
+                  "category": "landmark",
+                  "coords": [
+                        72.721399,
+                        3.572937
+                  ]
+            },
+            {
+                  "name": "The Over Water Spa",
+                  "text": "Ein luxuriöses Wellnesscenter, das auf Stelzen direkt über dem türkisfarbenen Wasser der Lagune erbaut wurde.",
+                  "category": "recreational",
+                  "coords": [
+                        72.715899,
+                        3.615701
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pineapple Island Hausriff",
+                  "text": "A Pineapple Island körüli sekély házi zátony, amely ideális trópusi halak megfigyelésére.",
+                  "category": "landmark",
+                  "coords": [
+                        72.77895,
+                        3.654217
+                  ]
+            },
+            {
+                  "name": "Rangali Madivaru",
+                  "text": "Az Ari-atoll áramlatokban gazdag vizeiben fekvő ismert ördögrája-gyülekezőhely.",
+                  "category": "landmark",
+                  "coords": [
+                        72.718926,
+                        3.595454
+                  ]
+            },
+            {
+                  "name": "Rangali manta point",
+                  "text": "Szezonális ördögrája-megfigyelőpont a Rangali környéki homokpadok közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        72.719387,
+                        3.587973
+                  ]
+            },
+            {
+                  "name": "Hukurudhoo reef",
+                  "text": "Hukurudhoo lagúnájában fekvő védett korallzátony, gazdag lágykorall-állománnyal.",
+                  "category": "landmark",
+                  "coords": [
+                        72.721399,
+                        3.572937
+                  ]
+            },
+            {
+                  "name": "The Over Water Spa",
+                  "text": "Luxus wellnessközpont, amely cölöpökre épült közvetlenül a lagúna türkizkék vize felett.",
+                  "category": "recreational",
+                  "coords": [
+                        72.715899,
+                        3.615701
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pineapple Island Hausriff",
+                  "text": "Un recif de casă puțin adânc în jurul insulei Pineapple, ideal pentru observarea peștilor tropicali.",
+                  "category": "landmark",
+                  "coords": [
+                        72.77895,
+                        3.654217
+                  ]
+            },
+            {
+                  "name": "Rangali Madivaru",
+                  "text": "Un loc cunoscut de agregare a diavolilor de mare în apele bogate în curenți ale atolului Ari.",
+                  "category": "landmark",
+                  "coords": [
+                        72.718926,
+                        3.595454
+                  ]
+            },
+            {
+                  "name": "Rangali manta point",
+                  "text": "Un punct sezonier de observare a diavolilor de mare în apropierea bancurilor de nisip de la Rangali.",
+                  "category": "landmark",
+                  "coords": [
+                        72.719387,
+                        3.587973
+                  ]
+            },
+            {
+                  "name": "Hukurudhoo reef",
+                  "text": "Un recif de corali protejat în laguna Hukurudhoo, cu o mare varietate de corali moi.",
+                  "category": "landmark",
+                  "coords": [
+                        72.721399,
+                        3.572937
+                  ]
+            },
+            {
+                  "name": "The Over Water Spa",
+                  "text": "Un centru spa de lux construit pe piloni direct deasupra apelor turcoaz ale lagunei.",
+                  "category": "recreational",
+                  "coords": [
+                        72.715899,
+                        3.615701
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pineapple Island Hausriff",
+                  "text": "A shallow house reef surrounding Pineapple Island, ideal for observing tropical fish.",
+                  "category": "landmark",
+                  "coords": [
+                        72.77895,
+                        3.654217
+                  ]
+            },
+            {
+                  "name": "Rangali Madivaru",
+                  "text": "A well-known aggregation site for manta rays in the current-rich waters of Ari Atoll.",
+                  "category": "landmark",
+                  "coords": [
+                        72.718926,
+                        3.595454
+                  ]
+            },
+            {
+                  "name": "Rangali manta point",
+                  "text": "A seasonal manta ray observation point located near the sandbanks of Rangali.",
+                  "category": "landmark",
+                  "coords": [
+                        72.719387,
+                        3.587973
+                  ]
+            },
+            {
+                  "name": "Hukurudhoo reef",
+                  "text": "A protected coral reef in the Hukurudhoo lagoon featuring a wide variety of soft corals.",
+                  "category": "landmark",
+                  "coords": [
+                        72.721399,
+                        3.572937
+                  ]
+            },
+            {
+                  "name": "The Over Water Spa",
+                  "text": "A luxury wellness center built on stilts directly over the turquoise waters of the lagoon.",
+                  "category": "recreational",
+                  "coords": [
+                        72.715899,
+                        3.615701
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MV-XX",
     coords: [72.7161, 3.6175],
@@ -543,7 +1740,232 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
     },
   },
   {
-    id: "hp-reef-landmarks-v2",
+    id: "hp-reef-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sunset View Point",
+                  "text": "Dieser nach Westen ausgerichtete Strandabschnitt ist der ideale Ort, um den Sonnenuntergang über dem Indischen Ozean zu erleben.",
+                  "category": "natural",
+                  "coords": [
+                        73.568092,
+                        4.31136
+                  ]
+            },
+            {
+                  "name": "Himmaushi Tours",
+                  "text": "Ein lokaler Anbieter, der Bootsausflüge zum Inselhopping und zur Delfinbeobachtung in den umliegenden Gewässern organisiert.",
+                  "category": "landmark",
+                  "coords": [
+                        73.569895,
+                        4.310112
+                  ]
+            },
+            {
+                  "name": "Public beach",
+                  "text": "Ein ruhiger Sandstrand für Einheimische, an dem die traditionellen Kleidervorschriften der Malediven beachtet werden müssen.",
+                  "category": "recreational",
+                  "coords": [
+                        73.57228,
+                        4.311326
+                  ]
+            },
+            {
+                  "name": "Palm Beach",
+                  "text": "Ein malerischer Küstenstreifen, der von hohen Kokospalmen gesäumt ist und natürlichen Schatten am weißen Sand bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        73.559335,
+                        4.297013
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "Ein speziell für Touristen ausgewiesener Strandabschnitt, an dem das Tragen von Badekleidung gestattet ist.",
+                  "category": "recreational",
+                  "coords": [
+                        73.57016,
+                        4.312034
+                  ]
+            },
+            {
+                  "name": "Ocean Table By Noah",
+                  "text": "Ein besonderes kulinarisches Erlebnis, bei dem die Tische direkt im seichten Wasser auf dem sandigen Riffboden stehen.",
+                  "category": "landmark",
+                  "coords": [
+                        73.571121,
+                        4.31185
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sunset View Point",
+                  "text": "Ez a nyugat felé néző tengerparti szakasz ideális hely a naplemente megtekintéséhez az Indiai-óceán felett.",
+                  "category": "natural",
+                  "coords": [
+                        73.568092,
+                        4.31136
+                  ]
+            },
+            {
+                  "name": "Himmaushi Tours",
+                  "text": "Helyi programszervező, amely szigettúrákat és delfinleső hajókirándulásokat indít a környező vizekre.",
+                  "category": "landmark",
+                  "coords": [
+                        73.569895,
+                        4.310112
+                  ]
+            },
+            {
+                  "name": "Public beach",
+                  "text": "Csendes homokos part a helyiek számára, ahol a maldív hagyományos öltözködési szabályok betartása kötelező.",
+                  "category": "recreational",
+                  "coords": [
+                        73.57228,
+                        4.311326
+                  ]
+            },
+            {
+                  "name": "Palm Beach",
+                  "text": "Gleccserfehér homokos part, amelyet magas kókuszpálmák szegélyeznek, természetes árnyékot nyújtva.",
+                  "category": "recreational",
+                  "coords": [
+                        73.559335,
+                        4.297013
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "Kifejezetten turisták számára kijelölt tengerparti szakasz, ahol engedélyezett a fürdőruha viselése.",
+                  "category": "recreational",
+                  "coords": [
+                        73.57016,
+                        4.312034
+                  ]
+            },
+            {
+                  "name": "Ocean Table By Noah",
+                  "text": "Különleges gasztronómiai élmény, ahol az asztalokat közvetlenül a sekély vízbe, a homokos zátonyra helyezik.",
+                  "category": "landmark",
+                  "coords": [
+                        73.571121,
+                        4.31185
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sunset View Point",
+                  "text": "Această secțiune de plajă orientată spre vest este locul ideal pentru a urmări apusul peste Oceanul Indian.",
+                  "category": "natural",
+                  "coords": [
+                        73.568092,
+                        4.31136
+                  ]
+            },
+            {
+                  "name": "Himmaushi Tours",
+                  "text": "Un operator local care organizează excursii cu barca pentru vizitarea insulelor și observarea delfinilor în apele din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        73.569895,
+                        4.310112
+                  ]
+            },
+            {
+                  "name": "Public beach",
+                  "text": "O plajă de nisip liniștită pentru localnici, unde trebuie respectate regulile vestimentare tradiționale din Maldive.",
+                  "category": "recreational",
+                  "coords": [
+                        73.57228,
+                        4.311326
+                  ]
+            },
+            {
+                  "name": "Palm Beach",
+                  "text": "O fâșie de coastă pitorească, mărginită de cocotieri înalți care oferă umbră naturală pe nisipul alb.",
+                  "category": "recreational",
+                  "coords": [
+                        73.559335,
+                        4.297013
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "O secțiune de plajă special desemnată pentru turiști, unde este permisă purtarea costumelor de baie.",
+                  "category": "recreational",
+                  "coords": [
+                        73.57016,
+                        4.312034
+                  ]
+            },
+            {
+                  "name": "Ocean Table By Noah",
+                  "text": "O experiență culinară deosebită, unde mesele sunt amplasate direct în apa puțin adâncă, pe fundul nisipos al recifului.",
+                  "category": "landmark",
+                  "coords": [
+                        73.571121,
+                        4.31185
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sunset View Point",
+                  "text": "This west-facing stretch of beach is the ideal spot to watch the sun set over the Indian Ocean.",
+                  "category": "natural",
+                  "coords": [
+                        73.568092,
+                        4.31136
+                  ]
+            },
+            {
+                  "name": "Himmaushi Tours",
+                  "text": "A local tour operator organizing island-hopping and dolphin-watching boat trips in the surrounding waters.",
+                  "category": "landmark",
+                  "coords": [
+                        73.569895,
+                        4.310112
+                  ]
+            },
+            {
+                  "name": "Public beach",
+                  "text": "A quiet sandy beach for locals where traditional Maldivian dress codes must be observed.",
+                  "category": "recreational",
+                  "coords": [
+                        73.57228,
+                        4.311326
+                  ]
+            },
+            {
+                  "name": "Palm Beach",
+                  "text": "A picturesque coastal strip lined with tall coconut palms providing natural shade on the white sand.",
+                  "category": "recreational",
+                  "coords": [
+                        73.559335,
+                        4.297013
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "A stretch of beach specifically designated for tourists where swimwear is permitted on the white sand.",
+                  "category": "recreational",
+                  "coords": [
+                        73.57016,
+                        4.312034
+                  ]
+            },
+            {
+                  "name": "Ocean Table By Noah",
+                  "text": "A unique dining experience where tables are set directly in the shallow water on the sandy reef floor.",
+                  "category": "landmark",
+                  "coords": [
+                        73.571121,
+                        4.31185
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MV-XX",
     coords: [73.5606, 4.3006],
@@ -579,7 +2001,196 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
     },
   },
   {
-    id: "bikini-beach-maafushi-landmarks-v2",
+    id: "bikini-beach-maafushi-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maafushi Thila",
+                  "text": "Maafushi Thila ist eine Naturattraktion und ein Tauchplatz in der Gegend von bikini-beach-maafushi-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.493256,
+                        3.958439
+                  ]
+            },
+            {
+                  "name": "Finolhu Faru",
+                  "text": "Finolhu Faru ist eine malerische Riffattraktion in der Region bikini-beach-maafushi-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.463725,
+                        3.955979
+                  ]
+            },
+            {
+                  "name": "Water Sports Beach",
+                  "text": "Der Water Sports Beach ist ein Küstenstreifen in bikini-beach-maafushi-landmarks-v2, der Wasseraktivitäten gewidmet ist.",
+                  "category": "recreational",
+                  "coords": [
+                        73.490161,
+                        3.944345
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "Bikini Beach ist ein ausgewiesener Strandbereich für Touristen in bikini-beach-maafushi-landmarks-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.491334,
+                        3.945487
+                  ]
+            },
+            {
+                  "name": "Public beach",
+                  "text": "Der öffentliche Strand ist ein lokales Küstengebiet zur Entspannung in bikini-beach-maafushi-landmarks-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.493523,
+                        3.945174
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maafushi Thila",
+                  "text": "A Maafushi Thila egy természeti látványosság és merülőhely bikini-beach-maafushi-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.493256,
+                        3.958439
+                  ]
+            },
+            {
+                  "name": "Finolhu Faru",
+                  "text": "A Finolhu Faru egy festői zátony attrakció bikini-beach-maafushi-landmarks-v2 régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        73.463725,
+                        3.955979
+                  ]
+            },
+            {
+                  "name": "Water Sports Beach",
+                  "text": "A Water Sports Beach egy vízi tevékenységeknek szentelt partszakasz bikini-beach-maafushi-landmarks-v2 területén.",
+                  "category": "recreational",
+                  "coords": [
+                        73.490161,
+                        3.944345
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "A Bikini Beach egy turisták számára kijelölt strand terület bikini-beach-maafushi-landmarks-v2-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        73.491334,
+                        3.945487
+                  ]
+            },
+            {
+                  "name": "Public beach",
+                  "text": "A nyilvános strand egy helyi tengerparti terület kikapcsolódásra bikini-beach-maafushi-landmarks-v2-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        73.493523,
+                        3.945174
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maafushi Thila",
+                  "text": "Maafushi Thila este o atracție naturală și un loc de scufundări situat în zona bikini-beach-maafushi-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.493256,
+                        3.958439
+                  ]
+            },
+            {
+                  "name": "Finolhu Faru",
+                  "text": "Finolhu Faru este o atracție de recif pitorească situată în regiunea bikini-beach-maafushi-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.463725,
+                        3.955979
+                  ]
+            },
+            {
+                  "name": "Water Sports Beach",
+                  "text": "Water Sports Beach este o zonă de coastă dedicată activităților acvatice din bikini-beach-maafushi-landmarks-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.490161,
+                        3.944345
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "Bikini Beach este o zonă de plajă desemnată pentru turiști în bikini-beach-maafushi-landmarks-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.491334,
+                        3.945487
+                  ]
+            },
+            {
+                  "name": "Public beach",
+                  "text": "Plaja publică este o zonă de coastă locală pentru relaxare în bikini-beach-maafushi-landmarks-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.493523,
+                        3.945174
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maafushi Thila",
+                  "text": "Maafushi Thila is a natural attraction and diving spot located near bikini-beach-maafushi-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.493256,
+                        3.958439
+                  ]
+            },
+            {
+                  "name": "Finolhu Faru",
+                  "text": "Finolhu Faru is a scenic reef attraction situated in the bikini-beach-maafushi-landmarks-v2 region.",
+                  "category": "landmark",
+                  "coords": [
+                        73.463725,
+                        3.955979
+                  ]
+            },
+            {
+                  "name": "Water Sports Beach",
+                  "text": "Water Sports Beach is a coastal area dedicated to aquatic activities in bikini-beach-maafushi-landmarks-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.490161,
+                        3.944345
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "Bikini Beach is a designated beach area for tourists in bikini-beach-maafushi-landmarks-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.491334,
+                        3.945487
+                  ]
+            },
+            {
+                  "name": "Public beach",
+                  "text": "The public beach is a local coastal area for relaxation in bikini-beach-maafushi-landmarks-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.493523,
+                        3.945174
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MV-XX",
     coords: [73.4883, 3.9439],
@@ -615,7 +2226,124 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
     },
   },
   {
-    id: "artificial-beach-landmarks-v2",
+    id: "artificial-beach-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "China-Maldives Friendship Monument",
+                  "text": "Dieses Denkmal feiert die Eröffnung der Sinamale-Brücke und symbolisiert die internationale Zusammenarbeit der Malediven.",
+                  "category": "historical",
+                  "coords": [
+                        73.516747,
+                        4.170546
+                  ]
+            },
+            {
+                  "name": "Bridge View",
+                  "text": "Dieser Aussichtspunkt bietet einen direkten Blick auf die Sinamalé-Brücke, die Malé mit Hulhumalé verbindet.",
+                  "category": "natural",
+                  "coords": [
+                        73.517586,
+                        4.172291
+                  ]
+            },
+            {
+                  "name": "ސަލްމާން ރަސްގެފާނުގެ މިސްކިތް",
+                  "text": "Die größte Moschee der Malediven beeindruckt durch ihre moderne Architektur und die markante goldene Kuppel.",
+                  "category": "religious",
+                  "coords": [
+                        73.51851,
+                        4.17575
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "China-Maldives Friendship Monument",
+                  "text": "Ez az emlékmű a Sinamale híd átadását ünnepli, a Maldív-szigetek nemzetközi együttműködését jelképezve.",
+                  "category": "historical",
+                  "coords": [
+                        73.516747,
+                        4.170546
+                  ]
+            },
+            {
+                  "name": "Bridge View",
+                  "text": "Erről a kilátópontról közvetlen rálátás nyílik a Malét és Hulhumalét összekötő Sinamalé hídra.",
+                  "category": "natural",
+                  "coords": [
+                        73.517586,
+                        4.172291
+                  ]
+            },
+            {
+                  "name": "ސަލްމާން ރަސްގެފާނުގެ މިސްކިތް",
+                  "text": "A Maldív-szigetek legnagyobb mecsetje, amely modern építészetével és jellegzetes aranykupolájával tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        73.51851,
+                        4.17575
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "China-Maldives Friendship Monument",
+                  "text": "Acest monument celebrează deschiderea podului Sinamale și simbolizează cooperarea internațională a Maldivelor.",
+                  "category": "historical",
+                  "coords": [
+                        73.516747,
+                        4.170546
+                  ]
+            },
+            {
+                  "name": "Bridge View",
+                  "text": "Acest punct de observare oferă o vedere directă spre Podul Sinamalé, care leagă Malé de Hulhumalé.",
+                  "category": "natural",
+                  "coords": [
+                        73.517586,
+                        4.172291
+                  ]
+            },
+            {
+                  "name": "ސަލްމާން ރަސްގެފާނުގެ މިސްކިތް",
+                  "text": "Cea mai mare moschee din Maldive impresionează prin arhitectura sa modernă și cupola aurie proeminentă.",
+                  "category": "religious",
+                  "coords": [
+                        73.51851,
+                        4.17575
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "China-Maldives Friendship Monument",
+                  "text": "This monument celebrates the opening of the Sinamale Bridge and symbolizes international cooperation for the Maldives.",
+                  "category": "historical",
+                  "coords": [
+                        73.516747,
+                        4.170546
+                  ]
+            },
+            {
+                  "name": "Bridge View",
+                  "text": "This viewpoint offers a direct view of the Sinamalé Bridge connecting Malé and Hulhumalé.",
+                  "category": "natural",
+                  "coords": [
+                        73.517586,
+                        4.172291
+                  ]
+            },
+            {
+                  "name": "King Salman Mosque",
+                  "text": "The largest mosque in the Maldives, notable for its modern architecture and prominent golden dome.",
+                  "category": "religious",
+                  "coords": [
+                        73.51851,
+                        4.17575
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MV-XX",
     coords: [73.5188, 4.1738],
@@ -651,7 +2379,160 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
     },
   },
   {
-    id: "manta-point-landmarks-v2",
+    id: "manta-point-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Snorkeling Point",
+                  "text": "Ein flaches Korallenriff, das ideale Bedingungen bietet, um bunte Tropenfische in ihrem natürlichen Lebensraum zu beobachten.",
+                  "category": "landmark",
+                  "coords": [
+                        73.551639,
+                        4.287132
+                  ]
+            },
+            {
+                  "name": "Sharks Feeding",
+                  "text": "In dieser Lagune lassen sich Ammenhaie und Riffhaie aus nächster Nähe bei der täglichen Fütterung beobachten.",
+                  "category": "landmark",
+                  "coords": [
+                        73.559668,
+                        4.285985
+                  ]
+            },
+            {
+                  "name": "Stingray Feeding",
+                  "text": "Ein Küstenabschnitt, an dem Stachelrochen am Abend oft bis in das flache Wasser am Ufer schwimmen.",
+                  "category": "landmark",
+                  "coords": [
+                        73.553205,
+                        4.287271
+                  ]
+            },
+            {
+                  "name": "Crow's Nest",
+                  "text": "Eine erhöhte Holzplattform, die einen weiten Panoramablick über das türkisfarbene Atoll und die umliegenden Riffe bietet.",
+                  "category": "natural",
+                  "coords": [
+                        73.554053,
+                        4.28893
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Snorkeling Point",
+                  "text": "Sekély korallzátony, amely ideális feltételeket kínál a színes trópusi halak megfigyeléséhez.",
+                  "category": "landmark",
+                  "coords": [
+                        73.551639,
+                        4.287132
+                  ]
+            },
+            {
+                  "name": "Sharks Feeding",
+                  "text": "Ebben a lagúnában dajkacápákat és szirti cápákat figyelhetünk meg egészen közelről a napi etetés során.",
+                  "category": "landmark",
+                  "coords": [
+                        73.559668,
+                        4.285985
+                  ]
+            },
+            {
+                  "name": "Stingray Feeding",
+                  "text": "Parti szakasz, ahol az esti órákban a tüskés ráják gyakran egészen a sekély vízig kiúsznak.",
+                  "category": "landmark",
+                  "coords": [
+                        73.553205,
+                        4.287271
+                  ]
+            },
+            {
+                  "name": "Crow's Nest",
+                  "text": "Megemelt faplatform, amely széles panorámát nyújt a türkizkék atollra és a környező zátonyokra.",
+                  "category": "natural",
+                  "coords": [
+                        73.554053,
+                        4.28893
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Snorkeling Point",
+                  "text": "Un recif de corali puțin adânc, care oferă condiții ideale pentru observarea peștilor tropicali colorați.",
+                  "category": "landmark",
+                  "coords": [
+                        73.551639,
+                        4.287132
+                  ]
+            },
+            {
+                  "name": "Sharks Feeding",
+                  "text": "În această lagună pot fi observați rechini doică și rechini de recif de la mică distanță în timpul hrănirii zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        73.559668,
+                        4.285985
+                  ]
+            },
+            {
+                  "name": "Stingray Feeding",
+                  "text": "O secțiune de coastă unde pisicile de mare înoată adesea până în apele puțin adânci de la mal în timpul serii.",
+                  "category": "landmark",
+                  "coords": [
+                        73.553205,
+                        4.287271
+                  ]
+            },
+            {
+                  "name": "Crow's Nest",
+                  "text": "O platformă de lemn suspendată care oferă o vedere panoramică largă asupra atolului turcoaz și a recifelor din jur.",
+                  "category": "natural",
+                  "coords": [
+                        73.554053,
+                        4.28893
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Snorkeling Point",
+                  "text": "A shallow coral reef providing ideal conditions for observing colorful tropical fish in their natural habitat.",
+                  "category": "landmark",
+                  "coords": [
+                        73.551639,
+                        4.287132
+                  ]
+            },
+            {
+                  "name": "Sharks Feeding",
+                  "text": "In this lagoon, nurse sharks and reef sharks can be observed at close range during daily feeding sessions.",
+                  "category": "landmark",
+                  "coords": [
+                        73.559668,
+                        4.285985
+                  ]
+            },
+            {
+                  "name": "Stingray Feeding",
+                  "text": "A coastal stretch where stingrays often swim right up to the shallow water at the shore in the evening.",
+                  "category": "landmark",
+                  "coords": [
+                        73.553205,
+                        4.287271
+                  ]
+            },
+            {
+                  "name": "Crow's Nest",
+                  "text": "An elevated wooden platform offering a wide panoramic view over the turquoise atoll and surrounding reefs.",
+                  "category": "natural",
+                  "coords": [
+                        73.554053,
+                        4.28893
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MV-XX",
     coords: [73.5519, 4.2831],

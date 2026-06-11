@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraQatarHistoryV2: POI[] = [
   {
-    id: "qatar-al-zubarah-fort-history-v2",
+    id: "qatar-al-zubarah-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Zubara Fort",
+                  "text": "Dieses gut erhaltene, historisch bedeutsame Verteidigungsfort verfügt über traditionelle Wachtürme, die die karge Umgebung überblicken.",
+                  "category": "fortress",
+                  "coords": [
+                        51.0454,
+                        25.976939
+                  ]
+            },
+            {
+                  "name": "Al Zubarah Archaeological Site",
+                  "text": "Diese als Weltkulturerbe ausgewiesenen weitläufigen Ruinen bewahren eine einst florierende Küstenstadt, die vom Perlenfang und Handel lebte.",
+                  "category": "landmark",
+                  "coords": [
+                        51.025812,
+                        25.978767
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Zubara Fort",
+                  "text": "Ez a jól karbantartott, történelmi jelentőségű védelmi erőd hagyományos őrtornyokkal büszkélkedhet, amelyek a kietlen tájra néznek.",
+                  "category": "fortress",
+                  "coords": [
+                        51.0454,
+                        25.976939
+                  ]
+            },
+            {
+                  "name": "Al Zubarah Archaeological Site",
+                  "text": "A világörökség részét képező kiterjedt romok egy egykor virágzó, gyöngyhalászatból és kereskedelemből élő tengerparti várost őriznek.",
+                  "category": "landmark",
+                  "coords": [
+                        51.025812,
+                        25.978767
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Zubara Fort",
+                  "text": "Acest fort defensiv bine conservat, cu o importanță istorică majoră, prezintă turnuri de veghe tradiționale care domină peisajul dezolant din jur.",
+                  "category": "fortress",
+                  "coords": [
+                        51.0454,
+                        25.976939
+                  ]
+            },
+            {
+                  "name": "Al Zubarah Archaeological Site",
+                  "text": "Desemnate ca sit al Patrimoniului Mondial, aceste ruine întinse păstrează un fost oraș de coastă prosper, axat pe pescuitul de perle și comerț.",
+                  "category": "landmark",
+                  "coords": [
+                        51.025812,
+                        25.978767
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Zubara Fort",
+                  "text": "This well-preserved, historically significant defensive fort features traditional watchtowers overlooking the desolate surrounding landscape.",
+                  "category": "fortress",
+                  "coords": [
+                        51.0454,
+                        25.976939
+                  ]
+            },
+            {
+                  "name": "Al Zubarah Archaeological Site",
+                  "text": "Designated as a World Heritage site, these extensive ruins preserve a once-thriving coastal pearling and trading town.",
+                  "category": "landmark",
+                  "coords": [
+                        51.025812,
+                        25.978767
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "QA-MS",
     coords: [51.028, 25.976],
@@ -47,7 +128,52 @@ export const poiExtraQatarHistoryV2: POI[] = [
     }
   },
   {
-    id: "qatar-barzan-towers-history-v2",
+    id: "qatar-barzan-towers-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Barzan Towers",
+                  "text": "Diese 16 Meter hohen historischen Wachtürme wurden gebaut, um das Meer nach herannahenden Perlentauchern und einlaufenden Schiffen abzusuchen.",
+                  "category": "landmark",
+                  "coords": [
+                        51.413212,
+                        25.418102
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Barzan Towers",
+                  "text": "A 16 méter magas történelmi őrtornyokat azért építették, hogy a tenger felől érkező gyöngyhalászokat és beérkező hajókat figyeljék.",
+                  "category": "landmark",
+                  "coords": [
+                        51.413212,
+                        25.418102
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Barzan Towers",
+                  "text": "Cu o înălțime de 16 metri, aceste turnuri de veghe istorice au fost construite pentru a scruta marea după căutătorii de perle și navele care se apropiau.",
+                  "category": "landmark",
+                  "coords": [
+                        51.413212,
+                        25.418102
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Barzan Towers",
+                  "text": "Standing 16 meters high, these historic watchtowers were built to look out over the sea for approaching pearl divers and incoming ships.",
+                  "category": "landmark",
+                  "coords": [
+                        51.413212,
+                        25.418102
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "QA-UM",
     coords: [51.415, 25.419],
@@ -135,7 +261,52 @@ export const poiExtraQatarHistoryV2: POI[] = [
     },
   },
   {
-    id: "qatar-zekreet-fort-history-v2",
+    id: "qatar-zekreet-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zekreet Fort",
+                  "text": "Die Ruinen dieser Küstenwüstenfestung aus dem 18. Jahrhundert zeichnen sich dadurch aus, dass sie zunächst ohne Türme erbaut wurden, die erst später hinzugefügt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        50.844584,
+                        25.490073
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zekreet Fort",
+                  "text": "Ennek a 18. századi tengerparti sivatagi erődnek a romjai arról nevezetesek, hogy eredetileg tornyok nélkül épült, azokat csak egy későbbi szakaszban adták hozzá.",
+                  "category": "historical",
+                  "coords": [
+                        50.844584,
+                        25.490073
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zekreet Fort",
+                  "text": "Ruinele acestui fort deșertic de coastă din secolul al XVIII-lea sunt notabile pentru că au fost construite inițial fără turnuri, care au fost adăugate într-o etapă ulterioară.",
+                  "category": "historical",
+                  "coords": [
+                        50.844584,
+                        25.490073
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zekreet Fort",
+                  "text": "The ruins of this 18th-century coastal desert fort are notable for having been built initially without towers, which were added in a later phase.",
+                  "category": "historical",
+                  "coords": [
+                        50.844584,
+                        25.490073
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "QA-RA",
     coords: [50.849, 25.488],
@@ -179,7 +350,52 @@ export const poiExtraQatarHistoryV2: POI[] = [
     },
   },
   {
-    id: "qatar-al-koot-fort-history-v2",
+    id: "qatar-al-koot-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Rayyan Theatre",
+                  "text": "Dieser überdachte Veranstaltungsort bietet eine kulturell reiche Bühne für traditionelle katarische Musikdarbietungen und Theateraufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        51.534189,
+                        25.286506
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Rayyan Theatre",
+                  "text": "Ez a fedett szórakozóhely kulturálisan gazdag színpadot biztosít a hagyományos katari zenei előadások és színházi produkciók számára.",
+                  "category": "cultural",
+                  "coords": [
+                        51.534189,
+                        25.286506
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Rayyan Theatre",
+                  "text": "Acest loc de divertisment interior oferă o scenă bogată cultural pentru spectacole muzicale și producții teatrale tradiționale din Qatar.",
+                  "category": "cultural",
+                  "coords": [
+                        51.534189,
+                        25.286506
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Rayyan Theatre",
+                  "text": "This indoor entertainment venue provides a culturally rich stage for traditional Qatari music performances and theatrical productions.",
+                  "category": "cultural",
+                  "coords": [
+                        51.534189,
+                        25.286506
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "QA-DA",
     coords: [51.534, 25.287],
@@ -223,7 +439,52 @@ export const poiExtraQatarHistoryV2: POI[] = [
     },
   },
   {
-    id: "qatar-al-rakiyat-fort-history-v2",
+    id: "qatar-al-rakiyat-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kalet Al Rakay",
+                  "text": "Eine historische Wüstenfestung mit massiven Mauern und runden Ecktürmen.",
+                  "category": "castle",
+                  "coords": [
+                        51.130377,
+                        26.051303
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalet Al Rakay",
+                  "text": "Történelmi sivatagi erőd masszív falakkal és kerek saroktornyokkal.",
+                  "category": "castle",
+                  "coords": [
+                        51.130377,
+                        26.051303
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalet Al Rakay",
+                  "text": "O fortăreață istorică din deșert, cu ziduri masive și turnuri de colț rotunde.",
+                  "category": "castle",
+                  "coords": [
+                        51.130377,
+                        26.051303
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kalet Al Rakay",
+                  "text": "A historic desert fort featuring massive walls and circular corner towers.",
+                  "category": "castle",
+                  "coords": [
+                        51.130377,
+                        26.051303
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "QA-MS",
     coords: [51.135, 26.049],
@@ -267,7 +528,88 @@ export const poiExtraQatarHistoryV2: POI[] = [
     }
   },
   {
-    id: "qatar-al-jassasiya-rock-carvings-history-v2",
+    id: "qatar-al-jassasiya-rock-carvings-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Jassasiya Petroglyphs",
+                  "text": "Diese weitläufige archäologische Stätte weist antike, in die Wüstenlandschaft geritzte Felszeichnungen auf.",
+                  "category": "historical",
+                  "coords": [
+                        51.400847,
+                        25.954947
+                  ]
+            },
+            {
+                  "name": "Old Mashrab Masjed",
+                  "text": "Eine traditionelle islamische Moschee, die als spirituelles Zentrum in der rauen Umgebung dient.",
+                  "category": "landmark",
+                  "coords": [
+                        51.385541,
+                        25.890242
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Jassasiya Petroglyphs",
+                  "text": "Ez a kiterjedt régészeti lelőhely a sivatagi tájba vésett ősi sziklarajzokat őriz.",
+                  "category": "historical",
+                  "coords": [
+                        51.400847,
+                        25.954947
+                  ]
+            },
+            {
+                  "name": "Old Mashrab Masjed",
+                  "text": "Hagyományos iszlám mecset, amely szellemi központként szolgál a zord helyi környezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        51.385541,
+                        25.890242
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Jassasiya Petroglyphs",
+                  "text": "Acest vast sit arheologic prezintă sculpturi antice în stâncă, gravate în peisajul deșertic.",
+                  "category": "historical",
+                  "coords": [
+                        51.400847,
+                        25.954947
+                  ]
+            },
+            {
+                  "name": "Old Mashrab Masjed",
+                  "text": "O moschee islamică tradițională care servește ca centru spiritual în zona locală aridă.",
+                  "category": "landmark",
+                  "coords": [
+                        51.385541,
+                        25.890242
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Jassasiya Petroglyphs",
+                  "text": "This expansive archaeological site features ancient rock carvings etched into the desert landscape.",
+                  "category": "historical",
+                  "coords": [
+                        51.400847,
+                        25.954947
+                  ]
+            },
+            {
+                  "name": "Old Mashrab Masjed",
+                  "text": "A traditional Islamic mosque serving as a spiritual center in the rugged local area.",
+                  "category": "landmark",
+                  "coords": [
+                        51.385541,
+                        25.890242
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "QA-MS",
     coords: [51.408, 25.952],
@@ -311,7 +653,52 @@ export const poiExtraQatarHistoryV2: POI[] = [
     }
   },
   {
-    id: "qatar-murwab-fort-history-v2",
+    id: "qatar-murwab-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Murwab",
+                  "text": "Diese mittelalterliche archäologische Stätte enthüllt die Grundmauern einer historischen islamischen Siedlung in der Wüste.",
+                  "category": "historical",
+                  "coords": [
+                        51.021144,
+                        25.861128
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Murwab",
+                  "text": "Ez a középkori régészeti lelőhely egy történelmi iszlám sivatagi település alapjainak maradványait tárja fel.",
+                  "category": "historical",
+                  "coords": [
+                        51.021144,
+                        25.861128
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Murwab",
+                  "text": "Acest sit arheologic medieval dezvăluie ruinele fundațiilor unei așezări islamice istorice din deșert.",
+                  "category": "historical",
+                  "coords": [
+                        51.021144,
+                        25.861128
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Murwab",
+                  "text": "This medieval archaeological site reveals the foundational remains of a historic Islamic settlement in the desert.",
+                  "category": "historical",
+                  "coords": [
+                        51.021144,
+                        25.861128
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "QA-MS",
     coords: [51.018, 25.856],
@@ -399,7 +786,88 @@ export const poiExtraQatarHistoryV2: POI[] = [
     }
   },
   {
-    id: "qatar-al-jumail-village-history-v2",
+    id: "qatar-al-jumail-village-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Jumail Abandoned Village",
+                  "text": "Ein Geisterdorf an der Küste mit den Ruinen einer Moschee und Korallensteinhäusern.",
+                  "category": "landmark",
+                  "coords": [
+                        51.154499,
+                        26.094769
+                  ]
+            },
+            {
+                  "name": "Kalet al Ruwai",
+                  "text": "Archäologische Fundstätte einer ehemaligen Küstenfestung im Norden der Halbinsel.",
+                  "category": "historical",
+                  "coords": [
+                        51.144909,
+                        26.079441
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Jumail Abandoned Village",
+                  "text": "Tengerparti szellemfalu egy mecset és korallkő házak romjaival.",
+                  "category": "landmark",
+                  "coords": [
+                        51.154499,
+                        26.094769
+                  ]
+            },
+            {
+                  "name": "Kalet al Ruwai",
+                  "text": "Egy egykori tengerparti erőd régészeti lelőhelye a félsziget északi részén.",
+                  "category": "historical",
+                  "coords": [
+                        51.144909,
+                        26.079441
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Jumail Abandoned Village",
+                  "text": "Un sat fantomă pe coastă, cu ruinele unei moschei și case din piatră de corali.",
+                  "category": "landmark",
+                  "coords": [
+                        51.154499,
+                        26.094769
+                  ]
+            },
+            {
+                  "name": "Kalet al Ruwai",
+                  "text": "Situl arheologic al unei foste fortărețe de coastă în nordul peninsulei.",
+                  "category": "historical",
+                  "coords": [
+                        51.144909,
+                        26.079441
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Jumail Abandoned Village",
+                  "text": "A coastal ghost village featuring ruins of a mosque and traditional coral-stone houses.",
+                  "category": "landmark",
+                  "coords": [
+                        51.154499,
+                        26.094769
+                  ]
+            },
+            {
+                  "name": "Kalet al Ruwai",
+                  "text": "Archaeological site of a former coastal fortification in the north of the peninsula.",
+                  "category": "historical",
+                  "coords": [
+                        51.144909,
+                        26.079441
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "QA-MS",
     coords: [51.155, 26.094],
@@ -487,7 +955,124 @@ export const poiExtraQatarHistoryV2: POI[] = [
     }
   },
   {
-    id: "qatar-jazirat-bin-ghannam-history-v2",
+    id: "qatar-jazirat-bin-ghannam-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Khor Mseum",
+                  "text": "In einer ehemaligen Polizeistation untergebracht, zeigt dieses Museum die maritime Geschichte von Al Khor.",
+                  "category": "museum",
+                  "coords": [
+                        51.512945,
+                        25.686758
+                  ]
+            },
+            {
+                  "name": "Al Sultan Beach",
+                  "text": "Ein ruhiger Küstenabschnitt in der Nähe des Hafens, ideal zum Entspannen am Persischen Golf.",
+                  "category": "recreational",
+                  "coords": [
+                        51.519912,
+                        25.684969
+                  ]
+            },
+            {
+                  "name": "Fish Market Mosque",
+                  "text": "Eine kleine Moschee direkt am Fischmarkt, die Fischern und Besuchern offensteht.",
+                  "category": "landmark",
+                  "coords": [
+                        51.516579,
+                        25.685303
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Khor museum",
+                  "text": "Egy egykori rendőrőrsön elhelyezett múzeum, amely Al Khor tengerészeti múltját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        51.512945,
+                        25.686758
+                  ]
+            },
+            {
+                  "name": "Al Sultan Beach",
+                  "text": "Nyugodt tengerparti szakasz a kikötő közelében, ideális a Perzsa-öböl partján való pihenéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        51.519912,
+                        25.684969
+                  ]
+            },
+            {
+                  "name": "Fish Market Mosque",
+                  "text": "Egy kis mecset közvetlenül a halpiac mellett, amely a halászok és látogatók előtt is nyitva áll.",
+                  "category": "landmark",
+                  "coords": [
+                        51.516579,
+                        25.685303
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Khor museum",
+                  "text": "Găzduit într-o fostă secție de poliție, acest muzeu prezintă istoria maritimă a orașului Al Khor.",
+                  "category": "museum",
+                  "coords": [
+                        51.512945,
+                        25.686758
+                  ]
+            },
+            {
+                  "name": "Al Sultan Beach",
+                  "text": "O porțiune liniștită de coastă lângă port, ideală pentru relaxare la malul Golfului Persic.",
+                  "category": "recreational",
+                  "coords": [
+                        51.519912,
+                        25.684969
+                  ]
+            },
+            {
+                  "name": "Fish Market Mosque",
+                  "text": "O mică moschee situată chiar lângă piața de pește, deschisă pescarilor și vizitatorilor.",
+                  "category": "landmark",
+                  "coords": [
+                        51.516579,
+                        25.685303
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Khor museum",
+                  "text": "Housed in a former police station, this museum showcases Al Khor’s maritime history.",
+                  "category": "museum",
+                  "coords": [
+                        51.512945,
+                        25.686758
+                  ]
+            },
+            {
+                  "name": "Al Sultan Beach",
+                  "text": "A serene coastal stretch near the harbor, ideal for relaxing by the Arabian Gulf.",
+                  "category": "recreational",
+                  "coords": [
+                        51.519912,
+                        25.684969
+                  ]
+            },
+            {
+                  "name": "Fish Market Mosque",
+                  "text": "A small mosque located right by the fish market, open to fishermen and visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        51.516579,
+                        25.685303
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "QA-KH",
     coords: [51.554, 25.688],
@@ -531,7 +1116,52 @@ export const poiExtraQatarHistoryV2: POI[] = [
     }
   },
   {
-    id: "qatar-al-thaqab-fort-history-v2",
+    id: "qatar-al-thaqab-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kalet Al Thaqa",
+                  "text": "Ein defensives Wüstenfort mit dicken Mauern, das zum Schutz lokaler Wasserquellen errichtet wurde.",
+                  "category": "fortress",
+                  "coords": [
+                        51.117139,
+                        26.032763
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalet Al Thaqa",
+                  "text": "Védelmi sivatagi erőd vastag falakkal, amelyet a helyi vízforrások védelmére építettek.",
+                  "category": "fortress",
+                  "coords": [
+                        51.117139,
+                        26.032763
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalet Al Thaqa",
+                  "text": "Un fort deșertic defensiv cu ziduri groase, construit pentru a proteja sursele locale de apă.",
+                  "category": "fortress",
+                  "coords": [
+                        51.117139,
+                        26.032763
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kalet Al Thaqa",
+                  "text": "A defensive desert fort featuring thick walls built to protect local water sources.",
+                  "category": "fortress",
+                  "coords": [
+                        51.117139,
+                        26.032763
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "QA-MS",
     coords: [51.116, 26.033],
@@ -619,7 +1249,124 @@ export const poiExtraQatarHistoryV2: POI[] = [
     }
   },
   {
-    id: "qatar-company-house-history-v2",
+    id: "qatar-company-house-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fahad Bin Ali Palace",
+                  "text": "Ein herrschaftlicher Palast mit traditionellen katarischen Architekturelementen, der die königliche Geschichte Dohas widerspiegelt.",
+                  "category": "castle",
+                  "coords": [
+                        51.526408,
+                        25.288844
+                  ]
+            },
+            {
+                  "name": "Mushayrib Museum",
+                  "text": "Teil der Msheireb-Museen, die in restaurierten historischen Häusern die Entwicklung Katars dokumentieren.",
+                  "category": "museum",
+                  "coords": [
+                        51.528679,
+                        25.286892
+                  ]
+            },
+            {
+                  "name": "Radwani house",
+                  "text": "Dieses restaurierte Haus zeigt das tägliche Leben einer katarischen Familie im frühen 20. Jahrhundert.",
+                  "category": "museum",
+                  "coords": [
+                        51.529661,
+                        25.287361
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fahad Bin Ali Palace",
+                  "text": "Hagyományos katari építészeti elemekkel díszített előkelő palota, amely Doha királyi múltját tükrözi.",
+                  "category": "castle",
+                  "coords": [
+                        51.526408,
+                        25.288844
+                  ]
+            },
+            {
+                  "name": "Mushayrib Museum",
+                  "text": "A Msheireb Múzeumok része, amely restaurált történelmi házakban dokumentálja Katar fejlődését.",
+                  "category": "museum",
+                  "coords": [
+                        51.528679,
+                        25.286892
+                  ]
+            },
+            {
+                  "name": "Radwani house",
+                  "text": "Ez a restaurált ház egy katari család mindennapi életét mutatja be a 20. század elején.",
+                  "category": "museum",
+                  "coords": [
+                        51.529661,
+                        25.287361
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fahad Bin Ali Palace",
+                  "text": "Un palat impunător cu elemente arhitecturale tradiționale qatareze, reflectând istoria regală a orașului Doha.",
+                  "category": "castle",
+                  "coords": [
+                        51.526408,
+                        25.288844
+                  ]
+            },
+            {
+                  "name": "Mushayrib Museum",
+                  "text": "Parte a Muzeelor Msheireb, care documentează evoluția Qatarului în case istorice restaurate.",
+                  "category": "museum",
+                  "coords": [
+                        51.528679,
+                        25.286892
+                  ]
+            },
+            {
+                  "name": "Radwani house",
+                  "text": "Această casă restaurată prezintă viața de zi cu zi a unei familii qatareze la începutul secolului al XX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        51.529661,
+                        25.287361
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fahad Bin Ali Palace",
+                  "text": "A grand palace with traditional Qatari architectural elements, reflecting the royal history of Doha.",
+                  "category": "castle",
+                  "coords": [
+                        51.526408,
+                        25.288844
+                  ]
+            },
+            {
+                  "name": "Mushayrib Museum",
+                  "text": "Part of the Msheireb Museums complex, documenting Qatar's development within restored historic houses.",
+                  "category": "museum",
+                  "coords": [
+                        51.528679,
+                        25.286892
+                  ]
+            },
+            {
+                  "name": "Radwani house",
+                  "text": "This restored house showcases the daily life of a Qatari family during the early 20th century.",
+                  "category": "museum",
+                  "coords": [
+                        51.529661,
+                        25.287361
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "QA-DA",
     coords: [51.528, 25.287],
@@ -663,7 +1410,88 @@ export const poiExtraQatarHistoryV2: POI[] = [
     }
   },
   {
-    id: "qatar-bin-jelmood-house-history-v2",
+    id: "qatar-bin-jelmood-house-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "AEB accomodation",
+                  "text": "Ein moderner Wohnkomplex in der Nähe von Msheireb Downtown Doha, der zeitgenössisches katarisches Stadtleben verkörpert.",
+                  "category": "landmark",
+                  "coords": [
+                        51.512863,
+                        25.280976
+                  ]
+            },
+            {
+                  "name": "Doha Quest",
+                  "text": "Katars größter Indoor-Themenpark in Msheireb bietet Weltrekord-Indoor-Achterbahnen für alle Altersgruppen.",
+                  "category": "recreational",
+                  "coords": [
+                        51.517441,
+                        25.284666
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "AEB accomodation",
+                  "text": "Modern lakókomplexum Msheireb Downtown Doha közelében, amely a kortárs katari városi életet képviseli.",
+                  "category": "landmark",
+                  "coords": [
+                        51.512863,
+                        25.280976
+                  ]
+            },
+            {
+                  "name": "Doha Quest",
+                  "text": "Katar legnagyobb fedett vidámparkja Msheirebben, világrekordot döntő beltéri hullámvasutakkal minden korosztálynak.",
+                  "category": "recreational",
+                  "coords": [
+                        51.517441,
+                        25.284666
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "AEB accomodation",
+                  "text": "Un complex rezidențial modern lângă Msheireb Downtown Doha, reprezentând viața urbană contemporană din Qatar.",
+                  "category": "landmark",
+                  "coords": [
+                        51.512863,
+                        25.280976
+                  ]
+            },
+            {
+                  "name": "Doha Quest",
+                  "text": "Cel mai mare parc tematic interior din Qatar, situat în Msheireb, cu roller coastere de interior record pentru toate vârstele.",
+                  "category": "recreational",
+                  "coords": [
+                        51.517441,
+                        25.284666
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "AEB accomodation",
+                  "text": "A modern residential complex near Msheireb Downtown Doha, representing contemporary Qatari urban living.",
+                  "category": "landmark",
+                  "coords": [
+                        51.512863,
+                        25.280976
+                  ]
+            },
+            {
+                  "name": "Doha Quest",
+                  "text": "Qatar's largest indoor theme park, located in Msheireb, featuring world-record-breaking indoor roller coasters for all ages.",
+                  "category": "recreational",
+                  "coords": [
+                        51.517441,
+                        25.284666
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "QA-DA",
     coords: [51.526, 25.286],
@@ -751,7 +1579,124 @@ export const poiExtraQatarHistoryV2: POI[] = [
     }
   },
   {
-    id: "qatar-wind-tower-house-history-v2",
+    id: "qatar-wind-tower-house-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sea Shell with Pearl",
+                  "text": "Dieses große Denkmal einer Austernschale mit Perle erinnert an das historische Erbe des Perlenfischens in Katar.",
+                  "category": "historical",
+                  "coords": [
+                        51.533675,
+                        25.291455
+                  ]
+            },
+            {
+                  "name": "Fanar Qatar Islamic Cultural Center",
+                  "text": "Dieses Zentrum ist für sein markantes spiralförmiges Minarett bekannt, das weithin über der Skyline sichtbar ist.",
+                  "category": "religious",
+                  "coords": [
+                        51.535679,
+                        25.288975
+                  ]
+            },
+            {
+                  "name": "Animal Souq",
+                  "text": "Dieser Teil des Marktes ist auf den Verkauf von Falken, Vögeln und anderen Tieren in traditioneller Umgebung spezialisiert.",
+                  "category": "cultural",
+                  "coords": [
+                        51.53293,
+                        25.289089
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sea Shell with Pearl",
+                  "text": "Ez a gyöngyöt rejtő kagylót ábrázoló nagy emlékmű Katar történelmi gyöngyhalász múltjának állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        51.533675,
+                        25.291455
+                  ]
+            },
+            {
+                  "name": "Fanar Qatar Islamic Cultural Center",
+                  "text": "Ez a központ jellegzetes spirális minaretjéről ismert, amely messziről látható a város látképén.",
+                  "category": "religious",
+                  "coords": [
+                        51.535679,
+                        25.288975
+                  ]
+            },
+            {
+                  "name": "Animal Souq",
+                  "text": "A piac ezen része solymok, madarak és egyéb állatok árusítására szakosodott hagyományos környezetben.",
+                  "category": "cultural",
+                  "coords": [
+                        51.53293,
+                        25.289089
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sea Shell with Pearl",
+                  "text": "Acest monument mare reprezentând o scoică cu perlă comemorează moștenirea istorică a pescuitului de perle din Qatar.",
+                  "category": "historical",
+                  "coords": [
+                        51.533675,
+                        25.291455
+                  ]
+            },
+            {
+                  "name": "Fanar Qatar Islamic Cultural Center",
+                  "text": "Acest centru este cunoscut pentru minaretul său spiralat distinctiv, care este vizibil de departe pe cerul orașului.",
+                  "category": "religious",
+                  "coords": [
+                        51.535679,
+                        25.288975
+                  ]
+            },
+            {
+                  "name": "Animal Souq",
+                  "text": "Această secțiune a pieței este specializată în vânzarea de șoimi, păsări și alte animale într-un cadru tradițional.",
+                  "category": "cultural",
+                  "coords": [
+                        51.53293,
+                        25.289089
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pearl",
+                  "text": "This large monument of an oyster shell with a pearl commemorates Qatar's historical pearl diving heritage.",
+                  "category": "historical",
+                  "coords": [
+                        51.533675,
+                        25.291455
+                  ]
+            },
+            {
+                  "name": "Fanar Qatar Islamic Cultural Center",
+                  "text": "This center is known for its distinctive spiral minaret, which is visible from afar across the skyline.",
+                  "category": "religious",
+                  "coords": [
+                        51.535679,
+                        25.288975
+                  ]
+            },
+            {
+                  "name": "Animal Souq",
+                  "text": "This section of the market specializes in the sale of falcons, birds, and other animals in traditional surroundings.",
+                  "category": "cultural",
+                  "coords": [
+                        51.53293,
+                        25.289089
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "QA-DA",
     coords: [51.533, 25.289],

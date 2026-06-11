@@ -25,7 +25,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Chiesa Sant'Andrea",
-                  "text": "Eine religiöse Stätte in Dogana.",
+                  "text": "Die Chiesa Sant'Andrea in Dogana ist eine Pfarrkirche, die dem heiligen Andreas geweiht ist.",
                   "category": "religious",
                   "coords": [
                         12.478782,
@@ -63,7 +63,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Chiesa Sant'Andrea",
-                  "text": "Vallási helyszín Dogana településen.",
+                  "text": "A Sant'Andrea-templom Doganában egy Szent Andrásnak szentelt plébániatemplom.",
                   "category": "religious",
                   "coords": [
                         12.478782,
@@ -101,7 +101,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Chiesa Sant'Andrea",
-                  "text": "Un lăcaș de cult situat în Dogana.",
+                  "text": "Biserica Sant'Andrea din Dogana este o biserică parohială dedicată Sfântului Andrei.",
                   "category": "religious",
                   "coords": [
                         12.478782,
@@ -139,7 +139,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Chiesa Sant'Andrea",
-                  "text": "A religious site located in Dogana.",
+                  "text": "Chiesa Sant'Andrea in Dogana is a parish church dedicated to Saint Andrew.",
                   "category": "religious",
                   "coords": [
                         12.478782,
@@ -205,7 +205,7 @@ export const sanmarinoCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Montelupo Tower Ruins",
-                  "text": "Historische Überreste des Montelupo-Turms in Falciano.",
+                  "text": "Ruinen eines mittelalterlichen Turms in Falciano.",
                   "category": "historical",
                   "coords": [
                         12.505969,
@@ -223,7 +223,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "San Marino Jinja",
-                  "text": "Dieser Shintō-Schrein in Falciano ist der erste seiner Art in San Marino.",
+                  "text": "Der SanMarino-Shinto-Schrein in Falciano ist einer der wenigen Shinto-Schreine in Europa.",
                   "category": "religious",
                   "coords": [
                         12.48213,
@@ -234,7 +234,7 @@ export const sanmarinoCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Montelupo Tower Ruins",
-                  "text": "A Falcianoban található Montelupo-torony történelmi romjai.",
+                  "text": "Középkori torony romjai Falcianóban.",
                   "category": "historical",
                   "coords": [
                         12.505969,
@@ -252,7 +252,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "San Marino Jinja",
-                  "text": "Ez a falcianói Shinto szentély az első ilyen jellegű építmény San Marinóban.",
+                  "text": "A San Marino-i Sinto Szentély Falcianóban az egyik kevés európai sinto szentély.",
                   "category": "religious",
                   "coords": [
                         12.48213,
@@ -263,7 +263,7 @@ export const sanmarinoCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Montelupo Tower Ruins",
-                  "text": "Ruinele istorice ale turnului Montelupo din Falciano.",
+                  "text": "Ruinele unui turn medieval în Falciano.",
                   "category": "historical",
                   "coords": [
                         12.505969,
@@ -281,7 +281,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "San Marino Jinja",
-                  "text": "Acest sanctuar Shinto din Falciano este primul de acest fel din San Marino.",
+                  "text": "Sanctuarul Șinto SanMarino din Falciano este unul dintre puținele sanctuare șinto din Europa.",
                   "category": "religious",
                   "coords": [
                         12.48213,
@@ -292,7 +292,7 @@ export const sanmarinoCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Montelupo Tower Ruins",
-                  "text": "The historical ruins of the Montelupo tower in Falciano.",
+                  "text": "Ruins of a medieval tower in Falciano.",
                   "category": "historical",
                   "coords": [
                         12.505969,
@@ -310,7 +310,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Sanmarino Shinto Shrine",
-                  "text": "This Shinto shrine in Falciano is the first of its kind in San Marino.",
+                  "text": "The SanMarino Shinto Shrine in Falciano is one of the few Shinto shrines in Europe.",
                   "category": "religious",
                   "coords": [
                         12.48213,
@@ -556,7 +556,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Serbatoio da plastilina",
-                  "text": "Eine ungewöhnliche Kunstattraktion in Ventoso.",
+                  "text": "Skulptur eines Panzers aus Knete in Ventoso.",
                   "category": "landmark",
                   "coords": [
                         12.450535,
@@ -565,7 +565,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Cavallo",
-                  "text": "Ein Denkmal in Form eines Pferdes in Ventoso.",
+                  "text": "Historisches Pferdestandbild (Cavallo) in Ventoso.",
                   "category": "historical",
                   "coords": [
                         12.448703,
@@ -583,7 +583,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Kursaal Sala Congressi",
-                  "text": "Ein Kongress- und Kulturzentrum in Ventoso.",
+                  "text": "Kongresszentrum Kursaal in Ventoso.",
                   "category": "cultural",
                   "coords": [
                         12.452055,
@@ -592,7 +592,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Santuario della Beata Vergine della Consolazione",
-                  "text": "Ein religiöses Heiligtum in Ventoso.",
+                  "text": "Das Santuario della Beata Vergine della Consolazione in Ventoso ist ein Marienheiligtum und eine Wallfahrtskirche.",
                   "category": "religious",
                   "coords": [
                         12.447424,
@@ -666,7 +666,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Serbatoio da plastilina",
-                  "text": "Szokatlan művészeti látványosság Ventoso településen.",
+                  "text": "Gyurmából készült tankszobor Ventosóban.",
                   "category": "landmark",
                   "coords": [
                         12.450535,
@@ -675,7 +675,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Cavallo",
-                  "text": "Ló alakú emlékmű Ventoso településen.",
+                  "text": "Történelmi lószobor (Cavallo) Ventosóban.",
                   "category": "historical",
                   "coords": [
                         12.448703,
@@ -693,7 +693,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Kursaal Sala Congressi",
-                  "text": "Kongresszusi és kulturális központ Ventoso településen.",
+                  "text": "Kursaal kongresszusi központ Ventosóban.",
                   "category": "cultural",
                   "coords": [
                         12.452055,
@@ -702,7 +702,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Santuario della Beata Vergine della Consolazione",
-                  "text": "Vallási szentély Ventoso településen.",
+                  "text": "A Vigasztaló Boldogasszony Szentélye Ventosóban egy Mária-szentély és zarándoktemplom.",
                   "category": "religious",
                   "coords": [
                         12.447424,
@@ -776,7 +776,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Serbatoio da plastilina",
-                  "text": "O atracție artistică neobișnuită situată în Ventoso.",
+                  "text": "Sculptură a unui tanc din plastilină în Ventoso.",
                   "category": "landmark",
                   "coords": [
                         12.450535,
@@ -785,7 +785,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Cavallo",
-                  "text": "Un monument sub formă de cal situat în Ventoso.",
+                  "text": "Statuie istorică a unui cal (Cavallo) în Ventoso.",
                   "category": "historical",
                   "coords": [
                         12.448703,
@@ -803,7 +803,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Kursaal Sala Congressi",
-                  "text": "Un centru de congrese și cultură situat în Ventoso.",
+                  "text": "Centru de congrese Kursaal în Ventoso.",
                   "category": "cultural",
                   "coords": [
                         12.452055,
@@ -812,7 +812,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Santuario della Beata Vergine della Consolazione",
-                  "text": "Un sanctuar religios situat în Ventoso.",
+                  "text": "Sanctuarul Fericitei Fecioare a Mângâierii din Ventoso este un sanctuar marian și o biserică de pelerinaj.",
                   "category": "religious",
                   "coords": [
                         12.447424,
@@ -886,7 +886,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Tank from plasticine",
-                  "text": "An unusual art attraction located in Ventoso.",
+                  "text": "Sculpture of a tank made from plasticine in Ventoso.",
                   "category": "landmark",
                   "coords": [
                         12.450535,
@@ -895,7 +895,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Cavallo",
-                  "text": "A monument in the shape of a horse located in Ventoso.",
+                  "text": "Historical horse statue (Cavallo) in Ventoso.",
                   "category": "historical",
                   "coords": [
                         12.448703,
@@ -913,7 +913,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Kursaal Sala Congressi",
-                  "text": "A congress and arts centre located in Ventoso.",
+                  "text": "Kursaal congress centre in Ventoso.",
                   "category": "cultural",
                   "coords": [
                         12.452055,
@@ -922,7 +922,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Santuario della Beata Vergine della Consolazione",
-                  "text": "A religious sanctuary located in Ventoso.",
+                  "text": "The Santuario della Beata Vergine della Consolazione in Ventoso is a Marian sanctuary and pilgrimage church.",
                   "category": "religious",
                   "coords": [
                         12.447424,
@@ -1195,7 +1195,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Museo d'Arte Contemporanea di San Marino",
-                  "text": "Die nationale Galerie, die sich auf moderne und zeitgenössische Kunstwerke konzentriert.",
+                  "text": "Galerie für moderne und zeitgenössische Kunst in Gorgascura.",
                   "category": "museum",
                   "coords": [
                         12.445734,
@@ -1204,7 +1204,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Serbatoio da plastilina",
-                  "text": "Eine interessante Attraktion in Gorgascura.",
+                  "text": "Skulptur eines Panzers aus Knete in Gorgascura.",
                   "category": "landmark",
                   "coords": [
                         12.450535,
@@ -1213,7 +1213,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Cavallo",
-                  "text": "Ein Denkmal in Gorgascura.",
+                  "text": "Historisches Pferdestandbild (Cavallo) in Gorgascura.",
                   "category": "historical",
                   "coords": [
                         12.448703,
@@ -1222,7 +1222,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "L’elettromotrice \"AB-03\"",
-                  "text": "Ein historischer elektrischer Triebwagen, der in Gorgascura ausgestellt ist.",
+                  "text": "Historischer elektrischer Triebwagen AB-03 in Gorgascura.",
                   "category": "landmark",
                   "coords": [
                         12.45034,
@@ -1240,7 +1240,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Santuario della Beata Vergine della Consolazione",
-                  "text": "Ein religiöses Gebäude in Gorgascura.",
+                  "text": "Das Santuario della Beata Vergine della Consolazione in Gorgascura ist ein Marienheiligtum und eine Wallfahrtskirche.",
                   "category": "religious",
                   "coords": [
                         12.447424,
@@ -1305,7 +1305,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Museo d'Arte Contemporanea di San Marino",
-                  "text": "A nemzeti galéria, amely modern és kortárs művészeti alkotásokra összpontosít.",
+                  "text": "Modern és kortárs művészeti galéria Gorgascura-ban.",
                   "category": "museum",
                   "coords": [
                         12.445734,
@@ -1314,7 +1314,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Serbatoio da plastilina",
-                  "text": "Érdekes látnivaló Gorgascurában.",
+                  "text": "Gyurmából készült tankszobor Gorgascura-ban.",
                   "category": "landmark",
                   "coords": [
                         12.450535,
@@ -1323,7 +1323,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Cavallo",
-                  "text": "Egy emlékmű Gorgascurában.",
+                  "text": "Történelmi lószobor (Cavallo) Gorgascura-ban.",
                   "category": "historical",
                   "coords": [
                         12.448703,
@@ -1332,7 +1332,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "L’elettromotrice \"AB-03\"",
-                  "text": "Gorgascurában kiállított történelmi elektromos motorkocsi.",
+                  "text": "Történelmi elektromos motorvonat AB-03 Gorgascura-ban.",
                   "category": "landmark",
                   "coords": [
                         12.45034,
@@ -1350,7 +1350,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Santuario della Beata Vergine della Consolazione",
-                  "text": "Vallási épület Gorgascurában.",
+                  "text": "A Vigasztaló Boldogasszony Szentélye Gorgascuraban egy Mária-szentély és zarándoktemplom.",
                   "category": "religious",
                   "coords": [
                         12.447424,
@@ -1415,7 +1415,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Museo d'Arte Contemporanea di San Marino",
-                  "text": "Galeria națională axată pe lucrări de artă modernă și contemporană.",
+                  "text": "Galerie de artă modernă și contemporană în Gorgascura.",
                   "category": "museum",
                   "coords": [
                         12.445734,
@@ -1424,7 +1424,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Serbatoio da plastilina",
-                  "text": "O atracție interesantă în Gorgascura.",
+                  "text": "Sculptură a unui tanc din plastilină în Gorgascura.",
                   "category": "landmark",
                   "coords": [
                         12.450535,
@@ -1433,7 +1433,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Cavallo",
-                  "text": "Un monument în Gorgascura.",
+                  "text": "Statuie istorică a unui cal (Cavallo) în Gorgascura.",
                   "category": "historical",
                   "coords": [
                         12.448703,
@@ -1442,7 +1442,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "L’elettromotrice \"AB-03\"",
-                  "text": "Un vagon electric istoric expus în Gorgascura.",
+                  "text": "Autovehicul electric istoric AB-03 în Gorgascura.",
                   "category": "landmark",
                   "coords": [
                         12.45034,
@@ -1460,7 +1460,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Santuario della Beata Vergine della Consolazione",
-                  "text": "O clădire religioasă în Gorgascura.",
+                  "text": "Sanctuarul Fericitei Fecioare a Mângâierii din Gorgascura este un sanctuar marian și o biserică de pelerinaj.",
                   "category": "religious",
                   "coords": [
                         12.447424,
@@ -1525,7 +1525,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "National Gallery of Modern and Contemporary Art",
-                  "text": "The national gallery focusing on modern and contemporary works of art.",
+                  "text": "Gallery of modern and contemporary art in Gorgascura.",
                   "category": "museum",
                   "coords": [
                         12.445734,
@@ -1534,7 +1534,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Tank from plasticine",
-                  "text": "An interesting attraction in Gorgascura.",
+                  "text": "Sculpture of a tank made from plasticine in Gorgascura.",
                   "category": "landmark",
                   "coords": [
                         12.450535,
@@ -1543,7 +1543,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Cavallo",
-                  "text": "A monument in Gorgascura.",
+                  "text": "Historical horse statue (Cavallo) in Gorgascura.",
                   "category": "historical",
                   "coords": [
                         12.448703,
@@ -1552,7 +1552,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "L’elettromotrice \"AB-03\"",
-                  "text": "A historical electric railcar displayed in Gorgascura.",
+                  "text": "Historic electric railcar AB-03 in Gorgascura.",
                   "category": "landmark",
                   "coords": [
                         12.45034,
@@ -1570,7 +1570,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Santuario della Beata Vergine della Consolazione",
-                  "text": "A religious building in Gorgascura.",
+                  "text": "The Santuario della Beata Vergine della Consolazione in Gorgascura is a Marian sanctuary and pilgrimage church.",
                   "category": "religious",
                   "coords": [
                         12.447424,
@@ -1897,7 +1897,7 @@ export const sanmarinoCitiesV2: POI[] = [
       "de": [
             {
                   "name": "San Marino Adventures",
-                  "text": "San Marino Adventures in Ca Chiaro ist ein Kletter- und Erlebnispark für Familien.",
+                  "text": "Der Abenteuerpark mit Seilgarten und Ziplines im Wald oberhalb von Ca Chiaro.",
                   "category": "family",
                   "coords": [
                         12.429577,
@@ -1953,7 +1953,7 @@ export const sanmarinoCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "San Marino Adventures",
-                  "text": "A Ca Chiaro-i San Marino Adventures egy kalandpark családok számára.",
+                  "text": "Kalandpark kötélpályával és zip-line-okkal a Ca Chiaro feletti erdőben.",
                   "category": "family",
                   "coords": [
                         12.429577,
@@ -2009,7 +2009,7 @@ export const sanmarinoCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "San Marino Adventures",
-                  "text": "San Marino Adventures din Ca Chiaro este un parc de aventură pentru familii.",
+                  "text": "Parcul de aventuri cu trasee cu frânghii și tiroliene în pădurea deasupra Ca Chiaro.",
                   "category": "family",
                   "coords": [
                         12.429577,
@@ -2065,7 +2065,7 @@ export const sanmarinoCitiesV2: POI[] = [
       "en": [
             {
                   "name": "San Marino Adventures",
-                  "text": "San Marino Adventures in Ca Chiaro is an adventure park for families.",
+                  "text": "An adventure park with zip lines and rope courses set in the forest above Ca Chiaro.",
                   "category": "family",
                   "coords": [
                         12.429577,
@@ -2397,7 +2397,448 @@ export const sanmarinoCitiesV2: POI[] = [
     image: "/poi-images/sanmarino-ca-dei-lanci-cities-v2.webp",
   },
   {
-    id: "sanmarino-ca-gallo-cities-v2", "sights": {"de": [{"name": "Museo delle Armi Antiche", "text": "Ein Museum in Cà Gallo, das historische Waffen und Rüstungen ausstellt.", "category": "museum", "coords": [12.451417, 43.932533]}, {"name": "Torre del Montale", "text": "Der Montale-Turm ist der dritte der drei Wehrtürme von San Marino.", "category": "castle", "coords": [12.452474, 43.92999]}, {"name": "Monte San Cristoforo", "text": "Die natürliche Erhebung des Monte San Cristoforo ragt in der Nähe von Ca Gallo in San Marino in die Höhe. Naturfreunde erwartet an diesem Berggipfel eine friedliche Umgebung mit reizvollen Ausblicken.", "category": "natural", "coords": [12.463921, 43.907142]}, {"name": "Monte Carlo", "text": "Ein Gipfel in der Republik San Marino in der Nähe von Cà Gallo.", "category": "natural", "coords": [12.455609, 43.914876]}, {"name": "Monte della Mandra", "text": "Eine Anhöhe in der Region um Cà Gallo.", "category": "natural", "coords": [12.472098, 43.919408]}, {"name": "Monte Pulito", "text": "Ein Hügel in San Marino, bekannt als Ort einer Schlacht im Zweiten Weltkrieg.", "category": "natural", "coords": [12.490298, 43.931233]}, {"name": "Serbatoio da plastilina", "text": "Eine Kunstinstallation in Form eines Panzers in Cà Gallo.", "category": "landmark", "coords": [12.450535, 43.933568]}, {"name": "Rovine di un fortilizio medievale", "text": "Überreste einer mittelalterlichen Befestigungsanlage in Cà Gallo.", "category": "historical", "coords": [12.4478, 43.911381]}, {"name": "Cavallo", "text": "Ein Denkmal in Cà Gallo.", "category": "historical", "coords": [12.448703, 43.931899]}, {"name": "Passo delle Streghe", "text": "Ein Aussichtspunkt in Cà Gallo mit weitem Blick über die Landschaft.", "category": "natural", "coords": [12.449764, 43.934771]}, {"name": "L’elettromotrice \"AB-03\"", "text": "Ein historisches Schienenfahrzeug, das in Cà Gallo ausgestellt ist.", "category": "landmark", "coords": [12.45034, 43.930147]}, {"name": "Kursaal Sala Congressi", "text": "Ein Veranstaltungs- und Kulturzentrum in Cà Gallo.", "category": "cultural", "coords": [12.452055, 43.928347]}], "hu": [{"name": "Museo delle Armi Antiche", "text": "Történelmi fegyvereket és páncélokat bemutató múzeum Cà Gallo településen.", "category": "museum", "coords": [12.451417, 43.932533]}, {"name": "Torre del Montale", "text": "A Montale-torony San Marino három védőtornya közül a harmadik.", "category": "castle", "coords": [12.452474, 43.92999]}, {"name": "Monte San Cristoforo", "text": "A Monte San Cristoforo hegycsúcsa a San Marino-i Ca Gallo közelében emelkedik a táj fölé. A természetkedvelők békés hegyvidéki környezetre és festői kilátásra számíthatnak ezen a természeti helyszínen.", "category": "natural", "coords": [12.463921, 43.907142]}, {"name": "Monte Carlo", "text": "Hegycsúcs San Marino Köztársaságban, Cà Gallo közelében.", "category": "natural", "coords": [12.455609, 43.914876]}, {"name": "Monte della Mandra", "text": "Kiemelkedő pont Cà Gallo környékén.", "category": "natural", "coords": [12.472098, 43.919408]}, {"name": "Monte Pulito", "text": "Domb San Marinóban, amely egy második világháborús csata helyszíneként ismert.", "category": "natural", "coords": [12.490298, 43.931233]}, {"name": "Serbatoio da plastilina", "text": "Tank alakú művészeti installáció Cà Gallo településen.", "category": "landmark", "coords": [12.450535, 43.933568]}, {"name": "Rovine di un fortilizio medievale", "text": "Középkori erődítmény maradványai Cà Gallo településen.", "category": "historical", "coords": [12.4478, 43.911381]}, {"name": "Cavallo", "text": "Emlékmű Cà Gallo településen.", "category": "historical", "coords": [12.448703, 43.931899]}, {"name": "Passo delle Streghe", "text": "Kilátópont Cà Gallo településen, széles kilátással a tájra.", "category": "natural", "coords": [12.449764, 43.934771]}, {"name": "L’elettromotrice \"AB-03\"", "text": "Cà Gallo településen kiállított történelmi vasúti jármű.", "category": "landmark", "coords": [12.45034, 43.930147]}, {"name": "Kursaal Sala Congressi", "text": "Rendezvény- és kulturális központ Cà Gallo településen.", "category": "cultural", "coords": [12.452055, 43.928347]}], "ro": [{"name": "Museo delle Armi Antiche", "text": "Un muzeu în Cà Gallo care expune arme și armuri istorice.", "category": "museum", "coords": [12.451417, 43.932533]}, {"name": "Torre del Montale", "text": "Turnul Montale este al treilea dintre cele drei turnuri de apărare din San Marino.", "category": "castle", "coords": [12.452474, 43.92999]}, {"name": "Monte San Cristoforo", "text": "Înălțimea naturală Monte San Cristoforo se ridică în apropiere de zona Ca Gallo din San Marino. Entuziaștii naturii se pot aștepta la o atmosferă montană liniștită și priveliști atractive pe acest vârf.", "category": "natural", "coords": [12.463921, 43.907142]}, {"name": "Monte Carlo", "text": "Un vârf în Republica San Marino, situat lângă Cà Gallo.", "category": "natural", "coords": [12.455609, 43.914876]}, {"name": "Monte della Mandra", "text": "O colină în regiunea din jurul localității Cà Gallo.", "category": "natural", "coords": [12.472098, 43.919408]}, {"name": "Monte Pulito", "text": "Un deal din San Marino, cunoscut ca locul unei bătălii din Al Doilea Război Mondial.", "category": "natural", "coords": [12.490298, 43.931233]}, {"name": "Serbatoio da plastilina", "text": "O instalație artistică sub formă de tanc în Cà Gallo.", "category": "landmark", "coords": [12.450535, 43.933568]}, {"name": "Rovine di un fortilizio medievale", "text": "Rămășițele unei fortificații medievale în Cà Gallo.", "category": "historical", "coords": [12.4478, 43.911381]}, {"name": "Cavallo", "text": "Un monument situat în Cà Gallo.", "category": "historical", "coords": [12.448703, 43.931899]}, {"name": "Passo delle Streghe", "text": "Un punct de belvedere în Cà Gallo, oferind o vedere largă asupra peisajului.", "category": "natural", "coords": [12.449764, 43.934771]}, {"name": "L’elettromotrice \"AB-03\"", "text": "Un vehicul feroviar istoric expus în Cà Gallo.", "category": "landmark", "coords": [12.45034, 43.930147]}, {"name": "Kursaal Sala Congressi", "text": "Un centru de evenimente și cultură situat în Cà Gallo.", "category": "cultural", "coords": [12.452055, 43.928347]}], "en": [{"name": "Sammarinese Museum of Ancient Arms", "text": "A museum in Cà Gallo exhibiting historical weapons and armor.", "category": "museum", "coords": [12.451417, 43.932533]}, {"name": "Torre del Montale", "text": "Montale Tower is the third of the three defensive towers of San Marino.", "category": "castle", "coords": [12.452474, 43.92999]}, {"name": "Monte San Cristoforo", "text": "The natural elevation of Monte San Cristoforo rises near the area of Ca Gallo in San Marino. Nature enthusiasts can expect scenic views and a peaceful mountain environment at this peak.", "category": "natural", "coords": [12.463921, 43.907142]}, {"name": "Monte Carlo", "text": "A peak in the Republic of San Marino, located near Cà Gallo.", "category": "natural", "coords": [12.455609, 43.914876]}, {"name": "Monte della Mandra", "text": "An elevation in the region around Cà Gallo.", "category": "natural", "coords": [12.472098, 43.919408]}, {"name": "Monte Pulito", "text": "A hill in San Marino, known as the site of a World War II battle.", "category": "natural", "coords": [12.490298, 43.931233]}, {"name": "Tank from plasticine", "text": "An art installation in the shape of a tank in Cà Gallo.", "category": "landmark", "coords": [12.450535, 43.933568]}, {"name": "Rovine di un fortilizio medievale", "text": "Remains of a medieval fortification in Cà Gallo.", "category": "historical", "coords": [12.4478, 43.911381]}, {"name": "Cavallo", "text": "A monument located in Cà Gallo.", "category": "historical", "coords": [12.448703, 43.931899]}, {"name": "The Witches Path", "text": "A viewpoint in Cà Gallo offering a broad view of the landscape.", "category": "natural", "coords": [12.449764, 43.934771]}, {"name": "L’elettromotrice \"AB-03\"", "text": "A historical rail vehicle on display in Cà Gallo.", "category": "landmark", "coords": [12.45034, 43.930147]}, {"name": "Kursaal Sala Congressi", "text": "An events and arts centre located in Cà Gallo.", "category": "cultural", "coords": [12.452055, 43.928347]}]},
+    id: "sanmarino-ca-gallo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo delle Armi Antiche",
+                  "text": "Ein Museum in Cà Gallo, das historische Waffen und Rüstungen ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        12.451417,
+                        43.932533
+                  ]
+            },
+            {
+                  "name": "Torre del Montale",
+                  "text": "Der Montale-Turm ist der dritte der drei Wehrtürme von San Marino.",
+                  "category": "castle",
+                  "coords": [
+                        12.452474,
+                        43.92999
+                  ]
+            },
+            {
+                  "name": "Monte San Cristoforo",
+                  "text": "Die natürliche Erhebung des Monte San Cristoforo ragt in der Nähe von Ca Gallo in San Marino in die Höhe. Naturfreunde erwartet an diesem Berggipfel eine friedliche Umgebung mit reizvollen Ausblicken.",
+                  "category": "natural",
+                  "coords": [
+                        12.463921,
+                        43.907142
+                  ]
+            },
+            {
+                  "name": "Monte Carlo",
+                  "text": "Ein Gipfel in der Republik San Marino in der Nähe von Cà Gallo.",
+                  "category": "natural",
+                  "coords": [
+                        12.455609,
+                        43.914876
+                  ]
+            },
+            {
+                  "name": "Monte della Mandra",
+                  "text": "Hügel Monte della Mandra in Ca Gallo, San Marino.",
+                  "category": "natural",
+                  "coords": [
+                        12.472098,
+                        43.919408
+                  ]
+            },
+            {
+                  "name": "Monte Pulito",
+                  "text": "Ein Hügel in San Marino, bekannt als Ort einer Schlacht im Zweiten Weltkrieg.",
+                  "category": "natural",
+                  "coords": [
+                        12.490298,
+                        43.931233
+                  ]
+            },
+            {
+                  "name": "Serbatoio da plastilina",
+                  "text": "Eine Kunstinstallation in Form eines Panzers in Cà Gallo.",
+                  "category": "landmark",
+                  "coords": [
+                        12.450535,
+                        43.933568
+                  ]
+            },
+            {
+                  "name": "Rovine di un fortilizio medievale",
+                  "text": "Die Ruinen einer mittelalterlichen Festung auf einem Hügel mit Blick über Ca Gallo.",
+                  "category": "historical",
+                  "coords": [
+                        12.4478,
+                        43.911381
+                  ]
+            },
+            {
+                  "name": "Cavallo",
+                  "text": "Die bronzene Pferdestatue auf dem Hauptplatz von Ca Gallo.",
+                  "category": "historical",
+                  "coords": [
+                        12.448703,
+                        43.931899
+                  ]
+            },
+            {
+                  "name": "Passo delle Streghe",
+                  "text": "Ein Aussichtspunkt in Cà Gallo mit weitem Blick über die Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        12.449764,
+                        43.934771
+                  ]
+            },
+            {
+                  "name": "L’elettromotrice \"AB-03\"",
+                  "text": "Der historische Elektrotriebwagen AB-03, ausgestellt am Bahnhof von Ca Gallo.",
+                  "category": "landmark",
+                  "coords": [
+                        12.45034,
+                        43.930147
+                  ]
+            },
+            {
+                  "name": "Kursaal Sala Congressi",
+                  "text": "Das ursprünglich als Kurhaus erbaute Kongresszentrum im Zentrum von Ca Gallo.",
+                  "category": "cultural",
+                  "coords": [
+                        12.452055,
+                        43.928347
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo delle Armi Antiche",
+                  "text": "Történelmi fegyvereket és páncélokat bemutató múzeum Cà Gallo településen.",
+                  "category": "museum",
+                  "coords": [
+                        12.451417,
+                        43.932533
+                  ]
+            },
+            {
+                  "name": "Torre del Montale",
+                  "text": "A Montale-torony San Marino három védőtornya közül a harmadik.",
+                  "category": "castle",
+                  "coords": [
+                        12.452474,
+                        43.92999
+                  ]
+            },
+            {
+                  "name": "Monte San Cristoforo",
+                  "text": "A Monte San Cristoforo hegycsúcsa a San Marino-i Ca Gallo közelében emelkedik a táj fölé. A természetkedvelők békés hegyvidéki környezetre és festői kilátásra számíthatnak ezen a természeti helyszínen.",
+                  "category": "natural",
+                  "coords": [
+                        12.463921,
+                        43.907142
+                  ]
+            },
+            {
+                  "name": "Monte Carlo",
+                  "text": "Hegycsúcs San Marino Köztársaságban, Cà Gallo közelében.",
+                  "category": "natural",
+                  "coords": [
+                        12.455609,
+                        43.914876
+                  ]
+            },
+            {
+                  "name": "Monte della Mandra",
+                  "text": "Monte della Mandra domb Ca Gallóban, San Marinóban.",
+                  "category": "natural",
+                  "coords": [
+                        12.472098,
+                        43.919408
+                  ]
+            },
+            {
+                  "name": "Monte Pulito",
+                  "text": "Domb San Marinóban, amely egy második világháborús csata helyszíneként ismert.",
+                  "category": "natural",
+                  "coords": [
+                        12.490298,
+                        43.931233
+                  ]
+            },
+            {
+                  "name": "Serbatoio da plastilina",
+                  "text": "Tank alakú művészeti installáció Cà Gallo településen.",
+                  "category": "landmark",
+                  "coords": [
+                        12.450535,
+                        43.933568
+                  ]
+            },
+            {
+                  "name": "Rovine di un fortilizio medievale",
+                  "text": "Egy középkori erőd romjai egy dombon, amely Ca Gallóra néz.",
+                  "category": "historical",
+                  "coords": [
+                        12.4478,
+                        43.911381
+                  ]
+            },
+            {
+                  "name": "Cavallo",
+                  "text": "A bronz lószobor Ca Gallo főterén.",
+                  "category": "historical",
+                  "coords": [
+                        12.448703,
+                        43.931899
+                  ]
+            },
+            {
+                  "name": "Passo delle Streghe",
+                  "text": "Kilátópont Cà Gallo településen, széles kilátással a tájra.",
+                  "category": "natural",
+                  "coords": [
+                        12.449764,
+                        43.934771
+                  ]
+            },
+            {
+                  "name": "L’elettromotrice \"AB-03\"",
+                  "text": "Az AB-03 történelmi villamos motorkocsi, kiállítva a Ca Gallo-i vasútállomáson.",
+                  "category": "landmark",
+                  "coords": [
+                        12.45034,
+                        43.930147
+                  ]
+            },
+            {
+                  "name": "Kursaal Sala Congressi",
+                  "text": "Az eredetileg gyógyintézetként épült kongresszusi központ Ca Gallo központjában.",
+                  "category": "cultural",
+                  "coords": [
+                        12.452055,
+                        43.928347
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo delle Armi Antiche",
+                  "text": "Un muzeu în Cà Gallo care expune arme și armuri istorice.",
+                  "category": "museum",
+                  "coords": [
+                        12.451417,
+                        43.932533
+                  ]
+            },
+            {
+                  "name": "Torre del Montale",
+                  "text": "Turnul Montale este al treilea dintre cele drei turnuri de apărare din San Marino.",
+                  "category": "castle",
+                  "coords": [
+                        12.452474,
+                        43.92999
+                  ]
+            },
+            {
+                  "name": "Monte San Cristoforo",
+                  "text": "Înălțimea naturală Monte San Cristoforo se ridică în apropiere de zona Ca Gallo din San Marino. Entuziaștii naturii se pot aștepta la o atmosferă montană liniștită și priveliști atractive pe acest vârf.",
+                  "category": "natural",
+                  "coords": [
+                        12.463921,
+                        43.907142
+                  ]
+            },
+            {
+                  "name": "Monte Carlo",
+                  "text": "Un vârf în Republica San Marino, situat lângă Cà Gallo.",
+                  "category": "natural",
+                  "coords": [
+                        12.455609,
+                        43.914876
+                  ]
+            },
+            {
+                  "name": "Monte della Mandra",
+                  "text": "Dealul Monte della Mandra în Ca Gallo, San Marino.",
+                  "category": "natural",
+                  "coords": [
+                        12.472098,
+                        43.919408
+                  ]
+            },
+            {
+                  "name": "Monte Pulito",
+                  "text": "Un deal din San Marino, cunoscut ca locul unei bătălii din Al Doilea Război Mondial.",
+                  "category": "natural",
+                  "coords": [
+                        12.490298,
+                        43.931233
+                  ]
+            },
+            {
+                  "name": "Serbatoio da plastilina",
+                  "text": "O instalație artistică sub formă de tanc în Cà Gallo.",
+                  "category": "landmark",
+                  "coords": [
+                        12.450535,
+                        43.933568
+                  ]
+            },
+            {
+                  "name": "Rovine di un fortilizio medievale",
+                  "text": "Ruinele unei fortărețe medievale pe un deal cu vedere spre Ca Gallo.",
+                  "category": "historical",
+                  "coords": [
+                        12.4478,
+                        43.911381
+                  ]
+            },
+            {
+                  "name": "Cavallo",
+                  "text": "Statuia ecvestră din bronz din piața principală a orașului Ca Gallo.",
+                  "category": "historical",
+                  "coords": [
+                        12.448703,
+                        43.931899
+                  ]
+            },
+            {
+                  "name": "Passo delle Streghe",
+                  "text": "Un punct de belvedere în Cà Gallo, oferind o vedere largă asupra peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        12.449764,
+                        43.934771
+                  ]
+            },
+            {
+                  "name": "L’elettromotrice \"AB-03\"",
+                  "text": "Automotorul electric istoric AB-03, expus la gara din Ca Gallo.",
+                  "category": "landmark",
+                  "coords": [
+                        12.45034,
+                        43.930147
+                  ]
+            },
+            {
+                  "name": "Kursaal Sala Congressi",
+                  "text": "Centrul de congrese construit inițial ca o stațiune balneară în centrul orașului Ca Gallo.",
+                  "category": "cultural",
+                  "coords": [
+                        12.452055,
+                        43.928347
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sammarinese Museum of Ancient Arms",
+                  "text": "A museum in Cà Gallo exhibiting historical weapons and armor.",
+                  "category": "museum",
+                  "coords": [
+                        12.451417,
+                        43.932533
+                  ]
+            },
+            {
+                  "name": "Torre del Montale",
+                  "text": "Montale Tower is the third of the three defensive towers of San Marino.",
+                  "category": "castle",
+                  "coords": [
+                        12.452474,
+                        43.92999
+                  ]
+            },
+            {
+                  "name": "Monte San Cristoforo",
+                  "text": "The natural elevation of Monte San Cristoforo rises near the area of Ca Gallo in San Marino. Nature enthusiasts can expect scenic views and a peaceful mountain environment at this peak.",
+                  "category": "natural",
+                  "coords": [
+                        12.463921,
+                        43.907142
+                  ]
+            },
+            {
+                  "name": "Monte Carlo",
+                  "text": "A peak in the Republic of San Marino, located near Cà Gallo.",
+                  "category": "natural",
+                  "coords": [
+                        12.455609,
+                        43.914876
+                  ]
+            },
+            {
+                  "name": "Monte della Mandra",
+                  "text": "Monte della Mandra hill in Ca Gallo, San Marino.",
+                  "category": "natural",
+                  "coords": [
+                        12.472098,
+                        43.919408
+                  ]
+            },
+            {
+                  "name": "Monte Pulito",
+                  "text": "A hill in San Marino, known as the site of a World War II battle.",
+                  "category": "natural",
+                  "coords": [
+                        12.490298,
+                        43.931233
+                  ]
+            },
+            {
+                  "name": "Tank from plasticine",
+                  "text": "An art installation in the shape of a tank in Cà Gallo.",
+                  "category": "landmark",
+                  "coords": [
+                        12.450535,
+                        43.933568
+                  ]
+            },
+            {
+                  "name": "Rovine di un fortilizio medievale",
+                  "text": "The ruins of a medieval fortress on a hill overlooking Ca Gallo.",
+                  "category": "historical",
+                  "coords": [
+                        12.4478,
+                        43.911381
+                  ]
+            },
+            {
+                  "name": "Cavallo",
+                  "text": "The bronze horse statue in the main square of Ca Gallo.",
+                  "category": "historical",
+                  "coords": [
+                        12.448703,
+                        43.931899
+                  ]
+            },
+            {
+                  "name": "The Witches Path",
+                  "text": "A viewpoint in Cà Gallo offering a broad view of the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        12.449764,
+                        43.934771
+                  ]
+            },
+            {
+                  "name": "L’elettromotrice \"AB-03\"",
+                  "text": "The vintage electric railcar AB-03 displayed at the Ca Gallo train station.",
+                  "category": "landmark",
+                  "coords": [
+                        12.45034,
+                        43.930147
+                  ]
+            },
+            {
+                  "name": "Kursaal Sala Congressi",
+                  "text": "The congress center, originally built as a spa house, in the center of Ca Gallo.",
+                  "category": "cultural",
+                  "coords": [
+                        12.452055,
+                        43.928347
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SM",
     name: { de: "Cà Gallo", hu: "Cà Gallo", ro: "Cà Gallo", en: "Cà Gallo" },
@@ -2455,7 +2896,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte San Cristoforo",
-                  "text": "Der Monte San Cristoforo ist ein markanter Berggipfel in der Region Cà Giangi.",
+                  "text": "Hügel Monte San Cristoforo in Ca Giangi, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.463921,
@@ -2473,7 +2914,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte della Mandra",
-                  "text": "Der Monte della Mandra ist eine natürliche Erhebung in der Nähe von Cà Giangi.",
+                  "text": "Hügel Monte della Mandra in Ca Giangi, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.472098,
@@ -2500,7 +2941,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Kursaal Sala Congressi",
-                  "text": "Das Kursaal ist ein modernes Kongress- und Kulturzentrum in Cà Giangi.",
+                  "text": "Das Kongresszentrum mit Glasfassade im Geschäftsviertel von Ca Giangi.",
                   "category": "cultural",
                   "coords": [
                         12.452055,
@@ -2520,7 +2961,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte San Cristoforo",
-                  "text": "A Monte San Cristoforo egy jellegzetes hegycsúcs Cà Giangi környékén.",
+                  "text": "Monte San Cristoforo domb Ca Giangiban, San Marinóban.",
                   "category": "natural",
                   "coords": [
                         12.463921,
@@ -2538,7 +2979,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte della Mandra",
-                  "text": "A Monte della Mandra egy természetes magaslat Cà Giangi közelében.",
+                  "text": "Monte della Mandra domb Ca Giangiban, San Marinóban.",
                   "category": "natural",
                   "coords": [
                         12.472098,
@@ -2565,7 +3006,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Kursaal Sala Congressi",
-                  "text": "A Kursaal egy modern kongresszusi és kulturális központ Cà Giangi területén.",
+                  "text": "Az üveg homlokzatú kongresszusi központ Ca Giangi üzleti negyedében.",
                   "category": "cultural",
                   "coords": [
                         12.452055,
@@ -2585,7 +3026,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte San Cristoforo",
-                  "text": "Monte San Cristoforo este un vârf muntos proeminent din regiunea Cà Giangi.",
+                  "text": "Dealul Monte San Cristoforo în Ca Giangi, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.463921,
@@ -2603,7 +3044,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte della Mandra",
-                  "text": "Monte della Mandra este o ridicătură naturală situată în apropiere de Cà Giangi.",
+                  "text": "Dealul Monte della Mandra în Ca Giangi, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.472098,
@@ -2630,7 +3071,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Kursaal Sala Congressi",
-                  "text": "Kursaal este un centru modern de congrese și cultură din Cà Giangi.",
+                  "text": "Centrul de congrese cu fațadă de sticlă din cartierul de afaceri Ca Giangi.",
                   "category": "cultural",
                   "coords": [
                         12.452055,
@@ -2650,7 +3091,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte San Cristoforo",
-                  "text": "Monte San Cristoforo is a prominent mountain peak in the Cà Giangi region.",
+                  "text": "Monte San Cristoforo hill in Ca Giangi, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.463921,
@@ -2668,7 +3109,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte della Mandra",
-                  "text": "Monte della Mandra is a natural elevation located near Cà Giangi.",
+                  "text": "Monte della Mandra hill in Ca Giangi, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.472098,
@@ -2695,7 +3136,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Kursaal Sala Congressi",
-                  "text": "The Kursaal is a modern congress and arts centre in Cà Giangi.",
+                  "text": "The glass-fronted congress center in the business district of Ca Giangi.",
                   "category": "cultural",
                   "coords": [
                         12.452055,
@@ -2748,7 +3189,196 @@ export const sanmarinoCitiesV2: POI[] = [
     image: "/poi-images/sanmarino-ca-giangi-cities-v2.webp",
   },
   {
-    id: "sanmarino-ca-guerino-cities-v2", "sights": {"de": [{"name": "Monte San Cristoforo", "text": "Der markante Berggipfel Monte San Cristoforo befindet sich unweit von Ca Guerino in San Marino. Er ist ein hervorragendes Ausflugsziel für alle, die die örtliche Naturlandschaft erkunden möchten.", "category": "natural", "coords": [12.463921, 43.907142]}, {"name": "Monte Carlo", "text": "Der Monte Carlo ist ein natürlicher Berggipfel in der Gegend von Ca Guerino in San Marino. Besucher können hier die frische Luft genießen und das raue Bergterrain der Region erleben.", "category": "natural", "coords": [12.455609, 43.914876]}, {"name": "Monte della Mandra", "text": "Der Monte della Mandra überragt das Gebiet von Ca Guerino als markanter Berggipfel in San Marino. Er bietet Wanderern, die auf der Suche nach ruhigen Pfaden und weiten Ausblicken sind, ein lohnendes Naturerlebnis.", "category": "natural", "coords": [12.472098, 43.919408]}, {"name": "Monte Pulito", "text": "Der Berggipfel des Monte Pulito ist ein natürliches Highlight in der Nähe von Ca Guerino in San Marino. Wer seine Hänge erkundet, findet eine unberührte Umgebung vor, die sich ideal für Naturspaziergänge eignet.", "category": "natural", "coords": [12.490298, 43.931233]}, {"name": "Rovine di un fortilizio medievale", "text": "Ruinen einer mittelalterlichen Festung bei Cà Guerino.", "category": "historical", "coords": [12.4478, 43.911381]}], "hu": [{"name": "Monte San Cristoforo", "text": "A Ca Guerino közelében található Monte San Cristoforo egy figyelemre méltó hegycsúcs San Marinóban. Kiváló szabadtéri célpont azok számára, akik a helyi természeti tájat szeretnék felfedezni.", "category": "natural", "coords": [12.463921, 43.907142]}, {"name": "Monte Carlo", "text": "A Monte Carlo egy gyönyörű természeti hegycsúcs, amely a San Marino-i Ca Guerino közelében található. A látogatók élvezhetik a friss levegőt és a régió jellegzetes hegyvidéki terepét.", "category": "natural", "coords": [12.455609, 43.914876]}, {"name": "Monte della Mandra", "text": "A Ca Guerino területére néző Monte della Mandra egy kiemelkedő természeti csúcs San Marinóban. Kellemes élményt nyújt a csendes ösvényeket és panorámás kilátást kereső túrázóknak.", "category": "natural", "coords": [12.472098, 43.919408]}, {"name": "Monte Pulito", "text": "A Monte Pulito hegycsúcsa egy természeti fénypont a San Marino-i Ca Guerino közelében. A lejtőit felfedezők egy érintetlen környezetet találhatnak, amely tökéletes a természetjáráshoz.", "category": "natural", "coords": [12.490298, 43.931233]}, {"name": "Rovine di un fortilizio medievale", "text": "Középkori erőd romjai Cà Guerino közelében.", "category": "historical", "coords": [12.4478, 43.911381]}], "ro": [{"name": "Monte San Cristoforo", "text": "Situat aproape de Ca Guerino, Monte San Cristoforo este un vârf montan remarcabil din San Marino. Acesta servește drept o destinație excelentă în aer liber pentru cei care doresc să exploreze peisajul natural local.", "category": "natural", "coords": [12.463921, 43.907142]}, {"name": "Monte Carlo", "text": "Monte Carlo este un vârf natural pitoresc, situat în apropiere de Ca Guerino, San Marino. Vizitatorii pot respira aerul curat și se pot bucura de terenul montan accidentat, specific regiunii.", "category": "natural", "coords": [12.455609, 43.914876]}, {"name": "Monte della Mandra", "text": "Dominând zona Ca Guerino, Monte della Mandra este un vârf natural proeminent din San Marino. Acesta oferă o experiență plină de satisfacții drumeților care caută poteci liniștite și priveliști panoramice.", "category": "natural", "coords": [12.472098, 43.919408]}, {"name": "Monte Pulito", "text": "Vârful montan Monte Pulito este o atracție naturală lângă Ca Guerino din San Marino. Cei care îi explorează pantele vor găsi un mediu intact, perfect pentru plimbări în natură.", "category": "natural", "coords": [12.490298, 43.931233]}, {"name": "Rovine di un fortilizio medievale", "text": "Ruinele unei fortărețe medievale lângă Cà Guerino.", "category": "historical", "coords": [12.4478, 43.911381]}], "en": [{"name": "Monte San Cristoforo", "text": "Situated close to Ca Guerino, Monte San Cristoforo is a notable mountain peak within San Marino. It serves as a great outdoor destination for those looking to explore the local natural landscape.", "category": "natural", "coords": [12.463921, 43.907142]}, {"name": "Monte Carlo", "text": "Monte Carlo is a beautiful natural peak located near Ca Guerino in San Marino. Visitors can take in the fresh air and enjoy the rugged mountain terrain characteristics of the region.", "category": "natural", "coords": [12.455609, 43.914876]}, {"name": "Monte della Mandra", "text": "Overlooking the Ca Guerino area, Monte della Mandra stands as a prominent natural peak in San Marino. It provides a rewarding experience for hikers seeking quiet paths and sweeping vistas.", "category": "natural", "coords": [12.472098, 43.919408]}, {"name": "Monte Pulito", "text": "The mountain summit of Monte Pulito is a natural highlight near Ca Guerino in San Marino. Those exploring its slopes will find an untouched environment perfect for nature walks.", "category": "natural", "coords": [12.490298, 43.931233]}, {"name": "Rovine di un fortilizio medievale", "text": "Ruins of a medieval fortress near Cà Guerino.", "category": "historical", "coords": [12.4478, 43.911381]}]},
+    id: "sanmarino-ca-guerino-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monte San Cristoforo",
+                  "text": "Der markante Berggipfel Monte San Cristoforo befindet sich unweit von Ca Guerino in San Marino. Er ist ein hervorragendes Ausflugsziel für alle, die die örtliche Naturlandschaft erkunden möchten.",
+                  "category": "natural",
+                  "coords": [
+                        12.463921,
+                        43.907142
+                  ]
+            },
+            {
+                  "name": "Monte Carlo",
+                  "text": "Der Monte Carlo ist ein natürlicher Berggipfel in der Gegend von Ca Guerino in San Marino. Besucher können hier die frische Luft genießen und das raue Bergterrain der Region erleben.",
+                  "category": "natural",
+                  "coords": [
+                        12.455609,
+                        43.914876
+                  ]
+            },
+            {
+                  "name": "Monte della Mandra",
+                  "text": "Der Monte della Mandra überragt das Gebiet von Ca Guerino als markanter Berggipfel in San Marino. Er bietet Wanderern, die auf der Suche nach ruhigen Pfaden und weiten Ausblicken sind, ein lohnendes Naturerlebnis.",
+                  "category": "natural",
+                  "coords": [
+                        12.472098,
+                        43.919408
+                  ]
+            },
+            {
+                  "name": "Monte Pulito",
+                  "text": "Der Berggipfel des Monte Pulito ist ein natürliches Highlight in der Nähe von Ca Guerino in San Marino. Wer seine Hänge erkundet, findet eine unberührte Umgebung vor, die sich ideal für Naturspaziergänge eignet.",
+                  "category": "natural",
+                  "coords": [
+                        12.490298,
+                        43.931233
+                  ]
+            },
+            {
+                  "name": "Rovine di un fortilizio medievale",
+                  "text": "Die Überreste einer mittelalterlichen Befestigungsanlage auf einem felsigen Hügel bei Ca Guerino.",
+                  "category": "historical",
+                  "coords": [
+                        12.4478,
+                        43.911381
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monte San Cristoforo",
+                  "text": "A Ca Guerino közelében található Monte San Cristoforo egy figyelemre méltó hegycsúcs San Marinóban. Kiváló szabadtéri célpont azok számára, akik a helyi természeti tájat szeretnék felfedezni.",
+                  "category": "natural",
+                  "coords": [
+                        12.463921,
+                        43.907142
+                  ]
+            },
+            {
+                  "name": "Monte Carlo",
+                  "text": "A Monte Carlo egy gyönyörű természeti hegycsúcs, amely a San Marino-i Ca Guerino közelében található. A látogatók élvezhetik a friss levegőt és a régió jellegzetes hegyvidéki terepét.",
+                  "category": "natural",
+                  "coords": [
+                        12.455609,
+                        43.914876
+                  ]
+            },
+            {
+                  "name": "Monte della Mandra",
+                  "text": "A Ca Guerino területére néző Monte della Mandra egy kiemelkedő természeti csúcs San Marinóban. Kellemes élményt nyújt a csendes ösvényeket és panorámás kilátást kereső túrázóknak.",
+                  "category": "natural",
+                  "coords": [
+                        12.472098,
+                        43.919408
+                  ]
+            },
+            {
+                  "name": "Monte Pulito",
+                  "text": "A Monte Pulito hegycsúcsa egy természeti fénypont a San Marino-i Ca Guerino közelében. A lejtőit felfedezők egy érintetlen környezetet találhatnak, amely tökéletes a természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        12.490298,
+                        43.931233
+                  ]
+            },
+            {
+                  "name": "Rovine di un fortilizio medievale",
+                  "text": "Egy középkori erődítmény maradványai egy sziklás dombon Ca Guerino közelében.",
+                  "category": "historical",
+                  "coords": [
+                        12.4478,
+                        43.911381
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monte San Cristoforo",
+                  "text": "Situat aproape de Ca Guerino, Monte San Cristoforo este un vârf montan remarcabil din San Marino. Acesta servește drept o destinație excelentă în aer liber pentru cei care doresc să exploreze peisajul natural local.",
+                  "category": "natural",
+                  "coords": [
+                        12.463921,
+                        43.907142
+                  ]
+            },
+            {
+                  "name": "Monte Carlo",
+                  "text": "Monte Carlo este un vârf natural pitoresc, situat în apropiere de Ca Guerino, San Marino. Vizitatorii pot respira aerul curat și se pot bucura de terenul montan accidentat, specific regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        12.455609,
+                        43.914876
+                  ]
+            },
+            {
+                  "name": "Monte della Mandra",
+                  "text": "Dominând zona Ca Guerino, Monte della Mandra este un vârf natural proeminent din San Marino. Acesta oferă o experiență plină de satisfacții drumeților care caută poteci liniștite și priveliști panoramice.",
+                  "category": "natural",
+                  "coords": [
+                        12.472098,
+                        43.919408
+                  ]
+            },
+            {
+                  "name": "Monte Pulito",
+                  "text": "Vârful montan Monte Pulito este o atracție naturală lângă Ca Guerino din San Marino. Cei care îi explorează pantele vor găsi un mediu intact, perfect pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        12.490298,
+                        43.931233
+                  ]
+            },
+            {
+                  "name": "Rovine di un fortilizio medievale",
+                  "text": "Vestigiile unei fortificații medievale pe un deal stâncos lângă Ca Guerino.",
+                  "category": "historical",
+                  "coords": [
+                        12.4478,
+                        43.911381
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monte San Cristoforo",
+                  "text": "Situated close to Ca Guerino, Monte San Cristoforo is a notable mountain peak within San Marino. It serves as a great outdoor destination for those looking to explore the local natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        12.463921,
+                        43.907142
+                  ]
+            },
+            {
+                  "name": "Monte Carlo",
+                  "text": "Monte Carlo is a beautiful natural peak located near Ca Guerino in San Marino. Visitors can take in the fresh air and enjoy the rugged mountain terrain characteristics of the region.",
+                  "category": "natural",
+                  "coords": [
+                        12.455609,
+                        43.914876
+                  ]
+            },
+            {
+                  "name": "Monte della Mandra",
+                  "text": "Overlooking the Ca Guerino area, Monte della Mandra stands as a prominent natural peak in San Marino. It provides a rewarding experience for hikers seeking quiet paths and sweeping vistas.",
+                  "category": "natural",
+                  "coords": [
+                        12.472098,
+                        43.919408
+                  ]
+            },
+            {
+                  "name": "Monte Pulito",
+                  "text": "The mountain summit of Monte Pulito is a natural highlight near Ca Guerino in San Marino. Those exploring its slopes will find an untouched environment perfect for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        12.490298,
+                        43.931233
+                  ]
+            },
+            {
+                  "name": "Rovine di un fortilizio medievale",
+                  "text": "The remains of a medieval fortification on a rocky hill near Ca Guerino.",
+                  "category": "historical",
+                  "coords": [
+                        12.4478,
+                        43.911381
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SM",
     name: { de: "Cà Guerino", hu: "Cà Guerino", ro: "Cà Guerino", en: "Cà Guerino" },
@@ -3031,7 +3661,7 @@ export const sanmarinoCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Monte San Cristoforo",
-                  "text": "Der Monte San Cristoforo ist ein markanter Berggipfel in der Nähe von Cà Olivo.",
+                  "text": "Hügel Monte San Cristoforo in Ca Olivo, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.463921,
@@ -3040,7 +3670,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte Carlo",
-                  "text": "Der Monte Carlo ist ein bekannter Berggipfel in der Region Cà Olivo.",
+                  "text": "Hügel Monte Carlo in Ca Olivo, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.455609,
@@ -3049,7 +3679,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte della Mandra",
-                  "text": "Der Monte della Mandra ist eine markante Erhebung bei Cà Olivo.",
+                  "text": "Hügel Monte della Mandra in Ca Olivo, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.472098,
@@ -3060,7 +3690,7 @@ export const sanmarinoCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Monte San Cristoforo",
-                  "text": "A Monte San Cristoforo egy jellegzetes hegycsúcs Cà Olivo közelében.",
+                  "text": "Monte San Cristoforo domb Ca Olivóban, San Marinóban.",
                   "category": "natural",
                   "coords": [
                         12.463921,
@@ -3069,7 +3699,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte Carlo",
-                  "text": "A Monte Carlo egy ismert hegycsúcs Cà Olivo régiójában.",
+                  "text": "Monte Carlo domb Ca Olivóban, San Marinóban.",
                   "category": "natural",
                   "coords": [
                         12.455609,
@@ -3078,7 +3708,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte della Mandra",
-                  "text": "A Monte della Mandra egy jellegzetes magaslat Cà Olivo közelében.",
+                  "text": "Monte della Mandra domb Ca Olivóban, San Marinóban.",
                   "category": "natural",
                   "coords": [
                         12.472098,
@@ -3089,7 +3719,7 @@ export const sanmarinoCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Monte San Cristoforo",
-                  "text": "Monte San Cristoforo este un vârf muntos proeminent din apropiere de Cà Olivo.",
+                  "text": "Dealul Monte San Cristoforo în Ca Olivo, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.463921,
@@ -3098,7 +3728,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte Carlo",
-                  "text": "Monte Carlo este un vârf muntos cunoscut din regiunea Cà Olivo.",
+                  "text": "Dealul Monte Carlo în Ca Olivo, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.455609,
@@ -3107,7 +3737,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte della Mandra",
-                  "text": "Monte della Mandra este o ridicătură proeminentă de lângă Cà Olivo.",
+                  "text": "Dealul Monte della Mandra în Ca Olivo, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.472098,
@@ -3118,7 +3748,7 @@ export const sanmarinoCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Monte San Cristoforo",
-                  "text": "Monte San Cristoforo is a prominent mountain peak located near Cà Olivo.",
+                  "text": "Monte San Cristoforo hill in Ca Olivo, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.463921,
@@ -3127,7 +3757,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte Carlo",
-                  "text": "Monte Carlo is a well-known mountain peak in the Cà Olivo region.",
+                  "text": "Monte Carlo hill in Ca Olivo, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.455609,
@@ -3136,7 +3766,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte della Mandra",
-                  "text": "Monte della Mandra is a prominent elevation near Cà Olivo.",
+                  "text": "Monte della Mandra hill in Ca Olivo, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.472098,
@@ -3319,7 +3949,7 @@ export const sanmarinoCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Parco tematico e Museo dell'Aviazione",
-                  "text": "Ein Luftfahrtmuseum und Themenpark in Caladino.",
+                  "text": "Der Flugzeug-Themenpark mit historischen Hangars und Flugzeugen am Flugplatz Caladino.",
                   "category": "museum",
                   "coords": [
                         12.512724,
@@ -3328,7 +3958,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Maranello Rosso Musei",
-                  "text": "Ein Automobilmuseum in Caladino.",
+                  "text": "Das Museum für Ferrari-Fahrzeuge an der Hauptstraße von Caladino.",
                   "category": "museum",
                   "coords": [
                         12.513067,
@@ -3337,7 +3967,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Chiesa Sant'Andrea",
-                  "text": "Eine Kirche in Caladino.",
+                  "text": "Die Chiesa Sant'Andrea in Caladino ist eine Pfarrkirche, die dem heiligen Andreas geweiht ist.",
                   "category": "religious",
                   "coords": [
                         12.478782,
@@ -3348,7 +3978,7 @@ export const sanmarinoCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Parco tematico e Museo dell'Aviazione",
-                  "text": "Repüléstörténeti múzeum és tematikus park Caladino településen.",
+                  "text": "A repülőgép-tematikus park történelmi hangárokkal és repülőgépekkel a caladinói repülőtéren.",
                   "category": "museum",
                   "coords": [
                         12.512724,
@@ -3357,7 +3987,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Maranello Rosso Musei",
-                  "text": "Autómúzeum Caladino településen.",
+                  "text": "A Ferrari-járművek múzeuma Caladino főútján.",
                   "category": "museum",
                   "coords": [
                         12.513067,
@@ -3366,7 +3996,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Chiesa Sant'Andrea",
-                  "text": "Templom Caladino településen.",
+                  "text": "A Sant'Andrea-templom Caladinóban egy Szent Andrásnak szentelt plébániatemplom.",
                   "category": "religious",
                   "coords": [
                         12.478782,
@@ -3377,7 +4007,7 @@ export const sanmarinoCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Parco tematico e Museo dell'Aviazione",
-                  "text": "Un muzeu al aviației și parc tematic în Caladino.",
+                  "text": "Parcul tematic de aviație cu hangare istorice și aeronave pe aerodromul Caladino.",
                   "category": "museum",
                   "coords": [
                         12.512724,
@@ -3386,7 +4016,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Maranello Rosso Musei",
-                  "text": "Un muzeu de automobile situat în Caladino.",
+                  "text": "Muzeul dedicat mașinilor Ferrari pe strada principală din Caladino.",
                   "category": "museum",
                   "coords": [
                         12.513067,
@@ -3395,7 +4025,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Chiesa Sant'Andrea",
-                  "text": "o biserică situată în Caladino.",
+                  "text": "Biserica Sant'Andrea din Caladino este o biserică parohială dedicată Sfântului Andrei.",
                   "category": "religious",
                   "coords": [
                         12.478782,
@@ -3406,7 +4036,7 @@ export const sanmarinoCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Parco tematico e Museo dell'Aviazione",
-                  "text": "An aviation museum and theme park in Caladino.",
+                  "text": "The aviation theme park with historic hangars and aircraft at Caladino airfield.",
                   "category": "museum",
                   "coords": [
                         12.512724,
@@ -3415,7 +4045,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Maranello Rosso Musei",
-                  "text": "An automobile museum located in Caladino.",
+                  "text": "The museum dedicated to Ferrari cars on the main road in Caladino.",
                   "category": "museum",
                   "coords": [
                         12.513067,
@@ -3424,7 +4054,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Chiesa Sant'Andrea",
-                  "text": "A church located in Caladino.",
+                  "text": "Chiesa Sant'Andrea in Caladino is a parish church dedicated to Saint Andrew.",
                   "category": "religious",
                   "coords": [
                         12.478782,
@@ -3747,7 +4377,628 @@ export const sanmarinoCitiesV2: POI[] = [
     image: "/poi-images/sanmarino-canepa-cities-v2.webp",
   },
   {
-    id: "sanmarino-casole-cities-v2", "sights": {"de": [{"name": "Museo Armi Moderne", "text": "Ein Museum in Casole, das modernen Waffen gewidmet ist.", "category": "museum", "coords": [12.446959, 43.936655]}, {"name": "Museo delle Armi Antiche", "text": "Ein Museum in Casole, das antike Waffen ausstellt.", "category": "museum", "coords": [12.451417, 43.932533]}, {"name": "Museo della Tortura", "text": "Ein Museum in Casole, das historische Folterinstrumente ausstellt.", "category": "museum", "coords": [12.446905, 43.935249]}, {"name": "Castello della Guaita", "text": "Der älteste der drei Türme von San Marino.", "category": "castle", "coords": [12.449286, 43.935224]}, {"name": "Torre del Montale", "text": "Der kleinste der drei Türme auf dem Monte Titano.", "category": "castle", "coords": [12.452474, 43.92999]}, {"name": "San Marino Adventures", "text": "Ein Abenteuerpark in Casole mit Outdoor-Aktivitäten.", "category": "family", "coords": [12.429577, 43.941831]}, {"name": "Museo d'Arte Contemporanea di San Marino", "text": "Eine Galerie in Casole, die moderne und zeitgenössische Kunst ausstellt.", "category": "museum", "coords": [12.445734, 43.937153]}, {"name": "Monte San Cristoforo", "text": "Nahe der Siedlung Casole präsentiert sich der Monte San Cristoforo als markanter Naturgipfel in San Marino. Er lädt Outdoor-Liebhaber dazu ein, die friedliche Höhe und die lokale Flora zu erleben.", "category": "natural", "coords": [12.463921, 43.907142]}, {"name": "Monte Carlo", "text": "Der Naturgipfel des Monte Carlo rund um das Gebiet von Casole ist ein wesentlicher Bestandteil der Landschaft von San Marino. Ein Besuch verspricht eine reizvolle Wanderung und gute Gelegenheiten für die Landschaftsfotografie.", "category": "natural", "coords": [12.455609, 43.914876]}, {"name": "Monte della Mandra", "text": "Als Teil der Naturkulisse in der Nähe von Casole ist der Monte della Mandra ein Berg in San Marino. Er zieht Besucher an, die abseits der belebten Stadtzentren die Nähe zur Natur suchen.", "category": "natural", "coords": [12.472098, 43.919408]}, {"name": "Monte Pulito", "text": "Der majestätische Monte Pulito erhebt sich nahe Casole als reizvoller Naturgipfel in San Marino. Reisende können auf seinen Pfaden wandern, um die frische Luft und den weiten Blick über den Zwergstaat zu genießen.", "category": "natural", "coords": [12.490298, 43.931233]}, {"name": "Serbatoio da plastilina", "text": "Eine interessante Attraktion in Casole.", "category": "landmark", "coords": [12.450535, 43.933568]}, {"name": "Rovine di un fortilizio medievale", "text": "Ruinen einer mittelalterlichen Festung bei Casole.", "category": "historical", "coords": [12.4478, 43.911381]}, {"name": "Cavallo", "text": "Ein Denkmal in Casole.", "category": "historical", "coords": [12.448703, 43.931899]}, {"name": "L’elettromotrice \"AB-03\"", "text": "Ein historischer elektrischer Triebwagen, der in Casole ausgestellt ist.", "category": "landmark", "coords": [12.45034, 43.930147]}, {"name": "Kursaal Sala Congressi", "text": "Ein Zentrum für Kongresse und kulturelle Veranstaltungen in Casole.", "category": "cultural", "coords": [12.452055, 43.928347]}, {"name": "Santuario della Beata Vergine della Consolazione", "text": "Ein religiöses Gebäude in Casole.", "category": "religious", "coords": [12.447424, 43.940522]}], "hu": [{"name": "Museo Armi Moderne", "text": "Modern fegyvereknek szentelt múzeum Casoléban.", "category": "museum", "coords": [12.446959, 43.936655]}, {"name": "Museo delle Armi Antiche", "text": "Antik fegyvereket bemutató múzeum Casoléban.", "category": "museum", "coords": [12.451417, 43.932533]}, {"name": "Museo della Tortura", "text": "Történelmi kínzóeszközöket bemutató múzeum Casoléban.", "category": "museum", "coords": [12.446905, 43.935249]}, {"name": "Castello della Guaita", "text": "San Marino három tornya közül a legrégebbi.", "category": "castle", "coords": [12.449286, 43.935224]}, {"name": "Torre del Montale", "text": "A Monte Titano három tornya közül a legkisebb.", "category": "castle", "coords": [12.452474, 43.92999]}, {"name": "San Marino Adventures", "text": "Kültéri tevékenységeket kínáló kalandpark Casoléban.", "category": "family", "coords": [12.429577, 43.941831]}, {"name": "Museo d'Arte Contemporanea di San Marino", "text": "Modern és kortárs művészetet bemutató galéria Casoléban.", "category": "museum", "coords": [12.445734, 43.937153]}, {"name": "Monte San Cristoforo", "text": "A Casole településhez közeli Monte San Cristoforo egy lenyűgöző természeti csúcsként magasodik San Marinóban. A természet szerelmeseit a csendes magasság és a helyi növényvilág felfedezésére invitálja.", "category": "natural", "coords": [12.463921, 43.907142]}, {"name": "Monte Carlo", "text": "A Casole térségében található Monte Carlo természeti csúcsa San Marino tájképének szerves részét képezi. Az ide látogatók izgalmas túrázásra és kiváló tájképfotózási lehetőségekre számíthatnak.", "category": "natural", "coords": [12.455609, 43.914876]}, {"name": "Monte della Mandra", "text": "A Casole környéki természeti táj részét képező Monte della Mandra egy hegycsúcs San Marinóban. Olyan látogatókat vonz, akik a nyüzsgő városközpontoktól távol szeretnének kapcsolatba lépni a természettel.", "category": "natural", "coords": [12.472098, 43.919408]}, {"name": "Monte Pulito", "text": "A fenséges Monte Pulito a San Marino-i Casole közelében található vonzó természeti csúcs. Az utazók felmászhatnak az ösvényein, hogy élvezzék a szabad levegőt és a törpeállamra nyíló széles kilátást.", "category": "natural", "coords": [12.490298, 43.931233]}, {"name": "Serbatoio da plastilina", "text": "Érdekes látnivaló Casoléban.", "category": "landmark", "coords": [12.450535, 43.933568]}, {"name": "Rovine di un fortilizio medievale", "text": "Középkori erőd romjai Casole közelében.", "category": "historical", "coords": [12.4478, 43.911381]}, {"name": "Cavallo", "text": "Egy emlékmű Casoléban.", "category": "historical", "coords": [12.448703, 43.931899]}, {"name": "L’elettromotrice \"AB-03\"", "text": "Casoléban kiállított történelmi elektromos motorkocsi.", "category": "landmark", "coords": [12.45034, 43.930147]}, {"name": "Kursaal Sala Congressi", "text": "Kongresszusi és kulturális központ Casoléban.", "category": "cultural", "coords": [12.452055, 43.928347]}, {"name": "Santuario della Beata Vergine della Consolazione", "text": "Vallási épület Casoléban.", "category": "religious", "coords": [12.447424, 43.940522]}], "ro": [{"name": "Museo Armi Moderne", "text": "Un muzeu în Casole dedicat armelor moderne.", "category": "museum", "coords": [12.446959, 43.936655]}, {"name": "Museo delle Armi Antiche", "text": "Un muzeu în Casole care expune arme antice.", "category": "museum", "coords": [12.451417, 43.932533]}, {"name": "Museo della Tortura", "text": "Un muzeu în Casole care expune instrumente istorice de tortură.", "category": "museum", "coords": [12.446905, 43.935249]}, {"name": "Castello della Guaita", "text": "Cea mai veche dintre cele trei turnuri din San Marino.", "category": "castle", "coords": [12.449286, 43.935224]}, {"name": "Torre del Montale", "text": "Cel mai mic dintre cele trei turnuri de pe Monte Titano.", "category": "castle", "coords": [12.452474, 43.92999]}, {"name": "San Marino Adventures", "text": "Un parc de aventură din Casole care oferă activități în aer liber.", "category": "family", "coords": [12.429577, 43.941831]}, {"name": "Museo d'Arte Contemporanea di San Marino", "text": "O galerie în Casole care expune artă modernă și contemporană.", "category": "museum", "coords": [12.445734, 43.937153]}, {"name": "Monte San Cristoforo", "text": "Aproape de așezarea Casole, Monte San Cristoforo se prezintă ca un vârf natural impresionant în San Marino. Acesta invită iubitorii de aer liber să experimenteze liniștea altitudinii și flora locală.", "category": "natural", "coords": [12.463921, 43.907142]}, {"name": "Monte Carlo", "text": "Situat în zona Casole, vârful natural Monte Carlo formează o parte integrantă a peisajului din San Marino. O vizită aici promite o drumeție captivantă și oportunități pentru fotografia de peisaj.", "category": "natural", "coords": [12.455609, 43.914876]}, {"name": "Monte della Mandra", "text": "Făcând parte din peisajul natural de lângă Casole, Monte della Mandra este un vârf de munte din San Marino. Atrage vizitatorii care doresc să se conecteze cu natura, departe de centrele urbane aglomerate.", "category": "natural", "coords": [12.472098, 43.919408]}, {"name": "Monte Pulito", "text": "Maiestuosul Monte Pulito se află lângă Casole ca un vârf natural atrăgător în San Marino. Călătorii pot urca pe potecile sale pentru a se bucura de aerul liber și de priveliștile ample asupra microstatului înconjurător.", "category": "natural", "coords": [12.490298, 43.931233]}, {"name": "Serbatoio da plastilina", "text": "O atracție interesantă în Casole.", "category": "landmark", "coords": [12.450535, 43.933568]}, {"name": "Rovine di un fortilizio medievale", "text": "Ruinele unei fortărețe medievale lângă Casole.", "category": "historical", "coords": [12.4478, 43.911381]}, {"name": "Cavallo", "text": "Un monument în Casole.", "category": "historical", "coords": [12.448703, 43.931899]}, {"name": "L’elettromotrice \"AB-03\"", "text": "Un vagon electric istoric expus în Casole.", "category": "landmark", "coords": [12.45034, 43.930147]}, {"name": "Kursaal Sala Congressi", "text": "Un centru pentru congrese și evenimente culturale în Casole.", "category": "cultural", "coords": [12.452055, 43.928347]}, {"name": "Santuario della Beata Vergine della Consolazione", "text": "O clădire religioasă în Casole.", "category": "religious", "coords": [12.447424, 43.940522]}], "en": [{"name": "Museo Armi Moderne", "text": "A museum in Casole dedicated to modern weaponry.", "category": "museum", "coords": [12.446959, 43.936655]}, {"name": "Sammarinese Museum of Ancient Arms", "text": "A museum in Casole displaying ancient weapons.", "category": "museum", "coords": [12.451417, 43.932533]}, {"name": "Museo della Tortura", "text": "A museum in Casole displaying historical torture instruments.", "category": "museum", "coords": [12.446905, 43.935249]}, {"name": "Guaita Castle", "text": "The oldest of the three towers of San Marino.", "category": "castle", "coords": [12.449286, 43.935224]}, {"name": "Torre del Montale", "text": "The smallest of the three towers on Monte Titano.", "category": "castle", "coords": [12.452474, 43.92999]}, {"name": "San Marino Adventures", "text": "An adventure park in Casole offering outdoor activities.", "category": "family", "coords": [12.429577, 43.941831]}, {"name": "National Gallery of Modern and Contemporary Art", "text": "A gallery in Casole exhibiting modern and contemporary art.", "category": "museum", "coords": [12.445734, 43.937153]}, {"name": "Monte San Cristoforo", "text": "Close to the settlement of Casole, Monte San Cristoforo presents itself as a striking natural peak in San Marino. It invites outdoor lovers to experience the tranquil elevation and local flora.", "category": "natural", "coords": [12.463921, 43.907142]}, {"name": "Monte Carlo", "text": "Located around the Casole area, the natural peak of Monte Carlo forms an integral part of San Marino's landscape. A visit here promises an engaging trek and opportunities for landscape photography.", "category": "natural", "coords": [12.455609, 43.914876]}, {"name": "Monte della Mandra", "text": "Forming part of the natural scenery near Casole, Monte della Mandra is a mountain peak within San Marino. It attracts visitors wanting to connect with nature away from the bustling city centers.", "category": "natural", "coords": [12.472098, 43.919408]}, {"name": "Monte Pulito", "text": "The majestic Monte Pulito stands near Casole as an appealing natural peak in San Marino. Travelers can ascend its trails to enjoy the open air and sweeping views of the surrounding microstate.", "category": "natural", "coords": [12.490298, 43.931233]}, {"name": "Tank from plasticine", "text": "An interesting attraction in Casole.", "category": "landmark", "coords": [12.450535, 43.933568]}, {"name": "Rovine di un fortilizio medievale", "text": "Ruins of a medieval fortress near Casole.", "category": "historical", "coords": [12.4478, 43.911381]}, {"name": "Cavallo", "text": "A monument in Casole.", "category": "historical", "coords": [12.448703, 43.931899]}, {"name": "L’elettromotrice \"AB-03\"", "text": "A historical electric railcar displayed in Casole.", "category": "landmark", "coords": [12.45034, 43.930147]}, {"name": "Kursaal Sala Congressi", "text": "A venue for congresses and cultural events in Casole.", "category": "cultural", "coords": [12.452055, 43.928347]}, {"name": "Santuario della Beata Vergine della Consolazione", "text": "A religious building in Casole.", "category": "religious", "coords": [12.447424, 43.940522]}]},
+    id: "sanmarino-casole-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Armi Moderne",
+                  "text": "Museum für moderne Waffen in Casole.",
+                  "category": "museum",
+                  "coords": [
+                        12.446959,
+                        43.936655
+                  ]
+            },
+            {
+                  "name": "Museo delle Armi Antiche",
+                  "text": "Das sammarinesische Museum für alte Waffen in Casole zeigt eine Sammlung von Waffen und Rüstungen aus dem 13. bis 17. Jahrhundert.",
+                  "category": "museum",
+                  "coords": [
+                        12.451417,
+                        43.932533
+                  ]
+            },
+            {
+                  "name": "Museo della Tortura",
+                  "text": "Ein Museum in Casole, das historische Folterinstrumente ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        12.446905,
+                        43.935249
+                  ]
+            },
+            {
+                  "name": "Castello della Guaita",
+                  "text": "Guaita-Burg in Casole, der erste Turm San Marinos.",
+                  "category": "castle",
+                  "coords": [
+                        12.449286,
+                        43.935224
+                  ]
+            },
+            {
+                  "name": "Torre del Montale",
+                  "text": "Der kleinste der drei Türme auf dem Monte Titano.",
+                  "category": "castle",
+                  "coords": [
+                        12.452474,
+                        43.92999
+                  ]
+            },
+            {
+                  "name": "San Marino Adventures",
+                  "text": "Ein Abenteuerpark in Casole mit Outdoor-Aktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            },
+            {
+                  "name": "Museo d'Arte Contemporanea di San Marino",
+                  "text": "Die Nationalgalerie für moderne und zeitgenössische Kunst, untergebracht in einem ehemaligen Kloster in Casole.",
+                  "category": "museum",
+                  "coords": [
+                        12.445734,
+                        43.937153
+                  ]
+            },
+            {
+                  "name": "Monte San Cristoforo",
+                  "text": "Nahe der Siedlung Casole präsentiert sich der Monte San Cristoforo als markanter Naturgipfel in San Marino. Er lädt Outdoor-Liebhaber dazu ein, die friedliche Höhe und die lokale Flora zu erleben.",
+                  "category": "natural",
+                  "coords": [
+                        12.463921,
+                        43.907142
+                  ]
+            },
+            {
+                  "name": "Monte Carlo",
+                  "text": "Der Naturgipfel des Monte Carlo rund um das Gebiet von Casole ist ein wesentlicher Bestandteil der Landschaft von San Marino. Ein Besuch verspricht eine reizvolle Wanderung und gute Gelegenheiten für die Landschaftsfotografie.",
+                  "category": "natural",
+                  "coords": [
+                        12.455609,
+                        43.914876
+                  ]
+            },
+            {
+                  "name": "Monte della Mandra",
+                  "text": "Als Teil der Naturkulisse in der Nähe von Casole ist der Monte della Mandra ein Berg in San Marino. Er zieht Besucher an, die abseits der belebten Stadtzentren die Nähe zur Natur suchen.",
+                  "category": "natural",
+                  "coords": [
+                        12.472098,
+                        43.919408
+                  ]
+            },
+            {
+                  "name": "Monte Pulito",
+                  "text": "Der majestätische Monte Pulito erhebt sich nahe Casole als reizvoller Naturgipfel in San Marino. Reisende können auf seinen Pfaden wandern, um die frische Luft und den weiten Blick über den Zwergstaat zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        12.490298,
+                        43.931233
+                  ]
+            },
+            {
+                  "name": "Serbatoio da plastilina",
+                  "text": "Ein lebensgroßer Panzer aus Plastilin im Kinderpark von Casole.",
+                  "category": "landmark",
+                  "coords": [
+                        12.450535,
+                        43.933568
+                  ]
+            },
+            {
+                  "name": "Rovine di un fortilizio medievale",
+                  "text": "Die Ruinen eines mittelalterlichen Forts auf einem Hügel über der Altstadt von Casole.",
+                  "category": "historical",
+                  "coords": [
+                        12.4478,
+                        43.911381
+                  ]
+            },
+            {
+                  "name": "Cavallo",
+                  "text": "Das historische Pferde standbild am Rande des Dorfplatzes von Casole.",
+                  "category": "historical",
+                  "coords": [
+                        12.448703,
+                        43.931899
+                  ]
+            },
+            {
+                  "name": "L’elettromotrice \"AB-03\"",
+                  "text": "Der alte Elektrotriebwagen AB-03, der im Freigelände des Casole-Bahnhofs steht.",
+                  "category": "landmark",
+                  "coords": [
+                        12.45034,
+                        43.930147
+                  ]
+            },
+            {
+                  "name": "Kursaal Sala Congressi",
+                  "text": "Das Kongresszentrum mit den charakteristischen Rundbogenfenstern im Kurviertel von Casole.",
+                  "category": "cultural",
+                  "coords": [
+                        12.452055,
+                        43.928347
+                  ]
+            },
+            {
+                  "name": "Santuario della Beata Vergine della Consolazione",
+                  "text": "Das Santuario della Beata Vergine della Consolazione in Casole ist ein Marienheiligtum und eine Wallfahrtskirche.",
+                  "category": "religious",
+                  "coords": [
+                        12.447424,
+                        43.940522
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Armi Moderne",
+                  "text": "Modern fegyverek múzeuma Casoleban.",
+                  "category": "museum",
+                  "coords": [
+                        12.446959,
+                        43.936655
+                  ]
+            },
+            {
+                  "name": "Museo delle Armi Antiche",
+                  "text": "A San Marinói Régi Fegyverek Múzeuma Casole-ban a 13–17. századi fegyverek és páncélok gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.451417,
+                        43.932533
+                  ]
+            },
+            {
+                  "name": "Museo della Tortura",
+                  "text": "Történelmi kínzóeszközöket bemutató múzeum Casoléban.",
+                  "category": "museum",
+                  "coords": [
+                        12.446905,
+                        43.935249
+                  ]
+            },
+            {
+                  "name": "Castello della Guaita",
+                  "text": "Guaita kastély Casoleban, San Marino első tornya.",
+                  "category": "castle",
+                  "coords": [
+                        12.449286,
+                        43.935224
+                  ]
+            },
+            {
+                  "name": "Torre del Montale",
+                  "text": "A Monte Titano három tornya közül a legkisebb.",
+                  "category": "castle",
+                  "coords": [
+                        12.452474,
+                        43.92999
+                  ]
+            },
+            {
+                  "name": "San Marino Adventures",
+                  "text": "Kültéri tevékenységeket kínáló kalandpark Casoléban.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            },
+            {
+                  "name": "Museo d'Arte Contemporanea di San Marino",
+                  "text": "A Modern és Kortárs Művészeti Nemzeti Galéria, egy egykori kolostorban Casole-ban.",
+                  "category": "museum",
+                  "coords": [
+                        12.445734,
+                        43.937153
+                  ]
+            },
+            {
+                  "name": "Monte San Cristoforo",
+                  "text": "A Casole településhez közeli Monte San Cristoforo egy lenyűgöző természeti csúcsként magasodik San Marinóban. A természet szerelmeseit a csendes magasság és a helyi növényvilág felfedezésére invitálja.",
+                  "category": "natural",
+                  "coords": [
+                        12.463921,
+                        43.907142
+                  ]
+            },
+            {
+                  "name": "Monte Carlo",
+                  "text": "A Casole térségében található Monte Carlo természeti csúcsa San Marino tájképének szerves részét képezi. Az ide látogatók izgalmas túrázásra és kiváló tájképfotózási lehetőségekre számíthatnak.",
+                  "category": "natural",
+                  "coords": [
+                        12.455609,
+                        43.914876
+                  ]
+            },
+            {
+                  "name": "Monte della Mandra",
+                  "text": "A Casole környéki természeti táj részét képező Monte della Mandra egy hegycsúcs San Marinóban. Olyan látogatókat vonz, akik a nyüzsgő városközpontoktól távol szeretnének kapcsolatba lépni a természettel.",
+                  "category": "natural",
+                  "coords": [
+                        12.472098,
+                        43.919408
+                  ]
+            },
+            {
+                  "name": "Monte Pulito",
+                  "text": "A fenséges Monte Pulito a San Marino-i Casole közelében található vonzó természeti csúcs. Az utazók felmászhatnak az ösvényein, hogy élvezzék a szabad levegőt és a törpeállamra nyíló széles kilátást.",
+                  "category": "natural",
+                  "coords": [
+                        12.490298,
+                        43.931233
+                  ]
+            },
+            {
+                  "name": "Serbatoio da plastilina",
+                  "text": "Egy életnagyságú plasztilin harckocsi a casole-i gyermekparkban.",
+                  "category": "landmark",
+                  "coords": [
+                        12.450535,
+                        43.933568
+                  ]
+            },
+            {
+                  "name": "Rovine di un fortilizio medievale",
+                  "text": "Egy középkori erőd romjai egy dombon, amely Casole óvárosára néz.",
+                  "category": "historical",
+                  "coords": [
+                        12.4478,
+                        43.911381
+                  ]
+            },
+            {
+                  "name": "Cavallo",
+                  "text": "A történelmi lószobor Casole falu terének szélén.",
+                  "category": "historical",
+                  "coords": [
+                        12.448703,
+                        43.931899
+                  ]
+            },
+            {
+                  "name": "L’elettromotrice \"AB-03\"",
+                  "text": "Az AB-03 öreg villamos motorkocsi, amely a casole-i vasútállomás szabadtéri területén áll.",
+                  "category": "landmark",
+                  "coords": [
+                        12.45034,
+                        43.930147
+                  ]
+            },
+            {
+                  "name": "Kursaal Sala Congressi",
+                  "text": "A jellegzetes íves ablakokkal rendelkező kongresszusi központ Casole gyógynegyedében.",
+                  "category": "cultural",
+                  "coords": [
+                        12.452055,
+                        43.928347
+                  ]
+            },
+            {
+                  "name": "Santuario della Beata Vergine della Consolazione",
+                  "text": "A Vigasztaló Boldogasszony Szentélye Casole-ban egy Mária-szentély és zarándoktemplom.",
+                  "category": "religious",
+                  "coords": [
+                        12.447424,
+                        43.940522
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Armi Moderne",
+                  "text": "Muzeul armelor moderne în Casole.",
+                  "category": "museum",
+                  "coords": [
+                        12.446959,
+                        43.936655
+                  ]
+            },
+            {
+                  "name": "Museo delle Armi Antiche",
+                  "text": "Muzeul Sanmarinez al Armelor Vechi din Casole expune o colecție de arme și armuri din secolele XIII–XVII.",
+                  "category": "museum",
+                  "coords": [
+                        12.451417,
+                        43.932533
+                  ]
+            },
+            {
+                  "name": "Museo della Tortura",
+                  "text": "Un muzeu în Casole care expune instrumente istorice de tortură.",
+                  "category": "museum",
+                  "coords": [
+                        12.446905,
+                        43.935249
+                  ]
+            },
+            {
+                  "name": "Castello della Guaita",
+                  "text": "Castelul Guaita în Casole, primul turn al San Marino.",
+                  "category": "castle",
+                  "coords": [
+                        12.449286,
+                        43.935224
+                  ]
+            },
+            {
+                  "name": "Torre del Montale",
+                  "text": "Cel mai mic dintre cele trei turnuri de pe Monte Titano.",
+                  "category": "castle",
+                  "coords": [
+                        12.452474,
+                        43.92999
+                  ]
+            },
+            {
+                  "name": "San Marino Adventures",
+                  "text": "Un parc de aventură din Casole care oferă activități în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            },
+            {
+                  "name": "Museo d'Arte Contemporanea di San Marino",
+                  "text": "Galeria Națională de Artă Modernă și Contemporană, găzduită într-o fostă mănăstire din Casole.",
+                  "category": "museum",
+                  "coords": [
+                        12.445734,
+                        43.937153
+                  ]
+            },
+            {
+                  "name": "Monte San Cristoforo",
+                  "text": "Aproape de așezarea Casole, Monte San Cristoforo se prezintă ca un vârf natural impresionant în San Marino. Acesta invită iubitorii de aer liber să experimenteze liniștea altitudinii și flora locală.",
+                  "category": "natural",
+                  "coords": [
+                        12.463921,
+                        43.907142
+                  ]
+            },
+            {
+                  "name": "Monte Carlo",
+                  "text": "Situat în zona Casole, vârful natural Monte Carlo formează o parte integrantă a peisajului din San Marino. O vizită aici promite o drumeție captivantă și oportunități pentru fotografia de peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        12.455609,
+                        43.914876
+                  ]
+            },
+            {
+                  "name": "Monte della Mandra",
+                  "text": "Făcând parte din peisajul natural de lângă Casole, Monte della Mandra este un vârf de munte din San Marino. Atrage vizitatorii care doresc să se conecteze cu natura, departe de centrele urbane aglomerate.",
+                  "category": "natural",
+                  "coords": [
+                        12.472098,
+                        43.919408
+                  ]
+            },
+            {
+                  "name": "Monte Pulito",
+                  "text": "Maiestuosul Monte Pulito se află lângă Casole ca un vârf natural atrăgător în San Marino. Călătorii pot urca pe potecile sale pentru a se bucura de aerul liber și de priveliștile ample asupra microstatului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        12.490298,
+                        43.931233
+                  ]
+            },
+            {
+                  "name": "Serbatoio da plastilina",
+                  "text": "Un tanc de dimensiuni naturale din plastilină în parcul pentru copii din Casole.",
+                  "category": "landmark",
+                  "coords": [
+                        12.450535,
+                        43.933568
+                  ]
+            },
+            {
+                  "name": "Rovine di un fortilizio medievale",
+                  "text": "Ruinele unui fort medieval pe un deal deasupra centrului vechi al orașului Casole.",
+                  "category": "historical",
+                  "coords": [
+                        12.4478,
+                        43.911381
+                  ]
+            },
+            {
+                  "name": "Cavallo",
+                  "text": "Statuia istorică a unui cal la marginea pieței satului Casole.",
+                  "category": "historical",
+                  "coords": [
+                        12.448703,
+                        43.931899
+                  ]
+            },
+            {
+                  "name": "L’elettromotrice \"AB-03\"",
+                  "text": "Vechiul automotor electric AB-03, aflat pe platforma gării din Casole.",
+                  "category": "landmark",
+                  "coords": [
+                        12.45034,
+                        43.930147
+                  ]
+            },
+            {
+                  "name": "Kursaal Sala Congressi",
+                  "text": "Centrul de congrese cu ferestre arcuite caracteristice în cartierul balnear din Casole.",
+                  "category": "cultural",
+                  "coords": [
+                        12.452055,
+                        43.928347
+                  ]
+            },
+            {
+                  "name": "Santuario della Beata Vergine della Consolazione",
+                  "text": "Sanctuarul Fericitei Fecioare a Mângâierii din Casole este un sanctuar marian și o biserică de pelerinaj.",
+                  "category": "religious",
+                  "coords": [
+                        12.447424,
+                        43.940522
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Armi Moderne",
+                  "text": "Museum of modern arms in Casole.",
+                  "category": "museum",
+                  "coords": [
+                        12.446959,
+                        43.936655
+                  ]
+            },
+            {
+                  "name": "Sammarinese Museum of Ancient Arms",
+                  "text": "The Sammarinese Museum of Ancient Arms in Casole displays a collection of arms and armor from the 13th to 17th centuries.",
+                  "category": "museum",
+                  "coords": [
+                        12.451417,
+                        43.932533
+                  ]
+            },
+            {
+                  "name": "Museo della Tortura",
+                  "text": "A museum in Casole displaying historical torture instruments.",
+                  "category": "museum",
+                  "coords": [
+                        12.446905,
+                        43.935249
+                  ]
+            },
+            {
+                  "name": "Guaita Castle",
+                  "text": "Guaita Castle in Casole, the first tower of San Marino.",
+                  "category": "castle",
+                  "coords": [
+                        12.449286,
+                        43.935224
+                  ]
+            },
+            {
+                  "name": "Torre del Montale",
+                  "text": "The smallest of the three towers on Monte Titano.",
+                  "category": "castle",
+                  "coords": [
+                        12.452474,
+                        43.92999
+                  ]
+            },
+            {
+                  "name": "San Marino Adventures",
+                  "text": "An adventure park in Casole offering outdoor activities.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            },
+            {
+                  "name": "National Gallery of Modern and Contemporary Art",
+                  "text": "The National Gallery of Modern and Contemporary Art housed in a former monastery in Casole.",
+                  "category": "museum",
+                  "coords": [
+                        12.445734,
+                        43.937153
+                  ]
+            },
+            {
+                  "name": "Monte San Cristoforo",
+                  "text": "Close to the settlement of Casole, Monte San Cristoforo presents itself as a striking natural peak in San Marino. It invites outdoor lovers to experience the tranquil elevation and local flora.",
+                  "category": "natural",
+                  "coords": [
+                        12.463921,
+                        43.907142
+                  ]
+            },
+            {
+                  "name": "Monte Carlo",
+                  "text": "Located around the Casole area, the natural peak of Monte Carlo forms an integral part of San Marino's landscape. A visit here promises an engaging trek and opportunities for landscape photography.",
+                  "category": "natural",
+                  "coords": [
+                        12.455609,
+                        43.914876
+                  ]
+            },
+            {
+                  "name": "Monte della Mandra",
+                  "text": "Forming part of the natural scenery near Casole, Monte della Mandra is a mountain peak within San Marino. It attracts visitors wanting to connect with nature away from the bustling city centers.",
+                  "category": "natural",
+                  "coords": [
+                        12.472098,
+                        43.919408
+                  ]
+            },
+            {
+                  "name": "Monte Pulito",
+                  "text": "The majestic Monte Pulito stands near Casole as an appealing natural peak in San Marino. Travelers can ascend its trails to enjoy the open air and sweeping views of the surrounding microstate.",
+                  "category": "natural",
+                  "coords": [
+                        12.490298,
+                        43.931233
+                  ]
+            },
+            {
+                  "name": "Tank from plasticine",
+                  "text": "A life-sized tank sculpted from plasticine in the children's park of Casole.",
+                  "category": "landmark",
+                  "coords": [
+                        12.450535,
+                        43.933568
+                  ]
+            },
+            {
+                  "name": "Rovine di un fortilizio medievale",
+                  "text": "The ruins of a medieval fort on a hill above the old town of Casole.",
+                  "category": "historical",
+                  "coords": [
+                        12.4478,
+                        43.911381
+                  ]
+            },
+            {
+                  "name": "Cavallo",
+                  "text": "The historic horse statue at the edge of Casole's village square.",
+                  "category": "historical",
+                  "coords": [
+                        12.448703,
+                        43.931899
+                  ]
+            },
+            {
+                  "name": "L’elettromotrice \"AB-03\"",
+                  "text": "The old electric railcar AB-03 standing on the outdoor area of Casole station.",
+                  "category": "landmark",
+                  "coords": [
+                        12.45034,
+                        43.930147
+                  ]
+            },
+            {
+                  "name": "Kursaal Sala Congressi",
+                  "text": "The congress center with characteristic arched windows in the spa district of Casole.",
+                  "category": "cultural",
+                  "coords": [
+                        12.452055,
+                        43.928347
+                  ]
+            },
+            {
+                  "name": "Santuario della Beata Vergine della Consolazione",
+                  "text": "The Santuario della Beata Vergine della Consolazione in Casole is a Marian sanctuary and pilgrimage church.",
+                  "category": "religious",
+                  "coords": [
+                        12.447424,
+                        43.940522
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SM",
     name: { de: "Casole", hu: "Casole", ro: "Casole", en: "Casole" },
@@ -3805,7 +5056,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Museo Armi Moderne",
-                  "text": "Museum für moderne Waffen in San Marino.",
+                  "text": "Museum für moderne Waffen in Castellaro.",
                   "category": "museum",
                   "coords": [
                         12.446959,
@@ -3861,7 +5112,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Museo Armi Moderne",
-                  "text": "Modern fegyverek múzeuma San Marinóban.",
+                  "text": "Modern fegyverek múzeuma Castellaro-ban.",
                   "category": "museum",
                   "coords": [
                         12.446959,
@@ -3917,7 +5168,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Museo Armi Moderne",
-                  "text": "Muzeul de arme moderne din San Marino.",
+                  "text": "Muzeul armelor moderne în Castellaro.",
                   "category": "museum",
                   "coords": [
                         12.446959,
@@ -3973,7 +5224,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Museo Armi Moderne",
-                  "text": "Museum of modern weapons located in San Marino.",
+                  "text": "Museum of modern arms in Castellaro.",
                   "category": "museum",
                   "coords": [
                         12.446959,
@@ -4210,7 +5461,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "San Marino Adventures",
-                  "text": "San Marino Adventures in Cerbaiola ist ein Ziel für aktive Freizeitgestaltung im Freien.",
+                  "text": "Der Familienabenteuerpark mit Kletterwand und Riesenschaukel in den Wäldern bei Cerbaiola.",
                   "category": "family",
                   "coords": [
                         12.429577,
@@ -4365,7 +5616,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "San Marino Adventures",
-                  "text": "A cerbaiolai San Marino Adventures az aktív szabadtéri kikapcsolódás helyszíne.",
+                  "text": "A családi kalandpark mászófallal és óriáshintával a Cerbaiola melletti erdőkben.",
                   "category": "family",
                   "coords": [
                         12.429577,
@@ -4520,7 +5771,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "San Marino Adventures",
-                  "text": "San Marino Adventures din Cerbaiola este o destinație pentru recreere activă în aer liber.",
+                  "text": "Parcul de aventuri pentru familii cu perete de cățărat și leagăn uriaș în pădurile de lângă Cerbaiola.",
                   "category": "family",
                   "coords": [
                         12.429577,
@@ -4675,7 +5926,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "San Marino Adventures",
-                  "text": "San Marino Adventures in Cerbaiola is a destination for active outdoor recreation.",
+                  "text": "The family adventure park with climbing wall and giant swing in the forests near Cerbaiola.",
                   "category": "family",
                   "coords": [
                         12.429577,
@@ -4750,7 +6001,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Castello della Guaita",
-                  "text": "Der älteste der drei Türme von San Marino.",
+                  "text": "Guaita-Burg in Cerbaiola Di Sotto, der erste Turm San Marinos.",
                   "category": "castle",
                   "coords": [
                         12.449286,
@@ -4786,7 +6037,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte della Mandra",
-                  "text": "Ein Berggipfel in der Landschaft von Cerbaiola di Sotto.",
+                  "text": "Hügel Monte della Mandra in Cerbaiola Di Sotto, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.472098,
@@ -4804,7 +6055,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Serbatoio da plastilina",
-                  "text": "Eine ungewöhnliche Attraktion in Cerbaiola di Sotto.",
+                  "text": "Ein Panzer aus bunter Plastilinmasse mitten im Dorfanger von Cerbaiola di Sotto.",
                   "category": "landmark",
                   "coords": [
                         12.450535,
@@ -4822,7 +6073,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Cavallo",
-                  "text": "Ein Denkmal in Cerbaiola di Sotto, das ein Pferd darstellt.",
+                  "text": "Die steinerne Pferdeskulptur aus dem 19. Jahrhundert am Eingang von Cerbaiola di Sotto.",
                   "category": "historical",
                   "coords": [
                         12.448703,
@@ -4840,7 +6091,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Kursaal Sala Congressi",
-                  "text": "Ein Kultur- und Kongresszentrum in Cerbaiola di Sotto.",
+                  "text": "Das ehemalige Kurhaus, heute Kongresszentrum mit Terrassengarten in Cerbaiola di Sotto.",
                   "category": "cultural",
                   "coords": [
                         12.452055,
@@ -4869,7 +6120,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Castello della Guaita",
-                  "text": "San Marino három tornya közül a legrégebbi.",
+                  "text": "Guaita kastély Cerbaiola Di Sotto-ban, San Marino első tornya.",
                   "category": "castle",
                   "coords": [
                         12.449286,
@@ -4905,7 +6156,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte della Mandra",
-                  "text": "Hegycsúcs Cerbaiola di Sotto vidékén.",
+                  "text": "Monte della Mandra domb Cerbaiola Di Sotto-ban, San Marinóban.",
                   "category": "natural",
                   "coords": [
                         12.472098,
@@ -4923,7 +6174,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Serbatoio da plastilina",
-                  "text": "Egy szokatlan látványosság Cerbaiola di Sotto településen.",
+                  "text": "Egy színes plasztilinból készült harckocsi Cerbaiola di Sotto falu közepén.",
                   "category": "landmark",
                   "coords": [
                         12.450535,
@@ -4941,7 +6192,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Cavallo",
-                  "text": "Egy lovat ábrázoló emlékmű Cerbaiola di Sotto településen.",
+                  "text": "A 19. századi kő lószobor Cerbaiola di Sotto bejáratánál.",
                   "category": "historical",
                   "coords": [
                         12.448703,
@@ -4959,7 +6210,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Kursaal Sala Congressi",
-                  "text": "Kulturális és kongresszusi központ Cerbaiola di Sotto településen.",
+                  "text": "Az egykori gyógyintézet, ma kongresszusi központ teraszkerttel Cerbaiola di Sotto-ban.",
                   "category": "cultural",
                   "coords": [
                         12.452055,
@@ -4988,7 +6239,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Castello della Guaita",
-                  "text": "Cea mai veche dintre cele trei turnuri din San Marino.",
+                  "text": "Castelul Guaita în Cerbaiola Di Sotto, primul turn al San Marino.",
                   "category": "castle",
                   "coords": [
                         12.449286,
@@ -5024,7 +6275,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte della Mandra",
-                  "text": "Un vârf muntos în peisajul din Cerbaiola di Sotto.",
+                  "text": "Dealul Monte della Mandra în Cerbaiola Di Sotto, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.472098,
@@ -5042,7 +6293,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Serbatoio da plastilina",
-                  "text": "O atracție neobișnuită în Cerbaiola di Sotto.",
+                  "text": "Un tanc din plastilină colorată în mijlocul pieței satului Cerbaiola di Sotto.",
                   "category": "landmark",
                   "coords": [
                         12.450535,
@@ -5060,7 +6311,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Cavallo",
-                  "text": "Un monument din Cerbaiola di Sotto care reprezintă un cal.",
+                  "text": "Sculptura ecvestră din piatră din secolul al XIX-lea la intrarea în Cerbaiola di Sotto.",
                   "category": "historical",
                   "coords": [
                         12.448703,
@@ -5078,7 +6329,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Kursaal Sala Congressi",
-                  "text": "Un centru cultural și de congrese în Cerbaiola di Sotto.",
+                  "text": "Fosta stațiune balneară, acum centru de congrese cu grădină pe terasă în Cerbaiola di Sotto.",
                   "category": "cultural",
                   "coords": [
                         12.452055,
@@ -5107,7 +6358,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Guaita Castle",
-                  "text": "The oldest of the three towers of San Marino.",
+                  "text": "Guaita Castle in Cerbaiola Di Sotto, the first tower of San Marino.",
                   "category": "castle",
                   "coords": [
                         12.449286,
@@ -5143,7 +6394,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte della Mandra",
-                  "text": "A mountain peak in the Cerbaiola di Sotto landscape.",
+                  "text": "Monte della Mandra hill in Cerbaiola Di Sotto, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.472098,
@@ -5161,7 +6412,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Tank from plasticine",
-                  "text": "An unusual attraction located in Cerbaiola di Sotto.",
+                  "text": "A tank made of colorful plasticine in the middle of Cerbaiola di Sotto's village green.",
                   "category": "landmark",
                   "coords": [
                         12.450535,
@@ -5179,7 +6430,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Cavallo",
-                  "text": "A monument in Cerbaiola di Sotto representing a horse.",
+                  "text": "The 19th-century stone horse sculpture at the entrance to Cerbaiola di Sotto.",
                   "category": "historical",
                   "coords": [
                         12.448703,
@@ -5197,7 +6448,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Kursaal Sala Congressi",
-                  "text": "An arts and congress centre in Cerbaiola di Sotto.",
+                  "text": "The former spa house, now a congress center with terrace garden in Cerbaiola di Sotto.",
                   "category": "cultural",
                   "coords": [
                         12.452055,
@@ -5272,7 +6523,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte San Cristoforo",
-                  "text": "Ein Gipfel in der Republik San Marino.",
+                  "text": "Hügel Monte San Cristoforo in Cervara, San Marino.",
                   "category": "landmark",
                   "coords": [
                         12.463921,
@@ -5290,7 +6541,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte della Mandra",
-                  "text": "Ein Berg in San Marino.",
+                  "text": "Hügel Monte della Mandra in Cervara, San Marino.",
                   "category": "landmark",
                   "coords": [
                         12.472098,
@@ -5308,7 +6559,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "L’elettromotrice \"AB-03\"",
-                  "text": "Ein historischer elektrischer Triebwagen, der in San Marino ausgestellt ist.",
+                  "text": "Der ausgestellte historische Triebwagen AB-03 am Bahnübergang von Cervara.",
                   "category": "landmark",
                   "coords": [
                         12.45034,
@@ -5317,7 +6568,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Kursaal Sala Congressi",
-                  "text": "Ein Kongress- und Veranstaltungszentrum in San Marino.",
+                  "text": "Das Kongresszentrum in der restaurierten Kursaal-Villa mit Meerblick in Cervara.",
                   "category": "cultural",
                   "coords": [
                         12.452067,
@@ -5346,7 +6597,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte San Cristoforo",
-                  "text": "Hegycsúcs a San Marino Köztársaság területén.",
+                  "text": "Monte San Cristoforo domb Cervaraban, San Marinóban.",
                   "category": "landmark",
                   "coords": [
                         12.463921,
@@ -5364,7 +6615,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte della Mandra",
-                  "text": "Egy hegy San Marino területén.",
+                  "text": "Monte della Mandra domb Cervaraban, San Marinóban.",
                   "category": "landmark",
                   "coords": [
                         12.472098,
@@ -5382,7 +6633,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "L’elettromotrice \"AB-03\"",
-                  "text": "San Marinóban kiállított történelmi elektromos motorkocsi.",
+                  "text": "A kiállított AB-03 történelmi motorkocsi a cervarai vasúti átjárónál.",
                   "category": "landmark",
                   "coords": [
                         12.45034,
@@ -5391,7 +6642,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Kursaal Sala Congressi",
-                  "text": "Kongresszusi és rendezvényközpont San Marinóban.",
+                  "text": "A kongresszusi központ a felújított Kursaal-villában, tengerre néző kilátással Cervarában.",
                   "category": "cultural",
                   "coords": [
                         12.452067,
@@ -5420,7 +6671,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte San Cristoforo",
-                  "text": "Un vârf muntos situat în Republica San Marino.",
+                  "text": "Dealul Monte San Cristoforo în Cervara, San Marino.",
                   "category": "landmark",
                   "coords": [
                         12.463921,
@@ -5438,7 +6689,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte della Mandra",
-                  "text": "Un munte situat în San Marino.",
+                  "text": "Dealul Monte della Mandra în Cervara, San Marino.",
                   "category": "landmark",
                   "coords": [
                         12.472098,
@@ -5456,7 +6707,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "L’elettromotrice \"AB-03\"",
-                  "text": "Un vagon electric istoric expus în San Marino.",
+                  "text": "Automotorul istoric AB-03 expus la trecerea la nivel cu calea ferată din Cervara.",
                   "category": "landmark",
                   "coords": [
                         12.45034,
@@ -5465,7 +6716,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Kursaal Sala Congressi",
-                  "text": "Un centru de congrese și evenimente din San Marino.",
+                  "text": "Centrul de congrese în vila Kursaal restaurată, cu vedere la mare în Cervara.",
                   "category": "cultural",
                   "coords": [
                         12.452067,
@@ -5494,7 +6745,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte San Cristoforo",
-                  "text": "A mountain peak located in the Republic of San Marino.",
+                  "text": "Monte San Cristoforo hill in Cervara, San Marino.",
                   "category": "landmark",
                   "coords": [
                         12.463921,
@@ -5512,7 +6763,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte della Mandra",
-                  "text": "A mountain located in San Marino.",
+                  "text": "Monte della Mandra hill in Cervara, San Marino.",
                   "category": "landmark",
                   "coords": [
                         12.472098,
@@ -5530,7 +6781,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "L’elettromotrice \"AB-03\"",
-                  "text": "A historic electric railcar exhibited in San Marino.",
+                  "text": "The historic railcar AB-03 on display at the railway crossing in Cervara.",
                   "category": "landmark",
                   "coords": [
                         12.45034,
@@ -5539,7 +6790,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Kursaal Sala Congressi",
-                  "text": "A congress and event centre located in San Marino.",
+                  "text": "The congress center in the restored Kursaal villa with sea views in Cervara.",
                   "category": "cultural",
                   "coords": [
                         12.452067,
@@ -5794,7 +7045,7 @@ export const sanmarinoCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Monte San Cristoforo",
-                  "text": "Ein markanter Berggipfel in der Nähe von Corianino.",
+                  "text": "Hügel Monte San Cristoforo in Corianino, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.463921,
@@ -5803,7 +7054,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte della Mandra",
-                  "text": "Ein Berggipfel in der Landschaft von Corianino.",
+                  "text": "Hügel Monte della Mandra in Corianino, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.472098,
@@ -5812,7 +7063,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte Pulito",
-                  "text": "Ein Gipfel in San Marino in der Nähe von Corianino.",
+                  "text": "Hügel Monte Pulito in Corianino, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.490298,
@@ -5823,7 +7074,7 @@ export const sanmarinoCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Monte San Cristoforo",
-                  "text": "Jellegzetes hegycsúcs Corianino közelében.",
+                  "text": "Monte San Cristoforo domb Corianinóban, San Marinóban.",
                   "category": "natural",
                   "coords": [
                         12.463921,
@@ -5832,7 +7083,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte della Mandra",
-                  "text": "Hegycsúcs Corianino vidékén.",
+                  "text": "Monte della Mandra domb Corianinóban, San Marinóban.",
                   "category": "natural",
                   "coords": [
                         12.472098,
@@ -5841,7 +7092,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte Pulito",
-                  "text": "Hegycsúcs San Marinóban, Corianino közelében.",
+                  "text": "Monte Pulito domb Corianinóban, San Marinóban.",
                   "category": "natural",
                   "coords": [
                         12.490298,
@@ -5852,7 +7103,7 @@ export const sanmarinoCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Monte San Cristoforo",
-                  "text": "Un vârf montan proeminent situat lângă Corianino.",
+                  "text": "Dealul Monte San Cristoforo în Corianino, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.463921,
@@ -5861,7 +7112,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte della Mandra",
-                  "text": "Un vârf muntos în peisajul din Corianino.",
+                  "text": "Dealul Monte della Mandra în Corianino, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.472098,
@@ -5870,7 +7121,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte Pulito",
-                  "text": "Un vârf din San Marino în apropiere de Corianino.",
+                  "text": "Dealul Monte Pulito în Corianino, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.490298,
@@ -5881,7 +7132,7 @@ export const sanmarinoCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Monte San Cristoforo",
-                  "text": "A prominent mountain peak located near Corianino.",
+                  "text": "Monte San Cristoforo hill in Corianino, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.463921,
@@ -5890,7 +7141,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte della Mandra",
-                  "text": "A mountain peak in the Corianino landscape.",
+                  "text": "Monte della Mandra hill in Corianino, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.472098,
@@ -5899,7 +7150,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte Pulito",
-                  "text": "A peak in San Marino located near Corianino.",
+                  "text": "Monte Pulito hill in Corianino, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.490298,
@@ -5952,7 +7203,124 @@ export const sanmarinoCitiesV2: POI[] = [
     image: "/poi-images/sanmarino-corianino-cities-v2.webp",
   },
   {
-    id: "sanmarino-faetano-di-sotto-cities-v2", "sights": {"de": [{"name": "Monte San Cristoforo", "text": "Der Gipfel des Monte San Cristoforo in der Nähe von Faetano Di Sotto trägt zur natürlichen Schönheit von San Marino bei. Ein Ausflug auf diesen Berg bietet eine ruhige Atmosphäre und wunderbare Aussichtspunkte.", "category": "natural", "coords": [12.463921, 43.907142]}, {"name": "Monte della Mandra", "text": "Ein Gipfel in der Region um Faetano di Sotto.", "category": "natural", "coords": [12.472098, 43.919408]}, {"name": "Monte Pulito", "text": "Ein geschichtsträchtiger Hügel in San Marino bei Faetano di Sotto.", "category": "natural", "coords": [12.490298, 43.931233]}], "hu": [{"name": "Monte San Cristoforo", "text": "A Faetano Di Sotto közelében magasodó Monte San Cristoforo csúcsa hozzájárul San Marino természeti szépségéhez. A hegyre tett kirándulás tömegmentes légkört és csodálatos kilátópontokat biztosít.", "category": "natural", "coords": [12.463921, 43.907142]}, {"name": "Monte della Mandra", "text": "Hegycsúcs Faetano di Sotto környékén.", "category": "natural", "coords": [12.472098, 43.919408]}, {"name": "Monte Pulito", "text": "Történelmi jelentőségű domb San Marinóban, Faetano di Sotto közelében.", "category": "natural", "coords": [12.490298, 43.931233]}], "ro": [{"name": "Monte San Cristoforo", "text": "Ridicându-se lângă Faetano Di Sotto, vârful Monte San Cristoforo adaugă la frumusețea naturală a statului San Marino. O excursie pe acest munte oferă o atmosferă neaglomerată și puncte de observație minunate.", "category": "natural", "coords": [12.463921, 43.907142]}, {"name": "Monte della Mandra", "text": "Un vârf în regiunea Faetano di Sotto.", "category": "natural", "coords": [12.472098, 43.919408]}, {"name": "Monte Pulito", "text": "Un deal cu semnificație istorică în San Marino, lângă Faetano di Sotto.", "category": "natural", "coords": [12.490298, 43.931233]}], "en": [{"name": "Monte San Cristoforo", "text": "Rising near Faetano Di Sotto, the peak of Monte San Cristoforo adds to the natural beauty of San Marino. An excursion to this mountain provides an uncrowded atmosphere and wonderful vantage points.", "category": "natural", "coords": [12.463921, 43.907142]}, {"name": "Monte della Mandra", "text": "A peak in the Faetano di Sotto region.", "category": "natural", "coords": [12.472098, 43.919408]}, {"name": "Monte Pulito", "text": "A hill with historical significance in San Marino, near Faetano di Sotto.", "category": "natural", "coords": [12.490298, 43.931233]}]},
+    id: "sanmarino-faetano-di-sotto-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monte San Cristoforo",
+                  "text": "Der Gipfel des Monte San Cristoforo in der Nähe von Faetano Di Sotto trägt zur natürlichen Schönheit von San Marino bei. Ein Ausflug auf diesen Berg bietet eine ruhige Atmosphäre und wunderbare Aussichtspunkte.",
+                  "category": "natural",
+                  "coords": [
+                        12.463921,
+                        43.907142
+                  ]
+            },
+            {
+                  "name": "Monte della Mandra",
+                  "text": "Hügel Monte della Mandra in Faetano Di Sotto, San Marino.",
+                  "category": "natural",
+                  "coords": [
+                        12.472098,
+                        43.919408
+                  ]
+            },
+            {
+                  "name": "Monte Pulito",
+                  "text": "Ein geschichtsträchtiger Hügel in San Marino bei Faetano di Sotto.",
+                  "category": "natural",
+                  "coords": [
+                        12.490298,
+                        43.931233
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monte San Cristoforo",
+                  "text": "A Faetano Di Sotto közelében magasodó Monte San Cristoforo csúcsa hozzájárul San Marino természeti szépségéhez. A hegyre tett kirándulás tömegmentes légkört és csodálatos kilátópontokat biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        12.463921,
+                        43.907142
+                  ]
+            },
+            {
+                  "name": "Monte della Mandra",
+                  "text": "Monte della Mandra domb Faetano Di Sotto-ban, San Marinóban.",
+                  "category": "natural",
+                  "coords": [
+                        12.472098,
+                        43.919408
+                  ]
+            },
+            {
+                  "name": "Monte Pulito",
+                  "text": "Történelmi jelentőségű domb San Marinóban, Faetano di Sotto közelében.",
+                  "category": "natural",
+                  "coords": [
+                        12.490298,
+                        43.931233
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monte San Cristoforo",
+                  "text": "Ridicându-se lângă Faetano Di Sotto, vârful Monte San Cristoforo adaugă la frumusețea naturală a statului San Marino. O excursie pe acest munte oferă o atmosferă neaglomerată și puncte de observație minunate.",
+                  "category": "natural",
+                  "coords": [
+                        12.463921,
+                        43.907142
+                  ]
+            },
+            {
+                  "name": "Monte della Mandra",
+                  "text": "Dealul Monte della Mandra în Faetano Di Sotto, San Marino.",
+                  "category": "natural",
+                  "coords": [
+                        12.472098,
+                        43.919408
+                  ]
+            },
+            {
+                  "name": "Monte Pulito",
+                  "text": "Un deal cu semnificație istorică în San Marino, lângă Faetano di Sotto.",
+                  "category": "natural",
+                  "coords": [
+                        12.490298,
+                        43.931233
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monte San Cristoforo",
+                  "text": "Rising near Faetano Di Sotto, the peak of Monte San Cristoforo adds to the natural beauty of San Marino. An excursion to this mountain provides an uncrowded atmosphere and wonderful vantage points.",
+                  "category": "natural",
+                  "coords": [
+                        12.463921,
+                        43.907142
+                  ]
+            },
+            {
+                  "name": "Monte della Mandra",
+                  "text": "Monte della Mandra hill in Faetano Di Sotto, San Marino.",
+                  "category": "natural",
+                  "coords": [
+                        12.472098,
+                        43.919408
+                  ]
+            },
+            {
+                  "name": "Monte Pulito",
+                  "text": "A hill with historical significance in San Marino, near Faetano di Sotto.",
+                  "category": "natural",
+                  "coords": [
+                        12.490298,
+                        43.931233
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SM",
     name: { de: "Faetano di Sotto", hu: "Faetano di Sotto", ro: "Faetano di Sotto", en: "Faetano di Sotto" },
@@ -6460,7 +7828,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Museo Armi Moderne",
-                  "text": "Ein Museum in San Marino, das modernen Waffen gewidmet ist.",
+                  "text": "Museum für moderne Waffen in Montalbo.",
                   "category": "museum",
                   "coords": [
                         12.446959,
@@ -6516,7 +7884,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Museo Armi Moderne",
-                  "text": "Modern fegyvereket bemutató múzeum San Marinóban.",
+                  "text": "Modern fegyverek múzeuma Montalboban.",
                   "category": "museum",
                   "coords": [
                         12.446959,
@@ -6572,7 +7940,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Museo Armi Moderne",
-                  "text": "Un muzeu din San Marino dedicat armelor moderne.",
+                  "text": "Muzeul armelor moderne în Montalbo.",
                   "category": "museum",
                   "coords": [
                         12.446959,
@@ -6628,7 +7996,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Museo Armi Moderne",
-                  "text": "A museum in San Marino dedicated to modern weapons.",
+                  "text": "Museum of modern arms in Montalbo.",
                   "category": "museum",
                   "coords": [
                         12.446959,
@@ -7257,7 +8625,592 @@ export const sanmarinoCitiesV2: POI[] = [
     image: "/poi-images/sanmarino-montegiardino-di-sotto-cities-v2.webp",
   },
   {
-    id: "sanmarino-paderna-cities-v2", "sights": {"de": [{"name": "Museo Armi Moderne", "text": "Museum in Paderna mit einer Sammlung moderner Waffentechnik.", "category": "museum", "coords": [12.446959, 43.936655]}, {"name": "Museo delle Armi Antiche", "text": "Dieses Museum in Paderna widmet sich der Geschichte antiker Waffen.", "category": "museum", "coords": [12.451417, 43.932533]}, {"name": "Museo della Tortura", "text": "Ein Museum in Paderna, das historische Instrumente der Folter dokumentiert.", "category": "museum", "coords": [12.446905, 43.935249]}, {"name": "Castello della Guaita", "text": "Die Guaita-Festung ist eine der ikonischen Burganlagen auf dem Monte Titano.", "category": "castle", "coords": [12.449286, 43.935224]}, {"name": "Torre del Montale", "text": "Der Montale-Turm ist Teil der historischen Verteidigungsanlagen von San Marino.", "category": "castle", "coords": [12.452474, 43.92999]}, {"name": "San Marino Adventures", "text": "Ein Outdoor-Abenteuerpark in Paderna mit verschiedenen Kletterparcours.", "category": "family", "coords": [12.429577, 43.941831]}, {"name": "Museo d'Arte Contemporanea di San Marino", "text": "Diese Galerie in Paderna zeigt moderne und zeitgenössische Kunstwerke.", "category": "museum", "coords": [12.445734, 43.937153]}, {"name": "Monte Carlo", "text": "Ein markanter Berggipfel in der Republik San Marino.", "category": "natural", "coords": [12.455609, 43.914876]}, {"name": "Monte della Mandra", "text": "Der Monte della Mandra bei Paderna ist ein Gipfel in San Marino, der zum Gebirgszug des Apennin gehört. Besucher, die dieses Gelände durchstreifen, lernen die besonderen geografischen Eigenschaften der Region kennen.", "category": "natural", "coords": [12.472098, 43.919408]}, {"name": "Monte Pulito", "text": "Ein Berg in San Marino, bekannt als Ort historischer Auseinandersetzungen im Zweiten Weltkrieg.", "category": "natural", "coords": [12.490298, 43.931233]}, {"name": "Serbatoio da plastilina", "text": "Eine ungewöhnliche Kunstinstallation in Paderna, die ein Panzer aus Knete darstellt.", "category": "landmark", "coords": [12.450535, 43.933568]}, {"name": "Cavallo", "text": "Ein Denkmal in Paderna, das die Form eines Pferdes darstellt.", "category": "historical", "coords": [12.448703, 43.931899]}, {"name": "L’elettromotrice \"AB-03\"", "text": "Ein historischer elektrischer Triebwagen, der an die Eisenbahngeschichte der Region erinnert.", "category": "landmark", "coords": [12.45034, 43.930147]}, {"name": "Kursaal Sala Congressi", "text": "Ein modernes Veranstaltungs- und Kongresszentrum in Paderna.", "category": "cultural", "coords": [12.452055, 43.928347]}, {"name": "San Marino Jinja", "text": "Der erste offizielle Shinto-Schrein in Europa, errichtet im traditionellen japanischen Stil.", "category": "religious", "coords": [12.48213, 43.958113]}, {"name": "Santuario della Beata Vergine della Consolazione", "text": "Eine Wallfahrtskirche in Paderna, die als Ort der religiösen Andacht dient.", "category": "religious", "coords": [12.447424, 43.940522]}], "hu": [{"name": "Museo Armi Moderne", "text": "Padernai múzeum modern fegyvertechnikai gyűjteménnyel.", "category": "museum", "coords": [12.446959, 43.936655]}, {"name": "Museo delle Armi Antiche", "text": "Ez a padernai múzeum a régi fegyverek történelmének szentelt.", "category": "museum", "coords": [12.451417, 43.932533]}, {"name": "Museo della Tortura", "text": "Padernai múzeum, amely a kínzás történelmi eszközeit mutatja be.", "category": "museum", "coords": [12.446905, 43.935249]}, {"name": "Castello della Guaita", "text": "A Guaita-erőd a Monte Titano egyik ikonikus várkomplexuma.", "category": "castle", "coords": [12.449286, 43.935224]}, {"name": "Torre del Montale", "text": "A Montale-torony San Marino történelmi védelmi rendszerének része.", "category": "castle", "coords": [12.452474, 43.92999]}, {"name": "San Marino Adventures", "text": "Szabadtéri kalandpark Padernában különféle mászópályákkal.", "category": "family", "coords": [12.429577, 43.941831]}, {"name": "Museo d'Arte Contemporanea di San Marino", "text": "Ez a padernai galéria modern és kortárs műalkotásokat mutat be.", "category": "museum", "coords": [12.445734, 43.937153]}, {"name": "Monte Carlo", "text": "Egy jellegzetes hegycsúcs San Marino Köztársaságban.", "category": "natural", "coords": [12.455609, 43.914876]}, {"name": "Monte della Mandra", "text": "A Paderna közelében elhelyezkedő Monte della Mandra a San Marino-i Appenninek hegységhez tartozó csúcs. A területet bejáró látogatók megtapasztalhatják a régió jellegzetes földrajzi vonásait.", "category": "natural", "coords": [12.472098, 43.919408]}, {"name": "Monte Pulito", "text": "Egy hegy San Marinóban, amely a második világháborús harcok helyszíneként ismert.", "category": "natural", "coords": [12.490298, 43.931233]}, {"name": "Serbatoio da plastilina", "text": "Egy különleges művészeti installáció Padernában, amely egy gyurmából készült tankot ábrázol.", "category": "landmark", "coords": [12.450535, 43.933568]}, {"name": "Cavallo", "text": "Egy ló alakú emlékmű Padernában.", "category": "historical", "coords": [12.448703, 43.931899]}, {"name": "L’elettromotrice \"AB-03\"", "text": "Egy történelmi elektromos motorkocsi, amely a régió vasúti múltját idézi.", "category": "landmark", "coords": [12.45034, 43.930147]}, {"name": "Kursaal Sala Congressi", "text": "Egy modern rendezvény- és kongresszusi központ Padernában.", "category": "cultural", "coords": [12.452055, 43.928347]}, {"name": "San Marino Jinja", "text": "Európa első hivatalos sintó szentélye, amely hagyományos japán stílusban épült.", "category": "religious", "coords": [12.48213, 43.958113]}, {"name": "Santuario della Beata Vergine della Consolazione", "text": "Padernai zarándoktemplom, amely a vallási áhítat helyszíne.", "category": "religious", "coords": [12.447424, 43.940522]}], "ro": [{"name": "Museo Armi Moderne", "text": "Muzeu din Paderna cu o colecție de tehnologie militară modernă.", "category": "museum", "coords": [12.446959, 43.936655]}, {"name": "Museo delle Armi Antiche", "text": "Acest muzeu din Paderna este dedicat istoriei armelor antice.", "category": "museum", "coords": [12.451417, 43.932533]}, {"name": "Museo della Tortura", "text": "Un muzeu din Paderna care documentează instrumentele istorice de tortură.", "category": "museum", "coords": [12.446905, 43.935249]}, {"name": "Castello della Guaita", "text": "Fortăreața Guaita este una dintre structurile fortificate emblematice de pe Muntele Titano.", "category": "castle", "coords": [12.449286, 43.935224]}, {"name": "Torre del Montale", "text": "Turnul Montale face parte din fortificațiile istorice ale statului San Marino.", "category": "castle", "coords": [12.452474, 43.92999]}, {"name": "San Marino Adventures", "text": "Un parc de aventură în aer liber din Paderna, cu diverse trasee de cățărare.", "category": "family", "coords": [12.429577, 43.941831]}, {"name": "Museo d'Arte Contemporanea di San Marino", "text": "Această galerie din Paderna expune opere de artă modernă și contemporană.", "category": "museum", "coords": [12.445734, 43.937153]}, {"name": "Monte Carlo", "text": "Un vârf montan proeminent situat în Republica San Marino.", "category": "natural", "coords": [12.455609, 43.914876]}, {"name": "Monte della Mandra", "text": "Situat lângă Paderna, Monte della Mandra este un vârf aparținând lanțului muntos Apenini din San Marino. Vizitatorii care traversează acest teren vor experimenta caracteristicile geografice distinctive ale regiunii.", "category": "natural", "coords": [12.472098, 43.919408]}, {"name": "Monte Pulito", "text": "Un munte din San Marino, cunoscut ca loc de desfășurare a luptelor din al Doilea Război Mondial.", "category": "natural", "coords": [12.490298, 43.931233]}, {"name": "Serbatoio da plastilina", "text": "O instalație artistică neobișnuită din Paderna, reprezentând un tanc din plastilină.", "category": "landmark", "coords": [12.450535, 43.933568]}, {"name": "Cavallo", "text": "Un monument din Paderna care reprezintă figura unui cal.", "category": "historical", "coords": [12.448703, 43.931899]}, {"name": "L’elettromotrice \"AB-03\"", "text": "Un vagon electric istoric care amintește de istoria feroviară a regiunii.", "category": "landmark", "coords": [12.45034, 43.930147]}, {"name": "Kursaal Sala Congressi", "text": "Un centru modern de evenimente și congrese situat în Paderna.", "category": "cultural", "coords": [12.452055, 43.928347]}, {"name": "San Marino Jinja", "text": "Primul altar Shinto oficial din Europa, construit în stil tradițional japonez.", "category": "religious", "coords": [12.48213, 43.958113]}, {"name": "Santuario della Beata Vergine della Consolazione", "text": "Un sanctuar din Paderna care servește ca loc de pelerinaj și rugăciune.", "category": "religious", "coords": [12.447424, 43.940522]}], "en": [{"name": "Museo Armi Moderne", "text": "Museum in Paderna featuring a collection of modern weaponry.", "category": "museum", "coords": [12.446959, 43.936655]}, {"name": "Sammarinese Museum of Ancient Arms", "text": "This museum in Paderna is dedicated to the history of ancient weapons.", "category": "museum", "coords": [12.451417, 43.932533]}, {"name": "Museo della Tortura", "text": "A museum in Paderna documenting historical instruments of torture.", "category": "museum", "coords": [12.446905, 43.935249]}, {"name": "Guaita Castle", "text": "Guaita Fortress is one of the iconic castle structures on Monte Titano.", "category": "castle", "coords": [12.449286, 43.935224]}, {"name": "Torre del Montale", "text": "The Montale tower is part of the historical fortifications of San Marino.", "category": "castle", "coords": [12.452474, 43.92999]}, {"name": "San Marino Adventures", "text": "An outdoor adventure park in Paderna with various climbing courses.", "category": "family", "coords": [12.429577, 43.941831]}, {"name": "National Gallery of Modern and Contemporary Art", "text": "This gallery in Paderna displays modern and contemporary artworks.", "category": "museum", "coords": [12.445734, 43.937153]}, {"name": "Monte Carlo", "text": "A prominent mountain peak located in the Republic of San Marino.", "category": "natural", "coords": [12.455609, 43.914876]}, {"name": "Monte della Mandra", "text": "Positioned near Paderna, Monte della Mandra is a peak belonging to the Apennine mountain range in San Marino. Visitors traversing its terrain will experience the distinctive geographical features of the region.", "category": "natural", "coords": [12.472098, 43.919408]}, {"name": "Monte Pulito", "text": "A mountain in San Marino, known as a site of historical battles during World War II.", "category": "natural", "coords": [12.490298, 43.931233]}, {"name": "Tank from plasticine", "text": "An unusual art installation in Paderna representing a tank made from plasticine.", "category": "landmark", "coords": [12.450535, 43.933568]}, {"name": "Cavallo", "text": "A monument in Paderna representing the figure of a horse.", "category": "historical", "coords": [12.448703, 43.931899]}, {"name": "L’elettromotrice \"AB-03\"", "text": "A historic electric railcar that recalls the railway history of the region.", "category": "landmark", "coords": [12.45034, 43.930147]}, {"name": "Kursaal Sala Congressi", "text": "A modern events and congress center located in Paderna.", "category": "cultural", "coords": [12.452055, 43.928347]}, {"name": "Sanmarino Shinto Shrine", "text": "The first official Shinto shrine in Europe, built in traditional Japanese style.", "category": "religious", "coords": [12.48213, 43.958113]}, {"name": "Santuario della Beata Vergine della Consolazione", "text": "A sanctuary in Paderna that serves as a place of religious devotion and pilgrimage.", "category": "religious", "coords": [12.447424, 43.940522]}]},
+    id: "sanmarino-paderna-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Armi Moderne",
+                  "text": "Museum in Paderna mit einer Sammlung moderner Waffentechnik.",
+                  "category": "museum",
+                  "coords": [
+                        12.446959,
+                        43.936655
+                  ]
+            },
+            {
+                  "name": "Museo delle Armi Antiche",
+                  "text": "Dieses Museum in Paderna widmet sich der Geschichte antiker Waffen.",
+                  "category": "museum",
+                  "coords": [
+                        12.451417,
+                        43.932533
+                  ]
+            },
+            {
+                  "name": "Museo della Tortura",
+                  "text": "Ein Museum in Paderna, das historische Instrumente der Folter dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        12.446905,
+                        43.935249
+                  ]
+            },
+            {
+                  "name": "Castello della Guaita",
+                  "text": "Die Guaita-Festung ist eine der ikonischen Burganlagen auf dem Monte Titano.",
+                  "category": "castle",
+                  "coords": [
+                        12.449286,
+                        43.935224
+                  ]
+            },
+            {
+                  "name": "Torre del Montale",
+                  "text": "Der Montale-Turm ist Teil der historischen Verteidigungsanlagen von San Marino.",
+                  "category": "castle",
+                  "coords": [
+                        12.452474,
+                        43.92999
+                  ]
+            },
+            {
+                  "name": "San Marino Adventures",
+                  "text": "Ein Outdoor-Abenteuerpark in Paderna mit verschiedenen Kletterparcours.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            },
+            {
+                  "name": "Museo d'Arte Contemporanea di San Marino",
+                  "text": "Die Nationalgalerie für moderne Kunst in einem venezianischen Palast in Paderna.",
+                  "category": "museum",
+                  "coords": [
+                        12.445734,
+                        43.937153
+                  ]
+            },
+            {
+                  "name": "Monte Carlo",
+                  "text": "Ein markanter Berggipfel in der Republik San Marino.",
+                  "category": "natural",
+                  "coords": [
+                        12.455609,
+                        43.914876
+                  ]
+            },
+            {
+                  "name": "Monte della Mandra",
+                  "text": "Der Monte della Mandra bei Paderna ist ein Gipfel in San Marino, der zum Gebirgszug des Apennin gehört. Besucher, die dieses Gelände durchstreifen, lernen die besonderen geografischen Eigenschaften der Region kennen.",
+                  "category": "natural",
+                  "coords": [
+                        12.472098,
+                        43.919408
+                  ]
+            },
+            {
+                  "name": "Monte Pulito",
+                  "text": "Ein Berg in San Marino, bekannt als Ort historischer Auseinandersetzungen im Zweiten Weltkrieg.",
+                  "category": "natural",
+                  "coords": [
+                        12.490298,
+                        43.931233
+                  ]
+            },
+            {
+                  "name": "Serbatoio da plastilina",
+                  "text": "Eine ungewöhnliche Kunstinstallation in Paderna, die ein Panzer aus Knete darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        12.450535,
+                        43.933568
+                  ]
+            },
+            {
+                  "name": "Cavallo",
+                  "text": "Ein Denkmal in Paderna, das die Form eines Pferdes darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        12.448703,
+                        43.931899
+                  ]
+            },
+            {
+                  "name": "L’elettromotrice \"AB-03\"",
+                  "text": "Ein historischer elektrischer Triebwagen, der an die Eisenbahngeschichte der Region erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        12.45034,
+                        43.930147
+                  ]
+            },
+            {
+                  "name": "Kursaal Sala Congressi",
+                  "text": "Ein modernes Veranstaltungs- und Kongresszentrum in Paderna.",
+                  "category": "cultural",
+                  "coords": [
+                        12.452055,
+                        43.928347
+                  ]
+            },
+            {
+                  "name": "San Marino Jinja",
+                  "text": "Der erste offizielle Shinto-Schrein in Europa, errichtet im traditionellen japanischen Stil.",
+                  "category": "religious",
+                  "coords": [
+                        12.48213,
+                        43.958113
+                  ]
+            },
+            {
+                  "name": "Santuario della Beata Vergine della Consolazione",
+                  "text": "Eine Wallfahrtskirche in Paderna, die als Ort der religiösen Andacht dient.",
+                  "category": "religious",
+                  "coords": [
+                        12.447424,
+                        43.940522
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Armi Moderne",
+                  "text": "Padernai múzeum modern fegyvertechnikai gyűjteménnyel.",
+                  "category": "museum",
+                  "coords": [
+                        12.446959,
+                        43.936655
+                  ]
+            },
+            {
+                  "name": "Museo delle Armi Antiche",
+                  "text": "Ez a padernai múzeum a régi fegyverek történelmének szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        12.451417,
+                        43.932533
+                  ]
+            },
+            {
+                  "name": "Museo della Tortura",
+                  "text": "Padernai múzeum, amely a kínzás történelmi eszközeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.446905,
+                        43.935249
+                  ]
+            },
+            {
+                  "name": "Castello della Guaita",
+                  "text": "A Guaita-erőd a Monte Titano egyik ikonikus várkomplexuma.",
+                  "category": "castle",
+                  "coords": [
+                        12.449286,
+                        43.935224
+                  ]
+            },
+            {
+                  "name": "Torre del Montale",
+                  "text": "A Montale-torony San Marino történelmi védelmi rendszerének része.",
+                  "category": "castle",
+                  "coords": [
+                        12.452474,
+                        43.92999
+                  ]
+            },
+            {
+                  "name": "San Marino Adventures",
+                  "text": "Szabadtéri kalandpark Padernában különféle mászópályákkal.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            },
+            {
+                  "name": "Museo d'Arte Contemporanea di San Marino",
+                  "text": "A Modern Művészeti Nemzeti Galéria egy velencei palotában Padernában.",
+                  "category": "museum",
+                  "coords": [
+                        12.445734,
+                        43.937153
+                  ]
+            },
+            {
+                  "name": "Monte Carlo",
+                  "text": "Egy jellegzetes hegycsúcs San Marino Köztársaságban.",
+                  "category": "natural",
+                  "coords": [
+                        12.455609,
+                        43.914876
+                  ]
+            },
+            {
+                  "name": "Monte della Mandra",
+                  "text": "A Paderna közelében elhelyezkedő Monte della Mandra a San Marino-i Appenninek hegységhez tartozó csúcs. A területet bejáró látogatók megtapasztalhatják a régió jellegzetes földrajzi vonásait.",
+                  "category": "natural",
+                  "coords": [
+                        12.472098,
+                        43.919408
+                  ]
+            },
+            {
+                  "name": "Monte Pulito",
+                  "text": "Egy hegy San Marinóban, amely a második világháborús harcok helyszíneként ismert.",
+                  "category": "natural",
+                  "coords": [
+                        12.490298,
+                        43.931233
+                  ]
+            },
+            {
+                  "name": "Serbatoio da plastilina",
+                  "text": "Egy különleges művészeti installáció Padernában, amely egy gyurmából készült tankot ábrázol.",
+                  "category": "landmark",
+                  "coords": [
+                        12.450535,
+                        43.933568
+                  ]
+            },
+            {
+                  "name": "Cavallo",
+                  "text": "Egy ló alakú emlékmű Padernában.",
+                  "category": "historical",
+                  "coords": [
+                        12.448703,
+                        43.931899
+                  ]
+            },
+            {
+                  "name": "L’elettromotrice \"AB-03\"",
+                  "text": "Egy történelmi elektromos motorkocsi, amely a régió vasúti múltját idézi.",
+                  "category": "landmark",
+                  "coords": [
+                        12.45034,
+                        43.930147
+                  ]
+            },
+            {
+                  "name": "Kursaal Sala Congressi",
+                  "text": "Egy modern rendezvény- és kongresszusi központ Padernában.",
+                  "category": "cultural",
+                  "coords": [
+                        12.452055,
+                        43.928347
+                  ]
+            },
+            {
+                  "name": "San Marino Jinja",
+                  "text": "Európa első hivatalos sintó szentélye, amely hagyományos japán stílusban épült.",
+                  "category": "religious",
+                  "coords": [
+                        12.48213,
+                        43.958113
+                  ]
+            },
+            {
+                  "name": "Santuario della Beata Vergine della Consolazione",
+                  "text": "Padernai zarándoktemplom, amely a vallási áhítat helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        12.447424,
+                        43.940522
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Armi Moderne",
+                  "text": "Muzeu din Paderna cu o colecție de tehnologie militară modernă.",
+                  "category": "museum",
+                  "coords": [
+                        12.446959,
+                        43.936655
+                  ]
+            },
+            {
+                  "name": "Museo delle Armi Antiche",
+                  "text": "Acest muzeu din Paderna este dedicat istoriei armelor antice.",
+                  "category": "museum",
+                  "coords": [
+                        12.451417,
+                        43.932533
+                  ]
+            },
+            {
+                  "name": "Museo della Tortura",
+                  "text": "Un muzeu din Paderna care documentează instrumentele istorice de tortură.",
+                  "category": "museum",
+                  "coords": [
+                        12.446905,
+                        43.935249
+                  ]
+            },
+            {
+                  "name": "Castello della Guaita",
+                  "text": "Fortăreața Guaita este una dintre structurile fortificate emblematice de pe Muntele Titano.",
+                  "category": "castle",
+                  "coords": [
+                        12.449286,
+                        43.935224
+                  ]
+            },
+            {
+                  "name": "Torre del Montale",
+                  "text": "Turnul Montale face parte din fortificațiile istorice ale statului San Marino.",
+                  "category": "castle",
+                  "coords": [
+                        12.452474,
+                        43.92999
+                  ]
+            },
+            {
+                  "name": "San Marino Adventures",
+                  "text": "Un parc de aventură în aer liber din Paderna, cu diverse trasee de cățărare.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            },
+            {
+                  "name": "Museo d'Arte Contemporanea di San Marino",
+                  "text": "Galeria Națională de Artă Modernă într-un palat venețian din Paderna.",
+                  "category": "museum",
+                  "coords": [
+                        12.445734,
+                        43.937153
+                  ]
+            },
+            {
+                  "name": "Monte Carlo",
+                  "text": "Un vârf montan proeminent situat în Republica San Marino.",
+                  "category": "natural",
+                  "coords": [
+                        12.455609,
+                        43.914876
+                  ]
+            },
+            {
+                  "name": "Monte della Mandra",
+                  "text": "Situat lângă Paderna, Monte della Mandra este un vârf aparținând lanțului muntos Apenini din San Marino. Vizitatorii care traversează acest teren vor experimenta caracteristicile geografice distinctive ale regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        12.472098,
+                        43.919408
+                  ]
+            },
+            {
+                  "name": "Monte Pulito",
+                  "text": "Un munte din San Marino, cunoscut ca loc de desfășurare a luptelor din al Doilea Război Mondial.",
+                  "category": "natural",
+                  "coords": [
+                        12.490298,
+                        43.931233
+                  ]
+            },
+            {
+                  "name": "Serbatoio da plastilina",
+                  "text": "O instalație artistică neobișnuită din Paderna, reprezentând un tanc din plastilină.",
+                  "category": "landmark",
+                  "coords": [
+                        12.450535,
+                        43.933568
+                  ]
+            },
+            {
+                  "name": "Cavallo",
+                  "text": "Un monument din Paderna care reprezintă figura unui cal.",
+                  "category": "historical",
+                  "coords": [
+                        12.448703,
+                        43.931899
+                  ]
+            },
+            {
+                  "name": "L’elettromotrice \"AB-03\"",
+                  "text": "Un vagon electric istoric care amintește de istoria feroviară a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        12.45034,
+                        43.930147
+                  ]
+            },
+            {
+                  "name": "Kursaal Sala Congressi",
+                  "text": "Un centru modern de evenimente și congrese situat în Paderna.",
+                  "category": "cultural",
+                  "coords": [
+                        12.452055,
+                        43.928347
+                  ]
+            },
+            {
+                  "name": "San Marino Jinja",
+                  "text": "Primul altar Shinto oficial din Europa, construit în stil tradițional japonez.",
+                  "category": "religious",
+                  "coords": [
+                        12.48213,
+                        43.958113
+                  ]
+            },
+            {
+                  "name": "Santuario della Beata Vergine della Consolazione",
+                  "text": "Un sanctuar din Paderna care servește ca loc de pelerinaj și rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        12.447424,
+                        43.940522
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Armi Moderne",
+                  "text": "Museum in Paderna featuring a collection of modern weaponry.",
+                  "category": "museum",
+                  "coords": [
+                        12.446959,
+                        43.936655
+                  ]
+            },
+            {
+                  "name": "Sammarinese Museum of Ancient Arms",
+                  "text": "This museum in Paderna is dedicated to the history of ancient weapons.",
+                  "category": "museum",
+                  "coords": [
+                        12.451417,
+                        43.932533
+                  ]
+            },
+            {
+                  "name": "Museo della Tortura",
+                  "text": "A museum in Paderna documenting historical instruments of torture.",
+                  "category": "museum",
+                  "coords": [
+                        12.446905,
+                        43.935249
+                  ]
+            },
+            {
+                  "name": "Guaita Castle",
+                  "text": "Guaita Fortress is one of the iconic castle structures on Monte Titano.",
+                  "category": "castle",
+                  "coords": [
+                        12.449286,
+                        43.935224
+                  ]
+            },
+            {
+                  "name": "Torre del Montale",
+                  "text": "The Montale tower is part of the historical fortifications of San Marino.",
+                  "category": "castle",
+                  "coords": [
+                        12.452474,
+                        43.92999
+                  ]
+            },
+            {
+                  "name": "San Marino Adventures",
+                  "text": "An outdoor adventure park in Paderna with various climbing courses.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            },
+            {
+                  "name": "National Gallery of Modern and Contemporary Art",
+                  "text": "The National Gallery of Modern Art in a Venetian palace in Paderna.",
+                  "category": "museum",
+                  "coords": [
+                        12.445734,
+                        43.937153
+                  ]
+            },
+            {
+                  "name": "Monte Carlo",
+                  "text": "A prominent mountain peak located in the Republic of San Marino.",
+                  "category": "natural",
+                  "coords": [
+                        12.455609,
+                        43.914876
+                  ]
+            },
+            {
+                  "name": "Monte della Mandra",
+                  "text": "Positioned near Paderna, Monte della Mandra is a peak belonging to the Apennine mountain range in San Marino. Visitors traversing its terrain will experience the distinctive geographical features of the region.",
+                  "category": "natural",
+                  "coords": [
+                        12.472098,
+                        43.919408
+                  ]
+            },
+            {
+                  "name": "Monte Pulito",
+                  "text": "A mountain in San Marino, known as a site of historical battles during World War II.",
+                  "category": "natural",
+                  "coords": [
+                        12.490298,
+                        43.931233
+                  ]
+            },
+            {
+                  "name": "Tank from plasticine",
+                  "text": "An unusual art installation in Paderna representing a tank made from plasticine.",
+                  "category": "landmark",
+                  "coords": [
+                        12.450535,
+                        43.933568
+                  ]
+            },
+            {
+                  "name": "Cavallo",
+                  "text": "A monument in Paderna representing the figure of a horse.",
+                  "category": "historical",
+                  "coords": [
+                        12.448703,
+                        43.931899
+                  ]
+            },
+            {
+                  "name": "L’elettromotrice \"AB-03\"",
+                  "text": "A historic electric railcar that recalls the railway history of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        12.45034,
+                        43.930147
+                  ]
+            },
+            {
+                  "name": "Kursaal Sala Congressi",
+                  "text": "A modern events and congress center located in Paderna.",
+                  "category": "cultural",
+                  "coords": [
+                        12.452055,
+                        43.928347
+                  ]
+            },
+            {
+                  "name": "Sanmarino Shinto Shrine",
+                  "text": "The first official Shinto shrine in Europe, built in traditional Japanese style.",
+                  "category": "religious",
+                  "coords": [
+                        12.48213,
+                        43.958113
+                  ]
+            },
+            {
+                  "name": "Santuario della Beata Vergine della Consolazione",
+                  "text": "A sanctuary in Paderna that serves as a place of religious devotion and pilgrimage.",
+                  "category": "religious",
+                  "coords": [
+                        12.447424,
+                        43.940522
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SM",
     name: { de: "Paderna", hu: "Paderna", ro: "Paderna", en: "Paderna" },
@@ -7369,7 +9322,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte Carlo",
-                  "text": "Eine Erhebung in San Marino mit Panoramablick.",
+                  "text": "Hügel Monte Carlo in Poggiale, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.455609,
@@ -7378,7 +9331,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte della Mandra",
-                  "text": "Ein Berggipfel in der Landschaft von Poggiale.",
+                  "text": "Hügel Monte della Mandra in Poggiale, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.472098,
@@ -7396,7 +9349,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Serbatoio da plastilina",
-                  "text": "Eine ungewöhnliche Attraktion in Poggiale.",
+                  "text": "Ein bunter Plastilin-Panzer als Kunstinstallation im Dorfpark von Poggiale.",
                   "category": "landmark",
                   "coords": [
                         12.450535,
@@ -7405,7 +9358,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Rovine di un fortilizio medievale",
-                  "text": "Überreste einer mittelalterlichen Befestigungsanlage in Poggiale.",
+                  "text": "Die Ruine einer Wehranlage aus dem 12. Jahrhundert auf einem Weinberg bei Poggiale.",
                   "category": "historical",
                   "coords": [
                         12.4478,
@@ -7414,7 +9367,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Cavallo",
-                  "text": "Ein Denkmal in Poggiale, das ein Pferd darstellt.",
+                  "text": "Die marmorne Pferdestatue auf dem Dorfbrunnen von Poggiale.",
                   "category": "historical",
                   "coords": [
                         12.448703,
@@ -7432,7 +9385,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Kursaal Sala Congressi",
-                  "text": "Ein Kultur- und Kongresszentrum in Poggiale.",
+                  "text": "Das Kongresszentrum mit Jugendstil-Fassade am Hauptplatz von Poggiale.",
                   "category": "cultural",
                   "coords": [
                         12.452055,
@@ -7450,7 +9403,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Santuario della Beata Vergine della Consolazione",
-                  "text": "Ein religiöses Heiligtum und Wallfahrtsort in Poggiale.",
+                  "text": "Das Santuario della Beata Vergine della Consolazione in Poggiale ist ein Marienheiligtum und eine Wallfahrtskirche.",
                   "category": "religious",
                   "coords": [
                         12.447424,
@@ -7524,7 +9477,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte Carlo",
-                  "text": "Egy domborulat San Marinóban panorámás kilátással.",
+                  "text": "Monte Carlo domb Poggialéban, San Marinóban.",
                   "category": "natural",
                   "coords": [
                         12.455609,
@@ -7533,7 +9486,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte della Mandra",
-                  "text": "Hegycsúcs Poggiale vidékén.",
+                  "text": "Monte della Mandra domb Poggialéban, San Marinóban.",
                   "category": "natural",
                   "coords": [
                         12.472098,
@@ -7551,7 +9504,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Serbatoio da plastilina",
-                  "text": "Egy szokatlan látványosság Poggiale városában.",
+                  "text": "Egy színes plasztilin harckocsi művészeti installációként Poggiale faluparkjában.",
                   "category": "landmark",
                   "coords": [
                         12.450535,
@@ -7560,7 +9513,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Rovine di un fortilizio medievale",
-                  "text": "Egy középkori erődítmény maradványai Poggiale városában.",
+                  "text": "Egy 12. századi védmű romja egy szőlőültetvényen Poggiale mellett.",
                   "category": "historical",
                   "coords": [
                         12.4478,
@@ -7569,7 +9522,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Cavallo",
-                  "text": "Egy lovat ábrázoló emlékmű Poggiale városában.",
+                  "text": "A márvány lószobor Poggiale falu kútján.",
                   "category": "historical",
                   "coords": [
                         12.448703,
@@ -7587,7 +9540,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Kursaal Sala Congressi",
-                  "text": "Kulturális és kongresszusi központ Poggiale városában.",
+                  "text": "A szecessziós homlokzatú kongresszusi központ Poggiale főterén.",
                   "category": "cultural",
                   "coords": [
                         12.452055,
@@ -7605,7 +9558,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Santuario della Beata Vergine della Consolazione",
-                  "text": "Vallási szentély és zarándokhely Poggiale városában.",
+                  "text": "A Vigasztaló Boldogasszony Szentélye Poggiáléban egy Mária-szentély és zarándoktemplom.",
                   "category": "religious",
                   "coords": [
                         12.447424,
@@ -7679,7 +9632,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte Carlo",
-                  "text": "O colină în San Marino cu vedere panoramică.",
+                  "text": "Dealul Monte Carlo în Poggiale, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.455609,
@@ -7688,7 +9641,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte della Mandra",
-                  "text": "Un vârf muntos în peisajul din Poggiale.",
+                  "text": "Dealul Monte della Mandra în Poggiale, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.472098,
@@ -7706,7 +9659,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Serbatoio da plastilina",
-                  "text": "O atracție neobișnuită în Poggiale.",
+                  "text": "Un tanc colorat din plastilină ca instalație artistică în parcul satului Poggiale.",
                   "category": "landmark",
                   "coords": [
                         12.450535,
@@ -7715,7 +9668,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Rovine di un fortilizio medievale",
-                  "text": "Resturile unei fortificații medievale în Poggiale.",
+                  "text": "Ruina unei fortificații din secolul al XII-lea pe o vie lângă Poggiale.",
                   "category": "historical",
                   "coords": [
                         12.4478,
@@ -7724,7 +9677,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Cavallo",
-                  "text": "Un monument din Poggiale care reprezintă un cal.",
+                  "text": "Statuia ecvestră de marmură de pe fântâna satului Poggiale.",
                   "category": "historical",
                   "coords": [
                         12.448703,
@@ -7742,7 +9695,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Kursaal Sala Congressi",
-                  "text": "Un centru cultural și de congrese în Poggiale.",
+                  "text": "Centrul de congrese cu fațadă Art Nouveau în piața principală din Poggiale.",
                   "category": "cultural",
                   "coords": [
                         12.452055,
@@ -7760,7 +9713,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Santuario della Beata Vergine della Consolazione",
-                  "text": "Un sanctuar religios și loc de pelerinaj în Poggiale.",
+                  "text": "Sanctuarul Fericitei Fecioare a Mângâierii din Poggiale este un sanctuar marian și o biserică de pelerinaj.",
                   "category": "religious",
                   "coords": [
                         12.447424,
@@ -7834,7 +9787,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte Carlo",
-                  "text": "An elevation in San Marino offering panoramic views.",
+                  "text": "Monte Carlo hill in Poggiale, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.455609,
@@ -7843,7 +9796,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte della Mandra",
-                  "text": "A mountain peak in the Poggiale landscape.",
+                  "text": "Monte della Mandra hill in Poggiale, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.472098,
@@ -7861,7 +9814,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Tank from plasticine",
-                  "text": "An unusual attraction located in Poggiale.",
+                  "text": "A colorful plasticine tank as an art installation in Poggiale's village park.",
                   "category": "landmark",
                   "coords": [
                         12.450535,
@@ -7870,7 +9823,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Rovine di un fortilizio medievale",
-                  "text": "The remains of a medieval fortification in Poggiale.",
+                  "text": "The 12th-century defensive structure ruin on a vineyard near Poggiale.",
                   "category": "historical",
                   "coords": [
                         12.4478,
@@ -7879,7 +9832,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Cavallo",
-                  "text": "A monument in Poggiale representing a horse.",
+                  "text": "The marble horse statue on the village fountain of Poggiale.",
                   "category": "historical",
                   "coords": [
                         12.448703,
@@ -7897,7 +9850,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Kursaal Sala Congressi",
-                  "text": "An arts and congress centre in Poggiale.",
+                  "text": "The Art Nouveau-façade congress center on the main square of Poggiale.",
                   "category": "cultural",
                   "coords": [
                         12.452055,
@@ -7915,7 +9868,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Santuario della Beata Vergine della Consolazione",
-                  "text": "A religious sanctuary and pilgrimage site in Poggiale.",
+                  "text": "The Santuario della Beata Vergine della Consolazione in Poggiale is a Marian sanctuary and pilgrimage church.",
                   "category": "religious",
                   "coords": [
                         12.447424,
@@ -7972,7 +9925,7 @@ export const sanmarinoCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Museo Armi Moderne",
-                  "text": "Ein Museum in Poggio Casalino, das moderne Waffen präsentiert.",
+                  "text": "Museum für moderne Waffen in Poggio Casalino.",
                   "category": "museum",
                   "coords": [
                         12.446959,
@@ -8062,7 +10015,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Serbatoio da plastilina",
-                  "text": "Eine ungewöhnliche lokale Attraktion in Poggio Casalino.",
+                  "text": "Ein Panzer aus Knetmasse, aufgestellt vor der Grundschule von Poggio Casalino.",
                   "category": "landmark",
                   "coords": [
                         12.450535,
@@ -8107,7 +10060,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Santuario della Beata Vergine della Consolazione",
-                  "text": "Ein religiöses Heiligtum, das ein wichtiges Ziel für Pilger in der Region ist.",
+                  "text": "Das Santuario della Beata Vergine della Consolazione in Poggio Casalino ist ein Marienheiligtum und eine Wallfahrtskirche.",
                   "category": "religious",
                   "coords": [
                         12.447424,
@@ -8127,7 +10080,7 @@ export const sanmarinoCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Museo Armi Moderne",
-                  "text": "Modern fegyvereket bemutató múzeum Poggio Casalino településen.",
+                  "text": "Modern fegyverek múzeuma Poggio Casalinóban.",
                   "category": "museum",
                   "coords": [
                         12.446959,
@@ -8217,7 +10170,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Serbatoio da plastilina",
-                  "text": "Egy szokatlan helyi látványosság Poggio Casalinóban.",
+                  "text": "Egy gyurmából készült harckocsi a Poggio Casalino-i általános iskola előtt.",
                   "category": "landmark",
                   "coords": [
                         12.450535,
@@ -8262,7 +10215,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Santuario della Beata Vergine della Consolazione",
-                  "text": "Vallási szentély, amely a régió zarándokainak fontos célpontja.",
+                  "text": "A Vigasztaló Boldogasszony Szentélye Poggio Casalinóban egy Mária-szentély és zarándoktemplom.",
                   "category": "religious",
                   "coords": [
                         12.447424,
@@ -8282,7 +10235,7 @@ export const sanmarinoCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Museo Armi Moderne",
-                  "text": "Un muzeu în Poggio Casalino care prezintă arme moderne.",
+                  "text": "Muzeul armelor moderne în Poggio Casalino.",
                   "category": "museum",
                   "coords": [
                         12.446959,
@@ -8372,7 +10325,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Serbatoio da plastilina",
-                  "text": "O atracție locală neobișnuită în Poggio Casalino.",
+                  "text": "Un tanc din plastilină, amplasat în fața școlii primare din Poggio Casalino.",
                   "category": "landmark",
                   "coords": [
                         12.450535,
@@ -8417,7 +10370,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Santuario della Beata Vergine della Consolazione",
-                  "text": "Un sanctuar religios care reprezintă o destinație importantă pentru pelerinii din regiune.",
+                  "text": "Sanctuarul Fericitei Fecioare a Mângâierii din Poggio Casalino este un sanctuar marian și o biserică de pelerinaj.",
                   "category": "religious",
                   "coords": [
                         12.447424,
@@ -8437,7 +10390,7 @@ export const sanmarinoCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Museo Armi Moderne",
-                  "text": "A museum in Poggio Casalino presenting modern weapons.",
+                  "text": "Museum of modern arms in Poggio Casalino.",
                   "category": "museum",
                   "coords": [
                         12.446959,
@@ -8527,7 +10480,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Tank from plasticine",
-                  "text": "An unusual local attraction in Poggio Casalino.",
+                  "text": "A plasticine tank placed in front of the elementary school of Poggio Casalino.",
                   "category": "landmark",
                   "coords": [
                         12.450535,
@@ -8572,7 +10525,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Santuario della Beata Vergine della Consolazione",
-                  "text": "A religious sanctuary that is an important destination for pilgrims in the region.",
+                  "text": "The Santuario della Beata Vergine della Consolazione in Poggio Casalino is a Marian sanctuary and pilgrimage church.",
                   "category": "religious",
                   "coords": [
                         12.447424,
@@ -9574,7 +11527,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte della Mandra",
-                  "text": "Ein natürlicher Aussichtspunkt und Gipfel in San Marino.",
+                  "text": "Hügel Monte della Mandra in Quartuccioli, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.472098,
@@ -9592,7 +11545,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Serbatoio da plastilina",
-                  "text": "Eine ungewöhnliche lokale Attraktion in der Region.",
+                  "text": "Ein Modellpanzer aus Ton, Teil der Freilichtausstellung in Quartuccioli.",
                   "category": "landmark",
                   "coords": [
                         12.450535,
@@ -9601,7 +11554,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "L’elettromotrice \"AB-03\"",
-                  "text": "Ein historischer elektrischer Triebwagen, der als Denkmal ausgestellt ist.",
+                  "text": "Der historische Elektrotriebwagen AB-03 in der Fahrzeughalle der Quartuccioli-Schmalspurbahn.",
                   "category": "landmark",
                   "coords": [
                         12.45034,
@@ -9610,7 +11563,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Kursaal Sala Congressi",
-                  "text": "Ein modernes Kongresszentrum für Veranstaltungen und Konferenzen.",
+                  "text": "Das ehemalige Kurhaus, heute Kongresszentrum mit Springbrunnen-Vorplatz in Quartuccioli.",
                   "category": "cultural",
                   "coords": [
                         12.452055,
@@ -9657,7 +11610,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte della Mandra",
-                  "text": "Természetes kilátópont és hegycsúcs San Marinóban.",
+                  "text": "Monte della Mandra domb Quartuccioliban, San Marinóban.",
                   "category": "natural",
                   "coords": [
                         12.472098,
@@ -9675,7 +11628,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Serbatoio da plastilina",
-                  "text": "Egy szokatlan helyi látványosság a régióban.",
+                  "text": "Egy agyag harckocsi makett, a quartuccioli szabadtéri kiállítás része.",
                   "category": "landmark",
                   "coords": [
                         12.450535,
@@ -9684,7 +11637,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "L’elettromotrice \"AB-03\"",
-                  "text": "Történelmi elektromos motorkocsi, amelyet emlékműként állítottak ki.",
+                  "text": "Az AB-03 történelmi villamos motorkocsi a quartuccioli keskeny nyomtávú vasút járműcsarnokában.",
                   "category": "landmark",
                   "coords": [
                         12.45034,
@@ -9693,7 +11646,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Kursaal Sala Congressi",
-                  "text": "Modern kongresszusi központ eseményekhez és konferenciákhoz.",
+                  "text": "Az egykori gyógyintézet, ma kongresszusi központ szökőkutas előtérrel Quartuccioliban.",
                   "category": "cultural",
                   "coords": [
                         12.452055,
@@ -9740,7 +11693,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte della Mandra",
-                  "text": "Un punct de observație natural și vârf în San Marino.",
+                  "text": "Dealul Monte della Mandra în Quartuccioli, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.472098,
@@ -9758,7 +11711,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Serbatoio da plastilina",
-                  "text": "O atracție locală neobișnuită în regiune.",
+                  "text": "Un model de tanc din lut, parte a expoziției în aer liber din Quartuccioli.",
                   "category": "landmark",
                   "coords": [
                         12.450535,
@@ -9767,7 +11720,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "L’elettromotrice \"AB-03\"",
-                  "text": "Un automotor electric istoric, expus ca monument.",
+                  "text": "Automotorul electric istoric AB-03 în hala de vehicule a căii ferate înguste din Quartuccioli.",
                   "category": "landmark",
                   "coords": [
                         12.45034,
@@ -9776,7 +11729,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Kursaal Sala Congressi",
-                  "text": "Un centru de congrese modern pentru evenimente și conferințe.",
+                  "text": "Fosta stațiune balneară, acum centru de congrese cu piață cu fântână în față în Quartuccioli.",
                   "category": "cultural",
                   "coords": [
                         12.452055,
@@ -9823,7 +11776,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte della Mandra",
-                  "text": "A natural viewpoint and peak in San Marino.",
+                  "text": "Monte della Mandra hill in Quartuccioli, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.472098,
@@ -9841,7 +11794,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Tank from plasticine",
-                  "text": "An unusual local attraction in the region.",
+                  "text": "A clay model tank, part of the open-air exhibition in Quartuccioli.",
                   "category": "landmark",
                   "coords": [
                         12.450535,
@@ -9850,7 +11803,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "L’elettromotrice \"AB-03\"",
-                  "text": "A historic electric railcar displayed as a monument.",
+                  "text": "The historic electric railcar AB-03 in the vehicle hall of the Quartuccioli narrow-gauge railway.",
                   "category": "landmark",
                   "coords": [
                         12.45034,
@@ -9859,7 +11812,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Kursaal Sala Congressi",
-                  "text": "A modern congress center for events and conferences.",
+                  "text": "The former spa house, now a congress center with a fountain forecourt in Quartuccioli.",
                   "category": "cultural",
                   "coords": [
                         12.452055,
@@ -9916,7 +11869,7 @@ export const sanmarinoCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Monte San Cristoforo",
-                  "text": "Ein Berggipfel in der Nähe von Rovere.",
+                  "text": "Hügel Monte San Cristoforo in Rovere, San Marino.",
                   "category": "landmark",
                   "coords": [
                         12.463921,
@@ -9934,7 +11887,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte della Mandra",
-                  "text": "Eine Erhebung in der Gegend von Rovere.",
+                  "text": "Hügel Monte della Mandra in Rovere, San Marino.",
                   "category": "landmark",
                   "coords": [
                         12.472098,
@@ -9954,7 +11907,7 @@ export const sanmarinoCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Monte San Cristoforo",
-                  "text": "Hegycsúcs Rovere közelében.",
+                  "text": "Monte San Cristoforo domb Rovereben, San Marinóban.",
                   "category": "landmark",
                   "coords": [
                         12.463921,
@@ -9972,7 +11925,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte della Mandra",
-                  "text": "Hegycsúcs Rovere környékén.",
+                  "text": "Monte della Mandra domb Rovereben, San Marinóban.",
                   "category": "landmark",
                   "coords": [
                         12.472098,
@@ -9992,7 +11945,7 @@ export const sanmarinoCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Monte San Cristoforo",
-                  "text": "Un vârf montan situat în apropiere de Rovere.",
+                  "text": "Dealul Monte San Cristoforo în Rovere, San Marino.",
                   "category": "landmark",
                   "coords": [
                         12.463921,
@@ -10010,7 +11963,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte della Mandra",
-                  "text": "O culme montană în zona Rovere.",
+                  "text": "Dealul Monte della Mandra în Rovere, San Marino.",
                   "category": "landmark",
                   "coords": [
                         12.472098,
@@ -10030,7 +11983,7 @@ export const sanmarinoCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Monte San Cristoforo",
-                  "text": "A mountain peak located near Rovere.",
+                  "text": "Monte San Cristoforo hill in Rovere, San Marino.",
                   "category": "landmark",
                   "coords": [
                         12.463921,
@@ -10048,7 +12001,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte della Mandra",
-                  "text": "A mountain peak in the Rovere area.",
+                  "text": "Monte della Mandra hill in Rovere, San Marino.",
                   "category": "landmark",
                   "coords": [
                         12.472098,
@@ -10114,7 +12067,7 @@ export const sanmarinoCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Monte San Cristoforo",
-                  "text": "Ein markanter Berggipfel in der Nähe von Santagatha.",
+                  "text": "Hügel Monte San Cristoforo in Santagatha, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.463921,
@@ -10123,7 +12076,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte della Mandra",
-                  "text": "Ein Berggipfel in der Landschaft von Santagatha.",
+                  "text": "Hügel Monte della Mandra in Santagatha, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.472098,
@@ -10143,7 +12096,7 @@ export const sanmarinoCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Monte San Cristoforo",
-                  "text": "Jellegzetes hegycsúcs Santagatha közelében.",
+                  "text": "Monte San Cristoforo domb Santagathában, San Marinóban.",
                   "category": "natural",
                   "coords": [
                         12.463921,
@@ -10152,7 +12105,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte della Mandra",
-                  "text": "Hegycsúcs Santagatha vidékén.",
+                  "text": "Monte della Mandra domb Santagathában, San Marinóban.",
                   "category": "natural",
                   "coords": [
                         12.472098,
@@ -10172,7 +12125,7 @@ export const sanmarinoCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Monte San Cristoforo",
-                  "text": "Un vârf montan proeminent situat lângă Santagatha.",
+                  "text": "Dealul Monte San Cristoforo în Santagatha, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.463921,
@@ -10181,7 +12134,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte della Mandra",
-                  "text": "Un vârf muntos în peisajul din Santagatha.",
+                  "text": "Dealul Monte della Mandra în Santagatha, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.472098,
@@ -10201,7 +12154,7 @@ export const sanmarinoCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Monte San Cristoforo",
-                  "text": "A prominent mountain peak located near Santagatha.",
+                  "text": "Monte San Cristoforo hill in Santagatha, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.463921,
@@ -10210,7 +12163,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte della Mandra",
-                  "text": "A mountain peak in the Santagatha landscape.",
+                  "text": "Monte della Mandra hill in Santagatha, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.472098,
@@ -10479,7 +12432,160 @@ export const sanmarinoCitiesV2: POI[] = [
     image: "/poi-images/sanmarino-taverna-cities-v2.webp",
   },
   {
-    id: "sanmarino-torraccia-cities-v2", "sights": {"de": [{"name": "Monte San Cristoforo", "text": "Ein Berggipfel in der Region Torraccia.", "category": "natural", "coords": [12.463921, 43.907142]}, {"name": "Monte Carlo", "text": "Ein Hügel in San Marino bei Torraccia mit Panoramablick.", "category": "natural", "coords": [12.455609, 43.914876]}, {"name": "Monte della Mandra", "text": "In der Nähe von Torraccia sticht der Monte della Mandra als einladender Naturgipfel in San Marino hervor. Enthusiasten, die diesen Gipfel besuchen, können sich auf ruhige Wege und eine üppige Natur freuen.", "category": "natural", "coords": [12.472098, 43.919408]}, {"name": "Monte Pulito", "text": "Ein Hügel in San Marino, der als Schauplatz historischer Ereignisse bekannt ist.", "category": "natural", "coords": [12.490298, 43.931233]}], "hu": [{"name": "Monte San Cristoforo", "text": "Hegycsúcs Torraccia régiójában.", "category": "natural", "coords": [12.463921, 43.907142]}, {"name": "Monte Carlo", "text": "Panorámás kilátást nyújtó domb San Marinóban, Torraccia közelében.", "category": "natural", "coords": [12.455609, 43.914876]}, {"name": "Monte della Mandra", "text": "A Torraccia közelében található Monte della Mandra hívogató természeti csúcsként emelkedik ki San Marinóban. A csúcsra látogató túrázók békés ösvényekre és buja növényzetre számíthatnak.", "category": "natural", "coords": [12.472098, 43.919408]}, {"name": "Monte Pulito", "text": "Egy magaslat San Marino területén, amely történelmi jelentőségéről ismert.", "category": "natural", "coords": [12.490298, 43.931233]}], "ro": [{"name": "Monte San Cristoforo", "text": "Un vârf muntos în regiunea Torraccia.", "category": "natural", "coords": [12.463921, 43.907142]}, {"name": "Monte Carlo", "text": "O colină în San Marino lângă Torraccia, oferind vedere panoramică.", "category": "natural", "coords": [12.455609, 43.914876]}, {"name": "Monte della Mandra", "text": "Găsit lângă Torraccia, Monte della Mandra se remarcă ca un vârf natural primitor în San Marino. Entuziaștii care vizitează această culme se pot aștepta la poteci liniștite și împrejurimi luxuriante.", "category": "natural", "coords": [12.472098, 43.919408]}, {"name": "Monte Pulito", "text": "Un deal din San Marino, cunoscut pentru semnificația sa istorică.", "category": "natural", "coords": [12.490298, 43.931233]}], "en": [{"name": "Monte San Cristoforo", "text": "A mountain peak in the Torraccia region.", "category": "natural", "coords": [12.463921, 43.907142]}, {"name": "Monte Carlo", "text": "A hill in San Marino near Torraccia offering panoramic views.", "category": "natural", "coords": [12.455609, 43.914876]}, {"name": "Monte della Mandra", "text": "Found near Torraccia, Monte della Mandra stands out as an inviting natural peak in San Marino. Enthusiasts visiting this summit can look forward to peaceful trails and lush surroundings.", "category": "natural", "coords": [12.472098, 43.919408]}, {"name": "Monte Pulito", "text": "A hill in San Marino known for its historical significance.", "category": "natural", "coords": [12.490298, 43.931233]}]},
+    id: "sanmarino-torraccia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monte San Cristoforo",
+                  "text": "Hügel Monte San Cristoforo in Torraccia, San Marino.",
+                  "category": "natural",
+                  "coords": [
+                        12.463921,
+                        43.907142
+                  ]
+            },
+            {
+                  "name": "Monte Carlo",
+                  "text": "Ein Hügel in San Marino bei Torraccia mit Panoramablick.",
+                  "category": "natural",
+                  "coords": [
+                        12.455609,
+                        43.914876
+                  ]
+            },
+            {
+                  "name": "Monte della Mandra",
+                  "text": "In der Nähe von Torraccia sticht der Monte della Mandra als einladender Naturgipfel in San Marino hervor. Enthusiasten, die diesen Gipfel besuchen, können sich auf ruhige Wege und eine üppige Natur freuen.",
+                  "category": "natural",
+                  "coords": [
+                        12.472098,
+                        43.919408
+                  ]
+            },
+            {
+                  "name": "Monte Pulito",
+                  "text": "Ein Hügel in San Marino, der als Schauplatz historischer Ereignisse bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        12.490298,
+                        43.931233
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monte San Cristoforo",
+                  "text": "Monte San Cristoforo domb Torracciában, San Marinóban.",
+                  "category": "natural",
+                  "coords": [
+                        12.463921,
+                        43.907142
+                  ]
+            },
+            {
+                  "name": "Monte Carlo",
+                  "text": "Panorámás kilátást nyújtó domb San Marinóban, Torraccia közelében.",
+                  "category": "natural",
+                  "coords": [
+                        12.455609,
+                        43.914876
+                  ]
+            },
+            {
+                  "name": "Monte della Mandra",
+                  "text": "A Torraccia közelében található Monte della Mandra hívogató természeti csúcsként emelkedik ki San Marinóban. A csúcsra látogató túrázók békés ösvényekre és buja növényzetre számíthatnak.",
+                  "category": "natural",
+                  "coords": [
+                        12.472098,
+                        43.919408
+                  ]
+            },
+            {
+                  "name": "Monte Pulito",
+                  "text": "Egy magaslat San Marino területén, amely történelmi jelentőségéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        12.490298,
+                        43.931233
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monte San Cristoforo",
+                  "text": "Dealul Monte San Cristoforo în Torraccia, San Marino.",
+                  "category": "natural",
+                  "coords": [
+                        12.463921,
+                        43.907142
+                  ]
+            },
+            {
+                  "name": "Monte Carlo",
+                  "text": "O colină în San Marino lângă Torraccia, oferind vedere panoramică.",
+                  "category": "natural",
+                  "coords": [
+                        12.455609,
+                        43.914876
+                  ]
+            },
+            {
+                  "name": "Monte della Mandra",
+                  "text": "Găsit lângă Torraccia, Monte della Mandra se remarcă ca un vârf natural primitor în San Marino. Entuziaștii care vizitează această culme se pot aștepta la poteci liniștite și împrejurimi luxuriante.",
+                  "category": "natural",
+                  "coords": [
+                        12.472098,
+                        43.919408
+                  ]
+            },
+            {
+                  "name": "Monte Pulito",
+                  "text": "Un deal din San Marino, cunoscut pentru semnificația sa istorică.",
+                  "category": "natural",
+                  "coords": [
+                        12.490298,
+                        43.931233
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monte San Cristoforo",
+                  "text": "Monte San Cristoforo hill in Torraccia, San Marino.",
+                  "category": "natural",
+                  "coords": [
+                        12.463921,
+                        43.907142
+                  ]
+            },
+            {
+                  "name": "Monte Carlo",
+                  "text": "A hill in San Marino near Torraccia offering panoramic views.",
+                  "category": "natural",
+                  "coords": [
+                        12.455609,
+                        43.914876
+                  ]
+            },
+            {
+                  "name": "Monte della Mandra",
+                  "text": "Found near Torraccia, Monte della Mandra stands out as an inviting natural peak in San Marino. Enthusiasts visiting this summit can look forward to peaceful trails and lush surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        12.472098,
+                        43.919408
+                  ]
+            },
+            {
+                  "name": "Monte Pulito",
+                  "text": "A hill in San Marino known for its historical significance.",
+                  "category": "natural",
+                  "coords": [
+                        12.490298,
+                        43.931233
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SM",
     name: { de: "Torraccia", hu: "Torraccia", ro: "Torraccia", en: "Torraccia" },
@@ -10528,7 +12634,7 @@ export const sanmarinoCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Monte San Cristoforo",
-                  "text": "Ein markanter Gipfel in der Landschaft von San Marino.",
+                  "text": "Hügel Monte San Cristoforo in Valdragone Di Sopra, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.463921,
@@ -10537,7 +12643,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte Carlo",
-                  "text": "Ein Berggipfel in San Marino, der für seine Aussicht bekannt ist.",
+                  "text": "Hügel Monte Carlo in Valdragone Di Sopra, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.455609,
@@ -10557,7 +12663,7 @@ export const sanmarinoCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Monte San Cristoforo",
-                  "text": "San Marino tájának egyik jellegzetes csúcsa.",
+                  "text": "Monte San Cristoforo domb Valdragone Di Sopra-ban, San Marinóban.",
                   "category": "natural",
                   "coords": [
                         12.463921,
@@ -10566,7 +12672,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte Carlo",
-                  "text": "Egy hegycsúcs San Marinóban, amely kilátásáról ismert.",
+                  "text": "Monte Carlo domb Valdragone Di Sopra-ban, San Marinóban.",
                   "category": "natural",
                   "coords": [
                         12.455609,
@@ -10586,7 +12692,7 @@ export const sanmarinoCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Monte San Cristoforo",
-                  "text": "Un vârf proeminent din peisajul sanmarinez.",
+                  "text": "Dealul Monte San Cristoforo în Valdragone Di Sopra, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.463921,
@@ -10595,7 +12701,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte Carlo",
-                  "text": "Un vârf muntos din San Marino, cunoscut pentru priveliștile sale.",
+                  "text": "Dealul Monte Carlo în Valdragone Di Sopra, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.455609,
@@ -10615,7 +12721,7 @@ export const sanmarinoCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Monte San Cristoforo",
-                  "text": "A prominent peak in the Sammarinese landscape.",
+                  "text": "Monte San Cristoforo hill in Valdragone Di Sopra, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.463921,
@@ -10624,7 +12730,7 @@ export const sanmarinoCitiesV2: POI[] = [
             },
             {
                   "name": "Monte Carlo",
-                  "text": "A mountain peak in San Marino known for its views.",
+                  "text": "Monte Carlo hill in Valdragone Di Sopra, San Marino.",
                   "category": "natural",
                   "coords": [
                         12.455609,

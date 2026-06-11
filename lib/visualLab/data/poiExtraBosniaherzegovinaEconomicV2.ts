@@ -501,7 +501,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             },
             {
                   "name": "Crkva Svetih apostola Petra i Pavla",
-                  "text": "Eine orthodoxe Kirche, die den Aposteln Petrus und Paulus gewidmet ist.",
+                  "text": "Crkva Svetih apostola Petra i Pavla ist eine orthodoxe Kirche nahe dem Kraftwerk Ugljevik, erbaut im 20. Jahrhundert.",
                   "category": "religious",
                   "coords": [
                         18.993542,
@@ -557,7 +557,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             },
             {
                   "name": "Crkva Svetih apostola Petra i Pavla",
-                  "text": "Szent Péter és Pál apostoloknak szentelt ortodox templom.",
+                  "text": "A Crkva Svetih apostola Petra i Pavla egy ortodox templom az Ugljevik Erőmű közelében, a 20. században épült.",
                   "category": "religious",
                   "coords": [
                         18.993542,
@@ -613,7 +613,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             },
             {
                   "name": "Crkva Svetih apostola Petra i Pavla",
-                  "text": "O biserică ortodoxă dedicată Sfinților Apostoli Petru și Pavel.",
+                  "text": "Crkva Svetih apostola Petra i Pavla este o biserică ortodoxă lângă Centrala Ugljevik, construită în secolul al XX-lea.",
                   "category": "religious",
                   "coords": [
                         18.993542,
@@ -669,7 +669,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             },
             {
                   "name": "Crkva Svetih apostola Petra i Pavla",
-                  "text": "An Orthodox church dedicated to Saints Peter and Paul.",
+                  "text": "Crkva Svetih apostola Petra i Pavla is an Orthodox church near the Ugljevik Power Plant, built in the 20th century.",
                   "category": "religious",
                   "coords": [
                         18.993542,
@@ -1307,7 +1307,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Kazalište",
-                  "text": "Ein Theater in der Gewerbezone von Vitez.",
+                  "text": "Das Theatre ist eine kulturelle Spielstätte in der Vitez Business Zone mit Aufführungen.",
                   "category": "cultural",
                   "coords": [
                         17.791445,
@@ -1316,7 +1316,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             },
             {
                   "name": "Vodeni park \"Ribica\"",
-                  "text": "Ein beliebter Wasserpark für Freizeitaktivitäten in Vitez.",
+                  "text": "Der Wasserpark 'Ribica' ist ein familienfreundlicher Wasserpark in der Vitez Business Zone.",
                   "category": "family",
                   "coords": [
                         17.778318,
@@ -1327,7 +1327,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Kazalište",
-                  "text": "Színház Vitez ipari negyedében.",
+                  "text": "A Theatre egy kulturális helyszín a Vitez Business Zone-ban, előadásokkal.",
                   "category": "cultural",
                   "coords": [
                         17.791445,
@@ -1336,7 +1336,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             },
             {
                   "name": "Vodeni park \"Ribica\"",
-                  "text": "Népszerű vízi park Vitez városában.",
+                  "text": "A 'Ribica' vízipark egy családbarát vízi park a Vitez Business Zone-ban.",
                   "category": "family",
                   "coords": [
                         17.778318,
@@ -1347,7 +1347,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Kazalište",
-                  "text": "Un teatru în zona industrială din Vitez.",
+                  "text": "Theatre este un loc cultural în Zona de Afaceri Vitez, cu spectacole.",
                   "category": "cultural",
                   "coords": [
                         17.791445,
@@ -1356,7 +1356,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             },
             {
                   "name": "Vodeni park \"Ribica\"",
-                  "text": "Un parc acvatic popular în Vitez.",
+                  "text": "Parcul acvatic 'Ribica' este un parc acvatic prietenos cu familia în Zona de Afaceri Vitez.",
                   "category": "family",
                   "coords": [
                         17.778318,
@@ -1367,7 +1367,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Theatre",
-                  "text": "A theatre located in the commercial zone of Vitez.",
+                  "text": "Theatre is a cultural venue in the Vitez Business Zone, hosting performances.",
                   "category": "cultural",
                   "coords": [
                         17.791445,
@@ -1376,7 +1376,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             },
             {
                   "name": "Vodeni park \"Ribica\"",
-                  "text": "A popular water park for recreation in Vitez.",
+                  "text": "Vodeni park 'Ribica' is a family water park in the Vitez Business Zone.",
                   "category": "family",
                   "coords": [
                         17.778318,
@@ -1619,7 +1619,1420 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
     }
   },
   {
-    id: "bosniaherzegovina-banja-luka-business-district-economic-v2", "sights": {"de": [{"name": "Muzej savremene umjetnosti Repubike Srpske", "text": "Dieses Museum in Banja Luka präsentiert zeitgenössische Kunst in einem ehemaligen Bahnhofsgebäude.", "category": "museum", "coords": [17.189647, 44.772263]}, {"name": "Narodno pozorište Republike Srpske", "text": "Das Haupttheater der Republik Srpska in Banja Luka, das bedeutende kulturelle Aufführungen zeigt.", "category": "cultural", "coords": [17.193333, 44.774011]}, {"name": "Tvrđava Kastel", "text": "Eine historische Festung am Ufer des Vrbas, deren Wurzeln bis in die Römerzeit zurückreichen.", "category": "castle", "coords": [17.190786, 44.766456]}, {"name": "Muzej Republike Srpske", "text": "Ein Museum in Banja Luka, das sich der Geschichte und dem Erbe der Region widmet.", "category": "museum", "coords": [17.191816, 44.769195]}, {"name": "Dječije pozorište Republike Srpske", "text": "Ein spezialisiertes Theater in Banja Luka mit Aufführungen für ein jüngeres Publikum.", "category": "cultural", "coords": [17.190867, 44.768983]}, {"name": "Gradsko pozorište Jazavac", "text": "Ein städtisches Theater in Banja Luka, das moderne Bühnenstücke und Kulturprogramme anbietet.", "category": "cultural", "coords": [17.191146, 44.764243]}, {"name": "Ljetna pozornica", "text": "Ein Freilufttheater in Banja Luka für kulturelle Veranstaltungen im Freien.", "category": "cultural", "coords": [17.189757, 44.766946]}, {"name": "Banjalučko studentsko pozorište", "text": "Eine studentische Theaterbühne in Banja Luka für junge Talente und kreative Projekte.", "category": "cultural", "coords": [17.19148, 44.771275]}, {"name": "Muzej sporta", "text": "Ein Museum in Banja Luka, das die sportlichen Erfolge und die Geschichte der Stadt dokumentiert.", "category": "museum", "coords": [17.202164, 44.773716]}, {"name": "Freizeitbad Aquana", "text": "Ein großer Wasserpark in Banja Luka mit verschiedenen Pools und Freizeiteinrichtungen.", "category": "family", "coords": [17.205799, 44.773739]}, {"name": "Eparhija banjalučka", "text": "Der Bischofspalast in Banja Luka, Sitz der Eparchie von Banja Luka.", "category": "castle", "coords": [17.195654, 44.77434]}, {"name": "Biskupski ordinarijat Banja Luka", "text": "Die offizielle Residenz und Verwaltung des katholischen Bischofs in Banja Luka.", "category": "castle", "coords": [17.195478, 44.775373]}, {"name": "Zlajina plaža", "text": "Zlajina plaža ist ein herrlicher Strandabschnitt am Ufer des Vrbas, der mitten im Business District von Banja Luka eine grüne Oase bildet. Die Umgebung bietet hervorragende Möglichkeiten für Erholung und Freizeit abseits des städtischen Trubels. Besucher können am Flussufer entspannen, die Füße ins kühle Wasser halten oder die Sonne genießen. An warmen Sommertagen ist dieser Ort ideal, um nach der Arbeit oder dem Sightseeing neue Energie zu tanken.", "category": "recreational", "coords": [17.181611, 44.758893]}, {"name": "Galerija Kević", "text": "Eine Kunstgalerie in Banja Luka, die Werke lokaler und regionaler Künstler ausstellt.", "category": "museum", "coords": [17.200575, 44.775198]}, {"name": "Kristov kip", "text": "Ein religiöses Denkmal in Banja Luka, das eine Christusstatue darstellt.", "category": "historical", "coords": [17.194531, 44.775223]}, {"name": "Abacija", "text": "Eine Freizeitanlage am Flussufer in Banja Luka, die zum Baden und Entspannen einlädt.", "category": "recreational", "coords": [17.184376, 44.761569]}, {"name": "Dajak pristanište", "text": "Ein Anlegeplatz für die traditionellen Dajak-Boote am Ufer des Flusses Vrbas.", "category": "landmark", "coords": [17.18684, 44.763727]}, {"name": "Kult Art", "text": "Ein lokales Kultur- und Kunstzentrum in Banja Luka für verschiedene kreative Aktivitäten.", "category": "cultural", "coords": [17.193167, 44.758636]}, {"name": "Spomen obilježje poginulim pripadnicima MUP-a Republike Srpske", "text": "Ein Denkmal zu Ehren der gefallenen Mitglieder des Innenministeriums der Republik Srpska.", "category": "historical", "coords": [17.20698, 44.764654]}, {"name": "Banjalučki klavirski atelje", "text": "Ein Kulturzentrum in Banja Luka, das sich der Klaviermusik und Ausbildung widmet.", "category": "cultural", "coords": [17.18703, 44.767251]}, {"name": "Galerija plus", "text": "Eine Galerie in Banja Luka, die moderne Kunstwerke und wechselnde Ausstellungen präsentiert.", "category": "museum", "coords": [17.192689, 44.771299]}, {"name": "Banjalučka arena", "text": "Ein Sport- und Veranstaltungszentrum in Banja Luka für verschiedene Attraktionen.", "category": "landmark", "coords": [17.203854, 44.778915]}, {"name": "Srednjovijekovni bunar", "text": "Die Überreste eines historischen Brunnens aus dem Mittelalter in Banja Luka.", "category": "historical", "coords": [17.188309, 44.767742]}, {"name": "Ostaci hrama Sv. Trojice porušenog 1941", "text": "Ein Denkmal, das an die zerstörte Kirche der Heiligen Dreifaltigkeit in Banja Luka erinnert.", "category": "historical", "coords": [17.191931, 44.77257]}, {"name": "Kuća Levi", "text": "Die historischen Überreste der ehemaligen Residenz der Familie Levi in Banja Luka.", "category": "historical", "coords": [17.193965, 44.771048]}, {"name": "Hram rođenja Presvete Bogorodice", "text": "Ein orthodoxes Gotteshaus in Banja Luka, gewidmet der Geburt der Jungfrau Maria.", "category": "religious", "coords": [17.210224, 44.766538]}, {"name": "Stupnička / hadži Saliha džamija", "text": "Eine historische Moschee im Stadtteil Stupnica, bekannt als Hadži Saliha Moschee.", "category": "religious", "coords": [17.184255, 44.758797]}, {"name": "Gazanferija / Gazanfer-begova džamija", "text": "Eine traditionelle Moschee in Banja Luka, benannt nach Gazanfer-beg.", "category": "religious", "coords": [17.188746, 44.7627]}, {"name": "Hisečka / Mehdi-begova džamija", "text": "Eine lokale Moschee in Banja Luka, die ein wichtiges religiöses Zentrum für die Gemeinde darstellt.", "category": "religious", "coords": [17.177223, 44.756264]}, {"name": "Potočka / Hadži-Pervizova džamija", "text": "Die Potočka-Moschee ist ein historisches islamisches Gebetshaus im Herzen von Banja Luka.", "category": "religious", "coords": [17.18981, 44.758323]}, {"name": "Potpećinska / Sefer-begova džamija", "text": "Eine historische Moschee in Banja Luka, die nach Sefer-beg benannt ist.", "category": "religious", "coords": [17.177978, 44.765791]}, {"name": "Dolačka / Hadži Omerova džamija", "text": "Ein bedeutendes islamisches Denkmal und Gebetshaus im Stadtteil Dolac von Banja Luka.", "category": "religious", "coords": [17.193888, 44.767212]}, {"name": "Arnaudija", "text": "Eine wiederaufgebaute historische Moschee in Banja Luka, ein Juwel osmanischer Architektur.", "category": "religious", "coords": [17.181941, 44.770001]}, {"name": "Talih / Hadži Osmanbega džamija", "text": "Die Talih-Moschee ist ein traditionelles religiöses Bauwerk in Banja Luka.", "category": "religious", "coords": [17.17894, 44.769948]}, {"name": "KiDS Escape Room", "text": "Ein spannendes Escape-Room-Erlebnis für Kindern im Geschäftsviertel von Banja Luka.", "category": "family", "coords": [17.176315, 44.776974]}, {"name": "Balvani", "text": "Ein Spielplatz im Geschäftsviertel von Banja Luka für eine Pause mit der Familie.", "category": "family", "coords": [17.200852, 44.770167]}, {"name": "Svako dobro", "text": "Ein familienfreundlicher Spielplatz in Banja Luka für Spiel und Erholung.", "category": "family", "coords": [17.190077, 44.759799]}, {"name": "Moja kravica", "text": "Ein fantasievoller Spielplatz für Kinder im Herzen von Banja Luka.", "category": "family", "coords": [17.201325, 44.779656]}, {"name": "Skulptura Srca", "text": "Ein origineller Spielplatz in Banja Luka, der zum Entdecken und Spielen einlädt.", "category": "family", "coords": [17.209595, 44.77825]}], "hu": [{"name": "Muzej savremene umjetnosti Repubike Srpske", "text": "Ez a Banja Luka-i múzeum kortárs művészeti alkotásokat mutat be egy egykori vasútállomás épületében.", "category": "museum", "coords": [17.189647, 44.772263]}, {"name": "Narodno pozorište Republike Srpske", "text": "A Szerb Köztársaság fő színháza Banja Lukában, amely jelentős kulturális előadásoknak ad otthont.", "category": "cultural", "coords": [17.193333, 44.774011]}, {"name": "Tvrđava Kastel", "text": "Történelmi erőd az Orbász partján, melynek gyökerei a római korig nyúlnak vissza.", "category": "castle", "coords": [17.190786, 44.766456]}, {"name": "Muzej Republike Srpske", "text": "Banja Luka-i múzeum, amely a régió történelmének és örökségének bemutatására összpontosít.", "category": "museum", "coords": [17.191816, 44.769195]}, {"name": "Dječije pozorište Republike Srpske", "text": "Speciális színház Banja Lukában, amely a fiatalabb közönség számára kínál előadásokat.", "category": "cultural", "coords": [17.190867, 44.768983]}, {"name": "Gradsko pozorište Jazavac", "text": "Banja Luka-i városi színház, amely modern darabokat és kulturális programokat kínál.", "category": "cultural", "coords": [17.191146, 44.764243]}, {"name": "Ljetna pozornica", "text": "Szabadtéri színház Banja Lukában, amely szabadtéri kulturális eseményeknek ad otthont.", "category": "cultural", "coords": [17.189757, 44.766946]}, {"name": "Banjalučko studentsko pozorište", "text": "Egyetemi színpad Banja Lukában fiatal tehetségek és kreatív projektek számára.", "category": "cultural", "coords": [17.19148, 44.771275]}, {"name": "Muzej sporta", "text": "Banja Luka-i múzeum, amely a város sporteredményeit és sporttörténetét dokumentálja.", "category": "museum", "coords": [17.202164, 44.773716]}, {"name": "Vodeni park \"Akvana\"", "text": "Nagy vízipark Banja Lukában, különféle medencékkel és szabadidős létesítményekkel.", "category": "family", "coords": [17.205799, 44.773739]}, {"name": "Eparhija banjalučka", "text": "Püspöki palota Banja Lukában, a Banja Luka-i eparchia székhelye.", "category": "castle", "coords": [17.195654, 44.77434]}, {"name": "Biskupski ordinarijat Banja Luka", "text": "A katolikus püspök hivatalos rezidenciája és hivatala Banja Lukában.", "category": "castle", "coords": [17.195478, 44.775373]}, {"name": "Zlajina plaža", "text": "A Zlajina plaža egy csodálatos partszakasz a Vrbas folyó partján, amely zöld oázist alkot Banja Luka üzleti negyedének közepén. A környezet kiváló lehetőségeket kínál a kikapcsolódásra és a szabadidő eltöltésére, távol a városi forgatagtól. A látogatók pihenhetnek a folyóparton, lábukat a hűs vízbe lógathatják, vagy élvezhetik a napsütést. A meleg nyári napokon ez a hely ideális arra, hogy munka vagy városnézés után feltöltődjön.", "category": "recreational", "coords": [17.181611, 44.758893]}, {"name": "Galerija Kević", "text": "Művészeti galéria Banja Lukában, amely helyi és regionális művészek alkotásait mutatja be.", "category": "museum", "coords": [17.200575, 44.775198]}, {"name": "Kristov kip", "text": "Krisztus-szobrot ábrázoló vallási emlékmű Banja Lukában.", "category": "historical", "coords": [17.194531, 44.775223]}, {"name": "Abacija", "text": "Folyóparti üdülőhely Banja Lukában, amely fürdésre és pihenésre hívogat.", "category": "recreational", "coords": [17.184376, 44.761569]}, {"name": "Dajak pristanište", "text": "Kikötő a hagyományos Dajak-csónakok számára az Orbász folyó partján.", "category": "landmark", "coords": [17.18684, 44.763727]}, {"name": "Kult Art", "text": "Helyi kulturális és művészeti központ Banja Lukában különféle kreatív tevékenységekhez.", "category": "cultural", "coords": [17.193167, 44.758636]}, {"name": "Spomen obilježje poginulim pripadnicima MUP-a Republike Srpske", "text": "A Szerb Köztársaság Belügyminisztériuma elesett tagjainak tiszteletére emelt emlékmű.", "category": "historical", "coords": [17.20698, 44.764654]}, {"name": "Banjalučki klavirski atelje", "text": "Banja Luka-i kulturális központ, amely a zongoramuzsikának és az oktatásnak szenteli magát.", "category": "cultural", "coords": [17.18703, 44.767251]}, {"name": "Galerija plus", "text": "Banja Luka-i galéria, amely modern művészeti alkotásokat és időszaki kiállításokat mutat be.", "category": "museum", "coords": [17.192689, 44.771299]}, {"name": "Banjalučka arena", "text": "Banja Luka-i sport- és rendezvényközpont különféle látnivalók és események számára.", "category": "landmark", "coords": [17.203854, 44.778915]}, {"name": "Srednjovijekovni bunar", "text": "Egy középkori történelmi kút maradványai Banja Luka városában.", "category": "historical", "coords": [17.188309, 44.767742]}, {"name": "Ostaci hrama Sv. Trojice porušenog 1941", "text": "A lerombolt Szentháromság-templom emlékére állított emlékmű Banja Lukában.", "category": "historical", "coords": [17.191931, 44.77257]}, {"name": "Kuća Levi", "text": "A Levi család egykori lakóházának történelmi maradványai Banja Lukában.", "category": "historical", "coords": [17.193965, 44.771048]}, {"name": "Hram rođenja Presvete Bogorodice", "text": "Ortodox templom Banja Lukában, Szűz Mária születésének szentelve.", "category": "religious", "coords": [17.210224, 44.766538]}, {"name": "Stupnička / hadži Saliha džamija", "text": "Történelmi mecset a Stupnica negyedben, más néven Hadži Saliha mecset.", "category": "religious", "coords": [17.184255, 44.758797]}, {"name": "Gazanferija / Gazanfer-begova džamija", "text": "Hagyományos mecset Banja Lukában, Gazanfer bég után elnevezve.", "category": "religious", "coords": [17.188746, 44.7627]}, {"name": "Hisečka / Mehdi-begova džamija", "text": "Helyi mecset Banja Lukában, amely a közösség fontos vallási központja.", "category": "religious", "coords": [17.177223, 44.756264]}, {"name": "Potočka / Hadži-Pervizova džamija", "text": "A Potočka-mecset egy történelmi iszlám imaház Banja Luka szívében.", "category": "religious", "coords": [17.18981, 44.758323]}, {"name": "Potpećinska / Sefer-begova džamija", "text": "Történelmi mecset Banja Lukában, amely Sefer bég nevét viseli.", "category": "religious", "coords": [17.177978, 44.765791]}, {"name": "Dolačka / Hadži Omerova džamija", "text": "Jelentős iszlám emlékmű és imaház Banja Luka Dolac negyedében.", "category": "religious", "coords": [17.193888, 44.767212]}, {"name": "Arnaudija", "text": "Banja Luka újjáépített történelmi mecsetje, az oszmán építészet gyöngyszeme.", "category": "religious", "coords": [17.181941, 44.770001]}, {"name": "Talih / Hadži Osmanbega džamija", "text": "A Talih-mecset egy hagyományos vallási épület Banja Luka városában.", "category": "religious", "coords": [17.17894, 44.769948]}, {"name": "KiDS Escape Room", "text": "Izgalmas szabadulószoba-élmény gyerekeknek Banja Luka üzleti negyedében.", "category": "family", "coords": [17.176315, 44.776974]}, {"name": "Balvani", "text": "Játszótér Banja Luka üzleti negyedében egy családi pihenőhöz.", "category": "family", "coords": [17.200852, 44.770167]}, {"name": "Svako dobro", "text": "Családbarát játszótér Banja Luka városában játékhoz és pihenéshez.", "category": "family", "coords": [17.190077, 44.759799]}, {"name": "Moja kravica", "text": "Egy ötletes játszótér gyerekeknek Banja Luka szívében.", "category": "family", "coords": [17.201325, 44.779656]}, {"name": "Skulptura Srca", "text": "Egy eredeti játszótér Banja Luka területén, amely játékra és felfedezésre hív.", "category": "family", "coords": [17.209595, 44.77825]}], "ro": [{"name": "Muzej savremene umjetnosti Repubike Srpske", "text": "Acest muzeu din Banja Luka prezintă artă contemporană în clădirea unei foste gări.", "category": "museum", "coords": [17.189647, 44.772263]}, {"name": "Narodno pozorište Republike Srpske", "text": "Teatrul principal al Republicii Srpska din Banja Luka, care găzduiește spectacole culturale importante.", "category": "cultural", "coords": [17.193333, 44.774011]}, {"name": "Tvrđava Kastel", "text": "O cetate istorică pe malul râului Vrbas, cu rădăcini care datează din epoca romană.", "category": "castle", "coords": [17.190786, 44.766456]}, {"name": "Muzej Republike Srpske", "text": "Un muzeu în Banja Luka dedicat istoriei și moștenirii culturale a regiunii.", "category": "museum", "coords": [17.191816, 44.769195]}, {"name": "Dječije pozorište Republike Srpske", "text": "Un teatru specializat din Banja Luka, cu spectacole dedicate publicului tânăr.", "category": "cultural", "coords": [17.190867, 44.768983]}, {"name": "Gradsko pozorište Jazavac", "text": "Un teatru orășenesc în Banja Luka, oferind piese moderne și programe culturale.", "category": "cultural", "coords": [17.191146, 44.764243]}, {"name": "Ljetna pozornica", "text": "Un teatru în aer liber din Banja Luka pentru evenimente culturale exterioare.", "category": "cultural", "coords": [17.189757, 44.766946]}, {"name": "Banjalučko studentsko pozorište", "text": "O scenă teatrală studențească în Banja Luka pentru tineri talentați și proiecte creative.", "category": "cultural", "coords": [17.19148, 44.771275]}, {"name": "Muzej sporta", "text": "Un muzeu în Banja Luka care documentează realizările și istoria sportivă a orașului.", "category": "museum", "coords": [17.202164, 44.773716]}, {"name": "Vodeni park \"Akvana\"", "text": "Un parc acvatic mare în Banja Luka, cu diverse piscine și facilități de agrement.", "category": "family", "coords": [17.205799, 44.773739]}, {"name": "Eparhija banjalučka", "text": "Palatul episcopal din Banja Luka, sediul Eparhiei de Banja Luka.", "category": "castle", "coords": [17.195654, 44.77434]}, {"name": "Biskupski ordinarijat Banja Luka", "text": "Reședința oficială și administrația episcopului catolic din Banja Luka.", "category": "castle", "coords": [17.195478, 44.775373]}, {"name": "Zlajina plaža", "text": "Zlajina plaža este o secțiune minunată de plajă pe malul râului Vrbas, formând o oază verde în mijlocul cartierului de afaceri din Banja Luka. Zona oferă oportunități excelente pentru recreere și petrecerea timpului liber, departe de agitația orașului. Vizitatorii se pot relaxa pe malul râului, își pot înmuia picioarele în apa rece sau se pot bucura de soare. În zilele călduroase de vară, acest loc este ideal pentru a vă reîncărca bateriile după muncă sau după vizitarea obiectivelor turistice.", "category": "recreational", "coords": [17.181611, 44.758893]}, {"name": "Galerija Kević", "text": "O galerie de artă în Banja Luka, care expune lucrări ale artiștilor locali și regionali.", "category": "museum", "coords": [17.200575, 44.775198]}, {"name": "Kristov kip", "text": "Un monument religios în Banja Luka, reprezentând o statuie a lui Hristos.", "category": "historical", "coords": [17.194531, 44.775223]}, {"name": "Abacija", "text": "O zonă de agrement pe malul râului în Banja Luka, ideală pentru scăldat și relaxare.", "category": "recreational", "coords": [17.184376, 44.761569]}, {"name": "Dajak pristanište", "text": "Un debarcader pentru bărcile tradiționale Dajak pe malul râului Vrbas.", "category": "landmark", "coords": [17.18684, 44.763727]}, {"name": "Kult Art", "text": "Un centru local de cultură și artă în Banja Luka pentru diverse activități creative.", "category": "cultural", "coords": [17.193167, 44.758636]}, {"name": "Spomen obilježje poginulim pripadnicima MUP-a Republike Srpske", "text": "Un monument în onoarea membrilor decedați ai Ministerului de Interne al Republicii Srpska.", "category": "historical", "coords": [17.20698, 44.764654]}, {"name": "Banjalučki klavirski atelje", "text": "Un centru cultural în Banja Luka dedicat muzicii de pian și educației muzicale.", "category": "cultural", "coords": [17.18703, 44.767251]}, {"name": "Galerija plus", "text": "O galerie în Banja Luka care prezintă opere de artă modernă și expoziții temporare.", "category": "museum", "coords": [17.192689, 44.771299]}, {"name": "Banjalučka arena", "text": "Un centru de sport și evenimente în Banja Luka pentru diverse atracții.", "category": "landmark", "coords": [17.203854, 44.778915]}, {"name": "Srednjovijekovni bunar", "text": "Rămășițele unei fântâni istorice din perioada medievală în Banja Luka.", "category": "historical", "coords": [17.188309, 44.767742]}, {"name": "Ostaci hrama Sv. Trojice porušenog 1941", "text": "Un monument care comemorează biserica distrusă a Sfintei Treimi din Banja Luka.", "category": "historical", "coords": [17.191931, 44.77257]}, {"name": "Kuća Levi", "text": "Rămășițele istorice ale fostei reședințe a familiei Levi în Banja Luka.", "category": "historical", "coords": [17.193965, 44.771048]}, {"name": "Hram rođenja Presvete Bogorodice", "text": "O biserică ortodoxă din Banja Luka, dedicată Nașterii Maicii Domnului.", "category": "religious", "coords": [17.210224, 44.766538]}, {"name": "Stupnička / hadži Saliha džamija", "text": "O moschee istorică în cartierul Stupnica, cunoscută și sub numele de Moscheea Hadži Saliha.", "category": "religious", "coords": [17.184255, 44.758797]}, {"name": "Gazanferija / Gazanfer-begova džamija", "text": "O moschee tradițională din Banja Luka, numită după Gazanfer-beg.", "category": "religious", "coords": [17.188746, 44.7627]}, {"name": "Hisečka / Mehdi-begova džamija", "text": "O moschee locală din Banja Luka, reprezentând un centru religios important pentru comunitate.", "category": "religious", "coords": [17.177223, 44.756264]}, {"name": "Potočka / Hadži-Pervizova džamija", "text": "Moscheea Potočka este un lăcaș de cult islamic istoric în inima orașului Banja Luka.", "category": "religious", "coords": [17.18981, 44.758323]}, {"name": "Potpećinska / Sefer-begova džamija", "text": "O moschee istorică din Banja Luka, numită după Sefer-beg.", "category": "religious", "coords": [17.177978, 44.765791]}, {"name": "Dolačka / Hadži Omerova džamija", "text": "Un monument islamic și lăcaș de cult important în cartierul Dolac din Banja Luka.", "category": "religious", "coords": [17.193888, 44.767212]}, {"name": "Arnaudija", "text": "O moschee istorică reconstruită în Banja Luka, o bijuterie a arhitecturii otomane.", "category": "religious", "coords": [17.181941, 44.770001]}, {"name": "Talih / Hadži Osmanbega džamija", "text": "Moscheea Talih este o structură religioasă tradițională din Banja Luka.", "category": "religious", "coords": [17.17894, 44.769948]}, {"name": "KiDS Escape Room", "text": "O experiență captivantă de escape room pentru copii în districtul de afaceri din Banja Luka.", "category": "family", "coords": [17.176315, 44.776974]}, {"name": "Balvani", "text": "Un loc de joacă în districtul de afaceri din Banja Luka pentru o pauză cu familia.", "category": "family", "coords": [17.200852, 44.770167]}, {"name": "Svako dobro", "text": "Un loc de joacă pentru familii în Banja Luka pentru joacă și relaxare.", "category": "family", "coords": [17.190077, 44.759799]}, {"name": "Moja kravica", "text": "Un loc de joacă plin de imaginație pentru copii în inima orașului Banja Luka.", "category": "family", "coords": [17.201325, 44.779656]}, {"name": "Skulptura Srca", "text": "Un loc de joacă original în Banja Luka, care invită la explorare și joacă.", "category": "family", "coords": [17.209595, 44.77825]}], "en": [{"name": "Muzej savremene umjetnosti Repubike Srpske", "text": "This museum in Banja Luka showcases contemporary art in a former railway station building.", "category": "museum", "coords": [17.189647, 44.772263]}, {"name": "Narodno pozorište Republike Srpske", "text": "The main theatre of Republika Srpska in Banja Luka, hosting major cultural performances.", "category": "cultural", "coords": [17.193333, 44.774011]}, {"name": "Kastel fortress", "text": "A historic fortress on the banks of the Vrbas river, with roots dating back to Roman times.", "category": "castle", "coords": [17.190786, 44.766456]}, {"name": "Muzej Republike Srpske", "text": "A museum in Banja Luka dedicated to the history and heritage of the region.", "category": "museum", "coords": [17.191816, 44.769195]}, {"name": "Dječije pozorište Republike Srpske", "text": "A specialized theatre in Banja Luka offering performances for younger audiences.", "category": "cultural", "coords": [17.190867, 44.768983]}, {"name": "Gradsko pozorište Jazavac", "text": "A city theatre in Banja Luka offering modern plays and cultural programs.", "category": "cultural", "coords": [17.191146, 44.764243]}, {"name": "Outdoor theatre", "text": "An outdoor theatre in Banja Luka for open-air cultural events.", "category": "cultural", "coords": [17.189757, 44.766946]}, {"name": "Banjalučko studentsko pozorište", "text": "A student theatre stage in Banja Luka for young talents and creative projects.", "category": "cultural", "coords": [17.19148, 44.771275]}, {"name": "Muzej sporta", "text": "A museum in Banja Luka documenting the city's sporting achievements and history.", "category": "museum", "coords": [17.202164, 44.773716]}, {"name": "Vodeni park \"Akvana\"", "text": "A large water park in Banja Luka with various pools and leisure facilities.", "category": "family", "coords": [17.205799, 44.773739]}, {"name": "Eparhija banjalučka", "text": "The Bishop's palace in Banja Luka, seat of the Eparchy of Banja Luka.", "category": "castle", "coords": [17.195654, 44.77434]}, {"name": "Biskupski ordinarijat Banja Luka", "text": "The official residence and administration of the Catholic Bishop in Banja Luka.", "category": "castle", "coords": [17.195478, 44.775373]}, {"name": "Zlajina plaža", "text": "Zlajina plaža is a wonderful stretch of beach along the banks of the Vrbas River, forming a green oasis in the heart of Banja Luka's business district. The area offers excellent opportunities for recreation and leisure away from the urban hustle. Visitors can relax by the riverside, dip their toes in the cool water, or simply soak up the sun. On warm summer days, this spot is ideal for recharging your batteries after work or sightseeing.", "category": "recreational", "coords": [17.181611, 44.758893]}, {"name": "Galerija Kević", "text": "An art gallery in Banja Luka exhibiting works by local and regional artists.", "category": "museum", "coords": [17.200575, 44.775198]}, {"name": "Kristov kip", "text": "A religious monument in Banja Luka depicting a statue of Christ.", "category": "historical", "coords": [17.194531, 44.775223]}, {"name": "Abacija", "text": "A riverside recreational area in Banja Luka, popular for swimming and relaxing.", "category": "recreational", "coords": [17.184376, 44.761569]}, {"name": "Dajak pristanište", "text": "A pier for the traditional Dajak boats on the banks of the Vrbas river.", "category": "landmark", "coords": [17.18684, 44.763727]}, {"name": "Kult Art", "text": "A local arts and culture centre in Banja Luka for various creative activities.", "category": "cultural", "coords": [17.193167, 44.758636]}, {"name": "Spomen obilježje poginulim pripadnicima MUP-a Republike Srpske", "text": "A monument honoring the fallen members of the Ministry of Interior of Republika Srpska.", "category": "historical", "coords": [17.20698, 44.764654]}, {"name": "Banjalučki klavirski atelje", "text": "A cultural centre in Banja Luka dedicated to piano music and education.", "category": "cultural", "coords": [17.18703, 44.767251]}, {"name": "Galerija plus", "text": "A gallery in Banja Luka presenting modern artworks and temporary exhibitions.", "category": "museum", "coords": [17.192689, 44.771299]}, {"name": "Banjalučka arena", "text": "A sports and event centre in Banja Luka for various attractions.", "category": "landmark", "coords": [17.203854, 44.778915]}, {"name": "Srednjovijekovni bunar", "text": "The remains of a historic well from the Middle Ages in Banja Luka.", "category": "historical", "coords": [17.188309, 44.767742]}, {"name": "Destroyed temple of Holy Trinity", "text": "A monument commemorating the destroyed temple of the Holy Trinity in Banja Luka.", "category": "historical", "coords": [17.191931, 44.77257]}, {"name": "Kuća Levi", "text": "The historic remains of the former Levi family residence in Banja Luka.", "category": "historical", "coords": [17.193965, 44.771048]}, {"name": "Hram rođenja Presvete Bogorodice", "text": "An Orthodox place of worship in Banja Luka, dedicated to the Nativity of the Virgin Mary.", "category": "religious", "coords": [17.210224, 44.766538]}, {"name": "Stupnička / hadži Saliha džamija", "text": "A historic mosque in the Stupnica district, also known as the Hadži Saliha Mosque.", "category": "religious", "coords": [17.184255, 44.758797]}, {"name": "Gazanferija / Gazanfer-begova džamija", "text": "A traditional mosque in Banja Luka, named after Gazanfer-beg.", "category": "religious", "coords": [17.188746, 44.7627]}, {"name": "Hisečka / Mehdi-begova džamija", "text": "A local mosque in Banja Luka, serving as an important religious centre for the community.", "category": "religious", "coords": [17.177223, 44.756264]}, {"name": "Potočka / Hadži-Pervizova džamija", "text": "The Potočka Mosque is a historic Islamic place of worship in the heart of Banja Luka.", "category": "religious", "coords": [17.18981, 44.758323]}, {"name": "Potpećinska / Sefer-begova džamija", "text": "A historic mosque in Banja Luka, named after Sefer-beg.", "category": "religious", "coords": [17.177978, 44.765791]}, {"name": "Dolačka / Hadži Omerova džamija", "text": "A significant Islamic monument and place of worship in the Dolac district of Banja Luka.", "category": "religious", "coords": [17.193888, 44.767212]}, {"name": "Arnaudija", "text": "A reconstructed historic mosque in Banja Luka, a jewel of Ottoman architecture.", "category": "religious", "coords": [17.181941, 44.770001]}, {"name": "Talih / Hadži Osmanbega džamija", "text": "The Talih Mosque is a traditional religious structure in Banja Luka.", "category": "religious", "coords": [17.17894, 44.769948]}, {"name": "KiDS Escape Room", "text": "An exciting escape room experience for kids in the Banja Luka business district.", "category": "family", "coords": [17.176315, 44.776974]}, {"name": "Balvani", "text": "A playground in the Banja Luka business district for a break with the family.", "category": "family", "coords": [17.200852, 44.770167]}, {"name": "Svako dobro", "text": "A family-friendly playground in Banja Luka for play and recreation.", "category": "family", "coords": [17.190077, 44.759799]}, {"name": "Moja kravica", "text": "An imaginative playground for children in the heart of Banja Luka.", "category": "family", "coords": [17.201325, 44.779656]}, {"name": "Skulptura Srca", "text": "An original playground in Banja Luka that invites children to explore and play.", "category": "family", "coords": [17.209595, 44.77825]}]},
+    id: "bosniaherzegovina-banja-luka-business-district-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzej savremene umjetnosti Repubike Srpske",
+                  "text": "Dieses Museum in Banja Luka präsentiert zeitgenössische Kunst in einem ehemaligen Bahnhofsgebäude.",
+                  "category": "museum",
+                  "coords": [
+                        17.189647,
+                        44.772263
+                  ]
+            },
+            {
+                  "name": "Narodno pozorište Republike Srpske",
+                  "text": "Das Haupttheater der Republik Srpska in Banja Luka, das bedeutende kulturelle Aufführungen zeigt.",
+                  "category": "cultural",
+                  "coords": [
+                        17.193333,
+                        44.774011
+                  ]
+            },
+            {
+                  "name": "Tvrđava Kastel",
+                  "text": "Eine historische Festung am Ufer des Vrbas, deren Wurzeln bis in die Römerzeit zurückreichen.",
+                  "category": "castle",
+                  "coords": [
+                        17.190786,
+                        44.766456
+                  ]
+            },
+            {
+                  "name": "Muzej Republike Srpske",
+                  "text": "Ein Museum in Banja Luka, das sich der Geschichte und dem Erbe der Region widmet.",
+                  "category": "museum",
+                  "coords": [
+                        17.191816,
+                        44.769195
+                  ]
+            },
+            {
+                  "name": "Dječije pozorište Republike Srpske",
+                  "text": "Ein spezialisiertes Theater in Banja Luka mit Aufführungen für ein jüngeres Publikum.",
+                  "category": "cultural",
+                  "coords": [
+                        17.190867,
+                        44.768983
+                  ]
+            },
+            {
+                  "name": "Gradsko pozorište Jazavac",
+                  "text": "Ein städtisches Theater in Banja Luka, das moderne Bühnenstücke und Kulturprogramme anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        17.191146,
+                        44.764243
+                  ]
+            },
+            {
+                  "name": "Ljetna pozornica",
+                  "text": "Ein Freilufttheater in Banja Luka für kulturelle Veranstaltungen im Freien.",
+                  "category": "cultural",
+                  "coords": [
+                        17.189757,
+                        44.766946
+                  ]
+            },
+            {
+                  "name": "Banjalučko studentsko pozorište",
+                  "text": "Eine studentische Theaterbühne in Banja Luka für junge Talente und kreative Projekte.",
+                  "category": "cultural",
+                  "coords": [
+                        17.19148,
+                        44.771275
+                  ]
+            },
+            {
+                  "name": "Muzej sporta",
+                  "text": "Ein Museum in Banja Luka, das die sportlichen Erfolge und die Geschichte der Stadt dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        17.202164,
+                        44.773716
+                  ]
+            },
+            {
+                  "name": "Freizeitbad Aquana",
+                  "text": "Ein großer Wasserpark in Banja Luka mit verschiedenen Pools und Freizeiteinrichtungen.",
+                  "category": "family",
+                  "coords": [
+                        17.205799,
+                        44.773739
+                  ]
+            },
+            {
+                  "name": "Eparhija banjalučka",
+                  "text": "Der Bischofspalast in Banja Luka, Sitz der Eparchie von Banja Luka.",
+                  "category": "castle",
+                  "coords": [
+                        17.195654,
+                        44.77434
+                  ]
+            },
+            {
+                  "name": "Biskupski ordinarijat Banja Luka",
+                  "text": "Die offizielle Residenz und Verwaltung des katholischen Bischofs in Banja Luka.",
+                  "category": "castle",
+                  "coords": [
+                        17.195478,
+                        44.775373
+                  ]
+            },
+            {
+                  "name": "Zlajina plaža",
+                  "text": "Zlajina plaža ist ein herrlicher Strandabschnitt am Ufer des Vrbas, der mitten im Business District von Banja Luka eine grüne Oase bildet. Die Umgebung bietet hervorragende Möglichkeiten für Erholung und Freizeit abseits des städtischen Trubels. Besucher können am Flussufer entspannen, die Füße ins kühle Wasser halten oder die Sonne genießen. An warmen Sommertagen ist dieser Ort ideal, um nach der Arbeit oder dem Sightseeing neue Energie zu tanken.",
+                  "category": "recreational",
+                  "coords": [
+                        17.181611,
+                        44.758893
+                  ]
+            },
+            {
+                  "name": "Galerija Kević",
+                  "text": "Eine Kunstgalerie in Banja Luka, die Werke lokaler und regionaler Künstler ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        17.200575,
+                        44.775198
+                  ]
+            },
+            {
+                  "name": "Kristov kip",
+                  "text": "Ein religiöses Denkmal in Banja Luka, das eine Christusstatue darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        17.194531,
+                        44.775223
+                  ]
+            },
+            {
+                  "name": "Abacija",
+                  "text": "Eine Freizeitanlage am Flussufer in Banja Luka, die zum Baden und Entspannen einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        17.184376,
+                        44.761569
+                  ]
+            },
+            {
+                  "name": "Dajak pristanište",
+                  "text": "Ein Anlegeplatz für die traditionellen Dajak-Boote am Ufer des Flusses Vrbas.",
+                  "category": "landmark",
+                  "coords": [
+                        17.18684,
+                        44.763727
+                  ]
+            },
+            {
+                  "name": "Kult Art",
+                  "text": "Ein lokales Kultur- und Kunstzentrum in Banja Luka für verschiedene kreative Aktivitäten.",
+                  "category": "cultural",
+                  "coords": [
+                        17.193167,
+                        44.758636
+                  ]
+            },
+            {
+                  "name": "Spomen obilježje poginulim pripadnicima MUP-a Republike Srpske",
+                  "text": "Ein Denkmal zu Ehren der gefallenen Mitglieder des Innenministeriums der Republik Srpska.",
+                  "category": "historical",
+                  "coords": [
+                        17.20698,
+                        44.764654
+                  ]
+            },
+            {
+                  "name": "Banjalučki klavirski atelje",
+                  "text": "Ein Kulturzentrum in Banja Luka, das sich der Klaviermusik und Ausbildung widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        17.18703,
+                        44.767251
+                  ]
+            },
+            {
+                  "name": "Galerija plus",
+                  "text": "Eine Galerie in Banja Luka, die moderne Kunstwerke und wechselnde Ausstellungen präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        17.192689,
+                        44.771299
+                  ]
+            },
+            {
+                  "name": "Banjalučka arena",
+                  "text": "Ein Sport- und Veranstaltungszentrum in Banja Luka für verschiedene Attraktionen.",
+                  "category": "landmark",
+                  "coords": [
+                        17.203854,
+                        44.778915
+                  ]
+            },
+            {
+                  "name": "Srednjovijekovni bunar",
+                  "text": "Die Überreste eines historischen Brunnens aus dem Mittelalter in Banja Luka.",
+                  "category": "historical",
+                  "coords": [
+                        17.188309,
+                        44.767742
+                  ]
+            },
+            {
+                  "name": "Ostaci hrama Sv. Trojice porušenog 1941",
+                  "text": "Ein Denkmal, das an die zerstörte Kirche der Heiligen Dreifaltigkeit in Banja Luka erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        17.191931,
+                        44.77257
+                  ]
+            },
+            {
+                  "name": "Kuća Levi",
+                  "text": "Die historischen Überreste der ehemaligen Residenz der Familie Levi in Banja Luka.",
+                  "category": "historical",
+                  "coords": [
+                        17.193965,
+                        44.771048
+                  ]
+            },
+            {
+                  "name": "Hram rođenja Presvete Bogorodice",
+                  "text": "Ein orthodoxes Gotteshaus in Banja Luka, gewidmet der Geburt der Jungfrau Maria.",
+                  "category": "religious",
+                  "coords": [
+                        17.210224,
+                        44.766538
+                  ]
+            },
+            {
+                  "name": "Stupnička / hadži Saliha džamija",
+                  "text": "Eine historische Moschee im Stadtteil Stupnica, bekannt als Hadži Saliha Moschee.",
+                  "category": "religious",
+                  "coords": [
+                        17.184255,
+                        44.758797
+                  ]
+            },
+            {
+                  "name": "Gazanferija / Gazanfer-begova džamija",
+                  "text": "Eine traditionelle Moschee in Banja Luka, benannt nach Gazanfer-beg.",
+                  "category": "religious",
+                  "coords": [
+                        17.188746,
+                        44.7627
+                  ]
+            },
+            {
+                  "name": "Hisečka / Mehdi-begova džamija",
+                  "text": "Eine lokale Moschee in Banja Luka, die ein wichtiges religiöses Zentrum für die Gemeinde darstellt.",
+                  "category": "religious",
+                  "coords": [
+                        17.177223,
+                        44.756264
+                  ]
+            },
+            {
+                  "name": "Potočka / Hadži-Pervizova džamija",
+                  "text": "Die Potočka-Moschee ist ein historisches islamisches Gebetshaus im Herzen von Banja Luka.",
+                  "category": "religious",
+                  "coords": [
+                        17.18981,
+                        44.758323
+                  ]
+            },
+            {
+                  "name": "Potpećinska / Sefer-begova džamija",
+                  "text": "Eine historische Moschee in Banja Luka, die nach Sefer-beg benannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        17.177978,
+                        44.765791
+                  ]
+            },
+            {
+                  "name": "Dolačka / Hadži Omerova džamija",
+                  "text": "Ein bedeutendes islamisches Denkmal und Gebetshaus im Stadtteil Dolac von Banja Luka.",
+                  "category": "religious",
+                  "coords": [
+                        17.193888,
+                        44.767212
+                  ]
+            },
+            {
+                  "name": "Arnaudija",
+                  "text": "Eine wiederaufgebaute historische Moschee in Banja Luka, ein Juwel osmanischer Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        17.181941,
+                        44.770001
+                  ]
+            },
+            {
+                  "name": "Talih / Hadži Osmanbega džamija",
+                  "text": "Die Talih/Hadži Osmanbega džamija ist eine historische osmanische Moschee im Geschäftsviertel von Banja Luka.",
+                  "category": "religious",
+                  "coords": [
+                        17.17894,
+                        44.769948
+                  ]
+            },
+            {
+                  "name": "KiDS Escape Room",
+                  "text": "Ein spannendes Escape-Room-Erlebnis für Kindern im Geschäftsviertel von Banja Luka.",
+                  "category": "family",
+                  "coords": [
+                        17.176315,
+                        44.776974
+                  ]
+            },
+            {
+                  "name": "Balvani",
+                  "text": "Ein Spielplatz im Geschäftsviertel von Banja Luka für eine Pause mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        17.200852,
+                        44.770167
+                  ]
+            },
+            {
+                  "name": "Svako dobro",
+                  "text": "Ein familienfreundlicher Spielplatz in Banja Luka für Spiel und Erholung.",
+                  "category": "family",
+                  "coords": [
+                        17.190077,
+                        44.759799
+                  ]
+            },
+            {
+                  "name": "Moja kravica",
+                  "text": "Ein fantasievoller Spielplatz für Kinder im Herzen von Banja Luka.",
+                  "category": "family",
+                  "coords": [
+                        17.201325,
+                        44.779656
+                  ]
+            },
+            {
+                  "name": "Skulptura Srca",
+                  "text": "Ein origineller Spielplatz in Banja Luka, der zum Entdecken und Spielen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        17.209595,
+                        44.77825
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzej savremene umjetnosti Repubike Srpske",
+                  "text": "Ez a Banja Luka-i múzeum kortárs művészeti alkotásokat mutat be egy egykori vasútállomás épületében.",
+                  "category": "museum",
+                  "coords": [
+                        17.189647,
+                        44.772263
+                  ]
+            },
+            {
+                  "name": "Narodno pozorište Republike Srpske",
+                  "text": "A Szerb Köztársaság fő színháza Banja Lukában, amely jelentős kulturális előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        17.193333,
+                        44.774011
+                  ]
+            },
+            {
+                  "name": "Tvrđava Kastel",
+                  "text": "Történelmi erőd az Orbász partján, melynek gyökerei a római korig nyúlnak vissza.",
+                  "category": "castle",
+                  "coords": [
+                        17.190786,
+                        44.766456
+                  ]
+            },
+            {
+                  "name": "Muzej Republike Srpske",
+                  "text": "Banja Luka-i múzeum, amely a régió történelmének és örökségének bemutatására összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        17.191816,
+                        44.769195
+                  ]
+            },
+            {
+                  "name": "Dječije pozorište Republike Srpske",
+                  "text": "Speciális színház Banja Lukában, amely a fiatalabb közönség számára kínál előadásokat.",
+                  "category": "cultural",
+                  "coords": [
+                        17.190867,
+                        44.768983
+                  ]
+            },
+            {
+                  "name": "Gradsko pozorište Jazavac",
+                  "text": "Banja Luka-i városi színház, amely modern darabokat és kulturális programokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        17.191146,
+                        44.764243
+                  ]
+            },
+            {
+                  "name": "Ljetna pozornica",
+                  "text": "Szabadtéri színház Banja Lukában, amely szabadtéri kulturális eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        17.189757,
+                        44.766946
+                  ]
+            },
+            {
+                  "name": "Banjalučko studentsko pozorište",
+                  "text": "Egyetemi színpad Banja Lukában fiatal tehetségek és kreatív projektek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        17.19148,
+                        44.771275
+                  ]
+            },
+            {
+                  "name": "Muzej sporta",
+                  "text": "Banja Luka-i múzeum, amely a város sporteredményeit és sporttörténetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        17.202164,
+                        44.773716
+                  ]
+            },
+            {
+                  "name": "Vodeni park \"Akvana\"",
+                  "text": "Nagy vízipark Banja Lukában, különféle medencékkel és szabadidős létesítményekkel.",
+                  "category": "family",
+                  "coords": [
+                        17.205799,
+                        44.773739
+                  ]
+            },
+            {
+                  "name": "Eparhija banjalučka",
+                  "text": "Püspöki palota Banja Lukában, a Banja Luka-i eparchia székhelye.",
+                  "category": "castle",
+                  "coords": [
+                        17.195654,
+                        44.77434
+                  ]
+            },
+            {
+                  "name": "Biskupski ordinarijat Banja Luka",
+                  "text": "A katolikus püspök hivatalos rezidenciája és hivatala Banja Lukában.",
+                  "category": "castle",
+                  "coords": [
+                        17.195478,
+                        44.775373
+                  ]
+            },
+            {
+                  "name": "Zlajina plaža",
+                  "text": "A Zlajina plaža egy csodálatos partszakasz a Vrbas folyó partján, amely zöld oázist alkot Banja Luka üzleti negyedének közepén. A környezet kiváló lehetőségeket kínál a kikapcsolódásra és a szabadidő eltöltésére, távol a városi forgatagtól. A látogatók pihenhetnek a folyóparton, lábukat a hűs vízbe lógathatják, vagy élvezhetik a napsütést. A meleg nyári napokon ez a hely ideális arra, hogy munka vagy városnézés után feltöltődjön.",
+                  "category": "recreational",
+                  "coords": [
+                        17.181611,
+                        44.758893
+                  ]
+            },
+            {
+                  "name": "Galerija Kević",
+                  "text": "Művészeti galéria Banja Lukában, amely helyi és regionális művészek alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        17.200575,
+                        44.775198
+                  ]
+            },
+            {
+                  "name": "Kristov kip",
+                  "text": "Krisztus-szobrot ábrázoló vallási emlékmű Banja Lukában.",
+                  "category": "historical",
+                  "coords": [
+                        17.194531,
+                        44.775223
+                  ]
+            },
+            {
+                  "name": "Abacija",
+                  "text": "Folyóparti üdülőhely Banja Lukában, amely fürdésre és pihenésre hívogat.",
+                  "category": "recreational",
+                  "coords": [
+                        17.184376,
+                        44.761569
+                  ]
+            },
+            {
+                  "name": "Dajak pristanište",
+                  "text": "Kikötő a hagyományos Dajak-csónakok számára az Orbász folyó partján.",
+                  "category": "landmark",
+                  "coords": [
+                        17.18684,
+                        44.763727
+                  ]
+            },
+            {
+                  "name": "Kult Art",
+                  "text": "Helyi kulturális és művészeti központ Banja Lukában különféle kreatív tevékenységekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        17.193167,
+                        44.758636
+                  ]
+            },
+            {
+                  "name": "Spomen obilježje poginulim pripadnicima MUP-a Republike Srpske",
+                  "text": "A Szerb Köztársaság Belügyminisztériuma elesett tagjainak tiszteletére emelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        17.20698,
+                        44.764654
+                  ]
+            },
+            {
+                  "name": "Banjalučki klavirski atelje",
+                  "text": "Banja Luka-i kulturális központ, amely a zongoramuzsikának és az oktatásnak szenteli magát.",
+                  "category": "cultural",
+                  "coords": [
+                        17.18703,
+                        44.767251
+                  ]
+            },
+            {
+                  "name": "Galerija plus",
+                  "text": "Banja Luka-i galéria, amely modern művészeti alkotásokat és időszaki kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        17.192689,
+                        44.771299
+                  ]
+            },
+            {
+                  "name": "Banjalučka arena",
+                  "text": "Banja Luka-i sport- és rendezvényközpont különféle látnivalók és események számára.",
+                  "category": "landmark",
+                  "coords": [
+                        17.203854,
+                        44.778915
+                  ]
+            },
+            {
+                  "name": "Srednjovijekovni bunar",
+                  "text": "Egy középkori történelmi kút maradványai Banja Luka városában.",
+                  "category": "historical",
+                  "coords": [
+                        17.188309,
+                        44.767742
+                  ]
+            },
+            {
+                  "name": "Ostaci hrama Sv. Trojice porušenog 1941",
+                  "text": "A lerombolt Szentháromság-templom emlékére állított emlékmű Banja Lukában.",
+                  "category": "historical",
+                  "coords": [
+                        17.191931,
+                        44.77257
+                  ]
+            },
+            {
+                  "name": "Kuća Levi",
+                  "text": "A Levi család egykori lakóházának történelmi maradványai Banja Lukában.",
+                  "category": "historical",
+                  "coords": [
+                        17.193965,
+                        44.771048
+                  ]
+            },
+            {
+                  "name": "Hram rođenja Presvete Bogorodice",
+                  "text": "Ortodox templom Banja Lukában, Szűz Mária születésének szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        17.210224,
+                        44.766538
+                  ]
+            },
+            {
+                  "name": "Stupnička / hadži Saliha džamija",
+                  "text": "Történelmi mecset a Stupnica negyedben, más néven Hadži Saliha mecset.",
+                  "category": "religious",
+                  "coords": [
+                        17.184255,
+                        44.758797
+                  ]
+            },
+            {
+                  "name": "Gazanferija / Gazanfer-begova džamija",
+                  "text": "Hagyományos mecset Banja Lukában, Gazanfer bég után elnevezve.",
+                  "category": "religious",
+                  "coords": [
+                        17.188746,
+                        44.7627
+                  ]
+            },
+            {
+                  "name": "Hisečka / Mehdi-begova džamija",
+                  "text": "Helyi mecset Banja Lukában, amely a közösség fontos vallási központja.",
+                  "category": "religious",
+                  "coords": [
+                        17.177223,
+                        44.756264
+                  ]
+            },
+            {
+                  "name": "Potočka / Hadži-Pervizova džamija",
+                  "text": "A Potočka-mecset egy történelmi iszlám imaház Banja Luka szívében.",
+                  "category": "religious",
+                  "coords": [
+                        17.18981,
+                        44.758323
+                  ]
+            },
+            {
+                  "name": "Potpećinska / Sefer-begova džamija",
+                  "text": "Történelmi mecset Banja Lukában, amely Sefer bég nevét viseli.",
+                  "category": "religious",
+                  "coords": [
+                        17.177978,
+                        44.765791
+                  ]
+            },
+            {
+                  "name": "Dolačka / Hadži Omerova džamija",
+                  "text": "Jelentős iszlám emlékmű és imaház Banja Luka Dolac negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        17.193888,
+                        44.767212
+                  ]
+            },
+            {
+                  "name": "Arnaudija",
+                  "text": "Banja Luka újjáépített történelmi mecsetje, az oszmán építészet gyöngyszeme.",
+                  "category": "religious",
+                  "coords": [
+                        17.181941,
+                        44.770001
+                  ]
+            },
+            {
+                  "name": "Talih / Hadži Osmanbega džamija",
+                  "text": "A Talih/Hadži Osmanbega džamija egy történelmi oszmán mecset Banja Luka üzleti negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        17.17894,
+                        44.769948
+                  ]
+            },
+            {
+                  "name": "KiDS Escape Room",
+                  "text": "Izgalmas szabadulószoba-élmény gyerekeknek Banja Luka üzleti negyedében.",
+                  "category": "family",
+                  "coords": [
+                        17.176315,
+                        44.776974
+                  ]
+            },
+            {
+                  "name": "Balvani",
+                  "text": "Játszótér Banja Luka üzleti negyedében egy családi pihenőhöz.",
+                  "category": "family",
+                  "coords": [
+                        17.200852,
+                        44.770167
+                  ]
+            },
+            {
+                  "name": "Svako dobro",
+                  "text": "Családbarát játszótér Banja Luka városában játékhoz és pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        17.190077,
+                        44.759799
+                  ]
+            },
+            {
+                  "name": "Moja kravica",
+                  "text": "Egy ötletes játszótér gyerekeknek Banja Luka szívében.",
+                  "category": "family",
+                  "coords": [
+                        17.201325,
+                        44.779656
+                  ]
+            },
+            {
+                  "name": "Skulptura Srca",
+                  "text": "Egy eredeti játszótér Banja Luka területén, amely játékra és felfedezésre hív.",
+                  "category": "family",
+                  "coords": [
+                        17.209595,
+                        44.77825
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzej savremene umjetnosti Repubike Srpske",
+                  "text": "Acest muzeu din Banja Luka prezintă artă contemporană în clădirea unei foste gări.",
+                  "category": "museum",
+                  "coords": [
+                        17.189647,
+                        44.772263
+                  ]
+            },
+            {
+                  "name": "Narodno pozorište Republike Srpske",
+                  "text": "Teatrul principal al Republicii Srpska din Banja Luka, care găzduiește spectacole culturale importante.",
+                  "category": "cultural",
+                  "coords": [
+                        17.193333,
+                        44.774011
+                  ]
+            },
+            {
+                  "name": "Tvrđava Kastel",
+                  "text": "O cetate istorică pe malul râului Vrbas, cu rădăcini care datează din epoca romană.",
+                  "category": "castle",
+                  "coords": [
+                        17.190786,
+                        44.766456
+                  ]
+            },
+            {
+                  "name": "Muzej Republike Srpske",
+                  "text": "Un muzeu în Banja Luka dedicat istoriei și moștenirii culturale a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        17.191816,
+                        44.769195
+                  ]
+            },
+            {
+                  "name": "Dječije pozorište Republike Srpske",
+                  "text": "Un teatru specializat din Banja Luka, cu spectacole dedicate publicului tânăr.",
+                  "category": "cultural",
+                  "coords": [
+                        17.190867,
+                        44.768983
+                  ]
+            },
+            {
+                  "name": "Gradsko pozorište Jazavac",
+                  "text": "Un teatru orășenesc în Banja Luka, oferind piese moderne și programe culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        17.191146,
+                        44.764243
+                  ]
+            },
+            {
+                  "name": "Ljetna pozornica",
+                  "text": "Un teatru în aer liber din Banja Luka pentru evenimente culturale exterioare.",
+                  "category": "cultural",
+                  "coords": [
+                        17.189757,
+                        44.766946
+                  ]
+            },
+            {
+                  "name": "Banjalučko studentsko pozorište",
+                  "text": "O scenă teatrală studențească în Banja Luka pentru tineri talentați și proiecte creative.",
+                  "category": "cultural",
+                  "coords": [
+                        17.19148,
+                        44.771275
+                  ]
+            },
+            {
+                  "name": "Muzej sporta",
+                  "text": "Un muzeu în Banja Luka care documentează realizările și istoria sportivă a orașului.",
+                  "category": "museum",
+                  "coords": [
+                        17.202164,
+                        44.773716
+                  ]
+            },
+            {
+                  "name": "Vodeni park \"Akvana\"",
+                  "text": "Un parc acvatic mare în Banja Luka, cu diverse piscine și facilități de agrement.",
+                  "category": "family",
+                  "coords": [
+                        17.205799,
+                        44.773739
+                  ]
+            },
+            {
+                  "name": "Eparhija banjalučka",
+                  "text": "Palatul episcopal din Banja Luka, sediul Eparhiei de Banja Luka.",
+                  "category": "castle",
+                  "coords": [
+                        17.195654,
+                        44.77434
+                  ]
+            },
+            {
+                  "name": "Biskupski ordinarijat Banja Luka",
+                  "text": "Reședința oficială și administrația episcopului catolic din Banja Luka.",
+                  "category": "castle",
+                  "coords": [
+                        17.195478,
+                        44.775373
+                  ]
+            },
+            {
+                  "name": "Zlajina plaža",
+                  "text": "Zlajina plaža este o secțiune minunată de plajă pe malul râului Vrbas, formând o oază verde în mijlocul cartierului de afaceri din Banja Luka. Zona oferă oportunități excelente pentru recreere și petrecerea timpului liber, departe de agitația orașului. Vizitatorii se pot relaxa pe malul râului, își pot înmuia picioarele în apa rece sau se pot bucura de soare. În zilele călduroase de vară, acest loc este ideal pentru a vă reîncărca bateriile după muncă sau după vizitarea obiectivelor turistice.",
+                  "category": "recreational",
+                  "coords": [
+                        17.181611,
+                        44.758893
+                  ]
+            },
+            {
+                  "name": "Galerija Kević",
+                  "text": "O galerie de artă în Banja Luka, care expune lucrări ale artiștilor locali și regionali.",
+                  "category": "museum",
+                  "coords": [
+                        17.200575,
+                        44.775198
+                  ]
+            },
+            {
+                  "name": "Kristov kip",
+                  "text": "Un monument religios în Banja Luka, reprezentând o statuie a lui Hristos.",
+                  "category": "historical",
+                  "coords": [
+                        17.194531,
+                        44.775223
+                  ]
+            },
+            {
+                  "name": "Abacija",
+                  "text": "O zonă de agrement pe malul râului în Banja Luka, ideală pentru scăldat și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        17.184376,
+                        44.761569
+                  ]
+            },
+            {
+                  "name": "Dajak pristanište",
+                  "text": "Un debarcader pentru bărcile tradiționale Dajak pe malul râului Vrbas.",
+                  "category": "landmark",
+                  "coords": [
+                        17.18684,
+                        44.763727
+                  ]
+            },
+            {
+                  "name": "Kult Art",
+                  "text": "Un centru local de cultură și artă în Banja Luka pentru diverse activități creative.",
+                  "category": "cultural",
+                  "coords": [
+                        17.193167,
+                        44.758636
+                  ]
+            },
+            {
+                  "name": "Spomen obilježje poginulim pripadnicima MUP-a Republike Srpske",
+                  "text": "Un monument în onoarea membrilor decedați ai Ministerului de Interne al Republicii Srpska.",
+                  "category": "historical",
+                  "coords": [
+                        17.20698,
+                        44.764654
+                  ]
+            },
+            {
+                  "name": "Banjalučki klavirski atelje",
+                  "text": "Un centru cultural în Banja Luka dedicat muzicii de pian și educației muzicale.",
+                  "category": "cultural",
+                  "coords": [
+                        17.18703,
+                        44.767251
+                  ]
+            },
+            {
+                  "name": "Galerija plus",
+                  "text": "O galerie în Banja Luka care prezintă opere de artă modernă și expoziții temporare.",
+                  "category": "museum",
+                  "coords": [
+                        17.192689,
+                        44.771299
+                  ]
+            },
+            {
+                  "name": "Banjalučka arena",
+                  "text": "Un centru de sport și evenimente în Banja Luka pentru diverse atracții.",
+                  "category": "landmark",
+                  "coords": [
+                        17.203854,
+                        44.778915
+                  ]
+            },
+            {
+                  "name": "Srednjovijekovni bunar",
+                  "text": "Rămășițele unei fântâni istorice din perioada medievală în Banja Luka.",
+                  "category": "historical",
+                  "coords": [
+                        17.188309,
+                        44.767742
+                  ]
+            },
+            {
+                  "name": "Ostaci hrama Sv. Trojice porušenog 1941",
+                  "text": "Un monument care comemorează biserica distrusă a Sfintei Treimi din Banja Luka.",
+                  "category": "historical",
+                  "coords": [
+                        17.191931,
+                        44.77257
+                  ]
+            },
+            {
+                  "name": "Kuća Levi",
+                  "text": "Rămășițele istorice ale fostei reședințe a familiei Levi în Banja Luka.",
+                  "category": "historical",
+                  "coords": [
+                        17.193965,
+                        44.771048
+                  ]
+            },
+            {
+                  "name": "Hram rođenja Presvete Bogorodice",
+                  "text": "O biserică ortodoxă din Banja Luka, dedicată Nașterii Maicii Domnului.",
+                  "category": "religious",
+                  "coords": [
+                        17.210224,
+                        44.766538
+                  ]
+            },
+            {
+                  "name": "Stupnička / hadži Saliha džamija",
+                  "text": "O moschee istorică în cartierul Stupnica, cunoscută și sub numele de Moscheea Hadži Saliha.",
+                  "category": "religious",
+                  "coords": [
+                        17.184255,
+                        44.758797
+                  ]
+            },
+            {
+                  "name": "Gazanferija / Gazanfer-begova džamija",
+                  "text": "O moschee tradițională din Banja Luka, numită după Gazanfer-beg.",
+                  "category": "religious",
+                  "coords": [
+                        17.188746,
+                        44.7627
+                  ]
+            },
+            {
+                  "name": "Hisečka / Mehdi-begova džamija",
+                  "text": "O moschee locală din Banja Luka, reprezentând un centru religios important pentru comunitate.",
+                  "category": "religious",
+                  "coords": [
+                        17.177223,
+                        44.756264
+                  ]
+            },
+            {
+                  "name": "Potočka / Hadži-Pervizova džamija",
+                  "text": "Moscheea Potočka este un lăcaș de cult islamic istoric în inima orașului Banja Luka.",
+                  "category": "religious",
+                  "coords": [
+                        17.18981,
+                        44.758323
+                  ]
+            },
+            {
+                  "name": "Potpećinska / Sefer-begova džamija",
+                  "text": "O moschee istorică din Banja Luka, numită după Sefer-beg.",
+                  "category": "religious",
+                  "coords": [
+                        17.177978,
+                        44.765791
+                  ]
+            },
+            {
+                  "name": "Dolačka / Hadži Omerova džamija",
+                  "text": "Un monument islamic și lăcaș de cult important în cartierul Dolac din Banja Luka.",
+                  "category": "religious",
+                  "coords": [
+                        17.193888,
+                        44.767212
+                  ]
+            },
+            {
+                  "name": "Arnaudija",
+                  "text": "O moschee istorică reconstruită în Banja Luka, o bijuterie a arhitecturii otomane.",
+                  "category": "religious",
+                  "coords": [
+                        17.181941,
+                        44.770001
+                  ]
+            },
+            {
+                  "name": "Talih / Hadži Osmanbega džamija",
+                  "text": "Moscheea Talih/Hadži Osmanbega este o moschee otomană istorică în cartierul de afaceri din Banja Luka.",
+                  "category": "religious",
+                  "coords": [
+                        17.17894,
+                        44.769948
+                  ]
+            },
+            {
+                  "name": "KiDS Escape Room",
+                  "text": "O experiență captivantă de escape room pentru copii în districtul de afaceri din Banja Luka.",
+                  "category": "family",
+                  "coords": [
+                        17.176315,
+                        44.776974
+                  ]
+            },
+            {
+                  "name": "Balvani",
+                  "text": "Un loc de joacă în districtul de afaceri din Banja Luka pentru o pauză cu familia.",
+                  "category": "family",
+                  "coords": [
+                        17.200852,
+                        44.770167
+                  ]
+            },
+            {
+                  "name": "Svako dobro",
+                  "text": "Un loc de joacă pentru familii în Banja Luka pentru joacă și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        17.190077,
+                        44.759799
+                  ]
+            },
+            {
+                  "name": "Moja kravica",
+                  "text": "Un loc de joacă plin de imaginație pentru copii în inima orașului Banja Luka.",
+                  "category": "family",
+                  "coords": [
+                        17.201325,
+                        44.779656
+                  ]
+            },
+            {
+                  "name": "Skulptura Srca",
+                  "text": "Un loc de joacă original în Banja Luka, care invită la explorare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        17.209595,
+                        44.77825
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzej savremene umjetnosti Repubike Srpske",
+                  "text": "This museum in Banja Luka showcases contemporary art in a former railway station building.",
+                  "category": "museum",
+                  "coords": [
+                        17.189647,
+                        44.772263
+                  ]
+            },
+            {
+                  "name": "Narodno pozorište Republike Srpske",
+                  "text": "The main theatre of Republika Srpska in Banja Luka, hosting major cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        17.193333,
+                        44.774011
+                  ]
+            },
+            {
+                  "name": "Kastel fortress",
+                  "text": "A historic fortress on the banks of the Vrbas river, with roots dating back to Roman times.",
+                  "category": "castle",
+                  "coords": [
+                        17.190786,
+                        44.766456
+                  ]
+            },
+            {
+                  "name": "Muzej Republike Srpske",
+                  "text": "A museum in Banja Luka dedicated to the history and heritage of the region.",
+                  "category": "museum",
+                  "coords": [
+                        17.191816,
+                        44.769195
+                  ]
+            },
+            {
+                  "name": "Dječije pozorište Republike Srpske",
+                  "text": "A specialized theatre in Banja Luka offering performances for younger audiences.",
+                  "category": "cultural",
+                  "coords": [
+                        17.190867,
+                        44.768983
+                  ]
+            },
+            {
+                  "name": "Gradsko pozorište Jazavac",
+                  "text": "A city theatre in Banja Luka offering modern plays and cultural programs.",
+                  "category": "cultural",
+                  "coords": [
+                        17.191146,
+                        44.764243
+                  ]
+            },
+            {
+                  "name": "Outdoor theatre",
+                  "text": "An outdoor theatre in Banja Luka for open-air cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        17.189757,
+                        44.766946
+                  ]
+            },
+            {
+                  "name": "Banjalučko studentsko pozorište",
+                  "text": "A student theatre stage in Banja Luka for young talents and creative projects.",
+                  "category": "cultural",
+                  "coords": [
+                        17.19148,
+                        44.771275
+                  ]
+            },
+            {
+                  "name": "Muzej sporta",
+                  "text": "A museum in Banja Luka documenting the city's sporting achievements and history.",
+                  "category": "museum",
+                  "coords": [
+                        17.202164,
+                        44.773716
+                  ]
+            },
+            {
+                  "name": "Vodeni park \"Akvana\"",
+                  "text": "A large water park in Banja Luka with various pools and leisure facilities.",
+                  "category": "family",
+                  "coords": [
+                        17.205799,
+                        44.773739
+                  ]
+            },
+            {
+                  "name": "Eparhija banjalučka",
+                  "text": "The Bishop's palace in Banja Luka, seat of the Eparchy of Banja Luka.",
+                  "category": "castle",
+                  "coords": [
+                        17.195654,
+                        44.77434
+                  ]
+            },
+            {
+                  "name": "Biskupski ordinarijat Banja Luka",
+                  "text": "The official residence and administration of the Catholic Bishop in Banja Luka.",
+                  "category": "castle",
+                  "coords": [
+                        17.195478,
+                        44.775373
+                  ]
+            },
+            {
+                  "name": "Zlajina plaža",
+                  "text": "Zlajina plaža is a wonderful stretch of beach along the banks of the Vrbas River, forming a green oasis in the heart of Banja Luka's business district. The area offers excellent opportunities for recreation and leisure away from the urban hustle. Visitors can relax by the riverside, dip their toes in the cool water, or simply soak up the sun. On warm summer days, this spot is ideal for recharging your batteries after work or sightseeing.",
+                  "category": "recreational",
+                  "coords": [
+                        17.181611,
+                        44.758893
+                  ]
+            },
+            {
+                  "name": "Galerija Kević",
+                  "text": "An art gallery in Banja Luka exhibiting works by local and regional artists.",
+                  "category": "museum",
+                  "coords": [
+                        17.200575,
+                        44.775198
+                  ]
+            },
+            {
+                  "name": "Kristov kip",
+                  "text": "A religious monument in Banja Luka depicting a statue of Christ.",
+                  "category": "historical",
+                  "coords": [
+                        17.194531,
+                        44.775223
+                  ]
+            },
+            {
+                  "name": "Abacija",
+                  "text": "A riverside recreational area in Banja Luka, popular for swimming and relaxing.",
+                  "category": "recreational",
+                  "coords": [
+                        17.184376,
+                        44.761569
+                  ]
+            },
+            {
+                  "name": "Dajak pristanište",
+                  "text": "A pier for the traditional Dajak boats on the banks of the Vrbas river.",
+                  "category": "landmark",
+                  "coords": [
+                        17.18684,
+                        44.763727
+                  ]
+            },
+            {
+                  "name": "Kult Art",
+                  "text": "A local arts and culture centre in Banja Luka for various creative activities.",
+                  "category": "cultural",
+                  "coords": [
+                        17.193167,
+                        44.758636
+                  ]
+            },
+            {
+                  "name": "Spomen obilježje poginulim pripadnicima MUP-a Republike Srpske",
+                  "text": "A monument honoring the fallen members of the Ministry of Interior of Republika Srpska.",
+                  "category": "historical",
+                  "coords": [
+                        17.20698,
+                        44.764654
+                  ]
+            },
+            {
+                  "name": "Banjalučki klavirski atelje",
+                  "text": "A cultural centre in Banja Luka dedicated to piano music and education.",
+                  "category": "cultural",
+                  "coords": [
+                        17.18703,
+                        44.767251
+                  ]
+            },
+            {
+                  "name": "Galerija plus",
+                  "text": "A gallery in Banja Luka presenting modern artworks and temporary exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        17.192689,
+                        44.771299
+                  ]
+            },
+            {
+                  "name": "Banjalučka arena",
+                  "text": "A sports and event centre in Banja Luka for various attractions.",
+                  "category": "landmark",
+                  "coords": [
+                        17.203854,
+                        44.778915
+                  ]
+            },
+            {
+                  "name": "Srednjovijekovni bunar",
+                  "text": "The remains of a historic well from the Middle Ages in Banja Luka.",
+                  "category": "historical",
+                  "coords": [
+                        17.188309,
+                        44.767742
+                  ]
+            },
+            {
+                  "name": "Destroyed temple of Holy Trinity",
+                  "text": "A monument commemorating the destroyed temple of the Holy Trinity in Banja Luka.",
+                  "category": "historical",
+                  "coords": [
+                        17.191931,
+                        44.77257
+                  ]
+            },
+            {
+                  "name": "Kuća Levi",
+                  "text": "The historic remains of the former Levi family residence in Banja Luka.",
+                  "category": "historical",
+                  "coords": [
+                        17.193965,
+                        44.771048
+                  ]
+            },
+            {
+                  "name": "Hram rođenja Presvete Bogorodice",
+                  "text": "An Orthodox place of worship in Banja Luka, dedicated to the Nativity of the Virgin Mary.",
+                  "category": "religious",
+                  "coords": [
+                        17.210224,
+                        44.766538
+                  ]
+            },
+            {
+                  "name": "Stupnička / hadži Saliha džamija",
+                  "text": "A historic mosque in the Stupnica district, also known as the Hadži Saliha Mosque.",
+                  "category": "religious",
+                  "coords": [
+                        17.184255,
+                        44.758797
+                  ]
+            },
+            {
+                  "name": "Gazanferija / Gazanfer-begova džamija",
+                  "text": "A traditional mosque in Banja Luka, named after Gazanfer-beg.",
+                  "category": "religious",
+                  "coords": [
+                        17.188746,
+                        44.7627
+                  ]
+            },
+            {
+                  "name": "Hisečka / Mehdi-begova džamija",
+                  "text": "A local mosque in Banja Luka, serving as an important religious centre for the community.",
+                  "category": "religious",
+                  "coords": [
+                        17.177223,
+                        44.756264
+                  ]
+            },
+            {
+                  "name": "Potočka / Hadži-Pervizova džamija",
+                  "text": "The Potočka Mosque is a historic Islamic place of worship in the heart of Banja Luka.",
+                  "category": "religious",
+                  "coords": [
+                        17.18981,
+                        44.758323
+                  ]
+            },
+            {
+                  "name": "Potpećinska / Sefer-begova džamija",
+                  "text": "A historic mosque in Banja Luka, named after Sefer-beg.",
+                  "category": "religious",
+                  "coords": [
+                        17.177978,
+                        44.765791
+                  ]
+            },
+            {
+                  "name": "Dolačka / Hadži Omerova džamija",
+                  "text": "A significant Islamic monument and place of worship in the Dolac district of Banja Luka.",
+                  "category": "religious",
+                  "coords": [
+                        17.193888,
+                        44.767212
+                  ]
+            },
+            {
+                  "name": "Arnaudija",
+                  "text": "A reconstructed historic mosque in Banja Luka, a jewel of Ottoman architecture.",
+                  "category": "religious",
+                  "coords": [
+                        17.181941,
+                        44.770001
+                  ]
+            },
+            {
+                  "name": "Talih / Hadži Osmanbega džamija",
+                  "text": "The Talih/Hadži Osmanbega mosque is a historic Ottoman mosque in the Banja Luka business district.",
+                  "category": "religious",
+                  "coords": [
+                        17.17894,
+                        44.769948
+                  ]
+            },
+            {
+                  "name": "KiDS Escape Room",
+                  "text": "An exciting escape room experience for kids in the Banja Luka business district.",
+                  "category": "family",
+                  "coords": [
+                        17.176315,
+                        44.776974
+                  ]
+            },
+            {
+                  "name": "Balvani",
+                  "text": "A playground in the Banja Luka business district for a break with the family.",
+                  "category": "family",
+                  "coords": [
+                        17.200852,
+                        44.770167
+                  ]
+            },
+            {
+                  "name": "Svako dobro",
+                  "text": "A family-friendly playground in Banja Luka for play and recreation.",
+                  "category": "family",
+                  "coords": [
+                        17.190077,
+                        44.759799
+                  ]
+            },
+            {
+                  "name": "Moja kravica",
+                  "text": "An imaginative playground for children in the heart of Banja Luka.",
+                  "category": "family",
+                  "coords": [
+                        17.201325,
+                        44.779656
+                  ]
+            },
+            {
+                  "name": "Skulptura Srca",
+                  "text": "An original playground in Banja Luka that invites children to explore and play.",
+                  "category": "family",
+                  "coords": [
+                        17.209595,
+                        44.77825
+                  ]
+            }
+      ]
+},
     parent: "BA",
     type: "city",
     name: { de: "Geschäftsviertel Banja Luka", hu: "Banja Luka-i Üzleti Negyed", ro: "Districtul de Afaceri Banja Luka", en: "Banja Luka Business District"},
@@ -1786,7 +3199,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             },
             {
                   "name": "Narodno pozorište Sarajevo",
-                  "text": "Das Nationaltheater von Sarajevo ist das älteste und bedeutendste Theaterhaus des Landes.",
+                  "text": "Das Nationaltheater Sarajevo ist das Nationaltheater von Bosnien und Herzegowina im Stadtzentrum.",
                   "category": "cultural",
                   "coords": [
                         18.420729,
@@ -1858,7 +3271,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             },
             {
                   "name": "Kekeki-Sinanova džamija",
-                  "text": "Eine Moschee in Sarajevo, die auch unter dem Namen Bakarevića-Moschee bekannt ist.",
+                  "text": "Die Kekeki-Sinanova džamija, auch Bakarevića-Moschee genannt, steht in Sarajevo nahe der Börse.",
                   "category": "religious",
                   "coords": [
                         18.431117,
@@ -1903,7 +3316,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             },
             {
                   "name": "Gazi Husrev-Beg Moschee",
-                  "text": "Die Gazi-Husrev-Beg-Moschee ist die größte und wichtigste Moschee in Bosnien und Herzegowina.",
+                  "text": "Erbaut 1531 in der Sarajevoer Börse (Sarajevo Stock Exchange).",
                   "category": "religious",
                   "coords": [
                         18.429026,
@@ -1912,7 +3325,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             },
             {
                   "name": "Synagoge",
-                  "text": "Die aschkenasische Synagoge in Sarajevo ist die einzige heute noch aktive Synagoge der Stadt.",
+                  "text": "Die Aschkenasische Synagoge in Sarajevo ist ein maurisch-revivalistischer Bau nahe der Börse.",
                   "category": "landmark",
                   "coords": [
                         18.42508,
@@ -2011,7 +3424,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             },
             {
                   "name": "Ratni muzej",
-                  "text": "Dieses Museum in Sarajevo dokumentiert die Ereignisse und die Geschichte des Krieges von 1992.",
+                  "text": "War museum 1992 Sarajevo ist ein Museum in Sarajevo, das die Belagerung der Stadt dokumentiert.",
                   "category": "museum",
                   "coords": [
                         18.434944,
@@ -2119,7 +3532,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             },
             {
                   "name": "Amman Spa & Hammam",
-                  "text": "Ein öffentliches Bad in Sarajevo für traditionelle Entspannung.",
+                  "text": "Das Amman Spa & Hammam ist ein familienfreundliches Spa im Sarajevo Stock Exchange Bereich mit traditionellem Hamam.",
                   "category": "family",
                   "coords": [
                         18.432205,
@@ -2128,7 +3541,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             },
             {
                   "name": "Bentbaša",
-                  "text": "Ein Schwimmbad in Sarajevo für Freizeit und Sport.",
+                  "text": "Bentbaša ist ein historischer familienfreundlicher Bereich nahe der Sarajevo Stock Exchange mit einer Steinbrücke.",
                   "category": "family",
                   "coords": [
                         18.437798,
@@ -2265,7 +3678,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             },
             {
                   "name": "Narodno pozorište Sarajevo",
-                  "text": "A Szarajevói Nemzeti Színház az ország legrégebbi és legjelentősebb színháza.",
+                  "text": "A Szarajevói Nemzeti Színház Bosznia-Hercegovina nemzeti színháza a városközpontban.",
                   "category": "cultural",
                   "coords": [
                         18.420729,
@@ -2337,7 +3750,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             },
             {
                   "name": "Kekeki-Sinanova džamija",
-                  "text": "Egy mecset Szarajevóban, amely Bakarevića-mecset néven is ismert.",
+                  "text": "A Kekeki-Sinanova džamija, más néven Bakarevića-mecset, a szarajevói tőzsde közelében áll.",
                   "category": "religious",
                   "coords": [
                         18.431117,
@@ -2382,7 +3795,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             },
             {
                   "name": "Gazi Husrev-begova džamija",
-                  "text": "A Gázi Husrev bég mecset Bosznia-Hercegovina legnagyobb és legfontosabb mecsete.",
+                  "text": "1531-ben épült a Szarajevói Tőzsdében (Sarajevo Stock Exchange).",
                   "category": "religious",
                   "coords": [
                         18.429026,
@@ -2391,7 +3804,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             },
             {
                   "name": "Aškenaška sinagoga",
-                  "text": "A szarajevói askenázi zsinagóga a város egyetlen ma is működő zsinagógája.",
+                  "text": "A szarajevói askenázi zsinagóga egy mór stílusú épület a tőzsde közelében.",
                   "category": "landmark",
                   "coords": [
                         18.42508,
@@ -2490,7 +3903,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             },
             {
                   "name": "Ratni muzej",
-                  "text": "Ez a szarajevói múzeum az 1992-es háború eseményeit és történelmét dokumentálja.",
+                  "text": "A War museum 1992 Sarajevo egy múzeum Szarajevóban, amely a város ostromát dokumentálja.",
                   "category": "museum",
                   "coords": [
                         18.434944,
@@ -2598,7 +4011,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             },
             {
                   "name": "Amman Spa & Hammam",
-                  "text": "Nyilvános fürdő Szarajevóban a hagyományos pihenéshez.",
+                  "text": "Az Amman Spa & Hammam egy családbarát fürdő a Szarajevói Tőzsde területén, hagyományos hamammal.",
                   "category": "family",
                   "coords": [
                         18.432205,
@@ -2607,7 +4020,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             },
             {
                   "name": "Bentbaša",
-                  "text": "Úszómedence Szarajevóban szabadidőhöz és sporthoz.",
+                  "text": "A Bentbaša egy történelmi, családbarát terület a Szarajevói Tőzsde közelében, kőhíddal.",
                   "category": "family",
                   "coords": [
                         18.437798,
@@ -2744,7 +4157,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             },
             {
                   "name": "Narodno pozorište Sarajevo",
-                  "text": "Teatrul Național din Sarajevo este cea mai veche și mai importantă instituție teatrală din țară.",
+                  "text": "Teatrul Național din Sarajevo este teatrul național al Bosniei și Herțegovinei, în centrul orașului.",
                   "category": "cultural",
                   "coords": [
                         18.420729,
@@ -2816,7 +4229,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             },
             {
                   "name": "Kekeki-Sinanova džamija",
-                  "text": "O moschee din Sarajevo, cunoscută și sub numele de Moscheea Bakarevića.",
+                  "text": "Moscheea Kekeki-Sinanova, cunoscută și ca moscheea Bakarevića, se află lângă bursa din Sarajevo.",
                   "category": "religious",
                   "coords": [
                         18.431117,
@@ -2861,7 +4274,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             },
             {
                   "name": "Gazi Husrev-begova džamija",
-                  "text": "Moscheea Gazi Husrev-beg este cea mai mare și mai importantă moschee din Bosnia și Herțegovina.",
+                  "text": "Construită în 1531 la Bursa din Sarajevo (Sarajevo Stock Exchange).",
                   "category": "religious",
                   "coords": [
                         18.429026,
@@ -2870,7 +4283,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             },
             {
                   "name": "Aškenaška sinagoga",
-                  "text": "Sinagoga așkenază din Sarajevo este singura sinagogă încă activă din oraș astăzi.",
+                  "text": "Sinagoga așkenază din Sarajevo este o construcție în stil maur lângă bursă.",
                   "category": "landmark",
                   "coords": [
                         18.42508,
@@ -2969,7 +4382,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             },
             {
                   "name": "Ratni muzej",
-                  "text": "Acest muzeu din Sarajevo documentează evenimentele și istoria războiului din 1992.",
+                  "text": "War museum 1992 Sarajevo este un muzeu în Sarajevo, care documentează asediul orașului.",
                   "category": "museum",
                   "coords": [
                         18.434944,
@@ -3077,7 +4490,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             },
             {
                   "name": "Amman Spa & Hammam",
-                  "text": "Baie publică în Sarajevo pentru relaxare tradițională.",
+                  "text": "Amman Spa & Hammam este un spa prietenos cu familia în zona Bursei de Valori Sarajevo, cu hammam tradițional.",
                   "category": "family",
                   "coords": [
                         18.432205,
@@ -3086,7 +4499,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             },
             {
                   "name": "Bentbaša",
-                  "text": "O piscină în Sarajevo pentru timp liber și sport.",
+                  "text": "Bentbaša este o zonă istorică prietenoasă cu familia lângă Bursa de Valori Sarajevo, cu un pod de piatră.",
                   "category": "family",
                   "coords": [
                         18.437798,
@@ -3223,7 +4636,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             },
             {
                   "name": "Sarajevo National Theatre",
-                  "text": "The Sarajevo National Theatre is the oldest and most prominent theatre house in the country.",
+                  "text": "The Sarajevo National Theatre is the national theatre of Bosnia and Herzegovina in the city center.",
                   "category": "cultural",
                   "coords": [
                         18.420729,
@@ -3295,7 +4708,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             },
             {
                   "name": "Kekeki-Sinanova džamija",
-                  "text": "A mosque in Sarajevo also known as the Bakarevića Mosque.",
+                  "text": "The Kekeki-Sinanova mosque, also known as Bakarevića mosque, stands near the Sarajevo Stock Exchange.",
                   "category": "religious",
                   "coords": [
                         18.431117,
@@ -3340,7 +4753,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             },
             {
                   "name": "Gazi Husrev-beg Mosque",
-                  "text": "The Gazi Husrev-beg Mosque is the largest and most important mosque in Bosnia and Herzegovina.",
+                  "text": "Built in 1531 at the Sarajevo Stock Exchange.",
                   "category": "religious",
                   "coords": [
                         18.429026,
@@ -3349,7 +4762,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             },
             {
                   "name": "Ashkenazi Synagogue",
-                  "text": "The Ashkenazi Synagogue in Sarajevo is the only active synagogue in the city today.",
+                  "text": "The Ashkenazi Synagogue in Sarajevo is a Moorish Revival building near the Stock Exchange.",
                   "category": "landmark",
                   "coords": [
                         18.42508,
@@ -3448,7 +4861,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             },
             {
                   "name": "War museum 1992 Sarajevo",
-                  "text": "This museum in Sarajevo documents the events and history of the 1992 war.",
+                  "text": "War museum 1992 Sarajevo is a museum in Sarajevo, documenting the siege of the city.",
                   "category": "museum",
                   "coords": [
                         18.434944,
@@ -3556,7 +4969,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             },
             {
                   "name": "Amman Spa & Hammam",
-                  "text": "A public bath in Sarajevo for traditional relaxation.",
+                  "text": "Amman Spa & Hammam is a family spa in the Sarajevo Stock Exchange area, offering traditional hammam.",
                   "category": "family",
                   "coords": [
                         18.432205,
@@ -3565,7 +4978,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
             },
             {
                   "name": "Bentbaša",
-                  "text": "A swimming pool in Sarajevo for leisure and sports.",
+                  "text": "Bentbaša is a historic family-friendly area near the Sarajevo Stock Exchange, with a stone bridge.",
                   "category": "family",
                   "coords": [
                         18.437798,

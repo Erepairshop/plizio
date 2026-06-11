@@ -97,7 +97,7 @@ export const serbiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Дино парк Калемегдан – Јура авантура",
-                  "text": "Ein Dinosaurier-Erlebnispark in der Belgrader Festung Kalemegdan.",
+                  "text": "Der Dino Park Kalemegdan – Jura Avantura ist ein Dinosaurierpark in der Festung Kalemegdan nahe dem Kapetan-Miša-Palast.",
                   "category": "recreational",
                   "coords": [
                         20.450851,
@@ -216,7 +216,7 @@ export const serbiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Дино парк Калемегдан – Јура авантура",
-                  "text": "Dinoszaurusz-élménypark a belgrádi Kalemegdan erődben.",
+                  "text": "A Dino Park Kalemegdan – Jura Avantura egy dinoszauruszpark a kalemegdani erődben, a Kapetan Miša-palota közelében.",
                   "category": "recreational",
                   "coords": [
                         20.450851,
@@ -335,7 +335,7 @@ export const serbiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Дино парк Калемегдан – Јура авантура",
-                  "text": "Un parc de aventură cu tematică de dinozauri în Cetatea Kalemegdan din Belgrad.",
+                  "text": "Dino Park Kalemegdan – Jura Avantura este un parc cu dinozauri în cetatea Kalemegdan, lângă Palatul Kapetan Miša.",
                   "category": "recreational",
                   "coords": [
                         20.450851,
@@ -454,7 +454,7 @@ export const serbiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Dino Park Kalemegdan – Jura Avantura",
-                  "text": "A dinosaur-themed adventure park located in Belgrade's Kalemegdan Fortress.",
+                  "text": "Dino Park Kalemegdan – Jura Avantura is a dinosaur park within Kalemegdan Fortress near Kapetan Miša Palace.",
                   "category": "recreational",
                   "coords": [
                         20.450851,
@@ -538,7 +538,7 @@ export const serbiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Archäologische Überreste der mittelalterlichen Burg von Despot Stefan Lazarević.",
+                  "text": "Mittelalterliche Burgruine des Despoten Stefan Lazarević unweit des Serbischen Nationalmuseums in Belgrad.",
                   "category": "historical",
                   "coords": [
                         20.448974,
@@ -657,7 +657,7 @@ export const serbiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Stefan Lazarević despota középkori várának régészeti maradványai.",
+                  "text": "Stefan Lazarević despota középkori várának romjai a Belgrádi Nemzeti Múzeum közelében.",
                   "category": "historical",
                   "coords": [
                         20.448974,
@@ -776,7 +776,7 @@ export const serbiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Rămășițe arheologice ale castelului medieval al despotului Stefan Lazarević.",
+                  "text": "Ruinele castelului medieval al despotului Stefan Lazarević, lângă Muzeul Național al Serbiei din Belgrad.",
                   "category": "historical",
                   "coords": [
                         20.448974,
@@ -895,7 +895,7 @@ export const serbiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Remains of Despot Stefan Lazarevic's Castle",
-                  "text": "Archaeological remains of the medieval castle of Despot Stefan Lazarević.",
+                  "text": "Medieval castle ruins of Despot Stefan Lazarević near the Serbian National Museum in Belgrade.",
                   "category": "historical",
                   "coords": [
                         20.448974,
@@ -2869,7 +2869,7 @@ export const serbiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Diese archäologische Stätte zeigt die Überreste der Burg von Despot Stefan Lazarević.",
+                  "text": "Mittelalterliche Burgruine des Despoten Stefan Lazarević nahe der Kralj-Petar-Statue in Belgrad.",
                   "category": "historical",
                   "coords": [
                         20.448974,
@@ -2988,7 +2988,7 @@ export const serbiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Ez a régészeti helyszín Stefan Lazarević despota várának maradványait mutatja be.",
+                  "text": "Stefan Lazarević despota középkori várának romjai a Kralj Petar-szobor közelében, Belgrádban.",
                   "category": "historical",
                   "coords": [
                         20.448974,
@@ -3107,7 +3107,7 @@ export const serbiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Acest sit arheologic prezintă rămășițele castelului despotului Stefan Lazarević.",
+                  "text": "Ruinele castelului medieval al despotului Stefan Lazarević, lângă statuia regelui Petar I din Belgrad.",
                   "category": "historical",
                   "coords": [
                         20.448974,
@@ -3226,7 +3226,7 @@ export const serbiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Remains of Despot Stefan Lazarevic's Castle",
-                  "text": "This archaeological site showcases the remains of Despot Stefan Lazarevic's castle.",
+                  "text": "Medieval castle ruins of Despot Stefan Lazarević near the Kralj Petar Statue in Belgrade.",
                   "category": "historical",
                   "coords": [
                         20.448974,
@@ -4291,7 +4291,7 @@ export const serbiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Aqua Termal Club",
-                  "text": "Ein Schwimmbad und Thermalklub in Belgrad.",
+                  "text": "Der Aqua Termal Club bietet Thermalwasser-Erholung nahe dem Ethnografischen Museum Belgrads.",
                   "category": "recreational",
                   "coords": [
                         20.401016,
@@ -4309,7 +4309,7 @@ export const serbiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Дино парк Калемегдан – Јура авантура",
-                  "text": "Ein Dinosaurier-Erlebnispark in der Belgrader Festung Kalemegdan.",
+                  "text": "Der Dino Park Kalemegdan – Jura Avantura befindet sich nahe dem Ethnografischen Museum Belgrads.",
                   "category": "recreational",
                   "coords": [
                         20.450851,
@@ -4410,7 +4410,7 @@ export const serbiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Aqua Termal Club",
-                  "text": "Úszómedence és termálklub Belgrádban.",
+                  "text": "Az Aqua Termal Club termálvizes kikapcsolódást kínál a Belgrádi Néprajzi Múzeum közelében.",
                   "category": "recreational",
                   "coords": [
                         20.401016,
@@ -4428,7 +4428,7 @@ export const serbiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Дино парк Калемегдан – Јура авантура",
-                  "text": "Dinoszaurusz-élménypark a belgrádi Kalemegdan erődben.",
+                  "text": "A Dino Park Kalemegdan – Jura Avantura a Belgrádi Néprajzi Múzeum közelében található.",
                   "category": "recreational",
                   "coords": [
                         20.450851,
@@ -4529,7 +4529,7 @@ export const serbiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Aqua Termal Club",
-                  "text": "O piscină și club termal situat în Belgrad.",
+                  "text": "Aqua Termal Club oferă recreere cu ape termale lângă Muzeul Etnografic din Belgrad.",
                   "category": "recreational",
                   "coords": [
                         20.401016,
@@ -4547,7 +4547,7 @@ export const serbiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Дино парк Калемегдан – Јура авантура",
-                  "text": "Un parc de aventură cu tematică de dinozauri în Cetatea Kalemegdan din Belgrad.",
+                  "text": "Dino Park Kalemegdan – Jura Avantura se află lângă Muzeul Etnografic din Belgrad.",
                   "category": "recreational",
                   "coords": [
                         20.450851,
@@ -4648,7 +4648,7 @@ export const serbiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Aqua Termal Club",
-                  "text": "A swimming pool and thermal club located in Belgrade.",
+                  "text": "Aqua Termal Club offers thermal water recreation near the Ethnographic Museum in Belgrade.",
                   "category": "recreational",
                   "coords": [
                         20.401016,
@@ -4666,7 +4666,7 @@ export const serbiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Dino Park Kalemegdan – Jura Avantura",
-                  "text": "A dinosaur-themed adventure park located in Belgrade's Kalemegdan Fortress.",
+                  "text": "Dino Park Kalemegdan – Jura Avantura is located near the Ethnographic Museum in Belgrade.",
                   "category": "recreational",
                   "coords": [
                         20.450851,
@@ -5695,7 +5695,7 @@ export const serbiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Kupalishte Peskara",
-                  "text": "Ein Strandbad in Zrenjanin.",
+                  "text": "Kupalište Peskara ist ein Sandstrand / Badeplatz am Ufer nahe dem Rathaus von Zrenjanin.",
                   "category": "recreational",
                   "coords": [
                         20.384494,
@@ -5751,7 +5751,7 @@ export const serbiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Kupalishte Peskara",
-                  "text": "Strandüdülőhely Nagybecskereken (Zrenjanin).",
+                  "text": "A Kupalište Peskara egy homokos strand / fürdőhely a Zrenjanini Városháza közelében.",
                   "category": "recreational",
                   "coords": [
                         20.384494,
@@ -5807,7 +5807,7 @@ export const serbiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Kupalishte Peskara",
-                  "text": "O stațiune de plajă în Zrenjanin.",
+                  "text": "Kupalište Peskara este o plajă nisipoasă / loc de scăldat lângă Primăria din Zrenjanin.",
                   "category": "recreational",
                   "coords": [
                         20.384494,
@@ -5863,7 +5863,7 @@ export const serbiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Kupalishte Peskara",
-                  "text": "A beach resort area in Zrenjanin.",
+                  "text": "Kupalište Peskara is a sandy beach / bathing spot near the Zrenjanin City Hall.",
                   "category": "recreational",
                   "coords": [
                         20.384494,
@@ -7000,7 +7000,7 @@ export const serbiaLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Muzej 21. oktobar",
-                  "text": "Ein Museum in Kragujevac, das an das Massaker vom 21. Oktober 1941 erinnert.",
+                  "text": "Gedenkmuseum 21. Oktober im Stadtteil Amidza Konak von Kragujevac, das an die Erschießung von 1941 erinnert.",
                   "category": "museum",
                   "coords": [
                         20.894361,
@@ -7074,7 +7074,7 @@ export const serbiaLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Muzej 21. oktobar",
-                  "text": "Kragujevaci múzeum, amely az 1941. október 21-i mészárlásnak állít emléket.",
+                  "text": "Október 21. Emlékmúzeum Kragujevac Amidza Konak negyedében, amely az 1941-es tömegkivégzés előtt tiszteleg.",
                   "category": "museum",
                   "coords": [
                         20.894361,
@@ -7148,7 +7148,7 @@ export const serbiaLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Muzej 21. oktobar",
-                  "text": "Un muzeu din Kragujevac care comemorează masacrul din 21 octombrie 1941.",
+                  "text": "Muzeul Memorial 21 Octombrie în cartierul Amidza Konak din Kragujevac, comemorând masacrul din 1941.",
                   "category": "museum",
                   "coords": [
                         20.894361,
@@ -7222,7 +7222,7 @@ export const serbiaLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Museum 21 October",
-                  "text": "A museum in Kragujevac commemorating the massacre of October 21, 1941.",
+                  "text": "Museum 21 October in the Amidza Konak area of Kragujevac, commemorating the 1941 massacre.",
                   "category": "museum",
                   "coords": [
                         20.894361,
@@ -8809,7 +8809,7 @@ export const serbiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Spomenik Ivanu Saritshu",
-                  "text": "Denkmal zu Ehren des Luftfahrtpioniers Ivan Sarić.",
+                  "text": "Das Ivan-Sarić-Denkmal ehrt den serbischen Flugpionier in der Nähe des Stadtmuseums Subotica.",
                   "category": "historical",
                   "coords": [
                         19.667888,
@@ -8874,7 +8874,7 @@ export const serbiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Szárits János emlékműve",
-                  "text": "Emlékmű Sarić János repülési úttörő tiszteletére.",
+                  "text": "Az Ivan Sarić-emlékmű a szerb repülési úttörőt tiszteli a Szabadkai Városi Múzeum közelében.",
                   "category": "historical",
                   "coords": [
                         19.667888,
@@ -8939,7 +8939,7 @@ export const serbiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Spomenik Ivanu Saritshu",
-                  "text": "Monument în cinstea pionierului aviației Ivan Sarić.",
+                  "text": "Monumentul Ivan Sarić îl omagiază pe pionierul aviației sârbe lângă Muzeul Orașului Subotica.",
                   "category": "historical",
                   "coords": [
                         19.667888,
@@ -9004,7 +9004,7 @@ export const serbiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Ivan Sarić Monument",
-                  "text": "Monument honoring the aviation pioneer Ivan Sarić.",
+                  "text": "The Ivan Sarić Monument honors the Serbian aviation pioneer near the Subotica City Museum.",
                   "category": "historical",
                   "coords": [
                         19.667888,

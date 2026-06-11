@@ -1322,7 +1322,7 @@ imageHint: "Dzharylhach island coastline and lighthouse",
       "de": [
             {
                   "name": "Pliazh \"Bandits'kii\"",
-                  "text": "Ein Strand auf der geschichtsträchtigen Schlangeninsel.",
+                  "text": "Bandit Beach: ein Kieselstrand an der Nordküste der Schlangeninsel.",
                   "category": "recreational",
                   "coords": [
                         30.200477,
@@ -1331,7 +1331,7 @@ imageHint: "Dzharylhach island coastline and lighthouse",
             },
             {
                   "name": "Pliazh <<Zolotii>>",
-                  "text": "Ein Küstenabschnitt auf der Schlangeninsel im Schwarzen Meer.",
+                  "text": "Golden Beach: ein Sandstrand an der Ostküste der Schlangeninsel.",
                   "category": "recreational",
                   "coords": [
                         30.201134,
@@ -1349,7 +1349,7 @@ imageHint: "Dzharylhach island coastline and lighthouse",
             },
             {
                   "name": "Schlangeninsel Naturschutzgebiet",
-                  "text": "Ein Naturschutzgebiet zum Schutz der Fauna auf der Schlangeninsel.",
+                  "text": "Zoologisches Reservat Schlangeninsel: ein Schutzgebiet für die einzigartigen Vogel- und Reptilienarten der Insel.",
                   "category": "natural",
                   "coords": [
                         30.203913,
@@ -1360,7 +1360,7 @@ imageHint: "Dzharylhach island coastline and lighthouse",
       "hu": [
             {
                   "name": "Pliazh \"Bandits'kii\"",
-                  "text": "Strand a történelmi jelentőségű Kígyó-szigeten.",
+                  "text": "Bandit Beach: egy kavicsos strand a Kígyó-sziget északi partján.",
                   "category": "recreational",
                   "coords": [
                         30.200477,
@@ -1369,7 +1369,7 @@ imageHint: "Dzharylhach island coastline and lighthouse",
             },
             {
                   "name": "Pliazh <<Zolotii>>",
-                  "text": "Tengerparti szakasz a fekete-tengeri Kígyó-szigeten.",
+                  "text": "Golden Beach: homokos szakasz a Kígyó-sziget keleti partján.",
                   "category": "recreational",
                   "coords": [
                         30.201134,
@@ -1387,7 +1387,7 @@ imageHint: "Dzharylhach island coastline and lighthouse",
             },
             {
                   "name": "Zagal'nozoologichnii zakaznik <<Zmiyinii ostriv>>",
-                  "text": "Természetvédelmi terület a Kígyó-sziget állatvilágának megőrzésére.",
+                  "text": "Kígyó-sziget Állatvédelmi Rezervátum: a sziget egyedi madár- és hüllőfajainak védett területe.",
                   "category": "natural",
                   "coords": [
                         30.203913,
@@ -1398,7 +1398,7 @@ imageHint: "Dzharylhach island coastline and lighthouse",
       "ro": [
             {
                   "name": "Pliazh \"Bandits'kii\"",
-                  "text": "O plajă pe istorica Insulă a Șerpilor.",
+                  "text": "Bandit Beach: o plajă de pietriș pe țărmul nordic al Insulei Șerpilor.",
                   "category": "recreational",
                   "coords": [
                         30.200477,
@@ -1407,7 +1407,7 @@ imageHint: "Dzharylhach island coastline and lighthouse",
             },
             {
                   "name": "Pliazh <<Zolotii>>",
-                  "text": "O porțiune de coastă pe Insula Șerpilor din Marea Neagră.",
+                  "text": "Golden Beach: o întindere nisipoasă pe coasta estică a Insulei Șerpilor.",
                   "category": "recreational",
                   "coords": [
                         30.201134,
@@ -1425,7 +1425,7 @@ imageHint: "Dzharylhach island coastline and lighthouse",
             },
             {
                   "name": "Rezervația Zoologică Insula Șerpilor",
-                  "text": "O rezervație naturală pentru protejarea faunei de pe Insula Șerpilor.",
+                  "text": "Rezervația Zoologică Insula Șerpilor: o arie protejată pentru speciile unice de păsări și reptile ale insulei.",
                   "category": "natural",
                   "coords": [
                         30.203913,
@@ -1436,7 +1436,7 @@ imageHint: "Dzharylhach island coastline and lighthouse",
       "en": [
             {
                   "name": "Bandit Beach",
-                  "text": "A beach located on the historic Snake Island.",
+                  "text": "Bandit Beach: a pebble beach on the northern shore of Snake Island.",
                   "category": "recreational",
                   "coords": [
                         30.200477,
@@ -1445,7 +1445,7 @@ imageHint: "Dzharylhach island coastline and lighthouse",
             },
             {
                   "name": "Golden Beach",
-                  "text": "A coastal stretch on Snake Island in the Black Sea.",
+                  "text": "Golden Beach: a sandy stretch on the eastern coast of Snake Island.",
                   "category": "recreational",
                   "coords": [
                         30.201134,
@@ -1463,7 +1463,7 @@ imageHint: "Dzharylhach island coastline and lighthouse",
             },
             {
                   "name": "Zoological Reserve Snake Island",
-                  "text": "A nature reserve for the protection of fauna on Snake Island.",
+                  "text": "Zoological Reserve Snake Island: a protected area for the island's unique bird and reptile species.",
                   "category": "natural",
                   "coords": [
                         30.203913,
@@ -1818,7 +1818,7 @@ imageHint: "Aktove Canyon granite rocks and river",
             },
             {
                   "name": "Stig",
-                  "text": "Ein Berggipfel im Swydiwez-Massiv in der Ukraine.",
+                  "text": "Der Stih ist ein 1.708 m hoher Gipfel im Swydowez-Massiv der Karpaten.",
                   "category": "landmark",
                   "coords": [
                         24.224105,
@@ -1836,7 +1836,7 @@ imageHint: "Aktove Canyon granite rocks and river",
             },
             {
                   "name": "Velikii Kotel",
-                  "text": "Ein Berg im Swydiwez-Gebiet der Ukraine.",
+                  "text": "Der Welykyj Kotel ist ein 1.571 m hoher Berg in den Karpaten, bekannt für sein kesselförmiges Gipfelplateau.",
                   "category": "landmark",
                   "coords": [
                         24.203011,
@@ -1856,7 +1856,7 @@ imageHint: "Aktove Canyon granite rocks and river",
             },
             {
                   "name": "Stig",
-                  "text": "Hegycsúcs az ukrajnai Szvidovec-hegységben.",
+                  "text": "A Stih egy 1708 m magas csúcs a Szvidovec-hegységben, a Kárpátokban.",
                   "category": "landmark",
                   "coords": [
                         24.224105,
@@ -1874,7 +1874,7 @@ imageHint: "Aktove Canyon granite rocks and river",
             },
             {
                   "name": "Velikii Kotel",
-                  "text": "Hegy az ukrajnai Szvidovec-vidéken.",
+                  "text": "A Velikij Kotel egy 1571 m magas hegy a Kárpátokban, amelyet kazán alakú csúcsa jellemez.",
                   "category": "landmark",
                   "coords": [
                         24.203011,
@@ -1894,7 +1894,7 @@ imageHint: "Aktove Canyon granite rocks and river",
             },
             {
                   "name": "Stig",
-                  "text": "Un vârf montan în masivul Svîdoveț din Ucraina.",
+                  "text": "Stih este un vârf de 1.708 m în masivul Svydoveț din Carpați.",
                   "category": "landmark",
                   "coords": [
                         24.224105,
@@ -1912,7 +1912,7 @@ imageHint: "Aktove Canyon granite rocks and river",
             },
             {
                   "name": "Velikii Kotel",
-                  "text": "Un munte în regiunea Svîdoveț din Ucraina.",
+                  "text": "Velykyi Kotel este un munte de 1.571 m în Carpați, cunoscut pentru platoul său în formă de căldare.",
                   "category": "landmark",
                   "coords": [
                         24.203011,
@@ -1932,7 +1932,7 @@ imageHint: "Aktove Canyon granite rocks and river",
             },
             {
                   "name": "Stih",
-                  "text": "A mountain peak in the Svydovets massif in Ukraine.",
+                  "text": "Stih is a 1,708 m peak in the Svydovets massif of the Carpathians.",
                   "category": "landmark",
                   "coords": [
                         24.224105,
@@ -1950,7 +1950,7 @@ imageHint: "Aktove Canyon granite rocks and river",
             },
             {
                   "name": "Velykyi Kotel",
-                  "text": "A mountain in the Svydovets region of Ukraine.",
+                  "text": "Velykyi Kotel is a 1,571 m mountain in the Carpathians, known for its cauldron-shaped summit.",
                   "category": "landmark",
                   "coords": [
                         24.203011,
@@ -3302,7 +3302,7 @@ imageHint: "Probiy waterfall Yaremche bridge view",
       "de": [
             {
                   "name": "Maramaros'kii zapovidnii masiv",
-                  "text": "Ein geschütztes Naturschutzgebiet in den Marmaroscher Bergen.",
+                  "text": "Das Marmaros-Schutzmassiv ist ein Naturschutzgebiet in den Karpaten, Heimat seltener alpiner Pflanzen.",
                   "category": "natural",
                   "coords": [
                         24.302394,
@@ -3320,7 +3320,7 @@ imageHint: "Probiy waterfall Yaremche bridge view",
             },
             {
                   "name": "Berlebashka",
-                  "text": "Ein malerischer Berggipfel in den Marmaroscher Karpaten.",
+                  "text": "Die Berlebashka ist ein 1.733 m hoher Gipfel im Marmaros-Massiv der Karpaten.",
                   "category": "landmark",
                   "coords": [
                         24.315938,
@@ -3340,7 +3340,7 @@ imageHint: "Probiy waterfall Yaremche bridge view",
       "hu": [
             {
                   "name": "Maramaros'kii zapovidnii masiv",
-                  "text": "Védett természetvédelmi terület a Máramarosi-havasokban.",
+                  "text": "A Máramarosi védett masszívum egy természetvédelmi terület a Kárpátokban, ritka alpesi növények otthona.",
                   "category": "natural",
                   "coords": [
                         24.302394,
@@ -3358,7 +3358,7 @@ imageHint: "Probiy waterfall Yaremche bridge view",
             },
             {
                   "name": "Berlebashka",
-                  "text": "Festői hegycsúcs a Máramarosi-Kárpátokban.",
+                  "text": "A Berlebaska egy 1733 m magas csúcs a Máramarosi-masszívumban, a Kárpátokban.",
                   "category": "landmark",
                   "coords": [
                         24.315938,
@@ -3378,7 +3378,7 @@ imageHint: "Probiy waterfall Yaremche bridge view",
       "ro": [
             {
                   "name": "Maramaros'kii zapovidnii masiv",
-                  "text": "O rezervație naturală protejată în Munții Maramureșului.",
+                  "text": "Masivul protejat Marmaros este o arie protejată în Carpați, cu o floră alpină rară.",
                   "category": "natural",
                   "coords": [
                         24.302394,
@@ -3396,7 +3396,7 @@ imageHint: "Probiy waterfall Yaremche bridge view",
             },
             {
                   "name": "Berlebashka",
-                  "text": "Un vârf muntos pitoresc în Carpații Maramureșului.",
+                  "text": "Berlebashka este un vârf de 1.733 m în masivul Marmaros din Carpați.",
                   "category": "landmark",
                   "coords": [
                         24.315938,
@@ -3416,7 +3416,7 @@ imageHint: "Probiy waterfall Yaremche bridge view",
       "en": [
             {
                   "name": "Marmaros protected massif",
-                  "text": "A protected nature reserve in the Maramureș Mountains.",
+                  "text": "Marmaros protected massif is a nature reserve in the Carpathians, home to rare alpine flora.",
                   "category": "natural",
                   "coords": [
                         24.302394,
@@ -3434,7 +3434,7 @@ imageHint: "Probiy waterfall Yaremche bridge view",
             },
             {
                   "name": "Berlebashka",
-                  "text": "A scenic mountain peak in the Maramureș Carpathians.",
+                  "text": "Berlebashka is a 1,733 m peak in the Marmaros massif of the Carpathians.",
                   "category": "landmark",
                   "coords": [
                         24.315938,

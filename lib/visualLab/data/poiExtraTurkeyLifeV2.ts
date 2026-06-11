@@ -67,7 +67,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
       "de": [
             {
                   "name": "Kavaklı Burun Plajı",
-                  "text": "Kavaklı Burun Plajı ist ein Strand in Peninsula Life.",
+                  "text": "Strand am Kap Kavaklı Burun auf der Halbinsel Bodrum.",
                   "category": "recreational",
                   "coords": [
                         27.152498,
@@ -76,7 +76,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
             },
             {
                   "name": "İçmeler Koyu Plajı",
-                  "text": "İçmeler Koyu Plajı ist ein Strand in Peninsula Life.",
+                  "text": "Strand in der İçmeler Bucht, einer geschützten Bucht auf der Halbinsel Bodrum.",
                   "category": "recreational",
                   "coords": [
                         27.205376,
@@ -85,7 +85,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
             },
             {
                   "name": "Kavaklı Burun",
-                  "text": "Kavaklı Burun ist ein Strandbereich in Peninsula Life.",
+                  "text": "Kavaklı Burun, ein felsiges Kap auf der Halbinsel Bodrum mit Meerblick.",
                   "category": "recreational",
                   "coords": [
                         27.146457,
@@ -114,7 +114,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Kavaklı Burun Plajı",
-                  "text": "A Kavaklı Burun Plajı egy strand Peninsula Life területén.",
+                  "text": "Kavaklı Burun Plajı, strand a Kavaklı-foknál a Bodrum-félszigeten.",
                   "category": "recreational",
                   "coords": [
                         27.152498,
@@ -123,7 +123,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
             },
             {
                   "name": "İçmeler Koyu Plajı",
-                  "text": "Az İçmeler Koyu Plajı egy tengerpart Peninsula Life térségében.",
+                  "text": "İçmeler Koyu Plajı, strand a védett İçmeler-öbölben a Bodrum-félszigeten.",
                   "category": "recreational",
                   "coords": [
                         27.205376,
@@ -132,7 +132,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
             },
             {
                   "name": "Kavaklı Burun",
-                  "text": "A Kavaklı Burun egy strandszakasz Peninsula Life területén.",
+                  "text": "Kavaklı Burun, sziklás fok a Bodrum-félszigeten, tengerre néző kilátással.",
                   "category": "recreational",
                   "coords": [
                         27.146457,
@@ -161,7 +161,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Kavaklı Burun Plajı",
-                  "text": "Kavaklı Burun Plajı este o plajă din Peninsula Life.",
+                  "text": "Plaja de la Capul Kavaklı Burun, pe Peninsula Bodrum.",
                   "category": "recreational",
                   "coords": [
                         27.152498,
@@ -170,7 +170,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
             },
             {
                   "name": "İçmeler Koyu Plajı",
-                  "text": "İçmeler Koyu Plajı este o plajă situată în Peninsula Life.",
+                  "text": "Plaja din Golful İçmeler, un golf ferit pe Peninsula Bodrum.",
                   "category": "recreational",
                   "coords": [
                         27.205376,
@@ -179,7 +179,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
             },
             {
                   "name": "Kavaklı Burun",
-                  "text": "Kavaklı Burun este o zonă de plajă în Peninsula Life.",
+                  "text": "Kavaklı Burun, un cap stâncos pe Peninsula Bodrum, cu vedere la mare.",
                   "category": "recreational",
                   "coords": [
                         27.146457,
@@ -208,7 +208,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
       "en": [
             {
                   "name": "Kavaklı Burun Plajı",
-                  "text": "Kavaklı Burun Plajı is a beach in Peninsula Life.",
+                  "text": "Beach at Kavaklı Burun cape on the Bodrum Peninsula.",
                   "category": "recreational",
                   "coords": [
                         27.152498,
@@ -217,7 +217,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
             },
             {
                   "name": "İçmeler Koyu Plajı",
-                  "text": "İçmeler Koyu Plajı is a beach situated in Peninsula Life.",
+                  "text": "Beach in İçmeler Bay, a sheltered cove on the Bodrum Peninsula.",
                   "category": "recreational",
                   "coords": [
                         27.205376,
@@ -226,7 +226,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
             },
             {
                   "name": "Kavaklı Burun",
-                  "text": "Kavaklı Burun is a beach area in Peninsula Life.",
+                  "text": "Kavaklı Burun, a rocky cape on the Bodrum Peninsula with sea views.",
                   "category": "recreational",
                   "coords": [
                         27.146457,
@@ -931,7 +931,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
             },
             {
                   "name": "Süvari Birliği Nalbanthanesi",
-                  "text": "Ein historisches Gebäude der Kavallerie in der Nähe des Emirgan-Parks.",
+                  "text": "Süvari Birliği Nalbanthanesi, eine ehemalige Kavallerie-Hufschmiede im Park, heute historisches Denkmal.",
                   "category": "fortress",
                   "coords": [
                         29.010698,
@@ -1023,7 +1023,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
             },
             {
                   "name": "Süvari Birliği Nalbanthanesi",
-                  "text": "A lovasság történelmi épülete az Emirgan park közelében.",
+                  "text": "Süvari Birliği Nalbanthanesi, egykori lovassági patkolóműhely a parkban, ma történelmi emlékhely.",
                   "category": "fortress",
                   "coords": [
                         29.010698,
@@ -1115,7 +1115,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
             },
             {
                   "name": "Süvari Birliği Nalbanthanesi",
-                  "text": "O clădire istorică a cavaleriei situată în apropierea Parcului Emirgan.",
+                  "text": "Süvari Birliği Nalbanthanesi, o fostă fierărie de cai în parc, acum monument istoric.",
                   "category": "fortress",
                   "coords": [
                         29.010698,
@@ -1207,7 +1207,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
             },
             {
                   "name": "Süvari Birliği Nalbanthanesi",
-                  "text": "A historic cavalry building located near Emirgan Park.",
+                  "text": "Süvari Birliği Nalbanthanesi, a former cavalry farrier workshop in the park, now a historic landmark.",
                   "category": "fortress",
                   "coords": [
                         29.010698,
@@ -1333,7 +1333,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
             },
             {
                   "name": "Roxy Beach Club",
-                  "text": "Ein moderner Strandclub am Antalya Aquarium.",
+                  "text": "Roxy Beach Club am Strand nahe dem Antalya Aquarium.",
                   "category": "recreational",
                   "coords": [
                         30.672314,
@@ -1351,7 +1351,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
             },
             {
                   "name": "Babil",
-                  "text": "Ein Strandresort namens Babil am Antalya Aquarium.",
+                  "text": "Babil Beach Club neben dem Antalya Aquarium.",
                   "category": "recreational",
                   "coords": [
                         30.653949,
@@ -1360,7 +1360,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
             },
             {
                   "name": "Konyaaltı Sahili",
-                  "text": "Ein großer und beliebter Strand am Antalya Aquarium.",
+                  "text": "Konyaaltı Strand, ein langer Kiesstrand nahe dem Antalya Aquarium.",
                   "category": "recreational",
                   "coords": [
                         30.649784,
@@ -1398,7 +1398,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
             },
             {
                   "name": "Roxy Beach Club",
-                  "text": "Modern tengerparti klub az Antalya Akváriumnál.",
+                  "text": "Roxy Beach Club a strandon, az antalyai Akvárium mellett.",
                   "category": "recreational",
                   "coords": [
                         30.672314,
@@ -1416,7 +1416,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
             },
             {
                   "name": "Babil",
-                  "text": "Babil nevű tengerparti üdülőhely az Antalya Akváriumnál.",
+                  "text": "Babil strandklub az antalyai Akvárium mellett.",
                   "category": "recreational",
                   "coords": [
                         30.653949,
@@ -1425,7 +1425,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
             },
             {
                   "name": "Konyaaltı Sahili",
-                  "text": "Hatalmas és népszerű strand az Antalya Akváriumnál.",
+                  "text": "Konyaaltı Sahili, hosszú kavicsos strand az antalyai Akvárium közelében.",
                   "category": "recreational",
                   "coords": [
                         30.649784,
@@ -1463,7 +1463,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
             },
             {
                   "name": "Roxy Beach Club",
-                  "text": "Un club de plajă modern în Antalya Aquarium.",
+                  "text": "Roxy Beach Club pe plajă, lângă Acvariul din Antalya.",
                   "category": "recreational",
                   "coords": [
                         30.672314,
@@ -1481,7 +1481,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
             },
             {
                   "name": "Babil",
-                  "text": "O stațiune de plajă numită Babil în Antalya Aquarium.",
+                  "text": "Clubul de plajă Babil, lângă Acvariul din Antalya.",
                   "category": "recreational",
                   "coords": [
                         30.653949,
@@ -1490,7 +1490,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
             },
             {
                   "name": "Konyaaltı Sahili",
-                  "text": "O plajă mare și populară în Antalya Aquarium.",
+                  "text": "Plaja Konyaaltı, o plajă lungă de pietriș lângă Acvariul din Antalya.",
                   "category": "recreational",
                   "coords": [
                         30.649784,
@@ -1528,7 +1528,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
             },
             {
                   "name": "Roxy Beach Club",
-                  "text": "A modern beach club located in Antalya Aquarium.",
+                  "text": "Roxy Beach Club on the beach near Antalya Aquarium.",
                   "category": "recreational",
                   "coords": [
                         30.672314,
@@ -1546,7 +1546,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
             },
             {
                   "name": "Babil",
-                  "text": "A beach resort named Babil in Antalya Aquarium.",
+                  "text": "Babil beach club next to Antalya Aquarium.",
                   "category": "recreational",
                   "coords": [
                         30.653949,
@@ -1555,7 +1555,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
             },
             {
                   "name": "Konyaaltı Sahili",
-                  "text": "A large and popular beach located in Antalya Aquarium.",
+                  "text": "Konyaaltı Beach, a long pebble beach near Antalya Aquarium.",
                   "category": "recreational",
                   "coords": [
                         30.649784,
@@ -1627,7 +1627,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
       "de": [
             {
                   "name": "Giresun Çınarlar Camii",
-                  "text": "Eine Moschee in Giresun, die ein wichtiger Ort für die lokale Religionsausübung ist.",
+                  "text": "Giresun Çınarlar Camii in Hazelnut ist nach den Platanen (çınar) benannt, die die Moschee umgeben.",
                   "category": "religious",
                   "coords": [
                         38.389392,
@@ -1647,7 +1647,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Giresun Çınarlar Camii",
-                  "text": "Mecset Giresunban, amely a helyi hitélet egyik fontos helyszíne.",
+                  "text": "A Giresun Çınarlar Camii Hazelnutban a mecsetet körülvevő platánfákról (çınar) kapta a nevét.",
                   "category": "religious",
                   "coords": [
                         38.389392,
@@ -1667,7 +1667,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Giresun Çınarlar Camii",
-                  "text": "O moschee din Giresun, care este un loc important pentru viața religioasă locală.",
+                  "text": "Giresun Çınarlar Camii din Hazelnut este numită după platanii (çınar) care înconjoară moscheea.",
                   "category": "religious",
                   "coords": [
                         38.389392,
@@ -1687,7 +1687,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
       "en": [
             {
                   "name": "Giresun Çınarlar Camii",
-                  "text": "A mosque in Giresun that is an important site for local religious practice.",
+                  "text": "Giresun Çınarlar Camii in Hazelnut is named after the plane trees (çınar) surrounding it.",
                   "category": "religious",
                   "coords": [
                         38.389392,
@@ -2083,7 +2083,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
             },
             {
                   "name": "Şükran Güngör Gösteri Merkezi",
-                  "text": "Ein kulturelles Theater und Veranstaltungsort für darstellende Künste in Aydın.",
+                  "text": "Şükran Güngör Aufführungszentrum im Stadtteil Feigengärten, mit Theater und Konzerten.",
                   "category": "cultural",
                   "coords": [
                         27.837503,
@@ -2157,7 +2157,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
             },
             {
                   "name": "Şükran Güngör Gösteri Merkezi",
-                  "text": "Kulturális színház és előadóművészeti központ Aydın városában.",
+                  "text": "Şükran Güngör Előadóművészeti Központ a Fügekert negyedben, színházi és koncerthelyszín.",
                   "category": "cultural",
                   "coords": [
                         27.837503,
@@ -2231,7 +2231,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
             },
             {
                   "name": "Şükran Güngör Gösteri Merkezi",
-                  "text": "Un teatru cultural și centru pentru artele spectacolului în Aydın.",
+                  "text": "Centrul de Spectacole Şükran Güngör în cartierul Livezilor de Smochini, găzduind teatru și concerte.",
                   "category": "cultural",
                   "coords": [
                         27.837503,
@@ -2305,7 +2305,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
             },
             {
                   "name": "Şükran Güngör Gösteri Merkezi",
-                  "text": "A cultural theatre and performing arts venue in Aydın.",
+                  "text": "Şükran Güngör Performance Center located in the Fig Orchards district, hosting theatre and concerts.",
                   "category": "cultural",
                   "coords": [
                         27.837503,
@@ -2563,7 +2563,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
       "de": [
             {
                   "name": "Delik Ada",
-                  "text": "Delik Ada ist ein Strandbereich in Beach Life.",
+                  "text": "Delik Ada, eine kleine Insel mit natürlichem Felsbogen, vom Strand erreichbar.",
                   "category": "recreational",
                   "coords": [
                         28.597196,
@@ -2592,7 +2592,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Delik Ada",
-                  "text": "A Delik Ada egy strandövezet Beach Life területén.",
+                  "text": "Delik Ada, egy kis sziget természetes sziklaívével, a strandról elérhető.",
                   "category": "recreational",
                   "coords": [
                         28.597196,
@@ -2621,7 +2621,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Delik Ada",
-                  "text": "Delik Ada este o zonă de plajă situată în Beach Life.",
+                  "text": "Delik Ada, o insulă mică cu un arc natural de stâncă, accesibilă de pe plajă.",
                   "category": "recreational",
                   "coords": [
                         28.597196,
@@ -2650,7 +2650,7 @@ export const poiExtraTurkeyLifeV2: POI[] = [
       "en": [
             {
                   "name": "Delik Ada",
-                  "text": "Delik Ada is a beach area located in Beach Life.",
+                  "text": "Delik Ada, an islet with a natural arch, accessible from the beach.",
                   "category": "recreational",
                   "coords": [
                         28.597196,

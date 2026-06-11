@@ -1141,7 +1141,7 @@ export const latviaLifeV2: POI[] = [
       "de": [
             {
                   "name": "dabas liegums „Lubāna mitrājs”",
-                  "text": "Ein weitläufiges Feuchtgebiets-Naturschutzgebiet rund um den Lubāns-See.",
+                  "text": "Lubāna mitrājs, ein ausgedehntes Feuchtgebiet, Heimat vieler Vogelarten.",
                   "category": "natural",
                   "coords": [
                         26.914305,
@@ -1152,7 +1152,7 @@ export const latviaLifeV2: POI[] = [
       "hu": [
             {
                   "name": "dabas liegums „Lubāna mitrājs”",
-                  "text": "Kiterjedt vizes élőhelyi természetvédelmi terület a Lubāns-tó körül.",
+                  "text": "Lubāna mitrājs, hatalmas vizes élőhely, számos madárfaj otthona.",
                   "category": "natural",
                   "coords": [
                         26.914305,
@@ -1163,7 +1163,7 @@ export const latviaLifeV2: POI[] = [
       "ro": [
             {
                   "name": "dabas liegums „Lubāna mitrājs”",
-                  "text": "O vastă rezervație naturală de mlaștină în jurul lacului Lubāns.",
+                  "text": "Lubāna mitrājs, o întinsă zonă umedă, gazdă a diverselor specii de păsări.",
                   "category": "natural",
                   "coords": [
                         26.914305,
@@ -1174,7 +1174,7 @@ export const latviaLifeV2: POI[] = [
       "en": [
             {
                   "name": "dabas liegums „Lubāna mitrājs”",
-                  "text": "A vast wetland nature reserve surrounding Lake Lubāns.",
+                  "text": "Lubāna mitrājs, a vast wetland reserve, home to diverse bird species.",
                   "category": "natural",
                   "coords": [
                         26.914305,
@@ -2743,7 +2743,7 @@ export const latviaLifeV2: POI[] = [
             },
             {
                   "name": "Trīs priedes bedrē",
-                  "text": "Eine lokale Naturattraktion im Gebiet des Kemeri-Hochmoors.",
+                  "text": "Trīs priedes bedrē, drei Kiefern in einer Senke am Kemeru Moor.",
                   "category": "landmark",
                   "coords": [
                         23.530065,
@@ -2763,7 +2763,7 @@ export const latviaLifeV2: POI[] = [
             },
             {
                   "name": "Trīs priedes bedrē",
-                  "text": "Helyi természeti látványosság a Kemeri-mocsár területén.",
+                  "text": "Trīs priedes bedrē, három fenyőfa egy mélyedésben a Kemeru-lágnál.",
                   "category": "landmark",
                   "coords": [
                         23.530065,
@@ -2783,7 +2783,7 @@ export const latviaLifeV2: POI[] = [
             },
             {
                   "name": "Trīs priedes bedrē",
-                  "text": "O atracție naturală locală în zona mlaștinii Kemeri.",
+                  "text": "Trīs priedes bedrē, trei pini într-o adâncitură la Mlaștina Kemeru.",
                   "category": "landmark",
                   "coords": [
                         23.530065,
@@ -2803,7 +2803,7 @@ export const latviaLifeV2: POI[] = [
             },
             {
                   "name": "Trīs priedes bedrē",
-                  "text": "A local natural attraction in the Kemeri bog area.",
+                  "text": "Trīs priedes bedrē, three pine trees in a hollow at Kemeru Moor.",
                   "category": "landmark",
                   "coords": [
                         23.530065,

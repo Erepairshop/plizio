@@ -592,7 +592,7 @@ export const netherlandsLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Pllek",
-                  "text": "Strand Pllek in Amsterdam.",
+                  "text": "Pllek ist ein Strandclub auf der NDSM-Werft in Amsterdam, bekannt für Konzerte und Sonnenuntergänge.",
                   "category": "recreational",
                   "coords": [
                         4.892903,
@@ -603,7 +603,7 @@ export const netherlandsLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Pllek",
-                  "text": "Pllek strand Amszterdamban.",
+                  "text": "A Pllek egy strandklub az amszterdami NDSM-hajógyárban, koncertekről és naplementékről híres.",
                   "category": "recreational",
                   "coords": [
                         4.892903,
@@ -614,7 +614,7 @@ export const netherlandsLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Pllek",
-                  "text": "Plaja Pllek din Amsterdam.",
+                  "text": "Pllek este un club de plajă pe șantierul naval NDSM din Amsterdam, cunoscut pentru concerte și apusuri.",
                   "category": "recreational",
                   "coords": [
                         4.892903,
@@ -625,7 +625,7 @@ export const netherlandsLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Pllek",
-                  "text": "Pllek beach in Amsterdam.",
+                  "text": "Pllek is a beach club at the NDSM wharf in Amsterdam, famed for concerts and sunsets.",
                   "category": "recreational",
                   "coords": [
                         4.892903,
@@ -1501,7 +1501,7 @@ export const netherlandsLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Vadedostrand",
-                  "text": "Strand in der Nähe von Leiden, ein lokaler Erholungsort.",
+                  "text": "Der Vadedostrand ist ein Stadtstrand in Leiden, nahe dem Rathaus und dem Vliet.",
                   "category": "recreational",
                   "coords": [
                         4.543838,
@@ -1512,7 +1512,7 @@ export const netherlandsLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Vadedostrand",
-                  "text": "Leiden melletti strand, helyi üdülőhely.",
+                  "text": "A Vadedostrand egy városi strand Leidenben, a városháza és a Vliet közelében.",
                   "category": "recreational",
                   "coords": [
                         4.543838,
@@ -1523,7 +1523,7 @@ export const netherlandsLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Vadedostrand",
-                  "text": "Plajă lângă Leiden, un loc de recreere local.",
+                  "text": "Vadedostrand este o plajă urbană în Leiden, aproape de primărie și de Vliet.",
                   "category": "recreational",
                   "coords": [
                         4.543838,
@@ -1534,7 +1534,7 @@ export const netherlandsLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Vadedostrand",
-                  "text": "Beach near Leiden, a local recreational spot.",
+                  "text": "Vadedostrand is an urban beach in Leiden, near the City Hall and the Vliet river.",
                   "category": "recreational",
                   "coords": [
                         4.543838,

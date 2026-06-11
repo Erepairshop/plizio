@@ -3,7 +3,484 @@ import type { POI } from "./poi";
 
 export const poiExtraKuwaitHistoryV2: POI[] = [
   {
-    id: "jahra-red-fort-history-v2",
+    id: "jahra-red-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Selayel Jahra Resort",
+                  "text": "Das Selayel Jahra Resort ist ein Wasserpark mit Freizeitbecken und Wasserattraktionen in der Region Al Jahra.",
+                  "category": "recreational",
+                  "coords": [
+                        47.649588,
+                        29.362873
+                  ]
+            },
+            {
+                  "name": "Marah Land",
+                  "text": "Marah Land ist ein Freizeitpark in Al Jahra mit Fahrgeschäften und Familienattraktionen.",
+                  "category": "recreational",
+                  "coords": [
+                        47.650574,
+                        29.360539
+                  ]
+            },
+            {
+                  "name": "Red Fort",
+                  "text": "Das Rote Fort ist eine historische kuwaitische Lehmziegelfestung, die für ihre zentrale Rolle in der Schlacht von Jahra 1920 bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        47.679799,
+                        29.348126
+                  ]
+            },
+            {
+                  "name": "Saud Shalsh Mosque",
+                  "text": "Die Saud-Shalsh-Moschee ist ein islamisches Gotteshaus, in dem sich die lokale muslimische Gemeinde in Al Jahra versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        47.664475,
+                        29.350212
+                  ]
+            },
+            {
+                  "name": "Hamad Mosque",
+                  "text": "Die Hamad-Moschee bietet einen eigenen Gebetsraum für islamische Gottesdienste im Bezirk Al Jahra.",
+                  "category": "landmark",
+                  "coords": [
+                        47.67515,
+                        29.342493
+                  ]
+            },
+            {
+                  "name": "Samera Bin Jundub Mosque",
+                  "text": "Die Samera-Bin-Jundub-Moschee dient als zentraler Ort für die täglichen muslimischen Gebete und Gemeindetreffen in Al Jahra.",
+                  "category": "landmark",
+                  "coords": [
+                        47.662694,
+                        29.344408
+                  ]
+            },
+            {
+                  "name": "Aisha Mosque",
+                  "text": "Die Aisha-Moschee ist ein traditioneller islamischer Gebetsraum, der muslimischen Gläubigen in der Region Al Jahra Platz bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        47.663551,
+                        29.347093
+                  ]
+            },
+            {
+                  "name": "Rafie Mosque",
+                  "text": "Die Rafie-Moschee ist ein lokales islamisches Religionszentrum, das Gemeinschaftsgebete in Al Jahra ermöglicht.",
+                  "category": "landmark",
+                  "coords": [
+                        47.666316,
+                        29.347733
+                  ]
+            },
+            {
+                  "name": "Rafie Bin Malek Mosque",
+                  "text": "Die Rafie-Bin-Malek-Moschee ist ein islamisches Heiligtum, das der muslimischen Gemeinschaft in Al Jahra spirituelle Führung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        47.65445,
+                        29.344759
+                  ]
+            },
+            {
+                  "name": "Muhammad Al-'Adhaila Mosque",
+                  "text": "Die Muhammad-Al-'Adhaila-Moschee ist ein etablierter Ort für islamische Gottesdienste und Gemeinderituale in Al Jahra.",
+                  "category": "landmark",
+                  "coords": [
+                        47.661447,
+                        29.312848
+                  ]
+            },
+            {
+                  "name": "Haif Sons",
+                  "text": "Haif Sons ist eine lokale islamische Einrichtung, die das spirituelle Leben und die täglichen Gebete der muslimischen Gemeinde in Al Jahra unterstützt.",
+                  "category": "landmark",
+                  "coords": [
+                        47.696814,
+                        29.340446
+                  ]
+            },
+            {
+                  "name": "Kazma Plus Market",
+                  "text": "Der Kazma Plus Market ist ein lebhafter lokaler Markt in Al Jahra, der eine Vielzahl von Einzelhandelswaren und Gütern des täglichen Bedarfs anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        47.676914,
+                        29.309882
+                  ]
+            },
+            {
+                  "name": "Jahra Mall",
+                  "text": "Die Jahra Mall ist ein moderner überdachter Marktplatz und ein Handelszentrum mit zahlreichen Geschäften und Boutiquen in Al Jahra.",
+                  "category": "cultural",
+                  "coords": [
+                        47.660169,
+                        29.312282
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Selayel Jahra Resort",
+                  "text": "A Selayel Jahra Resort egy vízipark, amely rekreációs medencékkel és vízi látványosságokkal várja a látogatókat Al Dzsahra térségében.",
+                  "category": "recreational",
+                  "coords": [
+                        47.649588,
+                        29.362873
+                  ]
+            },
+            {
+                  "name": "Marah Land",
+                  "text": "A Marah Land egy vidámpark Al Dzsahra városában, amely különféle utazásokkal és családi attrakciókkal szolgál.",
+                  "category": "recreational",
+                  "coords": [
+                        47.650574,
+                        29.360539
+                  ]
+            },
+            {
+                  "name": "Red Fort",
+                  "text": "A Vörös Erőd egy történelmi, vályogtéglából épült kuvaiti erődítmény, amely az 1920-as dzsahrai csatában játszott kulcsszerepéről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        47.679799,
+                        29.348126
+                  ]
+            },
+            {
+                  "name": "Saud Shalsh Mosque",
+                  "text": "A Saud Shalsh-mecset egy iszlám imahely, amely az Al Dzsahra-i helyi muszlim közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        47.664475,
+                        29.350212
+                  ]
+            },
+            {
+                  "name": "Hamad Mosque",
+                  "text": "A Hamad-mecset dedikált imádkozóhelyet biztosít az iszlám vallási szertartásokhoz az Al Dzsahra negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        47.67515,
+                        29.342493
+                  ]
+            },
+            {
+                  "name": "Samera Bin Jundub Mosque",
+                  "text": "A Samera Bin Jundub-mecset a napi muszlim imák és közösségi összejövetelek központja Al Dzsahra városában.",
+                  "category": "landmark",
+                  "coords": [
+                        47.662694,
+                        29.344408
+                  ]
+            },
+            {
+                  "name": "Aisha Mosque",
+                  "text": "Az Aisha-mecset egy hagyományos iszlám imaterem, amely az Al Dzsahra környéki muszlim hívek számára biztosít helyet.",
+                  "category": "landmark",
+                  "coords": [
+                        47.663551,
+                        29.347093
+                  ]
+            },
+            {
+                  "name": "Rafie Mosque",
+                  "text": "A Rafie-mecset egy helyi iszlám vallási központ, amely gyülekezeti imáknak ad otthont Al Dzsahra városában.",
+                  "category": "landmark",
+                  "coords": [
+                        47.666316,
+                        29.347733
+                  ]
+            },
+            {
+                  "name": "Rafie Bin Malek Mosque",
+                  "text": "A Rafie Bin Malek-mecset egy iszlám szentély, amely spirituális útmutatást nyújt az Al Dzsahra-i muszlim közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        47.65445,
+                        29.344759
+                  ]
+            },
+            {
+                  "name": "Muhammad Al-'Adhaila Mosque",
+                  "text": "A Muhammad Al-'Adhaila-mecset az iszlám istentiszteletek és a közösségi rituálék jól bevált helyszíne Al Dzsahrában.",
+                  "category": "landmark",
+                  "coords": [
+                        47.661447,
+                        29.312848
+                  ]
+            },
+            {
+                  "name": "Haif Sons",
+                  "text": "A Haif Sons egy helyi iszlám létesítmény, amely az Al Dzsahra-i muszlim közösség spirituális életét és napi imáit támogatja.",
+                  "category": "landmark",
+                  "coords": [
+                        47.696814,
+                        29.340446
+                  ]
+            },
+            {
+                  "name": "Kazma Plus Market",
+                  "text": "A Kazma Plus Market egy nyüzsgő helyi piac Al Dzsahrában, amely különféle kiskereskedelmi cikkeket és napi szükségleteket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        47.676914,
+                        29.309882
+                  ]
+            },
+            {
+                  "name": "Jahra Mall",
+                  "text": "A Jahra Mall egy modern fedett piactér és kereskedelmi központ, amely számos üzletnek és butiknak ad otthont Al Dzsahrában.",
+                  "category": "cultural",
+                  "coords": [
+                        47.660169,
+                        29.312282
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Selayel Jahra Resort",
+                  "text": "Selayel Jahra Resort este un parc acvatic cu piscine de agrement și atracții acvatice în zona Al Jahra.",
+                  "category": "recreational",
+                  "coords": [
+                        47.649588,
+                        29.362873
+                  ]
+            },
+            {
+                  "name": "Marah Land",
+                  "text": "Marah Land este un parc tematic de distracții din Al Jahra, oferind atracții pentru familii și carusele.",
+                  "category": "recreational",
+                  "coords": [
+                        47.650574,
+                        29.360539
+                  ]
+            },
+            {
+                  "name": "Red Fort",
+                  "text": "Fortul Roșu este o fortificație istorică din cărămidă de noroi din Kuweit, renumită pentru rolul său esențial în Bătălia de la Jahra din 1920.",
+                  "category": "landmark",
+                  "coords": [
+                        47.679799,
+                        29.348126
+                  ]
+            },
+            {
+                  "name": "Saud Shalsh Mosque",
+                  "text": "Moscheea Saud Shalsh este un lăcaș de cult islamic care adună comunitatea musulmană locală din Al Jahra.",
+                  "category": "landmark",
+                  "coords": [
+                        47.664475,
+                        29.350212
+                  ]
+            },
+            {
+                  "name": "Hamad Mosque",
+                  "text": "Moscheea Hamad oferă un spațiu de rugăciune dedicat slujbelor religioase islamice în districtul Al Jahra.",
+                  "category": "landmark",
+                  "coords": [
+                        47.67515,
+                        29.342493
+                  ]
+            },
+            {
+                  "name": "Samera Bin Jundub Mosque",
+                  "text": "Moscheea Samera Bin Jundub servește ca punct central pentru rugăciunile musulmane zilnice și adunările comunității din Al Jahra.",
+                  "category": "landmark",
+                  "coords": [
+                        47.662694,
+                        29.344408
+                  ]
+            },
+            {
+                  "name": "Aisha Mosque",
+                  "text": "Moscheea Aisha este o sală de rugăciune islamică tradițională care găzduiește credincioșii musulmani din zona Al Jahra.",
+                  "category": "landmark",
+                  "coords": [
+                        47.663551,
+                        29.347093
+                  ]
+            },
+            {
+                  "name": "Rafie Mosque",
+                  "text": "Moscheea Rafie este un centru religios islamic local care facilitează rugăciunile congregaționale în Al Jahra.",
+                  "category": "landmark",
+                  "coords": [
+                        47.666316,
+                        29.347733
+                  ]
+            },
+            {
+                  "name": "Rafie Bin Malek Mosque",
+                  "text": "Moscheea Rafie Bin Malek este un sanctuar islamic care oferă îndrumare spirituală comunității musulmane din Al Jahra.",
+                  "category": "landmark",
+                  "coords": [
+                        47.65445,
+                        29.344759
+                  ]
+            },
+            {
+                  "name": "Muhammad Al-'Adhaila Mosque",
+                  "text": "Moscheea Muhammad Al-'Adhaila este un loc bine stabilit pentru cultul islamic și ritualurile comunității din Al Jahra.",
+                  "category": "landmark",
+                  "coords": [
+                        47.661447,
+                        29.312848
+                  ]
+            },
+            {
+                  "name": "Haif Sons",
+                  "text": "Haif Sons este o facilitate islamică locală care sprijină viața spirituală și rugăciunile zilnice ale comunității musulmane din Al Jahra.",
+                  "category": "landmark",
+                  "coords": [
+                        47.696814,
+                        29.340446
+                  ]
+            },
+            {
+                  "name": "Kazma Plus Market",
+                  "text": "Kazma Plus Market este o piață locală plină de viață în Al Jahra, oferind o varietate de bunuri de vânzare cu amănuntul și necesități zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        47.676914,
+                        29.309882
+                  ]
+            },
+            {
+                  "name": "Jahra Mall",
+                  "text": "Jahra Mall este o piață modernă interioară și un centru comercial care găzduiește numeroase magazine și buticuri în Al Jahra.",
+                  "category": "cultural",
+                  "coords": [
+                        47.660169,
+                        29.312282
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Selayel Jahra Resort",
+                  "text": "Selayel Jahra Resort is a water park providing recreational pools and aquatic attractions in the Al Jahra area.",
+                  "category": "recreational",
+                  "coords": [
+                        47.649588,
+                        29.362873
+                  ]
+            },
+            {
+                  "name": "Marah Land",
+                  "text": "Marah Land is an entertainment theme park in Al Jahra featuring rides and family attractions.",
+                  "category": "recreational",
+                  "coords": [
+                        47.650574,
+                        29.360539
+                  ]
+            },
+            {
+                  "name": "Red Fort",
+                  "text": "The Red Fort is a historic Kuwaiti mud-brick fortification renowned for its pivotal role in the 1920 Battle of Jahra.",
+                  "category": "landmark",
+                  "coords": [
+                        47.679799,
+                        29.348126
+                  ]
+            },
+            {
+                  "name": "Saud Shalsh Mosque",
+                  "text": "Saud Shalsh Mosque is an Islamic place of worship gathering the local Muslim community in Al Jahra.",
+                  "category": "landmark",
+                  "coords": [
+                        47.664475,
+                        29.350212
+                  ]
+            },
+            {
+                  "name": "Hamad Mosque",
+                  "text": "Hamad Mosque provides a dedicated prayer space for Islamic religious services in the Al Jahra district.",
+                  "category": "landmark",
+                  "coords": [
+                        47.67515,
+                        29.342493
+                  ]
+            },
+            {
+                  "name": "Samera Bin Jundub Mosque",
+                  "text": "The Samera Bin Jundub Mosque serves as a focal point for daily Muslim prayers and community gatherings in Al Jahra.",
+                  "category": "landmark",
+                  "coords": [
+                        47.662694,
+                        29.344408
+                  ]
+            },
+            {
+                  "name": "Aisha Mosque",
+                  "text": "Aisha Mosque is a traditional Islamic prayer hall accommodating Muslim worshippers in the Al Jahra area.",
+                  "category": "landmark",
+                  "coords": [
+                        47.663551,
+                        29.347093
+                  ]
+            },
+            {
+                  "name": "Rafie Mosque",
+                  "text": "Rafie Mosque is a local Islamic religious center facilitating congregational prayers in Al Jahra.",
+                  "category": "landmark",
+                  "coords": [
+                        47.666316,
+                        29.347733
+                  ]
+            },
+            {
+                  "name": "Rafie Bin Malek Mosque",
+                  "text": "The Rafie Bin Malek Mosque is an Islamic sanctuary providing spiritual guidance for the Muslim community in Al Jahra.",
+                  "category": "landmark",
+                  "coords": [
+                        47.65445,
+                        29.344759
+                  ]
+            },
+            {
+                  "name": "Muhammad Al-'Adhaila Mosque",
+                  "text": "Muhammad Al-'Adhaila Mosque is a well-established venue for Islamic worship and community rituals in Al Jahra.",
+                  "category": "landmark",
+                  "coords": [
+                        47.661447,
+                        29.312848
+                  ]
+            },
+            {
+                  "name": "Haif Sons",
+                  "text": "Haif Sons is a local Islamic facility supporting the spiritual life and daily prayers of the Muslim community in Al Jahra.",
+                  "category": "landmark",
+                  "coords": [
+                        47.696814,
+                        29.340446
+                  ]
+            },
+            {
+                  "name": "Kazma Plus Market",
+                  "text": "Kazma Plus Market is a lively local marketplace in Al Jahra offering a variety of retail goods and daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        47.676914,
+                        29.309882
+                  ]
+            },
+            {
+                  "name": "Jahra Mall",
+                  "text": "Jahra Mall is a modern indoor marketplace and commercial center housing numerous shops and boutiques in Al Jahra.",
+                  "category": "cultural",
+                  "coords": [
+                        47.660169,
+                        29.312282
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "KW-JA",
     coords: [47.6603, 29.3444],
@@ -63,7 +540,916 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
     "Bedeutung: Symbol des nationalen Widerstands"
 ]},
   {
-    id: "qurain-martyrs-museum-history-v2",
+    id: "qurain-martyrs-museum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Naeem Mosque",
+                  "text": "Die Naeem Moschee ist ein religiöser Versammlungsort für Muslime in der Nähe des Qurain Martyrs Museum in Kuwait.",
+                  "category": "landmark",
+                  "coords": [
+                        48.068907,
+                        29.187404
+                  ]
+            },
+            {
+                  "name": "Abi Sayf Al-Qain Mosque",
+                  "text": "Die Abi Sayf Al-Qain Moschee ist ein islamisches Gotteshaus, das in der Umgebung der historischen Stätte von Qurain für Gebete genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        48.067299,
+                        29.190305
+                  ]
+            },
+            {
+                  "name": "Abi Eshaq Al-Asfrayni Mosque",
+                  "text": "Diese Moschee in der Umgebung von Qurain trägt den Namen des Gelehrten Abi Eshaq Al-Asfrayni und dient als Zentrum für die islamische Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        48.071407,
+                        29.196969
+                  ]
+            },
+            {
+                  "name": "Mareath Mosque",
+                  "text": "Die Mareath Moschee bietet den Anwohnern rund um das Qurain Martyrs Museum einen ruhigen Ort für die täglichen islamischen Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        48.079036,
+                        29.193936
+                  ]
+            },
+            {
+                  "name": "Senan Mosque",
+                  "text": "Die Senan Moschee ist ein wichtiger islamischer Treffpunkt für Gläubige im Stadtviertel nahe des historischen Qurain.",
+                  "category": "landmark",
+                  "coords": [
+                        48.074509,
+                        29.190251
+                  ]
+            },
+            {
+                  "name": "Rafie Mosque",
+                  "text": "Die Rafie Moschee ist eine architektonisch in die Wohngegend eingebettete islamische Gebetsstätte im Umkreis von Qurain.",
+                  "category": "landmark",
+                  "coords": [
+                        48.074904,
+                        29.193155
+                  ]
+            },
+            {
+                  "name": "Al Qadi Al Baqlani Mosque",
+                  "text": "Die nach Al Qadi Al Baqlani benannte Moschee ist ein Ort der muslimischen Andacht nahe den historischen Gedenkstätten in Qurain.",
+                  "category": "landmark",
+                  "coords": [
+                        48.075422,
+                        29.198379
+                  ]
+            },
+            {
+                  "name": "Safwan Mosque",
+                  "text": "Die Safwan Moschee ermöglicht es den Muslimen in der Nähe des Qurain Martyrs Museum, ihre religiösen Verpflichtungen zu erfüllen.",
+                  "category": "landmark",
+                  "coords": [
+                        48.067051,
+                        29.204294
+                  ]
+            },
+            {
+                  "name": "Rafaa Mosque",
+                  "text": "Die Rafaa Moschee ist ein islamisches Zentrum für spirituelle Reflexion und Gemeinschaftsgebete im Gebiet von Qurain.",
+                  "category": "landmark",
+                  "coords": [
+                        48.065887,
+                        29.200335
+                  ]
+            },
+            {
+                  "name": "Sahal Mosque",
+                  "text": "Die Sahal Moschee dient der lokalen muslimischen Gemeinde am historischen Standort Qurain als alltäglicher Gebetsraum.",
+                  "category": "landmark",
+                  "coords": [
+                        48.066076,
+                        29.195999
+                  ]
+            },
+            {
+                  "name": "Saleh Bin Al-Abas Bin Abdulmutaleb Mosque",
+                  "text": "Diese Moschee im Bereich von Qurain ist dem Gedenken an Saleh Bin Al-Abas Bin Abdulmutaleb gewidmet und bietet Raum für islamische Riten.",
+                  "category": "landmark",
+                  "coords": [
+                        48.06345,
+                        29.210662
+                  ]
+            },
+            {
+                  "name": "Ibrahim Mosque",
+                  "text": "Die Ibrahim Moschee in Qurain ist eine religiöse Anlaufstelle für Muslime, die hier in der Gemeinschaft das Gebet verrichten.",
+                  "category": "landmark",
+                  "coords": [
+                        48.065118,
+                        29.217391
+                  ]
+            },
+            {
+                  "name": "Safa Bin Amer Mosque",
+                  "text": "Die Safa Bin Amer Moschee ist ein von der muslimischen Gemeinschaft genutztes Gotteshaus nahe dem historischen Märtyrer-Museum von Qurain.",
+                  "category": "landmark",
+                  "coords": [
+                        48.059245,
+                        29.218453
+                  ]
+            },
+            {
+                  "name": "Thalaba Mosque",
+                  "text": "In der Thalaba Moschee versammeln sich die Gläubigen der Umgebung von Qurain, um islamische Traditionen und Gebete zu pflegen.",
+                  "category": "landmark",
+                  "coords": [
+                        48.06199,
+                        29.215583
+                  ]
+            },
+            {
+                  "name": "Hissa Al-Qahtani Mosque",
+                  "text": "Die Hissa Al-Qahtani Moschee ist eine Gebetsstätte für Muslime, die das spirituelle Leben in der Nachbarschaft des Qurain Museums prägt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.06208,
+                        29.171375
+                  ]
+            },
+            {
+                  "name": "Dhahar Suburb Mosque",
+                  "text": "Die Dhahar Suburb Moschee bietet den Bewohnern des Vororts nahe Qurain eine leicht erreichbare islamische Kultstätte.",
+                  "category": "landmark",
+                  "coords": [
+                        48.063394,
+                        29.167773
+                  ]
+            },
+            {
+                  "name": "Abdulrhman Mosque",
+                  "text": "Die Abdulrhman Moschee im Viertel von Qurain ist ein Ort, an dem lokale Muslime ihre täglichen rituellen Gebete verrichten.",
+                  "category": "landmark",
+                  "coords": [
+                        48.074781,
+                        29.174866
+                  ]
+            },
+            {
+                  "name": "Fahad Mosque",
+                  "text": "Die Fahad Moschee ist eine islamische Einrichtung in der Nähe der historischen Gedenkstätten von Qurain, die dem gemeinsamen Freitagsgebet dient.",
+                  "category": "landmark",
+                  "coords": [
+                        48.077651,
+                        29.176378
+                  ]
+            },
+            {
+                  "name": "Ahmed Mosque",
+                  "text": "Die Ahmed Moschee ermöglicht der Nachbarschaft von Qurain den regelmäßigen Besuch eines muslimischen Gotteshauses.",
+                  "category": "landmark",
+                  "coords": [
+                        48.080797,
+                        29.176795
+                  ]
+            },
+            {
+                  "name": "Mohammed Hamad Al-Hamad Mosque",
+                  "text": "Die Mohammed Hamad Al-Hamad Moschee ist ein spiritueller Ankerpunkt für die islamische Gemeinde nahe dem Qurain Martyrs Museum.",
+                  "category": "landmark",
+                  "coords": [
+                        48.072671,
+                        29.181424
+                  ]
+            },
+            {
+                  "name": "Kaab Bin Zuhair Mosque",
+                  "text": "Die nach dem Dichter Kaab Bin Zuhair benannte Moschee ist ein Ort der islamischen Glaubensausübung im Stadtgebiet von Qurain.",
+                  "category": "landmark",
+                  "coords": [
+                        48.073948,
+                        29.186821
+                  ]
+            },
+            {
+                  "name": "Dr. Abdullah Mohammed Al-Otaibi Mosque",
+                  "text": "Die Dr. Abdullah Mohammed Al-Otaibi Moschee ist ein modernes islamisches Gebäude, das die Muslime der Qurain-Gegend zum Gebet zusammenführt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.078413,
+                        29.186458
+                  ]
+            },
+            {
+                  "name": "Al-Haj",
+                  "text": "Al-Haj ist ein islamischer Gebetsbereich im Stadtteil von Qurain, der von der örtlichen Gemeinschaft für spirituelle Zusammenkünfte gepflegt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        48.078066,
+                        29.181743
+                  ]
+            },
+            {
+                  "name": "Amro Bin Akhtab Al-Ansari Mosque",
+                  "text": "Die Amro Bin Akhtab Al-Ansari Moschee dient als zentraler Ort für islamische Gebete und theologische Studien in Qurain.",
+                  "category": "landmark",
+                  "coords": [
+                        48.083752,
+                        29.182729
+                  ]
+            },
+            {
+                  "name": "Hisham Bin Aamer Bin Omaya Bin Zayed Mosque",
+                  "text": "Diese traditionell benannte Moschee im Qurain-Viertel ist ein spiritueller Rückzugsort für die Muslime der Umgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        48.082166,
+                        29.187942
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Naeem Mosque",
+                  "text": "A Naeem Mecset egy muszlim vallási találkozóhely a kuvaiti Qurain Mártírok Múzeuma közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.068907,
+                        29.187404
+                  ]
+            },
+            {
+                  "name": "Abi Sayf Al-Qain Mosque",
+                  "text": "Az Abi Sayf Al-Qain Mecset egy iszlám imaház, amelyet a történelmi Qurain helyszínének környékén használnak imádkozásra.",
+                  "category": "landmark",
+                  "coords": [
+                        48.067299,
+                        29.190305
+                  ]
+            },
+            {
+                  "name": "Abi Eshaq Al-Asfrayni Mosque",
+                  "text": "Ez a Qurain környékén található mecset Abi Eshaq Al-Asfrayni tudós nevét viseli, és az iszlám közösség központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        48.071407,
+                        29.196969
+                  ]
+            },
+            {
+                  "name": "Mareath Mosque",
+                  "text": "A Mareath Mecset békés helyet biztosít a Qurain Mártírok Múzeuma környékén élőknek a napi iszlám imák elvégzésére.",
+                  "category": "landmark",
+                  "coords": [
+                        48.079036,
+                        29.193936
+                  ]
+            },
+            {
+                  "name": "Senan Mosque",
+                  "text": "A Senan Mecset egy fontos iszlám találkozóhely a történelmi Qurainhoz közeli negyed hívői számára.",
+                  "category": "landmark",
+                  "coords": [
+                        48.074509,
+                        29.190251
+                  ]
+            },
+            {
+                  "name": "Rafie Mosque",
+                  "text": "A Rafie Mecset egy építészetileg a lakóövezetbe ágyazott iszlám imahely Qurain környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        48.074904,
+                        29.193155
+                  ]
+            },
+            {
+                  "name": "Al Qadi Al Baqlani Mosque",
+                  "text": "Az Al Qadi Al Baqlani nevét viselő mecset a muszlim áhítat helyszíne a quraini történelmi emlékhelyek közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.075422,
+                        29.198379
+                  ]
+            },
+            {
+                  "name": "Safwan Mosque",
+                  "text": "A Safwan Mecset lehetővé teszi a muszlimok számára a Qurain Mártírok Múzeuma közelében, hogy eleget tegyenek vallási kötelezettségeiknek.",
+                  "category": "landmark",
+                  "coords": [
+                        48.067051,
+                        29.204294
+                  ]
+            },
+            {
+                  "name": "Rafaa Mosque",
+                  "text": "A Rafaa Mecset a spirituális reflexió és a közös imák iszlám központja Qurain területén.",
+                  "category": "landmark",
+                  "coords": [
+                        48.065887,
+                        29.200335
+                  ]
+            },
+            {
+                  "name": "Sahal Mosque",
+                  "text": "A Sahal Mecset a helyi muszlim közösség mindennapi imatermeként szolgál a történelmi Qurain helyszínén.",
+                  "category": "landmark",
+                  "coords": [
+                        48.066076,
+                        29.195999
+                  ]
+            },
+            {
+                  "name": "Saleh Bin Al-Abas Bin Abdulmutaleb Mosque",
+                  "text": "Ez a Qurain térségében található mecset Száleh Bin Al-Abasz Bin Abdulmutaleb emlékének van szentelve, és helyet ad az iszlám rítusoknak.",
+                  "category": "landmark",
+                  "coords": [
+                        48.06345,
+                        29.210662
+                  ]
+            },
+            {
+                  "name": "Ibrahim Mosque",
+                  "text": "A quraini Ibrahim Mecset egy vallási csomópont a muszlimok számára, akik itt közösségben végzik imáikat.",
+                  "category": "landmark",
+                  "coords": [
+                        48.065118,
+                        29.217391
+                  ]
+            },
+            {
+                  "name": "Safa Bin Amer Mosque",
+                  "text": "A Safa Bin Amer Mecset egy imaház, amelyet a muszlim közösség használ a történelmi Quraini Mártírmúzeum közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.059245,
+                        29.218453
+                  ]
+            },
+            {
+                  "name": "Thalaba Mosque",
+                  "text": "A Thalaba Mecsetben a Qurain környéki hívők gyűlnek össze, hogy ápolják az iszlám hagyományokat és imákat.",
+                  "category": "landmark",
+                  "coords": [
+                        48.06199,
+                        29.215583
+                  ]
+            },
+            {
+                  "name": "Hissa Al-Qahtani Mosque",
+                  "text": "A Hissa Al-Qahtani Mecset a muszlimok imahelye, amely a Qurain Múzeum szomszédságában lévő spirituális életet alakítja.",
+                  "category": "landmark",
+                  "coords": [
+                        48.06208,
+                        29.171375
+                  ]
+            },
+            {
+                  "name": "Dhahar Suburb Mosque",
+                  "text": "A Dhahar Suburb Mecset egy könnyen megközelíthető iszlám istentiszteleti helyet kínál a Qurainhoz közeli külváros lakóinak.",
+                  "category": "landmark",
+                  "coords": [
+                        48.063394,
+                        29.167773
+                  ]
+            },
+            {
+                  "name": "Abdulrhman Mosque",
+                  "text": "A Qurain negyedben található Abdulrhman Mecset egy olyan hely, ahol a helyi muszlimok mindennapi rituális imáikat végzik.",
+                  "category": "landmark",
+                  "coords": [
+                        48.074781,
+                        29.174866
+                  ]
+            },
+            {
+                  "name": "Fahad Mosque",
+                  "text": "A Fahad Mecset egy iszlám létesítmény Qurain történelmi emlékhelyeinek közelében, amely a közös pénteki imát szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        48.077651,
+                        29.176378
+                  ]
+            },
+            {
+                  "name": "Ahmed Mosque",
+                  "text": "Az Ahmed Mecset lehetővé teszi Qurain lakói számára egy muszlim imaház rendszeres látogatását.",
+                  "category": "landmark",
+                  "coords": [
+                        48.080797,
+                        29.176795
+                  ]
+            },
+            {
+                  "name": "Mohammed Hamad Al-Hamad Mosque",
+                  "text": "A Mohammed Hamad Al-Hamad Mecset egy spirituális horgony a muszlim közösség számára a Qurain Mártírok Múzeuma közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.072671,
+                        29.181424
+                  ]
+            },
+            {
+                  "name": "Kaab Bin Zuhair Mosque",
+                  "text": "A Kaab Bin Zuhair költőről elnevezett mecset az iszlám hit gyakorlásának helye Qurain városrészben.",
+                  "category": "landmark",
+                  "coords": [
+                        48.073948,
+                        29.186821
+                  ]
+            },
+            {
+                  "name": "Dr. Abdullah Mohammed Al-Otaibi Mosque",
+                  "text": "A Dr. Abdullah Mohammed Al-Otaibi Mecset egy modern iszlám épület, amely imára hívja össze a Qurain-vidék muszlimjait.",
+                  "category": "landmark",
+                  "coords": [
+                        48.078413,
+                        29.186458
+                  ]
+            },
+            {
+                  "name": "Al-Haj",
+                  "text": "Az Al-Haj egy iszlám imaterület Qurain kerületében, amelyet a helyi közösség tart fenn spirituális összejövetelek céljából.",
+                  "category": "landmark",
+                  "coords": [
+                        48.078066,
+                        29.181743
+                  ]
+            },
+            {
+                  "name": "Amro Bin Akhtab Al-Ansari Mosque",
+                  "text": "Az Amro Bin Akhtab Al-Ansari Mecset központi helyszínként szolgál iszlám imákhoz és teológiai tanulmányokhoz Qurainban.",
+                  "category": "landmark",
+                  "coords": [
+                        48.083752,
+                        29.182729
+                  ]
+            },
+            {
+                  "name": "Hisham Bin Aamer Bin Omaya Bin Zayed Mosque",
+                  "text": "Ez a hagyományos nevű mecset a Qurain negyedben spirituális menedéket nyújt a környékbeli muszlimoknak.",
+                  "category": "landmark",
+                  "coords": [
+                        48.082166,
+                        29.187942
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Naeem Mosque",
+                  "text": "Moscheea Naeem este un loc de adunare religioasă pentru musulmanii din apropierea Muzeului Martirilor Qurain din Kuweit.",
+                  "category": "landmark",
+                  "coords": [
+                        48.068907,
+                        29.187404
+                  ]
+            },
+            {
+                  "name": "Abi Sayf Al-Qain Mosque",
+                  "text": "Moscheea Abi Sayf Al-Qain este un lăcaș de cult islamic folosit pentru rugăciuni în vecinătatea sitului istoric Qurain.",
+                  "category": "landmark",
+                  "coords": [
+                        48.067299,
+                        29.190305
+                  ]
+            },
+            {
+                  "name": "Abi Eshaq Al-Asfrayni Mosque",
+                  "text": "Această moschee din zona Qurain poartă numele învățatului Abi Eshaq Al-Asfrayni și servește drept centru pentru comunitatea islamică.",
+                  "category": "landmark",
+                  "coords": [
+                        48.071407,
+                        29.196969
+                  ]
+            },
+            {
+                  "name": "Mareath Mosque",
+                  "text": "Moscheea Mareath oferă locuitorilor din jurul Muzeului Martirilor Qurain un loc liniștit pentru rugăciunile islamice zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        48.079036,
+                        29.193936
+                  ]
+            },
+            {
+                  "name": "Senan Mosque",
+                  "text": "Moscheea Senan este un important punct de întâlnire islamic pentru credincioșii din cartierul aflat lângă istoricul Qurain.",
+                  "category": "landmark",
+                  "coords": [
+                        48.074509,
+                        29.190251
+                  ]
+            },
+            {
+                  "name": "Rafie Mosque",
+                  "text": "Moscheea Rafie este un lăcaș de rugăciune islamic integrat arhitectural în zona rezidențială din jurul orașului Qurain.",
+                  "category": "landmark",
+                  "coords": [
+                        48.074904,
+                        29.193155
+                  ]
+            },
+            {
+                  "name": "Al Qadi Al Baqlani Mosque",
+                  "text": "Numită după Al Qadi Al Baqlani, această moschee este un loc de devotament musulman în apropierea siturilor memoriale istorice din Qurain.",
+                  "category": "landmark",
+                  "coords": [
+                        48.075422,
+                        29.198379
+                  ]
+            },
+            {
+                  "name": "Safwan Mosque",
+                  "text": "Moscheea Safwan permite musulmanilor din apropierea Muzeului Martirilor Qurain să-și îndeplinească obligațiile religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        48.067051,
+                        29.204294
+                  ]
+            },
+            {
+                  "name": "Rafaa Mosque",
+                  "text": "Moscheea Rafaa este un centru islamic de reflecție spirituală și rugăciuni comunitare din zona Qurain.",
+                  "category": "landmark",
+                  "coords": [
+                        48.065887,
+                        29.200335
+                  ]
+            },
+            {
+                  "name": "Sahal Mosque",
+                  "text": "Moscheea Sahal servește drept sală de rugăciune zilnică pentru comunitatea musulmană locală la situl istoric Qurain.",
+                  "category": "landmark",
+                  "coords": [
+                        48.066076,
+                        29.195999
+                  ]
+            },
+            {
+                  "name": "Saleh Bin Al-Abas Bin Abdulmutaleb Mosque",
+                  "text": "Această moschee din zona Qurain este dedicată memoriei lui Saleh Bin Al-Abas Bin Abdulmutaleb și oferă spațiu pentru riturile islamice.",
+                  "category": "landmark",
+                  "coords": [
+                        48.06345,
+                        29.210662
+                  ]
+            },
+            {
+                  "name": "Ibrahim Mosque",
+                  "text": "Moscheea Ibrahim din Qurain este un punct de referință religios pentru musulmanii care se roagă aici în comunitate.",
+                  "category": "landmark",
+                  "coords": [
+                        48.065118,
+                        29.217391
+                  ]
+            },
+            {
+                  "name": "Safa Bin Amer Mosque",
+                  "text": "Moscheea Safa Bin Amer este un lăcaș de cult folosit de comunitatea musulmană din apropierea Muzeului istoric al Martirilor din Qurain.",
+                  "category": "landmark",
+                  "coords": [
+                        48.059245,
+                        29.218453
+                  ]
+            },
+            {
+                  "name": "Thalaba Mosque",
+                  "text": "Credincioșii din zona Qurain se adună la Moscheea Thalaba pentru a cultiva tradițiile și rugăciunile islamice.",
+                  "category": "landmark",
+                  "coords": [
+                        48.06199,
+                        29.215583
+                  ]
+            },
+            {
+                  "name": "Hissa Al-Qahtani Mosque",
+                  "text": "Moscheea Hissa Al-Qahtani este un loc de rugăciune pentru musulmani care conturează viața spirituală din cartierul Muzeului Qurain.",
+                  "category": "landmark",
+                  "coords": [
+                        48.06208,
+                        29.171375
+                  ]
+            },
+            {
+                  "name": "Dhahar Suburb Mosque",
+                  "text": "Moscheea din suburbia Dhahar oferă locuitorilor din apropiere de Qurain un lăcaș de cult islamic ușor accesibil.",
+                  "category": "landmark",
+                  "coords": [
+                        48.063394,
+                        29.167773
+                  ]
+            },
+            {
+                  "name": "Abdulrhman Mosque",
+                  "text": "Moscheea Abdulrhman din cartierul Qurain este un loc în care musulmanii locali își săvârșesc rugăciunile rituale zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        48.074781,
+                        29.174866
+                  ]
+            },
+            {
+                  "name": "Fahad Mosque",
+                  "text": "Moscheea Fahad este o instituție islamică din apropierea siturilor memoriale istorice din Qurain, folosită pentru rugăciunile comune de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        48.077651,
+                        29.176378
+                  ]
+            },
+            {
+                  "name": "Ahmed Mosque",
+                  "text": "Moscheea Ahmed permite cartierului Qurain vizitarea regulată a unui lăcaș de cult musulman.",
+                  "category": "landmark",
+                  "coords": [
+                        48.080797,
+                        29.176795
+                  ]
+            },
+            {
+                  "name": "Mohammed Hamad Al-Hamad Mosque",
+                  "text": "Moscheea Mohammed Hamad Al-Hamad este o ancoră spirituală pentru comunitatea islamică din apropierea Muzeului Martirilor Qurain.",
+                  "category": "landmark",
+                  "coords": [
+                        48.072671,
+                        29.181424
+                  ]
+            },
+            {
+                  "name": "Kaab Bin Zuhair Mosque",
+                  "text": "Numită după poetul Kaab Bin Zuhair, această moschee este un loc de practicare a credinței islamice în zona urbană din Qurain.",
+                  "category": "landmark",
+                  "coords": [
+                        48.073948,
+                        29.186821
+                  ]
+            },
+            {
+                  "name": "Dr. Abdullah Mohammed Al-Otaibi Mosque",
+                  "text": "Moscheea Dr. Abdullah Mohammed Al-Otaibi este o clădire islamică modernă care reunește la rugăciune musulmanii din zona Qurain.",
+                  "category": "landmark",
+                  "coords": [
+                        48.078413,
+                        29.186458
+                  ]
+            },
+            {
+                  "name": "Al-Haj",
+                  "text": "Al-Haj este o zonă de rugăciune islamică din cartierul Qurain, menținută de comunitatea locală pentru adunări spirituale.",
+                  "category": "landmark",
+                  "coords": [
+                        48.078066,
+                        29.181743
+                  ]
+            },
+            {
+                  "name": "Amro Bin Akhtab Al-Ansari Mosque",
+                  "text": "Moscheea Amro Bin Akhtab Al-Ansari servește drept loc central pentru rugăciunile islamice și studiile teologice din Qurain.",
+                  "category": "landmark",
+                  "coords": [
+                        48.083752,
+                        29.182729
+                  ]
+            },
+            {
+                  "name": "Hisham Bin Aamer Bin Omaya Bin Zayed Mosque",
+                  "text": "Această moschee numită în mod tradițional, din cartierul Qurain, este un refugiu spiritual pentru musulmanii din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        48.082166,
+                        29.187942
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Naeem Mosque",
+                  "text": "The Naeem Mosque is a religious gathering place for Muslims near the Qurain Martyrs Museum in Kuwait.",
+                  "category": "landmark",
+                  "coords": [
+                        48.068907,
+                        29.187404
+                  ]
+            },
+            {
+                  "name": "Abi Sayf Al-Qain Mosque",
+                  "text": "The Abi Sayf Al-Qain Mosque is an Islamic place of worship used for prayers in the vicinity of the historic Qurain site.",
+                  "category": "landmark",
+                  "coords": [
+                        48.067299,
+                        29.190305
+                  ]
+            },
+            {
+                  "name": "Abi Eshaq Al-Asfrayni Mosque",
+                  "text": "This mosque in the Qurain area bears the name of the scholar Abi Eshaq Al-Asfrayni and serves as a center for the Islamic community.",
+                  "category": "landmark",
+                  "coords": [
+                        48.071407,
+                        29.196969
+                  ]
+            },
+            {
+                  "name": "Mareath Mosque",
+                  "text": "The Mareath Mosque provides residents around the Qurain Martyrs Museum with a quiet place for daily Islamic prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        48.079036,
+                        29.193936
+                  ]
+            },
+            {
+                  "name": "Senan Mosque",
+                  "text": "The Senan Mosque is an important Islamic meeting point for worshippers in the neighborhood near historic Qurain.",
+                  "category": "landmark",
+                  "coords": [
+                        48.074509,
+                        29.190251
+                  ]
+            },
+            {
+                  "name": "Rafie Mosque",
+                  "text": "The Rafie Mosque is an Islamic prayer site architecturally integrated into the residential area surrounding Qurain.",
+                  "category": "landmark",
+                  "coords": [
+                        48.074904,
+                        29.193155
+                  ]
+            },
+            {
+                  "name": "Al Qadi Al Baqlani Mosque",
+                  "text": "Named after Al Qadi Al Baqlani, this mosque is a place of Muslim devotion near the historical memorial sites in Qurain.",
+                  "category": "landmark",
+                  "coords": [
+                        48.075422,
+                        29.198379
+                  ]
+            },
+            {
+                  "name": "Safwan Mosque",
+                  "text": "The Safwan Mosque allows Muslims near the Qurain Martyrs Museum to fulfill their religious obligations.",
+                  "category": "landmark",
+                  "coords": [
+                        48.067051,
+                        29.204294
+                  ]
+            },
+            {
+                  "name": "Rafaa Mosque",
+                  "text": "The Rafaa Mosque is an Islamic center for spiritual reflection and community prayers in the area of Qurain.",
+                  "category": "landmark",
+                  "coords": [
+                        48.065887,
+                        29.200335
+                  ]
+            },
+            {
+                  "name": "Sahal Mosque",
+                  "text": "The Sahal Mosque serves as an everyday prayer room for the local Muslim community at the historic Qurain site.",
+                  "category": "landmark",
+                  "coords": [
+                        48.066076,
+                        29.195999
+                  ]
+            },
+            {
+                  "name": "Saleh Bin Al-Abas Bin Abdulmutaleb Mosque",
+                  "text": "This mosque in the area of Qurain is dedicated to the memory of Saleh Bin Al-Abas Bin Abdulmutaleb and provides space for Islamic rites.",
+                  "category": "landmark",
+                  "coords": [
+                        48.06345,
+                        29.210662
+                  ]
+            },
+            {
+                  "name": "Ibrahim Mosque",
+                  "text": "The Ibrahim Mosque in Qurain is a religious focal point for Muslims who perform prayers in community here.",
+                  "category": "landmark",
+                  "coords": [
+                        48.065118,
+                        29.217391
+                  ]
+            },
+            {
+                  "name": "Safa Bin Amer Mosque",
+                  "text": "The Safa Bin Amer Mosque is a place of worship used by the Muslim community near the historic Qurain Martyrs' Museum.",
+                  "category": "landmark",
+                  "coords": [
+                        48.059245,
+                        29.218453
+                  ]
+            },
+            {
+                  "name": "Thalaba Mosque",
+                  "text": "Worshippers from the Qurain area gather at the Thalaba Mosque to cultivate Islamic traditions and prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        48.06199,
+                        29.215583
+                  ]
+            },
+            {
+                  "name": "Hissa Al-Qahtani Mosque",
+                  "text": "The Hissa Al-Qahtani Mosque is a prayer site for Muslims that shapes the spiritual life in the neighborhood of the Qurain Museum.",
+                  "category": "landmark",
+                  "coords": [
+                        48.06208,
+                        29.171375
+                  ]
+            },
+            {
+                  "name": "Dhahar Suburb Mosque",
+                  "text": "The Dhahar Suburb Mosque offers residents of the suburb near Qurain an easily accessible Islamic place of worship.",
+                  "category": "landmark",
+                  "coords": [
+                        48.063394,
+                        29.167773
+                  ]
+            },
+            {
+                  "name": "Abdulrhman Mosque",
+                  "text": "The Abdulrhman Mosque in the Qurain neighborhood is a place where local Muslims perform their daily ritual prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        48.074781,
+                        29.174866
+                  ]
+            },
+            {
+                  "name": "Fahad Mosque",
+                  "text": "The Fahad Mosque is an Islamic institution near the historic memorial sites of Qurain, used for communal Friday prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        48.077651,
+                        29.176378
+                  ]
+            },
+            {
+                  "name": "Ahmed Mosque",
+                  "text": "The Ahmed Mosque allows the Qurain neighborhood regular visits to a Muslim place of worship.",
+                  "category": "landmark",
+                  "coords": [
+                        48.080797,
+                        29.176795
+                  ]
+            },
+            {
+                  "name": "Mohammed Hamad Al-Hamad Mosque",
+                  "text": "The Mohammed Hamad Al-Hamad Mosque is a spiritual anchor point for the Islamic community near the Qurain Martyrs Museum.",
+                  "category": "landmark",
+                  "coords": [
+                        48.072671,
+                        29.181424
+                  ]
+            },
+            {
+                  "name": "Kaab Bin Zuhair Mosque",
+                  "text": "Named after the poet Kaab Bin Zuhair, this mosque is a place of Islamic faith practice in the urban area of Qurain.",
+                  "category": "landmark",
+                  "coords": [
+                        48.073948,
+                        29.186821
+                  ]
+            },
+            {
+                  "name": "Dr. Abdullah Mohammed Al-Otaibi Mosque",
+                  "text": "The Dr. Abdullah Mohammed Al-Otaibi Mosque is a modern Islamic building that brings together Muslims from the Qurain area for prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        48.078413,
+                        29.186458
+                  ]
+            },
+            {
+                  "name": "Al-Haj",
+                  "text": "Al-Haj is an Islamic prayer area in the Qurain district, maintained by the local community for spiritual gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        48.078066,
+                        29.181743
+                  ]
+            },
+            {
+                  "name": "Amro Bin Akhtab Al-Ansari Mosque",
+                  "text": "The Amro Bin Akhtab Al-Ansari Mosque serves as a central place for Islamic prayers and theological studies in Qurain.",
+                  "category": "landmark",
+                  "coords": [
+                        48.083752,
+                        29.182729
+                  ]
+            },
+            {
+                  "name": "Hisham Bin Aamer Bin Omaya Bin Zayed Mosque",
+                  "text": "This traditionally named mosque in the Qurain neighborhood is a spiritual retreat for Muslims in the surrounding area.",
+                  "category": "landmark",
+                  "coords": [
+                        48.082166,
+                        29.187942
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "KW-MU",
     coords: [48.0747, 29.1978],
@@ -123,7 +1509,304 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
     "Symbolisiert: Zivilen Widerstand"
 ]},
   {
-    id: "seif-palace-history-v2",
+    id: "seif-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dickson House Cultural Center",
+                  "text": "Das Dickson House Cultural Center ist ein Museum in seif-palace-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        47.977937,
+                        29.383934
+                  ]
+            },
+            {
+                  "name": "Ship monument",
+                  "text": "Das Ship monument ist eine lokale Sehenswürdigkeit in seif-palace-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        47.976526,
+                        29.383607
+                  ]
+            },
+            {
+                  "name": "Water Clock",
+                  "text": "Die Water Clock ist ein historisches Denkmal in seif-palace-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        47.981243,
+                        29.389567
+                  ]
+            },
+            {
+                  "name": "Seif Palace",
+                  "text": "Der Seif-Palast ist eine bemerkenswerte Sehenswürdigkeit in seif-palace-history-v2, bekannt für seinen ikonischen Wachturm mit blauen Kacheln.",
+                  "category": "landmark",
+                  "coords": [
+                        47.969632,
+                        29.37906
+                  ]
+            },
+            {
+                  "name": "Al Khalifah",
+                  "text": "Al Khalifah ist eine Moschee in seif-palace-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        47.974707,
+                        29.380898
+                  ]
+            },
+            {
+                  "name": "Bin Khamis",
+                  "text": "Bin Khamis ist eine Moschee in seif-palace-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        47.976115,
+                        29.382082
+                  ]
+            },
+            {
+                  "name": "Al Baharna Old mosque",
+                  "text": "Die Al Baharna Old mosque ist eine Moschee in seif-palace-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        47.979959,
+                        29.383683
+                  ]
+            },
+            {
+                  "name": "Souq Sharq Fish Market",
+                  "text": "Der Souq Sharq Fish Market ist ein lokaler Marktplatz in seif-palace-history-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        47.97897,
+                        29.386673
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dickson House Cultural Center",
+                  "text": "A Dickson House Cultural Center egy múzeum a seif-palace-history-v2 területén.",
+                  "category": "museum",
+                  "coords": [
+                        47.977937,
+                        29.383934
+                  ]
+            },
+            {
+                  "name": "Ship monument",
+                  "text": "A Ship monument egy helyi látványosság a seif-palace-history-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        47.976526,
+                        29.383607
+                  ]
+            },
+            {
+                  "name": "Water Clock",
+                  "text": "A Water Clock egy történelmi emlékmű a seif-palace-history-v2 területén.",
+                  "category": "historical",
+                  "coords": [
+                        47.981243,
+                        29.389567
+                  ]
+            },
+            {
+                  "name": "Seif Palace",
+                  "text": "A Seif-palota egy nevezetes látványosság a seif-palace-history-v2 területén, amely kék csempés ikonikus őrtornyáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        47.969632,
+                        29.37906
+                  ]
+            },
+            {
+                  "name": "Al Khalifah",
+                  "text": "Az Al Khalifah egy mecset a seif-palace-history-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        47.974707,
+                        29.380898
+                  ]
+            },
+            {
+                  "name": "Bin Khamis",
+                  "text": "A Bin Khamis egy mecset a seif-palace-history-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        47.976115,
+                        29.382082
+                  ]
+            },
+            {
+                  "name": "Al Baharna Old mosque",
+                  "text": "Az Al Baharna Old mosque egy mecset a seif-palace-history-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        47.979959,
+                        29.383683
+                  ]
+            },
+            {
+                  "name": "Souq Sharq Fish Market",
+                  "text": "A Souq Sharq Fish Market egy helyi piac a seif-palace-history-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        47.97897,
+                        29.386673
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dickson House Cultural Center",
+                  "text": "Dickson House Cultural Center este un muzeu situat în seif-palace-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        47.977937,
+                        29.383934
+                  ]
+            },
+            {
+                  "name": "Ship monument",
+                  "text": "Ship monument este o atracție locală situată în seif-palace-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        47.976526,
+                        29.383607
+                  ]
+            },
+            {
+                  "name": "Water Clock",
+                  "text": "Water Clock este un monument istoric aflat în seif-palace-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        47.981243,
+                        29.389567
+                  ]
+            },
+            {
+                  "name": "Seif Palace",
+                  "text": "Palatul Seif este o atracție notabilă din seif-palace-history-v2, recunoscută pentru turnul său de veghe iconic cu faianță albastră.",
+                  "category": "landmark",
+                  "coords": [
+                        47.969632,
+                        29.37906
+                  ]
+            },
+            {
+                  "name": "Al Khalifah",
+                  "text": "Al Khalifah este o moschee situată în seif-palace-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        47.974707,
+                        29.380898
+                  ]
+            },
+            {
+                  "name": "Bin Khamis",
+                  "text": "Bin Khamis este o moschee situată în seif-palace-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        47.976115,
+                        29.382082
+                  ]
+            },
+            {
+                  "name": "Al Baharna Old mosque",
+                  "text": "Al Baharna Old mosque este o moschee situată în seif-palace-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        47.979959,
+                        29.383683
+                  ]
+            },
+            {
+                  "name": "Souq Sharq Fish Market",
+                  "text": "Souq Sharq Fish Market este o piață locală situată în seif-palace-history-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        47.97897,
+                        29.386673
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dickson House Cultural Center",
+                  "text": "Dickson House Cultural Center is a museum located in seif-palace-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        47.977937,
+                        29.383934
+                  ]
+            },
+            {
+                  "name": "Ship monument",
+                  "text": "Ship monument is a local attraction located in seif-palace-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        47.976526,
+                        29.383607
+                  ]
+            },
+            {
+                  "name": "Water Clock",
+                  "text": "The Water Clock is a historical monument found in seif-palace-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        47.981243,
+                        29.389567
+                  ]
+            },
+            {
+                  "name": "Seif Palace",
+                  "text": "Seif Palace is a notable attraction in seif-palace-history-v2, recognized for its iconic watchtower with blue tiles.",
+                  "category": "landmark",
+                  "coords": [
+                        47.969632,
+                        29.37906
+                  ]
+            },
+            {
+                  "name": "Al Khalifah",
+                  "text": "Al Khalifah is a mosque located in seif-palace-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        47.974707,
+                        29.380898
+                  ]
+            },
+            {
+                  "name": "Bin Khamis",
+                  "text": "Bin Khamis is a mosque located in seif-palace-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        47.976115,
+                        29.382082
+                  ]
+            },
+            {
+                  "name": "Al Baharna Old mosque",
+                  "text": "Al Baharna Old mosque is a mosque located in seif-palace-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        47.979959,
+                        29.383683
+                  ]
+            },
+            {
+                  "name": "Souq Sharq Fish Market",
+                  "text": "Souq Sharq Fish Market is a local marketplace situated in seif-palace-history-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        47.97897,
+                        29.386673
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "KW-KU",
     coords: [47.9739, 29.3800],
@@ -183,7 +1866,340 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
     "Lage: Küste von Kuwait-Stadt"
 ]},
   {
-    id: "dickson-house-history-v2",
+    id: "dickson-house-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Manaei",
+                  "text": "Die Al Manaei-Moschee bietet einen ruhigen Ort für islamische Andachten, nur eine kurze Strecke von den historischen Küstenbauwerken Kuwaits entfernt.",
+                  "category": "landmark",
+                  "coords": [
+                        47.982263,
+                        29.386012
+                  ]
+            },
+            {
+                  "name": "Bisher Al Roumi Mosque",
+                  "text": "Die Bisher Al Roumi-Moschee verbindet regionales Erbe mit modernem Mauerwerk und dient als wichtiges spirituelles Zentrum des Bezirks.",
+                  "category": "landmark",
+                  "coords": [
+                        47.983781,
+                        29.381282
+                  ]
+            },
+            {
+                  "name": "Abdullah Mohamed Hadi Al-Awadhi Mosque",
+                  "text": "Die Abdullah Mohamed Hadi Al-Awadhi-Moschee verfügt über einen großen, zentral klimatisierten Gebetssaal für den Komfort der Gläubigen.",
+                  "category": "landmark",
+                  "coords": [
+                        47.988046,
+                        29.382566
+                  ]
+            },
+            {
+                  "name": "Shaaban Mosque",
+                  "text": "Die Shaaban-Moschee besticht durch ihre elegant proportionierte weiße Kuppel und den gefliesten Innenhof für Versammlungen im Freien.",
+                  "category": "landmark",
+                  "coords": [
+                        47.986432,
+                        29.383782
+                  ]
+            },
+            {
+                  "name": "Nahedh Mosque",
+                  "text": "Die im traditionellen Golf-Architekturstil erbaute Nahedh-Moschee bildet einen ruhigen Eckpfeiler der lokalen Gemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        47.984701,
+                        29.38459
+                  ]
+            },
+            {
+                  "name": "Shmlan Bin Ali Bin Saif Al Rumi Mosque",
+                  "text": "Die historische Shmlan Bin Ali Bin Saif Al Rumi Moschee verankert das Viertel auf elegante Weise seit ihrer ursprünglichen Gründung im späten 19. Jahrhundert.",
+                  "category": "landmark",
+                  "coords": [
+                        47.982502,
+                        29.382168
+                  ]
+            },
+            {
+                  "name": "Fatima Al Zahraa Mosque",
+                  "text": "Die Fatima Al Zahraa Moschee ist der Tochter des Propheten gewidmet und dient den lokalen islamischen Gläubigen mit ihren markanten gewölbten Portalen.",
+                  "category": "landmark",
+                  "coords": [
+                        47.989169,
+                        29.379024
+                  ]
+            },
+            {
+                  "name": "Abd El-Rahman Abd Al-Mughni Muhammad Al-Abd Al-Mughni Mosque",
+                  "text": "Die Abd El-Rahman Abd Al-Mughni Muhammad Al-Abd Al-Mughni Moschee ist ein islamisches Gotteshaus, das der lokalen muslimischen Gemeinschaft in Kuwait als Ort des Gebets dient.",
+                  "category": "landmark",
+                  "coords": [
+                        47.987785,
+                        29.377053
+                  ]
+            },
+            {
+                  "name": "Al Mughisel",
+                  "text": "Al Mughisel ist eine islamische Stätte im historischen Kontext des Dickson House, die der lokalen Gemeinde als spiritueller Versammlungsort dient.",
+                  "category": "landmark",
+                  "coords": [
+                        47.988853,
+                        29.37151
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Manaei",
+                  "text": "Az Al Manaei mecset csendes teret kínál az iszlám áhítathoz, csak egy rövid távolságra Kuvait történelmi tengerparti épületeitől.",
+                  "category": "landmark",
+                  "coords": [
+                        47.982263,
+                        29.386012
+                  ]
+            },
+            {
+                  "name": "Bisher Al Roumi Mosque",
+                  "text": "A Bisher Al Roumi mecset ötvözi a regionális örökséget a modern falazással, és a kerület fontos spirituális központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        47.983781,
+                        29.381282
+                  ]
+            },
+            {
+                  "name": "Abdullah Mohamed Hadi Al-Awadhi Mosque",
+                  "text": "Az Abdullah Mohamed Hadi Al-Awadhi mecset széles imateremmel rendelkezik, amelyet központi légkondicionáló hűt a hívők kényelme érdekében.",
+                  "category": "landmark",
+                  "coords": [
+                        47.988046,
+                        29.382566
+                  ]
+            },
+            {
+                  "name": "Shaaban Mosque",
+                  "text": "A Shaaban mecset elegáns arányú fehér kupolájával és a szabadtéri összejövetelekre szolgáló csempézett udvarával tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.986432,
+                        29.383782
+                  ]
+            },
+            {
+                  "name": "Nahedh Mosque",
+                  "text": "A hagyományos öbölmenti építészeti stílusban épült Nahedh mecset a helyi közösség békés sarokkövét alkotja.",
+                  "category": "landmark",
+                  "coords": [
+                        47.984701,
+                        29.38459
+                  ]
+            },
+            {
+                  "name": "Shmlan Bin Ali Bin Saif Al Rumi Mosque",
+                  "text": "A történelmi Shmlan Bin Ali Bin Saif Al Rumi mecset a 19. század végi eredeti alapítása óta elegánsan horgonyozza a környéket.",
+                  "category": "landmark",
+                  "coords": [
+                        47.982502,
+                        29.382168
+                  ]
+            },
+            {
+                  "name": "Fatima Al Zahraa Mosque",
+                  "text": "A Próféta lányának szentelt Fatima Al Zahraa mecset a helyi iszlám híveket szolgálja jellegzetes ívelt portáljaival.",
+                  "category": "landmark",
+                  "coords": [
+                        47.989169,
+                        29.379024
+                  ]
+            },
+            {
+                  "name": "Abd El-Rahman Abd Al-Mughni Muhammad Al-Abd Al-Mughni Mosque",
+                  "text": "Az Abd El-Rahman Abd Al-Mughni Muhammad Al-Abd Al-Mughni Mecset egy iszlám imaház, amely a helyi muszlim közösség hitéletét szolgálja Kuvaitban.",
+                  "category": "landmark",
+                  "coords": [
+                        47.987785,
+                        29.377053
+                  ]
+            },
+            {
+                  "name": "Al Mughisel",
+                  "text": "Az Al Mughisel egy iszlám vallási helyszín a Dickson House történelmi környezetében, amely a helyi közösség spirituális központja.",
+                  "category": "landmark",
+                  "coords": [
+                        47.988853,
+                        29.37151
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Manaei",
+                  "text": "Moscheea Al Manaei oferă un spațiu liniștit pentru devoțiunea islamică, la doar o scurtă distanță de structurile istorice de coastă din Kuweit.",
+                  "category": "landmark",
+                  "coords": [
+                        47.982263,
+                        29.386012
+                  ]
+            },
+            {
+                  "name": "Bisher Al Roumi Mosque",
+                  "text": "Moscheea Bisher Al Roumi îmbină patrimoniul regional cu zidăria modernă, servind ca un important centru spiritual în district.",
+                  "category": "landmark",
+                  "coords": [
+                        47.983781,
+                        29.381282
+                  ]
+            },
+            {
+                  "name": "Abdullah Mohamed Hadi Al-Awadhi Mosque",
+                  "text": "Moscheea Abdullah Mohamed Hadi Al-Awadhi are o sală largă de rugăciune răcită cu aer condiționat central pentru confortul credincioșilor.",
+                  "category": "landmark",
+                  "coords": [
+                        47.988046,
+                        29.382566
+                  ]
+            },
+            {
+                  "name": "Shaaban Mosque",
+                  "text": "Moscheea Shaaban se remarcă prin cupola sa albă cu proporții elegante și curtea pavată pentru adunări în aer liber.",
+                  "category": "landmark",
+                  "coords": [
+                        47.986432,
+                        29.383782
+                  ]
+            },
+            {
+                  "name": "Nahedh Mosque",
+                  "text": "Construită în stilul arhitectural tradițional din Golf, Moscheea Nahedh formează o piatră de temelie senină a comunității locale.",
+                  "category": "landmark",
+                  "coords": [
+                        47.984701,
+                        29.38459
+                  ]
+            },
+            {
+                  "name": "Shmlan Bin Ali Bin Saif Al Rumi Mosque",
+                  "text": "Istorica Moschee Shmlan Bin Ali Bin Saif Al Rumi ancorează cu grație cartierul de la înființarea sa originală la sfârșitul secolului al XIX-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        47.982502,
+                        29.382168
+                  ]
+            },
+            {
+                  "name": "Fatima Al Zahraa Mosque",
+                  "text": "Dedicată fiicei Profetului, Moscheea Fatima Al Zahraa servește credincioșilor islamici locali cu portalurile sale frumos arcuite.",
+                  "category": "landmark",
+                  "coords": [
+                        47.989169,
+                        29.379024
+                  ]
+            },
+            {
+                  "name": "Abd El-Rahman Abd Al-Mughni Muhammad Al-Abd Al-Mughni Mosque",
+                  "text": "Moscheea Abd El-Rahman Abd Al-Mughni Muhammad Al-Abd Al-Mughni este un lăcaș de cult islamic ce deservește comunitatea musulmană locală din Kuweit.",
+                  "category": "landmark",
+                  "coords": [
+                        47.987785,
+                        29.377053
+                  ]
+            },
+            {
+                  "name": "Al Mughisel",
+                  "text": "Al Mughisel este un așezământ islamic situat în contextul istoric al Casei Dickson, servind ca loc de adunare spirituală pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        47.988853,
+                        29.37151
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Manaei",
+                  "text": "Al Manaei Mosque offers a quiet space for Islamic devotion just a short distance from the historic coastal structures of Kuwait.",
+                  "category": "landmark",
+                  "coords": [
+                        47.982263,
+                        29.386012
+                  ]
+            },
+            {
+                  "name": "Bisher Al Roumi Mosque",
+                  "text": "The Bisher Al Roumi Mosque blends regional heritage with modern masonry, serving as an important spiritual center in the district.",
+                  "category": "landmark",
+                  "coords": [
+                        47.983781,
+                        29.381282
+                  ]
+            },
+            {
+                  "name": "Abdullah Mohamed Hadi Al-Awadhi Mosque",
+                  "text": "Abdullah Mohamed Hadi Al-Awadhi Mosque features a wide prayer hall cooled by central air conditioning for the comfort of worshippers.",
+                  "category": "landmark",
+                  "coords": [
+                        47.988046,
+                        29.382566
+                  ]
+            },
+            {
+                  "name": "Shaaban Mosque",
+                  "text": "Shaaban Mosque stands out with its elegantly proportioned white dome and tiled courtyard for outdoor gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        47.986432,
+                        29.383782
+                  ]
+            },
+            {
+                  "name": "Nahedh Mosque",
+                  "text": "Built in the traditional Gulf architectural style, Nahedh Mosque forms a serene cornerstone of the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        47.984701,
+                        29.38459
+                  ]
+            },
+            {
+                  "name": "Shmlan Bin Ali Bin Saif Al Rumi Mosque",
+                  "text": "The historic Shmlan Bin Ali Bin Saif Al Rumi Mosque has gracefully anchored the neighborhood since its original establishment in the late 19th century.",
+                  "category": "landmark",
+                  "coords": [
+                        47.982502,
+                        29.382168
+                  ]
+            },
+            {
+                  "name": "Fatima Al Zahraa Mosque",
+                  "text": "Dedicated to the Prophet's daughter, the Fatima Al Zahraa Mosque serves the local Islamic faithful with its distinctively arched portals.",
+                  "category": "landmark",
+                  "coords": [
+                        47.989169,
+                        29.379024
+                  ]
+            },
+            {
+                  "name": "Abd El-Rahman Abd Al-Mughni Muhammad Al-Abd Al-Mughni Mosque",
+                  "text": "The Abd El-Rahman Abd Al-Mughni Muhammad Al-Abd Al-Mughni Mosque is an Islamic place of worship serving the local Muslim community in Kuwait.",
+                  "category": "landmark",
+                  "coords": [
+                        47.987785,
+                        29.377053
+                  ]
+            },
+            {
+                  "name": "Al Mughisel",
+                  "text": "Al Mughisel is an Islamic religious site in the historical context of Dickson House, serving as a spiritual gathering place for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        47.988853,
+                        29.37151
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "KW-KU",
     coords: [47.9866, 29.3787],
@@ -364,7 +2380,88 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
     },
   },
   {
-    id: "jahra-gate-history-v2",
+    id: "jahra-gate-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kuwait Opera House",
+                  "text": "Ein architektonisches Meisterwerk mit einer geometrischen Fassade aus Titan, das nationale Kulturzentrum Kuwaits.",
+                  "category": "cultural",
+                  "coords": [
+                        47.95479,
+                        29.359162
+                  ]
+            },
+            {
+                  "name": "Hamid Abdissalam Shu'aib Mosque",
+                  "text": "Eine Moschee im historischen Viertel in der Nähe des Jahra-Tors in Kuwait-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        47.957044,
+                        29.363925
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kuwait Opera House",
+                  "text": "Építészeti remekmű geometrikus titán homlokzattal, Kuvait nemzeti kulturális központja.",
+                  "category": "cultural",
+                  "coords": [
+                        47.95479,
+                        29.359162
+                  ]
+            },
+            {
+                  "name": "Hamid Abdissalam Shu'aib Mosque",
+                  "text": "Mecset a történelmi negyedben, a kuvaitvárosi Jahra-kapu közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        47.957044,
+                        29.363925
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kuwait Opera House",
+                  "text": "O capodoperă arhitecturală cu o fațadă geometrică din titan, centrul cultural național al Kuweitului.",
+                  "category": "cultural",
+                  "coords": [
+                        47.95479,
+                        29.359162
+                  ]
+            },
+            {
+                  "name": "Hamid Abdissalam Shu'aib Mosque",
+                  "text": "O moschee în cartierul istoric de lângă Poarta Jahra din Kuweit City.",
+                  "category": "landmark",
+                  "coords": [
+                        47.957044,
+                        29.363925
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kuwait Opera House",
+                  "text": "An architectural masterpiece with a geometric titanium facade, serving as Kuwait's national cultural center.",
+                  "category": "cultural",
+                  "coords": [
+                        47.95479,
+                        29.359162
+                  ]
+            },
+            {
+                  "name": "Hamid Abdissalam Shu'aib Mosque",
+                  "text": "A mosque located in the historic district near the Jahra Gate in Kuwait City.",
+                  "category": "landmark",
+                  "coords": [
+                        47.957044,
+                        29.363925
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "KW-KU",
     coords: [47.9542, 29.3639],
@@ -424,7 +2521,484 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
     }
   },
   {
-    id: "shami-gate-history-v2",
+    id: "shami-gate-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shamiya Theatre",
+                  "text": "Das Shamiya-Theater ist ein lokaler Kulturort in der Nähe des historischen Shami-Tors, an dem verschiedene Aufführungen und Gemeindeveranstaltungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        47.967992,
+                        29.35449
+                  ]
+            },
+            {
+                  "name": "Salah Al-Den Al-Ayoobi Mosque",
+                  "text": "Die Moschee Salah Al-Den Al-Ayoobi ist ein islamisches spirituelles Zentrum in der Nähe des historischen Shami-Tors.",
+                  "category": "landmark",
+                  "coords": [
+                        47.95883,
+                        29.329975
+                  ]
+            },
+            {
+                  "name": "Abdilwahhab Al-Faris Mosque",
+                  "text": "Die Abdilwahhab Al-Faris Moschee bietet einen eigenen Raum für muslimische Versammlungen und Gebete im Bezirk Shamiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.963982,
+                        29.339153
+                  ]
+            },
+            {
+                  "name": "Rashid Al-ʿLayyan Mosque",
+                  "text": "Die Rashid Al-ʿLayyan Moschee ist eine Gemeindemoschee für die örtlichen Gläubigen in der Nähe des Shami-Tors.",
+                  "category": "landmark",
+                  "coords": [
+                        47.971484,
+                        29.340074
+                  ]
+            },
+            {
+                  "name": "Khalid Sbaih Al-Sbaih Mosque",
+                  "text": "Die Khalid Sbaih Al-Sbaih Moschee weist als Kultstätte in Shamiya klassische islamische Architekturelemente auf.",
+                  "category": "landmark",
+                  "coords": [
+                        47.965781,
+                        29.3421
+                  ]
+            },
+            {
+                  "name": "Ibn Taymiyya Mosque",
+                  "text": "Die Ibn-Taymiyya-Moschee ist ein bedeutendes islamisches Zentrum für tägliche Gebete und religiöse Zusammenkünfte in der Gegend von Shamiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.965519,
+                        29.348712
+                  ]
+            },
+            {
+                  "name": "Sbaih Al-Sbaih Mosque",
+                  "text": "Die Sbaih Al-Sbaih Moschee bietet eine ruhige Umgebung für muslimische Gläubige, die in der Nähe des Shami-Tors wohnen.",
+                  "category": "landmark",
+                  "coords": [
+                        47.958373,
+                        29.345615
+                  ]
+            },
+            {
+                  "name": "Othman Bin Mazon Mosque",
+                  "text": "Die Moschee Othman Bin Mazon dient der lokalen islamischen Gemeinschaft mit regelmäßigen Gottesdiensten in Shamiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.959304,
+                        29.347652
+                  ]
+            },
+            {
+                  "name": "Abdilaziz Al-Sanad Mosque",
+                  "text": "Die Moschee Abdilaziz Al-Sanad ist eine islamische Einrichtung für die tägliche spirituelle Reflexion im Viertel Shamiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.953606,
+                        29.345683
+                  ]
+            },
+            {
+                  "name": "Saad Bin Abi Waqas",
+                  "text": "Die Saad Bin Abi Waqas Moschee ist ein islamisches Gotteshaus, das die religiösen Bedürfnisse des Bezirks Shamiya unterstützt.",
+                  "category": "landmark",
+                  "coords": [
+                        47.953385,
+                        29.340313
+                  ]
+            },
+            {
+                  "name": "Muhammad Al-Mubarak Mosque",
+                  "text": "Die Muhammad Al-Mubarak Moschee bietet ein ruhiges Heiligtum für muslimische Gebete in der Nähe des Shami-Tors.",
+                  "category": "landmark",
+                  "coords": [
+                        47.952804,
+                        29.343783
+                  ]
+            },
+            {
+                  "name": "Jassim Al-Ghanim Mosque",
+                  "text": "Die Jassim Al-Ghanim Moschee ist ein integraler Gebetsort für die Gemeinde im Herzen von Shamiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.953483,
+                        29.34997
+                  ]
+            },
+            {
+                  "name": "Sayed Yaqoub Al-Ansari Mosque",
+                  "text": "Die Sayed Yaqoub Al-Ansari Moschee ist ein lokales Zentrum der islamischen Anbetung im historischen Gebiet von Shamiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.966553,
+                        29.354725
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shamiya Theatre",
+                  "text": "A Shamiya Színház egy helyi kulturális helyszín a történelmi Shami-kapu közelében, amely különféle előadásoknak és közösségi eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        47.967992,
+                        29.35449
+                  ]
+            },
+            {
+                  "name": "Salah Al-Den Al-Ayoobi Mosque",
+                  "text": "A Salah Al-Den Al-Ayoobi mecset egy iszlám spirituális központ a történelmi Shami-kapu közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        47.95883,
+                        29.329975
+                  ]
+            },
+            {
+                  "name": "Abdilwahhab Al-Faris Mosque",
+                  "text": "Az Abdilwahhab Al-Faris mecset dedikált teret biztosít a muszlim gyülekezet és imádság számára a Shamiya negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        47.963982,
+                        29.339153
+                  ]
+            },
+            {
+                  "name": "Rashid Al-ʿLayyan Mosque",
+                  "text": "A Rashid Al-ʿLayyan mecset egy közösségi mecset, amely a Shami-kapu környékén lévő helyi hívőket szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.971484,
+                        29.340074
+                  ]
+            },
+            {
+                  "name": "Khalid Sbaih Al-Sbaih Mosque",
+                  "text": "A Khalid Sbaih Al-Sbaih mecset klasszikus iszlám építészeti elemeket vonultat fel imádkozóhelyként Shamiyában.",
+                  "category": "landmark",
+                  "coords": [
+                        47.965781,
+                        29.3421
+                  ]
+            },
+            {
+                  "name": "Ibn Taymiyya Mosque",
+                  "text": "Az Ibn Taymiyya mecset egy kiemelkedő iszlám központ, amely napi imákat és vallási összejöveteleket tesz lehetővé Shamiya területén.",
+                  "category": "landmark",
+                  "coords": [
+                        47.965519,
+                        29.348712
+                  ]
+            },
+            {
+                  "name": "Sbaih Al-Sbaih Mosque",
+                  "text": "A Sbaih Al-Sbaih mecset nyugodt környezetet kínál a Shami-kapu közelében élő muszlim hívők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        47.958373,
+                        29.345615
+                  ]
+            },
+            {
+                  "name": "Othman Bin Mazon Mosque",
+                  "text": "Az Othman Bin Mazon mecset a helyi iszlám közösséget szolgálja rendszeres istentiszteletekkel Shamiyában.",
+                  "category": "landmark",
+                  "coords": [
+                        47.959304,
+                        29.347652
+                  ]
+            },
+            {
+                  "name": "Abdilaziz Al-Sanad Mosque",
+                  "text": "Az Abdilaziz Al-Sanad mecset egy iszlám létesítmény a mindennapi spirituális elmélyüléshez a Shamiya negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        47.953606,
+                        29.345683
+                  ]
+            },
+            {
+                  "name": "Saad Bin Abi Waqas",
+                  "text": "A Saad Bin Abi Waqas mecset egy iszlám imahely, amely a Shamiya körzet vallási igényeit támogatja.",
+                  "category": "landmark",
+                  "coords": [
+                        47.953385,
+                        29.340313
+                  ]
+            },
+            {
+                  "name": "Muhammad Al-Mubarak Mosque",
+                  "text": "A Muhammad Al-Mubarak mecset csendes szentélyt nyújt a muszlim imákhoz a Shami-kapu közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        47.952804,
+                        29.343783
+                  ]
+            },
+            {
+                  "name": "Jassim Al-Ghanim Mosque",
+                  "text": "A Jassim Al-Ghanim mecset a közösség imádságainak szerves helyszíne, amely Shamiya szívében található.",
+                  "category": "landmark",
+                  "coords": [
+                        47.953483,
+                        29.34997
+                  ]
+            },
+            {
+                  "name": "Sayed Yaqoub Al-Ansari Mosque",
+                  "text": "A Sayed Yaqoub Al-Ansari mecset az iszlám istentisztelet helyi központja a történelmi Shamiya területén.",
+                  "category": "landmark",
+                  "coords": [
+                        47.966553,
+                        29.354725
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shamiya Theatre",
+                  "text": "Teatrul Shamiya este un loc cultural local lângă zona istorică a Porții Shami, găzduind diverse spectacole și evenimente comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        47.967992,
+                        29.35449
+                  ]
+            },
+            {
+                  "name": "Salah Al-Den Al-Ayoobi Mosque",
+                  "text": "Moscheea Salah Al-Den Al-Ayoobi este un centru spiritual islamic situat lângă istorica Poartă Shami.",
+                  "category": "landmark",
+                  "coords": [
+                        47.95883,
+                        29.329975
+                  ]
+            },
+            {
+                  "name": "Abdilwahhab Al-Faris Mosque",
+                  "text": "Moscheea Abdilwahhab Al-Faris oferă un spațiu dedicat congregației și rugăciunii musulmane în districtul Shamiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.963982,
+                        29.339153
+                  ]
+            },
+            {
+                  "name": "Rashid Al-ʿLayyan Mosque",
+                  "text": "Moscheea Rashid Al-ʿLayyan este o moschee comunitară care deservește credincioșii locali în vecinătatea Porții Shami.",
+                  "category": "landmark",
+                  "coords": [
+                        47.971484,
+                        29.340074
+                  ]
+            },
+            {
+                  "name": "Khalid Sbaih Al-Sbaih Mosque",
+                  "text": "Moscheea Khalid Sbaih Al-Sbaih prezintă elemente arhitecturale islamice clasice ca lăcaș de cult în Shamiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.965781,
+                        29.3421
+                  ]
+            },
+            {
+                  "name": "Ibn Taymiyya Mosque",
+                  "text": "Moscheea Ibn Taymiyya este un centru islamic proeminent care facilitează rugăciunile zilnice și adunările religioase în zona Shamiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.965519,
+                        29.348712
+                  ]
+            },
+            {
+                  "name": "Sbaih Al-Sbaih Mosque",
+                  "text": "Moscheea Sbaih Al-Sbaih oferă un mediu senin pentru credincioșii musulmani care locuiesc lângă Poarta Shami.",
+                  "category": "landmark",
+                  "coords": [
+                        47.958373,
+                        29.345615
+                  ]
+            },
+            {
+                  "name": "Othman Bin Mazon Mosque",
+                  "text": "Moscheea Othman Bin Mazon deservește comunitatea islamică locală cu servicii de rugăciune regulate în Shamiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.959304,
+                        29.347652
+                  ]
+            },
+            {
+                  "name": "Abdilaziz Al-Sanad Mosque",
+                  "text": "Moscheea Abdilaziz Al-Sanad este o facilitate islamică dedicată reflecției spirituale zilnice în cartierul Shamiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.953606,
+                        29.345683
+                  ]
+            },
+            {
+                  "name": "Saad Bin Abi Waqas",
+                  "text": "Moscheea Saad Bin Abi Waqas este un lăcaș de cult islamic care sprijină nevoile religioase ale districtului Shamiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.953385,
+                        29.340313
+                  ]
+            },
+            {
+                  "name": "Muhammad Al-Mubarak Mosque",
+                  "text": "Moscheea Muhammad Al-Mubarak oferă un sanctuar liniștit pentru rugăciunile musulmane lângă Poarta Shami.",
+                  "category": "landmark",
+                  "coords": [
+                        47.952804,
+                        29.343783
+                  ]
+            },
+            {
+                  "name": "Jassim Al-Ghanim Mosque",
+                  "text": "Moscheea Jassim Al-Ghanim este un loc de rugăciune comunitar integral, situat în inima districtului Shamiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.953483,
+                        29.34997
+                  ]
+            },
+            {
+                  "name": "Sayed Yaqoub Al-Ansari Mosque",
+                  "text": "Moscheea Sayed Yaqoub Al-Ansari reprezintă un centru local pentru cultul islamic în zona istorică Shamiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.966553,
+                        29.354725
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shamiya Theatre",
+                  "text": "The Shamiya Theatre is a local cultural venue near the historic Shami Gate area, hosting various performances and community events.",
+                  "category": "cultural",
+                  "coords": [
+                        47.967992,
+                        29.35449
+                  ]
+            },
+            {
+                  "name": "Salah Al-Den Al-Ayoobi Mosque",
+                  "text": "The Salah Al-Den Al-Ayoobi Mosque is an Islamic spiritual center located near the historic Shami Gate.",
+                  "category": "landmark",
+                  "coords": [
+                        47.95883,
+                        29.329975
+                  ]
+            },
+            {
+                  "name": "Abdilwahhab Al-Faris Mosque",
+                  "text": "The Abdilwahhab Al-Faris Mosque provides a dedicated space for Muslim congregation and prayer in the Shamiya district.",
+                  "category": "landmark",
+                  "coords": [
+                        47.963982,
+                        29.339153
+                  ]
+            },
+            {
+                  "name": "Rashid Al-ʿLayyan Mosque",
+                  "text": "The Rashid Al-ʿLayyan Mosque is a community mosque serving local worshippers in the vicinity of the Shami Gate.",
+                  "category": "landmark",
+                  "coords": [
+                        47.971484,
+                        29.340074
+                  ]
+            },
+            {
+                  "name": "Khalid Sbaih Al-Sbaih Mosque",
+                  "text": "The Khalid Sbaih Al-Sbaih Mosque features classic Islamic architectural elements as a place of worship in Shamiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.965781,
+                        29.3421
+                  ]
+            },
+            {
+                  "name": "Ibn Taymiyya Mosque",
+                  "text": "The Ibn Taymiyya Mosque is a prominent Islamic center facilitating daily prayers and religious gatherings in the Shamiya area.",
+                  "category": "landmark",
+                  "coords": [
+                        47.965519,
+                        29.348712
+                  ]
+            },
+            {
+                  "name": "Sbaih Al-Sbaih Mosque",
+                  "text": "The Sbaih Al-Sbaih Mosque offers a serene environment for Muslim worshippers residing near the Shami Gate.",
+                  "category": "landmark",
+                  "coords": [
+                        47.958373,
+                        29.345615
+                  ]
+            },
+            {
+                  "name": "Othman Bin Mazon Mosque",
+                  "text": "The Othman Bin Mazon Mosque serves the local Islamic community with regular prayer services in Shamiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.959304,
+                        29.347652
+                  ]
+            },
+            {
+                  "name": "Abdilaziz Al-Sanad Mosque",
+                  "text": "The Abdilaziz Al-Sanad Mosque is a dedicated Islamic facility for daily spiritual reflection in the Shamiya neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        47.953606,
+                        29.345683
+                  ]
+            },
+            {
+                  "name": "Saad Bin Abi Waqas",
+                  "text": "The Saad Bin Abi Waqas Mosque is an Islamic place of worship supporting the religious needs of the Shamiya district.",
+                  "category": "landmark",
+                  "coords": [
+                        47.953385,
+                        29.340313
+                  ]
+            },
+            {
+                  "name": "Muhammad Al-Mubarak Mosque",
+                  "text": "The Muhammad Al-Mubarak Mosque provides a quiet sanctuary for Muslim prayers near the Shami Gate.",
+                  "category": "landmark",
+                  "coords": [
+                        47.952804,
+                        29.343783
+                  ]
+            },
+            {
+                  "name": "Jassim Al-Ghanim Mosque",
+                  "text": "The Jassim Al-Ghanim Mosque is an integral community prayer site located in the heart of Shamiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.953483,
+                        29.34997
+                  ]
+            },
+            {
+                  "name": "Sayed Yaqoub Al-Ansari Mosque",
+                  "text": "The Sayed Yaqoub Al-Ansari Mosque stands as a local center for Islamic worship in the historic Shamiya area.",
+                  "category": "landmark",
+                  "coords": [
+                        47.966553,
+                        29.354725
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "KW-KU",
     coords: [47.9620, 29.3560],
@@ -484,7 +3058,124 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
     }
   },
   {
-    id: "naif-palace-history-v2",
+    id: "naif-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bader Al Mailam",
+                  "text": "Diese moderne Moschee liegt eingebettet im historischen Viertel in der Nähe des Naif-Palastes und dient der Verwaltung und der örtlichen Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        47.966868,
+                        29.359911
+                  ]
+            },
+            {
+                  "name": "Al-Salhiya Mosque",
+                  "text": "Ein traditionsreicher islamischer Gebetsort, der sich in die traditionelle Stadtlandschaft rund um den Naif-Palast einfügt.",
+                  "category": "landmark",
+                  "coords": [
+                        47.966573,
+                        29.362505
+                  ]
+            },
+            {
+                  "name": "Al-Jahra Market",
+                  "text": "Ein geschäftiger traditioneller Markt in der Nähe des Naif-Palastes, auf dem sich Einheimische versammeln, um frische Produkte, Gewürze und Alltagsgüter zu kaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        47.964805,
+                        29.36236
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bader Al Mailam",
+                  "text": "A Naif-palota melletti történelmi negyedben megbúvó modern mecset az adminisztratív és a helyi közösséget egyaránt kiszolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        47.966868,
+                        29.359911
+                  ]
+            },
+            {
+                  "name": "Al-Salhiya Mosque",
+                  "text": "Egy nagy múltú iszlám istentiszteleti hely, amely jól illeszkedik a Naif-palota körüli hagyományos városképbe.",
+                  "category": "landmark",
+                  "coords": [
+                        47.966573,
+                        29.362505
+                  ]
+            },
+            {
+                  "name": "Al-Jahra Market",
+                  "text": "Egy nyüzsgő hagyományos piac a Naif-palota közelében, ahol a helyiek friss termékeket, fűszereket és mindennapi cikkeket vásárolnak.",
+                  "category": "cultural",
+                  "coords": [
+                        47.964805,
+                        29.36236
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bader Al Mailam",
+                  "text": "Amplasată în zona istorică de lângă Palatul Naif, această moschee modernă deservește comunitatea administrativă și locală.",
+                  "category": "landmark",
+                  "coords": [
+                        47.966868,
+                        29.359911
+                  ]
+            },
+            {
+                  "name": "Al-Salhiya Mosque",
+                  "text": "Un lăcaș de cult islamic cu tradiție, care se integrează în peisajul urban tradițional din jurul Palatului Naif.",
+                  "category": "landmark",
+                  "coords": [
+                        47.966573,
+                        29.362505
+                  ]
+            },
+            {
+                  "name": "Al-Jahra Market",
+                  "text": "O piață tradițională plină de viață lângă Palatul Naif, unde localnicii se adună pentru a cumpăra produse proaspete, condimente și bunuri de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        47.964805,
+                        29.36236
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bader Al Mailam",
+                  "text": "Nestled in the historic area near Naif Palace, this modern mosque serves the administrative and local community.",
+                  "category": "landmark",
+                  "coords": [
+                        47.966868,
+                        29.359911
+                  ]
+            },
+            {
+                  "name": "Al-Salhiya Mosque",
+                  "text": "A long-standing Islamic place of worship that blends into the traditional urban landscape around Naif Palace.",
+                  "category": "landmark",
+                  "coords": [
+                        47.966573,
+                        29.362505
+                  ]
+            },
+            {
+                  "name": "Al-Jahra Market",
+                  "text": "A bustling traditional marketplace near Naif Palace where locals gather to buy fresh produce, spices, and everyday goods.",
+                  "category": "cultural",
+                  "coords": [
+                        47.964805,
+                        29.36236
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "KW-KU",
     coords: [47.9656, 29.3619],
@@ -605,7 +3296,52 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
     }
   },
   {
-    id: "failaka-portuguese-fort-history-v2",
+    id: "failaka-portuguese-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "F6 Bronze Age site",
+                  "text": "Diese archäologische Ausgrabungsstätte auf der Insel Failaka zeigt Überreste von Steinhäusern aus der Bronzezeit.",
+                  "category": "landmark",
+                  "coords": [
+                        48.279378,
+                        29.431844
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "F6 Bronze Age site",
+                  "text": "Ez a Failaka-szigeti régészeti lelőhely bronzkori kőházak maradványait mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        48.279378,
+                        29.431844
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "F6 Bronze Age site",
+                  "text": "Acest sit arheologic de pe insula Failaka prezintă vestigii ale unor case din piatră din Epoca Bronzului.",
+                  "category": "landmark",
+                  "coords": [
+                        48.279378,
+                        29.431844
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "F6 Bronze Age site",
+                  "text": "This archaeological site on Failaka Island displays the remains of stone houses dating back to the Bronze Age.",
+                  "category": "landmark",
+                  "coords": [
+                        48.279378,
+                        29.431844
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "KW-KU",
     coords: [48.3200, 29.4200],
@@ -666,7 +3402,196 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
     }
   },
   {
-    id: "sheikh-khazal-palace-ruins-history-v2",
+    id: "sheikh-khazal-palace-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "urbanlinks marketing agency",
+                  "text": "Ein kreatives Zentrum in der Stadt, das lokale Künstler fördert und moderne Medienprojekte präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        47.988622,
+                        29.383982
+                  ]
+            },
+            {
+                  "name": "Khazaal Palace",
+                  "text": "Die eindrucksvollen Backsteinruinen einer königlichen Residenz aus dem frühen 20. Jahrhundert zeugen von vergangener Pracht.",
+                  "category": "historical",
+                  "coords": [
+                        47.995368,
+                        29.387817
+                  ]
+            },
+            {
+                  "name": "Traditional Cafe Shemaimry mosque",
+                  "text": "Ein kleiner Gebetsraum, der sich günstig gelegen direkt neben einem beliebten traditionellen Café am Meer befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        47.985602,
+                        29.389714
+                  ]
+            },
+            {
+                  "name": "Naif Al-Jaleel Mosque",
+                  "text": "Diese moderne Moschee besticht durch ihre markante Kuppelarchitektur in einem ruhigen Wohnviertel.",
+                  "category": "landmark",
+                  "coords": [
+                        47.988896,
+                        29.387357
+                  ]
+            },
+            {
+                  "name": "Boresli",
+                  "text": "Eine lokale Gemeindemoschee, die klassische islamische Gestaltungselemente mit moderner Funktionalität verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        47.98449,
+                        29.387691
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "urbanlinks marketing agency",
+                  "text": "Kreatív központ a városban, amely helyi művészeket támogat és modern médiaprojekteket mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        47.988622,
+                        29.383982
+                  ]
+            },
+            {
+                  "name": "Khazaal Palace",
+                  "text": "Egy 20. század eleji királyi rezidencia lenyűgöző téglaromjai a múltbéli pompáról tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        47.995368,
+                        29.387817
+                  ]
+            },
+            {
+                  "name": "Traditional Cafe Shemaimry mosque",
+                  "text": "Egy kis imaterem, amely kényelmes helyen, egy népszerű hagyományos tengerparti kávézó mellett található.",
+                  "category": "landmark",
+                  "coords": [
+                        47.985602,
+                        29.389714
+                  ]
+            },
+            {
+                  "name": "Naif Al-Jaleel Mosque",
+                  "text": "Ez a modern mecset lenyűgöző kupolás építészetével tűnik ki egy csendes lakónegyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        47.988896,
+                        29.387357
+                  ]
+            },
+            {
+                  "name": "Boresli",
+                  "text": "Helyi közösségi mecset, amely a klasszikus iszlám tervezési elemeket ötvözi a modern funkcionalitással.",
+                  "category": "landmark",
+                  "coords": [
+                        47.98449,
+                        29.387691
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "urbanlinks marketing agency",
+                  "text": "Un centru creativ din oraș care sprijină artiștii locali și prezintă proiecte media moderne.",
+                  "category": "cultural",
+                  "coords": [
+                        47.988622,
+                        29.383982
+                  ]
+            },
+            {
+                  "name": "Khazaal Palace",
+                  "text": "Ruinele impresionante de cărămidă ale unei reședințe regale de la începutul secolului XX atestă splendoarea de altădată.",
+                  "category": "historical",
+                  "coords": [
+                        47.995368,
+                        29.387817
+                  ]
+            },
+            {
+                  "name": "Traditional Cafe Shemaimry mosque",
+                  "text": "O mică sală de rugăciune situată convenabil chiar lângă o cafenea tradițională populară de la malul mării.",
+                  "category": "landmark",
+                  "coords": [
+                        47.985602,
+                        29.389714
+                  ]
+            },
+            {
+                  "name": "Naif Al-Jaleel Mosque",
+                  "text": "Această moschee modernă impresionează prin arhitectura sa cu dom distinctiv într-un cartier rezidențial liniștit.",
+                  "category": "landmark",
+                  "coords": [
+                        47.988896,
+                        29.387357
+                  ]
+            },
+            {
+                  "name": "Boresli",
+                  "text": "O moschee comunitară locală care îmbină elementele clasice de design islamic cu funcționalitatea modernă.",
+                  "category": "landmark",
+                  "coords": [
+                        47.98449,
+                        29.387691
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "urbanlinks marketing agency",
+                  "text": "A creative hub in the city that supports local artists and showcases modern media projects.",
+                  "category": "cultural",
+                  "coords": [
+                        47.988622,
+                        29.383982
+                  ]
+            },
+            {
+                  "name": "Khazaal Palace",
+                  "text": "The evocative brick ruins of an early 20th-century royal residence bear witness to past architectural splendor.",
+                  "category": "historical",
+                  "coords": [
+                        47.995368,
+                        29.387817
+                  ]
+            },
+            {
+                  "name": "Traditional Cafe Shemaimry mosque",
+                  "text": "A small prayer room conveniently located right next to a popular traditional seaside cafe.",
+                  "category": "landmark",
+                  "coords": [
+                        47.985602,
+                        29.389714
+                  ]
+            },
+            {
+                  "name": "Naif Al-Jaleel Mosque",
+                  "text": "This modern mosque stands out with its striking domed architecture in a quiet residential district.",
+                  "category": "landmark",
+                  "coords": [
+                        47.988896,
+                        29.387357
+                  ]
+            },
+            {
+                  "name": "Boresli",
+                  "text": "A local community mosque combining classic Islamic design elements with modern functionality.",
+                  "category": "landmark",
+                  "coords": [
+                        47.98449,
+                        29.387691
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "KW-KU",
     coords: [47.9940, 29.3850],
@@ -726,7 +3651,160 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
     }
   },
   {
-    id: "kuwait-towers-monument-history-v2",
+    id: "kuwait-towers-monument-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "\"Paper\" Boats",
+                  "text": "Eine moderne Kunstinstallation an der Küste, die an traditionell gefaltete Papierschiffe erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        48.002998,
+                        29.388459
+                  ]
+            },
+            {
+                  "name": "Kuwait Towers",
+                  "text": "Diese drei markanten Türme sind mit blau-grünen Mosaiken verziert und bieten ein Drehrestaurant mit Meerblick.",
+                  "category": "landmark",
+                  "coords": [
+                        48.003287,
+                        29.389874
+                  ]
+            },
+            {
+                  "name": "Aquapark",
+                  "text": "Ein großer Wasserpark direkt am Persischen Golf mit zahlreichen Rutschen und Pools für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        48.003968,
+                        29.391086
+                  ]
+            },
+            {
+                  "name": "Tahani Khalifa Al-Jari Mosque",
+                  "text": "Ein friedlicher Ort der Anbetung mit strahlend weißen Steinfassaden in der Nähe der Uferpromenade.",
+                  "category": "landmark",
+                  "coords": [
+                        48.003196,
+                        29.384743
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "\"Paper\" Boats",
+                  "text": "Modern művészeti alkotás a tengerparton, amely a hagyományosan hajtogatott papírhajókra emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        48.002998,
+                        29.388459
+                  ]
+            },
+            {
+                  "name": "Kuwait Towers",
+                  "text": "Ezt a három jellegzetes tornyot kék-zöld mozaikok díszítik, és tengerre néző forgó étteremmel várják a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        48.003287,
+                        29.389874
+                  ]
+            },
+            {
+                  "name": "Aquapark",
+                  "text": "Hatalmas vízi park közvetlenül a Perzsa-öböl partján, számos csúszdával és medencével a családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        48.003968,
+                        29.391086
+                  ]
+            },
+            {
+                  "name": "Tahani Khalifa Al-Jari Mosque",
+                  "text": "Békés imaház ragyogó fehér kőhomlokzattal, a vízparti sétány közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.003196,
+                        29.384743
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "\"Paper\" Boats",
+                  "text": "O instalație de artă modernă pe malul mării, care amintește de bărcile de hârtie împăturite tradițional.",
+                  "category": "landmark",
+                  "coords": [
+                        48.002998,
+                        29.388459
+                  ]
+            },
+            {
+                  "name": "Kuwait Towers",
+                  "text": "Aceste trei turnuri distinctive sunt decorate cu mozaicuri albastru-verzi și oferă un restaurant rotativ cu vedere la mare.",
+                  "category": "landmark",
+                  "coords": [
+                        48.003287,
+                        29.389874
+                  ]
+            },
+            {
+                  "name": "Aquapark",
+                  "text": "Un parc acvatic mare situat chiar pe malul Golfului Persic, cu numeroase tobogane și piscine pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        48.003968,
+                        29.391086
+                  ]
+            },
+            {
+                  "name": "Tahani Khalifa Al-Jari Mosque",
+                  "text": "Un lăcaș de rugăciune pașnic, cu fațade din piatră albă strălucitoare, situat lângă faleză.",
+                  "category": "landmark",
+                  "coords": [
+                        48.003196,
+                        29.384743
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "\"Paper\" Boats",
+                  "text": "A modern art installation on the waterfront resembling traditionally folded paper boats.",
+                  "category": "landmark",
+                  "coords": [
+                        48.002998,
+                        29.388459
+                  ]
+            },
+            {
+                  "name": "Kuwait Towers",
+                  "text": "These three distinctive towers are decorated with blue-green mosaics and feature a revolving restaurant with sea views.",
+                  "category": "landmark",
+                  "coords": [
+                        48.003287,
+                        29.389874
+                  ]
+            },
+            {
+                  "name": "Aquapark",
+                  "text": "A large water park located right on the Persian Gulf, featuring numerous slides and pools for families.",
+                  "category": "recreational",
+                  "coords": [
+                        48.003968,
+                        29.391086
+                  ]
+            },
+            {
+                  "name": "Tahani Khalifa Al-Jari Mosque",
+                  "text": "A serene place of worship with bright white stone facades located near the waterfront promenade.",
+                  "category": "landmark",
+                  "coords": [
+                        48.003196,
+                        29.384743
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "KW-KU",
     coords: [48.0033, 29.3897],
@@ -786,7 +3864,268 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
     }
   },
   {
-    id: "kazma-battlefield-history-v2",
+    id: "kazma-battlefield-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "ROAD-T",
+                  "text": "ROAD-T ist ein markierter Aussichtspunkt in kazma-battlefield-history-v2.",
+                  "category": "natural",
+                  "coords": [
+                        47.612776,
+                        29.44475
+                  ]
+            },
+            {
+                  "name": "Kind of view from the hill",
+                  "text": "Dieser Aussichtspunkt vom Hügel bietet einen Panoramablick in kazma-battlefield-history-v2.",
+                  "category": "natural",
+                  "coords": [
+                        47.684152,
+                        29.421332
+                  ]
+            },
+            {
+                  "name": "ROAD-AI",
+                  "text": "ROAD-AI ist ein Aussichtspunkt für Besucher in kazma-battlefield-history-v2.",
+                  "category": "natural",
+                  "coords": [
+                        47.596678,
+                        29.442872
+                  ]
+            },
+            {
+                  "name": "ROAD-R",
+                  "text": "ROAD-R ist ein weiterer Aussichtspunkt in der Gegend von kazma-battlefield-history-v2.",
+                  "category": "natural",
+                  "coords": [
+                        47.610026,
+                        29.483295
+                  ]
+            },
+            {
+                  "name": "ROAD-P",
+                  "text": "ROAD-P ist ein Aussichtspunkt in der Region kazma-battlefield-history-v2.",
+                  "category": "natural",
+                  "coords": [
+                        47.590578,
+                        29.464465
+                  ]
+            },
+            {
+                  "name": "ROAD A",
+                  "text": "ROAD A ist ein Aussichtspunkt für Besucher in kazma-battlefield-history-v2.",
+                  "category": "natural",
+                  "coords": [
+                        47.621532,
+                        29.448163
+                  ]
+            },
+            {
+                  "name": "Road E kazı başlangıç",
+                  "text": "Road E kazı başlangıç dient als Aussichtspunkt in der Region kazma-battlefield-history-v2.",
+                  "category": "natural",
+                  "coords": [
+                        47.617876,
+                        29.482624
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ROAD-T",
+                  "text": "A ROAD-T egy kilátópont a kazma-battlefield-history-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        47.612776,
+                        29.44475
+                  ]
+            },
+            {
+                  "name": "Kind of view from the hill",
+                  "text": "Ez a hegyi kilátópont panorámás kilátást nyújt a kazma-battlefield-history-v2 régióban.",
+                  "category": "natural",
+                  "coords": [
+                        47.684152,
+                        29.421332
+                  ]
+            },
+            {
+                  "name": "ROAD-AI",
+                  "text": "A ROAD-AI egy látogatói kilátópont a kazma-battlefield-history-v2 térségében.",
+                  "category": "natural",
+                  "coords": [
+                        47.596678,
+                        29.442872
+                  ]
+            },
+            {
+                  "name": "ROAD-R",
+                  "text": "A ROAD-R egy újabb kilátópont a kazma-battlefield-history-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        47.610026,
+                        29.483295
+                  ]
+            },
+            {
+                  "name": "ROAD-P",
+                  "text": "A ROAD-P egy kilátópont a kazma-battlefield-history-v2 régióban.",
+                  "category": "natural",
+                  "coords": [
+                        47.590578,
+                        29.464465
+                  ]
+            },
+            {
+                  "name": "ROAD A",
+                  "text": "A ROAD A egy látogatói kilátópont a kazma-battlefield-history-v2 régióban.",
+                  "category": "natural",
+                  "coords": [
+                        47.621532,
+                        29.448163
+                  ]
+            },
+            {
+                  "name": "Road E kazı başlangıç",
+                  "text": "A Road E kazı başlangıç kilátóként szolgál a kazma-battlefield-history-v2 régióban.",
+                  "category": "natural",
+                  "coords": [
+                        47.617876,
+                        29.482624
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ROAD-T",
+                  "text": "ROAD-T este un punct de belvedere în kazma-battlefield-history-v2.",
+                  "category": "natural",
+                  "coords": [
+                        47.612776,
+                        29.44475
+                  ]
+            },
+            {
+                  "name": "Kind of view from the hill",
+                  "text": "Această vedere de pe deal este un punct de belvedere din kazma-battlefield-history-v2.",
+                  "category": "natural",
+                  "coords": [
+                        47.684152,
+                        29.421332
+                  ]
+            },
+            {
+                  "name": "ROAD-AI",
+                  "text": "ROAD-AI este un punct de belvedere pentru vizitatori în kazma-battlefield-history-v2.",
+                  "category": "natural",
+                  "coords": [
+                        47.596678,
+                        29.442872
+                  ]
+            },
+            {
+                  "name": "ROAD-R",
+                  "text": "ROAD-R este un punct de belvedere în zona kazma-battlefield-history-v2.",
+                  "category": "natural",
+                  "coords": [
+                        47.610026,
+                        29.483295
+                  ]
+            },
+            {
+                  "name": "ROAD-P",
+                  "text": "ROAD-P este un punct de belvedere din regiunea kazma-battlefield-history-v2.",
+                  "category": "natural",
+                  "coords": [
+                        47.590578,
+                        29.464465
+                  ]
+            },
+            {
+                  "name": "ROAD A",
+                  "text": "ROAD A este un punct de belvedere pentru vizitatori în kazma-battlefield-history-v2.",
+                  "category": "natural",
+                  "coords": [
+                        47.621532,
+                        29.448163
+                  ]
+            },
+            {
+                  "name": "Road E kazı başlangıç",
+                  "text": "Road E kazı başlangıç servește ca punct de observație în regiunea kazma-battlefield-history-v2.",
+                  "category": "natural",
+                  "coords": [
+                        47.617876,
+                        29.482624
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ROAD-T",
+                  "text": "ROAD-T is a designated viewpoint in kazma-battlefield-history-v2.",
+                  "category": "natural",
+                  "coords": [
+                        47.612776,
+                        29.44475
+                  ]
+            },
+            {
+                  "name": "Kind of view from the hill",
+                  "text": "This view from the hill serves as a viewpoint in kazma-battlefield-history-v2.",
+                  "category": "natural",
+                  "coords": [
+                        47.684152,
+                        29.421332
+                  ]
+            },
+            {
+                  "name": "ROAD-AI",
+                  "text": "ROAD-AI is a scenic viewpoint for visitors in kazma-battlefield-history-v2.",
+                  "category": "natural",
+                  "coords": [
+                        47.596678,
+                        29.442872
+                  ]
+            },
+            {
+                  "name": "ROAD-R",
+                  "text": "ROAD-R is another viewpoint situated in the kazma-battlefield-history-v2 area.",
+                  "category": "natural",
+                  "coords": [
+                        47.610026,
+                        29.483295
+                  ]
+            },
+            {
+                  "name": "ROAD-P",
+                  "text": "ROAD-P is a viewpoint situated in the kazma-battlefield-history-v2 region.",
+                  "category": "natural",
+                  "coords": [
+                        47.590578,
+                        29.464465
+                  ]
+            },
+            {
+                  "name": "ROAD A",
+                  "text": "ROAD A is a viewpoint for visitors in kazma-battlefield-history-v2.",
+                  "category": "natural",
+                  "coords": [
+                        47.621532,
+                        29.448163
+                  ]
+            },
+            {
+                  "name": "Road E kazı başlangıç",
+                  "text": "Road E kazı başlangıç serves as a viewpoint within the kazma-battlefield-history-v2 region.",
+                  "category": "natural",
+                  "coords": [
+                        47.617876,
+                        29.482624
+                  ]
+            }
+      ]
+},
     type: "battlefield",
     parent: "KW-JA",
     coords: [47.6667, 29.4167],
@@ -847,7 +4186,52 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
     }
   },
   {
-    id: "bahra-1-settlement-history-v2",
+    id: "bahra-1-settlement-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bahra 1",
+                  "text": "Bahra 1 ist eine bedeutende archäologische Siedlungsstätte, die antike historische Schichten in der nördlichen Wüste Kuwaits offenbart.",
+                  "category": "historical",
+                  "coords": [
+                        47.955217,
+                        29.636346
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bahra 1",
+                  "text": "Bahra 1 egy jelentős régészeti település, amely ősi történelmi rétegeket tár fel az észak-kuvaiti sivatagban.",
+                  "category": "historical",
+                  "coords": [
+                        47.955217,
+                        29.636346
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bahra 1",
+                  "text": "Bahra 1 este o așezare arheologică semnificativă care dezvăluie straturi istorice antice în deșertul din nordul Kuweitului.",
+                  "category": "historical",
+                  "coords": [
+                        47.955217,
+                        29.636346
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bahra 1",
+                  "text": "Bahra 1 is a significant archaeological settlement site revealing ancient historical layers in the northern Kuwait desert.",
+                  "category": "historical",
+                  "coords": [
+                        47.955217,
+                        29.636346
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "KW-JA",
     coords: [47.9500, 29.6100],
@@ -908,7 +4292,160 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
     }
   },
   {
-    id: "beit-ghaith-history-v2",
+    id: "beit-ghaith-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Imam Sadiq",
+                  "text": "Diese bedeutende lokale Moschee befindet sich in einem geschichtsträchtigen Viertel in der Nähe von Beit Ghaith und weist ausgeprägte islamische Architekturdetails auf.",
+                  "category": "landmark",
+                  "coords": [
+                        47.980058,
+                        29.374748
+                  ]
+            },
+            {
+                  "name": "Bin Hilla",
+                  "text": "Diese Moschee dient den Gläubigen als täglicher Rückzugsort und steht harmonisch zwischen den historischen Gebäuden rund um Beit Ghaith.",
+                  "category": "landmark",
+                  "coords": [
+                        47.978882,
+                        29.375276
+                  ]
+            },
+            {
+                  "name": "Al Saeb Bin Othman",
+                  "text": "Diese Moschee befindet sich in dem an Erbe reichen Gebiet in der Nähe von Beit Ghaith und bildet einen integralen Bestandteil des täglichen spirituellen Lebens der Anwohner.",
+                  "category": "landmark",
+                  "coords": [
+                        47.982104,
+                        29.376057
+                  ]
+            },
+            {
+                  "name": "Rashed Ibrahim Ismail Mosque",
+                  "text": "Ein muslimisches Gotteshaus im historischen Viertel von Beit Ghaith.",
+                  "category": "landmark",
+                  "coords": [
+                        47.984105,
+                        29.374229
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Imam Sadiq",
+                  "text": "A Beit Ghaith melletti, történelemben gazdag negyedben található jelentős helyi mecset jellegzetes iszlám építészeti részletekkel büszkélkedhet.",
+                  "category": "landmark",
+                  "coords": [
+                        47.980058,
+                        29.374748
+                  ]
+            },
+            {
+                  "name": "Bin Hilla",
+                  "text": "A hívek napi menedékeként szolgáló mecset harmonikusan illeszkedik a Beit Ghaith körüli műemléképületek közé.",
+                  "category": "landmark",
+                  "coords": [
+                        47.978882,
+                        29.375276
+                  ]
+            },
+            {
+                  "name": "Al Saeb Bin Othman",
+                  "text": "A Beit Ghaith melletti, örökségben gazdag területen fekvő mecset a helyi lakosok mindennapi spirituális életének szerves részét képezi.",
+                  "category": "landmark",
+                  "coords": [
+                        47.982104,
+                        29.376057
+                  ]
+            },
+            {
+                  "name": "Rashed Ibrahim Ismail Mosque",
+                  "text": "Egy muszlim istentiszteleti hely Beit Ghaith történelmi negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        47.984105,
+                        29.374229
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Imam Sadiq",
+                  "text": "Situată într-un cartier bogat în istorie lângă Beit Ghaith, această moschee locală semnificativă prezintă detalii arhitecturale islamice distincte.",
+                  "category": "landmark",
+                  "coords": [
+                        47.980058,
+                        29.374748
+                  ]
+            },
+            {
+                  "name": "Bin Hilla",
+                  "text": "Servind drept retragere zilnică pentru credincioși, această moschee se înalță armonios printre clădirile de patrimoniu din jurul Beit Ghaith.",
+                  "category": "landmark",
+                  "coords": [
+                        47.978882,
+                        29.375276
+                  ]
+            },
+            {
+                  "name": "Al Saeb Bin Othman",
+                  "text": "Situată în zona bogată în patrimoniu din apropiere de Beit Ghaith, această moschee formează o parte integrantă a vieții spirituale zilnice a locuitorilor.",
+                  "category": "landmark",
+                  "coords": [
+                        47.982104,
+                        29.376057
+                  ]
+            },
+            {
+                  "name": "Rashed Ibrahim Ismail Mosque",
+                  "text": "Un lăcaș de cult musulman situat în zona istorică din Beit Ghaith.",
+                  "category": "landmark",
+                  "coords": [
+                        47.984105,
+                        29.374229
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Imam Sadiq",
+                  "text": "Set in a district rich with history near Beit Ghaith, this significant local mosque features distinct Islamic architectural details.",
+                  "category": "landmark",
+                  "coords": [
+                        47.980058,
+                        29.374748
+                  ]
+            },
+            {
+                  "name": "Bin Hilla",
+                  "text": "Serving as a daily retreat for the faithful, this mosque stands harmoniously among the heritage buildings around Beit Ghaith.",
+                  "category": "landmark",
+                  "coords": [
+                        47.978882,
+                        29.375276
+                  ]
+            },
+            {
+                  "name": "Al Saeb Bin Othman",
+                  "text": "Located in the heritage-rich area near Beit Ghaith, this mosque forms an integral part of the local residents' daily spiritual life.",
+                  "category": "landmark",
+                  "coords": [
+                        47.982104,
+                        29.376057
+                  ]
+            },
+            {
+                  "name": "Rashed Ibrahim Ismail Mosque",
+                  "text": "A Muslim place of worship located in the historic area of Beit Ghaith.",
+                  "category": "landmark",
+                  "coords": [
+                        47.984105,
+                        29.374229
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "KW-KU",
     coords: [47.9800, 29.3750],
@@ -969,7 +4506,268 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
     }
   },
   {
-    id: "shuwaikh-archaeological-site-history-v2",
+    id: "shuwaikh-archaeological-site-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Historical, Vintage & Classic Car Museum",
+                  "text": "Das Museum für historische, Oldtimer- und klassische Autos in Shuwaikh präsentiert eine beeindruckende Sammlung sorgfältig restaurierter Automobile aus verschiedenen Epochen.",
+                  "category": "museum",
+                  "coords": [
+                        47.943186,
+                        29.338335
+                  ]
+            },
+            {
+                  "name": "Alshaya head office",
+                  "text": "Der Hauptsitz von Alshaya in Shuwaikh umfasst einen speziellen Gebetsraum für die Mitarbeiter und Besucher des Unternehmens.",
+                  "category": "religious",
+                  "coords": [
+                        47.935438,
+                        29.337454
+                  ]
+            },
+            {
+                  "name": "Yusef AlMarzouq & lulwa Al Nassar (Islamic Medicine Center)",
+                  "text": "Das Zentrum für islamische Medizin Yusef AlMarzouq & Lulwa Al Nassar in Shuwaikh verfügt über eine prominente Moschee, die in den Gesundheitskomplex integriert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        47.908649,
+                        29.323554
+                  ]
+            },
+            {
+                  "name": "Shuwaikh University Mosque",
+                  "text": "Die Universitätsmoschee von Shuwaikh bietet Studenten und Dozenten auf dem örtlichen Bildungscampus einen spirituellen Zufluchtsort.",
+                  "category": "landmark",
+                  "coords": [
+                        47.915748,
+                        29.340423
+                  ]
+            },
+            {
+                  "name": "Abdulmihsin Ahmad Al-Asfour Mosque",
+                  "text": "Die Abdulmihsin Ahmad Al-Asfour Moschee ist ein lokales islamisches Gotteshaus im historischen Bezirk Shuwaikh.",
+                  "category": "landmark",
+                  "coords": [
+                        47.908676,
+                        29.338422
+                  ]
+            },
+            {
+                  "name": "Zayd ibn Thabit Mosque",
+                  "text": "Die Zayd ibn Thabit Moschee dient der umliegenden Gemeinde in Shuwaikh als zentraler Ort für islamische Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        47.937154,
+                        29.323357
+                  ]
+            },
+            {
+                  "name": "Hmood Al-Mutairi Mosque",
+                  "text": "Die Hmood Al-Mutairi Moschee bietet eine ruhige Umgebung für die täglichen muslimischen Gebete im Viertel Shuwaikh.",
+                  "category": "landmark",
+                  "coords": [
+                        47.94483,
+                        29.327339
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Historical, Vintage & Classic Car Museum",
+                  "text": "A Shuwaikhban található Történelmi, Veterán és Klasszikus Autók Múzeuma a különböző korszakokból származó, aprólékosan felújított gépkocsik lenyűgöző gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        47.943186,
+                        29.338335
+                  ]
+            },
+            {
+                  "name": "Alshaya head office",
+                  "text": "A shuwaikhi Alshaya központ egy dedikált imatermet is magában foglal a vállalati dolgozók és a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        47.935438,
+                        29.337454
+                  ]
+            },
+            {
+                  "name": "Yusef AlMarzouq & lulwa Al Nassar (Islamic Medicine Center)",
+                  "text": "A shuwaikhi Yusef AlMarzouq & Lulwa Al Nassar Iszlám Orvosi Központ egészségügyi komplexumába egy kiemelkedő mecset is integrálva van.",
+                  "category": "landmark",
+                  "coords": [
+                        47.908649,
+                        29.323554
+                  ]
+            },
+            {
+                  "name": "Shuwaikh University Mosque",
+                  "text": "A Shuwaikh Egyetemi Mecset spirituális menedéket nyújt a hallgatók és az oktatók számára a helyi oktatási campuson.",
+                  "category": "landmark",
+                  "coords": [
+                        47.915748,
+                        29.340423
+                  ]
+            },
+            {
+                  "name": "Abdulmihsin Ahmad Al-Asfour Mosque",
+                  "text": "Az Abdulmihsin Ahmad Al-Asfour mecset egy helyi iszlám imahely a történelmi Shuwaikh negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        47.908676,
+                        29.338422
+                  ]
+            },
+            {
+                  "name": "Zayd ibn Thabit Mosque",
+                  "text": "A Zayd ibn Thabit mecset a shuwaikhi közösség iszlám imádkozásának központi helyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        47.937154,
+                        29.323357
+                  ]
+            },
+            {
+                  "name": "Hmood Al-Mutairi Mosque",
+                  "text": "A Hmood Al-Mutairi mecset nyugodt környezetet biztosít a mindennapi muszlim imákhoz a shuwaikhi szomszédságban.",
+                  "category": "landmark",
+                  "coords": [
+                        47.94483,
+                        29.327339
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Historical, Vintage & Classic Car Museum",
+                  "text": "Muzeul de Mașini Istorice, de Epocă și Clasice din Shuwaikh prezintă o colecție impresionantă de automobile meticulos restaurate din diverse ere.",
+                  "category": "museum",
+                  "coords": [
+                        47.943186,
+                        29.338335
+                  ]
+            },
+            {
+                  "name": "Alshaya head office",
+                  "text": "Sediul central Alshaya din Shuwaikh încorporează o facilitate de rugăciune dedicată pentru personalul corporativ și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        47.935438,
+                        29.337454
+                  ]
+            },
+            {
+                  "name": "Yusef AlMarzouq & lulwa Al Nassar (Islamic Medicine Center)",
+                  "text": "Centrul de Medicină Islamică Yusef AlMarzouq și Lulwa Al Nassar din Shuwaikh are o moschee proeminentă integrată în complexul său de asistență medicală.",
+                  "category": "landmark",
+                  "coords": [
+                        47.908649,
+                        29.323554
+                  ]
+            },
+            {
+                  "name": "Shuwaikh University Mosque",
+                  "text": "Moscheea Universității Shuwaikh oferă un sanctuar spiritual pentru studenți și facultate pe campusul educațional local.",
+                  "category": "landmark",
+                  "coords": [
+                        47.915748,
+                        29.340423
+                  ]
+            },
+            {
+                  "name": "Abdulmihsin Ahmad Al-Asfour Mosque",
+                  "text": "Moscheea Abdulmihsin Ahmad Al-Asfour este un centru local de cult islamic amplasat în cartierul istoric Shuwaikh.",
+                  "category": "landmark",
+                  "coords": [
+                        47.908676,
+                        29.338422
+                  ]
+            },
+            {
+                  "name": "Zayd ibn Thabit Mosque",
+                  "text": "Moscheea Zayd ibn Thabit servește ca loc central de rugăciune islamică pentru comunitatea din împrejurimile Shuwaikh.",
+                  "category": "landmark",
+                  "coords": [
+                        47.937154,
+                        29.323357
+                  ]
+            },
+            {
+                  "name": "Hmood Al-Mutairi Mosque",
+                  "text": "Moscheea Hmood Al-Mutairi oferă un cadru liniștit pentru rugăciunile musulmane zilnice în cartierul Shuwaikh.",
+                  "category": "landmark",
+                  "coords": [
+                        47.94483,
+                        29.327339
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Historical, Vintage & Classic Car Museum",
+                  "text": "The Historical, Vintage & Classic Car Museum in Shuwaikh showcases an impressive collection of meticulously restored automobiles from various eras.",
+                  "category": "museum",
+                  "coords": [
+                        47.943186,
+                        29.338335
+                  ]
+            },
+            {
+                  "name": "Alshaya head office",
+                  "text": "The Alshaya head office in Shuwaikh incorporates a dedicated prayer facility for its corporate staff and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        47.935438,
+                        29.337454
+                  ]
+            },
+            {
+                  "name": "Yusef AlMarzouq & lulwa Al Nassar (Islamic Medicine Center)",
+                  "text": "The Yusef AlMarzouq & Lulwa Al Nassar Islamic Medicine Center in Shuwaikh features a prominent mosque integrated into its healthcare complex.",
+                  "category": "landmark",
+                  "coords": [
+                        47.908649,
+                        29.323554
+                  ]
+            },
+            {
+                  "name": "Shuwaikh University Mosque",
+                  "text": "The Shuwaikh University Mosque provides a spiritual sanctuary for students and faculty on the educational campus.",
+                  "category": "landmark",
+                  "coords": [
+                        47.915748,
+                        29.340423
+                  ]
+            },
+            {
+                  "name": "Abdulmihsin Ahmad Al-Asfour Mosque",
+                  "text": "The Abdulmihsin Ahmad Al-Asfour Mosque is a local Islamic worship center nestled in the historic Shuwaikh district.",
+                  "category": "landmark",
+                  "coords": [
+                        47.908676,
+                        29.338422
+                  ]
+            },
+            {
+                  "name": "Zayd ibn Thabit Mosque",
+                  "text": "The Zayd ibn Thabit Mosque serves as a central place of Islamic prayer for the surrounding community in Shuwaikh.",
+                  "category": "landmark",
+                  "coords": [
+                        47.937154,
+                        29.323357
+                  ]
+            },
+            {
+                  "name": "Hmood Al-Mutairi Mosque",
+                  "text": "The Hmood Al-Mutairi Mosque offers a tranquil setting for daily Muslim prayers within the Shuwaikh neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        47.94483,
+                        29.327339
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "KW-KU",
     coords: [47.9300, 29.3400],
@@ -1029,7 +4827,88 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
     }
   },
   {
-    id: "liberation-monument-history-v2",
+    id: "liberation-monument-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Souk Al-Kabeer/The Big Market",
+                  "text": "Ein großer traditioneller Markt, der in der Nähe des Befreiungsdenkmals verschiedene Waren anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        47.970967,
+                        29.369038
+                  ]
+            },
+            {
+                  "name": "Suad Commercial Complex",
+                  "text": "Ein moderner gewerblicher Marktplatzkomplex in der Nähe des Befreiungsdenkmals.",
+                  "category": "cultural",
+                  "coords": [
+                        47.969943,
+                        29.369001
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Souk Al-Kabeer/The Big Market",
+                  "text": "Egy nagy hagyományos piac, amely különféle árukat kínál a Felszabadulási Emlékmű közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        47.970967,
+                        29.369038
+                  ]
+            },
+            {
+                  "name": "Suad Commercial Complex",
+                  "text": "Egy modern kereskedelmi piackomplexum a Felszabadulási Emlékmű közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        47.969943,
+                        29.369001
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Souk Al-Kabeer/The Big Market",
+                  "text": "O piață tradițională majoră care oferă bunuri diverse în apropierea Monumentului Eliberării.",
+                  "category": "cultural",
+                  "coords": [
+                        47.970967,
+                        29.369038
+                  ]
+            },
+            {
+                  "name": "Suad Commercial Complex",
+                  "text": "Un complex comercial de piață modern situat lângă Monumentul Eliberării.",
+                  "category": "cultural",
+                  "coords": [
+                        47.969943,
+                        29.369001
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Souk Al-Kabeer/The Big Market",
+                  "text": "A major traditional market offering diverse goods near the Liberation Monument.",
+                  "category": "cultural",
+                  "coords": [
+                        47.970967,
+                        29.369038
+                  ]
+            },
+            {
+                  "name": "Suad Commercial Complex",
+                  "text": "A modern commercial marketplace complex located near the Liberation Monument.",
+                  "category": "cultural",
+                  "coords": [
+                        47.969943,
+                        29.369001
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "KW-KU",
     coords: [47.9711, 29.3697],
@@ -1089,7 +4968,160 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
     },
   },
   {
-    id: "al-hashemi-ii-monument-history-v2",
+    id: "al-hashemi-ii-monument-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Hashemi Marine Museum",
+                  "text": "Das Al Hashemi Marine Museum ist ein Museum, das sich der maritimen Geschichte widmet.",
+                  "category": "museum",
+                  "coords": [
+                        48.089345,
+                        29.301498
+                  ]
+            },
+            {
+                  "name": "Messilah Beach",
+                  "text": "Der Messilah Beach ist ein beliebter Strandabschnitt in dieser Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        48.089079,
+                        29.277677
+                  ]
+            },
+            {
+                  "name": "Falah Saad Al Juwaisari",
+                  "text": "Falah Saad Al Juwaisari ist ein lokales islamisches Gotteshaus.",
+                  "category": "landmark",
+                  "coords": [
+                        48.086015,
+                        29.275331
+                  ]
+            },
+            {
+                  "name": "Musaad Al-Mejrin",
+                  "text": "Musaad Al-Mejrin ist eine muslimische Stätte der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        48.084045,
+                        29.29414
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Hashemi Marine Museum",
+                  "text": "Az Al Hashemi Marine Museum a tengerészeti történelemnek szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        48.089345,
+                        29.301498
+                  ]
+            },
+            {
+                  "name": "Messilah Beach",
+                  "text": "A Messilah Beach egy népszerű strand ebben a városban.",
+                  "category": "recreational",
+                  "coords": [
+                        48.089079,
+                        29.277677
+                  ]
+            },
+            {
+                  "name": "Falah Saad Al Juwaisari",
+                  "text": "A Falah Saad Al Juwaisari egy helyi iszlám istentiszteleti hely.",
+                  "category": "landmark",
+                  "coords": [
+                        48.086015,
+                        29.275331
+                  ]
+            },
+            {
+                  "name": "Musaad Al-Mejrin",
+                  "text": "A Musaad Al-Mejrin a régió egyik muszlim helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        48.084045,
+                        29.29414
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Hashemi Marine Museum",
+                  "text": "Muzeul Maritim Al Hashemi este un muzeu dedicat istoriei maritime.",
+                  "category": "museum",
+                  "coords": [
+                        48.089345,
+                        29.301498
+                  ]
+            },
+            {
+                  "name": "Messilah Beach",
+                  "text": "Messilah Beach este o porțiune de plajă populară în acest oraș.",
+                  "category": "recreational",
+                  "coords": [
+                        48.089079,
+                        29.277677
+                  ]
+            },
+            {
+                  "name": "Falah Saad Al Juwaisari",
+                  "text": "Falah Saad Al Juwaisari este un lăcaș de cult islamic local.",
+                  "category": "landmark",
+                  "coords": [
+                        48.086015,
+                        29.275331
+                  ]
+            },
+            {
+                  "name": "Musaad Al-Mejrin",
+                  "text": "Musaad Al-Mejrin este un sit musulman din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        48.084045,
+                        29.29414
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Hashemi Marine Museum",
+                  "text": "The Al Hashemi Marine Museum is a museum dedicated to maritime history.",
+                  "category": "museum",
+                  "coords": [
+                        48.089345,
+                        29.301498
+                  ]
+            },
+            {
+                  "name": "Messilah Beach",
+                  "text": "Messilah Beach is a popular stretch of beach in this city.",
+                  "category": "recreational",
+                  "coords": [
+                        48.089079,
+                        29.277677
+                  ]
+            },
+            {
+                  "name": "Falah Saad Al Juwaisari",
+                  "text": "Falah Saad Al Juwaisari is a local Islamic place of worship.",
+                  "category": "landmark",
+                  "coords": [
+                        48.086015,
+                        29.275331
+                  ]
+            },
+            {
+                  "name": "Musaad Al-Mejrin",
+                  "text": "Musaad Al-Mejrin is a Muslim site in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        48.084045,
+                        29.29414
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "KW-HA",
     coords: [48.0933, 29.2800],

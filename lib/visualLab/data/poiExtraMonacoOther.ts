@@ -1192,7 +1192,7 @@ export const poiExtraMonacoOther: POI[] = [
       "de": [
             {
                   "name": "Opera Plage",
-                  "text": "Opera Plage ist ein bekannter Privatstrand am Blumenmarkt in Nizza.",
+                  "text": "Freizeitstrand Opera Plage im Stadtteil Agriculture Marche Aux Fleurs von Nizza, Frankreich.",
                   "category": "recreational",
                   "coords": [
                         7.272178,
@@ -1201,7 +1201,7 @@ export const poiExtraMonacoOther: POI[] = [
             },
             {
                   "name": "Plage Castel",
-                  "text": "Plage Castel ist ein strandabschnitt in der Nähe des Blumenmarktes in Nizza.",
+                  "text": "Freizeitstrand Plage Castel im Stadtteil Agriculture Marche Aux Fleurs von Nizza, Frankreich.",
                   "category": "recreational",
                   "coords": [
                         7.276273,
@@ -1212,7 +1212,7 @@ export const poiExtraMonacoOther: POI[] = [
       "hu": [
             {
                   "name": "Opera Plage",
-                  "text": "Az Opera Plage egy strand a nizzai virágpiac közelében.",
+                  "text": "Opera Plage szabadidős strand Nizza Agriculture Marche Aux Fleurs negyedében, Franciaországban.",
                   "category": "recreational",
                   "coords": [
                         7.272178,
@@ -1221,7 +1221,7 @@ export const poiExtraMonacoOther: POI[] = [
             },
             {
                   "name": "Plage Castel",
-                  "text": "A Plage Castel egy strand a nizzai virágpiac közelében.",
+                  "text": "Plage Castel szabadidős strand Nizza Agriculture Marche Aux Fleurs negyedében, Franciaországban.",
                   "category": "recreational",
                   "coords": [
                         7.276273,
@@ -1232,7 +1232,7 @@ export const poiExtraMonacoOther: POI[] = [
       "ro": [
             {
                   "name": "Opera Plage",
-                  "text": "Opera Plage este o plajă situată în zona pieței de flori din Nisa.",
+                  "text": "Plaja de agrement Opera Plage în cartierul Agriculture Marche Aux Fleurs din Nisa, Franța.",
                   "category": "recreational",
                   "coords": [
                         7.272178,
@@ -1241,7 +1241,7 @@ export const poiExtraMonacoOther: POI[] = [
             },
             {
                   "name": "Plage Castel",
-                  "text": "Plage Castel este o plajă situată lângă piața de flori din Nisa.",
+                  "text": "Plaja de agrement Plage Castel în cartierul Agriculture Marche Aux Fleurs din Nisa, Franța.",
                   "category": "recreational",
                   "coords": [
                         7.276273,
@@ -1252,7 +1252,7 @@ export const poiExtraMonacoOther: POI[] = [
       "en": [
             {
                   "name": "Opera Plage",
-                  "text": "Opera Plage is a beach located near the Flower Market in Nice.",
+                  "text": "Recreational beach Opera Plage in the Agriculture Marche Aux Fleurs area of Nice, France.",
                   "category": "recreational",
                   "coords": [
                         7.272178,
@@ -1261,7 +1261,7 @@ export const poiExtraMonacoOther: POI[] = [
             },
             {
                   "name": "Plage Castel",
-                  "text": "Plage Castel is a beach located near the Flower Market in Nice.",
+                  "text": "Recreational beach Plage Castel in the Agriculture Marche Aux Fleurs area of Nice, France.",
                   "category": "recreational",
                   "coords": [
                         7.276273,

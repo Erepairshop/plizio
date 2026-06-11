@@ -48,7 +48,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Dhahabu Arts Centre",
-                  "text": "Ein Zentrum für bildende Kunst und Kunsthandwerk in Daressalam.",
+                  "text": "Ein Kunstzentrum in Daressalam mit Schwerpunkt auf zeitgenössischer afrikanischer Kunst, benannt nach dem Swahili-Wort für Gold.",
                   "category": "cultural",
                   "coords": [
                         39.221148,
@@ -95,7 +95,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Dhahabu Arts Centre",
-                  "text": "Képzőművészeti és kézműves központ Dar es-Salaamban.",
+                  "text": "Egy művészeti központ Dar es Salaamban, amely a kortárs afrikai művészetre összpontosít, nevét a szuahéli arany szóról kapta.",
                   "category": "cultural",
                   "coords": [
                         39.221148,
@@ -142,7 +142,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Dhahabu Arts Centre",
-                  "text": "Un centru pentru arte vizuale și meșteșuguri în Dar es Salaam.",
+                  "text": "Un centru de artă din Dar es Salaam, axat pe arta africană contemporană, numit după cuvântul swahili pentru aur.",
                   "category": "cultural",
                   "coords": [
                         39.221148,
@@ -189,7 +189,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Dhahabu Arts Centre",
-                  "text": "A center for visual arts and crafts in Dar es Salaam.",
+                  "text": "An arts centre in Dar es Salaam focusing on contemporary African art, named after the Swahili word for gold.",
                   "category": "cultural",
                   "coords": [
                         39.221148,
@@ -260,7 +260,160 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "tz-mwanza-cities-v2", "sights": {"de": [{"name": "Akimi Sports Bar and Grill", "text": "Ein lokal bekanntes Museum in Mwanza.", "category": "museum", "coords": [32.90127, -2.494334]}, {"name": "Bismarck Rock", "text": "Eine markante Felsformation im Victoriasee bei Mwanza.", "category": "landmark", "coords": [32.89472, -2.518853]}, {"name": "Total", "text": "Die Kunstgalerie Total in Mwanza ist ein Museum, das sich der zeitgenössischen Kunst in Tansania widmet. Besucher können hier Werke bewundern, die die lokale und überregionale Kunstszene repräsentieren.", "category": "museum", "coords": [32.899182, -2.517676]}, {"name": "Art gallery", "text": "Ein Ausstellungsraum für lokale Kunstwerke in Mwanza.", "category": "museum", "coords": [32.901304, -2.516116]}], "hu": [{"name": "Akimi Sports Bar and Grill", "text": "Helyi múzeum Mwanza városában.", "category": "museum", "coords": [32.90127, -2.494334]}, {"name": "Bismarck Rock", "text": "Jellegzetes sziklaképződmény a Viktória-tóban, Mwanza közelében.", "category": "landmark", "coords": [32.89472, -2.518853]}, {"name": "Total", "text": "A mwanzai Total egy múzeum, amely a tanzániai kortárs művészetnek szenteli magát. A látogatók olyan alkotásokat csodálhatnak meg itt, amelyek a helyi művészeti szcénát képviselik.", "category": "museum", "coords": [32.899182, -2.517676]}, {"name": "Art gallery", "text": "Helyi művészeti alkotások kiállítóhelye Mwanzában.", "category": "museum", "coords": [32.901304, -2.516116]}], "ro": [{"name": "Akimi Sports Bar and Grill", "text": "Un muzeu local situat în Mwanza.", "category": "museum", "coords": [32.90127, -2.494334]}, {"name": "Bismarck Rock", "text": "O formațiune stâncoasă distinctivă în Lacul Victoria, lângă Mwanza.", "category": "landmark", "coords": [32.89472, -2.518853]}, {"name": "Total", "text": "Galeria Total din Mwanza este un muzeu dedicat artei contemporane din Tanzania. Vizitatorii pot admira aici lucrări de artă care reflectă creativitatea scenei locale.", "category": "museum", "coords": [32.899182, -2.517676]}, {"name": "Art gallery", "text": "Un spațiu de expoziție pentru opere de artă locale în Mwanza.", "category": "museum", "coords": [32.901304, -2.516116]}], "en": [{"name": "Akimi Sports Bar and Grill", "text": "A local museum located in Mwanza.", "category": "museum", "coords": [32.90127, -2.494334]}, {"name": "Bismarck Rock", "text": "A prominent rock formation in Lake Victoria near Mwanza.", "category": "landmark", "coords": [32.89472, -2.518853]}, {"name": "Total", "text": "The Total art gallery in Mwanza is a museum dedicated to contemporary art in Tanzania. Visitors can admire works here that represent the creativity of the local art scene.", "category": "museum", "coords": [32.899182, -2.517676]}, {"name": "Art gallery", "text": "An exhibition space for local artworks in Mwanza.", "category": "museum", "coords": [32.901304, -2.516116]}]},
+    id: "tz-mwanza-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Akimi Sports Bar and Grill",
+                  "text": "Eine Sportbar in Mwanza, die auch Sportmemorabilia als Museum ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        32.90127,
+                        -2.494334
+                  ]
+            },
+            {
+                  "name": "Bismarck Rock",
+                  "text": "Eine markante Felsformation im Victoriasee bei Mwanza.",
+                  "category": "landmark",
+                  "coords": [
+                        32.89472,
+                        -2.518853
+                  ]
+            },
+            {
+                  "name": "Total",
+                  "text": "Die Kunstgalerie Total in Mwanza ist ein Museum, das sich der zeitgenössischen Kunst in Tansania widmet. Besucher können hier Werke bewundern, die die lokale und überregionale Kunstszene repräsentieren.",
+                  "category": "museum",
+                  "coords": [
+                        32.899182,
+                        -2.517676
+                  ]
+            },
+            {
+                  "name": "Art gallery",
+                  "text": "Eine Kunstgalerie in Mwanza, die Werke lokaler tansanischer Künstler zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        32.901304,
+                        -2.516116
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Akimi Sports Bar and Grill",
+                  "text": "Egy sportbár Mwanzában, amely sportemlékeket is kiállít múzeumként.",
+                  "category": "museum",
+                  "coords": [
+                        32.90127,
+                        -2.494334
+                  ]
+            },
+            {
+                  "name": "Bismarck Rock",
+                  "text": "Jellegzetes sziklaképződmény a Viktória-tóban, Mwanza közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        32.89472,
+                        -2.518853
+                  ]
+            },
+            {
+                  "name": "Total",
+                  "text": "A mwanzai Total egy múzeum, amely a tanzániai kortárs művészetnek szenteli magát. A látogatók olyan alkotásokat csodálhatnak meg itt, amelyek a helyi művészeti szcénát képviselik.",
+                  "category": "museum",
+                  "coords": [
+                        32.899182,
+                        -2.517676
+                  ]
+            },
+            {
+                  "name": "Art gallery",
+                  "text": "Egy művészeti galéria Mwanzában, amely helyi tanzániai művészek alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        32.901304,
+                        -2.516116
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Akimi Sports Bar and Grill",
+                  "text": "Un bar sportiv în Mwanza, care expune și memorabilia sportive ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        32.90127,
+                        -2.494334
+                  ]
+            },
+            {
+                  "name": "Bismarck Rock",
+                  "text": "O formațiune stâncoasă distinctivă în Lacul Victoria, lângă Mwanza.",
+                  "category": "landmark",
+                  "coords": [
+                        32.89472,
+                        -2.518853
+                  ]
+            },
+            {
+                  "name": "Total",
+                  "text": "Galeria Total din Mwanza este un muzeu dedicat artei contemporane din Tanzania. Vizitatorii pot admira aici lucrări de artă care reflectă creativitatea scenei locale.",
+                  "category": "museum",
+                  "coords": [
+                        32.899182,
+                        -2.517676
+                  ]
+            },
+            {
+                  "name": "Art gallery",
+                  "text": "O galerie de artă în Mwanza, care prezintă lucrări ale artiștilor locali tanzanieni.",
+                  "category": "museum",
+                  "coords": [
+                        32.901304,
+                        -2.516116
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Akimi Sports Bar and Grill",
+                  "text": "A sports bar in Mwanza that also displays sports memorabilia as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        32.90127,
+                        -2.494334
+                  ]
+            },
+            {
+                  "name": "Bismarck Rock",
+                  "text": "A prominent rock formation in Lake Victoria near Mwanza.",
+                  "category": "landmark",
+                  "coords": [
+                        32.89472,
+                        -2.518853
+                  ]
+            },
+            {
+                  "name": "Total",
+                  "text": "The Total art gallery in Mwanza is a museum dedicated to contemporary art in Tanzania. Visitors can admire works here that represent the creativity of the local art scene.",
+                  "category": "museum",
+                  "coords": [
+                        32.899182,
+                        -2.517676
+                  ]
+            },
+            {
+                  "name": "Art gallery",
+                  "text": "An art gallery in Mwanza showcasing local Tanzanian artists.",
+                  "category": "museum",
+                  "coords": [
+                        32.901304,
+                        -2.516116
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TZ-19",
     coords: [32.9, -2.5167],
@@ -417,7 +570,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Askari Monument",
-                  "text": "Ein Denkmal in Tanga, das den Askari-Soldaten gewidmet ist.",
+                  "text": "Ein historisches Denkmal in Tanga zu Ehren afrikanischer Soldaten, die in Kolonialkriegen dienten.",
                   "category": "historical",
                   "coords": [
                         39.106687,
@@ -426,7 +579,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Leuchtturm",
-                  "text": "Ein Leuchtturm, der als Wahrzeichen und Sehenswürdigkeit in Tanga dient.",
+                  "text": "Ein Küstenleuchtturm in Tanga, der Schiffe in den Hafen lotst.",
                   "category": "landmark",
                   "coords": [
                         39.121423,
@@ -444,7 +597,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Regal Hall",
-                  "text": "Ein Veranstaltungsort für Kunst- und Kulturereignisse in Tanga.",
+                  "text": "Eine kulturelle Halle in Tanga, die für Konzerte und Veranstaltungen genutzt wird, möglicherweise aus der Kolonialzeit.",
                   "category": "cultural",
                   "coords": [
                         39.104777,
@@ -464,7 +617,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Askari Monument",
-                  "text": "Az aszkári katonáknak szentelt emlékmű Tangában.",
+                  "text": "Egy történelmi emlékmű Tangában, amely az afrikai katonák előtt tiszteleg, akik a gyarmati háborúkban szolgáltak.",
                   "category": "historical",
                   "coords": [
                         39.106687,
@@ -473,7 +626,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Világítótorony",
-                  "text": "Világítótorony, amely Tanga egyik nevezetessége.",
+                  "text": "Egy parti világítótorony Tangában, amely a hajókat a kikötőbe irányítja.",
                   "category": "landmark",
                   "coords": [
                         39.121423,
@@ -491,7 +644,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Regal Hall",
-                  "text": "Művészeti és kulturális események helyszíne Tangában.",
+                  "text": "Egy kulturális terem Tangában, amelyet koncertekre és rendezvényekre használnak, valószínűleg gyarmati kori épület.",
                   "category": "cultural",
                   "coords": [
                         39.104777,
@@ -511,7 +664,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Askari Monument",
-                  "text": "Un monument din Tanga dedicat soldaților Askari.",
+                  "text": "Un monument istoric în Tanga, care onorează soldații africani care au servit în războaiele coloniale.",
                   "category": "historical",
                   "coords": [
                         39.106687,
@@ -520,7 +673,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lighthouse",
-                  "text": "Un far care servește drept punct de reper și atracție în Tanga.",
+                  "text": "Un far de coastă în Tanga, care ghidează navele în port.",
                   "category": "landmark",
                   "coords": [
                         39.121423,
@@ -538,7 +691,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Regal Hall",
-                  "text": "Un spațiu pentru evenimente artistice și culturale în Tanga.",
+                  "text": "O sală culturală în Tanga, folosită pentru concerte și evenimente, probabil o clădire din perioada colonială.",
                   "category": "cultural",
                   "coords": [
                         39.104777,
@@ -558,7 +711,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Askari Monument",
-                  "text": "A monument in Tanga dedicated to the Askari soldiers.",
+                  "text": "A historical monument in Tanga honoring African soldiers who served in colonial wars.",
                   "category": "historical",
                   "coords": [
                         39.106687,
@@ -567,7 +720,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lighthouse",
-                  "text": "A lighthouse serving as a landmark and attraction in Tanga.",
+                  "text": "A coastal lighthouse in Tanga guiding ships into the harbor.",
                   "category": "landmark",
                   "coords": [
                         39.121423,
@@ -585,7 +738,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Regal Hall",
-                  "text": "A venue for arts and cultural events in Tanga.",
+                  "text": "A cultural hall in Tanga used for concerts and gatherings, possibly a colonial-era building.",
                   "category": "cultural",
                   "coords": [
                         39.104777,
@@ -1110,7 +1263,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Nyasho Garden",
-                  "text": "Ein öffentlicher Garten und eine Sehenswürdigkeit in Musoma.",
+                  "text": "Ein öffentlicher Garten in Musoma, bekannt für seine friedliche Atmosphäre und lokale Flora.",
                   "category": "landmark",
                   "coords": [
                         33.805639,
@@ -1121,7 +1274,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Nyasho Garden",
-                  "text": "Nyilvános kert és látnivaló Musoma városában.",
+                  "text": "Egy nyilvános kert Musomában, békés hangulatáról és helyi növényvilágáról ismert.",
                   "category": "landmark",
                   "coords": [
                         33.805639,
@@ -1132,7 +1285,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Nyasho Garden",
-                  "text": "O grădină publică și atracție situată în Musoma.",
+                  "text": "O grădină publică în Musoma, cunoscută pentru atmosfera sa pașnică și flora locală.",
                   "category": "landmark",
                   "coords": [
                         33.805639,
@@ -1143,7 +1296,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Nyasho Garden",
-                  "text": "A public garden and attraction located in Musoma.",
+                  "text": "A public garden in Musoma, known for its peaceful atmosphere and local flora.",
                   "category": "landmark",
                   "coords": [
                         33.805639,
@@ -1317,7 +1470,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Mkwawa Magic Site",
-                  "text": "Eine historische Stätte mit Tiergehegen in Iringa.",
+                  "text": "Eine familienfreundliche historische Stätte in Iringa, die mit Häuptling Mkwawa verbunden ist und Aktivitäten für die ganze Familie bietet.",
                   "category": "family",
                   "coords": [
                         35.687513,
@@ -1355,7 +1508,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Mkwawa Magic Site",
-                  "text": "Történelmi helyszín állatkifutókkal Iringában.",
+                  "text": "Egy családbarát történelmi helyszín Iringában, amely Mkwawa főnökhöz kapcsolódik, és családi programokat kínál.",
                   "category": "family",
                   "coords": [
                         35.687513,
@@ -1393,7 +1546,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Mkwawa Magic Site",
-                  "text": "Un sit istoric cu incinte pentru animale în Iringa.",
+                  "text": "Un sit istoric prietenos cu familia în Iringa, asociat cu șeful Mkwawa, oferind activități pentru întreaga familie.",
                   "category": "family",
                   "coords": [
                         35.687513,
@@ -1431,7 +1584,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Mkwawa Magic Site",
-                  "text": "A historic site with animal enclosures in Iringa.",
+                  "text": "A family-friendly historical site in Iringa associated with Chief Mkwawa, offering activities for the whole family.",
                   "category": "family",
                   "coords": [
                         35.687513,
@@ -2010,7 +2163,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Roman Catholic Nyankumbu",
-                  "text": "Eine römisch-katholische Einrichtung im Stadtteil Nyankumbu von Geita.",
+                  "text": "Eine römisch-katholische Kirche in Nyankumbu, Geita, bekannt für ihre lebendige Gemeinde.",
                   "category": "landmark",
                   "coords": [
                         32.236685,
@@ -2030,7 +2183,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Roman Catholic Nyankumbu",
-                  "text": "Római katolikus intézmény Geita Nyankumbu negyedében.",
+                  "text": "Egy római katolikus templom Nyankumbuban, Geitában, élénk közösségéről ismert.",
                   "category": "landmark",
                   "coords": [
                         32.236685,
@@ -2050,7 +2203,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Roman Catholic Nyankumbu",
-                  "text": "O instituție romano-catolică în cartierul Nyankumbu din Geita.",
+                  "text": "O biserică romano-catolică în Nyankumbu, Geita, cunoscută pentru comunitatea sa vibrantă.",
                   "category": "landmark",
                   "coords": [
                         32.236685,
@@ -2070,7 +2223,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Roman Catholic Nyankumbu",
-                  "text": "A Roman Catholic institution in the Nyankumbu area of Geita.",
+                  "text": "A Roman Catholic church in Nyankumbu, Geita, known for its vibrant community.",
                   "category": "landmark",
                   "coords": [
                         32.236685,
@@ -2127,7 +2280,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Nyamisangura Airtel Monument",
-                  "text": "Ein lokales Denkmal in der Stadt Tarime.",
+                  "text": "Ein historisches Denkmal in Tarime, möglicherweise zur Erinnerung an ein lokales Ereignis, gesponsert von Airtel.",
                   "category": "historical",
                   "coords": [
                         34.374302,
@@ -2138,7 +2291,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Nyamisangura Airtel Monument",
-                  "text": "Helyi emlékmű Tarime városában.",
+                  "text": "Egy történelmi emlékmű Tarime-ban, amely valószínűleg egy helyi eseményre emlékeztet, az Airtel szponzorálásával.",
                   "category": "historical",
                   "coords": [
                         34.374302,
@@ -2149,7 +2302,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Nyamisangura Airtel Monument",
-                  "text": "Un monument local situat în orașul Tarime.",
+                  "text": "Un monument istoric în Tarime, posibil comemorând un eveniment local, sponsorizat de Airtel.",
                   "category": "historical",
                   "coords": [
                         34.374302,
@@ -2160,7 +2313,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Nyamisangura Airtel Monument",
-                  "text": "A local monument located in the town of Tarime.",
+                  "text": "A historical monument in Tarime, possibly commemorating a local event, sponsored by Airtel.",
                   "category": "historical",
                   "coords": [
                         34.374302,
@@ -2469,7 +2622,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Nyumba ya Mungu Janction",
-                  "text": "Ein bekannter Knotenpunkt und eine Sehenswürdigkeit in der Gegend von Same.",
+                  "text": "Ein Kirchenwahrzeichen an einer Kreuzung in Same, bekannt als ‚Haus Gottes‘.",
                   "category": "landmark",
                   "coords": [
                         37.729583,
@@ -2480,7 +2633,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Nyumba ya Mungu Janction",
-                  "text": "Nevezetes csomópont és látnivaló Same környékén.",
+                  "text": "Egy templom nevezetesség egy kereszteződésben Same-ban, „Isten házaként” ismert.",
                   "category": "landmark",
                   "coords": [
                         37.729583,
@@ -2491,7 +2644,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Nyumba ya Mungu Janction",
-                  "text": "O intersecție notabilă și atracție în zona Same.",
+                  "text": "Un reper bisericesc la o intersecție în Same, cunoscut ca „Casa lui Dumnezeu”.",
                   "category": "landmark",
                   "coords": [
                         37.729583,
@@ -2502,7 +2655,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Nyumba ya Mungu Janction",
-                  "text": "A notable junction and attraction in the Same area.",
+                  "text": "A church landmark at a junction in Same, known as the 'House of God'.",
                   "category": "landmark",
                   "coords": [
                         37.729583,
@@ -2694,7 +2847,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Performance Hall",
-                  "text": "Ein Veranstaltungsort für kulturelle Aufführungen in Bagamoyo.",
+                  "text": "Eine kulturelle Aufführungshalle in Bagamoyo, die traditionelle und moderne Shows beherbergt.",
                   "category": "cultural",
                   "coords": [
                         38.913473,
@@ -2748,7 +2901,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Cavaran Serai",
-                  "text": "Ein historischer Rastplatz für Karawanen in Bagamoyo.",
+                  "text": "Eine historische Karawanserei in Bagamoyo, eine Raststätte für antike Handelsrouten.",
                   "category": "landmark",
                   "coords": [
                         38.906273,
@@ -2757,7 +2910,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Art Market;Bagamoyo Art Market",
-                  "text": "Ein Zentrum für lokales Kunsthandwerk in Bagamoyo.",
+                  "text": "Der Bagamoyo-Kunstmarkt, ein lebhafter Open-Air-Markt mit lokalen Kunsthandwerken und Kunstwerken.",
                   "category": "cultural",
                   "coords": [
                         38.908462,
@@ -2777,7 +2930,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Performance Hall",
-                  "text": "Kulturális előadások helyszíne Bagamoyóban.",
+                  "text": "Egy kulturális előadóterem Bagamoyoban, amely hagyományos és modern műsoroknak ad otthont.",
                   "category": "cultural",
                   "coords": [
                         38.913473,
@@ -2831,7 +2984,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Cavaran Serai",
-                  "text": "Történelmi pihenőhely karavánok számára Bagamoyóban.",
+                  "text": "Egy történelmi karavánszeráj Bagamoyoban, pihenőhely az ókori kereskedelmi útvonalakon.",
                   "category": "landmark",
                   "coords": [
                         38.906273,
@@ -2840,7 +2993,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Art Market;Bagamoyo Art Market",
-                  "text": "Helyi kézműves alkotások központja Bagamoyóban.",
+                  "text": "A Bagamoyo Művészeti Piac, egy nyüzsgő szabadtéri piac, ahol helyi kézműves termékeket és műalkotásokat árulnak.",
                   "category": "cultural",
                   "coords": [
                         38.908462,
@@ -2860,7 +3013,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Performance Hall",
-                  "text": "Un loc de desfășurare pentru spectacole culturale în Bagamoyo.",
+                  "text": "O sală de spectacole culturală în Bagamoyo, care găzduiește spectacole tradiționale și moderne.",
                   "category": "cultural",
                   "coords": [
                         38.913473,
@@ -2914,7 +3067,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Cavaran Serai",
-                  "text": "Un loc istoric de popas pentru caravane în Bagamoyo.",
+                  "text": "Un caravanserai istoric în Bagamoyo, un loc de odihnă pe rutele comerciale antice.",
                   "category": "landmark",
                   "coords": [
                         38.906273,
@@ -2923,7 +3076,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Art Market;Bagamoyo Art Market",
-                  "text": "Un centru pentru meșteșuguri locale în Bagamoyo.",
+                  "text": "Piața de Artă Bagamoyo, o piață vibrantă în aer liber care vinde meșteșuguri și opere de artă locale.",
                   "category": "cultural",
                   "coords": [
                         38.908462,
@@ -2943,7 +3096,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Performance Hall",
-                  "text": "A venue for cultural performances in Bagamoyo.",
+                  "text": "A cultural performance hall in Bagamoyo, hosting traditional and modern shows.",
                   "category": "cultural",
                   "coords": [
                         38.913473,
@@ -2997,7 +3150,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Cavaran Serai",
-                  "text": "A historic resting place for caravans in Bagamoyo.",
+                  "text": "A historic caravan serai in Bagamoyo, a rest stop for ancient trade routes.",
                   "category": "landmark",
                   "coords": [
                         38.906273,
@@ -3006,7 +3159,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Art Market;Bagamoyo Art Market",
-                  "text": "A center for local arts and crafts in Bagamoyo.",
+                  "text": "The Bagamoyo Art Market, a vibrant outdoor market selling local crafts and artworks.",
                   "category": "cultural",
                   "coords": [
                         38.908462,
@@ -3351,7 +3504,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Ujenzi-Chunya",
-                  "text": "Ein Aussichtspunkt mit Blick über die Region Chunya.",
+                  "text": "Ein Naturgebiet in Chunya, bekannt für seine malerischen Landschaften und Wanderwege.",
                   "category": "natural",
                   "coords": [
                         33.422433,
@@ -3362,7 +3515,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Ujenzi-Chunya",
-                  "text": "Kilátópont, ahonnan kilátás nyílik a Chunya régióra.",
+                  "text": "Egy természeti terület Chunyában, festői tájairól és túraútvonalairól ismert.",
                   "category": "natural",
                   "coords": [
                         33.422433,
@@ -3373,7 +3526,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Ujenzi-Chunya",
-                  "text": "Un punct de observație cu vedere asupra regiunii Chunya.",
+                  "text": "O zonă naturală în Chunya, cunoscută pentru peisajele sale pitorești și traseele de drumeție.",
                   "category": "natural",
                   "coords": [
                         33.422433,
@@ -3384,7 +3537,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Ujenzi-Chunya",
-                  "text": "A viewpoint offering vistas over the Chunya region.",
+                  "text": "A natural area in Chunya, known for its scenic landscapes and hiking trails.",
                   "category": "natural",
                   "coords": [
                         33.422433,
@@ -3522,7 +3675,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Main trail head",
-                  "text": "Der Ausgangspunkt für Wanderwege in der Nähe von Lushoto.",
+                  "text": "Der Hauptwanderweg-Ausgangspunkt in Lushoto, Startpunkt für Wanderungen im Usambara-Gebirge.",
                   "category": "landmark",
                   "coords": [
                         38.295136,
@@ -3531,7 +3684,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
             },
             {
                   "name": "New viewpoint and campsite",
-                  "text": "Ein Rastplatz für Wanderer mit Aussicht auf die Berge.",
+                  "text": "Ein neu angelegter Aussichtspunkt und Campingplatz in Lushoto mit Panoramablick auf die Berge.",
                   "category": "natural",
                   "coords": [
                         38.279237,
@@ -3596,7 +3749,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Main trail head",
-                  "text": "Túraútvonalak kiindulópontja Lushoto közelében.",
+                  "text": "A fő túraútvonal kiindulópontja Lushotoban, a Usambara-hegység túráinak kiindulópontja.",
                   "category": "landmark",
                   "coords": [
                         38.295136,
@@ -3605,7 +3758,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
             },
             {
                   "name": "New viewpoint and campsite",
-                  "text": "Pihenőhely túrázók számára, kilátással a hegyekre.",
+                  "text": "Egy újonnan kialakított kilátó és kemping Lushotoban, panorámás kilátással a hegyekre.",
                   "category": "natural",
                   "coords": [
                         38.279237,
@@ -3670,7 +3823,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Main trail head",
-                  "text": "Punctul de plecare pentru trasee de drumeție lângă Lushoto.",
+                  "text": "Punctul principal de pornire a traseelor în Lushoto, punct de plecare pentru drumeții în Munții Usambara.",
                   "category": "landmark",
                   "coords": [
                         38.295136,
@@ -3679,7 +3832,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
             },
             {
                   "name": "New viewpoint and campsite",
-                  "text": "Un loc de popas pentru drumeți, cu vedere spre munți.",
+                  "text": "Un punct de belvedere și camping nou amenajat în Lushoto, cu priveliști panoramice asupra munților.",
                   "category": "natural",
                   "coords": [
                         38.279237,
@@ -3744,7 +3897,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Main trail head",
-                  "text": "The starting point for hiking trails near Lushoto.",
+                  "text": "The main trailhead in Lushoto, starting point for hikes in the Usambara Mountains.",
                   "category": "landmark",
                   "coords": [
                         38.295136,
@@ -3753,7 +3906,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
             },
             {
                   "name": "New viewpoint and campsite",
-                  "text": "A resting spot for hikers with views of the mountains.",
+                  "text": "A newly developed viewpoint and campsite in Lushoto, offering panoramic views of the mountains.",
                   "category": "natural",
                   "coords": [
                         38.279237,

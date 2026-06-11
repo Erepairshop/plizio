@@ -3,7 +3,700 @@ import type { POI } from "./poi";
 
 export const poiExtraLebanonLandmarksV2: POI[] = [
   {
-    id: "jeita-grotto-landmarks-v2",
+    id: "jeita-grotto-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Donkeys",
+                  "text": "Traditionelles Eselreiten für Besucher in der Nähe des Eingangs zur berühmten Jeita-Grotte.",
+                  "category": "landmark",
+                  "coords": [
+                        35.626227,
+                        33.945991
+                  ]
+            },
+            {
+                  "name": "Marine and Wildlife Museum",
+                  "text": "Dieses Museum in der Nähe der Jeita-Grotte zeigt eine beeindruckende Sammlung präparierter Meerestiere und Wildtiere des Libanon.",
+                  "category": "museum",
+                  "coords": [
+                        35.633721,
+                        33.948672
+                  ]
+            },
+            {
+                  "name": "Lower Grotto",
+                  "text": "Der untere Teil der Jeita-Grotte wird auf einer Bootsfahrt über einen unterirdischen Fluss mit faszinierenden Kalksteinformationen erkundet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.644108,
+                        33.943905
+                  ]
+            },
+            {
+                  "name": "Mashrou3 Day3a",
+                  "text": "Dieses Projekt in den Hügeln von Jeita bietet Besuchern einen Einblick in das traditionelle ländliche Leben und die libanesische Kultur.",
+                  "category": "landmark",
+                  "coords": [
+                        35.642301,
+                        33.920974
+                  ]
+            },
+            {
+                  "name": "Municipality of Ballouneh",
+                  "text": "Das Verwaltungszentrum von Ballouneh liegt in den bergigen Ausläufern des Keserwan-Distrikts mit Blick auf die umliegenden Täler.",
+                  "category": "historical",
+                  "coords": [
+                        35.671813,
+                        33.953146
+                  ]
+            },
+            {
+                  "name": "Jeita-Grotte",
+                  "text": "Die Jeita-Grotte ist ein riesiges Höhlensystem mit einem der weltweit größten Stalaktiten in der oberen Galerie.",
+                  "category": "landmark",
+                  "coords": [
+                        35.641868,
+                        33.943388
+                  ]
+            },
+            {
+                  "name": "St Sarkis and Bakhos Church",
+                  "text": "Diese maronitische Kirche in Jeita ist den christlichen Märtyrern Sarkis und Bakhos gewidmet und im traditionellen Bergstil erbaut.",
+                  "category": "religious",
+                  "coords": [
+                        35.664139,
+                        33.900063
+                  ]
+            },
+            {
+                  "name": "St Anthony of Padova",
+                  "text": "Eine christliche Kirche in der Region Jeita, die dem Heiligen Antonius von Padua, dem Schutzpatron der Suchenden, gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        35.674039,
+                        33.888795
+                  ]
+            },
+            {
+                  "name": "Mar Gerges Church",
+                  "text": "Diese dem Heiligen Georg gewidmete Kirche ist ein zentraler Treffpunkt für die christliche Gemeinde in den Bergen von Jeita.",
+                  "category": "landmark",
+                  "coords": [
+                        35.672614,
+                        33.887302
+                  ]
+            },
+            {
+                  "name": "Church Saint Peter & Paul",
+                  "text": "Eine lokale christliche Kirche in Jeita, die zu Ehren der Apostel Petrus und Paulus errichtet wurde und den Gläubigen der Region dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.639738,
+                        33.917333
+                  ]
+            },
+            {
+                  "name": "Our Lady of Deliverance Breij",
+                  "text": "Dieses maronitische Heiligtum in Breij liegt malerisch über den schroffen Tälern und bietet einen Ort der Stille und Andacht.",
+                  "category": "landmark",
+                  "coords": [
+                        35.629364,
+                        33.923515
+                  ]
+            },
+            {
+                  "name": "Saint Elias Church",
+                  "text": "Eine traditionelle Steinkirche in Jeita, die dem Propheten Elias gewidmet ist und oft für lokale religiöse Feste genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        35.624269,
+                        33.933724
+                  ]
+            },
+            {
+                  "name": "Saint Maroun Church",
+                  "text": "Diese Kirche des maronitischen Ritus ehrt den Heiligen Maron, den Begründer der bedeutendsten christlichen Gemeinschaft des Libanon.",
+                  "category": "landmark",
+                  "coords": [
+                        35.648047,
+                        33.950495
+                  ]
+            },
+            {
+                  "name": "St. Maroun Church",
+                  "text": "Ein katholisches Gotteshaus des maronitischen Ritus in Jeita, das die tief verwurzelte christliche Tradition der Region widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.638137,
+                        33.934979
+                  ]
+            },
+            {
+                  "name": "Saint Elias",
+                  "text": "Eine kleine Kapelle oder Gedenkstätte für den Heiligen Elias, die in der bergigen Landschaft von Jeita zur Besinnung einlädt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.64417,
+                        33.923254
+                  ]
+            },
+            {
+                  "name": "St. Elias Church",
+                  "text": "Diese dem Propheten Elias geweihte Kirche ist ein markantes religiöses Bauwerk in der Gemeinde Jeita.",
+                  "category": "landmark",
+                  "coords": [
+                        35.670917,
+                        33.954142
+                  ]
+            },
+            {
+                  "name": "Mar Abda - Sehayle",
+                  "text": "Die historische Kirche Mar Abda in Sehayle ist ein bedeutendes religiöses Denkmal in der Nähe der berühmten Jeita-Grotte.",
+                  "category": "landmark",
+                  "coords": [
+                        35.658405,
+                        33.958213
+                  ]
+            },
+            {
+                  "name": "Sainte Rafqa Church",
+                  "text": "Diese moderne Kirche ist der Heiligen Rafqa gewidmet, einer der meistverehrten maronitischen Heiligen des Libanon.",
+                  "category": "landmark",
+                  "coords": [
+                        35.657317,
+                        33.958524
+                  ]
+            },
+            {
+                  "name": "Mar Youssef Church",
+                  "text": "Die dem Heiligen Josef gewidmete Pfarrkirche von Jeita liegt im Herzen des Keserwan-Gebirges.",
+                  "category": "landmark",
+                  "coords": [
+                        35.65439,
+                        33.958046
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Donkeys",
+                  "text": "Hagyományos szamárlovaglás a látogatók számára a híres Jeita-barlang bejárata közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.626227,
+                        33.945991
+                  ]
+            },
+            {
+                  "name": "Marine and Wildlife Museum",
+                  "text": "A Jeita-barlang közelében található múzeum kitömött tengeri és erdei állatok gazdag gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        35.633721,
+                        33.948672
+                  ]
+            },
+            {
+                  "name": "Lower Grotto",
+                  "text": "A Jeita-barlang alsó szakaszát egy föld alatti folyón tett csónaktúrával lehet felfedezni, látványos mészkőképződmények között.",
+                  "category": "landmark",
+                  "coords": [
+                        35.644108,
+                        33.943905
+                  ]
+            },
+            {
+                  "name": "Mashrou3 Day3a",
+                  "text": "Ez a Jeita dombjai között található projekt a hagyományos vidéki életet és a libanoni kultúrát mutatja be a látogatóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        35.642301,
+                        33.920974
+                  ]
+            },
+            {
+                  "name": "Municipality of Ballouneh",
+                  "text": "Ballouneh közigazgatási központja a Keserwan-vidék hegyvidéki lábánál fekszik, kilátással a környező völgyekre.",
+                  "category": "historical",
+                  "coords": [
+                        35.671813,
+                        33.953146
+                  ]
+            },
+            {
+                  "name": "Jeita Grotto",
+                  "text": "A Jeita-barlang egy hatalmas barlangrendszer, amelynek felső galériájában a világ egyik legnagyobb függőcseppköve található.",
+                  "category": "landmark",
+                  "coords": [
+                        35.641868,
+                        33.943388
+                  ]
+            },
+            {
+                  "name": "St Sarkis and Bakhos Church",
+                  "text": "Ezt a jeitai maronita templomot Sarkis és Bakhos keresztény vértanúknak szentelték, hagyományos hegyvidéki stílusban épült.",
+                  "category": "religious",
+                  "coords": [
+                        35.664139,
+                        33.900063
+                  ]
+            },
+            {
+                  "name": "St Anthony of Padova",
+                  "text": "A Jeita régió egyik keresztény temploma, amelyet Páduai Szent Antalnak, az elveszett dolgok védőszentjének szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        35.674039,
+                        33.888795
+                  ]
+            },
+            {
+                  "name": "Mar Gerges Church",
+                  "text": "Szent Györgynek szentelt templom, amely a jeitai hegyek keresztény közösségének központi találkozóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        35.672614,
+                        33.887302
+                  ]
+            },
+            {
+                  "name": "Church Saint Peter & Paul",
+                  "text": "Egy helyi keresztény templom Jeitában, amelyet Péter és Pál apostolok tiszteletére emeltek a környék hívői számára.",
+                  "category": "landmark",
+                  "coords": [
+                        35.639738,
+                        33.917333
+                  ]
+            },
+            {
+                  "name": "Our Lady of Deliverance Breij",
+                  "text": "Ez a breiji maronita szentély festői helyen, a meredek völgyek felett fekszik, a csend és az áhítat helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        35.629364,
+                        33.923515
+                  ]
+            },
+            {
+                  "name": "Saint Elias Church",
+                  "text": "Hagyományos kőtemplom Jeitában, amelyet Illés prófétának szenteltek, és gyakran ad otthont helyi vallási ünnepeknek.",
+                  "category": "landmark",
+                  "coords": [
+                        35.624269,
+                        33.933724
+                  ]
+            },
+            {
+                  "name": "Saint Maroun Church",
+                  "text": "Ez a maronita rítusú templom Szent Maronnak, Libanon legjelentősebb keresztény közössége alapítójának állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        35.648047,
+                        33.950495
+                  ]
+            },
+            {
+                  "name": "St. Maroun Church",
+                  "text": "Maronita rítusú katolikus templom Jeitában, amely a régió mélyen gyökerező keresztény hagyományait tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        35.638137,
+                        33.934979
+                  ]
+            },
+            {
+                  "name": "Saint Elias",
+                  "text": "Szent Illésnek szentelt kis kápolna vagy emlékhely, amely elcsendesedésre hív Jeita hegyvidéki táján.",
+                  "category": "landmark",
+                  "coords": [
+                        35.64417,
+                        33.923254
+                  ]
+            },
+            {
+                  "name": "St. Elias Church",
+                  "text": "Illés prófétának szentelt templom, amely Jeita közösségének egyik jellegzetes vallási épülete.",
+                  "category": "landmark",
+                  "coords": [
+                        35.670917,
+                        33.954142
+                  ]
+            },
+            {
+                  "name": "Mar Abda - Sehayle",
+                  "text": "A Sehayle-ben található történelmi Mar Abda-templom jelentős vallási műemlék a híres Jeita-barlang közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.658405,
+                        33.958213
+                  ]
+            },
+            {
+                  "name": "Sainte Rafqa Church",
+                  "text": "Ez a modern templom Szent Rafqának, Libanon egyik legtiszteltebb maronita szentjének van szentelve.",
+                  "category": "landmark",
+                  "coords": [
+                        35.657317,
+                        33.958524
+                  ]
+            },
+            {
+                  "name": "Mar Youssef Church",
+                  "text": "Jeita Szent Józsefnek szentelt plébániatemploma a Keserwan-hegység szívében található.",
+                  "category": "landmark",
+                  "coords": [
+                        35.65439,
+                        33.958046
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Donkeys",
+                  "text": "Plimbări tradiționale cu măgari oferite vizitatorilor în apropierea intrării faimoasei Grote Jeita.",
+                  "category": "landmark",
+                  "coords": [
+                        35.626227,
+                        33.945991
+                  ]
+            },
+            {
+                  "name": "Marine and Wildlife Museum",
+                  "text": "Acest muzeu situat lângă Grota Jeita expune o colecție impresionantă de animale marine și sălbatice naturalizate din Liban.",
+                  "category": "museum",
+                  "coords": [
+                        35.633721,
+                        33.948672
+                  ]
+            },
+            {
+                  "name": "Lower Grotto",
+                  "text": "Secțiunea inferioară a Grotei Jeita este explorată printr-o plimbare cu barca pe un râu subteran, printre formațiuni calcaroase fascinante.",
+                  "category": "landmark",
+                  "coords": [
+                        35.644108,
+                        33.943905
+                  ]
+            },
+            {
+                  "name": "Mashrou3 Day3a",
+                  "text": "Acest proiect din dealurile Jeitei oferă vizitatorilor o perspectivă asupra vieții rurale tradiționale și a culturii libaneze.",
+                  "category": "landmark",
+                  "coords": [
+                        35.642301,
+                        33.920974
+                  ]
+            },
+            {
+                  "name": "Municipality of Ballouneh",
+                  "text": "Centrul administrativ din Ballouneh este situat la poalele muntoase ale districtului Keserwan, oferind vedere spre văile înconjurătoare.",
+                  "category": "historical",
+                  "coords": [
+                        35.671813,
+                        33.953146
+                  ]
+            },
+            {
+                  "name": "Jeita Grotto",
+                  "text": "Grota Jeita este un sistem vast de peșteri care adăpostește unul dintre cele mai mari stalactite din lume în galeria sa superioară.",
+                  "category": "landmark",
+                  "coords": [
+                        35.641868,
+                        33.943388
+                  ]
+            },
+            {
+                  "name": "St Sarkis and Bakhos Church",
+                  "text": "Această biserică maronită din Jeita este dedicată martirilor creștini Sarkis și Bakhos, fiind construită în stil tradițional montan.",
+                  "category": "religious",
+                  "coords": [
+                        35.664139,
+                        33.900063
+                  ]
+            },
+            {
+                  "name": "St Anthony of Padova",
+                  "text": "O biserică creștină din regiunea Jeita, dedicată Sfântului Anton de Padova, patronul spiritual al celor care caută lucruri pierdute.",
+                  "category": "religious",
+                  "coords": [
+                        35.674039,
+                        33.888795
+                  ]
+            },
+            {
+                  "name": "Mar Gerges Church",
+                  "text": "Această biserică dedicată Sfântului Gheorghe este un punct central de întâlnire pentru comunitatea creștină din munții Jeitei.",
+                  "category": "landmark",
+                  "coords": [
+                        35.672614,
+                        33.887302
+                  ]
+            },
+            {
+                  "name": "Church Saint Peter & Paul",
+                  "text": "O biserică creștină locală din Jeita, ridicată în cinstea Sfinților Apostoli Petru și Pavel pentru credincioșii din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        35.639738,
+                        33.917333
+                  ]
+            },
+            {
+                  "name": "Our Lady of Deliverance Breij",
+                  "text": "Acest sanctuar maronit din Breij este situat pitoresc deasupra văilor abrupte, oferind un loc de liniște și rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        35.629364,
+                        33.923515
+                  ]
+            },
+            {
+                  "name": "Saint Elias Church",
+                  "text": "O biserică tradițională din piatră în Jeita, dedicată Sfântului Prooroc Ilie, fiind adesea locul sărbătorilor religioase locale.",
+                  "category": "landmark",
+                  "coords": [
+                        35.624269,
+                        33.933724
+                  ]
+            },
+            {
+                  "name": "Saint Maroun Church",
+                  "text": "Această biserică de rit maronit îl onorează pe Sfântul Maron, fondatorul celei mai importante comunități creștine din Liban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.648047,
+                        33.950495
+                  ]
+            },
+            {
+                  "name": "St. Maroun Church",
+                  "text": "Un lăcaș de cult catolic de rit maronit din Jeita, ce reflectă tradiția creștină profund înrădăcinată a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        35.638137,
+                        33.934979
+                  ]
+            },
+            {
+                  "name": "Saint Elias",
+                  "text": "O mică capelă sau loc de rugăciune dedicat Sfântului Ilie, care invită la meditație în peisajul montan din Jeita.",
+                  "category": "landmark",
+                  "coords": [
+                        35.64417,
+                        33.923254
+                  ]
+            },
+            {
+                  "name": "St. Elias Church",
+                  "text": "Această biserică sfințită în numele Proorocului Ilie este o structură religioasă proeminentă în comunitatea Jeita.",
+                  "category": "landmark",
+                  "coords": [
+                        35.670917,
+                        33.954142
+                  ]
+            },
+            {
+                  "name": "Mar Abda - Sehayle",
+                  "text": "Biserica istorică Mar Abda din Sehayle este un monument religios important situat în apropierea faimoasei Grote Jeita.",
+                  "category": "landmark",
+                  "coords": [
+                        35.658405,
+                        33.958213
+                  ]
+            },
+            {
+                  "name": "Sainte Rafqa Church",
+                  "text": "Această biserică modernă este dedicată Sfintei Rafqa, una dintre cele mai venerate sfânte maronite din Liban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.657317,
+                        33.958524
+                  ]
+            },
+            {
+                  "name": "Mar Youssef Church",
+                  "text": "Biserica parohială din Jeita, dedicată Sfântului Iosif, este situată în inima munților Keserwan.",
+                  "category": "landmark",
+                  "coords": [
+                        35.65439,
+                        33.958046
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Donkeys",
+                  "text": "Traditional donkey rides offered to visitors near the entrance of the famous Jeita Grotto.",
+                  "category": "landmark",
+                  "coords": [
+                        35.626227,
+                        33.945991
+                  ]
+            },
+            {
+                  "name": "Marine and Wildlife Museum",
+                  "text": "Located near the Jeita Grotto, this museum showcases an extensive collection of taxidermied marine life and Lebanese wildlife.",
+                  "category": "museum",
+                  "coords": [
+                        35.633721,
+                        33.948672
+                  ]
+            },
+            {
+                  "name": "Lower Grotto",
+                  "text": "The lower section of the Jeita Grotto is explored via a boat ride on a subterranean river winding through spectacular limestone formations.",
+                  "category": "landmark",
+                  "coords": [
+                        35.644108,
+                        33.943905
+                  ]
+            },
+            {
+                  "name": "Mashrou3 Day3a",
+                  "text": "Nestled in the hills of Jeita, this attraction offers visitors a glimpse into traditional rural life and Lebanese cultural heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        35.642301,
+                        33.920974
+                  ]
+            },
+            {
+                  "name": "Municipality of Ballouneh",
+                  "text": "The administrative heart of Ballouneh is situated in the mountainous foothills of the Keserwan District overlooking the surrounding valleys.",
+                  "category": "historical",
+                  "coords": [
+                        35.671813,
+                        33.953146
+                  ]
+            },
+            {
+                  "name": "Jeita Grotto",
+                  "text": "The Jeita Grotto is a vast limestone cave system featuring one of the world's largest stalactites in its upper gallery.",
+                  "category": "landmark",
+                  "coords": [
+                        35.641868,
+                        33.943388
+                  ]
+            },
+            {
+                  "name": "St Sarkis and Bakhos Church",
+                  "text": "This Maronite church in Jeita is dedicated to the Christian martyrs Sarkis and Bakhos and reflects traditional mountain architecture.",
+                  "category": "religious",
+                  "coords": [
+                        35.664139,
+                        33.900063
+                  ]
+            },
+            {
+                  "name": "St Anthony of Padova",
+                  "text": "A Christian church in the Jeita region dedicated to Saint Anthony of Padova, the patron saint of lost things.",
+                  "category": "religious",
+                  "coords": [
+                        35.674039,
+                        33.888795
+                  ]
+            },
+            {
+                  "name": "Mar Gerges Church",
+                  "text": "Dedicated to Saint George, this church serves as a central spiritual hub for the Christian community in the mountains of Jeita.",
+                  "category": "landmark",
+                  "coords": [
+                        35.672614,
+                        33.887302
+                  ]
+            },
+            {
+                  "name": "Church Saint Peter & Paul",
+                  "text": "A local Christian church in Jeita built in honor of the Apostles Peter and Paul, serving the faithful of the surrounding region.",
+                  "category": "landmark",
+                  "coords": [
+                        35.639738,
+                        33.917333
+                  ]
+            },
+            {
+                  "name": "Our Lady of Deliverance Breij",
+                  "text": "This Maronite shrine in Breij is picturesquely situated above rugged valleys, providing a place of quiet devotion and reflection.",
+                  "category": "landmark",
+                  "coords": [
+                        35.629364,
+                        33.923515
+                  ]
+            },
+            {
+                  "name": "Saint Elias Church",
+                  "text": "A traditional stone church in Jeita dedicated to the Prophet Elias, frequently serving as a site for local religious festivities.",
+                  "category": "landmark",
+                  "coords": [
+                        35.624269,
+                        33.933724
+                  ]
+            },
+            {
+                  "name": "Saint Maroun Church",
+                  "text": "This Maronite rite church honors Saint Maron, the founder of Lebanon's most prominent Christian community.",
+                  "category": "landmark",
+                  "coords": [
+                        35.648047,
+                        33.950495
+                  ]
+            },
+            {
+                  "name": "St. Maroun Church",
+                  "text": "A Maronite Catholic house of worship in Jeita that reflects the region's deeply rooted Christian traditions.",
+                  "category": "landmark",
+                  "coords": [
+                        35.638137,
+                        33.934979
+                  ]
+            },
+            {
+                  "name": "Saint Elias",
+                  "text": "A small chapel or site dedicated to Saint Elias, offering a place for reflection amidst the mountainous landscape of Jeita.",
+                  "category": "landmark",
+                  "coords": [
+                        35.64417,
+                        33.923254
+                  ]
+            },
+            {
+                  "name": "St. Elias Church",
+                  "text": "Dedicated to the Prophet Elias, this church is a prominent religious structure within the Jeita community.",
+                  "category": "landmark",
+                  "coords": [
+                        35.670917,
+                        33.954142
+                  ]
+            },
+            {
+                  "name": "Mar Abda - Sehayle",
+                  "text": "The historic Mar Abda Church in Sehayle is a significant religious monument located near the famous Jeita Grotto.",
+                  "category": "landmark",
+                  "coords": [
+                        35.658405,
+                        33.958213
+                  ]
+            },
+            {
+                  "name": "Sainte Rafqa Church",
+                  "text": "This modern church is dedicated to Saint Rafqa, one of Lebanon's most beloved Maronite saints.",
+                  "category": "landmark",
+                  "coords": [
+                        35.657317,
+                        33.958524
+                  ]
+            },
+            {
+                  "name": "Mar Youssef Church",
+                  "text": "The parish church of Jeita, dedicated to Saint Joseph, is situated in the heart of the Keserwan mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        35.65439,
+                        33.958046
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LB-JL",
     coords: [35.6414, 33.9442],
@@ -47,7 +740,376 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
     },
   },
   {
-    id: "pigeon-rocks-landmarks-v2",
+    id: "pigeon-rocks-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Galerie Janine Rubeiz",
+                  "text": "Renommierte Galerie für zeitgenössische Kunst an der Uferpromenade von Raouche.",
+                  "category": "museum",
+                  "coords": [
+                        35.473603,
+                        33.887953
+                  ]
+            },
+            {
+                  "name": "Sporting Club Beach",
+                  "text": "Ein privater Strandclub in Beirut mit Schwimmbecken und direktem Zugang zum Mittelmeerufer.",
+                  "category": "recreational",
+                  "coords": [
+                        35.468448,
+                        33.893229
+                  ]
+            },
+            {
+                  "name": "See Leuchturm von Beirut",
+                  "text": "Dieser moderne Navigationsturm im Stadtteil Manara ist ein wichtiges Wahrzeichen für Schiffe, die den Hafen von Beirut anlaufen.",
+                  "category": "landmark",
+                  "coords": [
+                        35.469838,
+                        33.900039
+                  ]
+            },
+            {
+                  "name": "Daouk Mosque",
+                  "text": "Eine Moschee mit moderner islamischer Architektur, die der lokalen Gemeinde im Küstenviertel dient.",
+                  "category": "religious",
+                  "coords": [
+                        35.477947,
+                        33.89857
+                  ]
+            },
+            {
+                  "name": "Old Lighthouse",
+                  "text": "Ein historischer schwarz-weiß gestreifter Leuchtturm, der als Wahrzeichen der maritimen Geschichte Beiruts aus der Mitte des 20. Jahrhunderts gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.472454,
+                        33.897523
+                  ]
+            },
+            {
+                  "name": "Ramlet El-Baida",
+                  "text": "Beiruts einziger öffentlicher Sandstrand, der besonders für Abendspaziergänge am Ufer beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        35.480156,
+                        33.877776
+                  ]
+            },
+            {
+                  "name": "Temple Protestant Francais",
+                  "text": "Diese französischsprachige protestantische Kirche dient seit langem der lokalen christlichen Gemeinschaft im Herzen von Beirut.",
+                  "category": "landmark",
+                  "coords": [
+                        35.477062,
+                        33.891366
+                  ]
+            },
+            {
+                  "name": "Werner Hänsel Memorial",
+                  "text": "Eine Gedenkstätte im Küstenviertel von Beirut, die an Werner Hänsel erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.471901,
+                        33.88936
+                  ]
+            },
+            {
+                  "name": "Church of Saint Rita",
+                  "text": "Eine katholische Kirche im Viertel Hamra, die der Schutzpatronin für aussichtslose Fälle gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.475819,
+                        33.896801
+                  ]
+            },
+            {
+                  "name": "Mosque Al Rahman",
+                  "text": "Eine Nachbarschaftsmoschee mit traditioneller Minarett-Architektur im Wohngebiet von Beirut.",
+                  "category": "landmark",
+                  "coords": [
+                        35.472378,
+                        33.895488
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Galerie Janine Rubeiz",
+                  "text": "Elismert kortárs művészeti galéria a Raouche tengerparti sétányán.",
+                  "category": "museum",
+                  "coords": [
+                        35.473603,
+                        33.887953
+                  ]
+            },
+            {
+                  "name": "Sporting Club Beach",
+                  "text": "Privát strandklub Bejrútban, amely úszómedencékkel és közvetlen tengerparti hozzáféréssel várja a vendégeket.",
+                  "category": "recreational",
+                  "coords": [
+                        35.468448,
+                        33.893229
+                  ]
+            },
+            {
+                  "name": "Lighthouse of Beirut",
+                  "text": "Ez a modern navigációs torony a Manara negyedben fontos tájékozódási pont a Bejrút kikötője felé tartó hajók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        35.469838,
+                        33.900039
+                  ]
+            },
+            {
+                  "name": "Daouk Mosque",
+                  "text": "Modern iszlám építészetű mecset, amely a tengerparti negyed helyi közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        35.477947,
+                        33.89857
+                  ]
+            },
+            {
+                  "name": "Old Lighthouse",
+                  "text": "Történelmi, fekete-fehér csíkos világítótorony, amely Bejrút 20. század közepi tengerészeti múltjának jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        35.472454,
+                        33.897523
+                  ]
+            },
+            {
+                  "name": "Ramlet El-Baida",
+                  "text": "Bejrút egyetlen nyilvános homokos strandja, amely különösen népszerű az esti tengerparti sétákhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        35.480156,
+                        33.877776
+                  ]
+            },
+            {
+                  "name": "Temple Protestant Francais",
+                  "text": "Ez a francia nyelvű protestáns templom régóta szolgálja a helyi keresztény közösséget Bejrút szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.477062,
+                        33.891366
+                  ]
+            },
+            {
+                  "name": "Werner Hänsel Memorial",
+                  "text": "Werner Hänsel emlékére állított emlékhely Bejrút tengerparti negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.471901,
+                        33.88936
+                  ]
+            },
+            {
+                  "name": "Church of Saint Rita",
+                  "text": "A Hamra negyedben található katolikus templom, amelyet a kilátástalan ügyek védőszentjének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        35.475819,
+                        33.896801
+                  ]
+            },
+            {
+                  "name": "Mosque Al Rahman",
+                  "text": "Hagyományos minarettel rendelkező környékbeli mecset Bejrút lakóövezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.472378,
+                        33.895488
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Galerie Janine Rubeiz",
+                  "text": "Galerie de artă contemporană renumită situată pe faleza Raouche.",
+                  "category": "museum",
+                  "coords": [
+                        35.473603,
+                        33.887953
+                  ]
+            },
+            {
+                  "name": "Sporting Club Beach",
+                  "text": "Un club de plajă privat din Beirut, care oferă piscine și acces direct la malul Mediteranei.",
+                  "category": "recreational",
+                  "coords": [
+                        35.468448,
+                        33.893229
+                  ]
+            },
+            {
+                  "name": "Lighthouse of Beirut",
+                  "text": "Acest turn de navigație modern din cartierul Manara este un punct de reper vital pentru navele care se apropie de portul Beirut.",
+                  "category": "landmark",
+                  "coords": [
+                        35.469838,
+                        33.900039
+                  ]
+            },
+            {
+                  "name": "Daouk Mosque",
+                  "text": "O moschee cu arhitectură islamică modernă, care deservește comunitatea locală din cartierul de coastă.",
+                  "category": "religious",
+                  "coords": [
+                        35.477947,
+                        33.89857
+                  ]
+            },
+            {
+                  "name": "Old Lighthouse",
+                  "text": "Un far istoric cu dungi albe și negre, care reprezintă un punct de reper al istoriei maritime de la mijlocul secolului al XX-lea a Beirutului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.472454,
+                        33.897523
+                  ]
+            },
+            {
+                  "name": "Ramlet El-Baida",
+                  "text": "Singura plajă publică cu nisip din Beirut, fiind deosebit de populară pentru plimbările de seară pe malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        35.480156,
+                        33.877776
+                  ]
+            },
+            {
+                  "name": "Temple Protestant Francais",
+                  "text": "Această biserică protestantă de limbă franceză deservește de multă vreme comunitatea creștină locală din inima Beirutului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.477062,
+                        33.891366
+                  ]
+            },
+            {
+                  "name": "Werner Hänsel Memorial",
+                  "text": "Un sit comemorativ situat în districtul de coastă al Beirutului, dedicat memoriei lui Werner Hänsel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.471901,
+                        33.88936
+                  ]
+            },
+            {
+                  "name": "Church of Saint Rita",
+                  "text": "O biserică catolică din cartierul Hamra, dedicată patroanei cauzelor deznădăjduite.",
+                  "category": "landmark",
+                  "coords": [
+                        35.475819,
+                        33.896801
+                  ]
+            },
+            {
+                  "name": "Mosque Al Rahman",
+                  "text": "O moschee de cartier cu arhitectură tradițională de minaret, situată în zona rezidențială a Beirutului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.472378,
+                        33.895488
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Galerie Janine Rubeiz",
+                  "text": "Renowned contemporary art gallery located on the Raouche seafront.",
+                  "category": "museum",
+                  "coords": [
+                        35.473603,
+                        33.887953
+                  ]
+            },
+            {
+                  "name": "Sporting Club Beach",
+                  "text": "A private beach club in Beirut offering swimming pools and direct access to the Mediterranean shore.",
+                  "category": "recreational",
+                  "coords": [
+                        35.468448,
+                        33.893229
+                  ]
+            },
+            {
+                  "name": "Lighthouse of Beirut",
+                  "text": "This modern navigational tower in the Manara district is a vital landmark for ships approaching Beirut's port.",
+                  "category": "landmark",
+                  "coords": [
+                        35.469838,
+                        33.900039
+                  ]
+            },
+            {
+                  "name": "Daouk Mosque",
+                  "text": "A mosque with modern Islamic architecture serving the local community in the coastal district.",
+                  "category": "religious",
+                  "coords": [
+                        35.477947,
+                        33.89857
+                  ]
+            },
+            {
+                  "name": "Old Lighthouse",
+                  "text": "A historic black-and-white striped lighthouse that stands as a landmark of Beirut's mid-20th-century maritime history.",
+                  "category": "landmark",
+                  "coords": [
+                        35.472454,
+                        33.897523
+                  ]
+            },
+            {
+                  "name": "Ramlet El-Baida",
+                  "text": "Beirut's only public sandy beach, popular for evening strolls along the shore.",
+                  "category": "recreational",
+                  "coords": [
+                        35.480156,
+                        33.877776
+                  ]
+            },
+            {
+                  "name": "Temple Protestant Francais",
+                  "text": "This French-speaking Protestant church has long served the local Christian community in the heart of Beirut.",
+                  "category": "landmark",
+                  "coords": [
+                        35.477062,
+                        33.891366
+                  ]
+            },
+            {
+                  "name": "Werner Hänsel Memorial",
+                  "text": "A commemorative site located in the coastal district of Beirut, dedicated to the memory of Werner Hänsel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.471901,
+                        33.88936
+                  ]
+            },
+            {
+                  "name": "Church of Saint Rita",
+                  "text": "A Catholic church in the Hamra district dedicated to the patron saint of hopeless causes.",
+                  "category": "landmark",
+                  "coords": [
+                        35.475819,
+                        33.896801
+                  ]
+            },
+            {
+                  "name": "Mosque Al Rahman",
+                  "text": "A neighborhood mosque with traditional minaret architecture located in the residential area of Beirut.",
+                  "category": "landmark",
+                  "coords": [
+                        35.472378,
+                        33.895488
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LB-BA",
     coords: [35.4695, 33.8894],
@@ -91,7 +1153,448 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
     },
   },
   {
-    id: "qadisha-valley-landmarks-v2",
+    id: "qadisha-valley-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Le Jardin de Patriarche",
+                  "text": "Eine Gartenanlage im Qadisha-Tal, die den maronitischen Patriarchen gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.946239,
+                        34.244659
+                  ]
+            },
+            {
+                  "name": "Ampitheatre",
+                  "text": "Ein Freilufttheater oder Amphitheater mit Blick auf das umliegende Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        35.94718,
+                        34.244977
+                  ]
+            },
+            {
+                  "name": "Mar Bichay Hermitage",
+                  "text": "Eine abgelegene Einsiedelei, die in die Kalksteinfelsen von Qadisha gehauen wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        35.945425,
+                        34.283695
+                  ]
+            },
+            {
+                  "name": "Our Lady of Hawqa Sanctuary",
+                  "text": "Ein historisches Höhlenheiligtum und Pilgerort in der Hawqa-Region des Tales.",
+                  "category": "landmark",
+                  "coords": [
+                        35.940221,
+                        34.270368
+                  ]
+            },
+            {
+                  "name": "Quannubine Kloster",
+                  "text": "Eines der ältesten maronitischen Klöster der Welt und einstiger Sitz der Patriarchen.",
+                  "category": "religious",
+                  "coords": [
+                        35.949735,
+                        34.257433
+                  ]
+            },
+            {
+                  "name": "Wady Annoubin",
+                  "text": "Ein malerischer Abschnitt des Qadisha-Tals mit tiefen Schluchten und üppiger Vegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        35.952446,
+                        34.256105
+                  ]
+            },
+            {
+                  "name": "Antoniuskloster Quzhaya",
+                  "text": "Ein berühmtes maronitisches Kloster, in dem die erste Druckerpresse des Nahen Ostens stand.",
+                  "category": "landmark",
+                  "coords": [
+                        35.946792,
+                        34.282915
+                  ]
+            },
+            {
+                  "name": "Hermit of Wadi Qannoubine",
+                  "text": "Ein Ort, der an die lange Tradition der christlichen Eremiten im Qadisha-Tal erinnert.",
+                  "category": "religious",
+                  "coords": [
+                        35.943924,
+                        34.255576
+                  ]
+            },
+            {
+                  "name": "Hamatoura",
+                  "text": "Ein griechisch-orthodoxes Kloster, das spektakulär in eine steile Felswand gebaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        35.867593,
+                        34.304136
+                  ]
+            },
+            {
+                  "name": "Saint Marina Sanctuary",
+                  "text": "Ein Höhlenheiligtum, in dem die heilige Marina als Mönch gelebt haben soll.",
+                  "category": "religious",
+                  "coords": [
+                        35.948439,
+                        34.258728
+                  ]
+            },
+            {
+                  "name": "St. Georges Church",
+                  "text": "Eine historische christliche Stätte im zerklüfteten, UNESCO-gelisteten Heiligen Tal von Qadisha.",
+                  "category": "landmark",
+                  "coords": [
+                        35.95502,
+                        34.278096
+                  ]
+            },
+            {
+                  "name": "St. Daniel Church",
+                  "text": "Eine christliche Gebetsstätte in der dramatischen Berglandschaft des Qadisha-Tals.",
+                  "category": "landmark",
+                  "coords": [
+                        35.929609,
+                        34.247506
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Le Jardin de Patriarche",
+                  "text": "A maronita pátriárkáknak szentelt parkosított kert a Qadisha-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        35.946239,
+                        34.244659
+                  ]
+            },
+            {
+                  "name": "Ampitheatre",
+                  "text": "Szabadtéri színpad vagy amfiteátrum kilátással a környező völgyre.",
+                  "category": "landmark",
+                  "coords": [
+                        35.94718,
+                        34.244977
+                  ]
+            },
+            {
+                  "name": "Mar Bichay Hermitage",
+                  "text": "Magányos remetelak és kolostor a Qadisha-völgy mészkőszikláiba vájva.",
+                  "category": "landmark",
+                  "coords": [
+                        35.945425,
+                        34.283695
+                  ]
+            },
+            {
+                  "name": "Our Lady of Hawqa Sanctuary",
+                  "text": "Történelmi barlangszentély és zarándokhely a völgy Hawqa régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.940221,
+                        34.270368
+                  ]
+            },
+            {
+                  "name": "Monastery of our Lady of Qannoubine Qadisha",
+                  "text": "A világ egyik legrégebbi maronita kolostora, amely egykor a pátriárkák székhelye volt.",
+                  "category": "religious",
+                  "coords": [
+                        35.949735,
+                        34.257433
+                  ]
+            },
+            {
+                  "name": "Wady Annoubin",
+                  "text": "A Qadisha-völgy festői szakasza mély szurdokokkal és buja növényzettel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.952446,
+                        34.256105
+                  ]
+            },
+            {
+                  "name": "Monastery of St Anthony of Qozhaya",
+                  "text": "Híres maronita kolostor, amely a Közel-Kelet első nyomdájának adott otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        35.946792,
+                        34.282915
+                  ]
+            },
+            {
+                  "name": "Hermit of Wadi Qannoubine",
+                  "text": "A Qadisha-völgyben élő keresztény remeték hosszú hagyományához kapcsolódó helyszín.",
+                  "category": "religious",
+                  "coords": [
+                        35.943924,
+                        34.255576
+                  ]
+            },
+            {
+                  "name": "Hamatoura",
+                  "text": "Görögkeleti kolostor, amely látványosan épült be egy meredek sziklafalba.",
+                  "category": "landmark",
+                  "coords": [
+                        35.867593,
+                        34.304136
+                  ]
+            },
+            {
+                  "name": "Saint Marina Sanctuary",
+                  "text": "Barlangszentély, ahol a legenda szerint Szent Marina szerzetesként élt.",
+                  "category": "religious",
+                  "coords": [
+                        35.948439,
+                        34.258728
+                  ]
+            },
+            {
+                  "name": "St. Georges Church",
+                  "text": "Egy történelmi keresztény helyszín a szakadékos, UNESCO-listás szent Kadísa-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        35.95502,
+                        34.278096
+                  ]
+            },
+            {
+                  "name": "St. Daniel Church",
+                  "text": "Keresztény istentiszteleti hely a Kadísa-völgy drámai hegyi táján.",
+                  "category": "landmark",
+                  "coords": [
+                        35.929609,
+                        34.247506
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Le Jardin de Patriarche",
+                  "text": "O grădină amenajată în valea Qadisha, dedicată patriarhilor maroniți.",
+                  "category": "landmark",
+                  "coords": [
+                        35.946239,
+                        34.244659
+                  ]
+            },
+            {
+                  "name": "Ampitheatre",
+                  "text": "Un spațiu de spectacole în aer liber sau amfiteatru cu vedere spre valea înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        35.94718,
+                        34.244977
+                  ]
+            },
+            {
+                  "name": "Mar Bichay Hermitage",
+                  "text": "Un schit izolat și mănăstire săpată în stâncile calcaroase din Qadisha.",
+                  "category": "landmark",
+                  "coords": [
+                        35.945425,
+                        34.283695
+                  ]
+            },
+            {
+                  "name": "Our Lady of Hawqa Sanctuary",
+                  "text": "Un sanctuar istoric în peșteră și loc de pelerinaj situat în regiunea Hawqa a văii.",
+                  "category": "landmark",
+                  "coords": [
+                        35.940221,
+                        34.270368
+                  ]
+            },
+            {
+                  "name": "Monastery of our Lady of Qannoubine Qadisha",
+                  "text": "Una dintre cele mai vechi mănăstiri maronite din lume, fost sediu al patriarhilor.",
+                  "category": "religious",
+                  "coords": [
+                        35.949735,
+                        34.257433
+                  ]
+            },
+            {
+                  "name": "Wady Annoubin",
+                  "text": "O secțiune pitorească a văii Qadisha caracterizată prin chei adânci și vegetație luxuriantă.",
+                  "category": "landmark",
+                  "coords": [
+                        35.952446,
+                        34.256105
+                  ]
+            },
+            {
+                  "name": "Monastery of St Anthony of Qozhaya",
+                  "text": "Mănăstire maronită faimoasă pentru că a adăpostit prima presă tipografică din Orientul Mijlociu.",
+                  "category": "landmark",
+                  "coords": [
+                        35.946792,
+                        34.282915
+                  ]
+            },
+            {
+                  "name": "Hermit of Wadi Qannoubine",
+                  "text": "Un sit asociat cu tradiția îndelungată a pustnicilor creștini care trăiau în valea Qadisha.",
+                  "category": "religious",
+                  "coords": [
+                        35.943924,
+                        34.255576
+                  ]
+            },
+            {
+                  "name": "Hamatoura",
+                  "text": "O mănăstire ortodoxă construită spectaculos direct în peretele unei stânci abrupte.",
+                  "category": "landmark",
+                  "coords": [
+                        35.867593,
+                        34.304136
+                  ]
+            },
+            {
+                  "name": "Saint Marina Sanctuary",
+                  "text": "Un sanctuar în peșteră unde se spune că Sfânta Marina a trăit ca monah.",
+                  "category": "religious",
+                  "coords": [
+                        35.948439,
+                        34.258728
+                  ]
+            },
+            {
+                  "name": "St. Georges Church",
+                  "text": "Un sit creștin istoric situat în valea sacră Qadisha, inclusă în patrimoniul UNESCO.",
+                  "category": "landmark",
+                  "coords": [
+                        35.95502,
+                        34.278096
+                  ]
+            },
+            {
+                  "name": "St. Daniel Church",
+                  "text": "Un lăcaș de cult creștin în peisajul montan dramatic al Văii Qadisha.",
+                  "category": "landmark",
+                  "coords": [
+                        35.929609,
+                        34.247506
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Patriarch's Garden",
+                  "text": "A landscaped garden area dedicated to the Maronite Patriarchs in the Qadisha Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        35.946239,
+                        34.244659
+                  ]
+            },
+            {
+                  "name": "Ampitheatre",
+                  "text": "An outdoor performance space or amphitheater with views of the surrounding valley.",
+                  "category": "landmark",
+                  "coords": [
+                        35.94718,
+                        34.244977
+                  ]
+            },
+            {
+                  "name": "Mar Bichay Hermitage",
+                  "text": "A secluded hermitage and monastery carved into the limestone cliffs of Qadisha.",
+                  "category": "landmark",
+                  "coords": [
+                        35.945425,
+                        34.283695
+                  ]
+            },
+            {
+                  "name": "Our Lady of Hawqa Sanctuary",
+                  "text": "A historic cave sanctuary and pilgrimage site located in the Hawqa region of the valley.",
+                  "category": "landmark",
+                  "coords": [
+                        35.940221,
+                        34.270368
+                  ]
+            },
+            {
+                  "name": "Monastery of our Lady of Qannoubine Qadisha",
+                  "text": "One of the oldest Maronite monasteries in the world, once the seat of the Patriarchs.",
+                  "category": "religious",
+                  "coords": [
+                        35.949735,
+                        34.257433
+                  ]
+            },
+            {
+                  "name": "Wadi Annoubin",
+                  "text": "A scenic section of the Qadisha Valley characterized by deep gorges and lush vegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        35.952446,
+                        34.256105
+                  ]
+            },
+            {
+                  "name": "Monastery of St Anthony of Qozhaya",
+                  "text": "A famous Maronite monastery known for housing the Middle East's first printing press.",
+                  "category": "landmark",
+                  "coords": [
+                        35.946792,
+                        34.282915
+                  ]
+            },
+            {
+                  "name": "Hermit of Wadi Qannoubine",
+                  "text": "A site associated with the long tradition of Christian hermits living in the Qadisha Valley.",
+                  "category": "religious",
+                  "coords": [
+                        35.943924,
+                        34.255576
+                  ]
+            },
+            {
+                  "name": "Hamatoura",
+                  "text": "A Greek Orthodox monastery spectacularly built into the side of a steep cliff.",
+                  "category": "landmark",
+                  "coords": [
+                        35.867593,
+                        34.304136
+                  ]
+            },
+            {
+                  "name": "Saint Marina Sanctuary",
+                  "text": "A cave sanctuary where Saint Marina is said to have lived her life as a monk.",
+                  "category": "religious",
+                  "coords": [
+                        35.948439,
+                        34.258728
+                  ]
+            },
+            {
+                  "name": "St. Georges Church",
+                  "text": "A historic Christian site located in the rugged, UNESCO-listed sacred Qadisha Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        35.95502,
+                        34.278096
+                  ]
+            },
+            {
+                  "name": "St. Daniel Church",
+                  "text": "A Christian place of worship set within the dramatic mountain landscape of the Qadisha Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        35.929609,
+                        34.247506
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LB-AS",
     coords: [35.9458, 34.2544],
@@ -135,7 +1638,124 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
     },
   },
   {
-    id: "cedars-of-god-landmarks-v2",
+    id: "cedars-of-god-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "La Jetée",
+                  "text": "Ein Aussichtspunkt mit Blick auf den majestätischen Wald der Zedern des Herrn.",
+                  "category": "natural",
+                  "coords": [
+                        36.037166,
+                        34.242526
+                  ]
+            },
+            {
+                  "name": "Qadisha Grotto",
+                  "text": "Der Eingang zu einer natürlichen Tropfsteinhöhle in der Nähe des Dorfes Bcharre.",
+                  "category": "natural",
+                  "coords": [
+                        36.036412,
+                        34.243928
+                  ]
+            },
+            {
+                  "name": "Zedern des Herrn",
+                  "text": "Ein UNESCO-Weltnaturerbe mit einigen der ältesten überlebenden Libanon-Zedern.",
+                  "category": "landmark",
+                  "coords": [
+                        36.048963,
+                        34.243424
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La Jetée",
+                  "text": "Kilátópont, amely a fenséges Isten Cédrusai erdőre néz.",
+                  "category": "natural",
+                  "coords": [
+                        36.037166,
+                        34.242526
+                  ]
+            },
+            {
+                  "name": "Qadisha Grotto",
+                  "text": "Természetes cseppkőbarlang bejárata Bcharre falu közelében.",
+                  "category": "natural",
+                  "coords": [
+                        36.036412,
+                        34.243928
+                  ]
+            },
+            {
+                  "name": "Bcharreh Cedars of God Forest",
+                  "text": "UNESCO világörökségi helyszín, ahol a legrégebbi libanoni cédrusok találhatók.",
+                  "category": "landmark",
+                  "coords": [
+                        36.048963,
+                        34.243424
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La Jetée",
+                  "text": "Un punct de observație pitoresc cu vedere spre maiestuoasa pădure a Cedrilor lui Dumnezeu.",
+                  "category": "natural",
+                  "coords": [
+                        36.037166,
+                        34.242526
+                  ]
+            },
+            {
+                  "name": "Qadisha Grotto",
+                  "text": "Intrarea într-o peșteră naturală cu stalactite, situată lângă satul Bcharre.",
+                  "category": "natural",
+                  "coords": [
+                        36.036412,
+                        34.243928
+                  ]
+            },
+            {
+                  "name": "Bcharreh Cedars of God Forest",
+                  "text": "Sit din patrimoniul mondial UNESCO ce adăpostește unii dintre cei mai bătrâni cedri libanezi.",
+                  "category": "landmark",
+                  "coords": [
+                        36.048963,
+                        34.243424
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "La Jetée",
+                  "text": "A scenic observation point overlooking the majestic Cedars of God forest.",
+                  "category": "natural",
+                  "coords": [
+                        36.037166,
+                        34.242526
+                  ]
+            },
+            {
+                  "name": "Qadisha Grotto",
+                  "text": "A natural cave entrance known for its stalactites, located near the village of Bcharre.",
+                  "category": "natural",
+                  "coords": [
+                        36.036412,
+                        34.243928
+                  ]
+            },
+            {
+                  "name": "Bcharreh Cedars of God Forest",
+                  "text": "A UNESCO World Heritage site containing some of the oldest surviving Lebanon cedar trees.",
+                  "category": "landmark",
+                  "coords": [
+                        36.048963,
+                        34.243424
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LB-AS",
     coords: [36.0483, 34.2436],
@@ -179,7 +1799,268 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
     },
   },
   {
-    id: "moussa-castle-landmarks-v2",
+    id: "moussa-castle-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Beiteddine Presses",
+                  "text": "Traditionelle landwirtschaftliche Pressen in der Region Chouf, die die lokale historische Industrie nahe dem Schloss Moussa zeigen.",
+                  "category": "landmark",
+                  "coords": [
+                        35.597327,
+                        33.699199
+                  ]
+            },
+            {
+                  "name": "Saint Kiryakos",
+                  "text": "Eine dem heiligen Kiryakos gewidmete christliche religiöse Stätte in den malerischen Chouf-Bergen.",
+                  "category": "landmark",
+                  "coords": [
+                        35.59826,
+                        33.737185
+                  ]
+            },
+            {
+                  "name": "Saint Elias Church",
+                  "text": "Eine dem heiligen Elias gewidmete maronitische oder griechisch-katholische Kirche im historischen Distrikt Chouf.",
+                  "category": "landmark",
+                  "coords": [
+                        35.596493,
+                        33.734885
+                  ]
+            },
+            {
+                  "name": "Saint Charbel Church",
+                  "text": "Eine dem heiligen Charbel, dem Schutzpatron des Libanon, gewidmete Kirche in der bergigen Region Chouf.",
+                  "category": "landmark",
+                  "coords": [
+                        35.586662,
+                        33.735778
+                  ]
+            },
+            {
+                  "name": "Mar Taqla Church",
+                  "text": "Eine traditionelle christliche Kirche, die Mar Taqla gewidmet ist und in der hügeligen Landschaft des Distrikts Chouf liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.582719,
+                        33.712804
+                  ]
+            },
+            {
+                  "name": "St. Georges",
+                  "text": "Ein dem heiligen Georg gewidmetes christliches Gebetshaus mit Blick auf die Täler der Chouf-Berge.",
+                  "category": "landmark",
+                  "coords": [
+                        35.624753,
+                        33.725528
+                  ]
+            },
+            {
+                  "name": "St. Elie Church",
+                  "text": "Eine historische Steinkirche, die dem heiligen Elie gewidmet ist und in einem traditionellen Dorf im Chouf-Gebiet liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.624817,
+                        33.777555
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Beiteddine Presses",
+                  "text": "Hagyományos mezőgazdasági prések a Shouf régióban, amelyek a helyi történelmi ipart mutatják be a Moussa-kastély közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.597327,
+                        33.699199
+                  ]
+            },
+            {
+                  "name": "Saint Kiryakos",
+                  "text": "Szent Kirjakosznak szentelt keresztény vallási helyszín a festői Chouf-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        35.59826,
+                        33.737185
+                  ]
+            },
+            {
+                  "name": "Saint Elias Church",
+                  "text": "Szent Illésnek szentelt maronita vagy görögkatolikus templom a történelmi Shouf negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        35.596493,
+                        33.734885
+                  ]
+            },
+            {
+                  "name": "Saint Charbel Church",
+                  "text": "Libanon védőszentjének, Szent Charbelnek szentelt templom a hegyvidéki Shouf régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.586662,
+                        33.735778
+                  ]
+            },
+            {
+                  "name": "Mar Taqla Church",
+                  "text": "Mar Taqla tiszteletére szentelt hagyományos keresztény templom a Shouf negyed dombos táján.",
+                  "category": "landmark",
+                  "coords": [
+                        35.582719,
+                        33.712804
+                  ]
+            },
+            {
+                  "name": "St. Georges",
+                  "text": "Szent Györgynek szentelt keresztény istentiszteleti hely, amely a Chouf-hegység völgyeire néz.",
+                  "category": "landmark",
+                  "coords": [
+                        35.624753,
+                        33.725528
+                  ]
+            },
+            {
+                  "name": "St. Elie Church",
+                  "text": "Szent Éliásnak szentelt történelmi kőtemplom egy hagyományos faluban a Shouf területén.",
+                  "category": "landmark",
+                  "coords": [
+                        35.624817,
+                        33.777555
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Beiteddine Presses",
+                  "text": "Prese agricole tradiționale situate în regiunea Shouf, prezentând industria istorică locală de lângă Castelul Moussa.",
+                  "category": "landmark",
+                  "coords": [
+                        35.597327,
+                        33.699199
+                  ]
+            },
+            {
+                  "name": "Saint Kiryakos",
+                  "text": "Un sit religios creștin dedicat Sfântului Chiriac, cuibărit în pitoreștii munți Shouf.",
+                  "category": "landmark",
+                  "coords": [
+                        35.59826,
+                        33.737185
+                  ]
+            },
+            {
+                  "name": "Saint Elias Church",
+                  "text": "O biserică maronită sau greco-catolică dedicată Sfântului Ilie, situată în districtul istoric Shouf.",
+                  "category": "landmark",
+                  "coords": [
+                        35.596493,
+                        33.734885
+                  ]
+            },
+            {
+                  "name": "Saint Charbel Church",
+                  "text": "O biserică dedicată Sfântului Charbel, sfântul patron al Libanului, situată în regiunea muntoasă Shouf.",
+                  "category": "landmark",
+                  "coords": [
+                        35.586662,
+                        33.735778
+                  ]
+            },
+            {
+                  "name": "Mar Taqla Church",
+                  "text": "O biserică creștină tradițională dedicată Sfintei Tecla (Mar Taqla), aflată în peisajul deluros al districtului Shouf.",
+                  "category": "landmark",
+                  "coords": [
+                        35.582719,
+                        33.712804
+                  ]
+            },
+            {
+                  "name": "St. Georges",
+                  "text": "Un lăcaș de cult creștin dedicat Sfântului Gheorghe, cu vedere spre văile munților Shouf.",
+                  "category": "landmark",
+                  "coords": [
+                        35.624753,
+                        33.725528
+                  ]
+            },
+            {
+                  "name": "St. Elie Church",
+                  "text": "O biserică istorică de piatră dedicată Sfântului Ilie, situată într-un sat tradițional din zona Shouf.",
+                  "category": "landmark",
+                  "coords": [
+                        35.624817,
+                        33.777555
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Beiteddine Presses",
+                  "text": "Traditional agricultural presses located in the Shouf region, showcasing local historical industry near Moussa Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        35.597327,
+                        33.699199
+                  ]
+            },
+            {
+                  "name": "Saint Kiryakos",
+                  "text": "A Christian religious site dedicated to Saint Kiryakos, nestled in the scenic Chouf mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        35.59826,
+                        33.737185
+                  ]
+            },
+            {
+                  "name": "Saint Elias Church",
+                  "text": "A Maronite or Greek Catholic church dedicated to Saint Elias, located in the historic Shouf district.",
+                  "category": "landmark",
+                  "coords": [
+                        35.596493,
+                        33.734885
+                  ]
+            },
+            {
+                  "name": "Saint Charbel Church",
+                  "text": "A church dedicated to Saint Charbel, Lebanon's patron saint, situated in the mountainous Chouf region.",
+                  "category": "landmark",
+                  "coords": [
+                        35.586662,
+                        33.735778
+                  ]
+            },
+            {
+                  "name": "Mar Taqla Church",
+                  "text": "A traditional Christian church dedicated to Mar Taqla, found in the hilly landscape of the Shouf district.",
+                  "category": "landmark",
+                  "coords": [
+                        35.582719,
+                        33.712804
+                  ]
+            },
+            {
+                  "name": "St. Georges",
+                  "text": "Un lăcaș de cult creștin dedicat Sfântului Gheorghe, cu vedere spre văile munților Shouf.",
+                  "category": "landmark",
+                  "coords": [
+                        35.624753,
+                        33.725528
+                  ]
+            },
+            {
+                  "name": "St. Elie Church",
+                  "text": "A historic stone church dedicated to Saint Elie, situated in a traditional village within the Shouf area.",
+                  "category": "landmark",
+                  "coords": [
+                        35.624817,
+                        33.777555
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LB-JL",
     coords: [35.5861, 33.6975],
@@ -267,7 +2148,88 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
     },
   },
     {
-    id: "byblos-castle-landmarks-v2",
+    id: "byblos-castle-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nymphaeum",
+                  "text": "Antike Ruinen eines monumentalen römischen öffentlichen Brunnens in Byblos.",
+                  "category": "historical",
+                  "coords": [
+                        35.646927,
+                        34.120343
+                  ]
+            },
+            {
+                  "name": "Byblos Fossil Museum",
+                  "text": "Ein Museum in Byblos, das eine umfangreiche Sammlung antiker mariner Fossilien aus dem Libanon zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        35.645534,
+                        34.120868
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nymphaeum",
+                  "text": "Egy monumentális római nyilvános kút ókori romjai Byblosban.",
+                  "category": "historical",
+                  "coords": [
+                        35.646927,
+                        34.120343
+                  ]
+            },
+            {
+                  "name": "Byblos Fossil Museum",
+                  "text": "A libanoni ókori tengeri fosszíliák kiterjedt gyűjteményét bemutató múzeum Byblosban.",
+                  "category": "museum",
+                  "coords": [
+                        35.645534,
+                        34.120868
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nymphaeum",
+                  "text": "Ruinele antice ale unei fântâni publice romane monumentale situate în Byblos.",
+                  "category": "historical",
+                  "coords": [
+                        35.646927,
+                        34.120343
+                  ]
+            },
+            {
+                  "name": "Byblos Fossil Museum",
+                  "text": "Un muzeu din Byblos care prezintă o colecție vastă de fosile marine antice descoperite în Liban.",
+                  "category": "museum",
+                  "coords": [
+                        35.645534,
+                        34.120868
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nymphaeum",
+                  "text": "Ancient ruins of a monumental Roman public fountain situated in Byblos.",
+                  "category": "historical",
+                  "coords": [
+                        35.646927,
+                        34.120343
+                  ]
+            },
+            {
+                  "name": "Memory of Time",
+                  "text": "A museum in Byblos showcasing an extensive collection of ancient marine fossils discovered in Lebanon.",
+                  "category": "museum",
+                  "coords": [
+                        35.645534,
+                        34.120868
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LB-JL",
     coords: [35.6453, 34.1200],
@@ -311,7 +2273,952 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
     },
   },
   {
-    id: "sursock-museum-landmarks-v2",
+    id: "sursock-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Armenian Genocide Memorial",
+                  "text": "Ein feierliches Denkmal in Beirut, das an die Opfer des armenischen Völkermords erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        35.535207,
+                        33.891713
+                  ]
+            },
+            {
+                  "name": "Beirut Centre for Photography",
+                  "text": "Ein Kulturzentrum in Beirut, das sich der Förderung und Ausstellung lokaler sowie internationaler Fotografie widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        35.516021,
+                        33.894727
+                  ]
+            },
+            {
+                  "name": "Khalil Badawi",
+                  "text": "Ein historisches Denkmal in Beirut, das einer bedeutenden lokalen Persönlichkeit gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        35.532052,
+                        33.891804
+                  ]
+            },
+            {
+                  "name": "Ardeco Gallery",
+                  "text": "Eine Galerie in Beirut, die sich auf Kunst und Designobjekte im Stil des Art Déco konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        35.51349,
+                        33.889434
+                  ]
+            },
+            {
+                  "name": "Bachir Gemayel Memorial Monument",
+                  "text": "Ein Denkmal zu Ehren von Bachir Gemayel, dem ermordeten libanesischen Präsidenten und militärischen Führer.",
+                  "category": "historical",
+                  "coords": [
+                        35.521101,
+                        33.887286
+                  ]
+            },
+            {
+                  "name": "Art Scene Studio",
+                  "text": "Ein Atelier und Ausstellungsraum für lokale Künstler, die hier ihre neuesten Werke der Öffentlichkeit präsentieren.",
+                  "category": "museum",
+                  "coords": [
+                        35.511785,
+                        33.894917
+                  ]
+            },
+            {
+                  "name": "La direction du talent",
+                  "text": "Ein innovatives Kunstzentrum in Beirut, das junge Talente durch Workshops und wechselnde Ausstellungen fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        35.519164,
+                        33.893756
+                  ]
+            },
+            {
+                  "name": "392Rmeil393",
+                  "text": "Eine zeitgenössische Kunstgalerie im Viertel Rmeil, die für ihre experimentellen Installationen bekannt ist.",
+                  "category": "museum",
+                  "coords": [
+                        35.516941,
+                        33.894961
+                  ]
+            },
+            {
+                  "name": "Saifi Urban Gardens",
+                  "text": "Ein grünes Kulturareal inmitten alter Gebäudereste, das Cafés, Gärten und alternative Kunst vereint.",
+                  "category": "historical",
+                  "coords": [
+                        35.516566,
+                        33.896095
+                  ]
+            },
+            {
+                  "name": "Palast von Lady Cochrane-Sursock",
+                  "text": "Ein prachtvolles Herrenhaus aus dem 19. Jahrhundert mit italienischer Architektur und weitläufigen Privatgärten.",
+                  "category": "castle",
+                  "coords": [
+                        35.51754,
+                        33.893709
+                  ]
+            },
+            {
+                  "name": "Villa Linda Sursock",
+                  "text": "Eine historische palastartige Villa im Sursock-Viertel, die für ihre luxuriöse Ausstattung und Fassade bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.5157,
+                        33.893236
+                  ]
+            },
+            {
+                  "name": "St. Nicolas Stairs",
+                  "text": "Eine berühmte Freilufttreppe in Achrafieh, die oft als Treffpunkt für Künstler und Open-Air-Ausstellungen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.516289,
+                        33.892244
+                  ]
+            },
+            {
+                  "name": "Église Saint Dimitrios",
+                  "text": "Eine bedeutende griechisch-orthodoxe Kirche in Beirut mit einer reich verzierten Ikonostase und Wandmalereien.",
+                  "category": "religious",
+                  "coords": [
+                        35.521773,
+                        33.890401
+                  ]
+            },
+            {
+                  "name": "St. Antoine Greek Catholic Church",
+                  "text": "Diese griechisch-katholische Kirche besticht durch ihre elegante Fassade im Herzen des christlichen Viertels.",
+                  "category": "religious",
+                  "coords": [
+                        35.518863,
+                        33.895219
+                  ]
+            },
+            {
+                  "name": "Église Sainte Catherine",
+                  "text": "Eine dem Patrozinium der Heiligen Katharina gewidmete Kirche, die als Ort der Stille in Beirut dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.518579,
+                        33.889001
+                  ]
+            },
+            {
+                  "name": "Kanisat Allah",
+                  "text": "Eine christliche Kirche, deren Name 'Kirche Gottes' bedeutet und die eine lokale Gemeinde in Beirut beherbergt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.519752,
+                        33.890487
+                  ]
+            },
+            {
+                  "name": "Église Saint Georges",
+                  "text": "Die dem Heiligen Georg gewidmete Kirche ist ein klassisches Beispiel sakraler Architektur im Viertel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.523462,
+                        33.893048
+                  ]
+            },
+            {
+                  "name": "Surp Hagop Armenian Church",
+                  "text": "Eine armenische Kirche, die dem Heiligen Hagop gewidmet ist und das religiöse Leben der armenischen Diaspora pflegt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.527551,
+                        33.894525
+                  ]
+            },
+            {
+                  "name": "Église Saint-Joseph",
+                  "text": "Diese Jesuitenkirche ist eng mit der benachbarten Saint-Joseph-Universität im Sursock-Viertel verbunden.",
+                  "category": "landmark",
+                  "coords": [
+                        35.526437,
+                        33.893265
+                  ]
+            },
+            {
+                  "name": "Notre-Dame des Anges",
+                  "text": "Eine katholische Kirche, die als spirituelles Zentrum für die christliche Gemeinde in Achrafieh dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.53258,
+                        33.893113
+                  ]
+            },
+            {
+                  "name": "Beirut Nazarene Church",
+                  "text": "Diese evangelische Kirche der Nazarener-Gemeinschaft liegt in der Nähe des Sursock-Museums.",
+                  "category": "landmark",
+                  "coords": [
+                        35.528847,
+                        33.886197
+                  ]
+            },
+            {
+                  "name": "Sayde Church",
+                  "text": "Eine traditionelle maronitische Kapelle, die der Jungfrau Maria gewidmet ist und für ihre ruhige Atmosphäre bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.525062,
+                        33.887552
+                  ]
+            },
+            {
+                  "name": "Basilica of Notre Dame of the Miraculous Medal of the Lazarusian Fathers",
+                  "text": "Diese beeindruckende Basilika der Lazaristen-Patres ist für ihre markante blaue Kuppel bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.523161,
+                        33.888817
+                  ]
+            },
+            {
+                  "name": "Greek Catholic Church",
+                  "text": "Eine melkitische griechisch-katholische Kirche, die durch ihre byzantinische Architektur und Ikonostase besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        35.524713,
+                        33.885137
+                  ]
+            },
+            {
+                  "name": "Couvent Saint Basile des Pères Choueirites",
+                  "text": "Dieses Kloster der Choueirite-Patres beherbergt eine Gemeinschaft des Basilianer-Ordens.",
+                  "category": "landmark",
+                  "coords": [
+                        35.515134,
+                        33.887272
+                  ]
+            },
+            {
+                  "name": "Notre Dame des Dons",
+                  "text": "Eine charmante katholische Kirche, die sich in den historischen Gassen nahe dem Sursock-Palast befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.514138,
+                        33.887877
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Armenian Genocide Memorial",
+                  "text": "Egy ünnepélyes emlékmű Bejrútban, amely az örmény népirtás áldozatainak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        35.535207,
+                        33.891713
+                  ]
+            },
+            {
+                  "name": "Beirut Centre for Photography",
+                  "text": "Egy bejrúti kulturális központ, amely a helyi és nemzetközi fotóművészet népszerűsítésének és bemutatásának szenteli magát.",
+                  "category": "cultural",
+                  "coords": [
+                        35.516021,
+                        33.894727
+                  ]
+            },
+            {
+                  "name": "Khalil Badawi",
+                  "text": "Egy történelmi emlékmű Bejrútban, amelyet egy jelentős helyi személyiségnek szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        35.532052,
+                        33.891804
+                  ]
+            },
+            {
+                  "name": "Ardeco Gallery",
+                  "text": "Egy bejrúti galéria, amely Art Déco stílusú műtárgyakra és dizájntárgyakra összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        35.51349,
+                        33.889434
+                  ]
+            },
+            {
+                  "name": "Bachir Gemayel Memorial Monument",
+                  "text": "Emlékmű Bachir Gemayel, a meggyilkolt libanoni elnök és katonai vezető tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        35.521101,
+                        33.887286
+                  ]
+            },
+            {
+                  "name": "Art Scene Studio",
+                  "text": "Műterem és kiállítóhely helyi művészek számára, akik itt mutatják be legújabb alkotásaikat a nagyközönségnek.",
+                  "category": "museum",
+                  "coords": [
+                        35.511785,
+                        33.894917
+                  ]
+            },
+            {
+                  "name": "La direction du talent",
+                  "text": "Egy innovatív művészeti központ Bejrútban, amely workshopokkal és időszaki kiállításokkal támogatja a fiatal tehetségeket.",
+                  "category": "cultural",
+                  "coords": [
+                        35.519164,
+                        33.893756
+                  ]
+            },
+            {
+                  "name": "392Rmeil393",
+                  "text": "Egy kortárs művészeti galéria a Rmeil negyedben, amely kísérleti installációiról ismert.",
+                  "category": "museum",
+                  "coords": [
+                        35.516941,
+                        33.894961
+                  ]
+            },
+            {
+                  "name": "Saifi Urban Gardens",
+                  "text": "Egy zöld kulturális terület régi épületmaradványok között, amely kávézókat, kerteket és alternatív művészetet egyesít.",
+                  "category": "historical",
+                  "coords": [
+                        35.516566,
+                        33.896095
+                  ]
+            },
+            {
+                  "name": "Lady Cochrane-Sursock Palace",
+                  "text": "Egy pompás, 19. századi kúria itáliai építészettel és kiterjedt magánkertekkel.",
+                  "category": "castle",
+                  "coords": [
+                        35.51754,
+                        33.893709
+                  ]
+            },
+            {
+                  "name": "Villa Linda Sursock",
+                  "text": "Egy történelmi palotaszerű villa a Sursock negyedben, amely fényűző berendezéséről és homlokzatáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.5157,
+                        33.893236
+                  ]
+            },
+            {
+                  "name": "St. Nicolas Stairs",
+                  "text": "Achrafieh híres szabadtéri lépcsője, amely gyakran szolgál művészek találkozóhelyeként és szabadtéri kiállítások helyszíneként.",
+                  "category": "landmark",
+                  "coords": [
+                        35.516289,
+                        33.892244
+                  ]
+            },
+            {
+                  "name": "Église Saint Dimitrios",
+                  "text": "Egy jelentős görög ortodox templom Bejrútban, gazdagon díszített ikonosztázzal és falfestményekkel.",
+                  "category": "religious",
+                  "coords": [
+                        35.521773,
+                        33.890401
+                  ]
+            },
+            {
+                  "name": "St. Antoine Greek Catholic Church",
+                  "text": "Ez a görögkatolikus templom elegáns homlokzatával nyűgöz le a keresztény negyed szívében.",
+                  "category": "religious",
+                  "coords": [
+                        35.518863,
+                        33.895219
+                  ]
+            },
+            {
+                  "name": "Église Sainte Catherine",
+                  "text": "Szent Katalin tiszteletére szentelt templom, amely a csend szigeteként szolgál Bejrútban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.518579,
+                        33.889001
+                  ]
+            },
+            {
+                  "name": "Kanisat Allah",
+                  "text": "Egy keresztény templom, amelynek neve 'Isten egyházát' jelenti, és egy helyi közösségnek ad otthont Bejrútban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.519752,
+                        33.890487
+                  ]
+            },
+            {
+                  "name": "Église Saint Georges",
+                  "text": "A Szent Györgynek szentelt templom a szakrális építészet klasszikus példája a negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        35.523462,
+                        33.893048
+                  ]
+            },
+            {
+                  "name": "Surp Hagop Armenian Church",
+                  "text": "Szent Hagopnak szentelt örmény templom, amely az örmény diaszpóra vallási életét ápolja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.527551,
+                        33.894525
+                  ]
+            },
+            {
+                  "name": "Église Saint-Joseph",
+                  "text": "Ez a jezsuita templom szorosan kapcsolódik a szomszédos Szent József Egyetemhez a Sursock negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        35.526437,
+                        33.893265
+                  ]
+            },
+            {
+                  "name": "Notre-Dame des Anges",
+                  "text": "Katolikus templom, amely Achrafieh keresztény közösségének spirituális központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        35.53258,
+                        33.893113
+                  ]
+            },
+            {
+                  "name": "Beirut Nazarene Church",
+                  "text": "Ez a Nazarénus közösséghez tartozó evangéliumi templom a Sursock Múzeum közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        35.528847,
+                        33.886197
+                  ]
+            },
+            {
+                  "name": "Sayde Church",
+                  "text": "Szűz Máriának szentelt hagyományos maronita kápolna, amely nyugodt légköréről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.525062,
+                        33.887552
+                  ]
+            },
+            {
+                  "name": "Basilica of Notre Dame of the Miraculous Medal of the Lazarusian Fathers",
+                  "text": "A lazarista atyák ezen lenyűgöző bazilikája jellegzetes kék kupolájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.523161,
+                        33.888817
+                  ]
+            },
+            {
+                  "name": "Greek Catholic Church",
+                  "text": "Melkita görögkatolikus templom, amely bizánci építészetével és ikonosztázával tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        35.524713,
+                        33.885137
+                  ]
+            },
+            {
+                  "name": "Couvent Saint Basile des Pères Choueirites",
+                  "text": "Ez a choueirite atyák kolostora, amely a bazilita rend közösségének ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        35.515134,
+                        33.887272
+                  ]
+            },
+            {
+                  "name": "Notre Dame des Dons",
+                  "text": "Bájos katolikus templom a Sursock-palota közeli történelmi utcákban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.514138,
+                        33.887877
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Armenian Genocide Memorial",
+                  "text": "Un monument solemn din Beirut, dedicat memoriei victimelor genocidului armean.",
+                  "category": "historical",
+                  "coords": [
+                        35.535207,
+                        33.891713
+                  ]
+            },
+            {
+                  "name": "Beirut Centre for Photography",
+                  "text": "Un centru cultural din Beirut dedicat promovării și expunerii fotografiei locale și internaționale.",
+                  "category": "cultural",
+                  "coords": [
+                        35.516021,
+                        33.894727
+                  ]
+            },
+            {
+                  "name": "Khalil Badawi",
+                  "text": "Un monument istoric din Beirut, dedicat unei personalități locale importante.",
+                  "category": "historical",
+                  "coords": [
+                        35.532052,
+                        33.891804
+                  ]
+            },
+            {
+                  "name": "Ardeco Gallery",
+                  "text": "O galerie din Beirut care se concentrează pe obiecte de artă și design în stil Art Deco.",
+                  "category": "museum",
+                  "coords": [
+                        35.51349,
+                        33.889434
+                  ]
+            },
+            {
+                  "name": "Bachir Gemayel Memorial Monument",
+                  "text": "Un monument în onoarea lui Bachir Gemayel, președintele libanez și liderul militar asasinat.",
+                  "category": "historical",
+                  "coords": [
+                        35.521101,
+                        33.887286
+                  ]
+            },
+            {
+                  "name": "Art Scene Studio",
+                  "text": "Un studio și spațiu de expoziție pentru artiștii locali, care își prezintă aici cele mai recente lucrări publicului.",
+                  "category": "museum",
+                  "coords": [
+                        35.511785,
+                        33.894917
+                  ]
+            },
+            {
+                  "name": "La direction du talent",
+                  "text": "Un centru de artă inovator din Beirut, care sprijină tinerele talente prin ateliere și expoziții temporare.",
+                  "category": "cultural",
+                  "coords": [
+                        35.519164,
+                        33.893756
+                  ]
+            },
+            {
+                  "name": "392Rmeil393",
+                  "text": "O galerie de artă contemporană din cartierul Rmeil, cunoscută pentru instalațiile sale experimentale.",
+                  "category": "museum",
+                  "coords": [
+                        35.516941,
+                        33.894961
+                  ]
+            },
+            {
+                  "name": "Saifi Urban Gardens",
+                  "text": "O zonă culturală verde în mijlocul unor vechi vestigii de clădiri, care îmbină cafenelele, grădinile și arta alternativă.",
+                  "category": "historical",
+                  "coords": [
+                        35.516566,
+                        33.896095
+                  ]
+            },
+            {
+                  "name": "Lady Cochrane-Sursock Palace",
+                  "text": "Un conac magnific din secolul al XIX-lea, cu arhitectură italiană și grădini private vaste.",
+                  "category": "castle",
+                  "coords": [
+                        35.51754,
+                        33.893709
+                  ]
+            },
+            {
+                  "name": "Villa Linda Sursock",
+                  "text": "O vilă istorică de tip palat din cartierul Sursock, cunoscută pentru dotările și fațada sa luxoasă.",
+                  "category": "landmark",
+                  "coords": [
+                        35.5157,
+                        33.893236
+                  ]
+            },
+            {
+                  "name": "St. Nicolas Stairs",
+                  "text": "O faimoasă scară în aer liber din Achrafieh, care servește adesea ca loc de întâlnire pentru artiști și expoziții în aer liber.",
+                  "category": "landmark",
+                  "coords": [
+                        35.516289,
+                        33.892244
+                  ]
+            },
+            {
+                  "name": "Église Saint Dimitrios",
+                  "text": "O biserică greco-ortodoxă importantă din Beirut, cu un iconostas bogat decorat și picturi murale.",
+                  "category": "religious",
+                  "coords": [
+                        35.521773,
+                        33.890401
+                  ]
+            },
+            {
+                  "name": "St. Antoine Greek Catholic Church",
+                  "text": "Această biserică greco-catolică impresionează prin fațada sa elegantă din inima cartierului creștin.",
+                  "category": "religious",
+                  "coords": [
+                        35.518863,
+                        33.895219
+                  ]
+            },
+            {
+                  "name": "Église Sainte Catherine",
+                  "text": "O biserică dedicată Sfintei Ecaterina, care servește drept loc de liniște în Beirut.",
+                  "category": "landmark",
+                  "coords": [
+                        35.518579,
+                        33.889001
+                  ]
+            },
+            {
+                  "name": "Kanisat Allah",
+                  "text": "O biserică creștină al cărei nume înseamnă „Biserica lui Dumnezeu”, găzduind o comunitate locală din Beirut.",
+                  "category": "landmark",
+                  "coords": [
+                        35.519752,
+                        33.890487
+                  ]
+            },
+            {
+                  "name": "Église Saint Georges",
+                  "text": "Biserica dedicată Sfântului Gheorghe este un exemplu clasic de arhitectură sacră din cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        35.523462,
+                        33.893048
+                  ]
+            },
+            {
+                  "name": "Surp Hagop Armenian Church",
+                  "text": "O biserică armeană dedicată Sfântului Hagop, care cultivă viața religioasă a diasporei armene.",
+                  "category": "landmark",
+                  "coords": [
+                        35.527551,
+                        33.894525
+                  ]
+            },
+            {
+                  "name": "Église Saint-Joseph",
+                  "text": "Această biserică iezuită este strâns legată de Universitatea Saint-Joseph din cartierul Sursock.",
+                  "category": "landmark",
+                  "coords": [
+                        35.526437,
+                        33.893265
+                  ]
+            },
+            {
+                  "name": "Notre-Dame des Anges",
+                  "text": "O biserică catolică ce servește ca centru spiritual pentru comunitatea creștină din Achrafieh.",
+                  "category": "landmark",
+                  "coords": [
+                        35.53258,
+                        33.893113
+                  ]
+            },
+            {
+                  "name": "Beirut Nazarene Church",
+                  "text": "Această biserică evanghelică a comunității Nazariniene este situată lângă Muzeul Sursock.",
+                  "category": "landmark",
+                  "coords": [
+                        35.528847,
+                        33.886197
+                  ]
+            },
+            {
+                  "name": "Sayde Church",
+                  "text": "O capelă maronită tradițională dedicată Fecioarei Maria, cunoscută pentru atmosfera sa liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        35.525062,
+                        33.887552
+                  ]
+            },
+            {
+                  "name": "Basilica of Notre Dame of the Miraculous Medal of the Lazarusian Fathers",
+                  "text": "Această bazilică impresionantă a părinților lazariști este cunoscută pentru cupola sa albastră distinctivă.",
+                  "category": "landmark",
+                  "coords": [
+                        35.523161,
+                        33.888817
+                  ]
+            },
+            {
+                  "name": "Greek Catholic Church",
+                  "text": "O biserică greco-catolică melkită care se remarcă prin arhitectura sa bizantină și iconostas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.524713,
+                        33.885137
+                  ]
+            },
+            {
+                  "name": "Couvent Saint Basile des Pères Choueirites",
+                  "text": "Această mănăstire a părinților Choueirite găzduiește o comunitate a ordinului bazilian.",
+                  "category": "landmark",
+                  "coords": [
+                        35.515134,
+                        33.887272
+                  ]
+            },
+            {
+                  "name": "Notre Dame des Dons",
+                  "text": "O biserică catolică fermecătoare situată pe străzile istorice de lângă Palatul Sursock.",
+                  "category": "landmark",
+                  "coords": [
+                        35.514138,
+                        33.887877
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Armenian Genocide Memorial",
+                  "text": "A solemn monument in Beirut dedicated to the memory of the victims of the Armenian Genocide.",
+                  "category": "historical",
+                  "coords": [
+                        35.535207,
+                        33.891713
+                  ]
+            },
+            {
+                  "name": "Beirut Centre for Photography",
+                  "text": "A cultural hub in Beirut dedicated to promoting and exhibiting local and international photography.",
+                  "category": "cultural",
+                  "coords": [
+                        35.516021,
+                        33.894727
+                  ]
+            },
+            {
+                  "name": "Khalil Badawi",
+                  "text": "A historical monument in Beirut dedicated to a prominent local figure.",
+                  "category": "historical",
+                  "coords": [
+                        35.532052,
+                        33.891804
+                  ]
+            },
+            {
+                  "name": "Ardeco Gallery",
+                  "text": "A gallery in Beirut focusing on Art Deco style art and design objects.",
+                  "category": "museum",
+                  "coords": [
+                        35.51349,
+                        33.889434
+                  ]
+            },
+            {
+                  "name": "Bachir Gemayel Memorial Monument",
+                  "text": "A memorial monument honoring Bachir Gemayel, the assassinated Lebanese president and military leader.",
+                  "category": "historical",
+                  "coords": [
+                        35.521101,
+                        33.887286
+                  ]
+            },
+            {
+                  "name": "Art Scene Studio",
+                  "text": "A studio and exhibition space for local artists to present their latest works to the public.",
+                  "category": "museum",
+                  "coords": [
+                        35.511785,
+                        33.894917
+                  ]
+            },
+            {
+                  "name": "La direction du talent",
+                  "text": "An innovative arts centre in Beirut supporting young talent through workshops and rotating exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        35.519164,
+                        33.893756
+                  ]
+            },
+            {
+                  "name": "392Rmeil393",
+                  "text": "A contemporary art gallery in the Rmeil district known for its experimental installations.",
+                  "category": "museum",
+                  "coords": [
+                        35.516941,
+                        33.894961
+                  ]
+            },
+            {
+                  "name": "Saifi Urban Gardens",
+                  "text": "A green cultural hub set amidst old building remains, combining cafes, gardens, and alternative art.",
+                  "category": "historical",
+                  "coords": [
+                        35.516566,
+                        33.896095
+                  ]
+            },
+            {
+                  "name": "Lady Cochrane-Sursock Palace",
+                  "text": "A magnificent 19th-century mansion featuring Italianate architecture and expansive private gardens.",
+                  "category": "castle",
+                  "coords": [
+                        35.51754,
+                        33.893709
+                  ]
+            },
+            {
+                  "name": "Villa Linda Sursock",
+                  "text": "A historic palatial villa in the Sursock district known for its luxurious appointments and facade.",
+                  "category": "landmark",
+                  "coords": [
+                        35.5157,
+                        33.893236
+                  ]
+            },
+            {
+                  "name": "St. Nicolas Stairs",
+                  "text": "A famous outdoor staircase in Achrafieh that often serves as a meeting point for artists and open-air exhibitions.",
+                  "category": "landmark",
+                  "coords": [
+                        35.516289,
+                        33.892244
+                  ]
+            },
+            {
+                  "name": "St. Demetrios Greek Orthodox Church",
+                  "text": "A significant Greek Orthodox church in Beirut featuring a richly decorated iconostasis and murals.",
+                  "category": "religious",
+                  "coords": [
+                        35.521773,
+                        33.890401
+                  ]
+            },
+            {
+                  "name": "St. Antoine Greek Catholic Church",
+                  "text": "This Greek Catholic church impresses with its elegant facade in the heart of the Christian quarter.",
+                  "category": "religious",
+                  "coords": [
+                        35.518863,
+                        33.895219
+                  ]
+            },
+            {
+                  "name": "Église Sainte Catherine",
+                  "text": "A church dedicated to Saint Catherine, serving as a place of quiet reflection in Beirut.",
+                  "category": "landmark",
+                  "coords": [
+                        35.518579,
+                        33.889001
+                  ]
+            },
+            {
+                  "name": "Kanisat Allah",
+                  "text": "A Christian church whose name means 'Church of God', hosting a local congregation in Beirut.",
+                  "category": "landmark",
+                  "coords": [
+                        35.519752,
+                        33.890487
+                  ]
+            },
+            {
+                  "name": "Église Saint Georges",
+                  "text": "The church dedicated to Saint George is a classic example of sacred architecture in the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        35.523462,
+                        33.893048
+                  ]
+            },
+            {
+                  "name": "Surp Hagop Armenian Church",
+                  "text": "An Armenian church dedicated to Saint Hagop, nurturing the religious life of the Armenian diaspora.",
+                  "category": "landmark",
+                  "coords": [
+                        35.527551,
+                        33.894525
+                  ]
+            },
+            {
+                  "name": "Église Saint-Joseph",
+                  "text": "This Jesuit church is closely associated with the neighboring Saint Joseph University in the Sursock district.",
+                  "category": "landmark",
+                  "coords": [
+                        35.526437,
+                        33.893265
+                  ]
+            },
+            {
+                  "name": "Notre-Dame des Anges",
+                  "text": "A Catholic church serving as a spiritual center for the Christian community in Achrafieh.",
+                  "category": "landmark",
+                  "coords": [
+                        35.53258,
+                        33.893113
+                  ]
+            },
+            {
+                  "name": "Beirut Nazarene Church",
+                  "text": "This evangelical church of the Nazarene community is located near the Sursock Museum.",
+                  "category": "landmark",
+                  "coords": [
+                        35.528847,
+                        33.886197
+                  ]
+            },
+            {
+                  "name": "Sayde Church",
+                  "text": "A traditional Maronite chapel dedicated to the Virgin Mary, known for its serene atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        35.525062,
+                        33.887552
+                  ]
+            },
+            {
+                  "name": "Basilica of Notre Dame of the Miraculous Medal of the Lazarusian Fathers",
+                  "text": "This impressive basilica of the Lazarusian Fathers is known for its prominent blue dome.",
+                  "category": "landmark",
+                  "coords": [
+                        35.523161,
+                        33.888817
+                  ]
+            },
+            {
+                  "name": "Greek Catholic Church",
+                  "text": "A Melkite Greek Catholic church featuring traditional Byzantine architecture and an iconostasis.",
+                  "category": "landmark",
+                  "coords": [
+                        35.524713,
+                        33.885137
+                  ]
+            },
+            {
+                  "name": "Saint Basil Convent of the Choueirite Fathers",
+                  "text": "This convent of the Choueirite Fathers houses a community of the Basilian order.",
+                  "category": "landmark",
+                  "coords": [
+                        35.515134,
+                        33.887272
+                  ]
+            },
+            {
+                  "name": "Notre Dame des Dons",
+                  "text": "A charming Catholic church located in the historic streets near the Sursock Palace.",
+                  "category": "landmark",
+                  "coords": [
+                        35.514138,
+                        33.887877
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LB-BA",
     coords: [35.5158, 33.8931],
@@ -355,7 +3262,592 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
     },
   },
   {
-    id: "national-museum-of-beirut-landmarks-v2",
+    id: "national-museum-of-beirut-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sunflower Theatre",
+                  "text": "Unabhängiger Ort für darstellende Künste im Viertel Badaro.",
+                  "category": "cultural",
+                  "coords": [
+                        35.515121,
+                        33.871242
+                  ]
+            },
+            {
+                  "name": "Samar",
+                  "text": "Lokale Attraktion im Museumsviertel von Bejrút.",
+                  "category": "landmark",
+                  "coords": [
+                        35.517024,
+                        33.874829
+                  ]
+            },
+            {
+                  "name": "kateb l aadel",
+                  "text": "Historisches Gebäude oder Büro im zentralen Museumsviertel.",
+                  "category": "castle",
+                  "coords": [
+                        35.520568,
+                        33.862502
+                  ]
+            },
+            {
+                  "name": "Maison Corm",
+                  "text": "Historischer Wohnsitz von Charles Corm, bekannt für seinen Art-Déco-Stil und den großen Garten.",
+                  "category": "landmark",
+                  "coords": [
+                        35.514955,
+                        33.881415
+                  ]
+            },
+            {
+                  "name": "Mim Museum",
+                  "text": "Privates Mineralienmuseum an der USJ-Universität mit einer riesigen Kristallsammlung.",
+                  "category": "museum",
+                  "coords": [
+                        35.514114,
+                        33.879842
+                  ]
+            },
+            {
+                  "name": "Qasqas",
+                  "text": "Stadtgebiet angrenzend an den Horsh-Beirut-Park, bekannt für seinen traditionellen Charakter.",
+                  "category": "landmark",
+                  "coords": [
+                        35.508926,
+                        33.876
+                  ]
+            },
+            {
+                  "name": "Horsh Beirut",
+                  "text": "Die größte Grünfläche der Stadt, bestehend aus einem weitläufigen Pinienwald.",
+                  "category": "park",
+                  "coords": [
+                        35.509732,
+                        33.871123
+                  ]
+            },
+            {
+                  "name": "Mar Nohra Theatre",
+                  "text": "Lokale Theaterstätte, die mit der Kirchengemeinde Saint Nohra verbunden ist.",
+                  "category": "cultural",
+                  "coords": [
+                        35.523374,
+                        33.873047
+                  ]
+            },
+            {
+                  "name": "National Museum",
+                  "text": "Bedeutendes archäologisches Museum mit einer erstklassigen Sammlung phönizischer Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        35.514925,
+                        33.878255
+                  ]
+            },
+            {
+                  "name": "Syriac Church Sioufi",
+                  "text": "Kirche im hochgelegenen Sioufi-Viertel von Ashrafieh.",
+                  "category": "religious",
+                  "coords": [
+                        35.528057,
+                        33.884275
+                  ]
+            },
+            {
+                  "name": "St. Lourd",
+                  "text": "Kleine christliche Gebetsstätte oder Kapelle, die Unserer Lieben Frau von Lourdes gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.516623,
+                        33.869891
+                  ]
+            },
+            {
+                  "name": "Sayedet Al-Ma'ouneh Church",
+                  "text": "Christliche Gebetsstätte, die Unserer Lieben Frau von der immerwährenden Hilfe gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.522041,
+                        33.871259
+                  ]
+            },
+            {
+                  "name": "Cathédrale Notre Dame de l'Annonciation de Syriaque Catholique",
+                  "text": "Syrisch-katholische Kathedrale in der Nähe des Nationalmuseums.",
+                  "category": "landmark",
+                  "coords": [
+                        35.517475,
+                        33.879543
+                  ]
+            },
+            {
+                  "name": "Al Najat Church",
+                  "text": "Lokale christliche Kirche im Viertel am Nationalmuseum.",
+                  "category": "landmark",
+                  "coords": [
+                        35.509389,
+                        33.883875
+                  ]
+            },
+            {
+                  "name": "El Amlieh",
+                  "text": "Islamischer Kultur- und Bildungsverein im Viertel Ras el Nabaa.",
+                  "category": "landmark",
+                  "coords": [
+                        35.506512,
+                        33.883163
+                  ]
+            },
+            {
+                  "name": "Saint Michel & Gabriel Church",
+                  "text": "Christliche Kirche für die Gemeinde im südlichen Teil des Museumsviertels.",
+                  "category": "landmark",
+                  "coords": [
+                        35.503939,
+                        33.8808
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sunflower Theatre",
+                  "text": "Független előadóművészeti központ a Badaro negyedben.",
+                  "category": "cultural",
+                  "coords": [
+                        35.515121,
+                        33.871242
+                  ]
+            },
+            {
+                  "name": "Samar",
+                  "text": "Helyi látnivaló Bejrút múzeumi negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.517024,
+                        33.874829
+                  ]
+            },
+            {
+                  "name": "kateb l aadel",
+                  "text": "Történelmi épület vagy iroda a központi múzeumi negyedben.",
+                  "category": "castle",
+                  "coords": [
+                        35.520568,
+                        33.862502
+                  ]
+            },
+            {
+                  "name": "Maison Corm",
+                  "text": "Charles Corm történelmi lakóháza, amely art deco stílusáról és nagy kertjéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.514955,
+                        33.881415
+                  ]
+            },
+            {
+                  "name": "Mim Museum",
+                  "text": "Magán ásványmúzeum az USJ egyetemen, amely hatalmas kristálygyűjteménynek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        35.514114,
+                        33.879842
+                  ]
+            },
+            {
+                  "name": "Qasqas",
+                  "text": "A Horsh Beirut parkkal szomszédos városrész, amely hagyományos jellegéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.508926,
+                        33.876
+                  ]
+            },
+            {
+                  "name": "Horsh Beirut",
+                  "text": "A város legnagyobb zöldfelülete, amely egy hatalmas városi fenyőerdőből áll.",
+                  "category": "park",
+                  "coords": [
+                        35.509732,
+                        33.871123
+                  ]
+            },
+            {
+                  "name": "Mar Nohra Theatre",
+                  "text": "Helyi színházi helyszín, amely a Szent Nohra plébániai közösséghez kapcsolódik.",
+                  "category": "cultural",
+                  "coords": [
+                        35.523374,
+                        33.873047
+                  ]
+            },
+            {
+                  "name": "National Museum",
+                  "text": "Jelentős régészeti múzeum, amely föníciai műtárgyak világszínvonalú gyűjteményével rendelkezik.",
+                  "category": "museum",
+                  "coords": [
+                        35.514925,
+                        33.878255
+                  ]
+            },
+            {
+                  "name": "Syriac Church Sioufi",
+                  "text": "Templom Ashrafieh magasan fekvő Sioufi negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        35.528057,
+                        33.884275
+                  ]
+            },
+            {
+                  "name": "St. Lourd",
+                  "text": "Kisméretű keresztény kegyhely vagy kápolna, amelyet a Lourdes-i Miasszonyunknak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        35.516623,
+                        33.869891
+                  ]
+            },
+            {
+                  "name": "Sayedet Al-Ma'ouneh Church",
+                  "text": "A Mindenkor Segítő Szűz Máriának szentelt keresztény templom.",
+                  "category": "landmark",
+                  "coords": [
+                        35.522041,
+                        33.871259
+                  ]
+            },
+            {
+                  "name": "Cathédrale Notre Dame de l'Annonciation de Syriaque Catholique",
+                  "text": "Szír katolikus székesegyház a Nemzeti Múzeum közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.517475,
+                        33.879543
+                  ]
+            },
+            {
+                  "name": "Al Najat Church",
+                  "text": "Helyi keresztény templom a múzeumi negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        35.509389,
+                        33.883875
+                  ]
+            },
+            {
+                  "name": "El Amlieh",
+                  "text": "Iszlám kulturális és oktatási egyesület Ras el Nabaa területén.",
+                  "category": "landmark",
+                  "coords": [
+                        35.506512,
+                        33.883163
+                  ]
+            },
+            {
+                  "name": "Saint Michel & Gabriel Church",
+                  "text": "Keresztény templom a múzeumi negyed déli részén élő közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        35.503939,
+                        33.8808
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sunflower Theatre",
+                  "text": "Spațiu independent pentru artele spectacolului situat în cartierul Badaro.",
+                  "category": "cultural",
+                  "coords": [
+                        35.515121,
+                        33.871242
+                  ]
+            },
+            {
+                  "name": "Samar",
+                  "text": "Atracție locală în cartierul muzeelor din Beirut.",
+                  "category": "landmark",
+                  "coords": [
+                        35.517024,
+                        33.874829
+                  ]
+            },
+            {
+                  "name": "kateb l aadel",
+                  "text": "Clădire istorică sau birou situat în zona centrală a muzeelor.",
+                  "category": "castle",
+                  "coords": [
+                        35.520568,
+                        33.862502
+                  ]
+            },
+            {
+                  "name": "Maison Corm",
+                  "text": "Reședința istorică a lui Charles Corm, cunoscută pentru stilul art deco și grădina mare.",
+                  "category": "landmark",
+                  "coords": [
+                        35.514955,
+                        33.881415
+                  ]
+            },
+            {
+                  "name": "Mim Museum",
+                  "text": "Muzeu privat de minerale la universitatea USJ, care adăpostește o vastă colecție de cristale.",
+                  "category": "museum",
+                  "coords": [
+                        35.514114,
+                        33.879842
+                  ]
+            },
+            {
+                  "name": "Qasqas",
+                  "text": "Zonă urbană adiacentă parcului Horsh Beirut, cunoscută pentru caracterul său tradițional.",
+                  "category": "landmark",
+                  "coords": [
+                        35.508926,
+                        33.876
+                  ]
+            },
+            {
+                  "name": "Horsh Beirut",
+                  "text": "Cea mai mare zonă verde a orașului, constând dintr-o vastă pădure urbană de pini.",
+                  "category": "park",
+                  "coords": [
+                        35.509732,
+                        33.871123
+                  ]
+            },
+            {
+                  "name": "Mar Nohra Theatre",
+                  "text": "Locație de teatru locală asociată cu comunitatea parohiei Saint Nohra.",
+                  "category": "cultural",
+                  "coords": [
+                        35.523374,
+                        33.873047
+                  ]
+            },
+            {
+                  "name": "National Museum",
+                  "text": "Muzeu arheologic major, cu o colecție de clasă mondială de artefacte feniciene.",
+                  "category": "museum",
+                  "coords": [
+                        35.514925,
+                        33.878255
+                  ]
+            },
+            {
+                  "name": "Syriac Church Sioufi",
+                  "text": "Biserică situată în districtul înalt Sioufi din Ashrafieh.",
+                  "category": "religious",
+                  "coords": [
+                        35.528057,
+                        33.884275
+                  ]
+            },
+            {
+                  "name": "St. Lourd",
+                  "text": "Mic altar sau capelă creștină dedicată Maicii Domnului din Lourdes.",
+                  "category": "landmark",
+                  "coords": [
+                        35.516623,
+                        33.869891
+                  ]
+            },
+            {
+                  "name": "Sayedet Al-Ma'ouneh Church",
+                  "text": "Lăcaș de cult creștin dedicat Maicii Domnului de Perpetuu Ajutor.",
+                  "category": "landmark",
+                  "coords": [
+                        35.522041,
+                        33.871259
+                  ]
+            },
+            {
+                  "name": "Cathédrale Notre Dame de l'Annonciation de Syriaque Catholique",
+                  "text": "Catedrală siriacă catolică situată în vecinătatea Muzeului Național.",
+                  "category": "landmark",
+                  "coords": [
+                        35.517475,
+                        33.879543
+                  ]
+            },
+            {
+                  "name": "Al Najat Church",
+                  "text": "Biserică creștină locală care deservește vecinătatea districtului muzeului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.509389,
+                        33.883875
+                  ]
+            },
+            {
+                  "name": "El Amlieh",
+                  "text": "Asociație culturală și educațională islamică în zona Ras el Nabaa.",
+                  "category": "landmark",
+                  "coords": [
+                        35.506512,
+                        33.883163
+                  ]
+            },
+            {
+                  "name": "Saint Michel & Gabriel Church",
+                  "text": "Biserică creștină care deservește comunitatea din partea de sud a districtului muzeului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.503939,
+                        33.8808
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sunflower Theatre",
+                  "text": "Independent performing arts space located in the Badaro neighborhood.",
+                  "category": "cultural",
+                  "coords": [
+                        35.515121,
+                        33.871242
+                  ]
+            },
+            {
+                  "name": "Samar",
+                  "text": "Local attraction in the museum district of Beirut.",
+                  "category": "landmark",
+                  "coords": [
+                        35.517024,
+                        33.874829
+                  ]
+            },
+            {
+                  "name": "kateb l aadel",
+                  "text": "Historic building or office located in the central museum area.",
+                  "category": "castle",
+                  "coords": [
+                        35.520568,
+                        33.862502
+                  ]
+            },
+            {
+                  "name": "Corm House",
+                  "text": "Historic residence of Charles Corm, known for its art deco style and large garden.",
+                  "category": "landmark",
+                  "coords": [
+                        35.514955,
+                        33.881415
+                  ]
+            },
+            {
+                  "name": "Mim Museum",
+                  "text": "Private mineral museum at USJ university housing a vast collection of crystals.",
+                  "category": "museum",
+                  "coords": [
+                        35.514114,
+                        33.879842
+                  ]
+            },
+            {
+                  "name": "Qasqas",
+                  "text": "Urban area adjacent to the Horsh Beirut park, known for its traditional character.",
+                  "category": "landmark",
+                  "coords": [
+                        35.508926,
+                        33.876
+                  ]
+            },
+            {
+                  "name": "Horsh Beirut",
+                  "text": "The city's largest green space, consisting of a vast urban pine forest.",
+                  "category": "park",
+                  "coords": [
+                        35.509732,
+                        33.871123
+                  ]
+            },
+            {
+                  "name": "Mar Nohra Theatre",
+                  "text": "Local theater venue associated with the Saint Nohra parish community.",
+                  "category": "cultural",
+                  "coords": [
+                        35.523374,
+                        33.873047
+                  ]
+            },
+            {
+                  "name": "National Museum",
+                  "text": "Major archaeological museum featuring a world-class collection of Phoenician artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        35.514925,
+                        33.878255
+                  ]
+            },
+            {
+                  "name": "Syriac Church Sioufi",
+                  "text": "Church located in the elevated Sioufi district of Ashrafieh.",
+                  "category": "religious",
+                  "coords": [
+                        35.528057,
+                        33.884275
+                  ]
+            },
+            {
+                  "name": "St. Lourd",
+                  "text": "Small Christian shrine or chapel dedicated to Our Lady of Lourdes.",
+                  "category": "landmark",
+                  "coords": [
+                        35.516623,
+                        33.869891
+                  ]
+            },
+            {
+                  "name": "Sayedet Al-Ma'ouneh Church",
+                  "text": "Christian place of worship dedicated to Our Lady of Perpetual Help.",
+                  "category": "landmark",
+                  "coords": [
+                        35.522041,
+                        33.871259
+                  ]
+            },
+            {
+                  "name": "Cathédrale Notre Dame de l'Annonciation de Syriaque Catholique",
+                  "text": "Syriac Catholic cathedral located in the vicinity of the National Museum.",
+                  "category": "landmark",
+                  "coords": [
+                        35.517475,
+                        33.879543
+                  ]
+            },
+            {
+                  "name": "Al Najat Church",
+                  "text": "Local Christian church serving the museum district neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        35.509389,
+                        33.883875
+                  ]
+            },
+            {
+                  "name": "El Amlieh",
+                  "text": "Islamic cultural and educational association in the Ras el Nabaa area.",
+                  "category": "landmark",
+                  "coords": [
+                        35.506512,
+                        33.883163
+                  ]
+            },
+            {
+                  "name": "Saint Michel & Gabriel Church",
+                  "text": "Christian church serving the community in the southern part of the museum district.",
+                  "category": "landmark",
+                  "coords": [
+                        35.503939,
+                        33.8808
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LB-BA",
     coords: [35.5147, 33.8778],
@@ -399,7 +3891,124 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
     },
   },
       {
-    id: "baatara-gorge-waterfall-landmarks-v2",
+    id: "baatara-gorge-waterfall-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Baatara gorge waterfall",
+                  "text": "Dieser berühmte Wasserfall stürzt in eine gewaltige Kalksteinhöhle, die als Höhle der drei Brücken bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.870589,
+                        34.173729
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Sainte Vierge",
+                  "text": "Eine kleine Kapelle unweit des spektakulären Baatara-Wasserfalls in den Bergen.",
+                  "category": "religious",
+                  "coords": [
+                        35.874202,
+                        34.177608
+                  ]
+            },
+            {
+                  "name": "St. Aabda Church",
+                  "text": "Eine christliche Kirche in der Nähe der beeindruckenden geologischen Formationen des Baatara-Schlunds.",
+                  "category": "landmark",
+                  "coords": [
+                        35.803252,
+                        34.163393
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Baatara gorge waterfall",
+                  "text": "Ez a híres vízesés egy hatalmas mészkőnyílásba zúdul, amelyet a „Három híd barlangjaként” ismernek.",
+                  "category": "landmark",
+                  "coords": [
+                        35.870589,
+                        34.173729
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Sainte Vierge",
+                  "text": "Egy kis kápolna a látványos hegyi Baatara-vízesés közelében.",
+                  "category": "religious",
+                  "coords": [
+                        35.874202,
+                        34.177608
+                  ]
+            },
+            {
+                  "name": "St. Aabda Church",
+                  "text": "Keresztény templom a Baatara-szakadék lenyűgöző geológiai képződményeinek közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.803252,
+                        34.163393
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Baatara gorge waterfall",
+                  "text": "Această cascadă faimoasă cade într-un imens aven de calcar cunoscut sub numele de Peștera celor Trei Poduri.",
+                  "category": "landmark",
+                  "coords": [
+                        35.870589,
+                        34.173729
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Sainte Vierge",
+                  "text": "O mică chapelă situată în apropierea spectaculoasei cascade Baatara din munți.",
+                  "category": "religious",
+                  "coords": [
+                        35.874202,
+                        34.177608
+                  ]
+            },
+            {
+                  "name": "St. Aabda Church",
+                  "text": "O biserică creştină aflată lângă formațiunile geologice impresionante ale avenului Baatara.",
+                  "category": "landmark",
+                  "coords": [
+                        35.803252,
+                        34.163393
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Baatara gorge waterfall",
+                  "text": "This famous waterfall drops into a massive limestone sinkhole known as the Cave of the Three Bridges.",
+                  "category": "landmark",
+                  "coords": [
+                        35.870589,
+                        34.173729
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Sainte Vierge",
+                  "text": "A small chapel located near the spectacular mountainous Baatara gorge waterfall.",
+                  "category": "religious",
+                  "coords": [
+                        35.874202,
+                        34.177608
+                  ]
+            },
+            {
+                  "name": "St. Aabda Church",
+                  "text": "A Christian church situated near the impressive geological formations of the Baatara sinkhole.",
+                  "category": "landmark",
+                  "coords": [
+                        35.803252,
+                        34.163393
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LB-AS",
     coords: [35.8622, 34.1736],
@@ -443,7 +4052,52 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
     },
   },
     {
-    id: "mzaar-kfardebian-landmarks-v2",
+    id: "mzaar-kfardebian-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Le Chalex",
+                  "text": "Ein im alpinen Stil gehaltenes Ziel im Mzaar-Skigebiet, dem größten Wintersportort Libanons.",
+                  "category": "landmark",
+                  "coords": [
+                        35.837661,
+                        34.004171
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Le Chalex",
+                  "text": "Alpesi stílusú úti cél a Mzaar síterületen, Libanon legnagyobb téli sportközpontjában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.837661,
+                        34.004171
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Le Chalex",
+                  "text": "O destinație în stil alpin în zona de schi Mzaar, cea mai mare stațiune de iarnă din Liban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.837661,
+                        34.004171
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Le Chalex",
+                  "text": "An alpine-style destination in the Mzaar ski area, Lebanon's premier winter sports resort.",
+                  "category": "landmark",
+                  "coords": [
+                        35.837661,
+                        34.004171
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LB-JL",
     coords: [35.8353, 33.9936],
@@ -487,7 +4141,376 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
     },
   },
   {
-    id: "mohammad-al-amin-mosque-landmarks-v2",
+    id: "mohammad-al-amin-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museum of Lebanese Prehistory",
+                  "text": "Spezialmuseum mit paläolithischen Faustkeilen und neolithischen Funden aus dem Libanon.",
+                  "category": "museum",
+                  "coords": [
+                        35.508164,
+                        33.891593
+                  ]
+            },
+            {
+                  "name": "Bains Romains",
+                  "text": "Antike Thermalanlage mit in Gärten integrierten Ruinen öffentlicher Dampfbäder.",
+                  "category": "historical",
+                  "coords": [
+                        35.510047,
+                        33.893878
+                  ]
+            },
+            {
+                  "name": "Théâtre Gemmayzé",
+                  "text": "Historisches Theater im lebhaften Viertel Gemmayzeh.",
+                  "category": "cultural",
+                  "coords": [
+                        35.511032,
+                        33.895098
+                  ]
+            },
+            {
+                  "name": "Statue Bechara El-Khoury",
+                  "text": "Denkmal für den ersten Präsidenten des unabhängigen Libanon.",
+                  "category": "historical",
+                  "coords": [
+                        35.506441,
+                        33.886566
+                  ]
+            },
+            {
+                  "name": "The Egg",
+                  "text": "Brutalistischer Betonbau von 1965, ein vom Krieg gezeichnetes Wahrzeichen des Zentrums.",
+                  "category": "landmark",
+                  "coords": [
+                        35.506044,
+                        33.893503
+                  ]
+            },
+            {
+                  "name": "Cathedral of St Elias and St Gregory the Illuminator",
+                  "text": "Armenisch-katholische Kathedrale mit markanter Kuppelarchitektur am Debbas-Platz.",
+                  "category": "religious",
+                  "coords": [
+                        35.507577,
+                        33.892889
+                  ]
+            },
+            {
+                  "name": "Beit Beirut",
+                  "text": "Restauriertes neo-osmanisches Herrenhaus und ehemaliger Scharfschützenposten an der Grünen Linie.",
+                  "category": "museum",
+                  "coords": [
+                        35.508374,
+                        33.886978
+                  ]
+            },
+            {
+                  "name": "san george",
+                  "text": "Neoklassizistische maronitische Kathedrale direkt neben der Mohammad-Al-Amin-Moschee.",
+                  "category": "landmark",
+                  "coords": [
+                        35.504944,
+                        33.891098
+                  ]
+            },
+            {
+                  "name": "Saint Joseph Church",
+                  "text": "Jesuitenkirche im Viertel Monnot, bekannt für ihre Architektur im europäischen Stil.",
+                  "category": "landmark",
+                  "coords": [
+                        35.509072,
+                        33.891151
+                  ]
+            },
+            {
+                  "name": "Moutran Elias Audi church",
+                  "text": "Die griechisch-orthodoxe St.-Georgs-Kathedrale, Sitz des Metropoliten von Bejrút.",
+                  "category": "landmark",
+                  "coords": [
+                        35.510098,
+                        33.889347
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum of Lebanese Prehistory",
+                  "text": "Speciális múzeum, amely libanoni paleolit tűzkőeszközöket és neolitikus leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        35.508164,
+                        33.891593
+                  ]
+            },
+            {
+                  "name": "Bains Romains",
+                  "text": "Ókori termálhelyszín kertbe ágyazott nyilvános gőzfürdő-romokkal.",
+                  "category": "historical",
+                  "coords": [
+                        35.510047,
+                        33.893878
+                  ]
+            },
+            {
+                  "name": "Théâtre Gemmayzé",
+                  "text": "Történelmi színház a nyüzsgő Gemmayzeh negyedben.",
+                  "category": "cultural",
+                  "coords": [
+                        35.511032,
+                        33.895098
+                  ]
+            },
+            {
+                  "name": "Statue Bechara El-Khoury",
+                  "text": "Libanon első független elnökének szentelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        35.506441,
+                        33.886566
+                  ]
+            },
+            {
+                  "name": "The Egg",
+                  "text": "1965-ben épült brutalista betonépület, Bejrút központjának háborús sebeket viselő jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        35.506044,
+                        33.893503
+                  ]
+            },
+            {
+                  "name": "Cathedral of St Elias and St Gregory the Illuminator",
+                  "text": "Örmény katolikus székesegyház jellegzetes kupolás építészettel a Debbas téren.",
+                  "category": "religious",
+                  "coords": [
+                        35.507577,
+                        33.892889
+                  ]
+            },
+            {
+                  "name": "Beit Beirut",
+                  "text": "Restaurált neo-oszmán kúria, amely egykor mesterlövész-állás volt a Zöld Vonalon.",
+                  "category": "museum",
+                  "coords": [
+                        35.508374,
+                        33.886978
+                  ]
+            },
+            {
+                  "name": "san george",
+                  "text": "Neoklasszicista maronita székesegyház a Mohammad Al-Amin mecset mellett.",
+                  "category": "landmark",
+                  "coords": [
+                        35.504944,
+                        33.891098
+                  ]
+            },
+            {
+                  "name": "Saint Joseph Church",
+                  "text": "Jezsuita templom a Monnot negyedben, amely európai stílusú építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.509072,
+                        33.891151
+                  ]
+            },
+            {
+                  "name": "Moutran Elias Audi church",
+                  "text": "Szent György görög ortodox székesegyház, a bejrúti metropolita székhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        35.510098,
+                        33.889347
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum of Lebanese Prehistory",
+                  "text": "Muzeu specializat care expune unelte din silex paleolitic și vestigii neolitice din Liban.",
+                  "category": "museum",
+                  "coords": [
+                        35.508164,
+                        33.891593
+                  ]
+            },
+            {
+                  "name": "Bains Romains",
+                  "text": "Sit termal antic care prezintă ruinele unor băi de aburi publice integrate în grădini.",
+                  "category": "historical",
+                  "coords": [
+                        35.510047,
+                        33.893878
+                  ]
+            },
+            {
+                  "name": "Théâtre Gemmayzé",
+                  "text": "Teatru istoric situat în cartierul vibrant Gemmayzeh.",
+                  "category": "cultural",
+                  "coords": [
+                        35.511032,
+                        33.895098
+                  ]
+            },
+            {
+                  "name": "Statue Bechara El-Khoury",
+                  "text": "Monument dedicat primului președinte al Libanului independent.",
+                  "category": "historical",
+                  "coords": [
+                        35.506441,
+                        33.886566
+                  ]
+            },
+            {
+                  "name": "The Egg",
+                  "text": "Structură brutalistă din beton din 1965, un reper marcat de război al centrului Beirutului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.506044,
+                        33.893503
+                  ]
+            },
+            {
+                  "name": "Cathedral of St Elias and St Gregory the Illuminator",
+                  "text": "Catedrală armeano-catolică cu o arhitectură cupolată distinctă în Piața Debbas.",
+                  "category": "religious",
+                  "coords": [
+                        35.507577,
+                        33.892889
+                  ]
+            },
+            {
+                  "name": "Beit Beirut",
+                  "text": "Conac neo-otoman restaurat și fost punct de observație al lunetiștilor pe Linia Verde.",
+                  "category": "museum",
+                  "coords": [
+                        35.508374,
+                        33.886978
+                  ]
+            },
+            {
+                  "name": "san george",
+                  "text": "Catedrală maronită neoclasică situată lângă Moscheea Mohammad Al-Amin.",
+                  "category": "landmark",
+                  "coords": [
+                        35.504944,
+                        33.891098
+                  ]
+            },
+            {
+                  "name": "Saint Joseph Church",
+                  "text": "Biserică iezuită din cartierul Monnot, cunoscută pentru arhitectura sa în stil european.",
+                  "category": "landmark",
+                  "coords": [
+                        35.509072,
+                        33.891151
+                  ]
+            },
+            {
+                  "name": "Moutran Elias Audi church",
+                  "text": "Catedrala Ortodoxă Greacă Sfântul Gheorghe, reședința Mitropolitului de Beirut.",
+                  "category": "landmark",
+                  "coords": [
+                        35.510098,
+                        33.889347
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of Lebanese Prehistory",
+                  "text": "Specialized museum displaying Paleolithic flint tools and Neolithic pottery from Lebanon.",
+                  "category": "museum",
+                  "coords": [
+                        35.508164,
+                        33.891593
+                  ]
+            },
+            {
+                  "name": "Roman Baths",
+                  "text": "Ancient thermal site featuring garden-integrated ruins of public steam baths.",
+                  "category": "historical",
+                  "coords": [
+                        35.510047,
+                        33.893878
+                  ]
+            },
+            {
+                  "name": "Théâtre Gemmayzé",
+                  "text": "Historic theater located in the vibrant Gemmayzeh district.",
+                  "category": "cultural",
+                  "coords": [
+                        35.511032,
+                        33.895098
+                  ]
+            },
+            {
+                  "name": "Statue Bechara El-Khoury",
+                  "text": "Monument dedicated to the first president of independent Lebanon.",
+                  "category": "historical",
+                  "coords": [
+                        35.506441,
+                        33.886566
+                  ]
+            },
+            {
+                  "name": "The Egg",
+                  "text": "Brutalist concrete structure from 1965, a war-scarred landmark of Beirut's center.",
+                  "category": "landmark",
+                  "coords": [
+                        35.506044,
+                        33.893503
+                  ]
+            },
+            {
+                  "name": "Cathedral of St Elias and St Gregory the Illuminator",
+                  "text": "Armenian Catholic cathedral featuring a distinct domed architecture on Debbas Square.",
+                  "category": "religious",
+                  "coords": [
+                        35.507577,
+                        33.892889
+                  ]
+            },
+            {
+                  "name": "Beit Beirut",
+                  "text": "Restored neo-Ottoman mansion and former sniper outpost on the Green Line.",
+                  "category": "museum",
+                  "coords": [
+                        35.508374,
+                        33.886978
+                  ]
+            },
+            {
+                  "name": "san george",
+                  "text": "Neoclassical Maronite cathedral standing next to the Mohammad Al-Amin Mosque.",
+                  "category": "landmark",
+                  "coords": [
+                        35.504944,
+                        33.891098
+                  ]
+            },
+            {
+                  "name": "Saint Joseph Church",
+                  "text": "Jesuit church in the Monnot district known for its European-style architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        35.509072,
+                        33.891151
+                  ]
+            },
+            {
+                  "name": "Moutran Elias Audi church",
+                  "text": "The Saint George Greek Orthodox Cathedral, seat of the Metropolitan of Beirut.",
+                  "category": "landmark",
+                  "coords": [
+                        35.510098,
+                        33.889347
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LB-BA",
     coords: [35.5064, 33.8944],
@@ -531,7 +4554,88 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
     },
   },
   {
-    id: "saint-george-maronite-cathedral-landmarks-v2",
+    id: "saint-george-maronite-cathedral-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cardo Decumanus Crossing",
+                  "text": "Kreuzung der antiken römischen Hauptstraßen Cardo und Decumanus im Herzen von Beirut.",
+                  "category": "landmark",
+                  "coords": [
+                        35.504818,
+                        33.89504
+                  ]
+            },
+            {
+                  "name": "Muhammad-al-Amin-Moschee",
+                  "text": "Wahrzeichen-Moschee mit blauen Kuppeln und vier hohen Minaretten am Platz der Märtyrer.",
+                  "category": "religious",
+                  "coords": [
+                        35.506013,
+                        33.895252
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cardo Decumanus Crossing",
+                  "text": "Az ókori római főutcák, a Cardo és a Decumanus kereszteződése Bejrút szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.504818,
+                        33.89504
+                  ]
+            },
+            {
+                  "name": "Muhammad al-Amin Mosque",
+                  "text": "Jellegzetes kék kupolás mecset négy magas minarettel a Mártírok terén.",
+                  "category": "religious",
+                  "coords": [
+                        35.506013,
+                        33.895252
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cardo Decumanus Crossing",
+                  "text": "Intersecția principalelor străzi romane antice, Cardo și Decumanus, în inima Beirutului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.504818,
+                        33.89504
+                  ]
+            },
+            {
+                  "name": "Muhammad al-Amin Mosque",
+                  "text": "Moschee emblematică cu cupole albastre și patru minarete înalte în Piața Martirilor.",
+                  "category": "religious",
+                  "coords": [
+                        35.506013,
+                        33.895252
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cardo Decumanus Crossing",
+                  "text": "Intersection of the primary colonnaded streets of Roman-era Berytus.",
+                  "category": "landmark",
+                  "coords": [
+                        35.504818,
+                        33.89504
+                  ]
+            },
+            {
+                  "name": "Muhammad al-Amin Mosque",
+                  "text": "Landmark mosque with blue domes and four tall minarets in downtown Beirut.",
+                  "category": "religious",
+                  "coords": [
+                        35.506013,
+                        33.895252
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LB-BA",
     coords: [35.5056, 33.8953],
@@ -575,7 +4679,232 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
     },
   },
   {
-    id: "roman-baths-of-beirut-landmarks-v2",
+    id: "roman-baths-of-beirut-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Restoration",
+                  "text": "Teil der antiken römischen Bäder, der die restaurierten Ziegelbögen des Hypokaustum-Heizsystems zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.503642,
+                        33.901015
+                  ]
+            },
+            {
+                  "name": "Phoenico-Persian Quarter",
+                  "text": "Diese Ausgrabungsstätte legt die Überreste eines Wohnviertels aus der phönizisch-persischen Epoche frei.",
+                  "category": "landmark",
+                  "coords": [
+                        35.504578,
+                        33.899805
+                  ]
+            },
+            {
+                  "name": "Byzantine Mosaics",
+                  "text": "Antike byzantinische Bodenmosaike mit geometrischen Mustern, die in der Nähe des Bankenviertels erhalten sind.",
+                  "category": "landmark",
+                  "coords": [
+                        35.503157,
+                        33.898632
+                  ]
+            },
+            {
+                  "name": "Souks de Beyrouth",
+                  "text": "Ein modernes Einkaufszentrum, das vom Architekten Rafael Moneo auf den Ruinen der historischen Märkte entworfen wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        35.504286,
+                        33.898601
+                  ]
+            },
+            {
+                  "name": "Mittelalterliche Stadtmauer",
+                  "text": "Überreste der antiken Befestigungsanlagen, die einst das mittelalterliche Beirut schützten.",
+                  "category": "historical",
+                  "coords": [
+                        35.50341,
+                        33.899797
+                  ]
+            },
+            {
+                  "name": "L'Horloge Al-Abed",
+                  "text": "Ein markanter Uhrturm am Place de l'Étoile, der während des französischen Mandats errichtet wurde.",
+                  "category": "tower",
+                  "coords": [
+                        35.504563,
+                        33.896684
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Restoration",
+                  "text": "Az ókori római fürdők része, amely a hipokausztum fűtési rendszer helyreállított téglaíveit mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        35.503642,
+                        33.901015
+                  ]
+            },
+            {
+                  "name": "Phoenico-Persian Quarter",
+                  "text": "Ez a régészeti helyszín egy föníciai-perzsa korszakból származó lakónegyed maradványait tárja fel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.504578,
+                        33.899805
+                  ]
+            },
+            {
+                  "name": "Byzantine Mosaics",
+                  "text": "Ókori bizánci padlómozaikok geometrikus mintákkal, amelyek a banknegyed közelében maradtak fenn.",
+                  "category": "landmark",
+                  "coords": [
+                        35.503157,
+                        33.898632
+                  ]
+            },
+            {
+                  "name": "Souks de Beyrouth",
+                  "text": "Modern bevásárlóközpont, amelyet Rafael Moneo építész tervezett a történelmi piacok romjain.",
+                  "category": "landmark",
+                  "coords": [
+                        35.504286,
+                        33.898601
+                  ]
+            },
+            {
+                  "name": "Medieval city wall",
+                  "text": "Az ókori erődítmények maradványai, amelyek egykor a középkori Bejrútot védték.",
+                  "category": "historical",
+                  "coords": [
+                        35.50341,
+                        33.899797
+                  ]
+            },
+            {
+                  "name": "L'Horloge Al-Abed",
+                  "text": "Jellegzetes óratorony a Place de l'Étoile téren, amely a francia mandátum idején épült.",
+                  "category": "tower",
+                  "coords": [
+                        35.504563,
+                        33.896684
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Restoration",
+                  "text": "Parte a vechilor băi romane, prezentând arcadele de cărămidă restaurate ale sistemului de încălzire hypocaust.",
+                  "category": "landmark",
+                  "coords": [
+                        35.503642,
+                        33.901015
+                  ]
+            },
+            {
+                  "name": "Phoenico-Persian Quarter",
+                  "text": "Acest sit arheologic scoate la iveală vestigiile unui cartier rezidențial din epoca feniciano-persană.",
+                  "category": "landmark",
+                  "coords": [
+                        35.504578,
+                        33.899805
+                  ]
+            },
+            {
+                  "name": "Byzantine Mosaics",
+                  "text": "Mozaicuri bizantine antice cu modele geometrice, conservate în apropierea districtului bancar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.503157,
+                        33.898632
+                  ]
+            },
+            {
+                  "name": "Souks de Beyrouth",
+                  "text": "Un centru comercial modern proiectat de arhitectul Rafael Moneo pe ruinele piețelor istorice.",
+                  "category": "landmark",
+                  "coords": [
+                        35.504286,
+                        33.898601
+                  ]
+            },
+            {
+                  "name": "Medieval city wall",
+                  "text": "Rămășițe ale fortificațiilor antice care protejau odinioară Beirutul medieval.",
+                  "category": "historical",
+                  "coords": [
+                        35.50341,
+                        33.899797
+                  ]
+            },
+            {
+                  "name": "L'Horloge Al-Abed",
+                  "text": "Un turn cu ceas proeminent în Place de l'Étoile, construit în timpul mandatului francez.",
+                  "category": "tower",
+                  "coords": [
+                        35.504563,
+                        33.896684
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Restoration",
+                  "text": "Part of the ancient Roman baths, showing the restored brick arches of the hypocaust heating system.",
+                  "category": "landmark",
+                  "coords": [
+                        35.503642,
+                        33.901015
+                  ]
+            },
+            {
+                  "name": "Phoenico-Persian Quarter",
+                  "text": "This archaeological site exposes the remains of a residential quarter from the Phoenician-Persian era.",
+                  "category": "landmark",
+                  "coords": [
+                        35.504578,
+                        33.899805
+                  ]
+            },
+            {
+                  "name": "Byzantine Mosaics",
+                  "text": "Ancient Byzantine floor mosaics with geometric patterns, preserved near the banking district.",
+                  "category": "landmark",
+                  "coords": [
+                        35.503157,
+                        33.898632
+                  ]
+            },
+            {
+                  "name": "Beirut Souks",
+                  "text": "A modern commercial district designed by architect Rafael Moneo on the site of the historic medieval markets.",
+                  "category": "landmark",
+                  "coords": [
+                        35.504286,
+                        33.898601
+                  ]
+            },
+            {
+                  "name": "Medieval city wall",
+                  "text": "Remnants of the ancient fortifications that once protected medieval Beirut.",
+                  "category": "historical",
+                  "coords": [
+                        35.50341,
+                        33.899797
+                  ]
+            },
+            {
+                  "name": "L'Horloge Al-Abed",
+                  "text": "A prominent clock tower in Place de l'Étoile, built during the French Mandate.",
+                  "category": "tower",
+                  "coords": [
+                        35.504563,
+                        33.896684
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LB-BA",
     coords: [35.5028, 33.8967],
@@ -619,7 +4948,160 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
     },
   },
     {
-    id: "ksara-caves-landmarks-v2",
+    id: "ksara-caves-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mambo Beach & Waterpark",
+                  "text": "Ein moderner Wasserpark in der Nähe der berühmten Weingüter des Bekaa-Tals.",
+                  "category": "recreational",
+                  "coords": [
+                        35.875154,
+                        33.779666
+                  ]
+            },
+            {
+                  "name": "Caves de Ksara",
+                  "text": "Ausgedehnte natürliche Kalksteinhöhlen, die seit der Römerzeit zur Weinlagerung genutzt werden.",
+                  "category": "landmark",
+                  "coords": [
+                        35.8926,
+                        33.826478
+                  ]
+            },
+            {
+                  "name": "masjid-alnoor",
+                  "text": "Eine lokale Moschee, die als religiöser Treffpunkt im Viertel Ksara dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.92357,
+                        33.785953
+                  ]
+            },
+            {
+                  "name": "Z-Highway",
+                  "text": "Ein belebtes Marktviertel mit zahlreichen Geschäften entlang der Hauptstraße.",
+                  "category": "cultural",
+                  "coords": [
+                        35.892744,
+                        33.823567
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mambo Beach & Waterpark",
+                  "text": "Modern vízipark a Bekaa-völgy híres borászatai közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        35.875154,
+                        33.779666
+                  ]
+            },
+            {
+                  "name": "Caves de Ksara",
+                  "text": "Kiterjedt természetes mészkőbarlangok, amelyeket a római kor óta borérlelésre használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        35.8926,
+                        33.826478
+                  ]
+            },
+            {
+                  "name": "masjid-alnoor",
+                  "text": "Helyi mecset, amely a Ksara negyed vallási gyülekezőhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        35.92357,
+                        33.785953
+                  ]
+            },
+            {
+                  "name": "Z-Highway",
+                  "text": "Nyüzsgő piaci negyed számos üzlettel a főút mentén.",
+                  "category": "cultural",
+                  "coords": [
+                        35.892744,
+                        33.823567
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mambo Beach & Waterpark",
+                  "text": "Un parc acvatic modern situat lângă faimoasele podgorii din Valea Bekaa.",
+                  "category": "recreational",
+                  "coords": [
+                        35.875154,
+                        33.779666
+                  ]
+            },
+            {
+                  "name": "Caves de Ksara",
+                  "text": "Peșteri naturale vaste de calcar folosite încă din epoca romană pentru maturarea vinului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.8926,
+                        33.826478
+                  ]
+            },
+            {
+                  "name": "masjid-alnoor",
+                  "text": "O moschee locală care servește ca loc de adunare religioasă în cartierul Ksara.",
+                  "category": "landmark",
+                  "coords": [
+                        35.92357,
+                        33.785953
+                  ]
+            },
+            {
+                  "name": "Z-Highway",
+                  "text": "Un cartier comercial plin de viață, cu numeroase magazine de-a lungul șoselei principale.",
+                  "category": "cultural",
+                  "coords": [
+                        35.892744,
+                        33.823567
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mambo Beach & Waterpark",
+                  "text": "A modern water park located near the Bekaa Valley's famous vineyards.",
+                  "category": "recreational",
+                  "coords": [
+                        35.875154,
+                        33.779666
+                  ]
+            },
+            {
+                  "name": "Caves de Ksara",
+                  "text": "Extensive natural limestone caves used since Roman times for wine aging.",
+                  "category": "landmark",
+                  "coords": [
+                        35.8926,
+                        33.826478
+                  ]
+            },
+            {
+                  "name": "masjid-alnoor",
+                  "text": "A local mosque serving as a religious gathering place in the Ksara district.",
+                  "category": "landmark",
+                  "coords": [
+                        35.92357,
+                        33.785953
+                  ]
+            },
+            {
+                  "name": "Z-Highway",
+                  "text": "A bustling marketplace district with numerous shops along the main highway.",
+                  "category": "cultural",
+                  "coords": [
+                        35.892744,
+                        33.823567
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LB-BI",
     coords: [35.8889, 33.8242],

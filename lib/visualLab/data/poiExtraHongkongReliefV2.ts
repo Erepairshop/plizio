@@ -3,7 +3,160 @@ import { POI } from './poi';
 export const hongkongReliefV2: POI[] = [
 
   {
-    id: "hongkong-mount-parker-relief-v2",
+    id: "hongkong-mount-parker-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mt. Butler Viewing Point",
+                  "text": "Dieser hochgelegene Aussichtspunkt bietet Wanderern ein wohlverdientes Panorama auf das umliegende Bergrelief.",
+                  "category": "natural",
+                  "coords": [
+                        114.211139,
+                        22.267656
+                  ]
+            },
+            {
+                  "name": "Mount Parker",
+                  "text": "Als bedeutender Gipfel zeichnet er sich durch dichte Vegetation und beliebte Wanderwege aus, die seine Hänge hinaufführen.",
+                  "category": "natural",
+                  "coords": [
+                        114.219879,
+                        22.265973
+                  ]
+            },
+            {
+                  "name": "Mount Parker Road Viewing Point",
+                  "text": "Entlang des Weges gelegen, bietet dieser Aussichtspunkt einen weiten Blick auf das üppige Grün der Region.",
+                  "category": "natural",
+                  "coords": [
+                        114.211959,
+                        22.27242
+                  ]
+            },
+            {
+                  "name": "Taikoo Sanatorium",
+                  "text": "Die Ruinen dieses ehemaligen Sanatoriums liegen nun ruhig zwischen den Bäumen am Hang.",
+                  "category": "historical",
+                  "coords": [
+                        114.213686,
+                        22.266531
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mt. Butler Viewing Point",
+                  "text": "Ez a magasan fekvő kilátó jól megérdemelt panorámát kínál a túrázóknak a környező hegyvidéki domborzatra.",
+                  "category": "natural",
+                  "coords": [
+                        114.211139,
+                        22.267656
+                  ]
+            },
+            {
+                  "name": "Mount Parker",
+                  "text": "Jelentős csúcsként sűrű növényzet és a lejtőin felfelé haladó népszerű túraútvonalak jellemzik.",
+                  "category": "natural",
+                  "coords": [
+                        114.219879,
+                        22.265973
+                  ]
+            },
+            {
+                  "name": "Mount Parker Road Viewing Point",
+                  "text": "Az ösvény mentén található kilátó tágas kilátást nyújt a régió buja növényzetére.",
+                  "category": "natural",
+                  "coords": [
+                        114.211959,
+                        22.27242
+                  ]
+            },
+            {
+                  "name": "Taikoo Sanatorium",
+                  "text": "Ennek az egykori szanatóriumnak a romjai ma csendesen pihennek a fák között a domboldalon.",
+                  "category": "historical",
+                  "coords": [
+                        114.213686,
+                        22.266531
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mt. Butler Viewing Point",
+                  "text": "Acest punct de belvedere înalt oferă drumeților o panoramă bine meritată a reliefului muntos din jur.",
+                  "category": "natural",
+                  "coords": [
+                        114.211139,
+                        22.267656
+                  ]
+            },
+            {
+                  "name": "Mount Parker",
+                  "text": "Ca vârf semnificativ, prezintă o vegetație densă și trasee populare de drumeție care urcă pe pantele sale.",
+                  "category": "natural",
+                  "coords": [
+                        114.219879,
+                        22.265973
+                  ]
+            },
+            {
+                  "name": "Mount Parker Road Viewing Point",
+                  "text": "Situat de-a lungul traseului, acest punct de belvedere oferă o privire extinsă asupra verdeții luxuriante a regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        114.211959,
+                        22.27242
+                  ]
+            },
+            {
+                  "name": "Taikoo Sanatorium",
+                  "text": "Ruinele acestui fost sanatoriu stau acum liniștite printre copacii de pe versantul dealului.",
+                  "category": "historical",
+                  "coords": [
+                        114.213686,
+                        22.266531
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mt. Butler Viewing Point",
+                  "text": "This elevated viewpoint offers hikers a well-earned panorama of the surrounding mountainous relief.",
+                  "category": "natural",
+                  "coords": [
+                        114.211139,
+                        22.267656
+                  ]
+            },
+            {
+                  "name": "Mount Parker",
+                  "text": "As a significant peak, it features dense vegetation and popular hiking trails ascending its slopes.",
+                  "category": "natural",
+                  "coords": [
+                        114.219879,
+                        22.265973
+                  ]
+            },
+            {
+                  "name": "Mount Parker Road Viewing Point",
+                  "text": "Situated along the trail, this viewpoint gives an expansive look at the lush greenery of the region.",
+                  "category": "natural",
+                  "coords": [
+                        114.211959,
+                        22.27242
+                  ]
+            },
+            {
+                  "name": "Taikoo Sanatorium",
+                  "text": "The ruins of this former sanatorium now sit quietly among the trees on the hillside.",
+                  "category": "historical",
+                  "coords": [
+                        114.213686,
+                        22.266531
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "peak",
     name: { de: "Mount Parker", hu: "Parker-hegy", ro: "Muntele Parker", en: "Mount Parker" },
@@ -48,7 +201,124 @@ export const hongkongReliefV2: POI[] = [
     image: "/poi-images/hongkong-mount-parker-relief-v2.webp",
   },
   {
-    id: "hongkong-mount-butler-relief-v2",
+    id: "hongkong-mount-butler-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Siu Ma Shan",
+                  "text": "Dieser bekannte Gipfel bietet anspruchsvolle Wanderungen und weite Ausblicke über die umliegenden Hügel.",
+                  "category": "natural",
+                  "coords": [
+                        114.207584,
+                        22.270515
+                  ]
+            },
+            {
+                  "name": "Tai Tam Viewing Point",
+                  "text": "Dieser malerische Aussichtspunkt bietet ein weites Panorama auf die üppigen Täler des Country Parks.",
+                  "category": "natural",
+                  "coords": [
+                        114.208138,
+                        22.257975
+                  ]
+            },
+            {
+                  "name": "Jardine's Lookout",
+                  "text": "Dieser markante Gipfel ist berühmt für seinen majestätischen Blick über die Stadt und seine historische Bedeutung.",
+                  "category": "natural",
+                  "coords": [
+                        114.198333,
+                        22.266356
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Siu Ma Shan",
+                  "text": "Ez az ismert csúcs kihívást jelentő túrákat és kiterjedt kilátást kínál a környező dombokra.",
+                  "category": "natural",
+                  "coords": [
+                        114.207584,
+                        22.270515
+                  ]
+            },
+            {
+                  "name": "Tai Tam Viewing Point",
+                  "text": "Ez a festői kilátó pazar panorámát nyújt a nemzeti park buja völgyeire.",
+                  "category": "natural",
+                  "coords": [
+                        114.208138,
+                        22.257975
+                  ]
+            },
+            {
+                  "name": "Jardine's Lookout",
+                  "text": "Ez a kiemelkedő csúcs híres a városra nyíló fenséges kilátásáról és történelmi jelentőségéről.",
+                  "category": "natural",
+                  "coords": [
+                        114.198333,
+                        22.266356
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Siu Ma Shan",
+                  "text": "Acest vârf binecunoscut oferă drumeții provocatoare și vederi extinse asupra dealurilor din jur.",
+                  "category": "natural",
+                  "coords": [
+                        114.207584,
+                        22.270515
+                  ]
+            },
+            {
+                  "name": "Tai Tam Viewing Point",
+                  "text": "Acest punct de belvedere pitoresc oferă panorame vaste ale văilor luxuriante ale parcului național.",
+                  "category": "natural",
+                  "coords": [
+                        114.208138,
+                        22.257975
+                  ]
+            },
+            {
+                  "name": "Jardine's Lookout",
+                  "text": "Acest vârf proeminent este renumit pentru priveliștile sale impunătoare asupra orașului și pentru semnificația sa istorică.",
+                  "category": "natural",
+                  "coords": [
+                        114.198333,
+                        22.266356
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Siu Ma Shan",
+                  "text": "This well-known peak offers challenging hikes and expansive views over the surrounding hills.",
+                  "category": "natural",
+                  "coords": [
+                        114.207584,
+                        22.270515
+                  ]
+            },
+            {
+                  "name": "Tai Tam Viewing Point",
+                  "text": "This scenic viewpoint provides sweeping panoramas of the country park's lush valleys.",
+                  "category": "natural",
+                  "coords": [
+                        114.208138,
+                        22.257975
+                  ]
+            },
+            {
+                  "name": "Jardine's Lookout",
+                  "text": "This prominent peak is famous for its commanding views over the city and its historical significance.",
+                  "category": "natural",
+                  "coords": [
+                        114.198333,
+                        22.266356
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "peak",
     name: { de: "Mount Butler", hu: "Butler-hegy", ro: "Muntele Butler", en: "Mount Butler" },
@@ -93,7 +363,124 @@ export const hongkongReliefV2: POI[] = [
     image: "/poi-images/hongkong-mount-butler-relief-v2.webp",
   },
   {
-    id: "hongkong-high-west-relief-v2",
+    id: "hongkong-high-west-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mt. High West Viewing Point",
+                  "text": "Dieser Aussichtspunkt bietet einen weiten Blick über die grünen Hänge des Berges.",
+                  "category": "natural",
+                  "coords": [
+                        114.136257,
+                        22.272164
+                  ]
+            },
+            {
+                  "name": "Lung Fu Shan Viewing Point",
+                  "text": "Von diesem Aussichtspunkt aus kann man die bewaldeten Hänge des Lung Fu Shan überblicken.",
+                  "category": "natural",
+                  "coords": [
+                        114.132856,
+                        22.273644
+                  ]
+            },
+            {
+                  "name": "Kai Ming Temple",
+                  "text": "Dieser buddhistische Tempel dient als Rückzugsort für Meditation und Gebet.",
+                  "category": "landmark",
+                  "coords": [
+                        114.129612,
+                        22.27468
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mt. High West Viewing Point",
+                  "text": "Ez a kilátó széles panorámát nyújt a hegy zöldellő lejtőire.",
+                  "category": "natural",
+                  "coords": [
+                        114.136257,
+                        22.272164
+                  ]
+            },
+            {
+                  "name": "Lung Fu Shan Viewing Point",
+                  "text": "Ebből a kilátóból áttekinthetjük a Lung Fu Shan erdős hegyoldalait.",
+                  "category": "natural",
+                  "coords": [
+                        114.132856,
+                        22.273644
+                  ]
+            },
+            {
+                  "name": "Kai Ming Temple",
+                  "text": "Ez a buddhista templom a meditáció és az imádság nyugodt menedékhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        114.129612,
+                        22.27468
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mt. High West Viewing Point",
+                  "text": "Acest punct de belvedere oferă o priveliște largă asupra versanților verzi ai muntelui.",
+                  "category": "natural",
+                  "coords": [
+                        114.136257,
+                        22.272164
+                  ]
+            },
+            {
+                  "name": "Lung Fu Shan Viewing Point",
+                  "text": "Din acest punct de belvedere se pot observa versanții împăduriți ai muntelui Lung Fu Shan.",
+                  "category": "natural",
+                  "coords": [
+                        114.132856,
+                        22.273644
+                  ]
+            },
+            {
+                  "name": "Kai Ming Temple",
+                  "text": "Acest templu budist servește drept refugiu liniștit pentru meditație și rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        114.129612,
+                        22.27468
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mt. High West Viewing Point",
+                  "text": "This viewpoint offers sweeping vistas over the lush green slopes of the mountain.",
+                  "category": "natural",
+                  "coords": [
+                        114.136257,
+                        22.272164
+                  ]
+            },
+            {
+                  "name": "Lung Fu Shan Viewing Point",
+                  "text": "From this viewpoint, visitors can gaze over the forested slopes of Lung Fu Shan.",
+                  "category": "natural",
+                  "coords": [
+                        114.132856,
+                        22.273644
+                  ]
+            },
+            {
+                  "name": "Kai Ming Temple",
+                  "text": "This Buddhist temple serves as a peaceful retreat for meditation and prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        114.129612,
+                        22.27468
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "peak",
     name: { de: "High West", hu: "High West", ro: "High West", en: "High West" },
@@ -138,7 +525,52 @@ export const hongkongReliefV2: POI[] = [
     image: "/poi-images/hongkong-high-west-relief-v2.webp",
   },
   {
-    id: "hongkong-mount-davis-relief-v2",
+    id: "hongkong-mount-davis-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Block C",
+                  "text": "Diese Ruinen stammen von einem ehemaligen militärischen Unterkunftsblock.",
+                  "category": "historical",
+                  "coords": [
+                        114.117493,
+                        22.274771
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Block C",
+                  "text": "Ezek a romok egy egykori katonai szállásépület maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        114.117493,
+                        22.274771
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Block C",
+                  "text": "Aceste ruine provin de la un fost bloc de cazarmă militară.",
+                  "category": "historical",
+                  "coords": [
+                        114.117493,
+                        22.274771
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Block C",
+                  "text": "These ruins are the remains of a former military accommodation block.",
+                  "category": "historical",
+                  "coords": [
+                        114.117493,
+                        22.274771
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "peak",
     name: { de: "Mount Davis", hu: "Mount Davis", ro: "Mount Davis", en: "Mount Davis" },
@@ -183,7 +615,52 @@ export const hongkongReliefV2: POI[] = [
     image: "/poi-images/hongkong-mount-davis-relief-v2.webp",
   },
   {
-    id: "hongkong-tai-to-yan-relief-v2",
+    id: "hongkong-tai-to-yan-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tai To Yan",
+                  "text": "Dieser bemerkenswerte Berggipfel in den New Territories ist für seinen messerscharfen Gratweg bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        114.118218,
+                        22.451096
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tai To Yan",
+                  "text": "Ez a New Territories-ben található figyelemre méltó hegycsúcs a borotvaéles gerincútjáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        114.118218,
+                        22.451096
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tai To Yan",
+                  "text": "Acest vârf montan notabil din Noile Teritorii este recunoscut pentru traseul său de creastă ascuțită.",
+                  "category": "natural",
+                  "coords": [
+                        114.118218,
+                        22.451096
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tai To Yan",
+                  "text": "This notable mountain peak in the New Territories is recognized for its razor-edged ridge trail.",
+                  "category": "natural",
+                  "coords": [
+                        114.118218,
+                        22.451096
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "mountain",
     name: { de: "Tai To Yan", hu: "Tai To Yan", ro: "Tai To Yan", en: "Tai To Yan" },
@@ -228,7 +705,160 @@ export const hongkongReliefV2: POI[] = [
     image: "/poi-images/hongkong-tai-to-yan-relief-v2.webp",
   },
   {
-    id: "hongkong-kai-kung-leng-relief-v2",
+    id: "hongkong-kai-kung-leng-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ngau Tam Shan",
+                  "text": "Ngau Tam Shan ist ein grasbewachsener Berggipfel, der weite Blicke über das umliegende Reliefgebiet von Kai Kung Leng bietet.",
+                  "category": "natural",
+                  "coords": [
+                        114.089565,
+                        22.480988
+                  ]
+            },
+            {
+                  "name": "Christian Ebenezer Hall",
+                  "text": "Die Christian Ebenezer Hall ist eine aktive lokale Kirche vor der hügeligen Kulisse der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        114.111772,
+                        22.483019
+                  ]
+            },
+            {
+                  "name": "Lung Tam Kwun Yam Temple",
+                  "text": "Der Lung Tam Kwun Yam Tempel ist ein ruhiger buddhistischer Schrein, der der Göttin der Barmherzigkeit gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        114.095241,
+                        22.477152
+                  ]
+            },
+            {
+                  "name": "Pang' Temple",
+                  "text": "Der Pang' Temple ist eine lokale Andachtsstätte, die als spiritueller Anker für das umliegende ländliche Dorf dient.",
+                  "category": "religious",
+                  "coords": [
+                        114.104005,
+                        22.475997
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ngau Tam Shan",
+                  "text": "A Ngau Tam Shan egy füves hegycsúcs, ahonnan elsöprő kilátás nyílik a környező Kai Kung Leng domborzatára.",
+                  "category": "natural",
+                  "coords": [
+                        114.089565,
+                        22.480988
+                  ]
+            },
+            {
+                  "name": "Christian Ebenezer Hall",
+                  "text": "A Keresztény Ebenezer Csarnok egy aktív helyi templom a régió dombos hátterében.",
+                  "category": "landmark",
+                  "coords": [
+                        114.111772,
+                        22.483019
+                  ]
+            },
+            {
+                  "name": "Lung Tam Kwun Yam Temple",
+                  "text": "A Lung Tam Kwun Yam templom az Irgalom Istennőjének szentelt nyugodt buddhista szentély.",
+                  "category": "landmark",
+                  "coords": [
+                        114.095241,
+                        22.477152
+                  ]
+            },
+            {
+                  "name": "Pang' Temple",
+                  "text": "A Pang templom egy helyi istentiszteleti hely, amely a környező vidéki falu spirituális központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        114.104005,
+                        22.475997
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ngau Tam Shan",
+                  "text": "Ngau Tam Shan este un vârf montan înierbat care oferă vederi ample asupra zonei de relief înconjurătoare Kai Kung Leng.",
+                  "category": "natural",
+                  "coords": [
+                        114.089565,
+                        22.480988
+                  ]
+            },
+            {
+                  "name": "Christian Ebenezer Hall",
+                  "text": "Sala Creștină Ebenezer este o biserică locală activă, situată pe fundalul deluros al regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        114.111772,
+                        22.483019
+                  ]
+            },
+            {
+                  "name": "Lung Tam Kwun Yam Temple",
+                  "text": "Templul Lung Tam Kwun Yam este un sanctuar budist liniștit, dedicat Zeiței Milei.",
+                  "category": "landmark",
+                  "coords": [
+                        114.095241,
+                        22.477152
+                  ]
+            },
+            {
+                  "name": "Pang' Temple",
+                  "text": "Templul Pang este un loc de cult localizat care servește ca o ancoră spirituală pentru satul rural înconjurător.",
+                  "category": "religious",
+                  "coords": [
+                        114.104005,
+                        22.475997
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ngau Tam Shan",
+                  "text": "Ngau Tam Shan is a grassy mountain peak offering sweeping views over the surrounding Kai Kung Leng relief area.",
+                  "category": "natural",
+                  "coords": [
+                        114.089565,
+                        22.480988
+                  ]
+            },
+            {
+                  "name": "Christian Ebenezer Hall",
+                  "text": "The Christian Ebenezer Hall is an active local church facility set against the hilly backdrop of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        114.111772,
+                        22.483019
+                  ]
+            },
+            {
+                  "name": "Lung Tam Kwun Yam Temple",
+                  "text": "Lung Tam Kwun Yam Temple is a tranquil Buddhist shrine dedicated to the Goddess of Mercy, hidden away in the local hills.",
+                  "category": "landmark",
+                  "coords": [
+                        114.095241,
+                        22.477152
+                  ]
+            },
+            {
+                  "name": "Pang' Temple",
+                  "text": "Pang' Temple is a localized place of worship serving as a spiritual anchor for the surrounding rural village.",
+                  "category": "religious",
+                  "coords": [
+                        114.104005,
+                        22.475997
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "peak",
     name: { de: "Kai Kung Leng", hu: "Kai Kung Leng", ro: "Kai Kung Leng", en: "Kai Kung Leng" },
@@ -273,7 +903,196 @@ export const hongkongReliefV2: POI[] = [
     image: "/poi-images/hongkong-kai-kung-leng-relief-v2.webp",
   },
   {
-    id: "hongkong-nei-lak-shan-relief-v2",
+    id: "hongkong-nei-lak-shan-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "triangle rock",
+                  "text": "Der Triangle Rock ist eine auffällige, dreieckig geformte Felsformation an den Hängen des Nei Lak Shan.",
+                  "category": "landmark",
+                  "coords": [
+                        113.917675,
+                        22.2752
+                  ]
+            },
+            {
+                  "name": "Sha Lo Wan Camphor Tree",
+                  "text": "Der Sha Lo Wan Camphor Tree ist ein bemerkenswerter alter Kampferbaum, der als Naturattraktion am Fuß des Nei Lak Shan gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        113.903073,
+                        22.283792
+                  ]
+            },
+            {
+                  "name": "Nei Lak Shan",
+                  "text": "Der Nei Lak Shan ist ein markanter Berggipfel in Hongkong, der sich in unmittelbarer Nähe des Ngong Ping Plateaus befindet.",
+                  "category": "natural",
+                  "coords": [
+                        113.911129,
+                        22.263257
+                  ]
+            },
+            {
+                  "name": "Ng Kok Yuen",
+                  "text": "Das Ng Kok Yuen ist ein buddhistischer Rückzugsort, der friedlich in der Berglandschaft des Nei Lak Shan liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        113.905476,
+                        22.258304
+                  ]
+            },
+            {
+                  "name": "Yin Hing Monastery",
+                  "text": "Das Yin Hing Monastery ist ein buddhistisches Kloster, das fest in das felsige Terrain des Nei Lak Shan eingebettet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        113.88626,
+                        22.252033
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "triangle rock",
+                  "text": "A Triangle Rock egy feltűnő, háromszög alakú sziklaképződmény a Nei Lak Shan lejtőin.",
+                  "category": "landmark",
+                  "coords": [
+                        113.917675,
+                        22.2752
+                  ]
+            },
+            {
+                  "name": "Sha Lo Wan Camphor Tree",
+                  "text": "A Sha Lo Wan kámforfa egy figyelemre méltó öreg fa, amely természeti látványosság a Nei Lak Shan lábánál.",
+                  "category": "landmark",
+                  "coords": [
+                        113.903073,
+                        22.283792
+                  ]
+            },
+            {
+                  "name": "Nei Lak Shan",
+                  "text": "A Nei Lak Shan egy kiemelkedő hegycsúcs Hongkongban, amely a Ngong Ping-fennsík közvetlen közelében található.",
+                  "category": "natural",
+                  "coords": [
+                        113.911129,
+                        22.263257
+                  ]
+            },
+            {
+                  "name": "Ng Kok Yuen",
+                  "text": "Az Ng Kok Yuen egy buddhista menedékhely, amely békésen fekszik a Nei Lak Shan hegyvidéki táján.",
+                  "category": "landmark",
+                  "coords": [
+                        113.905476,
+                        22.258304
+                  ]
+            },
+            {
+                  "name": "Yin Hing Monastery",
+                  "text": "A Yin Hing Monastery egy buddhista kolostor, amely szilárdan a Nei Lak Shan sziklás terepébe ágyazódik.",
+                  "category": "landmark",
+                  "coords": [
+                        113.88626,
+                        22.252033
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "triangle rock",
+                  "text": "Triangle Rock este o formațiune stâncoasă triunghiulară proeminentă situată pe pantele Nei Lak Shan.",
+                  "category": "landmark",
+                  "coords": [
+                        113.917675,
+                        22.2752
+                  ]
+            },
+            {
+                  "name": "Sha Lo Wan Camphor Tree",
+                  "text": "Arborele de camfor Sha Lo Wan este un copac bătrân remarcabil, recunoscut ca atracție naturală la poalele Nei Lak Shan.",
+                  "category": "landmark",
+                  "coords": [
+                        113.903073,
+                        22.283792
+                  ]
+            },
+            {
+                  "name": "Nei Lak Shan",
+                  "text": "Nei Lak Shan este un vârf montan important din Hong Kong, situat în imediata apropiere a platoului Ngong Ping.",
+                  "category": "natural",
+                  "coords": [
+                        113.911129,
+                        22.263257
+                  ]
+            },
+            {
+                  "name": "Ng Kok Yuen",
+                  "text": "Ng Kok Yuen este un loc de retragere budist situat liniștit în peisajul montan al Nei Lak Shan.",
+                  "category": "landmark",
+                  "coords": [
+                        113.905476,
+                        22.258304
+                  ]
+            },
+            {
+                  "name": "Yin Hing Monastery",
+                  "text": "Yin Hing Monastery este o mănăstire budistă încastrată ferm în terenul stâncos al Nei Lak Shan.",
+                  "category": "landmark",
+                  "coords": [
+                        113.88626,
+                        22.252033
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "triangle rock",
+                  "text": "The triangle rock is a distinctively shaped stone formation serving as an attraction on the slopes of Nei Lak Shan.",
+                  "category": "landmark",
+                  "coords": [
+                        113.917675,
+                        22.2752
+                  ]
+            },
+            {
+                  "name": "Sha Lo Wan Camphor Tree",
+                  "text": "The Sha Lo Wan Camphor Tree is a notable old camphor tree serving as a natural attraction at the base of Nei Lak Shan.",
+                  "category": "landmark",
+                  "coords": [
+                        113.903073,
+                        22.283792
+                  ]
+            },
+            {
+                  "name": "Nei Lak Shan",
+                  "text": "Nei Lak Shan is a prominent mountain peak in Hong Kong located in close proximity to the Ngong Ping plateau.",
+                  "category": "natural",
+                  "coords": [
+                        113.911129,
+                        22.263257
+                  ]
+            },
+            {
+                  "name": "Ng Kok Yuen",
+                  "text": "Ng Kok Yuen is a Buddhist retreat peacefully nestled in the mountainous landscape of Nei Lak Shan.",
+                  "category": "landmark",
+                  "coords": [
+                        113.905476,
+                        22.258304
+                  ]
+            },
+            {
+                  "name": "Yin Hing Monastery",
+                  "text": "Yin Hing Monastery is a Buddhist monastery firmly integrated into the rocky terrain of Nei Lak Shan.",
+                  "category": "landmark",
+                  "coords": [
+                        113.88626,
+                        22.252033
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "peak",
     name: { de: "Nei Lak Shan", hu: "Nei Lak Shan", ro: "Nei Lak Shan", en: "Nei Lak Shan" },
@@ -318,7 +1137,196 @@ export const hongkongReliefV2: POI[] = [
     image: "/poi-images/hongkong-nei-lak-shan-relief-v2.webp",
   },
   {
-    id: "hongkong-buffalo-hill-relief-v2",
+    id: "hongkong-buffalo-hill-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Buffalo Hill",
+                  "text": "Dieser markante, grasbewachsene Gipfel ist bei Wanderern besonders für seine auffällige Felsformation „Steinfenster“ in Gipfelnähe beliebt.",
+                  "category": "natural",
+                  "coords": [
+                        114.234363,
+                        22.374588
+                  ]
+            },
+            {
+                  "name": "West Buffalo Hill",
+                  "text": "Eng mit seinem Zwillingsgipfel verbunden, belohnt diese steile Erhebung Kletterer mit einem unverbauten Blick über das umliegende Naturparkgelände.",
+                  "category": "natural",
+                  "coords": [
+                        114.232075,
+                        22.372952
+                  ]
+            },
+            {
+                  "name": "Ng's Ancestral Hall",
+                  "text": "Inmitten des ländlichen Dorfes bewahrt dieses historische Gebäude die Stammbäume und traditionellen Altäre der Familie Ng.",
+                  "category": "religious",
+                  "coords": [
+                        114.233725,
+                        22.390842
+                  ]
+            },
+            {
+                  "name": "Chung Ancestral Hall",
+                  "text": "Diese bescheidene, mit glückverheißenden roten Bannern geschmückte Halle bildet den Mittelpunkt für Ahnenverehrung und Familientreffen der Chungs.",
+                  "category": "religious",
+                  "coords": [
+                        114.239523,
+                        22.379764
+                  ]
+            },
+            {
+                  "name": "Lau's Ancestral Hall",
+                  "text": "Mit klassischen hölzernen Dachbalken und einem verzierten Hauptaltar ist diese ländliche Halle der Verehrung der Familie Lau gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        114.241219,
+                        22.38392
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Buffalo Hill",
+                  "text": "Ezt a jelentős, füves hegycsúcsot a túrázók különösen a csúcshoz közel található, jellegzetes „kőablak” sziklaképződmény miatt kedvelik.",
+                  "category": "natural",
+                  "coords": [
+                        114.234363,
+                        22.374588
+                  ]
+            },
+            {
+                  "name": "West Buffalo Hill",
+                  "text": "Az ikercsúcsához szorosan kapcsolódó, meredek hegy a környező nemzeti parkra nyíló, zavartalan kilátással jutalmazza a mászókat.",
+                  "category": "natural",
+                  "coords": [
+                        114.232075,
+                        22.372952
+                  ]
+            },
+            {
+                  "name": "Ng's Ancestral Hall",
+                  "text": "A vidéki faluban található örökségvédelmi épület az Ng család leszármazási feljegyzéseit és hagyományos oltárait őrzi.",
+                  "category": "religious",
+                  "coords": [
+                        114.233725,
+                        22.390842
+                  ]
+            },
+            {
+                  "name": "Chung Ancestral Hall",
+                  "text": "A szerencsét hozó piros transzparensekkel díszített, szerény csarnok a Chung család ősök tiszteletére rendezett összejöveteleinek központja.",
+                  "category": "religious",
+                  "coords": [
+                        114.239523,
+                        22.379764
+                  ]
+            },
+            {
+                  "name": "Lau's Ancestral Hall",
+                  "text": "A klasszikus fa tetőgerendákkal és díszes központi oltárral rendelkező vidéki csarnok a Lau család tiszteletére emelt szentély.",
+                  "category": "religious",
+                  "coords": [
+                        114.241219,
+                        22.38392
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Buffalo Hill",
+                  "text": "Acest vârf înierbat notabil este deosebit de popular printre drumeți pentru formațiunea stâncoasă distinctivă „fereastra de piatră”, situată în apropierea summit-ului.",
+                  "category": "natural",
+                  "coords": [
+                        114.234363,
+                        22.374588
+                  ]
+            },
+            {
+                  "name": "West Buffalo Hill",
+                  "text": "Strâns legat de vârful său geamăn, acest munte abrupt îi răsplătește pe alpiniști cu priveliști neobstrucționate asupra terenului parcului național din jur.",
+                  "category": "natural",
+                  "coords": [
+                        114.232075,
+                        22.372952
+                  ]
+            },
+            {
+                  "name": "Ng's Ancestral Hall",
+                  "text": "Situată în satul rural, această clădire de patrimoniu protejează înregistrările genealogice și altarele tradiționale ale familiei Ng.",
+                  "category": "religious",
+                  "coords": [
+                        114.233725,
+                        22.390842
+                  ]
+            },
+            {
+                  "name": "Chung Ancestral Hall",
+                  "text": "Decorată cu bannere roșii de bun augur, această sală modestă reprezintă punctul central pentru cultul strămoșilor și adunările clanului Chung.",
+                  "category": "religious",
+                  "coords": [
+                        114.239523,
+                        22.379764
+                  ]
+            },
+            {
+                  "name": "Lau's Ancestral Hall",
+                  "text": "Prezentând grinzi clasice din lemn pe acoperiș și un altar central ornamentat, acest sanctuar rural este un spațiu dedicat onorării liniei familiei Lau.",
+                  "category": "religious",
+                  "coords": [
+                        114.241219,
+                        22.38392
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Buffalo Hill",
+                  "text": "This notable grassy peak is especially popular among hikers for the distinctive \"stone window\" rock formation located near its summit.",
+                  "category": "natural",
+                  "coords": [
+                        114.234363,
+                        22.374588
+                  ]
+            },
+            {
+                  "name": "West Buffalo Hill",
+                  "text": "Closely linked to its twin summit, this steep peak rewards climbers with unobstructed views over the surrounding country park terrain.",
+                  "category": "natural",
+                  "coords": [
+                        114.232075,
+                        22.372952
+                  ]
+            },
+            {
+                  "name": "Ng's Ancestral Hall",
+                  "text": "Set within the rural village, this heritage building safeguards the genealogy records and traditional altars of the Ng family.",
+                  "category": "religious",
+                  "coords": [
+                        114.233725,
+                        22.390842
+                  ]
+            },
+            {
+                  "name": "Chung Ancestral Hall",
+                  "text": "Decorated with auspicious red banners, this modest hall provides a focal point for the Chung family's ancestral worship and clan gatherings.",
+                  "category": "religious",
+                  "coords": [
+                        114.239523,
+                        22.379764
+                  ]
+            },
+            {
+                  "name": "Lau's Ancestral Hall",
+                  "text": "Featuring classic timber roof beams and an ornate central altar, this rural hall is a dedicated space for honoring the Lau family lineage.",
+                  "category": "religious",
+                  "coords": [
+                        114.241219,
+                        22.38392
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "peak",
     name: { de: "Buffalo Hill", hu: "Buffalo-hegy", ro: "Buffalo Hill", en: "Buffalo Hill" },
@@ -363,7 +1371,232 @@ export const hongkongReliefV2: POI[] = [
     image: "/poi-images/hongkong-buffalo-hill-relief-v2.webp",
   },
   {
-    id: "hongkong-tates-cairn-relief-v2",
+    id: "hongkong-tates-cairn-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Temple Hill",
+                  "text": "488 Meter hoher Berggipfel, der für seine malerischen Wanderwege mit Blick auf die Stadt bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        114.206148,
+                        22.355972
+                  ]
+            },
+            {
+                  "name": "Shark Rock",
+                  "text": "Markanter Felsbrocken am Hang, der auf natürliche Weise verwittert ist und dem Profil eines Hais ähnelt.",
+                  "category": "landmark",
+                  "coords": [
+                        114.213907,
+                        22.348655
+                  ]
+            },
+            {
+                  "name": "Tsim Mei Fung",
+                  "text": "Markanter lokaler Berggipfel, der raues Gelände für begeisterte Bergwanderer bietet.",
+                  "category": "natural",
+                  "coords": [
+                        114.225934,
+                        22.36857
+                  ]
+            },
+            {
+                  "name": "Kowloon Peak Viewing Point",
+                  "text": "Aussichtspunkt am Hang, der weite Ausblicke über die darunter liegende Halbinsel Kowloon bietet.",
+                  "category": "natural",
+                  "coords": [
+                        114.221463,
+                        22.353081
+                  ]
+            },
+            {
+                  "name": "Tate's Cairn",
+                  "text": "577 Meter hoher Berggipfel, auf dem sich eine meteorologische Wetterradarstation befindet.",
+                  "category": "natural",
+                  "coords": [
+                        114.217859,
+                        22.357722
+                  ]
+            },
+            {
+                  "name": "Historical Viewing Platform",
+                  "text": "Erhöhter Aussichtspunkt mit Holzdeck, der Wanderern einen Rastplatz mit weitem Blick ins Tal bietet.",
+                  "category": "natural",
+                  "coords": [
+                        114.214063,
+                        22.355606
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Temple Hill",
+                  "text": "488 méter magas hegycsúcs, amely a városra néző festői túraútvonalairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        114.206148,
+                        22.355972
+                  ]
+            },
+            {
+                  "name": "Shark Rock",
+                  "text": "Jellegzetes hegyoldali szikla, amely a természetes erózió következtében egy cápa profiljára hasonlít.",
+                  "category": "landmark",
+                  "coords": [
+                        114.213907,
+                        22.348655
+                  ]
+            },
+            {
+                  "name": "Tsim Mei Fung",
+                  "text": "Kiemelkedő helyi hegycsúcs, amely zord terepet kínál a lelkes hegyvidéki túrázóknak.",
+                  "category": "natural",
+                  "coords": [
+                        114.225934,
+                        22.36857
+                  ]
+            },
+            {
+                  "name": "Kowloon Peak Viewing Point",
+                  "text": "Hegyoldali kilátó, amely hatalmas panorámát nyújt a lenti Kowloon-félszigetre.",
+                  "category": "natural",
+                  "coords": [
+                        114.221463,
+                        22.353081
+                  ]
+            },
+            {
+                  "name": "Tate's Cairn",
+                  "text": "577 méter magas hegycsúcs, amely egy meteorológiai időjárási radarállomás helyszínéül szolgál.",
+                  "category": "natural",
+                  "coords": [
+                        114.217859,
+                        22.357722
+                  ]
+            },
+            {
+                  "name": "Historical Viewing Platform",
+                  "text": "Fapadlós magaslati kilátó, amely pihenőhelyet és lenyűgöző völgyi panorámát kínál a túrázóknak.",
+                  "category": "natural",
+                  "coords": [
+                        114.214063,
+                        22.355606
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Temple Hill",
+                  "text": "Vârf de munte cu o altitudine de 488 de metri, cunoscut pentru traseele sale pitorești de drumeție cu vedere la oraș.",
+                  "category": "natural",
+                  "coords": [
+                        114.206148,
+                        22.355972
+                  ]
+            },
+            {
+                  "name": "Shark Rock",
+                  "text": "Stâncă distinctivă pe versantul dealului, erodată natural pentru a semăna cu profilul unui rechin.",
+                  "category": "landmark",
+                  "coords": [
+                        114.213907,
+                        22.348655
+                  ]
+            },
+            {
+                  "name": "Tsim Mei Fung",
+                  "text": "Vârf de munte local proeminent care oferă un teren accidentat pentru pasionații de drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        114.225934,
+                        22.36857
+                  ]
+            },
+            {
+                  "name": "Kowloon Peak Viewing Point",
+                  "text": "Punct de observație pe versant care oferă priveliști ample asupra Peninsulei Kowloon de dedesubt.",
+                  "category": "natural",
+                  "coords": [
+                        114.221463,
+                        22.353081
+                  ]
+            },
+            {
+                  "name": "Tate's Cairn",
+                  "text": "Vârf de munte de 577 de metri care găzduiește o stație meteorologică de radar meteo.",
+                  "category": "natural",
+                  "coords": [
+                        114.217859,
+                        22.357722
+                  ]
+            },
+            {
+                  "name": "Historical Viewing Platform",
+                  "text": "Punct de belvedere din lemn înălțat, care oferă drumeților un loc de odihnă cu vederi ample asupra văii.",
+                  "category": "natural",
+                  "coords": [
+                        114.214063,
+                        22.355606
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Temple Hill",
+                  "text": "488-metre high mountain peak known for its scenic hiking trails overlooking the city.",
+                  "category": "natural",
+                  "coords": [
+                        114.206148,
+                        22.355972
+                  ]
+            },
+            {
+                  "name": "Shark Rock",
+                  "text": "Distinctive hillside boulder naturally weathered to resemble the profile of a shark.",
+                  "category": "landmark",
+                  "coords": [
+                        114.213907,
+                        22.348655
+                  ]
+            },
+            {
+                  "name": "Tsim Mei Fung",
+                  "text": "Prominent local mountain peak offering rugged terrain for enthusiastic hillwalkers.",
+                  "category": "natural",
+                  "coords": [
+                        114.225934,
+                        22.36857
+                  ]
+            },
+            {
+                  "name": "Kowloon Peak Viewing Point",
+                  "text": "Hillside observation spot providing expansive vistas over the Kowloon Peninsula below.",
+                  "category": "natural",
+                  "coords": [
+                        114.221463,
+                        22.353081
+                  ]
+            },
+            {
+                  "name": "Tate's Cairn",
+                  "text": "577-metre mountain peak that serves as the site for a meteorological weather radar station.",
+                  "category": "natural",
+                  "coords": [
+                        114.217859,
+                        22.357722
+                  ]
+            },
+            {
+                  "name": "Historical Viewing Platform",
+                  "text": "Elevated timber-decked lookout offering hikers a rest spot with sweeping valley views.",
+                  "category": "natural",
+                  "coords": [
+                        114.214063,
+                        22.355606
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "peak",
     name: { de: "Tate's Cairn", hu: "Tate's Cairn", ro: "Tate's Cairn", en: "Tate's Cairn" },
@@ -408,7 +1641,52 @@ export const hongkongReliefV2: POI[] = [
     image: "/poi-images/hongkong-tates-cairn-relief-v2.webp",
   },
   {
-    id: "hongkong-needle-hill-relief-v2",
+    id: "hongkong-needle-hill-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Needle Hill",
+                  "text": "Dieser an seinem steilen, spitzen Gipfel erkennbare Berg bietet Wanderern einen anspruchsvollen Aufstieg.",
+                  "category": "natural",
+                  "coords": [
+                        114.160628,
+                        22.386895
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Needle Hill",
+                  "text": "Kifejezetten meredek és hegyes csúcsáról felismerhető hegy, amely komoly kihívást jelent a túrázók számára.",
+                  "category": "natural",
+                  "coords": [
+                        114.160628,
+                        22.386895
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Needle Hill",
+                  "text": "Ușor de recunoscut prin vârful său deosebit de abrupt și ascuțit, acest munte oferă o urcare provocatoare pentru drumeți.",
+                  "category": "natural",
+                  "coords": [
+                        114.160628,
+                        22.386895
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Needle Hill",
+                  "text": "Recognisable by its distinctly steep and pointed summit, this peak offers a challenging climb for hikers.",
+                  "category": "natural",
+                  "coords": [
+                        114.160628,
+                        22.386895
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "peak",
     name: { de: "Needle Hill", hu: "Needle-hegy", ro: "Needle Hill", en: "Needle Hill" },
@@ -453,7 +1731,232 @@ export const hongkongReliefV2: POI[] = [
     image: "/poi-images/hongkong-needle-hill-relief-v2.webp",
   },
   {
-    id: "hongkong-grassy-hill-relief-v2",
+    id: "hongkong-grassy-hill-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Yin Ngam Peak",
+                  "text": "Dieser Berggipfel bietet Naturpfade und eine erhabene Aussicht über die umliegenden grasbewachsenen Hügel.",
+                  "category": "natural",
+                  "coords": [
+                        114.147154,
+                        22.417439
+                  ]
+            },
+            {
+                  "name": "Shing Mun Arboretum",
+                  "text": "Dieses als Arboretum angelegte Naturschutzgebiet bewahrt eine vielfältige lebende Sammlung einheimischer und exotischer Baumarten.",
+                  "category": "natural",
+                  "coords": [
+                        114.156606,
+                        22.405443
+                  ]
+            },
+            {
+                  "name": "Grassy Hill",
+                  "text": "Ein markanter Gipfel in den New Territories, der für seine weiten, grasbewachsenen Hänge und Wanderwege bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        114.165895,
+                        22.411696
+                  ]
+            },
+            {
+                  "name": "Dragon Valley",
+                  "text": "Dieser malerische Aussichtspunkt bietet einen Panoramablick über die dramatischen Landschaften des Dragon Valley.",
+                  "category": "natural",
+                  "coords": [
+                        114.143725,
+                        22.400601
+                  ]
+            },
+            {
+                  "name": "Ta Tit Yan Kwun Yam Temple",
+                  "text": "Dieser abgelegene taoistische Tempel ist der Verehrung von Kwun Yam in einer ruhigen Berglandschaft gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        114.16165,
+                        22.421082
+                  ]
+            },
+            {
+                  "name": "Wongs Ancestral Hall",
+                  "text": "Eine traditionelle Kultstätte, die als Ahnenhalle für die lokale Abstammungslinie der Wong-Familie dient.",
+                  "category": "religious",
+                  "coords": [
+                        114.158345,
+                        22.425776
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Yin Ngam Peak",
+                  "text": "Ez a hegycsúcs természetes ösvényeket és magaslati kilátást kínál a környező füves dombokra.",
+                  "category": "natural",
+                  "coords": [
+                        114.147154,
+                        22.417439
+                  ]
+            },
+            {
+                  "name": "Shing Mun Arboretum",
+                  "text": "Ez az arborétum jellegű természetvédelmi terület őshonos és egzotikus fafajok változatos élő gyűjteményét őrzi.",
+                  "category": "natural",
+                  "coords": [
+                        114.156606,
+                        22.405443
+                  ]
+            },
+            {
+                  "name": "Grassy Hill",
+                  "text": "Az Új Területek egyik kiemelkedő hegycsúcsa, amely kiterjedt füves lejtőiről és túraútvonalairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        114.165895,
+                        22.411696
+                  ]
+            },
+            {
+                  "name": "Dragon Valley",
+                  "text": "Ez a festői kilátópont panorámás rálátást nyújt a Sárkány-völgy drámai tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        114.143725,
+                        22.400601
+                  ]
+            },
+            {
+                  "name": "Ta Tit Yan Kwun Yam Temple",
+                  "text": "Ez a félreeső, csendes hegyi környezetben található taoista templom Kuan Jin tiszteletének szentelt hely.",
+                  "category": "landmark",
+                  "coords": [
+                        114.16165,
+                        22.421082
+                  ]
+            },
+            {
+                  "name": "Wongs Ancestral Hall",
+                  "text": "Hagyományos imahely, amely a helyi Wong klán leszármazottai számára szolgál ősi csarnokként.",
+                  "category": "religious",
+                  "coords": [
+                        114.158345,
+                        22.425776
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Yin Ngam Peak",
+                  "text": "Acest vârf de munte oferă trasee naturale și priveliști la înălțime asupra dealurilor înverzite din jur.",
+                  "category": "natural",
+                  "coords": [
+                        114.147154,
+                        22.417439
+                  ]
+            },
+            {
+                  "name": "Shing Mun Arboretum",
+                  "text": "Această rezervație naturală de tip parc dendrologic păstrează o colecție vie diversă de specii de arbori autohtoni și exotici.",
+                  "category": "natural",
+                  "coords": [
+                        114.156606,
+                        22.405443
+                  ]
+            },
+            {
+                  "name": "Grassy Hill",
+                  "text": "Un vârf proeminent în Noile Teritorii, cunoscut pentru pantele sale întinse cu iarbă și traseele de drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        114.165895,
+                        22.411696
+                  ]
+            },
+            {
+                  "name": "Dragon Valley",
+                  "text": "Acest punct de belvedere pitoresc oferă priveliști panoramice peste peisajele dramatice ale Văii Dragonului.",
+                  "category": "natural",
+                  "coords": [
+                        114.143725,
+                        22.400601
+                  ]
+            },
+            {
+                  "name": "Ta Tit Yan Kwun Yam Temple",
+                  "text": "Acest templu taoist izolat este dedicat venerării lui Kwun Yam, fiind situat într-un cadru montan liniștit.",
+                  "category": "landmark",
+                  "coords": [
+                        114.16165,
+                        22.421082
+                  ]
+            },
+            {
+                  "name": "Wongs Ancestral Hall",
+                  "text": "Un lăcaș de cult tradițional care servește ca sală ancestrală pentru clanul local Wong.",
+                  "category": "religious",
+                  "coords": [
+                        114.158345,
+                        22.425776
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yin Ngam Peak",
+                  "text": "This mountain peak offers natural trails and elevated views over the surrounding grassy hills.",
+                  "category": "natural",
+                  "coords": [
+                        114.147154,
+                        22.417439
+                  ]
+            },
+            {
+                  "name": "Shing Mun Arboretum",
+                  "text": "This arboretum nature reserve preserves a diverse living collection of native and exotic tree species.",
+                  "category": "natural",
+                  "coords": [
+                        114.156606,
+                        22.405443
+                  ]
+            },
+            {
+                  "name": "Grassy Hill",
+                  "text": "A prominent peak in the New Territories, known for its expansive grassy slopes and hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        114.165895,
+                        22.411696
+                  ]
+            },
+            {
+                  "name": "Dragon Valley",
+                  "text": "This scenic viewpoint offers panoramic vistas across the dramatic landscapes of Dragon Valley.",
+                  "category": "natural",
+                  "coords": [
+                        114.143725,
+                        22.400601
+                  ]
+            },
+            {
+                  "name": "Ta Tit Yan Kwun Yam Temple",
+                  "text": "This secluded Taoist temple is dedicated to the worship of Kwun Yam within a quiet mountain setting.",
+                  "category": "landmark",
+                  "coords": [
+                        114.16165,
+                        22.421082
+                  ]
+            },
+            {
+                  "name": "Wongs Ancestral Hall",
+                  "text": "A traditional place of worship serving as the ancestral hall for the local Wong clan lineage.",
+                  "category": "religious",
+                  "coords": [
+                        114.158345,
+                        22.425776
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "peak",
     name: { de: "Grassy Hill", hu: "Grassy-hegy", ro: "Grassy Hill", en: "Grassy Hill" },
@@ -498,7 +2001,556 @@ export const hongkongReliefV2: POI[] = [
     image: "/poi-images/hongkong-grassy-hill-relief-v2.webp",
   },
   {
-    id: "hongkong-pyramid-hill-relief-v2",
+    id: "hongkong-pyramid-hill-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pig Rock",
+                  "text": "Pig Rock ist eine markante Gesteinsformation und Touristenattraktion in Hong Kong.",
+                  "category": "landmark",
+                  "coords": [
+                        114.237884,
+                        22.400898
+                  ]
+            },
+            {
+                  "name": "Canoe Rock",
+                  "text": "Canoe Rock ist ein auffälliger Felsen, der als Naturattraktion in Hong Kong dient.",
+                  "category": "landmark",
+                  "coords": [
+                        114.246236,
+                        22.396418
+                  ]
+            },
+            {
+                  "name": "Pyramid Rock",
+                  "text": "Diese markante, natürliche Felsformation erhebt sich wie eine Pyramide über die hügelige Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        114.244496,
+                        22.392849
+                  ]
+            },
+            {
+                  "name": "Ngong Ping Viewing Point",
+                  "text": "Dieser Aussichtspunkt auf einem erhöhten, grasbewachsenen Plateau bietet weite Ausblicke über das umliegende Bergland.",
+                  "category": "natural",
+                  "coords": [
+                        114.252877,
+                        22.390974
+                  ]
+            },
+            {
+                  "name": "Pyramid Hill",
+                  "text": "Dieser markante Gipfel ist für seine symmetrische, kegelartige Form bekannt und bietet anspruchsvolle Gratwanderungen.",
+                  "category": "natural",
+                  "coords": [
+                        114.252831,
+                        22.396764
+                  ]
+            },
+            {
+                  "name": "Ma On Shan",
+                  "text": "Dieser markante Berg dominiert die östlichen New Territories und ist berühmt für sein charakteristisches, sattelförmiges Profil.",
+                  "category": "natural",
+                  "coords": [
+                        114.252388,
+                        22.40906
+                  ]
+            },
+            {
+                  "name": "The Hunch Backs",
+                  "text": "Dieser raue, wellige Bergrücken zeichnet sich durch eine Reihe markanter Höcker entlang seiner Silhouette aus.",
+                  "category": "natural",
+                  "coords": [
+                        114.248527,
+                        22.414546
+                  ]
+            },
+            {
+                  "name": "Tiu Shau Ngam",
+                  "text": "Dieser steile und schroffe Gipfel fordert Wanderer mit felsigen Pfaden heraus, die beim Aufstieg Kraxelei erfordern.",
+                  "category": "natural",
+                  "coords": [
+                        114.244656,
+                        22.413829
+                  ]
+            },
+            {
+                  "name": "Ma On Shan Iron Mines 240M",
+                  "text": "Dieser verlassene Industriekomplex umfasst historische Tunnel und die Überreste des Eisenerzabbaus aus der Mitte des 20. Jahrhunderts.",
+                  "category": "landmark",
+                  "coords": [
+                        114.244975,
+                        22.403163
+                  ]
+            },
+            {
+                  "name": "Ma On Shan View Compass",
+                  "text": "Dieser Aussichtspunkt auf einer malerischen Anhöhe verfügt über eine Orientierungstafel, die Wanderern hilft, die umliegenden Gipfel zu bestimmen.",
+                  "category": "natural",
+                  "coords": [
+                        114.237646,
+                        22.410254
+                  ]
+            },
+            {
+                  "name": "Frog Rock",
+                  "text": "Dieser einzigartig verwitterte Felsblock am Hang erinnert in seiner Form deutlich an eine riesige Amphibie.",
+                  "category": "landmark",
+                  "coords": [
+                        114.232538,
+                        22.410333
+                  ]
+            },
+            {
+                  "name": "Shui Long Wo Star Lookout",
+                  "text": "Dieser Steinturm, der als Nachbildung eines alten chinesischen Observatoriums erbaut wurde, bietet eine terrassenförmige Plattform zur Sternenbeobachtung.",
+                  "category": "natural",
+                  "coords": [
+                        114.277093,
+                        22.404667
+                  ]
+            },
+            {
+                  "name": "Kuet's Ancestral Hall",
+                  "text": "Als zeremonielles Zentrum des lokalen Clans bewahrt diese traditionelle taoistische Halle das Erbe der Ahnen.",
+                  "category": "landmark",
+                  "coords": [
+                        114.25101,
+                        22.390357
+                  ]
+            },
+            {
+                  "name": "Ng's Ancestral Hall",
+                  "text": "Dieser traditionelle Versammlungsort des Clans zeichnet sich durch klassische Ziegeldächer und sorgfältig gepflegte Altäre mit Ahnentafeln aus.",
+                  "category": "religious",
+                  "coords": [
+                        114.241241,
+                        22.394372
+                  ]
+            },
+            {
+                  "name": "Cheung's Ancestral Hall",
+                  "text": "Versteckt in der traditionellen Dorfstruktur, ist dieser intime Schrein der Verehrung der Generationen der Cheung-Linie gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        114.224623,
+                        22.406252
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pig Rock",
+                  "text": "A Pig Rock egy különleges sziklaképződmény és látványosság Hong Kongban.",
+                  "category": "landmark",
+                  "coords": [
+                        114.237884,
+                        22.400898
+                  ]
+            },
+            {
+                  "name": "Canoe Rock",
+                  "text": "A Canoe Rock egy jellegzetes, kenut formázó szikla, amely látványosságként szolgál Hong Kongban.",
+                  "category": "landmark",
+                  "coords": [
+                        114.246236,
+                        22.396418
+                  ]
+            },
+            {
+                  "name": "Pyramid Rock",
+                  "text": "Ez a lenyűgöző, természetes sziklaképződmény piramisként magasodik a dimbes-dombos táj fölé.",
+                  "category": "landmark",
+                  "coords": [
+                        114.244496,
+                        22.392849
+                  ]
+            },
+            {
+                  "name": "Ngong Ping Viewing Point",
+                  "text": "Ez a magasan fekvő, füves fennsíkon található kilátó pazar panorámát kínál a környező hegyvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        114.252877,
+                        22.390974
+                  ]
+            },
+            {
+                  "name": "Pyramid Hill",
+                  "text": "Ez a jellegzetes, szimmetrikus, kúp alakjáról ismert jelentős hegycsúcs kihívást jelentő gerinctúrákat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        114.252831,
+                        22.396764
+                  ]
+            },
+            {
+                  "name": "Ma On Shan",
+                  "text": "A keleti Új Területeket uraló, kiemelkedő hegy jellegzetes, nyereg alakú profiljáról híres.",
+                  "category": "natural",
+                  "coords": [
+                        114.252388,
+                        22.40906
+                  ]
+            },
+            {
+                  "name": "The Hunch Backs",
+                  "text": "Ezt a zord, hullámzó hegygerincet a sziluettjén végighúzódó, jellegzetes púpok sorozata teszi felismerhetővé.",
+                  "category": "natural",
+                  "coords": [
+                        114.248527,
+                        22.414546
+                  ]
+            },
+            {
+                  "name": "Tiu Shau Ngam",
+                  "text": "Ez a meredek és zord hegycsúcs sziklás ösvényekkel teszi próbára a túrázókat, amelyek meghódítása kapaszkodást igényel.",
+                  "category": "natural",
+                  "coords": [
+                        114.244656,
+                        22.413829
+                  ]
+            },
+            {
+                  "name": "Ma On Shan Iron Mines 240M",
+                  "text": "Ez az elhagyatott ipari komplexum történelmi alagutakat és a 20. század közepi vasércbányászat maradványait rejti.",
+                  "category": "landmark",
+                  "coords": [
+                        114.244975,
+                        22.403163
+                  ]
+            },
+            {
+                  "name": "Ma On Shan View Compass",
+                  "text": "Ezen a festői magaslaton fekvő kilátóponton egy tájoló segíti a túrázókat a környező, kiemelkedő hegycsúcsok azonosításában.",
+                  "category": "natural",
+                  "coords": [
+                        114.237646,
+                        22.410254
+                  ]
+            },
+            {
+                  "name": "Frog Rock",
+                  "text": "A hegyoldalban megpihenő, egyedi módon lepusztult sziklatömb egyértelműen egy hatalmas kétéltűre hasonlít.",
+                  "category": "landmark",
+                  "coords": [
+                        114.232538,
+                        22.410333
+                  ]
+            },
+            {
+                  "name": "Shui Long Wo Star Lookout",
+                  "text": "Az ősi kínai csillagvizsgálók mintájára épült kőtorony teraszos platformja kiválóan alkalmas csillagnézésre.",
+                  "category": "natural",
+                  "coords": [
+                        114.277093,
+                        22.404667
+                  ]
+            },
+            {
+                  "name": "Kuet's Ancestral Hall",
+                  "text": "A helyi klán ceremoniális központjaként szolgáló tradicionális taoista csarnok a közösség ősi örökségét őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        114.25101,
+                        22.390357
+                  ]
+            },
+            {
+                  "name": "Ng's Ancestral Hall",
+                  "text": "A klán hagyományos gyülekezőhelyét klasszikus cseréptetők és az ősök tábláit őrző, gondosan karbantartott oltárok jellemzik.",
+                  "category": "religious",
+                  "coords": [
+                        114.241241,
+                        22.394372
+                  ]
+            },
+            {
+                  "name": "Cheung's Ancestral Hall",
+                  "text": "A hagyományos falusi környezetben megbúvó, meghitt szentélyt a Cheung család generációinak tiszteletére emelték.",
+                  "category": "religious",
+                  "coords": [
+                        114.224623,
+                        22.406252
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pig Rock",
+                  "text": "Pig Rock este o formațiune stâncoasă distinctivă și o atracție în Hong Kong.",
+                  "category": "landmark",
+                  "coords": [
+                        114.237884,
+                        22.400898
+                  ]
+            },
+            {
+                  "name": "Canoe Rock",
+                  "text": "Canoe Rock este o stâncă cu formă distinctivă, servind drept atracție în Hong Kong.",
+                  "category": "landmark",
+                  "coords": [
+                        114.246236,
+                        22.396418
+                  ]
+            },
+            {
+                  "name": "Pyramid Rock",
+                  "text": "Această formațiune stâncoasă naturală impresionantă se înalță ca o piramidă deasupra peisajului colinar.",
+                  "category": "landmark",
+                  "coords": [
+                        114.244496,
+                        22.392849
+                  ]
+            },
+            {
+                  "name": "Ngong Ping Viewing Point",
+                  "text": "Situat pe un platou înalt și înierbat, acest punct de belvedere oferă priveliști largi asupra peisajului montan din jur.",
+                  "category": "natural",
+                  "coords": [
+                        114.252877,
+                        22.390974
+                  ]
+            },
+            {
+                  "name": "Pyramid Hill",
+                  "text": "Cunoscut pentru forma sa simetrică distinctivă, asemănătoare unui con, acest vârf notabil oferă drumeții provocatoare pe creastă.",
+                  "category": "natural",
+                  "coords": [
+                        114.252831,
+                        22.396764
+                  ]
+            },
+            {
+                  "name": "Ma On Shan",
+                  "text": "Dominând noile teritorii estice, acest munte proeminent este renumit pentru profilul său distinctiv în formă de șa.",
+                  "category": "natural",
+                  "coords": [
+                        114.252388,
+                        22.40906
+                  ]
+            },
+            {
+                  "name": "The Hunch Backs",
+                  "text": "Această creastă montană accidentată și ondulată se caracterizează printr-o serie de cocoașe distincte de-a lungul orizontului său.",
+                  "category": "natural",
+                  "coords": [
+                        114.248527,
+                        22.414546
+                  ]
+            },
+            {
+                  "name": "Tiu Shau Ngam",
+                  "text": "Acest vârf abrupt și stâncos provoacă drumeții cu poteci de piatră care necesită o escaladare atentă pentru a ajunge în vârf.",
+                  "category": "natural",
+                  "coords": [
+                        114.244656,
+                        22.413829
+                  ]
+            },
+            {
+                  "name": "Ma On Shan Iron Mines 240M",
+                  "text": "Acest complex industrial abandonat prezintă tuneluri istorice și rămășițele operațiunilor de extracție a fierului de la mijlocul secolului al XX-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        114.244975,
+                        22.403163
+                  ]
+            },
+            {
+                  "name": "Ma On Shan View Compass",
+                  "text": "Situat pe o înălțime pitorească, acest punct de belvedere dispune de un cadran direcțional care ajută drumeții să identifice vârfurile proeminente din jur.",
+                  "category": "natural",
+                  "coords": [
+                        114.237646,
+                        22.410254
+                  ]
+            },
+            {
+                  "name": "Frog Rock",
+                  "text": "Așezat pe versantul dealului, acest bolovan erodat în mod unic seamănă clar cu forma unui amfibian uriaș.",
+                  "category": "landmark",
+                  "coords": [
+                        114.232538,
+                        22.410333
+                  ]
+            },
+            {
+                  "name": "Shui Long Wo Star Lookout",
+                  "text": "Construit ca o replică a unui observator chinez antic, acest turn de piatră oferă o platformă terasată pentru observarea stelelor.",
+                  "category": "natural",
+                  "coords": [
+                        114.277093,
+                        22.404667
+                  ]
+            },
+            {
+                  "name": "Kuet's Ancestral Hall",
+                  "text": "Servind drept centru ceremonial al clanului local, acest sanctuar taoist tradițional păstrează moștenirea ancestrală a comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        114.25101,
+                        22.390357
+                  ]
+            },
+            {
+                  "name": "Ng's Ancestral Hall",
+                  "text": "Acest loc tradițional de adunare al clanului prezintă acoperișuri clasice din țiglă și altare întreținute cu grijă, care păstrează tăblițele ancestrale.",
+                  "category": "religious",
+                  "coords": [
+                        114.241241,
+                        22.394372
+                  ]
+            },
+            {
+                  "name": "Cheung's Ancestral Hall",
+                  "text": "Ascuns în structura tradițională a satului, acest sanctuar intim este dedicat cinstirii generațiilor din linia familiei Cheung.",
+                  "category": "religious",
+                  "coords": [
+                        114.224623,
+                        22.406252
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pig Rock",
+                  "text": "Pig Rock is a distinctive rock formation and attraction in Hong Kong.",
+                  "category": "landmark",
+                  "coords": [
+                        114.237884,
+                        22.400898
+                  ]
+            },
+            {
+                  "name": "Canoe Rock",
+                  "text": "Canoe Rock is a distinctively shaped rock serving as a natural attraction in Hong Kong.",
+                  "category": "landmark",
+                  "coords": [
+                        114.246236,
+                        22.396418
+                  ]
+            },
+            {
+                  "name": "Pyramid Rock",
+                  "text": "This striking natural rock formation rises prominently like a pyramid among the undulating hills.",
+                  "category": "landmark",
+                  "coords": [
+                        114.244496,
+                        22.392849
+                  ]
+            },
+            {
+                  "name": "Ngong Ping Viewing Point",
+                  "text": "Set on an elevated grassy plateau, this viewpoint offers expansive vistas across the surrounding mountainous terrain.",
+                  "category": "natural",
+                  "coords": [
+                        114.252877,
+                        22.390974
+                  ]
+            },
+            {
+                  "name": "Pyramid Hill",
+                  "text": "Known for its distinctive symmetrical, cone-like shape, this notable peak offers challenging ridge hikes.",
+                  "category": "natural",
+                  "coords": [
+                        114.252831,
+                        22.396764
+                  ]
+            },
+            {
+                  "name": "Ma On Shan",
+                  "text": "Dominating the eastern New Territories, this prominent mountain is famous for its distinctive saddle-shaped profile.",
+                  "category": "natural",
+                  "coords": [
+                        114.252388,
+                        22.40906
+                  ]
+            },
+            {
+                  "name": "The Hunch Backs",
+                  "text": "This rugged, undulating mountain ridge is characterized by a series of distinct humps along its skyline.",
+                  "category": "natural",
+                  "coords": [
+                        114.248527,
+                        22.414546
+                  ]
+            },
+            {
+                  "name": "Tiu Shau Ngam",
+                  "text": "This steep and rugged peak challenges hikers with rocky trails that require careful scrambling to reach the summit.",
+                  "category": "natural",
+                  "coords": [
+                        114.244656,
+                        22.413829
+                  ]
+            },
+            {
+                  "name": "Ma On Shan Iron Mines",
+                  "text": "This abandoned industrial complex features historic tunnels and the remains of mid-20th-century iron extraction operations.",
+                  "category": "landmark",
+                  "coords": [
+                        114.244975,
+                        22.403163
+                  ]
+            },
+            {
+                  "name": "Ma On Shan View Compass",
+                  "text": "Situated on a scenic elevation, this viewpoint features a directional dial helping hikers identify the surrounding prominent peaks.",
+                  "category": "natural",
+                  "coords": [
+                        114.237646,
+                        22.410254
+                  ]
+            },
+            {
+                  "name": "Frog Rock",
+                  "text": "Resting on the hillside, this uniquely weathered boulder clearly resembles the shape of a giant amphibian.",
+                  "category": "landmark",
+                  "coords": [
+                        114.232538,
+                        22.410333
+                  ]
+            },
+            {
+                  "name": "Shui Long Wo Star Lookout",
+                  "text": "Built as a replica of an ancient Chinese observatory, this stone tower provides a terraced platform for stargazing.",
+                  "category": "natural",
+                  "coords": [
+                        114.277093,
+                        22.404667
+                  ]
+            },
+            {
+                  "name": "Kuet's Ancestral Hall",
+                  "text": "Serving as the ceremonial heart of the local clan, this traditional Taoist hall preserves the community's ancestral heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        114.25101,
+                        22.390357
+                  ]
+            },
+            {
+                  "name": "Ng's Ancestral Hall",
+                  "text": "This traditional clan gathering place features classic tiled roofs and carefully maintained altars holding ancestral tablets.",
+                  "category": "religious",
+                  "coords": [
+                        114.241241,
+                        22.394372
+                  ]
+            },
+            {
+                  "name": "Cheung's Ancestral Hall",
+                  "text": "Tucked into the traditional village layout, this intimate shrine is dedicated to honoring the generations of the Cheung lineage.",
+                  "category": "religious",
+                  "coords": [
+                        114.224623,
+                        22.406252
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "peak",
     name: { de: "Pyramid Hill", hu: "Pyramid-hegy", ro: "Pyramid Hill", en: "Pyramid Hill" },
@@ -543,7 +2595,124 @@ export const hongkongReliefV2: POI[] = [
     image: "/poi-images/hongkong-pyramid-hill-relief-v2.webp",
   },
   {
-    id: "hongkong-mount-stenhouse-relief-v2",
+    id: "hongkong-mount-stenhouse-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Yuen Kok",
+                  "text": "Yuen Kok ist ein markanter Küstenleuchtturm in der Nähe des Mount Stenhouse.",
+                  "category": "landmark",
+                  "coords": [
+                        114.1491,
+                        22.181667
+                  ]
+            },
+            {
+                  "name": "Sham Wan SSSI",
+                  "text": "Das Sham Wan SSSI ist ein geschütztes Naturschutzgebiet von wissenschaftlichem Interesse in der Nähe des Mount Stenhouse.",
+                  "category": "natural",
+                  "coords": [
+                        114.136333,
+                        22.190962
+                  ]
+            },
+            {
+                  "name": "Tin Hau Temple",
+                  "text": "Der bekannte Tin Hau Tempel in der Nähe des Mount Stenhouse ist eine bedeutende traditionelle Kultstätte, die der Meeresgöttin gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        114.130954,
+                        22.203745
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Yuen Kok",
+                  "text": "A Yuen Kok egy kiemelkedő tengerparti világítótorony, amely a Mount Stenhouse közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        114.1491,
+                        22.181667
+                  ]
+            },
+            {
+                  "name": "Sham Wan SSSI",
+                  "text": "A Sham Wan SSSI egy tudományos érdeklődésre számot tartó védett természetvédelmi terület a Mount Stenhouse közelében.",
+                  "category": "natural",
+                  "coords": [
+                        114.136333,
+                        22.190962
+                  ]
+            },
+            {
+                  "name": "Tin Hau Temple",
+                  "text": "A Mount Stenhouse közelében található híres Tin Hau templom egy kiemelkedő hagyományos istentiszteleti hely, amelyet a tengeristennőnek szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        114.130954,
+                        22.203745
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Yuen Kok",
+                  "text": "Yuen Kok este o structură de far de coastă proeminentă poziționată lângă Mount Stenhouse.",
+                  "category": "landmark",
+                  "coords": [
+                        114.1491,
+                        22.181667
+                  ]
+            },
+            {
+                  "name": "Sham Wan SSSI",
+                  "text": "Sham Wan SSSI este o rezervație naturală protejată de interes științific situată lângă Mount Stenhouse.",
+                  "category": "natural",
+                  "coords": [
+                        114.136333,
+                        22.190962
+                  ]
+            },
+            {
+                  "name": "Tin Hau Temple",
+                  "text": "Renumitul Templu Tin Hau de lângă Mount Stenhouse este un important lăcaș de cult tradițional dedicat zeiței mării.",
+                  "category": "religious",
+                  "coords": [
+                        114.130954,
+                        22.203745
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yuen Kok",
+                  "text": "Yuen Kok is a prominent coastal lighthouse structure positioned near Mount Stenhouse.",
+                  "category": "landmark",
+                  "coords": [
+                        114.1491,
+                        22.181667
+                  ]
+            },
+            {
+                  "name": "Sham Wan SSSI",
+                  "text": "The Sham Wan SSSI is a protected nature reserve of scientific interest situated near Mount Stenhouse.",
+                  "category": "natural",
+                  "coords": [
+                        114.136333,
+                        22.190962
+                  ]
+            },
+            {
+                  "name": "Tin Hau Temple",
+                  "text": "The renowned Tin Hau Temple near Mount Stenhouse is a prominent traditional place of worship dedicated to the sea goddess.",
+                  "category": "religious",
+                  "coords": [
+                        114.130954,
+                        22.203745
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "peak",
     name: { de: "Mount Stenhouse", hu: "Mount Stenhouse", ro: "Mount Stenhouse", en: "Mount Stenhouse" },
@@ -588,7 +2757,664 @@ export const hongkongReliefV2: POI[] = [
     image: "/poi-images/hongkong-mount-stenhouse-relief-v2.webp",
   },
   {
-    id: "hongkong-lo-fu-tau-relief-v2",
+    id: "hongkong-lo-fu-tau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Watchtower",
+                  "text": "Dieses Museum ist in einem ehemaligen Wachturm untergebracht und zeigt die lokale Geschichte und das Erbe der Region.",
+                  "category": "museum",
+                  "coords": [
+                        113.970918,
+                        22.295641
+                  ]
+            },
+            {
+                  "name": "Nam Shan Viewing Point",
+                  "text": "Der Nam Shan Viewing Point ist ein erhöhter Aussichtspunkt, der einen Panoramablick über die umliegenden bewaldeten Hügel bietet.",
+                  "category": "natural",
+                  "coords": [
+                        113.988048,
+                        22.255105
+                  ]
+            },
+            {
+                  "name": "Standing Rock",
+                  "text": "Standing Rock ist eine markante geologische Formation, die als landschaftlich reizvoller natürlicher Aussichtspunkt am Wanderweg dient.",
+                  "category": "natural",
+                  "coords": [
+                        113.99427,
+                        22.292075
+                  ]
+            },
+            {
+                  "name": "Mui Wo Culture & Heritage Exhibition Centre",
+                  "text": "Das Mui Wo Culture & Heritage Exhibition Centre dokumentiert die ländliche Geschichte und den traditionellen Lebensstil der Gemeinde Mui Wo.",
+                  "category": "museum",
+                  "coords": [
+                        113.997312,
+                        22.267989
+                  ]
+            },
+            {
+                  "name": "Silver Waterfall lookout",
+                  "text": "Der Aussichtspunkt Silver Waterfall ist eine Plattform, die einen ungehinderten, erhöhten Blick auf die herabstürzenden Wassermassen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        113.991552,
+                        22.273459
+                  ]
+            },
+            {
+                  "name": "Lookout Point",
+                  "text": "Der Lookout Point ist eine auf dem Gelände gelegene Aussichtsplattform, die weite Blicke über die Naturlandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        114.008774,
+                        22.296561
+                  ]
+            },
+            {
+                  "name": "Lo Fu Tau",
+                  "text": "Lo Fu Tau, was 'Tigerkopf' bedeutet, ist ein markant geformter Berggipfel, der für seine steilen und lohnenden Wanderwege bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        114.000148,
+                        22.299577
+                  ]
+            },
+            {
+                  "name": "Tai Ho Stream SSSI",
+                  "text": "Das Tai Ho Stream SSSI ist ein ausgewiesenes Naturschutzgebiet, das ein ökologisch bedeutsames Süßwasserstrom-Ökosystem schützt.",
+                  "category": "natural",
+                  "coords": [
+                        113.978727,
+                        22.293149
+                  ]
+            },
+            {
+                  "name": "Silver Mine Bay",
+                  "text": "Die Silver Mine Bay ist eine malerische Bucht auf der Insel Lantau, in der historisch Silberabbau betrieben wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        114.009962,
+                        22.263384
+                  ]
+            },
+            {
+                  "name": "Man Mo Temple",
+                  "text": "Der Man Mo-Tempel in Mui Wo ist eine traditionelle religiöse Stätte, die den Göttern der Literatur und der Kampfkünste gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        113.991199,
+                        22.271694
+                  ]
+            },
+            {
+                  "name": "Chi Ma Wan",
+                  "text": "Chi Ma Wan ist eine ruhige Bucht, umgeben von bewaldeten Hügeln und einem beliebten Küstenwanderweg.",
+                  "category": "landmark",
+                  "coords": [
+                        114.008068,
+                        22.241298
+                  ]
+            },
+            {
+                  "name": "Silver Mine Bay Viewing Deck",
+                  "text": "Das Silver Mine Bay Viewing Deck bietet eine erhöhte Holzplattform, um den weitläufigen Küstenstrand zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        113.998278,
+                        22.266988
+                  ]
+            },
+            {
+                  "name": "Silvermine Bay Beach",
+                  "text": "Der Silvermine Bay Beach ist ein breiter, sandiger Küstenabschnitt am Ostufer von Lantau, beliebt zum Schwimmen und für Wassersport.",
+                  "category": "recreational",
+                  "coords": [
+                        113.999005,
+                        22.269708
+                  ]
+            },
+            {
+                  "name": "Kuan Yam Temple (small)",
+                  "text": "Dieser kleine Kuan Yam Tempel ist eine intime lokale Kultstätte, die der Göttin der Barmherzigkeit gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        113.989938,
+                        22.267778
+                  ]
+            },
+            {
+                  "name": "Hung Shing Temple",
+                  "text": "Der Hung Shing Tempel ist ein historischer traditioneller chinesischer Schrein, der zur Verehrung der Gottheit des Südlichen Ozeans errichtet wurde.",
+                  "category": "religious",
+                  "coords": [
+                        113.995997,
+                        22.266847
+                  ]
+            },
+            {
+                  "name": "Epiphany Parish, Mui Wo",
+                  "text": "Die Epiphany Parish in Mui Wo ist eine katholische Pfarrkirche, die der Gemeinde regelmäßige christliche Gottesdienste anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        114.000937,
+                        22.263584
+                  ]
+            },
+            {
+                  "name": "Seven Sisters Temple",
+                  "text": "Der Seven Sisters Tempel ist eine ruhige buddhistische Stätte, die sich auf spirituelle Besinnung und lokale religiöse Traditionen konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        113.991941,
+                        22.261603
+                  ]
+            },
+            {
+                  "name": "Pak Tai Temple",
+                  "text": "Der Pak Tai Tempel ist eine traditionelle Kultstätte, die mit aufwendigen Dachschnitzereien verziert ist und der Kriegsgottheit gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        113.991121,
+                        22.267513
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Watchtower",
+                  "text": "Ez a múzeum egy egykori őrtoronyban kapott helyet, amely a környék helyi történelmét és örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        113.970918,
+                        22.295641
+                  ]
+            },
+            {
+                  "name": "Nam Shan Viewing Point",
+                  "text": "A Nam Shan Viewing Point egy magaslati kilátó, amely panorámás kilátást nyújt a környező erdős hegyoldalakra.",
+                  "category": "natural",
+                  "coords": [
+                        113.988048,
+                        22.255105
+                  ]
+            },
+            {
+                  "name": "Standing Rock",
+                  "text": "A Standing Rock egy jellegzetes geológiai képződmény, amely festői, természetes kilátópontként szolgál a túraútvonalon.",
+                  "category": "natural",
+                  "coords": [
+                        113.99427,
+                        22.292075
+                  ]
+            },
+            {
+                  "name": "Mui Wo Culture & Heritage Exhibition Centre",
+                  "text": "A Mui Wo Kulturális és Örökségvédelmi Kiállítási Központ a Mui Wo közösség vidéki történelmét és hagyományos életmódját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        113.997312,
+                        22.267989
+                  ]
+            },
+            {
+                  "name": "Silver Waterfall lookout",
+                  "text": "A Silver Waterfall kilátó egy emelt platform, ahonnan kiváló rálátás nyílik a lezúduló vízesésre.",
+                  "category": "natural",
+                  "coords": [
+                        113.991552,
+                        22.273459
+                  ]
+            },
+            {
+                  "name": "Lookout Point",
+                  "text": "A Lookout Point egy a terepen elhelyezkedő kilátóterasz, amely széleskörű kilátást nyújt a természeti tájra.",
+                  "category": "natural",
+                  "coords": [
+                        114.008774,
+                        22.296561
+                  ]
+            },
+            {
+                  "name": "Lo Fu Tau",
+                  "text": "A Lo Fu Tau, vagyis 'Tigrisfej', egy jellegzetes formájú hegycsúcs, amely meredek és kihívást jelentő túraútvonalairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        114.000148,
+                        22.299577
+                  ]
+            },
+            {
+                  "name": "Tai Ho Stream SSSI",
+                  "text": "A Tai Ho Stream SSSI egy kijelölt természetvédelmi terület, amely egy ökológiai szempontból jelentős édesvízi patak ökoszisztémáját védi.",
+                  "category": "natural",
+                  "coords": [
+                        113.978727,
+                        22.293149
+                  ]
+            },
+            {
+                  "name": "Silver Mine Bay",
+                  "text": "A Silver Mine Bay egy festői öböl Lantau szigetén, amely történelmileg ezüstbányászati műveleteknek adott otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        114.009962,
+                        22.263384
+                  ]
+            },
+            {
+                  "name": "Man Mo Temple",
+                  "text": "A Mui Wo-i Man Mo-templom egy hagyományos vallási hely, amelyet az irodalom és a harcművészet isteneinek szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        113.991199,
+                        22.271694
+                  ]
+            },
+            {
+                  "name": "Chi Ma Wan",
+                  "text": "A Chi Ma Wan egy erdős dombokkal körülölelt nyugodt öböl és egy népszerű tengerparti túraútvonal.",
+                  "category": "landmark",
+                  "coords": [
+                        114.008068,
+                        22.241298
+                  ]
+            },
+            {
+                  "name": "Silver Mine Bay Viewing Deck",
+                  "text": "A Silver Mine Bay kilátóterasza egy emelt fa emelvényt kínál a kiterjedt tengerpart megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        113.998278,
+                        22.266988
+                  ]
+            },
+            {
+                  "name": "Silvermine Bay Beach",
+                  "text": "A Silvermine Bay Beach egy széles, homokos partszakasz Lantau keleti partján, amely népszerű az úszók és a vízi sportok kedvelői körében.",
+                  "category": "recreational",
+                  "coords": [
+                        113.999005,
+                        22.269708
+                  ]
+            },
+            {
+                  "name": "Kuan Yam Temple (small)",
+                  "text": "Ez a kis Kuan Yam templom egy meghitt helyi istentiszteleti hely, amelyet az Irgalmasság Istennőjének szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        113.989938,
+                        22.267778
+                  ]
+            },
+            {
+                  "name": "Hung Shing Temple",
+                  "text": "A Hung Shing templom egy történelmi hagyományos kínai szentély, amelyet a Déli-óceán istenségének tiszteletére építettek.",
+                  "category": "religious",
+                  "coords": [
+                        113.995997,
+                        22.266847
+                  ]
+            },
+            {
+                  "name": "Epiphany Parish, Mui Wo",
+                  "text": "A Mui Wo-i Epiphany plébánia egy helyi katolikus templom, amely rendszeres keresztény istentiszteleteket biztosít a közösségnek.",
+                  "category": "landmark",
+                  "coords": [
+                        114.000937,
+                        22.263584
+                  ]
+            },
+            {
+                  "name": "Seven Sisters Temple",
+                  "text": "A Seven Sisters templom egy békés buddhista helyszín, amely a spirituális elmélkedésre és a helyi vallási hagyományokra összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        113.991941,
+                        22.261603
+                  ]
+            },
+            {
+                  "name": "Pak Tai Temple",
+                  "text": "A Pak Tai templom egy hagyományos istentiszteleti hely, amelyet bonyolult tetőfaragások díszítenek, és a harcművészeti istenségnek szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        113.991121,
+                        22.267513
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Watchtower",
+                  "text": "Acest muzeu este găzduit într-un fost turn de veghe, expunând istoria și patrimoniul local al zonei.",
+                  "category": "museum",
+                  "coords": [
+                        113.970918,
+                        22.295641
+                  ]
+            },
+            {
+                  "name": "Nam Shan Viewing Point",
+                  "text": "Nam Shan Viewing Point este un punct de belvedere la înălțime, oferind priveliști panoramice peste dealurile împădurite din jur.",
+                  "category": "natural",
+                  "coords": [
+                        113.988048,
+                        22.255105
+                  ]
+            },
+            {
+                  "name": "Standing Rock",
+                  "text": "Standing Rock este o formațiune geologică distinctă care servește drept punct de belvedere natural pitoresc pe traseul de drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        113.99427,
+                        22.292075
+                  ]
+            },
+            {
+                  "name": "Mui Wo Culture & Heritage Exhibition Centre",
+                  "text": "Centrul de Expoziții de Cultură și Patrimoniu Mui Wo detaliază istoria rurală și stilul de viață tradițional al comunității Mui Wo.",
+                  "category": "museum",
+                  "coords": [
+                        113.997312,
+                        22.267989
+                  ]
+            },
+            {
+                  "name": "Silver Waterfall lookout",
+                  "text": "Punctul de belvedere Silver Waterfall este o platformă ce oferă o vedere clară, de la înălțime, a apelor în cascadă.",
+                  "category": "natural",
+                  "coords": [
+                        113.991552,
+                        22.273459
+                  ]
+            },
+            {
+                  "name": "Lookout Point",
+                  "text": "Lookout Point este o platformă de observație situată pe teren, oferind priveliști ample asupra peisajului natural.",
+                  "category": "natural",
+                  "coords": [
+                        114.008774,
+                        22.296561
+                  ]
+            },
+            {
+                  "name": "Lo Fu Tau",
+                  "text": "Lo Fu Tau, care înseamnă „Capul Tigrului”, este un vârf montan cu o formă distinctivă, cunoscut pentru traseele sale abrupte și pline de satisfacții.",
+                  "category": "natural",
+                  "coords": [
+                        114.000148,
+                        22.299577
+                  ]
+            },
+            {
+                  "name": "Tai Ho Stream SSSI",
+                  "text": "Tai Ho Stream SSSI este o rezervație naturală desemnată care protejează un ecosistem de pârâu cu apă dulce, de o importanță ecologică deosebită.",
+                  "category": "natural",
+                  "coords": [
+                        113.978727,
+                        22.293149
+                  ]
+            },
+            {
+                  "name": "Silver Mine Bay",
+                  "text": "Silver Mine Bay este un golf pitoresc de pe insula Lantau, care în trecut a găzduit operațiuni de extragere a argintului.",
+                  "category": "landmark",
+                  "coords": [
+                        114.009962,
+                        22.263384
+                  ]
+            },
+            {
+                  "name": "Man Mo Temple",
+                  "text": "Templul Man Mo din Mui Wo este un sit religios tradițional închinat zeilor literaturii și artelor marțiale.",
+                  "category": "religious",
+                  "coords": [
+                        113.991199,
+                        22.271694
+                  ]
+            },
+            {
+                  "name": "Chi Ma Wan",
+                  "text": "Chi Ma Wan este un golf liniștit, înconjurat de dealuri împădurite și de un traseu popular de drumeție de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        114.008068,
+                        22.241298
+                  ]
+            },
+            {
+                  "name": "Silver Mine Bay Viewing Deck",
+                  "text": "Puntea de belvedere Silver Mine Bay oferă o platformă de lemn înălțată pentru a observa plaja extinsă de pe coastă.",
+                  "category": "natural",
+                  "coords": [
+                        113.998278,
+                        22.266988
+                  ]
+            },
+            {
+                  "name": "Silvermine Bay Beach",
+                  "text": "Silvermine Bay Beach este o porțiune largă de nisip de-a lungul coastei de est a insulei Lantau, populară pentru înot și sporturi acvatice.",
+                  "category": "recreational",
+                  "coords": [
+                        113.999005,
+                        22.269708
+                  ]
+            },
+            {
+                  "name": "Kuan Yam Temple (small)",
+                  "text": "Acest mic templu Kuan Yam este un lăcaș de cult local intim, închinat Zeiței Milei.",
+                  "category": "religious",
+                  "coords": [
+                        113.989938,
+                        22.267778
+                  ]
+            },
+            {
+                  "name": "Hung Shing Temple",
+                  "text": "Templul Hung Shing este un altar chinezesc istoric și tradițional, construit pentru a-l venera pe zeul Oceanului de Sud.",
+                  "category": "religious",
+                  "coords": [
+                        113.995997,
+                        22.266847
+                  ]
+            },
+            {
+                  "name": "Epiphany Parish, Mui Wo",
+                  "text": "Parohia Epifaniei din Mui Wo este o biserică catolică locală care oferă slujbe creștine regulate comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        114.000937,
+                        22.263584
+                  ]
+            },
+            {
+                  "name": "Seven Sisters Temple",
+                  "text": "Templul celor Șapte Surori este un sit budist senin, axat pe reflecție spirituală și tradiții religioase locale.",
+                  "category": "landmark",
+                  "coords": [
+                        113.991941,
+                        22.261603
+                  ]
+            },
+            {
+                  "name": "Pak Tai Temple",
+                  "text": "Templul Pak Tai este un lăcaș de cult tradițional, împodobit cu sculpturi complicate pe acoperiș și dedicat zeității marțiale.",
+                  "category": "religious",
+                  "coords": [
+                        113.991121,
+                        22.267513
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Watchtower",
+                  "text": "This museum is housed in a former lookout watchtower, showcasing the area's local history and heritage.",
+                  "category": "museum",
+                  "coords": [
+                        113.970918,
+                        22.295641
+                  ]
+            },
+            {
+                  "name": "Nam Shan Viewing Point",
+                  "text": "Nam Shan Viewing Point is an elevated lookout offering panoramic vistas across the surrounding forested hillsides.",
+                  "category": "natural",
+                  "coords": [
+                        113.988048,
+                        22.255105
+                  ]
+            },
+            {
+                  "name": "Standing Rock",
+                  "text": "Standing Rock is a distinctive geological formation serving as a scenic natural viewpoint on the hiking trail.",
+                  "category": "natural",
+                  "coords": [
+                        113.99427,
+                        22.292075
+                  ]
+            },
+            {
+                  "name": "Mui Wo Culture & Heritage Exhibition Centre",
+                  "text": "The Mui Wo Culture & Heritage Exhibition Centre details the rural history and traditional lifestyle of the Mui Wo community.",
+                  "category": "museum",
+                  "coords": [
+                        113.997312,
+                        22.267989
+                  ]
+            },
+            {
+                  "name": "Silver Waterfall lookout",
+                  "text": "Silver Waterfall lookout is a viewing platform that provides clear, elevated views of the cascading waters.",
+                  "category": "natural",
+                  "coords": [
+                        113.991552,
+                        22.273459
+                  ]
+            },
+            {
+                  "name": "Lookout Point",
+                  "text": "Lookout Point is an observation deck perched on the terrain, offering broad views over the natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        114.008774,
+                        22.296561
+                  ]
+            },
+            {
+                  "name": "Lo Fu Tau",
+                  "text": "Lo Fu Tau, meaning 'Tiger's Head', is a prominently shaped mountain peak known for its steep and rewarding hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        114.000148,
+                        22.299577
+                  ]
+            },
+            {
+                  "name": "Tai Ho Stream SSSI",
+                  "text": "Tai Ho Stream SSSI is a designated nature reserve protecting an ecologically significant freshwater stream ecosystem.",
+                  "category": "natural",
+                  "coords": [
+                        113.978727,
+                        22.293149
+                  ]
+            },
+            {
+                  "name": "Silver Mine Bay",
+                  "text": "Silver Mine Bay is a picturesque inlet on Lantau Island that historically housed silver mining operations.",
+                  "category": "landmark",
+                  "coords": [
+                        114.009962,
+                        22.263384
+                  ]
+            },
+            {
+                  "name": "Man Mo Temple",
+                  "text": "The Man Mo Temple in Mui Wo is a traditional religious site dedicated to the gods of literature and martial arts.",
+                  "category": "religious",
+                  "coords": [
+                        113.991199,
+                        22.271694
+                  ]
+            },
+            {
+                  "name": "Chi Ma Wan",
+                  "text": "Chi Ma Wan is a tranquil bay surrounded by forested hills and a popular coastal hiking trail.",
+                  "category": "landmark",
+                  "coords": [
+                        114.008068,
+                        22.241298
+                  ]
+            },
+            {
+                  "name": "Silver Mine Bay Viewing Deck",
+                  "text": "The Silver Mine Bay Viewing Deck provides an elevated wooden platform to observe the expansive coastal beach.",
+                  "category": "natural",
+                  "coords": [
+                        113.998278,
+                        22.266988
+                  ]
+            },
+            {
+                  "name": "Silvermine Bay Beach",
+                  "text": "Silvermine Bay Beach is a wide, sandy stretch along Lantau's eastern shore, popular for swimming and watersports.",
+                  "category": "recreational",
+                  "coords": [
+                        113.999005,
+                        22.269708
+                  ]
+            },
+            {
+                  "name": "Kuan Yam Temple (small)",
+                  "text": "This small Kuan Yam Temple is an intimate local place of worship dedicated to the Goddess of Mercy.",
+                  "category": "religious",
+                  "coords": [
+                        113.989938,
+                        22.267778
+                  ]
+            },
+            {
+                  "name": "Hung Shing Temple",
+                  "text": "Hung Shing Temple is a historic traditional Chinese shrine built to venerate the deity of the Southern Ocean.",
+                  "category": "religious",
+                  "coords": [
+                        113.995997,
+                        22.266847
+                  ]
+            },
+            {
+                  "name": "Epiphany Parish, Mui Wo",
+                  "text": "Epiphany Parish in Mui Wo is a local Catholic church providing regular Christian services to the community.",
+                  "category": "landmark",
+                  "coords": [
+                        114.000937,
+                        22.263584
+                  ]
+            },
+            {
+                  "name": "Seven Sisters Temple",
+                  "text": "Seven Sisters Temple is a serene Buddhist site focused on spiritual reflection and local religious traditions.",
+                  "category": "landmark",
+                  "coords": [
+                        113.991941,
+                        22.261603
+                  ]
+            },
+            {
+                  "name": "Pak Tai Temple",
+                  "text": "Pak Tai Temple is a traditional place of worship adorned with intricate roof carvings and dedicated to the martial deity.",
+                  "category": "religious",
+                  "coords": [
+                        113.991121,
+                        22.267513
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "peak",
     name: { de: "Lo Fu Tau", hu: "Lo Fu Tau", ro: "Lo Fu Tau", en: "Lo Fu Tau" },
@@ -633,7 +3459,124 @@ export const hongkongReliefV2: POI[] = [
     image: "/poi-images/hongkong-lo-fu-tau-relief-v2.webp",
   },
   {
-    id: "hongkong-mount-kellett-relief-v2",
+    id: "hongkong-mount-kellett-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tin Wan Shan",
+                  "text": "Ein schroffer Hügel auf Hong Kong Island, der direkt an die dichten städtischen Wohnbebauungen von Aberdeen und Tin Wan grenzt.",
+                  "category": "natural",
+                  "coords": [
+                        114.157721,
+                        22.257381
+                  ]
+            },
+            {
+                  "name": "Mount Kellett",
+                  "text": "Dieser 501 Meter hohe Hauptgipfel bildet einen wichtigen Teil des markanten Gebirgskamms von Hong Kong Island.",
+                  "category": "natural",
+                  "coords": [
+                        114.148603,
+                        22.261687
+                  ]
+            },
+            {
+                  "name": "Artillery Observation Post",
+                  "text": "Diese verfallenden Betonruinen dienten einst als britischer militärischer Beobachtungsbunker zur Überwachung strategischer Küstenzugänge.",
+                  "category": "historical",
+                  "coords": [
+                        114.149005,
+                        22.257892
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tin Wan Shan",
+                  "text": "Egy zord domb Hongkong szigetén, amely szorosan határos Aberdeen és Tin Wan sűrű városi lakóövezeteivel.",
+                  "category": "natural",
+                  "coords": [
+                        114.157721,
+                        22.257381
+                  ]
+            },
+            {
+                  "name": "Mount Kellett",
+                  "text": "Az 501 méteres magasságot elérő főcsúcs Hongkong szigetének kiemelkedő hegygerincének fontos részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        114.148603,
+                        22.261687
+                  ]
+            },
+            {
+                  "name": "Artillery Observation Post",
+                  "text": "Ezek a pusztuló betonromok egykor brit katonai megfigyelőbunkerként szolgáltak, amelyet a stratégiai parti megközelítések ellenőrzésére építettek.",
+                  "category": "historical",
+                  "coords": [
+                        114.149005,
+                        22.257892
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tin Wan Shan",
+                  "text": "Un deal accidentat pe Insula Hong Kong, care se învecinează îndeaproape cu dezvoltările rezidențiale urbane dense din Aberdeen și Tin Wan.",
+                  "category": "natural",
+                  "coords": [
+                        114.157721,
+                        22.257381
+                  ]
+            },
+            {
+                  "name": "Mount Kellett",
+                  "text": "Atingând o altitudine de 501 metri, acest vârf major formează o parte importantă a proeminentei creste a Insulei Hong Kong.",
+                  "category": "natural",
+                  "coords": [
+                        114.148603,
+                        22.261687
+                  ]
+            },
+            {
+                  "name": "Artillery Observation Post",
+                  "text": "Aceste ruine din beton în descompunere au servit odată ca un buncăr militar britanic de observație construit pentru a monitoriza abordările strategice de coastă.",
+                  "category": "historical",
+                  "coords": [
+                        114.149005,
+                        22.257892
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tin Wan Shan",
+                  "text": "A rugged hill on Hong Kong Island that closely borders the dense urban residential developments of Aberdeen and Tin Wan.",
+                  "category": "natural",
+                  "coords": [
+                        114.157721,
+                        22.257381
+                  ]
+            },
+            {
+                  "name": "Mount Kellett",
+                  "text": "Reaching an elevation of 501 metres, this major peak forms an important part of the prominent ridgeline of Hong Kong Island.",
+                  "category": "natural",
+                  "coords": [
+                        114.148603,
+                        22.261687
+                  ]
+            },
+            {
+                  "name": "Artillery Observation Post",
+                  "text": "These decaying concrete ruins once served as a British military observation bunker built to monitor strategic coastal approaches.",
+                  "category": "historical",
+                  "coords": [
+                        114.149005,
+                        22.257892
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "peak",
     name: { de: "Mount Kellett", hu: "Mount Kellett", ro: "Mount Kellett", en: "Mount Kellett" },
@@ -678,7 +3621,196 @@ export const hongkongReliefV2: POI[] = [
     image: "/poi-images/hongkong-mount-kellett-relief-v2.webp",
   },
   {
-    id: "hongkong-mount-nicholson-relief-v2",
+    id: "hongkong-mount-nicholson-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rock Carvings at Wong Chuk Hang",
+                  "text": "Diese alten, gewundenen geometrischen Petroglyphen sind direkt in eine natürliche Felswand in der Nähe eines lokalen Bachlaufs gemeißelt.",
+                  "category": "landmark",
+                  "coords": [
+                        114.174642,
+                        22.252553
+                  ]
+            },
+            {
+                  "name": "Mount Cameron",
+                  "text": "Dieser 439 Meter hohe Berg zentral auf Hong Kong Island bietet steile Wanderwege und eine üppige Walddecke.",
+                  "category": "natural",
+                  "coords": [
+                        114.17511,
+                        22.262407
+                  ]
+            },
+            {
+                  "name": "Adventures in Australia",
+                  "text": "Ein immersiver Ausstellungsraum im Stil des australischen Outbacks, in dem lebende Koalas und Rotnackenwallabys zu sehen sind.",
+                  "category": "cultural",
+                  "coords": [
+                        114.176189,
+                        22.246436
+                  ]
+            },
+            {
+                  "name": "Nam Fung Road Woodland SSSI",
+                  "text": "Ein geschütztes Gebiet von besonderem wissenschaftlichem Interesse, das für seinen alten Laubwald und seltene endemische Pflanzenarten bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        114.181691,
+                        22.255213
+                  ]
+            },
+            {
+                  "name": "Harnn Heritage Spa",
+                  "text": "Ein exklusiver Wellness-Rückzugsort, der traditionelle thailändische Botanik-Behandlungen in einer ruhigen, luxuriösen Umgebung anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        114.175813,
+                        22.247987
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rock Carvings at Wong Chuk Hang",
+                  "text": "Ezeket az ősi, kanyargós geometriai sziklarajzokat közvetlenül egy természetes sziklafalba faragták egy helyi patakmeder közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        114.174642,
+                        22.252553
+                  ]
+            },
+            {
+                  "name": "Mount Cameron",
+                  "text": "Ez a Hongkong szigetének központjában elhelyezkedő 439 méteres hegy meredek túraútvonalakat és buja erdőtakarót kínál.",
+                  "category": "natural",
+                  "coords": [
+                        114.17511,
+                        22.262407
+                  ]
+            },
+            {
+                  "name": "Adventures in Australia",
+                  "text": "Az ausztrál vadon témájú, magával ragadó kiállítótérben élő koalák és vörösnyakú wallabik láthatók.",
+                  "category": "cultural",
+                  "coords": [
+                        114.176189,
+                        22.246436
+                  ]
+            },
+            {
+                  "name": "Nam Fung Road Woodland SSSI",
+                  "text": "Különleges tudományos jelentőségű védett terület, amely érett lombhullató erdejéről és ritka endemikus növényfajairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        114.181691,
+                        22.255213
+                  ]
+            },
+            {
+                  "name": "Harnn Heritage Spa",
+                  "text": "Egy exkluzív wellness-menedék, amely hagyományos thai botanikai kezeléseket kínál nyugodt, luxus környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        114.175813,
+                        22.247987
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rock Carvings at Wong Chuk Hang",
+                  "text": "Aceste petroglife geometrice antice și sinuoase sunt sculptate direct într-o suprafață de stâncă naturală lângă un curs de apă local.",
+                  "category": "landmark",
+                  "coords": [
+                        114.174642,
+                        22.252553
+                  ]
+            },
+            {
+                  "name": "Mount Cameron",
+                  "text": "Acest munte de 439 de metri, situat central pe Insula Hong Kong, oferă poteci abrupte de drumeție și o acoperire forestieră luxuriantă.",
+                  "category": "natural",
+                  "coords": [
+                        114.17511,
+                        22.262407
+                  ]
+            },
+            {
+                  "name": "Adventures in Australia",
+                  "text": "Un spațiu expozițional captivant cu tematica outback-ului australian, prezentând urși koala și canguri wallaby cu gât roșu vii.",
+                  "category": "cultural",
+                  "coords": [
+                        114.176189,
+                        22.246436
+                  ]
+            },
+            {
+                  "name": "Nam Fung Road Woodland SSSI",
+                  "text": "Un Sit de Interes Științific Special protejat, remarcat pentru pădurea sa matură de foioase și speciile rare de plante endemice.",
+                  "category": "natural",
+                  "coords": [
+                        114.181691,
+                        22.255213
+                  ]
+            },
+            {
+                  "name": "Harnn Heritage Spa",
+                  "text": "Un refugiu de wellness de lux care oferă tratamente botanice thailandeze tradiționale într-un mediu liniștit și luxos.",
+                  "category": "recreational",
+                  "coords": [
+                        114.175813,
+                        22.247987
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rock Carvings at Wong Chuk Hang",
+                  "text": "These ancient meandering geometric petroglyphs are carved directly into a natural rock face near a local stream course.",
+                  "category": "landmark",
+                  "coords": [
+                        114.174642,
+                        22.252553
+                  ]
+            },
+            {
+                  "name": "Mount Cameron",
+                  "text": "This 439-metre mountain positioned centrally on Hong Kong Island offers steep hiking paths and lush forest cover.",
+                  "category": "natural",
+                  "coords": [
+                        114.17511,
+                        22.262407
+                  ]
+            },
+            {
+                  "name": "Adventures in Australia",
+                  "text": "An immersive exhibition space themed around the Australian outback, featuring live koalas and red-necked wallabies.",
+                  "category": "cultural",
+                  "coords": [
+                        114.176189,
+                        22.246436
+                  ]
+            },
+            {
+                  "name": "Nam Fung Road Woodland SSSI",
+                  "text": "A protected Site of Special Scientific Interest noted for its mature broad-leaved woodland and rare endemic plant species.",
+                  "category": "natural",
+                  "coords": [
+                        114.181691,
+                        22.255213
+                  ]
+            },
+            {
+                  "name": "Harnn Heritage Spa",
+                  "text": "An upscale wellness retreat offering traditional Thai botanical treatments within a tranquil, luxurious environment.",
+                  "category": "recreational",
+                  "coords": [
+                        114.175813,
+                        22.247987
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "peak",
     name: { de: "Mount Nicholson", hu: "Mount Nicholson", ro: "Mount Nicholson", en: "Mount Nicholson" },
@@ -768,7 +3900,124 @@ export const hongkongReliefV2: POI[] = [
     image: "/poi-images/hongkong-jardines-lookout-relief-v2.webp",
   },
   {
-    id: "hongkong-violet-hill-relief-v2",
+    id: "hongkong-violet-hill-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shouson Hill",
+                  "text": "Dieser bekannte Gipfel bietet eine Mischung aus natürlichen Wanderwegen und Ausblicken auf gehobene Wohngebiete.",
+                  "category": "natural",
+                  "coords": [
+                        114.181982,
+                        22.24763
+                  ]
+            },
+            {
+                  "name": "Violet Hill",
+                  "text": "Dieser Gipfel ist berühmt für seine anspruchsvollen Stufen und bietet einen weiten Blick über die umliegenden Küstengewässer.",
+                  "category": "natural",
+                  "coords": [
+                        114.199997,
+                        22.248968
+                  ]
+            },
+            {
+                  "name": "Deep Water Bay Beach",
+                  "text": "Dieser bemerkenswerte Sandstrand ist ein beliebter Ort zum Sonnenbaden und für Wassersport entlang der malerischen Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        114.187283,
+                        22.244656
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shouson Hill",
+                  "text": "Ez az ismert csúcs a természetes túraútvonalak és az elegáns lakóövezetekre nyíló kilátás keverékét kínálja.",
+                  "category": "natural",
+                  "coords": [
+                        114.181982,
+                        22.24763
+                  ]
+            },
+            {
+                  "name": "Violet Hill",
+                  "text": "A kihívást jelentő lépcsőiről híres csúcs pazar kilátást nyújt a környező parti vizekre.",
+                  "category": "natural",
+                  "coords": [
+                        114.199997,
+                        22.248968
+                  ]
+            },
+            {
+                  "name": "Deep Water Bay Beach",
+                  "text": "Ez a jelentős homokos strand a festői partvonal mentén a napozás és a vízi sportok népszerű helyszíne.",
+                  "category": "recreational",
+                  "coords": [
+                        114.187283,
+                        22.244656
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shouson Hill",
+                  "text": "Acest vârf binecunoscut oferă un amestec de trasee naturale de drumeție și vederi asupra zonelor rezidențiale de lux.",
+                  "category": "natural",
+                  "coords": [
+                        114.181982,
+                        22.24763
+                  ]
+            },
+            {
+                  "name": "Violet Hill",
+                  "text": "Renumit pentru treptele sale provocatoare, acest vârf oferă vederi ample asupra apelor de coastă din jur.",
+                  "category": "natural",
+                  "coords": [
+                        114.199997,
+                        22.248968
+                  ]
+            },
+            {
+                  "name": "Deep Water Bay Beach",
+                  "text": "Această plajă notabilă de nisip este un loc popular pentru plajă și sporturi nautice de-a lungul coastei pitorești.",
+                  "category": "recreational",
+                  "coords": [
+                        114.187283,
+                        22.244656
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shouson Hill",
+                  "text": "This well-known peak offers a blend of natural hiking trails and views of upscale residential areas.",
+                  "category": "natural",
+                  "coords": [
+                        114.181982,
+                        22.24763
+                  ]
+            },
+            {
+                  "name": "Violet Hill",
+                  "text": "Famous for its challenging steps, this peak provides sweeping views over the surrounding coastal waters.",
+                  "category": "natural",
+                  "coords": [
+                        114.199997,
+                        22.248968
+                  ]
+            },
+            {
+                  "name": "Deep Water Bay Beach",
+                  "text": "This notable sandy beach is a popular spot for sunbathing and water sports along the scenic coastline.",
+                  "category": "recreational",
+                  "coords": [
+                        114.187283,
+                        22.244656
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "peak",
     name: { de: "Violet Hill", hu: "Violet-hegy", ro: "Violet Hill", en: "Violet Hill" },
@@ -813,7 +4062,304 @@ export const hongkongReliefV2: POI[] = [
     image: "/poi-images/hongkong-violet-hill-relief-v2.webp",
   },
   {
-    id: "hongkong-devils-peak-relief-v2",
+    id: "hongkong-devils-peak-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chiu Keng Wan Shan",
+                  "text": "Der Chiu Keng Wan Shan ist ein markanter Gipfel, der weite Ausblicke über die umliegende östliche Küstenlandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        114.246028,
+                        22.299988
+                  ]
+            },
+            {
+                  "name": "Devil's Peak",
+                  "text": "Der Devil's Peak ist ein bekannter Berg, der für seine historischen militärischen Ruinen und den Panoramablick auf den Victoria Harbour berühmt ist.",
+                  "category": "natural",
+                  "coords": [
+                        114.243888,
+                        22.293773
+                  ]
+            },
+            {
+                  "name": "Sam Ka Tsuen Recreation Ground",
+                  "text": "Der Sam Ka Tsuen Recreation Ground ist ein kommunales Sport- und Freizeitgebiet in der Nähe des Fischerdorfes an der Küste.",
+                  "category": "park",
+                  "coords": [
+                        114.237331,
+                        22.294089
+                  ]
+            },
+            {
+                  "name": "Gough Battery",
+                  "text": "Die Ruinen der Gough Battery stehen auf dem Devil's Peak und spiegeln die Geschichte des Gebiets als strategische Küstenartilleriestellung wider.",
+                  "category": "historical",
+                  "coords": [
+                        114.242228,
+                        22.291458
+                  ]
+            },
+            {
+                  "name": "Wah Yim Kwok",
+                  "text": "Wah Yim Kwok ist ein friedlicher buddhistischer Rückzugsort in den malerischen Hügeln rund um den Devil's Peak.",
+                  "category": "landmark",
+                  "coords": [
+                        114.239789,
+                        22.292779
+                  ]
+            },
+            {
+                  "name": "St. James Church",
+                  "text": "Die St. James Church bietet einen Ort für christliche Gottesdienste und Gemeindeversammlungen in der Gegend von Devil's Peak.",
+                  "category": "landmark",
+                  "coords": [
+                        114.238337,
+                        22.294096
+                  ]
+            },
+            {
+                  "name": "Lingnan Temple",
+                  "text": "Der Lingnan Temple ist ein traditioneller Schrein der chinesischen Volksreligion, der den lokalen Gläubigen in der Nähe des Devil's Peak dient.",
+                  "category": "landmark",
+                  "coords": [
+                        114.242783,
+                        22.295447
+                  ]
+            },
+            {
+                  "name": "Lei Yue Mun Market",
+                  "text": "Der Lei Yue Mun Market ist ein lebhafter lokaler Basar in der Nähe des Fischerdorfes, der für seine Stände mit frischen Meeresfrüchten bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        114.23882,
+                        22.292006
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chiu Keng Wan Shan",
+                  "text": "A Chiu Keng Wan Shan egy kiemelkedő hegycsúcs, amely pazar kilátást nyújt a környező keleti partvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        114.246028,
+                        22.299988
+                  ]
+            },
+            {
+                  "name": "Devil's Peak",
+                  "text": "A Devil's Peak egy figyelemre méltó hegy, amely a történelmi katonai romjairól és a Victoria Harbourra nyíló panorámás kilátásáról híres.",
+                  "category": "natural",
+                  "coords": [
+                        114.243888,
+                        22.293773
+                  ]
+            },
+            {
+                  "name": "Sam Ka Tsuen Recreation Ground",
+                  "text": "A Sam Ka Tsuen Recreation Ground egy közösségi sport- és szabadidős terület a tengerparti halászfalu közelében.",
+                  "category": "park",
+                  "coords": [
+                        114.237331,
+                        22.294089
+                  ]
+            },
+            {
+                  "name": "Gough Battery",
+                  "text": "A Gough Battery romjai a Devil's Peak hegyen állnak, tükrözve a terület egykori stratégiai partvédelmi tüzérségi állomásként betöltött szerepét.",
+                  "category": "historical",
+                  "coords": [
+                        114.242228,
+                        22.291458
+                  ]
+            },
+            {
+                  "name": "Wah Yim Kwok",
+                  "text": "A Wah Yim Kwok egy békés buddhista elvonulóhely a Devil's Peaket körülvevő festői dombok között.",
+                  "category": "landmark",
+                  "coords": [
+                        114.239789,
+                        22.292779
+                  ]
+            },
+            {
+                  "name": "St. James Church",
+                  "text": "A St. James Church keresztény istentiszteletek és közösségi összejövetelek helyszínét kínálja a Devil's Peak környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        114.238337,
+                        22.294096
+                  ]
+            },
+            {
+                  "name": "Lingnan Temple",
+                  "text": "A Lingnan Temple a hagyományos kínai népi vallás egyik szentélye, amely a Devil's Peak közelében élő helyi hívőket szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        114.242783,
+                        22.295447
+                  ]
+            },
+            {
+                  "name": "Lei Yue Mun Market",
+                  "text": "A Lei Yue Mun Market egy élénk helyi bazár a halászfalu közelében, amely a friss tenger gyümölcseit kínáló standjairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        114.23882,
+                        22.292006
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chiu Keng Wan Shan",
+                  "text": "Chiu Keng Wan Shan este un vârf proeminent care oferă vederi ample asupra peisajului de coastă estic înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        114.246028,
+                        22.299988
+                  ]
+            },
+            {
+                  "name": "Devil's Peak",
+                  "text": "Devil's Peak este un munte notabil renumit pentru ruinele sale militare istorice și vederile panoramice asupra portului Victoria.",
+                  "category": "natural",
+                  "coords": [
+                        114.243888,
+                        22.293773
+                  ]
+            },
+            {
+                  "name": "Sam Ka Tsuen Recreation Ground",
+                  "text": "Sam Ka Tsuen Recreation Ground este o zonă comunitară de sport și agrement situată lângă satul de pescari de pe coastă.",
+                  "category": "park",
+                  "coords": [
+                        114.237331,
+                        22.294089
+                  ]
+            },
+            {
+                  "name": "Gough Battery",
+                  "text": "Ruinele Bateriei Gough se află pe Devil's Peak, reflectând istoria zonei ca poziție strategică de artilerie de coastă.",
+                  "category": "historical",
+                  "coords": [
+                        114.242228,
+                        22.291458
+                  ]
+            },
+            {
+                  "name": "Wah Yim Kwok",
+                  "text": "Wah Yim Kwok este o retragere budistă liniștită situată pe dealurile pitorești din jurul lui Devil's Peak.",
+                  "category": "landmark",
+                  "coords": [
+                        114.239789,
+                        22.292779
+                  ]
+            },
+            {
+                  "name": "St. James Church",
+                  "text": "Biserica St. James oferă un loc de cult creștin și de adunare comunitară în zona Devil's Peak.",
+                  "category": "landmark",
+                  "coords": [
+                        114.238337,
+                        22.294096
+                  ]
+            },
+            {
+                  "name": "Lingnan Temple",
+                  "text": "Templul Lingnan este un altar tradițional al religiei populare chineze care deservește devotații locali din apropiere de Devil's Peak.",
+                  "category": "landmark",
+                  "coords": [
+                        114.242783,
+                        22.295447
+                  ]
+            },
+            {
+                  "name": "Lei Yue Mun Market",
+                  "text": "Piața Lei Yue Mun este un bazar local plin de viață, cunoscut pentru tarabele sale cu fructe de mare proaspete, aflat aproape de satul de pescari.",
+                  "category": "cultural",
+                  "coords": [
+                        114.23882,
+                        22.292006
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chiu Keng Wan Shan",
+                  "text": "Chiu Keng Wan Shan is a prominent peak that offers expansive views over the surrounding eastern coastal landscape.",
+                  "category": "natural",
+                  "coords": [
+                        114.246028,
+                        22.299988
+                  ]
+            },
+            {
+                  "name": "Devil's Peak",
+                  "text": "Devil's Peak is a notable mountain renowned for its historic military ruins and panoramic views of Victoria Harbour.",
+                  "category": "natural",
+                  "coords": [
+                        114.243888,
+                        22.293773
+                  ]
+            },
+            {
+                  "name": "Sam Ka Tsuen Recreation Ground",
+                  "text": "Sam Ka Tsuen Recreation Ground is a community sports and leisure area situated near the coastal fishing village.",
+                  "category": "park",
+                  "coords": [
+                        114.237331,
+                        22.294089
+                  ]
+            },
+            {
+                  "name": "Gough Battery",
+                  "text": "The ruins of Gough Battery stand on Devil's Peak, reflecting the area's history as a strategic coastal artillery position.",
+                  "category": "historical",
+                  "coords": [
+                        114.242228,
+                        22.291458
+                  ]
+            },
+            {
+                  "name": "Wah Yim Kwok",
+                  "text": "Wah Yim Kwok is a peaceful Buddhist retreat situated in the scenic hills surrounding Devil's Peak.",
+                  "category": "landmark",
+                  "coords": [
+                        114.239789,
+                        22.292779
+                  ]
+            },
+            {
+                  "name": "St. James Church",
+                  "text": "St. James Church offers a place of Christian worship and community gathering in the Devil's Peak area.",
+                  "category": "landmark",
+                  "coords": [
+                        114.238337,
+                        22.294096
+                  ]
+            },
+            {
+                  "name": "Lingnan Temple",
+                  "text": "Lingnan Temple is a traditional Chinese folk religion shrine serving the local devotees near Devil's Peak.",
+                  "category": "landmark",
+                  "coords": [
+                        114.242783,
+                        22.295447
+                  ]
+            },
+            {
+                  "name": "Lei Yue Mun Market",
+                  "text": "Lei Yue Mun Market is a lively local bazaar known for its fresh seafood stalls close to the fishing village.",
+                  "category": "cultural",
+                  "coords": [
+                        114.23882,
+                        22.292006
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "peak",
     name: { de: "Devil's Peak", hu: "Ördög-csúcs", ro: "Devil's Peak", en: "Devil's Peak" },
@@ -858,7 +4404,376 @@ export const hongkongReliefV2: POI[] = [
     image: "/poi-images/hongkong-devils-peak-relief-v2.webp",
   },
   {
-    id: "hongkong-beacon-hill-relief-v2",
+    id: "hongkong-beacon-hill-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Beacon Hill",
+                  "text": "Dieser markante Gipfel der Kowloon-Bergkette ist leicht an der kugelförmigen Flugradarstation in der Nähe seines Scheitelpunkts zu erkennen.",
+                  "category": "natural",
+                  "coords": [
+                        114.17039,
+                        22.349754
+                  ]
+            },
+            {
+                  "name": "North Meridian Mark",
+                  "text": "Die historischen Ruinen einer Steinsäule, die ursprünglich errichtet wurde, um eine genaue astronomische Meridianlinie für Vermessungen festzulegen.",
+                  "category": "historical",
+                  "coords": [
+                        114.174425,
+                        22.347899
+                  ]
+            },
+            {
+                  "name": "Beacon Hill Viewing Point",
+                  "text": "Ein erhöhter Aussichtspunkt, der Wanderern einen weiten Panoramablick über die dicht besiedelte Kowloon-Halbinsel bietet.",
+                  "category": "natural",
+                  "coords": [
+                        114.172956,
+                        22.350214
+                  ]
+            },
+            {
+                  "name": "Ede Road Playground",
+                  "text": "Ein friedliches Naherholungsgebiet im Viertel mit Kinderspielgeräten und schattigen Bänken entlang der Ede Road.",
+                  "category": "park",
+                  "coords": [
+                        114.177504,
+                        22.342489
+                  ]
+            },
+            {
+                  "name": "Hong Kong China Temple",
+                  "text": "Ein visuell beeindruckendes, mehrstöckiges religiöses Gebäude, das als Tempel für die Heiligen der Letzten Tage in der Region dient.",
+                  "category": "religious",
+                  "coords": [
+                        114.17734,
+                        22.34039
+                  ]
+            },
+            {
+                  "name": "Kent Road Garden",
+                  "text": "Ein ruhiger kleiner Garten inmitten der Wohnstraßen, der eine kleine grüne Oase mit alten Schattenbäumen bietet.",
+                  "category": "park",
+                  "coords": [
+                        114.175425,
+                        22.339065
+                  ]
+            },
+            {
+                  "name": "Shek Kip Mei Park",
+                  "text": "Ein weitläufiger Freizeitkomplex mit Kunstrasen-Fußballplätzen, Tennisplätzen und einem Indoor-Sportzentrum.",
+                  "category": "park",
+                  "coords": [
+                        114.170066,
+                        22.336748
+                  ]
+            },
+            {
+                  "name": "Cornwall Street Park",
+                  "text": "Dieser Stadtpark verbindet nahtlos moderne Squashanlagen mit ruhigen Wasserspielen im klassischen chinesischen Stil.",
+                  "category": "park",
+                  "coords": [
+                        114.173588,
+                        22.338939
+                  ]
+            },
+            {
+                  "name": "Lung Cheung Road Lookout",
+                  "text": "Eine praktische Aussichtsplattform am Straßenrand, die Fahrern und Fußgängern einen weiten Blick über die Kowloon-Halbinsel bietet.",
+                  "category": "natural",
+                  "coords": [
+                        114.171302,
+                        22.342889
+                  ]
+            },
+            {
+                  "name": "Shek Kip Mei Service Reservoir Playground",
+                  "text": "Ein innovatives Naherholungsgebiet, das direkt auf einem unterirdischen Wasserspeicher errichtet wurde.",
+                  "category": "park",
+                  "coords": [
+                        114.166297,
+                        22.340951
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Beacon Hill",
+                  "text": "A Kowloon-hegység ezen kiemelkedő csúcsa könnyen felismerhető a csúcsa közelében található gömb alakú légiközlekedési radarálomásról.",
+                  "category": "natural",
+                  "coords": [
+                        114.17039,
+                        22.349754
+                  ]
+            },
+            {
+                  "name": "North Meridian Mark",
+                  "text": "Egy kőoszlop történelmi romjai, amelyet eredetileg azért építettek, hogy pontos csillagászati meridiánvonalat hozzanak létre a földméréshez.",
+                  "category": "historical",
+                  "coords": [
+                        114.174425,
+                        22.347899
+                  ]
+            },
+            {
+                  "name": "Beacon Hill Viewing Point",
+                  "text": "Kiemelkedő festői kilátó, amely a túrázóknak lenyűgöző panorámát nyújt a sűrűn lakott Kowloon-félszigetre.",
+                  "category": "natural",
+                  "coords": [
+                        114.172956,
+                        22.350214
+                  ]
+            },
+            {
+                  "name": "Ede Road Playground",
+                  "text": "Csendes környékbeli rekreációs tér, ahol gyermekjátékok és árnyékos padok várják a látogatókat az Ede út mentén.",
+                  "category": "park",
+                  "coords": [
+                        114.177504,
+                        22.342489
+                  ]
+            },
+            {
+                  "name": "Hong Kong China Temple",
+                  "text": "Látványos, többszintes vallási épület, amely az Utolsó Napok Szentjeinek dedikált templomaként szolgál a régióban.",
+                  "category": "religious",
+                  "coords": [
+                        114.17734,
+                        22.34039
+                  ]
+            },
+            {
+                  "name": "Kent Road Garden",
+                  "text": "A lakóövezet utcái között megbúvó csendes zsebkert, amely egy kis zöld oázist kínál öreg árnyékot adó fákkal.",
+                  "category": "park",
+                  "coords": [
+                        114.175425,
+                        22.339065
+                  ]
+            },
+            {
+                  "name": "Shek Kip Mei Park",
+                  "text": "Hatalmas rekreációs komplexum műfüves futballpályákkal, teniszpályákkal és egy fedett sportközponttal.",
+                  "category": "park",
+                  "coords": [
+                        114.170066,
+                        22.336748
+                  ]
+            },
+            {
+                  "name": "Cornwall Street Park",
+                  "text": "Ez a városi park zökkenőmentesen ötvözi a modern squash-létesítményeket a klasszikus kínai stílusban épült, nyugodt vizikerttel.",
+                  "category": "park",
+                  "coords": [
+                        114.173588,
+                        22.338939
+                  ]
+            },
+            {
+                  "name": "Lung Cheung Road Lookout",
+                  "text": "Egy kényelmes út menti kilátó, amely a sofőröknek és a gyalogosoknak széles panorámát nyújt a Kowloon-félszigetre.",
+                  "category": "natural",
+                  "coords": [
+                        114.171302,
+                        22.342889
+                  ]
+            },
+            {
+                  "name": "Shek Kip Mei Service Reservoir Playground",
+                  "text": "Egy innovatív rekreációs tér, amelyet közvetlenül egy földalatti víztározó tetejére építettek.",
+                  "category": "park",
+                  "coords": [
+                        114.166297,
+                        22.340951
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Beacon Hill",
+                  "text": "Acest vârf proeminent din lanțul Kowloon este ușor de recunoscut după stația radar de aviație sferică situată în apropierea sa.",
+                  "category": "natural",
+                  "coords": [
+                        114.17039,
+                        22.349754
+                  ]
+            },
+            {
+                  "name": "North Meridian Mark",
+                  "text": "Ruinele istorice ale unui stâlp de piatră construit inițial pentru a stabili o linie de meridian astronomică precisă pentru topografie.",
+                  "category": "historical",
+                  "coords": [
+                        114.174425,
+                        22.347899
+                  ]
+            },
+            {
+                  "name": "Beacon Hill Viewing Point",
+                  "text": "Un punct de belvedere pitoresc care oferă drumeților o panoramă uimitoare asupra Peninsulei Kowloon dens populate.",
+                  "category": "natural",
+                  "coords": [
+                        114.172956,
+                        22.350214
+                  ]
+            },
+            {
+                  "name": "Ede Road Playground",
+                  "text": "Un spațiu recreativ liniștit de cartier, dotat cu echipamente de joacă pentru copii și bănci umbrite de-a lungul străzii Ede.",
+                  "category": "park",
+                  "coords": [
+                        114.177504,
+                        22.342489
+                  ]
+            },
+            {
+                  "name": "Hong Kong China Temple",
+                  "text": "Un edificiu religios cu mai multe etaje, impresionant vizual, care servește ca templu dedicat Sfinților din Zilele din Urmă din regiune.",
+                  "category": "religious",
+                  "coords": [
+                        114.17734,
+                        22.34039
+                  ]
+            },
+            {
+                  "name": "Kent Road Garden",
+                  "text": "O grădină de buzunar liniștită, ascunsă printre străzile rezidențiale, oferind o mică oază verde cu copaci maturi.",
+                  "category": "park",
+                  "coords": [
+                        114.175425,
+                        22.339065
+                  ]
+            },
+            {
+                  "name": "Shek Kip Mei Park",
+                  "text": "Un complex de recreere întins, care include terenuri de fotbal cu gazon artificial, terenuri de tenis și un centru sportiv acoperit.",
+                  "category": "park",
+                  "coords": [
+                        114.170066,
+                        22.336748
+                  ]
+            },
+            {
+                  "name": "Cornwall Street Park",
+                  "text": "Acest parc urban îmbină perfect facilitățile moderne de squash cu elemente de apă liniștite, construite în stil clasic chinezesc.",
+                  "category": "park",
+                  "coords": [
+                        114.173588,
+                        22.338939
+                  ]
+            },
+            {
+                  "name": "Lung Cheung Road Lookout",
+                  "text": "O punte de observație convenabilă la marginea drumului, care oferă șoferilor și pietonilor vederi panoramice asupra Peninsulei Kowloon.",
+                  "category": "natural",
+                  "coords": [
+                        114.171302,
+                        22.342889
+                  ]
+            },
+            {
+                  "name": "Shek Kip Mei Service Reservoir Playground",
+                  "text": "Un spațiu recreativ inovator construit direct deasupra unui rezervor subteran de servicii de apă.",
+                  "category": "park",
+                  "coords": [
+                        114.166297,
+                        22.340951
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Beacon Hill",
+                  "text": "This prominent peak in the Kowloon range is easily recognizable by the spherical aviation radar station situated near its summit.",
+                  "category": "natural",
+                  "coords": [
+                        114.17039,
+                        22.349754
+                  ]
+            },
+            {
+                  "name": "North Meridian Mark",
+                  "text": "The historic ruins of a stone pillar originally constructed to establish a precise astronomical meridian line for surveying.",
+                  "category": "historical",
+                  "coords": [
+                        114.174425,
+                        22.347899
+                  ]
+            },
+            {
+                  "name": "Beacon Hill Viewing Point",
+                  "text": "An elevated scenic lookout offering hikers sweeping, panoramic vistas over the densely populated Kowloon Peninsula.",
+                  "category": "natural",
+                  "coords": [
+                        114.172956,
+                        22.350214
+                  ]
+            },
+            {
+                  "name": "Ede Road Playground",
+                  "text": "A peaceful neighborhood recreational space featuring children's play equipment and shaded benches along Ede Road.",
+                  "category": "park",
+                  "coords": [
+                        114.177504,
+                        22.342489
+                  ]
+            },
+            {
+                  "name": "Hong Kong China Temple",
+                  "text": "A visually striking, multi-story religious edifice serving as the dedicated temple for the Latter-day Saints in the region.",
+                  "category": "religious",
+                  "coords": [
+                        114.17734,
+                        22.34039
+                  ]
+            },
+            {
+                  "name": "Kent Road Garden",
+                  "text": "A tranquil pocket garden nestled among the residential streets, offering a small green oasis with mature shade trees.",
+                  "category": "park",
+                  "coords": [
+                        114.175425,
+                        22.339065
+                  ]
+            },
+            {
+                  "name": "Shek Kip Mei Park",
+                  "text": "A sprawling recreational complex featuring artificial turf football pitches, tennis courts, and an indoor sports centre.",
+                  "category": "park",
+                  "coords": [
+                        114.170066,
+                        22.336748
+                  ]
+            },
+            {
+                  "name": "Cornwall Street Park",
+                  "text": "This urban park seamlessly blends modern squash facilities with serene water features built in a classical Chinese style.",
+                  "category": "park",
+                  "coords": [
+                        114.173588,
+                        22.338939
+                  ]
+            },
+            {
+                  "name": "Lung Cheung Road Lookout",
+                  "text": "A convenient roadside observation deck that affords drivers and pedestrians expansive views over the Kowloon Peninsula.",
+                  "category": "natural",
+                  "coords": [
+                        114.171302,
+                        22.342889
+                  ]
+            },
+            {
+                  "name": "Shek Kip Mei Service Reservoir Playground",
+                  "text": "An innovative recreational space constructed directly on top of an underground water service reservoir.",
+                  "category": "park",
+                  "coords": [
+                        114.166297,
+                        22.340951
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "peak",
     name: { de: "Beacon Hill", hu: "Beacon-hegy", ro: "Beacon Hill", en: "Beacon Hill" },
@@ -903,7 +4818,556 @@ export const hongkongReliefV2: POI[] = [
     image: "/poi-images/hongkong-beacon-hill-relief-v2.webp",
   },
   {
-    id: "hongkong-ma-nam-wat-relief-v2",
+    id: "hongkong-ma-nam-wat-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sam Sing Wan",
+                  "text": "Das seichte Gewässer dieser Bucht ist von dicht bewachsenen Hängen umrahmt.",
+                  "category": "landmark",
+                  "coords": [
+                        114.267291,
+                        22.356841
+                  ]
+            },
+            {
+                  "name": "Pillbox PB109",
+                  "text": "Die moosbedeckten Betonüberreste dieses Bunkers zeugen von der militärischen Küstenverteidigung vergangener Zeiten.",
+                  "category": "historical",
+                  "coords": [
+                        114.264702,
+                        22.352073
+                  ]
+            },
+            {
+                  "name": "Pillbox PB108",
+                  "text": "Die Ruine dieses militärischen Außenpostens liegt versteckt im Unterholz nahe der Küstenlinie.",
+                  "category": "historical",
+                  "coords": [
+                        114.266363,
+                        22.347253
+                  ]
+            },
+            {
+                  "name": "Sai Kung Seafood Street",
+                  "text": "Diese lebhafte Straße lockt Besucher mit zahlreichen Aquarien und Restaurants, die fangfrischen Fisch direkt zubereiten.",
+                  "category": "landmark",
+                  "coords": [
+                        114.272123,
+                        22.379466
+                  ]
+            },
+            {
+                  "name": "Nature's Harvest Organic Farm and Leisure Getaway",
+                  "text": "Dieser landschaftlich gestaltete Bio-Bauernhof beherbergt verschiedene Hoftiere und bietet eine grüne Oase zur Entspannung.",
+                  "category": "recreational",
+                  "coords": [
+                        114.264539,
+                        22.342064
+                  ]
+            },
+            {
+                  "name": "Lions Nature Education Centre",
+                  "text": "Das bekannte Naturkundemuseum informiert seine Besucher mit interaktiven Ausstellungen über die lokale Flora und Fauna.",
+                  "category": "museum",
+                  "coords": [
+                        114.264433,
+                        22.374307
+                  ]
+            },
+            {
+                  "name": "Volcano Discovery Centre",
+                  "text": "In diesem Museum können Besucher faszinierende Gesteinsproben und detaillierte Modelle der vulkanischen Geschichte der Region erkunden.",
+                  "category": "museum",
+                  "coords": [
+                        114.274086,
+                        22.3824
+                  ]
+            },
+            {
+                  "name": "Man Yee Playground",
+                  "text": "Der Park verfügt über moderne Spielgeräte und Freiflächen, die von schattenspendenden Bäumen umgeben sind.",
+                  "category": "park",
+                  "coords": [
+                        114.271984,
+                        22.381264
+                  ]
+            },
+            {
+                  "name": "Sha Ha",
+                  "text": "Dieser flache Strandbereich ist besonders bei Familien beliebt, die im seichten Wasser baden möchten.",
+                  "category": "recreational",
+                  "coords": [
+                        114.276137,
+                        22.388844
+                  ]
+            },
+            {
+                  "name": "The Chinese Full Gospel Church Sai Kung Church",
+                  "text": "Die christliche Gemeinde versammelt sich in diesem soliden Gebäude aus Backstein, um regelmäßige Gottesdienste abzuhalten.",
+                  "category": "landmark",
+                  "coords": [
+                        114.270076,
+                        22.377125
+                  ]
+            },
+            {
+                  "name": "Tin Hau Temple",
+                  "text": "Das charakteristische rote Dach dieses Tempels hebt sich leuchtend von der umgebenden Stadtstruktur ab.",
+                  "category": "religious",
+                  "coords": [
+                        114.270807,
+                        22.381024
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Church Sai Kung",
+                  "text": "Die christliche Kirche verfügt über ein großes hölzernes Kruzifix, das den Altarraum des schlichten Baus dominiert.",
+                  "category": "landmark",
+                  "coords": [
+                        114.27039,
+                        22.382231
+                  ]
+            },
+            {
+                  "name": "The Hong Kong Shumei Church of Divine Guidance LTD",
+                  "text": "Das Gebäude dieser religiösen Einrichtung zeichnet sich durch große Fensterfronten aus, die den Saal mit natürlichem Licht fluten.",
+                  "category": "landmark",
+                  "coords": [
+                        114.273679,
+                        22.391903
+                  ]
+            },
+            {
+                  "name": "Main Hall",
+                  "text": "Die Haupthalle des buddhistischen Tempels ist reich mit goldenen Ornamenten und duftenden Räucherstäbchen geschmückt.",
+                  "category": "landmark",
+                  "coords": [
+                        114.258579,
+                        22.368369
+                  ]
+            },
+            {
+                  "name": "Tsung Tsin Mission Of Hong Kong Wo Mei Church",
+                  "text": "Diese christliche Kirche der Tsung Tsin Mission bietet der Gemeinde einen ruhigen Raum für Gebete und Andachten.",
+                  "category": "landmark",
+                  "coords": [
+                        114.253536,
+                        22.352312
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sam Sing Wan",
+                  "text": "Ennek az öbölnek a sekély vizeit sűrűn benőtt domboldalak veszik körül.",
+                  "category": "landmark",
+                  "coords": [
+                        114.267291,
+                        22.356841
+                  ]
+            },
+            {
+                  "name": "Pillbox PB109",
+                  "text": "Ennek a bunkernek a mohával borított betonmaradványai a múltbéli part menti katonai védelemről tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        114.264702,
+                        22.352073
+                  ]
+            },
+            {
+                  "name": "Pillbox PB108",
+                  "text": "Ennek a katonai előőrsnek a romjai a tengerpart közelében, az aljnövényzetben bújnak meg.",
+                  "category": "historical",
+                  "coords": [
+                        114.266363,
+                        22.347253
+                  ]
+            },
+            {
+                  "name": "Sai Kung Seafood Street",
+                  "text": "Ez a nyüzsgő utca számos akváriummal és étteremmel vonzza a látogatókat, ahol a frissen fogott halakat azonnal elkészítik.",
+                  "category": "landmark",
+                  "coords": [
+                        114.272123,
+                        22.379466
+                  ]
+            },
+            {
+                  "name": "Nature's Harvest Organic Farm and Leisure Getaway",
+                  "text": "Ez a parkosított biofarm különböző háziállatoknak ad otthont, és zöld oázisként szolgál a pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        114.264539,
+                        22.342064
+                  ]
+            },
+            {
+                  "name": "Lions Nature Education Centre",
+                  "text": "A jól ismert természettudományi múzeum interaktív kiállításokkal oktatja a látogatókat a helyi növény- és állatvilágról.",
+                  "category": "museum",
+                  "coords": [
+                        114.264433,
+                        22.374307
+                  ]
+            },
+            {
+                  "name": "Volcano Discovery Centre",
+                  "text": "Ebben a múzeumban a látogatók lenyűgöző kőzetmintákat és a régió vulkáni történetét bemutató részletes modelleket fedezhetnek fel.",
+                  "category": "museum",
+                  "coords": [
+                        114.274086,
+                        22.3824
+                  ]
+            },
+            {
+                  "name": "Man Yee Playground",
+                  "text": "A park modern játszótéri eszközökkel és nyitott terekkel rendelkezik, amelyeket árnyékot adó fák vesznek körül.",
+                  "category": "park",
+                  "coords": [
+                        114.271984,
+                        22.381264
+                  ]
+            },
+            {
+                  "name": "Sha Ha",
+                  "text": "Ez a sekély partszakasz különösen népszerű a családok körében, akik a sekély vízben szeretnének fürdeni.",
+                  "category": "recreational",
+                  "coords": [
+                        114.276137,
+                        22.388844
+                  ]
+            },
+            {
+                  "name": "The Chinese Full Gospel Church Sai Kung Church",
+                  "text": "A keresztény gyülekezet ebben a szilárd téglaépületben gyűlik össze a rendszeres istentiszteletekre.",
+                  "category": "landmark",
+                  "coords": [
+                        114.270076,
+                        22.377125
+                  ]
+            },
+            {
+                  "name": "Tin Hau Temple",
+                  "text": "Ennek a templomnak a jellegzetes piros teteje fényesen elüt a környező városi épületektől.",
+                  "category": "religious",
+                  "coords": [
+                        114.270807,
+                        22.381024
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Church Sai Kung",
+                  "text": "A keresztény templom egy nagy fa feszülettel rendelkezik, amely uralja az egyszerű épület szentélyét.",
+                  "category": "landmark",
+                  "coords": [
+                        114.27039,
+                        22.382231
+                  ]
+            },
+            {
+                  "name": "The Hong Kong Shumei Church of Divine Guidance LTD",
+                  "text": "Ennek a vallási intézménynek az épülete nagy ablakokkal rendelkezik, amelyek természetes fénnyel árasztják el a termet.",
+                  "category": "landmark",
+                  "coords": [
+                        114.273679,
+                        22.391903
+                  ]
+            },
+            {
+                  "name": "Main Hall",
+                  "text": "A buddhista templom főcsarnoka gazdagon díszített arany ornamentikával és illatos füstölőkkel.",
+                  "category": "landmark",
+                  "coords": [
+                        114.258579,
+                        22.368369
+                  ]
+            },
+            {
+                  "name": "Tsung Tsin Mission Of Hong Kong Wo Mei Church",
+                  "text": "A Tsung Tsin Misszió e keresztény temploma csendes teret kínál a gyülekezetnek az imádkozáshoz és áhítathoz.",
+                  "category": "landmark",
+                  "coords": [
+                        114.253536,
+                        22.352312
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sam Sing Wan",
+                  "text": "Apele puțin adânci ale acestui golf sunt înconjurate de versanți dens împăduriți.",
+                  "category": "landmark",
+                  "coords": [
+                        114.267291,
+                        22.356841
+                  ]
+            },
+            {
+                  "name": "Pillbox PB109",
+                  "text": "Rămășițele de beton acoperite de mușchi ale acestui buncăr stau mărturie apărării militare de coastă din vremuri trecute.",
+                  "category": "historical",
+                  "coords": [
+                        114.264702,
+                        22.352073
+                  ]
+            },
+            {
+                  "name": "Pillbox PB108",
+                  "text": "Ruinele acestui avanpost militar zac ascunse în subarboretul din apropierea țărmului.",
+                  "category": "historical",
+                  "coords": [
+                        114.266363,
+                        22.347253
+                  ]
+            },
+            {
+                  "name": "Sai Kung Seafood Street",
+                  "text": "Această stradă plină de viață atrage vizitatorii cu numeroase acvarii și restaurante care pregătesc peștele proaspăt prins la fața locului.",
+                  "category": "landmark",
+                  "coords": [
+                        114.272123,
+                        22.379466
+                  ]
+            },
+            {
+                  "name": "Nature's Harvest Organic Farm and Leisure Getaway",
+                  "text": "Această fermă ecologică amenajată găzduiește diverse animale de curte și oferă o oază verde pentru relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        114.264539,
+                        22.342064
+                  ]
+            },
+            {
+                  "name": "Lions Nature Education Centre",
+                  "text": "Renumitul muzeu de educație a naturii informează vizitatorii despre flora și fauna locală prin expoziții interactive.",
+                  "category": "museum",
+                  "coords": [
+                        114.264433,
+                        22.374307
+                  ]
+            },
+            {
+                  "name": "Volcano Discovery Centre",
+                  "text": "În acest muzeu, vizitatorii pot explora mostre de roci fascinante și modele detaliate ale istoriei vulcanice a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        114.274086,
+                        22.3824
+                  ]
+            },
+            {
+                  "name": "Man Yee Playground",
+                  "text": "Parcul dispune de echipamente de joacă moderne și spații deschise înconjurate de copaci care oferă umbră.",
+                  "category": "park",
+                  "coords": [
+                        114.271984,
+                        22.381264
+                  ]
+            },
+            {
+                  "name": "Sha Ha",
+                  "text": "Această zonă de plajă plată este deosebit de populară printre familiile care doresc să se scalde în apele puțin adânci.",
+                  "category": "recreational",
+                  "coords": [
+                        114.276137,
+                        22.388844
+                  ]
+            },
+            {
+                  "name": "The Chinese Full Gospel Church Sai Kung Church",
+                  "text": "Congregația creștină se adună în această clădire solidă din cărămidă pentru slujbele religioase regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        114.270076,
+                        22.377125
+                  ]
+            },
+            {
+                  "name": "Tin Hau Temple",
+                  "text": "Acoperișul roșu distinctiv al acestui templu iese în evidență luminos față de structura urbană înconjurătoare.",
+                  "category": "religious",
+                  "coords": [
+                        114.270807,
+                        22.381024
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Church Sai Kung",
+                  "text": "Biserica creștină are un crucifix mare din lemn care domină zona altarului din această clădire simplă.",
+                  "category": "landmark",
+                  "coords": [
+                        114.27039,
+                        22.382231
+                  ]
+            },
+            {
+                  "name": "The Hong Kong Shumei Church of Divine Guidance LTD",
+                  "text": "Clădirea acestei instituții religioase este caracterizată de ferestre mari care inundă sala cu lumină naturală.",
+                  "category": "landmark",
+                  "coords": [
+                        114.273679,
+                        22.391903
+                  ]
+            },
+            {
+                  "name": "Main Hall",
+                  "text": "Sala principală a templului budist este bogat decorată cu ornamente aurii și bețișoare parfumate.",
+                  "category": "landmark",
+                  "coords": [
+                        114.258579,
+                        22.368369
+                  ]
+            },
+            {
+                  "name": "Tsung Tsin Mission Of Hong Kong Wo Mei Church",
+                  "text": "Această biserică creștină a Misiunii Tsung Tsin oferă congregației un spațiu liniștit pentru rugăciune și devoțiune.",
+                  "category": "landmark",
+                  "coords": [
+                        114.253536,
+                        22.352312
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sam Sing Wan",
+                  "text": "The shallow waters of this bay are framed by densely vegetated hillsides.",
+                  "category": "landmark",
+                  "coords": [
+                        114.267291,
+                        22.356841
+                  ]
+            },
+            {
+                  "name": "Pillbox PB109",
+                  "text": "The moss-covered concrete remains of this pillbox are a testament to the coastal military defense of bygone times.",
+                  "category": "historical",
+                  "coords": [
+                        114.264702,
+                        22.352073
+                  ]
+            },
+            {
+                  "name": "Pillbox PB108",
+                  "text": "The ruins of this military outpost lie hidden in the undergrowth close to the shoreline.",
+                  "category": "historical",
+                  "coords": [
+                        114.266363,
+                        22.347253
+                  ]
+            },
+            {
+                  "name": "Sai Kung Seafood Street",
+                  "text": "This bustling street attracts visitors with numerous live fish tanks and restaurants that prepare fresh catches on the spot.",
+                  "category": "landmark",
+                  "coords": [
+                        114.272123,
+                        22.379466
+                  ]
+            },
+            {
+                  "name": "Nature's Harvest Organic Farm and Leisure Getaway",
+                  "text": "This landscaped organic farm houses various farm animals and provides a green oasis for relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        114.264539,
+                        22.342064
+                  ]
+            },
+            {
+                  "name": "Lions Nature Education Centre",
+                  "text": "The well-known nature education museum informs visitors about local flora and fauna through interactive exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        114.264433,
+                        22.374307
+                  ]
+            },
+            {
+                  "name": "Volcano Discovery Centre",
+                  "text": "In this museum, visitors can explore fascinating rock samples and detailed models detailing the region's volcanic history.",
+                  "category": "museum",
+                  "coords": [
+                        114.274086,
+                        22.3824
+                  ]
+            },
+            {
+                  "name": "Man Yee Playground",
+                  "text": "The park features modern play equipment and open spaces surrounded by shade-providing trees.",
+                  "category": "park",
+                  "coords": [
+                        114.271984,
+                        22.381264
+                  ]
+            },
+            {
+                  "name": "Sha Ha",
+                  "text": "This flat beach area is particularly popular with families looking to paddle in the shallow waters.",
+                  "category": "recreational",
+                  "coords": [
+                        114.276137,
+                        22.388844
+                  ]
+            },
+            {
+                  "name": "The Chinese Full Gospel Church Sai Kung Church",
+                  "text": "The Christian congregation gathers in this solid brick building to hold regular worship services.",
+                  "category": "landmark",
+                  "coords": [
+                        114.270076,
+                        22.377125
+                  ]
+            },
+            {
+                  "name": "Tin Hau Temple",
+                  "text": "The distinctive red roof of this temple stands out brightly against the surrounding urban fabric.",
+                  "category": "religious",
+                  "coords": [
+                        114.270807,
+                        22.381024
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Church Sai Kung",
+                  "text": "The Christian church features a large wooden crucifix that dominates the altar area of the modest building.",
+                  "category": "landmark",
+                  "coords": [
+                        114.27039,
+                        22.382231
+                  ]
+            },
+            {
+                  "name": "The Hong Kong Shumei Church of Divine Guidance LTD",
+                  "text": "The building of this religious institution is characterized by large windows that flood the hall with natural light.",
+                  "category": "landmark",
+                  "coords": [
+                        114.273679,
+                        22.391903
+                  ]
+            },
+            {
+                  "name": "Main Hall",
+                  "text": "The main hall of the Buddhist temple is richly decorated with golden ornaments and fragrant incense sticks.",
+                  "category": "landmark",
+                  "coords": [
+                        114.258579,
+                        22.368369
+                  ]
+            },
+            {
+                  "name": "Tsung Tsin Mission Of Hong Kong Wo Mei Church",
+                  "text": "This Christian church of the Tsung Tsin Mission offers the congregation a quiet space for prayer and devotion.",
+                  "category": "landmark",
+                  "coords": [
+                        114.253536,
+                        22.352312
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "peak",
     name: { de: "Ma Nam Wat", hu: "Ma Nam Wat", ro: "Ma Nam Wat", en: "Ma Nam Wat" },
@@ -948,7 +5412,268 @@ export const hongkongReliefV2: POI[] = [
     image: "/poi-images/hongkong-ma-nam-wat-relief-v2.webp",
   },
   {
-    id: "hongkong-high-junk-peak-relief-v2",
+    id: "hongkong-high-junk-peak-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tin Ha Shan",
+                  "text": "Ein schroffer, felsiger Berggipfel entlang des beliebten und anspruchsvollen Wanderwegsystems High Junk Peak.",
+                  "category": "natural",
+                  "coords": [
+                        114.284818,
+                        22.276754
+                  ]
+            },
+            {
+                  "name": "Lighthouse 200",
+                  "text": "Ein funktionaler maritimer Leuchtturm, der über die Landzunge der Küste wacht, um eine sichere Schiffsnavigation zu gewährleisten.",
+                  "category": "landmark",
+                  "coords": [
+                        114.35,
+                        22.270533
+                  ]
+            },
+            {
+                  "name": "Rock Inscription at Joss House Bay",
+                  "text": "Ein geschütztes Kulturerbe der Kategorie 2 mit einer historischen chinesischen Inschrift, die tief in den Stein nahe der Bucht gemeißelt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        114.290167,
+                        22.270832
+                  ]
+            },
+            {
+                  "name": "Po Toi O",
+                  "text": "Eine tief geschützte Küstenbucht, die für ihre rustikale Fischerdorf-Atmosphäre und ihre beliebten schwimmenden Fischrestaurants bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        114.294865,
+                        22.275778
+                  ]
+            },
+            {
+                  "name": "Clear Water Bay Second Beach",
+                  "text": "Ein breiter, beliebter öffentlicher Badestrand, der feinen Sand, klares Wasser und wichtige Einrichtungen wie Hai-Netze für Schwimmer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        114.288011,
+                        22.287623
+                  ]
+            },
+            {
+                  "name": "Clear Water Bay First Beach",
+                  "text": "Ein kleinerer, ruhiger Sandstrand, der weithin für sein sehr klares Wasser und seine entspannte, unberührte Küstenatmosphäre bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        114.291164,
+                        22.291084
+                  ]
+            },
+            {
+                  "name": "Hung Shing Temple",
+                  "text": "Ein traditioneller Tempel am Meer, der der Verehrung von Hung Shing gewidmet ist und von örtlichen Fischern erbaut wurde, um für sichere Seereisen zu beten.",
+                  "category": "religious",
+                  "coords": [
+                        114.295902,
+                        22.275691
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tin Ha Shan",
+                  "text": "Egy zord, sziklás hegycsúcs a népszerű és kihívást jelentő High Junk Peak túraútvonal hálózata mentén.",
+                  "category": "natural",
+                  "coords": [
+                        114.284818,
+                        22.276754
+                  ]
+            },
+            {
+                  "name": "Lighthouse 200",
+                  "text": "A part menti fok felett őrködő funkcionális tengeri világítótorony, amely a biztonságos hajózást szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        114.35,
+                        22.270533
+                  ]
+            },
+            {
+                  "name": "Rock Inscription at Joss House Bay",
+                  "text": "Másodfokú védelem alatt álló örökségi helyszín, ahol az öböl közelében lévő kőbe mélyen belevésték ezt a történelmi kínai feliratot.",
+                  "category": "landmark",
+                  "coords": [
+                        114.290167,
+                        22.270832
+                  ]
+            },
+            {
+                  "name": "Po Toi O",
+                  "text": "Mélyen védett tengerparti öböl, amely híres rusztikus halászfalu hangulatáról és népszerű úszó tengeri herkentyűs éttermeiről.",
+                  "category": "landmark",
+                  "coords": [
+                        114.294865,
+                        22.275778
+                  ]
+            },
+            {
+                  "name": "Clear Water Bay Second Beach",
+                  "text": "Széles, népszerű nyilvános fürdőstrand, amely finom homokkal, tiszta vízzel és az úszók számára olyan alapvető felszerelésekkel várja a látogatókat, mint a cápaháló.",
+                  "category": "recreational",
+                  "coords": [
+                        114.288011,
+                        22.287623
+                  ]
+            },
+            {
+                  "name": "Clear Water Bay First Beach",
+                  "text": "Kisebb, nyugodt homokos tengerpart, amely rendkívül tiszta vizéről és pihentető, kevésbé zsúfolt tengerparti hangulatáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        114.291164,
+                        22.291084
+                  ]
+            },
+            {
+                  "name": "Hung Shing Temple",
+                  "text": "Egy hagyományos tengerparti templom, amelyet Hung Shing tiszteletére építettek a helyi halászok, hogy biztonságos tengeri utazásokért imádkozzanak.",
+                  "category": "religious",
+                  "coords": [
+                        114.295902,
+                        22.275691
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tin Ha Shan",
+                  "text": "Un vârf de munte stâncos și accidentat situat de-a lungul sistemului popular și provocator de trasee de drumeții High Junk Peak.",
+                  "category": "natural",
+                  "coords": [
+                        114.284818,
+                        22.276754
+                  ]
+            },
+            {
+                  "name": "Lighthouse 200",
+                  "text": "Un turn de far maritim funcțional care veghează asupra promontoriului de coastă pentru a asigura o navigație sigură a navelor.",
+                  "category": "landmark",
+                  "coords": [
+                        114.35,
+                        22.270533
+                  ]
+            },
+            {
+                  "name": "Rock Inscription at Joss House Bay",
+                  "text": "Un sit de patrimoniu protejat de gradul 2, care prezintă o inscripție istorică chineză sculptată adânc în piatră lângă golf.",
+                  "category": "landmark",
+                  "coords": [
+                        114.290167,
+                        22.270832
+                  ]
+            },
+            {
+                  "name": "Po Toi O",
+                  "text": "Un golf de coastă adânc adăpostit, renumit pentru atmosfera sa rustică de sat de pescari și restaurantele plutitoare cu fructe de mare populare.",
+                  "category": "landmark",
+                  "coords": [
+                        114.294865,
+                        22.275778
+                  ]
+            },
+            {
+                  "name": "Clear Water Bay Second Beach",
+                  "text": "O plajă publică largă și populară pentru înot, oferind nisip fin, ape limpezi și facilități esențiale, precum plase de rechini pentru înotători.",
+                  "category": "recreational",
+                  "coords": [
+                        114.288011,
+                        22.287623
+                  ]
+            },
+            {
+                  "name": "Clear Water Bay First Beach",
+                  "text": "O plajă cu nisip mai mică și senină, recunoscută pe scară largă pentru apele sale foarte transparente și atmosfera de coastă relaxată și neaglomerată.",
+                  "category": "recreational",
+                  "coords": [
+                        114.291164,
+                        22.291084
+                  ]
+            },
+            {
+                  "name": "Hung Shing Temple",
+                  "text": "Un templu tradițional la malul mării dedicat venerării lui Hung Shing, construit de pescarii locali pentru a se ruga pentru călătorii sigure pe mare.",
+                  "category": "religious",
+                  "coords": [
+                        114.295902,
+                        22.275691
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tin Ha Shan",
+                  "text": "A rugged, rocky mountain peak situated along the popular and challenging High Junk Peak hiking trail system.",
+                  "category": "natural",
+                  "coords": [
+                        114.284818,
+                        22.276754
+                  ]
+            },
+            {
+                  "name": "Lighthouse 200",
+                  "text": "A functional maritime lighthouse tower standing watch over the coastal headland to ensure safe vessel navigation.",
+                  "category": "landmark",
+                  "coords": [
+                        114.35,
+                        22.270533
+                  ]
+            },
+            {
+                  "name": "Rock Inscription at Joss House Bay",
+                  "text": "A protected Grade 2 heritage site featuring a historical Chinese inscription carved deeply into the stone near the bay.",
+                  "category": "landmark",
+                  "coords": [
+                        114.290167,
+                        22.270832
+                  ]
+            },
+            {
+                  "name": "Po Toi O",
+                  "text": "A deeply sheltered coastal bay famous for its rustic fishing village atmosphere and popular floating seafood restaurants.",
+                  "category": "landmark",
+                  "coords": [
+                        114.294865,
+                        22.275778
+                  ]
+            },
+            {
+                  "name": "Clear Water Bay Second Beach",
+                  "text": "A wide, popular public swimming beach offering fine sand, clear waters, and essential amenities like shark nets for swimmers.",
+                  "category": "recreational",
+                  "coords": [
+                        114.288011,
+                        22.287623
+                  ]
+            },
+            {
+                  "name": "Clear Water Bay First Beach",
+                  "text": "A smaller, serene sandy beach widely known for its highly transparent waters and relaxed, uncrowded coastal atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        114.291164,
+                        22.291084
+                  ]
+            },
+            {
+                  "name": "Hung Shing Temple",
+                  "text": "A traditional seaside temple devoted to the worship of Hung Shing, built by local fishermen to pray for safe sea voyages.",
+                  "category": "religious",
+                  "coords": [
+                        114.295902,
+                        22.275691
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "peak",
     name: { de: "High Junk Peak", hu: "High Junk-csúcs", ro: "High Junk Peak", en: "High Junk Peak" },
@@ -993,7 +5718,52 @@ export const hongkongReliefV2: POI[] = [
     image: "/poi-images/hongkong-high-junk-peak-relief-v2.webp",
   },
   {
-    id: "hongkong-mount-cameron-relief-v2",
+    id: "hongkong-mount-cameron-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wan Chai Gap Park",
+                  "text": "Der Wan Chai Gap Park ist ein Erholungsgebiet an einer hügeligen Straßenkreuzung und bietet bewaldete Wanderwege und Picknickplätze.",
+                  "category": "park",
+                  "coords": [
+                        114.169342,
+                        22.267038
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wan Chai Gap Park",
+                  "text": "A Wan Chai Gap Park egy dombos útkereszteződésnél fekvő rekreációs terület, amely erdős túraútvonalakat és piknikezőhelyeket kínál.",
+                  "category": "park",
+                  "coords": [
+                        114.169342,
+                        22.267038
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wan Chai Gap Park",
+                  "text": "Parcul Wan Chai Gap este o zonă de recreere situată la o intersecție de drumuri de deal, oferind trasee de plimbare împădurite și locuri de picnic.",
+                  "category": "park",
+                  "coords": [
+                        114.169342,
+                        22.267038
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wan Chai Gap Park",
+                  "text": "Wan Chai Gap Park is a recreational area situated at a hilly road junction, offering forested walking trails and picnic spots.",
+                  "category": "park",
+                  "coords": [
+                        114.169342,
+                        22.267038
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "peak",
     name: { de: "Mount Cameron", hu: "Mount Cameron", ro: "Mount Cameron", en: "Mount Cameron" },
@@ -1038,7 +5808,304 @@ export const hongkongReliefV2: POI[] = [
     image: "/poi-images/hongkong-mount-cameron-relief-v2.webp",
   },
   {
-    id: "hongkong-wa-shan-relief-v2",
+    id: "hongkong-wa-shan-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wa Shan",
+                  "text": "Wa Shan ist ein markanter Gipfel in Hongkong, der erhöhte Aussichtspunkte über die umliegende Landschaft der New Territories bietet.",
+                  "category": "natural",
+                  "coords": [
+                        114.138336,
+                        22.516081
+                  ]
+            },
+            {
+                  "name": "High Hill",
+                  "text": "High Hill ist ein markanter natürlicher Gipfel in Hongkong, der einheimische Wanderer anzieht, die die Wa Shan-Region erkunden.",
+                  "category": "natural",
+                  "coords": [
+                        114.14619,
+                        22.514778
+                  ]
+            },
+            {
+                  "name": "Cham Shan",
+                  "text": "Cham Shan ist ein natürlicher Gipfel in den New Territories von Hongkong, der sich durch seine grünen Hänge und Wanderwege auszeichnet.",
+                  "category": "natural",
+                  "coords": [
+                        114.134413,
+                        22.519653
+                  ]
+            },
+            {
+                  "name": "Cheung Po Tau",
+                  "text": "Cheung Po Tau ist ein zerklüfteter Hügel im Wa Shan-Gebiet, bekannt für seine malerischen Wanderwege und den weiten Blick auf den Norden Hongkongs.",
+                  "category": "natural",
+                  "coords": [
+                        114.129843,
+                        22.521901
+                  ]
+            },
+            {
+                  "name": "Orb Hill",
+                  "text": "Orb Hill ist eine markante natürliche Erhebung in Hongkong, die Wanderfreunden einen ruhigen Zufluchtsort in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        114.122006,
+                        22.519822
+                  ]
+            },
+            {
+                  "name": "Sandy Ridge",
+                  "text": "Sandy Ridge ist ein bekannter Gipfel und ein Gebiet nahe der Grenze von Hongkong, weithin bekannt für seinen großen öffentlichen Friedhof.",
+                  "category": "natural",
+                  "coords": [
+                        114.117549,
+                        22.52764
+                  ]
+            },
+            {
+                  "name": "Luohu Art Museum",
+                  "text": "Das Luohu Art Museum ist ein moderner Kulturort in der Grenzregion, der zeitgenössische chinesische Kunstwerke und temporäre Ausstellungen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        114.122663,
+                        22.546226
+                  ]
+            },
+            {
+                  "name": "The Compensation Natural Reserve of Shamchun River Modification works(stage 3)",
+                  "text": "Dieses Naturschutzgebiet wurde als ökologische Ausgleichsfläche nach der dritten Phase der Umbaumaßnahmen am Shamchun-Fluss eingerichtet.",
+                  "category": "natural",
+                  "coords": [
+                        114.117669,
+                        22.532131
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wa Shan",
+                  "text": "A Wa Shan egy figyelemre méltó hegycsúcs Hongkongban, ahonnan kiváló kilátás nyílik a környező Új Terek vidékére.",
+                  "category": "natural",
+                  "coords": [
+                        114.138336,
+                        22.516081
+                  ]
+            },
+            {
+                  "name": "High Hill",
+                  "text": "A High Hill egy kiemelkedő természeti csúcs Hongkongban, amely vonzza a Wa Shan régiót felfedező helyi túrázókat.",
+                  "category": "natural",
+                  "coords": [
+                        114.14619,
+                        22.514778
+                  ]
+            },
+            {
+                  "name": "Cham Shan",
+                  "text": "A Cham Shan egy természetes hegycsúcs Hongkong Új Területein, amelyet zöldellő lejtői és túraútvonalai jellemeznek.",
+                  "category": "natural",
+                  "coords": [
+                        114.134413,
+                        22.519653
+                  ]
+            },
+            {
+                  "name": "Cheung Po Tau",
+                  "text": "A Cheung Po Tau egy egyenetlen domb a Wa Shan területen, amely festői ösvényeiről és Észak-Hongkongra nyíló pazar kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        114.129843,
+                        22.521901
+                  ]
+            },
+            {
+                  "name": "Orb Hill",
+                  "text": "Az Orb Hill egy kiemelkedő természetes magaslat Hongkongban, amely csendes menedéket kínál a természetben a túrázás szerelmeseinek.",
+                  "category": "natural",
+                  "coords": [
+                        114.122006,
+                        22.519822
+                  ]
+            },
+            {
+                  "name": "Sandy Ridge",
+                  "text": "A Sandy Ridge egy figyelemre méltó csúcs és terület a hongkongi határ közelében, amely leginkább nagy köztemetőjéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        114.117549,
+                        22.52764
+                  ]
+            },
+            {
+                  "name": "Luohu Art Museum",
+                  "text": "A Luohu Művészeti Múzeum egy modern kulturális helyszín a határvidéken, amely kortárs kínai műalkotásokat és időszaki kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        114.122663,
+                        22.546226
+                  ]
+            },
+            {
+                  "name": "The Compensation Natural Reserve of Shamchun River Modification works(stage 3)",
+                  "text": "Ezt a természetvédelmi területet ökológiai kompenzációs zónaként hozták létre a Shamchun folyó szabályozási munkálatainak harmadik szakasza után.",
+                  "category": "natural",
+                  "coords": [
+                        114.117669,
+                        22.532131
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wa Shan",
+                  "text": "Wa Shan este un vârf notabil din Hong Kong, oferind puncte de belvedere înalte asupra peisajului înconjurător din Noile Teritorii.",
+                  "category": "natural",
+                  "coords": [
+                        114.138336,
+                        22.516081
+                  ]
+            },
+            {
+                  "name": "High Hill",
+                  "text": "High Hill este un vârf natural proeminent din Hong Kong care atrage excursioniștii locali ce explorează regiunea Wa Shan.",
+                  "category": "natural",
+                  "coords": [
+                        114.14619,
+                        22.514778
+                  ]
+            },
+            {
+                  "name": "Cham Shan",
+                  "text": "Cham Shan este un vârf natural din Noile Teritorii ale Hong Kong-ului, caracterizat prin pantele sale verzi și traseele de drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        114.134413,
+                        22.519653
+                  ]
+            },
+            {
+                  "name": "Cheung Po Tau",
+                  "text": "Cheung Po Tau este un deal accidentat în zona Wa Shan, cunoscut pentru traseele sale pitorești și vederile panoramice asupra nordului Hong Kong-ului.",
+                  "category": "natural",
+                  "coords": [
+                        114.129843,
+                        22.521901
+                  ]
+            },
+            {
+                  "name": "Orb Hill",
+                  "text": "Orb Hill este o elevație naturală proeminentă în Hong Kong, oferind o evadare liniștită în natură pentru pasionații de drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        114.122006,
+                        22.519822
+                  ]
+            },
+            {
+                  "name": "Sandy Ridge",
+                  "text": "Sandy Ridge este un vârf și o zonă notabilă lângă granița cu Hong Kong, recunoscută pe scară largă pentru cimitirul său public mare.",
+                  "category": "natural",
+                  "coords": [
+                        114.117549,
+                        22.52764
+                  ]
+            },
+            {
+                  "name": "Luohu Art Museum",
+                  "text": "Muzeul de Artă Luohu este o locație culturală modernă din regiunea de graniță, care prezintă lucrări de artă contemporană chineză și expoziții temporare.",
+                  "category": "museum",
+                  "coords": [
+                        114.122663,
+                        22.546226
+                  ]
+            },
+            {
+                  "name": "The Compensation Natural Reserve of Shamchun River Modification works(stage 3)",
+                  "text": "Această rezervație naturală a fost înființată ca o zonă de compensare ecologică în urma celei de-a treia etape a lucrărilor de modificare a râului Shamchun.",
+                  "category": "natural",
+                  "coords": [
+                        114.117669,
+                        22.532131
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wa Shan",
+                  "text": "Wa Shan is a notable peak in Hong Kong, offering elevated viewpoints over the surrounding New Territories landscape.",
+                  "category": "natural",
+                  "coords": [
+                        114.138336,
+                        22.516081
+                  ]
+            },
+            {
+                  "name": "High Hill",
+                  "text": "High Hill is a prominent natural peak in Hong Kong that attracts local hikers exploring the Wa Shan region.",
+                  "category": "natural",
+                  "coords": [
+                        114.14619,
+                        22.514778
+                  ]
+            },
+            {
+                  "name": "Cham Shan",
+                  "text": "Cham Shan is a natural summit in Hong Kong's New Territories, characterized by its green slopes and hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        114.134413,
+                        22.519653
+                  ]
+            },
+            {
+                  "name": "Cheung Po Tau",
+                  "text": "Cheung Po Tau is a rugged hill in the Wa Shan area, known for its scenic trails and sweeping views of northern Hong Kong.",
+                  "category": "natural",
+                  "coords": [
+                        114.129843,
+                        22.521901
+                  ]
+            },
+            {
+                  "name": "Orb Hill",
+                  "text": "Orb Hill is a prominent natural elevation in Hong Kong, offering a quiet escape into nature for hiking enthusiasts.",
+                  "category": "natural",
+                  "coords": [
+                        114.122006,
+                        22.519822
+                  ]
+            },
+            {
+                  "name": "Sandy Ridge",
+                  "text": "Sandy Ridge is a notable peak and area near the Hong Kong border, widely recognized for its large public cemetery.",
+                  "category": "natural",
+                  "coords": [
+                        114.117549,
+                        22.52764
+                  ]
+            },
+            {
+                  "name": "Luohu Art Museum",
+                  "text": "Luohu Art Museum is a modern cultural venue in the border region showcasing contemporary Chinese artworks and temporary exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        114.122663,
+                        22.546226
+                  ]
+            },
+            {
+                  "name": "The Compensation Natural Reserve of Shamchun River Modification works(stage 3)",
+                  "text": "This nature reserve was established as an ecological compensation area following the third stage of the Shamchun River modification works.",
+                  "category": "natural",
+                  "coords": [
+                        114.117669,
+                        22.532131
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "peak",
     name: { de: "Wa Shan", hu: "Wa Shan", ro: "Wa Shan", en: "Wa Shan" },
@@ -1083,7 +6150,448 @@ export const hongkongReliefV2: POI[] = [
     image: "/poi-images/hongkong-wa-shan-relief-v2.webp",
   },
   {
-    id: "hongkong-buffalo-hill-west-relief-v2",
+    id: "hongkong-buffalo-hill-west-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shatin Anglican Church",
+                  "text": "Diese 1991 gegründete englischsprachige anglikanische Kirche dient der internationalen und lokalen christlichen Gemeinschaft der Region.",
+                  "category": "religious",
+                  "coords": [
+                        114.204397,
+                        22.384358
+                  ]
+            },
+            {
+                  "name": "Ngau Au Shan",
+                  "text": "Ngau Au Shan ist ein schroffer Berggipfel, der anspruchsvolle Wanderwege durch die dichte subtropische Vegetation bietet.",
+                  "category": "natural",
+                  "coords": [
+                        114.219387,
+                        22.370855
+                  ]
+            },
+            {
+                  "name": "Penfold Park",
+                  "text": "Dieser große öffentliche Park liegt einzigartig im Innenfeld der Sha Tin-Rennbahn und bietet wunderschöne künstliche Seen.",
+                  "category": "park",
+                  "coords": [
+                        114.206799,
+                        22.399559
+                  ]
+            },
+            {
+                  "name": "Siu Lek Yuen Road Playground",
+                  "text": "Dieser aktive Freizeitpark verfügt über umfangreiche Sportanlagen, darunter gepflasterte Radwege und mehrere Basketballplätze.",
+                  "category": "park",
+                  "coords": [
+                        114.20626,
+                        22.386731
+                  ]
+            },
+            {
+                  "name": "The Church in Hong Kong (Sha Tin Assembly Hall)",
+                  "text": "Dieses christliche Versammlungshaus bietet einen modernen, speziellen Raum für den Gottesdienst und die Gemeinschaft im Bezirk.",
+                  "category": "landmark",
+                  "coords": [
+                        114.206955,
+                        22.381565
+                  ]
+            },
+            {
+                  "name": "Christian and Missionary Alliance Abundant Grace Church",
+                  "text": "Diese evangelikale Kirche der Christian and Missionary Alliance bietet regelmäßige Gottesdienste für die umliegende Nachbarschaft an.",
+                  "category": "landmark",
+                  "coords": [
+                        114.21328,
+                        22.382935
+                  ]
+            },
+            {
+                  "name": "Ng's Ancestral Hall",
+                  "text": "Diese traditionelle chinesische Ahnenhalle ist der Ehrung der Abstammung und der historischen Wurzeln des lokalen Ng-Clans gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        114.212468,
+                        22.381088
+                  ]
+            },
+            {
+                  "name": "Li's Ancestral Hall",
+                  "text": "Diese Halle wurde mit klassischen südchinesischen Architekturelementen erbaut und dient der Familie Li als zentraler Ort der Ahnenverehrung.",
+                  "category": "religious",
+                  "coords": [
+                        114.20896,
+                        22.380217
+                  ]
+            },
+            {
+                  "name": "Tsim's Ancestral Hall",
+                  "text": "Die lokalen Nachkommen des Tsim-Clans versammeln sich an diesem traditionellen Schrein, um Rituale durchzuführen und ihre Vorfahren zu ehren.",
+                  "category": "religious",
+                  "coords": [
+                        114.206076,
+                        22.378482
+                  ]
+            },
+            {
+                  "name": "Lau's Ancestral Hall",
+                  "text": "Dieses historische Bauwerk fungiert als gemeinschaftlicher Kultort, der der Erhaltung der Genealogie und Geschichte der Familie Lau gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        114.217597,
+                        22.383239
+                  ]
+            },
+            {
+                  "name": "Cheng's Ancestral Hall",
+                  "text": "Traditioneller chinesischer Ahnenschrein, der der Verehrung der Cheng-Clan-Linie gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        114.216584,
+                        22.382013
+                  ]
+            },
+            {
+                  "name": "Fortune City One Market",
+                  "text": "Belebte Markthalle, die den täglichen Lebensmittelbedarf der lokalen Wohnanlage deckt.",
+                  "category": "cultural",
+                  "coords": [
+                        114.204639,
+                        22.385411
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shatin Anglican Church",
+                  "text": "Az 1991-ben alapított angol nyelvű anglikán templom a régió nemzetközi és helyi keresztény közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        114.204397,
+                        22.384358
+                  ]
+            },
+            {
+                  "name": "Ngau Au Shan",
+                  "text": "A Ngau Au Shan egy zord hegycsúcs, amely kihívást jelentő túraútvonalakat kínál a sűrű szubtrópusi növényzeten keresztül.",
+                  "category": "natural",
+                  "coords": [
+                        114.219387,
+                        22.370855
+                  ]
+            },
+            {
+                  "name": "Penfold Park",
+                  "text": "Ez a nagy közpark egyedülálló módon a Sha Tin lóversenypálya belsejében található, és gyönyörű mesterséges tavakkal büszkélkedhet.",
+                  "category": "park",
+                  "coords": [
+                        114.206799,
+                        22.399559
+                  ]
+            },
+            {
+                  "name": "Siu Lek Yuen Road Playground",
+                  "text": "Ez az aktív rekreációs park kiterjedt sportlétesítményekkel rendelkezik, köztük aszfaltozott kerékpárutakkal és kosárlabdapályákkal.",
+                  "category": "park",
+                  "coords": [
+                        114.20626,
+                        22.386731
+                  ]
+            },
+            {
+                  "name": "The Church in Hong Kong (Sha Tin Assembly Hall)",
+                  "text": "Ez a keresztény gyülekezeti terem egy modern, dedikált teret biztosít az istentisztelet és a közösségi élet számára a kerületben.",
+                  "category": "landmark",
+                  "coords": [
+                        114.206955,
+                        22.381565
+                  ]
+            },
+            {
+                  "name": "Christian and Missionary Alliance Abundant Grace Church",
+                  "text": "A Keresztény és Misszionárius Szövetséghez tartozó evangéliumi templom rendszeres istentiszteleteket kínál a környező negyed számára.",
+                  "category": "landmark",
+                  "coords": [
+                        114.21328,
+                        22.382935
+                  ]
+            },
+            {
+                  "name": "Ng's Ancestral Hall",
+                  "text": "Ez a hagyományos kínai ősi csarnok a helyi Ng klán származásának és történelmi gyökereinek tiszteletére épült.",
+                  "category": "religious",
+                  "coords": [
+                        114.212468,
+                        22.381088
+                  ]
+            },
+            {
+                  "name": "Li's Ancestral Hall",
+                  "text": "A klasszikus dél-kínai építészeti elemekkel épült csarnok a Li család ősimádatának központi helyszíneként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        114.20896,
+                        22.380217
+                  ]
+            },
+            {
+                  "name": "Tsim's Ancestral Hall",
+                  "text": "A Tsim klán helyi leszármazottai ezen a hagyományos szentélyen gyűlnek össze, hogy rituálékat mutassanak be és tisztelegjenek őseik előtt.",
+                  "category": "religious",
+                  "coords": [
+                        114.206076,
+                        22.378482
+                  ]
+            },
+            {
+                  "name": "Lau's Ancestral Hall",
+                  "text": "Ez a műemlék épület közösségi imahelyként működik, amely a Lau család genealógiájának és történelmének megőrzésére szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        114.217597,
+                        22.383239
+                  ]
+            },
+            {
+                  "name": "Cheng's Ancestral Hall",
+                  "text": "A Cheng klán leszármazottai által őseik tiszteletére fenntartott hagyományos kínai szentély.",
+                  "category": "religious",
+                  "coords": [
+                        114.216584,
+                        22.382013
+                  ]
+            },
+            {
+                  "name": "Fortune City One Market",
+                  "text": "Nyüzsgő fedett piac, amely a helyi lakópark napi élelmiszerigényeit elégíti ki.",
+                  "category": "cultural",
+                  "coords": [
+                        114.204639,
+                        22.385411
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shatin Anglican Church",
+                  "text": "Înființată în 1991, această biserică anglicană vorbitoare de limba engleză deservește comunitatea creștină internațională și locală din zonă.",
+                  "category": "religious",
+                  "coords": [
+                        114.204397,
+                        22.384358
+                  ]
+            },
+            {
+                  "name": "Ngau Au Shan",
+                  "text": "Ngau Au Shan este un vârf muntos accidentat, oferind trasee de drumeții provocatoare prin vegetația subtropicală densă.",
+                  "category": "natural",
+                  "coords": [
+                        114.219387,
+                        22.370855
+                  ]
+            },
+            {
+                  "name": "Penfold Park",
+                  "text": "Situat în mod unic în interiorul hipodromului Sha Tin, acest mare parc public dispune de lacuri artificiale frumoase.",
+                  "category": "park",
+                  "coords": [
+                        114.206799,
+                        22.399559
+                  ]
+            },
+            {
+                  "name": "Siu Lek Yuen Road Playground",
+                  "text": "Acest parc recreativ activ dispune de facilități sportive extinse, inclusiv piste de biciclete pavate și terenuri de baschet.",
+                  "category": "park",
+                  "coords": [
+                        114.20626,
+                        22.386731
+                  ]
+            },
+            {
+                  "name": "The Church in Hong Kong (Sha Tin Assembly Hall)",
+                  "text": "Această sală de adunări creștină oferă un spațiu modern, dedicat pentru închinare și părtășie în cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        114.206955,
+                        22.381565
+                  ]
+            },
+            {
+                  "name": "Christian and Missionary Alliance Abundant Grace Church",
+                  "text": "Făcând parte din Alianța Creștină și Misionară, această biserică evanghelică oferă slujbe regulate pentru cartierul înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        114.21328,
+                        22.382935
+                  ]
+            },
+            {
+                  "name": "Ng's Ancestral Hall",
+                  "text": "Acest sanctuar ancestral tradițional chinezesc este dedicat onorării descendenței și rădăcinilor istorice ale clanului local Ng.",
+                  "category": "religious",
+                  "coords": [
+                        114.212468,
+                        22.381088
+                  ]
+            },
+            {
+                  "name": "Li's Ancestral Hall",
+                  "text": "Construită cu elemente arhitecturale clasice din sudul Chinei, această sală servește drept loc central pentru cultul ancestral al familiei Li.",
+                  "category": "religious",
+                  "coords": [
+                        114.20896,
+                        22.380217
+                  ]
+            },
+            {
+                  "name": "Tsim's Ancestral Hall",
+                  "text": "Descendenții locali ai clanului Tsim se adună la acest altar tradițional pentru a săvârși ritualuri și a-și onora strămoșii.",
+                  "category": "religious",
+                  "coords": [
+                        114.206076,
+                        22.378482
+                  ]
+            },
+            {
+                  "name": "Lau's Ancestral Hall",
+                  "text": "Această structură de patrimoniu funcționează ca un loc de cult comunal dedicat păstrării genealogiei și istoriei familiei Lau.",
+                  "category": "religious",
+                  "coords": [
+                        114.217597,
+                        22.383239
+                  ]
+            },
+            {
+                  "name": "Cheng's Ancestral Hall",
+                  "text": "Altar ancestral chinezesc tradițional dedicat venerării strămoșilor din clanul Cheng.",
+                  "category": "religious",
+                  "coords": [
+                        114.216584,
+                        22.382013
+                  ]
+            },
+            {
+                  "name": "Fortune City One Market",
+                  "text": "Piață acoperită plină de viață care satisface nevoile zilnice de cumpărături ale complexului rezidențial local.",
+                  "category": "cultural",
+                  "coords": [
+                        114.204639,
+                        22.385411
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shatin Anglican Church",
+                  "text": "Established in 1991, this English-speaking Anglican church serves the international and local Christian community in the area.",
+                  "category": "religious",
+                  "coords": [
+                        114.204397,
+                        22.384358
+                  ]
+            },
+            {
+                  "name": "Ngau Au Shan",
+                  "text": "Ngau Au Shan is a rugged mountain peak offering challenging hiking trails through dense subtropical vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        114.219387,
+                        22.370855
+                  ]
+            },
+            {
+                  "name": "Penfold Park",
+                  "text": "Uniquely situated in the infield of the Sha Tin Racecourse, this large public park features beautiful artificial lakes and grassy lawns.",
+                  "category": "park",
+                  "coords": [
+                        114.206799,
+                        22.399559
+                  ]
+            },
+            {
+                  "name": "Siu Lek Yuen Road Playground",
+                  "text": "This active recreational park features extensive sports facilities, including paved cycling tracks and multiple basketball courts.",
+                  "category": "park",
+                  "coords": [
+                        114.20626,
+                        22.386731
+                  ]
+            },
+            {
+                  "name": "The Church in Hong Kong (Sha Tin Assembly Hall)",
+                  "text": "This Christian assembly hall provides a modern, dedicated gathering space for worship and fellowship in the district.",
+                  "category": "landmark",
+                  "coords": [
+                        114.206955,
+                        22.381565
+                  ]
+            },
+            {
+                  "name": "Christian and Missionary Alliance Abundant Grace Church",
+                  "text": "Part of the Christian and Missionary Alliance, this evangelical church offers regular worship services for the surrounding neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        114.21328,
+                        22.382935
+                  ]
+            },
+            {
+                  "name": "Ng's Ancestral Hall",
+                  "text": "This traditional Chinese ancestral hall is dedicated to honoring the lineage and historical roots of the local Ng clan.",
+                  "category": "religious",
+                  "coords": [
+                        114.212468,
+                        22.381088
+                  ]
+            },
+            {
+                  "name": "Li's Ancestral Hall",
+                  "text": "Built with classic southern Chinese architectural elements, this hall serves as a central site for the Li family's ancestral worship.",
+                  "category": "religious",
+                  "coords": [
+                        114.20896,
+                        22.380217
+                  ]
+            },
+            {
+                  "name": "Tsim's Ancestral Hall",
+                  "text": "Local descendants of the Tsim clan gather at this traditional shrine to perform rituals and honor their ancestors.",
+                  "category": "religious",
+                  "coords": [
+                        114.206076,
+                        22.378482
+                  ]
+            },
+            {
+                  "name": "Lau's Ancestral Hall",
+                  "text": "This heritage structure functions as a communal place of worship dedicated to preserving the genealogy and history of the Lau family.",
+                  "category": "religious",
+                  "coords": [
+                        114.217597,
+                        22.383239
+                  ]
+            },
+            {
+                  "name": "Cheng's Ancestral Hall",
+                  "text": "Traditional Chinese ancestral shrine dedicated to venerating the Cheng clan lineage.",
+                  "category": "religious",
+                  "coords": [
+                        114.216584,
+                        22.382013
+                  ]
+            },
+            {
+                  "name": "Fortune City One Market",
+                  "text": "Bustling indoor marketplace catering to the daily grocery needs of the local residential complex.",
+                  "category": "cultural",
+                  "coords": [
+                        114.204639,
+                        22.385411
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "peak",
     name: { de: "West Buffalo Hill", hu: "Nyugati Buffalo-hegy", ro: "West Buffalo Hill", en: "West Buffalo Hill" },
@@ -1128,7 +6636,52 @@ export const hongkongReliefV2: POI[] = [
     image: "/poi-images/hongkong-buffalo-hill-west-relief-v2.webp",
   },
   {
-    id: "hongkong-mount-gough-relief-v2",
+    id: "hongkong-mount-gough-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Gough",
+                  "text": "Dieser anerkannte Berggipfel erhebt sich markant über die Landschaft von Hongkong.",
+                  "category": "natural",
+                  "coords": [
+                        114.159655,
+                        22.268636
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Gough",
+                  "text": "Ez az elismert hegycsúcs kiemelkedően magasodik Hongkong tája fölé.",
+                  "category": "natural",
+                  "coords": [
+                        114.159655,
+                        22.268636
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Gough",
+                  "text": "Acest vârf de munte recunoscut se înalță proeminent deasupra peisajului din Hong Kong.",
+                  "category": "natural",
+                  "coords": [
+                        114.159655,
+                        22.268636
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Gough",
+                  "text": "This recognized mountain peak rises prominently over the landscape of Hong Kong.",
+                  "category": "natural",
+                  "coords": [
+                        114.159655,
+                        22.268636
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "peak",
     name: { de: "Mount Gough", hu: "Mount Gough", ro: "Mount Gough", en: "Mount Gough" },
@@ -1173,7 +6726,124 @@ export const hongkongReliefV2: POI[] = [
     image: "/poi-images/hongkong-mount-gough-relief-v2.webp",
   },
   {
-    id: "hongkong-mount-austin-relief-v2",
+    id: "hongkong-mount-austin-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lugard Road Lookout",
+                  "text": "Der Lugard Road Lookout bietet einen beeindruckenden Panoramablick auf den Victoria Harbour.",
+                  "category": "natural",
+                  "coords": [
+                        114.14681,
+                        22.278168
+                  ]
+            },
+            {
+                  "name": "Victoria Peak",
+                  "text": "Der Victoria Peak ist der höchste Berg auf Hong Kong Island und ein sehr beliebtes Ausflugsziel.",
+                  "category": "natural",
+                  "coords": [
+                        114.145457,
+                        22.276039
+                  ]
+            },
+            {
+                  "name": "Victoria Peak Garden",
+                  "text": "Der Victoria Peak Garden ist ein chinesischer Park auf dem Gelände der ehemaligen Sommerresidenz des Gouverneurs.",
+                  "category": "park",
+                  "coords": [
+                        114.144447,
+                        22.273882
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lugard Road Lookout",
+                  "text": "A Lugard Road Lookout lenyűgöző panorámát nyújt a Viktória-kikötőre.",
+                  "category": "natural",
+                  "coords": [
+                        114.14681,
+                        22.278168
+                  ]
+            },
+            {
+                  "name": "Victoria Peak",
+                  "text": "A Victoria Peak a Hongkong-sziget legmagasabb hegycsúcsa és népszerű turisztikai célpont.",
+                  "category": "natural",
+                  "coords": [
+                        114.145457,
+                        22.276039
+                  ]
+            },
+            {
+                  "name": "Victoria Peak Garden",
+                  "text": "A Victoria Peak Garden egy kínai stílusú park a volt kormányzói nyári rezidencia területén.",
+                  "category": "park",
+                  "coords": [
+                        114.144447,
+                        22.273882
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lugard Road Lookout",
+                  "text": "Lugard Road Lookout oferă o priveliște panoramică impresionantă asupra Portului Victoria.",
+                  "category": "natural",
+                  "coords": [
+                        114.14681,
+                        22.278168
+                  ]
+            },
+            {
+                  "name": "Victoria Peak",
+                  "text": "Victoria Peak este cel mai înalt munte de pe Insula Hong Kong și o atracție turistică principală.",
+                  "category": "natural",
+                  "coords": [
+                        114.145457,
+                        22.276039
+                  ]
+            },
+            {
+                  "name": "Victoria Peak Garden",
+                  "text": "Victoria Peak Garden este un parc amenajat în stil chinezesc pe locul fostei reședințe de vară a guvernatorului.",
+                  "category": "park",
+                  "coords": [
+                        114.144447,
+                        22.273882
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lugard Road Lookout",
+                  "text": "The Lugard Road Lookout provides a stunning panoramic view over Victoria Harbour.",
+                  "category": "natural",
+                  "coords": [
+                        114.14681,
+                        22.278168
+                  ]
+            },
+            {
+                  "name": "Victoria Peak",
+                  "text": "Victoria Peak is the highest mountain on Hong Kong Island and a major tourist destination.",
+                  "category": "natural",
+                  "coords": [
+                        114.145457,
+                        22.276039
+                  ]
+            },
+            {
+                  "name": "Victoria Peak Garden",
+                  "text": "Victoria Peak Garden is a Chinese-style park located on the site of the former Governor's Summer Residence.",
+                  "category": "park",
+                  "coords": [
+                        114.144447,
+                        22.273882
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "peak",
     name: { de: "Mount Austin", hu: "Mount Austin", ro: "Mount Austin", en: "Mount Austin" },
@@ -1218,7 +6888,340 @@ export const hongkongReliefV2: POI[] = [
     image: "/poi-images/hongkong-mount-austin-relief-v2.webp",
   },
   {
-    id: "hongkong-luk-keng-chan-uk-relief-v2",
+    id: "hongkong-luk-keng-chan-uk-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wu Kau Tang Country Trail Viewing Point",
+                  "text": "Dieser malerische Ort entlang des Wanderwegs bietet einen weiten Blick über die umliegenden bewaldeten Täler und Küstenzuflüsse.",
+                  "category": "natural",
+                  "coords": [
+                        114.240805,
+                        22.515262
+                  ]
+            },
+            {
+                  "name": "Edward Youde Memorial Pavilion Viewing Point",
+                  "text": "Inmitten üppiger Vegetation dient dieser Gedenkpavillon als erhöhter Aussichtspunkt für Wanderer, die die Gegend um Luk Keng erkunden.",
+                  "category": "natural",
+                  "coords": [
+                        114.213579,
+                        22.51177
+                  ]
+            },
+            {
+                  "name": "fort",
+                  "text": "Die bröckelnden Mauern dieser alten Festung überblicken die strategische Landschaft in der Nähe von Chan Uk.",
+                  "category": "historical",
+                  "coords": [
+                        114.217384,
+                        22.518754
+                  ]
+            },
+            {
+                  "name": "Fung Hang Family Walk Viewing Point",
+                  "text": "Diese Aussichtsplattform, ein beliebter Halt auf dem Familienwanderweg, bietet einen klaren Blick über die flachen Küstengewässer.",
+                  "category": "natural",
+                  "coords": [
+                        114.223549,
+                        22.524397
+                  ]
+            },
+            {
+                  "name": "A Chau SSSI",
+                  "text": "Dieses geschützte Inselgebiet, das als Ort von besonderem wissenschaftlichem Interesse ausgewiesen ist, bewahrt wichtige Lebensräume für lokale Reiherpopulationen.",
+                  "category": "natural",
+                  "coords": [
+                        114.21086,
+                        22.527707
+                  ]
+            },
+            {
+                  "name": "Tin Hau Temple",
+                  "text": "Dieser traditionelle taoistische Schrein ist der Göttin des Meeres gewidmet und spiegelt die tiefen maritimen Wurzeln der Küstendörfer wider.",
+                  "category": "landmark",
+                  "coords": [
+                        114.208738,
+                        22.524631
+                  ]
+            },
+            {
+                  "name": "Cheung's Ancestral Hall",
+                  "text": "Mit seinen klassischen Ziegeldächern dient diese Ahnenhalle als spirituelles und gemeinschaftliches Zentrum für den lokalen Cheung-Clan.",
+                  "category": "religious",
+                  "coords": [
+                        114.210577,
+                        22.522236
+                  ]
+            },
+            {
+                  "name": "Tsz Tong",
+                  "text": "Dieses Ahngebäude bewahrt die genealogischen Aufzeichnungen und traditionellen Verehrungspraktiken der historischen Dorfgemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        114.198885,
+                        22.527891
+                  ]
+            },
+            {
+                  "name": "Hip Tin Kung",
+                  "text": "Einheimische versammeln sich in diesem historischen taoistischen Tempel, um Kwan Tai inmitten von Weihrauchrauch und kunstvollen Holzschnitzereien zu ehren.",
+                  "category": "landmark",
+                  "coords": [
+                        114.206986,
+                        22.5207
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wu Kau Tang Country Trail Viewing Point",
+                  "text": "Ez a vidéki ösvény mentén található festői hely panorámás kilátást nyújt a környező erdős völgyekre és a tengerparti öblökre.",
+                  "category": "natural",
+                  "coords": [
+                        114.240805,
+                        22.515262
+                  ]
+            },
+            {
+                  "name": "Edward Youde Memorial Pavilion Viewing Point",
+                  "text": "A buja növényzet között fekvő emlékpavilon magaslati kilátópontként szolgál a Luk Keng környékét felfedező túrázók számára.",
+                  "category": "natural",
+                  "coords": [
+                        114.213579,
+                        22.51177
+                  ]
+            },
+            {
+                  "name": "fort",
+                  "text": "Ennek a régi erődítménynek az omladozó falai a Chan Uk közelében lévő stratégiai fontosságú tájra néznek.",
+                  "category": "historical",
+                  "coords": [
+                        114.217384,
+                        22.518754
+                  ]
+            },
+            {
+                  "name": "Fung Hang Family Walk Viewing Point",
+                  "text": "A családi ösvény népszerű megállója, ez a kilátóterasz tiszta kilátást nyújt a sekély part menti vizekre.",
+                  "category": "natural",
+                  "coords": [
+                        114.223549,
+                        22.524397
+                  ]
+            },
+            {
+                  "name": "A Chau SSSI",
+                  "text": "Ez a Különleges Tudományos Jelentőségű Területként kijelölt, védett szigeti rész a helyi kócsagpopulációk létfontosságú élőhelyeit őrzi.",
+                  "category": "natural",
+                  "coords": [
+                        114.21086,
+                        22.527707
+                  ]
+            },
+            {
+                  "name": "Tin Hau Temple",
+                  "text": "Ezt a hagyományos taoista szentélyt a Tenger Istennőjének szentelték, tükrözve a tengerparti falvak mély tengerészeti gyökereit.",
+                  "category": "landmark",
+                  "coords": [
+                        114.208738,
+                        22.524631
+                  ]
+            },
+            {
+                  "name": "Cheung's Ancestral Hall",
+                  "text": "A klasszikus cseréptetővel rendelkező ősi csarnok a helyi Cheung klán szellemi és közösségi központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        114.210577,
+                        22.522236
+                  ]
+            },
+            {
+                  "name": "Tsz Tong",
+                  "text": "Ez az ősi épület a történelmi faluközösség genealógiai feljegyzéseit és hagyományos tiszteleti szokásait őrzi.",
+                  "category": "religious",
+                  "coords": [
+                        114.198885,
+                        22.527891
+                  ]
+            },
+            {
+                  "name": "Hip Tin Kung",
+                  "text": "A helyiek ebben a történelmi taoista templomban gyűlnek össze, hogy Kwan Tai előtt tisztelegjenek, füstölők füstje és díszes fafaragások közepette.",
+                  "category": "landmark",
+                  "coords": [
+                        114.206986,
+                        22.5207
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wu Kau Tang Country Trail Viewing Point",
+                  "text": "Acest punct pitoresc de-a lungul traseului rural oferă vederi ample asupra văilor împădurite din jur și a golfurilor de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        114.240805,
+                        22.515262
+                  ]
+            },
+            {
+                  "name": "Edward Youde Memorial Pavilion Viewing Point",
+                  "text": "Amplasat printre vegetația luxuriantă, acest pavilion memorial servește ca un punct de observație la înălțime pentru drumeții care explorează zona Luk Keng.",
+                  "category": "natural",
+                  "coords": [
+                        114.213579,
+                        22.51177
+                  ]
+            },
+            {
+                  "name": "fort",
+                  "text": "Zidurile prăbușite ale acestei vechi fortificații au vedere la peisajul strategic din apropiere de Chan Uk.",
+                  "category": "historical",
+                  "coords": [
+                        114.217384,
+                        22.518754
+                  ]
+            },
+            {
+                  "name": "Fung Hang Family Walk Viewing Point",
+                  "text": "O oprire populară pe traseul de familie, această platformă de observație oferă vederi clare peste apele de coastă puțin adânci.",
+                  "category": "natural",
+                  "coords": [
+                        114.223549,
+                        22.524397
+                  ]
+            },
+            {
+                  "name": "A Chau SSSI",
+                  "text": "Desemnată ca Sit de Interes Științific Special, această zonă insulară protejată conservă habitate cruciale pentru populațiile locale de egrete.",
+                  "category": "natural",
+                  "coords": [
+                        114.21086,
+                        22.527707
+                  ]
+            },
+            {
+                  "name": "Tin Hau Temple",
+                  "text": "Acest altar taoist tradițional este dedicat Zeiței Mării, reflectând rădăcinile maritime profunde ale satelor de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        114.208738,
+                        22.524631
+                  ]
+            },
+            {
+                  "name": "Cheung's Ancestral Hall",
+                  "text": "Având acoperișuri clasice din țiglă, această sală ancestrală servește drept centru spiritual și comunal pentru clanul local Cheung.",
+                  "category": "religious",
+                  "coords": [
+                        114.210577,
+                        22.522236
+                  ]
+            },
+            {
+                  "name": "Tsz Tong",
+                  "text": "Această clădire ancestrală conservă înregistrările genealogice și practicile tradiționale de venerare ale comunității istorice a satului.",
+                  "category": "religious",
+                  "coords": [
+                        114.198885,
+                        22.527891
+                  ]
+            },
+            {
+                  "name": "Hip Tin Kung",
+                  "text": "Localnicii se adună la acest templu taoist istoric pentru a-l onora pe Kwan Tai, printre fumul de tămâie și sculpturi ornamentale din lemn.",
+                  "category": "landmark",
+                  "coords": [
+                        114.206986,
+                        22.5207
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wu Kau Tang Country Trail Viewing Point",
+                  "text": "This scenic spot along the country trail provides sweeping views over the surrounding forested valleys and coastal inlets.",
+                  "category": "natural",
+                  "coords": [
+                        114.240805,
+                        22.515262
+                  ]
+            },
+            {
+                  "name": "Edward Youde Memorial Pavilion Viewing Point",
+                  "text": "Set amidst lush vegetation, this memorial pavilion serves as an elevated vantage point for hikers exploring the Luk Keng area.",
+                  "category": "natural",
+                  "coords": [
+                        114.213579,
+                        22.51177
+                  ]
+            },
+            {
+                  "name": "fort",
+                  "text": "The crumbling walls of this old fortification overlook the strategic landscape near Chan Uk.",
+                  "category": "historical",
+                  "coords": [
+                        114.217384,
+                        22.518754
+                  ]
+            },
+            {
+                  "name": "Fung Hang Family Walk Viewing Point",
+                  "text": "A popular stop on the family trail, this observation deck offers clear views across the shallow coastal waters.",
+                  "category": "natural",
+                  "coords": [
+                        114.223549,
+                        22.524397
+                  ]
+            },
+            {
+                  "name": "A Chau SSSI",
+                  "text": "Designated as a Site of Special Scientific Interest, this protected island area preserves crucial habitats for local egret populations.",
+                  "category": "natural",
+                  "coords": [
+                        114.21086,
+                        22.527707
+                  ]
+            },
+            {
+                  "name": "Tin Hau Temple",
+                  "text": "This traditional Taoist shrine is dedicated to the Goddess of the Sea, reflecting the deep maritime roots of the coastal villages.",
+                  "category": "landmark",
+                  "coords": [
+                        114.208738,
+                        22.524631
+                  ]
+            },
+            {
+                  "name": "Cheung's Ancestral Hall",
+                  "text": "Featuring classic tiled roofs, this ancestral hall serves as the spiritual and communal center for the local Cheung clan.",
+                  "category": "religious",
+                  "coords": [
+                        114.210577,
+                        22.522236
+                  ]
+            },
+            {
+                  "name": "Tsz Tong",
+                  "text": "This ancestral building preserves the genealogical records and traditional veneration practices of the historic village community.",
+                  "category": "religious",
+                  "coords": [
+                        114.198885,
+                        22.527891
+                  ]
+            },
+            {
+                  "name": "Hip Tin Kung",
+                  "text": "Locals gather at this historic Taoist temple to honor Kwan Tai, amidst incense smoke and ornate timber carvings.",
+                  "category": "landmark",
+                  "coords": [
+                        114.206986,
+                        22.5207
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "peak",
     name: { de: "Luk Keng Chan Uk", hu: "Luk Keng Chan Uk", ro: "Luk Keng Chan Uk", en: "Luk Keng Chan Uk" },
@@ -1263,7 +7266,88 @@ export const hongkongReliefV2: POI[] = [
     image: "/poi-images/hongkong-luk-keng-chan-uk-relief-v2.webp",
   },
   {
-    id: "hongkong-pottinger-peak-relief-v2",
+    id: "hongkong-pottinger-peak-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Big Wave Bay",
+                  "text": "Diese weitläufige Bucht ist wegen ihrer ausgeprägten Dünung ein bekannter Treffpunkt für Surfer.",
+                  "category": "landmark",
+                  "coords": [
+                        114.24953,
+                        22.244284
+                  ]
+            },
+            {
+                  "name": "Tai Long Pai",
+                  "text": "Dieser abgelegene Leuchtturm markiert mit seinem Signalfeuer die felsigen Küstenabschnitte für vorbeifahrende Schiffe.",
+                  "category": "landmark",
+                  "coords": [
+                        114.2663,
+                        22.234033
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Big Wave Bay",
+                  "text": "Ez a tágas öböl jelentős hullámzása miatt a szörfösök jól ismert találkozóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        114.24953,
+                        22.244284
+                  ]
+            },
+            {
+                  "name": "Tai Long Pai",
+                  "text": "Ez a távoli világítótorony jelzőfényével mutatja a sziklás partszakaszokat az elhaladó hajók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        114.2663,
+                        22.234033
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Big Wave Bay",
+                  "text": "Acest golf spațios este un loc de întâlnire renumit pentru surferi datorită valurilor sale pronunțate.",
+                  "category": "landmark",
+                  "coords": [
+                        114.24953,
+                        22.244284
+                  ]
+            },
+            {
+                  "name": "Tai Long Pai",
+                  "text": "Acest far izolat marchează secțiunile stâncoase de coastă cu lumina sa de semnalizare pentru navele aflate în trecere.",
+                  "category": "landmark",
+                  "coords": [
+                        114.2663,
+                        22.234033
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Big Wave Bay",
+                  "text": "Known for its pronounced swells, this spacious bay is a highly popular destination for surfers.",
+                  "category": "landmark",
+                  "coords": [
+                        114.24953,
+                        22.244284
+                  ]
+            },
+            {
+                  "name": "Tai Long Pai",
+                  "text": "This remote lighthouse marks the rocky stretches of the coastline with its beacon for passing ships.",
+                  "category": "landmark",
+                  "coords": [
+                        114.2663,
+                        22.234033
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "peak",
     name: { de: "Pottinger Peak", hu: "Pottinger-csúcs", ro: "Vârful Pottinger", en: "Pottinger Peak" },
@@ -1308,7 +7392,124 @@ export const hongkongReliefV2: POI[] = [
     image: "/poi-images/hongkong-pottinger-peak-relief-v2.webp",
   },
   {
-    id: "hongkong-mount-collinson-relief-v2",
+    id: "hongkong-mount-collinson-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Obelisk Hill",
+                  "text": "Dieser markante Gipfel ist für das historische Steindenkmal bekannt, das ihm seinen Namen gibt.",
+                  "category": "natural",
+                  "coords": [
+                        114.228618,
+                        22.247805
+                  ]
+            },
+            {
+                  "name": "Obelisk (North)",
+                  "text": "Diese Ruinen sind die Überreste einer historischen Steinmarkierung am Hang.",
+                  "category": "historical",
+                  "coords": [
+                        114.229243,
+                        22.24539
+                  ]
+            },
+            {
+                  "name": "Lin Hook Sin Koon",
+                  "text": "Ein traditionelles taoistisches Heiligtum, das einen spirituellen Rückzugsort an den Hängen des Mount Collinson bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        114.235408,
+                        22.239742
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Obelisk Hill",
+                  "text": "Ez a kiemelkedő hegycsúcs arról a történelmi kőemlékműről ismert, amely a nevét adta.",
+                  "category": "natural",
+                  "coords": [
+                        114.228618,
+                        22.247805
+                  ]
+            },
+            {
+                  "name": "Obelisk (North)",
+                  "text": "Ezek a romok egy történelmi kőjelző maradványai, amelyek a domboldalon találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        114.229243,
+                        22.24539
+                  ]
+            },
+            {
+                  "name": "Lin Hook Sin Koon",
+                  "text": "Hagyományos taoista szentély, amely spirituális menedéket kínál a Mount Collinson lejtőin.",
+                  "category": "landmark",
+                  "coords": [
+                        114.235408,
+                        22.239742
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Obelisk Hill",
+                  "text": "Acest vârf proeminent este cunoscut pentru monumentul istoric din piatră care îi dă numele.",
+                  "category": "natural",
+                  "coords": [
+                        114.228618,
+                        22.247805
+                  ]
+            },
+            {
+                  "name": "Obelisk (North)",
+                  "text": "Aceste ruine sunt rămășițele unui marcaj istoric din piatră situat pe coasta dealului.",
+                  "category": "historical",
+                  "coords": [
+                        114.229243,
+                        22.24539
+                  ]
+            },
+            {
+                  "name": "Lin Hook Sin Koon",
+                  "text": "Un sanctuar taoist tradițional care oferă un refugiu spiritual pe pantele Muntelui Collinson.",
+                  "category": "landmark",
+                  "coords": [
+                        114.235408,
+                        22.239742
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Obelisk Hill",
+                  "text": "This prominent peak is known for the historic stone monument that gives it its name.",
+                  "category": "natural",
+                  "coords": [
+                        114.228618,
+                        22.247805
+                  ]
+            },
+            {
+                  "name": "Obelisk (North)",
+                  "text": "These ruins are the remnants of a historic stone marker situated on the hillside.",
+                  "category": "historical",
+                  "coords": [
+                        114.229243,
+                        22.24539
+                  ]
+            },
+            {
+                  "name": "Lin Hook Sin Koon",
+                  "text": "A traditional Taoist sanctuary offering a spiritual retreat amid the slopes of Mount Collinson.",
+                  "category": "landmark",
+                  "coords": [
+                        114.235408,
+                        22.239742
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "peak",
     name: { de: "Mount Collinson", hu: "Mount Collinson", ro: "Mount Collinson", en: "Mount Collinson" },
@@ -1353,7 +7554,160 @@ export const hongkongReliefV2: POI[] = [
     image: "/poi-images/hongkong-mount-collinson-relief-v2.webp",
   },
   {
-    id: "hongkong-nan-she-tsim-relief-v2",
+    id: "hongkong-nan-she-tsim-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wong Shek Viewing Point",
+                  "text": "Der Aussichtspunkt Wong Shek bietet weite Blicke auf das umliegende Küstenrelief.",
+                  "category": "natural",
+                  "coords": [
+                        114.336489,
+                        22.434845
+                  ]
+            },
+            {
+                  "name": "Wong Mau Chau",
+                  "text": "Wong Mau Chau ist ein markanter Leuchtturm, der den Schiffsverkehr entlang der felsigen Küste leitet.",
+                  "category": "landmark",
+                  "coords": [
+                        114.394683,
+                        22.448567
+                  ]
+            },
+            {
+                  "name": "Ko Tong Hau",
+                  "text": "Ko Tong Hau ist eine anerkannte Küstenbucht, die für ihre malerischen Gewässer und natürliche Uferlinie bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        114.339413,
+                        22.436596
+                  ]
+            },
+            {
+                  "name": "Shek Ngau Chau SSSI",
+                  "text": "Shek Ngau Chau SSSI ist ein ausgewiesenes Naturschutzgebiet, das ein Areal von besonderem wissenschaftlichem Interesse schützt.",
+                  "category": "natural",
+                  "coords": [
+                        114.427905,
+                        22.46595
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wong Shek Viewing Point",
+                  "text": "A Wong Shek kilátópontról széles kilátás nyílik a környező tengerparti domborzatra.",
+                  "category": "natural",
+                  "coords": [
+                        114.336489,
+                        22.434845
+                  ]
+            },
+            {
+                  "name": "Wong Mau Chau",
+                  "text": "A Wong Mau Chau egy jelentős világítótorony, amely a tengeri forgalmat irányítja a sziklás part mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        114.394683,
+                        22.448567
+                  ]
+            },
+            {
+                  "name": "Ko Tong Hau",
+                  "text": "A Ko Tong Hau egy elismert tengerparti öböl, amely festői vizeiről és természetes partvonaláról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        114.339413,
+                        22.436596
+                  ]
+            },
+            {
+                  "name": "Shek Ngau Chau SSSI",
+                  "text": "A Shek Ngau Chau SSSI egy kijelölt természetvédelmi terület, amely különleges tudományos érdekességű zónát óv.",
+                  "category": "natural",
+                  "coords": [
+                        114.427905,
+                        22.46595
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wong Shek Viewing Point",
+                  "text": "Punctul de belvedere Wong Shek oferă priveliști ample asupra reliefului de coastă înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        114.336489,
+                        22.434845
+                  ]
+            },
+            {
+                  "name": "Wong Mau Chau",
+                  "text": "Wong Mau Chau este un far notabil care ghidează traficul maritim de-a lungul coastei stâncoase.",
+                  "category": "landmark",
+                  "coords": [
+                        114.394683,
+                        22.448567
+                  ]
+            },
+            {
+                  "name": "Ko Tong Hau",
+                  "text": "Ko Tong Hau este un golf de coastă recunoscut, cunoscut pentru apele sale pitorești și linia naturală a țărmului.",
+                  "category": "landmark",
+                  "coords": [
+                        114.339413,
+                        22.436596
+                  ]
+            },
+            {
+                  "name": "Shek Ngau Chau SSSI",
+                  "text": "Shek Ngau Chau SSSI este o rezervație naturală desemnată care protejează o zonă de interes științific special.",
+                  "category": "natural",
+                  "coords": [
+                        114.427905,
+                        22.46595
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wong Shek Viewing Point",
+                  "text": "Wong Shek Viewing Point is a scenic overlook offering expansive vistas of the surrounding coastal relief.",
+                  "category": "natural",
+                  "coords": [
+                        114.336489,
+                        22.434845
+                  ]
+            },
+            {
+                  "name": "Wong Mau Chau",
+                  "text": "Wong Mau Chau is a notable lighthouse structure guiding maritime traffic along the rocky coast.",
+                  "category": "landmark",
+                  "coords": [
+                        114.394683,
+                        22.448567
+                  ]
+            },
+            {
+                  "name": "Ko Tong Hau",
+                  "text": "Ko Tong Hau is a recognized coastal bay known for its scenic waters and natural shoreline.",
+                  "category": "landmark",
+                  "coords": [
+                        114.339413,
+                        22.436596
+                  ]
+            },
+            {
+                  "name": "Shek Ngau Chau SSSI",
+                  "text": "Shek Ngau Chau SSSI is a designated nature reserve protecting an area of special scientific interest.",
+                  "category": "natural",
+                  "coords": [
+                        114.427905,
+                        22.46595
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "peak",
     name: { de: "Sharp Peak (Nam She Tsim)", hu: "Nam She Tsim", ro: "Nam She Tsim", en: "Nam She Tsim" },
@@ -1398,7 +7752,196 @@ export const hongkongReliefV2: POI[] = [
     image: "/poi-images/hongkong-nan-she-tsim-relief-v2.webp",
   },
   {
-    id: "hongkong-kau-to-shan-relief-v2",
+    id: "hongkong-kau-to-shan-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hip Tin Kung",
+                  "text": "Eine traditionelle chinesische Kultstätte, eingebettet im Reliefgebiet von Kau To Shan.",
+                  "category": "religious",
+                  "coords": [
+                        114.20038,
+                        22.426226
+                  ]
+            },
+            {
+                  "name": "Li's Ancestral Hall",
+                  "text": "Eine traditionelle Ahnenhalle, die der Linie der Familie Li in Kau To Shan gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        114.198463,
+                        22.421306
+                  ]
+            },
+            {
+                  "name": "Yau's Ancestral Hall",
+                  "text": "Eine Clanhalle, die das Erbe der Familie Yau im Gebiet von Kau To Shan bewahrt.",
+                  "category": "religious",
+                  "coords": [
+                        114.200675,
+                        22.420185
+                  ]
+            },
+            {
+                  "name": "Law's Ancestral Hall",
+                  "text": "Ein traditioneller Schrein, der den Vorfahren des Law-Clans in Kau To Shan gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        114.202878,
+                        22.410241
+                  ]
+            },
+            {
+                  "name": "Sublime Morality Shrine",
+                  "text": "Ein daoistischer Schrein, bekannt für seine friedliche Atmosphäre in der Region Kau To Shan.",
+                  "category": "landmark",
+                  "coords": [
+                        114.190355,
+                        22.433137
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hip Tin Kung",
+                  "text": "Egy hagyományos kínai istentiszteleti hely, amely a Kau To Shan domborzati területén bújik meg.",
+                  "category": "religious",
+                  "coords": [
+                        114.20038,
+                        22.426226
+                  ]
+            },
+            {
+                  "name": "Li's Ancestral Hall",
+                  "text": "A Li család leszármazottai számára fenntartott hagyományos ősi csarnok Kau To Shanban.",
+                  "category": "religious",
+                  "coords": [
+                        114.198463,
+                        22.421306
+                  ]
+            },
+            {
+                  "name": "Yau's Ancestral Hall",
+                  "text": "Egy kláncsarnok, amely a Yau család örökségét őrzi a Kau To Shan területén.",
+                  "category": "religious",
+                  "coords": [
+                        114.200675,
+                        22.420185
+                  ]
+            },
+            {
+                  "name": "Law's Ancestral Hall",
+                  "text": "A Law klán őseinek szentelt hagyományos szentély Kau To Shanban.",
+                  "category": "religious",
+                  "coords": [
+                        114.202878,
+                        22.410241
+                  ]
+            },
+            {
+                  "name": "Sublime Morality Shrine",
+                  "text": "A Kau To Shan régióban békés légköréről ismert taoista szentély.",
+                  "category": "landmark",
+                  "coords": [
+                        114.190355,
+                        22.433137
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hip Tin Kung",
+                  "text": "Un lăcaș de cult chinezesc tradițional amplasat în zona de relief Kau To Shan.",
+                  "category": "religious",
+                  "coords": [
+                        114.20038,
+                        22.426226
+                  ]
+            },
+            {
+                  "name": "Li's Ancestral Hall",
+                  "text": "O sală ancestrală tradițională dedicată liniei familiei Li în Kau To Shan.",
+                  "category": "religious",
+                  "coords": [
+                        114.198463,
+                        22.421306
+                  ]
+            },
+            {
+                  "name": "Yau's Ancestral Hall",
+                  "text": "O sală de clan care păstrează moștenirea familiei Yau în zona Kau To Shan.",
+                  "category": "religious",
+                  "coords": [
+                        114.200675,
+                        22.420185
+                  ]
+            },
+            {
+                  "name": "Law's Ancestral Hall",
+                  "text": "Un altar tradițional dedicat strămoșilor clanului Law din Kau To Shan.",
+                  "category": "religious",
+                  "coords": [
+                        114.202878,
+                        22.410241
+                  ]
+            },
+            {
+                  "name": "Sublime Morality Shrine",
+                  "text": "Un altar taoist cunoscut pentru atmosfera sa pașnică din regiunea Kau To Shan.",
+                  "category": "landmark",
+                  "coords": [
+                        114.190355,
+                        22.433137
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hip Tin Kung, Cheung Shue Tan",
+                  "text": "A traditional Chinese place of worship nestled in the Kau To Shan relief area.",
+                  "category": "religious",
+                  "coords": [
+                        114.20038,
+                        22.426226
+                  ]
+            },
+            {
+                  "name": "Li's Ancestral Hall",
+                  "text": "A traditional ancestral hall dedicated to the Li family lineage in Kau To Shan.",
+                  "category": "religious",
+                  "coords": [
+                        114.198463,
+                        22.421306
+                  ]
+            },
+            {
+                  "name": "Yau's Ancestral Hall",
+                  "text": "A clan hall preserving the heritage of the Yau family in the Kau To Shan area.",
+                  "category": "religious",
+                  "coords": [
+                        114.200675,
+                        22.420185
+                  ]
+            },
+            {
+                  "name": "Law's Ancestral Hall",
+                  "text": "A traditional shrine dedicated to the ancestors of the Law clan in Kau To Shan.",
+                  "category": "religious",
+                  "coords": [
+                        114.202878,
+                        22.410241
+                  ]
+            },
+            {
+                  "name": "Sublime Morality Shrine",
+                  "text": "A Taoist shrine known for its peaceful atmosphere in the Kau To Shan region.",
+                  "category": "landmark",
+                  "coords": [
+                        114.190355,
+                        22.433137
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "peak",
     name: { de: "Kau To Shan", hu: "Kau To Shan", ro: "Kau To Shan", en: "Kau To Shan" },
@@ -1443,7 +7986,160 @@ export const hongkongReliefV2: POI[] = [
     image: "/poi-images/hongkong-kau-to-shan-relief-v2.webp",
   },
   {
-    id: "hongkong-mount-hallowes-relief-v2",
+    id: "hongkong-mount-hallowes-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nam Fung Shan",
+                  "text": "Nam Fung Shan ist ein markanter Gipfel in der Gegend von Mount Hallowes.",
+                  "category": "natural",
+                  "coords": [
+                        114.343739,
+                        22.46237
+                  ]
+            },
+            {
+                  "name": "Tai Leng Tun",
+                  "text": "Tai Leng Tun ist ein bekannter Gipfel, der erhabene Ausblicke in der Region Mount Hallowes bietet.",
+                  "category": "natural",
+                  "coords": [
+                        114.342726,
+                        22.465381
+                  ]
+            },
+            {
+                  "name": "Shek Uk Shan",
+                  "text": "Shek Uk Shan ist ein markanter Gipfel, der sich in der malerischen Gegend von Mount Hallowes erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        114.306436,
+                        22.43603
+                  ]
+            },
+            {
+                  "name": "Immaculate Heart of Mary Chapel",
+                  "text": "Die Immaculate Heart of Mary Chapel ist eine religiöse Stätte versteckt im Gebiet von Mount Hallowes.",
+                  "category": "religious",
+                  "coords": [
+                        114.319263,
+                        22.447838
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nam Fung Shan",
+                  "text": "A Nam Fung Shan egy jelentős hegycsúcs a Mount Hallowes térségében.",
+                  "category": "natural",
+                  "coords": [
+                        114.343739,
+                        22.46237
+                  ]
+            },
+            {
+                  "name": "Tai Leng Tun",
+                  "text": "A Tai Leng Tun egy ismert hegycsúcs, amely magaslati kilátást nyújt a Mount Hallowes régióban.",
+                  "category": "natural",
+                  "coords": [
+                        114.342726,
+                        22.465381
+                  ]
+            },
+            {
+                  "name": "Shek Uk Shan",
+                  "text": "A Shek Uk Shan egy kiemelkedő hegycsúcs, amely a festői Mount Hallowes területén emelkedik.",
+                  "category": "natural",
+                  "coords": [
+                        114.306436,
+                        22.43603
+                  ]
+            },
+            {
+                  "name": "Immaculate Heart of Mary Chapel",
+                  "text": "A Szeplőtelen Szív Kápolna egy vallási helyszín, amely a Mount Hallowes területén bújik meg.",
+                  "category": "religious",
+                  "coords": [
+                        114.319263,
+                        22.447838
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nam Fung Shan",
+                  "text": "Nam Fung Shan este un vârf notabil situat în zona Mount Hallowes.",
+                  "category": "natural",
+                  "coords": [
+                        114.343739,
+                        22.46237
+                  ]
+            },
+            {
+                  "name": "Tai Leng Tun",
+                  "text": "Tai Leng Tun este un vârf recunoscut care oferă vederi de la înălțime în regiunea Mount Hallowes.",
+                  "category": "natural",
+                  "coords": [
+                        114.342726,
+                        22.465381
+                  ]
+            },
+            {
+                  "name": "Shek Uk Shan",
+                  "text": "Shek Uk Shan este un vârf proeminent care se înalță în zona pitorească Mount Hallowes.",
+                  "category": "natural",
+                  "coords": [
+                        114.306436,
+                        22.43603
+                  ]
+            },
+            {
+                  "name": "Immaculate Heart of Mary Chapel",
+                  "text": "Capela Inimii Imaculate a Mariei este un lăcaș de cult ascuns în zona Mount Hallowes.",
+                  "category": "religious",
+                  "coords": [
+                        114.319263,
+                        22.447838
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nam Fung Shan",
+                  "text": "Nam Fung Shan is a notable peak situated in the Mount Hallowes area.",
+                  "category": "natural",
+                  "coords": [
+                        114.343739,
+                        22.46237
+                  ]
+            },
+            {
+                  "name": "Tai Leng Tun",
+                  "text": "Tai Leng Tun is a recognized peak offering elevated views in the Mount Hallowes region.",
+                  "category": "natural",
+                  "coords": [
+                        114.342726,
+                        22.465381
+                  ]
+            },
+            {
+                  "name": "Shek Uk Shan",
+                  "text": "Shek Uk Shan is a prominent peak rising within the scenic Mount Hallowes area.",
+                  "category": "natural",
+                  "coords": [
+                        114.306436,
+                        22.43603
+                  ]
+            },
+            {
+                  "name": "Immaculate Heart of Mary Chapel",
+                  "text": "The Immaculate Heart of Mary Chapel is a religious site tucked away in the Mount Hallowes area.",
+                  "category": "religious",
+                  "coords": [
+                        114.319263,
+                        22.447838
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "peak",
     name: { de: "Mount Hallowes", hu: "Mount Hallowes", ro: "Mount Hallowes", en: "Mount Hallowes" },

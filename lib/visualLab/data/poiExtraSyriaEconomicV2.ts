@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraSyriaEconomicV2: POI[] = [
   {
-    id: "baniyas-refinery-economic-v2",
+    id: "baniyas-refinery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tel Siyānu",
+                  "text": "Eine archäologische Ausgrabungsstätte einer Siedlung aus der Bronzezeit in der Nähe der Küstenebene.",
+                  "category": "historical",
+                  "coords": [
+                        35.999871,
+                        35.199627
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tel Siyānu",
+                  "text": "Egy bronzkori település régészeti lelőhelye a tengerparti síkság közelében.",
+                  "category": "historical",
+                  "coords": [
+                        35.999871,
+                        35.199627
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tel Siyānu",
+                  "text": "Un sit arheologic ce cuprinde vestigiile unei așezări din epoca bronzului, situat lângă câmpia de coastă.",
+                  "category": "historical",
+                  "coords": [
+                        35.999871,
+                        35.199627
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tel Siyānu",
+                  "text": "An archaeological site of a Bronze Age settlement located near the coastal plain.",
+                  "category": "historical",
+                  "coords": [
+                        35.999871,
+                        35.199627
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "SY-TA",
     coords: [35.95, 35.21],
@@ -39,7 +84,340 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     },
   },
   {
-    id: "homs-refinery-economic-v2",
+    id: "homs-refinery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tadmor Roundabout",
+                  "text": "Ein zentraler Verkehrsknotenpunkt in Homs mit einem Denkmal, das an die antike Wüstenstadt Palmyra erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        36.711749,
+                        34.69657
+                  ]
+            },
+            {
+                  "name": "prot visit",
+                  "text": "Eine lokale Sehenswürdigkeit in Homs, die oft von Besuchern genutzt wird, um die städtische Architektur zu bewundern.",
+                  "category": "landmark",
+                  "coords": [
+                        36.704575,
+                        34.758218
+                  ]
+            },
+            {
+                  "name": "somar",
+                  "text": "Ein kleines Museum in Homs, das Exponate zur lokalen Geschichte und kulturellen Identität der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        36.738386,
+                        34.753135
+                  ]
+            },
+            {
+                  "name": "Sworn Translator",
+                  "text": "Ein markantes Turmgebäude im Stadtzentrum von Homs, das als Orientierungspunkt für Einheimische und Reisende dient.",
+                  "category": "landmark",
+                  "coords": [
+                        36.725684,
+                        34.705226
+                  ]
+            },
+            {
+                  "name": "Tahun Judaydah",
+                  "text": "Eine historische steinerne Windmühle in der Nähe von Homs, die früher zum Mahlen von Getreide genutzt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        36.683333,
+                        34.733333
+                  ]
+            },
+            {
+                  "name": "Zawr al Mazra`ah",
+                  "text": "Diese traditionelle Windmühle am Rande der Siedlung ist ein Zeugnis der alten landwirtschaftlichen Technik der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        36.666667,
+                        34.716667
+                  ]
+            },
+            {
+                  "name": "Tahun Dunghuziyah",
+                  "text": "Ein markantes Beispiel einer alten Windmühle, die mit ihrem Mauerwerk das ländliche Panorama von Homs prägt.",
+                  "category": "landmark",
+                  "coords": [
+                        36.683316,
+                        34.750062
+                  ]
+            },
+            {
+                  "name": "Kafr `Aya",
+                  "text": "Eine lokale Moschee in Kafr 'Aya mit einem einfachen Minarett, das das spirituelle Leben der Gemeinde prägt.",
+                  "category": "landmark",
+                  "coords": [
+                        36.689526,
+                        34.685726
+                  ]
+            },
+            {
+                  "name": "Al Omari Mosque",
+                  "text": "Die Al-Omari-Moschee ist ein bedeutendes religiöses Bauwerk in Homs, bekannt für ihre klassischen Steinbögen.",
+                  "category": "landmark",
+                  "coords": [
+                        36.675218,
+                        34.739015
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tadmor Roundabout",
+                  "text": "Homsz központi csomópontja egy emlékművel, amely az ősi sivatagi városnak, Palmürának állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        36.711749,
+                        34.69657
+                  ]
+            },
+            {
+                  "name": "prot visit",
+                  "text": "Homszi látnivaló, amelyet a látogatók gyakran keresnek fel a városi építészet megcsodálására.",
+                  "category": "landmark",
+                  "coords": [
+                        36.704575,
+                        34.758218
+                  ]
+            },
+            {
+                  "name": "somar",
+                  "text": "Kisméretű múzeum Homszban, amely a régió helytörténeti és kulturális emlékeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        36.738386,
+                        34.753135
+                  ]
+            },
+            {
+                  "name": "Sworn Translator",
+                  "text": "Jellegzetes toronyépület Homsz városközpontjában, amely tájékozódási pontként szolgál a helyiek és utazók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        36.725684,
+                        34.705226
+                  ]
+            },
+            {
+                  "name": "Tahun Judaydah",
+                  "text": "Történelmi kő szélmalom Homsz közelében, amelyet egykor gabonaőrlésre használtak.",
+                  "category": "landmark",
+                  "coords": [
+                        36.683333,
+                        34.733333
+                  ]
+            },
+            {
+                  "name": "Zawr al Mazra`ah",
+                  "text": "Ez a település szélén álló hagyományos szélmalom a régió régi mezőgazdasági technikájának tanúja.",
+                  "category": "landmark",
+                  "coords": [
+                        36.666667,
+                        34.716667
+                  ]
+            },
+            {
+                  "name": "Tahun Dunghuziyah",
+                  "text": "Egy régi szélmalom jellegzetes példája, amely kőfalaival meghatározza Homsz vidéki panorámáját.",
+                  "category": "landmark",
+                  "coords": [
+                        36.683316,
+                        34.750062
+                  ]
+            },
+            {
+                  "name": "Kafr `Aya",
+                  "text": "Helyi mecset Kafr 'Aya faluban, egyszerű minarettel, amely meghatározza a közösség hitéletét.",
+                  "category": "landmark",
+                  "coords": [
+                        36.689526,
+                        34.685726
+                  ]
+            },
+            {
+                  "name": "Al Omari Mosque",
+                  "text": "Az Al-Omari mecset Homsz egyik jelentős vallási épülete, amely klasszikus kőboltíveiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        36.675218,
+                        34.739015
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tadmor Roundabout",
+                  "text": "Un nod de trafic central în Homs, cu un monument care onorează orașul antic din deșert, Palmyra.",
+                  "category": "historical",
+                  "coords": [
+                        36.711749,
+                        34.69657
+                  ]
+            },
+            {
+                  "name": "prot visit",
+                  "text": "O atracție locală din Homs, vizitată adesea pentru a admira arhitectura urbană a zonei.",
+                  "category": "landmark",
+                  "coords": [
+                        36.704575,
+                        34.758218
+                  ]
+            },
+            {
+                  "name": "somar",
+                  "text": "Un mic muzeu din Homs care expune artefacte legate de istoria locală și identitatea culturală a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        36.738386,
+                        34.753135
+                  ]
+            },
+            {
+                  "name": "Sworn Translator",
+                  "text": "O clădire turn distinctivă în centrul orașului Homs, servind ca punct de reper pentru localnici și călători.",
+                  "category": "landmark",
+                  "coords": [
+                        36.725684,
+                        34.705226
+                  ]
+            },
+            {
+                  "name": "Tahun Judaydah",
+                  "text": "O moară de vânt istorică din piatră lângă Homs, folosită în trecut pentru măcinarea cerealelor.",
+                  "category": "landmark",
+                  "coords": [
+                        36.683333,
+                        34.733333
+                  ]
+            },
+            {
+                  "name": "Zawr al Mazra`ah",
+                  "text": "Această moară de vânt tradițională de la marginea așezării este o mărturie a vechii tehnologii agricole a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        36.666667,
+                        34.716667
+                  ]
+            },
+            {
+                  "name": "Tahun Dunghuziyah",
+                  "text": "Un exemplu distinctiv de moară de vânt veche, care marchează panorama rurală a Homsului prin zidăria sa.",
+                  "category": "landmark",
+                  "coords": [
+                        36.683316,
+                        34.750062
+                  ]
+            },
+            {
+                  "name": "Kafr `Aya",
+                  "text": "O moschee locală în Kafr 'Aya, cu un minaret simplu care marchează viața spirituală a comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        36.689526,
+                        34.685726
+                  ]
+            },
+            {
+                  "name": "Al Omari Mosque",
+                  "text": "Moscheea Al-Omari este o structură religioasă importantă din Homs, cunoscută pentru arcadele sale clasice de piatră.",
+                  "category": "landmark",
+                  "coords": [
+                        36.675218,
+                        34.739015
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tadmor Roundabout",
+                  "text": "A central traffic hub in Homs featuring a monument that pays tribute to the ancient desert city of Palmyra.",
+                  "category": "historical",
+                  "coords": [
+                        36.711749,
+                        34.69657
+                  ]
+            },
+            {
+                  "name": "prot visit",
+                  "text": "A local attraction in Homs often visited by guests to admire the surrounding urban architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        36.704575,
+                        34.758218
+                  ]
+            },
+            {
+                  "name": "somar",
+                  "text": "A small museum in Homs displaying exhibits related to local history and the region's cultural identity.",
+                  "category": "museum",
+                  "coords": [
+                        36.738386,
+                        34.753135
+                  ]
+            },
+            {
+                  "name": "Sworn Translator",
+                  "text": "A distinctive tower building in Homs city center, serving as a landmark for locals and travelers.",
+                  "category": "landmark",
+                  "coords": [
+                        36.725684,
+                        34.705226
+                  ]
+            },
+            {
+                  "name": "Tahun Judaydah",
+                  "text": "A historic stone windmill near Homs, formerly used for grinding grain in the countryside.",
+                  "category": "landmark",
+                  "coords": [
+                        36.683333,
+                        34.733333
+                  ]
+            },
+            {
+                  "name": "Zawr al Mazra`ah",
+                  "text": "This traditional windmill on the edge of the settlement is a testament to the region's old agricultural technology.",
+                  "category": "landmark",
+                  "coords": [
+                        36.666667,
+                        34.716667
+                  ]
+            },
+            {
+                  "name": "Tahun Dunghuziyah",
+                  "text": "A distinctive example of an old windmill that marks the rural panorama of Homs with its masonry.",
+                  "category": "landmark",
+                  "coords": [
+                        36.683316,
+                        34.750062
+                  ]
+            },
+            {
+                  "name": "Kafr `Aya",
+                  "text": "A local mosque in Kafr 'Aya with a simple minaret that defines the spiritual life of the community.",
+                  "category": "landmark",
+                  "coords": [
+                        36.689526,
+                        34.685726
+                  ]
+            },
+            {
+                  "name": "Al Omari Mosque",
+                  "text": "The Al-Omari Mosque is a significant religious structure in Homs, known for its classic stone arches.",
+                  "category": "landmark",
+                  "coords": [
+                        36.675218,
+                        34.739015
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "SY-HO",
     coords: [36.68, 34.72],
@@ -75,7 +453,124 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     },
   },
   {
-    id: "port-of-latakia-economic-v2",
+    id: "port-of-latakia-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Greens shrine \"George\" (peace be upon him)",
+                  "text": "Ein einzigartiger muslimischer Schrein in Latakia, der als Al-Khidr (verbunden mit dem Heiligen Georg) bekannt ist und das synkretistische religiöse Erbe der Region widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.733813,
+                        35.562901
+                  ]
+            },
+            {
+                  "name": "Mosque of the Caliphs",
+                  "text": "Eine islamische Kultstätte in der Nähe des geschäftigen Hafens von Latakia, die sowohl den Anwohnern als auch den Hafenarbeitern dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.790042,
+                        35.544744
+                  ]
+            },
+            {
+                  "name": "Imam Jaafar Al-Sadeq Mosque",
+                  "text": "Eine bedeutende Moschee in Latakia, die Ja'far as-Sadiq, dem sechsten schiitischen Imam, gewidmet ist und sich in der Nähe des Hafengebiets der Stadt befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.779938,
+                        35.533384
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Greens shrine \"George\" (peace be upon him)",
+                  "text": "Egyedülálló muszlim szentély Latakiában, amely Al-Khidr néven ismert (Szent Györgyhöz kapcsolódik), és a régió szinkretikus vallási örökségét tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        35.733813,
+                        35.562901
+                  ]
+            },
+            {
+                  "name": "Mosque of the Caliphs",
+                  "text": "Iszlám istentiszteleti hely a forgalmas latakiai kikötő közelében, amely a helyi lakosokat és a tengeri munkásokat egyaránt szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.790042,
+                        35.544744
+                  ]
+            },
+            {
+                  "name": "Imam Jaafar Al-Sadeq Mosque",
+                  "text": "Kiemelkedő mecset Latakiában, amelyet Ja'far al-Sadiqnak, a hatodik síita imámnak szenteltek, és a város kikötőjének közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        35.779938,
+                        35.533384
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Greens shrine \"George\" (peace be upon him)",
+                  "text": "Un altar musulman unic din Latakia, cunoscut sub numele de Al-Khidr (asociat cu Sfântul Gheorghe), care reflectă moștenirea religioasă sincretică a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        35.733813,
+                        35.562901
+                  ]
+            },
+            {
+                  "name": "Mosque of the Caliphs",
+                  "text": "Un lăcaș de cult islamic situat lângă portul aglomerat Latakia, deservind atât rezidenții locali, cât și lucrătorii maritimi.",
+                  "category": "landmark",
+                  "coords": [
+                        35.790042,
+                        35.544744
+                  ]
+            },
+            {
+                  "name": "Imam Jaafar Al-Sadeq Mosque",
+                  "text": "O moschee proeminentă din Latakia dedicată lui Ja'far al-Sadiq, al șaselea imam șiit, situată aproape de zona portuară a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.779938,
+                        35.533384
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Greens shrine \"George\" (peace be upon him)",
+                  "text": "A unique Muslim shrine in Latakia known as Al-Khidr (associated with Saint George), reflecting the syncretic religious heritage of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        35.733813,
+                        35.562901
+                  ]
+            },
+            {
+                  "name": "Mosque of the Caliphs",
+                  "text": "An Islamic place of worship situated near the bustling Port of Latakia, serving both local residents and maritime workers.",
+                  "category": "landmark",
+                  "coords": [
+                        35.790042,
+                        35.544744
+                  ]
+            },
+            {
+                  "name": "Imam Jaafar Al-Sadeq Mosque",
+                  "text": "A prominent mosque in Latakia dedicated to Ja'far al-Sadiq, the sixth Shia Imam, located close to the city's port area.",
+                  "category": "landmark",
+                  "coords": [
+                        35.779938,
+                        35.533384
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "SY-LA",
     coords: [35.77, 35.53],
@@ -111,7 +606,88 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     },
   },
   {
-    id: "port-of-tartus-economic-v2",
+    id: "port-of-tartus-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tropical Forest tartous",
+                  "text": "Ein üppiges Erholungsgebiet in der Nähe des Hafens von Tartus mit einer Vielfalt an tropischen Pflanzenarten.",
+                  "category": "landmark",
+                  "coords": [
+                        35.895501,
+                        34.938302
+                  ]
+            },
+            {
+                  "name": "Mansour Mosque",
+                  "text": "Eine zentrale Moschee in Tartus, die ein wichtiger Treffpunkt für die täglichen Gebete der Stadtbewohner ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.877339,
+                        34.897692
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tropical Forest tartous",
+                  "text": "Bujja pihenőövezet Tartúsz kikötője közelében, változatos trópusi növényfajokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        35.895501,
+                        34.938302
+                  ]
+            },
+            {
+                  "name": "Mansour Mosque",
+                  "text": "Tartúsz központi mecsetje, amely a városlakók napi imádságainak fontos helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        35.877339,
+                        34.897692
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tropical Forest tartous",
+                  "text": "O zonă de recreere luxuriantă lângă portul Tartus, cu o varietate de specii de plante tropicale.",
+                  "category": "landmark",
+                  "coords": [
+                        35.895501,
+                        34.938302
+                  ]
+            },
+            {
+                  "name": "Mansour Mosque",
+                  "text": "O moschee centrală din Tartus, care este un loc de întâlnire important pentru rugăciunile zilnice ale locuitorilor orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.877339,
+                        34.897692
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tropical Forest tartous",
+                  "text": "A lush recreational area near the port of Tartus featuring a variety of tropical plant species.",
+                  "category": "landmark",
+                  "coords": [
+                        35.895501,
+                        34.938302
+                  ]
+            },
+            {
+                  "name": "Mansour Mosque",
+                  "text": "A central mosque in Tartus that serves as a key gathering place for the daily prayers of city residents.",
+                  "category": "landmark",
+                  "coords": [
+                        35.877339,
+                        34.897692
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "SY-TA",
     coords: [35.87, 34.90],
@@ -183,7 +759,160 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     },
   },
   {
-    id: "tishrin-dam-hydroelectric-plant-economic-v2",
+    id: "tishrin-dam-hydroelectric-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "El-Qitar",
+                  "text": "El-Qitar ist eine antike archäologische Stätte mit den Überresten einer befestigten Bergsiedlung am Euphrat. Besucher können die steinernen Verteidigungsstrukturen beobachten, die einst dieses strategische Hochland bewachten.",
+                  "category": "historical",
+                  "coords": [
+                        38.180687,
+                        36.384037
+                  ]
+            },
+            {
+                  "name": "Acropolis Palace",
+                  "text": "Der Akropolis-Palast besteht aus ausgegrabenen antiken Fundamenten, die einst als administratives Herzstück der Hochlandsiedlung dienten. Diese archäologischen Ruinen offenbaren den Grundriss einer großartigen historischen Residenz in der Nähe des Euphrat.",
+                  "category": "historical",
+                  "coords": [
+                        38.174177,
+                        36.354306
+                  ]
+            },
+            {
+                  "name": "Jebel Khalid",
+                  "text": "Jebel Khalid ist die archäologische Stätte einer antiken hellenistischen Siedlung, die strategisch günstig auf einer steilen Kalksteinklippe über dem Euphrat liegt. Ihre ausgedehnten Ruinen umfassen die Überreste einer Verteidigungsmauer und eines Gouverneurspalastes.",
+                  "category": "historical",
+                  "coords": [
+                        38.174428,
+                        36.35807
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Diese antike Tempelruine verfügt über ausgegrabene Steinfundamente, die auf ihre Rolle als wichtiges religiöses Heiligtum für die historische Berggemeinde hinweisen. Die archäologische Stätte gibt Einblicke in die spirituellen Praktiken in der Nähe des Euphrat.",
+                  "category": "historical",
+                  "coords": [
+                        38.173723,
+                        36.356909
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "El-Qitar",
+                  "text": "El-Qitar egy ősi régészeti lelőhely, amely egy erődített hegyi település maradványait rejt a vizében az Eufrátesz folyó mentén. A látogatók megfigyelhetik a védelmi kőszerkezeteket, amelyek egykor ezt a stratégiai magaslatot őrizték.",
+                  "category": "historical",
+                  "coords": [
+                        38.180687,
+                        36.384037
+                  ]
+            },
+            {
+                  "name": "Acropolis Palace",
+                  "text": "Az Akropolisz-palota feltárt ősi alapokból áll, amelyek egykor a magaslati település közigazgatási központjaként működtek. Ezek a régészeti romok egy nagyszerű történelmi rezidencia alaprajzát tárják fel az Eufrátesz közelében.",
+                  "category": "historical",
+                  "coords": [
+                        38.174177,
+                        36.354306
+                  ]
+            },
+            {
+                  "name": "Jebel Khalid",
+                  "text": "Dzsebel Hálid egy ősi hellenisztikus település régészeti lelőhelye, amely stratégiai helyen, az Eufrátesz folyó feletti meredek mészkősziklán található. Kiterjedt romjai között van egy védőfal és egy kormányzói palota maradványa is.",
+                  "category": "historical",
+                  "coords": [
+                        38.174428,
+                        36.35807
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Ez az ősi templomrom feltárt kőalapokkal rendelkezik, amelyek arra utalnak, hogy a történelmi hegyoldali közösség kulcsfontosságú vallási szentélye volt. A régészeti lelőhely bepillantást enged az Eufrátesz folyó közelében folyó spirituális gyakorlatokba.",
+                  "category": "historical",
+                  "coords": [
+                        38.173723,
+                        36.356909
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "El-Qitar",
+                  "text": "El-Qitar este un sit arheologic antic, care prezintă rămășițele unei așezări montane fortificate de-a lungul râului Eufrat. Vizitatorii pot observa structurile defensive din piatră care păzeau odată acest teren înalt și strategic.",
+                  "category": "historical",
+                  "coords": [
+                        38.180687,
+                        36.384037
+                  ]
+            },
+            {
+                  "name": "Acropolis Palace",
+                  "text": "Palatul Acropolei constă din fundații antice excavate, care au funcționat odată ca inimă administrativă a așezării de pe terenul înalt. Aceste ruine arheologice dezvăluie planul unei grandioase reședințe istorice din apropierea Eufratului.",
+                  "category": "historical",
+                  "coords": [
+                        38.174177,
+                        36.354306
+                  ]
+            },
+            {
+                  "name": "Jebel Khalid",
+                  "text": "Jebel Khalid este situl arheologic al unei vechi așezări elenistice, poziționat strategic pe o faleză abruptă de calcar deasupra râului Eufrat. Ruinele sale extinse includ rămășițele unui zid de apărare și ale unui palat al guvernatorului.",
+                  "category": "historical",
+                  "coords": [
+                        38.174428,
+                        36.35807
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Această ruină a unui templu antic prezintă fundații de piatră excavate care indică rolul său de sanctuar religios cheie pentru comunitatea istorică de pe deal. Situl arheologic oferă o perspectivă asupra practicilor spirituale din apropierea râului Eufrat.",
+                  "category": "historical",
+                  "coords": [
+                        38.173723,
+                        36.356909
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "El-Qitar",
+                  "text": "El-Qitar is an ancient archaeological site featuring the remains of a fortified mountain settlement along the Euphrates River. Visitors can observe the defensive stone structures that once guarded this strategic high ground.",
+                  "category": "historical",
+                  "coords": [
+                        38.180687,
+                        36.384037
+                  ]
+            },
+            {
+                  "name": "Acropolis Palace",
+                  "text": "The Acropolis Palace consists of excavated ancient foundations that once functioned as the administrative heart of the high-ground settlement. These archaeological ruins reveal the ground plan of a grand historical residence near the Euphrates.",
+                  "category": "historical",
+                  "coords": [
+                        38.174177,
+                        36.354306
+                  ]
+            },
+            {
+                  "name": "Jebel Khalid",
+                  "text": "Jebel Khalid is the archaeological site of an ancient Hellenistic settlement strategically positioned on a steep limestone bluff above the Euphrates River. Its extensive ruins include the remains of a defensive wall and a governor's palace.",
+                  "category": "historical",
+                  "coords": [
+                        38.174428,
+                        36.35807
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "This ancient temple ruin features excavated stone foundations that indicate its role as a key religious sanctuary for the historic hillside community. The archaeological site provides insight into the spiritual practices near the Euphrates River.",
+                  "category": "historical",
+                  "coords": [
+                        38.173723,
+                        36.356909
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "SY-HL",
     coords: [38.18, 36.38],
@@ -219,7 +948,160 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     },
   },
   {
-    id: "baath-dam-economic-v2",
+    id: "baath-dam-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tall Sudayyin",
+                  "text": "Ein Hügel, der sich in der Nähe des Euphrat flussabwärts des Baath-Damms erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        38.733333,
+                        35.833333
+                  ]
+            },
+            {
+                  "name": "Tall Ballanah",
+                  "text": "Ein markanter Hügel in der Flusslandschaft nahe der bedeutenden Stauanlage.",
+                  "category": "natural",
+                  "coords": [
+                        38.732501,
+                        35.905918
+                  ]
+            },
+            {
+                  "name": "Jabal Sharat al Hajar",
+                  "text": "Eine felsige Höhe im kargen Gelände mit Blick auf das Euphrattal.",
+                  "category": "natural",
+                  "coords": [
+                        38.683333,
+                        35.9
+                  ]
+            },
+            {
+                  "name": "Souriya",
+                  "text": "Antike Ruinen im fruchtbaren Tal nahe dem Lauf des Euphrat.",
+                  "category": "historical",
+                  "coords": [
+                        38.778832,
+                        35.897076
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tall Sudayyin",
+                  "text": "Az Eufrátesz közelében, a Baath-gáttól lejjebb magasodó domb.",
+                  "category": "natural",
+                  "coords": [
+                        38.733333,
+                        35.833333
+                  ]
+            },
+            {
+                  "name": "Tall Ballanah",
+                  "text": "Jellegzetes halom a folyóvölgyben, a jelentős gát közelében.",
+                  "category": "natural",
+                  "coords": [
+                        38.732501,
+                        35.905918
+                  ]
+            },
+            {
+                  "name": "Jabal Sharat al Hajar",
+                  "text": "Sziklás magaslat a kopár vidéken, kilátással az Eufrátesz völgyére.",
+                  "category": "natural",
+                  "coords": [
+                        38.683333,
+                        35.9
+                  ]
+            },
+            {
+                  "name": "Souriya",
+                  "text": "Ókori romok a termékeny völgyben, az Eufrátesz folyása közelében.",
+                  "category": "historical",
+                  "coords": [
+                        38.778832,
+                        35.897076
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tall Sudayyin",
+                  "text": "Un deal care se ridică lângă Eufrat, în aval de Barajul Baath.",
+                  "category": "natural",
+                  "coords": [
+                        38.733333,
+                        35.833333
+                  ]
+            },
+            {
+                  "name": "Tall Ballanah",
+                  "text": "O movilă proeminentă în peisajul văii râului, aproape de barajul important.",
+                  "category": "natural",
+                  "coords": [
+                        38.732501,
+                        35.905918
+                  ]
+            },
+            {
+                  "name": "Jabal Sharat al Hajar",
+                  "text": "O înălțime stâncoasă în terenul arid, cu vedere spre valea Eufratului.",
+                  "category": "natural",
+                  "coords": [
+                        38.683333,
+                        35.9
+                  ]
+            },
+            {
+                  "name": "Souriya",
+                  "text": "Ruine antice în valea fertilă din apropierea cursului Eufratului.",
+                  "category": "historical",
+                  "coords": [
+                        38.778832,
+                        35.897076
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tall Sudayyin",
+                  "text": "A hill rising near the Euphrates downstream from the Baath Dam.",
+                  "category": "natural",
+                  "coords": [
+                        38.733333,
+                        35.833333
+                  ]
+            },
+            {
+                  "name": "Tall Ballanah",
+                  "text": "A prominent mound in the river valley landscape near the significant dam.",
+                  "category": "natural",
+                  "coords": [
+                        38.732501,
+                        35.905918
+                  ]
+            },
+            {
+                  "name": "Jabal Sharat al Hajar",
+                  "text": "A rocky height in the arid terrain overlooking the Euphrates valley.",
+                  "category": "natural",
+                  "coords": [
+                        38.683333,
+                        35.9
+                  ]
+            },
+            {
+                  "name": "Souriya",
+                  "text": "Ancient ruins in the fertile valley near the course of the Euphrates.",
+                  "category": "historical",
+                  "coords": [
+                        38.778832,
+                        35.897076
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "SY-RA",
     coords: [38.74, 35.86],
@@ -255,7 +1137,52 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     },
   },
   {
-    id: "omar-oil-field-economic-v2",
+    id: "omar-oil-field-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tell Qraya",
+                  "text": "Ein antiker Siedlungshügel am Euphrat mit bedeutenden prähistorischen Funden.",
+                  "category": "historical",
+                  "coords": [
+                        40.540267,
+                        34.969448
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tell Qraya",
+                  "text": "Ókori településhalom az Eufrátesz mentén, jelentős őskori leletekkel.",
+                  "category": "historical",
+                  "coords": [
+                        40.540267,
+                        34.969448
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tell Qraya",
+                  "text": "O movilă de așezare antică pe malul Eufratului, cu descoperiri preistorice semnificative.",
+                  "category": "historical",
+                  "coords": [
+                        40.540267,
+                        34.969448
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tell Qraya",
+                  "text": "An ancient settlement mound on the Euphrates with significant prehistoric finds.",
+                  "category": "historical",
+                  "coords": [
+                        40.540267,
+                        34.969448
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "SY-DY",
     coords: [40.58, 35.03],
@@ -435,7 +1362,268 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     },
   },
   {
-    id: "adra-industrial-city-economic-v2",
+    id: "adra-industrial-city-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qubbat `Amiri",
+                  "text": "Ein markanter islamischer Schrein mit Kuppel, der sich innerhalb der wachsenden Industriestadt Adra befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        36.416667,
+                        33.583333
+                  ]
+            },
+            {
+                  "name": "Qayoom Mosque",
+                  "text": "Eine eigens errichtete Moschee, die den Arbeitern im Industriegebiet von Adra einen täglichen Raum zum Beten bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        36.429669,
+                        33.650397
+                  ]
+            },
+            {
+                  "name": "Al-Afrm Mosque",
+                  "text": "Eine aktive lokale Moschee, die der wachsenden Industrie- und Wohngemeinde in Adra dient.",
+                  "category": "landmark",
+                  "coords": [
+                        36.435683,
+                        33.649993
+                  ]
+            },
+            {
+                  "name": "New Hafir Al Tahta Mosque",
+                  "text": "Ein relativ neues islamisches Gebäude, das religiöse Zusammenkünfte in der Nähe des Industriezentrums von Adra ermöglicht.",
+                  "category": "landmark",
+                  "coords": [
+                        36.441234,
+                        33.648113
+                  ]
+            },
+            {
+                  "name": "Al-Farooq Mosque",
+                  "text": "Eine zentral gelegene Moschee, in der sich lokale Arbeiter und Anwohner zum Freitagsgebet in Adra versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        36.437511,
+                        33.649694
+                  ]
+            },
+            {
+                  "name": "Al-Ansar Mosque",
+                  "text": "Eine moderne Gemeindemoschee, die religiöse Dienste inmitten der Fabriken der Industriestadt Adra anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        36.511896,
+                        33.639075
+                  ]
+            },
+            {
+                  "name": "Al-Tawheed Mosque",
+                  "text": "Ein lokaler islamischer Gebetsort mit einem markanten Minarett im Gebiet von Adra.",
+                  "category": "landmark",
+                  "coords": [
+                        36.513093,
+                        33.634448
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qubbat `Amiri",
+                  "text": "Egy jellegzetes kupolás iszlám szentély, amely a növekvő Adra iparváros területén található.",
+                  "category": "landmark",
+                  "coords": [
+                        36.416667,
+                        33.583333
+                  ]
+            },
+            {
+                  "name": "Qayoom Mosque",
+                  "text": "Egy célzottan épített mecset, amely napi imádkozási helyet biztosít az adrai ipari övezet munkásainak.",
+                  "category": "landmark",
+                  "coords": [
+                        36.429669,
+                        33.650397
+                  ]
+            },
+            {
+                  "name": "Al-Afrm Mosque",
+                  "text": "Egy aktív helyi mecset, amely a növekvő ipari és lakóövezeti közösséget szolgálja ki Adrában.",
+                  "category": "landmark",
+                  "coords": [
+                        36.435683,
+                        33.649993
+                  ]
+            },
+            {
+                  "name": "New Hafir Al Tahta Mosque",
+                  "text": "Egy viszonylag új iszlám épület, amely vallási összejöveteleket tesz lehetővé Adra ipari központja közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        36.441234,
+                        33.648113
+                  ]
+            },
+            {
+                  "name": "Al-Farooq Mosque",
+                  "text": "Egy központi elhelyezkedésű mecset, ahol a helyi munkások és lakosok gyűlnek össze a pénteki imára Adrában.",
+                  "category": "landmark",
+                  "coords": [
+                        36.437511,
+                        33.649694
+                  ]
+            },
+            {
+                  "name": "Al-Ansar Mosque",
+                  "text": "Egy modern közösségi mecset, amely vallási szolgáltatásokat kínál az adrai iparváros gyárai között.",
+                  "category": "landmark",
+                  "coords": [
+                        36.511896,
+                        33.639075
+                  ]
+            },
+            {
+                  "name": "Al-Tawheed Mosque",
+                  "text": "Egy helyi iszlám imahely kiemelkedő minarettel Adra térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        36.513093,
+                        33.634448
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qubbat `Amiri",
+                  "text": "Un altar islamic cu o cupolă distinctivă, situat în zona industrială în expansiune din Adra.",
+                  "category": "landmark",
+                  "coords": [
+                        36.416667,
+                        33.583333
+                  ]
+            },
+            {
+                  "name": "Qayoom Mosque",
+                  "text": "O moschee construită special pentru a oferi un spațiu zilnic de rugăciune muncitorilor din zona industrială Adra.",
+                  "category": "landmark",
+                  "coords": [
+                        36.429669,
+                        33.650397
+                  ]
+            },
+            {
+                  "name": "Al-Afrm Mosque",
+                  "text": "O moschee locală activă care deservește comunitatea industrială și rezidențială în creștere din Adra.",
+                  "category": "landmark",
+                  "coords": [
+                        36.435683,
+                        33.649993
+                  ]
+            },
+            {
+                  "name": "New Hafir Al Tahta Mosque",
+                  "text": "O clădire islamică relativ recentă care facilitează adunările religioase în apropierea centrului industrial din Adra.",
+                  "category": "landmark",
+                  "coords": [
+                        36.441234,
+                        33.648113
+                  ]
+            },
+            {
+                  "name": "Al-Farooq Mosque",
+                  "text": "O moschee situată central, unde muncitorii și locuitorii locali se adună pentru rugăciunile de vineri în Adra.",
+                  "category": "landmark",
+                  "coords": [
+                        36.437511,
+                        33.649694
+                  ]
+            },
+            {
+                  "name": "Al-Ansar Mosque",
+                  "text": "O moschee comunitară modernă, care oferă servicii religioase printre fabricile din zona industrială Adra.",
+                  "category": "landmark",
+                  "coords": [
+                        36.511896,
+                        33.639075
+                  ]
+            },
+            {
+                  "name": "Al-Tawheed Mosque",
+                  "text": "Un lăcaș de cult islamic local, cu un minaret proeminent în zona Adra.",
+                  "category": "landmark",
+                  "coords": [
+                        36.513093,
+                        33.634448
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qubbat `Amiri",
+                  "text": "A distinctively domed Islamic shrine situated within the expanding Adra Industrial City.",
+                  "category": "landmark",
+                  "coords": [
+                        36.416667,
+                        33.583333
+                  ]
+            },
+            {
+                  "name": "Qayoom Mosque",
+                  "text": "A purpose-built mosque providing a daily space for prayer for workers in the Adra Industrial zone.",
+                  "category": "landmark",
+                  "coords": [
+                        36.429669,
+                        33.650397
+                  ]
+            },
+            {
+                  "name": "Al-Afrm Mosque",
+                  "text": "An active local mosque serving the growing industrial and residential community in Adra.",
+                  "category": "landmark",
+                  "coords": [
+                        36.435683,
+                        33.649993
+                  ]
+            },
+            {
+                  "name": "New Hafir Al Tahta Mosque",
+                  "text": "A relatively recent Islamic building facilitating religious gatherings near the industrial hub of Adra.",
+                  "category": "landmark",
+                  "coords": [
+                        36.441234,
+                        33.648113
+                  ]
+            },
+            {
+                  "name": "Al-Farooq Mosque",
+                  "text": "A centrally located mosque where local laborers and residents gather for Friday prayers in Adra.",
+                  "category": "landmark",
+                  "coords": [
+                        36.437511,
+                        33.649694
+                  ]
+            },
+            {
+                  "name": "Al-Ansar Mosque",
+                  "text": "A modern community mosque offering religious services amidst the factories of Adra Industrial City.",
+                  "category": "landmark",
+                  "coords": [
+                        36.511896,
+                        33.639075
+                  ]
+            },
+            {
+                  "name": "Al-Tawheed Mosque",
+                  "text": "A local place of Islamic worship with a prominent minaret in the Adra area.",
+                  "category": "landmark",
+                  "coords": [
+                        36.513093,
+                        33.634448
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "SY-RD",
     coords: [36.50, 33.62],
@@ -471,7 +1659,196 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     },
   },
   {
-    id: "sheikh-najjar-industrial-city-economic-v2",
+    id: "sheikh-najjar-industrial-city-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Zurzur",
+                  "text": "Dieser markante Gipfel bietet einen weiten Blick über die Industrielandschaft von Sheikh Najjar.",
+                  "category": "natural",
+                  "coords": [
+                        37.266667,
+                        36.233333
+                  ]
+            },
+            {
+                  "name": "Unhcr warehouse",
+                  "text": "Ein bedeutendes humanitäres Logistikzentrum innerhalb der Industriezone von Sheikh Najjar.",
+                  "category": "religious",
+                  "coords": [
+                        37.234282,
+                        36.255826
+                  ]
+            },
+            {
+                  "name": "Al Taqwa Mosque",
+                  "text": "Diese moderne Moschee dient als geistliches Zentrum für die Arbeiter und Anwohner der Industriestadt.",
+                  "category": "landmark",
+                  "coords": [
+                        37.296918,
+                        36.19916
+                  ]
+            },
+            {
+                  "name": "Al Hadaya Mosque",
+                  "text": "Ein muslimisches Bethaus in Sheikh Najjar, das sich durch seine schlichte Industriearchitektur auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        37.286294,
+                        36.195731
+                  ]
+            },
+            {
+                  "name": "Friday market",
+                  "text": "Ein geschäftiger wöchentlicher Basar, der für frische lokale Produkte und Haushaltswaren bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        37.195054,
+                        36.258228
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Zurzur",
+                  "text": "Ez a jellegzetes csúcs széles kilátást nyújt Sheikh Najjar ipari tájára.",
+                  "category": "natural",
+                  "coords": [
+                        37.266667,
+                        36.233333
+                  ]
+            },
+            {
+                  "name": "Unhcr warehouse",
+                  "text": "Jelentős humanitárius logisztikai központ a Sheikh Najjar ipari övezeten belül.",
+                  "category": "religious",
+                  "coords": [
+                        37.234282,
+                        36.255826
+                  ]
+            },
+            {
+                  "name": "Al Taqwa Mosque",
+                  "text": "Ez a modern mecset az iparváros munkásai és lakói szellemi központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        37.296918,
+                        36.19916
+                  ]
+            },
+            {
+                  "name": "Al Hadaya Mosque",
+                  "text": "Sheikh Najjar-i muszlim imaház, amelyet egyszerű ipari építészete jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        37.286294,
+                        36.195731
+                  ]
+            },
+            {
+                  "name": "Friday market",
+                  "text": "Nyüzsgő heti bazár, amely friss helyi termékeiről és háztartási cikkeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        37.195054,
+                        36.258228
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Zurzur",
+                  "text": "Acest vârf proeminent oferă o vedere largă asupra peisajului industrial din Sheikh Najjar.",
+                  "category": "natural",
+                  "coords": [
+                        37.266667,
+                        36.233333
+                  ]
+            },
+            {
+                  "name": "Unhcr warehouse",
+                  "text": "Un centru logistic umanitar important în cadrul zonei industriale Sheikh Najjar.",
+                  "category": "religious",
+                  "coords": [
+                        37.234282,
+                        36.255826
+                  ]
+            },
+            {
+                  "name": "Al Taqwa Mosque",
+                  "text": "Această moschee modernă servește drept centru spiritual pentru lucrătorii și rezidenții orașului industrial.",
+                  "category": "landmark",
+                  "coords": [
+                        37.296918,
+                        36.19916
+                  ]
+            },
+            {
+                  "name": "Al Hadaya Mosque",
+                  "text": "O casă de rugăciune musulmană din Sheikh Najjar, caracterizată prin arhitectura sa industrială simplă.",
+                  "category": "landmark",
+                  "coords": [
+                        37.286294,
+                        36.195731
+                  ]
+            },
+            {
+                  "name": "Friday market",
+                  "text": "Un bazar săptămânal plin de viață, cunoscut pentru produsele locale proaspete și articolele de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        37.195054,
+                        36.258228
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Zurzur",
+                  "text": "This prominent peak offers a wide view over the Sheikh Najjar industrial landscape.",
+                  "category": "natural",
+                  "coords": [
+                        37.266667,
+                        36.233333
+                  ]
+            },
+            {
+                  "name": "Unhcr warehouse",
+                  "text": "A significant humanitarian logistics center located within the Sheikh Najjar industrial zone.",
+                  "category": "religious",
+                  "coords": [
+                        37.234282,
+                        36.255826
+                  ]
+            },
+            {
+                  "name": "Al Taqwa Mosque",
+                  "text": "This modern mosque serves as a spiritual center for the industrial city's workers and residents.",
+                  "category": "landmark",
+                  "coords": [
+                        37.296918,
+                        36.19916
+                  ]
+            },
+            {
+                  "name": "Al Hadaya Mosque",
+                  "text": "A Muslim prayer house in Sheikh Najjar, characterized by its simple industrial architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        37.286294,
+                        36.195731
+                  ]
+            },
+            {
+                  "name": "Friday market",
+                  "text": "A bustling weekly bazaar known for fresh local produce and household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        37.195054,
+                        36.258228
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "SY-HL",
     coords: [37.25, 36.28],
@@ -507,7 +1884,52 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     },
   },
   {
-    id: "hassia-industrial-city-economic-v2",
+    id: "hassia-industrial-city-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wadi as Sabiye;Khirbat al Marah",
+                  "text": "Ruinen einer antiken Siedlung in den semiariden Ebenen unweit des Industriegebiets von Hassia.",
+                  "category": "historical",
+                  "coords": [
+                        36.7,
+                        34.51671
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wadi as Sabiye;Khirbat al Marah",
+                  "text": "Egy ősi település romjai a félsivatagi síkságon, Hassia ipari negyedének közelében.",
+                  "category": "historical",
+                  "coords": [
+                        36.7,
+                        34.51671
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wadi as Sabiye;Khirbat al Marah",
+                  "text": "Ruinele unei așezări antice în câmpiile semiaride, situate nu departe de zona industrială Hassia.",
+                  "category": "historical",
+                  "coords": [
+                        36.7,
+                        34.51671
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wadi as Sabiye;Khirbat al Marah",
+                  "text": "Ruins of an ancient settlement in the semi-arid plains, located near the Hassia industrial area.",
+                  "category": "historical",
+                  "coords": [
+                        36.7,
+                        34.51671
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "SY-HO",
     coords: [36.72, 34.45],
@@ -579,7 +2001,52 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     },
   },
   {
-    id: "jbissa-gas-field-economic-v2",
+    id: "jbissa-gas-field-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tell Shaddada",
+                  "text": "Ein antiker Siedlungshügel am Chabur-Fluss, der Zeugnis von der langen Siedlungsgeschichte Ostsyriens ablegt.",
+                  "category": "historical",
+                  "coords": [
+                        40.748981,
+                        36.037508
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tell Shaddada",
+                  "text": "Egy ókori településhalom a Hábúr-folyónál, amely Kelet-Szíria hosszú településtörténetéről tanúskodik.",
+                  "category": "historical",
+                  "coords": [
+                        40.748981,
+                        36.037508
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tell Shaddada",
+                  "text": "O movilă de așezare antică de pe râul Khabur, care atestă istoria lungă de locuire a Siriei de Est.",
+                  "category": "historical",
+                  "coords": [
+                        40.748981,
+                        36.037508
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tell Shaddada",
+                  "text": "An ancient settlement mound by the Khabur River, witnessing the long history of habitation in eastern Syria.",
+                  "category": "historical",
+                  "coords": [
+                        40.748981,
+                        36.037508
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "SY-HI",
     coords: [40.67, 36.08],
@@ -651,7 +2118,52 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     },
   },
   {
-    id: "rumeilan-oil-field-economic-v2",
+    id: "rumeilan-oil-field-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mezgevte Girkê Legê ya kevn",
+                  "text": "Diese ältere traditionelle muslimische Moschee dient als zentrale spirituelle Säule für die Gemeinde in der Ölfeldregion Rumeilan.",
+                  "category": "landmark",
+                  "coords": [
+                        41.963664,
+                        37.021609
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mezgevte Girkê Legê ya kevn",
+                  "text": "Ez a régebbi hagyományos muszlim mecset a Rumeilan olajmező régió közösségének központi spirituális pilléreként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        41.963664,
+                        37.021609
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mezgevte Girkê Legê ya kevn",
+                  "text": "Această moschee musulmană tradițională mai veche servește ca un pilon spiritual central pentru comunitatea din regiunea zăcământului petrolier Rumeilan.",
+                  "category": "landmark",
+                  "coords": [
+                        41.963664,
+                        37.021609
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mezgevte Girkê Legê ya kevn",
+                  "text": "This older traditional Muslim mosque serves as a central spiritual pillar for the community in the Rumeilan oil field region.",
+                  "category": "landmark",
+                  "coords": [
+                        41.963664,
+                        37.021609
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "SY-HI",
     coords: [41.97, 36.99],
@@ -687,7 +2199,124 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     },
   },
   {
-    id: "zara-power-plant-economic-v2",
+    id: "zara-power-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khirbat Gharghub",
+                  "text": "Historische Siedlungsruinen im Tal des Orontes, geprägt von ihrer Lage am Flusslauf.",
+                  "category": "historical",
+                  "coords": [
+                        36.766685,
+                        34.85003
+                  ]
+            },
+            {
+                  "name": "Al Hajariyah",
+                  "text": "Eine traditionelle Windmühle in der Ebene von Hama, Zeugnis alter landwirtschaftlicher Technik.",
+                  "category": "landmark",
+                  "coords": [
+                        36.85,
+                        34.833333
+                  ]
+            },
+            {
+                  "name": "Royal Palace of Qatna",
+                  "text": "Überreste eines gewaltigen bronzezeitlichen Palastes mit gut erhaltenen Steinorthostaten.",
+                  "category": "historical",
+                  "coords": [
+                        36.863845,
+                        34.83556
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khirbat Gharghub",
+                  "text": "Történelmi településromok az Orontész völgyében, a folyó menti elhelyezkedésük határozza meg.",
+                  "category": "historical",
+                  "coords": [
+                        36.766685,
+                        34.85003
+                  ]
+            },
+            {
+                  "name": "Al Hajariyah",
+                  "text": "Hagyományos szélmalom Hama síkságán, amely a régi mezőgazdasági technika emléke.",
+                  "category": "landmark",
+                  "coords": [
+                        36.85,
+                        34.833333
+                  ]
+            },
+            {
+                  "name": "Royal Palace of Qatna",
+                  "text": "Egy hatalmas bronzkori palota maradványai jól megőrzött kőortosztátokkal.",
+                  "category": "historical",
+                  "coords": [
+                        36.863845,
+                        34.83556
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khirbat Gharghub",
+                  "text": "Ruinele unei așezări istorice în valea râului Orontes, marcate de amplasarea lor de-a lungul cursului apei.",
+                  "category": "historical",
+                  "coords": [
+                        36.766685,
+                        34.85003
+                  ]
+            },
+            {
+                  "name": "Al Hajariyah",
+                  "text": "O moară de vânt tradițională în câmpia Hama, mărturie a vechii tehnologii agricole.",
+                  "category": "landmark",
+                  "coords": [
+                        36.85,
+                        34.833333
+                  ]
+            },
+            {
+                  "name": "Royal Palace of Qatna",
+                  "text": "Vestigiile unui palat masiv din epoca bronzului, cu ortostate din piatră bine conservate.",
+                  "category": "historical",
+                  "coords": [
+                        36.863845,
+                        34.83556
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khirbat Gharghub",
+                  "text": "Historical settlement ruins in the Orontes valley, characterized by their location along the river.",
+                  "category": "historical",
+                  "coords": [
+                        36.766685,
+                        34.85003
+                  ]
+            },
+            {
+                  "name": "Al Hajariyah",
+                  "text": "A traditional windmill in the Hama plains, a testament to old agricultural technology.",
+                  "category": "landmark",
+                  "coords": [
+                        36.85,
+                        34.833333
+                  ]
+            },
+            {
+                  "name": "Royal Palace of Qatna",
+                  "text": "Remains of a massive Bronze Age palace featuring well-preserved stone orthostats.",
+                  "category": "historical",
+                  "coords": [
+                        36.863845,
+                        34.83556
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "SY-HA",
     coords: [36.80, 34.90],
